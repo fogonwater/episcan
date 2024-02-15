@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2024-02-14 19:05
-- **Most recent article:** 2024-02-13 19:01:29
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-02-15 07:05
+- **Most recent article:** 2024-02-14 07:00:39
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 62 | 726 |
-| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 9 | 274 |
-| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 3 | 238 |
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 75 | 739 |
+| measles | 1 | 8 | 25 | 61 | 56 | 47 | 68 | 14 | 280 |
+| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 35 | 5 | 241 |
 | zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 1 | 52 |
-| rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 4 | 40 |
-| chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 0 | 40 |
+| chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 1 | 41 |
+| rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 5 | 41 |
 | meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 2 | 33 |
 | mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 2 | 26 |
 | pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 0 | 19 |
 | sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 1 | 13 |
 | yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 1 | 7 |
 | typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 0 | 7 |
-| leptospirosis | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 4 |
+| leptospirosis | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 1 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -44,6 +44,8 @@ Source: [News API](https://newsapi.org/)
 - [Aumenta el sarampión y no sé si estoy vacunado: ¿Qué debo hacer?](https://www.elmundo.es/ciencia-y-salud/salud/2024/02/11/65c5ffafe9cf4a59128b45be.html) (El Mundo)
 
 ## 24-7 (rabies)
+
+- [Hiker kills rabid coyote with bare hands in Rhode Island](https://www.cbsnews.com/news/rhode-island-hiker-kills-rabid-coyote-with-bare-hands/) (CBS News)
 
 - [Rhode Island hiker gets bitten by coyote before killing it with his bare hands, tests reveal animal had rabies](https://www.foxnews.com/us/rhode-island-hiker-bitten-coyote-before-killing-with-bare-hands-tests-reveal-animal-rabies) (Fox News)
 
@@ -67,6 +69,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (measles)
 
+- [Health Ministry calls on Israelis to get vaccinated as measles cases surge](https://www.ynetnews.com/health_science/article/rjchvwfip) (Ynetnews)
+
+- [Minnesota Department of Health confirms two measles cases](https://www.mprnews.org/story/2024/02/13/minnesota-department-of-health-confirms-two-measles-cases) (Minnesota Public Radio News)
+
+- [Peel Public Health releases list of locations where residents may have been exposed to measles](https://www.cp24.com/news/peel-public-health-investigating-case-of-measles-in-child-who-recently-travelled-abroad-1.6767634) (CP24 Toronto's Breaking News)
+
+- [Health officials warning about measles as cases reported across US](https://www.wbrc.com/2024/02/13/health-officials-warning-about-measles-cases-reported-across-us/) (WBRC)
+
+- [Israel reports 4 new measles cases](https://www.thestar.com.my/news/world/2024/02/14/israel-reports-4-new-measles-cases) (The Star Online)
+
 - [As measles cases surge overseas, health official says N.L.'s high vaccine rate is in our favour](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-measles-vaccine-1.7113247) (CBC News)
 
 - [N.B. keeps watch for measles, urges vaccines, as European cases surge](https://www.cbc.ca/news/canada/new-brunswick/measles-new-brunswick-vaccine-school-students-europe-1.7109037) (CBC News)
@@ -87,13 +99,37 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (malaria)
 
+- [Researchers discover that blocking an essential nutrient inhibits malaria parasite growth](https://phys.org/news/2024-02-blocking-essential-nutrient-inhibits-malaria.html) (Phys.Org)
+
+- [Blocking an essential nutrient inhibits malaria parasite growth](https://www.sciencedaily.com/releases/2024/02/240213163411.htm) (Science Daily)
+
 - [Atenţionare de călătorie a MAE: Menţinerea pericolului de îmbolnăvire cu „malaria de import”](https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197) (Mediafax.ro)
 
 - [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
 
 - [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
+## 24-7 (leptospirosis)
+
+- [Leptospirosis: estigma sobre esta enfermedad puede retrasar su diagnóstico](https://www.eluniversal.com.co/salud/leptospirosis-estigma-sobre-esta-enfermedad-puede-retrasar-su-diagnostico-XN9960642) (Eluniversal.com.co)
+
 ## 24-7 (dengue)
+
+- [Controlli Dengue alle frontiere, allerta anche in Italia. Dopo il Brasile l’emergenza di estende all’Argentina](https://www.ilsole24ore.com/art/controlli-dengue-frontiere-allerta-anche-italia-il-brasile-l-emergenza-estende-all-argentina-AFVnwCiC) (Il Sole 24 Ore)
+
+- [Vacina contra dengue fica disponível em 63 endereços nesta quarta (14)](https://www.metropoles.com/distrito-federal/vacina-contra-dengue-fica-disponivel-em-63-enderecos-nesta-quarta-14) (Metropoles.com)
+
+- [Hospital de Campanha atende 7 mil com suspeita de dengue no Carnaval](https://www.metropoles.com/distrito-federal/hospital-de-campanha-atende-7-mil-com-suspeita-de-dengue-no-carnaval) (Metropoles.com)
+
+- [Em pouco mais de 1 mês, GDF recebe 3.409 denúncias de focos de dengue](https://www.metropoles.com/distrito-federal/em-pouco-mais-de-1-mes-gdf-recebe-3-409-denuncias-de-focos-de-dengue) (Metropoles.com)
+
+- [NO COMMENT : le Brésil confronté à une épidémie de dengue sans précédent](https://fr.euronews.com/video/2024/02/13/no-comment-le-bresil-confronte-a-une-epidemie-de-dengue-sans-precedent) (Euronews)
+
+- [Política, Palestina, Covid e dengue são pautas no Pacotão de 2024](https://www.metropoles.com/distrito-federal/politica-palestina-covid-e-dengue-sao-pautas-no-pacotao-de-2024) (Metropoles.com)
+
+- [Jornalistas da GloboNews surpreendem com trajes de Carnaval no estúdio](https://noticias.r7.com/brasil/revista-oeste/jornalistas-da-globonews-surpreendem-com-trajes-de-carnaval-no-estudio-13022024) (R7.com)
+
+- [Unimed descredencia 37 hospitais pelo país em meio a surto de dengue](https://www.metropoles.com/brasil/unimed-descredencia-37-hospitais-pelo-pais-em-meio-a-surto-de-dengue) (Metropoles.com)
 
 - [Alta de dengue e Covid deve sobrecarregar serviços de saúde; gestores planejam aumento de equipes](https://jornaldebrasilia.com.br/noticias/brasil/alta-de-dengue-e-covid-deve-sobrecarregar-servicos-de-saude-gestores-planejam-aumento-de-equipes/) (Jornaldebrasilia.com.br)
 
@@ -115,9 +151,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Brasil supera el medio millón de casos de dengue en lo que va de año](https://www.montevideo.com.uy/Salud/Brasil-supera-el-medio-millon-de-casos-de-dengue-en-lo-que-va-de-ano-uc879556) (Montevideo.com.uy)
 
+- [What's behind Brazil's surge in dengue fever?](https://www.france24.com/en/video/20240213-what-s-behind-brazil-s-surge-in-dengue-fever) (FRANCE 24 English)
+
+- [Dengue: Brasil registrou 75 mortes e mais de 500 mil casos em 2024](https://www.terra.com.br/vida-e-estilo/saude/dengue-brasil-registrou-75-mortes-e-mais-de-500-mil-casos-em-2024,95de31ca12e791324147cfb95a1d4f3f3afspcq1.html) (Terra.com.br)
+
 - [Allarme Dengue in Brasile: cosa consigliano gli esperti per chi rientra in Italia](https://www.ilgiornale.it/news/nazionale/dengue-brasile-fa-paura-l-allarme-degli-esperti-sui-rientri-2283486.html) (Ilgiornale.it)
 
 - [Brasil tem 75 mortes por dengue, e casos prováveis passam de meio milhão](https://www.dw.com/pt-br/brasil-tem-75-mortes-por-dengue-e-casos-prov%C3%A1veis-passam-de-meio-milh%C3%A3o/a-68244604) (DW (English))
+
+- [Brazil battles dengue outbreak as carnival gets underway](https://www.france24.com/en/video/20240213-brazil-battles-dengue-outbreak-as-carnival-gets-underway) (FRANCE 24 English)
+
+- [Dengue, uno studio apre la strada a nuove strategie di contrasto](https://www.ansa.it/friuliveneziagiulia/notizie/2024/02/13/dengue-uno-studio-apre-la-strada-a-nuove-strategie-di-contrasto_1d7f00df-6873-48f8-9459-99f5777dd73d.html) (ANSA.it)
 
 - [Dengue: Brasil ultrapassa marca de 500 mil casos e 75 mortes em 2024](https://www.metropoles.com/saude/dengue-brasil-500-mil-casos) (Metropoles.com)
 
@@ -128,6 +172,8 @@ Source: [News API](https://newsapi.org/)
 - [Brasil registra 512 mil casos de dengue e 75 mortes](https://jornaldebrasilia.com.br/noticias/brasil-registra-512-mil-casos-de-dengue-e-75-mortes/) (Jornaldebrasilia.com.br)
 
 - [Casos de dengue no estado do Rio aumentam 56% em uma semana](https://saude.ig.com.br/2024-02-13/casos-de-dengue-no-estado-do-rio-aumentam-56--em-uma-semana.html) (Ig.com.br)
+
+- [Brésil : face à l'épidémie de dengue, le pays ordonne la mobilisation générale](https://www.francetvinfo.fr/replay-radio/le-monde-est-a-nous/bresil-face-a-l-epidemie-de-dengue-le-pays-ordonne-la-mobilisation-generale_6335755.html) (Francetvinfo.fr)
 
 - [No DF, 440 servidores da Saúde contraíram dengue e ficaram afastados](https://www.metropoles.com/distrito-federal/no-df-440-servidores-da-saude-contrairam-dengue-e-ficaram-afastados) (Metropoles.com)
 
@@ -218,6 +264,10 @@ Source: [News API](https://newsapi.org/)
 - ['É quase impossível bloquear uma epidemia de dengue em curso', afirma pesquisador da Fiocruz](https://entrevista.r7.com/pesquisador-fiocruz-epidemia-dengue-11022024) (R7.com)
 
 - [Dengue: 408 mil casos são confirmados pelo Ministério da Saúde](https://ultimosegundo.ig.com.br/brasil/2024-02-10/numero-de-casos-de-dengue-brasil.html) (Ig.com.br)
+
+## 24-7 (chikungunya)
+
+- [Death risk from chikungunya continues for up to three months: Lancet study](https://timesofindia.indiatimes.com/home/science/chikungunya-virus-increased-risk-of-death-for-up-to-three-months-says-lancet-study/articleshow/107683262.cms) (The Times of India)
 
 ## 24-6 (zika)
 
@@ -3147,6 +3197,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
+## 23-53 (measles)
+
+- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
+
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
+
+- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)

@@ -1,8 +1,332 @@
 {
-  "last_updated": "2024-02-14 19:05",
-  "count_articles_total": 1428,
-  "count_articles_new": 26,
+  "last_updated": "2024-02-15 07:05",
+  "count_articles_total": 1452,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 5465,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Death risk from chikungunya continues for up to three months: Lancet study",
+      "description": "Science News: People infected with the chikungunya virus continue to have an increased risk of death for up to three months post-infection, according to a study published in The Lancet Infectious Diseases journal.",
+      "url": "https://timesofindia.indiatimes.com/home/science/chikungunya-virus-increased-risk-of-death-for-up-to-three-months-says-lancet-study/articleshow/107683262.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107683349,width-1070,height-580,imgsize-702770,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-14 07:00:39",
+      "content": "News Science News Death risk from chikungunya continues for up to three months: Lancet study FOLLOW US ON SOCIAL MEDIA",
+      "retrievedAt": "2024-02-15 07:05:38.288556",
+      "internal_id": "1800aca27b4127b7d501900e5ba186491937e7bcc78f1c4f5e02ec9787cd41d2",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5446,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Ynetnews",
+      "author": "Adir Yanko",
+      "title": "Health Ministry calls on Israelis to get vaccinated as measles cases surge",
+      "description": "18 cases diagnosed in Israel In past three months, majority not fully vaccinated; ministry recommends travelers abroad ensure they are vaccinated with two doses",
+      "url": "https://www.ynetnews.com/health_science/article/rjchvwfip",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2023/10/06/rkFA9u6ep/rkFA9u6ep_0_0_1000_563_0_large.jpg",
+      "publishedAt": "2024-02-14 06:59:17",
+      "content": "The Health Ministry reported Tuesday of four cases of measles diagnosed in recent days. Since December, 18 cases of measles have been diagnosed, with most of them not fully vaccinated against measles\u2026 [+3131 chars]",
+      "retrievedAt": "2024-02-15 07:05:36.659436",
+      "internal_id": "10882d8d9e1df7777f3a3f20778232ebfe082ee9f602bc2692ac62c459812fd1",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5450,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": null,
+      "title": "Controlli Dengue alle frontiere, allerta anche in Italia. Dopo il Brasile l\u2019emergenza di estende all\u2019Argentina",
+      "description": "Gli Uffici di sanit\u00e0 marittima aerea e di frontiera (Usmaf-Sasn) hanno avuto l\u2019indicazione di innalzare il livello di vigilanza nei confronti dei mezzi e delle merci provenienti dai Paesi in cui \u00ab\u00e8 frequente e continuo il rischio di contrarre la malattia\u00bb",
+      "url": "https://www.ilsole24ore.com/art/controlli-dengue-frontiere-allerta-anche-italia-il-brasile-l-emergenza-estende-all-argentina-AFVnwCiC",
+      "urlToImage": "https://i2.res.24o.it/images2010/2024/02/AFVnwCiC/images/156ab58c-8f55-11ee-91df-531f3d234fff-fotohome0.jpg",
+      "publishedAt": "2024-02-14 06:27:03",
+      "content": "Ascolta la versione audio dell'articolo 3' di lettura Lallerta Dengue in Brasile e Argentina e numerosi focolai in altre zone tropicali del resto del mondo fanno scattare in Italia la macchina dei \u2026 [+3777 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.107014",
+      "internal_id": "5c28c9a19a34ce2de0c5b94bec474c74925b439c76b1e5514648b27eb620a265",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5454,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Alan Rios",
+      "title": "Vacina contra dengue fica dispon\u00edvel em 63 endere\u00e7os nesta quarta (14)",
+      "description": "Veja onde se vacinar contra dengue no Distrito Federal. S\u00e3o 63 pontos de vacina\u00e7\u00e3o em Bras\u00edlia nesta quarta-feira (14/2)",
+      "url": "https://www.metropoles.com/distrito-federal/vacina-contra-dengue-fica-disponivel-em-63-enderecos-nesta-quarta-14",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/11141151/vacinacao-dengue-cruzeiro-criancas-10-11-anos-2.jpeg",
+      "publishedAt": "2024-02-14 01:35:52",
+      "content": "A vacina contra a dengue estar\u00e1 dispon\u00edvel em 63 endere\u00e7os do Distrito Federal nesta quarta-feira (14/2). Ao todo, 15 pontos contam com vacina\u00e7\u00e3o de manh\u00e3 e de tarde, de 8h \u00e0s 17h, e 45 locais aplica\u2026 [+1871 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.156006",
+      "internal_id": "2ef989b2083dc9f3a48d0e898ef8b4b18beadc9337e82bf81b69f005ae5ce840",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5447,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Minnesota Public Radio News",
+      "author": "Estelle Timar-wilcox",
+      "title": "Minnesota Department of Health confirms two measles cases",
+      "description": "Minnesota Department of Health confirms two measles casesmprnews.org",
+      "url": "https://www.mprnews.org/story/2024/02/13/minnesota-department-of-health-confirms-two-measles-cases",
+      "urlToImage": "https://img.apmcdn.org/38bb9b3216853d300bfca45081757710915dbd0e/widescreen/74f728-20150209-measles.jpg",
+      "publishedAt": "2024-02-14 00:59:43",
+      "content": "The Minnesota Department of Health (MDH) has identified two cases of measles in the state. Two siblings in the Twin Cities metro area have confirmed cases. The first case was in a one-year-old who\u2026 [+1357 chars]",
+      "retrievedAt": "2024-02-15 07:05:36.667943",
+      "internal_id": "721a475a08792d52f0e1f3cd4ba7d287f09595c4b1cccff8662e4cd85ce5488b",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5444,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Cara Tabachnick",
+      "title": "Hiker kills rabid coyote with bare hands in Rhode Island",
+      "description": "Environmental police officers took the coyote's carcass for testing and state laboratories determined the animal had rabies.",
+      "url": "https://www.cbsnews.com/news/rhode-island-hiker-kills-rabid-coyote-with-bare-hands/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/13/5d060a61-d3c7-419c-b876-635992a343a4/thumbnail/1200x630/fa661587888b36948566c53987317526/gettyimages-1925917953.jpg?v=b776bbc665e28d385e06ef913c5ff9ae",
+      "publishedAt": "2024-02-14 00:22:00",
+      "content": "A hiker killed a rabid coyote with his bare hands after being attacked in Rhode Island, officials said. The coyote attacked the hiker in a wooded area of Johnston on Friday afternoon, local media N\u2026 [+1754 chars]",
+      "retrievedAt": "2024-02-15 07:05:36.271666",
+      "internal_id": "adb4da2abe9daa92bf2163842e81f59e22cae25b8ce2d8b29c57964e27b61847",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5448,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CP24 Toronto's Breaking News",
+      "author": "Bryann Aguilar",
+      "title": "Peel Public Health releases list of locations where residents may have been exposed to measles",
+      "description": "Peel Public Health releases list of locations where residents may have been exposed to measlescp24.com",
+      "url": "https://www.cp24.com/news/peel-public-health-investigating-case-of-measles-in-child-who-recently-travelled-abroad-1.6767634",
+      "urlToImage": "https://www.cp24.com/polopoly_fs/1.6566727.1695063814!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+      "publishedAt": "2024-02-13 23:04:59",
+      "content": "A child who recently travelled abroad has been confirmed to have measles, Peel Public Health (PPH) says. PPH said, in a news release issued on Tuesday, it is investigating the case and has been reac\u2026 [+2806 chars]",
+      "retrievedAt": "2024-02-15 07:05:36.674262",
+      "internal_id": "8446a8c79cdc7be60d5eb6ff9714ad7eb2f4aebfd72abb597993042329254cff",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5453,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Hospital de Campanha atende 7 mil com suspeita de dengue no Carnaval",
+      "description": "Hospital de Campanha montado pela FAB em Ceil\u00e2ndia visa realizar o primeiro atendimento a pessoas com suspeita de dengue",
+      "url": "https://www.metropoles.com/distrito-federal/hospital-de-campanha-atende-7-mil-com-suspeita-de-dengue-no-carnaval",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06184156/Hospital-de-campanha-da-Forc%CC%A7a-Ae%CC%81rea-Brasileira-FAB-na-Ceila%CC%82ndia-tem-movimento-intenso-de-pacientes-buscando-atendimento-contra-a-dengue-Metro%CC%81poles-15.jpg",
+      "publishedAt": "2024-02-13 22:50:53",
+      "content": "Com a estimativa de atender 600 pessoas por dia, a estrutura \u00e9 modular, com sete c\u00e9lulas onde funcionam \u00e1reas para acolhimento, consultas e laborat\u00f3rio, entre outras. Dengue no DF O Distrito Federa\u2026 [+527 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.152621",
+      "internal_id": "7eda7bfc16588c8fd107bbfdf81aac7213b36f5e9bc64786b39831f611b1d0d6",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5466,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N SALUD",
+      "title": "Leptospirosis: estigma sobre esta enfermedad puede retrasar su diagn\u00f3stico",
+      "description": "La dermat\u00f3loga Amanda Marra comenz\u00f3 a experimentar una fatiga intensa y fiebre continua en julio de 2023, y esas fueron las primeras se\u00f1ales de que ten\u00eda leptospirosis, una enfermedad rodeada de estigma debido a que com\u00fanmente se transmite a trav\u00e9s de la orin\u2026",
+      "url": "https://www.eluniversal.com.co/salud/leptospirosis-estigma-sobre-esta-enfermedad-puede-retrasar-su-diagnostico-XN9960642",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1221x687/210c0/800d686/none/13704/DAIR/amanda-marra_9521157_20240213175235.jpg",
+      "publishedAt": "2024-02-13 22:45:00",
+      "content": "La dermat\u00f3loga Amanda Marra comenz\u00f3 a experimentar una fatiga intensa y fiebre continua en julio de 2023, y esas fueron las primeras se\u00f1ales de que ten\u00eda leptospirosis, una enfermedad rodeada de esti\u2026 [+3919 chars]",
+      "retrievedAt": "2024-02-15 07:05:38.813626",
+      "internal_id": "85c4d0315dca2402ab68f3ed414b56cdfc4845702f070dfac536af3055124528",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5464,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Max Esterhuizen",
+      "title": "Researchers discover that blocking an essential nutrient inhibits malaria parasite growth",
+      "description": "Living organisms often create what is needed for life from scratch. For humans, this process means the creation of most essential compounds needed to survive. But not every living thing has this capability, such as the parasite that causes malaria, which affe\u2026",
+      "url": "https://phys.org/news/2024-02-blocking-essential-nutrient-inhibits-malaria.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/virginia-tech-research-1.jpg",
+      "publishedAt": "2024-02-13 21:55:04",
+      "content": "Living organisms often create what is needed for life from scratch. For humans, this process means the creation of most essential compounds needed to survive. But not every living thing has this capa\u2026 [+5126 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.824118",
+      "internal_id": "0d23d1dc2d71f8b07a4018adc19632723b34ff37aab4467234ae9b5e27652a2b",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5463,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Blocking an essential nutrient inhibits malaria parasite growth",
+      "description": "Researchers found that by preventing the malaria parasite from scavenging fatty acids, a type of required nutrient, it could no longer grow.",
+      "url": "https://www.sciencedaily.com/releases/2024/02/240213163411.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-02-13 21:34:11",
+      "content": "Living organisms often create what is needed for life from scratch.For humans, this process means the creation of most essential compounds needed to survive. But not every living thing has this capab\u2026 [+4652 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.816619",
+      "internal_id": "d867ba7dca2089d32982ec0e78f42a92253aceb223d0fc1ad5285fd1b9d51373",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5449,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WBRC",
+      "author": "Gillian Brooks",
+      "title": "Health officials warning about measles as cases reported across US",
+      "description": "According to the CDC, from December to January, there were almost two dozen reported cases of measles in the United States.",
+      "url": "https://www.wbrc.com/2024/02/13/health-officials-warning-about-measles-cases-reported-across-us/",
+      "urlToImage": "https://gray-wbrc-prod.cdn.arcpublishing.com/resizer/v2/BM4UJYCSXJGMRFM57BN6DSHDMA.jpeg?auth=75886c887d10ffc4bee3d78c805f9eb8f00eecf2e52545c2a42ba3b87e2a9b99&width=1200&height=600&smart=true",
+      "publishedAt": "2024-02-13 21:24:11",
+      "content": "BIRMINGHAM, Ala. (WBRC) - According to the CDC, from December to January, there were almost two dozen reported cases of measles in the United States. The cases are related to international travelers.\u2026 [+1366 chars]",
+      "retrievedAt": "2024-02-15 07:05:36.677741",
+      "internal_id": "54469111b11d214aa0b9cfc5e58e2e67648ab238770b7b4e55e29f9845b9022d",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5445,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "[e]Eran Lahav",
+      "title": "Israel reports 4 new measles cases",
+      "description": "JERUSALEM, Feb. 13 (Xinhua) -- The Israeli Health Ministry on Tuesday reported four new cases of measles in a statement. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/02/14/israel-reports-4-new-measles-cases",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-02-13 21:06:00",
+      "content": "JERUSALEM, Feb. 13 (Xinhua) -- The Israeli Health Ministry on Tuesday reported four new cases of measles in a statement. This brings the total number of measles cases diagnosed in Israel since mid-\u2026 [+835 chars]",
+      "retrievedAt": "2024-02-15 07:05:36.655181",
+      "internal_id": "82dd877aca3e8362113dd41e5326d4b4ccd2967dc230211ce5ed6dd2e4f0e152",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5452,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Em pouco mais de 1 m\u00eas, GDF recebe 3.409 den\u00fancias de focos de dengue",
+      "description": "Entre 1\u00ba de janeiro e 13 de fevereiro, a Ouvidoria do DF registrou 3.409 demandas com rela\u00e7\u00e3o \u00e0 dengue",
+      "url": "https://www.metropoles.com/distrito-federal/em-pouco-mais-de-1-mes-gdf-recebe-3-409-denuncias-de-focos-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/05130840/forca-tarefa-combate-dengue10.jpg",
+      "publishedAt": "2024-02-13 20:53:25",
+      "content": "No Distrito Federal, den\u00fancias de poss\u00edveis focos do Aedes aegypti mosquito causador da dengue aumentaram 1.247,4% este ano em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Entre 1\u00ba de janeiro e 13 \u2026 [+3244 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.148599",
+      "internal_id": "6c653748b135828fb53998d7247e21e631fa9a5f6eb2f3ee9367021dbb7f6f19",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5451,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Euronews",
+      "author": null,
+      "title": "NO COMMENT : le Br\u00e9sil confront\u00e9 \u00e0 une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent",
+      "description": "Vid\u00e9o. Le pays conna\u00eet une explosion du nombre de contaminations, particuli\u00e8rement \u00e0 Brasilia, la capitale, o\u00f9 l\u2019incidence est de 1 700 cas de dengue pour 100 000 habitants. Les h\u00f4pitaux ont du mal \u00e0 faire face \u00e0 l\u2019afflux de malades.",
+      "url": "https://fr.euronews.com/video/2024/02/13/no-comment-le-bresil-confronte-a-une-epidemie-de-dengue-sans-precedent",
+      "urlToImage": "https://static.euronews.com/articles/stories/08/23/81/00/1200x675_cmsv2_42e87dd7-a30c-55bd-ab44-df8558b2506b-8238100.jpg",
+      "publishedAt": "2024-02-13 20:46:06",
+      "content": "Depuis le d\u00e9but de lann\u00e9e, le minist\u00e8re de la sant\u00e9 a d\u00e9nombr\u00e9 plus de 512 000 cas de cette maladie virale, transmise par le moustique Aedes aegypti, qui provoque des douleurs et une fi\u00e8vre intense. \u2026 [+557 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.136885",
+      "internal_id": "c5da796890b30283bb7fbf36fa0b11fc022571fae9adff1d11b1e533f5f77096",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5455,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Pol\u00edtica, Palestina, Covid e dengue s\u00e3o pautas no Pacot\u00e3o de 2024",
+      "description": "O Pacot\u00e3o \u00e9 um dos blocos mais tradicionais da capital federal e conhecido por unir festa a debates pol\u00edticos",
+      "url": "https://www.metropoles.com/distrito-federal/politica-palestina-covid-e-dengue-sao-pautas-no-pacotao-de-2024",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/13163423/pacotao-carnaval-df-2024-5-compressed.jpg",
+      "publishedAt": "2024-02-13 19:46:54",
+      "content": "O bloquinho de rua Pacot\u00e3o arrastou os foli\u00f5es brasilienses \u00e0s ruas nesta ter\u00e7a-feira (13/2) de Carnaval. Com fantasias criativas e at\u00e9 prote\u00e7\u00e3o contra a chuva, a multid\u00e3o ainda aproveitou para fazer\u2026 [+2065 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.184939",
+      "internal_id": "e2a37546c1aa23129a7b583c7f76329e52de241b9b0deb28053780c836a2c4b5",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5457,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Revista Oeste - Brasil",
+      "title": "Jornalistas da GloboNews surpreendem com trajes de Carnaval no est\u00fadio",
+      "description": "Muitos internautas n\u00e3o gostaram da postura deles no est\u00fadio, em meio...",
+      "url": "https://noticias.r7.com/brasil/revista-oeste/jornalistas-da-globonews-surpreendem-com-trajes-de-carnaval-no-estudio-13022024",
+      "urlToImage": "https://img.r7.com/images/r7-30072019142631584?dimensions=340x191&crop_position=c",
+      "publishedAt": "2024-02-13 19:35:00",
+      "content": "Muitos internautas n\u00e3o gostaram da postura deles no est\u00fadio, em meio a um aumento expressivo no n\u00famero de casos de dengue, que j\u00e1 ultrapassam 500 mil no Brasil. Descubra mais detalhes sobre essa pol\u00ea\u2026 [+572 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.211122",
+      "internal_id": "9e60cb9ab741005335444561c6249dd03cf2064af6d679915e90371ee2ffbc9a",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5456,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mariah Aquino",
+      "title": "Unimed descredencia 37 hospitais pelo pa\u00eds em meio a surto de dengue",
+      "description": "Unimed Nacional anunciou o descredenciamento do atendimento de emerg\u00eancias no DF e em 4 estados. Medida come\u00e7a a valer em 4 de mar\u00e7o",
+      "url": "https://www.metropoles.com/brasil/unimed-descredencia-37-hospitais-pelo-pais-em-meio-a-surto-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/13161021/hospital-19.jpg",
+      "publishedAt": "2024-02-13 19:15:13",
+      "content": "O plano de sa\u00fade Unimed Nacional descredenciou 37 hospitais no DF e em quatro estados: S\u00e3o Paulo, Rio de Janeiro, Bahia e Maranh\u00e3o. De acordo com a prestadora, a interrup\u00e7\u00e3o no atendimento dos hospit\u2026 [+2043 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.191439",
+      "internal_id": "2cbc89ab1c062de2c7380b2bd468f5a871838a14cc6b041cee86c994f4fa94a2",
+      "publishedAtLabel": "Feb 13"
+    },
     {
       "id": 5420,
       "query": [
@@ -238,6 +562,42 @@
       "publishedAtLabel": "Feb 13"
     },
     {
+      "id": 5460,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "What's behind Brazil's surge in dengue fever?",
+      "description": "Brazil has launched a dengue fever immunisation campaign after health authorities registered more than 395,000 likely cases of the mosquito-borne disease in the first five weeks of the year, four times more than the same period last year. Antoine Flahault, di\u2026",
+      "url": "https://www.france24.com/en/video/20240213-what-s-behind-brazil-s-surge-in-dengue-fever",
+      "urlToImage": "https://s.france24.com/media/display/7cf287a4-ca86-11ee-a445-005056bfb2b6/w:1280/p:16x9/m:{\"brand\":\"FRANCE24\",\"lang\":\"EN\",\"program\":\"\",\"cartouche\":\"BRAZIL\",\"hash\":\"e4f368e02275d79d4b992bad906f215e24c0163562036b77ddc2a67a01a2ef5b\",\"title\":\"What's%20behind%20dengue%20fever%20surge%3F\",\"id\":\"25aba80c-45fb-11ec-90e2-005056bf30b7\"}/EN_20240213_161005_161435_CS.jpg",
+      "publishedAt": "2024-02-13 15:42:33",
+      "content": "Issued on: 13/02/2024 - 16:42Modified: 13/02/2024 - 16:50 Brazil has launched a dengue fever immunisation campaign after health authorities registered more than 395,000 likely cases of the mosquito-\u2026 [+267 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.272239",
+      "internal_id": "2c9dc94ec58f177a51fadce4cc727f437355442ff1b197958004c7d67a9a067f",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5459,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: Brasil registrou 75 mortes e mais de 500 mil casos em 2024",
+      "description": "Minas \u00e9 o Estado com mais infectados, seguido por S\u00e3o Paulo e Paran\u00e1, segundo balan\u00e7o do Minist\u00e9rio da Sa\u00fade",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-brasil-registrou-75-mortes-e-mais-de-500-mil-casos-em-2024,95de31ca12e791324147cfb95a1d4f3f3afspcq1.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/13/1941245109-qola7dna6jenbf2dh2duc7xovq.jpg",
+      "publishedAt": "2024-02-13 15:37:29",
+      "content": "O Brasil j\u00e1 registrou 75 mortes causadas pelo v\u00edrus da Dengue neste ano, e h\u00e1 mais 340 \u00f3bitos em investiga\u00e7\u00e3o, segundo o Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade. Entre janeiro e\u2026 [+2037 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.261907",
+      "internal_id": "b9d9480b79be27bce9590f67b86839248a1bcaa41b7714a969cb47832beaf097",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
       "id": 5427,
       "query": [
         "dengue"
@@ -289,6 +649,42 @@
       "content": ", -, , , (, ). , , ( ). NBC News , . , . , , . . , , . . - . , , , , / \u00ab\u00bb. , . , Yersinia pestis. , . NBC , , , , , . \u00ab \u00bb, . , . , , . . 2015 . , -, , . (The Centers for Disease Control an\u2026 [+70 chars]",
       "retrievedAt": "2024-02-14 19:05:32.863626",
       "internal_id": "590bd25f2c8dd5f71830403a2d119a3a3c8bd1b1270776b2a743e0e038b67153",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5462,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Brazil battles dengue outbreak as carnival gets underway",
+      "description": "Brazil has launched a dengue fever immunisation campaign, becoming the first country in the world to provide the vaccine through its public health system as it deals with a surge in cases. With the country's famed carnival celebrations getting under way, ther\u2026",
+      "url": "https://www.france24.com/en/video/20240213-brazil-battles-dengue-outbreak-as-carnival-gets-underway",
+      "urlToImage": "https://s.france24.com/media/display/142c389e-ca79-11ee-b895-005056a90284/w:1280/p:16x9/EN_20240213_132525_132649_CS.jpg",
+      "publishedAt": "2024-02-13 14:06:34",
+      "content": "Issued on: 13/02/2024 - 15:06 Brazil has launched a dengue fever immunisation campaign, becoming the first country in the world to provide the vaccine through its public health system as it deals wi\u2026 [+147 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.285260",
+      "internal_id": "ef07ee11d086af1a4b493a12fe31aeffda125489c23920ed0bfa2e10803f34e6",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5458,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue, uno studio apre la strada a nuove strategie di contrasto",
+      "description": "Negli ultimi due decenni le infezioni da dengue sono aumentate notevolmente. (ANSA)",
+      "url": "https://www.ansa.it/friuliveneziagiulia/notizie/2024/02/13/dengue-uno-studio-apre-la-strada-a-nuove-strategie-di-contrasto_1d7f00df-6873-48f8-9459-99f5777dd73d.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/9/6/ec653cf59a220475e2cd717f77758bfa.jpg",
+      "publishedAt": "2024-02-13 13:38:56",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.258013",
+      "internal_id": "010a15c27734cb534881a1b6e82fd33918864c584b2c8a25e452bf7c68e87581",
       "publishedAtLabel": "Feb 13"
     },
     {
@@ -451,6 +847,24 @@
       "content": "New Brunswick Public Health officials are keeping a close eye out for measles, given the surge of cases in Europe and some recent confirmed cases in Canada. There were 42,200 measles cases across Eu\u2026 [+4944 chars]",
       "retrievedAt": "2024-02-14 19:05:28.525481",
       "internal_id": "1477633353dbf05a07d8a2ebb6c50978e6afe8557695be6fc4629d19362fa929",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5461,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Br\u00e9sil : face \u00e0 l'\u00e9pid\u00e9mie de dengue, le pays ordonne la mobilisation g\u00e9n\u00e9rale",
+      "description": "Une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent s'abat sur le Br\u00e9sil. Le nombre de cas explose, les h\u00f4pitaux ont du mal \u00e0 faire face. Autorit\u00e9s sanitaires et gouvernement tentent d'endiguer les contaminations.",
+      "url": "https://www.francetvinfo.fr/replay-radio/le-monde-est-a-nous/bresil-face-a-l-epidemie-de-dengue-le-pays-ordonne-la-mobilisation-generale_6335755.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/3NsdA6BQb7lJX7FXfX-JrObs3b4/1500x843/2024/02/13/denguebrasil-65cb2f5542187450399411.jpg",
+      "publishedAt": "2024-02-13 09:03:52",
+      "content": "La dengue est tr\u00e8s r\u00e9pandue dans les r\u00e9gions tropicales, le Br\u00e9sil y est habitu\u00e9. L'anomalie c'est que plus de 400 000 personnes sont aujourd'hui contamin\u00e9es, et c'est quatre fois plus que l'an derni\u2026 [+3350 chars]",
+      "retrievedAt": "2024-02-15 07:05:37.279309",
+      "internal_id": "1451c93fbebe0d79758bd1f0b9acfde4fb9bbd73cad2ea7039b5d4778fc642c2",
       "publishedAtLabel": "Feb 13"
     },
     {
@@ -25756,6 +26170,25 @@
       "content": "\u00a1De acab\u00f3 la maldici\u00f3n! Detroit Pistons se impuso este s\u00e1bado en el Little Caesars Arena a los Toronto Raptors (127-129) para poner fin a la hist\u00f3rica mala racha de 28 derrotas consecutivas en esta \u2026 [+1028 chars]",
       "retrievedAt": "2024-01-02 07:05:51.070033",
       "internal_id": "6e01ac63ef0fc89eff9708a91f7f191afe0b2ad60e5f4225a40e054452505e55",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 4014,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "WND News Services",
+      "title": "Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals",
+      "description": "Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. Polio, which paralyzed thousands of Americans annually, was wiped out by widespread vaccinations. In 1999 the natio\u2026",
+      "url": "https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/12/illegals-aliens-migrants-immigration-caravan-border-undocumented-jpg.jpg",
+      "publishedAt": "2023-12-31 18:27:17",
+      "content": "(Video screenshot) [Editor's note: This story originally was published by Real Clear Wire.] By James VarneyReal Clear Wire Successful public health campaigns and medical advances have enabled the \u2026 [+12728 chars]",
+      "retrievedAt": "2024-01-01 19:05:22.272433",
+      "internal_id": "73ad94b20c057ac3685a1a9a55d3a81445edc3d2809aa8e5f96664ff4cc03d7a",
       "publishedAtLabel": "Dec 31"
     }
   ]
