@@ -1,8 +1,458 @@
 {
-  "last_updated": "2024-02-16 07:05",
-  "count_articles_total": 1507,
-  "count_articles_new": 20,
+  "last_updated": "2024-02-16 19:05",
+  "count_articles_total": 1531,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 5544,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u039c\u03b1\u03b9\u03c1\u03b7 \u039a\u03b1\u03bb\u03bf\u03c5\u03c4\u03c3\u03b1\u03ba\u03b7",
+      "title": "\u03a0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03bd\u03b5\u03ba\u03c1\u03cc\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03b7\u03c2 \u0391\u03bb\u03ac\u03c3\u03ba\u03b1\u03c2 \u2013 \u03a4\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03c0\u03c9\u03c2 \u03bc\u03b5\u03c4\u03b1\u03b4\u03af\u03b4\u03b5\u03c4\u03b1\u03b9",
+      "description": "\u0388\u03bd\u03b1\u03c2 \u03b7\u03bb\u03b9\u03ba\u03b9\u03c9\u03bc\u03ad\u03bd\u03bf\u03c2 \u03ac\u03bd\u03b4\u03c1\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a6\u03ad\u03c1\u03bc\u03c0\u03b1\u03bd\u03ba\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u03c0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03bd\u03b5\u03ba\u03c1\u03cc\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03b7\u03c2 \u0391\u03bb\u03ac\u03c3\u03ba\u03b1\u03c2. \u03a0\u03c1\u03cc\u03ba\u03b5\u03b9\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03bc\u03b9\u03b1 \u03b9\u03bf\u03b3\u03b5\u03bd\u03ae \u03bb\u03bf\u03af\u03bc\u03c9\u03be\u03b7 \u03c0\u03bf\u03c5 \u03c0\u03bf\u03bb\u03cd \u03c0\u03c1\u03cc\u03c3\u03c6\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03ba\u03ac\u03bb\u03c5\u03c8\u03b1\u03bd \u03bf\u03b9 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2. \u039f \u03ac\u03bd\u03b4\u03c1\u03b1\u03c2 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b5 \u03c9\u03c2 \u03bf \u03c0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03b7\u03c2 \u0391\u03bb\u03ac\u03c3\u03ba\u03b1\u03c2 \u03ae\u03c4\u03b1\u03bd \u03ad\u03bd\u2026",
+      "url": "https://www.newsit.gr/ygeia/protos-nekros-apo-tin-eylogia-tis-alaskas-ti-einai-kai-pos-metadidetai/3980656/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2024/02/iStock-507900523.jpg",
+      "publishedAt": "2024-02-15 19:04:47",
+      "content": ". . , . , . . Kenai, . () . . . , . , . . , . , . , . , . , . , , . Orthopoxvirus. (mpox) (variola) , 1970 . 2015 . (AKPV) . , .., (red-backed voles) (shrews), . . . : , 2 . , .\u2026 [+16 chars]",
+      "retrievedAt": "2024-02-16 19:05:29.213852",
+      "internal_id": "1e0ae8c38abbd0e911ea1d9bcd94d5eaa8e1f62cccfb3903bfa978fde2bf8637",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5534,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Alto Astral",
+      "title": "Surto de dengue: aprenda como usar repelente e protetor corretamente",
+      "description": "Dermatologista explica o tipo de repelente ideal e como aplicar o produto para se proteger contra a dengue",
+      "url": "https://www.metropoles.com/vida-e-estilo/surto-de-dengue-aprenda-como-usar-repelente-e-protetor-corretamente",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/15130855/passando-repelente.jpg",
+      "publishedAt": "2024-02-15 18:57:17",
+      "content": "O Brasil enfrenta uma crescente nos casos de dengue, chamando a aten\u00e7\u00e3o das autoridades de sa\u00fade p\u00fablica em todo o territ\u00f3rio nacional. Com a temporada de calor intenso e chuvas frequentes, existe a \u2026 [+915 chars]",
+      "retrievedAt": "2024-02-16 19:05:27.463727",
+      "internal_id": "7660aeb1301cb7ae7bfea24d2ae77b7fe4d815fbfd3fe3dac1ac67c3829391fa",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5535,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalita Vasconcelos",
+      "title": "GDF e minist\u00e9rios se re\u00fanem para tratar do combate \u00e0 dengue em escolas",
+      "description": "Secret\u00e1rias de Sa\u00fade e Educa\u00e7\u00e3o se re\u00fanem com representantes dos minist\u00e9rios das mesmas \u00e1reas para definir estrat\u00e9gias de combate \u00e0 doen\u00e7a",
+      "url": "https://www.metropoles.com/distrito-federal/gdf-e-ministerios-se-reunem-para-tratar-do-combate-a-dengue-em-escolas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/15141008/Secretarias-de-Saude-e-Educacao.jpeg",
+      "publishedAt": "2024-02-15 18:48:29",
+      "content": "Com o in\u00edcio do ano letivo das escolas p\u00fablicas na pr\u00f3xima segunda-feira (19/2), as secret\u00e1rias de Educa\u00e7\u00e3o, H\u00e9lvia Paranagu\u00e1, e de Sa\u00fade do Distrito Federal, Lucilene Flor\u00eancio, definiram medidas pa\u2026 [+3768 chars]",
+      "retrievedAt": "2024-02-16 19:05:27.485337",
+      "internal_id": "d971b11086c84259adbf5ccf3b651e4633843347f3ccf56311a88b445247a3b6",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5531,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Mandy Kynast",
+      "title": "Angst vor Dengue-Fieber - Italien versch\u00e4rft Sicherheit an Flugh\u00e4fen",
+      "description": "Das erste Land in Europa verst\u00e4rkt aufgrund des Anstiegs weltweiter F\u00e4lle von Dengue-Fieber seine Sicherheitsma\u00dfnahmen.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/angst-vor-dengue-fieber-italien-verschaerft-sicherheit-an-flughaefen-87178548.bild.html",
+      "urlToImage": "https://images.bild.de/65ce2dea1da48648602d53a9/849365355ee70100933c252c83bbff63,483483f2?w=1280",
+      "publishedAt": "2024-02-15 17:31:20",
+      "content": "Rom (Italien) Das erste Land in Europa verst\u00e4rkt aufgrund des Anstiegs weltweiter F\u00e4lle von Dengue-Fieber seine Sicherheitsma\u00dfnahmen. Italien hat jetzt die Alarmstufe an Flugh\u00e4fen und H\u00e4fen erh\u00f6ht, \u2026 [+2008 chars]",
+      "retrievedAt": "2024-02-16 19:05:27.398561",
+      "internal_id": "45383a4d0beb914005519bd3d0d496de5fc5355a94d39dd5bce304b53ebe6aa4",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5532,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencialdigital.com",
+      "author": "Comunicae",
+      "title": "El dengue, la amenaza de salud p\u00fablica mundial que ya se ha hecho realidad en Europa",
+      "description": "Confidencial Digital. Contenidos confidenciales en espa\u00f1ol orientado a personas informadas que hoy en d\u00eda desean estar a\u00fan m\u00e1s informadas",
+      "url": "https://www.elconfidencialdigital.com/articulo/comunicados/dengue-amenaza-salud-publica-mundial-que-ha-hecho-realidad-europa/20240215165246724370.html",
+      "urlToImage": null,
+      "publishedAt": "2024-02-15 16:52:46",
+      "content": "\"La incidencia mundial por dengue ha aumentado peligrosamente en las dos \u00faltimas d\u00e9cadas, lo que plantea un desaf\u00edo muy importante para la Salud P\u00fablica mundial\", ha advertido el Dr. Raman Velayudhan\u2026 [+5922 chars]",
+      "retrievedAt": "2024-02-16 19:05:27.411099",
+      "internal_id": "a60f11c0ded065fbb83f8f6d9be9d21f059ba27bf6814dd02920142c904e7231",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5522,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "TBRC Business Research PVT LTD",
+      "title": "Pertussis Vaccine Market Overview 2024: Market Size, Major Growth Factors And Leading Regions As Per The Business Research Company's Pertussis Vaccine Global Market Report 2024",
+      "description": "Exclusive Offer By The Business Research Company - Get 33% Discount On Opportunities And Strategies Reports Exclusive Offer By The Business Research Company - Get 33% Discount On Opportunities And Strategies Reports",
+      "url": "https://www.globenewswire.com/news-release/2024/02/15/2830212/0/en/Pertussis-Vaccine-Market-Overview-2024-Market-Size-Major-Growth-Factors-And-Leading-Regions-As-Per-The-Business-Research-Company-s-Pertussis-Vaccine-Global-Market-Report-2024.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/3bf07720-8041-4b6e-84f3-8c3f28854315",
+      "publishedAt": "2024-02-15 16:30:00",
+      "content": "LONDON, Feb. 15, 2024 (GLOBE NEWSWIRE) -- As per The Business Research Companys Pertussis Vaccine Global Market Report 2024, the pertussis vaccine market has demonstrated steady growth in recent year\u2026 [+4949 chars]",
+      "retrievedAt": "2024-02-16 19:05:26.325019",
+      "internal_id": "dc38b3c7aa2fa22d19c1194191f98ff7b10ffb3a6f7ff1922336a57295a2727c",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5541,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "RNA-dependent protein research advances the fight against malaria",
+      "description": "New work by a team led by scientists at the University of California, Riverside, has taken research one step closer to designing new therapies to fight and eradicate malaria thanks to a lab technique called R-DeeP.",
+      "url": "https://phys.org/news/2024-02-rna-protein-advances-malaria.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/fight-against-malaria.jpg",
+      "publishedAt": "2024-02-15 16:15:03",
+      "content": "New work by a team led by scientists at the University of California, Riverside, has taken research one step closer to designing new therapies to fight and eradicate malaria thanks to a lab technique\u2026 [+2530 chars]",
+      "retrievedAt": "2024-02-16 19:05:28.294262",
+      "internal_id": "0595bc78901063ae08bd494492b1d22a786dd382e8acdfb72b43a0dd5eb37f87",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5537,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Renan Porto",
+      "title": "N\u00famero de mortes por dengue em SP em 2024 sobe para 11",
+      "description": "Segundo painel da Secretaria da Sa\u00fade, h\u00e1 ainda 16 mortes investigadas; s\u00e3o 51.175 casos confirmados e 39.048 em investiga\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/sao-paulo/numero-mortes-dengue-sp-sobe-para-11",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2024-02-15 15:18:18",
+      "content": "S\u00e3o Paulo O n\u00famero de mortes por dengue em 2024 subiu para 11 no estado de S\u00e3o Paulo, de acordo com a \u00faltima atualiza\u00e7\u00e3o do painel da Secretaria da Sa\u00fade sobre a doen\u00e7a nesta quinta-feira (15/2). At\u00e9\u2026 [+1505 chars]",
+      "retrievedAt": "2024-02-16 19:05:27.568846",
+      "internal_id": "aedfdcd6b6af0e4f5a87bd2763b432162afb3cd0b676cb965f159ccee186131a",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5542,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Kenya: Campaign to Combat Malaria in Kenya Unveiled",
+      "description": "[Capital FM] Nairobi -- Kenya is seeking to combat malaria through a new coalition involving the Zero Malaria Campaign Coalition (ZMCC) and the Ministry of Health's National Malaria Control Program.",
+      "url": "https://allafrica.com/stories/202402150355.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-02-15 14:48:45",
+      "content": "Nairobi \u2014 Kenya is seeking to combat malaria through a new coalition involving the Zero Malaria Campaign Coalition (ZMCC) and the Ministry of Health's National Malaria Control Program. Dubbed 'The P\u2026 [+2889 chars]",
+      "retrievedAt": "2024-02-16 19:05:28.300899",
+      "internal_id": "950156cf94331a94e7c970b475c3ed41c675563286035b6dd418ab1568fd133e",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5543,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Max Esterhuizen-Virginia Tech",
+      "title": "Blocking nutrient could stop malaria parasite growth",
+      "description": "New research could lead to a new way to fight malaria, one of the most devastating infectious diseases in the world.",
+      "url": "https://www.futurity.org/malaria-parasite-mosquitoes-3180272/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/02/malaria-parasite-1600.jpg",
+      "publishedAt": "2024-02-15 14:27:46",
+      "content": "A new study finds that preventing the malaria parasite from scavenging fatty acids, a type of required nutrient, it can no longer grow. Living organisms often create what is needed for life from scr\u2026 [+4457 chars]",
+      "retrievedAt": "2024-02-16 19:05:28.324383",
+      "internal_id": "290b86c5b369553041f33e4e39ebba1570393ff651ca1ca6a5a9681b70862018",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5523,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kentaro Koide, Yumi Uchitani, Takahiro Yamaguchi, Nao Otsuka, Masataka Goto, Tsuyoshi Kenri, Kazunari Kamachi",
+      "title": "Whole-genome comparison of two same-genotype macrolide-resistant Bordetella pertussis isolates collected in Japan",
+      "description": "The emergence of macrolide-resistant Bordetella pertussis (MRBP) is a significant problem because it reduces treatment options for pertussis and exacerbates the severity and spread of the disease. MRBP has been widely prevalent in mainland China since the 201\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298147",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0298147.g002&size=inline",
+      "publishedAt": "2024-02-15 14:00:00",
+      "content": "Abstract The emergence of macrolide-resistant Bordetella pertussis (MRBP) is a significant problem because it reduces treatment options for pertussis and exacerbates the severity and spread of the d\u2026 [+32490 chars]",
+      "retrievedAt": "2024-02-16 19:05:26.345618",
+      "internal_id": "7c3123b8cdf575a1cb90c11ea3b19ebd1545730d0c95f6f7b751ad6bcc28c0e7",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5546,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yogesh Hooda, Shuborno Islam, Rathin Kabiraj, Hafizur Rahman, Himadree Sarkar, Kesia E. da Silva, Rajan Saha Raju, Stephen P. Luby, Jason R. Andrews, Samir K. Saha, Senjuti Saha",
+      "title": "Old tools, new applications: Use of environmental bacteriophages for typhoid surveillance and evaluating vaccine impact",
+      "description": "Author summary The WHO prequalified two typhoid conjugate vaccines for use to reduce the burden of typhoid fever. As policymakers design vaccination strategies, accurate, high-resolution estimates of typhoid burden are crucial for efficient use of the vaccine\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011822",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011822.g002&size=inline",
+      "publishedAt": "2024-02-15 14:00:00",
+      "content": "Abstract Typhoid-conjugate vaccines (TCVs) provide an opportunity to reduce the burden of typhoid fever, caused by Salmonella Typhi, in endemic areas. As policymakers design vaccination strategies, \u2026 [+32164 chars]",
+      "retrievedAt": "2024-02-16 19:05:29.377967",
+      "internal_id": "fbcccda54c93ff7cfadc04e18391746b9b37c51199fb55a7429d179a61a9e441",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5528,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Three more \u2018possible\u2019 measles cases in two children under four and child under 10",
+      "description": "Three further possible cases of measles were reported in children last week, according to the Health Protection Surveillance Centre.",
+      "url": "https://www.independent.ie/irish-news/three-more-possible-measles-cases-in-two-children-under-four-and-child-under-10/a1491375331.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/rOUD5jWCZIEznVqbdF8OrygumtQ=/60x0:735x450/629x0/prod-mh-ireland/3d9f0bc9-7c64-443a-8c1a-3f44301f4e9a/93d35931-b461-4bcb-9964-36cb5a4bd9e1/video/video.jpg",
+      "publishedAt": "2024-02-15 13:34:45",
+      "content": "The suspected cases in children have no links to the death of the man (48) in Westmeath last week Three further possible cases of measles were reported in children last week, according to the Health\u2026 [+2727 chars]",
+      "retrievedAt": "2024-02-16 19:05:26.772832",
+      "internal_id": "bc3c876690c099a5577742e0bdffa358c2486114a25bd344a5a12f322b416ce7",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5536,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Portal T5",
+      "title": "Para\u00edba confirma primeira morte por dengue em 2024",
+      "description": "De acordo com a Secretaria de Estado da Sa\u00fade (SES), a v\u00edtima \u00e9 uma jovem de 24 anos, moradora do munic\u00edpio de Camala\u00fa (PB)",
+      "url": "https://www.metropoles.com/brasil/paraiba-confirma-primeira-morte-por-dengue-em-2024",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2024-02-15 13:00:50",
+      "content": "A Para\u00edba confirmou nesta quinta-feira (15/2) a primeira morte por dengue em 2024. Segundo a Secretaria de Estado da Sa\u00fade (SES), a v\u00edtima \u00e9 uma jovem de 24 anos, moradora da cidade de Camala\u00fa. A inf\u2026 [+349 chars]",
+      "retrievedAt": "2024-02-16 19:05:27.524630",
+      "internal_id": "3ff937dec22ab0cd0f39fa674bef1e215388cce1e0242f896a0f34af82d9a9be",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5545,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Carla Bleiker",
+      "title": "Alaskapocken: Erster Todesfall durch das Virus",
+      "description": "In den USA kam ein Mann Ende 2023 mit Alaskapocken ins Krankenhaus. Im Januar ist er verstorben. Alaskapocken werden vermutlich von W\u00fchl- und Spitzm\u00e4usen \u00fcbertragen. Was Sie sonst noch \u00fcber das Virus wissen m\u00fcssen. Die Alaskapocken (englisch: Alaskapox) geh\u00f6r\u2026",
+      "url": "https://www.dw.com/de/alaskapocken-erster-todesfall-durch-das-virus/a-68256959",
+      "urlToImage": "https://static.dw.com/image/64932306_6.jpg",
+      "publishedAt": "2024-02-15 12:31:00",
+      "content": "Die Alaskapocken (englisch: Alaskapox) geh\u00f6ren zu den sogenannten Orthopoxviren oder \"S\u00e4ugerpocken\" und sind mit Pocken, Kuhpocken und Mpox (urspr\u00fcnglich als \"Affenpocken\" bekannt) verwandt. Infektio\u2026 [+4614 chars]",
+      "retrievedAt": "2024-02-16 19:05:29.222319",
+      "internal_id": "7307dee66da64dc4e920b35a3617136e280076a75e04fdaffa2d4578b365db33",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5524,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "England now seeing clusters of measles cases",
+      "description": "Another 56 cases have been seen in the last week across a number of regions.",
+      "url": "https://www.bbc.co.uk/news/health-68305511",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3171/production/_108375621_measles-976.jpg",
+      "publishedAt": "2024-02-15 12:00:17",
+      "content": "England is now seeing clusters of measles cases across a number of regions including London, the North West, Yorkshire, The Humber and the East Midlands, as well as the West Midlands. There have be\u2026 [+2674 chars]",
+      "retrievedAt": "2024-02-16 19:05:26.738199",
+      "internal_id": "159f52fc0b0c8d4d902f10d00246349b8b319ea115d6a8f1c1271968bd900f10",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5539,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Hola",
+      "author": "Mar\u00eda Medina, Mar\u00eda Medina",
+      "title": "Luis Canut sorprende a Patricia P\u00e9rez en pleno directo: 'Me salvaste la vida'",
+      "description": "El hermano de Nacho Canut, compa\u00f1ero de Alaska en Fangoria, contrajo una meningitis criptoc\u00f3cica que le mantuvo casi medio a\u00f1o hospitalizado y de la que todav\u00eda sigue recuper\u00e1ndose",
+      "url": "https://www.hola.com/actualidad/20240215249357/patricia-perez-luis-canut-sorpresa-directo/",
+      "urlToImage": "https://images.hola.com/imagenes/actualidad/20240215249357/patricia-perez-luis-canut-sorpresa-directo/1-392-188/patricia-perez-t.jpg",
+      "publishedAt": "2024-02-15 11:03:03",
+      "content": "Patricia P\u00e9rez y Luis Canut protagonizaron uno de los momentos m\u00e1s rom\u00e1nticos de San Valent\u00edn despu\u00e9s de haber vivido un aut\u00e9ntico calvario. La presentadora rompi\u00f3 a llorar en pleno directo cuando su\u2026 [+3566 chars]",
+      "retrievedAt": "2024-02-16 19:05:27.837894",
+      "internal_id": "4a3fd0f0fe862e505b755f11aa137b7a23c2ab5c6c52440b6de787e32f5ade42",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5529,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "Emergenza dengue",
+      "description": "\u201c Secondo i dati diffusi il 12 febbraio dal ministero della salute, in Brasile sono pi\u00f9 di mezzo milione i casi di dengue, la febbre emorragica trasmessa dalla puntura... Leggi",
+      "url": "https://www.internazionale.it/magazine/2024/02/15/emergenza-dengue",
+      "urlToImage": "https://static.internazionale.it/assets/img/internazionale-icon.png",
+      "publishedAt": "2024-02-15 10:54:51",
+      "content": "Secondo i dati diffusi il 12 febbraio dal ministero della salute, in Brasile sono pi\u00f9 di mezzo milione i casi di dengue, la febbre emorragica trasmessa dalla puntura di alcune zanzare infette. Si tra\u2026 [+883 chars]",
+      "retrievedAt": "2024-02-16 19:05:27.355057",
+      "internal_id": "336d283efe7b0b97e042ae89b3f6b9b9e97e118657afd8d7bbdb6e617a02a01d",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5527,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Three more \u2018possible\u2019 measles cases in two children under four and a teen",
+      "description": "Three further possible cases of measles were reported in children last week, according to the Health Protection Surveillance Centre.",
+      "url": "https://www.independent.ie/irish-news/three-more-possible-measles-cases-in-two-children-under-four-and-a-teen/a1491375331.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/OMEGQYy7Ebs74m7jhw2SEaJqkn0=/0x0:4899x3264/629x0/prod-mh-ireland/06eb9323-d9a1-4db8-8b9a-05dc5fddecc6/bc54f215-fac3-481f-9813-6c60a619aa16/06eb9323-d9a1-4db8-8b9a-05dc5fddecc6.jpg",
+      "publishedAt": "2024-02-15 10:51:25",
+      "content": "The suspected cases in children have no links to the death of the man (48) in Westmeath last week Three further possible cases of measles were reported in children last week, according to the Health\u2026 [+2821 chars]",
+      "retrievedAt": "2024-02-16 19:05:26.766727",
+      "internal_id": "77557c776d5a37d89198e25c4dac748724736bdf2cbf91351b20d1914e6c35fa",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5526,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Amanda Healy",
+      "title": "Measles: increasing vaccine uptake is vital in preventing outbreaks",
+      "description": "Reversing declining MMR vaccination rates and building vaccine confidence in local communities is critical to avert future measles outbreaks, says Amanda Healy Measles is on the rise with 240 cases in England in January 2024, compared with an average of just\u2026",
+      "url": "https://www.bmj.com/content/384/bmj.q402",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/384/8416.cover-source.jpg",
+      "publishedAt": "2024-02-15 10:16:16",
+      "content": "Amanda Healy, lead for health protectionAssociation of Directors of Public Health, London, UK Reversing declining MMR vaccination rates and building vaccine con\u2026 [+5741 chars]",
+      "retrievedAt": "2024-02-16 19:05:26.761873",
+      "internal_id": "9c03ba4b82e761552cabacc27da28a4cc4a7c9e79edc01bf8c89091653ac41c2",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5540,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Donegaldaily.com",
+      "author": "Staff Writer",
+      "title": "Health alert after three teens in same school contract Meningitis - Donegal Daily",
+      "description": "FacebookTweetLinkedInPrint The HSE has issued a health alert after three teenagers in the same school in the North-West region contracted\u2026",
+      "url": "https://www.donegaldaily.com/2024/02/15/health-alert-after-three-teens-in-same-school-contract-meningitis/",
+      "urlToImage": "https://www.donegaldaily.com/wp-content/uploads/2024/02/Meningitis.jpg",
+      "publishedAt": "2024-02-15 09:54:11",
+      "content": "The HSE has issued a health alert after three teenagers in the same school in the North-West region contracted meningococcal disease (Meningitis). The Department of Public Health West and North Wes\u2026 [+3749 chars]",
+      "retrievedAt": "2024-02-16 19:05:27.849561",
+      "internal_id": "ad1d534c4f883ecc10fd028e08727432589dd96e064bf9b2212f99cb0747efab",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5525,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Fiachra Gallagher",
+      "title": "Three further possible cases of measles reported in Ireland",
+      "description": "New figures from HPSC follow death of man (48) from viral illness last week",
+      "url": "https://www.irishtimes.com/health/2024/02/15/three-further-possible-cases-of-measles-reported-in-ireland/",
+      "urlToImage": "https://www.irishtimes.com/resizer/2U0CvLZ11Qyf5NwFhjo_TKE3iGg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/FAJOBEBYZBHDPJ6ZSAHC2NDLGE.jpg",
+      "publishedAt": "2024-02-15 09:08:51",
+      "content": "Three possible cases of measles were reported in Ireland between February 4th and 10th, according to the latest figures from the Health Protection Surveillance Centre (HPSC). There was one confirmed\u2026 [+1774 chars]",
+      "retrievedAt": "2024-02-16 19:05:26.756650",
+      "internal_id": "6fbf2497e9664cf7f593fba88e7030789dccbe37507b9a986c2490b6460e89c3",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5538,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Cartas de Leitores",
+      "description": "Avan\u00e7o da dengue \u00c9 preocupante a atual infesta\u00e7\u00e3o...",
+      "url": "https://valor.globo.com/opiniao/noticia/2024/02/15/b0c7d885-cartas-de-leitores.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-02-15 08:03:12",
+      "content": "Avan\u00e7o da dengue\u00c9 preocupante a atual infesta\u00e7\u00e3o do Aedes aegypti. Infectologistas brasileiros est\u00e3o mobilizados no sentido de desenvolver vacinas eficazes que previnam n\u00e3o s\u00f3 a dengue, como tamb\u00e9m o\u2026 [+1017 chars]",
+      "retrievedAt": "2024-02-16 19:05:27.582662",
+      "internal_id": "1423db6ba2debd8343f4bb3eb888bf3a6d3ec3b1f4353d39367fdc889111afea",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5533,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Elida Oliveira",
+      "title": "SP Alto Astral: De forma in\u00e9dita no pa\u00eds, SP usa drone contra dengue",
+      "description": "Prefeitura de SP adquiriu 15 mil litros de inseticida e 26 drones para combate \u00e0 dengue; mais de 1 milh\u00e3o de a\u00e7\u00f5es j\u00e1 foram feitas em 2024",
+      "url": "https://www.metropoles.com/conteudo-especial/sp-alto-astral-de-forma-inedita-no-pais-sp-usa-drone-contra-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/14193137/Drone-dengue.jpg",
+      "publishedAt": "2024-02-15 08:00:31",
+      "content": "A Prefeitura de S\u00e3o Paulo, de forma in\u00e9dita no Brasil, est\u00e1 testando o uso de drones em uma nova a\u00e7\u00e3o no combate \u00e0 prolifera\u00e7\u00e3o do mosquito Aedes aegypti, que transmite a dengue. Os equipamentos sob\u2026 [+2185 chars]",
+      "retrievedAt": "2024-02-16 19:05:27.452734",
+      "internal_id": "722e5329277f776b696c2934ccb3f89d6880af17c95f56eb7e00a2385c4550f2",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5530,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": null,
+      "title": "Allarme Dengue, il ministero della Salute lavora a scorta vaccini. Turisti italiani in Brasile aumentati del 50%",
+      "description": "Una possibile \u201carma\u201d di prevenzione in pi\u00f9, vista la crescita dei casi in Sud America, dell\u2019incremento del flusso dei viaggiatori per il Carnevale e dell\u2019arrivo della stagione mite in Italia",
+      "url": "https://www.ilsole24ore.com/art/allarme-dengue-ministero-salute-lavora-scorta-vaccini-turisti-italiani-brasile-aumentati-50percento-AFH5wfiC",
+      "urlToImage": "https://i2.res.24o.it/images2010/2024/02/AFH5wfiC/images/5bff7390-cbd5-11ee-9989-574d4929f8ec-fotohome0.jpg",
+      "publishedAt": "2024-02-15 07:33:44",
+      "content": "Ascolta la versione audio dell'articolo 4' di lettura Dopo la circolare sulla Dengue, che alza il livello di allerta e attenzione in porti e aeroporti, la direzione della Prevenzione del ministero \u2026 [+3631 chars]",
+      "retrievedAt": "2024-02-16 19:05:27.366491",
+      "internal_id": "d1941a067dbf618f7fe3a1d7b63e9146a1d25ae933c2660181fef8f3f93cdcab",
+      "publishedAtLabel": "Feb 15"
+    },
     {
       "id": 5521,
       "query": [
@@ -27164,25 +27614,6 @@
       "content": "\u00a1De acab\u00f3 la maldici\u00f3n! Detroit Pistons se impuso este s\u00e1bado en el Little Caesars Arena a los Toronto Raptors (127-129) para poner fin a la hist\u00f3rica mala racha de 28 derrotas consecutivas en esta \u2026 [+1028 chars]",
       "retrievedAt": "2024-01-02 07:05:51.070033",
       "internal_id": "6e01ac63ef0fc89eff9708a91f7f191afe0b2ad60e5f4225a40e054452505e55",
-      "publishedAtLabel": "Dec 31"
-    },
-    {
-      "id": 4014,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Wnd.com",
-      "author": "WND News Services",
-      "title": "Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals",
-      "description": "Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. Polio, which paralyzed thousands of Americans annually, was wiped out by widespread vaccinations. In 1999 the natio\u2026",
-      "url": "https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/12/illegals-aliens-migrants-immigration-caravan-border-undocumented-jpg.jpg",
-      "publishedAt": "2023-12-31 18:27:17",
-      "content": "(Video screenshot) [Editor's note: This story originally was published by Real Clear Wire.] By James VarneyReal Clear Wire Successful public health campaigns and medical advances have enabled the \u2026 [+12728 chars]",
-      "retrievedAt": "2024-01-01 19:05:22.272433",
-      "internal_id": "73ad94b20c057ac3685a1a9a55d3a81445edc3d2809aa8e5f96664ff4cc03d7a",
       "publishedAtLabel": "Dec 31"
     }
   ]

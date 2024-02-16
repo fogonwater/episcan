@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-02-16 07:05
-- **Most recent article:** 2024-02-15 06:35:35
+- **New articles in last harvest:** 25
+- **Last harvest:** 2024-02-16 19:05
+- **Most recent article:** 2024-02-15 19:04:47
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 111 | 775 |
-| measles | 1 | 8 | 25 | 61 | 56 | 47 | 68 | 21 | 287 |
-| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 35 | 8 | 244 |
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 121 | 785 |
+| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 26 | 291 |
+| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 11 | 246 |
 | zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 3 | 54 |
 | rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 7 | 43 |
 | chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 3 | 43 |
-| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 5 | 36 |
-| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 4 | 28 |
-| pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 1 | 20 |
+| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 7 | 38 |
+| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 6 | 30 |
+| pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 3 | 22 |
 | sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 1 | 13 |
+| typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 1 | 8 |
 | yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 2 | 8 |
-| typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 0 | 7 |
 | leptospirosis | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 1 | 5 |
 
 
@@ -44,6 +44,10 @@ Source: [News API](https://newsapi.org/)
 - [Stati Uniti, identificato un caso di peste bubbonica: probabile contagio da un gatto](https://www.ilfattoquotidiano.it/2024/02/14/stati-uniti-identificato-un-raro-caso-di-peste-bubbonica-probabile-contagio-da-un-gatto/7446137/) (Ilfattoquotidiano.it)
 
 - [В Орегоне человек заразился бубонной чумой от кошки](https://naked-science.ru/article/medicine/chelovek-zarazilsya-bubon) (Naked-science.ru)
+
+## 24-7 (typhoid)
+
+- [Old tools, new applications: Use of environmental bacteriophages for typhoid surveillance and evaluating vaccine impact](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011822) (Plos.org)
 
 ## 24-7 (sarampión)
 
@@ -67,9 +71,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (pertussis)
 
+- [Pertussis Vaccine Market Overview 2024: Market Size, Major Growth Factors And Leading Regions As Per The Business Research Company's Pertussis Vaccine Global Market Report 2024](https://www.globenewswire.com/news-release/2024/02/15/2830212/0/en/Pertussis-Vaccine-Market-Overview-2024-Market-Size-Major-Growth-Factors-And-Leading-Regions-As-Per-The-Business-Research-Company-s-Pertussis-Vaccine-Global-Market-Report-2024.html) (GlobeNewswire)
+
+- [Whole-genome comparison of two same-genotype macrolide-resistant Bordetella pertussis isolates collected in Japan](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298147) (Plos.org)
+
 - [Health officials confirm 5 cases of whooping cough, including child who was hospitalized](https://www.hawaiinewsnow.com/2024/02/15/health-officials-confirm-5-cases-whooping-cough-including-child-who-was-hospitalized/) (Hawaii News Now)
 
 ## 24-7 (mpox)
+
+- [Πρώτος νεκρός από την ευλογιά της Αλάσκας – Τι είναι και πως μεταδίδεται](https://www.newsit.gr/ygeia/protos-nekros-apo-tin-eylogia-tis-alaskas-ti-einai-kai-pos-metadidetai/3980656/) (Newsit.gr)
+
+- [Alaskapocken: Erster Todesfall durch das Virus](https://www.dw.com/de/alaskapocken-erster-todesfall-durch-das-virus/a-68256959) (DW (English))
 
 - [Alaskapox: First known death from the virus](https://timesofindia.indiatimes.com/world/us/alaskapox-first-known-death-from-the-virus/articleshow/107712946.cms) (The Times of India)
 
@@ -80,6 +92,10 @@ Source: [News API](https://newsapi.org/)
 - [What To Know About Alaskapox After Officials Confirm First Death From Recently Discovered Virus](https://www.forbes.com/sites/roberthart/2024/02/12/what-to-know-about-alaskapox-after-officials-confirm-first-death-from-recently-discovered-virus/) (Forbes)
 
 ## 24-7 (meningitis)
+
+- [Luis Canut sorprende a Patricia Pérez en pleno directo: 'Me salvaste la vida'](https://www.hola.com/actualidad/20240215249357/patricia-perez-luis-canut-sorpresa-directo/) (Hola)
+
+- [Health alert after three teens in same school contract Meningitis - Donegal Daily](https://www.donegaldaily.com/2024/02/15/health-alert-after-three-teens-in-same-school-contract-meningitis/) (Donegaldaily.com)
 
 - [Study 'Really Rings the Alarm' About Medical Tourism Risks](https://www.newser.com/story/346390/study-really-rings-the-alarm-about-medical-tourism-risks.html) (Newser)
 
@@ -92,6 +108,16 @@ Source: [News API](https://newsapi.org/)
 - [Luis Canut reaparece mostrando su vida actual y hace una declaración de amor a Patricia Pérez](https://www.europapress.es/chance/gente/noticia-luis-canut-reaparece-mostrando-vida-actual-hace-declaracion-amor-patricia-perez-20240211223214.html) (Europapress.es)
 
 ## 24-7 (measles)
+
+- [Three more ‘possible’ measles cases in two children under four and child under 10](https://www.independent.ie/irish-news/three-more-possible-measles-cases-in-two-children-under-four-and-child-under-10/a1491375331.html) (Independent.ie)
+
+- [England now seeing clusters of measles cases](https://www.bbc.co.uk/news/health-68305511) (BBC News)
+
+- [Three more ‘possible’ measles cases in two children under four and a teen](https://www.independent.ie/irish-news/three-more-possible-measles-cases-in-two-children-under-four-and-a-teen/a1491375331.html) (Independent.ie)
+
+- [Measles: increasing vaccine uptake is vital in preventing outbreaks](https://www.bmj.com/content/384/bmj.q402) (The BMJ)
+
+- [Three further possible cases of measles reported in Ireland](https://www.irishtimes.com/health/2024/02/15/three-further-possible-cases-of-measles-reported-in-ireland/) (The Irish Times)
 
 - [Travellers caught short on measles vaccinations bring 'unwanted friends' home with them](https://www.abc.net.au/news/2024-02-15/overseas-travellers-bring-measles-into-australia-vaccination/103470770) (ABC News (AU))
 
@@ -137,6 +163,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (malaria)
 
+- [RNA-dependent protein research advances the fight against malaria](https://phys.org/news/2024-02-rna-protein-advances-malaria.html) (Phys.Org)
+
+- [Kenya: Campaign to Combat Malaria in Kenya Unveiled](https://allafrica.com/stories/202402150355.html) (AllAfrica - Top Africa News)
+
+- [Blocking nutrient could stop malaria parasite growth](https://www.futurity.org/malaria-parasite-mosquitoes-3180272/) (Futurity: Research News)
+
 - [The Anopheles leucine-rich repeat protein APL1C is a pathogen binding factor recognizing Plasmodium ookinetes and sporozoites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012008) (Plos.org)
 
 - [Los urogallos pirenaicos están infectados por parásitos sanguíneos y un nuevo virus](https://www.meneame.net/m/ciencia/urogallos-pirenaicos-estan-infectados-parasitos-sanguineos-nuevo) (Meneame.net)
@@ -158,6 +190,26 @@ Source: [News API](https://newsapi.org/)
 - [Leptospirosis: estigma sobre esta enfermedad puede retrasar su diagnóstico](https://www.eluniversal.com.co/salud/leptospirosis-estigma-sobre-esta-enfermedad-puede-retrasar-su-diagnostico-XN9960642) (Eluniversal.com.co)
 
 ## 24-7 (dengue)
+
+- [Surto de dengue: aprenda como usar repelente e protetor corretamente](https://www.metropoles.com/vida-e-estilo/surto-de-dengue-aprenda-como-usar-repelente-e-protetor-corretamente) (Metropoles.com)
+
+- [GDF e ministérios se reúnem para tratar do combate à dengue em escolas](https://www.metropoles.com/distrito-federal/gdf-e-ministerios-se-reunem-para-tratar-do-combate-a-dengue-em-escolas) (Metropoles.com)
+
+- [Angst vor Dengue-Fieber - Italien verschärft Sicherheit an Flughäfen](https://www.bild.de/news/ausland/news-ausland/angst-vor-dengue-fieber-italien-verschaerft-sicherheit-an-flughaefen-87178548.bild.html) (Bild)
+
+- [El dengue, la amenaza de salud pública mundial que ya se ha hecho realidad en Europa](https://www.elconfidencialdigital.com/articulo/comunicados/dengue-amenaza-salud-publica-mundial-que-ha-hecho-realidad-europa/20240215165246724370.html) (Elconfidencialdigital.com)
+
+- [Número de mortes por dengue em SP em 2024 sobe para 11](https://www.metropoles.com/sao-paulo/numero-mortes-dengue-sp-sobe-para-11) (Metropoles.com)
+
+- [Paraíba confirma primeira morte por dengue em 2024](https://www.metropoles.com/brasil/paraiba-confirma-primeira-morte-por-dengue-em-2024) (Metropoles.com)
+
+- [Emergenza dengue](https://www.internazionale.it/magazine/2024/02/15/emergenza-dengue) (Internazionale.it)
+
+- [Cartas de Leitores](https://valor.globo.com/opiniao/noticia/2024/02/15/b0c7d885-cartas-de-leitores.ghtml) (Globo)
+
+- [SP Alto Astral: De forma inédita no país, SP usa drone contra dengue](https://www.metropoles.com/conteudo-especial/sp-alto-astral-de-forma-inedita-no-pais-sp-usa-drone-contra-dengue) (Metropoles.com)
+
+- [Allarme Dengue, il ministero della Salute lavora a scorta vaccini. Turisti italiani in Brasile aumentati del 50%](https://www.ilsole24ore.com/art/allarme-dengue-ministero-salute-lavora-scorta-vaccini-turisti-italiani-brasile-aumentati-50percento-AFH5wfiC) (Il Sole 24 Ore)
 
 - [Study sheds light on severity of both primary and secondary dengue infection in kids](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/study-reveals-severity-of-primary-and-secondary-dengue-infection-in-children/articleshow/107712585.cms) (The Times of India)
 
@@ -3317,12 +3369,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
-## 23-53 (measles)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
-
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
