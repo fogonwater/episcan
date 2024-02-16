@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 35
-- **Last harvest:** 2024-02-15 19:05
-- **Most recent article:** 2024-02-14 18:54:51
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-02-16 07:05
+- **Most recent article:** 2024-02-15 06:35:35
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 98 | 762 |
-| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 19 | 284 |
-| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 8 | 243 |
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 111 | 775 |
+| measles | 1 | 8 | 25 | 61 | 56 | 47 | 68 | 21 | 287 |
+| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 35 | 8 | 244 |
 | zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 3 | 54 |
+| rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 7 | 43 |
 | chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 3 | 43 |
-| rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 5 | 41 |
-| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 4 | 35 |
-| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 3 | 27 |
-| pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 0 | 19 |
+| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 5 | 36 |
+| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 4 | 28 |
+| pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 1 | 20 |
 | sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 1 | 13 |
 | yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 2 | 8 |
 | typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 0 | 7 |
@@ -51,6 +51,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (rabies)
 
+- [Health, Agriculture Ministries' warn public against stray dogs from Gaza](https://www.jpost.com/israel-hamas-war/article-787024) (The Jerusalem Post)
+
+- [Team creates novel rabies viral vectors for neural circuit mapping](https://www.sciencedaily.com/releases/2024/02/240214150309.htm) (Science Daily)
+
 - [Hiker kills rabid coyote with bare hands in Rhode Island](https://www.cbsnews.com/news/rhode-island-hiker-kills-rabid-coyote-with-bare-hands/) (CBS News)
 
 - [Rhode Island hiker gets bitten by coyote before killing it with his bare hands, tests reveal animal had rabies](https://www.foxnews.com/us/rhode-island-hiker-bitten-coyote-before-killing-with-bare-hands-tests-reveal-animal-rabies) (Fox News)
@@ -61,7 +65,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Policy paper: EM on EU legislation concerning rabies testing (C(2023)7658)](https://www.gov.uk/government/publications/em-on-eu-legislation-concerning-rabies-testing-c20237658) (Www.gov.uk)
 
+## 24-7 (pertussis)
+
+- [Health officials confirm 5 cases of whooping cough, including child who was hospitalized](https://www.hawaiinewsnow.com/2024/02/15/health-officials-confirm-5-cases-whooping-cough-including-child-who-was-hospitalized/) (Hawaii News Now)
+
 ## 24-7 (mpox)
+
+- [Alaskapox: First known death from the virus](https://timesofindia.indiatimes.com/world/us/alaskapox-first-known-death-from-the-virus/articleshow/107712946.cms) (The Times of India)
 
 - [Alaskapox: First known death from the virus](https://www.dw.com/en/alaskapox-first-known-death-from-the-virus/a-68255944) (DW (English))
 
@@ -70,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 - [What To Know About Alaskapox After Officials Confirm First Death From Recently Discovered Virus](https://www.forbes.com/sites/roberthart/2024/02/12/what-to-know-about-alaskapox-after-officials-confirm-first-death-from-recently-discovered-virus/) (Forbes)
 
 ## 24-7 (meningitis)
+
+- [Study 'Really Rings the Alarm' About Medical Tourism Risks](https://www.newser.com/story/346390/study-really-rings-the-alarm-about-medical-tourism-risks.html) (Newser)
 
 - [Student of Roscommon school battling Meningitis outbreak first became sick on school trip to Poland](https://www.independent.ie/regionals/roscommon/news/student-of-roscommon-school-battling-meningitis-outbreak-first-became-sick-on-school-trip-to-poland/a937744507.html) (Independent.ie)
 
@@ -80,6 +92,10 @@ Source: [News API](https://newsapi.org/)
 - [Luis Canut reaparece mostrando su vida actual y hace una declaración de amor a Patricia Pérez](https://www.europapress.es/chance/gente/noticia-luis-canut-reaparece-mostrando-vida-actual-hace-declaracion-amor-patricia-perez-20240211223214.html) (Europapress.es)
 
 ## 24-7 (measles)
+
+- [Travellers caught short on measles vaccinations bring 'unwanted friends' home with them](https://www.abc.net.au/news/2024-02-15/overseas-travellers-bring-measles-into-australia-vaccination/103470770) (ABC News (AU))
+
+- [Ask the doctor: I heard that no one in Ireland born before 1985 is vaccinated against measles. Am I safe?](https://www.independent.ie/life/health-wellbeing/health-features/ask-the-doctor-i-heard-that-no-one-in-ireland-born-before-1985-is-vaccinated-against-measles-am-i-safe/a2029278080.html) (Independent.ie)
 
 - [Three suspected and one confirmed case of measles reported in latest weekly figures](https://www.thejournal.ie/measles-cases-ireland-6300003-Feb2024/) (TheJournal.ie)
 
@@ -142,6 +158,32 @@ Source: [News API](https://newsapi.org/)
 - [Leptospirosis: estigma sobre esta enfermedad puede retrasar su diagnóstico](https://www.eluniversal.com.co/salud/leptospirosis-estigma-sobre-esta-enfermedad-puede-retrasar-su-diagnostico-XN9960642) (Eluniversal.com.co)
 
 ## 24-7 (dengue)
+
+- [Study sheds light on severity of both primary and secondary dengue infection in kids](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/study-reveals-severity-of-primary-and-secondary-dengue-infection-in-children/articleshow/107712585.cms) (The Times of India)
+
+- [“Revirou os olhos”, diz marido sobre queda de esposa com dengue em UPA](https://www.metropoles.com/distrito-federal/revirou-os-olhos-diz-marido-sobre-queda-de-esposa-com-dengue-em-upa) (Metropoles.com)
+
+- [Mortes por dengue: vítimas vão de bebê a idoso; maior incidência é 80+](https://www.metropoles.com/colunas/grande-angular/mortes-por-dengue-vitimas-vao-de-bebe-a-idoso-maior-incidencia-e-80) (Metropoles.com)
+
+- [Mortes por dengue em 2024 já superam as dos últimos dois anos somados](https://www.metropoles.com/distrito-federal/mortes-por-dengue-em-2024-ja-superam-as-dos-ultimos-dois-anos-somados) (Metropoles.com)
+
+- [Vacina contra dengue completa 1 semana estocada em SP; saiba o motivo](https://www.metropoles.com/sao-paulo/vacina-contra-dengue-completa-uma-semana-estocada-em-sp-entenda) (Metropoles.com)
+
+- [Aumento de Covid e dengue deve pressionar Saúde em SP no pós-Carnaval](https://www.metropoles.com/sao-paulo/aumento-de-covid-e-dengue-deve-pressionar-saude-em-sp-no-pos-carnaval) (Metropoles.com)
+
+- [Extrato de alecrim pode ajudar no combate à dengue, diz estudo do DF](https://www.metropoles.com/saude/extrato-alecrim-combate-a-dengue) (Metropoles.com)
+
+- [Race against dengue](https://elifesciences.org/articles/96018) (Elifesciences.org)
+
+- [Morte em UPA: paciente com dengue foi derrubada por equipe ao chegar](https://www.metropoles.com/distrito-federal/morte-em-upa-paciente-com-dengue-foi-derrubada-por-equipe-ao-chegar) (Metropoles.com)
+
+- [Ministério anuncia mais R$ 1,5 bilhão para combate à dengue](https://jornaldebrasilia.com.br/noticias/politica-e-poder/ministerio-anuncia-mais-r-15-bilhao-para-combate-a-dengue/) (Jornaldebrasilia.com.br)
+
+- [Italy raises dengue border alert level](https://www.thestar.com.my/news/world/2024/02/15/italy-raises-dengue-border-alert-level) (The Star Online)
+
+- [Casos assintomáticos de dengue preocupam especialistas e inflam subnotificação](https://jornaldebrasilia.com.br/noticias/brasil/casos-assintomaticos-de-dengue-preocupam-especialistas-e-inflam-subnotificacao-2/) (Jornaldebrasilia.com.br)
+
+- [Saiba quais regiões do Distrito Federal têm mais casos de dengue](https://www.metropoles.com/colunas/grande-angular/saiba-quais-regioes-do-distrito-federal-tem-mais-casos-de-dengue) (Metropoles.com)
 
 - [Brasil supera los 500 mil casos de dengue en 2024; Río de Janeiro declara emergencia sanitaria](https://aristeguinoticias.com/1402/mundo/brasil-supera-los-500-mil-casos-de-dengue-en-2024-rio-de-janeiro-declara-emergencia-sanitaria/) (Aristeguinoticias.com)
 
@@ -3275,6 +3317,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
+## 23-53 (measles)
+
+- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
+
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
+
+- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)

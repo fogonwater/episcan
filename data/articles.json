@@ -1,8 +1,368 @@
 {
-  "last_updated": "2024-02-15 19:05",
-  "count_articles_total": 1486,
-  "count_articles_new": 35,
+  "last_updated": "2024-02-16 07:05",
+  "count_articles_total": 1507,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 5521,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Deutsche Welle",
+      "title": "Alaskapox: First known death from the virus",
+      "description": "US News: Alaskapox is an orthopoxvirus related to smallpox, cowpox and mpox (initially known as \"monkeypox\").",
+      "url": "https://timesofindia.indiatimes.com/world/us/alaskapox-first-known-death-from-the-virus/articleshow/107712946.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107712968,width-1070,height-580,imgsize-49770,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-15 06:35:35",
+      "content": "10 saris of Kajol which are perfect for Saraswati Puja",
+      "retrievedAt": "2024-02-16 07:05:35.892689",
+      "internal_id": "9690603885cf40443c11d10ffebf8194db3e8aed06939ff48c15ee41ab2ace88",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5508,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "Study sheds light on severity of both primary and secondary dengue infection in kids",
+      "description": "A collaborative study in India challenges the belief that only secondary dengue infections are severe. Primary infections can also lead to severe disease, including dengue hemorrhagic fever or dengue shock syndrome. This finding calls for a reevaluation of de\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/study-reveals-severity-of-primary-and-secondary-dengue-infection-in-children/articleshow/107712585.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107712605,width-1070,height-580,imgsize-765830,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-15 06:29:24",
+      "content": "Breast Cancer: Early signs of the disease one must never ignore",
+      "retrievedAt": "2024-02-16 07:05:34.319010",
+      "internal_id": "ca12458fefc320964e1ee2d74259a6518848129c35f6b31f9e5ffd589d4bdcc6",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5502,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Hawaii News Now",
+      "author": "Hnn Staff",
+      "title": "Health officials confirm 5 cases of whooping cough, including child who was hospitalized",
+      "description": "Health officials confirm 5 cases of whooping cough, including child who was hospitalizedhawaiinewsnow.com",
+      "url": "https://www.hawaiinewsnow.com/2024/02/15/health-officials-confirm-5-cases-whooping-cough-including-child-who-was-hospitalized/",
+      "urlToImage": "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/v2/V7OXH6P5XRAOZBAW243ZHPLE2I.jpg?auth=03fcb77c1ea12ebc1421260e1cba3d1f70230c28d04a10b8302540d9b78657eb&width=1200&height=600&smart=true",
+      "publishedAt": "2024-02-15 05:47:34",
+      "content": "HONOLULU (HawaiiNewsNow) - The state Department of Health on Wednesday confirmed five cases of pertussis, also known as whooping cough, including a child who was hospitalized. Health officials said \u2026 [+923 chars]",
+      "retrievedAt": "2024-02-16 07:05:33.137555",
+      "internal_id": "926ab1c2dd3c80eb1531316e0b6a3096d39e3f663d872eac1dbc1c759888cce2",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5515,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "\u201cRevirou os olhos\u201d, diz marido sobre queda de esposa com dengue em UPA",
+      "description": "C\u00edntia Maria estava com dengue e procurou UPA 2 vezes. Na \u00faltima vez que esteve na unidade, caiu da cadeira de rodas e morreu no mesmo dia",
+      "url": "https://www.metropoles.com/distrito-federal/revirou-os-olhos-diz-marido-sobre-queda-de-esposa-com-dengue-em-upa",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/14143228/paciente-upa-dengue-4.jpg",
+      "publishedAt": "2024-02-15 05:40:12",
+      "content": "A morte de C\u00edntia Maria Dourado Mendes (foto em destaque), 42 anos, intriga a fam\u00edlia. A paciente estava com sintomas de dengue, procurou atendimento por duas vezes na unidade de pronto-atendimento (\u2026 [+4388 chars]",
+      "retrievedAt": "2024-02-16 07:05:34.396812",
+      "internal_id": "65badf8c7faac6bfec051899f96b449caf02b82a124f4e2c5d59c204550e007a",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5510,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "Mortes por dengue: v\u00edtimas v\u00e3o de beb\u00ea a idoso; maior incid\u00eancia \u00e9 80+",
+      "description": "Entre as 23 mortes provocadas pela dengue em 2024, no Distrito Federal, 21,7% s\u00e3o de idosos de 80 anos ou mais",
+      "url": "https://www.metropoles.com/colunas/grande-angular/mortes-por-dengue-vitimas-vao-de-bebe-a-idoso-maior-incidencia-e-80",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08095340/hospital-de-campanha-atendendo-casos-de-dengue-no-DF-11.jpeg",
+      "publishedAt": "2024-02-15 05:34:48",
+      "content": "O quadro com a idade das 23 v\u00edtimas de dengue no Distrito Federal, em 2024, mostra que a doen\u00e7a n\u00e3o escolhe faixa et\u00e1ria, e mata de beb\u00ea a idoso. A maior incid\u00eancia, por\u00e9m, \u00e9 no grupo de 80 anos ou m\u2026 [+1486 chars]",
+      "retrievedAt": "2024-02-16 07:05:34.336478",
+      "internal_id": "158018f8016b6d2b303cada84d59ceb5f3dbdb3b5b60ce0c5d5ef4df11bf7837",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5514,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jonatas Martins",
+      "title": "Mortes por dengue em 2024 j\u00e1 superam as dos \u00faltimos dois anos somados",
+      "description": "Com 23 mortes por dengue no DF, in\u00edcio de 2024 j\u00e1 possui mais \u00f3bitos pela doen\u00e7a do que os \u00faltimos dois anos somados",
+      "url": "https://www.metropoles.com/distrito-federal/mortes-por-dengue-em-2024-ja-superam-as-dos-ultimos-dois-anos-somados",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2024-02-15 05:23:49",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-16 07:05:34.391909",
+      "internal_id": "4823929c6608c28683874c66e4d75584eb368487b1f6cf60e53128f315e875ca",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5512,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jessica Bernardo",
+      "title": "Vacina contra dengue completa 1 semana estocada em SP; saiba o motivo",
+      "description": "Com mais de 49 mil casos de Dengue confirmados e 9 \u00f3bitos registrados, estado de S\u00e3o Paulo n\u00e3o divulgou cronograma de in\u00edcio de vacina\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/sao-paulo/vacina-contra-dengue-completa-uma-semana-estocada-em-sp-entenda",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08161628/vacina-dengue-qdenga-2.jpeg",
+      "publishedAt": "2024-02-15 05:05:55",
+      "content": "S\u00e3o Paulo Com mais de 49 mil casos de dengue confirmados e 9 \u00f3bitos registrados, o estado de S\u00e3o Paulo mant\u00e9m estocadas h\u00e1 uma semana as 79,6 mil doses de vacina contra a doen\u00e7a enviadas pelo Minist\u00e9\u2026 [+6978 chars]",
+      "retrievedAt": "2024-02-16 07:05:34.380450",
+      "internal_id": "54574fada3cddbbf1f6a1419e16a46a269737a6538e287e201c8781de4dcfccc",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5513,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jessica Bernardo",
+      "title": "Aumento de Covid e dengue deve pressionar Sa\u00fade em SP no p\u00f3s-Carnaval",
+      "description": "Com mais de 10 mil casos de dengue confirmados, capital paulista vive tamb\u00e9m uma alta no n\u00famero de infec\u00e7\u00f5es por Covid-19",
+      "url": "https://www.metropoles.com/sao-paulo/aumento-de-covid-e-dengue-deve-pressionar-saude-em-sp-no-pos-carnaval",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2024-02-15 05:00:53",
+      "content": "S\u00e3o Paulo Os servi\u00e7os de Sa\u00fade da capital paulista devem ter um p\u00f3s-Carnaval conturbado, segundo especialistas ouvidos pelo Metr\u00f3poles. Com mais de 10 mil casos de dengue confirmados, a cidade tamb\u00e9m\u2026 [+9383 chars]",
+      "retrievedAt": "2024-02-16 07:05:34.384919",
+      "internal_id": "0bc3a759a95ca2695dbb9c180f9d0fd336f7633b7a4124e0f527fd48e83ed11f",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5516,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Extrato de alecrim pode ajudar no combate \u00e0 dengue, diz estudo do DF",
+      "description": "Pesquisa cria m\u00e9todo sustent\u00e1vel com alecrim para produzir larvicidas para controlar a prolifera\u00e7\u00e3o do mosquito. Saiba fazer a mistura",
+      "url": "https://www.metropoles.com/saude/extrato-alecrim-combate-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2021/12/01014942/Oleo-de-alecrim_1.jpg",
+      "publishedAt": "2024-02-15 05:00:52",
+      "content": "Uma das formas mais eficientes de controlar os casos de dengue \u00e9 impedir que o Aedes aegypti, o mosquito que transmite a doen\u00e7a, se reproduza. Uma pesquisa feita no Distrito Federal indica que uma al\u2026 [+6187 chars]",
+      "retrievedAt": "2024-02-16 07:05:34.409372",
+      "internal_id": "495791b3243d364268ca4bb6f985251ad61a7446eaae4ef8122831e62df8692a",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5505,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Gemma Sapwell and Sarah Cumming",
+      "title": "Travellers caught short on measles vaccinations bring 'unwanted friends' home with them",
+      "description": "Middle-aged Australians who think they are vaccinated against measles may not be correct, as health authorities warn of cases coming home with overseas travellers.",
+      "url": "https://www.abc.net.au/news/2024-02-15/overseas-travellers-bring-measles-into-australia-vaccination/103470770",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7668c8158caf8a02fef2da0a3a16f47a?impolicy=wcms_crop_resize&cropH=2148&cropW=3818&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-02-15 03:56:34",
+      "content": "In short: Health authorities say three cases of measles on the Gold Coast have come from overseas.They are the latest in a handful of cases of the highly infectious disease found in \u2026 [+3536 chars]",
+      "retrievedAt": "2024-02-16 07:05:33.719391",
+      "internal_id": "326d438ef22edb934c09d890512feed55e977ab59da5858464f40c93a8bb8210",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5504,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY JERUSALEM POST STAFF",
+      "title": "Health, Agriculture Ministries' warn public against stray dogs from Gaza",
+      "description": "These animals may carry with them diseases such as rabies, scabies, echinococcus and leishmania which may spread within Israeli territory.",
+      "url": "https://www.jpost.com/israel-hamas-war/article-787024",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/578640",
+      "publishedAt": "2024-02-15 02:47:10",
+      "content": "The Health Ministry and Agriculture Ministry warned the general public on Wednesday not to bring into Israeli territory stray cats and dogs from the Palestinian Authority, Gaza, and from over the the\u2026 [+1725 chars]",
+      "retrievedAt": "2024-02-16 07:05:33.490493",
+      "internal_id": "add29a5856c384ac3e24dfc8b53d107ae5bae45a88a7a464a157c51bf154b0dc",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5506,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Jennifer Grant",
+      "title": "Ask the doctor: I heard that no one in Ireland born before 1985 is vaccinated against measles. Am I safe?",
+      "description": "Question: I heard recently that no one in Ireland who was born before 1985 was vaccinated against measles as a matter of course. Is this true? How can you test if you are immune or not? Is it possible to get vaccinated at any stage? How do we know if we are s\u2026",
+      "url": "https://www.independent.ie/life/health-wellbeing/health-features/ask-the-doctor-i-heard-that-no-one-in-ireland-born-before-1985-is-vaccinated-against-measles-am-i-safe/a2029278080.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/OxWX5onJi_azzAmWQLG3Tt6l2Vk=/0x0:3237x2158/629x0/prod-mh-ireland/9ea2dd2a-26f9-4483-a2bb-2b1bbf492400/fb915dff-dc60-47b6-a44a-d4e5b174479a/tyImages_1718981175.jpg",
+      "publishedAt": "2024-02-15 02:30:00",
+      "content": "The measles vaccine was introduced nationwide in Ireland in 1985. Dr Jennifer Grant gives her advice on measles and the MMR jab Question: I heard recently that no one in Ireland who was born before \u2026 [+4523 chars]",
+      "retrievedAt": "2024-02-16 07:05:33.728256",
+      "internal_id": "77b703614e11b263b48a7620a41dbbb16b9b8bb3e67a979f2ece11ad47126d13",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5507,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "engeong.ooi@duke-nus.edu.sg (Eng Eong Ooi), engeong.ooi@duke-nus.edu.sg (Swee Sen Kwek)",
+      "title": "Race against dengue",
+      "description": "Understanding the kinetics of dengue viruses in the bloodstream can provide insights into the clinical outcomes of the disease.",
+      "url": "https://elifesciences.org/articles/96018",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-02-15 00:00:00",
+      "content": "Dengue fever is an acute viral disease that afflicts an estimated 100 million people each year, killing around 40,000 of those infected (Bhatt et al., 2013). It can be caused by infection with any of\u2026 [+4958 chars]",
+      "retrievedAt": "2024-02-16 07:05:34.295539",
+      "internal_id": "919f951afc145119d4c787255410ee3ed68b926337c70b668e9a7d7500ce70fd",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5517,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalita Vasconcelos",
+      "title": "Morte em UPA: paciente com dengue foi derrubada por equipe ao chegar",
+      "description": "C\u00edntia Maria teria sido retirada do carro em que estava por equipe da UPA, que derrubou a paciente. Em seguida, ela bateu a nuca em meio-fio",
+      "url": "https://www.metropoles.com/distrito-federal/morte-em-upa-paciente-com-dengue-foi-derrubada-por-equipe-ao-chegar",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/14140512/paciente-upa-dengue-3.jpg",
+      "publishedAt": "2024-02-14 21:36:43",
+      "content": "A paciente com dengue que morreu ap\u00f3s buscar atendimento duas vezes na Unidade de Pronto-Atendimento (UPA) de Brazl\u00e2ndia teria sido derrubada e batido a nuca no meio-fio. O acidente teria acontecido \u2026 [+5591 chars]",
+      "retrievedAt": "2024-02-16 07:05:34.416574",
+      "internal_id": "9d2de87f5a8bbb6c88cb38c0724471b01d88eb5c3cd3e658c508d7f43605c869",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5511,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Minist\u00e9rio anuncia mais R$ 1,5 bilh\u00e3o para combate \u00e0 dengue",
+      "description": "S\u00e3o Paulo, 14 - O Minist\u00e9rio da Sa\u00fade anunciou ontem a amplia\u00e7\u00e3o dos recursos reservados para apoiar Estados, munic\u00edpios e o Distrito...",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/ministerio-anuncia-mais-r-15-bilhao-para-combate-a-dengue/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/01/26172741/Denue.webp",
+      "publishedAt": "2024-02-14 20:51:51",
+      "content": "S\u00e3o Paulo, 14 \u2013 O Minist\u00e9rio da Sa\u00fade anunciou ontem a amplia\u00e7\u00e3o dos recursos reservados para apoiar Estados, munic\u00edpios e o Distrito Federal no enfrentamento de emerg\u00eancias. O repasse, que ser\u00e1 de R\u2026 [+1393 chars]",
+      "retrievedAt": "2024-02-16 07:05:34.360680",
+      "internal_id": "986f5aa4fb9fafda285df5b08df2c784c11e0f0932955be13ec5b26bc9d8c6c1",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5519,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Italy raises dengue border alert level",
+      "description": "ROME, Feb. 14 (Xinhua) -- Italy's Ministry of Health has raised the border alert level for dengue fever in response to the global increase in cases and warnings from the World Health Organization (WHO) against the spread of the disease. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/02/15/italy-raises-dengue-border-alert-level",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-02-14 20:35:00",
+      "content": "ROME, Feb. 14 (Xinhua) -- Italy's Ministry of Health has raised the border alert level for dengue fever in response to the global increase in cases and warnings from the World Health Organization (WH\u2026 [+1189 chars]",
+      "retrievedAt": "2024-02-16 07:05:34.467689",
+      "internal_id": "98d573aad09591bbded616a32f2212d55593ea26d0ecfa77f370b162163f0f7e",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5509,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Casos assintom\u00e1ticos de dengue preocupam especialistas e inflam subnotifica\u00e7\u00e3o",
+      "description": "PATR\u00cdCIA PASQUINI S\u00c3O PAULO, SP (FOLHAPRESS) - Os casos assintom\u00e1ticos de dengue -aqueles em que as pessoas s\u00e3o picadas pelo mosquito...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/casos-assintomaticos-de-dengue-preocupam-especialistas-e-inflam-subnotificacao-2/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-14 20:17:51",
+      "content": "PATR\u00cdCIA PASQUINI S\u00c3O PAULO, SP (FOLHAPRESS) - Os casos assintom\u00e1ticos de dengue -aqueles em que as pessoas s\u00e3o picadas pelo mosquito...",
+      "retrievedAt": "2024-02-16 07:05:34.329301",
+      "internal_id": "3385f45a3bcb1187b07e061d76c779612fd4cd65750a1867c62a2eab8c6e175d",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5503,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Team creates novel rabies viral vectors for neural circuit mapping",
+      "description": "A research team has created 20 new recombinant rabies viral vectors for neural circuit mapping that offer a range of significant advantages over existing tools, including the ability to detect microstructural changes in models of aging and Alzheimer's disease\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/02/240214150309.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-02-14 20:03:09",
+      "content": "A research team led by the University of California, Irvine has created 20 new recombinant rabies viral vectors for neural circuit mapping that offer a range of significant advantages over existing t\u2026 [+3005 chars]",
+      "retrievedAt": "2024-02-16 07:05:33.486439",
+      "internal_id": "d375b1df37a620d9642b203b39297c3b950ff00c36ed22bf8fc666861f19f31f",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5520,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Rob Quinn",
+      "title": "Study 'Really Rings the Alarm' About Medical Tourism Risks",
+      "description": "Researchers say a study of a fungal meningitis outbreak that killed a dozen Americans last year \"really rings the alarm\" about the risks of medical tourism. The patients had all undergone cosmetic procedures, including liposuction and breast implants, at clin\u2026",
+      "url": "https://www.newser.com/story/346390/study-really-rings-the-alarm-about-medical-tourism-risks.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1518308-12-20240214135617.jpeg",
+      "publishedAt": "2024-02-14 19:40:00",
+      "content": "Researchers say a study of a fungal meningitis outbreak that killed a dozen Americans last year \"really rings the alarm\" about the risks of medical tourism. The patients had all undergone cosmetic pr\u2026 [+1756 chars]",
+      "retrievedAt": "2024-02-16 07:05:34.660890",
+      "internal_id": "64004abf6bd60b8e34dfcfd24336309f454ba833c34409e6ed50fbcafd93fc0a",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5518,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "Saiba quais regi\u00f5es do Distrito Federal t\u00eam mais casos de dengue",
+      "description": "Ceil\u00e2ndia contabiliza 12.983 casos prov\u00e1veis da doen\u00e7a, maior n\u00famero absoluto entre as 35 regi\u00f5es administrativas do Distrito Federal",
+      "url": "https://www.metropoles.com/colunas/grande-angular/saiba-quais-regioes-do-distrito-federal-tem-mais-casos-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08095316/hospital-de-campanha-atendendo-casos-de-dengue-no-DF-4.jpeg",
+      "publishedAt": "2024-02-14 19:22:11",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-16 07:05:34.432768",
+      "internal_id": "17af527b6ca31ae1ec76e117192a532a71d7d4a6624cfdd156b8228414aa96f7",
+      "publishedAtLabel": "Feb 14"
+    },
     {
       "id": 5468,
       "query": [
@@ -26804,6 +27164,25 @@
       "content": "\u00a1De acab\u00f3 la maldici\u00f3n! Detroit Pistons se impuso este s\u00e1bado en el Little Caesars Arena a los Toronto Raptors (127-129) para poner fin a la hist\u00f3rica mala racha de 28 derrotas consecutivas en esta \u2026 [+1028 chars]",
       "retrievedAt": "2024-01-02 07:05:51.070033",
       "internal_id": "6e01ac63ef0fc89eff9708a91f7f191afe0b2ad60e5f4225a40e054452505e55",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 4014,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "WND News Services",
+      "title": "Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals",
+      "description": "Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. Polio, which paralyzed thousands of Americans annually, was wiped out by widespread vaccinations. In 1999 the natio\u2026",
+      "url": "https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/12/illegals-aliens-migrants-immigration-caravan-border-undocumented-jpg.jpg",
+      "publishedAt": "2023-12-31 18:27:17",
+      "content": "(Video screenshot) [Editor's note: This story originally was published by Real Clear Wire.] By James VarneyReal Clear Wire Successful public health campaigns and medical advances have enabled the \u2026 [+12728 chars]",
+      "retrievedAt": "2024-01-01 19:05:22.272433",
+      "internal_id": "73ad94b20c057ac3685a1a9a55d3a81445edc3d2809aa8e5f96664ff4cc03d7a",
       "publishedAtLabel": "Dec 31"
     }
   ]
