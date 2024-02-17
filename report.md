@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2024-02-16 19:05
-- **Most recent article:** 2024-02-15 19:04:47
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-02-17 07:05
+- **Most recent article:** 2024-02-16 05:50:37
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 121 | 785 |
-| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 26 | 291 |
-| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 11 | 246 |
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 132 | 796 |
+| measles | 1 | 8 | 25 | 61 | 56 | 47 | 68 | 29 | 295 |
+| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 35 | 14 | 250 |
 | zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 3 | 54 |
 | rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 7 | 43 |
 | chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 3 | 43 |
 | meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 7 | 38 |
 | mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 6 | 30 |
-| pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 3 | 22 |
+| pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 4 | 23 |
 | sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 1 | 13 |
-| typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 1 | 8 |
+| typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 2 | 9 |
 | yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 2 | 8 |
 | leptospirosis | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 1 | 5 |
 
@@ -47,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (typhoid)
 
+- [Environmental monitoring offers low-cost tool for typhoid fever surveillance](https://www.sciencedaily.com/releases/2024/02/240215142231.htm) (Science Daily)
+
 - [Old tools, new applications: Use of environmental bacteriophages for typhoid surveillance and evaluating vaccine impact](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011822) (Plos.org)
 
 ## 24-7 (sarampión)
@@ -70,6 +72,8 @@ Source: [News API](https://newsapi.org/)
 - [Policy paper: EM on EU legislation concerning rabies testing (C(2023)7658)](https://www.gov.uk/government/publications/em-on-eu-legislation-concerning-rabies-testing-c20237658) (Www.gov.uk)
 
 ## 24-7 (pertussis)
+
+- [Hawaii Investigating Five Cases of Whooping Cough in One Visiting Family](https://legalinsurrection.com/2024/02/hawaii-investigating-five-cases-of-whooping-cough-in-one-visiting-family/) (Legalinsurrection.com)
 
 - [Pertussis Vaccine Market Overview 2024: Market Size, Major Growth Factors And Leading Regions As Per The Business Research Company's Pertussis Vaccine Global Market Report 2024](https://www.globenewswire.com/news-release/2024/02/15/2830212/0/en/Pertussis-Vaccine-Market-Overview-2024-Market-Size-Major-Growth-Factors-And-Leading-Regions-As-Per-The-Business-Research-Company-s-Pertussis-Vaccine-Global-Market-Report-2024.html) (GlobeNewswire)
 
@@ -108,6 +112,12 @@ Source: [News API](https://newsapi.org/)
 - [Luis Canut reaparece mostrando su vida actual y hace una declaración de amor a Patricia Pérez](https://www.europapress.es/chance/gente/noticia-luis-canut-reaparece-mostrando-vida-actual-hace-declaracion-amor-patricia-perez-20240211223214.html) (Europapress.es)
 
 ## 24-7 (measles)
+
+- [Seven measles deaths this year in EU, including one here, trigger plea to public to get vaccinated](https://www.independent.ie/irish-news/health/seven-measles-deaths-this-year-in-eu-including-one-here-trigger-plea-to-public-to-get-vaccinated/a314640404.html) (Independent.ie)
+
+- [Could alternating arms for multidose vaccines boost your immunity?](https://www.medicalnewstoday.com/articles/alternating-arms-for-vaccines-may-boost-immunity) (Medical News Today)
+
+- [Is there a measles outbreak in the US? These 10 states are reporting new cases](https://www.today.com/health/disease/measles-outbreak-2024-rcna139080) (TODAY)
 
 - [Three more ‘possible’ measles cases in two children under four and child under 10](https://www.independent.ie/irish-news/three-more-possible-measles-cases-in-two-children-under-four-and-child-under-10/a1491375331.html) (Independent.ie)
 
@@ -163,6 +173,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (malaria)
 
+- [Fickle weather causes spurt in respiratory infections](https://timesofindia.indiatimes.com/city/ahmedabad/fickle-weather-causes-spurt-in-respiratory-infections-in-ahmedabad/articleshow/107738098.cms) (The Times of India)
+
+- [Taking the fight against disease to mosquitoes]( https://en.setopati.com/International/162592 ) (Setopati.com)
+
+- [Antigenic strain diversity predicts different biogeographic patterns of maintenance and decline of antimalarial drug resistance](https://elifesciences.org/articles/90888) (Elifesciences.org)
+
 - [RNA-dependent protein research advances the fight against malaria](https://phys.org/news/2024-02-rna-protein-advances-malaria.html) (Phys.Org)
 
 - [Kenya: Campaign to Combat Malaria in Kenya Unveiled](https://allafrica.com/stories/202402150355.html) (AllAfrica - Top Africa News)
@@ -191,6 +207,26 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (dengue)
 
+- [To fight dengue epidemic, health agents in Brazil scour junkyards and roofs for mosquitos](https://abcnews.go.com/Health/wireStory/fight-dengue-epidemic-health-agents-brazil-scour-junkyards-107284512) (ABC News)
+
+- [To fight dengue epidemic, health agents in Brazil scour junkyards and roofs for mosquitos](https://abcnews.go.com/International/wireStory/fight-dengue-epidemic-health-agents-brazil-scour-junkyards-107284511) (ABC News)
+
+- [Fickle weather causes spurt in respiratory infections](https://timesofindia.indiatimes.com/city/ahmedabad/fickle-weather-causes-spurt-in-respiratory-infections-in-ahmedabad/articleshow/107738098.cms) (The Times of India)
+
+- [Seis estados brasileiros enfrentam epidemia de transmissão de dengue](https://sputniknewsbr.com.br/20240215/seis-estados-brasileiros-enfrentam-epidemia-de-transmissao-de-dengue-33101328.html) (Sputniknewsbr.com.br)
+
+- [Dengue, decaying dead bodies, and a stone age deer trap](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/dengue-decaying-dead-bodies-and-stone-age-deer-trap) (The Naked Scientists)
+
+- [DF aplicou 15.675 doses de vacina contra dengue em uma semana](https://www.metropoles.com/colunas/grande-angular/df-aplicou-15-675-doses-de-vacina-contra-dengue-em-uma-semana) (Metropoles.com)
+
+- [Alerta dengue: en cuántas provincias ya hay circulación del virus](https://www.lanacion.com.ar/sociedad/alerta-dengue-en-cuantas-provincias-ya-hay-circulacion-del-virus-nid15022024/) (La Nacion)
+
+- [Sindmédico diz ser ilegal alocar 600 jovens para atuar contra dengue](https://www.metropoles.com/colunas/grande-angular/sindmedico-diz-ser-ilegal-alocar-600-jovens-para-atuar-contra-dengue) (Metropoles.com)
+
+- [Mehr Fälle von Dengue-Fieber: Italien führt Kontrollen ein](https://www.morgenpost.de/vermischtes/article241685736/Mehr-Faelle-von-Dengue-Fieber-Italien-fuehrt-Kontrollen-ein.html) (Berliner Morgenpost)
+
+- [Casos graves de dengue podem causar hepatite e insuficiência renal](https://www.metropoles.com/saude/dengue-casos-graves-complicacoes) (Metropoles.com)
+
 - [Surto de dengue: aprenda como usar repelente e protetor corretamente](https://www.metropoles.com/vida-e-estilo/surto-de-dengue-aprenda-como-usar-repelente-e-protetor-corretamente) (Metropoles.com)
 
 - [GDF e ministérios se reúnem para tratar do combate à dengue em escolas](https://www.metropoles.com/distrito-federal/gdf-e-ministerios-se-reunem-para-tratar-do-combate-a-dengue-em-escolas) (Metropoles.com)
@@ -206,6 +242,8 @@ Source: [News API](https://newsapi.org/)
 - [Emergenza dengue](https://www.internazionale.it/magazine/2024/02/15/emergenza-dengue) (Internazionale.it)
 
 - [Cartas de Leitores](https://valor.globo.com/opiniao/noticia/2024/02/15/b0c7d885-cartas-de-leitores.ghtml) (Globo)
+
+- [Ministério libera R$ 1,5 bilhão para combate à dengue](https://valor.globo.com/brasil/noticia/2024/02/15/ministerio-libera-r-15-bilhao-para-combate-a-dengue.ghtml) (Globo)
 
 - [SP Alto Astral: De forma inédita no país, SP usa drone contra dengue](https://www.metropoles.com/conteudo-especial/sp-alto-astral-de-forma-inedita-no-pais-sp-usa-drone-contra-dengue) (Metropoles.com)
 
@@ -3369,6 +3407,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
+## 23-53 (measles)
+
+- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
+
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
+
+- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)

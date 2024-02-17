@@ -1,8 +1,315 @@
 {
-  "last_updated": "2024-02-16 19:05",
-  "count_articles_total": 1531,
-  "count_articles_new": 25,
+  "last_updated": "2024-02-17 07:05",
+  "count_articles_total": 1550,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 5554,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DIANE JEANTET Associated Press",
+      "title": "To fight dengue epidemic, health agents in Brazil scour junkyards and roofs for mosquitos",
+      "description": "Local public health officials in Rio de Janeiro have been scouring the city's neighborhoods and even its junkyards for signs of standing water where mosquitoes can lay their eggs",
+      "url": "https://abcnews.go.com/Health/wireStory/fight-dengue-epidemic-health-agents-brazil-scour-junkyards-107284512",
+      "urlToImage": "https://i.abcnewsfe.com/a/18952d62-4396-401e-b48a-58b234a2b521/wirestory_e7f16fb87ddabd938506050aa98ac779_16x9.jpg?w=1600",
+      "publishedAt": "2024-02-16 05:50:37",
+      "content": "RIO DE JANEIRO -- The small team of state public health workers slalomed between auto parts strewn across a Rio de Janeiro junkyard, looking for standing water where mosquitoes might have laid their \u2026 [+4831 chars]",
+      "retrievedAt": "2024-02-17 07:05:32.513480",
+      "internal_id": "b7e8bfcc5ef09075980c96470bff9cb25896a8eb035d91d45fb31dd201694909",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5553,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DIANE JEANTET Associated Press",
+      "title": "To fight dengue epidemic, health agents in Brazil scour junkyards and roofs for mosquitos",
+      "description": "Local public health officials in Rio de Janeiro have been scouring the city's neighborhoods and even its junkyards for signs of standing water where mosquitoes can lay their eggs",
+      "url": "https://abcnews.go.com/International/wireStory/fight-dengue-epidemic-health-agents-brazil-scour-junkyards-107284511",
+      "urlToImage": "https://i.abcnewsfe.com/a/18952d62-4396-401e-b48a-58b234a2b521/wirestory_e7f16fb87ddabd938506050aa98ac779_16x9.jpg?w=1600",
+      "publishedAt": "2024-02-16 05:34:52",
+      "content": "RIO DE JANEIRO -- The small team of state public health workers slalomed between auto parts strewn across a Rio de Janeiro junkyard, looking for standing water where mosquitoes might have laid their \u2026 [+4831 chars]",
+      "retrievedAt": "2024-02-17 07:05:32.465648",
+      "internal_id": "076ca2ddc50b58fa89b70a02ba62ea517fedc62f50bd4bde650b0a0e564cef88",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5558,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Fickle weather causes spurt in respiratory infections",
+      "description": "Ahmedabad recorded a higher deviation in minimum temperature, causing an upper respiratory tract infection epidemic. Cases include Covid, H1N1, Influenza A and B, and even malaria and dengue. Recommendations include masks, personal hygiene, and consulting phy\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/fickle-weather-causes-spurt-in-respiratory-infections-in-ahmedabad/articleshow/107738098.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107739953,width-1070,height-580,imgsize-786175,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-16 03:57:52",
+      "content": "10 five-minute habits that will lead to a happy life",
+      "retrievedAt": "2024-02-17 07:05:32.603267",
+      "internal_id": "d003b4777f7be3a12ed4615e6085c3646d5ea5b868c867b4bf1401c124bc5d9b",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5563,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Setopati.com",
+      "author": "Gregor Devine :: Setopati",
+      "title": "Taking the fight against disease to mosquitoes",
+      "description": "Mosquito-borne diseases kill 700,000 people each year. Malaria alone is responsible for more than 400,000 deaths. Most of those who die are under five years old.",
+      "url": " https://en.setopati.com/International/162592 ",
+      "urlToImage": "https://en.setopati.com/uploads/posts/mosquito-1708054273.jpeg",
+      "publishedAt": "2024-02-16 03:31:37",
+      "content": "Scientists have a new weapon in the fight against mosquito-borne diseases. They're releasing male mosquitoes into the wild to mate with wild females, but there's a sting in the tale. These males ha\u2026 [+6915 chars]",
+      "retrievedAt": "2024-02-17 07:05:33.258175",
+      "internal_id": "4a315f6a861b6bbc22760d855a78d61227fe955e00807945d198e21ad661d5fd",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5548,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Seven measles deaths this year in EU, including one here, trigger plea to public to get vaccinated",
+      "description": "Seven deaths from measles have been reported in the EU so far this year, a new report reveals today. The figure comprises six deaths from the disease in Romania and one in Ireland.",
+      "url": "https://www.independent.ie/irish-news/health/seven-measles-deaths-this-year-in-eu-including-one-here-trigger-plea-to-public-to-get-vaccinated/a314640404.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/6410v8m4K2qINKfz3gtZRXaRTrA=/60x0:735x450/629x0/prod-mh-ireland/bac45308-1be2-4611-b55b-c802ec1670be/b7c74113-30ee-40ba-bc12-35ac2221852c/video/video.jpg",
+      "publishedAt": "2024-02-16 02:30:00",
+      "content": "Seven deaths from measles have been reported in the EU so far this year, a new report reveals today. The figure comprises six deaths from the disease in Romania and one in Ireland.Measles cases are e\u2026 [+2365 chars]",
+      "retrievedAt": "2024-02-17 07:05:31.849303",
+      "internal_id": "0e25c92a87d2d35c15c08b3472c8cf43693d2eabb88132d6c93c91b96f1cfd6b",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5559,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknewsbr.com.br",
+      "author": "Sputnik Brasil",
+      "title": "Seis estados brasileiros enfrentam epidemia de transmiss\u00e3o de dengue",
+      "description": "Distrito Federal, Minas Gerais, Acre, Paran\u00e1, Goi\u00e1s e Esp\u00edrito Santo est\u00e3o enfrentando os maiores \u00edndices de transmiss\u00e3o de dengue no Brasil, de acordo com dados recentes do Minist\u00e9rio da Sa\u00fade (MS), e registram epidemia da doen\u00e7a.",
+      "url": "https://sputniknewsbr.com.br/20240215/seis-estados-brasileiros-enfrentam-epidemia-de-transmissao-de-dengue-33101328.html",
+      "urlToImage": "https://cdn1.sputniknewsbr.com.br/images/sharing/article/por/33101328.jpg?73495391708049269",
+      "publishedAt": "2024-02-16 02:07:19",
+      "content": "Not\u00edcias sobre pol\u00edtica, economia e sociedade do Brasil. Entrevistas e an\u00e1lises de especialistas sobre assuntos que importam ao pa\u00eds. https://sputniknewsbr.com.br/20240215/seis-estados-brasileiros-e\u2026 [+5477 chars]",
+      "retrievedAt": "2024-02-17 07:05:32.625840",
+      "internal_id": "479d8314e2aedc3b0b69528b2768973308644ed730de5461f84c9cdd7dde4f96",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5547,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Mary Chastain",
+      "title": "Hawaii Investigating Five Cases of Whooping Cough in One Visiting Family",
+      "description": "\"There have been nearly 90 confirmed cases of pertussis in Hawaii in the past five years, including 28 linked to three outbreaks.\" The post Hawaii Investigating Five Cases of Whooping Cough in One Visiting Family first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/02/hawaii-investigating-five-cases-of-whooping-cough-in-one-visiting-family/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/02/Hawaii-Whooping-Cough.jpg",
+      "publishedAt": "2024-02-16 02:00:55",
+      "content": "Hawaii\u2019s Department of Health started investigating five cases of whooping cough within one family visiting from the mainland. The infection has hospitalized a child. None of the five people had a \u2026 [+1512 chars]",
+      "retrievedAt": "2024-02-17 07:05:30.948265",
+      "internal_id": "b09aeb542dcf9d7cfe59376faa1133585a63658530401a7abc5152ffd08d6303",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5552,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Naked Scientists",
+      "author": "The Naked Scientists",
+      "title": "Dengue, decaying dead bodies, and a stone age deer trap",
+      "description": "In the news pod, as an outbreak of Dengue fever rips through Brazil, we ask, should we be worried in Europe? Also, scientists describe the microbes responsible for the decomposition of animal flesh, and a miraculous underwater archaelogical find sheds light o\u2026",
+      "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/dengue-decaying-dead-bodies-and-stone-age-deer-trap",
+      "urlToImage": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/mosquito-1332382_1920_0.jpg?itok=3-dnFeSl",
+      "publishedAt": "2024-02-16 01:46:31",
+      "content": "Brazil is in the midst of a huge outbreak of dengue fever, with public health experts anticipating a surge in cases across Latin America. To find out more, we put in a call to James Whitehorn who is \u2026 [+6653 chars]",
+      "retrievedAt": "2024-02-17 07:05:32.453707",
+      "internal_id": "c689afb597e3fa0de5e0efac36b2ed8bde7a1045517cdbd61f3aa06c3745bbe8",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5549,
+      "query": [
+        "measles"
+      ],
+      "source_id": "medical-news-today",
+      "source_name": "Medical News Today",
+      "author": "Jessica Freeborn",
+      "title": "Could alternating arms for multidose vaccines boost your immunity?",
+      "description": "A new study examines whether alternating arms for multidose vaccines could improve immunity. Researchers say that switching arms for the initial and booster doses of mRNA COVID-19 vaccines helped increase subjects' immune response and vaccine effectiveness.",
+      "url": "https://www.medicalnewstoday.com/articles/alternating-arms-for-vaccines-may-boost-immunity",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/02/vaccine-plaster-arm-732x549-thumbnail.jpg",
+      "publishedAt": "2024-02-16 00:47:28",
+      "content": "A new study explored whether alternating arms for multidose vaccines could improve immunity.Examples of multidose vaccinations include those for COVID-19, measles mumps and rubella (\u2026 [+8250 chars]",
+      "retrievedAt": "2024-02-17 07:05:31.877840",
+      "internal_id": "e34e9cf554ea87474920299e4036e5a7163b98b044af3e40dcb40a97237bff9d",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5562,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "heqixin@purdue.edu (Fr\u00e9d\u00e9ric Labb\u00e9), heqixin@purdue.edu (John K Chaillet), heqixin@purdue.edu (Qixin He)",
+      "title": "Antigenic strain diversity predicts different biogeographic patterns of maintenance and decline of antimalarial drug resistance",
+      "description": "The establishment and spread of antimalarial drug resistance vary drastically across different biogeographic regions. Though most infections occur in sub-Saharan Africa, resistant strains often emerge in low-transmission regions. Existing models on resistance\u2026",
+      "url": "https://elifesciences.org/articles/90888",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-02-16 00:00:00",
+      "content": "The following is the authors response to the original reviews. eLife assessment The study is an important advancement to the consideration of antimalarial drug resistance: the authors make use of b\u2026 [+26857 chars]",
+      "retrievedAt": "2024-02-17 07:05:33.240664",
+      "internal_id": "3f6853174272536588551b881a5ea3ab361a54364fc56a247723d12e1687d91e",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5557,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "DF aplicou 15.675 doses de vacina contra dengue em uma semana",
+      "description": "Ainda h\u00e1 56.033 doses da vacina Qdenga, contra a dengue, dispon\u00edveis na rede p\u00fablica do DF para o p\u00fablico-alvo de 10 e 11 anos",
+      "url": "https://www.metropoles.com/colunas/grande-angular/df-aplicou-15-675-doses-de-vacina-contra-dengue-em-uma-semana",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/10095625/vacinacao-dengue-vacina-qdenga-imunizante-df.jpeg",
+      "publishedAt": "2024-02-15 23:30:21",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-17 07:05:32.563498",
+      "internal_id": "e2613ad8dd15cd9c8c550f2535c0351ef6a8504b7da487f53243e7274a767fa6",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5550,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "Shiv Sudhakar, MD",
+      "title": "Is there a measles outbreak in the US? These 10 states are reporting new cases",
+      "description": "One of the most contagious diseases that was previously eradicated more than 20 years ago in the U.S. is threatening a comeback \u2014 measles.",
+      "url": "https://www.today.com/health/disease/measles-outbreak-2024-rcna139080",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-02/measles-te-240215-af316e.jpg",
+      "publishedAt": "2024-02-15 22:58:33",
+      "content": "One of the most contagious diseases that was previously eradicated more than 20 years ago in the U.S. is threatening a comeback measles. As measles cases continue to rise globally, more states are a\u2026 [+10019 chars]",
+      "retrievedAt": "2024-02-17 07:05:31.887559",
+      "internal_id": "8d69b4ff974420b0e3b1e08751353cbf6fe90f5dfe13be92f526530bfe7debaf",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5561,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Juan Nicol\u00e1s Branz",
+      "title": "Alerta dengue: en cu\u00e1ntas provincias ya hay circulaci\u00f3n del virus",
+      "description": "Son 14 los distritos en los que se reportaron casos; en total ya son casi 40.000 las personas que presentaron la infecci\u00f3n",
+      "url": "https://www.lanacion.com.ar/sociedad/alerta-dengue-en-cuantas-provincias-ya-hay-circulacion-del-virus-nid15022024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/se-estima-que-hay-86-casos-de-dengue-cada-100000-6MBAY2XV45EQFB2VX6RGMTFLSQ.jpeg?auth=6c9d144ab8824b4d4e7a78c1976b3992eb37c6da43d7cc7546c8e37c1ddf7c06&width=768&quality=70&smart=false",
+      "publishedAt": "2024-02-15 21:23:19",
+      "content": "Los \u00faltimos registros a\u00fan est\u00e1n lejos de la epidemia de 2016, cuando hubo cerca de 76.000 casos de dengue en la Argentina en las primeras 24 semanas epidemiol\u00f3gicas de aquel a\u00f1o, pero la situaci\u00f3n de\u2026 [+4913 chars]",
+      "retrievedAt": "2024-02-17 07:05:32.643369",
+      "internal_id": "19e1829050eced14fad3ffc8bcf5a882f52e7cc91ec575035838fa9d9491790e",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5556,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "Sindm\u00e9dico diz ser ilegal alocar 600 jovens para atuar contra dengue",
+      "description": "Sindicato dos M\u00e9dicos repudiou portaria da Secretaria da Fam\u00edlia e Juventude que coloca jovens para atuar contra dengue no Distrito Federal",
+      "url": "https://www.metropoles.com/colunas/grande-angular/sindmedico-diz-ser-ilegal-alocar-600-jovens-para-atuar-contra-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08151350/tenda-de-hidratacao-df.jpg",
+      "publishedAt": "2024-02-15 19:50:05",
+      "content": "O Sindicato dos M\u00e9dicos do Distrito Federal (Sindm\u00e9dico-DF) divulgou nota em que classificou como ilegal a convoca\u00e7\u00e3o de 600 estagi\u00e1rios do Governo do Distrito Federal (GDF), integrantes do programa \u2026 [+1418 chars]",
+      "retrievedAt": "2024-02-17 07:05:32.549959",
+      "internal_id": "390a1ea02d089b718ceef06c2ad7127ccebab9f3dfdc379fc0fa09e80dbf96e2",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5564,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Environmental monitoring offers low-cost tool for typhoid fever surveillance",
+      "description": "Researchers can accurately track where typhoid fever cases are highest by monitoring environmental samples for viruses called bacteriophages that specifically infect the bacterium that causes typhoid fever.",
+      "url": "https://www.sciencedaily.com/releases/2024/02/240215142231.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-02-15 19:22:31",
+      "content": "Researchers can accurately track where typhoid fever cases are highest by monitoring environmental samples for viruses called bacteriophages that specifically infect the bacterium that causes typhoid\u2026 [+1995 chars]",
+      "retrievedAt": "2024-02-17 07:05:34.290243",
+      "internal_id": "fc30de8da0de2f682803c57442a8205e8b423fa6b00a3375413134be7a15aeff",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5551,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "FUNKE Mediengruppe",
+      "title": "Mehr F\u00e4lle von Dengue-Fieber: Italien f\u00fchrt Kontrollen ein",
+      "description": "Nach einer Zunahme von F\u00e4llen des Dengue-Fiebers erh\u00f6ht Italien die Alarmstufe. Es wird Kontrollen an Flugh\u00e4fen und H\u00e4fen geben.",
+      "url": "https://www.morgenpost.de/vermischtes/article241685736/Mehr-Faelle-von-Dengue-Fieber-Italien-fuehrt-Kontrollen-ein.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/241685734/241685734_1708024437_v4_3_800.jpeg",
+      "publishedAt": "2024-02-15 19:13:57",
+      "content": "Berlin. Nach einer Zunahme von F\u00e4llen des Dengue-Fiebers erh\u00f6ht Italien die Alarmstufe. Es wird Kontrollen an Flugh\u00e4fen und H\u00e4fen geben. Nach einem schweren Ausbruch des Dengue-Fiebers in Brasilien \u2026 [+2370 chars]",
+      "retrievedAt": "2024-02-17 07:05:32.448462",
+      "internal_id": "dd2fc4c953d3c4f8d078b3405ecf3a9cbf053ce9a92925ad6fe1c9fc1d60cb78",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5555,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Casos graves de dengue podem causar hepatite e insufici\u00eancia renal",
+      "description": "Uma vez que a dengue atinge a corrente sangu\u00ednea, o v\u00edrus se multiplica em diversos \u00f3rg\u00e3os e subst\u00e2ncias nocivas s\u00e3o formadas no organismo",
+      "url": "https://www.metropoles.com/saude/dengue-casos-graves-complicacoes",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2024-02-15 19:11:58",
+      "content": "Ap\u00f3s declarar situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade p\u00fablica por causa de uma explos\u00e3o de casos de dengue, o governo do Distrito Federal alerta que casos graves da doen\u00e7a podem levar a quadros como hepatite\u2026 [+6260 chars]",
+      "retrievedAt": "2024-02-17 07:05:32.534981",
+      "internal_id": "3f31f2ef03fedeb3e8fb06311f04408e860a3e533a228f5f9505972dd1a480dd",
+      "publishedAtLabel": "Feb 15"
+    },
     {
       "id": 5544,
       "query": [
@@ -415,6 +722,24 @@
       "content": "Avan\u00e7o da dengue\u00c9 preocupante a atual infesta\u00e7\u00e3o do Aedes aegypti. Infectologistas brasileiros est\u00e3o mobilizados no sentido de desenvolver vacinas eficazes que previnam n\u00e3o s\u00f3 a dengue, como tamb\u00e9m o\u2026 [+1017 chars]",
       "retrievedAt": "2024-02-16 19:05:27.582662",
       "internal_id": "1423db6ba2debd8343f4bb3eb888bf3a6d3ec3b1f4353d39367fdc889111afea",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5560,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Minist\u00e9rio libera R$ 1,5 bilh\u00e3o para combate \u00e0 dengue",
+      "description": "Sa\u00fade estima que n\u00famero de casos pode superar 4 milh\u00f5es este ano e estabelecer novo recorde de incid\u00eancia da doen\u00e7a no pa\u00eds",
+      "url": "https://valor.globo.com/brasil/noticia/2024/02/15/ministerio-libera-r-15-bilhao-para-combate-a-dengue.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-02-15 08:02:14",
+      "content": "Em meio \u00e0 escalada da dengue, o Minist\u00e9rio da Sa\u00fade decidiu ampliar para R$ 1,5 bilh\u00e3o os recursos reservados para apoiar Estados, munic\u00edpios e o Distrito Federal no enfrentamento de emerg\u00eancias. Em \u2026 [+212 chars]",
+      "retrievedAt": "2024-02-17 07:05:32.636057",
+      "internal_id": "c53e6b2a933cba6a242dd8445006c918309effcf3b9954932540e73d57844e3c",
       "publishedAtLabel": "Feb 15"
     },
     {
@@ -27614,6 +27939,25 @@
       "content": "\u00a1De acab\u00f3 la maldici\u00f3n! Detroit Pistons se impuso este s\u00e1bado en el Little Caesars Arena a los Toronto Raptors (127-129) para poner fin a la hist\u00f3rica mala racha de 28 derrotas consecutivas en esta \u2026 [+1028 chars]",
       "retrievedAt": "2024-01-02 07:05:51.070033",
       "internal_id": "6e01ac63ef0fc89eff9708a91f7f191afe0b2ad60e5f4225a40e054452505e55",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 4014,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "WND News Services",
+      "title": "Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals",
+      "description": "Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. Polio, which paralyzed thousands of Americans annually, was wiped out by widespread vaccinations. In 1999 the natio\u2026",
+      "url": "https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/12/illegals-aliens-migrants-immigration-caravan-border-undocumented-jpg.jpg",
+      "publishedAt": "2023-12-31 18:27:17",
+      "content": "(Video screenshot) [Editor's note: This story originally was published by Real Clear Wire.] By James VarneyReal Clear Wire Successful public health campaigns and medical advances have enabled the \u2026 [+12728 chars]",
+      "retrievedAt": "2024-01-01 19:05:22.272433",
+      "internal_id": "73ad94b20c057ac3685a1a9a55d3a81445edc3d2809aa8e5f96664ff4cc03d7a",
       "publishedAtLabel": "Dec 31"
     }
   ]
