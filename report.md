@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-02-17 07:05
-- **Most recent article:** 2024-02-16 05:50:37
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-02-17 19:05
+- **Most recent article:** 2024-02-16 18:53:06
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 132 | 796 |
-| measles | 1 | 8 | 25 | 61 | 56 | 47 | 68 | 29 | 295 |
-| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 35 | 14 | 250 |
-| zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 3 | 54 |
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 143 | 807 |
+| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 35 | 300 |
+| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 17 | 252 |
+| zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 5 | 56 |
+| chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 6 | 46 |
 | rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 7 | 43 |
-| chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 3 | 43 |
 | meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 7 | 38 |
-| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 6 | 30 |
-| pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 4 | 23 |
-| sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 1 | 13 |
+| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 7 | 31 |
+| pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 5 | 24 |
+| sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 2 | 14 |
 | typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 2 | 9 |
 | yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 2 | 8 |
 | leptospirosis | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 1 | 5 |
@@ -32,6 +32,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-7 (zika)
+
+- [5 erros que você comete ao se proteger da dengue](https://delas.ig.com.br/parceiros/selecoes/2024-02-16/5-erros-que-voce-comete-ao-se-proteger-da-dengue.html) (Ig.com.br)
+
+- [Conheça os sintomas da forma mais grave da dengue](https://catracalivre.com.br/saude-bem-estar/conheca-os-sintomas-da-forma-mais-grave-da-dengue/) (Catracalivre.com.br)
 
 - [Com hospitais cheios, pacientes com suspeita de dengue se deitam no chão em BH](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/com-hospitais-cheios-pacientes-com-suspeita-de-dengue-se-deitam-no-chao-em-bh-14022024) (R7.com)
 
@@ -53,6 +57,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (sarampión)
 
+- [El ECDC espera que los casos de sarampión en Europa sigan aumentando en los próximos meses](https://www.infosalus.com/salud-investigacion/noticia-ecdc-espera-casos-sarampion-europa-sigan-aumentando-proximos-meses-20240216110454.html) (Infosalus.com)
+
 - [Aumenta el sarampión y no sé si estoy vacunado: ¿Qué debo hacer?](https://www.elmundo.es/ciencia-y-salud/salud/2024/02/11/65c5ffafe9cf4a59128b45be.html) (El Mundo)
 
 ## 24-7 (rabies)
@@ -73,6 +79,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (pertussis)
 
+- [Epidemie černého kašle sílí. Děti, kterým chybí pediatr, nemá kdo očkovat](https://www.idnes.cz/zpravy/domaci/cerny-kasel-zdravotnictvi-deti-pediarie-epidemiologie.A240216_150026_domaci_seel) (Idnes.cz)
+
 - [Hawaii Investigating Five Cases of Whooping Cough in One Visiting Family](https://legalinsurrection.com/2024/02/hawaii-investigating-five-cases-of-whooping-cough-in-one-visiting-family/) (Legalinsurrection.com)
 
 - [Pertussis Vaccine Market Overview 2024: Market Size, Major Growth Factors And Leading Regions As Per The Business Research Company's Pertussis Vaccine Global Market Report 2024](https://www.globenewswire.com/news-release/2024/02/15/2830212/0/en/Pertussis-Vaccine-Market-Overview-2024-Market-Size-Major-Growth-Factors-And-Leading-Regions-As-Per-The-Business-Research-Company-s-Pertussis-Vaccine-Global-Market-Report-2024.html) (GlobeNewswire)
@@ -82,6 +90,8 @@ Source: [News API](https://newsapi.org/)
 - [Health officials confirm 5 cases of whooping cough, including child who was hospitalized](https://www.hawaiinewsnow.com/2024/02/15/health-officials-confirm-5-cases-whooping-cough-including-child-who-was-hospitalized/) (Hawaii News Now)
 
 ## 24-7 (mpox)
+
+- [Genesee County reports 2 mpox cases, urges some to get vaccine](https://www.abc12.com/news/health/genesee-county-reports-2-mpox-cases-urges-some-to-get-vaccine/article_ecf3c2ba-ccf8-11ee-b584-93e7cd5766a2.html) (ABC 12 News)
 
 - [Πρώτος νεκρός από την ευλογιά της Αλάσκας – Τι είναι και πως μεταδίδεται](https://www.newsit.gr/ygeia/protos-nekros-apo-tin-eylogia-tis-alaskas-ti-einai-kai-pos-metadidetai/3980656/) (Newsit.gr)
 
@@ -112,6 +122,18 @@ Source: [News API](https://newsapi.org/)
 - [Luis Canut reaparece mostrando su vida actual y hace una declaración de amor a Patricia Pérez](https://www.europapress.es/chance/gente/noticia-luis-canut-reaparece-mostrando-vida-actual-hace-declaracion-amor-patricia-perez-20240211223214.html) (Europapress.es)
 
 ## 24-7 (measles)
+
+- [Toronto Public Health is investigating a confirmed case of measles](https://www.toronto.ca/news/toronto-public-health-is-investigating-a-confirmed-case-of-measles/) (Toronto.ca)
+
+- [Measles: Rising cases in Europe – 7 deaths in two countries](https://en.protothema.gr/measles-rising-cases-in-europe-7-deaths-in-two-countries/) (Protothema.gr)
+
+- [Call for MMR vaccine to be made available through pharmacies as measles cases rise](https://www.independent.ie/irish-news/call-for-mmr-vaccine-to-be-made-available-through-pharmacies-as-measles-cases-rise/a1550929216.html) (Independent.ie)
+
+- [Amid rising measles cases, a new generation of doctors is being taught how to spot the disease](https://abcnews.go.com/Health/amid-rising-measles-cases-new-generation-doctors-taught/story?id=107235617) (ABC News)
+
+- [Cases of measles across Europe likely to continue rising, EU agency warns](https://www.irishtimes.com/health/2024/02/16/cases-of-measles-across-europe-likely-to-continue-rising-eu-agency-warns/) (The Irish Times)
+
+- [Traveller alert after one-year-old in Adelaide reported with measles](https://www.abc.net.au/news/2024-02-16/measles-case-in-child-reported-in-sa/103478772) (ABC News (AU))
 
 - [Seven measles deaths this year in EU, including one here, trigger plea to public to get vaccinated](https://www.independent.ie/irish-news/health/seven-measles-deaths-this-year-in-eu-including-one-here-trigger-plea-to-public-to-get-vaccinated/a314640404.html) (Independent.ie)
 
@@ -173,6 +195,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (malaria)
 
+- [Toxoplasmosis: Researchers identify protein that evolved alongside infection machinery](https://phys.org/news/2024-02-toxoplasmosis-protein-evolved-infection-machinery.html) (Phys.Org)
+
+- [Tigray Takes Significant Steps to Prevent Communicable Diseases](https://allafrica.com/stories/202402160295.html) (AllAfrica - Top Africa News)
+
+- [Dressing Room Diaries | February](https://hisugarplum.com/dressing-room-diaries-february/) (Hisugarplum.com)
+
 - [Fickle weather causes spurt in respiratory infections](https://timesofindia.indiatimes.com/city/ahmedabad/fickle-weather-causes-spurt-in-respiratory-infections-in-ahmedabad/articleshow/107738098.cms) (The Times of India)
 
 - [Taking the fight against disease to mosquitoes]( https://en.setopati.com/International/162592 ) (Setopati.com)
@@ -206,6 +234,28 @@ Source: [News API](https://newsapi.org/)
 - [Leptospirosis: estigma sobre esta enfermedad puede retrasar su diagnóstico](https://www.eluniversal.com.co/salud/leptospirosis-estigma-sobre-esta-enfermedad-puede-retrasar-su-diagnostico-XN9960642) (Eluniversal.com.co)
 
 ## 24-7 (dengue)
+
+- [Rio inicia testes de eficácia da vacina contra dengue em adultos](https://www.metropoles.com/brasil/rio-inicia-testes-de-eficacia-da-vacina-contra-dengue-em-adultos) (Metropoles.com)
+
+- [SP tem 15 mortes por dengue; Minas e DF também confirmam novos óbitos](https://jornaldebrasilia.com.br/noticias/brasil/sp-tem-15-mortes-por-dengue-minas-e-df-tambem-confirmam-novos-obitos/) (Jornaldebrasilia.com.br)
+
+- [Número de mortes por dengue em 2024 sobe para 15 em SP](https://www.metropoles.com/sao-paulo/numero-mortes-dengue-sobe-para-15) (Metropoles.com)
+
+- [Epidemia de dengue se alastra no Rio de Janeiro](https://www.dino.com.br/releases/epidemia-de-dengue-se-alastra-no-rio-de-janeiro-dino890300638131) (Dino.com.br)
+
+- [Repelente contra dengue: médica diz como usar em crianças](https://www.terra.com.br/vida-e-estilo/repelente-contra-dengue-medica-diz-como-usar-em-criancas,81d3245a41acde43758b26701967542egdcb37cw.html) (Terra.com.br)
+
+- [Secretaria da Saúde alerta para casos de hepatite e insuficiência renal causados pela dengue](https://www.tudocelular.com/mercado/noticias/n217970/hepatite-e-insuficiencia-renal-causados-dengue.html) (Tudocelular.com)
+
+- [Ministros se unem em vídeo da Saúde para reforçar combate à dengue](https://www.metropoles.com/brasil/ministros-se-unem-em-video-da-saude-para-reforcar-combate-a-dengue) (Metropoles.com)
+
+- [Rio inicia nesta sexta-feira estudo sobre vacina da dengue em adultos](https://ultimosegundo.ig.com.br/brasil/rj/2024-02-16/rio-inicia-nesta-sexta-feira-estudo-sobre-vacina-da-dengue-em-adultos.html) (Ig.com.br)
+
+- [Épidémie de dengue : 3 questions sur cette nouvelle menace pour la France](https://www.lepoint.fr/sante/epidemie-de-dengue-3-questions-sur-cette-nouvelle-menace-pour-la-france-16-02-2024-2552604_40.php) (Le Point)
+
+- [10 plantas que afastam mosquito da dengue](https://olhardigital.com.br/2024/02/16/ciencia-e-espaco/10-plantas-que-afastam-mosquito-da-dengue/) (Olhardigital.com.br)
+
+- [Cambio climático llevará al desplazamiento de 3.1 millones de mexicanos](https://www.jornada.com.mx/2024/02/16/politica/014n1pol) (Jornada.com.mx)
 
 - [To fight dengue epidemic, health agents in Brazil scour junkyards and roofs for mosquitos](https://abcnews.go.com/Health/wireStory/fight-dengue-epidemic-health-agents-brazil-scour-junkyards-107284512) (ABC News)
 
@@ -472,6 +522,12 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: 408 mil casos são confirmados pelo Ministério da Saúde](https://ultimosegundo.ig.com.br/brasil/2024-02-10/numero-de-casos-de-dengue-brasil.html) (Ig.com.br)
 
 ## 24-7 (chikungunya)
+
+- [5 erros que você comete ao se proteger da dengue](https://delas.ig.com.br/parceiros/selecoes/2024-02-16/5-erros-que-voce-comete-ao-se-proteger-da-dengue.html) (Ig.com.br)
+
+- [MG tem 70% dos casos prováveis de Chikungunya registrados no país](https://saude.ig.com.br/2024-02-16/mg-tem-70-casos-provaveis-chikungunya.html) (Ig.com.br)
+
+- [Conheça os sintomas da forma mais grave da dengue](https://catracalivre.com.br/saude-bem-estar/conheca-os-sintomas-da-forma-mais-grave-da-dengue/) (Catracalivre.com.br)
 
 - [Com hospitais cheios, pacientes com suspeita de dengue se deitam no chão em BH](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/com-hospitais-cheios-pacientes-com-suspeita-de-dengue-se-deitam-no-chao-em-bh-14022024) (R7.com)
 
@@ -3407,12 +3463,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
-## 23-53 (measles)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
-
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)

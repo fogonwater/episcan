@@ -1,8 +1,478 @@
 {
-  "last_updated": "2024-02-17 07:05",
-  "count_articles_total": 1550,
-  "count_articles_new": 18,
+  "last_updated": "2024-02-17 19:05",
+  "count_articles_total": 1575,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 5570,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Toronto.ca",
+      "author": "City Of Toronto",
+      "title": "Toronto Public Health is investigating a confirmed case of measles",
+      "description": "News Release February 16, 2024 Toronto Public Health (TPH) is investigating a confirmed case of measles linked to travel. The case is an infant who is currently hospitalized. Residents should check to ensure they are protected against the measles virus by get\u2026",
+      "url": "https://www.toronto.ca/news/toronto-public-health-is-investigating-a-confirmed-case-of-measles/",
+      "urlToImage": "https://www.toronto.ca/wp-content/themes/cot/img/share_toronto_twitter.jpg",
+      "publishedAt": "2024-02-16 18:53:06",
+      "content": "Toronto Public Health (TPH) is investigating a confirmed case of measles linked to travel. The case is an infant who is currently hospitalized. Residents should check to ensure they are protected aga\u2026 [+1675 chars]",
+      "retrievedAt": "2024-02-17 19:05:54.662294",
+      "internal_id": "5d96ca88dce711ce0ec47bbb6398b8a1edacc1a3e3cf8d7777e2ef650e45f341",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5590,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "ABC 12 News",
+      "author": "Ryan Jeltema",
+      "title": "Genesee County reports 2 mpox cases, urges some to get vaccine",
+      "description": "The health department did not provide any identifying information about the patients or where they contracted the illness.",
+      "url": "https://www.abc12.com/news/health/genesee-county-reports-2-mpox-cases-urges-some-to-get-vaccine/article_ecf3c2ba-ccf8-11ee-b584-93e7cd5766a2.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/0/eb/0ebb4a3c-4630-11ec-8627-ab360e83d8a7/61928939c45bf.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2024-02-16 18:53:06",
+      "content": "GENESEE COUNTY, Mich. (WJRT) - The Genesee County Health Department is reporting two newly confirmed mpox illnesses this week. The health department did not provide any identifying information about\u2026 [+1432 chars]",
+      "retrievedAt": "2024-02-17 19:05:57.812479",
+      "internal_id": "dbb8f0b7f93c0a00b267ca5a0271e2546ae2130aca0f50398bd944578ec35659",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5583,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Rio inicia testes de efic\u00e1cia da vacina contra dengue em adultos",
+      "description": "A vacina aplicada \u00e9 a Qdenga, fabricada pelo laborat\u00f3rio japon\u00eas Takeda. Participa\u00e7\u00e3o da popula\u00e7\u00e3o \u00e9 volunt\u00e1ria",
+      "url": "https://www.metropoles.com/brasil/rio-inicia-testes-de-eficacia-da-vacina-contra-dengue-em-adultos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08161628/vacina-dengue-qdenga-2.jpeg",
+      "publishedAt": "2024-02-16 18:32:32",
+      "content": "O estudo para verificar a efic\u00e1cia da vacina contra a dengue na popula\u00e7\u00e3o adulta come\u00e7ou nesta sexta-feira (16/2), em Barra de Guaratiba, zona oeste da cidade. A parceria da Secretaria Municipal de S\u2026 [+7083 chars]",
+      "retrievedAt": "2024-02-17 19:05:55.563948",
+      "internal_id": "d8dc75597e53e09953704409126856b42544ea0f75645aaff887074f865a50b6",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5587,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Sele\u00e7\u00f5es, Sele\u00e7\u00f5es",
+      "title": "5 erros que voc\u00ea comete ao se proteger da dengue",
+      "description": "Evite estes cinco erros comuns e adote medidas eficazes para se proteger da dengue",
+      "url": "https://delas.ig.com.br/parceiros/selecoes/2024-02-16/5-erros-que-voce-comete-ao-se-proteger-da-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/88/dy/o1/88dyo1n4xcvipbe2g3sw8yhec.jpg",
+      "publishedAt": "2024-02-16 17:05:17",
+      "content": "Com a chegada do ver\u00e3o e o aumento das chuvas, o cen\u00e1rio est\u00e1 prop\u00edcio para a prolifera\u00e7\u00e3o do temido mosquito Aedes Aegypti , transmissor de doen\u00e7as como a dengue, zika e chikungunya. \u00c9 um momento i\u2026 [+2308 chars]",
+      "retrievedAt": "2024-02-17 19:05:56.931914",
+      "internal_id": "7b3db0c696bf51e4606f53333a58ce6c241bd38761ad4617d32655c85224b6de",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5578,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "SP tem 15 mortes por dengue; Minas e DF tamb\u00e9m confirmam novos \u00f3bitos",
+      "description": "S\u00c3O PAULO, SP (FOLHAPRESS) O n\u00famero de mortes em decorr\u00eancia da dengue no pa\u00eds continua a aumentar em meio aos surtos da doen\u00e7a. Nas...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/sp-tem-15-mortes-por-dengue-minas-e-df-tambem-confirmam-novos-obitos/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/09100227/9.2.-Materia-sobre-quem-nao-pode-tomar-vacina-contra-dengue-Reacoes-comuns-Foto-Agencia-Saude-DF.jpg",
+      "publishedAt": "2024-02-16 16:56:41",
+      "content": "S\u00c3O PAULO, SP (FOLHAPRESS) O n\u00famero de mortes em decorr\u00eancia da dengue no pa\u00eds continua a aumentar em meio aos surtos da doen\u00e7a. Nas \u00faltimas 48 horas, S\u00e3o Paulo, Minas Gerais e Distrito Federal conf\u2026 [+2463 chars]",
+      "retrievedAt": "2024-02-17 19:05:55.478634",
+      "internal_id": "a21532f63839ae60d660cbb3218a304df93369f299d6ea0512399a06cb319f94",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5589,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "MG tem 70% dos casos prov\u00e1veis de Chikungunya registrados no pa\u00eds",
+      "description": "Dos 31 mil casos prov\u00e1veis no pa\u00eds, 23 mil est\u00e3o em Minas Gerais; estado tem a maior incid\u00eancia da doen\u00e7a no pa\u00eds",
+      "url": "https://saude.ig.com.br/2024-02-16/mg-tem-70-casos-provaveis-chikungunya.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ae/nd/8z/aend8zzki0uueol6mwlayf7f2.jpg",
+      "publishedAt": "2024-02-16 16:56:25",
+      "content": "O estado de Minas Gerais tem cerca de 70% dos casos prov\u00e1veis de chikungunya no pa\u00eds. At\u00e9 o momento, s\u00e3o 31.237 registros em investiga\u00e7\u00e3o no Brasil, sendo 23.628 somente no estado mineiro. A Secret\u2026 [+1342 chars]",
+      "retrievedAt": "2024-02-17 19:05:57.370345",
+      "internal_id": "b2287632b8ccecc55cc96bb6c55661acca4a4540581aee2698d3edab44516333",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5565,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Ivana Leskov\u00e1",
+      "title": "Epidemie \u010dern\u00e9ho ka\u0161le s\u00edl\u00ed. D\u011bti, kter\u00fdm chyb\u00ed pediatr, nem\u00e1 kdo o\u010dkovat",
+      "description": "\u010ceskem se \u0161\u00ed\u0159\u00ed nejsiln\u011bj\u0161\u00ed epidemie \u010dern\u00e9ho ka\u0161le za posledn\u00edch nejm\u00e9n\u011b deset let. Epidemiologov\u00e9 odhaduj\u00ed, \u017ee do konce roku se bakteri\u00ed Bordetella pertussis nakaz\u00ed a\u017e \u010dty\u0159i tis\u00edce lid\u00ed. V nemocnic\u00edch kon\u010d\u00ed hlavn\u011b neo\u010dkovan\u00e9 d\u011bti. Probl\u00e9m je, \u017ee mnoz\u00ed rodi\u010de \u2026",
+      "url": "https://www.idnes.cz/zpravy/domaci/cerny-kasel-zdravotnictvi-deti-pediarie-epidemiologie.A240216_150026_domaci_seel",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2013/1/MBB48ea74_profimedia_0077825370.jpg",
+      "publishedAt": "2024-02-16 15:54:00",
+      "content": "Od za\u00e1tku roku do nedle onemocnlo ern\u00fdm kalem 641 lid\u00ed a denn pib\u00fdvaj\u00ed des\u00edtky dal\u00edch. V p\u00e1tek r\u00e1no u jich epidemiologov\u00e9 ale evidovali 813. Jen od pondl\u00ed do tvrtka tak pibylo 172 nakaen\u00fdch, l\u00ed\u00ed epi\u2026 [+5620 chars]",
+      "retrievedAt": "2024-02-17 19:05:53.409706",
+      "internal_id": "074269313697d1f0970b6af934e92ed10821dda58e14b959ad1b0068d808e510",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5582,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Camila Olivo",
+      "title": "N\u00famero de mortes por dengue em 2024 sobe para 15 em SP",
+      "description": "Estado tem mais de 55 mil casos confirmados da doen\u00e7a; n\u00famero de mortes em 2024 chegou a 15 nesta sexta-feira",
+      "url": "https://www.metropoles.com/sao-paulo/numero-mortes-dengue-sobe-para-15",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/02133817/DF-perdeu-36-dos-agentes-contra-a-dengue-1.jpg",
+      "publishedAt": "2024-02-16 15:31:30",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-17 19:05:55.547597",
+      "internal_id": "742c2b8124e572cbd9d3ecfc0074b241a5e83a03d4ac309c7c6dc75dd158dcde",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5577,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dino.com.br",
+      "author": null,
+      "title": "Epidemia de dengue se alastra no Rio de Janeiro",
+      "description": "O estado declara situa\u00e7\u00e3o de emerg\u00eancia na sa\u00fade p\u00fablica ap\u00f3s come\u00e7ar o ano com aumento de 587% em casos prov\u00e1veis da doen\u00e7a. Calend\u00e1rio de vacina\u00e7\u00e3o deve ser decidido em fevereiro",
+      "url": "https://www.dino.com.br/releases/epidemia-de-dengue-se-alastra-no-rio-de-janeiro-dino890300638131",
+      "urlToImage": "https://s2-valor.glbimg.com/Xg_Kn6r2vZNe61ZTnNgqDdZ5BOE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/J/O/fB8Wa3RBiwywN4TjOCag/6e3484f3-e1ac-42e4-9362-547e5a93dcba.jpg",
+      "publishedAt": "2024-02-16 15:16:52",
+      "content": "O estado do Rio de Janeiro registrou, nas tr\u00eas primeiras semanas de 2024, 9.963 notifica\u00e7\u00f5es de poss\u00edveis casos de dengue, o que representa um aumento de 587% em rela\u00e7\u00e3o ao mesmo per\u00edodo do ano passa\u2026 [+3030 chars]",
+      "retrievedAt": "2024-02-17 19:05:55.453122",
+      "internal_id": "8d898e9e4cab6dc095e0bb8a835f55f2d0e7551546b8f3699a69291a2d9384d9",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5574,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Alto Astral",
+      "title": "Repelente contra dengue: m\u00e9dica diz como usar em crian\u00e7as",
+      "description": "Descubra agora qual repelente contra dengue funciona para crian\u00e7as e como proteg\u00ea-las independente da idade",
+      "url": "https://www.terra.com.br/vida-e-estilo/repelente-contra-dengue-medica-diz-como-usar-em-criancas,81d3245a41acde43758b26701967542egdcb37cw.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/16/987512096-repelente-contra-dengue.jpg",
+      "publishedAt": "2024-02-16 15:01:10",
+      "content": "V\u00e1rios estados brasileiros decretaram estado de emerg\u00eancia contra a dengue nas \u00faltimas semanas. O aumento de casos tem preocupado muitas fam\u00edlias, que buscam proteger suas crian\u00e7as das mais diversas \u2026 [+3128 chars]",
+      "retrievedAt": "2024-02-17 19:05:55.404071",
+      "internal_id": "04c94e6a1543d3c3688a09db8392de373ccd6956a3e45f7a3a5aa4d396af84ab",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5584,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Toxoplasmosis: Researchers identify protein that evolved alongside infection machinery",
+      "description": "Toxoplasmosis is an infectious disease found worldwide, caused by the single-celled parasite Toxoplasma gondii. In humans, infection poses a particular risk to pregnant women, as it can lead to birth defects. Like the closely related malaria pathogen\u2014Plasmodi\u2026",
+      "url": "https://phys.org/news/2024-02-toxoplasmosis-protein-evolved-infection-machinery.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/toxoplasmosis-evolutio.jpg",
+      "publishedAt": "2024-02-16 14:47:04",
+      "content": "Toxoplasmosis is an infectious disease found worldwide, caused by the single-celled parasite Toxoplasma gondii. In humans, infection poses a particular risk to pregnant women, as it can lead to birth\u2026 [+3008 chars]",
+      "retrievedAt": "2024-02-17 19:05:56.401742",
+      "internal_id": "1865bb79f01944108abede39ee3ee9c46cc034a0314572d1e63b27aeab88d13a",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5588,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Conhe\u00e7a os sintomas da forma mais grave da dengue",
+      "description": "A dengue \u00e9 uma doen\u00e7a viral transmitida principalmente pelo mosquito Aedes aegypti, que tamb\u00e9m pode transmitir outras doen\u00e7as como o Zika v\u00edrus e a febre",
+      "url": "https://catracalivre.com.br/saude-bem-estar/conheca-os-sintomas-da-forma-mais-grave-da-dengue/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2023/03/istock-1097583224.jpg",
+      "publishedAt": "2024-02-16 14:30:34",
+      "content": "\u00daltimas not\u00edcias: A dengue \u00e9 uma doen\u00e7a viral transmitida principalmente pelo mosquito Aedes aegypti, que tamb\u00e9m pode transmitir outras doen\u00e7as como o Zika v\u00edrus e a febre chikungunya. Existem dois \u2026 [+4829 chars]",
+      "retrievedAt": "2024-02-17 19:05:56.936210",
+      "internal_id": "d5454b3a80f3b4cdf81e47cdd7acc16e08b9c1154bc6083af952dc61727848b2",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5575,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tudocelular.com",
+      "author": "Tudocelular.com",
+      "title": "Secretaria da Sa\u00fade alerta para casos de hepatite e insufici\u00eancia renal causados pela dengue",
+      "description": "Doen\u00e7as seriam resultados do agravamento no caso da dengue, indica SES do DF.",
+      "url": "https://www.tudocelular.com/mercado/noticias/n217970/hepatite-e-insuficiencia-renal-causados-dengue.html",
+      "urlToImage": "https://t2.tudocdn.net/702026?w=1920",
+      "publishedAt": "2024-02-16 14:30:00",
+      "content": "A Secretaria de Sa\u00fade do Distrito Federal (SES) alertou nesta semana para a possibilidade de as v\u00edtimas da dengue progredirem para hepatite viral ou insufici\u00eancia renal, isto no caso mais grave da do\u2026 [+3717 chars]",
+      "retrievedAt": "2024-02-17 19:05:55.412694",
+      "internal_id": "df041f0779176b9621191ab13ba32626d2b3221aecefe52d5407560dc6cc4d48",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5569,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "Newsroom",
+      "title": "Measles: Rising cases in Europe \u2013 7 deaths in two countries",
+      "description": "Health Commissioner Stella Kyriakidou urges all adults to check their vaccination status. Parents should also be consistent in vaccinating children",
+      "url": "https://en.protothema.gr/measles-rising-cases-in-europe-7-deaths-in-two-countries/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/02/2-10-150x150.png",
+      "publishedAt": "2024-02-16 14:10:27",
+      "content": "The European Centre for Disease Control and Prevention (ECDC) is sounding the alarm about measles, which has returned to Europe with a vengeance. In a report today, it points out that measles cases \u2026 [+1742 chars]",
+      "retrievedAt": "2024-02-17 19:05:54.658167",
+      "internal_id": "5075fa612cf153e6e5173af2df75c02fe180d5f20e3b8c56f2526bf8b359a585",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5579,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Ministros se unem em v\u00eddeo da Sa\u00fade para refor\u00e7ar combate \u00e0 dengue",
+      "description": "Conte\u00fado sugere \u00e0 popula\u00e7\u00e3o que separe 10 minutos por semana para combater a dengue, j\u00e1 que cerca de 75% dos criadouros est\u00e3o nos domic\u00edlios",
+      "url": "https://www.metropoles.com/brasil/ministros-se-unem-em-video-da-saude-para-reforcar-combate-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/26180736/dengue-casa2.jpg",
+      "publishedAt": "2024-02-16 13:51:16",
+      "content": "Vinte e dois ministros do governo federal se uniram em v\u00eddeo para tentar sensibilizar a popula\u00e7\u00e3o sobre o enfrentamento da dengue e de outras arboviroses causadas pelo mosquito Aedes aegypti. Os titu\u2026 [+2919 chars]",
+      "retrievedAt": "2024-02-17 19:05:55.494323",
+      "internal_id": "815f64aeddb3ed72e831f6e8b6b2199771b938895ad47aaa3a0d77f9539c0158",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5581,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Rio inicia nesta sexta-feira estudo sobre vacina da dengue em adultos",
+      "description": "A vacina ser\u00e1 aplicada em duas doses com intervalo de 90 dias entre uma e outra, somando 40 mil aplica\u00e7\u00f5es",
+      "url": "https://ultimosegundo.ig.com.br/brasil/rj/2024-02-16/rio-inicia-nesta-sexta-feira-estudo-sobre-vacina-da-dengue-em-adultos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/7u/qz/kh/7uqzkhxy0spt2ntgm3nasrfm0.jpg",
+      "publishedAt": "2024-02-16 12:23:22",
+      "content": "Come\u00e7a nesta sexta-feira (16), no Rio de Janeiro, o estudo que planeja vacinar 20 mil adultos contra a dengue. A iniciativa \u00e9 da prefeitura, em parceria com o Minist\u00e9rio da Sa\u00fade e a Funda\u00e7\u00e3o Oswaldo\u2026 [+1967 chars]",
+      "retrievedAt": "2024-02-17 19:05:55.530708",
+      "internal_id": "c97e77238ca7f5b19d82b861b917411d4338ca72a07367bf8da3686be8768beb",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5586,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Tigray Takes Significant Steps to Prevent Communicable Diseases",
+      "description": "[Ethiopian Herald] Tigray State Health Bureau said it has successfully controlled communicable diseases including Cholera, HIV, Tuberculosis, and Malaria and helped efforts to build a healthy community.",
+      "url": "https://allafrica.com/stories/202402160295.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-02-16 12:04:50",
+      "content": "Tigray State Health Bureau said it has successfully controlled communicable diseases including Cholera, HIV, Tuberculosis, and Malaria and helped efforts to build a healthy community. Bureau Head Am\u2026 [+1854 chars]",
+      "retrievedAt": "2024-02-17 19:05:56.427478",
+      "internal_id": "60eea51a5f97b8e20cccd5da688fa3462a1860bcc3831e4e05e822467937485c",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5580,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Caroline Tourbe",
+      "title": "\u00c9pid\u00e9mie de dengue : 3 questions sur cette nouvelle menace pour la France",
+      "description": "Alors que la maladie frappe plus que jamais la Guyane, la France metropolitaine fait face a une menace emergente. Trois questions pour comprendre les risques associes a la maladie.",
+      "url": "https://www.lepoint.fr/sante/epidemie-de-dengue-3-questions-sur-cette-nouvelle-menace-pour-la-france-16-02-2024-2552604_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2024/02/16/26059657lpw-26060418-mega-une-jpg_10121235.jpg",
+      "publishedAt": "2024-02-16 12:00:00",
+      "content": "Sommes-nous pr\u00eats \u00e0 affronter la dengue ? \u00c9videmment, la France a d\u00e9j\u00e0 fait face \u00e0 des \u00e9pid\u00e9mies dans ses territoires ultramarins. La Guyane est actuellement frapp\u00e9e par sa pire \u00e9pid\u00e9mie depuis une v\u2026 [+5618 chars]",
+      "retrievedAt": "2024-02-17 19:05:55.498109",
+      "internal_id": "420ca2047110cd901fa2986881132274d40748dca3a223cd7496b2132a2846dd",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5567,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Maeve McTaggart",
+      "title": "Call for MMR vaccine to be made available through pharmacies as measles cases rise",
+      "description": "The Irish Pharmacy Union has called for the MMR catch-up vaccine to be made available in pharmacies, advising all adults not yet fully vaccinated against measles to \u201curgently\u201d seek an MMR vaccine.",
+      "url": "https://www.independent.ie/irish-news/call-for-mmr-vaccine-to-be-made-available-through-pharmacies-as-measles-cases-rise/a1550929216.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/OxWX5onJi_azzAmWQLG3Tt6l2Vk=/0x0:3237x2158/629x0/prod-mh-ireland/9ea2dd2a-26f9-4483-a2bb-2b1bbf492400/fb915dff-dc60-47b6-a44a-d4e5b174479a/tyImages_1718981175.jpg",
+      "publishedAt": "2024-02-16 11:42:06",
+      "content": "The Irish Pharmacy Union has called for the MMR catch-up vaccine to be made available in pharmacies, advising all adults not yet fully vaccinated against measles to urgently seek an MMR vaccine.Paren\u2026 [+2576 chars]",
+      "retrievedAt": "2024-02-17 19:05:54.631349",
+      "internal_id": "7224ded9c3cb5ce8c55b7384e864fb5b317ea129e585567c61a92ede5a422021",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5571,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Amid rising measles cases, a new generation of doctors is being taught how to spot the disease",
+      "description": "Amid rising measles cases, a new generation of doctors is being taught how to spot the diseasego.com",
+      "url": "https://abcnews.go.com/Health/amid-rising-measles-cases-new-generation-doctors-taught/story?id=107235617",
+      "urlToImage": "https://i.abcnewsfe.com/a/03d8a063-9542-4d2a-9c7f-e1b9b907eed1/measles-stock-gty-jef-240215_1708028477366_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-02-16 11:15:10",
+      "content": "Over the last several years, isolated outbreaks of measles have been popping up across the United States. Most recently, between Dec. 1, 2023, and Jan. 23, 2024, there have been 23 confirmed cases o\u2026 [+5947 chars]",
+      "retrievedAt": "2024-02-17 19:05:54.668011",
+      "internal_id": "8d6e9c34d5cd96ee49bc403f24e750d9781d37ad3e5ba21cf1a324d7a785d3b7",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5585,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Hisugarplum.com",
+      "author": "Cassie",
+      "title": "Dressing Room Diaries | February",
+      "description": "Happy Friday, friends, and cheers to the weekend! Our African visas have arrived and the prescription for malaria pills have\u2026 The post Dressing Room Diaries | February appeared first on Hi Sugarplum!.",
+      "url": "https://hisugarplum.com/dressing-room-diaries-february/",
+      "urlToImage": "https://hisugarplum.com/wp-content/uploads/2024/02/hi-sugarplum-dressing-room-diaires_8207.jpg",
+      "publishedAt": "2024-02-16 10:30:00",
+      "content": "Happy Friday, friends, and cheers to the weekend! Our African visas have arrived and the prescription for malaria pills have been filled\u2026 tomorrow we leave for Kenya!! I still can\u2019t believe this is r\u2026 [+13482 chars]",
+      "retrievedAt": "2024-02-17 19:05:56.410821",
+      "internal_id": "f85e83296987525e785eb7e10ed977220af536bee0ca7921c02ca3ffb477a4e9",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5573,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Danilo Oliveira",
+      "title": "10 plantas que afastam mosquito da dengue",
+      "description": "Apresentamos uma lista com 10 plantas para ajudar a repelir os mosquitos da dengue e ainda aproveitar seus outros benef\u00edcios O post 10 plantas que afastam mosquito da dengue apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/16/ciencia-e-espaco/10-plantas-que-afastam-mosquito-da-dengue/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/11/pexels-pixabay-86722-scaled-e1699618243347-695x500.jpg",
+      "publishedAt": "2024-02-16 10:20:00",
+      "content": "Com a preocupa\u00e7\u00e3o constante em rela\u00e7\u00e3o \u00e0 propaga\u00e7\u00e3o da dengue e outras doen\u00e7as transmitidas por mosquitos, encontrar formas naturais e eficazes de afast\u00e1-los tornou-se uma prioridade para muitas pess\u2026 [+5456 chars]",
+      "retrievedAt": "2024-02-17 19:05:55.382045",
+      "internal_id": "d05a5cc2684e578087a9b67738b3ec9dc5a0c4d674f8079c08ea81a7abd933bc",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5572,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC espera que los casos de sarampi\u00f3n en Europa sigan aumentando en los pr\u00f3ximos meses",
+      "description": "El Centro Europeo de Prevenci\u00f3n y Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) espera que los casos de sarampi\u00f3n sigan aumentando en la UE/EEE en los pr\u00f3ximos meses debido a que la cobertura de vacunaci\u00f3n contra la enfermad no es \u00f3ptima, adem\u00e1s de\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-espera-casos-sarampion-europa-sigan-aumentando-proximos-meses-20240216110454.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240216110454_1200.jpg",
+      "publishedAt": "2024-02-16 10:04:54",
+      "content": "En los \u00faltimos meses se han notificado siete muertes en Europa MADRID, 16 Feb. (EUROPA PRESS) - El Centro Europeo de Prevenci\u00f3n y Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) espera \u2026 [+4878 chars]",
+      "retrievedAt": "2024-02-17 19:05:54.966266",
+      "internal_id": "4bfcedf6fedb82f8d0fffd2cfae83ba24df59c2cfe814df769a2a28bc73a99ea",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5576,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Cambio clim\u00e1tico llevar\u00e1 al desplazamiento de 3.1 millones de mexicanos",
+      "description": "El cambio clim\u00e1tico, con todos los efectos que van desde el aumento del nivel del mar, inundaciones, sequ\u00edas y escasez de agua hasta el desarrollo de enfermedades como el dengue, puede llevar al desplazamiento de 3.1 millones de personas en el pa\u00eds para 2050 \u2026",
+      "url": "https://www.jornada.com.mx/2024/02/16/politica/014n1pol",
+      "urlToImage": "https://www.jornada.com.mx/2024/02/16/fotos/014n1pol-1.jpg",
+      "publishedAt": "2024-02-16 09:08:23",
+      "content": "Peri\u00f3dico La JornadaViernes 16 de febrero de 2024, p. 14 El cambio clim\u00e1tico, con todos los efectos que van desde el aumento del nivel del mar, inundaciones, sequ\u00edas y escasez de agua hasta el desar\u2026 [+2075 chars]",
+      "retrievedAt": "2024-02-17 19:05:55.439611",
+      "internal_id": "336a82bc52c741f74e47d4aa3470e1d7a3a74ddad521b7f3b38799ff8ebe2380",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5566,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Fiachra Gallagher",
+      "title": "Cases of measles across Europe likely to continue rising, EU agency warns",
+      "description": "European Centre for Disease Prevention and Control says low vaccination rates in some countries is a risk",
+      "url": "https://www.irishtimes.com/health/2024/02/16/cases-of-measles-across-europe-likely-to-continue-rising-eu-agency-warns/",
+      "urlToImage": "https://www.irishtimes.com/resizer/RclJCq1MsQiDMOSho1Yg2yRRp74=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/6QM5RGNNXPANYOSXN6VOWISTPA.jpg",
+      "publishedAt": "2024-02-16 09:00:00",
+      "content": "Cases of measles across Europe are likely to continue rising in the coming months due to suboptimal vaccination rates among the population in a number of countries, a European Union agency assessment\u2026 [+2589 chars]",
+      "retrievedAt": "2024-02-17 19:05:54.605815",
+      "internal_id": "e5f9ad0ced39f3811cba770edb8ed40ec2d2da83fd133f11950f77076864e953",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5568,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "Traveller alert after one-year-old in Adelaide reported with measles",
+      "description": "Health authorities have warned travellers on a flight from Melbourne to Adelaide to be alert for symptoms after a toddler has contracted measles.",
+      "url": "https://www.abc.net.au/news/2024-02-16/measles-case-in-child-reported-in-sa/103478772",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f226ef8f811f45ee207cc37a3acbd026?impolicy=wcms_crop_resize&cropH=1519&cropW=2699&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-02-16 08:43:54",
+      "content": "In short: South Australia reports its first case of measles this year in a one-year-old who recently returned from overseas.The child is in a stable condition.What's next? S\u2026 [+1323 chars]",
+      "retrievedAt": "2024-02-17 19:05:54.649626",
+      "internal_id": "e69c4b150d8c86e0943b2aa6dd26ff59243c9786b2eb44c6cd1976cd954767b1",
+      "publishedAtLabel": "Feb 16"
+    },
     {
       "id": 5554,
       "query": [
@@ -27939,25 +28409,6 @@
       "content": "\u00a1De acab\u00f3 la maldici\u00f3n! Detroit Pistons se impuso este s\u00e1bado en el Little Caesars Arena a los Toronto Raptors (127-129) para poner fin a la hist\u00f3rica mala racha de 28 derrotas consecutivas en esta \u2026 [+1028 chars]",
       "retrievedAt": "2024-01-02 07:05:51.070033",
       "internal_id": "6e01ac63ef0fc89eff9708a91f7f191afe0b2ad60e5f4225a40e054452505e55",
-      "publishedAtLabel": "Dec 31"
-    },
-    {
-      "id": 4014,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Wnd.com",
-      "author": "WND News Services",
-      "title": "Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals",
-      "description": "Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. Polio, which paralyzed thousands of Americans annually, was wiped out by widespread vaccinations. In 1999 the natio\u2026",
-      "url": "https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/12/illegals-aliens-migrants-immigration-caravan-border-undocumented-jpg.jpg",
-      "publishedAt": "2023-12-31 18:27:17",
-      "content": "(Video screenshot) [Editor's note: This story originally was published by Real Clear Wire.] By James VarneyReal Clear Wire Successful public health campaigns and medical advances have enabled the \u2026 [+12728 chars]",
-      "retrievedAt": "2024-01-01 19:05:22.272433",
-      "internal_id": "73ad94b20c057ac3685a1a9a55d3a81445edc3d2809aa8e5f96664ff4cc03d7a",
       "publishedAtLabel": "Dec 31"
     }
   ]
