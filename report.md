@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-02-18 07:06
-- **Most recent article:** 2024-02-17 05:02:32
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-02-18 19:05
+- **Most recent article:** 2024-02-17 18:50:50
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 153 | 763 |
-| measles | 25 | 61 | 56 | 47 | 68 | 41 | 298 |
-| malaria | 51 | 26 | 86 | 25 | 35 | 18 | 241 |
+| dengue | 33 | 65 | 123 | 173 | 216 | 159 | 769 |
+| measles | 25 | 61 | 56 | 47 | 68 | 44 | 301 |
+| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 242 |
 | zika | 8 | 8 | 7 | 8 | 13 | 6 | 50 |
-| chikungunya | 6 | 0 | 10 | 10 | 12 | 7 | 45 |
-| rabies | 5 | 5 | 9 | 7 | 7 | 8 | 41 |
-| meningitis | 11 | 6 | 1 | 3 | 8 | 7 | 36 |
-| mpox | 2 | 8 | 4 | 3 | 5 | 7 | 29 |
+| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 46 |
+| rabies | 5 | 5 | 9 | 7 | 7 | 9 | 42 |
+| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 37 |
+| mpox | 2 | 8 | 4 | 3 | 5 | 8 | 30 |
 | pertussis | 2 | 5 | 2 | 3 | 2 | 6 | 20 |
-| sarampión | 0 | 0 | 1 | 6 | 5 | 2 | 14 |
+| sarampión | 0 | 0 | 1 | 6 | 5 | 3 | 15 |
 | typhoid | 0 | 1 | 2 | 2 | 1 | 2 | 8 |
 | yersinia | 1 | 1 | 2 | 0 | 1 | 2 | 7 |
 | leptospirosis | 1 | 0 | 1 | 1 | 1 | 1 | 5 |
@@ -59,11 +59,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (sarampión)
 
+- [Perú detectó el primer caso de sarampión autóctono; no había desde el 2000](https://www.montevideo.com.uy/Salud/Peru-detecto-el-primer-caso-de-sarampion-autoctono-no-habia-desde-el-2000-uc879948) (Montevideo.com.uy)
+
 - [El ECDC espera que los casos de sarampión en Europa sigan aumentando en los próximos meses](https://www.infosalus.com/salud-investigacion/noticia-ecdc-espera-casos-sarampion-europa-sigan-aumentando-proximos-meses-20240216110454.html) (Infosalus.com)
 
 - [Aumenta el sarampión y no sé si estoy vacunado: ¿Qué debo hacer?](https://www.elmundo.es/ciencia-y-salud/salud/2024/02/11/65c5ffafe9cf4a59128b45be.html) (El Mundo)
 
 ## 24-7 (rabies)
+
+- [BMC to vaccinate 70 percent of stray dogs against rabies by March 2024](https://timesofindia.indiatimes.com/city/mumbai/bmc-to-vaccinate-70-percent-of-stray-dogs-against-rabies-by-march-2024/articleshow/107784483.cms) (The Times of India)
 
 - [COVID-19, polio, HIV caused by viruses that have been identified and studied | Fact check](https://www.usatoday.com/story/news/factcheck/2024/02/16/viruses-cause-herpes-flu-hiv-covid-rabies-polio/72629090007/) (USA Today)
 
@@ -97,6 +101,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (mpox)
 
+- [Monkeypox cases on rise in Cambodia; health ministry now confirms 12th case](https://www.thestar.com.my/aseanplus/aseanplus-news/2024/02/17/monkeypox-cases-on-rise-in-cambodia-health-ministry-now-confirms-12th-case) (The Star Online)
+
 - [Genesee County reports 2 mpox cases, urges some to get vaccine](https://www.abc12.com/news/health/genesee-county-reports-2-mpox-cases-urges-some-to-get-vaccine/article_ecf3c2ba-ccf8-11ee-b584-93e7cd5766a2.html) (ABC 12 News)
 
 - [Πρώτος νεκρός από την ευλογιά της Αλάσκας – Τι είναι και πως μεταδίδεται](https://www.newsit.gr/ygeia/protos-nekros-apo-tin-eylogia-tis-alaskas-ti-einai-kai-pos-metadidetai/3980656/) (Newsit.gr)
@@ -113,6 +119,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (meningitis)
 
+- [La emoción de Patricia Pérez y Luis Canut en su primera entrevista conjunta relatando el calvario que han vivido](https://www.hola.com/actualidad/20240217249490/patricia-perez-luis-canut-enfermo-entrevista/) (Hola)
+
 - [Luis Canut sorprende a Patricia Pérez en pleno directo: 'Me salvaste la vida'](https://www.hola.com/actualidad/20240215249357/patricia-perez-luis-canut-sorpresa-directo/) (Hola)
 
 - [Health alert after three teens in same school contract Meningitis - Donegal Daily](https://www.donegaldaily.com/2024/02/15/health-alert-after-three-teens-in-same-school-contract-meningitis/) (Donegaldaily.com)
@@ -128,6 +136,12 @@ Source: [News API](https://newsapi.org/)
 - [Luis Canut reaparece mostrando su vida actual y hace una declaración de amor a Patricia Pérez](https://www.europapress.es/chance/gente/noticia-luis-canut-reaparece-mostrando-vida-actual-hace-declaracion-amor-patricia-perez-20240211223214.html) (Europapress.es)
 
 ## 24-7 (measles)
+
+- [3 new cases of measles confirmed at Broward elementary School](https://www.local10.com/news/local/2024/02/17/3-new-cases-of-measles-confirmed-at-broward-elementary-school/) (WPLG Local 10)
+
+- [Measles, the alert goes off for the new variant in Italy: “It escapes tests” - Breaking Latest News](https://www.breakinglatest.news/health/measles-the-alert-goes-off-for-the-new-variant-in-italy-it-escapes-tests/) (Breakinglatest.news)
+
+- [No measles detected after Western Isles alert](https://www.bbc.co.uk/news/articles/cz9m70dpevzo) (BBC News)
 
 - [Victoria and South Australia issue health alert after measles case in overseas traveller who transited Melbourne to Adelaide](https://www.skynews.com.au/australia-news/victoria-and-south-australia-issue-health-alert-after-measles-case-in-overseas-traveller-who-transited-from-melbourne-to-adelaide/news-story/faa4c7d63bceb0eb60729f742a954430) (Sky News Australia)
 
@@ -213,6 +227,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (malaria)
 
+- [Forskare: Möjligt att utrota malaria om tio år – om vi vill](https://www.dn.se/sverige/forskare-mojligt-att-utrota-malaria-om-tio-ar-om-vi-vill/) (Www.dn.se)
+
 - [Los sabios españoles de las superbacterias: así lucha nuestro país contra la "pandemia silenciosa"](https://www.elespanol.com/ciencia/salud/20240217/sabios-espanoles-superbacterias-lucha-pais-pandemia-silenciosa/832417112_0.html) (Elespanol.com)
 
 - [Toxoplasmosis: Researchers identify protein that evolved alongside infection machinery](https://phys.org/news/2024-02-toxoplasmosis-protein-evolved-infection-machinery.html) (Phys.Org)
@@ -254,6 +270,18 @@ Source: [News API](https://newsapi.org/)
 - [Leptospirosis: estigma sobre esta enfermedad puede retrasar su diagnóstico](https://www.eluniversal.com.co/salud/leptospirosis-estigma-sobre-esta-enfermedad-puede-retrasar-su-diagnostico-XN9960642) (Eluniversal.com.co)
 
 ## 24-7 (dengue)
+
+- [Brasil registra 94 mortes por dengue em 2024; BH decreta emergência](https://ultimosegundo.ig.com.br/brasil/2024-02-17/brasil-registra-94-mortes-por-dengue--belo-horizonte-decreta-emergencia.html) (Ig.com.br)
+
+- [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
+
+- [Alerta no Brasil: Dengue já causou 94 mortes em 2024](https://noticias.r7.com/brasil/revista-oeste/alerta-no-brasil-dengue-ja-causou-94-mortes-em-2024-17022024) (R7.com)
+
+- [Planos de saúde devem cobrir exame de dengue? Entenda o que fazer em caso de negativa](https://jornaldebrasilia.com.br/noticias/saude/planos-de-saude-devem-cobrir-exame-de-dengue-entenda-o-que-fazer-em-caso-de-negativa/) (Jornaldebrasilia.com.br)
+
+- [Maioria dos mortos por dengue em SP era do interior e tinha mais de 70](https://www.metropoles.com/sao-paulo/mortos-dengue-sp-interior-e-mais-de-70) (Metropoles.com)
+
+- [Brazil's Health Agents Hunt Mosquitos in Dengue Epidemic Fight](https://www.voanews.com/a/brazil-s-health-agents-hunt-mosquitos-in-dengue-epidemic-fight-/7491573.html) (VOA News)
 
 - [Explain Rise In Dengue Cases In Last 3 Months: Court To Delhi Civic Body](https://www.ndtv.com/india-news/explain-rise-in-dengue-cases-in-last-3-months-court-to-delhi-civic-body-5073115) (NDTV News)
 
@@ -562,6 +590,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: 408 mil casos são confirmados pelo Ministério da Saúde](https://ultimosegundo.ig.com.br/brasil/2024-02-10/numero-de-casos-de-dengue-brasil.html) (Ig.com.br)
 
 ## 24-7 (chikungunya)
+
+- [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
 
 - [BH terá 13 unidades de saúde para casos de dengue no fim de semana](https://noticias.r7.com/minas-gerais/bh-tera-13-unidades-de-saude-para-casos-de-dengue-no-fim-de-semana-17022024) (R7.com)
 

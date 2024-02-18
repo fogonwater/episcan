@@ -1,8 +1,261 @@
 {
-  "last_updated": "2024-02-18 07:06",
-  "count_articles_total": 1504,
-  "count_articles_new": 20,
+  "last_updated": "2024-02-18 19:05",
+  "count_articles_total": 1518,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 5614,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPLG Local 10",
+      "author": "Hatzel Vela",
+      "title": "3 new cases of measles confirmed at Broward elementary School",
+      "description": "Three new measles cases were confirmed at Manatee Bay Elementary on Saturday following a first report of the outbreak on Friday, officials said.",
+      "url": "https://www.local10.com/news/local/2024/02/17/3-new-cases-of-measles-confirmed-at-broward-elementary-school/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/XF4PYXDXDNHBFGRCH26Y7RGC6E.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-02-17 18:50:50",
+      "content": "WESTON, Fla. Three new measles cases were confirmed at an elementary school in Broward County on Saturday following a first report of the outbreak on Friday, officials said. Broward County Public Sc\u2026 [+2240 chars]",
+      "retrievedAt": "2024-02-18 19:05:28.486109",
+      "internal_id": "678bf7120ae3fceac5fbc2c67d01acab19b1170532a87723acd8b9f98a02dfc1",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5621,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "Brasil registra 94 mortes por dengue em 2024; BH decreta emerg\u00eancia",
+      "description": "Sa\u00fade anunciou a amplia\u00e7\u00e3o dos recursos para o enfrentamento da emerg\u00eancia, destinando agora R$ 1,5 bilh\u00e3o para apoiar estados, munic\u00edpios e o Distrito Federal",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2024-02-17/brasil-registra-94-mortes-por-dengue--belo-horizonte-decreta-emergencia.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ct/1u/6h/ct1u6hqriv1ebmxxhih69fwod.jpg",
+      "publishedAt": "2024-02-17 18:48:24",
+      "content": "O Brasil registrou 94 mortes por dengue em 2024, segundo o Minist\u00e9rio da Sa\u00fade. Os dados, atualizados at\u00e9 sexta-feira (16), mostram que o pa\u00eds tem 555.583 casos prov\u00e1veis da doen\u00e7a neste ano. Outras \u2026 [+1176 chars]",
+      "retrievedAt": "2024-02-18 19:05:29.257670",
+      "internal_id": "fd44569139352fa14a3161d4d6c6d83b000f75cb23c1240f4495983395b9265f",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5611,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "BMC to vaccinate 70 percent of stray dogs against rabies by March 2024",
+      "description": "The BMC has vaccinated around 25 thousand stray dogs in the ongoing mass anti-rabies vaccination of stray dogs in Mumbai since September 2023. By the end of March 2024, approximately 70 percent of the dogs will be vaccinated.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/bmc-to-vaccinate-70-percent-of-stray-dogs-against-rabies-by-march-2024/articleshow/107784483.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107784481,width-1070,height-580,imgsize-126128,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-17 18:16:50",
+      "content": "8 traditional Indian mithais loved by Mughal emperors",
+      "retrievedAt": "2024-02-18 19:05:28.133018",
+      "internal_id": "48aac24f40356a487fbbff8859d9433c58767d20ffa16aebc8051c4739e66f2a",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5622,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Hola",
+      "author": "Mart\u00edn G\u00e1lvez Piqueras, Mart\u00edn G\u00e1lvez Piqueras",
+      "title": "La emoci\u00f3n de Patricia P\u00e9rez y Luis Canut en su primera entrevista conjunta relatando el calvario que han vivido",
+      "description": "La presentadora de 50 a\u00f1os y su marido hablan sobre la enfermedad de este, una meningitis criptoc\u00f3cica que le mantuvo cuatro meses hospitalizado",
+      "url": "https://www.hola.com/actualidad/20240217249490/patricia-perez-luis-canut-enfermo-entrevista/",
+      "urlToImage": "https://images.hola.com/imagenes/actualidad/20240217249490/patricia-perez-luis-canut-enfermo-entrevista/1-394-0/pareja-t.jpg",
+      "publishedAt": "2024-02-17 17:33:11",
+      "content": "Patricia P\u00e9rez y Luis Canut vuelven ver la luz al final del t\u00fanel, iniciando por fin una nueva etapa donde el guionista y director de programas se est\u00e1 recuperando del grave problema de salud que ha \u2026 [+3539 chars]",
+      "retrievedAt": "2024-02-18 19:05:29.670862",
+      "internal_id": "ba962558e290c63c2d4c4696cbc1114b81c7cd59d72ed646e8f2b98b5ebba3ba",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5613,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Breakinglatest.news",
+      "author": "Admin",
+      "title": "Measles, the alert goes off for the new variant in Italy: \u201cIt escapes tests\u201d - Breaking Latest News",
+      "description": "Measles, the alert goes off for the new variant in Italy: \u201cIt escapes tests\u201d - Breaking Latest Newsbreakinglatest.news",
+      "url": "https://www.breakinglatest.news/health/measles-the-alert-goes-off-for-the-new-variant-in-italy-it-escapes-tests/",
+      "urlToImage": "https://img.iltempo.it/images/2024/02/17/152425318-75b11875-509d-431e-b9f0-fcbf7f256f36.jpg",
+      "publishedAt": "2024-02-17 16:36:07",
+      "content": "41New Variant of Measles with Reduced Test Sensitivity Discovered in Italy A new variant of measles has been discovered in Italy, causing molecular tests for diagnosis to be less sensitive. Since Ja\u2026 [+1662 chars]",
+      "retrievedAt": "2024-02-18 19:05:28.481246",
+      "internal_id": "883026f119c8b70ef09c6f0b2d53cd1f55c29a3a1d31874d5026bf0c41909777",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5615,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Per\u00fa detect\u00f3 el primer caso de sarampi\u00f3n aut\u00f3ctono; no hab\u00eda desde el 2000",
+      "description": "Una beb\u00e9 de diez meses, que vive en Lima, se contagi\u00f3 de la enfermedad y despert\u00f3 la alarma en el pa\u00eds.",
+      "url": "https://www.montevideo.com.uy/Salud/Peru-detecto-el-primer-caso-de-sarampion-autoctono-no-habia-desde-el-2000-uc879948",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201903/_W933_80/688057.jpeg",
+      "publishedAt": "2024-02-17 16:23:00",
+      "content": "Tras m\u00e1s de dos d\u00e9cadas, Per\u00fa anunci\u00f3 este viernes un primer caso de sarampi\u00f3n aut\u00f3ctono al confirmarse la enfermedad a una beb\u00e9 en Lima, indic\u00f3 el Ministerio de Salud. Per\u00fa no ha tenido un caso p\u2026 [+1407 chars]",
+      "retrievedAt": "2024-02-18 19:05:28.723007",
+      "internal_id": "a25c6c705d81ea819641170b66125833c853b8b83ba8c5bece685a1ac8e1f2e6",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5623,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.se",
+      "author": "Johan Nilsson",
+      "title": "Forskare: M\u00f6jligt att utrota malaria om tio \u00e5r \u2013 om vi vill",
+      "description": "Det skulle vara m\u00f6jligt att utrota malaria p\u00e5 tio \u00e5r. Det s\u00e4ger Adrian Hill, en av dem som tagit fram ett av de tv\u00e5 hyllade vacciner mot sjukdomen.",
+      "url": "https://www.dn.se/sverige/forskare-mojligt-att-utrota-malaria-om-tio-ar-om-vi-vill/",
+      "urlToImage": "https://cached-images.bonnier.news/gcs/bilder/dn-mly/d3d78ebb-2673-4d86-accc-45dac808185a.jpeg?interpolation=lanczos-none&fit=around%7C1024:576&crop=1024:h;center,top&output-quality=80",
+      "publishedAt": "2024-02-17 15:38:37",
+      "content": "P\u00e5 den p\u00e5g\u00e5ende vetenskapskonferensen AAAS i Denver, USA, hyllas de nya vaccinerna mot malaria som ett av de viktigaste vetenskapliga genombrotten p\u00e5 senare tid. Studier har visat att de tv\u00e5 vacciner\u2026 [+1980 chars]",
+      "retrievedAt": "2024-02-18 19:05:30.067831",
+      "internal_id": "33fc8420cb2fe4bbfe9376acdf40adff127b5e63a5dd8c1d54185737a9670a27",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5617,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus r\u00e9sistants ?",
+      "description": "Au Cameroun, des produits bas\u00e9s sur des combinaisons de plantes sont en phase de recherche. Ces insecticides inspir\u00e9s de la nature pourraient \u00eatre utilis\u00e9s en France, o\u00f9 la r\u00e9sistance des insectes aux r\u00e9pulsifs chimiques augmente \u00e9galement.",
+      "url": "https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/K6i3Bk8wTmCC6rMRILyvkbxESUM/1500x843/2024/02/16/thumbnail-20240208-105620-65cfa7f85d999682339814.jpg",
+      "publishedAt": "2024-02-17 13:10:02",
+      "content": "Depuis presque un mois, le Cameroun est le premier pays au monde \u00e0 vacciner les b\u00e9b\u00e9s \u00e0 grande \u00e9chelle contre le paludisme, maladie transmise par les moustiques qui a tu\u00e9 en 2023 dans le monde 600 00\u2026 [+5192 chars]",
+      "retrievedAt": "2024-02-18 19:05:29.206281",
+      "internal_id": "9ed5a7897044a58f9947f6029025f2fe0e54a09534171c11c37d3427640d1d0e",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5619,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Revista Oeste - Brasil",
+      "title": "Alerta no Brasil: Dengue j\u00e1 causou 94 mortes em 2024",
+      "description": "At\u00e9 agora, 94 mortes causadas pela doen\u00e7a foram confirmadasLeia a mat\u00e9ria...",
+      "url": "https://noticias.r7.com/brasil/revista-oeste/alerta-no-brasil-dengue-ja-causou-94-mortes-em-2024-17022024",
+      "urlToImage": "https://img.r7.com/images/r7-30072019142631584?dimensions=340x191&crop_position=c",
+      "publishedAt": "2024-02-17 13:07:00",
+      "content": "At\u00e9 agora, 94 mortes causadas pela doen\u00e7a foram confirmadas Leia a mat\u00e9ria completa no nosso parceiro Brasil: not\u00edcias e artigos - Revista Oeste Leia mais em Brasil: not\u00edcias e artigos - Revista Oes\u2026 [+268 chars]",
+      "retrievedAt": "2024-02-18 19:05:29.241657",
+      "internal_id": "8e98840e8dd09c507e82f87617ad9b00f6885e3641258bf7050ed5eafef02bd7",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5624,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Monkeypox cases on rise in Cambodia; health ministry now confirms 12th case",
+      "description": "Cambodia has logged another case of mpox, also known as monkeypox, bringing the total number of infections in the country to 12 since last December, the Ministry of Health said in a statement to the media.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2024/02/17/monkeypox-cases-on-rise-in-cambodia-health-ministry-now-confirms-12th-case",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/02/17/2548533.jpg",
+      "publishedAt": "2024-02-17 12:27:49",
+      "content": "PHNOM PENH (Xinhua): Cambodia has logged another case of mpox, also known as monkeypox, bringing the total number of infections in the country to 12 since last December, the Ministry of Health said i\u2026 [+1156 chars]",
+      "retrievedAt": "2024-02-18 19:05:30.877307",
+      "internal_id": "f7110743052ea76d11e83cfbc3eac88035b8436da3d1c453d05b2306052da26f",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5618,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Planos de sa\u00fade devem cobrir exame de dengue? Entenda o que fazer em caso de negativa",
+      "description": "GEOVANA OLIVEIRA S\u00c3O PAULO, SP (FOLHAPRESS) Em meio aos surtos de dengue que colocam o pa\u00eds em alerta, \u00e9 natural querer fazer um teste...",
+      "url": "https://jornaldebrasilia.com.br/noticias/saude/planos-de-saude-devem-cobrir-exame-de-dengue-entenda-o-que-fazer-em-caso-de-negativa/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/17115045/IMG_9988.jpeg",
+      "publishedAt": "2024-02-17 11:51:40",
+      "content": "GEOVANA OLIVEIRAS\u00c3O PAULO, SP (FOLHAPRESS) Em meio aos surtos de dengue que colocam o pa\u00eds em alerta, \u00e9 natural querer fazer um teste para diagn\u00f3stico assim que aparecem sintomas como febre alta, do\u2026 [+3442 chars]",
+      "retrievedAt": "2024-02-18 19:05:29.233811",
+      "internal_id": "f7c6c80a3569a0fc09f6bd32a42a2682487a4839d4fb21d4c58f970ba2bb7e29",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5612,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "No measles detected after Western Isles alert",
+      "description": "Concerns were raised about a possible case linked to people who attended a sports centre.",
+      "url": "https://www.bbc.co.uk/news/articles/cz9m70dpevzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e208/live/8017fa60-cceb-11ee-9a5b-e35447f6c53b.png",
+      "publishedAt": "2024-02-17 10:34:39",
+      "content": "The NHS has said a suspected measles case in the Western Isles has turned out to be negative. Earlier this week, NHS Western Isles warned some people who attended a sports centre in Lewis that they \u2026 [+367 chars]",
+      "retrievedAt": "2024-02-18 19:05:28.440842",
+      "internal_id": "3c99aef680356dae7ff7821af49e41257b8eb9ad7a345a9e031eaf607cc863f3",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5620,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jessica Bernardo",
+      "title": "Maioria dos mortos por dengue em SP era do interior e tinha mais de 70",
+      "description": "Dados divulgados pela Secretaria da Sa\u00fade de S\u00e3o Paulo mostra perfil das v\u00edtimas que morreram com a doen\u00e7a desde o in\u00edcio do ano",
+      "url": "https://www.metropoles.com/sao-paulo/mortos-dengue-sp-interior-e-mais-de-70",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/05124652/Foto-mosquito-da-dengue-2-1.jpg",
+      "publishedAt": "2024-02-17 08:00:11",
+      "content": "S\u00e3o Paulo A maior parte das v\u00edtimas que morreram por causa da dengue em S\u00e3o Paulo neste ano tinha mais de 70 anos e morava no interior do estado. Os dados s\u00e3o da Secretaria da Sa\u00fade da gest\u00e3o Tarc\u00edsi\u2026 [+7653 chars]",
+      "retrievedAt": "2024-02-18 19:05:29.247882",
+      "internal_id": "e99722dae34d3e06d6f69bd1230ea8ad23aa2f129b33c0140b850fa69ba9dfc8",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5616,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Brazil's Health Agents Hunt Mosquitos in Dengue Epidemic Fight",
+      "description": "RIO DE JANEIRO \u2014 The small team of state public health workers slalomed between auto parts strewn across a Rio de Janeiro junkyard, looking for standing water where mosquitoes might have laid their eggs. They were part of nationwide efforts to curtail a sur\u2026",
+      "url": "https://www.voanews.com/a/brazil-s-health-agents-hunt-mosquitos-in-dengue-epidemic-fight-/7491573.html",
+      "urlToImage": "https://gdb.voanews.com/B2D33D87-F7EE-4D3C-8FCC-972B22A2EB77.jpg",
+      "publishedAt": "2024-02-17 08:00:00",
+      "content": "RIO DE JANEIRO The small team of state public health workers slalomed between auto parts strewn across a Rio de Janeiro junkyard, looking for standing water where mosquitoes might have laid their eg\u2026 [+4735 chars]",
+      "retrievedAt": "2024-02-18 19:05:29.164165",
+      "internal_id": "ec9c143448f2a6dda5501f80eadfdcf07cfa3a7ba74fe08ab59e49a95038c049",
+      "publishedAtLabel": "Feb 17"
+    },
     {
       "id": 5598,
       "query": [
