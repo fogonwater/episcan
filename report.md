@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2024-02-19 07:07
-- **Most recent article:** 2024-02-18 05:00:16
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-02-19 19:05
+- **Most recent article:** 2024-02-18 18:30:11
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 176 | 1 | 787 |
-| measles | 25 | 61 | 56 | 47 | 68 | 45 | 3 | 305 |
-| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 1 | 243 |
+| dengue | 33 | 65 | 123 | 173 | 216 | 176 | 10 | 796 |
+| measles | 25 | 61 | 56 | 47 | 68 | 45 | 5 | 307 |
+| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 2 | 244 |
 | zika | 8 | 8 | 7 | 8 | 13 | 6 | 0 | 50 |
 | chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 1 | 47 |
 | rabies | 5 | 5 | 9 | 7 | 7 | 9 | 1 | 43 |
-| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 0 | 37 |
+| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 1 | 38 |
 | mpox | 2 | 8 | 4 | 3 | 5 | 8 | 0 | 30 |
 | pertussis | 2 | 5 | 2 | 3 | 2 | 6 | 0 | 20 |
 | sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 0 | 16 |
-| typhoid | 0 | 1 | 2 | 2 | 1 | 2 | 0 | 8 |
-| yersinia | 1 | 1 | 2 | 0 | 1 | 2 | 0 | 7 |
+| typhoid | 0 | 1 | 2 | 2 | 1 | 2 | 1 | 9 |
+| yersinia | 1 | 1 | 2 | 0 | 1 | 2 | 1 | 8 |
 | leptospirosis | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 5 |
 
 
@@ -31,11 +31,27 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-8 (yersinia)
+
+- [В США мужчина заразился бубонной чумой от кошки. Что нужно знать?](https://hi-news.ru/eto-interesno/v-ssha-muzhchina-zarazilsya-bubonnoj-chumoj-ot-koshki-chto-nuzhno-znat.html) (Hi-news.ru)
+
+## 24-8 (typhoid)
+
+- [Alice Eve’s 8 Best Acting Roles (Including Star Trek's Carol Marcus)](https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/) (Screen Rant)
+
 ## 24-8 (rabies)
 
 - [BMC vaccinates 25k stray dogs against rabies](https://timesofindia.indiatimes.com/city/mumbai/bmc-vaccinates-25k-stray-dogs-against-rabies-in-mumbai/articleshow/107788368.cms) (The Times of India)
 
+## 24-8 (meningitis)
+
+- [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
+
 ## 24-8 (measles)
+
+- [Florida Department of Health investigates Broward County's multiple measles cases](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/) (CBS News)
+
+- [Measles infections pose far more risks than most realize, including a fatal neurological complication](https://www.nbcnews.com/health/kids-health/measles-infection-symptoms-longterm-risks-rcna138583) (NBC News)
 
 - [TWiV 1089: Shoot out at the Circle-T ranch](https://www.microbe.tv/twiv/twiv-1089/) (Microbe.tv)
 
@@ -45,9 +61,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (malaria)
 
+- [Odisha's first vaccine manufacturing plant to start production by May](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/odishas-first-vaccine-manufacturing-plant-to-start-production-by-may/articleshow/107800124.cms) (The Times of India)
+
 - [The journey with malaria so far](https://punchng.com/the-journey-with-malaria-so-far/) (The Punch)
 
 ## 24-8 (dengue)
+
+- [Dengue no RJ: número de casos é 6 vezes maior do que o esperado](https://www.metropoles.com/brasil/dengue-no-rj-numero-de-casos-e-6-vezes-maior-do-que-o-esperado) (Metropoles.com)
+
+- [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://www.terra.com.br/esportes/flamengo/allan-do-flamengo-e-diagnosticado-com-dengue-e-desfalca-a-equipe,7644e233e4586eddc0cd56bcc78ade88iau4mpd9.html) (Terra.com.br)
+
+- [Volante Allan, do Flamengo, está com dengue](https://www.terra.com.br/esportes/flamengo/volante-allan-do-flamengo-esta-com-dengue,94c93d8757d43dc9e9eac4ad384889c0bc7fslg7.html) (Terra.com.br)
+
+- [Dengue Rages Around The Globe. Where Are The Vaccines?](https://www.forbes.com/sites/stephenthomas/2024/02/18/dengue-rages-around-the-globe-where-are-the-vaccines/) (Forbes)
+
+- [Dengue: Hospital de Campanha do DF já realizou 16 mil procedimentos](https://www.metropoles.com/distrito-federal/dengue-hospital-de-campanha-do-df-ja-realizou-16-mil-procedimentos) (Metropoles.com)
+
+- [São Paulo tem 60 mil casos de dengue confirmados em 2024](https://www.metropoles.com/sao-paulo/sao-paulo-tem-60-mil-casos-de-dengue-confirmados-em-2024) (Metropoles.com)
+
+- [Idosos e crianças fazem parte do grupos de risco para dengue grave](https://jornaldebrasilia.com.br/noticias/brasil/idosos-e-criancas-fazem-parte-do-grupos-de-risco-para-dengue-grave/) (Jornaldebrasilia.com.br)
+
+- [Epidemia de dengue no Brasil: lições para as parcerias tecnológicas do SUS](https://www.conjur.com.br/2024-fev-18/epidemia-de-dengue-no-brasil-licoes-para-as-parcerias-tecnologicas-do-sus/) (Conjur.com.br)
+
+- [About one-third of dengue cases in Klang involve youths](https://www.thestar.com.my/metro/metro-news/2024/02/18/about-one-third-of-dengue-cases-in-klang-involve-youths) (The Star Online)
 
 - [DF tem 2 mil pessoas internadas com dengue, sendo 171 delas na UTI](https://www.metropoles.com/distrito-federal/df-tem-2-mil-pessoas-internadas-com-dengue-sendo-171-delas-na-uti) (Metropoles.com)
 
