@@ -1,8 +1,260 @@
 {
-  "last_updated": "2024-02-18 19:05",
-  "count_articles_total": 1518,
-  "count_articles_new": 14,
+  "last_updated": "2024-02-19 07:07",
+  "count_articles_total": 1544,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 5634,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "DF tem 2 mil pessoas internadas com dengue, sendo 171 delas na UTI",
+      "description": "O dia em que mais houve entrada de pacientes na UTI foi em 31 de janeiro, quando 11 pacientes foram internados",
+      "url": "https://www.metropoles.com/distrito-federal/df-tem-2-mil-pessoas-internadas-com-dengue-sendo-171-delas-na-uti",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/31134645/visita-dengue-df.jpeg",
+      "publishedAt": "2024-02-18 05:00:16",
+      "content": "Com 67.897 casos prov\u00e1veis de dengue notificados em 2024, o sistema de sa\u00fade do Distrito Federal tinha, at\u00e9 as 18h de sexta-feira (16/2), 171 pacientes internados na Unidade de Terapia Intensiva (UTI\u2026 [+8086 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.401329",
+      "internal_id": "1b63e98dc218585317d527eb0ee686c6ade0abeb4bdef5ab7cda06614a7e12fb",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 5626,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1089: Shoot out at the Circle-T ranch",
+      "description": "TWiV reviews a fatal Alaskapox case, MERS in Kenya, diagnostic tests for Nipah and Lassa diseases, HPV vaccination rates in the US, cases of measles in Arizona and Minnesota, hepatitis C virus-derived RNA circles in infected cells, and prevention of respirato\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1089/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-18 05:00:00",
+      "content": "TWiV reviews a fatal Alaskapox case, MERS in Kenya, diagnostic tests for Nipah and Lassa diseases, HPV vaccination rates in the US, cases of measles in Arizona and Minnesota, hepatitis C virus-derive\u2026 [+664 chars]",
+      "retrievedAt": "2024-02-19 07:06:55.329679",
+      "internal_id": "1f345dc868d395eaec841fb9193e0544730be0887b37b6c778c2c923dcf6dc27",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 5629,
+      "query": [
+        "measles"
+      ],
+      "source_id": "news-com-au",
+      "source_name": "News.com.au",
+      "author": "Duncan Evans",
+      "title": "Measles virus detected at Melbourne Airport after Emirates flight",
+      "description": "A dangerous and contagious virus is spreading in Australia after the disease was detected in a passenger on an Emirates flight at Melbourne Airport, just days after it was detected in Sydney.",
+      "url": "https://www.news.com.au/lifestyle/health/urgent-warning-after-measles-case-travelled-through-melbourne-airport/news-story/1ed778751d40bbec51c4377da9563496",
+      "urlToImage": "https://content.api.news/v3/images/bin/0e581c21aac20b6025415bc1862a7920",
+      "publishedAt": "2024-02-18 03:28:07",
+      "content": "A dangerous and contagious virus is spreading in Australia after the disease was detected in a passenger on an Emirates flight at Melbourne Airport, just days after it was detected in Sydney. Victor\u2026 [+2660 chars]",
+      "retrievedAt": "2024-02-19 07:06:55.360502",
+      "internal_id": "224cbd26dc673046b30e06da0728820998f3c343c9c71a04f538d74281bff0b4",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 5625,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "BMC vaccinates 25k stray dogs against rabies",
+      "description": "The BMC has vaccinated around 25 thousand stray dogs in the ongoing mass anti-rabies vaccination of stray dogs in Mumbai since Sept 2023. Approximately 70 percent of the dogs will be vaccinated by the end of March 2024.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/bmc-vaccinates-25k-stray-dogs-against-rabies-in-mumbai/articleshow/107788368.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-18 02:47:00",
+      "content": "8 traditional Indian mithais loved by Mughal emperors",
+      "retrievedAt": "2024-02-19 07:06:54.527080",
+      "internal_id": "3718899554c39d609a106da8493b0f2ad250d89780b0a2244eb69116146c7c58",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 5650,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Hellen Leite, do R7, em Bras\u00edlia",
+      "title": "Casos de chikungunya disparam 42% em meio \u00e0 epidemia de dengue",
+      "description": "Em janeiro de 2024, o governo registrou 29 mil casos prov\u00e1veis de chikungunya e 4 mortes; 30 \u00f3bitos est\u00e3o em fase de investiga\u00e7\u00e3o",
+      "url": "https://noticias.r7.com/cidades/casos-de-chikungunya-disparam-epidemia-de-dengue-18022024",
+      "urlToImage": "https://img.r7.com/images/r7rio-122019-aedesaegypti-19122019141243320?crop=912x513+113+123",
+      "publishedAt": "2024-02-18 02:00:03",
+      "content": "Chikungunya \u00e9 transmitida pelo mosquito Aedes aegypti Divulga\u00e7\u00e3o/Fiocruz \u2014 Arquivo Os casos de chikungunya no Brasil cresceram 42% em janeiro de 2024, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano\u2026 [+4905 chars]",
+      "retrievedAt": "2024-02-19 07:06:58.414902",
+      "internal_id": "c22f0b8db2f8ff0f8925e556a1a528462d76b22722b93357b7e9d7a9393ed877",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 5628,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "1news.co.nz",
+      "author": "Barbara Dreaver",
+      "title": "Measles vaccination rates soar in Samoa but pain of epidemic remains",
+      "description": "Barbara Dreaver returns to Samoa four years after the measles epidemic which killed 80 people, mostly children.",
+      "url": "https://www.1news.co.nz/2024/02/18/measles-vaccination-rates-soar-in-samoa-but-pain-of-epidemic-remains/",
+      "urlToImage": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/NURCGX7TPRGSLN2SWGVKYXGA2A.jpg?auth=e87275e1e5689b0c925f2dfe39e8250345c90f6f54edf65d22fa2a36a66fa617&quality=70&width=600&height=315&focal=661%2C280",
+      "publishedAt": "2024-02-18 00:17:54",
+      "content": "Barbara Dreaver returns to Samoa and finds signs of hope four years after the measles epidemic which killed 80 people, mostly children. The gate is locked. A dog barks but everything is still in t\u2026 [+6971 chars]",
+      "retrievedAt": "2024-02-19 07:06:55.354396",
+      "internal_id": "962318ff5cbac8d1b7fb584e320d3b9f2ca69d79f4ba6f01021de972b8369004",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 5649,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Dr. Sylvester Ikhisemojie",
+      "title": "The journey with malaria so far",
+      "description": "Malaria is a disease condition that we had cause to deal with on this page in 2013 in a two-part essay. We return to the topic today not because there are no other diseases to discuss, but because malaria continues to wreak havoc in many communities across th\u2026",
+      "url": "https://punchng.com/the-journey-with-malaria-so-far/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2018/12/15201925/Dr.-Sylvester-Ikhisemojie.jpg",
+      "publishedAt": "2024-02-18 00:06:39",
+      "content": "Malaria is a disease condition that we had cause to deal with on this page in 2013 in a two-part essay. We return to the topic today not because there are no other diseases to discuss, but because ma\u2026 [+7599 chars]",
+      "retrievedAt": "2024-02-19 07:06:57.244967",
+      "internal_id": "a3354c97043cb452baf98036ec896f1efec7d465f3a7ed8b5ad5944f54eb4a3b",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 5630,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.mx",
+      "author": "C\u00e9sar Aguilla",
+      "title": "Alerta por sarampi\u00f3n: Secretar\u00eda de Salud dice que hay \"riesgo medio\" de contagio al viajar; s\u00edntomas y recomendaciones",
+      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda de la Secretar\u00eda de Salud emiti\u00f3 un aviso preventivo de viaje por sarampi\u00f3n a nivel mundial. Las alarmas comenzaron a sonar despu\u00e9s de que se detectara un incremento en los casos y defunciones provocadas por esta enfermed\u2026",
+      "url": "https://www.xataka.com.mx/medicina-y-salud/alerta-sarampion-secretaria-salud-dice-que-hay-riesgo-medio-contagio-al-viajar-sintomas-recomendaciones",
+      "urlToImage": "https://i.blogs.es/f8ca6d/sarampion-alarma/840_560.jpeg",
+      "publishedAt": "2024-02-17 21:59:14",
+      "content": "La Direcci\u00f3n General de Epidemiolog\u00eda de la Secretar\u00eda de Salud emiti\u00f3 un aviso preventivo de viaje por sarampi\u00f3n a nivel mundial. Las alarmas comenzaron a sonar despu\u00e9s de que se detectara un increm\u2026 [+2951 chars]",
+      "retrievedAt": "2024-02-19 07:06:55.551058",
+      "internal_id": "5f71b8b7efd14a4e73a8783c0faa39cfba88353283e988f7856ce8b1c5d53ddc",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5633,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Arreguy",
+      "title": "Em SP, apenas tr\u00eas bairros registraram um \u00fanico caso de dengue em 2024",
+      "description": "Dois bairros da regi\u00e3o central e um da zona sul registraram apenas um caso de dengue este ano, segundo boletim da Prefeitura de SP",
+      "url": "https://www.metropoles.com/sao-paulo/em-sp-apenas-tres-bairros-registraram-um-unico-caso-de-dengue-em-2024",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/01153051/Novo-Projeto-2024-02-01T152420.614.jpg",
+      "publishedAt": "2024-02-17 21:44:34",
+      "content": "S\u00e3o Paulo Apenas tr\u00eas bairros da cidade de S\u00e3o Paulo registraram um \u00fanico caso de dengue em 2024 at\u00e9 o \u00faltimo boletim epidemiol\u00f3gico, lan\u00e7ado em 7 de fevereiro. A capital paulista j\u00e1 soma 6.496 diagn\u2026 [+7526 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.389841",
+      "internal_id": "aede9ab0f284ae849b4ecb57160076152697b5eba2431fc3a361ab95676ce10f",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5627,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSVN 7News | Miami News, Weather, Sports | Fort Lauderdale",
+      "author": "Rub\u00e9n Rosario",
+      "title": "BCPS: Confirmed measles cases at Manatee Bay Elementary in Weston rise to 4",
+      "description": "WESTON, FLA. (WSVN) - - Broward County Public Schools officials have confirmed three additional measles cases at an elementary school in Weston.The update, provided by<a class=\"excerpt-read-more\" href=\"https://wsvn.com/news/local/broward/bcps-confirmed-measle\u2026",
+      "url": "https://wsvn.com/news/local/broward/bcps-confirmed-measles-cases-at-manatee-bay-elementary-in-weston-rise-to-4/",
+      "urlToImage": "https://wsvn.com/wp-content/uploads/sites/2/2024/02/240216_Manatee_Bay_Elementary_School_aerial.jpg?quality=60&strip=color",
+      "publishedAt": "2024-02-17 21:34:44",
+      "content": "WESTON, FLA. (WSVN) - - Broward County Public Schools officials have confirmed three additional measles cases at an elementary school in Weston. The update, provided by BCPS spokesperson John J. Sul\u2026 [+1354 chars]",
+      "retrievedAt": "2024-02-19 07:06:55.335391",
+      "internal_id": "49f5ef015e6a82df99a93fac76d84c9582a99350d2be621e08994a7d1b4ca09b",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5632,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Arreguy",
+      "title": "Itaquera e bairro da zona oeste lideram casos de dengue em SP",
+      "description": "Juntos, os dois bairros respondem por 13,6% dos casos de dengue registrados na capital paulista at\u00e9 o dia 6/2",
+      "url": "https://www.metropoles.com/sao-paulo/itaquera-e-bairro-da-zona-oeste-lideram-casos-de-dengue-em-sp",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2024-02-17 21:20:09",
+      "content": "S\u00e3o Paulo Itaquera, bairro da zona leste, e Vila Jaguara, na zona oeste, respondem, sozinhos, por 13,6% dos 6.496 casos de dengue registrados na capital paulista at\u00e9 7 de fevereiro, quando foi lan\u00e7ad\u2026 [+7958 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.380695",
+      "internal_id": "60905e472e9964aaab16d2fcec1317d54f482a96f26be6de7ba9976634aa9c3c",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5636,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "Brasil j\u00e1 registra 94 mortes por dengue e meio milh\u00e3o de casos em 2024",
+      "description": "O Distrito Federal e Minas Gerais s\u00e3o as unidades da Federa\u00e7\u00e3o com maior incid\u00eancia da doen\u00e7a e j\u00e1 decretaram situa\u00e7\u00e3o de emerg\u00eancia",
+      "url": "https://www.metropoles.com/colunas/grande-angular/brasil-ja-registra-94-mortes-por-dengue-e-meio-milhao-de-casos-em-2024",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/05214231/Movimentac%CC%A7a%CC%83o-de-pacientes-funciona%CC%81rios-e-militares-no-Hospital-de-Campanha-da-Forc%CC%A7a-Ae%CC%81rea-Brasileira-para-atender-pacientes-da-dengue-no-DF-12.jpg",
+      "publishedAt": "2024-02-17 20:17:03",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.470562",
+      "internal_id": "08ebf33ede8a07fb8bf133c5e68392ed3aa508701abc9aa43869b6002bdd071d",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5635,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Daniela Santos",
+      "title": "Cinco capitais e DF j\u00e1 iniciaram vacina\u00e7\u00e3o contra a dengue",
+      "description": "Ao todo, oito capitais e o Distrito Federal receberam o primeiro lote das vacinas contra a dengue. P\u00fablico-alvo s\u00e3o crian\u00e7as de 10 a 11 anos",
+      "url": "https://www.metropoles.com/brasil/cinco-capitais-e-df-ja-iniciaram-vacinacao-contra-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09113215/Vacinacao-dengue-UBS-Asa-8.jpg",
+      "publishedAt": "2024-02-17 19:40:48",
+      "content": "Desde a \u00faltima semana, cinco capitais e o Distrito Federal deram in\u00edcio \u00e0 vacina\u00e7\u00e3o contra a dengue pelo Sistema \u00danico de Sa\u00fade (SUS), ap\u00f3s a disparada de casos da doen\u00e7a no pa\u00eds. O Minist\u00e9rio da Sa\u00fa\u2026 [+2007 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.439066",
+      "internal_id": "6e4f9609ef2d2771945b4079c7df4ff2e208050f2dc757b025443f78972061bd",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5631,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra",
+      "title": "Dengue: Belo Horizonte decreta emerg\u00eancia ap\u00f3s aumento de casos",
+      "description": "A capital mineira j\u00e1 registrou 3.718 casos confirmados e cinco \u00f3bitos em decorr\u00eancia da dengue neste ano",
+      "url": "https://www.terra.com.br/noticias/brasil/cidades/dengue-belo-horizonte-decreta-emergencia-apos-aumento-de-casos,d8a5e7a2215ae84e4f51444131bb41cdhj5ibd2i.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/15/1534601765-conheca-os-mitos-e-verdades-sobre-a-dengue.jpg",
+      "publishedAt": "2024-02-17 19:25:38",
+      "content": "A Prefeitura de Belo Horizonte, em Minas Gerais, decretou, neste s\u00e1bado, 17, situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade p\u00fablica em decorr\u00eancia da dengue. A decis\u00e3o, publicada no Di\u00e1rio Oficial, vale para todas \u2026 [+1209 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.323620",
+      "internal_id": "db0b910f610803910e87d982b53ccfbdf4d3ae534dc1e3321a7a2e84a184c32d",
+      "publishedAtLabel": "Feb 17"
+    },
     {
       "id": 5614,
       "query": [
@@ -55,6 +307,24 @@
       "content": "8 traditional Indian mithais loved by Mughal emperors",
       "retrievedAt": "2024-02-18 19:05:28.133018",
       "internal_id": "48aac24f40356a487fbbff8859d9433c58767d20ffa16aebc8051c4739e66f2a",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5641,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Seis capitais iniciaram a vacina\u00e7\u00e3o contra a dengue em crian\u00e7as",
+      "description": "Minist\u00e9rio da Sa\u00fade selecionou dez estados para come\u00e7ar imuniza\u00e7\u00e3o",
+      "url": "https://saude.ig.com.br/2024-02-17/seis-capitais-iniciaram-a-vacinacao-contra-a-dengue-em-criancas.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c1/e4/d1/c1e4d1oh0uh1d020x4568fo7s.jpg",
+      "publishedAt": "2024-02-17 17:51:12",
+      "content": "A vacina\u00e7\u00e3o contra a dengue j\u00e1 come\u00e7ou em pelo menos seis dos dez estados selecionados pelo Minist\u00e9rio da Sa\u00fade para receberem o lote inicial de 712 mil doses. A distribui\u00e7\u00e3o das vacinas contra a den\u2026 [+6173 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.527107",
+      "internal_id": "83a634cf8417b4f09130dd6e10e7651a5c733292efdd1d7c6c71c221c0d29fbc",
       "publishedAtLabel": "Feb 17"
     },
     {
@@ -384,6 +654,24 @@
       "publishedAtLabel": "Feb 17"
     },
     {
+      "id": 5645,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Dengue sum\u00f3 m\u00e1s de 1.000 enfermos en solo una semana",
+      "description": "En las primeras cinco semanas del 2024, el dengue acumula 3.756 casos. Alajuela y San Jos\u00e9 son las provincias con mayor presencia de la enfermedad",
+      "url": "https://www.nacion.com/ciencia/salud/dengue-sumo-mas-de-1000-enfermos-en-solo-una/I242I6FE5JEFRJKPY3E2DHQKUY/story/",
+      "urlToImage": "https://www.nacion.com/resizer/sUmiqZ6cCk7QT8pRr6vvK9zTuuw=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/AANHEPPNUFGAZIRJ6L6XOID3SI.jpg",
+      "publishedAt": "2024-02-16 22:49:40",
+      "content": "Esta registro de 1.077 supera en 21 veces lo reportado en la quinta semana del 2023, cuando hubo 51 pacientes, de acuerdo con datos de la Organizaci\u00f3n Panamericana de la Salud (OPS). Entretanto, los \u2026 [+4996 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.549055",
+      "internal_id": "708553da25859894c26dd585f075ffc86869949f7e515dcfaca9ca3d77107927",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
       "id": 5604,
       "query": [
         "dengue"
@@ -636,6 +924,24 @@
       "publishedAtLabel": "Feb 16"
     },
     {
+      "id": 5644,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Alto Astral",
+      "title": "Repelente contra dengue: m\u00e9dica diz como usar em crian\u00e7as",
+      "description": "Descubra agora qual repelente contra dengue funciona para crian\u00e7as e como proteg\u00ea-las independente da idade",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/repelente-contra-dengue-medica-diz-como-usar-em-criancas,81d3245a41acde43758b26701967542egdcb37cw.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/16/987512096-repelente-contra-dengue.jpg",
+      "publishedAt": "2024-02-16 18:34:37",
+      "content": "V\u00e1rios estados brasileiros decretaram estado de emerg\u00eancia contra a dengue nas \u00faltimas semanas. O aumento de casos tem preocupado muitas fam\u00edlias, que buscam proteger suas crian\u00e7as das mais diversas \u2026 [+3128 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.543638",
+      "internal_id": "3ab0f7c5f19929455ff147997ebd4fa2a58bc2deed27028b5a96796c1b709958",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
       "id": 5583,
       "query": [
         "dengue"
@@ -706,6 +1012,24 @@
       "content": "O estado de Minas Gerais tem cerca de 70% dos casos prov\u00e1veis de chikungunya no pa\u00eds. At\u00e9 o momento, s\u00e3o 31.237 registros em investiga\u00e7\u00e3o no Brasil, sendo 23.628 somente no estado mineiro. A Secret\u2026 [+1342 chars]",
       "retrievedAt": "2024-02-17 19:05:57.370345",
       "internal_id": "b2287632b8ccecc55cc96bb6c55661acca4a4540581aee2698d3edab44516333",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5643,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "RAGANANTHINI VETHASALAM",
+      "title": "\u2018Make dengue vaccine affordable\u2019",
+      "description": "PETALING JAYA: The Qdenga dengue vaccine must be reasonably priced and be easily accessible to Malaysians given the high burden of the disease in Asia, says virologist Emeritus Prof Datuk Dr Lam Sai Kit. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/02/17/make-dengue-vaccine-affordable",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/02/17/2548241.jpg",
+      "publishedAt": "2024-02-16 16:00:00",
+      "content": "PETALING JAYA: The Qdenga dengue vaccine must be reasonably priced and be easily accessible to Malaysians given the high burden of the disease in Asia, says virologist Emeritus Prof Datuk Dr Lam Sai \u2026 [+2923 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.537552",
+      "internal_id": "d17978ab2becf0b7f9bc4a3f89280f770a8e229359c79373395da56a67b68e59",
       "publishedAtLabel": "Feb 16"
     },
     {
@@ -959,6 +1283,42 @@
       "content": "The Irish Pharmacy Union has called for the MMR catch-up vaccine to be made available in pharmacies, advising all adults not yet fully vaccinated against measles to urgently seek an MMR vaccine.Paren\u2026 [+2576 chars]",
       "retrievedAt": "2024-02-17 19:05:54.631349",
       "internal_id": "7224ded9c3cb5ce8c55b7384e864fb5b317ea129e585567c61a92ede5a422021",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5637,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Professores de SP cobram medidas de combate \u00e0 dengue nas escolas",
+      "description": "Sindicato diz que categoria n\u00e3o recebeu orienta\u00e7\u00e3o sobre a doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-02-16/professores-de-sp-cobram-medidas-de-combate-a-dengue-nas-escolas.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
+      "publishedAt": "2024-02-16 11:27:38",
+      "content": "Na quinta-feira (15), come\u00e7a o ano letivo para 3 milh\u00f5es de alunos da rede estadual de ensino em S\u00e3o Paulo, em mais de 5 mil escolas. No entanto, segundo o Sindicato dos Professores do Ensino Oficial\u2026 [+977 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.501759",
+      "internal_id": "ab84f70bfff566a037aef987a3f3bc2866a3362aa6057b78c856eefeba922a82",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5638,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Dengue: casos graves podem causar hepatite e insufici\u00eancia renal",
+      "description": "Alerta \u00e9 da Secretaria de Sa\u00fade do Distrito Federal",
+      "url": "https://saude.ig.com.br/2024-02-16/dengue--casos-graves-podem-causar-hepatite-e-insuficiencia-renal.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-02-16 11:21:21",
+      "content": "Ap\u00f3s declarar situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade p\u00fablica por causa de uma explos\u00e3o de casos de dengue , o governo do Distrito Federal alerta que casos graves da doen\u00e7a podem levar a quadros como hepati\u2026 [+3214 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.508160",
+      "internal_id": "4890c4e93c84a6761f78e0e8be697a874dc1eaeff30815bff8b8c23b2ef8eae2",
       "publishedAtLabel": "Feb 16"
     },
     {
@@ -1305,6 +1665,24 @@
       "publishedAtLabel": "Feb 15"
     },
     {
+      "id": 5646,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "DINO",
+      "title": "Dengue pode causar diversas complica\u00e7\u00f5es oculares",
+      "description": "Doen\u00e7a pode causar hemorragias retinianas, oclus\u00f5es vasculares e neurite, afetando a vis\u00e3o ou resultando em cegueira",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-pode-causar-diversas-complicacoes-oculares,e4893f762a7cf4b02cce72bd12438396z412xj3x.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/15/752422916-03c437df-dcf4-4578-a5de-2f7922640fee.jpg",
+      "publishedAt": "2024-02-15 22:43:31",
+      "content": "O Distrito Federal est\u00e1 entre os estados que apresentam mais incid\u00eancias de casos de dengue no Brasil. De acordo com o boletim epidemiol\u00f3gico divulgado pela Secretaria de Sa\u00fade do Distrito Federal na\u2026 [+3441 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.555020",
+      "internal_id": "d23febcaa6f1b5cf155c88a2b1abef5f418e266a088ec35369713db7b1060383",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
       "id": 5561,
       "query": [
         "dengue"
@@ -1323,6 +1701,24 @@
       "publishedAtLabel": "Feb 15"
     },
     {
+      "id": 5647,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "DINO",
+      "title": "Dengue pode causar diversas complica\u00e7\u00f5es oculares",
+      "description": "Doen\u00e7a pode causar hemorragias retinianas, oclus\u00f5es vasculares e neurite, afetando a vis\u00e3o ou resultando em cegueira",
+      "url": "https://www.terra.com.br/noticias/dengue-pode-causar-diversas-complicacoes-oculares,e4893f762a7cf4b02cce72bd12438396z412xj3x.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/15/752422916-03c437df-dcf4-4578-a5de-2f7922640fee.jpg",
+      "publishedAt": "2024-02-15 19:59:52",
+      "content": "O Distrito Federal est\u00e1 entre os estados que apresentam mais incid\u00eancias de casos de dengue no Brasil. De acordo com o boletim epidemiol\u00f3gico divulgado pela Secretaria de Sa\u00fade do Distrito Federal na\u2026 [+3441 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.560192",
+      "internal_id": "695590d64e8a243a30d71fe27e426332eed79ffd80455e0d545be005b5250cb9",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
       "id": 5556,
       "query": [
         "dengue"
@@ -1338,6 +1734,24 @@
       "content": "O Sindicato dos M\u00e9dicos do Distrito Federal (Sindm\u00e9dico-DF) divulgou nota em que classificou como ilegal a convoca\u00e7\u00e3o de 600 estagi\u00e1rios do Governo do Distrito Federal (GDF), integrantes do programa \u2026 [+1418 chars]",
       "retrievedAt": "2024-02-17 07:05:32.549959",
       "internal_id": "390a1ea02d089b718ceef06c2ad7127ccebab9f3dfdc379fc0fa09e80dbf96e2",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5642,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Sa\u00fade anuncia investimento de R$1,5 bilh\u00e3o para combate \u00e0 dengue",
+      "description": "O minist\u00e9rio destinou em 2023 R$ 256 milh\u00f5es em recursos",
+      "url": "https://saude.ig.com.br/2024-02-15/ministerio-da-saude-destinara-1-5-bilhao-para-combate-a-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
+      "publishedAt": "2024-02-15 19:22:32",
+      "content": "Na \u00faltima quarta-feira (14), o Minist\u00e9rio da Sa\u00fade anunciou que vai ampliar o volume de recursos destinados aos Estados, Distrito Federal e munic\u00edpios no combate \u00e0 Dengue. Segundo a pasta, ser\u00e1 rep\u2026 [+1189 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.532338",
+      "internal_id": "a497f30bc4fda0edf21db0ed118257f41644e9c63a501178234e090f442729cc",
       "publishedAtLabel": "Feb 15"
     },
     {
@@ -1521,6 +1935,42 @@
       "publishedAtLabel": "Feb 15"
     },
     {
+      "id": 5640,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Qual a diferen\u00e7a entre a dengue comum e a hemorr\u00e1gica? Os sintomas s\u00e3o os mesmos?",
+      "description": "A dengue, doen\u00e7a viral transmitida pelo mosquito Aedes aegypti, pode se apresentar em diferentes ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/qual-a-diferenca-entre-a-dengue-comum-e-a-hemorragica-os-sintomas-sao-os-mesmos,7e3cc59daecd42cfdffa788953183ab59iy2n3cs.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/09/dengue-e-chikungunya-1jy7ryyl96jp5.jpg",
+      "publishedAt": "2024-02-15 15:27:10",
+      "content": "A dengue, doen\u00e7a viral transmitida pelo mosquito Aedes aegypti, pode se apresentar em diferentes formas cl\u00ednicas, sendo as mais conhecidas a dengue cl\u00e1ssica e a dengue hemorr\u00e1gica. Embora ambas com\u2026 [+1514 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.521356",
+      "internal_id": "c8284dcc320d2769bf0970888c8e2956f342a6f74b69945deb455777d8db2962",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5648,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Mitos e verdades sobre dengue: o mosquito pica mais de dia? Ele tem cor diferente?",
+      "description": "A alta nos casos de dengue \u00e9 um dos assuntos mais comentados e pesquisados na internet. N\u00e3o \u00e9 ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/mitos-e-verdades-sobre-dengue-o-mosquito-pica-mais-de-dia-ele-tem-cor-diferente,4103aae341dcda34a2f4f0eac7e7554137ga9nfz.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/14/1306777986-mosquito-dengue-morte-jan2024.jpeg",
+      "publishedAt": "2024-02-15 15:23:06",
+      "content": "A alta nos casos de dengue \u00e9 um dos assuntos mais comentados e pesquisados na internet. N\u00e3o \u00e9 para menos, afinal o pa\u00eds j\u00e1 ultrapassou a marca de meio milh\u00e3o de casos prov\u00e1veis da doen\u00e7a, n\u00famero muit\u2026 [+3138 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.566143",
+      "internal_id": "f02edfadaa3663434c81ce6ff61bd4d71f06d8d34d5f075ef7e3c9d1c069b23a",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
       "id": 5537,
       "query": [
         "dengue"
@@ -1572,6 +2022,24 @@
       "content": "A new study finds that preventing the malaria parasite from scavenging fatty acids, a type of required nutrient, it can no longer grow. Living organisms often create what is needed for life from scr\u2026 [+4457 chars]",
       "retrievedAt": "2024-02-16 19:05:28.324383",
       "internal_id": "290b86c5b369553041f33e4e39ebba1570393ff651ca1ca6a5a9681b70862018",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 5639,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Alto Astral",
+      "title": "Repelente e protetor solar: saiba qual a ordem correta dos produtos",
+      "description": "Dermatologista explica o tipo de repelente ideal e como aplicar o produto para se proteger contra o Aedes aegypti",
+      "url": "https://www.terra.com.br/vida-e-estilo/repelente-e-protetor-solar-saiba-qual-a-ordem-correta-dos-produtos,56215a3bd9a98c9503d28f72865a414burlqk19l.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/15/584321409-repelente-protetor-solar-ordem-aplicacao.jpg",
+      "publishedAt": "2024-02-15 14:01:09",
+      "content": "O Brasil enfrenta uma crescente nos casos de dengue, chamando a aten\u00e7\u00e3o das autoridades de sa\u00fade p\u00fablica em todo o territ\u00f3rio nacional. Com a temporada de calor intenso e chuvas frequentes, existe a \u2026 [+2067 chars]",
+      "retrievedAt": "2024-02-19 07:06:56.514308",
+      "internal_id": "e9b73e2d2e2c8226cdd918cbc98f5c10301af29851cf115df35ad6c7332b0df2",
       "publishedAtLabel": "Feb 15"
     },
     {

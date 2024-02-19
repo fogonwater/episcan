@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-02-18 19:05
-- **Most recent article:** 2024-02-17 18:50:50
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-02-19 07:07
+- **Most recent article:** 2024-02-18 05:00:16
 
 ---
 
@@ -10,26 +10,50 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 159 | 769 |
-| measles | 25 | 61 | 56 | 47 | 68 | 44 | 301 |
-| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 242 |
-| zika | 8 | 8 | 7 | 8 | 13 | 6 | 50 |
-| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 46 |
-| rabies | 5 | 5 | 9 | 7 | 7 | 9 | 42 |
-| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 37 |
-| mpox | 2 | 8 | 4 | 3 | 5 | 8 | 30 |
-| pertussis | 2 | 5 | 2 | 3 | 2 | 6 | 20 |
-| sarampión | 0 | 0 | 1 | 6 | 5 | 3 | 15 |
-| typhoid | 0 | 1 | 2 | 2 | 1 | 2 | 8 |
-| yersinia | 1 | 1 | 2 | 0 | 1 | 2 | 7 |
-| leptospirosis | 1 | 0 | 1 | 1 | 1 | 1 | 5 |
+| Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 33 | 65 | 123 | 173 | 216 | 176 | 1 | 787 |
+| measles | 25 | 61 | 56 | 47 | 68 | 45 | 3 | 305 |
+| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 1 | 243 |
+| zika | 8 | 8 | 7 | 8 | 13 | 6 | 0 | 50 |
+| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 1 | 47 |
+| rabies | 5 | 5 | 9 | 7 | 7 | 9 | 1 | 43 |
+| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 0 | 37 |
+| mpox | 2 | 8 | 4 | 3 | 5 | 8 | 0 | 30 |
+| pertussis | 2 | 5 | 2 | 3 | 2 | 6 | 0 | 20 |
+| sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 0 | 16 |
+| typhoid | 0 | 1 | 2 | 2 | 1 | 2 | 0 | 8 |
+| yersinia | 1 | 1 | 2 | 0 | 1 | 2 | 0 | 7 |
+| leptospirosis | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-8 (rabies)
+
+- [BMC vaccinates 25k stray dogs against rabies](https://timesofindia.indiatimes.com/city/mumbai/bmc-vaccinates-25k-stray-dogs-against-rabies-in-mumbai/articleshow/107788368.cms) (The Times of India)
+
+## 24-8 (measles)
+
+- [TWiV 1089: Shoot out at the Circle-T ranch](https://www.microbe.tv/twiv/twiv-1089/) (Microbe.tv)
+
+- [Measles virus detected at Melbourne Airport after Emirates flight](https://www.news.com.au/lifestyle/health/urgent-warning-after-measles-case-travelled-through-melbourne-airport/news-story/1ed778751d40bbec51c4377da9563496) (News.com.au)
+
+- [Measles vaccination rates soar in Samoa but pain of epidemic remains](https://www.1news.co.nz/2024/02/18/measles-vaccination-rates-soar-in-samoa-but-pain-of-epidemic-remains/) (1news.co.nz)
+
+## 24-8 (malaria)
+
+- [The journey with malaria so far](https://punchng.com/the-journey-with-malaria-so-far/) (The Punch)
+
+## 24-8 (dengue)
+
+- [DF tem 2 mil pessoas internadas com dengue, sendo 171 delas na UTI](https://www.metropoles.com/distrito-federal/df-tem-2-mil-pessoas-internadas-com-dengue-sendo-171-delas-na-uti) (Metropoles.com)
+
+## 24-8 (chikungunya)
+
+- [Casos de chikungunya disparam 42% em meio à epidemia de dengue](https://noticias.r7.com/cidades/casos-de-chikungunya-disparam-epidemia-de-dengue-18022024) (R7.com)
 
 ## 24-7 (zika)
 
@@ -58,6 +82,8 @@ Source: [News API](https://newsapi.org/)
 - [Old tools, new applications: Use of environmental bacteriophages for typhoid surveillance and evaluating vaccine impact](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011822) (Plos.org)
 
 ## 24-7 (sarampión)
+
+- [Alerta por sarampión: Secretaría de Salud dice que hay "riesgo medio" de contagio al viajar; síntomas y recomendaciones](https://www.xataka.com.mx/medicina-y-salud/alerta-sarampion-secretaria-salud-dice-que-hay-riesgo-medio-contagio-al-viajar-sintomas-recomendaciones) (Xataka.com.mx)
 
 - [Perú detectó el primer caso de sarampión autóctono; no había desde el 2000](https://www.montevideo.com.uy/Salud/Peru-detecto-el-primer-caso-de-sarampion-autoctono-no-habia-desde-el-2000-uc879948) (Montevideo.com.uy)
 
@@ -136,6 +162,8 @@ Source: [News API](https://newsapi.org/)
 - [Luis Canut reaparece mostrando su vida actual y hace una declaración de amor a Patricia Pérez](https://www.europapress.es/chance/gente/noticia-luis-canut-reaparece-mostrando-vida-actual-hace-declaracion-amor-patricia-perez-20240211223214.html) (Europapress.es)
 
 ## 24-7 (measles)
+
+- [BCPS: Confirmed measles cases at Manatee Bay Elementary in Weston rise to 4](https://wsvn.com/news/local/broward/bcps-confirmed-measles-cases-at-manatee-bay-elementary-in-weston-rise-to-4/) (WSVN 7News | Miami News, Weather, Sports | Fort Lauderdale)
 
 - [3 new cases of measles confirmed at Broward elementary School](https://www.local10.com/news/local/2024/02/17/3-new-cases-of-measles-confirmed-at-broward-elementary-school/) (WPLG Local 10)
 
@@ -271,7 +299,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (dengue)
 
+- [Em SP, apenas três bairros registraram um único caso de dengue em 2024](https://www.metropoles.com/sao-paulo/em-sp-apenas-tres-bairros-registraram-um-unico-caso-de-dengue-em-2024) (Metropoles.com)
+
+- [Itaquera e bairro da zona oeste lideram casos de dengue em SP](https://www.metropoles.com/sao-paulo/itaquera-e-bairro-da-zona-oeste-lideram-casos-de-dengue-em-sp) (Metropoles.com)
+
+- [Brasil já registra 94 mortes por dengue e meio milhão de casos em 2024](https://www.metropoles.com/colunas/grande-angular/brasil-ja-registra-94-mortes-por-dengue-e-meio-milhao-de-casos-em-2024) (Metropoles.com)
+
+- [Cinco capitais e DF já iniciaram vacinação contra a dengue](https://www.metropoles.com/brasil/cinco-capitais-e-df-ja-iniciaram-vacinacao-contra-a-dengue) (Metropoles.com)
+
+- [Dengue: Belo Horizonte decreta emergência após aumento de casos](https://www.terra.com.br/noticias/brasil/cidades/dengue-belo-horizonte-decreta-emergencia-apos-aumento-de-casos,d8a5e7a2215ae84e4f51444131bb41cdhj5ibd2i.html) (Terra.com.br)
+
 - [Brasil registra 94 mortes por dengue em 2024; BH decreta emergência](https://ultimosegundo.ig.com.br/brasil/2024-02-17/brasil-registra-94-mortes-por-dengue--belo-horizonte-decreta-emergencia.html) (Ig.com.br)
+
+- [Seis capitais iniciaram a vacinação contra a dengue em crianças](https://saude.ig.com.br/2024-02-17/seis-capitais-iniciaram-a-vacinacao-contra-a-dengue-em-criancas.html) (Ig.com.br)
 
 - [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
 
@@ -287,6 +327,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Seis capitais deram início à vacinação contra a dengue em crianças](https://valor.globo.com/brasil/noticia/2024/02/16/seis-capitais-deram-inicio-a-vacinacao-contra-a-dengue-em-criancas.ghtml) (Globo)
 
+- [Dengue sumó más de 1.000 enfermos en solo una semana](https://www.nacion.com/ciencia/salud/dengue-sumo-mas-de-1000-enfermos-en-solo-una/I242I6FE5JEFRJKPY3E2DHQKUY/story/) (Nacion.com)
+
 - [Saiba reconhecer os sinais de dengue em crianças e adolescentes](https://www.metropoles.com/saude/sinais-de-dengue-publico-infantil) (Metropoles.com)
 
 - [DF terá 16 pontos de vacinação contra dengue abertos no fim de semana](https://www.metropoles.com/distrito-federal/df-tera-16-pontos-de-vacinacao-contra-dengue-abertos-no-fim-de-semana) (Metropoles.com)
@@ -301,9 +343,13 @@ Source: [News API](https://newsapi.org/)
 
 - [PCDF apura morte de paciente com dengue em UPA como homicídio culposo](https://www.metropoles.com/distrito-federal/pcdf-apura-morte-de-paciente-com-dengue-em-upa-como-homicidio-culposo) (Metropoles.com)
 
+- [Repelente contra dengue: médica diz como usar em crianças](https://www.terra.com.br/vida-e-estilo/saude/repelente-contra-dengue-medica-diz-como-usar-em-criancas,81d3245a41acde43758b26701967542egdcb37cw.html) (Terra.com.br)
+
 - [Rio inicia testes de eficácia da vacina contra dengue em adultos](https://www.metropoles.com/brasil/rio-inicia-testes-de-eficacia-da-vacina-contra-dengue-em-adultos) (Metropoles.com)
 
 - [SP tem 15 mortes por dengue; Minas e DF também confirmam novos óbitos](https://jornaldebrasilia.com.br/noticias/brasil/sp-tem-15-mortes-por-dengue-minas-e-df-tambem-confirmam-novos-obitos/) (Jornaldebrasilia.com.br)
+
+- [‘Make dengue vaccine affordable’](https://www.thestar.com.my/news/nation/2024/02/17/make-dengue-vaccine-affordable) (The Star Online)
 
 - [Número de mortes por dengue em 2024 sobe para 15 em SP](https://www.metropoles.com/sao-paulo/numero-mortes-dengue-sobe-para-15) (Metropoles.com)
 
@@ -321,6 +367,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Épidémie de dengue : 3 questions sur cette nouvelle menace pour la France](https://www.lepoint.fr/sante/epidemie-de-dengue-3-questions-sur-cette-nouvelle-menace-pour-la-france-16-02-2024-2552604_40.php) (Le Point)
 
+- [Professores de SP cobram medidas de combate à dengue nas escolas](https://saude.ig.com.br/2024-02-16/professores-de-sp-cobram-medidas-de-combate-a-dengue-nas-escolas.html) (Ig.com.br)
+
+- [Dengue: casos graves podem causar hepatite e insuficiência renal](https://saude.ig.com.br/2024-02-16/dengue--casos-graves-podem-causar-hepatite-e-insuficiencia-renal.html) (Ig.com.br)
+
 - [10 plantas que afastam mosquito da dengue](https://olhardigital.com.br/2024/02/16/ciencia-e-espaco/10-plantas-que-afastam-mosquito-da-dengue/) (Olhardigital.com.br)
 
 - [Cambio climático llevará al desplazamiento de 3.1 millones de mexicanos](https://www.jornada.com.mx/2024/02/16/politica/014n1pol) (Jornada.com.mx)
@@ -337,9 +387,15 @@ Source: [News API](https://newsapi.org/)
 
 - [DF aplicou 15.675 doses de vacina contra dengue em uma semana](https://www.metropoles.com/colunas/grande-angular/df-aplicou-15-675-doses-de-vacina-contra-dengue-em-uma-semana) (Metropoles.com)
 
+- [Dengue pode causar diversas complicações oculares](https://www.terra.com.br/vida-e-estilo/saude/dengue-pode-causar-diversas-complicacoes-oculares,e4893f762a7cf4b02cce72bd12438396z412xj3x.html) (Terra.com.br)
+
 - [Alerta dengue: en cuántas provincias ya hay circulación del virus](https://www.lanacion.com.ar/sociedad/alerta-dengue-en-cuantas-provincias-ya-hay-circulacion-del-virus-nid15022024/) (La Nacion)
 
+- [Dengue pode causar diversas complicações oculares](https://www.terra.com.br/noticias/dengue-pode-causar-diversas-complicacoes-oculares,e4893f762a7cf4b02cce72bd12438396z412xj3x.html) (Terra.com.br)
+
 - [Sindmédico diz ser ilegal alocar 600 jovens para atuar contra dengue](https://www.metropoles.com/colunas/grande-angular/sindmedico-diz-ser-ilegal-alocar-600-jovens-para-atuar-contra-dengue) (Metropoles.com)
+
+- [Saúde anuncia investimento de R$1,5 bilhão para combate à dengue](https://saude.ig.com.br/2024-02-15/ministerio-da-saude-destinara-1-5-bilhao-para-combate-a-dengue.html) (Ig.com.br)
 
 - [Mehr Fälle von Dengue-Fieber: Italien führt Kontrollen ein](https://www.morgenpost.de/vermischtes/article241685736/Mehr-Faelle-von-Dengue-Fieber-Italien-fuehrt-Kontrollen-ein.html) (Berliner Morgenpost)
 
@@ -353,7 +409,13 @@ Source: [News API](https://newsapi.org/)
 
 - [El dengue, la amenaza de salud pública mundial que ya se ha hecho realidad en Europa](https://www.elconfidencialdigital.com/articulo/comunicados/dengue-amenaza-salud-publica-mundial-que-ha-hecho-realidad-europa/20240215165246724370.html) (Elconfidencialdigital.com)
 
+- [Qual a diferença entre a dengue comum e a hemorrágica? Os sintomas são os mesmos?](https://www.terra.com.br/vida-e-estilo/saude/qual-a-diferenca-entre-a-dengue-comum-e-a-hemorragica-os-sintomas-sao-os-mesmos,7e3cc59daecd42cfdffa788953183ab59iy2n3cs.html) (Terra.com.br)
+
+- [Mitos e verdades sobre dengue: o mosquito pica mais de dia? Ele tem cor diferente?](https://www.terra.com.br/vida-e-estilo/saude/mitos-e-verdades-sobre-dengue-o-mosquito-pica-mais-de-dia-ele-tem-cor-diferente,4103aae341dcda34a2f4f0eac7e7554137ga9nfz.html) (Terra.com.br)
+
 - [Número de mortes por dengue em SP em 2024 sobe para 11](https://www.metropoles.com/sao-paulo/numero-mortes-dengue-sp-sobe-para-11) (Metropoles.com)
+
+- [Repelente e protetor solar: saiba qual a ordem correta dos produtos](https://www.terra.com.br/vida-e-estilo/repelente-e-protetor-solar-saiba-qual-a-ordem-correta-dos-produtos,56215a3bd9a98c9503d28f72865a414burlqk19l.html) (Terra.com.br)
 
 - [Paraíba confirma primeira morte por dengue em 2024](https://www.metropoles.com/brasil/paraiba-confirma-primeira-morte-por-dengue-em-2024) (Metropoles.com)
 
