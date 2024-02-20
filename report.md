@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2024-02-19 19:05
-- **Most recent article:** 2024-02-18 18:30:11
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-02-20 07:06
+- **Most recent article:** 2024-02-19 05:16:02
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 176 | 10 | 796 |
+| dengue | 33 | 65 | 123 | 173 | 216 | 189 | 18 | 817 |
 | measles | 25 | 61 | 56 | 47 | 68 | 45 | 5 | 307 |
 | malaria | 51 | 26 | 86 | 25 | 35 | 19 | 2 | 244 |
-| zika | 8 | 8 | 7 | 8 | 13 | 6 | 0 | 50 |
-| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 1 | 47 |
+| zika | 8 | 8 | 7 | 8 | 13 | 6 | 1 | 51 |
+| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 2 | 48 |
 | rabies | 5 | 5 | 9 | 7 | 7 | 9 | 1 | 43 |
 | meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 1 | 38 |
 | mpox | 2 | 8 | 4 | 3 | 5 | 8 | 0 | 30 |
@@ -30,6 +30,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-8 (zika)
+
+- [Belo Horizonte tem Upa lotada neste domingo e pacientes ficam até 9 horas por atendimento](https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024) (R7.com)
 
 ## 24-8 (yersinia)
 
@@ -67,11 +71,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (dengue)
 
+- [Janeiro de 2024 foi o mês com mais casos de dengue na história do DF](https://www.metropoles.com/distrito-federal/janeiro-de-2024-foi-o-mes-com-mais-casos-de-dengue-na-historia-do-df) (Metropoles.com)
+
+- [Volta às aulas: pais querem repelente e vacina para dengue nas escolas](https://www.metropoles.com/distrito-federal/volta-as-aulas-pais-querem-repelente-e-vacina-para-dengue-nas-escolas) (Metropoles.com)
+
+- [Flamengo anuncia desfalques: Allan, com dengue, e Gérson, com infecção renal](https://esporte.ig.com.br/placar/2024-02-18/flamengo-anuncia-desfalques--allan--com-dengue--e-gerson--com-infeccao-renal.html) (Ig.com.br)
+
+- [Posso tomar a vacina contra dengue e receber reembolso do plano de saúde?](https://www.terra.com.br/vida-e-estilo/saude/posso-tomar-a-vacina-contra-dengue-e-receber-reembolso-do-plano-de-saude,124f39d8508f3e23e311a570e4d2e371szonypji.html) (Terra.com.br)
+
 - [Dengue no RJ: número de casos é 6 vezes maior do que o esperado](https://www.metropoles.com/brasil/dengue-no-rj-numero-de-casos-e-6-vezes-maior-do-que-o-esperado) (Metropoles.com)
+
+- [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://esporte.ig.com.br/parceiros/esporte-news-mundo/2024-02-18/allan--do-flamengo--e-diagnosticado-com-dengue-e-desfalca-a-equipe.html) (Ig.com.br)
 
 - [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://www.terra.com.br/esportes/flamengo/allan-do-flamengo-e-diagnosticado-com-dengue-e-desfalca-a-equipe,7644e233e4586eddc0cd56bcc78ade88iau4mpd9.html) (Terra.com.br)
 
 - [Volante Allan, do Flamengo, está com dengue](https://www.terra.com.br/esportes/flamengo/volante-allan-do-flamengo-esta-com-dengue,94c93d8757d43dc9e9eac4ad384889c0bc7fslg7.html) (Terra.com.br)
+
+- [Volante Allan, do Flamengo, está com dengue](https://esporte.ig.com.br/parceiros/jogada10/2024-02-18/volante-allan--do-flamengo--esta-com-dengue.html) (Ig.com.br)
+
+- [Allan é diagnosticado com dengue e desfalca o Flamengo por tempo indeterminado](  https://www.lance.com.br/flamengo/allan-e-diagnosticado-com-dengue-e-desfalca-o-flamengo-por-tempo-indeterminado.html ) (Lance.com.br)
 
 - [Dengue Rages Around The Globe. Where Are The Vaccines?](https://www.forbes.com/sites/stephenthomas/2024/02/18/dengue-rages-around-the-globe-where-are-the-vaccines/) (Forbes)
 
@@ -85,9 +103,13 @@ Source: [News API](https://newsapi.org/)
 
 - [About one-third of dengue cases in Klang involve youths](https://www.thestar.com.my/metro/metro-news/2024/02/18/about-one-third-of-dengue-cases-in-klang-involve-youths) (The Star Online)
 
+- [Este año suman 4 mil 593 casos de dengue; 2 mil 382 son graves](https://www.jornada.com.mx/2024/02/18/sociedad/027n1soc) (Jornada.com.mx)
+
 - [DF tem 2 mil pessoas internadas com dengue, sendo 171 delas na UTI](https://www.metropoles.com/distrito-federal/df-tem-2-mil-pessoas-internadas-com-dengue-sendo-171-delas-na-uti) (Metropoles.com)
 
 ## 24-8 (chikungunya)
+
+- [Belo Horizonte tem Upa lotada neste domingo e pacientes ficam até 9 horas por atendimento](https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024) (R7.com)
 
 - [Casos de chikungunya disparam 42% em meio à epidemia de dengue](https://noticias.r7.com/cidades/casos-de-chikungunya-disparam-epidemia-de-dengue-18022024) (R7.com)
 
@@ -335,6 +357,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (dengue)
 
+- [Dengue: prefeitura de Belo Horizonte decreta situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-prefeitura-de-belo-horizonte-decreta-situacao-de-emergencia,9daf3e300666bfb0403435f53b173d1cisrnk6k9.html) (Terra.com.br)
+
 - [Em SP, apenas três bairros registraram um único caso de dengue em 2024](https://www.metropoles.com/sao-paulo/em-sp-apenas-tres-bairros-registraram-um-unico-caso-de-dengue-em-2024) (Metropoles.com)
 
 - [Itaquera e bairro da zona oeste lideram casos de dengue em SP](https://www.metropoles.com/sao-paulo/itaquera-e-bairro-da-zona-oeste-lideram-casos-de-dengue-em-sp) (Metropoles.com)
@@ -349,6 +373,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Seis capitais iniciaram a vacinação contra a dengue em crianças](https://saude.ig.com.br/2024-02-17/seis-capitais-iniciaram-a-vacinacao-contra-a-dengue-em-criancas.html) (Ig.com.br)
 
+- [Campinas registra aumento de 30% em multas a donos de terrenos com mato alto e lixo acumulados](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/17/campinas-registra-aumento-de-30percent-em-multas-a-donos-de-terrenos-com-mato-alto-e-lixo-acumulados.ghtml) (Globo)
+
+- [Brasil chega a 94 mortes por dengue em 2024; casos prováveis passam de 555 mil](https://noticias.r7.com/saude/brasil-mortes-dengue-2024-17022024) (R7.com)
+
 - [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
 
 - [Alerta no Brasil: Dengue já causou 94 mortes em 2024](https://noticias.r7.com/brasil/revista-oeste/alerta-no-brasil-dengue-ja-causou-94-mortes-em-2024-17022024) (R7.com)
@@ -359,15 +387,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Brazil's Health Agents Hunt Mosquitos in Dengue Epidemic Fight](https://www.voanews.com/a/brazil-s-health-agents-hunt-mosquitos-in-dengue-epidemic-fight-/7491573.html) (VOA News)
 
+- [RJ inicia estudo para determinar eficácia da vacina da dengue em adultos](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/rj-inicia-estudo-para-determinar-eficacia-da-vacina-da-dengue-em-adultos-17022024) (R7.com)
+
 - [Explain Rise In Dengue Cases In Last 3 Months: Court To Delhi Civic Body](https://www.ndtv.com/india-news/explain-rise-in-dengue-cases-in-last-3-months-court-to-delhi-civic-body-5073115) (NDTV News)
 
 - [Seis capitais deram início à vacinação contra a dengue em crianças](https://valor.globo.com/brasil/noticia/2024/02/16/seis-capitais-deram-inicio-a-vacinacao-contra-a-dengue-em-criancas.ghtml) (Globo)
 
 - [Dengue sumó más de 1.000 enfermos en solo una semana](https://www.nacion.com/ciencia/salud/dengue-sumo-mas-de-1000-enfermos-en-solo-una/I242I6FE5JEFRJKPY3E2DHQKUY/story/) (Nacion.com)
 
+- [Dengue: em meio ao aumento de casos, cresce preços de repelentes e inseticidas na região de Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/16/dengue-em-meio-ao-aumento-de-casos-cresce-precos-de-repelentes-e-inseticidas-na-regiao-de-campinas.ghtml) (Globo)
+
+- [Dengues em crianças e adolescentes: saiba reconhecer os sinais](https://www.terra.com.br/vida-e-estilo/saude/dengues-em-criancas-e-adolescentes-saiba-reconhecer-os-sinais,577393b1d0d2e43321509691c86aae3fie0efbk8.html) (Terra.com.br)
+
 - [Saiba reconhecer os sinais de dengue em crianças e adolescentes](https://www.metropoles.com/saude/sinais-de-dengue-publico-infantil) (Metropoles.com)
 
 - [DF terá 16 pontos de vacinação contra dengue abertos no fim de semana](https://www.metropoles.com/distrito-federal/df-tera-16-pontos-de-vacinacao-contra-dengue-abertos-no-fim-de-semana) (Metropoles.com)
+
+- [Grandes redes de farmácias quase não têm estoque para 1ª dose de vacina contra dengue](https://valor.globo.com/brasil/noticia/2024/02/16/grandes-redes-de-farmacias-quase-nao-tem-estoque-para-1a-dose-de-vacina-contra-dengue.ghtml) (Globo)
+
+- [Preço de repelente varia até 84,2% em farmácias, mostra Procon-SP](https://valor.globo.com/empresas/noticia/2024/02/16/preco-de-repelente-varia-ate-842percent-em-farmacias-mostra-procon-sp.ghtml) (Globo)
 
 - [Una nueva versión del dengue está plagando la Florida: brotes ‘sin precedentes’](https://es.gizmodo.com/nueva-cepa-dengue-brotes-de-mosquitos-en-florida-1851265355) (Gizmodo.com)
 
@@ -379,9 +417,17 @@ Source: [News API](https://newsapi.org/)
 
 - [PCDF apura morte de paciente com dengue em UPA como homicídio culposo](https://www.metropoles.com/distrito-federal/pcdf-apura-morte-de-paciente-com-dengue-em-upa-como-homicidio-culposo) (Metropoles.com)
 
+- [Epidemia de dengue se alastra no Rio de Janeiro](https://www.terra.com.br/vida-e-estilo/saude/epidemia-de-dengue-se-alastra-no-rio-de-janeiro,39737eb9c90dc94b5500b861927cfa02ib8tlpx8.html) (Terra.com.br)
+
 - [Repelente contra dengue: médica diz como usar em crianças](https://www.terra.com.br/vida-e-estilo/saude/repelente-contra-dengue-medica-diz-como-usar-em-criancas,81d3245a41acde43758b26701967542egdcb37cw.html) (Terra.com.br)
 
 - [Rio inicia testes de eficácia da vacina contra dengue em adultos](https://www.metropoles.com/brasil/rio-inicia-testes-de-eficacia-da-vacina-contra-dengue-em-adultos) (Metropoles.com)
+
+- [Epidemia de dengue se alastra no Rio de Janeiro](https://www.terra.com.br/noticias/epidemia-de-dengue-se-alastra-no-rio-de-janeiro,39737eb9c90dc94b5500b861927cfa02ib8tlpx8.html) (Terra.com.br)
+
+- [5 erros que você comete ao se proteger da dengue](https://delas.ig.com.br/parceiros/selecoes/2024-02-16/5-erros-que-voce-comete-ao-se-proteger-da-dengue.html) (Ig.com.br)
+
+- [Dengue hemorrágica: como se manifesta a forma mais grave da doença?](https://brasil.perfil.com/saude/dengue-hemorragica-como-se-manifesta-a-forma-mais-grave-da-doenca.phtml) (Perfil.com)
 
 - [SP tem 15 mortes por dengue; Minas e DF também confirmam novos óbitos](https://jornaldebrasilia.com.br/noticias/brasil/sp-tem-15-mortes-por-dengue-minas-e-df-tambem-confirmam-novos-obitos/) (Jornaldebrasilia.com.br)
 
@@ -406,6 +452,8 @@ Source: [News API](https://newsapi.org/)
 - [Professores de SP cobram medidas de combate à dengue nas escolas](https://saude.ig.com.br/2024-02-16/professores-de-sp-cobram-medidas-de-combate-a-dengue-nas-escolas.html) (Ig.com.br)
 
 - [Dengue: casos graves podem causar hepatite e insuficiência renal](https://saude.ig.com.br/2024-02-16/dengue--casos-graves-podem-causar-hepatite-e-insuficiencia-renal.html) (Ig.com.br)
+
+- [Dengue: com 68 novos casos por dia, Campinas supera patamar que definiu epidemia em 2023](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/16/dengue-com-68-novos-casos-por-dia-campinas-supera-patamar-que-definiu-epidemia-em-2023.ghtml) (Globo)
 
 - [10 plantas que afastam mosquito da dengue](https://olhardigital.com.br/2024/02/16/ciencia-e-espaco/10-plantas-que-afastam-mosquito-da-dengue/) (Olhardigital.com.br)
 

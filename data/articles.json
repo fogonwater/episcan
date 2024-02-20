@@ -1,8 +1,99 @@
 {
-  "last_updated": "2024-02-19 19:05",
-  "count_articles_total": 1559,
-  "count_articles_new": 15,
+  "last_updated": "2024-02-20 07:06",
+  "count_articles_total": 1580,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 5667,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jonatas Martins",
+      "title": "Janeiro de 2024 foi o m\u00eas com mais casos de dengue na hist\u00f3ria do DF",
+      "description": "Com 52.059 casos prov\u00e1veis de dengue, janeiro de 2024 foi o m\u00eas em que mais pessoas foram infectadas pela doen\u00e7a na hist\u00f3ria do DF",
+      "url": "https://www.metropoles.com/distrito-federal/janeiro-de-2024-foi-o-mes-com-mais-casos-de-dengue-na-historia-do-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06184115/Hospital-de-campanha-da-Forc%CC%A7a-Ae%CC%81rea-Brasileira-FAB-na-Ceila%CC%82ndia-tem-movimento-intenso-de-pacientes-buscando-atendimento-contra-a-dengue-Metro%CC%81poles-6.jpg",
+      "publishedAt": "2024-02-19 05:16:02",
+      "content": "Com 52.059 casos prov\u00e1veis de dengue registrados, janeiro de 2024 foi o m\u00eas em que mais pessoas foram infectadas pela doen\u00e7a na hist\u00f3ria do Distrito Federal. O levantamento realizado pelo Metr\u00f3poles \u2026 [+5929 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.046708",
+      "internal_id": "a07008604dddf96da5d77632b0e25c4974e35f341ee42edcbcfdf0aa19c31c41",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5668,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Volta \u00e0s aulas: pais querem repelente e vacina para dengue nas escolas",
+      "description": "Nesta segunda (19/02), 470 mil alunos voltam \u00e0s aulas nas escolas p\u00fablicas do Distrito Federal. Rede tem 835 escolas e 34 mil professores",
+      "url": "https://www.metropoles.com/distrito-federal/volta-as-aulas-pais-querem-repelente-e-vacina-para-dengue-nas-escolas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/16214137/volta-as-aulas-enfrentam-dengue-no-DF-9.jpeg",
+      "publishedAt": "2024-02-19 05:06:32",
+      "content": "As aulas para 470 mil estudantes das escolas p\u00fablicas do Distrito Federal voltam nesta segunda-feira (19/02). Al\u00e9m da preocupa\u00e7\u00e3o com provas e trabalhos, os alunos retornam atentos \u00e0 epidemia de deng\u2026 [+5400 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.114877",
+      "internal_id": "4b6cfebb978e9e863357c7374b0721be8be3da3e9a02dd4239d07b0554f1abdf",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5685,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Placar, Placar",
+      "title": "Flamengo anuncia desfalques: Allan, com dengue, e G\u00e9rson, com infec\u00e7\u00e3o renal",
+      "description": "Meio-campistas foram diagnosticados e n\u00e3o enfrentar\u00e3o o Boavista, na pr\u00f3xima ter\u00e7a-feira, em jogo que pode valer a volta \u00e0 lideran\u00e7a do Carioca",
+      "url": "https://esporte.ig.com.br/placar/2024-02-18/flamengo-anuncia-desfalques--allan--com-dengue--e-gerson--com-infeccao-renal.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/d4/s1/et/d4s1etfx0w2wrsy68uc7sjhin.jpg",
+      "publishedAt": "2024-02-18 20:25:26",
+      "content": "O Flamengo anunciou neste domingo, 18, dois problemas envolvendo meio-campistas do elenco: Allan foi diagnosticado com dengue, enquanto Gerson foi internado por um problema renal. O atleta Allan apr\u2026 [+1245 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.270346",
+      "internal_id": "8eaf0f53a52028a2b4d92f1034a42924479ec28c2e8b0638c20343c2a3a16aa5",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 5666,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Sou Mais Bem Estar",
+      "title": "Posso tomar a vacina contra dengue e receber reembolso do plano de sa\u00fade?",
+      "description": "Benefici\u00e1rios devem consultar a cobertura contratada com o plano de sa\u00fade, informa consultoria especializada",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/posso-tomar-a-vacina-contra-dengue-e-receber-reembolso-do-plano-de-saude,124f39d8508f3e23e311a570e4d2e371szonypji.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/18/683910148-posso-tomar-a-vacina-contra-dengue-e-receber-reembolso-do-plano-de-saude-300x169.png",
+      "publishedAt": "2024-02-18 19:40:18",
+      "content": "Acaba de chegar ao estado de S\u00e3o Paulo a primeira remessa de doses da vacina Qdenga, contra a Dengue. Enquanto a distribui\u00e7\u00e3o das 80 mil doses iniciais do imunizante ficar\u00e1 restrita a crian\u00e7as de 10 \u2026 [+1754 chars]",
+      "retrievedAt": "2024-02-20 07:06:13.995429",
+      "internal_id": "83e6faa916b97ec880a9c242b8ab724857d4c7fd6229fcb8efe9c4dcdc0ac393",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 5686,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Rosildo Mendes da Record Tv",
+      "title": "Belo Horizonte tem Upa lotada neste domingo e pacientes ficam at\u00e9 9 horas por atendimento",
+      "description": "Por conta do crescimento do n\u00famero de casos de dengue, chikungunya e zika na cidade, a Prefeitura de Belo Horizonte decretou situa\u00e7\u00e3o de emerg\u00eancia",
+      "url": "https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024",
+      "urlToImage": "https://img.r7.com/images/upa-lotada-18022024192759630",
+      "publishedAt": "2024-02-18 19:33:19",
+      "content": "Os pacientes que buscam atendimento m\u00e9dico na Unidade de Pronto-Atendimento Norte (UPA Norte), que fica no bairro Aar\u00e3o Reis, na regi\u00e3o Norte de Belo Horizonte, precisam de muita paci\u00eancia. A unida\u2026 [+2750 chars]",
+      "retrievedAt": "2024-02-20 07:06:15.455098",
+      "internal_id": "2f872d39814c3826d17b9c3c29b60d9eabaf9727b23214e01dfc5f617801e0a9",
+      "publishedAtLabel": "Feb 18"
+    },
     {
       "id": 5664,
       "query": [
@@ -58,6 +149,24 @@
       "publishedAtLabel": "Feb 18"
     },
     {
+      "id": 5679,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Esporte News Mundo, Esporte News Mundo",
+      "title": "Allan, do Flamengo, \u00e9 diagnosticado com dengue e desfalca a equipe",
+      "description": "Volante Allan foi diagnosticado com dengue e desfalca o Flamengo por tempo indeterminado",
+      "url": "https://esporte.ig.com.br/parceiros/esporte-news-mundo/2024-02-18/allan--do-flamengo--e-diagnosticado-com-dengue-e-desfalca-a-equipe.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/cr/tu/m1/crtum1xuqne696pmbgsjk11hb.jpg",
+      "publishedAt": "2024-02-18 16:05:31",
+      "content": "O Flamengo informou, atrav\u00e9s do seu twitter, que o volante Allan se apresentou na sexta-feira (16) com febre e mialgia. O jogador passou por exames e, na manh\u00e3 deste domingo (18), foi confirmado q\u2026 [+1011 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.239985",
+      "internal_id": "0965234305fe760d55ab86e6c4575b03b97d030fbd39dcfc58df3ae73961599b",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
       "id": 5661,
       "query": [
         "dengue"
@@ -109,6 +218,42 @@
       "content": "O Flamengo anunciou neste domingo (18/2) que o volante Allan est\u00e1 com dengue. Assim, ele ser\u00e1 desfalque no jogo contra o Boavista, na ter\u00e7a-feira, pela nona rodada do Campeonato Carioca. \"O atleta A\u2026 [+1979 chars]",
       "retrievedAt": "2024-02-19 19:05:34.169395",
       "internal_id": "bd2b73906d31e021f7b99790ba6b454e28c329b1b853d68de473263217784f5f",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 5680,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Jogada10, Jogada10",
+      "title": "Volante Allan, do Flamengo, est\u00e1 com dengue",
+      "description": "Flamengo anunciou neste domingo que Allan ficar\u00e1 um tempo afastado de campo porque exame apontou dengue. Rio vive epidemia da doen\u00e7a",
+      "url": "https://esporte.ig.com.br/parceiros/jogada10/2024-02-18/volante-allan--do-flamengo--esta-com-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/55/29/y8/5529y8s3e5kx9t12jdkn5qmtw.jpg",
+      "publishedAt": "2024-02-18 15:15:07",
+      "content": "O Flamengo anunciou neste domingo (18/2) que o volante Allan est\u00e1 com dengue. Assim, ele ser\u00e1 desfalque no jogo contra o Boavista, na ter\u00e7a-feira, pela nona rodada do Campeonato Carioca. O atleta Al\u2026 [+1868 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.245000",
+      "internal_id": "47e408bb9b7d349b59d72fc20730d876c0ec71ddafb4757d794470ad73837726",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 5678,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lance.com.br",
+      "author": "LANCE!",
+      "title": "Allan \u00e9 diagnosticado com dengue e desfalca o Flamengo por tempo indeterminado",
+      "description": "Allan novamente se tornou baixa no Flamengo. O Rubro-Negro informou que o meia apresentou quadro ...",
+      "url": "  https://www.lance.com.br/flamengo/allan-e-diagnosticado-com-dengue-e-desfalca-o-flamengo-por-tempo-indeterminado.html ",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/18/1967747027-allanflamengotreino-scaled-aspect-ratio-512-320.jpg",
+      "publishedAt": "2024-02-18 14:48:30",
+      "content": "Allan novamente se tornou baixa no Flamengo. O Rubro-Negro informou que o meia apresentou quadro de febre e mialgia e, ap\u00f3s exames na sexta-feira (16), o atleta teve o diagn\u00f3stico de dengue confirmad\u2026 [+792 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.234759",
+      "internal_id": "b2e374ea367055cb3ed1d9d9970f67b04ab123bdf6465984e475e6fae2f2bba8",
       "publishedAtLabel": "Feb 18"
     },
     {
@@ -253,6 +398,24 @@
       "content": "KLANG: About one-third of the number of dengue cases here involve youths, says the Royal Klang City Council (MBDK). MBDK health department director Azmi Muji said from January to Feb 11 this year, t\u2026 [+3031 chars]",
       "retrievedAt": "2024-02-19 19:05:34.164198",
       "internal_id": "c6983738a4599a3af92c8dba28a4d580879fd5f4c913846ee4a72e68a92962a1",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 5669,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Este a\u00f1o suman 4 mil 593 casos de dengue; 2 mil 382 son graves",
+      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 4 mil 593 casos de dengue, de los cuales 2 mil 382 son casos clasificados con signos de alarma y dengue grave, es decir, 48 por ciento de \u2026",
+      "url": "https://www.jornada.com.mx/2024/02/18/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-02-18 08:58:24",
+      "content": "Peri\u00f3dico La JornadaDomingo 18 de febrero de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 4 mil 593 casos de d\u2026 [+2433 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.146512",
+      "internal_id": "4e213462df99673f4892bde6abb1dcae6d6b2aaf2e38dbadc7e68f8edbfcd6b2",
       "publishedAtLabel": "Feb 18"
     },
     {
@@ -415,6 +578,24 @@
       "content": "La Direcci\u00f3n General de Epidemiolog\u00eda de la Secretar\u00eda de Salud emiti\u00f3 un aviso preventivo de viaje por sarampi\u00f3n a nivel mundial. Las alarmas comenzaron a sonar despu\u00e9s de que se detectara un increm\u2026 [+2951 chars]",
       "retrievedAt": "2024-02-19 07:06:55.551058",
       "internal_id": "5f71b8b7efd14a4e73a8783c0faa39cfba88353283e988f7856ce8b1c5d53ddc",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5671,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: prefeitura de Belo Horizonte decreta situa\u00e7\u00e3o de emerg\u00eancia",
+      "description": "O cen\u00e1rio epidemiol\u00f3gico e assistencial levou a prefeitura de Belo Horizonte a decretar situa\u00e7\u00e3o ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-prefeitura-de-belo-horizonte-decreta-situacao-de-emergencia,9daf3e300666bfb0403435f53b173d1cisrnk6k9.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-17 21:56:27",
+      "content": "O cen\u00e1rio epidemiol\u00f3gico e assistencial levou a prefeitura de Belo Horizonte a decretar situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade p\u00fablica. A medida \u00e9 resultado da epidemia de dengue e outras arboviroses na cap\u2026 [+3535 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.188038",
+      "internal_id": "5fae622f702d61bd682ae2e7d56e1bf7e5efffcd51068907493a47dda98915c1",
       "publishedAtLabel": "Feb 17"
     },
     {
@@ -652,6 +833,24 @@
       "publishedAtLabel": "Feb 17"
     },
     {
+      "id": 5681,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas registra aumento de 30% em multas a donos de terrenos com mato alto e lixo acumulados",
+      "description": "Em alguns casos, moradores reclamam que sujeira pode provocar aumento de criadouros do mosquito transmissor da dengue e atrair animais pe\u00e7onhentos. Multas por abandono de terreno sobem 30% em Campinas Campinas (SP) registrou aumento de 30,4% nas multas para p\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/17/campinas-registra-aumento-de-30percent-em-multas-a-donos-de-terrenos-com-mato-alto-e-lixo-acumulados.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/IOAeoFeu6ATQcrLL39lKGn0koWM=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/12364036.jpg",
+      "publishedAt": "2024-02-17 15:54:33",
+      "content": "Com o per\u00edodo de chuvas e o avan\u00e7o dos casos de dengue, moradores demonstram preocupa\u00e7\u00e3o com a sujeira e mato alto que podem esconder criadouros do mosquito transmissor, al\u00e9m de atrair animais pe\u00e7onh\u2026 [+1681 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.249793",
+      "internal_id": "ef2957b1185670bce76e351d61ff3d2e31dbe72195b9ed3cf118485fa47a773f",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
       "id": 5623,
       "query": [
         "malaria"
@@ -667,6 +866,24 @@
       "content": "P\u00e5 den p\u00e5g\u00e5ende vetenskapskonferensen AAAS i Denver, USA, hyllas de nya vaccinerna mot malaria som ett av de viktigaste vetenskapliga genombrotten p\u00e5 senare tid. Studier har visat att de tv\u00e5 vacciner\u2026 [+1980 chars]",
       "retrievedAt": "2024-02-18 19:05:30.067831",
       "internal_id": "33fc8420cb2fe4bbfe9376acdf40adff127b5e63a5dd8c1d54185737a9670a27",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 5684,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7, em Bras\u00edlia",
+      "title": "Brasil chega a 94 mortes por dengue em 2024; casos prov\u00e1veis passam de 555 mil",
+      "description": "Por causa da crescente no n\u00fameros da doen\u00e7a, Belo Horizonte decretou situa\u00e7\u00e3o de emerg\u00eancia",
+      "url": "https://noticias.r7.com/saude/brasil-mortes-dengue-2024-17022024",
+      "urlToImage": "https://img.r7.com/images/mosquito-da-dengue-14022024162156522?crop=640x360+73+54",
+      "publishedAt": "2024-02-17 15:02:00",
+      "content": "Mais 381 morte s\u00e3o investigadas no Brasil Rodrigo M\u00e9xas e Raquel Portugal/ Fiocruz Imagens \u2014 Arquivo O Brasil registrou 94 mortes por dengue em 2024, segundo o Minist\u00e9rio da Sa\u00fade. Os dados\u2026 [+2605 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.265150",
+      "internal_id": "f2882843ac725f0bf63e3a995bb4feb50eb6fae656876b80c30fc36dd5952241",
       "publishedAtLabel": "Feb 17"
     },
     {
@@ -888,6 +1105,24 @@
       "publishedAtLabel": "Feb 17"
     },
     {
+      "id": 5672,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "RJ inicia estudo para determinar efic\u00e1cia da vacina da dengue em adultos",
+      "description": "O Rio de Janeiro iniciou um estudo para determinar a efic\u00e1cia da vacina da dengue em adultos. 20 mil volunt\u00e1rios v\u00e3o receber o imunizante e se...",
+      "url": "https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/rj-inicia-estudo-para-determinar-eficacia-da-vacina-da-dengue-em-adultos-17022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/17/65d02cc2ca9084f0a70012a7/33a6816057e7464f846b476df0af256b__2528845_EPP_1702_BOLETIM_VACINA_DENGUE_thumb_thumb.jpg",
+      "publishedAt": "2024-02-17 01:00:50",
+      "content": "O Rio de Janeiro iniciou um estudo para determinar a efic\u00e1cia da vacina da dengue em adultos. 20 mil volunt\u00e1rios v\u00e3o receber o imunizante e ser\u00e3o acompanhados por cientistas durante dois anos. A a\u00e7\u00e3o\u2026 [+140 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.196167",
+      "internal_id": "29a820b46e4f30d38d96016e406ef1164dbba097d986c972bed63aec9adfbfdd",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
       "id": 5606,
       "query": [
         "dengue"
@@ -942,6 +1177,42 @@
       "publishedAtLabel": "Feb 16"
     },
     {
+      "id": 5675,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: em meio ao aumento de casos, cresce pre\u00e7os de repelentes e inseticidas na regi\u00e3o de Campinas",
+      "description": "Vendas tamb\u00e9m registraram crescimento, segundo a Apas. Alta foi maior que a m\u00e9dia do estado. Dengue: Cresce venda pre\u00e7os de repelentes e inseticidas na regi\u00e3o de Campinas Em meio ao aumento de casos de dengue em Campinas (SP), a Associa\u00e7\u00e3o Paulista de Superme\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/16/dengue-em-meio-ao-aumento-de-casos-cresce-precos-de-repelentes-e-inseticidas-na-regiao-de-campinas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/52nV3G_lq55pxWUUvW429qgoAIo=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/12362977.jpg",
+      "publishedAt": "2024-02-16 22:40:21",
+      "content": "O levantamento considerou as vendas de novembro e dezembro de 2023 e janeiro de 2024, em compara\u00e7\u00e3o com os mesmos meses do ano anterior. Veja n\u00fameros: Novembro de 2023 em compara\u00e7\u00e3o a novembro de 20\u2026 [+3915 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.212474",
+      "internal_id": "d2b59533da6b31851e05aefa39f4d25ddbaea2e4d1507c48d52e2dc1567b79f8",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5676,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Sa\u00fade em Dia",
+      "title": "Dengues em crian\u00e7as e adolescentes: saiba reconhecer os sinais",
+      "description": "Crian\u00e7as e adolescentes constituem o grupo com maior complica\u00e7\u00f5es da dengue, por isso ser\u00e3o os primeiros a serem vacinados pelo SUS",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengues-em-criancas-e-adolescentes-saiba-reconhecer-os-sinais,577393b1d0d2e43321509691c86aae3fie0efbk8.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/16/749557131-dengue-criancas.jpg",
+      "publishedAt": "2024-02-16 22:01:29",
+      "content": "O Brasil est\u00e1 enfrentando um surto de dengue, e o n\u00famero de casos da doen\u00e7a praticamente triplicou em rela\u00e7\u00e3o ao mesmo per\u00edodo no ano passado. Segundo o Minist\u00e9rio da Sa\u00fade, o pa\u00eds registrou um aumen\u2026 [+1977 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.224784",
+      "internal_id": "1f18047b16da443edde4dab5decb1335e57edb150317fe3e4731967e1aa01916",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
       "id": 5604,
       "query": [
         "dengue"
@@ -978,6 +1249,24 @@
       "publishedAtLabel": "Feb 16"
     },
     {
+      "id": 5683,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Grandes redes de farm\u00e1cias quase n\u00e3o t\u00eam estoque para 1\u00aa dose de vacina contra dengue",
+      "description": "Desabastecimento ocorre porque a fabricante est\u00e1 priorizando o fornecimento para o Minist\u00e9rio da Sa\u00fade; esquema vacinal \u00e9 composto de 3 doses com intervalo de 3 meses",
+      "url": "https://valor.globo.com/brasil/noticia/2024/02/16/grandes-redes-de-farmacias-quase-nao-tem-estoque-para-1a-dose-de-vacina-contra-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/TFUcG3BEqqNxmL-kxr_pBmDCBLE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/A/q/MCF62aR16vEWAloxviAw/caixa-da-vacina-contra-a-dengue-do-laboratorio-takeda-qdenda-marcia-almeida-valor.jpeg",
+      "publishedAt": "2024-02-16 21:15:01",
+      "content": "Grandes redes de farm\u00e1cias quase n\u00e3o t\u00eam estoque para 1\u00aa dose de vacina contra a dengue em S\u00e3o Paulo. O desabastecimento ocorre porque a fabricante est\u00e1 priorizando o fornecimento para o Minist\u00e9rio d\u2026 [+2256 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.259683",
+      "internal_id": "eb369bf9ef426124c77c8f06706ff072732b1c875b99abb0dedf9c43ae8a7eab",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
       "id": 5594,
       "query": [
         "measles"
@@ -993,6 +1282,24 @@
       "content": "Two children in Minnesota have tested positive for measles following international travel, according to the Minnesota Department of Health. An unvaccinated 16-month-old contracted measles, and the c\u2026 [+849 chars]",
       "retrievedAt": "2024-02-18 07:06:04.001142",
       "internal_id": "c6e0d47e0d6a8676f0f64a99fb5b6c95da4be6772f787b62834297e21f16a1c4",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5682,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Pre\u00e7o de repelente varia at\u00e9 84,2% em farm\u00e1cias, mostra Procon-SP",
+      "description": "\u201cInfelizmente \u00e9 o puro reflexo desse retrato de crise com o aumento de casos da dengue no pa\u00eds\u201d, afirma Luiz Orsatti Filho, diretor executivo do Procon-SP, ao Valor",
+      "url": "https://valor.globo.com/empresas/noticia/2024/02/16/preco-de-repelente-varia-ate-842percent-em-farmacias-mostra-procon-sp.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/btqVKy48y8Naaq88tUkRRVXtYwA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/w/E/iecHj0TbAR4DJw7DD8fg/foto14cul-102-mosqui-d22.jpg",
+      "publishedAt": "2024-02-16 21:05:51",
+      "content": "O salto dos casos de dengue no pa\u00eds se reflete nos pre\u00e7os dos repelentes contra insetos. De dezembro do ano passado at\u00e9 15 de fevereiro, o valor m\u00e9dio dos produtos vendidos em farm\u00e1cias subiu 15,78%,\u2026 [+2195 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.254726",
+      "internal_id": "33ed93a8c34ceda20762d8fad6bc3c586d8981b375387c48c7b3fe9d311b6bec",
       "publishedAtLabel": "Feb 16"
     },
     {
@@ -1194,6 +1501,24 @@
       "publishedAtLabel": "Feb 16"
     },
     {
+      "id": 5674,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "DINO",
+      "title": "Epidemia de dengue se alastra no Rio de Janeiro",
+      "description": "O estado declara situa\u00e7\u00e3o de emerg\u00eancia na sa\u00fade p\u00fablica ap\u00f3s come\u00e7ar o ano com aumento de 587% em casos prov\u00e1veis da doen\u00e7a. Calend\u00e1rio de vacina\u00e7\u00e3o deve ser decidido em fevereiro",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/epidemia-de-dengue-se-alastra-no-rio-de-janeiro,39737eb9c90dc94b5500b861927cfa02ib8tlpx8.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/16/205914733-6e3484f3-e1ac-42e4-9362-547e5a93dcba.jpg",
+      "publishedAt": "2024-02-16 18:53:05",
+      "content": "O estado do Rio de Janeiro registrou, nas tr\u00eas primeiras semanas de 2024, 9.963 notifica\u00e7\u00f5es de poss\u00edveis casos de dengue, o que representa um aumento de 587% em rela\u00e7\u00e3o ao mesmo per\u00edodo do ano passa\u2026 [+3182 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.206331",
+      "internal_id": "9506cae184398b2699a23180c7cc48928c3c30c3e0f2aaf70b2fce13f0807929",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
       "id": 5644,
       "query": [
         "dengue"
@@ -1230,10 +1555,29 @@
       "publishedAtLabel": "Feb 16"
     },
     {
+      "id": 5670,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "DINO",
+      "title": "Epidemia de dengue se alastra no Rio de Janeiro",
+      "description": "O estado declara situa\u00e7\u00e3o de emerg\u00eancia na sa\u00fade p\u00fablica ap\u00f3s come\u00e7ar o ano com aumento de 587% em casos prov\u00e1veis da doen\u00e7a. Calend\u00e1rio de vacina\u00e7\u00e3o deve ser decidido em fevereiro",
+      "url": "https://www.terra.com.br/noticias/epidemia-de-dengue-se-alastra-no-rio-de-janeiro,39737eb9c90dc94b5500b861927cfa02ib8tlpx8.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/16/205914733-6e3484f3-e1ac-42e4-9362-547e5a93dcba.jpg",
+      "publishedAt": "2024-02-16 18:21:56",
+      "content": "O estado do Rio de Janeiro registrou, nas tr\u00eas primeiras semanas de 2024, 9.963 notifica\u00e7\u00f5es de poss\u00edveis casos de dengue, o que representa um aumento de 587% em rela\u00e7\u00e3o ao mesmo per\u00edodo do ano passa\u2026 [+3182 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.161135",
+      "internal_id": "eacdcf0bf37517240857c2741f1f50c4f02fc2660cc8a06948d6669e633dbfba",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
       "id": 5587,
       "query": [
         "zika",
-        "chikungunya"
+        "chikungunya",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Ig.com.br",
@@ -1246,6 +1590,24 @@
       "content": "Com a chegada do ver\u00e3o e o aumento das chuvas, o cen\u00e1rio est\u00e1 prop\u00edcio para a prolifera\u00e7\u00e3o do temido mosquito Aedes Aegypti , transmissor de doen\u00e7as como a dengue, zika e chikungunya. \u00c9 um momento i\u2026 [+2308 chars]",
       "retrievedAt": "2024-02-17 19:05:56.931914",
       "internal_id": "7b3db0c696bf51e4606f53333a58ce6c241bd38761ad4617d32655c85224b6de",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5673,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Dengue hemorr\u00e1gica: como se manifesta a forma mais grave da doen\u00e7a?",
+      "description": "Dados da OMS (Organiza\u00e7\u00e3o Mundial da Sa\u00fade) mostram que o Brasil \u00e9 o segundo pa\u00eds da Am\u00e9rica ...",
+      "url": "https://brasil.perfil.com/saude/dengue-hemorragica-como-se-manifesta-a-forma-mais-grave-da-doenca.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/16/185602238-abre-perfil-brasil-2024-02-16t134345964.jpg",
+      "publishedAt": "2024-02-16 16:58:08",
+      "content": "Dados da OMS (Organiza\u00e7\u00e3o Mundial da Sa\u00fade) mostram que o Brasil \u00e9 o segundo pa\u00eds da Am\u00e9rica Latina com o maior n\u00famero de casos de dengue hemorr\u00e1gica. Esta \u00e9 a forma mais grave da doen\u00e7a transmitida \u2026 [+1787 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.201423",
+      "internal_id": "1f80b4553d67b329342119ef821301f710f965524c6b2384e1b832d88d22e508",
       "publishedAtLabel": "Feb 16"
     },
     {
@@ -1625,6 +1987,24 @@
       "content": "Happy Friday, friends, and cheers to the weekend! Our African visas have arrived and the prescription for malaria pills have been filled\u2026 tomorrow we leave for Kenya!! I still can\u2019t believe this is r\u2026 [+13482 chars]",
       "retrievedAt": "2024-02-17 19:05:56.410821",
       "internal_id": "f85e83296987525e785eb7e10ed977220af536bee0ca7921c02ca3ffb477a4e9",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 5677,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: com 68 novos casos por dia, Campinas supera patamar que definiu epidemia em 2023",
+      "description": "Na regi\u00e3o de Sousas, confirma\u00e7\u00f5es da doen\u00e7a cresceram 82% em oito dias. Veja bairros com mais casos. Profissional realiza dedetiza\u00e7\u00e3o para combater mosquito da dengue em Campinas Reprodu\u00e7\u00e3o/EPTV Com m\u00e9dia de 68 novos casos de dengue por dia em 2024, Campinas \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/16/dengue-com-68-novos-casos-por-dia-campinas-supera-patamar-que-definiu-epidemia-em-2023.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/FBYsMhTxF0QCFmO5MsQPiSDjFh4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/p/d/ZdGwmrSke727klP0UOIA/screenshot-4.png",
+      "publishedAt": "2024-02-16 10:20:39",
+      "content": "Dias para atingir 2.798 casos: em 2023: 101 diasDias para atingir 2.857 casos em 2024: 41 dias Em nota ao g1, a Secretaria de Sa\u00fade de Campinas informou que desde dezembro\u2026 [+5943 chars]",
+      "retrievedAt": "2024-02-20 07:06:14.230260",
+      "internal_id": "d660d50fa8098773d0f6b6e14d1c913c9a70b29f270b2306f32a2423dc570591",
       "publishedAtLabel": "Feb 16"
     },
     {
