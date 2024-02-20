@@ -1,8 +1,260 @@
 {
-  "last_updated": "2024-02-20 07:06",
-  "count_articles_total": 1580,
-  "count_articles_new": 21,
+  "last_updated": "2024-02-20 19:05",
+  "count_articles_total": 1594,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 5696,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Sangue doce: por que algumas pessoas s\u00e3o mais atacadas por mosquitos",
+      "description": "Em meio \u00e0 alta circula\u00e7\u00e3o do mosquito Aedes aegypti, transmissor da dengue, algumas pessoas que sofrem mais com picadas do que outras",
+      "url": "https://www.metropoles.com/saude/quais-pessoas-mais-picadas-por-mosquitos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/05124652/Foto-mosquito-da-dengue-2-1.jpg",
+      "publishedAt": "2024-02-19 18:50:36",
+      "content": "Picadas de pernilongo n\u00e3o s\u00e3o democr\u00e1ticas: algumas pessoas percebem a presen\u00e7a dos mosquitos e acabam se co\u00e7ando antes dos outros. Existem algumas explica\u00e7\u00f5es para esta prefer\u00eancia, e a ci\u00eancia tem \u2026 [+5162 chars]",
+      "retrievedAt": "2024-02-20 19:05:21.745287",
+      "internal_id": "d1dd8ee9e8fba9ad567485b2bdac1c5273f02d99587c7377e27e8352c39fe950",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5694,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Brasil ultrapassa 650 mil casos de dengue",
+      "description": "Os casos de dengue no pa\u00eds j\u00e1 chegam a 653.656, conforme a atualiza\u00e7\u00e3o desta segunda-feira (19) do painel de monitoramento de arboviroses...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/brasil-ultrapassa-650-mil-casos-de-dengue/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/01/26172741/Denue.webp",
+      "publishedAt": "2024-02-19 18:31:13",
+      "content": "Os casos de dengue no pa\u00eds j\u00e1 chegam a 653.656, conforme a atualiza\u00e7\u00e3o desta segunda-feira (19) do painel de monitoramento de arboviroses do Minist\u00e9rio da Sa\u00fade. S\u00e3o 321,9 casos por grupo de 100 mil \u2026 [+1695 chars]",
+      "retrievedAt": "2024-02-20 19:05:21.682788",
+      "internal_id": "dd05cccadb5854d64ff981f071aa778b61a9c895c1ed8a01c6120505f877658c",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5700,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Salud concentra ataque contra el dengue en La Carpio, Pavas, Santa Ana y Montecillos de Alajuela",
+      "description": "Comunidades ser\u00e1n las primers en recibir equipo de 25 funcionarios del programa de vectores del Ministerio de Salud para hacer fumigaciones y destruir criaderos del mosquito transmisor del dengue",
+      "url": "https://www.nacion.com/ciencia/salud/salud-concentra-ataque-contra-el-dengue-en-la/Q7IXKR2LWJEVZOY5OFMGHV6IQA/story/",
+      "urlToImage": "https://www.nacion.com/resizer/irr5yr6sYlzGP8vWtIq4zp3T_h8=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/UHW43MBSHBE7JA4QBBUSW45F4I.jpg",
+      "publishedAt": "2024-02-19 17:42:10",
+      "content": "Veinticinco funcionarios del Programa de Control de Vectores del Ministerio de Salud comenzaron este 19 de febrero con la fumigaci\u00f3n en las zonas con mayor incidencia de dengue.Se espera cubrir 20.50\u2026 [+3238 chars]",
+      "retrievedAt": "2024-02-20 19:05:21.822993",
+      "internal_id": "89f8670609680c4615f4b9bec27983f12939cf4bdc9696fd257bd43e0ad6b5d0",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5687,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Florida health officials investigate measles outbreak at school (Taylor Delandro/The Hill)",
+      "description": "Taylor Delandro / The Hill: Florida health officials investigate measles outbreak at school \u2014 Four measles cases were confirmed at a South Florida elementary school \u2014 The first case was reported Thursday; three others were confirmed Saturday \u2014 Officials ad\u2026",
+      "url": "https://www.memeorandum.com/240219/p24",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/02/GettyImages-1196157315-e1706646492255.jpg?w=1280",
+      "publishedAt": "2024-02-19 17:05:03",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-02-20 19:05:20.935422",
+      "internal_id": "55e9e5b25809e8f8307719a9bf425cbc4357e30dff3de1b6b508217a1c7292f4",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5688,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Lifestyle Desk",
+      "title": "2 children die of Measles, schools closed as infections grow in MP: Know about the disease",
+      "description": "Two children have died of measles in Madhya Pradesh, leading to the closure of schools in eight villages. Measles is a highly contagious viral infection that spreads through respiratory droplets. Symptoms include fever, rash, cough, conjunctivitis, sore throa\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/2-children-die-of-measles-schools-closed-as-infections-grow-in-mp-know-about-the-disease/articleshow/107830554.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107830546,width-1070,height-580,imgsize-1099140,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-19 16:49:16",
+      "content": "Key symptoms of lung cancer you must pay attention to",
+      "retrievedAt": "2024-02-20 19:05:20.963013",
+      "internal_id": "0b7d39fae9b00c913b773a4bc117dd9c1dfc1a4dd84307b5649d72552f454cf4",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5692,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lescienze.it",
+      "author": "redazione@lescienze.it (Redazione Le Scienze Italia)",
+      "title": "Dengue: uno studio dell'ICGEB apre la strada a nuove strategie di contrasto alla malattia",
+      "description": "Contrariamente alla convinzione diffusa che la dengue sia grave nelle infezioni secondarie, un nuovo studio collaborativo dell'ICGEB di New Delhi ha scoperto che anche un numero sostanziale di infezioni primarie di dengue comporta condizioni patologiche gravi\u2026",
+      "url": "https://www.lescienze.it/news/2024/02/19/news/dengue_icgeb_nuove_strategie_contrasto_malattia-15173365/",
+      "urlToImage": "https://www.lescienze.it/images/2024/02/19/171304312-09aa0f63-b2f4-4e15-89a0-ac77bd29309c.jpg",
+      "publishedAt": "2024-02-19 16:15:37",
+      "content": "Come le attivit\u00e0 umane stanno riscaldando la Terra, quali sono gli effetti dell'aumento delle temperature sul nostro pianeta e sulla societ\u00e0, e quali azioni sono necessarie per affrontare il cambiam\u2026 [+23 chars]",
+      "retrievedAt": "2024-02-20 19:05:21.638497",
+      "internal_id": "03e6f1c88045a20448a27aa6ff7b8117a2b8e26cf1532cf076a7ff68f0650186",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5699,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Argentina registra explos\u00e3o de casos de dengue em 2024",
+      "description": "O Minist\u00e9rio da Sa\u00fade da Argentina informou nesta segunda-feira (19) que o pa\u00eds registrou uma ...",
+      "url": "https://www.terra.com.br/noticias/mundo/argentina-registra-explosao-de-casos-de-dengue-em-2024,01ba8719779c78c993c12b4b4b99bf44lp9mx2f1.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-19 14:45:50",
+      "content": "O Minist\u00e9rio da Sa\u00fade da Argentina informou nesta segunda-feira (19) que o pa\u00eds registrou uma explos\u00e3o de casos de dengue nas primeiras seis semanas de 2024. Em compara\u00e7\u00e3o com o mesmo per\u00edodo \u2026 [+664 chars]",
+      "retrievedAt": "2024-02-20 19:05:21.811546",
+      "internal_id": "d576bb191cb1cc263b621cdcc0a823180bb4eded809053f11f1a6e18db772d92",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5691,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsnationnow.com",
+      "author": "Taylor Delandro",
+      "title": "Florida health officials investigate measles outbreak at Broward County school",
+      "description": "Florida health officials investigate measles outbreak at Broward County schoolnewsnationnow.com",
+      "url": "https://www.newsnationnow.com/health/measles-outbreak-florida-school-broward-county/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/01/GettyImages-1196157315-e1706646492255.jpg?w=1280",
+      "publishedAt": "2024-02-19 14:24:23",
+      "content": "(NewsNation) The Florida Department of Health is investigating a measles outbreak at a South Florida elementary school. The Florida Department of Health in Broward County announced Sunday it is in\u2026 [+1436 chars]",
+      "retrievedAt": "2024-02-20 19:05:20.999270",
+      "internal_id": "9cc274a735e20dfc5c03ef8726675e905b2ab338be5a1b148be30afc5030ef45",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5697,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Dengue no Rio tem n\u00famero de casos 6 vezes maior que o esperado",
+      "description": "Houve quatro \u00f3bitos confirmados: dois no munic\u00edpio do Rio de Janeiro, um em Mangaratiba e um em Itatiaia",
+      "url": "https://www.metropoles.com/brasil/dengue-no-rio-tem-numero-de-casos-6-vezes-maior-que-o-esperado",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/19105148/Dengue-no-Rio-de-Janeiro.jpg",
+      "publishedAt": "2024-02-19 13:56:44",
+      "content": "O boletim semanal Panorama da Dengue, divulgado na sexta-feira (16/2) pela Secretaria de Sa\u00fade do Rio de Janeiro (SES-RJ), mostrou que o estado est\u00e1 com um n\u00famero de casos prov\u00e1veis de dengue seis ve\u2026 [+2449 chars]",
+      "retrievedAt": "2024-02-20 19:05:21.751607",
+      "internal_id": "9d05f3745e664c35de9395bb9b7bdf0ad1afe6c73674d4c5b2e8f5011722c575",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5695,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Camila Olivo",
+      "title": "Munic\u00edpios de SP come\u00e7am a aplicar vacina contra a dengue",
+      "description": "O munic\u00edpio de Itaquaquecetuba, no Alto Tiet\u00ea, afirmou que a vacina contra a dengue est\u00e1 em distribui\u00e7\u00e3o e aplica\u00e7\u00e3o pode come\u00e7ar hoje",
+      "url": "https://www.metropoles.com/sao-paulo/sp-comecam-aplicar-vacina-contra-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/10095623/vacinacao-dengue-vacina-qdenga-imunizante-df1.jpeg",
+      "publishedAt": "2024-02-19 13:50:52",
+      "content": "S\u00e3o Paulo Itaquaquecetuba pode ser o primeiro munic\u00edpio do estado de S\u00e3o Paulo a aplicar a vacina contra a dengue. De acordo com informa\u00e7\u00f5es repassadas pela Vigil\u00e2ncia Epidemiol\u00f3gica municipal ao Met\u2026 [+6499 chars]",
+      "retrievedAt": "2024-02-20 19:05:21.729507",
+      "internal_id": "99f4017f92bea6c15030bdb0f8b1853a24dfe15e35ccfa72ca7575eed9b0707d",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5698,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Dengue: estado do Rio tem n\u00famero de casos 6 vezes maior que o esperado",
+      "description": "H\u00e1 quatro mortes confirmadas",
+      "url": "https://saude.ig.com.br/2024-02-19/dengue--estado-do-rio-tem-numero-de-casos-6-vezes-maior-que-o-esperado.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-02-19 13:32:14",
+      "content": "O boletim semanal Panorama da Dengue , divulgado sexta-feira (16) pela Secretaria de Estado de Sa\u00fade do Rio de Janeiro (SES-RJ), mostrou que o estado est\u00e1 com um n\u00famero de casos prov\u00e1veis de dengue \u2026 [+2310 chars]",
+      "retrievedAt": "2024-02-20 19:05:21.791955",
+      "internal_id": "d127e6df46b067c3bf73d2b1c37a39746afcd570f26bf519cfe91ea06c6764fc",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5690,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI City Desk",
+      "title": "Two children die of suspected measles, 17 infected in MP's Maihar; schools shut for 3 days",
+      "description": "Two children have died and 17 others are infected with suspected measles in the town of Maihar, Madhya Pradesh. All schools in eight villages have been closed for three days. A medical team has been dispatched to contain the spread of the disease. The Chief M\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/measles-outbreak-claims-two-lives-in-madhya-pradesh-latest-news/articleshow/107819497.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107819957,width-1070,height-580,imgsize-3710,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-19 09:47:09",
+      "content": "Jaya Bachchan's decade-old kitchen secret for healthy, shiny hair at 75",
+      "retrievedAt": "2024-02-20 19:05:20.978211",
+      "internal_id": "ee260d8547e9cffdeec1a246439424b033ba454fb6d7b996946cd0a4dcb701ea",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5693,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "REPORTAGE. \"J'ai d\u00e9j\u00e0 eu la dengue, mais celle-l\u00e0 est beaucoup plus forte\" : face \u00e0 une \u00e9pid\u00e9mie sans pr\u00e9c\u00e9dent au Br\u00e9sil, les malades affluent dans les h\u00f4pitaux",
+      "description": "Confront\u00e9 \u00e0 la dengue depuis des d\u00e9cennies, le Br\u00e9sil fait face \u00e0 des centaines de milliers de cas depuis le d\u00e9but de l'ann\u00e9e 2024. Plusieurs \u00c9tats, dont celui de Rio de Janeiro, sont d\u00e9j\u00e0 en urgence sanitaire.",
+      "url": "https://www.francetvinfo.fr/monde/bresil/j-ai-deja-eu-la-dengue-mais-celle-la-est-beaucoup-plus-forte-face-a-une-epidemie-sans-precedent-au-bresil-les-malades-affluent-dans-les-hopitaux_6375298.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/FRH24AQxQT3SLiA21nnh3iM8kxY/1500x843/2024/02/19/000-34hr6xb-65d30297c7444623854126.jpg",
+      "publishedAt": "2024-02-19 09:44:56",
+      "content": "\"Qui est le prochain ?\". Dans ce tout nouveau centre de soin sp\u00e9cialis\u00e9 dans la d\u00e9tection de la dengue, \u00e0 Rio de Janeiro, deuxi\u00e8me ville du Br\u00e9sil, les patients se succ\u00e8dent. Regard hagard et sous pe\u2026 [+2320 chars]",
+      "retrievedAt": "2024-02-20 19:05:21.665801",
+      "internal_id": "70d6f702dbd36f5c20984c8c615102ca95e804270066dee124dbee82e522849f",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 5689,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "2 Children Die Of Suspected Measles, 17 Infected In Madhya Pradesh's Maihar",
+      "description": "Two children have died of suspected measles, and 17 have been infected in Madhya Pradesh's Maihar, prompting district authorities to shut down all schools in the eight villages for three days, a health official said.",
+      "url": "https://www.ndtv.com/india-news/2-children-die-of-suspected-measles-17-infected-in-madhya-pradesh-maihar-schools-shut-in-district-5086496",
+      "urlToImage": "https://c.ndtvimg.com/2019-01/85ab4h4_classroom-generic-pixabay_625x300_06_January_19.jpg",
+      "publishedAt": "2024-02-19 09:19:59",
+      "content": "Schools in the district's villages have been asked to remain closed for three days (Representational) Maihar, Madhya Pradesh: Two children have died of suspected measles, and 17 have been infected i\u2026 [+1230 chars]",
+      "retrievedAt": "2024-02-20 19:05:20.974379",
+      "internal_id": "f28805b3c50fc84db7734719caf06cf6e32e72f7f2a5a1a91aececa7e446f843",
+      "publishedAtLabel": "Feb 19"
+    },
     {
       "id": 5667,
       "query": [

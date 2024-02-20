@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2024-02-20 07:06
-- **Most recent article:** 2024-02-19 05:16:02
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-02-20 19:05
+- **Most recent article:** 2024-02-19 18:50:36
 
 ---
 
@@ -12,8 +12,8 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 189 | 18 | 817 |
-| measles | 25 | 61 | 56 | 47 | 68 | 45 | 5 | 307 |
+| dengue | 33 | 65 | 123 | 173 | 216 | 189 | 27 | 826 |
+| measles | 25 | 61 | 56 | 47 | 68 | 45 | 10 | 312 |
 | malaria | 51 | 26 | 86 | 25 | 35 | 19 | 2 | 244 |
 | zika | 8 | 8 | 7 | 8 | 13 | 6 | 1 | 51 |
 | chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 2 | 48 |
@@ -53,6 +53,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (measles)
 
+- [Florida health officials investigate measles outbreak at school (Taylor Delandro/The Hill)](https://www.memeorandum.com/240219/p24) (Memeorandum.com)
+
+- [2 children die of Measles, schools closed as infections grow in MP: Know about the disease](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/2-children-die-of-measles-schools-closed-as-infections-grow-in-mp-know-about-the-disease/articleshow/107830554.cms) (The Times of India)
+
+- [Florida health officials investigate measles outbreak at Broward County school](https://www.newsnationnow.com/health/measles-outbreak-florida-school-broward-county/) (Newsnationnow.com)
+
+- [Two children die of suspected measles, 17 infected in MP's Maihar; schools shut for 3 days](https://timesofindia.indiatimes.com/city/bhopal/measles-outbreak-claims-two-lives-in-madhya-pradesh-latest-news/articleshow/107819497.cms) (The Times of India)
+
+- [2 Children Die Of Suspected Measles, 17 Infected In Madhya Pradesh's Maihar](https://www.ndtv.com/india-news/2-children-die-of-suspected-measles-17-infected-in-madhya-pradesh-maihar-schools-shut-in-district-5086496) (NDTV News)
+
 - [Florida Department of Health investigates Broward County's multiple measles cases](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/) (CBS News)
 
 - [Measles infections pose far more risks than most realize, including a fatal neurological complication](https://www.nbcnews.com/health/kids-health/measles-infection-symptoms-longterm-risks-rcna138583) (NBC News)
@@ -70,6 +80,24 @@ Source: [News API](https://newsapi.org/)
 - [The journey with malaria so far](https://punchng.com/the-journey-with-malaria-so-far/) (The Punch)
 
 ## 24-8 (dengue)
+
+- [Sangue doce: por que algumas pessoas são mais atacadas por mosquitos](https://www.metropoles.com/saude/quais-pessoas-mais-picadas-por-mosquitos) (Metropoles.com)
+
+- [Brasil ultrapassa 650 mil casos de dengue](https://jornaldebrasilia.com.br/noticias/brasil/brasil-ultrapassa-650-mil-casos-de-dengue/) (Jornaldebrasilia.com.br)
+
+- [Salud concentra ataque contra el dengue en La Carpio, Pavas, Santa Ana y Montecillos de Alajuela](https://www.nacion.com/ciencia/salud/salud-concentra-ataque-contra-el-dengue-en-la/Q7IXKR2LWJEVZOY5OFMGHV6IQA/story/) (Nacion.com)
+
+- [Dengue: uno studio dell'ICGEB apre la strada a nuove strategie di contrasto alla malattia](https://www.lescienze.it/news/2024/02/19/news/dengue_icgeb_nuove_strategie_contrasto_malattia-15173365/) (Lescienze.it)
+
+- [Argentina registra explosão de casos de dengue em 2024](https://www.terra.com.br/noticias/mundo/argentina-registra-explosao-de-casos-de-dengue-em-2024,01ba8719779c78c993c12b4b4b99bf44lp9mx2f1.html) (Terra.com.br)
+
+- [Dengue no Rio tem número de casos 6 vezes maior que o esperado](https://www.metropoles.com/brasil/dengue-no-rio-tem-numero-de-casos-6-vezes-maior-que-o-esperado) (Metropoles.com)
+
+- [Municípios de SP começam a aplicar vacina contra a dengue](https://www.metropoles.com/sao-paulo/sp-comecam-aplicar-vacina-contra-dengue) (Metropoles.com)
+
+- [Dengue: estado do Rio tem número de casos 6 vezes maior que o esperado](https://saude.ig.com.br/2024-02-19/dengue--estado-do-rio-tem-numero-de-casos-6-vezes-maior-que-o-esperado.html) (Ig.com.br)
+
+- [REPORTAGE. "J'ai déjà eu la dengue, mais celle-là est beaucoup plus forte" : face à une épidémie sans précédent au Brésil, les malades affluent dans les hôpitaux](https://www.francetvinfo.fr/monde/bresil/j-ai-deja-eu-la-dengue-mais-celle-la-est-beaucoup-plus-forte-face-a-une-epidemie-sans-precedent-au-bresil-les-malades-affluent-dans-les-hopitaux_6375298.html) (Francetvinfo.fr)
 
 - [Janeiro de 2024 foi o mês com mais casos de dengue na história do DF](https://www.metropoles.com/distrito-federal/janeiro-de-2024-foi-o-mes-com-mais-casos-de-dengue-na-historia-do-df) (Metropoles.com)
 
