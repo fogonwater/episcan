@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-02-20 19:05
-- **Most recent article:** 2024-02-19 18:50:36
+- **New articles in last harvest:** 30
+- **Last harvest:** 2024-02-21 07:05
+- **Most recent article:** 2024-02-20 06:38:25
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 189 | 27 | 826 |
-| measles | 25 | 61 | 56 | 47 | 68 | 45 | 10 | 312 |
-| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 2 | 244 |
-| zika | 8 | 8 | 7 | 8 | 13 | 6 | 1 | 51 |
-| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 2 | 48 |
+| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 53 | 854 |
+| measles | 25 | 61 | 56 | 47 | 68 | 45 | 13 | 315 |
+| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 4 | 246 |
+| zika | 8 | 8 | 7 | 8 | 13 | 6 | 2 | 52 |
+| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 3 | 49 |
 | rabies | 5 | 5 | 9 | 7 | 7 | 9 | 1 | 43 |
 | meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 1 | 38 |
 | mpox | 2 | 8 | 4 | 3 | 5 | 8 | 0 | 30 |
@@ -32,6 +32,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-8 (zika)
+
+- [Brasil supera 650 mil casos e 100 mortes por dengue em menos de dois meses](https://veja.abril.com.br/saude/brasil-supera-650-mil-casos-e-100-mortes-por-dengue-em-menos-de-dois-meses) (Abril.com.br)
 
 - [Belo Horizonte tem Upa lotada neste domingo e pacientes ficam até 9 horas por atendimento](https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024) (R7.com)
 
@@ -52,6 +54,12 @@ Source: [News API](https://newsapi.org/)
 - [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
+
+- [DeSantis making measles great again](https://www.lawyersgunsmoneyblog.com/2024/02/desantis-making-measles-great-again) (Lawyersgunsmoneyblog.com)
+
+- [Measles erupts in Florida school where 11% of kids are unvaccinated (Beth Mole/Ars Technica)](https://www.memeorandum.com/240219/p48) (Memeorandum.com)
+
+- [Measles erupts in Florida school where 11% of kids are unvaccinated](https://arstechnica.com/science/2024/02/measles-erupts-in-florida-school-where-11-of-kids-are-unvaccinated/) (Ars Technica)
 
 - [Florida health officials investigate measles outbreak at school (Taylor Delandro/The Hill)](https://www.memeorandum.com/240219/p24) (Memeorandum.com)
 
@@ -75,19 +83,63 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (malaria)
 
+- [Dos especies de parásitos causantes de malaria presentes en Costa Rica](https://www.nacion.com/ciencia/salud/dos-especies-de-parasitos-causantes-de-malaria/E37XK6PERBAOTFMCNX32BI7JA4/story/) (Nacion.com)
+
+- [Medizin: "Manche Viren machen es einem eben leicht"](https://www.sueddeutsche.de/gesundheit/impfstoffe-entwicklung-malaria-corona-aids-1.6376009) (Süddeutsche Zeitung)
+
 - [Odisha's first vaccine manufacturing plant to start production by May](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/odishas-first-vaccine-manufacturing-plant-to-start-production-by-may/articleshow/107800124.cms) (The Times of India)
 
 - [The journey with malaria so far](https://punchng.com/the-journey-with-malaria-so-far/) (The Punch)
 
 ## 24-8 (dengue)
 
+- [Veja quais são as 22 cidades mineiras que devem receber a vacina da dengue primeiro](https://noticias.r7.com/minas-gerais/veja-quais-sao-as-22-cidades-mineiras-que-devem-receber-a-vacina-da-dengue-primeiro-20022024) (R7.com)
+
+- [Wolbachia mosquitoes released at Clementi site as part of project expansion to fight dengue](https://www.channelnewsasia.com/singapore/wolbachia-aedes-mosquitoes-clementi-dengue-nea-4135106) (CNA)
+
+- [Cidades de São Paulo iniciam vacinação contra dengue esta semana](https://catracalivre.com.br/saude-bem-estar/cidades-sao-paulo-vacinacao-contra-dengue/) (Catracalivre.com.br)
+
+- [Flamengo x Boavista: prováveis escalações, arbitragem, onde assistir, retrospecto e palpites](https://esporte.ig.com.br/parceiros/esporte-news-mundo/2024-02-19/flamengo-x-boavista--provaveis-escalacoes--arbitragem--onde-assistir--retrospecto-e-palpites.html) (Ig.com.br)
+
+- [Flamengo x Boavista: prováveis escalações, arbitragem, onde assistir, retrospecto e palpites](https://www.terra.com.br/esportes/flamengo/flamengo-x-boavista-provaveis-escalacoes-arbitragem-onde-assistir-retrospecto-e-palpites,9b10952efcb0703a8036f0a46eead70c94efbq9n.html) (Terra.com.br)
+
+- [Ministério da Saúde confirma 35 mortes por dengue no Distrito Federal](https://www.metropoles.com/distrito-federal/ministerio-da-saude-confirma-35-mortes-por-dengue-no-distrito-federal) (Metropoles.com)
+
+- [Health experts warning of Dengue Fever surge in tropical climates](https://www.cbsnews.com/video/health-experts-warning-dengue-fever-surge-tropical-climates/) (CBS News)
+
+- [Brasil supera 650 mil casos e 100 mortes por dengue em menos de dois meses](https://veja.abril.com.br/saude/brasil-supera-650-mil-casos-e-100-mortes-por-dengue-em-menos-de-dois-meses) (Abril.com.br)
+
+- [Brasil ultrapassa 650 mil casos de dengue; 94 mortes foram confirmadas](https://saude.ig.com.br/2024-02-19/casos-de-dengue-no-brasil.html) (Ig.com.br)
+
+- [Dengue dispara e respinga no preço do repelente – que sobe 16% em dois meses](https://www.infomoney.com.br/consumo/dengue-dispara-e-respinga-no-preco-do-repelente-que-sobe-16-em-dois-meses/) (InfoMoney)
+
+- [Bahia registra terceira morte por dengue em 2024](https://www.metropoles.com/brasil/bahia-registra-terceira-morte-por-dengue-em-2024) (Metropoles.com)
+
+- [Epidemia de dengue: por que devemos evitar a automedicação?](https://www.terra.com.br/vida-e-estilo/epidemia-de-dengue-por-que-devemos-evitar-a-automedicacao,f5e6c11a9b4b113db6ffb96af1f4239cnvizsfn6.html) (Terra.com.br)
+
+- [Mortes por dengue chegam a 113 no país; 438 óbitos são investigados](https://jornaldebrasilia.com.br/noticias/brasil/mortes-por-dengue-chegam-a-113-no-pais-438-obitos-sao-investigados/) (Jornaldebrasilia.com.br)
+
 - [Sangue doce: por que algumas pessoas são mais atacadas por mosquitos](https://www.metropoles.com/saude/quais-pessoas-mais-picadas-por-mosquitos) (Metropoles.com)
 
 - [Brasil ultrapassa 650 mil casos de dengue](https://jornaldebrasilia.com.br/noticias/brasil/brasil-ultrapassa-650-mil-casos-de-dengue/) (Jornaldebrasilia.com.br)
 
+- [DF tem 30% das mortes por dengue no Brasil; capital registra 79,3 mil casos](https://noticias.r7.com/brasilia/30-das-mortes-de-dengue-do-brasil-sao-do-df-capital-registra-quase-80-mil-casos-19022024) (R7.com)
+
 - [Salud concentra ataque contra el dengue en La Carpio, Pavas, Santa Ana y Montecillos de Alajuela](https://www.nacion.com/ciencia/salud/salud-concentra-ataque-contra-el-dengue-en-la/Q7IXKR2LWJEVZOY5OFMGHV6IQA/story/) (Nacion.com)
 
+- [Repelente ou protetor solar: qual passar primeiro?](https://boaforma.abril.com.br/equilibrio/repelente-ou-protetor-solar-qual-passar-primeiro/) (Abril.com.br)
+
+- [Posso tomar a vacina contra a dengue fora do SUS? Veja quanto custa](https://catracalivre.com.br/saude-bem-estar/posso-tomar-a-vacina-contra-a-dengue-fora-do-sus-veja-quanto-custa/) (Catracalivre.com.br)
+
+- [Daniel Borges supera dengue e estreia como titular no América-MG](https://esporte.ig.com.br/parceiros/esporte-news-mundo/2024-02-19/daniel-borges-supera-dengue-e-estreia-como-titular-no-america-mg.html) (Ig.com.br)
+
+- [Daniel Borges supera dengue e estreia como titular no América-MG](https://www.terra.com.br/esportes/america-mg/daniel-borges-supera-dengue-e-estreia-como-titular-no-america-mg,cb5efd001daf7e0eb2267949d7624deca9kzpc3h.html) (Terra.com.br)
+
+- [Decreto de situação de emergência deve ampliar atendimento a dengue em BH](https://noticias.r7.com/minas-gerais/mg-no-ar/videos/prefeitura-decreta-situacao-de-emergencia-por-causa-da-dengue-apos-casos-dispararem-em-bh-19022024) (R7.com)
+
 - [Dengue: uno studio dell'ICGEB apre la strada a nuove strategie di contrasto alla malattia](https://www.lescienze.it/news/2024/02/19/news/dengue_icgeb_nuove_strategie_contrasto_malattia-15173365/) (Lescienze.it)
+
+- [Repelentes contra dengue: conheça os cuidados que você precisa saber antes de comprar o produto](https://noticias.r7.com/record-news/videos/conheca-os-cuidados-que-voce-precisa-saber-antes-de-comprar-repelente-contra-dengue-19022024) (R7.com)
 
 - [Argentina registra explosão de casos de dengue em 2024](https://www.terra.com.br/noticias/mundo/argentina-registra-explosao-de-casos-de-dengue-em-2024,01ba8719779c78c993c12b4b4b99bf44lp9mx2f1.html) (Terra.com.br)
 
@@ -97,15 +149,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: estado do Rio tem número de casos 6 vezes maior que o esperado](https://saude.ig.com.br/2024-02-19/dengue--estado-do-rio-tem-numero-de-casos-6-vezes-maior-que-o-esperado.html) (Ig.com.br)
 
+- [Dengue no Rio de Janeiro tem número de casos seis vezes maior que o esperado](https://noticias.r7.com/rio-de-janeiro/dengue-no-rio-tem-numero-de-casos-seis-vezes-maior-que-o-esperado-19022024) (R7.com)
+
+- [Avanço da dengue faz venda de repelentes disparar nas farmácias do país](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/avanco-da-dengue-faz-venda-de-repelentes-disparar-nas-farmacias-do-pais-19022024) (R7.com)
+
 - [REPORTAGE. "J'ai déjà eu la dengue, mais celle-là est beaucoup plus forte" : face à une épidémie sans précédent au Brésil, les malades affluent dans les hôpitaux](https://www.francetvinfo.fr/monde/bresil/j-ai-deja-eu-la-dengue-mais-celle-la-est-beaucoup-plus-forte-face-a-une-epidemie-sans-precedent-au-bresil-les-malades-affluent-dans-les-hopitaux_6375298.html) (Francetvinfo.fr)
 
 - [Janeiro de 2024 foi o mês com mais casos de dengue na história do DF](https://www.metropoles.com/distrito-federal/janeiro-de-2024-foi-o-mes-com-mais-casos-de-dengue-na-historia-do-df) (Metropoles.com)
 
 - [Volta às aulas: pais querem repelente e vacina para dengue nas escolas](https://www.metropoles.com/distrito-federal/volta-as-aulas-pais-querem-repelente-e-vacina-para-dengue-nas-escolas) (Metropoles.com)
 
+- [Venda de repelentes dispara e cresce quase cinco vezes diante de surto de dengue no Brasil](https://noticias.r7.com/economia/aumento-de-casos-de-dengue-no-brasil-impulsiona-vendas-de-repelentes-descubra-como-utiliza-los-19022024) (R7.com)
+
 - [Flamengo anuncia desfalques: Allan, com dengue, e Gérson, com infecção renal](https://esporte.ig.com.br/placar/2024-02-18/flamengo-anuncia-desfalques--allan--com-dengue--e-gerson--com-infeccao-renal.html) (Ig.com.br)
 
 - [Posso tomar a vacina contra dengue e receber reembolso do plano de saúde?](https://www.terra.com.br/vida-e-estilo/saude/posso-tomar-a-vacina-contra-dengue-e-receber-reembolso-do-plano-de-saude,124f39d8508f3e23e311a570e4d2e371szonypji.html) (Terra.com.br)
+
+- [Belo Horizonte tem Upa lotada neste domingo e pacientes ficam até 9 horas por atendimento](https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024) (R7.com)
+
+- [2 tipos de repelente contra o mosquito da dengue, segundo a Anvisa](https://catracalivre.com.br/saude-bem-estar/2-tipos-de-repelente-contra-o-mosquito-da-dengue-segundo-a-anvisa/) (Catracalivre.com.br)
 
 - [Dengue no RJ: número de casos é 6 vezes maior do que o esperado](https://www.metropoles.com/brasil/dengue-no-rj-numero-de-casos-e-6-vezes-maior-do-que-o-esperado) (Metropoles.com)
 
@@ -135,7 +197,11 @@ Source: [News API](https://newsapi.org/)
 
 - [DF tem 2 mil pessoas internadas com dengue, sendo 171 delas na UTI](https://www.metropoles.com/distrito-federal/df-tem-2-mil-pessoas-internadas-com-dengue-sendo-171-delas-na-uti) (Metropoles.com)
 
+- [Casos de chikungunya disparam 42% em meio à epidemia de dengue](https://noticias.r7.com/cidades/casos-de-chikungunya-disparam-epidemia-de-dengue-18022024) (R7.com)
+
 ## 24-8 (chikungunya)
+
+- [Brasil supera 650 mil casos e 100 mortes por dengue em menos de dois meses](https://veja.abril.com.br/saude/brasil-supera-650-mil-casos-e-100-mortes-por-dengue-em-menos-de-dois-meses) (Abril.com.br)
 
 - [Belo Horizonte tem Upa lotada neste domingo e pacientes ficam até 9 horas por atendimento](https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024) (R7.com)
 
@@ -411,9 +477,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Planos de saúde devem cobrir exame de dengue? Entenda o que fazer em caso de negativa](https://jornaldebrasilia.com.br/noticias/saude/planos-de-saude-devem-cobrir-exame-de-dengue-entenda-o-que-fazer-em-caso-de-negativa/) (Jornaldebrasilia.com.br)
 
+- [São Paulo começa vacinação contra dengue por região mais afetada pela doença](https://recordtv.r7.com/fala-brasil/videos/sao-paulo-comeca-vacinacao-contra-dengue-por-regiao-mais-afetada-pela-doenca-17022024) (R7.com)
+
 - [Maioria dos mortos por dengue em SP era do interior e tinha mais de 70](https://www.metropoles.com/sao-paulo/mortos-dengue-sp-interior-e-mais-de-70) (Metropoles.com)
 
 - [Brazil's Health Agents Hunt Mosquitos in Dengue Epidemic Fight](https://www.voanews.com/a/brazil-s-health-agents-hunt-mosquitos-in-dengue-epidemic-fight-/7491573.html) (VOA News)
+
+- [BH terá 13 unidades de saúde para casos de dengue no fim de semana](https://noticias.r7.com/minas-gerais/bh-tera-13-unidades-de-saude-para-casos-de-dengue-no-fim-de-semana-17022024) (R7.com)
 
 - [RJ inicia estudo para determinar eficácia da vacina da dengue em adultos](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/rj-inicia-estudo-para-determinar-eficacia-da-vacina-da-dengue-em-adultos-17022024) (R7.com)
 
