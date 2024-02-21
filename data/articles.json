@@ -1,8 +1,693 @@
 {
-  "last_updated": "2024-02-21 07:05",
-  "count_articles_total": 1624,
-  "count_articles_new": 30,
+  "last_updated": "2024-02-21 19:05",
+  "count_articles_total": 1662,
+  "count_articles_new": 38,
   "articles": [
+    {
+      "id": 5751,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "AFP",
+      "title": "OMS alerta sobre fuerte aumento de casos de sarampi\u00f3n en el mundo",
+      "description": "\u2018Hubo un aumento constante de los casos de sarampi\u00f3n en todas las regiones de la OMS excepto una\u2019, la regi\u00f3n de las Am\u00e9ricas, detall\u00f3 la OMS",
+      "url": "https://www.nacion.com/el-mundo/interes-humano/oms-alerta-sobre-fuerte-aumento-de-casos-de/FZQUXZS36FHUFNPLDSSE7CQYYA/story/",
+      "urlToImage": "https://www.nacion.com/resizer/dWq8g9sOgpHLm0sn3Bn80RMDuQ0=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/KNFRESN7V5CXFC52ZWIR5SSEIE.jpg",
+      "publishedAt": "2024-02-20 19:00:00",
+      "content": "Par\u00eds. La Organizaci\u00f3n Mundial de la Salud (OMS) alert\u00f3 el martes sobre la r\u00e1pida propagaci\u00f3n del sarampi\u00f3n en el mundo, con m\u00e1s de 306.000 casos declarados el a\u00f1o pasado, un aumento del 79% en un a\u00f1\u2026 [+1692 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.438869",
+      "internal_id": "b5b072c6777da2ebe5927dad682d6ea7541f8f4215fd0713285407a71423af0d",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5761,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Bons Fluidos",
+      "title": "H1N1, covid-19 ou dengue: como identificar as diferen\u00e7as entre as doen\u00e7as virais?",
+      "description": "Conhe\u00e7a as principais diferen\u00e7as entre o H1N1, covid-19 e dengue, como identificar os sintomas e as vacinas espec\u00edficas para cada caso",
+      "url": "https://www.terra.com.br/vida-e-estilo/h1n1-covid-19-ou-dengue-como-identificar-as-diferencas-entre-as-doencas-virais,57a640aee650b39cd43e77ed6110c7dcilbwqrcu.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/20/1534661683-h1n1-covid-19-ou-dengue-como-identificar-as-diferencas-entre-as-doencas.jpg",
+      "publishedAt": "2024-02-20 18:42:59",
+      "content": "As chuvas de ver\u00e3o trazem consigo uma explos\u00e3o de casos de uma doen\u00e7a j\u00e1 conhecida entre os brasileiros. A dengue, que j\u00e1 atingiu mais de 500 mil pessoas em 2024, segundo dados do Minist\u00e9rio da Sa\u00fade\u2026 [+5629 chars]",
+      "retrievedAt": "2024-02-21 19:05:21.022218",
+      "internal_id": "1a0c93044d6b66e74352b6cc3363ea653346bf00aeeadaf11cad7871b2a66bf7",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5766,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Ulysses Biomed subsidiary concludes project worth more than EUR1 million",
+      "description": "(marketscreener.com) Ulysses Biomed Spa announced Tuesday that Hyris Limited, a wholly owned subsidiary of UBM, has successfully concluded an international project to develop technology aimed at active surveillance of the spread of malaria in remote and disad\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/ULISSE-BIOMED-S-P-A-125608547/news/Ulysses-Biomed-subsidiary-concludes-project-worth-more-than-EUR1-million-45990514/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-02-20 18:02:09",
+      "content": "(Alliance News) - Ulysses Biomed Spa announced Tuesday that Hyris Limited, a wholly owned subsidiary of UBM, has successfully concluded an international project to develop technology aimed at active \u2026 [+1045 chars]",
+      "retrievedAt": "2024-02-21 19:05:21.593011",
+      "internal_id": "d4cdc91ba72bdeaac981c3f333aea39a7fe460fb19cff6cac603d966a57109b1",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5747,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.mx",
+      "author": "Luis Acosta",
+      "title": "Como el COVID domin\u00f3, todos nos olvidamos del sarampi\u00f3n; ahora m\u00e1s de la mitad de pa\u00edses tendr\u00e1 brotes, seg\u00fan la OMS",
+      "description": "La OMS advierte: m\u00e1s de la mitad de los pa\u00edses podr\u00edan entrar en riesgo alto de casos de sarampi\u00f3n debido a la falta de cobertura de vacunas durante la pandemia del Covid-19. Respecto al a\u00f1o anterior, los brotes de sarampi\u00f3n aumentaron 79% y M\u00e9xico ya ha emit\u2026",
+      "url": "https://www.xataka.com.mx/medicina-y-salud/como-covid-domino-todos-nos-olvidamos-sarampion-ahora-mitad-paises-tendra-brotes-oms",
+      "urlToImage": "https://i.blogs.es/7fba02/side-side/840_560.jpeg",
+      "publishedAt": "2024-02-20 17:58:28",
+      "content": "La OMS advierte: m\u00e1s de la mitad de los pa\u00edses podr\u00edan entrar en riesgo alto de casos de sarampi\u00f3n debido a la falta de cobertura de vacunas durante la pandemia del Covid-19. Respecto al a\u00f1o anterior\u2026 [+2453 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.412128",
+      "internal_id": "f9627f6aad3f3f4e2d15575630acdb188cf2099e07017cb9d15066ad25e33ca5",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5736,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "More than half the world faces high measles risk, WHO says",
+      "description": "More than half the world faces high measles risk, WHO says",
+      "url": "https://www.investing.com/news/coronavirus/more-than-half-the-world-faces-high-measles-risk-who-says-3308777",
+      "urlToImage": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "publishedAt": "2024-02-20 17:16:55",
+      "content": "GENEVA (Reuters) - More than half the world's countries will be at high or very high risk of measles outbreaks by the end of the year unless urgent preventative measures are taken, the World Health O\u2026 [+1814 chars]",
+      "retrievedAt": "2024-02-21 19:05:19.966296",
+      "internal_id": "9d9dd0cb8d721016a57a0e67c521803ee786340181692219f7830c93c7815698",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5737,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "More than half the world faces high measles risk, WHO says",
+      "description": "(marketscreener.com) More than half the world's countries will be at high or very high risk of measles outbreaks by the end of the year unless urgent preventative measures are taken, the World Health Organization warned on Tuesday.https://www.marketscreener.c\u2026",
+      "url": "https://www.marketscreener.com/news/latest/More-than-half-the-world-faces-high-measles-risk-WHO-says-45990303/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2023-02/2023-02-14T153856Z_2_LYNXMPEJ1D0QR_RTROPTP_3_HEALTH-WHO.JPG",
+      "publishedAt": "2024-02-20 17:13:34",
+      "content": "GENEVA (Reuters) - More than half the world's countries will be at high or very high risk of measles outbreaks by the end of the year unless urgent preventative measures are taken, the World Health O\u2026 [+1865 chars]",
+      "retrievedAt": "2024-02-21 19:05:19.970195",
+      "internal_id": "32298bd4313753fa329c303dbf6c12c5b68edf67ebefbc5532b43e9c8d6cec8f",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5749,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Elmercurio.com.ec",
+      "author": "Carmen Merchan",
+      "title": "OMS: m\u00e1s de la mitad de los pa\u00edses sufrir\u00e1n alto riesgo de brotes de sarampi\u00f3n este a\u00f1o",
+      "description": "El aumento generalizado de los casos de sarampi\u00f3n a nivel mundial har\u00e1 que m\u00e1s de la mitad de todos los pa\u00edses del mundo corran riesgo \u00abalto o m\u00e1ximo\u00bb por brotes de esta enfermedad para finales de 2024, advirti\u00f3 este martes la Organizaci\u00f3n Mundial de la Salud\u2026",
+      "url": "https://elmercurio.com.ec/2024/02/20/oms-mas-de-la-mitad-de-los-paises-sufriran-alto-riesgo-de-brotes-de-sarampion-este-ano/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-20 17:03:00",
+      "content": "El aumento generalizado de los casos de sarampi\u00f3n a nivel mundial har\u00e1 que m\u00e1s de la mitad de todos los pa\u00edses del mundo corran riesgo \u00abalto o m\u00e1ximo\u00bb por brotes de esta enfermedad para finales de 20\u2026 [+1734 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.427512",
+      "internal_id": "7d12e5eaf14f724abcd9703e36eb738558e0f610f37f16e5968468f5a700cb4e",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5748,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "M\u00e1s de la mitad de los pa\u00edses sufrir\u00e1n alto riesgo de brotes de sarampi\u00f3n este a\u00f1o: OMS",
+      "description": "Forbes M\u00e9xico. M\u00e1s de la mitad de los pa\u00edses sufrir\u00e1n alto riesgo de brotes de sarampi\u00f3n este a\u00f1o: OMS Los \u00faltimos datos globales sobre los casos notificados de sarampi\u00f3n durante febrero, suponen un aumento del 79%. M\u00e1s de la mitad de los pa\u00edses sufrir\u00e1n al\u2026",
+      "url": "https://www.forbes.com.mx/mas-de-la-mitad-de-los-paises-sufriran-alto-riesgo-de-brotes-de-sarampion-este-ano-oms/",
+      "urlToImage": "https://cdn.forbes.com.mx/2020/03/Sarampion.jpg",
+      "publishedAt": "2024-02-20 17:01:49",
+      "content": "El aumento generalizado de los casos de sarampi\u00f3n a nivel mundial har\u00e1 que m\u00e1s de la mitad de todos los pa\u00edses del mundo corran riesgo \u201calto o m\u00e1ximo\u201d por brotes de esta enfermedad para finales de 20\u2026 [+1898 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.422096",
+      "internal_id": "5c498bfea6691e707f321b7b774fe3ee7deefa6ed4e44b39a0e7dcd87eeb01a3",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5746,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "5th case of measles linked to Florida elementary school outbreak",
+      "description": "The first patient was a third-grade student without a history of travel.",
+      "url": "https://abcnews.go.com/Health/5th-case-measles-linked-florida-elementary-school-outbreak/story?id=107361315",
+      "urlToImage": "https://i.abcnewsfe.com/a/3e8aab76-5d38-428c-8030-bc7b4808bc39/measels-1-ht-bb-240220_1708439206741_hpMain_16x9t.jpg?w=1600",
+      "publishedAt": "2024-02-20 16:52:10",
+      "content": "The number of measles cases linked to an elementary school outbreak in southern Florida has risen to five. The outbreak at Manatee Bay Elementary School in Weston -- 20 miles west of Fort Lauderdale\u2026 [+4206 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.028092",
+      "internal_id": "2953c64b312995c580a183f00195a390a802ce1ae22e54f1b50c8f780e0671db",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5741,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Reuters",
+      "title": "Measles virus continues to spread as WHO says more than half the world has high risk of contracting the virus",
+      "description": "The World Health Organization announced that more than half the world has a high risk of getting measles by the end of 2024 unless preventative measures are taken.",
+      "url": "https://www.foxnews.com/health/measles-virus-continues-spread-who-says-more-half-world-high-risk-contracting-virus",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/world-health-organization.jpg",
+      "publishedAt": "2024-02-20 16:40:57",
+      "content": "More than half the world's countries will be at high or very high risk of measles outbreaks by the end of the year unless urgent preventative measures are taken, the World Health Organization warned \u2026 [+1907 chars]",
+      "retrievedAt": "2024-02-21 19:05:19.997098",
+      "internal_id": "b3e14ddaa47b943b93a5ff24e8c3a4150a5a5ad73eac101240e3dc5ddc6ee8d7",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5745,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLWT Cincinnati",
+      "author": "Fletcher Keel",
+      "title": "Clermont County Public Health investigating potential measles case",
+      "description": "Health officials are investigating a potential case of measles in Clermont County.",
+      "url": "https://www.wlwt.com/article/clermont-county-public-health-investigating-potential-measles-case-2024/46868925",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/clermont-co-public-health-65d4ce2e79e4f.jpg?crop=1.00xw:0.732xh;0,0.0465xh&resize=1200:*",
+      "publishedAt": "2024-02-20 16:25:43",
+      "content": "CLERMONT COUNTY, Ohio \u2014Health officials are investigating a potential case of measles in Clermont County. We want to be extra cautious and make sure our residents know the signs and symptoms and how\u2026 [+1150 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.023405",
+      "internal_id": "d1c0f5f460a76391a3b9b6590ca8e94c224b1d767f4b98f55d90e6b97dc07abf",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5735,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY REUTERS",
+      "title": "More than half the world faces high measles risk, WHO says",
+      "description": "Cases last year were already up 79% to over 300,000, according to WHO data, - thought to represent just a fraction of the total.",
+      "url": "https://www.jpost.com/health-and-wellness/article-787960",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/440451",
+      "publishedAt": "2024-02-20 16:21:13",
+      "content": "More than half the world's countries will be at high or very high risk of measles outbreaks by the end of the year unless urgent preventative measures are taken, the World Health Organization warned \u2026 [+1883 chars]",
+      "retrievedAt": "2024-02-21 19:05:19.956641",
+      "internal_id": "ea7bb391b659bb5458c2cfee1d8eb220c06d948a5a61433c3f9ca33fb04b38e9",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5750,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "OMS: m\u00e1s de la mitad de los pa\u00edses sufrir\u00e1n alto riesgo de brotes de sarampi\u00f3n este a\u00f1o",
+      "description": "Denuncian que la previsi\u00f3n de la enfermedad decay\u00f3 debido a la pandemia de covid y los conflictos armados.",
+      "url": "https://www.montevideo.com.uy/Salud/OMS-mas-de-la-mitad-de-los-paises-sufriran-alto-riesgo-de-brotes-de-sarampion-este-ano-uc880213",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/444671.jpg",
+      "publishedAt": "2024-02-20 16:19:00",
+      "content": "El aumento generalizado de los casos de sarampi\u00f3n a nivel mundial har\u00e1 que m\u00e1s de la mitad de todos los pa\u00edses del mundo corran riesgo \"alto o m\u00e1ximo\" por brotes de esta enfermedad para finales de\u2026 [+1782 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.434616",
+      "internal_id": "0235976729c6f9c66b9c75b34d2310302f4eba45cd4657bc00e87d8e6f7abd5c",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5752,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "EFE",
+      "title": "M\u00e1s de la mitad de los pa\u00edses sufrir\u00e1n alto riesgo de brotes de sarampi\u00f3n",
+      "description": "Para hacer frente a esta situaci\u00f3n, la experta inst\u00f3 a tomar medidas urgentes para garantizar que todos los ni\u00f1os est\u00e9n protegidos ya que, asegur\u00f3, la prevenci\u00f3n del sarampi\u00f3n y la rubeola ha \u201cca\u00eddo\u201d de las prioridades gubernamentales a causa de crisis mundia\u2026",
+      "url": "https://www.eluniversal.com.co/salud/mas-de-la-mitad-de-los-paises-sufriran-alto-riesgo-de-brotes-de-sarampion-GC10035704",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/930x686/65c0/800d686/none/13704/XETW/sarampion_9560660_20240220110708.jpg",
+      "publishedAt": "2024-02-20 16:14:00",
+      "content": "El aumento generalizado de los casos de sarampi\u00f3n a nivel mundial har\u00e1 que m\u00e1s de la mitad de todos los pa\u00edses del mundo corran riesgo alto o m\u00e1ximo por brotes de esta enfermedad para finales de 2024\u2026 [+2044 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.444073",
+      "internal_id": "a608968f02ff310e99dbf129f2a86632c1e793e6b6ac3b88d402155ad1933eab",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5732,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Mary Chastain",
+      "title": "Florida School Confirms Fifth Measles Case and 11% of the Kids are Unvaccinated",
+      "description": "A developed country like America should never have a measles case. This is horrifying. The post Florida School Confirms Fifth Measles Case and 11% of the Kids are Unvaccinated first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/02/florida-school-confirms-fifth-measles-case-and-11-of-the-kids-are-unvaccinated/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/02/Measles-Florida.jpg",
+      "publishedAt": "2024-02-20 16:00:20",
+      "content": "Vaccinate your children against these deadly and contagious viruses. This is horrifying. I blame the overreaction to COVID, too. A third-grade class at Manatee Bay Elementary School has five measles\u2026 [+3652 chars]",
+      "retrievedAt": "2024-02-21 19:05:19.942039",
+      "internal_id": "243f2cb6ee64a0ef5e1e0f18fdbdf0d672e3c6fea568d1bbd46f45d0fcce2acf",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5753,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Adorni culp\u00f3 al kirchnerismo por el brote de dengue y la invasi\u00f3n de mosquitos",
+      "description": "El m\u00e9dico y exministro de Salud de Tucum\u00e1n, Pablo Yedlin, responsabiliz\u00f3 al gobierno de Javier Milei por los muertos por la enfermedad que transmite el mosquito",
+      "url": "https://www.lanacion.com.ar/politica/adorni-culpo-al-kirchnerismo-por-el-brote-de-dengue-y-la-invasion-de-mosquitos-y-un-diputado-lo-nid20022024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/manuel-adorni-y-pablo-A53Y6KQSRZBJFFMKNOJ3O6GXGE.png?auth=e1e8344f17aae9a7eb831c8ed56f3b3f43741ac1325578c5f2000d5120910a44&width=768&quality=70&smart=false",
+      "publishedAt": "2024-02-20 15:51:14",
+      "content": "Este martes, en su habitual conferencia de prensa, el vocero presidencial, Manuel Adorni, comenz\u00f3 su exposici\u00f3n en la Casa Rosada hablando sobre la invasi\u00f3n de mosquitos en el \u00c1rea Metropolitana de B\u2026 [+2599 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.880283",
+      "internal_id": "5823f3ce5ec6cdca124e033331e4c2bdbdfd92d7eca500d438de9428adfee322",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5742,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Jenn Gidman",
+      "title": "At Florida School, a 'Preventable' Outbreak",
+      "description": "Over the weekend, the Florida Department of Health warned that it was looking into \"multiple cases of measles\" at an elementary school in South Florida. On Monday, Broward County Public Schools official John Sullivan confirmed that five cases in total had bee\u2026",
+      "url": "https://www.newser.com/story/346624/at-school-where-10-are-unvaxxed-a-measles-outbreak.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1519308-12-20240220095132.jpeg",
+      "publishedAt": "2024-02-20 15:40:00",
+      "content": "The first case emerged at the school on Thursday, said to be a third-grader who hadn't traveled anywhere recently, per CBS News. That and subsequent cases prompted \"further preventive measures,\" incl\u2026 [+1617 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.001290",
+      "internal_id": "1e06974497f2e404e4a724be72353197e482a6876239b276c29ff415d9327c6b",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5733,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Damilola Olufemi",
+      "title": "WHO raises alarm over rapid spread of measles cases",
+      "description": "The World Health Organisation, on Tuesday, voiced alarm at the rapid spread of measles, with more than 306,000 cases reported worldwide last year \u2013 a 79-per cent increase from 2022. The WHO technical adviser on measles and rubella, Natasha Crowcroft said, \u201cWe\u2026",
+      "url": "https://punchng.com/who-raises-alarm-over-rapid-spread-of-measles-cases/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/02/20162524/measles-1200x630.jpg",
+      "publishedAt": "2024-02-20 15:25:56",
+      "content": "The World Health Organisation, on Tuesday, voiced alarm at the rapid spread of measles, with more than 306,000 cases reported worldwide last year \u2013 a 79-per cent increase from 2022. The WHO technica\u2026 [+1641 chars]",
+      "retrievedAt": "2024-02-21 19:05:19.946068",
+      "internal_id": "7edc2f69009b3fb793a20f7539dc37c11a5e7e28bdc16fbec18bbce092f92e04",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5754,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jo\u00e3o V\u00edtor Reis",
+      "title": "Febre oropouche: n\u00famero de casos segue crescendo no Amazonas",
+      "description": "A febre oropouche \u00e9 uma infec\u00e7\u00e3o com sintomas semelhantes aos da dengue. O ano de 2024 j\u00e1 registra tr\u00eas vezes mais casos que 2023 em Manaus",
+      "url": "https://www.metropoles.com/saude/febre-oropouche-cresce-na-amazonia",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2020/03/06193651/Crian%C3%A7a-passando-repelente.jpg",
+      "publishedAt": "2024-02-20 15:01:40",
+      "content": "O per\u00edodo chuvoso provocou um novo alerta de sa\u00fade na cidade Manaus, capital do Amazonas. Segundo dados da Secretaria Municipal de Sa\u00fade (Semsa) da Prefeitura de Manaus, a cidade registrou at\u00e9 o in\u00edc\u2026 [+5552 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.931294",
+      "internal_id": "7e440b4715ff8da349324482d0693fd0dd1397fa37e3831096267509431ad265",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5734,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Muiris O'Cearbhaill",
+      "title": "One case of measles confirmed in Northern Ireland, linked to rise of cases across Europe",
+      "description": "The Public Health Authority in the North is urging those who have not recieved both doses of the MMR vaccine to do so.",
+      "url": "https://www.thejournal.ie/one-case-of-measles-confirmed-in-northern-ireland-6304536-Feb2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6304536/river/?height=400&version=6304675",
+      "publishedAt": "2024-02-20 14:58:50",
+      "content": "ONE CASE OF measles has been identified and confirmed in Northern Ireland by the Public Health Authority. The Authority has linked the single case to a rise in suspected and confirmed cases across E\u2026 [+2195 chars]",
+      "retrievedAt": "2024-02-21 19:05:19.951531",
+      "internal_id": "cf59bfc11cc8d23f6846805ed64f5b04ca8a6cdd0600b293b196d734f310c5ac",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5763,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: em meio a alta de casos, Campinas muda protocolo de atendimento de pacientes com sintomas; saiba quando procurar m\u00e9dico",
+      "description": "Nova orienta\u00e7\u00e3o \u00e9 que moradores da metr\u00f3pole busquem uma unidade de sa\u00fade assim que apresentarem febre. Casos leves, ap\u00f3s a primeira consulta, podem ser acompanhados via telemedicina. Mosquito Aedes Aegypti \u00e9 respons\u00e1vel por transmitir a dengue Reprodu\u00e7\u00e3o/EPT\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/20/dengue-em-meio-a-alta-de-casos-campinas-muda-protocolo-de-atendimento-de-pacientes-com-sintomas-saiba-quando-procurar-medico.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/D91lVDz2UOuoKmUA7XjMswQvox8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/9/ZXEUPfQHO78slTEX68Qw/capturar3.jpg",
+      "publishedAt": "2024-02-20 14:58:00",
+      "content": "Antes, a recomenda\u00e7\u00e3o da prefeitura era que os moradores procurassem atendimento m\u00e9dico quando o paciente apresentasse febre e mais dois sintomas associados, como dor de cabe\u00e7a, dor no corpo, n\u00e1usea,\u2026 [+2026 chars]",
+      "retrievedAt": "2024-02-21 19:05:21.036520",
+      "internal_id": "6a4a64b36bc1da305efe0066230e3d378d6c59926222ba1635016674c6f191bd",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5755,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Estado registra o quarto \u00f3bito por dengue em 2024",
+      "description": "Mulher de 64 anos, com comorbidades, residente em Tenente Portela, \u00e9 a quarta v\u00edtima fatal da dengue no Rio Grande do Sul; cidade lidera em n\u00famero de casos confirmados no estado",
+      "url": "https://www.terra.com.br/noticias/estado-registra-o-quarto-obito-por-dengue-em-2024,3ef5dc31e50f7174138676fec10ae00ett55gof8.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/20/1604117231-captura-de-tela-2023-04-11-as-174110-e1683306865917.jpg",
+      "publishedAt": "2024-02-20 14:34:23",
+      "content": "O Centro Estadual de Vigil\u00e2ncia em Sa\u00fade (Cevs), vinculado \u00e0 Secretaria da Sa\u00fade (SES), confirmou nesta segunda-feira o quarto \u00f3bito por dengue no Rio Grande do Sul em 2024. A v\u00edtima \u00e9 uma mulher de \u2026 [+1327 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.966460",
+      "internal_id": "29a059081d1a67fe38427f8711ab7778bac672b566d73be041a35b1b27e2bce3",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5767,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Worksinprogress.co",
+      "author": null,
+      "title": "I was deliberately infected with Zika to test a vaccine",
+      "description": "I was deliberately infected with Zika to test a vaccine. Human challenge trials like my one could save millions of lives by developing prophylactics more quickly.",
+      "url": "https://worksinprogress.co/issue/life-in-the-time-of-zika/",
+      "urlToImage": "https://wip.gatspress.com/wp-content/uploads/2024/02/4220922584_ac8db1a31f_b.jpg",
+      "publishedAt": "2024-02-20 13:40:30",
+      "content": "It started, as good things rarely do, with a tweet X: there was a human challenge trial looking for healthy men, 1840, near me. Previously, I had worked for 1Day Sooner, an organization that advoca\u2026 [+21596 chars]",
+      "retrievedAt": "2024-02-21 19:05:21.791102",
+      "internal_id": "ce74b9b479363d5a26fc4b040342773f50442c620eca1d7c8f7328214be8322e",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5743,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Tuesday, February 20, 2024",
+      "description": "Catholic hospitals, health industry consolidation, frozen embryos, Medicaid, teen drug misuse, covid vaccines, AI, and more are in the news.",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-february-20-2024/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing1.jpg",
+      "publishedAt": "2024-02-20 13:33:34",
+      "content": "Measles Outbreak At Florida School Prompts Investigation The Florida Department of Health in Broward County is reported to be looking into four confirmed cases at Manatee Bay Elementary School in We\u2026 [+7421 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.011534",
+      "internal_id": "3a8cd562d930408d249ccbc02cbebc86daa6a35df082eb0e27839edacbe74e4a",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5758,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Deutsche Welle",
+      "title": "Aquecimento global e descaso impulsionam dengue no Brasil",
+      "description": "Dados do governo indicam que pa\u00eds pode ter pior epidemia de dengue da sua hist\u00f3ria em 2024. ...",
+      "url": "https://www.terra.com.br/noticias/brasil/aquecimento-global-e-descaso-impulsionam-dengue-no-brasil,cd023aee0948b74b20e1539a883eb3eapdr0wvur.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/20/1499234146-68201959354.jpg",
+      "publishedAt": "2024-02-20 13:16:01",
+      "content": "Dados do governo indicam que pa\u00eds pode ter pior epidemia de dengue da sua hist\u00f3ria em 2024. Calor extremo e locais com ac\u00famulo de lixo favorecem prolifera\u00e7\u00e3o do mosquito transmissor da doen\u00e7a.Resisti\u2026 [+5842 chars]",
+      "retrievedAt": "2024-02-21 19:05:21.009889",
+      "internal_id": "fc4207e18a37fb09b11db155948e0a7346f90718d44b9047db10b151c8c875f3",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5759,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Amazonas tem surto de febre oropouche; saiba mais",
+      "description": "Os sintomas da doen\u00e7a s\u00e3o similares aos da dengue e chikungunya; todas estas enfermidades s\u00e3o transmitidas por insetos ou carrapatos",
+      "url": "https://brasil.perfil.com/saude/amazonas-tem-surto-de-febre-oropouche-saiba-mais.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/20/401243217-mosquito.jpg",
+      "publishedAt": "2024-02-20 13:12:52",
+      "content": "Manaus, cidade com 2,06 milh\u00f5es de habitantes, j\u00e1 registra tr\u00eas vezes mais casos de febre oropouche do que todos os registros do ano passado. A esta\u00e7\u00e3o chuvosa na Amaz\u00f4nia acendeu um novo alerta sani\u2026 [+2036 chars]",
+      "retrievedAt": "2024-02-21 19:05:21.013744",
+      "internal_id": "d3835924afc8ef4b2a93c9fd666862ac22bcdddc1a69f9a9dbbd9dffeaa343fe",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5757,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Gustavo Basso",
+      "title": "Aquecimento global e descaso impulsionam dengue no Brasil",
+      "description": "Dados do governo indicam que pa\u00eds pode ter pior epidemia de dengue da sua hist\u00f3ria em 2024. Calor extremo e locais com ac\u00famulo de lixo favorecem prolifera\u00e7\u00e3o do mosquito transmissor da doen\u00e7a.",
+      "url": "https://www.dw.com/pt-br/aquecimento-global-e-descaso-impulsionam-dengue-no-brasil/a-68294170",
+      "urlToImage": "https://static.dw.com/image/68201959_6.jpg",
+      "publishedAt": "2024-02-20 13:01:00",
+      "content": "Resistindo \u00e0s dores no quadril e coceira pelo corpo, o aposentado Aramis de Lima, de 62 anos, assiste com al\u00edvio a um batalh\u00e3o de funcion\u00e1rios da limpeza p\u00fablica retirarem cerca de duas toneladas de \u2026 [+5726 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.991929",
+      "internal_id": "e5621babfeb4013b08bf884305c68f60c1c88ffb2bc41dc0002cf5223798bf31",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5739,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Measles cases rose 79% globally last year: WHO",
+      "description": "GENEVA: The World Health Organization voiced alarm on Tuesday (Feb 20) at the rapid spread of measles, with more than 306,000 cases reported worldwide last year - a 79 per cent increase from 2022. \"We in the measles world are extremely concerned,\" said Natash\u2026",
+      "url": "https://www.channelnewsasia.com/world/measles-cases-rose-79-cent-globally-who-world-health-organization-4136421",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--28g-8-iE--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-04-27t144813z_1_lynxnpei3q0of_rtroptp_3_health-measles-congo.jpg?itok=pqQ9QrvF",
+      "publishedAt": "2024-02-20 12:22:16",
+      "content": "GENEVA: The World Health Organization voiced alarm on Tuesday (Feb 20) at the rapid spread of measles, with more than 306,000 cases reported worldwide last year - a 79 per cent increase from 2022. \"\u2026 [+1774 chars]",
+      "retrievedAt": "2024-02-21 19:05:19.986977",
+      "internal_id": "bbb766133920ff8c052704528f3476a2fb0142451704a2823895fc201196f150",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5744,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Belfast Live",
+      "author": "Https://www.belfastlive.co.uk/authors/lauren-harte/",
+      "title": "Measles warning symptoms as one case diagnosed in Northern Ireland",
+      "description": "Measles warning symptoms as one case diagnosed in Northern Irelandbelfastlive.co.uk",
+      "url": "https://www.belfastlive.co.uk/news/health/measles-northern-ireland-warning-vaccine-28667473",
+      "urlToImage": "https://i2-prod.belfastlive.co.uk/incoming/article28615812.ece/ALTERNATES/s1200/0_01HMGQ4D82ESA2X4CR3SPWMY1K.jpg",
+      "publishedAt": "2024-02-20 11:46:14",
+      "content": "One case of measles has been diagnosed in Northern Ireland, the Public Health Agency (PHA) has confirmed. According to the PHA, close contacts of the person affected have been notified and all appro\u2026 [+4241 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.015793",
+      "internal_id": "a3f27a28c7aaed6091ba92c4565a59dbb1682ebf1c9fbc4e8e9505831c95086f",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5740,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Burkina Faso: 'Possible' Measles Outbreak as Thousands of Cases, 9 Deaths Reported",
+      "description": "[Sidwaya] The ministry in charge of health has spoken of a possible measles epidemic in Burkina Faso as 2,190 suspected cases, including 960 confirmed and 5 deaths, were recorded in 2023. And from January 1 to February 10, 2024, i.e. in the 6th week of this y\u2026",
+      "url": "https://allafrica.com/stories/202402200251.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-02-20 11:37:00",
+      "content": "The ministry in charge of health has spoken of a possible measles epidemic in Burkina Faso as 2,190 suspected cases, including 960 confirmed and 5 deaths, were recorded in 2023. And from January 1 to\u2026 [+453 chars]",
+      "retrievedAt": "2024-02-21 19:05:19.991639",
+      "internal_id": "632155221b539bba725ff9998a77ed66574f1858e5fe4a3d7713fe659020ccbc",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5768,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Ivan Vil\u010dek",
+      "title": "Na Slovensku potvrdili v\u00fdskyt nebezpe\u010dn\u00e9ho tropick\u00e9ho kom\u00e1ra. U\u017e um\u00ed p\u0159ezimovat",
+      "description": "V\u00fdskyt kom\u00e1ra tygrovan\u00e9ho, kter\u00fd p\u0159en\u00e1\u0161\u00ed hore\u010dku dengue, \u017elutou zimnici, ale tak\u00e9 virus zika, potvrdili odborn\u00edci na Slovensku. Kom\u00e1r tygrovan\u00fd (Aedes albopictus) je p\u016fvodem z jihov\u00fdchodn\u00ed Asie a do cel\u00e9ho sv\u011bta se roz\u0161\u00ed\u0159il dovozem komodit, jako jsou pneumati\u2026",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-na-slovensku-potvrdili-vyskyt-nebezpecneho-tropickeho-komara-uz-umi-prezimovat-40461391",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_gQ_x/BtXCB/komar-tygrovany.jpeg?fl=cro,0,85,1800,1012%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2024-02-20 11:35:37",
+      "content": "V\u00fdskyt kdce na Slovensku potvrdilo Biomedicinsk\u00e9 centrum Slovensk\u00e9 akademie vd (SAV). Jedn\u00e1 se o jeden z nejnebezpenj\u00edch invazn\u00edch druh kom\u00e1r, kter\u00fd se vyskytuje v kontinent\u00e1ln\u00ed Evrop. Pen\u00e1\u00ed 22 rzn\u2026 [+945 chars]",
+      "retrievedAt": "2024-02-21 19:05:21.806822",
+      "internal_id": "ff439792e2927dd351d6e197ab60090604040be9b2744db372397252069dace7",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5756,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Dengue: mortes chegam a 113 no pa\u00eds e 438 \u00f3bitos s\u00e3o investigados",
+      "description": "Dados foram atualizados nesta segunda-feira pelo Minist\u00e9rio da Sa\u00fade",
+      "url": "https://saude.ig.com.br/2024-02-20/dengue--mortes-chegam-a-113-no-pais-e-438-obitos-sao-investigados.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
+      "publishedAt": "2024-02-20 10:58:38",
+      "content": "Desde 1\u00ba de janeiro, 113 pessoas morreram em todo o pa\u00eds em decorr\u00eancia de infec\u00e7\u00e3o por dengue . De acordo com o painel de monitoramento de arboviroses do Minist\u00e9rio da Sa\u00fade, h\u00e1 ainda 438 mortes em\u2026 [+809 chars]",
+      "retrievedAt": "2024-02-21 19:05:20.987620",
+      "internal_id": "efbbd01a1814e49ee14a09b55014db136faeff0222138ec9538c527c34df97e4",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5762,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: epidemia em Campinas este ano deve ficar entre as piores da hist\u00f3ria, diz especialista",
+      "description": "Com menos de dois meses, 2024 j\u00e1 est\u00e1 entre os 10 anos com mais casos da doen\u00e7a. Jardim Eulina, Jardim Aur\u00e9lia e Sousas lideram ranking. Aedes Aegypti, mosquito que transmite a dengue Reprodu\u00e7\u00e3o/EPTV O n\u00famero de casos confirmados de dengue em Campinas (SP) ch\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/20/dengue-epidemia-em-campinas-este-ano-deve-ficar-entre-as-piores-da-historia-diz-especialista.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/iZiUKfkL_tYdtEZU1L7vxkvvpX8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/q/M/SWN38BSFCgUn4MFQRKSA/dengue.jpg",
+      "publishedAt": "2024-02-20 10:20:37",
+      "content": "\u00c9 o que afirma o m\u00e9dico epidemiologista Andr\u00e9 Ribas Freitas, professor da Faculdade S\u00e3o Leopoldo Mandic e ex-coordenador do Programa Municipal de Controle da Dengue. \"Eu acredito que deve ser um an\u2026 [+5189 chars]",
+      "retrievedAt": "2024-02-21 19:05:21.026453",
+      "internal_id": "2b9827da5255fb85c3f657e6eb7464983f0f5a5a17ecd4a64efb2f78154cea59",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5738,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Measles in prison: vaccination and infection control for staff and prisoners",
+      "description": "Guidance for staff about measles and vaccination, information for prisoners to help identify measles and information for visitors.",
+      "url": "https://www.gov.uk/government/publications/measles-in-prison-vaccination-and-infection-control-for-staff-and-prisoners",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-02-20 10:02:02",
+      "content": "Information leaflets for prison staff, prisoners and visitors to secure settings including information on measles, symptoms and vacciantion. These leaflets are available for download only. Female a\u2026 [+85 chars]",
+      "retrievedAt": "2024-02-21 19:05:19.982466",
+      "internal_id": "1a0196b5752b89dd2a94c1c94f37404497437cb76dd41cbd937e6308b24dcfad",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5731,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Orlando Sentinel",
+      "title": "Woman in \u2018shock\u2019 over $6,000 bill for lifesaving rabies treatment",
+      "description": "A suspected bat bite turned into a $6,000 hospital bill for a Seminole County, Florida, woman. Worried she may have been exposed to rabies, Caroline Ford sought treatment from AdventHealth Altamonte Springs. She called her insurance company, Anthem Blue Cross\u2026",
+      "url": "https://www.rawstory.com/woman-in-shock-over-6000-bill-for-lifesaving-rabies-treatment/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=51506734&width=980",
+      "publishedAt": "2024-02-20 09:17:57",
+      "content": "\"Saints be praised!\" cried Stewart. \"For Professor Tucker!\" With joy in his eyes, Stewart took out pen and paper then asked Carlson to explain how best to do his job. Stewart then minced clips of th\u2026 [+1722 chars]",
+      "retrievedAt": "2024-02-21 19:05:19.567949",
+      "internal_id": "a2ba7e7823158cbb01129ad352118175711053c7624c5e0cac6dee13dbc1940d",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5765,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Com dengue em alta, dispara venda de repelente",
+      "description": "Varejo fatura mais em janeiro e fevereiro, a ind\u00fastria aumenta a produ\u00e7\u00e3o e o pre\u00e7o sobe",
+      "url": "https://valor.globo.com/empresas/noticia/2024/02/20/com-dengue-em-alta-dispara-venda-de-repelente.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/2IX48M1DBqXX_Cv1QN7qfDHcEhM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/g/q/KdrSi2Q5yfxBOAesw0yg/foto20emp-101-repele-b5.jpg",
+      "publishedAt": "2024-02-20 08:01:46",
+      "content": "O aumento de casos de dengue em todo o Brasil - j\u00e1 s\u00e3o mais de 653 mil casos prov\u00e1veis, com 113 mortes - tem provocado forte demanda por repelentes neste ver\u00e3o, com impacto no bolso do consumidor. Em\u2026 [+7026 chars]",
+      "retrievedAt": "2024-02-21 19:05:21.048803",
+      "internal_id": "499ef52b1fd4c3a30f6e6e005fdc0febecc4858f090e1e39833b115f8534de19",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5764,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Pre\u00e7os sobem 15,8%, diz Procon",
+      "description": "Nesta segunda-feira (19), o Minist\u00e9rio da Sa\u00fade registrou 653.656 casos prov\u00e1veis de dengue no pa\u00eds, sendo 286.528 confirmados (43,8% do total), e 113 \u00f3bitos, neste ano",
+      "url": "https://valor.globo.com/empresas/noticia/2024/02/20/precos-sobem-158-diz-procon.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-02-20 08:01:42",
+      "content": "Nesta segunda-feira (19), o Minist\u00e9rio da Sa\u00fade registrou 653.656 casos prov\u00e1veis de dengue no pa\u00eds, sendo 286.528 confirmados (43,8% do total), e 113 \u00f3bitos, neste ano",
+      "retrievedAt": "2024-02-21 19:05:21.040995",
+      "internal_id": "7c8d2f38ae0817bd0870440c35c0cfd6836ea9c8a6d2462c0c7da80d0444b72e",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5760,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue faz disparar venda de repelentes",
+      "description": "No m\u00eas passado, a receita do varejo com esses produtos cresceu 48,3% em compara\u00e7\u00e3o a janeiro de 2023, segundo pesquisa da NielsenIQ",
+      "url": "https://valor.globo.com/impresso/noticia/2024/02/20/dengue-faz-disparar-venda-de-repelentes.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-02-20 08:01:19",
+      "content": "O avan\u00e7o da dengue no pa\u00eds - j\u00e1 s\u00e3o mais de 653 mil casos, com 113 mortes - aumentou a demanda por repelentes, com reflexo nos pre\u00e7os. No m\u00eas passado, a receita do varejo com esses produtos cresceu 4\u2026 [+462 chars]",
+      "retrievedAt": "2024-02-21 19:05:21.017734",
+      "internal_id": "7aeb3cc20c7669285bece5ea3c0b277cac07b26a13b0c8a7f4c2eceea123bf3d",
+      "publishedAtLabel": "Feb 20"
+    },
     {
       "id": 5701,
       "query": [

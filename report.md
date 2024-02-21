@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 30
-- **Last harvest:** 2024-02-21 07:05
-- **Most recent article:** 2024-02-20 06:38:25
+- **New articles in last harvest:** 38
+- **Last harvest:** 2024-02-21 19:05
+- **Most recent article:** 2024-02-20 19:00:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 53 | 854 |
-| measles | 25 | 61 | 56 | 47 | 68 | 45 | 13 | 315 |
-| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 4 | 246 |
-| zika | 8 | 8 | 7 | 8 | 13 | 6 | 2 | 52 |
-| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 3 | 49 |
-| rabies | 5 | 5 | 9 | 7 | 7 | 9 | 1 | 43 |
+| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 66 | 867 |
+| measles | 25 | 61 | 56 | 47 | 68 | 45 | 28 | 330 |
+| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 5 | 247 |
+| zika | 8 | 8 | 7 | 8 | 13 | 6 | 4 | 54 |
+| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 4 | 50 |
+| rabies | 5 | 5 | 9 | 7 | 7 | 9 | 2 | 44 |
 | meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 1 | 38 |
 | mpox | 2 | 8 | 4 | 3 | 5 | 8 | 0 | 30 |
+| sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 6 | 22 |
 | pertussis | 2 | 5 | 2 | 3 | 2 | 6 | 0 | 20 |
-| sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 0 | 16 |
 | typhoid | 0 | 1 | 2 | 2 | 1 | 2 | 1 | 9 |
 | yersinia | 1 | 1 | 2 | 0 | 1 | 2 | 1 | 8 |
 | leptospirosis | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 5 |
@@ -32,6 +32,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-8 (zika)
+
+- [I was deliberately infected with Zika to test a vaccine](https://worksinprogress.co/issue/life-in-the-time-of-zika/) (Worksinprogress.co)
+
+- [Na Slovensku potvrdili výskyt nebezpečného tropického komára. Už umí přezimovat](https://www.novinky.cz/clanek/zahranicni-evropa-na-slovensku-potvrdili-vyskyt-nebezpecneho-tropickeho-komara-uz-umi-prezimovat-40461391) (Novinky.cz)
 
 - [Brasil supera 650 mil casos e 100 mortes por dengue em menos de dois meses](https://veja.abril.com.br/saude/brasil-supera-650-mil-casos-e-100-mortes-por-dengue-em-menos-de-dois-meses) (Abril.com.br)
 
@@ -45,7 +49,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Alice Eve’s 8 Best Acting Roles (Including Star Trek's Carol Marcus)](https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/) (Screen Rant)
 
+## 24-8 (sarampión)
+
+- [OMS alerta sobre fuerte aumento de casos de sarampión en el mundo](https://www.nacion.com/el-mundo/interes-humano/oms-alerta-sobre-fuerte-aumento-de-casos-de/FZQUXZS36FHUFNPLDSSE7CQYYA/story/) (Nacion.com)
+
+- [Como el COVID dominó, todos nos olvidamos del sarampión; ahora más de la mitad de países tendrá brotes, según la OMS](https://www.xataka.com.mx/medicina-y-salud/como-covid-domino-todos-nos-olvidamos-sarampion-ahora-mitad-paises-tendra-brotes-oms) (Xataka.com.mx)
+
+- [OMS: más de la mitad de los países sufrirán alto riesgo de brotes de sarampión este año](https://elmercurio.com.ec/2024/02/20/oms-mas-de-la-mitad-de-los-paises-sufriran-alto-riesgo-de-brotes-de-sarampion-este-ano/) (Elmercurio.com.ec)
+
+- [Más de la mitad de los países sufrirán alto riesgo de brotes de sarampión este año: OMS](https://www.forbes.com.mx/mas-de-la-mitad-de-los-paises-sufriran-alto-riesgo-de-brotes-de-sarampion-este-ano-oms/) (Forbes.com.mx)
+
+- [OMS: más de la mitad de los países sufrirán alto riesgo de brotes de sarampión este año](https://www.montevideo.com.uy/Salud/OMS-mas-de-la-mitad-de-los-paises-sufriran-alto-riesgo-de-brotes-de-sarampion-este-ano-uc880213) (Montevideo.com.uy)
+
+- [Más de la mitad de los países sufrirán alto riesgo de brotes de sarampión](https://www.eluniversal.com.co/salud/mas-de-la-mitad-de-los-paises-sufriran-alto-riesgo-de-brotes-de-sarampion-GC10035704) (Eluniversal.com.co)
+
 ## 24-8 (rabies)
+
+- [Woman in ‘shock’ over $6,000 bill for lifesaving rabies treatment](https://www.rawstory.com/woman-in-shock-over-6000-bill-for-lifesaving-rabies-treatment/) (Raw Story)
 
 - [BMC vaccinates 25k stray dogs against rabies](https://timesofindia.indiatimes.com/city/mumbai/bmc-vaccinates-25k-stray-dogs-against-rabies-in-mumbai/articleshow/107788368.cms) (The Times of India)
 
@@ -54,6 +74,36 @@ Source: [News API](https://newsapi.org/)
 - [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
+
+- [More than half the world faces high measles risk, WHO says](https://www.investing.com/news/coronavirus/more-than-half-the-world-faces-high-measles-risk-who-says-3308777) (Investing.com)
+
+- [More than half the world faces high measles risk, WHO says](https://www.marketscreener.com/news/latest/More-than-half-the-world-faces-high-measles-risk-WHO-says-45990303/) (Marketscreener.com)
+
+- [5th case of measles linked to Florida elementary school outbreak](https://abcnews.go.com/Health/5th-case-measles-linked-florida-elementary-school-outbreak/story?id=107361315) (ABC News)
+
+- [Measles virus continues to spread as WHO says more than half the world has high risk of contracting the virus](https://www.foxnews.com/health/measles-virus-continues-spread-who-says-more-half-world-high-risk-contracting-virus) (Fox News)
+
+- [Clermont County Public Health investigating potential measles case](https://www.wlwt.com/article/clermont-county-public-health-investigating-potential-measles-case-2024/46868925) (WLWT Cincinnati)
+
+- [More than half the world faces high measles risk, WHO says](https://www.jpost.com/health-and-wellness/article-787960) (The Jerusalem Post)
+
+- [Florida School Confirms Fifth Measles Case and 11% of the Kids are Unvaccinated](https://legalinsurrection.com/2024/02/florida-school-confirms-fifth-measles-case-and-11-of-the-kids-are-unvaccinated/) (Legalinsurrection.com)
+
+- [At Florida School, a 'Preventable' Outbreak](https://www.newser.com/story/346624/at-school-where-10-are-unvaxxed-a-measles-outbreak.html) (Newser)
+
+- [WHO raises alarm over rapid spread of measles cases](https://punchng.com/who-raises-alarm-over-rapid-spread-of-measles-cases/) (The Punch)
+
+- [One case of measles confirmed in Northern Ireland, linked to rise of cases across Europe](https://www.thejournal.ie/one-case-of-measles-confirmed-in-northern-ireland-6304536-Feb2024/) (TheJournal.ie)
+
+- [Tuesday, February 20, 2024](https://kffhealthnews.org/morning-briefing/tuesday-february-20-2024/) (Kffhealthnews.org)
+
+- [Measles cases rose 79% globally last year: WHO](https://www.channelnewsasia.com/world/measles-cases-rose-79-cent-globally-who-world-health-organization-4136421) (CNA)
+
+- [Measles warning symptoms as one case diagnosed in Northern Ireland](https://www.belfastlive.co.uk/news/health/measles-northern-ireland-warning-vaccine-28667473) (Belfast Live)
+
+- [Burkina Faso: 'Possible' Measles Outbreak as Thousands of Cases, 9 Deaths Reported](https://allafrica.com/stories/202402200251.html) (AllAfrica - Top Africa News)
+
+- [Guidance: Measles in prison: vaccination and infection control for staff and prisoners](https://www.gov.uk/government/publications/measles-in-prison-vaccination-and-infection-control-for-staff-and-prisoners) (Www.gov.uk)
 
 - [DeSantis making measles great again](https://www.lawyersgunsmoneyblog.com/2024/02/desantis-making-measles-great-again) (Lawyersgunsmoneyblog.com)
 
@@ -83,6 +133,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (malaria)
 
+- [Ulysses Biomed subsidiary concludes project worth more than EUR1 million](https://www.marketscreener.com/quote/stock/ULISSE-BIOMED-S-P-A-125608547/news/Ulysses-Biomed-subsidiary-concludes-project-worth-more-than-EUR1-million-45990514/) (Marketscreener.com)
+
 - [Dos especies de parásitos causantes de malaria presentes en Costa Rica](https://www.nacion.com/ciencia/salud/dos-especies-de-parasitos-causantes-de-malaria/E37XK6PERBAOTFMCNX32BI7JA4/story/) (Nacion.com)
 
 - [Medizin: "Manche Viren machen es einem eben leicht"](https://www.sueddeutsche.de/gesundheit/impfstoffe-entwicklung-malaria-corona-aids-1.6376009) (Süddeutsche Zeitung)
@@ -92,6 +144,32 @@ Source: [News API](https://newsapi.org/)
 - [The journey with malaria so far](https://punchng.com/the-journey-with-malaria-so-far/) (The Punch)
 
 ## 24-8 (dengue)
+
+- [H1N1, covid-19 ou dengue: como identificar as diferenças entre as doenças virais?](https://www.terra.com.br/vida-e-estilo/h1n1-covid-19-ou-dengue-como-identificar-as-diferencas-entre-as-doencas-virais,57a640aee650b39cd43e77ed6110c7dcilbwqrcu.html) (Terra.com.br)
+
+- [Adorni culpó al kirchnerismo por el brote de dengue y la invasión de mosquitos](https://www.lanacion.com.ar/politica/adorni-culpo-al-kirchnerismo-por-el-brote-de-dengue-y-la-invasion-de-mosquitos-y-un-diputado-lo-nid20022024/) (La Nacion)
+
+- [Febre oropouche: número de casos segue crescendo no Amazonas](https://www.metropoles.com/saude/febre-oropouche-cresce-na-amazonia) (Metropoles.com)
+
+- [Dengue: em meio a alta de casos, Campinas muda protocolo de atendimento de pacientes com sintomas; saiba quando procurar médico](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/20/dengue-em-meio-a-alta-de-casos-campinas-muda-protocolo-de-atendimento-de-pacientes-com-sintomas-saiba-quando-procurar-medico.ghtml) (Globo)
+
+- [Estado registra o quarto óbito por dengue em 2024](https://www.terra.com.br/noticias/estado-registra-o-quarto-obito-por-dengue-em-2024,3ef5dc31e50f7174138676fec10ae00ett55gof8.html) (Terra.com.br)
+
+- [Aquecimento global e descaso impulsionam dengue no Brasil](https://www.terra.com.br/noticias/brasil/aquecimento-global-e-descaso-impulsionam-dengue-no-brasil,cd023aee0948b74b20e1539a883eb3eapdr0wvur.html) (Terra.com.br)
+
+- [Amazonas tem surto de febre oropouche; saiba mais](https://brasil.perfil.com/saude/amazonas-tem-surto-de-febre-oropouche-saiba-mais.phtml) (Perfil.com)
+
+- [Aquecimento global e descaso impulsionam dengue no Brasil](https://www.dw.com/pt-br/aquecimento-global-e-descaso-impulsionam-dengue-no-brasil/a-68294170) (DW (English))
+
+- [Dengue: mortes chegam a 113 no país e 438 óbitos são investigados](https://saude.ig.com.br/2024-02-20/dengue--mortes-chegam-a-113-no-pais-e-438-obitos-sao-investigados.html) (Ig.com.br)
+
+- [Dengue: epidemia em Campinas este ano deve ficar entre as piores da história, diz especialista](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/20/dengue-epidemia-em-campinas-este-ano-deve-ficar-entre-as-piores-da-historia-diz-especialista.ghtml) (Globo)
+
+- [Com dengue em alta, dispara venda de repelente](https://valor.globo.com/empresas/noticia/2024/02/20/com-dengue-em-alta-dispara-venda-de-repelente.ghtml) (Globo)
+
+- [Preços sobem 15,8%, diz Procon](https://valor.globo.com/empresas/noticia/2024/02/20/precos-sobem-158-diz-procon.ghtml) (Globo)
+
+- [Dengue faz disparar venda de repelentes](https://valor.globo.com/impresso/noticia/2024/02/20/dengue-faz-disparar-venda-de-repelentes.ghtml) (Globo)
 
 - [Veja quais são as 22 cidades mineiras que devem receber a vacina da dengue primeiro](https://noticias.r7.com/minas-gerais/veja-quais-sao-as-22-cidades-mineiras-que-devem-receber-a-vacina-da-dengue-primeiro-20022024) (R7.com)
 
@@ -200,6 +278,8 @@ Source: [News API](https://newsapi.org/)
 - [Casos de chikungunya disparam 42% em meio à epidemia de dengue](https://noticias.r7.com/cidades/casos-de-chikungunya-disparam-epidemia-de-dengue-18022024) (R7.com)
 
 ## 24-8 (chikungunya)
+
+- [Amazonas tem surto de febre oropouche; saiba mais](https://brasil.perfil.com/saude/amazonas-tem-surto-de-febre-oropouche-saiba-mais.phtml) (Perfil.com)
 
 - [Brasil supera 650 mil casos e 100 mortes por dengue em menos de dois meses](https://veja.abril.com.br/saude/brasil-supera-650-mil-casos-e-100-mortes-por-dengue-em-menos-de-dois-meses) (Abril.com.br)
 
