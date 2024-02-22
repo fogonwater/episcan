@@ -1,8 +1,548 @@
 {
-  "last_updated": "2024-02-21 19:05",
-  "count_articles_total": 1662,
-  "count_articles_new": 38,
+  "last_updated": "2024-02-22 07:05",
+  "count_articles_total": 1696,
+  "count_articles_new": 34,
   "articles": [
+    {
+      "id": 5782,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Leandro Costa Criscuolo",
+      "title": "Covid-19 e dengue: como diferenciar os sintomas?",
+      "description": "Ainda que ambas as doen\u00e7as causem sintomas similares, existem algumas diferen\u00e7as importantes para ficar atento O post Covid-19 e dengue: como diferenciar os sintomas? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/21/medicina-e-saude/covid-19-e-dengue-como-diferenciar-os-sintomas/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/02/dengue-695x500.jpg",
+      "publishedAt": "2024-02-21 06:34:00",
+      "content": "At\u00e9 agora, 2024 tem sido um ano em que observamos uma antecipa\u00e7\u00e3o dos casos de dengue, que costumam ter pico em mar\u00e7o/abril, depois da temporada de f\u00e9rias e o de carnaval. Junto a isso, houve tamb\u00e9m \u2026 [+1625 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.326321",
+      "internal_id": "2dc6e1f4f0c411104c4a984fa1075838f2342ac0c65d3b893f367ad4ea26d010",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5794,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "\u201cEla era cativante\u201d, diz m\u00e3e de crian\u00e7a morta por dengue hemorr\u00e1gica",
+      "description": "Garota de 8 anos morreu no Hospital Regional de Santa Maria. Segundo a fam\u00edlia, sintomas evolu\u00edram rapidamente",
+      "url": "https://www.metropoles.com/distrito-federal/ela-era-cativante-diz-mae-de-crianca-morta-por-dengue-hemorragica",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/20204221/ela-era-cativante-chora-mae-de-menina-de-8-anos-morta-por-dengue-hemorragica.jpg",
+      "publishedAt": "2024-02-21 05:11:28",
+      "content": "Ela cativava todo mundo. \u00c9 dessa maneira que uma m\u00e3e descreve a filha que agora n\u00e3o poder\u00e1 mais abra\u00e7ar. A menina de 8 anos morreu na sexta-feira (16/2), no Hospital Regional de Santa Maria, ap\u00f3s con\u2026 [+9982 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.437251",
+      "internal_id": "70eaf796f4202443fe8d965deb6a0fcfbe6ed042a83b186010840cff17cc1270",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5793,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Dengue: semana mais letal no DF foi de 28/1 a 3/2, com 10 mortes",
+      "description": "No total, DF j\u00e1 notificou 38 \u00f3bitos pela doen\u00e7a e outros 72 seguem em investiga\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-semana-mais-letal-no-df-foi-de-28-1-a-3-2-com-10-mortes",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06184115/Hospital-de-campanha-da-Forc%CC%A7a-Ae%CC%81rea-Brasileira-FAB-na-Ceila%CC%82ndia-tem-movimento-intenso-de-pacientes-buscando-atendimento-contra-a-dengue-Metro%CC%81poles-6.jpg",
+      "publishedAt": "2024-02-21 05:11:26",
+      "content": "Desde o in\u00edcio do ano de 2024, o Distrito Federal registrou 38 mortes por dengue. Segundo dados da Secretaria de Sa\u00fade (SES-DF), a semana mais letal foi entre 28 de janeiro e 3 de fevereiro, per\u00edodo \u2026 [+4816 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.433023",
+      "internal_id": "23dbeb0a5a052afd303aacc9ae60f7892eb92141d375acc529a20f44e2d43f56",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5789,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Daniela Santos",
+      "title": "Dengue: casos sobem mais de 300% em 2024. Pico ainda vir\u00e1, diz Sa\u00fade",
+      "description": "Pa\u00eds registrou 688.461 casos de dengue nas primeiras semanas do ano. Alta \u00e9 impactada pelo fen\u00f4meno El Ni\u00f1o, explicam especialistas",
+      "url": "https://www.metropoles.com/brasil/dengue-casos-sobem-mais-de-300-em-2024-pico-ainda-vira-diz-saude",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2024-02-21 05:00:52",
+      "content": "O Brasil ultrapassou a marca dos 680 mil casos de dengue, segundo mostram os dados mais recentes do Painel de Monitoramento das Arboviroses, do Minist\u00e9rio da Sa\u00fade. O pa\u00eds registrou um total de 688.4\u2026 [+2580 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.389100",
+      "internal_id": "f7e6487b1f10e069c3f8f0cf102bcf449418817166c779b9b1ee6e7e8dd69cc4",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5786,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Farm\u00e1cias registraram alta de 2.000% na procura por testes de dengue",
+      "description": "O aumento foi registrado em janeiro deste ano em compara\u00e7\u00e3o com o mesmo per\u00edodo de 2023, nas drogarias Pacheco e S\u00e3o Paulo",
+      "url": "https://www.metropoles.com/brasil/farmacias-registraram-alta-de-2-000-na-procura-por-testes-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/24153734/Exame-diagnostico-de-dengue.jpg",
+      "publishedAt": "2024-02-21 05:00:50",
+      "content": "O Brasil enfrenta um aumento expressivo nos casos de dengue, o que tem impulsionado a demanda pelos testes capazes de identificar a doen\u00e7a nas farm\u00e1cias de todo o pa\u00eds. As unidades da Pacheco e S\u00e3o P\u2026 [+5639 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.377837",
+      "internal_id": "a241a488c9b0ec6966d845365008b57b21d1c8e4f193d692639213d83a3222f8",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5785,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luana Viana",
+      "title": "Dengue pode causar sequelas em crian\u00e7as? Saiba os riscos",
+      "description": "\"Eu sou uma defensora do cuidado e do uso do repelente, dengue \u00e9 uma doen\u00e7a s\u00e9ria, eu quase perdi minha filha\", diz m\u00e3e",
+      "url": "https://www.metropoles.com/brasil/dengue-pode-causar-sequelas-em-criancas-saiba-os-riscos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06114205/Dengue-nao-e-privilegio-do-DF-e-preocupa-ate-Lula-diz-Celina.jpg",
+      "publishedAt": "2024-02-21 05:00:36",
+      "content": "O Brasil enfrenta, neste in\u00edcio de 2024, um aumento acelerado de casos de dengue. A doen\u00e7a se espalhou por todos os cantos do pa\u00eds e atinge pacientes de todas as idades, dos mais jovens aos mais velh\u2026 [+5812 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.373684",
+      "internal_id": "721856dc34d164a53d80f6f8f3dc4d8aee6a14bf75323f5cfd2e3719290a872b",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5787,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Loratadina pode? Veja quais s\u00e3o os rem\u00e9dios indicados para a dengue",
+      "description": "Alguns rem\u00e9dios ajudam a controlar os sintomas da dengue, entretanto h\u00e1 medicametnos que podem piorar (e muito) a gravidade da doen\u00e7a",
+      "url": "https://www.metropoles.com/saude/remedios-indicados-para-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/05124729/Foto-pessoa-com-as-maos-na-cabeca-olhando-um-termometro.jpg",
+      "publishedAt": "2024-02-21 05:00:07",
+      "content": "O Brasil j\u00e1 ultrapassou 680 mil casos de dengue desde o in\u00edcio do ano e a tend\u00eancia \u00e9 que os n\u00fameros continuem a subir at\u00e9 abril, cumprindo o ciclo epidemiol\u00f3gico da doen\u00e7a. A dengue desperta preocup\u2026 [+7766 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.381602",
+      "internal_id": "9fa833b5f2d72478c63040c56fe793b8affd9a2e4134c37b43084e10161c554f",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5802,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Zhuang, Y.-D., Chen, Y.-Z., Lin, Q.-Y., Chen, Y.-X., Zhong, S.-Q., Lei, D., Chen, C.-M.",
+      "title": "Computerised modified paramedian approach technique versus conventional midline approach technique of lumbar puncture: a randomised control trial protocol",
+      "description": "Introduction The lumbar puncture (LP) technique is widely used for diagnostic and therapeutic purposes. In recent years, the paramedian approach technique (PAT) has gained increasing interest due to its advantages over the conventional midline approach tech\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/2/e077941?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-02-21 04:43:19",
+      "content": "Introduction Lumbar puncture (LP), initially introduced by Heinrich Quinke in 1891 for alleviating elevated intracranial pressure in meningitis cases, has emerged as a crucial diagnostic and therape\u2026 [+2881 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.848505",
+      "internal_id": "e93c1c87294682a2bf3a3bbf0635b2c0ee74acaa28a664c3ae3c35ced2bcdf74",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5770,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WXII12 Winston-Salem",
+      "author": "Carolyn Conte",
+      "title": "North Carolina health officials confirm rabies case in a kitten",
+      "description": "Someone found stray kittens in Davidson County, but after trying to help them, the county found out one of them had rabies.",
+      "url": "https://www.wxii12.com/article/north-carolina-davidson-county-health-department-confirms-rabies-case-stray-kitten/46874024",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wxii/13417504-13417504.jpg?crop=1.00xw:0.752xh;0,0.0609xh&resize=1200:*",
+      "publishedAt": "2024-02-21 01:14:29",
+      "content": "THOMASVILLE, N.C. \u2014The Davidson County Health Department confirmed its third positive rabies case of 2024. Someone from Davidson County found several stray kittens, according to the department. One\u2026 [+1502 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.662437",
+      "internal_id": "7b73f81faa62376c14bee23ab1864a77c326d8474b19d316025e3e418646cc1d",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5783,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Vitoria Lopes Gomez",
+      "title": "Inc\u00eandio, dengue e morte de boto-cor-de-rosa: veja cinco consequ\u00eancias do El Ni\u00f1o na Am\u00e9rica Latina",
+      "description": "Fen\u00f4meno natural acontece entre alguns anos, mas especialistas acreditam que mudan\u00e7as clim\u00e1ticas o tenham intensificado O post Inc\u00eandio, dengue e morte de boto-cor-de-rosa: veja cinco consequ\u00eancias do El Ni\u00f1o na Am\u00e9rica Latina apareceu primeiro em Olhar Digit\u2026",
+      "url": "https://olhardigital.com.br/2024/02/20/ciencia-e-espaco/incendio-dengue-e-morte-de-boto-cor-de-rosa-veja-cinco-consequencias-do-el-nino-na-america-latina/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/02/DALL\u00b7E-2024-02-20-21.06.44-An-impactful-wide-composition-that-illustrates-the-severe-effects-of-El-Nino-in-Latin-America.-The-scene-divides-into-four-distinct-sections-each-rep-695x500.webp",
+      "publishedAt": "2024-02-21 00:43:12",
+      "content": "O El Ni\u00f1o foi protagonista em 2023: o fen\u00f4meno que aqueceu as \u00e1guas do Oceano Pac\u00edfico provocou ondas de calor no Brasil e causou inc\u00eandios, inunda\u00e7\u00f5es e altera\u00e7\u00e3o do esquema de chuvas ao redor do mu\u2026 [+3661 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.332994",
+      "internal_id": "45c5973be0c907c6796eeb08142204634ce46cc4ed3874694547f6562c0ddb8a",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5773,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Nina Golgowski",
+      "title": "Measles Outbreak At Florida Elementary School After CDC Warns Of Nationwide Rise",
+      "description": "At least five cases of the highly contagious virus have been confirmed at the school outside of Fort Lauderdale since last week.",
+      "url": "https://www.huffpost.com/entry/measles-outbreak-broward-county-elementary-school_n_65d50006e4b0f7fbe7b45180",
+      "urlToImage": "https://img.huffingtonpost.com/asset/65d51d5b2500003200dba21a.jpeg?cache=Mw5fzWglaF&ops=1200_630",
+      "publishedAt": "2024-02-20 23:17:46",
+      "content": "Multiple cases of the measles virus have been confirmed at a South Florida elementary school, with the outbreak coming weeks after a nationwide alert went out to physicians about an uptick in cases. \u2026 [+5040 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.918832",
+      "internal_id": "ffe3a38f4d8f99844a85373cbe770620f09fc269c79566b03669025e37c611da",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5781,
+      "query": [
+        "measles"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Beth Mole, Ars Technica",
+      "title": "Measles Strikes a Florida Elementary School With Over 100 Unvaccinated Kids",
+      "description": "Nearly 11 percent of the students aren't fully immunized, prompting concerns of broader infection.",
+      "url": "https://www.wired.com/story/measles-school-unvaccinated-florida/",
+      "urlToImage": "https://media.wired.com/photos/65d506124c93a37631ba1084/191:100/w_1280,c_limit/Measles-Ars-science-GettyImages-1359395685.jpg",
+      "publishedAt": "2024-02-20 23:14:00",
+      "content": "Florida health officials on Sunday announced an investigation into a cluster of measles cases at an elementary school in the Fort Lauderdale area with a low vaccination rate, a scenario health expert\u2026 [+4154 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.992332",
+      "internal_id": "d1bcedbf833a65720123cfe1fb8ebd5be190d26cb95547b86592eb9273a38ef0",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5792,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Menina de 8 anos morre no DF ap\u00f3s contrair dengue hemorr\u00e1gica",
+      "description": "Garota foi atendida no Hospital de Santa Maria, mas n\u00e3o resistiu. DF enfrenta grave epidemia e contabiliza 38 \u00f3bitos por dengue",
+      "url": "https://www.metropoles.com/distrito-federal/menina-de-8-anos-morre-no-df-apos-contrair-dengue-hemorragica",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/26180736/dengue-casa2.jpg",
+      "publishedAt": "2024-02-20 23:08:42",
+      "content": "Uma menina de apenas 8 anos morreu v\u00edtima de dengue hemorr\u00e1gica no Hospital Regional de Santa Maria, na manh\u00e3 de sexta-feira (16/02). Segundo o atestado de \u00f3bito, a crian\u00e7a, al\u00e9m da doen\u00e7a, tamb\u00e9m te\u2026 [+8398 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.429258",
+      "internal_id": "1100efd2583768d8769e3a703a04b48dee39b43c893ffab10df38edd0763de38",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5780,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPLG Local 10",
+      "author": "Hatzel Vela",
+      "title": "Officials report 6th measles case at Broward school; superintendent reassures parents",
+      "description": "A sixth confirmed measles case has been confirmed at Manatee Bay Elementary School. The Broward superintendent visited the campus Tuesday to reassure parents.",
+      "url": "https://www.local10.com/news/local/2024/02/20/officials-report-6th-measles-case-at-broward-school-superintendent-reassures-parents/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/02-20-2024/t_3c745c7e0f3a4b2fbf8a00f825580344_name_image.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-02-20 23:05:35",
+      "content": "WESTON, Fla. Broward Superintendent Peter Licata visited Manatee Bay Elementary School Tuesday to allay parents fears over a series of measles cases affecting students at the Weston campus. It came \u2026 [+1785 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.985823",
+      "internal_id": "cd5a636038f7461bd7ec1d24eb54ab18f94d7be3dbff478a411fa43fcc3ba9a6",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5776,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WHIO",
+      "author": "Whio Staff",
+      "title": "Shoppers exposed to measles at busy Kroger, health officials say",
+      "description": "Those who may have been in contact with the infected person are being notified by local health departments.",
+      "url": "https://www.whio.com/news/local/shoppers-exposed-measles-busy-kroger-health-officials-say/UGUSQWABJVA2XG27D7UFABPK6U/",
+      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/ftvtT-Z6-TwyUSkp6sVHeyKOCuQ=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/02-20-2024/t_8a650430528748c3be4af585b19e04b0_name_https___www_wsbradio_com__rw_Pub_p10_CmgSharedContent_2019_04_29_Images_1280px_Morbillivirus_measles_infection.jpg",
+      "publishedAt": "2024-02-20 23:05:27",
+      "content": "MIAMI COUNTY \u2014 A case of measles has been identified in a Miami County resident, according to a spokesperson with Miami County Public Health. News Center 7 is breaking down everything we learn on Ne\u2026 [+1626 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.954428",
+      "internal_id": "055e322aa470569fb62a6472c1ce0c260ad9d4dc1d2cc1daf3d31ad5aaafb4c6",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5779,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "One America News Network",
+      "author": null,
+      "title": "Health Officials Examine Measles Outbreak Linked To Florida Elementary School",
+      "description": "The Florida Department of Health is examining a measles outbreak that is purportedly linked to a South Florida elementary school.",
+      "url": "https://www.oann.com/newsroom/health-officials-examine-measles-outbreak-linked-to-florida-elementary-school/",
+      "urlToImage": "https://c3.oann.com/wp-content/uploads/2024/02/GettyImages-462803914-1-1.webp",
+      "publishedAt": "2024-02-20 22:58:42",
+      "content": "1972: In this handout from the Centers for Disease Control and Prevention (CDC), a histopathology of measles pneumonia is seen in this microscope image from 1972. Measles outbreaks have been reported\u2026 [+4907 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.974500",
+      "internal_id": "264142cde29399d9dccf7c1ad672b50d53d1af437c1366b72f00c185a26393e7",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5778,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDTN.com",
+      "author": "Alex Pearson",
+      "title": "Public Health has identified case of Measles in Miami Co.",
+      "description": "Video from previous coverage of measles in the Miami Valley ENGLEWOOD, Ohio (WDTN) \u2014 A Miami County resident has been identified with a case of measles, prompting a warning for the community. Public Health just shared this warning with 2 NEWS: If you were in \u2026",
+      "url": "https://www.wdtn.com/news/local-news/confirmed-case-of-measles-in-miami-county/",
+      "urlToImage": "https://www.wdtn.com/wp-content/uploads/sites/45/2024/01/GettyImages-1196157315-e1706646492255.jpg?w=1280",
+      "publishedAt": "2024-02-20 22:41:34",
+      "content": "Video from previous coverage of measles in the Miami Valley ENGLEWOOD, Ohio (WDTN) \u2014 A Miami County resident has been identified with a case of measles, prompting a warning for the community. Publi\u2026 [+855 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.970721",
+      "internal_id": "7964febca6dee947ef95239f5633df3ea45fbe983c42ec4d303874d11bb938a8",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5774,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Katie Mogg",
+      "title": "Five cases of measles confirmed in an outbreak at a Florida elementary school",
+      "description": "Five people have been diagnosed with measles in an outbreak at an elementary School in Weston, Florida.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-outbreak-florida-elementary-school-rcna139637",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240220-manatee-bay-elementary-school-florida-measles-se-203p-199d55.jpg",
+      "publishedAt": "2024-02-20 22:38:19",
+      "content": "Six people have been diagnosed with measles in an outbreak at the Manatee Bay Elementary School in Weston, Florida. The Florida Department of Health in Broward County announced in a notice to local \u2026 [+3776 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.922527",
+      "internal_id": "8c08b26c63c096e443684a619f0d9aa9b01d4964377a51ad83cc17bda32eff6b",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5777,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Isaac Callan",
+      "title": "Ontario health units told to prepare for \u2018potential outbreaks\u2019 of measles | Globalnews.ca",
+      "description": "Ontario's chief medical officer of health is warning public health agencies to be prepared and roll out vaccinations after two cases of measles were reported in the province.",
+      "url": "https://globalnews.ca/news/10306344/ontario-measles-public-health-memo/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2024/02/CP26168667.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2024-02-20 22:15:18",
+      "content": "Ontario\u2019s top doctor is warning public health agencies to be ready and prepared for a potential increase in the number of measles cases after two were reported in the Greater Toronto Area. Dr. Kiera\u2026 [+1511 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.964134",
+      "internal_id": "9b11355c08f2e312454bd6ec13fe55b4e8bf9036ed96736f60e585281f3aa929",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5791,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "Ibaneis ap\u00f3s 38 mortes por dengue: \u201cPrecisamos do apoio da popula\u00e7\u00e3o\u201d",
+      "description": "Ap\u00f3s o DF confirmar 38 mortes por dengue em 2024, o governador Ibaneis disse que o GDF tem feito a parte dele, mas precisa de ajuda do povo",
+      "url": "https://www.metropoles.com/colunas/grande-angular/ibaneis-apos-38-mortes-por-dengue-precisamos-do-apoio-da-populacao",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/30115005/ibaneis-agenda-ceilandia-drenagem-aguas-pluviais-dengue.jpg",
+      "publishedAt": "2024-02-20 21:52:06",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.424947",
+      "internal_id": "e3070576a4cebadde7d0db53f11a51ef9a8ccbb2b0ad7ab8a9c0ca6daa89b701",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5772,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "More than half the world faces high measles risk, WHO says",
+      "description": "More than half the world's countries will be at high or very high risk of measles outbreaks by the end of the year unless urgent preventative measures are taken, the World Health Organization warned on Tuesday. Measles cases have been increasing across most r\u2026",
+      "url": "https://japantoday.com/category/features/health/more-than-half-the-world-faces-high-measles-risk-who-says1",
+      "urlToImage": null,
+      "publishedAt": "2024-02-20 21:50:39",
+      "content": "More than half the world's countries will be at high or very high risk of measles outbreaks by the end of the year unless urgent preventative measures are taken, the World Health Organization warned \u2026 [+1817 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.889647",
+      "internal_id": "7dcf60b782c96ebb0ffc8dab0679515df2b0f51cfb8cd4135b7629079e4fe588",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5795,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "F\u00e1bia Oliveira",
+      "title": "Andr\u00e9a Veiga recebe convite inesperado ap\u00f3s ter Covid-19 e dengue",
+      "description": "A ex-paquita relembrou quando contraiu as duas doen\u00e7as ao mesmo tempo: \u201cFoi praticamente um combo de Carnaval que eu ganhei\u201d. Confira!",
+      "url": "https://www.metropoles.com/colunas/fabia-oliveira/andrea-veiga-recebe-convite-inesperado-apos-ter-covid-19-e-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/20174433/Captura-de-tela-2024-02-20-174404_resized_compressed.jpg",
+      "publishedAt": "2024-02-20 20:52:12",
+      "content": "Andr\u00e9a Veiga relembrou quando teve dengue e Covid-19 ao mesmo tempo. A ex-paquita deu a declara\u00e7\u00e3o para o RJTV1, telejornal local da TV Globo, exibido no Rio de Janeiro. Foi praticamente um combo de \u2026 [+1711 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.445825",
+      "internal_id": "6c1f908a839e9f42c38689755bcd2b3f0d1a19e77348dac7fedbc636bf9a4923",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5775,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": null,
+      "title": "The Irish Times view on measles and vaccination: anti-science propaganda must be rejected",
+      "description": "A decline in the number of children receiving the MMR vaccine is leading to a fall the percentage of the population who have immunity",
+      "url": "https://www.irishtimes.com/opinion/editorials/2024/02/20/the-irish-times-view-on-measles-and-vaccination-anti-science-propaganda-must-be-rejected/",
+      "urlToImage": "https://www.irishtimes.com/resizer/duiQ4inM72pq1OYibfgZ5srUPMs=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/D2XM3ITFBECZP5OYDLJY5EYYCU.jpg",
+      "publishedAt": "2024-02-20 20:40:00",
+      "content": "The recent death of a 48-year-old man in Mullingar hospital has highlighted deepening concern among medical experts in Ireland and across Europe at the increasing threat of measles. The man had contr\u2026 [+2604 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.936920",
+      "internal_id": "f740950601ca59ad13eb7ecd99e3b29a00d50151ddad0ea5d2c841b50ddb3be3",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5784,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "DF registra 38 mortes por dengue e lidera ranking no pa\u00eds",
+      "description": "O Distrito Federal investiga ainda 78 mortes classificadas como suspeitas e que tamb\u00e9m podem ter sido provocadas pela dengue",
+      "url": "https://valor.globo.com/brasil/noticia/2024/02/20/df-registra-38-mortes-por-dengue-e-lidera-ranking-no-pais.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/Eu6CcviNM2XS5iRRDk9unb1VGE0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/U/1/huaqwQSVKP23vvGGSXRg/dengue18.jpg",
+      "publishedAt": "2024-02-20 20:33:47",
+      "content": "O Distrito Federal contabiliza, desde o in\u00edcio do ano, 38 mortes por dengue. O n\u00famero coloca a unidade federativa em primeiro lugar no ranking, na frente at\u00e9 mesmo de Minas Gerais, que tem o maior n\u00fa\u2026 [+1442 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.361963",
+      "internal_id": "458865f0e2aeff37f8d81c00ef6ee98616877d9a4e03c2a20326516bbbf8b185",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5796,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mobiletime.com.br",
+      "author": "Anna Baisi",
+      "title": "Drones s\u00e3o usados para frear a prolifera\u00e7\u00e3o da dengue",
+      "description": "Projeto desenvolvido pela BirdView, em parceria com a Embrapa e apoio da Fapesp, tenta firmar parcerias com criadores de insetos est\u00e9reis em fase de testes",
+      "url": "https://www.mobiletime.com.br/noticias/20/02/2024/drones-sao-usados-para-frear-a-proliferacao-da-dengue/",
+      "urlToImage": "https://www.mobiletime.com.br/wp-content/uploads/2024/02/drone.png",
+      "publishedAt": "2024-02-20 20:29:29",
+      "content": "Um drone decola, seguindo uma rota pr\u00e9-planejada, e solta no ambiente insetos ben\u00e9ficos para o controle biol\u00f3gico de pragas os machos est\u00e9reis de Aedes aegypti (que n\u00e3o picam). Esses mosquitos procur\u2026 [+3383 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.457295",
+      "internal_id": "4a0fb55c993a136a5c18ef76c3ff122a653cc52c62d528ac5cac0cd671745774",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5771,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sara Moniuszko",
+      "title": "Measles cases rose 79% globally last year, WHO says",
+      "description": "The World Health Organization is warning about the rapid spread of measles around the world. As a Florida school district deals with confirmed cases, experts share why we're seeing the rise.",
+      "url": "https://www.cbsnews.com/news/measles-cases-rose-worldwide-2023-who/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/02/af52901c-0b59-4b3a-b4ef-fd367f2c887d/thumbnail/1200x630/f8208680f4e731a0676881c5e7bb3aad/gettyimages-1196157315.jpg?v=2a01790210e495d24a119503c08f840d",
+      "publishedAt": "2024-02-20 20:00:10",
+      "content": "The World Health Organization is warning about the rapid spread of measles around the world, noting a 79% increase from 2022, with more than 306,000 cases reported last year. In a news conference Tu\u2026 [+3415 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.882699",
+      "internal_id": "d2ee9ea354287be95b0066a179309b6240ec437d1e5ea5b90bef5a62178f25b1",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5769,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "St\u00e9phanie Hegelbach",
+      "title": "Veterinary epidemiologist works to combat rabies in Uganda",
+      "description": "Around the world, someone dies from rabies every nine minutes of every day. Uganda records more than 130 rabies deaths annually, but the number of unreported rabies fatalities there is presumably much higher. Dog bites are the cause of more than 95% of all ra\u2026",
+      "url": "https://phys.org/news/2024-02-veterinary-epidemiologist-combat-rabies-uganda.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/rabid-dogs-in-uganda.jpg",
+      "publishedAt": "2024-02-20 19:33:04",
+      "content": "Around the world, someone dies from rabies every nine minutes of every day. Uganda records more than 130 rabies deaths annually, but the number of unreported rabies fatalities there is presumably muc\u2026 [+7640 chars]",
+      "retrievedAt": "2024-02-22 07:05:53.645103",
+      "internal_id": "412abb4582230b55d4985bbcac9e559628349a709db9be81389e2ffd0ccf87f6",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5788,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "X\u00f4, dengue: fumac\u00ea \u00e9 aplicado dentro de garagem de \u00f4nibus no DF. V\u00eddeo",
+      "description": "O Distrito Federal confirmou 35 mortes provocadas pela dengue e 84 mil casos prov\u00e1veis da doen\u00e7a, em 2024",
+      "url": "https://www.metropoles.com/colunas/grande-angular/xo-dengue-fumace-e-aplicado-dentro-de-garagem-de-onibus-no-df-video",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/20155937/fumace-dengue.jpeg",
+      "publishedAt": "2024-02-20 19:24:41",
+      "content": "O fumac\u00ea foi aplicado dentro da garagem de \u00f4nibus da empresa Marechal, uma das cinco que atuam no transporte p\u00fablico do Distrito Federal, na manh\u00e3 desta ter\u00e7a-feira (20/2). O inseticida age contra o\u2026 [+521 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.385187",
+      "internal_id": "040862353a9cdca590a2fe9c58e31bff1b2b05614312e9b1b0db008e2790c660",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5797,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "The Music Journal Brazil",
+      "title": "Surto da dengue: 'Profiss\u00e3o Rep\u00f3rter' mostra o drama da doen\u00e7a no Brasil",
+      "description": "O surto de casos de dengue que tem assolado o pa\u00eds nos \u00faltimos meses \u00e9 o tema do Profiss\u00e3o ...",
+      "url": "https://www.terra.com.br/diversao/surto-da-dengue-profissao-reporter-mostra-o-drama-da-doenca-no-brasil,cf817e9cbd9fc11eb913472e566a41d2ukjz18iv.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/20/1884497482-profissao-reporter-globo.jpg",
+      "publishedAt": "2024-02-20 19:21:53",
+      "content": "O surto de casos de dengue que tem assolado o pa\u00eds nos \u00faltimos meses \u00e9 o tema do Profiss\u00e3o Rep\u00f3rter desta ter\u00e7a-feira (20). O Brasil ultrapassou a marca de meio milh\u00e3o de casos apenas em 2024 e uma p\u2026 [+2485 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.466014",
+      "internal_id": "e8aadd605d94589934cdff81afb05623a538ea698a66ec3103f32eb29d76b712",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5790,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Dengue: Secretaria de Sa\u00fade confirma 38 mortes pela doen\u00e7a no DF",
+      "description": "Segundo a Secretaria de Sa\u00fade, outros 72 \u00f3bitos est\u00e3o em investiga\u00e7\u00e3o. Em 2024, j\u00e1 foram registrados 81.408 casos prov\u00e1veis de dengue",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-secretaria-de-saude-confirma-38-mortes-pela-doenca-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08095316/hospital-de-campanha-atendendo-casos-de-dengue-no-DF-4.jpeg",
+      "publishedAt": "2024-02-20 19:16:16",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.420775",
+      "internal_id": "4ea563e4667138150a8cf3a7df76602db8145c20a326b7e99efd2df426e9264d",
+      "publishedAtLabel": "Feb 20"
+    },
     {
       "id": 5751,
       "query": [
@@ -181,6 +721,24 @@
       "content": "More than half the world's countries will be at high or very high risk of measles outbreaks by the end of the year unless urgent preventative measures are taken, the World Health Organization warned \u2026 [+1907 chars]",
       "retrievedAt": "2024-02-21 19:05:19.997098",
       "internal_id": "b3e14ddaa47b943b93a5ff24e8c3a4150a5a5ad73eac101240e3dc5ddc6ee8d7",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5800,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Combate \u00e0 dengue: uso de inseticida em nebuliza\u00e7\u00e3o noturna aumenta 132% em Campinas",
+      "description": "Processo acontece durante \u00e0 noite, quando a temperatura est\u00e1 mais amena. Prefeitura une estrat\u00e9gia com vistoria diurna em busca de criadouros para conter epidemia da doen\u00e7a. Regi\u00e3o de Campinas intensifica nebuliza\u00e7\u00e3o noturna no combate ao Aedes aegypti Uma da\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/20/combate-a-dengue-uso-de-inseticida-em-nebulizacao-noturna-aumenta-132percent-veja-como-funciona.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/71OFgFZTxH4GQwywbYfhxMAKwJ4=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/12371631.jpg",
+      "publishedAt": "2024-02-20 16:31:10",
+      "content": "Dia e noite, o combate contra a dengue n\u00e3o pode parar. O melhor hor\u00e1rio para realizar a nebuliza\u00e7\u00e3o \u00e9 quanto o Sol est\u00e1 menos intenso, ou seja, no fim do dia ou no amanhecer. Isso porque a temperatur\u2026 [+2553 chars]",
+      "retrievedAt": "2024-02-22 07:05:54.524563",
+      "internal_id": "6924417d083f8a2e4b3755d5092bb3f5c3505a541483ea3ef1d8646ecc8f6a6e",
       "publishedAtLabel": "Feb 20"
     },
     {
@@ -635,6 +1193,24 @@
       "publishedAtLabel": "Feb 20"
     },
     {
+      "id": 5799,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Lucro da BHP tem queda de 86% no 1\u00ba semestre",
+      "description": "Ganho fo de US$ 927 milh\u00f5es nos seis meses at\u00e9 dezembro de 2023",
+      "url": "https://valor.globo.com/empresas/noticia/2024/02/20/lucro-da-bhp-tem-queda-de-86-no-1o-semestre.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-02-20 08:02:18",
+      "content": "Nesta segunda-feira (19), o Minist\u00e9rio da Sa\u00fade registrou 653.656 casos prov\u00e1veis de dengue no pa\u00eds, sendo 286.528 confirmados (43,8% do total), e 113 \u00f3bitos, neste ano",
+      "retrievedAt": "2024-02-22 07:05:54.520442",
+      "internal_id": "e8648478e42e2bdc61471f66360e81982e36a1c072e516af91d3ead319088df4",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
       "id": 5765,
       "query": [
         "dengue"
@@ -671,6 +1247,24 @@
       "publishedAtLabel": "Feb 20"
     },
     {
+      "id": 5798,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "IA j\u00e1 prev\u00ea o que o aluno vai errar",
+      "description": "A plataforma educacional da startup Max.ia est\u00e1 sendo utilizada por cerca de 60 mil alunos de escolas particulares do pa\u00eds e come\u00e7a a ser ofertada na rede p\u00fablica de duas cidades do Nordeste neste ano",
+      "url": "https://valor.globo.com/empresas/noticia/2024/02/20/ia-ja-preve-o-que-o-aluno-vai-errar.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-02-20 08:01:37",
+      "content": "Nesta segunda-feira (19), o Minist\u00e9rio da Sa\u00fade registrou 653.656 casos prov\u00e1veis de dengue no pa\u00eds, sendo 286.528 confirmados (43,8% do total), e 113 \u00f3bitos, neste ano",
+      "retrievedAt": "2024-02-22 07:05:54.516461",
+      "internal_id": "cfa00b2c436a2682767dc5723a246eedc40228bf83483f3bdcbd72d87c54fdbc",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
       "id": 5760,
       "query": [
         "dengue"
@@ -686,6 +1280,24 @@
       "content": "O avan\u00e7o da dengue no pa\u00eds - j\u00e1 s\u00e3o mais de 653 mil casos, com 113 mortes - aumentou a demanda por repelentes, com reflexo nos pre\u00e7os. No m\u00eas passado, a receita do varejo com esses produtos cresceu 4\u2026 [+462 chars]",
       "retrievedAt": "2024-02-21 19:05:21.017734",
       "internal_id": "7aeb3cc20c7669285bece5ea3c0b277cac07b26a13b0c8a7f4c2eceea123bf3d",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 5801,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Super Bowl mostra a for\u00e7a da TV, mas \u00e9 preciso medir a rede social",
+      "description": "A cantora Taylor Swift criou um valor de marca de US$ 122 milh\u00f5es para a NFL",
+      "url": "https://valor.globo.com/empresas/noticia/2024/02/20/super-bowl-mostra-a-forca-da-tv-mas-e-preciso-medir-a-rede-social.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/ef5HMuTIz57031h0zqEbOr9BTfg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/Z/T/bsB5HhRtOlGNUPjz4qqQ/foto20emp-101-kantar-b6.jpg",
+      "publishedAt": "2024-02-20 08:01:09",
+      "content": "Nesta segunda-feira (19), o Minist\u00e9rio da Sa\u00fade registrou 653.656 casos prov\u00e1veis de dengue no pa\u00eds, sendo 286.528 confirmados (43,8% do total), e 113 \u00f3bitos, neste ano",
+      "retrievedAt": "2024-02-22 07:05:54.528493",
+      "internal_id": "a901fe3840cda306336f81ff235cefcee3d92e27034e17264ffb2bfd4901e451",
       "publishedAtLabel": "Feb 20"
     },
     {

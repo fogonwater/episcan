@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 38
-- **Last harvest:** 2024-02-21 19:05
-- **Most recent article:** 2024-02-20 19:00:00
+- **New articles in last harvest:** 34
+- **Last harvest:** 2024-02-22 07:05
+- **Most recent article:** 2024-02-21 06:34:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 66 | 867 |
-| measles | 25 | 61 | 56 | 47 | 68 | 45 | 28 | 330 |
+| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 86 | 887 |
+| measles | 25 | 61 | 56 | 47 | 68 | 45 | 39 | 341 |
 | malaria | 51 | 26 | 86 | 25 | 35 | 19 | 5 | 247 |
 | zika | 8 | 8 | 7 | 8 | 13 | 6 | 4 | 54 |
 | chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 4 | 50 |
-| rabies | 5 | 5 | 9 | 7 | 7 | 9 | 2 | 44 |
-| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 1 | 38 |
+| rabies | 5 | 5 | 9 | 7 | 7 | 9 | 4 | 46 |
+| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 2 | 39 |
 | mpox | 2 | 8 | 4 | 3 | 5 | 8 | 0 | 30 |
 | sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 6 | 22 |
 | pertussis | 2 | 5 | 2 | 3 | 2 | 6 | 0 | 20 |
@@ -65,15 +65,43 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (rabies)
 
+- [North Carolina health officials confirm rabies case in a kitten](https://www.wxii12.com/article/north-carolina-davidson-county-health-department-confirms-rabies-case-stray-kitten/46874024) (WXII12 Winston-Salem)
+
+- [Veterinary epidemiologist works to combat rabies in Uganda](https://phys.org/news/2024-02-veterinary-epidemiologist-combat-rabies-uganda.html) (Phys.Org)
+
 - [Woman in ‘shock’ over $6,000 bill for lifesaving rabies treatment](https://www.rawstory.com/woman-in-shock-over-6000-bill-for-lifesaving-rabies-treatment/) (Raw Story)
 
 - [BMC vaccinates 25k stray dogs against rabies](https://timesofindia.indiatimes.com/city/mumbai/bmc-vaccinates-25k-stray-dogs-against-rabies-in-mumbai/articleshow/107788368.cms) (The Times of India)
 
 ## 24-8 (meningitis)
 
+- [Computerised modified paramedian approach technique versus conventional midline approach technique of lumbar puncture: a randomised control trial protocol](https://bmjopen.bmj.com/content/14/2/e077941?rss=1) (The BMJ)
+
 - [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
+
+- [Measles Outbreak At Florida Elementary School After CDC Warns Of Nationwide Rise](https://www.huffpost.com/entry/measles-outbreak-broward-county-elementary-school_n_65d50006e4b0f7fbe7b45180) (HuffPost)
+
+- [Measles Strikes a Florida Elementary School With Over 100 Unvaccinated Kids](https://www.wired.com/story/measles-school-unvaccinated-florida/) (Wired)
+
+- [Officials report 6th measles case at Broward school; superintendent reassures parents](https://www.local10.com/news/local/2024/02/20/officials-report-6th-measles-case-at-broward-school-superintendent-reassures-parents/) (WPLG Local 10)
+
+- [Shoppers exposed to measles at busy Kroger, health officials say](https://www.whio.com/news/local/shoppers-exposed-measles-busy-kroger-health-officials-say/UGUSQWABJVA2XG27D7UFABPK6U/) (WHIO)
+
+- [Health Officials Examine Measles Outbreak Linked To Florida Elementary School](https://www.oann.com/newsroom/health-officials-examine-measles-outbreak-linked-to-florida-elementary-school/) (One America News Network)
+
+- [Public Health has identified case of Measles in Miami Co.](https://www.wdtn.com/news/local-news/confirmed-case-of-measles-in-miami-county/) (WDTN.com)
+
+- [Five cases of measles confirmed in an outbreak at a Florida elementary school](https://www.nbcnews.com/health/health-news/measles-outbreak-florida-elementary-school-rcna139637) (NBC News)
+
+- [Ontario health units told to prepare for ‘potential outbreaks’ of measles | Globalnews.ca](https://globalnews.ca/news/10306344/ontario-measles-public-health-memo/) (Global News)
+
+- [More than half the world faces high measles risk, WHO says](https://japantoday.com/category/features/health/more-than-half-the-world-faces-high-measles-risk-who-says1) (Japan Today)
+
+- [The Irish Times view on measles and vaccination: anti-science propaganda must be rejected](https://www.irishtimes.com/opinion/editorials/2024/02/20/the-irish-times-view-on-measles-and-vaccination-anti-science-propaganda-must-be-rejected/) (The Irish Times)
+
+- [Measles cases rose 79% globally last year, WHO says](https://www.cbsnews.com/news/measles-cases-rose-worldwide-2023-who/) (CBS News)
 
 - [More than half the world faces high measles risk, WHO says](https://www.investing.com/news/coronavirus/more-than-half-the-world-faces-high-measles-risk-who-says-3308777) (Investing.com)
 
@@ -145,7 +173,41 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (dengue)
 
+- [Covid-19 e dengue: como diferenciar os sintomas?](https://olhardigital.com.br/2024/02/21/medicina-e-saude/covid-19-e-dengue-como-diferenciar-os-sintomas/) (Olhardigital.com.br)
+
+- [“Ela era cativante”, diz mãe de criança morta por dengue hemorrágica](https://www.metropoles.com/distrito-federal/ela-era-cativante-diz-mae-de-crianca-morta-por-dengue-hemorragica) (Metropoles.com)
+
+- [Dengue: semana mais letal no DF foi de 28/1 a 3/2, com 10 mortes](https://www.metropoles.com/distrito-federal/dengue-semana-mais-letal-no-df-foi-de-28-1-a-3-2-com-10-mortes) (Metropoles.com)
+
+- [Dengue: casos sobem mais de 300% em 2024. Pico ainda virá, diz Saúde](https://www.metropoles.com/brasil/dengue-casos-sobem-mais-de-300-em-2024-pico-ainda-vira-diz-saude) (Metropoles.com)
+
+- [Farmácias registraram alta de 2.000% na procura por testes de dengue](https://www.metropoles.com/brasil/farmacias-registraram-alta-de-2-000-na-procura-por-testes-de-dengue) (Metropoles.com)
+
+- [Dengue pode causar sequelas em crianças? Saiba os riscos](https://www.metropoles.com/brasil/dengue-pode-causar-sequelas-em-criancas-saiba-os-riscos) (Metropoles.com)
+
+- [Loratadina pode? Veja quais são os remédios indicados para a dengue](https://www.metropoles.com/saude/remedios-indicados-para-a-dengue) (Metropoles.com)
+
+- [Incêndio, dengue e morte de boto-cor-de-rosa: veja cinco consequências do El Niño na América Latina](https://olhardigital.com.br/2024/02/20/ciencia-e-espaco/incendio-dengue-e-morte-de-boto-cor-de-rosa-veja-cinco-consequencias-do-el-nino-na-america-latina/) (Olhardigital.com.br)
+
+- [Menina de 8 anos morre no DF após contrair dengue hemorrágica](https://www.metropoles.com/distrito-federal/menina-de-8-anos-morre-no-df-apos-contrair-dengue-hemorragica) (Metropoles.com)
+
+- [Ibaneis após 38 mortes por dengue: “Precisamos do apoio da população”](https://www.metropoles.com/colunas/grande-angular/ibaneis-apos-38-mortes-por-dengue-precisamos-do-apoio-da-populacao) (Metropoles.com)
+
+- [Andréa Veiga recebe convite inesperado após ter Covid-19 e dengue](https://www.metropoles.com/colunas/fabia-oliveira/andrea-veiga-recebe-convite-inesperado-apos-ter-covid-19-e-dengue) (Metropoles.com)
+
+- [DF registra 38 mortes por dengue e lidera ranking no país](https://valor.globo.com/brasil/noticia/2024/02/20/df-registra-38-mortes-por-dengue-e-lidera-ranking-no-pais.ghtml) (Globo)
+
+- [Drones são usados para frear a proliferação da dengue](https://www.mobiletime.com.br/noticias/20/02/2024/drones-sao-usados-para-frear-a-proliferacao-da-dengue/) (Mobiletime.com.br)
+
+- [Xô, dengue: fumacê é aplicado dentro de garagem de ônibus no DF. Vídeo](https://www.metropoles.com/colunas/grande-angular/xo-dengue-fumace-e-aplicado-dentro-de-garagem-de-onibus-no-df-video) (Metropoles.com)
+
+- [Surto da dengue: 'Profissão Repórter' mostra o drama da doença no Brasil](https://www.terra.com.br/diversao/surto-da-dengue-profissao-reporter-mostra-o-drama-da-doenca-no-brasil,cf817e9cbd9fc11eb913472e566a41d2ukjz18iv.html) (Terra.com.br)
+
+- [Dengue: Secretaria de Saúde confirma 38 mortes pela doença no DF](https://www.metropoles.com/distrito-federal/dengue-secretaria-de-saude-confirma-38-mortes-pela-doenca-no-df) (Metropoles.com)
+
 - [H1N1, covid-19 ou dengue: como identificar as diferenças entre as doenças virais?](https://www.terra.com.br/vida-e-estilo/h1n1-covid-19-ou-dengue-como-identificar-as-diferencas-entre-as-doencas-virais,57a640aee650b39cd43e77ed6110c7dcilbwqrcu.html) (Terra.com.br)
+
+- [Combate à dengue: uso de inseticida em nebulização noturna aumenta 132% em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/20/combate-a-dengue-uso-de-inseticida-em-nebulizacao-noturna-aumenta-132percent-veja-como-funciona.ghtml) (Globo)
 
 - [Adorni culpó al kirchnerismo por el brote de dengue y la invasión de mosquitos](https://www.lanacion.com.ar/politica/adorni-culpo-al-kirchnerismo-por-el-brote-de-dengue-y-la-invasion-de-mosquitos-y-un-diputado-lo-nid20022024/) (La Nacion)
 
@@ -165,11 +227,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: epidemia em Campinas este ano deve ficar entre as piores da história, diz especialista](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/20/dengue-epidemia-em-campinas-este-ano-deve-ficar-entre-as-piores-da-historia-diz-especialista.ghtml) (Globo)
 
+- [Lucro da BHP tem queda de 86% no 1º semestre](https://valor.globo.com/empresas/noticia/2024/02/20/lucro-da-bhp-tem-queda-de-86-no-1o-semestre.ghtml) (Globo)
+
 - [Com dengue em alta, dispara venda de repelente](https://valor.globo.com/empresas/noticia/2024/02/20/com-dengue-em-alta-dispara-venda-de-repelente.ghtml) (Globo)
 
 - [Preços sobem 15,8%, diz Procon](https://valor.globo.com/empresas/noticia/2024/02/20/precos-sobem-158-diz-procon.ghtml) (Globo)
 
+- [IA já prevê o que o aluno vai errar](https://valor.globo.com/empresas/noticia/2024/02/20/ia-ja-preve-o-que-o-aluno-vai-errar.ghtml) (Globo)
+
 - [Dengue faz disparar venda de repelentes](https://valor.globo.com/impresso/noticia/2024/02/20/dengue-faz-disparar-venda-de-repelentes.ghtml) (Globo)
+
+- [Super Bowl mostra a força da TV, mas é preciso medir a rede social](https://valor.globo.com/empresas/noticia/2024/02/20/super-bowl-mostra-a-forca-da-tv-mas-e-preciso-medir-a-rede-social.ghtml) (Globo)
 
 - [Veja quais são as 22 cidades mineiras que devem receber a vacina da dengue primeiro](https://noticias.r7.com/minas-gerais/veja-quais-sao-as-22-cidades-mineiras-que-devem-receber-a-vacina-da-dengue-primeiro-20022024) (R7.com)
 
