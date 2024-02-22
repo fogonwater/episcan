@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 34
-- **Last harvest:** 2024-02-22 07:05
-- **Most recent article:** 2024-02-21 06:34:00
+- **New articles in last harvest:** 39
+- **Last harvest:** 2024-02-22 19:05
+- **Most recent article:** 2024-02-21 18:53:09
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 86 | 887 |
-| measles | 25 | 61 | 56 | 47 | 68 | 45 | 39 | 341 |
-| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 5 | 247 |
-| zika | 8 | 8 | 7 | 8 | 13 | 6 | 4 | 54 |
+| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 104 | 905 |
+| measles | 25 | 61 | 56 | 47 | 68 | 45 | 47 | 349 |
+| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 14 | 256 |
+| zika | 8 | 8 | 7 | 8 | 13 | 6 | 5 | 55 |
 | chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 4 | 50 |
 | rabies | 5 | 5 | 9 | 7 | 7 | 9 | 4 | 46 |
 | meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 2 | 39 |
-| mpox | 2 | 8 | 4 | 3 | 5 | 8 | 0 | 30 |
-| sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 6 | 22 |
+| mpox | 2 | 8 | 4 | 3 | 5 | 8 | 2 | 32 |
+| sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 7 | 23 |
 | pertussis | 2 | 5 | 2 | 3 | 2 | 6 | 0 | 20 |
 | typhoid | 0 | 1 | 2 | 2 | 1 | 2 | 1 | 9 |
 | yersinia | 1 | 1 | 2 | 0 | 1 | 2 | 1 | 8 |
@@ -32,6 +32,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-8 (zika)
+
+- [High-resolution RNA tertiary structures in Zika virus stem-loop A for the development of inhibitory small molecules [Article]](https://rnajournal.cshlp.org/content/early/2024/02/21/rna.079796.123.short?rss=1) (Cshlp.org)
 
 - [I was deliberately infected with Zika to test a vaccine](https://worksinprogress.co/issue/life-in-the-time-of-zika/) (Worksinprogress.co)
 
@@ -50,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 - [Alice Eve’s 8 Best Acting Roles (Including Star Trek's Carol Marcus)](https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/) (Screen Rant)
 
 ## 24-8 (sarampión)
+
+- [El sarampión se propaga rápidamente por el mundo, alerta OMS](https://www.meneame.net/m/actualidad/sarampion-propaga-rapidamente-mundo-alerta-oms) (Meneame.net)
 
 - [OMS alerta sobre fuerte aumento de casos de sarampión en el mundo](https://www.nacion.com/el-mundo/interes-humano/oms-alerta-sobre-fuerte-aumento-de-casos-de/FZQUXZS36FHUFNPLDSSE7CQYYA/story/) (Nacion.com)
 
@@ -73,6 +77,12 @@ Source: [News API](https://newsapi.org/)
 
 - [BMC vaccinates 25k stray dogs against rabies](https://timesofindia.indiatimes.com/city/mumbai/bmc-vaccinates-25k-stray-dogs-against-rabies-in-mumbai/articleshow/107788368.cms) (The Times of India)
 
+## 24-8 (mpox)
+
+- [What is Alaskapox? A microbiologist explains the recently discovered virus that just claimed its first fatality](https://theconversation.com/what-is-alaskapox-a-microbiologist-explains-the-recently-discovered-virus-that-just-claimed-its-first-fatality-223470) (The Conversation Africa)
+
+- [Bavarian Nordic delivered record financial results in 2023](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-delivered-record-financial-results-in-2023-45994098/) (Marketscreener.com)
+
 ## 24-8 (meningitis)
 
 - [Computerised modified paramedian approach technique versus conventional midline approach technique of lumbar puncture: a randomised control trial protocol](https://bmjopen.bmj.com/content/14/2/e077941?rss=1) (The BMJ)
@@ -80,6 +90,22 @@ Source: [News API](https://newsapi.org/)
 - [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
+
+- [Broward measles cases: Surgeon general ‘deferring to parents and guardians’ on school attendance](https://www.local10.com/health/2024/02/21/broward-measles-cases-surgeon-general-deferring-to-parents-and-guardians-on-school-attendance/) (WPLG Local 10)
+
+- [11 possible cases of measles in Ireland last week, according to latest report](https://www.thejournal.ie/measles-cases-ireland-2-6305842-Feb2024/) (TheJournal.ie)
+
+- [Disease expert Michael Baker warns ‘severe’ measles epidemic likely amid failing immunisation rates](https://www.nzherald.co.nz/nz/epidemiologist-michael-baker-warns-severe-measles-epidemic-likely-amid-failing-immunisation-rates/3TVRZINVH5CYTBPT6XKO2F5IQU/) (New Zealand Herald)
+
+- [Florida elementary school confirms 6th case of measles amid outbreak](https://www.foxnews.com/health/florida-elementary-school-confirms-6th-case-measles-outbreak) (Fox News)
+
+- [Florida Measles Outbreak Grows as New Case Reported](https://www.newsweek.com/florida-measles-outbreak-map-new-case-reported-1871930) (Newsweek)
+
+- [Measles Outbreak Spreads Through Florida Elementary School - Videos from The Weather Channel](https://weather.com/health/video/measles-outbreak-spreads-through-florida-elementary-school) (The Weather Channel)
+
+- [No Vaccine? No Problem! Florida Wants Your Unvaccinated Kids In School During a Measles Outbreak](https://www.motherjones.com/politics/2024/02/no-vaccine-no-problem-florida-wants-your-unvaccinated-kids-in-school-during-a-measles-outbreak/) (Mother Jones)
+
+- [Aotearoa on the brink of measles 'epidemic' - Professor Michael Baker](https://www.1news.co.nz/2024/02/21/aotearoa-on-the-brink-of-measles-epidemic-professor-michael-baker/) (1news.co.nz)
 
 - [Measles Outbreak At Florida Elementary School After CDC Warns Of Nationwide Rise](https://www.huffpost.com/entry/measles-outbreak-broward-county-elementary-school_n_65d50006e4b0f7fbe7b45180) (HuffPost)
 
@@ -161,6 +187,24 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (malaria)
 
+- [Kouamé ha la malaria, arriva il ricovero per l'attaccante della Fiorentina](https://www.ilgiornale.it/news/calcio/kouam-ha-malaria-arriva-ricovero-lattaccante-fiorentina-2286949.html) (Ilgiornale.it)
+
+- [El delantero del Fiorentina Kouamé, con malaria](https://www.mundodeportivo.com/futbol/internacional/20240221/1002195071/delantero-fiorentina-kouame-ingresado-malaria.html) (Mundodeportivo.com)
+
+- [Kouamé ricoverato a Firenze, ha contratto la malaria](https://www.ansa.it/sito/notizie/sport/calcio/2024/02/21/kouame-ricoverato-a-firenze-ha-contratto-la-malaria_6d332621-996d-417d-8055-3ad51d8f0a21.html) (ANSA.it)
+
+- [Calcio: Kouamé ricoverato a Firenze, ha contratto la malaria](https://www.ansa.it/toscana/notizie/2024/02/21/calcio-kouame-ricoverato-a-firenze-ha-contratto-la-malaria_aef18a52-98be-42c5-bb5b-57d29d0e86da.html) (ANSA.it)
+
+- [Fiorentina confirm Kouame contracted malaria at AFCON](https://football-italia.net/fiorentina-confirm-kouame-contracted-malaria-at-afcon/) (Football Italia)
+
+- [Fiorentina, Kouame risultato positivo a un test per la malaria di ritorno dalla Costa d'Avorio](https://www.tuttomercatoweb.com/serie-a/fiorentina-kouame-risultato-positivo-a-un-test-per-la-malaria-di-ritorno-dalla-costa-d-avorio-1937821) (Tuttomercatoweb.com)
+
+- [Could a Harvard botanist unlock the secrets of psychedelics in the Amazon?](https://www.bostonglobe.com/2024/02/21/magazine/a-harvard-botanist-saw-the-promise-of-psychedelic-medicine/) (The Boston Globe)
+
+- [Pet dogs smell Parkinson's disease with almost 90 per cent accuracy](https://www.newscientist.com/article/2417922-pet-dogs-smell-parkinsons-disease-with-almost-90-per-cent-accuracy/) (New Scientist)
+
+- [Fällor med ko-urin sätter stopp för malariamygg](https://www.aftonbladet.se/nyheter/a/76bJBK/fallor-med-ko-urin-satter-stopp-for-malariamygg) (Aftonbladet.se)
+
 - [Ulysses Biomed subsidiary concludes project worth more than EUR1 million](https://www.marketscreener.com/quote/stock/ULISSE-BIOMED-S-P-A-125608547/news/Ulysses-Biomed-subsidiary-concludes-project-worth-more-than-EUR1-million-45990514/) (Marketscreener.com)
 
 - [Dos especies de parásitos causantes de malaria presentes en Costa Rica](https://www.nacion.com/ciencia/salud/dos-especies-de-parasitos-causantes-de-malaria/E37XK6PERBAOTFMCNX32BI7JA4/story/) (Nacion.com)
@@ -172,6 +216,42 @@ Source: [News API](https://newsapi.org/)
 - [The journey with malaria so far](https://punchng.com/the-journey-with-malaria-so-far/) (The Punch)
 
 ## 24-8 (dengue)
+
+- [Governo do Rio de Janeiro decreta epidemia de dengue no estado](https://saude.ig.com.br/2024-02-21/governo-rio-decreta-epidemia-dengue-stado.html) (Ig.com.br)
+
+- [Dengue: São Paulo registra mais duas mortes e total chega a 17](https://www.metropoles.com/sao-paulo/dengue-sao-paulo-registra-mais-duas-mortes-e-total-chega-a-17-vitimas) (Metropoles.com)
+
+- [Dengue: quais os sintomas, quando é hora de ir ao PS e quem pode se vacinar no SUS?](https://www.bbc.com/portuguese/articles/czq44g6z082o) (BBC News)
+
+- [Dengue: mosquito “prefere” tipo sanguíneo O e quem acabou de beber](https://www.metropoles.com/distrito-federal/dengue-mosquito-prefere-tipo-sanguineo-o-e-quem-acabou-de-beber) (Metropoles.com)
+
+- [Orientações importantes sobre os repelentes contra a dengue](https://saude.ig.com.br/parceiros/edicase/2024-02-21/orientacoes-importantes-sobre-os-repelentes-contra-a-dengue.html) (Ig.com.br)
+
+- [Estado do Rio de Janeiro decreta epidemia de dengue](https://www.metropoles.com/brasil/estado-do-rio-de-janeiro-decreta-epidemia-de-dengue) (Metropoles.com)
+
+- [El estado de Río de Janeiro decreta epidemia de dengue por aumento histórico de casos](https://sputniknews.lat/20240221/el-estado-de-rio-de-janeiro-decreta-epidemia-de-dengue-por-aumento-historico-de-casos-1148423580.html) (Sputniknews.lat)
+
+- [Estado do Rio de Janeiro decreta epidemia de dengue](https://noticias.r7.com/rio-de-janeiro/estado-do-rio-de-janeiro-decreta-epidemia-de-dengue-21022024) (R7.com)
+
+- [Fact Check. Surto de dengue no Brasil está relacionado com vacina contra a Covid da Pfizer?](https://observador.pt/factchecks/fact-check-surto-de-dengue-no-brasil-esta-relacionado-com-vacina-contra-a-covid-da-pfizer/) (Observador.pt)
+
+- [Campanha quer mobilizar 25 milhões de estudantes no combate à dengue](https://www.metropoles.com/brasil/campanha-quer-mobilizar-25-milhoes-de-estudantes-no-combate-a-dengue) (Metropoles.com)
+
+- [Embaixada dos EUA emite alerta para viajantes sobre dengue no Brasil](https://veja.abril.com.br/saude/embaixada-dos-eua-emite-alerta-para-viajantes-sobre-dengue-no-brasil) (Abril.com.br)
+
+- [I VIRUS DEI POVERI INTERESSANO SOLO QUANDO ARRIVANO AI RICCHI – LA DENGUE E NON SOLO: SONO 20 LE “MALATTIE NEGLETTE”, QUELLE CHE NESSUNO IN OCCIDENTE CERCA DI CURARE PERCHÉ COLPISCONO IL TERZO MONDO, DOVE SI INFETTANO UN MILIARDO E 700 MILIONI DI PERSONE – MA CON LA GLOBALIZZAZIONE OGGI QUESTI VIRUS CIRCOLANO ANCHE DOVE PRIMA ERA IMPENSABILE – IL DOTTOR GIANNI REZZA: “NON POSSIAMO PIÙ SENTIRCI AL RIPARO VISTO CHE…”](https://www.dagospia.com/rubrica-39/salute/virus-poveri-interessano-solo-quando-arrivano-ricchi-ndash-385647.htm) (Dagospia.com)
+
+- [Vitamina B afasta o mosquito da dengue? Mitos e verdades sobre repelentes](https://www.terra.com.br/vida-e-estilo/saude/vitamina-b-afasta-o-mosquito-da-dengue-mitos-e-verdades-sobre-repelentes,968c25dd78f3b9118fe270bfd2fb155fdxxozo04.html) (Terra.com.br)
+
+- [Vídeo: Monique Evans desabafa sobre diagnóstico de dengue](https://www.metropoles.com/colunas/fabia-oliveira/video-monique-evans-desabafa-sobre-diagnostico-de-dengue) (Metropoles.com)
+
+- [Patrícia Poeta revela que foi alvo de erro médico quando teve dengue](https://www.metropoles.com/celebridades/patricia-poeta-revela-que-foi-alvo-de-erro-medico-quando-ter-dengue) (Metropoles.com)
+
+- [Preços do exame de dengue variam até 276% entre laboratórios do Rio](https://ultimosegundo.ig.com.br/2024-02-21/precos-do-exame-de-dengue-variam-ate-276--entre-laboratorios-do-rio.html) (Ig.com.br)
+
+- [Dengue: DF registra 38 mortes e lidera ranking no país](https://saude.ig.com.br/2024-02-21/dengue--df-registra-38-mortes-e-lidera-ranking-no-pais.html) (Ig.com.br)
+
+- [Monique Evans é diagnosticada com dengue: "Bichinho miserável"](https://www.terra.com.br/diversao/monique-evans-e-diagnosticada-com-dengue-bichinho-miseravel,b3e553c86bf46fafbd92a4419bcf749dimcuv54z.html) (Terra.com.br)
 
 - [Covid-19 e dengue: como diferenciar os sintomas?](https://olhardigital.com.br/2024/02/21/medicina-e-saude/covid-19-e-dengue-como-diferenciar-os-sintomas/) (Olhardigital.com.br)
 

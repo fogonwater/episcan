@@ -1,8 +1,710 @@
 {
-  "last_updated": "2024-02-22 07:05",
-  "count_articles_total": 1696,
-  "count_articles_new": 34,
+  "last_updated": "2024-02-22 19:05",
+  "count_articles_total": 1735,
+  "count_articles_new": 39,
   "articles": [
+    {
+      "id": 5834,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Federico Garau)",
+      "title": "Kouam\u00e9 ha la malaria, arriva il ricovero per l'attaccante della Fiorentina",
+      "description": "Il giocatore non ci sar\u00e0 per la partita di luned\u00ec contro la Lazio. Ancora nessuna notizia su quali saranno i tempi di recupero",
+      "url": "https://www.ilgiornale.it/news/calcio/kouam-ha-malaria-arriva-ricovero-lattaccante-fiorentina-2286949.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2024/02/21/1708540049-kouame.jpg?_=1708540049",
+      "publishedAt": "2024-02-21 18:53:09",
+      "content": "Doccia fredda per i tifosi della Fiorentina, a pochi giorni di distanza dalla partita Fiorentina - Lazio fissata per la giornata di luned\u00ec 26 febbraio: \u00e8 infatti trapelata la notizia che l'attaccante\u2026 [+2303 chars]",
+      "retrievedAt": "2024-02-22 19:05:35.142273",
+      "internal_id": "ebb908d67bc5a6bf7768114e302b4ee0bacf5cbc560d09896f74d86e8529563f",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5828,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Governo do Rio de Janeiro decreta epidemia de dengue no estado",
+      "description": "S\u00e3o mais de 49 mil casos da doen\u00e7a este ano com quatro mortes",
+      "url": "https://saude.ig.com.br/2024-02-21/governo-rio-decreta-epidemia-dengue-stado.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-02-21 18:52:29",
+      "content": "O governo do Rio de Janeiro decretou nesta quarta-feira (21) epidemia de dengue no territ\u00f3rio fluminense. O decreto ser\u00e1 publicado no Di\u00e1rio Oficial at\u00e9 quinta-feira (22). S\u00e3o mais de 49 mil casos es\u2026 [+900 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.540900",
+      "internal_id": "9bfa8c98f6f70fc3469fcbd0c4acfeff063bca92fa66a4980aa38dd55bb63b0f",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5810,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPLG Local 10",
+      "author": "Hatzel Vela",
+      "title": "Broward measles cases: Surgeon general \u2018deferring to parents and guardians\u2019 on school attendance",
+      "description": "Local 10 News has learned the State has the power to ask the parents of those who have been vaccinated not to come back to school following the recent measles cases in Broward County.",
+      "url": "https://www.local10.com/health/2024/02/21/broward-measles-cases-surgeon-general-deferring-to-parents-and-guardians-on-school-attendance/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/02-21-2024/t_bafbe08dd96343cfae82647ab2466666_name_image.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-02-21 18:32:35",
+      "content": "BROWARD COUNTY, Fla. The number of measles cases keeps rising at Westons Manatee Bay Elementary. Local 10 News has learned the state has the power to ask the parents of those who have not been vacci\u2026 [+3349 chars]",
+      "retrievedAt": "2024-02-22 19:05:33.613172",
+      "internal_id": "4713539c7df92c9f80d1c9fe32071ea6bb8f24607955f1fe578062df34a5849c",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5818,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Dengue: S\u00e3o Paulo registra mais duas mortes e total chega a 17",
+      "description": "Secretaria Estadual de Sa\u00fade registrou mais duas mortes por dengue em S\u00e3o Paulo e outras 57 s\u00e3o investigadas; n\u00famero de casos chega a 75.568",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-sao-paulo-registra-mais-duas-mortes-e-total-chega-a-17-vitimas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/21152254/dengue-5.jpg",
+      "publishedAt": "2024-02-21 18:30:27",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.455557",
+      "internal_id": "3f389ec569397179be9d1e5e634eb0be810136abd647805b04c51310a8604931",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5812,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Dengue: quais os sintomas, quando \u00e9 hora de ir ao PS e quem pode se vacinar no SUS?",
+      "description": "As primeiras doses da vacina contra a dengue pelo SUS, o Sistema \u00danico de Sa\u00fade, est\u00e3o sendo ministradas a crian\u00e7as entre 10 a 14 anos, em 521 cidades do Brasil.",
+      "url": "https://www.bbc.com/portuguese/articles/czq44g6z082o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/370b/live/cc6fab70-d0e6-11ee-9a5b-e35447f6c53b.jpg",
+      "publishedAt": "2024-02-21 18:28:00",
+      "content": "Dengue: quais os sintomas, quando \u00e9 hora de ir ao PS e quem pode se vacinar no SUS? As primeiras doses da vacina contra a dengue pelo SUS, o Sistema \u00danico de Sa\u00fade, est\u00e3o sendo ministradas a crian\u00e7a\u2026 [+447 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.366281",
+      "internal_id": "26ed93b38d538b6b534975bde58674f3dad2c7fdbb00398d4d3ba25688a0cc10",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5817,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Dengue: mosquito \u201cprefere\u201d tipo sangu\u00edneo O e quem acabou de beber",
+      "description": "O m\u00e9dico Marcelo Carneiro gravou um v\u00eddeo para o Hemocentro de Bras\u00edlia. Na publica\u00e7\u00e3o, ele esclarece as prefer\u00eancias do mosquito da dengue",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-mosquito-prefere-tipo-sanguineo-o-e-quem-acabou-de-beber",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/12/15114121/Dengue_Aedes_Aegypti_Casos.jpg",
+      "publishedAt": "2024-02-21 18:25:01",
+      "content": "O Aedes aegypti mosquito causador da dengue tem prefer\u00eancia pelo tipo sangu\u00edneo O. A informa\u00e7\u00e3o foi confirmada pelo m\u00e9dico Marcelo Carneiro, chefe da unidade t\u00e9cnica do Hemocentro de Bras\u00edlia. Em um\u2026 [+1263 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.449202",
+      "internal_id": "eb478a65c193091d2d40065c53e9d1565b6acc0d124c921102dd384ea29a23bd",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5827,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "EdiCase, EdiCase",
+      "title": "Orienta\u00e7\u00f5es importantes sobre os repelentes contra a dengue",
+      "description": "M\u00e9dica explica sobre os ativos que afastam os mosquitos e como aplicar o produto em idosos e crian\u00e7as",
+      "url": "https://saude.ig.com.br/parceiros/edicase/2024-02-21/orientacoes-importantes-sobre-os-repelentes-contra-a-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/91/0q/3z/910q3z1ko5jarg3r39e3bj0vf.jpg",
+      "publishedAt": "2024-02-21 18:20:04",
+      "content": "De acordo com o painel de monitoramento do Minist\u00e9rio da Sa\u00fade da \u00faltima segunda-feira (19/02), os casos de dengue no pa\u00eds passaram de 650 mil, com 113 mortes em decorr\u00eancia da doen\u00e7a desde o in\u00edcio \u2026 [+2925 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.522793",
+      "internal_id": "603f8aba0de4364d7b290a72b536db7ec346aa6ee237c96b7045d3f6bb0e497f",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5804,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Eimer McAuley",
+      "title": "11 possible cases of measles in Ireland last week, according to latest report",
+      "description": "There has been a rise in suspected cases of the infectious disease.",
+      "url": "https://www.thejournal.ie/measles-cases-ireland-2-6305842-Feb2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6305842/river/?height=400&version=6305854",
+      "publishedAt": "2024-02-21 18:19:04",
+      "content": "ELEVEN POSSIBLE CASES of measles were reported in Ireland last week, according to the latest data from the Health Protection Surveillance Centre (HPSC). The figures show a rise in cases compared to\u2026 [+1433 chars]",
+      "retrievedAt": "2024-02-22 19:05:33.518444",
+      "internal_id": "94396ee0f064ca179713f3f5bc6b18a670581727069bf57a586c2f8d737083c4",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5819,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Estado do Rio de Janeiro decreta epidemia de dengue",
+      "description": "S\u00e3o mais de 49 mil casos este ano da doen\u00e7a no estado, 20 vezes acima do esperado, com quatro mortes confirmadas",
+      "url": "https://www.metropoles.com/brasil/estado-do-rio-de-janeiro-decreta-epidemia-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/19214926/dengue-hemorragica-mata-menina-de-8-anos-no-DF.jpg",
+      "publishedAt": "2024-02-21 18:06:23",
+      "content": "O governo estadual do Rio de Janeiro decretou nesta quarta-feira (21/2) epidemia de dengue no territ\u00f3rio fluminense para facilitar o apoio aos munic\u00edpios. O decreto ser\u00e1 publicado no Di\u00e1rio Oficialat\u2026 [+1086 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.476273",
+      "internal_id": "c29c9a075cdd796811d43d597b38e7369337002b6fdbca45e110623c4dab76a7",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5831,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "EFE EFE",
+      "title": "El delantero del Fiorentina Kouam\u00e9, con malaria",
+      "description": "Christian Kouam\u00e9, delantero marfile\u00f1o del Fiorentina, ha sido ingresado tras resultar positivo en malaria a su regreso de jugar la Copa de \u00c1frica, seg\u00fan confirm\u00f3 este mi\u00e9rcoles el equipo en un comunicado.",
+      "url": "https://www.mundodeportivo.com/futbol/internacional/20240221/1002195071/delantero-fiorentina-kouame-ingresado-malaria.html",
+      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/02/21/65d63a1e68617.png",
+      "publishedAt": "2024-02-21 18:02:03",
+      "content": "Christian Kouam\u00e9, delantero marfile\u00f1o del Fiorentina, ha sido ingresado tras resultar positivo en malaria a su regreso de jugar la Copa de \u00c1frica, seg\u00fan confirm\u00f3 este mi\u00e9rcoles el equipo en un comuni\u2026 [+886 chars]",
+      "retrievedAt": "2024-02-22 19:05:35.125436",
+      "internal_id": "3e426bd0bb5f612e06e7125819187314722bbd337ac8b942f997ee98f81fd071",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5837,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Kouam\u00e9 ricoverato a Firenze, ha contratto la malaria",
+      "description": "Febbre, test positivo dopo il rientro dalla Coppa d'Africa (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/02/21/kouame-ricoverato-a-firenze-ha-contratto-la-malaria_6d332621-996d-417d-8055-3ad51d8f0a21.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/4/23/523fbd5ab59c45c1ebb36ac9ea8fb722.jpg",
+      "publishedAt": "2024-02-21 17:29:42",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-02-22 19:05:35.158678",
+      "internal_id": "c5afe8936d248453671764411c3c6b6f1d756ef0df90215c64db66deeb3d7651",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5839,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Cshlp.org",
+      "author": "Tipo, J., Gottipati, K., Choi, K. H.",
+      "title": "High-resolution RNA tertiary structures in Zika virus stem-loop A for the development of inhibitory small molecules [Article]",
+      "description": "Flaviviruses such as Zika (ZIKV) and dengue virus (DENV) are positive-sense RNA viruses belonging to Flaviviridae. The flavivirus genome contains a 5\u2019 end stem-loop promoter sequence known as stem-loop A (SLA) that is recognized by the flavivirus polymerase N\u2026",
+      "url": "https://rnajournal.cshlp.org/content/early/2024/02/21/rna.079796.123.short?rss=1",
+      "urlToImage": null,
+      "publishedAt": "2024-02-21 17:21:24",
+      "content": "Flaviviruses such as Zika (ZIKV) and dengue virus (DENV) are positive-sense RNA viruses belonging to Flaviviridae. The flavivirus genome contains a 5 end stem-loop promoter sequence known as stem-l\u2026 [+1143 chars]",
+      "retrievedAt": "2024-02-22 19:05:35.493255",
+      "internal_id": "22c25597e7767c4eba9c2da89486194e9fb5ce7a557718cbb19c92eaab69cd6e",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5838,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Calcio: Kouam\u00e9 ricoverato a Firenze, ha contratto la malaria",
+      "description": "La Fiorentina ha comunicato che il giocatore Kouam\u00e9, rientrato a Firenze sabato scorso dopo aver vinto con la Costa d'Avorio la Coppa d'Africa, \"in seguito a comparsa di febbre e malessere generale nella notte tra il 20 e 21 febbraio, \u00e8 stato sottoposto ne...\u2026",
+      "url": "https://www.ansa.it/toscana/notizie/2024/02/21/calcio-kouame-ricoverato-a-firenze-ha-contratto-la-malaria_aef18a52-98be-42c5-bb5b-57d29d0e86da.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/2/21/5e719c5b4d0b497a6005ed9e842180c8.jpg",
+      "publishedAt": "2024-02-21 17:17:51",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-02-22 19:05:35.162489",
+      "internal_id": "dc268ac144c1aceec087fbc43659237f4e6287455d7804559271aa9dd8f159cf",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5824,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.lat",
+      "author": "Sputnik Mundo",
+      "title": "El estado de R\u00edo de Janeiro decreta epidemia de dengue por aumento hist\u00f3rico de casos",
+      "description": "R\u00cdO DE JANEIRO (Sputnik) \u2014 El estado brasile\u00f1o de R\u00edo de Janeiro (sureste) decret\u00f3 el estado de epidemia por la explosi\u00f3n de casos de dengue, enfermedad tropical transmitida por el mosquito 'Aedes Aegypti'.",
+      "url": "https://sputniknews.lat/20240221/el-estado-de-rio-de-janeiro-decreta-epidemia-de-dengue-por-aumento-historico-de-casos-1148423580.html",
+      "urlToImage": "https://cdn1.img.sputniknews.lat/images/sharing/article/spa/1148423580.jpg?11480106831708535000",
+      "publishedAt": "2024-02-21 16:58:41",
+      "content": "\"Es una acci\u00f3n importante para trabajar con tranquilidad () decretando la epidemia, quitamos la burocracia para dar una atenci\u00f3n m\u00e1s r\u00e1pida\", explic\u00f3 en rueda de prensa el gobernador del estado, Clau\u2026 [+10 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.506476",
+      "internal_id": "dba219021acff150c0fe570b9e19a6c94f41a98db715bbd0ed5670b058f52317",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5835,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "football-italia",
+      "source_name": "Football Italia",
+      "author": "Susy Campanale",
+      "title": "Fiorentina confirm Kouame contracted malaria at AFCON",
+      "description": "Fiorentina forward Christian Kouame has been taken into hospital after contracting malaria while playing in the Africa Cup of Nations",
+      "url": "https://football-italia.net/fiorentina-confirm-kouame-contracted-malaria-at-afcon/",
+      "urlToImage": "https://icdn.football-italia.net/wp-content/uploads/2024/02/Christian-Kouame-Ivory-Coast.jpg",
+      "publishedAt": "2024-02-21 16:52:58",
+      "content": "Fiorentina forward Christian Kouame has been taken into hospital after contracting malaria while playing in the Africa Cup of Nations. The Ivory Coast international won the tournament and remained t\u2026 [+913 chars]",
+      "retrievedAt": "2024-02-22 19:05:35.145936",
+      "internal_id": "4ac9aa1e63c10fe9f406315994056efa03d81bc860249d59ee4f3960016a4686",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5833,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Dimitri Conti",
+      "title": "Fiorentina, Kouame risultato positivo a un test per la malaria di ritorno dalla Costa d'Avorio",
+      "description": "Brutte notizie per la Fiorentina. Appena rientrato dalla Coppa d'Africa vinta con la sua Costa d'Avorio, che ospitava la competizione da nazione ospitante, l'attaccante esterno Christian Kouame (26 an",
+      "url": "https://www.tuttomercatoweb.com/serie-a/fiorentina-kouame-risultato-positivo-a-un-test-per-la-malaria-di-ritorno-dalla-costa-d-avorio-1937821",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/f7/f7f3a095829975fb1df114bd99a14ce0-92300-1116o120o1956o960z1038.jpeg",
+      "publishedAt": "2024-02-21 16:35:00",
+      "content": "Brutte notizie per la Fiorentina. Appena rientrato dalla Coppa d'Africa vinta con la sua Costa d'Avorio, che ospitava la competizione da nazione ospitante, l'attaccante esterno Christian Kouame (26 a\u2026 [+573 chars]",
+      "retrievedAt": "2024-02-22 19:05:35.138271",
+      "internal_id": "cab64d249e069819726ed1093ba28b9f65d849c7b152eb8ab33570d9c5e54760",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5807,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Benjamin Plummer",
+      "title": "Disease expert Michael Baker warns \u2018severe\u2019 measles epidemic likely amid failing immunisation rates",
+      "description": "New Zealand's immunisation rates are at their lowest in 15 years.",
+      "url": "https://www.nzherald.co.nz/nz/epidemiologist-michael-baker-warns-severe-measles-epidemic-likely-amid-failing-immunisation-rates/3TVRZINVH5CYTBPT6XKO2F5IQU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/boEN2a54QYZpZtMOvvXooG53L7w=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/GSEP6UBJ25ESJJED3H47IIKLUU.JPG",
+      "publishedAt": "2024-02-21 16:13:21",
+      "content": "New Zealands immunisation rates are at their lowest in 15 years. Photo / Warren BucklandPublic health experts have warned New Zealand is on the brink of a measles epidemic and urgent action is requir\u2026 [+3506 chars]",
+      "retrievedAt": "2024-02-22 19:05:33.577602",
+      "internal_id": "550904cb195201b5980e303a10bc042adebc4a799ef236c8b4f7beeecfe69ef6",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5829,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Estado do Rio de Janeiro decreta epidemia de dengue",
+      "description": "J\u00e1 s\u00e3o mais de 49 mil casos da doen\u00e7a este ano; n\u00fameros representam um cen\u00e1rio 20 vezes acima do esperado",
+      "url": "https://noticias.r7.com/rio-de-janeiro/estado-do-rio-de-janeiro-decreta-epidemia-de-dengue-21022024",
+      "urlToImage": "https://img.r7.com/images/r7rio-012020-dengue-16012020153145023?crop=912x513+134+172",
+      "publishedAt": "2024-02-21 15:43:17",
+      "content": "Governo do Rio decreta epidemia de dengue no estado Arquivo / Ag\u00eancia Brasil O Governo do Rio de Janeiro decretou, nesta quarta-feira (21), epidemia de dengue no territ\u00f3rio fluminense. O an\u00fa\u2026 [+1399 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.545286",
+      "internal_id": "d0d02a32de35ea086b69ab8bbbe86ea5700bfa9d8878440c11eb87431e89c533",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5814,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Tiago Caeiro",
+      "title": "Fact Check. Surto de dengue no Brasil est\u00e1 relacionado com vacina contra a Covid da Pfizer?",
+      "description": "Surto de dengue que afeta a cidade de Toledo, no Paran\u00e1, e v\u00e1rias regi\u00f5es do centro e sul do Brasil est\u00e1 a ser ligado \u00e0 vacina\u00e7\u00e3o anti-Covid. Ser\u00e1 verdade? O infeciologista Jaime Nina esclarece.",
+      "url": "https://observador.pt/factchecks/fact-check-surto-de-dengue-no-brasil-esta-relacionado-com-vacina-contra-a-covid-da-pfizer/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A770%3A433%3Anowe%3A0%3A0%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F01%2F09142359%2Ffact_check-errado.png",
+      "publishedAt": "2024-02-21 15:21:18",
+      "content": "S\u00e3o in\u00fameras as publica\u00e7\u00f5es, a circular na rede social Facebook, que relacionam um surto de dengue na cidade brasileira de Toledo, no estado do Paran\u00e1, com um programa de vacina\u00e7\u00e3o contra a Covid-19 \u2026 [+4082 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.391257",
+      "internal_id": "54751f61d5e77b18c397ec927a9a27501822d12225480472ec43eb442fce0ff5",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5816,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Campanha quer mobilizar 25 milh\u00f5es de estudantes no combate \u00e0 dengue",
+      "description": "Ao todo, iniciativa do governo ter\u00e1 20 semanas de atividades na comunidade escolar com o objetivo de combate \u00e0 dengue",
+      "url": "https://www.metropoles.com/brasil/campanha-quer-mobilizar-25-milhoes-de-estudantes-no-combate-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/21120920/Nisia-Trindade-e-Camilo-Santana.jpeg",
+      "publishedAt": "2024-02-21 15:12:04",
+      "content": "Com a retomada das aulas na rede p\u00fablica ap\u00f3s o carnaval, os minist\u00e9rios da Sa\u00fade e da Educa\u00e7\u00e3o iniciaram nesta ter\u00e7a-feira (21/2) uma campanha de mobiliza\u00e7\u00e3o contra a dengue nas escolas. A proposta\u2026 [+3368 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.425954",
+      "internal_id": "d2001eea6c69d9b2dc229d07e9a17dc92d057c84c5e6057e780fd752e6ee0a5e",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5811,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "heokmealive",
+      "title": "El sarampi\u00f3n se propaga r\u00e1pidamente por el mundo, alerta OMS",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) alert\u00f3 este 20 de febrero sobre la r\u00e1pida propagaci\u00f3n del sarampi\u00f3n en el mundo, con m\u00e1s de 306,000 casos declarados el a\u00f1o pasado, un aumento de 79 por ciento en un a\u00f1o, y pidi\u00f3 una intensificaci\u00f3n de la vacunaci\u00f3n. \u2026",
+      "url": "https://www.meneame.net/m/actualidad/sarampion-propaga-rapidamente-mundo-alerta-oms",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-02-21 15:09:44",
+      "content": "Ya lo hab\u00e9is conseguido, hijos de puta. Os merec\u00e9is contagiaros.",
+      "retrievedAt": "2024-02-22 19:05:33.976566",
+      "internal_id": "7ee487918f8a17431c029458bf29f0b37c53a5c0c94a02447e87a2c695da91c8",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5813,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Embaixada dos EUA emite alerta para viajantes sobre dengue no Brasil",
+      "description": "Pa\u00eds soma 688.461 casos e 122 mortes pela doen\u00e7a; CDC tamb\u00e9m fez aviso sobre febre Oropouche por surtos no Amazonas e no Acre",
+      "url": "https://veja.abril.com.br/saude/embaixada-dos-eua-emite-alerta-para-viajantes-sobre-dengue-no-brasil",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/02/3-detalhe-DENGUE-TENDAS-DISTRITO-FEDERAL-202-2-x.jpg.jpg?quality=90&strip=info",
+      "publishedAt": "2024-02-21 14:50:46",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade EMERG\u00caNCIA -Tendas armadas no DF: unidade da FAB tem sessenta leitos (Renato Alves/Ag\u00eancia Bras\u00edlia/.) Continua ap\u00f3s publicidade A embaixada\u2026 [+4641 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.372790",
+      "internal_id": "4fed7be7d2a88dd7b23c5ce1b7335049a0dc279af19b730d19d78e346ce4a656",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5815,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dagospia.com",
+      "author": null,
+      "title": "I VIRUS DEI POVERI INTERESSANO SOLO QUANDO ARRIVANO AI RICCHI \u2013 LA DENGUE E NON SOLO: SONO 20 LE \u201cMALATTIE NEGLETTE\u201d, QUELLE CHE NESSUNO IN OCCIDENTE CERCA DI CURARE PERCH\u00c9 COLPISCONO IL TERZO MONDO, DOVE SI INFETTANO UN MILIARDO E 700 MILIONI DI PERSONE \u2013 MA CON LA GLOBALIZZAZIONE OGGI QUESTI VIRUS CIRCOLANO ANCHE DOVE PRIMA ERA IMPENSABILE \u2013 IL DOTTOR GIANNI REZZA: \u201cNON POSSIAMO PI\u00d9 SENTIRCI AL RIPARO VISTO CHE\u2026\u201d",
+      "description": "Estratto dell\u2019articolo di Paolo Russo per \u201cla Stampa\u201d Zanzara Aedes Dengue ma non solo. Perch\u00e9 nel mondo sono venti le \u00abmalattie neglette\u00bb che nessuno cerca di curare perch\u00e9 colpiscono solo i Paesi poveri, dove infettano un miliardo e 700 milioni di persone\u2026",
+      "url": "https://www.dagospia.com/rubrica-39/salute/virus-poveri-interessano-solo-quando-arrivano-ricchi-ndash-385647.htm",
+      "urlToImage": "https://cdn-static.dagospia.com/img/patch/02-2024/dengue-gianni-rezza-1956669.png",
+      "publishedAt": "2024-02-21 14:50:00",
+      "content": "Estratto dell\u2019articolo di Paolo Russo per \u201cla Stampa\u201d Zanzara Aedes Dengue ma non solo. Perch\u00e9 nel mondo sono venti le \u00abmalattie neglette\u00bb che nessuno cerca di curare perch\u00e9 colpiscono solo i Paesi\u2026 [+3170 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.400329",
+      "internal_id": "6b30be853bbd02b50f195ee73ac0ccf80c254b5b9727fc4dffbf300e09dafd59",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5825,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Vitamina B afasta o mosquito da dengue? Mitos e verdades sobre repelentes",
+      "description": "Fique atento: pr\u00f3polis, alho e inhame entram na lista dos mitos de solu\u00e7\u00f5es naturais para repelir o mosquito",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/vitamina-b-afasta-o-mosquito-da-dengue-mitos-e-verdades-sobre-repelentes,968c25dd78f3b9118fe270bfd2fb155fdxxozo04.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/21/istock-1227599466-urmvjepk5lr8.jpg",
+      "publishedAt": "2024-02-21 14:37:18",
+      "content": "Com o aumento das preocupa\u00e7\u00f5es em rela\u00e7\u00e3o \u00e0s formas de preven\u00e7\u00e3o e combate \u00e0 dengue, muitas pessoas est\u00e3o buscando alternativas naturais para afastar os mosquitos Aedes aegypti. Entre essas alternati\u2026 [+1611 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.512631",
+      "internal_id": "23485edc1a81c6988e74a93acf710d97d4dd0f40bf7e511ac9f100d6bdbf0055",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5820,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "F\u00e1bia Oliveira",
+      "title": "V\u00eddeo: Monique Evans desabafa sobre diagn\u00f3stico de dengue",
+      "description": "A ex-modelo Monique Evans usou os stories do Instagram, na noite de ter\u00e7a-feira (20/2), para falar sobre a doen\u00e7a e disse n\u00e3o conseguir comer ou dormir",
+      "url": "https://www.metropoles.com/colunas/fabia-oliveira/video-monique-evans-desabafa-sobre-diagnostico-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/21110800/capa-1098.jpg",
+      "publishedAt": "2024-02-21 14:12:34",
+      "content": "Monique Evans \u00e9 mais uma v\u00edtima do mosquito Aedes aegypti. A ex-modelo foi diagnosticada com dengue e sou os stories do Instagram, na noite de ter\u00e7a-feira (20/2), para falar sobre a doen\u00e7a e como est\u2026 [+4300 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.479935",
+      "internal_id": "af87fc53ef58af9673f1654f0eaa915c3b2036c413fcf96c691ef85903beadaa",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5806,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Lawrence Richard",
+      "title": "Florida elementary school confirms 6th case of measles amid outbreak",
+      "description": "Health officials at Florida's Department of Health and officials at Broward County Public Schools have confirmed a sixth measles case at Manatee Bay Elementary School in Weston.",
+      "url": "https://www.foxnews.com/health/florida-elementary-school-confirms-6th-case-measles-outbreak",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Screenshot-2024-02-21-081002.png",
+      "publishedAt": "2024-02-21 13:58:27",
+      "content": "Join Fox News for access to this content Plus get unlimited access to thousands of articles, videos and more with your free account! Please enter a valid email address. By entering your email, you\u2026 [+3079 chars]",
+      "retrievedAt": "2024-02-22 19:05:33.560525",
+      "internal_id": "8d40d25fb212a660e5d9320b3b4509d3ef4819bb72ce2e2a4632eae68d674b6f",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5803,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Aleks Phillips",
+      "title": "Florida Measles Outbreak Grows as New Case Reported",
+      "description": "Six cases linked to an elementary school have been recorded in Florida.",
+      "url": "https://www.newsweek.com/florida-measles-outbreak-map-new-case-reported-1871930",
+      "urlToImage": "https://d.newsweek.com/en/full/2351998/measles-child.jpg",
+      "publishedAt": "2024-02-21 13:52:31",
+      "content": "Six people have been diagnosed with measles in Broward County, Florida, as of Tuesday in an ongoing outbreak of the disease at an elementary school. The outbreak appears to have emerged rapidly\u2014with\u2026 [+3629 chars]",
+      "retrievedAt": "2024-02-22 19:05:33.507431",
+      "internal_id": "02eb520d145b1c5b678144ca03111433109784ef458a273166ab73fd26a55468",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5809,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Weather Channel",
+      "author": "The Weather Channel",
+      "title": "Measles Outbreak Spreads Through Florida Elementary School - Videos from The Weather Channel",
+      "description": "A measles outbreak has been identified among schoolchildren in Broward County, Florida. Health officials say they are taking preventive measures to stop the spread. Those with up-to-date vaccinations carry a low risk of contracting the measles virus. - Videos\u2026",
+      "url": "https://weather.com/health/video/measles-outbreak-spreads-through-florida-elementary-school",
+      "urlToImage": "https://v.w-x.co/1708518625990_v2_MEASLES_79b2d133-8143-4745-9c73-ea5378e53d92.jpg",
+      "publishedAt": "2024-02-21 13:34:21",
+      "content": "February 21, 2024 A measles outbreak has been identified among schoolchildren in Broward County, Florida. Health officials say they are taking preventive measures to stop the spread. Those with up-t\u2026 [+69 chars]",
+      "retrievedAt": "2024-02-22 19:05:33.599703",
+      "internal_id": "d103eec5ee5a0d53f4ee04c7d385c982070b005b0ecfd675aa86ea4b765b7574",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5832,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Adam Piore",
+      "title": "Could a Harvard botanist unlock the secrets of psychedelics in the Amazon?",
+      "description": "Richard Evans Schultes braved malaria and worse to study Indigenous medicine. Now a new generation of scientists wants to finish his work.",
+      "url": "https://www.bostonglobe.com/2024/02/21/magazine/a-harvard-botanist-saw-the-promise-of-psychedelic-medicine/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/aYy4AJrRrtDpvKWUC1u93KgEtBI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/FN2CJL3X7FDZXOE5AN3ZEZG7KY.jpg",
+      "publishedAt": "2024-02-21 13:31:18",
+      "content": "But in the centuries after the Spanish conquest, references to the mushroom became scarce. No modern Western botanist had ever seen it; some thought it was a myth. Perhaps, one influential botanist s\u2026 [+23992 chars]",
+      "retrievedAt": "2024-02-22 19:05:35.129328",
+      "internal_id": "dfe12cdea09254315144343f5de20397b22c2aa515931a2e4f754321fe0bcb18",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5840,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Ra\u00fal Rivas Gonz\u00e1lez, Catedr\u00e1tico de Microbiolog\u00eda. Miembro de la Sociedad Espa\u00f1ola de Microbiolog\u00eda., Universidad de Salamanca",
+      "title": "What is Alaskapox? A microbiologist explains the recently discovered virus that just claimed its first fatality",
+      "description": "We have a new deadly virus on the game board. It is the Alaskapox virus, which has just claimed its first human life. It appears that its animal reservoir may be in small mammals.",
+      "url": "https://theconversation.com/what-is-alaskapox-a-microbiologist-explains-the-recently-discovered-virus-that-just-claimed-its-first-fatality-223470",
+      "urlToImage": "https://images.theconversation.com/files/575275/original/file-20240211-16-m5e8r4.jpg?ixlib=rb-1.1.0&rect=0%2C99%2C1022%2C510&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-02-21 13:17:46",
+      "content": "Red-backed voles may be harboring Alaskapox. iNaturalist Ecuador, CC BY-NC-SA Alaskapox, a virus in the same family as smallpox, cowpox and mpox, claimed its first fatality in January 2024 when an e\u2026 [+5730 chars]",
+      "retrievedAt": "2024-02-22 19:05:35.968001",
+      "internal_id": "09b4e359c46d2fef2d2c10bad7ebff19970b1dcd898a66f51a9b9681457c5a79",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5822,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Gabriel Lima",
+      "title": "Patr\u00edcia Poeta revela que foi alvo de erro m\u00e9dico quando teve dengue",
+      "description": "Apresentadora do Encontro, Patr\u00edcia Poeta revelou que precisou ficar 15 dias no hospital por conta de um erro m\u00e9dico grave",
+      "url": "https://www.metropoles.com/celebridades/patricia-poeta-revela-que-foi-alvo-de-erro-medico-quando-ter-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/12/04142244/Patricia-Poeta-24.jpg",
+      "publishedAt": "2024-02-21 13:16:30",
+      "content": "Patr\u00edcia Poeta revelou, na \u00faltima ter\u00e7a-feira (20/2), que foi alvo de um grave erro m\u00e9dico quando teve dengue e que precisou ficar 15 dias no hospital por conta de um diagn\u00f3stico incorreto. A apresen\u2026 [+2786 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.494292",
+      "internal_id": "b484693952c3085e2a65bbb96e79ba9c3ef430b428af8e2eeedf533930d39001",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5821,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Pre\u00e7os do exame de dengue variam at\u00e9 276% entre laborat\u00f3rios do Rio",
+      "description": "Procon do estado analisa se laborat\u00f3rios est\u00e3o praticando pre\u00e7os abusivos",
+      "url": "https://ultimosegundo.ig.com.br/2024-02-21/precos-do-exame-de-dengue-variam-ate-276--entre-laboratorios-do-rio.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8q/bg/e9/8qbge94n4vaznio8kyvg0vlxy.jpg",
+      "publishedAt": "2024-02-21 11:17:57",
+      "content": "Pesquisa realizada por agentes do Procon-RJ em dez laborat\u00f3rios que fazem exames para detec\u00e7\u00e3o do v\u00edrus da dengue encontrou varia\u00e7\u00e3o m\u00e1xima de 276,19% e m\u00ednima de 42,17% nos pre\u00e7os do procedimento. F\u2026 [+2654 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.490726",
+      "internal_id": "031d02e3f5bbb8a6f96008166ddf1432f880a434ae0420ff1848601d061fe4b4",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5826,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Dengue: DF registra 38 mortes e lidera ranking no pa\u00eds",
+      "description": "At\u00e9 o \u00faltimo dia 17 foram notificados 81.408 casos prov\u00e1veis da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-02-21/dengue--df-registra-38-mortes-e-lidera-ranking-no-pais.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
+      "publishedAt": "2024-02-21 10:48:24",
+      "content": "O Distrito Federal contabiliza, desde o in\u00edcio do ano, 38 mortes por dengue . O n\u00famero coloca a unidade federativa em primeiro lugar no ranking, na frente at\u00e9 mesmo de Minas Gerais, que tem o maior \u2026 [+1461 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.516859",
+      "internal_id": "f3f35f76676ea0af9fda09c3a8f2698c318405d4bf3556e4890dcbb01f3690ac",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5805,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mother Jones",
+      "author": "Kiera Butler",
+      "title": "No Vaccine? No Problem! Florida Wants Your Unvaccinated Kids In School During a Measles Outbreak",
+      "description": "Amid an ongoing measles outbreak in Florida, public health officials are bending the rules of quarantine for unvaccinated children. At Manatee Bay Elementary School in Broward County, Florida, six children have tested positive for measles, a respiratory virus\u2026",
+      "url": "https://www.motherjones.com/politics/2024/02/no-vaccine-no-problem-florida-wants-your-unvaccinated-kids-in-school-during-a-measles-outbreak/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2024/02/022124measles.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2024-02-21 10:00:45",
+      "content": "Fight disinformation: Sign up for the free Mother Jones Daily newsletter and follow the news that matters. Amid an ongoing measles outbreak in Florida, public health officials are bending the rules \u2026 [+7748 chars]",
+      "retrievedAt": "2024-02-22 19:05:33.554252",
+      "internal_id": "039870d55f291ea676a7733663187076079bfd15ac85adefcdaea591e1301594",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5830,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "David Cox",
+      "title": "Pet dogs smell Parkinson's disease with almost 90 per cent accuracy",
+      "description": "Pet dogs of various breeds have been trained to detect smells related to Parkinson's disease, potentially offering a new approach to diagnosing the condition",
+      "url": "https://www.newscientist.com/article/2417922-pet-dogs-smell-parkinsons-disease-with-almost-90-per-cent-accuracy/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/02/20105702/SEI_192323446.jpg",
+      "publishedAt": "2024-02-21 10:00:45",
+      "content": "Dogs that detect diseases such as covid-19 and malaria tend to be raised in expensive training centres, rather than living as pets Bruno Rodrigues Baptista da Silva / Alamy Pet dogs of various bree\u2026 [+398 chars]",
+      "retrievedAt": "2024-02-22 19:05:35.120735",
+      "internal_id": "5519beaa2b78049621e425a4a03d4b3179ae617d5579cb15532a2d73080c7a8c",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5823,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Pipoca Moderna",
+      "title": "Monique Evans \u00e9 diagnosticada com dengue: \"Bichinho miser\u00e1vel\"",
+      "description": "Monique Evans apareceu debilitada na ter\u00e7a-feira (20/2) ap\u00f3s ser diagnosticada com dengue. De ...",
+      "url": "https://www.terra.com.br/diversao/monique-evans-e-diagnosticada-com-dengue-bichinho-miseravel,b3e553c86bf46fafbd92a4419bcf749dimcuv54z.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/21/1704609477-monique-evans.jpg",
+      "publishedAt": "2024-02-21 10:00:20",
+      "content": "Monique Evans apareceu debilitada na ter\u00e7a-feira (20/2) ap\u00f3s ser diagnosticada com dengue. De cama, a ex-modelo contou que sente dificuldade para se alimentar de comidas s\u00f3lidas e n\u00e3o consegue levant\u2026 [+1005 chars]",
+      "retrievedAt": "2024-02-22 19:05:34.497773",
+      "internal_id": "80b3dbc2a148b638fc172c5f459bfe74c3af48849302d196cb3c52061372e2bb",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5836,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "F\u00e4llor med ko-urin s\u00e4tter stopp f\u00f6r malariamygg",
+      "description": "Spridningen av malaria i byn Magge i s\u00f6dra Etiopien har minskat med 60 procent \u2013 tack vare myggf\u00e4llor med lukt av f\u00e4rskt ko-urin. Bakom id\u00e9n st\u00e5r ett forskartea",
+      "url": "https://www.aftonbladet.se/nyheter/a/76bJBK/fallor-med-ko-urin-satter-stopp-for-malariamygg",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/2507ad5e-a4a3-43e2-9b2c-027e1b52d226?fit=crop&format=auto&h=1209&q=50&w=1900&s=88e44b25a255c569fbdc927c198d4e5e8c38c8ad",
+      "publishedAt": "2024-02-21 08:02:55",
+      "content": "Anna Karolina Eriksson/TT share-arrow Dela Spridningen av malaria i byn Magge i s\u00f6dra Etiopien har minskat med 60 procent tack vare myggf\u00e4llor med lukt av f\u00e4rskt ko-urin. Bakom id\u00e9n st\u00e5r ett forsk\u2026 [+731 chars]",
+      "retrievedAt": "2024-02-22 19:05:35.152396",
+      "internal_id": "31de4fb5ae77f26610bfd7eca79bf29128765806dfa2c1a0aa387a86752689d6",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5808,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "1news.co.nz",
+      "author": "1news Reporters",
+      "title": "Aotearoa on the brink of measles 'epidemic' - Professor Michael Baker",
+      "description": "Researchers warn of thousands of cases, hospitalisations, chronic illness, and potential deaths.",
+      "url": "https://www.1news.co.nz/2024/02/21/aotearoa-on-the-brink-of-measles-epidemic-professor-michael-baker/",
+      "urlToImage": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/722M7VF2DZEVLNONDBHVO6K2CA.jpg?auth=1833de76543ed59e8b653a210f644c8c27ba43f6ea56e7ebd765396fa1d7eea0&quality=70&width=600&height=315&focal=1763%2C913",
+      "publishedAt": "2024-02-21 07:19:30",
+      "content": "Experts are warning Aotearoa New Zealand is on the brink of a measles epidemic, because of falling immunisation rates, immunity gaps and an increased risk of imported cases. In the latest briefing f\u2026 [+3250 chars]",
+      "retrievedAt": "2024-02-22 19:05:33.595685",
+      "internal_id": "86f491984faaef2f8fa34799c53c231cad6136ba553d292353a4bf494114318a",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5841,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Bavarian Nordic delivered record financial results in 2023",
+      "description": "(marketscreener.com) Preliminary 2023 results exceed the latest guidance and represent the best-ever financial result in the Company\u2019s history driven by extraordinary growth in travel health and a surge in smallpox/mpox vaccine sales.2024 revenue of DKK 5,000\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-delivered-record-financial-results-in-2023-45994098/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2024-02-21 07:14:01",
+      "content": "Preliminary 2023 results exceed the latest guidance and represent the best-ever financial result in the Companys history driven by extraordinary growth in travel health and a surge in smallpo\u2026 [+7412 chars]",
+      "retrievedAt": "2024-02-22 19:05:35.972326",
+      "internal_id": "fd2a6c3467686853555172d9e2a4d90a247b05d1b84ecf9f29f3af96871133ca",
+      "publishedAtLabel": "Feb 21"
+    },
     {
       "id": 5782,
       "query": [
