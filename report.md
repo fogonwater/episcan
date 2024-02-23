@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 39
-- **Last harvest:** 2024-02-22 19:05
-- **Most recent article:** 2024-02-21 18:53:09
+- **New articles in last harvest:** 30
+- **Last harvest:** 2024-02-23 07:06
+- **Most recent article:** 2024-02-22 06:25:31
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 104 | 905 |
-| measles | 25 | 61 | 56 | 47 | 68 | 45 | 47 | 349 |
-| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 14 | 256 |
+| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 119 | 920 |
+| measles | 25 | 61 | 56 | 47 | 68 | 45 | 52 | 354 |
+| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 22 | 264 |
 | zika | 8 | 8 | 7 | 8 | 13 | 6 | 5 | 55 |
 | chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 4 | 50 |
 | rabies | 5 | 5 | 9 | 7 | 7 | 9 | 4 | 46 |
-| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 2 | 39 |
+| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 3 | 40 |
 | mpox | 2 | 8 | 4 | 3 | 5 | 8 | 2 | 32 |
-| sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 7 | 23 |
+| sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 8 | 24 |
 | pertussis | 2 | 5 | 2 | 3 | 2 | 6 | 0 | 20 |
 | typhoid | 0 | 1 | 2 | 2 | 1 | 2 | 1 | 9 |
 | yersinia | 1 | 1 | 2 | 0 | 1 | 2 | 1 | 8 |
@@ -52,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 - [Alice Eve’s 8 Best Acting Roles (Including Star Trek's Carol Marcus)](https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/) (Screen Rant)
 
 ## 24-8 (sarampión)
+
+- [El sarampión repunta en España por la psicosis antivacunas](https://www.elconfidencialdigital.com/articulo/vivir/sarampion-repunta-espana-psicosis-antivacunas/20240222000000728244.html) (Elconfidencialdigital.com)
 
 - [El sarampión se propaga rápidamente por el mundo, alerta OMS](https://www.meneame.net/m/actualidad/sarampion-propaga-rapidamente-mundo-alerta-oms) (Meneame.net)
 
@@ -85,11 +87,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (meningitis)
 
+- [Molecular Epidemiology of Underreported Emerging Zoonotic Pathogen Streptococcus suis in Europe](https://wwwnc.cdc.gov/eid/article/30/3/23-0348_article) (Cdc.gov)
+
 - [Computerised modified paramedian approach technique versus conventional midline approach technique of lumbar puncture: a randomised control trial protocol](https://bmjopen.bmj.com/content/14/2/e077941?rss=1) (The BMJ)
 
 - [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
+
+- [Over Half The World Faces Risk Of Measles Outbreak: WHO](https://www.medicaldaily.com/over-half-world-faces-risk-measles-outbreak-who-471438) (Medical Daily)
+
+- [Ontario's top doctor warns of potential measles outbreaks as cases increase abroad](https://www.cbc.ca/news/canada/toronto/ontario-measles-1.7122044) (CBC News)
+
+- [Unvaccinated Florida kids exposed to measles can skip quarantine, officials say](https://arstechnica.com/science/2024/02/unvaccinated-florida-kids-exposed-to-measles-can-skip-quarantine-officials-say/) (Ars Technica)
+
+- [Florida School Rocked by More Cases of Measles as Parents Skip Vax (Josh Fiallo/The Daily Beast)](https://www.memeorandum.com/240221/p62) (Memeorandum.com)
+
+- [Florida School Rocked by More Cases of Measles as Parents Skip Vax](https://www.thedailybeast.com/florida-elementary-school-rocked-by-more-cases-of-measles) (Daily Beast)
 
 - [Broward measles cases: Surgeon general ‘deferring to parents and guardians’ on school attendance](https://www.local10.com/health/2024/02/21/broward-measles-cases-surgeon-general-deferring-to-parents-and-guardians-on-school-attendance/) (WPLG Local 10)
 
@@ -187,6 +201,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (malaria)
 
+- [Christian Kouamé, delantero de Fiorentina, dio positivo a Malaria tras la Copa Africana](https://www.record.com.mx/futbol-futbol-internacional-internacionales/christian-kouame-delantero-de-fiorentina-dio-positivo-a) (Record.com.mx)
+
+- [Fiorentina: de retour de la CAN, l'Ivoirien Kouamé a contracté le paludisme](https://rmcsport.bfmtv.com/football/serie-a/fiorentina-de-retour-de-la-can-l-ivoirien-kouame-a-contracte-le-paludisme_AV-202402211031.html) (BFMTV)
+
+- [Fiorentina's Kouame treated for malaria](https://www.channelnewsasia.com/sport/fiorentinas-kouame-treated-malaria-4140371) (CNA)
+
+- [Fiorentina, Kouame fermato dalla malaria: out con la Lazio, il punto sulle sue condizioni](https://www.tuttomercatoweb.com/serie-a/fiorentina-kouame-fermato-dalla-malaria-out-con-la-lazio-il-punto-sulle-sue-condizioni-1937918) (Tuttomercatoweb.com)
+
+- [Ex-Anderlecht-spits Christian Kouamé getroffen door malaria: “Hij krijgt nu de nodige zorgen”](https://www.nieuwsblad.be/cnt/dmf20240221_97080606) (Nieuwsblad.be)
+
+- [Ex-Anderlecht-spits Christian Kouamé getroffen door malaria: “Hij krijgt nu de nodige zorgen”](https://www.hbvl.be/cnt/dmf20240221_97080606) (Hbvl.be)
+
+- [Afcon-winning Fiorentina forward Kouame has malaria](https://www.bbc.co.uk/sport/football/68364955) (BBC News)
+
+- [Christian Kouamé (Fiorentina) ha la malaria: l’attaccante è stato ricoverato](https://www.corriere.it/sport/calcio/serie-a/24_febbraio_21/fiorentina-kouame-malaria-d1daaf1a-d0e6-11ee-b190-02f3fcf354be.shtml) (Corriere.it)
+
 - [Kouamé ha la malaria, arriva il ricovero per l'attaccante della Fiorentina](https://www.ilgiornale.it/news/calcio/kouam-ha-malaria-arriva-ricovero-lattaccante-fiorentina-2286949.html) (Ilgiornale.it)
 
 - [El delantero del Fiorentina Kouamé, con malaria](https://www.mundodeportivo.com/futbol/internacional/20240221/1002195071/delantero-fiorentina-kouame-ingresado-malaria.html) (Mundodeportivo.com)
@@ -216,6 +246,36 @@ Source: [News API](https://newsapi.org/)
 - [The journey with malaria so far](https://punchng.com/the-journey-with-malaria-so-far/) (The Punch)
 
 ## 24-8 (dengue)
+
+- [Dengue: saiba cuidados recomendados para pacientes grávidas](https://www.metropoles.com/saude/dengue-cuidados-pacientes-gravidas) (Metropoles.com)
+
+- [Embaixada dos EUA alerta americanos que querem vir ao Brasil sobre dengue e febre oropouche](https://valor.globo.com/brasil/noticia/2024/02/21/embaixada-dos-eua-alerta-americanos-que-querem-vir-ao-brasil-sobre-dengue-e-febre-oropouche.ghtml) (Globo)
+
+- [Goiânia confirma primeira morte por dengue em 2024](https://www.metropoles.com/brasil/goiania-confirma-primeira-morte-por-dengue-em-2024) (Metropoles.com)
+
+- [Saiba como se prevenir da dengue](https://valor.globo.com/brasil/noticia/2024/02/21/saiba-como-se-prevenir-da-dengue.ghtml) (Globo)
+
+- [Brasil supera os 700 mil casos prováveis de dengue](https://www.metropoles.com/brasil/brasil-supera-os-700-mil-casos-provaveis-de-dengue) (Metropoles.com)
+
+- [Governo promoverá 'dia D' do combate à dengue](https://saude.ig.com.br/2024-02-21/governi-lula-e-estados-vao-fazer-dia-d-combate-dengue.html) (Ig.com.br)
+
+- [Patrícia Poeta revela que teve inflamação no fígado após erro médico](https://www.terra.com.br/diversao/gente/patricia-poeta-revela-que-teve-inflamacao-no-figado-apos-erro-medico,66dae285485c7d22669761e3c50eafd57vtiu2sh.html) (Terra.com.br)
+
+- [Dengue em SP: estado registra mais duas mortes e soma 17 óbitos](https://saude.ig.com.br/2024-02-21/dengue-sp-estado-registra-mais-mortes.html) (Ig.com.br)
+
+- [Covid e dengue: médicos alertam para casos de infecções simultâneas](https://www.metropoles.com/saude/covid-e-dengue-casos-simultaneos-aumentam) (Metropoles.com)
+
+- [EUA alertam sobre viagens ao Brasil devido a dengue e febre oropouche](https://www.metropoles.com/saude/dengue-e-febre-oropouche-eua-alerta) (Metropoles.com)
+
+- [Embaixada dos EUA alerta americanos que querem vir ao Brasil sobre surtos de dengue e febre oropouche](https://jornaldebrasilia.com.br/noticias/mundo/embaixada-dos-eua-alerta-americanos-que-querem-vir-ao-brasil-sobre-surtos-de-dengue-e-febre-oropouche/) (Jornaldebrasilia.com.br)
+
+- [Por que o correto é falar dengue grave no lugar de dengue hemorrágica?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-21/por-que-o-correto-e-falar-dengue-grave-no-lugar-de-dengue-hemorragica-.html) (Ig.com.br)
+
+- [Ministério da Saúde quer mobilização contra a dengue em escolas a partir de março](https://jornaldebrasilia.com.br/noticias/brasil/ministerio-da-saude-quer-mobilizacao-contra-a-dengue-em-escolas-a-partir-de-marco/) (Jornaldebrasilia.com.br)
+
+- [Ministério da Saúde quer vacinar crianças contra a dengue nas escolas a partir de março](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-quer-vacinar-criancas-contra-a-dengue-nas-escolas-a-partir-de-marco,1d17f24e4760fb189b6b64ff627f005f54ebjgg0.html) (Terra.com.br)
+
+- [RS: em família de 10 pessoas, sete são diagnosticadas com dengue](https://www.metropoles.com/saude/dengue-em-7-pessoas-da-mesma-casa) (Metropoles.com)
 
 - [Governo do Rio de Janeiro decreta epidemia de dengue no estado](https://saude.ig.com.br/2024-02-21/governo-rio-decreta-epidemia-dengue-stado.html) (Ig.com.br)
 

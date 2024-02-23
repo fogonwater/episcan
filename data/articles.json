@@ -1,8 +1,548 @@
 {
-  "last_updated": "2024-02-22 19:05",
-  "count_articles_total": 1735,
-  "count_articles_new": 39,
+  "last_updated": "2024-02-23 07:06",
+  "count_articles_total": 1765,
+  "count_articles_new": 30,
   "articles": [
+    {
+      "id": 5846,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "Over Half The World Faces Risk Of Measles Outbreak: WHO",
+      "description": "Over 61 million doses of MCV were postponed or missed during the COVID-19 pandemic, according to the Centers for Disease Control and Prevention (CDC).",
+      "url": "https://www.medicaldaily.com/over-half-world-faces-risk-measles-outbreak-who-471438",
+      "urlToImage": "https://d.medicaldaily.com/en/full/471593/measles.jpg",
+      "publishedAt": "2024-02-22 06:25:31",
+      "content": "The World Health Organization warns that over half of the world's countries are at high risk of a measles outbreak by year's end, stressing the need for urgent preventive measures. Measles is a high\u2026 [+1993 chars]",
+      "retrievedAt": "2024-02-23 07:06:09.698517",
+      "internal_id": "2e186055301a6b27aeb193f8a763c4c1c0ef41ee819eef13e7a1fb9e1ab84d90",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 5850,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Dengue: saiba cuidados recomendados para pacientes gr\u00e1vidas",
+      "description": "Diante da explos\u00e3o de casos da epidemia de dengue em 2024, Sogesp publicou orienta\u00e7\u00f5es espec\u00edficas para o cuidado de gr\u00e1vidas com a doen\u00e7a",
+      "url": "https://www.metropoles.com/saude/dengue-cuidados-pacientes-gravidas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/10/05131459/foto-barriga-de-mulher-gravida.jpg",
+      "publishedAt": "2024-02-22 05:00:49",
+      "content": "O Brasil vive uma das maiores epidemias de dengue de sua hist\u00f3ria. Nessa quarta-feira (21/2), o pa\u00eds ultrapassou os 700 mil casos prov\u00e1veis da doen\u00e7a, mais que o triplo do registrado no mesmo per\u00edodo\u2026 [+6648 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.401634",
+      "internal_id": "0e94feae3ee858854293576f88693380652a15a7a9298a4e08dfec6f4c39982a",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 5863,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Molecular Epidemiology of Underreported Emerging Zoonotic Pathogen Streptococcus suis in Europe",
+      "description": "Estimates of infection from this pathogen suggest a high health burden among persons handling pigs and pork products.",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/3/23-0348_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-02-22 05:00:00",
+      "content": "Streptococcus suis is an opportunistic bacterial porcine pathogen that can cause severe disease in humans, most commonly meningitis and sepsis (1). Human S. suis infections occur both through direct \u2026 [+22072 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.757564",
+      "internal_id": "f51c183b62d902ff9140c236876f79af0b406bb8269f103f295bb6bca2ca1a34",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 5866,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Record.com.mx",
+      "author": "Record.com.mx",
+      "title": "Christian Kouam\u00e9, delantero de Fiorentina, dio positivo a Malaria tras la Copa Africana",
+      "description": "El jugador marfile\u00f1o regres\u00f3 del torneo internacional contagiado de Malaria, ya se encuentra hospitalizado",
+      "url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/christian-kouame-delantero-de-fiorentina-dio-positivo-a",
+      "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/02/21/fiore.jpg",
+      "publishedAt": "2024-02-22 04:13:18",
+      "content": "La Fiorentina ha comunicado este mi\u00e9rcoles 21 de febrero de 2024, que su jugador estrella Christian Kouam\u00e9, delantero marfile\u00f1o, ha dado positivo en las pruebas de Malaria realizadas esta semana tras\u2026 [+765 chars]",
+      "retrievedAt": "2024-02-23 07:06:11.069807",
+      "internal_id": "4838191a3e8eecb4a4b4b4eb495f2ccf3d070cb1c4352a07a2ecf756117484e1",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 5845,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ontario's top doctor warns of potential measles outbreaks as cases increase abroad",
+      "description": "Ontario's top doctor is warning public health officials in the province to prepare for possible measles outbreaks given the \"dramatic rise\" in cases in other parts of the world, including Europe.",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-measles-1.7122044",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1701232093!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2024-02-22 03:41:52",
+      "content": "Ontario's top doctor is warning public health officials in the province to prepare for possible measles outbreaks given the \"dramatic rise\" in cases in other parts of the world, including Europe. In\u2026 [+926 chars]",
+      "retrievedAt": "2024-02-23 07:06:09.688481",
+      "internal_id": "a39336e01e7d058ead9fd623bd5206ad8acb01c93a0346bbdc90be0746f260de",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 5857,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Embaixada dos EUA alerta americanos que querem vir ao Brasil sobre dengue e febre oropouche",
+      "description": "Por causa do n\u00famero de casos acima do normal no pa\u00eds, as duas doen\u00e7as foram inclu\u00eddas pelo Centro de Controle e Preven\u00e7\u00e3o de Doen\u00e7as (CDC) dos EUA no alerta de sa\u00fade de viagens",
+      "url": "https://valor.globo.com/brasil/noticia/2024/02/21/embaixada-dos-eua-alerta-americanos-que-querem-vir-ao-brasil-sobre-dengue-e-febre-oropouche.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/bEQ2snw7r87LZvdm4QuhbkNzD3Q=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/p/t/EbxdgKRbWBXnRA3oM9rg/aedesebc.jpg",
+      "publishedAt": "2024-02-22 00:51:12",
+      "content": "A embaixada e os consulados dos Estados Unidos no Brasil emitiram um comunicado, na ter\u00e7a-feira (20), alertando viajantes americanos sobre a transmiss\u00e3o da dengue e da febre oropouche no pa\u00eds. O avis\u2026 [+2695 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.494729",
+      "internal_id": "d16cb6b46541a396436f14487563cfd6f285192d0579059d34b6925007eddae3",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 5842,
+      "query": [
+        "measles"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Beth Mole",
+      "title": "Unvaccinated Florida kids exposed to measles can skip quarantine, officials say",
+      "description": "On Tuesday, nearly 20 percent of the school's 1,067 students were reportedly absent.",
+      "url": "https://arstechnica.com/science/2024/02/unvaccinated-florida-kids-exposed-to-measles-can-skip-quarantine-officials-say/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1235442032-760x380.jpg",
+      "publishedAt": "2024-02-21 23:41:10",
+      "content": "Enlarge/ Florida Surgeon General Dr. Joseph Ladapo speaks during a press conference at Neo City Academy in Kissimmee, Florida. 41 A sixth student at Florida's Manatee Bay Elementary School outside \u2026 [+3038 chars]",
+      "retrievedAt": "2024-02-23 07:06:09.640181",
+      "internal_id": "9996593f02ffcbec5cc87e5b4e0d54b3b9cf4412e196c9c32f92f29c227b8a50",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5847,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencialdigital.com",
+      "author": "Mariel Delgado",
+      "title": "El sarampi\u00f3n repunta en Espa\u00f1a por la psicosis antivacunas",
+      "description": "Fotograf\u00eda con ampollas de vacunas. CDC La \u2018paranoia antivacuna\u2019 ha vuelto a encender las alarmas en el sistema sanitario. Hace unos d\u00edas, la Organizaci\u00f3n Mundial de la Salud (OMS) alertaba sobre un aumento del 79% de casos de...",
+      "url": "https://www.elconfidencialdigital.com/articulo/vivir/sarampion-repunta-espana-psicosis-antivacunas/20240222000000728244.html",
+      "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/02/21/2024022117285547809.jpg",
+      "publishedAt": "2024-02-21 23:00:00",
+      "content": "Fotograf\u00eda con ampollas de vacunas. CDC La paranoia antivacuna ha vuelto a encender las alarmas en el sistema sanitario. Hace unos d\u00edas, la Organizaci\u00f3n Mundial de la Salud (OMS) alertaba sobre un a\u2026 [+3030 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.046170",
+      "internal_id": "6485bd89cd15e5b1af65811389c871ca92035461ae842d0d36417d84c4b72ca2",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5871,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BFMTV",
+      "author": null,
+      "title": "Fiorentina: de retour de la CAN, l'Ivoirien Kouam\u00e9 a contract\u00e9 le paludisme",
+      "description": "Vainqueur de la Coupe d'Afrique des nations avec la C\u00f4te d'Ivoire, l'attaquant Christian Kouam\u00e9 ne va pas pouvoir rejouer tout de suite avec la Fiorentina. Il a contract\u00e9 la malaria.",
+      "url": "https://rmcsport.bfmtv.com/football/serie-a/fiorentina-de-retour-de-la-can-l-ivoirien-kouame-a-contracte-le-paludisme_AV-202402211031.html",
+      "urlToImage": "https://images.bfmtv.com/_7s7GUnzNtQCWaJXntS-0k1Bm0U=/185x317:2041x1361/images/Christian-Kouame-le-11-02-2024-lors-de-la-CAN-1810832.jpg",
+      "publishedAt": "2024-02-21 22:53:39",
+      "content": "Vainqueur de la Coupe d'Afrique des nations avec la C\u00f4te d'Ivoire, l'attaquant Christian Kouam\u00e9 ne va pas pouvoir rejouer tout de suite avec la Fiorentina. Il a contract\u00e9 la malaria. Il est indispon\u2026 [+958 chars]",
+      "retrievedAt": "2024-02-23 07:06:11.103800",
+      "internal_id": "17dc8d9a5fdabee6ba9d6b28fd69f3b1fef6fb1d6e60b0a90299475a097834ae",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5851,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Goi\u00e2nia confirma primeira morte por dengue em 2024",
+      "description": "Segundo a Secretaria Municipal de Sa\u00fade (SMS), a v\u00edtima \u00e9 uma mulher acima dos 60 anos. Cidade registrou 2.542 casos da doen\u00e7a",
+      "url": "https://www.metropoles.com/brasil/goiania-confirma-primeira-morte-por-dengue-em-2024",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06114205/Dengue-nao-e-privilegio-do-DF-e-preocupa-ate-Lula-diz-Celina.jpg",
+      "publishedAt": "2024-02-21 22:44:50",
+      "content": "A Prefeitura de Goi\u00e2nia, capital de Goi\u00e1s, confirmou, nesta quarta-feira (21/2), a primeira morte por dengue em 2024. Segundo a Secretaria Municipal de Sa\u00fade (SMS), a v\u00edtima \u00e9 uma mulher acima dos 60\u2026 [+4829 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.420536",
+      "internal_id": "15891c8106d6e39e731c46c8beed67fc72b47e2a5a6a8b75756927e00252c5ab",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5848,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Saiba como se prevenir da dengue",
+      "description": "Brasil registra 135 \u00f3bitos pela doen\u00e7a; outros 481 est\u00e3o sendo investigados",
+      "url": "https://valor.globo.com/brasil/noticia/2024/02/21/saiba-como-se-prevenir-da-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/1NZXgQPGYrTtCY-aJx3rl71XS-4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/T/6/2uH4FyRTCCUzVMVYAWRg/20230330101501-mg-7168.jpg",
+      "publishedAt": "2024-02-21 22:15:00",
+      "content": "Os casos de dengue continuam subindo no Brasil. Segundo o Minist\u00e9rio da Sa\u00fade (MS), 75% dos criadouros do mosquito Aedes aegypti, que transmite a doen\u00e7a, est\u00e3o dentro das resid\u00eancias. LEIA MAIS At\u00e9 \u2026 [+4999 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.365838",
+      "internal_id": "1df300b0cbdecd5bdd38bd4c8b2f8942937348666c3675707d2d892453a21d8a",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5855,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Brasil supera os 700 mil casos prov\u00e1veis de dengue",
+      "description": "O n\u00famero se aproxima dos diagn\u00f3sticos identificados ao longo do ano passado, quando foram registrados 1.658.816 casos",
+      "url": "https://www.metropoles.com/brasil/brasil-supera-os-700-mil-casos-provaveis-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/19214926/dengue-hemorragica-mata-menina-de-8-anos-no-DF.jpg",
+      "publishedAt": "2024-02-21 22:04:22",
+      "content": "O Brasil registrou 715.665 casos prov\u00e1veis de dengue at\u00e9 esta quarta-feira (21/2). Os n\u00fameros est\u00e3o presentes no Painel de Monitoramento das Arboviroses do Minist\u00e9rio da Sa\u00fade, com informes di\u00e1rios s\u2026 [+4209 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.468557",
+      "internal_id": "2a6987ef67722c9e5bf04bf8d523373087109866816aa4dd77a028f44362ec5e",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5870,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Fiorentina's Kouame treated for malaria",
+      "description": "Fiorentina winger Christian Kouame has been treated in hospital for malaria, the Italian Serie A club said on Wednesday.The 26-year-old was in the Ivory Coast squad that won the recent Africa Cup of Nations and played in the quarter-finals.\"Christian has gone\u2026",
+      "url": "https://www.channelnewsasia.com/sport/fiorentinas-kouame-treated-malaria-4140371",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--p-UlKigY--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-21t215013z_1_lynxnpek1k0um_rtroptp_3_soccer-italy-fio-juv-report.jpg?itok=m2knG6q1",
+      "publishedAt": "2024-02-21 21:50:13",
+      "content": "Fiorentina winger Christian Kouame has been treated in hospital for malaria, the Italian Serie A club said on Wednesday. The 26-year-old was in the Ivory Coast squad that won the recent Africa Cup o\u2026 [+331 chars]",
+      "retrievedAt": "2024-02-23 07:06:11.091978",
+      "internal_id": "1680077c33455348363694f5ea396383b03a807351a475ce32b1254a06475946",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5859,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Governo promover\u00e1 'dia D' do combate \u00e0 dengue",
+      "description": "A iniciativa ser\u00e1 comandada pelo Minist\u00e9rio da Sa\u00fade, e ter\u00e1 refor\u00e7o das secretarias de todos os Estados",
+      "url": "https://saude.ig.com.br/2024-02-21/governi-lula-e-estados-vao-fazer-dia-d-combate-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0a/89/id/0a89id3rr3gx8medfmw454d2e.jpg",
+      "publishedAt": "2024-02-21 21:44:58",
+      "content": "O governo federal anunciou que est\u00e1 organizando uma grande a\u00e7\u00e3o de combate a dengue para a pr\u00f3xima semana. A medida, que se chamar\u00e1 de \"dia D do combate \u00e0 dengue, \u00e9 uma iniciativa comandada pelo Mini\u2026 [+1624 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.515658",
+      "internal_id": "89348cd13985a33877e9bb6bb3ce0ef2848a5be43a82c156b6ad22c138c82043",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5861,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Patr\u00edcia Poeta revela que teve inflama\u00e7\u00e3o no f\u00edgado ap\u00f3s erro m\u00e9dico",
+      "description": "Apresentadora citou diagn\u00f3stico incorreto de dengue no programa 'Encontro' desta quarta-feira, 20",
+      "url": "https://www.terra.com.br/diversao/gente/patricia-poeta-revela-que-teve-inflamacao-no-figado-apos-erro-medico,66dae285485c7d22669761e3c50eafd57vtiu2sh.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/21/975451029-ikq5hvmzdfooxmdp7p5bir2qdy.jpg",
+      "publishedAt": "2024-02-21 21:12:13",
+      "content": "A apresentadora Patr\u00edcia Poeta afirmou, na ter\u00e7a, 20, que viveu uma situa\u00e7\u00e3o de erro m\u00e9dico quando passou por um tratamento contra a dengue. Durante o quadro Bem-Estar, do programa Encontro, ela afir\u2026 [+1022 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.540905",
+      "internal_id": "30df2d957eaae68aa763010d3c3d5f7595fce41a7f9dd8bbae335a6d24c2f5f8",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5860,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue em SP: estado registra mais duas mortes e soma 17 \u00f3bitos",
+      "description": "Secretaria Estadual de Sa\u00fade registrou mais duas mortes pela doen\u00e7a; 57 outros \u00f3bitos est\u00e3o sendo investigados",
+      "url": "https://saude.ig.com.br/2024-02-21/dengue-sp-estado-registra-mais-mortes.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c4/1z/dr/c41zdr4sztch6kcgg0ab3ryg7.jpg",
+      "publishedAt": "2024-02-21 21:11:05",
+      "content": "Foram registrados mais dois \u00f3bitos por dengue no estado de S\u00e3o Paulo nesta quarta-feira (21). As informa\u00e7\u00f5es foram fornecidas pelo painel de monitoramento da Secretaria Estadual de Sa\u00fade, que colet\u2026 [+1137 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.519531",
+      "internal_id": "2f8c304856b417dea95db48ebfe2dcdec161c3ab57121290695b896213a75161",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5865,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Daniel Uccellieri",
+      "title": "Fiorentina, Kouame fermato dalla malaria: out con la Lazio, il punto sulle sue condizioni",
+      "description": "\"ACF Fiorentina comunica che, in seguito a comparsa di febbre e malessere generale nella notte tra il 20 e 21 febbraio, il calciatore C. Kouam\u00e9 \u00e8 stato sottoposto nella mattina di oggi al test per v",
+      "url": "https://www.tuttomercatoweb.com/serie-a/fiorentina-kouame-fermato-dalla-malaria-out-con-la-lazio-il-punto-sulle-sue-condizioni-1937918",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/f7/f7f3a095829975fb1df114bd99a14ce0-92300-oooz0000.jpeg",
+      "publishedAt": "2024-02-21 21:08:29",
+      "content": "\"ACF Fiorentina comunica che, in seguito a comparsa di febbre e malessere generale nella notte tra il 20 e 21 febbraio, il calciatore C. Kouam\u00e9 \u00e8 stato sottoposto nella mattina di oggi al test per va\u2026 [+861 chars]",
+      "retrievedAt": "2024-02-23 07:06:11.059903",
+      "internal_id": "ccd1d108065b018a0562b928ba849c672f80e20aa3b1e111d40ce3f4d4f1563e",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5852,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Covid e dengue: m\u00e9dicos alertam para casos de infec\u00e7\u00f5es simult\u00e2neas",
+      "description": "M\u00e9dicos alertam que tem crescido casos de pacientes com infec\u00e7\u00e3o simult\u00e2nea por Covid e dengue. Saiba prevenir a mescla de doen\u00e7as",
+      "url": "https://www.metropoles.com/saude/covid-e-dengue-casos-simultaneos-aumentam",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09092128/Vacinacao-contra-a-dengue-no-Distrito-Federal.jpeg",
+      "publishedAt": "2024-02-21 21:04:50",
+      "content": "Em paralelo \u00e0 epidemia de dengue, est\u00e3o crescendo as infec\u00e7\u00f5es causadas pelo coronav\u00edrus no Brasil. Segundo o Minist\u00e9rio da Sa\u00fade, a doen\u00e7a tem registrado m\u00e9dia de 30 mil novos casos a cada semana de\u2026 [+7269 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.442613",
+      "internal_id": "5c3d0945eb43f4086dfe3df19277bd89e58e4891c76a9f0fa57f311df7e28e43",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5856,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "EUA alertam sobre viagens ao Brasil devido a dengue e febre oropouche",
+      "description": "Governo americano orientou que pessoas tenham precau\u00e7\u00f5es ao viajar para o Brasil por conta de doen\u00e7as circulando no pa\u00eds",
+      "url": "https://www.metropoles.com/saude/dengue-e-febre-oropouche-eua-alerta",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/07164925/Repelente-contra-mosquito.jpg",
+      "publishedAt": "2024-02-21 20:18:38",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.490729",
+      "internal_id": "516b67e0c8346d7937465a828c0f0da55a4d7d37714cbd123918e4d811fea902",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5854,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Embaixada dos EUA alerta americanos que querem vir ao Brasil sobre surtos de dengue e febre oropouche",
+      "description": "GEOVANA OLIVEIRA S\u00c3O PAULO, SP (FOLHAPRESS) - A embaixada e os consulados dos Estados Unidos no Brasil emitiram um comunicado, na...",
+      "url": "https://jornaldebrasilia.com.br/noticias/mundo/embaixada-dos-eua-alerta-americanos-que-querem-vir-ao-brasil-sobre-surtos-de-dengue-e-febre-oropouche/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/21175242/dengue-planta-agua-parada.webp",
+      "publishedAt": "2024-02-21 20:14:11",
+      "content": "S\u00c3O PAULO, SP (FOLHAPRESS) \u2013 A embaixada e os consulados dos Estados Unidos no Brasil emitiram um comunicado, na ter\u00e7a-feira (20), alertando viajantes norte-americanos sobre a transmiss\u00e3o da dengue e\u2026 [+2776 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.456670",
+      "internal_id": "93f6e8869bbb446c4444ba92572518c6e37469669660bafa9aca4bb071adafc1",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5858,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Por que o correto \u00e9 falar dengue grave no lugar de dengue hemorr\u00e1gica?",
+      "description": "A dengue grave pode provocar hemorragia, mas este n\u00e3o \u00e9 o \u00fanico sintoma e, \u00e0s vezes, pode nem acontecer. Por isso, o termo dengue hemorr\u00e1gica est\u00e1 em desuso",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-21/por-que-o-correto-e-falar-dengue-grave-no-lugar-de-dengue-hemorragica-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ar/n4/k4/arn4k424osd5e8m1yikr4jtuk.jpg",
+      "publishedAt": "2024-02-21 20:10:09",
+      "content": "Voc\u00ea provavelmente j\u00e1 escutou falar sobre dengue hemorr\u00e1gica, mas, apesar da popularidade, o termo n\u00e3o \u00e9 o mais correto para se referir a forma mais grave da doen\u00e7a transmitida pelo mosquito Aedes ae\u2026 [+3617 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.498737",
+      "internal_id": "8ba8364424fea752895d4016fcbfffc795bf5f807f65eb82bb39e1baf0b46552",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5844,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Florida School Rocked by More Cases of Measles as Parents Skip Vax (Josh Fiallo/The Daily Beast)",
+      "description": "Josh Fiallo / The Daily Beast: Florida School Rocked by More Cases of Measles as Parents Skip Vax \u2014 Eleven other states have reported measles cases this year, but no area has been hit as hard as South Florida. \u2014 An elementary school in Florida has been hi\u2026",
+      "url": "https://www.memeorandum.com/240221/p62",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_596,w_1061,x_201,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1708542383/379695026_806942271387295_1622476512192997514_n_zqmm2n",
+      "publishedAt": "2024-02-21 20:10:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-02-23 07:06:09.661821",
+      "internal_id": "4885a90aa4b7bab01fb0f35f172f3a3306d1e0a443ea28e28424ac4490df8e3e",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5849,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Minist\u00e9rio da Sa\u00fade quer mobiliza\u00e7\u00e3o contra a dengue em escolas a partir de mar\u00e7o",
+      "description": "S\u00c3O PAULO, SP (FOLHAPRESS) - Nesta quarta-feira (21) o Minist\u00e9rio da Sa\u00fade anunciou que, a partir de mar\u00e7o, pretende levar programa...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/ministerio-da-saude-quer-mobilizacao-contra-a-dengue-em-escolas-a-partir-de-marco/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/21145651/mosquito-dengue.webp",
+      "publishedAt": "2024-02-21 19:53:34",
+      "content": "S\u00c3O PAULO, SP (FOLHAPRESS) \u2013 Nesta quarta-feira (21) o Minist\u00e9rio da Sa\u00fade anunciou que, a partir de mar\u00e7o, pretende levar programa de mobiliza\u00e7\u00e3o contra a dengue para as escolas brasileiras. A a\u00e7\u00e3o \u2026 [+1986 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.391789",
+      "internal_id": "91a04f1c57ff99ccb925c0b9679da44a8579a79eb0505aad4d120846a84046dd",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5862,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Minist\u00e9rio da Sa\u00fade quer vacinar crian\u00e7as contra a dengue nas escolas a partir de mar\u00e7o",
+      "description": "Pasta lan\u00e7ou mobiliza\u00e7\u00e3o contra a dengue nas escolas p\u00fablicas; ser\u00e3o 20 semanas de atividades educativas sobre o combate ao mosquito Aedes Aegypti em todo o Pa\u00eds",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-quer-vacinar-criancas-contra-a-dengue-nas-escolas-a-partir-de-marco,1d17f24e4760fb189b6b64ff627f005f54ebjgg0.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-21 19:53:12",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, afirmou nesta quarta-feira, 21, que a pasta quer vacinar contra a dengue e outras doen\u00e7as nas escolas a partir de mar\u00e7o. A fala ocorreu logo ap\u00f3s o lan\u00e7amento de \u2026 [+3384 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.548454",
+      "internal_id": "7ede72e21bf85bafba83fbd8f4d41612db08ba118f834c96cde8be0f0ffb972a",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5853,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jo\u00e3o V\u00edtor Reis",
+      "title": "RS: em fam\u00edlia de 10 pessoas, sete s\u00e3o diagnosticadas com dengue",
+      "description": "Um dos principais postos de sa\u00fade da cidade de Tenente Portela registrou 10 vezes mais atendimento por dengue do que o normal",
+      "url": "https://www.metropoles.com/saude/dengue-em-7-pessoas-da-mesma-casa",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/21133420/dengue-na-familia.jpg",
+      "publishedAt": "2024-02-21 19:49:23",
+      "content": "O n\u00famero de casos de dengue continua a crescer pelo Brasil e o atendimento \u00e0s pessoas com os sintomas \u00e9 preocupante em lugares onde a incid\u00eancia da doen\u00e7a \u00e9 maior. Em Tenente Portela, no Rio Grande \u2026 [+5125 chars]",
+      "retrievedAt": "2024-02-23 07:06:10.447535",
+      "internal_id": "a1c314cddc4090ea0def86dd4fa758adfc728cf357a01a367b1b270b0bd4f3ce",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5843,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Daily Beast",
+      "author": "Josh Fiallo",
+      "title": "Florida School Rocked by More Cases of Measles as Parents Skip Vax",
+      "description": "Manatee Bay Elementary School Facebook An elementary school in Florida has been hit with a measles outbreak that\u2019s made six students sick, a concerning trend that experts say may soon be seen elsewhere in the country as vaccination numbers against the diseas\u2026",
+      "url": "https://www.thedailybeast.com/florida-elementary-school-rocked-by-more-cases-of-measles",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_596,w_1061,x_201,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1708542383/379695026_806942271387295_1622476512192997514_n_zqmm2n",
+      "publishedAt": "2024-02-21 19:34:41",
+      "content": "An elementary school in Florida has been hit with a measles outbreak thats made six students sick, a concerning trend that experts say may soon be seen elsewhere in the country as vaccination numbers\u2026 [+4005 chars]",
+      "retrievedAt": "2024-02-23 07:06:09.652494",
+      "internal_id": "f2e5e94e08e0fd161a00cf6fe913abd438e997c61f75cd547ca334a5f59b5c1e",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5867,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Jens Jacobs",
+      "title": "Ex-Anderlecht-spits Christian Kouam\u00e9 getroffen door malaria: \u201cHij krijgt nu de nodige zorgen\u201d",
+      "description": "Het Italiaanse Fiorentina zal het een tijdje zonder Christian Kouam\u00e9 moeten doen. De Ivoriaanse spits, die enkele jaren geleden nog voor Anderlecht uitkwam, werd getroffen door malaria. Dat maakte de Italiaanse club bekend. Kouam\u00e9, die nog maar recent de Afri\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20240221_97080606",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/02/21/464372bf-da39-4429-949e-d9dce73e6ccc.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-02-21 19:30:57",
+      "content": "Het Italiaanse Fiorentina zal het een tijdje zonder Christian Kouam\u00e9 moeten doen. De Ivoriaanse spits, die enkele jaren geleden nog voor Anderlecht uitkwam, werd getroffen door malaria. Dat maakte de\u2026 [+978 chars]",
+      "retrievedAt": "2024-02-23 07:06:11.073880",
+      "internal_id": "7f965f6c1426462be7800cb40dfc536fca1a0b1d01dad69df56cb99aa3837daf",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5868,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "Jens Jacobs",
+      "title": "Ex-Anderlecht-spits Christian Kouam\u00e9 getroffen door malaria: \u201cHij krijgt nu de nodige zorgen\u201d",
+      "description": "Het Italiaanse Fiorentina zal het een tijdje zonder Christian Kouam\u00e9 moeten doen. De Ivoriaanse spits, die enkele jaren geleden nog voor Anderlecht uitkwam, werd getroffen door malaria. Dat maakte de Italiaanse club bekend. Kouam\u00e9, die nog maar recent de Afri\u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20240221_97080606",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/02/21/464372bf-da39-4429-949e-d9dce73e6ccc.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-02-21 19:30:57",
+      "content": "Het Italiaanse Fiorentina zal het een tijdje zonder Christian Kouam\u00e9 moeten doen. De Ivoriaanse spits, die enkele jaren geleden nog voor Anderlecht uitkwam, werd getroffen door malaria. Dat maakte de\u2026 [+978 chars]",
+      "retrievedAt": "2024-02-23 07:06:11.077744",
+      "internal_id": "b1c79964a3eff84335b1b795558dd3feebb7598d9d2609fe1eef3e0311192265",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5864,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Afcon-winning Fiorentina forward Kouame has malaria",
+      "description": "Fiorentina and Ivory Coast forward Christian Kouame is in hospital after contracting malaria, says his Italian club.",
+      "url": "https://www.bbc.co.uk/sport/football/68364955",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/6F2C/production/_132706482_gettyimages-1947471760.jpg",
+      "publishedAt": "2024-02-21 19:20:07",
+      "content": "Kouame made four appearances for his country at the Africa Cup of Nations Fiorentina forward Christian Kouame is in hospital after contracting malaria, says the Serie A side. Kouame, 26, was part o\u2026 [+560 chars]",
+      "retrievedAt": "2024-02-23 07:06:11.041479",
+      "internal_id": "0c1690f2a44e2f43abe480da346279768b688a3440048fe7c0978bac3cedf5f2",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 5869,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Andrea Molinari, Red. gianlucadimarzio.com",
+      "title": "Christian Kouam\u00e9 (Fiorentina) ha la malaria: l\u2019attaccante \u00e8 stato ricoverato",
+      "description": "Dopo la vittoria in Coppa d\u2019Africa con la sua Costa d\u2019Avorio, l\u2019attaccante della Fiorentina Christian Kouam\u00e9 \u00e8 stato ricoverato: positivo il test alla malaria",
+      "url": "https://www.corriere.it/sport/calcio/serie-a/24_febbraio_21/fiorentina-kouame-malaria-d1daaf1a-d0e6-11ee-b190-02f3fcf354be.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2024/02/21/0815d284-d0e8-11ee-b190-02f3fcf354be.jpg",
+      "publishedAt": "2024-02-21 19:13:33",
+      "content": "di Andrea Molinari, Red. gianlucadimarzio.comDopo la vittoria in Coppa d\u2019Africa con la sua Costa d\u2019Avorio, l\u2019attaccante della Fiorentina Christian Kouam\u00e9 \u00e8 stato ricoverato: positivo il test alla mal\u2026 [+1499 chars]",
+      "retrievedAt": "2024-02-23 07:06:11.085294",
+      "internal_id": "dac2d875b2fa1b75b1b2e662835c20c556ac869f2d353b3861484dca18b2138c",
+      "publishedAtLabel": "Feb 21"
+    },
     {
       "id": 5834,
       "query": [
