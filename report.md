@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 30
-- **Last harvest:** 2024-02-23 07:06
-- **Most recent article:** 2024-02-22 06:25:31
+- **New articles in last harvest:** 28
+- **Last harvest:** 2024-02-23 19:06
+- **Most recent article:** 2024-02-22 18:17:16
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 119 | 920 |
-| measles | 25 | 61 | 56 | 47 | 68 | 45 | 52 | 354 |
-| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 22 | 264 |
-| zika | 8 | 8 | 7 | 8 | 13 | 6 | 5 | 55 |
+| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 129 | 930 |
+| measles | 25 | 61 | 56 | 47 | 68 | 45 | 57 | 359 |
+| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 29 | 271 |
+| zika | 8 | 8 | 7 | 8 | 13 | 6 | 8 | 58 |
 | chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 4 | 50 |
 | rabies | 5 | 5 | 9 | 7 | 7 | 9 | 4 | 46 |
-| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 3 | 40 |
-| mpox | 2 | 8 | 4 | 3 | 5 | 8 | 2 | 32 |
-| sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 8 | 24 |
+| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 4 | 41 |
+| mpox | 2 | 8 | 4 | 3 | 5 | 8 | 3 | 33 |
+| sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 9 | 25 |
 | pertussis | 2 | 5 | 2 | 3 | 2 | 6 | 0 | 20 |
 | typhoid | 0 | 1 | 2 | 2 | 1 | 2 | 1 | 9 |
 | yersinia | 1 | 1 | 2 | 0 | 1 | 2 | 1 | 8 |
@@ -32,6 +32,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-8 (zika)
+
+- [Potential Zika transmission in Boon Lay, pregnant women especially advised to monitor health: MOH](https://mothership.sg/2024/02/moh-zika-boon-lay/) (Mothership.sg)
+
+- [Authorities keeping close watch on Boon Lay Place for possible Zika transmission](https://www.straitstimes.com/singapore/health/authorities-keeping-close-watch-on-boon-lay-place-for-possible-zika-transmission) (The Straits Times)
+
+- [Potential Zika transmission at Boon Lay Place after one case reported, persistent virus signals found in area](https://www.channelnewsasia.com/singapore/zika-boon-lay-place-mosquito-cases-virus-signals-wastewater-test-moh-nea-4141901) (CNA)
 
 - [High-resolution RNA tertiary structures in Zika virus stem-loop A for the development of inhibitory small molecules [Article]](https://rnajournal.cshlp.org/content/early/2024/02/21/rna.079796.123.short?rss=1) (Cshlp.org)
 
@@ -52,6 +58,8 @@ Source: [News API](https://newsapi.org/)
 - [Alice Eve’s 8 Best Acting Roles (Including Star Trek's Carol Marcus)](https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/) (Screen Rant)
 
 ## 24-8 (sarampión)
+
+- [OMS insta a dar respuesta urgente contra brote de sarampión en UE: buscan para proteger a millones de niños](https://www.forbes.com.mx/oms-insta-a-dar-respuesta-urgente-contra-brote-de-sarampion-en-ue-buscan-para-proteger-a-millones-de-ninos/) (Forbes.com.mx)
 
 - [El sarampión repunta en España por la psicosis antivacunas](https://www.elconfidencialdigital.com/articulo/vivir/sarampion-repunta-espana-psicosis-antivacunas/20240222000000728244.html) (Elconfidencialdigital.com)
 
@@ -81,11 +89,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (mpox)
 
+- [Smallpox lesion characterization in placebo-treated and tecovirimat-treated macaques using traditional and novel methods](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012007) (Plos.org)
+
 - [What is Alaskapox? A microbiologist explains the recently discovered virus that just claimed its first fatality](https://theconversation.com/what-is-alaskapox-a-microbiologist-explains-the-recently-discovered-virus-that-just-claimed-its-first-fatality-223470) (The Conversation Africa)
 
 - [Bavarian Nordic delivered record financial results in 2023](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-delivered-record-financial-results-in-2023-45994098/) (Marketscreener.com)
 
 ## 24-8 (meningitis)
+
+- [They came to clinics in Mexico for cosmetic surgery and got a deadly fungal meningitis](https://www.npr.org/sections/goatsandsoda/2024/02/22/1232959262/medical-tourism-cosmetic-surgery-fungal-meningitis-clinics-mexico) (NPR)
 
 - [Molecular Epidemiology of Underreported Emerging Zoonotic Pathogen Streptococcus suis in Europe](https://wwwnc.cdc.gov/eid/article/30/3/23-0348_article) (Cdc.gov)
 
@@ -94,6 +106,16 @@ Source: [News API](https://newsapi.org/)
 - [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
+
+- [Serious viral infection spreads at elementary school decades after it was eradicated in U.S.](https://www.wnd.com/2024/02/serious-viral-infection-spreads-elementary-school-decades-eradicated-u-s/) (Wnd.com)
+
+- [Progress Toward Measles Elimination - World Health Organization Eastern Mediterranean Region, 2019-2022](https://www.cdc.gov/mmwr/volumes/73/wr/mm7307a1.htm) (Cdc.gov)
+
+- [Measles: Know Symptoms And Prevention Tips For This Viral Infection](https://www.ndtv.com/health/measles-know-symptoms-and-prevention-tips-for-this-viral-infection-5108547) (NDTV News)
+
+- [Seems Bad](https://www.eschatonblog.com/2024/02/seems-bad_01037154211.html) (Eschatonblog.com)
+
+- [Measles outbreak spreads through Florida elementary school](https://www.today.com/video/measles-outbreak-at-florida-school-sparks-concern-204700229567) (TODAY)
 
 - [Over Half The World Faces Risk Of Measles Outbreak: WHO](https://www.medicaldaily.com/over-half-world-faces-risk-measles-outbreak-who-471438) (Medical Daily)
 
@@ -201,6 +223,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (malaria)
 
+- [Calcio: Fiorentina; in dubbio Biraghi contro la Lazio](https://www.ansa.it/sito/notizie/sport/calcio/2024/02/22/calcio-fiorentina-in-dubbio-biraghi-contro-la-lazio_f7c588a7-c92e-4294-b605-4614522d59ba.html) (ANSA.it)
+
+- [Fiorentina, Kouame positivo alla malaria. Per l'ivoriano almeno 2-3 settimane di stop](https://www.tuttomercatoweb.com/serie-a/fiorentina-kouame-positivo-alla-malaria-per-l-ivoriano-almeno-2-3-settimane-di-stop-1938111) (Tuttomercatoweb.com)
+
+- [Vietnam confident of malaria elimination by 2030: Deputy Health Minister](https://en.vietnamplus.vn/vietnam-confident-of-malaria-elimination-by-2030-deputy-health-minister/279893.vnp) (Vietnamplus.vn)
+
+- [Allarme malaria anche in Italia? “Metà della popolazione mondiale è a rischio”: le parole dell’esperto](https://www.ilfattoquotidiano.it/2024/02/22/allarme-malaria-anche-in-italia-meta-della-popolazione-mondiale-e-a-rischio-le-parole-dellesperto/7455466/) (Ilfattoquotidiano.it)
+
+- [Kouamé ha la malaria: il calciatore della Fiorentina ricoverato in ospedale](https://www.ilfattoquotidiano.it/2024/02/22/kouame-ha-la-malaria-il-calciatore-della-fiorentina-ricoverato-in-ospedale/7454911/) (Ilfattoquotidiano.it)
+
+- [Corriere dello Sport: "Kouame si ferma: malaria. Si spera in 2-3 settimane di stop"](https://www.tuttomercatoweb.com/rassegna-stampa/i-corriere-dello-sport-i-kouame-si-ferma-malaria-si-spera-in-2-3-settimane-di-stop-1938015) (Tuttomercatoweb.com)
+
+- [Un joueur de la Fiorentina est atteint de la malaria](https://www.sofoot.com/breves/un-joueur-de-la-fiorentina-est-atteint-de-la-malaria) (SO FOOT)
+
 - [Christian Kouamé, delantero de Fiorentina, dio positivo a Malaria tras la Copa Africana](https://www.record.com.mx/futbol-futbol-internacional-internacionales/christian-kouame-delantero-de-fiorentina-dio-positivo-a) (Record.com.mx)
 
 - [Fiorentina: de retour de la CAN, l'Ivoirien Kouamé a contracté le paludisme](https://rmcsport.bfmtv.com/football/serie-a/fiorentina-de-retour-de-la-can-l-ivoirien-kouame-a-contracte-le-paludisme_AV-202402211031.html) (BFMTV)
@@ -246,6 +282,26 @@ Source: [News API](https://newsapi.org/)
 - [The journey with malaria so far](https://punchng.com/the-journey-with-malaria-so-far/) (The Punch)
 
 ## 24-8 (dengue)
+
+- [L’épidémie de dengue la plus intense depuis vingt ans « met à plat toute la Guyane »](https://www.lemonde.fr/planete/article/2024/02/22/l-epidemie-de-dengue-la-plus-intense-depuis-vingt-ans-met-a-plat-toute-la-guyane_6217971_3244.html) (Le Monde)
+
+- [Presidente do Republicanos, Marcos Pereira testa positivo para dengue](https://veja.abril.com.br/coluna/maquiavel/presidente-do-republicanos-marcos-pereira-testa-positivo-para-dengue) (Abril.com.br)
+
+- [Onze cidades estão em emergência por causa da dengue em SP; veja quais](https://www.metropoles.com/sao-paulo/onze-cidades-emergencia-dengue-sp) (Metropoles.com)
+
+- [Rio recebe primeiro lote de vacinas contra a dengue](https://www.metropoles.com/brasil/rio-recebe-primeiro-lote-de-vacinas-contra-a-dengue) (Metropoles.com)
+
+- [Les vaccins se font une place dans le combat contre la dengue](https://www.lemonde.fr/planete/article/2024/02/22/les-vaccins-se-font-une-place-dans-le-combat-contre-la-dengue_6217935_3244.html) (Le Monde)
+
+- [Mónica García: «El cambio climático hará que enfermedades como el dengue puedan ser un problema de salud pública aquí»](https://www.abc.es/sociedad/monica-garcia-cambio-climatico-hara-enfermedades-dengue-20240222123813-nt.html) (Www.abc.es)
+
+- [Evitando le punture](https://www.internazionale.it/magazine/2024/02/22/evitando-le-punture) (Internazionale.it)
+
+- [Ribera, Morant y García presentan el Observatorio de Salud y Cambio Climático: "El dengue podría ser un problema aquí"](https://www.infosalus.com/actualidad/noticia-ribera-morant-garcia-presentan-observatorio-salud-cambio-climatico-dengue-podria-ser-problema-aqui-20240222111110.html) (Infosalus.com)
+
+- [Hospitais de campanha, tendas e UBSs fortalecem combate à dengue no DF](https://www.metropoles.com/conteudo-especial/dengue-hcamps-tendas-ubs) (Metropoles.com)
+
+- [Governador decreta epidemia de dengue no RJ](https://valor.globo.com/brasil/noticia/2024/02/22/governador-decreta-epidemia-de-dengue-no-rj.ghtml) (Globo)
 
 - [Dengue: saiba cuidados recomendados para pacientes grávidas](https://www.metropoles.com/saude/dengue-cuidados-pacientes-gravidas) (Metropoles.com)
 
