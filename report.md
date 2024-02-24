@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-02-24 07:06
-- **Most recent article:** 2024-02-23 06:36:02
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-02-24 19:05
+- **Most recent article:** 2024-02-23 18:51:19
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 135 | 936 |
-| measles | 25 | 61 | 56 | 47 | 68 | 45 | 60 | 362 |
+| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 139 | 940 |
+| measles | 25 | 61 | 56 | 47 | 68 | 45 | 69 | 371 |
 | malaria | 51 | 26 | 86 | 25 | 35 | 19 | 31 | 273 |
-| zika | 8 | 8 | 7 | 8 | 13 | 6 | 8 | 58 |
-| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 8 | 54 |
+| zika | 8 | 8 | 7 | 8 | 13 | 6 | 9 | 59 |
+| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 10 | 56 |
 | rabies | 5 | 5 | 9 | 7 | 7 | 9 | 5 | 47 |
-| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 4 | 41 |
-| mpox | 2 | 8 | 4 | 3 | 5 | 8 | 3 | 33 |
-| sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 9 | 25 |
+| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 5 | 42 |
+| mpox | 2 | 8 | 4 | 3 | 5 | 8 | 4 | 34 |
+| sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 11 | 27 |
 | pertussis | 2 | 5 | 2 | 3 | 2 | 6 | 0 | 20 |
 | typhoid | 0 | 1 | 2 | 2 | 1 | 2 | 1 | 9 |
 | yersinia | 1 | 1 | 2 | 0 | 1 | 2 | 1 | 8 |
@@ -32,6 +32,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-8 (zika)
+
+- [What is Zika and what are the health risks?](https://www.channelnewsasia.com/singapore/zika-virus-infection-aedes-mosquito-symptoms-prevention-4144156) (CNA)
 
 - [Potential Zika transmission in Boon Lay, pregnant women especially advised to monitor health: MOH](https://mothership.sg/2024/02/moh-zika-boon-lay/) (Mothership.sg)
 
@@ -58,6 +60,10 @@ Source: [News API](https://newsapi.org/)
 - [Alice Eve’s 8 Best Acting Roles (Including Star Trek's Carol Marcus)](https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/) (Screen Rant)
 
 ## 24-8 (sarampión)
+
+- [Brote de sarampión: Florida dice que niños no vacunados pueden ir a la escuela, desafiando a los CDC](https://kffhealthnews.org/news/article/brote-de-sarampion-florida-dice-que-ninos-no-vacunados-pueden-ir-a-la-escuela-desafiando-a-los-cdc/) (Kffhealthnews.org)
+
+- [La OMS precisa de "una respuesta rápida" ante el brote de sarampión en niños](https://www.infosalus.com/actualidad/noticia-oms-precisa-respuesta-rapida-brote-sarampion-ninos-20240223105828.html) (Infosalus.com)
 
 - [OMS insta a dar respuesta urgente contra brote de sarampión en UE: buscan para proteger a millones de niños](https://www.forbes.com.mx/oms-insta-a-dar-respuesta-urgente-contra-brote-de-sarampion-en-ue-buscan-para-proteger-a-millones-de-ninos/) (Forbes.com.mx)
 
@@ -91,6 +97,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (mpox)
 
+- [What You Need To Know About Alaskapox](https://www.discovermagazine.com/health/what-you-need-to-know-about-alaskapox) (Discover Magazine)
+
 - [Smallpox lesion characterization in placebo-treated and tecovirimat-treated macaques using traditional and novel methods](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012007) (Plos.org)
 
 - [What is Alaskapox? A microbiologist explains the recently discovered virus that just claimed its first fatality](https://theconversation.com/what-is-alaskapox-a-microbiologist-explains-the-recently-discovered-virus-that-just-claimed-its-first-fatality-223470) (The Conversation Africa)
@@ -98,6 +106,8 @@ Source: [News API](https://newsapi.org/)
 - [Bavarian Nordic delivered record financial results in 2023](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-delivered-record-financial-results-in-2023-45994098/) (Marketscreener.com)
 
 ## 24-8 (meningitis)
+
+- [Tackling long-haul diseases](https://www.technologyreview.com/2024/02/23/1087617/tackling-long-haul-diseases/) (MIT Technology Review)
 
 - [They came to clinics in Mexico for cosmetic surgery and got a deadly fungal meningitis](https://www.npr.org/sections/goatsandsoda/2024/02/22/1232959262/medical-tourism-cosmetic-surgery-fungal-meningitis-clinics-mexico) (NPR)
 
@@ -108,6 +118,24 @@ Source: [News API](https://newsapi.org/)
 - [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
+
+- [Measles Map Shows States With Reported Cases in 2024](https://www.newsweek.com/measles-map-states-reported-cases-2024-1872898) (Newsweek)
+
+- [Quack FL Surgeon General OK With Sending Unvaccinated Kids To School During Measles Outbreak](https://www.wonkette.com/p/quack-fl-surgeon-general-ok-with) (Wonkette.com)
+
+- [Measles cases are rising in the U.S. Here's why misinformation about the vaccine persists today](https://www.pbs.org/newshour/health/measles-cases-are-rising-in-the-u-s-heres-why-misinformation-about-the-vaccine-persists-today) (PBS)
+
+- [FL Surgeon General: Send Kids To School During Measles Outbreak](https://crooksandliars.com/2024/02/fl-surgeon-general-send-kids-school-during) (Crooksandliars.com)
+
+- [Florida Defies CDC in Measles Outbreak, Telling Parents It’s Fine to Send Unvaccinated Kids to School](https://www.nakedcapitalism.com/2024/02/florida-defies-cdc-in-measles-outbreak-telling-parents-its-fine-to-send-unvaccinated-kids-to-school.html) (Nakedcapitalism.com)
+
+- [Florida surgeon general defies science amid measles outbreak (Washington Post)](https://www.memeorandum.com/240223/p7) (Memeorandum.com)
+
+- [Florida Surgeon General Defies Science Amid Outbreak](https://politicalwire.com/2024/02/23/florida-surgeon-general-defies-science-amid-outbreak/) (Politicalwire.com)
+
+- [Why is measles making a comeback in the UK?](https://www.aljazeera.com/news/2024/2/23/why-is-measles-making-a-comeback-in-the-uk) (Al Jazeera English)
+
+- [Florida defies CDC as measles outbreak erupts at school](https://www.cbsnews.com/news/florida-measles-outbreak-unvaccinated-kids-school/) (CBS News)
 
 - [Measles outbreak 'just a plane ride away,' Manitoba health official warns](https://www.cbc.ca/news/canada/manitoba/measles-vaccinations-manitoba-1.7123096) (CBC News)
 
@@ -294,6 +322,14 @@ Source: [News API](https://newsapi.org/)
 - [The journey with malaria so far](https://punchng.com/the-journey-with-malaria-so-far/) (The Punch)
 
 ## 24-8 (dengue)
+
+- [DF terá vacinação contra dengue e outras doenças neste sábado. Confira](https://www.metropoles.com/distrito-federal/df-tera-vacinacao-contra-dengue-e-outras-doencas-neste-sabado-confira) (Metropoles.com)
+
+- [Jovem de 17 anos internado com dengue grave tem ereção de 18h. Entenda](https://www.metropoles.com/saude/erecao-de-18h-apos-contrair-dengue) (Metropoles.com)
+
+- [“Nojento”, dispara Monica Iozzi contra ajuda de Neymar a Daniel Alves](https://www.metropoles.com/colunas/fabia-oliveira/nojento-dispara-monica-iozzi-contra-ajuda-de-neymar-a-daniel-alves) (Metropoles.com)
+
+- [Monica Iozzi detona Neymar por doar dinheiro a Daniel Alves](https://www.metropoles.com/celebridades/monica-iozzi-detona-neymar-por-doar-dinheiro-a-daniel-alves) (Metropoles.com)
 
 - [Em duas semanas, DF vacina mais de 20 mil crianças contra a dengue](https://www.metropoles.com/distrito-federal/em-duas-semanas-df-vacina-mais-de-20-mil-criancas-contra-a-dengue) (Metropoles.com)
 
@@ -566,6 +602,10 @@ Source: [News API](https://newsapi.org/)
 - [Casos de chikungunya disparam 42% em meio à epidemia de dengue](https://noticias.r7.com/cidades/casos-de-chikungunya-disparam-epidemia-de-dengue-18022024) (R7.com)
 
 ## 24-8 (chikungunya)
+
+- [Prefeitura confirma a primeira morte por chikungunya em BH, em 2024](https://noticias.r7.com/minas-gerais/prefeitura-confirma-a-primeira-morte-por-chikungunya-em-bh-em-2024-23022024) (R7.com)
+
+- [Com epidemia a toda, já dá até pra fazer chá revelação: é dengue ou covid?](https://lulacerda.ig.com.br/com-epidemia-a-toda-ja-da-ate-pra-fazer-cha-revelacao-e-dengue-ou-covid/) (Ig.com.br)
 
 - [Bavarian Nordic's Chikungunya Vaccine Candidate Granted Accelerated Assessment by European Medicines Agency](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-s-Chikungunya-Vaccine-Candidate-Granted-Accelerated-Assessment-by-European-Medicin-46015331/) (Marketscreener.com)
 

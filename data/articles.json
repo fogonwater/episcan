@@ -1,8 +1,368 @@
 {
-  "last_updated": "2024-02-24 07:06",
-  "count_articles_total": 1809,
-  "count_articles_new": 16,
+  "last_updated": "2024-02-24 19:05",
+  "count_articles_total": 1829,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 5930,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "DF ter\u00e1 vacina\u00e7\u00e3o contra dengue e outras doen\u00e7as neste s\u00e1bado. Confira",
+      "description": "Imunizantes estar\u00e3o dispon\u00edveis em 18 unidades b\u00e1sicas de sa\u00fade (UBSs) e no evento GDF Mais Perto do Cidad\u00e3o, marcado para ocorrer no Varj\u00e3o",
+      "url": "https://www.metropoles.com/distrito-federal/df-tera-vacinacao-contra-dengue-e-outras-doencas-neste-sabado-confira",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09113210/Vacinacao-dengue-UBS-Asa-6.jpg",
+      "publishedAt": "2024-02-23 18:51:19",
+      "content": "A Secretaria de Sa\u00fade do Distrito Federal (SES-DF) vai vacinar a popula\u00e7\u00e3o de todas as idades e contra diversos tipos de doen\u00e7as, neste s\u00e1bado (24/2). Os imunizantes estar\u00e3o dispon\u00edveis em 18 unidad\u2026 [+1644 chars]",
+      "retrievedAt": "2024-02-24 19:05:29.541175",
+      "internal_id": "b9b25dfa0d461140335c4f6d448556e1dbd7ea49b83fd9bf5967bff9c6395a30",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5933,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Ant\u00f4nio Paulo com Samuel Chaves*, da Record Minas e R7",
+      "title": "Prefeitura confirma a primeira morte por chikungunya em BH, em 2024",
+      "description": "De acordo com a Secretaria Municipal de Sa\u00fade, cidade tem 452 infectados; 444 notifica\u00e7\u00f5es ainda s\u00e3o investigadas",
+      "url": "https://noticias.r7.com/minas-gerais/prefeitura-confirma-a-primeira-morte-por-chikungunya-em-bh-em-2024-23022024",
+      "urlToImage": "https://img.r7.com/images/chikungunya-23022024180826382?crop=622x350+21+0",
+      "publishedAt": "2024-02-23 18:22:03",
+      "content": "Prefeitura confirma a primeira morte por chikungunya em BH F\u00e1bio Marchetto / SES-MG A Prefeitura de Belo Horizonte confirmou, nesta sexta-feira (23), a primeira morte por chikungunya na capi\u2026 [+1411 chars]",
+      "retrievedAt": "2024-02-24 19:05:31.562513",
+      "internal_id": "4a4ad4040537bcd2782fb809b0fcfacec0b854b60f0d303122e39c4526f34be2",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5926,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen",
+      "title": "Brote de sarampi\u00f3n: Florida dice que ni\u00f1os no vacunados pueden ir a la escuela, desafiando a los CDC",
+      "description": "La mayor\u00eda de las personas que no est\u00e1n protegidas por una vacuna contraer\u00e1n sarampi\u00f3n si se exponen al virus. Existe riesgo de muerte.",
+      "url": "https://kffhealthnews.org/news/article/brote-de-sarampion-florida-dice-que-ninos-no-vacunados-pueden-ir-a-la-escuela-desafiando-a-los-cdc/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/02/GettyImages-713781945-resized.jpg",
+      "publishedAt": "2024-02-23 18:10:10",
+      "content": "Amy MaxmenEn un breve memorando, Joseph Ladapo, Cirujano General de Florida, ha revertido una norma de salud p\u00fablica que durante mucho tiempo ha mantenido bajo control los brotes de sarampi\u00f3n en el e\u2026 [+8372 chars]",
+      "retrievedAt": "2024-02-24 19:05:28.841705",
+      "internal_id": "ba501c1c8359665c56470cf81b86528cc56398031024496bcfa6a854ec29d268",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5935,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Discover Magazine",
+      "author": "Ra\u00fal Rivas Gonz\u00e1lez, Universidad de Salamanca",
+      "title": "What You Need To Know About Alaskapox",
+      "description": "What You Need To Know About Alaskapox",
+      "url": "https://www.discovermagazine.com/health/what-you-need-to-know-about-alaskapox",
+      "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/1NmtzhQjuULp13EK0o3kMY/8869985b7131b7a8aa348c0d424f61ed/file-20240211-16-m5e8r4.jpg",
+      "publishedAt": "2024-02-23 18:00:00",
+      "content": "Alaskapox, a virus in the same family as smallpox, cowpox, and mpox, claimed its first fatality in January 2024 when an elderly Alaskan man died of the illness. The virus, which was discovered in 20\u2026 [+5641 chars]",
+      "retrievedAt": "2024-02-24 19:05:31.918658",
+      "internal_id": "975a2511dc90d51e60d4bc0c7a44dca48aac747e12d721931d81928e94cf8988",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5931,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "MIT Technology Review",
+      "author": "Allison Guy, SM \u201923",
+      "title": "Tackling long-haul diseases",
+      "description": "MIT immunoengineer Michal \u201cMikki\u201d Tal remembers the exact moment she had an insight that would change the trajectory of her research, getting her hooked on studying a long-neglected disease that leaves millions of Americans suffering without treatment. It wa\u2026",
+      "url": "https://www.technologyreview.com/2024/02/23/1087617/tackling-long-haul-diseases/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/02/TAL_1258_thumb.jpg?resize=1200,600",
+      "publishedAt": "2024-02-23 17:05:11",
+      "content": "Tal, who has been obsessed with infectious disease since losing an uncle to HIV/AIDS and a cousin to meningococcal meningitis, wondered what this striking diversity could reveal about our immune resp\u2026 [+4572 chars]",
+      "retrievedAt": "2024-02-24 19:05:30.018701",
+      "internal_id": "1cc6715d35fe43f330d196e8467169d6dd7c773608a93c268c36cd406e8fd081",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5929,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Jovem de 17 anos internado com dengue grave tem ere\u00e7\u00e3o de 18h. Entenda",
+      "description": "Caso de jovem de Burkina Faso revela sintoma da doen\u00e7a at\u00e9 ent\u00e3o in\u00e9dito, relacionando a dengue \u00e0 ere\u00e7\u00e3o. Infectologistas se surpreendem",
+      "url": "https://www.metropoles.com/saude/erecao-de-18h-apos-contrair-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/01/20144125/homem-segurando-penis.jpg",
+      "publishedAt": "2024-02-23 16:14:38",
+      "content": "Apesar de a dengue ser muito conhecida e considerada end\u00eamica em alguns pa\u00edses incluindo o Brasil , novas consequ\u00eancias da infec\u00e7\u00e3o s\u00e3o descobertas a cada dia. Uma manifesta\u00e7\u00e3o at\u00e9 ent\u00e3o in\u00e9dita da \u2026 [+5222 chars]",
+      "retrievedAt": "2024-02-24 19:05:29.494303",
+      "internal_id": "7b9f7dc00819cfabd6e96f6aa348b66e7f2c6c29e39bee494ec1982c0c2114d3",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5922,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Aleks Phillips",
+      "title": "Measles Map Shows States With Reported Cases in 2024",
+      "description": "Health officials confirmed cases in at least 11 states, with the outbreak in Florida thought not down to global travel.",
+      "url": "https://www.newsweek.com/measles-map-states-reported-cases-2024-1872898",
+      "urlToImage": "https://d.newsweek.com/en/full/2353102/measles-map-feb-26.jpg",
+      "publishedAt": "2024-02-23 15:53:36",
+      "content": "Cases of measles have been recorded in at least 11 U.S. states since the start of the year, as local health officials attempt to prevent the spread of the disease. There have been confirmed cases in\u2026 [+4807 chars]",
+      "retrievedAt": "2024-02-24 19:05:28.404771",
+      "internal_id": "b97a479417b1984d20575b3c9eb1c292525c97b088a2eb7ef816ec71198b2f5d",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5921,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Doktor Zoom",
+      "title": "Quack FL Surgeon General OK With Sending Unvaccinated Kids To School During Measles Outbreak",
+      "description": "It's a parental 'choice.' Like letting kids play on freeways.",
+      "url": "https://www.wonkette.com/p/quack-fl-surgeon-general-ok-with",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b088a39-dd17-42e6-8f88-dbefc281f8cf_700x530.jpeg",
+      "publishedAt": "2024-02-23 15:15:19",
+      "content": "Lets get this right up front: measles is a highly infectious airborne virus that can cause serious health complications like brain swelling or even death in children, especially those younger than fi\u2026 [+5289 chars]",
+      "retrievedAt": "2024-02-24 19:05:28.397780",
+      "internal_id": "e96aad24defada3e0eed82b8b50c86a2307793c1b988afb7f9255569887890b7",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5924,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Laura Santhanam",
+      "title": "Measles cases are rising in the U.S. Here's why misinformation about the vaccine persists today",
+      "description": "Disrupted by the COVID pandemic and misinformation, measles vaccination among schoolchildren has declined dangerously, data show, resulting in a growing number of outbreaks.",
+      "url": "https://www.pbs.org/newshour/health/measles-cases-are-rising-in-the-u-s-heres-why-misinformation-about-the-vaccine-persists-today",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/02/GettyImages-1141724967-1024x711.jpg",
+      "publishedAt": "2024-02-23 13:56:55",
+      "content": "Global measles cases are on the rise, in spite of the widespread availability of a life-saving vaccine. Its an ominous reflection of waning vaccine confidence, experts say. In the United States, mul\u2026 [+10818 chars]",
+      "retrievedAt": "2024-02-24 19:05:28.457841",
+      "internal_id": "f0af8dee53c053e98b44b971da8e4f0bfb446469be90e29c1fd2a05a26396113",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5928,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "F\u00e1bia Oliveira",
+      "title": "\u201cNojento\u201d, dispara Monica Iozzi contra ajuda de Neymar a Daniel Alves",
+      "description": "Mesmo com dengue, a jornalista Monica Iozzi usou os stories do Instagram, na noite de quinta-feira (22/2), para soltar o verbo contra Neymar e Daniel Alves",
+      "url": "https://www.metropoles.com/colunas/fabia-oliveira/nojento-dispara-monica-iozzi-contra-ajuda-de-neymar-a-daniel-alves",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/23103521/capa-1104.jpg",
+      "publishedAt": "2024-02-23 13:53:53",
+      "content": "A ajuda financeira enviada por Neymar para a defesa de Daniel Alves, que ajudou o ex-jogador a reduzir sua pena, ainda est\u00e1 rendendo. Mesmo com dengue, a jornalista Monica Iozzi usou os stories do In\u2026 [+5868 chars]",
+      "retrievedAt": "2024-02-24 19:05:29.482954",
+      "internal_id": "4a189407c504d1f5e7548e880801937a1707bae992c7d5103863efead88521ec",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5934,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Com epidemia a toda, j\u00e1 d\u00e1 at\u00e9 pra fazer ch\u00e1 revela\u00e7\u00e3o: \u00e9 dengue ou covid?",
+      "description": "Como muita gente j\u00e1 previa \u2014 e sentiu na pele \u2014, o p\u00f3s-carnaval teve um mix de doen\u00e7as com dengue, coronav\u00edrus, chikungunya, al\u00e9m daquelas velhas viroses de todos os anos. Levantamento da Associa\u00e7\u00e3o Brasileira de Medicina Diagn\u00f3stica mostra que os casos de co\u2026",
+      "url": "https://lulacerda.ig.com.br/com-epidemia-a-toda-ja-da-ate-pra-fazer-cha-revelacao-e-dengue-ou-covid/",
+      "urlToImage": "https://lulacerda.ig.com.br/wp-content/uploads/2024/02/cha-revelacao-.jpeg",
+      "publishedAt": "2024-02-23 13:30:56",
+      "content": "Ch\u00e1 revela\u00e7\u00e3o pra saber se \u00e9 dengue ou covid /Foto: Reprodu\u00e7\u00e3o Como muita gente j\u00e1 previa e sentiu na pele , o p\u00f3s-carnaval teve um mix de doen\u00e7as com dengue, coronav\u00edrus, chikungunya, al\u00e9m daquela\u2026 [+638 chars]",
+      "retrievedAt": "2024-02-24 19:05:31.567231",
+      "internal_id": "8474015309fc99e713edb14e58a83a0eed1f8558f1ca80fe9bec00b9f5cc6690",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5918,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Susie Madrak",
+      "title": "FL Surgeon General: Send Kids To School During Measles Outbreak",
+      "description": "As a Florida school deals with a growing measles outbreak, the whack job surgeon general is basically making shit up to fabricate a policy that leaves unvaccinated children at risk of contracting one of the most contagious pathogens on Earth. Floriduh! Via th\u2026",
+      "url": "https://crooksandliars.com/2024/02/fl-surgeon-general-send-kids-school-during",
+      "urlToImage": "https://crooksandliars.com/files/embeds/2024/02/59267.jpg",
+      "publishedAt": "2024-02-23 13:15:15",
+      "content": "As a Florida school deals with a growing measles outbreak, the whack job surgeon general is basically making shit up to fabricate a policy that leaves unvaccinated children at risk of contracting one\u2026 [+3137 chars]",
+      "retrievedAt": "2024-02-24 19:05:28.372271",
+      "internal_id": "b0c755be365a20e6fc24aca25511cc056f80e35b51bee51866cc2458661d88a6",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5927,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Gabriel Lima",
+      "title": "Monica Iozzi detona Neymar por doar dinheiro a Daniel Alves",
+      "description": "Mesmo com dengue e acamada, Monica Iozzi foi ao Instagram para deixar cr\u00edticas a Neymar no caso Daniel Alves",
+      "url": "https://www.metropoles.com/celebridades/monica-iozzi-detona-neymar-por-doar-dinheiro-a-daniel-alves",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/23092739/Monica-Iozzi-Neymar-Daniel-Alves-1.jpg",
+      "publishedAt": "2024-02-23 12:30:28",
+      "content": "Moniza Iozzi foi ao Instagram para detonar Daniel Alves, que foi condenado a quatro anos e meio de pris\u00e3o por estupro. A atriz e apresentadora aproveitou ainda para detonar Neymar que, com a ajuda da\u2026 [+2529 chars]",
+      "retrievedAt": "2024-02-24 19:05:29.449398",
+      "internal_id": "616df49365e5e8094a7bc37784fb67b8d59a7f44c4e09661bda4577e73400cbc",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5917,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Florida Defies CDC in Measles Outbreak, Telling Parents It\u2019s Fine to Send Unvaccinated Kids to School",
+      "description": "The US continues to embrace rolling back progress as Florida greenlights measles by letting infected kids go to school.",
+      "url": "https://www.nakedcapitalism.com/2024/02/florida-defies-cdc-in-measles-outbreak-telling-parents-its-fine-to-send-unvaccinated-kids-to-school.html",
+      "urlToImage": null,
+      "publishedAt": "2024-02-23 11:14:36",
+      "content": "Yves here. Even though has Lambert featured the appalling further collapse in public health standards, via Florida greenlighting measles spread through its Surgeon General greenlighting infected kids\u2026 [+9960 chars]",
+      "retrievedAt": "2024-02-24 19:05:28.365031",
+      "internal_id": "aad05db0236388d3917524d1ecf1cda202677510fa66e78d05b529eec980fd75",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5920,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Florida surgeon general defies science amid measles outbreak (Washington Post)",
+      "description": "Washington Post: Florida surgeon general defies science amid measles outbreak \u2014 As a Florida elementary school tries to contain a growing measles outbreak, the state's top health official is giving advice that runs counter to science and may leave unvaccina\u2026",
+      "url": "https://www.memeorandum.com/240223/p7",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNJXYMUF7EI6ZFI4DYGMG4R6KM.jpg&w=1440",
+      "publishedAt": "2024-02-23 10:55:05",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-02-24 19:05:28.393669",
+      "internal_id": "295d5c67a1f39fe53f514c20de62a22661dceb85909b5fec79b07a2e0cc692d1",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5923,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Florida Surgeon General Defies Science Amid Outbreak",
+      "description": "\u201cAs a Florida elementary school tries to contain a growing measles outbreak, the state\u2019s top health official is giving advice that runs counter to science and may leave unvaccinated children at risk of contracting one of the most contagious pathogens on Earth\u2026",
+      "url": "https://politicalwire.com/2024/02/23/florida-surgeon-general-defies-science-amid-outbreak/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2024-02-23 10:11:00",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2024-02-24 19:05:28.421072",
+      "internal_id": "1f6841a4795c612c7d7a831820e32f8fad298c51648abdf3bf42892ddbc90182",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5916,
+      "query": [
+        "measles"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Alasdair Soussi",
+      "title": "Why is measles making a comeback in the UK?",
+      "description": "As parents refuse vaccines for their children, the UK has seen a surge in measles cases over the past year.",
+      "url": "https://www.aljazeera.com/news/2024/2/23/why-is-measles-making-a-comeback-in-the-uk",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/02/AP19115714363646-1708676675.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-02-23 10:04:20",
+      "content": "On Tuesday, the first case of measles in seven years was reported in Northern Ireland. Outbreaks of measles have sprung up in parts of Britain in recent months amid concerns of what Dr Vanessa Salib\u2026 [+6363 chars]",
+      "retrievedAt": "2024-02-24 19:05:28.352505",
+      "internal_id": "de4b72ec24a03b01adda399cb461aac446aad71dec3f9cd0f89d36ff8e521161",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5919,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "Florida defies CDC as measles outbreak erupts at school",
+      "description": "The state's surgeon general grants parents permission to send unvaccinated children to school during a measles outbreak, risking their health and that of others.",
+      "url": "https://www.cbsnews.com/news/florida-measles-outbreak-unvaccinated-kids-school/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/23/3817b506-af94-4e81-b75d-324315dbe1a7/thumbnail/1200x630/abaf2bd84906cce6d6b1fb5362688c1a/gettyimages-2023782258.jpg?v=99cbd804c3e0f1c84ac31cc518eb26be",
+      "publishedAt": "2024-02-23 10:00:03",
+      "content": "With a brief memo, Florida Surgeon General Joseph Ladapo has subverted a public health standard that's long kept measles outbreaks under control. On Feb. 20, as measles spread through Manatee Bay El\u2026 [+7888 chars]",
+      "retrievedAt": "2024-02-24 19:05:28.377483",
+      "internal_id": "7e59a42a80ddcd9c6856bab2b9afc4f006540d4dfc231c688993bb3adabb0de5",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5925,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS precisa de \"una respuesta r\u00e1pida\" ante el brote de sarampi\u00f3n en ni\u00f1os",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) precisa \"una respuesta r\u00e1pida\" ante el brote de sarampi\u00f3n registrado en 2023, provocando m\u00e1s de 58 000 casos en 41 de los 53 Estados Miembros de la Regi\u00f3n de Europa y Asia central, de los cuales casi la mitad fueron n\u2026",
+      "url": "https://www.infosalus.com/actualidad/noticia-oms-precisa-respuesta-rapida-brote-sarampion-ninos-20240223105828.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240223105828_1200.jpg",
+      "publishedAt": "2024-02-23 09:58:28",
+      "content": "MADRID, 23 Feb. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) precisa \"una respuesta r\u00e1pida\" ante el brote de sarampi\u00f3n registrado en 2023, provocando m\u00e1s de 58 000 casos en 41 de los\u2026 [+3334 chars]",
+      "retrievedAt": "2024-02-24 19:05:28.829357",
+      "internal_id": "5aa5623f41ff83cd8affc5a6ab2dea3b2569e0018a65789ca5a9dbd514446d8f",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5932,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "What is Zika and what are the health risks?",
+      "description": "How is the Zika virus transmitted and what can you do to protect yourself?",
+      "url": "https://www.channelnewsasia.com/singapore/zika-virus-infection-aedes-mosquito-symptoms-prevention-4144156",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--zoOxaK3t--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-01-03t185758z_1_lynxmpek020kp_rtroptp_3_health-zika-brazil.jpg?itok=o2lurO2r",
+      "publishedAt": "2024-02-23 07:47:39",
+      "content": "SINGAPORE: Surveillance has been stepped up in Boon Lay after one Zika case was reported in December, the Ministry of Health (MOH) and National Environment Agency (NEA) said on Thursday (Feb 22). Wh\u2026 [+4657 chars]",
+      "retrievedAt": "2024-02-24 19:05:31.111254",
+      "internal_id": "56eaed8cedcd645a7835d8fe31f3776e3d61fafba76d3aa24aeea78c32031b92",
+      "publishedAtLabel": "Feb 23"
+    },
     {
       "id": 5913,
       "query": [
