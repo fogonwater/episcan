@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2024-02-23 19:06
-- **Most recent article:** 2024-02-22 18:17:16
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-02-24 07:06
+- **Most recent article:** 2024-02-23 06:36:02
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 129 | 930 |
-| measles | 25 | 61 | 56 | 47 | 68 | 45 | 57 | 359 |
-| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 29 | 271 |
+| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 135 | 936 |
+| measles | 25 | 61 | 56 | 47 | 68 | 45 | 60 | 362 |
+| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 31 | 273 |
 | zika | 8 | 8 | 7 | 8 | 13 | 6 | 8 | 58 |
-| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 4 | 50 |
-| rabies | 5 | 5 | 9 | 7 | 7 | 9 | 4 | 46 |
+| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 8 | 54 |
+| rabies | 5 | 5 | 9 | 7 | 7 | 9 | 5 | 47 |
 | meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 4 | 41 |
 | mpox | 2 | 8 | 4 | 3 | 5 | 8 | 3 | 33 |
 | sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 9 | 25 |
@@ -79,6 +79,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (rabies)
 
+- [Don’t touch wild bats, Alabama health department warns](https://www.al.com/news/2024/02/dont-touch-wild-bats-alabama-health-department-warns.html) (AL.com)
+
 - [North Carolina health officials confirm rabies case in a kitten](https://www.wxii12.com/article/north-carolina-davidson-county-health-department-confirms-rabies-case-stray-kitten/46874024) (WXII12 Winston-Salem)
 
 - [Veterinary epidemiologist works to combat rabies in Uganda](https://phys.org/news/2024-02-veterinary-epidemiologist-combat-rabies-uganda.html) (Phys.Org)
@@ -106,6 +108,12 @@ Source: [News API](https://newsapi.org/)
 - [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
+
+- [Measles outbreak 'just a plane ride away,' Manitoba health official warns](https://www.cbc.ca/news/canada/manitoba/measles-vaccinations-manitoba-1.7123096) (CBC News)
+
+- [Florida’s Experiment With Measles](https://www.theatlantic.com/health/archive/2024/02/florida-measles-outbreak-school-children-vaccination/677539/?utm_source=feed) (The Atlantic)
+
+- [Chief Medical Officer ‘very concerned’ Ireland is at high risk for measles outbreak](https://www.independent.ie/irish-news/chief-medical-officer-very-concerned-ireland-is-at-high-risk-for-measles-outbreak/a753642156.html) (Independent.ie)
 
 - [Serious viral infection spreads at elementary school decades after it was eradicated in U.S.](https://www.wnd.com/2024/02/serious-viral-infection-spreads-elementary-school-decades-eradicated-u-s/) (Wnd.com)
 
@@ -223,6 +231,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (malaria)
 
+- [Why Nyando residents bear brunt of malaria despite using mosquito nets](https://nation.africa/kenya/health/why-nyando-residents-bear-brunt-of-malaria-despite-using-mosquito-nets-4531126) (Nation.africa)
+
+- [In 2023, India hit target towards eliminating Kala Azar, first time](https://indianexpress.com/article/india/in-2023-india-hit-target-towards-eliminating-kala-azar-first-time-9176179/) (The Indian Express)
+
 - [Calcio: Fiorentina; in dubbio Biraghi contro la Lazio](https://www.ansa.it/sito/notizie/sport/calcio/2024/02/22/calcio-fiorentina-in-dubbio-biraghi-contro-la-lazio_f7c588a7-c92e-4294-b605-4614522d59ba.html) (ANSA.it)
 
 - [Fiorentina, Kouame positivo alla malaria. Per l'ivoriano almeno 2-3 settimane di stop](https://www.tuttomercatoweb.com/serie-a/fiorentina-kouame-positivo-alla-malaria-per-l-ivoriano-almeno-2-3-settimane-di-stop-1938111) (Tuttomercatoweb.com)
@@ -283,11 +295,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (dengue)
 
+- [Em duas semanas, DF vacina mais de 20 mil crianças contra a dengue](https://www.metropoles.com/distrito-federal/em-duas-semanas-df-vacina-mais-de-20-mil-criancas-contra-a-dengue) (Metropoles.com)
+
+- [Repelente de tomada pode fazer mal à saúde. Saiba evitar riscos](https://www.metropoles.com/saude/repelente-de-tomada-pode-fazer-mal-saude) (Metropoles.com)
+
+- [Adolescente de 14 anos morre com dengue no Distrito Federal](https://www.metropoles.com/distrito-federal/adolescente-de-14-anos-morre-com-dengue-no-distrito-federal) (Metropoles.com)
+
+- [Dengue: o pote de água do seu pet pode ser um foco do mosquito](https://www.metropoles.com/colunas/e-o-bicho/dengue-o-pote-de-agua-do-seu-pet-pode-ser-um-foco-do-mosquito) (Metropoles.com)
+
 - [L’épidémie de dengue la plus intense depuis vingt ans « met à plat toute la Guyane »](https://www.lemonde.fr/planete/article/2024/02/22/l-epidemie-de-dengue-la-plus-intense-depuis-vingt-ans-met-a-plat-toute-la-guyane_6217971_3244.html) (Le Monde)
 
 - [Presidente do Republicanos, Marcos Pereira testa positivo para dengue](https://veja.abril.com.br/coluna/maquiavel/presidente-do-republicanos-marcos-pereira-testa-positivo-para-dengue) (Abril.com.br)
 
 - [Onze cidades estão em emergência por causa da dengue em SP; veja quais](https://www.metropoles.com/sao-paulo/onze-cidades-emergencia-dengue-sp) (Metropoles.com)
+
+- [Itália já registra 48 casos importados de dengue em 2024](https://www.terra.com.br/noticias/mundo/italia-ja-registra-48-casos-importados-de-dengue-em-2024,8f37a69a34dfc3dd23eebb4227403ebfpsgu3k2f.html) (Terra.com.br)
 
 - [Rio recebe primeiro lote de vacinas contra a dengue](https://www.metropoles.com/brasil/rio-recebe-primeiro-lote-de-vacinas-contra-a-dengue) (Metropoles.com)
 
@@ -300,6 +322,8 @@ Source: [News API](https://newsapi.org/)
 - [Ribera, Morant y García presentan el Observatorio de Salud y Cambio Climático: "El dengue podría ser un problema aquí"](https://www.infosalus.com/actualidad/noticia-ribera-morant-garcia-presentan-observatorio-salud-cambio-climatico-dengue-podria-ser-problema-aqui-20240222111110.html) (Infosalus.com)
 
 - [Hospitais de campanha, tendas e UBSs fortalecem combate à dengue no DF](https://www.metropoles.com/conteudo-especial/dengue-hcamps-tendas-ubs) (Metropoles.com)
+
+- [Dengue: casos confirmados em 2024 é superior ao total do ano passado](https://saude.ig.com.br/2024-02-22/dengue--casos-de-2024-superam-o-total-registrado-em-todo-o-o-ano-passado.html) (Ig.com.br)
 
 - [Governador decreta epidemia de dengue no RJ](https://valor.globo.com/brasil/noticia/2024/02/22/governador-decreta-epidemia-de-dengue-no-rj.ghtml) (Globo)
 
@@ -542,6 +566,14 @@ Source: [News API](https://newsapi.org/)
 - [Casos de chikungunya disparam 42% em meio à epidemia de dengue](https://noticias.r7.com/cidades/casos-de-chikungunya-disparam-epidemia-de-dengue-18022024) (R7.com)
 
 ## 24-8 (chikungunya)
+
+- [Bavarian Nordic's Chikungunya Vaccine Candidate Granted Accelerated Assessment by European Medicines Agency](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-s-Chikungunya-Vaccine-Candidate-Granted-Accelerated-Assessment-by-European-Medicin-46015331/) (Marketscreener.com)
+
+- [Bavarian Nordics vaccinekandidat mod chikungunya er blevet tildelt fremskyndet vurdering af Det Europæiske Lægemiddelagentur](https://www.globenewswire.com/news-release/2024/02/23/2834229/0/da/Bavarian-Nordics-vaccinekandidat-mod-chikungunya-er-blevet-tildelt-fremskyndet-vurdering-af-Det-Europ%C3%A6iske-L%C3%A6gemiddelagentur.html) (GlobeNewswire)
+
+- [Bavarian Nordic’s Chikungunya Vaccine Candidate Granted Accelerated Assessment by European Medicines Agency](https://www.globenewswire.com/news-release/2024/02/23/2834229/0/en/Bavarian-Nordic-s-Chikungunya-Vaccine-Candidate-Granted-Accelerated-Assessment-by-European-Medicines-Agency.html) (GlobeNewswire)
+
+- [Campinas registra primeiro caso de chikungunya em 2024 e tem salto nos casos de dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/22/campinas-registra-primeiro-caso-de-chikungunya-em-2024-e-tem-salto-nos-casos-de-dengue.ghtml) (Globo)
 
 - [Amazonas tem surto de febre oropouche; saiba mais](https://brasil.perfil.com/saude/amazonas-tem-surto-de-febre-oropouche-saiba-mais.phtml) (Perfil.com)
 
