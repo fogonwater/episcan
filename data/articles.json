@@ -1,8 +1,261 @@
 {
-  "last_updated": "2024-02-25 07:06",
-  "count_articles_total": 1712,
-  "count_articles_new": 24,
+  "last_updated": "2024-02-25 19:05",
+  "count_articles_total": 1724,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 5965,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "Erika Edwards",
+      "title": "Measles is a \u2018heat-seeking missile\u2019 experts warn as Florida outbreak grows",
+      "description": "The Florida measles outbreak is expanding.",
+      "url": "https://www.today.com/health/news/measles-outbreak-warning-rcna140343",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-02/measles-te-240215-af316e.jpg",
+      "publishedAt": "2024-02-24 19:05:00",
+      "content": "The Florida measles outbreak is expanding. On Friday, health officials in Broward County confirmed a seventh case of the virus, a child under age 5. The patient is the youngest so far to be infected\u2026 [+5762 chars]",
+      "retrievedAt": "2024-02-25 19:05:36.415001",
+      "internal_id": "16455dc6cde83efd146905f102b15075018299b0e9203585a71ed108d843aefa",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5970,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Rub\u00e9n Guillem\u00ed",
+      "title": "La mayor f\u00e1brica de mosquitos anti-dengue del mundo est\u00e1 en Am\u00e9rica Latina: c\u00f3mo trabaja y los planes para la Argentina",
+      "description": "En una moderna instalaci\u00f3n los Aedes aegypti son infectados con una bacteria que impide la transmisi\u00f3n de enfermedades vir\u00f3sicas como el dengue, zika, chikungunya y fiebre amarilla; en localidades colombianas hiperend\u00e9micas lograron reducir a cero el n\u00famero d\u2026",
+      "url": "https://www.lanacion.com.ar/el-mundo/la-mayor-fabrica-de-mosquitos-anti-dengue-del-mundo-esta-en-america-latina-como-trabaja-y-los-planes-nid24022024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/laboratorios-del-world-mosquito-program-wmp-en-TFL3MFIOJFEIRD3TIX2H4XZU6E.jpg?auth=2a74017c4e317cc0d18a46f69d9a7f0a20cbf794c9cc173d9cd868990de7e0f2&width=768&quality=70&smart=false",
+      "publishedAt": "2024-02-24 18:45:23",
+      "content": "Con la invasi\u00f3n de mosquitos que vive por estos d\u00edas la ciudad de Buenos Aires y alrededores pareciera una teor\u00eda confabulatoria recordar que en Medell\u00edn, Colombia, funciona la mayor f\u00e1brica de mosqu\u2026 [+6681 chars]",
+      "retrievedAt": "2024-02-25 19:05:39.018175",
+      "internal_id": "09370eede2f1dc748c7af3fc2e47b136093890d3b0d4f6ab2699b44b61100770",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5968,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Minist\u00e9rio da Sa\u00fade envia segunda remessa de vacinas contra dengue a sete estados",
+      "description": "S\u00c3O PAULO, SP (FOLHAPRESS) O Minist\u00e9rio da Sa\u00fade distribuiu a segunda remessa da vacina contra a dengue na \u00faltima semana a sete estados...",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/ministerio-da-saude-envia-segunda-remessa-de-vacinas-contra-dengue-a-sete-estados/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/24181147/IMG_0434.jpeg",
+      "publishedAt": "2024-02-24 18:11:59",
+      "content": "S\u00c3O PAULO, SP (FOLHAPRESS) O Minist\u00e9rio da Sa\u00fade distribuiu a segunda remessa da vacina contra a dengue na \u00faltima semana a sete estados. A primeira entrega ocorreu h\u00e1 cerca de dez dias e foi direcio\u2026 [+1503 chars]",
+      "retrievedAt": "2024-02-25 19:05:37.388857",
+      "internal_id": "443ce19d595b6c56fac388cd6f6cc7e529c541a5776c9d9ad9295814f8f02bc2",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5967,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Hargittai \u00c9va Ilona",
+      "title": "Gigantikus sz\u00fanyoginv\u00e1zi\u00f3 s\u00fajtja Buenos Airest",
+      "description": "Gigantikus sz\u00fanyoginv\u00e1zi\u00f3 s\u00fajtja Buenos Airest - A dengue-l\u00e1z terjed\u00e9se miatt is agg\u00f3dnak.",
+      "url": "https://index.hu/kulfold/2024/02/24/szunyoginvazio-buenos-aires-dengue-laz-rio-de-janeiro/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/5500/55009/550096/55009691_4065647_f386e9db424a2838aeded92c8e426d63_wm.jpg",
+      "publishedAt": "2024-02-24 17:58:00",
+      "content": "Az egy h\u00e9ttel ezeltti sz\u00fanyoginv\u00e1zi\u00f3t k\u00f6veten most a m\u00e1sodik inv\u00e1zi\u00f3 s\u00fajtja Buenos Aires v\u00e1rost \u00e9s k\u00f6rny\u00e9k\u00e9nek utc\u00e1it. A v\u00e9rsz\u00edv\u00f3 rovarok megjelen\u00e9se n\u00f6veli a dengue-l\u00e1z terjed\u00e9s\u00e9vel kapcsolatos agg\u2026 [+2270 chars]",
+      "retrievedAt": "2024-02-25 19:05:37.348968",
+      "internal_id": "64a8664b4e3bedc1d6415d4ff2c17f584e9534086fd0e41014c0e0a63edca30f",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5962,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "disneyfoodblog.com",
+      "author": "Brianna LeCompte",
+      "title": "Measles Outbreak in Florida Makes Headlines Right Before Spring Break Season Begins",
+      "description": "A measles outbreak is currently under investigation in Florida, just ahead of the spring break travel season. The post Measles Outbreak in Florida Makes Headlines Right Before Spring Break Season Begins first appeared on the disney food blog.",
+      "url": "https://www.disneyfoodblog.com/2024/02/24/measles-outbreak-in-florida-makes-headlines-right-before-spring-break-season-begins/",
+      "urlToImage": "https://www.disneyfoodblog.com/wp-content/uploads/2023/11/2023-adventhealth-er-flamingo-crossings-emergency-room-700x525.jpg",
+      "publishedAt": "2024-02-24 17:29:50",
+      "content": "A measles outbreak is currently under investigation in Florida, just ahead of the start of spring break season. Florida Sunset The spring break season typically means a huge influx of visitors in F\u2026 [+2761 chars]",
+      "retrievedAt": "2024-02-25 19:05:36.318608",
+      "internal_id": "87f11935b94090edbd83b94bd7bcebd7d508edd6b9cc87199c6da3174a47fb7e",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5973,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAKIAH KOYA",
+      "title": "That\u2019s not just a tummy ache, it may actually be typhoid",
+      "description": "PETALING JAYA: There is a need for greater awareness of acute gastroenteritis (AGE) as some cases may involve typhoid, which would make patients carriers for up to a year, say medical experts. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/02/25/thats-not-just-a-tummy-ache-it-may-actually-be-typhoid",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/02/25/2560801.jpg",
+      "publishedAt": "2024-02-24 16:00:00",
+      "content": "PETALING JAYA: There is a need for greater awareness of acute gastroenteritis (AGE) as some cases may involve typhoid, which would make patients carriers for up to a year, say medical experts. With \u2026 [+2750 chars]",
+      "retrievedAt": "2024-02-25 19:05:40.216189",
+      "internal_id": "0d1f0a7e56f41364e6d2d0eb539624aee397c78ad5831e81d3f799db07752986",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5964,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Daily Beast",
+      "author": "The Daily Beast",
+      "title": "Florida Tallies 7th Measles Case as Experts Slam DeSantis Doc",
+      "description": "Matias J. Ocner/Miami Herald via Getty Broward County, Florida, has recorded its seventh measles case, but the state\u2019s top doctor still is not encouraging vaccination or quarantine for those who have been exposed. Surgeon General Dr. Joseph Ladapo\u2019s decision\u2026",
+      "url": "https://www.thedailybeast.com/florida-tallies-7th-measles-case-as-experts-slam-ron-desantis-doc",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_36/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1708787794/GettyImages-2023782258_zwedsy",
+      "publishedAt": "2024-02-24 15:22:14",
+      "content": "Broward County, Florida, has recorded its seventh measles case, but the states top doctor still is not encouraging vaccination or quarantine for those who have been exposed. Surgeon General Dr. Josep\u2026 [+939 chars]",
+      "retrievedAt": "2024-02-25 19:05:36.409176",
+      "internal_id": "f52a6ba73de6ba843ceb8056750b5473aa3796bd47596a87c3475e749fb0fa61",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5972,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "https://www.facebook.com/lavozdegalicia",
+      "title": "Infectado un ni\u00f1o de seis a\u00f1os de viruela del mono en Sevilla",
+      "description": "Hay otros dos adultos de su familia contagiados y se ha activado el protocolo para vacunar a los compa\u00f1eros de clase del menor",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2024/02/24/infectado-nino-seis-anos-viruela-mono-sevilla/00031708786774076499762.htm",
+      "urlToImage": "https://cflvdg.avoz.es/sc/rwP6rfZ5Vp4Nig453EmazM77sNc=/1280x/2024/02/24/00121708787161934712171/Foto/reu_20231204_182523493.jpg",
+      "publishedAt": "2024-02-24 15:06:00",
+      "content": "La Consejer\u00eda de Salud y Consumo ha identificado este pasado viernes 23 de febrero tres casos de viruela del mono (Mpox) en el \u00e1mbito familiar, afectando a dos adultos y un menor de 6 a\u00f1os de Sevilla\u2026 [+3199 chars]",
+      "retrievedAt": "2024-02-25 19:05:39.832869",
+      "internal_id": "66f321cfbcabadd57ea145dd5c1662d3585d757184053c352047bce96b8b5684",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5966,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Tamires Ferreira",
+      "title": "Dengue: apesar da alta nos casos, pico ainda deve ocorrer",
+      "description": "Com boom em 2024, Brasil pode ter recorde de casos e mortes pela doen\u00e7a O post Dengue: apesar da alta nos casos, pico ainda deve ocorrer apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/24/medicina-e-saude/dengue-apesar-da-alta-nos-casos-pico-ainda-deve-ocorrer/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/02/dengue-695x500.jpg",
+      "publishedAt": "2024-02-24 15:02:00",
+      "content": "Segundo estimativas do Minist\u00e9rio da Sa\u00fade, o Brasil caminha para um recorde de casos de dengue em 2024, podendo alcan\u00e7ar os 4,2 milh\u00f5es de pessoas infectadas quase o triplo do que foi registrado ano\u2026 [+2270 chars]",
+      "retrievedAt": "2024-02-25 19:05:37.299944",
+      "internal_id": "5b076311b5f071725fdb19c4b7bf5adf8f71d33fad2644bb7d6c5c986b4ead9b",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5971,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Confirman tres casos de viruela del mono en Sevilla, entre ellos un ni\u00f1o de 6 a\u00f1os, e instan a vacunarse a su clase",
+      "description": "La Consejer\u00eda de Salud y Consumo ha identificado este pasado viernes 23 de febrero tres casos de viruela de mono (Mpox) en el \u00e1mbito familiar, afectando a dos adultos y un menor de 6 a\u00f1os de Sevilla \"de manera leve\". Por su \"posible incidencia en el \u00e1mbito es\u2026",
+      "url": "https://www.europapress.es/esandalucia/sevilla/noticia-confirman-tres-casos-viruela-mono-sevilla-ellos-nino-anos-instan-vacunarse-clase-20240224152245.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240224152245_1200.jpg",
+      "publishedAt": "2024-02-24 14:22:45",
+      "content": "SEVILLA, 24 Feb. (EUROPA PRESS) - La Consejer\u00eda de Salud y Consumo ha identificado este pasado viernes 23 de febrero tres casos de viruela de mono (Mpox) en el \u00e1mbito familiar, afectando a dos adu\u2026 [+3244 chars]",
+      "retrievedAt": "2024-02-25 19:05:39.821185",
+      "internal_id": "5ea814c9eeedb94ca96992db90e87e7c471b60d8449e906ae4a705ba20c8127d",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5963,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Doctors are warning of an alarming increase in measles cases across the U.S.",
+      "description": "Doctors say there has been an alarming increase in measles cases nationwide. One school in South Florida is struggling to contain an outbreak, and the state's top doctor is defying more than 50 years of federal guidance.",
+      "url": "https://www.cbsnews.com/video/doctors-are-warning-of-an-alarming-increase-in-measles-cases-across-the-u-s/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/24/6564f72f-0ad3-4d2c-bd4a-92e2682a2fd7/thumbnail/1200x630/e00bc394408efcb5a3bbced091ccb34e/0224-satmo-measlesoutbreak-bojorquez-2708461-640x360.jpg?v=26439302e0bbe3219b6ef78d2fd37ce0",
+      "publishedAt": "2024-02-24 13:17:39",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-02-25 19:05:36.324565",
+      "internal_id": "c42e6470a3c2999a678c89c6e73f43b97fa7c584f6e4e3e23dc1a67eadd2784a",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5961,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards and Sam Brock",
+      "title": "Measles is a 'heat-seeking missile' experts warn as Florida outbreak grows",
+      "description": "Florida Surgeon General Dr. Joseph Ladapo\u2019 choice to let parents decide whether to quarantine their children or let them keep going to school has drawn fire from experts.",
+      "url": "https://www.nbcnews.com/health/kids-health/florida-measles-cases-rise-experts-oppose-state-surgeon-generals-decis-rcna140000",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240223-florida-joseph-ladapo-2022-ac-742p-1c8cd5.jpg",
+      "publishedAt": "2024-02-24 12:00:00",
+      "content": "The Florida measles outbreak is expanding. On Friday, health officials inBroward County confirmed a seventh case of the virus, a child under age 5. The patient is the youngest so far to be infected \u2026 [+5851 chars]",
+      "retrievedAt": "2024-02-25 19:05:36.302634",
+      "internal_id": "562d98c20abbcebfd8a2e2e9582027e58d8973474e7649f590a27b78075b69b3",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5960,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Links 2/24/2024",
+      "description": "Our zesty daily links: Neanderthal adhesives, moar measles, China + US v. emerging economy defaults? Israel post war plan, rodents eating Ukraine materiel, 500 sanctions, Fani Willis v. cell phone records, hack= phones on fire, US inablity to rebuild arms sec\u2026",
+      "url": "https://www.nakedcapitalism.com/2024/02/links-2-24-2024.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/02/00-kurger.jpg",
+      "publishedAt": "2024-02-24 11:55:22",
+      "content": "On the shared genetic memories between us, the cat and the fly aeon Anthony L) Neanderthals\u2019 usage of complex adhesives reveals higher cognitive abilities, scientists discover New York University (C\u2026 [+7432 chars]",
+      "retrievedAt": "2024-02-25 19:05:36.283113",
+      "internal_id": "1bc3ad4c3e94b25cd4cd4d119197c9a9f38382c7a7a446f29dab0dd5db476d9b",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5969,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "DeporteTuit",
+      "title": "Un joven de 17 a\u00f1os tuvo una erecci\u00f3n de 18 horas por dengue",
+      "description": "En un giro sorprendente para la comunidad m\u00e9dica, un caso reciente relacionado con el dengue despierta una inusual condici\u00f3n: el priapismo arterial. Este hallazgo, documentado en un joven de Burkina Faso, Brasil, abre nuevas preguntas sobre las complicaciones\u2026",
+      "url": "https://www.meneame.net/m/ocio/joven-17-anos-tuvo-ereccion-18-horas-dengue",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-02-24 11:12:02",
+      "content": "A ver, a los 17 a\u00f1os tener una erecci\u00f3n de 18 horas no me parece llamativo, la verdad. A menos que la noticia sea que debido al dengue no pudiera mantenerla m\u00e1s tiempo.",
+      "retrievedAt": "2024-02-25 19:05:37.499447",
+      "internal_id": "c7ea0a8f33fc3099f436dab84dc17b3e5216ff2de06f5ae98ce6eb3743b6a69e",
+      "publishedAtLabel": "Feb 24"
+    },
     {
       "id": 5957,
       "query": [
@@ -30843,42 +31096,6 @@
       "content": "Duas Unidades B\u00e1sicas de Sa\u00fade (UBSs) do Distrito Federal v\u00e3o ter atendimento aos s\u00e1bados e domingos, para ampliar o atendimento de pacientes durante a epidemia de dengue da capital. As UBSs 2 de Cei\u2026 [+1772 chars]",
       "retrievedAt": "2024-01-16 07:05:50.500575",
       "internal_id": "8ae01a0831c39b103597ba8b5ca1e3e18f70d99a27bfad151ef15d2aac1da013",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4247,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WTOP",
-      "author": "Dan Friedell",
-      "title": "Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News",
-      "description": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received a vaccine.",
-      "url": "https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHI4ZTltb2UwMDE5M2I2aDlpNzZsZDc0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscjhkdDZ0ejAwMngyNnAxZzJ4aTVuMHg-300.jpg",
-      "publishedAt": "2024-01-14 09:50:17",
-      "content": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received \u2026 [+1445 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.519753",
-      "internal_id": "e313437922b4c02fe598f825deadbd0f17267ea4011518a4985782c038bc044c",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4246,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "All dog-bite victims in Sarawak stable, says Health Ministry",
-      "description": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 14). Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/14/2490389.jpg",
-      "publishedAt": "2024-01-14 08:02:00",
-      "content": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 1\u2026 [+1887 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.219448",
-      "internal_id": "d25374de87f036ae424c49e35d95b3b162fef4eabef0bcd96613686060058c8e",
       "publishedAtLabel": "Jan 14"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2024-02-25 07:06
-- **Most recent article:** 2024-02-24 05:43:30
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-02-25 19:05
+- **Most recent article:** 2024-02-24 19:05:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 65 | 123 | 173 | 216 | 191 | 146 | 914 |
-| measles | 60 | 56 | 47 | 68 | 45 | 81 | 357 |
+| dengue | 65 | 123 | 173 | 216 | 191 | 150 | 918 |
+| measles | 59 | 56 | 47 | 68 | 45 | 87 | 362 |
 | malaria | 26 | 86 | 25 | 35 | 19 | 33 | 224 |
-| zika | 8 | 7 | 8 | 13 | 6 | 12 | 54 |
-| chikungunya | 0 | 10 | 10 | 12 | 8 | 13 | 53 |
-| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 42 |
+| zika | 8 | 7 | 8 | 13 | 6 | 13 | 55 |
+| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 54 |
+| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 41 |
+| mpox | 8 | 4 | 3 | 5 | 8 | 6 | 34 |
 | meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 33 |
-| mpox | 8 | 4 | 3 | 5 | 8 | 4 | 32 |
 | sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 27 |
 | pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 18 |
-| typhoid | 1 | 2 | 2 | 1 | 2 | 1 | 9 |
+| typhoid | 1 | 2 | 2 | 1 | 2 | 2 | 10 |
 | yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 7 |
 | leptospirosis | 0 | 1 | 1 | 1 | 1 | 0 | 4 |
 
@@ -32,6 +32,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-8 (zika)
+
+- [La mayor fábrica de mosquitos anti-dengue del mundo está en América Latina: cómo trabaja y los planes para la Argentina](https://www.lanacion.com.ar/el-mundo/la-mayor-fabrica-de-mosquitos-anti-dengue-del-mundo-esta-en-america-latina-como-trabaja-y-los-planes-nid24022024/) (La Nacion)
 
 - [NIAID and Cuban Scientists Gather to Discuss Global Health Challenges](https://www.niaid.nih.gov/news-events/uscjsm) (National Institutes of Health)
 
@@ -62,6 +64,8 @@ Source: [News API](https://newsapi.org/)
 - [В США мужчина заразился бубонной чумой от кошки. Что нужно знать?](https://hi-news.ru/eto-interesno/v-ssha-muzhchina-zarazilsya-bubonnoj-chumoj-ot-koshki-chto-nuzhno-znat.html) (Hi-news.ru)
 
 ## 24-8 (typhoid)
+
+- [That’s not just a tummy ache, it may actually be typhoid](https://www.thestar.com.my/news/nation/2024/02/25/thats-not-just-a-tummy-ache-it-may-actually-be-typhoid) (The Star Online)
 
 - [Alice Eve’s 8 Best Acting Roles (Including Star Trek's Carol Marcus)](https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/) (Screen Rant)
 
@@ -103,6 +107,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (mpox)
 
+- [Infectado un niño de seis años de viruela del mono en Sevilla](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/24/infectado-nino-seis-anos-viruela-mono-sevilla/00031708786774076499762.htm) (Lavozdegalicia.es)
+
+- [Confirman tres casos de viruela del mono en Sevilla, entre ellos un niño de 6 años, e instan a vacunarse a su clase](https://www.europapress.es/esandalucia/sevilla/noticia-confirman-tres-casos-viruela-mono-sevilla-ellos-nino-anos-instan-vacunarse-clase-20240224152245.html) (Europapress.es)
+
 - [What You Need To Know About Alaskapox](https://www.discovermagazine.com/health/what-you-need-to-know-about-alaskapox) (Discover Magazine)
 
 - [Smallpox lesion characterization in placebo-treated and tecovirimat-treated macaques using traditional and novel methods](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012007) (Plos.org)
@@ -128,6 +136,18 @@ Source: [News API](https://newsapi.org/)
 - [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
+
+- [Measles is a ‘heat-seeking missile’ experts warn as Florida outbreak grows](https://www.today.com/health/news/measles-outbreak-warning-rcna140343) (TODAY)
+
+- [Measles Outbreak in Florida Makes Headlines Right Before Spring Break Season Begins](https://www.disneyfoodblog.com/2024/02/24/measles-outbreak-in-florida-makes-headlines-right-before-spring-break-season-begins/) (disneyfoodblog.com)
+
+- [Florida Tallies 7th Measles Case as Experts Slam DeSantis Doc](https://www.thedailybeast.com/florida-tallies-7th-measles-case-as-experts-slam-ron-desantis-doc) (Daily Beast)
+
+- [Doctors are warning of an alarming increase in measles cases across the U.S.](https://www.cbsnews.com/video/doctors-are-warning-of-an-alarming-increase-in-measles-cases-across-the-u-s/) (CBS News)
+
+- [Measles is a 'heat-seeking missile' experts warn as Florida outbreak grows](https://www.nbcnews.com/health/kids-health/florida-measles-cases-rise-experts-oppose-state-surgeon-generals-decis-rcna140000) (NBC News)
+
+- [Links 2/24/2024](https://www.nakedcapitalism.com/2024/02/links-2-24-2024.html) (Nakedcapitalism.com)
 
 - [Amid Florida measles outbreak, surgeon general lets parents decide whether to send unvaccinated kids to school](https://www.foxnews.com/health/florida-measles-outbreak-surgeon-general-lets-parents-decide-whether-send-unvaccinated-kids-school) (Fox News)
 
@@ -360,6 +380,14 @@ Source: [News API](https://newsapi.org/)
 - [The journey with malaria so far](https://punchng.com/the-journey-with-malaria-so-far/) (The Punch)
 
 ## 24-8 (dengue)
+
+- [Ministério da Saúde envia segunda remessa de vacinas contra dengue a sete estados](https://jornaldebrasilia.com.br/noticias/politica-e-poder/ministerio-da-saude-envia-segunda-remessa-de-vacinas-contra-dengue-a-sete-estados/) (Jornaldebrasilia.com.br)
+
+- [Gigantikus szúnyoginvázió sújtja Buenos Airest](https://index.hu/kulfold/2024/02/24/szunyoginvazio-buenos-aires-dengue-laz-rio-de-janeiro/) (Index.hu)
+
+- [Dengue: apesar da alta nos casos, pico ainda deve ocorrer](https://olhardigital.com.br/2024/02/24/medicina-e-saude/dengue-apesar-da-alta-nos-casos-pico-ainda-deve-ocorrer/) (Olhardigital.com.br)
+
+- [Un joven de 17 años tuvo una erección de 18 horas por dengue](https://www.meneame.net/m/ocio/joven-17-anos-tuvo-ereccion-18-horas-dengue) (Meneame.net)
 
 - [¿Qué está pasando con el dengue en América y cómo protegerse?](https://cnnespanol.cnn.com/2024/02/23/dengue-america-que-pasa-protegerse-orix/) (CNN)
 
@@ -654,6 +682,8 @@ Source: [News API](https://newsapi.org/)
 - [Casos de chikungunya disparam 42% em meio à epidemia de dengue](https://noticias.r7.com/cidades/casos-de-chikungunya-disparam-epidemia-de-dengue-18022024) (R7.com)
 
 ## 24-8 (chikungunya)
+
+- [La mayor fábrica de mosquitos anti-dengue del mundo está en América Latina: cómo trabaja y los planes para la Argentina](https://www.lanacion.com.ar/el-mundo/la-mayor-fabrica-de-mosquitos-anti-dengue-del-mundo-esta-en-america-latina-como-trabaja-y-los-planes-nid24022024/) (La Nacion)
 
 - [MG é responsável por quase oito em cada dez casos de chikungunya do Brasil](https://noticias.r7.com/minas-gerais/mg-e-responsavel-por-quase-oito-em-cada-dez-casos-de-chikungunya-do-brasil-24022024) (R7.com)
 
@@ -3369,8 +3399,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health dept. confirms rabid coyote in Mount Pleasant; 1 person exposed](https://www.live5news.com/2024/01/17/health-dept-confirms-rabid-coyote-mount-pleasant-1-person-exposed/) (Live 5 News WCSC)
 
-- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
-
 ## 24-3 (pertussis)
 
 - [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
@@ -3534,8 +3562,6 @@ Source: [News API](https://newsapi.org/)
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
-
-- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 ## 24-3 (malaria)
 
