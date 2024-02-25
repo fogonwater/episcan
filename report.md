@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-02-24 19:05
-- **Most recent article:** 2024-02-23 18:51:19
+- **New articles in last harvest:** 24
+- **Last harvest:** 2024-02-25 07:06
+- **Most recent article:** 2024-02-24 05:43:30
 
 ---
 
@@ -10,21 +10,21 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
-|--|-|-|-|-|-|-|-|-|
-| dengue | 33 | 65 | 123 | 173 | 216 | 191 | 139 | 940 |
-| measles | 25 | 61 | 56 | 47 | 68 | 45 | 69 | 371 |
-| malaria | 51 | 26 | 86 | 25 | 35 | 19 | 31 | 273 |
-| zika | 8 | 8 | 7 | 8 | 13 | 6 | 9 | 59 |
-| chikungunya | 6 | 0 | 10 | 10 | 12 | 8 | 10 | 56 |
-| rabies | 5 | 5 | 9 | 7 | 7 | 9 | 5 | 47 |
-| meningitis | 11 | 6 | 1 | 3 | 8 | 8 | 5 | 42 |
-| mpox | 2 | 8 | 4 | 3 | 5 | 8 | 4 | 34 |
-| sarampión | 0 | 0 | 1 | 6 | 5 | 4 | 11 | 27 |
-| pertussis | 2 | 5 | 2 | 3 | 2 | 6 | 0 | 20 |
-| typhoid | 0 | 1 | 2 | 2 | 1 | 2 | 1 | 9 |
-| yersinia | 1 | 1 | 2 | 0 | 1 | 2 | 1 | 8 |
-| leptospirosis | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 5 |
+| Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | Total |
+|--|-|-|-|-|-|-|-|
+| dengue | 65 | 123 | 173 | 216 | 191 | 146 | 914 |
+| measles | 60 | 56 | 47 | 68 | 45 | 81 | 357 |
+| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 224 |
+| zika | 8 | 7 | 8 | 13 | 6 | 12 | 54 |
+| chikungunya | 0 | 10 | 10 | 12 | 8 | 13 | 53 |
+| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 42 |
+| meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 33 |
+| mpox | 8 | 4 | 3 | 5 | 8 | 4 | 32 |
+| sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 27 |
+| pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 18 |
+| typhoid | 1 | 2 | 2 | 1 | 2 | 1 | 9 |
+| yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 7 |
+| leptospirosis | 0 | 1 | 1 | 1 | 1 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -32,6 +32,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-8 (zika)
+
+- [NIAID and Cuban Scientists Gather to Discuss Global Health Challenges](https://www.niaid.nih.gov/news-events/uscjsm) (National Institutes of Health)
+
+- [Control natural. Por qué se evalúa cultivar peces y camarones para combatir a los mosquitos](https://www.lanacion.com.ar/sociedad/control-natural-por-que-se-evalua-cultivar-peces-y-camarones-para-combatir-a-los-mosquitos-nid23022024/) (La Nacion)
+
+- [Aparecida (GO) realiza mobilização de combate à dengue](https://www.metropoles.com/brasil/aparecida-go-realiza-mobilizacao-de-combate-a-dengue) (Metropoles.com)
 
 - [What is Zika and what are the health risks?](https://www.channelnewsasia.com/singapore/zika-virus-infection-aedes-mosquito-symptoms-prevention-4144156) (CNA)
 
@@ -107,6 +113,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (meningitis)
 
+- [Florida fourth grader died of meningitis, health officials say](https://www.wfla.com/news/florida/florida-fourth-grader-died-of-meningitis-health-officials-say/) (WFLA)
+
+- [Diphtheria, measles, meningitis killed 711 in three years – NCDC](https://punchng.com/diphtheria-measles-meningitis-killed-711-in-three-years-ncdc/) (The Punch)
+
 - [Tackling long-haul diseases](https://www.technologyreview.com/2024/02/23/1087617/tackling-long-haul-diseases/) (MIT Technology Review)
 
 - [They came to clinics in Mexico for cosmetic surgery and got a deadly fungal meningitis](https://www.npr.org/sections/goatsandsoda/2024/02/22/1232959262/medical-tourism-cosmetic-surgery-fungal-meningitis-clinics-mexico) (NPR)
@@ -118,6 +128,30 @@ Source: [News API](https://newsapi.org/)
 - [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
+
+- [Amid Florida measles outbreak, surgeon general lets parents decide whether to send unvaccinated kids to school](https://www.foxnews.com/health/florida-measles-outbreak-surgeon-general-lets-parents-decide-whether-send-unvaccinated-kids-school) (Fox News)
+
+- [Florida surgeon general defies CDC guidelines in measles outbreak](https://www.cbsnews.com/video/florida-surgeon-general-defies-cdc-guidelines-in-measles-outbreak/) (CBS News)
+
+- [Amid School Measles Outbreak, Florida Rejects CDC Guidance](https://www.newser.com/story/346822/florida-says-its-ok-to-send-unvaccinated-kids-to-school.html) (Newser)
+
+- [Ron DeSantis’s Surgeon General Tells Parents It’s Okay to Send Their Unvaccinated Kids to School Amid Measles Outbreak](https://www.vanityfair.com/news/joseph-ladapo-florida-ron-desantis-measles) (Vanity Fair)
+
+- [Florida refuses to bar unvaccinated students from school suffering a measles outbreak](https://abcnews.go.com/Health/wireStory/florida-refuses-bar-unvaccinated-students-school-suffering-measles-107500990) (ABC News)
+
+- [Florida refuses to bar unvaccinated students from school suffering a measles outbreak](https://abcnews.go.com/US/wireStory/florida-refuses-bar-unvaccinated-students-school-suffering-measles-107500987) (ABC News)
+
+- [Florida refuses to bar unvaccinated students from school suffering a measles outbreak](https://www.startribune.com/florida-refuses-to-bar-unvaccinated-students-from-school-suffering-a-measles-outbreak/600345701/) (Minneapolis Star Tribune)
+
+- [Florida surgeon general defies science amid measles outbreak](https://www.bostonglobe.com/2024/02/23/nation/florida-surgeon-general-defies-science-amid-measles-outbreak/) (The Boston Globe)
+
+- [Florida defies CDC in measles outbreak, telling parents it’s fine to send unvaccinated kids to school](https://fortune.com/well/2024/02/23/florida-defies-cdc-in-measles-outbreak/) (Fortune)
+
+- [Florida's Public Health Function Has Gone to the Zoo](https://www.esquire.com/news-politics/politics/a46929160/florida-public-health-disease-outbreaks-measles/) (esquire.com)
+
+- [Make sure you have 2 measles shots before you travel on spring break, says Canada's top doctor](https://www.cbc.ca/news/health/measles-vaccine-doses-1.7123841) (CBC News)
+
+- [Diphtheria, measles, meningitis killed 711 in three years – NCDC](https://punchng.com/diphtheria-measles-meningitis-killed-711-in-three-years-ncdc/) (The Punch)
 
 - [Measles Map Shows States With Reported Cases in 2024](https://www.newsweek.com/measles-map-states-reported-cases-2024-1872898) (Newsweek)
 
@@ -259,6 +293,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-8 (malaria)
 
+- [Quizzes, interactive puzzles, demonstrations and a history of malaria vaccine: Exciting ‘National Science Day’ line up at IISER Pune](https://indianexpress.com/article/cities/pune/iiser-pune-national-science-day-9178259/) (The Indian Express)
+
+- [Control natural. Por qué se evalúa cultivar peces y camarones para combatir a los mosquitos](https://www.lanacion.com.ar/sociedad/control-natural-por-que-se-evalua-cultivar-peces-y-camarones-para-combatir-a-los-mosquitos-nid23022024/) (La Nacion)
+
 - [Why Nyando residents bear brunt of malaria despite using mosquito nets](https://nation.africa/kenya/health/why-nyando-residents-bear-brunt-of-malaria-despite-using-mosquito-nets-4531126) (Nation.africa)
 
 - [In 2023, India hit target towards eliminating Kala Azar, first time](https://indianexpress.com/article/india/in-2023-india-hit-target-towards-eliminating-kala-azar-first-time-9176179/) (The Indian Express)
@@ -322,6 +360,20 @@ Source: [News API](https://newsapi.org/)
 - [The journey with malaria so far](https://punchng.com/the-journey-with-malaria-so-far/) (The Punch)
 
 ## 24-8 (dengue)
+
+- [¿Qué está pasando con el dengue en América y cómo protegerse?](https://cnnespanol.cnn.com/2024/02/23/dengue-america-que-pasa-protegerse-orix/) (CNN)
+
+- [DF e mais seis Estados já decretaram emergência em saúde por dengue neste ano](https://valor.globo.com/brasil/noticia/2024/02/23/df-e-mais-seis-estados-j-decretaram-emergncia-em-sade-por-dengue-neste-ano.ghtml) (Globo)
+
+- [Em 17 dias, casos de dengue triplicam em São Paulo](https://saude.ig.com.br/2024-02-23/casos-de-dengue-triplicam-em-sao-paulo.html) (Ig.com.br)
+
+- [Começa a distribuição da 2ª remessa de vacina contra dengue](https://www.metropoles.com/brasil/comeca-a-distribuicao-da-2a-remessa-de-vacina-contra-dengue) (Metropoles.com)
+
+- [Jovem com dengue tem reação adversa e fica com ereção por 18 horas](https://saude.ig.com.br/2024-02-23/jovem-reacao-dengue-erecao-18-horas.html) (Ig.com.br)
+
+- [Aparecida (GO) realiza mobilização de combate à dengue](https://www.metropoles.com/brasil/aparecida-go-realiza-mobilizacao-de-combate-a-dengue) (Metropoles.com)
+
+- [DF: Rede de saúde entra em colapso por dengue, diz governador](https://saude.ig.com.br/2024-02-23/df--rede-de-saude-entra-em-colapso-por-dengue--diz-governador.html) (Ig.com.br)
 
 - [DF terá vacinação contra dengue e outras doenças neste sábado. Confira](https://www.metropoles.com/distrito-federal/df-tera-vacinacao-contra-dengue-e-outras-doencas-neste-sabado-confira) (Metropoles.com)
 
@@ -602,6 +654,12 @@ Source: [News API](https://newsapi.org/)
 - [Casos de chikungunya disparam 42% em meio à epidemia de dengue](https://noticias.r7.com/cidades/casos-de-chikungunya-disparam-epidemia-de-dengue-18022024) (R7.com)
 
 ## 24-8 (chikungunya)
+
+- [MG é responsável por quase oito em cada dez casos de chikungunya do Brasil](https://noticias.r7.com/minas-gerais/mg-e-responsavel-por-quase-oito-em-cada-dez-casos-de-chikungunya-do-brasil-24022024) (R7.com)
+
+- [NIAID and Cuban Scientists Gather to Discuss Global Health Challenges](https://www.niaid.nih.gov/news-events/uscjsm) (National Institutes of Health)
+
+- [Aparecida (GO) realiza mobilização de combate à dengue](https://www.metropoles.com/brasil/aparecida-go-realiza-mobilizacao-de-combate-a-dengue) (Metropoles.com)
 
 - [Prefeitura confirma a primeira morte por chikungunya em BH, em 2024](https://noticias.r7.com/minas-gerais/prefeitura-confirma-a-primeira-morte-por-chikungunya-em-bh-em-2024-23022024) (R7.com)
 
@@ -3479,8 +3537,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
-- [What is measles? Camden County Health Department closely monitoring 1 confirmed case](https://6abc.com/camden-county-health-department-measles-case-nj-news/14318022/) (WPVI-TV)
-
 ## 24-3 (malaria)
 
 - [Good News aus aller Welt: Vier Nachrichten, die uns diese Woche glücklich gemacht haben](https://www.tagesspiegel.de/internationales/good-news-aus-aller-welt-vier-nachrichten-die-uns-diese-woche-glucklich-gemacht-haben-11080057.html) (Der Tagesspiegel)
@@ -3666,315 +3722,3 @@ Source: [News API](https://newsapi.org/)
 - [Veja como se proteger da dengue no verão](https://recordtv.r7.com/hoje-em-dia/fotos/veja-como-se-proteger-da-dengue-no-verao-15012024) (R7.com)
 
 - [Epidemia de dengue: DF terá 2 UBSs com atendimento aos fins de semana](https://www.metropoles.com/distrito-federal/epidemia-de-dengue-df-tera-2-ubss-com-atendimento-aos-fins-de-semana) (Metropoles.com)
-
-## 24-2 (zika)
-
-- [Zika virus effective in treating childhood cancer in mice: Study](https://www.newsnationnow.com/health/zika-virus-effective-cancer-treatment-mice-study/) (Newsnationnow.com)
-
-- [Virus Zika, eficaz para tratar cáncer en ratones: Estudio](https://aristeguinoticias.com/1001/kiosko/virus-zika-eficaz-para-tratar-cancer-en-ratones-estudio/) (Aristeguinoticias.com)
-
-- [Zika vírus pode ajudar no tratamento contra câncer, afirma estudo](https://www.metropoles.com/saude/zika-pode-ajudar-contra-cancer) (Metropoles.com)
-
-- [Nuevos datos prometedores en el tratamiento del neuroblastoma con el virus del Zika](https://www.infosalus.com/salud-investigacion/noticia-nuevos-datos-prometedores-tratamiento-neuroblastoma-virus-zika-20240110072448.html) (Infosalus.com)
-
-- [El virus del Zika es eficaz para tratar, en ratones, un tipo de cáncer infantil](https://www.lavozdegalicia.es/noticia/sociedad/2024/01/09/virus-zika-eficaz-tratar-ratones-tipo-cancer-infantil/00031704827765160631448.htm) (Lavozdegalicia.es)
-
-- [Logran eliminar un raro tumor inyectando el virus del Zika en ratones](https://www.libertaddigital.com/ciencia-tecnologia/salud/2024-01-09/logran-eliminar-un-raro-tumor-inyectando-el-virus-del-zika-en-ratones-7085486/) (Libertaddigital.com)
-
-- [Emplean el virus del Zika para combatir el neuroblastoma infantil](https://www.elmundo.es/ciencia-y-salud/salud/2024/01/09/659d6e09e9cf4a1f548b45ae.html) (El Mundo)
-
-- [Antimosquito: tinta, ventiladores e lâmpadas ajudam no combate à dengue](https://casa.abril.com.br/bem-estar/antimosquito-tinta-ventiladores-lampadas-combate-dengue/) (Abril.com.br)
-
-## 24-2 (yersinia)
-
-- [Συσκευασμένες σαλάτες πλύσιμο: Τι πρέπει να κάνω τελικά;](https://www.alphafreepress.gr/2024/01/13/plus/syskeyasmenes-salates-plysimo-ti-prepei-na-kano-telika/) (Alphafreepress.gr)
-
-## 24-2 (rabies)
-
-- [Rabies Is a Deadly, Unpredictable Threat. Here's How to Protect Yourself.](https://www.sciencealert.com/rabies-is-a-deadly-unpredictable-threat-heres-how-to-protect-yourself) (ScienceAlert)
-
-- [Girl, 15, Launches Vaccination Campaign for Dogs and Cats to Protect Nairobi Residents Against Rabies](https://allafrica.com/stories/202401110038.html) (AllAfrica - Top Africa News)
-
-- [Rabies Is An Ancient, Unpredictable And Potentially Fatal Disease − Two Rabies Researchers Explain How To Protect Yourself](https://www.discovermagazine.com/health/rabies-is-an-ancient-unpredictable-and-potentially-fatal-disease-two-rabies) (Discover Magazine)
-
-- [Rabies is an ancient, unpredictable and potentially fatal disease − two rabies researchers explain how to protect yourself](https://theconversation.com/rabies-is-an-ancient-unpredictable-and-potentially-fatal-disease-two-rabies-researchers-explain-how-to-protect-yourself-219199) (The Conversation Africa)
-
-- [Govt hosps run out of anti-rabies vaccine again](https://timesofindia.indiatimes.com/city/chandigarh/govt-hosps-run-out-of-anti-rabies-vaccine-again/articleshow/106651965.cms) (The Times of India)
-
-## 24-2 (pertussis)
-
-- [A Sacramento health official on how to differentiate and identify respiratory illnesses](https://www.kcra.com/article/sacramento-health-official-respiratory-illnesses-2024/46345469) (KCRA Sacramento)
-
-- [Kell-e tartanunk a szomszédunkban terjedő szamárköhögéstől?](https://index.hu/belfold/2024/01/10/gyerekek-szamarkohoges-bakterium-fertozes-jarvany-oltas/) (Index.hu)
-
-## 24-2 (mpox)
-
-- [Cross-sectional survey of sexual health professionals experiences and perceptions of the 2022 mpox outbreak in the UK](https://bmjopen.bmj.com/content/14/1/e080250?rss=1) (The BMJ)
-
-- [New Auckland mpox cases: What you need to know](https://www.1news.co.nz/2024/01/11/new-auckland-mpox-cases-what-you-need-to-know/) (1news.co.nz)
-
-## 24-2 (meningitis)
-
-- [El infierno de Luis Canut, marido de Patricia Pérez, tras enfermar por un excremento de ave](https://www.libertaddigital.com/chic/corazon/2024-01-12/el-infierno-de-luis-canut-marido-de-patricia-perez-tras-enfermar-por-un-excremento-de-ave-7086717/) (Libertaddigital.com)
-
-- [Meningitis killed 190 in 2023, says FG](https://punchng.com/meningitis-killed-190-in-2023-says-fg/) (The Punch)
-
-- [Patricia Pérez revela cómo se contagió su marido de meningitis criptocócica: "Le quedarán secuelas"](https://www.marca.com/tiramillas/television/2024/01/11/65a03bf746163ffd3f8b45d2.html) (Marca)
-
-- [Nigeria: Meningitis Kills 190 in Nigeria in Two Years](https://allafrica.com/stories/202401120016.html) (AllAfrica - Top Africa News)
-
-- [Manitoba health officials see spike in infections that can cause meningitis](https://www.cbc.ca/news/canada/manitoba/invasive-meningococcal-disease-cases-increase-1.7081148) (CBC News)
-
-- [The New Vaccines to Get in 2024](https://time.com/6554595/vaccine-guidelines-adults-kids/) (Time)
-
-- [Patricia Pérez se rompe al hablar del calvario de su marido: "Una caca de pájaro casi lo mata"](https://www.mundodeportivo.com/elotromundo/television/20240111/1002168074/patricia-perez-rompe-hablar-calvario-marido-caca-pajaro-mata-tardear-dct.html) (Mundodeportivo.com)
-
-- [Qué es la meningitis criptocócica, la enfermedad que padece Luis Canut, el marido de Patricia Pérez](https://www.abc.es/salud/meningitis-criptococica-enfermedad-padece-luis-canut-marido-20240111163503-nt.html) (Www.abc.es)
-
-- [Qué es la meningitis criptocócica, la enfermedad que sufre Luis Canut y que está en las heces de palomas](https://www.bekia.es/celebrities/noticias/meningitis-criptococica-enfermedad-luis-canut-heces-paloma/) (Bekia.es)
-
-- [¿Qué es la meningitis criptocócica, la enfermedad que padece el marido de Patricia Pérez?](https://www.hola.com/estar-bien/20240110246310/meningitis-criptococica-patricia-perez-enfermedad-marido/) (Hola)
-
-- [JPR Williams, el adiós a un fullback que marcó una época](https://www.lanacion.com.ar/deportes/rugby/jpr-williams-el-adios-a-un-fullback-que-marco-una-epoca-nid09012024/) (La Nacion)
-
-## 24-2 (measles)
-
-- [Measles exposure confirmed at KCI, North Kansas City hospital](https://www.kake.com/story/50327071/measles-exposure-confirmed-at-kci-north-kansas-city-hospital) (KAKE)
-
-- [Major Measles Outbreak Erupts In England As Vaccine Hesitancy Increases](https://www.forbes.com/sites/joshuacohen/2024/01/13/major-measles-outbreak-erupts-in-england-as-vaccine-hesitancy-increases/) (Forbes)
-
-- [Measles case confirmed in Camden County; officials working to trace source of infection](https://www.cbsnews.com/philadelphia/news/measles-virus-exposure-camden-county-new-jersey-symptoms-treatment/) (CBS News)
-
-- [Camden County confirms measles case, investigates Philadelphia connection](https://www.inquirer.com/health/measles-camden-county-new-jersey-daycare-philadelphia-outbreak-mmr-20240113.html) (The Philadelphia Inquirer)
-
-- [Surge in measles cases fuelled by vaccine hesitancy over MMR jab](https://news.sky.com/story/measles-cases-surge-in-england-and-wales-fuelled-by-vaccine-hesitancy-over-mmr-jab-13047335) (Sky.com)
-
-- [TWiV 1078: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1078/) (Microbe.tv)
-
-- [Measles exposure confirmed at KCI, North Kansas City Hospital](https://fox4kc.com/news/measles-exposure-confirmed-at-kci-north-kansas-city-hospital/) (WDAF FOX4 Kansas City)
-
-- [Philadelphia Warns Of Measles Outbreak After Quarantined Kid Sent To Daycare Anyway](https://www.huffpost.com/entry/measles-outbreak-philadelphia-kids-infected_n_65a1482de4b06444b2229836) (HuffPost)
-
-- [Friday, January 12, 2024](https://kffhealthnews.org/morning-briefing/friday-january-12-2024/) (Kffhealthnews.org)
-
-- [Child, adult contract measles in northern Israel](https://www.jpost.com/breaking-news/article-781813) (The Jerusalem Post)
-
-- [חמישה חולי חצבת בצפון אובחנו החודש, אחד מהם שהה במיון בפוריה](https://www.ynet.co.il/health/article/r1m11a5t00p) (Ynet)
-
-- [Philadelphia Mayor Cherelle Parker Names First Kensington Drug Czar](https://www.phillymag.com/news/2024/01/11/kensington-philadelphia-cherelle-parker/) (phillymag.com)
-
-- [Child Sent To Daycare Spreads Potentially Deadly Illness Despite Quarantine Instructions](https://dailycaller.com/2024/01/11/philadelphia-measles-outbreak-child-sent-day-care-breach-quarantine-protocol/) (The Daily Caller)
-
-- [Philadelphia measles outbreak has hospitals on alert after child was sent to day care despite quarantine instructions](https://www.nbcnews.com/health/health-news/philadelphia-measles-outbreak-hospital-day-care-rcna133269) (NBC News)
-
-- [US verges on vaccination tipping point, faces thousands of needless deaths: FDA](https://arstechnica.com/science/2024/01/anti-vaccine-nonsense-will-likely-kill-thousands-this-season-fda-officials-say/) (Ars Technica)
-
-- [CHOP vaccination expert recommends MMR vaccine after measles outbreak in Philadelphia](https://www.inquirer.com/health/philadelphia-measles-outbreak-symptoms-vaccine-age-mmr-20240110.html) (The Philadelphia Inquirer)
-
-- [Measles outbreak involving cases at a Philadelphia day care center expands, health officials say | CNN](https://www.cnn.com/2024/01/09/health/philadelphia-measles-outbreak/index.html) (CNN)
-
-- [Philadelphia measles outbreak raises concern as vaccination rates fall](https://www.upi.com/Health_News/2024/01/09/philadelphia-measles-outbreak-2024/9051704830470/) (UPI.com)
-
-- [Measles Outbreak In Philadelphia Suggests Growing Problem Of Vaccine Hesitancy](https://www.forbes.com/sites/joshuacohen/2024/01/09/measles-outbreak-in-philadelphia-suggests-growing-problem-of-vaccine-hesitancy/) (Forbes)
-
-- [Israel reports new cases of monkeypox, measles](https://www.thestar.com.my/news/world/2024/01/10/israel-reports-new-cases-of-monkeypox-measles) (The Star Online)
-
-- [Two measles cases found in Israel's North - Health Ministry](https://www.jpost.com/breaking-news/article-781458) (The Jerusalem Post)
-
-- [ילד לא מחוסן ואדם מבוגר נדבקו בחצבת בצפון הארץ, מקור ההדבקה לא ידוע](https://www.ynet.co.il/health/article/h18dy1sot) (Ynet)
-
-- [Measles outbreak Philadelphia: More possible exposure locations identified, 8 total cases](https://6abc.com/measles-outbreak-philadelphia-department-of-public-health-rash-symptoms/14296791/) (WPVI-TV)
-
-- [Philadelphia health officials are tracking a measles outbreak: What to know](https://abcnews.go.com/Health/philadelphia-tracking-measles-outbreak/story?id=106201500) (ABC News)
-
-- [2 more measles cases confirmed by Philadelphia Health Department, bringing total to 8](https://www.cbsnews.com/philadelphia/news/measles-cases-in-philadelphia-outbreak/) (CBS News)
-
-## 24-2 (malaria)
-
-- [Israeli citizen dies in Georgia after contracting malaria](https://www.jpost.com/breaking-news/article-782076) (The Jerusalem Post)
-
-- [African women living with HIV have an effective option to prevent malaria during pregnancy](https://www.sciencedaily.com/releases/2024/01/240113141214.htm) (Science Daily)
-
-- [Revelan una combinación de fármacos que protege de malaria a mujeres embarazadas con VIH](https://www.montevideo.com.uy/Salud/Revelan-una-combinacion-de-farmacos-que-protege-de-malaria-a-mujeres-embarazadas-con-VIH-uc876589) (Montevideo.com.uy)
-
-- [Malariabekämpfung auf Kap Verde: Inselparadies ohne Malaria](https://taz.de/Malariabekaempfung-auf-Kap-Verde/!5985233/) (taz.de)
-
-- [Kaapverdië als eerste West-Afrikaanse land malariavrij verklaard](https://www.nu.nl/goed-nieuws/6297656/kaapverdie-als-eerste-west-afrikaanse-land-malariavrij-verklaard.html) (Www.nu.nl)
-
-- [Kaapverdië is als eerste West-Afrikaanse land malariavrij verklaard](https://www.nu.nl/goed-nieuws/6297656/kaapverdie-is-als-eerste-west-afrikaanse-land-malariavrij-verklaard.html) (Www.nu.nl)
-
-- [WHO erklärt die Kapverden für malariafrei](https://www.dw.com/de/who-erkl%C3%A4rt-die-kapverden-f%C3%BCr-malariafrei/a-67968201) (DW (English))
-
-- [La OMS certifica a Cabo Verde como país libre de malaria](https://www.publico.es/internacional/oms-certifica-cabo-verde-pais-libre-malaria.html) (Publico.es)
-
-- [Na Franse studie die “meer dan 200 Belgische doden” door malariamiddel tegen corona meldde: “Slechts 18 gevallen van bijwerkingen in ons land”](https://www.hln.be/binnenland/na-franse-studie-die-meer-dan-200-belgische-doden-door-malariamiddel-tegen-corona-meldde-slechts-18-gevallen-van-bijwerkingen-in-ons-land~aa49385c/) (Www.hln.be)
-
-- [Kap Verde erklæret fri for malaria](https://www.dr.dk/nyheder/seneste/kap-verde-erklaeret-fri-malaria) (Www.dr.dk)
-
-- [Africa: WHO declares Cape Verde free of malaria](https://www.dw.com/en/africa-who-declares-cape-verde-free-of-malaria/a-67964211) (DW (English))
-
-- [WHO declares Cape Verde free of malaria](https://www.dw.com/en/who-declares-cape-verde-free-of-malaria/a-67964211) (DW (English))
-
-- [Capo Verde è il quarto stato africano a debellare la malaria](https://www.ilpost.it/2024/01/12/capo-verde-malaria/) (Ilpost.it)
-
-- [Capo Verde diventa il terzo paese africano libero dalla malaria](https://www.internazionale.it/ultime-notizie/2024/01/12/capo-verde-eradicazione-malaria) (Internazionale.it)
-
-- [Cambodia’s malaria cases in 2023 drop sharply: health official](https://en.vietnamplus.vn/cambodias-malaria-cases-in-2023-drop-sharply-health-official/276210.vnp) (Vietnamplus.vn)
-
-- [O ţară africană a reuşit să eradicheze malaria după 50 de ani](https://www.mediafax.ro/sanatate/o-tara-africana-a-reusit-sa-eradicheze-malaria-dupa-50-de-ani-22230506) (Mediafax.ro)
-
-- [Cape Verde: Global Fund Applauds Cabo Verde for Eliminating Malaria](https://allafrica.com/stories/202401120306.html) (AllAfrica - Top Africa News)
-
-- [Als drittes Land Afrikas : Weltgesundheitsorganisation erklärt die Kapverden für malariafrei](https://www.tagesspiegel.de/internationales/als-drittes-land-afrikas-weltgesundheitsorganisation-erklart-die-kapverden-fur-malariafrei-11041222.html) (Der Tagesspiegel)
-
-- [Another malaria milestone as WHO declares Cabo Verde free of deadly disease](https://news.un.org/en/story/2024/01/1145467) (UN News)
-
-- [Inselstaat Kap Verde ist frei von Malaria](https://www.tagesschau.de/ausland/afrika/afrika-kap-verde-malaria-who-100.html) (tagesschau.de)
-
-- [Africa: WHO Certifies Cabo Verde As Malaria-Free, Marking a Historic Milestone in the Fight Against Malaria](https://allafrica.com/stories/202401120267.html) (AllAfrica - Top Africa News)
-
-- [El invento de la española Pilar Mateo al que Francia quiere recurrir para controlar la crisis de malaria en Tanzania](https://www.elespanol.com/enclave-ods/noticias/20240112/invento-espanola-pilar-mateo-francia-recurriendo-controlar-crisis-malaria-tanzania/824417623_0.html) (Elespanol.com)
-
-- [Cape Verde becomes third African country to eliminate malaria](https://www.hurriyetdailynews.com/cape-verde-becomes-third-african-country-to-eliminate-malaria-189620) (Hurriyet Daily News)
-
-- [News24 | Cape Verde becomes the third African country to eliminate malaria](https://www.news24.com/news24/africa/news/cape-verde-becomes-the-third-african-country-to-eliminate-malaria-20240112) (News24)
-
-- [Cape Verde reaches malaria-free milestone](https://www.bbc.co.uk/news/world-africa-67951537) (BBC News)
-
-- [Buy Hydroxychloroquine Online In USA - HCQS 200 Tablets For Sale](https://www.ndtv.com/partner-content/health-supplements/buy-hydroxychloroquine-online-in-usa-hcqs-200-tablets-for-sale-4847805) (NDTV News)
-
-- [Meer dan 200 Belgische doden door malariamiddel tegen corona. Van Ranst reageert: "Op dat moment was het een logische keuze”](https://www.hln.be/wetenschap-en-planeet/meer-dan-200-belgische-doden-door-malariamiddel-tegen-corona-van-ranst-reageert-op-dat-moment-was-het-een-logische-keuze~a5e0d9b9/) (Www.hln.be)
-
-- [Meer dan 200 Belgische doden door malariamiddel tegen corona. Van Ranst nuanceert: "Op dat moment was het een logische keuze”](https://www.hln.be/wetenschap-en-planeet/meer-dan-200-belgische-doden-door-malariamiddel-tegen-corona-van-ranst-nuanceert-op-dat-moment-was-het-een-logische-keuze~a5e0d9b9/) (Www.hln.be)
-
-- [‘Malariapil’ tegen corona maakte 240 doden in België. Marc Van Ranst nuanceert: “Het was destijds een logische keuze”](https://www.hln.be/wetenschap-en-planeet/malariapil-tegen-corona-maakte-240-doden-in-belgie-marc-van-ranst-nuanceert-het-was-destijds-een-logische-keuze~a5e0d9b9/) (Www.hln.be)
-
-- [Development of circulating isolates of Plasmodium falciparum is accelerated in Anopheles vectors with reduced reproductive output](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011890) (Plos.org)
-
-- [Assessment of antimalarial activity of crude extract of Chan-Ta-Lee-La and Pra-Sa-Chan-Dang formulations and their plant ingredients for new drug candidates of malaria treatment: In vitro and in vivo experiments](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296756) (Plos.org)
-
-- [Malaria-Impfung: "Ich gehe davon aus, dass wir Malaria in 30 Jahren ausgelöscht haben"](https://www.zeit.de/gesundheit/2023-12/malaria-impfung-adrian-hill-impfstoffforscher-who-r21) (Die Zeit)
-
-- [La hierba aromática rica en Vitamina C, que aporta numerosos beneficios para la salud](https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/la-hierba-aromatica-rica-en-vitamina-c-que-aporta-numerosos-beneficios-para-la-salud-nid10012024/) (La Nacion)
-
-- [‘Hadden we het niet ingezet, was er ook kritiek geweest’: 17.000 Europese doden door ‘wondermiddel tegen corona’, zegt studie](https://www.demorgen.be/nieuws/hadden-we-het-niet-ingezet-was-er-ook-kritiek-geweest-17-000-europese-doden-door-wondermiddel-tegen-corona-zegt-studie~bce229a2/) (Demorgen.be)
-
-- [‘Wondermiddel tegen corona’ hydroxychloroquine kostte aan wellicht 17.000 Europeanen het leven](https://www.demorgen.be/nieuws/wondermiddel-tegen-corona-hydroxychloroquine-kostte-aan-wellicht-17-000-europeanen-het-leven~bce229a2/) (Demorgen.be)
-
-- [Malariamedicijn tijdens pandemie leidde tot doden, mogelijk ook in Nederland](https://www.nu.nl/coronavirus/6297316/malariamedicijn-tijdens-pandemie-leidde-tot-doden-mogelijk-ook-in-nederland.html) (Www.nu.nl)
-
-- [Abia trains health workers in malaria control](https://punchng.com/abia-trains-health-workers-in-malaria-control-2/) (The Punch)
-
-- [Taliban Minister Boasts Afghan Anti-Polio Gains While Addressing Global Health Huddle](https://www.voanews.com/a/taliban-minister-boasts-afghan-anti-polio-gains-while-addressing-global-health-huddle-/7434029.html) (VOA News)
-
-- [The role of species ecology in predicting Toxoplasma gondii prevalence in wild and domesticated mammals globally](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011908) (Plos.org)
-
-- [Hydroxychloroquine: COVID 'cure' linked to 17,000 deaths](https://www.dw.com/en/hydroxychloroquine-covid-cure-linked-to-17000-deaths/a-67937178) (DW (English))
-
-- [Investigadores españoles identifican una barrera defensiva para luchar contra la malaria](https://www.infosalus.com/salud-investigacion/noticia-investigadores-espanoles-identifican-barrera-defensiva-luchar-contra-malaria-20240110130223.html) (Infosalus.com)
-
-- [Bournemouth, Traoré è guarito dalla malaria. Interessamenti da Roma e Napoli](https://www.tuttomercatoweb.com/serie-a/bournemouth-traore-e-guarito-dalla-malaria-interessamenti-da-roma-e-napoli-1921215) (Tuttomercatoweb.com)
-
-- [Inzet malariamedicijn tijdens coronapandemie leidde tot doden, mogelijk ook in Nederland](https://www.nu.nl/coronavirus/6297316/inzet-malariamedicijn-tijdens-coronapandemie-leidde-tot-doden-mogelijk-ook-in-nederland.html) (Www.nu.nl)
-
-- [Bijna 17.000 doden door inzet malariamedicijn tijdens coronapandemie](https://www.nu.nl/coronavirus/6297316/bijna-17000-doden-door-inzet-malariamedicijn-tijdens-coronapandemie.html) (Www.nu.nl)
-
-- [Läkare ångrar oprövad covidmedicin: Borde inte börjat](https://www.dn.se/sverige/lakare-angrar-oprovad-covidmedicin-borde-inte-borjat/) (Www.dn.se)
-
-- ['Honderden coronapatiënten in Nederland overleden door bijwerkingen malariamiddel'](https://nos.nl/l/2504363) (Nos.nl)
-
-- [Statsepidemiologen ångrar covidbehandling](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1204483) (Aftonbladet.se)
-
-- [Ångrar oprövad covidmedicin: ”Slutade snabbt”](https://www.svd.se/a/veLplB/statsepidemiologen-angrar-covidbehandling) (Svenska Dagbladet)
-
-- [Statsepidemiologen ångrar covidbehandling](https://www.aftonbladet.se/nyheter/a/Knw2r4/statsepidemiologen-angrar-covidbehandling) (Aftonbladet.se)
-
-- [Tafenoquine following G6PD screening versus primaquine for the treatment of vivax malaria in Brazil: A cost-effectiveness analysis using a transmission model](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004255) (Plos.org)
-
-- [William Weightman Net Worth – How Much Was William Weightman Worth?](https://zacjohnson.com/william-weightman-net-worth/) (Zacjohnson.com)
-
-## 24-2 (leptospirosis)
-
-- [Life threatening diseases rats living in your home can cause](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/life-threatening-diseases-rats-living-in-your-home-can-cause/articleshow/106767884.cms) (The Times of India)
-
-## 24-2 (dengue)
-
-- [Força-tarefa de vigilância e assistência intensifica combate à dengue](https://jornaldebrasilia.com.br/brasilia/forca-tarefa-de-vigilancia-e-assistencia-intensifica-combate-a-dengue/) (Jornaldebrasilia.com.br)
-
-- [GDF anuncia a nomeação de 150 servidores para combate à dengue](https://www.metropoles.com/distrito-federal/gdf-anuncia-a-nomeacao-de-150-servidores-para-combate-a-dengue) (Metropoles.com)
-
-- [Vacinação contra dengue pode ser feita em três pontos em Dourados](https://noticias.r7.com/cidades/diario-digital/vacinacao-contra-dengue-pode-ser-feita-em-tres-pontos-em-dourados-13012024) (R7.com)
-
-- [Ministry partners with private parties to achieve zero dengue deaths](https://en.antaranews.com/news/302970/ministry-partners-with-private-parties-to-achieve-zero-dengue-deaths) (Antaranews.com)
-
-- [Intensifica Salud federal medidas de control del dengue en Acapulco](https://www.jornada.com.mx/2024/01/13/estados/023n2est) (Jornada.com.mx)
-
-- [Dengue cases rise in first week of January, says Health DG](https://www.thestar.com.my/news/nation/2024/01/13/dengue-cases-rise-in-first-week-of-january-says-health-dg) (The Star Online)
-
-- [Mosquitos 'fabricados' e infectados de bacterias para acabar con el dengue](https://www.elperiodico.com/es/sociedad/20240113/mosquitos-fabricados-infectados-bacterias-acabar-96751104) (Elperiodico.com)
-
-- [Ação de combate à dengue retira 50 toneladas de entulhos em Samambaia](https://jornaldebrasilia.com.br/brasilia/acao-de-combate-a-dengue-retira-50-toneladas-de-entulhos-em-samambaia/) (Jornaldebrasilia.com.br)
-
-- [Celina Leão reconhece epidemia de dengue no DF: “Crise grave”](https://www.metropoles.com/distrito-federal/durante-visita-ao-hrt-celina-leao-reconhece-epidemia-de-dengue-no-df) (Metropoles.com)
-
-- [DF vai contratar 150 agentes para trabalhar no combate ao mosquito da dengue](https://noticias.r7.com/brasilia/df-vai-contratar-150-agentes-para-trabalhar-no-combate-ao-mosquito-da-dengue-12012024) (R7.com)
-
-- [Another malaria milestone as WHO declares Cabo Verde free of deadly disease](https://news.un.org/en/story/2024/01/1145467) (UN News)
-
-- [Der Klimawandel fördert die Ausbreitung der Dengue-Krankheit. Ein Augenschein vor Ort in Argentinien](https://www.nzz.ch/international/klimawandel-dengue-breitet-sich-in-argentinien-aus-ld.1766922) (Www.nzz.ch)
-
-- [Casos de dengue em Belo Horizonte (MG) aumentam 850% em 2023](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/casos-de-dengue-em-belo-horizonte-mg-aumentam-850-em-2023-12012024) (R7.com)
-
-- [Previna-se: chuvas de verão aumentam risco de dengue e outras doenças](https://www.metropoles.com/saude/chuvas-de-verao-aumentam-risco-de-dengue-e-outras-doencas) (Metropoles.com)
-
-- [Chuvas de verão aumentam risco de dengue e outras doenças; veja como prevenir](https://www.terra.com.br/vida-e-estilo/verao/chuvas-de-verao-aumentam-risco-de-dengue-e-outras-doencas-veja-como-prevenir,359fcaf6a38a3bee6b0673a8c4287d2ad7qid5bq.html) (Terra.com.br)
-
-- [Com alta de 207%, DF registra 2.152 casos prováveis de dengue em 2024](https://www.metropoles.com/distrito-federal/com-alta-de-207-df-registra-2-152-casos-provaveis-de-dengue-em-2024) (Metropoles.com)
-
-- [Paraguay habilita servicio de "teledengue" ante la saturación de hospitales](https://sputniknews.lat/20240111/paraguay-habilita-servicio-de-teledengue-ante-la-saturacion-de-hospitales-1147312851.html) (Sputniknews.lat)
-
-- [Campinas inicia 'operação de guerra' contra a dengue com drones em bairro que concentra metade dos casos](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/11/campinas-inicia-operacao-de-guerra-contra-a-dengue-com-drones-em-bairro-que-concentra-metade-dos-casos.ghtml) (Globo)
-
-- [Belo Horizonte registrou aumento de 600% nos casos de dengue em 2023](https://noticias.r7.com/minas-gerais/belo-horizonte-registrou-aumento-de-600-nos-casos-de-dengue-em-2023-11012024) (R7.com)
-
-- [Com dengue, Leonardo Bricio desabafa sobre estar doente e sozinho](https://www.terra.com.br/diversao/gente/com-dengue-leonardo-bricio-desabafa-sobre-estar-doente-e-sozinho,28f43bb10ddd532a7c63a506ae7afda8katxpvqv.html) (Terra.com.br)
-
-- [Avec ses bornes anti-moustiques, Qista poursuit son développement à l'international](https://region-sud.latribune.fr/innovation/2024-01-10/avec-ses-bornes-anti-moustiques-qista-poursuit-son-developpement-a-l-international-987561.html) (La Tribune.fr)
-
-- [Leonardo Bricio contrai dengue e lamenta recuperação solitária](https://gente.ig.com.br/colunas/gabriel-perline/2024-01-10/leonardo-bricio-contrai-dengue-e-lamenta-recuperacao-solitaria.html) (Ig.com.br)
-
-- [Dengue en Cartagena: las cifras están por debajo de la media nacional](https://www.eluniversal.com.co/cartagena/dengue-en-cartagena-las-cifras-estan-por-debajo-de-la-media-nacional-IA9763479) (Eluniversal.com.co)
-
-- [Taliban Minister Boasts Afghan Anti-Polio Gains While Addressing Global Health Huddle](https://www.voanews.com/a/taliban-minister-boasts-afghan-anti-polio-gains-while-addressing-global-health-huddle-/7434029.html) (VOA News)
-
-- [Adolescente morre por suspeita de dengue hemorrágica em MG](https://noticias.r7.com/minas-gerais/adolescente-morre-por-suspeita-de-dengue-hemorragica-em-mg-10012024) (R7.com)
-
-- [Campinas cria 'operação de guerra' contra a dengue com drones e entrada forçada em imóveis](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/09/campinas-cria-operacao-de-guerra-contra-a-dengue-com-drones-e-entrada-forcada-em-imoveis.ghtml) (Globo)
-
-- [Cidades do interior do Rio estão em alerta por aumento nos casos de dengue](https://recordtv.r7.com/balanco-geral-rj/videos/cidades-do-interior-do-rio-estao-em-alerta-por-aumento-nos-casos-de-dengue-09012024) (R7.com)
-
-- [Qdenga: confira 5 pontos sobre nova vacina da dengue](https://www.bbc.com/portuguese/articles/c03y041yeljo) (BBC News)
-
-- [Médicos de UPA onde mulher morreu com dengue não recebem há seis meses](https://www.metropoles.com/distrito-federal/medicos-de-upa-onde-mulher-morreu-com-dengue-nao-recebem-ha-seis-meses) (Metropoles.com)
-
-- [Antimosquito: tinta, ventiladores e lâmpadas ajudam no combate à dengue](https://casa.abril.com.br/bem-estar/antimosquito-tinta-ventiladores-lampadas-combate-dengue/) (Abril.com.br)
-
-- [Dengue: veja nove bairros com alto risco de transmissão em Campinas, segundo prefeitura](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/08/dengue-saiba-quais-sao-os-nove-bairros-com-alto-risco-de-transmissao-em-campinas.ghtml) (Globo)
-
-- [Genetic regions affecting the replication and pathogenicity of dengue virus type 2](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011885) (Plos.org)
-
-- [Le virus de la dengue circule toujours en Martinique et en Guadeloupe](https://www.ouest-france.fr/region-guadeloupe/departement-de-guadeloupe/le-virus-de-la-dengue-circule-toujours-en-martinique-et-en-guadeloupe-207f8a98-ae21-11ee-885e-024cd8f39fea) (Ouest-France)
-
-## 24-2 (chikungunya)
-
-- [Avec ses bornes anti-moustiques, Qista poursuit son développement à l'international](https://region-sud.latribune.fr/innovation/2024-01-10/avec-ses-bornes-anti-moustiques-qista-poursuit-son-developpement-a-l-international-987561.html) (La Tribune.fr)
-
-- [Valneva: pediatric study in chikungunya begins](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-pediatric-study-in-chikungunya-begins-45710748/) (Marketscreener.com)
-
-- [Valneva Vaccinates First Participant in Pediatric Trial of Single-Shot Chikungunya Vaccine](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Vaccinates-First-Participant-in-Pediatric-Trial-of-Single-Shot-Chikungunya-Vaccine-45710416/) (Marketscreener.com)
-
-- [Valneva vaccine le premier participant de l’étude pédiatrique portant sur son vaccin à dose unique contre le chikungunya](https://www.globenewswire.com/news-release/2024/01/10/2806803/0/fr/Valneva-vaccine-le-premier-participant-de-l-%C3%A9tude-p%C3%A9diatrique-portant-sur-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya.html) (GlobeNewswire)
-
-- [Valneva Vaccinates First Participant in Pediatric Trial of Single-Shot Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/01/10/2806803/0/en/Valneva-Vaccinates-First-Participant-in-Pediatric-Trial-of-Single-Shot-Chikungunya-Vaccine.html) (GlobeNewswire)
-
-- [Antimosquito: tinta, ventiladores e lâmpadas ajudam no combate à dengue](https://casa.abril.com.br/bem-estar/antimosquito-tinta-ventiladores-lampadas-combate-dengue/) (Abril.com.br)
