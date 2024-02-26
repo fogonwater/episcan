@@ -1,8 +1,135 @@
 {
-  "last_updated": "2024-02-26 07:06",
-  "count_articles_total": 1755,
-  "count_articles_new": 29,
+  "last_updated": "2024-02-26 19:05",
+  "count_articles_total": 1760,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 6007,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Calcio: Fiorentina; Kouam\u00e9 lascia l'ospedale e torna a casa",
+      "description": "Christian Kouam\u00e9 ha lasciato l'ospedale dove era stato ricoverato qualche giorno fa dopo essere risultato positivo alla malaria al rientro dalla partecipazione alla Coppa d'Africa vinta dalla propria nazionale, la Costa d'Avorio. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/02/25/calcio-fiorentina-kouame-lascia-lospedale-e-torna-a-casa_fbbb4cc8-cb31-455e-b813-db73d2da300e.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2022/8/31/85c6b05aa7f841346be065de9f3f33e5.jpg",
+      "publishedAt": "2024-02-25 17:27:55",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-02-26 19:05:49.054960",
+      "internal_id": "497633451bc4a4fc12c418aa2909966d89abec3f02a13fcaacf2c16e6f89b521",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6005,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Giacomo Iacobellis",
+      "title": "Kouame con la malaria, il report della Fiorentina: \"Dimesso dall'ospedale, sta migliorando\"",
+      "description": "La Fiorentina ha diramato un comunicato riguardo a Christian Kouame. Le condizioni dell'attaccante viola, che ha contratto la malaria durante l'esperienza in Coppa d'Africa con la Nazionale della Cost",
+      "url": "https://www.tuttomercatoweb.com/serie-a/kouame-con-la-malaria-il-report-della-fiorentina-dimesso-dall-ospedale-sta-migliorando-1939399",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/c7/c721b91a1c4e35d1f688e9cd119f9426-09867-oooz0000.jpeg",
+      "publishedAt": "2024-02-25 16:41:03",
+      "content": "La Fiorentina ha diramato un comunicato riguardo a Christian Kouame. Le condizioni dell'attaccante viola, che ha contratto la malaria durante l'esperienza in Coppa d'Africa con la Nazionale della Cos\u2026 [+1080 chars]",
+      "retrievedAt": "2024-02-26 19:05:49.025654",
+      "internal_id": "b08f72ad97d31acb4da18ef288f0007fa0d3a62069a6d3e5597df2a91c48b775",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6006,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "football-italia",
+      "source_name": "Football Italia",
+      "author": "Susy Campanale",
+      "title": "Fiorentina confirm Kouame out of hospital after malaria diagnosis",
+      "description": "Fiorentina have announced that Ivory Coast international Christian Kouame has been released from hospital after undergoing treatment for malaria",
+      "url": "https://football-italia.net/fiorentina-confirm-kouame-out-of-hospital-after-malaria-diagnosis/",
+      "urlToImage": "https://icdn.football-italia.net/wp-content/uploads/2024/02/Christian-Kouame-Ivory-Coast.jpg",
+      "publishedAt": "2024-02-25 15:41:38",
+      "content": "Fiorentina have announced that Ivory Coast international Christian Kouame has been released from hospital after undergoing treatment for malaria. The forward had contracted the disease during his ti\u2026 [+1040 chars]",
+      "retrievedAt": "2024-02-26 19:05:49.038893",
+      "internal_id": "fe642d0dcde962b1301adf3cd2bbd4100bef3035aecac7e986fa673d2e5c7167",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6004,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "marca",
+      "source_name": "Marca",
+      "author": "marca.com",
+      "title": "Un chico de 17 a\u00f1os infectado por dengue sufre una erecci\u00f3n contin\u00faa de casi 20 horas",
+      "description": "El virus del dengue, conocido por causar erupciones cut\u00e1neas y hemorragias internas, ahora est\u00e1 siendo vinculado a un efecto inusual: erecciones prolongadas que pueden durar horas.",
+      "url": "https://www.marca.com/tiramillas/actualidad/2024/02/25/65db5829ca47411c178b4571.html",
+      "urlToImage": "https://phantom-marca.unidadeditorial.es/7eacf77eefc2c3a99a736f6738c286f1/resize/1200/f/webp/assets/multimedia/imagenes/2024/02/25/17088737565503.jpg",
+      "publishedAt": "2024-02-25 15:26:54",
+      "content": "El virus del dengue, conocido por causar erupciones cut\u00e1neas y hemorragias internas, ahora est\u00e1 siendo vinculado a un efecto inusual: erecciones prolongadas que pueden durar horas. Esto es algo que h\u2026 [+1894 chars]",
+      "retrievedAt": "2024-02-26 19:05:47.602172",
+      "internal_id": "2601545597dd2de1b8d7f63caf9e2cb63484968b2f84bbe3c22f267b6a899e71",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6009,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "http://www.facebook.com/bbcnews",
+      "title": "\u042f\u043a \u0431\u0443\u0431\u043e\u043d\u043d\u0430 \u0447\u0443\u043c\u0430 \u0437\u043c\u0456\u043d\u0438\u043b\u0430 \u0456\u043c\u0443\u043d\u043d\u0443 \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u043b\u044e\u0434\u0438\u043d\u0438",
+      "description": "\u0411\u0443\u0431\u043e\u043d\u043d\u0430 \u0447\u0443\u043c\u0430 \u0432\u0441\u0435 \u0449\u0435 \u0442\u0440\u0430\u043f\u043b\u044f\u0454\u0442\u044c\u0441\u044f \u0432 \u043e\u043a\u0440\u0435\u043c\u0438\u0445 \u043c\u0456\u0441\u0446\u044f\u0445 \u0417\u0435\u043c\u043b\u0456, \u0430\u043b\u0435 \u0437\u0430\u0432\u0434\u044f\u043a\u0438 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u043c \u0430\u043d\u0442\u0438\u0431\u0456\u043e\u0442\u0438\u043a\u0430\u043c \u0457\u0457 \u043d\u0430\u0431\u0430\u0433\u0430\u0442\u043e \u043b\u0435\u0433\u0448\u0435 \u043b\u0456\u043a\u0443\u0432\u0430\u0442\u0438, \u043d\u0456\u0436 \u0443 \u043c\u0438\u043d\u0443\u043b\u043e\u043c\u0443.",
+      "url": "https://www.bbc.com/ukrainian/articles/cl5llwlx51vo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/d71e/live/1f4f74e0-d0d0-11ee-8f28-259790e80bba.jpg",
+      "publishedAt": "2024-02-25 12:54:22",
+      "content": ", Getty images , , XIV , - Article informationAuthor, Role, BBC Future , , . . Yersinia pestis . . , . \" \" , . - , , , , . , , . . . . \" \", . , -\u2026 [+619 chars]",
+      "retrievedAt": "2024-02-26 19:05:50.924038",
+      "internal_id": "7dbedc866e666502a25adf9e342220926397eb4cf641f8be2be6321f047952de",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6008,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Pablo Nascimento, do R7",
+      "title": "Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH",
+      "description": "Unidade tamb\u00e9m ganhar\u00e1 uma espa\u00e7o para fazer hidrata\u00e7\u00e3o das pessoas infectadas com a doen\u00e7a, al\u00e9m de zika e chikungunya",
+      "url": "https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024",
+      "urlToImage": "https://img.r7.com/images/hospital-dengue-bh-25022024124035339?crop=703x395+66+0",
+      "publishedAt": "2024-02-25 12:44:00",
+      "content": "BH tem sete unidades exclusivas para casos de dengue Divulga\u00e7\u00e3o / PBH / Amira Hissa O CAA (Centro de Atendimento \u00e0s Arboviroses) da regional Barreiro, em Belo Horizonte, passar\u00e1 a funcionar 2\u2026 [+2126 chars]",
+      "retrievedAt": "2024-02-26 19:05:49.664325",
+      "internal_id": "4cb01ebc2bcedf553a6e65ab383a5edfbf092b777cc4916b17c698c7d8a6ac30",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6003,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Week in pictures: Ukraine war anniversary to farmers\u2019 protest in India",
+      "description": "A roundup of some of last week\u2019s events.",
+      "url": "https://www.aljazeera.com/gallery/2024/2/25/week-in-pictures-ukraine-war-anniversary-to-farmers-protest-in-india",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-02-24T091820Z_125958182_RC2I86AEXLP6_RTRMADP_3_UKRAINE-CRISIS-ANNIVERSARY-LVIV-1708855342.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-02-25 12:18:04",
+      "content": "From a dengue vaccination campaign in Brazil, a Buddhist ceremony in Thailand to antigovernment protests in India and Israel, here is the week in photos.",
+      "retrievedAt": "2024-02-26 19:05:47.583212",
+      "internal_id": "0fa8c6e200bd2f070e1a1a3e8a1a376e69a41d64476c78fd6fd097b7087226e8",
+      "publishedAtLabel": "Feb 25"
+    },
     {
       "id": 5977,
       "query": [
@@ -31621,42 +31748,6 @@
       "content": "Duas Unidades B\u00e1sicas de Sa\u00fade (UBSs) do Distrito Federal v\u00e3o ter atendimento aos s\u00e1bados e domingos, para ampliar o atendimento de pacientes durante a epidemia de dengue da capital. As UBSs 2 de Cei\u2026 [+1772 chars]",
       "retrievedAt": "2024-01-16 07:05:50.500575",
       "internal_id": "8ae01a0831c39b103597ba8b5ca1e3e18f70d99a27bfad151ef15d2aac1da013",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4247,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WTOP",
-      "author": "Dan Friedell",
-      "title": "Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News",
-      "description": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received a vaccine.",
-      "url": "https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHI4ZTltb2UwMDE5M2I2aDlpNzZsZDc0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscjhkdDZ0ejAwMngyNnAxZzJ4aTVuMHg-300.jpg",
-      "publishedAt": "2024-01-14 09:50:17",
-      "content": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received \u2026 [+1445 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.519753",
-      "internal_id": "e313437922b4c02fe598f825deadbd0f17267ea4011518a4985782c038bc044c",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4246,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "All dog-bite victims in Sarawak stable, says Health Ministry",
-      "description": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 14). Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/14/2490389.jpg",
-      "publishedAt": "2024-01-14 08:02:00",
-      "content": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 1\u2026 [+1887 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.219448",
-      "internal_id": "d25374de87f036ae424c49e35d95b3b162fef4eabef0bcd96613686060058c8e",
       "publishedAtLabel": "Jan 14"
     }
   ]

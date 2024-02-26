@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 29
-- **Last harvest:** 2024-02-26 07:06
-- **Most recent article:** 2024-02-25 05:00:00
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-02-26 19:05
+- **Most recent article:** 2024-02-25 17:27:55
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 65 | 123 | 173 | 216 | 191 | 175 | 1 | 944 |
-| measles | 60 | 56 | 47 | 68 | 45 | 91 | 2 | 369 |
-| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 0 | 224 |
-| zika | 8 | 7 | 8 | 13 | 6 | 13 | 0 | 55 |
-| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 0 | 54 |
-| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 0 | 42 |
+| dengue | 65 | 123 | 173 | 216 | 191 | 175 | 3 | 946 |
+| measles | 59 | 56 | 47 | 68 | 45 | 91 | 2 | 368 |
+| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 3 | 227 |
+| zika | 8 | 7 | 8 | 13 | 6 | 13 | 1 | 56 |
+| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 1 | 55 |
+| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 0 | 41 |
 | mpox | 8 | 4 | 3 | 5 | 8 | 6 | 0 | 34 |
 | meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 0 | 33 |
 | sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 0 | 27 |
 | pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 0 | 18 |
 | typhoid | 1 | 2 | 2 | 1 | 2 | 2 | 0 | 10 |
-| yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 0 | 7 |
+| yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 1 | 8 |
 | leptospirosis | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
 
 
@@ -31,15 +31,39 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-9 (zika)
+
+- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
+
+## 24-9 (yersinia)
+
+- [Як бубонна чума змінила імунну систему людини](https://www.bbc.com/ukrainian/articles/cl5llwlx51vo) (BBC News)
+
 ## 24-9 (measles)
 
 - [TWiV 1091: Skeeter poo and obelisks too](https://www.microbe.tv/twiv/twiv-1091/) (Microbe.tv)
 
 - [In the wake of COVID's anti-vax movement, measles is making a huge comeback](https://www.mmo-champion.com/threads/2647373-In-the-wake-of-COVID-s-anti-vax-movement-measles-is-making-a-huge-comeback?p=54394840#post54394840) (Mmo-champion.com)
 
+## 24-9 (malaria)
+
+- [Calcio: Fiorentina; Kouamé lascia l'ospedale e torna a casa](https://www.ansa.it/sito/notizie/sport/calcio/2024/02/25/calcio-fiorentina-kouame-lascia-lospedale-e-torna-a-casa_fbbb4cc8-cb31-455e-b813-db73d2da300e.html) (ANSA.it)
+
+- [Kouame con la malaria, il report della Fiorentina: "Dimesso dall'ospedale, sta migliorando"](https://www.tuttomercatoweb.com/serie-a/kouame-con-la-malaria-il-report-della-fiorentina-dimesso-dall-ospedale-sta-migliorando-1939399) (Tuttomercatoweb.com)
+
+- [Fiorentina confirm Kouame out of hospital after malaria diagnosis](https://football-italia.net/fiorentina-confirm-kouame-out-of-hospital-after-malaria-diagnosis/) (Football Italia)
+
 ## 24-9 (dengue)
 
+- [Un chico de 17 años infectado por dengue sufre una erección continúa de casi 20 horas](https://www.marca.com/tiramillas/actualidad/2024/02/25/65db5829ca47411c178b4571.html) (Marca)
+
+- [Week in pictures: Ukraine war anniversary to farmers’ protest in India](https://www.aljazeera.com/gallery/2024/2/25/week-in-pictures-ukraine-war-anniversary-to-farmers-protest-in-india) (Al Jazeera English)
+
 - [DF tem maior número de casos e de mortes por dengue no país](https://saude.ig.com.br/2024-02-24/df-tem-maior-numero-de-casos-e-de-mortes-por-dengue-no-pais.html) (Ig.com.br)
+
+## 24-9 (chikungunya)
+
+- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
 
 ## 24-8 (zika)
 
@@ -3467,8 +3491,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health dept. confirms rabid coyote in Mount Pleasant; 1 person exposed](https://www.live5news.com/2024/01/17/health-dept-confirms-rabid-coyote-mount-pleasant-1-person-exposed/) (Live 5 News WCSC)
 
-- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
-
 ## 24-3 (pertussis)
 
 - [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
@@ -3632,8 +3654,6 @@ Source: [News API](https://newsapi.org/)
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
-
-- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 ## 24-3 (malaria)
 
