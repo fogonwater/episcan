@@ -1,8 +1,116 @@
 {
-  "last_updated": "2024-02-25 19:05",
-  "count_articles_total": 1724,
-  "count_articles_new": 14,
+  "last_updated": "2024-02-26 07:06",
+  "count_articles_total": 1755,
+  "count_articles_new": 29,
   "articles": [
+    {
+      "id": 5977,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1091: Skeeter poo and obelisks too",
+      "description": "TWiV reviews resurgence of Lassa fever in West Africa, at least 3 paralytic cases of cVDPV2 in Zimbabwe, CWD from eating prion-laden plants, measles in New Orleans and Broward County Florida, failure of Florida Surgeon General to support vaccination, a measle\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1091/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-25 05:00:00",
+      "content": "TWiV reviews resurgence of Lassa fever in West Africa, at least 3 paralytic cases of cVDPV2 in Zimbabwe, CWD from eating prion-laden plants, measles in New Orleans and Broward County Florida, failure\u2026 [+905 chars]",
+      "retrievedAt": "2024-02-26 07:05:56.503600",
+      "internal_id": "c2d3a9303391278151adc90364ac85beb74f0afaddf1d2685ccf2bae1a3bc8d1",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 5976,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mmo-champion.com",
+      "author": "Benggaul",
+      "title": "In the wake of COVID's anti-vax movement, measles is making a huge comeback",
+      "description": "Fuck Florida edition. There have been multiple outbreaks all over the country, but the one in Florida has the potential to top them all. Measles is a 'heat-seeking missile' experts warn as Florida outbreak grows It's high time we start charging a\u2026",
+      "url": "https://www.mmo-champion.com/threads/2647373-In-the-wake-of-COVID-s-anti-vax-movement-measles-is-making-a-huge-comeback?p=54394840#post54394840",
+      "urlToImage": null,
+      "publishedAt": "2024-02-25 02:26:42",
+      "content": "The Florida measles outbreak is expanding. On Friday, health officials in Broward County confirmed a seventh case of the virus, a child under age 5.The patient is the youngest so far to be infected i\u2026 [+3884 chars]",
+      "retrievedAt": "2024-02-26 07:05:56.491664",
+      "internal_id": "66a5a9277a3d8d2ee8227a47a49aaaf861ee7bb012b84c1d1601a2507625a9cd",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 5980,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "DF tem maior n\u00famero de casos e de mortes por dengue no pa\u00eds",
+      "description": "De acordo com o Minist\u00e9rio da Sa\u00fade, s\u00e3o 2.938 casos prov\u00e1veis por 100 mil habitantes, al\u00e9m de 35 mortes confirmadas",
+      "url": "https://saude.ig.com.br/2024-02-24/df-tem-maior-numero-de-casos-e-de-mortes-por-dengue-no-pais.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c4/1z/dr/c41zdr4sztch6kcgg0ab3ryg7.jpg",
+      "publishedAt": "2024-02-25 00:26:08",
+      "content": "O Distrito Federal \u00e9 o local com a maior taxa de incid\u00eancia de dengue e n\u00famero de mortes pela doen\u00e7a no Brasil, de acordo com o Minist\u00e9rio da Sa\u00fade. A unidade da federa\u00e7\u00e3o tem 2.938 casos prov\u00e1veis \u2026 [+1615 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.147801",
+      "internal_id": "44e6484086cb600b8982d1c98a553ac39d4ed33eb44bdd995cd80129aa265ee6",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 5994,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "V\u00cdDEOS: EPTV 2 Campinas de s\u00e1bado, 24 de fevereiro de 2024",
+      "description": "Reveja as reportagens das regi\u00f5es de Campinas e Piracicaba. Reveja as reportagens das regi\u00f5es de Campinas e Piracicaba.",
+      "url": "https://g1.globo.com/sp/campinas-regiao/edicao/2024/02/24/videos-eptv-2-campinas-de-sabado-24-de-fevereiro-de-2024.ghtml",
+      "urlToImage": "http://s2.glbimg.com/vT-z7dJf4tmzciPT646jPpPENcI=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/05/50/12385005",
+      "publishedAt": "2024-02-24 22:48:25",
+      "content": "Dengue deve atingir pico at\u00e9 maio, e prioridade \u00e9 evitar mortes, alerta OMS",
+      "retrievedAt": "2024-02-26 07:05:57.227240",
+      "internal_id": "5334fde963bf7f412582f7b3442ac3fa06bad1e1626419a55b1c12264c00ca2e",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5975,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "allears.net",
+      "author": "JP",
+      "title": "NEWS: Measles Outbreak Reported in Florida",
+      "description": "There's been an outbreak of measles at an elementary school in Florida. The post NEWS: Measles Outbreak Reported in Florida appeared first on AllEars.Net.",
+      "url": "https://allears.net/2024/02/24/measles-outbreak-reported-in-florida/",
+      "urlToImage": "https://allears.net/wp-content/uploads/2022/11/2022-florida-capitol-building-tallahassee.png",
+      "publishedAt": "2024-02-24 21:58:09",
+      "content": "We have some news you should know if you\u2019re heading to Florida soon. Main Street U.S.A. We kept you updated on all the latest COVID-19 news when the pandemic began four years ago, and we continue t\u2026 [+1782 chars]",
+      "retrievedAt": "2024-02-26 07:05:56.487967",
+      "internal_id": "27d38f16833cc4967edb3e2fbd1027823d1466f290c7a922359bf643995bd4ed",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5974,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Litty Simon",
+      "title": "Florida's Health Officials Draw Fire As Measles Outbreak Continues To Spread",
+      "description": "A child under age 5 is the youngest so far to be infected in the outbreak.",
+      "url": "https://www.ibtimes.com/floridas-health-officials-draw-fire-measles-outbreak-continues-spread-3725456",
+      "urlToImage": "https://d.ibtimes.com/en/full/3480292/vial-measles-mumps-rubella-mmr-vaccine-pictured-international-community-health-services.jpg",
+      "publishedAt": "2024-02-24 20:40:39",
+      "content": "Florida's health officials are drawing criticism for the handling of the measles outbreak, as a seventh case of the virus has been confirmed. According to NBC news, a child under age 5 is the younge\u2026 [+2634 chars]",
+      "retrievedAt": "2024-02-26 07:05:56.416728",
+      "internal_id": "ced1dce6babd225f38ebefd1fa8257493c3019294aff351e5c5ad4f646dc398d",
+      "publishedAtLabel": "Feb 24"
+    },
     {
       "id": 5965,
       "query": [
@@ -25,7 +133,8 @@
       "id": 5970,
       "query": [
         "zika",
-        "chikungunya"
+        "chikungunya",
+        "dengue"
       ],
       "source_id": "la-nacion",
       "source_name": "La Nacion",
@@ -38,6 +147,24 @@
       "content": "Con la invasi\u00f3n de mosquitos que vive por estos d\u00edas la ciudad de Buenos Aires y alrededores pareciera una teor\u00eda confabulatoria recordar que en Medell\u00edn, Colombia, funciona la mayor f\u00e1brica de mosqu\u2026 [+6681 chars]",
       "retrievedAt": "2024-02-25 19:05:39.018175",
       "internal_id": "09370eede2f1dc748c7af3fc2e47b136093890d3b0d4f6ab2699b44b61100770",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5997,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Combatir el dengue. Qui\u00e9nes deben vacunarse, cu\u00e1nto hay que esperar y otras preguntas clave respondidas por infect\u00f3logos",
+      "description": "En la Argentina ya se comercializa un f\u00e1rmaco, pero no todas las personas deber\u00edan acceder a inmunizarse; consultar al m\u00e9dico es central",
+      "url": "https://www.lanacion.com.ar/sociedad/combatir-el-dengue-quienes-deben-vacunarse-cuanto-hay-que-esperar-y-otras-preguntas-clave-nid24022024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-mosquito-transmisor-del-AMMIBPUHIFHI3EPPCTPK3FIVEQ?auth=25bb2545424a6c0e2f774f2e5c561718782069b41678eab551bbfaa80d86f69b&width=768&quality=70&smart=false",
+      "publishedAt": "2024-02-24 18:33:04",
+      "content": "\u00bfQui\u00e9nes deben vacunarse? \u00bfCu\u00e1ntos d\u00edas despu\u00e9s empieza a hacer efecto? \u00bfLa vacuna realmente evita el contagio? \u00bfCu\u00e1nto tiempo deben esperar quienes ya tuvieron dengue antes de recibir la primera dos\u2026 [+7304 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.237922",
+      "internal_id": "c72b9069af8a349a6ffaf666f913688cd229e5f47c155dd50634b5fa8ecd77bd",
       "publishedAtLabel": "Feb 24"
     },
     {
@@ -110,6 +237,42 @@
       "content": "PETALING JAYA: There is a need for greater awareness of acute gastroenteritis (AGE) as some cases may involve typhoid, which would make patients carriers for up to a year, say medical experts. With \u2026 [+2750 chars]",
       "retrievedAt": "2024-02-25 19:05:40.216189",
       "internal_id": "0d1f0a7e56f41364e6d2d0eb539624aee397c78ad5831e81d3f799db07752986",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5982,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "'N\u00e3o me deixe morrer', pedia menino de 6 anos v\u00edtima da dengue no ES",
+      "description": "Av\u00f4 relata \u00faltimos dias de vida do neto; Esp\u00edrito Santo registra tr\u00eas \u00f3bitos pela doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-02-24/relato-crianca-obito-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/28/7w/sa/287wsad1nz2gkmdg4l69923y2.jpg",
+      "publishedAt": "2024-02-24 15:57:15",
+      "content": "O garoto Brayan Alves da Silva, de 6 anos, v\u00edtima da dengue em Sooretama (ES), pedia a Deus para n\u00e3o morrer. O caso foi relatado pelo av\u00f4 do menino, Artur Gomes de Oliveira, em entrevista \u00e0 TV Gazeta\u2026 [+2299 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.166366",
+      "internal_id": "0ea296f8abe1ef55fcfbd1bda9a1f5b18ffd93a71123d35e492f7e5a8b58d1c3",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5999,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "PBH amplia centros de sa\u00fade abertos aos fins de semana para atendimento de dengue",
+      "description": "Munic\u00edpios mineiros promoveram o Dia D contra o mosquito Aedes aegypti neste s\u00e1bado (24); Secretaria de Estado de Sa\u00fade afirma que \u00e9 o pior momento da doen\u00e7a no estado",
+      "url": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/pbh-amplia-centros-de-saude-abertos-aos-fins-de-semana-para-atendimento-de-dengue-24022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/24/65da2dd219d2240e4100019a/94ae324a07b54a6b919c1ef9c1ebc0ff__BGE_2402_DIA_D_DENGUE_thumb_thumb.jpg",
+      "publishedAt": "2024-02-24 15:30:27",
+      "content": "Treze centros de sa\u00fade de Belo Horizonte ficar\u00e3o abertos aos fins de semana para atendimento de casos suspeitos de dengue. A novidade foi anunciada neste s\u00e1bado (24) pelo secret\u00e1rio municipal de sa\u00fad\u2026 [+1057 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.245341",
+      "internal_id": "11412013640fc0d6ca9f01541a5da05980a4ed5bfc8e3d08289e92dbef93652c",
       "publishedAtLabel": "Feb 24"
     },
     {
@@ -200,6 +363,42 @@
       "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
       "retrievedAt": "2024-02-25 19:05:36.324565",
       "internal_id": "c42e6470a3c2999a678c89c6e73f43b97fa7c584f6e4e3e23dc1a67eadd2784a",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 6000,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Prefeitura de SP realiza a\u00e7\u00e3o de preven\u00e7\u00e3o ao mosquito que transmite a dengue",
+      "description": "O estado de S\u00e3o Paulo tem 17 mortes confirmadas por dengue e outros 84 casos est\u00e3o em investiga\u00e7\u00e3o. Para combater o avan\u00e7o da doen\u00e7a, a prefei...",
+      "url": "https://recordtv.r7.com/fala-brasil/videos/prefeitura-de-sp-realiza-acao-de-prevencao-ao-mosquito-que-transmite-a-dengue-24022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/24/65da057a19d2244da300024d/b47f74d454bc4c8cb0f419a92dab15b0__2550094_EPP_2402_FB_ACAO_DE_PREVENCAO_thumb.jpg",
+      "publishedAt": "2024-02-24 12:23:30",
+      "content": "O estado de S\u00e3o Paulo tem 17 mortes confirmadas por dengue e outros 84 casos est\u00e3o em investiga\u00e7\u00e3o. Para combater o avan\u00e7o da doen\u00e7a, a prefeitura municipal da capital paulista realiza, neste s\u00e1bado \u2026 [+74 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.248677",
+      "internal_id": "673092438dc5baf44600804a8cf135c19287fc85284e43502a506f1c42bee749",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 5987,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Rio come\u00e7a a vacinar crian\u00e7as contra a dengue; mais de 350 mil devem receber dose at\u00e9 fim de mar\u00e7o",
+      "description": "Com o avan\u00e7o dos casos de dengue, o Rio de Janeiro come\u00e7ou a vacinar neste s\u00e1bado (24) menores de at\u00e9 10 anos. At\u00e9 agora, somente neste ano, s...",
+      "url": "https://recordtv.r7.com/fala-brasil/videos/rio-comeca-a-vacinar-criancas-contra-a-dengue-mais-de-350-mil-devem-receber-dose-ate-fim-de-marco-24022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/24/65d9fcc743527f6a67000e71/e38cb2c6ba7747509fc559f2127fbb7f__2550086_EPP_2402_FB_MAIS_DE_350_MIL_thumb_thumb.jpg",
+      "publishedAt": "2024-02-24 12:17:06",
+      "content": "Com o avan\u00e7o dos casos de dengue, o Rio de Janeiro come\u00e7ou a vacinar neste s\u00e1bado (24) menores de at\u00e9 10 anos. At\u00e9 agora, somente neste ano, seis pessoas morreram ap\u00f3s serem picadas pelo mosquito. A \u2026 [+99 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.184078",
+      "internal_id": "5d1c5814a8d6767cd36234f5b9fc0e9de7aa166423ebc078867828b2765df598",
       "publishedAtLabel": "Feb 24"
     },
     {
@@ -459,7 +658,8 @@
       "id": 5956,
       "query": [
         "malaria",
-        "zika"
+        "zika",
+        "dengue"
       ],
       "source_id": "la-nacion",
       "source_name": "La Nacion",
@@ -603,6 +803,24 @@
       "publishedAtLabel": "Feb 23"
     },
     {
+      "id": 6002,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Rio de Janeiro inicia vacina\u00e7\u00e3o contra a dengue em crian\u00e7as",
+      "description": "Come\u00e7ou hoje (23), na cidade do Rio de Janeiro, a vacina\u00e7\u00e3o contra a dengue. A campanha come\u00e7ou com a imuniza\u00e7\u00e3o de crian\u00e7as de 10 anos. A par...",
+      "url": "https://noticias.r7.com/jr-na-tv/videos/rio-de-janeiro-inicia-vacinacao-contra-a-dengue-em-criancas-23022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/23/65d928a64b4955e5d80006d5/0cf81e48a8184ef3835c595d7cee44a8__2549764_EPP_2302_JR_VACINACAO_RIO_thumb.jpg",
+      "publishedAt": "2024-02-23 20:28:55",
+      "content": "Come\u00e7ou hoje (23), na cidade do Rio de Janeiro, a vacina\u00e7\u00e3o contra a dengue. A campanha come\u00e7ou com a imuniza\u00e7\u00e3o de crian\u00e7as de 10 anos. A partir da pr\u00f3xima quarta-feira, as crian\u00e7as de 11 anos tamb\u00e9\u2026 [+185 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.255701",
+      "internal_id": "2821c1499f46836357c06b77f1a9425ac4fbba6c7c231581f655d7f3366dcfd8",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
       "id": 5941,
       "query": [
         "measles"
@@ -712,6 +930,42 @@
       "publishedAtLabel": "Feb 23"
     },
     {
+      "id": 5995,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "\u2018Dia D\u2019 contra a dengue: regi\u00e3o de Campinas realiza mutir\u00e3o de combate \u00e0 doen\u00e7a neste s\u00e1bado",
+      "description": "A\u00e7\u00f5es fazem parte de uma campanha da EPTV em parceria com prefeituras e acontece em pelo menos 19 cidades; veja locais e hor\u00e1rios. S\u00e1bado \u00e9 \u2018Dia D\u2019 no combate ao Aedes Aegypti nas regi\u00f5es de Campinas e Piracicaba Em meio a preocupa\u00e7\u00e3o com o aumento de casos d\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/23/dia-d-contra-a-dengue-regiao-de-campinas-realiza-mutirao-de-combate-a-doenca-neste-sabado.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/go30LIht2hwWfLSqqCcxBUPoFnU=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/12381302.jpg",
+      "publishedAt": "2024-02-23 18:50:37",
+      "content": "O mutir\u00e3o faz parte da 7\u00aa Campanha Regional de Combate ao Aedes Aegypti, campanha que acontece desde 2016 e busca atingir os munic\u00edpios da \u00e1rea de cobertura da emissora com iniciativas regionais de c\u2026 [+5228 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.230966",
+      "internal_id": "23201da2d6ab762a1ce2bcda2f0cfd48549b3102d27471be47ce4ceb7f8ed960",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 6001,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "RJ come\u00e7a a vacinar crian\u00e7as de 10 anos contra a dengue",
+      "description": "A cidade do Rio de Janeiro come\u00e7ou a vacina\u00e7\u00e3o contra a dengue em crian\u00e7as em todo o estado. O calend\u00e1rio abriu para crian\u00e7as de 10 anos. A im...",
+      "url": "https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/rj-comeca-a-vacinar-criancas-de-10-anos-contra-a-dengue-23022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/23/65d8fdadca9084fca800008f/9ab544b6b7964cb8af8f45e6eacec474__2549345_EPP_2302_BOLETIMJR_3_RJ_VACINA_thumb_thumb.jpg",
+      "publishedAt": "2024-02-23 18:47:51",
+      "content": "A cidade do Rio de Janeiro come\u00e7ou a vacina\u00e7\u00e3o contra a dengue em crian\u00e7as em todo o estado. O calend\u00e1rio abriu para crian\u00e7as de 10 anos. A imuniza\u00e7\u00e3o vai acontecer de forma escalonada para o p\u00fablico\u2026 [+50 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.252098",
+      "internal_id": "dd5a370b709e1c5728363cdb943bdb5f98df1db8ce07b10056c1fde8cf84529c",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
       "id": 5933,
       "query": [
         "chikungunya"
@@ -784,6 +1038,24 @@
       "publishedAtLabel": "Feb 23"
     },
     {
+      "id": 5993,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Sele\u00e7\u00f5es, Sele\u00e7\u00f5es",
+      "title": "Dengue: 4 dicas preciosas para proteger as crian\u00e7as na escola",
+      "description": "Proteger as crian\u00e7as contra a dengue requer esfor\u00e7o e conscientiza\u00e7\u00e3o de toda a comunidade escolar e familiar. Saiba o que fazer!",
+      "url": "https://delas.ig.com.br/parceiros/selecoes/2024-02-23/dengue--4-dicas-preciosas-para-proteger-as-criancas-na-escola.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/dh/4b/4o/dh4b4o7fp0x16v3q9hri03jwk.jpg",
+      "publishedAt": "2024-02-23 16:40:04",
+      "content": "Com o aumento dos casos de dengue no pa\u00eds, muitas fam\u00edlias est\u00e3o preocupadas com a seguran\u00e7a de seus filhos ao retornarem para a escola. Diante dessa realidade preocupante, o Governo Federal lan\u00e7ou,\u2026 [+2672 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.211390",
+      "internal_id": "7ecb61ddff31a7313da2eee60c6e5439348dd71923927d896c01459fc69cb807",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
       "id": 5929,
       "query": [
         "dengue"
@@ -820,6 +1092,24 @@
       "publishedAtLabel": "Feb 23"
     },
     {
+      "id": 5989,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Como acabar com pernilongos?",
+      "description": "Saiba como usar o repelente corretamente e veja outras dicas para espantar insetos como o mosquito da dengue",
+      "url": "https://claudia.abril.com.br/saude/como-acabar-com-pernilongos",
+      "urlToImage": "https://claudia.abril.com.br/wp-content/uploads/2024/02/Como-acabar-com-o-mosquito-da-dengue.jpg?quality=85&strip=info",
+      "publishedAt": "2024-02-23 15:30:36",
+      "content": "Assine CLAUDIA por R$2,00/semanaContinua ap\u00f3s publicidade Saiba como usar o repelente corretamente e veja outras dicas para espantar insetos como o mosquito da dengue Por Julyana Oliveira 23 fev \u2026 [+4077 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.191155",
+      "internal_id": "5cde8e9fde32001e35f36191570584041791d48aeb43e17158b973406677d647",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
       "id": 5921,
       "query": [
         "measles"
@@ -835,6 +1125,60 @@
       "content": "Lets get this right up front: measles is a highly infectious airborne virus that can cause serious health complications like brain swelling or even death in children, especially those younger than fi\u2026 [+5289 chars]",
       "retrievedAt": "2024-02-24 19:05:28.397780",
       "internal_id": "e96aad24defada3e0eed82b8b50c86a2307793c1b988afb7f9255569887890b7",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5996,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Com alta de casos de dengue, Campinas tem 16 ecopontos; confira endere\u00e7os",
+      "description": "Cidade atingiu 7 mil casos confirmados de dengue nesta sexta-feira (23); descarte em local apropriado contribui para que n\u00e3o haja forma\u00e7\u00e3o de novos criadouros do mosquito transmissor. Ca\u00e7ambas em ecoponto de Campinas tem lixo separado para reciclagem. Vaner S\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/23/com-alta-de-casos-de-dengue-campinas-tem-16-ecopontos-confira-enderecos.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/s_w_hyABl86uJ9is04DX282AKuQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/A/v/L6laG2SDOloygIPm9T1Q/capturar1.jpg",
+      "publishedAt": "2024-02-23 14:55:24",
+      "content": "Nestes locais, podem ser descartados gratuitamente res\u00edduos como pap\u00e9is, papel\u00e3o, metais, vidro, res\u00edduos de materiais de constru\u00e7\u00e3o, res\u00edduos de podas de \u00e1rvore e eletr\u00f4nicos. Eles s\u00e3o apropriados p\u2026 [+3487 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.234387",
+      "internal_id": "5592859393e049ddcbaa1158f39c0323d105524d609aa5d531b454576da8fb5a",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5981,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Estados Unidos emitem alerta para cidad\u00e3os americanos que desejam visitar o Brasil",
+      "description": "O Centro de Controle e Preven\u00e7\u00e3o de Doen\u00e7as dos Estados Unidos colocou o Brasil na lista de alerta para viajantes americanos, nesta sexta-feir...",
+      "url": "https://noticias.r7.com/record-news/videos/eua-emitem-alerta-para-cidadaos-americanos-que-desejam-visitar-o-brasil-23022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/23/65d8d00c19d22441f700012e/fde08d0044704a21812b61a520dd6f9a__2548743_EPP_RRN_2302_DENGUE_thumb_thumb.jpg",
+      "publishedAt": "2024-02-23 14:42:00",
+      "content": "O Centro de Controle e Preven\u00e7\u00e3o de Doen\u00e7as dos Estados Unidos colocou o Brasil na lista de alerta para viajantes americanos, nesta sexta-feira (23). O motivo \u00e9 a explos\u00e3o dos casos de dengue no pa\u00eds\u2026 [+175 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.162507",
+      "internal_id": "acc6e2c1eb2cb1f9a9a3f068d9b2c6d72d3853ff2080da3b31d033f2184f631f",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5990,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Sele\u00e7\u00f5es, Sele\u00e7\u00f5es",
+      "title": "Qual \u00e9 o melhor repelente contra o mosquito da dengue? 3 op\u00e7\u00f5es para proteger sua fam\u00edlia",
+      "description": "Fique alerta com o surto de dengue e saiba quais s\u00e3o os melhores repelentes para cuidar da sua fam\u00edlia.",
+      "url": "https://delas.ig.com.br/parceiros/selecoes/2024-02-23/qual-e-o-melhor-repelente-contra-o-mosquito-da-dengue--3-opcoes-para-proteger-sua-familia.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3o/3z/ch/3o3zchykgdvgusrncv0gfyjlj.jpg",
+      "publishedAt": "2024-02-23 14:10:33",
+      "content": "Com o aumento das preocupa\u00e7\u00f5es com a propaga\u00e7\u00e3o de doen\u00e7as transmitidas por mosquitos, como a dengue, a busca pelo repelente ideal tornou-se uma prioridade para muitas fam\u00edlias. Diante dessa necess\u2026 [+5280 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.200873",
+      "internal_id": "29faf0705d9ebf33bce7fab02ef7fa5c3fe93afc5da596fde7ec7d8ac99e59f9",
       "publishedAtLabel": "Feb 23"
     },
     {
@@ -871,6 +1215,24 @@
       "content": "A ajuda financeira enviada por Neymar para a defesa de Daniel Alves, que ajudou o ex-jogador a reduzir sua pena, ainda est\u00e1 rendendo. Mesmo com dengue, a jornalista Monica Iozzi usou os stories do In\u2026 [+5868 chars]",
       "retrievedAt": "2024-02-24 19:05:29.482954",
       "internal_id": "4a189407c504d1f5e7548e880801937a1707bae992c7d5103863efead88521ec",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5978,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Friday, February 23, 2024",
+      "description": "Today's briefing covers the ongoing Alabama IVF crisis, potential abortion bans, measles outbreaks and vaccinations, and more.",
+      "url": "https://kffhealthnews.org/morning-briefing/friday-february-23-2024/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2024-02-23 13:37:28",
+      "content": "A Hack At UnitedHealth Hits Pharmacy Services Across Country The hack hit UnitedHealth's Change Healthcare unit, and affected several pharmacy chains. Meanwhile, Modern Healthcare reports that so fa\u2026 [+8567 chars]",
+      "retrievedAt": "2024-02-26 07:05:56.508579",
+      "internal_id": "01019acb7846813b0034005ff07a438b7bdec0c5fcaee1474b48a69784871eac",
       "publishedAtLabel": "Feb 23"
     },
     {
@@ -1018,6 +1380,24 @@
       "publishedAtLabel": "Feb 23"
     },
     {
+      "id": 5979,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen",
+      "title": "Florida Defies CDC in Measles Outbreak, Telling Parents It\u2019s Fine to Send Unvaccinated Kids to School",
+      "description": "The state\u2019s surgeon general grants parents permission to send unvaccinated children to school during a measles outbreak, risking their health and that of others.",
+      "url": "https://kffhealthnews.org/news/article/florida-defies-cdc-measles-outbreak/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/02/GettyImages-713781945-resized.jpg",
+      "publishedAt": "2024-02-23 10:00:00",
+      "content": "Amy MaxmenWith a brief memo, Florida Surgeon General Joseph Ladapo has subverted a public health standard that\u2019s long kept measles outbreaks under control. On Feb. 20, as measles spread through Mana\u2026 [+7692 chars]",
+      "retrievedAt": "2024-02-26 07:05:56.512209",
+      "internal_id": "eff36160f61ac498730e58a93ace3fbbaac474164c43b02e4f5ebb546a7b5095",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
       "id": 5925,
       "query": [
         "sarampi\u00f3n"
@@ -1162,6 +1542,24 @@
       "publishedAtLabel": "Feb 23"
     },
     {
+      "id": 5988,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Rio come\u00e7a a vacinar crian\u00e7as de 10 anos contra a dengue nesta sexta (23)",
+      "description": "Com 231.928 doses, o primeiro lote do imunizante foi enviado ao estado pelo Minist\u00e9rio da Sa\u00fade",
+      "url": "https://noticias.r7.com/rio-de-janeiro/rio-comeca-a-vacinar-criancas-de-10-anos-contra-a-dengue-nesta-sexta-23-23022024",
+      "urlToImage": "https://img.r7.com/images/vacinas-dengue-df-ministerio-da-saude-imunizacao-08022024152334580",
+      "publishedAt": "2024-02-23 02:00:02",
+      "content": "Rio recebeu cerca de 230 mil doses da vacina Giovanna Inoue/R7 Bras\u00edlia O munic\u00edpio do Rio de Janeiro come\u00e7a a vacina\u00e7\u00e3o contra a dengue, nesta sexta-feira (23), a partir das 14h, em todas\u2026 [+1482 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.187433",
+      "internal_id": "2a5d54c5b1e96d6d7dc342a976cd9bc8ec0598fcd62afa8add89a96a1bcd3f63",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
       "id": 5902,
       "query": [
         "measles"
@@ -1178,6 +1576,42 @@
       "retrievedAt": "2024-02-24 07:06:09.148453",
       "internal_id": "3570c0b2056dfa4c3da43be6ef732a6347082427aa141452cd32b88096bc7d38",
       "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5991,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Gente, iG Gente",
+      "title": "Chay Suede desabafa ap\u00f3s diagn\u00f3stico de dengue: 'Sufoco'",
+      "description": "Ator publicou primeira foto ap\u00f3s recupera\u00e7\u00e3o da doen\u00e7a; veja",
+      "url": "https://gente.ig.com.br/celebridades/2024-02-22/chay-suede-diagnosticado-com-dengue--sufoco.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6t/yw/hx/6tywhx6lhxck6r5m51nh81x48.jpg",
+      "publishedAt": "2024-02-23 01:00:43",
+      "content": "O ator global Chay Suede publicou uma foto nas redes sociais, nesta quinta-feira (22), expondo que contraiu dengue. Em uma foto divulgada no story do Instagram, o gal\u00e3 confirmou que j\u00e1 est\u00e1 recuperad\u2026 [+525 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.204367",
+      "internal_id": "b2ad5ec43921db37e26fa5bc588d1d58ee3cb54caf260214c689b4cb6e49c89e",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 5984,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Vacina da dengue: tire as principais d\u00favidas sobre o imunizante",
+      "description": "Produto da farmac\u00eautica japonesa Takeda come\u00e7ou a ser oferecido na rede particular em julho de 2023 e, recentemente, foi incorporado ao SUS para ser aplicada em grupos priorit\u00e1rios",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/vacina-da-dengue-tire-as-principais-duvidas-sobre-o-imunizante,53955b60d02aa794ed3d730913be882co26actoz.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-22 23:10:13",
+      "content": "A Qdenga, vacina contra a dengue fabricada pela farmac\u00eautica japonesa Takeda, foi aprovada pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) em mar\u00e7o de 2023. Trata-se do primeiro imunizante de \u2026 [+10239 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.173505",
+      "internal_id": "038c82d2d8567215fffc06cd312533b74d42c61b01156fcad2340f9bb4c55a91",
+      "publishedAtLabel": "Feb 22"
     },
     {
       "id": 5910,
@@ -1218,7 +1652,8 @@
     {
       "id": 5915,
       "query": [
-        "chikungunya"
+        "chikungunya",
+        "dengue"
       ],
       "source_id": "globo",
       "source_name": "Globo",
@@ -1267,6 +1702,24 @@
       "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
       "retrievedAt": "2024-02-24 07:06:10.204399",
       "internal_id": "0cba4fa39212d72af8708bf5609106a01127c34aae35d24f9f68f4d79883317a",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 5985,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Mar\u00eda N\u00f6llmann",
+      "title": "La manzana porte\u00f1a del dengue: hay una veintena de casos en solo cuatro cuadras de Villa Santa Rita",
+      "description": "En las \u00faltimas semanas, en el radio de las calles Argerich, Camarones, C\u00e9sar D\u00edaz y Helguera, fueron diagnosticados m\u00e1s de 20 vecinos, de los cuales al menos cinco requirieron hospitalizaci\u00f3n",
+      "url": "https://www.lanacion.com.ar/sociedad/la-manzana-portena-del-dengue-hay-una-veintena-de-casos-en-solo-cuatro-cuadras-de-villa-santa-rita-nid22022024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/henry-paredes-fue-dado-de-alta-ayer-despues-de-FL4XOGI4MNBH7OUJDTXBTEAC3U.JPG?auth=e2bd2635317aecb39e2c461c27ae3e11746206616eb10f742da7d69ba1a0c1d2&width=1920&height=1236&quality=70&smart=true",
+      "publishedAt": "2024-02-22 20:42:12",
+      "content": "22 de febrero de 202417:42 Melina camina desde su habitaci\u00f3n hasta la puerta de su casa con una cadencia l\u00e1nguida y los ojos rojos. Su madre le besa la frente. Est\u00e1 con fiebre de nuevo, confirma, y \u2026 [+5769 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.177238",
+      "internal_id": "7ef8424cb979ad047f8b04af032ffcaf76ec79cb0e579dcf96243c629025b00d",
       "publishedAtLabel": "Feb 22"
     },
     {
@@ -1666,6 +2119,24 @@
       "publishedAtLabel": "Feb 22"
     },
     {
+      "id": 5986,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Dengue e Covid juntas podem levar a quadro cr\u00edtico, diz subsecret\u00e1rio do Rio de Janeiro",
+      "description": "Vamos ter um grande desafio se a Covid mantiver essa tend\u00eancia de aumento junto com a dengue, afirma M\u00e1rio S\u00e9rgio Ribeiro, subsecret\u00e1rio de Vi...",
+      "url": "https://noticias.r7.com/record-news/videos/dengue-e-covid-juntas-podem-levar-a-quadro-critico-diz-subsecretario-do-rio-de-janeiro-22022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/22/65d746c919d22495bc0009b8/2544005_EPP_RRN_2202_DENGUE_COVID_thumb.jpg",
+      "publishedAt": "2024-02-22 11:33:06",
+      "content": "\"Vamos ter um grande desafio se a Covid mantiver essa tend\u00eancia de aumento junto com a dengue\", afirma M\u00e1rio S\u00e9rgio Ribeiro, subsecret\u00e1rio de Vigil\u00e2ncia e Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade do Rio de Janeiro. \u2026 [+185 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.180750",
+      "internal_id": "d78219a044295b3cfe21ec5df72e1e4bcbc0d8d0636b7537d748decdd7ef79e2",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
       "id": 5897,
       "query": [
         "zika"
@@ -1735,6 +2206,24 @@
       "content": "MADRID, 22 Feb. (EUROPA PRESS) - La vicepresidenta tercera y ministra para la Transici\u00f3n Ecol\u00f3gica y el Reto Demogr\u00e1fico, Teresa Ribera; la ministra de Ciencia, Innovaci\u00f3n y Universidades, Diana M\u2026 [+2000 chars]",
       "retrievedAt": "2024-02-23 19:06:00.685776",
       "internal_id": "a8cf4771a5df948757ccf711899f5379b4d426ce0a939f6a67287ab46262fcb4",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 5992,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: tr\u00eas sorotipos e 'mudan\u00e7a' em avalia\u00e7\u00e3o m\u00e9dica explicam alta nas interna\u00e7\u00f5es em Campinas",
+      "description": "Coordenadora do Devisa destaca que circula\u00e7\u00e3o de mais sorotipos na cidade com hist\u00f3rico de epidemias amplia chance de reincid\u00eancia e casos mais graves, al\u00e9m de recomenda\u00e7\u00e3o do Minist\u00e9rio da Sa\u00fade que preconiza maior cuidados para alguns pacientes, ampliando h\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/22/dengue-tres-sorotipos-e-mudanca-em-avaliacao-medica-explicam-alta-nas-internacoes-em-campinas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/qDhy6M91lwTWPyjS1eR2qpBqE7M=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2016/02/02/2016-02-02t173606z_599125201_gf10000293382_rtrmadp_3_health-zika-brazil.jpg",
+      "publishedAt": "2024-02-22 10:01:05",
+      "content": "Mas s\u00f3 isso explica a alta na hospitaliza\u00e7\u00e3o? Dados do Departamento de Vigil\u00e2ncia em Sa\u00fade (Devisa), da Secretaria de de Sa\u00fade, mostram que o percentual de interna\u00e7\u00f5es chegou a 2,2% do total de caso\u2026 [+5391 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.207906",
+      "internal_id": "edece39551063b207f0be62e99b13de98a45cbebc134fa0d4a464385068c9a2e",
       "publishedAtLabel": "Feb 22"
     },
     {
@@ -1864,6 +2353,24 @@
       "publishedAtLabel": "Feb 22"
     },
     {
+      "id": 5998,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Google Trends: crescem buscas sobre rem\u00e9dio contraindicado em caso de dengue",
+      "description": "Distrito Federal, Minas Gerais, Rio de Janeiro, Goi\u00e1s e S\u00e3o Paulo apareciam no Top 5 de pesquisas sobre o assunto",
+      "url": "https://noticias.r7.com/saude/google-trends-crescem-buscas-sobre-remedio-contraindicado-em-caso-de-dengue-22022024",
+      "urlToImage": "https://img.r7.com/images/record-brasilia-dengue-mosquito-casos-de-dengue-surto-de-dengue-21022024121941586",
+      "publishedAt": "2024-02-22 06:00:01",
+      "content": "Record Bras\u00edlia - Dengue, mosquito, casos de dengue, surto de dengue Reprodu\u00e7\u00e3o/Record TV Bras\u00edlia As buscas sobre quais rem\u00e9dios n\u00e3o se deve tomar em caso de suspeita de dengue est\u00e3o em alta\u2026 [+908 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.241718",
+      "internal_id": "b3001a141a32902446bccf3dbd2dfade51443a0ebb586d0e1403ca5ed1283004",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
       "id": 5850,
       "query": [
         "dengue"
@@ -1933,6 +2440,24 @@
       "content": "Ontario's top doctor is warning public health officials in the province to prepare for possible measles outbreaks given the \"dramatic rise\" in cases in other parts of the world, including Europe. In\u2026 [+926 chars]",
       "retrievedAt": "2024-02-23 07:06:09.688481",
       "internal_id": "a39336e01e7d058ead9fd623bd5206ad8acb01c93a0346bbdc90be0746f260de",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 5983,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "RJ vai receber primeiro lote de vacinas contra a dengue nesta quinta-feira (22)",
+      "description": "Minist\u00e9rio da Sa\u00fade entregar\u00e1 231.928 doses do imunizante; adolescentes entre 10 e 14 anos fazem parte do p\u00fablico-alvo",
+      "url": "https://noticias.r7.com/rio-de-janeiro/rio-vai-receber-primeiro-lote-de-vacinas-contra-a-dengue-nesta-quinta-feira-22-22022024",
+      "urlToImage": "https://img.r7.com/images/vacinas-dengue-df-ministerio-da-saude-imunizacao-08022024152731822?crop=1158x651+20+543",
+      "publishedAt": "2024-02-22 02:00:03",
+      "content": "Minist\u00e9rio da Sa\u00fade entregar\u00e1 mais de 231 mil doses Giovanna Inoue/R7 Bras\u00edlia O estado Rio de Janeiro receber\u00e1 os primeiros lotes da vacina contra a dengue nesta quinta-feira (22). No t\u2026 [+1655 chars]",
+      "retrievedAt": "2024-02-26 07:05:57.170043",
+      "internal_id": "2cb3b4a39a5b02d81768c511873cc8eb3875305e9b8761bd938ebd90f72f51fc",
       "publishedAtLabel": "Feb 22"
     },
     {
@@ -31096,6 +31621,42 @@
       "content": "Duas Unidades B\u00e1sicas de Sa\u00fade (UBSs) do Distrito Federal v\u00e3o ter atendimento aos s\u00e1bados e domingos, para ampliar o atendimento de pacientes durante a epidemia de dengue da capital. As UBSs 2 de Cei\u2026 [+1772 chars]",
       "retrievedAt": "2024-01-16 07:05:50.500575",
       "internal_id": "8ae01a0831c39b103597ba8b5ca1e3e18f70d99a27bfad151ef15d2aac1da013",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 4247,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WTOP",
+      "author": "Dan Friedell",
+      "title": "Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News",
+      "description": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received a vaccine.",
+      "url": "https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/",
+      "urlToImage": "https://wtop.com/wp-content/uploads/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHI4ZTltb2UwMDE5M2I2aDlpNzZsZDc0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscjhkdDZ0ejAwMngyNnAxZzJ4aTVuMHg-300.jpg",
+      "publishedAt": "2024-01-14 09:50:17",
+      "content": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received \u2026 [+1445 chars]",
+      "retrievedAt": "2024-01-15 19:05:41.519753",
+      "internal_id": "e313437922b4c02fe598f825deadbd0f17267ea4011518a4985782c038bc044c",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 4246,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "All dog-bite victims in Sarawak stable, says Health Ministry",
+      "description": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 14). Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/14/2490389.jpg",
+      "publishedAt": "2024-01-14 08:02:00",
+      "content": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 1\u2026 [+1887 chars]",
+      "retrievedAt": "2024-01-15 19:05:41.219448",
+      "internal_id": "d25374de87f036ae424c49e35d95b3b162fef4eabef0bcd96613686060058c8e",
       "publishedAtLabel": "Jan 14"
     }
   ]
