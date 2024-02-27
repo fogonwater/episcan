@@ -1,8 +1,404 @@
 {
-  "last_updated": "2024-02-27 07:06",
-  "count_articles_total": 1784,
+  "last_updated": "2024-02-27 19:05",
+  "count_articles_total": 1804,
   "count_articles_new": 22,
   "articles": [
+    {
+      "id": 6050,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Vinicius Mendes",
+      "title": "Covid-19 ainda \u00e9 causa de apreens\u00e3o no Brasil",
+      "description": "Atr\u00e1s apenas das 6.800 nos EUA, Brasil \u00e9 segundo pa\u00eds com ais mortes por covid-19 em 2024, quatro anos ap\u00f3s a eclos\u00e3o da doen\u00e7a no pa\u00eds. Fatores s\u00e3o diversos, indo do novo comportamento do v\u00edrus \u00e0s fake news.",
+      "url": "https://www.dw.com/pt-br/covid-19-ainda-%C3%A9-causa-de-apreens%C3%A3o-no-brasil/a-68380068",
+      "urlToImage": "https://static.dw.com/image/64196700_6.jpg",
+      "publishedAt": "2024-02-26 18:56:00",
+      "content": "Quando Cilene Brito come\u00e7ou a sentir febre, em paralelo a uma tosse seca e constante, no come\u00e7o de janeiro, ela sup\u00f4s que havia contra\u00eddo dengue. Em Itanha\u00e9m, cidade a pouco mais de 100 quil\u00f4metros d\u2026 [+10734 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.859073",
+      "internal_id": "fc3d5c93f4a17f7326e1cc558790cbf9add3d35136e92c39f57a7208c4733226",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6036,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Natalie Venegas",
+      "title": "Measles Map Shows Where Outbreak Is Spreading in Florida",
+      "description": "The Florida outbreak of measles comes after the CDC reported that there have been at least 35 measles cases in 15 states in 2024.",
+      "url": "https://www.newsweek.com/map-shows-spread-measles-florida-1873496",
+      "urlToImage": "https://d.newsweek.com/en/full/2353922/measles-vaccine.jpg",
+      "publishedAt": "2024-02-26 18:33:02",
+      "content": "A map shows the spread of measles as cases continue to grow in Florida as health officials in Broward County confirmed on Monday an eighth case of the virus, including one in a child under age 5. Th\u2026 [+3780 chars]",
+      "retrievedAt": "2024-02-27 19:05:25.722073",
+      "internal_id": "16c9c8e5f2af61b8026fb17ade70c8a47f6e749bd069190bf565c6d4c3db6d64",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6035,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Mark Kortepeter, Contributor, \n Mark Kortepeter, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/markkortepeter/",
+      "title": "Measles Cases Are Surging. Here Are The Challenges And What You Can Do",
+      "description": "Measles is having a field day across the world, including the United States.",
+      "url": "https://www.forbes.com/sites/markkortepeter/2024/02/26/measles-cases-are-surging-here-are-the-challenges-and-what-you-can-do/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65dc11768fdd15ec1671de67/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-02-26 17:44:42",
+      "content": "KABUL, AFGHANISTAN - APRIL 18: A view from a hospital as children receiving medical treatment, in ... [+] capital Kabul, Afghanistan on April 18, 2022. More than 5 children are treated in each room, \u2026 [+6724 chars]",
+      "retrievedAt": "2024-02-27 19:05:25.688284",
+      "internal_id": "2cb573c8474bf0b752d6aedc7871fb604246f90ee52c743ff9757ca29517e207",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6045,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Naiara Taborda",
+      "title": "6 distritos de S\u00e3o Paulo est\u00e3o em situa\u00e7\u00e3o epid\u00eamica por dengue",
+      "description": "Zona leste, zona norte e zona oeste t\u00eam distritos com alta de casos",
+      "url": "https://claudia.abril.com.br/saude/6-distritos-de-sao-paulo-estao-em-situacao-epidemica-por-dengue",
+      "urlToImage": "https://claudia.abril.com.br/wp-content/uploads/2020/06/GettyImages-1139716771.jpg?quality=85&strip=info",
+      "publishedAt": "2024-02-26 17:21:03",
+      "content": "Assine CLAUDIA por R$2,00/semanaContinua ap\u00f3s publicidade Zona leste, zona norte e zona oeste t\u00eam distritos com alta de casos Por Naiara Taborda 26 fev 2024, 14h21 Dengue avan\u00e7a na cidade de S\u2026 [+2252 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.777783",
+      "internal_id": "d2a5fb78768a47ca3d985ad961416f4994c7eef55638251552af11b6d4b727db",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6043,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Brasil evaluar\u00e1 la eficacia de la vacuna japonesa contra el dengue en 20.000 adultos",
+      "description": "Las autoridades sanitarias quieren usar esa experiencia a peque\u00f1a escala para valuar una futura inmunizaci\u00f3n a gran escala.",
+      "url": "https://www.montevideo.com.uy/Salud/Brasil-evaluara-la-eficacia-de-la-vacuna-japonesa-contra-el-dengue-en-20-000-adultos-uc880825",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202106/_W933_80/764552.jpeg",
+      "publishedAt": "2024-02-26 17:09:00",
+      "content": "Brasil, que enfrenta un hist\u00f3rico y preocupante brote de dengue, inici\u00f3 un estudio para evaluar la eficacia de la vacuna japonesa contra la enfermedad en una muestra de 20.000 adultos, con el fin \u2026 [+3153 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.721187",
+      "internal_id": "0fda902c9c2b04a5d6f8bb1fc2c71673f3f6ff4873e2d8ec9a02c5a11015904f",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6044,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Sele\u00e7\u00f5es, Sele\u00e7\u00f5es",
+      "title": "5 plantas que afastam o mosquito da dengue",
+      "description": "Confira cinco plantas repelentes que s\u00e3o aliadas na preven\u00e7\u00e3o contra a dengue.",
+      "url": "https://delas.ig.com.br/parceiros/selecoes/2024-02-26/5-plantas-que-afastam-o-mosquito-da-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/7h/u6/h9/7hu6h9xq6353w2zhg1heu73ry.jpg",
+      "publishedAt": "2024-02-26 17:05:04",
+      "content": "A dengue, transmitida pelo mosquito Aedes aegypti , \u00e9 uma doen\u00e7a que exige aten\u00e7\u00e3o constante. Al\u00e9m das medidas de limpeza e elimina\u00e7\u00e3o de criadouros, as plantas repelentes podem ser aliadas na preve\u2026 [+2483 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.772489",
+      "internal_id": "ad7f0be4f30eae4e1ab854c0ef5333a6c9739ff0d520ecc4d5dd235bfa8fefc0",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6053,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Isolating and genotyping Leptospira bacteria for the first time in Austria",
+      "description": "Leptospirosis is a globally distributed infectious disease that affects both animals and humans. While the infection is endemic in tropical regions, its incidence seems to increase in temperate regions. The serological diagnostic test used in routine to detec\u2026",
+      "url": "https://phys.org/news/2024-02-isolating-genotyping-leptospira-bacteria-austria.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/austria-isolates-and-g.jpg",
+      "publishedAt": "2024-02-26 16:58:08",
+      "content": "Leptospirosis is a globally distributed infectious disease that affects both animals and humans. While the infection is endemic in tropical regions, its incidence seems to increase in temperate regio\u2026 [+5866 chars]",
+      "retrievedAt": "2024-02-27 19:05:29.144979",
+      "internal_id": "4009635fafe6a26dc07a596ffc391c6db2e68d2b01d53d617d97f55c8e4d59a7",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6041,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "GO: An\u00e1polis estabelece fluxo de atendimento para pacientes com dengue",
+      "description": "Medida tem como objetivo reduzir o tempo de espera e aliviar a carga na Unidade de Pronto Atendimento (UPA) Alair Mafra de Andrade",
+      "url": "https://www.metropoles.com/brasil/go-anapolis-estabelece-fluxo-de-atendimento-para-pacientes-com-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09122354/acao-coletiva-anapolis-dengue.jpeg",
+      "publishedAt": "2024-02-26 16:20:27",
+      "content": "Goi\u00e2nia O munic\u00edpio de An\u00e1polis, a cerca de 55 km da capital goiana, estabeleceu um novo fluxo para otimizar o atendimento aos pacientes da rede municipal de sa\u00fade, respondendo ao aumento dos casos d\u2026 [+2564 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.684109",
+      "internal_id": "459d4cd6ec0f4e48086243d5599c9777b7bad024ea4d9976e2958bbade033039",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6042,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elmercurio.com.ec",
+      "author": "Carmen Merchan",
+      "title": "Per\u00fa declarar\u00e1 20 regiones en emergencia por casos de dengue, anuncia el ministro de Salud",
+      "description": "El ministro de Salud de Per\u00fa, C\u00e9sar V\u00e1squez, anunci\u00f3 este lunes 26 de febrero de 2024 que 20 regiones del pa\u00eds ser\u00e1n declaradas en emergencia sanitaria por el incremento de casos de dengue, que han llegado a 24.981 casos y 28 fallecidos en lo que va de este a\u2026",
+      "url": "https://elmercurio.com.ec/2024/02/26/emergencia-sanitaria-peru-dengu/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-26 16:03:55",
+      "content": "El ministro de Salud de Per\u00fa, C\u00e9sar V\u00e1squez, anunci\u00f3 este lunes 26 de febrero de 2024 que 20 regiones del pa\u00eds ser\u00e1n declaradas en emergencia sanitaria por el incremento de casos de dengue, que han l\u2026 [+2074 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.704121",
+      "internal_id": "620518c6202b6145a45dacd0c7efc7c6c565bb6d3e334bc719d23d8d76e7fc60",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6032,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Pertussis: guidelines for public health management",
+      "description": "Guidance for healthcare professionals on the public health management of pertussis (whooping cough).",
+      "url": "https://www.gov.uk/government/publications/pertussis-guidelines-for-public-health-management",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-02-26 16:03:34",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2024-02-27 19:05:24.803744",
+      "internal_id": "11e3456a69c7feaf7c400888c0beec120ca7e887bcc13c66eaf02ae626f81790",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6039,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ana Moreira",
+      "title": "Fact Check. Ivermectina eficaz na redu\u00e7\u00e3o da carga viral da dengue?",
+      "description": "Uma publica\u00e7\u00e3o no Facebook garante que a Invermectina ajuda a reduzir a carga viral da Dengue, reduzindo os sintomas em menos de 72 horas. \u00c9 falso.",
+      "url": "https://observador.pt/factchecks/fact-check-ivermectina-eficaz-na-reducao-da-carga-viral-da-dengue/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A770%3A433%3Anowe%3A0%3A0%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F01%2F09142359%2Ffact_check-errado.png",
+      "publishedAt": "2024-02-26 15:03:53",
+      "content": "Uma publica\u00e7\u00e3o no Facebook afirma que a Ivermectina \u00e9 eficaz na redu\u00e7\u00e3o da carga viral da dengue. A partilha diz tamb\u00e9m que o tratamento diminui os sintomas em 72 horas. Contudo, \u00e9 falso. O texto ori\u2026 [+4883 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.663443",
+      "internal_id": "ce756165c68e283668d36cc68e06096cc1ecc293aba6754f798068401c88bdd1",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6047,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Di\u00e1rio do Rio",
+      "title": "Campanha de vacina\u00e7\u00e3o contra a dengue em Mag\u00e9 inicia nesta segunda-feira",
+      "description": "Para facilitar o acesso de toda popula\u00e7\u00e3o, a campanha funcionar\u00e1 diariamente, das 07h \u00e0s 19h, incluindo finais de semana, na Rua Get\u00falio Pereira, s/n\u00ba, bem atr\u00e1s do Hospital de Mag\u00e9 Campanha de vacina\u00e7\u00e3o contra a dengue em Mag\u00e9 inicia nesta segunda-feira",
+      "url": "https://www.terra.com.br/noticias/brasil/campanha-de-vacinacao-contra-a-dengue-em-mage-inicia-nesta-segunda-feira,ebf8e7a6dca6dab8319de5eb23eb4f71f6kosryd.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-26 14:25:18",
+      "content": "A partir desta segunda-feira, dia 26/02, crian\u00e7as de 10 e 11 anos ter\u00e3o um importante compromisso com a sa\u00fade: o in\u00edcio da vacina\u00e7\u00e3o contra a dengue na Central de Imuniza\u00e7\u00e3o. Para facilitar o acesso \u2026 [+1182 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.817676",
+      "internal_id": "86d3bcc3c41ba5f9fd1b590e88501b432f9caa256e5e70c55b6d73f8da4fbfd9",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6046,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Sele\u00e7\u00f5es, Sele\u00e7\u00f5es",
+      "title": "Dengue: repelente de tomada pode fazer mal \u00e0 sa\u00fade; saiba como evitar riscos",
+      "description": "Sabia que existe um jeito seguro de usar repelente de tomada? Confira as dicas para proteger sua fam\u00edlia sem comprometer a sa\u00fade.",
+      "url": "https://delas.ig.com.br/parceiros/selecoes/2024-02-26/dengue--repelente-de-tomada-pode-fazer-mal-a-saude--saiba-como-evitar-riscos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6m/57/yo/6m57yodl6k4vig85zq6bvf63w.jpg",
+      "publishedAt": "2024-02-26 14:10:05",
+      "content": "Com o aumento dos casos de dengue em todo o pa\u00eds, o uso de repelentes el\u00e9tricos se tornou uma pr\u00e1tica comum em muitos lares brasileiros. No entanto, \u00e9 importante estar ciente de que o uso incorreto \u2026 [+2142 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.813156",
+      "internal_id": "7799c35330154ca897b3e03066cfc958c7574a911569a28b03708ed869a3cfd0",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6033,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Magdalena Murr, Conrad Freuling, David P\u00e9rez-Bravo, Christian Grund, Thomas C. Mettenleiter, Angela R\u00f6mer-Oberd\u00f6rfer, Thomas M\u00fcller, Stefan Finke",
+      "title": "Immune response after oral immunization of goats and foxes with an NDV vectored rabies vaccine candidate",
+      "description": "Author summary Oral vaccination of rabies reservoir and spill-over species is the key to control the disease and prevent human rabies. In the past, baits containing live-attenuated rabies vaccines decreased significantly carnivore-mediated rabies in Central a\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011639",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011639.g008&size=inline",
+      "publishedAt": "2024-02-26 14:00:00",
+      "content": "Citation: Murr M, Freuling C, P\u00e9rez-Bravo D, Grund C, Mettenleiter TC, R\u00f6mer-Oberd\u00f6rfer A, et al. (2024) Immune response after oral immunization of goats and foxes with an NDV vectored rabies vaccine\u2026 [+53303 chars]",
+      "retrievedAt": "2024-02-27 19:05:25.146559",
+      "internal_id": "a891a91e7159111908787cec5340dfaeea713ab423a808e6c339fed825785448",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6034,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Baokun Sui, Jiaxin Zheng, Zhenfang Fu, Ling Zhao, Ming Zhou",
+      "title": "TRIM72 restricts lyssavirus infection by inducing K48-linked ubiquitination and proteasome degradation of the matrix protein",
+      "description": "Author summary Rabies, caused by lyssaviruses, most often by rabies virus, the most lethal zoonotic disease, is responsible for approximately 59000 human deaths globally each year. Lyssavirus M protein displays an essential role in lyssavirus assembly and bud\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011718",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011718.g008&size=inline",
+      "publishedAt": "2024-02-26 14:00:00",
+      "content": "Citation: Sui B, Zheng J, Fu Z, Zhao L, Zhou M (2024) TRIM72 restricts lyssavirus infection by inducing K48-linked ubiquitination and proteasome degradation of the matrix protein. PLoS Pathog 20(2): \u2026 [+76071 chars]",
+      "retrievedAt": "2024-02-27 19:05:25.152958",
+      "internal_id": "ae8295c62106bf2c2e98cbd58ffd8bc4718ab598e1ad1a86595f84c6192231c6",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6052,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jong-Hoon Kim, Jungsoon Choi, Chaelin Kim, Gi Deok Pak, Prerana Parajulee, Andrea Haselbeck, Se-Eun Park, Vittal Mogasale, Hyon Jin Jeon, Annie J. Browne, Ellis Owusu-Dabo, Rapha\u00ebl Rakotozandrindrainy, Abdramane Soura Bassiahi, Mekonnen Teferi, Octavie Lunguya-Metila, Christiane Dolecek, Virginia E. Pitzer, John A. Crump, Simon I. Hay, Florian Marks",
+      "title": "Mapping the incidence rate of typhoid fever in sub-Saharan Africa",
+      "description": "Author summary Typhoid fever remains a significant health challenge in low- and middle-income nations, especially in sub-Saharan Africa. A comprehensive understanding of the disease\u2019s geospatial distribution is pivotal for its control\u2014a gap previous studies o\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011902",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011902.g005&size=inline",
+      "publishedAt": "2024-02-26 14:00:00",
+      "content": "Abstract Background With more than 1.2 million illnesses and 29,000 deaths in sub-Saharan Africa in 2017, typhoid fever continues to be a major public health problem. Effective control of the disea\u2026 [+50803 chars]",
+      "retrievedAt": "2024-02-27 19:05:28.861457",
+      "internal_id": "8bcec4e2566649f6ea4f76efd65123e2c05174230c6c060c4c58306fdc9606b7",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6037,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Monday, February 26, 2024",
+      "description": "IVF and fertility treatments, measles, flu, industry cyberattacks, social media addiction, food allergies, and more are in the news.",
+      "url": "https://kffhealthnews.org/morning-briefing/monday-february-26-2024/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2024-02-26 13:26:16",
+      "content": "Change Healthcare Mum On Whether It Has Recovered From Cyberattack UnitedHealth subsidiary Change Healthcare's systems were down for a fourth straight day Saturday. The exploit was possible thanks t\u2026 [+6950 chars]",
+      "retrievedAt": "2024-02-27 19:05:25.778460",
+      "internal_id": "e541e494d2dfbac496442b61988febd0ab57bc4bb5e3a9ee76d4c0bff12887dd",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6048,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Vacina\u00e7\u00e3o contra dengue come\u00e7a nesta ter\u00e7a-feira (27) em Belo Horizonte",
+      "description": "Prefeitura convocou crian\u00e7as 10 e 11 anos para a vacina\u00e7\u00e3o; grupo ser\u00e1 o primeiro a ser imunizado na capital mineira",
+      "url": "https://noticias.r7.com/minas-gerais/vacinacao-contra-dengue-comeca-nesta-terca-feira-27-em-belo-horizonte-26022024",
+      "urlToImage": "https://img.r7.com/images/vacina-dengue-26022024122453640",
+      "publishedAt": "2024-02-26 12:27:46",
+      "content": "Segundo a administra\u00e7\u00e3o municipal, a cidade recebeu cerca de 49,5 mil doses do imunizante Divulga\u00e7\u00e3o/Prefeitura de Belo Horizonte A Prefeitura de Belo Horizonte come\u00e7ar\u00e1 a vacina\u00e7\u00e3o contra \u2026 [+2487 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.822198",
+      "internal_id": "6a34e9caa1818d35b77f98c9f2c8d4c2513b21c5c8ccc1c8ff6072b929602785",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6038,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Marina Ferreira",
+      "title": "Fact Check. Solu\u00e7\u00e3o caseira de vinagre de \u00e1lcool vai resolver surto de dengue no Brasil?",
+      "description": "A mezinha \u00e9 divulgada por um homem que apela \u00e0 compra de embalagens de vinagre de \u00e1lcool. Epidemiologista nega que pr\u00e1tica tenha efic\u00e1cia na preven\u00e7\u00e3o da doen\u00e7a que causou um surto no Brasil.",
+      "url": "https://observador.pt/factchecks/fact-check-solucao-caseira-de-vinagre-de-alcool-vai-resolver-surto-de-dengue-no-brasil/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A770%3A433%3Anowe%3A0%3A0%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F01%2F09142359%2Ffact_check-errado.png",
+      "publishedAt": "2024-02-26 12:19:56",
+      "content": "Uma dica \u201csimples, f\u00e1cil e barata para todos que queiram evitar ter dengue\u201d est\u00e1 a ser partilhada no Facebook desde o final de janeiro. Num post, afirma-se mesmo que o vinagre de \u00e1lcool \u201cvai resolver\u2026 [+3522 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.657856",
+      "internal_id": "6149121dd64b5c011654c5d84b21e13b99509b44a9b1f374e7b6732e6fa3327b",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6040,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Luke Taylor",
+      "title": "Dengue fever: Brazil rushes out vaccine as climate change fuels unprecedented surge",
+      "description": "Health authorities in Brazil are rushing out limited supplies of a recently approved vaccine as they struggle to contain an unprecedented surge in dengue fever. Several of Brazil\u2019s most populous states have declared health emergencies in the past month just \u2026",
+      "url": "https://www.bmj.com/content/384/bmj.q483",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/384/8418.cover-source.jpg",
+      "publishedAt": "2024-02-26 10:46:16",
+      "content": "Health authorities in Brazil are rushing out limited supplies of a recently approved vaccine as they struggle to contain an unprecedented surge in dengue fever. Several of Brazils most populous stat\u2026 [+890 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.668929",
+      "internal_id": "7af36062454fae471570572012c5dc4063b66b5e15524fb51a74e502d800b864",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6051,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Com aumento de casos de dengue, pre\u00e7o de inseticida pode variar mais de 120% em BH",
+      "description": "Pesquisa foi feita nos dias 22 e 23 de fevereiro em supermercados e drogarias da capital mineira, al\u00e9m de lojas online",
+      "url": "https://noticias.r7.com/minas-gerais/com-aumento-de-casos-de-dengue-preco-de-inseticida-pode-variar-mais-de-120-em-bh-26022024",
+      "urlToImage": "https://img.r7.com/images/print-record-news-12-02-repelentes-12022024125624325",
+      "publishedAt": "2024-02-26 09:21:00",
+      "content": "Pesquisa foi feita nos dias 22 e 23 de fevereiro Reprodu\u00e7\u00e3o/Record News - 12.02.2024 Diante do aumento do n\u00famero de casos de Dengue, uma pesquisa do site Mercado Mineiro aponta que o valor de\u2026 [+2878 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.867425",
+      "internal_id": "1277f45a97ac271851cd2be0bb089643832d6f1749b43deae2b3445fa43e8dfd",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 6049,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Governo vai enviar vacinas contra dengue para mais 29 munic\u00edpios",
+      "description": "At\u00e9 o momento, 492 cidades j\u00e1 receberam os imunizantes; Brasil registra mais de 762 mil casos prov\u00e1veis da doen\u00e7a",
+      "url": "https://noticias.r7.com/saude/governo-vai-enviar-vacinas-contra-dengue-para-mais-29-municipios-26022024",
+      "urlToImage": "https://img.r7.com/images/vacina-dengue-casos-dengue-26022024070843367?dimensions=160x90",
+      "publishedAt": "2024-02-26 07:15:00",
+      "content": "Pa\u00eds j\u00e1 registrou mais de 762 mil casos prov\u00e1veis Renato Alves/ Ag\u00eancia Bras\u00edlia - 08/02/2024 O Minist\u00e9rio da Sa\u00fade informou que vai enviar doses de vacinas contra dengue para mais 29 munic\u00ed\u2026 [+1820 chars]",
+      "retrievedAt": "2024-02-27 19:05:26.851198",
+      "internal_id": "33b38977d793e83109107ea085c4fd25bd2b242424f0373b1954f1dd400fee52",
+      "publishedAtLabel": "Feb 26"
+    },
     {
       "id": 6013,
       "query": [
@@ -32145,42 +32541,6 @@
       "content": "Duas Unidades B\u00e1sicas de Sa\u00fade (UBSs) do Distrito Federal v\u00e3o ter atendimento aos s\u00e1bados e domingos, para ampliar o atendimento de pacientes durante a epidemia de dengue da capital. As UBSs 2 de Cei\u2026 [+1772 chars]",
       "retrievedAt": "2024-01-16 07:05:50.500575",
       "internal_id": "8ae01a0831c39b103597ba8b5ca1e3e18f70d99a27bfad151ef15d2aac1da013",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4247,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WTOP",
-      "author": "Dan Friedell",
-      "title": "Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News",
-      "description": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received a vaccine.",
-      "url": "https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHI4ZTltb2UwMDE5M2I2aDlpNzZsZDc0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscjhkdDZ0ejAwMngyNnAxZzJ4aTVuMHg-300.jpg",
-      "publishedAt": "2024-01-14 09:50:17",
-      "content": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received \u2026 [+1445 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.519753",
-      "internal_id": "e313437922b4c02fe598f825deadbd0f17267ea4011518a4985782c038bc044c",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4246,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "All dog-bite victims in Sarawak stable, says Health Ministry",
-      "description": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 14). Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/14/2490389.jpg",
-      "publishedAt": "2024-01-14 08:02:00",
-      "content": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 1\u2026 [+1887 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.219448",
-      "internal_id": "d25374de87f036ae424c49e35d95b3b162fef4eabef0bcd96613686060058c8e",
       "publishedAtLabel": "Jan 14"
     }
   ]

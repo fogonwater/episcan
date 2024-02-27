@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 22
-- **Last harvest:** 2024-02-27 07:06
-- **Most recent article:** 2024-02-26 05:02:22
+- **Last harvest:** 2024-02-27 19:05
+- **Most recent article:** 2024-02-26 18:56:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 9 | 965 |
-| measles | 60 | 56 | 47 | 68 | 45 | 93 | 3 | 372 |
+| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 23 | 979 |
+| measles | 59 | 56 | 47 | 68 | 45 | 93 | 6 | 374 |
 | malaria | 26 | 86 | 25 | 35 | 19 | 33 | 3 | 227 |
 | zika | 8 | 7 | 8 | 13 | 6 | 13 | 2 | 57 |
 | chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 1 | 55 |
-| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 0 | 42 |
+| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 2 | 43 |
 | mpox | 8 | 4 | 3 | 5 | 8 | 6 | 0 | 34 |
 | meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 0 | 33 |
 | sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 0 | 27 |
-| pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 0 | 18 |
-| typhoid | 1 | 2 | 2 | 1 | 2 | 2 | 0 | 10 |
+| pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 1 | 19 |
+| typhoid | 1 | 2 | 2 | 1 | 2 | 2 | 1 | 11 |
 | yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 1 | 8 |
-| leptospirosis | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
+| leptospirosis | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -41,7 +41,27 @@ Source: [News API](https://newsapi.org/)
 
 - [Як бубонна чума змінила імунну систему людини](https://www.bbc.com/ukrainian/articles/cl5llwlx51vo) (BBC News)
 
+## 24-9 (typhoid)
+
+- [Mapping the incidence rate of typhoid fever in sub-Saharan Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011902) (Plos.org)
+
+## 24-9 (rabies)
+
+- [Immune response after oral immunization of goats and foxes with an NDV vectored rabies vaccine candidate](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011639) (Plos.org)
+
+- [TRIM72 restricts lyssavirus infection by inducing K48-linked ubiquitination and proteasome degradation of the matrix protein](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011718) (Plos.org)
+
+## 24-9 (pertussis)
+
+- [Guidance: Pertussis: guidelines for public health management](https://www.gov.uk/government/publications/pertussis-guidelines-for-public-health-management) (Www.gov.uk)
+
 ## 24-9 (measles)
+
+- [Measles Map Shows Where Outbreak Is Spreading in Florida](https://www.newsweek.com/map-shows-spread-measles-florida-1873496) (Newsweek)
+
+- [Measles Cases Are Surging. Here Are The Challenges And What You Can Do](https://www.forbes.com/sites/markkortepeter/2024/02/26/measles-cases-are-surging-here-are-the-challenges-and-what-you-can-do/) (Forbes)
+
+- [Monday, February 26, 2024](https://kffhealthnews.org/morning-briefing/monday-february-26-2024/) (Kffhealthnews.org)
 
 - [How vaccine hesitancy is contributing to rising rates of measles and COVID](https://www.pbs.org/newshour/show/how-vaccine-hesitancy-is-contributing-to-rising-rates-of-measles-and-covid) (PBS)
 
@@ -57,7 +77,39 @@ Source: [News API](https://newsapi.org/)
 
 - [Fiorentina confirm Kouame out of hospital after malaria diagnosis](https://football-italia.net/fiorentina-confirm-kouame-out-of-hospital-after-malaria-diagnosis/) (Football Italia)
 
+## 24-9 (leptospirosis)
+
+- [Isolating and genotyping Leptospira bacteria for the first time in Austria](https://phys.org/news/2024-02-isolating-genotyping-leptospira-bacteria-austria.html) (Phys.Org)
+
 ## 24-9 (dengue)
+
+- [Covid-19 ainda é causa de apreensão no Brasil](https://www.dw.com/pt-br/covid-19-ainda-%C3%A9-causa-de-apreens%C3%A3o-no-brasil/a-68380068) (DW (English))
+
+- [6 distritos de São Paulo estão em situação epidêmica por dengue](https://claudia.abril.com.br/saude/6-distritos-de-sao-paulo-estao-em-situacao-epidemica-por-dengue) (Abril.com.br)
+
+- [Brasil evaluará la eficacia de la vacuna japonesa contra el dengue en 20.000 adultos](https://www.montevideo.com.uy/Salud/Brasil-evaluara-la-eficacia-de-la-vacuna-japonesa-contra-el-dengue-en-20-000-adultos-uc880825) (Montevideo.com.uy)
+
+- [5 plantas que afastam o mosquito da dengue](https://delas.ig.com.br/parceiros/selecoes/2024-02-26/5-plantas-que-afastam-o-mosquito-da-dengue.html) (Ig.com.br)
+
+- [GO: Anápolis estabelece fluxo de atendimento para pacientes com dengue](https://www.metropoles.com/brasil/go-anapolis-estabelece-fluxo-de-atendimento-para-pacientes-com-dengue) (Metropoles.com)
+
+- [Perú declarará 20 regiones en emergencia por casos de dengue, anuncia el ministro de Salud](https://elmercurio.com.ec/2024/02/26/emergencia-sanitaria-peru-dengu/) (Elmercurio.com.ec)
+
+- [Fact Check. Ivermectina eficaz na redução da carga viral da dengue?](https://observador.pt/factchecks/fact-check-ivermectina-eficaz-na-reducao-da-carga-viral-da-dengue/) (Observador.pt)
+
+- [Campanha de vacinação contra a dengue em Magé inicia nesta segunda-feira](https://www.terra.com.br/noticias/brasil/campanha-de-vacinacao-contra-a-dengue-em-mage-inicia-nesta-segunda-feira,ebf8e7a6dca6dab8319de5eb23eb4f71f6kosryd.html) (Terra.com.br)
+
+- [Dengue: repelente de tomada pode fazer mal à saúde; saiba como evitar riscos](https://delas.ig.com.br/parceiros/selecoes/2024-02-26/dengue--repelente-de-tomada-pode-fazer-mal-a-saude--saiba-como-evitar-riscos.html) (Ig.com.br)
+
+- [Vacinação contra dengue começa nesta terça-feira (27) em Belo Horizonte](https://noticias.r7.com/minas-gerais/vacinacao-contra-dengue-comeca-nesta-terca-feira-27-em-belo-horizonte-26022024) (R7.com)
+
+- [Fact Check. Solução caseira de vinagre de álcool vai resolver surto de dengue no Brasil?](https://observador.pt/factchecks/fact-check-solucao-caseira-de-vinagre-de-alcool-vai-resolver-surto-de-dengue-no-brasil/) (Observador.pt)
+
+- [Dengue fever: Brazil rushes out vaccine as climate change fuels unprecedented surge](https://www.bmj.com/content/384/bmj.q483) (The BMJ)
+
+- [Com aumento de casos de dengue, preço de inseticida pode variar mais de 120% em BH](https://noticias.r7.com/minas-gerais/com-aumento-de-casos-de-dengue-preco-de-inseticida-pode-variar-mais-de-120-em-bh-26022024) (R7.com)
+
+- [Governo vai enviar vacinas contra dengue para mais 29 municípios](https://noticias.r7.com/saude/governo-vai-enviar-vacinas-contra-dengue-para-mais-29-municipios-26022024) (R7.com)
 
 - [Dengue: SUS aprovou vacina em 2016, mas empresa desistiu de processo](https://www.metropoles.com/distrito-federal/dengue-sus-aprovou-vacina-em-2016-mas-empresa-desistiu-de-processo) (Metropoles.com)
 
@@ -3537,8 +3589,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health dept. confirms rabid coyote in Mount Pleasant; 1 person exposed](https://www.live5news.com/2024/01/17/health-dept-confirms-rabid-coyote-mount-pleasant-1-person-exposed/) (Live 5 News WCSC)
 
-- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
-
 ## 24-3 (pertussis)
 
 - [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
@@ -3702,8 +3752,6 @@ Source: [News API](https://newsapi.org/)
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
-
-- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 ## 24-3 (malaria)
 
