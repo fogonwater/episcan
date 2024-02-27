@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-02-26 19:05
-- **Most recent article:** 2024-02-25 17:27:55
+- **New articles in last harvest:** 22
+- **Last harvest:** 2024-02-27 07:06
+- **Most recent article:** 2024-02-26 05:02:22
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 65 | 123 | 173 | 216 | 191 | 175 | 3 | 946 |
-| measles | 59 | 56 | 47 | 68 | 45 | 91 | 2 | 368 |
+| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 9 | 965 |
+| measles | 60 | 56 | 47 | 68 | 45 | 93 | 3 | 372 |
 | malaria | 26 | 86 | 25 | 35 | 19 | 33 | 3 | 227 |
-| zika | 8 | 7 | 8 | 13 | 6 | 13 | 1 | 56 |
+| zika | 8 | 7 | 8 | 13 | 6 | 13 | 2 | 57 |
 | chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 1 | 55 |
-| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 0 | 41 |
+| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 0 | 42 |
 | mpox | 8 | 4 | 3 | 5 | 8 | 6 | 0 | 34 |
 | meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 0 | 33 |
 | sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 0 | 27 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (zika)
 
+- [Sivrisineğe dronlu çözüm](https://www.hurriyet.com.tr/dunya/sivrisinege-dronlu-cozum-42410711) (Hurriyet.com.tr)
+
 - [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
 
 ## 24-9 (yersinia)
@@ -40,6 +42,8 @@ Source: [News API](https://newsapi.org/)
 - [Як бубонна чума змінила імунну систему людини](https://www.bbc.com/ukrainian/articles/cl5llwlx51vo) (BBC News)
 
 ## 24-9 (measles)
+
+- [How vaccine hesitancy is contributing to rising rates of measles and COVID](https://www.pbs.org/newshour/show/how-vaccine-hesitancy-is-contributing-to-rising-rates-of-measles-and-covid) (PBS)
 
 - [TWiV 1091: Skeeter poo and obelisks too](https://www.microbe.tv/twiv/twiv-1091/) (Microbe.tv)
 
@@ -55,9 +59,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (dengue)
 
+- [Dengue: SUS aprovou vacina em 2016, mas empresa desistiu de processo](https://www.metropoles.com/distrito-federal/dengue-sus-aprovou-vacina-em-2016-mas-empresa-desistiu-de-processo) (Metropoles.com)
+
+- [Anvisa emite comunicado sobre uso de repelentes contra mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/anvisa-emite-comunicado-sobre-uso-de-repelentes-contra-mosquito-da-dengue/) (Catracalivre.com.br)
+
+- [Dengue: governo vai enviar vacinas para mais 29 municípios](https://saude.ig.com.br/2024-02-25/dengue-vacina-novas-cidades.html) (Ig.com.br)
+
+- [Game gratuito ‘Contra a Dengue’ estimula crianças a combater o Aedes aegypti](https://catracalivre.com.br/cidadania/game-gratuito-contra-a-dengue-estimula-criancas-a-combater-o-aedes-aegypti/) (Catracalivre.com.br)
+
 - [Un chico de 17 años infectado por dengue sufre una erección continúa de casi 20 horas](https://www.marca.com/tiramillas/actualidad/2024/02/25/65db5829ca47411c178b4571.html) (Marca)
 
+- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
+
 - [Week in pictures: Ukraine war anniversary to farmers’ protest in India](https://www.aljazeera.com/gallery/2024/2/25/week-in-pictures-ukraine-war-anniversary-to-farmers-protest-in-india) (Al Jazeera English)
+
+- [Vacinação contra dengue em BH deve começar nos próximos dias](https://noticias.r7.com/minas-gerais/vacinacao-contra-dengue-em-bh-deve-comecar-nos-proximos-dias-25022024) (R7.com)
 
 - [DF tem maior número de casos e de mortes por dengue no país](https://saude.ig.com.br/2024-02-24/df-tem-maior-numero-de-casos-e-de-mortes-por-dengue-no-pais.html) (Ig.com.br)
 
@@ -195,6 +211,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Ron DeSantis’s Surgeon General Tells Parents It’s Okay to Send Their Unvaccinated Kids to School Amid Measles Outbreak](https://www.vanityfair.com/news/joseph-ladapo-florida-ron-desantis-measles) (Vanity Fair)
 
+- [Oakland County child with measles traveled internationally](https://www.freep.com/story/news/health/2024/02/23/michigan-first-measles-case-since-2019-oakland-county-child/72717185007/) (Detroit Free Press)
+
 - [Florida refuses to bar unvaccinated students from school suffering a measles outbreak](https://abcnews.go.com/Health/wireStory/florida-refuses-bar-unvaccinated-students-school-suffering-measles-107500990) (ABC News)
 
 - [Florida refuses to bar unvaccinated students from school suffering a measles outbreak](https://abcnews.go.com/US/wireStory/florida-refuses-bar-unvaccinated-students-school-suffering-measles-107500987) (ABC News)
@@ -210,6 +228,8 @@ Source: [News API](https://newsapi.org/)
 - [Make sure you have 2 measles shots before you travel on spring break, says Canada's top doctor](https://www.cbc.ca/news/health/measles-vaccine-doses-1.7123841) (CBC News)
 
 - [Diphtheria, measles, meningitis killed 711 in three years – NCDC](https://punchng.com/diphtheria-measles-meningitis-killed-711-in-three-years-ncdc/) (The Punch)
+
+- [Statement from the Chief Public Health Officer of Canada on Global Increase in Measles and Risk to Canada](https://www.canada.ca/en/public-health/news/2024/02/statement-from-the-chief-public-health-officer-of-canada-on-global-increase-in-measles-and-risk-to-canada.html) (Canada.ca)
 
 - [Measles Map Shows States With Reported Cases in 2024](https://www.newsweek.com/measles-map-states-reported-cases-2024-1872898) (Newsweek)
 
@@ -433,6 +453,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Gigantikus szúnyoginvázió sújtja Buenos Airest](https://index.hu/kulfold/2024/02/24/szunyoginvazio-buenos-aires-dengue-laz-rio-de-janeiro/) (Index.hu)
 
+- [Moradores de Sumaré sofrem com acúmulo de lixo em terreno usado pela prefeitura para descarte](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/24/moradores-de-sumare-sofrem-com-acumulo-de-lixo-em-terreno-usado-pela-prefeitura-para-descarte.ghtml) (Globo)
+
 - ['Não me deixe morrer', pedia menino de 6 anos vítima da dengue no ES](https://saude.ig.com.br/2024-02-24/relato-crianca-obito-dengue.html) (Ig.com.br)
 
 - [PBH amplia centros de saúde abertos aos fins de semana para atendimento de dengue](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/pbh-amplia-centros-de-saude-abertos-aos-fins-de-semana-para-atendimento-de-dengue-24022024) (R7.com)
@@ -445,7 +467,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Un joven de 17 años tuvo una erección de 18 horas por dengue](https://www.meneame.net/m/ocio/joven-17-anos-tuvo-ereccion-18-horas-dengue) (Meneame.net)
 
+- [Sete estados do Brasil estão em crise devido à dengue](https://noticias.r7.com/record-news/videos/sete-estados-do-brasil-estao-em-crise-devido-a-dengue-24022024) (R7.com)
+
+- [Crónica desde Buenos Aires: el imperio de las "segundas marcas"](https://www.elperiodico.com/es/internacional/20240224/cronica-buenos-aires-imperio-segundas-98419507) (Elperiodico.com)
+
+- [Mulheres pretas e pardas são as mais afetadas pela dengue no Brasil](https://valor.globo.com/brasil/noticia/2024/02/24/mulheres-pretas-e-pardas-so-as-mais-afetadas-pela-dengue-no-brasil.ghtml) (Globo)
+
 - [¿Qué está pasando con el dengue en América y cómo protegerse?](https://cnnespanol.cnn.com/2024/02/23/dengue-america-que-pasa-protegerse-orix/) (CNN)
+
+- [Perú declarará en emergencia cuatro regiones por aumento de casos de dengue](https://www.abc.es/sociedad/peru-declarara-emergencia-cuatro-regiones-aumento-casos-20240224032624-nt.html) (Www.abc.es)
 
 - [DF e mais seis Estados já decretaram emergência em saúde por dengue neste ano](https://valor.globo.com/brasil/noticia/2024/02/23/df-e-mais-seis-estados-j-decretaram-emergncia-em-sade-por-dengue-neste-ano.ghtml) (Globo)
 
@@ -459,19 +489,31 @@ Source: [News API](https://newsapi.org/)
 
 - [Aparecida (GO) realiza mobilização de combate à dengue](https://www.metropoles.com/brasil/aparecida-go-realiza-mobilizacao-de-combate-a-dengue) (Metropoles.com)
 
+- [A Baixada Santista vive um aumento de casos de dengue](https://recordtv.r7.com/record-tv-litoral-e-vale/sp-record/videos/a-baixada-santista-vive-um-aumento-de-casos-de-dengue-23022024) (R7.com)
+
+- [Aedes aegypti: pesquisa revela que mosquito transmissor da dengue pode infectar pessoas diretamente](https://noticias.r7.com/jr-na-tv/videos/aedes-aegypti-pesquisa-revela-que-mosquito-transmissor-da-dengue-pode-infectar-pessoas-diretamente-23022024) (R7.com)
+
 - [Rio de Janeiro inicia vacinação contra a dengue em crianças](https://noticias.r7.com/jr-na-tv/videos/rio-de-janeiro-inicia-vacinacao-contra-a-dengue-em-criancas-23022024) (R7.com)
 
 - [DF: Rede de saúde entra em colapso por dengue, diz governador](https://saude.ig.com.br/2024-02-23/df--rede-de-saude-entra-em-colapso-por-dengue--diz-governador.html) (Ig.com.br)
+
+- [Mais de 9 mil donos de lotes vagos são notificados pela prefeitura de Contagem (MG) no combate contra dengue](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/mais-de-9-mil-donos-de-lotes-vagos-sao-notificados-pela-prefeitura-de-contagem-mg-no-combate-contra-dengue-23022024) (R7.com)
 
 - [DF terá vacinação contra dengue e outras doenças neste sábado. Confira](https://www.metropoles.com/distrito-federal/df-tera-vacinacao-contra-dengue-e-outras-doencas-neste-sabado-confira) (Metropoles.com)
 
 - [‘Dia D’ contra a dengue: região de Campinas realiza mutirão de combate à doença neste sábado](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/23/dia-d-contra-a-dengue-regiao-de-campinas-realiza-mutirao-de-combate-a-doenca-neste-sabado.ghtml) (Globo)
 
+- [Campanha mobiliza MG em combate contra a dengue após aumento de casos](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/campanha-mobiliza-mg-em-combate-contra-a-dengue-apos-aumento-de-casos-23022024) (R7.com)
+
 - [RJ começa a vacinar crianças de 10 anos contra a dengue](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/rj-comeca-a-vacinar-criancas-de-10-anos-contra-a-dengue-23022024) (R7.com)
+
+- [Dengue: entenda o aumento de casos e como funciona a vacina](https://brasilescola.uol.com.br/noticias/dengue-aumento-casos-vacina-infectologistas/3130186.html) (Uol.com.br)
 
 - [Dengue: 4 dicas preciosas para proteger as crianças na escola](https://delas.ig.com.br/parceiros/selecoes/2024-02-23/dengue--4-dicas-preciosas-para-proteger-as-criancas-na-escola.html) (Ig.com.br)
 
 - [Jovem de 17 anos internado com dengue grave tem ereção de 18h. Entenda](https://www.metropoles.com/saude/erecao-de-18h-apos-contrair-dengue) (Metropoles.com)
+
+- [Possível foco de dengue em mansão abandonada preocupa moradores da zona oeste de SP](https://recordtv.r7.com/balanco-geral/videos/possivel-foco-de-dengue-em-mansao-abandonada-preocupa-moradores-da-zona-oeste-de-sp-23022024) (R7.com)
 
 - [Como acabar com pernilongos?](https://claudia.abril.com.br/saude/como-acabar-com-pernilongos) (Abril.com.br)
 
@@ -485,9 +527,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Monica Iozzi detona Neymar por doar dinheiro a Daniel Alves](https://www.metropoles.com/celebridades/monica-iozzi-detona-neymar-por-doar-dinheiro-a-daniel-alves) (Metropoles.com)
 
+- [Fala Brasileiro : 90% dos brasileiros estão preocupados com o crescimento da dengue](https://recordtv.r7.com/fala-brasil/fala-brasileiro/videos/fala-brasileiro-90-dos-brasileiros-estao-preocupados-com-o-crescimento-da-dengue-23022024) (R7.com)
+
 - [Em duas semanas, DF vacina mais de 20 mil crianças contra a dengue](https://www.metropoles.com/distrito-federal/em-duas-semanas-df-vacina-mais-de-20-mil-criancas-contra-a-dengue) (Metropoles.com)
 
 - [Repelente de tomada pode fazer mal à saúde. Saiba evitar riscos](https://www.metropoles.com/saude/repelente-de-tomada-pode-fazer-mal-saude) (Metropoles.com)
+
+- [Entenda por que adultos lideram casos de dengue em MG, mas vacinação inicial é para crianças](https://noticias.r7.com/minas-gerais/entenda-por-que-adultos-lideram-casos-de-dengue-em-mg-mas-vacinacao-inicial-e-para-criancas-23022024) (R7.com)
 
 - [Rio começa a vacinar crianças de 10 anos contra a dengue nesta sexta (23)](https://noticias.r7.com/rio-de-janeiro/rio-comeca-a-vacinar-criancas-de-10-anos-contra-a-dengue-nesta-sexta-23-23022024) (R7.com)
 
@@ -3491,6 +3537,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Health dept. confirms rabid coyote in Mount Pleasant; 1 person exposed](https://www.live5news.com/2024/01/17/health-dept-confirms-rabid-coyote-mount-pleasant-1-person-exposed/) (Live 5 News WCSC)
 
+- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
+
 ## 24-3 (pertussis)
 
 - [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
@@ -3654,6 +3702,8 @@ Source: [News API](https://newsapi.org/)
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
+
+- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 ## 24-3 (malaria)
 
