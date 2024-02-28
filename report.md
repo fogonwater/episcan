@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-02-27 19:05
-- **Most recent article:** 2024-02-26 18:56:00
+- **New articles in last harvest:** 53
+- **Last harvest:** 2024-02-28 07:06
+- **Most recent article:** 2024-02-27 06:41:57
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 23 | 979 |
-| measles | 59 | 56 | 47 | 68 | 45 | 93 | 6 | 374 |
+| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 56 | 1012 |
+| measles | 60 | 56 | 47 | 68 | 45 | 100 | 15 | 391 |
 | malaria | 26 | 86 | 25 | 35 | 19 | 33 | 3 | 227 |
 | zika | 8 | 7 | 8 | 13 | 6 | 13 | 2 | 57 |
 | chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 1 | 55 |
-| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 2 | 43 |
-| mpox | 8 | 4 | 3 | 5 | 8 | 6 | 0 | 34 |
-| meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 0 | 33 |
+| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 3 | 45 |
+| mpox | 8 | 4 | 3 | 5 | 8 | 6 | 1 | 35 |
+| meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 1 | 34 |
 | sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 0 | 27 |
-| pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 1 | 19 |
+| pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 2 | 20 |
 | typhoid | 1 | 2 | 2 | 1 | 2 | 2 | 1 | 11 |
 | yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 1 | 8 |
 | leptospirosis | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 5 |
@@ -47,23 +47,53 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (rabies)
 
+- [Cat vaccinations: Rabies and Feline](https://nep123.com/cat-vaccinations-rabies-and-feline/) (Nep123.com)
+
 - [Immune response after oral immunization of goats and foxes with an NDV vectored rabies vaccine candidate](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011639) (Plos.org)
 
 - [TRIM72 restricts lyssavirus infection by inducing K48-linked ubiquitination and proteasome degradation of the matrix protein](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011718) (Plos.org)
 
 ## 24-9 (pertussis)
 
+- [Whooping cough symptoms and the three phases of the contagious disease](https://www.nottinghampost.com/news/health/whooping-cough-symptoms-three-phases-9125382) (Nottinghamshire Live)
+
 - [Guidance: Pertussis: guidelines for public health management](https://www.gov.uk/government/publications/pertussis-guidelines-for-public-health-management) (Www.gov.uk)
+
+## 24-9 (mpox)
+
+- [تشخیص سریع و دقیق آبله میمونی با کمک نانوحفره و کریسپر](https://www.isna.ir/news/1402120804724/تشخیص-سریع-و-دقیق-آبله-میمونی-با-کمک-نانوحفره-و-کریسپر) (Isna.ir)
+
+## 24-9 (meningitis)
+
+- [24-yr-old dies a day after testing positive for Covid](https://timesofindia.indiatimes.com/city/kolkata/24-year-old-dies-a-day-after-testing-positive-for-covid/articleshow/108027821.cms) (The Times of India)
 
 ## 24-9 (measles)
 
+- [Over 156,000 children in Lalitpur to receive measles-rubella vaccination](https://english.khabarhub.com/2024/27/342932/) (Khabarhub.com)
+
+- [What is “immune amnesia?” This longterm side effect of measles is newly relevant.](https://www.nationalgeographic.com/premium/article/rising-measles-cases) (National Geographic)
+
+- [Measles' Deadliest Sequelae](https://www.medpagetoday.com/opinion/parasites-and-plagues/108905) (MedPage Today)
+
+- [NEWS: The Measles Outbreak Has Hit Central Florida](https://www.disneyfoodblog.com/2024/02/26/the-measles-outbreak-has-hit-central-florida/) (disneyfoodblog.com)
+
+- [How to check your MMR vaccination status](https://www.wdtn.com/community/health/not-sure-of-your-mmr-vaccination-status-heres-how-to-check/) (WDTN.com)
+
+- [NEWS: Measles Outbreak Hits Central Florida](https://allears.net/2024/02/26/measles-outbreak-hits-central-florida/) (allears.net)
+
 - [Measles Map Shows Where Outbreak Is Spreading in Florida](https://www.newsweek.com/map-shows-spread-measles-florida-1873496) (Newsweek)
+
+- [Measles cases spread in US, on track for nearly 300% increase](https://www.newsnationnow.com/health/us-300-increase-measles/) (Newsnationnow.com)
 
 - [Measles Cases Are Surging. Here Are The Challenges And What You Can Do](https://www.forbes.com/sites/markkortepeter/2024/02/26/measles-cases-are-surging-here-are-the-challenges-and-what-you-can-do/) (Forbes)
 
 - [Monday, February 26, 2024](https://kffhealthnews.org/morning-briefing/monday-february-26-2024/) (Kffhealthnews.org)
 
 - [How vaccine hesitancy is contributing to rising rates of measles and COVID](https://www.pbs.org/newshour/show/how-vaccine-hesitancy-is-contributing-to-rising-rates-of-measles-and-covid) (PBS)
+
+- [Michigan reports first measles case since 2019 outbreak: What to know](https://www.clickondetroit.com/health/2024/02/25/michigan-reports-first-measles-case-since-2019-outbreak-what-to-know/) (WDIV ClickOnDetroit)
+
+- [Nationwide Measles-Rubella Vaccination Campaign targets 5.7 million children](https://english.khabarhub.com/2024/25/342631/) (Khabarhub.com)
 
 - [TWiV 1091: Skeeter poo and obelisks too](https://www.microbe.tv/twiv/twiv-1091/) (Microbe.tv)
 
@@ -83,7 +113,71 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (dengue)
 
+- [Japan#39;s Takeda partners with India#39;s Biological E. to boost dengue vaccine production](https://www.moneycontrol.com/news/business/japans-takeda-partners-with-indias-biological-e-to-boost-dengue-vaccine-production-12359841.html) (Moneycontrol)
+
+- [Japan's Takeda partners with India's Biological E. to boost dengue vaccine production](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/Japan-s-Takeda-partners-with-India-s-Biological-E-to-boost-dengue-vaccine-production-46034440/) (Marketscreener.com)
+
+- [Takeda, Biological E enter manufacturing pact to produce 50 million doses of Dengue vaccine](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/takeda-biological-e-enter-manufacturing-pact-to-produce-50-million-doses-of-dengue-vaccine/articleshow/108032247.cms) (The Times of India)
+
+- [Takeda, Biological E tie up for dengue vaccine production](https://www.thehindubusinessline.com/news/national/takeda-biological-e-tie-up-for-dengue-vaccine-production/article67890790.ece) (BusinessLine)
+
+- [Diabetes e dengue: o que é preciso saber para evitar complicações](https://www.metropoles.com/saude/diabetes-risco-de-dengue-grave) (Metropoles.com)
+
+- [Peru declares health emergency as dengue cases soar](https://www.dw.com/en/peru-declares-health-emergency-as-dengue-cases-soar/a-68381199) (DW (English))
+
+- [Takeda and Biological E. Limited Collaborate to Accelerate Access to Dengue Vaccine in Endemic Areas](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/Takeda-and-Biological-E-Limited-Collaborate-to-Accelerate-Access-to-Dengue-Vaccine-in-Endemic-Areas-46034062/) (Marketscreener.com)
+
+- [Takeda and Biological E. Limited Collaborate to Accelerate Access to Dengue Vaccine in Endemic Areas](https://financialpost.com/pmn/business-wire-news-releases-pmn/takeda-and-biological-e-limited-collaborate-to-accelerate-access-to-dengue-vaccine-in-endemic-areas) (Financial Post)
+
+- [Peru slår dengue-alarm](https://www.nrk.no/nyheter/peru-slar-dengue-alarm-1.16779728) (NRK)
+
+- [Sănătate: Peru va declara stare de urgenţă din cauza dengue](https://www.mediafax.ro/sanatate/sanatate-peru-va-declara-stare-de-urgenta-din-cauza-dengue-22282035) (Mediafax.ro)
+
+- [Peru has declared a health emergency in most of its provinces as dengue cases soar](https://abcnews.go.com/International/wireStory/peru-declared-health-emergency-provinces-dengue-cases-soar-107568552) (ABC News)
+
+- [Peru has declared a health emergency in most of its provinces as dengue cases soar](https://www.startribune.com/peru-has-declared-a-health-emergency-in-most-of-its-provinces-as-dengue-cases-soar/600346331/) (Minneapolis Star Tribune)
+
+- [UFMG tem pesquisa para criar vacinas contra dengue que podem ser 50% mais baratas que a atual](https://noticias.r7.com/minas-gerais/ufmg-tem-pesquisa-para-criar-vacina-contra-dengue-que-pode-ser-50-mais-barata-que-a-atual-27022024) (R7.com)
+
+- [Belo Horizonte começa a vacinar crianças contra dengue](https://noticias.r7.com/minas-gerais/belo-horizonte-comeca-a-vacinar-criancas-contra-dengue-27022024) (R7.com)
+
+- [Peru declara emergência sanitária após aumento nos casos de dengue](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/peru-declara-emergencia-sanitaria-apos-aumento-nos-casos-de-dengue-27022024) (R7.com)
+
+- [Belo Horizonte (MG) começa a vacinação contra a dengue nesta terça (27)](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/belo-horizonte-mg-comeca-a-vacinacao-contra-a-dengue-nesta-terca-27-27022024) (R7.com)
+
+- [Famosos sofrem com explosão de Dengue no pós-carnaval](https://www.terra.com.br/diversao/famosos-sofrem-com-explosao-de-dengue-no-pos-carnaval,3242b1450775f8ea33ecc923d92cd6c09l43apjv.html) (Terra.com.br)
+
+- [Sanità: il Perù dichiarerà l’emergenza per la Dengue](https://www.lastampa.it/esteri/2024/02/27/news/sanita_il_peru_dichiarera_lemergenza_per_la_dengue-14102387/) (Lastampa.it)
+
+- [Takeda and Biological E. Limited Collaborate to Accelerate Access to Dengue Vaccine in Endemic Areas](https://www.investorsobserver.com/news/qm-pr/8716186712177770) (InvestorsObserver)
+
+- [Pacientes 60+ e homens: veja perfil das vítimas da dengue no DF](https://www.metropoles.com/distrito-federal/pacientes-60-e-homens-veja-perfil-das-vitimas-da-dengue-no-df) (Metropoles.com)
+
+- [DF registra 55 mortes por dengue; outros 82 óbitos são investigados](https://www.metropoles.com/distrito-federal/df-registra-55-mortes-por-dengue-outros-82-obitos-sao-investigados) (Metropoles.com)
+
+- [Dengue: Peru vai decretar estado de emergência sanitária](https://www.metropoles.com/mundo/peru-vai-decretar-estado-de-emergencia-devido-a-dengue) (Metropoles.com)
+
+- [Brasil ultrapassa 920 mil casos prováveis de dengue em 2024](https://www.metropoles.com/brasil/brasil-ultrapassa-920-mil-casos-provaveis-de-dengue-em-2024) (Metropoles.com)
+
+- [Peru declara emergência sanitária por aumento de casos de dengue](https://veja.abril.com.br/mundo/peru-declara-emergencia-sanitaria-por-aumento-de-casos-de-dengue) (Abril.com.br)
+
+- [Covid: mais de 1,3 mil pessoas morreram pelo coronavírus neste ano](https://noticias.r7.com/jr-na-tv/videos/covid-mais-de-13-mil-pessoas-morreram-pelo-coronavirus-neste-ano-26022024) (R7.com)
+
+- [Peru vai declarar emergência sanitária em regiões diante de aumento de casos de dengue](https://www.terra.com.br/noticias/mundo/peru-vai-declarar-emergencia-sanitaria-em-regioes-diante-de-aumento-de-casos-de-dengue,0fc3a499cc9486d7b1e6023a3d72116ewlogzg20.html) (Terra.com.br)
+
+- [DF passa dos 100 mil casos de dengue e registra 55 mortes](https://noticias.r7.com/brasilia/df-passa-dos-100-mil-casos-de-dengue-e-registra-55-mortes-26022024) (R7.com)
+
+- [Brasil tem 184 mortes por dengue confirmadas e mais de 600 em investigação](https://noticias.r7.com/saude/brasil-tem-184-mortes-por-dengue-confirmadas-e-mais-de-600-em-investigacao-26022024) (R7.com)
+
+- [Perú anuncia que declarará más del 83 % de su territorio en emergencia por dengue](https://www.vozdeamerica.com/a/peru-declarara-mas-del-83-de-su-territorio-en-emergencia-por-dengue/7503276.html) (Vozdeamerica.com)
+
+- [Seis distritos entram em situação epidêmica de dengue em São Paulo](https://noticias.r7.com/record-news/videos/seis-distritos-entram-em-situacao-epidemica-de-dengue-em-sao-paulo-26022024) (R7.com)
+
+- [Perú se prepara para declarar el estado de emergencia en 20 regiones debido al aumento de casos de dengue](https://cnnespanol.cnn.com/2024/02/26/peru-estado-emergencia-20-regiones-dengue-orix/) (CNN)
+
 - [Covid-19 ainda é causa de apreensão no Brasil](https://www.dw.com/pt-br/covid-19-ainda-%C3%A9-causa-de-apreens%C3%A3o-no-brasil/a-68380068) (DW (English))
+
+- [Cuidado para não cair nas fake news sobre a dengue](https://jornaldebrasilia.com.br/brasilia/cuidado-para-nao-cair-nas-fake-news-sobre-a-dengue/) (Jornaldebrasilia.com.br)
 
 - [6 distritos de São Paulo estão em situação epidêmica por dengue](https://claudia.abril.com.br/saude/6-distritos-de-sao-paulo-estao-em-situacao-epidemica-por-dengue) (Abril.com.br)
 
@@ -94,6 +188,8 @@ Source: [News API](https://newsapi.org/)
 - [GO: Anápolis estabelece fluxo de atendimento para pacientes com dengue](https://www.metropoles.com/brasil/go-anapolis-estabelece-fluxo-de-atendimento-para-pacientes-com-dengue) (Metropoles.com)
 
 - [Perú declarará 20 regiones en emergencia por casos de dengue, anuncia el ministro de Salud](https://elmercurio.com.ec/2024/02/26/emergencia-sanitaria-peru-dengu/) (Elmercurio.com.ec)
+
+- [Il a une érection pendant 18 heures après avoir attrapé la dengue au Burkina Faso](https://www.20minutes.fr/monde/4078332-20240226-erection-pendant-18-heures-apres-avoir-attrape-dengue-burkina-faso) (20 Minutes)
 
 - [Fact Check. Ivermectina eficaz na redução da carga viral da dengue?](https://observador.pt/factchecks/fact-check-ivermectina-eficaz-na-reducao-da-carga-viral-da-dengue/) (Observador.pt)
 
@@ -255,9 +351,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Links 2/24/2024](https://www.nakedcapitalism.com/2024/02/links-2-24-2024.html) (Nakedcapitalism.com)
 
+- [IN State Health Dept. reports first measels case in 5-years - WTCA](https://www.am1050.com/2024/02/23/in-state-health-dept-reports-first-measels-case-in-5-years/) (Am1050.com)
+
+- [Florida refuses to bar unvaccinated students from school suffering a measles outbreak](https://www.clickorlando.com/health/2024/02/23/florida-refuses-to-bar-unvaccinated-students-from-school-suffering-a-measles-outbreak/) (WKMG News 6 & ClickOrlando)
+
+- [Health department issues warning after Metro Detroit child comes down with highly contagious virus](https://www.clickondetroit.com/news/local/2024/02/24/health-department-issues-warning-after-metro-detroit-child-comes-down-with-highly-contagious-virus/) (WDIV ClickOnDetroit)
+
 - [Amid Florida measles outbreak, surgeon general lets parents decide whether to send unvaccinated kids to school](https://www.foxnews.com/health/florida-measles-outbreak-surgeon-general-lets-parents-decide-whether-send-unvaccinated-kids-school) (Fox News)
 
+- [Are you fully immunized against measles? Canada's public health agency says to check](https://ottawa.citynews.ca/2024/02/23/check-youre-fully-immunized-against-measles-public-health-agency-of-canada-urges/) (Citynews.ca)
+
+- [Indiana resident with measles visited 3 Chicago hospitals while contagious: health officials](https://www.fox32chicago.com/news/indiana-resident-with-measles-visited-chicago-hospitals-while-contagious) (FOX 32 Chicago)
+
 - [Florida surgeon general defies CDC guidelines in measles outbreak](https://www.cbsnews.com/video/florida-surgeon-general-defies-cdc-guidelines-in-measles-outbreak/) (CBS News)
+
+- [Florida defies CDC recommendations during measles outbreak](https://www.newsnationnow.com/health/florida-defies-recommendations-measles/) (Newsnationnow.com)
+
+- [Victorian health authorities issue second measles alert this month after another case in returned traveller transiting Melbourne](https://www.skynews.com.au/australia-news/victorian-health-authorities-issue-second-measles-alert-this-month-after-another-case-in-returned-traveller-transiting-melbourne/news-story/d680399371e934ff825c21aafe50b708) (Sky News Australia)
 
 - [Amid School Measles Outbreak, Florida Rejects CDC Guidance](https://www.newser.com/story/346822/florida-says-its-ok-to-send-unvaccinated-kids-to-school.html) (Newser)
 
@@ -3589,6 +3699,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Health dept. confirms rabid coyote in Mount Pleasant; 1 person exposed](https://www.live5news.com/2024/01/17/health-dept-confirms-rabid-coyote-mount-pleasant-1-person-exposed/) (Live 5 News WCSC)
 
+- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
+
 ## 24-3 (pertussis)
 
 - [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
@@ -3752,6 +3864,8 @@ Source: [News API](https://newsapi.org/)
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
+
+- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 ## 24-3 (malaria)
 
