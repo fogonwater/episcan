@@ -1,8 +1,819 @@
 {
-  "last_updated": "2024-02-28 07:06",
-  "count_articles_total": 1859,
-  "count_articles_new": 53,
+  "last_updated": "2024-02-28 19:05",
+  "count_articles_total": 1902,
+  "count_articles_new": 45,
   "articles": [
+    {
+      "id": 6109,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Joel Mathis, The Week US)",
+      "title": "What Florida is \u2014 and isn't \u2014 doing to curb the biggest measles outbreak in the U.S.",
+      "description": "DeSantis appointee defies expert consensus to stop the spread",
+      "url": "https://theweek.com/health/florida-curb-biggest-measles-outbreak",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qCQhuTf42oGfFCmzx5Y42P-1200-80.jpg",
+      "publishedAt": "2024-02-27 18:13:28",
+      "content": "Florida has a measles problem. Critics say the state's chief health officer might be making things worse. As of Tuesday morning there are eight diagnosed cases of the virus in the Sunshine State, US\u2026 [+4353 chars]",
+      "retrievedAt": "2024-02-28 19:05:32.468950",
+      "internal_id": "093f039a09904f217fc4e94feab6eb68b71e56e9a42a09948636876372f56019",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6148,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "First DNA study of ancient Eastern Arabians reveals malaria adaptation",
+      "description": "People living in ancient Eastern Arabia appear to have developed resistance to malaria following the appearance of agriculture in the region around five thousand years ago.",
+      "url": "https://www.sciencedaily.com/releases/2024/02/240227130823.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-02-27 18:08:23",
+      "content": "People living in ancient Eastern Arabia appear to have developed resistance to malaria following the appearance of agriculture in the region around five thousand years ago, a new study reveals.DNA an\u2026 [+4055 chars]",
+      "retrievedAt": "2024-02-28 19:05:34.301275",
+      "internal_id": "ac608d881bc76d2578574cc099cdc4b79d4bd0913b8a54528546c768e011ade8",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6149,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY JUDY SIEGEL-ITZKOVICH",
+      "title": "First DNA study of ancient Eastern Arabians reveals protection against malaria",
+      "description": "The discovery of the G6PD Mediterranean mutation in ancient Bahrainis suggests that many people in the region\u2019s ancient populations may have enjoyed protection from the infectious, deadly disease.",
+      "url": "https://www.jpost.com/health-and-wellness/article-789234",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/581637",
+      "publishedAt": "2024-02-27 18:01:07",
+      "content": "People living in ancient Eastern Arabia apparently became resistant to malaria after they began to farm in the region about 5,000 years ago. A DNA analysis of the remains of four individuals from Tyl\u2026 [+4425 chars]",
+      "retrievedAt": "2024-02-28 19:05:34.310613",
+      "internal_id": "21cf70879ef04758ec5034f57de9ba175e7ef3e7938c479bcfe96a1accbc8aca",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6124,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "A doen\u00e7a confundida com dengue que \u00e9 mais mort\u00edfera do que se imaginava",
+      "description": "Nos \u00faltimos anos, o avan\u00e7o da chikungunya nas Am\u00e9ricas, e em particular no Brasil, tem suscitado preocupa\u00e7\u00e3o crescente entre as autoridades sanit\u00e1rias de diferentes pa\u00edses.",
+      "url": "https://www.bbc.com/portuguese/articles/cg3kr44npkyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/532c/live/80ddaa60-d288-11ee-965f-053f9bd9346c.jpg",
+      "publishedAt": "2024-02-27 17:51:12",
+      "content": "Cr\u00e9dito, Pilar Olivares/Reuters Legenda da foto, Sintomas muito parecidos com a dengue dificultam diagn\u00f3stico, e n\u00famero de mortes pela chikungunya j\u00e1 est\u00e1 acima da m\u00e9dia hist\u00f3rica Article informati\u2026 [+8311 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.355861",
+      "internal_id": "3a693d645487ab802f1201cf35e30449c6ea2cebcf411d5bb7e70d82da563741",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6118,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Popular Science",
+      "author": "Laura Baisas",
+      "title": "How to check your measles vaccination status amid outbreak",
+      "description": "There have been 35 reported cases of the highly-contagious disease so far this year.",
+      "url": "https://www.popsci.com/health/check-measles-vaccination-status/",
+      "urlToImage": "https://www.popsci.com/uploads/2024/02/27/measles-vaccine.jpg?auto=webp",
+      "publishedAt": "2024-02-27 17:46:47",
+      "content": "The Florida Department of Health is investigating eight cases of measles due to an outbreak of the highly contagious disease in a school in Broward County. Six of the previously known cases are in st\u2026 [+5115 chars]",
+      "retrievedAt": "2024-02-28 19:05:32.567563",
+      "internal_id": "f7bf2ae8120ce7932be2aacaae5077553cd0bae020b1263049064f01609d630b",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6111,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Jillian Wilson",
+      "title": "Florida Has A Measles Outbreak. Here's What That Actually Means For You.",
+      "description": "Experts predict what dropping vaccination rates may do and why these cases aren't something to dismiss.",
+      "url": "https://www.huffpost.com/entry/measles-outbreak-florida-vaccination-expert-advice_l_65dcd0b7e4b0e4346d534b86",
+      "urlToImage": "https://img.huffingtonpost.com/asset/65dcd365230000510054f7dc.jpeg?ops=1200_630",
+      "publishedAt": "2024-02-27 17:36:56",
+      "content": "Currently, Florida is experiencing a measles outbreak in which nine people, mainly children, are infected. Despite this, Florida Surgeon General Dr. Joseph Ladapo went against Centers for Disease Con\u2026 [+10520 chars]",
+      "retrievedAt": "2024-02-28 19:05:32.483484",
+      "internal_id": "20dde3913ed8d296c76d8dbd93dd3a8ab29b1f969b6eab4786f58de818ae325a",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6108,
+      "query": [
+        "measles"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Scott A. Rivkees",
+      "title": "From COVID-19 to Measles, Florida\u2019s War on Public Health",
+      "description": "A measles outbreak in a Florida school reveals the chilling effect of the state's turn against public health.",
+      "url": "https://time.com/6835313/floridas-measles-covid-19-public-health/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1245795419.jpg?quality=85",
+      "publishedAt": "2024-02-27 17:27:44",
+      "content": "The culture of public health and medicine rests on open discussions in which different points of view are considered for the betterment of patient care and health. This process depends on psychologic\u2026 [+7964 chars]",
+      "retrievedAt": "2024-02-28 19:05:32.439366",
+      "internal_id": "3df742c569554500a79b62a170204df39cea87be103d6433a17f81a0128e81ef",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6134,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Alto Astral",
+      "title": "Confira 6 mitos sobre a dengue que voc\u00ea n\u00e3o fazia ideia",
+      "description": "Muitas pessoas acreditam em mitos sobre a dengue e, por isso, acabam n\u00e3o se protegendo da forma correta contra o Aedes aegypti",
+      "url": "https://www.metropoles.com/saude/6-mitos-sobre-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/27134730/aedes-aegypti-2.jpg",
+      "publishedAt": "2024-02-27 16:58:24",
+      "content": "A dengue voltou a ser uma doen\u00e7a muito falada por conta do aumento de casos em diversos estados do Brasil. Por conta disso, a maioria das pessoas j\u00e1 sabe das medidas b\u00e1sicas para evitar o mosquito tr\u2026 [+5077 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.457794",
+      "internal_id": "1e477222646c35b6efd18d3829016fb724cb29c7b159cb14e406708cbf6dabc5",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6145,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Il Per\u00f9 ha dichiarato lo stato di emergenza sanitaria per l\u2019epidemia di dengue: 18mila casi confermati e 32 morti",
+      "description": "A causa di un\u2019epidemia di dengue il Per\u00f9 ha dichiarato lo stato di emergenza sanitaria in 20 regioni su 25. Secondo quanto riferito dal ministro della Sanit\u00e0 C\u00e9sar V\u00e1squez S\u00e1nchez, e secondo quanto riportato da Rpp, i casi sono gi\u00e0 oltre 31mila (di cui quasi \u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/02/27/il-peru-ha-dichiarato-lo-stato-di-emergenza-sanitaria-per-lepidemia-di-dengue-18mila-casi-confermati-e-32-morti/7461448/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/02/27/44770733.jpg",
+      "publishedAt": "2024-02-27 16:41:12",
+      "content": "A causa di un\u2019epidemia di dengue il Per\u00f9 ha dichiarato lo stato di emergenza sanitaria in 20 regioni su 25. Secondo quanto riferito dal ministro della Sanit\u00e0 C\u00e9sar V\u00e1squez S\u00e1nchez, e secondo quanto r\u2026 [+3020 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.548531",
+      "internal_id": "47073f52670ebdfd364a3b1b23345e5c67fa77fb6dd3f311adfd03e06560b00f",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6125,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Thomas Traumann",
+      "title": "O efeito mosquito",
+      "description": "Como quase 1 milh\u00e3o de casos de dengue podem afetar a popularidade de Lula",
+      "url": "https://veja.abril.com.br/coluna/thomas-traumann/o-efeito-mosquito",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/02/53511867574_c155aa1b3a_3k-1.jpg?quality=90&strip=info",
+      "publishedAt": "2024-02-27 16:02:37",
+      "content": "Assine VEJA por R$2,00/semana Continua ap\u00f3s publicidade O presidente Lula e a ministra da Sa\u00fade, N\u00edsia Trindade - 05/02/2024 (Ricardo Stuckert / PR/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade N\u00e3o ser\u00e3o\u2026 [+2821 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.363508",
+      "internal_id": "ae340803e04e9d51c9a753c817f65d0e8bd294ccb98623559f88ccb268f921c8",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6151,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "First DNA study of ancient Eastern Arabians reveals malaria adaptation",
+      "description": "People living in ancient Eastern Arabia appear to have developed resistance to malaria following the appearance of agriculture in the region around five thousand years ago, a new study reveals.",
+      "url": "https://phys.org/news/2024-02-dna-ancient-eastern-arabians-reveals.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/malaria.jpg",
+      "publishedAt": "2024-02-27 16:00:01",
+      "content": "People living in ancient Eastern Arabia appear to have developed resistance to malaria following the appearance of agriculture in the region around five thousand years ago, a new study reveals. DNA \u2026 [+4741 chars]",
+      "retrievedAt": "2024-02-28 19:05:34.337562",
+      "internal_id": "c2d7c3e4e807f1a792423d9da044e199142ed06158e1ce6a5a0f647e988e09b5",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6119,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sun Sentinel",
+      "author": "Cindy Krischer Goodman",
+      "title": "With 10 measles cases in Florida, state health officials fail to provide info",
+      "description": "Broward County now is up to nine cases of measles, two of them in children younger than four. Another case, reported in Polk County, brings the state\u2019s total to 10 cases. Florida health offic\u2026",
+      "url": "http://www.sun-sentinel.com/2024/02/27/with-10-measles-cases-in-florida-state-health-officials-fail-to-provide-information/",
+      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/migration/2019/04/19/JQS4K4ULJRDDHAHQY67XVRVCDE.jpg?w=1024&h=670",
+      "publishedAt": "2024-02-27 15:43:40",
+      "content": "Broward County now is up to nine cases of measles, two of them in children younger than 4 years old. Seven of the nine are students at Manatee Bay Elementary in Weston. It\u2019s unclear whether the two \u2026 [+10821 chars]",
+      "retrievedAt": "2024-02-28 19:05:32.572156",
+      "internal_id": "baf7f1e783f531eb9858e20dc91169813a29e24ea91dd8f75426ba601db4a344",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6146,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "camillebocanegra",
+      "title": "Dengue deve ter pico de casos at\u00e9 maio: como as empresas de sa\u00fade da Bolsa s\u00e3o afetadas?",
+      "description": "Planos de sa\u00fade, prestadoras de servi\u00e7os de medicina diagn\u00f3stica e varejistas farmac\u00eauticas est\u00e3o entre as empresas que podem sentir os efeitos do surto da doen\u00e7a em seus n\u00fameros The post Dengue deve ter pico de casos at\u00e9 maio: como as empresas de sa\u00fade da Bo\u2026",
+      "url": "https://www.infomoney.com.br/mercados/dengue-deve-ter-pico-de-casos-ate-maio-como-as-empresas-de-saude-da-bolsa-sao-afetadas/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2019/06/dengue-bloomberg.jpg?fit=900%2C683&quality=70&strip=all",
+      "publishedAt": "2024-02-27 15:25:00",
+      "content": "Os per\u00edodos entre fevereiro e maio s\u00e3o normalmente o de maior incid\u00eancia de dengue todos os anos, mas, neste in\u00edcio de 2024, os n\u00fameros t\u00eam sido acima das expectativas e ficado mais alarmantes. A for\u2026 [+2805 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.555571",
+      "internal_id": "24cf2b83757662d87b4bf5fef4b8b349d62f416ec128766eda5a9b591239646b",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6147,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Di\u00e1rio do Rio",
+      "title": "Com agentes nas ruas, pesquisa e campanha de vacina\u00e7\u00e3o, Itagua\u00ed refor\u00e7a o combate \u00e0 dengue",
+      "description": "Crian\u00e7as de 10 e 11 anos j\u00e1 podem ser vacinadas em todos os postos de sa\u00fade do munic\u00edpio Com agentes nas ruas, pesquisa e campanha de vacina\u00e7\u00e3o, Itagua\u00ed refor\u00e7a o combate \u00e0 dengue",
+      "url": "https://www.terra.com.br/noticias/brasil/com-agentes-nas-ruas-pesquisa-e-campanha-de-vacinacao-itaguai-reforca-o-combate-a-dengue,9e6449e9cb025abe5ef92126afcaa68037qo827y.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/27/1611212551-whatsapp-image-2024-02-27-at-110041.jpeg",
+      "publishedAt": "2024-02-27 15:04:28",
+      "content": "Itagua\u00ed est\u00e1 trabalhando a todo vapor no combate \u00e0 dengue. Todos os dias, agentes da Vigil\u00e2ncia em Sa\u00fade do munic\u00edpio fazem visitas a domic\u00edlios com o objetivo de eliminar focos do aedes aegypti. As \u2026 [+1918 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.559527",
+      "internal_id": "c59f664f832fd99bb40c2565e6bbcfbae7e98e2e902a9f40e5a4da835c83c472",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6142,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Dengue: Brasil se aproxima de 1 milh\u00e3o de casos prov\u00e1veis",
+      "description": "Entre eles, 55,3% s\u00e3o de mulheres e 44,7% de homens",
+      "url": "https://saude.ig.com.br/2024-02-27/dengue--brasil-se-aproxima-de-1-milhao-de-casos-provaveis.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
+      "publishedAt": "2024-02-27 15:01:14",
+      "content": "Desde o in\u00edcio de janeiro, o Brasil j\u00e1 registrou 920.427 casos prov\u00e1veis de dengue . O pa\u00eds contabiliza ainda 184 mortes confirmadas pela doen\u00e7a e 609 \u00f3bitos em investiga\u00e7\u00e3o. O coeficiente de inci\u2026 [+822 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.525664",
+      "internal_id": "4b245efea3590e4ca1bf4373aa80a80c8c8d9cdbf68b35019d231ffccc12a7ea",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6140,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Alto Astral",
+      "title": "6 mitos sobre a dengue que voc\u00ea n\u00e3o fazia ideia",
+      "description": "Muitas pessoas acreditam em mitos sobre a dengue e, por isso, acabam n\u00e3o se protegendo da forma correta contra o Aedes aegypti",
+      "url": "https://www.terra.com.br/vida-e-estilo/6-mitos-sobre-a-dengue-que-voce-nao-fazia-ideia,bf24652b5ed38d7d0bf7c367829a3ce9ciqa3ftj.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/27/1687471288-mitos-sobre-a-dengue.jpg",
+      "publishedAt": "2024-02-27 15:00:54",
+      "content": "A dengue voltou a ser uma doen\u00e7a muito falada por conta do aumento de casos em diversos estados do Brasil. Por conta disso, a maioria das pessoas j\u00e1 sabe das medidas b\u00e1sicas para evitar o mosquito tr\u2026 [+2615 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.500988",
+      "internal_id": "90991201644133f8d0ddc9f7fc33fd79d431c9c8b68fbb97ba0c197a1b950f2f",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6117,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "Newsroom",
+      "title": "Eight cases of measles in Greece, an increase is expected \u2013 Concern for a resurgence in Europe",
+      "description": "The latest measles outbreak occurred in Greece in 2017-2018 with more than 3,200 cases and four deaths.",
+      "url": "https://en.protothema.gr/eight-cases-of-measles-in-greece-an-increase-is-expected-concern-for-a-resurgence-in-europe/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/02/4-15-150x150.png",
+      "publishedAt": "2024-02-27 15:00:42",
+      "content": "Eight measles cases have been reported in Greece, according to a bulletin issued today by the National Public Health Organization (EODY). The number of cases is considered low by the EODY experts, b\u2026 [+3757 chars]",
+      "retrievedAt": "2024-02-28 19:05:32.534698",
+      "internal_id": "c81184782684ec02d12f6fcb40bfeab1269cc1f786f8b21d191d9df5dc06309f",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6113,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Jessica Nicole",
+      "title": "Confirmed Measles Outbreak Reaches Disney Bubble",
+      "description": "Travelers beware if you\u2019re planning to visit Central Florida anytime soon. Unfortunately, that includes visitors to the Walt Disney World and Universal Orlando Resorts. Being home to three major theme parks, Orlando, Florida, sees millions of visitors each da\u2026",
+      "url": "https://insidethemagic.net/2024/02/confirmed-measles-outbreak-reaches-disney-bubble-jnw1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/02/disney-world-entrance.jpg",
+      "publishedAt": "2024-02-27 14:45:12",
+      "content": "Travelers beware if youre planning to visit Central Florida anytime soon. Unfortunately, that includes visitors to the Walt Disney World and Universal Orlando Resorts. Being home to three major them\u2026 [+2540 chars]",
+      "retrievedAt": "2024-02-28 19:05:32.492128",
+      "internal_id": "11a05bd204210e4a27a303ee7c58d524bf0d959259af512b58a950f5250ca99f",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6136,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Tropenkrankheit: Dengue-Fieber breitet sich aus: Peru erkl\u00e4rt Gesundheitsnotstand",
+      "description": "In Peru breitet sich das Dengue-Fieber in besorgniserregendem Ma\u00dfe aus. Die Regierung reagiert und hat eine d\u00fcstere Vorahnungen.",
+      "url": "https://www.stern.de/gesundheit/dengue-fieber-breitet-sich-aus--peru-erklaert-gesundheitsnotstand-34497220.html",
+      "urlToImage": "https://image.stern.de/34497224/t/0u/v4/w1440/r1.7778/-/dengue-fieber-peru.jpg",
+      "publishedAt": "2024-02-27 14:40:00",
+      "content": "In Peru breitet sich das Dengue-Fieber in besorgniserregendem Ma\u00dfe aus. Die Regierung reagiert und hat d\u00fcstere Vorahnungen Angesichts der massiven Ausbreitungen des Dengue-Fiebers hat die peruanisch\u2026 [+1740 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.476041",
+      "internal_id": "1793b6bde5f08d463b9419deee8e381e25a49852eb586804cd80adcb25ed0034",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6110,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "An in-depth look at what's causing the measles to makes a comeback in the U.S.",
+      "description": "Despite being declared eliminated in 2000, measles cases are on the rise across the U.S., with 36 instances identified in 16 states since January. Florida emerged as a hotspot with nine cases, as the state's surgeon general challenges CDC vaccine guidelines. \u2026",
+      "url": "https://www.cbsnews.com/video/an-in-depth-look-at-whats-causing-the-measles-to-makes-a-comeback-in-the-us/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/27/0b14b04b-04bf-454c-a8be-a59d9dae1bbf/thumbnail/1200x630/8fbce0be77d998c7b909355ad255d951/0227-cmo-measles-lapook-2714580-640x360.jpg?v=873773698949ef4145348bb09cabd43d",
+      "publishedAt": "2024-02-27 14:34:02",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-02-28 19:05:32.473941",
+      "internal_id": "6ff8f7a655d20727e13ccbac1da3220f43edcb58276de51159dd0ae013ad0270",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6144,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Peru decreta estado de emerg\u00eancia sanit\u00e1ria por dengue",
+      "description": "O governo do Peru declarou estado de emerg\u00eancia sanit\u00e1ria em virtude do grande aumento de casos ...",
+      "url": "https://www.terra.com.br/noticias/mundo/peru-decreta-estado-de-emergencia-sanitaria-por-dengue,f8b34d044808d5c63019c4ae89a638d58mdfzvbx.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-27 14:33:52",
+      "content": "O governo do Peru declarou estado de emerg\u00eancia sanit\u00e1ria em virtude do grande aumento de casos de dengue no pa\u00eds. A decis\u00e3o das autoridades, que permanecer\u00e1 em vigor por pelo menos 90 dias, f\u2026 [+998 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.543444",
+      "internal_id": "ff5a8b1dbc46af5e7e33dc774cca62c701ed5266230aafdc5493c6ffcfdc3be9",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6139,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Usar repelente com frequ\u00eancia faz mal?",
+      "description": "Especialistas explicam como usar o repelente de forma segura, evitando rea\u00e7\u00f5es e alergias. A f\u00f3rmula contra mosquito da dengue precisa ter registro na Anvisa",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-27/usar-repelente-com-frequencia-faz-mal-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ek/ji/qg/ekjiqgneh070uwov2q3bvxdso.jpg",
+      "publishedAt": "2024-02-27 14:20:30",
+      "content": "Com o aumento de casos de dengue em todo o pa\u00eds, mais pessoas est\u00e3o usando repelente como forma de evitar a picada do mosquito Aedes aegypti . Estas f\u00f3rmulas s\u00e3o seguras, afastam o vetor e n\u00e3o fazem\u2026 [+5411 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.496373",
+      "internal_id": "49ae0b7084c8d42589ecf0af647b9ef01948855801243e3091c8bf7c6a97b9ee",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6138,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Argentina: Falleci\u00f3 un jugador de V\u00e9lez Sarsfield de 14 a\u00f1os. No descartan dengue",
+      "description": "El club confirm\u00f3 la triste noticia de uno de sus juveniles y dio cuenta de un \u201ccuadro infectol\u00f3gico\u201d que est\u00e1 en investigaci\u00f3n.",
+      "url": "https://www.montevideo.com.uy/Deportes/Argentina-Fallecio-un-jugador-de-Velez-Sarsfield-de-14-anos-No-descartan-dengue-uc880914",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202402/_W933_80/873175.jpg",
+      "publishedAt": "2024-02-27 14:10:00",
+      "content": "F\u00fatbolUy. Seguinos en Twitter @futbolportaluy Yair Rodr\u00edguez Pereyra, un futbolista que se desempe\u00f1aba con muy buen suceso y era apuntado como uno de los de mayor potencial de las formativas de V\u00e9\u2026 [+1606 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.491028",
+      "internal_id": "13f9618b9f34c00e6c39c4e43f2307b6c60645cce0e34091bbfb082c88a7bb47",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6143,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Esporte News Mundo",
+      "title": "Sem Payet, Vasco estreia na Copa do Brasil contra o Marc\u00edlio Dias",
+      "description": "O Cruzmaltino s\u00f3 precisa de um empate para passar de fase. Ao mesmo tempo, tenta apagar o trauma de 2023, quando caiu na segunda fase para o ABC-RN",
+      "url": "https://www.terra.com.br/esportes/vasco/sem-payet-vasco-estreia-na-copa-do-brasil-contra-o-marcilio-dias,7caeeb3e4a051edcfdd087f18bcf00b638thy842.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/27/1655534627-vasco-3.jpg",
+      "publishedAt": "2024-02-27 14:03:56",
+      "content": "Sem o craque e refer\u00eancia Payet, que est\u00e1 com \"quadro gripal\", sob suspeita de covid ou dengue, o Vasco desembarcou na noite desta segunda-feira (27), no munic\u00edpio de Itaja\u00ed, em Santa Catarina, onde \u2026 [+1094 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.535973",
+      "internal_id": "b40fcec81f4ed491d14eaecfb4e3bb57ca69b844f4a1a244ef224827d3c14b1f",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6141,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "AFP",
+      "title": "Per\u00fa declara estado de emergencia sanitaria por brote de dengue",
+      "description": "Seg\u00fan el ministerio de Salud entre enero y febrero se reportaron 31.364 casos y 32 fallecidos por esta enfermedad end\u00e9mica, en comparaci\u00f3n a los 12.264 casos y 18 fallecidos en el mismo per\u00edodo de 2023",
+      "url": "https://www.nacion.com/el-mundo/peru-declara-estado-de-emergencia-sanitaria-por/U76G2TXEEZGVVPMRTYL4VKI6CI/story/",
+      "urlToImage": "https://www.nacion.com/resizer/LdniS2CILRin6fUOQEAyaRhUPgE=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/NLM2CASCDNHTHLUMTX3WTQW6K4.jpg",
+      "publishedAt": "2024-02-27 14:00:00",
+      "content": "Lima. El gobierno peruano declarar\u00e1 a partir del martes el estado de emergencia sanitaria en 20 de sus 25 regiones por un fuerte brote de dengue, inform\u00f3 el lunes el jefe de gabinete.\"Ma\u00f1ana se va de\u2026 [+2262 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.510273",
+      "internal_id": "63b5bf909bdbdbbd408ee17835773caa3494f1f061b222de4eee903c90f22288",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6135,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalita Vasconcelos",
+      "title": "DF Legal aplica R$ 1,5 milh\u00e3o em multas em fiscaliza\u00e7\u00f5es contra dengue",
+      "description": "Valor foi aplicado em um m\u00eas de for\u00e7a-tarefa da pasta. Principal infra\u00e7\u00e3o \u00e9 o descarte irregular de lixo e entulho em \u00e1rea p\u00fablica",
+      "url": "https://www.metropoles.com/distrito-federal/df-legal-aplica-r-15-milhao-em-multas-em-fiscalizacoes-contra-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/27102224/Multa-DF-Legal-6.jpeg",
+      "publishedAt": "2024-02-27 13:45:27",
+      "content": "Um m\u00eas ap\u00f3s criar uma for\u00e7a-tarefa de combate \u00e0 dengue, a Secretaria do DF Legal aplicou R$ 1,5 milh\u00e3o em multas. Ao todo, j\u00e1 foram mais de 900 autua\u00e7\u00f5es em temas relacionados \u00e0 correta destina\u00e7\u00e3o de\u2026 [+3584 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.470318",
+      "internal_id": "e63b1bebe32e23b317110acc60722c6a4e1291d0bfbc40cbf453bcf7f47f098f",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6130,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Takeda firma parceria com f\u00e1brica indiana para aumentar produ\u00e7\u00e3o vacina da dengue",
+      "description": "ANA BOTTALLO S\u00c3O PAULO, SP (FOLHAPRESS) A farmac\u00eautica Takeda, respons\u00e1vel pela produ\u00e7\u00e3o da vacina Qdenga, contra a dengue, anunciou...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/takeda-firma-parceria-com-fabrica-indiana-para-aumentar-producao-vacina-da-dengue/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/23195709/mosquito-dengue-1.webp",
+      "publishedAt": "2024-02-27 13:40:34",
+      "content": "ANA BOTTALLO S\u00c3O PAULO, SP (FOLHAPRESS) A farmac\u00eautica Takeda, respons\u00e1vel pela produ\u00e7\u00e3o da vacina Qdenga, contra a dengue, anunciou na segunda-feira (26) uma parceria com a ind\u00fastria indiana BE (B\u2026 [+2046 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.412968",
+      "internal_id": "7f52ed97b5f1ee3c1b94e93d07611508e57ca438d4eabf12205cf41344fce909",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6129,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Rohamosan terjed a Dengue-l\u00e1z, v\u00e9szhelyzetet rendeltek el egy orsz\u00e1gban",
+      "description": "Peru korm\u00e1nya eg\u00e9szs\u00e9g\u00fcgyi v\u00e9szhelyzetet rendelt el, mivel a nagy meleg \u00e9s a heves es\u0151z\u00e9sek miatt rohamosan terjed a Dengue-l\u00e1zas megbeteged\u00e9sek sz\u00e1ma \u2013 \u00edrja a Reuters.",
+      "url": "https://www.portfolio.hu/global/20240227/rohamosan-terjed-a-dengue-laz-veszhelyzetet-rendeltek-el-egy-orszagban-671557",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/d/e/n/dengue-laz-szunyog-stock-660021.jpg",
+      "publishedAt": "2024-02-27 13:23:00",
+      "content": "Cesar Vasquez perui eg\u00e9szs\u00e9g\u00fcgyi miniszter szerint csak az idei \u00e9vben m\u00e1r 32-en vesztett\u00e9k \u00e9let\u00fcket a betegs\u00e9gben, \u00e9s 31 300 esetet regisztr\u00e1ltak. Vasquez szerint a Dengue-j\u00e1rv\u00e1ny k\u00fcsz\u00f6b\u00f6n \u00e1ll, ez\u00e9\u2026 [+706 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.403198",
+      "internal_id": "c879727b31f222f3e43b83027cad898b2bc2e5c17255cd9811a7c50b05ae9f7d",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6133,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Dengue: Takeda firma parceria para aumentar produ\u00e7\u00e3o de vacinas",
+      "description": "Doses fabricadas pela indiana Biological E. ser\u00e3o destinadas para apoiar os Programas Nacionais de Imuniza\u00e7\u00e3o de pa\u00edses end\u00e9micos \u00e0 dengue",
+      "url": "https://www.metropoles.com/saude/dengue-takeda-parceria-producao-vacinas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08161628/vacina-dengue-qdenga-2.jpeg",
+      "publishedAt": "2024-02-27 13:22:00",
+      "content": "O laborat\u00f3rio japon\u00eas Takeda informou, nesta ter\u00e7a-feira (27/2), que vai aumentar a produ\u00e7\u00e3o da vacina contra a dengue atrav\u00e9s de uma parceria com uma fabricante indiana de vacinas, a Biological E. \u2026 [+4809 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.434698",
+      "internal_id": "767cebc99cd177226f17447ef617057aae2dd9a0a1038aaf36c718f0a28fc236",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6115,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Lifestyle Desk",
+      "title": "Combatting Measles: Understanding the highly contagious virus and its impact on children",
+      "description": "Delving into the highly contagious nature and severe implications of measles, this article highlights the critical importance of vaccination and prompt pediatric intervention in preventing outbreaks and safeguarding children's health, especially amidst rising\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/combatting-measles-understanding-the-highly-contagious-virus-and-its-impact-on-children/articleshow/108047501.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108047502,width-1070,height-580,imgsize-57010,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-27 13:13:51",
+      "content": "Rihanna, Taylor Swift, Beyonce: Superstars who performed at private weddings",
+      "retrievedAt": "2024-02-28 19:05:32.504590",
+      "internal_id": "88b036506e69a861c2fe9a7fc9dde79fd41231cfebffd92b0c8d08bb9a23af57",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6112,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Matthew Impelli",
+      "title": "It's 'Crazy' to Not Get Vaccinated, Biden Official Says",
+      "description": "A Biden official hit back at Florida officials who have allowed unvaccinated kids to go to school during a measles outbreak.",
+      "url": "https://www.newsweek.com/its-crazy-not-get-vaccinated-biden-official-says-1873788",
+      "urlToImage": "https://d.newsweek.com/en/full/2354394/measles-vaccine-crazy-biden-official.jpg",
+      "publishedAt": "2024-02-27 12:51:18",
+      "content": "Department of Health and Human Services Secretary Xavier Becerra said on Tuesday that it's \"crazy\" to not get vaccinated against certain viruses amid an outbreak of measles in Florida. Becerra's com\u2026 [+2857 chars]",
+      "retrievedAt": "2024-02-28 19:05:32.488186",
+      "internal_id": "31e8b70116f6e238370985a43afa797b84464b70475e7702e491b37ff5543551",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6128,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Petru Mazilu",
+      "title": "Urgen\u0163\u0103 sanitar\u0103 \u00een Peru din cauza unui virus",
+      "description": "Autorit\u0103\u0163ile din Peru au declarat stare de urgen\u0163\u0103 sanitar\u0103 din cauza unui virus.",
+      "url": "https://www.mediafax.ro/externe/urgenta-sanitara-in-peru-din-cauza-unui-virus-22282395",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22282395/1/tantari-shutterstock.jpg?width=640",
+      "publishedAt": "2024-02-27 12:24:37",
+      "content": "Autoritile din Peru au declarat luni o urgen sanitar \u00een cea mai mare parte a rii, deoarece un val de cldur i ploile abundente au dus la o cretere a cazurilor de febr dengue. 20 din 25 de regiuni ale \u2026 [+1245 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.393315",
+      "internal_id": "d3b1f4c1c5a93d23fd878e4db3f396580584631afe36806232c7fbcb57399d00",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6122,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Il Per\u00f9 dichiara lo stato di emergenza sanitaria per la dengue",
+      "description": "Il numero di contagi \u00e8 cresciuto del 95% nel 2024 (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/02/27/il-peru-dichiara-lo-stato-di-emergenza-sanitaria-per-la-dengue_680c46a7-9c54-4cd6-913e-cd4eb4d04c88.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/8/16/448e87737d0f6d9c2985d492c38e87ca.jpg",
+      "publishedAt": "2024-02-27 12:03:22",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.346048",
+      "internal_id": "384209479ebc8f521e2e37c32ae535d677cddbdaa7d3f4a76ab22f36aebcb4b3",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6107,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Ivana Leskov\u00e1",
+      "title": "Epidemie \u010dern\u00e9ho ka\u0161le po\u0159\u00e1d s\u00edl\u00ed. Za t\u00fdden p\u0159ibylo 374 p\u0159\u00edpad\u016f",
+      "description": "P\u0159edpov\u011bdi epidemiolog\u016f, \u017ee \u010dern\u00fd ka\u0161el se letos bude \u0161\u00ed\u0159it \u010ceskem jako vich\u0159ice, se napl\u0148uj\u00ed st\u00e1le p\u0159esv\u011bd\u010div\u011bji. Jen za minul\u00fd t\u00fdden p\u0159ibylo 374 nemocn\u00fdch, co\u017e je nejv\u00edc od za\u010d\u00e1tku leto\u0161n\u00edho roku a t\u00e9m\u011b\u0159 tolik jako za cel\u00fd lo\u0148sk\u00fd rok. O dal\u0161\u00edch p\u0159itom l\u00e9ka\u0159\u2026",
+      "url": "https://www.idnes.cz/zpravy/domaci/cerny-kasel-epidemie-nemocne-deti.A240227_120119_domaci_dyn",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2022/12/LUH9826dd_shutterstock_1771084646.jpg",
+      "publishedAt": "2024-02-27 11:43:00",
+      "content": "Od za\u00e1tku leton\u00edho roku do nedle 25. \u00fanora bylo do informan\u00edho syst\u00e9mu infekn\u00edch nemoc\u00ed nahl\u00e1eno u 1 217 p\u00edpad pertuse, co je ern\u00fd kael zpsoben\u00fd bakteri\u00ed Bordetella pertussis. Loni jsme pitom za cel\u00fd\u2026 [+3212 chars]",
+      "retrievedAt": "2024-02-28 19:05:31.762484",
+      "internal_id": "02c037894c52d6da6b02d51c17011fe3231d66904e2b713277cdf825fd2983e6",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6123,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Nina Stefanovski",
+      "title": "Peru roept medische noodtoestand uit vanwege snelle verspreiding dengue-virus",
+      "description": "Knokkelkoorts: Peru kampt met een hevige dengue-uitbraak. De virusziekte heeft ruim 31.300 mensen besmet in het Zuid-Amerikaanse land.",
+      "url": "https://www.nrc.nl/nieuws/2024/02/27/peru-roept-medische-noodtoestand-uit-vanwege-snelle-verspreiding-dengue-virus-a4191386",
+      "urlToImage": "https://images.nrc.nl/0gMNrIBr9uUfnCjeBN1Sq6ZInIU=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2024/02/web-2802buidengue.jpg",
+      "publishedAt": "2024-02-27 11:08:51",
+      "content": "Een hittegolf en zware regenval hebben geleid tot een hevige dengue-uitbraak in Peru. Dat melden internationale persbureaus dinsdag. De Peruaanse overheid heeft daarom een medische noodtoestand uitge\u2026 [+1763 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.350747",
+      "internal_id": "2fdc27a7827356ec33bc00a9d33075f73d925e9d9bd0d963ac6386928b0a4961",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6126,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Reforma.com",
+      "author": "Natalia Vitela",
+      "title": "Repuntan 468% casos de dengue en M\u00e9xico",
+      "description": "En lo que va de 2024, M\u00e9xico registra 5 mil 439 casos de dengue, un aumento de 468%, respecto al mismo periodo del a\u00f1o anterior.",
+      "url": "https://www.reforma.com/aumenta-dengue-en-mexico-en-468/ar2763846",
+      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/670/5669619.jpg&wm=1&ang=0",
+      "publishedAt": "2024-02-27 11:01:04",
+      "content": "En lo que va de 2024, M\u00e9xico registra 5 mil 439 casos de dengue, un aumento de casi 568% con respecto al mismo periodo del a\u00f1o anterior. Cr\u00e9dito: Especial.",
+      "retrievedAt": "2024-02-28 19:05:33.370526",
+      "internal_id": "1fa007a594b438a911280281d8e842fa9946cc3635511225599219b90717343a",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6137,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Peru has declared a health emergency in most of its provinces as dengue cases soar",
+      "description": "Peru declared a health emergency due to rising dengue cases caused by El Nino. In 7 weeks, 31k cases reported, 2x 2023. Epidemic strained health system with 18 deaths in 2023, 32 in 2024. WHO links epidemic to rains, hot temps.",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/peru-has-declared-a-health-emergency-in-most-of-its-provinces-as-dengue-cases-soar/articleshow/108043477.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108043530,width-1070,height-580,imgsize-38660,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-27 10:57:13",
+      "content": "10 body language cues to know if someone is lying, as per psychology",
+      "retrievedAt": "2024-02-28 19:05:33.481004",
+      "internal_id": "a7246847aede45880c0c4c02f31efc91e931ba12bc92ca6be443ce2d84f7d032",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6114,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Measles: All You Need To Know About The MMR Vaccine",
+      "description": "Fever, dry cough, runny nose, sore throat, conjunctivitis and skin rash are a few common symptoms of measles.",
+      "url": "https://www.ndtv.com/health/measles-all-you-need-to-know-about-the-mmr-vaccine-5136710",
+      "urlToImage": "https://c.ndtvimg.com/2022-11/k7v6b44k_measles-vaccine-generic_625x300_23_November_22.jpg",
+      "publishedAt": "2024-02-27 10:05:09",
+      "content": "MMR stands for measles, mumps and rubella Measles is a highly contagious airborne disease that can lead to severe consequences and even death. It is caused by a virus that can spread easily if an in\u2026 [+2213 chars]",
+      "retrievedAt": "2024-02-28 19:05:32.499414",
+      "internal_id": "c2a4ace704df4dbe0b26c6c424e1bff3e740b616d3d501ea9789e3c155a544bb",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6116,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": null,
+      "title": "Public health experts raise the alarm in South Florida over a measles outbreak",
+      "description": "Florida is counting more cases of measles as the state's surgeon general defies federal guidelines and declines to urge people to vaccinate their children.",
+      "url": "https://www.npr.org/2024/02/27/1234114348/public-health-experts-raise-the-alarm-in-south-florida-over-a-measles-outbreak",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-02-27 10:03:19",
+      "content": "Florida is counting more cases of measles as the state's surgeon general defies federal guidelines and declines to urge people to vaccinate their children.",
+      "retrievedAt": "2024-02-28 19:05:32.510244",
+      "internal_id": "fb752360b006adc85ecf3efa6ecc26ac96e984016a799c19b8b4eaf17b59f34c",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6120,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "tagesschau.de",
+      "title": "Peru ruft wegen gestiegener Zahl von Dengue-Infektionen Gesundheitsnotstand aus",
+      "description": "Das Dengue-Virus wird durch M\u00fccken \u00fcbertragen und kommt vor allem in Tropen und Subtropen vor - wie in Peru. In dem s\u00fcdamerikanischen Land steigen die Infektionszahlen. Die Regierung ist besorgt.",
+      "url": "https://www.tagesschau.de/ausland/amerika/peru-dengue-notstand-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/fa8e042c-4e50-4cfb-b619-9a7c43710482/AAABjenb-z0/AAABjcWen7M/16x9-1280/peru-192.jpg",
+      "publishedAt": "2024-02-27 09:15:47",
+      "content": "Stand: 27.02.2024 10:15 Uhr Das Dengue-Virus wird durch M\u00fccken \u00fcbertragen und kommt vor allem in Tropen und Subtropen vor - wie in Peru. In dem s\u00fcdamerikanischen Land steigen die Infektionszahlen. D\u2026 [+1384 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.312366",
+      "internal_id": "0393a1d3772466a1bd0952fc08618cf7e8adacbda3d7b029c25ee5e7eff1c7a7",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6132,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Swati Bharadwaj",
+      "title": "Biological E to make 50 million doses of Takeda\u2019s dengue vaccine QDENGA",
+      "description": "Takeda and Biological E Limited have partnered to manufacture up to 50 million doses per year of the dengue vaccine QDENGA, with the goal of delivering 100 million doses by 2030. The collaboration aims to make the vaccine widely accessible and combat dengue o\u2026",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/biological-e-to-make-50-million-doses-of-takedas-dengue-vaccine-qdenga/articleshow/108038631.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108038982,width-1070,height-580,imgsize-511387,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-27 08:54:14",
+      "content": "FD Calculator When investing in a fixed deposit, the amount you deposit earns interest as per the prevailing... Calculate Now",
+      "retrievedAt": "2024-02-28 19:05:33.425248",
+      "internal_id": "29d54969c2f11edde9f91341da15402ae66bc19eaefa7fd63f0ba974786f22dd",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6150,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "danm@bt.dk (Daniel Martinsen)",
+      "title": "H\u00e5rde anklager mod dansk rigmand: Skyld i eskaleret malariasmitte",
+      "description": "\u00bb\u00c9n enkelt forretningsbeslutning truffet af en af \u200b\u200bverdens st\u00f8rste producenter af sengenet for mere end 10 \u00e5r siden har forv\u00e6rret situationen\u00ab",
+      "url": "https://www.bt.dk/udland/haarde-anklager-mod-dansk-rigmand-skyld-i-eskaleret-malariasmitte",
+      "urlToImage": "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/213/2130460/24646919-en-stor-stigningen-i-spredningen-af-malaria-i-sta.jpg",
+      "publishedAt": "2024-02-27 08:40:22",
+      "content": "De alvorlige anklager er haglet ned over den danske virksomhed Vestergaard og ikke mindst rigmanden Mikkel Vestergaard Frandsen. Selskabet kritiseres for at v\u00e6re skyld i, at antallet af malariatilf\u00e6\u2026 [+2860 chars]",
+      "retrievedAt": "2024-02-28 19:05:34.319900",
+      "internal_id": "34ff47852cb38e033e438c0282ec804fc5db6092fdd207ec2002553b6c90a51e",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6121,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Vitoria Lopes Gomez",
+      "title": "Como tecnologia est\u00e1 ajudando cidades do interior a combater a dengue",
+      "description": "Cidades interioranas est\u00e3o recorrendo a armadilhas e georreferenciamento para detectar focos da doen\u00e7a e atualizar casos O post Como tecnologia est\u00e1 ajudando cidades do interior a combater a dengue apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/27/medicina-e-saude/como-tecnologia-esta-ajudando-cidades-do-interior-a-combater-a-dengue/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue-e1699618484205-695x500.jpg",
+      "publishedAt": "2024-02-27 08:40:00",
+      "content": "O Brasil passa por surto de dengue logo nos primeiros meses do ano. Segundo dados do Minist\u00e9rio da Sa\u00fade, janeiro de 2024 registrou o triplo de casos em rela\u00e7\u00e3o ao mesmo m\u00eas em 2023, superando as 215\u2026 [+2742 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.329701",
+      "internal_id": "6626e25008b97a4bc58460c5b1cdbe720a197027f5e51e6020455b25ca53c3d7",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6131,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "FRANKLIN BRICE\u00d1O Associated Press",
+      "title": "Peru has declared a health emergency in most of its provinces as dengue cases soar",
+      "description": "Peru has declared a health emergency in most of its provinces due to a growing number of dengue cases that are occurring at a time of higher than usual temperatures caused by the El Nino weather pattern",
+      "url": "https://abcnews.go.com/Health/wireStory/peru-declared-health-emergency-provinces-dengue-cases-soar-107577464",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-02-27 08:05:59",
+      "content": "LIMA, Peru -- Peru declared a health emergency in most of its provinces on Monday due to a growing number of dengue cases that are occurring at a time of higher than usual temperatures caused by the \u2026 [+1298 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.417311",
+      "internal_id": "0cf0b5a535eefaded13f8757735edfff1a9f2820956fc53657354eef5b86d229",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6127,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (VOA News)",
+      "title": "Peru Declares Health Emergency Amid Rising Dengue Outbreak",
+      "description": "South American nation reports more than 31,000 cases of dengue in first two months of 2024, including 32 deaths.",
+      "url": "https://www.voanews.com/a/peru-declares-health-emergency-amid-rising-dengue-outbreak/7504067.html",
+      "urlToImage": "https://gdb.voanews.com/21A02A94-1C73-46A3-BFA6-013345BAD176.jpg",
+      "publishedAt": "2024-02-27 07:39:35",
+      "content": "Peru has declared a health emergency due to the rapidly rising cases of dengue fever across the South American country. Health Minister Cesar Vasquez said Monday that more than 31,000 cases of dengu\u2026 [+590 chars]",
+      "retrievedAt": "2024-02-28 19:05:33.377127",
+      "internal_id": "ca50b9a1189d8507b4896270e859a33c21ebe74f2cce43bd09c7c806de856579",
+      "publishedAtLabel": "Feb 27"
+    },
     {
       "id": 6106,
       "query": [
@@ -33495,42 +34306,6 @@
       "content": "Duas Unidades B\u00e1sicas de Sa\u00fade (UBSs) do Distrito Federal v\u00e3o ter atendimento aos s\u00e1bados e domingos, para ampliar o atendimento de pacientes durante a epidemia de dengue da capital. As UBSs 2 de Cei\u2026 [+1772 chars]",
       "retrievedAt": "2024-01-16 07:05:50.500575",
       "internal_id": "8ae01a0831c39b103597ba8b5ca1e3e18f70d99a27bfad151ef15d2aac1da013",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4247,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WTOP",
-      "author": "Dan Friedell",
-      "title": "Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News",
-      "description": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received a vaccine.",
-      "url": "https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHI4ZTltb2UwMDE5M2I2aDlpNzZsZDc0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscjhkdDZ0ejAwMngyNnAxZzJ4aTVuMHg-300.jpg",
-      "publishedAt": "2024-01-14 09:50:17",
-      "content": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received \u2026 [+1445 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.519753",
-      "internal_id": "e313437922b4c02fe598f825deadbd0f17267ea4011518a4985782c038bc044c",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4246,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "All dog-bite victims in Sarawak stable, says Health Ministry",
-      "description": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 14). Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/14/2490389.jpg",
-      "publishedAt": "2024-01-14 08:02:00",
-      "content": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 1\u2026 [+1887 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.219448",
-      "internal_id": "d25374de87f036ae424c49e35d95b3b162fef4eabef0bcd96613686060058c8e",
       "publishedAtLabel": "Jan 14"
     }
   ]

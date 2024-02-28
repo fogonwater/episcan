@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 53
-- **Last harvest:** 2024-02-28 07:06
-- **Most recent article:** 2024-02-27 06:41:57
+- **New articles in last harvest:** 45
+- **Last harvest:** 2024-02-28 19:05
+- **Most recent article:** 2024-02-27 18:13:28
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 56 | 1012 |
-| measles | 60 | 56 | 47 | 68 | 45 | 100 | 15 | 391 |
-| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 3 | 227 |
+| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 84 | 1040 |
+| measles | 59 | 56 | 47 | 68 | 45 | 100 | 27 | 402 |
+| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 7 | 231 |
 | zika | 8 | 7 | 8 | 13 | 6 | 13 | 2 | 57 |
-| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 1 | 55 |
-| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 3 | 45 |
+| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 2 | 56 |
+| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 3 | 44 |
 | mpox | 8 | 4 | 3 | 5 | 8 | 6 | 1 | 35 |
 | meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 1 | 34 |
 | sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 0 | 27 |
-| pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 2 | 20 |
+| pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 3 | 21 |
 | typhoid | 1 | 2 | 2 | 1 | 2 | 2 | 1 | 11 |
 | yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 1 | 8 |
 | leptospirosis | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 5 |
@@ -55,6 +55,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (pertussis)
 
+- [Epidemie černého kašle pořád sílí. Za týden přibylo 374 případů](https://www.idnes.cz/zpravy/domaci/cerny-kasel-epidemie-nemocne-deti.A240227_120119_domaci_dyn) (Idnes.cz)
+
 - [Whooping cough symptoms and the three phases of the contagious disease](https://www.nottinghampost.com/news/health/whooping-cough-symptoms-three-phases-9125382) (Nottinghamshire Live)
 
 - [Guidance: Pertussis: guidelines for public health management](https://www.gov.uk/government/publications/pertussis-guidelines-for-public-health-management) (Www.gov.uk)
@@ -68,6 +70,30 @@ Source: [News API](https://newsapi.org/)
 - [24-yr-old dies a day after testing positive for Covid](https://timesofindia.indiatimes.com/city/kolkata/24-year-old-dies-a-day-after-testing-positive-for-covid/articleshow/108027821.cms) (The Times of India)
 
 ## 24-9 (measles)
+
+- [What Florida is — and isn't — doing to curb the biggest measles outbreak in the U.S.](https://theweek.com/health/florida-curb-biggest-measles-outbreak) (The Week Magazine)
+
+- [How to check your measles vaccination status amid outbreak](https://www.popsci.com/health/check-measles-vaccination-status/) (Popular Science)
+
+- [Florida Has A Measles Outbreak. Here's What That Actually Means For You.](https://www.huffpost.com/entry/measles-outbreak-florida-vaccination-expert-advice_l_65dcd0b7e4b0e4346d534b86) (HuffPost)
+
+- [From COVID-19 to Measles, Florida’s War on Public Health](https://time.com/6835313/floridas-measles-covid-19-public-health/) (Time)
+
+- [With 10 measles cases in Florida, state health officials fail to provide info](http://www.sun-sentinel.com/2024/02/27/with-10-measles-cases-in-florida-state-health-officials-fail-to-provide-information/) (Sun Sentinel)
+
+- [Eight cases of measles in Greece, an increase is expected – Concern for a resurgence in Europe](https://en.protothema.gr/eight-cases-of-measles-in-greece-an-increase-is-expected-concern-for-a-resurgence-in-europe/) (Protothema.gr)
+
+- [Confirmed Measles Outbreak Reaches Disney Bubble](https://insidethemagic.net/2024/02/confirmed-measles-outbreak-reaches-disney-bubble-jnw1/) (Inside the Magic)
+
+- [An in-depth look at what's causing the measles to makes a comeback in the U.S.](https://www.cbsnews.com/video/an-in-depth-look-at-whats-causing-the-measles-to-makes-a-comeback-in-the-us/) (CBS News)
+
+- [Combatting Measles: Understanding the highly contagious virus and its impact on children](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/combatting-measles-understanding-the-highly-contagious-virus-and-its-impact-on-children/articleshow/108047501.cms) (The Times of India)
+
+- [It's 'Crazy' to Not Get Vaccinated, Biden Official Says](https://www.newsweek.com/its-crazy-not-get-vaccinated-biden-official-says-1873788) (Newsweek)
+
+- [Measles: All You Need To Know About The MMR Vaccine](https://www.ndtv.com/health/measles-all-you-need-to-know-about-the-mmr-vaccine-5136710) (NDTV News)
+
+- [Public health experts raise the alarm in South Florida over a measles outbreak](https://www.npr.org/2024/02/27/1234114348/public-health-experts-raise-the-alarm-in-south-florida-over-a-measles-outbreak) (NPR)
 
 - [Over 156,000 children in Lalitpur to receive measles-rubella vaccination](https://english.khabarhub.com/2024/27/342932/) (Khabarhub.com)
 
@@ -101,6 +127,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (malaria)
 
+- [First DNA study of ancient Eastern Arabians reveals malaria adaptation](https://www.sciencedaily.com/releases/2024/02/240227130823.htm) (Science Daily)
+
+- [First DNA study of ancient Eastern Arabians reveals protection against malaria](https://www.jpost.com/health-and-wellness/article-789234) (The Jerusalem Post)
+
+- [First DNA study of ancient Eastern Arabians reveals malaria adaptation](https://phys.org/news/2024-02-dna-ancient-eastern-arabians-reveals.html) (Phys.Org)
+
+- [Hårde anklager mod dansk rigmand: Skyld i eskaleret malariasmitte](https://www.bt.dk/udland/haarde-anklager-mod-dansk-rigmand-skyld-i-eskaleret-malariasmitte) (Www.bt.dk)
+
 - [Calcio: Fiorentina; Kouamé lascia l'ospedale e torna a casa](https://www.ansa.it/sito/notizie/sport/calcio/2024/02/25/calcio-fiorentina-kouame-lascia-lospedale-e-torna-a-casa_fbbb4cc8-cb31-455e-b813-db73d2da300e.html) (ANSA.it)
 
 - [Kouame con la malaria, il report della Fiorentina: "Dimesso dall'ospedale, sta migliorando"](https://www.tuttomercatoweb.com/serie-a/kouame-con-la-malaria-il-report-della-fiorentina-dimesso-dall-ospedale-sta-migliorando-1939399) (Tuttomercatoweb.com)
@@ -112,6 +146,62 @@ Source: [News API](https://newsapi.org/)
 - [Isolating and genotyping Leptospira bacteria for the first time in Austria](https://phys.org/news/2024-02-isolating-genotyping-leptospira-bacteria-austria.html) (Phys.Org)
 
 ## 24-9 (dengue)
+
+- [A doença confundida com dengue que é mais mortífera do que se imaginava](https://www.bbc.com/portuguese/articles/cg3kr44npkyo) (BBC News)
+
+- [Confira 6 mitos sobre a dengue que você não fazia ideia](https://www.metropoles.com/saude/6-mitos-sobre-a-dengue) (Metropoles.com)
+
+- [Il Perù ha dichiarato lo stato di emergenza sanitaria per l’epidemia di dengue: 18mila casi confermati e 32 morti](https://www.ilfattoquotidiano.it/2024/02/27/il-peru-ha-dichiarato-lo-stato-di-emergenza-sanitaria-per-lepidemia-di-dengue-18mila-casi-confermati-e-32-morti/7461448/) (Ilfattoquotidiano.it)
+
+- [O efeito mosquito](https://veja.abril.com.br/coluna/thomas-traumann/o-efeito-mosquito) (Abril.com.br)
+
+- [Dengue deve ter pico de casos até maio: como as empresas de saúde da Bolsa são afetadas?](https://www.infomoney.com.br/mercados/dengue-deve-ter-pico-de-casos-ate-maio-como-as-empresas-de-saude-da-bolsa-sao-afetadas/) (InfoMoney)
+
+- [Com agentes nas ruas, pesquisa e campanha de vacinação, Itaguaí reforça o combate à dengue](https://www.terra.com.br/noticias/brasil/com-agentes-nas-ruas-pesquisa-e-campanha-de-vacinacao-itaguai-reforca-o-combate-a-dengue,9e6449e9cb025abe5ef92126afcaa68037qo827y.html) (Terra.com.br)
+
+- [Dengue: Brasil se aproxima de 1 milhão de casos prováveis](https://saude.ig.com.br/2024-02-27/dengue--brasil-se-aproxima-de-1-milhao-de-casos-provaveis.html) (Ig.com.br)
+
+- [6 mitos sobre a dengue que você não fazia ideia](https://www.terra.com.br/vida-e-estilo/6-mitos-sobre-a-dengue-que-voce-nao-fazia-ideia,bf24652b5ed38d7d0bf7c367829a3ce9ciqa3ftj.html) (Terra.com.br)
+
+- [Tropenkrankheit: Dengue-Fieber breitet sich aus: Peru erklärt Gesundheitsnotstand](https://www.stern.de/gesundheit/dengue-fieber-breitet-sich-aus--peru-erklaert-gesundheitsnotstand-34497220.html) (STERN.de)
+
+- [Peru decreta estado de emergência sanitária por dengue](https://www.terra.com.br/noticias/mundo/peru-decreta-estado-de-emergencia-sanitaria-por-dengue,f8b34d044808d5c63019c4ae89a638d58mdfzvbx.html) (Terra.com.br)
+
+- [Usar repelente com frequência faz mal?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-27/usar-repelente-com-frequencia-faz-mal-.html) (Ig.com.br)
+
+- [Argentina: Falleció un jugador de Vélez Sarsfield de 14 años. No descartan dengue](https://www.montevideo.com.uy/Deportes/Argentina-Fallecio-un-jugador-de-Velez-Sarsfield-de-14-anos-No-descartan-dengue-uc880914) (Montevideo.com.uy)
+
+- [Sem Payet, Vasco estreia na Copa do Brasil contra o Marcílio Dias](https://www.terra.com.br/esportes/vasco/sem-payet-vasco-estreia-na-copa-do-brasil-contra-o-marcilio-dias,7caeeb3e4a051edcfdd087f18bcf00b638thy842.html) (Terra.com.br)
+
+- [Perú declara estado de emergencia sanitaria por brote de dengue](https://www.nacion.com/el-mundo/peru-declara-estado-de-emergencia-sanitaria-por/U76G2TXEEZGVVPMRTYL4VKI6CI/story/) (Nacion.com)
+
+- [DF Legal aplica R$ 1,5 milhão em multas em fiscalizações contra dengue](https://www.metropoles.com/distrito-federal/df-legal-aplica-r-15-milhao-em-multas-em-fiscalizacoes-contra-dengue) (Metropoles.com)
+
+- [Takeda firma parceria com fábrica indiana para aumentar produção vacina da dengue](https://jornaldebrasilia.com.br/noticias/brasil/takeda-firma-parceria-com-fabrica-indiana-para-aumentar-producao-vacina-da-dengue/) (Jornaldebrasilia.com.br)
+
+- [Rohamosan terjed a Dengue-láz, vészhelyzetet rendeltek el egy országban](https://www.portfolio.hu/global/20240227/rohamosan-terjed-a-dengue-laz-veszhelyzetet-rendeltek-el-egy-orszagban-671557) (Portfolio.hu)
+
+- [Dengue: Takeda firma parceria para aumentar produção de vacinas](https://www.metropoles.com/saude/dengue-takeda-parceria-producao-vacinas) (Metropoles.com)
+
+- [Urgenţă sanitară în Peru din cauza unui virus](https://www.mediafax.ro/externe/urgenta-sanitara-in-peru-din-cauza-unui-virus-22282395) (Mediafax.ro)
+
+- [Il Perù dichiara lo stato di emergenza sanitaria per la dengue](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/02/27/il-peru-dichiara-lo-stato-di-emergenza-sanitaria-per-la-dengue_680c46a7-9c54-4cd6-913e-cd4eb4d04c88.html) (ANSA.it)
+
+- [Peru roept medische noodtoestand uit vanwege snelle verspreiding dengue-virus](https://www.nrc.nl/nieuws/2024/02/27/peru-roept-medische-noodtoestand-uit-vanwege-snelle-verspreiding-dengue-virus-a4191386) (Www.nrc.nl)
+
+- [Repuntan 468% casos de dengue en México](https://www.reforma.com/aumenta-dengue-en-mexico-en-468/ar2763846) (Reforma.com)
+
+- [Peru has declared a health emergency in most of its provinces as dengue cases soar](https://timesofindia.indiatimes.com/world/rest-of-world/peru-has-declared-a-health-emergency-in-most-of-its-provinces-as-dengue-cases-soar/articleshow/108043477.cms) (The Times of India)
+
+- [Peru ruft wegen gestiegener Zahl von Dengue-Infektionen Gesundheitsnotstand aus](https://www.tagesschau.de/ausland/amerika/peru-dengue-notstand-100.html) (tagesschau.de)
+
+- [Biological E to make 50 million doses of Takeda’s dengue vaccine QDENGA](https://timesofindia.indiatimes.com/business/india-business/biological-e-to-make-50-million-doses-of-takedas-dengue-vaccine-qdenga/articleshow/108038631.cms) (The Times of India)
+
+- [Como tecnologia está ajudando cidades do interior a combater a dengue](https://olhardigital.com.br/2024/02/27/medicina-e-saude/como-tecnologia-esta-ajudando-cidades-do-interior-a-combater-a-dengue/) (Olhardigital.com.br)
+
+- [Peru has declared a health emergency in most of its provinces as dengue cases soar](https://abcnews.go.com/Health/wireStory/peru-declared-health-emergency-provinces-dengue-cases-soar-107577464) (ABC News)
+
+- [Peru Declares Health Emergency Amid Rising Dengue Outbreak](https://www.voanews.com/a/peru-declares-health-emergency-amid-rising-dengue-outbreak/7504067.html) (VOA News)
 
 - [Japan#39;s Takeda partners with India#39;s Biological E. to boost dengue vaccine production](https://www.moneycontrol.com/news/business/japans-takeda-partners-with-indias-biological-e-to-boost-dengue-vaccine-production-12359841.html) (Moneycontrol)
 
@@ -226,6 +316,8 @@ Source: [News API](https://newsapi.org/)
 - [DF tem maior número de casos e de mortes por dengue no país](https://saude.ig.com.br/2024-02-24/df-tem-maior-numero-de-casos-e-de-mortes-por-dengue-no-pais.html) (Ig.com.br)
 
 ## 24-9 (chikungunya)
+
+- [A doença confundida com dengue que é mais mortífera do que se imaginava](https://www.bbc.com/portuguese/articles/cg3kr44npkyo) (BBC News)
 
 - [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
 
@@ -3699,8 +3791,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health dept. confirms rabid coyote in Mount Pleasant; 1 person exposed](https://www.live5news.com/2024/01/17/health-dept-confirms-rabid-coyote-mount-pleasant-1-person-exposed/) (Live 5 News WCSC)
 
-- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
-
 ## 24-3 (pertussis)
 
 - [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
@@ -3864,8 +3954,6 @@ Source: [News API](https://newsapi.org/)
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
-
-- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 ## 24-3 (malaria)
 
