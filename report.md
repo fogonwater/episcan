@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 45
-- **Last harvest:** 2024-02-28 19:05
-- **Most recent article:** 2024-02-27 18:13:28
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-02-29 07:06
+- **Most recent article:** 2024-02-28 05:45:17
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 84 | 1040 |
-| measles | 59 | 56 | 47 | 68 | 45 | 100 | 27 | 402 |
-| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 7 | 231 |
-| zika | 8 | 7 | 8 | 13 | 6 | 13 | 2 | 57 |
-| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 2 | 56 |
-| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 3 | 44 |
+| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 98 | 1054 |
+| measles | 60 | 56 | 47 | 68 | 45 | 100 | 35 | 411 |
+| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 9 | 233 |
+| zika | 8 | 7 | 8 | 13 | 6 | 13 | 3 | 58 |
+| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 3 | 57 |
+| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 3 | 45 |
 | mpox | 8 | 4 | 3 | 5 | 8 | 6 | 1 | 35 |
 | meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 1 | 34 |
-| sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 0 | 27 |
+| sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 1 | 28 |
 | pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 3 | 21 |
 | typhoid | 1 | 2 | 2 | 1 | 2 | 2 | 1 | 11 |
 | yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 1 | 8 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (zika)
 
+- [Combate à dengue: 9 dicas de manutenção da casa para eliminar o mosquito!](https://casa.abril.com.br/minha-casa/combate-a-dengue-dicas-de-manutencao-da-casa/) (Abril.com.br)
+
 - [Sivrisineğe dronlu çözüm](https://www.hurriyet.com.tr/dunya/sivrisinege-dronlu-cozum-42410711) (Hurriyet.com.tr)
 
 - [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
@@ -44,6 +46,10 @@ Source: [News API](https://newsapi.org/)
 ## 24-9 (typhoid)
 
 - [Mapping the incidence rate of typhoid fever in sub-Saharan Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011902) (Plos.org)
+
+## 24-9 (sarampión)
+
+- [La Florida desafía a los CDC con recomendaciones sobre el sarampión](https://www.vozdeamerica.com/a/florida-desafia-cdc-recomendaciones-sarampion-/7504900.html) (Vozdeamerica.com)
 
 ## 24-9 (rabies)
 
@@ -70,6 +76,22 @@ Source: [News API](https://newsapi.org/)
 - [24-yr-old dies a day after testing positive for Covid](https://timesofindia.indiatimes.com/city/kolkata/24-year-old-dies-a-day-after-testing-positive-for-covid/articleshow/108027821.cms) (The Times of India)
 
 ## 24-9 (measles)
+
+- [Philadelphia Department of Public Health announces end to measles outbreak](https://6abc.com/measles-outbreak-philadelphia-department-of-public-health-vaccines-hospital/14474515/) (WPVI-TV)
+
+- [Measles outbreaks: unvaccinated people face three-week stay at home after being in creche, school or hospital](https://www.independent.ie/irish-news/measles-outbreaks-unvaccinated-people-face-three-week-stay-at-home-after-being-in-creche-school-or-hospital/a95696548.html) (Independent.ie)
+
+- [Additional measles case reported at Florida elementary school as lawmaker urges public health emergency | CNN](https://www.cnn.com/2024/02/27/health/florida-measles-outbreak/index.html) (CNN)
+
+- [Guilford County health leaders investigate possible measles case](https://myfox8.com/news/health/guilford-county-health-leaders-investigate-possible-measles-case/) (WGHP FOX 8 Greensboro)
+
+- [There Are Now 10 Measles Cases Detected in 2 Florida Counties](https://www.theepochtimes.com/health/there-are-now-10-measles-cases-detected-in-2-florida-counties-5596127) (Theepochtimes.com)
+
+- [7th measles case confirmed in outbreak linked to Florida elementary school](https://abcnews.go.com/Health/7th-measles-case-confirmed-outbreak-linked-florida-elementary/story?id=107605078) (ABC News)
+
+- [Florida's response to a measles outbreak endangers children, experts say](https://www.npr.org/2024/02/27/1234271427/florida-s-response-to-a-measles-outbreak-endangers-children-experts-say) (NPR)
+
+- [Column: As measles spreads, 'herd stupidity' grips Florida's government](https://www.latimes.com/business/story/2024-02-27/as-measles-spreads-herd-stupidity-grips-floridas-government) (Los Angeles Times)
 
 - [What Florida is — and isn't — doing to curb the biggest measles outbreak in the U.S.](https://theweek.com/health/florida-curb-biggest-measles-outbreak) (The Week Magazine)
 
@@ -127,6 +149,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (malaria)
 
+- [Blocking fertilization of parasite-causing malaria opens new doors in eradication efforts](https://phys.org/news/2024-02-blocking-fertilization-parasite-malaria-doors.html) (Phys.Org)
+
+- [Ancient Humans May Have Built a Resistance to Malaria](https://www.discovermagazine.com/the-sciences/ancient-humans-may-have-built-a-resistance-to-malaria) (Discover Magazine)
+
 - [First DNA study of ancient Eastern Arabians reveals malaria adaptation](https://www.sciencedaily.com/releases/2024/02/240227130823.htm) (Science Daily)
 
 - [First DNA study of ancient Eastern Arabians reveals protection against malaria](https://www.jpost.com/health-and-wellness/article-789234) (The Jerusalem Post)
@@ -146,6 +172,34 @@ Source: [News API](https://newsapi.org/)
 - [Isolating and genotyping Leptospira bacteria for the first time in Austria](https://phys.org/news/2024-02-isolating-genotyping-leptospira-bacteria-austria.html) (Phys.Org)
 
 ## 24-9 (dengue)
+
+- [Quase 30% das mortes por dengue no país foram registradas no DF](https://www.metropoles.com/distrito-federal/quase-30-das-mortes-por-dengue-no-pais-foram-registradas-no-df) (Metropoles.com)
+
+- [Nicolás Kreplak dijo que la Argentina atraviesa “la epidemia de dengue más grande de su historia”](https://www.lanacion.com.ar/sociedad/nicolas-kreplak-dijo-que-la-argentina-atraviesa-la-epidemia-de-dengue-mas-grande-de-su-historia-nid27022024/) (La Nacion)
+
+- [Dengue, in Brasile si sfiora un milione di contagi](https://www.ansa.it/sito/notizie/topnews/2024/02/28/dengue-in-brasile-si-sfiora-un-milione-di-contagi_7bb5ac4c-6454-4dfa-a769-b988274e87df.html) (ANSA.it)
+
+- [Seis estados e DF já decretaram emergência devido à dengue; país terá 'Dia D' no sábado](https://valor.globo.com/brasil/noticia/2024/02/27/seis-estados-e-df-ja-decretaram-emergencia-devido-a-dengue-pais-tera-dia-d-no-sabado.ghtml) (Globo)
+
+- [Dengue põe DF, 154 cidades e 6 estados em emergência](https://jornaldebrasilia.com.br/noticias/brasil/dengue-poe-df-154-cidades-e-6-estados-em-emergencia/) (Jornaldebrasilia.com.br)
+
+- [Dengue: Seis estados e DF têm emergência; governo Lula fará 'Dia D'](https://saude.ig.com.br/2024-02-27/dengue-emergencia-dia-d.html) (Ig.com.br)
+
+- [Alta em casos de dengue tem relação com mudanças climáticas, diz Nísia](https://www.metropoles.com/brasil/alta-em-casos-de-dengue-tem-relacao-com-mudancas-climaticas-diz-nisia) (Metropoles.com)
+
+- [Campinas confirma 1ª morte por dengue em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/27/campinas-confirma-1a-morte-por-dengue-em-2024.ghtml) (Globo)
+
+- [Dengue: Saúde avalia que 2024 registrará o dobro dos casos de 2023](https://www.metropoles.com/brasil/dengue-saude-avalia-que-2024-registrara-o-dobro-dos-casos-de-2023) (Metropoles.com)
+
+- [Dengue: trabalhador afastado há mais de 15 dias pode receber auxílio do INSS](https://www.amodireito.com.br/2024/02/dengue-trabalhador-afastado-auxilio-inss.html) (Amodireito.com.br)
+
+- [SP tem mais de 100 mil casos de dengue e 2 novas mortes confirmadas](https://www.metropoles.com/sao-paulo/sp-tem-mais-de-100-mil-casos-de-dengue-e-2-novas-mortes-confirmadas) (Metropoles.com)
+
+- [Japan's Takeda in regulatory talks to launch dengue vaccine in India](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/japans-takeda-in-regulatory-talks-to-launch-dengue-vaccine-in-india/articleshow/108052844.cms) (The Times of India)
+
+- [Dengue: estado de SP atinge mais de 104 mil casos confirmados em 2024](https://saude.ig.com.br/2024-02-27/dengue--estado-de-sp-atinge-mais-de-104-mil-casos-confirmados-em-2024.html) (Ig.com.br)
+
+- [Dengue: 2024 já alcançou metade do total de casos do ano passado](https://saude.ig.com.br/2024-02-27/dengue--2024-ja-registrou-50--do-total-de-casos-confirmados-ano-passado.html) (Ig.com.br)
 
 - [A doença confundida com dengue que é mais mortífera do que se imaginava](https://www.bbc.com/portuguese/articles/cg3kr44npkyo) (BBC News)
 
@@ -316,6 +370,8 @@ Source: [News API](https://newsapi.org/)
 - [DF tem maior número de casos e de mortes por dengue no país](https://saude.ig.com.br/2024-02-24/df-tem-maior-numero-de-casos-e-de-mortes-por-dengue-no-pais.html) (Ig.com.br)
 
 ## 24-9 (chikungunya)
+
+- [Combate à dengue: 9 dicas de manutenção da casa para eliminar o mosquito!](https://casa.abril.com.br/minha-casa/combate-a-dengue-dicas-de-manutencao-da-casa/) (Abril.com.br)
 
 - [A doença confundida com dengue que é mais mortífera do que se imaginava](https://www.bbc.com/portuguese/articles/cg3kr44npkyo) (BBC News)
 
@@ -3791,6 +3847,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Health dept. confirms rabid coyote in Mount Pleasant; 1 person exposed](https://www.live5news.com/2024/01/17/health-dept-confirms-rabid-coyote-mount-pleasant-1-person-exposed/) (Live 5 News WCSC)
 
+- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
+
 ## 24-3 (pertussis)
 
 - [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
@@ -3954,6 +4012,8 @@ Source: [News API](https://newsapi.org/)
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
+
+- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 ## 24-3 (malaria)
 

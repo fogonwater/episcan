@@ -1,8 +1,477 @@
 {
-  "last_updated": "2024-02-28 19:05",
-  "count_articles_total": 1902,
-  "count_articles_new": 45,
+  "last_updated": "2024-02-29 07:06",
+  "count_articles_total": 1930,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 6164,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Quase 30% das mortes por dengue no pa\u00eds foram registradas no DF",
+      "description": "At\u00e9 essa ter\u00e7a-feira (27/2), o Brasil havia registrado 195 mortes por dengue. Dessas, 55 foram notificadas no DF",
+      "url": "https://www.metropoles.com/distrito-federal/quase-30-das-mortes-por-dengue-no-pais-foram-registradas-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/31134645/visita-dengue-df.jpeg",
+      "publishedAt": "2024-02-28 05:45:17",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.070492",
+      "internal_id": "1064e02dafd53500539d32d9d11214350ae46ba842491c42fa2436d22710fa6e",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6155,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "6abc Digital Staff",
+      "title": "Philadelphia Department of Public Health announces end to measles outbreak",
+      "description": "With 93% of Philadelphians being up-to-date on the MMR vaccine, the department said the outbreak did not spread far.",
+      "url": "https://6abc.com/measles-outbreak-philadelphia-department-of-public-health-vaccines-hospital/14474515/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14373322_013024-wpvi-measles-folo-430-video-vid.jpg?w=1600",
+      "publishedAt": "2024-02-28 03:40:46",
+      "content": "PHILADELPHIA (WPVI) -- The Philadelphia Department of Public Health announced that the recent measles outbreak is officially over. Tuesday's announcement came after 42 days of no new cases being ide\u2026 [+1231 chars]",
+      "retrievedAt": "2024-02-29 07:06:06.054928",
+      "internal_id": "0326809b42a2b0818b2425ca7ff48608295ad818c358f487dc099669957bd17e",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6153,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Measles outbreaks: unvaccinated people face three-week stay at home after being in creche, school or hospital",
+      "description": "Some unvaccinated people who have been exposed to measles have to stay away from schools, childcare facilities and hospitals under new guidance.",
+      "url": "https://www.independent.ie/irish-news/measles-outbreaks-unvaccinated-people-face-three-week-stay-at-home-after-being-in-creche-school-or-hospital/a95696548.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/rOUD5jWCZIEznVqbdF8OrygumtQ=/60x0:735x450/629x0/prod-mh-ireland/3d9f0bc9-7c64-443a-8c1a-3f44301f4e9a/93d35931-b461-4bcb-9964-36cb5a4bd9e1/video/video.jpg",
+      "publishedAt": "2024-02-28 02:30:00",
+      "content": "Some unvaccinated people who have been exposed to measles have to stay away from schools, childcare facilities and hospitals under new guidance.It comes as 11 possible cases of \u00admeasles were reported\u2026 [+2695 chars]",
+      "retrievedAt": "2024-02-29 07:06:06.008162",
+      "internal_id": "7726616d9d9aa5c328f11cab46e803b53f6d6809ac3d747923132384f641a6d7",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6156,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Amanda Musa",
+      "title": "Additional measles case reported at Florida elementary school as lawmaker urges public health emergency | CNN",
+      "description": "Seven measles cases have now been linked to an outbreak at Manatee Bay Elementary School in Weston, Florida, the Broward County schools superintendent said Tuesday. The Florida Department of Health is reporting 10 cases statewide.",
+      "url": "https://www.cnn.com/2024/02/27/health/florida-measles-outbreak/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sipausa-51497738.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-02-28 02:01:35",
+      "content": "Seven measles cases have now been linked to an outbreak at Manatee Bay Elementary in Weston, Florida, the Broward County schools superintendent said Tuesday. The Florida Department of Health is repor\u2026 [+5297 chars]",
+      "retrievedAt": "2024-02-29 07:06:06.067750",
+      "internal_id": "4f086032110054105cac90c60d41f1be93a1f96c24005c0f0de080fce763a0eb",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6172,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Nicol\u00e1s Kreplak dijo que la Argentina atraviesa \u201cla epidemia de dengue m\u00e1s grande de su historia\u201d",
+      "description": "Hay 26 municipios con brote de dengue, hoy se confirm\u00f3 que La Plata es uno de ellos con 103 casos, 18 de ellos aut\u00f3ctonos",
+      "url": "https://www.lanacion.com.ar/sociedad/nicolas-kreplak-dijo-que-la-argentina-atraviesa-la-epidemia-de-dengue-mas-grande-de-su-historia-nid27022024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/dengu-6MBAY2XV45EQFB2VX6RGMTFLSQ.jpeg?auth=6c9d144ab8824b4d4e7a78c1976b3992eb37c6da43d7cc7546c8e37c1ddf7c06&width=768&quality=70&smart=false",
+      "publishedAt": "2024-02-28 00:12:13",
+      "content": "Hace pocos d\u00edas, el ministro de Salud de la provincia de Buenos Aires, Nicol\u00e1s Kreplak, asever\u00f3 que la Argentina est\u00e1 atravesando la epidemia de dengue m\u00e1s grande de su historia. El sanitarista bonae\u2026 [+4228 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.229132",
+      "internal_id": "0a056e8b7c4e6f1003d7be814d0da1a5a4a10b740dc654da82365e688a55d337",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6159,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WGHP FOX 8 Greensboro",
+      "author": "Dolan Reynolds",
+      "title": "Guilford County health leaders investigate possible measles case",
+      "description": "GUILFORD COUNTY, N.C. (WGHP) \u2014 Guilford County health leaders are looking into a possible case of measles. FOX8 is told the possible case involves an adult. Measles is a highly-contagious and serious airborne viral disease that causes fever and rash. As of la\u2026",
+      "url": "https://myfox8.com/news/health/guilford-county-health-leaders-investigate-possible-measles-case/",
+      "urlToImage": "https://myfox8.com/wp-content/uploads/sites/17/2024/01/65a98cbdcf90a5.97242472.jpeg?w=1280",
+      "publishedAt": "2024-02-28 00:11:52",
+      "content": "GUILFORD COUNTY, N.C. (WGHP) \u2014 Guilford County health leaders are looking into a possible case of measles. FOX8 is told the possible case involves an adult. Measles is a highly-contagious and ser\u2026 [+617 chars]",
+      "retrievedAt": "2024-02-29 07:06:06.108331",
+      "internal_id": "bd50126adb0cbb578f335679bfda76358538ca6cf484982488908e9d5b34a913",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6158,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Theepochtimes.com",
+      "author": "Patricia Tolson",
+      "title": "There Are Now 10 Measles Cases Detected in 2 Florida Counties",
+      "description": "There Are Now 10 Measles Cases Detected in 2 Florida Countiestheepochtimes.com",
+      "url": "https://www.theepochtimes.com/health/there-are-now-10-measles-cases-detected-in-2-florida-counties-5596127",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2022/03/07/ladapo-700x420.jpg",
+      "publishedAt": "2024-02-28 00:11:18",
+      "content": "According to the Florida Department of Health, the number of confirmed measles cases in the Sunshine State has risen to 10, and the infections have been detected in two counties. Nine of the cases h\u2026 [+4576 chars]",
+      "retrievedAt": "2024-02-29 07:06:06.088219",
+      "internal_id": "d1efc6684d38d290c5967a939a3a2d915f53b0f28c9597ef137a6f4735bddacf",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6162,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue, in Brasile si sfiora un milione di contagi",
+      "description": "Nei primi due mesi dell'anno il Brasile sfiora gi\u00e0 un milione di contagi da febbre dengue. Lo riferisce il ministero della Salute, secondo cui alla data del 27 febbraio i casi confermati della malattia sono 973.347. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2024/02/28/dengue-in-brasile-si-sfiora-un-milione-di-contagi_7bb5ac4c-6454-4dfa-a769-b988274e87df.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/2/22/084a5afdd29fd53790290941d5517ffc.jpg",
+      "publishedAt": "2024-02-27 23:48:32",
+      "content": "Nei primi due mesi dell'anno il Brasile sfiora gi\u00e0 un milione di contagi da febbre dengue. Lo riferisce il ministero della Salute, secondo cui alla data del 27 febbraio i casi confermati della mal\u2026 [+1566 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.050948",
+      "internal_id": "47b64fd4ed125f66ffda8fbe4e9feae5cb57e5d36aeef5d28bec61b777c630d6",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6161,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Seis estados e DF j\u00e1 decretaram emerg\u00eancia devido \u00e0 dengue; pa\u00eds ter\u00e1 'Dia D' no s\u00e1bado",
+      "description": "Al\u00e9m disso, 154 munic\u00edpios tamb\u00e9m publicaram decretos devido \u00e0 alta de casos da doen\u00e7a; nas 8 primeiras semanas de 2024, 195 pessoas morreram pela doen\u00e7a",
+      "url": "https://valor.globo.com/brasil/noticia/2024/02/27/seis-estados-e-df-ja-decretaram-emergencia-devido-a-dengue-pais-tera-dia-d-no-sabado.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/Eu6CcviNM2XS5iRRDk9unb1VGE0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/U/1/huaqwQSVKP23vvGGSXRg/dengue18.jpg",
+      "publishedAt": "2024-02-27 22:36:00",
+      "content": "Seis estados e o Distrito Federal j\u00e1 decretaram emerg\u00eancia por conta da dengue.Minist\u00e9rio da Sa\u00fade organiza 'Dia D' para o pr\u00f3ximo dia 2 de mar\u00e7o. Acre, Minas Gerais, Distrito Federal, Goi\u00e1s, Esp\u00edrit\u2026 [+1732 chars]",
+      "retrievedAt": "2024-02-29 07:06:06.987486",
+      "internal_id": "4759a148a14bddb6f9000d53ec166a17e22aa7d1823edecaddbf1f5501557939",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6157,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "7th measles case confirmed in outbreak linked to Florida elementary school",
+      "description": "7th measles case confirmed in outbreak linked to Florida elementary schoolgo.com",
+      "url": "https://abcnews.go.com/Health/7th-measles-case-confirmed-outbreak-linked-florida-elementary/story?id=107605078",
+      "urlToImage": "https://i.abcnewsfe.com/a/31123487-c971-4c00-a1a7-969ed59f6115/measles-vaccine-gty-lv-240227_1709064724903_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-02-27 22:07:22",
+      "content": "The seventh case of measles linked to an outbreak at a Florida elementary school was confirmed by Health officials Tuesday. Broward County Public Schools (BCPS) said it was informed by the Florida D\u2026 [+2304 chars]",
+      "retrievedAt": "2024-02-29 07:06:06.078178",
+      "internal_id": "3df782705b31c829bb19e9d944f3c5c60261305882441c396d009b8437e3d1d8",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6165,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Dengue p\u00f5e DF, 154 cidades e 6 estados em emerg\u00eancia",
+      "description": "S\u00e3o Paulo, 27 - O Brasil ultrapassou 970 mil casos prov\u00e1veis de dengue, conforme o Minist\u00e9rio da Sa\u00fade. Os dados v\u00e3o at\u00e9 a semana...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/dengue-poe-df-154-cidades-e-6-estados-em-emergencia/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/27101303/mosquito-da-dengue.jpg",
+      "publishedAt": "2024-02-27 22:04:34",
+      "content": "S\u00e3o Paulo, 27 \u2013 O Brasil ultrapassou 970 mil casos prov\u00e1veis de dengue, conforme o Minist\u00e9rio da Sa\u00fade. Os dados v\u00e3o at\u00e9 a semana epidemiol\u00f3gica 8, encerrada no s\u00e1bado, 24, e foram anunciados ontem. \u2026 [+1649 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.075125",
+      "internal_id": "abee42bfd2efe68ec45c225349e00f914c5ea9cbcde39590e91771a3e01a6cc0",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6177,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Casa.com",
+      "title": "Combate \u00e0 dengue: 9 dicas de manuten\u00e7\u00e3o da casa para eliminar o mosquito!",
+      "description": "Com a alta de casos de dengue no pa\u00eds, \u00e9 preciso ficar atento \u00e0 detalhes na casa que podem se tornar criadouros do mosquito Aedes aegypti.",
+      "url": "https://casa.abril.com.br/minha-casa/combate-a-dengue-dicas-de-manutencao-da-casa/",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/27/861177708-casa-integrada-jardim-painel-azulejos-alexandre-mancini-rogerio-da-fonseca-29.jpg",
+      "publishedAt": "2024-02-27 22:04:18",
+      "content": "O Brasil enfrenta graves problemas com uma nova prolifera\u00e7\u00e3o de mosquitos, incluindo o Aedes aegypti, transmissor da dengue, chikungunya e zika. Segundo dados disponibilizados pelo Minist\u00e9rio da Sa\u00fad\u2026 [+2150 chars]",
+      "retrievedAt": "2024-02-29 07:06:08.513101",
+      "internal_id": "92bd9fa4e0a287155004574c8a81e7681c2b9dc3740240b9ec6f7592e1e1ea65",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6170,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Naian Lucas Lopes, Naian Lucas Lopes",
+      "title": "Dengue: Seis estados e DF t\u00eam emerg\u00eancia; governo Lula far\u00e1 'Dia D'",
+      "description": "Acre, Goi\u00e1s, Minas Gerais, Esp\u00edrito Santo, Rio de Janeiro, Santa Catarina e o Distrito Federal est\u00e3o lidando com um aumento alarmante de casos da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-02-27/dengue-emergencia-dia-d.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-02-27 22:00:33",
+      "content": "O Minist\u00e9rio da Sa\u00fade lan\u00e7ou um alerta nesta ter\u00e7a-feira (27) ao informar que seis estados brasileiros e o Distrito Federal est\u00e3o enfrentando uma s\u00e9ria emerg\u00eancia em sa\u00fade p\u00fablica devido \u00e0 propaga\u00e7\u00e3o\u2026 [+1405 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.166707",
+      "internal_id": "ccc38814bdd2a47f9809e7c7674ad6724be074d687b394a7539b1ad6d105e2a6",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6163,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mateus Salom\u00e3o",
+      "title": "Alta em casos de dengue tem rela\u00e7\u00e3o com mudan\u00e7as clim\u00e1ticas, diz N\u00edsia",
+      "description": "Segundo a ministra, o incremento no n\u00famero de casos de dengue tem, entre outros fatores, rela\u00e7\u00e3o com a plorifera\u00e7\u00e3o do vetor",
+      "url": "https://www.metropoles.com/brasil/alta-em-casos-de-dengue-tem-relacao-com-mudancas-climaticas-diz-nisia",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/30113306/Ministra-da-Saude-Nisia-Trindade-1-1200x800.jpg",
+      "publishedAt": "2024-02-27 21:56:04",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, explicou, nesta ter\u00e7a-feira (27/2), que o aumento no n\u00famero de casos de dengue no Brasil tem rela\u00e7\u00e3o com as mudan\u00e7as clim\u00e1ticas. Segundo ela, essa \u00e9 uma das raz\u00f5e\u2026 [+1990 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.061758",
+      "internal_id": "ebc1128d41bb54a0a0fd3fb6b37681ca79f63b8e8b425c7498cd9244ef26e57e",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6173,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas confirma 1\u00aa morte por dengue em 2024",
+      "description": "V\u00edtima era uma mulher de 94 anos, que morava no Jd. Eulina, regi\u00e3o de maior incid\u00eancia de casos em 2024. Metr\u00f3pole j\u00e1 registrou 8,5 mil infectados. Aedes aegypti, mosquito transmissor do v\u00edrus da dengue Reprodu\u00e7\u00e3o/EPTV Campinas (SP) confirmou nesta ter\u00e7a-feir\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/27/campinas-confirma-1a-morte-por-dengue-em-2024.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/D91lVDz2UOuoKmUA7XjMswQvox8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/9/ZXEUPfQHO78slTEX68Qw/capturar3.jpg",
+      "publishedAt": "2024-02-27 21:49:01",
+      "content": "De acordo com a Secretaria de Sa\u00fade, a v\u00edtima iniciou sintomas em 30 de janeiro e foi atendida na rede privada, sendo que veio a \u00f3bito no dia 12 de fevereiro. Foi confirmada infec\u00e7\u00e3o pelo sorotipo 1.\u2026 [+4838 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.239520",
+      "internal_id": "e97690f24e4191f02bf42870a676bc9f3b569f9d84dbd6c6fba7490fbaa92625",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6175,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Blocking fertilization of parasite-causing malaria opens new doors in eradication efforts",
+      "description": "More than 400 people develop malaria every minute, and it can be fatal if not diagnosed and treated at the first sign of symptoms. Eliminating the disease will require interventions that stop the transmission of the parasite from mosquitoes to humans.",
+      "url": "https://phys.org/news/2024-02-blocking-fertilization-parasite-malaria-doors.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/mosquito-3.jpg",
+      "publishedAt": "2024-02-27 21:39:03",
+      "content": "More than 400 people develop malaria every minute, and it can be fatal if not diagnosed and treated at the first sign of symptoms. Eliminating the disease will require interventions that stop the tra\u2026 [+2595 chars]",
+      "retrievedAt": "2024-02-29 07:06:08.067853",
+      "internal_id": "c5dfe96646bbfa5e96b73bcf6692e7cbc657452fcaa50cc195a81f3369ef540f",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6176,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Discover Magazine",
+      "author": "Elizabeth Gamillo",
+      "title": "Ancient Humans May Have Built a Resistance to Malaria",
+      "description": "A mutation in DNA against malaria likely occurred when farming became common in the Eastern Arabia region.",
+      "url": "https://www.discovermagazine.com/the-sciences/ancient-humans-may-have-built-a-resistance-to-malaria",
+      "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/5MFqv6SiKL95KERFqeAZ3X/9e15279ad9dbaa93aef35244f3262a3d/shutterstock_1438793243.jpg",
+      "publishedAt": "2024-02-27 21:30:00",
+      "content": "A mosquito-borne parasite, Plasmodium malariae causes malaria a disease responsible for at least 608,000 deaths and 249 million cases in 2022, according to the World Health Organization. Malaria usua\u2026 [+3255 chars]",
+      "retrievedAt": "2024-02-29 07:06:08.094419",
+      "internal_id": "b19a1936259090b19525f2e50d00638de002e5ee164d9945163857125a966d39",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6166,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mateus Salom\u00e3o",
+      "title": "Dengue: Sa\u00fade avalia que 2024 registrar\u00e1 o dobro dos casos de 2023",
+      "description": "O pa\u00eds registrou 973 mil casos prov\u00e1veis de dengue somente entre janeiro e fevereiro deste ano. No ano passado foram 1,6 milh\u00e3o",
+      "url": "https://www.metropoles.com/brasil/dengue-saude-avalia-que-2024-registrara-o-dobro-dos-casos-de-2023",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2024-02-27 21:24:18",
+      "content": "O Minist\u00e9rio da Sa\u00fade avalia que, neste ano, o Brasil resgistrar\u00e1 o dobro do n\u00famero de casos de dengue de 2023. A informa\u00e7\u00e3o foi divulgada pela ministra da Sa\u00fade, N\u00edsia Trindade, em coletiva de impre\u2026 [+1559 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.080209",
+      "internal_id": "48222641611925ee621248435073857b8c0bdf686ddee42984505743742ff16c",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6154,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "",
+      "title": "Florida's response to a measles outbreak endangers children, experts say",
+      "description": "A measles outbreak in a Florida elementary school flummoxes public health experts, who say the state surgeon general's response contradicts established public health measures to contain the virus.",
+      "url": "https://www.npr.org/2024/02/27/1234271427/florida-s-response-to-a-measles-outbreak-endangers-children-experts-say",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-02-27 21:21:05",
+      "content": "A measles outbreak in a Florida elementary school flummoxes public health experts, who say the state surgeon general's response contradicts established public health measures to contain the virus.",
+      "retrievedAt": "2024-02-29 07:06:06.025960",
+      "internal_id": "12b4feee74ce651ad07ac8c8f26e382143f6ff1e799786dcfd9d363a4c3f3eb9",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6174,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Amodireito.com.br",
+      "author": "amoDireito.com.br",
+      "title": "Dengue: trabalhador afastado h\u00e1 mais de 15 dias pode receber aux\u00edlio do INSS",
+      "description": "Um atestado m\u00e9dico \u00e9 fornecido por mais de sete dias em casos...",
+      "url": "https://www.amodireito.com.br/2024/02/dengue-trabalhador-afastado-auxilio-inss.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93AGn-9HuftHAssEkAFPzUnXN4xCSjlqXbkW93zyfXPDEZmmPp6F4SOEMM0avSgAqeCSKLvIBnRi92SAmF0cHd58-JwDoUpQRaq4O4HNk6JdaM-NHk-xZFg-7zjshnqDWRGacXoOqccRtuKuXK37_Mhr9dE5TA-gXwP2wMO_rdEnZRfeROQ29U34N0Nw/s16000/dengue-trabalhador-afastado-auxilio-inss.jpg",
+      "publishedAt": "2024-02-27 21:10:00",
+      "content": "Via @maisgoias | Com quase 30 mil casos confirmados de dengue em Goi\u00e1s em 2024, segundo dados da Secretaria Estadual de Sa\u00fade (SES-GO), o trabalhador que precisar se afastar por mais de 15 dias pode \u2026 [+2678 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.250731",
+      "internal_id": "955667e8adc0f015f4ae2ae3b9e07af2ab289a9d5771670f15166ab12d51729f",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6167,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jessica Bernardo",
+      "title": "SP tem mais de 100 mil casos de dengue e 2 novas mortes confirmadas",
+      "description": "V\u00edtimas moravam na capital e em Suzano, na regi\u00e3o metropolitana; cidade de S\u00e3o Paulo tem seis distritos em situa\u00e7\u00e3o epid\u00eamica de dengue",
+      "url": "https://www.metropoles.com/sao-paulo/sp-tem-mais-de-100-mil-casos-de-dengue-e-2-novas-mortes-confirmadas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/22131835/dengue-sp-s.jpg",
+      "publishedAt": "2024-02-27 20:28:52",
+      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo confirmou mais duas mortes por dengue nesta ter\u00e7a-feira (27/2). As v\u00edtimas moravam na capital paulista e em Suzano, na regi\u00e3o metropolitana. Com isso, o total de \u00f3bito\u2026 [+7252 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.097582",
+      "internal_id": "7bec733134fb31aa031cd5112735c3e8315a31bfa45de6b0b3c9ff43171451bb",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6168,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Japan's Takeda in regulatory talks to launch dengue vaccine in India",
+      "description": "The Japanese drugmaker plans to scale up the production of its dengue vaccine Qdenga through a partnership with Indian vaccine maker Biological E., the companies said earlier in the day.",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/japans-takeda-in-regulatory-talks-to-launch-dengue-vaccine-in-india/articleshow/108052844.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108052846,width-1200,height-630,imgsize-231310,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-02-27 20:23:31",
+      "content": "Japan's Takeda Pharmaceutical is holding talks with Indian regulators to make its dengue vaccine available in the country, the drugmaker's global head of vaccines, Gary Dubin, told Reuters on Tuesday\u2026 [+1735 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.130288",
+      "internal_id": "d19004cf97c496a22e1644ba21258cde5c3df20fb2e391988af7cdf79ccdfca1",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6169,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: estado de SP atinge mais de 104 mil casos confirmados em 2024",
+      "description": "De acordo com o Minist\u00e9rio da Sa\u00fade, o pa\u00eds contabiliza 920.427 casos prov\u00e1veis da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-02-27/dengue--estado-de-sp-atinge-mais-de-104-mil-casos-confirmados-em-2024.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0g/sc/9v/0gsc9vgr74one82n10r0iadv4.jpg",
+      "publishedAt": "2024-02-27 20:12:29",
+      "content": "Dados divulgados nesta ter\u00e7a-feira pela Secretaria Estadual da Sa\u00fade (SES) mostram que o estado de S\u00e3o Paulo registrou mais de 104 mil casos confirmados de dengue desde o in\u00edcio de 2024. Al\u00e9m disso\u2026 [+1642 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.157965",
+      "internal_id": "e5abfd07e66a76b3620e432993d1bf73799b8d0e767c494cf73cde8415e43b7e",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6160,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (Jos\u00e9 Pernalete)",
+      "title": "La Florida desaf\u00eda a los CDC con recomendaciones sobre el sarampi\u00f3n",
+      "description": "El estado de la Florida desaf\u00eda al gobierno federal de EEUU sobre c\u00f3mo responder a un brote de sarampi\u00f3n registrado recientemente en una escuela local. Jos\u00e9 Pernalete con el informe.",
+      "url": "https://www.vozdeamerica.com/a/florida-desafia-cdc-recomendaciones-sarampion-/7504900.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0a00-0242-a281-08dc37cca8d2_tv_w1200_r1.jpg",
+      "publishedAt": "2024-02-27 20:08:48",
+      "content": "Tras el registro de ocho ni\u00f1os contagiados con sarampi\u00f3n en el sur de Florida, el Departamento estatal de Salud deja a discreci\u00f3n de padres o tutores si los ni\u00f1os asisten a clases Mientras que los C\u2026 [+173 chars]",
+      "retrievedAt": "2024-02-29 07:06:06.405926",
+      "internal_id": "8920db060678d2eb3fbfe62dd35c56e560d2b6b33f6d0e162d8e57e2eebc9766",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6152,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Los Angeles Times",
+      "author": "Michael Hiltzik",
+      "title": "Column: As measles spreads, 'herd stupidity' grips Florida's government",
+      "description": "Florida's quack surgeon general Joseph Ladapo dismisses the threat of measles, but the threat is deadly and real.",
+      "url": "https://www.latimes.com/business/story/2024-02-27/as-measles-spreads-herd-stupidity-grips-floridas-government",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/3657088/2147483647/strip/true/crop/2640x1386+0+187/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7b%2F4f%2F500acf204f339fb9fff0c232a243%2F5797e4d52d094cac9d8930d69f7a9192",
+      "publishedAt": "2024-02-27 19:54:41",
+      "content": "As of this writing, the measles outbreak in Florida is up to nine cases, including the first one recorded outside the epicenter in Broward County, the vicinity of Fort Lauderdale. Nine cases may not\u2026 [+5378 chars]",
+      "retrievedAt": "2024-02-29 07:06:05.959820",
+      "internal_id": "1a94ec0a12f2940b929f93a6d1bd13d247cf9a32a9e32921f6050a9ad138267b",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 6171,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: 2024 j\u00e1 alcan\u00e7ou metade do total de casos do ano passado",
+      "description": "Dados do Minist\u00e9rio da Sa\u00fade mostram que pa\u00eds j\u00e1 contabiliza 920.427 casos; em 2023 foram 1.658.816 diagn\u00f3sticos",
+      "url": "https://saude.ig.com.br/2024-02-27/dengue--2024-ja-registrou-50--do-total-de-casos-confirmados-ano-passado.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
+      "publishedAt": "2024-02-27 19:45:06",
+      "content": "Mesmo antes do fim de fevereiro, o Brasil j\u00e1 ultrapassou em 2024 metade dos casos de dengue registrados ao longo de todo o ano passado considerado o segundo pior da s\u00e9rie hist\u00f3rica mantida pelo Minis\u2026 [+1622 chars]",
+      "retrievedAt": "2024-02-29 07:06:07.193621",
+      "internal_id": "20838a198ebfd7317b1dfef9ca0ff89b7bac343860dc7581c27b8e6d9d22f58b",
+      "publishedAtLabel": "Feb 27"
+    },
     {
       "id": 6109,
       "query": [
@@ -34306,6 +34775,42 @@
       "content": "Duas Unidades B\u00e1sicas de Sa\u00fade (UBSs) do Distrito Federal v\u00e3o ter atendimento aos s\u00e1bados e domingos, para ampliar o atendimento de pacientes durante a epidemia de dengue da capital. As UBSs 2 de Cei\u2026 [+1772 chars]",
       "retrievedAt": "2024-01-16 07:05:50.500575",
       "internal_id": "8ae01a0831c39b103597ba8b5ca1e3e18f70d99a27bfad151ef15d2aac1da013",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 4247,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WTOP",
+      "author": "Dan Friedell",
+      "title": "Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News",
+      "description": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received a vaccine.",
+      "url": "https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/",
+      "urlToImage": "https://wtop.com/wp-content/uploads/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHI4ZTltb2UwMDE5M2I2aDlpNzZsZDc0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscjhkdDZ0ejAwMngyNnAxZzJ4aTVuMHg-300.jpg",
+      "publishedAt": "2024-01-14 09:50:17",
+      "content": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received \u2026 [+1445 chars]",
+      "retrievedAt": "2024-01-15 19:05:41.519753",
+      "internal_id": "e313437922b4c02fe598f825deadbd0f17267ea4011518a4985782c038bc044c",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 4246,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "All dog-bite victims in Sarawak stable, says Health Ministry",
+      "description": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 14). Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/14/2490389.jpg",
+      "publishedAt": "2024-01-14 08:02:00",
+      "content": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 1\u2026 [+1887 chars]",
+      "retrievedAt": "2024-01-15 19:05:41.219448",
+      "internal_id": "d25374de87f036ae424c49e35d95b3b162fef4eabef0bcd96613686060058c8e",
       "publishedAtLabel": "Jan 14"
     }
   ]
