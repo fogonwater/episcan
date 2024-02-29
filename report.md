@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2024-02-29 07:06
-- **Most recent article:** 2024-02-28 05:45:17
+- **New articles in last harvest:** 34
+- **Last harvest:** 2024-02-29 19:05
+- **Most recent article:** 2024-02-28 19:05:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 98 | 1054 |
-| measles | 60 | 56 | 47 | 68 | 45 | 100 | 35 | 411 |
-| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 9 | 233 |
+| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 111 | 1067 |
+| measles | 59 | 56 | 47 | 68 | 45 | 100 | 47 | 422 |
+| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 12 | 236 |
+| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 5 | 59 |
 | zika | 8 | 7 | 8 | 13 | 6 | 13 | 3 | 58 |
-| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 3 | 57 |
-| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 3 | 45 |
+| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 6 | 47 |
+| meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 2 | 35 |
 | mpox | 8 | 4 | 3 | 5 | 8 | 6 | 1 | 35 |
-| meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 1 | 34 |
 | sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 1 | 28 |
 | pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 3 | 21 |
 | typhoid | 1 | 2 | 2 | 1 | 2 | 2 | 1 | 11 |
@@ -53,6 +53,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (rabies)
 
+- [Dyadic Announces Strategic Partnership Agreement to Develop Affordable Rabies Prophylactics and Vaccines Using its Proprietary C1 Cell Microbial Protein Production Platform](https://www.marketscreener.com/quote/stock/DYADIC-INTERNATIONAL-INC-57599342/news/Dyadic-Announces-Strategic-Partnership-Agreement-to-Develop-Affordable-Rabies-Prophylactics-and-Vac-46050069/) (Marketscreener.com)
+
+- [Dyadic Announces Strategic Partnership Agreement to Develop Affordable Rabies Prophylactics and Vaccines Using its Proprietary C1 Cell Microbial Protein Production Platform](https://www.globenewswire.com/news-release/2024/02/28/2836955/0/en/Dyadic-Announces-Strategic-Partnership-Agreement-to-Develop-Affordable-Rabies-Prophylactics-and-Vaccines-Using-its-Proprietary-C1-Cell-Microbial-Protein-Production-Platform.html) (GlobeNewswire)
+
+- [Bali’s Ancient Canine Guardians on the Brink of Extinction](https://www.ipsnews.net/2024/02/balis-ancient-canine-guardians-on-the-brink-of-extinction/) (Inter Press Service)
+
 - [Cat vaccinations: Rabies and Feline](https://nep123.com/cat-vaccinations-rabies-and-feline/) (Nep123.com)
 
 - [Immune response after oral immunization of goats and foxes with an NDV vectored rabies vaccine candidate](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011639) (Plos.org)
@@ -73,9 +79,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (meningitis)
 
+- [Tackling long-haul diseases](https://www.technologyreview.com/2024/02/28/1087617/tackling-long-haul-diseases/) (MIT Technology Review)
+
 - [24-yr-old dies a day after testing positive for Covid](https://timesofindia.indiatimes.com/city/kolkata/24-year-old-dies-a-day-after-testing-positive-for-covid/articleshow/108027821.cms) (The Times of India)
 
 ## 24-9 (measles)
+
+- [Opposition to vaccination among parents grows, poll suggests](https://www.cbc.ca/news/health/canada-poll-vaccination-angus-reid-measles-1.7128145) (CBC News)
+
+- [Nine suspected, no confirmed cases of measles in latest weekly figures](https://www.thejournal.ie/nine-suspected-no-confirmed-cases-of-measles-in-latest-weekly-figures-6312828-Feb2024/) (TheJournal.ie)
+
+- [Florida's response to measles outbreak troubles public health experts](https://www.npr.org/sections/health-shots/2024/02/28/1234483734/floridas-response-to-measles-outbreak-troubles-public-health-experts) (NPR)
+
+- [N.B.'s top doctor warns of March break measles risk](https://www.cbc.ca/news/canada/new-brunswick/measles-march-break-travel-new-brunswick-dr-yves-leger-vaccinated-1.7127143) (CBC News)
+
+- [OMG, have you heard? WHO warns about measles outbreak due to lapse in vaccinations](https://omg.blog/who-warns-about-measles-outbreak-due-to-lapse-in-vaccinations/) (Omg.blog)
+
+- [What it's actually like to get measles](https://www.nbcnews.com/health/health-news/measles-symptoms-severity-treatment-rcna140532) (NBC News)
+
+- [Spike in measles cases sees launch of child vaccine campaign to boost uptake](https://news.sky.com/story/spike-in-measles-cases-sees-launch-of-child-vaccine-campaign-to-boost-uptake-13083077) (Sky.com)
+
+- [Wednesday, February 28, 2024](https://kffhealthnews.org/morning-briefing/wednesday-february-28-2024/) (Kffhealthnews.org)
+
+- [Florida schools see measles cases grow, urge vaccination for 'public health threat'](https://www.foxnews.com/health/florida-schools-see-measles-cases-grow-urge-vaccination-public-health-threat) (Fox News)
+
+- [Laura Ingraham Blames Unvaxxed Migrants For FL Measles Outbreak](https://crooksandliars.com/2024/02/laura-ingraham-blames-unvaxxed-migrants-fl) (Crooksandliars.com)
+
+- [Measles: Alarm for spread in hospitals – Vaccination of healthcare workers urgently needed](https://en.protothema.gr/measles-alarm-for-spread-in-hospitals-vaccination-of-healthcare-workers-urgently-needed/) (Protothema.gr)
+
+- [Editorial: Florida shows how to bungle a measles outbreak](https://www.latimes.com/opinion/story/2024-02-28/editorial-florida-shows-how-to-bungle-a-measles-outbreak) (Los Angeles Times)
 
 - [Philadelphia Department of Public Health announces end to measles outbreak](https://6abc.com/measles-outbreak-philadelphia-department-of-public-health-vaccines-hospital/14474515/) (WPVI-TV)
 
@@ -149,6 +181,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (malaria)
 
+- [Fiorentina, Kouame guarito dalla malaria: manca l'ultimo ok per il rientro in campo](https://www.tuttomercatoweb.com/serie-a/fiorentina-kouame-guarito-dalla-malaria-manca-l-ultimo-ok-per-il-rientro-in-campo-1940515) (Tuttomercatoweb.com)
+
+- [Plasmodium falciparum contains functional SCF and CRL4 ubiquitin E3 ligases, and CRL4 is critical for cell division and membrane integrity](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012045) (Plos.org)
+
+- [Malaria resistance mutation detected in ancient people in Bahrain](https://www.haaretz.com/archaeology/2024-02-28/ty-article/malaria-resistance-mutation-detected-in-ancient-people-in-bahrain/0000018d-efd5-d7f4-a3dd-efddb2210000) (Haaretz)
+
 - [Blocking fertilization of parasite-causing malaria opens new doors in eradication efforts](https://phys.org/news/2024-02-blocking-fertilization-parasite-malaria-doors.html) (Phys.Org)
 
 - [Ancient Humans May Have Built a Resistance to Malaria](https://www.discovermagazine.com/the-sciences/ancient-humans-may-have-built-a-resistance-to-malaria) (Discover Magazine)
@@ -172,6 +210,32 @@ Source: [News API](https://newsapi.org/)
 - [Isolating and genotyping Leptospira bacteria for the first time in Austria](https://phys.org/news/2024-02-isolating-genotyping-leptospira-bacteria-austria.html) (Phys.Org)
 
 ## 24-9 (dengue)
+
+- [Santé. Nombre de cas, départements concernés... Où en est la circulation de la dengue ?](https://www.ledauphine.com/sante/2024/02/28/nombre-de-cas-departements-concernes-ou-en-est-la-circulation-de-la-dengue) (Le Dauphiné Libéré)
+
+- [Dengue: saiba como usar repelentes e não intoxicar os pets](https://www.metropoles.com/colunas/e-o-bicho/dengue-saiba-como-usar-repelentes-e-nao-intoxicar-os-pets) (Metropoles.com)
+
+- [Cómo prevenir el dengue](https://www.lanacion.com.ar/sociedad/como-prevenir-el-dengue-nid28022024/) (La Nacion)
+
+- [Em 24h, São Paulo registra mais 5 mortes por dengue e total chega a 22](https://www.metropoles.com/sao-paulo/24h-sao-paulo-registra-mais-5-mortes-dengue) (Metropoles.com)
+
+- [Nísia convoca estados para o Dia D contra a dengue: “Trabalhar juntos”](https://www.metropoles.com/brasil/nisia-convoca-estados-para-o-dia-d-contra-a-dengue-trabalhar-juntos) (Metropoles.com)
+
+- [Empresa britânica aposta em mosquitos transgênicos para combater dengue no Brasil](https://www.terra.com.br/noticias/brasil/empresa-britanica-aposta-em-mosquitos-transgenicos-para-combater-dengue-no-brasil,1a1956c3eef628a6b32cc2166855dfd3qod2gz9o.html) (Terra.com.br)
+
+- [Dengue pode se manifestar através da pele](https://www.terra.com.br/vida-e-estilo/saude/dengue-pode-se-manifestar-atraves-da-pele,b25820217de228b9639780b9862c9d04yqu4n8s0.html) (Terra.com.br)
+
+- [Saiba quais são os repelentes mais indicados contra o mosquito da dengue](https://olhardigital.com.br/2024/02/28/medicina-e-saude/saiba-quais-sao-os-repelentes-mais-indicados-contra-o-mosquito-da-dengue/) (Olhardigital.com.br)
+
+- [Dengue: saiba quais são os repelentes mais indicados contra o mosquito](https://saude.ig.com.br/2024-02-28/dengue--saiba-quais-sao-os-repelentes-mais-indicados-contra-o-mosquito.html) (Ig.com.br)
+
+- [Dengue: Brasil pode dobrar casos neste ano em relação a 2023](https://saude.ig.com.br/2024-02-28/dengue--brasil-pode-dobrar-casos-neste-ano-em-relacao-a-2023.html) (Ig.com.br)
+
+- [Dengue: produção da vacina é ampliada após parceria com laboratório](https://saude.ig.com.br/2024-02-28/dengue--producao-da-vacina-e-ampliada-apos-parceria-com-laboratorio.html) (Ig.com.br)
+
+- [BBC testa repelentes de mosquito: qual é mais eficaz?](https://www.bbc.com/portuguese/articles/c03qr91q9y6o) (BBC News)
+
+- [Takeda in regulatory talks to launch dengue vaccine in India](https://www.japantimes.co.jp/business/2024/02/28/companies/takeda-dengue-vaccine-india/) (The Japan Times)
 
 - [Quase 30% das mortes por dengue no país foram registradas no DF](https://www.metropoles.com/distrito-federal/quase-30-das-mortes-por-dengue-no-pais-foram-registradas-no-df) (Metropoles.com)
 
@@ -370,6 +434,10 @@ Source: [News API](https://newsapi.org/)
 - [DF tem maior número de casos e de mortes por dengue no país](https://saude.ig.com.br/2024-02-24/df-tem-maior-numero-de-casos-e-de-mortes-por-dengue-no-pais.html) (Ig.com.br)
 
 ## 24-9 (chikungunya)
+
+- [Longitudinal analysis of post-acute chikungunya-associated arthralgia in children and adults: A prospective cohort study in Managua, Nicaragua (2014–2018)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011948) (Plos.org)
+
+- [Paraíba confirma a primeira morte por chikungunya em 2024](https://www.metropoles.com/brasil/paraiba-confirma-a-primeira-morte-por-chikungunya-em-2024) (Metropoles.com)
 
 - [Combate à dengue: 9 dicas de manutenção da casa para eliminar o mosquito!](https://casa.abril.com.br/minha-casa/combate-a-dengue-dicas-de-manutencao-da-casa/) (Abril.com.br)
 
@@ -3847,8 +3915,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health dept. confirms rabid coyote in Mount Pleasant; 1 person exposed](https://www.live5news.com/2024/01/17/health-dept-confirms-rabid-coyote-mount-pleasant-1-person-exposed/) (Live 5 News WCSC)
 
-- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
-
 ## 24-3 (pertussis)
 
 - [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
@@ -4012,8 +4078,6 @@ Source: [News API](https://newsapi.org/)
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
-
-- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 ## 24-3 (malaria)
 

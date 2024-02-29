@@ -1,8 +1,620 @@
 {
-  "last_updated": "2024-02-29 07:06",
-  "count_articles_total": 1930,
-  "count_articles_new": 26,
+  "last_updated": "2024-02-29 19:05",
+  "count_articles_total": 1962,
+  "count_articles_new": 34,
   "articles": [
+    {
+      "id": 6198,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction",
+      "title": "Sant\u00e9. Nombre de cas, d\u00e9partements concern\u00e9s... O\u00f9 en est la circulation de la dengue ?",
+      "description": "Le virus de la dengue est transmis par le moustique tigre qui prend progressivement ses aises dans l'Hexagone. \u00c9tat des lieux.",
+      "url": "https://www.ledauphine.com/sante/2024/02/28/nombre-de-cas-departements-concernes-ou-en-est-la-circulation-de-la-dengue",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/C875C405-64C8-4FFD-995D-7C6958B8DD07/FB1200/photo-1709141228.jpg",
+      "publishedAt": "2024-02-28 19:05:00",
+      "content": "Sant\u00e9 publique France a publi\u00e9 ce mercredi son bilan des cas de dengue pour 2023. Voici ce qu'il faut en retenir. Moins d'une cinquantaine de cas autochtones La m\u00e9tropole fran\u00e7aise a enregistr\u00e9 l'a\u2026 [+1969 chars]",
+      "retrievedAt": "2024-02-29 19:05:12.945479",
+      "internal_id": "19b0798b9c91416b39c2b51b5409c7fb7cbbabefb72cc69fc7d7193db07093e0",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6199,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thamara Maria",
+      "title": "Dengue: saiba como usar repelentes e n\u00e3o intoxicar os pets",
+      "description": "Os repelentes, seja em creme, spray ou aerossol, podem oferecer risco para os pets. Saiba como evitar acidentes e proteger voc\u00ea e seu animal",
+      "url": "https://www.metropoles.com/colunas/e-o-bicho/dengue-saiba-como-usar-repelentes-e-nao-intoxicar-os-pets",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/27160857/pets-dengue-repelente.jpg",
+      "publishedAt": "2024-02-28 19:01:25",
+      "content": "Com o surto de dengue pelo Brasil, os repelentes praticamente sumiram das prateleiras, tamanha foi a demanda pelo produto. Contudo, fica o alerta para os pais de pets: o produto pode ser t\u00f3xico para \u2026 [+2042 chars]",
+      "retrievedAt": "2024-02-29 19:05:12.957275",
+      "internal_id": "413fa4cd9d2efb43aee04928269f6b05d2723f764f0eb9f951fe81122cd85a50",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6182,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Opposition to vaccination among parents grows, poll suggests",
+      "description": "A growing number of Canadian parents are opposed to vaccinating their children, according to a new poll, amid a resurgence in potentially deadly diseases such as measles.",
+      "url": "https://www.cbc.ca/news/health/canada-poll-vaccination-angus-reid-measles-1.7128145",
+      "urlToImage": "https://i.cbc.ca/1.5342745.1709144506!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-mmr-vaccine.jpg",
+      "publishedAt": "2024-02-28 19:00:35",
+      "content": "A growing number of Canadian parents say they are opposed to vaccinating their children, according to a new poll, amid a resurgence in potentially deadly diseases such as measles . The opinion poll\u2026 [+4020 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.779066",
+      "internal_id": "2f7a201270d1b931af58c1ca8d59f9c371583c05eebe91eefffa11d60216de85",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6185,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Mairead Maguire",
+      "title": "Nine suspected, no confirmed cases of measles in latest weekly figures",
+      "description": "None of these cases have been confirmed, the HSE has said.",
+      "url": "https://www.thejournal.ie/nine-suspected-no-confirmed-cases-of-measles-in-latest-weekly-figures-6312828-Feb2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6312828/river/?height=400&version=6312855",
+      "publishedAt": "2024-02-28 18:32:22",
+      "content": "NINE SUSPECTED MEASLES cases were reported in Ireland during the week of 18 to 24 February, according to figures released by the Health Protection Surveillance Centre (HPSC) today. None of these cas\u2026 [+1137 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.820089",
+      "internal_id": "f424afaf7a7ef6661f0bb6ea721f393dbdb7d87d0e063e6b35fe5d567d8611d5",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6202,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "C\u00f3mo prevenir el dengue",
+      "description": "Existen distintos trucos para evitar contagiarse de esta enfermedad que se transmite por la picadura de mosquitos",
+      "url": "https://www.lanacion.com.ar/sociedad/como-prevenir-el-dengue-nid28022024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/para-evitar-contagiarse-de-dengue-es-importante-MDX6JJ4SYBHFVO4VOXEAVSKERA.jpg?auth=0e71b16c6da9363deee2e796477e6ac1a8037b754e82021803ac949f2eddbdbf&width=768&quality=70&smart=false",
+      "publishedAt": "2024-02-28 18:32:11",
+      "content": "En los \u00faltimos d\u00edas, se pudo observar una invasi\u00f3n de mosquitos en la Argentina, principalmente en el \u00c1rea Metropolitana de Buenos Aires (AMBA). Circularon en las redes muchos videos por los cuales l\u2026 [+2268 chars]",
+      "retrievedAt": "2024-02-29 19:05:12.995813",
+      "internal_id": "52750afc50382d7d41a4cd4c7912dff4f41c8d03ab49b8462c9402d2fd9e12af",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6197,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Em 24h, S\u00e3o Paulo registra mais 5 mortes por dengue e total chega a 22",
+      "description": "Estado de S\u00e3o Paulo registrou 5 mortes por dengue desde ter\u00e7a-feira (27/2); v\u00edtimas s\u00e3o de S\u00e3o Paulo, Suzano, Mar\u00edlia, Campinas e Embu-Gua\u00e7u",
+      "url": "https://www.metropoles.com/sao-paulo/24h-sao-paulo-registra-mais-5-mortes-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/28150836/dengue-abre.jpg",
+      "publishedAt": "2024-02-28 18:16:36",
+      "content": "S\u00e3o Paulo Mais tr\u00eas pessoas morreram por dengue em S\u00e3o Paulo, segundo o painel de monitoramento da Secretaria da Sa\u00fade, atualizado nesta quarta-feira (28/2). As novas v\u00edtimas s\u00e3o de Mar\u00edlia e Campina\u2026 [+5976 chars]",
+      "retrievedAt": "2024-02-29 19:05:12.930193",
+      "internal_id": "8123e2901d616944450a0855ece0459cd4d2a11afa345b01483b7367f158eb09",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6181,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Pien Huang",
+      "title": "Florida's response to measles outbreak troubles public health experts",
+      "description": "The state has at least 10 cases of the illness to date but the state's surgeon general has not called for vaccinations or quarantining of exposed kids. This goes against science-based measures.",
+      "url": "https://www.npr.org/sections/health-shots/2024/02/28/1234483734/floridas-response-to-measles-outbreak-troubles-public-health-experts",
+      "urlToImage": "https://media.npr.org/assets/img/2024/02/28/gettyimages-495311747_wide-386f631645189b6651d8da43e934428f0b551580-s1400-c100.jpg",
+      "publishedAt": "2024-02-28 17:39:49",
+      "content": "A dose of the measles, mumps and rubella vaccine. When an unvaccinated person is exposed to measles, public health guidance if for them to get vaccinated within three days. Joe Raedle/Getty Images \u2026 [+4639 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.771763",
+      "internal_id": "60cc63b69f829e9b298cb783235782e4e96720fe417fff3e46644da67e8e6277",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6189,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "N.B.'s top doctor warns of March break measles risk",
+      "description": "With March break just days away, New Brunswick's acting chief medical officer of health is urging people to ensure they're fully immunized against measles before travelling outside the country.",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/measles-march-break-travel-new-brunswick-dr-yves-leger-vaccinated-1.7127143",
+      "urlToImage": "https://i.cbc.ca/1.2970974.1708712564!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-outbreak.jpg",
+      "publishedAt": "2024-02-28 17:16:27",
+      "content": "With March break just days away, New Brunswick's acting chief medical officer of health is urging people to make sure they're fully immunized against measles before travelling outside the country. \u2026 [+5320 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.842946",
+      "internal_id": "d2ae3c3bea27e9c4d670b0abe2cd1586bf4c7c428195a27c913bb106469be9fe",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6196,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mariana Andrade",
+      "title": "N\u00edsia convoca estados para o Dia D contra a dengue: \u201cTrabalhar juntos\u201d",
+      "description": "Ministra da Sa\u00fade chamaou estados e o Distrito Federal para o Dia D contra a dengue em todo o pa\u00eds: o \"10 minutos contra a dengue\"",
+      "url": "https://www.metropoles.com/brasil/nisia-convoca-estados-para-o-dia-d-contra-a-dengue-trabalhar-juntos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/28135022/Nisia-Trindade-1.jpeg",
+      "publishedAt": "2024-02-28 17:11:13",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, convocou, nesta quarta-feira (28/2), estados e o Distrito Federal para a mobiliza\u00e7\u00e3o em torno do Dia D contra a dengue em todo o pa\u00eds: o 10 minutos contra a dengu\u2026 [+2839 chars]",
+      "retrievedAt": "2024-02-29 19:05:12.883928",
+      "internal_id": "9aafe2c70cbf91922002bdb05a43ca19ab7ac944b9ddbfce82c70ec0ea8add23",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6187,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Omg.blog",
+      "author": "Igor",
+      "title": "OMG, have you heard? WHO warns about measles outbreak due to lapse in vaccinations",
+      "description": "The lapse was due to backlog at hospitals over the COVID-19 pandemic [Celebitchy] Bradley Cooper and Gigi Hadid come out as straight lovers [Lainey] The... The post OMG, have you heard? WHO warns about measles outbreak due to lapse in vaccinations appeared fi\u2026",
+      "url": "https://omg.blog/who-warns-about-measles-outbreak-due-to-lapse-in-vaccinations/",
+      "urlToImage": "https://omg.blog/wp-content/uploads/2024/02/Screenshot-2024-02-28-at-11.50.35-AM.png",
+      "publishedAt": "2024-02-28 16:52:27",
+      "content": "The lapse was due to backlog at hospitals over the COVID-19 pandemic [Celebitchy] Bradley Cooper and Gigi Hadid come out as straight lovers [Lainey] The Independent Spirit Awards 2024 Best Dressed Li\u2026 [+411 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.827447",
+      "internal_id": "e04d1c8bc2427e1c7865295cb2637df4b074ac72ab4fbcfb4485dd9ba35fd1e3",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6188,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix",
+      "title": "What it's actually like to get measles",
+      "description": "With 35 measles cases in the U.S. already this year, doctors and people who've gotten the disease describe its symptoms, severity and treatment.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-symptoms-severity-treatment-rcna140532",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240226-measles-se-117p-6443c8.jpg",
+      "publishedAt": "2024-02-28 16:00:00",
+      "content": "It starts with a high fever in some cases, up to 105 degrees Fahrenheit. Children may also feel achy or lose energy. Roughly a day after the fever sets in come the three Cs of measles: cough, conju\u2026 [+6632 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.836758",
+      "internal_id": "378e7d4e7dc55b9e697bb624d6bd4911516bbcbcbbe70a9f88090fc5471650e3",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6195,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Empresa brit\u00e2nica aposta em mosquitos transg\u00eanicos para combater dengue no Brasil",
+      "description": "A empresa brit\u00e2nica de biotecnologia Oxitec est\u00e1 apostando em uma solu\u00e7\u00e3o para o aumento dos ...",
+      "url": "https://www.terra.com.br/noticias/brasil/empresa-britanica-aposta-em-mosquitos-transgenicos-para-combater-dengue-no-brasil,1a1956c3eef628a6b32cc2166855dfd3qod2gz9o.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-28 15:37:39",
+      "content": "A empresa brit\u00e2nica de biotecnologia Oxitec est\u00e1 apostando em uma solu\u00e7\u00e3o para o aumento dos casos de dengue no Brasil, envolvendo a libera\u00e7\u00e3o de mosquitos geneticamente modificados em um esfor\u00e7o par\u2026 [+1654 chars]",
+      "retrievedAt": "2024-02-29 19:05:12.853480",
+      "internal_id": "bdf54a05cbc8b79f2b783d64d0bbf57d984f50cda4cd671a56a64f190767bb4d",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6186,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Spike in measles cases sees launch of child vaccine campaign to boost uptake",
+      "description": "Children are \"suffering needlessly\" because fewer parents are opting for routine childhood vaccines, health experts have said.",
+      "url": "https://news.sky.com/story/spike-in-measles-cases-sees-launch-of-child-vaccine-campaign-to-boost-uptake-13083077",
+      "urlToImage": "https://e3.365dm.com/24/01/1600x900/skynews-jab-syringe-injection_6429092.jpg?20240122051106",
+      "publishedAt": "2024-02-28 15:28:00",
+      "content": "Children are \"suffering needlessly\" because fewer parents are opting for routine childhood vaccines, health experts have said. The UK Health Security Agency (UKHSA) is launching a new campaign to tr\u2026 [+2488 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.823634",
+      "internal_id": "6e5ad2a53293228bc1fcd4125d8ad951a518736ab0463465eca76cc170c5a4e7",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6205,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Dengue pode se manifestar atrav\u00e9s da pele",
+      "description": "Com o aumento significativo dos casos de dengue nos \u00faltimos meses, a Sociedade Brasileira de ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-pode-se-manifestar-atraves-da-pele,b25820217de228b9639780b9862c9d04yqu4n8s0.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/28/1567297114-pele.jpg",
+      "publishedAt": "2024-02-28 14:53:48",
+      "content": "Com o aumento significativo dos casos de dengue nos \u00faltimos meses, a Sociedade Brasileira de Dermatologia - Sec\u00e7\u00e3o do Rio Grande do Sul (SBD-RS) refor\u00e7a a import\u00e2ncia da atua\u00e7\u00e3o do dermatologista no \u2026 [+1246 chars]",
+      "retrievedAt": "2024-02-29 19:05:13.033302",
+      "internal_id": "38b5c9e52d9a518f45e4c9d71e59af782db0e4c852060b6c71e413711fe4e739",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6207,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Lorenzo Di Benedetto",
+      "title": "Fiorentina, Kouame guarito dalla malaria: manca l'ultimo ok per il rientro in campo",
+      "description": "La Fiorentina attende il rientro in campo di Christian Kouame, tornato dagli impegni in Costa d'Avorio per la Coppa d'Africa con la malaria. L'attaccante luned\u00ec era in tribuna allo stadio Artemio Fr",
+      "url": "https://www.tuttomercatoweb.com/serie-a/fiorentina-kouame-guarito-dalla-malaria-manca-l-ultimo-ok-per-il-rientro-in-campo-1940515",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/eb/eb9aa0b877b8be6fe4010586acf5b2ec-00609-oooz0000.jpeg",
+      "publishedAt": "2024-02-28 14:53:00",
+      "content": "La Fiorentina attende il rientro in campo di Christian Kouame, tornato dagli impegni in Costa d'Avorio per la Coppa d'Africa con la malaria. L'attaccante luned\u00ec era in tribuna allo stadio Artemio Fra\u2026 [+1214 chars]",
+      "retrievedAt": "2024-02-29 19:05:13.774828",
+      "internal_id": "babe7e080dee9c6fd513068c4760e257703afb5f28d0e7b6cfc7285cb544c7e2",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6193,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Saiba quais s\u00e3o os repelentes mais indicados contra o mosquito da dengue",
+      "description": "De acordo com a Anvisa, o repelente precisa conter algumas subst\u00e2ncias espec\u00edficas para ser eficaz contra o mosquito da dengue O post Saiba quais s\u00e3o os repelentes mais indicados contra o mosquito da dengue apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/28/medicina-e-saude/saiba-quais-sao-os-repelentes-mais-indicados-contra-o-mosquito-da-dengue/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/12/Dengue-695x500.jpg",
+      "publishedAt": "2024-02-28 14:00:40",
+      "content": "O balan\u00e7o mais recente divulgado pelo Minist\u00e9rio da Sa\u00fade aponta que o Brasil j\u00e1 registrou quase um milh\u00e3o de casos prov\u00e1veis de dengue apenas neste ano. O n\u00famero supera a metade dos registros de 202\u2026 [+3137 chars]",
+      "retrievedAt": "2024-02-29 19:05:12.818432",
+      "internal_id": "583e25861c5a20000470db5213e91ea23e2ff59ec0ce7fd3290a269bb3222301",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6209,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Zeba Rizvi, G. Srinivas Reddy, Somesh M. Gorde, Priyanka Pundir, Divya Das, Puran Singh Sijwali",
+      "title": "Plasmodium falciparum contains functional SCF and CRL4 ubiquitin E3 ligases, and CRL4 is critical for cell division and membrane integrity",
+      "description": "Author summary Plasmodium falciparum is the major contributor to global burden of malaria. The parasite produces and disposes a number of its cellular contents during its development, which would require degradation machineries. Ubiquitin proteasome system (U\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012045",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012045.g013&size=inline",
+      "publishedAt": "2024-02-28 14:00:00",
+      "content": "Materials All the routinely used biochemicals were of molecular biology grade and procured from MERCK or similar sources unless otherwise stated. Cell culture reagents were from Lonza and Thermo Fis\u2026 [+42396 chars]",
+      "retrievedAt": "2024-02-29 19:05:13.800760",
+      "internal_id": "2323706d2ae67a78143d5dfef5b5ff441ff53b774fb37bc0a562bea32eba6fb7",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6211,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Colin M. Warnes, Fausto Andres Bustos Carrillo, Jose Victor Zambrana, Brenda Lopez Mercado, Sonia Arguello, Oscarlette Ampi\u00e9, Damaris Collado, Nery Sanchez, Sergio Ojeda, Guillermina Kuan, Aubree Gordon, Angel Balmaseda, Eva Harris",
+      "title": "Longitudinal analysis of post-acute chikungunya-associated arthralgia in children and adults: A prospective cohort study in Managua, Nicaragua (2014\u20132018)",
+      "description": "Author summary Upon its emergence in the Americas in late 2013, chikungunya virus spread rapidly, leading to >2 million suspected autochthonous cases between 2014\u20132015. Much of what we know about chikungunya is derived from adult populations, leading to gaps \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011948",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011948.g005&size=inline",
+      "publishedAt": "2024-02-28 14:00:00",
+      "content": "Abstract Chikungunya can result in debilitating arthralgia, often presenting as acute, self-limited pain, but occasionally manifesting chronically. Little is known about differences in chikungunya-a\u2026 [+53826 chars]",
+      "retrievedAt": "2024-02-29 19:05:14.658641",
+      "internal_id": "fba1e70169574cce77e26b94dc657243c0f8b27652a8076be767fbc7e611dd9a",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6208,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Haaretz",
+      "author": "Ruth Schuster",
+      "title": "Malaria resistance mutation detected in ancient people in Bahrain",
+      "description": "First-ever ancient DNA analysis of Arabians in Bahrain from 2,300 to 1,400 years ago finds a 'bad' genetic mutation in three of four people \u2013 that may have also saved their lives",
+      "url": "https://www.haaretz.com/archaeology/2024-02-28/ty-article/malaria-resistance-mutation-detected-in-ancient-people-in-bahrain/0000018d-efd5-d7f4-a3dd-efddb2210000",
+      "urlToImage": "https://img.haarets.co.il/bs/0000018d-efe3-d7f4-a3dd-efef4ca60000/4e/8d/1fcfbb994fba8aeb685d4fa2f2c2/48479.jpg?precrop=2400,1395,x0,y171&height=630&width=1200",
+      "publishedAt": "2024-02-28 13:48:01",
+      "content": "Ancient DNA is all the rage. Its analysis has taught us surprising things from ancestors who weren't Homo sapiens to post-Neolithic mass migrations. Yet some may not realize how extraordinary it is f\u2026 [+8889 chars]",
+      "retrievedAt": "2024-02-29 19:05:13.796404",
+      "internal_id": "9c93519e1dcf63e8134f1c21e297af09b1c729bec0c7680a5468dc1205729799",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6178,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Dyadic Announces Strategic Partnership Agreement to Develop Affordable Rabies Prophylactics and Vaccines Using its Proprietary C1 Cell Microbial Protein Production Platform",
+      "description": "(marketscreener.com) JUPITER, Fla. and BUNNIK, the Netherlands, Feb. 28, 2024 -- Dyadic International, Inc. , a global biotechnology company focused on applying its innovative microbial protein production platforms to address the growing demand for global pro\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/DYADIC-INTERNATIONAL-INC-57599342/news/Dyadic-Announces-Strategic-Partnership-Agreement-to-Develop-Affordable-Rabies-Prophylactics-and-Vac-46050069/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-02-28 13:31:02",
+      "content": "JUPITER, Fla. and BUNNIK, the Netherlands, Feb. 28, 2024 (GLOBE NEWSWIRE) -- Dyadic International, Inc. (Dyadic, we, us, our, or the Company) (NASDAQ: DYAI), a global biotechnology company focused on\u2026 [+6744 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.318488",
+      "internal_id": "f51808ffc20423e4bb7616fe9a032fab13293b7a95d5a807351eda40d12da6b1",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6179,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Dyadic International, Inc.",
+      "title": "Dyadic Announces Strategic Partnership Agreement to Develop Affordable Rabies Prophylactics and Vaccines Using its Proprietary C1 Cell Microbial Protein Production Platform",
+      "description": "JUPITER, Fla. and BUNNIK, the Netherlands, Feb. 28, 2024 (GLOBE NEWSWIRE) -- Dyadic International, Inc. (\u201cDyadic\u201d, \u201cwe\u201d, \u201cus\u201d, \u201cour\u201d, or the \u201cCompany\u201d) (NASDAQ: DYAI), a global biotechnology company focused on applying its innovative microbial protein product\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/02/28/2836955/0/en/Dyadic-Announces-Strategic-Partnership-Agreement-to-Develop-Affordable-Rabies-Prophylactics-and-Vaccines-Using-its-Proprietary-C1-Cell-Microbial-Protein-Production-Platform.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7c9352a9-ab47-4933-a7d6-21f0c82a13eb",
+      "publishedAt": "2024-02-28 13:30:00",
+      "content": "JUPITER, Fla. and BUNNIK, the Netherlands, Feb. 28, 2024 (GLOBE NEWSWIRE) -- Dyadic International, Inc. (Dyadic, we, us, our, or the Company) (NASDAQ: DYAI), a global biotechnology company focused on\u2026 [+6734 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.330456",
+      "internal_id": "c65b6eef473e0397deee6bb9915c6567505c084ff2b80f44c39e92e59a27f89c",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6190,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Wednesday, February 28, 2024",
+      "description": "IVF, hearing aids, insulin costs, PBMs, fentanyl, antitrust investigations, measles, marijuana use, and more are in the news.",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-february-28-2024/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing1.jpg",
+      "publishedAt": "2024-02-28 13:29:13",
+      "content": "Antitrust Regulators Say PBMs Have Failed To Disclose Requested Info An inquiry by the FTC into the role of pharmacy benefit managers on prescription drug costs has been stymied so far as the compan\u2026 [+5423 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.857542",
+      "internal_id": "4a277891043d28ae2ae2bb985a3d6669604bc20a654d7c408d884a2d0f2ed1df",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6200,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: saiba quais s\u00e3o os repelentes mais indicados contra o mosquito",
+      "description": "Especialistas orientam que pessoas j\u00e1 contaminadas pela dengue tamb\u00e9m fa\u00e7am uso do repelente para evitar transmiss\u00e3o",
+      "url": "https://saude.ig.com.br/2024-02-28/dengue--saiba-quais-sao-os-repelentes-mais-indicados-contra-o-mosquito.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/09/tk/ti/09tktiuld2so9u5jivoowrk6y.jpg",
+      "publishedAt": "2024-02-28 13:24:16",
+      "content": "Com a alta de n\u00famero de casos de dengue no Brasil, a busca por repelentes cresceu. At\u00e9 o momento, seis estados declararam situa\u00e7\u00e3o de emerg\u00eancia por conta da doen\u00e7a: Acre, Goi\u00e1s, Minas Gerais, Esp\u2026 [+1995 chars]",
+      "retrievedAt": "2024-02-29 19:05:12.982686",
+      "internal_id": "0249a18fb54e5c9a5a696f9a81aea0242487f71b89f1e8491f9361d50c8180e6",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6192,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Pilar Arias",
+      "title": "Florida schools see measles cases grow, urge vaccination for 'public health threat'",
+      "description": "A 10th case of measles has been reported in Florida, with many of them at one elementary school in Broward County. Health officials are sounding the alarm on vaccinations.",
+      "url": "https://www.foxnews.com/health/florida-schools-see-measles-cases-grow-urge-vaccination-public-health-threat",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/Measles-Vaccine.jpg",
+      "publishedAt": "2024-02-28 13:21:27",
+      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. Please enter a valid email address. By entering your e\u2026 [+3372 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.870548",
+      "internal_id": "51e486a82793394c7131582abb3ef4e81c33770bd308aa036bf55a6cf4d3136d",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6184,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Susie Madrak",
+      "title": "Laura Ingraham Blames Unvaxxed Migrants For FL Measles Outbreak",
+      "description": "Laura Ingraham weaponized a recent measles outbreak in Florida to baselessly malign unvaccinated migrants. Of course she did! Via Media Matters: At least eight children in Broward County have contracted the virus, at least six of them at one elementary school\u2026",
+      "url": "https://crooksandliars.com/2024/02/laura-ingraham-blames-unvaxxed-migrants-fl",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/24/02/laura.png",
+      "publishedAt": "2024-02-28 12:59:37",
+      "content": "Laura Ingraham weaponized a recent measles outbreak in Florida to baselessly malign unvaccinated migrants. Of course she did! Via Media Matters:At least eight children in Broward County have contract\u2026 [+1193 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.789947",
+      "internal_id": "f735b4c4a15bd92d06b38c03a875c433750066315eb474a4bcbc32d059e29932",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6210,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Portal T5",
+      "title": "Para\u00edba confirma a primeira morte por chikungunya em 2024",
+      "description": "Segundo a Secretaria de Estado da Sa\u00fade da Para\u00edba (SES-PB), a v\u00edtima era um homem de 57 anos, morador do munic\u00edpio de Sap\u00e9",
+      "url": "https://www.metropoles.com/brasil/paraiba-confirma-a-primeira-morte-por-chikungunya-em-2024",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2021/11/16151828/chikungunya-mayaro-anticorpo-virus-saude.jpg",
+      "publishedAt": "2024-02-28 12:03:37",
+      "content": "A Para\u00edba registrou a primeira morte por chikungunya no estado em 2024, nessa segunda-feira (26/2). Segundo informa\u00e7\u00f5es da Secretaria de Estado da Sa\u00fade da Para\u00edba (SES-PB), a v\u00edtima era um homem de \u2026 [+796 chars]",
+      "retrievedAt": "2024-02-29 19:05:14.654293",
+      "internal_id": "f61053c10f62f7c967927ac23a19efbf512174335ae82d2ce3b69abddb078dfb",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6206,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "MIT Technology Review",
+      "author": "Allison Guy, SM \u201923",
+      "title": "Tackling long-haul diseases",
+      "description": "MIT immunoengineer Michal \u201cMikki\u201d Tal remembers the exact moment she had an insight that would change the trajectory of her research, getting her hooked on studying a long-neglected disease that leaves millions of Americans suffering without treatment. It wa\u2026",
+      "url": "https://www.technologyreview.com/2024/02/28/1087617/tackling-long-haul-diseases/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/02/TAL_1258_thumb.jpg?resize=1200,600",
+      "publishedAt": "2024-02-28 12:00:00",
+      "content": "Tal, who has been obsessed with infectious disease since losing an uncle to HIV/AIDS and a cousin to meningococcal meningitis, wondered what this striking diversity could reveal about our immune resp\u2026 [+4572 chars]",
+      "retrievedAt": "2024-02-29 19:05:13.293131",
+      "internal_id": "7cf005dd33b1c37cc184834539faeca74f8f7911d68669ff1cfde7a8729f2e97",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6203,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Dengue: Brasil pode dobrar casos neste ano em rela\u00e7\u00e3o a 2023",
+      "description": "N\u00famero de casos j\u00e1 superou pico do ano passado",
+      "url": "https://saude.ig.com.br/2024-02-28/dengue--brasil-pode-dobrar-casos-neste-ano-em-relacao-a-2023.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-02-28 11:38:50",
+      "content": "O Brasil poder\u00e1 ter neste ano o dobro de casos de dengue que foi registrado em 2023. No total, o pa\u00eds j\u00e1 registrou 973.347 casos prov\u00e1veis da doen\u00e7a em 2024, sendo 7.771 considerados grave e com sin\u2026 [+3962 chars]",
+      "retrievedAt": "2024-02-29 19:05:13.012477",
+      "internal_id": "01d5372250b7412eea5e5d43ade5a05f299af9d0e7781187b5e22084e6819504",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6191,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "Newsroom",
+      "title": "Measles: Alarm for spread in hospitals \u2013 Vaccination of healthcare workers urgently needed",
+      "description": "Health service facilities, such as public hospitals, are focal points that require attention for disease transmission.",
+      "url": "https://en.protothema.gr/measles-alarm-for-spread-in-hospitals-vaccination-of-healthcare-workers-urgently-needed/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/02/srth-150x150.png",
+      "publishedAt": "2024-02-28 11:32:47",
+      "content": "The Ministry of Health is attempting to prevent any potential outbreaks of measles in hospitals amidst general concern about the resurgence of measles, following the last epidemic in 2017-2018. In G\u2026 [+614 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.864037",
+      "internal_id": "842e41875e1ef43346fea7be411e489b09d85e03bd5b9ed091fe015fcecd94e9",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6204,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Dengue: produ\u00e7\u00e3o da vacina \u00e9 ampliada ap\u00f3s parceria com laborat\u00f3rio",
+      "description": "Laborat\u00f3rio indiano vai passar a produzir 50 milh\u00f5es de doses por ano",
+      "url": "https://saude.ig.com.br/2024-02-28/dengue--producao-da-vacina-e-ampliada-apos-parceria-com-laboratorio.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c1/e4/d1/c1e4d1oh0uh1d020x4568fo7s.jpg",
+      "publishedAt": "2024-02-28 11:32:25",
+      "content": "O laborat\u00f3rio Takeda, fabricante da vacina Qdenga , vai ampliar a produ\u00e7\u00e3o das doses contra a dengue por meio de uma parceria firmada com o laborat\u00f3rio indiano Biological E. Em nota, a Takeda inform\u2026 [+1056 chars]",
+      "retrievedAt": "2024-02-29 19:05:13.018611",
+      "internal_id": "35e5d6e6fc7d7b7ce1bbb607d632051e07167de5137788e635d2239429589810",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6183,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Los Angeles Times",
+      "author": "The Times Editorial Board",
+      "title": "Editorial: Florida shows how to bungle a measles outbreak",
+      "description": "So far, the measles outbreak in Florida is small, but state Surgeon General Joseph Ladapo isn't bothering with the science that would keep it that way.",
+      "url": "https://www.latimes.com/opinion/story/2024-02-28/editorial-florida-shows-how-to-bungle-a-measles-outbreak",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/f84496a/2147483647/strip/true/crop/2336x1226+0+158/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F05%2F68%2F2c70883d410ea71be5aee4ca71b4%2Fbaby.png",
+      "publishedAt": "2024-02-28 11:00:51",
+      "content": "As life-saving as the COVID-19 vaccines have been, the measles vaccine has been an even greater success story. Before the vaccine was developed in 1963, outbreaks that occurred every two to three yea\u2026 [+3550 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.786128",
+      "internal_id": "da87c18879d56c82d7333f6a6f4f6a9d8aaa937a4142ec64203d71ba4b4363e5",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6194,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "BBC testa repelentes de mosquito: qual \u00e9 mais eficaz?",
+      "description": "Em meio \u00e0 explos\u00e3o do n\u00famero de casos de dengue no Brasil, o repelente pode ser um importante aliado na hora de prevenir a doen\u00e7a. Mas, diante de tantas op\u00e7\u00f5es no mercado, qual escolher? Ser\u00e1 que todos realmente funcionam?",
+      "url": "https://www.bbc.com/portuguese/articles/c03qr91q9y6o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/f565/live/4ea4e080-d257-11ee-8fb5-176c0e2ff987.jpg",
+      "publishedAt": "2024-02-28 10:48:27",
+      "content": "Cr\u00e9dito, Getty Images Em meio \u00e0 explos\u00e3o do n\u00famero de casos de dengue no Brasil, o repelente pode ser um importante aliado na hora de prevenir a doen\u00e7a. Mas, diante de tantas op\u00e7\u00f5es no mercado, qu\u2026 [+10260 chars]",
+      "retrievedAt": "2024-02-29 19:05:12.838648",
+      "internal_id": "01ee4cdccd295c487ec1b7ae4c4ede55e5b021807d1c1bd53a239242b562fbe0",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6201,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "Leroy Leo,Rishika Sadam",
+      "title": "Takeda in regulatory talks to launch dengue vaccine in India",
+      "description": "Japan's Takeda Pharmaceutical is holding talks with Indian regulators to make its dengue vaccine available in the country, the drugmaker's global head of vaccines, Gary Dubin, said on Tuesday.",
+      "url": "https://www.japantimes.co.jp/business/2024/02/28/companies/takeda-dengue-vaccine-india/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/28/283193.jpg",
+      "publishedAt": "2024-02-28 10:28:00",
+      "content": "BENGALURU, India Japan's Takeda Pharmaceutical is holding talks with Indian regulators to make its dengue vaccine available in the country, the drugmaker's global head of vaccines, Gary Dubin, said o\u2026 [+1672 chars]",
+      "retrievedAt": "2024-02-29 19:05:12.989071",
+      "internal_id": "32e739fcc650231a8cf9158bec2ac0fd76fd0a6d7872b7eb5f5e1bb842c7988c",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 6180,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Inter Press Service",
+      "author": "Sonny Inbaraj",
+      "title": "Bali\u2019s Ancient Canine Guardians on the Brink of Extinction",
+      "description": "Bali\u2019s Island\u2019s ancient canine guardians, the proud descendants of lineages tracing back tens of thousands of years, stand on the brink of extinction. Culling triggered by rabies outbreaks and interbreeding is pushing these living cultural treasures towards a\u2026",
+      "url": "https://www.ipsnews.net/2024/02/balis-ancient-canine-guardians-on-the-brink-of-extinction/",
+      "urlToImage": "https://www.ipsnews.net/Library/2024/02/Pix-2.jpeg",
+      "publishedAt": "2024-02-28 07:32:37",
+      "content": "Asia-Pacific, Biodiversity, Civil Society, Conservation, Editors' Choice, Environment, Featured, Headlines, Sustainable Development Goals, TerraViva United NationsConservation Balis Ancient Canine G\u2026 [+7626 chars]",
+      "retrievedAt": "2024-02-29 19:05:11.340552",
+      "internal_id": "5f813385d39dc8d76585dc407f74290a8c9b6a83639bcf20b16d732e4181ec7a",
+      "publishedAtLabel": "Feb 28"
+    },
     {
       "id": 6164,
       "query": [
@@ -34775,42 +35387,6 @@
       "content": "Duas Unidades B\u00e1sicas de Sa\u00fade (UBSs) do Distrito Federal v\u00e3o ter atendimento aos s\u00e1bados e domingos, para ampliar o atendimento de pacientes durante a epidemia de dengue da capital. As UBSs 2 de Cei\u2026 [+1772 chars]",
       "retrievedAt": "2024-01-16 07:05:50.500575",
       "internal_id": "8ae01a0831c39b103597ba8b5ca1e3e18f70d99a27bfad151ef15d2aac1da013",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4247,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WTOP",
-      "author": "Dan Friedell",
-      "title": "Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News",
-      "description": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received a vaccine.",
-      "url": "https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHI4ZTltb2UwMDE5M2I2aDlpNzZsZDc0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscjhkdDZ0ejAwMngyNnAxZzJ4aTVuMHg-300.jpg",
-      "publishedAt": "2024-01-14 09:50:17",
-      "content": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received \u2026 [+1445 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.519753",
-      "internal_id": "e313437922b4c02fe598f825deadbd0f17267ea4011518a4985782c038bc044c",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4246,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "All dog-bite victims in Sarawak stable, says Health Ministry",
-      "description": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 14). Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/14/2490389.jpg",
-      "publishedAt": "2024-01-14 08:02:00",
-      "content": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 1\u2026 [+1887 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.219448",
-      "internal_id": "d25374de87f036ae424c49e35d95b3b162fef4eabef0bcd96613686060058c8e",
       "publishedAtLabel": "Jan 14"
     }
   ]
