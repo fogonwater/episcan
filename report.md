@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 34
-- **Last harvest:** 2024-02-29 19:05
-- **Most recent article:** 2024-02-28 19:05:00
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-03-01 07:05
+- **Most recent article:** 2024-02-29 06:01:04
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 111 | 1067 |
-| measles | 59 | 56 | 47 | 68 | 45 | 100 | 47 | 422 |
+| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 116 | 1072 |
+| measles | 60 | 56 | 47 | 68 | 45 | 100 | 56 | 432 |
 | malaria | 26 | 86 | 25 | 35 | 19 | 33 | 12 | 236 |
-| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 5 | 59 |
+| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 9 | 63 |
 | zika | 8 | 7 | 8 | 13 | 6 | 13 | 3 | 58 |
-| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 6 | 47 |
+| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 6 | 48 |
 | meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 2 | 35 |
 | mpox | 8 | 4 | 3 | 5 | 8 | 6 | 1 | 35 |
 | sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 1 | 28 |
@@ -85,13 +85,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (measles)
 
+- [Biohazard or Bundle of Joy? Pregnancy Is Not a Disease.](https://www.thegospelcoalition.org/article/pregnancy-not-disease/) (Thegospelcoalition.org)
+
+- [Measles campaign shows children pleading for jabs](https://www.bbc.co.uk/news/health-68424365) (BBC News)
+
+- [Britain seeks 'urgent reversal' of fall in childhood vaccination rates](https://www.marketscreener.com/news/latest/Britain-seeks-urgent-reversal-of-fall-in-childhood-vaccination-rates-46055528/) (Marketscreener.com)
+
+- [Confirmed case of suspected measles in Guilford County](https://www.wfmynews2.com/article/news/health/measles-confirmed-case-in-guilford-county/83-9d023fa4-8355-4953-afed-5b653a77c4e8) (WFMYNews2.com)
+
+- [Amid measles outbreaks, Florida Department of Health speaks out against ‘false information’](https://www.foxnews.com/health/measles-outbreaks-florida-department-health-speaks-against-false-information) (Fox News)
+
+- [Why Measles Cases Are Rising Right Now](https://time.com/6835635/measles-outbreak-2024/) (Time)
+
 - [Opposition to vaccination among parents grows, poll suggests](https://www.cbc.ca/news/health/canada-poll-vaccination-angus-reid-measles-1.7128145) (CBC News)
 
 - [Nine suspected, no confirmed cases of measles in latest weekly figures](https://www.thejournal.ie/nine-suspected-no-confirmed-cases-of-measles-in-latest-weekly-figures-6312828-Feb2024/) (TheJournal.ie)
 
+- [Hamilton public health confirms case of measles at McMaster Children's Hospital | CBC News](https://www.cbc.ca/news/canada/hamilton/measles-1.7128196) (CBC News)
+
 - [Florida's response to measles outbreak troubles public health experts](https://www.npr.org/sections/health-shots/2024/02/28/1234483734/floridas-response-to-measles-outbreak-troubles-public-health-experts) (NPR)
 
+- [Public health investigating measles exposure at MacKids](https://thespec.com/news/hamilton-region/hamilton-public-health-investigating-measles-exposure-at-mcmaster-childrens-hospital/article_a09ca732-e049-51c9-bf6e-44dc0eedeb20.html) (TheSpec.com)
+
 - [N.B.'s top doctor warns of March break measles risk](https://www.cbc.ca/news/canada/new-brunswick/measles-march-break-travel-new-brunswick-dr-yves-leger-vaccinated-1.7127143) (CBC News)
+
+- [Brant County Health Unit Confirms Measles Case in Brantford-Brant Resident - Brant County Health Unit](https://bchu.org/brant-county-health-unit-confirms-measles-case-in-brantford-brant-resident/) (Bchu.org)
 
 - [OMG, have you heard? WHO warns about measles outbreak due to lapse in vaccinations](https://omg.blog/who-warns-about-measles-outbreak-due-to-lapse-in-vaccinations/) (Omg.blog)
 
@@ -210,6 +228,16 @@ Source: [News API](https://newsapi.org/)
 - [Isolating and genotyping Leptospira bacteria for the first time in Austria](https://phys.org/news/2024-02-isolating-genotyping-leptospira-bacteria-austria.html) (Phys.Org)
 
 ## 24-9 (dengue)
+
+- [DF registrou mais de 3 mil internações de pacientes com dengue em 2024](https://www.metropoles.com/distrito-federal/df-registrou-mais-de-3-mil-internacoes-de-pacientes-com-dengue-em-2024) (Metropoles.com)
+
+- [Casos graves de dengue têm alta; idosos são os mais afetados](https://valor.globo.com/brasil/noticia/2024/02/28/casos-graves-de-dengue-tem-alta-idosos-sao-os-mais-afetados.ghtml) (Globo)
+
+- [Casos de dengue grave mais do que dobraram](https://jornaldebrasilia.com.br/noticias/brasil/casos-de-dengue-grave-mais-do-que-dobraram/) (Jornaldebrasilia.com.br)
+
+- [Quantos dias duram sintomas da dengue? Médico explica fases da doença](https://www.metropoles.com/saude/quantos-dias-duram-sintomas-da-dengue) (Metropoles.com)
+
+- [Saúde investiga casos de febre Oropouche no Acre](https://saude.ig.com.br/2024-02-28/saude-investiga-febre-oropouche-acre.html) (Ig.com.br)
 
 - [Santé. Nombre de cas, départements concernés... Où en est la circulation de la dengue ?](https://www.ledauphine.com/sante/2024/02/28/nombre-de-cas-departements-concernes-ou-en-est-la-circulation-de-la-dengue) (Le Dauphiné Libéré)
 
@@ -434,6 +462,14 @@ Source: [News API](https://newsapi.org/)
 - [DF tem maior número de casos e de mortes por dengue no país](https://saude.ig.com.br/2024-02-24/df-tem-maior-numero-de-casos-e-de-mortes-por-dengue-no-pais.html) (Ig.com.br)
 
 ## 24-9 (chikungunya)
+
+- [U.S. CDC Advisory Committee (ACIP) Recommends Use of Valneva's Single-Dose Chikungunya Vaccine IXCHIQ®](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/U-S-CDC-Advisory-Committee-ACIP-Recommends-Use-of-Valneva-s-Single-Dose-Chikungunya-Vaccine-IXC-46056887/) (Marketscreener.com)
+
+- [U.S. CDC Advisory Committee (ACIP) Recommends Use of Valneva’s Single-Dose Chikungunya Vaccine IXCHIQ®](https://www.globenewswire.com/news-release/2024/02/29/2837587/0/en/U-S-CDC-Advisory-Committee-ACIP-Recommends-Use-of-Valneva-s-Single-Dose-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
+
+- [Le Comité consultatif sur la vaccination aux États-Unis (ACIP) recommande l’utilisation d’IXCHIQ®, le vaccin à injection unique contre le chikungunya de Valneva](https://www.globenewswire.com/news-release/2024/02/29/2837587/0/fr/Le-Comit%C3%A9-consultatif-sur-la-vaccination-aux-%C3%89tats-Unis-ACIP-recommande-l-utilisation-d-IXCHIQ-le-vaccin-%C3%A0-injection-unique-contre-le-chikungunya-de-Valneva.html) (GlobeNewswire)
+
+- [Campinas registra segundo caso de chikungunya em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/28/campinas-registra-segundo-caso-de-chikungunya-em-2024.ghtml) (Globo)
 
 - [Longitudinal analysis of post-acute chikungunya-associated arthralgia in children and adults: A prospective cohort study in Managua, Nicaragua (2014–2018)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011948) (Plos.org)
 
@@ -3915,6 +3951,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Health dept. confirms rabid coyote in Mount Pleasant; 1 person exposed](https://www.live5news.com/2024/01/17/health-dept-confirms-rabid-coyote-mount-pleasant-1-person-exposed/) (Live 5 News WCSC)
 
+- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
+
 ## 24-3 (pertussis)
 
 - [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
@@ -4078,6 +4116,8 @@ Source: [News API](https://newsapi.org/)
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
+
+- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 ## 24-3 (malaria)
 
