@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-03-01 07:05
-- **Most recent article:** 2024-02-29 06:01:04
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-03-01 19:05
+- **Most recent article:** 2024-02-29 18:56:46
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 116 | 1072 |
-| measles | 60 | 56 | 47 | 68 | 45 | 100 | 56 | 432 |
-| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 12 | 236 |
-| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 9 | 63 |
-| zika | 8 | 7 | 8 | 13 | 6 | 13 | 3 | 58 |
-| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 6 | 48 |
+| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 127 | 1083 |
+| measles | 59 | 56 | 47 | 68 | 45 | 100 | 60 | 435 |
+| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 13 | 237 |
+| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 12 | 66 |
+| zika | 8 | 7 | 8 | 13 | 6 | 13 | 5 | 60 |
+| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 6 | 47 |
 | meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 2 | 35 |
 | mpox | 8 | 4 | 3 | 5 | 8 | 6 | 1 | 35 |
-| sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 1 | 28 |
-| pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 3 | 21 |
+| sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 3 | 30 |
+| pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 4 | 22 |
 | typhoid | 1 | 2 | 2 | 1 | 2 | 2 | 1 | 11 |
 | yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 1 | 8 |
 | leptospirosis | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 5 |
@@ -32,6 +32,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-9 (zika)
+
+- [Dengue: veja dicas para afastar o mosquito da sua casa](https://www.metropoles.com/saude/dengue-dicas-para-afastar-mosquito-de-casa) (Metropoles.com)
+
+- [Passar repelente direto na pele ou por cima da roupa? Tire essa e outras dúvidas sobre o produto](https://www.terra.com.br/vida-e-estilo/saude/passar-repelente-direto-na-pele-ou-por-cima-da-roupa-tire-essa-e-outras-duvidas-sobre-o-produto,0c2b1dbe229a5383935f913939260fadsl2mdv3p.html) (Terra.com.br)
 
 - [Combate à dengue: 9 dicas de manutenção da casa para eliminar o mosquito!](https://casa.abril.com.br/minha-casa/combate-a-dengue-dicas-de-manutencao-da-casa/) (Abril.com.br)
 
@@ -48,6 +52,10 @@ Source: [News API](https://newsapi.org/)
 - [Mapping the incidence rate of typhoid fever in sub-Saharan Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011902) (Plos.org)
 
 ## 24-9 (sarampión)
+
+- [El sarampión vuelve a España: Toledo y Alicante detectan los primeros brotes en años](https://www.meneame.net/m/actualidad/sarampion-vuelve-espana-toledo-alicante-detectan-primeros-brotes) (Meneame.net)
+
+- [El sarampión vuelve a España: Toledo y Alicante detectan los primeros brotes en años](https://www.alimente.elconfidencial.com/bienestar/2024-02-29/el-sarampion-vuelve-a-espana_3840126/) (Elconfidencial.com)
 
 - [La Florida desafía a los CDC con recomendaciones sobre el sarampión](https://www.vozdeamerica.com/a/florida-desafia-cdc-recomendaciones-sarampion-/7504900.html) (Vozdeamerica.com)
 
@@ -67,6 +75,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (pertussis)
 
+- [Whooping cough outbreaks persist in Alberta as health officials urge vaccination](https://www.cbc.ca/news/canada/calgary/whooping-cough-outbreaks-alberta-vaccination-urged-1.7128807) (CBC News)
+
 - [Epidemie černého kašle pořád sílí. Za týden přibylo 374 případů](https://www.idnes.cz/zpravy/domaci/cerny-kasel-epidemie-nemocne-deti.A240227_120119_domaci_dyn) (Idnes.cz)
 
 - [Whooping cough symptoms and the three phases of the contagious disease](https://www.nottinghampost.com/news/health/whooping-cough-symptoms-three-phases-9125382) (Nottinghamshire Live)
@@ -84,6 +94,14 @@ Source: [News API](https://newsapi.org/)
 - [24-yr-old dies a day after testing positive for Covid](https://timesofindia.indiatimes.com/city/kolkata/24-year-old-dies-a-day-after-testing-positive-for-covid/articleshow/108027821.cms) (The Times of India)
 
 ## 24-9 (measles)
+
+- [Nearly 800 of School's Students Were Absent on Wednesday](https://www.newser.com/story/347084/nearly-800-of-schools-students-were-absent-on-wednesday.html) (Newser)
+
+- [Florida: “Surgeon General” Fails to Tell Students to Get Vaccinated Against Measles](https://dianeravitch.net/2024/02/29/florida-surgeon-general-fails-to-tell-students-to-get-vaccinated-against-measles/) (Dianeravitch.net)
+
+- [Thursday, February 29, 2024](https://kffhealthnews.org/morning-briefing/thursday-february-29-2024/) (Kffhealthnews.org)
+
+- [Press release: Marketing campaign launches to drive up childhood vaccinations](https://www.gov.uk/government/news/marketing-campaign-launches-to-drive-up-childhood-vaccinations) (Www.gov.uk)
 
 - [Biohazard or Bundle of Joy? Pregnancy Is Not a Disease.](https://www.thegospelcoalition.org/article/pregnancy-not-disease/) (Thegospelcoalition.org)
 
@@ -199,6 +217,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (malaria)
 
+- [Miasmas: el hedor mortal que acechaba en el aire](https://www.muyinteresante.com/historia/63933.html) (Muyinteresante.com)
+
 - [Fiorentina, Kouame guarito dalla malaria: manca l'ultimo ok per il rientro in campo](https://www.tuttomercatoweb.com/serie-a/fiorentina-kouame-guarito-dalla-malaria-manca-l-ultimo-ok-per-il-rientro-in-campo-1940515) (Tuttomercatoweb.com)
 
 - [Plasmodium falciparum contains functional SCF and CRL4 ubiquitin E3 ligases, and CRL4 is critical for cell division and membrane integrity](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012045) (Plos.org)
@@ -228,6 +248,28 @@ Source: [News API](https://newsapi.org/)
 - [Isolating and genotyping Leptospira bacteria for the first time in Austria](https://phys.org/news/2024-02-isolating-genotyping-leptospira-bacteria-austria.html) (Phys.Org)
 
 ## 24-9 (dengue)
+
+- [Brasil atinge 1 milhão de casos prováveis de dengue em 2024](https://www.metropoles.com/brasil/brasil-atinge-1-milhao-de-casos-provaveis-de-dengue-em-2024) (Metropoles.com)
+
+- [Dengue: Anvisa priorizará análise de pedidos de registro de repelentes](https://www.metropoles.com/brasil/dengue-anvisa-priorizara-analise-de-pedidos-de-registro-de-repelentes) (Metropoles.com)
+
+- [Estado do Rio de Janeiro registra 10 mortes por dengue](https://www.metropoles.com/brasil/estado-do-rio-de-janeiro-registra-10-mortes-por-dengue) (Metropoles.com)
+
+- [Takeda to soon start trials in India for dengue vaccine](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/takeda-to-soon-start-trials-in-india-for-dengue-vaccine/articleshow/108117082.cms) (The Times of India)
+
+- [Dengue: veja dicas para afastar o mosquito da sua casa](https://www.metropoles.com/saude/dengue-dicas-para-afastar-mosquito-de-casa) (Metropoles.com)
+
+- [Dezoito minutos separaram morte de pai e filha por suspeita de dengue](https://www.metropoles.com/brasil/dezoito-minutos-separaram-morte-de-pai-e-filha-por-suspeita-de-dengue) (Metropoles.com)
+
+- [Dengue: veja dicas para afastar o mosquito da sua casa](https://www.terra.com.br/vida-e-estilo/dengue-veja-dicas-para-afastar-o-mosquito-da-sua-casa,f681027080c9d84df56452f51dec9672ved2magr.html) (Terra.com.br)
+
+- [Santé. Insolite : le virus de la dengue provoque un priapisme de 18 heures chez un patient](https://www.ledauphine.com/magazine-sante/2024/02/29/insolite-le-virus-de-la-dengue-provoque-un-priapisme-de-18-heures-chez-un-patient) (Le Dauphiné Libéré)
+
+- [Perú declara emergencia sanitaria por dengue en la mayor parte del país](https://cnnespanol.cnn.com/2024/02/29/peru-emergencia-sanitaria-dengue-orix/) (CNN)
+
+- [Como saber se estou com dengue e o que fazer?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-29/como-saber-se-estou-com-dengue-e-o-que-fazer-.html) (Ig.com.br)
+
+- [Aliada de Boulos questiona no MP plano de Nunes contra dengue](https://veja.abril.com.br/coluna/radar/aliada-de-boulos-questiona-no-mp-plano-de-nunes-contra-dengue) (Abril.com.br)
 
 - [DF registrou mais de 3 mil internações de pacientes com dengue em 2024](https://www.metropoles.com/distrito-federal/df-registrou-mais-de-3-mil-internacoes-de-pacientes-com-dengue-em-2024) (Metropoles.com)
 
@@ -462,6 +504,12 @@ Source: [News API](https://newsapi.org/)
 - [DF tem maior número de casos e de mortes por dengue no país](https://saude.ig.com.br/2024-02-24/df-tem-maior-numero-de-casos-e-de-mortes-por-dengue-no-pais.html) (Ig.com.br)
 
 ## 24-9 (chikungunya)
+
+- [Dengue: veja dicas para afastar o mosquito da sua casa](https://www.metropoles.com/saude/dengue-dicas-para-afastar-mosquito-de-casa) (Metropoles.com)
+
+- [Valneva: Ixchiq vaccine recommended by ACIP](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Ixchiq-vaccine-recommended-by-ACIP-46063466/) (Marketscreener.com)
+
+- [Passar repelente direto na pele ou por cima da roupa? Tire essa e outras dúvidas sobre o produto](https://www.terra.com.br/vida-e-estilo/saude/passar-repelente-direto-na-pele-ou-por-cima-da-roupa-tire-essa-e-outras-duvidas-sobre-o-produto,0c2b1dbe229a5383935f913939260fadsl2mdv3p.html) (Terra.com.br)
 
 - [U.S. CDC Advisory Committee (ACIP) Recommends Use of Valneva's Single-Dose Chikungunya Vaccine IXCHIQ®](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/U-S-CDC-Advisory-Committee-ACIP-Recommends-Use-of-Valneva-s-Single-Dose-Chikungunya-Vaccine-IXC-46056887/) (Marketscreener.com)
 
@@ -3951,8 +3999,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health dept. confirms rabid coyote in Mount Pleasant; 1 person exposed](https://www.live5news.com/2024/01/17/health-dept-confirms-rabid-coyote-mount-pleasant-1-person-exposed/) (Live 5 News WCSC)
 
-- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
-
 ## 24-3 (pertussis)
 
 - [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
@@ -4116,8 +4162,6 @@ Source: [News API](https://newsapi.org/)
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
-
-- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 ## 24-3 (malaria)
 

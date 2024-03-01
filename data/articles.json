@@ -1,8 +1,389 @@
 {
-  "last_updated": "2024-03-01 07:05",
-  "count_articles_total": 1982,
-  "count_articles_new": 18,
+  "last_updated": "2024-03-01 19:05",
+  "count_articles_total": 2001,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 6241,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mateus Salom\u00e3o",
+      "title": "Brasil atinge 1 milh\u00e3o de casos prov\u00e1veis de dengue em 2024",
+      "description": "De acordo com o Minist\u00e9rio da Sa\u00fade, o pa\u00eds contabiliza 207 \u00f3bitos por dengue e outros 687 ainda em investiga\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/brasil/brasil-atinge-1-milhao-de-casos-provaveis-de-dengue-em-2024",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/03/23131203/Foto-mosquito-da-dengue.jpg",
+      "publishedAt": "2024-02-29 18:56:46",
+      "content": "O Brasil ultrapassou, nesta quinta-feira (29/2), a marca de 1 milh\u00e3o de casos prov\u00e1veis de dengue em 2024. A informa\u00e7\u00e3o consta na atualiza\u00e7\u00e3o mais recente do Painel de Monitoramento das Arboviroses d\u2026 [+5728 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.796442",
+      "internal_id": "a1d7affd0de9e7287918e5df245da96205cb76500d2882e2dddf47d6cff5fc69",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6240,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Dengue: Anvisa priorizar\u00e1 an\u00e1lise de pedidos de registro de repelentes",
+      "description": "\u00c9 poss\u00edvel acompanhar a fila de peti\u00e7\u00f5es de registro e de mudan\u00e7a de registro (p\u00f3s-registro) no site da ag\u00eancia",
+      "url": "https://www.metropoles.com/brasil/dengue-anvisa-priorizara-analise-de-pedidos-de-registro-de-repelentes",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/03/23145732/ANVISA-021.jpg",
+      "publishedAt": "2024-02-29 18:55:21",
+      "content": "Em meio \u00e0 explos\u00e3o de casos de dengue no pa\u00eds, a Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) informou que vai priorizar a an\u00e1lise de pedidos de registro de produtos cosm\u00e9ticos do grupo repelent\u2026 [+1325 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.770568",
+      "internal_id": "73881fc552f76a01fcb0ff3cc747d7283f8532028ce069691f02fe2b9d69f5f1",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6242,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Estado do Rio de Janeiro registra 10 mortes por dengue",
+      "description": "S\u00e3o mais de 82 mil casos prov\u00e1veis de dengue no Rio de Janeiro, segundo o painel de Arboviroses do Centro de Intelig\u00eancia em Sa\u00fade",
+      "url": "https://www.metropoles.com/brasil/estado-do-rio-de-janeiro-registra-10-mortes-por-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/19214926/dengue-hemorragica-mata-menina-de-8-anos-no-DF.jpg",
+      "publishedAt": "2024-02-29 18:55:03",
+      "content": "O estado do Rio de Janeiro tem 10 mortes por dengue e 82.420 casos prov\u00e1veis da doen\u00e7a, segundo o painel de Arboviroses do Centro de Intelig\u00eancia em Sa\u00fade da Secretaria Estadual de Sa\u00fade. Em 2023, o \u2026 [+1589 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.800229",
+      "internal_id": "98f86636e95141e28c8626a1d778c5831e9a9a7ca6d54d1eff6d898ecb80681e",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6246,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Viswanath Pilla",
+      "title": "Takeda to soon start trials in India for dengue vaccine",
+      "description": "Takeda Pharmaceuticals' dengue vaccine assumes significance since the first vaccine ever licensed for dengue, developed by French drugmaker Sanofi Pasteur, met with failure as it only helped people who had been previously infected with the virus.",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/takeda-to-soon-start-trials-in-india-for-dengue-vaccine/articleshow/108117082.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108117088,width-1200,height-630,imgsize-47182,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-02-29 18:18:29",
+      "content": "Mumbai: Japanese drugmaker Takeda Pharmaceuticals said it is in ongoing discussions with the Indian regulator and will soon initiate bridging trials on 500 people in India, as it seeks approval of it\u2026 [+2365 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.873866",
+      "internal_id": "8a440c89eb47840a332573f18ec7c799fc101c559090a4d5a6f4269f401dfc07",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6230,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Whooping cough outbreaks persist in Alberta as health officials urge vaccination",
+      "description": "As pertussis cases continue to climb, Albertans are being warned to ensure their children are up-to-date on their immunizations.",
+      "url": "https://www.cbc.ca/news/canada/calgary/whooping-cough-outbreaks-alberta-vaccination-urged-1.7128807",
+      "urlToImage": "https://i.cbc.ca/1.5050264.1689206825!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/child-coughing.jpg",
+      "publishedAt": "2024-02-29 18:10:34",
+      "content": "As pertussis cases continue to climb, Albertans are being warned to ensure their children are up-to-date on their immunizations. The highly contagious bacterial infection, commonly known as \"whoopin\u2026 [+4218 chars]",
+      "retrievedAt": "2024-03-01 19:05:51.299554",
+      "internal_id": "5f1a335f3a5fcf19d5003eb7ddcaee0a3abd25881f0ca63986ef59c25f718eaa",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6239,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Alto Astral",
+      "title": "Dengue: veja dicas para afastar o mosquito da sua casa",
+      "description": "Confira algumas medidas pr\u00e1ticas para evitar a prolifera\u00e7\u00e3o do mosquito da dengue e prevenir a doen\u00e7a",
+      "url": "https://www.metropoles.com/saude/dengue-dicas-para-afastar-mosquito-de-casa",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/02133817/DF-perdeu-36-dos-agentes-contra-a-dengue-1.jpg",
+      "publishedAt": "2024-02-29 17:49:04",
+      "content": "Dengue, zika e chikungunya s\u00e3o doen\u00e7as cujos nomes s\u00e3o conhecidos no Brasil. Os tr\u00eas v\u00edrus transmitidos pelo mesmo mosquito, o Aedes aegypti, t\u00eam maior incid\u00eancia no pa\u00eds em per\u00edodos de chuva e calor\u2026 [+2583 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.765805",
+      "internal_id": "a67dda1cb399222c7ab16ccde52a41a643a642c27a90b78895fef2a814d16e57",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6236,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "bonobo",
+      "title": "El sarampi\u00f3n vuelve a Espa\u00f1a: Toledo y Alicante detectan los primeros brotes en a\u00f1os",
+      "description": "Mientras en el resto de Europa llevan meses experimentando infecciones por esta enfermedad tan contagiosa, hasta ahora nuestro pa\u00eds estaba esquivando la trasmisi\u00f3n local gracias a la alta vacunaci\u00f3netiquetas: sarampi\u00f3n, brotes, espa\u00f1a\u00bb noticia original (www.a\u2026",
+      "url": "https://www.meneame.net/m/actualidad/sarampion-vuelve-espana-toledo-alicante-detectan-primeros-brotes",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-02-29 17:41:12",
+      "content": "Esto se soluciona f\u00e1cil, solo hay que esterilizar a los padres y, ya se limita el problema para futuros a\u00f1os.Por qu\u00e9 mi medida? F\u00e1cil, los imb\u00e9ciles estos no conf\u00edan en las vacunas, pero me juego el \u2026 [+256 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.247326",
+      "internal_id": "f90d9cf647b4bf333e3ae25f6f2f225022fe166f5697c966632652fafde251de",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6245,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "NSC Total",
+      "title": "Dezoito minutos separaram morte de pai e filha por suspeita de dengue",
+      "description": "Pai e filha moravam juntos no bairro Boa Vista, em Joinville (SC)",
+      "url": "https://www.metropoles.com/brasil/dezoito-minutos-separaram-morte-de-pai-e-filha-por-suspeita-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/29133027/pai-e-filha-dengue-joinville-1.jpg",
+      "publishedAt": "2024-02-29 16:47:09",
+      "content": "No in\u00edcio desta semana, a fam\u00edlia Jatczak foi surpreendida com uma not\u00edcia triste. Pai e filha morreram na mesma noite ap\u00f3s terem contra\u00eddo dengue em Joinville (SC). Francisco Jatczak tinha 95 anos e\u2026 [+1176 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.864135",
+      "internal_id": "d091df1627395acb7e8cae807bb8ff731d616a4eca938b7c98a44de8c9c9b7e2",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6244,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Alto Astral",
+      "title": "Dengue: veja dicas para afastar o mosquito da sua casa",
+      "description": "Confira aqui algumas medidas pr\u00e1ticas para evitar a prolifera\u00e7\u00e3o do mosquito da dengue e prevenir a doen\u00e7a",
+      "url": "https://www.terra.com.br/vida-e-estilo/dengue-veja-dicas-para-afastar-o-mosquito-da-sua-casa,f681027080c9d84df56452f51dec9672ved2magr.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/29/52707160-dicas-afastar-mosquito.jpg",
+      "publishedAt": "2024-02-29 16:09:54",
+      "content": "Desde janeiro, casos de dengue v\u00eam sendo registrados em todo o Brasil. Segundo dados do Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade, o pa\u00eds j\u00e1 registrou 920.427 casosprov\u00e1veis da do\u2026 [+1819 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.856732",
+      "internal_id": "68423e4ac0b6b23fb4f0a44acf15deac0f6076ae80e14db7f662778a01844fa2",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6243,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "En partenariat avec Destination Sant\u00e9",
+      "title": "Sant\u00e9. Insolite : le virus de la dengue provoque un priapisme de 18 heures chez un patient",
+      "description": "Une \u00e9quipe de m\u00e9decins du Burkina Faso rapporte dans la revue Urology Case Reports le cas d\u2019un jeune homme de 17 ans, trait\u00e9 \u00e0 Ouagadougou en service de n\u00e9phrologie pour une dengue s\u00e9v\u00e8re. L\u2019un de ses sympt\u00f4mes, directement li\u00e9 au virus, a particuli\u00e8rement re\u2026",
+      "url": "https://www.ledauphine.com/magazine-sante/2024/02/29/insolite-le-virus-de-la-dengue-provoque-un-priapisme-de-18-heures-chez-un-patient",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/36535EC3-6FFB-43E6-ADA6-91FA25732DD0/FB1200/photo-1709116338.jpg",
+      "publishedAt": "2024-02-29 16:00:00",
+      "content": "Un cas \u00ab Hors du commun \u00bb, selon les m\u00e9decins du Centre hospitalier universitaire de Ouagadougou au Burkina Faso. Ces professionnels d\u00e9crivent dans la revue Urology Case Reports de mars 2024, le cas \u2026 [+2483 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.844253",
+      "internal_id": "72e8816e460252b3d1cc18ef1c89caac86d2cad697bec7e481805f12cfc3c353",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6250,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Valneva: Ixchiq vaccine recommended by ACIP",
+      "description": "(marketscreener.com) Valneva announces that the Advisory Committee on Immunization of the U.S. Centers for Disease Control and Prevention recommends its Ixchiq vaccine to prevent chikungunya in travelers and laboratory workers.This recommendation follows FDA \u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Ixchiq-vaccine-recommended-by-ACIP-46063466/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-02-29 15:00:08",
+      "content": "Valneva announces that the Advisory Committee on Immunization (ACIP) of the U.S. Centers for Disease Control and Prevention recommends its Ixchiq vaccine to prevent chikungunya in travelers and labor\u2026 [+473 chars]",
+      "retrievedAt": "2024-03-01 19:05:54.314969",
+      "internal_id": "ec6cb4484cd22e3279490705ef9e007d88236279bd831f15da784ed13a5eb1ce",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6234,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Jenn Gidman",
+      "title": "Nearly 800 of School's Students Were Absent on Wednesday",
+      "description": "As one Florida elementary school deals with measles , another in Alabama is contending with a \"gastrointestinal outbreak\" that kept nearly 800 students out of school in just one day. WKRG reports that Fairhope West Elementary School is now closed Thursday and\u2026",
+      "url": "https://www.newser.com/story/347084/nearly-800-of-schools-students-were-absent-on-wednesday.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1521086-12-20240229085047.jpeg",
+      "publishedAt": "2024-02-29 14:43:00",
+      "content": "According to a release from the Alabama Department of Public Health, which is collecting samples and conducting tests, nausea and vomiting appear to be the two prominent symptoms, reports Gulf Coast \u2026 [+656 chars]",
+      "retrievedAt": "2024-03-01 19:05:51.937097",
+      "internal_id": "9b9688fbad50d8345175791719ce9ee74541a14fb1e171ffdb41683fe62594ff",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6238,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Sof\u00eda Benavides",
+      "title": "Per\u00fa declara emergencia sanitaria por dengue en la mayor parte del pa\u00eds",
+      "description": "El Gobierno de Per\u00fa formaliz\u00f3 este mi\u00e9rcoles una declaratoria de emergencia sanitaria para la mayor parte de su territorio \u201419 de los 24 departamentos y una de las dos provincias\u2014 debido a la epidemia de dengue que afecta al pa\u00eds, de acuerdo con un decreto pu\u2026",
+      "url": "https://cnnespanol.cnn.com/2024/02/29/peru-emergencia-sanitaria-dengue-orix/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/02/GettyImages-2036330261-e1709217500100.jpg?quality=100&strip=info",
+      "publishedAt": "2024-02-29 14:41:03",
+      "content": "Dengue pone en alerta a Per\u00fa, esto es lo que sabemos 2:36 (CNN Espa\u00f1ol) -- El Gobierno de Per\u00fa formaliz\u00f3 este mi\u00e9rcoles una declaratoria de emergencia sanitaria para la mayor parte de su territorio \u2026 [+2116 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.689009",
+      "internal_id": "ce468ef5239006ef0e2aa6c0e58b7f2582094f4ffc07650eead4c882c39672f0",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6247,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Como saber se estou com dengue e o que fazer?",
+      "description": "Infectologista explica quais s\u00e3o os primeiros sintomas de dengue e o que a pessoa com suspeita deve fazer para evitar riscos. Existem rem\u00e9dios que s\u00e3o proibidos",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-29/como-saber-se-estou-com-dengue-e-o-que-fazer-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/bt/t7/x4/btt7x45uih758elmozjwnv9fx.jpg",
+      "publishedAt": "2024-02-29 14:05:17",
+      "content": "O Brasil enfrenta uma explos\u00e3o de casos de dengue, e algu\u00e9m pr\u00f3ximo ou voc\u00ea mesmo pode pensar que contraiu a doen\u00e7a transmitida pelo mosquito Aedes aegypti . No caso de d\u00favidas, \u00e9 preciso observar o\u2026 [+4167 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.877931",
+      "internal_id": "53067470fc329ef94421d1681a661cc918df4a2a1738f535b5a42e39334cc166",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6231,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "Florida: \u201cSurgeon General\u201d Fails to Tell Students to Get Vaccinated Against Measles",
+      "description": "Certain counties in Florida are experiencing an outbreak of measles, a highly contagious and sometimes lethal that was supposedly under control due to widespread vaccination. Florida\u2019s top doctor, Dr. Joseph Ladapo, has thus far failed to instruct students in\u2026",
+      "url": "https://dianeravitch.net/2024/02/29/florida-surgeon-general-fails-to-tell-students-to-get-vaccinated-against-measles/",
+      "urlToImage": "https://greatschoolwars.files.wordpress.com/2017/12/diane.jpg?w=200",
+      "publishedAt": "2024-02-29 14:00:00",
+      "content": "Certain counties in Florida are experiencing an outbreak of measles, a highly contagious and sometimes lethal that was supposedly under control due to widespread vaccination. Floridas top doctor, D\u2026 [+2612 chars]",
+      "retrievedAt": "2024-03-01 19:05:51.880248",
+      "internal_id": "0e36d503db833011c1e1f9d7fafd4749b5a5b83d9d872122fd8d7621d58cae31",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6233,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Thursday, February 29, 2024",
+      "description": "Covid and measles shots, IVF access, abortion rates, Biden's physical, weight-loss drugs, drug use, microplastics, and more are in the news.",
+      "url": "https://kffhealthnews.org/morning-briefing/thursday-february-29-2024/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2024-02-29 13:43:15",
+      "content": "Alarm Raised About Quality, Services From Health Providers Amazon Bought Patients are voicing concerns about changes to health service quality and offerings from providers that Amazon bought, such a\u2026 [+4870 chars]",
+      "retrievedAt": "2024-03-01 19:05:51.929564",
+      "internal_id": "9e440cfe7c0feee1b861ba43ef769180dad6742ccc7591209a64526d0dd495ef",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6248,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Muyinteresante.com",
+      "author": "Pedro Gargantilla",
+      "title": "Miasmas: el hedor mortal que acechaba en el aire",
+      "description": "Durante siglos se consider\u00f3 que las emanaciones f\u00e9tidas de materia en descomposici\u00f3n tej\u00edan un manto f\u00e9tido y eran fuente de enfermedades como la malaria, la peste o el c\u00f3lera.",
+      "url": "https://www.muyinteresante.com/historia/63933.html",
+      "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/02/29/65e0863b0b380.jpeg",
+      "publishedAt": "2024-02-29 13:29:08",
+      "content": "En la historia de la medicina se conoce como paradigma a un modelo o teor\u00eda que proporciona una explicaci\u00f3n integral de los procesos de salud y enfermedad. Los principales paradigmas han sido: el m\u00e1g\u2026 [+5149 chars]",
+      "retrievedAt": "2024-03-01 19:05:53.637271",
+      "internal_id": "e2655672222c5a6f2520d1e5aa7dde1ba8e51fd0428c528ca14e7a3c47999013",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6235,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencial.com",
+      "author": "Fran S\u00e1nchez Becerril",
+      "title": "El sarampi\u00f3n vuelve a Espa\u00f1a: Toledo y Alicante detectan los primeros brotes en a\u00f1os",
+      "description": "Mientras en el resto de Europa llevan meses experimentando infecciones por esta enfermedad tan contagiosa, hasta ahora nuestro pa\u00eds estaba esquivando la trasmisi\u00f3n local gracias a la alta vacunaci\u00f3n",
+      "url": "https://www.alimente.elconfidencial.com/bienestar/2024-02-29/el-sarampion-vuelve-a-espana_3840126/",
+      "urlToImage": "https://images.ecestaticos.com/evrCTatbosCG1_629NYDUTGmink=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/6fe/9f8/aff/6fe9f8affe583116fd468a903c287c44.png,0,275,1)/f.elconfidencial.com/original/4c5/f4f/8ed/4c5f4f8edb0daf37afbad87c8aaf3009.jpg",
+      "publishedAt": "2024-02-29 13:19:00",
+      "content": "En los \u00faltimos meses, hemos recibido m\u00faltiples noticias sobre c\u00f3mo el sarampi\u00f3n ha empezado a campar a sus anchas por varios pa\u00edses de Europa. Aunque gracias a la vacunaci\u00f3n ten\u00edamos olvidada a esta \u2026 [+6917 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.241393",
+      "internal_id": "7d8db85f1d288b18d52ac9b11cf2aa9ee945a5b498d82fae57be0d5fac34e138",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6237,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Ramiro Brites",
+      "title": "Aliada de Boulos questiona no MP plano de Nunes contra dengue",
+      "description": "L\u00edder do MTST quer metas, prazos e prioridades da Prefeitura de SP no controle ao mosquito",
+      "url": "https://veja.abril.com.br/coluna/radar/aliada-de-boulos-questiona-no-mp-plano-de-nunes-contra-dengue",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/nunes.png",
+      "publishedAt": "2024-02-29 12:30:26",
+      "content": "Assine VEJA por R$2,00/semana Continua ap\u00f3s publicidade O prefeito de S\u00e3o Paulo, Ricardo Nunes (MDB) (Kaio Lakaio/VEJA) Continua ap\u00f3s publicidade Coordenadora do MTST e presidenta do PSOL de S\u00e3o\u2026 [+1250 chars]",
+      "retrievedAt": "2024-03-01 19:05:52.681806",
+      "internal_id": "1ff87b7c3eb7f69c5f827efbafdc5add625fba31aaf3057835ac73eec7b9ddfc",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6249,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Passar repelente direto na pele ou por cima da roupa? Tire essa e outras d\u00favidas sobre o produto",
+      "description": "O uso de repelente \u00e9 uma das medidas de prote\u00e7\u00e3o indicadas pelo Minist\u00e9rio da Sa\u00fade para evitar ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/passar-repelente-direto-na-pele-ou-por-cima-da-roupa-tire-essa-e-outras-duvidas-sobre-o-produto,0c2b1dbe229a5383935f913939260fadsl2mdv3p.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-29 11:34:01",
+      "content": "O uso de repelente \u00e9 uma das medidas de prote\u00e7\u00e3o indicadas pelo Minist\u00e9rio da Sa\u00fade para evitar a picada do mosquito Aedes aegypti, transmissor do v\u00edrus da dengue etamb\u00e9m da zika e do chikungunya. Ma\u2026 [+5763 chars]",
+      "retrievedAt": "2024-03-01 19:05:54.002215",
+      "internal_id": "16cd02b3d0a505a6c1123f1232034762077310770d4b135ae1930801297109d9",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6232,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Press release: Marketing campaign launches to drive up childhood vaccinations",
+      "description": "UKHSA Chief Executive Professor Dame Jenny Harries visits Manchester and Liverpool to launch campaign as measles cases continue to rise.",
+      "url": "https://www.gov.uk/government/news/marketing-campaign-launches-to-drive-up-childhood-vaccinations",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/65df606ef1cab36b60fc4741/s960_Vaccination_campaign.png",
+      "publishedAt": "2024-02-29 08:04:44",
+      "content": "The UK Health Security Agency (UKHSA) is launching a new multi-media marketing campaign across England to remind parents and carers of the risk of their children missing out on protection against ser\u2026 [+7509 chars]",
+      "retrievedAt": "2024-03-01 19:05:51.921821",
+      "internal_id": "4ff7028e1f2a9cc6c758140068aa51e98bf5aa00d6b865a1755ebf30078b6bb5",
+      "publishedAtLabel": "Feb 29"
+    },
     {
       "id": 6228,
       "query": [
@@ -35711,42 +36092,6 @@
       "content": "Duas Unidades B\u00e1sicas de Sa\u00fade (UBSs) do Distrito Federal v\u00e3o ter atendimento aos s\u00e1bados e domingos, para ampliar o atendimento de pacientes durante a epidemia de dengue da capital. As UBSs 2 de Cei\u2026 [+1772 chars]",
       "retrievedAt": "2024-01-16 07:05:50.500575",
       "internal_id": "8ae01a0831c39b103597ba8b5ca1e3e18f70d99a27bfad151ef15d2aac1da013",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4247,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WTOP",
-      "author": "Dan Friedell",
-      "title": "Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News",
-      "description": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received a vaccine.",
-      "url": "https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHI4ZTltb2UwMDE5M2I2aDlpNzZsZDc0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscjhkdDZ0ejAwMngyNnAxZzJ4aTVuMHg-300.jpg",
-      "publishedAt": "2024-01-14 09:50:17",
-      "content": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received \u2026 [+1445 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.519753",
-      "internal_id": "e313437922b4c02fe598f825deadbd0f17267ea4011518a4985782c038bc044c",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4246,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "All dog-bite victims in Sarawak stable, says Health Ministry",
-      "description": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 14). Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/14/2490389.jpg",
-      "publishedAt": "2024-01-14 08:02:00",
-      "content": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 1\u2026 [+1887 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.219448",
-      "internal_id": "d25374de87f036ae424c49e35d95b3b162fef4eabef0bcd96613686060058c8e",
       "publishedAtLabel": "Jan 14"
     }
   ]
