@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 19
-- **Last harvest:** 2024-03-02 07:05
-- **Most recent article:** 2024-03-01 07:00:00
+- **Last harvest:** 2024-03-02 19:05
+- **Most recent article:** 2024-03-01 18:00:16
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 137 | 1093 |
-| measles | 60 | 56 | 47 | 68 | 45 | 100 | 62 | 438 |
-| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 14 | 238 |
+| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 147 | 1103 |
+| measles | 59 | 56 | 47 | 68 | 45 | 100 | 65 | 440 |
+| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 17 | 241 |
 | chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 14 | 68 |
-| zika | 8 | 7 | 8 | 13 | 6 | 13 | 8 | 63 |
-| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 6 | 48 |
-| meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 3 | 36 |
+| zika | 8 | 7 | 8 | 13 | 6 | 13 | 9 | 64 |
+| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 7 | 48 |
+| meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 4 | 37 |
 | mpox | 8 | 4 | 3 | 5 | 8 | 6 | 1 | 35 |
-| sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 4 | 31 |
+| sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 5 | 32 |
 | pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 4 | 22 |
 | typhoid | 1 | 2 | 2 | 1 | 2 | 2 | 1 | 11 |
 | yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 1 | 8 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-9 (zika)
+
+- [El olor de los huéspedes atrae a los mosquitos causantes de los virus del dengue y el zika](https://www.nationalgeographic.com.es/medio-ambiente/virus-dengue-y-zika-atraen-a-mosquitos-alterando-olor-sus-huespedes_18606) (Nationalgeographic.com.es)
 
 - [Třeťáci řeší nejbizarnější porno, ale na sexuální výchovu je prý brzy](https://www.idnes.cz/onadnes/vztahy/sex-vztahy-pohlavni-styk-sexualni-vychova-zdrave-dospivani-lektor-marketa-koppova-jan-novotny-rozhov.A240227_150028_ona-vztahy_taj) (Idnes.cz)
 
@@ -64,6 +66,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (sarampión)
 
+- [Polémica en Florida por brote de sarampión: el estado permite que niños no vacunados vayan a la escuela](https://www.vozdeamerica.com/a/polemica-florida-brote-de-sarampion-estado-permite-ninos-no-vacunados-escuela/7509731.html) (Vozdeamerica.com)
+
 - [Por qué el sarampión amenaza España pese a ser uno de los países europeos con más vacunados](https://www.elespanol.com/ciencia/salud/20240301/sarampion-amenaza-espana-pese-paises-europeos-vacunados/836416771_0.html) (Elespanol.com)
 
 - [El sarampión vuelve a España: Toledo y Alicante detectan los primeros brotes en años](https://www.meneame.net/m/actualidad/sarampion-vuelve-espana-toledo-alicante-detectan-primeros-brotes) (Meneame.net)
@@ -73,6 +77,8 @@ Source: [News API](https://newsapi.org/)
 - [La Florida desafía a los CDC con recomendaciones sobre el sarampión](https://www.vozdeamerica.com/a/florida-desafia-cdc-recomendaciones-sarampion-/7504900.html) (Vozdeamerica.com)
 
 ## 24-9 (rabies)
+
+- [Zamboanga: OCVet ta encabesa con el observacion del ‘RAM’](https://rpnradio.com/zamboanga-ocvet-ta-encabesa-con-el-observacion-del-ram/) (Rpnradio.com)
 
 - [Dyadic Announces Strategic Partnership Agreement to Develop Affordable Rabies Prophylactics and Vaccines Using its Proprietary C1 Cell Microbial Protein Production Platform](https://www.marketscreener.com/quote/stock/DYADIC-INTERNATIONAL-INC-57599342/news/Dyadic-Announces-Strategic-Partnership-Agreement-to-Develop-Affordable-Rabies-Prophylactics-and-Vac-46050069/) (Marketscreener.com)
 
@@ -102,6 +108,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (meningitis)
 
+- [Current Weather Conditions Could Worsen Meningitis Outbreak](https://allafrica.com/stories/202403010255.html) (AllAfrica - Top Africa News)
+
 - [206 quarantined as meningitis kills 26 in Yobe, Gombe](https://punchng.com/206-quarantined-as-meningitis-kills-26-in-yobe-gombe/) (The Punch)
 
 - [Tackling long-haul diseases](https://www.technologyreview.com/2024/02/28/1087617/tackling-long-haul-diseases/) (MIT Technology Review)
@@ -109,6 +117,12 @@ Source: [News API](https://newsapi.org/)
 - [24-yr-old dies a day after testing positive for Covid](https://timesofindia.indiatimes.com/city/kolkata/24-year-old-dies-a-day-after-testing-positive-for-covid/articleshow/108027821.cms) (The Times of India)
 
 ## 24-9 (measles)
+
+- [Measles is one of the deadliest and most contagious infectious diseases – and one of the most easily preventable](https://theconversation.com/measles-is-one-of-the-deadliest-and-most-contagious-infectious-diseases-and-one-of-the-most-easily-preventable-224493) (The Conversation Africa)
+
+- [Public health reports cases of measles in Laval and Montreal, urge people to get vaccinated](https://www.cbc.ca/news/canada/montreal/measles-laval-1.7130625) (CBC News)
+
+- [Measles can be deadly and is highly contagious — but it is preventable](https://www.cbsnews.com/news/measles-what-to-know/) (CBS News)
 
 - [York Region Public Health investigating adult case of measles with 'unknown' infection source](https://www.cbc.ca/news/canada/toronto/fourth-case-measles-ontario-2024-1.7130158) (CBC News)
 
@@ -236,6 +250,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (malaria)
 
+- [Considerations for Rearing and Maintaining Anopheles in the Laboratory](https://cshprotocols.cshlp.org/content/2024/3/pdb.top107802.full?rss=1) (Cshlp.org)
+
+- [Role of riboflavin deficiency in malaria pathophysiology](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011991) (Plos.org)
+
+- [Malaria Global Clinical Trials Review 2024, Featuring GSK, Sanaria, Novartis, Nucleus Network, Sanofi Shin Poong Pharm, Pfizer, Sun Pharmaceutical, IPCA Laboratories and Richmond Pharmacology](https://www.globenewswire.com/news-release/2024/03/01/2838652/28124/en/Malaria-Global-Clinical-Trials-Review-2024-Featuring-GSK-Sanaria-Novartis-Nucleus-Network-Sanofi-Shin-Poong-Pharm-Pfizer-Sun-Pharmaceutical-IPCA-Laboratories-and-Richmond-Pharmacol.html) (GlobeNewswire)
+
 - [New study: Deforestation exacerbates risk of malaria for most vulnerable children](https://phys.org/news/2024-02-deforestation-exacerbates-malaria-vulnerable-children.html) (Phys.Org)
 
 - [Miasmas: el hedor mortal que acechaba en el aire](https://www.muyinteresante.com/historia/63933.html) (Muyinteresante.com)
@@ -271,6 +291,26 @@ Source: [News API](https://newsapi.org/)
 - [Isolating and genotyping Leptospira bacteria for the first time in Austria](https://phys.org/news/2024-02-isolating-genotyping-leptospira-bacteria-austria.html) (Phys.Org)
 
 ## 24-9 (dengue)
+
+- [L’Argentine confrontée à une explosion du nombre de cas de dengue](https://www.lemonde.fr/planete/article/2024/03/01/l-argentine-confrontee-a-une-explosion-du-nombre-de-cas-de-dengue_6219558_3244.html) (Le Monde)
+
+- [Após baixa procura, Ibaneis cogita ampliar vacinação contra a dengue](https://www.metropoles.com/distrito-federal/apos-baixa-procura-ibaneis-cogita-ampliar-vacinacao-contra-dengue) (Metropoles.com)
+
+- [Alunos de Anápolis serão vacinados contra a dengue nas escolas](https://www.metropoles.com/brasil/alunos-de-anapolis-serao-vacinados-contra-a-dengue-nas-escolas) (Metropoles.com)
+
+- [Aedes aegypti está se reproduzindo em água salobra no Brasil — e isso preocupa](https://olhardigital.com.br/2024/03/01/medicina-e-saude/aedes-aegypti-esta-se-reproduzindo-em-agua-salobra-no-brasil-e-isso-preocupa/) (Olhardigital.com.br)
+
+- [El olor de los huéspedes atrae a los mosquitos causantes de los virus del dengue y el zika](https://www.nationalgeographic.com.es/medio-ambiente/virus-dengue-y-zika-atraen-a-mosquitos-alterando-olor-sus-huespedes_18606) (Nationalgeographic.com.es)
+
+- [Brasil registra mais de 1 milhão de casos de dengue; Planalto tenta evitar dano político](https://brasil.perfil.com/saude/brasil-registra-mais-de-1-milhao-de-casos-de-dengue-planalto-tenta-evitar-dano-politico.phtml) (Perfil.com)
+
+- [Brazília zápasí s horúčkou dengue. Húfne sa šíri, za dva mesiace sa zrejme nakazilo viac ako milión ľudí](https://spravy.pravda.sk/svet/clanok/701518-brazilia-zapasi-s-horuckou-dengue-hufne-sa-siri-za-dva-mesiace-sa-zrejme-nakazilo-uz-vyse-milion-ludi/) (Pravda.sk)
+
+- [Dengue: Brasil ultrapassa 1 milhão de casos em 2024](https://olhardigital.com.br/2024/03/01/medicina-e-saude/dengue-brasil-ultrapassa-1-milhao-de-casos-em-2024/) (Olhardigital.com.br)
+
+- [Goiás amplia vacinação contra dengue para adolescentes até 14 anos](https://www.metropoles.com/brasil/goias-amplia-vacinacao-contra-dengue-para-adolescentes-ate-14-anos) (Metropoles.com)
+
+- [ARIDANGHE CON LA DENGUE! - NEI PRIMI DUE MESI DEL 2024 IL BRASILE HA SUPERATO UN MILIONE DI CONTAGI DA FEBBRE DENGUE, IN AUMENTO DEL 390% RISPETTO ALLO STESSO PERIODO DELLO SCORSO ANNO - NEL 2023 ERANO STATI REGISTRATI 1.658.816 CASI E 1.079 MORTI…](https://www.dagospia.com/rubrica-39/salute/aridanghe-dengue-primi-due-mesi-2024-brasile-ha-386643.htm) (Dagospia.com)
 
 - [Brasil ultrapassa a marca de 1 milhão de casos de dengue no ano](https://dinheirama.com/brasil-ultrapassa-a-marca-de-1-milhao-de-casos-de-dengue-no-ano/) (Dinheirama.com)
 
@@ -4046,8 +4086,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health dept. confirms rabid coyote in Mount Pleasant; 1 person exposed](https://www.live5news.com/2024/01/17/health-dept-confirms-rabid-coyote-mount-pleasant-1-person-exposed/) (Live 5 News WCSC)
 
-- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
-
 ## 24-3 (pertussis)
 
 - [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
@@ -4211,8 +4249,6 @@ Source: [News API](https://newsapi.org/)
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
-
-- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 ## 24-3 (malaria)
 

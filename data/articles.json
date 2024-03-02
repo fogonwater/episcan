@@ -1,8 +1,351 @@
 {
-  "last_updated": "2024-03-02 07:05",
-  "count_articles_total": 2022,
+  "last_updated": "2024-03-02 19:05",
+  "count_articles_total": 2039,
   "count_articles_new": 19,
   "articles": [
+    {
+      "id": 6278,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Ana\u00efs Dubois",
+      "title": "L\u2019Argentine confront\u00e9e \u00e0 une explosion du nombre de cas de dengue",
+      "description": "Les provinces du nord du pays, notamment celles frontali\u00e8res avec le Paraguay et le Br\u00e9sil, qui ont \u00e9galement connu un record de contagion ces derniers mois, sont les principales touch\u00e9es.",
+      "url": "https://www.lemonde.fr/planete/article/2024/03/01/l-argentine-confrontee-a-une-explosion-du-nombre-de-cas-de-dengue_6219558_3244.html",
+      "urlToImage": "https://img.lemde.fr/2024/03/01/0/0/8640/5760/1440/960/60/0/312e1f2_1709283028143-ap23094859390226.jpg",
+      "publishedAt": "2024-03-01 18:00:16",
+      "content": "Un nuage dinsecticide lors dune campagne de fumigation pour contenir la dengue, \u00e0 Rosario (Argentine), le 4 avril 2023. RODRIGO ABD/AP En ce d\u00e9but dapr\u00e8s-midi de fin f\u00e9vrier, \u00e0 lh\u00f4pital Mu\u00f1iz de Bue\u2026 [+2656 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.718369",
+      "internal_id": "d8d38c1f891e71c0cdfc4fb19a357acb0414681fe615c66295434c7b13892ca3",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6284,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Rebeca Kemilly",
+      "title": "Ap\u00f3s baixa procura, Ibaneis cogita ampliar vacina\u00e7\u00e3o contra a dengue",
+      "description": "Destinada a crian\u00e7as de 10 e 11 anos de idade, o imunizante foi tomado por apenas 32% do p\u00fablico-alvo",
+      "url": "https://www.metropoles.com/distrito-federal/apos-baixa-procura-ibaneis-cogita-ampliar-vacinacao-contra-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/23152914/vacina-dengue-sabado-UBS.jpg",
+      "publishedAt": "2024-03-01 17:57:09",
+      "content": "O governador do Distrito Federal, Ibaneis Rocha (MDB), disse nesta sexta-feira (1\u00ba/3) cogitar ampliar a faixa-et\u00e1ria da vacina\u00e7\u00e3o contra a dengue na pr\u00f3xima semana. O motivo \u00e9 a baixa procura pelo im\u2026 [+2925 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.872384",
+      "internal_id": "6faf1902a036fa11c1f5fe9830f981d388780df2d32c2c772c3ea06fea249ef1",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6274,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (Antoni Belchi)",
+      "title": "Pol\u00e9mica en Florida por brote de sarampi\u00f3n: el estado permite que ni\u00f1os no vacunados vayan a la escuela",
+      "description": "Las alarmas por un brote de sarampi\u00f3n han saltado en Florida, pero la decisi\u00f3n de las autoridades del estado de permitir el env\u00edo de ni\u00f1os no vacunados a la escuela difiere de los pedidos de funcionarios federales que sugieren no hacerlo para prevenir la prop\u2026",
+      "url": "https://www.vozdeamerica.com/a/polemica-florida-brote-de-sarampion-estado-permite-ninos-no-vacunados-escuela/7509731.html",
+      "urlToImage": "https://gdb.voanews.com/46647C21-CDB2-4401-B684-BFB0AC387DAC.jpg",
+      "publishedAt": "2024-03-01 15:44:17",
+      "content": "MIAMI, EEUU Las autoridades sanitarias confirmaron un brote de sarampi\u00f3n a principios de febrero en una escuela del condado de Broward, en el sur de Florida. Ahora se sabe que, al menos, hay 10 caso\u2026 [+4980 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.370484",
+      "internal_id": "16bcb8fa66de534b632de37e7f63ddaa7e6d2e6a8936e2c9fb27eeb551fdaa51",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6283,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Alunos de An\u00e1polis ser\u00e3o vacinados contra a dengue nas escolas",
+      "description": "Neste primeiro momento, tr\u00eas unidades escolares recebem as equipes da Sa\u00fade, que tamb\u00e9m v\u00e3o disponibilizar todas as vacinas de rotina",
+      "url": "https://www.metropoles.com/brasil/alunos-de-anapolis-serao-vacinados-contra-a-dengue-nas-escolas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/05/15124425/vacina-escola-anapolis.jpeg",
+      "publishedAt": "2024-03-01 15:33:40",
+      "content": "Goi\u00e2nia Os alunos da rede municipal de ensino de An\u00e1polis, munic\u00edpio a cerca de 55 km da capital goiana, poder\u00e3o atualizar o cart\u00e3o de vacina na pr\u00f3pria unidade escolar, conforme cronograma da Secre\u2026 [+2217 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.861408",
+      "internal_id": "527b89e3e1f73ad2c4ef1de067b57768822366ec51b9fded57f7bef3969c2003",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6270,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Zamboanga: OCVet ta encabesa con el observacion del \u2018RAM\u2019",
+      "description": "El Oficina del Veterinario del Ciudad (OCVet) ta encabesa con el observacion de \u201cRabies Awareness Month (RAM) para dale bastante informacion sobre el efecto del rabis y tambien promove responsable due\u00f1o de animal domestico na ciudad. El celebracion formalment\u2026",
+      "url": "https://rpnradio.com/zamboanga-ocvet-ta-encabesa-con-el-observacion-del-ram/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/03/Rabies-Awareness-Month.jpg",
+      "publishedAt": "2024-03-01 14:22:58",
+      "content": "El Oficina del Veterinario del Ciudad (OCVet) ta encabesa con el observacion de Rabies Awareness Month (RAM) para dale bastante informacion sobre el efecto del rabis y tambien promove responsable due\u2026 [+855 chars]",
+      "retrievedAt": "2024-03-02 19:05:18.409392",
+      "internal_id": "54b7861d77dd5f5159b3823191d07da053a361b80eb7dbbcc223c24d527099a9",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6288,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cshlp.org",
+      "author": "Leite, L. N., Bascunan, P., Dotson, E. M., Benedict, M. Q.",
+      "title": "Considerations for Rearing and Maintaining Anopheles in the Laboratory",
+      "description": "Anopheles mosquitoes can transmit several human pathogens, including viruses such as o'nyong-nyong and parasites including Plasmodium spp. and Wuchereria spp., which cause malaria and filariasis, respectively. Rearing Anopheles species of medical importance u\u2026",
+      "url": "https://cshprotocols.cshlp.org/content/2024/3/pdb.top107802.full?rss=1",
+      "urlToImage": null,
+      "publishedAt": "2024-03-01 14:10:12",
+      "content": "",
+      "retrievedAt": "2024-03-02 19:05:20.390874",
+      "internal_id": "263079b99b8d88eab449668ee43d52be256b954d7184dd423a21c5eecb356d31",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6276,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Aedes aegypti est\u00e1 se reproduzindo em \u00e1gua salobra no Brasil \u2014 e isso preocupa",
+      "description": "Brasil j\u00e1 superou a marca de um milh\u00e3o de casos de dengue em 2024; at\u00e9 agora, s\u00e3o 214 mortes causadas pela doen\u00e7a O post Aedes aegypti est\u00e1 se reproduzindo em \u00e1gua salobra no Brasil \u2014 e isso preocupa apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/03/01/medicina-e-saude/aedes-aegypti-esta-se-reproduzindo-em-agua-salobra-no-brasil-e-isso-preocupa/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue-e1699618484205-695x500.jpg",
+      "publishedAt": "2024-03-01 14:05:24",
+      "content": "As autoridades brasileiras est\u00e3o refor\u00e7ando os trabalhos de combate ao Aedes aegypti em fun\u00e7\u00e3o do crescente n\u00famero de casos de dengue no pa\u00eds. Fernando de Noronha \u00e9 um dos locais monitorados. Por l\u00e1,\u2026 [+2444 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.686249",
+      "internal_id": "45b284c95c32683413a630d3389d34ec07bb6682426177572067eb341abdf6ea",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6275,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "H\u00e9ctor Rodr\u00edguez, H\u00e9ctor Rodr\u00edguez",
+      "title": "El olor de los hu\u00e9spedes atrae a los mosquitos causantes de los virus del dengue y el zika",
+      "description": "Los mosquitos son algunos de los portadores, o vectores, de enfermedades m\u00e1s peligrosos del mundo. De hecho, con m\u00e1s de 750.000 muertes provocadas cada a\u00f1o, los mosquitos se sit\u00faan, sin ning\u00fan competidor que medianamente les siga de cerca, en el animal m\u00e1s le\u2026",
+      "url": "https://www.nationalgeographic.com.es/medio-ambiente/virus-dengue-y-zika-atraen-a-mosquitos-alterando-olor-sus-huespedes_18606",
+      "urlToImage": "https://www.nationalgeographic.com.es/medio/2022/07/24/mosquito-de-la-especie-aedes-aegypti-chupando-sangre_b7663c8f_1200x630.jpg",
+      "publishedAt": "2024-03-01 14:00:00",
+      "content": "Los mosquitos son algunos de los portadores, o vectores, de enfermedades m\u00e1s peligrosos del mundo. De hecho, con m\u00e1s de 750.000 muertes provocadas cada a\u00f1o, los mosquitos se sit\u00faan, sin ning\u00fan compet\u2026 [+6117 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.678133",
+      "internal_id": "176eb6d03d006ef5728b67ff8ad275500ab20e128227cd26e85279c2e2e55f26",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6287,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Shweta Sharma, Arathy Ramachandran, Amit Sharma",
+      "title": "Role of riboflavin deficiency in malaria pathophysiology",
+      "description": "The emergence of resistance against antimalarials and insecticides poses a significant threat to malaria elimination strategies. It is crucial to explore potential risk factors for malaria to identify new targets and alternative therapies. Malnutrition is a w\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011991",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011991.g002&size=inline",
+      "publishedAt": "2024-03-01 14:00:00",
+      "content": "Citation: Sharma S, Ramachandran A, Sharma A (2024) Role of riboflavin deficiency in malaria pathophysiology. PLoS Pathog 20(3): e1011991. https://doi.org/10.1371/journal.ppat.1011991 Editor: Lau\u2026 [+18061 chars]",
+      "retrievedAt": "2024-03-02 19:05:20.375867",
+      "internal_id": "d95be129fa0e6099fe2309b0f978d374267f12bbe1e5ee518be6b6ee6536481b",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6279,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Brasil registra mais de 1 milh\u00e3o de casos de dengue; Planalto tenta evitar dano pol\u00edtico",
+      "description": "O Minist\u00e9rio da Sa\u00fade anunciou a implanta\u00e7\u00e3o de um \"Dia D\" de mobiliza\u00e7\u00e3o nacional contra a dengue, marcado para o pr\u00f3ximo s\u00e1bado, 2 de mar\u00e7o",
+      "url": "https://brasil.perfil.com/saude/brasil-registra-mais-de-1-milhao-de-casos-de-dengue-planalto-tenta-evitar-dano-politico.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/01/796710081-abre-perfil-brasil-2024-02-16t211001308.jpg",
+      "publishedAt": "2024-03-01 13:45:53",
+      "content": "O Brasil atingiu a marca de 1 milh\u00e3o de casos de dengue em 2024, um aumento significativo em rela\u00e7\u00e3o ao mesmo per\u00edodo do ano anterior. Foram registrados 1.017.278 casos nas primeiras oito semanas des\u2026 [+3076 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.731096",
+      "internal_id": "348a5de463923c8aa1b40bfac8d04715c3d07877d88006bbfa814e7b731b7e1a",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6273,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "David Higgins, Research Fellow and Instructor in Pediatrics, University of Colorado Anschutz Medical Campus",
+      "title": "Measles is one of the deadliest and most contagious infectious diseases \u2013 and one of the most easily preventable",
+      "description": "A pediatrician and preventive medicine physician explains how measles vaccines became victims of their own success and the risk that rising outbreaks pose to everyone.",
+      "url": "https://theconversation.com/measles-is-one-of-the-deadliest-and-most-contagious-infectious-diseases-and-one-of-the-most-easily-preventable-224493",
+      "urlToImage": "https://images.theconversation.com/files/578746/original/file-20240228-16-96qj3k.jpg?ixlib=rb-1.1.0&rect=6%2C136%2C2109%2C1053&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-03-01 13:33:21",
+      "content": "Young children, pregnant people and the immunocompromised are among the most vulnerable to measles. CHBD/E+ via Getty Images \u201cYou don\u2019t count your children until the measles has passed.\u201d Dr. Samuel \u2026 [+6247 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.028709",
+      "internal_id": "542d8f2159e06df1ff9092125562fa7d929ead865ece35e5ec3ef47da13c8d07",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6272,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Public health reports cases of measles in Laval and Montreal, urge people to get vaccinated",
+      "description": "An infected person in Laval was unvaccinated, did not travel and was not in contact with a known case of measles, public health officials say in a Thursday news release, adding that community transmission is therefore possible.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-laval-1.7130625",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2024-03-01 12:42:40",
+      "content": "Laval Public Health says a case of measles has been reported on its territory. The infected person was unvaccinated, did not travel and was not in contact with a known case of measles, the health a\u2026 [+1075 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.008739",
+      "internal_id": "61a38359d06e17fc83ccdcfd0718930fe79608f744f9b13826a72808a16b26ce",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6281,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR",
+      "title": "Braz\u00edlia z\u00e1pas\u00ed s hor\u00fa\u010dkou dengue. H\u00fafne sa \u0161\u00edri, za dva mesiace sa zrejme nakazilo viac ako mili\u00f3n \u013eud\u00ed",
+      "description": "Uveden\u00fd po\u010det nakazen\u00fdch za prv\u00e9 dva mesiace je skoro p\u00e4\u0165kr\u00e1t vy\u0161\u0161\u00ed ne\u017e za rovnak\u00e9 obdobie minul\u00e9ho roka.",
+      "url": "https://spravy.pravda.sk/svet/clanok/701518-brazilia-zapasi-s-horuckou-dengue-hufne-sa-siri-za-dva-mesiace-sa-zrejme-nakazilo-uz-vyse-milion-ludi/",
+      "urlToImage": "http://ipravda.sk/res/2024/03/01/thumbs/brazilia-horucka-dengue-clanokW.jpg",
+      "publishedAt": "2024-03-01 12:06:00",
+      "content": "V Braz\u00edlii aktu\u00e1lne doch\u00e1dza k nezvyajne r\u00fdchlemu \u00edreniu hemoragickej hor\u00faky dengue. Za prv\u00e9 dva mesiace tohto roka tam zaznamenali viac ne mili\u00f3n potvrden\u00fdch alebo pravdepodobn\u00fdch pr\u00edpadov n\u00e1kazy t\u00fd\u2026 [+1775 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.765158",
+      "internal_id": "3a5c76e01a039532cc34242ce7f110acb6ff77d11958a678591b5069984b5a15",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6271,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "Measles can be deadly and is highly contagious \u2014 but it is preventable",
+      "description": "As of mid-February, at least 15 states have reported measles cases and multiple ongoing, uncontained outbreaks.",
+      "url": "https://www.cbsnews.com/news/measles-what-to-know/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/04/56bc74a6-8718-4f15-8218-b957dff754bd/thumbnail/1200x630/fe6af117fa40be0a0c4ca7527013ce0f/gettyimages-713781945.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3",
+      "publishedAt": "2024-03-01 12:00:05",
+      "content": "David Higgins is a research fellow and instructor in pediatrics at the University of Colorado Anschutz Medical Campus. \"You don't count your children until the measles has passed.\" Dr. Samuel Katz, \u2026 [+5682 chars]",
+      "retrievedAt": "2024-03-02 19:05:18.969882",
+      "internal_id": "f4485409aa109228897129a388a5ceafbcb97044321fb1d14a7aab6f22e84f65",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6277,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Tamires Ferreira",
+      "title": "Dengue: Brasil ultrapassa 1 milh\u00e3o de casos em 2024",
+      "description": "Segundo o Minist\u00e9rio da Sa\u00fade, 214 mortes tamb\u00e9m j\u00e1 foram confirmadas desde janeiro O post Dengue: Brasil ultrapassa 1 milh\u00e3o de casos em 2024 apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/03/01/medicina-e-saude/dengue-brasil-ultrapassa-1-milhao-de-casos-em-2024/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/12/Dengue-695x500.jpg",
+      "publishedAt": "2024-03-01 11:42:18",
+      "content": "De acordo com dados do Painel de Arboviroses do Minist\u00e9rio da Sa\u00fade, divulgado na quinta-feira (29), o Brasil acaba de registrar mais de 1 milh\u00e3o de casos (prov\u00e1veis e confirmados) de dengue em 2024.\u2026 [+2708 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.695220",
+      "internal_id": "8cdcc38edddf12d0053766ec33947e054f42a672026af191b52ee67994d44566",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6282,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Goi\u00e1s amplia vacina\u00e7\u00e3o contra dengue para adolescentes at\u00e9 14 anos",
+      "description": "Amplia\u00e7\u00e3o come\u00e7ou nesta sexta-feira (1\u00ba/3). Ainda n\u00e3o h\u00e1 previs\u00e3o de quando a vacina ser\u00e1 oferecida para a popula\u00e7\u00e3o em geral",
+      "url": "https://www.metropoles.com/brasil/goias-amplia-vacinacao-contra-dengue-para-adolescentes-ate-14-anos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/10095623/vacinacao-dengue-vacina-qdenga-imunizante-df1.jpeg",
+      "publishedAt": "2024-03-01 11:31:29",
+      "content": "Goi\u00e2nia A vacina\u00e7\u00e3o contra a dengue foi ampliada em Goi\u00e1s a partir desta sexta-feira (1\u00ba/3). A informa\u00e7\u00e3o \u00e9 da Secret\u00e1ria de Estado da Sa\u00fade (SES-GO). Agora, o imunizante est\u00e1 dispon\u00edvel para crian\u00e7a\u2026 [+926 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.856298",
+      "internal_id": "cb91104ef412ee808c3aee80185d3744a8a184eb0a961b97a4a9f414f4a5a26f",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6285,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Current Weather Conditions Could Worsen Meningitis Outbreak",
+      "description": "[Premium Times] Nigeria recorded a total of 303 confirmed cases and 190 deaths from Cerebrospinal Meningitis (CSM) across 29 states and the Federal Capital Territory (FCT) between 2022 to 2023.",
+      "url": "https://allafrica.com/stories/202403010255.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-03-01 11:22:14",
+      "content": "Nigeria recorded a total of 303 confirmed cases and 190 deaths from Cerebrospinal Meningitis (CSM) across 29 states and the Federal Capital Territory (FCT) between 2022 to 2023. The Nigerian Meteoro\u2026 [+3585 chars]",
+      "retrievedAt": "2024-03-02 19:05:20.081395",
+      "internal_id": "94900e4c1fc5ab6efe24c387377dbbb78b21a03a937c1d1319e2f3b05ea37f4e",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6286,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Malaria Global Clinical Trials Review 2024, Featuring GSK, Sanaria, Novartis, Nucleus Network, Sanofi Shin Poong Pharm, Pfizer, Sun Pharmaceutical, IPCA Laboratories and Richmond Pharmacology",
+      "description": "Dublin, March 01, 2024 (GLOBE NEWSWIRE) -- The \"Malaria - Global Clinical Trials Review, 2024\" clinical trials has been added to ResearchAndMarkets.com's offering.The clinical trial report provides an overview of Malaria Clinical trials scenario. This report \u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/03/01/2838652/28124/en/Malaria-Global-Clinical-Trials-Review-2024-Featuring-GSK-Sanaria-Novartis-Nucleus-Network-Sanofi-Shin-Poong-Pharm-Pfizer-Sun-Pharmaceutical-IPCA-Laboratories-and-Richmond-Pharmacol.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2024-03-01 09:27:00",
+      "content": "Dublin, March 01, 2024 (GLOBE NEWSWIRE) -- The \"Malaria - Global Clinical Trials Review, 2024\" clinical trials has been added to ResearchAndMarkets.com's offering. The clinical trial report provides\u2026 [+3924 chars]",
+      "retrievedAt": "2024-03-02 19:05:20.358364",
+      "internal_id": "bcd541eecb9a6df9fb85ef3668a680a5e59fdc4d0884c8ab5bda74c9743b14be",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6280,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dagospia.com",
+      "author": null,
+      "title": "ARIDANGHE CON LA DENGUE! - NEI PRIMI DUE MESI DEL 2024 IL BRASILE HA SUPERATO UN MILIONE DI CONTAGI DA FEBBRE DENGUE, IN AUMENTO DEL 390% RISPETTO ALLO STESSO PERIODO DELLO SCORSO ANNO - NEL 2023 ERANO STATI REGISTRATI 1.658.816 CASI E 1.079 MORTI\u2026",
+      "description": "Sintomi Dengue (ANSA) - RIO DE JANEIRO, 29 FEB - Nei primi due mesi del 2024 il Brasile ha superato un milione di contagi da febbre dengue. Lo riferisce il ministero della Salute secondo cui alla data del 29 febbraio i casi confermati della malattia sono 1.01\u2026",
+      "url": "https://www.dagospia.com/rubrica-39/salute/aridanghe-dengue-primi-due-mesi-2024-brasile-ha-386643.htm",
+      "urlToImage": "https://cdn-static.dagospia.com/img/patch/06-2022/dengue-1669576.jpeg",
+      "publishedAt": "2024-03-01 07:27:00",
+      "content": "Sintomi Dengue (ANSA) - RIO DE JANEIRO, 29 FEB - Nei primi due mesi del 2024 il Brasile ha superato un milione di contagi da febbre dengue. Lo riferisce il ministero della Salute secondo cui alla da\u2026 [+1114 chars]",
+      "retrievedAt": "2024-03-02 19:05:19.757084",
+      "internal_id": "f7752cc0988ef6442442115cc3879dd912cc31abfae106517997c677c1492393",
+      "publishedAtLabel": "Mar 1"
+    },
     {
       "id": 6257,
       "query": [
@@ -36437,42 +36780,6 @@
       "content": "Duas Unidades B\u00e1sicas de Sa\u00fade (UBSs) do Distrito Federal v\u00e3o ter atendimento aos s\u00e1bados e domingos, para ampliar o atendimento de pacientes durante a epidemia de dengue da capital. As UBSs 2 de Cei\u2026 [+1772 chars]",
       "retrievedAt": "2024-01-16 07:05:50.500575",
       "internal_id": "8ae01a0831c39b103597ba8b5ca1e3e18f70d99a27bfad151ef15d2aac1da013",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4247,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WTOP",
-      "author": "Dan Friedell",
-      "title": "Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News",
-      "description": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received a vaccine.",
-      "url": "https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHI4ZTltb2UwMDE5M2I2aDlpNzZsZDc0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscjhkdDZ0ejAwMngyNnAxZzJ4aTVuMHg-300.jpg",
-      "publishedAt": "2024-01-14 09:50:17",
-      "content": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received \u2026 [+1445 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.519753",
-      "internal_id": "e313437922b4c02fe598f825deadbd0f17267ea4011518a4985782c038bc044c",
-      "publishedAtLabel": "Jan 14"
-    },
-    {
-      "id": 4246,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "All dog-bite victims in Sarawak stable, says Health Ministry",
-      "description": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 14). Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/14/2490389.jpg",
-      "publishedAt": "2024-01-14 08:02:00",
-      "content": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 1\u2026 [+1887 chars]",
-      "retrievedAt": "2024-01-15 19:05:41.219448",
-      "internal_id": "d25374de87f036ae424c49e35d95b3b162fef4eabef0bcd96613686060058c8e",
       "publishedAtLabel": "Jan 14"
     }
   ]
