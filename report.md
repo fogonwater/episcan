@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2024-03-01 19:05
-- **Most recent article:** 2024-02-29 18:56:46
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-03-02 07:05
+- **Most recent article:** 2024-03-01 07:00:00
 
 ---
 
@@ -12,19 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 127 | 1083 |
-| measles | 59 | 56 | 47 | 68 | 45 | 100 | 60 | 435 |
-| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 13 | 237 |
-| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 12 | 66 |
-| zika | 8 | 7 | 8 | 13 | 6 | 13 | 5 | 60 |
-| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 6 | 47 |
-| meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 2 | 35 |
+| dengue | 65 | 123 | 173 | 216 | 191 | 188 | 137 | 1093 |
+| measles | 60 | 56 | 47 | 68 | 45 | 100 | 62 | 438 |
+| malaria | 26 | 86 | 25 | 35 | 19 | 33 | 14 | 238 |
+| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 14 | 68 |
+| zika | 8 | 7 | 8 | 13 | 6 | 13 | 8 | 63 |
+| rabies | 5 | 9 | 7 | 7 | 9 | 5 | 6 | 48 |
+| meningitis | 6 | 1 | 3 | 8 | 8 | 7 | 3 | 36 |
 | mpox | 8 | 4 | 3 | 5 | 8 | 6 | 1 | 35 |
-| sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 3 | 30 |
+| sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 4 | 31 |
 | pertussis | 5 | 2 | 3 | 2 | 6 | 0 | 4 | 22 |
 | typhoid | 1 | 2 | 2 | 1 | 2 | 2 | 1 | 11 |
 | yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 1 | 8 |
-| leptospirosis | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 5 |
+| leptospirosis | 0 | 1 | 1 | 1 | 1 | 0 | 2 | 6 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -32,6 +33,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-9 (zika)
+
+- [Třeťáci řeší nejbizarnější porno, ale na sexuální výchovu je prý brzy](https://www.idnes.cz/onadnes/vztahy/sex-vztahy-pohlavni-styk-sexualni-vychova-zdrave-dospivani-lektor-marketa-koppova-jan-novotny-rozhov.A240227_150028_ona-vztahy_taj) (Idnes.cz)
+
+- [Chikungunya tem sintomas parecidos com os da dengue e pode matar](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-29/chikungunya-tem-sintomas-parecidos-com-os-da-dengue-e-pode-matar.html) (Ig.com.br)
+
+- [Brasil supera 1 milhão de casos de dengue em dois meses de surto](https://veja.abril.com.br/saude/brasil-supera-1-milhao-de-casos-de-dengue-em-dois-meses-de-surto) (Abril.com.br)
 
 - [Dengue: veja dicas para afastar o mosquito da sua casa](https://www.metropoles.com/saude/dengue-dicas-para-afastar-mosquito-de-casa) (Metropoles.com)
 
@@ -51,7 +58,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Mapping the incidence rate of typhoid fever in sub-Saharan Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011902) (Plos.org)
 
+## 24-9 (shigellosis)
+
+- [Santa Cruz health officials monitor bacteria outbreak among homeless](https://www.cbsnews.com/sanfrancisco/news/santa-cruz-health-officials-monitor-bacteria-outbreak-among-homeless/) (CBS News)
+
 ## 24-9 (sarampión)
+
+- [Por qué el sarampión amenaza España pese a ser uno de los países europeos con más vacunados](https://www.elespanol.com/ciencia/salud/20240301/sarampion-amenaza-espana-pese-paises-europeos-vacunados/836416771_0.html) (Elespanol.com)
 
 - [El sarampión vuelve a España: Toledo y Alicante detectan los primeros brotes en años](https://www.meneame.net/m/actualidad/sarampion-vuelve-espana-toledo-alicante-detectan-primeros-brotes) (Meneame.net)
 
@@ -89,11 +102,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (meningitis)
 
+- [206 quarantined as meningitis kills 26 in Yobe, Gombe](https://punchng.com/206-quarantined-as-meningitis-kills-26-in-yobe-gombe/) (The Punch)
+
 - [Tackling long-haul diseases](https://www.technologyreview.com/2024/02/28/1087617/tackling-long-haul-diseases/) (MIT Technology Review)
 
 - [24-yr-old dies a day after testing positive for Covid](https://timesofindia.indiatimes.com/city/kolkata/24-year-old-dies-a-day-after-testing-positive-for-covid/articleshow/108027821.cms) (The Times of India)
 
 ## 24-9 (measles)
+
+- [York Region Public Health investigating adult case of measles with 'unknown' infection source](https://www.cbc.ca/news/canada/toronto/fourth-case-measles-ontario-2024-1.7130158) (CBC News)
+
+- [Nine further possible cases of measles reported in Ireland](https://www.irishtimes.com/health/2024/02/29/nine-further-possible-cases-of-measles-reported-in-ireland/) (The Irish Times)
 
 - [Nearly 800 of School's Students Were Absent on Wednesday](https://www.newser.com/story/347084/nearly-800-of-schools-students-were-absent-on-wednesday.html) (Newser)
 
@@ -217,6 +236,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (malaria)
 
+- [New study: Deforestation exacerbates risk of malaria for most vulnerable children](https://phys.org/news/2024-02-deforestation-exacerbates-malaria-vulnerable-children.html) (Phys.Org)
+
 - [Miasmas: el hedor mortal que acechaba en el aire](https://www.muyinteresante.com/historia/63933.html) (Muyinteresante.com)
 
 - [Fiorentina, Kouame guarito dalla malaria: manca l'ultimo ok per il rientro in campo](https://www.tuttomercatoweb.com/serie-a/fiorentina-kouame-guarito-dalla-malaria-manca-l-ultimo-ok-per-il-rientro-in-campo-1940515) (Tuttomercatoweb.com)
@@ -245,9 +266,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (leptospirosis)
 
+- [Preocupación sanitaria. Qué enfermedades pueden transmitir las ratas a los humanos](https://www.lanacion.com.ar/sociedad/preocupacion-sanitaria-que-enfermedades-pueden-transmitir-las-ratas-a-los-humanos-nid29022024/) (La Nacion)
+
 - [Isolating and genotyping Leptospira bacteria for the first time in Austria](https://phys.org/news/2024-02-isolating-genotyping-leptospira-bacteria-austria.html) (Phys.Org)
 
 ## 24-9 (dengue)
+
+- [Brasil ultrapassa a marca de 1 milhão de casos de dengue no ano](https://dinheirama.com/brasil-ultrapassa-a-marca-de-1-milhao-de-casos-de-dengue-no-ano/) (Dinheirama.com)
+
+- [Zorgwekkende toename van aantal denguebesmettingen in Brazilië](https://www.hbvl.be/cnt/dmf20240301_92456869) (Hbvl.be)
+
+- [Dengue: por que o Brasil ultrapassou 1 milhão de casos em 2 meses](https://www.metropoles.com/saude/dengue-por-que-brasil-tem-1-milhao-casos) (Metropoles.com)
+
+- [Zorgwekkende toename van aantal denguebesmettingen in Brazilië](https://www.nieuwsblad.be/cnt/dmf20240301_91584021) (Nieuwsblad.be)
+
+- [Gesundheit: Rasanter Anstieg bei Dengue-Infektionen in Brasilien](https://www.zeit.de/news/2024-03/01/rasanter-anstieg-bei-dengue-infektionen-in-brasilien) (Die Zeit)
+
+- [Gesundheit: Rasanter Anstieg bei Dengue-Infektionen in Brasilien](https://www.stern.de/panorama/wissen/gesundheit--rasanter-anstieg-bei-dengue-infektionen-in-brasilien-34506226.html) (STERN.de)
+
+- [Alarmante: Brasil registra mais de 1 milhão de casos de dengue em 2024](https://noticias.r7.com/brasil/revista-oeste/alarmante-brasil-registra-mais-de-1-milhao-de-casos-de-dengue-em-2024-29022024) (R7.com)
+
+- [Takeda fecha acordo para produzir mais vacinas contra a dengue](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-29/takeda-fecha-acordo-para-produzir-mais-vacinas-contra-a-dengue.html) (Ig.com.br)
+
+- [Brasil supera 1 milhão de casos de dengue em dois meses de surto](https://veja.abril.com.br/saude/brasil-supera-1-milhao-de-casos-de-dengue-em-dois-meses-de-surto) (Abril.com.br)
+
+- [Dengue já causou mais de 200 mortes no Brasil em 2024](https://www.metropoles.com/brasil/dengue-ja-causou-mais-de-200-mortes-no-brasil-em-2024) (Metropoles.com)
 
 - [Brasil atinge 1 milhão de casos prováveis de dengue em 2024](https://www.metropoles.com/brasil/brasil-atinge-1-milhao-de-casos-provaveis-de-dengue-em-2024) (Metropoles.com)
 
@@ -504,6 +547,10 @@ Source: [News API](https://newsapi.org/)
 - [DF tem maior número de casos e de mortes por dengue no país](https://saude.ig.com.br/2024-02-24/df-tem-maior-numero-de-casos-e-de-mortes-por-dengue-no-pais.html) (Ig.com.br)
 
 ## 24-9 (chikungunya)
+
+- [Chikungunya tem sintomas parecidos com os da dengue e pode matar](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-29/chikungunya-tem-sintomas-parecidos-com-os-da-dengue-e-pode-matar.html) (Ig.com.br)
+
+- [Brasil supera 1 milhão de casos de dengue em dois meses de surto](https://veja.abril.com.br/saude/brasil-supera-1-milhao-de-casos-de-dengue-em-dois-meses-de-surto) (Abril.com.br)
 
 - [Dengue: veja dicas para afastar o mosquito da sua casa](https://www.metropoles.com/saude/dengue-dicas-para-afastar-mosquito-de-casa) (Metropoles.com)
 
@@ -3999,6 +4046,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Health dept. confirms rabid coyote in Mount Pleasant; 1 person exposed](https://www.live5news.com/2024/01/17/health-dept-confirms-rabid-coyote-mount-pleasant-1-person-exposed/) (Live 5 News WCSC)
 
+- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
+
 ## 24-3 (pertussis)
 
 - [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
@@ -4162,6 +4211,8 @@ Source: [News API](https://newsapi.org/)
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
+
+- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 ## 24-3 (malaria)
 

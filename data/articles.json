@@ -1,8 +1,353 @@
 {
-  "last_updated": "2024-03-01 19:05",
-  "count_articles_total": 2001,
-  "count_articles_new": 21,
+  "last_updated": "2024-03-02 07:05",
+  "count_articles_total": 2022,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 6257,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dinheirama.com",
+      "author": "Reuters",
+      "title": "Brasil ultrapassa a marca de 1 milh\u00e3o de casos de dengue no ano",
+      "description": "O Brasil chegou a 1.017.278 casos prov\u00e1veis de dengue neste ano, informou nesta quinta-feira o Minist\u00e9rio da Sa\u00fade, que tamb\u00e9m divulgou o total de 214\u2026 ------ Este artigo foi escrito por Reuters. Este artigo apareceu originalmente no site Dinheirama.A reprodu\u2026",
+      "url": "https://dinheirama.com/brasil-ultrapassa-a-marca-de-1-milhao-de-casos-de-dengue-no-ano/",
+      "urlToImage": "https://media.dinheirama.com/medias/uploads/2023/09/20230915-vacinas.jpg",
+      "publishedAt": "2024-03-01 07:00:00",
+      "content": "1O Brasil chegou a 1.017.278 casos prov\u00e1veis de dengue neste ano, informou nesta quinta-feira o Minist\u00e9rio da Sa\u00fade, que tamb\u00e9m divulgou o total de 214 \u00f3bitos confirmados e outros 687 em investiga\u00e7\u00e3o\u2026 [+1074 chars]",
+      "retrievedAt": "2024-03-02 07:05:23.632735",
+      "internal_id": "1af8bffef7bb84c1fe24fed1a94fdc136cdb340a47e00df8f411b3572dbc3ade",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6260,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "hbvl.be",
+      "title": "Zorgwekkende toename van aantal denguebesmettingen in Brazili\u00eb",
+      "description": "Dengue, of knokkelkoorts, verspreidt zich momenteel in een ongewoon hoog tempo in Brazili\u00eb. In de eerste twee maanden van dit jaar werden ruim een miljoen bevestigde of waarschijnlijke infecties geteld, bijna een vijfde meer dan in dezelfde periode vorig jaar.",
+      "url": "https://www.hbvl.be/cnt/dmf20240301_92456869",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/03/01/e6b66f10-551b-4bf4-9755-d48ad7dcd96c.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-03-01 06:49:11",
+      "content": "Dengue, of knokkelkoorts, verspreidt zich momenteel in een ongewoon hoog tempo in Brazili\u00eb. In de eerste twee maanden van dit jaar werden ruim een miljoen bevestigde of waarschijnlijke infecties gete\u2026 [+1431 chars]",
+      "retrievedAt": "2024-03-02 07:05:23.698392",
+      "internal_id": "3735627e0a3c5c7101129c1889f9d0e48449addbe9f931e318b0a15c058e96b3",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6259,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Dengue: por que o Brasil ultrapassou 1 milh\u00e3o de casos em 2 meses",
+      "description": "Especialistas em sa\u00fade p\u00fablica ouvidos pelo Metr\u00f3poles explicam onde erramos com a dengue e como evitar cen\u00e1rio ainda pior",
+      "url": "https://www.metropoles.com/saude/dengue-por-que-brasil-tem-1-milhao-casos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/27134730/aedes-aegypti-2.jpg",
+      "publishedAt": "2024-03-01 05:00:16",
+      "content": "Nessa quinta-feira (29/2), o Brasil ultrapassou a marca de 1 milh\u00e3o de casos prov\u00e1veis de dengue em 2024, segundo dados do Minist\u00e9rio da Sa\u00fade. Em todo o ano de 2023, foram registrados 1.658.816 quad\u2026 [+10319 chars]",
+      "retrievedAt": "2024-03-02 07:05:23.681046",
+      "internal_id": "3211c0b622c748a42925a8bcaa48d373302a6cbc12c3a2a7ca777c7f6b6fe8d1",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6258,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "nieuwsblad.be",
+      "title": "Zorgwekkende toename van aantal denguebesmettingen in Brazili\u00eb",
+      "description": "Dengue, of knokkelkoorts, verspreidt zich momenteel in een ongewoon hoog tempo in Brazili\u00eb. In de eerste twee maanden van dit jaar werden ruim een miljoen bevestigde of waarschijnlijke infecties geteld, bijna een vijfde meer dan in dezelfde periode vorig jaar.",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20240301_91584021",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/03/01/e6b66f10-551b-4bf4-9755-d48ad7dcd96c.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-03-01 04:05:03",
+      "content": "Dengue, of knokkelkoorts, verspreidt zich momenteel in een ongewoon hoog tempo in Brazili\u00eb. In de eerste twee maanden van dit jaar werden ruim een miljoen bevestigde of waarschijnlijke infecties gete\u2026 [+1487 chars]",
+      "retrievedAt": "2024-03-02 07:05:23.677067",
+      "internal_id": "49e7e80a0ff2ea7178712a53014a6d74f2cfce2f936357b21b2e63284af75b1c",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6254,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Gesundheit: Rasanter Anstieg bei Dengue-Infektionen in Brasilien",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eGesundheit\u201c. Lesen Sie jetzt \u201eRasanter Anstieg bei Dengue-Infektionen in Brasilien\u201c.",
+      "url": "https://www.zeit.de/news/2024-03/01/rasanter-anstieg-bei-dengue-infektionen-in-brasilien",
+      "urlToImage": "https://img.zeit.de/news/2024-03/01/rasanter-anstieg-bei-dengue-infektionen-in-brasilien-image-group/wide__1300x731",
+      "publishedAt": "2024-03-01 02:58:20",
+      "content": "In Brasilien breitet sich zurzeit das Dengue-Fieber ungew\u00f6hnlich stark aus. In den ersten zwei Monaten des Jahres wurden 1.017.278 best\u00e4tigte oder wahrscheinliche Infektionen in dem s\u00fcdamerikanischen\u2026 [+2230 chars]",
+      "retrievedAt": "2024-03-02 07:05:23.578526",
+      "internal_id": "7eeac83dd438f4a4ae9e3afe51149adb49d7017d11a662136a49e989adc31432",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6255,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gesundheit: Rasanter Anstieg bei Dengue-Infektionen in Brasilien",
+      "description": "Nicht nur Brasilien leidet unter der massiven Ausbreitung des Dengue-Fiebers: Die peruanische Regierung hat f\u00fcr den Gro\u00dfteil des Landes den Notstand erkl\u00e4rt. Auch in Argentinien steigen die Fallzahlen.",
+      "url": "https://www.stern.de/panorama/wissen/gesundheit--rasanter-anstieg-bei-dengue-infektionen-in-brasilien-34506226.html",
+      "urlToImage": "https://image.stern.de/34506228/t/yt/v1/w1440/r1.7778/-/01--urnnewsmldpacom2009010124030199176332v3w800h600l929t76r2209b929jpeg---d617340f9344c2ea.jpg",
+      "publishedAt": "2024-03-01 02:58:20",
+      "content": "Nicht nur Brasilien leidet unter der massiven Ausbreitung des Dengue-Fiebers: Die peruanische Regierung hat f\u00fcr den Gro\u00dfteil des Landes den Notstand erkl\u00e4rt. Auch in Argentinien steigen die Fallzahle\u2026 [+1793 chars]",
+      "retrievedAt": "2024-03-02 07:05:23.593910",
+      "internal_id": "59227a046f6c5944a96c3a1fe47c214d54b0ca3d5667d48a7bd5f811503e2d7b",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6253,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Marcos Dom\u00ednguez",
+      "title": "Por qu\u00e9 el sarampi\u00f3n amenaza Espa\u00f1a pese a ser uno de los pa\u00edses europeos con m\u00e1s vacunados",
+      "description": "En mes y medio se han superado los casos confirmados de 2023. A pesar de las altas coberturas, la vacunaci\u00f3n no ha alcanzado su umbral \u00f3ptimo.",
+      "url": "https://www.elespanol.com/ciencia/salud/20240301/sarampion-amenaza-espana-pese-paises-europeos-vacunados/836416771_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/02/29/ciencia/salud/836427074_240365416_1706x960.jpg",
+      "publishedAt": "2024-03-01 01:47:29",
+      "content": "En 2023 hubo 11 casos confirmados de sarampi\u00f3n en Espa\u00f1a de m\u00e1s de medio centenar de sospechosos. Este 2024, en solo mes y medio se ha superado la cifra: 13 confirmados y la sospecha de transmisi\u00f3n a\u2026 [+5883 chars]",
+      "retrievedAt": "2024-03-02 07:05:23.300256",
+      "internal_id": "3a5ee897a28de90a32813763c6a3dcdfe830bc5d6ab2468b8ad0b02064e5cf50",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6264,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Our Reporters",
+      "title": "206 quarantined as meningitis kills 26 in Yobe, Gombe",
+      "description": "The Yobe State government has quarantined 206 persons following the outbreak of cerebrospinal meningitis in three local government areas in the state, resulting in the death of 20 persons. This was as the Commissioner for Health in Gombe State, Dr Habu Dahiru\u2026",
+      "url": "https://punchng.com/206-quarantined-as-meningitis-kills-26-in-yobe-gombe/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/04/18234619/Meningitis-vaccines.jpg",
+      "publishedAt": "2024-03-01 01:35:16",
+      "content": "The Yobe State government has quarantined 206 persons following the outbreak of cerebrospinal meningitis in three local government areas in the state, resulting in the death of 20 persons. This was \u2026 [+3421 chars]",
+      "retrievedAt": "2024-03-02 07:05:24.116284",
+      "internal_id": "b7d414acb7838705ab940f100c1eb7b97396e4d71a4aecb8b6c98c3c1efc60e8",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6269,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Updated On: February 29",
+      "title": "Santa Cruz health officials monitor bacteria outbreak among homeless",
+      "description": "An outbreak of infectious bacteria is being monitored by the Santa Cruz County Public Health Division, county officials said Thursday.",
+      "url": "https://www.cbsnews.com/sanfrancisco/news/santa-cruz-health-officials-monitor-bacteria-outbreak-among-homeless/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2014/12/27/9d766095-7179-43fb-b5c4-c82d786d8c5b/thumbnail/1200x630/6cf84e96172185b1d22af1228f9e9444/shigellosis-bacteria.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3",
+      "publishedAt": "2024-02-29 23:44:00",
+      "content": "An outbreak of infectious bacteria is being monitored by the Santa Cruz County Public Health Division, county officials said Thursday. At least 27 cases of shigellosis have been recorded in the coun\u2026 [+1245 chars]",
+      "retrievedAt": "2024-03-02 07:05:25.964715",
+      "internal_id": "66c981eb62d080764fb39a0bba79c84f6f92d49ebcb9db51b7c236e25a8a2aba",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6266,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Martina Proch\u00e1zkov\u00e1",
+      "title": "T\u0159e\u0165\u00e1ci \u0159e\u0161\u00ed nejbizarn\u011bj\u0161\u00ed porno, ale na sexu\u00e1ln\u00ed v\u00fdchovu je pr\u00fd brzy",
+      "description": "S r\u016f\u017eovou ply\u0161ovou vulvou a penisem proj\u00ed\u017ed\u011bj\u00ed lekto\u0159i Mark\u00e9ta Zika Koppov\u00e1 a Jan Novotn\u00fd \u010desk\u00e9 \u0161koly. Sexu\u00e1ln\u00ed v\u00fdchovu se sna\u017e\u00ed pod\u00e1vat komplexn\u011b a kontinu\u00e1ln\u011b. Tedy na \u0161kol\u00e1ch a \u0161kolk\u00e1ch, kde o to stoj\u00ed. \u201eSt\u00e1le se v\u0161ak najdou p\u0159\u00edpady, kde se t\u0159e\u0165\u00e1ci dohaduj\u2026",
+      "url": "https://www.idnes.cz/onadnes/vztahy/sex-vztahy-pohlavni-styk-sexualni-vychova-zdrave-dospivani-lektor-marketa-koppova-jan-novotny-rozhov.A240227_150028_ona-vztahy_taj",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2024/2/ona/DAV7a86e3db1b_84634600.jpg",
+      "publishedAt": "2024-02-29 23:00:00",
+      "content": "Pornografii, i lascivn\u00ed fotky si v mobilu oteve kad\u00e9 mal\u00e9 d\u00edt na nkolik kliknut\u00ed. Nesleduj\u00ed je vechny mal\u00e9 dti a nemus\u00ed je sledovat pravideln, ale um\u00ed si je snadno vyhledat a sta\u00ed i jedna zkuenost, a\u2026 [+14000 chars]",
+      "retrievedAt": "2024-03-02 07:05:24.793517",
+      "internal_id": "327b3227420becd4cedc971d7b7437a351daf14bd799277f935255647e084b13",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6268,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Erica Gon\u00e7alves",
+      "title": "Preocupaci\u00f3n sanitaria. Qu\u00e9 enfermedades pueden transmitir las ratas a los humanos",
+      "description": "Afecciones bacterianas, virales y parasitarias son algunas de las patolog\u00edas que pueden difundir los roedores; hantavirus y leptospirosis, las m\u00e1s comunes",
+      "url": "https://www.lanacion.com.ar/sociedad/preocupacion-sanitaria-que-enfermedades-pueden-transmitir-las-ratas-a-los-humanos-nid29022024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/un-perro-cazo-una-rata-mientras-el-jefe-de-ECJACKIDV5HNFOBM4IZAJ6Y7W4.JPG?auth=e1c18365841e8d72c1413a1f89dcf89fac268ca391f5eabb8089a97c5c1b4e25&width=768&quality=70&smart=false",
+      "publishedAt": "2024-02-29 22:56:15",
+      "content": "La inc\u00f3moda situaci\u00f3n entre el jefe de Gobierno porte\u00f1o, Jorge Macri, los periodistas que lo rodeaban, una rata y un perro en medio del desmantelamiento de la feria ilegal Perette de Retiro, gener\u00f3 p\u2026 [+4361 chars]",
+      "retrievedAt": "2024-03-02 07:05:25.566763",
+      "internal_id": "c3ae26ab8d142653909c6f6f58e02f5457f3852f5c9bdde389edd410f1fd6750",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6252,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "York Region Public Health investigating adult case of measles with 'unknown' infection source",
+      "description": "York Regional Public Health says it has confirmed a fourth case of measles in Ontario, this time in a man in his 30s who has not travelled recently or been in contact with anyone ill.",
+      "url": "https://www.cbc.ca/news/canada/toronto/fourth-case-measles-ontario-2024-1.7130158",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1701232093!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2024-02-29 22:46:07",
+      "content": "York Region Public Health (YRPH) is investigating a confirmed case of measles where the source of infection is \"unknown.\" In a news release Thursday evening, the public health agency says it has con\u2026 [+4232 chars]",
+      "retrievedAt": "2024-03-02 07:05:22.988272",
+      "internal_id": "7c336a421a206e2e0bc2fb11e36bc70a3fe9488b5893c5305af8aa08325fdee4",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6267,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Chikungunya tem sintomas parecidos com os da dengue e pode matar",
+      "description": "Menos conhecida, a febre Chikungunya \u00e9 uma doen\u00e7a que pode provocar mortes. Na hora do diagn\u00f3stico, a infec\u00e7\u00e3o \u00e9, muitas vezes, confundida com a dengue",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-29/chikungunya-tem-sintomas-parecidos-com-os-da-dengue-e-pode-matar.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/9t/8g/o4/9t8go4oklqhp16q5uozuo16om.jpg",
+      "publishedAt": "2024-02-29 21:45:20",
+      "content": "A dengue n\u00e3o \u00e9 a \u00fanica doen\u00e7a transmitida pelo Aedes aegypti e outros mosquitos do mesmo g\u00eanero. Na verdade, esses insetos podem transmitir tamb\u00e9m a zika, a febre amarela e a chikungunya. Em rela\u00e7\u00e3o\u2026 [+3570 chars]",
+      "retrievedAt": "2024-03-02 07:05:24.798220",
+      "internal_id": "254af0a3aa509405b103171429904d08bc618b81c8c04afa521a6c193ea233c5",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6262,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Revista Oeste - Brasil",
+      "title": "Alarmante: Brasil registra mais de 1 milh\u00e3o de casos de dengue em 2024",
+      "description": "O pa\u00eds registrou 214 mortes, e as autoridades investigam outros poss\u00edveis 687 \u00f3bitos pela...",
+      "url": "https://noticias.r7.com/brasil/revista-oeste/alarmante-brasil-registra-mais-de-1-milhao-de-casos-de-dengue-em-2024-29022024",
+      "urlToImage": "https://img.r7.com/images/r7-30072019142631584?dimensions=340x191&crop_position=c",
+      "publishedAt": "2024-02-29 21:29:31",
+      "content": "O pa\u00eds registrou 214 mortes, e as autoridades investigam outros poss\u00edveis 687 \u00f3bitos pela doen\u00e7a. Leia a mat\u00e9ria completa no nosso parceiro Brasil: not\u00edcias e artigos - Revista Oeste Leia mais em Br\u2026 [+334 chars]",
+      "retrievedAt": "2024-03-02 07:05:23.743689",
+      "internal_id": "449d7ae54ea03a0332e935e041d5e9dfc5b536e7a771c6745243f7b1e6bfc6a4",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6263,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Takeda fecha acordo para produzir mais vacinas contra a dengue",
+      "description": "Com a nova parceria da farmac\u00eautica Takeda, a expectativa \u00e9 produzir anualmente 50 milh\u00f5es de doses da vacina contra a dengue. Isso deve beneficiar o Brasil",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-29/takeda-fecha-acordo-para-produzir-mais-vacinas-contra-a-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/aw/nv/42/awnv42rkoflysflhb8p8hdkhy.jpg",
+      "publishedAt": "2024-02-29 20:30:21",
+      "content": "A farmac\u00eautica japonesa Takeda anunciou, nesta semana, uma nova parceria com o laborat\u00f3rio indiano Biological E. para ampliar a produ\u00e7\u00e3o da vacina contra a dengue, a Qdenga. O objetivo \u00e9 direcionar m\u2026 [+2139 chars]",
+      "retrievedAt": "2024-03-02 07:05:23.771804",
+      "internal_id": "228617b1a557372a5b25687ebff2f85d3dd97baffa3fe61670ac844b9def2e26",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6265,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Kristen Munson",
+      "title": "New study: Deforestation exacerbates risk of malaria for most vulnerable children",
+      "description": "Malaria kills more than 600,000 people each year worldwide, and two-thirds are children under age five in sub-Saharan Africa. Scientists have found a treatment that could prevent thousands of these deaths: trees.",
+      "url": "https://phys.org/news/2024-02-deforestation-exacerbates-malaria-vulnerable-children.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/new-study-deforestatio.jpg",
+      "publishedAt": "2024-02-29 20:18:33",
+      "content": "Malaria kills more than 600,000 people each year worldwide, and two-thirds are children under age five in sub-Saharan Africa. Scientists have found a treatment that could prevent thousands of these d\u2026 [+9303 chars]",
+      "retrievedAt": "2024-03-02 07:05:24.412889",
+      "internal_id": "df7c2222fc4b6b2d0d322c50c70e87c8b7efc8d53c85b6765e812a948aaaac4c",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6251,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Shauna Bowers",
+      "title": "Nine further possible cases of measles reported in Ireland",
+      "description": "Latest figures come after man died from highly contagious disease earlier this month",
+      "url": "https://www.irishtimes.com/health/2024/02/29/nine-further-possible-cases-of-measles-reported-in-ireland/",
+      "urlToImage": "https://www.irishtimes.com/resizer/2U0CvLZ11Qyf5NwFhjo_TKE3iGg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/FAJOBEBYZBHDPJ6ZSAHC2NDLGE.jpg",
+      "publishedAt": "2024-02-29 19:45:32",
+      "content": "A further nine possible cases of measles were reported to the infectious disease watchdog last week, amid rising cases around Europe. On Thursday, the Health Protection Surveillance Centre published\u2026 [+1484 chars]",
+      "retrievedAt": "2024-03-02 07:05:22.965582",
+      "internal_id": "e2f3e4c9e10016ca5d10aa721662668ea889c1152bbf375ba2c29047918c4e14",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6256,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Brasil supera 1 milh\u00e3o de casos de dengue em dois meses de surto",
+      "description": "Segundo balan\u00e7o do Minist\u00e9rio da Sa\u00fade, pa\u00eds soma 214 \u00f3bitos; dia D contra o \"Aedes aegypti\" ser\u00e1 neste s\u00e1bado, 2 de mar\u00e7o",
+      "url": "https://veja.abril.com.br/saude/brasil-supera-1-milhao-de-casos-de-dengue-em-dois-meses-de-surto",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2017/01/aedes-aegypti-mosquito-transmissor-da-dengue-e-da-febre-amarela-urbana.jpg?quality=90&strip=info",
+      "publishedAt": "2024-02-29 19:26:59",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade \"Aedes aegypti\", mosquito transmissor da dengue, chikungunya e zika (VEJA/Dedoc) Continua ap\u00f3s publicidade O Brasil ultrapassou 1 milh\u00e3o de c\u2026 [+4906 chars]",
+      "retrievedAt": "2024-03-02 07:05:23.626206",
+      "internal_id": "38e1c3b2cbfb59bb130e9568312ad4dea0a9ee1bdbd32951284c34e80e8a0f5a",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6261,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mateus Salom\u00e3o",
+      "title": "Dengue j\u00e1 causou mais de 200 mortes no Brasil em 2024",
+      "description": "Nesta quinta-feira (29/2), o pa\u00eds superou a marca de 1 milh\u00e3o de casos prov\u00e1veis somente nos primeiros meses de 2024",
+      "url": "https://www.metropoles.com/brasil/dengue-ja-causou-mais-de-200-mortes-no-brasil-em-2024",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/05124700/Foto-mosquito-da-dengue-1.jpg",
+      "publishedAt": "2024-02-29 19:23:54",
+      "content": "O Brasil registrou 214 mortes por dengue neste ano, enquanto outros 687 \u00f3bitos seguem sob investiga\u00e7\u00e3o. A informa\u00e7\u00e3o consta na atualiza\u00e7\u00e3o desta quinta-feira (29/2) do Painel de Monitoramento das Arb\u2026 [+4774 chars]",
+      "retrievedAt": "2024-03-02 07:05:23.730836",
+      "internal_id": "5530a52090399b3edef70e1f941420f54e6e31a9303bccca793e46c8adfae64d",
+      "publishedAtLabel": "Feb 29"
+    },
     {
       "id": 6241,
       "query": [
@@ -36092,6 +36437,42 @@
       "content": "Duas Unidades B\u00e1sicas de Sa\u00fade (UBSs) do Distrito Federal v\u00e3o ter atendimento aos s\u00e1bados e domingos, para ampliar o atendimento de pacientes durante a epidemia de dengue da capital. As UBSs 2 de Cei\u2026 [+1772 chars]",
       "retrievedAt": "2024-01-16 07:05:50.500575",
       "internal_id": "8ae01a0831c39b103597ba8b5ca1e3e18f70d99a27bfad151ef15d2aac1da013",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 4247,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WTOP",
+      "author": "Dan Friedell",
+      "title": "Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News",
+      "description": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received a vaccine.",
+      "url": "https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/",
+      "urlToImage": "https://wtop.com/wp-content/uploads/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHI4ZTltb2UwMDE5M2I2aDlpNzZsZDc0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscjhkdDZ0ejAwMngyNnAxZzJ4aTVuMHg-300.jpg",
+      "publishedAt": "2024-01-14 09:50:17",
+      "content": "The Virginia Department of Health (VDH) is warning travelers who were in Dulles Airport on January 3 or Reagan National Airport on January 4 to stay alert for signs of measles if they never received \u2026 [+1445 chars]",
+      "retrievedAt": "2024-01-15 19:05:41.519753",
+      "internal_id": "e313437922b4c02fe598f825deadbd0f17267ea4011518a4985782c038bc044c",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 4246,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "All dog-bite victims in Sarawak stable, says Health Ministry",
+      "description": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 14). Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/14/2490389.jpg",
+      "publishedAt": "2024-01-14 08:02:00",
+      "content": "PUTRAJAYA: All dog-bite victims in Sarawak are reported to be stable and have been administered rabies vaccination and Rabies Immunoglobulin (RIG) treatment, the Health Ministry said on Sunday (Jan 1\u2026 [+1887 chars]",
+      "retrievedAt": "2024-01-15 19:05:41.219448",
+      "internal_id": "d25374de87f036ae424c49e35d95b3b162fef4eabef0bcd96613686060058c8e",
       "publishedAtLabel": "Jan 14"
     }
   ]
