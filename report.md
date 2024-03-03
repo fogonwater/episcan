@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 29
-- **Last harvest:** 2024-03-03 07:06
-- **Most recent article:** 2024-03-02 02:22:45
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-03-03 19:05
+- **Most recent article:** 2024-03-02 18:57:37
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 123 | 173 | 216 | 191 | 188 | 165 | 1056 |
-| measles | 56 | 47 | 68 | 45 | 100 | 76 | 392 |
-| malaria | 86 | 25 | 35 | 19 | 33 | 17 | 215 |
-| chikungunya | 10 | 10 | 12 | 8 | 14 | 15 | 69 |
-| zika | 7 | 8 | 13 | 6 | 13 | 10 | 57 |
-| rabies | 9 | 7 | 7 | 9 | 5 | 7 | 44 |
+| dengue | 116 | 173 | 216 | 191 | 188 | 178 | 1062 |
+| measles | 54 | 47 | 68 | 45 | 100 | 78 | 392 |
+| malaria | 85 | 25 | 35 | 19 | 33 | 17 | 214 |
+| chikungunya | 10 | 10 | 12 | 8 | 14 | 16 | 70 |
+| zika | 6 | 8 | 13 | 6 | 13 | 11 | 57 |
+| rabies | 9 | 7 | 7 | 9 | 5 | 8 | 45 |
 | sarampión | 1 | 6 | 5 | 4 | 11 | 5 | 32 |
 | meningitis | 1 | 3 | 8 | 8 | 7 | 4 | 31 |
 | mpox | 4 | 3 | 5 | 8 | 6 | 1 | 27 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-9 (zika)
+
+- [Epidemia de dengue: Com centenas de casos, Natal decreta situação de emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/03/02/epidemia-de-dengue-com-centenas-de-casos-natal-decreta-situacao-de-emergencia.ghtml) (Globo)
 
 - [Belo Horizonte (MG) monta hospital de campanha para dengue](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/belo-horizonte-mg-monta-hospital-de-campanha-para-dengue-02032024) (R7.com)
 
@@ -80,6 +82,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (rabies)
 
+- [Rabies Infection: इन जानवरों के बिना काटे भी हो सकता है रेबीज, जानिए लक्षण और बचाव](https://hindi.moneycontrol.com/news/health/rabies-infection-after-dog-monkey-horse-fox-bite-check-symptoms-treatment-know-details-1821131.html) (Moneycontrol)
+
 - [Zamboanga: OCVet ta encabesa con el observacion del ‘RAM’](https://rpnradio.com/zamboanga-ocvet-ta-encabesa-con-el-observacion-del-ram/) (Rpnradio.com)
 
 - [Dyadic Announces Strategic Partnership Agreement to Develop Affordable Rabies Prophylactics and Vaccines Using its Proprietary C1 Cell Microbial Protein Production Platform](https://www.marketscreener.com/quote/stock/DYADIC-INTERNATIONAL-INC-57599342/news/Dyadic-Announces-Strategic-Partnership-Agreement-to-Develop-Affordable-Rabies-Prophylactics-and-Vac-46050069/) (Marketscreener.com)
@@ -119,6 +123,10 @@ Source: [News API](https://newsapi.org/)
 - [24-yr-old dies a day after testing positive for Covid](https://timesofindia.indiatimes.com/city/kolkata/24-year-old-dies-a-day-after-testing-positive-for-covid/articleshow/108027821.cms) (The Times of India)
 
 ## 24-9 (measles)
+
+- [Disney World on Alert Following First-Recorded Cases of Serious Airborne Disease](https://insidethemagic.net/2024/03/disney-world-orlando-measles-outbreak-first-cases-updates-emd1/) (Inside the Magic)
+
+- [Florida, You're Not Alone With Your Measles Issues](https://www.newser.com/story/347162/uptick-in-us-measles-cases-boggles-the-mind.html) (Newser)
 
 - [Measles vaccinations given in '70s and '80s may have worn off by now, doctor warns](https://www.foxnews.com/health/measles-vaccinations-given-70s-80s-may-have-worn-off-doctor-warns) (Fox News)
 
@@ -315,6 +323,32 @@ Source: [News API](https://newsapi.org/)
 - [Isolating and genotyping Leptospira bacteria for the first time in Austria](https://phys.org/news/2024-02-isolating-genotyping-leptospira-bacteria-austria.html) (Phys.Org)
 
 ## 24-9 (dengue)
+
+- [Governadores do Sul e Sudeste cobram governo Lula por combate à dengue](https://www.metropoles.com/sao-paulo/governadores-sul-sudeste-lula-dengue) (Metropoles.com)
+
+- [Ministerio de Salud de Brasil impulsó jornada de movilización nacional contra el dengue](https://www.montevideo.com.uy/Salud/Ministerio-de-Salud-de-Brasil-impulso-jornada-de-movilizacion-nacional-contra-el-dengue-uc881390) (Montevideo.com.uy)
+
+- [DF: vacinação contra dengue deve ser ampliada para crianças de 12 anos](https://www.metropoles.com/colunas/grande-angular/df-vacinacao-contra-dengue-deve-ser-ampliada-para-criancas-de-12-anos) (Metropoles.com)
+
+- [Bebê morre de dengue e Covid após ser liberada por hospitais no DF](https://www.metropoles.com/colunas/grande-angular/bebe-morre-de-dengue-e-covid) (Metropoles.com)
+
+- [‘Se não tiver união, não tem saúde’, diz ministra no dia D contra a dengue](https://veja.abril.com.br/saude/se-nao-tiver-uniao-nao-tem-saude-diz-ministra-no-dia-d-contra-a-dengue) (Abril.com.br)
+
+- [In Rio, rife with dengue, bacteria-infected mosquitoes are making a difference](https://abcnews.go.com/Technology/wireStory/rio-rife-dengue-bacteria-infected-mosquitoes-making-difference-107743326) (ABC News)
+
+- [In Rio, rife with dengue, bacteria-infected mosquitoes are making a difference](https://abcnews.go.com/Health/wireStory/rio-rife-dengue-bacteria-infected-mosquitoes-making-difference-107743325) (ABC News)
+
+- [In Rio, rife with dengue, bacteria-infected mosquitoes are making a difference](https://abcnews.go.com/International/wireStory/rio-rife-dengue-bacteria-infected-mosquitoes-making-difference-107743324) (ABC News)
+
+- [In Rio, rife with dengue, bacteria-infected mosquitoes are making a difference](https://www.startribune.com/in-rio-rife-with-dengue-bacteria-infected-mosquitoes-are-making-a-difference/600347722/) (Minneapolis Star Tribune)
+
+- [Mortes por dengue sobem para 27 no estado de São Paulo](https://www.metropoles.com/sao-paulo/mortes-dengue-sobem-27-estado-sp) (Metropoles.com)
+
+- [Brasile: i contagi di Dengue nelle donne incinte aumentati 345%](https://www.ansa.it/sito/notizie/mondo/2024/03/02/brasile-i-contagi-di-dengue-nelle-donne-incinte-aumentati-345_4f2f30d7-b6df-4374-b0cb-bb60106bcfc5.html) (ANSA.it)
+
+- [Com mais de 1 milhão de casos, Brasil promove Dia D contra dengue](https://www.metropoles.com/saude/1-milhao-de-casos-brasil-dia-d-dengue) (Metropoles.com)
+
+- [Dia D contra a dengue convoca população a eliminar focos do mosquito](https://valor.globo.com/brasil/noticia/2024/03/02/dia-d-contra-a-dengue-convoca-populacao-a-eliminar-focos-do-mosquito.ghtml) (Globo)
 
 - [Los casos de dengue en mujeres embarazadas aumentan más de un 300% en 2024 en Brasil](https://www.europapress.es/internacional/noticia-casos-dengue-mujeres-embarazadas-aumentan-mas-300-2024-brasil-20240302005255.html) (Europapress.es)
 
@@ -647,6 +681,8 @@ Source: [News API](https://newsapi.org/)
 - [DF tem maior número de casos e de mortes por dengue no país](https://saude.ig.com.br/2024-02-24/df-tem-maior-numero-de-casos-e-de-mortes-por-dengue-no-pais.html) (Ig.com.br)
 
 ## 24-9 (chikungunya)
+
+- [Epidemia de dengue: Com centenas de casos, Natal decreta situação de emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/03/02/epidemia-de-dengue-com-centenas-de-casos-natal-decreta-situacao-de-emergencia.ghtml) (Globo)
 
 - [Belo Horizonte (MG) monta hospital de campanha para dengue](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/belo-horizonte-mg-monta-hospital-de-campanha-para-dengue-02032024) (R7.com)
 
@@ -3492,8 +3528,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Le virus Zika démontre son efficacité pour éradiquer... certains cancers](https://www.techno-science.net/actualite/virus-zika-demontre-son-efficacite-eradiquer-certains-cancers-N24346.html) (Techno-science.net)
 
-- [Szenzációs felfedezés: megtalálhatták a rák ellenszerét](https://www.origo.hu/tudomany/20240116-uj-es-rendkivul-hatekony-rakellenes-eszkoz-kerulhet-hamarosan-az-orvostudomany-kezebe.html) (Origo.hu)
-
 ## 24-4 (yersinia)
 
 - [Type 3 secretion system induced leukotriene B4 synthesis by leukocytes is actively inhibited by Yersinia pestis to evade early immune recognition](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011280) (Plos.org)
@@ -3659,10 +3693,6 @@ Source: [News API](https://newsapi.org/)
 - [Birmingham Children's Hospital isolating measles patients](https://www.bbc.co.uk/news/uk-england-birmingham-68058328) (BBC News)
 
 - [Parents urged to book missed MMR vaccines amid 'very real risk' of measles outbreaks](https://news.sky.com/story/measles-parents-urged-to-book-missed-mmr-vaccines-amid-very-real-risk-of-outbreaks-13053780) (Sky.com)
-
-- [Not one case of measles in Scotland for three years, 95% vaccination and the Herald’s health correspondent tries to suggest it’s like the West Midlands here too](https://talkingupscotlandtwo.com/2024/01/21/not-one-case-of-measles-in-scotland-for-three-years-95-vaccination-and-the-heralds-health-correspondent-tries-to-suggest-its-like-the-west-midlands-here-too/) (Talkingupscotlandtwo.com)
-
-- [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
 
@@ -3835,8 +3865,6 @@ Source: [News API](https://newsapi.org/)
 - [El hallazgo casual de un laboratorio español que puede acabar con una enfermedad letal](https://www.elconfidencial.com/tecnologia/ciencia/2024-01-22/malaria-hallazgo-casual-laboratorio-espanol-enfermedad_3814406/) (Elconfidencial.com)
 
 - [Nigeria must intensify malaria eradication](https://punchng.com/nigeria-must-intensify-malaria-eradication/) (The Punch)
-
-- [Malaria: "Die Impfskepsis ist aktuell unsere größte Herausforderung"](https://www.sueddeutsche.de/politik/malaria-impfstoff-afrika-interview-1.6333566) (Süddeutsche Zeitung)
 
 ## 24-4 (dengue)
 
@@ -4071,20 +4099,6 @@ Source: [News API](https://newsapi.org/)
 - [Primeiras vacinas contra dengue chegam ao Brasil e estarão no SUS](https://ultimosegundo.ig.com.br/brasil/2024-01-21/primeiros-lotes-de-vacina-contra-dengue-no-sus-chegam-ao-brasil.html) (Ig.com.br)
 
 - [Primeiras doses da vacina contra a dengue chegam ao Brasil; saiba como funcionará a imunização](https://www.terra.com.br/vida-e-estilo/saude/primeiras-doses-da-vacina-contra-a-dengue-chegam-ao-brasil-saiba-como-funcionara-a-imunizacao,bcecbfe9d0391fd083d02586a5713b37azhw766w.html) (Terra.com.br)
-
-- [Brasil recibe primer lote de vacunas contra dengue en medio de un brote de la enfermedad](https://www.montevideo.com.uy/Salud/Brasil-recibe-primer-lote-de-vacunas-contra-dengue-en-medio-de-un-brote-de-la-enfermedad-uc877328) (Montevideo.com.uy)
-
-- [Brasil recebe as primeiras doses de vacina contra a dengue](https://valor.globo.com/brasil/noticia/2024/01/21/brasil-recebe-as-primeiras-doses-de-vacina-contra-a-dengue.ghtml) (Globo)
-
-- [Brasil recebe primeiras doses de vacina contra a dengue](https://veja.abril.com.br/saude/brasil-recebe-primeiras-doses-de-vacina-contra-a-dengue) (Abril.com.br)
-
-- [Vacina contra a dengue: 750 mil doses chegam ao Brasil](https://olhardigital.com.br/2024/01/21/medicina-e-saude/vacina-contra-a-dengue-750-mil-doses-chegam-ao-brasil/) (Olhardigital.com.br)
-
-- [Primeiras doses de vacina contra a dengue chegam ao Brasil](https://www.metropoles.com/brasil/primeiras-doses-de-vacina-contra-a-dengue-chegam-ao-brasil) (Metropoles.com)
-
-- [Primeiras doses da vacina contra dengue chegam ao Brasil](https://noticias.r7.com/saude/primeiras-doses-da-vacina-contra-dengue-chegam-ao-brasil-21012024) (R7.com)
-
-- [Número de casos de dengue pode chegar a 5 milhões em 2024](https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html) (Ig.com.br)
 
 ## 24-4 (chikungunya)
 
