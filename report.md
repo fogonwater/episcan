@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-03-03 19:05
-- **Most recent article:** 2024-03-02 18:57:37
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-03-04 07:33
+- **Most recent article:** 2024-03-03 06:44:00
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 116 | 173 | 216 | 191 | 188 | 178 | 1062 |
-| measles | 54 | 47 | 68 | 45 | 100 | 78 | 392 |
-| malaria | 85 | 25 | 35 | 19 | 33 | 17 | 214 |
-| chikungunya | 10 | 10 | 12 | 8 | 14 | 16 | 70 |
-| zika | 6 | 8 | 13 | 6 | 13 | 11 | 57 |
-| rabies | 9 | 7 | 7 | 9 | 5 | 8 | 45 |
-| sarampión | 1 | 6 | 5 | 4 | 11 | 5 | 32 |
-| meningitis | 1 | 3 | 8 | 8 | 7 | 4 | 31 |
-| mpox | 4 | 3 | 5 | 8 | 6 | 1 | 27 |
-| pertussis | 2 | 3 | 2 | 6 | 0 | 4 | 17 |
-| typhoid | 2 | 2 | 1 | 2 | 2 | 1 | 10 |
-| yersinia | 2 | 0 | 1 | 2 | 1 | 1 | 7 |
-| leptospirosis | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Disease | 24-10 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 0 | 123 | 173 | 216 | 191 | 188 | 182 | 1073 |
+| measles | 2 | 55 | 47 | 68 | 45 | 100 | 80 | 397 |
+| malaria | 0 | 86 | 25 | 35 | 19 | 33 | 17 | 215 |
+| chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 16 | 70 |
+| zika | 0 | 7 | 8 | 13 | 6 | 13 | 11 | 58 |
+| rabies | 1 | 9 | 7 | 7 | 9 | 5 | 8 | 46 |
+| sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 5 | 32 |
+| meningitis | 0 | 1 | 3 | 8 | 8 | 7 | 4 | 31 |
+| mpox | 0 | 4 | 3 | 5 | 8 | 6 | 1 | 27 |
+| pertussis | 0 | 2 | 3 | 2 | 6 | 0 | 4 | 17 |
+| typhoid | 0 | 2 | 2 | 1 | 2 | 2 | 1 | 10 |
+| yersinia | 0 | 2 | 0 | 1 | 2 | 1 | 1 | 7 |
+| leptospirosis | 0 | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -154,6 +154,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Nine further possible cases of measles reported in Ireland](https://www.irishtimes.com/health/2024/02/29/nine-further-possible-cases-of-measles-reported-in-ireland/) (The Irish Times)
 
+- [What to know about measles symptoms, vaccine, treatment as U.S. cases rise](https://www.washingtonpost.com/health/2024/02/29/what-is-measles-symptoms-signs-treatment/) (The Washington Post)
+
 - [Nearly 800 of School's Students Were Absent on Wednesday](https://www.newser.com/story/347084/nearly-800-of-schools-students-were-absent-on-wednesday.html) (Newser)
 
 - [Florida: “Surgeon General” Fails to Tell Students to Get Vaccinated Against Measles](https://dianeravitch.net/2024/02/29/florida-surgeon-general-fails-to-tell-students-to-get-vaccinated-against-measles/) (Dianeravitch.net)
@@ -161,6 +163,8 @@ Source: [News API](https://newsapi.org/)
 - [Thursday, February 29, 2024](https://kffhealthnews.org/morning-briefing/thursday-february-29-2024/) (Kffhealthnews.org)
 
 - [Press release: Marketing campaign launches to drive up childhood vaccinations](https://www.gov.uk/government/news/marketing-campaign-launches-to-drive-up-childhood-vaccinations) (Www.gov.uk)
+
+- [If you were vaccinated for measles in the 1970s and 80s you may not be protected: Doctors](https://www.fox13news.com/news/if-you-were-vaccinated-for-measles-in-the-1970s-and-80s-you-may-not-be-protected-doctors) (FOX 13 Tampa Bay)
 
 - [Biohazard or Bundle of Joy? Pregnancy Is Not a Disease.](https://www.thegospelcoalition.org/article/pregnancy-not-disease/) (Thegospelcoalition.org)
 
@@ -324,6 +328,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-9 (dengue)
 
+- [Estado de São Paulo registra 128.437 casos de dengue; 167 são graves](https://valor.globo.com/brasil/noticia/2024/03/02/estado-de-so-paulo-registra-128437-casos-de-dengue-167-so-graves.ghtml) (Globo)
+
+- [Dengue: Rio vacina 37,5 mil crianças, mas número é apenas 26% da meta](https://saude.ig.com.br/2024-03-02/dengue-rio-chega-a-37-5-mil-criancas-vacinadas--mas-numero-e-apenas-26--da-meta.html) (Ig.com.br)
+
+- [Sem visitas presenciais: IA identifica focos do mosquitoda dengue!](https://www.insoonia.com/sem-visitas-presenciais-ia-identifica-focos-do-mosquitoda-dengue/) (Insoonia.com)
+
 - [Governadores do Sul e Sudeste cobram governo Lula por combate à dengue](https://www.metropoles.com/sao-paulo/governadores-sul-sudeste-lula-dengue) (Metropoles.com)
 
 - [Ministerio de Salud de Brasil impulsó jornada de movilización nacional contra el dengue](https://www.montevideo.com.uy/Salud/Ministerio-de-Salud-de-Brasil-impulso-jornada-de-movilizacion-nacional-contra-el-dengue-uc881390) (Montevideo.com.uy)
@@ -349,6 +359,8 @@ Source: [News API](https://newsapi.org/)
 - [Com mais de 1 milhão de casos, Brasil promove Dia D contra dengue](https://www.metropoles.com/saude/1-milhao-de-casos-brasil-dia-d-dengue) (Metropoles.com)
 
 - [Dia D contra a dengue convoca população a eliminar focos do mosquito](https://valor.globo.com/brasil/noticia/2024/03/02/dia-d-contra-a-dengue-convoca-populacao-a-eliminar-focos-do-mosquito.ghtml) (Globo)
+
+- [Dengue: como tratar os sintomas em casa?](https://saude.ig.com.br/2024-03-02/dengue--como-tratar-os-sintomas-em-casa-.html) (Ig.com.br)
 
 - [Los casos de dengue en mujeres embarazadas aumentan más de un 300% en 2024 en Brasil](https://www.europapress.es/internacional/noticia-casos-dengue-mujeres-embarazadas-aumentan-mas-300-2024-brasil-20240302005255.html) (Europapress.es)
 
@@ -3528,6 +3540,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Le virus Zika démontre son efficacité pour éradiquer... certains cancers](https://www.techno-science.net/actualite/virus-zika-demontre-son-efficacite-eradiquer-certains-cancers-N24346.html) (Techno-science.net)
 
+- [Szenzációs felfedezés: megtalálhatták a rák ellenszerét](https://www.origo.hu/tudomany/20240116-uj-es-rendkivul-hatekony-rakellenes-eszkoz-kerulhet-hamarosan-az-orvostudomany-kezebe.html) (Origo.hu)
+
 ## 24-4 (yersinia)
 
 - [Type 3 secretion system induced leukotriene B4 synthesis by leukocytes is actively inhibited by Yersinia pestis to evade early immune recognition](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011280) (Plos.org)
@@ -3693,6 +3707,8 @@ Source: [News API](https://newsapi.org/)
 - [Birmingham Children's Hospital isolating measles patients](https://www.bbc.co.uk/news/uk-england-birmingham-68058328) (BBC News)
 
 - [Parents urged to book missed MMR vaccines amid 'very real risk' of measles outbreaks](https://news.sky.com/story/measles-parents-urged-to-book-missed-mmr-vaccines-amid-very-real-risk-of-outbreaks-13053780) (Sky.com)
+
+- [Not one case of measles in Scotland for three years, 95% vaccination and the Herald’s health correspondent tries to suggest it’s like the West Midlands here too](https://talkingupscotlandtwo.com/2024/01/21/not-one-case-of-measles-in-scotland-for-three-years-95-vaccination-and-the-heralds-health-correspondent-tries-to-suggest-its-like-the-west-midlands-here-too/) (Talkingupscotlandtwo.com)
 
 ## 24-4 (malaria)
 
@@ -3865,6 +3881,8 @@ Source: [News API](https://newsapi.org/)
 - [El hallazgo casual de un laboratorio español que puede acabar con una enfermedad letal](https://www.elconfidencial.com/tecnologia/ciencia/2024-01-22/malaria-hallazgo-casual-laboratorio-espanol-enfermedad_3814406/) (Elconfidencial.com)
 
 - [Nigeria must intensify malaria eradication](https://punchng.com/nigeria-must-intensify-malaria-eradication/) (The Punch)
+
+- [Malaria: "Die Impfskepsis ist aktuell unsere größte Herausforderung"](https://www.sueddeutsche.de/politik/malaria-impfstoff-afrika-interview-1.6333566) (Süddeutsche Zeitung)
 
 ## 24-4 (dengue)
 
@@ -4100,6 +4118,20 @@ Source: [News API](https://newsapi.org/)
 
 - [Primeiras doses da vacina contra a dengue chegam ao Brasil; saiba como funcionará a imunização](https://www.terra.com.br/vida-e-estilo/saude/primeiras-doses-da-vacina-contra-a-dengue-chegam-ao-brasil-saiba-como-funcionara-a-imunizacao,bcecbfe9d0391fd083d02586a5713b37azhw766w.html) (Terra.com.br)
 
+- [Brasil recibe primer lote de vacunas contra dengue en medio de un brote de la enfermedad](https://www.montevideo.com.uy/Salud/Brasil-recibe-primer-lote-de-vacunas-contra-dengue-en-medio-de-un-brote-de-la-enfermedad-uc877328) (Montevideo.com.uy)
+
+- [Brasil recebe as primeiras doses de vacina contra a dengue](https://valor.globo.com/brasil/noticia/2024/01/21/brasil-recebe-as-primeiras-doses-de-vacina-contra-a-dengue.ghtml) (Globo)
+
+- [Brasil recebe primeiras doses de vacina contra a dengue](https://veja.abril.com.br/saude/brasil-recebe-primeiras-doses-de-vacina-contra-a-dengue) (Abril.com.br)
+
+- [Vacina contra a dengue: 750 mil doses chegam ao Brasil](https://olhardigital.com.br/2024/01/21/medicina-e-saude/vacina-contra-a-dengue-750-mil-doses-chegam-ao-brasil/) (Olhardigital.com.br)
+
+- [Primeiras doses de vacina contra a dengue chegam ao Brasil](https://www.metropoles.com/brasil/primeiras-doses-de-vacina-contra-a-dengue-chegam-ao-brasil) (Metropoles.com)
+
+- [Primeiras doses da vacina contra dengue chegam ao Brasil](https://noticias.r7.com/saude/primeiras-doses-da-vacina-contra-dengue-chegam-ao-brasil-21012024) (R7.com)
+
+- [Número de casos de dengue pode chegar a 5 milhões em 2024](https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html) (Ig.com.br)
+
 ## 24-4 (chikungunya)
 
 - [Dengue e chikungunya levam Minas Gerais a decretar emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/01/27/dengue-e-chikungunya-levam-minas-gerais-a-decretar-emergencia.ghtml) (Globo)
@@ -4121,3 +4153,13 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya e zika diminuem no país, mas crescem em áreas de risco](https://veja.abril.com.br/saude/chikungunya-e-zika-deminuem-no-pais-mas-crescem-em-areas-de-risco) (Abril.com.br)
 
 - [Ministério da Saúde de Timor-Leste confirma vírus chikungunya no país](https://observador.pt/2024/01/23/ministerio-da-saude-de-timor-leste-confirma-virus-chikungunya-no-pais/) (Observador.pt)
+
+## 24-10 (rabies)
+
+- [Rabies vaccinations for pet dogs in Japan fall to 70%](https://www.japantimes.co.jp/news/2024/03/03/japan/science-health/rabies-vaccinations-falling/) (The Japan Times)
+
+## 24-10 (measles)
+
+- [Vaccination rates dipped for years. Now, there’s a measles outbreak in Britain.](https://www.bostonglobe.com/2024/03/03/world/vaccination-rates-dipped-years-now-theres-measles-outbreak-britain/) (The Boston Globe)
+
+- [TWiV 1093: Reservoir bats and jumbo phage](https://www.microbe.tv/twiv/twiv-1093/) (Microbe.tv)

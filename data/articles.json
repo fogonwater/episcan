@@ -1,8 +1,116 @@
 {
-  "last_updated": "2024-03-03 19:05",
-  "count_articles_total": 1892,
-  "count_articles_new": 17,
+  "last_updated": "2024-03-04 07:33",
+  "count_articles_total": 1911,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 6335,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "The Japan Times",
+      "title": "Rabies vaccinations for pet dogs in Japan fall to 70%",
+      "description": "The ratio of pet dogs in Japan that have received rabies vaccinations has fallen to around 70% in recent years from nearly 100%, according to government data, with a lack of reported cases likely leading to diminishing fears of a disease that is almost always\u2026",
+      "url": "https://www.japantimes.co.jp/news/2024/03/03/japan/science-health/rabies-vaccinations-falling/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/03/283905.jpg",
+      "publishedAt": "2024-03-03 06:44:00",
+      "content": "MAEBASHI The ratio of pet dogs in Japan that have received rabies vaccinations has fallen to around 70% in recent years from nearly 100%, according to government data, with a lack of reported cases l\u2026 [+492 chars]",
+      "retrievedAt": "2024-03-04 07:33:43.055208",
+      "internal_id": "4bd468b9a57052cb225f6505054a87b187715de3f94de29d1bde8415656210aa",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6336,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Megan Specia",
+      "title": "Vaccination rates dipped for years. Now, there\u2019s a measles outbreak in Britain.",
+      "description": "Across Europe, measles cases rose more than 40-fold in 2023 compared with a year earlier \u2014 from less than 1,000 to more than 40,000 \u2014 according to the World Health Organization.",
+      "url": "https://www.bostonglobe.com/2024/03/03/world/vaccination-rates-dipped-years-now-theres-measles-outbreak-britain/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/SZwK_F-tqMAEydhK99olkxq6COo=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/VXUCQCDE74TWZVOTGLBCZNDIZM.jpg",
+      "publishedAt": "2024-03-03 05:34:02",
+      "content": "Its what we have to do, and its important to do, Nnagbo said. I just want them to be safe. And it was easy, you could just walk in. Cases of measles, a highly contagious but easily preventable disea\u2026 [+6652 chars]",
+      "retrievedAt": "2024-03-04 07:33:43.466929",
+      "internal_id": "25ddd14f9f1a8c80af482030df82a597dc81745dd1be60bc40e2776894714c86",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6337,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1093: Reservoir bats and jumbo phage",
+      "description": "TWiV discusses effectiveness of this season\u2019s flu vaccine, efficacy of Pfizer RSV vaccine, nOPV2 in the US, dengue in Peru, measles in Michigan and Indiana, how coordinated inflammatory responses dictate control of Marburg virus by reservoir bats, and tRNA ac\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1093/",
+      "urlToImage": null,
+      "publishedAt": "2024-03-03 05:00:00",
+      "content": "TWiV discusses effectiveness of this season\u2019s flu vaccine, efficacy of Pfizer RSV vaccine, nOPV2 in the US, dengue in Peru, measles in Michigan and Indiana, how coordinated inflammatory responses dic\u2026 [+904 chars]",
+      "retrievedAt": "2024-03-04 07:33:43.506744",
+      "internal_id": "e4238dd3093cacdad941620ca15e82f5fc74f95c1a22b48ab3816fbda1937dff",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6341,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Estado de S\u00e3o Paulo registra 128.437 casos de dengue; 167 s\u00e3o graves",
+      "description": "O Estado de S\u00e3o Paulo registra, at\u00e9 este s\u00e1bado (2...",
+      "url": "https://valor.globo.com/brasil/noticia/2024/03/02/estado-de-so-paulo-registra-128437-casos-de-dengue-167-so-graves.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/UfbB6-3458JEOMUTWZSbVCzjbRM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/H/w/LR8pEKSIK8k8zsh8Ardw/aedesebc.jpg",
+      "publishedAt": "2024-03-02 23:59:45",
+      "content": "O Estado de S\u00e3o Paulo registra, at\u00e9 este s\u00e1bado (2), 128.437 casos de dengue, de acordo com dados atualizados pelo painel de monitoramento da SES (Secretaria de Estado da Sa\u00fade). Desses, 167 s\u00e3o cons\u2026 [+2755 chars]",
+      "retrievedAt": "2024-03-04 07:33:44.634493",
+      "internal_id": "ab733a674572fb04c11de47cb300d99b2b88c23077ce99128db6c97b313476c9",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 6342,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Rafael Nascimento, Rafael Nascimento",
+      "title": "Dengue: Rio vacina 37,5 mil crian\u00e7as, mas n\u00famero \u00e9 apenas 26% da meta",
+      "description": "Crian\u00e7as de 10 e 11 anos podem se vacinar contra dengue na capital fluminense",
+      "url": "https://saude.ig.com.br/2024-03-02/dengue-rio-chega-a-37-5-mil-criancas-vacinadas--mas-numero-e-apenas-26--da-meta.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/e3/ik/0b/e3ik0bkdnhsbcsmoe1519tq0a.jpg",
+      "publishedAt": "2024-03-02 22:12:05",
+      "content": "O Brasil se uniu neste s\u00e1bado (2) para o Dia D contra a dengue , a\u00e7\u00e3o que busca conter a transmiss\u00e3o da doen\u00e7a uma vez que o pa\u00eds j\u00e1 ultrapassou mais de 1 milh\u00e3o de casos Somente na cidade do Rio, \u2026 [+1042 chars]",
+      "retrievedAt": "2024-03-04 07:33:44.638447",
+      "internal_id": "8deda8ffe564a97bfdd879f79b23a7f71949de290392116345b4534f53d58c1e",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 6340,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Insoonia.com",
+      "author": "Camila Naxara",
+      "title": "Sem visitas presenciais: IA identifica focos do mosquitoda dengue!",
+      "description": "\u201cUm software desenvolvido por pesquisadores da UFMG, USP e Universidade de Sheffield usa intelig\u00eancia artificial para identificar focos de dengue em \u00e1reas urbanas.\u201d O software analisa automaticamente fotos de im\u00f3veis capturadas por drones e mapeia locais com \u2026",
+      "url": "https://www.insoonia.com/sem-visitas-presenciais-ia-identifica-focos-do-mosquitoda-dengue/",
+      "urlToImage": "https://www.insoonia.com/wp-content/uploads/2024/03/dengue-min.png",
+      "publishedAt": "2024-03-02 21:59:55",
+      "content": "\u201cUm software desenvolvido por pesquisadores da UFMG, USP e Universidade de Sheffield usa intelig\u00eancia artificial para identificar focos de dengue em \u00e1reas urbanas.\u201d Imagem: Freepik | Dom\u00ednio p\u00fablico\u2026 [+1822 chars]",
+      "retrievedAt": "2024-03-04 07:33:44.503086",
+      "internal_id": "9967340f985bf2f04d6d1b1a14d69bb476bf36d603329ca27d9e1a328f719742",
+      "publishedAtLabel": "Mar 2"
+    },
     {
       "id": 6330,
       "query": [
@@ -290,6 +398,24 @@
       "content": "O Minist\u00e9rio da Sa\u00fade realiza neste s\u00e1bado (2), em todo o pa\u00eds, o \"Dia D de Mobiliza\u00e7\u00e3o Contra a Dengue\". O objetivo do evento, denominado Brasil unido contra a dengue, \u00e9 fazer uma a\u00e7\u00e3o integrada de \u2026 [+1882 chars]",
       "retrievedAt": "2024-03-03 19:05:28.984266",
       "internal_id": "11cf8c09d106c9d284fb946d58eb602be05b9c2e29e95bb463cfbe666cc3654c",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 6343,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Leticia Martins, Leticia Martins",
+      "title": "Dengue: como tratar os sintomas em casa?",
+      "description": "Brasil registrou mais de 1 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-03-02/dengue--como-tratar-os-sintomas-em-casa-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c4/1z/dr/c41zdr4sztch6kcgg0ab3ryg7.jpg",
+      "publishedAt": "2024-03-02 09:00:00",
+      "content": "Nesta semana, o Brasil registrou mais de 1 milh\u00e3o de casos prov\u00e1veis de dengue e 214 mortes confirmadas pela doen\u00e7a , segundo o Minist\u00e9rio da Sa\u00fade. Al\u00e9m disso, milhares est\u00e3o internados por conta d\u2026 [+3009 chars]",
+      "retrievedAt": "2024-03-04 07:33:44.647641",
+      "internal_id": "e0185de2856a7050c3328b550233527b02b8afe54d93f8defc4b84a5fb827064",
       "publishedAtLabel": "Mar 2"
     },
     {
@@ -1615,6 +1741,24 @@
       "publishedAtLabel": "Feb 29"
     },
     {
+      "id": 6339,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-washington-post",
+      "source_name": "The Washington Post",
+      "author": "Annabelle Timsit",
+      "title": "What to know about measles symptoms, vaccine, treatment as U.S. cases rise",
+      "description": "U.S. cases of measles, which can cause symptoms like fever, coughs and rashes, are rising. The MMR vaccine is a safe and effective way to prevent infection.",
+      "url": "https://www.washingtonpost.com/health/2024/02/29/what-is-measles-symptoms-signs-treatment/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UYUMGIWR2UKJ3HDR2XBOC5SG2A_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-02-29 15:15:31",
+      "content": "Authorities in 15 U.S. states have reported around three dozen cases of measles, as Florida continues to deal with a localized outbreak in an elementary school prompting experts to sound the alarm ab\u2026 [+75 chars]",
+      "retrievedAt": "2024-03-04 07:33:43.522167",
+      "internal_id": "2b1c37db0a00c3395bd5c1bfbe3da6bc0d5b1c81c96628e90e8586a702e90880",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
       "id": 6250,
       "query": [
         "chikungunya"
@@ -1847,6 +1991,24 @@
       "content": "The UK Health Security Agency (UKHSA) is launching a new multi-media marketing campaign across England to remind parents and carers of the risk of their children missing out on protection against ser\u2026 [+7509 chars]",
       "retrievedAt": "2024-03-01 19:05:51.921821",
       "internal_id": "4ff7028e1f2a9cc6c758140068aa51e98bf5aa00d6b865a1755ebf30078b6bb5",
+      "publishedAtLabel": "Feb 29"
+    },
+    {
+      "id": 6338,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 13 Tampa Bay",
+      "author": "Jordan Bowen",
+      "title": "If you were vaccinated for measles in the 1970s and 80s you may not be protected: Doctors",
+      "description": "Doctors say the measles shot some people got who were born in the 70s and the 80s actually wore off after about 20 years, putting them at risk.",
+      "url": "https://www.fox13news.com/news/if-you-were-vaccinated-for-measles-in-the-1970s-and-80s-you-may-not-be-protected-doctors",
+      "urlToImage": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/02/1280/720/9f831bc7-wtvt-00001.jpg?ve=1&tl=1",
+      "publishedAt": "2024-02-29 07:43:33",
+      "content": "TAMPA, Fla. - If you thought you were vaccinated for measles, you may want to double-check. Doctors say the shot some people got who were born in the 70s and the 80s actually wore off after about 20\u2026 [+2764 chars]",
+      "retrievedAt": "2024-03-04 07:33:43.518392",
+      "internal_id": "d665072f30b824409e0031c1e2832ae32f6202b9e67535caed3968ac37124677",
       "publishedAtLabel": "Feb 29"
     },
     {
@@ -34135,6 +34297,186 @@
       "content": "Chegaram ao Brasil neste s\u00e1bado, 20, as primeiras doses davacina contra a dengue fornecida pela farmac\u00eautica japonesa Takeda, sem cobran\u00e7a, ao Minist\u00e9rio da Sa\u00fade. S\u00e3o cerca de 750 mil doses nesta pr\u2026 [+2296 chars]",
       "retrievedAt": "2024-01-23 07:06:02.774584",
       "internal_id": "992d058ddd64379d3766be71a926cf3d75e22bedc68cb6322a0451b61d8d6c43",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4436,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Brasil recibe primer lote de vacunas contra dengue en medio de un brote de la enfermedad",
+      "description": "El pa\u00eds fue uno de los primeros en incluir el tratamiento en su campa\u00f1a p\u00fablica y gratuita y comenzar\u00e1 a distribuirla este a\u00f1o.",
+      "url": "https://www.montevideo.com.uy/Salud/Brasil-recibe-primer-lote-de-vacunas-contra-dengue-en-medio-de-un-brote-de-la-enfermedad-uc877328",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202304/_W933_80/841257.jpg",
+      "publishedAt": "2024-01-21 18:40:00",
+      "content": "Brasil recibi\u00f3 el s\u00e1bado un lote de 750.000 dosis de la vacuna Qdenga contra el dengue donado por el laboratorio japon\u00e9s Takeda Pharma y que le permitir\u00e1 anticipar su campa\u00f1a de inmunizaci\u00f3n en me\u2026 [+2457 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.759941",
+      "internal_id": "fe55ecbac51c5cc53bd6022ab73c190ed027ad6f1e071d37f1e0cccdfbd6fcef",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4439,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Brasil recebe as primeiras doses de vacina contra a dengue",
+      "description": "Remessa faz parte de um total de 1,32 milh\u00e3o de doses da vacina fornecidas pela farmac\u00eautica Takeda",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/21/brasil-recebe-as-primeiras-doses-de-vacina-contra-a-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/TFUcG3BEqqNxmL-kxr_pBmDCBLE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/A/q/MCF62aR16vEWAloxviAw/caixa-da-vacina-contra-a-dengue-do-laboratorio-takeda-qdenda-marcia-almeida-valor.jpeg",
+      "publishedAt": "2024-01-21 18:18:05",
+      "content": "Por Juliana Schincariol, Valor \u2014 Rio 21/01/2024 15h18 Atualizado 21/01/2024",
+      "retrievedAt": "2024-01-22 19:05:36.816179",
+      "internal_id": "e086d184a7acd803ae3df5d77cd47b33e46487509dfe71b5f0bb45eff860f536",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4434,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Ricardo Chapola",
+      "title": "Brasil recebe primeiras doses de vacina contra a dengue",
+      "description": "Primeira parte do lote ser\u00e1 destinada a crian\u00e7as e adolescentes de 10 a 14 anos que moram em cidades com mais de 100 mil habitantes",
+      "url": "https://veja.abril.com.br/saude/brasil-recebe-primeiras-doses-de-vacina-contra-a-dengue",
+      "urlToImage": "",
+      "publishedAt": "2024-01-21 18:10:43",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade Por Da Reda\u00e7\u00e3o 21 jan 2024, 15h10 QDENGA - Governo comprou mais de 5 milh\u00f5es de doses que ser\u00e3o entregues em etapas (Reprodu\u00e7\u00e3o/Reprodu\u00e7\u00e3o\u2026 [+2175 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.727485",
+      "internal_id": "df4de5a7202059b6f00228f19dc63d409a0d0952ac935745a77a84716e1dc28f",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4440,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Paul Munzinger, Kapstadt",
+      "title": "Malaria: \"Die Impfskepsis ist aktuell unsere gr\u00f6\u00dfte Herausforderung\"",
+      "description": "Erstmals k\u00f6nnen Millionen Kinder in Afrika gegen Malaria geimpft werden - doch Klimaver\u00e4nderungen erschweren den Kampf gegen die Krankheit. Die kamerunische Immunologin Rose Leke \u00fcber unberechenbaren Regen und die Macht von Ger\u00fcchten.",
+      "url": "https://www.sueddeutsche.de/politik/malaria-impfstoff-afrika-interview-1.6333566",
+      "urlToImage": "https://www.sueddeutsche.de/image/sz.1.6333568/1200x675?v=1705839531",
+      "publishedAt": "2024-01-21 16:59:41",
+      "content": "21. Januar 2024, 17:59 Uhr Pilotprojekte in Ghana, Malawi und Kenia: Nach der Malaria-Impfung wird dieses Kind auch mit einem Moskitonetz gesch\u00fctzt. (Foto: Yasuyoshi Chiba/AFP) Erstmals k\u00f6nnen Mil\u2026 [+885 chars]",
+      "retrievedAt": "2024-01-22 19:05:37.890565",
+      "internal_id": "9350ce2333bce08367b4542eecd5283ec7383a4de87579274adbde922b997236",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4433,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Ana Luiza Figueiredo",
+      "title": "Vacina contra a dengue: 750 mil doses chegam ao Brasil",
+      "description": "Brasil recebe as primeiras 750 mil doses da vacina contra a dengue para integra\u00e7\u00e3o ao SUS, marcando um avan\u00e7o na luta contra a doen\u00e7a O post Vacina contra a dengue: 750 mil doses chegam ao Brasil apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/01/21/medicina-e-saude/vacina-contra-a-dengue-750-mil-doses-chegam-ao-brasil/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/vacina-dengue-QDenga-695x500.png",
+      "publishedAt": "2024-01-21 16:16:16",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou a chegada das primeiras 750 mil doses da vacina contra a dengue ao Brasil neste s\u00e1bado, 20 de janeiro. Este \u00e9 o pontap\u00e9 inicial para a implementa\u00e7\u00e3o da vacina no Sistem\u2026 [+1839 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.719484",
+      "internal_id": "c0d9e5780c2f8af42531c1d907b9b8ca724f7ac917e9640cc9356c4b7a293d86",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4435,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mateus Salom\u00e3o",
+      "title": "Primeiras doses de vacina contra a dengue chegam ao Brasil",
+      "description": "Remessa tem 750 mil unidades da vacina contra a dengue, que ser\u00e1 disponibilizada pelo SUS. Aplica\u00e7\u00e3o deve come\u00e7ar em fevereiro",
+      "url": "https://www.metropoles.com/brasil/primeiras-doses-de-vacina-contra-a-dengue-chegam-ao-brasil",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/20094907/Dengue-compressed-1200x800.jpg",
+      "publishedAt": "2024-01-21 14:43:22",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou que as primeiras doses da vacina Qdenga, contra a dengue, chegaram ao Brasil. A primeira remessa tem 750 mil unidades do imunizante, que ser\u00e1 disponibilizado pelo Siste\u2026 [+4894 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.740531",
+      "internal_id": "3f06569f59223657d528c44a4678bcc2c698489d019d7b9545f9085190a99483",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4432,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Talkingupscotlandtwo.com",
+      "author": "Johnrobertson834",
+      "title": "Not one case of measles in Scotland for three years, 95% vaccination and the Herald\u2019s health correspondent tries to suggest it\u2019s like the West Midlands here too",
+      "description": "I\u2019m indebted to for As a genuine and scary surge in measles cases after plummeting vaccination rates among young children explodes in parts of England, especially London and the West Midlands\u2026",
+      "url": "https://talkingupscotlandtwo.com/2024/01/21/not-one-case-of-measles-in-scotland-for-three-years-95-vaccination-and-the-heralds-health-correspondent-tries-to-suggest-its-like-the-west-midlands-here-too/",
+      "urlToImage": "https://talkingupscotlandtwo.files.wordpress.com/2024/01/image-146.png",
+      "publishedAt": "2024-01-21 13:07:48",
+      "content": "I\u2019m indebted to for As a genuine and scary surge in measles cases after plummeting vaccination rates among young children explodes in parts of England, especially London and the West Midlands, the H\u2026 [+1632 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.136584",
+      "internal_id": "4e60afc91949e06b431b3afddc5a67e0aaf4857ec0fbc58f9a7c3a10feca1e90",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4441,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": null,
+      "title": "Szenz\u00e1ci\u00f3s felfedez\u00e9s: megtal\u00e1lhatt\u00e1k a r\u00e1k ellenszer\u00e9t",
+      "description": "Mutatjuk!",
+      "url": "https://www.origo.hu/tudomany/20240116-uj-es-rendkivul-hatekony-rakellenes-eszkoz-kerulhet-hamarosan-az-orvostudomany-kezebe.html",
+      "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2011/20201124tamadas-alatt-allo-raksejt.jpg?w=1024",
+      "publishedAt": "2024-01-21 13:01:00",
+      "content": "Egy frissen publik\u00e1lt kutat\u00e1s szerint a Zika-v\u00edrus k\u00eds\u00e9rleti egerekben k\u00e9pes volt megc\u00e9lozni \u00e9s gyorsan felsz\u00e1molni a hum\u00e1n neuroblaszt\u00f3ma daganatokat. Most m\u00e1r csak az a k\u00e9rd\u00e9s, hogy mennyi idn bel\u00fc\u2026 [+5343 chars]",
+      "retrievedAt": "2024-01-22 19:05:38.494855",
+      "internal_id": "022802be2bef60195c85bbc6406063465797dce09026d80249d2a794bcf377a7",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4438,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Giovanna Inoue, do R7, em Bras\u00edlia",
+      "title": "Primeiras doses da vacina contra dengue chegam ao Brasil",
+      "description": "P\u00fablico-alvo ser\u00e1 de crian\u00e7as e adolescentes de 10 a 14 anos, e as 750 mil inje\u00e7\u00f5es devem ser aplicadas a partir de fevereiro",
+      "url": "https://noticias.r7.com/saude/primeiras-doses-da-vacina-contra-dengue-chegam-ao-brasil-21012024",
+      "urlToImage": "https://img.r7.com/images/doses-vacina-dengue-21012024131435819?crop=1449x815+7+92",
+      "publishedAt": "2024-01-21 12:57:00",
+      "content": "Reprodu\u00e7\u00e3o/Minist\u00e9rio da Sa\u00fade A primeira remessa de vacina contra dengue, cerca de 750 mil doses, chegou ao Brasil neste s\u00e1bado (20). Uma segunda leva, com 570 mil doses, est\u00e1 prevista para f\u2026 [+3006 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.800084",
+      "internal_id": "ba300fbc5467800aa0896fefe0c75b05087cd6614da3cb63123f16c8c3bcc642",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4437,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "N\u00famero de casos de dengue pode chegar a 5 milh\u00f5es em 2024",
+      "description": "A proje\u00e7\u00e3o foi divulgada pelo Minist\u00e9rio da Sa\u00fade em conjunto com o InfoDengue (Fiocruz); epidemia deve atingir, principalmente, a regi\u00e3o Centro-Oeste",
+      "url": "https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-01-21 09:00:00",
+      "content": "O n\u00famero de casos de dengue no Brasil pode chegar a 5 milh\u00f5es neste ano, de acordo com proje\u00e7\u00e3o divulgada pelo Minist\u00e9rio da Sa\u00fade em parceria com o InfoDengue, da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz). E\u2026 [+2175 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.778009",
+      "internal_id": "1265bc694594663277f8ac97eb9956d43af9a84a58ad88f6db928036f6db2b4c",
       "publishedAtLabel": "Jan 21"
     }
   ]
