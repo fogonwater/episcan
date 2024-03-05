@@ -1,8 +1,134 @@
 {
-  "last_updated": "2024-03-04 19:05",
-  "count_articles_total": 1913,
-  "count_articles_new": 12,
+  "last_updated": "2024-03-05 07:05",
+  "count_articles_total": 1950,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 6357,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Paul Cullen",
+      "title": "Measles catch-up vaccine to be offered to 310,000 people",
+      "description": "Fears of virus outbreak persist as cases continue to rise in rest of Europe",
+      "url": "https://www.irishtimes.com/health/2024/03/04/measles-catch-up-vaccine-to-be-offered-to-310000-people/",
+      "urlToImage": "https://www.irishtimes.com/resizer/EjXr_4lQKlPPxQvtYb2UKG_rPZQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/L5HL2H2KJFA4XNENQLVRCYBQG4.jpg",
+      "publishedAt": "2024-03-04 05:00:00",
+      "content": "More than 300,000 people are to be offered a measles catch-up vaccine under plans to come before Cabinet on Tuesday. The catch-up vaccine programme has been drawn up over fears of outbreaks of the h\u2026 [+2239 chars]",
+      "retrievedAt": "2024-03-05 07:05:46.187172",
+      "internal_id": "d981d6814d5dc34c91f2a5f8bfbb08b7f5f3c9140516eda5478fddf57bb7e35f",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 6358,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Major catch-up campaign to target missed measles vaccines amid fears of surge in cases",
+      "description": "Unvaccinated groups in their 20s, 30s and older are among more than 300,000 people who will be offered the \u00admeasles jab as part of a major catch-up vaccination rollout in a bid to avert a surge in cases.",
+      "url": "https://www.independent.ie/irish-news/major-catch-up-campaign-to-target-missed-measles-vaccines-amid-fears-of-surge-in-cases/a1016963521.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/edziZ_pUIXw2KPE5RmmlEC1-v6E=/0x27:2787x1885/629x0/prod-mh-ireland/488d6919-ae8f-454a-a0e7-0f2fd89af8e3/9419bccc-44dc-4027-890f-dd518df87ec9/488d6919-ae8f-454a-a0e7-0f2fd89af8e3.jpg",
+      "publishedAt": "2024-03-04 02:30:00",
+      "content": "Concern growing over risk of unvaccinated children or adults travelling for Easter Unvaccinated groups in their 20s, 30s and older are among more than 300,000 people who will be offered the \u00admeasles\u2026 [+2765 chars]",
+      "retrievedAt": "2024-03-05 07:05:46.196562",
+      "internal_id": "c108bea17e8a86b814bedca67faeef1d219609f65e0e98228f0dfc9ec363b88f",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 6359,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "New major catch-up campaign to target missed measles vaccines amid fears of surge in cases",
+      "description": "Unvaccinated groups in their 20s, 30s and older are among more than 300,000 people who will be offered the \u00admeasles jab as part of a major catch-up vaccination rollout in a bid to avert a surge in cases.",
+      "url": "https://www.independent.ie/irish-news/new-major-catch-up-campaign-to-target-missed-measles-vaccines-amid-fears-of-surge-in-cases/a1016963521.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/edziZ_pUIXw2KPE5RmmlEC1-v6E=/0x27:2787x1885/629x0/prod-mh-ireland/488d6919-ae8f-454a-a0e7-0f2fd89af8e3/9419bccc-44dc-4027-890f-dd518df87ec9/488d6919-ae8f-454a-a0e7-0f2fd89af8e3.jpg",
+      "publishedAt": "2024-03-04 02:30:00",
+      "content": "Concern growing over risk of unvaccinated children or adults travelling for Easter Unvaccinated groups in their 20s, 30s and older are among more than 300,000 people who will be offered the \u00admeasles\u2026 [+2765 chars]",
+      "retrievedAt": "2024-03-05 07:05:46.210965",
+      "internal_id": "21f88b03f34a202800984c59e39b84942fc449a53198a03196dee672280e06ae",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 6361,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Wwj Newsroom",
+      "title": "Two more cases of measles confirmed in Metro Detroit; Health officials release list of possible exposure sites",
+      "description": "Health officials in Wayne and Washtenaw Counties have confirmed new cases of measles, the second and third confirmed cases in Michigan this year.",
+      "url": "https://www.newsbreak.com/wayne-county-mi/3354337018568-two-more-cases-of-measles-confirmed-in-metro-detroit-health-officials-release-list-of-possible-exposure-sites",
+      "urlToImage": "https://img.particlenews.com/img/id/2u6lrL_0reul5UB00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-03-04 01:56:23",
+      "content": "WAYNE COUNTY (WWJ) Health officials in Wayne and Washtenaw Counties have confirmed two new cases of measles, the second and third confirmed case in Michigan this year. Wayne County Public Health o\u2026 [+3073 chars]",
+      "retrievedAt": "2024-03-05 07:05:46.257129",
+      "internal_id": "7f8ecbd0e90bbdf3f4332a0f95468c99a81a8cbed8ae64bfd865b3feb04222f9",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 6356,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "the Editorial Board of the Los Angeles Times",
+      "title": "Vaccine skepticism on display in Florida",
+      "description": "State's surgeon general seems mostly unconcerned by new measles cases.",
+      "url": "https://www.startribune.com/vaccine-skepticism-on-display-in-florida/600347932/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1709238507",
+      "publishedAt": "2024-03-04 00:00:00",
+      "content": "Opinion editor's note:Star Tribune Opinion publishes a mix of national and local commentaries online and in print each day. To contribute, click here. As lifesaving as the COVID-19 vaccines have bee\u2026 [+3367 chars]",
+      "retrievedAt": "2024-03-05 07:05:46.168476",
+      "internal_id": "2f52614f7c6ae8af1db2f5115175c0a23f1fe7e5df5c57eb3db3d7e094207cf8",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 6360,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 2 Detroit",
+      "author": "Fox 2 Detroit",
+      "title": "unknown title",
+      "description": "Both Wayne and Washtenaw County Health Departments are working closely with MDHHS to identify anyone who might've been exposed.",
+      "url": "https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties",
+      "urlToImage": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2019/10/1280/720/Measles20germs20pic_1546020282274.png_6564173_ver1.0_640_360.jpg?ve=1&tl=1",
+      "publishedAt": "2024-03-03 21:01:29",
+      "content": "SOUTHFIELD, Mich. (FOX 2) - Two more cases of measles were confirmed by Michigan health officials after the state detected its first positive case in more than four years last week. Wayne County Pub\u2026 [+2997 chars]",
+      "retrievedAt": "2024-03-05 07:05:46.251489",
+      "internal_id": "9a254b81b45c4a726cc43bdeb1ae9b9a0a61649ebc57907bb0b11a26f260fd02",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6363,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Rafael Nascimento, Rafael Nascimento",
+      "title": "Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto",
+      "description": "Doen\u00e7a tem sintomas semelhantes aos da dengue. Funda\u00e7\u00e3o de Vigil\u00e2ncia em Sa\u00fade do AM disse que confirmou surto com base nas orienta\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade",
+      "url": "https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ar/r3/5x/arr35xldkkm8u7y79rtzicsam.jpg",
+      "publishedAt": "2024-03-03 19:30:51",
+      "content": "Ap\u00f3s registrar 1.674 casos da Febre do Oropouche neste ano, o governo do Amazonas reconheceu o surto da doen\u00e7a no estado. A arbovirose tem sintomas semelhantes aos da dengue , como dor de cabe\u00e7a, m\u2026 [+1637 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.425451",
+      "internal_id": "4f54511b881e88ed15874f3ade0a47ecf0fd73c369ac37e0f4e4b21dd65325dc",
+      "publishedAtLabel": "Mar 3"
+    },
     {
       "id": 6344,
       "query": [
@@ -309,6 +435,24 @@
       "content": "O Brasil se uniu neste s\u00e1bado (2) para o Dia D contra a dengue , a\u00e7\u00e3o que busca conter a transmiss\u00e3o da doen\u00e7a uma vez que o pa\u00eds j\u00e1 ultrapassou mais de 1 milh\u00e3o de casos Somente na cidade do Rio, \u2026 [+1042 chars]",
       "retrievedAt": "2024-03-04 07:33:44.638447",
       "internal_id": "8deda8ffe564a97bfdd879f79b23a7f71949de290392116345b4534f53d58c1e",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 6369,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Casa.com",
+      "title": "Quais plantas espantam o mosquito da dengue?",
+      "description": "Professor de Ci\u00eancias e Biologia mostra quais plantas s\u00e3o aliadas na hora de afastar o mosquito da dengue, em meio ao cen\u00e1rio preocupante no pa\u00eds.",
+      "url": "https://casa.abril.com.br/jardins-e-hortas/quais-plantas-espantam-o-mosquito-da-dengue/",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/02/380113562-plantas-espantam-mosquito-dengue-wikimediacommons-kenpei-melissa.jpg",
+      "publishedAt": "2024-03-02 22:04:23",
+      "content": "De acordo com o Minist\u00e9rio da Sa\u00fade, o Brasil j\u00e1 superou os 740 mil casos de dengue, representando um aumento de mais de 445% em compara\u00e7\u00e3o ao mesmo per\u00edodo do ano passado, quando foram registrados 1\u2026 [+4339 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.456507",
+      "internal_id": "4be810c68f686e4a4cb291c7ec0e262af0cfe762203257db4be6c47e9fe877ca",
       "publishedAtLabel": "Mar 2"
     },
     {
@@ -619,6 +763,60 @@
       "publishedAtLabel": "Mar 2"
     },
     {
+      "id": 6364,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Com mais de 1 milh\u00e3o de casos, Brasil promove 'Dia D' contra a dengue",
+      "description": "A a\u00e7\u00e3o do Minist\u00e9rio da Sa\u00fade visa eliminar os focos do mosquito transmissor da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-03-02/com-mais-de-1-milhao-de-casos--brasil-promove-dia-d-contra-a-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-03-02 12:02:01",
+      "content": "O Brasil realiza neste s\u00e1bado (2), o Dia D contra a dengue . A a\u00e7\u00e3o do Minist\u00e9rio da Sa\u00fade visa eliminar os focos do mosquito transmissor da doen\u00e7a, o Aedes Aegypti . A mobiliza\u00e7\u00e3o tem um tema, ch\u2026 [+1619 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.430457",
+      "internal_id": "65e08f2e4a6ac0ef2404969d81d228f301ac3db73b1b17e22d5c860a84d0f6b7",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 6362,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "N\u00famero de mortes por dengue no estado de SP sobe para 27",
+      "description": "Desde o in\u00edcio do ano, foram confirmados 127.978 casos da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-03-02/numero-de-mortes-por-dengue-no-estado-de-sp-sobe-para-27.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
+      "publishedAt": "2024-03-02 10:49:09",
+      "content": "O n\u00famero de pessoas que morreram em decorr\u00eancia de dengue neste ano no estado de S\u00e3o Paulo subiu para 27, informou na sexta-feira (1\u00ba) a Secretaria Estadual da Sa\u00fade. Est\u00e3o em investiga\u00e7\u00e3o 132 \u00f3bit\u2026 [+1131 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.419815",
+      "internal_id": "37262faad1fee4b01aedebe4340c5547dae7b433314663de765ddb47a9c0fce4",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 6376,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Homework",
+      "title": "O que mudar na alimenta\u00e7\u00e3o pra se recuperar de dengue e Covid",
+      "description": "Os casos de Covid aumentaram bastante nas \u00faltimas semanas, principalmente na cidade de S\u00e3o ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/o-que-mudar-na-alimentacao-pra-se-recuperar-de-dengue-e-covid,0fc4572e8694098e54d23d76a2ba5ed953rrxybe.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/01/dengue-t81a1lnfbvoz.jpg",
+      "publishedAt": "2024-03-02 09:50:06",
+      "content": "Os casos de Covid aumentaram bastante nas \u00faltimas semanas, principalmente na cidade de S\u00e3o Paulo, enquanto a dengue ultrapassou a marca de 650 mil casos em menos de 2 meses de 2024, n\u00fameros mais alto\u2026 [+2708 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.496583",
+      "internal_id": "fab9da7dbbb89fd02668dfbcfa68abaa7f832b991954ed08df746aa4b661279d",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
       "id": 6343,
       "query": [
         "dengue"
@@ -782,6 +980,24 @@
       "publishedAtLabel": "Mar 1"
     },
     {
+      "id": 6379,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Ministerio de Salud P\u00fablica confirm\u00f3 primer caso de dengue aut\u00f3ctono en Uruguay",
+      "description": "Aunque se diagnosticaron 32 personas con la enfermedad, los contagios fueron \u201cimportados de distinta procedencia\u201d, inform\u00f3 la cartera. Aunque se diagnosticaron 32 personas con la enfermedad, los contagios fueron \u201cimportados de distinta procedencia\u201d, inform\u00f3 l\u2026",
+      "url": "https://www.montevideo.com.uy/Salud/Ministerio-de-Salud-Publica-confirmo-primer-caso-de-dengue-autoctono-en-Uruguay-uc881325",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202304/_W933_80/841257.jpg",
+      "publishedAt": "2024-03-01 22:35:00",
+      "content": "Montevideo Portal El Ministerio de Salud P\u00fablica (MSP) confirm\u00f3 este viernes que se registr\u00f3 el primer caso de dengue en una persona, sin antecedente de viaje al exterior, por ende, el primer caso\u2026 [+1187 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.512203",
+      "internal_id": "7971b9378761e3b56bcefb10ffd8ac06f2659ace0dbec950137aae8ae4e00eb7",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
       "id": 6294,
       "query": [
         "measles"
@@ -800,6 +1016,24 @@
       "publishedAtLabel": "Mar 1"
     },
     {
+      "id": 6380,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Caio C\u00e9sar Pereira",
+      "title": "Pesquisa brasileira usa IA para identificar \u00e1reas de risco para dengue",
+      "description": "Software analisa imagens de pr\u00e9dios via Google Maps - e pode otimizar a visita a resid\u00eancias que tenham focos do mosquito.",
+      "url": "https://super.abril.com.br/tecnologia/pesquisa-brasileira-usa-ia-para-identificar-areas-de-risco-para-dengue",
+      "urlToImage": null,
+      "publishedAt": "2024-03-01 21:16:30",
+      "content": "Assine SUPER por R$2,00/semanaContinua ap\u00f3s publicidade Por Caio C\u00e9sar Pereira 1 mar 2024, 18h16 Entre as v\u00e1rias aplica\u00e7\u00f5es para intelig\u00eancia artificial (como a produ\u00e7\u00e3o de v\u00eddeos, imagens e at\u00e9\u2026 [+3885 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.517214",
+      "internal_id": "57bdf39ede7d287c8efc126a69c1c51ed81e1d99eb666d0c33d71a11bbd82171",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
       "id": 6290,
       "query": [
         "measles"
@@ -815,6 +1049,24 @@
       "content": "We\u2019ve been keeping a close eye on the measles outbreak in Florida. via Orlando Sentinel It first started in South Florida, eventually making its way to Central Florida. And now, measles has been re\u2026 [+2610 chars]",
       "retrievedAt": "2024-03-03 07:05:56.509837",
       "internal_id": "dd07e9bb67da7aeef56e7f0937e22afbf98653c8854d98469732b72be4ba1768",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6366,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: N\u00edsia diz que n\u00e3o ser\u00e1 feita vacina\u00e7\u00e3o em massa em 2024",
+      "description": "Ministra da Sa\u00fade, por outro lado, declarou que o governo federal trabalha para ampliar a quantidade de doses do imunizante",
+      "url": "https://saude.ig.com.br/2024-03-01/nisia-trindade-vacina-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5o/wa/lj/5owaljtkkgpgmcrqdk8goa3b1.jpg",
+      "publishedAt": "2024-03-01 20:32:38",
+      "content": "A ministra da Sa\u00fade , N\u00edsia Trindade , disse nesta sexta-feira (1\u00ba) n\u00e3o ser poss\u00edvel fazer uma \"vacina\u00e7\u00e3o em massa contra a dengue\" ainda neste ano. De acordo com a ministra, o imunizante Qdenga, u\u2026 [+2237 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.439887",
+      "internal_id": "eaf54eb9e2fb4621bf56121489711df08982564da2414a4a1d5b68465b932577",
       "publishedAtLabel": "Mar 1"
     },
     {
@@ -890,6 +1142,24 @@
       "publishedAtLabel": "Mar 1"
     },
     {
+      "id": 6368,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Dia D: entenda as medidas do Minist\u00e9rio da Sa\u00fade contra a dengue neste s\u00e1bado",
+      "description": "\"Este \u00e9 um momento de aten\u00e7\u00e3o n\u00e3o s\u00f3 das autoridades sanit\u00e1rias, do Minist\u00e9rio da Sa\u00fade, mas tamb\u00e9m de toda a sociedade\", declarou a ministra da Sa\u00fade, N\u00edsia Trindade",
+      "url": "https://brasil.perfil.com/saude/dia-d-entenda-as-medidas-do-ministerio-da-saude-contra-a-dengue-neste-sabado.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/01/2008003877-abre-perfil-brasil-73-1.jpg",
+      "publishedAt": "2024-03-01 19:42:56",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou o Dia D contra a dengue, que ocorrer\u00e1 no pr\u00f3ximo s\u00e1bado (2). As medidas buscam refor\u00e7ar a vigil\u00e2ncia de todos os habitantes contra o mosquito Aedes aegypti. que transmi\u2026 [+3377 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.451499",
+      "internal_id": "56a438d783f774ae9e6db96b3b75abd9be24b0f04bf296978db487d3e25d9182",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
       "id": 6303,
       "query": [
         "dengue"
@@ -944,6 +1214,24 @@
       "publishedAtLabel": "Mar 1"
     },
     {
+      "id": 6367,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": null,
+      "title": "Nagyon megugrott a denguel\u00e1zas megbeteged\u00e9sek sz\u00e1ma",
+      "description": "Az \u00e9v els\u0151 k\u00e9t h\u00f3napj\u00e1ban 1 milli\u00f3 17 ezer meger\u0151s\u00edtett vagy val\u00f3sz\u00edn\u0171s\u00edtett dengue-fert\u0151z\u00e9st regisztr\u00e1ltak Braz\u00edli\u00e1ban - k\u00f6z\u00f6lte a brazil eg\u00e9szs\u00e9g\u00fcgyi miniszt\u00e9rium cs\u00fct\u00f6rt\u00f6k\u00f6n. Ez majdnem \u00f6tsz\u00f6r annyi, mint a tavalyi \u00e9v azonos id\u0151szak\u00e1ban regisztr\u00e1lt 207 475\u2026",
+      "url": "https://www.origo.hu/tudomany/2024/03/tobb-mint-egymillio-feltetelezett-dengue-lazas-megbetegedest-regisztraltak-braziliaban",
+      "urlToImage": "https://cdn.origo.hu/2024/03/-MwQqqSIvu7C4V7aEQYk8zoXwqAKX3BeQl4bSioOzEg/fill/1600/800/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc4MzVkYjZkYzE1NDQ1ZDVhYjIzMDQzZjgzNzUxNGQ4.png",
+      "publishedAt": "2024-03-01 18:06:36",
+      "content": "A betegs\u00e9g terjed\u00e9s\u00e9nek megf\u00e9kez\u00e9se \u00e9rdek\u00e9ben a brazil eg\u00e9szs\u00e9g\u00fcgyi miniszt\u00e9rium \"D-napot\" hirdetett erre a szombatra. Ezen a napon az embereknek orsz\u00e1gszerte seg\u00edteni\u00fck kell a sz\u00fanyogok elleni k\u00fczde\u2026 [+571 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.445821",
+      "internal_id": "20ee97346e7bc2860515d042786d2aea9ed37e394e33158ba87e4212d367c5ba",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
       "id": 6278,
       "query": [
         "dengue"
@@ -980,6 +1268,24 @@
       "publishedAtLabel": "Mar 1"
     },
     {
+      "id": 6370,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Boa Forma",
+      "title": "Surto de dengue: saiba quais s\u00e3o os sintomas e como evitar a doen\u00e7a",
+      "description": "Dados do Minist\u00e9rio da Sa\u00fade apontam que o Brasil registrou mais de 200 mil casos de dengue ...",
+      "url": "https://boaforma.abril.com.br/equilibrio/surto-de-dengue-sintomas-como-evitar/",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/01/1921092969-surto-de-dengue-no-brasil.jpg",
+      "publishedAt": "2024-03-01 17:12:58",
+      "content": "Dados do Minist\u00e9rio da Sa\u00fade apontam que o Brasil registrou mais de 200 mil casos de dengue somente em 2024, n\u00famero tr\u00eas vezes maior que no mesmo per\u00edodo no ano passado. A doen\u00e7a \u00e9 causada por um a\u2026 [+4463 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.461328",
+      "internal_id": "deff9e866c6569df856740afa1a98ccfe04317e2a98e0fa039572671b7e9a065",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
       "id": 6309,
       "query": [
         "dengue"
@@ -995,6 +1301,78 @@
       "content": "Enquanto o pa\u00eds se preocupa com a epidemia de dengue, que j\u00e1 tem mais de um milh\u00e3o de casos suspeitos desde o in\u00edcio de 2024, o Brasil vive outro surto de uma doen\u00e7a transmitida por mosquitos: a febr\u2026 [+3322 chars]",
       "retrievedAt": "2024-03-03 07:05:57.654779",
       "internal_id": "179e5e0ec08c481d96bbcf776eca9e9804a27f349fa019ee2a3eee9270ff342d",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6375,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "N\u00famero de mortes por dengue sobe para 14 no estado do Rio",
+      "description": "J\u00e1 s\u00e3o 84.861 casos prov\u00e1veis da doen\u00e7a, segundo a Secret\u00e1ria Municipal de Sa\u00fade; estado decretou epidemia no \u00faltimo dia 21",
+      "url": "https://noticias.r7.com/rio-de-janeiro/numero-de-mortes-por-dengue-sobe-para-14-no-estado-do-rio-01032024",
+      "urlToImage": "https://img.r7.com/images/r7rio-012024-dengue-mosquito-16012024142910733?crop=917x516+114+64",
+      "publishedAt": "2024-03-01 16:32:57",
+      "content": "Estado confirmou 14\u00aa morte por dengue Arquivo/Ag\u00eancia Brasil O estado do Rio de Janeiro tem 14 mortes por dengue e 84.861 casos prov\u00e1veis da doen\u00e7a, segundo o Painel de Arboviroses do Cen\u2026 [+1889 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.491492",
+      "internal_id": "eafc94c9814e654dd057555b07c8025457885458c20e96221754b2a60f999cc9",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6381,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: em dois meses, Campinas supera casos de 2023 e prev\u00ea 'pico' hist\u00f3rico em at\u00e9 oito semanas",
+      "description": "Proje\u00e7\u00f5es feitas pelo Devisa mostram que casos confirmados podem ultrapassar maior epidemia da hist\u00f3ria, registrada em 2015. Prefeitura reuniu hospitais nesta sexta para discutir enfrentamento. Campinas ultrapassa 11 mil casos de dengue e prefeitura se re\u00fane \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/01/dengue-em-dois-meses-campinas-supera-casos-de-2023-e-preve-pico-historico-em-ate-oito-semanas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/azzHJK5EPN5CF7USOy6ytuyfe78=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/12400769.jpg",
+      "publishedAt": "2024-03-01 16:22:32",
+      "content": "Segundo a administra\u00e7\u00e3o municipal, proje\u00e7\u00f5es feitas pelo Departamento de Vigil\u00e2ncia em Sa\u00fade (Devisa) mostram que os casos confirmados podem ultrapassar a maior epidemia de dengue da hist\u00f3ria, regist\u2026 [+4674 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.526618",
+      "internal_id": "436ed2c9c2ed955248ab8f4f9815d8d183ff3f544edd25c7554275c73d0a5938",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6378,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Vacina\u00e7\u00e3o contra dengue alcan\u00e7a apenas 18% do p\u00fablico-alvo no Rio",
+      "description": "O imunizante est\u00e1 dispon\u00edvel para ser aplicado em crian\u00e7as de 10 e 11 anos nas unidades b\u00e1sicas de sa\u00fade do munic\u00edpio",
+      "url": "https://noticias.r7.com/rio-de-janeiro/vacinacao-contra-dengue-alcanca-apenas-18-do-publico-alvo-no-rio-01032024",
+      "urlToImage": "https://img.r7.com/images/r7rio-022024-vacina-dengue-01032024153908265?crop=597x336+86+41",
+      "publishedAt": "2024-03-01 16:20:20",
+      "content": "Rio aplicou cerca de 25 mil doses da vacina contra a dengue Fabio Rodrigues-Pozzeborn/ Ag\u00eancia Brasil Somente 18% das crian\u00e7as de 10 e 11 anos foram levadas por seus respons\u00e1veis \u00e0s unidades \u2026 [+2775 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.506924",
+      "internal_id": "2565d4ce11f555b299bd485178713892c6b89d487a8978497fc726a2fa808067",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6373,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Rio de Janeiro registra primeiro caso de febre oropouche; conhe\u00e7a a doen\u00e7a",
+      "description": "Amazonas observa escalada de casos da doen\u00e7a neste in\u00edcio do ano; sintomas s\u00e3o parecidos com os da dengue",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/rio-de-janeiro-registra-primeiro-caso-de-febre-oropouche-conheca-a-doenca,bac2173ee1535e447d614a92f79cc2a89jazxe0v.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-03-01 15:47:37",
+      "content": "Na quinta-feira, 29, a Secretaria de Sa\u00fade do Rio de Janeiro (SES-RJ) registrou o primeiro caso de febre oropoucheno estado. O paciente \u00e9 um homem de 42 anos, residente do bairro de Humait\u00e1, na zona \u2026 [+2311 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.479420",
+      "internal_id": "a40a881ad33ad1d252a44f61c6bad61145bba32eac51f1881d800682f9c8faac",
       "publishedAtLabel": "Mar 1"
     },
     {
@@ -1215,6 +1593,24 @@
       "publishedAtLabel": "Mar 1"
     },
     {
+      "id": 6374,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": null,
+      "title": "\u00dajra tombol a dengue-l\u00e1z Brazili\u00e1ban, egymilli\u00f3 felett a fert\u0151z\u00f6ttek sz\u00e1ma",
+      "description": "1 milli\u00f3 17 ezer meger\u0151s\u00edtett vagy val\u00f3sz\u00edn\u0171s\u00edtett denguefert\u0151z\u00e9st regisztr\u00e1ltak Braz\u00edli\u00e1ban az \u00e9v els\u0151 k\u00e9t h\u00f3napj\u00e1ban - der\u00fclt ki cs\u00fct\u00f6rt\u00f6k\u00f6n a brazil eg\u00e9szs\u00e9g\u00fcgyi miniszt\u00e9rium jelent\u00e9s\u00e9b\u0151l. Ez a sz\u00e1m a tavalyi \u00e9v azonos id\u0151szak\u00e1ban regisztr\u00e1lt 207 475 eset\u2026",
+      "url": "https://www.origo.hu/nagyvilag/2024/03/ujra-tombol-a-dengue-laz-braziliaban-egymillio-felett-a-fertozottek-szama",
+      "urlToImage": "https://cdn.origo.hu/2024/03/JObXxPrkr90PCNMcrj0TQ-n4ydUd0Z7zFweiJDnTGSc/fill/1600/800/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzllYzJlYWNiMDQzYTQyMzI4OWRjMmI2ZGNmMmI3Yzkz.png",
+      "publishedAt": "2024-03-01 12:05:30",
+      "content": "A brazil eg\u00e9szs\u00e9g\u00fcgyi miniszt\u00e9rium \"D-napot\" hirdetett szombatra, amikor az embereknek seg\u00edteni\u00fck kell a sz\u00fanyogok elleni k\u00fczdelemben \u00fagy, hogy kisz\u00e1r\u00edtj\u00e1k azok szaporod\u00e1si helyeit. Emellett febru\u00e1rb\u2026 [+289 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.485206",
+      "internal_id": "6cc4e76e39bcdb07e42e3e0ab0bda28cf8bd15a62d05d44d0475e620264adadd",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
       "id": 6271,
       "query": [
         "measles"
@@ -1359,6 +1755,24 @@
       "publishedAtLabel": "Mar 1"
     },
     {
+      "id": 6365,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Brasil registra mais de 1 milh\u00e3o de casos de dengue em 2024",
+      "description": "Pa\u00eds tem 214 mortes confirmadas pela doen\u00e7a no ano e outras 687 em investiga\u00e7\u00e3o. Distrito Federal lidera em taxa de incid\u00eancia e Minas Gerais, em n\u00famero de casos. Minist\u00e9rio da Sa\u00fade promove a\u00e7\u00e3o preventiva neste s\u00e1bado.",
+      "url": "https://www.dw.com/pt-br/brasil-registra-mais-de-1-milh%C3%A3o-de-casos-de-dengue-em-2024/a-68415290",
+      "urlToImage": "https://static.dw.com/image/68201959_6.jpg",
+      "publishedAt": "2024-03-01 10:21:00",
+      "content": "O Brasil ultrapassou a marca de 1 milh\u00e3o de casos prov\u00e1veis de dengue registrados em 2024, segundo dados do Minist\u00e9rio da Sa\u00fade divulgados na quinta-feira (29/02). No total, s\u00e3o 1.017.278 casos prov\u00e1\u2026 [+4529 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.435232",
+      "internal_id": "6d669a6c00a3fecb82648d0bfa4efc91ab3b4327fb2619768ae590fc3f2c4bae",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
       "id": 6286,
       "query": [
         "malaria"
@@ -1374,6 +1788,24 @@
       "content": "Dublin, March 01, 2024 (GLOBE NEWSWIRE) -- The \"Malaria - Global Clinical Trials Review, 2024\" clinical trials has been added to ResearchAndMarkets.com's offering. The clinical trial report provides\u2026 [+3924 chars]",
       "retrievedAt": "2024-03-02 19:05:20.358364",
       "internal_id": "bcd541eecb9a6df9fb85ef3668a680a5e59fdc4d0884c8ab5bda74c9743b14be",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6372,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7, com Ag\u00eancia Brasil",
+      "title": "Estado do Rio de Janeiro confirma primeiro caso de febre oropouche",
+      "description": "Doen\u00e7a \u00e9 transmitida pela picada de mosquitos, entre eles o pernilongo, e tem sintomas parecidos com os da dengue",
+      "url": "https://noticias.r7.com/rio-de-janeiro/estado-do-rio-de-janeiro-confirma-primeiro-caso-de-febre-oropouche-01032024",
+      "urlToImage": "https://img.r7.com/images/record-brasilia-dengue-mosquito-casos-de-dengue-surto-de-dengue-21022024121940250",
+      "publishedAt": "2024-03-01 08:26:00",
+      "content": "Febre oropouche tem sintomas como febre e dor de cabe\u00e7a intensa Reprodu\u00e7\u00e3o/Record TV Bras\u00edlia A Secretaria de Sa\u00fade do Rio de Janeiro confirmou nesta quinta-feira (29) o primeiro registro de \u2026 [+3323 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.473202",
+      "internal_id": "e522ef66755c3c6962eaefb76e852cd93e36eb7337bf461aed83986137b8761c",
       "publishedAtLabel": "Mar 1"
     },
     {
@@ -1446,6 +1878,24 @@
       "content": "Nessa quinta-feira (29/2), o Brasil ultrapassou a marca de 1 milh\u00e3o de casos prov\u00e1veis de dengue em 2024, segundo dados do Minist\u00e9rio da Sa\u00fade. Em todo o ano de 2023, foram registrados 1.658.816 quad\u2026 [+10319 chars]",
       "retrievedAt": "2024-03-02 07:05:23.681046",
       "internal_id": "3211c0b622c748a42925a8bcaa48d373302a6cbc12c3a2a7ca777c7f6b6fe8d1",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6377,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.hln.be",
+      "author": "IB",
+      "title": "Zorgwekkende toename van aantal denguebesmettingen in Brazili\u00eb",
+      "description": "Dengue, of knokkelkoorts, verspreidt zich momenteel in een ongewoon hoog tempo in Brazili\u00eb. In de eerste twee maanden van dit jaar werden ruim een miljoen bevestigde of waarschijnlijke infecties geteld, bijna een vijfde meer dan in dezelfde periode vorig jaar\u2026",
+      "url": "https://www.hln.be/buitenland/zorgwekkende-toename-van-aantal-denguebesmettingen-in-brazilie~adbd2881/",
+      "urlToImage": "https://images0.persgroep.net/rcs/kjy05oOYFKkeNAwwpDF45iTfCtM/diocontent/240959908/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
+      "publishedAt": "2024-03-01 04:16:07",
+      "content": "Zes staten en het hoofdstedelijke district hebben de noodtoestand intussen uitgeroepen na de uitbraak van de knokkelkoorts. De hevige regenval en hoge temperaturen van de afgelopen maanden hebben wa\u2026 [+1245 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.501592",
+      "internal_id": "c3b1e23fe2a1fd1a924e93770e08f18ee2430821f0f8b38cef27753cac0374e2",
       "publishedAtLabel": "Mar 1"
     },
     {
@@ -1536,6 +1986,24 @@
       "content": "The Yobe State government has quarantined 206 persons following the outbreak of cerebrospinal meningitis in three local government areas in the state, resulting in the death of 20 persons. This was \u2026 [+3421 chars]",
       "retrievedAt": "2024-03-02 07:05:24.116284",
       "internal_id": "b7d414acb7838705ab940f100c1eb7b97396e4d71a4aecb8b6c98c3c1efc60e8",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 6371,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Brasil ultrapassa a marca de 1 milh\u00e3o de casos de dengue no ano",
+      "description": "O Brasil chegou a 1.017.278 casos prov\u00e1veis de dengue neste ano, informou nesta quinta-feira o ...",
+      "url": "https://www.terra.com.br/noticias/brasil/brasil-ultrapassa-a-marca-de-1-milhao-de-casos-de-dengue-no-ano,e945831fa5f716c64d1632f85313b8c1lgov5h5r.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-03-01 00:19:39",
+      "content": "O Brasil chegou a 1.017.278 casos prov\u00e1veis de dengue neste ano, informou nesta quinta-feira o Minist\u00e9rio da Sa\u00fade, que tamb\u00e9m divulgou o total de 214 \u00f3bitos confirmados e outros 687 em investiga\u00e7\u00e3o.\u2026 [+1105 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.466982",
+      "internal_id": "6b2a53c68583bd12b043f724ca912a9675631a994309dbd36e886ef95cce8061",
       "publishedAtLabel": "Mar 1"
     },
     {
@@ -34515,6 +34983,204 @@
       "content": "Chegaram ao Brasil neste s\u00e1bado, 20, as primeiras doses davacina contra a dengue fornecida pela farmac\u00eautica japonesa Takeda, sem cobran\u00e7a, ao Minist\u00e9rio da Sa\u00fade. S\u00e3o cerca de 750 mil doses nesta pr\u2026 [+2296 chars]",
       "retrievedAt": "2024-01-23 07:06:02.774584",
       "internal_id": "992d058ddd64379d3766be71a926cf3d75e22bedc68cb6322a0451b61d8d6c43",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4436,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Brasil recibe primer lote de vacunas contra dengue en medio de un brote de la enfermedad",
+      "description": "El pa\u00eds fue uno de los primeros en incluir el tratamiento en su campa\u00f1a p\u00fablica y gratuita y comenzar\u00e1 a distribuirla este a\u00f1o.",
+      "url": "https://www.montevideo.com.uy/Salud/Brasil-recibe-primer-lote-de-vacunas-contra-dengue-en-medio-de-un-brote-de-la-enfermedad-uc877328",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202304/_W933_80/841257.jpg",
+      "publishedAt": "2024-01-21 18:40:00",
+      "content": "Brasil recibi\u00f3 el s\u00e1bado un lote de 750.000 dosis de la vacuna Qdenga contra el dengue donado por el laboratorio japon\u00e9s Takeda Pharma y que le permitir\u00e1 anticipar su campa\u00f1a de inmunizaci\u00f3n en me\u2026 [+2457 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.759941",
+      "internal_id": "fe55ecbac51c5cc53bd6022ab73c190ed027ad6f1e071d37f1e0cccdfbd6fcef",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4439,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Brasil recebe as primeiras doses de vacina contra a dengue",
+      "description": "Remessa faz parte de um total de 1,32 milh\u00e3o de doses da vacina fornecidas pela farmac\u00eautica Takeda",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/21/brasil-recebe-as-primeiras-doses-de-vacina-contra-a-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/TFUcG3BEqqNxmL-kxr_pBmDCBLE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/A/q/MCF62aR16vEWAloxviAw/caixa-da-vacina-contra-a-dengue-do-laboratorio-takeda-qdenda-marcia-almeida-valor.jpeg",
+      "publishedAt": "2024-01-21 18:18:05",
+      "content": "Por Juliana Schincariol, Valor \u2014 Rio 21/01/2024 15h18 Atualizado 21/01/2024",
+      "retrievedAt": "2024-01-22 19:05:36.816179",
+      "internal_id": "e086d184a7acd803ae3df5d77cd47b33e46487509dfe71b5f0bb45eff860f536",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4434,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Ricardo Chapola",
+      "title": "Brasil recebe primeiras doses de vacina contra a dengue",
+      "description": "Primeira parte do lote ser\u00e1 destinada a crian\u00e7as e adolescentes de 10 a 14 anos que moram em cidades com mais de 100 mil habitantes",
+      "url": "https://veja.abril.com.br/saude/brasil-recebe-primeiras-doses-de-vacina-contra-a-dengue",
+      "urlToImage": "",
+      "publishedAt": "2024-01-21 18:10:43",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade Por Da Reda\u00e7\u00e3o 21 jan 2024, 15h10 QDENGA - Governo comprou mais de 5 milh\u00f5es de doses que ser\u00e3o entregues em etapas (Reprodu\u00e7\u00e3o/Reprodu\u00e7\u00e3o\u2026 [+2175 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.727485",
+      "internal_id": "df4de5a7202059b6f00228f19dc63d409a0d0952ac935745a77a84716e1dc28f",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4440,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Paul Munzinger, Kapstadt",
+      "title": "Malaria: \"Die Impfskepsis ist aktuell unsere gr\u00f6\u00dfte Herausforderung\"",
+      "description": "Erstmals k\u00f6nnen Millionen Kinder in Afrika gegen Malaria geimpft werden - doch Klimaver\u00e4nderungen erschweren den Kampf gegen die Krankheit. Die kamerunische Immunologin Rose Leke \u00fcber unberechenbaren Regen und die Macht von Ger\u00fcchten.",
+      "url": "https://www.sueddeutsche.de/politik/malaria-impfstoff-afrika-interview-1.6333566",
+      "urlToImage": "https://www.sueddeutsche.de/image/sz.1.6333568/1200x675?v=1705839531",
+      "publishedAt": "2024-01-21 16:59:41",
+      "content": "21. Januar 2024, 17:59 Uhr Pilotprojekte in Ghana, Malawi und Kenia: Nach der Malaria-Impfung wird dieses Kind auch mit einem Moskitonetz gesch\u00fctzt. (Foto: Yasuyoshi Chiba/AFP) Erstmals k\u00f6nnen Mil\u2026 [+885 chars]",
+      "retrievedAt": "2024-01-22 19:05:37.890565",
+      "internal_id": "9350ce2333bce08367b4542eecd5283ec7383a4de87579274adbde922b997236",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4433,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Ana Luiza Figueiredo",
+      "title": "Vacina contra a dengue: 750 mil doses chegam ao Brasil",
+      "description": "Brasil recebe as primeiras 750 mil doses da vacina contra a dengue para integra\u00e7\u00e3o ao SUS, marcando um avan\u00e7o na luta contra a doen\u00e7a O post Vacina contra a dengue: 750 mil doses chegam ao Brasil apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/01/21/medicina-e-saude/vacina-contra-a-dengue-750-mil-doses-chegam-ao-brasil/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/vacina-dengue-QDenga-695x500.png",
+      "publishedAt": "2024-01-21 16:16:16",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou a chegada das primeiras 750 mil doses da vacina contra a dengue ao Brasil neste s\u00e1bado, 20 de janeiro. Este \u00e9 o pontap\u00e9 inicial para a implementa\u00e7\u00e3o da vacina no Sistem\u2026 [+1839 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.719484",
+      "internal_id": "c0d9e5780c2f8af42531c1d907b9b8ca724f7ac917e9640cc9356c4b7a293d86",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4435,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mateus Salom\u00e3o",
+      "title": "Primeiras doses de vacina contra a dengue chegam ao Brasil",
+      "description": "Remessa tem 750 mil unidades da vacina contra a dengue, que ser\u00e1 disponibilizada pelo SUS. Aplica\u00e7\u00e3o deve come\u00e7ar em fevereiro",
+      "url": "https://www.metropoles.com/brasil/primeiras-doses-de-vacina-contra-a-dengue-chegam-ao-brasil",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/20094907/Dengue-compressed-1200x800.jpg",
+      "publishedAt": "2024-01-21 14:43:22",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou que as primeiras doses da vacina Qdenga, contra a dengue, chegaram ao Brasil. A primeira remessa tem 750 mil unidades do imunizante, que ser\u00e1 disponibilizado pelo Siste\u2026 [+4894 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.740531",
+      "internal_id": "3f06569f59223657d528c44a4678bcc2c698489d019d7b9545f9085190a99483",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4432,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Talkingupscotlandtwo.com",
+      "author": "Johnrobertson834",
+      "title": "Not one case of measles in Scotland for three years, 95% vaccination and the Herald\u2019s health correspondent tries to suggest it\u2019s like the West Midlands here too",
+      "description": "I\u2019m indebted to for As a genuine and scary surge in measles cases after plummeting vaccination rates among young children explodes in parts of England, especially London and the West Midlands\u2026",
+      "url": "https://talkingupscotlandtwo.com/2024/01/21/not-one-case-of-measles-in-scotland-for-three-years-95-vaccination-and-the-heralds-health-correspondent-tries-to-suggest-its-like-the-west-midlands-here-too/",
+      "urlToImage": "https://talkingupscotlandtwo.files.wordpress.com/2024/01/image-146.png",
+      "publishedAt": "2024-01-21 13:07:48",
+      "content": "I\u2019m indebted to for As a genuine and scary surge in measles cases after plummeting vaccination rates among young children explodes in parts of England, especially London and the West Midlands, the H\u2026 [+1632 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.136584",
+      "internal_id": "4e60afc91949e06b431b3afddc5a67e0aaf4857ec0fbc58f9a7c3a10feca1e90",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4441,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": null,
+      "title": "Szenz\u00e1ci\u00f3s felfedez\u00e9s: megtal\u00e1lhatt\u00e1k a r\u00e1k ellenszer\u00e9t",
+      "description": "Mutatjuk!",
+      "url": "https://www.origo.hu/tudomany/20240116-uj-es-rendkivul-hatekony-rakellenes-eszkoz-kerulhet-hamarosan-az-orvostudomany-kezebe.html",
+      "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2011/20201124tamadas-alatt-allo-raksejt.jpg?w=1024",
+      "publishedAt": "2024-01-21 13:01:00",
+      "content": "Egy frissen publik\u00e1lt kutat\u00e1s szerint a Zika-v\u00edrus k\u00eds\u00e9rleti egerekben k\u00e9pes volt megc\u00e9lozni \u00e9s gyorsan felsz\u00e1molni a hum\u00e1n neuroblaszt\u00f3ma daganatokat. Most m\u00e1r csak az a k\u00e9rd\u00e9s, hogy mennyi idn bel\u00fc\u2026 [+5343 chars]",
+      "retrievedAt": "2024-01-22 19:05:38.494855",
+      "internal_id": "022802be2bef60195c85bbc6406063465797dce09026d80249d2a794bcf377a7",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4438,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Giovanna Inoue, do R7, em Bras\u00edlia",
+      "title": "Primeiras doses da vacina contra dengue chegam ao Brasil",
+      "description": "P\u00fablico-alvo ser\u00e1 de crian\u00e7as e adolescentes de 10 a 14 anos, e as 750 mil inje\u00e7\u00f5es devem ser aplicadas a partir de fevereiro",
+      "url": "https://noticias.r7.com/saude/primeiras-doses-da-vacina-contra-dengue-chegam-ao-brasil-21012024",
+      "urlToImage": "https://img.r7.com/images/doses-vacina-dengue-21012024131435819?crop=1449x815+7+92",
+      "publishedAt": "2024-01-21 12:57:00",
+      "content": "Reprodu\u00e7\u00e3o/Minist\u00e9rio da Sa\u00fade A primeira remessa de vacina contra dengue, cerca de 750 mil doses, chegou ao Brasil neste s\u00e1bado (20). Uma segunda leva, com 570 mil doses, est\u00e1 prevista para f\u2026 [+3006 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.800084",
+      "internal_id": "ba300fbc5467800aa0896fefe0c75b05087cd6614da3cb63123f16c8c3bcc642",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4437,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "N\u00famero de casos de dengue pode chegar a 5 milh\u00f5es em 2024",
+      "description": "A proje\u00e7\u00e3o foi divulgada pelo Minist\u00e9rio da Sa\u00fade em conjunto com o InfoDengue (Fiocruz); epidemia deve atingir, principalmente, a regi\u00e3o Centro-Oeste",
+      "url": "https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-01-21 09:00:00",
+      "content": "O n\u00famero de casos de dengue no Brasil pode chegar a 5 milh\u00f5es neste ano, de acordo com proje\u00e7\u00e3o divulgada pelo Minist\u00e9rio da Sa\u00fade em parceria com o InfoDengue, da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz). E\u2026 [+2175 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.778009",
+      "internal_id": "1265bc694594663277f8ac97eb9956d43af9a84a58ad88f6db928036f6db2b4c",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4431,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "TikTok campaign needed for MMR jab, says Jess Phillips MP",
+      "description": "The Birmingham MP says \"false vaccine messages\" are spreading quicker than official health advice.",
+      "url": "https://www.bbc.co.uk/news/uk-england-birmingham-68037150",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D58B/production/_132376645_de51.jpg",
+      "publishedAt": "2024-01-21 07:06:49",
+      "content": "Birmingham MP Jess Phillips has said a TikTok campaign is needed to promote the uptake of the MMR vaccine. The number of people with measles in the West Midlands is at its highest since at least the\u2026 [+2977 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.050922",
+      "internal_id": "5318078536220527a38a6a28afb128796f982cede40aacdf949ed9c72dfafba1",
       "publishedAtLabel": "Jan 21"
     }
   ]

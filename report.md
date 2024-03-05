@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-03-04 19:05
-- **Most recent article:** 2024-03-03 18:40:21
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-03-05 07:05
+- **Most recent article:** 2024-03-04 05:00:00
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 6 | 116 | 173 | 216 | 191 | 188 | 182 | 1072 |
-| measles | 8 | 54 | 47 | 68 | 45 | 100 | 80 | 402 |
-| malaria | 0 | 85 | 25 | 35 | 19 | 33 | 17 | 214 |
+| dengue | 7 | 123 | 173 | 216 | 191 | 188 | 201 | 1099 |
+| measles | 14 | 56 | 47 | 68 | 45 | 100 | 80 | 410 |
+| malaria | 0 | 86 | 25 | 35 | 19 | 33 | 17 | 215 |
 | chikungunya | 0 | 10 | 10 | 12 | 8 | 14 | 16 | 70 |
-| zika | 2 | 6 | 8 | 13 | 6 | 13 | 11 | 59 |
+| zika | 2 | 7 | 8 | 13 | 6 | 13 | 11 | 60 |
 | rabies | 1 | 9 | 7 | 7 | 9 | 5 | 8 | 46 |
 | sarampión | 0 | 1 | 6 | 5 | 4 | 11 | 5 | 32 |
 | meningitis | 0 | 1 | 3 | 8 | 8 | 7 | 4 | 31 |
@@ -332,6 +332,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: Rio vacina 37,5 mil crianças, mas número é apenas 26% da meta](https://saude.ig.com.br/2024-03-02/dengue-rio-chega-a-37-5-mil-criancas-vacinadas--mas-numero-e-apenas-26--da-meta.html) (Ig.com.br)
 
+- [Quais plantas espantam o mosquito da dengue?](https://casa.abril.com.br/jardins-e-hortas/quais-plantas-espantam-o-mosquito-da-dengue/) (Abril.com.br)
+
 - [Sem visitas presenciais: IA identifica focos do mosquitoda dengue!](https://www.insoonia.com/sem-visitas-presenciais-ia-identifica-focos-do-mosquitoda-dengue/) (Insoonia.com)
 
 - [Governadores do Sul e Sudeste cobram governo Lula por combate à dengue](https://www.metropoles.com/sao-paulo/governadores-sul-sudeste-lula-dengue) (Metropoles.com)
@@ -360,6 +362,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Dia D contra a dengue convoca população a eliminar focos do mosquito](https://valor.globo.com/brasil/noticia/2024/03/02/dia-d-contra-a-dengue-convoca-populacao-a-eliminar-focos-do-mosquito.ghtml) (Globo)
 
+- [Com mais de 1 milhão de casos, Brasil promove 'Dia D' contra a dengue](https://saude.ig.com.br/2024-03-02/com-mais-de-1-milhao-de-casos--brasil-promove-dia-d-contra-a-dengue.html) (Ig.com.br)
+
+- [Número de mortes por dengue no estado de SP sobe para 27](https://saude.ig.com.br/2024-03-02/numero-de-mortes-por-dengue-no-estado-de-sp-sobe-para-27.html) (Ig.com.br)
+
+- [O que mudar na alimentação pra se recuperar de dengue e Covid](https://www.terra.com.br/vida-e-estilo/saude/o-que-mudar-na-alimentacao-pra-se-recuperar-de-dengue-e-covid,0fc4572e8694098e54d23d76a2ba5ed953rrxybe.html) (Terra.com.br)
+
 - [Dengue: como tratar os sintomas em casa?](https://saude.ig.com.br/2024-03-02/dengue--como-tratar-os-sintomas-em-casa-.html) (Ig.com.br)
 
 - [Los casos de dengue en mujeres embarazadas aumentan más de un 300% en 2024 en Brasil](https://www.europapress.es/internacional/noticia-casos-dengue-mujeres-embarazadas-aumentan-mas-300-2024-brasil-20240302005255.html) (Europapress.es)
@@ -370,19 +378,39 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue cases in Peru are surging, fueled by mosquitoes and high temperatures brought by El Niño](https://www.startribune.com/dengue-cases-in-peru-are-surging-fueled-by-mosquitoes-and-high-temperatures-brought-by-el-nino/600347615/) (Minneapolis Star Tribune)
 
+- [Ministerio de Salud Pública confirmó primer caso de dengue autóctono en Uruguay](https://www.montevideo.com.uy/Salud/Ministerio-de-Salud-Publica-confirmo-primer-caso-de-dengue-autoctono-en-Uruguay-uc881325) (Montevideo.com.uy)
+
+- [Pesquisa brasileira usa IA para identificar áreas de risco para dengue](https://super.abril.com.br/tecnologia/pesquisa-brasileira-usa-ia-para-identificar-areas-de-risco-para-dengue) (Abril.com.br)
+
+- [Dengue: Nísia diz que não será feita vacinação em massa em 2024](https://saude.ig.com.br/2024-03-01/nisia-trindade-vacina-dengue.html) (Ig.com.br)
+
 - [Casos de dengue em gestantes aumentam 345% em 2024](https://jornaldebrasilia.com.br/noticias/brasil/casos-de-dengue-em-gestantes-aumentam-345-em-2024/) (Jornaldebrasilia.com.br)
 
 - [Ministério da Saúde confirma 77 mortes por dengue no Distrito Federal](https://www.metropoles.com/distrito-federal/ministerio-da-saude-confirma-77-mortes-por-dengue-no-distrito-federal) (Metropoles.com)
+
+- [Dia D: entenda as medidas do Ministério da Saúde contra a dengue neste sábado](https://brasil.perfil.com/saude/dia-d-entenda-as-medidas-do-ministerio-da-saude-contra-a-dengue-neste-sabado.phtml) (Perfil.com)
 
 - [Al menos 44 personas han muerto por dengue en Perú en lo que va de 2024](https://elmercurio.com.ec/2024/03/01/dengue-aumento-peru/) (Elmercurio.com.ec)
 
 - [São Paulo promove nesta sexta-feira Dia D contra a Dengue](https://saude.ig.com.br/2024-03-01/sao-paulo-dia-d-contra-a-dengue.html) (Ig.com.br)
 
+- [Nagyon megugrott a denguelázas megbetegedések száma](https://www.origo.hu/tudomany/2024/03/tobb-mint-egymillio-feltetelezett-dengue-lazas-megbetegedest-regisztraltak-braziliaban) (Origo.hu)
+
 - [L’Argentine confrontée à une explosion du nombre de cas de dengue](https://www.lemonde.fr/planete/article/2024/03/01/l-argentine-confrontee-a-une-explosion-du-nombre-de-cas-de-dengue_6219558_3244.html) (Le Monde)
 
 - [Após baixa procura, Ibaneis cogita ampliar vacinação contra a dengue](https://www.metropoles.com/distrito-federal/apos-baixa-procura-ibaneis-cogita-ampliar-vacinacao-contra-dengue) (Metropoles.com)
 
+- [Surto de dengue: saiba quais são os sintomas e como evitar a doença](https://boaforma.abril.com.br/equilibrio/surto-de-dengue-sintomas-como-evitar/) (Abril.com.br)
+
 - [Febre oropouche: saiba o que é, os sintomas e risco de disseminação](https://www.metropoles.com/saude/febre-oropouche-o-que-e-sintomas) (Metropoles.com)
+
+- [Número de mortes por dengue sobe para 14 no estado do Rio](https://noticias.r7.com/rio-de-janeiro/numero-de-mortes-por-dengue-sobe-para-14-no-estado-do-rio-01032024) (R7.com)
+
+- [Dengue: em dois meses, Campinas supera casos de 2023 e prevê 'pico' histórico em até oito semanas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/01/dengue-em-dois-meses-campinas-supera-casos-de-2023-e-preve-pico-historico-em-ate-oito-semanas.ghtml) (Globo)
+
+- [Vacinação contra dengue alcança apenas 18% do público-alvo no Rio](https://noticias.r7.com/rio-de-janeiro/vacinacao-contra-dengue-alcanca-apenas-18-do-publico-alvo-no-rio-01032024) (R7.com)
+
+- [Rio de Janeiro registra primeiro caso de febre oropouche; conheça a doença](https://www.terra.com.br/vida-e-estilo/saude/rio-de-janeiro-registra-primeiro-caso-de-febre-oropouche-conheca-a-doenca,bac2173ee1535e447d614a92f79cc2a89jazxe0v.html) (Terra.com.br)
 
 - [Alunos de Anápolis serão vacinados contra a dengue nas escolas](https://www.metropoles.com/brasil/alunos-de-anapolis-serao-vacinados-contra-a-dengue-nas-escolas) (Metropoles.com)
 
@@ -396,6 +424,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Brazília zápasí s horúčkou dengue. Húfne sa šíri, za dva mesiace sa zrejme nakazilo viac ako milión ľudí](https://spravy.pravda.sk/svet/clanok/701518-brazilia-zapasi-s-horuckou-dengue-hufne-sa-siri-za-dva-mesiace-sa-zrejme-nakazilo-uz-vyse-milion-ludi/) (Pravda.sk)
 
+- [Újra tombol a dengue-láz Braziliában, egymillió felett a fertőzöttek száma](https://www.origo.hu/nagyvilag/2024/03/ujra-tombol-a-dengue-laz-braziliaban-egymillio-felett-a-fertozottek-szama) (Origo.hu)
+
 - [Dengue: Brasil ultrapassa 1 milhão de casos em 2024](https://olhardigital.com.br/2024/03/01/medicina-e-saude/dengue-brasil-ultrapassa-1-milhao-de-casos-em-2024/) (Olhardigital.com.br)
 
 - [Dengue | Repelente pode faltar no Brasil pela alta procura](https://tecnologia.ig.com.br/parceiros/canaltech/2024-03-01/dengue---repelente-pode-faltar-no-brasil-pela-alta-procura.html) (Ig.com.br)
@@ -408,6 +438,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Brasil registra mais de 1 milhão de casos de dengue em 2024](https://www.terra.com.br/noticias/brasil/brasil-registra-mais-de-1-milhao-de-casos-de-dengue-em-2024,467aa34b3cf9c3b9545fb2a900b4bea8hkz4clql.html) (Terra.com.br)
 
+- [Brasil registra mais de 1 milhão de casos de dengue em 2024](https://www.dw.com/pt-br/brasil-registra-mais-de-1-milh%C3%A3o-de-casos-de-dengue-em-2024/a-68415290) (DW (English))
+
+- [Estado do Rio de Janeiro confirma primeiro caso de febre oropouche](https://noticias.r7.com/rio-de-janeiro/estado-do-rio-de-janeiro-confirma-primeiro-caso-de-febre-oropouche-01032024) (R7.com)
+
 - [ARIDANGHE CON LA DENGUE! - NEI PRIMI DUE MESI DEL 2024 IL BRASILE HA SUPERATO UN MILIONE DI CONTAGI DA FEBBRE DENGUE, IN AUMENTO DEL 390% RISPETTO ALLO STESSO PERIODO DELLO SCORSO ANNO - NEL 2023 ERANO STATI REGISTRATI 1.658.816 CASI E 1.079 MORTI…](https://www.dagospia.com/rubrica-39/salute/aridanghe-dengue-primi-due-mesi-2024-brasile-ha-386643.htm) (Dagospia.com)
 
 - [Brasil ultrapassa a marca de 1 milhão de casos de dengue no ano](https://dinheirama.com/brasil-ultrapassa-a-marca-de-1-milhao-de-casos-de-dengue-no-ano/) (Dinheirama.com)
@@ -416,11 +450,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: por que o Brasil ultrapassou 1 milhão de casos em 2 meses](https://www.metropoles.com/saude/dengue-por-que-brasil-tem-1-milhao-casos) (Metropoles.com)
 
+- [Zorgwekkende toename van aantal denguebesmettingen in Brazilië](https://www.hln.be/buitenland/zorgwekkende-toename-van-aantal-denguebesmettingen-in-brazilie~adbd2881/) (Www.hln.be)
+
 - [Zorgwekkende toename van aantal denguebesmettingen in Brazilië](https://www.nieuwsblad.be/cnt/dmf20240301_91584021) (Nieuwsblad.be)
 
 - [Gesundheit: Rasanter Anstieg bei Dengue-Infektionen in Brasilien](https://www.zeit.de/news/2024-03/01/rasanter-anstieg-bei-dengue-infektionen-in-brasilien) (Die Zeit)
 
 - [Gesundheit: Rasanter Anstieg bei Dengue-Infektionen in Brasilien](https://www.stern.de/panorama/wissen/gesundheit--rasanter-anstieg-bei-dengue-infektionen-in-brasilien-34506226.html) (STERN.de)
+
+- [Brasil ultrapassa a marca de 1 milhão de casos de dengue no ano](https://www.terra.com.br/noticias/brasil/brasil-ultrapassa-a-marca-de-1-milhao-de-casos-de-dengue-no-ano,e945831fa5f716c64d1632f85313b8c1lgov5h5r.html) (Terra.com.br)
 
 - [Brasil supera 1 milhão de casos de dengue em 2024](https://saude.ig.com.br/2024-02-29/brasil-dengue-1-milhao-de-casos.html) (Ig.com.br)
 
@@ -3540,6 +3578,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Le virus Zika démontre son efficacité pour éradiquer... certains cancers](https://www.techno-science.net/actualite/virus-zika-demontre-son-efficacite-eradiquer-certains-cancers-N24346.html) (Techno-science.net)
 
+- [Szenzációs felfedezés: megtalálhatták a rák ellenszerét](https://www.origo.hu/tudomany/20240116-uj-es-rendkivul-hatekony-rakellenes-eszkoz-kerulhet-hamarosan-az-orvostudomany-kezebe.html) (Origo.hu)
+
 ## 24-4 (yersinia)
 
 - [Type 3 secretion system induced leukotriene B4 synthesis by leukocytes is actively inhibited by Yersinia pestis to evade early immune recognition](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011280) (Plos.org)
@@ -3705,6 +3745,10 @@ Source: [News API](https://newsapi.org/)
 - [Birmingham Children's Hospital isolating measles patients](https://www.bbc.co.uk/news/uk-england-birmingham-68058328) (BBC News)
 
 - [Parents urged to book missed MMR vaccines amid 'very real risk' of measles outbreaks](https://news.sky.com/story/measles-parents-urged-to-book-missed-mmr-vaccines-amid-very-real-risk-of-outbreaks-13053780) (Sky.com)
+
+- [Not one case of measles in Scotland for three years, 95% vaccination and the Herald’s health correspondent tries to suggest it’s like the West Midlands here too](https://talkingupscotlandtwo.com/2024/01/21/not-one-case-of-measles-in-scotland-for-three-years-95-vaccination-and-the-heralds-health-correspondent-tries-to-suggest-its-like-the-west-midlands-here-too/) (Talkingupscotlandtwo.com)
+
+- [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
 
@@ -3877,6 +3921,8 @@ Source: [News API](https://newsapi.org/)
 - [El hallazgo casual de un laboratorio español que puede acabar con una enfermedad letal](https://www.elconfidencial.com/tecnologia/ciencia/2024-01-22/malaria-hallazgo-casual-laboratorio-espanol-enfermedad_3814406/) (Elconfidencial.com)
 
 - [Nigeria must intensify malaria eradication](https://punchng.com/nigeria-must-intensify-malaria-eradication/) (The Punch)
+
+- [Malaria: "Die Impfskepsis ist aktuell unsere größte Herausforderung"](https://www.sueddeutsche.de/politik/malaria-impfstoff-afrika-interview-1.6333566) (Süddeutsche Zeitung)
 
 ## 24-4 (dengue)
 
@@ -4112,6 +4158,20 @@ Source: [News API](https://newsapi.org/)
 
 - [Primeiras doses da vacina contra a dengue chegam ao Brasil; saiba como funcionará a imunização](https://www.terra.com.br/vida-e-estilo/saude/primeiras-doses-da-vacina-contra-a-dengue-chegam-ao-brasil-saiba-como-funcionara-a-imunizacao,bcecbfe9d0391fd083d02586a5713b37azhw766w.html) (Terra.com.br)
 
+- [Brasil recibe primer lote de vacunas contra dengue en medio de un brote de la enfermedad](https://www.montevideo.com.uy/Salud/Brasil-recibe-primer-lote-de-vacunas-contra-dengue-en-medio-de-un-brote-de-la-enfermedad-uc877328) (Montevideo.com.uy)
+
+- [Brasil recebe as primeiras doses de vacina contra a dengue](https://valor.globo.com/brasil/noticia/2024/01/21/brasil-recebe-as-primeiras-doses-de-vacina-contra-a-dengue.ghtml) (Globo)
+
+- [Brasil recebe primeiras doses de vacina contra a dengue](https://veja.abril.com.br/saude/brasil-recebe-primeiras-doses-de-vacina-contra-a-dengue) (Abril.com.br)
+
+- [Vacina contra a dengue: 750 mil doses chegam ao Brasil](https://olhardigital.com.br/2024/01/21/medicina-e-saude/vacina-contra-a-dengue-750-mil-doses-chegam-ao-brasil/) (Olhardigital.com.br)
+
+- [Primeiras doses de vacina contra a dengue chegam ao Brasil](https://www.metropoles.com/brasil/primeiras-doses-de-vacina-contra-a-dengue-chegam-ao-brasil) (Metropoles.com)
+
+- [Primeiras doses da vacina contra dengue chegam ao Brasil](https://noticias.r7.com/saude/primeiras-doses-da-vacina-contra-dengue-chegam-ao-brasil-21012024) (R7.com)
+
+- [Número de casos de dengue pode chegar a 5 milhões em 2024](https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html) (Ig.com.br)
+
 ## 24-4 (chikungunya)
 
 - [Dengue e chikungunya levam Minas Gerais a decretar emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/01/27/dengue-e-chikungunya-levam-minas-gerais-a-decretar-emergencia.ghtml) (Globo)
@@ -4146,6 +4206,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-10 (measles)
 
+- [Measles catch-up vaccine to be offered to 310,000 people](https://www.irishtimes.com/health/2024/03/04/measles-catch-up-vaccine-to-be-offered-to-310000-people/) (The Irish Times)
+
+- [Major catch-up campaign to target missed measles vaccines amid fears of surge in cases](https://www.independent.ie/irish-news/major-catch-up-campaign-to-target-missed-measles-vaccines-amid-fears-of-surge-in-cases/a1016963521.html) (Independent.ie)
+
+- [New major catch-up campaign to target missed measles vaccines amid fears of surge in cases](https://www.independent.ie/irish-news/new-major-catch-up-campaign-to-target-missed-measles-vaccines-amid-fears-of-surge-in-cases/a1016963521.html) (Independent.ie)
+
+- [Two more cases of measles confirmed in Metro Detroit; Health officials release list of possible exposure sites](https://www.newsbreak.com/wayne-county-mi/3354337018568-two-more-cases-of-measles-confirmed-in-metro-detroit-health-officials-release-list-of-possible-exposure-sites) (Newsbreak.com)
+
+- [Vaccine skepticism on display in Florida](https://www.startribune.com/vaccine-skepticism-on-display-in-florida/600347932/) (Minneapolis Star Tribune)
+
+- [unknown title](https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties) (FOX 2 Detroit)
+
 - [The Week Unwrapped: Measles, karting and TikTok tunes](https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes) (The Week Magazine)
 
 - [Health officials confirm measles case in Washtenaw County, warn of exposure spot](https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html) (mlive.com)
@@ -4163,6 +4235,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1093: Reservoir bats and jumbo phage](https://www.microbe.tv/twiv/twiv-1093/) (Microbe.tv)
 
 ## 24-10 (dengue)
+
+- [Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto](https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html) (Ig.com.br)
 
 - [Epidemia de dengue faz Natal decretar emergência em saúde](https://jornaldebrasilia.com.br/?p=2720607) (Jornaldebrasilia.com.br)
 
