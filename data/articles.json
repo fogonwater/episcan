@@ -1,8 +1,442 @@
 {
-  "last_updated": "2024-03-08 07:06",
-  "count_articles_total": 2138,
-  "count_articles_new": 10,
+  "last_updated": "2024-03-08 19:06",
+  "count_articles_total": 2151,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 6589,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "New study finds the malaria parasite generates genetic diversity using an evolutionary 'copy-paste' tactic",
+      "description": "By dissecting the genetic diversity of the most deadly human malaria parasite\u2014Plasmodium falciparum\u2014researchers at EMBL's European Bioinformatics Institute (EMBL-EBI) have identified a mechanism of 'copy-paste' genetics that increases the genetic diversity of\u2026",
+      "url": "https://phys.org/news/2024-03-malaria-parasite-generates-genetic-diversity.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/the-malaria-parasite-g.jpg",
+      "publishedAt": "2024-03-07 19:00:01",
+      "content": "By dissecting the genetic diversity of the most deadly human malaria parasitePlasmodium falciparumresearchers at EMBL's European Bioinformatics Institute (EMBL-EBI) have identified a mechanism of 'co\u2026 [+6092 chars]",
+      "retrievedAt": "2024-03-08 19:06:09.493436",
+      "internal_id": "3ea19f2b45f7a929785091499f040d6e699d30e71371cd98570868da34fdc894",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6581,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Dengue: S\u00e3o Paulo ultrapassa 160 mil casos e chega a 44 mortes",
+      "description": "Estado de S\u00e3o Paulo registrou 160.391 casos de dengue e mais seis mortes pela doen\u00e7a nesta quinta (7/3); Iguape registrou primeira v\u00edtima",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-sp-160-mil-casos-e-44-mortes",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/23144400/DF-lanca-edital-para-200-medicos-temporarios-contra-dengue-salarios-de-R-10-mil.jpg",
+      "publishedAt": "2024-03-07 18:15:19",
+      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo ultrapassou os 160 mil casos de dengue e chegou a 44 mortes pela doen\u00e7a nesta quinta-feira (7/3), segundo dados da Secretaria Estadual da Sa\u00fade (SES). Al\u00e9m das v\u00edtimas\u2026 [+6456 chars]",
+      "retrievedAt": "2024-03-08 19:06:08.620953",
+      "internal_id": "fd767d69eb53d765b111555d8948c7403604a03b3b5552290bed4dfbcb8a1ccb",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6576,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Anvisa vai priorizar regulamenta\u00e7\u00e3o de testes para diagn\u00f3stico de dengue",
+      "description": "Objetivo da decis\u00e3o \u00e9 facilitar a detec\u00e7\u00e3o precoce do quadro; Brasil j\u00e1 tem mais de 1 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/anvisa-vai-priorizar-regulamentacao-de-testes-para-diagnostico-de-dengue,fcfa9f096528ab6f5b4cd5f903192e4441r7t17w.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-03-07 18:05:56",
+      "content": "Nesta quarta-feira, 6, a Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa), anunciou uma estrat\u00e9gia de combate \u00e0 pandemia de dengue: o \u00f3rg\u00e3o fiscalizador vai priorizar, em car\u00e1ter de urg\u00eancia, todos \u2026 [+2275 chars]",
+      "retrievedAt": "2024-03-08 19:06:08.538359",
+      "internal_id": "db04197f32c76ed071c6fe2d4fb8737a999c766200ff01be1aa07166cb7e027b",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6584,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.lat",
+      "author": "Sputnik Mundo",
+      "title": "La capital argentina se encuentra en un brote epid\u00e9mico de dengue",
+      "description": "BUENOS AIRES (Sputnik) \u2014 Las autoridades de la ciudad de Buenos Aires confirmaron un brote epid\u00e9mico de dengue en la capital argentina, en un pa\u00eds que acumula 57.461 casos en el transcurso de este a\u00f1o.",
+      "url": "https://sputniknews.lat/20240307/la-capital-argentina-se-encuentra-en-un-brote-epidemico-de-dengue-1148790813.html",
+      "urlToImage": "https://cdn2.img.sputniknews.lat/images/sharing/article/spa/1148790813.jpg?11374873571709834642",
+      "publishedAt": "2024-03-07 18:01:00",
+      "content": "Suscr\u00edbete a nuestros canales de Telegram a trav\u00e9s de estosenlaces. Ya que la aplicaci\u00f3n Sputnik est\u00e1 bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo m\u00f3v\u2026 [+78 chars]",
+      "retrievedAt": "2024-03-08 19:06:08.661976",
+      "internal_id": "daeca7d6a84097ea6af741a6163e726d9c09113efddd43d008458c424ca1d2bf",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6578,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tudocelular.com",
+      "author": "Tudocelular.com",
+      "title": "Dengue: conhe\u00e7a solu\u00e7\u00f5es tecnol\u00f3gicas de repelente contra o mosquito | Detetive TC",
+      "description": "Quer conhecer essas alternativas? A coluna separou algumas para contar a voc\u00ea.",
+      "url": "https://www.tudocelular.com/tech/noticias/n218658/dengue-solucoes-tecnologicas-repelente-mosquito.html",
+      "urlToImage": "https://t2.tudocdn.net/704238?w=1920",
+      "publishedAt": "2024-03-07 17:33:00",
+      "content": "Em meio ao surto de dengue vivido no Brasil, uma das formas recomendadas para se proteger do mosquito transmissor da doen\u00e7a \u00e9 a utiliza\u00e7\u00e3o de repelentes, que possam afastar o vetor de voc\u00ea. Mas as op\u2026 [+6360 chars]",
+      "retrievedAt": "2024-03-08 19:06:08.558599",
+      "internal_id": "fc6ab82af336e3b1b3f46ec5921f688ecba552c3af500382460e471f8ab2dd41",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6591,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Kenyans.co.ke",
+      "author": "Derrick Okubasu",
+      "title": "Health Ministry Turns to Drones in Service Delivery to 8 Counties",
+      "description": "The Ministry of Health has also implemented a new technology that is aiding in the eradication.",
+      "url": "https://www.kenyans.co.ke/news/98384-health-ministry-turns-drones-service-delivery-8-counties",
+      "urlToImage": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/ruto_nakhumicha_in_syokimau.jpg?itok=BQqtrJ4t",
+      "publishedAt": "2024-03-07 17:31:25",
+      "content": "The Ministry of Health has embarked on a new technology that is aiding the country in eradicating the spread of Malaria disease. In its Status Report for the State Department as of December 2023, th\u2026 [+1565 chars]",
+      "retrievedAt": "2024-03-08 19:06:09.523734",
+      "internal_id": "8c64c9bb0410c536dbd45643e2b04c2019b6722fe62981f8c2d65bb6b07cdad2",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6579,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "SP registra mais 6 mortes por dengue e chega a 44",
+      "description": "S\u00c3O PAULO, SP (FOLHAPRESS) O estado de S\u00e3o Paulo registrou nesta quinta-feira (7) mais seis mortes por dengue, totalizando 44 \u00f3bitos...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/sp-registra-mais-6-mortes-por-dengue-e-chega-a-44/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/05160921/mosquito-white-mosquito-wire-mesh-net-mosquito-disease-is-carrier-malaria-scaled.jpg",
+      "publishedAt": "2024-03-07 17:17:34",
+      "content": "S\u00c3O PAULO, SP (FOLHAPRESS) O estado de S\u00e3o Paulo registrou nesta quinta-feira (7) mais seis mortes por dengue, totalizando 44 \u00f3bitos confirmados e 148 em investiga\u00e7\u00e3o, segundo painel de monitorament\u2026 [+1133 chars]",
+      "retrievedAt": "2024-03-08 19:06:08.575001",
+      "internal_id": "2a12832aef62ba2ed87f76b406cf533408776dfbbbeecd4339a0d3aecd9c87e2",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6583,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Aparecida (GO) espera recolher 12 mil pneus em mutir\u00e3o contra a dengue",
+      "description": "Mobiliza\u00e7\u00e3o em Aparecida (GO) ocorre at\u00e9 esta quinta-feira (7/3) para recolher o material descartado incorretamente",
+      "url": "https://www.metropoles.com/brasil/aparecida-go-espera-recolher-12-mil-pneus-em-mutirao-contra-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/05/24192007/recolhimento-pneus-aparecida.jpg",
+      "publishedAt": "2024-03-07 15:34:47",
+      "content": "Goi\u00e2nia Para evitar o surgimento e destruir criadouros j\u00e1 existentes do mosquito Aedes aegypti, transmissor de doen\u00e7as como a dengue, chikungunya e zika, a Vigil\u00e2ncia Ambiental da Secretaria Municip\u2026 [+3882 chars]",
+      "retrievedAt": "2024-03-08 19:06:08.656274",
+      "internal_id": "28fed654f110e851e4fe0dbe25015f98eed386c1ee465dda504daf769a95562a",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6587,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Bloody Disgusting",
+      "author": "John Squires",
+      "title": "Awesome Fan Made \u2018Pet Sematary\u2019 Figure Captures the Nightmare Inducing Terror of Zelda",
+      "description": "One of the scariest movie characters of all time is no doubt Zelda from Pet Sematary, the deathly ill sister of Rachel Creed who was actually played by male actor Andrew Hubatsek in the \u201989 big screen adaptation. Zelda, who suffers from spinal meningitis, mak\u2026",
+      "url": "https://bloody-disgusting.com/toys/3802869/awesome-fan-made-pet-sematary-figure-captures-the-nightmare-inducing-terror-of-zelda/",
+      "urlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2024/03/zelda-figure.jpg?resize=1000%2C600&ssl=1",
+      "publishedAt": "2024-03-07 15:13:34",
+      "content": "The Monsters are March-ing in this month to participate in Super7 x Boodega\u2018s first Halloween celebration of the year: March of the Monsters. Bloody Disgusting can exclusively reveal that the densely\u2026 [+6613 chars]",
+      "retrievedAt": "2024-03-08 19:06:09.056969",
+      "internal_id": "011d0925a3f6ddf5fb15fc771dd84257d0464982c41b7dc34a0ebf4e5fc10e17",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6582,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Carlos Carone",
+      "title": "PCDF prende funcion\u00e1rios do Iges por furto e venda de exames da dengue",
+      "description": "Tr\u00eas pessoas foram presas por suspeita de desviarem testes para revenda. Pol\u00edcia Civil apreendeu 4 mil exames, no valor total de R$ 63,8 mil",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/pcdf-prende-funcionarios-do-iges-por-furto-e-venda-de-exames-da-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/12180140/Placa-de-uma-UPA.jpg",
+      "publishedAt": "2024-03-07 15:00:49",
+      "content": "A Pol\u00edcia Civil do Distrito Federal (PCDF) prendeu, na manh\u00e3 dessa quarta-feira (6/3), funcion\u00e1rios do Instituto de Gest\u00e3o Estrat\u00e9gica de Sa\u00fade do Distrito Federal (Iges-DF) por suspeita de desviarem\u2026 [+2623 chars]",
+      "retrievedAt": "2024-03-08 19:06:08.648330",
+      "internal_id": "3ac57bbcdf4aecb3fa30864dbef1ae50eab1d0c111a78fe5b1d14c2d255a7c73",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6573,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Ronan McGreevy",
+      "title": "Second case of measles confirmed as chief medical officer warns of disease spread",
+      "description": "Teenager in the west of Ireland has measles while there are also 20 suspected cases in the State",
+      "url": "https://www.irishtimes.com/health/2024/03/07/second-case-of-measles-confirmed-as-chief-medical-officer-warns-of-the-disease-spread/",
+      "urlToImage": "https://www.irishtimes.com/resizer/2U0CvLZ11Qyf5NwFhjo_TKE3iGg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/FAJOBEBYZBHDPJ6ZSAHC2NDLGE.jpg",
+      "publishedAt": "2024-03-07 14:42:51",
+      "content": "A second case of measles in the State this year has been confirmed. A teenager in the west of Ireland was diagnosed with the contagious disease on Wednesday. The only other confirmed case of measle\u2026 [+2330 chars]",
+      "retrievedAt": "2024-03-08 19:06:07.686246",
+      "internal_id": "381e910b1e0739e9fee856cde74fb4a81019093e2c0eaf43837641ce999a75b2",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6572,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Atlas Obscura",
+      "author": "Colin Dickey",
+      "title": "The Tale of the Mad Stone, the One-Time 'Cure' for Rabies",
+      "description": "Before vaccines, pseudoscientific folks remedies for the deadly virus involved mysterious animal-vegetable-mineral hybrids. One August morning in 1923, a farmer in Missouri named Adam Rarely heard his pigs squealing and went out to investigate. He found a st\u2026",
+      "url": "https://www.atlasobscura.com/articles/mad-stones-rabies-cure-eerie-feeling",
+      "urlToImage": "https://img.atlasobscura.com/h0GOv3wOsczWOPiU_mo1aq3btcAvir0xv8ZKEQYE4hA/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jMjcxYWVmMjZk/OTE1MDA5ZGNfTWFk/c3RvbmVzLWlpaWYt/c2VydmljZV9uZG5w/X2RsY19iYXRjaF9k/bGNfcHJvdG9zc192/ZXIwMV9kYXRhX3Nu/ODMwNDU0NjJfMDAy/ODA2NTYyODhfMTkw/ODA1MTAwMV8wNjY0/LTk3MXg2MjB4NDgw/NHg0NTcwLWZ1bGwt/MC1kZWZhdWx0Lmpw/Zw.jpg",
+      "publishedAt": "2024-03-07 14:00:00",
+      "content": "One August morning in 1923, a farmer in Missouri named Adam Rarely heard his pigs squealing and went out to investigate. He found a strange dog in the pen. As Rarely attempted to defend his livestock\u2026 [+15558 chars]",
+      "retrievedAt": "2024-03-08 19:06:07.293116",
+      "internal_id": "98841d3444e7dab7d772ea88a856e36398c83e9f11bbbb997418a16c6f3ad975",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6590,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Brice Letcher, Sorina Maciuca, Zamin Iqbal",
+      "title": "Role for gene conversion in the evolution of cell-surface antigens of the malaria parasite Plasmodium falciparum",
+      "description": "Merozoite surface proteins expressed by the malaria parasite Plasmodium falciparum on the surface of human red-blood-cell-infecting merozoites possess exactly two deeply-diverged lineages that have seemingly not recombined. The evolutionary origin of this phe\u2026",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002507",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002507.g005&size=inline",
+      "publishedAt": "2024-03-07 14:00:00",
+      "content": "Citation: Letcher B, Maciuca S, Iqbal Z (2024) Role for gene conversion in the evolution of cell-surface antigens of the malaria parasite Plasmodium falciparum. PLoS Biol 22(3): e3002507. https://\u2026 [+64687 chars]",
+      "retrievedAt": "2024-03-08 19:06:09.500828",
+      "internal_id": "39725975f4af49238a7eea589e9d2845540c3b24a845c88e0a36ce74d0194c34",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6593,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ad\u00e9la\u00efde Miarinjara, Annick Onimalala Raveloson, Stephen Gilbert Mugel, Nick An, Andry Andriamiadanarivo, Minoarisoa Esther Rajerison, Rindra Vatosoa Randremanana, Romain Girod, Thomas Robert Gillespie",
+      "title": "Socio-ecological risk factors associated with human flea infestations of rural household in plague-endemic areas of Madagascar",
+      "description": "Author summary Plague is a bacterial disease transmitted by flea bites, and the rat fleas are the main vectors of Yersinia pestis, the plague bacterium. Households in plague endemic-areas of Madagascar are frequently infested by Pulex irritans, the human flea\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012036",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012036.g002&size=inline",
+      "publishedAt": "2024-03-07 14:00:00",
+      "content": "Abstract Plague is a flea-borne fatal disease caused by the bacterium Yersinia pestis, which persists in rural Madagascar. Although fleas parasitizing rats are considered the primary vectors of Y. p\u2026 [+53933 chars]",
+      "retrievedAt": "2024-03-08 19:06:10.643993",
+      "internal_id": "c27de676294b5e0a83f37a9f1d1368b49f854724d5485008d06a16fb866d5617",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6571,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Press release: Whooping cough infections rise",
+      "description": "553 new cases of whooping cough confirmed in January.",
+      "url": "https://www.gov.uk/government/news/whooping-cough-infections-rise",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/65e9c2d85b65240011f21bab/s960_Baby_feet_white.jpg",
+      "publishedAt": "2024-03-07 13:44:19",
+      "content": "New data published today by the UK Health Security Agency (UKHSA) shows there has been a continued increase in pertussis (whooping cough) cases at the start of this year, with 553 confirmed in Englan\u2026 [+4537 chars]",
+      "retrievedAt": "2024-03-08 19:06:07.006284",
+      "internal_id": "6c01a224a7cf9c9711dfc7a2bf8fddac6e4c7c8373351274b959960fd8df7aa6",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6570,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Research: Pertussis epidemiology in England 2024",
+      "description": "Number of laboratory confirmed cases of pertussis in England in 2024.",
+      "url": "https://www.gov.uk/government/publications/pertussis-epidemiology-in-england-2024",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-03-07 13:17:41",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2024-03-08 19:06:06.897580",
+      "internal_id": "88ed7fd2c22d1919bf68908dd61276525bd5e11f5765738c41ca2a3ab88d0597",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6574,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Madeleine Fisher",
+      "title": "Understanding the history of vaccine hesitancy and current mistrust in healthcare",
+      "description": "Wilkinson mentions the \u201ccultural memory\u201d of the measles, mumps, and rubella (MMR) autism scare.1 Vaccine hesitancy is neither new nor limited to the MMR autism scare, and to improve vaccination rates we must consider a wider history.Smallpox was eradicated ow\u2026",
+      "url": "https://www.bmj.com/content/384/bmj.q539",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/384/8419.cover-source.jpg",
+      "publishedAt": "2024-03-07 13:11:26",
+      "content": "Madeleine Fisher, clinical fellowRoyal Sussex County Hospital, Brighton, UK madeleine.fisher1{at}nhs.net Wilkinson mentions the cultural memory\u2026 [+2183 chars]",
+      "retrievedAt": "2024-03-08 19:06:07.720746",
+      "internal_id": "0fb0724a873c6163550ee2213076ae5a3eeca36af97aa497deeafd22a4557215",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6580,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Eduardo Barretto",
+      "title": "Minist\u00e9rio da Sa\u00fade estuda limitar emendas parlamentares contra dengue",
+      "description": "Minuta do Minist\u00e9rio da Sa\u00fade prev\u00ea teto de R$ 800 mil por projeto no combate \u00e0 dengue, que j\u00e1 matou 329; documento irrita parlamentares",
+      "url": "https://www.metropoles.com/colunas/guilherme-amado/ministerio-da-saude-estuda-limitar-emendas-parlamentares-contra-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/12/27095807/140823VS_Nisia-Trindade-Mais-Medicos-022.jpg",
+      "publishedAt": "2024-03-07 12:00:09",
+      "content": "O Minist\u00e9rio da Sa\u00fade planeja limitar a execu\u00e7\u00e3o de emendas parlamentares destinadas ao controle de doen\u00e7as como a dengue, que j\u00e1 matou 329 brasileiros e registrou 1,3 milh\u00e3o de casos neste ano. A mi\u2026 [+4920 chars]",
+      "retrievedAt": "2024-03-08 19:06:08.613606",
+      "internal_id": "06aa622f3edde5d92273103a70207f161da50abf7294fc8d621a5b0c3d82beff",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6577,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Modaparahomens.com.br",
+      "author": "Guilherme Cury",
+      "title": "Roupa Repelente: Pra se proteger da Dengue com estilo",
+      "description": "A Dengue \u00e9 uma doen\u00e7a viral transmitida pela picada do mosquito Aedes aegypti, e sua incid\u00eancia \u00e9 um grave problema de sa\u00fade p\u00fablica no Brasil. Devido \u00e0 sua alta capacidade de prolifera\u00e7\u00e3o e \u00e0 falta de um tratamento espec\u00edfico, a preven\u00e7\u00e3o \u00e9 a melhor estrat\u00e9g\u2026",
+      "url": "https://modaparahomens.com.br/roupa-repelente-pra-se-proteger-da-dengue-com-estilo/",
+      "urlToImage": "https://modaparahomens.com.br/wp-content/uploads/roupa-repelente-dengue.jpg",
+      "publishedAt": "2024-03-07 11:25:17",
+      "content": "A Dengue \u00e9 uma doen\u00e7a viral transmitida pela picada do mosquito Aedes aegypti, e sua incid\u00eancia \u00e9 um grave problema de sa\u00fade p\u00fablica no Brasil. Devido \u00e0 sua alta capacidade de prolifera\u00e7\u00e3o e \u00e0 falta \u2026 [+1428 chars]",
+      "retrievedAt": "2024-03-08 19:06:08.552915",
+      "internal_id": "8ed1643c9ef0809ab8dcdbfaf606ceb691d8750bf4d21833e2cefd49d163343f",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6575,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "Emergenza per la siccit\u00e0 nello Zambia",
+      "description": "Dengue. Il cambiamento climatico e l\u2019urbanizzazione favoriscono la diffusione della febbre dengue. La malattia \u00e8 provocata da alcuni virus trasportati dalla zanzara Aedes... Leggi",
+      "url": "https://www.internazionale.it/magazine/2024/03/07/emergenza-per-la-siccita-nello-zambia",
+      "urlToImage": "https://media.internazionale.it/images/2024/03/07/214516-sd.jpg",
+      "publishedAt": "2024-03-07 11:23:54",
+      "content": "Dengue. Il cambiamento climatico e lurbanizzazione favoriscono la diffusione della febbre dengue. La malattia \u00e8 provocata da alcuni virus trasportati dalla zanzara Aedes aegypti, che ama il clima cal\u2026 [+2506 chars]",
+      "retrievedAt": "2024-03-08 19:06:08.494338",
+      "internal_id": "6a2ed25169af1005c2f7f0e8ace90a4d8840150b6a314ea731e358e5b4e2077a",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6585,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Nigeria receives first-ever meningitis vaccine",
+      "description": "Nigeria has become the first country to receive the new MenFive meningitis vaccine from the Vaccine Alliance-funded global stockpile, with a shipment delivered by the United Nations Children\u2019s Fund. This was disclosed in a press statement made available to ou\u2026",
+      "url": "https://punchng.com/nigeria-receives-first-ever-meningitis-vaccine/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/04/18234619/Meningitis-vaccines.jpg",
+      "publishedAt": "2024-03-07 11:10:56",
+      "content": "Nigeria has become the first country to receive the new MenFive meningitis vaccine from the Vaccine Alliance-funded global stockpile, with a shipment delivered by the United Nations Children\u2019s Fund. \u2026 [+3696 chars]",
+      "retrievedAt": "2024-03-08 19:06:09.041609",
+      "internal_id": "c94a0ff5af30d98090c3c7fdc0fea60182c01c4416f99df1330920167c0766cb",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6586,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Nigeria first country to receive new meningitis vaccine",
+      "description": "Nigeria has become the first country to receive the new MenFive meningitis vaccine from the Vaccine Alliance-funded global stockpile, with a shipment delivered by the United Nations Children\u2019s Fund. This was disclosed in a press statement made available to ou\u2026",
+      "url": "https://punchng.com/nigeria-first-country-to-receive-new-meningitis-vaccine/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/04/18234619/Meningitis-vaccines.jpg",
+      "publishedAt": "2024-03-07 11:10:56",
+      "content": "Nigeria has become the first country to receive the new MenFive meningitis vaccine from the Vaccine Alliance-funded global stockpile, with a shipment delivered by the United Nations Children\u2019s Fund. \u2026 [+3696 chars]",
+      "retrievedAt": "2024-03-08 19:06:09.048818",
+      "internal_id": "8c8c0c32eb7c08e56073c37d63674787b6a49925d89c12549a55b940adca0abe",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6588,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Suspendida la fecha en juveniles por el fallecimiento de Lautaro Rijo, arquero de Miramar",
+      "description": "Un cuadro de meningitis se llev\u00f3 la vida del arquero de 18 a\u00f1os que defend\u00eda al Cebrita. La segunda etapa del Apertura ser\u00e1 reprogramada.",
+      "url": "https://www.montevideo.com.uy/Deportes/Suspendida-la-fecha-en-juveniles-por-el-fallecimiento-de-Lautaro-Rijo-arquero-de-Miramar-uc881823",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202403/_W933_80/874117.jpg",
+      "publishedAt": "2024-03-07 11:10:00",
+      "content": "F\u00fatbolUy. Seguinos en Twitter @futbolportaluy Este mi\u00e9rcoles por la tarde, Boston River comunic\u00f3 a trav\u00e9s de sus redes sociales el fallecimiento de Lautaro Rijo, arquero de 18 a\u00f1os que jugaba en la \u2026 [+1281 chars]",
+      "retrievedAt": "2024-03-08 19:06:09.072067",
+      "internal_id": "7efcf11595b302c9911011b0f26643c9f536a86fcb5102fc75010b9ed1414fb4",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6592,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Gustavo Winkler",
+      "title": "Repelentes: qu\u00e9 se debe tener en cuenta",
+      "description": "El uso de repelentes evita la transmisi\u00f3n de enfermedades como el dengue, zika y chikunguya. Leer m\u00e1s",
+      "url": "https://noticias.perfil.com/noticias/medicina/repelentes-que-se-debe-tener-en-cuenta.phtml",
+      "urlToImage": "https://fotos.perfil.com/2024/03/06/trim/1280/720/que-se-debe-tener-en-cuenta-en-el-uso-de-repelentes-1766152.jpeg",
+      "publishedAt": "2024-03-07 08:32:00",
+      "content": "Los repelentes de insectos para uso personal son productos que se aplican sobre las diversas zonas de la piel expuesta con el fin de protegerla contra las picaduras de los insectos. Este tipo de comp\u2026 [+2987 chars]",
+      "retrievedAt": "2024-03-08 19:06:09.741642",
+      "internal_id": "31d51a24d7ef5b101c7c2b7bb173a1599cbbb79382fbc50a8d89bccaed201803",
+      "publishedAtLabel": "Mar 7"
+    },
     {
       "id": 6569,
       "query": [
@@ -38373,204 +38807,6 @@
       "content": "Chegaram ao Brasil neste s\u00e1bado, 20, as primeiras doses davacina contra a dengue fornecida pela farmac\u00eautica japonesa Takeda, sem cobran\u00e7a, ao Minist\u00e9rio da Sa\u00fade. S\u00e3o cerca de 750 mil doses nesta pr\u2026 [+2296 chars]",
       "retrievedAt": "2024-01-23 07:06:02.774584",
       "internal_id": "992d058ddd64379d3766be71a926cf3d75e22bedc68cb6322a0451b61d8d6c43",
-      "publishedAtLabel": "Jan 21"
-    },
-    {
-      "id": 4436,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Brasil recibe primer lote de vacunas contra dengue en medio de un brote de la enfermedad",
-      "description": "El pa\u00eds fue uno de los primeros en incluir el tratamiento en su campa\u00f1a p\u00fablica y gratuita y comenzar\u00e1 a distribuirla este a\u00f1o.",
-      "url": "https://www.montevideo.com.uy/Salud/Brasil-recibe-primer-lote-de-vacunas-contra-dengue-en-medio-de-un-brote-de-la-enfermedad-uc877328",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202304/_W933_80/841257.jpg",
-      "publishedAt": "2024-01-21 18:40:00",
-      "content": "Brasil recibi\u00f3 el s\u00e1bado un lote de 750.000 dosis de la vacuna Qdenga contra el dengue donado por el laboratorio japon\u00e9s Takeda Pharma y que le permitir\u00e1 anticipar su campa\u00f1a de inmunizaci\u00f3n en me\u2026 [+2457 chars]",
-      "retrievedAt": "2024-01-22 19:05:36.759941",
-      "internal_id": "fe55ecbac51c5cc53bd6022ab73c190ed027ad6f1e071d37f1e0cccdfbd6fcef",
-      "publishedAtLabel": "Jan 21"
-    },
-    {
-      "id": 4439,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Brasil recebe as primeiras doses de vacina contra a dengue",
-      "description": "Remessa faz parte de um total de 1,32 milh\u00e3o de doses da vacina fornecidas pela farmac\u00eautica Takeda",
-      "url": "https://valor.globo.com/brasil/noticia/2024/01/21/brasil-recebe-as-primeiras-doses-de-vacina-contra-a-dengue.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/TFUcG3BEqqNxmL-kxr_pBmDCBLE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/A/q/MCF62aR16vEWAloxviAw/caixa-da-vacina-contra-a-dengue-do-laboratorio-takeda-qdenda-marcia-almeida-valor.jpeg",
-      "publishedAt": "2024-01-21 18:18:05",
-      "content": "Por Juliana Schincariol, Valor \u2014 Rio 21/01/2024 15h18 Atualizado 21/01/2024",
-      "retrievedAt": "2024-01-22 19:05:36.816179",
-      "internal_id": "e086d184a7acd803ae3df5d77cd47b33e46487509dfe71b5f0bb45eff860f536",
-      "publishedAtLabel": "Jan 21"
-    },
-    {
-      "id": 4434,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Ricardo Chapola",
-      "title": "Brasil recebe primeiras doses de vacina contra a dengue",
-      "description": "Primeira parte do lote ser\u00e1 destinada a crian\u00e7as e adolescentes de 10 a 14 anos que moram em cidades com mais de 100 mil habitantes",
-      "url": "https://veja.abril.com.br/saude/brasil-recebe-primeiras-doses-de-vacina-contra-a-dengue",
-      "urlToImage": "",
-      "publishedAt": "2024-01-21 18:10:43",
-      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade Por Da Reda\u00e7\u00e3o 21 jan 2024, 15h10 QDENGA - Governo comprou mais de 5 milh\u00f5es de doses que ser\u00e3o entregues em etapas (Reprodu\u00e7\u00e3o/Reprodu\u00e7\u00e3o\u2026 [+2175 chars]",
-      "retrievedAt": "2024-01-22 19:05:36.727485",
-      "internal_id": "df4de5a7202059b6f00228f19dc63d409a0d0952ac935745a77a84716e1dc28f",
-      "publishedAtLabel": "Jan 21"
-    },
-    {
-      "id": 4440,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "S\u00fcddeutsche Zeitung",
-      "author": "Von Paul Munzinger, Kapstadt",
-      "title": "Malaria: \"Die Impfskepsis ist aktuell unsere gr\u00f6\u00dfte Herausforderung\"",
-      "description": "Erstmals k\u00f6nnen Millionen Kinder in Afrika gegen Malaria geimpft werden - doch Klimaver\u00e4nderungen erschweren den Kampf gegen die Krankheit. Die kamerunische Immunologin Rose Leke \u00fcber unberechenbaren Regen und die Macht von Ger\u00fcchten.",
-      "url": "https://www.sueddeutsche.de/politik/malaria-impfstoff-afrika-interview-1.6333566",
-      "urlToImage": "https://www.sueddeutsche.de/image/sz.1.6333568/1200x675?v=1705839531",
-      "publishedAt": "2024-01-21 16:59:41",
-      "content": "21. Januar 2024, 17:59 Uhr Pilotprojekte in Ghana, Malawi und Kenia: Nach der Malaria-Impfung wird dieses Kind auch mit einem Moskitonetz gesch\u00fctzt. (Foto: Yasuyoshi Chiba/AFP) Erstmals k\u00f6nnen Mil\u2026 [+885 chars]",
-      "retrievedAt": "2024-01-22 19:05:37.890565",
-      "internal_id": "9350ce2333bce08367b4542eecd5283ec7383a4de87579274adbde922b997236",
-      "publishedAtLabel": "Jan 21"
-    },
-    {
-      "id": 4433,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Ana Luiza Figueiredo",
-      "title": "Vacina contra a dengue: 750 mil doses chegam ao Brasil",
-      "description": "Brasil recebe as primeiras 750 mil doses da vacina contra a dengue para integra\u00e7\u00e3o ao SUS, marcando um avan\u00e7o na luta contra a doen\u00e7a O post Vacina contra a dengue: 750 mil doses chegam ao Brasil apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/01/21/medicina-e-saude/vacina-contra-a-dengue-750-mil-doses-chegam-ao-brasil/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/vacina-dengue-QDenga-695x500.png",
-      "publishedAt": "2024-01-21 16:16:16",
-      "content": "O Minist\u00e9rio da Sa\u00fade anunciou a chegada das primeiras 750 mil doses da vacina contra a dengue ao Brasil neste s\u00e1bado, 20 de janeiro. Este \u00e9 o pontap\u00e9 inicial para a implementa\u00e7\u00e3o da vacina no Sistem\u2026 [+1839 chars]",
-      "retrievedAt": "2024-01-22 19:05:36.719484",
-      "internal_id": "c0d9e5780c2f8af42531c1d907b9b8ca724f7ac917e9640cc9356c4b7a293d86",
-      "publishedAtLabel": "Jan 21"
-    },
-    {
-      "id": 4435,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Mateus Salom\u00e3o",
-      "title": "Primeiras doses de vacina contra a dengue chegam ao Brasil",
-      "description": "Remessa tem 750 mil unidades da vacina contra a dengue, que ser\u00e1 disponibilizada pelo SUS. Aplica\u00e7\u00e3o deve come\u00e7ar em fevereiro",
-      "url": "https://www.metropoles.com/brasil/primeiras-doses-de-vacina-contra-a-dengue-chegam-ao-brasil",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/20094907/Dengue-compressed-1200x800.jpg",
-      "publishedAt": "2024-01-21 14:43:22",
-      "content": "O Minist\u00e9rio da Sa\u00fade anunciou que as primeiras doses da vacina Qdenga, contra a dengue, chegaram ao Brasil. A primeira remessa tem 750 mil unidades do imunizante, que ser\u00e1 disponibilizado pelo Siste\u2026 [+4894 chars]",
-      "retrievedAt": "2024-01-22 19:05:36.740531",
-      "internal_id": "3f06569f59223657d528c44a4678bcc2c698489d019d7b9545f9085190a99483",
-      "publishedAtLabel": "Jan 21"
-    },
-    {
-      "id": 4432,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Talkingupscotlandtwo.com",
-      "author": "Johnrobertson834",
-      "title": "Not one case of measles in Scotland for three years, 95% vaccination and the Herald\u2019s health correspondent tries to suggest it\u2019s like the West Midlands here too",
-      "description": "I\u2019m indebted to for As a genuine and scary surge in measles cases after plummeting vaccination rates among young children explodes in parts of England, especially London and the West Midlands\u2026",
-      "url": "https://talkingupscotlandtwo.com/2024/01/21/not-one-case-of-measles-in-scotland-for-three-years-95-vaccination-and-the-heralds-health-correspondent-tries-to-suggest-its-like-the-west-midlands-here-too/",
-      "urlToImage": "https://talkingupscotlandtwo.files.wordpress.com/2024/01/image-146.png",
-      "publishedAt": "2024-01-21 13:07:48",
-      "content": "I\u2019m indebted to for As a genuine and scary surge in measles cases after plummeting vaccination rates among young children explodes in parts of England, especially London and the West Midlands, the H\u2026 [+1632 chars]",
-      "retrievedAt": "2024-01-22 19:05:36.136584",
-      "internal_id": "4e60afc91949e06b431b3afddc5a67e0aaf4857ec0fbc58f9a7c3a10feca1e90",
-      "publishedAtLabel": "Jan 21"
-    },
-    {
-      "id": 4441,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Origo.hu",
-      "author": null,
-      "title": "Szenz\u00e1ci\u00f3s felfedez\u00e9s: megtal\u00e1lhatt\u00e1k a r\u00e1k ellenszer\u00e9t",
-      "description": "Mutatjuk!",
-      "url": "https://www.origo.hu/tudomany/20240116-uj-es-rendkivul-hatekony-rakellenes-eszkoz-kerulhet-hamarosan-az-orvostudomany-kezebe.html",
-      "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2011/20201124tamadas-alatt-allo-raksejt.jpg?w=1024",
-      "publishedAt": "2024-01-21 13:01:00",
-      "content": "Egy frissen publik\u00e1lt kutat\u00e1s szerint a Zika-v\u00edrus k\u00eds\u00e9rleti egerekben k\u00e9pes volt megc\u00e9lozni \u00e9s gyorsan felsz\u00e1molni a hum\u00e1n neuroblaszt\u00f3ma daganatokat. Most m\u00e1r csak az a k\u00e9rd\u00e9s, hogy mennyi idn bel\u00fc\u2026 [+5343 chars]",
-      "retrievedAt": "2024-01-22 19:05:38.494855",
-      "internal_id": "022802be2bef60195c85bbc6406063465797dce09026d80249d2a794bcf377a7",
-      "publishedAtLabel": "Jan 21"
-    },
-    {
-      "id": 4438,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Giovanna Inoue, do R7, em Bras\u00edlia",
-      "title": "Primeiras doses da vacina contra dengue chegam ao Brasil",
-      "description": "P\u00fablico-alvo ser\u00e1 de crian\u00e7as e adolescentes de 10 a 14 anos, e as 750 mil inje\u00e7\u00f5es devem ser aplicadas a partir de fevereiro",
-      "url": "https://noticias.r7.com/saude/primeiras-doses-da-vacina-contra-dengue-chegam-ao-brasil-21012024",
-      "urlToImage": "https://img.r7.com/images/doses-vacina-dengue-21012024131435819?crop=1449x815+7+92",
-      "publishedAt": "2024-01-21 12:57:00",
-      "content": "Reprodu\u00e7\u00e3o/Minist\u00e9rio da Sa\u00fade A primeira remessa de vacina contra dengue, cerca de 750 mil doses, chegou ao Brasil neste s\u00e1bado (20). Uma segunda leva, com 570 mil doses, est\u00e1 prevista para f\u2026 [+3006 chars]",
-      "retrievedAt": "2024-01-22 19:05:36.800084",
-      "internal_id": "ba300fbc5467800aa0896fefe0c75b05087cd6614da3cb63123f16c8c3bcc642",
-      "publishedAtLabel": "Jan 21"
-    },
-    {
-      "id": 4437,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "N\u00famero de casos de dengue pode chegar a 5 milh\u00f5es em 2024",
-      "description": "A proje\u00e7\u00e3o foi divulgada pelo Minist\u00e9rio da Sa\u00fade em conjunto com o InfoDengue (Fiocruz); epidemia deve atingir, principalmente, a regi\u00e3o Centro-Oeste",
-      "url": "https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2024-01-21 09:00:00",
-      "content": "O n\u00famero de casos de dengue no Brasil pode chegar a 5 milh\u00f5es neste ano, de acordo com proje\u00e7\u00e3o divulgada pelo Minist\u00e9rio da Sa\u00fade em parceria com o InfoDengue, da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz). E\u2026 [+2175 chars]",
-      "retrievedAt": "2024-01-22 19:05:36.778009",
-      "internal_id": "1265bc694594663277f8ac97eb9956d43af9a84a58ad88f6db928036f6db2b4c",
-      "publishedAtLabel": "Jan 21"
-    },
-    {
-      "id": 4431,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "TikTok campaign needed for MMR jab, says Jess Phillips MP",
-      "description": "The Birmingham MP says \"false vaccine messages\" are spreading quicker than official health advice.",
-      "url": "https://www.bbc.co.uk/news/uk-england-birmingham-68037150",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D58B/production/_132376645_de51.jpg",
-      "publishedAt": "2024-01-21 07:06:49",
-      "content": "Birmingham MP Jess Phillips has said a TikTok campaign is needed to promote the uptake of the MMR vaccine. The number of people with measles in the West Midlands is at its highest since at least the\u2026 [+2977 chars]",
-      "retrievedAt": "2024-01-22 19:05:36.050922",
-      "internal_id": "5318078536220527a38a6a28afb128796f982cede40aacdf949ed9c72dfafba1",
       "publishedAtLabel": "Jan 21"
     }
   ]

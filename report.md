@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-03-08 07:06
-- **Most recent article:** 2024-03-07 05:28:44
+- **New articles in last harvest:** 24
+- **Last harvest:** 2024-03-08 19:06
+- **Most recent article:** 2024-03-07 19:00:01
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 113 | 123 | 173 | 216 | 191 | 188 | 207 | 1211 |
-| measles | 57 | 56 | 47 | 68 | 45 | 100 | 80 | 453 |
-| malaria | 8 | 86 | 25 | 35 | 19 | 33 | 17 | 223 |
-| chikungunya | 4 | 10 | 10 | 12 | 8 | 14 | 16 | 74 |
-| zika | 10 | 7 | 8 | 13 | 6 | 13 | 11 | 68 |
-| rabies | 3 | 9 | 7 | 7 | 9 | 5 | 8 | 48 |
-| meningitis | 9 | 1 | 3 | 8 | 8 | 7 | 4 | 40 |
+| dengue | 123 | 116 | 173 | 216 | 191 | 188 | 207 | 1214 |
+| measles | 59 | 54 | 47 | 68 | 45 | 100 | 80 | 453 |
+| malaria | 11 | 85 | 25 | 35 | 19 | 33 | 17 | 225 |
+| chikungunya | 5 | 10 | 10 | 12 | 8 | 14 | 16 | 75 |
+| zika | 12 | 6 | 8 | 13 | 6 | 13 | 11 | 69 |
+| rabies | 4 | 9 | 7 | 7 | 9 | 5 | 8 | 49 |
+| meningitis | 13 | 1 | 3 | 8 | 8 | 7 | 4 | 44 |
 | sarampión | 2 | 1 | 6 | 5 | 4 | 11 | 5 | 34 |
 | mpox | 4 | 4 | 3 | 5 | 8 | 6 | 1 | 31 |
-| pertussis | 2 | 2 | 3 | 2 | 6 | 0 | 4 | 19 |
+| pertussis | 4 | 2 | 3 | 2 | 6 | 0 | 4 | 21 |
 | typhoid | 0 | 2 | 2 | 1 | 2 | 2 | 1 | 10 |
-| yersinia | 0 | 2 | 0 | 1 | 2 | 1 | 1 | 7 |
+| yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 1 | 8 |
 | leptospirosis | 0 | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
@@ -3590,8 +3590,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Le virus Zika démontre son efficacité pour éradiquer... certains cancers](https://www.techno-science.net/actualite/virus-zika-demontre-son-efficacite-eradiquer-certains-cancers-N24346.html) (Techno-science.net)
 
-- [Szenzációs felfedezés: megtalálhatták a rák ellenszerét](https://www.origo.hu/tudomany/20240116-uj-es-rendkivul-hatekony-rakellenes-eszkoz-kerulhet-hamarosan-az-orvostudomany-kezebe.html) (Origo.hu)
-
 ## 24-4 (yersinia)
 
 - [Type 3 secretion system induced leukotriene B4 synthesis by leukocytes is actively inhibited by Yersinia pestis to evade early immune recognition](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011280) (Plos.org)
@@ -3757,10 +3755,6 @@ Source: [News API](https://newsapi.org/)
 - [Birmingham Children's Hospital isolating measles patients](https://www.bbc.co.uk/news/uk-england-birmingham-68058328) (BBC News)
 
 - [Parents urged to book missed MMR vaccines amid 'very real risk' of measles outbreaks](https://news.sky.com/story/measles-parents-urged-to-book-missed-mmr-vaccines-amid-very-real-risk-of-outbreaks-13053780) (Sky.com)
-
-- [Not one case of measles in Scotland for three years, 95% vaccination and the Herald’s health correspondent tries to suggest it’s like the West Midlands here too](https://talkingupscotlandtwo.com/2024/01/21/not-one-case-of-measles-in-scotland-for-three-years-95-vaccination-and-the-heralds-health-correspondent-tries-to-suggest-its-like-the-west-midlands-here-too/) (Talkingupscotlandtwo.com)
-
-- [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
 
@@ -3933,8 +3927,6 @@ Source: [News API](https://newsapi.org/)
 - [El hallazgo casual de un laboratorio español que puede acabar con una enfermedad letal](https://www.elconfidencial.com/tecnologia/ciencia/2024-01-22/malaria-hallazgo-casual-laboratorio-espanol-enfermedad_3814406/) (Elconfidencial.com)
 
 - [Nigeria must intensify malaria eradication](https://punchng.com/nigeria-must-intensify-malaria-eradication/) (The Punch)
-
-- [Malaria: "Die Impfskepsis ist aktuell unsere größte Herausforderung"](https://www.sueddeutsche.de/politik/malaria-impfstoff-afrika-interview-1.6333566) (Süddeutsche Zeitung)
 
 ## 24-4 (dengue)
 
@@ -4170,20 +4162,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Primeiras doses da vacina contra a dengue chegam ao Brasil; saiba como funcionará a imunização](https://www.terra.com.br/vida-e-estilo/saude/primeiras-doses-da-vacina-contra-a-dengue-chegam-ao-brasil-saiba-como-funcionara-a-imunizacao,bcecbfe9d0391fd083d02586a5713b37azhw766w.html) (Terra.com.br)
 
-- [Brasil recibe primer lote de vacunas contra dengue en medio de un brote de la enfermedad](https://www.montevideo.com.uy/Salud/Brasil-recibe-primer-lote-de-vacunas-contra-dengue-en-medio-de-un-brote-de-la-enfermedad-uc877328) (Montevideo.com.uy)
-
-- [Brasil recebe as primeiras doses de vacina contra a dengue](https://valor.globo.com/brasil/noticia/2024/01/21/brasil-recebe-as-primeiras-doses-de-vacina-contra-a-dengue.ghtml) (Globo)
-
-- [Brasil recebe primeiras doses de vacina contra a dengue](https://veja.abril.com.br/saude/brasil-recebe-primeiras-doses-de-vacina-contra-a-dengue) (Abril.com.br)
-
-- [Vacina contra a dengue: 750 mil doses chegam ao Brasil](https://olhardigital.com.br/2024/01/21/medicina-e-saude/vacina-contra-a-dengue-750-mil-doses-chegam-ao-brasil/) (Olhardigital.com.br)
-
-- [Primeiras doses de vacina contra a dengue chegam ao Brasil](https://www.metropoles.com/brasil/primeiras-doses-de-vacina-contra-a-dengue-chegam-ao-brasil) (Metropoles.com)
-
-- [Primeiras doses da vacina contra dengue chegam ao Brasil](https://noticias.r7.com/saude/primeiras-doses-da-vacina-contra-dengue-chegam-ao-brasil-21012024) (R7.com)
-
-- [Número de casos de dengue pode chegar a 5 milhões em 2024](https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html) (Ig.com.br)
-
 ## 24-4 (chikungunya)
 
 - [Dengue e chikungunya levam Minas Gerais a decretar emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/01/27/dengue-e-chikungunya-levam-minas-gerais-a-decretar-emergencia.ghtml) (Globo)
@@ -4208,6 +4186,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-10 (zika)
 
+- [Aparecida (GO) espera recolher 12 mil pneus em mutirão contra a dengue](https://www.metropoles.com/brasil/aparecida-go-espera-recolher-12-mil-pneus-em-mutirao-contra-a-dengue) (Metropoles.com)
+
+- [Repelentes: qué se debe tener en cuenta](https://noticias.perfil.com/noticias/medicina/repelentes-que-se-debe-tener-en-cuenta.phtml) (Perfil.com)
+
 - [Muž vyhrožoval v Česku bombovými útoky i vypuštěním komárů s virem Zika. Dopadli ho v Kolumbii](https://www.novinky.cz/clanek/krimi-muz-vyhrozoval-v-cesku-bombovymi-utoky-i-vypustenim-komaru-s-virem-zika-dopadli-ho-v-kolumbii-40463200) (Novinky.cz)
 
 - [Una pintura insecticida especial puede ayudar a frenar los brotes de zika y dengue](https://www.infosalus.com/salud-investigacion/noticia-pintura-insecticida-especial-puede-ayudar-frenar-brotes-zika-dengue-20240306072948.html) (Infosalus.com)
@@ -4228,6 +4210,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
 
+## 24-10 (yersinia)
+
+- [Socio-ecological risk factors associated with human flea infestations of rural household in plague-endemic areas of Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012036) (Plos.org)
+
 ## 24-10 (sarampión)
 
 - [¿Qué es el sarampión? Síntomas y cómo se detecta](https://www.elperiodico.com/es/sanidad/20240306/sarampion-sintomas-enfermedad-prevencion-vacuna-dv-99079252) (Elperiodico.com)
@@ -4236,6 +4222,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-10 (rabies)
 
+- [The Tale of the Mad Stone, the One-Time 'Cure' for Rabies](https://www.atlasobscura.com/articles/mad-stones-rabies-cure-eerie-feeling) (Atlas Obscura)
+
 - [Woman dies of rabies despite vax](https://timesofindia.indiatimes.com/city/kolhapur/woman-dies-of-rabies-despite-vax/articleshow/108254799.cms) (The Times of India)
 
 - [Onondaga County hosting rabies vaccination clinics for pets, only one case reported so far this year](https://www.syracuse.com/health/2024/03/onondaga-county-hosting-rabies-vaccination-clinics-for-pets-only-one-case-reported-so-far-this-year.html) (syracuse.com)
@@ -4243,6 +4231,10 @@ Source: [News API](https://newsapi.org/)
 - [Rabies vaccinations for pet dogs in Japan fall to 70%](https://www.japantimes.co.jp/news/2024/03/03/japan/science-health/rabies-vaccinations-falling/) (The Japan Times)
 
 ## 24-10 (pertussis)
+
+- [Press release: Whooping cough infections rise](https://www.gov.uk/government/news/whooping-cough-infections-rise) (Www.gov.uk)
+
+- [Research: Pertussis epidemiology in England 2024](https://www.gov.uk/government/publications/pertussis-epidemiology-in-england-2024) (Www.gov.uk)
 
 - [Apothekertagung: Keuchhusten und Masern](https://steiermark.orf.at/stories/3247771/) (Steiermark.orf.at)
 
@@ -4259,6 +4251,14 @@ Source: [News API](https://newsapi.org/)
 - [Detetados 238 casos de mpox em Portugal desde junho](https://ionline.sapo.pt/artigo/811367/detetados-238-casos-de-mpox-em-portugal-desde-junho?seccao=Mundo_i) (Sapo.pt)
 
 ## 24-10 (meningitis)
+
+- [Awesome Fan Made ‘Pet Sematary’ Figure Captures the Nightmare Inducing Terror of Zelda](https://bloody-disgusting.com/toys/3802869/awesome-fan-made-pet-sematary-figure-captures-the-nightmare-inducing-terror-of-zelda/) (Bloody Disgusting)
+
+- [Nigeria receives first-ever meningitis vaccine](https://punchng.com/nigeria-receives-first-ever-meningitis-vaccine/) (The Punch)
+
+- [Nigeria first country to receive new meningitis vaccine](https://punchng.com/nigeria-first-country-to-receive-new-meningitis-vaccine/) (The Punch)
+
+- [Suspendida la fecha en juveniles por el fallecimiento de Lautaro Rijo, arquero de Miramar](https://www.montevideo.com.uy/Deportes/Suspendida-la-fecha-en-juveniles-por-el-fallecimiento-de-Lautaro-Rijo-arquero-de-Miramar-uc881823) (Montevideo.com.uy)
 
 - [Luto en el fútbol uruguayo: falleció Lautaro Rijo, arquero de la sub-19 de Miramar](https://www.montevideo.com.uy/Deportes/Luto-en-el-futbol-uruguayo-fallecio-Lautaro-Rijo-arquero-de-la-sub-19-de-Miramar-uc881736) (Montevideo.com.uy)
 
@@ -4279,6 +4279,10 @@ Source: [News API](https://newsapi.org/)
 - [Bauchi Confirms Outbreak of Meningitis](https://allafrica.com/stories/202403040450.html) (AllAfrica - Top Africa News)
 
 ## 24-10 (measles)
+
+- [Second case of measles confirmed as chief medical officer warns of disease spread](https://www.irishtimes.com/health/2024/03/07/second-case-of-measles-confirmed-as-chief-medical-officer-warns-of-the-disease-spread/) (The Irish Times)
+
+- [Understanding the history of vaccine hesitancy and current mistrust in healthcare](https://www.bmj.com/content/384/bmj.q539) (The BMJ)
 
 - [Measles outbreak raises concerns about drop in vaccinations](https://www.pbs.org/newshour/show/measles-outbreak-raises-concerns-about-drop-in-vaccinations) (PBS)
 
@@ -4396,6 +4400,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-10 (malaria)
 
+- [New study finds the malaria parasite generates genetic diversity using an evolutionary 'copy-paste' tactic](https://phys.org/news/2024-03-malaria-parasite-generates-genetic-diversity.html) (Phys.Org)
+
+- [Health Ministry Turns to Drones in Service Delivery to 8 Counties](https://www.kenyans.co.ke/news/98384-health-ministry-turns-drones-service-delivery-8-counties) (Kenyans.co.ke)
+
+- [Role for gene conversion in the evolution of cell-surface antigens of the malaria parasite Plasmodium falciparum](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002507) (Plos.org)
+
 - [Africa: African Health Ministers Commit to End Malaria Deaths](https://allafrica.com/stories/202403070032.html) (AllAfrica - Top Africa News)
 
 - [African health ministers commit to end malaria deaths](https://www.who.int/news/item/06-03-2024-african-health-ministers-commit-to-end-malaria-deaths) (World Health Organization)
@@ -4413,6 +4423,26 @@ Source: [News API](https://newsapi.org/)
 - [Africa: Remembering the Legacy of Malaria-Fighting Trailblazer Kent Campbell](https://allafrica.com/stories/202403030068.html) (AllAfrica - Top Africa News)
 
 ## 24-10 (dengue)
+
+- [Dengue: São Paulo ultrapassa 160 mil casos e chega a 44 mortes](https://www.metropoles.com/sao-paulo/dengue-sp-160-mil-casos-e-44-mortes) (Metropoles.com)
+
+- [Anvisa vai priorizar regulamentação de testes para diagnóstico de dengue](https://www.terra.com.br/vida-e-estilo/saude/anvisa-vai-priorizar-regulamentacao-de-testes-para-diagnostico-de-dengue,fcfa9f096528ab6f5b4cd5f903192e4441r7t17w.html) (Terra.com.br)
+
+- [La capital argentina se encuentra en un brote epidémico de dengue](https://sputniknews.lat/20240307/la-capital-argentina-se-encuentra-en-un-brote-epidemico-de-dengue-1148790813.html) (Sputniknews.lat)
+
+- [Dengue: conheça soluções tecnológicas de repelente contra o mosquito | Detetive TC](https://www.tudocelular.com/tech/noticias/n218658/dengue-solucoes-tecnologicas-repelente-mosquito.html) (Tudocelular.com)
+
+- [SP registra mais 6 mortes por dengue e chega a 44](https://jornaldebrasilia.com.br/noticias/brasil/sp-registra-mais-6-mortes-por-dengue-e-chega-a-44/) (Jornaldebrasilia.com.br)
+
+- [Aparecida (GO) espera recolher 12 mil pneus em mutirão contra a dengue](https://www.metropoles.com/brasil/aparecida-go-espera-recolher-12-mil-pneus-em-mutirao-contra-a-dengue) (Metropoles.com)
+
+- [PCDF prende funcionários do Iges por furto e venda de exames da dengue](https://www.metropoles.com/distrito-federal/na-mira/pcdf-prende-funcionarios-do-iges-por-furto-e-venda-de-exames-da-dengue) (Metropoles.com)
+
+- [Ministério da Saúde estuda limitar emendas parlamentares contra dengue](https://www.metropoles.com/colunas/guilherme-amado/ministerio-da-saude-estuda-limitar-emendas-parlamentares-contra-dengue) (Metropoles.com)
+
+- [Roupa Repelente: Pra se proteger da Dengue com estilo](https://modaparahomens.com.br/roupa-repelente-pra-se-proteger-da-dengue-com-estilo/) (Modaparahomens.com.br)
+
+- [Emergenza per la siccità nello Zambia](https://www.internazionale.it/magazine/2024/03/07/emergenza-per-la-siccita-nello-zambia) (Internazionale.it)
 
 - [Dengue: atividade com Exército será realizada nesta quinta-feira em Porto Alegre](https://www.terra.com.br/noticias/dengue-atividade-com-exercito-sera-realizada-nesta-quinta-feira-em-porto-alegre,0abdd3ab90556f00becb3a4d915b6f19q02wxjtk.html) (Terra.com.br)
 
@@ -4641,6 +4671,8 @@ Source: [News API](https://newsapi.org/)
 - [Governo fará vacinação nas escolas a partir de março, diz ministra da Saúde](https://www.terra.com.br/vida-e-estilo/saude/governo-fara-vacinacao-nas-escolas-a-partir-de-marco-diz-ministra-da-saude,10e10e781ee3bfc5da2f7da4245dd845hpucp7zp.html) (Terra.com.br)
 
 ## 24-10 (chikungunya)
+
+- [Aparecida (GO) espera recolher 12 mil pneus em mutirão contra a dengue](https://www.metropoles.com/brasil/aparecida-go-espera-recolher-12-mil-pneus-em-mutirao-contra-a-dengue) (Metropoles.com)
 
 - [Repelente caseiro: 7 misturinhas e cheiros para manter os mosquitos longe da sua casa](https://delas.ig.com.br/parceiros/selecoes/2024-03-04/repelente-caseiro--7-misturinhas-e-cheiros-para-manter-os-mosquitos-longe-da-sua-casa.html) (Ig.com.br)
 
