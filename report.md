@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2024-03-09 07:05
-- **Most recent article:** 2024-03-08 06:29:14
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-03-09 19:05
+- **Most recent article:** 2024-03-08 18:57:43
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-4 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 132 | 123 | 173 | 216 | 191 | 188 | 207 | 1230 |
-| measles | 71 | 56 | 47 | 68 | 45 | 100 | 80 | 467 |
-| malaria | 11 | 86 | 25 | 35 | 19 | 33 | 17 | 226 |
+| dengue | 143 | 116 | 173 | 216 | 191 | 188 | 207 | 1234 |
+| measles | 80 | 54 | 47 | 68 | 45 | 100 | 80 | 474 |
+| malaria | 12 | 85 | 25 | 35 | 19 | 33 | 17 | 226 |
 | chikungunya | 5 | 10 | 10 | 12 | 8 | 14 | 16 | 75 |
-| zika | 13 | 7 | 8 | 13 | 6 | 13 | 11 | 71 |
+| zika | 13 | 6 | 8 | 13 | 6 | 13 | 11 | 70 |
 | rabies | 5 | 9 | 7 | 7 | 9 | 5 | 8 | 50 |
-| meningitis | 14 | 1 | 3 | 8 | 8 | 7 | 4 | 45 |
+| meningitis | 16 | 1 | 3 | 8 | 8 | 7 | 4 | 47 |
 | sarampión | 2 | 1 | 6 | 5 | 4 | 11 | 5 | 34 |
 | mpox | 4 | 4 | 3 | 5 | 8 | 6 | 1 | 31 |
 | pertussis | 4 | 2 | 3 | 2 | 6 | 0 | 4 | 21 |
@@ -3590,8 +3590,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Le virus Zika démontre son efficacité pour éradiquer... certains cancers](https://www.techno-science.net/actualite/virus-zika-demontre-son-efficacite-eradiquer-certains-cancers-N24346.html) (Techno-science.net)
 
-- [Szenzációs felfedezés: megtalálhatták a rák ellenszerét](https://www.origo.hu/tudomany/20240116-uj-es-rendkivul-hatekony-rakellenes-eszkoz-kerulhet-hamarosan-az-orvostudomany-kezebe.html) (Origo.hu)
-
 ## 24-4 (yersinia)
 
 - [Type 3 secretion system induced leukotriene B4 synthesis by leukocytes is actively inhibited by Yersinia pestis to evade early immune recognition](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011280) (Plos.org)
@@ -3757,10 +3755,6 @@ Source: [News API](https://newsapi.org/)
 - [Birmingham Children's Hospital isolating measles patients](https://www.bbc.co.uk/news/uk-england-birmingham-68058328) (BBC News)
 
 - [Parents urged to book missed MMR vaccines amid 'very real risk' of measles outbreaks](https://news.sky.com/story/measles-parents-urged-to-book-missed-mmr-vaccines-amid-very-real-risk-of-outbreaks-13053780) (Sky.com)
-
-- [Not one case of measles in Scotland for three years, 95% vaccination and the Herald’s health correspondent tries to suggest it’s like the West Midlands here too](https://talkingupscotlandtwo.com/2024/01/21/not-one-case-of-measles-in-scotland-for-three-years-95-vaccination-and-the-heralds-health-correspondent-tries-to-suggest-its-like-the-west-midlands-here-too/) (Talkingupscotlandtwo.com)
-
-- [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
 
@@ -3933,8 +3927,6 @@ Source: [News API](https://newsapi.org/)
 - [El hallazgo casual de un laboratorio español que puede acabar con una enfermedad letal](https://www.elconfidencial.com/tecnologia/ciencia/2024-01-22/malaria-hallazgo-casual-laboratorio-espanol-enfermedad_3814406/) (Elconfidencial.com)
 
 - [Nigeria must intensify malaria eradication](https://punchng.com/nigeria-must-intensify-malaria-eradication/) (The Punch)
-
-- [Malaria: "Die Impfskepsis ist aktuell unsere größte Herausforderung"](https://www.sueddeutsche.de/politik/malaria-impfstoff-afrika-interview-1.6333566) (Süddeutsche Zeitung)
 
 ## 24-4 (dengue)
 
@@ -4170,20 +4162,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Primeiras doses da vacina contra a dengue chegam ao Brasil; saiba como funcionará a imunização](https://www.terra.com.br/vida-e-estilo/saude/primeiras-doses-da-vacina-contra-a-dengue-chegam-ao-brasil-saiba-como-funcionara-a-imunizacao,bcecbfe9d0391fd083d02586a5713b37azhw766w.html) (Terra.com.br)
 
-- [Brasil recibe primer lote de vacunas contra dengue en medio de un brote de la enfermedad](https://www.montevideo.com.uy/Salud/Brasil-recibe-primer-lote-de-vacunas-contra-dengue-en-medio-de-un-brote-de-la-enfermedad-uc877328) (Montevideo.com.uy)
-
-- [Brasil recebe as primeiras doses de vacina contra a dengue](https://valor.globo.com/brasil/noticia/2024/01/21/brasil-recebe-as-primeiras-doses-de-vacina-contra-a-dengue.ghtml) (Globo)
-
-- [Brasil recebe primeiras doses de vacina contra a dengue](https://veja.abril.com.br/saude/brasil-recebe-primeiras-doses-de-vacina-contra-a-dengue) (Abril.com.br)
-
-- [Vacina contra a dengue: 750 mil doses chegam ao Brasil](https://olhardigital.com.br/2024/01/21/medicina-e-saude/vacina-contra-a-dengue-750-mil-doses-chegam-ao-brasil/) (Olhardigital.com.br)
-
-- [Primeiras doses de vacina contra a dengue chegam ao Brasil](https://www.metropoles.com/brasil/primeiras-doses-de-vacina-contra-a-dengue-chegam-ao-brasil) (Metropoles.com)
-
-- [Primeiras doses da vacina contra dengue chegam ao Brasil](https://noticias.r7.com/saude/primeiras-doses-da-vacina-contra-dengue-chegam-ao-brasil-21012024) (R7.com)
-
-- [Número de casos de dengue pode chegar a 5 milhões em 2024](https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html) (Ig.com.br)
-
 ## 24-4 (chikungunya)
 
 - [Dengue e chikungunya levam Minas Gerais a decretar emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/01/27/dengue-e-chikungunya-levam-minas-gerais-a-decretar-emergencia.ghtml) (Globo)
@@ -4278,6 +4256,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-10 (meningitis)
 
+- [Sanidad vacunará de herpes zóster a personas de 80 años y de meningitis a niños de 4 meses](https://www.europapress.es/castilla-y-leon/noticia-sanidad-vacuna-herpes-zoster-personas-80-anos-meningitis-ninos-meses-20240308112559.html) (Europapress.es)
+
+- [This disease is spiking in an Ontario city. But there's a vaccine — if you can afford it](https://www.cbc.ca/news/health/meningitis-vaccine-kids-1.7135194) (CBC News)
+
 - [Nigeria receives new meningitis vaccine as Yobe, others battle outbreak](https://punchng.com/nigeria-receives-new-meningitis-vaccine-as-yobe-others-battle-outbreak/) (The Punch)
 
 - [Awesome Fan Made ‘Pet Sematary’ Figure Captures the Nightmare Inducing Terror of Zelda](https://bloody-disgusting.com/toys/3802869/awesome-fan-made-pet-sematary-figure-captures-the-nightmare-inducing-terror-of-zelda/) (Bloody Disgusting)
@@ -4307,6 +4289,24 @@ Source: [News API](https://newsapi.org/)
 - [Bauchi Confirms Outbreak of Meningitis](https://allafrica.com/stories/202403040450.html) (AllAfrica - Top Africa News)
 
 ## 24-10 (measles)
+
+- [Chicago confirms two cases of measles after city resident and migrant child diagnosed](https://www.nbcnews.com/news/us-news/chicago-confirms-two-cases-measles-city-resident-migrant-child-diagnos-rcna142505) (NBC News)
+
+- [Measles case reported at city’s largest migrant shelter](http://www.chicagotribune.com/2024/03/08/measles-case-reported-at-citys-largest-migrant-shelter/) (Chicago Tribune)
+
+- [Chicago reports first measles cases since 2019 amid rising infections across US](https://abcnews.go.com/Health/chicago-reports-measles-cases-2019-amid-rising-infections/story?id=107919862) (ABC News)
+
+- [Measles Is Deadly And Highly Contagious But Also Easily Preventable](https://www.discovermagazine.com/health/measles-is-deadly-and-highly-contagious-but-also-easily-preventable) (Discover Magazine)
+
+- [Friday, March 8, 2024](https://kffhealthnews.org/morning-briefing/friday-march-8-2024/) (Kffhealthnews.org)
+
+- [India Gets Prestigious Global Award For Efforts To Combat Measles, Rubella](https://www.ndtv.com/india-news/india-gets-prestigious-global-award-for-efforts-to-combat-measles-rubella-5199993) (NDTV News)
+
+- [2nd case of measles identified in Chicago](http://www.nbcchicago.com/news/local/2nd-case-of-measles-identified-in-chicago/3377254/) (NBC Chicago)
+
+- [Measles in Chicago: Child diagnosed at Pilsen migrant shelter, Chicago Department of Public Health says](https://abc7chicago.com/measles-in-chicago-pilsen-migrant-shelter-symptoms-how-long-does-vaccine-last/14503090/) (WLS-TV)
+
+- [India bags prestigious award for efforts to combat measles, rubella](https://economictimes.indiatimes.com/news/india/india-bags-prestigious-award-for-efforts-to-combat-measles-rubella/articleshow/108326323.cms) (The Times of India)
 
 - [Is that rash caused by chickenpox or measles?](https://www.thestar.com.my/lifestyle/health/positive-parenting/2024/03/08/is-that-rash-caused-by-chickenpox-or-measles) (The Star Online)
 
@@ -4452,6 +4452,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-10 (malaria)
 
+- [Africa Accounts for 95 Percent of Malaria Deaths Globally - WHO](https://allafrica.com/stories/202403080434.html) (AllAfrica - Top Africa News)
+
 - [New study finds the malaria parasite generates genetic diversity using an evolutionary 'copy-paste' tactic](https://phys.org/news/2024-03-malaria-parasite-generates-genetic-diversity.html) (Phys.Org)
 
 - [Health Ministry Turns to Drones in Service Delivery to 8 Counties](https://www.kenyans.co.ke/news/98384-health-ministry-turns-drones-service-delivery-8-counties) (Kenyans.co.ke)
@@ -4475,6 +4477,28 @@ Source: [News API](https://newsapi.org/)
 - [Africa: Remembering the Legacy of Malaria-Fighting Trailblazer Kent Campbell](https://allafrica.com/stories/202403030068.html) (AllAfrica - Top Africa News)
 
 ## 24-10 (dengue)
+
+- [Dengue pode causar queda de cabelo? Entenda como doença afeta os fios](https://www.metropoles.com/saude/dengue-causa-queda-de-cabelo-entenda) (Metropoles.com)
+
+- [Anápolis realiza vacinação contra dengue em 5 UBSs neste sábado (9/3)](https://www.metropoles.com/brasil/anapolis-realiza-vacinacao-contra-dengue-em-5-ubss-neste-sabado-9-3) (Metropoles.com)
+
+- [Ministério da Saúde esclarece reações adversas após vacina da dengue](https://veja.abril.com.br/saude/ministerio-da-saude-esclarece-reacoes-adversas-apos-vacina-da-dengue) (Abril.com.br)
+
+- [Dengue: Saúde registra 529 notificações de eventos associados à vacina](https://jornaldebrasilia.com.br/noticias/brasil/dengue-saude-registra-529-notificacoes-de-eventos-associados-a-vacina/) (Jornaldebrasilia.com.br)
+
+- [Forecasting weekly dengue incidence in Sri Lanka: Modified Autoregressive Integrated Moving Average modeling approach](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299953) (Plos.org)
+
+- [Dengue: apenas 2 de cada 10 vacinas entregues pelo SUS foram aplicadas](https://jornaldebrasilia.com.br/noticias/saude/dengue-apenas-2-de-cada-10-vacinas-entregues-pelo-sus-foram-aplicadas/) (Jornaldebrasilia.com.br)
+
+- [Aedes aegypti: quanto tempo vive, hábitos de vida e reprodução](https://tecnologia.ig.com.br/parceiros/canaltech/2024-03-08/aedes-aegypti--quanto-tempo-vive--habitos-de-vida-e-reproducao.html) (Ig.com.br)
+
+- [Vacina da dengue causa reação alérgica em 70 pessoas](https://jornaldebrasilia.com.br/noticias/brasil/vacina-da-dengue-causa-reacao-alergica-em-70-pessoas/) (Jornaldebrasilia.com.br)
+
+- [First dengue bout can be as severe as secondary infection, India study finds](https://timesofindia.indiatimes.com/home/science/first-dengue-bout-can-be-as-severe-as-secondary-infection-india-study-finds/articleshow/108330870.cms) (The Times of India)
+
+- [A corrida 'urgente' para encontrar remédios efetivos contra a dengue](https://www.bbc.com/portuguese/articles/c876x3nj6r7o) (BBC News)
+
+- [Combate à dengue: sintomas e prevenção](https://saude.ig.com.br/colunas/drbacteria/2024-03-08/combate-a-dengue-sintomas-e-prevencao.html) (Ig.com.br)
 
 - [Dengue: TCDF cobra nomeação de agentes comunitários em meio à epidemia](https://www.metropoles.com/distrito-federal/dengue-tcdf-cobra-nomeacao-de-agentes-comunitarios-em-meio-a-epidemia) (Metropoles.com)
 
