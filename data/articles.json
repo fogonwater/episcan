@@ -1,8 +1,350 @@
 {
-  "last_updated": "2024-03-08 19:06",
-  "count_articles_total": 2151,
+  "last_updated": "2024-03-09 07:05",
+  "count_articles_total": 2186,
   "count_articles_new": 24,
   "articles": [
+    {
+      "id": 6602,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Datuk Dr Musa Mohd Nordin",
+      "title": "Is that rash caused by chickenpox or measles?",
+      "description": "These childhood infections can appear similar at first, but differentiating between them is important for appropriate care.",
+      "url": "https://www.thestar.com.my/lifestyle/health/positive-parenting/2024/03/08/is-that-rash-caused-by-chickenpox-or-measles",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/03/01/2570248.jpg",
+      "publishedAt": "2024-03-08 06:29:14",
+      "content": "Chickenpox and measles infections in children can look similar to one another, especially during the early phases of infection. This can make it difficult for parents to distinguish between the two \u2026 [+4614 chars]",
+      "retrievedAt": "2024-03-09 07:05:20.837218",
+      "internal_id": "7c26ec629025356d4ea495a13269f0e2318180fcf3451498248a732f3a079c44",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6608,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Dengue: TCDF cobra nomea\u00e7\u00e3o de agentes comunit\u00e1rios em meio \u00e0 epidemia",
+      "description": "O DF enfrenta uma explos\u00e3o de casos de dengue e um d\u00e9ficit de 3.167 agentes para conter a doen\u00e7a e reprodu\u00e7\u00e3o do mosquito Aedes aegypti",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-tcdf-cobra-nomeacao-de-agentes-comunitarios-em-meio-a-epidemia",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
+      "publishedAt": "2024-03-08 05:42:45",
+      "content": "O Distrito Federal deveria contar com 4.550 agentes para enfrentar a dengue, mas a Secretaria de Sa\u00fade tem apenas 1.383 profissionais efetivos. Diante do d\u00e9ficit, o Tribunal de Contas (TCDF) recomend\u2026 [+3541 chars]",
+      "retrievedAt": "2024-03-09 07:05:21.496143",
+      "internal_id": "7cf837715fe52fc688c410ee0f2a3d15cc0c00ea4aa13f137767644ddcd5176e",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6599,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLS-TV",
+      "author": "Abc 7 Chicago",
+      "title": "Chicago measles case confirmed, first since 2019; possible exposure at 2 locations at end of February, health officials say",
+      "description": "Chicago measles case confirmed, first since 2019; possible exposure at 2 locations at end of February, health officials sayabc7chicago.com",
+      "url": "https://abc7chicago.com/chicago-measles-symptoms-department-of-public-health-outbreak/14501879/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/5350047_MMRVaccine.jpg?w=1600",
+      "publishedAt": "2024-03-08 02:28:46",
+      "content": "CHICAGO (WLS) -- Chicago has confirmed its first measles case since 2019, and two locations of potential exposures. The Chicago Department of Public Health said the case is in a city resident, and t\u2026 [+2405 chars]",
+      "retrievedAt": "2024-03-09 07:05:20.819327",
+      "internal_id": "760ecf330457be0e5a8bdecbf895d83d27cc1fc3a9b5bf06e96f285924b41b02",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6616,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Nigeria receives new meningitis vaccine as Yobe, others battle outbreak",
+      "description": "Nigeria has become the first country to receive the new MenFive meningitis vaccine from the Vaccine Alliance-funded global stockpile, with a shipment delivered by the United Nations Children\u2019s Fund. This was disclosed in a press statement made available to ou\u2026",
+      "url": "https://punchng.com/nigeria-receives-new-meningitis-vaccine-as-yobe-others-battle-outbreak/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/05/04032844/Injection-RSV-vaccine.jpg",
+      "publishedAt": "2024-03-08 01:08:10",
+      "content": "Nigeria has become the first country to receive the new MenFive meningitis vaccine from the Vaccine Alliance-funded global stockpile, with a shipment delivered by the United Nations Childrens Fund. \u2026 [+2753 chars]",
+      "retrievedAt": "2024-03-09 07:05:21.952504",
+      "internal_id": "17b0f1ae85b03b5d2abeda46d2eddabd4e52f03dadb70a04500739630ebaeae6",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6617,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "U.S. Public Health Response to the Zika Virus: Continuing Challenges - 05/22/2017",
+      "description": "Testimony of Luciana Borio, M.D., FDA Acting Chief Scientist, before the Subcommittee on Oversight and Investigations, House Energy and Commerce Committee, May 23, 2017",
+      "url": "https://www.fda.gov/news-events/congressional-testimony/us-public-health-response-zika-virus-continuing-challenges-05222017",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2024-03-08 00:44:46",
+      "content": "Testimony of Luciana Borio, M.D.,FDA Acting Chief Scientist Before theUnited States House of RepresentativesCommittee on Energy and Commerce Subcommittee on Oversight and Investigations May 23, 201\u2026 [+17874 chars]",
+      "retrievedAt": "2024-03-09 07:05:22.594675",
+      "internal_id": "034f7756aa1d9710228aeefc713e62cac561528cc338792fc03e236c588bfcf1",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6598,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Winnipeg mom wants province to make it easier to access vaccine records amid measles uptick",
+      "description": "A Winnipeg woman who has been trying to access her children's vaccine records this week is hoping the province will make it easier for people to get that information as cases of measles pop up in Canada.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-woman-looking-for-vaccine-records-1.7137345",
+      "urlToImage": "https://i.cbc.ca/1.7137420.1709854205!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/crabb-measles-one.jpg",
+      "publishedAt": "2024-03-08 00:06:14",
+      "content": "A Winnipeg woman who has been trying to access her children's vaccine records this week is hoping the province will make it easier for people to get that information as cases of measles keep popping \u2026 [+3978 chars]",
+      "retrievedAt": "2024-03-09 07:05:20.794082",
+      "internal_id": "cb12d694ed46cf6c366add97e7eb7ff498f0bc125d1a74ac9632a5e97d66c5d0",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6596,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Chicago Tribune",
+      "author": "Caroline Kubzansky",
+      "title": "City detects first case of measles in Chicago in 5 years",
+      "description": "Chicago public health officials are investigating the first case of measles detected in the city since 2019, according to a Thursday announcement.",
+      "url": "http://www.chicagotribune.com/2024/03/07/city-detects-first-case-of-measles-in-chicago-in-5-years/",
+      "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/03/ctc-l-measlescase-CT0094733007.jpg?w=1024&h=616",
+      "publishedAt": "2024-03-07 23:55:02",
+      "content": "Chicago public health officials on Thursday said they had identified the first case of measles in the city since 2019 and urged city residents to make sure they were vaccinated against the disease. \u2026 [+1818 chars]",
+      "retrievedAt": "2024-03-09 07:05:20.759386",
+      "internal_id": "e7b318243250a1283c12c4755928bbdcfd996878d146065b64201c93500ec0e6",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6601,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Cbs Chicago Team",
+      "title": "Chicago reports first measles case since 2019",
+      "description": "Chicago reports first measles case since 2019cbsnews.com",
+      "url": "https://www.cbsnews.com/chicago/news/chicago-first-measles-case-since-2019/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/04/56bc74a6-8718-4f15-8218-b957dff754bd/thumbnail/1200x630/fe6af117fa40be0a0c4ca7527013ce0f/gettyimages-713781945.jpg?v=1aa56f6681ae17ea762db96c4c7bc003",
+      "publishedAt": "2024-03-07 23:49:00",
+      "content": "CHICAGO (CBS) ---A measles case was reported in Chicago for the first time in five years. The Chicago Department of Public Health warned individuals of a possible exposure. Anyone who may have visi\u2026 [+1832 chars]",
+      "retrievedAt": "2024-03-09 07:05:20.832115",
+      "internal_id": "185dfdc274c560c81edab662aad2a3e696df9e281c4d57e2221b6a6601a293dc",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6595,
+      "query": [
+        "measles"
+      ],
+      "source_id": "usa-today",
+      "source_name": "USA Today",
+      "author": "Mary Walrath-Holdridge and Janet Loehrke, USA TODAY",
+      "title": "Measles cases continue to appear across US; Map shows 16 states with infections reported",
+      "description": "Seven additional states have reported measles cases since the CDC issued an emergency warning at the end of January.",
+      "url": "https://www.usatoday.com/story/news/health/2024/03/07/map-measles-outbreak-16-states/72880078007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WBOEOlsPGtolWs4990LCnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzI-/https://media.zenfs.com/en/usa_today_news_641/756a3b4e95c59a7a59e401f87563a618",
+      "publishedAt": "2024-03-07 23:06:45",
+      "content": "Cases of measles have continued to crop up in states across the U.S. since a handful of infections were reported at the beginning of the year. The Centers for Disease Control and Prevention first is\u2026 [+4247 chars]",
+      "retrievedAt": "2024-03-09 07:05:20.734946",
+      "internal_id": "750286ea8180f4a2fe352fdbd9a19ef3ab60701c7f8885109b0d39c072a4208b",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6594,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "BMC says 30,000 dogs vaccinated",
+      "description": "The BMC has completed the vaccination of 26,951 dogs in Mumbai under the pulse anti-rabies vaccination drive. Read more to know about the campaign and its impact on preventing the transmission of the disease to humans.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/bmc-completes-vaccination-of-26951-dogs-in-mumbai/articleshow/108311889.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-07 23:04:52",
+      "content": "From Trisha's curly locks to Samantha's short hairdo: Stunning hairstyles inspired by South Indian actresses",
+      "retrievedAt": "2024-03-09 07:05:20.304433",
+      "internal_id": "b0d7a5200a79919fca0f9d6b537c7a098a8a42a924c26476301aeddaa00b563f",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6597,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Montreal Public Health launches measles immunization campaign in schools",
+      "description": "Neither students nor staff are required to be vaccinated in Quebec, but those who are unvaccinated could be forced to stay home for weeks at a time if infection is detected in the school.",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-measles-vaccination-1.7137306",
+      "urlToImage": "https://i.cbc.ca/1.5565521.1709851049!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/school.jpg",
+      "publishedAt": "2024-03-07 22:58:39",
+      "content": "Montreal Public Health is launching a measles vaccination campaign in select schools next week after nine cases were detected in the city. Neither students nor staff are required to be vaccinated in\u2026 [+3264 chars]",
+      "retrievedAt": "2024-03-09 07:05:20.779676",
+      "internal_id": "2981c69ab842c6ff5f27eb7c32d3be4b87978083ea8f7ecff0403ef6db4a9c91",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6604,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC Chicago",
+      "author": "Nbc Chicago Staff",
+      "title": "Measles case confirmed in Chicago resident, health officials say",
+      "description": "The Chicago Department of Public Health has confirmed a case of measles in a city resident for the first time since 2019.",
+      "url": "http://www.nbcchicago.com/news/local/chicago-health-officials-confirm-case-of-measles-in-city-resident/3376675/",
+      "urlToImage": "https://media.nbcchicago.com/2019/09/generic-measles.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2024-03-07 22:47:40",
+      "content": "The Chicago Department of Public Health has confirmed a case of measles in a city resident for the first time since 2019. According to officials, the source of the individual's infection is unknown \u2026 [+2027 chars]",
+      "retrievedAt": "2024-03-09 07:05:20.845522",
+      "internal_id": "49a69fca9f6386ac57e5f2db56bffef79482f3f4150f7cf1902bbe02da73b14c",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6600,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Block Club Chicago",
+      "author": "Kelly Bauer",
+      "title": "Measles Case Found In Chicago For First Time Since 2019",
+      "description": "Measles is highly contagious and can be dangerous for unvaccinated people, particularly babies and young children, according to the health department.",
+      "url": "http://blockclubchicago.org/2024/03/07/measles-case-found-in-chicago-for-first-time-since-2019/",
+      "urlToImage": "https://bcc-newspack.s3.amazonaws.com/uploads/2021/01/133192977_4901929279879999_5059867524220580528_o.jpg",
+      "publishedAt": "2024-03-07 22:43:30",
+      "content": "CHICAGO The city\u2019s health department has found a confirmed case of measles in a Chicago resident, it announced Thursday. The case marks the first time Chicago has found measles in a resident since 2\u2026 [+1916 chars]",
+      "retrievedAt": "2024-03-09 07:05:20.827230",
+      "internal_id": "6ddf9cce9be02dc3e0420f35a76cc5de9fec65418906aa4b4c955d4b754da36f",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6603,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 32 Chicago",
+      "author": "Fox 32 Chicago",
+      "title": "First case of measles reported in Chicago since 2019: health officials",
+      "description": "A positive case of measles has been reported in Chicago \u2013 the first since 2019, according to the Chicago Dept. of Public Health.",
+      "url": "https://www.fox32chicago.com/news/first-case-of-measles-reported-in-chicago-since-2019-health-officials",
+      "urlToImage": "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2024/02/1280/720/C68799D14FF93FF579679FC4D831D39F.jpg?ve=1&tl=1",
+      "publishedAt": "2024-03-07 22:33:04",
+      "content": "CHICAGO - A positive case of measles has been reported in Chicago \u2013 the first since 2019, according to the Chicago Dept. of Public Health. The case was reported by health officials on Thursday, but\u2026 [+2162 chars]",
+      "retrievedAt": "2024-03-09 07:05:20.841538",
+      "internal_id": "c77d7f0d13841572d602ad342bf102580170a8d1495fd73e1fa0b9f68eabf82d",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6605,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 32 Chicago",
+      "author": "Elizabeth Matthews",
+      "title": "Chicago migrant diagnosed with measles among city's first 2 cases since 2019",
+      "description": "Two cases of measles have been reported in Chicago this week, including a young child staying at a Pilsen migrant shelter, the city's first cases in five years, according to the Department of Public Health.",
+      "url": "https://www.fox32chicago.com/news/measles-chicago-migrant-shelter",
+      "urlToImage": "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2024/02/1280/720/C68799D14FF93FF579679FC4D831D39F.jpg?ve=1&tl=1",
+      "publishedAt": "2024-03-07 22:30:02",
+      "content": "CHICAGO - Two cases of measles have been reported in Chicago this week, including a young child staying at a Pilsen migrant shelter, the city's first cases in five years, according to the Department \u2026 [+4460 chars]",
+      "retrievedAt": "2024-03-09 07:05:20.849727",
+      "internal_id": "6bc44ded90aac3e0250039dab0e8d5fd578483072dcbb1525102a5ba7600332b",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6612,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "AFP",
+      "title": "Guatemala declara alerta por dengue al sumar tres muertos y 7.000 casos en 2024",
+      "description": "La incidencia mundial del dengue experiment\u00f3 un notable crecimiento en las \u00faltimas dos d\u00e9cadas, siendo Am\u00e9rica Latina la regi\u00f3n que concentra el 80% de los casos a nivel mundial.",
+      "url": "https://www.nacion.com/el-mundo/interes-humano/guatemala-declara-alerta-por-dengue-al-sumar-tres/HJK55KWF4JBLNNJQIDREJ3LF4I/story/",
+      "urlToImage": "https://www.nacion.com/resizer/XqUFisK6fsHgIMNp5x14BSd482c=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/DIQGYZ4B7VFINL72JUC54BH6Z4.jpg",
+      "publishedAt": "2024-03-07 21:15:00",
+      "content": "Ciudad de Guatemala. El gobierno de Guatemala anunci\u00f3 este jueves una alerta epidemiol\u00f3gica nacional con el prop\u00f3sito de prevenir el dengue, enfermedad que caus\u00f3 tres decesos y cerca de 7.000 casos e\u2026 [+1644 chars]",
+      "retrievedAt": "2024-03-09 07:05:21.604069",
+      "internal_id": "0b7ecd1348a464a6ebe292890bafe9e15031074cfd20166f50ad2c2d2bc0af00",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6609,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Dengue en Uruguay: hay cuatro casos nuevos, importados de Brasil y Argentina, seg\u00fan MSP",
+      "description": "En total son 46 los contagios de la enfermedad transmitida por el mosquito Aedes aegypti, tres de ellos aut\u00f3ctonos.",
+      "url": "https://www.montevideo.com.uy/Salud/Dengue-en-Uruguay-hay-cuatro-casos-nuevos-importados-de-Brasil-y-Argentina-segun-MSP-uc881896",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201602/_W933_80/547171.jpg",
+      "publishedAt": "2024-03-07 20:47:00",
+      "content": "Montevideo Portal El Ministerio de Salud P\u00fablica (MSP) actualiz\u00f3 los datos de arbovirosis (enfermedades que se transmiten a trav\u00e9s de la picadura de un mosquito) en Uruguay. En tal sentido, la c\u2026 [+1592 chars]",
+      "retrievedAt": "2024-03-09 07:05:21.540867",
+      "internal_id": "0ff9dfc2a8402086488480f9725752a2785204d489f952c676f677c3553f6092",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6615,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: Guarulhos chega a 5 \u00f3bitos e se torna a cidade com mais mortes",
+      "description": "Foram 8.270 casos registrados pelo munic\u00edpio e 5 mortes registradas desde o in\u00edcio de 2024; cidade declarou estado de emerg\u00eancia",
+      "url": "https://saude.ig.com.br/2024-03-07/guarulhos-vitimas-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
+      "publishedAt": "2024-03-07 20:17:03",
+      "content": "De acordo com a Secretaria Estadual de Sa\u00fade (SES), a cidade de Guarulhos, localizada na metr\u00f3pole paulista, registrou sua quinta morte por dengue nesta quinta-feira (7). Com este registro, o mun\u00edc\u2026 [+1156 chars]",
+      "retrievedAt": "2024-03-09 07:05:21.624997",
+      "internal_id": "43183d9938f0840398db12cf14014d1df5a0a1a2db55afe81427c9697c37ffbd",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6607,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Com 5 mortes, Guarulhos \u00e9 a cidade paulista com mais v\u00edtimas da dengue",
+      "description": "Guarulhos registra 8.270 casos de dengue e 5 mortes pela doen\u00e7a desde o in\u00edcio do ano; cidade vive epidemia e decretou estado de emerg\u00eancia",
+      "url": "https://www.metropoles.com/sao-paulo/guarulhos-cidade-mais-vitimas-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/07161257/saude-guarulhos.jpg",
+      "publishedAt": "2024-03-07 19:20:43",
+      "content": "S\u00e3o Paulo A cidade de Guarulhos, na regi\u00e3o metropolitana de S\u00e3o Paulo, registrou a quinta morte por dengue nesta quinta-feira (7/3), segundo os dados da Secretaria Estadual de Sa\u00fade (SES), e se torno\u2026 [+6991 chars]",
+      "retrievedAt": "2024-03-09 07:05:21.448457",
+      "internal_id": "34ded4ef97852e5634121550beeead597afb05d94eab7b4a67ee6e063cd1ced5",
+      "publishedAtLabel": "Mar 7"
+    },
     {
       "id": 6589,
       "query": [
@@ -73,6 +415,24 @@
       "content": "Suscr\u00edbete a nuestros canales de Telegram a trav\u00e9s de estosenlaces. Ya que la aplicaci\u00f3n Sputnik est\u00e1 bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo m\u00f3v\u2026 [+78 chars]",
       "retrievedAt": "2024-03-08 19:06:08.661976",
       "internal_id": "daeca7d6a84097ea6af741a6163e726d9c09113efddd43d008458c424ca1d2bf",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6610,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "EdiCase, EdiCase",
+      "title": "Veja por que a dengue \u00e9 mais perigosa para os idosos",
+      "description": "Alguns cuidados s\u00e3o fundamentais para garantir a seguran\u00e7a de pessoas com mais de 60 anos",
+      "url": "https://saude.ig.com.br/parceiros/edicase/2024-03-07/veja-por-que-a-dengue-e-mais-perigosa-para-os-idosos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8v/8g/qf/8v8gqf1867mhrts6hd7dmclox.jpg",
+      "publishedAt": "2024-03-07 17:45:18",
+      "content": "Mais propensos a comorbidades e com a imunidade fragilizada, pessoas com 60 anos ou mais t\u00eam maior probabilidade de apresentar a forma mais grave de dengue. Mesmo que apenas 11% dos casos registrados\u2026 [+2416 chars]",
+      "retrievedAt": "2024-03-09 07:05:21.595536",
+      "internal_id": "6c4819bad7aecb3745ec411e462232f2e72b8146d2349aca1c5bd2fc5241d190",
       "publishedAtLabel": "Mar 7"
     },
     {
@@ -201,6 +561,42 @@
       "content": "A second case of measles in the State this year has been confirmed. A teenager in the west of Ireland was diagnosed with the contagious disease on Wednesday. The only other confirmed case of measle\u2026 [+2330 chars]",
       "retrievedAt": "2024-03-08 19:06:07.686246",
       "internal_id": "381e910b1e0739e9fee856cde74fb4a81019093e2c0eaf43837641ce999a75b2",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6613,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Vacina\u00e7\u00e3o contra a dengue no Rio chega \u00e0 faixa de 13 e 14 anos",
+      "description": "Meta da prefeitura \u00e9 imunizar 345 mil jovens",
+      "url": "https://saude.ig.com.br/2024-03-07/vacinacao-contra-dengue-rio-13-e-14-anos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/1u/kn/t2/1uknt284pl7tmgaz166r4eyhi.jpg",
+      "publishedAt": "2024-03-07 14:36:28",
+      "content": "A cidade do Rio de Janeiro come\u00e7ou, nesta quinta-feira (7), a vacina\u00e7\u00e3o contra a dengue em jovens de 13 a 14 anos. Dessa forma, toda a faixa et\u00e1ria de 10 a 14 anos est\u00e1 coberta pela campanha de vacin\u2026 [+3237 chars]",
+      "retrievedAt": "2024-03-09 07:05:21.611440",
+      "internal_id": "a4a1375b6387a6afaa53bf57aa29ee9017f735bacd7f6f0868bf50b5895aad35",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6611,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Anvisa priorizar\u00e1 registro de dispositivos para diagn\u00f3stico de dengue",
+      "description": "Objetivo \u00e9 permitir resposta mais r\u00e1pida no controle da epidemia",
+      "url": "https://saude.ig.com.br/2024-03-07/anvisa-priorizara-registro-de-dispositivos-para-diagnostico-de-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-03-07 14:28:43",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) vai priorizar, em car\u00e1ter de urg\u00eancia, todos os pedidos de registro de dispositivos destinados ao diagn\u00f3stico da dengue. A decis\u00e3o foi tomada duran\u2026 [+741 chars]",
+      "retrievedAt": "2024-03-09 07:05:21.599752",
+      "internal_id": "f04cdcd1df3fed73c0897c89eb8a50a00e5cc4c17e3d484ea02b37b7fed52e96",
       "publishedAtLabel": "Mar 7"
     },
     {
@@ -420,6 +816,24 @@
       "publishedAtLabel": "Mar 7"
     },
     {
+      "id": 6614,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "marialuizadourado",
+      "title": "Vacina da dengue acabou? Casos disparam no pa\u00eds e oferta cai na rede privada",
+      "description": "Crian\u00e7as de 10 a 14 anos podem tomar a vacina pelo SUS, a depender do estado The post Vacina da dengue acabou? Casos disparam no pa\u00eds e oferta cai na rede privada appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/consumo/vacina-da-dengue-acabou-casos-disparam-no-pais-e-oferta-cai-na-rede-privada/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/03/Qdenga-Takeda-vacina-dengue.png?fit=1170%2C700&quality=70&strip=all",
+      "publishedAt": "2024-03-07 09:12:00",
+      "content": "A disparada nos casos de dengue no Brasil, que j\u00e1 ultrapassaram um milh\u00e3o, preocupa a popula\u00e7\u00e3o brasileira, que tem buscado a imuniza\u00e7\u00e3o como forma de se proteger da doen\u00e7a transmitida pela picada do\u2026 [+4712 chars]",
+      "retrievedAt": "2024-03-09 07:05:21.615229",
+      "internal_id": "6dbf4c47f1d280c4618d57679610a27d122fd9a55eaea432818dc5fb94886bea",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
       "id": 6592,
       "query": [
         "zika"
@@ -435,6 +849,24 @@
       "content": "Los repelentes de insectos para uso personal son productos que se aplican sobre las diversas zonas de la piel expuesta con el fin de protegerla contra las picaduras de los insectos. Este tipo de comp\u2026 [+2987 chars]",
       "retrievedAt": "2024-03-08 19:06:09.741642",
       "internal_id": "31d51a24d7ef5b101c7c2b7bb173a1599cbbb79382fbc50a8d89bccaed201803",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6606,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Hawaii News Now",
+      "author": "Mark Carpenter",
+      "title": "Hawaii doctors urged to be on alert for measles amid spike in cases nationally",
+      "description": "No outbreaks have been reported in Hawaii, but the DOH is warning physicians to be on the lookout.",
+      "url": "https://www.hawaiinewsnow.com/2024/03/07/hawaii-doctors-urged-be-alert-measles-amid-spike-cases-nationally/",
+      "urlToImage": "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/v2/N2KPKDA7VFB7BC7JLBV2MOILI4.jpg?auth=726c82983e781fdfda90a4d12e88529176bd2a5ebc28f2dffa2d9de3c0f162b7&width=1200&height=600&smart=true",
+      "publishedAt": "2024-03-07 08:13:28",
+      "content": "HONOLULU (HawaiiNewsNow) - Amid a rise in measles cases across the country, the state Department of Health has issued an alert for Hawaii residents. The Centers for Disease Control and Prevention is\u2026 [+867 chars]",
+      "retrievedAt": "2024-03-09 07:05:20.857022",
+      "internal_id": "b38df33bb31a8320e74baa8c2917fe20b1ef14baf40479398fabe60a7e8d6fca",
       "publishedAtLabel": "Mar 7"
     },
     {
@@ -38807,6 +39239,204 @@
       "content": "Chegaram ao Brasil neste s\u00e1bado, 20, as primeiras doses davacina contra a dengue fornecida pela farmac\u00eautica japonesa Takeda, sem cobran\u00e7a, ao Minist\u00e9rio da Sa\u00fade. S\u00e3o cerca de 750 mil doses nesta pr\u2026 [+2296 chars]",
       "retrievedAt": "2024-01-23 07:06:02.774584",
       "internal_id": "992d058ddd64379d3766be71a926cf3d75e22bedc68cb6322a0451b61d8d6c43",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4436,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Brasil recibe primer lote de vacunas contra dengue en medio de un brote de la enfermedad",
+      "description": "El pa\u00eds fue uno de los primeros en incluir el tratamiento en su campa\u00f1a p\u00fablica y gratuita y comenzar\u00e1 a distribuirla este a\u00f1o.",
+      "url": "https://www.montevideo.com.uy/Salud/Brasil-recibe-primer-lote-de-vacunas-contra-dengue-en-medio-de-un-brote-de-la-enfermedad-uc877328",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202304/_W933_80/841257.jpg",
+      "publishedAt": "2024-01-21 18:40:00",
+      "content": "Brasil recibi\u00f3 el s\u00e1bado un lote de 750.000 dosis de la vacuna Qdenga contra el dengue donado por el laboratorio japon\u00e9s Takeda Pharma y que le permitir\u00e1 anticipar su campa\u00f1a de inmunizaci\u00f3n en me\u2026 [+2457 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.759941",
+      "internal_id": "fe55ecbac51c5cc53bd6022ab73c190ed027ad6f1e071d37f1e0cccdfbd6fcef",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4439,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Brasil recebe as primeiras doses de vacina contra a dengue",
+      "description": "Remessa faz parte de um total de 1,32 milh\u00e3o de doses da vacina fornecidas pela farmac\u00eautica Takeda",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/21/brasil-recebe-as-primeiras-doses-de-vacina-contra-a-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/TFUcG3BEqqNxmL-kxr_pBmDCBLE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/A/q/MCF62aR16vEWAloxviAw/caixa-da-vacina-contra-a-dengue-do-laboratorio-takeda-qdenda-marcia-almeida-valor.jpeg",
+      "publishedAt": "2024-01-21 18:18:05",
+      "content": "Por Juliana Schincariol, Valor \u2014 Rio 21/01/2024 15h18 Atualizado 21/01/2024",
+      "retrievedAt": "2024-01-22 19:05:36.816179",
+      "internal_id": "e086d184a7acd803ae3df5d77cd47b33e46487509dfe71b5f0bb45eff860f536",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4434,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Ricardo Chapola",
+      "title": "Brasil recebe primeiras doses de vacina contra a dengue",
+      "description": "Primeira parte do lote ser\u00e1 destinada a crian\u00e7as e adolescentes de 10 a 14 anos que moram em cidades com mais de 100 mil habitantes",
+      "url": "https://veja.abril.com.br/saude/brasil-recebe-primeiras-doses-de-vacina-contra-a-dengue",
+      "urlToImage": "",
+      "publishedAt": "2024-01-21 18:10:43",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade Por Da Reda\u00e7\u00e3o 21 jan 2024, 15h10 QDENGA - Governo comprou mais de 5 milh\u00f5es de doses que ser\u00e3o entregues em etapas (Reprodu\u00e7\u00e3o/Reprodu\u00e7\u00e3o\u2026 [+2175 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.727485",
+      "internal_id": "df4de5a7202059b6f00228f19dc63d409a0d0952ac935745a77a84716e1dc28f",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4440,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Paul Munzinger, Kapstadt",
+      "title": "Malaria: \"Die Impfskepsis ist aktuell unsere gr\u00f6\u00dfte Herausforderung\"",
+      "description": "Erstmals k\u00f6nnen Millionen Kinder in Afrika gegen Malaria geimpft werden - doch Klimaver\u00e4nderungen erschweren den Kampf gegen die Krankheit. Die kamerunische Immunologin Rose Leke \u00fcber unberechenbaren Regen und die Macht von Ger\u00fcchten.",
+      "url": "https://www.sueddeutsche.de/politik/malaria-impfstoff-afrika-interview-1.6333566",
+      "urlToImage": "https://www.sueddeutsche.de/image/sz.1.6333568/1200x675?v=1705839531",
+      "publishedAt": "2024-01-21 16:59:41",
+      "content": "21. Januar 2024, 17:59 Uhr Pilotprojekte in Ghana, Malawi und Kenia: Nach der Malaria-Impfung wird dieses Kind auch mit einem Moskitonetz gesch\u00fctzt. (Foto: Yasuyoshi Chiba/AFP) Erstmals k\u00f6nnen Mil\u2026 [+885 chars]",
+      "retrievedAt": "2024-01-22 19:05:37.890565",
+      "internal_id": "9350ce2333bce08367b4542eecd5283ec7383a4de87579274adbde922b997236",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4433,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Ana Luiza Figueiredo",
+      "title": "Vacina contra a dengue: 750 mil doses chegam ao Brasil",
+      "description": "Brasil recebe as primeiras 750 mil doses da vacina contra a dengue para integra\u00e7\u00e3o ao SUS, marcando um avan\u00e7o na luta contra a doen\u00e7a O post Vacina contra a dengue: 750 mil doses chegam ao Brasil apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/01/21/medicina-e-saude/vacina-contra-a-dengue-750-mil-doses-chegam-ao-brasil/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/vacina-dengue-QDenga-695x500.png",
+      "publishedAt": "2024-01-21 16:16:16",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou a chegada das primeiras 750 mil doses da vacina contra a dengue ao Brasil neste s\u00e1bado, 20 de janeiro. Este \u00e9 o pontap\u00e9 inicial para a implementa\u00e7\u00e3o da vacina no Sistem\u2026 [+1839 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.719484",
+      "internal_id": "c0d9e5780c2f8af42531c1d907b9b8ca724f7ac917e9640cc9356c4b7a293d86",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4435,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mateus Salom\u00e3o",
+      "title": "Primeiras doses de vacina contra a dengue chegam ao Brasil",
+      "description": "Remessa tem 750 mil unidades da vacina contra a dengue, que ser\u00e1 disponibilizada pelo SUS. Aplica\u00e7\u00e3o deve come\u00e7ar em fevereiro",
+      "url": "https://www.metropoles.com/brasil/primeiras-doses-de-vacina-contra-a-dengue-chegam-ao-brasil",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/20094907/Dengue-compressed-1200x800.jpg",
+      "publishedAt": "2024-01-21 14:43:22",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou que as primeiras doses da vacina Qdenga, contra a dengue, chegaram ao Brasil. A primeira remessa tem 750 mil unidades do imunizante, que ser\u00e1 disponibilizado pelo Siste\u2026 [+4894 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.740531",
+      "internal_id": "3f06569f59223657d528c44a4678bcc2c698489d019d7b9545f9085190a99483",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4432,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Talkingupscotlandtwo.com",
+      "author": "Johnrobertson834",
+      "title": "Not one case of measles in Scotland for three years, 95% vaccination and the Herald\u2019s health correspondent tries to suggest it\u2019s like the West Midlands here too",
+      "description": "I\u2019m indebted to for As a genuine and scary surge in measles cases after plummeting vaccination rates among young children explodes in parts of England, especially London and the West Midlands\u2026",
+      "url": "https://talkingupscotlandtwo.com/2024/01/21/not-one-case-of-measles-in-scotland-for-three-years-95-vaccination-and-the-heralds-health-correspondent-tries-to-suggest-its-like-the-west-midlands-here-too/",
+      "urlToImage": "https://talkingupscotlandtwo.files.wordpress.com/2024/01/image-146.png",
+      "publishedAt": "2024-01-21 13:07:48",
+      "content": "I\u2019m indebted to for As a genuine and scary surge in measles cases after plummeting vaccination rates among young children explodes in parts of England, especially London and the West Midlands, the H\u2026 [+1632 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.136584",
+      "internal_id": "4e60afc91949e06b431b3afddc5a67e0aaf4857ec0fbc58f9a7c3a10feca1e90",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4441,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": null,
+      "title": "Szenz\u00e1ci\u00f3s felfedez\u00e9s: megtal\u00e1lhatt\u00e1k a r\u00e1k ellenszer\u00e9t",
+      "description": "Mutatjuk!",
+      "url": "https://www.origo.hu/tudomany/20240116-uj-es-rendkivul-hatekony-rakellenes-eszkoz-kerulhet-hamarosan-az-orvostudomany-kezebe.html",
+      "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2011/20201124tamadas-alatt-allo-raksejt.jpg?w=1024",
+      "publishedAt": "2024-01-21 13:01:00",
+      "content": "Egy frissen publik\u00e1lt kutat\u00e1s szerint a Zika-v\u00edrus k\u00eds\u00e9rleti egerekben k\u00e9pes volt megc\u00e9lozni \u00e9s gyorsan felsz\u00e1molni a hum\u00e1n neuroblaszt\u00f3ma daganatokat. Most m\u00e1r csak az a k\u00e9rd\u00e9s, hogy mennyi idn bel\u00fc\u2026 [+5343 chars]",
+      "retrievedAt": "2024-01-22 19:05:38.494855",
+      "internal_id": "022802be2bef60195c85bbc6406063465797dce09026d80249d2a794bcf377a7",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4438,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Giovanna Inoue, do R7, em Bras\u00edlia",
+      "title": "Primeiras doses da vacina contra dengue chegam ao Brasil",
+      "description": "P\u00fablico-alvo ser\u00e1 de crian\u00e7as e adolescentes de 10 a 14 anos, e as 750 mil inje\u00e7\u00f5es devem ser aplicadas a partir de fevereiro",
+      "url": "https://noticias.r7.com/saude/primeiras-doses-da-vacina-contra-dengue-chegam-ao-brasil-21012024",
+      "urlToImage": "https://img.r7.com/images/doses-vacina-dengue-21012024131435819?crop=1449x815+7+92",
+      "publishedAt": "2024-01-21 12:57:00",
+      "content": "Reprodu\u00e7\u00e3o/Minist\u00e9rio da Sa\u00fade A primeira remessa de vacina contra dengue, cerca de 750 mil doses, chegou ao Brasil neste s\u00e1bado (20). Uma segunda leva, com 570 mil doses, est\u00e1 prevista para f\u2026 [+3006 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.800084",
+      "internal_id": "ba300fbc5467800aa0896fefe0c75b05087cd6614da3cb63123f16c8c3bcc642",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4437,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "N\u00famero de casos de dengue pode chegar a 5 milh\u00f5es em 2024",
+      "description": "A proje\u00e7\u00e3o foi divulgada pelo Minist\u00e9rio da Sa\u00fade em conjunto com o InfoDengue (Fiocruz); epidemia deve atingir, principalmente, a regi\u00e3o Centro-Oeste",
+      "url": "https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-01-21 09:00:00",
+      "content": "O n\u00famero de casos de dengue no Brasil pode chegar a 5 milh\u00f5es neste ano, de acordo com proje\u00e7\u00e3o divulgada pelo Minist\u00e9rio da Sa\u00fade em parceria com o InfoDengue, da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz). E\u2026 [+2175 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.778009",
+      "internal_id": "1265bc694594663277f8ac97eb9956d43af9a84a58ad88f6db928036f6db2b4c",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 4431,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "TikTok campaign needed for MMR jab, says Jess Phillips MP",
+      "description": "The Birmingham MP says \"false vaccine messages\" are spreading quicker than official health advice.",
+      "url": "https://www.bbc.co.uk/news/uk-england-birmingham-68037150",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D58B/production/_132376645_de51.jpg",
+      "publishedAt": "2024-01-21 07:06:49",
+      "content": "Birmingham MP Jess Phillips has said a TikTok campaign is needed to promote the uptake of the MMR vaccine. The number of people with measles in the West Midlands is at its highest since at least the\u2026 [+2977 chars]",
+      "retrievedAt": "2024-01-22 19:05:36.050922",
+      "internal_id": "5318078536220527a38a6a28afb128796f982cede40aacdf949ed9c72dfafba1",
       "publishedAtLabel": "Jan 21"
     }
   ]
