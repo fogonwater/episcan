@@ -1,8 +1,226 @@
 {
-  "last_updated": "2024-03-10 07:06",
-  "count_articles_total": 1937,
-  "count_articles_new": 20,
+  "last_updated": "2024-03-10 19:05",
+  "count_articles_total": 1942,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 6667,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Dengue: o que falta para o Brasil ter mais doses da vacina?",
+      "description": "O Brasil conta com apenas 6,5 milh\u00f5es de doses da vacina contra a dengue para 2024. Elas v\u00e3o garantir a vacina\u00e7\u00e3o de 3,2 milh\u00f5es de pessoas",
+      "url": "https://www.metropoles.com/saude/dengue-o-que-falta-brasil-ter-mais-vacinas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08161628/vacina-dengue-qdenga-2.jpeg",
+      "publishedAt": "2024-03-09 18:30:59",
+      "content": "Por anos, as \u00fanicas formas de preven\u00e7\u00e3o contra a dengue foram o controle da prolifera\u00e7\u00e3o do mosquito Aedes aegypti e o uso de repelentes e de armadilhas larvicidas. A aprova\u00e7\u00e3o de uso da vacina Qdeng\u2026 [+7444 chars]",
+      "retrievedAt": "2024-03-10 19:05:45.816254",
+      "internal_id": "0474d0b51b0d3270b84d755238dd94d1cbc42bfed6243a8fedf1abe098e342e8",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6666,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Da Reda\u00e7\u00e3o",
+      "title": "Dengue vive seu pior ano, mas poder\u00e1 estar controlada em uma d\u00e9cada",
+      "description": "Em artigo, pesquisador explica que controle do vetor, vacina\u00e7\u00e3o e medica\u00e7\u00e3o podem controlar a dengue nos pr\u00f3ximos anos",
+      "url": "https://www.metropoles.com/saude/dengue-vive-seu-pior-ano-mas-podera-estar-controlada-em-uma-decada",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/27134730/aedes-aegypti-2.jpg",
+      "publishedAt": "2024-03-09 18:25:44",
+      "content": "Estamos vivendo a maior epidemia de dengue dos \u00faltimos anos e provavelmente teremos, em 2024, o pior ano da hist\u00f3ria da doen\u00e7a no Brasil. Apesar dessa constata\u00e7\u00e3o assustadora, sob o ponto de vista ci\u2026 [+11886 chars]",
+      "retrievedAt": "2024-03-10 19:05:45.783539",
+      "internal_id": "fd10414a90c31570be1d7af28d2fe71b519d7c0d5c68c0b896c87098c251a2ae",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6663,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sun Sentinel",
+      "author": "Angie Dimichele",
+      "title": "Infectious period of measles ends at Manatee Bay, DOH says",
+      "description": "No new confirmed cases of measles have been documented at Manatee Bay Elementary in three weeks, and the school has reached the end of the outbreak\u2019s 21-day infectious period, the Department \u2026",
+      "url": "http://www.sun-sentinel.com/2024/03/09/no-new-measles-cases-at-manatee-bay-in-3-weeks-doh-says-infection-period-over/",
+      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2024/02/tfl-l-manatee-bay-measles.jpg?w=1024&h=683",
+      "publishedAt": "2024-03-09 18:08:09",
+      "content": "No new confirmed cases of measles have been documented at Manatee Bay Elementary in three weeks, and the school has reached the end of the outbreak\u2019s 21-day infectious period, the Department of Healt\u2026 [+4286 chars]",
+      "retrievedAt": "2024-03-10 19:05:45.273682",
+      "internal_id": "50cd237e737da620dad6ec31b51b79b66da0eae52cfb44380739df1e7118ff99",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6665,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Da Reda\u00e7\u00e3o",
+      "title": "Esper Kall\u00e1s: vacina brasileira pode virar o jogo contra a dengue",
+      "description": "Em artigo publicado no The Conversation, diretor do Butantan explica como vacina contra a dengue do instituto pode revolucionar preven\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/saude/esper-kallas-vacina-brasileira-pode-virar-o-jogo-contra-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/02130903/Vacina-dengue-2.jpg",
+      "publishedAt": "2024-03-09 18:05:15",
+      "content": "A dengue, causada pelo v\u00edrus transmitido pela picada da f\u00eamea do mosquito Aedes aegypti e, em menor propor\u00e7\u00e3o, do Aedes albopictus, \u00e9 uma doen\u00e7a aguda caracterizada principalmente por febre alta, dor\u2026 [+10449 chars]",
+      "retrievedAt": "2024-03-10 19:05:45.770860",
+      "internal_id": "f710eef7761e3c0fe3229c9e1ae7519b4f11467173625c55a4f80c22488a2a12",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6661,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Manitobans should get up to date on measles vaccinations before travelling, province says",
+      "description": "Manitobans who are booking flights might also want to consider booking an appointment with their doctor to see if they need a measles vaccine, the province says.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-measles-update-travel-1.7139234",
+      "urlToImage": "https://i.cbc.ca/1.5140433.1707424222!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles.jpg",
+      "publishedAt": "2024-03-09 17:35:14",
+      "content": "Manitobans who are booking flights might also want to consider booking an appointment with their doctor to see if they need a measles vaccine, the province says. Though no cases of measles have been\u2026 [+1672 chars]",
+      "retrievedAt": "2024-03-10 19:05:45.202788",
+      "internal_id": "30e1d227005463f36524718af3009f540c3bed4b69d819681f3de7619aabf63c",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6671,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: veja os estados com maior alta de casos em rela\u00e7\u00e3o a 2023",
+      "description": "Sete unidades da Federa\u00e7\u00e3o decretaram estado de emerg\u00eancia at\u00e9 o momento",
+      "url": "https://saude.ig.com.br/2024-03-09/dengue-confira-estados-maior-alta-casos-relacao-2023.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-03-09 17:12:03",
+      "content": "Nesta semana, o governo de S\u00e3o Paulo decretou estado de emerg\u00eancia por alta nos casos de dengue. Al\u00e9m da capital paulista, outras sete unidades federativas Distrito Federal Minas Gerais, Acre, Goi\u00e1s,\u2026 [+815 chars]",
+      "retrievedAt": "2024-03-10 19:05:45.903258",
+      "internal_id": "e820c5ee4230c239feaa6394125da85ab9b1782333ca75affccd553da635209b",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6668,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "MSP confirm\u00f3 nuevo caso aut\u00f3ctono de dengue y primero importado de chikungunya",
+      "description": "El nuevo virus fue tra\u00eddo desde Brasil. No se reportaron personas con zika en las \u00faltimas 24 horas, ni fallecimientos por las enfermedades.",
+      "url": "https://www.montevideo.com.uy/Salud/MSP-confirmo-nuevo-caso-autoctono-de-dengue-y-primero-importado-de-chikungunya-uc882058",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
+      "publishedAt": "2024-03-09 16:25:00",
+      "content": "Montevideo Portal El Ministerio de Salud P\u00fablica (MSP) actualiz\u00f3 este s\u00e1bado los datos de arbovirosis (enfermedades que se transmiten a trav\u00e9s de la picadura de un mosquito) en Uruguay, correspond\u2026 [+1122 chars]",
+      "retrievedAt": "2024-03-10 19:05:45.837271",
+      "internal_id": "a4565798727b464c38b70a048e243fec11f80a0a8a0ad02c9d65cfa2e1d7a5e8",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6669,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Alto Astral",
+      "title": "Dengue pode causar queda de cabelo; entenda melhor",
+      "description": "A queda de cabelo pode ocorrer em at\u00e9 tr\u00eas meses ap\u00f3s a infec\u00e7\u00e3o; dermatologistas explicam tratamento",
+      "url": "https://www.terra.com.br/vida-e-estilo/dengue-pode-causar-queda-de-cabelo-entenda-melhor,4bccc564ecbae3618031e021fc5b4e1ctijgv80n.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/09/1765895266-queda-cabelo-dengue.jpg",
+      "publishedAt": "2024-03-09 16:01:09",
+      "content": "Nos primeiros dois meses deste ano, o Brasil superou a marca de 1 milh\u00e3o de casos de dengue. O n\u00famero representa mais da metade do total registrado em 2023. Com a perspectiva de crescimento em mar\u00e7o \u2026 [+1879 chars]",
+      "retrievedAt": "2024-03-10 19:05:45.850498",
+      "internal_id": "d5b177154342a45c3950a89cc30038c5fad1ecd9abcae1dbe59e1fdda3749ee5",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6670,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Sobem para 16 as mortes por dengue entre os ga\u00fachos neste ano",
+      "description": "A morte de um homem de 71 anos em Vista Ga\u00facha eleva para 16 o n\u00famero de v\u00edtimas da dengue no ...",
+      "url": "https://www.terra.com.br/noticias/sobem-para-16-as-mortes-por-dengue-entre-os-gauchos-neste-ano,54d8f001313e3c7e18e0344141f80302be6npmmw.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/09/889963104-dengue-zika-chikungunya-fever-mosquito-aedes-aegypti-human-skin.jpg",
+      "publishedAt": "2024-03-09 14:16:08",
+      "content": "A morte de um homem de 71 anos em Vista Ga\u00facha eleva para 16 o n\u00famero de v\u00edtimas da dengue no Rio Grande do Sul em 2024. O \u00f3bito, confirmado na sexta-feira (9), refor\u00e7a a gravidade da situa\u00e7\u00e3o e a ne\u2026 [+2460 chars]",
+      "retrievedAt": "2024-03-10 19:05:45.896111",
+      "internal_id": "835ab1c622733b547a580999141d29c6a68e8be3eb347cc4b3ed5d938026d00c",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6672,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Janet Ogundepo",
+      "title": "African health ministers pledge to end malaria deaths in region - Healthwise",
+      "description": "With the African region accounting for 95 per cent of malaria deaths globally Ministers of Health from African countries with the highest burden have committed to accelerate action to end mortality from the disease.",
+      "url": "https://healthwise.punchng.com/african-health-ministers-pledge-to-end-malaria-deaths-in-region/",
+      "urlToImage": "https://healthwise.punchng.com/wp-content/uploads/2020/11/Malaria-4.jpg",
+      "publishedAt": "2024-03-09 14:00:03",
+      "content": "Janet Ogundepo With the African region accounting for 95 per cent of malaria deaths globally Ministers of Health from African countries with the highest burden have committed to accelerate action to\u2026 [+5519 chars]",
+      "retrievedAt": "2024-03-10 19:05:46.358476",
+      "internal_id": "01825d0817355d7e0afc71f0fa24c2953ea5fb6d22f697a08fd5025229a22ad7",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6662,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-globe-and-mail",
+      "source_name": "The Globe And Mail",
+      "author": "Carly Weeks",
+      "title": "Is Canada prepared for a measles outbreak? Many health officials are on high alert",
+      "description": "There have been nearly two dozen confirmed cases of measles reported in Canada so far this year, compared with just 12 in 2023",
+      "url": "https://www.theglobeandmail.com/canada/article-canada-measles-cases-global-surge/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/V2XUTFJM4JD7TBWBKTAVT2TWIU.JPG?auth=1ce12b5550aa4360828a06987191a2832caaa05d295699f586c940f939b38338&width=1200&height=801&quality=80",
+      "publishedAt": "2024-03-09 12:07:36",
+      "content": "Open this photo in gallery:Vaccine-preventable disease specialists say the severity of the situation in Canada will depend, to a degree, on chance.ANDREW TESTA/The New York Times News Service A worl\u2026 [+9019 chars]",
+      "retrievedAt": "2024-03-10 19:05:45.249231",
+      "internal_id": "611611b398c09f1da21feaa88e36e752c4edea77ae65c6e21cc8f76ae0af6405",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6664,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Dengue, nuova circolare in arrivo: maggiori controlli in porti e aeroporti, ipotesi test rapidi",
+      "description": "A un mese dalla prima circolare che alzava l\u2019allerta in porti e aeroporti in Italia, \u00e8 in arrivo una seconda da parte della direzione della Prevenzione del ministero della Salute. L\u2019obiettivo \u00e8 una stretta sui controlli da parte del personale Usmaf-Sasn, gli \u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/03/09/dengue-nuova-circolare-in-arrivo-maggiori-controlli-in-porti-e-aeroporti-ipotesi-test-rapidi/7473783/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/08/30/med-1200x630-13.jpg",
+      "publishedAt": "2024-03-09 11:14:18",
+      "content": "A un mese dalla prima circolare che alzava l\u2019allerta in porti e aeroporti in Italia, \u00e8 in arrivo una seconda da parte della direzione della Prevenzione del ministero della Salute. Lobiettivo \u00e8 una st\u2026 [+1833 chars]",
+      "retrievedAt": "2024-03-10 19:05:45.739651",
+      "internal_id": "0e98a3d7336b46097f73a68f1f62a902366f4255b299c0314c7e19565a2e75f9",
+      "publishedAtLabel": "Mar 9"
+    },
     {
       "id": 6646,
       "query": [
@@ -34819,132 +35037,6 @@
       "content": "O cen\u00e1rio epidemiol\u00f3gico da dengue colocou Manaus, capital do Amazonas, em estado de alerta. Neste s\u00e1bado (28), a Secretaria Municipal de Sa\u00fade (Semsa) divulgou um comunicado alertando que o n\u00famero\u2026 [+1024 chars]",
       "retrievedAt": "2024-01-30 07:05:32.093157",
       "internal_id": "0f22a74a61ed86e16fe91b15851b02255500a3e4039e52e836b319453dc5fc8b",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4733,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Minist\u00e9rio da Sa\u00fade divulga lista de cidades receber\u00e3o vacina contra a dengue",
-      "description": "Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha",
-      "url": "https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2024/01/vacina.jpg",
-      "publishedAt": "2024-01-28 18:52:03",
-      "content": "\u00daltimas not\u00edcias: Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha contra a dengue. Essas localida\u2026 [+1333 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.164251",
-      "internal_id": "72f1c569ace4975365295b27438b1ddeb3d269bcb72c9ef4f1249631bb66b727",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4724,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Casos de dengue sobem 26% no Estado de SP e secretaria j\u00e1 confirma quatro mortes no ano",
-      "description": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-01-28 16:22:57",
-      "content": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 a terceira semana epidemiol\u00f3gica de 2024 (com dados at\u00e9 o dia 20 de janeiro). O n\u00famero representa uma a\u2026 [+2557 chars]",
-      "retrievedAt": "2024-01-29 19:05:24.425804",
-      "internal_id": "1efaf5d5cb0f6f21d5e730c2c8175b5ae58fc4506ebcccf031f21bb998267521",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4723,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Viomundo.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue",
-      "description": "Minist\u00e9rio da Sa\u00fade, Conass e Conasems em nota O post Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue apareceu primeiro em Viomundo.",
-      "url": "https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html",
-      "urlToImage": "https://www.viomundo.com.br/wp-content/uploads/2024/01/ac044d91-3312-4a01-8f23-57c8980ce5fa.png",
-      "publishedAt": "2024-01-28 15:48:17",
-      "content": "NOTA CONJUNTA Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios unem esfor\u00e7os para a\u00e7\u00f5es de enfrentamento da dengue Desde o ano passado, o Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios est\u00e3o em constante monit\u2026 [+3677 chars]",
-      "retrievedAt": "2024-01-29 19:05:24.273642",
-      "internal_id": "9ccb2fb3a9cdbdb34473a05ea403c8a78a3c0a2303e1a82061b629129f30f128",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4732,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Clar\u00edn",
-      "author": "Ernesto Azarkevich",
-      "title": "Una beba de tres meses muri\u00f3 por dengue en Misiones",
-      "description": "Lleg\u00f3 a la guardia de un hospital con fiebre y fue derivada a terapia intensiva, pero no lograron estabilizarla.Es la v\u00edctima m\u00e1s joven del brote que ya caus\u00f3 9 muertes en la provincia.",
-      "url": "https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html",
-      "urlToImage": "https://www.clarin.com/img/2023/12/21/jMTZGJwoe_2000x1500__1.jpg",
-      "publishedAt": "2024-01-28 15:42:04",
-      "content": "Una beba de tres mesesmuri\u00f3 por dengue en Misiones y es la novena v\u00edctima en la provincia desde mediados de diciembre pasado. En la \u00faltima semana el sistema de salud report\u00f3 m\u00e1s de 2.600 cuadros febr\u2026 [+2602 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.160802",
-      "internal_id": "0b0fd0ee4e9094077b576368a8240cfa981b0137e588cc37f6755d414211ce93",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4730,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "F\u00e1bio Andrighetto",
-      "title": "Dengue no RJ dispara 587%, com mais de 9 mil casos em tr\u00eas semanas",
-      "description": "O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u00f5es, um n\u00famero que j\u00e1 supera a m\u00e9dia hist\u00f3rica para todo o m\u00eas. A situa\u00e7\u00e3o \u00e9 pr\u2026",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2021/02/istock-599881744.jpg",
-      "publishedAt": "2024-01-28 14:52:50",
-      "content": "\u00daltimas not\u00edcias: O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u2026 [+1806 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.154107",
-      "internal_id": "0892f851bd02e76d6fa09494c2842a3c71a097424b8424d17f9b43374e601a1c",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4722,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "TheJournal.ie",
-      "author": "Mairead Maguire",
-      "title": "HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK",
-      "description": "Health officials in Ireland are keeping \u201cvery close watch\u201d as the number of cases have risen around Europe too.",
-      "url": "https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/",
-      "urlToImage": "https://img2.thejournal.ie/article/6283808/river/?height=400&version=6283810",
-      "publishedAt": "2024-01-28 14:40:52",
-      "content": "THE HSE HAS urged parents to make sure their children are vaccinated against measles, as the UK sees a spike in case numbers. The MMR vaccine protects against measles, mumps and rubella. In the UK\u2026 [+1711 chars]",
-      "retrievedAt": "2024-01-29 19:05:23.759567",
-      "internal_id": "62113caca466ead9afe1e1ae2e5c7d8f6e2345410ae6ba1b02df0f5f2f12e05c",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4721,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Multi-language measles campaign launched",
-      "description": "London has the lowest percentage of children who have received both doses, experts say.",
-      "url": "https://www.bbc.co.uk/news/articles/cglmrrnm5d9o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2da6/live/135eb770-bc64-11ee-92a5-1d8f75943063.jpg",
-      "publishedAt": "2024-01-28 08:55:12",
-      "content": "Rhoda Ibrahim, from the Somali Advice and Forum of Information, told BBC Politics London: \"It's always the elderly men and women that don't speak English and it's also the mums. \"About 80% of the mu\u2026 [+683 chars]",
-      "retrievedAt": "2024-01-29 19:05:23.738701",
-      "internal_id": "e13bf1fb456bb23471488c6867b391bbf96b8bd03e39bbbb408ce79ebb92a0cd",
       "publishedAtLabel": "Jan 28"
     }
   ]

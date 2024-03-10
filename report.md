@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-03-10 07:06
-- **Most recent article:** 2024-03-09 05:00:12
+- **New articles in last harvest:** 12
+- **Last harvest:** 2024-03-10 19:05
+- **Most recent article:** 2024-03-09 18:30:59
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 157 | 173 | 216 | 191 | 188 | 207 | 1132 |
-| measles | 83 | 47 | 68 | 45 | 100 | 80 | 423 |
-| malaria | 13 | 24 | 35 | 19 | 33 | 17 | 141 |
-| chikungunya | 6 | 10 | 12 | 8 | 14 | 16 | 66 |
-| zika | 14 | 8 | 13 | 6 | 13 | 11 | 65 |
+| dengue | 165 | 168 | 216 | 191 | 188 | 207 | 1135 |
+| measles | 86 | 45 | 68 | 45 | 100 | 80 | 424 |
+| malaria | 14 | 24 | 35 | 19 | 33 | 17 | 142 |
+| chikungunya | 7 | 10 | 12 | 8 | 14 | 16 | 67 |
+| zika | 15 | 8 | 13 | 6 | 13 | 11 | 66 |
 | meningitis | 16 | 3 | 8 | 8 | 7 | 4 | 46 |
 | rabies | 6 | 7 | 7 | 9 | 5 | 8 | 42 |
 | sarampión | 3 | 6 | 5 | 4 | 11 | 5 | 34 |
@@ -3146,10 +3146,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
 
-- [HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK](https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/) (TheJournal.ie)
-
-- [Multi-language measles campaign launched](https://www.bbc.co.uk/news/articles/cglmrrnm5d9o) (BBC News)
-
 ## 24-5 (malaria)
 
 - [Una vacuna de bajo coste previene los síntomas de la malaria en un 75 % de los casos](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/03/vacuna-bajo-coste-previene-sintomas-malaria-75-casos/0003_202402G3P32991.htm) (Lavozdegalicia.es)
@@ -3542,16 +3538,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
 
-- [Ministério da Saúde divulga lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
-
-- [Casos de dengue sobem 26% no Estado de SP e secretaria já confirma quatro mortes no ano](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html) (Terra.com.br)
-
-- [Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue](https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html) (Viomundo.com.br)
-
-- [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
-
-- [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
-
 ## 24-5 (chikungunya)
 
 - [Em São Paulo, número de casos de chikungunya sobe 830% em 2024](https://saude.ig.com.br/2024-02-03/aumento-de-casos-de-chikungunya-em-sao-paulo.html) (Ig.com.br)
@@ -3575,6 +3561,8 @@ Source: [News API](https://newsapi.org/)
 - [Governo de MG decreta estado de emergência pelo alto número de casos de dengue](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/governo-de-mg-decreta-estado-de-emergencia-pelo-alto-numero-de-casos-de-dengue-29012024) (R7.com)
 
 ## 24-10 (zika)
+
+- [MSP confirmó nuevo caso autóctono de dengue y primero importado de chikungunya](https://www.montevideo.com.uy/Salud/MSP-confirmo-nuevo-caso-autoctono-de-dengue-y-primero-importado-de-chikungunya-uc882058) (Montevideo.com.uy)
 
 - [Zika, chikungunya e dengue: entenda a diferença entre as doenças](https://www.metropoles.com/saude/zika-chikungunya-dengue-entenda-diferenca) (Metropoles.com)
 
@@ -3685,6 +3673,12 @@ Source: [News API](https://newsapi.org/)
 - [Bauchi Confirms Outbreak of Meningitis](https://allafrica.com/stories/202403040450.html) (AllAfrica - Top Africa News)
 
 ## 24-10 (measles)
+
+- [Infectious period of measles ends at Manatee Bay, DOH says](http://www.sun-sentinel.com/2024/03/09/no-new-measles-cases-at-manatee-bay-in-3-weeks-doh-says-infection-period-over/) (Sun Sentinel)
+
+- [Manitobans should get up to date on measles vaccinations before travelling, province says](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-update-travel-1.7139234) (CBC News)
+
+- [Is Canada prepared for a measles outbreak? Many health officials are on high alert](https://www.theglobeandmail.com/canada/article-canada-measles-cases-global-surge/) (The Globe And Mail)
 
 - [El Dorado County officials warn of measles exposure](https://www.kcra.com/article/hundreds-exposed-measles-el-dorado-county-health/60143360) (KCRA Sacramento)
 
@@ -3854,6 +3848,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-10 (malaria)
 
+- [African health ministers pledge to end malaria deaths in region - Healthwise](https://healthwise.punchng.com/african-health-ministers-pledge-to-end-malaria-deaths-in-region/) (The Punch)
+
 - [Seonmi Choi: “Asociamos las infecciones transmitidas por mosquitos a países pobres, pero también llegarán a Europa”](https://www.eldiario.es/sociedad/seonmi-choi-asociamos-infecciones-transmitidas-mosquitos-paises-pobres-llegaran-europa_128_10983495.html) (Eldiario.es)
 
 - [Africa Accounts for 95 Percent of Malaria Deaths Globally - WHO](https://allafrica.com/stories/202403080434.html) (AllAfrica - Top Africa News)
@@ -3881,6 +3877,22 @@ Source: [News API](https://newsapi.org/)
 - [Africa: Remembering the Legacy of Malaria-Fighting Trailblazer Kent Campbell](https://allafrica.com/stories/202403030068.html) (AllAfrica - Top Africa News)
 
 ## 24-10 (dengue)
+
+- [Dengue: o que falta para o Brasil ter mais doses da vacina?](https://www.metropoles.com/saude/dengue-o-que-falta-brasil-ter-mais-vacinas) (Metropoles.com)
+
+- [Dengue vive seu pior ano, mas poderá estar controlada em uma década](https://www.metropoles.com/saude/dengue-vive-seu-pior-ano-mas-podera-estar-controlada-em-uma-decada) (Metropoles.com)
+
+- [Esper Kallás: vacina brasileira pode virar o jogo contra a dengue](https://www.metropoles.com/saude/esper-kallas-vacina-brasileira-pode-virar-o-jogo-contra-a-dengue) (Metropoles.com)
+
+- [Dengue: veja os estados com maior alta de casos em relação a 2023](https://saude.ig.com.br/2024-03-09/dengue-confira-estados-maior-alta-casos-relacao-2023.html) (Ig.com.br)
+
+- [MSP confirmó nuevo caso autóctono de dengue y primero importado de chikungunya](https://www.montevideo.com.uy/Salud/MSP-confirmo-nuevo-caso-autoctono-de-dengue-y-primero-importado-de-chikungunya-uc882058) (Montevideo.com.uy)
+
+- [Dengue pode causar queda de cabelo; entenda melhor](https://www.terra.com.br/vida-e-estilo/dengue-pode-causar-queda-de-cabelo-entenda-melhor,4bccc564ecbae3618031e021fc5b4e1ctijgv80n.html) (Terra.com.br)
+
+- [Sobem para 16 as mortes por dengue entre os gaúchos neste ano](https://www.terra.com.br/noticias/sobem-para-16-as-mortes-por-dengue-entre-os-gauchos-neste-ano,54d8f001313e3c7e18e0344141f80302be6npmmw.html) (Terra.com.br)
+
+- [Dengue, nuova circolare in arrivo: maggiori controlli in porti e aeroporti, ipotesi test rapidi](https://www.ilfattoquotidiano.it/2024/03/09/dengue-nuova-circolare-in-arrivo-maggiori-controlli-in-porti-e-aeroporti-ipotesi-test-rapidi/7473783/) (Ilfattoquotidiano.it)
 
 - [Zika, chikungunya e dengue: entenda a diferença entre as doenças](https://www.metropoles.com/saude/zika-chikungunya-dengue-entenda-diferenca) (Metropoles.com)
 
@@ -4197,6 +4209,8 @@ Source: [News API](https://newsapi.org/)
 - [Governo fará vacinação nas escolas a partir de março, diz ministra da Saúde](https://www.terra.com.br/vida-e-estilo/saude/governo-fara-vacinacao-nas-escolas-a-partir-de-marco-diz-ministra-da-saude,10e10e781ee3bfc5da2f7da4245dd845hpucp7zp.html) (Terra.com.br)
 
 ## 24-10 (chikungunya)
+
+- [MSP confirmó nuevo caso autóctono de dengue y primero importado de chikungunya](https://www.montevideo.com.uy/Salud/MSP-confirmo-nuevo-caso-autoctono-de-dengue-y-primero-importado-de-chikungunya-uc882058) (Montevideo.com.uy)
 
 - [Zika, chikungunya e dengue: entenda a diferença entre as doenças](https://www.metropoles.com/saude/zika-chikungunya-dengue-entenda-diferenca) (Metropoles.com)
 
