@@ -1,8 +1,172 @@
 {
-  "last_updated": "2024-03-10 19:05",
-  "count_articles_total": 1942,
-  "count_articles_new": 12,
+  "last_updated": "2024-03-11 07:06",
+  "count_articles_total": 1972,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 6676,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Dengue pode ser transmitida em rela\u00e7\u00e3o sexual? M\u00e9dicos esclarecem",
+      "description": "Embora o Aedes aegypti seja o principal vetor da doen\u00e7a, o mosquito n\u00e3o \u00e9 a \u00fanica possibilidade de transmiss\u00e3o da dengue. Entenda propaga\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/saude/dengue-transmitida-relacao-sexual",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/04/14113807/sexo-39.jpg",
+      "publishedAt": "2024-03-10 05:00:39",
+      "content": "Com a explos\u00e3o de casos de dengue desde janeiro, as a\u00e7\u00f5es para eliminar os criadouros do Aedes aegypti e o uso de repelente para evitar o contato com o mosquito s\u00e3o prioridade. Por\u00e9m, apesar de o ins\u2026 [+6665 chars]",
+      "retrievedAt": "2024-03-11 07:06:31.975767",
+      "internal_id": "abbf31084b3bd0a0c6efbdd6b6367be78153638d8c2746858666aee979e827d2",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6695,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1095: Monkeys fly and mice exaggerate",
+      "description": "TWiV reviews heterosexual transmission of clade I Mpox virus, continued circulation of oropouche virus in South America, herpesviruses in South American fur seals and sea lions, sex-specific differences in physiological responses to SARS-CoV-2 infection, unde\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1095/",
+      "urlToImage": null,
+      "publishedAt": "2024-03-10 05:00:00",
+      "content": "TWiV reviews heterosexual transmission of clade I Mpox virus, continued circulation of oropouche virus in South America, herpesviruses in South American fur seals and sea lions, sex-specific differen\u2026 [+844 chars]",
+      "retrievedAt": "2024-03-11 07:06:34.964493",
+      "internal_id": "64b5d2a568020c2c56831c5287f93f34bb9df3f9f764f032cfa8c97896850688",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6674,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Una bacteria y un virus que secuestran el esperma de los mosquitos, promesa contra el zika y el dengue",
+      "description": "El mosquito tigre Aedes aegypti , responsable de la transmisi\u00f3n del dengue, el zika y el chikungunya, habita las regiones m\u00e1s c\u00e1lidas del planeta, aunque se ha extendido incluso al sur de Europa por causa del cambio clim\u00e1tico y la globalizaci\u00f3n. Controlar a e\u2026",
+      "url": "https://www.abc.es/ciencia/bacteria-virus-secuestran-esperma-mosquitos-promesa-zika-20240307155822-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/ciencia/2024/03/07/mosquito_dengue-U84403381871BIj-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-03-10 03:23:25",
+      "content": "El mosquito tigre Aedes aegypti, responsable de la transmisi\u00f3n del dengue, el zika y el chikungunya, habita las regiones m\u00e1s c\u00e1lidas del planeta, aunque se ha extendido incluso al sur de Europa por c\u2026 [+107 chars]",
+      "retrievedAt": "2024-03-11 07:06:31.926162",
+      "internal_id": "46c297499e2725c403031174b4f97f28221b8c1df5f9c949df694bc6fe5dccda",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6693,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "RD News",
+      "title": "Mato Grosso registra 1\u00aa morte por chikungunya; v\u00edtima tinha 73 anos",
+      "description": "Em 2024, foram identificados 2.094 casos de chikungunya no estado do Mato Grosso; v\u00edtima tinha comorbidades, segundo autoridades",
+      "url": "https://www.metropoles.com/brasil/mato-grosso-registra-1a-morte-por-chikungunya-vitima-tinha-73-anos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/09175317/chikungunya.jpg",
+      "publishedAt": "2024-03-09 21:04:27",
+      "content": "Uma morte est\u00e1 sendo investigada como o primeiro caso de \u00f3bito por chikungunya em Tangar\u00e1 da Serra. A informa\u00e7\u00e3o foi divulgada nesta sexta-feira (8) no boletim epidemiol\u00f3gico publicado pela Secretari\u2026 [+434 chars]",
+      "retrievedAt": "2024-03-11 07:06:34.539926",
+      "internal_id": "51ebf8db81980fb960be87b3e2f43c8095c4d75f6dd96725d34af90bc267119d",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6694,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Health Officials Warn of Rise in Monkeypox Cases in North Carolina",
+      "description": "Concerns are centered on the number of children being potentially exposed to monkeypox The post Health Officials Warn of Rise in Monkeypox Cases in North Carolina first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/03/health-officials-warn-of-rise-in-monkeypox-cases-in-north-carolina/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2022/08/Monkeypox.jpg",
+      "publishedAt": "2024-03-09 21:00:00",
+      "content": "Public health officials are now warning about a a rise in monkeypox (i.e., Mpox) cases in North Carolina. Ten cases were reported among county residents in February, up from six in January. Nearly 1\u2026 [+3718 chars]",
+      "retrievedAt": "2024-03-11 07:06:34.956960",
+      "internal_id": "c33c71eb03f403bc68545a9a9e1de32ebdf571d932624e74eac64fbf33fc2a86",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6677,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Rio de Janeiro registra 2 mil casos de dengue em 24 horas",
+      "description": "No Estado, total de casos beira os 108 mil, com maior incid\u00eancia na regi\u00e3o metropolitana",
+      "url": "https://saude.ig.com.br/2024-03-09/rio-de-janeiro-registra-2-mil-casos-de-dengue-em-24-horas.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-03-09 20:14:16",
+      "content": "O munic\u00edpio do Rio de Janeiro registrou quase dois mil casos de dengue nas \u00faltimas 24 horas, de acordo com informa\u00e7\u00f5es da Secretaria Municipal de Sa\u00fade, divulgadas na manh\u00e3 deste s\u00e1bado (9). O cen\u00e1r\u2026 [+1173 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.023983",
+      "internal_id": "5064dd100a6c44211ea76c0a1c8efd01eb1e6ef997463ca1d77179b6362b5752",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6678,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "S\u00e3o Paulo registra 51 mortes por dengue em 2024",
+      "description": "O Estado de S\u00e3o Paulo j\u00e1 registra 51 mortes por dengue em 2024. De acordo com dados do painel de ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/sao-paulo-registra-51-mortes-por-dengue-em-2024,3c01392fc674b3739f4d30666504decdqjwxozxr.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/09/1007896945-fuzktb3tzffhvig75utb46z3wm.jpg",
+      "publishedAt": "2024-03-09 20:05:27",
+      "content": "O Estado de S\u00e3o Paulo j\u00e1 registra 51 mortes por dengue em 2024. De acordo com dados do painel de monitoramento da dengue da secretaria estadual de sa\u00fade, h\u00e1 ainda outros 151 \u00f3bitos em investiga\u00e7\u00e3o. D\u2026 [+2028 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.058097",
+      "internal_id": "3d2ab9e283ee7a5e399ce8d86d349c6f6c3e5e67663c2711a5686c1c80e52af2",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6673,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": "di Marzio Bartoloni",
+      "title": "Dengue, sale l\u2019allerta negli aeroporti: test ai passeggeri in arrivo dai Paesi a rischio",
+      "description": "Una nuova circolare a quasi un mese dalla prima diffusa dalla direzione della Prevenzione del ministero della Salute",
+      "url": "https://www.ilsole24ore.com/art/sale-l-allerta-dengue-aeroporti-test-passeggeri-arrivo-paesi-rischio-AF5bsozC",
+      "urlToImage": "https://i2.res.24o.it/images2010/2024/03/AF5bsozC/images/9a47adae-9ea6-11ee-8f80-b8a54cf0cd0d-fotohome0.jpg",
+      "publishedAt": "2024-03-09 19:38:00",
+      "content": "Ascolta la versione audio dell'articolo 2' di lettura A quasi un mese dalla prima circolare sulla Dengue della direzione della Prevenzione del ministero della Salute - che innalzava l'allerta in po\u2026 [+2805 chars]",
+      "retrievedAt": "2024-03-11 07:06:31.888243",
+      "internal_id": "75dd3cb70735d87cfd840f6690a7fb0db85d21b60af7f1e268bc31428ea4803e",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6675,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Arreguy",
+      "title": "SP chega a 51 mortes por dengue e capital registra 3\u00ba \u00f3bito",
+      "description": "Na ter\u00e7a (5/3), o governo de SP decretou estado de emerg\u00eancia para dengue ap\u00f3s quantidade de casos atingir situa\u00e7\u00e3o de epidemia",
+      "url": "https://www.metropoles.com/sao-paulo/sp-chega-a-51-mortes-por-dengue-e-capital-registra-3o-obito",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/27134730/aedes-aegypti-2.jpg",
+      "publishedAt": "2024-03-09 19:30:24",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2696 chars]",
+      "retrievedAt": "2024-03-11 07:06:31.966853",
+      "internal_id": "a657ad075fa3f006ff805b630180ba4bb19d1fb6a7e35fafd8a2ea861a9945a0",
+      "publishedAtLabel": "Mar 9"
+    },
     {
       "id": 6667,
       "query": [
@@ -150,6 +314,42 @@
       "publishedAtLabel": "Mar 9"
     },
     {
+      "id": 6685,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Ag\u00eancia Estado",
+      "title": "Estado de SP registra 51 mortes por dengue, e capital paulista confirma terceiro \u00f3bito",
+      "description": "De acordo com a Prefeitura de S\u00e3o Paulo, pelo menos 15 dos 96 distritos da cidade j\u00e1 est\u00e3o enfrentando uma epidemia de dengue",
+      "url": "https://noticias.r7.com/sao-paulo/mortes-dengue-estado-sao-paulo-09032024",
+      "urlToImage": "https://img.r7.com/images/vacina-da-dengue-fala-brasil-tira-duvidas-sobre-o-imunizante-08032024144712008?crop=597x336+14+68",
+      "publishedAt": "2024-03-09 15:58:00",
+      "content": "Casos confirmados em SP chega a 177 mil Divulga\u00e7\u00e3o/Ag\u00eancia Brasil - Arquivo O Estado de S\u00e3o Paulo j\u00e1 registrou 51 mortes causadas pela dengue em 2024, de acordo com dados divulgados neste s\u00e1b\u2026 [+2013 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.120004",
+      "internal_id": "84a81c1372a3ec879f56d28ab54b73842561f2e36b930ff4d9b1a3a8461d48b1",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6679,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: mutir\u00e3o vistoria im\u00f3veis e retira entulhos na zona Leste; veja incid\u00eancia de casos em Campinas",
+      "description": "Regi\u00e3o que recebeu a\u00e7\u00e3o da prefeitura neste s\u00e1bado (9) concentra 2.163 casos confirmados da doen\u00e7a; com 15,3 mil infectados, metr\u00f3pole j\u00e1 registra 4\u00aa maior epidemia da s\u00e9rie hist\u00f3rica. Campinas realiza 6\u00b0 Mutir\u00e3o para preven\u00e7\u00e3o e combate \u00e0 dengue neste s\u00e1bado\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/09/dengue-mutirao-vistoria-imoveis-e-retira-entulhos-na-zona-leste-veja-incidencia-de-casos-em-campinas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/PobGbLMGpKnAMwbwAP8n65OEtUg=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/12422611.jpg",
+      "publishedAt": "2024-03-09 15:44:48",
+      "content": "Dados do painel de monitoramento de Arbovirores mostram que a regi\u00e3o Leste, onde est\u00e3o os n\u00facleos residenciais G\u00eanesis, Get\u00falio Vargas e Dom Bosco, Parque S\u00e3o Quirino, Jardim Santana, Vila Nogueira, \u2026 [+7972 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.080398",
+      "internal_id": "3e12d1a7367a554dbb5ff110085d5f0e1e3692c9c6f6da581d889b0772cde566",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
       "id": 6670,
       "query": [
         "dengue"
@@ -239,6 +439,24 @@
       "content": "O mosquito Aedes aegypti \u00e9 um velho conhecido dos brasileiros: quase todo mundo sabe identificar o pernilongo listradinho. Extremamente adaptado \u00e0 vida urbana, o inseto \u00e9 vetor de alguns v\u00edrus, inclu\u2026 [+7714 chars]",
       "retrievedAt": "2024-03-10 07:06:30.030629",
       "internal_id": "5e31d4890631d1ebff8d05c843c6fb90ba3983adb2a9f4644b7b34533ef311a8",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 6692,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Victoria Lacerda, do R7, em Bras\u00edlia",
+      "title": "Brasil registrou m\u00e9dia de 19,7 mil casos de dengue por dia entre 1\u00ba de janeiro e 8 de mar\u00e7o",
+      "description": "Nesse per\u00edodo de 68 dias, pa\u00eds contabiliza 1,3 milh\u00e3o de casos, 363 mortes confirmadas e 763 sob investiga\u00e7\u00e3o, diz Minist\u00e9rio da Sa\u00fade",
+      "url": "https://noticias.r7.com/saude/brasil-registrou-media-de-197-mil-casos-de-dengue-por-dia-entre-1-de-janeiro-e-8-de-marco-09032024",
+      "urlToImage": "https://img.r7.com/images/dengue-08032024191315628?crop=1077x606+52+51",
+      "publishedAt": "2024-03-09 02:00:02",
+      "content": "Distrito Federal tem a maior incid\u00eancia da doen\u00e7a Marcelo Camargo/Ag\u00eancia Brasil - Arquivo Desde o in\u00edcio do ano at\u00e9 esse s\u00e1bado (8), o Brasil registrou 1.342.086 casos suspeitos de dengue, \u2026 [+4253 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.153739",
+      "internal_id": "2ca6be2b056049f18a0f201330c0cce256b22a6cf3f3bcd8c765269e6b3f7a3c",
       "publishedAtLabel": "Mar 9"
     },
     {
@@ -386,6 +604,24 @@
       "publishedAtLabel": "Mar 8"
     },
     {
+      "id": 6691,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Vacina da dengue come\u00e7a a faltar na rede privada em S\u00e3o Paulo",
+      "description": "A alta dos casos de dengue em S\u00e3o Paulo est\u00e1 fazendo com que a primeira dose da vacina comece a faltar em cl\u00ednicas particulares da capital. Se...",
+      "url": "https://noticias.r7.com/record-news/videos/vacina-da-dengue-comeca-a-faltar-na-rede-privada-em-sao-paulo-08032024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/03/08/65eb93091df97b62cb0008fe/968b8efd75b54ac78cabe7f381bf3faa__Vacina_da_dengue_come_a_a_faltar_na_rede_privada_em_S_o_Paulo_thumb_thumb.jpg",
+      "publishedAt": "2024-03-08 19:44:54",
+      "content": "A alta dos casos de dengue em S\u00e3o Paulo est\u00e1 fazendo com que a primeira dose da vacina comece a faltar em cl\u00ednicas particulares da capital. Segundo a fabricante Qdenga, o imunizante contra a doen\u00e7a, \u2026 [+462 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.148934",
+      "internal_id": "a18edff66dcd06d878992d2bca9fa154e620078d9df0c1e954913bfc089a8cdc",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
       "id": 6642,
       "query": [
         "measles"
@@ -509,6 +745,24 @@
       "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade ESPERAN\u00c7A- Vacina\u00e7\u00e3o: crian\u00e7as e adolescentes de 6 a 16 anos ter\u00e3o prioridade (Douglas Magno/AFP) Continua ap\u00f3s publicidade O Minist\u00e9rio da S\u2026 [+7363 chars]",
       "retrievedAt": "2024-03-09 19:05:16.070288",
       "internal_id": "531136ca7f183e000383cf67755e99b3f533ea028ec335508b1014eada5d298a",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6682,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Pedido de vacina, telemedicina, Dia D: prefeitos da RMC definem a\u00e7\u00f5es conjuntas para tentar conter cen\u00e1rio tr\u00e1gico de dengue",
+      "description": "Pacote de medidas foi definida em reuni\u00e3o do Conselho de Desenvolvimento da Regi\u00e3o Metropolitana de Campinas nesta sexta-feira. Parte das cidades j\u00e1 decretou estado de emerg\u00eancia por conta da epidemia. Reuni\u00e3o na prefeitura de Campinas definiu medidas para a \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/08/pedido-de-vacina-telemedicina-dia-d-prefeitos-da-rmc-definem-acoes-conjuntas-para-tentar-conter-cenario-tragico-de-dengue.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/PT6d5RVkBJeaZ_qW0WIA3YLQxes=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/E/0/oke6MkTAqQfAyFZhHlgA/campinas-4.jpeg",
+      "publishedAt": "2024-03-08 15:13:08",
+      "content": "Maior cidade da regi\u00e3o, Campinas (SP) est\u00e1 em estado de emerg\u00eancia para dengue e re\u00fane, at\u00e9 esta sexta-feira (8), 15,3 mil casos da doen\u00e7a e tr\u00eas \u00f3bitos. Na regi\u00e3o, Pedreira (SP) e Jaguari\u00fana tamb\u00e9m \u2026 [+3339 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.097149",
+      "internal_id": "0809838720d86149c31530fb8432bc175ce8b3468362d353ba863268d1f1451f",
       "publishedAtLabel": "Mar 8"
     },
     {
@@ -764,6 +1018,60 @@
       "publishedAtLabel": "Mar 8"
     },
     {
+      "id": 6686,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Edis Henrique Peres, do R7, em Bras\u00edlia",
+      "title": "Minist\u00e9rio identifica 16 casos de rea\u00e7\u00f5es al\u00e9rgicas \u00e0 vacina da dengue em 365 mil doses aplicadas",
+      "description": "Pasta refor\u00e7ou seguran\u00e7a do imunizante; Brasil j\u00e1 registra 1,3 milh\u00e3o de casos de dengue e 343 mortes em 2024",
+      "url": "https://noticias.r7.com/saude/ministerio-identifica-16-casos-de-reacoes-alergicas-a-vacina-da-dengue-em-365-mil-doses-aplicadas-08032024",
+      "urlToImage": "https://img.r7.com/images/coletiva-saude-08032024112559467?crop=1024x576+101+50",
+      "publishedAt": "2024-03-08 11:27:00",
+      "content": "Segundo a pasta, todas as pessoas se recuperaram Edis Henrique Peres/R7 O Minist\u00e9rio da Sa\u00fade identificou 16 casos de rea\u00e7\u00f5es al\u00e9rgicas graves nas 365 mil doses de vacina contra a dengue j\u00e1 a\u2026 [+2052 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.124919",
+      "internal_id": "6e5acf509e2e80f7dd078f0657ea00bec82cd1632c41fae3f05e01df0c5c832a",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6681,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Entenda ponto a ponto o decreto de emerg\u00eancia para dengue em Campinas",
+      "description": "Medida foi publicada na manh\u00e3 desta sexta no Di\u00e1rio Oficial. Objetivo \u00e9 flexibilizar compras e contrata\u00e7\u00f5es para conter o avan\u00e7o da epidemia. Metr\u00f3pole soma 14,8 mil casos e tr\u00eas mortes. Campinas decreta estado de emerg\u00eancia para dengue A Prefeitura de Campin\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/08/entenda-ponto-a-ponto-o-decreto-de-emergencia-para-dengue-em-campinas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/QJvEdngGAitcYL-_8fiRmXUg2Eg=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/12419166.jpg",
+      "publishedAt": "2024-03-08 11:23:57",
+      "content": "Entenda, abaixo, ponto a ponto, o que o decreto de emerg\u00eancia possibilita: Aquisi\u00e7\u00e3o de insumos e materiais para o controle vetorial e a assist\u00eancia a sa\u00fade das pessoas acometidas;C\u2026 [+7555 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.091750",
+      "internal_id": "802a8a45617d8b401af72f6f7e8f0d494e7567471a1c31a3a6682f498340fda3",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6687,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "El mapa del dengue: la epidemia avanza en el centro del pa\u00eds y en el norte siguen en alerta por la explosi\u00f3n de casos en Brasil",
+      "description": "Hay reuniones con la Organizaci\u00f3n Panamericana de la Salud por la emergencia regional y, ante el aumento de fallecidos, se form\u00f3 una red con referentes provinciales para unificar criterios de atenci\u00f3n de cuadros leves y graves",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-la-epidemia-avanza-en-el-centro-del-pais-y-en-el-norte-siguen-en-alerta-por-la-nid08032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-mosquito-aedes-aegypti-transmite-el-ANZYGCZQP5EK5BOHF26OGMVTNU.jpg?auth=1ca766195ebeb9a673eb820870a2bd79a8a28aa337d559502e939c129021c781&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-08 10:56:16",
+      "content": "Con una explosi\u00f3n de casos de dengue en Brasil que es un 400% mayor que el a\u00f1o pasado, sobre todo, concentrados en el sur y el sudeste brasile\u00f1o, las provincias argentinas del norte est\u00e1n en alerta m\u2026 [+9339 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.129885",
+      "internal_id": "4656679668ff5625bc7127c09c8e6e87c7495177e027e6bb1f4c6986272acf70",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
       "id": 6639,
       "query": [
         "meningitis"
@@ -779,6 +1087,24 @@
       "content": "Prev\u00e9 mejoras en la prestaci\u00f3n bucodental e implanta un vuelo nocturo entre hospitales de la Comunidad VALLADOLID, 8 Mar. (EUROPA PRESS) - La Consejer\u00eda de Sanidad dentro de su programa de Sa\u2026 [+2024 chars]",
       "retrievedAt": "2024-03-09 19:05:16.605734",
       "internal_id": "d47afd48624f9503eb5bf02eeec308de30a44c0ce90a888ffddf7cc2a9a7da18",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6690,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Vacina da dengue: Fala Brasil tira d\u00favidas sobre o imunizante",
+      "description": "Os n\u00fameros da dengue n\u00e3o param de aumentar no Brasil. Mas, um m\u00eas ap\u00f3s o in\u00edcio da distribui\u00e7\u00e3o das vacinas a estados e munic\u00edpios, menos de 1...",
+      "url": "https://recordtv.r7.com/fala-brasil/videos/vacina-da-dengue-fala-brasil-tira-duvidas-sobre-o-imunizante-08032024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/03/08/65eb0789c012adc69e000471/93d45feb9d174e31a17e3d369d69f724__2605628_EPP_0803_FB_TIRE_SUAS_DUVIDAS_thumb.jpg",
+      "publishedAt": "2024-03-08 10:23:00",
+      "content": "Os n\u00fameros da dengue n\u00e3o param de aumentar no Brasil. Mas, um m\u00eas ap\u00f3s o in\u00edcio da distribui\u00e7\u00e3o das vacinas a estados e munic\u00edpios, menos de 15% delas foram aplicadas e muitas pessoas est\u00e3o em d\u00favida\u2026 [+454 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.144281",
+      "internal_id": "0cd72460e2664b3b9791134de17fc807ebcd2866324a0f11fea41aef310434b8",
       "publishedAtLabel": "Mar 8"
     },
     {
@@ -887,6 +1213,24 @@
       "content": "O Distrito Federal deveria contar com 4.550 agentes para enfrentar a dengue, mas a Secretaria de Sa\u00fade tem apenas 1.383 profissionais efetivos. Diante do d\u00e9ficit, o Tribunal de Contas (TCDF) recomend\u2026 [+3541 chars]",
       "retrievedAt": "2024-03-09 07:05:21.496143",
       "internal_id": "7cf837715fe52fc688c410ee0f2a3d15cc0c00ea4aa13f137767644ddcd5176e",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6684,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Dengue: tr\u00eas estados e DF ampliam idade de vacina\u00e7\u00e3o",
+      "description": "Acre, Distrito Federal, Goi\u00e1s e Mato Grosso do Sul ampliaram a faixa et\u00e1ria de imuniza\u00e7\u00e3o contra a dengue para 14 anos. Inicialmente, os estados haviam",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-tres-estados-e-df-ampliam-idade-de-vacinacao/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/02/dengue.jpg",
+      "publishedAt": "2024-03-08 04:13:08",
+      "content": "\u00daltimas not\u00edcias: Acre, Distrito Federal, Goi\u00e1s e Mato Grosso do Sul ampliaram a faixa et\u00e1ria de imuniza\u00e7\u00e3o contra a dengue para 14 anos. Inicialmente, os estados haviam chamado apenas crian\u00e7as de 1\u2026 [+1837 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.107194",
+      "internal_id": "a12e7f29ddc02d3ac7af1d3dcf99ac36f7ed29433a16114d9a3650759705238a",
       "publishedAtLabel": "Mar 8"
     },
     {
@@ -1160,6 +1504,24 @@
       "publishedAtLabel": "Mar 7"
     },
     {
+      "id": 6683,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: mapa mostra incid\u00eancia de casos positivos por \u00e1rea de resid\u00eancia em Campinas",
+      "description": "Regi\u00e3o do CS Jardim Eulina \u00e9 a 'campe\u00e3', com taxa de 3,8 mil casos por 100 mil habitantes. Metr\u00f3pole tem 14,8 mil infectados e tr\u00eas mortes em 2024, e decretou estado de emerg\u00eancia nesta quinta. Campinas registra 14,8 mil casos e tr\u00eas mortes por dengue em 2024\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/07/dengue-mapa-mostra-incidencia-de-casos-positivos-por-area-de-residencia-em-campinas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/D91lVDz2UOuoKmUA7XjMswQvox8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/9/ZXEUPfQHO78slTEX68Qw/capturar3.jpg",
+      "publishedAt": "2024-03-07 21:03:42",
+      "content": "Um mapa elaborado pelo g1 a partir de dados do Departamento de Vigil\u00e2ncia em Sa\u00fade (Devisa) mostra, considerando os centros de sa\u00fade do local de resid\u00eancia dos pacientes infectados, as regi\u00f5es da met\u2026 [+6421 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.102457",
+      "internal_id": "def5892d0af4df7c883e52ff6fdedf8b307b59911c52c78a01704a736aa22ff2",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
       "id": 6609,
       "query": [
         "dengue"
@@ -1193,6 +1555,24 @@
       "content": "De acordo com a Secretaria Estadual de Sa\u00fade (SES), a cidade de Guarulhos, localizada na metr\u00f3pole paulista, registrou sua quinta morte por dengue nesta quinta-feira (7). Com este registro, o mun\u00edc\u2026 [+1156 chars]",
       "retrievedAt": "2024-03-09 07:05:21.624997",
       "internal_id": "43183d9938f0840398db12cf14014d1df5a0a1a2db55afe81427c9697c37ffbd",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 6688,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Record News contra dengue: telespectadores denunciam focos do mosquito em SP e na BA",
+      "description": "O Brasil est\u00e1 vivendo um aumento crescente de casos de dengue , e a Record News lan\u00e7ou uma campanha para os cidad\u00e3os denunciarem focos do mosq...",
+      "url": "https://noticias.r7.com/record-news/videos/telespectadores-denunciam-focos-de-dengue-em-sp-e-na-bahia-07032024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/03/07/65ea3850cd77c07e8100109a/2591589_EPP_RRN_0703_DENGUE_thumb.jpg",
+      "publishedAt": "2024-03-07 19:32:10",
+      "content": "O Brasil est\u00e1 vivendo um aumento crescente de casos de dengue , e a Record News lan\u00e7ou uma campanha para os cidad\u00e3os denunciarem focos do mosquito. Nesta quinta-feira (7), foram recebidas duas den\u00fanc\u2026 [+369 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.134494",
+      "internal_id": "417eff48f93f4cdba152f05f99f357c903c867fe1b0218ec5be4a2142dbeb417",
       "publishedAtLabel": "Mar 7"
     },
     {
@@ -1450,6 +1830,24 @@
       "publishedAtLabel": "Mar 7"
     },
     {
+      "id": 6680,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas decreta estado de emerg\u00eancia para dengue; entenda o que muda",
+      "description": "Cidade tem 14,8 mil casos da doen\u00e7a e tr\u00eas mortes neste ano. Mudan\u00e7a permite mais facilidade para ado\u00e7\u00e3o de medidas de conten\u00e7\u00e3o \u00e0 epidemia. O Aedes aegypti, mosquito transmissor da dengue, tem uma grande capacidade de adapta\u00e7\u00e3o. CDC A Prefeitura de Campinas \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/07/campinas-decreta-estado-de-emergencia-para-dengue-entenda-o-que-muda.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/5p--buPDkHueMzIfP4edBmwM6Xo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/G/b/qeFbeaSoeuZVAOBMOYgg/aedes.jpg",
+      "publishedAt": "2024-03-07 14:38:00",
+      "content": "A cidade registrou at\u00e9 agora 14,8 mil casos confirmados e tr\u00eas mortes, de acordo com o Painel Interativo de Arboviroses, que tem dados atualizados diariamente. Segundo o Departamento de Vigil\u00e2ncia \u2026 [+2859 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.086624",
+      "internal_id": "da5da7884cf772c0b8466d7a3ff7b2da6669055877098573a17a07432d96d872",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
       "id": 6613,
       "query": [
         "dengue"
@@ -1612,6 +2010,24 @@
       "publishedAtLabel": "Mar 7"
     },
     {
+      "id": 6689,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Vis\u00e3o do Corre",
+      "title": "Peixe come larva do mosquito da dengue em comunidades do RJ",
+      "description": "Estrat\u00e9gia de controle biol\u00f3gico coloca o peixe \u201cbarrigudinho\u201d em alagados, piscinas e subsolos de pr\u00e9dios abandonados",
+      "url": "https://www.terra.com.br/visao-do-corre/peixe-come-larva-do-mosquito-da-dengue-em-comunidades-do-rj,697b89a612f03c73c816418a656bea81itlhc758.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/07/barrigudinho-1jyisns2rvrs1.jpg",
+      "publishedAt": "2024-03-07 11:42:42",
+      "content": "ResumoPeixes conhecidos popularmente como \"barrigudinhos\" s\u00e3o introduzidos em locais com \u00e1gua parada e comem as larvas antes que se transformem em mosquitos da dengue. O controle biol\u00f3gico \u00e9 feito em\u2026 [+4166 chars]",
+      "retrievedAt": "2024-03-11 07:06:32.139213",
+      "internal_id": "5f011d02116794aa703128ab3ef38a0c9a5145f5ba045b83a45de0616eb24c0c",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
       "id": 6577,
       "query": [
         "dengue"
@@ -1722,7 +2138,8 @@
     {
       "id": 6592,
       "query": [
-        "zika"
+        "zika",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Perfil.com",
@@ -35037,6 +35454,132 @@
       "content": "O cen\u00e1rio epidemiol\u00f3gico da dengue colocou Manaus, capital do Amazonas, em estado de alerta. Neste s\u00e1bado (28), a Secretaria Municipal de Sa\u00fade (Semsa) divulgou um comunicado alertando que o n\u00famero\u2026 [+1024 chars]",
       "retrievedAt": "2024-01-30 07:05:32.093157",
       "internal_id": "0f22a74a61ed86e16fe91b15851b02255500a3e4039e52e836b319453dc5fc8b",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4733,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Minist\u00e9rio da Sa\u00fade divulga lista de cidades receber\u00e3o vacina contra a dengue",
+      "description": "Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha",
+      "url": "https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2024/01/vacina.jpg",
+      "publishedAt": "2024-01-28 18:52:03",
+      "content": "\u00daltimas not\u00edcias: Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha contra a dengue. Essas localida\u2026 [+1333 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.164251",
+      "internal_id": "72f1c569ace4975365295b27438b1ddeb3d269bcb72c9ef4f1249631bb66b727",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4724,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Casos de dengue sobem 26% no Estado de SP e secretaria j\u00e1 confirma quatro mortes no ano",
+      "description": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-01-28 16:22:57",
+      "content": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 a terceira semana epidemiol\u00f3gica de 2024 (com dados at\u00e9 o dia 20 de janeiro). O n\u00famero representa uma a\u2026 [+2557 chars]",
+      "retrievedAt": "2024-01-29 19:05:24.425804",
+      "internal_id": "1efaf5d5cb0f6f21d5e730c2c8175b5ae58fc4506ebcccf031f21bb998267521",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4723,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Viomundo.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue",
+      "description": "Minist\u00e9rio da Sa\u00fade, Conass e Conasems em nota O post Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue apareceu primeiro em Viomundo.",
+      "url": "https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html",
+      "urlToImage": "https://www.viomundo.com.br/wp-content/uploads/2024/01/ac044d91-3312-4a01-8f23-57c8980ce5fa.png",
+      "publishedAt": "2024-01-28 15:48:17",
+      "content": "NOTA CONJUNTA Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios unem esfor\u00e7os para a\u00e7\u00f5es de enfrentamento da dengue Desde o ano passado, o Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios est\u00e3o em constante monit\u2026 [+3677 chars]",
+      "retrievedAt": "2024-01-29 19:05:24.273642",
+      "internal_id": "9ccb2fb3a9cdbdb34473a05ea403c8a78a3c0a2303e1a82061b629129f30f128",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4732,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Clar\u00edn",
+      "author": "Ernesto Azarkevich",
+      "title": "Una beba de tres meses muri\u00f3 por dengue en Misiones",
+      "description": "Lleg\u00f3 a la guardia de un hospital con fiebre y fue derivada a terapia intensiva, pero no lograron estabilizarla.Es la v\u00edctima m\u00e1s joven del brote que ya caus\u00f3 9 muertes en la provincia.",
+      "url": "https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html",
+      "urlToImage": "https://www.clarin.com/img/2023/12/21/jMTZGJwoe_2000x1500__1.jpg",
+      "publishedAt": "2024-01-28 15:42:04",
+      "content": "Una beba de tres mesesmuri\u00f3 por dengue en Misiones y es la novena v\u00edctima en la provincia desde mediados de diciembre pasado. En la \u00faltima semana el sistema de salud report\u00f3 m\u00e1s de 2.600 cuadros febr\u2026 [+2602 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.160802",
+      "internal_id": "0b0fd0ee4e9094077b576368a8240cfa981b0137e588cc37f6755d414211ce93",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4730,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "F\u00e1bio Andrighetto",
+      "title": "Dengue no RJ dispara 587%, com mais de 9 mil casos em tr\u00eas semanas",
+      "description": "O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u00f5es, um n\u00famero que j\u00e1 supera a m\u00e9dia hist\u00f3rica para todo o m\u00eas. A situa\u00e7\u00e3o \u00e9 pr\u2026",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2021/02/istock-599881744.jpg",
+      "publishedAt": "2024-01-28 14:52:50",
+      "content": "\u00daltimas not\u00edcias: O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u2026 [+1806 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.154107",
+      "internal_id": "0892f851bd02e76d6fa09494c2842a3c71a097424b8424d17f9b43374e601a1c",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4722,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Mairead Maguire",
+      "title": "HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK",
+      "description": "Health officials in Ireland are keeping \u201cvery close watch\u201d as the number of cases have risen around Europe too.",
+      "url": "https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6283808/river/?height=400&version=6283810",
+      "publishedAt": "2024-01-28 14:40:52",
+      "content": "THE HSE HAS urged parents to make sure their children are vaccinated against measles, as the UK sees a spike in case numbers. The MMR vaccine protects against measles, mumps and rubella. In the UK\u2026 [+1711 chars]",
+      "retrievedAt": "2024-01-29 19:05:23.759567",
+      "internal_id": "62113caca466ead9afe1e1ae2e5c7d8f6e2345410ae6ba1b02df0f5f2f12e05c",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4721,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Multi-language measles campaign launched",
+      "description": "London has the lowest percentage of children who have received both doses, experts say.",
+      "url": "https://www.bbc.co.uk/news/articles/cglmrrnm5d9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2da6/live/135eb770-bc64-11ee-92a5-1d8f75943063.jpg",
+      "publishedAt": "2024-01-28 08:55:12",
+      "content": "Rhoda Ibrahim, from the Somali Advice and Forum of Information, told BBC Politics London: \"It's always the elderly men and women that don't speak English and it's also the mums. \"About 80% of the mu\u2026 [+683 chars]",
+      "retrievedAt": "2024-01-29 19:05:23.738701",
+      "internal_id": "e13bf1fb456bb23471488c6867b391bbf96b8bd03e39bbbb408ce79ebb92a0cd",
       "publishedAtLabel": "Jan 28"
     }
   ]

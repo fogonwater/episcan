@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-03-10 19:05
-- **Most recent article:** 2024-03-09 18:30:59
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-03-11 07:06
+- **Most recent article:** 2024-03-10 05:00:39
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-10 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 165 | 168 | 216 | 191 | 188 | 207 | 1135 |
-| measles | 86 | 45 | 68 | 45 | 100 | 80 | 424 |
-| malaria | 14 | 24 | 35 | 19 | 33 | 17 | 142 |
-| chikungunya | 7 | 10 | 12 | 8 | 14 | 16 | 67 |
-| zika | 15 | 8 | 13 | 6 | 13 | 11 | 66 |
-| meningitis | 16 | 3 | 8 | 8 | 7 | 4 | 46 |
-| rabies | 6 | 7 | 7 | 9 | 5 | 8 | 42 |
-| sarampión | 3 | 6 | 5 | 4 | 11 | 5 | 34 |
-| mpox | 4 | 3 | 5 | 8 | 6 | 1 | 27 |
-| pertussis | 4 | 3 | 2 | 6 | 0 | 4 | 19 |
-| typhoid | 0 | 2 | 1 | 2 | 2 | 1 | 8 |
-| yersinia | 1 | 0 | 1 | 2 | 1 | 1 | 6 |
-| leptospirosis | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Disease | 24-10 | 24-11 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 184 | 2 | 173 | 216 | 191 | 188 | 207 | 1161 |
+| measles | 86 | 0 | 47 | 68 | 45 | 100 | 80 | 426 |
+| malaria | 14 | 0 | 24 | 35 | 19 | 33 | 17 | 142 |
+| chikungunya | 8 | 1 | 10 | 12 | 8 | 14 | 16 | 69 |
+| zika | 15 | 1 | 8 | 13 | 6 | 13 | 11 | 67 |
+| meningitis | 16 | 0 | 3 | 8 | 8 | 7 | 4 | 46 |
+| rabies | 6 | 0 | 7 | 7 | 9 | 5 | 8 | 42 |
+| sarampión | 3 | 0 | 6 | 5 | 4 | 11 | 5 | 34 |
+| mpox | 5 | 1 | 3 | 5 | 8 | 6 | 1 | 29 |
+| pertussis | 4 | 0 | 3 | 2 | 6 | 0 | 4 | 19 |
+| typhoid | 0 | 0 | 2 | 1 | 2 | 2 | 1 | 8 |
+| yersinia | 1 | 0 | 0 | 1 | 2 | 1 | 1 | 6 |
+| leptospirosis | 0 | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -3146,6 +3146,10 @@ Source: [News API](https://newsapi.org/)
 
 - [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
 
+- [HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK](https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/) (TheJournal.ie)
+
+- [Multi-language measles campaign launched](https://www.bbc.co.uk/news/articles/cglmrrnm5d9o) (BBC News)
+
 ## 24-5 (malaria)
 
 - [Una vacuna de bajo coste previene los síntomas de la malaria en un 75 % de los casos](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/03/vacuna-bajo-coste-previene-sintomas-malaria-75-casos/0003_202402G3P32991.htm) (Lavozdegalicia.es)
@@ -3538,6 +3542,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
 
+- [Ministério da Saúde divulga lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
+
+- [Casos de dengue sobem 26% no Estado de SP e secretaria já confirma quatro mortes no ano](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html) (Terra.com.br)
+
+- [Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue](https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html) (Viomundo.com.br)
+
+- [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
+
+- [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
+
 ## 24-5 (chikungunya)
 
 - [Em São Paulo, número de casos de chikungunya sobe 830% em 2024](https://saude.ig.com.br/2024-02-03/aumento-de-casos-de-chikungunya-em-sao-paulo.html) (Ig.com.br)
@@ -3559,6 +3573,24 @@ Source: [News API](https://newsapi.org/)
 - [El ECDC notifica cerca de 500.000 casos del virus de Chikungunya en 2023, que ha provocado más de 400 muertes](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-cerca-500000-casos-virus-chikungunya-2023-provocado-mas-400-muertes-20240129165837.html) (Infosalus.com)
 
 - [Governo de MG decreta estado de emergência pelo alto número de casos de dengue](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/governo-de-mg-decreta-estado-de-emergencia-pelo-alto-numero-de-casos-de-dengue-29012024) (R7.com)
+
+## 24-11 (zika)
+
+- [Una bacteria y un virus que secuestran el esperma de los mosquitos, promesa contra el zika y el dengue](https://www.abc.es/ciencia/bacteria-virus-secuestran-esperma-mosquitos-promesa-zika-20240307155822-nt.html) (Www.abc.es)
+
+## 24-11 (mpox)
+
+- [TWiV 1095: Monkeys fly and mice exaggerate](https://www.microbe.tv/twiv/twiv-1095/) (Microbe.tv)
+
+## 24-11 (dengue)
+
+- [Dengue pode ser transmitida em relação sexual? Médicos esclarecem](https://www.metropoles.com/saude/dengue-transmitida-relacao-sexual) (Metropoles.com)
+
+- [Una bacteria y un virus que secuestran el esperma de los mosquitos, promesa contra el zika y el dengue](https://www.abc.es/ciencia/bacteria-virus-secuestran-esperma-mosquitos-promesa-zika-20240307155822-nt.html) (Www.abc.es)
+
+## 24-11 (chikungunya)
+
+- [Una bacteria y un virus que secuestran el esperma de los mosquitos, promesa contra el zika y el dengue](https://www.abc.es/ciencia/bacteria-virus-secuestran-esperma-mosquitos-promesa-zika-20240307155822-nt.html) (Www.abc.es)
 
 ## 24-10 (zika)
 
@@ -3629,6 +3661,8 @@ Source: [News API](https://newsapi.org/)
 - [Form: Pertussis: enhanced surveillance form](https://www.gov.uk/government/publications/pertussis-enhanced-surveillance-form) (Www.gov.uk)
 
 ## 24-10 (mpox)
+
+- [Health Officials Warn of Rise in Monkeypox Cases in North Carolina](https://legalinsurrection.com/2024/03/health-officials-warn-of-rise-in-monkeypox-cases-in-north-carolina/) (Legalinsurrection.com)
 
 - [What Is Monkeypox and Should we Still be Worried About this Virus?](https://www.discovermagazine.com/health/what-is-monkeypox-and-should-we-still-be-worried-about-this-virus) (Discover Magazine)
 
@@ -3878,6 +3912,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-10 (dengue)
 
+- [Rio de Janeiro registra 2 mil casos de dengue em 24 horas](https://saude.ig.com.br/2024-03-09/rio-de-janeiro-registra-2-mil-casos-de-dengue-em-24-horas.html) (Ig.com.br)
+
+- [São Paulo registra 51 mortes por dengue em 2024](https://www.terra.com.br/vida-e-estilo/saude/sao-paulo-registra-51-mortes-por-dengue-em-2024,3c01392fc674b3739f4d30666504decdqjwxozxr.html) (Terra.com.br)
+
+- [Dengue, sale l’allerta negli aeroporti: test ai passeggeri in arrivo dai Paesi a rischio](https://www.ilsole24ore.com/art/sale-l-allerta-dengue-aeroporti-test-passeggeri-arrivo-paesi-rischio-AF5bsozC) (Il Sole 24 Ore)
+
+- [SP chega a 51 mortes por dengue e capital registra 3º óbito](https://www.metropoles.com/sao-paulo/sp-chega-a-51-mortes-por-dengue-e-capital-registra-3o-obito) (Metropoles.com)
+
 - [Dengue: o que falta para o Brasil ter mais doses da vacina?](https://www.metropoles.com/saude/dengue-o-que-falta-brasil-ter-mais-vacinas) (Metropoles.com)
 
 - [Dengue vive seu pior ano, mas poderá estar controlada em uma década](https://www.metropoles.com/saude/dengue-vive-seu-pior-ano-mas-podera-estar-controlada-em-uma-decada) (Metropoles.com)
@@ -3890,11 +3932,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue pode causar queda de cabelo; entenda melhor](https://www.terra.com.br/vida-e-estilo/dengue-pode-causar-queda-de-cabelo-entenda-melhor,4bccc564ecbae3618031e021fc5b4e1ctijgv80n.html) (Terra.com.br)
 
+- [Estado de SP registra 51 mortes por dengue, e capital paulista confirma terceiro óbito](https://noticias.r7.com/sao-paulo/mortes-dengue-estado-sao-paulo-09032024) (R7.com)
+
+- [Dengue: mutirão vistoria imóveis e retira entulhos na zona Leste; veja incidência de casos em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/09/dengue-mutirao-vistoria-imoveis-e-retira-entulhos-na-zona-leste-veja-incidencia-de-casos-em-campinas.ghtml) (Globo)
+
 - [Sobem para 16 as mortes por dengue entre os gaúchos neste ano](https://www.terra.com.br/noticias/sobem-para-16-as-mortes-por-dengue-entre-os-gauchos-neste-ano,54d8f001313e3c7e18e0344141f80302be6npmmw.html) (Terra.com.br)
 
 - [Dengue, nuova circolare in arrivo: maggiori controlli in porti e aeroporti, ipotesi test rapidi](https://www.ilfattoquotidiano.it/2024/03/09/dengue-nuova-circolare-in-arrivo-maggiori-controlli-in-porti-e-aeroporti-ipotesi-test-rapidi/7473783/) (Ilfattoquotidiano.it)
 
 - [Zika, chikungunya e dengue: entenda a diferença entre as doenças](https://www.metropoles.com/saude/zika-chikungunya-dengue-entenda-diferenca) (Metropoles.com)
+
+- [Brasil registrou média de 19,7 mil casos de dengue por dia entre 1º de janeiro e 8 de março](https://noticias.r7.com/saude/brasil-registrou-media-de-197-mil-casos-de-dengue-por-dia-entre-1-de-janeiro-e-8-de-marco-09032024) (R7.com)
 
 - [Governo vê supostos 16 ‘eventos adversos’ em vacina contra dengue](https://valor.globo.com/brasil/noticia/2024/03/08/governo-ve-supostos-16-eventos-adversos-em-vacina-contra-dengue.ghtml) (Globo)
 
@@ -3902,11 +3950,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Vacinas contra dengue encalham em SP e cidades ampliam faixa etária](https://jornaldebrasilia.com.br/noticias/brasil/vacinas-contra-dengue-encalham-em-sp-e-cidades-ampliam-faixa-etaria/) (Jornaldebrasilia.com.br)
 
+- [Vacina da dengue começa a faltar na rede privada em São Paulo](https://noticias.r7.com/record-news/videos/vacina-da-dengue-comeca-a-faltar-na-rede-privada-em-sao-paulo-08032024) (R7.com)
+
 - [Dengue pode causar queda de cabelo? Entenda como doença afeta os fios](https://www.metropoles.com/saude/dengue-causa-queda-de-cabelo-entenda) (Metropoles.com)
 
 - [Anápolis realiza vacinação contra dengue em 5 UBSs neste sábado (9/3)](https://www.metropoles.com/brasil/anapolis-realiza-vacinacao-contra-dengue-em-5-ubss-neste-sabado-9-3) (Metropoles.com)
 
 - [Ministério da Saúde esclarece reações adversas após vacina da dengue](https://veja.abril.com.br/saude/ministerio-da-saude-esclarece-reacoes-adversas-apos-vacina-da-dengue) (Abril.com.br)
+
+- [Pedido de vacina, telemedicina, Dia D: prefeitos da RMC definem ações conjuntas para tentar conter cenário trágico de dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/08/pedido-de-vacina-telemedicina-dia-d-prefeitos-da-rmc-definem-acoes-conjuntas-para-tentar-conter-cenario-tragico-de-dengue.ghtml) (Globo)
 
 - [Dengue no RS: Estudante de Biomedicina, 26 anos, morre dias antes de se formar](https://www.terra.com.br/noticias/dengue-no-rs-estudante-de-biomedicina-26-anos-morre-dias-antes-de-se-formar,8e6f19af740b05f43c36c6f5b77da65fop92fxoi.html) (Terra.com.br)
 
@@ -3924,19 +3976,33 @@ Source: [News API](https://newsapi.org/)
 
 - [First dengue bout can be as severe as secondary infection, India study finds](https://timesofindia.indiatimes.com/home/science/first-dengue-bout-can-be-as-severe-as-secondary-infection-india-study-finds/articleshow/108330870.cms) (The Times of India)
 
+- [Ministério identifica 16 casos de reações alérgicas à vacina da dengue em 365 mil doses aplicadas](https://noticias.r7.com/saude/ministerio-identifica-16-casos-de-reacoes-alergicas-a-vacina-da-dengue-em-365-mil-doses-aplicadas-08032024) (R7.com)
+
+- [Entenda ponto a ponto o decreto de emergência para dengue em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/08/entenda-ponto-a-ponto-o-decreto-de-emergencia-para-dengue-em-campinas.ghtml) (Globo)
+
+- [El mapa del dengue: la epidemia avanza en el centro del país y en el norte siguen en alerta por la explosión de casos en Brasil](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-la-epidemia-avanza-en-el-centro-del-pais-y-en-el-norte-siguen-en-alerta-por-la-nid08032024/) (La Nacion)
+
+- [Vacina da dengue: Fala Brasil tira dúvidas sobre o imunizante](https://recordtv.r7.com/fala-brasil/videos/vacina-da-dengue-fala-brasil-tira-duvidas-sobre-o-imunizante-08032024) (R7.com)
+
 - [A corrida 'urgente' para encontrar remédios efetivos contra a dengue](https://www.bbc.com/portuguese/articles/c876x3nj6r7o) (BBC News)
 
 - [Combate à dengue: sintomas e prevenção](https://saude.ig.com.br/colunas/drbacteria/2024-03-08/combate-a-dengue-sintomas-e-prevencao.html) (Ig.com.br)
 
 - [Dengue: TCDF cobra nomeação de agentes comunitários em meio à epidemia](https://www.metropoles.com/distrito-federal/dengue-tcdf-cobra-nomeacao-de-agentes-comunitarios-em-meio-a-epidemia) (Metropoles.com)
 
+- [Dengue: três estados e DF ampliam idade de vacinação](https://catracalivre.com.br/saude-bem-estar/dengue-tres-estados-e-df-ampliam-idade-de-vacinacao/) (Catracalivre.com.br)
+
 - [Guatemala declara alerta por dengue al sumar tres muertos y 7.000 casos en 2024](https://www.nacion.com/el-mundo/interes-humano/guatemala-declara-alerta-por-dengue-al-sumar-tres/HJK55KWF4JBLNNJQIDREJ3LF4I/story/) (Nacion.com)
 
 - [SP chega a 44 mortes por dengue; seis óbitos foram registrados hoje](https://saude.ig.com.br/2024-03-07/sp-44-mortes-dengue.html) (Ig.com.br)
 
+- [Dengue: mapa mostra incidência de casos positivos por área de residência em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/07/dengue-mapa-mostra-incidencia-de-casos-positivos-por-area-de-residencia-em-campinas.ghtml) (Globo)
+
 - [Dengue en Uruguay: hay cuatro casos nuevos, importados de Brasil y Argentina, según MSP](https://www.montevideo.com.uy/Salud/Dengue-en-Uruguay-hay-cuatro-casos-nuevos-importados-de-Brasil-y-Argentina-segun-MSP-uc881896) (Montevideo.com.uy)
 
 - [Dengue: Guarulhos chega a 5 óbitos e se torna a cidade com mais mortes](https://saude.ig.com.br/2024-03-07/guarulhos-vitimas-dengue.html) (Ig.com.br)
+
+- [Record News contra dengue: telespectadores denunciam focos do mosquito em SP e na BA](https://noticias.r7.com/record-news/videos/telespectadores-denunciam-focos-de-dengue-em-sp-e-na-bahia-07032024) (R7.com)
 
 - [Com 5 mortes, Guarulhos é a cidade paulista com mais vítimas da dengue](https://www.metropoles.com/sao-paulo/guarulhos-cidade-mais-vitimas-dengue) (Metropoles.com)
 
@@ -3958,17 +4024,23 @@ Source: [News API](https://newsapi.org/)
 
 - [PCDF prende funcionários do Iges por furto e venda de exames da dengue](https://www.metropoles.com/distrito-federal/na-mira/pcdf-prende-funcionarios-do-iges-por-furto-e-venda-de-exames-da-dengue) (Metropoles.com)
 
+- [Campinas decreta estado de emergência para dengue; entenda o que muda](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/07/campinas-decreta-estado-de-emergencia-para-dengue-entenda-o-que-muda.ghtml) (Globo)
+
 - [Vacinação contra a dengue no Rio chega à faixa de 13 e 14 anos](https://saude.ig.com.br/2024-03-07/vacinacao-contra-dengue-rio-13-e-14-anos.html) (Ig.com.br)
 
 - [Anvisa priorizará registro de dispositivos para diagnóstico de dengue](https://saude.ig.com.br/2024-03-07/anvisa-priorizara-registro-de-dispositivos-para-diagnostico-de-dengue.html) (Ig.com.br)
 
 - [Ministério da Saúde estuda limitar emendas parlamentares contra dengue](https://www.metropoles.com/colunas/guilherme-amado/ministerio-da-saude-estuda-limitar-emendas-parlamentares-contra-dengue) (Metropoles.com)
 
+- [Peixe come larva do mosquito da dengue em comunidades do RJ](https://www.terra.com.br/visao-do-corre/peixe-come-larva-do-mosquito-da-dengue-em-comunidades-do-rj,697b89a612f03c73c816418a656bea81itlhc758.html) (Terra.com.br)
+
 - [Roupa Repelente: Pra se proteger da Dengue com estilo](https://modaparahomens.com.br/roupa-repelente-pra-se-proteger-da-dengue-com-estilo/) (Modaparahomens.com.br)
 
 - [Emergenza per la siccità nello Zambia](https://www.internazionale.it/magazine/2024/03/07/emergenza-per-la-siccita-nello-zambia) (Internazionale.it)
 
 - [Vacina da dengue acabou? Casos disparam no país e oferta cai na rede privada](https://www.infomoney.com.br/consumo/vacina-da-dengue-acabou-casos-disparam-no-pais-e-oferta-cai-na-rede-privada/) (InfoMoney)
+
+- [Repelentes: qué se debe tener en cuenta](https://noticias.perfil.com/noticias/medicina/repelentes-que-se-debe-tener-en-cuenta.phtml) (Perfil.com)
 
 - [Dengue: atividade com Exército será realizada nesta quinta-feira em Porto Alegre](https://www.terra.com.br/noticias/dengue-atividade-com-exercito-sera-realizada-nesta-quinta-feira-em-porto-alegre,0abdd3ab90556f00becb3a4d915b6f19q02wxjtk.html) (Terra.com.br)
 
@@ -4209,6 +4281,8 @@ Source: [News API](https://newsapi.org/)
 - [Governo fará vacinação nas escolas a partir de março, diz ministra da Saúde](https://www.terra.com.br/vida-e-estilo/saude/governo-fara-vacinacao-nas-escolas-a-partir-de-marco-diz-ministra-da-saude,10e10e781ee3bfc5da2f7da4245dd845hpucp7zp.html) (Terra.com.br)
 
 ## 24-10 (chikungunya)
+
+- [Mato Grosso registra 1ª morte por chikungunya; vítima tinha 73 anos](https://www.metropoles.com/brasil/mato-grosso-registra-1a-morte-por-chikungunya-vitima-tinha-73-anos) (Metropoles.com)
 
 - [MSP confirmó nuevo caso autóctono de dengue y primero importado de chikungunya](https://www.montevideo.com.uy/Salud/MSP-confirmo-nuevo-caso-autoctono-de-dengue-y-primero-importado-de-chikungunya-uc882058) (Montevideo.com.uy)
 
