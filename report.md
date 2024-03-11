@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2024-03-11 07:06
-- **Most recent article:** 2024-03-10 05:00:39
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-03-11 19:05
+- **Most recent article:** 2024-03-10 18:56:53
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 184 | 2 | 173 | 216 | 191 | 188 | 207 | 1161 |
-| measles | 86 | 0 | 47 | 68 | 45 | 100 | 80 | 426 |
-| malaria | 14 | 0 | 24 | 35 | 19 | 33 | 17 | 142 |
-| chikungunya | 8 | 1 | 10 | 12 | 8 | 14 | 16 | 69 |
-| zika | 15 | 1 | 8 | 13 | 6 | 13 | 11 | 67 |
-| meningitis | 16 | 0 | 3 | 8 | 8 | 7 | 4 | 46 |
+| dengue | 184 | 15 | 168 | 216 | 191 | 188 | 207 | 1169 |
+| measles | 86 | 4 | 45 | 68 | 45 | 100 | 80 | 428 |
+| malaria | 15 | 4 | 24 | 35 | 19 | 33 | 17 | 147 |
+| chikungunya | 8 | 2 | 10 | 12 | 8 | 14 | 16 | 70 |
+| zika | 16 | 2 | 8 | 13 | 6 | 13 | 11 | 69 |
+| meningitis | 16 | 1 | 3 | 8 | 8 | 7 | 4 | 47 |
 | rabies | 6 | 0 | 7 | 7 | 9 | 5 | 8 | 42 |
 | sarampión | 3 | 0 | 6 | 5 | 4 | 11 | 5 | 34 |
 | mpox | 5 | 1 | 3 | 5 | 8 | 6 | 1 | 29 |
@@ -3146,10 +3146,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
 
-- [HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK](https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/) (TheJournal.ie)
-
-- [Multi-language measles campaign launched](https://www.bbc.co.uk/news/articles/cglmrrnm5d9o) (BBC News)
-
 ## 24-5 (malaria)
 
 - [Una vacuna de bajo coste previene los síntomas de la malaria en un 75 % de los casos](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/03/vacuna-bajo-coste-previene-sintomas-malaria-75-casos/0003_202402G3P32991.htm) (Lavozdegalicia.es)
@@ -3542,16 +3538,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
 
-- [Ministério da Saúde divulga lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
-
-- [Casos de dengue sobem 26% no Estado de SP e secretaria já confirma quatro mortes no ano](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html) (Terra.com.br)
-
-- [Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue](https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html) (Viomundo.com.br)
-
-- [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
-
-- [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
-
 ## 24-5 (chikungunya)
 
 - [Em São Paulo, número de casos de chikungunya sobe 830% em 2024](https://saude.ig.com.br/2024-02-03/aumento-de-casos-de-chikungunya-em-sao-paulo.html) (Ig.com.br)
@@ -3576,19 +3562,73 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (zika)
 
+- [Crise climática potencializa casos de dengue no Brasil](https://www.metropoles.com/brasil/crise-climatica-dengue-brasil) (Metropoles.com)
+
 - [Una bacteria y un virus que secuestran el esperma de los mosquitos, promesa contra el zika y el dengue](https://www.abc.es/ciencia/bacteria-virus-secuestran-esperma-mosquitos-promesa-zika-20240307155822-nt.html) (Www.abc.es)
 
 ## 24-11 (mpox)
 
 - [TWiV 1095: Monkeys fly and mice exaggerate](https://www.microbe.tv/twiv/twiv-1095/) (Microbe.tv)
 
+## 24-11 (meningitis)
+
+- [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
+
+## 24-11 (measles)
+
+- [CDPH reports second measles case at Pilsen migrant shelter](http://www.nbcchicago.com/news/health/health-wellness-science-news/second-case-of-measles-confirmed-at-pilsen-migrant-shelter-cdph-says/3378540/) (NBC Chicago)
+
+- [Another migrant child at Pilsen shelter diagnosed with measles](https://www.fox32chicago.com/news/chicago-migrant-child-pilsen-shelter-measles) (FOX 32 Chicago)
+
+- [Measles outbreak Chicago: Second child diagnosed at Pilsen migrant shelter in third city case, CDPH says](https://abc7chicago.com/measles-chicago-outbreak-pilsen-migrant-shelter/14510818/) (WLS-TV)
+
+- [No new cases reported after Indiana measles outbreak](http://www.chicagotribune.com/2024/03/10/no-new-cases-reported-after-indiana-measles-outbreak/) (Chicago Tribune)
+
+## 24-11 (malaria)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.investing.com/news/stock-market-news/indias-serum-looks-beyond-covid-with-new-vaccines-for-malaria-dengue-3331513) (Investing.com)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-new-vaccines-malaria-dengue-4185221) (CNA)
+
+- [India's Serum looks beyond COVID-19 with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-19-new-vaccines-malaria-dengue-4185221) (CNA)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/) (Marketscreener.com)
+
 ## 24-11 (dengue)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.investing.com/news/stock-market-news/indias-serum-looks-beyond-covid-with-new-vaccines-for-malaria-dengue-3331513) (Investing.com)
+
+- [Crise climática potencializa casos de dengue no Brasil](https://www.metropoles.com/brasil/crise-climatica-dengue-brasil) (Metropoles.com)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-new-vaccines-malaria-dengue-4185221) (CNA)
+
+- [India's Serum looks beyond COVID-19 with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-19-new-vaccines-malaria-dengue-4185221) (CNA)
+
+- [Quaest: 26% dos brasileiros não pretendem tomar vacina contra a dengue](https://saude.ig.com.br/2024-03-10/pesquisa-quaest-vacinacao-contra-dengue.html) (Ig.com.br)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/) (Marketscreener.com)
+
+- [Em um mês, casos de dengue dobram em São Paulo](https://jornaldebrasilia.com.br/noticias/brasil/em-um-mes-casos-de-dengue-dobram-em-sao-paulo/) (Jornaldebrasilia.com.br)
+
+- [Minas Gerais responde por um em cada três casos de dengue no país](https://saude.ig.com.br/2024-03-10/engue-casos-minas-gerais-brasil.html) (Ig.com.br)
+
+- [Cidade do Rio registra mais de 2 mil casos de dengue em 24 horas](https://saude.ig.com.br/2024-03-10/cidade-do-rio-registra-mais-de-2-mil-casos-de-dengue-em-24-horas.html) (Ig.com.br)
+
+- [Dengue: menores terão de esperar até meia hora após vacinação. Entenda](https://www.metropoles.com/distrito-federal/dengue-menores-terao-de-esperar-ate-meia-hora-apos-vacinacao-entenda) (Metropoles.com)
+
+- [Comunidades más afectadas por dengue recibirán repelentes y toldos contra mosquitos](https://www.nacion.com/el-pais/salud/comunidades-mas-afectadas-por-dengue-recibiran/CPDPFRM3CFAQ3J73RNFY7Z3W3I/story/) (Nacion.com)
+
+- [5 plantas que realmente afastam o mosquito da dengue](https://www.terra.com.br/vida-e-estilo/saude/5-plantas-que-realmente-afastam-o-mosquito-da-dengue,1fb5fe768a6d201675d4c8f49e636f57jmw0p7sg.html) (Terra.com.br)
+
+- [Co-infecção de Covid e Dengue: riscos ao contrair ambas ao mesmo tempo](https://saude.ig.com.br/2024-03-10/co-infeccao-de-covid-e-dengue--riscos-ao-contrair-ambas-ao-mesmo-tempo.html) (Ig.com.br)
 
 - [Dengue pode ser transmitida em relação sexual? Médicos esclarecem](https://www.metropoles.com/saude/dengue-transmitida-relacao-sexual) (Metropoles.com)
 
 - [Una bacteria y un virus que secuestran el esperma de los mosquitos, promesa contra el zika y el dengue](https://www.abc.es/ciencia/bacteria-virus-secuestran-esperma-mosquitos-promesa-zika-20240307155822-nt.html) (Www.abc.es)
 
 ## 24-11 (chikungunya)
+
+- [Crise climática potencializa casos de dengue no Brasil](https://www.metropoles.com/brasil/crise-climatica-dengue-brasil) (Metropoles.com)
 
 - [Una bacteria y un virus que secuestran el esperma de los mosquitos, promesa contra el zika y el dengue](https://www.abc.es/ciencia/bacteria-virus-secuestran-esperma-mosquitos-promesa-zika-20240307155822-nt.html) (Www.abc.es)
 
@@ -3597,6 +3637,8 @@ Source: [News API](https://newsapi.org/)
 - [MSP confirmó nuevo caso autóctono de dengue y primero importado de chikungunya](https://www.montevideo.com.uy/Salud/MSP-confirmo-nuevo-caso-autoctono-de-dengue-y-primero-importado-de-chikungunya-uc882058) (Montevideo.com.uy)
 
 - [Zika, chikungunya e dengue: entenda a diferença entre as doenças](https://www.metropoles.com/saude/zika-chikungunya-dengue-entenda-diferenca) (Metropoles.com)
+
+- [Zika virus vaccine emerges as an unlikely hero in battling brain cancer](https://www.sciencedaily.com/releases/2024/03/240308123306.htm) (Science Daily)
 
 - [U.S. Public Health Response to the Zika Virus: Continuing Challenges - 05/22/2017](https://www.fda.gov/news-events/congressional-testimony/us-public-health-response-zika-virus-continuing-challenges-05222017) (FDA.gov)
 
@@ -3887,6 +3929,8 @@ Source: [News API](https://newsapi.org/)
 - [Seonmi Choi: “Asociamos las infecciones transmitidas por mosquitos a países pobres, pero también llegarán a Europa”](https://www.eldiario.es/sociedad/seonmi-choi-asociamos-infecciones-transmitidas-mosquitos-paises-pobres-llegaran-europa_128_10983495.html) (Eldiario.es)
 
 - [Africa Accounts for 95 Percent of Malaria Deaths Globally - WHO](https://allafrica.com/stories/202403080434.html) (AllAfrica - Top Africa News)
+
+- [The Malaria parasite generates genetic diversity using an evolutionary 'copy-paste' tactic](https://www.sciencedaily.com/releases/2024/03/240307165056.htm) (Science Daily)
 
 - [New study finds the malaria parasite generates genetic diversity using an evolutionary 'copy-paste' tactic](https://phys.org/news/2024-03-malaria-parasite-generates-genetic-diversity.html) (Phys.Org)
 
