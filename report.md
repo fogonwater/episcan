@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2024-03-12 07:06
-- **Most recent article:** 2024-03-11 07:00:08
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-03-12 19:05
+- **Most recent article:** 2024-03-11 18:51:49
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 22 | 173 | 216 | 191 | 188 | 207 | 1189 |
-| measles | 86 | 10 | 47 | 68 | 45 | 100 | 80 | 436 |
-| malaria | 15 | 4 | 24 | 35 | 19 | 33 | 17 | 147 |
+| dengue | 192 | 28 | 168 | 216 | 191 | 188 | 207 | 1190 |
+| measles | 86 | 17 | 45 | 68 | 45 | 100 | 80 | 441 |
+| malaria | 15 | 6 | 24 | 35 | 19 | 33 | 17 | 149 |
+| zika | 16 | 5 | 8 | 13 | 6 | 13 | 11 | 72 |
 | chikungunya | 8 | 2 | 10 | 12 | 8 | 14 | 16 | 70 |
-| zika | 16 | 2 | 8 | 13 | 6 | 13 | 11 | 69 |
-| meningitis | 16 | 1 | 3 | 8 | 8 | 7 | 4 | 47 |
-| rabies | 6 | 0 | 7 | 7 | 9 | 5 | 8 | 42 |
+| meningitis | 16 | 2 | 3 | 8 | 8 | 7 | 4 | 48 |
+| rabies | 6 | 1 | 7 | 7 | 9 | 5 | 8 | 43 |
 | sarampión | 3 | 0 | 6 | 5 | 4 | 11 | 5 | 34 |
 | mpox | 5 | 1 | 3 | 5 | 8 | 6 | 1 | 29 |
 | pertussis | 4 | 0 | 3 | 2 | 6 | 0 | 4 | 19 |
 | typhoid | 0 | 0 | 2 | 1 | 2 | 2 | 1 | 8 |
-| yersinia | 1 | 0 | 0 | 1 | 2 | 1 | 1 | 6 |
+| yersinia | 1 | 1 | 0 | 1 | 2 | 1 | 1 | 7 |
 | leptospirosis | 0 | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
@@ -3146,10 +3146,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
 
-- [HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK](https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/) (TheJournal.ie)
-
-- [Multi-language measles campaign launched](https://www.bbc.co.uk/news/articles/cglmrrnm5d9o) (BBC News)
-
 ## 24-5 (malaria)
 
 - [Una vacuna de bajo coste previene los síntomas de la malaria en un 75 % de los casos](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/03/vacuna-bajo-coste-previene-sintomas-malaria-75-casos/0003_202402G3P32991.htm) (Lavozdegalicia.es)
@@ -3542,16 +3538,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
 
-- [Ministério da Saúde divulga lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
-
-- [Casos de dengue sobem 26% no Estado de SP e secretaria já confirma quatro mortes no ano](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html) (Terra.com.br)
-
-- [Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue](https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html) (Viomundo.com.br)
-
-- [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
-
-- [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
-
 ## 24-5 (chikungunya)
 
 - [Em São Paulo, número de casos de chikungunya sobe 830% em 2024](https://saude.ig.com.br/2024-02-03/aumento-de-casos-de-chikungunya-em-sao-paulo.html) (Ig.com.br)
@@ -3576,9 +3562,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (zika)
 
+- [Mala noticia: descubren que el Aedes aegypti se adapta a temperaturas locales](https://www.montevideo.com.uy/Salud/Mala-noticia-descubren-que-el-Aedes-aegypti-se-adapta-a-temperaturas-locales-uc882217) (Montevideo.com.uy)
+
+- [Can the Zika vaccine fight brain cancer?](https://www.futurity.org/zika-vaccine-brain-cancer-3191172/) (Futurity: Research News)
+
+- [PharmaMar frena la inversión del área de virología y cierra el estudio Covid](https://www.eleconomista.es/salud/noticias/12715539/03/24/pharmamar-frena-la-inversion-del-area-de-virologia-y-cierra-el-estudio-covid.html) (Eleconomista.es)
+
 - [Crise climática potencializa casos de dengue no Brasil](https://www.metropoles.com/brasil/crise-climatica-dengue-brasil) (Metropoles.com)
 
 - [Una bacteria y un virus que secuestran el esperma de los mosquitos, promesa contra el zika y el dengue](https://www.abc.es/ciencia/bacteria-virus-secuestran-esperma-mosquitos-promesa-zika-20240307155822-nt.html) (Www.abc.es)
+
+## 24-11 (yersinia)
+
+- [Döbbenetes titkot rejt a valaha látott legnagyobb tömeges temetkezési hely](https://www.origo.hu/tudomany/2024/03/temetkezesi-hely-titkot-rejt-a-valaha-latott-legnagyobb-tomeges) (Origo.hu)
+
+## 24-11 (rabies)
+
+- [The Mad Stone, a Sure-Fire Cure for Rabies](https://www.neatorama.com/2024/03/11/The-Mad-Stone-a-Sure-Fire-Cure-for-Rabies/) (Neatorama.com)
 
 ## 24-11 (mpox)
 
@@ -3586,9 +3586,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (meningitis)
 
+- [Nigeria: Over 500 Recover From Meningitis Outbreak in Yobe](https://allafrica.com/stories/202403110296.html) (AllAfrica - Top Africa News)
+
 - [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
 
 ## 24-11 (measles)
+
+- [Second Child Diagnosed With Measles at Chicago Illegal Immigrant Shelter](https://legalinsurrection.com/2024/03/second-child-diagnosed-with-measles-at-chicago-illegal-immigrant-shelter/) (Legalinsurrection.com)
+
+- [Second child develops measles in Pilsen migrant shelter, officials say](http://www.chicagotribune.com/2024/03/11/second-child-develops-measles-migrant-shelter/) (Chicago Tribune)
+
+- [Measles and Rubella Immunization campaign: All children of 413 local levels vaccinated](https://english.khabarhub.com/2024/11/345542/) (Khabarhub.com)
+
+- [NHS England was wrong to claim its data showed 3.4 million children are ‘unprotected’ against measles - Full Fact](https://fullfact.org/health/nhs-england-children-unprotected-measles-mmr/) (Full Fact)
+
+- [Chicago migrant crisis: Second measles case confirmed at shelter](https://www.newsnationnow.com/health/second-measles-case-chicago-migrant-shelter/) (Newsnationnow.com)
+
+- [Measles outbreak Chicago: CDC to help with measles response after 2nd child diagnosed at Pilsen migrant shelter](https://abc7chicago.com/measles-outbreak-chicago-how-long-does-vaccine-last-symptoms-migrant-shelter/14513345/) (WLS-TV)
+
+- [More parents are delaying their kids' vaccines, and it's alarming pediatricians](https://www.latimes.com/california/story/2024-03-11/parents-delaying-kids-vaccines-posing-risk-to-toddlers) (Los Angeles Times)
 
 - [‘I didn’t get the MMR jab as a baby but want to get vaccinated against measles now — here’s why’](https://www.independent.ie/life/health-wellbeing/health-features/i-didnt-get-the-mmr-jab-as-a-baby-but-want-to-get-vaccinated-against-measles-now-heres-why/a950757768.html) (Independent.ie)
 
@@ -3612,6 +3628,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (malaria)
 
+- [El Museo Nacional de Ciencias Naturales inaugura la exposición 'Misión Malaria: una mirada histórica'](https://www.infosalus.com/salud-investigacion/noticia-museo-nacional-ciencias-naturales-inaugura-exposicion-mision-malaria-mirada-historica-20240311143354.html) (Infosalus.com)
+
+- [Why the Credit Card Competition Act Won’t Lower Merchant Interchange Fees](https://www.pymnts.com/credit-cards/2024/why-the-credit-card-competition-act-wont-lower-merchant-interchange-fees/) (pymnts.com)
+
 - [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.investing.com/news/stock-market-news/indias-serum-looks-beyond-covid-with-new-vaccines-for-malaria-dengue-3331513) (Investing.com)
 
 - [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-new-vaccines-malaria-dengue-4185221) (CNA)
@@ -3621,6 +3641,18 @@ Source: [News API](https://newsapi.org/)
 - [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/) (Marketscreener.com)
 
 ## 24-11 (dengue)
+
+- [Dengue: continente americano acumula quase 1,9 milhão de casos, a maioria no Brasil](https://sputniknewsbr.com.br/20240311/dengue-continente-americano-acumula-quase-19-milhao-de-casos-a-maioria-no-brasil-33503548.html) (Sputniknewsbr.com.br)
+
+- [Mala noticia: descubren que el Aedes aegypti se adapta a temperaturas locales](https://www.montevideo.com.uy/Salud/Mala-noticia-descubren-que-el-Aedes-aegypti-se-adapta-a-temperaturas-locales-uc882217) (Montevideo.com.uy)
+
+- [Como a dengue chegou ao Brasil – e qual é o futuro da doença](https://super.abril.com.br/saude/como-a-dengue-chegou-ao-brasil-e-qual-e-o-futuro-da-doenca) (Abril.com.br)
+
+- [El MSP espera “un incremento bien importante” de casos de dengue, dijo Rando](https://www.montevideo.com.uy/Salud/El-MSP-espera-un-incremento-bien-importante-de-casos-de-dengue-dijo-Rando-uc882202) (Montevideo.com.uy)
+
+- [Dengue: com 8 mortes, capital se torna a cidade de SP com mais vítimas](https://www.metropoles.com/sao-paulo/dengue-8-mortes-capital-torna-cidade-sp-mais-vitimas) (Metropoles.com)
+
+- [Ministério da Saúde limita emendas parlamentares no combate à dengue](https://www.metropoles.com/colunas/guilherme-amado/ministerio-da-saude-limita-emendas-parlamentares-no-combate-a-dengue) (Metropoles.com)
 
 - [Pourquoi le Brésil libère-t-il des moustiques génétiquement modifiés, porteurs d'un gène mortel ?](https://www.techno-science.net/actualite/pourquoi-bresil-libere-il-moustiques-genetiquement-modifies-porteurs-gene-mortel-N24609.html) (Techno-science.net)
 

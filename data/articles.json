@@ -1,8 +1,369 @@
 {
-  "last_updated": "2024-03-12 07:06",
-  "count_articles_total": 2013,
-  "count_articles_new": 21,
+  "last_updated": "2024-03-12 19:05",
+  "count_articles_total": 2026,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 6749,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknewsbr.com.br",
+      "author": "Sputnik Brasil",
+      "title": "Dengue: continente americano acumula quase 1,9 milh\u00e3o de casos, a maioria no Brasil",
+      "description": "Dados s\u00e3o do \u00faltimo boletim divulgado pela Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade (OPA) e mostram ainda a confirma\u00e7\u00e3o de 422 mortes. S\u00f3 a Am\u00e9rica do Sul concentra mais de 1,7 milh\u00e3o de casos e 350 \u00f3bitos por conta da dengue que, segundo especialistas, amea\u00e7a do v\u2026",
+      "url": "https://sputniknewsbr.com.br/20240311/dengue-continente-americano-acumula-quase-19-milhao-de-casos-a-maioria-no-brasil-33503548.html",
+      "urlToImage": "https://cdn1.sputniknewsbr.com.br/images/sharing/article/por/33503548.jpg?329407031710184029",
+      "publishedAt": "2024-03-11 18:51:49",
+      "content": "\"Antes, com determinada temperatura, n\u00e3o havia a presen\u00e7a do mosquito, e agora estamos vendo que tamb\u00e9m est\u00e1 se acostumando a temperaturas um pouco mais baixas []. Tem a ver com quais \u00e1reas, talvez s\u2026 [+220 chars]",
+      "retrievedAt": "2024-03-12 19:05:33.133687",
+      "internal_id": "58b5e6a9515708aed9cd153a380b97044387b0b3574cae2f0ba9058bbec7b733",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6737,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Neatorama.com",
+      "author": "Miss Cellania",
+      "title": "The Mad Stone, a Sure-Fire Cure for Rabies",
+      "description": "Before we got a vaccine against it in 1884, rabies was a particularly terrifying disease. Cases were few and far between, compared to, say, tuberculosis, but one might survive TB, which was not the case with rabies. And the illness leading to a rabies death w\u2026",
+      "url": "https://www.neatorama.com/2024/03/11/The-Mad-Stone-a-Sure-Fire-Cure-for-Rabies/",
+      "urlToImage": "https://uploads.neatorama.com/images/posts/527/124/124527/1710180232-0.jpg",
+      "publishedAt": "2024-03-11 18:03:52",
+      "content": "Before we got a vaccine against it in 1884, rabies was a particularly terrifying disease. Cases were few and far between, compared to, say, tuberculosis, but one might survive TB, which was not the c\u2026 [+875 chars]",
+      "retrievedAt": "2024-03-12 19:05:32.062960",
+      "internal_id": "19d4eb27b1bf9d219ef52f512929ee5160611ab833f2de765b332078a8f4a592",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6747,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Mala noticia: descubren que el Aedes aegypti se adapta a temperaturas locales",
+      "description": "Esto le permite optimizar desempe\u00f1o a la hora de transmitir enfermedades como el dengue o el zika.",
+      "url": "https://www.montevideo.com.uy/Salud/Mala-noticia-descubren-que-el-Aedes-aegypti-se-adapta-a-temperaturas-locales-uc882217",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201602/_W933_80/547172.jpg",
+      "publishedAt": "2024-03-11 17:53:00",
+      "content": "Cient\u00edficos en EE.UU. encontraron que el Aedes aegypti, conocido como el mosquito de la fiebre amarilla, es capaz de adaptarse a las temperaturas en su \"entorno local\" en medio del cambio clim\u00e1tic\u2026 [+3941 chars]",
+      "retrievedAt": "2024-03-12 19:05:33.104283",
+      "internal_id": "0c334b8f7b1c4f1b5b3bb76d990c89fa2104682433b57f866af165bdc63a7a05",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6750,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Maria Clara Rossini",
+      "title": "Como a dengue chegou ao Brasil \u2013 e qual \u00e9 o futuro da doen\u00e7a",
+      "description": "2024 deve se tornar o ano com o maior n\u00famero de casos de dengue na hist\u00f3ria do pa\u00eds. Mas a vacina dispon\u00edvel pode ajudar a reduzir as mortes. Entenda como o mosquito se apegou aos humanos ao longo da hist\u00f3ria e quais s\u00e3o as perspectivas para o combate ao Aede\u2026",
+      "url": "https://super.abril.com.br/saude/como-a-dengue-chegou-ao-brasil-e-qual-e-o-futuro-da-doenca",
+      "urlToImage": "https://super.abril.com.br/wp-content/uploads/2024/03/SI_461_Dengue_site.jpg?quality=90&strip=info",
+      "publishedAt": "2024-03-11 16:55:39",
+      "content": "Assine SUPER por R$2,00/semanaContinua ap\u00f3s publicidade 2024 deve se tornar o ano com o maior n\u00famero de casos de dengue na hist\u00f3ria do pa\u00eds. Mas a vacina dispon\u00edvel pode ajudar a reduzir as mortes. \u2026 [+14464 chars]",
+      "retrievedAt": "2024-03-12 19:05:33.157638",
+      "internal_id": "057ddf7588ab46671ee25fc8733f3405c7b5828e4954d5d5decc03053925c77b",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6754,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Duke-NUS",
+      "title": "Can the Zika vaccine fight brain cancer?",
+      "description": "New research potentially offers a new treatment alternative for brain cancer patients who currently have a poor prognosis.",
+      "url": "https://www.futurity.org/zika-vaccine-brain-cancer-3191172/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/03/zika-vaccine-brain-cancer-1600.jpg",
+      "publishedAt": "2024-03-11 16:23:24",
+      "content": "Researchers have developed a new approach using the Zika virus to destroy brain cancer cells and inhibit tumor growth, while sparing healthy cells. Using Zika virus vaccine candidates developed at D\u2026 [+4888 chars]",
+      "retrievedAt": "2024-03-12 19:05:33.830214",
+      "internal_id": "9e0494c578bf92b1751523e8770398ccfe3c2c46cc3d92731d22c7b65e2a6ed3",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6748,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "El MSP espera \u201cun incremento bien importante\u201d de casos de dengue, dijo Rando",
+      "description": "La ministra se\u00f1al\u00f3 como previsible la aparici\u00f3n de m\u00e1s contagiados debido a una \u201cexplosi\u00f3n\u201d de infecciones en Brasil y Argentina.",
+      "url": "https://www.montevideo.com.uy/Salud/El-MSP-espera-un-incremento-bien-importante-de-casos-de-dengue-dijo-Rando-uc882202",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
+      "publishedAt": "2024-03-11 16:23:00",
+      "content": "Montevideo Portal La ministra de Salud, Karina Rando, afirm\u00f3 este lunes que las autoridades sanitarias esperan un incremento bien importante de casos de dengue en Uruguay, luego de una explosi\u00f3n de \u2026 [+751 chars]",
+      "retrievedAt": "2024-03-12 19:05:33.114389",
+      "internal_id": "8ae5a2fb3dc4bddd5297572c599172021421690728f797cbe761813b43597395",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6746,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Dengue: com 8 mortes, capital se torna a cidade de SP com mais v\u00edtimas",
+      "description": "Cidade de S\u00e3o Paulo registrou 45.986 novos casos de dengue e 8 mortes nesta segunda (11/3). \u00c9 o munic\u00edpio paulista com mais v\u00edtimas em 2024",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-8-mortes-capital-torna-cidade-sp-mais-vitimas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/28150836/dengue-abre.jpg",
+      "publishedAt": "2024-03-11 15:09:39",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2696 chars]",
+      "retrievedAt": "2024-03-12 19:05:33.088459",
+      "internal_id": "1bad162b69b345f0ae981fec22a1c3bcd1e8e4bff28ff2501f1f6b51309f98cd",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6738,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Mary Chastain",
+      "title": "Second Child Diagnosed With Measles at Chicago Illegal Immigrant Shelter",
+      "description": "Overall it's the third measles case in Chicago in the past week. The post Second Child Diagnosed With Measles at Chicago Illegal Immigrant Shelter first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/03/second-child-diagnosed-with-measles-at-chicago-illegal-immigrant-shelter/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/03/Chicago-Measles.jpg",
+      "publishedAt": "2024-03-11 15:00:35",
+      "content": "My mom (HI MOM!!) told me about a child with measles at an illegal immigrant shelter in Chicago. On Sunday, a second child at the same shelter has measles. The shelter in Pilsen is the largest in Ch\u2026 [+2396 chars]",
+      "retrievedAt": "2024-03-12 19:05:32.456088",
+      "internal_id": "0f1ce9e47188274793cfb9255225caa1c1b88672cf76ae48244c2e96a675c143",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6740,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Chicago Tribune",
+      "author": "Kate Armanini",
+      "title": "Second child develops measles in Pilsen migrant shelter, officials say",
+      "description": "A second child staying at the city\u2019s largest migrant shelter in Pilsen has developed measles, city health officials announced Sunday. The child has been hospitalized and remains in good condition, according to a statement from the city\u2019s Department of Public \u2026",
+      "url": "http://www.chicagotribune.com/2024/03/11/second-child-develops-measles-migrant-shelter/",
+      "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/03/ctc-l-migrantmeasles-CT0133415636.jpg?w=1024&h=683",
+      "publishedAt": "2024-03-11 14:49:38",
+      "content": "A second child staying at the city\u2019s largest migrant shelter in Pilsen has developed measles, city health officials announced Sunday. The child has been hospitalized and remains in good condition, a\u2026 [+2133 chars]",
+      "retrievedAt": "2024-03-12 19:05:32.477103",
+      "internal_id": "9524441697f13998193f2a619ef8ce52fa92694a3478582382a5aaef6603aa75",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6756,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": null,
+      "title": "D\u00f6bbenetes titkot rejt a valaha l\u00e1tott legnagyobb t\u00f6meges temetkez\u00e9si hely",
+      "description": "A n\u00e9metorsz\u00e1gi N\u00fcrnberg v\u00e1ros\u00e1ban egy \u00faj nyugd\u00edjasotthon \u00e9p\u00edt\u00e9se el\u0151tt a r\u00e9g\u00e9szek \u00e1sat\u00e1sokat v\u00e9geztek. Felt\u00e1rt\u00e1k a pestis \u00e1ldozatainak tal\u00e1n legnagyobb t\u00f6meges temetkez\u00e9s\u00e9t, amelyet Eur\u00f3p\u00e1ban valaha felt\u00e1rtak.",
+      "url": "https://www.origo.hu/tudomany/2024/03/temetkezesi-hely-titkot-rejt-a-valaha-latott-legnagyobb-tomeges",
+      "urlToImage": "https://cdn.origo.hu/2024/03/OUy-m5w6EoLxoR3Aeyf8tO5Tic3ijsnN9Q1lzCOK1vo/fill/1600/800/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZlN2M1YTg0YjIxNTQ1MzQ5YTY0ZTNmZDkyNzNlN2Jl.png",
+      "publishedAt": "2024-03-11 14:23:11",
+      "content": "Hozz\u00e1tette: a pestis nem hagy l\u00e1that\u00f3 nyomokat az \u00e1ldozatok csontjain, ez\u00e9rt a diagn\u00f3zis megers\u00edt\u00e9s\u00e9hez tov\u00e1bbi munk\u00e1ra lesz sz\u00fcks\u00e9g. A DNS-elemz\u00e9s\u00fck azonban v\u00e1rhat\u00f3an megers\u00edti a Yersinia pestis p\u2026 [+660 chars]",
+      "retrievedAt": "2024-03-12 19:05:34.624927",
+      "internal_id": "1666f84ad72afecbc009f76be2683195eb10f88377c3526feb5831fe50cd7f57",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6744,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Measles and Rubella Immunization campaign: All children of 413 local levels vaccinated",
+      "description": "KATHMANDU: All children of 413 local levels across the country were vaccinated under Measles and Rubella Immunization campaign launched by the government. All the children of 413 local levels of 24 districts of the country were immunized, said Chief of Child \u2026",
+      "url": "https://english.khabarhub.com/2024/11/345542/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/05/vaccination.jpg",
+      "publishedAt": "2024-03-11 14:15:16",
+      "content": "Image for Representation/File photo.KATHMANDU: All children of 413 local levels across the country were vaccinated under Measles and Rubella Immunization campaign launched by the government. All the\u2026 [+882 chars]",
+      "retrievedAt": "2024-03-12 19:05:32.543742",
+      "internal_id": "dfa39b5737b7f308a2a4f1682cb102accd4f8e7d34cd5e5fbdfb23f3718df005",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6743,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Full Fact",
+      "author": "Full Fact",
+      "title": "NHS England was wrong to claim its data showed 3.4 million children are \u2018unprotected\u2019 against measles - Full Fact",
+      "description": "NHS England was wrong to claim its data showed 3.4 million children are \u2018unprotected\u2019 against measles - Full Factfullfact.org",
+      "url": "https://fullfact.org/health/nhs-england-children-unprotected-measles-mmr/",
+      "urlToImage": "https://fullfact.org/media/_versions/11_mar_24_3480352546_7d244b3478_o_social_media.jpg",
+      "publishedAt": "2024-03-11 13:34:02",
+      "content": "A Full Fact investigation has revealed that NHS England released an incorrect statement claiming that 3.4 million children in England are unprotected against measles. Measles is a highly contagious \u2026 [+14597 chars]",
+      "retrievedAt": "2024-03-12 19:05:32.534390",
+      "internal_id": "07751dfd9e5288ebda0ee62e9feb00ca7acfbc546656b644fed6b1df3f609496",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6753,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El Museo Nacional de Ciencias Naturales inaugura la exposici\u00f3n 'Misi\u00f3n Malaria: una mirada hist\u00f3rica'",
+      "description": "El Museo Nacional de Ciencias Naturales (MNCN) ha presentado la exposici\u00f3n 'Misi\u00f3n Malaria: una mirada hist\u00f3rica' con la que, a trav\u00e9s de una colecci\u00f3n de objetos y material gr\u00e1fico proporcionado por distintas instituciones, expone las relaciones entre esta e\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-museo-nacional-ciencias-naturales-inaugura-exposicion-mision-malaria-mirada-historica-20240311143354.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240311143354_1200.jpg",
+      "publishedAt": "2024-03-11 13:33:54",
+      "content": "MADRID, 11 Mar. (EUROPA PRESS) - El Museo Nacional de Ciencias Naturales (MNCN) ha presentado la exposici\u00f3n 'Misi\u00f3n Malaria: una mirada hist\u00f3rica' con la que, a trav\u00e9s de una colecci\u00f3n de objetos \u2026 [+3249 chars]",
+      "retrievedAt": "2024-03-12 19:05:33.605214",
+      "internal_id": "a2abf030b74349a19b07a3dec27dea56ef9b29e2e1c7ae91516d59e75df50e3d",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6751,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Nigeria: Over 500 Recover From Meningitis Outbreak in Yobe",
+      "description": "[Premium Times] The first suspected case was reported on 24 December 2023 and confirmed on 26 January.",
+      "url": "https://allafrica.com/stories/202403110296.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-03-11 12:52:16",
+      "content": "The first suspected case was reported on 24 December 2023 and confirmed on 26 January. No fewer than 564 patients out of the 636 recorded cases of meningitis outbreak in Yobe have recovered, an offi\u2026 [+1066 chars]",
+      "retrievedAt": "2024-03-12 19:05:33.402585",
+      "internal_id": "79f7c313fd9951a5888e96b68555f3fb6522fe41ce1b12f22b9f7a1604fbfe01",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6745,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Eduardo Barretto",
+      "title": "Minist\u00e9rio da Sa\u00fade limita emendas parlamentares no combate \u00e0 dengue",
+      "description": "Epidemia da dengue tem 329 mortes e 1,3 milh\u00e3o de casos neste ano; Minist\u00e9rio da Sa\u00fade imp\u00f4s teto de R$ 800 mil por projeto",
+      "url": "https://www.metropoles.com/colunas/guilherme-amado/ministerio-da-saude-limita-emendas-parlamentares-no-combate-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/03191723/140823VS_Nisia-Trindade-Mais-Medicos-011-1.jpg",
+      "publishedAt": "2024-03-11 12:00:09",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2696 chars]",
+      "retrievedAt": "2024-03-12 19:05:33.082757",
+      "internal_id": "bf17ac7329009b8c598cb47ab54dc984da1a8c92c13e391083592f482417a093",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6742,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsnationnow.com",
+      "author": "Kelsey Kernstine",
+      "title": "Chicago migrant crisis: Second measles case confirmed at shelter",
+      "description": "A second case of measles has been reported at a Chicago migrant shelter, raising concerns for a larger outbreak.",
+      "url": "https://www.newsnationnow.com/health/second-measles-case-chicago-migrant-shelter/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/01/GettyImages-1196157315-e1706646492255.jpg?w=1280",
+      "publishedAt": "2024-03-11 11:36:26",
+      "content": "CHICAGO (NewsNation) A second case of measles has been reported at a migrant shelter in Chicago, raising concerns about the potential for a larger outbreak due to the high number of unvaccinated asy\u2026 [+2229 chars]",
+      "retrievedAt": "2024-03-12 19:05:32.528641",
+      "internal_id": "ac6fe9ab9b8b84cfbc444a4eacb7096171cf8126636ee0f078fa450f47cdb0f5",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6752,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "pymnts.com",
+      "author": "Karen Webster",
+      "title": "Why the Credit Card Competition Act Won\u2019t Lower Merchant Interchange Fees",
+      "description": "In 1955, the island nation of Borneo was in the throes of a serious malaria virus outbreak. It turned to The World Health Organization for help. WHO recommended spraying massive amounts of DDT across the island to kill the mosquitos that carried the disease. \u2026",
+      "url": "https://www.pymnts.com/credit-cards/2024/why-the-credit-card-competition-act-wont-lower-merchant-interchange-fees/",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/03/oops.jpg",
+      "publishedAt": "2024-03-11 11:00:05",
+      "content": "In 1955, the island nation of Borneo was in the throes of a serious malaria virus outbreak. It turned to The World Health Organization for help. WHO recommended spraying massive amounts of DDT across\u2026 [+15220 chars]",
+      "retrievedAt": "2024-03-12 19:05:33.598519",
+      "internal_id": "538ff29295e4d782f98e51787e9e370dae58c4f75b982d1291e24ebf2b9ca504",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6741,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLS-TV",
+      "author": "Abc 7 Chicago",
+      "title": "Measles outbreak Chicago: CDC to help with measles response after 2nd child diagnosed at Pilsen migrant shelter",
+      "description": "A team from the Centers for Disease Control and Prevention will be sent to Chicago to help with the measles response at the Pilsen migrant shelter",
+      "url": "https://abc7chicago.com/measles-outbreak-chicago-how-long-does-vaccine-last-symptoms-migrant-shelter/14513345/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14513463_031124-wls-measles-pilsen-diane5a-vid.jpg?w=1600",
+      "publishedAt": "2024-03-11 10:19:43",
+      "content": "CHICAGO (WLS) -- A team from the Centers for Disease Control and Prevention will be sent to Chicago to help with the measles response at the Pilsen migrant shelter. Officials said the second case at\u2026 [+1955 chars]",
+      "retrievedAt": "2024-03-12 19:05:32.524945",
+      "internal_id": "c687494b1311375445b551c4b56aef2ab71514c2bc90727d21a0023b419269d2",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6739,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Los Angeles Times",
+      "author": "Jenny Gold",
+      "title": "More parents are delaying their kids' vaccines, and it's alarming pediatricians",
+      "description": "More parents are choosing to delay childhood vaccinations, such as the MMR vaccine. Doctors worry toddlers remain vulnerable as measles spreads.",
+      "url": "https://www.latimes.com/california/story/2024-03-11/parents-delaying-kids-vaccines-posing-risk-to-toddlers",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/00649bd/2147483647/strip/true/crop/7774x4081+0+570/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F99%2F69%2Fd35481214ddfa5032ed84cd2f67c%2F1416613-me-0228-childhood-vaccination-delay-cmh-06.jpg",
+      "publishedAt": "2024-03-11 10:00:38",
+      "content": "As measles cases pop up across the country this winter including several in California one group of children is stirring deep concerns among pediatricians: the babies and toddlers of vaccine-hesitant\u2026 [+9777 chars]",
+      "retrievedAt": "2024-03-12 19:05:32.471139",
+      "internal_id": "5153f4b5567859da56a8b96c3834aca1e9f634fd30346bcd2e7bd8dafe71e68e",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6755,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "Javier Ruiz-Tagle",
+      "title": "PharmaMar frena la inversi\u00f3n del \u00e1rea de virolog\u00eda y cierra el estudio Covid",
+      "description": "La apuesta de PharmaMar por la virolog\u00eda se estanca. Tras tres a\u00f1os en busca de una cura para el coronavirus, adem\u00e1s de observar tambi\u00e9n potenciales terapias contra los virus del Zika o la fiebre del Nilo, la empresa madrile\u00f1a ha decidido cerrar el grifo de l\u2026",
+      "url": "https://www.eleconomista.es/salud/noticias/12715539/03/24/pharmamar-frena-la-inversion-del-area-de-virologia-y-cierra-el-estudio-covid.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/3872x2113/9/6/9/1200x655_pharmamar2.jpg",
+      "publishedAt": "2024-03-11 08:56:33",
+      "content": "La apuesta de PharmaMar por la virolog\u00eda se estanca. Tras tres a\u00f1os en busca de una cura para el coronavirus, adem\u00e1s de observar tambi\u00e9n potenciales terapias contra los virus del Zika o la fiebre del\u2026 [+2937 chars]",
+      "retrievedAt": "2024-03-12 19:05:33.853783",
+      "internal_id": "9f5bb82801e18e02d3a4364dec48dcd6439f92bf7538abb0f772ddd5c7170ace",
+      "publishedAtLabel": "Mar 11"
+    },
     {
       "id": 6722,
       "query": [
@@ -36198,132 +36559,6 @@
       "content": "O cen\u00e1rio epidemiol\u00f3gico da dengue colocou Manaus, capital do Amazonas, em estado de alerta. Neste s\u00e1bado (28), a Secretaria Municipal de Sa\u00fade (Semsa) divulgou um comunicado alertando que o n\u00famero\u2026 [+1024 chars]",
       "retrievedAt": "2024-01-30 07:05:32.093157",
       "internal_id": "0f22a74a61ed86e16fe91b15851b02255500a3e4039e52e836b319453dc5fc8b",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4733,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Minist\u00e9rio da Sa\u00fade divulga lista de cidades receber\u00e3o vacina contra a dengue",
-      "description": "Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha",
-      "url": "https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2024/01/vacina.jpg",
-      "publishedAt": "2024-01-28 18:52:03",
-      "content": "\u00daltimas not\u00edcias: Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha contra a dengue. Essas localida\u2026 [+1333 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.164251",
-      "internal_id": "72f1c569ace4975365295b27438b1ddeb3d269bcb72c9ef4f1249631bb66b727",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4724,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Casos de dengue sobem 26% no Estado de SP e secretaria j\u00e1 confirma quatro mortes no ano",
-      "description": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-01-28 16:22:57",
-      "content": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 a terceira semana epidemiol\u00f3gica de 2024 (com dados at\u00e9 o dia 20 de janeiro). O n\u00famero representa uma a\u2026 [+2557 chars]",
-      "retrievedAt": "2024-01-29 19:05:24.425804",
-      "internal_id": "1efaf5d5cb0f6f21d5e730c2c8175b5ae58fc4506ebcccf031f21bb998267521",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4723,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Viomundo.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue",
-      "description": "Minist\u00e9rio da Sa\u00fade, Conass e Conasems em nota O post Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue apareceu primeiro em Viomundo.",
-      "url": "https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html",
-      "urlToImage": "https://www.viomundo.com.br/wp-content/uploads/2024/01/ac044d91-3312-4a01-8f23-57c8980ce5fa.png",
-      "publishedAt": "2024-01-28 15:48:17",
-      "content": "NOTA CONJUNTA Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios unem esfor\u00e7os para a\u00e7\u00f5es de enfrentamento da dengue Desde o ano passado, o Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios est\u00e3o em constante monit\u2026 [+3677 chars]",
-      "retrievedAt": "2024-01-29 19:05:24.273642",
-      "internal_id": "9ccb2fb3a9cdbdb34473a05ea403c8a78a3c0a2303e1a82061b629129f30f128",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4732,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Clar\u00edn",
-      "author": "Ernesto Azarkevich",
-      "title": "Una beba de tres meses muri\u00f3 por dengue en Misiones",
-      "description": "Lleg\u00f3 a la guardia de un hospital con fiebre y fue derivada a terapia intensiva, pero no lograron estabilizarla.Es la v\u00edctima m\u00e1s joven del brote que ya caus\u00f3 9 muertes en la provincia.",
-      "url": "https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html",
-      "urlToImage": "https://www.clarin.com/img/2023/12/21/jMTZGJwoe_2000x1500__1.jpg",
-      "publishedAt": "2024-01-28 15:42:04",
-      "content": "Una beba de tres mesesmuri\u00f3 por dengue en Misiones y es la novena v\u00edctima en la provincia desde mediados de diciembre pasado. En la \u00faltima semana el sistema de salud report\u00f3 m\u00e1s de 2.600 cuadros febr\u2026 [+2602 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.160802",
-      "internal_id": "0b0fd0ee4e9094077b576368a8240cfa981b0137e588cc37f6755d414211ce93",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4730,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "F\u00e1bio Andrighetto",
-      "title": "Dengue no RJ dispara 587%, com mais de 9 mil casos em tr\u00eas semanas",
-      "description": "O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u00f5es, um n\u00famero que j\u00e1 supera a m\u00e9dia hist\u00f3rica para todo o m\u00eas. A situa\u00e7\u00e3o \u00e9 pr\u2026",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2021/02/istock-599881744.jpg",
-      "publishedAt": "2024-01-28 14:52:50",
-      "content": "\u00daltimas not\u00edcias: O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u2026 [+1806 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.154107",
-      "internal_id": "0892f851bd02e76d6fa09494c2842a3c71a097424b8424d17f9b43374e601a1c",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4722,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "TheJournal.ie",
-      "author": "Mairead Maguire",
-      "title": "HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK",
-      "description": "Health officials in Ireland are keeping \u201cvery close watch\u201d as the number of cases have risen around Europe too.",
-      "url": "https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/",
-      "urlToImage": "https://img2.thejournal.ie/article/6283808/river/?height=400&version=6283810",
-      "publishedAt": "2024-01-28 14:40:52",
-      "content": "THE HSE HAS urged parents to make sure their children are vaccinated against measles, as the UK sees a spike in case numbers. The MMR vaccine protects against measles, mumps and rubella. In the UK\u2026 [+1711 chars]",
-      "retrievedAt": "2024-01-29 19:05:23.759567",
-      "internal_id": "62113caca466ead9afe1e1ae2e5c7d8f6e2345410ae6ba1b02df0f5f2f12e05c",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4721,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Multi-language measles campaign launched",
-      "description": "London has the lowest percentage of children who have received both doses, experts say.",
-      "url": "https://www.bbc.co.uk/news/articles/cglmrrnm5d9o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2da6/live/135eb770-bc64-11ee-92a5-1d8f75943063.jpg",
-      "publishedAt": "2024-01-28 08:55:12",
-      "content": "Rhoda Ibrahim, from the Somali Advice and Forum of Information, told BBC Politics London: \"It's always the elderly men and women that don't speak English and it's also the mums. \"About 80% of the mu\u2026 [+683 chars]",
-      "retrievedAt": "2024-01-29 19:05:23.738701",
-      "internal_id": "e13bf1fb456bb23471488c6867b391bbf96b8bd03e39bbbb408ce79ebb92a0cd",
       "publishedAtLabel": "Jan 28"
     }
   ]
