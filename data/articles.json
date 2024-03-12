@@ -1,8 +1,242 @@
 {
-  "last_updated": "2024-03-11 19:05",
-  "count_articles_total": 1985,
-  "count_articles_new": 20,
+  "last_updated": "2024-03-12 07:06",
+  "count_articles_total": 2013,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 6722,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Techno-science.net",
+      "author": "Alain REDBRAN",
+      "title": "Pourquoi le Br\u00e9sil lib\u00e8re-t-il des moustiques g\u00e9n\u00e9tiquement modifi\u00e9s, porteurs d'un g\u00e8ne mortel ?",
+      "description": "Face \u00e0 un nombre record de cas de dengue, le Br\u00e9sil d\u00e9ploie une strat\u00e9gie innovante: l'introduction de moustiques g\u00e9n\u00e9tiquement modifi\u00e9s pour r\u00e9duire la transmission de cette maladie...",
+      "url": "https://www.techno-science.net/actualite/pourquoi-bresil-libere-il-moustiques-genetiquement-modifies-porteurs-gene-mortel-N24609.html",
+      "urlToImage": "https://static.techno-science.net/illustration/Libre/PXB/44/mosquito-4406812-1280.jpg",
+      "publishedAt": "2024-03-11 07:00:08",
+      "content": "Face \u00e0 un nombre record de cas de dengue, le Br\u00e9sil d\u00e9ploie une strat\u00e9gie innovante: l'introduction de moustiques g\u00e9n\u00e9tiquement modifi\u00e9s pour r\u00e9duire la transmission de cette maladie virale.La dengue\u2026 [+3268 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.390990",
+      "internal_id": "607376a7e2449da84d390ac65652f11a0179eec58043b7f43be452b958335fbd",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6725,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Dengue: 2 meses de 2024 j\u00e1 igualam soma de casos dos \u00faltimos 19 anos",
+      "description": "Entre 2000 e 2019, o DF registrou 125,7 mil casos prov\u00e1veis de dengue. At\u00e9 o in\u00edcio de mar\u00e7o de 2024, foram 120,6 mil",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-2-meses-de-2024-ja-igualam-soma-de-casos-dos-ultimos-19-anos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/05092934/dengue-em-todo-o-estado-de-SP0.jpg",
+      "publishedAt": "2024-03-11 06:00:59",
+      "content": "Em pouco mais de dois meses, o Distrito Federal registrou 120,6 mil casos prov\u00e1veis de dengue. O \u00edndice se aproxima \u00e0 soma do n\u00famero notificado ao longo dos \u00faltimos 19 anos na capital federal. Segund\u2026 [+6109 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.477957",
+      "internal_id": "a86a137cf1b5fa9891c32fd19bb002a2c9c2ceaae391dbe407ba405463dc3a63",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6726,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Dengue risk re-evaluated: India research finds first infections can be as severe as secondary",
+      "description": "A recent study conducted in India challenges the common belief that dengue becomes severe only during secondary infections. Published in Nature Medicine, the research reveals that the first bout of dengue can be equally life-threatening. Led by researchers at\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/dengue-risk-re-evaluated-india-research-finds-first-infections-can-be-as-severe-as-secondary/articleshow/108384055.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108384146,width-1200,height-630,imgsize-1029440,overlay-etpanache/photo.jpg",
+      "publishedAt": "2024-03-11 05:48:01",
+      "content": "New Delhi, The first bout of dengue can be as life-threatening as the subsequent ones, according to a study which challenges the widely held belief that the viral disease is severe only in secondary \u2026 [+3036 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.484255",
+      "internal_id": "c1f7ed8dd5d904023af7ed8e045cc7e62322afde4fa9a949020b6f1048426d1c",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6728,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Dengue: las recomendaciones de Conrado Estol ante el aumento de los casos y qui\u00e9nes no deber\u00edan vacunarse",
+      "description": "El neur\u00f3logo y referente de salud explic\u00f3 por qu\u00e9 debe tenerse en cuenta el considerable incremento de la enfermedad que ya mat\u00f3 a 37 personas en lo que va de 2024",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-las-recomendaciones-de-conrado-estol-ante-el-aumento-de-los-casos-y-quienes-no-deberian-nid11032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/jose-del-rio-entrevisto-a-conrado-estol-en-VHFGL7IXFBGDVN7B6RVJJYCGJQ.jpg?auth=3fa3d050a1b9fbe9f0dbbbc2e8c28b3e5a1254a80a729f55a0a48707e132d733&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-11 04:36:57",
+      "content": "El neur\u00f3logo Conrado Estol dio una serie de recomendaciones en torno al significativo aumento de casos de dengue en la Argentina, que en lo que va del a\u00f1o acumula m\u00e1s de 57.000 casos confirmados, con\u2026 [+4426 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.569029",
+      "internal_id": "87dc88881fcac4f9e2d2b81ba17648a90a5c93449459a7045764c17786674889",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6718,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Saoirse Hanley",
+      "title": "\u2018I didn\u2019t get the MMR jab as a baby but want to get vaccinated against measles now \u2014 here\u2019s why\u2019",
+      "description": "When I got my Covid vaccine in a pharmacy in 2021, I was nervous. Not because I didn\u2019t trust Johnson and Johnson, or the pharmacist who injected me. But because it was the first time I had ever consciously got an injection. The only other time I\u2019d been vaccin\u2026",
+      "url": "https://www.independent.ie/life/health-wellbeing/health-features/i-didnt-get-the-mmr-jab-as-a-baby-but-want-to-get-vaccinated-against-measles-now-heres-why/a950757768.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/JShLrr9fsXqXQO-BVLO4mEDC59c=/0x39:3124x2121/629x0/prod-mh-ireland/1a842b32-5cee-426d-b7a4-de85ee9834be/b9f850ff-4a37-4add-a3ed-29c878667854/1a842b32-5cee-426d-b7a4-de85ee9834be.jpg",
+      "publishedAt": "2024-03-11 02:30:00",
+      "content": "As new cases of measles occur, Saoirse Hanley (26) looks at why many of her age group were not vaccinated and what they can do now if they want to get protection against the disease When I got my Co\u2026 [+640 chars]",
+      "retrievedAt": "2024-03-12 07:06:01.696274",
+      "internal_id": "bd6cdfeb173db7aef1b7771abde3eca85211568fc49e6533874bb97968408ae7",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 6723,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "FAZLEENA AZIZ",
+      "title": "Repurposing drugs in dengue fight",
+      "description": "PETALING JAYA: A number of repurposed antiviral drugs, inclu\u00adding one that is being used to treat Hepatitis C, is currently being eva\u00adluated as potential treatment against dengue, according to Drugs for Neglected Diseases initiative (DNDi). Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/03/11/repurposing-drugs-in-dengue-fight",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/03/11/2585575.jpg",
+      "publishedAt": "2024-03-10 23:00:00",
+      "content": "Hepatitis C medicine and others being tested in search for quicker treatment PETALING JAYA: A number of repurposed antiviral drugs, including one that is being used to treat Hepatitis C, is currentl\u2026 [+3641 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.396402",
+      "internal_id": "9da00c0efc6faf5f4e1180f28e04cc1bba75cd8ae561e41ef53790c32a39b30a",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6716,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Thegatewaypundit.com",
+      "author": "Cassandra MacDonald",
+      "title": "Measles Reported at Chicago Migrant Facility Where Child Died in December",
+      "description": "A case of measles has been confirmed at a Chicago migrant facility where a five-year-old child died of an unknown illness in December. The post Measles Reported at Chicago Migrant Facility Where Child Died in December appeared first on The Gateway Pundit.",
+      "url": "https://www.thegatewaypundit.com/2024/03/measles-reported-chicago-migrant-facility-where-child-died/",
+      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/measles-1.jpg",
+      "publishedAt": "2024-03-10 22:40:02",
+      "content": "A case of measles has been confirmed at a Chicago migrant facility where a five-year-old child died of an unknown illness in December. The shelter is currently housing 1,876 migrants. The young chi\u2026 [+1791 chars]",
+      "retrievedAt": "2024-03-12 07:06:01.642117",
+      "internal_id": "399c29d996668f4eedc520dfba062478fc66aa532a9a7656a530cfd54564a037",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6721,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Health unit warns public of measles exposure after 1 adult case confirmed | CBC News",
+      "description": "The Middlesex-London Health Unit is alerting the public about possible measles exposures at various sites throughout London earlier this week, after health officials confirmed an adult acquired the disease while travelling abroad.",
+      "url": "https://www.cbc.ca/news/canada/london/measles-case-confirmed-london-1.7139685",
+      "urlToImage": "https://i.cbc.ca/1.5367844.1709139269!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/health-measles-infants-20191121.jpg",
+      "publishedAt": "2024-03-10 22:00:32",
+      "content": "The Middlesex-London Health Unit is alerting the public about possible measles exposures at various sites throughout London earlier this week, after health officials confirmed an adult acquired the d\u2026 [+2566 chars]",
+      "retrievedAt": "2024-03-12 07:06:01.764226",
+      "internal_id": "05c161c285797b9108a079033998f08ef511ffbe721da4b13c132129d9bc9693",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6727,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Instituto Serum, da \u00cdndia, mira al\u00e9m da Covid com novas vacinas contra mal\u00e1ria e dengue",
+      "description": "O presidente-executivo do maior fabricante de vacinas do mundo, o Instituto Serum da \u00cdndia, ...",
+      "url": "https://www.terra.com.br/noticias/mundo/instituto-serum-da-india-mira-alem-da-covid-com-novas-vacinas-contra-malaria-e-dengue,6e6de4b61892c851ccc38543d15503621v0bndba.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-03-10 20:37:12",
+      "content": "O presidente-executivo do maior fabricante de vacinas do mundo, o Instituto Serum da \u00cdndia, disse que o Serum tem refor\u00e7ado sua capacidade de produ\u00e7\u00e3o antes do lan\u00e7amento, nos pr\u00f3ximos anos, de vacin\u2026 [+2629 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.538924",
+      "internal_id": "a42e9105fde4213895afcb443d4aeb1c7ece01db3745b18abd206b65da9b7ea0",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6724,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Marina Dias, Terrence McCoy",
+      "title": "Brazil\u2019s staggering dengue fever crisis is a warning to the world",
+      "description": "Scientists say rising temperatures due to climate change have both extended the territorial range of the mosquito that carries dengue and increased its proliferation.",
+      "url": "https://www.bostonglobe.com/2024/03/10/world/brazils-staggering-dengue-fever-crisis-is-warning-world/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/hQXNNhtZSW6UVODTzYoXt_DpkK4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/WVOZ7UBGEWWTIUM2R464Z3GEL4.jpg",
+      "publishedAt": "2024-03-10 20:23:53",
+      "content": "The disease is ripping through much of South America, where scientists say rising temperatures due to climate change have both extended the territorial range of the mosquito that carries dengue and i\u2026 [+6811 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.406164",
+      "internal_id": "7a2297147f60ba4b1e139ec4852c4131296677452979382dc51d775a51eaa6cd",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6719,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Stepheny Price",
+      "title": "Second case of measles confirmed at Chicago migrant shelter",
+      "description": "Two cases of measles have been reported in Chicago this week, including a young child staying at a migrant shelter, according to the Department of Public Health.",
+      "url": "https://www.foxnews.com/health/second-case-measles-confirmed-chicago-migrant-shelter",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/GettyImages-1645172983.jpg",
+      "publishedAt": "2024-03-10 20:14:29",
+      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. Please enter a valid email address. By entering your e\u2026 [+3271 chars]",
+      "retrievedAt": "2024-03-12 07:06:01.707458",
+      "internal_id": "1a1e2232379adf3d400d9a43dc18321a4109b801e01a98a8b1138e7fd20ae964",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6717,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Chicago Tribune",
+      "author": "Kate Armanini",
+      "title": "Second child develops measles in Pilsen migrant shelter, officials say",
+      "description": "A second child staying at the city\u2019s largest migrant shelter in Pilsen has developed measles, city health officials announced Sunday. The child has been hospitalized and remains in good condition, according to a statement from the city\u2019s Department of Public \u2026",
+      "url": "http://www.chicagotribune.com/2024/03/10/second-child-develops-measles-migrant-shelter/",
+      "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/03/ctc-l-migrantmeasles-CT0133415636.jpg?w=1024&h=683",
+      "publishedAt": "2024-03-10 19:37:38",
+      "content": "A second child staying at the city\u2019s largest migrant shelter in Pilsen has developed measles, city health officials announced Sunday. The child has been hospitalized and remains in good condition, a\u2026 [+2133 chars]",
+      "retrievedAt": "2024-03-12 07:06:01.679802",
+      "internal_id": "63700e2ec275f82af5298dbf551782db8f66bc6bd9ffe33f44f0289d56e08082",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6720,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Kelly Wang",
+      "title": "MLHU reports confirmed case of measles in London, Ont. - London | Globalnews.ca",
+      "description": "London, Ont.'s health unit says it has confirmed a case of measles involving an adult who likely got the disease while travelling. The unit has published a list of exposure sites.",
+      "url": "https://globalnews.ca/news/10348206/mlhu-measles-london-ont/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2015/12/middlesex-london-health-unit.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2024-03-10 19:22:45",
+      "content": "The Middlesex-London Health Unit (MLHU) has confirmed a case of measles in the London-Middlesex community. The health unit says the case involves an adult who likely got measles during travel. The \u2026 [+1714 chars]",
+      "retrievedAt": "2024-03-12 07:06:01.743943",
+      "internal_id": "277e6b5533826ed60b5baaa7f2f3bb6cb10bd612496facfb69606b0a37a9c953",
+      "publishedAtLabel": "Mar 10"
+    },
     {
       "id": 6703,
       "query": [
@@ -680,6 +914,24 @@
       "publishedAtLabel": "Mar 9"
     },
     {
+      "id": 6734,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Centros de sa\u00fade de BH vacinam adolescentes e atendem pacientes com sintomas de dengue no fim de semana",
+      "description": "Neste s\u00e1bado (09) de combate \u00e0s doen\u00e7as transmitidas pelo mosquito aedes aegypti, 16 centros de sa\u00fade est\u00e3o abertos em Belo Horizonte para ate...",
+      "url": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/centros-de-saude-de-bh-vacinam-adolescentes-e-atendem-pacientes-com-sintomas-de-dengue-no-fim-de-semana-09032024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/03/09/65eca0b9c012ad8c71000076/a9ae8f1ee65e4caa9c39e09604141996__BGE_0903_ADOLESCENTES_VACINAM_VA_thumb.jpg",
+      "publishedAt": "2024-03-09 15:07:46",
+      "content": "Neste s\u00e1bado (09) de combate \u00e0s doen\u00e7as transmitidas pelo mosquito aedes aegypti, 16 centros de sa\u00fade est\u00e3o abertos em Belo Horizonte para atender pessoas com sintomas das arboviroses. A vacina\u00e7\u00e3o de\u2026 [+84 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.640847",
+      "internal_id": "d0c0277acb05462b77b79ca22312805e8e6544356cb94ca5a6239a745e7ff253",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
       "id": 6670,
       "query": [
         "dengue"
@@ -880,6 +1132,24 @@
       "publishedAtLabel": "Mar 8"
     },
     {
+      "id": 6731,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Com alta da dengue, fornecedores de repelente alertam que estoque atual deve durar apenas at\u00e9 abril",
+      "description": "O Brasil j\u00e1 tem mais 1 milh\u00e3o e 342 mil casos prov\u00e1veis de dengue, e 363 mortes. A explos\u00e3o dos casos da doen\u00e7a fez a procura por repelentes a...",
+      "url": "https://noticias.r7.com/jr-na-tv/videos/com-alta-da-dengue-fornecedores-de-repelente-alertam-que-estoque-atual-deve-durar-apenas-ate-abril-08032024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/03/08/65eba682416eb9d9c4000be2/ce039ef9938a46ff9cf1fb3d80974a4d__2608281_EPP_0803_JR_REPELENTES_PRODUCAO_thumb.jpg",
+      "publishedAt": "2024-03-08 21:28:42",
+      "content": "O Brasil j\u00e1 tem mais 1 milh\u00e3o e 342 mil casos prov\u00e1veis de dengue, e 363 mortes. A explos\u00e3o dos casos da doen\u00e7a fez a procura por repelentes aumentar at\u00e9 quatro vezes. Os fornecedores alertam que o e\u2026 [+55 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.623692",
+      "internal_id": "390f139c778161ae8c08f0674d3c56be016962d5355adfeed2e291d4b0723d83",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
       "id": 6641,
       "query": [
         "rabies"
@@ -934,6 +1204,24 @@
       "publishedAtLabel": "Mar 8"
     },
     {
+      "id": 6732,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "EdiCase, EdiCase",
+      "title": "5 mitos e verdades sobre vacinas que voc\u00ea precisa saber",
+      "description": "Enfermeira esclarece algumas informa\u00e7\u00f5es importantes sobre os imunizantes",
+      "url": "https://saude.ig.com.br/parceiros/edicase/2024-03-08/5-mitos-e-verdades-sobre-vacinas-que-voce-precisa-saber.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3b/hq/3g/3bhq3g7dxk1xmvxva8r7rk78l.jpg",
+      "publishedAt": "2024-03-08 19:45:17",
+      "content": "Como diria o famoso ditado popular: \u00e9 melhor prevenir do que remediar. Para se proteger de doen\u00e7as contagiosas (e, muitas vezes, mortais), como a dengue ou a COVID-19, os imunizantes s\u00e3o necess\u00e1rios.\u2026 [+2938 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.628683",
+      "internal_id": "3c4fd315dee778cdbea020ecb1d2b5dedc4544c87d7d397f5351838e6e048d09",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
       "id": 6691,
       "query": [
         "dengue"
@@ -949,6 +1237,42 @@
       "content": "A alta dos casos de dengue em S\u00e3o Paulo est\u00e1 fazendo com que a primeira dose da vacina comece a faltar em cl\u00ednicas particulares da capital. Segundo a fabricante Qdenga, o imunizante contra a doen\u00e7a, \u2026 [+462 chars]",
       "retrievedAt": "2024-03-11 07:06:32.148934",
       "internal_id": "a18edff66dcd06d878992d2bca9fa154e620078d9df0c1e954913bfc089a8cdc",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6729,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Adolescentes de 12 a 14 anos podem ser vacinados contra dengue a partir desta sexta-feira (08)",
+      "description": "Belo Horizonte come\u00e7ou a vacinar nesta sexta-feira (08), contra a dengue, os adolescentes de 12 a 14 anos. A amplia\u00e7\u00e3o da faixa et\u00e1ria foi uma...",
+      "url": "https://noticias.r7.com/minas-gerais/mg-record/videos/adolescentes-de-12-a-14-anos-podem-ser-vacinados-contra-dengue-a-partir-desta-sexta-feira-08-08032024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/03/08/65eb8dab416eb92bfe000017/db3cdf6ccfeb4d3faf66f5631ea1fa9d__Adolescentes_de_12_a_14_anos_podem_ser_vacinados_contra_dengue_a_partir_desta_sexta_feira__08__thumb.jpg",
+      "publishedAt": "2024-03-08 19:41:54",
+      "content": "Belo Horizonte come\u00e7ou a vacinar nesta sexta-feira (08), contra a dengue, os adolescentes de 12 a 14 anos. A amplia\u00e7\u00e3o da faixa et\u00e1ria foi uma orienta\u00e7\u00e3o do Minist\u00e9rio da Sa\u00fade e da SES-MG (Secretari\u2026 [+99 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.605142",
+      "internal_id": "3dac552613e8d71c0c487ebb3c93cdeca39cd8c11f56a9377c3f092c8e16af65",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6733,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Portal EdiCase",
+      "title": "5 mitos e verdades sobre vacinas que voc\u00ea precisa saber",
+      "description": "Como diria o famoso ditado popular: \"\u00e9 melhor prevenir do que remediar\". Para se proteger de ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/5-mitos-e-verdades-sobre-vacinas-que-voce-precisa-saber,1dffa743826aef7b8e5c49efe298c9e8xknfa0od.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/08/888196290-vacina.jpg",
+      "publishedAt": "2024-03-08 19:31:24",
+      "content": "Como diria o famoso ditado popular: \"\u00e9 melhor prevenir do que remediar\". Para se proteger de doen\u00e7as contagiosas (e, muitas vezes, mortais), como a dengue ou a COVID-19, os imunizantes s\u00e3o necess\u00e1rio\u2026 [+3294 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.634300",
+      "internal_id": "e9ea65a87c088b114eebdfdb576c3d2aaff642724531fbf3610de6cb46df4a80",
       "publishedAtLabel": "Mar 8"
     },
     {
@@ -1021,6 +1345,24 @@
       "content": "Scientists from Duke-NUS Medical School (Duke-NUS) have developed a new approach using the Zika virus to destroy brain cancer cells and inhibit tumour growth, while sparing healthy cells. Using Zika \u2026 [+5366 chars]",
       "retrievedAt": "2024-03-11 19:05:27.496539",
       "internal_id": "a201a3d8ed10c384049073297ae8dd4f0687a1c5dc49c5c2c7179445c378a244",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6736,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Moradores de Belford Roxo denunciam abandono de terreno com focos do mosquito da dengue",
+      "description": "Moradores denunciam o abandono de um terreno em Belford Roxo, na Baixada Fluminense. O local tem \u00e1gua parada e focos do mosquito da dengue. O ...",
+      "url": "https://recordtv.r7.com/balanco-geral-rj/videos/moradores-de-belford-roxo-denunciam-terreno-baldio-com-focos-do-mosquito-da-dengue-08032024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/03/08/65eb4d9a1df97b0a07000628/4a6abb1422d448fa8dab330b8761cdc0__BGT_R7_08MAR24_ABANDONODENGUE_thumb_thumb.jpg",
+      "publishedAt": "2024-03-08 16:50:01",
+      "content": "Moradores denunciam o abandono de um terreno em Belford Roxo, na Baixada Fluminense. O local tem \u00e1gua parada e focos do mosquito da dengue. O ac\u00famulo de lixo no local tamb\u00e9m tem causado o apareciment\u2026 [+101 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.650954",
+      "internal_id": "7c662e2d953c39d592692c734e7f96e1c36b942ef63170a1ece0cc7ff178e119",
       "publishedAtLabel": "Mar 8"
     },
     {
@@ -1219,6 +1561,24 @@
       "content": "Change Healthcare Partially Reopens System More Than 2 Weeks After Hack Its e-prescribing platform is up and running after a Feb. 21 cyberattack pushed it offline. The company hopes to reactivate tw\u2026 [+3331 chars]",
       "retrievedAt": "2024-03-09 19:05:15.380148",
       "internal_id": "d06dcf368cd8cdd9af638b3f47c3011163da1c3cd06dc93b5e9b12540c02cea3",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6730,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Belo Horizonte amplia vacina\u00e7\u00e3o contra a dengue para p\u00fablico de 10 a 14 anos",
+      "description": "Belo Horizonte ampliou, nesta sexta-feira (08), a vacina\u00e7\u00e3o contra a dengue para o p\u00fablico de 12 a 14 anos. A amplia\u00e7\u00e3o acontece ap\u00f3s a baixa ...",
+      "url": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/belo-horizonte-amplia-vacinacao-contra-a-dengue-para-publico-de-10-a-14-anos-08032024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/03/08/65eb407ac012adaf0b001d1d/33dbb9d233b04e10892802d942e109a7__BG_0803_MOCH_AMPLIA_VACINA_O_DE_thumb.jpg",
+      "publishedAt": "2024-03-08 14:04:58",
+      "content": "Belo Horizonte ampliou, nesta sexta-feira (08), a vacina\u00e7\u00e3o contra a dengue para o p\u00fablico de 12 a 14 anos. A amplia\u00e7\u00e3o acontece ap\u00f3s a baixa ades\u00e3o do p\u00fablico \u00e0 vacina. Das 49 mil doses que a capita\u2026 [+852 chars]",
+      "retrievedAt": "2024-03-12 07:06:02.612629",
+      "internal_id": "2aa71ef70da490568e5cbca35d238372f89ac660eedeb4b857e1692b3a3539af",
       "publishedAtLabel": "Mar 8"
     },
     {
@@ -1525,6 +1885,24 @@
       "content": "Ol\u00e1, pessoal! Aqui \u00e9 o Dr. Bact\u00e9ria, e hoje vamos falar sobre um inimigo invis\u00edvel que pode estar bem no seu quintal: o mosquito da dengue. Prestem aten\u00e7\u00e3o, porque vou dar umas dicas valiosas para m\u2026 [+1446 chars]",
       "retrievedAt": "2024-03-09 19:05:16.202631",
       "internal_id": "9dc805d01f94c1dbd3ff426b1aa4b205661c870fdc27cfe4b208805ffbaca1f6",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 6735,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Sobe para 44 o n\u00famero de mortes por dengue em SP",
+      "description": "Subiu para 44 o n\u00famero de mortes provocadas pela dengue no estado de S\u00e3o Paulo, em 2024. 24 dos \u00f3bitos eram de idosos com mais de 65 anos.",
+      "url": "https://recordtv.r7.com/balanco-geral-manha/videos/sobe-para-44-o-numero-de-mortes-por-dengue-em-sp-08032024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/03/08/65eadaee1df97b29bd00023d/879891c92727484bbde42827d477f7ae__2605165_EPP_0803_BGM_MORTES_DENGUE_thumb_thumb.jpg",
+      "publishedAt": "2024-03-08 07:08:13",
+      "content": "Subiu para 44 o n\u00famero de mortes provocadas pela dengue no estado de S\u00e3o Paulo, em 2024. 24 dos \u00f3bitos eram de idosos com mais de 65 anos.",
+      "retrievedAt": "2024-03-12 07:06:02.645809",
+      "internal_id": "956b51009f3cbbd15873a0920480bc1f933f61d85be32a2dc63e507b73ee0003",
       "publishedAtLabel": "Mar 8"
     },
     {
@@ -35820,6 +36198,132 @@
       "content": "O cen\u00e1rio epidemiol\u00f3gico da dengue colocou Manaus, capital do Amazonas, em estado de alerta. Neste s\u00e1bado (28), a Secretaria Municipal de Sa\u00fade (Semsa) divulgou um comunicado alertando que o n\u00famero\u2026 [+1024 chars]",
       "retrievedAt": "2024-01-30 07:05:32.093157",
       "internal_id": "0f22a74a61ed86e16fe91b15851b02255500a3e4039e52e836b319453dc5fc8b",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4733,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Minist\u00e9rio da Sa\u00fade divulga lista de cidades receber\u00e3o vacina contra a dengue",
+      "description": "Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha",
+      "url": "https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2024/01/vacina.jpg",
+      "publishedAt": "2024-01-28 18:52:03",
+      "content": "\u00daltimas not\u00edcias: Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha contra a dengue. Essas localida\u2026 [+1333 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.164251",
+      "internal_id": "72f1c569ace4975365295b27438b1ddeb3d269bcb72c9ef4f1249631bb66b727",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4724,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Casos de dengue sobem 26% no Estado de SP e secretaria j\u00e1 confirma quatro mortes no ano",
+      "description": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-01-28 16:22:57",
+      "content": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 a terceira semana epidemiol\u00f3gica de 2024 (com dados at\u00e9 o dia 20 de janeiro). O n\u00famero representa uma a\u2026 [+2557 chars]",
+      "retrievedAt": "2024-01-29 19:05:24.425804",
+      "internal_id": "1efaf5d5cb0f6f21d5e730c2c8175b5ae58fc4506ebcccf031f21bb998267521",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4723,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Viomundo.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue",
+      "description": "Minist\u00e9rio da Sa\u00fade, Conass e Conasems em nota O post Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue apareceu primeiro em Viomundo.",
+      "url": "https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html",
+      "urlToImage": "https://www.viomundo.com.br/wp-content/uploads/2024/01/ac044d91-3312-4a01-8f23-57c8980ce5fa.png",
+      "publishedAt": "2024-01-28 15:48:17",
+      "content": "NOTA CONJUNTA Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios unem esfor\u00e7os para a\u00e7\u00f5es de enfrentamento da dengue Desde o ano passado, o Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios est\u00e3o em constante monit\u2026 [+3677 chars]",
+      "retrievedAt": "2024-01-29 19:05:24.273642",
+      "internal_id": "9ccb2fb3a9cdbdb34473a05ea403c8a78a3c0a2303e1a82061b629129f30f128",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4732,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Clar\u00edn",
+      "author": "Ernesto Azarkevich",
+      "title": "Una beba de tres meses muri\u00f3 por dengue en Misiones",
+      "description": "Lleg\u00f3 a la guardia de un hospital con fiebre y fue derivada a terapia intensiva, pero no lograron estabilizarla.Es la v\u00edctima m\u00e1s joven del brote que ya caus\u00f3 9 muertes en la provincia.",
+      "url": "https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html",
+      "urlToImage": "https://www.clarin.com/img/2023/12/21/jMTZGJwoe_2000x1500__1.jpg",
+      "publishedAt": "2024-01-28 15:42:04",
+      "content": "Una beba de tres mesesmuri\u00f3 por dengue en Misiones y es la novena v\u00edctima en la provincia desde mediados de diciembre pasado. En la \u00faltima semana el sistema de salud report\u00f3 m\u00e1s de 2.600 cuadros febr\u2026 [+2602 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.160802",
+      "internal_id": "0b0fd0ee4e9094077b576368a8240cfa981b0137e588cc37f6755d414211ce93",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4730,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "F\u00e1bio Andrighetto",
+      "title": "Dengue no RJ dispara 587%, com mais de 9 mil casos em tr\u00eas semanas",
+      "description": "O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u00f5es, um n\u00famero que j\u00e1 supera a m\u00e9dia hist\u00f3rica para todo o m\u00eas. A situa\u00e7\u00e3o \u00e9 pr\u2026",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2021/02/istock-599881744.jpg",
+      "publishedAt": "2024-01-28 14:52:50",
+      "content": "\u00daltimas not\u00edcias: O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u2026 [+1806 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.154107",
+      "internal_id": "0892f851bd02e76d6fa09494c2842a3c71a097424b8424d17f9b43374e601a1c",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4722,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Mairead Maguire",
+      "title": "HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK",
+      "description": "Health officials in Ireland are keeping \u201cvery close watch\u201d as the number of cases have risen around Europe too.",
+      "url": "https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6283808/river/?height=400&version=6283810",
+      "publishedAt": "2024-01-28 14:40:52",
+      "content": "THE HSE HAS urged parents to make sure their children are vaccinated against measles, as the UK sees a spike in case numbers. The MMR vaccine protects against measles, mumps and rubella. In the UK\u2026 [+1711 chars]",
+      "retrievedAt": "2024-01-29 19:05:23.759567",
+      "internal_id": "62113caca466ead9afe1e1ae2e5c7d8f6e2345410ae6ba1b02df0f5f2f12e05c",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4721,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Multi-language measles campaign launched",
+      "description": "London has the lowest percentage of children who have received both doses, experts say.",
+      "url": "https://www.bbc.co.uk/news/articles/cglmrrnm5d9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2da6/live/135eb770-bc64-11ee-92a5-1d8f75943063.jpg",
+      "publishedAt": "2024-01-28 08:55:12",
+      "content": "Rhoda Ibrahim, from the Somali Advice and Forum of Information, told BBC Politics London: \"It's always the elderly men and women that don't speak English and it's also the mums. \"About 80% of the mu\u2026 [+683 chars]",
+      "retrievedAt": "2024-01-29 19:05:23.738701",
+      "internal_id": "e13bf1fb456bb23471488c6867b391bbf96b8bd03e39bbbb408ce79ebb92a0cd",
       "publishedAtLabel": "Jan 28"
     }
   ]
