@@ -1,8 +1,621 @@
 {
-  "last_updated": "2024-03-13 07:05",
-  "count_articles_total": 2069,
-  "count_articles_new": 36,
+  "last_updated": "2024-03-13 19:05",
+  "count_articles_total": 2096,
+  "count_articles_new": 34,
   "articles": [
+    {
+      "id": 6797,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Mary Chastain",
+      "title": "CDC Helping Chicago as Measles Cases Rise at Illegal Immigrant Shelter",
+      "description": "One of the children with measles is a student at a Chicago Public School. The post CDC Helping Chicago as Measles Cases Rise at Illegal Immigrant Shelter first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/03/cdc-helping-chicago-as-measles-cases-rise-at-illegal-immigrant-shelter/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/03/Chicago-Measles-1.jpg",
+      "publishedAt": "2024-03-12 19:00:38",
+      "content": "The Pilsen illegal immigrant shelter in Chicago, IL, has four measles cases, including two adults. The fire department took another child to the hospital. The CDC has sent a team to the city to help\u2026 [+2462 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.844156",
+      "internal_id": "76762dba96c21bd241a1e5721e6334580d026c1edfbd92af56346fb847e7cd40",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6813,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Dengue: SP registra 60\u00aa morte pela doen\u00e7a; outras 154 s\u00e3o investigadas",
+      "description": "Estado de SP chegou a 60 mortes por dengue nesta ter\u00e7a-feira (12/3), segundo dados da Secretaria da Sa\u00fade; j\u00e1 s\u00e3o 195.817 casos confirmados",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-sp-registra-60-morte-doenca",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/22131835/dengue-sp-s.jpg",
+      "publishedAt": "2024-03-12 18:02:03",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2696 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.520904",
+      "internal_id": "bb6ab1afa29a3b974b49b29ea292c9f48f7a25c897dd1957f791969000a1a947",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6809,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Anvisa avalia libera\u00e7\u00e3o de venda de autotestes para dengue",
+      "description": "Esta \u00e9 mais uma medida para frear o avan\u00e7o da dengue no Brasil; pa\u00eds j\u00e1 superou a marca de um milh\u00e3o e meio de casos da doen\u00e7a em 2024 O post Anvisa avalia libera\u00e7\u00e3o de venda de autotestes para dengue apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/03/12/medicina-e-saude/anvisa-avalia-liberacao-de-venda-de-autotestes-para-dengue/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/aedes_aegypti_dengue_zika_chikungunya-695x500.jpg",
+      "publishedAt": "2024-03-12 17:34:37",
+      "content": "O Minist\u00e9rio da Sa\u00fade e a Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) est\u00e3o discutindo o in\u00edcio da comercializa\u00e7\u00e3o de autotestes para a dengue no Brasil. Esta \u00e9 mais uma medida para frear o ava\u2026 [+2509 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.458910",
+      "internal_id": "e37fc1fa20cfbfb6b421177a7ee6dd90b841c6e9a3cd13da691568b336076cbc",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6812,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Ramiro Brites",
+      "title": "Deputado prop\u00f5e comiss\u00e3o para cobrar governo sobre o combate \u00e0 dengue",
+      "description": "Pedro Westphalen apresentou dois requerimentos para a forma\u00e7\u00e3o do grupo",
+      "url": "https://veja.abril.com.br/coluna/radar/deputado-propoe-comissao-para-cobrar-governo-sobre-o-combate-a-dengue",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/03/pedro-westphalen.png?crop=1&resize=1080,565",
+      "publishedAt": "2024-03-12 17:30:21",
+      "content": "Assine VEJA por R$2,00/semana Continua ap\u00f3s publicidade O deputado Pedro Westphalen (Republicanos-RS). (C\u00e2mara dos Deputados/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade Presidente da Frente Parlamentar\u2026 [+1315 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.484075",
+      "internal_id": "90f1ea11afdb343e6e0bade1d12e7aa7e2f6cd3862386d7d045c887226551aeb",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6798,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Ronan McGreevy",
+      "title": "HSE issues urgent appeal to passengers on Abu Dhabi flight following confirmed case of measles",
+      "description": "Pregnant women, immunocompromised people and the parents of children under the age of 12 months advised to come forward as soon as possible",
+      "url": "https://www.irishtimes.com/health/2024/03/12/hse-issues-urgent-appeal-to-passengers-on-abu-dhabi-flight-following-confirmed-case-of-measles/",
+      "urlToImage": "https://www.irishtimes.com/resizer/OblrT38uxiWul291kR5UGIcKZdo=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/SX7H3G4KNJA73A77QGLXHRMHSQ.jpg",
+      "publishedAt": "2024-03-12 16:55:57",
+      "content": "The HSE has issued an urgent public health alert relating to a third confirmed case of measles in Ireland. The passenger travelled on an Etihad Airways EY45 flight from Abu Dhabi to Dublin last Satu\u2026 [+1374 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.849851",
+      "internal_id": "b866ad359ecc42d1f1273e8d9a67613ed5d9c58fba97f5efcc1869423892bd69",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6817,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Rebeca Kemilly",
+      "title": "Saiba quem era Maria Eduarda Mendon\u00e7a, ativista do DF v\u00edtima de dengue",
+      "description": "A brasiliense foi diagnosticada com a doen\u00e7a na sexta-feira (8/3) e teve piora do quadro no domingo (10/3)",
+      "url": "https://www.metropoles.com/distrito-federal/saiba-quem-era-maria-eduarda-mendonca-ativista-do-df-vitima-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/12120326/Foto-Maria-Eduarda-Soares-de-Mendonca-84-cm-1.jpg",
+      "publishedAt": "2024-03-12 16:54:51",
+      "content": "Maria Eduarda Soares de Mendon\u00e7a, morta nesta segunda-feira (11/3) ap\u00f3s complica\u00e7\u00f5es provocadas pela dengue, era advogada e ativista. Com apenas 84 cent\u00edmetros de altura, Duda falava sobre valoriza\u00e7\u00e3\u2026 [+2460 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.557556",
+      "internal_id": "c464a19c8ba9308c5abe749e09adf908ad7e5b300e725b9d47d36dc9fc3806a9",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6801,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Los Angeles Times",
+      "author": "Rong-Gong Lin II",
+      "title": "Hundreds of people possibly exposed to measles at California hospital, officials say",
+      "description": "As many as 300 people were exposed to a child with measles at UC Davis Medical Center, according to health officials in Sacramento and El Dorado counties.",
+      "url": "https://www.latimes.com/california/story/2024-03-12/hundreds-of-people-possibly-exposed-to-measles-at-california-hospital-officials-say",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/dcde157/2147483647/strip/true/crop/5472x2873+0+388/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2F0d%2Fedf385d14e1e9ee2bafa3cb8b0da%2Fgettyimages-1209113434.jpg",
+      "publishedAt": "2024-03-12 16:54:01",
+      "content": "Hundreds of people were possibly exposed to measles after a child with the virus was seen at a Northern California hospital, officials said. As many as 300 people were exposed to the child, who was \u2026 [+7014 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.872778",
+      "internal_id": "7f5c03ef569f367e85ea4afb843872b32107609b2733a238724d6ae8b2cc36b3",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6800,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Urgent public health alert to passengers on Dublin-bound flight after person on board had measles",
+      "description": "Scores of air passengers who shared a flight with a person who had measles from Abu Dhabi to Dublin on Saturday are being urgently alerted.",
+      "url": "https://www.independent.ie/irish-news/urgent-public-health-alert-to-passengers-on-dublin-bound-flight-after-person-on-board-had-measles/a2119324315.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/88LmmMmYQ4iikZWZXviLCXiqW7Y=/16x0:4912x3264/629x0/prod-mh-ireland/06eb9323-d9a1-4db8-8b9a-05dc5fddecc6/bc54f215-fac3-481f-9813-6c60a619aa16/06eb9323-d9a1-4db8-8b9a-05dc5fddecc6.jpg",
+      "publishedAt": "2024-03-12 16:46:15",
+      "content": "Scores of air passengers who shared a flight with a person who had measles from Abu Dhabi to Dublin on Saturday are being urgently alerted.The HSE public health section said it is asking some of the \u2026 [+1725 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.859942",
+      "internal_id": "3ae6b2f3b49f56dfdff96b97b6048e34868c977d46a4bd6849452545b00b2388",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6799,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Eimer McAuley",
+      "title": "HSE urgently calls on people who were on Dublin flight with measles case on board to come forward",
+      "description": "Passengers who were on the flight are asked to contact the HSElive phone line immediately.",
+      "url": "https://www.thejournal.ie/measles-case-dublin-flight-6325124-Mar2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6325124/river/?height=400&version=6325147",
+      "publishedAt": "2024-03-12 16:42:36",
+      "content": "THE HSE HAS issued an urgent alert calling on people who were on a Dublin-bound flight that had someone with a confirmed case of measles on board to come forward. The health services public health\u2026 [+1485 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.855818",
+      "internal_id": "588ecc5e8b25d907f7de270b69e41dab6b52723780888ce1ab793892c612a575",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6826,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Secretaria de Sa\u00fade apresenta a\u00e7\u00f5es para enfrentar surto de arboviroses em MG",
+      "description": "A Secretaria de Estado de Sa\u00fade apresentou a\u00e7\u00f5es para o enfrentamento do mosquito Aedes aegypti ap\u00f3s surto da doen\u00e7a em Minas Gerais. Os casos...",
+      "url": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/secretaria-de-saude-apresenta-acoes-para-enfrentar-surto-de-arboviroses-em-mg-12032024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/03/12/65f0a1e4416eb9103b000fe2/fcc45c8fb52f40b9bf1d6338ac6d34d4__BG_1203_MOCH_CEN_RIO_DENGUE_thumb.jpg",
+      "publishedAt": "2024-03-12 16:42:00",
+      "content": "A Secretaria de Estado de Sa\u00fade apresentou a\u00e7\u00f5es para o enfrentamento do mosquito Aedes aegypti ap\u00f3s surto da doen\u00e7a em Minas Gerais. Os casos de dengue e chikungunya avan\u00e7aram no estado e tem preocu\u2026 [+1104 chars]",
+      "retrievedAt": "2024-03-13 19:05:41.813879",
+      "internal_id": "5b61ab5f2d186f0e53d058a01d73ba34091d83fda893fe98450b32c3724c0d20",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6806,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Timothy Nerozzi",
+      "title": "CDC sends response team to Chicago migrant shelter amid measles outbreak",
+      "description": "The Centers for Disease Control and Prevention is sending medical teams to assist Chicago, Illinois, officials due to a measles outbreak linked to the Pilsen migrant shelter.",
+      "url": "https://www.foxnews.com/health/cdc-sends-response-team-chicago-migrant-shelter-measles-outbreak",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/Chicago-migrants.jpg",
+      "publishedAt": "2024-03-12 16:36:03",
+      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. Please enter a valid email address. By entering your e\u2026 [+2477 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.905022",
+      "internal_id": "288585fcaf0fec35800ceb4cc5b49ddeb3dc275cd347e40b8840e7b0b9771490",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6796,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "emily.cooke@futurenet.com (Emily Cooke)",
+      "title": "300 people possibly exposed to measles at California hospital",
+      "description": "Officials are trying to contact around 300 people who may have been exposed to measles at the UC Davis Medical Center Emergency Department on March 5, when an infected child was treated there.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/300-people-possibly-exposed-to-measles-at-california-hospital",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FtNEMCJhoz9SFW8x6kHL5F-1200-80.jpg",
+      "publishedAt": "2024-03-12 16:30:12",
+      "content": "Around 300 people may have been exposed to measles at a hospital in California after an infected child was seen by doctors there last week, public officials say. In a statement released March 8\u2026 [+4617 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.835087",
+      "internal_id": "7f73f8fca5cf5da0cdc0b2eb9fae27ec5cd597cc639574126174b18f4cd6f120",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6823,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "En un giro m\u00e9dico, el virus Zika podr\u00eda convertirse en un arma contra el c\u00e1ncer cerebral",
+      "description": "Una enfermedad transmitida por mosquitos m\u00e1s conocida por causar deformidades craneales graves en los beb\u00e9s podr\u00eda alg\u00fan d\u00eda convertirse en un aliado de la humanidad. Cient\u00edficos de la Universidad de Duke y otros han creado una versi\u00f3n debilitada del virus Zi\u2026",
+      "url": "https://es.gizmodo.com/tratamiento-de-tumores-de-cancer-cerebral-por-el-virus-1851328632",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e434ef2b21c1b02806393a11369dc8ea.jpg",
+      "publishedAt": "2024-03-12 16:17:00",
+      "content": "Una enfermedad transmitida por mosquitos m\u00e1s conocida por causar deformidades craneales graves en los beb\u00e9s podr\u00eda alg\u00fan d\u00eda convertirse en un aliado de la humanidad. Cient\u00edficos de la Universidad de\u2026 [+4704 chars]",
+      "retrievedAt": "2024-03-13 19:05:41.461278",
+      "internal_id": "0383f6684b2b8734cf270aae3eaf67ea3c3d2bed0096ddb3151cfeee25cdca2e",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6824,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "In a Medical Twist, Zika Virus Could Become a Weapon Against Brain Cancer",
+      "description": "A mosquito-borne disease best known for causing severe cranial deformities in babies may someday become humanity\u2019s ally. Duke University scientists and others have created a weakened version of the Zika virus that could potentially be repurposed into a treatm\u2026",
+      "url": "https://gizmodo.com/zika-virus-brain-cancer-tumors-treatment-1851326565",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e434ef2b21c1b02806393a11369dc8ea.jpg",
+      "publishedAt": "2024-03-12 16:17:00",
+      "content": "A mosquito-borne disease best known for causing severe cranial deformities in babies may someday become humanitys ally. Duke University scientists and others have created a weakened version of the Zi\u2026 [+3888 chars]",
+      "retrievedAt": "2024-03-13 19:05:41.469844",
+      "internal_id": "4d47fb70d7eadf1b476e47f5d10b86ea29bbe9c6996c5fab54e7ad36878263c1",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6820,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue causa queda de cabelo? Saiba quais sequelas a doen\u00e7a pode provocar ap\u00f3s per\u00edodo de infec\u00e7\u00e3o",
+      "description": "Reflexos podem chegar at\u00e9 a problemas em \u00f3rg\u00e3os como cora\u00e7\u00e3o, f\u00edgado e rins. Efeitos podem aparecer at\u00e9 tr\u00eas meses depois da contamina\u00e7\u00e3o. A dengue tamb\u00e9m pode causar sequelas. Apesar de muitas pessoas ainda n\u00e3o saberem disso, al\u00e9m de provocar um mal-estar po\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/12/dengue-causa-queda-de-cabelo-saiba-quais-sequelas-a-doenca-pode-provocar-apos-periodo-de-infeccao.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/sHG5mK_7gdjab1mTP4Wyhr-YONw=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/12429619.jpg",
+      "publishedAt": "2024-03-12 16:04:06",
+      "content": "A dengue tamb\u00e9m pode causar sequelas. Apesar de muitas pessoas ainda n\u00e3o saberem disso, al\u00e9m de provocar um mal-estar por sete dias, com sintomas como febre e dor aguda no corpo, cabe\u00e7a e olhos, a do\u2026 [+2841 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.608434",
+      "internal_id": "da01645667728cc7bab8137a90b39b95f09d04f9a87aeea6cf3e8db831513ada",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6825,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Jovem de 26 anos tem morte por dengue confirmada em Esp\u00edrito Santo do Pinhal",
+      "description": "\u00d3bito foi o primeiro da cidade. Com o registro, regi\u00e3o de Campinas chega a cinco mortes pela doen\u00e7a desde o in\u00edcio do ano. Aedes aegypti \u00e9 o transmissor da chikungunya, dengue, Zika e febre amarela Freepik A Prefeitura de Esp\u00edrito Santo do Pinhal (SP) confirm\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/12/jovem-de-26-anos-tem-morte-por-dengue-confirmada-em-espirito-santo-do-pinhal.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/aoe3M0tL0WGhf0XFkv-i_0yqI0U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/f/6/jGeaMRSAWPX7nVHjHzDA/mosquito.jpg",
+      "publishedAt": "2024-03-12 15:59:59",
+      "content": "De acordo com a administra\u00e7\u00e3o municipal, o paciente morava no bairro H\u00e9lio Vergueiro Leite. Ele foi atendido com febre e tosse no dia 4 de mar\u00e7o e precisou ser internado dois dias depois no Hospital \u2026 [+2785 chars]",
+      "retrievedAt": "2024-03-13 19:05:41.486333",
+      "internal_id": "bbee8675f562e6a6e93cd7e4c42b4492d46b0e53f8a4dd74d780d88750bf628c",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6795,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KRQE News 13",
+      "author": "Audrey Claire Davis",
+      "title": "Man, dog attacked by bobcats with rabies in New Mexico",
+      "description": "NEW MEXICO (KRQE) \u2013 The New Mexico Department of Health has confirmed that two bobcats have tested positive for rabies in New Mexico. One case was detected in Grant County, and the other was in Sierra County. According to the DOH, a man was attacked by one of\u2026",
+      "url": "https://www.krqe.com/health/rabid-bobcats-detected-in-two-new-mexico-counties/",
+      "urlToImage": "https://www.krqe.com/wp-content/uploads/sites/12/2024/03/AdobeStock_494478529.jpeg?w=1280",
+      "publishedAt": "2024-03-12 15:56:04",
+      "content": "NEW MEXICO (KRQE) The New Mexico Department of Health has confirmed that two bobcats have tested positive for rabies in New Mexico. One case was detected in Grant County, and the other was in Sierra\u2026 [+1548 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.538310",
+      "internal_id": "29bb3f087aefa682e0f45d9e43317f302187a63cd01515aaf29323783afce3a0",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6807,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Theepochtimes.com",
+      "author": "Ashley Turner",
+      "title": "Measles: A Holistic Perspective",
+      "description": "With predictions of measles being on a world-wide rise, understanding the childhood disease, it\u2019s possible complications, and treatment options are key.",
+      "url": "https://www.theepochtimes.com/health/measles-a-holistic-perspective-5602795",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2024/03/12/id5605541-boy-with-measles--1080x720.jpeg",
+      "publishedAt": "2024-03-12 15:35:48",
+      "content": "In a recent press briefing by the World Health Organizations Natasha Crowcroft, a senior technical adviser on measles and rubella, warned that more than half the world will be at a high or very high \u2026 [+10253 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.915909",
+      "internal_id": "ef486c8a56a30a10d43329658020730632355213c6432da4a9fca7f944b64ddf",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6814,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "An\u00e1polis (GO) faz a\u00e7\u00e3o de vacina\u00e7\u00e3o contra dengue neste s\u00e1bado (16/3)",
+      "description": "At\u00e9 9 de mar\u00e7o, das 10.539 doses recebidas em 14 de fevereiro, apenas 3.221 foram aplicadas em An\u00e1polis (GO)",
+      "url": "https://www.metropoles.com/brasil/anapolis-go-faz-acao-de-vacinacao-contra-dengue-neste-sabado-16-3",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/12115055/agentes-anapolis-combate-a-dengue.jpeg",
+      "publishedAt": "2024-03-12 15:34:20",
+      "content": "Goi\u00e2nia \u2013 No pr\u00f3ximo s\u00e1bado (16/3), o munic\u00edpio de An\u00e1polis, a cerca de 55 km da capital goiana, realiza mais uma a\u00e7\u00e3o de vacina\u00e7\u00e3o contra a dengue para crian\u00e7as de 10 a 14 anos. At\u00e9 9 de mar\u00e7o, das \u2026 [+2338 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.538268",
+      "internal_id": "2a247a87b82e104782f72668a6d2f9f8e7e1ac76473a19a74846a12d075daa2c",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6816,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "J\u00e9ssica Ribeiro",
+      "title": "Morre, aos 31 anos, ativista Maria Eduarda Mendon\u00e7a, v\u00edtima de dengue",
+      "description": "Maria Eduarda Soares de Mendon\u00e7a ganhou destaque pela luta contra o preconceito, em favor da inclus\u00e3o e da valoriza\u00e7\u00e3o da vida",
+      "url": "https://www.metropoles.com/distrito-federal/morre-aos-31-anos-ativista-maria-eduarda-mendonca-vitima-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/12120329/Foto-Maria-Eduarda-Soares-de-Mendonca-84-cm-2.jpg",
+      "publishedAt": "2024-03-12 15:32:53",
+      "content": "A advogada e ativista Maria Eduarda Soares de Mendon\u00e7a morreu aos 31 anos, na manh\u00e3 dessa segunda-feira (11/3), ap\u00f3s complica\u00e7\u00f5es provocadas pela dengue. A brasiliense foi diagnosticada com a doen\u00e7a \u2026 [+2033 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.554206",
+      "internal_id": "78290b92ad39f23c664c354d5700fe3690c620c7a6db4f49b5bece76dc824cff",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6819,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "El mapa del dengue en la Argentina: en una semana, las cifras oficiales sumaron otros 21.145 casos confirmados y 10 decesos",
+      "description": "As\u00ed surge de los datos que actualiz\u00f3 el Ministerio de Salud de la Naci\u00f3n a partir de las notificaciones provinciales; mientras que en la provincia de Buenos Aires se duplicaron los diagn\u00f3sticos, Rosario concentra la mayor cantidad de infecciones en Santa Fe e\u2026",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-en-la-argentina-en-una-semana-las-cifras-oficiales-sumaron-otros-21145-casos-nid12032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/mosquitos-aedes-aegypti-transmisores-del-KONL3K4O6VATLGBMTRBZR3AIDY?auth=ce8efa931008ea10824e3c45d5b9adf9e415c1d3dc1a5f9447e4e6b68cf4d806&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-12 14:57:05",
+      "content": "En una semana, la epidemia de dengue que avanza en el pa\u00eds sum\u00f3 otros 21.145 casos confirmados en las provincias. La \u00faltima actualizaci\u00f3n nacional da cuenta de que solo entre el 18 y 24 de febrero hu\u2026 [+5063 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.602647",
+      "internal_id": "f5df17073af1090741b0ea36a66063563e91c858cde6ef2504503e5ead08e0ab",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6793,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WebMD",
+      "author": "https://www.facebook.com/WebMD",
+      "title": "How Moms Prevent Whooping Cough (Pertussis)",
+      "description": "Whooping cough is highly contagious. If one person has pertussis, up to 90% of people in the same house will get it. Here\u2019s what careful moms do.",
+      "url": "https://www.webmd.com/children/vaccines/features/how-proactive-moms-prevent-whooping-cough-pertussis",
+      "urlToImage": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd-logo-fb.jpg",
+      "publishedAt": "2024-03-12 14:07:28",
+      "content": "The pertussis vaccine, called DTaP (for diphtheria, tetanus, and pertussis), is typically given in five doses. The first four shots are given during a babys first year and a half of life: at 2, 4, 6,\u2026 [+1935 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.173288",
+      "internal_id": "9b40329d8d84961a5f024afcbd5350a7b3e1b31ef2e980abb154cab393cf82e5",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6822,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Cut-price malaria vaccine to begin Africa rollout from May",
+      "description": "The world's biggest vaccine maker will start rolling out a cheap new malaria inoculation in Africa from May, bolstering the fight against one of the most deadly infectious diseases globally.",
+      "url": "https://www.france24.com/en/video/20240312-cut-price-malaria-vaccine-to-begin-africa-rollout-from-may",
+      "urlToImage": "https://s.france24.com/media/display/7eb1df88-e073-11ee-ae4a-005056a90284/w:1280/p:16x9/EN_20240312_134102_134352_CS.jpg",
+      "publishedAt": "2024-03-12 13:22:01",
+      "content": "Issued on: 12/03/2024 - 14:22 The world's biggest vaccine maker will start rolling out a cheap new malaria inoculation in Africa from May, bolstering the fight against one of the most deadly infecti\u2026 [+21 chars]",
+      "retrievedAt": "2024-03-13 19:05:41.299458",
+      "internal_id": "df21de59cce19d07fb404efcfc3e7a5822efc34f1f2ca5fa7429d3e4f5c54c40",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6803,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "Kay Smythe",
+      "title": "300 People Potentially Exposed To Measles After Infected Child Visits US Hospital",
+      "description": "Three hundred or more people may have been exposed to measles after an infected child visited a California hospital in early March.",
+      "url": "https://dailycaller.com/2024/03/12/el-dorado-california-measles-outbreak/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/03/shutterstock_512454937-scaled-e1710244645299.jpg",
+      "publishedAt": "2024-03-12 12:34:23",
+      "content": "Three hundred or more people may have been exposed to measles after an infected child visited a California hospital in early March. The infected child allegedly visited San Joaquin Urgent Care and t\u2026 [+1566 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.888978",
+      "internal_id": "43e584deedb1cd30d26247e10009b7d277c859dfae32f8920047808f81bc63c2",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6802,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Tuesday, March 12, 2024",
+      "description": "Anti-vaccine movement, Biden's budget, measles, IVF, opioid addiction, nursing staffing, flu strains, and more are in the news.",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-march-12-2024/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2024-03-12 12:27:11",
+      "content": "Health Providers Urge CMS To Extend Hospital-At-Home Waiver Program Johns Hopkins, Henry Ford Health, and the American Medical Association were among groups who signed a letter sent to congressional\u2026 [+4830 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.885557",
+      "internal_id": "ba27acab69f882435142cf95f7f3ab6d49d755ccda4e129cdcaa003257724088",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6815,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "F\u00e1bia Oliveira",
+      "title": "Exclusivo: dengue vira pauta em briga judicial de Deolane e condom\u00ednio",
+      "description": "A influenciadora Deolane Bezerra foi processada pela Associa\u00e7\u00e3o Fazenda Tambor\u00e9 Residencial depois de um muro ter desabado ap\u00f3s um deslizamento de terra.",
+      "url": "https://www.metropoles.com/colunas/fabia-oliveira/exclusivo-dengue-vira-pauta-em-briga-judicial-de-deolane-e-condominio",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/11185513/Deolane-Bezerra-28.jpg",
+      "publishedAt": "2024-03-12 11:00:39",
+      "content": "A briga entre Deolane Bezerra e a Associa\u00e7\u00e3o Fazenda Tambor\u00e9 j\u00e1 \u00e9 hist\u00f3ria antiga, mas n\u00e3o para de ganhar novidades. E a coluna F\u00e1bia Oliveira acaba de saber detalhes quentinhos dessa batalha judicia\u2026 [+3850 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.550859",
+      "internal_id": "a12435db975f4c4a8a7a7758260a55f9a42f7fcfffa714d36ff1ec04428124e4",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6808,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLS-TV",
+      "author": "Abc 7 Chicago",
+      "title": "Measles outbreak Chicago: CDC team to assist response after several cases reported at Pilsen migrant shelter",
+      "description": "A team of experts from the CDC is expected to arrive in Chicago Tuesday to support the local response to a measles outbreak in a migrant shelter. .",
+      "url": "https://abc7chicago.com/measles-outbreak-chicago-how-long-does-vaccine-last-symptoms-migrant-shelter/14516364/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14516446_031224-wls-jess-measles-530a-vid.jpg?w=1600",
+      "publishedAt": "2024-03-12 10:49:42",
+      "content": "CHICAGO (WLS) -- A team of experts from the CDC is expected to arrive in Chicago Tuesday to support the local response to a measles outbreak in a migrant shelter. . It comes as the measles is spread\u2026 [+1515 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.921779",
+      "internal_id": "1446e9e881eff163811e3a5306b86d8bf431d525edeb6e4ae0641fa51c8f31aa",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6810,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Febre oropouche: entenda o que \u00e9 e se h\u00e1 risco de o Brasil enfrentar um surto da doen\u00e7a",
+      "description": "A doen\u00e7a causa sintomas semelhantes ao da dengue e tem maior incid\u00eancia na regi\u00e3o norte do pa\u00eds",
+      "url": "https://www.bbc.com/portuguese/articles/cyjz74ewlrno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/f4d6/live/e5155220-dc9d-11ee-bff9-3348ac7d2e4e.jpg",
+      "publishedAt": "2024-03-12 10:27:43",
+      "content": "Cr\u00e9dito, Getty Images Article informationAuthor, Simone Machado Role, De S\u00e3o Jos\u00e9 do Rio Preto (SP) para a BBC News Brasil O Amazonas declarou, no \u00faltimo doming\u2026 [+6353 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.465345",
+      "internal_id": "c3d4e03c01703760126b680c4b1d15450d70e0228daf66ea927278e7a1ef5e8d",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6811,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Camille Auch\u00e8re, Journaliste junior",
+      "title": "Le Br\u00e9sil rel\u00e2che des moustiques OGM porteurs d'un g\u00e8ne mortel dans la nature",
+      "description": "Face \u00e0 une explosion des cas de dengue, le Br\u00e9sil a d\u00e9cid\u00e9 de s'occuper des moustiques \u00e0 sa fa\u00e7on... en introduisant, dans les zones les plus touch\u00e9es, des moustiques g\u00e9n\u00e9tiquement modifi\u00e9s et porteurs d'un g\u00e8ne mortel pour les femelles, responsables de la tr\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/moustique-bresil-relache-moustiques-ogm-porteurs-gene-mortel-nature-112049/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/f/7/f/f7f0058aa3_50213446_lutte-moustique-dengue.jpg",
+      "publishedAt": "2024-03-12 10:08:07",
+      "content": "La crise de la dengue au Br\u00e9sil a atteint des proportions alarmantes, avec plus d'un million de cas signal\u00e9s en seulement deux mois, marquant une augmentation de 226 % par rapport \u00e0 2023. Face \u00e0 cett\u2026 [+1582 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.471144",
+      "internal_id": "3f25fcead0ba9fc0622ad4f189b349dc5bddfc27a4cfaeb6ad287485ef829d37",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6804,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Chicago Tribune",
+      "author": "Sheldon H. Jacobson, Janet A. Jokela",
+      "title": "Sheldon H. Jacobson and Dr. Janet A. Jokela: Measles is making a comeback. Should we be concerned?",
+      "description": "The risks to children in contracting measles are greater than the perception many people have.",
+      "url": "http://www.chicagotribune.com/2024/03/12/opinion-measles-children-infections-chicago-risks/",
+      "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/03/ctc-l-migrants-measles-12_184099586.jpg?w=1024&h=683",
+      "publishedAt": "2024-03-12 10:00:58",
+      "content": "The Centers for Disease Control and Prevention has reported an uptick in the number of measles cases around the nation since early December. If the pace of infections continues to follow this traject\u2026 [+4777 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.893016",
+      "internal_id": "a393df61b547604f0631e13c241397377825b3db476cf848ad5be83c7c472869",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6805,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "Kathleen Benoza",
+      "title": "Health ministry urges caution after measles outbreak",
+      "description": "The health ministry has urged residents to get their measles shots following the confirmation of eight cases of the illness among passengers who arrived on a flight from overseas at Kansai International Airport in late February, amid a continuing global sprea\u2026",
+      "url": "https://www.japantimes.co.jp/news/2024/03/12/japan/science-health/measles-tokyo-osaka/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/12/285702.jpg",
+      "publishedAt": "2024-03-12 09:15:00",
+      "content": "The health ministry has urged residents to get their measles shots following the confirmation of eight cases of the illness among passengers who arrived on a flight from overseas at Kansai Internatio\u2026 [+414 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.899010",
+      "internal_id": "78799a63f3971c89d108e6df7eb799052a94ee22976b4645f9d3259c673a5ffa",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6818,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "Dengue: 7 dicas para proteger a casa contra os mosquitos",
+      "description": "Al\u00e9m de eliminar poss\u00edveis focos de prolifera\u00e7\u00e3o do Aedes aegypti, existem outras medidas para prevenir que o mosquito da dengue invada a sua casa",
+      "url": "https://saude.ig.com.br/2024-03-12/dengue-7-dicas-proteger-casa-mosquitos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
+      "publishedAt": "2024-03-12 09:00:00",
+      "content": "O Brasil vive um per\u00edodo de alerta contra o v\u00edrus da dengue: 8 estados e o DF j\u00e1 decretaram emerg\u00eancia de sa\u00fade p\u00fablica, 363 pessoas j\u00e1 morreram e o pa\u00eds j\u00e1 registrou 1.342.086 casos prov\u00e1veis s\u00f3 em \u2026 [+5445 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.575657",
+      "internal_id": "e7f8fb695a0d5305c574816d42c78a2565ee5bb96d8fb30018b37f25fcaa220c",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6821,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Ludwig Werny",
+      "title": "Infektionskrankheit: Selten, aber gef\u00e4hrlich: Was Eltern \u00fcber Meningokokken wissen m\u00fcssen",
+      "description": "Die St\u00e4ndige Impfkommission empfiehlt seit Anfang des Jahres, S\u00e4uglinge ab einem Alter von zwei Monaten gegen Meningokokken zu impfen. Wie die Keime \u00fcbertragen werden und warum eine Infektion so gef\u00e4hrlich ist.",
+      "url": "https://www.stern.de/panorama/wissen/meningokokken--was-eltern-ueber-die-infektionskrankheit-wissen-muessen-34523946.html",
+      "urlToImage": "https://image.stern.de/34524310/t/2w/v13/w1440/r1.7778/-/meningokokken.jpg",
+      "publishedAt": "2024-03-12 08:04:00",
+      "content": "Meningokokken sind spezielle Bakterien, die beim Menschen zu schweren Krankheiten f\u00fchren k\u00f6nnen: etwa zu einer Hirnhautentz\u00fcndung (Meningitis) oder Blutvergiftung (Sepsis). Die Erreger lassen sich au\u2026 [+4668 chars]",
+      "retrievedAt": "2024-03-13 19:05:40.972791",
+      "internal_id": "0bc64839aac63335fd2a10d71775d5cc184ed6e5b4376f06e442ab0ae5eec689",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 6794,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Couple sent to prosecutors after unvaccinated dog injures 7",
+      "description": "A man and his wife have been referred to prosecutors after their dog, which was not vaccinated for rabies, bit and injured seven people including elementary school pupils in a park in a city in Gunma Prefecture last month, police said. The 62-year-old man and\u2026",
+      "url": "https://japantoday.com/category/crime/couple-sent-to-prosecutors-after-unvaccinated-dog-injures-7-in-japan",
+      "urlToImage": null,
+      "publishedAt": "2024-03-12 07:13:44",
+      "content": "A man and his wife have been referred to prosecutors after their dog, which was not vaccinated for rabies, bit and injured seven people including elementary school pupils in a park in a city in Gunma\u2026 [+1135 chars]",
+      "retrievedAt": "2024-03-13 19:05:39.532528",
+      "internal_id": "4bf30150f8e801f50c7576a5d9a8025e0a89216570f8e28894f03a0df7f49594",
+      "publishedAtLabel": "Mar 12"
+    },
     {
       "id": 6784,
       "query": [
@@ -37210,132 +37823,6 @@
       "content": "O cen\u00e1rio epidemiol\u00f3gico da dengue colocou Manaus, capital do Amazonas, em estado de alerta. Neste s\u00e1bado (28), a Secretaria Municipal de Sa\u00fade (Semsa) divulgou um comunicado alertando que o n\u00famero\u2026 [+1024 chars]",
       "retrievedAt": "2024-01-30 07:05:32.093157",
       "internal_id": "0f22a74a61ed86e16fe91b15851b02255500a3e4039e52e836b319453dc5fc8b",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4733,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Minist\u00e9rio da Sa\u00fade divulga lista de cidades receber\u00e3o vacina contra a dengue",
-      "description": "Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha",
-      "url": "https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2024/01/vacina.jpg",
-      "publishedAt": "2024-01-28 18:52:03",
-      "content": "\u00daltimas not\u00edcias: Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha contra a dengue. Essas localida\u2026 [+1333 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.164251",
-      "internal_id": "72f1c569ace4975365295b27438b1ddeb3d269bcb72c9ef4f1249631bb66b727",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4724,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Casos de dengue sobem 26% no Estado de SP e secretaria j\u00e1 confirma quatro mortes no ano",
-      "description": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-01-28 16:22:57",
-      "content": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 a terceira semana epidemiol\u00f3gica de 2024 (com dados at\u00e9 o dia 20 de janeiro). O n\u00famero representa uma a\u2026 [+2557 chars]",
-      "retrievedAt": "2024-01-29 19:05:24.425804",
-      "internal_id": "1efaf5d5cb0f6f21d5e730c2c8175b5ae58fc4506ebcccf031f21bb998267521",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4723,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Viomundo.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue",
-      "description": "Minist\u00e9rio da Sa\u00fade, Conass e Conasems em nota O post Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue apareceu primeiro em Viomundo.",
-      "url": "https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html",
-      "urlToImage": "https://www.viomundo.com.br/wp-content/uploads/2024/01/ac044d91-3312-4a01-8f23-57c8980ce5fa.png",
-      "publishedAt": "2024-01-28 15:48:17",
-      "content": "NOTA CONJUNTA Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios unem esfor\u00e7os para a\u00e7\u00f5es de enfrentamento da dengue Desde o ano passado, o Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios est\u00e3o em constante monit\u2026 [+3677 chars]",
-      "retrievedAt": "2024-01-29 19:05:24.273642",
-      "internal_id": "9ccb2fb3a9cdbdb34473a05ea403c8a78a3c0a2303e1a82061b629129f30f128",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4732,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Clar\u00edn",
-      "author": "Ernesto Azarkevich",
-      "title": "Una beba de tres meses muri\u00f3 por dengue en Misiones",
-      "description": "Lleg\u00f3 a la guardia de un hospital con fiebre y fue derivada a terapia intensiva, pero no lograron estabilizarla.Es la v\u00edctima m\u00e1s joven del brote que ya caus\u00f3 9 muertes en la provincia.",
-      "url": "https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html",
-      "urlToImage": "https://www.clarin.com/img/2023/12/21/jMTZGJwoe_2000x1500__1.jpg",
-      "publishedAt": "2024-01-28 15:42:04",
-      "content": "Una beba de tres mesesmuri\u00f3 por dengue en Misiones y es la novena v\u00edctima en la provincia desde mediados de diciembre pasado. En la \u00faltima semana el sistema de salud report\u00f3 m\u00e1s de 2.600 cuadros febr\u2026 [+2602 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.160802",
-      "internal_id": "0b0fd0ee4e9094077b576368a8240cfa981b0137e588cc37f6755d414211ce93",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4730,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "F\u00e1bio Andrighetto",
-      "title": "Dengue no RJ dispara 587%, com mais de 9 mil casos em tr\u00eas semanas",
-      "description": "O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u00f5es, um n\u00famero que j\u00e1 supera a m\u00e9dia hist\u00f3rica para todo o m\u00eas. A situa\u00e7\u00e3o \u00e9 pr\u2026",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2021/02/istock-599881744.jpg",
-      "publishedAt": "2024-01-28 14:52:50",
-      "content": "\u00daltimas not\u00edcias: O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u2026 [+1806 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.154107",
-      "internal_id": "0892f851bd02e76d6fa09494c2842a3c71a097424b8424d17f9b43374e601a1c",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4722,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "TheJournal.ie",
-      "author": "Mairead Maguire",
-      "title": "HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK",
-      "description": "Health officials in Ireland are keeping \u201cvery close watch\u201d as the number of cases have risen around Europe too.",
-      "url": "https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/",
-      "urlToImage": "https://img2.thejournal.ie/article/6283808/river/?height=400&version=6283810",
-      "publishedAt": "2024-01-28 14:40:52",
-      "content": "THE HSE HAS urged parents to make sure their children are vaccinated against measles, as the UK sees a spike in case numbers. The MMR vaccine protects against measles, mumps and rubella. In the UK\u2026 [+1711 chars]",
-      "retrievedAt": "2024-01-29 19:05:23.759567",
-      "internal_id": "62113caca466ead9afe1e1ae2e5c7d8f6e2345410ae6ba1b02df0f5f2f12e05c",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4721,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Multi-language measles campaign launched",
-      "description": "London has the lowest percentage of children who have received both doses, experts say.",
-      "url": "https://www.bbc.co.uk/news/articles/cglmrrnm5d9o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2da6/live/135eb770-bc64-11ee-92a5-1d8f75943063.jpg",
-      "publishedAt": "2024-01-28 08:55:12",
-      "content": "Rhoda Ibrahim, from the Somali Advice and Forum of Information, told BBC Politics London: \"It's always the elderly men and women that don't speak English and it's also the mums. \"About 80% of the mu\u2026 [+683 chars]",
-      "retrievedAt": "2024-01-29 19:05:23.738701",
-      "internal_id": "e13bf1fb456bb23471488c6867b391bbf96b8bd03e39bbbb408ce79ebb92a0cd",
       "publishedAtLabel": "Jan 28"
     }
   ]

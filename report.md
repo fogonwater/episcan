@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 36
-- **Last harvest:** 2024-03-13 07:05
-- **Most recent article:** 2024-03-12 07:02:00
+- **New articles in last harvest:** 34
+- **Last harvest:** 2024-03-13 19:05
+- **Most recent article:** 2024-03-12 19:00:38
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 49 | 173 | 216 | 191 | 188 | 207 | 1216 |
-| measles | 86 | 29 | 47 | 68 | 45 | 100 | 80 | 455 |
-| malaria | 15 | 8 | 24 | 35 | 19 | 33 | 17 | 151 |
-| zika | 16 | 6 | 8 | 13 | 6 | 13 | 11 | 73 |
-| chikungunya | 8 | 4 | 10 | 12 | 8 | 14 | 16 | 72 |
-| meningitis | 16 | 2 | 3 | 8 | 8 | 7 | 4 | 48 |
-| rabies | 6 | 1 | 7 | 7 | 9 | 5 | 8 | 43 |
+| dengue | 192 | 61 | 168 | 216 | 191 | 188 | 207 | 1223 |
+| measles | 86 | 42 | 45 | 68 | 45 | 100 | 80 | 466 |
+| malaria | 15 | 9 | 24 | 35 | 19 | 33 | 17 | 152 |
+| zika | 16 | 9 | 8 | 13 | 6 | 13 | 11 | 76 |
+| chikungunya | 8 | 6 | 10 | 12 | 8 | 14 | 16 | 74 |
+| meningitis | 16 | 3 | 3 | 8 | 8 | 7 | 4 | 49 |
+| rabies | 6 | 3 | 7 | 7 | 9 | 5 | 8 | 45 |
 | sarampión | 3 | 1 | 6 | 5 | 4 | 11 | 5 | 35 |
 | mpox | 5 | 1 | 3 | 5 | 8 | 6 | 1 | 29 |
-| pertussis | 4 | 0 | 3 | 2 | 6 | 0 | 4 | 19 |
+| pertussis | 4 | 1 | 3 | 2 | 6 | 0 | 4 | 20 |
 | typhoid | 0 | 0 | 2 | 1 | 2 | 2 | 1 | 8 |
 | yersinia | 1 | 1 | 0 | 1 | 2 | 1 | 1 | 7 |
 | leptospirosis | 0 | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
@@ -3146,10 +3146,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
 
-- [HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK](https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/) (TheJournal.ie)
-
-- [Multi-language measles campaign launched](https://www.bbc.co.uk/news/articles/cglmrrnm5d9o) (BBC News)
-
 ## 24-5 (malaria)
 
 - [Una vacuna de bajo coste previene los síntomas de la malaria en un 75 % de los casos](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/03/vacuna-bajo-coste-previene-sintomas-malaria-75-casos/0003_202402G3P32991.htm) (Lavozdegalicia.es)
@@ -3542,16 +3538,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
 
-- [Ministério da Saúde divulga lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
-
-- [Casos de dengue sobem 26% no Estado de SP e secretaria já confirma quatro mortes no ano](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html) (Terra.com.br)
-
-- [Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue](https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html) (Viomundo.com.br)
-
-- [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
-
-- [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
-
 ## 24-5 (chikungunya)
 
 - [Em São Paulo, número de casos de chikungunya sobe 830% em 2024](https://saude.ig.com.br/2024-02-03/aumento-de-casos-de-chikungunya-em-sao-paulo.html) (Ig.com.br)
@@ -3576,6 +3562,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (zika)
 
+- [En un giro médico, el virus Zika podría convertirse en un arma contra el cáncer cerebral](https://es.gizmodo.com/tratamiento-de-tumores-de-cancer-cerebral-por-el-virus-1851328632) (Gizmodo.com)
+
+- [In a Medical Twist, Zika Virus Could Become a Weapon Against Brain Cancer](https://gizmodo.com/zika-virus-brain-cancer-tumors-treatment-1851326565) (Gizmodo.com)
+
+- [Jovem de 26 anos tem morte por dengue confirmada em Espírito Santo do Pinhal](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/12/jovem-de-26-anos-tem-morte-por-dengue-confirmada-em-espirito-santo-do-pinhal.ghtml) (Globo)
+
 - [Entenda por que cães e gatos não pegam dengue, mas podem ser contaminados pelo Aedes aegypti](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/11/entenda-por-que-caes-e-gatos-nao-pegam-dengue-mas-podem-ser-contaminados-pelo-aedes-aegypti.ghtml) (Globo)
 
 - [Mala noticia: descubren que el Aedes aegypti se adapta a temperaturas locales](https://www.montevideo.com.uy/Salud/Mala-noticia-descubren-que-el-Aedes-aegypti-se-adapta-a-temperaturas-locales-uc882217) (Montevideo.com.uy)
@@ -3598,7 +3590,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (rabies)
 
+- [Man, dog attacked by bobcats with rabies in New Mexico](https://www.krqe.com/health/rabid-bobcats-detected-in-two-new-mexico-counties/) (KRQE News 13)
+
+- [Couple sent to prosecutors after unvaccinated dog injures 7](https://japantoday.com/category/crime/couple-sent-to-prosecutors-after-unvaccinated-dog-injures-7-in-japan) (Japan Today)
+
 - [The Mad Stone, a Sure-Fire Cure for Rabies](https://www.neatorama.com/2024/03/11/The-Mad-Stone-a-Sure-Fire-Cure-for-Rabies/) (Neatorama.com)
+
+## 24-11 (pertussis)
+
+- [How Moms Prevent Whooping Cough (Pertussis)](https://www.webmd.com/children/vaccines/features/how-proactive-moms-prevent-whooping-cough-pertussis) (WebMD)
 
 ## 24-11 (mpox)
 
@@ -3606,11 +3606,39 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (meningitis)
 
+- [Infektionskrankheit: Selten, aber gefährlich: Was Eltern über Meningokokken wissen müssen](https://www.stern.de/panorama/wissen/meningokokken--was-eltern-ueber-die-infektionskrankheit-wissen-muessen-34523946.html) (STERN.de)
+
 - [Nigeria: Over 500 Recover From Meningitis Outbreak in Yobe](https://allafrica.com/stories/202403110296.html) (AllAfrica - Top Africa News)
 
 - [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
 
 ## 24-11 (measles)
+
+- [CDC Helping Chicago as Measles Cases Rise at Illegal Immigrant Shelter](https://legalinsurrection.com/2024/03/cdc-helping-chicago-as-measles-cases-rise-at-illegal-immigrant-shelter/) (Legalinsurrection.com)
+
+- [HSE issues urgent appeal to passengers on Abu Dhabi flight following confirmed case of measles](https://www.irishtimes.com/health/2024/03/12/hse-issues-urgent-appeal-to-passengers-on-abu-dhabi-flight-following-confirmed-case-of-measles/) (The Irish Times)
+
+- [Hundreds of people possibly exposed to measles at California hospital, officials say](https://www.latimes.com/california/story/2024-03-12/hundreds-of-people-possibly-exposed-to-measles-at-california-hospital-officials-say) (Los Angeles Times)
+
+- [Urgent public health alert to passengers on Dublin-bound flight after person on board had measles](https://www.independent.ie/irish-news/urgent-public-health-alert-to-passengers-on-dublin-bound-flight-after-person-on-board-had-measles/a2119324315.html) (Independent.ie)
+
+- [HSE urgently calls on people who were on Dublin flight with measles case on board to come forward](https://www.thejournal.ie/measles-case-dublin-flight-6325124-Mar2024/) (TheJournal.ie)
+
+- [CDC sends response team to Chicago migrant shelter amid measles outbreak](https://www.foxnews.com/health/cdc-sends-response-team-chicago-migrant-shelter-measles-outbreak) (Fox News)
+
+- [300 people possibly exposed to measles at California hospital](https://www.livescience.com/health/viruses-infections-disease/300-people-possibly-exposed-to-measles-at-california-hospital) (Live Science)
+
+- [Measles: A Holistic Perspective](https://www.theepochtimes.com/health/measles-a-holistic-perspective-5602795) (Theepochtimes.com)
+
+- [300 People Potentially Exposed To Measles After Infected Child Visits US Hospital](https://dailycaller.com/2024/03/12/el-dorado-california-measles-outbreak/) (The Daily Caller)
+
+- [Tuesday, March 12, 2024](https://kffhealthnews.org/morning-briefing/tuesday-march-12-2024/) (Kffhealthnews.org)
+
+- [Measles outbreak Chicago: CDC team to assist response after several cases reported at Pilsen migrant shelter](https://abc7chicago.com/measles-outbreak-chicago-how-long-does-vaccine-last-symptoms-migrant-shelter/14516364/) (WLS-TV)
+
+- [Sheldon H. Jacobson and Dr. Janet A. Jokela: Measles is making a comeback. Should we be concerned?](http://www.chicagotribune.com/2024/03/12/opinion-measles-children-infections-chicago-risks/) (Chicago Tribune)
+
+- [Health ministry urges caution after measles outbreak](https://www.japantimes.co.jp/news/2024/03/12/japan/science-health/measles-tokyo-osaka/) (The Japan Times)
 
 - [Measles: CDC team to help Chicago officials with response to outbreak](https://www.cnn.com/2024/03/11/health/cdc-chicago-measles/index.html) (CNN)
 
@@ -3672,6 +3700,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (malaria)
 
+- [Cut-price malaria vaccine to begin Africa rollout from May](https://www.france24.com/en/video/20240312-cut-price-malaria-vaccine-to-begin-africa-rollout-from-may) (FRANCE 24 English)
+
 - [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/) (Wired)
 
 - [Fiorentina, Kouame si avvicina al rientro. Il punto dopo la malaria contratta in Coppa d'Africa](https://www.tuttomercatoweb.com/serie-a/fiorentina-kouame-si-avvicina-al-rientro-il-punto-dopo-la-malaria-contratta-in-coppa-d-africa-1945207) (Tuttomercatoweb.com)
@@ -3689,6 +3719,30 @@ Source: [News API](https://newsapi.org/)
 - [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/) (Marketscreener.com)
 
 ## 24-11 (dengue)
+
+- [Dengue: SP registra 60ª morte pela doença; outras 154 são investigadas](https://www.metropoles.com/sao-paulo/dengue-sp-registra-60-morte-doenca) (Metropoles.com)
+
+- [Anvisa avalia liberação de venda de autotestes para dengue](https://olhardigital.com.br/2024/03/12/medicina-e-saude/anvisa-avalia-liberacao-de-venda-de-autotestes-para-dengue/) (Olhardigital.com.br)
+
+- [Deputado propõe comissão para cobrar governo sobre o combate à dengue](https://veja.abril.com.br/coluna/radar/deputado-propoe-comissao-para-cobrar-governo-sobre-o-combate-a-dengue) (Abril.com.br)
+
+- [Saiba quem era Maria Eduarda Mendonça, ativista do DF vítima de dengue](https://www.metropoles.com/distrito-federal/saiba-quem-era-maria-eduarda-mendonca-ativista-do-df-vitima-de-dengue) (Metropoles.com)
+
+- [Dengue causa queda de cabelo? Saiba quais sequelas a doença pode provocar após período de infecção](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/12/dengue-causa-queda-de-cabelo-saiba-quais-sequelas-a-doenca-pode-provocar-apos-periodo-de-infeccao.ghtml) (Globo)
+
+- [Anápolis (GO) faz ação de vacinação contra dengue neste sábado (16/3)](https://www.metropoles.com/brasil/anapolis-go-faz-acao-de-vacinacao-contra-dengue-neste-sabado-16-3) (Metropoles.com)
+
+- [Morre, aos 31 anos, ativista Maria Eduarda Mendonça, vítima de dengue](https://www.metropoles.com/distrito-federal/morre-aos-31-anos-ativista-maria-eduarda-mendonca-vitima-de-dengue) (Metropoles.com)
+
+- [El mapa del dengue en la Argentina: en una semana, las cifras oficiales sumaron otros 21.145 casos confirmados y 10 decesos](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-en-la-argentina-en-una-semana-las-cifras-oficiales-sumaron-otros-21145-casos-nid12032024/) (La Nacion)
+
+- [Exclusivo: dengue vira pauta em briga judicial de Deolane e condomínio](https://www.metropoles.com/colunas/fabia-oliveira/exclusivo-dengue-vira-pauta-em-briga-judicial-de-deolane-e-condominio) (Metropoles.com)
+
+- [Febre oropouche: entenda o que é e se há risco de o Brasil enfrentar um surto da doença](https://www.bbc.com/portuguese/articles/cyjz74ewlrno) (BBC News)
+
+- [Le Brésil relâche des moustiques OGM porteurs d'un gène mortel dans la nature](https://www.futura-sciences.com/sante/actualites/moustique-bresil-relache-moustiques-ogm-porteurs-gene-mortel-nature-112049/) (Futura)
+
+- [Dengue: 7 dicas para proteger a casa contra os mosquitos](https://saude.ig.com.br/2024-03-12/dengue-7-dicas-proteger-casa-mosquitos.html) (Ig.com.br)
 
 - [Sobe para 58 o número de mortes por dengue em SP](https://recordtv.r7.com/balanco-geral-manha/videos/sobe-para-58-o-numero-de-mortes-por-dengue-em-sp-12032024) (R7.com)
 
@@ -3789,6 +3843,10 @@ Source: [News API](https://newsapi.org/)
 - [Discovery reexibe documentário especial abordando doenças transmitidas por mosquitos](https://www.ouniversodatv.com/2024/03/discovery-reexibe-documentario-especial.html) (Ouniversodatv.com)
 
 ## 24-11 (chikungunya)
+
+- [Secretaria de Saúde apresenta ações para enfrentar surto de arboviroses em MG](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/secretaria-de-saude-apresenta-acoes-para-enfrentar-surto-de-arboviroses-em-mg-12032024) (R7.com)
+
+- [Jovem de 26 anos tem morte por dengue confirmada em Espírito Santo do Pinhal](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/12/jovem-de-26-anos-tem-morte-por-dengue-confirmada-em-espirito-santo-do-pinhal.ghtml) (Globo)
 
 - [Entenda por que cães e gatos não pegam dengue, mas podem ser contaminados pelo Aedes aegypti](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/11/entenda-por-que-caes-e-gatos-nao-pegam-dengue-mas-podem-ser-contaminados-pelo-aedes-aegypti.ghtml) (Globo)
 
