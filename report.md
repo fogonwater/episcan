@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-03-12 19:05
-- **Most recent article:** 2024-03-11 18:51:49
+- **New articles in last harvest:** 36
+- **Last harvest:** 2024-03-13 07:05
+- **Most recent article:** 2024-03-12 07:02:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 28 | 168 | 216 | 191 | 188 | 207 | 1190 |
-| measles | 86 | 17 | 45 | 68 | 45 | 100 | 80 | 441 |
-| malaria | 15 | 6 | 24 | 35 | 19 | 33 | 17 | 149 |
-| zika | 16 | 5 | 8 | 13 | 6 | 13 | 11 | 72 |
-| chikungunya | 8 | 2 | 10 | 12 | 8 | 14 | 16 | 70 |
+| dengue | 192 | 49 | 173 | 216 | 191 | 188 | 207 | 1216 |
+| measles | 86 | 29 | 47 | 68 | 45 | 100 | 80 | 455 |
+| malaria | 15 | 8 | 24 | 35 | 19 | 33 | 17 | 151 |
+| zika | 16 | 6 | 8 | 13 | 6 | 13 | 11 | 73 |
+| chikungunya | 8 | 4 | 10 | 12 | 8 | 14 | 16 | 72 |
 | meningitis | 16 | 2 | 3 | 8 | 8 | 7 | 4 | 48 |
 | rabies | 6 | 1 | 7 | 7 | 9 | 5 | 8 | 43 |
-| sarampión | 3 | 0 | 6 | 5 | 4 | 11 | 5 | 34 |
+| sarampión | 3 | 1 | 6 | 5 | 4 | 11 | 5 | 35 |
 | mpox | 5 | 1 | 3 | 5 | 8 | 6 | 1 | 29 |
 | pertussis | 4 | 0 | 3 | 2 | 6 | 0 | 4 | 19 |
 | typhoid | 0 | 0 | 2 | 1 | 2 | 2 | 1 | 8 |
@@ -3146,6 +3146,10 @@ Source: [News API](https://newsapi.org/)
 
 - [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
 
+- [HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK](https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/) (TheJournal.ie)
+
+- [Multi-language measles campaign launched](https://www.bbc.co.uk/news/articles/cglmrrnm5d9o) (BBC News)
+
 ## 24-5 (malaria)
 
 - [Una vacuna de bajo coste previene los síntomas de la malaria en un 75 % de los casos](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/03/vacuna-bajo-coste-previene-sintomas-malaria-75-casos/0003_202402G3P32991.htm) (Lavozdegalicia.es)
@@ -3538,6 +3542,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
 
+- [Ministério da Saúde divulga lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
+
+- [Casos de dengue sobem 26% no Estado de SP e secretaria já confirma quatro mortes no ano](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html) (Terra.com.br)
+
+- [Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue](https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html) (Viomundo.com.br)
+
+- [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
+
+- [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
+
 ## 24-5 (chikungunya)
 
 - [Em São Paulo, número de casos de chikungunya sobe 830% em 2024](https://saude.ig.com.br/2024-02-03/aumento-de-casos-de-chikungunya-em-sao-paulo.html) (Ig.com.br)
@@ -3562,6 +3576,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (zika)
 
+- [Entenda por que cães e gatos não pegam dengue, mas podem ser contaminados pelo Aedes aegypti](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/11/entenda-por-que-caes-e-gatos-nao-pegam-dengue-mas-podem-ser-contaminados-pelo-aedes-aegypti.ghtml) (Globo)
+
 - [Mala noticia: descubren que el Aedes aegypti se adapta a temperaturas locales](https://www.montevideo.com.uy/Salud/Mala-noticia-descubren-que-el-Aedes-aegypti-se-adapta-a-temperaturas-locales-uc882217) (Montevideo.com.uy)
 
 - [Can the Zika vaccine fight brain cancer?](https://www.futurity.org/zika-vaccine-brain-cancer-3191172/) (Futurity: Research News)
@@ -3575,6 +3591,10 @@ Source: [News API](https://newsapi.org/)
 ## 24-11 (yersinia)
 
 - [Döbbenetes titkot rejt a valaha látott legnagyobb tömeges temetkezési hely](https://www.origo.hu/tudomany/2024/03/temetkezesi-hely-titkot-rejt-a-valaha-latott-legnagyobb-tomeges) (Origo.hu)
+
+## 24-11 (sarampión)
+
+- [Un hospital de California busca a 300 personas que podrían haber estado expuestas a una contagiosa enfermedad](https://www.lanacion.com.ar/estados-unidos/california/un-hospital-de-california-busca-a-300-personas-que-podrian-haber-estado-expuestas-a-una-contagiosa-nid11032024/) (La Nacion)
 
 ## 24-11 (rabies)
 
@@ -3591,6 +3611,30 @@ Source: [News API](https://newsapi.org/)
 - [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
 
 ## 24-11 (measles)
+
+- [Measles: CDC team to help Chicago officials with response to outbreak](https://www.cnn.com/2024/03/11/health/cdc-chicago-measles/index.html) (CNN)
+
+- [Cook County reports two measles cases linked to illnesses in Chicago](http://www.chicagotribune.com/2024/03/11/cook-county-measles/) (Chicago Tribune)
+
+- [Measles exposure alert issued by Cook County Health following confirmed cases in Chicago](https://www.fox32chicago.com/news/chicago-measles-exposure-cook-county-health) (FOX 32 Chicago)
+
+- [Cook County Health warns of possible measles exposures at these 3 locations](https://wgntv.com/news/cook-county/cook-county-health-warns-of-possible-measles-exposures-at-these-3-locations/) (WGN TV Chicago)
+
+- [Measles case confirmed in Flagstaff](https://www.12news.com/article/news/health/measles-case-confirmed-in-flagstaff-officials-say/75-eab67b5d-9d65-4d36-9629-e30a1dbea445) (12news.com KPNX)
+
+- [Tennessee, Georgia among influx of measles cases, raising concerns for health experts](https://newschannel9.com/news/local/tennessee-georgia-among-influx-of-measles-cases-raising-concerns-for-health-experts) (WTVC)
+
+- [Chicago measles outbreak grows after more cases diagnosed in a migrant shelter](https://www.nbcnews.com/health/health-news/chicago-measles-cases-migrant-shelter-rcna142801) (NBC News)
+
+- [Young adults who didn't get the MMR jab invited to get vaccinated as measles cases rise](https://news.sky.com/story/more-than-900-000-young-people-invited-to-get-mmr-jab-as-measles-cases-rise-13092956) (Sky.com)
+
+- [Measles outbreak top concern for health minister Shane Reti as he refocuses on Māori health](https://www.nzherald.co.nz/northern-advocate/news/measles-outbreak-top-concern-for-health-minister-as-he-refocuses-on-maori-health/HN3EPZKKTFHYVDUGNZILK6AYDM/) (New Zealand Herald)
+
+- [CDPH reports second measles case at Pilsen migrant shelter](http://www.nbcchicago.com/news/health/health-wellness-science-news/two-more-measles-cases-confirmed-in-chicago-officials-announce/3379580/) (NBC Chicago)
+
+- [Mayor Brandon Johnson attributes recent measles cases at migrant shelter to vaccine hesitancy](http://www.chicagotribune.com/2024/03/11/mayor-brandon-johnson-attributes-recent-measles-cases-at-migrant-shelter-to-vaccine-hesitancy/) (Chicago Tribune)
+
+- [CDC helping Chicago officials respond to city's 1st measles cases since 2019](https://abcnews.go.com/Health/cdc-helping-chicago-officials-respond-citys-1st-measles/story?id=108003821) (ABC News)
 
 - [Second Child Diagnosed With Measles at Chicago Illegal Immigrant Shelter](https://legalinsurrection.com/2024/03/second-child-diagnosed-with-measles-at-chicago-illegal-immigrant-shelter/) (Legalinsurrection.com)
 
@@ -3628,6 +3672,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (malaria)
 
+- [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/) (Wired)
+
+- [Fiorentina, Kouame si avvicina al rientro. Il punto dopo la malaria contratta in Coppa d'Africa](https://www.tuttomercatoweb.com/serie-a/fiorentina-kouame-si-avvicina-al-rientro-il-punto-dopo-la-malaria-contratta-in-coppa-d-africa-1945207) (Tuttomercatoweb.com)
+
 - [El Museo Nacional de Ciencias Naturales inaugura la exposición 'Misión Malaria: una mirada histórica'](https://www.infosalus.com/salud-investigacion/noticia-museo-nacional-ciencias-naturales-inaugura-exposicion-mision-malaria-mirada-historica-20240311143354.html) (Infosalus.com)
 
 - [Why the Credit Card Competition Act Won’t Lower Merchant Interchange Fees](https://www.pymnts.com/credit-cards/2024/why-the-credit-card-competition-act-wont-lower-merchant-interchange-fees/) (pymnts.com)
@@ -3642,6 +3690,40 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (dengue)
 
+- [Sobe para 58 o número de mortes por dengue em SP](https://recordtv.r7.com/balanco-geral-manha/videos/sobe-para-58-o-numero-de-mortes-por-dengue-em-sp-12032024) (R7.com)
+
+- [Brasil tem 391 mortes por dengue](https://valor.globo.com/brasil/noticia/2024/03/11/brasil-tem-391-mortes-por-dengue.ghtml) (Globo)
+
+- [Região chega a 4 mortes por dengue após óbito em Santo Antônio de Posse, diz estado](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/11/regiao-chega-a-4-mortes-por-dengue-apos-obito-em-santo-antonio-de-posse-diz-estado.ghtml) (Globo)
+
+- [Brasil já tem 391 mortes por dengue em 2024, diz Ministério da Saúde](https://www.metropoles.com/brasil/brasil-ja-tem-391-mortes-por-dengue-em-2024-diz-ministerio-da-saude) (Metropoles.com)
+
+- [Vacina contra covid em crianças reduz mortes, mas cobertura segue baixa no país](https://valor.globo.com/brasil/noticia/2024/03/11/vacina-contra-covid-em-criancas-reduz-mortes-mas-cobertura-segue-baixa.ghtml) (Globo)
+
+- [Epidemia: DF ultrapassa a marca de 100 mortes por dengue em 2024](https://www.metropoles.com/distrito-federal/epidemia-df-ultrapassa-a-marca-de-100-mortes-por-dengue-em-2024) (Metropoles.com)
+
+- [Anvisa estuda liberar venda de autoteste para detectar dengue](https://noticias.r7.com/saude/anvisa-estuda-liberar-venda-de-autoteste-para-detectar-dengue-11032024) (R7.com)
+
+- [Especialistas alertam que dedetização não é o combate mais eficaz contra o mosquito da dengue](https://noticias.r7.com/jr-na-tv/videos/especialistas-alertam-que-dedetizacao-nao-e-o-combate-mais-eficaz-contra-o-mosquito-da-dengue-11032024) (R7.com)
+
+- [Explosão de casos espalha epidemia de dengue em bairros da zona norte](https://www.metropoles.com/sao-paulo/explosao-de-casos-espalha-epidemia-de-dengue-em-bairros-da-zona-norte) (Metropoles.com)
+
+- [Entenda por que cães e gatos não pegam dengue, mas podem ser contaminados pelo Aedes aegypti](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/11/entenda-por-que-caes-e-gatos-nao-pegam-dengue-mas-podem-ser-contaminados-pelo-aedes-aegypti.ghtml) (Globo)
+
+- [Praia Grande decreta situação de emergência em saúde pública](https://recordtv.r7.com/record-tv-litoral-e-vale/sp-record/videos/praia-grande-decreta-situacao-de-emergencia-em-saude-publica-11032024) (R7.com)
+
+- [Número de mortes por chikungunya sobe para 20 em Minas Gerais](https://noticias.r7.com/minas-gerais/mg-record/videos/numero-de-mortes-por-chikungunya-sobe-para-20-em-minas-gerais-11032024) (R7.com)
+
+- [Secretário de Saúde de Belo Horizonte fala sobre desempenho da vacinação contra a dengue em BH](https://noticias.r7.com/minas-gerais/mg-record/videos/secretario-de-saude-de-belo-horizonte-fala-sobre-desempenho-da-vacinacao-contra-a-dengue-em-bh-11032024) (R7.com)
+
+- [Brasil registra 28 mortes causadas por dengue durante o fim de semana](https://noticias.r7.com/saude/brasil-registra-28-mortes-causadas-por-dengue-durante-o-fim-de-semana-11032024) (R7.com)
+
+- [Rede privada completa um mês sem estoque de vacina contra dengue no DF](https://www.metropoles.com/distrito-federal/rede-privada-completa-um-mes-sem-estoque-de-vacina-contra-dengue-no-df) (Metropoles.com)
+
+- [Dengue: SP registra 58 óbitos e 189 mil casos da doença](https://saude.ig.com.br/2024-03-11/sp-registra-58-mortes-dengue.html) (Ig.com.br)
+
+- [Dengue: la alarmante crisis de dengue que sufre Brasil es una advertencia para el mundo entero](https://www.lanacion.com.ar/sociedad/dengue-la-alarmante-crisis-de-dengue-que-sufre-brasil-es-una-advertencia-para-el-mundo-entero-nid11032024/) (La Nacion)
+
 - [Dengue: continente americano acumula quase 1,9 milhão de casos, a maioria no Brasil](https://sputniknewsbr.com.br/20240311/dengue-continente-americano-acumula-quase-19-milhao-de-casos-a-maioria-no-brasil-33503548.html) (Sputniknewsbr.com.br)
 
 - [Mala noticia: descubren que el Aedes aegypti se adapta a temperaturas locales](https://www.montevideo.com.uy/Salud/Mala-noticia-descubren-que-el-Aedes-aegypti-se-adapta-a-temperaturas-locales-uc882217) (Montevideo.com.uy)
@@ -3652,7 +3734,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: com 8 mortes, capital se torna a cidade de SP com mais vítimas](https://www.metropoles.com/sao-paulo/dengue-8-mortes-capital-torna-cidade-sp-mais-vitimas) (Metropoles.com)
 
+- [Pacientes esperam por horas em Unidades de Pronto Atendimento de BH](https://noticias.r7.com/minas-gerais/mg-no-ar/videos/pacientes-esperam-por-horas-em-unidades-de-pronto-atendimento-de-bh-11032024) (R7.com)
+
 - [Ministério da Saúde limita emendas parlamentares no combate à dengue](https://www.metropoles.com/colunas/guilherme-amado/ministerio-da-saude-limita-emendas-parlamentares-no-combate-a-dengue) (Metropoles.com)
+
+- [Número de mortes por dengue chega a 51 no estado de SP](https://recordtv.r7.com/balanco-geral-manha/videos/numero-de-mortes-por-dengue-chega-a-51-no-estado-de-sp-11032024) (R7.com)
 
 - [Pourquoi le Brésil libère-t-il des moustiques génétiquement modifiés, porteurs d'un gène mortel ?](https://www.techno-science.net/actualite/pourquoi-bresil-libere-il-moustiques-genetiquement-modifies-porteurs-gene-mortel-N24609.html) (Techno-science.net)
 
@@ -3680,6 +3766,8 @@ Source: [News API](https://newsapi.org/)
 
 - [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/) (Marketscreener.com)
 
+- [Repelente: saiba os cuidados para utilizar com segurança](https://www.terra.com.br/vida-e-estilo/repelente-saiba-os-cuidados-para-utilizar-com-seguranca,3f77f14b7787afaf0a5d71eaecb724d1fof5nn19.html) (Terra.com.br)
+
 - [Em um mês, casos de dengue dobram em São Paulo](https://jornaldebrasilia.com.br/noticias/brasil/em-um-mes-casos-de-dengue-dobram-em-sao-paulo/) (Jornaldebrasilia.com.br)
 
 - [Minas Gerais responde por um em cada três casos de dengue no país](https://saude.ig.com.br/2024-03-10/engue-casos-minas-gerais-brasil.html) (Ig.com.br)
@@ -3698,7 +3786,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Una bacteria y un virus que secuestran el esperma de los mosquitos, promesa contra el zika y el dengue](https://www.abc.es/ciencia/bacteria-virus-secuestran-esperma-mosquitos-promesa-zika-20240307155822-nt.html) (Www.abc.es)
 
+- [Discovery reexibe documentário especial abordando doenças transmitidas por mosquitos](https://www.ouniversodatv.com/2024/03/discovery-reexibe-documentario-especial.html) (Ouniversodatv.com)
+
 ## 24-11 (chikungunya)
+
+- [Entenda por que cães e gatos não pegam dengue, mas podem ser contaminados pelo Aedes aegypti](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/11/entenda-por-que-caes-e-gatos-nao-pegam-dengue-mas-podem-ser-contaminados-pelo-aedes-aegypti.ghtml) (Globo)
+
+- [Número de mortes por chikungunya sobe para 20 em Minas Gerais](https://noticias.r7.com/minas-gerais/mg-record/videos/numero-de-mortes-por-chikungunya-sobe-para-20-em-minas-gerais-11032024) (R7.com)
 
 - [Crise climática potencializa casos de dengue no Brasil](https://www.metropoles.com/brasil/crise-climatica-dengue-brasil) (Metropoles.com)
 
