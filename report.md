@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 34
-- **Last harvest:** 2024-03-13 19:05
-- **Most recent article:** 2024-03-12 19:00:38
+- **New articles in last harvest:** 22
+- **Last harvest:** 2024-03-14 07:05
+- **Most recent article:** 2024-03-13 05:45:39
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 61 | 168 | 216 | 191 | 188 | 207 | 1223 |
-| measles | 86 | 42 | 45 | 68 | 45 | 100 | 80 | 466 |
+| dengue | 192 | 75 | 173 | 216 | 191 | 188 | 207 | 1242 |
+| measles | 86 | 50 | 47 | 68 | 45 | 100 | 80 | 476 |
 | malaria | 15 | 9 | 24 | 35 | 19 | 33 | 17 | 152 |
 | zika | 16 | 9 | 8 | 13 | 6 | 13 | 11 | 76 |
 | chikungunya | 8 | 6 | 10 | 12 | 8 | 14 | 16 | 74 |
 | meningitis | 16 | 3 | 3 | 8 | 8 | 7 | 4 | 49 |
-| rabies | 6 | 3 | 7 | 7 | 9 | 5 | 8 | 45 |
+| rabies | 6 | 4 | 7 | 7 | 9 | 5 | 8 | 46 |
 | sarampión | 3 | 1 | 6 | 5 | 4 | 11 | 5 | 35 |
 | mpox | 5 | 1 | 3 | 5 | 8 | 6 | 1 | 29 |
 | pertussis | 4 | 1 | 3 | 2 | 6 | 0 | 4 | 20 |
@@ -3146,6 +3146,10 @@ Source: [News API](https://newsapi.org/)
 
 - [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
 
+- [HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK](https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/) (TheJournal.ie)
+
+- [Multi-language measles campaign launched](https://www.bbc.co.uk/news/articles/cglmrrnm5d9o) (BBC News)
+
 ## 24-5 (malaria)
 
 - [Una vacuna de bajo coste previene los síntomas de la malaria en un 75 % de los casos](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/03/vacuna-bajo-coste-previene-sintomas-malaria-75-casos/0003_202402G3P32991.htm) (Lavozdegalicia.es)
@@ -3538,6 +3542,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
 
+- [Ministério da Saúde divulga lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
+
+- [Casos de dengue sobem 26% no Estado de SP e secretaria já confirma quatro mortes no ano](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html) (Terra.com.br)
+
+- [Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue](https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html) (Viomundo.com.br)
+
+- [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
+
+- [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
+
 ## 24-5 (chikungunya)
 
 - [Em São Paulo, número de casos de chikungunya sobe 830% em 2024](https://saude.ig.com.br/2024-02-03/aumento-de-casos-de-chikungunya-em-sao-paulo.html) (Ig.com.br)
@@ -3590,6 +3604,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (rabies)
 
+- [Surge in dog attack cases in Roorkee, doctors witness 60-70 daily](https://timesofindia.indiatimes.com/city/dehradun/surge-in-dog-attack-cases-in-roorkee-doctors-witness-60-70-daily/articleshow/108450114.cms) (The Times of India)
+
 - [Man, dog attacked by bobcats with rabies in New Mexico](https://www.krqe.com/health/rabid-bobcats-detected-in-two-new-mexico-counties/) (KRQE News 13)
 
 - [Couple sent to prosecutors after unvaccinated dog injures 7](https://japantoday.com/category/crime/couple-sent-to-prosecutors-after-unvaccinated-dog-injures-7-in-japan) (Japan Today)
@@ -3613,6 +3629,22 @@ Source: [News API](https://newsapi.org/)
 - [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
 
 ## 24-11 (measles)
+
+- [Migrants bring the measles to Chicago](https://www.americanthinker.com/blog/2024/03/migrants_bring_the_measles_to_chicago.html) (Americanthinker.com)
+
+- [Passengers left at risk of measles for more than eight hours on flight to Dublin](https://www.independent.ie/irish-news/passengers-left-at-risk-of-measles-for-more-than-eight-hours-on-flight-to-dublin/a1265465431.html) (Independent.ie)
+
+- [Aldermen brought in to help with shelter measles outbreak](http://www.chicagotribune.com/2024/03/12/aldermen-shelter-measles-outbreak/) (Chicago Tribune)
+
+- [More Than 1 Million Young Brits Urged To Get Measles Vaccine](https://www.forbes.com/sites/katherinehignett/2024/03/12/more-than-1-million-young-brits-urged-to-get-measles-vaccine/) (Forbes)
+
+- [Tokyo Reports New Measles Case](https://newsonjapan.com/article/141163.php) (Newsonjapan.com)
+
+- [CDC dispatches team to Chicago as measles cases prompt concerns](https://www.fox32chicago.com/news/cdc-dispatches-team-to-chicago-as-measles-cases-prompt-concerns) (FOX 32 Chicago)
+
+- [Chicago battles measles with calls for vaccination—in contrast with Florida](https://arstechnica.com/science/2024/03/chicago-battles-measles-with-calls-for-vaccination-in-contrast-with-florida/) (Ars Technica)
+
+- [The Return of Measles](https://www.theatlantic.com/health/archive/2024/03/measles-outbreak-america-politics/677735/?utm_source=feed) (The Atlantic)
 
 - [CDC Helping Chicago as Measles Cases Rise at Illegal Immigrant Shelter](https://legalinsurrection.com/2024/03/cdc-helping-chicago-as-measles-cases-rise-at-illegal-immigrant-shelter/) (Legalinsurrection.com)
 
@@ -3720,6 +3752,30 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (dengue)
 
+- [Dengue: DF tem 65 óbitos de pacientes 60+; não há vacina para o grupo](https://www.metropoles.com/distrito-federal/dengue-df-tem-65-obitos-de-pacientes-60-nao-ha-vacina-para-o-grupo) (Metropoles.com)
+
+- [Apenas 1 região do DF registra baixa incidência de dengue. Saiba qual](https://www.metropoles.com/distrito-federal/apenas-1-regiao-do-df-registra-baixa-incidencia-de-dengue-saiba-qual) (Metropoles.com)
+
+- [Dengue grave: saiba quais são os sinais de piora do quadro](https://www.metropoles.com/saude/dengue-grave-sinais-piora-quadro) (Metropoles.com)
+
+- [Exploring community behaviours and stakeholder challenges in engaging communities with dengue prevention behaviour in Malaysia: implementation research for a qualitative study with a community-based participatory research design](https://bmjopen.bmj.com/content/14/3/e074222) (The BMJ)
+
+- [Vacina contra dengue é segura, apesar de reações alérgicas, dizem especialistas](https://valor.globo.com/brasil/noticia/2024/03/12/vacina-contra-dengue-e-segura-apesar-de-reacoes-alergicas-dizem-especialistas.ghtml) (Globo)
+
+- [Ricardo Nunes fala sobre ações de combate à dengue na capital paulista](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/ricardo-nunes-fala-sobre-acoes-de-combate-a-dengue-na-capital-paulista-13032024) (R7.com)
+
+- [Decretado situação de emergência no RS por causa da dengue](https://www.terra.com.br/noticias/decretado-situacao-de-emergencia-no-rs-por-causa-da-dengue,d873e0152262786d925100924e988ba0242cn3yw.html) (Terra.com.br)
+
+- [A armadilha de mosquito usada por cidade de SP para controlar dengue](https://www.bbc.com/portuguese/articles/cev9245rlygo) (BBC News)
+
+- [Após Exército e FAB, Marinha também entra no combate à dengue no DF](https://www.metropoles.com/distrito-federal/apos-exercito-e-fab-marinha-tambem-entra-no-combate-a-dengue-no-df) (Metropoles.com)
+
+- [Brasil com mais de 1,5 milhões de casos prováveis de dengue](https://observador.pt/2024/03/12/brasil-com-mais-de-15-milhoes-de-casos-provaveis-de-dengue/) (Observador.pt)
+
+- [Dengue: Saiba quais estados decretaram emergência](https://saude.ig.com.br/2024-03-12/estados-com-decreto-de-emergencia-dengue.html) (Ig.com.br)
+
+- [Pesquisadores alertam contra a introdução de peixes nativos e exóticos para contenção da dengue](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/03/12/pesquisadores-alertam-contra-a-introducao-de-peixes-nativos-e-exoticos-para-contencao-da-dengue.ghtml) (Globo)
+
 - [Dengue: SP registra 60ª morte pela doença; outras 154 são investigadas](https://www.metropoles.com/sao-paulo/dengue-sp-registra-60-morte-doenca) (Metropoles.com)
 
 - [Anvisa avalia liberação de venda de autotestes para dengue](https://olhardigital.com.br/2024/03/12/medicina-e-saude/anvisa-avalia-liberacao-de-venda-de-autotestes-para-dengue/) (Olhardigital.com.br)
@@ -3730,11 +3786,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue causa queda de cabelo? Saiba quais sequelas a doença pode provocar após período de infecção](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/12/dengue-causa-queda-de-cabelo-saiba-quais-sequelas-a-doenca-pode-provocar-apos-periodo-de-infeccao.ghtml) (Globo)
 
+- [Jovem de 26 anos tem morte por dengue confirmada em Espírito Santo do Pinhal](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/12/jovem-de-26-anos-tem-morte-por-dengue-confirmada-em-espirito-santo-do-pinhal.ghtml) (Globo)
+
 - [Anápolis (GO) faz ação de vacinação contra dengue neste sábado (16/3)](https://www.metropoles.com/brasil/anapolis-go-faz-acao-de-vacinacao-contra-dengue-neste-sabado-16-3) (Metropoles.com)
 
 - [Morre, aos 31 anos, ativista Maria Eduarda Mendonça, vítima de dengue](https://www.metropoles.com/distrito-federal/morre-aos-31-anos-ativista-maria-eduarda-mendonca-vitima-de-dengue) (Metropoles.com)
 
 - [El mapa del dengue en la Argentina: en una semana, las cifras oficiales sumaron otros 21.145 casos confirmados y 10 decesos](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-en-la-argentina-en-una-semana-las-cifras-oficiales-sumaron-otros-21145-casos-nid12032024/) (La Nacion)
+
+- [Brasil passa de 1,3 milhão de casos prováveis de dengue](https://noticias.r7.com/record-news/videos/brasil-passa-de-13-milhao-de-casos-provaveis-de-dengue-12032024) (R7.com)
 
 - [Exclusivo: dengue vira pauta em briga judicial de Deolane e condomínio](https://www.metropoles.com/colunas/fabia-oliveira/exclusivo-dengue-vira-pauta-em-briga-judicial-de-deolane-e-condominio) (Metropoles.com)
 
