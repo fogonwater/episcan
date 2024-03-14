@@ -1,8 +1,679 @@
 {
-  "last_updated": "2024-03-14 07:05",
-  "count_articles_total": 2125,
-  "count_articles_new": 22,
+  "last_updated": "2024-03-14 19:05",
+  "count_articles_total": 2155,
+  "count_articles_new": 37,
   "articles": [
+    {
+      "id": 6859,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Muiris O'Cearbhaill",
+      "title": "One more confirmed case of measles recorded in Ireland this week",
+      "description": "In total there have been five probable cases recorded by the HPSC this year.",
+      "url": "https://www.thejournal.ie/one-more-confirmed-case-of-measles-recorded-in-ireland-6326488-Mar2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6326488/river/?height=400&version=6326498",
+      "publishedAt": "2024-03-13 18:44:31",
+      "content": "ONE MORE CASE of measles was confirmed this week by the Health Protection and Surveillance Centre (HSPC), bringing the total number of confirmed cases so far this year cases to two. The confirmation\u2026 [+2765 chars]",
+      "retrievedAt": "2024-03-14 19:05:24.393971",
+      "internal_id": "020f6fdcfa4415d5aadfcc2785178a1be9ac4bd0b10955c7849dc2fb7a8b05e3",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6872,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Dengue: S\u00e3o Paulo ultrapassa os 200 mil casos e chega a 62 mortes",
+      "description": "Estado de S\u00e3o Paulo chegou a 205.593 casos de dengue e 62 mortes pela doen\u00e7a no ano; h\u00e1 uma semana, governo decretou emerg\u00eancia",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-sp-200-mil-casos-62-mortes",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/05092934/dengue-em-todo-o-estado-de-SP0.jpg",
+      "publishedAt": "2024-03-13 18:10:58",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2696 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.378966",
+      "internal_id": "2650fa54a8262672cb37cdb8903d102ca79c5f1c71ef4e7d248b6743e0b3ffcd",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6854,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Maclean's",
+      "author": "Jadine Ngan",
+      "title": "What comes next for Canada\u2019s measles surge",
+      "description": "Immunologist Dawn Bowdish tells us why measles cases are soaring, who\u2019s at risk and how we can still stamp it out The post What comes next for Canada\u2019s measles surge appeared first on Macleans.ca.",
+      "url": "https://macleans.ca/society/health/measles-cases-vaccines-canada/",
+      "urlToImage": "https://macleans.ca/wp-content/uploads/2024/03/Measles-Image-WEB-750x422.jpg",
+      "publishedAt": "2024-03-13 18:04:32",
+      "content": "Immunologist Dawn Bowdish tells us why measles cases are soaring, whos at risk and how we can still stamp it out(Photo illustration by Maclean\u2019s, background photo via iStock) If there was an award f\u2026 [+11290 chars]",
+      "retrievedAt": "2024-03-14 19:05:24.334833",
+      "internal_id": "43b9a0c19395487eefa19e168efe379f74771f89c3a9b19062cf1029cda88ffc",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6861,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "KATHLEEN FOODY Associated Press",
+      "title": "A CDC team joins the response to 7 measles cases in a Chicago shelter for migrants",
+      "description": "Seven people living at a Chicago shelter for migrants have tested positive for measles since last week",
+      "url": "https://abcnews.go.com/US/wireStory/cdc-team-joins-response-7-measles-cases-chicago-108085490",
+      "urlToImage": "https://i.abcnewsfe.com/a/d1f9c63c-1a54-4c80-b552-2f833796557b/wirestory_e58517c830f73e42266d45d45983c12b_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-13 17:50:33",
+      "content": "CHICAGO -- Seven people living at a Chicago shelter for migrants have tested positive for measles since last week, prompting the arrival of a team with the Centers for Disease Control and Prevention \u2026 [+3576 chars]",
+      "retrievedAt": "2024-03-14 19:05:24.419213",
+      "internal_id": "20cfc195c03ccd7c528f7b000508c528b1ea2f33e1a54eb7eb1b31801a58525b",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6874,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "El estado brasile\u00f1o de Rio Grande do Sul decret\u00f3 estado de emergencia por dengue",
+      "description": "Brasil atraviesa una de sus peores epidemias de dengue y en lo que va de a\u00f1o acumula 1,5 millones de casos en todo el pa\u00eds.",
+      "url": "https://www.montevideo.com.uy/Salud/El-estado-brasileno-de-Rio-Grande-do-Sul-decreto-estado-de-emergencia-por-dengue-uc882445",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202304/_W933_80/841257.jpg",
+      "publishedAt": "2024-03-13 17:49:00",
+      "content": "El estado brasile\u00f1o de Rio Grande do Sul, lim\u00edtrofe con Uruguay y Argentina, aprob\u00f3 este mi\u00e9rcoles el estado de emergencia por dengue ante el aumento de la incidencia de esta enfermedad, que ya super\u2026 [+1187 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.421490",
+      "internal_id": "700ddb19f8650c31d8e7d4e2e98500bc90b1f9a33daf1d2cddc33f61ed9521e4",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6881,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "Why a new report on child mortality is historic, encouraging \u2014 and grim",
+      "description": "Child mortality has hit a historic low around the world \u2014 fewer then 5 million deaths a year. But experts believe that millions more could be saved by relatively cheap, simple interventions.",
+      "url": "https://www.npr.org/sections/goatsandsoda/2024/03/13/1238295742/why-a-new-report-on-child-mortality-is-historic-encouraging-and-grim",
+      "urlToImage": "https://media.npr.org/assets/img/2024/03/13/01_gettyimages-1247905559_wide-1e53b6371927612f81f1d4fc9fd4a12877fd4429-s1400-c100.jpg",
+      "publishedAt": "2024-03-13 17:48:22",
+      "content": "Isabela Oside, 45, washes hands of her daughter Faith, 3, who completed doses through the worlds first malaria vaccine. Malaria is one of the preventable diseases that contributes to worldwide child \u2026 [+6192 chars]",
+      "retrievedAt": "2024-03-14 19:05:26.223888",
+      "internal_id": "09411b496704dd06a3a0e801c22442457d2f1bb17dd08f79c5b581947f361171",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6851,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "Going abroad? CDC updates measles vaccination guidance for travelers",
+      "description": "Measles outbreaks are on the rise in the U.S. and around the world.",
+      "url": "https://www.cbsnews.com/news/measles-vaccine-guidance-travelers-cdc/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/31/f1ca414a-bcbb-4baf-8bc5-7385bebd1aab/thumbnail/1200x630g4/f1368b81c99c41e416f2206c864d3afd/ap17023711999843.jpg?v=20ef31957aa1eda7a0d36f36b8c0b1fc",
+      "publishedAt": "2024-03-13 17:43:17",
+      "content": "The Centers for Disease Control and Prevention updated its guidance Wednesday for travelers in the wake of a global rise in measles outbreaks, as cases have mounted across 17 states. Americans plann\u2026 [+4498 chars]",
+      "retrievedAt": "2024-03-14 19:05:24.307535",
+      "internal_id": "65f700c5f9749099c20b3ed1f95055beb82e2ac803d8543ec8608bf61fce5ae9",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6853,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "KATHLEEN FOODY",
+      "title": "A CDC team joins the response to 7 measles cases in a Chicago shelter for migrants",
+      "description": "Measles is a contagious virus still common in many countries outside the US. Cases in the US originate from international travelers \u2014 most often Americans who have not been vaccinated, according to the CDC.",
+      "url": "https://www.bostonglobe.com/2024/03/13/nation/chicago-shelter-measles/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/VqVSGJwAfa3M6tD2WrUEUTN2Qn4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/54IRS23JWHAE54W2CYA46GPFDE.jpg",
+      "publishedAt": "2024-03-13 17:42:26",
+      "content": "CHICAGO (AP) Seven people living at a Chicago shelter for migrants have tested positive for measles since last week, prompting the arrival of a team with the Centers for Disease Control and Preventio\u2026 [+3561 chars]",
+      "retrievedAt": "2024-03-14 19:05:24.322552",
+      "internal_id": "125c3abe80fd7a20974b915b6bc869f969ff73d1a282221a437051fb084bcf13",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6852,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Chicago measles outbreak linked to migrant shelter",
+      "description": "Chicago health officials have linked at least seven cases of a measles outbreak to a migrant shelter in the city. Susan Bleasdale, the chief quality officer at University of Illinois Hospital and Health, joined CBS News to discuss the outbreak.",
+      "url": "https://www.cbsnews.com/video/chicago-measles-outbreak-linked-to-migrant-shelter/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/13/1744566e-afa7-4e60-af97-a6fbffef6a6a/thumbnail/1200x630/bd45265d73909c99f5769237f5c5086e/cbsn-fusion-chicago-measles-outbreak-linked-to-migrant-shelter-thumbnail-2756135-640x360.jpg?v=20ef31957aa1eda7a0d36f36b8c0b1fc",
+      "publishedAt": "2024-03-13 17:41:03",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-03-14 19:05:24.318552",
+      "internal_id": "b169b60d8c794e2318e9980e68981b536cf2a9c6933d49a8fc2c9622fc1191ac",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6860,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "KATHLEEN FOODY Associated Press",
+      "title": "A CDC team joins the response to 7 measles cases in a Chicago shelter for migrants",
+      "description": "Seven people living at a Chicago shelter for migrants have tested positive for measles since last week",
+      "url": "https://abcnews.go.com/Health/wireStory/cdc-team-joins-response-7-measles-cases-chicago-108085492",
+      "urlToImage": "https://i.abcnewsfe.com/a/d1f9c63c-1a54-4c80-b552-2f833796557b/wirestory_e58517c830f73e42266d45d45983c12b_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-13 17:35:02",
+      "content": "CHICAGO -- Seven people living at a Chicago shelter for migrants have tested positive for measles since last week, prompting the arrival of a team with the Centers for Disease Control and Prevention \u2026 [+3576 chars]",
+      "retrievedAt": "2024-03-14 19:05:24.411571",
+      "internal_id": "578e722497cc5837b33f322a969a3f1d7e51a6b86c138afec11c0e6526136a68",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6868,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Guerrero enfrenta crisis de salud ante aumento de 38 veces los casos de dengue",
+      "description": "Forbes M\u00e9xico. Guerrero enfrenta crisis de salud ante aumento de 38 veces los casos de dengue Guerrero representa el 34.7% de los 6,828 casos de dengue detectados en M\u00e9xico en las primeras nueve semanas del a\u00f1o. Guerrero enfrenta crisis de salud ante aument\u2026",
+      "url": "https://www.forbes.com.mx/guerrero-enfrenta-crisis-de-salud-ante-aumento-de-38-veces-los-casos-de-dengue/",
+      "urlToImage": "https://cdn.forbes.com.mx/2021/05/dengue-mosquito-CDC-scaled.jpg",
+      "publishedAt": "2024-03-13 17:29:57",
+      "content": "Las alertas por el dengue se encienden en Guerrero, pues reportan 2,371 casos en lo que va del a\u00f1o, lo que significa m\u00e1s de 38 veces los 62 detectados en el mismo periodo de 2023, y m\u00e1s de uno de cad\u2026 [+3910 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.306110",
+      "internal_id": "016396300c10aec1a62a314c7f92e9b282a85d0475062c3ca5a86ebe9bc7d81a",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6855,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "KATHLEEN FOODY",
+      "title": "A CDC team joins the response to 7 measles cases in a Chicago shelter for migrants",
+      "description": "Seven people living at a Chicago shelter for migrants have tested positive for measles since last week, prompting the arrival of a team with the Centers for Disease Control and Prevention to guide city and state officials' response to the infections, includin\u2026",
+      "url": "https://www.startribune.com/a-cdc-team-joins-the-response-to-7-measles-cases-in-a-chicago-shelter-for-migrants/600350771/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1709932528",
+      "publishedAt": "2024-03-13 17:28:02",
+      "content": "Nation600350771 Seven people living at a Chicago shelter for migrants have tested positive for measles since last week, prompting the arrival of a team with the Centers for Disease Control and Preven\u2026 [+4013 chars]",
+      "retrievedAt": "2024-03-14 19:05:24.341819",
+      "internal_id": "b29864cfe715d5044c61227cda38cdcd0ddc8e7930ff06bbb62b9b2c792d8598",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6863,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Cresce l'allarme in Brasile, oltre 1,5 milioni i casi di dengue",
+      "description": "Il Brasile ha superato l'allarmante soglia di 1,5 milioni di casi di dengue, per un totale di 450 decessi confermati, mentre accertamenti sono in corso su oltre 800 decessi. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2024/03/13/cresce-lallarme-in-brasile-oltre-15-milioni-i-casi-di-dengue_4c042ca2-17f4-4031-91e7-f2b2f46d3ed3.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/6/0b970c76fdca4333d4c0fa0071b2beb1.jpg",
+      "publishedAt": "2024-03-13 17:03:20",
+      "content": "Il Brasile ha superato l'allarmante soglia di 1,5 milioni di casi di dengue, per un totale di 450 decessi confermati, mentre accertamenti sono in corso su oltre 800 decessi. Le cifre diffuse dal mini\u2026 [+1182 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.248568",
+      "internal_id": "fc92eaeb3bf1a1fa18dc1d1979e1b51d1a0e83cefcb6c5bdaa5a968ec25b66a1",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6869,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / JGE",
+      "title": "Dengue en Guerrero se dispara a 2,371 casos en 2024, de 68 el a\u00f1o pasado",
+      "description": "Las autoridades de salud de Guerrero atribuyen el problema al impacto del 25 de octubre pasado del hurac\u00e1n Otis, cuyos estragos han propiciado la proliferaci\u00f3n de los mosquitos transmisores.",
+      "url": "https://aristeguinoticias.com/1303/mexico/dengue-en-guerrero-se-dispara-a-2371-casos-en-2024-de-los-68-del-ano-pasado/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/12/dengue-riesgo-alto-munco-22122023.jpg",
+      "publishedAt": "2024-03-13 16:19:57",
+      "content": "Las alertas por el dengue se encienden en Guerrero, que reporta 2 mil 371 casos en lo que va del a\u00f1o, lo que significa m\u00e1s de 38 veces los 62 detectados en el mismo periodo de 2023, y m\u00e1s de uno de c\u2026 [+3963 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.313235",
+      "internal_id": "02ba89db409508f1864e7d81b9dadac04a584b76471c4b5b4e6b92ae8ea34285",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6876,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Al\u00e9m de 71 mortes por dengue, Minas registra 20 \u00f3bitos por chikungunya",
+      "description": "Dos 535.071 casos prov\u00e1veis de dengue, 194.346 foram confirmados",
+      "url": "https://saude.ig.com.br/2024-03-13/alem-de-71-mortes-por-dengue--minas-registra-20-obitos-por-chikungunya.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-03-13 16:16:40",
+      "content": "Dados da Secretaria de Sa\u00fade de Minas Gerais indicam que, desde 1\u00ba de janeiro, o estado j\u00e1 registrou 71 mortes confirmadas por dengue e 324 em investiga\u00e7\u00e3o. H\u00e1 ainda 20 mortes confirmadas por chikung\u2026 [+2095 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.461727",
+      "internal_id": "dbbe575b72430f149984f3583dcbba37fe0a9904f860bdd829870c021b1e1f60",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6858,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles case confirmed in Simcoe Muskoka, health unit says",
+      "description": "The Simcoe Muskoka district confirmed the latest case of measles in Ontario on Wednesday in an adult who has not travelled recently or come into contact with a known case of measles, they said.",
+      "url": "https://www.cbc.ca/news/canada/toronto/measles-simcoe-muskoka-1.7142502",
+      "urlToImage": "https://i.cbc.ca/1.7131773.1709334919!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2024-03-13 16:15:42",
+      "content": "A measles case has been confirmed in Simcoe Muskoka, the district's health unit said on Wednesday. The person with the confirmed case of measles is an adult who has not travelled recently or been i\u2026 [+1634 chars]",
+      "retrievedAt": "2024-03-14 19:05:24.380014",
+      "internal_id": "dbfa04d182a9d3309eafe78d61b034c9b891f46b1168246a9fa2e29a088a34aa",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6865,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Vitamina B e repelentes caseiros espantam o mosquito da dengue? Veja mitos e verdades",
+      "description": "Repelentes naturais n\u00e3o s\u00e3o efetivos contra o mosquito Aedes aegypti. Saiba como afastar os mosquitos.",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/vitamina-b-e-repelentes-caseiros-espantam-o-mosquito-da-dengue-veja-mitos-e-verdades,e77c07fccead4559f118c0b1ffaf505ek80qj4rh.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/05/istock-512921729-t8f62q8sab1f.jpg",
+      "publishedAt": "2024-03-13 15:41:56",
+      "content": "ResumoO aumento de casos de dengue no Brasil gerou diversas especula\u00e7\u00f5es acerca da preven\u00e7\u00e3o ao mosquito Aedes aegypti. A vitamina B n\u00e3o tem capacidade de prevenir, repelentes caseiros tamb\u00e9m n\u00e3o s\u00e3o\u2026 [+3518 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.277682",
+      "internal_id": "6885d256cfde6cff0c2cc10edd79d0256f006285f8ffb92eca52005ea83fe85a",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6866,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Startupi.com.br",
+      "author": "Bruna Galati",
+      "title": "Solu\u00e7\u00e3o de controle de pragas da startup Birdview pode ser aplicado no combate \u00e0 dengue; entenda",
+      "description": "Startupi Solu\u00e7\u00e3o de controle de pragas da startup Birdview pode ser aplicado no combate \u00e0 dengue; entenda Solu\u00e7\u00e3o de controle de pragas da startup Birdview pode ser aplicado no combate \u00e0 dengue; entenda O post Solu\u00e7\u00e3o de controle de pragas da startup Birdvie\u2026",
+      "url": "https://startupi.com.br/startup-birdview-combate-a-dengue/",
+      "urlToImage": "https://startupi.com.br/wp-content/uploads/2024/03/BirdView.jpg",
+      "publishedAt": "2024-03-13 15:39:08",
+      "content": "A startup Birdview, localizada na cidade de S\u00e3o Manuel, no interior paulista, e fundada em 2015 para aumentar a sustentabilidade da produ\u00e7\u00e3o rural, atrav\u00e9s do controle biol\u00f3gico de pragas, usar\u00e1 suas\u2026 [+2078 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.286512",
+      "internal_id": "8538c6de062d9e6d8fb3ce6cc184976c5e6710a4009639fc3bab78ff6fbfe704",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6864,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Cresce l'allarme in Brasile, oltre 1,5 milioni i casi di dengue",
+      "description": "Sintomi simili alla chikungunya, anche la zika rialza la testa (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/03/13/cresce-lallarme-in-brasile-oltre-15-milioni-i-casi-di-dengue_b1cb2bef-7502-4bef-b1f0-e388220dc451.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/6/0b970c76fdca4333d4c0fa0071b2beb1.jpg",
+      "publishedAt": "2024-03-13 15:18:06",
+      "content": "Il Brasile ha superato l'allarmante soglia di 1,5 milioni di casi di dengue, per un totale di 450 decessi confermati, mentre accertamenti sono in corso su oltre 800 decessi. Le cifre diffuse dal mini\u2026 [+1182 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.257354",
+      "internal_id": "bb7ac68d240bfbd5833fe63bd69256c43e4d28b4a15231fd1bf944138749f831",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6877,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Como a dengue pode provocar queda de cabelo",
+      "description": "Para alguns pacientes, doen\u00e7as podem \"bagun\u00e7ar\" o ciclo de vida do fio de cabelo, como a dengue, provocando a queda de forma tempor\u00e1ria e revers\u00edvel",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-03-13/como-a-dengue-pode-provocar-queda-de-cabelo.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/2b/hq/wx/2bhqwxnat5c4akbbr1m6o8ipb.jpg",
+      "publishedAt": "2024-03-13 15:15:43",
+      "content": "A queda de cabelo n\u00e3o \u00e9 um sintoma comum da dengue . No entanto, alguns pacientes podem sofrer com a perda de fios ap\u00f3s o per\u00edodo de recupera\u00e7\u00e3o da doen\u00e7a quando a fase aguda j\u00e1 acabou. Nestes casos\u2026 [+3458 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.469614",
+      "internal_id": "45f46edc9e2bb4f1bf806d9181de27ed61ba1bb03dafabb1a23686f42daa0538",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6873,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Valentina Moreira",
+      "title": "Dengue em SP: prefeitura destina R$ 240 mi e abre AMAs at\u00e9 22h",
+      "description": "Prefeitura tamb\u00e9m far\u00e1 contrata\u00e7\u00e3o de m\u00e9dicos e de agentes para verificar focos do mosquito da dengue; SP tem 8 mortes pela doen\u00e7a em 2024",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-em-sp-prefeitura-destina-r-240-mi-e-abre-amas-ate-22h",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/28150836/dengue-abre.jpg",
+      "publishedAt": "2024-03-13 15:11:52",
+      "content": "S\u00e3o Paulo A prefeitura de S\u00e3o Paulo anunciou nessa quarta-feira (13/3) uma s\u00e9ria de medidas de combate \u00e0 dengue. Al\u00e9m da amplia\u00e7\u00e3o do hor\u00e1rio de funcionamento do servi\u00e7o de Assist\u00eancia M\u00e9dica Ambulat\u2026 [+6259 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.396079",
+      "internal_id": "4840aefa46c75caa57c0793986ac48a77442f25f63de67dbb228208fd4f36421",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6883,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "Julia SIEGER",
+      "title": "How to eradicate malaria? Promising new technique raises ethical issues",
+      "description": "The world's largest vaccine manufacturer in India will begin distributing a new malaria vaccine in Africa starting in May. The disease kills more than 600,000 people each year, 95 percent of whom are in Africa and mostly children. Separately, another solution\u2026",
+      "url": "https://www.france24.com/en/tv-shows/science/20240313-how-to-eradicate-malaria-promising-new-technique-raises-ethical-issues",
+      "urlToImage": "https://s.france24.com/media/display/94d8f082-e148-11ee-9577-005056a90284/w:1280/p:16x9/EN_20240313_152225_152603_CS.jpg",
+      "publishedAt": "2024-03-13 15:11:03",
+      "content": "Issued on: 13/03/2024 - 16:11 The world's largest vaccine manufacturer in India will begin distributing a new malaria vaccine in Africa starting in May. The disease kills more than 600,000 people ea\u2026 [+292 chars]",
+      "retrievedAt": "2024-03-14 19:05:26.266369",
+      "internal_id": "ec5a1b6ea6225513df6db3d4dca24be0f6dd37be256a4813e47901eef5efa090",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6857,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Chicago Tribune",
+      "author": "Pioneer Press",
+      "title": "No measles cases reported at Oak Park migrant shelter, but village monitoring outbreak at one in Chicago",
+      "description": "There are no reported cases of measles \u2013 so far \u2013 at the shelter in Oak Park where the village is housing asylum-seeking migrants, but the village is paying close attention to the cases of the communicable disease that continue to pop up in at least one shelt\u2026",
+      "url": "http://www.chicagotribune.com/2024/03/13/no-measles-cases-reported-at-oak-park-migrant-shelter-but-village-monitoring-outbreak-at-one-in-chicago/",
+      "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/02/IMG_6436_24d1a4.jpg?w=1024&h=768",
+      "publishedAt": "2024-03-13 14:50:50",
+      "content": "There are no reported cases of measles so far at the shelter in Oak Park where the village is housing asylum-seeking migrants, but village public health officials are paying close attention to the ca\u2026 [+2194 chars]",
+      "retrievedAt": "2024-03-14 19:05:24.369691",
+      "internal_id": "d7714c02d2e2d5a1c21a52bb32cc5ada5efcc876b360858fc537f5768ce86ed1",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6867,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Brasil Escola",
+      "title": "Dengue nas escolas: como est\u00e1 a preven\u00e7\u00e3o?",
+      "description": "Em meio a alta de casos de dengue no Brasil, v\u00e1rios projetos est\u00e3o sendo postos em pr\u00e1tica para combater a prolifera\u00e7\u00e3o da doen\u00e7a.",
+      "url": "https://brasilescola.uol.com.br/noticias/dengue-nas-escolas-como-esta-sendo-o-combate/3131030.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/13/993352040-atividade-contra-dengue.jpg",
+      "publishedAt": "2024-03-13 14:48:14",
+      "content": "No Brasil, os casos de dengue alcan\u00e7aram cifras preocupantes em 2024. At\u00e9 o dia 11 de mar\u00e7o, j\u00e1 havia o registro de 391 mortes e mais 1,5 milh\u00e3o de casos da doen\u00e7a. Minas Gerais figura entre os esta\u2026 [+3292 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.290482",
+      "internal_id": "29dd662fcc914b93a243c7f1e72fcf4a890fdf31fe6f8cdbda7c43d6a74513a2",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6850,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Cailey Gleeson, Forbes Staff, \n Cailey Gleeson, Forbes Staff\n https://www.forbes.com/sites/caileygleeson/",
+      "title": "U.S. Measles Outbreak: The 17 States Reporting Cases",
+      "description": "Data shows that cases are close to the number of total cases reported in 2023.",
+      "url": "https://www.forbes.com/sites/caileygleeson/2024/03/13/us-measles-outbreak-the-17-states-reporting-cases/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65f1b3b6c0926089fb00e00c/0x0.jpg?format=jpg&crop=2884,1623,x0,y111,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-03-13 14:11:00",
+      "content": "More than a dozen states have reported measles cases in the U.S. since the start of 2024, as the disease makes an alarming global resurgence amid lagging vaccination rates and increased travel. Data\u2026 [+2677 chars]",
+      "retrievedAt": "2024-03-14 19:05:24.290635",
+      "internal_id": "d2b64e2d1951c25e375cf51b2bc234eda280937d6fc4c3f45c3885d39b474a33",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6880,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Bruno Andrade, Bruno Andrade",
+      "title": "Dengue: Com 20 mortes, governo do RS decreta emerg\u00eancia em sa\u00fade",
+      "description": "Doen\u00e7a atinge 94% dos munic\u00edpios de todo o estado, com 27,7 mil casos prov\u00e1veis",
+      "url": "https://saude.ig.com.br/2024-03-13/dengue--com-20-mortes--governo-do-rs-decreta-emergencia-em-saude.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8d/ez/cf/8dezcfvxiuhb18d2dwizcnb91.jpg",
+      "publishedAt": "2024-03-13 14:02:10",
+      "content": "O governo do Rio Grande do Sul decretou estado de emerg\u00eancia em sa\u00fade p\u00fablica devido \u00e0 epidemia de dengue. A medida, assinada pelo governador Eduardo Leite (PSDB), foi publicada no Di\u00e1rio Oficial\u2026 [+1539 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.493951",
+      "internal_id": "44fc91670af2717f2901db9c7f282471f8970b87c4f485f2fe8323e22c513f87",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6862,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Dengue, oltre un milione e mezzo di casi in Brasile. Allerta anche per l\u2019aumento dei casi di virus Zika",
+      "description": "Non si ferma l\u2019epidemia di Dengue in Brasile. Secondo gli ultimi dati diffusi dal ministero della Salute, sono 391 le morti confermate causate quest\u2019anno dall\u2019infezione veicolata dalle zanzare, mentre su altri 854 decessi sono in corso indagini. A livello naz\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/03/13/dengue-oltre-un-milione-e-mezzo-di-casi-in-brasile-allerta-per-laumento-anche-dei-casi-di-zika/7478259/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/03/13/dengue-brasile.jpg",
+      "publishedAt": "2024-03-13 13:19:22",
+      "content": "Non si ferma l\u2019epidemia di Dengue in Brasile. Secondo gli ultimi dati diffusi dal ministero della Salute, sono 391 le morti confermate causate questanno dallinfezione veicolata dalle zanzare, mentre \u2026 [+2737 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.240132",
+      "internal_id": "d44f62c2d50ca71cc0c090a20dad9c6a29a8e2a8243c08f153797deaeb706f10",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6871,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Cresce l'allarme in Brasile, oltre 1,5 milioni i casi di dengue",
+      "description": "Il Brasile ha superato l'allarmante soglia di 1,5 milioni di casi di dengue, per un totale di 450 decessi confermati, mentre accertamenti sono in corso su oltre 800 decessi. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2024/03/13/cresce-lallarme-in-brasile-oltre-15-milioni-i-casi-di-dengue_07d9a310-1b15-4c16-95a0-4cba5b37d9b8.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/6/0b970c76fdca4333d4c0fa0071b2beb1.jpg",
+      "publishedAt": "2024-03-13 13:17:16",
+      "content": "Il Brasile ha superato l'allarmante soglia di 1,5 milioni di casi di dengue, per un totale di 450 decessi confermati, mentre accertamenti sono in corso su oltre 800 decessi. Le cifre diffuse dal m\u2026 [+1207 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.334968",
+      "internal_id": "417d84ab0f3c388c09917457115eb424e0d1f6732309cd9e33a63caa429a2f19",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6875,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Minist\u00e9rio da Sa\u00fade indica teste r\u00e1pido da dengue durante diagn\u00f3stico",
+      "description": "Para auxiliar no diagn\u00f3stico, o teste r\u00e1pido para a dengue pode ser feito at\u00e9 o quinto dia do in\u00edcio dos sintomas, como recomenda o Minist\u00e9rio da Sa\u00fade",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-03-13/ministerio-da-saude-indica-teste-rapido-da-dengue-durante-diagnostico.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/9l/qb/ny/9lqbnyvm875ai7i1uyxlb45q0.jpg",
+      "publishedAt": "2024-03-13 13:10:20",
+      "content": "Com a explos\u00e3o de casos de dengue em todo o pa\u00eds, o Minist\u00e9rio da Sa\u00fade passa a indicar o teste r\u00e1pido para auxiliar no diagn\u00f3stico e assim fechar quadros suspeitos da doen\u00e7a transmitida pelo mosquit\u2026 [+3197 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.454654",
+      "internal_id": "fc5b60f065ca16ce6c1e5815a582f5c95230732b9ef629bc1f4381c3569b058d",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6870,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Galileonet.it",
+      "author": "di Ilaria Sisto",
+      "title": "Dengue e Chikungunya, nuova mappa del rischio in Italia",
+      "description": "Una ricerca internazionale ha calcolato con estrema precisone il potenziale di trasmissibilit\u00e0 di alcune malattie. A rischiare di pi\u00f9 sono le zone densamente popolate del Nord Italia L'articolo Dengue e Chikungunya, nuova mappa del rischio in Italia sembra es\u2026",
+      "url": "https://www.galileonet.it/dengue-e-chikungunya-nuova-mappa-del-rischio-in-italia/",
+      "urlToImage": "https://www.galileonet.it/wp-content/uploads/2024/03/national-institute-of-allergy-and-infectious-diseases-Z2pq_4mj6BI-unsplash-scaled.jpg",
+      "publishedAt": "2024-03-13 12:44:13",
+      "content": "Circa met\u00e0 della popolazione mondiale \u00e8 a rischio di contrarre la dengue. A stimare il pericolo che vola sulle ali delle zanzare \u00e8 stata lOrganizzazione Mondiale della Sanit\u00e0. E lItalia non \u00e8 immune,\u2026 [+5490 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.322435",
+      "internal_id": "d2918382bf748a51e4eae42701d3b900eaf96a051046b5aef7e128ff290622be",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6884,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Bavarian Nordic Receives Approval of Smallpox and Mpox Vaccine in Switzerland",
+      "description": "(marketscreener.com) COPENHAGEN, Denmark, March 13, 2024 \u2013 Bavarian Nordic A/S announced today that the Swiss Agency for Therapeutic Products, Swissmedic, has approved JYNNEOS\u00ae for active immunization against disease caused by smallpox, mpox and vaccinia viru\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Receives-Approval-of-Smallpox-and-Mpox-Vaccine-in-Switzerland-46160168/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-03-13 12:30:02",
+      "content": "COPENHAGEN, Denmark, March 13, 2024 Bavarian Nordic A/S (OMX: BAVA) announced today that the Swiss Agency for Therapeutic Products, Swissmedic, has approved JYNNEOS\u00ae (MVA-BN) for active immunization \u2026 [+4050 chars]",
+      "retrievedAt": "2024-03-14 19:05:27.073376",
+      "internal_id": "798da97fa896b33d82b8d6fb4a388ffcb76406990cddf3e5de652d55f8cdcb40",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6878,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "MG registra um caso de dengue a cada 12 segundos",
+      "description": "Em apenas 71 dias, foram notificados um total de 514.830 poss\u00edveis casos de dengue",
+      "url": "https://saude.ig.com.br/2024-03-13/mg-casos-dengue-crescimento.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-03-13 12:11:00",
+      "content": "Com uma m\u00e9dia de aproximadamente cinco registros por minuto ao longo do ano de 2024 e um novo caso da doen\u00e7a surgindo a cada 12 segundos, o estado de Minas Gerais enfrenta sua maior epidemia de dengu\u2026 [+1564 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.476635",
+      "internal_id": "b97724e79192d5836c9b1a6f1a34d3655926d12fee195f357fb30c6938eb57e9",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6885,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Lenin Ndebele",
+      "title": "News24 | Mpox seems to be spreading via heterosexual contact in the DRC, according to research",
+      "description": "A new mpox (formerly monkeypox) outbreak in the Democratic Republic of the Congo (DRC) is linked to sexual behaviour among heterosexual people, researchers say.",
+      "url": "https://www.news24.com/news24/africa/news/mpox-seems-to-be-spreading-via-heterosexual-contact-in-the-drc-according-to-research-20240313",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11331/8432ac10c5124d94926a54a894363ea0.jpg",
+      "publishedAt": "2024-03-13 11:54:17",
+      "content": "Mpox appears to be spreading through heterosexual contact in the DRC, new research says.Infections were detected among sex workers, and people who have had more than one partner.</li\u2026 [+3406 chars]",
+      "retrievedAt": "2024-03-14 19:05:27.078482",
+      "internal_id": "69b0554d8341a4a43be54d4b05bdf43e3c2393a69fc2cafdfbf38a4c68f99d82",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6856,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": null,
+      "title": "Measles Outbreaks Reveal Extent\u2014and Danger\u2014of Disability Stigma | Opinion",
+      "description": "Disability is so stigmatized in this nation that a sizable\u2014and growing\u2014number of parents have been convinced it's better to risk their child contracting a deadly virus than risk their child developing a disability.",
+      "url": "https://www.newsweek.com/measles-outbreaks-reveal-extent-danger-disability-stigma-opinion-1878470",
+      "urlToImage": "https://d.newsweek.com/en/full/2361168/sterile-water-prepared.jpg",
+      "publishedAt": "2024-03-13 11:00:01",
+      "content": "Newly reported measles cases in Chicago are the latest in a potentially deadly\u2014and highly preventable\u2014string of outbreaks, which have been recorded in at least 17 states since the start of 2024. Thes\u2026 [+4934 chars]",
+      "retrievedAt": "2024-03-14 19:05:24.357651",
+      "internal_id": "ea531d27cbda4fb1dcce86388a2ff7a3febf16c649a7635b188c64a0a3db2355",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6879,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Sa\u00fade recomenda uso de testes r\u00e1pidos para diagn\u00f3stico de dengue",
+      "description": "Explos\u00e3o de casos no pa\u00eds motivou decis\u00e3o da pasta",
+      "url": "https://saude.ig.com.br/2024-03-13/saude-recomenda-uso-de-testes-rapidos-para-diagnostico-de-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-03-13 10:51:20",
+      "content": "O Minist\u00e9rio da Sa\u00fade passou a recomendar o uso de testes r\u00e1pidos para diagn\u00f3stico e fechamento de casos de dengue . De acordo com a secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Ambiente, Ethel Maciel, foi e\u2026 [+2200 chars]",
+      "retrievedAt": "2024-03-14 19:05:25.483371",
+      "internal_id": "52380d2587daaad384612d2a218e56ea304a269517015738ea3afdf100d9e181",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6849,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Steiermark.orf.at",
+      "author": "ORF.at",
+      "title": "Neugeborenes an Keuchhusten gestorben",
+      "description": "Ein erst wenige Wochen altes Baby ist in einem Grazer Spital an Keuchhusten gestorben. Generell gibt es in der Steiermark in diesem Winter eine starke Zunahme von Keuchhusten-F\u00e4llen.",
+      "url": "https://steiermark.orf.at/stories/3248764/",
+      "urlToImage": "https://ibs.orf.at/stm?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2019%2F36%2F28%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F283371_master_86728_190903_ooeh_keuchhustenerkrankungen_nehmen_zu_00_00_40_23.jpg%3Fs%3De0fc260e26bf05279e9cc8d2ffaf6e697d7ff59e",
+      "publishedAt": "2024-03-13 10:11:00",
+      "content": "Pertussis, auch Keuchhusten genannt, ist eine hochansteckende Infektionserkrankung der Atemwege und in \u00d6sterreich meldepflichtig, so Eva Winter, Leiterin des Grazer Gesundheitsamtes. Die \u00dcbertragung \u2026 [+1288 chars]",
+      "retrievedAt": "2024-03-14 19:05:23.436071",
+      "internal_id": "beb8b7dc7ab97ba93937b20be21f1cff9eb2ee0f1122fc4484e4f16d227fe56e",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 6882,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Aubrey J Cunnington, Aula Abbara, Flavia Kaduni Bawa, Jane Achan",
+      "title": "Identification and management of co-infections in people with malaria",
+      "description": "### What you need to know A 16 year old Ugandan girl is brought to the emergency department with a three day history of fever, headache, cough, and myalgia. She has had several episodes of malaria in the past. On admission, she is febrile, tachycardic, tachy\u2026",
+      "url": "https://www.bmj.com/content/384/bmj-2023-077512",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/384/8420.cover-source.jpg",
+      "publishedAt": "2024-03-13 09:46:32",
+      "content": "Aubrey J Cunnington, professor of paediatric infectious disease12, Aula Abbara, consultant in infectious diseases, infectious diseases and malaria adviser23, Flavia Kaduni B\u2026 [+2572 chars]",
+      "retrievedAt": "2024-03-14 19:05:26.233023",
+      "internal_id": "0fe6d4590545031ab952b1f35277b7a485b18f9878c84e1363901c3db032625c",
+      "publishedAtLabel": "Mar 13"
+    },
     {
       "id": 6840,
       "query": [
@@ -38220,132 +38891,6 @@
       "content": "O cen\u00e1rio epidemiol\u00f3gico da dengue colocou Manaus, capital do Amazonas, em estado de alerta. Neste s\u00e1bado (28), a Secretaria Municipal de Sa\u00fade (Semsa) divulgou um comunicado alertando que o n\u00famero\u2026 [+1024 chars]",
       "retrievedAt": "2024-01-30 07:05:32.093157",
       "internal_id": "0f22a74a61ed86e16fe91b15851b02255500a3e4039e52e836b319453dc5fc8b",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4733,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Minist\u00e9rio da Sa\u00fade divulga lista de cidades receber\u00e3o vacina contra a dengue",
-      "description": "Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha",
-      "url": "https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2024/01/vacina.jpg",
-      "publishedAt": "2024-01-28 18:52:03",
-      "content": "\u00daltimas not\u00edcias: Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha contra a dengue. Essas localida\u2026 [+1333 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.164251",
-      "internal_id": "72f1c569ace4975365295b27438b1ddeb3d269bcb72c9ef4f1249631bb66b727",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4724,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Casos de dengue sobem 26% no Estado de SP e secretaria j\u00e1 confirma quatro mortes no ano",
-      "description": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-01-28 16:22:57",
-      "content": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 a terceira semana epidemiol\u00f3gica de 2024 (com dados at\u00e9 o dia 20 de janeiro). O n\u00famero representa uma a\u2026 [+2557 chars]",
-      "retrievedAt": "2024-01-29 19:05:24.425804",
-      "internal_id": "1efaf5d5cb0f6f21d5e730c2c8175b5ae58fc4506ebcccf031f21bb998267521",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4723,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Viomundo.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue",
-      "description": "Minist\u00e9rio da Sa\u00fade, Conass e Conasems em nota O post Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue apareceu primeiro em Viomundo.",
-      "url": "https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html",
-      "urlToImage": "https://www.viomundo.com.br/wp-content/uploads/2024/01/ac044d91-3312-4a01-8f23-57c8980ce5fa.png",
-      "publishedAt": "2024-01-28 15:48:17",
-      "content": "NOTA CONJUNTA Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios unem esfor\u00e7os para a\u00e7\u00f5es de enfrentamento da dengue Desde o ano passado, o Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios est\u00e3o em constante monit\u2026 [+3677 chars]",
-      "retrievedAt": "2024-01-29 19:05:24.273642",
-      "internal_id": "9ccb2fb3a9cdbdb34473a05ea403c8a78a3c0a2303e1a82061b629129f30f128",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4732,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Clar\u00edn",
-      "author": "Ernesto Azarkevich",
-      "title": "Una beba de tres meses muri\u00f3 por dengue en Misiones",
-      "description": "Lleg\u00f3 a la guardia de un hospital con fiebre y fue derivada a terapia intensiva, pero no lograron estabilizarla.Es la v\u00edctima m\u00e1s joven del brote que ya caus\u00f3 9 muertes en la provincia.",
-      "url": "https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html",
-      "urlToImage": "https://www.clarin.com/img/2023/12/21/jMTZGJwoe_2000x1500__1.jpg",
-      "publishedAt": "2024-01-28 15:42:04",
-      "content": "Una beba de tres mesesmuri\u00f3 por dengue en Misiones y es la novena v\u00edctima en la provincia desde mediados de diciembre pasado. En la \u00faltima semana el sistema de salud report\u00f3 m\u00e1s de 2.600 cuadros febr\u2026 [+2602 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.160802",
-      "internal_id": "0b0fd0ee4e9094077b576368a8240cfa981b0137e588cc37f6755d414211ce93",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4730,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "F\u00e1bio Andrighetto",
-      "title": "Dengue no RJ dispara 587%, com mais de 9 mil casos em tr\u00eas semanas",
-      "description": "O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u00f5es, um n\u00famero que j\u00e1 supera a m\u00e9dia hist\u00f3rica para todo o m\u00eas. A situa\u00e7\u00e3o \u00e9 pr\u2026",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2021/02/istock-599881744.jpg",
-      "publishedAt": "2024-01-28 14:52:50",
-      "content": "\u00daltimas not\u00edcias: O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u2026 [+1806 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.154107",
-      "internal_id": "0892f851bd02e76d6fa09494c2842a3c71a097424b8424d17f9b43374e601a1c",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4722,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "TheJournal.ie",
-      "author": "Mairead Maguire",
-      "title": "HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK",
-      "description": "Health officials in Ireland are keeping \u201cvery close watch\u201d as the number of cases have risen around Europe too.",
-      "url": "https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/",
-      "urlToImage": "https://img2.thejournal.ie/article/6283808/river/?height=400&version=6283810",
-      "publishedAt": "2024-01-28 14:40:52",
-      "content": "THE HSE HAS urged parents to make sure their children are vaccinated against measles, as the UK sees a spike in case numbers. The MMR vaccine protects against measles, mumps and rubella. In the UK\u2026 [+1711 chars]",
-      "retrievedAt": "2024-01-29 19:05:23.759567",
-      "internal_id": "62113caca466ead9afe1e1ae2e5c7d8f6e2345410ae6ba1b02df0f5f2f12e05c",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4721,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Multi-language measles campaign launched",
-      "description": "London has the lowest percentage of children who have received both doses, experts say.",
-      "url": "https://www.bbc.co.uk/news/articles/cglmrrnm5d9o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2da6/live/135eb770-bc64-11ee-92a5-1d8f75943063.jpg",
-      "publishedAt": "2024-01-28 08:55:12",
-      "content": "Rhoda Ibrahim, from the Somali Advice and Forum of Information, told BBC Politics London: \"It's always the elderly men and women that don't speak English and it's also the mums. \"About 80% of the mu\u2026 [+683 chars]",
-      "retrievedAt": "2024-01-29 19:05:23.738701",
-      "internal_id": "e13bf1fb456bb23471488c6867b391bbf96b8bd03e39bbbb408ce79ebb92a0cd",
       "publishedAtLabel": "Jan 28"
     }
   ]

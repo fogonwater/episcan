@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-03-14 07:05
-- **Most recent article:** 2024-03-13 05:45:39
+- **New articles in last harvest:** 37
+- **Last harvest:** 2024-03-14 19:05
+- **Most recent article:** 2024-03-13 18:44:31
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 75 | 173 | 216 | 191 | 188 | 207 | 1242 |
-| measles | 86 | 50 | 47 | 68 | 45 | 100 | 80 | 476 |
-| malaria | 15 | 9 | 24 | 35 | 19 | 33 | 17 | 152 |
-| zika | 16 | 9 | 8 | 13 | 6 | 13 | 11 | 76 |
-| chikungunya | 8 | 6 | 10 | 12 | 8 | 14 | 16 | 74 |
+| dengue | 192 | 94 | 168 | 216 | 191 | 188 | 207 | 1256 |
+| measles | 86 | 62 | 45 | 68 | 45 | 100 | 80 | 486 |
+| malaria | 15 | 12 | 24 | 35 | 19 | 33 | 17 | 155 |
+| zika | 16 | 11 | 8 | 13 | 6 | 13 | 11 | 78 |
+| chikungunya | 8 | 9 | 10 | 12 | 8 | 14 | 16 | 77 |
 | meningitis | 16 | 3 | 3 | 8 | 8 | 7 | 4 | 49 |
 | rabies | 6 | 4 | 7 | 7 | 9 | 5 | 8 | 46 |
 | sarampión | 3 | 1 | 6 | 5 | 4 | 11 | 5 | 35 |
-| mpox | 5 | 1 | 3 | 5 | 8 | 6 | 1 | 29 |
-| pertussis | 4 | 1 | 3 | 2 | 6 | 0 | 4 | 20 |
+| mpox | 5 | 3 | 3 | 5 | 8 | 6 | 1 | 31 |
+| pertussis | 4 | 2 | 3 | 2 | 6 | 0 | 4 | 21 |
 | typhoid | 0 | 0 | 2 | 1 | 2 | 2 | 1 | 8 |
 | yersinia | 1 | 1 | 0 | 1 | 2 | 1 | 1 | 7 |
 | leptospirosis | 0 | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
@@ -3146,10 +3146,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
 
-- [HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK](https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/) (TheJournal.ie)
-
-- [Multi-language measles campaign launched](https://www.bbc.co.uk/news/articles/cglmrrnm5d9o) (BBC News)
-
 ## 24-5 (malaria)
 
 - [Una vacuna de bajo coste previene los síntomas de la malaria en un 75 % de los casos](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/03/vacuna-bajo-coste-previene-sintomas-malaria-75-casos/0003_202402G3P32991.htm) (Lavozdegalicia.es)
@@ -3542,16 +3538,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
 
-- [Ministério da Saúde divulga lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
-
-- [Casos de dengue sobem 26% no Estado de SP e secretaria já confirma quatro mortes no ano](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html) (Terra.com.br)
-
-- [Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue](https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html) (Viomundo.com.br)
-
-- [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
-
-- [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
-
 ## 24-5 (chikungunya)
 
 - [Em São Paulo, número de casos de chikungunya sobe 830% em 2024](https://saude.ig.com.br/2024-02-03/aumento-de-casos-de-chikungunya-em-sao-paulo.html) (Ig.com.br)
@@ -3575,6 +3561,10 @@ Source: [News API](https://newsapi.org/)
 - [Governo de MG decreta estado de emergência pelo alto número de casos de dengue](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/governo-de-mg-decreta-estado-de-emergencia-pelo-alto-numero-de-casos-de-dengue-29012024) (R7.com)
 
 ## 24-11 (zika)
+
+- [Cresce l'allarme in Brasile, oltre 1,5 milioni i casi di dengue](https://www.ansa.it/sito/notizie/mondo/americalatina/2024/03/13/cresce-lallarme-in-brasile-oltre-15-milioni-i-casi-di-dengue_b1cb2bef-7502-4bef-b1f0-e388220dc451.html) (ANSA.it)
+
+- [Dengue, oltre un milione e mezzo di casi in Brasile. Allerta anche per l’aumento dei casi di virus Zika](https://www.ilfattoquotidiano.it/2024/03/13/dengue-oltre-un-milione-e-mezzo-di-casi-in-brasile-allerta-per-laumento-anche-dei-casi-di-zika/7478259/) (Ilfattoquotidiano.it)
 
 - [En un giro médico, el virus Zika podría convertirse en un arma contra el cáncer cerebral](https://es.gizmodo.com/tratamiento-de-tumores-de-cancer-cerebral-por-el-virus-1851328632) (Gizmodo.com)
 
@@ -3614,9 +3604,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (pertussis)
 
+- [Neugeborenes an Keuchhusten gestorben](https://steiermark.orf.at/stories/3248764/) (Steiermark.orf.at)
+
 - [How Moms Prevent Whooping Cough (Pertussis)](https://www.webmd.com/children/vaccines/features/how-proactive-moms-prevent-whooping-cough-pertussis) (WebMD)
 
 ## 24-11 (mpox)
+
+- [Bavarian Nordic Receives Approval of Smallpox and Mpox Vaccine in Switzerland](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Receives-Approval-of-Smallpox-and-Mpox-Vaccine-in-Switzerland-46160168/) (Marketscreener.com)
+
+- [News24 | Mpox seems to be spreading via heterosexual contact in the DRC, according to research](https://www.news24.com/news24/africa/news/mpox-seems-to-be-spreading-via-heterosexual-contact-in-the-drc-according-to-research-20240313) (News24)
 
 - [TWiV 1095: Monkeys fly and mice exaggerate](https://www.microbe.tv/twiv/twiv-1095/) (Microbe.tv)
 
@@ -3629,6 +3625,30 @@ Source: [News API](https://newsapi.org/)
 - [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
 
 ## 24-11 (measles)
+
+- [One more confirmed case of measles recorded in Ireland this week](https://www.thejournal.ie/one-more-confirmed-case-of-measles-recorded-in-ireland-6326488-Mar2024/) (TheJournal.ie)
+
+- [What comes next for Canada’s measles surge](https://macleans.ca/society/health/measles-cases-vaccines-canada/) (Maclean's)
+
+- [A CDC team joins the response to 7 measles cases in a Chicago shelter for migrants](https://abcnews.go.com/US/wireStory/cdc-team-joins-response-7-measles-cases-chicago-108085490) (ABC News)
+
+- [Going abroad? CDC updates measles vaccination guidance for travelers](https://www.cbsnews.com/news/measles-vaccine-guidance-travelers-cdc/) (CBS News)
+
+- [A CDC team joins the response to 7 measles cases in a Chicago shelter for migrants](https://www.bostonglobe.com/2024/03/13/nation/chicago-shelter-measles/) (The Boston Globe)
+
+- [Chicago measles outbreak linked to migrant shelter](https://www.cbsnews.com/video/chicago-measles-outbreak-linked-to-migrant-shelter/) (CBS News)
+
+- [A CDC team joins the response to 7 measles cases in a Chicago shelter for migrants](https://abcnews.go.com/Health/wireStory/cdc-team-joins-response-7-measles-cases-chicago-108085492) (ABC News)
+
+- [A CDC team joins the response to 7 measles cases in a Chicago shelter for migrants](https://www.startribune.com/a-cdc-team-joins-the-response-to-7-measles-cases-in-a-chicago-shelter-for-migrants/600350771/) (Minneapolis Star Tribune)
+
+- [Measles case confirmed in Simcoe Muskoka, health unit says](https://www.cbc.ca/news/canada/toronto/measles-simcoe-muskoka-1.7142502) (CBC News)
+
+- [No measles cases reported at Oak Park migrant shelter, but village monitoring outbreak at one in Chicago](http://www.chicagotribune.com/2024/03/13/no-measles-cases-reported-at-oak-park-migrant-shelter-but-village-monitoring-outbreak-at-one-in-chicago/) (Chicago Tribune)
+
+- [U.S. Measles Outbreak: The 17 States Reporting Cases](https://www.forbes.com/sites/caileygleeson/2024/03/13/us-measles-outbreak-the-17-states-reporting-cases/) (Forbes)
+
+- [Measles Outbreaks Reveal Extent—and Danger—of Disability Stigma | Opinion](https://www.newsweek.com/measles-outbreaks-reveal-extent-danger-disability-stigma-opinion-1878470) (Newsweek)
 
 - [Migrants bring the measles to Chicago](https://www.americanthinker.com/blog/2024/03/migrants_bring_the_measles_to_chicago.html) (Americanthinker.com)
 
@@ -3732,6 +3752,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (malaria)
 
+- [Why a new report on child mortality is historic, encouraging — and grim](https://www.npr.org/sections/goatsandsoda/2024/03/13/1238295742/why-a-new-report-on-child-mortality-is-historic-encouraging-and-grim) (NPR)
+
+- [How to eradicate malaria? Promising new technique raises ethical issues](https://www.france24.com/en/tv-shows/science/20240313-how-to-eradicate-malaria-promising-new-technique-raises-ethical-issues) (FRANCE 24 English)
+
+- [Identification and management of co-infections in people with malaria](https://www.bmj.com/content/384/bmj-2023-077512) (The BMJ)
+
 - [Cut-price malaria vaccine to begin Africa rollout from May](https://www.france24.com/en/video/20240312-cut-price-malaria-vaccine-to-begin-africa-rollout-from-may) (FRANCE 24 English)
 
 - [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/) (Wired)
@@ -3751,6 +3777,44 @@ Source: [News API](https://newsapi.org/)
 - [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/) (Marketscreener.com)
 
 ## 24-11 (dengue)
+
+- [Dengue: São Paulo ultrapassa os 200 mil casos e chega a 62 mortes](https://www.metropoles.com/sao-paulo/dengue-sp-200-mil-casos-62-mortes) (Metropoles.com)
+
+- [El estado brasileño de Rio Grande do Sul decretó estado de emergencia por dengue](https://www.montevideo.com.uy/Salud/El-estado-brasileno-de-Rio-Grande-do-Sul-decreto-estado-de-emergencia-por-dengue-uc882445) (Montevideo.com.uy)
+
+- [Guerrero enfrenta crisis de salud ante aumento de 38 veces los casos de dengue](https://www.forbes.com.mx/guerrero-enfrenta-crisis-de-salud-ante-aumento-de-38-veces-los-casos-de-dengue/) (Forbes.com.mx)
+
+- [Cresce l'allarme in Brasile, oltre 1,5 milioni i casi di dengue](https://www.ansa.it/sito/notizie/mondo/2024/03/13/cresce-lallarme-in-brasile-oltre-15-milioni-i-casi-di-dengue_4c042ca2-17f4-4031-91e7-f2b2f46d3ed3.html) (ANSA.it)
+
+- [Dengue en Guerrero se dispara a 2,371 casos en 2024, de 68 el año pasado](https://aristeguinoticias.com/1303/mexico/dengue-en-guerrero-se-dispara-a-2371-casos-en-2024-de-los-68-del-ano-pasado/) (Aristeguinoticias.com)
+
+- [Além de 71 mortes por dengue, Minas registra 20 óbitos por chikungunya](https://saude.ig.com.br/2024-03-13/alem-de-71-mortes-por-dengue--minas-registra-20-obitos-por-chikungunya.html) (Ig.com.br)
+
+- [Vitamina B e repelentes caseiros espantam o mosquito da dengue? Veja mitos e verdades](https://www.terra.com.br/vida-e-estilo/saude/vitamina-b-e-repelentes-caseiros-espantam-o-mosquito-da-dengue-veja-mitos-e-verdades,e77c07fccead4559f118c0b1ffaf505ek80qj4rh.html) (Terra.com.br)
+
+- [Solução de controle de pragas da startup Birdview pode ser aplicado no combate à dengue; entenda](https://startupi.com.br/startup-birdview-combate-a-dengue/) (Startupi.com.br)
+
+- [Cresce l'allarme in Brasile, oltre 1,5 milioni i casi di dengue](https://www.ansa.it/sito/notizie/mondo/americalatina/2024/03/13/cresce-lallarme-in-brasile-oltre-15-milioni-i-casi-di-dengue_b1cb2bef-7502-4bef-b1f0-e388220dc451.html) (ANSA.it)
+
+- [Como a dengue pode provocar queda de cabelo](https://tecnologia.ig.com.br/parceiros/canaltech/2024-03-13/como-a-dengue-pode-provocar-queda-de-cabelo.html) (Ig.com.br)
+
+- [Dengue em SP: prefeitura destina R$ 240 mi e abre AMAs até 22h](https://www.metropoles.com/sao-paulo/dengue-em-sp-prefeitura-destina-r-240-mi-e-abre-amas-ate-22h) (Metropoles.com)
+
+- [Dengue nas escolas: como está a prevenção?](https://brasilescola.uol.com.br/noticias/dengue-nas-escolas-como-esta-sendo-o-combate/3131030.html) (Uol.com.br)
+
+- [Dengue: Com 20 mortes, governo do RS decreta emergência em saúde](https://saude.ig.com.br/2024-03-13/dengue--com-20-mortes--governo-do-rs-decreta-emergencia-em-saude.html) (Ig.com.br)
+
+- [Dengue, oltre un milione e mezzo di casi in Brasile. Allerta anche per l’aumento dei casi di virus Zika](https://www.ilfattoquotidiano.it/2024/03/13/dengue-oltre-un-milione-e-mezzo-di-casi-in-brasile-allerta-per-laumento-anche-dei-casi-di-zika/7478259/) (Ilfattoquotidiano.it)
+
+- [Cresce l'allarme in Brasile, oltre 1,5 milioni i casi di dengue](https://www.ansa.it/sito/notizie/topnews/2024/03/13/cresce-lallarme-in-brasile-oltre-15-milioni-i-casi-di-dengue_07d9a310-1b15-4c16-95a0-4cba5b37d9b8.html) (ANSA.it)
+
+- [Ministério da Saúde indica teste rápido da dengue durante diagnóstico](https://tecnologia.ig.com.br/parceiros/canaltech/2024-03-13/ministerio-da-saude-indica-teste-rapido-da-dengue-durante-diagnostico.html) (Ig.com.br)
+
+- [Dengue e Chikungunya, nuova mappa del rischio in Italia](https://www.galileonet.it/dengue-e-chikungunya-nuova-mappa-del-rischio-in-italia/) (Galileonet.it)
+
+- [MG registra um caso de dengue a cada 12 segundos](https://saude.ig.com.br/2024-03-13/mg-casos-dengue-crescimento.html) (Ig.com.br)
+
+- [Saúde recomenda uso de testes rápidos para diagnóstico de dengue](https://saude.ig.com.br/2024-03-13/saude-recomenda-uso-de-testes-rapidos-para-diagnostico-de-dengue.html) (Ig.com.br)
 
 - [Dengue: DF tem 65 óbitos de pacientes 60+; não há vacina para o grupo](https://www.metropoles.com/distrito-federal/dengue-df-tem-65-obitos-de-pacientes-60-nao-ha-vacina-para-o-grupo) (Metropoles.com)
 
@@ -3903,6 +3967,12 @@ Source: [News API](https://newsapi.org/)
 - [Discovery reexibe documentário especial abordando doenças transmitidas por mosquitos](https://www.ouniversodatv.com/2024/03/discovery-reexibe-documentario-especial.html) (Ouniversodatv.com)
 
 ## 24-11 (chikungunya)
+
+- [Além de 71 mortes por dengue, Minas registra 20 óbitos por chikungunya](https://saude.ig.com.br/2024-03-13/alem-de-71-mortes-por-dengue--minas-registra-20-obitos-por-chikungunya.html) (Ig.com.br)
+
+- [Cresce l'allarme in Brasile, oltre 1,5 milioni i casi di dengue](https://www.ansa.it/sito/notizie/mondo/americalatina/2024/03/13/cresce-lallarme-in-brasile-oltre-15-milioni-i-casi-di-dengue_b1cb2bef-7502-4bef-b1f0-e388220dc451.html) (ANSA.it)
+
+- [Dengue e Chikungunya, nuova mappa del rischio in Italia](https://www.galileonet.it/dengue-e-chikungunya-nuova-mappa-del-rischio-in-italia/) (Galileonet.it)
 
 - [Secretaria de Saúde apresenta ações para enfrentar surto de arboviroses em MG](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/secretaria-de-saude-apresenta-acoes-para-enfrentar-surto-de-arboviroses-em-mg-12032024) (R7.com)
 
