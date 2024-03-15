@@ -1,8 +1,497 @@
 {
-  "last_updated": "2024-03-15 07:06",
-  "count_articles_total": 2183,
-  "count_articles_new": 21,
+  "last_updated": "2024-03-15 19:05",
+  "count_articles_total": 2203,
+  "count_articles_new": 27,
   "articles": [
+    {
+      "id": 6911,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Children in Peel Region risk catching measles due to low vaccination rates, warns doctor",
+      "description": "As the number of measles cases continue to rise across Ontario, a Peel Region doctor says parents should be wary of low vaccination rates and how that puts their children at risk for the highly contagious disease that can be fatal.",
+      "url": "https://www.cbc.ca/news/canada/toronto/peel-measles-vaccination-possible-outbreak-public-health-1.7142106",
+      "urlToImage": "https://i.cbc.ca/1.5404708.1708648198!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-california.jpg",
+      "publishedAt": "2024-03-14 17:37:09",
+      "content": "As the number of measles cases continue to rise across Ontario, a Peel Region doctor says parents should be wary of low vaccination rates and how that puts their children at risk for the highly conta\u2026 [+2687 chars]",
+      "retrievedAt": "2024-03-15 19:05:25.098635",
+      "internal_id": "c989dd0cb723e1b8ffb96cfc143f62c858950a8d9bcc55d99f627b24ab748246",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6912,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: Measles Outbreak \u2014 Cook County, Illinois, October\u2013November 2023",
+      "description": "This report describes a measles outbreak occurring in unvaccinated, vaccine-eligible children at an apartment complex in Cook County, Illinois.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7310a3.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7310a3_MeaslesOutbreakIllinois_14March2024_1200x675.jpeg?_=25072",
+      "publishedAt": "2024-03-14 17:20:06",
+      "content": "Summary What is already known about this topic? Measles is a highly contagious vaccine-preventable disease. In the United States, 2 doses of measles, mumps, and rubella (MMR) vaccine are recommende\u2026 [+12603 chars]",
+      "retrievedAt": "2024-03-15 19:05:25.124136",
+      "internal_id": "1bfefedc2de17e376145b170c0f499b5e2ca7345789703c815a4d5bd9d794d96",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6932,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Erratum: Vol. 72, No. 36",
+      "description": "Erratum for MMWR Vo. 72, No. 36",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7310a4.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7310a4_Erratum_IMAGE_14March2024_1200x675.jpg?_=42307",
+      "publishedAt": "2024-03-14 17:20:06",
+      "content": "The report, \u201cReduced Odds of Mpox-Associated Hospitalization Among Persons Who Received JYNNEOS Vaccine \u2014 California, May 2022\u2013May 2023\u201d contained several errors. On page 994, in Table 1, the total \u2026 [+2143 chars]",
+      "retrievedAt": "2024-03-15 19:05:27.653744",
+      "internal_id": "d1df8b208dedbca402631bf6eaf885998d8400a29e4a968b937d0b9544d4d2a8",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6914,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Joan Guix",
+      "title": "Si no nos vacunamos, esto puede acabar muy mal",
+      "description": "Algunas enfermedades infecciosas que consider\u00e1bamos pr\u00e1cticamente erradicadas de Europa est\u00e1n resurgiendo. El sarampi\u00f3n, que se consideraba eliminado en Europa, en un a\u00f1o se ha incrementado en un 30% en la Uni\u00f3n Europea con brotes importantes en Ruman\u00eda y en \u2026",
+      "url": "https://www.elperiodico.com/es/opinion/20240314/vacunamos-acabar-mal-articuo-joan-guix-99488431",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/7968170c-50c5-4931-9eb5-5f0c2406c087_alta-libre-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-03-14 17:03:34",
+      "content": "Algunas enfermedades infecciosas que consider\u00e1bamos pr\u00e1cticamente erradicadas de Europa est\u00e1n resurgiendo. El sarampi\u00f3n, que se consideraba eliminado en Europa, en un a\u00f1o se ha incrementado en un 30%\u2026 [+4255 chars]",
+      "retrievedAt": "2024-03-15 19:05:25.286505",
+      "internal_id": "d51d66e8cca7ae94476db0eba3ac360d081b392c61dbbb03a9e8c08b33d1c90a",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6921,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ansa, Ansa",
+      "title": "Mudan\u00e7as clim\u00e1ticas podem disseminar dengue, alerta estudo da UE",
+      "description": "Temperaturas do sul da Europa j\u00e1 permitem transmiss\u00e3o da doen\u00e7a",
+      "url": "https://ultimosegundo.ig.com.br/meioambiente/2024-03-14/mudancas-climaticas-podem-disseminar-dengue--alerta-estudo-da-ue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
+      "publishedAt": "2024-03-14 16:57:42",
+      "content": "A Avalia\u00e7\u00e3o Europeia dos Riscos Clim\u00e1ticos (Eucra), primeiro relat\u00f3rio elaborado por uma ag\u00eancia da Uni\u00e3o Europeia sobre os riscos associados \u00e0s mudan\u00e7as clim\u00e1ticas, alerta que essa quest\u00e3o pode prop\u2026 [+1289 chars]",
+      "retrievedAt": "2024-03-15 19:05:26.254461",
+      "internal_id": "bfd28ec3b7030d2843b6479a8a4c50d12e42b0f7e735ff68ac70fe9c9a2f89d5",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6920,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "An\u00e1polis (GO) intensifica fiscaliza\u00e7\u00f5es de descarte irregular de lixo",
+      "description": "Al\u00e9m dos danos ambientais, res\u00edduos descartados de forma irregular podem servir como criadouros para o mosquito da dengue em An\u00e1polis",
+      "url": "https://www.metropoles.com/brasil/anapolis-go-intensifica-fiscalizacoes-de-descarte-irregular-de-lixo",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/01/05184928/descarte-lixo-anapolis.jpeg",
+      "publishedAt": "2024-03-14 16:31:17",
+      "content": "Goi\u00e2nia O munic\u00edpio de An\u00e1polis, a cerca de 55 km da capital goiana, intensificou, neste m\u00eas de mar\u00e7o, as fiscaliza\u00e7\u00f5es para identificar locais com descarte irregular de lixo na cidade. Por meio de u\u2026 [+2249 chars]",
+      "retrievedAt": "2024-03-15 19:05:26.217733",
+      "internal_id": "92970df6f07586eea9c7a301c74e8f9d91942c67c00284192d22bcdd12ceb685",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6908,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Ahmad Austin Jr.",
+      "title": "The Daily Show Shreds Aaron Rodgers for Considering a VP Run With RFK: \u2018We Know Who The Measles Is Voting For This November\u2019",
+      "description": "Comedian Michael Kosta joked on a recent episode of The Daily Show that Robert F. Kennedy and Aaron Rodgers on the same ticket would be a win for the measles. The post The Daily Show Shreds Aaron Rodgers for Considering a VP Run With RFK: \u2018We Know Who The Mea\u2026",
+      "url": "https://www.mediaite.com/sports/the-daily-show-shreds-aaron-rodgers-for-considering-a-vp-run-with-rfk-we-know-who-the-measles-is-voting-for-this-november/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/03/Screenshot-2024-03-14-at-11.41.40\u202fAM-e1710431025339.png",
+      "publishedAt": "2024-03-14 16:07:43",
+      "content": "Comedian Michael Kosta joked on a recent episode of The Daily Show that Robert F. Kennedy and Aaron Rodgers on the same ticket would be a win for the measles. Kennedy\u2019s campaign on Tuesday confirmed\u2026 [+1237 chars]",
+      "retrievedAt": "2024-03-15 19:05:25.054414",
+      "internal_id": "0f4b9c609628e05a15d6871d1824e88ee0fc76ccb43d3cd7acdd9b0420cd5c87",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6922,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Sony Salzman",
+      "title": "The growing threat of fungal infections",
+      "description": "Fungal infections kill an estimated 1.7 million people worldwide per year.",
+      "url": "https://abcnews.go.com/Health/growing-threat-fungal-infections/story?id=108116880",
+      "urlToImage": "https://i.abcnewsfe.com/a/f2845b57-6b3d-425f-a058-1087d4f1ce4f/fungus-1-rf-gty-bb-240314_1710419582519_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-14 15:51:50",
+      "content": "\"Killer fungus\" may sound like science fiction, but fungal infections kill an estimated 1.7 million people worldwide per year -- more than tuberculosis or malaria. Now, driven by climate change, pop\u2026 [+4040 chars]",
+      "retrievedAt": "2024-03-15 19:05:26.901817",
+      "internal_id": "2e392f4f02b974b4ea37ef208557131239b1811decaae8fbcbb0c929ffa25311",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6923,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "Kay Smythe",
+      "title": "Ancient Roman Skeleton Reveals Secrets Of Malaria\u2019s Entry To Europe",
+      "description": "A study published Wednesday described how researchers have sequenced a genome of the deadliest form of malaria, found in an ancient Roman skeleton.",
+      "url": "https://dailycaller.com/2024/03/14/ancient-roman-skeleton-reveals-secrets-to-one-of-humanitys-greatest-plagues-malaria/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/03/GettyImages-1214738328-scaled-e1710424555456.jpg",
+      "publishedAt": "2024-03-14 14:47:28",
+      "content": "A study published Wednesday described how researchers have sequenced a genome of the deadliest form of malaria, found in an ancient Roman skeleton. The study sought to determine the mitochondrial ge\u2026 [+2026 chars]",
+      "retrievedAt": "2024-03-15 19:05:26.905995",
+      "internal_id": "fd7c52adafc115b1f3b623627827dc6d12b68d7d50d6d58857fcabc79f71a7a2",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6933,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": null,
+      "title": "\u041d\u0430\u0439\u0434\u0435\u043d\u0430 \u0441\u0430\u043c\u0430\u044f \u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0431\u0440\u0430\u0442\u0441\u043a\u0430\u044f \u043c\u043e\u0433\u0438\u043b\u0430 \u0432 \u0415\u0432\u0440\u043e\u043f\u0435",
+      "description": "\u0412 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438 \u0438\u0437 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0430 IN TERRA VERITAS \u043f\u0440\u0438 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0438 \u0440\u0430\u0441\u043a\u043e\u043f\u043e\u043a \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u044e\u0440\u043d\u0431\u0435\u0440\u0433\u0435 \u043d\u0430 \u044e\u0433\u0435 \u0441\u0442\u0440\u0430\u043d\u044b \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u043c\u0430\u0441\u0441\u043e\u0432\u044b\u0435 \u0437\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u044f, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0435 \u043e\u0441\u0442\u0430\u043d\u043a\u0438 \u0431\u043e\u043b\u0435\u0435 1000 \u0447\u0435\u043b\u043e\u0432\u0435\u043a",
+      "url": "https://rg.ru/2024/03/14/bratskaia-mogila.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2024/03/14/bolshaya-mogila_e1c.jpg",
+      "publishedAt": "2024-03-14 14:45:52",
+      "content": "IN TERRA VERITAS , 1000 . Heritage Daily, , . , , , XV-XVII . IN TERRA VERITAS , , . , \" \" - , 1533 1634 . , Yersinia pestis. . , . 80 . \" XVI XVII - , , - . - , , , \". , , , , . . . , . ,\u2026 [+11 chars]",
+      "retrievedAt": "2024-03-15 19:05:28.511072",
+      "internal_id": "09f2f960baaea0d3c78ac941de17cc2cdbdcbaaa59675071483966f75b6d7171",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6909,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Shauna Bowers",
+      "title": "Measles: Four confirmed cases of disease now in State",
+      "description": "Health authorities concerned over ongoing outbreaks in the UK and across Europe",
+      "url": "https://www.irishtimes.com/health/2024/03/14/measles-four-confirmed-cases-of-the-disease-now-in-the-state/",
+      "urlToImage": "https://www.irishtimes.com/resizer/2FRRtiHoofVaAK6D8UIcYmQUFJU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LOHZA6ZYONENBAMS7UGMYRXSAI.jpg",
+      "publishedAt": "2024-03-14 14:33:29",
+      "content": "There have been four confirmed cases of measles in Ireland this year, according to the latest official figures from the States infectious diseases watchdog. The Health Protection Surveillance Centre\u2026 [+2082 chars]",
+      "retrievedAt": "2024-03-15 19:05:25.074114",
+      "internal_id": "5a53be9e347380432a0e862b6cde0e1cef39b28d5219cfd78c23746afb9f6d0a",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6931,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "LOUIS PATRICK OKAMBA Associated Press",
+      "title": "Republic Of Congo reports first mpox virus cases in several regions",
+      "description": "The health ministry says the Republic of Congo has recorded its first cases of mpox in several regions",
+      "url": "https://abcnews.go.com/International/wireStory/republic-congo-reports-mpox-virus-cases-regions-108116164",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-03-14 14:22:03",
+      "content": "BRAZZAVILLE, Republic of Congo -- The Republic of Congo has recorded its first cases of mpox in several regions, the health ministry said, an indication of how the disease may be spreading across Afr\u2026 [+1596 chars]",
+      "retrievedAt": "2024-03-15 19:05:27.645615",
+      "internal_id": "ec5a173c2bd2dbe0158531fd1f5804481106e01a8d713b5aace48a64db1dcab3",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6907,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "A\u2019aisah Senin, Noorliza M. Noordin, Jamiatul A. M. Sani, Diana Mahat, Morgane Donadel, Heather M. Scobie, Aziyati Omar, Yu K. Chem, Mohamad I. Zahari, Fatanah Ismail, Rozita A. Rahman, Hani M. Hussin, Sengol Selvanesan, Zirwatul A. Aziz, W. N. Afiza W. M. Arifin, Rehan S. A. Bakar, Norhayati Rusli, M. Hanif Zailani, Paul Soo, Ying-Ru Lo, Varja Grabovac, Paul A. Rota, Mick N. Mulders, David Featherstone, Lenesha Warrener, David W. Brown",
+      "title": "A measles IgM rapid diagnostic test to address challenges with national measles surveillance and response in Malaysia",
+      "description": "Introduction A lateral flow rapid diagnostic test (RDT) enables detection of measles specific immunoglobulin M (IgM) antibody in serum, capillary blood, and oral fluid with accuracy consistent with enzyme immunoassay (EIA). The objectives of the study were: 1\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298730",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0298730.t004&size=inline",
+      "publishedAt": "2024-03-14 14:00:00",
+      "content": "Abstract Introduction A lateral flow rapid diagnostic test (RDT) enables detection of measles specific immunoglobulin M (IgM) antibody in serum, capillary blood, and oral fluid with accuracy consis\u2026 [+43886 chars]",
+      "retrievedAt": "2024-03-15 19:05:25.032519",
+      "internal_id": "9005aabbd370afc00dd695c551e6f642ca91a0ce5863ade45f11f403c94c99be",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6919,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "A. K. M. Moyeenul Huq, Miah Roney, Amit Dubey, Muhammad Hassan Nasir, Aisha Tufail, Mohd Fadhlizil Fasihi Mohd Aluwi, Wan Maznah Wan Ishak, Md. Rabiul Islam, Saiful Nizam Tajuddin",
+      "title": "Phenolic compounds of Theobroma cacao L. show potential against dengue RdRp protease enzyme inhibition by In-silico docking, DFT study, MD simulation and MMGBSA calculation",
+      "description": "Background Currently, there is no antiviral medication for dengue, a potentially fatal tropical infectious illness spread by two mosquito species, Aedes aegypti and Aedes albopictus. The RdRp protease of dengue virus is a potential therapeutic target. This st\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299238",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0299238.g012&size=inline",
+      "publishedAt": "2024-03-14 14:00:00",
+      "content": "Citation: Huq AKMM, Roney M, Dubey A, Nasir MH, Tufail A, Aluwi MFFM, et al. (2024) Phenolic compounds of Theobroma cacao L. show potential against dengue RdRp protease enzyme inhibition by In-silico\u2026 [+38719 chars]",
+      "retrievedAt": "2024-03-15 19:05:26.201061",
+      "internal_id": "7fda468cac9c91196f30de248c0357bca7d4318163b86853951a27f0a1964172",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6924,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Emma L. Davis, T. D\u00e9irdre Hollingsworth, Matt J. Keeling",
+      "title": "An analytically tractable, age-structured model of the impact of vector control on mosquito-transmitted infections",
+      "description": "Author summary Parity is a term used to describe the number of feeding and egg-laying cycles (or gonotrophic cycles) a mosquito has completed. The parity of a mosquito is an important factor when considering vector-borne infectious diseases, since it takes at\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011440",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1011440.g005&size=inline",
+      "publishedAt": "2024-03-14 14:00:00",
+      "content": "Abstract Vector control is a vital tool utilised by malaria control and elimination programmes worldwide, and as such it is important that we can accurately quantify the expected public health impac\u2026 [+50883 chars]",
+      "retrievedAt": "2024-03-15 19:05:26.912705",
+      "internal_id": "f46ec6598fa366657aeac452166df73c83ee188893dfbe60562bfbe307ff489c",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6925,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Md Nurul Anwar, Lauren Smith, Angela Devine, Somya Mehra, Camelia R. Walker, Elizabeth Ivory, Eamon Conway, Ivo Mueller, James M. McCaw, Jennifer A. Flegg, Roslyn I. Hickson",
+      "title": "Mathematical models of Plasmodium vivax transmission: A scoping review",
+      "description": "Author summary Malaria is a mosquito-borne disease and causes significant morbidity and mortality. P. vivax is one of the five species that cause malaria and the parasites can stay hidden within the human liver after an infection from an infected mosquito bit\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011931",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1011931.g002&size=inline",
+      "publishedAt": "2024-03-14 14:00:00",
+      "content": "1 Introduction Malaria remains a significant public health problem, with an estimated 247 million cases and 619,000 deaths reported worldwide in 2021 alone [1]. Malaria is most prevalent in the Worl\u2026 [+57415 chars]",
+      "retrievedAt": "2024-03-15 19:05:26.927686",
+      "internal_id": "44f0898e04ea8330ca342613de079a3fc7192b776f0a215bd45224e9de492839",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6926,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Cameron P. Simmons, Wesley Donald, Lekon Tagavi, Len Tarivonda, Timothy Quai, Raynelyn Tavoa, Tebikau Noran, Erirau Manikaoti, Lavinia Kareaua, Tabomoa Tinte Abwai, Dip Chand, Vineshwaran Rama, Vimal Deo, Kharishma Karti Deo, Aminiasi Tavuii, Wame Valentine, Ravi Prasad, Eremasi Seru, Leikitah Naituku, Anaseini Ratu, Mark Hesketh, Nichola Kenny, Sarah C. Beebe, Anjali A. Goundar, Andrew McCaw, Molly Buntine, Ben Green, Tibor Frossard, Jeremie R. L. Gilles, D. Albert Joubert, Geoff Wilson, Le Quyen Duong, Jean B Bouvier, Darren Stanford, Carolyn Forder, Johanna M. Duyvestyn, Etiene C. Pacid\u00f4nio, Heather A. Flores, Natalie Wittmeier, Kate Retzki, Peter A. Ryan, Jai A. Denton, Ruth Smithyman, Stephanie K. Tanamas, Peter Kyrylos, Yi Dong, Anam Khalid, Lauren Hodgson, Katherine L. Anders, Scott L. O\u2019Neill",
+      "title": "Successful introgression of wMel Wolbachia into Aedes aegypti populations in Fiji, Vanuatu and Kiribati",
+      "description": "Author summary For decades, dengue, Zika and chikungunya have been public health issues across the Pacific Island region. Aedes aegypti mosquitoes are considered most responsible for the transmission of dengue between people. The introduction of a bacteria ca\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012022",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012022.g008&size=inline",
+      "publishedAt": "2024-03-14 14:00:00",
+      "content": "Ethics statement Monash University Human Research Ethics (permit #3093) approved the blood feeding of mosquitoes on the on the arms or legs of consenting adult human volunteers (residents of Melbour\u2026 [+28666 chars]",
+      "retrievedAt": "2024-03-15 19:05:27.309102",
+      "internal_id": "8f84c437e4ff6903e04cc644bfe1cc915ca4cd1f85e8d9efa44690fa4380d773",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6928,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nathalia Zini, Matheus Henrique Tavares \u00c1vila, Natalia Morbi Cezarotti, Maisa Carla Pereira Parra, Cec\u00edlia Artico Banho, Livia Sacchetto, Andreia Francesli Negri, Emerson Ara\u00fajo, Cintia Bittar, Bruno Henrique Gon\u00e7alves de Aguiar Milhin, Victor Miranda Hernandes, Karina Rocha Dutra, Leonardo Agopian Trigo, Leonardo Cec\u00edlio da Rocha, Rafael Alves da Silva, Gislaine Celestino Dutra da Silva, Tamires Fernanda Pereira dos Santos, Beatriz de Carvalho Marques, Andresa Lopes dos Santos, Marcos Tayar Augusto, Natalia Franco Bueno Mistr\u00e3o, Milene Rocha Ribeiro, Tauyne Menegaldo Pinheiro, Thayza Maria Izabel Lopes dos Santos, Clarita Maria Secco Avilla, Victoria Bernardi, Caroline Freitas, Flora de Andrade Gandolfi, H\u00e9lio Correa Ferraz J\u00fanior, Gabriela Camilotti Perim, Mirella Cezare Gomes, Pedro Henrique Carrilho Garcia, Rodrigo Sborghi Rocha, Tayna Manfrin Galv\u00e3o, Eliane Aparecida F\u00e1varo, Samuel Noah Scamardi, Karen Sanmartin Rogovski, Renan Luiz Peixoto, Luiza Benfatti, Leonardo Teixeira Cruz, Paula Patricia de Freitas Chama, M\u00e2nlio Tasso Oliveira, Aripuan\u00e3 Sakurada Aranha Watanabe, Ana Carolina Bernardes Terzian, Alice de Freitas Versiani, Margareth Regina Dibo, Francisco Chiaravalotti-Neto, Scott Cameron Weaver, Cassia Fernanda Estofolete, Nikos Vasilakis, Mauricio Lacerda Nogueira",
+      "title": "Cryptic circulation of chikungunya virus in S\u00e3o Jose do Rio Preto, Brazil, 2015\u20132019",
+      "description": "Author summary Chikungunya virus (CHIKV) circulation has been causing large epidemics throughout the tropics and subtropics, affecting the quality of life of the global population. Additionally, the asymptomatic or subclinical case numbers are unclear due to \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012013",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012013.g006&size=inline",
+      "publishedAt": "2024-03-14 14:00:00",
+      "content": "Introduction Chikungunya virus (CHIKV) is an arbovirus first isolated in Tanzania in 1952. Four lineages of CHIKV have been identified: West African (WA), East-Central-South African (ECSA), Asian, a\u2026 [+49939 chars]",
+      "retrievedAt": "2024-03-15 19:05:27.509785",
+      "internal_id": "c6b47a275bcf90ea868af5242589dc1abaf7c0547e925a5c09cb5e256968353c",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6929,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Brian C. Ware, M. Guston Parks, Mariana O. L. da Silva, Thomas E. Morrison",
+      "title": "Chikungunya virus infection disrupts MHC-I antigen presentation via nonstructural protein 2",
+      "description": "Author summary Arthritogenic alphaviruses, including chikungunya virus (CHIKV), are re-emerging global public health threats with no approved vaccines or antiviral therapies. Infection with these viruses causes debilitating musculoskeletal disease for months \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011794",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011794.g009&size=inline",
+      "publishedAt": "2024-03-14 14:00:00",
+      "content": "Abstract Infection by chikungunya virus (CHIKV), a mosquito-borne alphavirus, causes severe polyarthralgia and polymyalgia, which can last in some people for months to years. Chronic CHIKV disease s\u2026 [+75785 chars]",
+      "retrievedAt": "2024-03-15 19:05:27.513818",
+      "internal_id": "04667381dd76e943ba7a548f6712c240dda8ba8d34b55b691f4752332da3c9bf",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6930,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "LOUIS PATRICK OKAMBA",
+      "title": "Republic Of Congo reports first mpox virus cases in several regions",
+      "description": "The Republic of Congo has recorded its first cases of mpox in several regions, the health ministry said, an indication of how the disease may be spreading across Africa since sexual transmission was first confirmed on the continent last year.",
+      "url": "https://www.startribune.com/republic-of-congo-reports-first-mpox-virus-cases-in-several-regions/600351026/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1710358021",
+      "publishedAt": "2024-03-14 13:58:01",
+      "content": "World600351026 The Republic of Congo has recorded its first cases of mpox in several regions, the health ministry said, an indication of how the disease may be spreading across Africa since sexual tr\u2026 [+1981 chars]",
+      "retrievedAt": "2024-03-15 19:05:27.641707",
+      "internal_id": "fa0ad3e848432ced78b3f091514da589f86acbd9febad0019f227668972b74c8",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6913,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC notifica 2.361 casos de sarampi\u00f3n en la UE durante 2023, frente a 127 en 2022",
+      "description": "Un total de 23 Estados Miembros de la Uni\u00f3n Europea (UE) y del Espacio Econ\u00f3mico Europeo (EEE) notificaron 2.361 casos de sarampi\u00f3n al Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC por su siglas en ingl\u00e9s) en 2023, frente a 127 notifica\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-2361-casos-sarampion-ue-2023-frente-127-2022-20240314135304.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240314135304_1200.jpg",
+      "publishedAt": "2024-03-14 12:53:04",
+      "content": "MADRID, 14 Mar. (EUROPA PRESS) - Un total de 23 Estados Miembros de la Uni\u00f3n Europea (UE) y del Espacio Econ\u00f3mico Europeo (EEE) notificaron 2.361 casos de sarampi\u00f3n al Centro Europeo para la Preve\u2026 [+2167 chars]",
+      "retrievedAt": "2024-03-15 19:05:25.282177",
+      "internal_id": "de82a7189a2131135240c46ebbc27261d1c2348f9525ded08732e2c3f5cf90fa",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6917,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Dagospia.com",
+      "author": null,
+      "title": "LA PANDEMIA VIEN RONZANDO \u2013 IN BRASILE LA DENGUE DILAGA OLTRE OGNI PREVISIONE: SI STIMANO 5 MILIONI DI CONTAGI. MA LE ZANZARE STANNO DIFFONDENDO VELOCEMENTE NEGLI ESSERI UMANI ANCHE ZIKA E CHIKUNGUNYA \u2013 SALE IL LIVELLO DI ALLERTA IN ITALIA, DOVE LA DENGUE \u00c8 GI\u00c0 ARRIVATA: SCATTA LA DISIFESTAZIONE DEGLI AEREI E DELLE NAVI PROVENIENTI DAL SUDAMERICA E I CONTROLLI SUI VIAGGIATORI IN ARRIVO DAI PAESI TROPICALI\u2026",
+      "description": "Estratto dell\u2019articolo di Mauro Evangelisti per \u201cIl Messaggero\u201d EMERGENZA DENGUE IN BRASILE \u00abIl Brasile affronta un picco storico di casi di Dengue\u00bb titolava l'altro giorno il quotidiano O Globo. \u00abIl Brasile conta 19.540 casi al giorno\u00bb, scrive un altro quo\u2026",
+      "url": "https://www.dagospia.com/rubrica-39/salute/pandemia-vien-ronzando-ndash-brasile-dengue-dilaga-oltre-ogni-388171.htm",
+      "urlToImage": "https://cdn-static.dagospia.com/img/patch/03-2024/dengue-brasile-1965182.jpg",
+      "publishedAt": "2024-03-14 11:30:00",
+      "content": "Estratto dell\u2019articolo di Mauro Evangelisti per \u201cIl Messaggero\u201d EMERGENZA DENGUE IN BRASILE \u00abIl Brasile affronta un picco storico di casi di Dengue\u00bb titolava l'altro giorno il quotidiano O Globo. \u00ab\u2026 [+4743 chars]",
+      "retrievedAt": "2024-03-15 19:05:26.183930",
+      "internal_id": "4b32a8e1f40f724ccf01459f7fb22baad3e30175b87443656450056ed9563a41",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6915,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Dylan Scott",
+      "title": "The tropical disease that\u2019s suddenly everywhere",
+      "description": "Tropical diseases are no longer just a problem for the Global South. They\u2019re everywhere.",
+      "url": "https://www.vox.com/future-perfect/24099834/dengue-fever-virus-mosquito-brazil-vaccine",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QwwkeNsKtij6aO9HAR-8H2LmvDc=/0x17:3500x1849/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25334450/GettyImages_2025570876.jpg",
+      "publishedAt": "2024-03-14 10:00:00",
+      "content": "A health worker sprays insecticide against the Aedes aegypti mosquito to combat the spread of dengue in Brazil. | Andressa Anholete/Getty Images Dengue is erupting in South America \u2014 and has ev\u2026 [+10690 chars]",
+      "retrievedAt": "2024-03-15 19:05:26.147188",
+      "internal_id": "628430a62b5b4994018b2672e91d4ab724cf58e8713eaa242903b57e50f59cb5",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6918,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Esper Georges Kall\u00e1s, Diretor do Instituto Butantan e Professor Titular do Departamento de Mol\u00e9stias Infecciosas e Parasit\u00e1rias, Faculdade de Medicina da USP (FMUSP)",
+      "title": "Dengue: Brazilian single-dose vaccine could help turn tide in the fight against fever",
+      "description": "A new single dose vaccine is expected to be registered with the country\u2019s national health agency by the second half of this year.",
+      "url": "https://theconversation.com/dengue-brazilian-single-dose-vaccine-could-help-turn-tide-in-the-fight-against-fever-225398",
+      "urlToImage": "https://images.theconversation.com/files/580719/original/file-20240305-24-yv55d.png?ixlib=rb-1.1.0&rect=11%2C5%2C1975%2C986&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-03-14 09:58:53",
+      "content": "Dengue, caused by the virus transmitted by the bite of the female Aedes aegypti mosquito and, to a lesser extent, the Aedes albopictus mosquito, is an acute illness characterized mainly by high fever\u2026 [+5049 chars]",
+      "retrievedAt": "2024-03-15 19:05:26.187878",
+      "internal_id": "27202b516f8455f82c025567bd2c2ff02f0f8b7ab85f6c44193b0259077b2d0b",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6916,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Europa Press",
+      "title": "Alrededor del 40% de la poblaci\u00f3n mundial est\u00e1 en riesgo de tener dengue",
+      "description": "El jefe de Servicio de Salud Internacional del Hospital Cl\u00ednic e investigador del Instituto de Salud Global de Barcelona, el doctor Jos\u00e9 Mu\u00f1oz, ha se\u00f1alado \"m\u00e1s o menos...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/2024/03/14/65f2bc7bfc6c8343228b459d.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/b880987c5ab81a50927df6ebc42adc1d/crop/0x0/2776x1851/resize/1200/f/webp/assets/multimedia/imagenes/2024/03/14/17104076565160.jpg",
+      "publishedAt": "2024-03-14 09:21:00",
+      "content": "El jefe de Servicio de Salud Internacional del Hospital Cl\u00ednic e investigador del Instituto de Salud Global de Barcelona, el doctor Jos\u00e9 Mu\u00f1oz, ha se\u00f1alado \"m\u00e1s o menos se considera que el 40% de la \u2026 [+5988 chars]",
+      "retrievedAt": "2024-03-15 19:05:26.152582",
+      "internal_id": "0b91720eef3a2798a5f55a2e5304f2d429474c444a9d612ea34f205f67d5551b",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6910,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Hamilton child isolating at home after catching measles overseas: public health",
+      "description": "Officials say travellers at Toronto Pearson International Airport on March 5 may have been exposed after the child travelled back to Ontario.",
+      "url": "https://www.cbc.ca/news/canada/hamilton/measles-confirmed-case-1.7143109",
+      "urlToImage": "https://i.cbc.ca/1.7110648.1707503678!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-vaccine.jpg",
+      "publishedAt": "2024-03-14 08:00:00",
+      "content": "Travellers at Toronto Pearson International Airport on March 5 may have been exposed to the measles after an Ontario child caught the contagious disease on a trip overseas, says Hamilton Public Healt\u2026 [+2926 chars]",
+      "retrievedAt": "2024-03-15 19:05:25.091518",
+      "internal_id": "41a80df6ced28c81b0f4b7e2cc6198dec0e3f96ce65dd124ae609a141ae25824",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6927,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Nayra Teles",
+      "title": "O que est\u00e1 por tr\u00e1s das mortes por chikungunya? Estudo explica",
+      "description": "Pesquisa investigou quais s\u00e3o os mecanismos do v\u00edrus da chikungunya que podem levar ao \u00f3bito. Entenda! O post O que est\u00e1 por tr\u00e1s das mortes por chikungunya? Estudo explica apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/03/14/medicina-e-saude/o-que-esta-por-tras-das-mortes-por-chikungunya-estudo-explica/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/aedes_aegypti_dengue_zika_chikungunya-695x500.jpg",
+      "publishedAt": "2024-03-14 08:00:00",
+      "content": "O v\u00edrus da chikungunya circula pelo Brasil h\u00e1 pelo menos dez anos e, durante esse tempo, fez centenas de v\u00edtimas. Um novo estudo investigou como a doen\u00e7a se desenvolve para casos mais graves e por me\u2026 [+2088 chars]",
+      "retrievedAt": "2024-03-15 19:05:27.488695",
+      "internal_id": "1ad066f9174b218d7daf9a86a86898c6fff6cafabb83396759d397248368c213",
+      "publishedAtLabel": "Mar 14"
+    },
     {
       "id": 6906,
       "query": [
@@ -39270,132 +39759,6 @@
       "content": "O cen\u00e1rio epidemiol\u00f3gico da dengue colocou Manaus, capital do Amazonas, em estado de alerta. Neste s\u00e1bado (28), a Secretaria Municipal de Sa\u00fade (Semsa) divulgou um comunicado alertando que o n\u00famero\u2026 [+1024 chars]",
       "retrievedAt": "2024-01-30 07:05:32.093157",
       "internal_id": "0f22a74a61ed86e16fe91b15851b02255500a3e4039e52e836b319453dc5fc8b",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4733,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Minist\u00e9rio da Sa\u00fade divulga lista de cidades receber\u00e3o vacina contra a dengue",
-      "description": "Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha",
-      "url": "https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2024/01/vacina.jpg",
-      "publishedAt": "2024-01-28 18:52:03",
-      "content": "\u00daltimas not\u00edcias: Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha contra a dengue. Essas localida\u2026 [+1333 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.164251",
-      "internal_id": "72f1c569ace4975365295b27438b1ddeb3d269bcb72c9ef4f1249631bb66b727",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4724,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Casos de dengue sobem 26% no Estado de SP e secretaria j\u00e1 confirma quatro mortes no ano",
-      "description": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-01-28 16:22:57",
-      "content": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 a terceira semana epidemiol\u00f3gica de 2024 (com dados at\u00e9 o dia 20 de janeiro). O n\u00famero representa uma a\u2026 [+2557 chars]",
-      "retrievedAt": "2024-01-29 19:05:24.425804",
-      "internal_id": "1efaf5d5cb0f6f21d5e730c2c8175b5ae58fc4506ebcccf031f21bb998267521",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4723,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Viomundo.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue",
-      "description": "Minist\u00e9rio da Sa\u00fade, Conass e Conasems em nota O post Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue apareceu primeiro em Viomundo.",
-      "url": "https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html",
-      "urlToImage": "https://www.viomundo.com.br/wp-content/uploads/2024/01/ac044d91-3312-4a01-8f23-57c8980ce5fa.png",
-      "publishedAt": "2024-01-28 15:48:17",
-      "content": "NOTA CONJUNTA Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios unem esfor\u00e7os para a\u00e7\u00f5es de enfrentamento da dengue Desde o ano passado, o Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios est\u00e3o em constante monit\u2026 [+3677 chars]",
-      "retrievedAt": "2024-01-29 19:05:24.273642",
-      "internal_id": "9ccb2fb3a9cdbdb34473a05ea403c8a78a3c0a2303e1a82061b629129f30f128",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4732,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Clar\u00edn",
-      "author": "Ernesto Azarkevich",
-      "title": "Una beba de tres meses muri\u00f3 por dengue en Misiones",
-      "description": "Lleg\u00f3 a la guardia de un hospital con fiebre y fue derivada a terapia intensiva, pero no lograron estabilizarla.Es la v\u00edctima m\u00e1s joven del brote que ya caus\u00f3 9 muertes en la provincia.",
-      "url": "https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html",
-      "urlToImage": "https://www.clarin.com/img/2023/12/21/jMTZGJwoe_2000x1500__1.jpg",
-      "publishedAt": "2024-01-28 15:42:04",
-      "content": "Una beba de tres mesesmuri\u00f3 por dengue en Misiones y es la novena v\u00edctima en la provincia desde mediados de diciembre pasado. En la \u00faltima semana el sistema de salud report\u00f3 m\u00e1s de 2.600 cuadros febr\u2026 [+2602 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.160802",
-      "internal_id": "0b0fd0ee4e9094077b576368a8240cfa981b0137e588cc37f6755d414211ce93",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4730,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "F\u00e1bio Andrighetto",
-      "title": "Dengue no RJ dispara 587%, com mais de 9 mil casos em tr\u00eas semanas",
-      "description": "O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u00f5es, um n\u00famero que j\u00e1 supera a m\u00e9dia hist\u00f3rica para todo o m\u00eas. A situa\u00e7\u00e3o \u00e9 pr\u2026",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2021/02/istock-599881744.jpg",
-      "publishedAt": "2024-01-28 14:52:50",
-      "content": "\u00daltimas not\u00edcias: O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u2026 [+1806 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.154107",
-      "internal_id": "0892f851bd02e76d6fa09494c2842a3c71a097424b8424d17f9b43374e601a1c",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4722,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "TheJournal.ie",
-      "author": "Mairead Maguire",
-      "title": "HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK",
-      "description": "Health officials in Ireland are keeping \u201cvery close watch\u201d as the number of cases have risen around Europe too.",
-      "url": "https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/",
-      "urlToImage": "https://img2.thejournal.ie/article/6283808/river/?height=400&version=6283810",
-      "publishedAt": "2024-01-28 14:40:52",
-      "content": "THE HSE HAS urged parents to make sure their children are vaccinated against measles, as the UK sees a spike in case numbers. The MMR vaccine protects against measles, mumps and rubella. In the UK\u2026 [+1711 chars]",
-      "retrievedAt": "2024-01-29 19:05:23.759567",
-      "internal_id": "62113caca466ead9afe1e1ae2e5c7d8f6e2345410ae6ba1b02df0f5f2f12e05c",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4721,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Multi-language measles campaign launched",
-      "description": "London has the lowest percentage of children who have received both doses, experts say.",
-      "url": "https://www.bbc.co.uk/news/articles/cglmrrnm5d9o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2da6/live/135eb770-bc64-11ee-92a5-1d8f75943063.jpg",
-      "publishedAt": "2024-01-28 08:55:12",
-      "content": "Rhoda Ibrahim, from the Somali Advice and Forum of Information, told BBC Politics London: \"It's always the elderly men and women that don't speak English and it's also the mums. \"About 80% of the mu\u2026 [+683 chars]",
-      "retrievedAt": "2024-01-29 19:05:23.738701",
-      "internal_id": "e13bf1fb456bb23471488c6867b391bbf96b8bd03e39bbbb408ce79ebb92a0cd",
       "publishedAtLabel": "Jan 28"
     }
   ]

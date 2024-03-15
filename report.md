@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2024-03-15 07:06
-- **Most recent article:** 2024-03-14 07:00:00
+- **New articles in last harvest:** 27
+- **Last harvest:** 2024-03-15 19:05
+- **Most recent article:** 2024-03-14 17:37:09
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 105 | 173 | 216 | 191 | 188 | 207 | 1272 |
-| measles | 86 | 69 | 47 | 68 | 45 | 100 | 80 | 495 |
-| malaria | 15 | 12 | 24 | 35 | 19 | 33 | 17 | 155 |
-| chikungunya | 8 | 11 | 10 | 12 | 8 | 14 | 16 | 79 |
-| zika | 16 | 11 | 8 | 13 | 6 | 13 | 11 | 78 |
+| dengue | 192 | 112 | 168 | 216 | 191 | 188 | 207 | 1274 |
+| measles | 86 | 75 | 45 | 68 | 45 | 100 | 80 | 499 |
+| malaria | 15 | 16 | 24 | 35 | 19 | 33 | 17 | 159 |
+| chikungunya | 8 | 16 | 10 | 12 | 8 | 14 | 16 | 84 |
+| zika | 16 | 13 | 8 | 13 | 6 | 13 | 11 | 80 |
 | meningitis | 16 | 3 | 3 | 8 | 8 | 7 | 4 | 49 |
 | rabies | 6 | 5 | 7 | 7 | 9 | 5 | 8 | 47 |
-| sarampión | 3 | 1 | 6 | 5 | 4 | 11 | 5 | 35 |
-| mpox | 5 | 3 | 3 | 5 | 8 | 6 | 1 | 31 |
+| sarampión | 3 | 3 | 6 | 5 | 4 | 11 | 5 | 37 |
+| mpox | 5 | 6 | 3 | 5 | 8 | 6 | 1 | 34 |
 | pertussis | 4 | 3 | 3 | 2 | 6 | 0 | 4 | 22 |
+| yersinia | 1 | 2 | 0 | 1 | 2 | 1 | 1 | 8 |
 | typhoid | 0 | 0 | 2 | 1 | 2 | 2 | 1 | 8 |
-| yersinia | 1 | 1 | 0 | 1 | 2 | 1 | 1 | 7 |
 | leptospirosis | 0 | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
@@ -3146,10 +3146,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
 
-- [HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK](https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/) (TheJournal.ie)
-
-- [Multi-language measles campaign launched](https://www.bbc.co.uk/news/articles/cglmrrnm5d9o) (BBC News)
-
 ## 24-5 (malaria)
 
 - [Una vacuna de bajo coste previene los síntomas de la malaria en un 75 % de los casos](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/03/vacuna-bajo-coste-previene-sintomas-malaria-75-casos/0003_202402G3P32991.htm) (Lavozdegalicia.es)
@@ -3542,16 +3538,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
 
-- [Ministério da Saúde divulga lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
-
-- [Casos de dengue sobem 26% no Estado de SP e secretaria já confirma quatro mortes no ano](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html) (Terra.com.br)
-
-- [Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue](https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html) (Viomundo.com.br)
-
-- [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
-
-- [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
-
 ## 24-5 (chikungunya)
 
 - [Em São Paulo, número de casos de chikungunya sobe 830% em 2024](https://saude.ig.com.br/2024-02-03/aumento-de-casos-de-chikungunya-em-sao-paulo.html) (Ig.com.br)
@@ -3575,6 +3561,10 @@ Source: [News API](https://newsapi.org/)
 - [Governo de MG decreta estado de emergência pelo alto número de casos de dengue](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/governo-de-mg-decreta-estado-de-emergencia-pelo-alto-numero-de-casos-de-dengue-29012024) (R7.com)
 
 ## 24-11 (zika)
+
+- [Successful introgression of wMel Wolbachia into Aedes aegypti populations in Fiji, Vanuatu and Kiribati](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012022) (Plos.org)
+
+- [LA PANDEMIA VIEN RONZANDO – IN BRASILE LA DENGUE DILAGA OLTRE OGNI PREVISIONE: SI STIMANO 5 MILIONI DI CONTAGI. MA LE ZANZARE STANNO DIFFONDENDO VELOCEMENTE NEGLI ESSERI UMANI ANCHE ZIKA E CHIKUNGUNYA – SALE IL LIVELLO DI ALLERTA IN ITALIA, DOVE LA DENGUE È GIÀ ARRIVATA: SCATTA LA DISIFESTAZIONE DEGLI AEREI E DELLE NAVI PROVENIENTI DAL SUDAMERICA E I CONTROLLI SUI VIAGGIATORI IN ARRIVO DAI PAESI TROPICALI…](https://www.dagospia.com/rubrica-39/salute/pandemia-vien-ronzando-ndash-brasile-dengue-dilaga-oltre-ogni-388171.htm) (Dagospia.com)
 
 - [Cresce l'allarme in Brasile, oltre 1,5 milioni i casi di dengue](https://www.ansa.it/sito/notizie/mondo/americalatina/2024/03/13/cresce-lallarme-in-brasile-oltre-15-milioni-i-casi-di-dengue_b1cb2bef-7502-4bef-b1f0-e388220dc451.html) (ANSA.it)
 
@@ -3600,9 +3590,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (yersinia)
 
+- [Найдена самая большая братская могила в Европе](https://rg.ru/2024/03/14/bratskaia-mogila.html) (Rg.ru)
+
 - [Döbbenetes titkot rejt a valaha látott legnagyobb tömeges temetkezési hely](https://www.origo.hu/tudomany/2024/03/temetkezesi-hely-titkot-rejt-a-valaha-latott-legnagyobb-tomeges) (Origo.hu)
 
 ## 24-11 (sarampión)
+
+- [Si no nos vacunamos, esto puede acabar muy mal](https://www.elperiodico.com/es/opinion/20240314/vacunamos-acabar-mal-articuo-joan-guix-99488431) (Elperiodico.com)
+
+- [El ECDC notifica 2.361 casos de sarampión en la UE durante 2023, frente a 127 en 2022](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-2361-casos-sarampion-ue-2023-frente-127-2022-20240314135304.html) (Infosalus.com)
 
 - [Un hospital de California busca a 300 personas que podrían haber estado expuestas a una contagiosa enfermedad](https://www.lanacion.com.ar/estados-unidos/california/un-hospital-de-california-busca-a-300-personas-que-podrian-haber-estado-expuestas-a-una-contagiosa-nid11032024/) (La Nacion)
 
@@ -3628,6 +3624,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (mpox)
 
+- [Erratum: Vol. 72, No. 36](https://www.cdc.gov/mmwr/volumes/73/wr/mm7310a4.htm) (Cdc.gov)
+
+- [Republic Of Congo reports first mpox virus cases in several regions](https://abcnews.go.com/International/wireStory/republic-congo-reports-mpox-virus-cases-regions-108116164) (ABC News)
+
+- [Republic Of Congo reports first mpox virus cases in several regions](https://www.startribune.com/republic-of-congo-reports-first-mpox-virus-cases-in-several-regions/600351026/) (Minneapolis Star Tribune)
+
 - [Bavarian Nordic Receives Approval of Smallpox and Mpox Vaccine in Switzerland](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Receives-Approval-of-Smallpox-and-Mpox-Vaccine-in-Switzerland-46160168/) (Marketscreener.com)
 
 - [News24 | Mpox seems to be spreading via heterosexual contact in the DRC, according to research](https://www.news24.com/news24/africa/news/mpox-seems-to-be-spreading-via-heterosexual-contact-in-the-drc-according-to-research-20240313) (News24)
@@ -3643,6 +3645,18 @@ Source: [News API](https://newsapi.org/)
 - [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
 
 ## 24-11 (measles)
+
+- [Children in Peel Region risk catching measles due to low vaccination rates, warns doctor](https://www.cbc.ca/news/canada/toronto/peel-measles-vaccination-possible-outbreak-public-health-1.7142106) (CBC News)
+
+- [Notes from the Field: Measles Outbreak — Cook County, Illinois, October–November 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7310a3.htm) (Cdc.gov)
+
+- [The Daily Show Shreds Aaron Rodgers for Considering a VP Run With RFK: ‘We Know Who The Measles Is Voting For This November’](https://www.mediaite.com/sports/the-daily-show-shreds-aaron-rodgers-for-considering-a-vp-run-with-rfk-we-know-who-the-measles-is-voting-for-this-november/) (Mediaite)
+
+- [Measles: Four confirmed cases of disease now in State](https://www.irishtimes.com/health/2024/03/14/measles-four-confirmed-cases-of-the-disease-now-in-the-state/) (The Irish Times)
+
+- [A measles IgM rapid diagnostic test to address challenges with national measles surveillance and response in Malaysia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298730) (Plos.org)
+
+- [Hamilton child isolating at home after catching measles overseas: public health](https://www.cbc.ca/news/canada/hamilton/measles-confirmed-case-1.7143109) (CBC News)
 
 - [Explainer: Why falling vaccination rates have seen return of ‘forgotten illness’ measles](https://www.independent.ie/irish-news/health/explainer-why-falling-vaccination-rates-have-seen-return-of-forgotten-illness-measles/a1142271912.html) (Independent.ie)
 
@@ -3784,6 +3798,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (malaria)
 
+- [The growing threat of fungal infections](https://abcnews.go.com/Health/growing-threat-fungal-infections/story?id=108116880) (ABC News)
+
+- [Ancient Roman Skeleton Reveals Secrets Of Malaria’s Entry To Europe](https://dailycaller.com/2024/03/14/ancient-roman-skeleton-reveals-secrets-to-one-of-humanitys-greatest-plagues-malaria/) (The Daily Caller)
+
+- [An analytically tractable, age-structured model of the impact of vector control on mosquito-transmitted infections](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011440) (Plos.org)
+
+- [Mathematical models of Plasmodium vivax transmission: A scoping review](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011931) (Plos.org)
+
 - [Why a new report on child mortality is historic, encouraging — and grim](https://www.npr.org/sections/goatsandsoda/2024/03/13/1238295742/why-a-new-report-on-child-mortality-is-historic-encouraging-and-grim) (NPR)
 
 - [How to eradicate malaria? Promising new technique raises ethical issues](https://www.france24.com/en/tv-shows/science/20240313-how-to-eradicate-malaria-promising-new-technique-raises-ethical-issues) (FRANCE 24 English)
@@ -3809,6 +3831,20 @@ Source: [News API](https://newsapi.org/)
 - [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/) (Marketscreener.com)
 
 ## 24-11 (dengue)
+
+- [Mudanças climáticas podem disseminar dengue, alerta estudo da UE](https://ultimosegundo.ig.com.br/meioambiente/2024-03-14/mudancas-climaticas-podem-disseminar-dengue--alerta-estudo-da-ue.html) (Ig.com.br)
+
+- [Anápolis (GO) intensifica fiscalizações de descarte irregular de lixo](https://www.metropoles.com/brasil/anapolis-go-intensifica-fiscalizacoes-de-descarte-irregular-de-lixo) (Metropoles.com)
+
+- [Phenolic compounds of Theobroma cacao L. show potential against dengue RdRp protease enzyme inhibition by In-silico docking, DFT study, MD simulation and MMGBSA calculation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299238) (Plos.org)
+
+- [LA PANDEMIA VIEN RONZANDO – IN BRASILE LA DENGUE DILAGA OLTRE OGNI PREVISIONE: SI STIMANO 5 MILIONI DI CONTAGI. MA LE ZANZARE STANNO DIFFONDENDO VELOCEMENTE NEGLI ESSERI UMANI ANCHE ZIKA E CHIKUNGUNYA – SALE IL LIVELLO DI ALLERTA IN ITALIA, DOVE LA DENGUE È GIÀ ARRIVATA: SCATTA LA DISIFESTAZIONE DEGLI AEREI E DELLE NAVI PROVENIENTI DAL SUDAMERICA E I CONTROLLI SUI VIAGGIATORI IN ARRIVO DAI PAESI TROPICALI…](https://www.dagospia.com/rubrica-39/salute/pandemia-vien-ronzando-ndash-brasile-dengue-dilaga-oltre-ogni-388171.htm) (Dagospia.com)
+
+- [The tropical disease that’s suddenly everywhere](https://www.vox.com/future-perfect/24099834/dengue-fever-virus-mosquito-brazil-vaccine) (Vox)
+
+- [Dengue: Brazilian single-dose vaccine could help turn tide in the fight against fever](https://theconversation.com/dengue-brazilian-single-dose-vaccine-could-help-turn-tide-in-the-fight-against-fever-225398) (The Conversation Africa)
+
+- [Alrededor del 40% de la población mundial está en riesgo de tener dengue](https://www.elmundo.es/ciencia-y-salud/2024/03/14/65f2bc7bfc6c8343228b459d.html) (El Mundo)
 
 - [Como funcionam os repelentes?](https://olhardigital.com.br/2024/03/13/ciencia-e-espaco/como-funcionam-os-repelentes/) (Olhardigital.com.br)
 
@@ -4021,6 +4057,16 @@ Source: [News API](https://newsapi.org/)
 - [Discovery reexibe documentário especial abordando doenças transmitidas por mosquitos](https://www.ouniversodatv.com/2024/03/discovery-reexibe-documentario-especial.html) (Ouniversodatv.com)
 
 ## 24-11 (chikungunya)
+
+- [Successful introgression of wMel Wolbachia into Aedes aegypti populations in Fiji, Vanuatu and Kiribati](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012022) (Plos.org)
+
+- [Cryptic circulation of chikungunya virus in São Jose do Rio Preto, Brazil, 2015–2019](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012013) (Plos.org)
+
+- [Chikungunya virus infection disrupts MHC-I antigen presentation via nonstructural protein 2](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011794) (Plos.org)
+
+- [LA PANDEMIA VIEN RONZANDO – IN BRASILE LA DENGUE DILAGA OLTRE OGNI PREVISIONE: SI STIMANO 5 MILIONI DI CONTAGI. MA LE ZANZARE STANNO DIFFONDENDO VELOCEMENTE NEGLI ESSERI UMANI ANCHE ZIKA E CHIKUNGUNYA – SALE IL LIVELLO DI ALLERTA IN ITALIA, DOVE LA DENGUE È GIÀ ARRIVATA: SCATTA LA DISIFESTAZIONE DEGLI AEREI E DELLE NAVI PROVENIENTI DAL SUDAMERICA E I CONTROLLI SUI VIAGGIATORI IN ARRIVO DAI PAESI TROPICALI…](https://www.dagospia.com/rubrica-39/salute/pandemia-vien-ronzando-ndash-brasile-dengue-dilaga-oltre-ogni-388171.htm) (Dagospia.com)
+
+- [O que está por trás das mortes por chikungunya? Estudo explica](https://olhardigital.com.br/2024/03/14/medicina-e-saude/o-que-esta-por-tras-das-mortes-por-chikungunya-estudo-explica/) (Olhardigital.com.br)
 
 - [Composto que dá amargor à cerveja pode combater chikungunya e oropouche](https://olhardigital.com.br/2024/03/14/medicina-e-saude/composto-que-da-amargor-a-cerveja-pode-combater-chikungunya-e-oropouche/) (Olhardigital.com.br)
 
