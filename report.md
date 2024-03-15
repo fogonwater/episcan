@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 37
-- **Last harvest:** 2024-03-14 19:05
-- **Most recent article:** 2024-03-13 18:44:31
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-03-15 07:06
+- **Most recent article:** 2024-03-14 07:00:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 94 | 168 | 216 | 191 | 188 | 207 | 1256 |
-| measles | 86 | 62 | 45 | 68 | 45 | 100 | 80 | 486 |
+| dengue | 192 | 105 | 173 | 216 | 191 | 188 | 207 | 1272 |
+| measles | 86 | 69 | 47 | 68 | 45 | 100 | 80 | 495 |
 | malaria | 15 | 12 | 24 | 35 | 19 | 33 | 17 | 155 |
+| chikungunya | 8 | 11 | 10 | 12 | 8 | 14 | 16 | 79 |
 | zika | 16 | 11 | 8 | 13 | 6 | 13 | 11 | 78 |
-| chikungunya | 8 | 9 | 10 | 12 | 8 | 14 | 16 | 77 |
 | meningitis | 16 | 3 | 3 | 8 | 8 | 7 | 4 | 49 |
-| rabies | 6 | 4 | 7 | 7 | 9 | 5 | 8 | 46 |
+| rabies | 6 | 5 | 7 | 7 | 9 | 5 | 8 | 47 |
 | sarampión | 3 | 1 | 6 | 5 | 4 | 11 | 5 | 35 |
 | mpox | 5 | 3 | 3 | 5 | 8 | 6 | 1 | 31 |
-| pertussis | 4 | 2 | 3 | 2 | 6 | 0 | 4 | 21 |
+| pertussis | 4 | 3 | 3 | 2 | 6 | 0 | 4 | 22 |
 | typhoid | 0 | 0 | 2 | 1 | 2 | 2 | 1 | 8 |
 | yersinia | 1 | 1 | 0 | 1 | 2 | 1 | 1 | 7 |
 | leptospirosis | 0 | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
@@ -3146,6 +3146,10 @@ Source: [News API](https://newsapi.org/)
 
 - [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
 
+- [HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK](https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/) (TheJournal.ie)
+
+- [Multi-language measles campaign launched](https://www.bbc.co.uk/news/articles/cglmrrnm5d9o) (BBC News)
+
 ## 24-5 (malaria)
 
 - [Una vacuna de bajo coste previene los síntomas de la malaria en un 75 % de los casos](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/03/vacuna-bajo-coste-previene-sintomas-malaria-75-casos/0003_202402G3P32991.htm) (Lavozdegalicia.es)
@@ -3538,6 +3542,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
 
+- [Ministério da Saúde divulga lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
+
+- [Casos de dengue sobem 26% no Estado de SP e secretaria já confirma quatro mortes no ano](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html) (Terra.com.br)
+
+- [Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue](https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html) (Viomundo.com.br)
+
+- [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
+
+- [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
+
 ## 24-5 (chikungunya)
 
 - [Em São Paulo, número de casos de chikungunya sobe 830% em 2024](https://saude.ig.com.br/2024-02-03/aumento-de-casos-de-chikungunya-em-sao-paulo.html) (Ig.com.br)
@@ -3594,6 +3608,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (rabies)
 
+- [Raccoon tests positive for rabies in Martin County](https://www.wptv.com/news/health/raccoon-tests-positive-for-rabies-in-martin-county) (WPTV.com)
+
 - [Surge in dog attack cases in Roorkee, doctors witness 60-70 daily](https://timesofindia.indiatimes.com/city/dehradun/surge-in-dog-attack-cases-in-roorkee-doctors-witness-60-70-daily/articleshow/108450114.cms) (The Times of India)
 
 - [Man, dog attacked by bobcats with rabies in New Mexico](https://www.krqe.com/health/rabid-bobcats-detected-in-two-new-mexico-counties/) (KRQE News 13)
@@ -3603,6 +3619,8 @@ Source: [News API](https://newsapi.org/)
 - [The Mad Stone, a Sure-Fire Cure for Rabies](https://www.neatorama.com/2024/03/11/The-Mad-Stone-a-Sure-Fire-Cure-for-Rabies/) (Neatorama.com)
 
 ## 24-11 (pertussis)
+
+- [Whooping cough hits Okotoks as Alberta outbreaks drag on](https://www.cbc.ca/news/canada/calgary/whooping-cough-pertussis-okotoks-outbreak-1.7142812) (CBC News)
 
 - [Neugeborenes an Keuchhusten gestorben](https://steiermark.orf.at/stories/3248764/) (Steiermark.orf.at)
 
@@ -3625,6 +3643,20 @@ Source: [News API](https://newsapi.org/)
 - [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
 
 ## 24-11 (measles)
+
+- [Explainer: Why falling vaccination rates have seen return of ‘forgotten illness’ measles](https://www.independent.ie/irish-news/health/explainer-why-falling-vaccination-rates-have-seen-return-of-forgotten-illness-measles/a1142271912.html) (Independent.ie)
+
+- [Chicago: Eight Measles Cases at Illegal Immigrant Shelter and Ten Confirmed in the City](https://legalinsurrection.com/2024/03/chicago-eight-measles-cases-at-illegal-immigrant-shelter-and-ten-confirmed-in-the-city/) (Legalinsurrection.com)
+
+- [Student at Cooper Dual Language Elementary Academy developed measles on Monday, CPS confirms](http://www.chicagotribune.com/2024/03/13/student-at-cooper-dual-language-elementary-academy-developed-measles-on-monday-cps-confirms/) (Chicago Tribune)
+
+- [Fourth case of measles reported in Ireland amid ongoing search for airline passengers at risk of infection](https://www.independent.ie/irish-news/fourth-case-of-measles-reported-in-ireland-amid-ongoing-search-for-airline-passengers-at-risk-of-infection/a1505354921.html) (Independent.ie)
+
+- [Montreal Public Health says 14 cases of measles have led to thousands of contacts](https://www.cbc.ca/news/canada/montreal/montreal-public-health-measles-1.7142947) (CBC News)
+
+- [Migrant Measles Cases Spark Fears of Wider Outbreak](https://www.newsweek.com/migrant-measles-cases-spark-fears-wider-outbreak-1878965) (Newsweek)
+
+- [4 big questions about measles, answered](https://www.vox.com/even-better/24099783/measles-mmr-united-states-cdc-vaccine) (Vox)
 
 - [One more confirmed case of measles recorded in Ireland this week](https://www.thejournal.ie/one-more-confirmed-case-of-measles-recorded-in-ireland-6326488-Mar2024/) (TheJournal.ie)
 
@@ -3778,6 +3810,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (dengue)
 
+- [Como funcionam os repelentes?](https://olhardigital.com.br/2024/03/13/ciencia-e-espaco/como-funcionam-os-repelentes/) (Olhardigital.com.br)
+
+- [DF: Celina Leão faz apelo para que pais vacinem filhos contra dengue](https://www.metropoles.com/distrito-federal/df-celina-leao-faz-apelo-para-que-pais-vacinem-filhos-contra-dengue) (Metropoles.com)
+
+- [“UTIs estão lotadas”, diz Celina Leão sobre epidemia de dengue no DF](https://www.metropoles.com/distrito-federal/utis-estao-lotadas-diz-celina-leao-sobre-epidemia-de-dengue-no-df) (Metropoles.com)
+
+- [Esterilizar mosquitos con energía nuclear contra el dengue: comienza plan piloto del MSP](https://www.montevideo.com.uy/Salud/Esterilizar-mosquitos-con-energia-nuclear-contra-el-dengue-comienza-plan-piloto-del-MSP-uc882458) (Montevideo.com.uy)
+
+- [Chikungunya infecta vários órgãos antes de levar à morte](https://tecnologia.ig.com.br/parceiros/canaltech/2024-03-13/chikungunya-infecta-varios-orgaos-antes-de-levar-a-morte.html) (Ig.com.br)
+
+- [Qué es el dengue](https://www.lanacion.com.ar/sociedad/que-es-el-dengue-nid13032024/) (La Nacion)
+
+- [Prefeitura de São Paulo anuncia ações de reforço no combate à dengue](https://saude.ig.com.br/2024-03-13/prefeitura-sp-medidas-combate-dengue.html) (Ig.com.br)
+
 - [Dengue: São Paulo ultrapassa os 200 mil casos e chega a 62 mortes](https://www.metropoles.com/sao-paulo/dengue-sp-200-mil-casos-62-mortes) (Metropoles.com)
 
 - [El estado brasileño de Rio Grande do Sul decretó estado de emergencia por dengue](https://www.montevideo.com.uy/Salud/El-estado-brasileno-de-Rio-Grande-do-Sul-decreto-estado-de-emergencia-por-dengue-uc882445) (Montevideo.com.uy)
@@ -3786,13 +3832,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Cresce l'allarme in Brasile, oltre 1,5 milioni i casi di dengue](https://www.ansa.it/sito/notizie/mondo/2024/03/13/cresce-lallarme-in-brasile-oltre-15-milioni-i-casi-di-dengue_4c042ca2-17f4-4031-91e7-f2b2f46d3ed3.html) (ANSA.it)
 
+- [Plano de saúde é obrigado a cobrir teste de dengue? Entenda](https://saude.ig.com.br/2024-03-13/dengue--plano-de-saude-e-obrigado-a-cobrir-teste-.html) (Ig.com.br)
+
 - [Dengue en Guerrero se dispara a 2,371 casos en 2024, de 68 el año pasado](https://aristeguinoticias.com/1303/mexico/dengue-en-guerrero-se-dispara-a-2371-casos-en-2024-de-los-68-del-ano-pasado/) (Aristeguinoticias.com)
 
 - [Além de 71 mortes por dengue, Minas registra 20 óbitos por chikungunya](https://saude.ig.com.br/2024-03-13/alem-de-71-mortes-por-dengue--minas-registra-20-obitos-por-chikungunya.html) (Ig.com.br)
 
+- [Nunes: Já estamos em emergência de dengue há bastante tempo](https://valor.globo.com/brasil/noticia/2024/03/13/nunes-j-estamos-em-emergncia-de-dengue-h-bastante-tempo.ghtml) (Globo)
+
 - [Vitamina B e repelentes caseiros espantam o mosquito da dengue? Veja mitos e verdades](https://www.terra.com.br/vida-e-estilo/saude/vitamina-b-e-repelentes-caseiros-espantam-o-mosquito-da-dengue-veja-mitos-e-verdades,e77c07fccead4559f118c0b1ffaf505ek80qj4rh.html) (Terra.com.br)
 
 - [Solução de controle de pragas da startup Birdview pode ser aplicado no combate à dengue; entenda](https://startupi.com.br/startup-birdview-combate-a-dengue/) (Startupi.com.br)
+
+- [SP chega a 60 mortos por dengue e 196 mil casos confirmados da doença](https://valor.globo.com/brasil/noticia/2024/03/13/sp-chega-a-60-mortos-por-dengue-e-196-mil-casos-confirmados-da-doena.ghtml) (Globo)
 
 - [Cresce l'allarme in Brasile, oltre 1,5 milioni i casi di dengue](https://www.ansa.it/sito/notizie/mondo/americalatina/2024/03/13/cresce-lallarme-in-brasile-oltre-15-milioni-i-casi-di-dengue_b1cb2bef-7502-4bef-b1f0-e388220dc451.html) (ANSA.it)
 
@@ -3803,6 +3855,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue nas escolas: como está a prevenção?](https://brasilescola.uol.com.br/noticias/dengue-nas-escolas-como-esta-sendo-o-combate/3131030.html) (Uol.com.br)
 
 - [Dengue: Com 20 mortes, governo do RS decreta emergência em saúde](https://saude.ig.com.br/2024-03-13/dengue--com-20-mortes--governo-do-rs-decreta-emergencia-em-saude.html) (Ig.com.br)
+
+- [Correction: Development of a Humanized Antibody with High Therapeutic Potential against Dengue Virus Type 2](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012031) (Plos.org)
 
 - [Dengue, oltre un milione e mezzo di casi in Brasile. Allerta anche per l’aumento dei casi di virus Zika](https://www.ilfattoquotidiano.it/2024/03/13/dengue-oltre-un-milione-e-mezzo-di-casi-in-brasile-allerta-per-laumento-anche-dei-casi-di-zika/7478259/) (Ilfattoquotidiano.it)
 
@@ -3967,6 +4021,10 @@ Source: [News API](https://newsapi.org/)
 - [Discovery reexibe documentário especial abordando doenças transmitidas por mosquitos](https://www.ouniversodatv.com/2024/03/discovery-reexibe-documentario-especial.html) (Ouniversodatv.com)
 
 ## 24-11 (chikungunya)
+
+- [Composto que dá amargor à cerveja pode combater chikungunya e oropouche](https://olhardigital.com.br/2024/03/14/medicina-e-saude/composto-que-da-amargor-a-cerveja-pode-combater-chikungunya-e-oropouche/) (Olhardigital.com.br)
+
+- [Chikungunya infecta vários órgãos antes de levar à morte](https://tecnologia.ig.com.br/parceiros/canaltech/2024-03-13/chikungunya-infecta-varios-orgaos-antes-de-levar-a-morte.html) (Ig.com.br)
 
 - [Além de 71 mortes por dengue, Minas registra 20 óbitos por chikungunya](https://saude.ig.com.br/2024-03-13/alem-de-71-mortes-por-dengue--minas-registra-20-obitos-por-chikungunya.html) (Ig.com.br)
 
