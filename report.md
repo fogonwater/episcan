@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-03-16 07:05
-- **Most recent article:** 2024-03-15 06:39:48
+- **New articles in last harvest:** 28
+- **Last harvest:** 2024-03-16 19:06
+- **Most recent article:** 2024-03-15 18:28:04
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 120 | 173 | 216 | 191 | 188 | 207 | 1287 |
-| measles | 86 | 77 | 47 | 68 | 45 | 100 | 80 | 503 |
-| malaria | 15 | 20 | 24 | 35 | 19 | 33 | 17 | 163 |
-| chikungunya | 8 | 17 | 10 | 12 | 8 | 14 | 16 | 85 |
-| zika | 16 | 14 | 8 | 13 | 6 | 13 | 11 | 81 |
+| dengue | 192 | 133 | 168 | 216 | 191 | 188 | 207 | 1295 |
+| measles | 86 | 83 | 45 | 68 | 45 | 100 | 80 | 507 |
+| malaria | 15 | 23 | 24 | 35 | 19 | 33 | 17 | 166 |
+| chikungunya | 8 | 19 | 10 | 12 | 8 | 14 | 16 | 87 |
+| zika | 16 | 15 | 8 | 13 | 6 | 13 | 11 | 82 |
 | meningitis | 16 | 4 | 3 | 8 | 8 | 7 | 4 | 50 |
 | rabies | 6 | 5 | 7 | 7 | 9 | 5 | 8 | 47 |
 | sarampión | 3 | 3 | 6 | 5 | 4 | 11 | 5 | 37 |
-| mpox | 5 | 7 | 3 | 5 | 8 | 6 | 1 | 35 |
-| pertussis | 4 | 3 | 3 | 2 | 6 | 0 | 4 | 22 |
+| mpox | 5 | 8 | 3 | 5 | 8 | 6 | 1 | 36 |
+| pertussis | 4 | 5 | 3 | 2 | 6 | 0 | 4 | 24 |
 | yersinia | 1 | 3 | 0 | 1 | 2 | 1 | 1 | 9 |
 | typhoid | 0 | 0 | 2 | 1 | 2 | 2 | 1 | 8 |
-| leptospirosis | 0 | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
-| shigellosis | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 2 |
+| leptospirosis | 0 | 1 | 1 | 1 | 1 | 0 | 2 | 6 |
+| shigellosis | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -3146,10 +3146,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
 
-- [HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK](https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/) (TheJournal.ie)
-
-- [Multi-language measles campaign launched](https://www.bbc.co.uk/news/articles/cglmrrnm5d9o) (BBC News)
-
 ## 24-5 (malaria)
 
 - [Una vacuna de bajo coste previene los síntomas de la malaria en un 75 % de los casos](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/03/vacuna-bajo-coste-previene-sintomas-malaria-75-casos/0003_202402G3P32991.htm) (Lavozdegalicia.es)
@@ -3542,16 +3538,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
 
-- [Ministério da Saúde divulga lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
-
-- [Casos de dengue sobem 26% no Estado de SP e secretaria já confirma quatro mortes no ano](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html) (Terra.com.br)
-
-- [Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue](https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html) (Viomundo.com.br)
-
-- [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
-
-- [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
-
 ## 24-5 (chikungunya)
 
 - [Em São Paulo, número de casos de chikungunya sobe 830% em 2024](https://saude.ig.com.br/2024-02-03/aumento-de-casos-de-chikungunya-em-sao-paulo.html) (Ig.com.br)
@@ -3575,6 +3561,8 @@ Source: [News API](https://newsapi.org/)
 - [Governo de MG decreta estado de emergência pelo alto número de casos de dengue](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/governo-de-mg-decreta-estado-de-emergencia-pelo-alto-numero-de-casos-de-dengue-29012024) (R7.com)
 
 ## 24-11 (zika)
+
+- [Bactéria que inibe vírus da dengue no mosquito não ameaça a saúde de humanos, afirma pesquisadora](https://noticias.r7.com/record-news/videos/bacteria-que-inibe-virus-da-dengue-no-mosquito-nao-ameaca-a-saude-de-humanos-afirma-pesquisadora-15032024) (R7.com)
 
 - [Bactéria inserida em mosquitos da dengue reduzem casos em até 70%](https://noticias.r7.com/record-news/videos/bacteria-inserida-em-mosquitos-da-dengue-reduzem-casos-em-ate-70-14032024) (R7.com)
 
@@ -3614,6 +3602,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (shigellosis)
 
+- [Aussie Psychedelic Festival-Goers Hit by Contagious Bacterial Disease](https://www.thedailybeast.com/aussie-psychedelic-festival-goers-hit-by-contagious-bacterial-disease) (Daily Beast)
+
 - [Contagious disease transmitted through faeces runs rampant amongst psychedelic festival-goers as health officials urge better hygiene](https://www.skynews.com.au/australia-news/contagious-disease-spread-through-faeces-runs-rampant-amongst-psychedelic-festivalgoers-as-health-officials-urge-better-hygiene/news-story/ac537b71f7d303ffe1749029d9fbfd40) (Sky News Australia)
 
 ## 24-11 (sarampión)
@@ -3638,6 +3628,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (pertussis)
 
+- [Szlovákiában is terjed a szamárköhögés](https://www.origo.hu/nagyvilag/2024/03/szlovakiaban-is-terjed-a-szamarkohoges) (Origo.hu)
+
+- [Jak poznat černý kašel](https://www.idnes.cz/onadnes/zdravi/cerny-kasel-priznaky-a-lecba.A131108_154140_zdravi_pet) (Idnes.cz)
+
 - [Whooping cough hits Okotoks as Alberta outbreaks drag on](https://www.cbc.ca/news/canada/calgary/whooping-cough-pertussis-okotoks-outbreak-1.7142812) (CBC News)
 
 - [Neugeborenes an Keuchhusten gestorben](https://steiermark.orf.at/stories/3248764/) (Steiermark.orf.at)
@@ -3645,6 +3639,8 @@ Source: [News API](https://newsapi.org/)
 - [How Moms Prevent Whooping Cough (Pertussis)](https://www.webmd.com/children/vaccines/features/how-proactive-moms-prevent-whooping-cough-pertussis) (WebMD)
 
 ## 24-11 (mpox)
+
+- [A theory-based assessment of mpox: Findings from a nationally representative survey of U.S. adults](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299599) (Plos.org)
 
 - [Republic of Congo reports its first mpox virus cases, in several regions](https://abcnews.go.com/Health/wireStory/republic-congo-reports-mpox-virus-cases-regions-108140929) (ABC News)
 
@@ -3671,6 +3667,18 @@ Source: [News API](https://newsapi.org/)
 - [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
 
 ## 24-11 (measles)
+
+- [Thousands Exposed to Disease in New Disney Measles Outbreak](https://insidethemagic.net/2024/03/thousands-exposed-disease-new-disney-measles-outbreak-nk1/) (Inside the Magic)
+
+- [One new case of measles confirmed in Ireland, the fifth this year](https://www.thejournal.ie/fifth-case-measles-in-ireland-6328618-Mar2024/) (TheJournal.ie)
+
+- [Fifth cases of measles confirmed in the State as HSE steps up vaccination programme](https://www.irishtimes.com/health/2024/03/15/fifth-cases-of-measles-confirmed-in-the-state-as-hse-steps-up-vaccination-programme/) (The Irish Times)
+
+- [As measles spreads here is what's true and what is misinformation](https://www.nationalobserver.com/2024/03/15/news/measles-spreads-misinformation) (National Observer)
+
+- [Even people born before 1970 are encouraged to get measles shot for international travel](https://www.cbc.ca/news/canada/new-brunswick/measles-new-brunswick-vaccine-born-before-1970-travel-1.7144243) (CBC News)
+
+- [U.S. measles cases so far this year now exceed all of 2023](https://www.cbsnews.com/news/measles-cases-states-2024-more-than-2023/) (CBS News)
 
 - [Measles outbreak fears: Children under nine checked for ‘possible’ infection as GPs urged to be vigilant](https://www.independent.ie/irish-news/measles-outbreak-fears-children-under-nine-checked-for-possible-infection-as-gps-urged-to-be-vigilant/a2002280754.html) (Independent.ie)
 
@@ -3828,6 +3836,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (malaria)
 
+- [Malaria, viruela, polio: así es como sabemos que la vida en el antiguo Egipto estaba devastada por las enfermedades (ENG)](https://www.meneame.net/m/cultura/malaria-viruela-polio-asi-como-sabemos-vida-antiguo-egipto-eng) (Meneame.net)
+
+- [Malaria, smallpox, polio: Here's how we know life in ancient Egypt was ravaged by disease](https://phys.org/news/2024-03-malaria-smallpox-polio-life-ancient.html) (Phys.Org)
+
+- [Illegaler Bergbau: Tödliches Gold](https://www.faz.net/aktuell/fotografie/toedliches-gold-illegaler-bergbau-bedroht-indigene-19470475.html) (Faz.net)
+
 - [El gasto público en innovación sanitaria mundial genera beneficios extraordinarios](https://www.infosalus.com/salud-investigacion/noticia-gasto-publico-innovacion-sanitaria-mundial-genera-beneficios-extraordinarios-20240315073948.html) (Infosalus.com)
 
 - [So schützen Sie sich vor Krankheiten in den Tropen](https://www.welt.de/reise/Fern/article250546342/Urlaub-in-den-Tropen-Von-Malaria-bis-Tollwut-reisen-ohne-Risiko.html) (DIE WELT)
@@ -3868,7 +3882,37 @@ Source: [News API](https://newsapi.org/)
 
 - [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/) (Marketscreener.com)
 
+## 24-11 (leptospirosis)
+
+- [Cross-sectional serosurvey of Leptospira species among slaughter pigs, goats, and sheep in Uganda](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012055) (Plos.org)
+
 ## 24-11 (dengue)
+
+- [Acordo com ANS prioriza pacientes com dengue na rede privada do DF](https://veja.abril.com.br/coluna/radar/acordo-com-ans-prioriza-pacientes-com-dengue-na-rede-privada-do-df) (Abril.com.br)
+
+- [Dengue, la donna infettata: «Ho capito cosa significa febbre spacca ossa»](https://www.ilsole24ore.com/art/dengue-donna-infettata-ho-capito-cosa-significa-febbre-spacca-ossa-AF1uiG4C) (Il Sole 24 Ore)
+
+- [Combate à dengue: SP vai distribuir repelente para grávidas](https://www.metropoles.com/sao-paulo/combate-dengue-sp-distribuir-repelente-gravidas) (Metropoles.com)
+
+- [Dengue: la fuerte advertencia que hacen los especialistas tras las intensas tormentas](https://www.lanacion.com.ar/sociedad/dengue-la-fuerte-advertencia-que-hacen-los-especialistas-tras-las-intensas-tormentas-nid15032024/) (La Nacion)
+
+- [Vampire Skeeter Takes Down ‘Rodinha’](https://www.mmamania.com/2024/3/15/24101858/dengue-fever-rashy-ufc-fighter-taken-down-by-blood-sucking-bug-forced-bail-ufc-vegas-89-mma) (MMA Mania)
+
+- [Dengue: São Paulo está perto de atingir índice epidêmico](https://olhardigital.com.br/2024/03/15/medicina-e-saude/dengue-sao-paulo-esta-perto-de-atingir-indice-epidemico/) (Olhardigital.com.br)
+
+- [Dengue-Fieber in Brasilien: Mit Soldaten, Mückenspray und Bier](https://taz.de/Dengue-Fieber-in-Brasilien/!5996049/) (taz.de)
+
+- [Dengue: por que o Brasil ainda falha no combate a doença?](https://www.tecmundo.com.br/ciencia/280943-dengue-brasil-ainda-falha-combate-doenca.htm) (Tecmundo.com.br)
+
+- [Wolters Kluwer supports Brazil with access to trusted medical content on Dengue disease](https://www.marketscreener.com/quote/stock/WOLTERS-KLUWER-N-V-6291/news/Wolters-Kluwer-supports-Brazil-with-access-to-trusted-medical-content-on-Dengue-disease-46209600/) (Marketscreener.com)
+
+- [Dengue fever forces Stephanie Luciano out of UFC Vegas 89 fight with Julia Polastri](https://www.mmafighting.com/2024/3/15/24101654/dengue-fever-forces-stephanie-luciano-out-ufc-vegas-89-fight-julia-polastri) (MMA Fighting)
+
+- [O que faz a chikungunya ser tão fatal? Estudo responde](https://olhardigital.com.br/2024/03/15/medicina-e-saude/o-que-faz-a-chikungunya-ser-tao-fatal-estudo-responde/) (Olhardigital.com.br)
+
+- [Brazil is fighting dengue with bacteria-infected mosquitos](https://www.technologyreview.com/2024/03/15/1089845/brazil-dengue-wolbachia-mosquitos/) (MIT Technology Review)
+
+- [USP: Feira de ciências com projetos de todo o país já tem data para acontecer](https://olhardigital.com.br/2024/03/15/ciencia-e-espaco/usp-feira-de-ciencias-com-projetos-de-todo-o-pais-ja-tem-data-para-acontecer/) (Olhardigital.com.br)
 
 - [Ancora allerta Dengue: controlli in porti e aeroporti e anche su merci come i fiori](https://www.ilsole24ore.com/art/ancora-allerta-dengue-controlli-porti-e-aeroporti-e-anche-merci-come-fiori-AFcWmU3C) (Il Sole 24 Ore)
 
@@ -4111,6 +4155,10 @@ Source: [News API](https://newsapi.org/)
 - [Discovery reexibe documentário especial abordando doenças transmitidas por mosquitos](https://www.ouniversodatv.com/2024/03/discovery-reexibe-documentario-especial.html) (Ouniversodatv.com)
 
 ## 24-11 (chikungunya)
+
+- [Bactéria que inibe vírus da dengue no mosquito não ameaça a saúde de humanos, afirma pesquisadora](https://noticias.r7.com/record-news/videos/bacteria-que-inibe-virus-da-dengue-no-mosquito-nao-ameaca-a-saude-de-humanos-afirma-pesquisadora-15032024) (R7.com)
+
+- [O que faz a chikungunya ser tão fatal? Estudo responde](https://olhardigital.com.br/2024/03/15/medicina-e-saude/o-que-faz-a-chikungunya-ser-tao-fatal-estudo-responde/) (Olhardigital.com.br)
 
 - [Bactéria inserida em mosquitos da dengue reduzem casos em até 70%](https://noticias.r7.com/record-news/videos/bacteria-inserida-em-mosquitos-da-dengue-reduzem-casos-em-ate-70-14032024) (R7.com)
 

@@ -1,8 +1,514 @@
 {
-  "last_updated": "2024-03-16 07:05",
-  "count_articles_total": 2228,
-  "count_articles_new": 18,
+  "last_updated": "2024-03-16 19:06",
+  "count_articles_total": 2249,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 6969,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Robson Bonin",
+      "title": "Acordo com ANS prioriza pacientes com dengue na rede privada do DF",
+      "description": "Ideia \u00e9 garantir atendimento adequado aos pacientes, facilitando a libera\u00e7\u00e3o de exames ou procedimentos m\u00e9dicos",
+      "url": "https://veja.abril.com.br/coluna/radar/acordo-com-ans-prioriza-pacientes-com-dengue-na-rede-privada-do-df",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2019/01/celina-leao-deputada-federal.jpg.jpg?quality=90&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2024-03-15 18:28:04",
+      "content": "Assine VEJA por R$2,00/semana Continua ap\u00f3s publicidade A vice-governadora do Distrito Federal, Celina Le\u00e3o, vai anunciar, nesta sexta, um acordo com Ag\u00eancia Nacional de Sa\u00fade Suplementar para gara\u2026 [+615 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.203782",
+      "internal_id": "641fbf2353fd1f7c711dd459571f22b78872db5435b8ddb155fd286398bb2322",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6965,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": null,
+      "title": "Dengue, la donna infettata: \u00abHo capito cosa significa febbre spacca ossa\u00bb",
+      "description": "Franca Pandolfi, 80 anni, racconta l\u2019esperienza con la malattia esotica che stiamo cominciando a conoscere anche in Italia",
+      "url": "https://www.ilsole24ore.com/art/dengue-donna-infettata-ho-capito-cosa-significa-febbre-spacca-ossa-AF1uiG4C",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2024/03/16/Immagini/Ritagli/b247554c693bf3beabfb34a4b150271a-U31114000655Rpr-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "publishedAt": "2024-03-15 17:38:00",
+      "content": "Ascolta la versione audio dell'articolo 4' di lettura \u00abLa puntura di una zanzara, a Roma nella mia citt\u00e0, forse a casa. Un incontro spiacevole che mi ha fatto capire cosa significa febbre spacca os\u2026 [+4220 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.159568",
+      "internal_id": "54c8144caa70ae75e8bdb92226ac149f0ee0ceb143953feade9469573544a104",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6971,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Valentina Moreira",
+      "title": "Combate \u00e0 dengue: SP vai distribuir repelente para gr\u00e1vidas",
+      "description": "Repelentes ser\u00e3o entregues nas UBS do estado; governo tamb\u00e9m anunciou abertura de novos leitos para interna\u00e7\u00e3o em casos graves de dengue",
+      "url": "https://www.metropoles.com/sao-paulo/combate-dengue-sp-distribuir-repelente-gravidas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/03/10104012/GettyImages-694024327.jpg",
+      "publishedAt": "2024-03-15 17:15:14",
+      "content": "S\u00e3o Paulo O governo do estado de S\u00e3o Paulo planeja distribuir 300 mil repelentes para gestantes como forma de preven\u00e7\u00e3o contra o mosquito Aedes aegypti. A iniciativa foi anunciada nessa nessa quinta-\u2026 [+1041 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.253588",
+      "internal_id": "489ed973f8d2515795c94993f99863b6f6d4a15d3aed13325b1615cc984c6769",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6972,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Dengue: la fuerte advertencia que hacen los especialistas tras las intensas tormentas",
+      "description": "La combinaci\u00f3n de altas temperaturas y lluvias generan h\u00e1bitats ideales para la reproducci\u00f3n del Aedes aegypti, que es el vector de la infecci\u00f3n; piden extremar medidas de prevenci\u00f3n para eliminar sus criaderos",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-fuerte-advertencia-que-hacen-los-especialistas-tras-las-intensas-tormentas-nid15032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-acumulacion-de-agua-es-uno-de-los-criaderos-de-36JJOOC5W5HNDNNX5T2WD73RGU.JPG?auth=6590ae4e729d405378fb48c22abb51ae3723e0f2a6d3cd1a5be90805f7a78edd&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-15 17:01:12",
+      "content": "Con temperaturas que siguen siendo favorables para el mosquito transmisor del dengue combinadas con las consecuencias de las tormentas de estos d\u00edas, autoridades sanitarias coinciden al prever un rep\u2026 [+7682 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.304936",
+      "internal_id": "3d282a30fbb2f20371aa292fa26ae16a3c51e9cd1f9266c0575879112c177c3b",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6974,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Ripio",
+      "title": "Malaria, viruela, polio: as\u00ed es como sabemos que la vida en el antiguo Egipto estaba devastada por las enfermedades (ENG)",
+      "description": "La evidencia m\u00e1s directa de epidemias en el antiguo Egipto proviene de evidencia esquel\u00e9tica y de ADN obtenida de las propias momias...La medicina egipcia estaba avanzada para su \u00e9poca. Si bien estos brotes ocurrieron mucho antes del desarrollo de antibi\u00f3tico\u2026",
+      "url": "https://www.meneame.net/m/cultura/malaria-viruela-polio-asi-como-sabemos-vida-antiguo-egipto-eng",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-03-15 16:03:26",
+      "content": "La estela que muestra un individuo con las consecuencias de la polio es interesant\u00edsima. Si la polio ha sido un problema a partir del desarrollo de mejoras sanitarias e higi\u00e9nicas es parad\u00f3jicamente \u2026 [+359 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.917485",
+      "internal_id": "1a8b7fe86684d37aa026f844e37cd57c045eb6487329bac6fbf04d856c51e2c0",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6966,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "MMA Mania",
+      "author": "Jesse Holland",
+      "title": "Vampire Skeeter Takes Down \u2018Rodinha\u2019",
+      "description": "UFC Vegas 89 fight card took another hit after strawweight phenom Stephanie Luciano was forced to withdraw from her Julia Polastri bout because of Dengue fever.",
+      "url": "https://www.mmamania.com/2024/3/15/24101858/dengue-fever-rashy-ufc-fighter-taken-down-by-blood-sucking-bug-forced-bail-ufc-vegas-89-mma",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2T__KIOq3MvmkDCrUhVxbsqbErI=/0x401:774x806/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25337755/Screenshot_2024_03_15_at_10.55.03_AM.png",
+      "publishedAt": "2024-03-15 15:48:02",
+      "content": "The skeeter beat her. Stephanie Luciano was expected to make her Octagon debut opposite fellow Dana White\u2019s \u201cContender Series\u201d strawweight Julia Polastri as part of the upcoming UFC Vegas 89 fight ca\u2026 [+1404 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.178118",
+      "internal_id": "ebb2f0b65eb2ad64167db3c13761bc95635bd5d74088a503f2c32188c89f725f",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6962,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Tamires Ferreira",
+      "title": "Dengue: S\u00e3o Paulo est\u00e1 perto de atingir \u00edndice epid\u00eamico",
+      "description": "Capital paulista j\u00e1 tem 295 casos para cada 100 mil habitantes, segundo dados da secretaria de sa\u00fade O post Dengue: S\u00e3o Paulo est\u00e1 perto de atingir \u00edndice epid\u00eamico apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/03/15/medicina-e-saude/dengue-sao-paulo-esta-perto-de-atingir-indice-epidemico/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/12/Dengue-695x500.jpg",
+      "publishedAt": "2024-03-15 15:44:29",
+      "content": "De acordo com dados oficiais da Coordenadoria de Vigil\u00e2ncia em Sa\u00fade da Secretaria Municipal da Sa\u00fade, a cidade de S\u00e3o Paulo est\u00e1 prestes a atingir o \u00edndice epid\u00eamico de dengue, conforme classifica\u00e7\u00e3\u2026 [+2605 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.141574",
+      "internal_id": "38a76bdcd94d4cbcdd4e7f8e96267b9e67b3f5080581dca712521276f93f32b1",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6956,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Nathan Kamal",
+      "title": "Thousands Exposed to Disease in New Disney Measles Outbreak",
+      "description": "Thousands of Disney fans who attended a recent popular event in Cincinnati are being warned by health officials that they have been exposed to measles, the increasingly resurgent and dangerous virus spreading across the United States. Measles is one of the mo\u2026",
+      "url": "https://insidethemagic.net/2024/03/thousands-exposed-disease-new-disney-measles-outbreak-nk1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/03/measles-mickey-mouse.jpeg",
+      "publishedAt": "2024-03-15 15:43:56",
+      "content": "Thousands of Disney fans who attended a recent popular event in Cincinnati are being warned by health officials that they have been exposed to measles, the increasingly resurgent and dangerous virus \u2026 [+3599 chars]",
+      "retrievedAt": "2024-03-16 19:05:58.600752",
+      "internal_id": "531f6e720ec773a53053b7f6f7cdd5c9d4a6ecfb35a7b009830cb80aabf0978e",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6975,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Thomas Jeffries",
+      "title": "Malaria, smallpox, polio: Here's how we know life in ancient Egypt was ravaged by disease",
+      "description": "The mention of ancient Egypt usually conjures images of colossal pyramids and precious, golden tombs.",
+      "url": "https://phys.org/news/2024-03-malaria-smallpox-polio-life-ancient.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2017/ancientegypt.jpg",
+      "publishedAt": "2024-03-15 15:42:04",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+5739 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.926156",
+      "internal_id": "5b94f1ad2f3e01c7c490df2a6b4669be93dfa99ae81aa3a12817aa4620cf7903",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6963,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Niklas Franzen",
+      "title": "Dengue-Fieber in Brasilien: Mit Soldaten, M\u00fcckenspray und Bier",
+      "description": "In Brasilien ist das Dengue-Fieber ausgebrochen. Auf vielf\u00e4ltige Weise versuchen Menschen in Rio de Janeiro, sich vor M\u00fcckenstichen zu sch\u00fctzen.",
+      "url": "https://taz.de/Dengue-Fieber-in-Brasilien/!5996049/",
+      "urlToImage": "https://taz.de/picture/6889588/948/34610221-1.jpeg",
+      "publishedAt": "2024-03-15 15:19:00",
+      "content": "In Brasilien ist das Dengue-Fieber ausgebrochen. Auf vielf\u00e4ltige Weise versuchen Menschen in Rio de Janeiro, sich vor M\u00fcckenstichen zu sch\u00fctzen. M\u00fcckenbek\u00e4mpfung: Gesundheitspersonal im Einsatz gege\u2026 [+4002 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.147252",
+      "internal_id": "1536e22fce8b48d975652ccb966dd391881dca746d0e09726f39264310de33f5",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6979,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "Daily Beast",
+      "author": "Amanda Yen",
+      "title": "Aussie Psychedelic Festival-Goers Hit by Contagious Bacterial Disease",
+      "description": "Kevin Winter/Getty A psychedelic arts festival in Victoria, Australia, was rocked this week by an outbreak of shigellosis, a contagious bacterial disease spread through fecal-oral contact.The Victoria Department of Health issued the alert on Wednesday, one d\u2026",
+      "url": "https://www.thedailybeast.com/aussie-psychedelic-festival-goers-hit-by-contagious-bacterial-disease",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2772,w_4928,x_0,y_0/dpr_2.0/c_limit,w_740/f_auto,q_auto/v1710510840/GettyImages-1136963414_eyf21p",
+      "publishedAt": "2024-03-15 14:47:37",
+      "content": "A psychedelic arts festival in Victoria, Australia, was rocked this week by an outbreak of shigellosis, a contagious bacterial disease spread through fecal-oral contact. The Victoria Department of H\u2026 [+1723 chars]",
+      "retrievedAt": "2024-03-16 19:06:01.646407",
+      "internal_id": "4b26c2b7c59e1a029d4a46991e83e2795625c3eaa67d72055914cf440643dca4",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6957,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "David MacRedmond",
+      "title": "One new case of measles confirmed in Ireland, the fifth this year",
+      "description": "The latests confirmation comes ahead of the rollout of the Department of Health\u2019s MMR Catch-up Vaccination Programme.",
+      "url": "https://www.thejournal.ie/fifth-case-measles-in-ireland-6328618-Mar2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6328618/river/?height=400&version=6328697",
+      "publishedAt": "2024-03-15 14:08:10",
+      "content": "ONE NEW CONFIRMED case of measles has been reported in Ireland by the Health Protection Surveillance Centre (HPSC), making it the fifth such case of 2024. Four other cases had already been confirme\u2026 [+1798 chars]",
+      "retrievedAt": "2024-03-16 19:05:58.616953",
+      "internal_id": "ace030a13359b6df116264806314308127909b8b30f47259665d85fa22ad5fe3",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6961,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tecmundo.com.br",
+      "author": "Jennifer Egues",
+      "title": "Dengue: por que o Brasil ainda falha no combate a doen\u00e7a?",
+      "description": "A crescente onda de infec\u00e7\u00f5es por Dengue no pa\u00eds tem gerado alerta e questionamento sobre o porqu\u00ea do Brasil n\u00e3o ter obtido sucesso no enfrentamento da doen\u00e7a, presente em nosso territ\u00f3rio desde os anos 1980. No entanto, um dos principais desafios para arrefe\u2026",
+      "url": "https://www.tecmundo.com.br/ciencia/280943-dengue-brasil-ainda-falha-combate-doenca.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2024/03/14/14151106690177.jpg",
+      "publishedAt": "2024-03-15 14:00:00",
+      "content": "A crescente onda de infec\u00e7\u00f5es por Dengue no pa\u00eds tem gerado alerta e questionamento sobre o porqu\u00ea do Brasil n\u00e3o ter obtido sucesso no enfrentamento da doen\u00e7a, presente em nosso territ\u00f3rio desde os a\u2026 [+5677 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.136149",
+      "internal_id": "9541cee530e51f5ba3046dbaaa3729f4542d8ae0c5d269aef8e6bfde2deb4f66",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6977,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Margaret L. Walsh-Buhi, Rebecca F. Houghton, Danny Valdez, Eric R. Walsh-Buhi",
+      "title": "A theory-based assessment of mpox: Findings from a nationally representative survey of U.S. adults",
+      "description": "The purpose of this research was to examine individual differences related to fear of, perceived susceptibility to, and perceived severity of mpox as well as mpox knowledge, fear, perceived susceptibility, and perceived severity as predictors of vaccine inten\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299599",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0299599.t005&size=inline",
+      "publishedAt": "2024-03-15 14:00:00",
+      "content": "Abstract The purpose of this research was to examine individual differences related to fear of, perceived susceptibility to, and perceived severity of mpox as well as mpox knowledge, fear, perceived\u2026 [+26930 chars]",
+      "retrievedAt": "2024-03-16 19:06:00.712422",
+      "internal_id": "445b074d368d08da6c394b0148ba34ffc675d4f3b32350c2d4e69ce4c7a11a3e",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6978,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Lordrick Alinaitwe, Christopher Joshua Aturinda, Ashiraf Lubega, Velma Kivali, James Bugeza, Martin Wainaina, Martin H. Richter, Jolly Justine Hoona, Kristina Roesel, Anne Mayer-Scholl, Elizabeth Anne Jessie Cook, Clovice Kankya, Salome D\u00fcrr",
+      "title": "Cross-sectional serosurvey of Leptospira species among slaughter pigs, goats, and sheep in Uganda",
+      "description": "Author summary Leptospira are a group of bacteria, including pathogenic types that cause a zoonotic disease called leptospirosis. In Uganda, domesticated animals are implied as the source of human Leptospira exposures, yet comparable animal data is only avail\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012055",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012055.g002&size=inline",
+      "publishedAt": "2024-03-15 14:00:00",
+      "content": "Citation: Alinaitwe L, Aturinda CJ, Lubega A, Kivali V, Bugeza J, Wainaina M, et al. (2024) Cross-sectional serosurvey of Leptospira species among slaughter pigs, goats, and sheep in Uganda. PLoS Neg\u2026 [+25119 chars]",
+      "retrievedAt": "2024-03-16 19:06:01.247560",
+      "internal_id": "3f4d858952a2f04d35ffe593c2f2cce0e54f7e6bfa022e672e4fe46f0adf9ba9",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6970,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Wolters Kluwer supports Brazil with access to trusted medical content on Dengue disease",
+      "description": "(marketscreener.com) UpToDate\u2019s trusted content on treatment of Dengue is now available to help with national health emergency https://www.marketscreener.com/quote/stock/WOLTERS-KLUWER-N-V-6291/news/Wolters-Kluwer-supports-Brazil-with-access-to-trusted-medi\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/WOLTERS-KLUWER-N-V-6291/news/Wolters-Kluwer-supports-Brazil-with-access-to-trusted-medical-content-on-Dengue-disease-46209600/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-03-15 13:31:02",
+      "content": "UpToDates trusted content on treatment of Dengue is now available to help with national health emergency With the significant growth of Dengue cases in Brazil, Wolters Kluwer Health is providing fre\u2026 [+3269 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.222335",
+      "internal_id": "0790d6e09a39fdd45b0f1c8fb40c1a03d6366256ff2d83f684bba968ef573858",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6955,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Ronan McGreevy",
+      "title": "Fifth cases of measles confirmed in the State as HSE steps up vaccination programme",
+      "description": "Newest case confirmed on Thursday evening, with another suspected case being investigated",
+      "url": "https://www.irishtimes.com/health/2024/03/15/fifth-cases-of-measles-confirmed-in-the-state-as-hse-steps-up-vaccination-programme/",
+      "urlToImage": "https://www.irishtimes.com/resizer/2FRRtiHoofVaAK6D8UIcYmQUFJU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LOHZA6ZYONENBAMS7UGMYRXSAI.jpg",
+      "publishedAt": "2024-03-15 13:02:14",
+      "content": "A fifth cases of measles in the State has been confirmed. The Health Protection Surveillance Centre (HPSC) had four notified cases as of Wednesday afternoon, but added a fifth as of 5pm on Thursday \u2026 [+2291 chars]",
+      "retrievedAt": "2024-03-16 19:05:58.587977",
+      "internal_id": "561f42e645ca9ec0846e0e7c4d30db3c5be9ecad0e3fe3426d4c2899f7cd1a94",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6959,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "National Observer",
+      "author": "The Canadian Press",
+      "title": "As measles spreads here is what's true and what is misinformation",
+      "description": "Measles is making a comeback globally due to declining rates of routine childhood vaccinations, some due to missed appointments during the COVID-19 pandemic.",
+      "url": "https://www.nationalobserver.com/2024/03/15/news/measles-spreads-misinformation",
+      "urlToImage": "https://www.nationalobserver.com/sites/nationalobserver.com/files/img/2024/03/15/87233e296f6dbc9300f36628103bf095dd7fe982f8415ea225e91118d1eb0f4a.jpg",
+      "publishedAt": "2024-03-15 13:00:50",
+      "content": "Public health officials are encouraging parents to ensure their children get routine childhood vaccines as measles continues to spread around the world. Here are some facts about one of the most cont\u2026 [+3414 chars]",
+      "retrievedAt": "2024-03-16 19:05:58.657306",
+      "internal_id": "5b5f9f136cca16d4c4dd8712808712547e2e7ab155e725923db5d73f599cc723",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6958,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Even people born before 1970 are encouraged to get measles shot for international travel",
+      "description": "New Brunswick Public Health is encouraging people born before 1970 to get a measles vaccine if they plan to travel outside the country. New Brunswickers born in 1970 or later who have not received two doses of a measles vaccine should get immunized.",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/measles-new-brunswick-vaccine-born-before-1970-travel-1.7144243",
+      "urlToImage": "https://i.cbc.ca/1.5120934.1708719149!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/usa-measles-states.jpg",
+      "publishedAt": "2024-03-15 13:00:00",
+      "content": "New Brunswick Public Health is encouraging people born before 1970 to get a measles vaccine if they plan to travel outside the country. The advice comes amid a surge of measles in Europe and a rise \u2026 [+5272 chars]",
+      "retrievedAt": "2024-03-16 19:05:58.646350",
+      "internal_id": "c10bc0ea73a567afe47109607f84f64739bae6c0b688c0e227861f7191bb9068",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6973,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Reuters/FAZ.NET",
+      "title": "Illegaler Bergbau: T\u00f6dliches Gold",
+      "description": "Der Lebensraum des indigenen Volkes der Yanomami ist durch illegalen Bergbau bedroht. Der Fotograf Ueslei Marcelino hat die Umweltschutzbeh\u00f6rde IBAMA auf einer Mission begleitet, deren Ziel es ist, Equipment und Vorr\u00e4te der Bergleute zu zerst\u00f6ren.",
+      "url": "https://www.faz.net/aktuell/fotografie/toedliches-gold-illegaler-bergbau-bedroht-indigene-19470475.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/2055735174/1.9470415/facebook_teaser/86cc4874-b5ea-11ee-a367.jpg",
+      "publishedAt": "2024-03-15 12:52:07",
+      "content": "Brasilien verliert im Kampf um die Rettung des indigenen Yanomami-Volkes die Oberhand. Das Volk leidet unter Grippe, Malaria und Unterern\u00e4hrung, verursacht durch illegale Bergleute, die in das isolie\u2026 [+4027 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.903100",
+      "internal_id": "70127db34d48fda02af38e780b94f4e1a48f467d7c148c7addc51ea498dc70ef",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6968,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "MMA Fighting",
+      "author": "Guilherme Cruz",
+      "title": "Dengue fever forces Stephanie Luciano out of UFC Vegas 89 fight with Julia Polastri",
+      "description": "Brazilian strawweights Stephanie Luciano and Julia Polastri will have to wait a bit longer to make their octagon debut.",
+      "url": "https://www.mmafighting.com/2024/3/15/24101654/dengue-fever-forces-stephanie-luciano-out-ufc-vegas-89-fight-julia-polastri",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/W4Ss-jnL_wz0Zy4RYkaMqdUeg6E=/0x0:5148x2695/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25337431/1691486630.jpg",
+      "publishedAt": "2024-03-15 12:30:39",
+      "content": "Stephanie Luciano | Photo by Chris Unger/Zuffa LLC via Getty Images Stephanie Luciano and Julia Polastri will have to wait a bit longer to make their octagon debut as \u201cRondinha\u201d was forced to w\u2026 [+1695 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.187714",
+      "internal_id": "baf5cb6795fb9e1689331159122c9174ee519151a81bcd2948731c610a74a3de",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6954,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "U.S. measles cases so far this year now exceed all of 2023",
+      "description": "Infections of the highly contagious measles virus have been reported in 17 states in the first three months of 2024.",
+      "url": "https://www.cbsnews.com/news/measles-cases-states-2024-more-than-2023/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/02/af52901c-0b59-4b3a-b4ef-fd367f2c887d/thumbnail/1200x630/f8208680f4e731a0676881c5e7bb3aad/gettyimages-1196157315.jpg?v=d1d78866939020fc1f2607ef7298e4ec",
+      "publishedAt": "2024-03-15 12:26:25",
+      "content": "The U.S. has now tallied at least 59 confirmed or suspected measles cases investigated so far this year by authorities in 17 states \u2014 more than the number of cases reported nationwide in all of 2023.\u2026 [+6651 chars]",
+      "retrievedAt": "2024-03-16 19:05:58.558841",
+      "internal_id": "aff8ce67161b26840d115edf71c4ac8c5942fb97c8eb032b365c4e17689347e6",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6953,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "Szlov\u00e1ki\u00e1ban is terjed a szam\u00e1rk\u00f6h\u00f6g\u00e9s",
+      "description": "Az elm\u00falt hetekben n\u0151tt a megbeteged\u00e9sek sz\u00e1ma a szomsz\u00e9dos orsz\u00e1gban.",
+      "url": "https://www.origo.hu/nagyvilag/2024/03/szlovakiaban-is-terjed-a-szamarkohoges",
+      "urlToImage": "https://cdn.origo.hu/2024/03/iTQXp5NwI_aYgpOj2ZGfo-yh00EnltJBjdUMgUjwtt8/fill/1600/800/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhhODE3NGRkMDk4ODQyYmE5N2Y2OTlmMDQ1N2YxMjhj.png",
+      "publishedAt": "2024-03-15 11:01:09",
+      "content": "1954-tl vezett\u00e9k be Magyarorsz\u00e1gon a k\u00f6telez olt\u00e1st a betegs\u00e9get okoz\u00f3 Bordetella pertussis nev bakt\u00e9rium ellen amit elsz\u00f6r 2, 3, 4 h\u00f3napos korban adnak be, az eml\u00e9keztett pedig 18 h\u00f3napos, majd 6 \u00e9s\u2026 [+380 chars]",
+      "retrievedAt": "2024-03-16 19:05:57.938566",
+      "internal_id": "956f05100109caf0266dc1635f1a0fe47afff4777c179128bb70aee32399f2a9",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6976,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Bact\u00e9ria que inibe v\u00edrus da dengue no mosquito n\u00e3o amea\u00e7a a sa\u00fade de humanos, afirma pesquisadora",
+      "description": "A cidade de Niter\u00f3i, no Rio de Janeiro, apresentou uma redu\u00e7\u00e3o de 70% nos casos de Dengue , al\u00e9m de queda em 60% de Chikungunya e 40% no Zika ...",
+      "url": "https://noticias.r7.com/record-news/videos/bacteria-que-inibe-virus-da-dengue-no-mosquito-nao-ameaca-a-saude-de-humanos-afirma-pesquisadora-15032024",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2024/03/15/65f43c8a4b4955c99400043c/3e0f7bb4c6c44ac3bd713337b62af864__Bact_ria_que_promete_inibir_v_rus_da_dengue_n_o_representa_amea_a_a_sa_de_thumb_thumb.jpg",
+      "publishedAt": "2024-03-15 10:05:00",
+      "content": "A cidade de Niter\u00f3i, no Rio de Janeiro, apresentou uma redu\u00e7\u00e3o de 70% nos casos de Dengue, al\u00e9m de queda em 60% de Chikungunya e 40% no Zika v\u00edrus. Tal efeito s\u00f3 foi poss\u00edvel pela inser\u00e7\u00e3o da bact\u00e9ri\u2026 [+481 chars]",
+      "retrievedAt": "2024-03-16 19:06:00.355143",
+      "internal_id": "e463811322016da097285a41f0fad39c72e23be9287b2751b8bf9d1f81b3e91f",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6952,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Petra Barochov\u00e1",
+      "title": "Jak poznat \u010dern\u00fd ka\u0161el",
+      "description": "Z\u00e1chvaty kokrhav\u00e9ho, zaj\u00edkav\u00e9ho ka\u0161le, kter\u00e9 mohou trvat a\u017e p\u016fl roku. Mnohdy je nemoc spojena se zvracen\u00edm, \u00fabytkem v\u00e1hy nebo celkov\u00fdm vy\u010derp\u00e1n\u00edm. Urputn\u00fd ka\u0161el m\u016f\u017ee zp\u016fsobit zlomeniny \u017eeber, k\u00fdlu \u010di pomo\u010dov\u00e1n\u00ed. U kojenc\u016f a star\u0161\u00edch lid\u00ed m\u016f\u017ee dokonce \u010dern\u00fd ka\u2026",
+      "url": "https://www.idnes.cz/onadnes/zdravi/cerny-kasel-priznaky-a-lecba.A131108_154140_zdravi_pet",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2013/11/ona/PET4f1827_kasel.jpg",
+      "publishedAt": "2024-03-15 10:04:36",
+      "content": "ern\u00fd kael je bakteri\u00e1ln\u00ed, vysoce infekn\u00ed onemocnn\u00ed d\u00fdchac\u00ed soustavy. Zpsobuje ho bakterie Bordetella pertussis. \u00ed\u00ed se kap\u00e9nkovou infekc\u00ed pouze z lovka na lovka. Nakazit se tak lze pi mluven\u00ed, k\u00fdchn\u2026 [+2382 chars]",
+      "retrievedAt": "2024-03-16 19:05:57.922907",
+      "internal_id": "af6907406156a29faf01c7871a3bddd3e8d938035e0dd853105ab708e2ab2aec",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6967,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Vitoria Lopes Gomez",
+      "title": "O que faz a chikungunya ser t\u00e3o fatal? Estudo responde",
+      "description": "Estudo internacional descobriu que o v\u00edrus chikungunya faz um \"cavalo de troia\" para entrar no c\u00e9rebro e causar danos neurol\u00f3gicos O post O que faz a chikungunya ser t\u00e3o fatal? Estudo responde apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/03/15/medicina-e-saude/o-que-faz-a-chikungunya-ser-tao-fatal-estudo-responde/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/03/chykunguya-695x500.jpg",
+      "publishedAt": "2024-03-15 09:40:00",
+      "content": "Uma a cada 1 mil pessoas diagnosticadas com chikungunya morrem em decorr\u00eancia do v\u00edrus, uma taxa pouco maior do que a dengue. Agora, um estudo que incluiu pesquisadores da Universidade de S\u00e3o Paulo (\u2026 [+2393 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.184089",
+      "internal_id": "0ac6c21999d7ffb652dd3f4d3700ab4c44ed7b9a8fbef36ce70728614c58a11b",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6960,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "MIT Technology Review",
+      "author": "Cassandra Willyard",
+      "title": "Brazil is fighting dengue with bacteria-infected mosquitos",
+      "description": "This article first appeared in The Checkup, MIT Technology Review\u2019s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here. As dengue cases continue to rise in Brazil, the country is facing a mas\u2026",
+      "url": "https://www.technologyreview.com/2024/03/15/1089845/brazil-dengue-wolbachia-mosquitos/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/03/240314_labmosquito.jpg?resize=1200,600",
+      "publishedAt": "2024-03-15 09:00:00",
+      "content": "The World Mosquito Program is about to start construction on a mass rearing facilitythe biggest in the worldin Curitiba. And we believe that will allow us to essentially cover most of urban Brazil wi\u2026 [+1845 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.125144",
+      "internal_id": "9a8f861ddadce8f402079e2717b2d11cbcce373426318954452d205d7871d09a",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6964,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Vitoria Lopes Gomez",
+      "title": "USP: Feira de ci\u00eancias com projetos de todo o pa\u00eds j\u00e1 tem data para acontecer",
+      "description": "Febrace vai receber iniciativas sobre o mosquito da dengue, purifica\u00e7\u00e3o de \u00e1gua, monitoramento de queimadas e mais O post USP: Feira de ci\u00eancias com projetos de todo o pa\u00eds j\u00e1 tem data para acontecer apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/03/15/ciencia-e-espaco/usp-feira-de-ciencias-com-projetos-de-todo-o-pais-ja-tem-data-para-acontecer/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/03/febrace-695x500.png",
+      "publishedAt": "2024-03-15 07:40:00",
+      "content": "A 22\u00aa edi\u00e7\u00e3o da Feira Brasileira de Ci\u00eancias e Engenharia (Febrace) acontece entre os dias 18 e 22 de mar\u00e7o, no campus da Cidade Universit\u00e1ria da Universidade de S\u00e3o Paulo (USP), e vai receber projet\u2026 [+2120 chars]",
+      "retrievedAt": "2024-03-16 19:05:59.153464",
+      "internal_id": "a8ab08c42db802b8589fbc770c766be984ed8bb723c4c158176d0a58a57843b2",
+      "publishedAtLabel": "Mar 15"
+    },
     {
       "id": 6946,
       "query": [
@@ -40085,132 +40591,6 @@
       "content": "O cen\u00e1rio epidemiol\u00f3gico da dengue colocou Manaus, capital do Amazonas, em estado de alerta. Neste s\u00e1bado (28), a Secretaria Municipal de Sa\u00fade (Semsa) divulgou um comunicado alertando que o n\u00famero\u2026 [+1024 chars]",
       "retrievedAt": "2024-01-30 07:05:32.093157",
       "internal_id": "0f22a74a61ed86e16fe91b15851b02255500a3e4039e52e836b319453dc5fc8b",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4733,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Minist\u00e9rio da Sa\u00fade divulga lista de cidades receber\u00e3o vacina contra a dengue",
-      "description": "Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha",
-      "url": "https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2024/01/vacina.jpg",
-      "publishedAt": "2024-01-28 18:52:03",
-      "content": "\u00daltimas not\u00edcias: Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha contra a dengue. Essas localida\u2026 [+1333 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.164251",
-      "internal_id": "72f1c569ace4975365295b27438b1ddeb3d269bcb72c9ef4f1249631bb66b727",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4724,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Casos de dengue sobem 26% no Estado de SP e secretaria j\u00e1 confirma quatro mortes no ano",
-      "description": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-01-28 16:22:57",
-      "content": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 a terceira semana epidemiol\u00f3gica de 2024 (com dados at\u00e9 o dia 20 de janeiro). O n\u00famero representa uma a\u2026 [+2557 chars]",
-      "retrievedAt": "2024-01-29 19:05:24.425804",
-      "internal_id": "1efaf5d5cb0f6f21d5e730c2c8175b5ae58fc4506ebcccf031f21bb998267521",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4723,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Viomundo.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue",
-      "description": "Minist\u00e9rio da Sa\u00fade, Conass e Conasems em nota O post Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue apareceu primeiro em Viomundo.",
-      "url": "https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html",
-      "urlToImage": "https://www.viomundo.com.br/wp-content/uploads/2024/01/ac044d91-3312-4a01-8f23-57c8980ce5fa.png",
-      "publishedAt": "2024-01-28 15:48:17",
-      "content": "NOTA CONJUNTA Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios unem esfor\u00e7os para a\u00e7\u00f5es de enfrentamento da dengue Desde o ano passado, o Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios est\u00e3o em constante monit\u2026 [+3677 chars]",
-      "retrievedAt": "2024-01-29 19:05:24.273642",
-      "internal_id": "9ccb2fb3a9cdbdb34473a05ea403c8a78a3c0a2303e1a82061b629129f30f128",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4732,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Clar\u00edn",
-      "author": "Ernesto Azarkevich",
-      "title": "Una beba de tres meses muri\u00f3 por dengue en Misiones",
-      "description": "Lleg\u00f3 a la guardia de un hospital con fiebre y fue derivada a terapia intensiva, pero no lograron estabilizarla.Es la v\u00edctima m\u00e1s joven del brote que ya caus\u00f3 9 muertes en la provincia.",
-      "url": "https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html",
-      "urlToImage": "https://www.clarin.com/img/2023/12/21/jMTZGJwoe_2000x1500__1.jpg",
-      "publishedAt": "2024-01-28 15:42:04",
-      "content": "Una beba de tres mesesmuri\u00f3 por dengue en Misiones y es la novena v\u00edctima en la provincia desde mediados de diciembre pasado. En la \u00faltima semana el sistema de salud report\u00f3 m\u00e1s de 2.600 cuadros febr\u2026 [+2602 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.160802",
-      "internal_id": "0b0fd0ee4e9094077b576368a8240cfa981b0137e588cc37f6755d414211ce93",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4730,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "F\u00e1bio Andrighetto",
-      "title": "Dengue no RJ dispara 587%, com mais de 9 mil casos em tr\u00eas semanas",
-      "description": "O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u00f5es, um n\u00famero que j\u00e1 supera a m\u00e9dia hist\u00f3rica para todo o m\u00eas. A situa\u00e7\u00e3o \u00e9 pr\u2026",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2021/02/istock-599881744.jpg",
-      "publishedAt": "2024-01-28 14:52:50",
-      "content": "\u00daltimas not\u00edcias: O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u2026 [+1806 chars]",
-      "retrievedAt": "2024-01-30 07:05:32.154107",
-      "internal_id": "0892f851bd02e76d6fa09494c2842a3c71a097424b8424d17f9b43374e601a1c",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4722,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "TheJournal.ie",
-      "author": "Mairead Maguire",
-      "title": "HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK",
-      "description": "Health officials in Ireland are keeping \u201cvery close watch\u201d as the number of cases have risen around Europe too.",
-      "url": "https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/",
-      "urlToImage": "https://img2.thejournal.ie/article/6283808/river/?height=400&version=6283810",
-      "publishedAt": "2024-01-28 14:40:52",
-      "content": "THE HSE HAS urged parents to make sure their children are vaccinated against measles, as the UK sees a spike in case numbers. The MMR vaccine protects against measles, mumps and rubella. In the UK\u2026 [+1711 chars]",
-      "retrievedAt": "2024-01-29 19:05:23.759567",
-      "internal_id": "62113caca466ead9afe1e1ae2e5c7d8f6e2345410ae6ba1b02df0f5f2f12e05c",
-      "publishedAtLabel": "Jan 28"
-    },
-    {
-      "id": 4721,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Multi-language measles campaign launched",
-      "description": "London has the lowest percentage of children who have received both doses, experts say.",
-      "url": "https://www.bbc.co.uk/news/articles/cglmrrnm5d9o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2da6/live/135eb770-bc64-11ee-92a5-1d8f75943063.jpg",
-      "publishedAt": "2024-01-28 08:55:12",
-      "content": "Rhoda Ibrahim, from the Somali Advice and Forum of Information, told BBC Politics London: \"It's always the elderly men and women that don't speak English and it's also the mums. \"About 80% of the mu\u2026 [+683 chars]",
-      "retrievedAt": "2024-01-29 19:05:23.738701",
-      "internal_id": "e13bf1fb456bb23471488c6867b391bbf96b8bd03e39bbbb408ce79ebb92a0cd",
       "publishedAtLabel": "Jan 28"
     }
   ]
