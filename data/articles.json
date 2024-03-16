@@ -1,8 +1,333 @@
 {
-  "last_updated": "2024-03-15 19:05",
-  "count_articles_total": 2203,
-  "count_articles_new": 27,
+  "last_updated": "2024-03-16 07:05",
+  "count_articles_total": 2228,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 6946,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El gasto p\u00fablico en innovaci\u00f3n sanitaria mundial genera beneficios extraordinarios",
+      "description": "La financiaci\u00f3n p\u00fablica para la I+D en salud mundial es peque\u00f1a, en comparaci\u00f3n con los incre\u00edbles beneficios que proporciona para combatir enfermedades emergentes y desatendidas como la malaria, el VIH, la tuberculosis, el \u00c9bola y la COVID-19, y para abastec\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-gasto-publico-innovacion-sanitaria-mundial-genera-beneficios-extraordinarios-20240315073948.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240315073948_1200.jpg",
+      "publishedAt": "2024-03-15 06:39:48",
+      "content": "MADRID, 15 Mar. (EUROPA PRESS) - La financiaci\u00f3n p\u00fablica para la I+D en salud mundial es peque\u00f1a, en comparaci\u00f3n con los incre\u00edbles beneficios que proporciona para combatir enfermedades emergentes\u2026 [+4735 chars]",
+      "retrievedAt": "2024-03-16 07:05:56.493313",
+      "internal_id": "7b935e94ac4ecf11e3739f52019eb794add4bc2d0b65e0479f8340d3493964fd",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6944,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Fran\u00e7oise Hauser",
+      "title": "So sch\u00fctzen Sie sich vor Krankheiten in den Tropen",
+      "description": "Wer in die Tropen fliegt, sollte sich gut vorbereiten. Neben Impfungen, die f\u00fcr die Einreise in bestimmte L\u00e4nder verpflichtend sind, sollte man auch die klassischen nicht vergessen, die in Europa sinnvoll sind. Und es gibt noch weitere Ma\u00dfnahmen zur Vorsorge.",
+      "url": "https://www.welt.de/reise/Fern/article250546342/Urlaub-in-den-Tropen-Von-Malaria-bis-Tollwut-reisen-ohne-Risiko.html",
+      "urlToImage": "https://img.welt.de/img/reise/mobile250549438/2011350237-ci16x9-w1200/452206939.jpg",
+      "publishedAt": "2024-03-15 06:17:09",
+      "content": "Wer in den Tropen sicher reisen will, sollte sich gegen das t\u00f6dlichste Tier wappnen, das der Planet zu bieten hat: die M\u00fccke! Laut dem Welt-Malariabericht 2022 der Weltgesundheitsorganisation (WHO) e\u2026 [+5059 chars]",
+      "retrievedAt": "2024-03-16 07:05:56.465600",
+      "internal_id": "20b4d2b70acf103d306a970432f5ac628e3a3fb45cc1e6c018e055f820152bd4",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6936,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": "di Marzio Bartoloni",
+      "title": "Ancora allerta Dengue: controlli in porti e aeroporti e anche su merci come i fiori",
+      "description": "Al momento nel nostro Paese non sono stati registrati casi \u201cautoctoni\u201d, ma tutti importati dall\u2019estero",
+      "url": "https://www.ilsole24ore.com/art/ancora-allerta-dengue-controlli-porti-e-aeroporti-e-anche-merci-come-fiori-AFcWmU3C",
+      "urlToImage": "https://i2.res.24o.it/images2010/2024/03/AFcWmU3C/images/edec2b08-c816-11ee-9851-2be6a835c1a3-fotohome0.jpg",
+      "publishedAt": "2024-03-15 06:12:31",
+      "content": "Ascolta la versione audio dell'articolo 2' di lettura Dopo la prima circolare a met\u00e0 febbraio sulle misure anti-Dengue, la progressione dei casi a livello internazionale soprattutto in Brasile fa s\u2026 [+3435 chars]",
+      "retrievedAt": "2024-03-16 07:05:55.378501",
+      "internal_id": "e205b7c2782467f8504cc323ae3d04c9701a47a219627e6bab22fe4343cac161",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6939,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "DF j\u00e1 teve uma morte por dengue ao ano. Em 2024, s\u00e3o 109. O que houve?",
+      "description": "Desde o in\u00edcio da s\u00e9rie hist\u00f3rica, em 2007, a Secretaria de Sa\u00fade do DF registrou 373 mortes por dengue. Dessas, 109 foram s\u00f3 em 2024",
+      "url": "https://www.metropoles.com/distrito-federal/df-ja-teve-uma-morte-por-dengue-ao-ano-em-2024-sao-109-o-que-houve",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08095316/hospital-de-campanha-atendendo-casos-de-dengue-no-DF-4.jpeg",
+      "publishedAt": "2024-03-15 05:30:35",
+      "content": "Entre o in\u00edcio deste ano e 9 de mar\u00e7o, o Distrito Federal registrou 109 mortes por dengue. O n\u00famero representa quase 30% do total de \u00f3bitos notificados na s\u00e9rie hist\u00f3rica da doen\u00e7a, desde 2007. Ao lo\u2026 [+6212 chars]",
+      "retrievedAt": "2024-03-16 07:05:55.447430",
+      "internal_id": "08568add5716bec93a892b9704913e9bc0c4a2a1cf0989f8ddf7ac60b6ea7da5",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6949,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "LOUIS PATRICK OKAMBA Associated Press",
+      "title": "Republic of Congo reports its first mpox virus cases, in several regions",
+      "description": "The Republic of Congo has recorded its first cases of mpox in several regions",
+      "url": "https://abcnews.go.com/Health/wireStory/republic-congo-reports-mpox-virus-cases-regions-108140929",
+      "urlToImage": "https://i.abcnewsfe.com/a/60059df4-a76b-4eb2-a0f3-47b4daff2856/wirestory_7c72b0efda36703155689377263d5899_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-15 03:13:50",
+      "content": "BRAZZAVILLE, Republic of Congo -- The Republic of Congo has recorded its first cases of mpox in several regions, the health ministry said, an indication of how the disease may be spreading across Afr\u2026 [+1890 chars]",
+      "retrievedAt": "2024-03-16 07:05:57.466700",
+      "internal_id": "679d96d9ad93277e04ae51aac246e6a0feb91db2e2c2e4028df181ca3ae325cc",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6947,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Hellen Shikanda",
+      "title": "Alert over new mosquito spreading malaria",
+      "description": "New mosquito variant is spreading the disease to non-endemic regions in the country.",
+      "url": "https://nation.africa/kenya/health/alert-over-new-mosquito-spreading-malaria-4556890",
+      "urlToImage": "https://nation.africa/resource/image/4556892/landscape_ratio3x2/1200/800/c82304ee5a8202f9afa427ba80722f0c/pQ/mosquito.jpg",
+      "publishedAt": "2024-03-15 03:10:53",
+      "content": "A new mosquito species with potential to drive new malaria cases in non-endemic malaria zones has been recorded in some parts of the country, the Health ministry has said. In a parliamentary committ\u2026 [+2989 chars]",
+      "retrievedAt": "2024-03-16 07:05:56.497721",
+      "internal_id": "2c33c42483dd83f9b9e35ba2612c9751301a879eec788d4187dca215e5c1a622",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6951,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Amy Roulston",
+      "title": "Contagious disease transmitted through faeces runs rampant amongst psychedelic festival-goers as health officials urge better hygiene",
+      "description": "A Shigellosis disease outbreak has been confirmed at Victoria\u2019s Esoteric Festival, with festival-goers warned that the highly contagious bowel infection can have dire symptoms.",
+      "url": "https://www.skynews.com.au/australia-news/contagious-disease-spread-through-faeces-runs-rampant-amongst-psychedelic-festivalgoers-as-health-officials-urge-better-hygiene/news-story/ac537b71f7d303ffe1749029d9fbfd40",
+      "urlToImage": "https://content.api.news/v3/images/bin/85b2864a35a1a95e9915c5c8bb5c3123",
+      "publishedAt": "2024-03-15 03:09:44",
+      "content": "A Shigellosis disease outbreak has been confirmed at Victoria\u2019s Esoteric Festival, with festival-goers warned that the highly contagious bowel infection can have dire symptoms. Shigellosis (Shigella\u2026 [+1956 chars]",
+      "retrievedAt": "2024-03-16 07:05:58.290879",
+      "internal_id": "9379e7e733dd833ecd5c7fd07e143a5547d2642cc462ab66d6b78d7e90308eb0",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6935,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Measles outbreak fears: Children under nine checked for \u2018possible\u2019 infection as GPs urged to be vigilant",
+      "description": "Children under the age of nine were among the \u201cpossible\u201d cases of measles under investigation last week as four cases of the illness have now been confirmed here this year.",
+      "url": "https://www.independent.ie/irish-news/measles-outbreak-fears-children-under-nine-checked-for-possible-infection-as-gps-urged-to-be-vigilant/a2002280754.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/wrghX3kimJ7hES9VWWBjM0gIhk0=/629x460/smart/prod-mh-ireland/b36ee6a2-8a7f-4909-a390-9e269b40deac/696a50ff-b811-4e28-9a1f-c713b7d13933/b36ee6a2-8a7f-4909-a390-9e269b40deac.jpg",
+      "publishedAt": "2024-03-15 02:30:00",
+      "content": "Children under the age of nine were among the possible cases of measles under investigation last week as four cases of the illness have now been confirmed here this year.The children from whom precau\u2026 [+2174 chars]",
+      "retrievedAt": "2024-03-16 07:05:54.415223",
+      "internal_id": "85cc9ca521e58813f7075b3bb964b9385e6fe9e690ba83c1f0b2e2e35fecb3f4",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6940,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Para conter dengue, sociedade civil se organiza e cobra a\u00e7\u00f5es no DF",
+      "description": "Conselhos, associa\u00e7\u00f5es e sindicatos sugerem nomea\u00e7\u00f5es de servidores e a revis\u00e3o do modelo das tendas montadas contra a dengue no DF",
+      "url": "https://www.metropoles.com/distrito-federal/para-conter-dengue-sociedade-civil-se-organiza-e-cobra-acoes-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-03-15 02:02:44",
+      "content": "Diante dos n\u00fameros da dengue no Distrito Federal, a sociedade civil decidiu se mobilizar e recomendar a\u00e7\u00f5es para conter a epidemia, a exemplo da nomea\u00e7\u00e3o de servidores e corre\u00e7\u00f5es no modelos das tend\u2026 [+4669 chars]",
+      "retrievedAt": "2024-03-16 07:05:55.461337",
+      "internal_id": "a94b21b09a6868f359e051bb6a78bc7ad4dffc99aabc94502db2c21fd60f6cf0",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6934,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Mary Chastain",
+      "title": "Chicago: Two More Measles Cases at Illegal Immigrant Shelter Pushing Total to 12",
+      "description": "Six adults. Six children. The post Chicago: Two More Measles Cases at Illegal Immigrant Shelter Pushing Total to 12 first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/03/chicago-two-more-measles-cases-at-illegal-immigrant-shelter-pushing-total-to-12/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/03/Chicago-Measles-2.jpg",
+      "publishedAt": "2024-03-15 01:00:52",
+      "content": "Twelve measles cases. TWELVE. Chicago health officials confirmed two more measles cases at the Pilsen shelter. TWELVE TOTAL: According to the CDPH, 10 of the 12 cases originate from the Pilsen mig\u2026 [+2315 chars]",
+      "retrievedAt": "2024-03-16 07:05:54.383525",
+      "internal_id": "f1aed56bdaeb99a07970711565fbaaa3a4fc5148d72de5f9bddecc3e30abd917",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 6943,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Robyn White",
+      "title": "Neurological Disorders Becoming More Common Worldwide\u2014'Very Concerning'",
+      "description": "In 2021, around a whopping 43 percent of the global population suffered from some kind of neurological condition.",
+      "url": "https://www.newsweek.com/neurological-disorders-common-worldwide-health-1878910",
+      "urlToImage": "https://d.newsweek.com/en/full/2361984/brain-scan.jpg",
+      "publishedAt": "2024-03-14 23:30:01",
+      "content": "Neurological disorders are becoming more common worldwide, a new study has found. The number of people living and dying with such conditions as Alzheimer's disease, other dementias, meningitis, and \u2026 [+4359 chars]",
+      "retrievedAt": "2024-03-16 07:05:55.884730",
+      "internal_id": "6105f828a2838fe7e2523738dfde582faa201e546f3449cb122a0a57265f8c03",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6950,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Jandan.net",
+      "author": "BALI",
+      "title": "\u5728\u77f3\u5668\u65f6\u4ee3\uff0c\u63a5\u543b\u53ef\u80fd\u4f1a\u6b7b",
+      "description": "\u77f3\u5668\u65f6\u4ee3\u7ec6\u83cc\u4e30\u5bcc",
+      "url": "http://jandan.net/p/115919",
+      "urlToImage": null,
+      "publishedAt": "2024-03-14 23:06:08",
+      "content": "BALI @ 2024.03.15 , 07:06 2 38 660 3,000 Nora Bergfeldt (Bergsgraven) 10% 2022 () (Yersinia pestis) Anders G\u00f6therstr\u00f6m 1 (HSV-1) 37 67% IFLScienceBALI (1)",
+      "retrievedAt": "2024-03-16 07:05:58.045841",
+      "internal_id": "d3fde980106255d87562f604449c809050213d1a1c1acaf58248059fc2d3ada7",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Mortes por dengue j\u00e1 somam 491 e n\u00famero de casos passa de 1,6 milh\u00e3o",
+      "description": "Minist\u00e9rio da Sa\u00fade ampliou a vacina\u00e7\u00e3o contra a dengue para crian\u00e7as e adolescentes de 10 a 14 anos",
+      "url": "https://www.metropoles.com/brasil/mortes-por-dengue-ja-somam-491-e-numero-de-casos-passa-de-16-milhao",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
+      "publishedAt": "2024-03-14 21:30:42",
+      "content": "O Brasil j\u00e1 registrou 491 mortes por dengue e 1.657.814 casos prov\u00e1veis da doen\u00e7a neste ano. Os n\u00fameros s\u00e3o do Painel de Arboviroses do Minist\u00e9rio da Sa\u00fade, atualizado nesta quinta-feira (14/3) com i\u2026 [+4181 chars]",
+      "retrievedAt": "2024-03-16 07:05:55.434806",
+      "internal_id": "7f7fe7fe1d36bdc06ab042859d1a28ef4a04c1b8e13b16c0eb9fa60aee8691d8",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6942,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "N\u00famero de mortes por dengue no estado de S\u00e3o Paulo sobe para 66",
+      "description": "Dados do painel de controle da Secretaria Estadual da Sa\u00fade (SES) apontam que h\u00e1 mais de 205 mil casos confirmados de dengue em SP",
+      "url": "https://saude.ig.com.br/2024-03-14/numero-de-mortes-por-dengue-no-estado-de-sao-paulo-sobe-para-66.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-03-14 20:00:36",
+      "content": "O n\u00famero de mortos por dengue no estado de S\u00e3o Paulo subiu para 66 nesta quinta-feira (14), segundo informa\u00e7\u00f5es do painel de controle da doen\u00e7a da Secretaria Estadual da Sa\u00fade (SES). Ainda de acordo\u2026 [+2177 chars]",
+      "retrievedAt": "2024-03-16 07:05:55.510309",
+      "internal_id": "61fbc5d41812e03960d7f8292423d44e9c9b6fd50becd89c6f72181fc7119fad",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6948,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Bact\u00e9ria inserida em mosquitos da dengue reduzem casos em at\u00e9 70%",
+      "description": "O munic\u00edpio de Niter\u00f3i (RJ) registrou uma redu\u00e7\u00e3o de 70% nos casos de dengue, 60% nos de Chikungunya e 40% nos registros de zika v\u00edrus entre 2...",
+      "url": "https://noticias.r7.com/record-news/videos/bacteria-inserida-em-mosquitos-da-dengue-reduzem-casos-em-ate-70-14032024",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2024/03/14/65f37b944b49550505000f76/218b088890c94fb78ca83d16f230e0fe__Bact_ria_inserida_em_mosquitos_da_dengue_reduzem_casos_em_at__70__thumb.jpg",
+      "publishedAt": "2024-03-14 19:45:39",
+      "content": "O munic\u00edpio de Niter\u00f3i (RJ) registrou uma redu\u00e7\u00e3o de 70% nos casos de dengue, 60% nos de Chikungunya e 40% nos registros de zika v\u00edrus entre 2013 e 2023. Essa queda se d\u00e1 pelo projeto de inser\u00e7\u00e3o de \u2026 [+176 chars]",
+      "retrievedAt": "2024-03-16 07:05:56.900114",
+      "internal_id": "990ac87af7ef440a97d44ae322d738a9f08fc60617d971fa75c952bacd78f487",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6941,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Dengue en Uruguay: hay un nuevo caso aut\u00f3ctono, dos m\u00e1s importados y cuatro probables",
+      "description": "Hay 13 personas con test de ant\u00edgeno positivo que tienen antecedentes de viaje, ocho que no lo tienen y una con la que no se cuentan datos.",
+      "url": "https://www.montevideo.com.uy/Salud/Dengue-en-Uruguay-hay-un-nuevo-caso-autoctono-dos-mas-importados-y-cuatro-probables-uc882574",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
+      "publishedAt": "2024-03-14 19:31:00",
+      "content": "Montevideo Portal El Ministerio de Salud P\u00fablica (MSP) actualiz\u00f3 este jueves los datos de arbovirosis (enfermedades que se transmiten a trav\u00e9s de la picadura de un mosquito) en Uruguay. En tal \u2026 [+1301 chars]",
+      "retrievedAt": "2024-03-16 07:05:55.476621",
+      "internal_id": "dbe4c830c586cff568e0a7b28eb6770d2dd93c34414e2a07db85c77efc50512f",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6937,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "F\u00e1bio Matos",
+      "title": "Confus\u00e3o com sindicalistas tumultua visita de Nunes a pacientes com dengue em SP",
+      "description": "O prefeito de S\u00e3o Paulo, Ricardo Nunes (MDB), pr\u00e9-candidato \u00e0 reelei\u00e7\u00e3o, foi hostilizado por sindicalistas que reivindicavam reajuste salarial para o funcionalismo p\u00fablico The post Confus\u00e3o com sindicalistas tumultua visita de Nunes a pacientes com dengue em \u2026",
+      "url": "https://www.infomoney.com.br/politica/confusao-com-sindicalistas-tumultua-visita-de-nunes-a-pacientes-com-dengue-em-sp/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/03/ricardo-nunes.jpg?fit=830%2C574&quality=70&strip=all",
+      "publishedAt": "2024-03-14 19:25:00",
+      "content": "O prefeito de S\u00e3o Paulo e pr\u00e9-candidato \u00e0 reelei\u00e7\u00e3o, Ricardo Nunes (MDB), foi alvo de um protesto de sindicalistas na manh\u00e3 desta quinta-feira (14), durante visita \u00e0s tendas de atendimento a paciente\u2026 [+3646 chars]",
+      "retrievedAt": "2024-03-16 07:05:55.427190",
+      "internal_id": "098f75902c62ae428d85377a242a2f5d8a730746ab54e558a9f2f9283d1482a4",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 6945,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Thomas Jeffries, Senior Lecturer in Microbiology, Western Sydney University",
+      "title": "From malaria, to smallpox, to polio \u2013 here\u2019s how we know life in ancient Egypt was ravaged by disease",
+      "description": "Beyond the tombs and riches, life in ancient Egypt wasn\u2019t so luxurious, after all.",
+      "url": "https://theconversation.com/from-malaria-to-smallpox-to-polio-heres-how-we-know-life-in-ancient-egypt-was-ravaged-by-disease-223970",
+      "urlToImage": "https://images.theconversation.com/files/581183/original/file-20240312-29-m4tny7.jpg?ixlib=rb-1.1.0&rect=25%2C452%2C3369%2C1684&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-03-14 19:24:37",
+      "content": "Shutterstock The mention of ancient Egypt usually conjures images of colossal pyramids and precious, golden tombs. But as with most civilisations, the invisible world of infectious disease underpi\u2026 [+6446 chars]",
+      "retrievedAt": "2024-03-16 07:05:56.479692",
+      "internal_id": "d01825654cfc929123cfa4ffac78066fce1fc99160be57c85778e2a44bee4b30",
+      "publishedAtLabel": "Mar 14"
+    },
     {
       "id": 6911,
       "query": [
@@ -295,7 +620,8 @@
       "id": 6926,
       "query": [
         "zika",
-        "chikungunya"
+        "chikungunya",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Plos.org",
@@ -39759,6 +40085,132 @@
       "content": "O cen\u00e1rio epidemiol\u00f3gico da dengue colocou Manaus, capital do Amazonas, em estado de alerta. Neste s\u00e1bado (28), a Secretaria Municipal de Sa\u00fade (Semsa) divulgou um comunicado alertando que o n\u00famero\u2026 [+1024 chars]",
       "retrievedAt": "2024-01-30 07:05:32.093157",
       "internal_id": "0f22a74a61ed86e16fe91b15851b02255500a3e4039e52e836b319453dc5fc8b",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4733,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Minist\u00e9rio da Sa\u00fade divulga lista de cidades receber\u00e3o vacina contra a dengue",
+      "description": "Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha",
+      "url": "https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2024/01/vacina.jpg",
+      "publishedAt": "2024-01-28 18:52:03",
+      "content": "\u00daltimas not\u00edcias: Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha contra a dengue. Essas localida\u2026 [+1333 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.164251",
+      "internal_id": "72f1c569ace4975365295b27438b1ddeb3d269bcb72c9ef4f1249631bb66b727",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4724,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Casos de dengue sobem 26% no Estado de SP e secretaria j\u00e1 confirma quatro mortes no ano",
+      "description": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-01-28 16:22:57",
+      "content": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou ter confirmado 10.728 casos de dengue at\u00e9 a terceira semana epidemiol\u00f3gica de 2024 (com dados at\u00e9 o dia 20 de janeiro). O n\u00famero representa uma a\u2026 [+2557 chars]",
+      "retrievedAt": "2024-01-29 19:05:24.425804",
+      "internal_id": "1efaf5d5cb0f6f21d5e730c2c8175b5ae58fc4506ebcccf031f21bb998267521",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4723,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Viomundo.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue",
+      "description": "Minist\u00e9rio da Sa\u00fade, Conass e Conasems em nota O post Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue apareceu primeiro em Viomundo.",
+      "url": "https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html",
+      "urlToImage": "https://www.viomundo.com.br/wp-content/uploads/2024/01/ac044d91-3312-4a01-8f23-57c8980ce5fa.png",
+      "publishedAt": "2024-01-28 15:48:17",
+      "content": "NOTA CONJUNTA Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios unem esfor\u00e7os para a\u00e7\u00f5es de enfrentamento da dengue Desde o ano passado, o Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios est\u00e3o em constante monit\u2026 [+3677 chars]",
+      "retrievedAt": "2024-01-29 19:05:24.273642",
+      "internal_id": "9ccb2fb3a9cdbdb34473a05ea403c8a78a3c0a2303e1a82061b629129f30f128",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4732,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Clar\u00edn",
+      "author": "Ernesto Azarkevich",
+      "title": "Una beba de tres meses muri\u00f3 por dengue en Misiones",
+      "description": "Lleg\u00f3 a la guardia de un hospital con fiebre y fue derivada a terapia intensiva, pero no lograron estabilizarla.Es la v\u00edctima m\u00e1s joven del brote que ya caus\u00f3 9 muertes en la provincia.",
+      "url": "https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html",
+      "urlToImage": "https://www.clarin.com/img/2023/12/21/jMTZGJwoe_2000x1500__1.jpg",
+      "publishedAt": "2024-01-28 15:42:04",
+      "content": "Una beba de tres mesesmuri\u00f3 por dengue en Misiones y es la novena v\u00edctima en la provincia desde mediados de diciembre pasado. En la \u00faltima semana el sistema de salud report\u00f3 m\u00e1s de 2.600 cuadros febr\u2026 [+2602 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.160802",
+      "internal_id": "0b0fd0ee4e9094077b576368a8240cfa981b0137e588cc37f6755d414211ce93",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4730,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "F\u00e1bio Andrighetto",
+      "title": "Dengue no RJ dispara 587%, com mais de 9 mil casos em tr\u00eas semanas",
+      "description": "O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u00f5es, um n\u00famero que j\u00e1 supera a m\u00e9dia hist\u00f3rica para todo o m\u00eas. A situa\u00e7\u00e3o \u00e9 pr\u2026",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2021/02/istock-599881744.jpg",
+      "publishedAt": "2024-01-28 14:52:50",
+      "content": "\u00daltimas not\u00edcias: O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u2026 [+1806 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.154107",
+      "internal_id": "0892f851bd02e76d6fa09494c2842a3c71a097424b8424d17f9b43374e601a1c",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4722,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Mairead Maguire",
+      "title": "HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK",
+      "description": "Health officials in Ireland are keeping \u201cvery close watch\u201d as the number of cases have risen around Europe too.",
+      "url": "https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6283808/river/?height=400&version=6283810",
+      "publishedAt": "2024-01-28 14:40:52",
+      "content": "THE HSE HAS urged parents to make sure their children are vaccinated against measles, as the UK sees a spike in case numbers. The MMR vaccine protects against measles, mumps and rubella. In the UK\u2026 [+1711 chars]",
+      "retrievedAt": "2024-01-29 19:05:23.759567",
+      "internal_id": "62113caca466ead9afe1e1ae2e5c7d8f6e2345410ae6ba1b02df0f5f2f12e05c",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4721,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Multi-language measles campaign launched",
+      "description": "London has the lowest percentage of children who have received both doses, experts say.",
+      "url": "https://www.bbc.co.uk/news/articles/cglmrrnm5d9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2da6/live/135eb770-bc64-11ee-92a5-1d8f75943063.jpg",
+      "publishedAt": "2024-01-28 08:55:12",
+      "content": "Rhoda Ibrahim, from the Somali Advice and Forum of Information, told BBC Politics London: \"It's always the elderly men and women that don't speak English and it's also the mums. \"About 80% of the mu\u2026 [+683 chars]",
+      "retrievedAt": "2024-01-29 19:05:23.738701",
+      "internal_id": "e13bf1fb456bb23471488c6867b391bbf96b8bd03e39bbbb408ce79ebb92a0cd",
       "publishedAtLabel": "Jan 28"
     }
   ]
