@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-03-17 07:06
-- **Most recent article:** 2024-03-16 07:01:22
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-03-17 19:05
+- **Most recent article:** 2024-03-16 17:33:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 192 | 142 | 214 | 191 | 188 | 207 | 1134 |
-| measles | 86 | 90 | 64 | 45 | 100 | 80 | 465 |
-| malaria | 15 | 23 | 34 | 19 | 33 | 17 | 141 |
+| dengue | 192 | 147 | 205 | 191 | 188 | 207 | 1130 |
+| measles | 86 | 93 | 63 | 45 | 100 | 80 | 467 |
+| malaria | 15 | 23 | 32 | 19 | 33 | 17 | 139 |
 | chikungunya | 8 | 20 | 12 | 8 | 14 | 16 | 78 |
 | zika | 16 | 16 | 13 | 6 | 13 | 11 | 75 |
-| meningitis | 16 | 5 | 8 | 8 | 7 | 4 | 48 |
-| rabies | 6 | 5 | 6 | 9 | 5 | 8 | 39 |
+| meningitis | 16 | 5 | 7 | 8 | 7 | 4 | 47 |
+| rabies | 6 | 6 | 6 | 9 | 5 | 8 | 40 |
 | mpox | 5 | 8 | 5 | 8 | 6 | 1 | 33 |
 | sarampión | 3 | 3 | 5 | 4 | 11 | 5 | 31 |
-| pertussis | 4 | 5 | 1 | 6 | 0 | 4 | 20 |
+| pertussis | 4 | 5 | 0 | 6 | 0 | 4 | 19 |
 | yersinia | 1 | 3 | 1 | 2 | 1 | 1 | 9 |
 | typhoid | 0 | 0 | 1 | 2 | 2 | 1 | 6 |
 | leptospirosis | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
@@ -2264,10 +2264,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog ecology and rabies knowledge, attitude and practice (KAP) in the Northern Communal Areas of Namibia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011631) (Plos.org)
 
-## 24-6 (pertussis)
-
-- [Whooping cough outbreak in Israel; go get vaccinated!](https://www.ynetnews.com/health_science/article/rk293l69a) (Ynetnews)
-
 ## 24-6 (mpox)
 
 - [Een gevaarlijk mpox-virus gaat rond in Congo, maar zicht op de uitbraak ontbreekt](https://www.nrc.nl/nieuws/2024/02/07/een-gevaarlijk-mpox-virus-gaat-rond-in-congo-maar-zicht-op-de-uitbraak-ontbreekt-a4189345) (Www.nrc.nl)
@@ -2295,8 +2291,6 @@ Source: [News API](https://newsapi.org/)
 - ['It's my dream': Nova Scotia's Emma Logan wants to encourage more deaf people to curl](https://www.cbc.ca/news/canada/nova-scotia/emma-logan-wants-to-encourage-more-deaf-people-to-curl-1.7088929) (CBC News)
 
 - [Gigi & Nate Streaming: Watch & Stream Online via Hulu](https://www.comingsoon.net/guides/news/1525233-gigi-nate-streaming-watch-stream-online-via-hulu) (ComingSoon.net)
-
-- [Presos por brote de meningitis, sólo 2 de 8 dueños de clínicas en Durango](https://www.jornada.com.mx/2024/02/04/estados/024n1est) (Jornada.com.mx)
 
 ## 24-6 (measles)
 
@@ -2426,8 +2420,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles: Urgent Wales call on MMR vaccine for children](https://www.bbc.co.uk/news/uk-wales-68181185) (BBC News)
 
-- [Death of 21 Children Due to Measles in Badakhshan: Residents Decry Lack of Health Facilities](https://8am.media/eng/death-of-21-children-due-to-measles-in-badakhshan-residents-decry-lack-of-health-facilities/) (8am.media)
-
 ## 24-6 (malaria)
 
 - [Africa: Nearly 10 000 Children Vaccinated As Malaria Vaccine Rollout in Africa Expands](https://allafrica.com/stories/202402100036.html) (AllAfrica - Top Africa News)
@@ -2493,10 +2485,6 @@ Source: [News API](https://newsapi.org/)
 - [MGI: Closing the Cancer Care Gap with the Power of Precision Oncology](https://www.prnewswire.co.uk/news-releases/mgi-closing-the-cancer-care-gap-with-the-power-of-precision-oncology-302052684.html) (PR Newswire UK)
 
 - [Due calciatori del Mali hanno la malaria. Il ct: «Nessun allarme, in Africa sono abituati»](https://www.corriere.it/sport/calcio/24_febbraio_04/due-calciatori-mali-malaria-coppa-africa-c56a85e6-c38c-11ee-ab83-02c4d4315342.shtml) (Corriere.it)
-
-- [Tottenham midfielder Yves Bissouma 'played with malaria' for Mali at AFCON 2023](https://www.fourfourtwo.com/news/tottenham-midfielder-yves-bissouma-played-with-malaria-for-mali-at-afcon-2023) (FourFourTwo)
-
-- [Tottenhamstjärnan spelade - trots sjukdomen](https://www.expressen.se/sport/fotboll/premier-league/tottenhamstjarnan-spelade-trots-sjukdomen/) (Expressen.se)
 
 ## 24-6 (leptospirosis)
 
@@ -2914,24 +2902,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hospital de campanha contra dengue começa a funcionar nesta segunda](https://www.metropoles.com/distrito-federal/hospital-de-campanha-contra-dengue-comeca-a-funcionar-nesta-segunda) (Metropoles.com)
 
-- [Hospital de Campanha da FAB contra dengue é montado em Ceilândia](https://www.metropoles.com/distrito-federal/hospital-de-campanha-da-fab-contra-dengue-e-montado-em-ceilandia) (Metropoles.com)
-
-- [Veja lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/veja-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
-
-- [200.000 Infektionen: Brasilien kämpft gegen rasante Ausbreitung des Denguefiebers](https://www.faz.net/aktuell/gesellschaft/gesundheit/200-000-infektionen-brasilien-kaempft-gegen-denguefieber-19495868.html) (Faz.net)
-
-- [Dengue: Ministério da Saúde estuda ampliar vacinação](https://saude.ig.com.br/2024-02-04/dengue--ministerio-da-saude-estuda-ampliar-vacinacao.html) (Ig.com.br)
-
-- [Ministério da Saúde estuda ampliar oferta da vacina contra a dengue](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-estuda-ampliar-oferta-da-vacina-contra-a-dengue,e425e117b5e85fbecadb247b6aa94c7brmd8x583.html) (Terra.com.br)
-
-- [Ex-deputado cobra ministra da Saúde por emendas indicadas em 2022](https://www.metropoles.com/colunas/guilherme-amado/ex-deputado-cobra-ministra-da-saude-por-emendas-indicadas-em-2022) (Metropoles.com)
-
-- [Tire as principais dúvidas sobre a vacinação contra dengue](https://noticias.r7.com/brasilia/tire-as-principais-duvidas-sobre-a-vacinacao-contra-dengue-04022024) (R7.com)
-
-- [Vacina da dengue: tudo o que você precisa saber sobre imunizante](https://olhardigital.com.br/2024/02/04/medicina-e-saude/vacina-da-dengue-tudo-o-que-voce-precisa-saber-sobre-imunizante/) (Olhardigital.com.br)
-
-- ['Aedes do bem' em casa? Mosquito com modificação genética para combater dengue ganha versão domiciliar](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/04/aedes-do-bem-em-casa-mosquito-com-modificacao-genetica-para-combater-dengue-ganha-versao-domiciliar.ghtml) (Globo)
-
 ## 24-6 (chikungunya)
 
 - [Fiocruz dobra produção de testes de dengue a pedido da Saúde](https://www.metropoles.com/brasil/fiocruz-dobra-producao-de-testes-de-dengue-a-pedido-da-saude) (Metropoles.com)
@@ -3016,6 +2986,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (rabies)
 
+- [PM requests strict rabies prevention and control](https://en.vietnamplus.vn/pm-requests-strict-rabies-prevention-and-control/283023.vnp) (Vietnamplus.vn)
+
 - [Raccoon tests positive for rabies in Martin County](https://www.wptv.com/news/health/raccoon-tests-positive-for-rabies-in-martin-county) (WPTV.com)
 
 - [Surge in dog attack cases in Roorkee, doctors witness 60-70 daily](https://timesofindia.indiatimes.com/city/dehradun/surge-in-dog-attack-cases-in-roorkee-doctors-witness-60-70-daily/articleshow/108450114.cms) (The Times of India)
@@ -3069,6 +3041,12 @@ Source: [News API](https://newsapi.org/)
 - [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
 
 ## 24-11 (measles)
+
+- [Measles infections are on the rise, with more cases so far in 2024 than all of last year](https://www.cbsnews.com/video/measles-infections-are-on-the-rise-with-more-cases-so-far-in-2024-than-all-of-last-year/) (CBS News)
+
+- [Canada heading toward major measles outbreak without vaccine boost, new modelling suggests](https://www.cbc.ca/news/health/canada-measles-outbreak-vaccination-1.7144915) (CBC News)
+
+- [National Immunization Day: After ending polio, India takes steps to eliminate another childhood disease, measles](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/national-immunization-day-after-ending-polio-india-takes-steps-to-eliminate-another-childhood-disease-measles/articleshow/108542667.cms) (The Times of India)
 
 - [US Measles Cases Totals More in New Year So Far Than All of 2023](https://sputnikglobe.com/20240316/us-measles-cases-totals-more-in-new-year-so-far-than-all-of-2023-1117359902.html) (Sputnikglobe.com)
 
@@ -3303,6 +3281,16 @@ Source: [News API](https://newsapi.org/)
 - [Cross-sectional serosurvey of Leptospira species among slaughter pigs, goats, and sheep in Uganda](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012055) (Plos.org)
 
 ## 24-11 (dengue)
+
+- [Ecuador registra 15 fallecidos por dengue y casi 11.500 enfermos](https://sputniknews.lat/20240316/ecuador-registra-15-fallecidos-por-dengue-y-casi-11500-enfermos-1149011093.html) (Sputniknews.lat)
+
+- [8 respostas para dúvidas sobre a dengue](https://saude.ig.com.br/parceiros/edicase/2024-03-16/8-respostas-para-duvidas-sobre-a-dengue.html) (Ig.com.br)
+
+- [8 respostas para dúvidas sobre a dengue](https://www.terra.com.br/vida-e-estilo/saude/8-respostas-para-duvidas-sobre-a-dengue,8ff81cae0c1f340ea5bf23551822cdccb6sy11ql.html) (Terra.com.br)
+
+- [Dengue en Uruguay: hay tres nuevos casos autóctono, cinco más importados y 14 probables](https://www.montevideo.com.uy/Salud/Dengue-en-Uruguay-hay-tres-nuevos-casos-autoctono-cinco-mas-importados-y-14-probables-uc882746) (Montevideo.com.uy)
+
+- [De eletrodoméstico a repelente: vendas online crescem 13,9% na Semana do Consumidor](https://www.infomoney.com.br/consumo/de-eletrodomestico-a-repelente-vendas-online-crescem-139-na-semana-do-consumidor/) (InfoMoney)
 
 - [Região do DF mais afetada pela dengue recebeu só 6 agentes de concurso](https://www.metropoles.com/distrito-federal/regiao-do-df-mais-afetada-pela-dengue-recebeu-so-6-agentes-de-concurso) (Metropoles.com)
 
