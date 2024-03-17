@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2024-03-16 19:06
-- **Most recent article:** 2024-03-15 18:28:04
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-03-17 07:06
+- **Most recent article:** 2024-03-16 07:01:22
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-10 | 24-11 | 24-5 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
-|--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 133 | 168 | 216 | 191 | 188 | 207 | 1295 |
-| measles | 86 | 83 | 45 | 68 | 45 | 100 | 80 | 507 |
-| malaria | 15 | 23 | 24 | 35 | 19 | 33 | 17 | 166 |
-| chikungunya | 8 | 19 | 10 | 12 | 8 | 14 | 16 | 87 |
-| zika | 16 | 15 | 8 | 13 | 6 | 13 | 11 | 82 |
-| meningitis | 16 | 4 | 3 | 8 | 8 | 7 | 4 | 50 |
-| rabies | 6 | 5 | 7 | 7 | 9 | 5 | 8 | 47 |
-| sarampión | 3 | 3 | 6 | 5 | 4 | 11 | 5 | 37 |
-| mpox | 5 | 8 | 3 | 5 | 8 | 6 | 1 | 36 |
-| pertussis | 4 | 5 | 3 | 2 | 6 | 0 | 4 | 24 |
-| yersinia | 1 | 3 | 0 | 1 | 2 | 1 | 1 | 9 |
-| typhoid | 0 | 0 | 2 | 1 | 2 | 2 | 1 | 8 |
-| leptospirosis | 0 | 1 | 1 | 1 | 1 | 0 | 2 | 6 |
-| shigellosis | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 3 |
+| Disease | 24-10 | 24-11 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
+|--|-|-|-|-|-|-|-|
+| dengue | 192 | 142 | 214 | 191 | 188 | 207 | 1134 |
+| measles | 86 | 90 | 64 | 45 | 100 | 80 | 465 |
+| malaria | 15 | 23 | 34 | 19 | 33 | 17 | 141 |
+| chikungunya | 8 | 20 | 12 | 8 | 14 | 16 | 78 |
+| zika | 16 | 16 | 13 | 6 | 13 | 11 | 75 |
+| meningitis | 16 | 5 | 8 | 8 | 7 | 4 | 48 |
+| rabies | 6 | 5 | 6 | 9 | 5 | 8 | 39 |
+| mpox | 5 | 8 | 5 | 8 | 6 | 1 | 33 |
+| sarampión | 3 | 3 | 5 | 4 | 11 | 5 | 31 |
+| pertussis | 4 | 5 | 1 | 6 | 0 | 4 | 20 |
+| yersinia | 1 | 3 | 1 | 2 | 1 | 1 | 9 |
+| typhoid | 0 | 0 | 1 | 2 | 2 | 1 | 6 |
+| leptospirosis | 0 | 1 | 1 | 1 | 0 | 2 | 5 |
+| shigellosis | 0 | 2 | 0 | 0 | 0 | 1 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -2264,13 +2264,9 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog ecology and rabies knowledge, attitude and practice (KAP) in the Northern Communal Areas of Namibia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011631) (Plos.org)
 
-- [30 human deaths caused by rabies in Maharashtra in 2023, up from 10 in 2019](https://timesofindia.indiatimes.com/city/pune/30-human-deaths-caused-by-rabies-in-maharashtra-in-2023-up-from-10-in-2019/articleshow/107394043.cms) (The Times of India)
-
 ## 24-6 (pertussis)
 
 - [Whooping cough outbreak in Israel; go get vaccinated!](https://www.ynetnews.com/health_science/article/rk293l69a) (Ynetnews)
-
-- [התפרצות שעלת בישראל: למה כל כך חשוב להתחסן?](https://www.ynet.co.il/health/article/hyei1nn5t) (Ynet)
 
 ## 24-6 (mpox)
 
@@ -2432,14 +2428,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Death of 21 Children Due to Measles in Badakhshan: Residents Decry Lack of Health Facilities](https://8am.media/eng/death-of-21-children-due-to-measles-in-badakhshan-residents-decry-lack-of-health-facilities/) (8am.media)
 
-- [TWiV 1085: When macrophages go to alimentary school](https://www.microbe.tv/twiv/twiv-1085/) (Microbe.tv)
-
-- [‘Extremely contagious;’ Public Health warns community after confirmed measles case](https://www.whio.com/news/local/extremely-contagious-public-health-warns-community-after-confirmed-measles-case/JNXZ6BM755F4DHUULST5ZZYQYU/) (WHIO)
-
-- [Ciarán Cannon: Measles will wreak havoc once more if MMR lies go unchecked](https://www.independent.ie/opinion/comment/ciaran-cannon-measles-will-wreak-havoc-once-more-if-mmr-lies-go-unchecked/a8250158.html) (Independent.ie)
-
-- [Measles outbreak in the UK declared a national incident – The Oxford Student](https://www.oxfordstudent.com/2024/02/03/measles-outbreak-in-the-uk-declared-a-national-incident/) (Oxfordstudent.com)
-
 ## 24-6 (malaria)
 
 - [Africa: Nearly 10 000 Children Vaccinated As Malaria Vaccine Rollout in Africa Expands](https://allafrica.com/stories/202402100036.html) (AllAfrica - Top Africa News)
@@ -2509,8 +2497,6 @@ Source: [News API](https://newsapi.org/)
 - [Tottenham midfielder Yves Bissouma 'played with malaria' for Mali at AFCON 2023](https://www.fourfourtwo.com/news/tottenham-midfielder-yves-bissouma-played-with-malaria-for-mali-at-afcon-2023) (FourFourTwo)
 
 - [Tottenhamstjärnan spelade - trots sjukdomen](https://www.expressen.se/sport/fotboll/premier-league/tottenhamstjarnan-spelade-trots-sjukdomen/) (Expressen.se)
-
-- [iMAGING, aplicación para diagnosticar la malaria usando IA](https://wwwhatsnew.com/2024/02/04/imaging-aplicacion-para-diagnosticar-la-malaria-usando-ia/) (Wwwhatsnew.com)
 
 ## 24-6 (leptospirosis)
 
@@ -2946,10 +2932,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['Aedes do bem' em casa? Mosquito com modificação genética para combater dengue ganha versão domiciliar](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/04/aedes-do-bem-em-casa-mosquito-com-modificacao-genetica-para-combater-dengue-ganha-versao-domiciliar.ghtml) (Globo)
 
-- [Julio Croda: “Tendência é que o aumento da dengue continue até abril”](https://www.metropoles.com/saude/julio-croda-aumento-dengue-abril) (Metropoles.com)
-
-- [Avião da FAB chega a Brasília com insumos para Hospital de Campanha](https://www.metropoles.com/distrito-federal/aviao-da-fab-chega-a-brasilia-com-insumos-para-hospital-de-campanha) (Metropoles.com)
-
 ## 24-6 (chikungunya)
 
 - [Fiocruz dobra produção de testes de dengue a pedido da Saúde](https://www.metropoles.com/brasil/fiocruz-dobra-producao-de-testes-de-dengue-a-pedido-da-saude) (Metropoles.com)
@@ -2976,591 +2958,9 @@ Source: [News API](https://newsapi.org/)
 
 - [Valneva: sale of priority review warrant for Ixchiq](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-sale-of-priority-review-warrant-for-Ixchiq-45881345/) (Marketscreener.com)
 
-## 24-5 (zika)
-
-- [Peixe barrigudinho é aliado contra a dengue, zika e a chikungunya](https://noticias.r7.com/cidades/diario-digital/peixe-barrigudinho-e-aliado-contra-a-dengue-zika-e-a-chikungunya-01022024) (R7.com)
-
-- [‘75% da transmissão de dengue ocorre dentro das casas’, alerta ministra](https://veja.abril.com.br/saude/75-da-transmissao-de-dengue-ocorre-dentro-das-casas-alerta-ministra) (Abril.com.br)
-
-- [Governo federal lança segunda fase da campanha de combate à dengue](https://www.metropoles.com/colunas/m-buzz/governo-federal-lanca-segunda-fase-da-campanha-de-combate-a-dengue) (Metropoles.com)
-
-- [Neto trouxe a maior zika possível para o Corinthians nesta terça (30)](https://noticiasdotimao.com.br/neto-trouxe-a-maior-zika-possivel-para-o-corinthians-nesta-terca-30/) (Noticiasdotimao.com.br)
-
-- [Repelente funciona contra mosquito da dengue? Entenda!](https://www.terra.com.br/vida-e-estilo/saude/repelente-funciona-contra-mosquito-da-dengue-entenda,5ce7e9652b17a3b3f5c133fcdfa1c528no1kvyv4.html) (Terra.com.br)
-
-- [Vaccine hesitancy rising as climate-related disease spreads]( https://en.setopati.com/International/162491 ) (Setopati.com)
-
-- [Targeting sex determination to suppress mosquito populations](https://elifesciences.org/articles/90199) (Elifesciences.org)
-
-- [DF registra quase 30 mil casos prováveis de dengue e seis mortes](https://www.metropoles.com/colunas/grande-angular/df-registra-quase-30-mil-casos-provaveis-de-dengue-e-seis-mortes) (Metropoles.com)
-
-## 24-5 (typhoid)
-
-- [Drink More Tomato Juice: Study Says It Has Antimicrobial Properties To Eliminate Typhoid-Causing Salmonella](https://www.medicaldaily.com/drink-more-tomato-juice-study-says-it-has-antimicrobial-properties-eliminate-typhoid-causing-471338) (Medical Daily)
-
-- [Dying of thirst](https://electronicintifada.net/content/dying-thirst/44221) (Electronicintifada.net)
-
-## 24-5 (sarampión)
-
-- [Cada vez hay más brotes de sarampión y las consecuencias no afectan solo a los antivacunas](http://hipertextual.com/2024/02/brotes-sarampion-antivacunas) (Hipertextual)
-
-- [Ángel Vidal, el docente que acercó A Pobra a Europa: «Muchos viajes fueron impactantes»](https://www.lavozdegalicia.es/noticia/barbanza/a-pobra-do-caraminal/2024/02/02/angel-vidal-docente-acerco-pobra-europa-viajes-fueron-impactantes/0003_202402B2C2991.htm) (Lavozdegalicia.es)
-
-- [OPS emite alerta por sarampión e incluye a Costa Rica](https://www.nacion.com/ciencia/salud/ops-emite-alerta-epidemiologica-por-sarampion/OXCBW3LCBZDRFPZSYJAS26RY44/story/) (Nacion.com)
-
-- [¡Atención! Hay alerta por el aumento de casos de sarampión](https://www.record.com.mx/contra/atencion-hay-alerta-por-el-aumento-de-casos-de-sarampion) (Record.com.mx)
-
-- [La OMS explicó por qué aumentaron 30% los casos de sarampión en todo Europa](https://www.mundodeportivo.com/vidae/salud/20240130/1002179728/oms-explico-aumentaron-casos-sarampion-europa.html) (Mundodeportivo.com)
-
-- [Perú alerta a la población por caso de sarampión importado de Europa](https://www.milenio.com/internacional/peru-alerta-poblacion-caso-sarampion-importado-europa) (Milenio)
-
-## 24-5 (rabies)
-
-- [Rabies-infected jackal found in Israel's north](https://www.jpost.com/breaking-news/article-784643) (The Jerusalem Post)
-
-- [Rabies advisory issued after bat incident at cinema in Fort Pierce](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/rabies-advisory-issued-after-bat-incident-at-cinema-in-fort-pierce) (WPTV.com)
-
-- [Why experts worry more pet owners may skip rabies shots over vaccine hesitancy](https://www.pbs.org/newshour/health/why-experts-worry-more-pet-owners-may-skip-rabies-shots-over-vaccine-hesitancy) (PBS)
-
-- [Indiana's 1st case of skunk rabies in 20 years is a 'wake-up call for all Hoosiers,' state health experts say](https://www.wdrb.com/news/indianas-1st-case-of-skunk-rabies-in-20-years-is-a-wake-up-call-for/article_a68c3b52-bfa3-11ee-9b4b-5fb428b97e44.html) (WDRB)
-
-- [Indiana's 1st case of skunk rabies 20 years is a 'wake-up call for all Hoosiers,' state health experts say](https://www.wdrb.com/news/indianas-1st-case-of-skunk-rabies-20-years-is-a-wake-up-call-for-all/article_a68c3b52-bfa3-11ee-9b4b-5fb428b97e44.html) (WDRB)
-
-- [Dog shot by Boulder police was attacking owner, officers](https://www.denverpost.com/2024/01/29/dog-attack-shot-officers-boulder/) (The Denver Post)
-
-- [Make anti-rabies serum available at PHCs: Centre](https://timesofindia.indiatimes.com/india/make-anti-rabies-serum-available-at-phcs-centre/articleshow/107240937.cms) (The Times of India)
-
-## 24-5 (pertussis)
-
-- [Qué es la tosferina y cuáles son sus síntomas](https://www.huffingtonpost.es/life/salud/que-tosferina-cuales-sonntomas.html) (Huffingtonpost.es)
-
-- [Todo sobre la tos ferina: cuáles son sus síntomas, cómo se contagia y de qué manera tratarla](https://www.elespanol.com/ciencia/salud/20240201/tos-ferina-sintomas-contagia-manera-tratarla/829417354_0.html) (Elespanol.com)
-
-- [What is '100 day cough'? Why is it in news?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-100-day-cough-why-is-it-in-news/photostory/107225626.cms) (The Times of India)
-
-## 24-5 (mpox)
-
-- [First case of mpox in Victoria for 2024 prompts warning](https://northern.starweekly.com.au/news/first-case-of-mpox-in-victoria-for-2024-prompts-warning/) (Starweekly.com.au)
-
-- [Abwassertests könnten auch hochansteckende Masern früh melden​](https://www.heise.de/hintergrund/Abwassertests-koennten-auch-hochansteckende-Masern-frueh-melden-9611927.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag) (heise online)
-
-- [สภากาชาดไทย เปิดให้ลงทะเบียน ฉีดวัคซีนป้องกันโรคฝีดาษวานร ผ่าน 2 หน่วยงาน](https://www.thairath.co.th/news/society/2759505) (Thairath.co.th)
-
-## 24-5 (meningitis)
-
-- [Risk of meningitis shifting from babies to teens — new data](https://www.1news.co.nz/2024/01/30/risk-of-meningitis-shifting-from-babies-to-teens-new-data/) (1news.co.nz)
-
-- [Meningitis risk shifting from infants to teens and Māori youth experiencing largest increase - new data](https://www.nzherald.co.nz/kahu/meningitis-risk-shifting-from-infants-to-teens-and-maori-youth-experiencing-largest-increase-new-data/47ZGPLG5YBDQRDYIVJZO3X3XNM/) (New Zealand Herald)
-
-- [Patricia Pérez comparte las primeras imágenes de Luis Canut tras anunciar su grave enfermedad](https://www.hola.com/actualidad/20240129248319/patricia-perez-primeras-imagenes-luis-canut-recuperado-nsv/) (Hola)
-
-## 24-5 (measles)
-
-- [Vaccine Induced Social Amnesia](https://marginalrevolution.com/?p=87646) (Marginalrevolution.com)
-
-- [MN health officials monitoring national measles outbreaks closely](https://www.kare11.com/article/news/local/minnesota-health-officials-watching-national-measles-outbreaks-closely/89-77d4d6ce-bb06-4283-8ee5-3fa357018630) (KARE11.com)
-
-- [Swiss hospitality school closes after measles outbreak](https://www.thestar.com.my/news/world/2024/02/03/swiss-hospitality-school-closes-after-measles-outbreak) (The Star Online)
-
-- [Swiss hospitality school closes after measles outbreak](https://www.marketscreener.com/news/latest/Swiss-hospitality-school-closes-after-measles-outbreak-45879526/) (Marketscreener.com)
-
-- [Measles has exploded in Europe. Clinicians say it's only a matter of time before outbreaks hit Canada](https://www.cbc.ca/news/health/measles-has-exploded-in-europe-clinicians-say-it-s-only-a-matter-of-time-before-outbreaks-hit-canada-1.7102005) (CBC News)
-
-- [Concern about spread of highly contagious measles after new case in Maryland](https://www.cbsnews.com/baltimore/news/concern-about-spread-of-highly-contagious-measles-after-new-case-in-maryland/) (CBS News)
-
-- [GCC kicks off Measles-Rubella (MR) vaccination programme](https://timesofindia.indiatimes.com/city/chennai/gcc-kicks-off-measles-rubella-mr-vaccination-programme/articleshow/107344183.cms) (The Times of India)
-
-- [L.A. County has its first measles case since 2020: What to do if you're exposed](https://www.latimes.com/california/story/2024-02-01/los-angeles-county-has-its-first-measles-case-this-year-how-to-avoid-getting-infected) (Los Angeles Times)
-
-- [Maryland resident tests positive for measles, sparking exposure concern](https://www.cbsnews.com/baltimore/news/maryland-resident-tests-positive-for-measles-sparking-exposure-concern/) (CBS News)
-
-- [Health officials confirm measles case in Maryland](https://www.wbaltv.com/article/measles-case-confirmed-maryland-health-department/46619116) (WBAL TV Baltimore)
-
-- [Person infected with measles traveled through LAX and this Northridge restaurant](https://www.foxla.com/news/measles-la-county-infection-lax-northridge) (FOX 11 Los Angeles)
-
-- [Guidance: Template letter to paediatrician oncologists and immunologists on measles](https://www.gov.uk/government/publications/template-letter-to-paediatrician-oncologists-and-immunologists-on-measles) (Www.gov.uk)
-
-- [The Year Literally Just Started, But Here's All The Wild Sh–t That's Already Happened In January](https://www.buzzfeed.com/alexalisitza/everything-that-happened-jan-2024) (Buzzfeed)
-
-- [How the MMR vaccine works](https://theweek.com/health/how-the-mmr-vaccine-works) (The Week Magazine)
-
-- [Measles: A deadly disease that can be prevented](https://www.dw.com/en/measles-a-deadly-disease-that-can-be-prevented/a-68121991) (DW (English))
-
-- [Measles Cases Soaring Worldwide as WHO Reports Alarming 45-Fold Rise in Europe](https://www.sciencealert.com/measles-cases-soaring-worldwide-as-who-reports-alarming-45-fold-rise-in-europe) (ScienceAlert)
-
-- [Measles is a potentially dangerous disease - Full Fact](https://fullfact.org/health/measles-threat-mmr-safe-effective/) (Full Fact)
-
-- [The U.S. eliminated measles in 2000. Why is it back now?](https://www.bostonherald.com/2024/01/31/measles-outbreak-what-to-know-cdc/) (Boston Herald)
-
-- [Wednesday, January 31, 2024](https://kffhealthnews.org/morning-briefing/wednesday-january-31-2024/) (Kffhealthnews.org)
-
-- [North Yorkshire health leaders urge measles vaccination as cases rise](https://www.bbc.com/news/uk-england-york-north-yorkshire-68146308) (BBC News)
-
-- [Measles is on the rise around the world – we can’t let vaccination rates falter](https://theconversation.com/measles-is-on-the-rise-around-the-world-we-cant-let-vaccination-rates-falter-222144) (The Conversation Africa)
-
-- [Tri-State seeing increase in chickenpox, mumps, measles](https://www.wcpo.com/news/health/increase-in-chickenpox-mumps-measles-prompts-warning-from-cincinnati-health-department) (WCPO)
-
-- [Worried parents concerned for children's health as CDC warns measles is a growing global threat](https://www.cbsnews.com/philadelphia/news/worried-parents-childrens-safety-cdc-warns-doctors-measles-growing-global-threat-how-do-you-catch-measles/) (CBS News)
-
-- [CDC Issues 'Health Alert' Over Measles Cases Across US](https://www.zerohedge.com/medical/cdc-issues-health-alert-over-measles-cases-across-us) (Zerohedge.com)
-
-- [Report: At least 8,500 schools in US at risk of measles outbreaks](https://scrippsnews.com/stories/report-at-least-8-500-schools-in-us-at-risk-of-measles-outbreaks/) (Scrippsnews.com)
-
-- [How fringe anti-science views infiltrated mainstream politics, and what it means in 2024](https://medicalxpress.com/news/2024-01-fringe-anti-science-views-infiltrated.html) (Medical Xpress)
-
-- [Thousands of US Schools at Risk of Measles Outbreak: Investigation](https://themessenger.com/health/measles-vaccine-us-schools-mississippi) (Themessenger.com)
-
-- [Measles Warning Signs Growing: How Concerned Should We Be?](https://www.webmd.com/children/news/20240130/measles-warning-signs-growing) (WebMD)
-
-- [West Midlands has 75% of England's measles cases](https://www.bbc.co.uk/news/articles/cpr821nxdy5o) (BBC News)
-
-- [A German court did not rule that the measles virus doesn’t exist - Full Fact](https://fullfact.org/health/stefan-lanka-measles-german-court/) (Full Fact)
-
-- [Measles outbreak in Europe: WHO ramps up vaccination campaign](https://www.france24.com/en/tv-shows/science/20240130-measles-outbreak-in-europe-who-ramps-up-vaccination-campaign) (FRANCE 24 English)
-
-- [Measles outbreak in West Midlands 'remains a concern', health officials say](https://news.sky.com/story/measles-outbreak-in-west-midlands-remains-a-concern-health-officials-say-13059952) (Sky.com)
-
-- [News story: Latest measles statistics published](https://www.gov.uk/government/news/latest-measles-statistics-published) (Www.gov.uk)
-
-- [At least 8,500 U.S. schools at greater risk of measles outbreaks](https://www.cbsnews.com/news/measles-outbreaks-schools-vaccination-rates-decline/) (CBS News)
-
-- [Thousands of school-aged children are at risk of getting sick from measles](https://www.cbsnews.com/video/thousands-of-school-aged-children-are-at-risk-of-getting-sick-from-measles/) (CBS News)
-
-- [Why is a 95% vaccination rate so important?](https://www.cbsnews.com/video/why-is-a-95-vaccination-rate-so-important/) (CBS News)
-
-- [Posts Mislead About Measles, MMR Vaccine Amid Recent Outbreaks](https://www.factcheck.org/2024/01/scicheck-posts-mislead-about-measles-mmr-vaccine-amid-recent-outbreaks/) (FactCheck.org)
-
-- [In An Alert To Clinicians, CDC Notes That Measles Is Making A Comeback](https://www.forbes.com/sites/davewessner/2024/01/29/in-an-alert-to-clinicians-cdc-notes-that-measles-is-making-a-comeback/) (Forbes)
-
-- [Measles cases are rising around the world, and Australia is not fully immune](https://www.abc.net.au/news/2024-01-30/measles-outbreak-global-australias-risk/103392690) (ABC News (AU))
-
-- [Measles outbreaks: Investing in patient relationships through GP continuity will be key to boosting MMR confidence](https://www.bmj.com/content/384/bmj.q221) (The BMJ)
-
-- [How Fringe Anti-Science Views Infiltrated Mainstream Politics — And What It Means in 2024](https://kffhealthnews.org/news/article/anti-science-vaccines-politics-polarization-partisanship-2024-elections/) (Kffhealthnews.org)
-
-- [Irish GP warns of risk to public health as HSE stresses ‘significant rise’ in measles in Europe](https://www.independent.ie/irish-news/irish-gp-warns-of-risk-to-public-health-as-hse-stresses-significant-rise-in-measles-in-europe/a380986655.html) (Independent.ie)
-
-- [Dr Catherine Conlon: Catch Up vaccination clinics needed now before measles sweeps the country](https://www.thejournal.ie/readme/measles-ireland-6284077-Jan2024/) (TheJournal.ie)
-
-- [‘It’s not too late to catch up’ – parents are urged to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/its-not-too-late-to-catch-up-parents-are-urged-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
-
-- [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
-
-## 24-5 (malaria)
-
-- [Una vacuna de bajo coste previene los síntomas de la malaria en un 75 % de los casos](https://www.lavozdegalicia.es/noticia/sociedad/2024/02/03/vacuna-bajo-coste-previene-sintomas-malaria-75-casos/0003_202402G3P32991.htm) (Lavozdegalicia.es)
-
-- [La vacuna antimalaria de Oxford confirma su eficacia y seguridad](https://www.eluniversal.com.co/salud/la-vacuna-antimalaria-de-oxford-confirma-su-eficacia-y-seguridad-IY9890956) (Eluniversal.com.co)
-
-- [La vacuna antimalaria de Oxford confirma su eficacia y seguridad en un ensayo en fase 3](https://www.montevideo.com.uy/Salud/La-vacuna-antimalaria-de-Oxford-confirma-su-eficacia-y-seguridad-en-un-ensayo-en-fase-3-uc878533) (Montevideo.com.uy)
-
-- [Cape Verde: Cape Verde Is the Third African Country to Eliminate Malaria - Here's How](https://allafrica.com/stories/202402020405.html) (AllAfrica - Top Africa News)
-
-- [New malaria vaccine found to be 75 per cent effective](https://www.thenationalnews.com/health/2024/02/02/new-malaria-vaccine-found-to-be-75-per-cent-effective/) (Thenationalnews.com)
-
-- [Una nueva vacuna contra la malaria muestra resultados prometedores](https://www.nationalgeographic.com.es/ciencia/resultados-muy-prometedores-innovadora-vacuna-contra-devastadora-malaria_21536) (Nationalgeographic.com.es)
-
-- [Cape Verde is the third African country to eliminate malaria: here’s how](https://theconversation.com/cape-verde-is-the-third-african-country-to-eliminate-malaria-heres-how-222064) (The Conversation Africa)
-
-- [Una nueva vacuna contra la malaria de bajo coste reduce los síntomas en un 75%](https://www.expansion.com/directivos/estilo-vida/salud/2024/02/02/65bcb910468aebc2468b4597.html) (Expansion.com)
-
-- [Belgen die ziektes bestrijden met computers werken opnieuw samen met Bill Gates: “Wij zijn een bedrijf dat impact wil hebben op de wereld”](https://www.gva.be/cnt/dmf20240202_91856386) (Www.gva.be)
-
-- [Belgen die ziektes bestrijden met computers werken opnieuw samen met Bill Gates: “Wij zijn een bedrijf dat impact wil hebben op de wereld”](https://www.nieuwsblad.be/cnt/dmf20240201_96873629) (Nieuwsblad.be)
-
-- [Una vacuna para la malaria de bajo coste demuestra su eficacia en 5.000 niños](https://www.abc.es/salud/enfermedades/vacuna-malaria-bajo-coste-muestra-eficacia-5000-20240202003000-nt.html) (Www.abc.es)
-
-- [La vacuna antimalárica R21/MatrixM reduce los casos sintomáticos hasta en un 75%](https://www.elmundo.es/ciencia-y-salud/salud/2024/02/02/65bbc96521efa076238b4583.html) (El Mundo)
-
-- [Traorè pronto per la prima convocazione: soffia via polvere e ruggine dopo la malaria](https://www.tuttomercatoweb.com/serie-a/traore-pronto-per-la-prima-convocazione-soffia-via-polvere-e-ruggine-dopo-la-malaria-1929821) (Tuttomercatoweb.com)
-
-- [Reinvestigation of Diphenylmethylpiperazine Analogues of Pyrazine as New Class of Plasmodial Cysteine Protease Inhibitors for the Treatment of Malaria](https://pubs.rsc.org/en/content/articlelanding/2024/md/d3md00490b) (Royal Society of Chemistry)
-
-- [Vaccinuri necesare în țările exotice. Avertisment pentru românii care călătoresc în zone tropicale](https://adevarul.ro/stiri-interne/societate/vaccinuri-necesare-in-tarile-exotice-avertisment-2336198.html) (Adevarul.ro)
-
-- [NTDs Reduction is a Long Journey But Progress is Almost 60% - RBC](https://allafrica.com/stories/202401310410.html) (AllAfrica - Top Africa News)
-
-- [India on the verge of eliminating 'black fever' kala-azar](https://www.dw.com/en/india-on-the-verge-of-eliminating-black-fever-kala-azar/a-68123755) (DW (English))
-
-- [Nigeria: Govt to Introduce Malaria Vaccine in 2025 - NPHCDA](https://allafrica.com/stories/202401300241.html) (AllAfrica - Top Africa News)
-
-- [World-first malaria vaccine rollout for children: What to know](https://www.medicalnewstoday.com/articles/new-cameroon-malaria-vaccine-lower-all-cause-mortality-risk-in-children) (Medical News Today)
-
-- [Precise coordination between nutrient transporters ensures fertility in the malaria mosquito Anopheles gambiae](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011145) (Plos.org)
-
-- [Correction: A conformational epitope in placental malaria vaccine antigen VAR2CSA: What does it teach us?](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011503) (Plos.org)
-
-- [Comparative transcriptomics reveal differential gene expression among Plasmodium vivax geographical isolates and implications on erythrocyte invasion mechanisms](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011926) (Plos.org)
-
-- [‘I’d Rather Have Malaria’: The Worst Side Effects Medical Science Has Ever Achieved](https://www.cracked.com/article_40921_id-rather-have-malaria-the-worst-side-effects-medical-science-has-ever-achieved.html) (Cracked.com)
-
-- [Health Ministry Announces Registration and Distribution Dates for Treated Mosquito Nets](https://sierraloaded.sl/health/ministry-health-registration-distribution-dates-nets/) (Sierraloaded.sl)
-
-## 24-5 (leptospirosis)
-
-- [Rain and rats to blame for more dogs in Singapore being infected with leptospirosis, vets say](https://www.channelnewsasia.com/singapore/leptospirosis-dogs-vets-rain-wet-weather-rats-4087371) (CNA)
-
-## 24-5 (dengue)
-
-- [Ministra da Saúde diz que dengue não é emergência nacional](https://ultimosegundo.ig.com.br/brasil/2024-02-03/ministra-da-saude-diz-que-dengue-nao-e-emergencia-nacional.html) (Ig.com.br)
-
-- [Dengue: 85% dos bairros monitorados de Porto Alegre apresentam nível crítico de infestação](https://www.terra.com.br/noticias/dengue-85-dos-bairros-monitorados-de-porto-alegre-apresentam-nivel-critico-de-infestacao,7336c83e3212467d1c42909d5ded1260fvo2609y.html) (Terra.com.br)
-
-- [Dengue: Prefeitura de SP testa drone para combater focos do Aedes aegypti](https://www.terra.com.br/vida-e-estilo/saude/dengue-prefeitura-de-sp-testa-drone-para-combater-focos-do-aedes-aegypti,bb30020b08db57ee937319ff959cb4efdxenyqi7.html) (Terra.com.br)
-
-- [Dengue: Saúde e Anvisa terão ação para ampliar oferta de vacina](https://www.metropoles.com/brasil/dengue-saude-e-anvisa-terao-acao-para-ampliar-oferta-de-vacina) (Metropoles.com)
-
-- [Ministério da Saúde cria Centro de Operações Emergenciais para coordenar ações contra a dengue](https://valor.globo.com/brasil/noticia/2024/02/03/ministrio-da-sade-cria-centro-de-operaes-emergenciais-para-coordenar-aes-contra-a-dengue.ghtml) (Globo)
-
-- [Dengue: “Não é uma doença para ficarmos desestruturados”, diz Nísia](https://www.metropoles.com/brasil/dengue-nao-e-uma-doenca-para-ficarmos-desestruturados-diz-nisia) (Metropoles.com)
-
-- [Ministério da Saúde estuda ampliar oferta da vacina contra dengue](https://jornaldebrasilia.com.br/noticias/saude/ministerio-da-saude-estuda-ampliar-oferta-da-vacina-contra-dengue/) (Jornaldebrasilia.com.br)
-
-- [Saiba o que comer e quais alimentos evitar se você está com dengue](https://www.metropoles.com/saude/o-que-comer-e-quais-alimentos-evitar-dengue) (Metropoles.com)
-
-- [Dia D contra a dengue: Prefeitura de SP testa drone para combater focos do Aedes aegypti](https://www.terra.com.br/vida-e-estilo/saude/dia-d-contra-a-dengue-prefeitura-de-sp-testa-drone-para-combater-focos-do-aedes-aegypti,bb30020b08db57ee937319ff959cb4efdxenyqi7.html) (Terra.com.br)
-
-- [Zé Neto desabafa após diagnóstico de dengue e cancelamento de shows](https://gente.ig.com.br/celebridades/2024-02-03/ze-neto-desabafa-diagnostico-dengue-cancelamento-shows.html) (Ig.com.br)
-
-- [Crianças primeiro: o que se sabe sobre a vacina da dengue](https://www.terra.com.br/vida-e-estilo/saude/criancas-primeiro-o-que-se-sabe-sobre-a-vacina-da-dengue,58317f80c10e2ab4f44c913826134081c9uls6oo.html) (Terra.com.br)
-
-- [Dengue: governo institui centro para coordenar ações contra doença](https://www.metropoles.com/brasil/dengue-governo-institui-centro-para-coordenar-acoes-contra-doenca) (Metropoles.com)
-
-- [Rio de Janeiro regista recorde diário de casos de dengue](https://observador.pt/2024/02/03/rio-de-janeiro-regista-recorde-diario-de-casos-de-dengue/) (Observador.pt)
-
-- [Dengue: Rio tem recorde de internações em janeiro](https://saude.ig.com.br/2024-02-03/dengue--rio-tem-recorde-de-internacoes-em-janeiro.html) (Ig.com.br)
-
-- [Diabetes e dengue: o que você precisa saber?](https://saude.ig.com.br/colunas/tom-bueno/2024-02-03/diabetes-e-dengue-o-que-voce-precisa-saber.html) (Ig.com.br)
-
-- [Dengue: explosão de casos exige prevenção e cuidados da população](https://www.metropoles.com/brasil/dengue-explosao-de-casos-exige-prevencao-e-cuidados-da-populacao) (Metropoles.com)
-
-- [Pegou dengue? Saiba como fazer o tratamento da infecção em casa](https://www.metropoles.com/saude/como-se-recuperar-da-dengue-rapido) (Metropoles.com)
-
-- [Dengue: 25% das cidades que terão vacina não registraram casos em 2024](https://www.metropoles.com/brasil/dengue-25-das-cidades-que-terao-vacina-nao-registraram-casos-em-2024) (Metropoles.com)
-
-- [Dengue: Apesar da disparada no RJ, projeto com mosquito manipulado ajuda a reduzir casos em Niterói](https://noticias.r7.com/rio-de-janeiro/apesar-da-disparada-da-dengue-no-rj-projeto-que-manipula-mosquito-ajuda-a-reduzir-casos-em-niteroi-03022024) (R7.com)
-
-- [Zé Neto cancela shows após diagnosticar doença: “Dá uma tristeza”](https://www.metropoles.com/colunas/fabia-oliveira/ze-neto-cancela-shows-apos-diagnosticar-doenca-da-uma-tristeza) (Metropoles.com)
-
-- [Dengue: veja os estados mais afetados pela doença em 2024](https://saude.ig.com.br/2024-02-02/governo-informa-quais-sao-os-estados-mais-afetados-pela-dengue-no-brasil.html) (Ig.com.br)
-
-- [DF, AC e MG têm a maior incidência de casos de dengue no Brasil](https://www.metropoles.com/brasil/df-ac-e-mg-tem-a-maior-incidencia-de-casos-de-dengue-no-brasil) (Metropoles.com)
-
-- [Brasil registra 4 vezes mais casos de dengue em janeiro deste ano; confira estados mais afetados](https://www.terra.com.br/vida-e-estilo/saude/brasil-registra-4-vezes-mais-casos-de-dengue-em-janeiro-deste-ano-confira-estados-mais-afetados,a5fd89bd1d0015a60ac5ee85b51514ba3srh8u0j.html) (Terra.com.br)
-
-- [Rio de Janeiro confirma epidemia de dengue e DF terá hospital de campanha](https://veja.abril.com.br/saude/rio-de-janeiro-confirma-epidemia-de-dengue-e-df-tera-hospital-de-campanha) (Abril.com.br)
-
-- [Dengue vaccine seems to be working?](https://marginalrevolution.com/marginalrevolution/2024/02/dengue-vaccine-seems-to-be-working.html) (Marginalrevolution.com)
-
-- [Dengue no Brasil: como combater?](https://www.terra.com.br/noticias/dengue-no-brasil-como-combater,071c3d633c72b646f4d7694981b4f3f31ot4ar6o.html) (Terra.com.br)
-
-- [Dengue no Brasil: como combater?](https://www.dw.com/pt-br/dengue-no-brasil-como-combater/a-68159582) (DW (English))
-
-- [Dengue: Com explosão de casos, ministra chama prefeitos para reunião](https://www.metropoles.com/colunas/igor-gadelha/dengue-ministra-prefeitos) (Metropoles.com)
-
-- [Rio bate recorde de internações por dengue e prefeito declara epidemia da doença](https://www.terra.com.br/vida-e-estilo/saude/rio-bate-recorde-de-internacoes-por-dengue-e-prefeito-declara-epidemia-da-doenca,e6d976ea0cb5e542af21e66229bd47b42vngojmb.html) (Terra.com.br)
-
-- [Ministério da Saúde começa operação contra dengue no país neste sábado](https://noticias.r7.com/saude/ministerio-da-saude-comeca-centro-de-ooperacoes-contra-dengue-no-pais-neste-sabado-02022024) (R7.com)
-
-- [Dengue: hospital de campanha da Aeronáutica será instalado na terça](https://www.metropoles.com/distrito-federal/dengue-hospital-de-campanha-da-aeronautica-sera-instalado-na-terca) (Metropoles.com)
-
-- [O que é dengue hemorrágica? Sintomas e tratamento](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-02/o-que-e-dengue-hemorragica--sintomas-e-tratamento.html) (Ig.com.br)
-
-- [Prefeitura do Rio de Janeiro afirma que a cidade enfrenta uma epidemia de dengue](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/prefeitura-do-rio-de-janeiro-afirma-que-a-cidade-enfrenta-uma-epidemia-de-dengue-02022024) (R7.com)
-
-- [Repelentes caseiros protegem contra a dengue? Confira opinião de especialista](https://delas.ig.com.br/parceiros/selecoes/2024-02-02/repelentes-caseiros-protegem-contra-a-dengue--confira-opiniao-de-especialista.html) (Ig.com.br)
-
-- [Brasília tem UTIs superlotadas por dengue, diz vice-governadora](https://www.terra.com.br/noticias/brasil/brasilia-tem-utis-superlotadas-por-dengue-diz-vice-governadora,053ecd25635cdf816809f482ece000edzz5cgkjb.html) (Terra.com.br)
-
-- [Rio de Janeiro terá pesquisa com vacina contra a dengue em adultos](https://noticias.r7.com/rio-de-janeiro/rio-de-janeiro-tera-pesquisa-com-vacina-contra-a-dengue-em-adultos-02022024) (R7.com)
-
-- [Defensoria no Rio vê falha na prevenção e cobra medidas contra a dengue](https://noticias.r7.com/rio-de-janeiro/defensoria-no-rio-ve-falha-na-prevencao-e-cobra-medidas-contra-dengue-02022024) (R7.com)
-
-- [Como se proteger da dengue enquanto a vacina não chega?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-02/como-se-proteger-da-dengue-enquanto-a-vacina-nao-chega-.html) (Ig.com.br)
-
-- [Escalada da dengue leva à criação de centro de operações e hospital de campanha no DF](https://www.terra.com.br/vida-e-estilo/saude/escalada-da-dengue-leva-a-criacao-de-centro-de-operacoes-e-hospital-de-campanha-no-df,0ea7f297924f6781c0410bb8c13f2b5a13v38q50.html) (Terra.com.br)
-
-- [Bebê de 5 meses morre de dengue hemorrágica no Distrito Federal](https://www.metropoles.com/distrito-federal/bebe-de-5-meses-morre-de-dengue-hemorragica-no-distrito-federal) (Metropoles.com)
-
-- [Apenas 10% das cidades vão receber vacina contra a dengue; entenda os critérios](https://olhardigital.com.br/2024/02/02/medicina-e-saude/apenas-10-das-cidades-vao-receber-vacina-contra-a-dengue-entenda-os-criterios/) (Olhardigital.com.br)
-
-- [Com mais de 10 mil casos em janeiro, Rio enfrenta epidemia de Dengue, segundo a prefeitura](https://noticias.r7.com/rio-de-janeiro/com-mais-de-10-mil-casos-em-janeiro-rio-enfrenta-epidemia-de-dengue-segundo-a-prefeitura-02022024) (R7.com)
-
-- [Vacina contra a dengue chega aos estados na semana que vem](https://olhardigital.com.br/2024/02/02/medicina-e-saude/vacina-contra-a-dengue-chega-aos-estados-na-semana-que-vem/) (Olhardigital.com.br)
-
-- [Vídeo: dengue gera superlotação em UPA, com pacientes nos corredores](https://www.metropoles.com/distrito-federal/video-dengue-gera-superlotacao-em-upa-com-pacientes-nos-corredores) (Metropoles.com)
-
-- [Effect of montelukast in preventing dengue with warning signs among patients with dengue: A multicenter, randomized, double-blind, placebo-controlled trial](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011927) (Plos.org)
-
-- [Metabolomic landscape of macrophage discloses an anabolic signature of dengue virus infection and antibody-dependent enhancement of viral infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011923) (Plos.org)
-
-- [Jovem sai de casa para ir ao hospital e sofre acidente grave em corrida de mototáxi](https://recordtv.r7.com/balanco-geral/videos/jovem-sai-de-casa-para-ir-ao-hospital-e-sofre-acidente-grave-em-corrida-de-mototaxi-02022024) (R7.com)
-
-- [VÍDEOS: Bom Dia Cidade Campinas de sexta-feira, 2 de fevereiro de 2024](https://g1.globo.com/sp/campinas-regiao/playlist/videos-bom-dia-cidade-campinas-de-sexta-feira-2-de-fevereiro-de-2024.ghtml) (Globo)
-
-- [Vacina da dengue é coberta pelo plano de saúde? Entenda](https://www.metropoles.com/brasil/vacina-da-dengue-e-coberta-pelo-plano-de-saude-entenda) (Metropoles.com)
-
-- [Como evitar o mosquito da dengue em casa? Confira os cuidados básicos!](https://delas.ig.com.br/parceiros/selecoes/2024-02-02/como-evitar-o-mosquito-da-dengue-em-casa--confira-os-cuidados-basicos.html) (Ig.com.br)
-
-- [Ceilândia receberá hospital de campanha focado no combate à dengue](https://www.metropoles.com/distrito-federal/ceilandia-recebera-hospital-de-campanha-focado-no-combate-a-dengue) (Metropoles.com)
-
-- [Dos 6 mortos por dengue, 4 tinham hipertensão e 1, doença hematológica](https://www.metropoles.com/distrito-federal/dos-6-mortos-por-dengue-4-tinham-hipertensao-e-1-doenca-hematologica) (Metropoles.com)
-
-- [DF receberá hospital de campanha para fortalecer combate à dengue](https://www.metropoles.com/conteudo-especial/dengue-hospital-de-campanha) (Metropoles.com)
-
-- [Tire suas dúvidas sobre a dengue, cujos casos aumentaram 300% na capital paulista](https://recordtv.r7.com/balanco-geral-manha/videos/tire-suas-duvidas-sobre-a-dengue-cujos-casos-aumentaram-300-na-capital-paulista-02022024) (R7.com)
-
-- [Óleo extraído de plantas pode combater mosquito da dengue, revela estudo brasileiro](https://olhardigital.com.br/2024/02/02/medicina-e-saude/oleo-extraido-de-plantas-pode-combater-mosquito-da-dengue-revela-estudo-brasileiro/) (Olhardigital.com.br)
-
-- [Das 6 pessoas que morreram com dengue no DF, 5 tinham comorbidades](https://www.metropoles.com/distrito-federal/das-6-pessoas-que-morreram-com-dengue-no-df-5-tinham-comorbidades) (Metropoles.com)
-
-- [Procura por vacina contra a dengue na rede privada sobe 110% em 1 mês](https://www.metropoles.com/brasil/procura-por-vacina-contra-a-dengue-na-rede-privada-sobe-110-em-1-mes) (Metropoles.com)
-
-- [Dengue: sintomas e o que fazer quando as plaquetas estão baixas](https://www.metropoles.com/saude/dengue-como-identificar-queda-plaquetas) (Metropoles.com)
-
-- [“Culpada é a população”, diz deputado sobre avanço de dengue no DF](https://www.metropoles.com/distrito-federal/culpada-e-a-populacao-diz-deputado-sobre-avanco-de-dengue-no-df) (Metropoles.com)
-
-- [Deputados aprovam nomeação de 150 agentes de vigilância ambiental](https://www.metropoles.com/distrito-federal/deputados-aprovam-nomeacao-de-150-agentes-de-vigilancia-ambiental) (Metropoles.com)
-
-- [Quem já teve dengue, pode pegar de novo?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-01/quem-ja-teve-dengue--pode-pegar-de-novo-.html) (Ig.com.br)
-
-- [Dengue: fora de lista do governo, Nunes tenta comprar vacina por conta](https://www.metropoles.com/sao-paulo/dengue-prefeitura-tenta-comprar-vacina) (Metropoles.com)
-
-- [Notes from the Field: Dengue Outbreak - Peru, 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7304a4.htm) (Cdc.gov)
-
-- [Dengue | Vacina do Butantan tem eficácia de 80%](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-01/dengue---vacina-do-butantan-tem-eficacia-de-80-.html) (Ig.com.br)
-
-- [Vacina do Butantan contra dengue tem eficácia de 79,6%](https://www.terra.com.br/noticias/brasil/vacina-do-butantan-contra-dengue-tem-eficacia-de-796,b511cefa6e211361641d637133cbf8d4nbngl9p6.html) (Terra.com.br)
-
-- [DF tem aumento de 920,5% nos casos de dengue e 30 mortes](https://www.metropoles.com/distrito-federal/dengue-df-aumento-de-920-e-30-mortes) (Metropoles.com)
-
-- [Distribuição da vacina contra a dengue começa na próxima semana](https://saude.ig.com.br/2024-02-01/distribuicao-vacina-contra-dengue.html) (Ig.com.br)
-
-- [Aparecida (GO) facilita atendimento para casos suspeitos de dengue](https://www.metropoles.com/brasil/aparecida-go-facilita-atendimento-para-casos-suspeitos-de-dengue) (Metropoles.com)
-
-- [Dengue: GDF pede ao Ministério da Saúde para receber vacinas primeiro](https://www.metropoles.com/distrito-federal/dengue-gdf-pede-ao-ministerio-da-saude-para-receber-vacinas-primeiro) (Metropoles.com)
-
-- [Brasil deve registrar até 4,2 milhões de casos de dengue em 2024](https://www.terra.com.br/nos/brasil-deve-registrar-ate-42-milhoes-de-casos-de-dengue-em-2024,053a288c3d34218f6f0ae7a0040bea45r92dc3ab.html) (Terra.com.br)
-
-- [Dengue: governo anuncia criação de Centro de Operações de Emergências](https://www.metropoles.com/brasil/dengue-centro-de-operacoes-de-emergencias) (Metropoles.com)
-
-- [Governo anuncia Centro de Operações contra a dengue](https://ultimosegundo.ig.com.br/brasil/2024-02-01/governo-anuncia-centro-de-operacoes-contra-a-dengue.html) (Ig.com.br)
-
-- [DF terá hospital de campanha da Aeronáutica para combate à dengue](https://www.metropoles.com/distrito-federal/df-tera-hospital-de-campanha-da-aeronautica-para-combate-a-dengue) (Metropoles.com)
-
-- [Confira 10 passos para eliminar focos do mosquito da dengue](https://jornaldebrasilia.com.br/noticias/saude/confira-10-passos-para-eliminar-focos-do-mosquito-da-dengue/) (Jornaldebrasilia.com.br)
-
-- [Brasil: casos de dengue em janeiro superam todo o ano de 2017](https://olhardigital.com.br/2024/02/01/medicina-e-saude/brasil-casos-de-dengue-em-janeiro-superam-todo-o-ano-de-2017/) (Olhardigital.com.br)
-
-- [Dengue: total de casos em janeiro supera o registrado em todo 2017](https://saude.ig.com.br/2024-02-01/dengue--total-de-casos-em-janeiro-supera-o-registrado-em-todo-2017.html) (Ig.com.br)
-
-- [Internada com dengue, jornalista Bianca Ramoneda alerta sobre a doença](https://www.metropoles.com/celebridades/internada-com-dengue-jornalista-bianca-ramoneda-alerta-sobre-a-doenca) (Metropoles.com)
-
-- [Dengue: aplicação da vacina do Butantan pode começar em 2025](https://olhardigital.com.br/2024/02/01/medicina-e-saude/dengue-aplicacao-da-vacina-do-butantan-pode-comecar-em-2025/) (Olhardigital.com.br)
-
-- [Estudo revela que vacina brasileira em teste contra a dengue tem 79,6% de eficácia](https://observador.pt/2024/02/01/estudo-revela-que-vacina-brasileira-em-teste-contra-a-dengue-tem-796-de-eficacia/) (Observador.pt)
-
-- [Bebê contrai dengue com 5 dias de vida e fica internado em UTI do DF](https://www.metropoles.com/distrito-federal/bebe-contrai-dengue-com-5-dias-de-vida-e-fica-internado-em-uti-do-df) (Metropoles.com)
-
-- [Veja explicação para a explosão dos casos de dengue em Brasília](https://www.metropoles.com/distrito-federal/veja-explicacao-para-a-explosao-dos-casos-de-dengue-em-brasilia) (Metropoles.com)
-
-- [Citronela e outros repelentes caseiros protegem contra a dengue?](https://www.metropoles.com/saude/dengue-repelentes-caseiros-citronela) (Metropoles.com)
-
-- [Vacina do Butantan contra a dengue apresenta eficácia de 79,6%, mostra estudo](https://sputniknewsbr.com.br/20240201/vacina-do-butantan-contra-a-dengue-apresenta-eficacia-de-796-mostra-estudo-32831542.html) (Sputniknewsbr.com.br)
-
-- [Vacina contra a dengue do Butantan alcança eficácia de 79,5%](https://saude.ig.com.br/2024-01-31/vacina-dengue-eficacia.html) (Ig.com.br)
-
-- [Santa Catarina registra alta de 646,5% nos casos de dengue em 2024](https://www.metropoles.com/brasil/santa-catarina-registra-alta-de-6465-nos-casos-de-dengue-em-2024) (Metropoles.com)
-
-- [Dengue: em falta no SUS, vacinas estão há 7 meses em clínicas do DF](https://www.metropoles.com/distrito-federal/dengue-em-falta-no-sus-vacinas-estao-ha-7-meses-em-clinicas-do-df) (Metropoles.com)
-
-- [Butantan desenvolve vacina contra a dengue com eficácia de em 79,5% com única dose](https://valor.globo.com/brasil/noticia/2024/01/31/butantan-desenvolve-vacina-contra-a-dengue-com-eficacia-de-em-795percent-com-unica-dose.ghtml) (Globo)
-
-- [Ministério da Saúde já se prepara para a hipótese de epidemia de dengue, diz jornalista](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-ja-se-prepara-para-a-hipotese-de-epidemia-de-dengue-diz-jornalista,c9ac992b59a091dcfe8b7d92fba929bao4acimkw.html) (Terra.com.br)
-
-- [Vacina do Butantan contra a dengue apresenta eficácia geral de 79,6%](https://www.metropoles.com/saude/vacina-butantan-contra-dengue-eficacia) (Metropoles.com)
-
-- [Vacina contra a dengue do Butantan protege 79,6% dos imunizados](https://veja.abril.com.br/saude/vacina-contra-a-dengue-do-butantan-protege-796-dos-imunizados) (Abril.com.br)
-
-- [Guerra contra dengue: Exército inicia combate ao Aedes nas ruas do DF](https://www.metropoles.com/distrito-federal/guerra-contra-dengue-exercito-inicia-combate-ao-aedes-nas-ruas-do-df) (Metropoles.com)
-
-- [Conheça 3 plantas com capacidade de repelir o mosquito da dengue](https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-31/conheca-3-plantas-com-capacidade-de-repelir-o-mosquito-da-dengue.html) (Ig.com.br)
-
-- [Dengue: infecção pode causar sintomas nos olhos. Entenda](https://www.metropoles.com/saude/dengue-pode-causar-sintomas-nos-olhos) (Metropoles.com)
-
-- [‘75% da transmissão de dengue ocorre dentro das casas’, alerta ministra](https://veja.abril.com.br/saude/75-da-transmissao-de-dengue-ocorre-dentro-das-casas-alerta-ministra) (Abril.com.br)
-
-- [Como prevenir e combater a dengue?](https://www.terra.com.br/noticias/como-prevenir-e-combater-a-dengue,ae3f1839e2d391b888c49e711eb07da4y3pb2r1t.html) (Terra.com.br)
-
-- [Dengue: proteína de mosquito pode ser a chave para bloqueio do vírus](https://www.megacurioso.com.br//saude-bem-estar/128726-dengue-proteina-de-mosquito-pode-ser-a-chave-para-bloqueio-do-virus.htm) (Megacurioso.com.br)
-
-- [Como prevenir e combater a dengue?](https://www.dw.com/pt-br/como-prevenir-e-combater-a-dengue/a-68136742) (DW (English))
-
-- [Cerca de 2% dos pacientes com dengue do DF precisam de internação](https://www.metropoles.com/distrito-federal/cerca-de-2-dos-pacientes-com-dengue-do-df-precisam-de-internacao) (Metropoles.com)
-
-- [Atestado de dengue vale por quantos dias? Tire suas dúvidas](https://www.terra.com.br/vida-e-estilo/saude/atestado-de-dengue-vale-por-quantos-dias-tire-suas-duvidas,c8f4ed0124fa43fa2297aa4b96040217wxofpmty.html) (Terra.com.br)
-
-- [A dengue é transmissível? Saiba o que é mito e verdade sobre a doença](https://www.terra.com.br/vida-e-estilo/saude/a-dengue-e-transmissivel-saiba-o-que-e-mito-e-verdade-sobre-a-doenca,22ad7a166f94d54d825c47ab5637bf3amrbka5ml.html) (Terra.com.br)
-
-- [Dengue: DF é um dos locais de maior preocupação, diz ministra da Saúde](https://www.metropoles.com/distrito-federal/dengue-df-e-uma-da-regiao-de-maior-preocupacao-diz-ministra-da-saude) (Metropoles.com)
-
-- [Dengue: Tarcísio projeta vacina do Butantan para setembro](https://www.metropoles.com/sao-paulo/dengue-tarcisio-projeta-vacina-do-butantan-para-setembro) (Metropoles.com)
-
-- [Pessoas acima de 45 anos podem tomar a vacina da dengue? Entenda!](https://www.terra.com.br/vida-e-estilo/saude/pessoas-acima-de-45-anos-podem-tomar-a-vacina-da-dengue-entenda,ace15fbcd0a77ce548e82f82d1f8d9564kj85a9w.html) (Terra.com.br)
-
-- [Ivermectina não funciona para tratar dengue, alerta infectologista](https://noticias.r7.com/record-news/videos/ivermectina-nao-funciona-para-tratar-dengue-alerta-infectologista-31012024) (R7.com)
-
-- [Vacina contra dengue: quem pode tomar, valor e onde encontrar](https://www.terra.com.br/vida-e-estilo/saude/vacina-contra-dengue-quem-pode-tomar-valor-e-onde-encontrar,f04e79907d19215b6a1bdc20f61a8294wf6j40mw.html) (Terra.com.br)
-
-- [Governo federal lança segunda fase da campanha de combate à dengue](https://www.metropoles.com/colunas/m-buzz/governo-federal-lanca-segunda-fase-da-campanha-de-combate-a-dengue) (Metropoles.com)
-
-- [Vacina contra dengue aguarda tradução de bula para distribuição](https://saude.ig.com.br/2024-01-31/vacina-dengue-aguarda-traducao-bula-distribuicao.html) (Ig.com.br)
-
-- [Dengue: Prefeitura de SP pede que Saúde envie doses de vacina](https://saude.ig.com.br/2024-01-31/prefeitura-de-sp-pede-que-saude-envie-doses-de-vacina-contra-dengue.html) (Ig.com.br)
-
-- [Increasing transmission of dengue virus across ecologically diverse regions of Ecuador and associated risk factors](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011408) (Plos.org)
-
-- [Mar de Saúde: RJ registra quase 10 mil casos de dengue em 2024](https://noticias.r7.com/rio-de-janeiro/rj-no-ar/videos/mar-de-saude-rio-registra-quase-10-mil-casos-de-dengue-em-2024-31012024) (R7.com)
-
-- [Curtas](https://valor.globo.com/brasil/noticia/2024/01/31/1e081441-curtas.ghtml) (Globo)
-
-- [CRM-DF fiscaliza condições de atendimento à população com dengue](https://www.metropoles.com/distrito-federal/crm-df-fiscaliza-condicoes-de-atendimento-a-populacao-com-dengue) (Metropoles.com)
-
-- [Brasil registra quase 220 mil casos de dengue em janeiro e vive preocupação com escalada da doença](https://noticias.r7.com/jr-na-tv/videos/brasil-registra-quase-220-mil-casos-de-dengue-em-janeiro-e-vive-preocupacao-com-escalada-da-doenca-30012024) (R7.com)
-
-- [Em um dia, Saúde do DF atende 6 mil pessoas com suspeita de dengue](https://www.metropoles.com/distrito-federal/em-um-dia-saude-do-df-atende-6-mil-pessoas-com-suspeita-de-dengue) (Metropoles.com)
-
-- [Brasil pode registar até 4,2 milhões de casos de dengue em 2024](https://observador.pt/2024/01/30/brasil-pode-registar-ate-42-milhoes-de-casos-de-dengue-em-2024/) (Observador.pt)
-
-- [Repelente funciona contra mosquito da dengue? Entenda!](https://www.terra.com.br/vida-e-estilo/saude/repelente-funciona-contra-mosquito-da-dengue-entenda,5ce7e9652b17a3b3f5c133fcdfa1c528no1kvyv4.html) (Terra.com.br)
-
-- [“Stock cero de insumos”: El drama de Chaco, el distrito con más casos de dengue este verano, y una dura acusación a Capitanich](https://www.lanacion.com.ar/sociedad/stock-cero-de-insumos-el-drama-de-chaco-el-distrito-con-mas-casos-de-dengue-este-verano-y-una-dura-nid30012024/) (La Nacion)
-
-- [Dengue: conheça os principais sintomas e riscos da doença para gestantes](https://claudia.abril.com.br/saude/dengue-conheca-os-principais-sintomas-e-riscos-da-doenca-para-gestantes) (Abril.com.br)
-
-- [Mais três mortes por dengue são registradas no estado de SP](https://saude.ig.com.br/2024-01-30/tres-mortes-registradas-dengue-sp.html) (Ig.com.br)
-
-- [Vacinação contra a dengue começa no país em 15 dias](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/vacinacao-contra-a-dengue-comeca-no-pais-em-15-dias-30012024) (R7.com)
-
-- [Uma em cada cinco mortes de dengue no Brasil são no Distrito Federal, diz ministério da Saúde](https://noticias.r7.com/brasilia/uma-em-cada-cinco-mortes-de-dengue-no-brasil-sao-no-distrito-federal-diz-ministerio-da-saude-30012024) (R7.com)
-
-- [Dengue: doses devem ser distribuídas na 2ª semana de fevereiro](https://saude.ig.com.br/2024-01-30/dengue--doses-devem-ser-distribuidas-na-2-semana-de-fevereiro.html) (Ig.com.br)
-
-- [Estado de São Paulo registra mais três mortes por dengue](https://valor.globo.com/brasil/noticia/2024/01/30/estado-de-sao-paulo-registra-mais-tres-mortes-por-dengue.ghtml) (Globo)
-
-- [Krankheiten: Schwerer Ausbruch von Dengue-Fieber in Brasilien](https://www.zeit.de/news/2024-01/30/schwerer-ausbruch-von-dengue-fieber-in-brasilien) (Die Zeit)
-
-- [Krankheiten: Schwerer Ausbruch von Dengue-Fieber in Brasilien](https://www.stern.de/panorama/wissen/krankheiten--schwerer-ausbruch-von-dengue-fieber-in-brasilien-34414192.html) (STERN.de)
-
-- [GDF investe R$ 44 milhões em sistema de limpeza de esgoto](https://www.metropoles.com/distrito-federal/gdf-investe-r-44-milhoes-em-sistema-de-limpeza-de-esgoto) (Metropoles.com)
-
-- [Dengue em SP: estado registra 6 mortes e casos quadruplicam na capital](https://www.metropoles.com/sao-paulo/dengue-em-sp-estado-registra-6-mortes-e-casos-quadruplicam-na-capital) (Metropoles.com)
-
-- [Brasil registra 217 mil casos de dengue em 2024](https://www.terra.com.br/noticias/mundo/brasil-registra-217-mil-casos-de-dengue-em-2024,9582275635d1347845d0002f59a9c574pbrod9m5.html) (Terra.com.br)
-
-- [Ministério da Saúde aguarda tradução da bula para iniciar vacinação contra dengue](https://valor.globo.com/brasil/noticia/2024/01/30/ministerio-da-saude-aguarda-traducao-da-bula-para-iniciar-vacinacao-contra-dengue.ghtml) (Globo)
-
-- [Dengue: casos em janeiro aumentaram quase 5 vezes em relação a 2023](https://saude.ig.com.br/2024-01-30/dengue--casos-em-janeiro-aumentaram-quase-5-vezes-em-relacao-a-2023.html) (Ig.com.br)
-
-- [Brasil registra mais de 217 mil casos de dengue só em 2024](https://veja.abril.com.br/saude/brasil-registra-mais-de-217-mil-casos-de-dengue-so-em-2024) (Abril.com.br)
-
-- [Ibaneis diz que contratará agentes para combater dengue: “Epidemia”](https://www.metropoles.com/distrito-federal/ibaneis-diz-que-contratara-agentes-para-combater-dengue-epidemia) (Metropoles.com)
-
-- [Dengue: Saúde quer distribuir doses a partir da 2ª semana de fevereiro](https://www.metropoles.com/brasil/dengue-saude-quer-distribuir-doses-a-partir-da-2a-semana-de-fevereiro) (Metropoles.com)
-
-- [Casos prováveis de dengue sobem de 120 mil para 217 mil em uma semana](https://saude.ig.com.br/2024-01-30/casos-provaveis-de-dengue-sobem-de-120-mil-para-217-mil-em-uma-semana.html) (Ig.com.br)
-
-- [Dengue: Brasil já tem mais de 217 mil casos e 15 mortes confirmadas](https://www.metropoles.com/brasil/dengue-brasil-ja-tem-mais-de-217-mil-casos-e-15-mortes-confirmadas) (Metropoles.com)
-
-- [Vacinas da dengue: saiba quem pode tomar e efeitos colaterais](https://delas.ig.com.br/parceiros/selecoes/2024-01-30/vacinas-da-dengue--saiba-quem-pode-tomar-e-efeitos-colaterais.html) (Ig.com.br)
-
-- [Markers of prolonged hospitalisation in severe dengue](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011922) (Plos.org)
-
-- [Onze cidades de SP vão receber a vacina contra a dengue; veja quais](https://www.metropoles.com/sao-paulo/onze-cidades-de-sp-serao-vacinadas-contra-a-dengue-no-sus-veja-quais) (Metropoles.com)
-
-- [Ministério da Saúde pretende entregar vacinas contra dengue na segunda semana de fevereiro](https://noticias.r7.com/brasilia/vacina-dengue-sus-ministerio-30012024) (R7.com)
-
-- [Influenciadora de 37 anos morre após contrair dengue](https://recordtv.r7.com/fala-brasil/videos/influenciadora-de-37-anos-morre-apos-contrair-dengue-30012024) (R7.com)
-
-- [Dengue: Ministério da Saúde fala em 'estratégia definida' para 2024 e põe em xeque envio de vacina a Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/30/dengue-ministerio-da-saude-fala-em-estrategia-definida-para-2024-e-poe-em-xeque-envio-de-vacina-a-campinas.ghtml) (Globo)
-
-- [Drone, edição genética e mais: o que a ciência está fazendo para conter o surto de dengue](https://www.terra.com.br/byte/drone-edicao-genetica-e-mais-o-que-a-ciencia-esta-fazendo-para-conter-o-surto-de-dengue,1aaec2131075836f67e15d0d8ff580d8aiblwr5w.html) (Terra.com.br)
-
-- [Antes da explosão de dengue, DF perdeu 36% dos agentes contra a doença](https://www.metropoles.com/distrito-federal/antes-da-explosao-de-dengue-df-perdeu-36-dos-agentes-contra-a-doenca) (Metropoles.com)
-
-- [Xô, dengue! Saiba como evitar que sua casa vire criadouro de mosquitos](https://www.metropoles.com/saude/como-evitar-mosquitos-da-dengue-em-casa) (Metropoles.com)
-
-- [Vaccine hesitancy rising as climate-related disease spreads]( https://en.setopati.com/International/162491 ) (Setopati.com)
-
-- [Quem era Aline Barbosa, influenciadora digital que morreu de dengue](https://www.metropoles.com/brasil/quem-era-aline-barbosa-influenciadora-digital-que-morreu-de-dengue) (Metropoles.com)
-
-- [Targeting sex determination to suppress mosquito populations](https://elifesciences.org/articles/90199) (Elifesciences.org)
-
-- [Influenciadora digital morre vítima de dengue aos 37 anos no Paraná](https://www.metropoles.com/brasil/influenciadora-digital-morre-vitima-de-dengue-aos-37-anos-no-parana) (Metropoles.com)
-
-- [Com dengue, deputado faz apelo: “Tem que ser esforço coletivo”](https://www.metropoles.com/colunas/grande-angular/com-dengue-deputado-faz-apelo-tem-que-ser-esforco-coletivo) (Metropoles.com)
-
-- [Saúde treina 247 militares para ajudar na luta contra a dengue no DF](https://www.metropoles.com/distrito-federal/saude-treina-247-militares-para-ajudar-na-luta-contra-a-dengue-no-df) (Metropoles.com)
-
-- [Veja sintomas da dengue e como se prevenir da doença](https://valor.globo.com/brasil/noticia/2024/01/29/veja-sintomas-da-dengue-e-como-se-prevenir-da-doenca.ghtml) (Globo)
-
-- [Perfil do governo ironiza ação contra Carlos e web reage: 'deboche'](https://ultimosegundo.ig.com.br/politica/2024-01-29/perfil-governo-ironiza-acao-pf-carlos.html) (Ig.com.br)
-
-- [São Paulo bate recorde de casos de dengue em janeiro](https://valor.globo.com/brasil/noticia/2024/01/29/sao-paulo-bate-recorde-de-casos-de-dengue-em-janeiro.ghtml) (Globo)
-
-- [Casos confirmados de dengue já ultrapassam os 20 mil em MG](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/casos-confirmados-de-dengue-ja-ultrapassam-os-20-mil-em-mg-29012024) (R7.com)
-
-- [Veja como é a vacinação contra a dengue e quem tem acesso ao imunizante](https://valor.globo.com/brasil/noticia/2024/01/29/veja-como-e-a-vacinacao-contra-a-dengue-e-quem-tem-acesso-ao-imunizante.ghtml) (Globo)
-
-- [Mosquito protein could block dengue virus infection](https://www.futurity.org/mosquitos-protein-dengue-fever-viruses-317214/) (Futurity: Research News)
-
-- [DF registra quase 30 mil casos prováveis de dengue e seis mortes](https://www.metropoles.com/colunas/grande-angular/df-registra-quase-30-mil-casos-provaveis-de-dengue-e-seis-mortes) (Metropoles.com)
-
-- [Dengue em BH: casos dobram em janeiro em relação ao mesmo mês de 2023](https://saude.ig.com.br/2024-01-29/dengue-alta-casos-belo-horizonte.html) (Ig.com.br)
-
-- [Governo posta após ação da PF contra Carlos Bolsonaro: “Toc, toc, toc”](https://www.metropoles.com/brasil/governo-posta-apos-acao-da-pf-contra-carlos-bolsonaro-toc-toc-toc) (Metropoles.com)
-
-- [Planalto posta ‘toc, toc’, após batida da PF contra Carlos Bolsonaro](https://veja.abril.com.br/coluna/radar/planalto-posta-toc-toc-apos-batida-da-pf-contra-carlos-bolsonaro) (Abril.com.br)
-
-- [Morrissey cancela shows que faria no Brasil por 'exaustão física'; saiba mais](https://www.terra.com.br/diversao/musica/morrissey-cancela-shows-que-faria-no-brasil-por-exaustao-fisica-saiba-mais,43a8a23b73d6e0ed459f73f189a052d0lhotkv9y.html) (Terra.com.br)
-
-- [Los casos de dengue aumentaron en 2023 en todo el mundo con más de 6.000 muertes](https://www.infosalus.com/salud-investigacion/noticia-casos-dengue-aumentaron-2023-todo-mundo-mas-6000-muertes-20240129142318.html) (Infosalus.com)
-
-- [Dengue: vacinação começa em fevereiro, em 521 municípios; confira lista](https://olhardigital.com.br/2024/01/29/medicina-e-saude/dengue-vacinacao-comeca-em-fevereiro-em-521-municipios-confira-lista/) (Olhardigital.com.br)
-
-- [SP: cinco pessoas morreram de dengue nos primeiros 20 dias de janeiro](https://recordtv.r7.com/fala-brasil/videos/sp-cinco-pessoas-morreram-de-dengue-nos-primeiros-20-dias-de-janeiro-29012024) (R7.com)
-
-- [Governo de MG decreta estado de emergência pelo alto número de casos de dengue](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/governo-de-mg-decreta-estado-de-emergencia-pelo-alto-numero-de-casos-de-dengue-29012024) (R7.com)
-
-- [Dengue: inédita cifra de casos para las primeras tres semanas de enero](https://www.lanacion.com.ar/sociedad/dengue-inedita-cifra-de-casos-para-las-primeras-tres-semanas-de-enero-nid28012024/) (La Nacion)
-
-- [หมอมนูญ เผยเคส คนไข้วัย 50 ปี ป่วยโรค "ไข้เลือดออก" คาดเป็นครั้งที่ 3](https://www.thairath.co.th/news/society/2758849) (Thairath.co.th)
-
-- [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
-
-## 24-5 (chikungunya)
-
-- [Em São Paulo, número de casos de chikungunya sobe 830% em 2024](https://saude.ig.com.br/2024-02-03/aumento-de-casos-de-chikungunya-em-sao-paulo.html) (Ig.com.br)
-
-- [SP tem 8 vezes mais casos de chikungunya este ano; cidade do interior está em alerta para epidemia](https://www.terra.com.br/vida-e-estilo/saude/sp-tem-8-vezes-mais-casos-de-chikungunya-este-ano-cidade-do-interior-esta-em-alerta-para-epidemia,98b7c21fde8d77a22018aa285ae76574v07tit4m.html) (Terra.com.br)
-
-- [Peixe barrigudinho é aliado contra a dengue, zika e a chikungunya](https://noticias.r7.com/cidades/diario-digital/peixe-barrigudinho-e-aliado-contra-a-dengue-zika-e-a-chikungunya-01022024) (R7.com)
-
-- [‘75% da transmissão de dengue ocorre dentro das casas’, alerta ministra](https://veja.abril.com.br/saude/75-da-transmissao-de-dengue-ocorre-dentro-das-casas-alerta-ministra) (Abril.com.br)
-
-- [Governo federal lança segunda fase da campanha de combate à dengue](https://www.metropoles.com/colunas/m-buzz/governo-federal-lanca-segunda-fase-da-campanha-de-combate-a-dengue) (Metropoles.com)
-
-- [Repelente funciona contra mosquito da dengue? Entenda!](https://www.terra.com.br/vida-e-estilo/saude/repelente-funciona-contra-mosquito-da-dengue-entenda,5ce7e9652b17a3b3f5c133fcdfa1c528no1kvyv4.html) (Terra.com.br)
-
-- [Targeting sex determination to suppress mosquito populations](https://elifesciences.org/articles/90199) (Elifesciences.org)
-
-- [DF registra quase 30 mil casos prováveis de dengue e seis mortes](https://www.metropoles.com/colunas/grande-angular/df-registra-quase-30-mil-casos-provaveis-de-dengue-e-seis-mortes) (Metropoles.com)
-
-- [El ECDC notifica cerca de 500.000 casos del virus de Chikungunya en 2023, que ha provocado más de 400 muertes](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-cerca-500000-casos-virus-chikungunya-2023-provocado-mas-400-muertes-20240129165837.html) (Infosalus.com)
-
-- [Governo de MG decreta estado de emergência pelo alto número de casos de dengue](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/governo-de-mg-decreta-estado-de-emergencia-pelo-alto-numero-de-casos-de-dengue-29012024) (R7.com)
-
 ## 24-11 (zika)
+
+- [Estudo revela que chikungunya causa danos cerebrais e indica necessidade de mudanças no atendimento](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/16/estudo-revela-que-chikungunya-causa-danos-cerebrais-e-indica-necessidade-de-mudancas-no-atendimento.ghtml) (Globo)
 
 - [Bactéria que inibe vírus da dengue no mosquito não ameaça a saúde de humanos, afirma pesquisadora](https://noticias.r7.com/record-news/videos/bacteria-que-inibe-virus-da-dengue-no-mosquito-nao-ameaca-a-saude-de-humanos-afirma-pesquisadora-15032024) (R7.com)
 
@@ -3658,6 +3058,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (meningitis)
 
+- [She could have died from meningitis. Now this student wants more people to get vaccinated](https://www.cbc.ca/news/canada/meningitis-vaccine-students-1.7138517) (CBC News)
+
 - [Neurological Disorders Becoming More Common Worldwide—'Very Concerning'](https://www.newsweek.com/neurological-disorders-common-worldwide-health-1878910) (Newsweek)
 
 - [Infektionskrankheit: Selten, aber gefährlich: Was Eltern über Meningokokken wissen müssen](https://www.stern.de/panorama/wissen/meningokokken--was-eltern-ueber-die-infektionskrankheit-wissen-muessen-34523946.html) (STERN.de)
@@ -3667,6 +3069,18 @@ Source: [News API](https://newsapi.org/)
 - [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
 
 ## 24-11 (measles)
+
+- [US Measles Cases Totals More in New Year So Far Than All of 2023](https://sputnikglobe.com/20240316/us-measles-cases-totals-more-in-new-year-so-far-than-all-of-2023-1117359902.html) (Sputnikglobe.com)
+
+- [New measles alert for passengers on Ryanair flight into Dublin, as additional case is reported](https://www.independent.ie/irish-news/new-measles-alert-for-passengers-on-ryanair-flight-into-dublin-as-additional-case-is-reported/a932061434.html) (Independent.ie)
+
+- [Measles alert for passengers on Ryanair flight from Cyprus to Dublin as additional case is reported](https://www.independent.ie/irish-news/measles-alert-for-passengers-on-ryanair-flight-from-cyprus-to-dublin-as-additional-case-is-reported/a932061434.html) (Independent.ie)
+
+- [Chicago dealing with measles outbreak](https://www.cbsnews.com/video/chicago-dealing-with-measles-outbreak/) (CBS News)
+
+- [A week before measles outbreak, less than half of CPS students without stable housing were fully immunized](http://www.chicagotribune.com/2024/03/15/a-week-before-measles-outbreak-less-than-half-of-cps-students-without-stable-housing-were-fully-immunized/) (Chicago Tribune)
+
+- [What does measles look like? Know these signs of the virus as 17 states report new cases](https://www.today.com/health/disease/measles-rash-images-rcna142421) (TODAY)
 
 - [Thousands Exposed to Disease in New Disney Measles Outbreak](https://insidethemagic.net/2024/03/thousands-exposed-disease-new-disney-measles-outbreak-nk1/) (Inside the Magic)
 
@@ -3697,6 +3111,8 @@ Source: [News API](https://newsapi.org/)
 - [Hamilton child isolating at home after catching measles overseas: public health](https://www.cbc.ca/news/canada/hamilton/measles-confirmed-case-1.7143109) (CBC News)
 
 - [Explainer: Why falling vaccination rates have seen return of ‘forgotten illness’ measles](https://www.independent.ie/irish-news/health/explainer-why-falling-vaccination-rates-have-seen-return-of-forgotten-illness-measles/a1142271912.html) (Independent.ie)
+
+- [Children under one year old can now get measles jab if travelling to area of ‘active outbreak’ as part of new vaccine catch-up plan](https://www.independent.ie/irish-news/children-under-one-year-old-can-now-get-measles-jab-if-travelling-to-area-of-active-outbreak-as-part-of-new-vaccine-catch-up-plan/a219136726.html) (Independent.ie)
 
 - [Chicago: Eight Measles Cases at Illegal Immigrant Shelter and Ten Confirmed in the City](https://legalinsurrection.com/2024/03/chicago-eight-measles-cases-at-illegal-immigrant-shelter-and-ten-confirmed-in-the-city/) (Legalinsurrection.com)
 
@@ -3888,6 +3304,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-11 (dengue)
 
+- [Região do DF mais afetada pela dengue recebeu só 6 agentes de concurso](https://www.metropoles.com/distrito-federal/regiao-do-df-mais-afetada-pela-dengue-recebeu-so-6-agentes-de-concurso) (Metropoles.com)
+
+- [Crece la epidemia de dengue en Brasil: los casos registrados en lo que va de 2024 ya superan a los de todo 2023](https://cnnespanol.cnn.com/2024/03/15/crece-epidemia-dengue-brasil-casos-orix/) (CNN)
+
+- [Dengue | Alta de casos é associada a calor intenso e desmatamento](https://tecnologia.ig.com.br/parceiros/canaltech/2024-03-15/dengue---alta-de-casos-e-associada-a-calor-intenso-e-desmatamento.html) (Ig.com.br)
+
+- [Médico que deu alta a menina de 7 anos, vítima de dengue, é indiciado](https://www.metropoles.com/distrito-federal/medico-que-deu-alta-a-menina-de-7-anos-vitima-de-dengue-e-indiciado) (Metropoles.com)
+
+- [Brasil supera casos de dengue de 2023 em menos de três meses](https://saude.ig.com.br/2024-03-15/brasil-supera-casos-de-dengue-de-2023.html) (Ig.com.br)
+
+- [Em menos de três meses, Brasil supera casos de dengue de 2023](https://veja.abril.com.br/saude/em-menos-de-tres-meses-brasil-supera-casos-de-dengue-de-2023) (Abril.com.br)
+
+- [Dengue: Brasil já registra mais casos este ano do que em todo 2023](https://www.metropoles.com/brasil/dengue-brasil-ja-registra-mais-casos-este-ano-do-que-em-todo-2023) (Metropoles.com)
+
+- [Dengue: epidemia pode chegar na capital paulista em breve](https://saude.ig.com.br/2024-03-15/sao-paulo-proximo-epidemia-dengue.html) (Ig.com.br)
+
 - [Acordo com ANS prioriza pacientes com dengue na rede privada do DF](https://veja.abril.com.br/coluna/radar/acordo-com-ans-prioriza-pacientes-com-dengue-na-rede-privada-do-df) (Abril.com.br)
 
 - [Dengue, la donna infettata: «Ho capito cosa significa febbre spacca ossa»](https://www.ilsole24ore.com/art/dengue-donna-infettata-ho-capito-cosa-significa-febbre-spacca-ossa-AF1uiG4C) (Il Sole 24 Ore)
@@ -3907,6 +3339,8 @@ Source: [News API](https://newsapi.org/)
 - [Wolters Kluwer supports Brazil with access to trusted medical content on Dengue disease](https://www.marketscreener.com/quote/stock/WOLTERS-KLUWER-N-V-6291/news/Wolters-Kluwer-supports-Brazil-with-access-to-trusted-medical-content-on-Dengue-disease-46209600/) (Marketscreener.com)
 
 - [Dengue fever forces Stephanie Luciano out of UFC Vegas 89 fight with Julia Polastri](https://www.mmafighting.com/2024/3/15/24101654/dengue-fever-forces-stephanie-luciano-out-ufc-vegas-89-fight-julia-polastri) (MMA Fighting)
+
+- [Le Brésil confronté à une épidémie de dengue sans précédent : “Désormais, le plus important est de traiter au mieux les malades”](https://www.lalibre.be/planete/2024/03/15/le-bresil-confronte-a-une-epidemie-de-dengue-sans-precedent-desormais-le-plus-important-est-de-traiter-au-mieux-les-malades-JVLBQEALZVGRHHYZHJCDBK6NFM/) (Lalibre.be)
 
 - [O que faz a chikungunya ser tão fatal? Estudo responde](https://olhardigital.com.br/2024/03/15/medicina-e-saude/o-que-faz-a-chikungunya-ser-tao-fatal-estudo-responde/) (Olhardigital.com.br)
 
@@ -4155,6 +3589,8 @@ Source: [News API](https://newsapi.org/)
 - [Discovery reexibe documentário especial abordando doenças transmitidas por mosquitos](https://www.ouniversodatv.com/2024/03/discovery-reexibe-documentario-especial.html) (Ouniversodatv.com)
 
 ## 24-11 (chikungunya)
+
+- [Estudo revela que chikungunya causa danos cerebrais e indica necessidade de mudanças no atendimento](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/16/estudo-revela-que-chikungunya-causa-danos-cerebrais-e-indica-necessidade-de-mudancas-no-atendimento.ghtml) (Globo)
 
 - [Bactéria que inibe vírus da dengue no mosquito não ameaça a saúde de humanos, afirma pesquisadora](https://noticias.r7.com/record-news/videos/bacteria-que-inibe-virus-da-dengue-no-mosquito-nao-ameaca-a-saude-de-humanos-afirma-pesquisadora-15032024) (R7.com)
 
