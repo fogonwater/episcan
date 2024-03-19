@@ -1,8 +1,501 @@
 {
-  "last_updated": "2024-03-19 07:05",
-  "count_articles_total": 2081,
+  "last_updated": "2024-03-19 19:05",
+  "count_articles_total": 2094,
   "count_articles_new": 27,
   "articles": [
+    {
+      "id": 7109,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "S\u00e3o Paulo est\u00e1 em estado de emerg\u00eancia pela dengue; entenda a situa\u00e7\u00e3o",
+      "description": "A capital paulista poder\u00e1 contratar mais profissionais, servi\u00e7os e materiais sem licita\u00e7\u00e3o; atendimento nas AMAs ser\u00e3o ampliados",
+      "url": "https://saude.ig.com.br/2024-03-18/estado-de-emergencia-dengue-sp.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3p/gz/g8/3pgzg81eek88agv5jb3h37sbl.jpg",
+      "publishedAt": "2024-03-18 18:53:34",
+      "content": "A cidade de S\u00e3o Paulo alcan\u00e7ou um \u00edndice de transmiss\u00e3o da doen\u00e7a de 412 casos para cada 100 mil habitantes no domingo (17). Quando esse \u00edndice \u00e9 de 300 a cada 100 mil habitantes, a Organiza\u00e7\u00e3o Mund\u2026 [+2546 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.495967",
+      "internal_id": "21ab118671c44776419a28ef79f12013e44a19c3be1ff14a741793ca5c4a5074",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7094,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Brenda Goodman",
+      "title": "CDC urges vaccination amid rise in measles cases in the US and globally",
+      "description": "The CDC issued a health alert to doctors to increase awareness of the international spread of measles, and urged them to vaccinate infants.",
+      "url": "https://www.wisn.com/article/cdc-urges-vaccination-amid-rise-in-measles-cases/60232627",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbhr4mnn1ohkwmdbqmmu2nzlpcw84nmpr-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nsdhgybdbqddawmgthcw94m3fjmtd1djc-jpg-65f883b447f21.jpg?crop=1.00xw:0.887xh;0,0&resize=1200:*",
+      "publishedAt": "2024-03-18 18:43:06",
+      "content": "U.S. health officials are warning doctors about the dramatic rise in measles cases around the world, and advising families traveling to a measles-affected country to get babies as young as 6 months v\u2026 [+4337 chars]",
+      "retrievedAt": "2024-03-19 19:05:42.674898",
+      "internal_id": "fbd6c891684639aef2f713036ee4dea64ebb5c54b219bc5760181396c536cba4",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7097,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "La mayor\u00eda de las consultas en las guardias son por dengue: c\u00f3mo hacen el diagn\u00f3stico",
+      "description": "En lo que va del a\u00f1o, ya hay confirmados m\u00e1s de 100.000 casos en el pa\u00eds",
+      "url": "https://www.lanacion.com.ar/sociedad/la-mayoria-de-las-consultas-en-las-guardias-son-por-dengue-como-hacen-el-diagnostico-nid18032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-filas-en-la-guardia-del-hospital-7JDVCUDXBJAKHMYGDGEU4J342M.JPG?auth=9a3322a78dcafd744d5a60905458e433057bc5139d50546494a6fe98b0c9d7d7&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-18 18:22:21",
+      "content": "En la guardia del Hospital Rivadavia, en Jos\u00e9 Andr\u00e9s Pacheco de Melo y Austria, la fila para ingresar daba la vuelta a la esquina. Muchos estaban apoyados contra la pared, sentados en el suelo y abra\u2026 [+4912 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.370530",
+      "internal_id": "ab19e0f3ee6d3a4f97d5894b3fe98b56e0d66b21dcbe05a9d34242d36fe21d15",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7105,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Nunes critica governo Lula por falta de vacinas contra a dengue",
+      "description": "Prefeito de SP diz que gest\u00e3o petista 'deu bobeira' e poderia ter evitado mortes; Minist\u00e9rio da Sa\u00fade informa que capital ser\u00e1 inclu\u00edda na lista de vacina\u00e7\u00e3o",
+      "url": "https://saude.ig.com.br/2024-03-18/nunes-critica-governo-lula-vacina-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/4s/x6/x6/4sx6x6s18l8oz0xepr5tf3los.jpg",
+      "publishedAt": "2024-03-18 18:12:59",
+      "content": "Logo ap\u00f3s decretar estado de emerg\u00eancia em S\u00e3o Paulo devido \u00e0 epidemia de dengue , Ricardo Nunes (MDB) tratou de criticar o governo federal. Em evento realizado no centro, nesta segunda-feira (18)\u2026 [+2606 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.479520",
+      "internal_id": "867a21e8f0b19fc385a7ec2d5bdf56fdd6f41bf696648b9175e959d8c8f013a3",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7103,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Da Reda\u00e7\u00e3o",
+      "title": "Wolbachia: conhe\u00e7a bact\u00e9ria que ajuda no combate \u00e0 dengue no Brasil",
+      "description": "Artigo de pesquisadores da Fiocruz e da WMP Brasil no The Conversation visitou a hist\u00f3ria da bact\u00e9ria que impede a reprodu\u00e7\u00e3o do mosquito",
+      "url": "https://www.metropoles.com/saude/wolbachia-bacteria-combate-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/18145440/Wolbachia-mosquitos-aedes-aegypti-2.jpeg",
+      "publishedAt": "2024-03-18 18:07:54",
+      "content": "Em 2011, o pesquisador da Funda\u00e7\u00e3o Oswaldo Cruz, Luciano Moreira, iniciou uma s\u00e9rie de discuss\u00f5es com o Minist\u00e9rio da Sa\u00fade para trazer uma nova alternativa para enfrentar a dengue: a introdu\u00e7\u00e3o no a\u2026 [+10674 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.434186",
+      "internal_id": "8c608604f574828692b1cee95aeae9dd00375c7e333a360452b1a486324986c8",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7093,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "Measles: CDC urges vaccination amid rise in cases in the US and globally",
+      "description": "US government health officials are warning doctors about the dramatic rise in measles cases around the world, and advising families traveling to a measles-affected country to get babies as young as 6 months vaccinated before they go.",
+      "url": "https://www.cnn.com/2024/03/18/health/measles-vaccine-cdc-alert/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231109115321-measles-mumps-rubella-vaccine-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-18 18:06:35",
+      "content": "US health officials are warning doctors about the dramatic rise in measles cases around the world, and advising families traveling to a measles-affected country to get babies as young as 6 months vac\u2026 [+5230 chars]",
+      "retrievedAt": "2024-03-19 19:05:42.671681",
+      "internal_id": "1e6830a6c0a30d5ae0031dcc1e3c25e178bf64e88204d155b9435263b83d15ab",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7112,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "7 medidas que podem contribuir para o controle e preven\u00e7\u00e3o do v\u00edrus da dengue",
+      "description": "Brasil vive uma epidemia; professor do Col\u00e9gio Marista Gl\u00f3ria, de S\u00e3o Paulo (SP), aponta a\u00e7\u00f5es ...",
+      "url": "https://www.terra.com.br/noticias/educacao/7-medidas-que-podem-contribuir-para-o-controle-e-prevencao-do-virus-da-dengue,7fbb1e847355095b91550a0187feed71xxlj80uw.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-03-18 16:57:29",
+      "content": "Brasil vive uma epidemia; professor do Col\u00e9gio Marista Gl\u00f3ria, de S\u00e3o Paulo (SP), aponta a\u00e7\u00f5es que ajudam no combate ao mosquito Aedes aegypti O combate \u00e0 dengue no Brasil requer esfor\u00e7os coordenado\u2026 [+3755 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.518730",
+      "internal_id": "1dd57fd3921fc1747f730f531ee199ff1054bf42d4918127e403c63a7f27e950",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7111,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "El mapa del dengue: confirman m\u00e1s de 100.000 casos en el pa\u00eds en lo que va del a\u00f1o",
+      "description": "La cifra oficial, apenas una muestra del n\u00famero real de infecciones en las provincias, ya reafirma que se trata de la mayor epidemia con extensi\u00f3n nacional desde 2009",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-confirman-mas-de-100000-casos-en-el-pais-en-lo-que-va-del-ano-nid18032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-85percent-de-las-infecciones-acumuladas-en-la-2LQGZDZ4ONDFHI4O6DH4FWA52E.JPG?auth=375e33ec43d1077de8381e490afee691a4924f87f1f188be369b02e85121bd08&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-18 16:42:27",
+      "content": "Con m\u00e1s de 100.000 casos confirmados por laboratorio, donde hay insumos disponibles, o a trav\u00e9s de los s\u00edntomas en \u00e1reas en brote, el pa\u00eds est\u00e1 pasando por la mayor epidemia de dengue de los \u00faltimos \u2026 [+3969 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.512981",
+      "internal_id": "c4424daec5d75864365fe00a4903a056e4fc1b2572f2dc1e6c804978a7fc9160",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7101,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Arreguy",
+      "title": "Nunes critica greve de servidores que atuam no combate \u00e0 dengue em SP",
+      "description": "Em meio ao estado de emerg\u00eancia para a doen\u00e7a decretado na capital, agentes de sa\u00fade aderiram \u00e0 greve do funcionalismo por ajuste salarial",
+      "url": "https://www.metropoles.com/sao-paulo/nunes-critica-greve-de-servidores-que-atuam-no-combate-a-dengue-em-sp",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/06153035/nunes-dengue.jpeg",
+      "publishedAt": "2024-03-18 16:41:35",
+      "content": "S\u00e3o Paulo O prefeito Ricardo Nunes (MDB) criticou, nesta segunda-feira (18/3), os agentes de sa\u00fade que atuam no combate \u00e0 dengue por aderirem \u00e0 greve de servidores municipais de diversas categorias p\u2026 [+6870 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.427561",
+      "internal_id": "308a0200154fbce57c2f1c776b89204b43185ad410087330c7513326014c504c",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7102,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Chikungunya: veja os sintomas da doen\u00e7a transmitida pelo Aedes aegypti",
+      "description": "A infec\u00e7\u00e3o causada pelo v\u00edrus chikungunya teve um aumento de 191% de casos no DF em 2024. Preven\u00e7\u00e3o tamb\u00e9m passa por evitar o mosquito",
+      "url": "https://www.metropoles.com/saude/chikungunya-conheca-sintomas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/09175317/chikungunya.jpg",
+      "publishedAt": "2024-03-18 16:10:28",
+      "content": "Al\u00e9m da dengue, o v\u00edrus da chikungunya, que tamb\u00e9m \u00e9 transmitido pelo mosquito Aedes aegypti, est\u00e1 causando uma quantidade de casos da infec\u00e7\u00e3o maior do que o esperado nos primeiros meses de 2024. N\u2026 [+5498 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.430836",
+      "internal_id": "efef4240c19538ada7e19c0809268bacbfb8a79398a69609d0b8da8d3b843ee7",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7106,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra",
+      "title": "Prefeitura de SP decreta emerg\u00eancia para dengue",
+      "description": "O n\u00famero de \u00f3bitos pela doen\u00e7a \u00e9 tr\u00eas vezes menor em rela\u00e7\u00e3o aos casos confirmados, em compara\u00e7\u00e3o ao percentual nacional",
+      "url": "https://www.terra.com.br/noticias/brasil/cidades/prefeitura-de-sp-decreta-emergencia-para-dengue,41d722168d3c74d80f8baee74da357ec1i5h86x1.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/21/istock-1036704984-ubme13flzbjt.jpg",
+      "publishedAt": "2024-03-18 16:05:50",
+      "content": "A Prefeitura de S\u00e3o Paulo decretou, nesta segunda-feira, 18, estado de emerg\u00eancia em sa\u00fade devido \u00e0 alta de casos de dengue. A cidade tem hoje mais de 400 casos confirmados da doen\u00e7a por 100 mil habi\u2026 [+3333 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.483443",
+      "internal_id": "7de0822d5c69f2b81c0c68d42d591e92bc0b374e9ce332cc8b3c06e708d3d440",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7099,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Arreguy",
+      "title": "Nunes sobe o tom contra governo por vacina da dengue: \u201cDeram bobeira\u201d",
+      "description": "Prefeito Ricardo Nunes diz que enviar\u00e1 novo of\u00edcio ao governo federal pedindo inclus\u00e3o em lista de cidades contempladas por vacina da dengue",
+      "url": "https://www.metropoles.com/sao-paulo/nunes-cobra-governo-vacina-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/19114831/nunes-velorio-diniz2.jpeg",
+      "publishedAt": "2024-03-18 15:57:30",
+      "content": "S\u00e3o Paulo Ap\u00f3s decretar estado de emerg\u00eancia para a dengue nesta segunda-feira (18/3), o prefeito da capital, Ricardo Nunes (MDB), subiu o tom ao cobrar o governo federal sobre a inclus\u00e3o da cidade d\u2026 [+6652 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.412706",
+      "internal_id": "b6d8584e31d9847f5a960f9ec50e2eb4d2e505cef10dfd3e262d63a5931fda19",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7108,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Cidade de S\u00e3o Paulo decreta estado de emerg\u00eancia para a dengue",
+      "description": "O decreto de emerg\u00eancia da capital acontece menos de 15 dias depois que o estado de S\u00e3o Paulo tamb\u00e9m declarou situa\u00e7\u00e3o de emerg\u00eancia em virtude do avan\u00e7o do aedes aegypti",
+      "url": "https://brasil.perfil.com/brasil/cidade-de-sao-paulo-decreta-estado-de-emergencia-para-a-dengue.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/18/55852047-dengue-1.jpg",
+      "publishedAt": "2024-03-18 15:30:13",
+      "content": "A Prefeitura de S\u00e3o Paulo decretou nesta segunda-feira (18) situa\u00e7\u00e3o de emerg\u00eancia na cidade em virtude da alta dos casos de dengue. O prefeito Ricardo Nunes (MDB) assinou o decreto de emerg\u00eancia no \u2026 [+1884 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.492681",
+      "internal_id": "33f63a1fdd0309bf8824984552ff05510469743a42a6e90c2123475c328c6e9c",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7110,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas confirma 4\u00aa morte por dengue; v\u00edtima \u00e9 idoso de 72 anos",
+      "description": "Metr\u00f3pole soma, em 2024, 21,5 mil casos da doen\u00e7a. Cidade est\u00e1 em estado de emerg\u00eancia por conta da infec\u00e7\u00e3o. O Aedes aegypti, o mosquito transmissor da dengue, visto atrav\u00e9s de microsc\u00f3pio eletr\u00f4nico na Fiocruz Pernambuco, no Recife. AP Photo/Felipe Dana A P\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/18/campinas-confirma-4a-morte-por-dengue.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/s1r4y_7yOGMk3JXETU6K5Zzg29s=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/N/F/CcE8gfRIemQr05xYCXrw/ap22287429259196.jpg",
+      "publishedAt": "2024-03-18 15:30:10",
+      "content": "O idoso foi atendido na rede p\u00fablica de sa\u00fade, apresentou os primeiros sintomas em 27 de fevereiro e o \u00f3bito ocorreu em 3 de mar\u00e7o. Foi confirmada infec\u00e7\u00e3o pelo sorotipo 2 da dengue. As outras v\u00edti\u2026 [+3529 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.508999",
+      "internal_id": "594ef1f7ba8a48f319956a69259b1a7d8761a99b76ceb48ce1e835d6d9003e74",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7096,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Ondas de calor e desmatamento est\u00e3o por tr\u00e1s do aumento dos casos de dengue no Brasil",
+      "description": "Em apenas tr\u00eas meses neste ano, o Brasil j\u00e1 superou o n\u00famero total de casos de dengue registrados em 2023 O post Ondas de calor e desmatamento est\u00e3o por tr\u00e1s do aumento dos casos de dengue no Brasil apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/03/18/medicina-e-saude/ondas-de-calor-e-desmatamento-estao-por-tras-do-aumento-dos-casos-de-dengue-no-brasil/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2021/03/Dengue-e1684841371182-695x500.jpg",
+      "publishedAt": "2024-03-18 15:30:00",
+      "content": "Os n\u00fameros da dengue est\u00e3o batendo recordes neste ano no Brasil. E segundo um novo estudo, esse avan\u00e7o da doen\u00e7a em todo o pa\u00eds, inclusive em regi\u00f5es onde n\u00e3o era t\u00e3o comum, tem uma explica\u00e7\u00e3o (na ve\u2026 [+2543 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.349730",
+      "internal_id": "9a54ec13eb9ac57e961299147392ec5d3e971d960467e218aa6a39f06c35662c",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7107,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Cu\u00e1l es el mosquito que transmite el dengue",
+      "description": "Esta enfermedad est\u00e1 asociada al Aedes aegypti, que hace sus criaderos en recipientes con agua; cu\u00e1les son los s\u00edntomas y c\u00f3mo prevenirlo",
+      "url": "https://www.lanacion.com.ar/sociedad/cual-es-el-mosquito-que-transmite-el-dengue-nid18032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/aedes-aegypti-el-mosquito-que-transmite-dengue-D64WY3NZZZEIDNXJLA6SBD5ROU.jpg?auth=1cff857b3d95b967d66e10281f968eed742fb071be2b135ac3c9df8bbf30e04d&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-18 14:36:00",
+      "content": "El aumento en los casos de dengue registrado en la Argentina durante este a\u00f1o hace a muchos preguntarse cu\u00e1l es el mosquito que transmite esta enfermedad. Se trata de una enfermedad viral que es tra\u2026 [+2809 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.489376",
+      "internal_id": "a3fa54fe9d89ec19f4e9beb8bd6a29fab49ca21cc25a8addb80d6d2c3e014690",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7095,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Niranjana Rajalakshmi",
+      "title": "Innovative chemical strategy targets mosquito larvae gut to combat spread of deadly diseases",
+      "description": "Mosquito-borne illnesses remain a formidable challenge threatening millions of people each year with diseases such as malaria, dengue, zika and chikungunya.",
+      "url": "https://phys.org/news/2024-03-chemical-strategy-mosquito-larvae-gut.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/innovative-chemical-st.jpg",
+      "publishedAt": "2024-03-18 14:24:56",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+4233 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.345782",
+      "internal_id": "ae29e797191f7c19765f7ed1920c19e5a8a6e190a26dc283b4347c869201ce85",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7104,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Bruno Andrade, Bruno Andrade",
+      "title": "Prefeitura de SP vai decretar emerg\u00eancia para a dengue nesta segunda",
+      "description": "Capital j\u00e1 registrou 49.721 casos confirmados da doen\u00e7a e ao menos 11 mortes",
+      "url": "https://saude.ig.com.br/2024-03-18/prefeitura-de-sp-vai-decretar-emergencia-para-a-dengue-nesta-segunda.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8d/ez/cf/8dezcfvxiuhb18d2dwizcnb91.jpg",
+      "publishedAt": "2024-03-18 13:39:54",
+      "content": "A cidade de S\u00e3o Paulo decretar\u00e1 estado de emerg\u00eancia em sa\u00fade devido \u00e0 epidemia de dengue nesta segunda-feira (18). O prefeito Ricardo Nunes (MDB) deve assinar o decreto ainda nesta manh\u00e3. Em S\u00e3o \u2026 [+1582 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.468711",
+      "internal_id": "d836bfdb312e8b49baff3fa4423468b6123f100434fee21591af58e1d24ff8c2",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7089,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Cailey Gleeson, Forbes Staff, \n Cailey Gleeson, Forbes Staff\n https://www.forbes.com/sites/caileygleeson/",
+      "title": "U.S. Measles Outbreak 2024: Number Already Equals Last Year\u2019s Total",
+      "description": "Centers for Disease Control and Prevention data shows reported cases equal the total cases reported in 2023.",
+      "url": "https://www.forbes.com/sites/caileygleeson/2024/03/18/us-measles-outbreak-2024-number-already-equals-last-years-total/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65f1b3b6c0926089fb00e00c/0x0.jpg?format=jpg&crop=2884,1623,x0,y111,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-03-18 13:29:12",
+      "content": "More than a dozen states have reported measles cases in the U.S. since the start of 2024, as the disease makes an alarming global resurgence amid lagging vaccination rates and increased travel. Cent\u2026 [+2845 chars]",
+      "retrievedAt": "2024-03-19 19:05:42.601390",
+      "internal_id": "ed5c7471c8062c85436fc9c0a75673376b6fe0526b8c9c7fd7fe8892d350ff67",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7098,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Cidade de S\u00e3o Paulo decreta emerg\u00eancia por epidemia de dengue",
+      "description": "Situa\u00e7\u00e3o \u00e9 considerada epid\u00eamica ao passar 300 casos por 100 mil habitantes; Brasil superou n\u00famero de registros do ano de 2023 em menos de tr\u00eas meses",
+      "url": "https://veja.abril.com.br/saude/cidade-de-sao-paulo-deve-decretar-emergencia-por-epidemia-de-dengue",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2017/01/aedes-aegypti-mosquito-transmissor-da-dengue-e-da-febre-amarela-urbana.jpg?quality=90&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2024-03-18 12:36:32",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade \"Aedes aegypti\", mosquito transmissor da dengue, chikungunya e zika (VEJA/Dedoc) Continua ap\u00f3s publicidade A prefeitura de S\u00e3o Paulo decretou\u2026 [+6830 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.385527",
+      "internal_id": "eb006c23229753cccf7434d90a0b39091c8287fb87249b219a3d436f8bbd838b",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7091,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Monday, March 18, 2024",
+      "description": "'Excited delirium,' Medicare, women's health research, covid, misinformation, Match Day, measles, gun violence, and more are covered in today's Morning Briefing.",
+      "url": "https://kffhealthnews.org/morning-briefing/monday-march-18-2024/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2024-03-18 12:27:14",
+      "content": "Law Enforcement Had Cause To Detain Maine Gunman Before Shooting A report found that law enforcement officers could have taken away Robert Card's weapons on grounds he posed a threat of harm. Meanwh\u2026 [+4018 chars]",
+      "retrievedAt": "2024-03-19 19:05:42.653027",
+      "internal_id": "954860d9dfd8fa935f07bbb208050909339b07dbae9262b0742675a637304508",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7100,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Dengue em SP: capital decreta estado de emerg\u00eancia para a doen\u00e7a",
+      "description": "Prefeito Ricardo Nunes (MDB) vai assinar decreto de emerg\u00eancia da dengue nesta segunda-feira (18/3) por conta do avan\u00e7o da doen\u00e7a na cidade",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-em-sp-capital-decreta-estado-de-emergencia-para-a-doenca",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-03-18 11:53:27",
+      "content": "S\u00e3o Paulo A Prefeitura de S\u00e3o Paulo vai decretar estado de emerg\u00eancia para dengue nesta segunda-feira (18/3), em decorr\u00eancia do avan\u00e7o da doen\u00e7a na capital paulista. O prefeito Ricardo Nunes (MDB) de\u2026 [+6681 chars]",
+      "retrievedAt": "2024-03-19 19:05:43.423506",
+      "internal_id": "a329d3fd83b1a2248f11b46f01b0212c2be8e1ccf533be1fef7f822db5286898",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7113,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Sergio Parra, Sergio Parra",
+      "title": "Un esqueleto de \u00e9poca romana revela c\u00f3mo lleg\u00f3 la malaria a Europa",
+      "description": "La malaria, tambi\u00e9n conocida como paludismo, es una enfermedad que durante siglos ha amenazado la existencia humana: de acuerdo con los \u00faltimos datos de la Organizaci\u00f3n Mundial de la Salud, en 2022 provoc\u00f3 608.000 muertes en 85 pa\u00edses, siendo la Regi\u00f3n de \u00c1fr\u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/se-ha-descifrado-genoma-malaria-esqueleto-epoca-romana_21875",
+      "urlToImage": "https://content.nationalgeographic.com.es/medio/2024/03/17/plasmodium-falciparum_cff1eb46_240317192636_1200x630.jpg",
+      "publishedAt": "2024-03-18 11:00:00",
+      "content": "La malaria, tambi\u00e9n conocida como paludismo, es una enfermedad que durante siglos ha amenazado la existencia humana: de acuerdo con los \u00faltimos datos de la Organizaci\u00f3n Mundial de la Salud, en 2022 p\u2026 [+4053 chars]",
+      "retrievedAt": "2024-03-19 19:05:44.328627",
+      "internal_id": "4da5047e841c8a655c9fd2f85c14ec4cf76c9ced17343415216302237d2fe10d",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7114,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0415\u043d\u0438\u043a\u0435\u0435\u0432",
+      "title": "\u0423 \u043b\u044e\u0434\u0435\u0439 \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0435\u043a\u0430 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u043e\u043f\u0430\u0441\u043d\u044b\u0435 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438",
+      "description": "\u0423\u0447\u0435\u043d\u044b\u0435 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u0447\u0442\u043e \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0438\u0437\u043b\u0435\u0447\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u0430\u043d\u0442\u0438\u0431\u0438\u043e\u0442\u0438\u043a\u0430\u043c\u0438, \u0431\u044b\u043b\u0438 \u043e\u0447\u0435\u043d\u044c \u043e\u043f\u0430\u0441\u043d\u044b\u043c\u0438 \u0434\u043b\u044f \u043b\u044e\u0434\u0435\u0439 \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0435\u043a\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0436\u0438\u043b\u0438 \u043f\u043b\u043e\u0442\u043d\u044b\u043c\u0438 \u0433\u0440\u0443\u043f\u043f\u0430\u043c\u0438. \u041e\u043d\u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0441\u043b\u0435\u0434\u044b \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0439 \u0432 \u043a\u043e\u0441\u0442\u044f\u0445 \u043b\u044e\u0434\u0435\u0439 \u044d\u043f\u043e\u0445\u0438 \u043d\u0435\u043e\u043b\u0438\u0442\u0430, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0438, \u2026",
+      "url": "https://lenta.ru/news/2024/03/18/bacterium/",
+      "urlToImage": "https://icdn.lenta.ru/images/2024/03/15/15/20240315151044884/share_aadef181336ca8d80e795d1e0943bad4.jpg",
+      "publishedAt": "2024-03-18 08:43:26",
+      "content": ", , , . , Scientific Reports. , . Neisseria meningitidis, , , ; Yersinia enterocolitica, ; Salmonella enterica, . 38 , - . ( 9500 ) , ( 4500 ). Salmonella enterica , , , , . Yersinia (4000-2700 \u2026 [+27 chars]",
+      "retrievedAt": "2024-03-19 19:05:45.868044",
+      "internal_id": "ccacace7a468ebf65cf04b710a3e86607022d3ebbe0e841028dd9829dce99b98",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7092,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Infectious Diseases Fester in Wake of Drought, War - UN Report",
+      "description": "[Reporter] A UN agency signals a worrying uptick in the spread of infectious diseases as \"successive shocks\" expose thousands of people across the country to measles, cholera, and malaria.",
+      "url": "https://allafrica.com/stories/202403180129.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-03-18 08:35:50",
+      "content": "A UN agency signals a worrying uptick in the spread of infectious diseases as \"successive shocks\" expose thousands of people across the country to measles, cholera, and malaria. A report from the Un\u2026 [+2961 chars]",
+      "retrievedAt": "2024-03-19 19:05:42.657126",
+      "internal_id": "a8192718edafab9489b9cde8e466b937601d812c2513e730300583a72e880b9c",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7088,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "ComingSoon.net",
+      "author": "Elton Fernandes",
+      "title": "I Drink Your Blood Streaming: Watch & Stream Online via Peacock",
+      "description": "I Drink Your Blood is a 1971 cult classic horror film directed by David E. Durston. In this film, a Satanic hippie cult comes to a small town. Things take a horrifying turn when they turn into bloodthirsty monsters infected with rabies. Here\u2019s how you can wat\u2026",
+      "url": "https://www.comingsoon.net/guides/news/1608541-i-drink-your-blood-streaming-watch-stream-online-via-peacock",
+      "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/03/I-Drink-Your-Blood.jpg?resize=1200,630",
+      "publishedAt": "2024-03-18 08:09:21",
+      "content": "I Drink Your Bloodis a 1971 cult classic horror film directed by David E. Durston. In this film, a Satanic hippie cult comes to a small town. Things take a horrifying turn when they turn into bloodth\u2026 [+2521 chars]",
+      "retrievedAt": "2024-03-19 19:05:42.300600",
+      "internal_id": "e2a438b1db154551116e83388bf0ae233e6631844c7caf29ea60061532ad4c3e",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 7090,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Online Reporters",
+      "title": "Thais in Osaka advised to wear masks during measles scare",
+      "description": "Thais visiting or living in Osaka are advised to wear masks when outside or on public transport following the detection of cases of measles in the Japanese city, the Thai consulate in Osaka said on Monday.",
+      "url": "https://www.bangkokpost.com/thailand/general/2760596/thais-in-osaka-advised-to-wear-masks-during-measles-scare",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20240318/c1_2760596_240318143925_700.gif",
+      "publishedAt": "2024-03-18 07:50:00",
+      "content": "Thais visiting or living in Osaka are advised to wear masks when outside or on public transport following the detection of cases of measles in the Japanese city, the Thai consulate in Osaka said on M\u2026 [+561 chars]",
+      "retrievedAt": "2024-03-19 19:05:42.617413",
+      "internal_id": "f0d66aa7965f830761110084f80a63516fda78ed4d41930751c9538693196fef",
+      "publishedAtLabel": "Mar 18"
+    },
     {
       "id": 7076,
       "query": [
@@ -37308,258 +37801,6 @@
       "content": "di Salvatore RiggioYves Bissouma del Tottenham e Moussa Diarrea, del Tolosa, non sono stati esclusi dalla competizione. La malaria non si trasmette attraverso il contatto ma con la puntura di una zan\u2026 [+1844 chars]",
       "retrievedAt": "2024-02-06 07:05:38.327991",
       "internal_id": "f0528b77ae84db7db2c3c37847bf695db341cb897be7694c18c72ed1908a3a23",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 5000,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "four-four-two",
-      "source_name": "FourFourTwo",
-      "author": "Ben Hayward",
-      "title": "Tottenham midfielder Yves Bissouma 'played with malaria' for Mali at AFCON 2023",
-      "description": "Tottenham midfielder Yves Bissouma was playing through malaria at the Africa Cup of Nations, Mali coach Eric Chelle has revealed",
-      "url": "https://www.fourfourtwo.com/news/tottenham-midfielder-yves-bissouma-played-with-malaria-for-mali-at-afcon-2023",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Qu4pMX6PrNieQPC5ft8XxV-1200-80.jpg",
-      "publishedAt": "2024-02-04 18:00:43",
-      "content": "Tottenham Hotspur midfielder Yves Bissouma was playing through malaria at the Africa Cup of Nations, Mali coach Eric Chelle has revealed. Mali's AFCON 2023 campaign ended in dramatic circumstances o\u2026 [+1396 chars]",
-      "retrievedAt": "2024-02-05 19:05:55.883649",
-      "internal_id": "9f02c3cb25c903d27fbaddfa847a7c3f7aa1be386dfd83b8cacf901a63eb989b",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4992,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Ynetnews",
-      "author": "Prof. Yosef Peres",
-      "title": "Whooping cough outbreak in Israel; go get vaccinated!",
-      "description": "Whooping cough (Pertussis) vaccines are critical in preventing outbreak of disease by providing both personal and communal protection, controlling infection rate and high-risk protecting populations; here are the reasons to get vaccinated and stop the infecti\u2026",
-      "url": "https://www.ynetnews.com/health_science/article/rk293l69a",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2022/06/15/H1w2sxDt9/H1w2sxDt9_0_23_1000_563_0_large.jpg",
-      "publishedAt": "2024-02-04 16:13:42",
-      "content": "There was a significant rise in the number of cases of whooping cough in 2023, according to the Health Ministry's data. It is a highly contagious respiratory disease caused by the Bordetella Pertussi\u2026 [+2731 chars]",
-      "retrievedAt": "2024-02-05 19:05:52.985353",
-      "internal_id": "e83619161f855f15707ffcad0b2bccd82d063cbd023bcc46480c61efe7a044a9",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4995,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Francisco Dutra",
-      "title": "Hospital de Campanha da FAB contra dengue \u00e9 montado em Ceil\u00e2ndia",
-      "description": "Aeron\u00e1utica mobilizou estrutura, insumos e militares para montar Hospital de Campanha que vai enfrentar a explos\u00e3o de casos da dengue",
-      "url": "https://www.metropoles.com/distrito-federal/hospital-de-campanha-da-fab-contra-dengue-e-montado-em-ceilandia",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/04124917/hospital-de-campanha-FAB-contra-dengue-3.jpeg",
-      "publishedAt": "2024-02-04 16:08:24",
-      "content": "Montado em tempo recorde, o Hospital de Campanha (HCAMP) da For\u00e7a A\u00e9rea Brasileira (FAB) para ajudar o Governo do Distrito Federal (GDF) a combater a dengue est\u00e1 praticamente conclu\u00eddo. O Comandante\u2026 [+2716 chars]",
-      "retrievedAt": "2024-02-05 19:05:54.929736",
-      "internal_id": "cde3f260a74f2d383bd853b6c3dd26b41f8775ae201ba83c16e4a97e8ed46726",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 5021,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Veja lista de cidades receber\u00e3o vacina contra a dengue",
-      "description": "Em campanha contra a dengue, o Minist\u00e9rio da Sa\u00fade divulgou a lista com as cidades escolhidas para o in\u00edcio da vacina\u00e7\u00e3o a partir deste m\u00eas. Ao todo, 521",
-      "url": "https://catracalivre.com.br/saude-bem-estar/veja-lista-de-cidades-receberao-vacina-contra-a-dengue/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2023/07/vacina-dengue.jpg",
-      "publishedAt": "2024-02-04 14:41:14",
-      "content": "\u00daltimas not\u00edcias: Em campanha contra a dengue, o Minist\u00e9rio da Sa\u00fade divulgou a lista com as cidades escolhidas para o in\u00edcio da vacina\u00e7\u00e3o a partir deste m\u00eas. Ao todo, 521 munic\u00edpios localizados em \u2026 [+1285 chars]",
-      "retrievedAt": "2024-02-06 07:05:37.567315",
-      "internal_id": "867f98b801a99489db0186066b677f7b0b1270d481a57ebae8435ee5afc7a065",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 5001,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Expressen.se",
-      "author": "kewin.adolfsson@bonniernews.se (Kewin Adolfsson)",
-      "title": "Tottenhamstj\u00e4rnan spelade - trots sjukdomen",
-      "description": "Efter Malis utt\u00e5g ur de afrikanska m\u00e4sterskapen ber\u00e4ttade deras f\u00f6rbundskapten om tv\u00e5 sjukdomsfall. Tv\u00e5 spelare i truppen hade drabbats av malaria. En av dessa var Tottenhamspelaren Yves Bissouma. Som trots sjukdomen hoppade in mot Elfenbenskusten i kvartsfin\u2026",
-      "url": "https://www.expressen.se/sport/fotboll/premier-league/tottenhamstjarnan-spelade-trots-sjukdomen/",
-      "urlToImage": "https://static.cdn-expressen.se/images/9a/ac/9aacbf8bc2644d11a7f31dd8bfaffb39/16x9/original.png",
-      "publishedAt": "2024-02-04 13:05:35",
-      "content": "Yves Bissouma \u00e4ntrade planen precis innan ordinarie tid tog slut och spelade s\u00e5ledes hela f\u00f6rl\u00e4ngningen. Efter matchen gick Malis f\u00f6rbundskapten ut med att tv\u00e5 av lagets spelare drabbats av malaria\u2026 [+1070 chars]",
-      "retrievedAt": "2024-02-05 19:05:55.898922",
-      "internal_id": "1eb3f0d136523a13a31e21df19da3b9fb205fda4c3a77c4244ee3a0b116659e6",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4997,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Tjerk Br\u00fchwiller",
-      "title": "200.000 Infektionen: Brasilien k\u00e4mpft gegen rasante Ausbreitung des Denguefiebers",
-      "description": "In nur einer Woche hat sich die Zahl der an Denguefieber Erkrankten fast verdoppelt. Schuld ist wohl das hei\u00dfe und regnerische Wetter. Jetzt hat Brasilien aber eine neue Waffe gegen die Krankheit.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/200-000-infektionen-brasilien-kaempft-gegen-denguefieber-19495868.html",
-      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/1635372005/1.9495907/facebook_teaser/brasilien-ceilandia-menschen.jpg",
-      "publishedAt": "2024-02-04 12:46:43",
-      "content": "Die Zahl der wahrscheinlichen F\u00e4lle von Denguefieber hat sich in Brasilien in nur einer Woche fast verdoppelt. Laut den Angaben des Gesundheitsministeriums wurden in den ersten drei Wochen des Jahres\u2026 [+2087 chars]",
-      "retrievedAt": "2024-02-05 19:05:55.026102",
-      "internal_id": "94de5bb63698a7856d267b733816283b1692ec0edc9371667ae223ecd958bc61",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4998,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Dengue: Minist\u00e9rio da Sa\u00fade estuda ampliar vacina\u00e7\u00e3o",
-      "description": "Centro de Emerg\u00eancia come\u00e7a a funcionar para apoiar monitoramento",
-      "url": "https://saude.ig.com.br/2024-02-04/dengue--ministerio-da-saude-estuda-ampliar-vacinacao.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c1/e4/d1/c1e4d1oh0uh1d020x4568fo7s.jpg",
-      "publishedAt": "2024-02-04 12:32:29",
-      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, disse neste s\u00e1bado (3) que o governo estuda ampliar a oferta de vacinas contra a dengue no pa\u00eds . A informa\u00e7\u00e3o foi repassada durante a abertura do Centro de Oper\u2026 [+3144 chars]",
-      "retrievedAt": "2024-02-05 19:05:55.061519",
-      "internal_id": "94658f881b2735bb49be96c4a259ed0b21c2f1b7998a4bc0c617f75bf16c0a02",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 5017,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Minist\u00e9rio da Sa\u00fade estuda ampliar oferta da vacina contra a dengue",
-      "description": "Devido ao n\u00famero limitado de doses, inicialmente o imunizante ser\u00e1 aplicado em crian\u00e7as de 10 a 14 anos de 521 cidades",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-estuda-ampliar-oferta-da-vacina-contra-a-dengue,e425e117b5e85fbecadb247b6aa94c7brmd8x583.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-02-04 12:30:28",
-      "content": "AG\u00caNCIA BRASIL - A ministra da Sa\u00fade, N\u00edsia Trindade, disse neste s\u00e1bado, 3, que o governo estuda ampliar a oferta de vacinas contra a dengue no pa\u00eds. A informa\u00e7\u00e3o foi repassada durante a abertura do\u2026 [+3301 chars]",
-      "retrievedAt": "2024-02-06 07:05:37.548849",
-      "internal_id": "225ea0d733d3f078bb4dab839af51903557871c6997da9802542b7e6d911ffad",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4993,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "8am.media",
-      "author": "Hasht-e Subh",
-      "title": "Death of 21 Children Due to Measles in Badakhshan: Residents Decry Lack of Health Facilities",
-      "description": "Reports from the provincial hospital of Badakhshan indicate a surge in measles cases across the province. A credible source at",
-      "url": "https://8am.media/eng/death-of-21-children-due-to-measles-in-badakhshan-residents-decry-lack-of-health-facilities/",
-      "urlToImage": "https://8am.media/eng/wp-content/uploads/2024/02/78ddc7988f2c46188fc74bf2ecfaa63f-9.jpg",
-      "publishedAt": "2024-02-04 10:16:59",
-      "content": "Reports from the provincial hospital of Badakhshan indicate a surge in measles cases across the province. A credible source at the provincial hospital of Badakhshan confirmed to the Hasht-e Subh Dai\u2026 [+1158 chars]",
-      "retrievedAt": "2024-02-05 19:05:53.832311",
-      "internal_id": "6f3348fd2fe04efc6139343bef391e6ebfdb710831d641dde061f87edc5f39df",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4996,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Eduardo Barretto",
-      "title": "Ex-deputado cobra ministra da Sa\u00fade por emendas indicadas em 2022",
-      "description": "Um dos projetos parados trata do combate \u00e0 dengue; ex-deputado Ottaci Nascimento enviou dois documentos \u00e0 ministra da Sa\u00fade na \u00faltima semana",
-      "url": "https://www.metropoles.com/colunas/guilherme-amado/ex-deputado-cobra-ministra-da-saude-por-emendas-indicadas-em-2022",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/03191723/140823VS_Nisia-Trindade-Mais-Medicos-011-1.jpg",
-      "publishedAt": "2024-02-04 10:00:17",
-      "content": "O ex-deputado Ottaci Nascimento, do Solidariedade de Roraima, cobrou na \u00faltima semana a ministra da Sa\u00fade, N\u00edsia Trindade, pela execu\u00e7\u00e3o de emendas parlamentares que ele indicou ainda em 2022. Em doi\u2026 [+4665 chars]",
-      "retrievedAt": "2024-02-05 19:05:55.000991",
-      "internal_id": "45e223e309ecaf0dcac85afaaaf978fa68203383b80bdc0068fede6818850d6f",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 5024,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Da Ag\u00eancia Brasil",
-      "title": "Tire as principais d\u00favidas sobre a vacina\u00e7\u00e3o contra dengue",
-      "description": "Na pr\u00f3xima semana, as doses come\u00e7am a ser distribu\u00eddas a 521 munic\u00edpios para iniciar a imuniza\u00e7\u00e3o na rede p\u00fablica",
-      "url": "https://noticias.r7.com/brasilia/tire-as-principais-duvidas-sobre-a-vacinacao-contra-dengue-04022024",
-      "urlToImage": "https://img.r7.com/images/vacina-dengue-qdenga-01022024105338662?crop=1178x662+104+147",
-      "publishedAt": "2024-02-04 09:26:46",
-      "content": "Vacina Qdenga foi feita pelo laborat\u00f3rio Takeda Divulga\u00e7\u00e3o/Takeda A vacina Qdenga, do laborat\u00f3rio japon\u00eas Takeda, teve seu registro aprovado pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria \u2026 [+7274 chars]",
-      "retrievedAt": "2024-02-06 07:05:37.578747",
-      "internal_id": "ff9b6ce099716125dab06d67b95e96081beb6101f0145be4c759631a620540a3",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4994,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Renata Mendes Gon\u00e7alves",
-      "title": "Vacina da dengue: tudo o que voc\u00ea precisa saber sobre imunizante",
-      "description": "Tire suas d\u00favidas sobre a vacina contra dengue que far\u00e1 parte do calend\u00e1rio de imuniza\u00e7\u00e3o do SUS a partir de fevereiro O post Vacina da dengue: tudo o que voc\u00ea precisa saber sobre imunizante apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/02/04/medicina-e-saude/vacina-da-dengue-tudo-o-que-voce-precisa-saber-sobre-imunizante/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/01/vacina-da-dengue-695x500.jpg",
-      "publishedAt": "2024-02-04 09:20:00",
-      "content": "O Governo Federal anunciou nesta quinta-feira, 01 de fevereiro, a distribui\u00e7\u00e3o da vacina contra dengue para 521 munic\u00edpios selecionados j\u00e1 na pr\u00f3xima semana. A informa\u00e7\u00e3o foi divulgada pelo diretor d\u2026 [+5986 chars]",
-      "retrievedAt": "2024-02-05 19:05:54.876721",
-      "internal_id": "33753c9968c28a5c2ad5a8f6a483b216953d1a9637bc4d8b049dbe6c462e2f6f",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 5023,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "'Aedes do bem' em casa? Mosquito com modifica\u00e7\u00e3o gen\u00e9tica para combater dengue ganha vers\u00e3o domiciliar",
-      "description": "Projeto de multinacional brit\u00e2nica de combater doen\u00e7as causadas pelo mosquito Aedes aegypti tamb\u00e9m \u00e9 executado em parcerias com governos municipais. Aedes do Bem tem vers\u00e3o mini para combater doen\u00e7as em uso residencial Felipe Tucci/Produtora S\u00e3o Paulo O proje\u2026",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/04/aedes-do-bem-em-casa-mosquito-com-modificacao-genetica-para-combater-dengue-ganha-versao-domiciliar.ghtml",
-      "urlToImage": "https://s2-g1.glbimg.com/WSerQGkHAiF1QaTwAkmfUY1VvxQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/i/b/N8CqIhRFmhLDnvrfZfqA/aedes1.jpg",
-      "publishedAt": "2024-02-04 09:00:39",
-      "content": "A informa\u00e7\u00e3o \u00e9 da multinacional brit\u00e2nica de biotecnologia respons\u00e1vel por fazer a muta\u00e7\u00e3o gen\u00e9tica do mosquito e que tem planta em Campinas (SP). A empresa tamb\u00e9m possui o projeto ativo na vers\u00e3o ma\u2026 [+8690 chars]",
-      "retrievedAt": "2024-02-06 07:05:37.574935",
-      "internal_id": "aff03a1023a8fd8d78093016636f6a61f020a3ccc30febbbff5fda44ebdc2792",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4999,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Presos por brote de meningitis, s\u00f3lo 2 de 8 due\u00f1os de cl\u00ednicas en Durango",
-      "description": "Durango, Dgo., Por la emergencia m\u00e9dica por meningitis as\u00e9ptica ocurrida a finales de 2022 y 2023 en la capital de Durango, que dej\u00f3 41 personas muertas, la mayor\u00eda mujeres, a la fecha s\u00f3lo dos de los ocho due\u00f1os de hospitales detenidos permanecen en el Centr\u2026",
-      "url": "https://www.jornada.com.mx/2024/02/04/estados/024n1est",
-      "urlToImage": "https://www.jornada.com.mx/2024/02/04/fotos/024n1est-1.jpg",
-      "publishedAt": "2024-02-04 08:50:00",
-      "content": "Peri\u00f3dico La JornadaDomingo 4 de febrero de 2024, p. 24 Durango, Dgo., Por la emergencia m\u00e9dica por meningitis as\u00e9ptica ocurrida a finales de 2022 y 2023 en la capital de Durango, que dej\u00f3 41 person\u2026 [+3839 chars]",
-      "retrievedAt": "2024-02-05 19:05:55.520668",
-      "internal_id": "2ff8a3b51861f086eeb2799efbc9fabec5083ae671464107afc83a8fdb3aea86",
       "publishedAtLabel": "Feb 4"
     }
   ]
