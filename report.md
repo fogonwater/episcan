@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 27
-- **Last harvest:** 2024-03-19 19:05
-- **Most recent article:** 2024-03-18 18:53:34
+- **New articles in last harvest:** 31
+- **Last harvest:** 2024-03-20 07:06
+- **Most recent article:** 2024-03-19 06:00:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 36 | 205 | 191 | 188 | 207 | 1200 |
-| measles | 86 | 112 | 11 | 63 | 45 | 100 | 80 | 497 |
-| malaria | 15 | 23 | 4 | 32 | 19 | 33 | 17 | 143 |
+| dengue | 192 | 181 | 56 | 214 | 191 | 188 | 207 | 1229 |
+| measles | 86 | 112 | 20 | 64 | 45 | 100 | 80 | 507 |
+| malaria | 15 | 23 | 4 | 34 | 19 | 33 | 17 | 145 |
 | chikungunya | 8 | 20 | 5 | 12 | 8 | 14 | 16 | 83 |
 | zika | 16 | 16 | 2 | 13 | 6 | 13 | 11 | 77 |
-| meningitis | 16 | 5 | 0 | 7 | 8 | 7 | 4 | 47 |
+| meningitis | 16 | 5 | 0 | 8 | 8 | 7 | 4 | 48 |
 | rabies | 6 | 6 | 4 | 6 | 9 | 5 | 8 | 44 |
 | mpox | 5 | 8 | 1 | 5 | 8 | 6 | 1 | 34 |
-| sarampión | 3 | 3 | 0 | 5 | 4 | 11 | 5 | 31 |
-| pertussis | 4 | 5 | 1 | 0 | 6 | 0 | 4 | 20 |
+| sarampión | 3 | 3 | 1 | 5 | 4 | 11 | 5 | 32 |
+| pertussis | 4 | 5 | 1 | 1 | 6 | 0 | 4 | 21 |
 | yersinia | 1 | 3 | 3 | 1 | 2 | 1 | 1 | 12 |
-| typhoid | 0 | 0 | 0 | 1 | 2 | 2 | 1 | 6 |
+| typhoid | 0 | 0 | 1 | 1 | 2 | 2 | 1 | 7 |
 | leptospirosis | 0 | 1 | 0 | 1 | 1 | 0 | 2 | 5 |
 | shigellosis | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 3 |
 
@@ -2264,6 +2264,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog ecology and rabies knowledge, attitude and practice (KAP) in the Northern Communal Areas of Namibia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011631) (Plos.org)
 
+## 24-6 (pertussis)
+
+- [Whooping cough outbreak in Israel; go get vaccinated!](https://www.ynetnews.com/health_science/article/rk293l69a) (Ynetnews)
+
 ## 24-6 (mpox)
 
 - [Een gevaarlijk mpox-virus gaat rond in Congo, maar zicht op de uitbraak ontbreekt](https://www.nrc.nl/nieuws/2024/02/07/een-gevaarlijk-mpox-virus-gaat-rond-in-congo-maar-zicht-op-de-uitbraak-ontbreekt-a4189345) (Www.nrc.nl)
@@ -2291,6 +2295,8 @@ Source: [News API](https://newsapi.org/)
 - ['It's my dream': Nova Scotia's Emma Logan wants to encourage more deaf people to curl](https://www.cbc.ca/news/canada/nova-scotia/emma-logan-wants-to-encourage-more-deaf-people-to-curl-1.7088929) (CBC News)
 
 - [Gigi & Nate Streaming: Watch & Stream Online via Hulu](https://www.comingsoon.net/guides/news/1525233-gigi-nate-streaming-watch-stream-online-via-hulu) (ComingSoon.net)
+
+- [Presos por brote de meningitis, sólo 2 de 8 dueños de clínicas en Durango](https://www.jornada.com.mx/2024/02/04/estados/024n1est) (Jornada.com.mx)
 
 ## 24-6 (measles)
 
@@ -2420,6 +2426,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles: Urgent Wales call on MMR vaccine for children](https://www.bbc.co.uk/news/uk-wales-68181185) (BBC News)
 
+- [Death of 21 Children Due to Measles in Badakhshan: Residents Decry Lack of Health Facilities](https://8am.media/eng/death-of-21-children-due-to-measles-in-badakhshan-residents-decry-lack-of-health-facilities/) (8am.media)
+
 ## 24-6 (malaria)
 
 - [Africa: Nearly 10 000 Children Vaccinated As Malaria Vaccine Rollout in Africa Expands](https://allafrica.com/stories/202402100036.html) (AllAfrica - Top Africa News)
@@ -2485,6 +2493,10 @@ Source: [News API](https://newsapi.org/)
 - [MGI: Closing the Cancer Care Gap with the Power of Precision Oncology](https://www.prnewswire.co.uk/news-releases/mgi-closing-the-cancer-care-gap-with-the-power-of-precision-oncology-302052684.html) (PR Newswire UK)
 
 - [Due calciatori del Mali hanno la malaria. Il ct: «Nessun allarme, in Africa sono abituati»](https://www.corriere.it/sport/calcio/24_febbraio_04/due-calciatori-mali-malaria-coppa-africa-c56a85e6-c38c-11ee-ab83-02c4d4315342.shtml) (Corriere.it)
+
+- [Tottenham midfielder Yves Bissouma 'played with malaria' for Mali at AFCON 2023](https://www.fourfourtwo.com/news/tottenham-midfielder-yves-bissouma-played-with-malaria-for-mali-at-afcon-2023) (FourFourTwo)
+
+- [Tottenhamstjärnan spelade - trots sjukdomen](https://www.expressen.se/sport/fotboll/premier-league/tottenhamstjarnan-spelade-trots-sjukdomen/) (Expressen.se)
 
 ## 24-6 (leptospirosis)
 
@@ -2902,6 +2914,24 @@ Source: [News API](https://newsapi.org/)
 
 - [Hospital de campanha contra dengue começa a funcionar nesta segunda](https://www.metropoles.com/distrito-federal/hospital-de-campanha-contra-dengue-comeca-a-funcionar-nesta-segunda) (Metropoles.com)
 
+- [Hospital de Campanha da FAB contra dengue é montado em Ceilândia](https://www.metropoles.com/distrito-federal/hospital-de-campanha-da-fab-contra-dengue-e-montado-em-ceilandia) (Metropoles.com)
+
+- [Veja lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/veja-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
+
+- [200.000 Infektionen: Brasilien kämpft gegen rasante Ausbreitung des Denguefiebers](https://www.faz.net/aktuell/gesellschaft/gesundheit/200-000-infektionen-brasilien-kaempft-gegen-denguefieber-19495868.html) (Faz.net)
+
+- [Dengue: Ministério da Saúde estuda ampliar vacinação](https://saude.ig.com.br/2024-02-04/dengue--ministerio-da-saude-estuda-ampliar-vacinacao.html) (Ig.com.br)
+
+- [Ministério da Saúde estuda ampliar oferta da vacina contra a dengue](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-estuda-ampliar-oferta-da-vacina-contra-a-dengue,e425e117b5e85fbecadb247b6aa94c7brmd8x583.html) (Terra.com.br)
+
+- [Ex-deputado cobra ministra da Saúde por emendas indicadas em 2022](https://www.metropoles.com/colunas/guilherme-amado/ex-deputado-cobra-ministra-da-saude-por-emendas-indicadas-em-2022) (Metropoles.com)
+
+- [Tire as principais dúvidas sobre a vacinação contra dengue](https://noticias.r7.com/brasilia/tire-as-principais-duvidas-sobre-a-vacinacao-contra-dengue-04022024) (R7.com)
+
+- [Vacina da dengue: tudo o que você precisa saber sobre imunizante](https://olhardigital.com.br/2024/02/04/medicina-e-saude/vacina-da-dengue-tudo-o-que-voce-precisa-saber-sobre-imunizante/) (Olhardigital.com.br)
+
+- ['Aedes do bem' em casa? Mosquito com modificação genética para combater dengue ganha versão domiciliar](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/04/aedes-do-bem-em-casa-mosquito-com-modificacao-genetica-para-combater-dengue-ganha-versao-domiciliar.ghtml) (Globo)
+
 ## 24-6 (chikungunya)
 
 - [Fiocruz dobra produção de testes de dengue a pedido da Saúde](https://www.metropoles.com/brasil/fiocruz-dobra-producao-de-testes-de-dengue-a-pedido-da-saude) (Metropoles.com)
@@ -2942,6 +2972,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Почему поцелуи в каменном веке были смертельно опасными](https://hi-news.ru/eto-interesno/pochemu-pocelui-v-kamennom-veke-byli-smertelno-opasnymi.html) (Hi-news.ru)
 
+## 24-12 (typhoid)
+
+- [Kingpin is back as the physical embodiment of the seven deadly sins to reclaim his place as Daredevil's arch-enemy](https://www.gamesradar.com/kingpin-is-back-as-the-physical-embodiment-of-the-seven-deadly-sins-to-reclaim-his-place-as-daredevils-arch-enemy/) (GamesRadar+)
+
+## 24-12 (sarampión)
+
+- [Los CDC instan a vacunarse ante el aumento de los casos de sarampión en EE.UU. y en el mundo](https://cnnespanol.cnn.com/2024/03/18/cdc-vacunacion-aumento-casos-sarampion-ee-uu-mundo-trax/) (CNN)
+
 ## 24-12 (rabies)
 
 - [I Drink Your Blood Streaming: Watch & Stream Online via Peacock](https://www.comingsoon.net/guides/news/1608541-i-drink-your-blood-streaming-watch-stream-online-via-peacock) (ComingSoon.net)
@@ -2961,6 +2999,24 @@ Source: [News API](https://newsapi.org/)
 - [Concurrent Outbreaks of Hepatitis A, Invasive Meningococcal Disease, and Mpox, Florida, USA, 2021–2022](https://wwwnc.cdc.gov/eid/article/30/4/23-1392_article) (Cdc.gov)
 
 ## 24-12 (measles)
+
+- [CDC Urges Vaccination, Updates Travel Advisory Amid Surge In Measles Cases](https://www.medicaldaily.com/cdc-urges-vaccination-updates-travel-advisory-amid-surge-measles-cases-471521) (Medical Daily)
+
+- [Adult patients to be asked about measles history and offered jab if unsure of previous vaccination or infection](https://www.independent.ie/irish-news/adult-patients-to-be-asked-about-measles-history-and-offered-jab-if-unsure-of-previous-vaccination-or-infection/a1071677072.html) (Independent.ie)
+
+- [Leana S Wen: Unlike what we now know about Covid, fighting measles demands a sacrifice of freedoms](https://www.independent.ie/opinion/comment/leana-s-wen-unlike-what-we-now-know-about-covid-fighting-measles-demands-a-sacrifice-of-freedoms/a566263140.html) (Independent.ie)
+
+- [CDC issues alert over rising measles cases in the U.S.](https://www.nbcnews.com/health/health-news/cdc-issues-alert-rising-measles-cases-us-rcna143993) (NBC News)
+
+- [CDC issues health advisory for travel amid measles outbreak](https://www.cbs8.com/article/news/health/cdc-health-alert-measles-outbreak/509-3961f746-31f0-4e11-9435-f4edff824790) (CBS News 8)
+
+- [US CDC urges measles vaccinations amid rising cases](https://www.investing.com/news/general/us-cdc-urges-measles-vaccinations-amid-rising-cases-3343115) (Investing.com)
+
+- [US CDC urges measles vaccinations amid rising cases](https://www.marketscreener.com/news/latest/US-CDC-urges-measles-vaccinations-amid-rising-cases-46226081/) (Marketscreener.com)
+
+- [US CDC urges measles vaccinations amid rising cases](https://www.marketscreener.com/news/latest/US-CDC-urges-measles-vaccinations-amid-rising-cases-46224879/) (Marketscreener.com)
+
+- [Toronto Public Health confirms 2nd case of measles in 2024](https://www.cbc.ca/news/canada/toronto/toronto-2nd-case-measles-confirmed-1.7147615) (CBC News)
 
 - [CDC urges vaccination amid rise in measles cases in the US and globally](https://www.wisn.com/article/cdc-urges-vaccination-amid-rise-in-measles-cases/60232627) (WISN Milwaukee)
 
@@ -2996,11 +3052,47 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-12 (dengue)
 
+- [Brasilien bekämpft Dengue-Fieber mit bakterieninfizierten Stechmücken​](https://www.heise.de/hintergrund/Brasilien-bekaempft-Dengue-Fieber-mit-bakterieninfizierten-Stechmuecken-9658047.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag) (heise online)
+
+- [Deploying drones to reduce cases of dengue fever](https://www.springwise.com/innovation/health-wellbeing/drones-tackle-dengue-fever-by-spreading-sterilised-mosquitoes/) (Springwise.com)
+
+- [Brasil bate recorde histórico com mais de 1,8 milhão de casos de dengue em 2024](https://sputniknewsbr.com.br/20240319/brasil-bate-recorde-historico-com-mais-de-18-milhao-de-casos-de-dengue-em-2024-33639568.html) (Sputniknewsbr.com.br)
+
+- [O bairro de São Paulo onde “a comunidade inteira já pegou dengue”](https://www.metropoles.com/sao-paulo/bairro-comunidade-inteira-pegou-dengue) (Metropoles.com)
+
+- [Blumenau confirma primeira morte por dengue em 2024](https://www.metropoles.com/brasil/blumenau-confirma-primeira-morte-por-dengue-em-2024) (Metropoles.com)
+
+- [Brasil passa de 1,8 milhão de casos de dengue e bate recorde histórico](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/brasil-passa-de-18-milhao-de-casos-de-dengue-e-bate-recorde-historico-19032024) (R7.com)
+
+- [Brasil suma 1,8 millones de casos de dengue y bate récord histórico](https://sputniknews.lat/20240318/brasil-suma-18-millones-de-casos-de-dengue-y-bate-record-historico-1149048875.html) (Sputniknews.lat)
+
+- [Com mais de 1,8 milhões de casos, dengue bate recorde no Brasil](https://saude.ig.com.br/2024-03-18/2024-bate-recorde-historico-de-casos-de-dengue.html) (Ig.com.br)
+
+- [Aumento de casos de dengue é reflexo de desmatamento e clima, diz Fiocruz](https://gizmodo.uol.com.br/aumento-de-casos-de-dengue-e-reflexo-de-desmatamento-e-clima-diz-fiocruz/) (Uol.com.br)
+
+- [Dengue: com 1,5 mil reclamações represadas, Campinas registra 250 denúncias de criadouros por dia](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/18/dengue-com-15-mil-reclamacoes-represadas-campinas-registra-250-denuncias-de-criadouros-por-dia.ghtml) (Globo)
+
+- [Brasil passa de 1,8 milhões de casos de dengue em 2024](https://jornaldebrasilia.com.br/noticias/brasil/brasil-passa-de-18-milhoes-de-casos-de-dengue-em-2024/) (Jornaldebrasilia.com.br)
+
+- [Ministra se emociona após cobrança de Lula sobre dengue e yanomamis](https://www.metropoles.com/brasil/ministra-se-emociona-apos-cobranca-de-lula-sobre-dengue-e-yanomamis) (Metropoles.com)
+
+- [Cidade de São Paulo decreta situação de emergência após alta nos casos de dengue](https://noticias.r7.com/jr-na-tv/videos/cidade-de-sao-paulo-decreta-situacao-de-emergencia-apos-alta-nos-casos-de-dengue-18032024) (R7.com)
+
+- [Seis casos nuevos, dos autóctonos y cuatro importados: 86 personas con dengue en Uruguay](https://www.montevideo.com.uy/Salud/Seis-casos-nuevos-dos-autoctonos-y-cuatro-importados-86-personas-con-dengue-en-Uruguay-uc882919) (Montevideo.com.uy)
+
+- [Dengue: 2024 bate recorde e número de casos supera os últimos 20 anos](https://www.metropoles.com/brasil/dengue-2024-bate-recorde-de-casos-e-supera-os-ultimos-vinte-anos) (Metropoles.com)
+
+- [Podcast JR 15 Min #877 | Dengue: explosão de casos força maior investimento no combate e prevenção](https://noticias.r7.com/jr-24h/conteudo-exclusivo/podcast-jr-15-min/videos/podcast-jr-15-min-877-dengue-explosao-de-casos-forca-maior-investimento-no-combate-e-prevencao-18032024) (R7.com)
+
 - [São Paulo está em estado de emergência pela dengue; entenda a situação](https://saude.ig.com.br/2024-03-18/estado-de-emergencia-dengue-sp.html) (Ig.com.br)
+
+- [Número de casos de dengue bate recorde da série histórica e supera os últimos 20 anos](https://noticias.r7.com/saude/numero-de-casos-de-dengue-bate-recorde-da-serie-historica-e-supera-os-ultimos-20-anos-18032024) (R7.com)
 
 - [La mayoría de las consultas en las guardias son por dengue: cómo hacen el diagnóstico](https://www.lanacion.com.ar/sociedad/la-mayoria-de-las-consultas-en-las-guardias-son-por-dengue-como-hacen-el-diagnostico-nid18032024/) (La Nacion)
 
 - [Nunes critica governo Lula por falta de vacinas contra a dengue](https://saude.ig.com.br/2024-03-18/nunes-critica-governo-lula-vacina-dengue.html) (Ig.com.br)
+
+- [Perda de peso, de movimentos e até da visão: pacientes relatam graves complicações da dengue](https://recordtv.r7.com/hoje-em-dia/videos/perda-de-peso-de-movimentos-e-ate-da-visao-pacientes-relatam-graves-complicacoes-da-dengue-18032024) (R7.com)
 
 - [Wolbachia: conheça bactéria que ajuda no combate à dengue no Brasil](https://www.metropoles.com/saude/wolbachia-bacteria-combate-dengue) (Metropoles.com)
 
@@ -3030,7 +3122,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Cidade de São Paulo decreta emergência por epidemia de dengue](https://veja.abril.com.br/saude/cidade-de-sao-paulo-deve-decretar-emergencia-por-epidemia-de-dengue) (Abril.com.br)
 
+- [Cidade de São Paulo entra em estado de emergência por conta da dengue](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/cidade-de-sao-paulo-entra-em-estado-de-emergencia-por-conta-da-dengue-18032024) (R7.com)
+
 - [Dengue em SP: capital decreta estado de emergência para a doença](https://www.metropoles.com/sao-paulo/dengue-em-sp-capital-decreta-estado-de-emergencia-para-a-doenca) (Metropoles.com)
+
+- [Belo Horizonte faz mutirão de combate à dengue nesta segunda-feira (18)](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/belo-horizonte-faz-mutirao-de-combate-a-dengue-nesta-segunda-feira-18-18032024) (R7.com)
 
 - [기후변화의 위협... 우리나라도 이젠 '뎅기열' 청정지대 아냐](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003011755) (Ohmynews.com)
 
