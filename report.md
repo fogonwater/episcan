@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-03-21 07:06
-- **Most recent article:** 2024-03-20 03:33:45
+- **New articles in last harvest:** 25
+- **Last harvest:** 2024-03-21 19:05
+- **Most recent article:** 2024-03-20 18:55:22
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-6 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 82 | 214 | 191 | 188 | 207 | 1255 |
-| measles | 86 | 112 | 39 | 64 | 45 | 100 | 80 | 526 |
-| malaria | 15 | 23 | 8 | 34 | 19 | 33 | 17 | 149 |
-| chikungunya | 8 | 20 | 7 | 12 | 8 | 14 | 16 | 85 |
+| dengue | 192 | 181 | 95 | 205 | 191 | 188 | 207 | 1259 |
+| measles | 86 | 112 | 44 | 63 | 45 | 100 | 80 | 530 |
+| malaria | 15 | 23 | 11 | 32 | 19 | 33 | 17 | 150 |
+| chikungunya | 8 | 20 | 8 | 12 | 8 | 14 | 16 | 86 |
 | zika | 16 | 16 | 5 | 13 | 6 | 13 | 11 | 80 |
-| meningitis | 16 | 5 | 1 | 8 | 8 | 7 | 4 | 49 |
+| meningitis | 16 | 5 | 3 | 7 | 8 | 7 | 4 | 50 |
 | rabies | 6 | 6 | 6 | 6 | 9 | 5 | 8 | 46 |
-| mpox | 5 | 8 | 1 | 5 | 8 | 6 | 1 | 34 |
+| mpox | 5 | 8 | 2 | 5 | 8 | 6 | 1 | 35 |
 | sarampión | 3 | 3 | 1 | 5 | 4 | 11 | 5 | 32 |
-| pertussis | 4 | 5 | 1 | 1 | 6 | 0 | 4 | 21 |
+| pertussis | 4 | 5 | 1 | 0 | 6 | 0 | 4 | 20 |
 | yersinia | 1 | 3 | 3 | 1 | 2 | 1 | 1 | 12 |
 | typhoid | 0 | 0 | 1 | 1 | 2 | 2 | 1 | 7 |
 | leptospirosis | 0 | 1 | 0 | 1 | 1 | 0 | 2 | 5 |
@@ -2264,10 +2264,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog ecology and rabies knowledge, attitude and practice (KAP) in the Northern Communal Areas of Namibia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011631) (Plos.org)
 
-## 24-6 (pertussis)
-
-- [Whooping cough outbreak in Israel; go get vaccinated!](https://www.ynetnews.com/health_science/article/rk293l69a) (Ynetnews)
-
 ## 24-6 (mpox)
 
 - [Een gevaarlijk mpox-virus gaat rond in Congo, maar zicht op de uitbraak ontbreekt](https://www.nrc.nl/nieuws/2024/02/07/een-gevaarlijk-mpox-virus-gaat-rond-in-congo-maar-zicht-op-de-uitbraak-ontbreekt-a4189345) (Www.nrc.nl)
@@ -2295,8 +2291,6 @@ Source: [News API](https://newsapi.org/)
 - ['It's my dream': Nova Scotia's Emma Logan wants to encourage more deaf people to curl](https://www.cbc.ca/news/canada/nova-scotia/emma-logan-wants-to-encourage-more-deaf-people-to-curl-1.7088929) (CBC News)
 
 - [Gigi & Nate Streaming: Watch & Stream Online via Hulu](https://www.comingsoon.net/guides/news/1525233-gigi-nate-streaming-watch-stream-online-via-hulu) (ComingSoon.net)
-
-- [Presos por brote de meningitis, sólo 2 de 8 dueños de clínicas en Durango](https://www.jornada.com.mx/2024/02/04/estados/024n1est) (Jornada.com.mx)
 
 ## 24-6 (measles)
 
@@ -2426,8 +2420,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles: Urgent Wales call on MMR vaccine for children](https://www.bbc.co.uk/news/uk-wales-68181185) (BBC News)
 
-- [Death of 21 Children Due to Measles in Badakhshan: Residents Decry Lack of Health Facilities](https://8am.media/eng/death-of-21-children-due-to-measles-in-badakhshan-residents-decry-lack-of-health-facilities/) (8am.media)
-
 ## 24-6 (malaria)
 
 - [Africa: Nearly 10 000 Children Vaccinated As Malaria Vaccine Rollout in Africa Expands](https://allafrica.com/stories/202402100036.html) (AllAfrica - Top Africa News)
@@ -2493,10 +2485,6 @@ Source: [News API](https://newsapi.org/)
 - [MGI: Closing the Cancer Care Gap with the Power of Precision Oncology](https://www.prnewswire.co.uk/news-releases/mgi-closing-the-cancer-care-gap-with-the-power-of-precision-oncology-302052684.html) (PR Newswire UK)
 
 - [Due calciatori del Mali hanno la malaria. Il ct: «Nessun allarme, in Africa sono abituati»](https://www.corriere.it/sport/calcio/24_febbraio_04/due-calciatori-mali-malaria-coppa-africa-c56a85e6-c38c-11ee-ab83-02c4d4315342.shtml) (Corriere.it)
-
-- [Tottenham midfielder Yves Bissouma 'played with malaria' for Mali at AFCON 2023](https://www.fourfourtwo.com/news/tottenham-midfielder-yves-bissouma-played-with-malaria-for-mali-at-afcon-2023) (FourFourTwo)
-
-- [Tottenhamstjärnan spelade - trots sjukdomen](https://www.expressen.se/sport/fotboll/premier-league/tottenhamstjarnan-spelade-trots-sjukdomen/) (Expressen.se)
 
 ## 24-6 (leptospirosis)
 
@@ -2914,24 +2902,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hospital de campanha contra dengue começa a funcionar nesta segunda](https://www.metropoles.com/distrito-federal/hospital-de-campanha-contra-dengue-comeca-a-funcionar-nesta-segunda) (Metropoles.com)
 
-- [Hospital de Campanha da FAB contra dengue é montado em Ceilândia](https://www.metropoles.com/distrito-federal/hospital-de-campanha-da-fab-contra-dengue-e-montado-em-ceilandia) (Metropoles.com)
-
-- [Veja lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/veja-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
-
-- [200.000 Infektionen: Brasilien kämpft gegen rasante Ausbreitung des Denguefiebers](https://www.faz.net/aktuell/gesellschaft/gesundheit/200-000-infektionen-brasilien-kaempft-gegen-denguefieber-19495868.html) (Faz.net)
-
-- [Dengue: Ministério da Saúde estuda ampliar vacinação](https://saude.ig.com.br/2024-02-04/dengue--ministerio-da-saude-estuda-ampliar-vacinacao.html) (Ig.com.br)
-
-- [Ministério da Saúde estuda ampliar oferta da vacina contra a dengue](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-estuda-ampliar-oferta-da-vacina-contra-a-dengue,e425e117b5e85fbecadb247b6aa94c7brmd8x583.html) (Terra.com.br)
-
-- [Ex-deputado cobra ministra da Saúde por emendas indicadas em 2022](https://www.metropoles.com/colunas/guilherme-amado/ex-deputado-cobra-ministra-da-saude-por-emendas-indicadas-em-2022) (Metropoles.com)
-
-- [Tire as principais dúvidas sobre a vacinação contra dengue](https://noticias.r7.com/brasilia/tire-as-principais-duvidas-sobre-a-vacinacao-contra-dengue-04022024) (R7.com)
-
-- [Vacina da dengue: tudo o que você precisa saber sobre imunizante](https://olhardigital.com.br/2024/02/04/medicina-e-saude/vacina-da-dengue-tudo-o-que-voce-precisa-saber-sobre-imunizante/) (Olhardigital.com.br)
-
-- ['Aedes do bem' em casa? Mosquito com modificação genética para combater dengue ganha versão domiciliar](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/04/aedes-do-bem-em-casa-mosquito-com-modificacao-genetica-para-combater-dengue-ganha-versao-domiciliar.ghtml) (Globo)
-
 ## 24-6 (chikungunya)
 
 - [Fiocruz dobra produção de testes de dengue a pedido da Saúde](https://www.metropoles.com/brasil/fiocruz-dobra-producao-de-testes-de-dengue-a-pedido-da-saude) (Metropoles.com)
@@ -3010,13 +2980,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-12 (mpox)
 
+- [Toronto Public Health urges people to get vaccinated against mpox amidst rising cases](https://www.cbc.ca/news/canada/toronto/mpox-cases-toronto-1.7149525) (CBC News)
+
 - [Concurrent Outbreaks of Hepatitis A, Invasive Meningococcal Disease, and Mpox, Florida, USA, 2021–2022](https://wwwnc.cdc.gov/eid/article/30/4/23-1392_article) (Cdc.gov)
 
 ## 24-12 (meningitis)
 
+- [Extremadura se desmarca del calendario vacunal único y adelanta la vacunación contra la meningitis A, C, W e Y a los 4 meses de edad](https://www.eleconomista.es/salud/noticias/12731579/03/24/extremadura-se-desmarca-del-calendario-vacunal-unico-y-adelanta-la-vacunacion-contra-la-meningitis-a-c-w-e-y-a-los-4-meses.html) (Eleconomista.es)
+
+- [Extremadura comienza la vacunación gratuita contra la meningitis ACWY a todos los bebés al cumplir los 4 meses](https://www.europapress.es/extremadura/noticia-extremadura-comienza-vacunacion-gratuita-contra-meningitis-acwy-todos-bebes-cumplir-meses-20240320112458.html) (Europapress.es)
+
 - [Quiénes tienen más riesgo, qué vacunas se dan y otras respuestas ante casos de meningitis](https://www.montevideo.com.uy/Salud/Quienes-tienen-mas-riesgo-que-vacunas-se-dan-y-otras-respuestas-ante-casos-de-meningitis-uc882966) (Montevideo.com.uy)
 
 ## 24-12 (measles)
+
+- [Massive New Theme Park Threatens to Open Immediately Outside Disney World](https://insidethemagic.net/2024/03/massive-new-theme-park-threatens-open-immediately-outside-disney-world-nk1/) (Inside the Magic)
+
+- [Three more measles cases confirmed in latest weekly figures](https://www.thejournal.ie/how-many-measles-cases-in-ireland-6332848-Mar2024/) (TheJournal.ie)
+
+- [The ethics of firing unvaccinated employees](https://jme.bmj.com/content/50/4/268) (The BMJ)
+
+- [Possible measles exposure at East Bay restaurant](https://www.ktvu.com/news/possible-measles-exposure-at-east-bay-restaurant) (KTVU San Francisco)
+
+- [Measles Outbreaks on the Rise](https://sciencebasedmedicine.org/measles-outbreaks-on-the-rise/) (Sciencebasedmedicine.org)
 
 - [Alameda County issues warning after possible exposure to measles at Sons of Liberty Alehouse in San Leandro](https://abc7news.com/measles-alameda-county-sons-of-liberty-alehouse-san-leandro/14547280/) (KGO-TV)
 
@@ -3098,6 +3084,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-12 (malaria)
 
+- [Malaria](https://www.fda.gov/vaccines-blood-biologics/malaria) (FDA.gov)
+
+- [cobas Malaria](https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/cobas-malaria) (FDA.gov)
+
+- [Más cerca - La malaria, una enfermedad prevenible y curable que mata a 600.000 personas en el mundo - 20/03/24](https://www.rtve.es/play/audios/a-hombros-de-gigantes/mas-cerca-malaria-enfermedad-prevenible-curable-mata-600000-personas-mundo-20-03-24/16024127/) (Rtve.es)
+
 - [Reps to quiz minister over $300m malaria loan spending](https://punchng.com/reps-to-quiz-minister-over-300m-malaria-loan-spending/) (The Punch)
 
 - [Reps summon health minister Pate over misappropriation of $300 million antimalarial funds](https://gazettengr.com/reps-summon-health-minister-pate-over-misappropriation-of-300-million-antimalarial-funds/) (Gazettengr.com)
@@ -3115,6 +3107,32 @@ Source: [News API](https://newsapi.org/)
 - [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
 
 ## 24-12 (dengue)
+
+- [Dengue outbreak in Argentina on track to break records](https://www.marketscreener.com/news/latest/Dengue-outbreak-in-Argentina-on-track-to-break-records-46245227/) (Marketscreener.com)
+
+- ['Alerta para o mundo': como dengue no Brasil virou preocupação internacional](https://www.bbc.com/portuguese/articles/c7201vvv7lno) (BBC News)
+
+- [Dengue: estado de São Paulo chega a 100 mortes pela doença no ano](https://www.metropoles.com/sao-paulo/dengue-estado-sao-paulo-chega-100-mortes-doenca-ano) (Metropoles.com)
+
+- [Argentina registra un aumento del 86% en casos de dengue con respecto a 2023](https://cnnespanol.cnn.com/2024/03/20/argentina-dengue-86-casos-orix-arg/) (CNN)
+
+- [Ministério da Saúde vai redistribuir vacinas da dengue não aplicadas](https://www.metropoles.com/brasil/ministerio-da-saude-vai-redistribuir-vacinas-da-dengue-nao-aplicadas) (Metropoles.com)
+
+- [Fiocruz: letalidade da dengue é maior em crianças com menos de 5 anos](https://www.metropoles.com/saude/letalidade-dengue-criancas-ate-5-anos) (Metropoles.com)
+
+- [Ex-BBB Aline Gotschalg é internada em UTI com dengue](https://www.metropoles.com/celebridades/ex-bbb-aline-gotschalg-e-internada-em-uti-com-dengue) (Metropoles.com)
+
+- [Dengue: più controlli su navi e aerei contro le zanzare che trasmettono la malattia](https://roma.corriere.it/notizie/cronaca/24_marzo_20/dengue-allerta-in-italia-aumentano-i-controlli-su-navi-e-aerei-contro-l-ingresso-delle-zanzare-che-trasmettono-la-malattia-5b97cd3c-6ca2-4b15-8157-2213b73eaxlk.shtml) (Corriere.it)
+
+- [En vigor la norma fronteriza de Texas; Aumenta el dengue en Argentina; y más | Primeras planas del mundo 20/03/2024](https://aristeguinoticias.com/2003/mundo/en-vigor-la-norma-fronteriza-de-texas-aumenta-el-dengue-en-argentina-y-mas-primeras-planas-del-mundo-20-03-2024/) (Aristeguinoticias.com)
+
+- [Startup Fumajet desenvolve soluções para combate à dengue](https://startupi.com.br/fumajet-desenvolve-solucoes-dengue/) (Startupi.com.br)
+
+- [Dengue é mais letal em crianças menores de 5 anos, aponta Fiocruz](https://jornaldebrasilia.com.br/noticias/saude/dengue-e-mais-letal-em-criancas-menores-de-5-anos-aponta-fiocruz/) (Jornaldebrasilia.com.br)
+
+- [Lacalle Pou se reúne este miércoles con Rando y uno de los temas a tratar será el dengue](https://www.montevideo.com.uy/Noticias/Lacalle-Pou-se-reune-este-miercoles-con-Rando-y-uno-de-los-temas-a-tratar-sera-el-dengue-uc883042) (Montevideo.com.uy)
+
+- [Dengue: tire as principais dúvidas sobre a doença](https://saude.ig.com.br/2024-03-20/dengue-duvidas-doenca-vacina-tratamento-sintomas.html) (Ig.com.br)
 
 - [COVID o dengue: aquí te decimos cómo diferenciar los síntomas](https://www.record.com.mx/contra/covid-o-dengue-aqui-te-decimos-como-diferenciar-los-sintomas) (Record.com.mx)
 
@@ -3281,6 +3299,8 @@ Source: [News API](https://newsapi.org/)
 - [Com alta de casos de dengue no país, saiba por que doença diminui plaquetas e o papel delas no corpo](https://noticias.r7.com/saude/com-alta-de-casos-de-dengue-no-pais-saiba-por-que-doenca-diminui-plaquetas-e-o-papel-delas-no-corpo-17032024) (R7.com)
 
 ## 24-12 (chikungunya)
+
+- [Cytokine and T cell responses in post-chikungunya viral arthritis: A cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299521) (Plos.org)
 
 - [Número de mortes por dengue sobe e chega a 149 no Distrito Federal](https://www.metropoles.com/distrito-federal/numero-de-mortes-por-dengue-sobe-e-chega-a-149-no-distrito-federal) (Metropoles.com)
 

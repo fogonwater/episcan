@@ -1,8 +1,458 @@
 {
-  "last_updated": "2024-03-21 07:06",
-  "count_articles_total": 2193,
-  "count_articles_new": 19,
+  "last_updated": "2024-03-21 19:05",
+  "count_articles_total": 2204,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 7210,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Dengue outbreak in Argentina on track to break records",
+      "description": "(marketscreener.com) A major outbreak in Argentina of dengue, a mosquito-borne illness that can be fatal, is on track to smash previous records, reflecting wider worry around South America where warmer and wetter weather has led to a surge in cases.https://ww\u2026",
+      "url": "https://www.marketscreener.com/news/latest/Dengue-outbreak-in-Argentina-on-track-to-break-records-46245227/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2024-03/2024-03-20T185522Z_1_LYNXNPEK2J0R3_RTROPTP_3_ARGENTINA-DENGUE.JPG",
+      "publishedAt": "2024-03-20 18:55:22",
+      "content": "BUENOS AIRES/SALTA, Argentina (Reuters) - A major outbreak in Argentina of dengue, a mosquito-borne illness that can be fatal, is on track to smash previous records, reflecting wider worry around Sou\u2026 [+2536 chars]",
+      "retrievedAt": "2024-03-21 19:05:32.921665",
+      "internal_id": "883baf736f151f15011a0cfc914fa078aed4bc498294acf94f23c5053f6c3284",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7205,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "'Alerta para o mundo': como dengue no Brasil virou preocupa\u00e7\u00e3o internacional",
+      "description": "Com recorde de casos no Brasil em 2024, dengue \u00e9 destaque no notici\u00e1rio internacional. O americano Washington Post diz que crise no Brasil \u00e9 'alerta para o mundo' e New York Times fala em 'pren\u00fancio de uma crise de sa\u00fade para as Am\u00e9ricas'.",
+      "url": "https://www.bbc.com/portuguese/articles/c7201vvv7lno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/3b76/live/ee0b17f0-e6a9-11ee-8bf3-195418ba9285.png",
+      "publishedAt": "2024-03-20 18:26:08",
+      "content": "Cr\u00e9dito, Reprodu\u00e7\u00e3o/NYT Legenda da foto, New York Times diz que 'Brasil tem uma emerg\u00eancia de dengue, um pren\u00fancio de uma crise de sa\u00fade para as Am\u00e9ricas' Logo na primeira linha, uma reportagem do \u2026 [+5660 chars]",
+      "retrievedAt": "2024-03-21 19:05:32.870125",
+      "internal_id": "2be24db8869c1ff69e8b81affbbedd472dd367549f3111aefce9370af38c9dac",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7202,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Nathan Kamal",
+      "title": "Massive New Theme Park Threatens to Open Immediately Outside Disney World",
+      "description": "The Walt Disney World Resort has faced months of threats from Governor Ron DeSantis, the COVID-19 pandemic, increasingly close outbreaks of measles, and a never-ending series of lawsuits, but now it may have to deal with an actual competitor. Plans to constru\u2026",
+      "url": "https://insidethemagic.net/2024/03/massive-new-theme-park-threatens-open-immediately-outside-disney-world-nk1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/03/mickey-mouse-cinderella-castle.jpeg",
+      "publishedAt": "2024-03-20 18:18:59",
+      "content": "The Walt Disney World Resort has faced months of threats from Governor Ron DeSantis, the COVID-19 pandemic, increasingly close outbreaks of measles, and a never-ending series of lawsuits, but now it \u2026 [+4383 chars]",
+      "retrievedAt": "2024-03-21 19:05:31.654329",
+      "internal_id": "803129482a58159798ab98633c4f46336a584265479f48b1c90909c6c7316af6",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7201,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "\u00d3rla Ryan",
+      "title": "Three more measles cases confirmed in latest weekly figures",
+      "description": "A number of other suspected measles cases are currently being reviewed.",
+      "url": "https://www.thejournal.ie/how-many-measles-cases-in-ireland-6332848-Mar2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6332848/river/?height=400&version=6332861",
+      "publishedAt": "2024-03-20 17:10:43",
+      "content": "THREE MORE MEASLES cases have been confirmed in Ireland, meaning there have now been five confirmed cases to date this year. As well as the three new confirmed cases, there were a further five possi\u2026 [+1994 chars]",
+      "retrievedAt": "2024-03-21 19:05:31.630393",
+      "internal_id": "0334ca54b27ca73d79b7e6b87096532d17850461f03b475dba2d5da9190f6e77",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7212,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Dengue: estado de S\u00e3o Paulo chega a 100 mortes pela doen\u00e7a no ano",
+      "description": "S\u00e3o Paulo registra 100 mortes por dengue desde o in\u00edcio do ano, segundo dados da Sa\u00fade; at\u00e9 agora, s\u00e3o 269.552 casos confirmados da doen\u00e7a",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-estado-sao-paulo-chega-100-mortes-doenca-ano",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/03/23131156/Foto-mosquito-da-dengue-3.jpg",
+      "publishedAt": "2024-03-20 17:09:46",
+      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo chegou a 100 mortes por dengue desde o in\u00edcio do ano, segundo o painel de monitoramento da doen\u00e7a da Secretaria Estadual da Sa\u00fade, atualizado nesta quarta-feira (20/3)\u2026 [+5822 chars]",
+      "retrievedAt": "2024-03-21 19:05:32.936518",
+      "internal_id": "566e221c0cdee18163dd3bcbd78b105f78f8b36b7ce89f5df29b75b3862dfb43",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7207,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Sol Amaya",
+      "title": "Argentina registra un aumento del 86% en casos de dengue con respecto a 2023",
+      "description": "Al menos 79 personas murieron desde agosto de 2023 por dengue en Argentina, seg\u00fan el \u00faltimo bolet\u00edn epidemiol\u00f3gico del Ministerio de Salud difundido el 15 de marzo. En informe se\u00f1ala tambi\u00e9n que, si se comparan las primeras 10 semanas de 2024 al mismo periodo\u2026",
+      "url": "https://cnnespanol.cnn.com/2024/03/20/argentina-dengue-86-casos-orix-arg/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/02/240227154109-rba-mosquitos-full-169.jpg?quality=100&strip=info",
+      "publishedAt": "2024-03-20 16:54:34",
+      "content": "\u00bfC\u00f3mo protegerse del mosquito del dengue? 4:52 (CNN Espa\u00f1ol) -- Al menos 79 personas murieron desde agosto de 2023 por dengue en Argentina, seg\u00fan el \u00faltimo bolet\u00edn epidemiol\u00f3gico del Ministerio de S\u2026 [+1649 chars]",
+      "retrievedAt": "2024-03-21 19:05:32.879157",
+      "internal_id": "6fed406bc7428dc257249a48b30ee4bc2338b7838728471343fbfd9a6d44906a",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7211,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nicole Diniz",
+      "title": "Minist\u00e9rio da Sa\u00fade vai redistribuir vacinas da dengue n\u00e3o aplicadas",
+      "description": "Segundo o Minist\u00e9rio da Sa\u00fade, a redistribui\u00e7\u00e3o ser\u00e1 feita a partir de um ranqueamento de estados e munic\u00edpios em emerg\u00eancia por dengue",
+      "url": "https://www.metropoles.com/brasil/ministerio-da-saude-vai-redistribuir-vacinas-da-dengue-nao-aplicadas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/03191723/140823VS_Nisia-Trindade-Mais-Medicos-011-1.jpg",
+      "publishedAt": "2024-03-20 16:32:32",
+      "content": "O Brasil registrou, nesta quarta-feira (20/3), a marca de 1.937.651 casos prov\u00e1veis de dengue em 2024, segundo o Minist\u00e9rio da Sa\u00fade. O valor representa um recorde, j\u00e1 que, em mais de 20 anos, o pa\u00eds\u2026 [+3180 chars]",
+      "retrievedAt": "2024-03-21 19:05:32.928442",
+      "internal_id": "dc85fda3dd45625300ff9255f724ebb423e99dfdac1e9a1b94204c67e73e57cc",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7214,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Carolina Milit\u00e3o",
+      "title": "Fiocruz: letalidade da dengue \u00e9 maior em crian\u00e7as com menos de 5 anos",
+      "description": "Estudo da Fiocruz revela que a maioria das v\u00edtimas fatais entre crian\u00e7as e adolescentes na atual epidemia de dengue tem menos de cinco anos",
+      "url": "https://www.metropoles.com/saude/letalidade-dengue-criancas-ate-5-anos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
+      "publishedAt": "2024-03-20 16:24:45",
+      "content": "Na atual epidemia de dengue no Brasil, a doen\u00e7a tem atingido com maior gravidade crian\u00e7as at\u00e9 5 anos. A an\u00e1lise foi feita pelo Observat\u00f3rio de Sa\u00fade na Inf\u00e2ncia (Observa Inf\u00e2ncia) da Fiocruz/Unifase.\u2026 [+2059 chars]",
+      "retrievedAt": "2024-03-21 19:05:32.955032",
+      "internal_id": "8079532349492d11efba773dcf98af626097a4b62e27ceefa0fe64ed0e91c8d0",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7213,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Let\u00edcia Perdig\u00e3o",
+      "title": "Ex-BBB Aline Gotschalg \u00e9 internada em UTI com dengue",
+      "description": "Aline Gotschalg usou as redes sociais, nesta quarta (20/3), para contar que est\u00e1 com as plaquetas baixas em decorr\u00eancia da dengue",
+      "url": "https://www.metropoles.com/celebridades/ex-bbb-aline-gotschalg-e-internada-em-uti-com-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/08/03130950/alinegotschalg_297377197_752815446032465_8987216651079513547_n-1.jpg",
+      "publishedAt": "2024-03-20 15:56:35",
+      "content": "Aline Gotschalg usou as redes sociais, nesta quarta-feira (20/3), para contar aos seguidores que est\u00e1 internada em uma Unidade de Terapia Intensiva (UTI), em decorr\u00eancia da dengue. Nos Stories do In\u2026 [+1985 chars]",
+      "retrievedAt": "2024-03-21 19:05:32.951635",
+      "internal_id": "f49ddbeea6e5dc893ab4780f4fc11cdb2f783aefe1332dc0617838be2cd35e95",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7206,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Natalia Distefano",
+      "title": "Dengue: pi\u00f9 controlli su navi e aerei contro le zanzare che trasmettono la malattia",
+      "description": "Circolare del ministero della Salute per innalzare la vigilanza alle frontiere nazionali, soprattutto sui mezzi di trasporto e sulle merci in arrivo dai Paesi in cui \u00e8 presente l\u2019\u00abAedes aegypti\u00bbCircolare del ministero della Salute per innalzare la vigilanza a\u2026",
+      "url": "https://roma.corriere.it/notizie/cronaca/24_marzo_20/dengue-allerta-in-italia-aumentano-i-controlli-su-navi-e-aerei-contro-l-ingresso-delle-zanzare-che-trasmettono-la-malattia-5b97cd3c-6ca2-4b15-8157-2213b73eaxlk.shtml",
+      "urlToImage": "https://dimages2.corriereobjects.it/files/og_thumbnail/files/fp/uploads/2023/08/23/64e5e19318d66.r_d.129-75-0.jpeg",
+      "publishedAt": "2024-03-20 15:23:21",
+      "content": "Nuova circolare del ministero della Salute per innalzare la vigilanza alle frontiere nazionali, soprattutto sui mezzi di trasporto e sulle merci in arrivo dai Paesi in cui \u00e8 presente l\u00abAedes aegypti\u00bb\u2026 [+3463 chars]",
+      "retrievedAt": "2024-03-21 19:05:32.874336",
+      "internal_id": "9e817a1049babb62506bb85bedd9786db865f17cb5d1922fa40ee824695b036b",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7224,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Toronto Public Health urges people to get vaccinated against mpox amidst rising cases",
+      "description": "Toronto Public Health (TPH) is advising people to get vaccinated against mpox amidst an increase in confirmed cases of this virus in the city this year.",
+      "url": "https://www.cbc.ca/news/canada/toronto/mpox-cases-toronto-1.7149525",
+      "urlToImage": "https://i.cbc.ca/1.6488962.1657042528!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/health-monkeypox-canada.JPG",
+      "publishedAt": "2024-03-20 15:01:55",
+      "content": "Toronto Public Health (TPH) is advising people to get vaccinated against mpox amidst an increase in confirmed cases of this virus in the city this year. Twenty-one cases of mpox, previously known a\u2026 [+1389 chars]",
+      "retrievedAt": "2024-03-21 19:05:35.467446",
+      "internal_id": "29c035e22f974ea30d8a72b8ac4331d7a21a58f2886a3d046c246f9e7fc21f4b",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7203,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Smith, M. J.",
+      "title": "The ethics of firing unvaccinated employees",
+      "description": "Some organisations make vaccination a condition of employment. This means prospective employees must demonstrate they have been vaccinated (eg, against measles) to be hired. But it also means organisations must decide whether existing employees should be expe\u2026",
+      "url": "https://jme.bmj.com/content/50/4/268",
+      "urlToImage": "https://jme.bmj.com/sites/default/files/highwire/medethics/50/4.cover-source.jpg",
+      "publishedAt": "2024-03-20 14:42:39",
+      "content": "Introduction Some organisations make vaccination a condition of employment. This means prospective employees must demonstrate they have been vaccinated (eg, against measles) to be hired. But it also\u2026 [+20096 chars]",
+      "retrievedAt": "2024-03-21 19:05:31.668955",
+      "internal_id": "152e89a6e436bcadff6dda53c9a9e3ac47beefb4e9d780d580fb00bfd202f959",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7223,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Aileen Y. Chang, Sarah R. Tritsch, Carlos Andres Herrera Gomez, Liliana Encinales, Andres Cadena Bonfanti, Wendy Rosales, Evelyn Mendoza-Torres, Samuel Simmens, Richard L. Amdur, Christopher N. Mores, Paige Fierbaugh, Carlos Alberto Perez Hernandez, Geraldine Avenda\u00f1o, Paula Bruges Silvera, Yerlenis Galvis Crespo, Alberto David Cabana Jimenez, Jennifer Carolina Martinez Zapata, Dennys Jimenez, Estefanie Osorio-Llanes, Jairo Castellar-Lopez, Karol Suchowiecki, Karen Martins, Melissa Gregory, Ivan Zuluaga, Abigale Proctor, Alfonso Sucerquia Hern\u00e1ndez, Leandro Sierra-Carrero, Maria Villanueva Colpas, Juan Carlos Perez Hernandez, Andres Alberto Figueroa Quast, Joaquin Andres Calderon De Barros, Jos\u00e9 Forero Mej\u00eda, Johan Penagos Ruiz, David Boyle, Gary S. Firestein, Gary L. Simon",
+      "title": "Cytokine and T cell responses in post-chikungunya viral arthritis: A cross-sectional study",
+      "description": "Objective To define the relationship between chronic chikungunya post-viral arthritis disease severity, cytokine response and T cell subsets in order to identify potential targets for therapy. Methods Participants with chikungunya arthritis were recruited f\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299521",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0299521.t006&size=inline",
+      "publishedAt": "2024-03-20 14:00:00",
+      "content": "Citation: Chang AY, Tritsch SR, Herrera Gomez CA, Encinales L, Cadena Bonfanti A, Rosales W, et al. (2024) Cytokine and T cell responses in post-chikungunya viral arthritis: A cross-sectional study. \u2026 [+27435 chars]",
+      "retrievedAt": "2024-03-21 19:05:35.035213",
+      "internal_id": "b35e54e54168baa1b4edca6d62361894aa156cd01f4ce17eaa06523bb84cad29",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7220,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "Malaria",
+      "description": "This page contains information on Malaria infectious disease tests with supporting documents",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/malaria",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2024-03-20 13:50:12",
+      "content": "The .gov means its official.Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.",
+      "retrievedAt": "2024-03-21 19:05:34.149874",
+      "internal_id": "d2ed9881f47edaf0093e40eba09a676f93d8b3fe24c666a639c2faa7b21cc84d",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7221,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "cobas Malaria",
+      "description": "Indicated for use on the cobas\u00ae 6800/8800 Systems (cobas\u00ae Malaria)...",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/cobas-malaria",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2024-03-20 13:48:30",
+      "content": "The cobas\u00ae Malaria test for use on the cobas\u00ae 6800/8800 Systems (cobas\u00ae Malaria) is a qualitative in vitro nucleic acid screening test for the direct detection of Plasmodium (P. falciparum, P. malari\u2026 [+623 chars]",
+      "retrievedAt": "2024-03-21 19:05:34.153594",
+      "internal_id": "c8a482db6abf74c3ae2f3cb3a682263b6947d4ffd08ff2098824d9402f5dbaaf",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7209,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / RDG",
+      "title": "En vigor la norma fronteriza de Texas; Aumenta el dengue en Argentina; y m\u00e1s | Primeras planas del mundo 20/03/2024",
+      "description": "Revisamos las notas principales en medios de Estados Unidos, Europa y Am\u00e9rica Latina, este mi\u00e9rcoles 20 de marzo de 2024.",
+      "url": "https://aristeguinoticias.com/2003/mundo/en-vigor-la-norma-fronteriza-de-texas-aumenta-el-dengue-en-argentina-y-mas-primeras-planas-del-mundo-20-03-2024/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/02/primeras-planas-titulares-internacionales-mundo.webp",
+      "publishedAt": "2024-03-20 13:15:11",
+      "content": "Esto es lo que se destaca en las portadas de los medios internacionales, este mi\u00e9rcoles 20 de marzo de 2024: Estados Unidos The New York Times Los jueces autorizan a Texas a detener a los inmigran\u2026 [+1735 chars]",
+      "retrievedAt": "2024-03-21 19:05:32.915242",
+      "internal_id": "7bf554c9dd7fa9a687c00ac2a5a45d82d3c20dc6737960a9f9ba121ec3c0f3f0",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7204,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KTVU San Francisco",
+      "author": "Allie Rasmus",
+      "title": "Possible measles exposure at East Bay restaurant",
+      "description": "People who dined at a popular East Bay restaurant are being warned that they may have been exposed to measles.",
+      "url": "https://www.ktvu.com/news/possible-measles-exposure-at-east-bay-restaurant",
+      "urlToImage": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/03/1280/720/measles.jpg?ve=1&tl=1",
+      "publishedAt": "2024-03-20 12:44:19",
+      "content": "SAN LEANDRO, Calif. - People who dined at a popular East Bay restaurant are being warned that they may have been exposed to measles. The Alameda County Public Health Department sent out an alert to\u2026 [+1145 chars]",
+      "retrievedAt": "2024-03-21 19:05:31.705696",
+      "internal_id": "6fd7bd400dcad15a936d04959d63b8ef0cb13cd9be5d2a557c6ab70e62b894bc",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7200,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Steven Novella",
+      "title": "Measles Outbreaks on the Rise",
+      "description": "The world is experiencing increasing outbreaks of a completely preventable disease. What's going wrong? The post Measles Outbreaks on the Rise first appeared on Science-Based Medicine.",
+      "url": "https://sciencebasedmedicine.org/measles-outbreaks-on-the-rise/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2015/02/measles-compressed.jpg",
+      "publishedAt": "2024-03-20 12:26:20",
+      "content": "The WHO reported over 30,000 cases of measles in the European Region in 2023, up from less than a thousand in 2022 \u2013 a 30 fold increase. This year is already looking to have an increase in measles in\u2026 [+6488 chars]",
+      "retrievedAt": "2024-03-21 19:05:31.607807",
+      "internal_id": "16852b2a5a7f4e36f3d7b9dbf01eddd964df9bc9e8d87a463bf90c681b9720d1",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7222,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Rtve.es",
+      "author": null,
+      "title": "M\u00e1s cerca - La malaria, una enfermedad prevenible y curable que mata a 600.000 personas en el mundo - 20/03/24",
+      "description": "La malaria es una enfermedad end\u00e9mica en m\u00e1s de un centenar de pa\u00edses en los que viven m\u00e1s de la mitad de la poblaci\u00f3n mundial. Aunque es prevenible y tiene cura, causa m\u00e1s de 600.000 muertes anuales en el mundo, ceb\u00e1ndose con las poblaciones m\u00e1s pobres y, en\u2026",
+      "url": "https://www.rtve.es/play/audios/a-hombros-de-gigantes/mas-cerca-malaria-enfermedad-prevenible-curable-mata-600000-personas-mundo-20-03-24/16024127/",
+      "urlToImage": "https://img2.rtve.es/a/16024127/?imgProgApi=imgBackground&w=800",
+      "publishedAt": "2024-03-20 12:14:55",
+      "content": "A hombros de gigantes \"Misi\u00f3n malaria: una mirada hist\u00f3rica\" en el MNCN (CSIC)20/03/202410:54Exposici\u00f3n en el MNCN sobre la malaria, una enfermedad prevenible y curable que mata a 600.000 personas\u2026 [+857 chars]",
+      "retrievedAt": "2024-03-21 19:05:34.157698",
+      "internal_id": "5b641776516468606aa896c11c3d1f484ba07c15c2415e336c0aa0743785dcf5",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7218,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "Carmen Apolo",
+      "title": "Extremadura se desmarca del calendario vacunal \u00fanico y adelanta la vacunaci\u00f3n contra la meningitis A, C, W e Y a los 4 meses de edad",
+      "description": "El Servicio Extreme\u00f1o de Salud incluir\u00e1 en el calendario vacunal de 2024 dos novedades con respecto al a\u00f1o anterior, la implementaci\u00f3n de un nuevo tipo de vacuna totalmente gratuita contra la meningitis destinada a la poblaci\u00f3n infantil, que alcanzar\u00e1 a 7.000\u2026",
+      "url": "https://www.eleconomista.es/salud/noticias/12731579/03/24/extremadura-se-desmarca-del-calendario-vacunal-unico-y-adelanta-la-vacunacion-contra-la-meningitis-a-c-w-e-y-a-los-4-meses.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/2121x1157/c/1/c/1200x655_vacuna.jpg",
+      "publishedAt": "2024-03-20 11:59:12",
+      "content": "El Servicio Extreme\u00f1o de Salud incluir\u00e1 en el calendario vacunal de 2024 dos novedades con respecto al a\u00f1o anterior, la implementaci\u00f3n de un nuevo tipo de vacuna totalmente gratuita contra la meningi\u2026 [+6214 chars]",
+      "retrievedAt": "2024-03-21 19:05:33.568928",
+      "internal_id": "ae272edd107d7e40fc05b31d619cd8fd598917c165d40e0c4831eb3e1a4b9571",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7208,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Startupi.com.br",
+      "author": "Bruna Galati",
+      "title": "Startup Fumajet desenvolve solu\u00e7\u00f5es para combate \u00e0 dengue",
+      "description": "Startupi Startup Fumajet desenvolve solu\u00e7\u00f5es para combate \u00e0 dengue Startup Fumajet desenvolve solu\u00e7\u00f5es para combate \u00e0 dengue O post Startup Fumajet desenvolve solu\u00e7\u00f5es para combate \u00e0 dengue aparece primeiro em Startupi e foi escrito por Bruna Galati",
+      "url": "https://startupi.com.br/fumajet-desenvolve-solucoes-dengue/",
+      "urlToImage": "https://startupi.com.br/wp-content/uploads/2024/03/Fumajet.webp",
+      "publishedAt": "2024-03-20 11:00:00",
+      "content": "Em 1999, o Brasil enfrentou uma significativa epidemia de dengue. Nessa \u00e9poca, o empres\u00e1rio C\u00edcero Victorio da Costa e seu filho Marcius Victorio da Costa, moravam nos Estados Unidos e exploravam a p\u2026 [+5754 chars]",
+      "retrievedAt": "2024-03-21 19:05:32.885648",
+      "internal_id": "b6a9a9de59f98470e2a162ed46825269bdb0d8720ccf249f8188a61757c5bfd5",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7219,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Extremadura comienza la vacunaci\u00f3n gratuita contra la meningitis ACWY a todos los beb\u00e9s al cumplir los 4 meses",
+      "description": "El Servicio Extreme\u00f1o de Salud (SES) ha incorporado a su calendario de vacunaci\u00f3n la administraci\u00f3n de la vacuna para prevenir la enfermedad meningoc\u00f3cica causada por los serogrupos A, C, W e Y, que ser\u00e1 gratuita a partir de este jueves, 21 de marzo, para tod\u2026",
+      "url": "https://www.europapress.es/extremadura/noticia-extremadura-comienza-vacunacion-gratuita-contra-meningitis-acwy-todos-bebes-cumplir-meses-20240320112458.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240320112458_1200.jpg",
+      "publishedAt": "2024-03-20 10:24:58",
+      "content": "M\u00c9RIDA, 20 Mar. (EUROPA PRESS) - El Servicio Extreme\u00f1o de Salud (SES) ha incorporado a su calendario de vacunaci\u00f3n la administraci\u00f3n de la vacuna para prevenir la enfermedad meningoc\u00f3cica causad\u2026 [+1254 chars]",
+      "retrievedAt": "2024-03-21 19:05:33.573936",
+      "internal_id": "2590b0a89eeec49ae25755b623e9afa6f6dacde16612cb00c353738fc8a9b60a",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7215,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Dengue \u00e9 mais letal em crian\u00e7as menores de 5 anos, aponta Fiocruz",
+      "description": "O recorte da faixa et\u00e1ria de 10 a 14 anos foi eleito pelo Minist\u00e9rio da Sa\u00fade como o melhor cen\u00e1rio para iniciar a vacina\u00e7\u00e3o contra a dengue no Brasil",
+      "url": "https://jornaldebrasilia.com.br/noticias/saude/dengue-e-mais-letal-em-criancas-menores-de-5-anos-aponta-fiocruz/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/08114815/124a9825-2.webp",
+      "publishedAt": "2024-03-20 09:33:27",
+      "content": "S\u00c3O PAULO(FOLHAPRESS) A dengue \u00e9 cinco vezes mais letal para crian\u00e7as com menos de cinco anos do que para aquelas que est\u00e3o na faixa de 10 a 14 anos, diz levantamento realizado pelo Observat\u00f3rio de \u2026 [+3939 chars]",
+      "retrievedAt": "2024-03-21 19:05:32.959095",
+      "internal_id": "10bc171f55245b6d82a127195ab8a7f3c11b7a3d38f57b12e903379a7f0c4d3f",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7217,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Lacalle Pou se re\u00fane este mi\u00e9rcoles con Rando y uno de los temas a tratar ser\u00e1 el dengue",
+      "description": "La ministra le comunic\u00f3 al mandatario que se investiga el fallecimiento de una persona que ten\u00eda la enfermedad.",
+      "url": "https://www.montevideo.com.uy/Noticias/Lacalle-Pou-se-reune-este-miercoles-con-Rando-y-uno-de-los-temas-a-tratar-sera-el-dengue-uc883042",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202305/_W933_80/842071.jpg",
+      "publishedAt": "2024-03-20 09:21:00",
+      "content": "Montevideo Portal El presidente Luis Lacalle Pou se re\u00fane este mi\u00e9rcoles a las 11:30 horas con la ministra de Salud P\u00fablica, Karina Rando. El encuentro ser\u00e1 en la residencia presidencial de Su\u00e1rez y\u2026 [+496 chars]",
+      "retrievedAt": "2024-03-21 19:05:33.018178",
+      "internal_id": "ae17dc98088904af047938576e092e3ee60d43a045073dd740ca2ec7f3635f6e",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 7216,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Leticia Moreira, Leticia Moreira",
+      "title": "Dengue: tire as principais d\u00favidas sobre a doen\u00e7a",
+      "description": "Capital paulista entrou em emerg\u00eancia para a dengue e Brasil passa de 1,9 milh\u00e3o de casos; tire d\u00favidas sobre complica\u00e7\u00f5es, vacina\u00e7\u00e3o e tratamento da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-03-20/dengue-duvidas-doenca-vacina-tratamento-sintomas.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/f1/0q/ep/f10qepa9wgb13evl9ixl7e3b9.jpg",
+      "publishedAt": "2024-03-20 09:00:00",
+      "content": "Segundo \u00faltimo balan\u00e7o divulgado pela Secretaria Estadual da Sa\u00fade (SES), o estado de S\u00e3o Paulo j\u00e1 registrou 91 \u00f3bitos causados pela dengue neste ano. Conforme os dados dessa ter\u00e7a-feira (19), outr\u2026 [+7622 chars]",
+      "retrievedAt": "2024-03-21 19:05:33.009528",
+      "internal_id": "d1d70db7a42cd6ecc0341b9ecddeede1948d832bd3ab07f41bf60a5781d0b8f2",
+      "publishedAtLabel": "Mar 20"
+    },
     {
       "id": 7185,
       "query": [
@@ -39335,258 +39785,6 @@
       "content": "di Salvatore RiggioYves Bissouma del Tottenham e Moussa Diarrea, del Tolosa, non sono stati esclusi dalla competizione. La malaria non si trasmette attraverso il contatto ma con la puntura di una zan\u2026 [+1844 chars]",
       "retrievedAt": "2024-02-06 07:05:38.327991",
       "internal_id": "f0528b77ae84db7db2c3c37847bf695db341cb897be7694c18c72ed1908a3a23",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 5000,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "four-four-two",
-      "source_name": "FourFourTwo",
-      "author": "Ben Hayward",
-      "title": "Tottenham midfielder Yves Bissouma 'played with malaria' for Mali at AFCON 2023",
-      "description": "Tottenham midfielder Yves Bissouma was playing through malaria at the Africa Cup of Nations, Mali coach Eric Chelle has revealed",
-      "url": "https://www.fourfourtwo.com/news/tottenham-midfielder-yves-bissouma-played-with-malaria-for-mali-at-afcon-2023",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Qu4pMX6PrNieQPC5ft8XxV-1200-80.jpg",
-      "publishedAt": "2024-02-04 18:00:43",
-      "content": "Tottenham Hotspur midfielder Yves Bissouma was playing through malaria at the Africa Cup of Nations, Mali coach Eric Chelle has revealed. Mali's AFCON 2023 campaign ended in dramatic circumstances o\u2026 [+1396 chars]",
-      "retrievedAt": "2024-02-05 19:05:55.883649",
-      "internal_id": "9f02c3cb25c903d27fbaddfa847a7c3f7aa1be386dfd83b8cacf901a63eb989b",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4992,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Ynetnews",
-      "author": "Prof. Yosef Peres",
-      "title": "Whooping cough outbreak in Israel; go get vaccinated!",
-      "description": "Whooping cough (Pertussis) vaccines are critical in preventing outbreak of disease by providing both personal and communal protection, controlling infection rate and high-risk protecting populations; here are the reasons to get vaccinated and stop the infecti\u2026",
-      "url": "https://www.ynetnews.com/health_science/article/rk293l69a",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2022/06/15/H1w2sxDt9/H1w2sxDt9_0_23_1000_563_0_large.jpg",
-      "publishedAt": "2024-02-04 16:13:42",
-      "content": "There was a significant rise in the number of cases of whooping cough in 2023, according to the Health Ministry's data. It is a highly contagious respiratory disease caused by the Bordetella Pertussi\u2026 [+2731 chars]",
-      "retrievedAt": "2024-02-05 19:05:52.985353",
-      "internal_id": "e83619161f855f15707ffcad0b2bccd82d063cbd023bcc46480c61efe7a044a9",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4995,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Francisco Dutra",
-      "title": "Hospital de Campanha da FAB contra dengue \u00e9 montado em Ceil\u00e2ndia",
-      "description": "Aeron\u00e1utica mobilizou estrutura, insumos e militares para montar Hospital de Campanha que vai enfrentar a explos\u00e3o de casos da dengue",
-      "url": "https://www.metropoles.com/distrito-federal/hospital-de-campanha-da-fab-contra-dengue-e-montado-em-ceilandia",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/04124917/hospital-de-campanha-FAB-contra-dengue-3.jpeg",
-      "publishedAt": "2024-02-04 16:08:24",
-      "content": "Montado em tempo recorde, o Hospital de Campanha (HCAMP) da For\u00e7a A\u00e9rea Brasileira (FAB) para ajudar o Governo do Distrito Federal (GDF) a combater a dengue est\u00e1 praticamente conclu\u00eddo. O Comandante\u2026 [+2716 chars]",
-      "retrievedAt": "2024-02-05 19:05:54.929736",
-      "internal_id": "cde3f260a74f2d383bd853b6c3dd26b41f8775ae201ba83c16e4a97e8ed46726",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 5021,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Veja lista de cidades receber\u00e3o vacina contra a dengue",
-      "description": "Em campanha contra a dengue, o Minist\u00e9rio da Sa\u00fade divulgou a lista com as cidades escolhidas para o in\u00edcio da vacina\u00e7\u00e3o a partir deste m\u00eas. Ao todo, 521",
-      "url": "https://catracalivre.com.br/saude-bem-estar/veja-lista-de-cidades-receberao-vacina-contra-a-dengue/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2023/07/vacina-dengue.jpg",
-      "publishedAt": "2024-02-04 14:41:14",
-      "content": "\u00daltimas not\u00edcias: Em campanha contra a dengue, o Minist\u00e9rio da Sa\u00fade divulgou a lista com as cidades escolhidas para o in\u00edcio da vacina\u00e7\u00e3o a partir deste m\u00eas. Ao todo, 521 munic\u00edpios localizados em \u2026 [+1285 chars]",
-      "retrievedAt": "2024-02-06 07:05:37.567315",
-      "internal_id": "867f98b801a99489db0186066b677f7b0b1270d481a57ebae8435ee5afc7a065",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 5001,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Expressen.se",
-      "author": "kewin.adolfsson@bonniernews.se (Kewin Adolfsson)",
-      "title": "Tottenhamstj\u00e4rnan spelade - trots sjukdomen",
-      "description": "Efter Malis utt\u00e5g ur de afrikanska m\u00e4sterskapen ber\u00e4ttade deras f\u00f6rbundskapten om tv\u00e5 sjukdomsfall. Tv\u00e5 spelare i truppen hade drabbats av malaria. En av dessa var Tottenhamspelaren Yves Bissouma. Som trots sjukdomen hoppade in mot Elfenbenskusten i kvartsfin\u2026",
-      "url": "https://www.expressen.se/sport/fotboll/premier-league/tottenhamstjarnan-spelade-trots-sjukdomen/",
-      "urlToImage": "https://static.cdn-expressen.se/images/9a/ac/9aacbf8bc2644d11a7f31dd8bfaffb39/16x9/original.png",
-      "publishedAt": "2024-02-04 13:05:35",
-      "content": "Yves Bissouma \u00e4ntrade planen precis innan ordinarie tid tog slut och spelade s\u00e5ledes hela f\u00f6rl\u00e4ngningen. Efter matchen gick Malis f\u00f6rbundskapten ut med att tv\u00e5 av lagets spelare drabbats av malaria\u2026 [+1070 chars]",
-      "retrievedAt": "2024-02-05 19:05:55.898922",
-      "internal_id": "1eb3f0d136523a13a31e21df19da3b9fb205fda4c3a77c4244ee3a0b116659e6",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4997,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Tjerk Br\u00fchwiller",
-      "title": "200.000 Infektionen: Brasilien k\u00e4mpft gegen rasante Ausbreitung des Denguefiebers",
-      "description": "In nur einer Woche hat sich die Zahl der an Denguefieber Erkrankten fast verdoppelt. Schuld ist wohl das hei\u00dfe und regnerische Wetter. Jetzt hat Brasilien aber eine neue Waffe gegen die Krankheit.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/200-000-infektionen-brasilien-kaempft-gegen-denguefieber-19495868.html",
-      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/1635372005/1.9495907/facebook_teaser/brasilien-ceilandia-menschen.jpg",
-      "publishedAt": "2024-02-04 12:46:43",
-      "content": "Die Zahl der wahrscheinlichen F\u00e4lle von Denguefieber hat sich in Brasilien in nur einer Woche fast verdoppelt. Laut den Angaben des Gesundheitsministeriums wurden in den ersten drei Wochen des Jahres\u2026 [+2087 chars]",
-      "retrievedAt": "2024-02-05 19:05:55.026102",
-      "internal_id": "94de5bb63698a7856d267b733816283b1692ec0edc9371667ae223ecd958bc61",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4998,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Dengue: Minist\u00e9rio da Sa\u00fade estuda ampliar vacina\u00e7\u00e3o",
-      "description": "Centro de Emerg\u00eancia come\u00e7a a funcionar para apoiar monitoramento",
-      "url": "https://saude.ig.com.br/2024-02-04/dengue--ministerio-da-saude-estuda-ampliar-vacinacao.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c1/e4/d1/c1e4d1oh0uh1d020x4568fo7s.jpg",
-      "publishedAt": "2024-02-04 12:32:29",
-      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, disse neste s\u00e1bado (3) que o governo estuda ampliar a oferta de vacinas contra a dengue no pa\u00eds . A informa\u00e7\u00e3o foi repassada durante a abertura do Centro de Oper\u2026 [+3144 chars]",
-      "retrievedAt": "2024-02-05 19:05:55.061519",
-      "internal_id": "94658f881b2735bb49be96c4a259ed0b21c2f1b7998a4bc0c617f75bf16c0a02",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 5017,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Minist\u00e9rio da Sa\u00fade estuda ampliar oferta da vacina contra a dengue",
-      "description": "Devido ao n\u00famero limitado de doses, inicialmente o imunizante ser\u00e1 aplicado em crian\u00e7as de 10 a 14 anos de 521 cidades",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-estuda-ampliar-oferta-da-vacina-contra-a-dengue,e425e117b5e85fbecadb247b6aa94c7brmd8x583.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-02-04 12:30:28",
-      "content": "AG\u00caNCIA BRASIL - A ministra da Sa\u00fade, N\u00edsia Trindade, disse neste s\u00e1bado, 3, que o governo estuda ampliar a oferta de vacinas contra a dengue no pa\u00eds. A informa\u00e7\u00e3o foi repassada durante a abertura do\u2026 [+3301 chars]",
-      "retrievedAt": "2024-02-06 07:05:37.548849",
-      "internal_id": "225ea0d733d3f078bb4dab839af51903557871c6997da9802542b7e6d911ffad",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4993,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "8am.media",
-      "author": "Hasht-e Subh",
-      "title": "Death of 21 Children Due to Measles in Badakhshan: Residents Decry Lack of Health Facilities",
-      "description": "Reports from the provincial hospital of Badakhshan indicate a surge in measles cases across the province. A credible source at",
-      "url": "https://8am.media/eng/death-of-21-children-due-to-measles-in-badakhshan-residents-decry-lack-of-health-facilities/",
-      "urlToImage": "https://8am.media/eng/wp-content/uploads/2024/02/78ddc7988f2c46188fc74bf2ecfaa63f-9.jpg",
-      "publishedAt": "2024-02-04 10:16:59",
-      "content": "Reports from the provincial hospital of Badakhshan indicate a surge in measles cases across the province. A credible source at the provincial hospital of Badakhshan confirmed to the Hasht-e Subh Dai\u2026 [+1158 chars]",
-      "retrievedAt": "2024-02-05 19:05:53.832311",
-      "internal_id": "6f3348fd2fe04efc6139343bef391e6ebfdb710831d641dde061f87edc5f39df",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4996,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Eduardo Barretto",
-      "title": "Ex-deputado cobra ministra da Sa\u00fade por emendas indicadas em 2022",
-      "description": "Um dos projetos parados trata do combate \u00e0 dengue; ex-deputado Ottaci Nascimento enviou dois documentos \u00e0 ministra da Sa\u00fade na \u00faltima semana",
-      "url": "https://www.metropoles.com/colunas/guilherme-amado/ex-deputado-cobra-ministra-da-saude-por-emendas-indicadas-em-2022",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/03191723/140823VS_Nisia-Trindade-Mais-Medicos-011-1.jpg",
-      "publishedAt": "2024-02-04 10:00:17",
-      "content": "O ex-deputado Ottaci Nascimento, do Solidariedade de Roraima, cobrou na \u00faltima semana a ministra da Sa\u00fade, N\u00edsia Trindade, pela execu\u00e7\u00e3o de emendas parlamentares que ele indicou ainda em 2022. Em doi\u2026 [+4665 chars]",
-      "retrievedAt": "2024-02-05 19:05:55.000991",
-      "internal_id": "45e223e309ecaf0dcac85afaaaf978fa68203383b80bdc0068fede6818850d6f",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 5024,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Da Ag\u00eancia Brasil",
-      "title": "Tire as principais d\u00favidas sobre a vacina\u00e7\u00e3o contra dengue",
-      "description": "Na pr\u00f3xima semana, as doses come\u00e7am a ser distribu\u00eddas a 521 munic\u00edpios para iniciar a imuniza\u00e7\u00e3o na rede p\u00fablica",
-      "url": "https://noticias.r7.com/brasilia/tire-as-principais-duvidas-sobre-a-vacinacao-contra-dengue-04022024",
-      "urlToImage": "https://img.r7.com/images/vacina-dengue-qdenga-01022024105338662?crop=1178x662+104+147",
-      "publishedAt": "2024-02-04 09:26:46",
-      "content": "Vacina Qdenga foi feita pelo laborat\u00f3rio Takeda Divulga\u00e7\u00e3o/Takeda A vacina Qdenga, do laborat\u00f3rio japon\u00eas Takeda, teve seu registro aprovado pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria \u2026 [+7274 chars]",
-      "retrievedAt": "2024-02-06 07:05:37.578747",
-      "internal_id": "ff9b6ce099716125dab06d67b95e96081beb6101f0145be4c759631a620540a3",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4994,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Renata Mendes Gon\u00e7alves",
-      "title": "Vacina da dengue: tudo o que voc\u00ea precisa saber sobre imunizante",
-      "description": "Tire suas d\u00favidas sobre a vacina contra dengue que far\u00e1 parte do calend\u00e1rio de imuniza\u00e7\u00e3o do SUS a partir de fevereiro O post Vacina da dengue: tudo o que voc\u00ea precisa saber sobre imunizante apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/02/04/medicina-e-saude/vacina-da-dengue-tudo-o-que-voce-precisa-saber-sobre-imunizante/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/01/vacina-da-dengue-695x500.jpg",
-      "publishedAt": "2024-02-04 09:20:00",
-      "content": "O Governo Federal anunciou nesta quinta-feira, 01 de fevereiro, a distribui\u00e7\u00e3o da vacina contra dengue para 521 munic\u00edpios selecionados j\u00e1 na pr\u00f3xima semana. A informa\u00e7\u00e3o foi divulgada pelo diretor d\u2026 [+5986 chars]",
-      "retrievedAt": "2024-02-05 19:05:54.876721",
-      "internal_id": "33753c9968c28a5c2ad5a8f6a483b216953d1a9637bc4d8b049dbe6c462e2f6f",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 5023,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "'Aedes do bem' em casa? Mosquito com modifica\u00e7\u00e3o gen\u00e9tica para combater dengue ganha vers\u00e3o domiciliar",
-      "description": "Projeto de multinacional brit\u00e2nica de combater doen\u00e7as causadas pelo mosquito Aedes aegypti tamb\u00e9m \u00e9 executado em parcerias com governos municipais. Aedes do Bem tem vers\u00e3o mini para combater doen\u00e7as em uso residencial Felipe Tucci/Produtora S\u00e3o Paulo O proje\u2026",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/04/aedes-do-bem-em-casa-mosquito-com-modificacao-genetica-para-combater-dengue-ganha-versao-domiciliar.ghtml",
-      "urlToImage": "https://s2-g1.glbimg.com/WSerQGkHAiF1QaTwAkmfUY1VvxQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/i/b/N8CqIhRFmhLDnvrfZfqA/aedes1.jpg",
-      "publishedAt": "2024-02-04 09:00:39",
-      "content": "A informa\u00e7\u00e3o \u00e9 da multinacional brit\u00e2nica de biotecnologia respons\u00e1vel por fazer a muta\u00e7\u00e3o gen\u00e9tica do mosquito e que tem planta em Campinas (SP). A empresa tamb\u00e9m possui o projeto ativo na vers\u00e3o ma\u2026 [+8690 chars]",
-      "retrievedAt": "2024-02-06 07:05:37.574935",
-      "internal_id": "aff03a1023a8fd8d78093016636f6a61f020a3ccc30febbbff5fda44ebdc2792",
-      "publishedAtLabel": "Feb 4"
-    },
-    {
-      "id": 4999,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Presos por brote de meningitis, s\u00f3lo 2 de 8 due\u00f1os de cl\u00ednicas en Durango",
-      "description": "Durango, Dgo., Por la emergencia m\u00e9dica por meningitis as\u00e9ptica ocurrida a finales de 2022 y 2023 en la capital de Durango, que dej\u00f3 41 personas muertas, la mayor\u00eda mujeres, a la fecha s\u00f3lo dos de los ocho due\u00f1os de hospitales detenidos permanecen en el Centr\u2026",
-      "url": "https://www.jornada.com.mx/2024/02/04/estados/024n1est",
-      "urlToImage": "https://www.jornada.com.mx/2024/02/04/fotos/024n1est-1.jpg",
-      "publishedAt": "2024-02-04 08:50:00",
-      "content": "Peri\u00f3dico La JornadaDomingo 4 de febrero de 2024, p. 24 Durango, Dgo., Por la emergencia m\u00e9dica por meningitis as\u00e9ptica ocurrida a finales de 2022 y 2023 en la capital de Durango, que dej\u00f3 41 person\u2026 [+3839 chars]",
-      "retrievedAt": "2024-02-05 19:05:55.520668",
-      "internal_id": "2ff8a3b51861f086eeb2799efbc9fabec5083ae671464107afc83a8fdb3aea86",
       "publishedAtLabel": "Feb 4"
     }
   ]
