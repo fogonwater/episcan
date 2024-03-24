@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-03-24 07:05
-- **Most recent article:** 2024-03-23 02:30:00
+- **New articles in last harvest:** 12
+- **Last harvest:** 2024-03-24 19:06
+- **Most recent article:** 2024-03-23 18:36:13
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 146 | 188 | 188 | 207 | 1102 |
-| measles | 86 | 112 | 80 | 43 | 100 | 80 | 501 |
-| malaria | 15 | 23 | 17 | 19 | 33 | 17 | 124 |
-| chikungunya | 8 | 20 | 13 | 8 | 14 | 16 | 79 |
-| zika | 16 | 16 | 9 | 6 | 13 | 11 | 71 |
+| dengue | 192 | 181 | 154 | 179 | 188 | 207 | 1101 |
+| measles | 86 | 112 | 84 | 42 | 100 | 80 | 504 |
+| malaria | 15 | 23 | 17 | 18 | 33 | 17 | 123 |
+| chikungunya | 8 | 20 | 14 | 8 | 14 | 16 | 80 |
+| zika | 16 | 16 | 10 | 6 | 13 | 11 | 72 |
 | meningitis | 16 | 5 | 8 | 8 | 7 | 4 | 48 |
 | rabies | 6 | 6 | 9 | 9 | 5 | 8 | 43 |
 | sarampión | 3 | 3 | 12 | 3 | 11 | 5 | 37 |
@@ -1748,8 +1748,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
 
-- [Measles found in Haifa boy, linked to two cases reported earlier this month](https://www.jpost.com/breaking-news/article-786269) (The Jerusalem Post)
-
 ## 24-7 (malaria)
 
 - [Forskare: Möjligt att utrota malaria om tio år – om vi vill](https://www.dn.se/sverige/forskare-mojligt-att-utrota-malaria-om-tio-ar-om-vi-vill/) (Www.dn.se)
@@ -1787,8 +1785,6 @@ Source: [News API](https://newsapi.org/)
 - [Atenţionare de călătorie a MAE: Menţinerea pericolului de îmbolnăvire cu „malaria de import”](https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197) (Mediafax.ro)
 
 - [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
-
-- [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (leptospirosis)
 
@@ -2154,24 +2150,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
 
-- [Brasilien feiert Karneval und kämpft gegen das Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html) (Faz.net)
-
-- [Diminuição da urina pode ser sinal de dengue; veja os principais sintomas](https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/) (Catracalivre.com.br)
-
-- [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
-
-- [BBB 24: saúde de Davi, ameaça de desistência e choro agitam manhã](https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html) (Ig.com.br)
-
-- [Número de mortes por dengue em SP sobe para 9](https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html) (Ig.com.br)
-
-- [Brasil tem 408 mil casos prováveis de dengue em 2024](https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html) (Ig.com.br)
-
-- [Dengue: Número de casos no país chega a 408 mil, segundo Ministério da Saúde](https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml) (Globo)
-
-- [Dengue no Brasil: Mais de 60 mortes e 405 mil casos prováveis](https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024) (R7.com)
-
-- [Dengue cases down in ME06, one death reported](https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported) (The Star Online)
-
 ## 24-7 (chikungunya)
 
 - [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
@@ -2191,6 +2169,8 @@ Source: [News API](https://newsapi.org/)
 - [Death risk from chikungunya continues for up to three months: Lancet study](https://timesofindia.indiatimes.com/home/science/chikungunya-virus-increased-risk-of-death-for-up-to-three-months-says-lancet-study/articleshow/107683262.cms) (The Times of India)
 
 ## 24-12 (zika)
+
+- [Cos’è la Dengue, la “febbre spaccaossa” che ha fatto scattare l’allarme per un caso sospetto a Busto Arsizio: il contagio con una zanzara, sintomi e cure](https://www.ilfattoquotidiano.it/2024/03/23/cose-la-dengue-la-febbre-spaccaossa-che-ha-fatto-scattare-lallarme-per-un-caso-sospetto-a-busto-arsizio-il-contagio-con-una-zanzara-sintomi-e-cure/7489136/) (Ilfattoquotidiano.it)
 
 - [Como se proteger contra a dengue? Veja os principais cuidados](https://boaforma.abril.com.br/equilibrio/como-se-proteger-contra-dengue/) (Abril.com.br)
 
@@ -2309,6 +2289,14 @@ Source: [News API](https://newsapi.org/)
 - [Quiénes tienen más riesgo, qué vacunas se dan y otras respuestas ante casos de meningitis](https://www.montevideo.com.uy/Salud/Quienes-tienen-mas-riesgo-que-vacunas-se-dan-y-otras-respuestas-ante-casos-de-meningitis-uc882966) (Montevideo.com.uy)
 
 ## 24-12 (measles)
+
+- [First case of measles identified in Lake County resident, health officials warn public of exposure](https://www.lakemchenryscanner.com/2024/03/23/first-case-of-measles-identified-in-lake-county-resident-health-officials-warn-public-of-exposure/) (Lakemchenryscanner.com)
+
+- [Measles outbreak Chicago: Lake County, Illinois Health Department confirms measles case related to situation in city](https://abc7chicago.com/what-is-measles-outbreak-lake-county-illinois-chicago/14562306/) (WLS-TV)
+
+- [Long Island measles case in unvaccinated child confirmed by Nassau County Department of Health](https://abc7ny.com/new-york-measles-nassau-county-unvaccinated-child/14560364/) (WABC-TV)
+
+- [What to know about the measles vaccine — from who should get one, to how long immunity lasts](https://www.cbc.ca/news/health/what-to-know-about-the-measles-vaccine-from-who-should-get-one-to-how-long-immunity-lasts-1.7152266) (CBC News)
 
 - [Sixth case of measles confirmed in Ireland as European danger zones for the disease revealed ahead of Easter getaways](https://www.independent.ie/irish-news/sixth-case-of-measles-confirmed-in-ireland-as-european-danger-zones-for-the-disease-revealed-ahead-of-easter-getaways/a1060916098.html) (Independent.ie)
 
@@ -2507,6 +2495,22 @@ Source: [News API](https://newsapi.org/)
 - [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
 
 ## 24-12 (dengue)
+
+- [CRM indica interdição ética das tendas de hidratação para dengue no DF](https://www.metropoles.com/distrito-federal/crm-indica-interdicao-etica-tendas-hidratacao-dengue-df) (Metropoles.com)
+
+- [MSP investiga fallecimiento de paciente en Salto; podría haber tenido dengue](https://www.montevideo.com.uy/Salud/MSP-investiga-fallecimiento-de-paciente-en-Salto-podria-haber-tenido-dengue-uc883409) (Montevideo.com.uy)
+
+- [Parecida com a dengue: conheça os sintomas da febre oropouche](https://www.metropoles.com/saude/conheca-sintomas-febre-oropouche) (Metropoles.com)
+
+- [Dengue: boletim aponta tendência de queda dos casos no Rio](https://saude.ig.com.br/2024-03-23/dengue--boletim-tendencia-queda-casos-rio.html) (Ig.com.br)
+
+- [Dengue: São Paulo passa de 300 mil casos e chega a 116 mortes](https://www.metropoles.com/sao-paulo/dengue-sao-paulo-passa-300-mil-casos-chega-116-mortes) (Metropoles.com)
+
+- [Cos’è la Dengue, la “febbre spaccaossa” che ha fatto scattare l’allarme per un caso sospetto a Busto Arsizio: il contagio con una zanzara, sintomi e cure](https://www.ilfattoquotidiano.it/2024/03/23/cose-la-dengue-la-febbre-spaccaossa-che-ha-fatto-scattare-lallarme-per-un-caso-sospetto-a-busto-arsizio-il-contagio-con-una-zanzara-sintomi-e-cure/7489136/) (Ilfattoquotidiano.it)
+
+- [Sospetto caso di dengue a Busto Arsizio, prima notte di disinfestazione nei quartieri interessati. Il Comune: “Tenete le finestre chiuse”](https://www.ilfattoquotidiano.it/2024/03/23/sospetto-caso-di-dengue-a-busto-arsizio-prima-notte-di-disinfestazione-nei-quartieri-interessati-il-comune-tenete-le-finestre-chiuse/7488984/) (Ilfattoquotidiano.it)
+
+- [In un anno diciotto casi di Dengue, il Cotugno alza i livelli di attenzione](https://napoli.corriere.it/notizie/cronaca/24_marzo_23/in-un-anno-diciotto-casi-di-dengue-il-cotugno-alza-i-livelli-di-attenzione-70d76cc7-6198-4dba-b624-8cf0642d6xlk.shtml) (Corriere.it)
 
 - [25 mil mortes? Saúde desmente deputado que chamou Lula de Presidengue](https://www.metropoles.com/brasil/25-mil-mortes-saude-desmente-deputado-que-chamou-lula-de-presidengue) (Metropoles.com)
 
@@ -2801,6 +2805,8 @@ Source: [News API](https://newsapi.org/)
 - [Com alta de casos de dengue no país, saiba por que doença diminui plaquetas e o papel delas no corpo](https://noticias.r7.com/saude/com-alta-de-casos-de-dengue-no-pais-saiba-por-que-doenca-diminui-plaquetas-e-o-papel-delas-no-corpo-17032024) (R7.com)
 
 ## 24-12 (chikungunya)
+
+- [Parecida com a dengue: conheça os sintomas da febre oropouche](https://www.metropoles.com/saude/conheca-sintomas-febre-oropouche) (Metropoles.com)
 
 - [Parecida com a dengue: conheça a febre oropouche](https://www.terra.com.br/vida-e-estilo/saude/parecida-com-a-dengue-conheca-a-febre-oropouche,0ec14b0801e2a0ffecd68aaf5aad7413wq0rf7at.html) (Terra.com.br)
 
