@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2024-03-25 07:05
-- **Most recent article:** 2024-03-24 02:42:09
+- **New articles in last harvest:** 5
+- **Last harvest:** 2024-03-25 19:05
+- **Most recent article:** 2024-03-24 15:00:00
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 171 | 1 | 188 | 188 | 207 | 1128 |
-| measles | 86 | 112 | 87 | 0 | 43 | 100 | 80 | 508 |
-| malaria | 15 | 23 | 18 | 0 | 19 | 33 | 17 | 125 |
-| chikungunya | 8 | 20 | 15 | 0 | 8 | 14 | 16 | 81 |
-| zika | 16 | 16 | 12 | 0 | 6 | 13 | 11 | 74 |
+| dengue | 192 | 181 | 171 | 4 | 179 | 188 | 207 | 1122 |
+| measles | 86 | 112 | 87 | 0 | 42 | 100 | 80 | 507 |
+| malaria | 15 | 23 | 18 | 0 | 18 | 33 | 17 | 124 |
+| chikungunya | 8 | 20 | 15 | 1 | 8 | 14 | 16 | 82 |
+| zika | 16 | 16 | 12 | 2 | 6 | 13 | 11 | 76 |
 | meningitis | 16 | 5 | 8 | 0 | 8 | 7 | 4 | 48 |
 | rabies | 6 | 6 | 9 | 0 | 9 | 5 | 8 | 43 |
 | sarampión | 3 | 3 | 12 | 0 | 3 | 11 | 5 | 37 |
@@ -1748,8 +1748,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
 
-- [Measles found in Haifa boy, linked to two cases reported earlier this month](https://www.jpost.com/breaking-news/article-786269) (The Jerusalem Post)
-
 ## 24-7 (malaria)
 
 - [Forskare: Möjligt att utrota malaria om tio år – om vi vill](https://www.dn.se/sverige/forskare-mojligt-att-utrota-malaria-om-tio-ar-om-vi-vill/) (Www.dn.se)
@@ -1787,8 +1785,6 @@ Source: [News API](https://newsapi.org/)
 - [Atenţionare de călătorie a MAE: Menţinerea pericolului de îmbolnăvire cu „malaria de import”](https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197) (Mediafax.ro)
 
 - [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
-
-- [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (leptospirosis)
 
@@ -2154,24 +2150,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
 
-- [Brasilien feiert Karneval und kämpft gegen das Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html) (Faz.net)
-
-- [Diminuição da urina pode ser sinal de dengue; veja os principais sintomas](https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/) (Catracalivre.com.br)
-
-- [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
-
-- [BBB 24: saúde de Davi, ameaça de desistência e choro agitam manhã](https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html) (Ig.com.br)
-
-- [Número de mortes por dengue em SP sobe para 9](https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html) (Ig.com.br)
-
-- [Brasil tem 408 mil casos prováveis de dengue em 2024](https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html) (Ig.com.br)
-
-- [Dengue: Número de casos no país chega a 408 mil, segundo Ministério da Saúde](https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml) (Globo)
-
-- [Dengue no Brasil: Mais de 60 mortes e 405 mil casos prováveis](https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024) (R7.com)
-
-- [Dengue cases down in ME06, one death reported](https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported) (The Star Online)
-
 ## 24-7 (chikungunya)
 
 - [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
@@ -2190,9 +2168,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Death risk from chikungunya continues for up to three months: Lancet study](https://timesofindia.indiatimes.com/home/science/chikungunya-virus-increased-risk-of-death-for-up-to-three-months-says-lancet-study/articleshow/107683262.cms) (The Times of India)
 
+## 24-13 (zika)
+
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
+
+- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
+
 ## 24-13 (dengue)
 
+- [Entenda por que ainda é preciso vacinar contra a Covid-19](https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/) (Dinheirama.com)
+
+- [Laboratorio de la Udelar en Salto colaborará con el MSP en diagnóstico de dengue](https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462) (Montevideo.com.uy)
+
+- [Dengue: desigualdade social e mudanças climáticas colaboram para surto](https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html) (Ig.com.br)
+
 - [Race is on to make Paris Olympics mosquito-free](https://www.channelnewsasia.com/sport/paris-olympics-tiger-mosquito-free-dengue-zika-4217931) (CNA)
+
+## 24-13 (chikungunya)
+
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
 
 ## 24-12 (zika)
 
