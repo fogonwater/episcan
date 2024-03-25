@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-03-24 19:06
-- **Most recent article:** 2024-03-23 18:36:13
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-03-25 07:05
+- **Most recent article:** 2024-03-24 02:42:09
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-10 | 24-11 | 24-12 | 24-7 | 24-8 | 24-9 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 154 | 179 | 188 | 207 | 1101 |
-| measles | 86 | 112 | 84 | 42 | 100 | 80 | 504 |
-| malaria | 15 | 23 | 17 | 18 | 33 | 17 | 123 |
-| chikungunya | 8 | 20 | 14 | 8 | 14 | 16 | 80 |
-| zika | 16 | 16 | 10 | 6 | 13 | 11 | 72 |
-| meningitis | 16 | 5 | 8 | 8 | 7 | 4 | 48 |
-| rabies | 6 | 6 | 9 | 9 | 5 | 8 | 43 |
-| sarampión | 3 | 3 | 12 | 3 | 11 | 5 | 37 |
-| mpox | 5 | 8 | 4 | 8 | 6 | 1 | 32 |
-| pertussis | 4 | 5 | 3 | 6 | 0 | 4 | 22 |
-| yersinia | 1 | 3 | 3 | 2 | 1 | 1 | 11 |
-| typhoid | 0 | 0 | 1 | 2 | 2 | 1 | 6 |
-| shigellosis | 0 | 2 | 1 | 0 | 0 | 1 | 4 |
-| leptospirosis | 0 | 1 | 0 | 1 | 0 | 2 | 4 |
+| Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-7 | 24-8 | 24-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 192 | 181 | 171 | 1 | 188 | 188 | 207 | 1128 |
+| measles | 86 | 112 | 87 | 0 | 43 | 100 | 80 | 508 |
+| malaria | 15 | 23 | 18 | 0 | 19 | 33 | 17 | 125 |
+| chikungunya | 8 | 20 | 15 | 0 | 8 | 14 | 16 | 81 |
+| zika | 16 | 16 | 12 | 0 | 6 | 13 | 11 | 74 |
+| meningitis | 16 | 5 | 8 | 0 | 8 | 7 | 4 | 48 |
+| rabies | 6 | 6 | 9 | 0 | 9 | 5 | 8 | 43 |
+| sarampión | 3 | 3 | 12 | 0 | 3 | 11 | 5 | 37 |
+| mpox | 5 | 8 | 4 | 0 | 8 | 6 | 1 | 32 |
+| pertussis | 4 | 5 | 3 | 0 | 6 | 0 | 4 | 22 |
+| yersinia | 1 | 3 | 3 | 0 | 2 | 1 | 1 | 11 |
+| typhoid | 0 | 0 | 1 | 0 | 2 | 2 | 1 | 6 |
+| shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
+| leptospirosis | 0 | 1 | 0 | 0 | 1 | 0 | 2 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -1748,6 +1748,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
 
+- [Measles found in Haifa boy, linked to two cases reported earlier this month](https://www.jpost.com/breaking-news/article-786269) (The Jerusalem Post)
+
 ## 24-7 (malaria)
 
 - [Forskare: Möjligt att utrota malaria om tio år – om vi vill](https://www.dn.se/sverige/forskare-mojligt-att-utrota-malaria-om-tio-ar-om-vi-vill/) (Www.dn.se)
@@ -1785,6 +1787,8 @@ Source: [News API](https://newsapi.org/)
 - [Atenţionare de călătorie a MAE: Menţinerea pericolului de îmbolnăvire cu „malaria de import”](https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197) (Mediafax.ro)
 
 - [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
+
+- [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (leptospirosis)
 
@@ -2150,6 +2154,24 @@ Source: [News API](https://newsapi.org/)
 
 - [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
 
+- [Brasilien feiert Karneval und kämpft gegen das Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html) (Faz.net)
+
+- [Diminuição da urina pode ser sinal de dengue; veja os principais sintomas](https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/) (Catracalivre.com.br)
+
+- [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
+
+- [BBB 24: saúde de Davi, ameaça de desistência e choro agitam manhã](https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html) (Ig.com.br)
+
+- [Número de mortes por dengue em SP sobe para 9](https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html) (Ig.com.br)
+
+- [Brasil tem 408 mil casos prováveis de dengue em 2024](https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html) (Ig.com.br)
+
+- [Dengue: Número de casos no país chega a 408 mil, segundo Ministério da Saúde](https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml) (Globo)
+
+- [Dengue no Brasil: Mais de 60 mortes e 405 mil casos prováveis](https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024) (R7.com)
+
+- [Dengue cases down in ME06, one death reported](https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported) (The Star Online)
+
 ## 24-7 (chikungunya)
 
 - [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
@@ -2168,7 +2190,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Death risk from chikungunya continues for up to three months: Lancet study](https://timesofindia.indiatimes.com/home/science/chikungunya-virus-increased-risk-of-death-for-up-to-three-months-says-lancet-study/articleshow/107683262.cms) (The Times of India)
 
+## 24-13 (dengue)
+
+- [Race is on to make Paris Olympics mosquito-free](https://www.channelnewsasia.com/sport/paris-olympics-tiger-mosquito-free-dengue-zika-4217931) (CNA)
+
 ## 24-12 (zika)
+
+- [Em pesquisa, zika vírus é modificado e tem sucesso na cura de tumor cerebral](https://noticias.r7.com/jr-na-tv/videos/em-pesquisa-zika-virus-e-modificado-e-tem-sucesso-na-cura-de-tumor-cerebral-23032024) (R7.com)
+
+- [Campinas chega a 27 mil casos de dengue em 2024 e supera terceira pior epidemia da série histórica](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/23/campinas-chega-a-27-mil-casos-de-dengue-em-2024-e-supera-terceira-pior-epidemia-da-serie-historica.ghtml) (Globo)
 
 - [Cos’è la Dengue, la “febbre spaccaossa” che ha fatto scattare l’allarme per un caso sospetto a Busto Arsizio: il contagio con una zanzara, sintomi e cure](https://www.ilfattoquotidiano.it/2024/03/23/cose-la-dengue-la-febbre-spaccaossa-che-ha-fatto-scattare-lallarme-per-un-caso-sospetto-a-busto-arsizio-il-contagio-con-una-zanzara-sintomi-e-cure/7489136/) (Ilfattoquotidiano.it)
 
@@ -2289,6 +2319,12 @@ Source: [News API](https://newsapi.org/)
 - [Quiénes tienen más riesgo, qué vacunas se dan y otras respuestas ante casos de meningitis](https://www.montevideo.com.uy/Salud/Quienes-tienen-mas-riesgo-que-vacunas-se-dan-y-otras-respuestas-ante-casos-de-meningitis-uc882966) (Montevideo.com.uy)
 
 ## 24-12 (measles)
+
+- [SA Health issues alert after baby contracts measles](https://www.abc.net.au/news/2024-03-24/sa-measles-case-in-baby/103625296) (ABC News (AU))
+
+- [Spring Measles Outbreak: Is It Safe to Travel to Florida?](https://www.webmd.com/children/news/20240320/spring-measles-outbreak-is-it-safe-to-travel-to-florida) (WebMD)
+
+- [Lake County resident tests positive for measles, health department says](https://www.fox32chicago.com/news/lake-county-measles) (FOX 32 Chicago)
 
 - [First case of measles identified in Lake County resident, health officials warn public of exposure](https://www.lakemchenryscanner.com/2024/03/23/first-case-of-measles-identified-in-lake-county-resident-health-officials-warn-public-of-exposure/) (Lakemchenryscanner.com)
 
@@ -2460,6 +2496,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-12 (malaria)
 
+- [Confirman en Coahuila caso de malaria en una mujer embarazada](https://www.record.com.mx/contra/confirman-en-coahuila-caso-de-malaria-en-una-mujer-embarazada) (Record.com.mx)
+
 - [Zwei von drei Malaria-Toten sind Kinder: Neuer Impfstoff könnte das Sterben stoppen](https://www.tagesspiegel.de/wissen/zwei-von-drei-malaria-toten-sind-kinder-neuer-impfstoff-konnte-das-sterben-stoppen-11410277.html) (Der Tagesspiegel)
 
 - [Scoring systems for prediction of malaria and dengue fever in non-endemic areas among travellers arriving from tropical and subtropical areas](https://emj.bmj.com/content/41/4/242) (The BMJ)
@@ -2496,11 +2534,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-12 (dengue)
 
+- [Ministra da Saúde culpa clima pelo aumento de mortes por dengue no Brasil](https://noticias.r7.com/brasil/revista-oeste/ministra-da-saude-culpa-clima-pelo-aumento-de-mortes-por-dengue-no-brasil-23032024) (R7.com)
+
 - [CRM indica interdição ética das tendas de hidratação para dengue no DF](https://www.metropoles.com/distrito-federal/crm-indica-interdicao-etica-tendas-hidratacao-dengue-df) (Metropoles.com)
 
 - [MSP investiga fallecimiento de paciente en Salto; podría haber tenido dengue](https://www.montevideo.com.uy/Salud/MSP-investiga-fallecimiento-de-paciente-en-Salto-podria-haber-tenido-dengue-uc883409) (Montevideo.com.uy)
 
 - [Parecida com a dengue: conheça os sintomas da febre oropouche](https://www.metropoles.com/saude/conheca-sintomas-febre-oropouche) (Metropoles.com)
+
+- [Dengue: São Paulo atinge marca de 115 mortes pela doença](https://saude.ig.com.br/2024-03-23/sp-casos-dengue-mortes.html) (Ig.com.br)
 
 - [Dengue: boletim aponta tendência de queda dos casos no Rio](https://saude.ig.com.br/2024-03-23/dengue--boletim-tendencia-queda-casos-rio.html) (Ig.com.br)
 
@@ -2508,21 +2550,37 @@ Source: [News API](https://newsapi.org/)
 
 - [Cos’è la Dengue, la “febbre spaccaossa” che ha fatto scattare l’allarme per un caso sospetto a Busto Arsizio: il contagio con una zanzara, sintomi e cure](https://www.ilfattoquotidiano.it/2024/03/23/cose-la-dengue-la-febbre-spaccaossa-che-ha-fatto-scattare-lallarme-per-un-caso-sospetto-a-busto-arsizio-il-contagio-con-una-zanzara-sintomi-e-cure/7489136/) (Ilfattoquotidiano.it)
 
+- [EPTV e prefeituras da região de Campinas fazem segundo mutirão de combate à dengue neste sábado](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/23/eptv-e-prefeituras-da-regiao-de-campinas-fazem-segundo-mutirao-de-combate-a-dengue-neste-sabado.ghtml) (Globo)
+
 - [Sospetto caso di dengue a Busto Arsizio, prima notte di disinfestazione nei quartieri interessati. Il Comune: “Tenete le finestre chiuse”](https://www.ilfattoquotidiano.it/2024/03/23/sospetto-caso-di-dengue-a-busto-arsizio-prima-notte-di-disinfestazione-nei-quartieri-interessati-il-comune-tenete-le-finestre-chiuse/7488984/) (Ilfattoquotidiano.it)
 
 - [In un anno diciotto casi di Dengue, il Cotugno alza i livelli di attenzione](https://napoli.corriere.it/notizie/cronaca/24_marzo_23/in-un-anno-diciotto-casi-di-dengue-il-cotugno-alza-i-livelli-di-attenzione-70d76cc7-6198-4dba-b624-8cf0642d6xlk.shtml) (Corriere.it)
+
+- [Saúde desmente deputado que mostrou boneco de Lula com corpo de mosquito da dengue durante sessão](https://www.terra.com.br/noticias/brasil/politica/saude-desmente-deputado-que-mostrou-boneco-de-lula-com-corpo-de-mosquito-da-dengue-durante-sessao,f7cb3a12ffc94b40f202c68dab92862b9c6fx46j.html) (Terra.com.br)
 
 - [25 mil mortes? Saúde desmente deputado que chamou Lula de Presidengue](https://www.metropoles.com/brasil/25-mil-mortes-saude-desmente-deputado-que-chamou-lula-de-presidengue) (Metropoles.com)
 
 - [Parecida com a dengue: conheça a febre oropouche](https://www.terra.com.br/vida-e-estilo/saude/parecida-com-a-dengue-conheca-a-febre-oropouche,0ec14b0801e2a0ffecd68aaf5aad7413wq0rf7at.html) (Terra.com.br)
 
+- [Álcool, cravo e óleo de citronela: qual o melhor repelente caseiro contra a dengue?](https://brasil.perfil.com/saude/alcool-cravo-e-oleo-de-citronela-qual-o-melhor-repelente-caseiro-contra-a-dengue.phtml) (Perfil.com)
+
+- [Cientistas brasileiros testam novo antiviral contra a dengue em parceria com Universidade de Stanford](https://super.abril.com.br/saude/cientistas-brasileiros-testam-novo-antiviral-contra-a-dengue-em-parceria-com-universidade-de-stanford) (Abril.com.br)
+
 - [Como se proteger contra a dengue? Veja os principais cuidados](https://boaforma.abril.com.br/equilibrio/como-se-proteger-contra-dengue/) (Abril.com.br)
+
+- [Alunos de farmácia desenvolvem repelente sustentável](https://www.terra.com.br/noticias/alunos-de-farmacia-desenvolvem-repelente-sustentavel,06d2785bc68cca8f3c3d80002de4c046b4ebtl3y.html) (Terra.com.br)
 
 - [Los casos de dengue en Perú rozan los 80.000 en lo que va de 2024, 262 % más que en 2023](https://elmercurio.com.ec/2024/03/22/los-casos-de-dengue-en-peru-rozan-los-80-000-en-lo-que-va-de-2024-262-mas-que-en-2023/) (Elmercurio.com.ec)
 
+- [Busto Arsizio, sospetto caso di Dengue: il Comune avvia tre giorni di disinfestazione straordinaria](https://www.ilfattoquotidiano.it/2024/03/22/busto-arsizio-sospetto-caso-di-dengue-il-comune-avvia-tre-giorni-di-disinfestazione-straordinaria/7488449/) (Ilfattoquotidiano.it)
+
 - [Brasil registra mais de 2 milhões de casos de dengue](https://dinheirama.com/brasil-registra-mais-de-2-milhoes-de-casos-de-dengue/) (Dinheirama.com)
 
+- [Dengue: como os mosquitos 'Aedes' decidem onde colocar seus ovos](https://www.terra.com.br/byte/ciencia/dengue-como-os-mosquitos-aedes-decidem-onde-colocar-seus-ovos,72e44f9cf5530544593833d08f2acec8rfk0o8qu.html) (Terra.com.br)
+
 - [Brasil supera los 2 millones de casos de dengue en lo que va de 2024](https://sputniknews.lat/20240322/brasil-supera-los-2-millones-de-casos-de-dengue-en-lo-que-va-de-2024-1149151651.html) (Sputniknews.lat)
+
+- [Cómo enfrenta Brasil el peor momento de la epidemia de dengue](https://www.lanacion.com.ar/sociedad/como-enfrenta-brasil-el-peor-momento-de-la-epidemia-de-dengue-nid22032024/) (La Nacion)
 
 - [Dengue, in Campania alzati i livelli di attenzione: il Cotugno attiva percorso separato](https://napoli.corriere.it/notizie/cronaca/24_marzo_22/dengue-in-campania-alzati-i-livelli-di-attenzione-il-cotugno-attiva-percorso-separato-a1d6af15-9257-4bf1-9b33-e3ca5bc38xlk.shtml) (Corriere.it)
 
@@ -2560,9 +2618,13 @@ Source: [News API](https://newsapi.org/)
 
 - [UPAs na zona norte de São Paulo vivem caos com aumento de pacientes com sintomas de dengue](https://jornaldebrasilia.com.br/noticias/brasil/upas-na-zona-norte-de-sao-paulo-vivem-caos-com-aumento-de-pacientes-com-sintomas-de-dengue/) (Jornaldebrasilia.com.br)
 
+- [Brasil ultrapassa 2 milhões de casos prováveis de dengue](https://valor.globo.com/brasil/noticia/2024/03/21/brasil-ultrapassa-2-milhes-de-casos-provveis-de-dengue.ghtml) (Globo)
+
 - [Lucha contra el dengue usando drones llenos de mosquitos estériles](https://wwwhatsnew.com/2024/03/21/lucha-contra-el-dengue-usando-drones-llenos-de-mosquitos-esteriles/) (Wwwhatsnew.com)
 
 - [Deputado de Pernambuco chama Lula de “presidengue”. Vídeo](https://www.metropoles.com/brasil/deputado-de-pernambuco-chama-lula-de-presidengue-video) (Metropoles.com)
+
+- [Cuatro autóctonos y seis importados nuevos: casos totales de dengue en Uruguay suben a 124](https://www.montevideo.com.uy/Salud/Cuatro-autoctonos-y-seis-importados-nuevos-casos-totales-de-dengue-en-Uruguay-suben-a-124-uc883227) (Montevideo.com.uy)
 
 - [Dengue: Brasil supera marca de 2 milhões de casos em 2024](https://saude.ig.com.br/2024-03-21/dengue--brasil-supera-marca-de-2-milhoes-de-casos-em-2024.html) (Ig.com.br)
 
@@ -2586,9 +2648,19 @@ Source: [News API](https://newsapi.org/)
 
 - [This startup wants to fight growing global dengue outbreaks with drones](https://www.technologyreview.com/2024/03/21/1090033/startup-fight-dengue-drones/) (MIT Technology Review)
 
+- [Águas de Lindoia confirma primeira morte por dengue em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/21/aguas-de-lindoia-confirma-primeira-morte-por-dengue-em-2024.ghtml) (Globo)
+
+- [Press release: Travel-associated infections approaching pre-pandemic levels](https://www.gov.uk/government/news/travel-associated-infections-approaching-pre-pandemic-levels) (Www.gov.uk)
+
+- [Rio inicia campanha contra a gripe para grupos prioritários nesta quinta-feira (21)](https://noticias.r7.com/rio-de-janeiro/rio-inicia-campanha-contra-a-gripe-para-grupos-prioritarios-nesta-quinta-21-21032024) (R7.com)
+
 - [Dengue outbreak in Argentina on track to break records](https://www.moneycontrol.com/news/world/dengue-outbreak-in-argentina-on-track-to-break-records-12501491.html) (Moneycontrol)
 
+- [País se aproxima de 2 milhões de casos de dengue](https://valor.globo.com/impresso/noticia/2024/03/21/pais-se-aproxima-de-2-milhoes-de-casos-de-dengue.ghtml) (Globo)
+
 - [Tive dengue. Quando posso voltar a treinar na academia?](https://www.metropoles.com/saude/tive-dengue-quando-posso-voltar-malhar) (Metropoles.com)
+
+- [Estudiantes: el nuevo parte médico de Javier Altamirano y su traslado, y un caso de dengue en el plantel](https://www.lanacion.com.ar/deportes/futbol/estudiantes-el-nuevo-parte-medico-de-javier-altamirano-y-su-traslado-y-un-caso-de-dengue-en-el-nid21032024/) (La Nacion)
 
 - [El dengue va ganando la partida](https://www.nacion.com/opinion/columnistas/el-dengue-va-ganando-la-partida/P57EDS5DKZEG7LZ5WQ7WZOB2VI/story/) (Nacion.com)
 
@@ -2805,6 +2877,8 @@ Source: [News API](https://newsapi.org/)
 - [Com alta de casos de dengue no país, saiba por que doença diminui plaquetas e o papel delas no corpo](https://noticias.r7.com/saude/com-alta-de-casos-de-dengue-no-pais-saiba-por-que-doenca-diminui-plaquetas-e-o-papel-delas-no-corpo-17032024) (R7.com)
 
 ## 24-12 (chikungunya)
+
+- [Campinas chega a 27 mil casos de dengue em 2024 e supera terceira pior epidemia da série histórica](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/23/campinas-chega-a-27-mil-casos-de-dengue-em-2024-e-supera-terceira-pior-epidemia-da-serie-historica.ghtml) (Globo)
 
 - [Parecida com a dengue: conheça os sintomas da febre oropouche](https://www.metropoles.com/saude/conheca-sintomas-febre-oropouche) (Metropoles.com)
 
