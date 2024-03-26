@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2024-03-25 19:05
-- **Most recent article:** 2024-03-24 15:00:00
+- **New articles in last harvest:** 12
+- **Last harvest:** 2024-03-26 07:06
+- **Most recent article:** 2024-03-25 06:26:04
 
 ---
 
@@ -12,9 +12,9 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 171 | 4 | 179 | 188 | 207 | 1122 |
-| measles | 86 | 112 | 87 | 0 | 42 | 100 | 80 | 507 |
-| malaria | 15 | 23 | 18 | 0 | 18 | 33 | 17 | 124 |
+| dengue | 192 | 181 | 180 | 10 | 188 | 188 | 207 | 1146 |
+| measles | 86 | 112 | 87 | 0 | 43 | 100 | 80 | 508 |
+| malaria | 15 | 23 | 18 | 0 | 19 | 33 | 17 | 125 |
 | chikungunya | 8 | 20 | 15 | 1 | 8 | 14 | 16 | 82 |
 | zika | 16 | 16 | 12 | 2 | 6 | 13 | 11 | 76 |
 | meningitis | 16 | 5 | 8 | 0 | 8 | 7 | 4 | 48 |
@@ -1748,6 +1748,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
 
+- [Measles found in Haifa boy, linked to two cases reported earlier this month](https://www.jpost.com/breaking-news/article-786269) (The Jerusalem Post)
+
 ## 24-7 (malaria)
 
 - [Forskare: Möjligt att utrota malaria om tio år – om vi vill](https://www.dn.se/sverige/forskare-mojligt-att-utrota-malaria-om-tio-ar-om-vi-vill/) (Www.dn.se)
@@ -1785,6 +1787,8 @@ Source: [News API](https://newsapi.org/)
 - [Atenţionare de călătorie a MAE: Menţinerea pericolului de îmbolnăvire cu „malaria de import”](https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197) (Mediafax.ro)
 
 - [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
+
+- [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (leptospirosis)
 
@@ -2150,6 +2154,24 @@ Source: [News API](https://newsapi.org/)
 
 - [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
 
+- [Brasilien feiert Karneval und kämpft gegen das Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html) (Faz.net)
+
+- [Diminuição da urina pode ser sinal de dengue; veja os principais sintomas](https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/) (Catracalivre.com.br)
+
+- [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
+
+- [BBB 24: saúde de Davi, ameaça de desistência e choro agitam manhã](https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html) (Ig.com.br)
+
+- [Número de mortes por dengue em SP sobe para 9](https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html) (Ig.com.br)
+
+- [Brasil tem 408 mil casos prováveis de dengue em 2024](https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html) (Ig.com.br)
+
+- [Dengue: Número de casos no país chega a 408 mil, segundo Ministério da Saúde](https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml) (Globo)
+
+- [Dengue no Brasil: Mais de 60 mortes e 405 mil casos prováveis](https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024) (R7.com)
+
+- [Dengue cases down in ME06, one death reported](https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported) (The Star Online)
+
 ## 24-7 (chikungunya)
 
 - [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
@@ -2176,9 +2198,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-13 (dengue)
 
+- [Casos de dengue foram maiores em cidades com temperaturas mais altas, mostra estudo](https://jornaldebrasilia.com.br/noticias/brasil/casos-de-dengue-foram-maiores-em-cidades-com-temperaturas-mais-altas-mostra-estudo/) (Jornaldebrasilia.com.br)
+
+- [Dengue tem tudo a ver com calor, mostra pesquisa em MG](https://tecnologia.ig.com.br/parceiros/canaltech/2024-03-25/dengue-tem-tudo-a-ver-com-calor--mostra-pesquisa-em-mg.html) (Ig.com.br)
+
+- [Santa Fe: reportaron la muerte de un chico de seis años por dengue](https://www.lanacion.com.ar/sociedad/santa-fe-reportaron-la-muerte-de-un-chico-de-seis-anos-por-dengue-nid24032024/) (La Nacion)
+
+- [El mapa del dengue: ya se notificaron más de 200.000 casos en el país](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/) (La Nacion)
+
 - [Entenda por que ainda é preciso vacinar contra a Covid-19](https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/) (Dinheirama.com)
 
 - [Laboratorio de la Udelar en Salto colaborará con el MSP en diagnóstico de dengue](https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462) (Montevideo.com.uy)
+
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
+
+- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
 
 - [Dengue: desigualdade social e mudanças climáticas colaboram para surto](https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html) (Ig.com.br)
 
@@ -2530,6 +2564,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Ministra da Saúde culpa clima pelo aumento de mortes por dengue no Brasil](https://noticias.r7.com/brasil/revista-oeste/ministra-da-saude-culpa-clima-pelo-aumento-de-mortes-por-dengue-no-brasil-23032024) (R7.com)
 
+- [Campinas chega a 27 mil casos de dengue em 2024 e supera terceira pior epidemia da série histórica](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/23/campinas-chega-a-27-mil-casos-de-dengue-em-2024-e-supera-terceira-pior-epidemia-da-serie-historica.ghtml) (Globo)
+
+- [La peor epidemia. Cómo se preparan la Capital y la provincia de Buenos Aires para enfrentar el pico de casos de dengue](https://www.lanacion.com.ar/sociedad/la-peor-epidemia-como-se-preparan-la-capital-y-la-provincia-de-buenos-aires-para-enfrentar-el-pico-nid23032024/) (La Nacion)
+
 - [CRM indica interdição ética das tendas de hidratação para dengue no DF](https://www.metropoles.com/distrito-federal/crm-indica-interdicao-etica-tendas-hidratacao-dengue-df) (Metropoles.com)
 
 - [MSP investiga fallecimiento de paciente en Salto; podría haber tenido dengue](https://www.montevideo.com.uy/Salud/MSP-investiga-fallecimiento-de-paciente-en-Salto-podria-haber-tenido-dengue-uc883409) (Montevideo.com.uy)
@@ -2554,7 +2592,11 @@ Source: [News API](https://newsapi.org/)
 
 - [25 mil mortes? Saúde desmente deputado que chamou Lula de Presidengue](https://www.metropoles.com/brasil/25-mil-mortes-saude-desmente-deputado-que-chamou-lula-de-presidengue) (Metropoles.com)
 
+- [JO-2024 : la chasse aux moustiques-tigres dans les starting-blocks](https://www.france24.com/fr/info-en-continu/20240322-jo-2024-la-chasse-aux-moustiques-tigres-dans-les-starting-blocks) (FRANCE 24 English)
+
 - [Parecida com a dengue: conheça a febre oropouche](https://www.terra.com.br/vida-e-estilo/saude/parecida-com-a-dengue-conheca-a-febre-oropouche,0ec14b0801e2a0ffecd68aaf5aad7413wq0rf7at.html) (Terra.com.br)
+
+- [De febre a manchas vermelhas na pele: veja sintomas de dengue mais e menos comuns em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/22/de-febre-a-manchas-vermelhas-na-pele-veja-sintomas-de-dengue-mais-e-menos-comuns-em-campinas.ghtml) (Globo)
 
 - [Álcool, cravo e óleo de citronela: qual o melhor repelente caseiro contra a dengue?](https://brasil.perfil.com/saude/alcool-cravo-e-oleo-de-citronela-qual-o-melhor-repelente-caseiro-contra-a-dengue.phtml) (Perfil.com)
 
@@ -2576,9 +2618,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Cómo enfrenta Brasil el peor momento de la epidemia de dengue](https://www.lanacion.com.ar/sociedad/como-enfrenta-brasil-el-peor-momento-de-la-epidemia-de-dengue-nid22032024/) (La Nacion)
 
+- [Plantas aromáticas ajudam no combate à dengue; entenda](https://noticias.r7.com/record-news/videos/plantas-aromaticas-ajudam-no-combate-a-dengue-entenda-22032024) (R7.com)
+
 - [Dengue, in Campania alzati i livelli di attenzione: il Cotugno attiva percorso separato](https://napoli.corriere.it/notizie/cronaca/24_marzo_22/dengue-in-campania-alzati-i-livelli-di-attenzione-il-cotugno-attiva-percorso-separato-a1d6af15-9257-4bf1-9b33-e3ca5bc38xlk.shtml) (Corriere.it)
 
 - [Litoral Norte gaúcho registra sua primeira morte por dengue](https://www.terra.com.br/noticias/litoral-norte-gaucho-registra-sua-primeira-morte-por-dengue,00387ae16ec42c826f9d5fa671367dbae214txba.html) (Terra.com.br)
+
+- [Sospetto caso di Dengue nel Varesotto, maxi disinfestazione](https://www.ansa.it/lombardia/notizie/2024/03/22/sospetto-caso-di-dengue-nel-varesotto-maxi-disinfestazione_b8ecdda8-f36f-4739-9784-e0989440b616.html) (ANSA.it)
+
+- [Dengue: como os mosquitos “Aedes” decidem onde colocar seus ovos](https://www.correiodopovo.com.br/not%C3%ADcias/sa%C3%BAde/dengue-como-os-mosquitos-aedes-decidem-onde-colocar-seus-ovos-1.1477201) (Correiodopovo.com.br)
 
 - [Brasil atinge 2 milhões de casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-atinge-2-milhoes-de-casos-provaveis-de-dengue,25ad4d3d18520dc45893e02abc177aafpzy3vijc.html) (Terra.com.br)
 
@@ -2587,6 +2635,8 @@ Source: [News API](https://newsapi.org/)
 - [Brasil atinge maior número de casos de dengue em apenas três meses de 2024](https://www.terra.com.br/vida-e-estilo/saude/brasil-atinge-maior-numero-de-casos-de-dengue-em-apenas-tres-meses-de-2024,1322f9daff785bf71b6c91591c2f65368oeizwgg.html) (Terra.com.br)
 
 - [Dengue: Brasil chega a 2 milhões de casos em 2024 e quebra recorde](https://olhardigital.com.br/2024/03/22/medicina-e-saude/dengue-brasil-chega-a-2-milhoes-de-casos-em-2024-e-quebra-recorde-historico/) (Olhardigital.com.br)
+
+- [Porto Alegre terá força-tarefa contra a dengue em ação nas Zonas Sul, Norte e Leste neste sábado](https://www.terra.com.br/noticias/porto-alegre-tera-forca-tarefa-contra-a-dengue-em-acao-nas-zonas-sul-norte-e-leste-neste-sabado,0b79571638a5d8065a349e5e96d919ecqisib0j5.html) (Terra.com.br)
 
 - [Dengue outbreak in Argentina on track to break records](https://timesofindia.indiatimes.com/world/rest-of-world/dengue-outbreak-in-argentina-on-track-to-break-records/articleshow/108712485.cms) (The Times of India)
 
@@ -2597,6 +2647,8 @@ Source: [News API](https://newsapi.org/)
 - [Itália emite alerta para reforço de medidas contra dengue](https://www.terra.com.br/noticias/mundo/italia-emite-alerta-para-reforco-de-medidas-contra-dengue,fb209b2acc2beb34873119ef22a187f9kfqlrhaq.html) (Terra.com.br)
 
 - [In Brasile la dengue supera i 2 milioni di casi, è record](https://www.ansa.it/sito/notizie/topnews/2024/03/22/in-brasile-la-dengue-supera-i-2-milioni-di-casi-e-record_1c21d553-667a-4e60-a1ea-8599e0e65941.html) (ANSA.it)
+
+- [Alimentação para quem está com dengue exige atenção: saiba mais](https://saudelab.com/alimentacao-para-quem-esta-com-dengue/) (Saudelab.com)
 
 - [Ministero alle Regioni, contro la Dengue sorveglianza e bonifiche](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/03/22/ministero-a-regionicontro-dengue-sorveglianza-e-bonifiche_b5450d4b-af46-443f-b845-c1f6b16d0458.html) (ANSA.it)
 
