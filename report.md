@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-03-26 07:06
-- **Most recent article:** 2024-03-25 06:26:04
+- **New articles in last harvest:** 30
+- **Last harvest:** 2024-03-26 19:05
+- **Most recent article:** 2024-03-25 19:00:35
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 10 | 188 | 188 | 207 | 1146 |
-| measles | 86 | 112 | 87 | 0 | 43 | 100 | 80 | 508 |
-| malaria | 15 | 23 | 18 | 0 | 19 | 33 | 17 | 125 |
-| chikungunya | 8 | 20 | 15 | 1 | 8 | 14 | 16 | 82 |
-| zika | 16 | 16 | 12 | 2 | 6 | 13 | 11 | 76 |
+| dengue | 192 | 181 | 180 | 21 | 179 | 188 | 207 | 1148 |
+| measles | 86 | 112 | 87 | 13 | 42 | 100 | 80 | 520 |
+| malaria | 15 | 23 | 18 | 0 | 18 | 33 | 17 | 124 |
+| chikungunya | 8 | 20 | 15 | 3 | 8 | 14 | 16 | 84 |
+| zika | 16 | 16 | 12 | 7 | 6 | 13 | 11 | 81 |
 | meningitis | 16 | 5 | 8 | 0 | 8 | 7 | 4 | 48 |
 | rabies | 6 | 6 | 9 | 0 | 9 | 5 | 8 | 43 |
-| sarampión | 3 | 3 | 12 | 0 | 3 | 11 | 5 | 37 |
-| mpox | 5 | 8 | 4 | 0 | 8 | 6 | 1 | 32 |
-| pertussis | 4 | 5 | 3 | 0 | 6 | 0 | 4 | 22 |
+| sarampión | 3 | 3 | 12 | 2 | 3 | 11 | 5 | 39 |
+| mpox | 5 | 8 | 4 | 1 | 8 | 6 | 1 | 33 |
+| pertussis | 4 | 5 | 3 | 1 | 6 | 0 | 4 | 23 |
 | yersinia | 1 | 3 | 3 | 0 | 2 | 1 | 1 | 11 |
 | typhoid | 0 | 0 | 1 | 0 | 2 | 2 | 1 | 6 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
@@ -1748,8 +1748,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
 
-- [Measles found in Haifa boy, linked to two cases reported earlier this month](https://www.jpost.com/breaking-news/article-786269) (The Jerusalem Post)
-
 ## 24-7 (malaria)
 
 - [Forskare: Möjligt att utrota malaria om tio år – om vi vill](https://www.dn.se/sverige/forskare-mojligt-att-utrota-malaria-om-tio-ar-om-vi-vill/) (Www.dn.se)
@@ -1787,8 +1785,6 @@ Source: [News API](https://newsapi.org/)
 - [Atenţionare de călătorie a MAE: Menţinerea pericolului de îmbolnăvire cu „malaria de import”](https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197) (Mediafax.ro)
 
 - [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
-
-- [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (leptospirosis)
 
@@ -2154,24 +2150,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
 
-- [Brasilien feiert Karneval und kämpft gegen das Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html) (Faz.net)
-
-- [Diminuição da urina pode ser sinal de dengue; veja os principais sintomas](https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/) (Catracalivre.com.br)
-
-- [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
-
-- [BBB 24: saúde de Davi, ameaça de desistência e choro agitam manhã](https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html) (Ig.com.br)
-
-- [Número de mortes por dengue em SP sobe para 9](https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html) (Ig.com.br)
-
-- [Brasil tem 408 mil casos prováveis de dengue em 2024](https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html) (Ig.com.br)
-
-- [Dengue: Número de casos no país chega a 408 mil, segundo Ministério da Saúde](https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml) (Globo)
-
-- [Dengue no Brasil: Mais de 60 mortes e 405 mil casos prováveis](https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024) (R7.com)
-
-- [Dengue cases down in ME06, one death reported](https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported) (The Star Online)
-
 ## 24-7 (chikungunya)
 
 - [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
@@ -2192,11 +2170,85 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-13 (zika)
 
+- [Com mais 40 mortes, DF chega a 188 óbitos por dengue em 2024](https://www.metropoles.com/distrito-federal/com-mais-40-mortes-df-chega-a-188-obitos-por-dengue-em-2024) (Metropoles.com)
+
+- [Descubren un 'escudo' que utiliza el cuerpo para protegerse de algunos virus como el Zika o el virus del dengue](https://www.elmundo.es/ciencia-y-salud/salud/2024/03/25/660175ee21efa0a8498b4584.html) (El Mundo)
+
+- [Virenbremse in Speichel und Sperma: Neuer Mechanismus gegen Infektionen entdeckt](https://www.tagesspiegel.de/wissen/virenbremse-in-speichel-und-sperma-neuer-mechanismus-gegen-infektionen-entdeckt-11419571.html) (Der Tagesspiegel)
+
+- [Extensive variation and strain-specificity in dengue virus susceptibility among African Aedes aegypti populations](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011862) (Plos.org)
+
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://www.terra.com.br/vida-e-estilo/saude/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue,b9995ffbba358b40bd28daa79300bf334maktznz.html) (Terra.com.br)
+
 - [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
 
 - [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
 
+## 24-13 (sarampión)
+
+- [Preguntas y respuestas sobre la vacunación contra sarampión en Costa Rica](https://www.nacion.com/ciencia/salud/preguntas-y-respuestas-sobre-la-vacunacion-contra/WMETU3DV5JHIDBOGQIO6ZQFQHI/story/) (Nacion.com)
+
+- [Recomienda Ssa vacunar contra sarampión](https://www.jornada.com.mx/2024/03/25/politica/013n1pol) (Jornada.com.mx)
+
+## 24-13 (pertussis)
+
+- [Muere por tosferina un bebé menor de un mes cuya madre no se había vacunado en el embarazo](https://www.abc.es/salud/enfermedades/muere-tosferina-bebe-menor-mes-madre-vacunado-20240325161036-nt.html) (Www.abc.es)
+
+## 24-13 (mpox)
+
+- [WHO Warning of More Infectious Monkeypox Strain With Higher Fatality Rate](https://legalinsurrection.com/2024/03/who-warning-of-more-infectious-monkeypox-strain-with-higher-fatality-rate/) (Legalinsurrection.com)
+
+## 24-13 (measles)
+
+- [Number of measles cases in State rises to nine](https://www.irishtimes.com/health/2024/03/25/number-of-measles-cases-in-state-rises-to-nine/) (The Irish Times)
+
+- [Measles outbreak 2024: CDC map and tracker shows cases have already surpassed all of 2023 (Michael Grothaus/Fast Company)](https://www.memeorandum.com/240325/p32) (Memeorandum.com)
+
+- [Positive case of measles confirmed in Will County, health officials say](https://wgntv.com/news/south-suburbs/will-county-reports-positive-case-of-measles-connected-to-chicago-outbreak/) (WGN TV Chicago)
+
+- [Number of confirmed cases of measles climbs to nine following outbreak](https://www.independent.ie/irish-news/number-of-confirmed-cases-of-measles-climbs-to-nine-following-outbreak/a1987639848.html) (Independent.ie)
+
+- [Number of confirmed cases of measles climbs to ten following outbreak](https://www.independent.ie/irish-news/number-of-confirmed-cases-of-measles-climbs-to-ten-following-outbreak/a1987639848.html) (Independent.ie)
+
+- [USA Measles Futures Up Sharply In Early Trading](https://www.wonkette.com/p/usa-measles-futures-up-sharply-in) (Wonkette.com)
+
+- [As Measles Cases Spread, You May Want to Check Your Own Status](https://www.newser.com/story/348156/measles-cases-in-first-3-months-of-2024-exceed-last-years-total.html) (Newser)
+
+- [Community leaders raise vaccination awareness as measles cases spike](https://www.jewishnews.co.uk/community-leaders-raise-vaccination-awareness-as-measles-cases-spike/) (Jewishnews.co.uk)
+
+- [Monday, March 25, 2024](https://kffhealthnews.org/morning-briefing/monday-march-25-2024/) (Kffhealthnews.org)
+
+- [Alberta pharmacists can't offer publicly funded measles vaccine as outbreak worries grow](https://www.cbc.ca/news/canada/calgary/alberta-pharmacists-cant-offer-measles-vaccine-1.7151040) (CBC News)
+
+- [Measles count through mid-March surpassed last year’s total](https://www.washingtonpost.com/health/2024/03/25/measles-cases-outbreak-united-states/) (The Washington Post)
+
+- [Public health officials warn about potential measles exposure, shares what to do next](https://www.whio.com/news/local/public-health-officials-warn-about-potential-measles-exposure-shares-what-do-next/E23YH2LBRVCJBJUE7SSIK5OHVM/) (WHIO)
+
+- [Measles outbreak 2024: CDC map and tracker shows cases have already surpassed all of 2023](https://www.fastcompany.com/91068408/measles-outbreak-2024-cdc-map-tracker-cases-states-spread-update) (Fast Company)
+
 ## 24-13 (dengue)
+
+- [Com mais 40 mortes, DF chega a 188 óbitos por dengue em 2024](https://www.metropoles.com/distrito-federal/com-mais-40-mortes-df-chega-a-188-obitos-por-dengue-em-2024) (Metropoles.com)
+
+- [Argentina sufre el peor brote de dengue de su historia: es un adelanto del gran problema de salud pública del siglo XXI](https://www.xataka.com/medicina-y-salud/argentina-sufre-peor-brote-dengue-su-historia-adelanto-gran-problema-salud-publica-siglo-xxi) (Xataka.com)
+
+- [São Paulo tem 19 mortes por dengue e aumento de 35% nos casos em uma semana](https://valor.globo.com/brasil/noticia/2024/03/25/sao-paulo-tem-19-mortes-por-dengue-e-aumento-de-35percent-nos-casos-em-uma-semana.ghtml) (Globo)
+
+- [Descubren un 'escudo' que utiliza el cuerpo para protegerse de algunos virus como el Zika o el virus del dengue](https://www.elmundo.es/ciencia-y-salud/salud/2024/03/25/660175ee21efa0a8498b4584.html) (El Mundo)
+
+- [Nueva invasión de mosquitos: “muy agresivos”, eclosionan a la vez, pero no propagan dengue](https://www.montevideo.com.uy/Salud/Nueva-invasion-de-mosquitos--muy-agresivos--eclosionan-a-la-vez-pero-no-propagan-dengue-uc883546) (Montevideo.com.uy)
+
+- [El dengue está alcanzando cifras terroríficas en América central y del sur: ¿a qué se debe?](http://hipertextual.com/2024/03/epidemia-dengue-america) (Hipertextual)
+
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://gizmodo.uol.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Uol.com.br)
+
+- [Extensive variation and strain-specificity in dengue virus susceptibility among African Aedes aegypti populations](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011862) (Plos.org)
+
+- [Dengue: operativo especial del MSP en nueve manzanas por un caso detectado en Montevideo](https://www.montevideo.com.uy/Noticias/Dengue-operativo-especial-del-MSP-en-nueve-manzanas-por-un-caso-detectado-en-Montevideo-uc883537) (Montevideo.com.uy)
+
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://www.terra.com.br/vida-e-estilo/saude/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue,b9995ffbba358b40bd28daa79300bf334maktznz.html) (Terra.com.br)
+
+- [Ţânţarii tigru nu vor afecta desfăşurarea Jocurilor Olimpice de la Paris 2024](https://www.mediafax.ro/externe/tantarii-tigru-nu-vor-afecta-desfasurarea-jocurilor-olimpice-de-la-paris-2024-22307355) (Mediafax.ro)
 
 - [Casos de dengue foram maiores em cidades com temperaturas mais altas, mostra estudo](https://jornaldebrasilia.com.br/noticias/brasil/casos-de-dengue-foram-maiores-em-cidades-com-temperaturas-mais-altas-mostra-estudo/) (Jornaldebrasilia.com.br)
 
@@ -2219,6 +2271,10 @@ Source: [News API](https://newsapi.org/)
 - [Race is on to make Paris Olympics mosquito-free](https://www.channelnewsasia.com/sport/paris-olympics-tiger-mosquito-free-dengue-zika-4217931) (CNA)
 
 ## 24-13 (chikungunya)
+
+- [Com mais 40 mortes, DF chega a 188 óbitos por dengue em 2024](https://www.metropoles.com/distrito-federal/com-mais-40-mortes-df-chega-a-188-obitos-por-dengue-em-2024) (Metropoles.com)
+
+- [El ECDC notifica más de 70.000 casos y 15 muertes por chikungunya en todo el mundo](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-70000-casos-15-muertes-chikungunya-todo-mundo-20240325170006.html) (Infosalus.com)
 
 - [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
 
