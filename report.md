@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-03-28 07:05
-- **Most recent article:** 2024-03-27 06:49:00
+- **New articles in last harvest:** 32
+- **Last harvest:** 2024-03-28 19:05
+- **Most recent article:** 2024-03-27 19:04:45
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 68 | 188 | 188 | 207 | 1204 |
-| measles | 86 | 112 | 87 | 18 | 43 | 100 | 80 | 526 |
-| malaria | 15 | 23 | 18 | 4 | 19 | 33 | 17 | 129 |
+| dengue | 192 | 181 | 180 | 87 | 179 | 188 | 207 | 1214 |
+| measles | 86 | 112 | 87 | 27 | 42 | 100 | 80 | 534 |
+| malaria | 15 | 23 | 18 | 5 | 18 | 33 | 17 | 129 |
 | zika | 16 | 16 | 12 | 18 | 6 | 13 | 11 | 92 |
-| chikungunya | 8 | 20 | 15 | 7 | 8 | 14 | 16 | 88 |
-| meningitis | 16 | 5 | 8 | 1 | 8 | 7 | 4 | 49 |
-| rabies | 6 | 6 | 9 | 1 | 9 | 5 | 8 | 44 |
+| chikungunya | 8 | 20 | 15 | 8 | 8 | 14 | 16 | 89 |
+| meningitis | 16 | 5 | 8 | 2 | 8 | 7 | 4 | 50 |
+| rabies | 6 | 6 | 9 | 2 | 9 | 5 | 8 | 45 |
 | sarampión | 3 | 3 | 12 | 2 | 3 | 11 | 5 | 39 |
-| mpox | 5 | 8 | 4 | 1 | 8 | 6 | 1 | 33 |
-| pertussis | 4 | 5 | 3 | 1 | 6 | 0 | 4 | 23 |
+| mpox | 5 | 8 | 4 | 3 | 8 | 6 | 1 | 35 |
+| pertussis | 4 | 5 | 3 | 2 | 6 | 0 | 4 | 24 |
 | yersinia | 1 | 3 | 3 | 0 | 2 | 1 | 1 | 11 |
 | typhoid | 0 | 0 | 1 | 0 | 2 | 2 | 1 | 6 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
@@ -1748,8 +1748,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
 
-- [Measles found in Haifa boy, linked to two cases reported earlier this month](https://www.jpost.com/breaking-news/article-786269) (The Jerusalem Post)
-
 ## 24-7 (malaria)
 
 - [Forskare: Möjligt att utrota malaria om tio år – om vi vill](https://www.dn.se/sverige/forskare-mojligt-att-utrota-malaria-om-tio-ar-om-vi-vill/) (Www.dn.se)
@@ -1787,8 +1785,6 @@ Source: [News API](https://newsapi.org/)
 - [Atenţionare de călătorie a MAE: Menţinerea pericolului de îmbolnăvire cu „malaria de import”](https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197) (Mediafax.ro)
 
 - [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
-
-- [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (leptospirosis)
 
@@ -2154,24 +2150,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
 
-- [Brasilien feiert Karneval und kämpft gegen das Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html) (Faz.net)
-
-- [Diminuição da urina pode ser sinal de dengue; veja os principais sintomas](https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/) (Catracalivre.com.br)
-
-- [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
-
-- [BBB 24: saúde de Davi, ameaça de desistência e choro agitam manhã](https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html) (Ig.com.br)
-
-- [Número de mortes por dengue em SP sobe para 9](https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html) (Ig.com.br)
-
-- [Brasil tem 408 mil casos prováveis de dengue em 2024](https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html) (Ig.com.br)
-
-- [Dengue: Número de casos no país chega a 408 mil, segundo Ministério da Saúde](https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml) (Globo)
-
-- [Dengue no Brasil: Mais de 60 mortes e 405 mil casos prováveis](https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024) (R7.com)
-
-- [Dengue cases down in ME06, one death reported](https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported) (The Star Online)
-
 ## 24-7 (chikungunya)
 
 - [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
@@ -2236,21 +2214,49 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-13 (rabies)
 
+- [Mobile vet teams to speed up rabies vaccination state-wide, says Sarawak Deputy Premier](https://www.thestar.com.my/news/nation/2024/03/27/mobile-vet-teams-to-speed-up-rabies-vaccination-state-wide-says-sarawak-deputy-premier) (The Star Online)
+
 - [Stray dog attacks 10 in Kerala, rabies suspected](https://timesofindia.indiatimes.com/city/kochi/stray-dog-attacks-10-in-kerala-rabies-suspected/articleshow/108772159.cms) (The Times of India)
 
 ## 24-13 (pertussis)
+
+- [Two-month-old baby dies of whooping cough in Kelantan](https://www.thestar.com.my/news/nation/2024/03/27/two-month-old-baby-dies-of-whooping-cough-in-kelantan) (The Star Online)
 
 - [Muere por tosferina un bebé menor de un mes cuya madre no se había vacunado en el embarazo](https://www.abc.es/salud/enfermedades/muere-tosferina-bebe-menor-mes-madre-vacunado-20240325161036-nt.html) (Www.abc.es)
 
 ## 24-13 (mpox)
 
+- [Viral Genetics Confirms What On-the-Ground Activists Knew Early in the Mpox Outbreak](https://www.scientificamerican.com/article/viral-genetics-confirms-what-on-the-ground-activists-knew-early-in-the-mpox/) (Scientific American)
+
+- [Why the mpox outbreak in the Democratic Republic of Congo is worrying disease docs](https://www.npr.org/sections/goatsandsoda/2024/03/27/1239276957/mpox-outbreak-democratic-republic-of-congo-deadlier-strain) (NPR)
+
 - [WHO Warning of More Infectious Monkeypox Strain With Higher Fatality Rate](https://legalinsurrection.com/2024/03/who-warning-of-more-infectious-monkeypox-strain-with-higher-fatality-rate/) (Legalinsurrection.com)
 
 ## 24-13 (meningitis)
 
+- [News24 | Africa under the microscope: Continent has 44 disease outbreaks and 104 active epidemic emergencies](https://www.news24.com/news24/africa/news/africa-under-the-microscope-continent-has-44-disease-outbreaks-and-104-active-epidemic-emergencies-20240327) (News24)
+
 - [New testing approach improves detection of rare but emerging Powassan virus spread by deer ticks](https://www.sciencedaily.com/releases/2024/03/240326170114.htm) (Science Daily)
 
 ## 24-13 (measles)
+
+- [U.S. measles cases this year have already surpassed the 2023 total](https://www.nbcnews.com/health/health-news/us-measles-cases-2024-so-far-rcna145013) (NBC News)
+
+- [Measles cases rising in Canada: public health officer](https://www.cp24.com/news/measles-cases-in-canada-are-increasing-canada-s-chief-public-health-officer-warns-1.6824635) (CP24 Toronto's Breaking News)
+
+- [Statement from the Chief Public Health Officer of Canada Update on Measles and Risk to Canadians](https://www.canada.ca/en/public-health/news/2024/03/statement-from-the-chief-public-health-officer-of-canada-update-on-measles-and-risk-to-canadians.html) (Canada.ca)
+
+- [Four people infected in measles outbreak as number of cases rises to ten](https://www.independent.ie/irish-news/four-people-infected-in-measles-outbreak-as-number-of-cases-rises-to-ten/a1898025720.html) (Independent.ie)
+
+- [Correction: Britain-Measles story](https://www.startribune.com/correction-britain-measles-story/600337555/) (Minneapolis Star Tribune)
+
+- [Wednesday, March 27, 2024](https://kffhealthnews.org/morning-briefing/wednesday-march-27-2024/) (Kffhealthnews.org)
+
+- [As New York battled a measles outbreak, Robert F. Kennedy Jr. fought for vaccine exemptions](https://www.bostonglobe.com/2024/03/27/nation/robert-f-kennedy-jr-measles-outbreak-new-york/) (The Boston Globe)
+
+- [News24 | Africa under the microscope: Continent has 44 disease outbreaks and 104 active epidemic emergencies](https://www.news24.com/news24/africa/news/africa-under-the-microscope-continent-has-44-disease-outbreaks-and-104-active-epidemic-emergencies-20240327) (News24)
+
+- [More Canadians see measles as dangerous compared to COVID, flu: poll - National | Globalnews.ca](https://globalnews.ca/news/10384080/measles-dangerous-covid-flu-ipsos-poll/) (Global News)
 
 - [Catherine Comiskey: Why it is urgent that babies and students get the measles vaccination now](https://www.independent.ie/opinion/comment/catherine-comiskey-why-it-is-urgent-that-babies-and-students-get-the-measles-vaccination-now/a1805784583.html) (Independent.ie)
 
@@ -2290,6 +2296,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-13 (malaria)
 
+- [Child Health and Infection with Low Density (CHILD) malaria: a protocol for a randomised controlled trial to assess the long-term health and socioeconomic impacts of testing and treating low-density malaria infection among children in Tanzania](https://bmjopen.bmj.com/content/14/3/e082227) (The BMJ)
+
 - [Roche Gets FDA Approval for Malaria Screen Test](https://www.marketscreener.com/quote/stock/ROCHE-HOLDING-AG-9364975/news/Roche-Gets-FDA-Approval-for-Malaria-Screen-Test-46290960/) (Marketscreener.com)
 
 - [Roche: FDA green light for 'cobas' test](https://www.marketscreener.com/quote/stock/ROCHE-HOLDING-AG-9364975/news/Roche-FDA-green-light-for-cobas-test-46290888/) (Marketscreener.com)
@@ -2299,6 +2307,44 @@ Source: [News API](https://newsapi.org/)
 - [Roche receives FDA approval for the first molecular test to screen for malaria in blood donors](https://www.globenewswire.com/news-release/2024/03/26/2852619/0/en/Roche-receives-FDA-approval-for-the-first-molecular-test-to-screen-for-malaria-in-blood-donors.html) (GlobeNewswire)
 
 ## 24-13 (dengue)
+
+- [Tinta inseticida vendida no Brasil mata mosquito transmissor da dengue](https://www.metropoles.com/brasil/tinta-inseticida-vendida-no-brasil-mata-mosquito-transmissor-da-dengue) (Metropoles.com)
+
+- [Cidade de São Paulo receberá vacina contra dengue nos próximos dias](https://saude.ig.com.br/2024-03-27/sao-paulo-recebe-vacina-dengue.html) (Ig.com.br)
+
+- [Vacinação contra dengue é ampliada para mais 154 municípios do Brasil](https://www.tudocelular.com/seguranca/noticias/n219421/vacinacao-contra-dengue-e-ampliada-para-outros-154-municipios-do-brasil.html) (Tudocelular.com)
+
+- [Here's what to know about dengue, as Puerto Rico declares a public health emergency](https://www.npr.org/2024/03/27/1241210938/dengue-puerto-rico-public-health-emergency-facts-disease) (NPR)
+
+- [Kicillof, sobre el sistema de salud: “Sabemos que hay muchas falencias, pero no se arreglan con un mensaje en las redes”](https://www.lanacion.com.ar/sociedad/kicillof-sobre-el-sistema-de-salud-sabemos-que-hay-muchas-falencias-pero-no-se-arreglan-con-un-nid27032024/) (La Nacion)
+
+- [Saúde amplia vacinação contra a dengue para mais 154 municípios](https://valor.globo.com/brasil/noticia/2024/03/27/sade-amplia-vacinao-contra-a-dengue-para-mais-154-municpios.ghtml) (Globo)
+
+- [São Paulo e Campinas vão receber doses da vacina contra a dengue](https://www.metropoles.com/sao-paulo/sao-paulo-e-campinas-vao-receber-doses-da-vacina-contra-a-dengue) (Metropoles.com)
+
+- [Saúde amplia vacinação contra a dengue para mais 154 municípios](https://www.terra.com.br/vida-e-estilo/saude/saude-amplia-vacinacao-contra-a-dengue-para-mais-154-municipios,4dd97acf097d476b26effebf03f5164epouqd06o.html) (Terra.com.br)
+
+- [Norte, Centro-Oeste e Sudeste têm desaceleração de casos de dengue, diz Ministério da Saúde](https://valor.globo.com/brasil/noticia/2024/03/27/norte-centro-oeste-e-sudeste-tem-desaceleracao-de-casos-de-dengue-diz-ministerio-da-saude.ghtml) (Globo)
+
+- [Ministério da Saúde amplia vacinação contra dengue para mais 154 municípios](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-amplia-vacinacao-contra-dengue-para-mais-154-municipios,015f1f7cc4242239a08cd1184ece25773od2tutw.html) (Terra.com.br)
+
+- [Dengue: vacinação é ampliada para mais 154 cidades; veja quais](https://olhardigital.com.br/2024/03/27/medicina-e-saude/dengue-vacinacao-e-ampliada-para-mais-154-cidades-veja-quais/) (Olhardigital.com.br)
+
+- [Biólogo tatua Aedes aegypti no braço em “homenagem” ao mosquito](https://www.metropoles.com/saude/biologo-tatua-o-aedes-aegypti) (Metropoles.com)
+
+- [Dengue: Saúde amplia vacinação para mais 154 municípios](https://saude.ig.com.br/2024-03-27/dengue--saude-amplia-vacinacao-para-mais-154-municipios.html) (Ig.com.br)
+
+- [Região de Campinas vai receber doses da vacina contra dengue após redistribuição do Ministério da Saúde](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/27/regiao-de-campinas-vai-receber-doses-da-vacina-contra-dengue-apos-redistribuicao-do-ministerio-da-saude.ghtml) (Globo)
+
+- [Endothelial and inflammatory pathophysiology in dengue shock: New insights from a prospective cohort study in Vietnam](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012071) (Plos.org)
+
+- [Saúde amplia vacinação contra a dengue para mais 154 municípios](https://jornaldebrasilia.com.br/noticias/brasil/saude-amplia-vacinacao-contra-a-dengue-para-mais-154-municipios/) (Jornaldebrasilia.com.br)
+
+- [Eerste doden door infectieziekte dengue op Curaçao – ministerie waarschuwt toeristen](https://www.nrc.nl/nieuws/2024/03/27/eerste-doden-door-infectieziekte-dengue-op-curacao-ministerie-waarschuwt-toeristen-a4194360) (Www.nrc.nl)
+
+- [News24 | Africa under the microscope: Continent has 44 disease outbreaks and 104 active epidemic emergencies](https://www.news24.com/news24/africa/news/africa-under-the-microscope-continent-has-44-disease-outbreaks-and-104-active-epidemic-emergencies-20240327) (News24)
+
+- [A 'tempestade perfeita' que explica explosão de casos de dengue no Brasil](https://www.bbc.com/portuguese/articles/ce7x6yn0r90o) (BBC News)
 
 - [Se disparan las alarmas sanitarias en Puerto Rico y declaran epidemia de dengue](https://sputniknews.lat/20240327/se-disparan-las-alarmas-sanitarias-en-puerto-rico-y-declaran-epidemia-de-dengue-1149264409.html) (Sputniknews.lat)
 
@@ -2437,6 +2483,8 @@ Source: [News API](https://newsapi.org/)
 - [Race is on to make Paris Olympics mosquito-free](https://www.channelnewsasia.com/sport/paris-olympics-tiger-mosquito-free-dengue-zika-4217931) (CNA)
 
 ## 24-13 (chikungunya)
+
+- [News24 | Africa under the microscope: Continent has 44 disease outbreaks and 104 active epidemic emergencies](https://www.news24.com/news24/africa/news/africa-under-the-microscope-continent-has-44-disease-outbreaks-and-104-active-epidemic-emergencies-20240327) (News24)
 
 - [Santo Antônio de Posse confirma segunda morte por dengue; região chega a sete óbitos pela doença](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/26/santo-antonio-de-posse-confirma-segunda-morte-por-dengue-regiao-chega-a-sete-obitos-pela-doenca.ghtml) (Globo)
 
