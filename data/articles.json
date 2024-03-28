@@ -1,8 +1,355 @@
 {
-  "last_updated": "2024-03-27 19:05",
-  "count_articles_total": 2099,
-  "count_articles_new": 20,
+  "last_updated": "2024-03-28 07:05",
+  "count_articles_total": 2129,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 7481,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.lat",
+      "author": "Sputnik Mundo",
+      "title": "Se disparan las alarmas sanitarias en Puerto Rico y declaran epidemia de dengue",
+      "description": "LA HABANA (Sputnik) \u2014 El Departamento de Salud de Puerto Rico emiti\u00f3 una orden administrativa para impulsar una serie de medidas de prevenci\u00f3n que ayuden a controlar el virus del dengue, entre las que destaca reportar los casos, hospitalizaciones y muertes co\u2026",
+      "url": "https://sputniknews.lat/20240327/se-disparan-las-alarmas-sanitarias-en-puerto-rico-y-declaran-epidemia-de-dengue-1149264409.html",
+      "urlToImage": "https://cdn2.img.sputniknews.lat/images/sharing/article/spa/1149264409.jpg?11492645261711522141",
+      "publishedAt": "2024-03-27 06:49:00",
+      "content": "Suscr\u00edbete a nuestros canales de Telegram a trav\u00e9s de estosenlaces. Ya que la aplicaci\u00f3n Sputnik est\u00e1 bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo m\u00f3v\u2026 [+78 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.051621",
+      "internal_id": "b1890c87eacafb5f7ccdde287fce78359ea2427e0e2583c5a4fb2f6ebe534952",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 7493,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Como essa planta ind\u00edgena pode ser usada no tratamento contra doen\u00e7a viral?",
+      "description": "Apesar dos resultados promissores, ainda n\u00e3o se sabe como a replica\u00e7\u00e3o do v\u00edrus zika \u00e9 inibida, o que exige novos estudos O post Como essa planta ind\u00edgena pode ser usada no tratamento contra doen\u00e7a viral? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/03/27/medicina-e-saude/como-essa-planta-indigena-pode-ser-usada-no-tratamento-contra-doenca-viral/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/03/nanoemulsao-zika-695x500.png",
+      "publishedAt": "2024-03-27 04:40:00",
+      "content": "Uma nanoemuls\u00e3o de \u00f3leo de copa\u00edba (Copaifera officinalis), planta usada por ind\u00edgenas da regi\u00e3o amaz\u00f4nica para tratar doen\u00e7as de pele, pode ser uma aliada no combate ao v\u00edrus zika, como noticiado pe\u2026 [+3005 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.665672",
+      "internal_id": "03881308872f120ec95c6af0b7edd1c2ac536069b704d4546d2db2866b280500",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 7476,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Catherine Comiskey",
+      "title": "Catherine Comiskey: Why it is urgent that babies and students get the measles vaccination now",
+      "description": "In April last year, Ireland had the lowest vaccination rate against measles in western Europe, and the warning of the threat of outbreaks due to pockets of unvaccinated people in the population was clear.",
+      "url": "https://www.independent.ie/opinion/comment/catherine-comiskey-why-it-is-urgent-that-babies-and-students-get-the-measles-vaccination-now/a1805784583.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/Eb8AA-jlftQl4WYjek8BzQ1mq7A=/0x0:1024x682/629x0/prod-mh-ireland/b4d08ee0-9620-4999-8222-e58cd75c6324/a763cc93-99d6-41f7-8e58-e0c8b7e2128f/b4d08ee0-9620-4999-8222-e58cd75c6324.jpg",
+      "publishedAt": "2024-03-27 02:30:00",
+      "content": "In April last year, Ireland had the lowest vaccination rate against measles in western Europe, and the warning of the threat of outbreaks due to pockets of unvaccinated people in the population was c\u2026 [+3558 chars]",
+      "retrievedAt": "2024-03-28 07:05:54.481716",
+      "internal_id": "bda8f73de7f2490fc36ae665da061e9c5e44b263f6c1ae0d2e7b3d8f3fc241b6",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 7485,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Malena Galmarini apunt\u00f3 contra la \u201cmotosierra en salud\u201d y pidi\u00f3 \u201cno caer en provocaciones\u201d por el cambio de nombre del CCK",
+      "description": "La expresidenta de Aysa carg\u00f3 contra el Gobierno por la escasa respuesta frente al brote de dengue y dijo que es \u201cimperdonable\u201d; reclam\u00f3 la \u201cvacunaci\u00f3n inmediata\u201d",
+      "url": "https://www.lanacion.com.ar/politica/malena-galmarini-apunto-contra-la-motosierra-en-salud-y-pidio-no-caer-en-provocaciones-por-el-cambio-nid26032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/malena-KIGO6QVLMRCLREK3T7AVEP6LH4.jpg?auth=bd2ad047f92ef77ed8f0cd27c59b781bed4c7121be59ad3c826ce9dd4b8e7d1a&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-27 02:01:53",
+      "content": "Malena Galmarini se pronunci\u00f3 sobre la propuesta de cambio de nombre del Centro Cultural Kirchner (CCK), record\u00f3 su lugar de nacimiento y carg\u00f3 contra el Gobierno por la escasa respuesta frente al br\u2026 [+2352 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.088385",
+      "internal_id": "370f703e0928931f608a1f5d0b346e9ed5c03cc2d0a4f359b8cdd912168235f9",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 7483,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Dengue. Hospitales saturados hasta en las guardias nocturnas en el distrito bonaerense m\u00e1s golpeado por la epidemia",
+      "description": "La demanda se duplic\u00f3 en los \u00faltimos d\u00edas y pasaron de atender de 300 pacientes a 600; las autoridades sanitarias admiten que el 90% de las consultas son por ese virus; temor de los vecinos por la cantidad de infectados y de mosquitos",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-hospitales-saturados-hasta-en-las-guardias-nocturnas-en-el-distrito-bonaerense-mas-golpeado-nid26032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/en-el-barrio-pinero-de-jose-c-paz-paola-barrios-y-E7B7IV65RZHCHBEQHCEEPS6GCM.JPG?auth=ab5f0915229ba5a05314bcf47dc03c58fc085361767c02ad647f70e40783cdf5&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-27 00:10:44",
+      "content": "Con solo caminar hora y media por los barrios de Jos\u00e9 C. Paz, al noroeste del conurbano bonaerense, los casos de dengue superan toda estad\u00edstica oficial y confirman que \u00e9sta se trata de la mayor epid\u2026 [+7905 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.071102",
+      "internal_id": "9b5631d82b258117c9d831f0b7ccc62e8f9adbe680bade692a77a1c4dd782f7e",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 7475,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "US sees surge in measles cases as health experts plead for more vaccinations (Melody Schreiber/The Guardian)",
+      "description": "Melody Schreiber / The Guardian: US sees surge in measles cases as health experts plead for more vaccinations \u2014 This year's total tally has now outpaced last year's numbers, with 64 confirmed cases in 17 states so far, compared with 58 in 2023 \u2014 Measles c\u2026",
+      "url": "https://www.memeorandum.com/240326/p80",
+      "urlToImage": "https://i.guim.co.uk/img/media/fb51dadb1a8fdd34359d5a64f74cf201d2fefcab/0_163_4000_2400/master/4000.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2024-03-26 23:50:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-03-28 07:05:54.411962",
+      "internal_id": "6a6adb5c2c35e9ed6556941d2b92b7c4fd698e01e8aa421d354c818b749d9ef9",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7488,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Santo Ant\u00f4nio de Posse confirma segunda morte por dengue; regi\u00e3o chega a sete \u00f3bitos pela doen\u00e7a",
+      "description": "V\u00edtima \u00e9 uma mulher, na faixa et\u00e1ria entre 65 e 79 anos. Paciente teve primeiros sintomas no dia 12 de mar\u00e7o e morreu dois dias depois. Mosquitos Aedes aegypti, transmissor de doen\u00e7as como dengue, zika e chikungunya REUTERS/Paulo Whitaker A Prefeitura de Sant\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/26/santo-antonio-de-posse-confirma-segunda-morte-por-dengue-regiao-chega-a-sete-obitos-pela-doenca.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/DLR573Vw94WkMxIVRVIOHqsWBzQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/L/I/2gBDAGRzuoL4mBoEtoMQ/2024-01-25t143401z-1-lynxmpek0o0kn-rtroptp-4-health-zika-brazil.jpg",
+      "publishedAt": "2024-03-26 22:48:04",
+      "content": "Segundo a administra\u00e7\u00e3o municipal, a v\u00edtima \u00e9 uma mulher, na faixa et\u00e1ria entre 65 e 79 anos. A paciente teve os primeiros sintomas no dia 12 de mar\u00e7o e morreu dois dias depois. A primeira morte po\u2026 [+1726 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.106196",
+      "internal_id": "f6b8e3d83095d3474860a5baa744f5e4070a3f60273966d0248f8a3b9228ddb3",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7489,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Aten\u00e7\u00e3o! Confirmado primeiro \u00f3bito por dengue em Porto Alegre",
+      "description": "A primeira morte por dengue em Porto Alegre, ocorrida em 19 de mar\u00e7o, foi confirmada pela ...",
+      "url": "https://www.terra.com.br/noticias/atencao-confirmado-primeiro-obito-por-dengue-em-porto-alegre,1cae38b493fe31a9a19241c76e4a124f6til4h2i.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/26/1556029495-230301cristinerocholcombateaedessms-4279-e1709925012926.jpg",
+      "publishedAt": "2024-03-26 22:24:08",
+      "content": "A primeira morte por dengue em Porto Alegre, ocorrida em 19 de mar\u00e7o, foi confirmada pela Secretaria Municipal de Sa\u00fade (SMS) nesta ter\u00e7a-feira, 26. A v\u00edtima foi uma mulher de 37 anos, sem comorbidad\u2026 [+2169 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.109851",
+      "internal_id": "321632699a798a1d321029b977b0dfbe5103231c2502a2ba60444781c517e5ae",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7486,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas avaliar usar mosquito modificado para reduzir casos de dengue",
+      "description": "Mosquitos infectados com bact\u00e9ria Wolbachia t\u00eam a capacidade reduzida de transmitir os v\u00edrus para as pessoas, diminuindo o risco de surtos de dengue e doen\u00e7as como zika e chikungunya. Aedes aegypti com Wolbachia dentro de tubo de ensaio Reprodu\u00e7\u00e3o/TV Globo Ca\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/26/campinas-avaliar-usar-mosquito-modificado-para-reduzir-casos-de-dengue.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/n3qu65jGmVuEtMWXnw9XiVKQSc0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/L/h/Ip7H0UQWOkZVqfBpKexw/aedes1.jpeg",
+      "publishedAt": "2024-03-26 21:56:53",
+      "content": "A medida foi discutida durante um encontro do prefeito e representantes da Sa\u00fade com uma comitiva do Minist\u00e9rio da Sa\u00fade e integrantes de \u00f3rg\u00e3os estaduais, nesta ter\u00e7a-feira (26). O uso do m\u00e9todo Wol\u2026 [+4382 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.096802",
+      "internal_id": "ecc5aa1db2e0efd59baa3ff10e08d0a61bf43cff276d04fc9d9a115d5df0608c",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7479,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Dengue: governo faz alerta contra automedica\u00e7\u00e3o e tratamentos caseiros",
+      "description": "Minist\u00e9rio da Sa\u00fade alertou para os riscos de tratamentos caseiros sem comprova\u00e7\u00e3o cient\u00edfica que podem at\u00e9 levar a pioras na dengue",
+      "url": "https://www.metropoles.com/saude/dengue-governo-alerta-tratamentos-caseiros",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/02134102/crianca-de-cinco-meses-morre-de-dengue-hemorragica-no-DF.jpg",
+      "publishedAt": "2024-03-26 21:50:01",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2696 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.018070",
+      "internal_id": "081e482d4a4dda6d96e81f753981b68e504e67ba7b4c374a4b355d0ac97ca470",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7480,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Deutsche Welle",
+      "title": "Por que vacina\u00e7\u00e3o contra a dengue n\u00e3o decola no Brasil",
+      "description": "Mesmo vivendo epidemia com o maior n\u00famero de casos da hist\u00f3ria, pa\u00eds v\u00ea vacina encalhar nos ...",
+      "url": "https://www.terra.com.br/noticias/por-que-vacinacao-contra-a-dengue-nao-decola-no-brasil,38b76aed2a4abfde55afaaa35b268220oo0q9nn7.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/26/1499234146-68201959354.jpg",
+      "publishedAt": "2024-03-26 21:42:14",
+      "content": "Mesmo vivendo epidemia com o maior n\u00famero de casos da hist\u00f3ria, pa\u00eds v\u00ea vacina encalhar nos postos de sa\u00fade. Para especialistas, baixa percep\u00e7\u00e3o de risco, falta de informa\u00e7\u00e3o e negacionismo explicam \u2026 [+8977 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.021711",
+      "internal_id": "4b6244063c22c3a23dcafffc47c9f233d1e3171ad633d7ec892b578059958ff6",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7482,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Enzo Kfouri",
+      "title": "Por que vacina\u00e7\u00e3o contra a dengue n\u00e3o decola no Brasil",
+      "description": "Mesmo vivendo epidemia com o maior n\u00famero de casos da hist\u00f3ria, pa\u00eds v\u00ea vacina encalhar nos postos de sa\u00fade. Para especialistas, baixa percep\u00e7\u00e3o de risco, falta de informa\u00e7\u00e3o e negacionismo explicam o fen\u00f4meno.",
+      "url": "https://www.dw.com/pt-br/por-que-a-vacina%C3%A7%C3%A3o-contra-a-dengue-n%C3%A3o-decola-no-brasil/a-68672251",
+      "urlToImage": "https://static.dw.com/image/68201959_6.jpg",
+      "publishedAt": "2024-03-26 21:39:00",
+      "content": "O Brasil enfrenta a maior epidemia de dengueda hist\u00f3ria. De acordo com o Minist\u00e9rio da Sa\u00fade, o pa\u00eds j\u00e1 ultrapassa os 2 milh\u00f5es de casos, maior n\u00famero desde que a pasta come\u00e7ou a contabilizar esse ti\u2026 [+9375 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.065115",
+      "internal_id": "00117d025c430364c5741f99e47c5b9c59d2ebcae6c2c9d3906c93c0c3a8c7eb",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7487,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Candela Contreras",
+      "title": "Dengue: las razones por las que vivir en un piso alto no te asegura estar a salvo de los mosquitos",
+      "description": "\u00bfSi viv\u00eds en un quinto piso o en los pisos m\u00e1s altos de un edificio, tu casa estar\u00e1 a salvo de los mosquitos? Falso, es un mito.",
+      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/dengue-las-razones-por-las-que-vivir-en-un-piso-alto-no-te-asegura-estar-a-salvo-de-los-mosquitos-nid26032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/pensar-que-si-vivis-en-un-piso-algo-vas-a-estar-a-MGW6MJ72O5DJ7NX5EXJRCCFEPY.JPG?auth=1669aadda96256bebe9226516d9b38b67976bb3ff984b26b5216d72be9c1e95a&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-26 21:12:52",
+      "content": "Si hay algo que todos saben y de lo que se puede estar seguro es que es bastante molesto tener mosquitos cerca. Las personas pasan mucho tiempo tratando de deshacerse de ellos... y por una buena raz\u00f3\u2026 [+3859 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.100331",
+      "internal_id": "bf2ae82658ee5ce95708fd56da684ce382c10585992fd63345b12c435a02a5e8",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7491,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "New testing approach improves detection of rare but emerging Powassan virus spread by deer ticks",
+      "description": "Researchers have come up with a new, more accurate method for detecting in ticks the emerging Powassan virus, which can cause life-threatening neuroinvasive disease, including encephalitis and meningitis.",
+      "url": "https://www.sciencedaily.com/releases/2024/03/240326170114.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-03-26 21:01:14",
+      "content": "Researchers at the New England Regional Center of Vector-Borne Diseases at the University of Massachusetts Amherst have come up with a new, more accurate method for detecting in ticks the emerging Po\u2026 [+5052 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.304420",
+      "internal_id": "68e76b3bf0a76ffc83736abdfad8084faf4a84117f11cc416cb67c5fb4042c42",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7484,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "Reducing Threats to the Blood Supply from West Nile Virus, Dengue Virus, and Chikungunya Virus Through Development of Detection Tools and Studies of Genetic Evolution and Pathogenesis",
+      "description": "A description of Maria Rios's research program and related publications.",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/biologics-research-projects/reducing-threats-blood-supply-west-nile-virus-dengue-virus-and-chikungunya-virus-through-development",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2024-03-26 20:35:38",
+      "content": "Principal Investigator: Maria Rios, PhDOffice / Division / Lab: OBRR / DETTD / LEP General Overview The mission of our research program is to reduce the risk of transmission of West Nile Virus (WNV\u2026 [+18224 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.082041",
+      "internal_id": "fe14afbbf2801382e5a0fbb1c09ff5a382c2feb980d5dc9192cab9a852c819bd",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7477,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Veronica Pages",
+      "title": "As\u00ed padec\u00ed el dengue en Argentina: de \u201ctener el cuerpo medio cortado\u201d a una hepatitis poco com\u00fan",
+      "description": "Mi nombre es Ver\u00f3nica Pag\u00e9s, soy periodista de CNN en Espa\u00f1ol y estoy saliendo de un cuadro grave de dengue. En Argentina, en lo que va del a\u00f1o, ya se registraron m\u00e1s de 134.200 casos. Quer\u00eda compartir con ustedes mi experiencia.",
+      "url": "https://cnnespanol.cnn.com/2024/03/26/dengue-argentina-sintomas-testimonio-orix/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/03/240307163107-rba-dengue-full-169.jpg?quality=100&strip=info",
+      "publishedAt": "2024-03-26 20:27:33",
+      "content": "Argentina sufre brote de dengue desde comienzo del a\u00f1o 0:51 (CNN Espa\u00f1ol) -- El pa\u00eds alcanz\u00f3 un m\u00e1ximo hist\u00f3rico de casos registrados de dengue en una semana, seg\u00fan el Bolet\u00edn Epidemiol\u00f3gico del Min\u2026 [+6614 chars]",
+      "retrievedAt": "2024-03-28 07:05:54.974020",
+      "internal_id": "862e49645a23920af96c28701bf27d4b8be6deab8d1fb84a399af7591b0a013c",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7492,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Ag\u00eancia Fapesp",
+      "title": "Nanoemuls\u00e3o de \u00f3leo de copa\u00edba apresenta potencial antiviral contra o zika",
+      "description": "Resultados de testes com a subst\u00e2ncia, divulgados na PLOS ONE, abrem caminho para o desenvolvimento de medicamentos ou vacinas contra a doen\u00e7a The post Nanoemuls\u00e3o de \u00f3leo de copa\u00edba apresenta potencial antiviral contra o zika appeared first on Giz Brasil.",
+      "url": "https://gizmodo.uol.com.br/nanoemulsao-de-oleo-de-copaiba-apresenta-potencial-antiviral-contra-o-zika/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/03/zika-fapesp.jpg",
+      "publishedAt": "2024-03-26 20:11:33",
+      "content": "Texto: Julia Moi\u00f3li | Ag\u00eancia FAPESP Em artigo publicado na revista PLOS ONE, pesquisadores da Universidade Estadual Paulista (Unesp) descreveram uma potencial estrat\u00e9gia de combate ao v\u00edrus zika (Z\u2026 [+3986 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.656474",
+      "internal_id": "0d58699c986f3863662222340b786631d629495c533f85c2eb1978758ba5e5fb",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7478,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "Dengue: Ricardo Nunes cortou pela metade verba de combate \u00e0 doen\u00e7a",
+      "description": "Com quase 50 mil casos na capital paulista, gastos no combate \u00e0 dengue reduziram em quase 50%",
+      "url": "https://ultimosegundo.ig.com.br/politica/2024-03-26/corte-verba-dengue-ricardo-nunes.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/29/dc/1h/29dc1h7lxlhmtzr91lej1883p.jpg",
+      "publishedAt": "2024-03-26 19:35:05",
+      "content": "A gest\u00e3o do prefeito Ricardo Nunes (MDB), foi acionada no Minist\u00e9rio P\u00fablico do Estado de S\u00e3o Paulo (MPSP) por m\u00e1 gest\u00e3o de dinheiro p\u00fablico na vigil\u00e2ncia epidemiol\u00f3gica. A representa\u00e7\u00e3o, assinada pe\u2026 [+1441 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.002264",
+      "internal_id": "9233c9e3bfdf02783e2846da90f75b7cfe737627b9eecb721af51df1244974cc",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 7490,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (AP)",
+      "title": "Argentinos afectados por brote hist\u00f3rico de dengue acuden a salas de urgencias de los hospitales",
+      "description": "Durante marzo los contagios se dispararon en coincidencia con la ca\u00edda de fuertes lluvias en la capital y varias provincias.",
+      "url": "https://www.vozdeamerica.com/a/argentinos-afectados-por-brote-historico-de-dengue-acuden-a-salas-de-urgencias-de-los-hospitales/7543545.html",
+      "urlToImage": "https://gdb.voanews.com/46f6384b-11cb-482d-ae06-050c12f273aa_w1200_r1.jpg",
+      "publishedAt": "2024-03-26 19:32:35",
+      "content": "BUENOS AIRES Decenas de personas se acercaban el martes a las salas de emergencia de los hospitales de la ciudad de Buenos Aires en medio de un brote de dengue hist\u00f3rico que ha causado unos 151.000 \u2026 [+3078 chars]",
+      "retrievedAt": "2024-03-28 07:05:55.115745",
+      "internal_id": "3c20b192035ea1a9c3b2d941845611d9e35275b498ec9fed8304a84ae998161c",
+      "publishedAtLabel": "Mar 26"
+    },
     {
       "id": 7455,
       "query": [
@@ -37901,6 +38248,204 @@
       "content": "O deputado distrital Chico Vigilante (PT) anunciou que est\u00e1 com dengue. Relatando dores em tudo que \u00e9 canto, ele disse que est\u00e1 descansando em casa, em Ceil\u00e2ndia, com sintomas leves da doen\u00e7a. Nunca \u2026 [+1827 chars]",
       "retrievedAt": "2024-02-13 07:06:03.164767",
       "internal_id": "2457532ba8e066e822f01aa231cb224054e15826cb01af6b4ccc523fafa33be5",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5352,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Tjerk Br\u00fchwiller",
+      "title": "Brasilien feiert Karneval und k\u00e4mpft gegen das Denguefieber",
+      "description": "In Rio de Janeiro, Salvador, Recife und anderen Gro\u00dfst\u00e4dten feiern Millionen Menschen die sch\u00f6nste Zeit des Jahres. Doch gleichzeitig steigen die F\u00e4lle von Denguefieber in Brasilien.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/gesellschaft/2402553276/1.9512142/facebook_teaser/in-rio-de-janeiro-parade-der.jpg",
+      "publishedAt": "2024-02-11 17:29:54",
+      "content": "Brasilien ist in den Karneval gestartet, die sch\u00f6nste Zeit im Jahr. Millionen Menschen, darunter unz\u00e4hlige Touristen, werden zu den Stra\u00dfenkarnevals in Rio de Janeiro, Salvador, Recife, S\u00e3o Paulo und\u2026 [+3843 chars]",
+      "retrievedAt": "2024-02-13 07:06:03.238090",
+      "internal_id": "64595c873546a0f0a04bd5b1bd53019e5923d224c20375ecf9db07b874f100d2",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5412,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Diminui\u00e7\u00e3o da urina pode ser sinal de dengue; veja os principais sintomas",
+      "description": "O Brasil enfrenta um desafio de sa\u00fade p\u00fablica com o aumento expressivo os casos de dengue desde o in\u00edcio deste ano. Embora muitas infec\u00e7\u00f5es sejam",
+      "url": "https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
+      "publishedAt": "2024-02-11 14:35:38",
+      "content": "\u00daltimas not\u00edcias: O Brasil enfrenta um desafio de sa\u00fade p\u00fablica com o aumento expressivo os casos de dengue desde o in\u00edcio deste ano. Embora muitas infec\u00e7\u00f5es sejam assintom\u00e1ticas ou produzam apenas \u2026 [+1331 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.471431",
+      "internal_id": "9c592bb5675cdbfc9d15c884e394b09c71f6ed44218791dcb4edee3b83b22ba9",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5348,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Brasil chega a 62 mortes e 408 mil casos prov\u00e1veis de dengue",
+      "description": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil em 2024 chegou a 408 mil, segundo atualiza\u00e7\u00e3o de ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-11 14:14:30",
+      "content": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil em 2024 chegou a 408 mil, segundo atualiza\u00e7\u00e3o de sexta-feira, 9, no Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade. J\u00e1 o n\u00famero de v\u00edtim\u2026 [+1150 chars]",
+      "retrievedAt": "2024-02-12 19:05:37.609967",
+      "internal_id": "ea10c6c57509a7bcc15b4372d98f34709cd9f9f14670199710a007f9831fccb4",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5349,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "info@namibian.com.na (Namibian)",
+      "title": "Namibia: Ending Malaria in Namibia",
+      "description": "[Namibian] As a neonate in the nursing profession, I am very worried due to the alarming reports of malaria cases and deaths in our country, particularly in the Zambezi and Ohangwena regions.",
+      "url": "https://allafrica.com/stories/202402110119.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-02-11 14:03:31",
+      "content": "As a neonate in the nursing profession, I am very worried due to the alarming reports of malaria cases and deaths in our country, particularly in the Zambezi and Ohangwena regions. Malaria can be pr\u2026 [+3765 chars]",
+      "retrievedAt": "2024-02-12 19:05:38.563815",
+      "internal_id": "33e960c3620a474b47258dccb32eba762efc473d1d7845058e64b8f942d26bf3",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5367,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Gente, iG Gente",
+      "title": "BBB 24: sa\u00fade de Davi, amea\u00e7a de desist\u00eancia e choro agitam manh\u00e3",
+      "description": "Participantes questionaram se Davi pode estar com dengue; veja o resumo",
+      "url": "https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8x/3g/us/8x3gusff41udayup1jpu9a563.jpg",
+      "publishedAt": "2024-02-11 13:55:06",
+      "content": "A madruga deste domingo (11) levantou alerta sobre a sa\u00fade do participante Davi. Colegas de confinamento est\u00e3o preocupados com o mal-estar e relato de dores do brother. Al\u00e9m disso, sem a festa, parti\u2026 [+4133 chars]",
+      "retrievedAt": "2024-02-13 07:06:03.300700",
+      "internal_id": "0010841672fe5f00f8f468828785480f95d196f22edbef0832464722d4df2549",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5358,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "N\u00famero de mortes por dengue em SP sobe para 9",
+      "description": "As mortes foram registradas em Bebedouro (1), Guarulhos (1), Pederneiras (1), Pindamonhangaba (2), S\u00e3o Paulo (1), Taubat\u00e9 (2) e Trememb\u00e9 (1)",
+      "url": "https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0h/8t/px/0h8tpxwmjwdegegn5t8xle7q2.jpg",
+      "publishedAt": "2024-02-11 13:48:48",
+      "content": "O n\u00famero de mortes por dengue no estado de S\u00e3o Paulo aumentou para nove, de acordo com a Secretaria Estadual de Sa\u00fade de S\u00e3o Paulo. Tr\u00eas novos \u00f3bitos foram confirmados desde o \u00faltimo boletim divulgad\u2026 [+1592 chars]",
+      "retrievedAt": "2024-02-13 07:06:03.265460",
+      "internal_id": "d400d70b182b47b6a1bdd49b347ed6c20488673ce37a752d9c33412a139231b1",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5356,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "Brasil tem 408 mil casos prov\u00e1veis de dengue em 2024",
+      "description": "foram confirmadas 62 mortes",
+      "url": "https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-02-11 13:07:49",
+      "content": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil atingiu 408 mil, de acordo com dados do Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade, atualizados na sexta-feira (9). O coeficiente de\u2026 [+1783 chars]",
+      "retrievedAt": "2024-02-13 07:06:03.257692",
+      "internal_id": "9df5b91eaebcc0b6116acbf724100cfc0c169dc9cfcecc4e498923e3c6fbb88b",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5355,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: N\u00famero de casos no pa\u00eds chega a 408 mil, segundo Minist\u00e9rio da Sa\u00fade",
+      "description": "O coeficiente de incid\u00eancia da doen\u00e7a no pa\u00eds est\u00e1 em 201 casos de dengue por 100 mil habitantes",
+      "url": "https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/RuQf_pEbJ1Nb-qrOotOm4j93pUA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/H/E/BprEiDSnKAVC5gvAuaag/105824609-bras-c3-adlia-20df-2008-02-2024-20carro-20do-20fumac-c3-aa-20contra-20a-20dengue-20passa-20pela-20ql-2026-20do-20lago-20sul-20nessa.jpg",
+      "publishedAt": "2024-02-11 12:39:14",
+      "content": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil chegou a 408 mil, segundo informa\u00e7\u00f5es do Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade. Os dados foram atualizados na sexta-feira (9). \u2026 [+1100 chars]",
+      "retrievedAt": "2024-02-13 07:06:03.253843",
+      "internal_id": "f25c60c742d5797923d30331b86b9d04efa2fd3888564292292a43da1a11f6c7",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5347,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Revista Oeste - Brasil",
+      "title": "Dengue no Brasil: Mais de 60 mortes e 405 mil casos prov\u00e1veis",
+      "description": "N\u00famero de casos graves mais que triplicou se comparado ao mesmo per\u00edodo...",
+      "url": "https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024",
+      "urlToImage": "https://img.r7.com/images/r7-30072019142631584?dimensions=340x191&crop_position=c",
+      "publishedAt": "2024-02-11 12:35:00",
+      "content": "N\u00famero de casos graves mais que triplicou se comparado ao mesmo per\u00edodo no ano passado Consulte a mat\u00e9ria completa sobre a Dengue no Brasil na Revista Oeste Leia a mat\u00e9ria completa no nosso parceiro \u2026 [+445 chars]",
+      "retrievedAt": "2024-02-12 19:05:37.549489",
+      "internal_id": "4fbb7abe433c42b2b6f389fe780d1c4288f78ce4c6a849fd25d6f38358fd9d60",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5362,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases down in ME06, one death reported",
+      "description": "PUTRAJAYA: The number of dengue cases dropped to 3,631 in the 6th Epidemiological Week (EW06) from Feb 4-10, compared to 3,969 cases in the previous week, with one death due to dengue fever complications. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/02/11/2539036.jpg",
+      "publishedAt": "2024-02-11 11:05:00",
+      "content": "PUTRAJAYA: The number of dengue cases dropped to 3,631 in the 6th Epidemiological Week (EW06) from Feb 4-10, compared to 3,969 cases in the previous week, with one death due to dengue fever complicat\u2026 [+1247 chars]",
+      "retrievedAt": "2024-02-13 07:06:03.280351",
+      "internal_id": "17c0806ba3c2cb00d607bdf7477cf96a416a93cbeb33ecf8ca53a038308a5fda",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5346,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY JERUSALEM POST STAFF",
+      "title": "Measles found in Haifa boy, linked to two cases reported earlier this month",
+      "description": "A boy in Haifa has measles, the Health Ministry announced on Sunday.The case is linked to two cases reported a",
+      "url": "https://www.jpost.com/breaking-news/article-786269",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "publishedAt": "2024-02-11 07:48:17",
+      "content": "A boy in Haifa has measles, the Health Ministry announced on Sunday. The case is linked to two cases reported about a week and a half ago, in a pair of brothers. None of the children were vaccinate\u2026 [+323 chars]",
+      "retrievedAt": "2024-02-12 19:05:36.509411",
+      "internal_id": "7d6fe42b98e0b45937d10ed3e9b980635ccc81597a1d26ef4e7df9421fc6f303",
       "publishedAtLabel": "Feb 11"
     }
   ]

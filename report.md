@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-03-27 19:05
-- **Most recent article:** 2024-03-26 18:47:07
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-03-28 07:05
+- **Most recent article:** 2024-03-27 06:49:00
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 54 | 179 | 188 | 207 | 1181 |
-| measles | 86 | 112 | 87 | 16 | 42 | 100 | 80 | 523 |
-| malaria | 15 | 23 | 18 | 4 | 18 | 33 | 17 | 128 |
-| zika | 16 | 16 | 12 | 14 | 6 | 13 | 11 | 88 |
-| chikungunya | 8 | 20 | 15 | 4 | 8 | 14 | 16 | 85 |
-| meningitis | 16 | 5 | 8 | 0 | 8 | 7 | 4 | 48 |
+| dengue | 192 | 181 | 180 | 68 | 188 | 188 | 207 | 1204 |
+| measles | 86 | 112 | 87 | 18 | 43 | 100 | 80 | 526 |
+| malaria | 15 | 23 | 18 | 4 | 19 | 33 | 17 | 129 |
+| zika | 16 | 16 | 12 | 18 | 6 | 13 | 11 | 92 |
+| chikungunya | 8 | 20 | 15 | 7 | 8 | 14 | 16 | 88 |
+| meningitis | 16 | 5 | 8 | 1 | 8 | 7 | 4 | 49 |
 | rabies | 6 | 6 | 9 | 1 | 9 | 5 | 8 | 44 |
 | sarampión | 3 | 3 | 12 | 2 | 3 | 11 | 5 | 39 |
 | mpox | 5 | 8 | 4 | 1 | 8 | 6 | 1 | 33 |
@@ -1748,6 +1748,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
 
+- [Measles found in Haifa boy, linked to two cases reported earlier this month](https://www.jpost.com/breaking-news/article-786269) (The Jerusalem Post)
+
 ## 24-7 (malaria)
 
 - [Forskare: Möjligt att utrota malaria om tio år – om vi vill](https://www.dn.se/sverige/forskare-mojligt-att-utrota-malaria-om-tio-ar-om-vi-vill/) (Www.dn.se)
@@ -1785,6 +1787,8 @@ Source: [News API](https://newsapi.org/)
 - [Atenţionare de călătorie a MAE: Menţinerea pericolului de îmbolnăvire cu „malaria de import”](https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197) (Mediafax.ro)
 
 - [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
+
+- [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (leptospirosis)
 
@@ -2150,6 +2154,24 @@ Source: [News API](https://newsapi.org/)
 
 - [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
 
+- [Brasilien feiert Karneval und kämpft gegen das Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html) (Faz.net)
+
+- [Diminuição da urina pode ser sinal de dengue; veja os principais sintomas](https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/) (Catracalivre.com.br)
+
+- [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
+
+- [BBB 24: saúde de Davi, ameaça de desistência e choro agitam manhã](https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html) (Ig.com.br)
+
+- [Número de mortes por dengue em SP sobe para 9](https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html) (Ig.com.br)
+
+- [Brasil tem 408 mil casos prováveis de dengue em 2024](https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html) (Ig.com.br)
+
+- [Dengue: Número de casos no país chega a 408 mil, segundo Ministério da Saúde](https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml) (Globo)
+
+- [Dengue no Brasil: Mais de 60 mortes e 405 mil casos prováveis](https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024) (R7.com)
+
+- [Dengue cases down in ME06, one death reported](https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported) (The Star Online)
+
 ## 24-7 (chikungunya)
 
 - [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
@@ -2169,6 +2191,14 @@ Source: [News API](https://newsapi.org/)
 - [Death risk from chikungunya continues for up to three months: Lancet study](https://timesofindia.indiatimes.com/home/science/chikungunya-virus-increased-risk-of-death-for-up-to-three-months-says-lancet-study/articleshow/107683262.cms) (The Times of India)
 
 ## 24-13 (zika)
+
+- [Como essa planta indígena pode ser usada no tratamento contra doença viral?](https://olhardigital.com.br/2024/03/27/medicina-e-saude/como-essa-planta-indigena-pode-ser-usada-no-tratamento-contra-doenca-viral/) (Olhardigital.com.br)
+
+- [Santo Antônio de Posse confirma segunda morte por dengue; região chega a sete óbitos pela doença](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/26/santo-antonio-de-posse-confirma-segunda-morte-por-dengue-regiao-chega-a-sete-obitos-pela-doenca.ghtml) (Globo)
+
+- [Campinas avaliar usar mosquito modificado para reduzir casos de dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/26/campinas-avaliar-usar-mosquito-modificado-para-reduzir-casos-de-dengue.ghtml) (Globo)
+
+- [Nanoemulsão de óleo de copaíba apresenta potencial antiviral contra o zika](https://gizmodo.uol.com.br/nanoemulsao-de-oleo-de-copaiba-apresenta-potencial-antiviral-contra-o-zika/) (Uol.com.br)
 
 - ["C'est une maladie très sérieuse": Valneva lance un essai de phase 1 pour son vaccin contre Zika](https://www.bfmtv.com/economie/entreprises/c-est-une-maladie-tres-serieuse-valneva-lance-un-essai-de-phase-1-pour-son-vaccin-contre-zika_AV-202403260350.html) (BFMTV)
 
@@ -2216,7 +2246,15 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO Warning of More Infectious Monkeypox Strain With Higher Fatality Rate](https://legalinsurrection.com/2024/03/who-warning-of-more-infectious-monkeypox-strain-with-higher-fatality-rate/) (Legalinsurrection.com)
 
+## 24-13 (meningitis)
+
+- [New testing approach improves detection of rare but emerging Powassan virus spread by deer ticks](https://www.sciencedaily.com/releases/2024/03/240326170114.htm) (Science Daily)
+
 ## 24-13 (measles)
+
+- [Catherine Comiskey: Why it is urgent that babies and students get the measles vaccination now](https://www.independent.ie/opinion/comment/catherine-comiskey-why-it-is-urgent-that-babies-and-students-get-the-measles-vaccination-now/a1805784583.html) (Independent.ie)
+
+- [US sees surge in measles cases as health experts plead for more vaccinations (Melody Schreiber/The Guardian)](https://www.memeorandum.com/240326/p80) (Memeorandum.com)
 
 - [Face pain? Pharmacist reveals surprising hay fever symptoms - The Weather Network](https://www.theweathernetwork.com/en/news/lifestyle/health/pharmacist-reveals-surprising-hay-fever-symptoms) (The Weather Network)
 
@@ -2261,6 +2299,34 @@ Source: [News API](https://newsapi.org/)
 - [Roche receives FDA approval for the first molecular test to screen for malaria in blood donors](https://www.globenewswire.com/news-release/2024/03/26/2852619/0/en/Roche-receives-FDA-approval-for-the-first-molecular-test-to-screen-for-malaria-in-blood-donors.html) (GlobeNewswire)
 
 ## 24-13 (dengue)
+
+- [Se disparan las alarmas sanitarias en Puerto Rico y declaran epidemia de dengue](https://sputniknews.lat/20240327/se-disparan-las-alarmas-sanitarias-en-puerto-rico-y-declaran-epidemia-de-dengue-1149264409.html) (Sputniknews.lat)
+
+- [Malena Galmarini apuntó contra la “motosierra en salud” y pidió “no caer en provocaciones” por el cambio de nombre del CCK](https://www.lanacion.com.ar/politica/malena-galmarini-apunto-contra-la-motosierra-en-salud-y-pidio-no-caer-en-provocaciones-por-el-cambio-nid26032024/) (La Nacion)
+
+- [Dengue. Hospitales saturados hasta en las guardias nocturnas en el distrito bonaerense más golpeado por la epidemia](https://www.lanacion.com.ar/sociedad/dengue-hospitales-saturados-hasta-en-las-guardias-nocturnas-en-el-distrito-bonaerense-mas-golpeado-nid26032024/) (La Nacion)
+
+- [Santo Antônio de Posse confirma segunda morte por dengue; região chega a sete óbitos pela doença](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/26/santo-antonio-de-posse-confirma-segunda-morte-por-dengue-regiao-chega-a-sete-obitos-pela-doenca.ghtml) (Globo)
+
+- [Atenção! Confirmado primeiro óbito por dengue em Porto Alegre](https://www.terra.com.br/noticias/atencao-confirmado-primeiro-obito-por-dengue-em-porto-alegre,1cae38b493fe31a9a19241c76e4a124f6til4h2i.html) (Terra.com.br)
+
+- [Campinas avaliar usar mosquito modificado para reduzir casos de dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/26/campinas-avaliar-usar-mosquito-modificado-para-reduzir-casos-de-dengue.ghtml) (Globo)
+
+- [Dengue: governo faz alerta contra automedicação e tratamentos caseiros](https://www.metropoles.com/saude/dengue-governo-alerta-tratamentos-caseiros) (Metropoles.com)
+
+- [Por que vacinação contra a dengue não decola no Brasil](https://www.terra.com.br/noticias/por-que-vacinacao-contra-a-dengue-nao-decola-no-brasil,38b76aed2a4abfde55afaaa35b268220oo0q9nn7.html) (Terra.com.br)
+
+- [Por que vacinação contra a dengue não decola no Brasil](https://www.dw.com/pt-br/por-que-a-vacina%C3%A7%C3%A3o-contra-a-dengue-n%C3%A3o-decola-no-brasil/a-68672251) (DW (English))
+
+- [Dengue: las razones por las que vivir en un piso alto no te asegura estar a salvo de los mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/dengue-las-razones-por-las-que-vivir-en-un-piso-alto-no-te-asegura-estar-a-salvo-de-los-mosquitos-nid26032024/) (La Nacion)
+
+- [Reducing Threats to the Blood Supply from West Nile Virus, Dengue Virus, and Chikungunya Virus Through Development of Detection Tools and Studies of Genetic Evolution and Pathogenesis](https://www.fda.gov/vaccines-blood-biologics/biologics-research-projects/reducing-threats-blood-supply-west-nile-virus-dengue-virus-and-chikungunya-virus-through-development) (FDA.gov)
+
+- [Así padecí el dengue en Argentina: de “tener el cuerpo medio cortado” a una hepatitis poco común](https://cnnespanol.cnn.com/2024/03/26/dengue-argentina-sintomas-testimonio-orix/) (CNN)
+
+- [Dengue: Ricardo Nunes cortou pela metade verba de combate à doença](https://ultimosegundo.ig.com.br/politica/2024-03-26/corte-verba-dengue-ricardo-nunes.html) (Ig.com.br)
+
+- [Argentinos afectados por brote histórico de dengue acuden a salas de urgencias de los hospitales](https://www.vozdeamerica.com/a/argentinos-afectados-por-brote-historico-de-dengue-acuden-a-salas-de-urgencias-de-los-hospitales/7543545.html) (Vozdeamerica.com)
 
 - [SP registra maior alta diária de mortes por dengue; 8 só na capital](https://www.metropoles.com/sao-paulo/sp-registra-maior-alta-diaria-de-mortes-por-dengue-8-so-na-capital) (Metropoles.com)
 
@@ -2371,6 +2437,12 @@ Source: [News API](https://newsapi.org/)
 - [Race is on to make Paris Olympics mosquito-free](https://www.channelnewsasia.com/sport/paris-olympics-tiger-mosquito-free-dengue-zika-4217931) (CNA)
 
 ## 24-13 (chikungunya)
+
+- [Santo Antônio de Posse confirma segunda morte por dengue; região chega a sete óbitos pela doença](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/26/santo-antonio-de-posse-confirma-segunda-morte-por-dengue-regiao-chega-a-sete-obitos-pela-doenca.ghtml) (Globo)
+
+- [Campinas avaliar usar mosquito modificado para reduzir casos de dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/26/campinas-avaliar-usar-mosquito-modificado-para-reduzir-casos-de-dengue.ghtml) (Globo)
+
+- [Reducing Threats to the Blood Supply from West Nile Virus, Dengue Virus, and Chikungunya Virus Through Development of Detection Tools and Studies of Genetic Evolution and Pathogenesis](https://www.fda.gov/vaccines-blood-biologics/biologics-research-projects/reducing-threats-blood-supply-west-nile-virus-dengue-virus-and-chikungunya-virus-through-development) (FDA.gov)
 
 - ["C'est une maladie très sérieuse": Valneva lance un essai de phase 1 pour son vaccin contre Zika](https://www.bfmtv.com/economie/entreprises/c-est-une-maladie-tres-serieuse-valneva-lance-un-essai-de-phase-1-pour-son-vaccin-contre-zika_AV-202403260350.html) (BFMTV)
 
