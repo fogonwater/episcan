@@ -1,8 +1,370 @@
 {
-  "last_updated": "2024-03-29 07:06",
-  "count_articles_total": 2178,
-  "count_articles_new": 17,
+  "last_updated": "2024-03-29 19:05",
+  "count_articles_total": 2187,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 7550,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "D\u00c1NICA COTO",
+      "title": "Dengue is sweeping through the Americas early this year",
+      "description": "Dengue is surging across the Americas early this year from Puerto Rico to Brazil, with 3.5 million cases of the tropical disease reported so far, health officials said Thursday.",
+      "url": "https://www.startribune.com/dengue-is-sweeping-through-the-americas-early-this-year/600354745/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1711485830",
+      "publishedAt": "2024-03-28 19:05:01",
+      "content": "SAN JUAN, Puerto Rico Dengue is surging across the Americas early this year from Puerto Rico to Brazil, with 3.5 million cases of the tropical disease reported so far, health officials said Thursday.\u2026 [+2940 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.334943",
+      "internal_id": "d78cafd4f956058012dd228da66cc4071b371583ea8841645442c4f3255fca73",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7557,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Giovanna Estrela",
+      "title": "Governo divulga lista de cidades que receber\u00e3o vacina contra dengue",
+      "description": "O Minist\u00e9rio da Sa\u00fade definiu que 675 munic\u00edpios receber\u00e3o a vacina contra a dengue. As doses s\u00e3o destinadas a pessoas de 10 a 14 anos",
+      "url": "https://www.metropoles.com/brasil/governo-divulga-lista-de-cidades-que-receberao-vacina-contra-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/10095625/vacinacao-dengue-vacina-qdenga-imunizante-df.jpeg",
+      "publishedAt": "2024-03-28 18:51:11",
+      "content": "O Minist\u00e9rio da Sa\u00fade definiu os 675 munic\u00edpios que ser\u00e3o contemplados com a vacina contra a dengue, destinada a crian\u00e7as e adolescentes de 10 a 14 anos, p\u00fablico que concentra o maior n\u00famero de hospi\u2026 [+1331 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.387771",
+      "internal_id": "1332ebf7fbdede9df1a1f80a9732a10cd9027b79bbe7e176d081bd56299ec4e7",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7552,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Julien Lemaignen",
+      "title": "L\u2019Am\u00e9rique du Sud, l\u2019Am\u00e9rique centrale et les Cara\u00efbes durement touch\u00e9es par la dengue",
+      "description": "La r\u00e9gion a enregistr\u00e9 en seulement trois mois plus de 3,5 millions de cas de la maladie transmise par un moustique. La maladie arrive dans des zones o\u00f9 elle n\u2019avait pas \u00e9t\u00e9 identifi\u00e9e jusqu\u2019alors.",
+      "url": "https://www.lemonde.fr/planete/article/2024/03/28/l-amerique-du-sud-l-amerique-centrale-et-les-caraibes-durement-touchees-par-la-dengue_6224717_3244.html",
+      "urlToImage": "https://img.lemde.fr/2024/03/09/0/0/5616/3744/1440/960/60/0/6026544_4df010e2dda1471a8124d7bd23db8f67-0-e51896c023724aa4b6f6b8ac4b2022d8.jpg",
+      "publishedAt": "2024-03-28 18:39:24",
+      "content": "Op\u00e9ration de d\u00e9moustication, \u00e0 Brasilia, le 9 mars 2024. ERALDO PERES / AP Il y a de fortes chances pour que lAm\u00e9rique du Sud, lAm\u00e9rique centrale et les Cara\u00efbes subissent en 2024 leur \u00ab pire \u00bb \u00e9pid\u2026 [+2600 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.352008",
+      "internal_id": "68c73f1b5fb57afd302b78b0751770c0f13f9111bbf734b77180fe111f13e524",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7553,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "The Associated Press",
+      "title": "Rio de Janeiro declares a dengue health emergency days ahead of Carnival",
+      "description": "RIO DE JANEIRO (AP) \u2014 Rio de Janeiro on Monday has declared a public health emergency because of an outbreak of mosquito-borne dengue fever, the city announced Monday, just days before Carnival celebrations kick off across Brazil. The outbreak wasn\u2019t expected\u2026",
+      "url": "https://financialpost.com/pmn/business-pmn/rio-de-janeiro-declares-a-dengue-health-emergency-days-ahead-of-carnival",
+      "urlToImage": null,
+      "publishedAt": "2024-03-28 18:05:31",
+      "content": "RIO DE JANEIRO (AP) Rio de Janeiro on Monday has declared a public health emergency because of an outbreak of mosquito-borne dengue fever, the city announced Monday, just days before Carnival celebra\u2026 [+3322 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.360463",
+      "internal_id": "fc7f635d66e65a7b9ef89235adc110d287102ad3147ac2e2afd65466eed9acdc",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7549,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "EL\u00c9ONORE HUGHES",
+      "title": "Rio de Janeiro declares a dengue health emergency days ahead of Carnival",
+      "description": "Rio de Janeiro on Monday has declared a public health emergency because of an outbreak of mosquito-borne dengue fever, the city announced Monday, just days before Carnival celebrations kick off across Brazil.",
+      "url": "https://www.startribune.com/correction-brazil-dengue-outbreaks-story/600341115/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1711485830",
+      "publishedAt": "2024-03-28 18:02:01",
+      "content": "RIO DE JANEIRO Rio de Janeiro on Monday has declared a public health emergency because of an outbreak of mosquito-borne dengue fever, the city announced Monday, just days before Carnival celebrations\u2026 [+3339 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.325515",
+      "internal_id": "02c77f1e75eda14ed94350fb0d04d7e952ce719c9f7ccbb530e029b3d4a93ba5",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7558,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Nicole Acevedo",
+      "title": "Dengue fever outbreak in Puerto Rico creates public health emergency",
+      "description": "Puerto Rico dengue fever cases \"have exceeded historical figures,\" Puerto Rico Health Secretary Carlos Mellado stated, declaring a public health emergency in an effort to curb the rising cases.",
+      "url": "https://www.nbcnews.com/news/latino/dengue-fever-outbreak-puerto-rico-creates-public-health-emergency-rcna145470",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240328-puerto-rico-flag-se-1133a-4dac0f.jpg",
+      "publishedAt": "2024-03-28 17:45:08",
+      "content": "The risk of getting sick with dengue fever is ever present in Puerto Rico and other places with hot, humid climates but this year cases have exceeded historical figures, according to Puerto Rico Heal\u2026 [+2433 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.409301",
+      "internal_id": "0cb294af55f41aa0d4f3000bbdb6a0a28104474634a35046acb4e199a27ef03f",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7554,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Opas: \u201cEsta epidemia de dengue ser\u00e1 a pior da hist\u00f3ria do mundo\u201d",
+      "description": "Em coletiva, diretores da organiza\u00e7\u00e3o defenderam estrat\u00e9gias organizadas entre pa\u00edses para lidar com o problema da dengue",
+      "url": "https://www.metropoles.com/saude/opas-pior-epidemia-de-dengue-da-historia",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/28134312/Jarbas-BarbosaOpas-dengue-epidemia.jpeg",
+      "publishedAt": "2024-03-28 17:11:46",
+      "content": "Em coletiva de imprensa realizada nesta quinta-feira (28/3), a Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade (Opas) alertou sobre a epidemia de dengue que est\u00e1 acontecendo atualmente no mundo. A institui\u00e7\u00e3o tem\u2026 [+6427 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.369788",
+      "internal_id": "f08162e55700c75feb97ef97367b6fc06f289f3549347c1158fc9974a1b83132",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7546,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "CNNEspa\u00f1ol sjv",
+      "title": "\u00bfQu\u00e9 es el dengue y c\u00f3mo tratarlo?",
+      "description": "El dengue es un virus transmitido por mosquitos que se propaga principalmente a trav\u00e9s del mosquito Aedes aegypti, tambi\u00e9n conocido por ser portador de otros virus como la fiebre amarilla, el chikungunya y el zika, seg\u00fan los CDC.",
+      "url": "https://cnnespanol.cnn.com/2024/03/28/que-es-dengue-como-tratarlo-orix/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2020/03/57b39096ae902_1004x669.jpg?quality=100&strip=info",
+      "publishedAt": "2024-03-28 17:08:53",
+      "content": "Argentina enfrenta un nivel r\u00e9cord de casos de dengue 2:58 (CNN) -- Los casos de dengue en Am\u00e9rica han registrado un aumento exponencial en 2024 dijeron la Organizaci\u00f3n Mundial de la Salud (OMS) y \u2026 [+5412 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.289482",
+      "internal_id": "17b61cd599aee0684ffd262e83e608daf11f3bf397690fed7a89d89c7ecf25e2",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7544,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Implications of Measles Inclusion by Commercial Syndromic Polymerase Chain Reaction Panels \u2014 United States, May 2022\u2013April 2023",
+      "description": "This report describes incidental detection of the measles vaccine strain when using syndromic polymerase chain reaction panels on patients who recently received a measles vaccine.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7312a3.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7312a3_MeaslesPCR_IMAGE_28March2024_1200x675.jpg?_=49874",
+      "publishedAt": "2024-03-28 17:08:36",
+      "content": "These measles virus detections by syndromic PCR panels were attributed to previous MMR vaccination because nearly all occurred in persons without risk factors for measles and shortly after receipt of\u2026 [+7187 chars]",
+      "retrievedAt": "2024-03-29 19:05:27.794790",
+      "internal_id": "cb76a233f35a4b6c6879a8ed95089eeae6b9e3a5c60fe0f8bc71dfa0f1f4bcaf",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7547,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Sol Amaya",
+      "title": "Puerto Rico declara emergencia de salud p\u00fablica luego de m\u00e1s de 500 casos de dengue en 2024",
+      "description": "El secretario de Salud de Puerto Rico, Carlos Mellado, dijo que el departamento de salud ha registrado 549 casos de dengue en lo que va del a\u00f1o, superando con creces las cifras hist\u00f3ricas.",
+      "url": "https://cnnespanol.cnn.com/2024/03/28/puerto-rico-emergencia-salud-dengue-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/03/dengue.webp",
+      "publishedAt": "2024-03-28 17:04:18",
+      "content": "Argentina enfrenta un nivel r\u00e9cord de casos de dengue 2:58 (CNN) -- Puerto Rico declar\u00f3 la emergencia de salud p\u00fablica debido al creciente n\u00famero de casos de dengue. El secretario de Salud de Puert\u2026 [+3197 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.296104",
+      "internal_id": "7f041ea10a666c774f153fae9e804e658ce07def34f144d22232e1f460041640",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7559,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "OPS advierte que se espera la peor temporada de dengue en la historia en Am\u00e9rica Latina",
+      "description": "La situaci\u00f3n se da en gran parte por el aumento global de las temperaturas y de los fen\u00f3menos meteorol\u00f3gicos extremos.",
+      "url": "https://www.montevideo.com.uy/Salud/OPS-advierte-que-se-espera-la-peor-temporada-de-dengue-en-la-historia-en-America-Latina-uc883893",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
+      "publishedAt": "2024-03-28 16:11:00",
+      "content": "La Organizaci\u00f3n Panamericana de la Salud (OPS) alert\u00f3 este jueves de que se espera que esta sea la peor temporada de dengue en la historia para el continente americano, una situaci\u00f3n que se da en \u2026 [+3600 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.423019",
+      "internal_id": "9fc575e3d531cceaf76723d9883115132099bbd84be800957dc48523be26e52c",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7555,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Dengue: Am\u00e9ricas podem registrar pior surto da hist\u00f3ria, alerta Opas",
+      "description": "O alerta foi feito nesta quinta-feira (28) pela Organiza\u00e7\u00e3o Pan-americana da Sa\u00fade (Opas) O post Dengue: Am\u00e9ricas podem registrar pior...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/dengue-americas-podem-registrar-pior-surto-da-historia-alerta-opas/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/05160921/mosquito-white-mosquito-wire-mesh-net-mosquito-disease-is-carrier-malaria-scaled.jpg",
+      "publishedAt": "2024-03-28 15:39:25",
+      "content": "O continente americano pode registrar, em 2024, o pior surto de dengue em toda a hist\u00f3ria. Com mais de 3,5 milh\u00f5es de casos de dengue contabilizados nos tr\u00eas primeiros meses do ano, o acumulado chega\u2026 [+2710 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.375837",
+      "internal_id": "02a704cb43eedf1b897f28864ac1cbf4b9ea4a0d567e35398fe9e0bf79e69088",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7556,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Vacina\u00e7\u00e3o pode levar at\u00e9 8 anos para reduzir transmiss\u00e3o da dengue",
+      "description": "\u201cA grande ferramenta de controle da transmiss\u00e3o da dengue segue sendo a elimina\u00e7\u00e3o dos criadouros do mosquito.\u201d O post Vacina\u00e7\u00e3o pode...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/vacinacao-pode-levar-ate-8-anos-para-reduzir-transmissao-da-dengue/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/28153738/53312707402_bf5dd6a7fb_o.webp",
+      "publishedAt": "2024-03-28 15:36:08",
+      "content": "A redu\u00e7\u00e3o efetiva na transmiss\u00e3o da dengue atrav\u00e9s da vacina\u00e7\u00e3o pode levar at\u00e9 oito anos, de acordo com o diretor-geral da Organiza\u00e7\u00e3o Pan-americana da Sa\u00fade (Opas), Jarbas Barbosa. \u201c\u00c9 importante re\u2026 [+1355 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.379241",
+      "internal_id": "c88bf5792316ddeb4c14e0b0b2b568ef3c59d9bd6037e8b64ea231e57841b9f9",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7545,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "\u00bfD\u00f3nde llevo a mi hijo a vacunarse contra el sarampi\u00f3n?",
+      "description": "A partir del 1.\u00b0 de abril, la CCSS realizar\u00e1 una campa\u00f1a para que los ni\u00f1os de entre 15 meses y 10 a\u00f1os reciban su dosis de refuerzo contra el sarampi\u00f3n",
+      "url": "https://www.nacion.com/ciencia/salud/donde-llevo-a-mi-hijo-a-vacunarse-contra-el/FKJAZSLHJFAD5NWJTXQQXTVMG4/story/",
+      "urlToImage": "https://www.nacion.com/resizer/clc_v_TuZnycS3430GBcaX3rBqI=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/DLMMRWCEA5H33LUOBMYQIWGNSU.JPG",
+      "publishedAt": "2024-03-28 15:12:07",
+      "content": "Este 1. \u00b0 de abril, el lunes despu\u00e9s de Semana Santa, comenzar\u00e1 una campa\u00f1a de vacunaci\u00f3n extraordinaria contra sarampi\u00f3n, rub\u00e9ola y paperas para 563.000 ni\u00f1os entre los 15 meses y los 10 a\u00f1os. Esta \u2026 [+2949 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.054109",
+      "internal_id": "3936c0db6404406b1dfb3a5f445d4e8a3c66a6ad6edf4196e464bada420e4c9d",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7562,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Xiao Guo, Youquan Xin, Zehui Tong, Shiyang Cao, Yuan Zhang, Gengshan Wu, Hongyan Chen, Tong Wang, Yajun Song, Qingwen Zhang, Ruifu Yang, Zongmin Du",
+      "title": "A novel sORF gene mutant strain of Yersinia pestis vaccine EV76 offers enhanced safety and improved protection against plague",
+      "description": "Author summary Y. pestis, the causative agent of the deadly plague, has caused three global pandemics throughout history and continues to pose a significant threat in various regions of the world. Unfortunately, there are currently no approved vaccines availa\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012129",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012129.g009&size=inline",
+      "publishedAt": "2024-03-28 14:00:00",
+      "content": "Abstract We recently identified two virulence-associated small open reading frames (sORF) of Yersinia pestis, named yp1 and yp2, and null mutants of each individual genes were highly attenuated in v\u2026 [+72798 chars]",
+      "retrievedAt": "2024-03-29 19:05:29.913259",
+      "internal_id": "29c36721f2a169878e5cbb3f1e790c4217e71fcfb473aa14bced4c31c23eaf7b",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7551,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "jamilleniero",
+      "title": "T\u00f4 com dengue: como acionar seguro de vida e plano de sa\u00fade numa epidemia?",
+      "description": "Diante do aumento de infec\u00e7\u00f5es, especialistas explicam como garantir uma prote\u00e7\u00e3o eficaz e sem surpresas no momento da utiliza\u00e7\u00e3o The post T\u00f4 com dengue: como acionar seguro de vida e plano de sa\u00fade numa epidemia? appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/minhas-financas/to-com-dengue-como-acionar-seguro-de-vida-e-plano-de-saude-numa-epidemia/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/03/seguro-dengue-1.jpeg?quality=70",
+      "publishedAt": "2024-03-28 13:51:00",
+      "content": "O Brasil j\u00e1 convive com a dengue h\u00e1 muitos anos, mas, nos \u00faltimos meses, o pa\u00eds vem enfrentando um aumento alarmante no n\u00famero de casos. At\u00e9 o fechamento desta mat\u00e9ria, o n\u00famero de casos prov\u00e1veis j\u00e1\u2026 [+5074 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.348532",
+      "internal_id": "4d21ff5f04b738a5b8b674a3caf7bccf89806aff080dfbf047f8dd34c3e2a0a3",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7561,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Deidre McPhillips",
+      "title": "Mpox cases in the US are on the rise as vaccination rates lag and new threats loom | CNN",
+      "description": "Mpox cases in the United States are twice as high as they were at this time last year, and experts are stressing the importance of improving vaccination coverage as transmission risks rise.",
+      "url": "https://www.cnn.com/2024/03/28/health/mpox-usa-cases-vaccination-rate/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1532725654.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-28 10:30:59",
+      "content": "Mpox cases in the United States are twice as high as they were at this time last year, and experts are stressing the importance of improving vaccination coverage as transmission risks rise. There ha\u2026 [+6987 chars]",
+      "retrievedAt": "2024-03-29 19:05:29.480640",
+      "internal_id": "e7747ce5d195be84196172ceb4f08ce4f407bad6898202d602e26bae5ea4add8",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7560,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Norte, Centro-Oeste e Sudeste t\u00eam desacelera\u00e7\u00e3o de casos de dengue",
+      "description": "Dados apontam 2.321.050 casos prov\u00e1veis de dengue no Brasil",
+      "url": "https://saude.ig.com.br/2024-03-28/norte--centro-oeste-e-sudeste-tem-desaceleracao-de-casos-de-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-03-28 10:27:36",
+      "content": "Acre, Amap\u00e1 e Amazonas, na Regi\u00e3o Norte, Esp\u00edrito Santo e Minas Gerais, no Sudeste, al\u00e9m de praticamente todo o Centro-Oeste, com exce\u00e7\u00e3o do Mato Grosso Sul, apresentam sinais de desacelera\u00e7\u00e3o de nov\u2026 [+1628 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.438757",
+      "internal_id": "b93e5f39916bab0c189015d0aff24f37580fb5633df1faf48ff2a57fde151e12",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7548,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "L\u2019Argentine confront\u00e9e \u00e0 la pire \u00e9pid\u00e9mie de dengue de son histoire",
+      "description": "Le gouvernement du pr\u00e9sident ultralib\u00e9ral Javier Milei bl\u00e2me ses pr\u00e9d\u00e9cesseurs et n\u2019envisage pas de campagne massive et gratuite de vaccination, contrairement \u00e0 la d\u00e9cision prise par le Br\u00e9sil. Cent six personnes sont mortes de la dengue en Argentine depuis l\u2026",
+      "url": "https://www.courrierinternational.com/article/sante-l-argentine-confrontee-a-la-pire-epidemie-de-dengue-de-son-histoire",
+      "urlToImage": "https://focus.courrierinternational.com/2024/03/26/0/0/5500/3434/1200/630/60/0/74dd969_2024-03-26t132507z-281748115-rc2nt6acyeg5-rtrmadp-3-argentina-dengue.JPG",
+      "publishedAt": "2024-03-28 09:57:55",
+      "content": "LArgentine enregistre la plus grande explosion de cas de dengue de son histoire : plus de 100 000 cas ont \u00e9t\u00e9 d\u00e9tect\u00e9s au premier trimestre 2024, soit onze fois plus que pour la m\u00eame p\u00e9riode lann\u00e9e d\u2026 [+954 chars]",
+      "retrievedAt": "2024-03-29 19:05:28.302368",
+      "internal_id": "7ce04215cbd00a9936710e330655d130ef2e0d950ffc0e96504225a1930a43df",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 7543,
+      "query": [
+        "measles"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Nicole McCain",
+      "title": "News24 | Garden Route warned of possible German measles outbreak",
+      "description": "The National Institute For Communicable Diseases has warned of a potential outbreak of rubella (German measles) in the Garden Route region.",
+      "url": "https://www.news24.com/news24/southafrica/news/garden-route-warned-of-possible-german-measles-outbreak-20240328",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11584/0cdac461bad14d6485d245925d6a7289.jpg",
+      "publishedAt": "2024-03-28 09:39:51",
+      "content": "The National Institute for Communicable Diseases (NICD) has warned of a potential outbreak of rubella (German measles) in the Garden Route region. The NICD said that its Centre for Vaccines and Immu\u2026 [+588 chars]",
+      "retrievedAt": "2024-03-29 19:05:27.765824",
+      "internal_id": "d1475ac189084a3159dd67b2f6096962e9eb248e750af23c891a9b633747de87",
+      "publishedAtLabel": "Mar 28"
+    },
     {
       "id": 7530,
       "query": [
@@ -39134,204 +39496,6 @@
       "content": "O deputado distrital Chico Vigilante (PT) anunciou que est\u00e1 com dengue. Relatando dores em tudo que \u00e9 canto, ele disse que est\u00e1 descansando em casa, em Ceil\u00e2ndia, com sintomas leves da doen\u00e7a. Nunca \u2026 [+1827 chars]",
       "retrievedAt": "2024-02-13 07:06:03.164767",
       "internal_id": "2457532ba8e066e822f01aa231cb224054e15826cb01af6b4ccc523fafa33be5",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5352,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Tjerk Br\u00fchwiller",
-      "title": "Brasilien feiert Karneval und k\u00e4mpft gegen das Denguefieber",
-      "description": "In Rio de Janeiro, Salvador, Recife und anderen Gro\u00dfst\u00e4dten feiern Millionen Menschen die sch\u00f6nste Zeit des Jahres. Doch gleichzeitig steigen die F\u00e4lle von Denguefieber in Brasilien.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/gesellschaft/2402553276/1.9512142/facebook_teaser/in-rio-de-janeiro-parade-der.jpg",
-      "publishedAt": "2024-02-11 17:29:54",
-      "content": "Brasilien ist in den Karneval gestartet, die sch\u00f6nste Zeit im Jahr. Millionen Menschen, darunter unz\u00e4hlige Touristen, werden zu den Stra\u00dfenkarnevals in Rio de Janeiro, Salvador, Recife, S\u00e3o Paulo und\u2026 [+3843 chars]",
-      "retrievedAt": "2024-02-13 07:06:03.238090",
-      "internal_id": "64595c873546a0f0a04bd5b1bd53019e5923d224c20375ecf9db07b874f100d2",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5412,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Diminui\u00e7\u00e3o da urina pode ser sinal de dengue; veja os principais sintomas",
-      "description": "O Brasil enfrenta um desafio de sa\u00fade p\u00fablica com o aumento expressivo os casos de dengue desde o in\u00edcio deste ano. Embora muitas infec\u00e7\u00f5es sejam",
-      "url": "https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
-      "publishedAt": "2024-02-11 14:35:38",
-      "content": "\u00daltimas not\u00edcias: O Brasil enfrenta um desafio de sa\u00fade p\u00fablica com o aumento expressivo os casos de dengue desde o in\u00edcio deste ano. Embora muitas infec\u00e7\u00f5es sejam assintom\u00e1ticas ou produzam apenas \u2026 [+1331 chars]",
-      "retrievedAt": "2024-02-14 07:06:13.471431",
-      "internal_id": "9c592bb5675cdbfc9d15c884e394b09c71f6ed44218791dcb4edee3b83b22ba9",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5348,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Brasil chega a 62 mortes e 408 mil casos prov\u00e1veis de dengue",
-      "description": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil em 2024 chegou a 408 mil, segundo atualiza\u00e7\u00e3o de ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-02-11 14:14:30",
-      "content": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil em 2024 chegou a 408 mil, segundo atualiza\u00e7\u00e3o de sexta-feira, 9, no Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade. J\u00e1 o n\u00famero de v\u00edtim\u2026 [+1150 chars]",
-      "retrievedAt": "2024-02-12 19:05:37.609967",
-      "internal_id": "ea10c6c57509a7bcc15b4372d98f34709cd9f9f14670199710a007f9831fccb4",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5349,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "info@namibian.com.na (Namibian)",
-      "title": "Namibia: Ending Malaria in Namibia",
-      "description": "[Namibian] As a neonate in the nursing profession, I am very worried due to the alarming reports of malaria cases and deaths in our country, particularly in the Zambezi and Ohangwena regions.",
-      "url": "https://allafrica.com/stories/202402110119.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2024-02-11 14:03:31",
-      "content": "As a neonate in the nursing profession, I am very worried due to the alarming reports of malaria cases and deaths in our country, particularly in the Zambezi and Ohangwena regions. Malaria can be pr\u2026 [+3765 chars]",
-      "retrievedAt": "2024-02-12 19:05:38.563815",
-      "internal_id": "33e960c3620a474b47258dccb32eba762efc473d1d7845058e64b8f942d26bf3",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5367,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Gente, iG Gente",
-      "title": "BBB 24: sa\u00fade de Davi, amea\u00e7a de desist\u00eancia e choro agitam manh\u00e3",
-      "description": "Participantes questionaram se Davi pode estar com dengue; veja o resumo",
-      "url": "https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8x/3g/us/8x3gusff41udayup1jpu9a563.jpg",
-      "publishedAt": "2024-02-11 13:55:06",
-      "content": "A madruga deste domingo (11) levantou alerta sobre a sa\u00fade do participante Davi. Colegas de confinamento est\u00e3o preocupados com o mal-estar e relato de dores do brother. Al\u00e9m disso, sem a festa, parti\u2026 [+4133 chars]",
-      "retrievedAt": "2024-02-13 07:06:03.300700",
-      "internal_id": "0010841672fe5f00f8f468828785480f95d196f22edbef0832464722d4df2549",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5358,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
-      "title": "N\u00famero de mortes por dengue em SP sobe para 9",
-      "description": "As mortes foram registradas em Bebedouro (1), Guarulhos (1), Pederneiras (1), Pindamonhangaba (2), S\u00e3o Paulo (1), Taubat\u00e9 (2) e Trememb\u00e9 (1)",
-      "url": "https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0h/8t/px/0h8tpxwmjwdegegn5t8xle7q2.jpg",
-      "publishedAt": "2024-02-11 13:48:48",
-      "content": "O n\u00famero de mortes por dengue no estado de S\u00e3o Paulo aumentou para nove, de acordo com a Secretaria Estadual de Sa\u00fade de S\u00e3o Paulo. Tr\u00eas novos \u00f3bitos foram confirmados desde o \u00faltimo boletim divulgad\u2026 [+1592 chars]",
-      "retrievedAt": "2024-02-13 07:06:03.265460",
-      "internal_id": "d400d70b182b47b6a1bdd49b347ed6c20488673ce37a752d9c33412a139231b1",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5356,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
-      "title": "Brasil tem 408 mil casos prov\u00e1veis de dengue em 2024",
-      "description": "foram confirmadas 62 mortes",
-      "url": "https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2024-02-11 13:07:49",
-      "content": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil atingiu 408 mil, de acordo com dados do Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade, atualizados na sexta-feira (9). O coeficiente de\u2026 [+1783 chars]",
-      "retrievedAt": "2024-02-13 07:06:03.257692",
-      "internal_id": "9df5b91eaebcc0b6116acbf724100cfc0c169dc9cfcecc4e498923e3c6fbb88b",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5355,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Dengue: N\u00famero de casos no pa\u00eds chega a 408 mil, segundo Minist\u00e9rio da Sa\u00fade",
-      "description": "O coeficiente de incid\u00eancia da doen\u00e7a no pa\u00eds est\u00e1 em 201 casos de dengue por 100 mil habitantes",
-      "url": "https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/RuQf_pEbJ1Nb-qrOotOm4j93pUA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/H/E/BprEiDSnKAVC5gvAuaag/105824609-bras-c3-adlia-20df-2008-02-2024-20carro-20do-20fumac-c3-aa-20contra-20a-20dengue-20passa-20pela-20ql-2026-20do-20lago-20sul-20nessa.jpg",
-      "publishedAt": "2024-02-11 12:39:14",
-      "content": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil chegou a 408 mil, segundo informa\u00e7\u00f5es do Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade. Os dados foram atualizados na sexta-feira (9). \u2026 [+1100 chars]",
-      "retrievedAt": "2024-02-13 07:06:03.253843",
-      "internal_id": "f25c60c742d5797923d30331b86b9d04efa2fd3888564292292a43da1a11f6c7",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5347,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Revista Oeste - Brasil",
-      "title": "Dengue no Brasil: Mais de 60 mortes e 405 mil casos prov\u00e1veis",
-      "description": "N\u00famero de casos graves mais que triplicou se comparado ao mesmo per\u00edodo...",
-      "url": "https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024",
-      "urlToImage": "https://img.r7.com/images/r7-30072019142631584?dimensions=340x191&crop_position=c",
-      "publishedAt": "2024-02-11 12:35:00",
-      "content": "N\u00famero de casos graves mais que triplicou se comparado ao mesmo per\u00edodo no ano passado Consulte a mat\u00e9ria completa sobre a Dengue no Brasil na Revista Oeste Leia a mat\u00e9ria completa no nosso parceiro \u2026 [+445 chars]",
-      "retrievedAt": "2024-02-12 19:05:37.549489",
-      "internal_id": "4fbb7abe433c42b2b6f389fe780d1c4288f78ce4c6a849fd25d6f38358fd9d60",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5362,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Dengue cases down in ME06, one death reported",
-      "description": "PUTRAJAYA: The number of dengue cases dropped to 3,631 in the 6th Epidemiological Week (EW06) from Feb 4-10, compared to 3,969 cases in the previous week, with one death due to dengue fever complications. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/02/11/2539036.jpg",
-      "publishedAt": "2024-02-11 11:05:00",
-      "content": "PUTRAJAYA: The number of dengue cases dropped to 3,631 in the 6th Epidemiological Week (EW06) from Feb 4-10, compared to 3,969 cases in the previous week, with one death due to dengue fever complicat\u2026 [+1247 chars]",
-      "retrievedAt": "2024-02-13 07:06:03.280351",
-      "internal_id": "17c0806ba3c2cb00d607bdf7477cf96a416a93cbeb33ecf8ca53a038308a5fda",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5346,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "BY JERUSALEM POST STAFF",
-      "title": "Measles found in Haifa boy, linked to two cases reported earlier this month",
-      "description": "A boy in Haifa has measles, the Health Ministry announced on Sunday.The case is linked to two cases reported a",
-      "url": "https://www.jpost.com/breaking-news/article-786269",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
-      "publishedAt": "2024-02-11 07:48:17",
-      "content": "A boy in Haifa has measles, the Health Ministry announced on Sunday. The case is linked to two cases reported about a week and a half ago, in a pair of brothers. None of the children were vaccinate\u2026 [+323 chars]",
-      "retrievedAt": "2024-02-12 19:05:36.509411",
-      "internal_id": "7d6fe42b98e0b45937d10ed3e9b980635ccc81597a1d26ef4e7df9421fc6f303",
       "publishedAtLabel": "Feb 11"
     }
   ]

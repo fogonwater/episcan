@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-03-29 07:06
-- **Most recent article:** 2024-03-28 07:00:00
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-03-29 19:05
+- **Most recent article:** 2024-03-28 19:05:01
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 100 | 188 | 188 | 207 | 1236 |
-| measles | 86 | 112 | 87 | 31 | 43 | 100 | 80 | 539 |
-| malaria | 15 | 23 | 18 | 5 | 19 | 33 | 17 | 130 |
-| zika | 16 | 16 | 12 | 19 | 6 | 13 | 11 | 93 |
-| chikungunya | 8 | 20 | 15 | 8 | 8 | 14 | 16 | 89 |
+| dengue | 192 | 181 | 180 | 115 | 179 | 188 | 207 | 1242 |
+| measles | 86 | 112 | 87 | 33 | 42 | 100 | 80 | 540 |
+| malaria | 15 | 23 | 18 | 5 | 18 | 33 | 17 | 129 |
+| zika | 16 | 16 | 12 | 20 | 6 | 13 | 11 | 94 |
+| chikungunya | 8 | 20 | 15 | 9 | 8 | 14 | 16 | 90 |
 | meningitis | 16 | 5 | 8 | 2 | 8 | 7 | 4 | 50 |
 | rabies | 6 | 6 | 9 | 2 | 9 | 5 | 8 | 45 |
-| sarampión | 3 | 3 | 12 | 2 | 3 | 11 | 5 | 39 |
-| mpox | 5 | 8 | 4 | 3 | 8 | 6 | 1 | 35 |
+| sarampión | 3 | 3 | 12 | 3 | 3 | 11 | 5 | 40 |
+| mpox | 5 | 8 | 4 | 4 | 8 | 6 | 1 | 36 |
 | pertussis | 4 | 5 | 3 | 2 | 6 | 0 | 4 | 24 |
-| yersinia | 1 | 3 | 3 | 0 | 2 | 1 | 1 | 11 |
+| yersinia | 1 | 3 | 3 | 1 | 2 | 1 | 1 | 12 |
 | typhoid | 0 | 0 | 1 | 0 | 2 | 2 | 1 | 6 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
 | leptospirosis | 0 | 1 | 0 | 0 | 1 | 0 | 2 | 4 |
@@ -1748,8 +1748,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
 
-- [Measles found in Haifa boy, linked to two cases reported earlier this month](https://www.jpost.com/breaking-news/article-786269) (The Jerusalem Post)
-
 ## 24-7 (malaria)
 
 - [Forskare: Möjligt att utrota malaria om tio år – om vi vill](https://www.dn.se/sverige/forskare-mojligt-att-utrota-malaria-om-tio-ar-om-vi-vill/) (Www.dn.se)
@@ -1787,8 +1785,6 @@ Source: [News API](https://newsapi.org/)
 - [Atenţionare de călătorie a MAE: Menţinerea pericolului de îmbolnăvire cu „malaria de import”](https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197) (Mediafax.ro)
 
 - [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
-
-- [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (leptospirosis)
 
@@ -2154,24 +2150,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
 
-- [Brasilien feiert Karneval und kämpft gegen das Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html) (Faz.net)
-
-- [Diminuição da urina pode ser sinal de dengue; veja os principais sintomas](https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/) (Catracalivre.com.br)
-
-- [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
-
-- [BBB 24: saúde de Davi, ameaça de desistência e choro agitam manhã](https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html) (Ig.com.br)
-
-- [Número de mortes por dengue em SP sobe para 9](https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html) (Ig.com.br)
-
-- [Brasil tem 408 mil casos prováveis de dengue em 2024](https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html) (Ig.com.br)
-
-- [Dengue: Número de casos no país chega a 408 mil, segundo Ministério da Saúde](https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml) (Globo)
-
-- [Dengue no Brasil: Mais de 60 mortes e 405 mil casos prováveis](https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024) (R7.com)
-
-- [Dengue cases down in ME06, one death reported](https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported) (The Star Online)
-
 ## 24-7 (chikungunya)
 
 - [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
@@ -2191,6 +2169,8 @@ Source: [News API](https://newsapi.org/)
 - [Death risk from chikungunya continues for up to three months: Lancet study](https://timesofindia.indiatimes.com/home/science/chikungunya-virus-increased-risk-of-death-for-up-to-three-months-says-lancet-study/articleshow/107683262.cms) (The Times of India)
 
 ## 24-13 (zika)
+
+- [¿Qué es el dengue y cómo tratarlo?](https://cnnespanol.cnn.com/2024/03/28/que-es-dengue-como-tratarlo-orix/) (CNN)
 
 - [Digital tools to forecast climate-sensitive diseases](https://www.springwise.com/innovation/health-wellbeing/digital-tools-to-forecast-climate-sensitive-diseases/) (Springwise.com)
 
@@ -2230,7 +2210,13 @@ Source: [News API](https://newsapi.org/)
 
 - [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
 
+## 24-13 (yersinia)
+
+- [A novel sORF gene mutant strain of Yersinia pestis vaccine EV76 offers enhanced safety and improved protection against plague](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012129) (Plos.org)
+
 ## 24-13 (sarampión)
+
+- [¿Dónde llevo a mi hijo a vacunarse contra el sarampión?](https://www.nacion.com/ciencia/salud/donde-llevo-a-mi-hijo-a-vacunarse-contra-el/FKJAZSLHJFAD5NWJTXQQXTVMG4/story/) (Nacion.com)
 
 - [Preguntas y respuestas sobre la vacunación contra sarampión en Costa Rica](https://www.nacion.com/ciencia/salud/preguntas-y-respuestas-sobre-la-vacunacion-contra/WMETU3DV5JHIDBOGQIO6ZQFQHI/story/) (Nacion.com)
 
@@ -2250,6 +2236,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-13 (mpox)
 
+- [Mpox cases in the US are on the rise as vaccination rates lag and new threats loom | CNN](https://www.cnn.com/2024/03/28/health/mpox-usa-cases-vaccination-rate/index.html) (CNN)
+
 - [Viral Genetics Confirms What On-the-Ground Activists Knew Early in the Mpox Outbreak](https://www.scientificamerican.com/article/viral-genetics-confirms-what-on-the-ground-activists-knew-early-in-the-mpox/) (Scientific American)
 
 - [Why the mpox outbreak in the Democratic Republic of Congo is worrying disease docs](https://www.npr.org/sections/goatsandsoda/2024/03/27/1239276957/mpox-outbreak-democratic-republic-of-congo-deadlier-strain) (NPR)
@@ -2263,6 +2251,10 @@ Source: [News API](https://newsapi.org/)
 - [New testing approach improves detection of rare but emerging Powassan virus spread by deer ticks](https://www.sciencedaily.com/releases/2024/03/240326170114.htm) (Science Daily)
 
 ## 24-13 (measles)
+
+- [Implications of Measles Inclusion by Commercial Syndromic Polymerase Chain Reaction Panels — United States, May 2022–April 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7312a3.htm) (Cdc.gov)
+
+- [News24 | Garden Route warned of possible German measles outbreak](https://www.news24.com/news24/southafrica/news/garden-route-warned-of-possible-german-measles-outbreak-20240328) (News24)
 
 - [Attleboro public health nurse urges measles vaccinations for those traveling internationally](https://www.thesunchronicle.com/news/local_news/attleboro-public-health-nurse-urges-measles-vaccinations-for-those-traveling-internationally/article_4024c3e0-525a-587e-8adc-b4d34b78d3fe.html) (The Sun Chronicle)
 
@@ -2339,6 +2331,36 @@ Source: [News API](https://newsapi.org/)
 - [Roche receives FDA approval for the first molecular test to screen for malaria in blood donors](https://www.globenewswire.com/news-release/2024/03/26/2852619/0/en/Roche-receives-FDA-approval-for-the-first-molecular-test-to-screen-for-malaria-in-blood-donors.html) (GlobeNewswire)
 
 ## 24-13 (dengue)
+
+- [Dengue is sweeping through the Americas early this year](https://www.startribune.com/dengue-is-sweeping-through-the-americas-early-this-year/600354745/) (Minneapolis Star Tribune)
+
+- [Governo divulga lista de cidades que receberão vacina contra dengue](https://www.metropoles.com/brasil/governo-divulga-lista-de-cidades-que-receberao-vacina-contra-dengue) (Metropoles.com)
+
+- [L’Amérique du Sud, l’Amérique centrale et les Caraïbes durement touchées par la dengue](https://www.lemonde.fr/planete/article/2024/03/28/l-amerique-du-sud-l-amerique-centrale-et-les-caraibes-durement-touchees-par-la-dengue_6224717_3244.html) (Le Monde)
+
+- [Rio de Janeiro declares a dengue health emergency days ahead of Carnival](https://financialpost.com/pmn/business-pmn/rio-de-janeiro-declares-a-dengue-health-emergency-days-ahead-of-carnival) (Financial Post)
+
+- [Rio de Janeiro declares a dengue health emergency days ahead of Carnival](https://www.startribune.com/correction-brazil-dengue-outbreaks-story/600341115/) (Minneapolis Star Tribune)
+
+- [Dengue fever outbreak in Puerto Rico creates public health emergency](https://www.nbcnews.com/news/latino/dengue-fever-outbreak-puerto-rico-creates-public-health-emergency-rcna145470) (NBC News)
+
+- [Opas: “Esta epidemia de dengue será a pior da história do mundo”](https://www.metropoles.com/saude/opas-pior-epidemia-de-dengue-da-historia) (Metropoles.com)
+
+- [¿Qué es el dengue y cómo tratarlo?](https://cnnespanol.cnn.com/2024/03/28/que-es-dengue-como-tratarlo-orix/) (CNN)
+
+- [Puerto Rico declara emergencia de salud pública luego de más de 500 casos de dengue en 2024](https://cnnespanol.cnn.com/2024/03/28/puerto-rico-emergencia-salud-dengue-trax/) (CNN)
+
+- [OPS advierte que se espera la peor temporada de dengue en la historia en América Latina](https://www.montevideo.com.uy/Salud/OPS-advierte-que-se-espera-la-peor-temporada-de-dengue-en-la-historia-en-America-Latina-uc883893) (Montevideo.com.uy)
+
+- [Dengue: Américas podem registrar pior surto da história, alerta Opas](https://jornaldebrasilia.com.br/noticias/brasil/dengue-americas-podem-registrar-pior-surto-da-historia-alerta-opas/) (Jornaldebrasilia.com.br)
+
+- [Vacinação pode levar até 8 anos para reduzir transmissão da dengue](https://jornaldebrasilia.com.br/noticias/brasil/vacinacao-pode-levar-ate-8-anos-para-reduzir-transmissao-da-dengue/) (Jornaldebrasilia.com.br)
+
+- [Tô com dengue: como acionar seguro de vida e plano de saúde numa epidemia?](https://www.infomoney.com.br/minhas-financas/to-com-dengue-como-acionar-seguro-de-vida-e-plano-de-saude-numa-epidemia/) (InfoMoney)
+
+- [Norte, Centro-Oeste e Sudeste têm desaceleração de casos de dengue](https://saude.ig.com.br/2024-03-28/norte--centro-oeste-e-sudeste-tem-desaceleracao-de-casos-de-dengue.html) (Ig.com.br)
+
+- [L’Argentine confrontée à la pire épidémie de dengue de son histoire](https://www.courrierinternational.com/article/sante-l-argentine-confrontee-a-la-pire-epidemie-de-dengue-de-son-histoire) (Courrier International)
 
 - [Água sanitária mata o mosquito da dengue?](https://olhardigital.com.br/2024/03/28/medicina-e-saude/agua-sanitaria-mata-o-mosquito-da-dengue/) (Olhardigital.com.br)
 
@@ -2541,6 +2563,8 @@ Source: [News API](https://newsapi.org/)
 - [Race is on to make Paris Olympics mosquito-free](https://www.channelnewsasia.com/sport/paris-olympics-tiger-mosquito-free-dengue-zika-4217931) (CNA)
 
 ## 24-13 (chikungunya)
+
+- [¿Qué es el dengue y cómo tratarlo?](https://cnnespanol.cnn.com/2024/03/28/que-es-dengue-como-tratarlo-orix/) (CNN)
 
 - [News24 | Africa under the microscope: Continent has 44 disease outbreaks and 104 active epidemic emergencies](https://www.news24.com/news24/africa/news/africa-under-the-microscope-continent-has-44-disease-outbreaks-and-104-active-epidemic-emergencies-20240327) (News24)
 
