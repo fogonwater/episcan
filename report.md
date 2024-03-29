@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 32
-- **Last harvest:** 2024-03-28 19:05
-- **Most recent article:** 2024-03-27 19:04:45
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-03-29 07:06
+- **Most recent article:** 2024-03-28 07:00:00
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 87 | 179 | 188 | 207 | 1214 |
-| measles | 86 | 112 | 87 | 27 | 42 | 100 | 80 | 534 |
-| malaria | 15 | 23 | 18 | 5 | 18 | 33 | 17 | 129 |
-| zika | 16 | 16 | 12 | 18 | 6 | 13 | 11 | 92 |
+| dengue | 192 | 181 | 180 | 100 | 188 | 188 | 207 | 1236 |
+| measles | 86 | 112 | 87 | 31 | 43 | 100 | 80 | 539 |
+| malaria | 15 | 23 | 18 | 5 | 19 | 33 | 17 | 130 |
+| zika | 16 | 16 | 12 | 19 | 6 | 13 | 11 | 93 |
 | chikungunya | 8 | 20 | 15 | 8 | 8 | 14 | 16 | 89 |
 | meningitis | 16 | 5 | 8 | 2 | 8 | 7 | 4 | 50 |
 | rabies | 6 | 6 | 9 | 2 | 9 | 5 | 8 | 45 |
@@ -1748,6 +1748,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
 
+- [Measles found in Haifa boy, linked to two cases reported earlier this month](https://www.jpost.com/breaking-news/article-786269) (The Jerusalem Post)
+
 ## 24-7 (malaria)
 
 - [Forskare: Möjligt att utrota malaria om tio år – om vi vill](https://www.dn.se/sverige/forskare-mojligt-att-utrota-malaria-om-tio-ar-om-vi-vill/) (Www.dn.se)
@@ -1785,6 +1787,8 @@ Source: [News API](https://newsapi.org/)
 - [Atenţionare de călătorie a MAE: Menţinerea pericolului de îmbolnăvire cu „malaria de import”](https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197) (Mediafax.ro)
 
 - [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
+
+- [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (leptospirosis)
 
@@ -2150,6 +2154,24 @@ Source: [News API](https://newsapi.org/)
 
 - [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
 
+- [Brasilien feiert Karneval und kämpft gegen das Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html) (Faz.net)
+
+- [Diminuição da urina pode ser sinal de dengue; veja os principais sintomas](https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/) (Catracalivre.com.br)
+
+- [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
+
+- [BBB 24: saúde de Davi, ameaça de desistência e choro agitam manhã](https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html) (Ig.com.br)
+
+- [Número de mortes por dengue em SP sobe para 9](https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html) (Ig.com.br)
+
+- [Brasil tem 408 mil casos prováveis de dengue em 2024](https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html) (Ig.com.br)
+
+- [Dengue: Número de casos no país chega a 408 mil, segundo Ministério da Saúde](https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml) (Globo)
+
+- [Dengue no Brasil: Mais de 60 mortes e 405 mil casos prováveis](https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024) (R7.com)
+
+- [Dengue cases down in ME06, one death reported](https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported) (The Star Online)
+
 ## 24-7 (chikungunya)
 
 - [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
@@ -2169,6 +2191,8 @@ Source: [News API](https://newsapi.org/)
 - [Death risk from chikungunya continues for up to three months: Lancet study](https://timesofindia.indiatimes.com/home/science/chikungunya-virus-increased-risk-of-death-for-up-to-three-months-says-lancet-study/articleshow/107683262.cms) (The Times of India)
 
 ## 24-13 (zika)
+
+- [Digital tools to forecast climate-sensitive diseases](https://www.springwise.com/innovation/health-wellbeing/digital-tools-to-forecast-climate-sensitive-diseases/) (Springwise.com)
 
 - [Como essa planta indígena pode ser usada no tratamento contra doença viral?](https://olhardigital.com.br/2024/03/27/medicina-e-saude/como-essa-planta-indigena-pode-ser-usada-no-tratamento-contra-doenca-viral/) (Olhardigital.com.br)
 
@@ -2240,6 +2264,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-13 (measles)
 
+- [Attleboro public health nurse urges measles vaccinations for those traveling internationally](https://www.thesunchronicle.com/news/local_news/attleboro-public-health-nurse-urges-measles-vaccinations-for-those-traveling-internationally/article_4024c3e0-525a-587e-8adc-b4d34b78d3fe.html) (The Sun Chronicle)
+
+- [Chicago measles outbreak surges as US cases jump 800%](https://www.newsnationnow.com/health/chicago-measles-outbreak-surge/) (Newsnationnow.com)
+
+- [Measles outbreaks show the risks of under-vaccination](https://www.hsph.harvard.edu/news/features/measles-outbreaks-show-the-risks-of-under-vaccination/) (Harvard School of Engineering and Applied Sciences)
+
+- [Measles cases in Canada are increasing, Canada's chief public health officer warns](https://www.sasktoday.ca/national-news/measles-cases-in-canada-are-increasing-canadas-chief-public-health-officer-warns-8517989) (Sasktoday.ca)
+
 - [U.S. measles cases this year have already surpassed the 2023 total](https://www.nbcnews.com/health/health-news/us-measles-cases-2024-so-far-rcna145013) (NBC News)
 
 - [Measles cases rising in Canada: public health officer](https://www.cp24.com/news/measles-cases-in-canada-are-increasing-canada-s-chief-public-health-officer-warns-1.6824635) (CP24 Toronto's Breaking News)
@@ -2307,6 +2339,32 @@ Source: [News API](https://newsapi.org/)
 - [Roche receives FDA approval for the first molecular test to screen for malaria in blood donors](https://www.globenewswire.com/news-release/2024/03/26/2852619/0/en/Roche-receives-FDA-approval-for-the-first-molecular-test-to-screen-for-malaria-in-blood-donors.html) (GlobeNewswire)
 
 ## 24-13 (dengue)
+
+- [Água sanitária mata o mosquito da dengue?](https://olhardigital.com.br/2024/03/28/medicina-e-saude/agua-sanitaria-mata-o-mosquito-da-dengue/) (Olhardigital.com.br)
+
+- [Digital tools to forecast climate-sensitive diseases](https://www.springwise.com/innovation/health-wellbeing/digital-tools-to-forecast-climate-sensitive-diseases/) (Springwise.com)
+
+- [Atendimento Itinerante da DPDF atenderá população em vulnerabilidade](https://www.metropoles.com/distrito-federal/atendimento-itinerante-da-dpdf-atendera-populacao-em-vulnerabilidade) (Metropoles.com)
+
+- [Pacientes internados com dengue são deixados em corredor de UPA do DF](https://www.metropoles.com/distrito-federal/pacientes-internados-com-dengue-sao-deixados-em-corredor-de-upa-do-df) (Metropoles.com)
+
+- [Dengue: avanzarán con la vacunación focalizada en áreas de alto riesgo y por edad](https://www.lanacion.com.ar/sociedad/dengue-avanzaran-con-la-vacunacion-focalizada-en-areas-de-alto-riesgo-y-por-edad-nid27032024/) (La Nacion)
+
+- [With Hundreds Hospitalized, Puerto Rico Declares Epidemic](https://www.newser.com/story/348271/with-hundreds-hospitalized-puerto-rico-declares-epidemic.html) (Newser)
+
+- [Flu, dengue fever pose risk](https://www.bangkokpost.com/thailand/general/2766443/flu-dengue-fever-pose-risk) (Bangkok Post)
+
+- [Puerto Rico declares public health emergency as dengue cases rise](https://arstechnica.com/science/2024/03/puerto-rico-declares-public-health-emergency-as-dengue-cases-rise/) (Ars Technica)
+
+- [¿50 o 300? Brote de dengue en una escuela cordobesa: cruce por la cantidad de contagiados](https://www.lanacion.com.ar/sociedad/50-o-300-brote-de-dengue-en-una-escuela-cordobesa-cruce-por-la-cantidad-de-contagiados-nid27032024/) (La Nacion)
+
+- [MSP advierte sobre falsa campaña de vacunación por dengue vía WhatsApp](https://www.montevideo.com.uy/Salud/MSP-advierte-sobre-falsa-campana-de-vacunacion-por-dengue-via-WhatsApp-uc883807) (Montevideo.com.uy)
+
+- [Governo amplia em 154 o número de cidades com vacina contra a dengue](https://www.metropoles.com/brasil/governo-amplia-em-154-o-numero-de-cidades-com-vacina-contra-a-dengue) (Metropoles.com)
+
+- [Estos son los elementos infalibles para ahuyentar a los mosquitos de casa](https://www.lanacion.com.ar/lifestyle/en-las-redes/estos-son-los-elementos-infalibles-para-ahuyentar-a-los-mosquitos-de-casa-nid27032024/) (La Nacion)
+
+- [U.S. Territory Declares Public Health Emergency](https://dailycaller.com/2024/03/27/puerto-rico-declares-public-health-emergency-dengue-fever/) (The Daily Caller)
 
 - [Tinta inseticida vendida no Brasil mata mosquito transmissor da dengue](https://www.metropoles.com/brasil/tinta-inseticida-vendida-no-brasil-mata-mosquito-transmissor-da-dengue) (Metropoles.com)
 
