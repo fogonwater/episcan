@@ -1,8 +1,386 @@
 {
-  "last_updated": "2024-03-30 07:06",
-  "count_articles_total": 2224,
-  "count_articles_new": 26,
+  "last_updated": "2024-03-30 19:05",
+  "count_articles_total": 2234,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 7602,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sara Moniuszko",
+      "title": "What is meningococcal disease? Symptoms to know as CDC warns of spike",
+      "description": "The CDC is warning about a rise in meningococcal disease, a rare bacterial illnesses than can lead to meningitis and possible death. Here's what to know about symptoms, transmission and treatment.",
+      "url": "https://www.cbsnews.com/news/meningococcal-disease-symptoms-treatment/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/04/12/c3fd3a1b-dbd8-4367-a6f4-f6205ad6cee6/thumbnail/1200x630/c332986e36b28cee16be7b34b6b4e1c6/GettyImages-1265278079.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
+      "publishedAt": "2024-03-29 18:05:16",
+      "content": "The Centers for Disease Control and Prevention is warning about a rise in meningococcal disease, a rare bacterial illnesses than can lead to meningitis, a potentially fatal infection. In an alert t\u2026 [+3200 chars]",
+      "retrievedAt": "2024-03-30 19:05:38.058591",
+      "internal_id": "a6d78d2806791abb184438b9ca8a84a47039a9a6fa198b43257181ee4c866c77",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7590,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "US has already had more measles cases in 2024 than all of 2023",
+      "description": "CDC data shows that more than 60 measles cases have been reported so far in 2024, surpassing last year's total.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/us-has-already-had-more-measles-cases-in-2024-than-all-of-2023",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iLApayxH3vCv92kMvdwhdU-1200-80.jpg",
+      "publishedAt": "2024-03-29 17:46:53",
+      "content": "The number of measles cases reported in the U.S. so far this year has already surpassed the total number of infections counted in 2023. According to data released by the Centers for Disease Contro\u2026 [+3257 chars]",
+      "retrievedAt": "2024-03-30 19:05:36.847344",
+      "internal_id": "d0d215f729306a8d4238886cdaa68ee017e89d555875c278a2173a6f9317ae40",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7591,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "WND Staff",
+      "title": "Experts warn nation's food supply threatened by infected illegals",
+      "description": "There is ample evidence the illegal aliens invading the United States under Joe Biden's open borders policy have brought in dangerous diseases \u2013 infections like chicken pox, mumps, measles and tuberculosis, that mostly had been eliminated from America. But no\u2026",
+      "url": "https://www.wnd.com/2024/03/experts-warn-nations-food-supply-threatened-infected-illegals/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2024/03/farm-cow-cattle-food-unsplash-1200x630.jpg",
+      "publishedAt": "2024-03-29 17:15:02",
+      "content": "Mycobacterium tuberculosis There is ample evidence the illegal aliens invading the United States under Joe Biden's open borders policy have brought in dangerous diseases infections like chicken pox,\u2026 [+3651 chars]",
+      "retrievedAt": "2024-03-30 19:05:36.874002",
+      "internal_id": "acc150d8ca60be772b2e03eef022141c8bdf77655fea09bbc144bd9c2a938623",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7607,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "WSAZ-TV",
+      "author": "Associated Press",
+      "title": "US officials warn of increase in bacterial illnesses that can lead to meningitis and possibly death",
+      "description": "The Centers for Disease Control and Prevention issued an alert on Thursday about an increase in cases of one type of invasive meningococcal disease.",
+      "url": "https://www.wsaz.com/2024/03/29/us-officials-warn-increase-bacterial-illnesses-that-can-lead-meningitis-possibly-death/",
+      "urlToImage": "https://gray-wsaz-prod.cdn.arcpublishing.com/resizer/v2/JG64T3ET3BGYHIX2EMEY5NZNDI.jpg?auth=98a619e71f1f8729d64d9b51979d50c7f8aeac0fdadf937e6adecb11ebfadc82&width=1200&height=600&smart=true",
+      "publishedAt": "2024-03-29 15:59:27",
+      "content": "NEW YORK (AP) U.S. health officials are warning of an increase in rare bacterial illnesses than can lead to meningitis and possible death. The Centers for Disease Control and Prevention issued an al\u2026 [+1844 chars]",
+      "retrievedAt": "2024-03-30 19:05:38.085270",
+      "internal_id": "684494107c4142be122e9ee8639c42b077be8dc97e62f26d55f8ab5a86671b65",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7595,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Peter Weber, The Week US)",
+      "title": "Dengue hits the Americas hard and early",
+      "description": "Puerto Rico has declared an epidemic as dengue cases surge",
+      "url": "https://theweek.com/health/dengue-cases-record-surge-epidemic",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7NQxCUnECjMvJ2W8AjDoMY-1200-80.jpg",
+      "publishedAt": "2024-03-29 15:56:39",
+      "content": "What happened The Pan American Health Organization, the World Health Organization's regional offshoot, warned Thursday that dengue is walloping the Americas this year, with 3.5 million cases of the \u2026 [+1341 chars]",
+      "retrievedAt": "2024-03-30 19:05:37.592692",
+      "internal_id": "8d5d84f4f168dab3e6506ed4b93c94e7f365b0bde751d3461161cdf19fb90c49",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7603,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Associated Press and Erika Edwards",
+      "title": "CDC warns of increase in bacterial illnesses that can lead to meningitis and possibly death",
+      "description": "The CDC issued an alert to doctors about an increase in rare bacterial illnesses than can lead to meningitis and possible death.",
+      "url": "https://www.nbcnews.com/health/health-news/cdc-warns-increase-bacterial-illnesses-meningitis-rcna145613",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240329-Neisseria-meningitidis-bacteria-se-1022a-48ba35.jpg",
+      "publishedAt": "2024-03-29 15:47:09",
+      "content": "U.S. health officials are warning of an increase in rare bacterial illnesses that can lead to meningitis and possible death. The Centers for Disease Control and Prevention issued an alert to U.S. do\u2026 [+2034 chars]",
+      "retrievedAt": "2024-03-30 19:05:38.067545",
+      "internal_id": "0f71b67a589363496776cd4064c506e00e8e282c9984f13fd9507798212ea219",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7596,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "EFE",
+      "title": "OPS advierte: \u2018Se espera la peor temporada de dengue en la historia de Am\u00e9rica Latina\u2019",
+      "description": "El aumento de los casos de dengue se est\u00e1 produciendo \u201cen todos los pa\u00edses de Am\u00e9rica Latina y el Caribe\u201d.",
+      "url": "https://www.elfinanciero.com.mx/mundo/2024/03/29/ops-advierte-se-espera-la-peor-temporada-de-dengue-en-la-historia-en-america-latina/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/CHjA-9IigwEGH2JbOCJlRgJGv_s=/1200x630/filters:format(jpg):quality(70):focal(692x315:702x325)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JDYYR2SAYNGETGE4FGDOMUMTOA.jpg",
+      "publishedAt": "2024-03-29 15:40:51",
+      "content": "Washington.- La Organizaci\u00f3n Panamericana de la Salud (OPS) alert\u00f3 de que se espera que esta sea la peor temporada de dengue en la historia para el continente americano, una situaci\u00f3n que se da en gr\u2026 [+3516 chars]",
+      "retrievedAt": "2024-03-30 19:05:37.662274",
+      "internal_id": "2c3b11ba0d798cc027427501ced78a79e32bfaafa87fd912e7aca90399163e11",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7599,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Sandra Lilley",
+      "title": "A record surge in dengue cases in Latin America spurs a warning for proactive measures",
+      "description": "A record surge in dengue cases throughout Latin America and the Caribbean this year prompted the head of the Pan American Health Organization to call for collective action to curb the deadly mosquito-borne viral disease.",
+      "url": "https://www.nbcnews.com/news/latino/record-surge-dengue-cases-latin-america-spurs-warning-rcna145612",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240329-dengue-fever-peru-se-1043a-134ad1.jpg",
+      "publishedAt": "2024-03-29 15:03:20",
+      "content": "A record surge in dengue cases throughout Latin America and the Caribbean prompted the head of the Pan American Health Organization to warn of the need for proactive measures to curb the virus that i\u2026 [+2511 chars]",
+      "retrievedAt": "2024-03-30 19:05:37.710650",
+      "internal_id": "c6bafc41eec68d1fc0c07af941f231a7c59c027e6f40c2ba26c966bc78019e63",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7606,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "KPTV.com",
+      "author": "Associated Press",
+      "title": "US officials warn of increase in bacterial illnesses that can lead to meningitis and possibly death",
+      "description": "The Centers for Disease Control and Prevention issued an alert on Thursday about an increase in cases of one type of invasive meningococcal disease.",
+      "url": "https://www.kptv.com/2024/03/29/us-officials-warn-increase-bacterial-illnesses-that-can-lead-meningitis-possibly-death/",
+      "urlToImage": "https://gray-kptv-prod.cdn.arcpublishing.com/resizer/v2/JG64T3ET3BGYHIX2EMEY5NZNDI.jpg?auth=98a619e71f1f8729d64d9b51979d50c7f8aeac0fdadf937e6adecb11ebfadc82&width=1200&height=600&smart=true",
+      "publishedAt": "2024-03-29 15:00:39",
+      "content": "NEW YORK (AP) U.S. health officials are warning of an increase in rare bacterial illnesses than can lead to meningitis and possible death. The Centers for Disease Control and Prevention issued an al\u2026 [+1844 chars]",
+      "retrievedAt": "2024-03-30 19:05:38.081663",
+      "internal_id": "e4eecda171cf0ab8e17b2541c23ee2795848bdd87b3836ce599011afcf76a19e",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7605,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "KGW.com",
+      "author": "Mike Stobbe (ap Medical Writer)",
+      "title": "Deadly meningitis-causing bacteria on the rise, CDC warns",
+      "description": "Last year, 422 cases of it were reported in the U.S. \u2014 the most in a year since 2014. This year, the numbers are already on track to beat that total.",
+      "url": "https://www.kgw.com/article/news/nation-world/us-officials-warn-bacterial-illnesses-meningitis-death/507-c8fbd8e9-4512-4737-b14a-a74f0e8b1bbe",
+      "urlToImage": "https://media.kgw.com/assets/CCT/images/c6a6bd8e-c09f-4355-aaa0-f3a2412000fa/c6a6bd8e-c09f-4355-aaa0-f3a2412000fa_1140x641.jpg",
+      "publishedAt": "2024-03-29 14:10:00",
+      "content": "NEW YORK U.S. health officials are warning of an increase in rare bacterial illnesses than can lead to meningitis and possible death. The Centers for Disease Control and Prevention issued an alert t\u2026 [+1581 chars]",
+      "retrievedAt": "2024-03-30 19:05:38.078084",
+      "internal_id": "927c34ac9c16fe0650a8d6ff663f7c8ad866ee64f6cee54870d2f2f4679f29ee",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7598,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i,",
+      "title": "Am\u00e9rica do Sul regista aumento de casos de dengue",
+      "description": "80% das infe\u00e7\u00f5es registadas na regi\u00e3o, ocorreram no Brasil. &etilde;",
+      "url": "https://ionline.sapo.pt/artigo/812070/-america-do-sul-regista-aumento-de-casos-de-dengue?seccao=Mundo_i",
+      "urlToImage": "https://cdn1.newsplex.pt/media/2024/3/29/fb/864918.jpg",
+      "publishedAt": "2024-03-29 14:03:00",
+      "content": "Jarbas Barbosa, diretor do OPAS, o escrit\u00f3rio regional da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) nas Am\u00e9ricas, disse que a regi\u00e3o sul americana registou, de janeiro a mar\u00e7o, 3,5 milh\u00f5es de casos de dengu\u2026 [+1671 chars]",
+      "retrievedAt": "2024-03-30 19:05:37.692277",
+      "internal_id": "3ffd955634e3c0cc2a14ad1787bf1726154456e66fbdc9914e7eb9338aad5f80",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7589,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Claire Leblanc, Daouda Kassi\u00e9, Mendrika Ranaivoharimina, Elliot Fara Nandrasana Rakotomanana, Reziky Tiandraza Mangahasimbola, Anjasoa Randrianarijaona, Ravo Ramiandrasoa, Alphonse Jos\u00e9 Nely, Nivohanitra Perle Razafindraibe, Soa Fy Andriamandimby, Dany Bakoly Ranoaritiana, Virginie Rajaonarivony, Laurence Randrianasolo, Laurence Baril, Chiarella Mattern, Rila Ratovoson, H\u00e9l\u00e8ne Guis",
+      "title": "Mixed methods to evaluate knowledge, attitudes and practices (KAP) towards rabies in central and remote communities of Moramanga district, Madagascar",
+      "description": "Author summary Despite effective animal and human vaccines, rabies causes over 59,000 human deaths annually, mainly in children and in poor rural communities in Asia and Africa. World Health Organization and partners have recently launched the \u201cZero by 30\u201d gl\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012064",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012064.g001&size=inline",
+      "publishedAt": "2024-03-29 14:00:00",
+      "content": "Citation: Leblanc C, Kassi\u00e9 D, Ranaivoharimina M, Rakotomanana EFN, Mangahasimbola RT, Randrianarijaona A, et al. (2024) Mixed methods to evaluate knowledge, attitudes and practices (KAP) towards rab\u2026 [+83080 chars]",
+      "retrievedAt": "2024-03-30 19:05:36.555879",
+      "internal_id": "10563e53acd4b231d884ca6f0e61a138e757eb0123d201a64caa0de593b0f048",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7608,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sanata Coulibaly, Simon P. Sawadogo, Achille S. Niki\u00e8ma, Aristide S. Hien, Rabila Bamogo, Lassane Koala, Ibrahim Sangar\u00e9, Roland W. Bougma, Benjamin Koudou, Florence Fournet, Georges A. Ou\u00e9draogo, Roch K. Dabir\u00e9",
+      "title": "Assessment of Culicidae collection methods for xenomonitoring lymphatic filariasis in malaria co-infection context in Burkina Faso",
+      "description": "Author summary In Burkina Faso, the monitoring and evaluation scheme to assess the impact of lymphatic filariasis and malaria interventions is relied only on parasitological tests. While nowadays, the most simple and direct measure of vector borne diseases is\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012021",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012021.g003&size=inline",
+      "publishedAt": "2024-03-29 14:00:00",
+      "content": "Abstract Background Entomological surveillance of lymphatic filariasis and malaria infections play an important role in the decision-making of national programs to control, or eliminate these both \u2026 [+35718 chars]",
+      "retrievedAt": "2024-03-30 19:05:38.424979",
+      "internal_id": "6da228165c50d85637518a9c95d766b7b756744222fb7497dbf0b57ff7d51e08",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7609,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Elisabeth Burnor, Cory W. Morin, Jeffry H. Shirai, Nicolette A. Zhou, John Scott Meschke",
+      "title": "Development of a computational model to inform environmental surveillance sampling plans for Salmonella enterica serovar Typhi in wastewater",
+      "description": "Author summary Millions of cases of typhoid fever occur each year, causing thousands of deaths, particularly in children. In order to distribute vaccines to communities with the highest need, it is important to understand disease prevalence in different regio\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011468",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011468.g007&size=inline",
+      "publishedAt": "2024-03-29 14:00:00",
+      "content": "Abstract Typhoid feveran acute febrile disease caused by infection with the bacterium Salmonella enterica serotype Typhi (S. Typhi)continues to be a leading cause of global morbidity and mortality, \u2026 [+64230 chars]",
+      "retrievedAt": "2024-03-30 19:05:39.041435",
+      "internal_id": "bca0341a988280e49d269aa0d9a2e783b4e107b3bddeda80cc385b6ad74fae29",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7593,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Pedro Spadoni",
+      "title": "Surto de dengue nas Am\u00e9ricas pode ser o pior da hist\u00f3ria, alerta Opas",
+      "description": "A Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade advertiu sobre o potencial do surto de dengue atual nas Am\u00e9ricas se tornar o mais grave j\u00e1 registrado O post Surto de dengue nas Am\u00e9ricas pode ser o pior da hist\u00f3ria, alerta Opas apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/03/29/medicina-e-saude/surto-de-dengue-nas-americas-pode-ser-o-pior-da-historia-alerta-opas/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue-e1699618484205-695x500.jpg",
+      "publishedAt": "2024-03-29 13:33:00",
+      "content": "A Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade (Opas) advertiu que o surto de dengue nas Am\u00e9ricas em 2024 pode se tornar o mais grave j\u00e1 registrado. Os pa\u00edses mais afetados pela doen\u00e7a atualmente s\u00e3o: Brasil, \u2026 [+3861 chars]",
+      "retrievedAt": "2024-03-30 19:05:37.566090",
+      "internal_id": "bb5ff864b256f072f7e81fb9bdbd4c03a286e65814245339454de79f22b39121",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7601,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Saiba a rota do fumac\u00ea contra a dengue nesta Sexta-feira Santa no DF",
+      "description": "Vigil\u00e2ncia Sanit\u00e1ria pede para a popula\u00e7\u00e3o deixar portas e janelas abertas durante a passagem do ve\u00edculo para maximizar efic\u00e1cia do produto",
+      "url": "https://www.metropoles.com/distrito-federal/saiba-a-rota-do-fumace-contra-a-dengue-nesta-sexta-feira-santa-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/29094521/saiba-rota-do-fumace.jpg",
+      "publishedAt": "2024-03-29 12:48:52",
+      "content": "A Secretaria de Sa\u00fade divulgou a rota dos carros de fumace para tentar conter o avan\u00e7o da epidemia de dengue no Distrito Federal, nesta sexta-feira (29/3). Os ve\u00edculos circulam por pontos do N\u00facleo \u2026 [+655 chars]",
+      "retrievedAt": "2024-03-30 19:05:37.732776",
+      "internal_id": "07823c3b7e0b475dc228c6207f7377c1bc4cfdfe78c6f3b1e88cdc4e979ae376",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7600,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Fl\u00e1via Said",
+      "title": "Apesar de alerta da Opas, Rio anuncia fim da epidemia de dengue",
+      "description": "Secretaria Municipal de Sa\u00fade do Rio vai fechar polos de atendimento e come\u00e7ar vacina\u00e7\u00e3o contra a gripe Influenza",
+      "url": "https://www.metropoles.com/brasil/rio-anuncia-fim-da-epidemia-de-dengue-nesta-sexta-feira-29-3",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/27134730/aedes-aegypti-2.jpg",
+      "publishedAt": "2024-03-29 11:53:09",
+      "content": "O munic\u00edpio do Rio de Janeiro anunciou nesta sexta-feira (29/3) o fim da epidemia da dengue, em fun\u00e7\u00e3o da queda do n\u00famero de casos e melhoria da situa\u00e7\u00e3o. O secret\u00e1rio municipal de Sa\u00fade, Daniel Sora\u2026 [+2781 chars]",
+      "retrievedAt": "2024-03-30 19:05:37.723865",
+      "internal_id": "30bc5a60b2946099e4ab67ba4f9d8d5b9ec327cb4fc52b4badb47ae86a2ac797",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7597,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Este a\u00f1o suman 8,149 casos de dengue; 4,034 son graves: Ssa",
+      "description": "La Secretar\u00eda de Salud (Ssa) informa que en lo que va del a\u00f1o se han confirmado 8 mil 149 casos de dengue, lo que representa casi cinco veces m\u00e1s contagios que los reportados en el periodo de 2023, cuando se detectaron mil 549.",
+      "url": "https://www.jornada.com.mx/2024/03/29/politica/010n1pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-03-29 10:40:02",
+      "content": "Peri\u00f3dico La JornadaViernes 29 de marzo de 2024, p. 10 La Secretar\u00eda de Salud (Ssa) informa que en lo que va del a\u00f1o se han confirmado 8 mil 149 casos de dengue, lo que representa casi cinco veces m\u2026 [+2255 chars]",
+      "retrievedAt": "2024-03-30 19:05:37.687658",
+      "internal_id": "8cc6430adc4961c7c54de8b61ee853b20d087ad06abee270f2fe3ed36b3b78fe",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7594,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "'Verso la peggiore epidemia di dengue della storia in America'",
+      "description": "Organizzazione panamericana della Sanit\u00e0, 3,5 mln di contagi e almeno mille morti (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/03/29/verso-la-peggiore-epidemia-di-dengue-della-storia-in-america_aa4ea7c5-815a-476e-bda4-77073339c821.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/27/d105b2011975c7f7fe4e7fb3906bbb43.jpg",
+      "publishedAt": "2024-03-29 09:52:13",
+      "content": "RIO DE JANEIRO - \"A causa degli oltre 3,5 milioni di contagi e degli almeno mille morti, il continente americano si avvia a registrare nel 2024 la peggiore epidemia di febbre dengue della storia\", co\u2026 [+1188 chars]",
+      "retrievedAt": "2024-03-30 19:05:37.572150",
+      "internal_id": "a8f5ad94728c19836e38a97eb4802455fceb1a3864b0a5e4d6c0e3948acdda8b",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7592,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Grist",
+      "author": "Zoya Teirstein",
+      "title": "Puerto Rico declares an emergency as cases of dengue fever spike",
+      "description": "Warmer temperatures are driving outbreaks of dengue worldwide, with millions of cases already reported in 2024.",
+      "url": "http://grist.org/health/puerto-rico-declares-an-emergency-as-cases-of-dengue-fever-spike/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2024/03/GettyImages-1253791627-1.jpg?quality=75&strip=all",
+      "publishedAt": "2024-03-29 08:30:00",
+      "content": "Puerto Rico declared a public health emergency this week as cases of dengue fever, a potentially deadly mosquito-borne infection, rise precipitously across the United States territory. In the emergen\u2026 [+5595 chars]",
+      "retrievedAt": "2024-03-30 19:05:37.556598",
+      "internal_id": "de3c358d3340c1d30fa05cc0542967d7ed54c3c03685dfb3b2b2e2422a8ade75",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 7604,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Surge in bacterial disease in the US: All about it",
+      "description": "\u200bAn increase in the number of cases of a bacterial disease has worried health experts in the US. A total of 143 cases of the disease have been reported so far. The disease, caused by the bacterium Neisseria meningitidis commonly affects the brain, spinal cord\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/surge-in-rare-bacterial-disease-in-the-us-worrying-health-experts-all-about-it/photostory/108871847.cms",
+      "urlToImage": "https://static.toiimg.com/photo/108871918.cms",
+      "publishedAt": "2024-03-29 08:30:00",
+      "content": "As per a review study, published in 2021, In India, Neisseria meningitidis is the third most common cause of acute bacterial meningitis (ABM) in children &lt;5 years, and accounts for an estimated 1.\u2026 [+422 chars]",
+      "retrievedAt": "2024-03-30 19:05:38.074050",
+      "internal_id": "27f08e033de6c05f4674378c3032ea4e3bfa02c90dbf3925dffec9ee6ebeca58",
+      "publishedAtLabel": "Mar 29"
+    },
     {
       "id": 7564,
       "query": [
@@ -39964,204 +40342,6 @@
       "content": "O deputado distrital Chico Vigilante (PT) anunciou que est\u00e1 com dengue. Relatando dores em tudo que \u00e9 canto, ele disse que est\u00e1 descansando em casa, em Ceil\u00e2ndia, com sintomas leves da doen\u00e7a. Nunca \u2026 [+1827 chars]",
       "retrievedAt": "2024-02-13 07:06:03.164767",
       "internal_id": "2457532ba8e066e822f01aa231cb224054e15826cb01af6b4ccc523fafa33be5",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5352,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Tjerk Br\u00fchwiller",
-      "title": "Brasilien feiert Karneval und k\u00e4mpft gegen das Denguefieber",
-      "description": "In Rio de Janeiro, Salvador, Recife und anderen Gro\u00dfst\u00e4dten feiern Millionen Menschen die sch\u00f6nste Zeit des Jahres. Doch gleichzeitig steigen die F\u00e4lle von Denguefieber in Brasilien.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/gesellschaft/2402553276/1.9512142/facebook_teaser/in-rio-de-janeiro-parade-der.jpg",
-      "publishedAt": "2024-02-11 17:29:54",
-      "content": "Brasilien ist in den Karneval gestartet, die sch\u00f6nste Zeit im Jahr. Millionen Menschen, darunter unz\u00e4hlige Touristen, werden zu den Stra\u00dfenkarnevals in Rio de Janeiro, Salvador, Recife, S\u00e3o Paulo und\u2026 [+3843 chars]",
-      "retrievedAt": "2024-02-13 07:06:03.238090",
-      "internal_id": "64595c873546a0f0a04bd5b1bd53019e5923d224c20375ecf9db07b874f100d2",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5412,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Diminui\u00e7\u00e3o da urina pode ser sinal de dengue; veja os principais sintomas",
-      "description": "O Brasil enfrenta um desafio de sa\u00fade p\u00fablica com o aumento expressivo os casos de dengue desde o in\u00edcio deste ano. Embora muitas infec\u00e7\u00f5es sejam",
-      "url": "https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
-      "publishedAt": "2024-02-11 14:35:38",
-      "content": "\u00daltimas not\u00edcias: O Brasil enfrenta um desafio de sa\u00fade p\u00fablica com o aumento expressivo os casos de dengue desde o in\u00edcio deste ano. Embora muitas infec\u00e7\u00f5es sejam assintom\u00e1ticas ou produzam apenas \u2026 [+1331 chars]",
-      "retrievedAt": "2024-02-14 07:06:13.471431",
-      "internal_id": "9c592bb5675cdbfc9d15c884e394b09c71f6ed44218791dcb4edee3b83b22ba9",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5348,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Brasil chega a 62 mortes e 408 mil casos prov\u00e1veis de dengue",
-      "description": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil em 2024 chegou a 408 mil, segundo atualiza\u00e7\u00e3o de ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-02-11 14:14:30",
-      "content": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil em 2024 chegou a 408 mil, segundo atualiza\u00e7\u00e3o de sexta-feira, 9, no Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade. J\u00e1 o n\u00famero de v\u00edtim\u2026 [+1150 chars]",
-      "retrievedAt": "2024-02-12 19:05:37.609967",
-      "internal_id": "ea10c6c57509a7bcc15b4372d98f34709cd9f9f14670199710a007f9831fccb4",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5349,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "info@namibian.com.na (Namibian)",
-      "title": "Namibia: Ending Malaria in Namibia",
-      "description": "[Namibian] As a neonate in the nursing profession, I am very worried due to the alarming reports of malaria cases and deaths in our country, particularly in the Zambezi and Ohangwena regions.",
-      "url": "https://allafrica.com/stories/202402110119.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2024-02-11 14:03:31",
-      "content": "As a neonate in the nursing profession, I am very worried due to the alarming reports of malaria cases and deaths in our country, particularly in the Zambezi and Ohangwena regions. Malaria can be pr\u2026 [+3765 chars]",
-      "retrievedAt": "2024-02-12 19:05:38.563815",
-      "internal_id": "33e960c3620a474b47258dccb32eba762efc473d1d7845058e64b8f942d26bf3",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5367,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Gente, iG Gente",
-      "title": "BBB 24: sa\u00fade de Davi, amea\u00e7a de desist\u00eancia e choro agitam manh\u00e3",
-      "description": "Participantes questionaram se Davi pode estar com dengue; veja o resumo",
-      "url": "https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8x/3g/us/8x3gusff41udayup1jpu9a563.jpg",
-      "publishedAt": "2024-02-11 13:55:06",
-      "content": "A madruga deste domingo (11) levantou alerta sobre a sa\u00fade do participante Davi. Colegas de confinamento est\u00e3o preocupados com o mal-estar e relato de dores do brother. Al\u00e9m disso, sem a festa, parti\u2026 [+4133 chars]",
-      "retrievedAt": "2024-02-13 07:06:03.300700",
-      "internal_id": "0010841672fe5f00f8f468828785480f95d196f22edbef0832464722d4df2549",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5358,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
-      "title": "N\u00famero de mortes por dengue em SP sobe para 9",
-      "description": "As mortes foram registradas em Bebedouro (1), Guarulhos (1), Pederneiras (1), Pindamonhangaba (2), S\u00e3o Paulo (1), Taubat\u00e9 (2) e Trememb\u00e9 (1)",
-      "url": "https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0h/8t/px/0h8tpxwmjwdegegn5t8xle7q2.jpg",
-      "publishedAt": "2024-02-11 13:48:48",
-      "content": "O n\u00famero de mortes por dengue no estado de S\u00e3o Paulo aumentou para nove, de acordo com a Secretaria Estadual de Sa\u00fade de S\u00e3o Paulo. Tr\u00eas novos \u00f3bitos foram confirmados desde o \u00faltimo boletim divulgad\u2026 [+1592 chars]",
-      "retrievedAt": "2024-02-13 07:06:03.265460",
-      "internal_id": "d400d70b182b47b6a1bdd49b347ed6c20488673ce37a752d9c33412a139231b1",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5356,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
-      "title": "Brasil tem 408 mil casos prov\u00e1veis de dengue em 2024",
-      "description": "foram confirmadas 62 mortes",
-      "url": "https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2024-02-11 13:07:49",
-      "content": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil atingiu 408 mil, de acordo com dados do Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade, atualizados na sexta-feira (9). O coeficiente de\u2026 [+1783 chars]",
-      "retrievedAt": "2024-02-13 07:06:03.257692",
-      "internal_id": "9df5b91eaebcc0b6116acbf724100cfc0c169dc9cfcecc4e498923e3c6fbb88b",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5355,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Dengue: N\u00famero de casos no pa\u00eds chega a 408 mil, segundo Minist\u00e9rio da Sa\u00fade",
-      "description": "O coeficiente de incid\u00eancia da doen\u00e7a no pa\u00eds est\u00e1 em 201 casos de dengue por 100 mil habitantes",
-      "url": "https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/RuQf_pEbJ1Nb-qrOotOm4j93pUA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/H/E/BprEiDSnKAVC5gvAuaag/105824609-bras-c3-adlia-20df-2008-02-2024-20carro-20do-20fumac-c3-aa-20contra-20a-20dengue-20passa-20pela-20ql-2026-20do-20lago-20sul-20nessa.jpg",
-      "publishedAt": "2024-02-11 12:39:14",
-      "content": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil chegou a 408 mil, segundo informa\u00e7\u00f5es do Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade. Os dados foram atualizados na sexta-feira (9). \u2026 [+1100 chars]",
-      "retrievedAt": "2024-02-13 07:06:03.253843",
-      "internal_id": "f25c60c742d5797923d30331b86b9d04efa2fd3888564292292a43da1a11f6c7",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5347,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Revista Oeste - Brasil",
-      "title": "Dengue no Brasil: Mais de 60 mortes e 405 mil casos prov\u00e1veis",
-      "description": "N\u00famero de casos graves mais que triplicou se comparado ao mesmo per\u00edodo...",
-      "url": "https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024",
-      "urlToImage": "https://img.r7.com/images/r7-30072019142631584?dimensions=340x191&crop_position=c",
-      "publishedAt": "2024-02-11 12:35:00",
-      "content": "N\u00famero de casos graves mais que triplicou se comparado ao mesmo per\u00edodo no ano passado Consulte a mat\u00e9ria completa sobre a Dengue no Brasil na Revista Oeste Leia a mat\u00e9ria completa no nosso parceiro \u2026 [+445 chars]",
-      "retrievedAt": "2024-02-12 19:05:37.549489",
-      "internal_id": "4fbb7abe433c42b2b6f389fe780d1c4288f78ce4c6a849fd25d6f38358fd9d60",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5362,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Dengue cases down in ME06, one death reported",
-      "description": "PUTRAJAYA: The number of dengue cases dropped to 3,631 in the 6th Epidemiological Week (EW06) from Feb 4-10, compared to 3,969 cases in the previous week, with one death due to dengue fever complications. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/02/11/2539036.jpg",
-      "publishedAt": "2024-02-11 11:05:00",
-      "content": "PUTRAJAYA: The number of dengue cases dropped to 3,631 in the 6th Epidemiological Week (EW06) from Feb 4-10, compared to 3,969 cases in the previous week, with one death due to dengue fever complicat\u2026 [+1247 chars]",
-      "retrievedAt": "2024-02-13 07:06:03.280351",
-      "internal_id": "17c0806ba3c2cb00d607bdf7477cf96a416a93cbeb33ecf8ca53a038308a5fda",
-      "publishedAtLabel": "Feb 11"
-    },
-    {
-      "id": 5346,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "BY JERUSALEM POST STAFF",
-      "title": "Measles found in Haifa boy, linked to two cases reported earlier this month",
-      "description": "A boy in Haifa has measles, the Health Ministry announced on Sunday.The case is linked to two cases reported a",
-      "url": "https://www.jpost.com/breaking-news/article-786269",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
-      "publishedAt": "2024-02-11 07:48:17",
-      "content": "A boy in Haifa has measles, the Health Ministry announced on Sunday. The case is linked to two cases reported about a week and a half ago, in a pair of brothers. None of the children were vaccinate\u2026 [+323 chars]",
-      "retrievedAt": "2024-02-12 19:05:36.509411",
-      "internal_id": "7d6fe42b98e0b45937d10ed3e9b980635ccc81597a1d26ef4e7df9421fc6f303",
       "publishedAtLabel": "Feb 11"
     }
   ]
