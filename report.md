@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-03-29 19:05
-- **Most recent article:** 2024-03-28 19:05:01
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-03-30 07:06
+- **Most recent article:** 2024-03-29 06:59:55
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-7 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 115 | 179 | 188 | 207 | 1242 |
-| measles | 86 | 112 | 87 | 33 | 42 | 100 | 80 | 540 |
-| malaria | 15 | 23 | 18 | 5 | 18 | 33 | 17 | 129 |
+| dengue | 192 | 181 | 180 | 131 | 188 | 188 | 207 | 1267 |
+| measles | 86 | 112 | 87 | 33 | 43 | 100 | 80 | 541 |
+| malaria | 15 | 23 | 18 | 6 | 19 | 33 | 17 | 131 |
 | zika | 16 | 16 | 12 | 20 | 6 | 13 | 11 | 94 |
 | chikungunya | 8 | 20 | 15 | 9 | 8 | 14 | 16 | 90 |
-| meningitis | 16 | 5 | 8 | 2 | 8 | 7 | 4 | 50 |
+| meningitis | 16 | 5 | 8 | 6 | 8 | 7 | 4 | 54 |
 | rabies | 6 | 6 | 9 | 2 | 9 | 5 | 8 | 45 |
 | sarampión | 3 | 3 | 12 | 3 | 3 | 11 | 5 | 40 |
-| mpox | 5 | 8 | 4 | 4 | 8 | 6 | 1 | 36 |
-| pertussis | 4 | 5 | 3 | 2 | 6 | 0 | 4 | 24 |
+| mpox | 5 | 8 | 4 | 5 | 8 | 6 | 1 | 37 |
+| pertussis | 4 | 5 | 3 | 6 | 6 | 0 | 4 | 28 |
 | yersinia | 1 | 3 | 3 | 1 | 2 | 1 | 1 | 12 |
 | typhoid | 0 | 0 | 1 | 0 | 2 | 2 | 1 | 6 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
@@ -1748,6 +1748,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
 
+- [Measles found in Haifa boy, linked to two cases reported earlier this month](https://www.jpost.com/breaking-news/article-786269) (The Jerusalem Post)
+
 ## 24-7 (malaria)
 
 - [Forskare: Möjligt att utrota malaria om tio år – om vi vill](https://www.dn.se/sverige/forskare-mojligt-att-utrota-malaria-om-tio-ar-om-vi-vill/) (Www.dn.se)
@@ -1785,6 +1787,8 @@ Source: [News API](https://newsapi.org/)
 - [Atenţionare de călătorie a MAE: Menţinerea pericolului de îmbolnăvire cu „malaria de import”](https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197) (Mediafax.ro)
 
 - [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
+
+- [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (leptospirosis)
 
@@ -2150,6 +2154,24 @@ Source: [News API](https://newsapi.org/)
 
 - [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
 
+- [Brasilien feiert Karneval und kämpft gegen das Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html) (Faz.net)
+
+- [Diminuição da urina pode ser sinal de dengue; veja os principais sintomas](https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/) (Catracalivre.com.br)
+
+- [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
+
+- [BBB 24: saúde de Davi, ameaça de desistência e choro agitam manhã](https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html) (Ig.com.br)
+
+- [Número de mortes por dengue em SP sobe para 9](https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html) (Ig.com.br)
+
+- [Brasil tem 408 mil casos prováveis de dengue em 2024](https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html) (Ig.com.br)
+
+- [Dengue: Número de casos no país chega a 408 mil, segundo Ministério da Saúde](https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml) (Globo)
+
+- [Dengue no Brasil: Mais de 60 mortes e 405 mil casos prováveis](https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024) (R7.com)
+
+- [Dengue cases down in ME06, one death reported](https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported) (The Star Online)
+
 ## 24-7 (chikungunya)
 
 - [REPORTAGE. Paludisme, dengue, chikungunya... Les bio-insecticides sont-ils une solution face aux moustiques de plus en plus résistants ?](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-paludisme-dengue-chikungunya-les-bio-insectisides-sont-ils-une-solution-face-aux-moustiques-de-plus-en-plus-resistants_6341914.html) (Francetvinfo.fr)
@@ -2230,11 +2252,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-13 (pertussis)
 
+- [Por qué hay un importante brote de tosferina en España: pediatras explican las razones](https://www.infosalus.com/salud-investigacion/noticia-hay-importante-brote-tosferina-espana-pediatras-explican-razones-20240329075955.html) (Infosalus.com)
+
+- [Bacolod: Suspected pertussis infects 2-month-old in Negros](https://rpnradio.com/bacolod-suspected-pertussis-infects-2-month-old-in-negros/) (Rpnradio.com)
+
+- [Whooping cough: How to protect your family amid outbreak in Marin County](https://abc7news.com/whooping-cough-how-to-protect-your-family-amid-outbreak-in-marin-county-and-tamalpais-high-school/14585021/) (KGO-TV)
+
+- [9 Childhood Illnesses: Get the Facts](https://www.webmd.com/children/features/childhood-illnesses-get-facts) (WebMD)
+
 - [Two-month-old baby dies of whooping cough in Kelantan](https://www.thestar.com.my/news/nation/2024/03/27/two-month-old-baby-dies-of-whooping-cough-in-kelantan) (The Star Online)
 
 - [Muere por tosferina un bebé menor de un mes cuya madre no se había vacunado en el embarazo](https://www.abc.es/salud/enfermedades/muere-tosferina-bebe-menor-mes-madre-vacunado-20240325161036-nt.html) (Www.abc.es)
 
 ## 24-13 (mpox)
+
+- [Mpox cases nearly double what they were at the same time last year](https://abcnews.go.com/Health/mpox-cases-double-same-time-year/story?id=108628263) (ABC News)
 
 - [Mpox cases in the US are on the rise as vaccination rates lag and new threats loom | CNN](https://www.cnn.com/2024/03/28/health/mpox-usa-cases-vaccination-rate/index.html) (CNN)
 
@@ -2245,6 +2277,14 @@ Source: [News API](https://newsapi.org/)
 - [WHO Warning of More Infectious Monkeypox Strain With Higher Fatality Rate](https://legalinsurrection.com/2024/03/who-warning-of-more-infectious-monkeypox-strain-with-higher-fatality-rate/) (Legalinsurrection.com)
 
 ## 24-13 (meningitis)
+
+- [Rare meningitis and bloodstream infections on the rise in the US, CDC warns](https://www.livescience.com/health/viruses-infections-disease/rare-meningitis-and-bloodstream-infections-on-the-rise-in-the-us-cdc-warns) (Live Science)
+
+- [A Rare Bacterial Disease Is Rising in the U.S.](https://time.com/6961784/meningococcal-disease-rising/) (Time)
+
+- [US officials warn of increase in bacterial illnesses that can lead to meningitis and possibly death](https://abcnews.go.com/Health/wireStory/us-officials-warn-increase-bacterial-illnesses-lead-meningitis-108624736) (ABC News)
+
+- [US officials warn of increase in bacterial illnesses that can lead to meningitis and possibly death](https://www.startribune.com/us-officials-warn-of-increase-in-bacterial-illnesses-that-can-lead-to-meningitis-and-possibly-death/600354766/) (Minneapolis Star Tribune)
 
 - [News24 | Africa under the microscope: Continent has 44 disease outbreaks and 104 active epidemic emergencies](https://www.news24.com/news24/africa/news/africa-under-the-microscope-continent-has-44-disease-outbreaks-and-104-active-epidemic-emergencies-20240327) (News24)
 
@@ -2320,6 +2360,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-13 (malaria)
 
+- [Hurricanes But Not Flu Outbreaks: Airbnb Revises Cancellation Policy](http://skift.com/2024/03/28/hurricanes-but-not-flu-outbreaks-airbnb-revises-cancellation-policy/) (Skift)
+
 - [Child Health and Infection with Low Density (CHILD) malaria: a protocol for a randomised controlled trial to assess the long-term health and socioeconomic impacts of testing and treating low-density malaria infection among children in Tanzania](https://bmjopen.bmj.com/content/14/3/e082227) (The BMJ)
 
 - [Roche Gets FDA Approval for Malaria Screen Test](https://www.marketscreener.com/quote/stock/ROCHE-HOLDING-AG-9364975/news/Roche-Gets-FDA-Approval-for-Malaria-Screen-Test-46290960/) (Marketscreener.com)
@@ -2331,6 +2373,38 @@ Source: [News API](https://newsapi.org/)
 - [Roche receives FDA approval for the first molecular test to screen for malaria in blood donors](https://www.globenewswire.com/news-release/2024/03/26/2852619/0/en/Roche-receives-FDA-approval-for-the-first-molecular-test-to-screen-for-malaria-in-blood-donors.html) (GlobeNewswire)
 
 ## 24-13 (dengue)
+
+- [Mosquito CLT? Saiba curiosidades sobre o temido Aedes aegypti](https://www.metropoles.com/saude/curiosidades-sobre-o-aedes-aegypti) (Metropoles.com)
+
+- [América podría enfrentar otro récord en casos de dengue en 2024: OPS](https://aristeguinoticias.com/2803/mundo/america-podria-enfrentar-otro-record-en-casos-de-dengue-en-2024-ops/) (Aristeguinoticias.com)
+
+- [Latin America, Caribbean Set for Record Dengue Season](https://www.voanews.com/a/latin-america-caribbean-set-for-record-dengue-season-/7548348.html) (VOA News)
+
+- [La OPS advierte sobre la "peor temporada de dengue" que puede enfrentar América en 2024](https://cnnespanol.cnn.com/2024/03/28/ops-advierte-dengue-america-trax/) (CNN)
+
+- [Alertan por récord de dengue en América Latina](https://www.reforma.com/alertan-por-record-de-dengue-en-america-latina/ar2781268) (Reforma.com)
+
+- [Quem era Sofia Amorim, influenciadora que morreu de dengue](https://www.metropoles.com/colunas/fabia-oliveira/quem-era-sofia-amorim-influenciadora-que-morreu-de-dengue) (Metropoles.com)
+
+- [Epidemia de dengue atinge números alarmantes na América Latina](https://observador.pt/2024/03/28/epidemia-de-dengue-atinge-numeros-alarmantes-na-america-latina/) (Observador.pt)
+
+- [Saiba detalhes do estado de saúde de Rony Lúcio, do Tá na Mente](https://www.metropoles.com/colunas/fabia-oliveira/saiba-detalhes-do-estado-de-saude-de-rony-lucio-do-ta-na-mente) (Metropoles.com)
+
+- [Pior surto de dengue da história nas América pode ocorrer este ano](https://tecnologia.ig.com.br/parceiros/canaltech/2024-03-28/pior-surto-de-dengue-da-historia-nas-america-pode-ocorrer-este-ano.html) (Ig.com.br)
+
+- [Mulher com dengue morre após voltar de UBS, desmaiar e bater a cabeça](https://www.metropoles.com/distrito-federal/mulher-com-dengue-morre-apos-voltar-de-ubs-desmaiar-e-bater-a-cabeca) (Metropoles.com)
+
+- [Dengue Cases Hit Record Levels in North and South America](https://www.npr.org/2024/03/28/1241473456/dengue-cases-hit-record-levels-in-north-and-south-america) (NPR)
+
+- [Influenciadora grávida morre com suspeita de dengue em Goiânia](https://www.metropoles.com/brasil/influenciadora-gravida-morre-com-suspeita-de-dengue-em-goiania) (Metropoles.com)
+
+- [Mais 154 municípios vão receber vacinas contra a dengue](https://jornaldebrasilia.com.br/noticias/brasil/mais-154-municipios-vao-receber-vacinas-contra-a-dengue/) (Jornaldebrasilia.com.br)
+
+- ['Verso la peggiore epidemia di dengue della storia in America'](https://www.ansa.it/sito/notizie/topnews/2024/03/28/verso-la-peggiore-epidemia-di-dengue-della-storia-in-america_382d246e-9b7b-4756-9295-252fd8b4dd7d.html) (ANSA.it)
+
+- [Com alta de 12 mil casos em um dia, dengue matou 154 em SP este ano](https://www.metropoles.com/sao-paulo/alta-12-mil-casos-dia-dengue-matou-154-sp) (Metropoles.com)
+
+- [Dengue is sweeping through the Americas early this year](https://abcnews.go.com/Health/wireStory/dengue-sweeping-americas-early-year-108622156) (ABC News)
 
 - [Dengue is sweeping through the Americas early this year](https://www.startribune.com/dengue-is-sweeping-through-the-americas-early-this-year/600354745/) (Minneapolis Star Tribune)
 
