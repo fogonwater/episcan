@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-03-31 07:06
-- **Most recent article:** 2024-03-30 04:47:57
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-03-31 19:05
+- **Most recent article:** 2024-03-30 18:10:10
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 152 | 186 | 207 | 1098 |
-| measles | 86 | 112 | 87 | 40 | 97 | 80 | 502 |
-| malaria | 15 | 23 | 18 | 7 | 32 | 17 | 112 |
+| dengue | 192 | 181 | 180 | 155 | 173 | 207 | 1088 |
+| measles | 86 | 112 | 87 | 43 | 95 | 80 | 503 |
+| malaria | 15 | 23 | 18 | 7 | 31 | 17 | 111 |
 | zika | 16 | 16 | 12 | 20 | 13 | 11 | 88 |
 | chikungunya | 8 | 20 | 15 | 9 | 13 | 16 | 81 |
-| meningitis | 16 | 5 | 8 | 13 | 7 | 4 | 53 |
+| meningitis | 16 | 5 | 8 | 16 | 6 | 4 | 55 |
 | sarampión | 3 | 3 | 12 | 3 | 11 | 5 | 37 |
 | rabies | 6 | 6 | 9 | 3 | 4 | 8 | 36 |
 | mpox | 5 | 8 | 4 | 5 | 6 | 1 | 29 |
 | pertussis | 4 | 5 | 3 | 6 | 0 | 4 | 22 |
-| yersinia | 1 | 3 | 3 | 1 | 1 | 1 | 10 |
-| typhoid | 0 | 0 | 1 | 1 | 2 | 1 | 5 |
+| yersinia | 1 | 3 | 3 | 1 | 0 | 1 | 9 |
+| typhoid | 0 | 0 | 1 | 1 | 1 | 1 | 4 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 1 | 4 |
 | leptospirosis | 0 | 1 | 0 | 0 | 0 | 2 | 3 |
 
@@ -804,15 +804,9 @@ Source: [News API](https://newsapi.org/)
 
 - [Belo Horizonte tem Upa lotada neste domingo e pacientes ficam até 9 horas por atendimento](https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024) (R7.com)
 
-## 24-8 (yersinia)
-
-- [В США мужчина заразился бубонной чумой от кошки. Что нужно знать?](https://hi-news.ru/eto-interesno/v-ssha-muzhchina-zarazilsya-bubonnoj-chumoj-ot-koshki-chto-nuzhno-znat.html) (Hi-news.ru)
-
 ## 24-8 (typhoid)
 
 - [That’s not just a tummy ache, it may actually be typhoid](https://www.thestar.com.my/news/nation/2024/02/25/thats-not-just-a-tummy-ache-it-may-actually-be-typhoid) (The Star Online)
-
-- [Alice Eve’s 8 Best Acting Roles (Including Star Trek's Carol Marcus)](https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/) (Screen Rant)
 
 ## 24-8 (sarampión)
 
@@ -875,8 +869,6 @@ Source: [News API](https://newsapi.org/)
 - [Molecular Epidemiology of Underreported Emerging Zoonotic Pathogen Streptococcus suis in Europe](https://wwwnc.cdc.gov/eid/article/30/3/23-0348_article) (Cdc.gov)
 
 - [Computerised modified paramedian approach technique versus conventional midline approach technique of lumbar puncture: a randomised control trial protocol](https://bmjopen.bmj.com/content/14/2/e077941?rss=1) (The BMJ)
-
-- [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
 
@@ -1070,10 +1062,6 @@ Source: [News API](https://newsapi.org/)
 
 - [2 Children Die Of Suspected Measles, 17 Infected In Madhya Pradesh's Maihar](https://www.ndtv.com/india-news/2-children-die-of-suspected-measles-17-infected-in-madhya-pradesh-maihar-schools-shut-in-district-5086496) (NDTV News)
 
-- [Florida Department of Health investigates Broward County's multiple measles cases](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/) (CBS News)
-
-- [Measles infections pose far more risks than most realize, including a fatal neurological complication](https://www.nbcnews.com/health/kids-health/measles-infection-symptoms-longterm-risks-rcna138583) (NBC News)
-
 ## 24-8 (malaria)
 
 - [Quizzes, interactive puzzles, demonstrations and a history of malaria vaccine: Exciting ‘National Science Day’ line up at IISER Pune](https://indianexpress.com/article/cities/pune/iiser-pune-national-science-day-9178259/) (The Indian Express)
@@ -1137,8 +1125,6 @@ Source: [News API](https://newsapi.org/)
 - [Dos especies de parásitos causantes de malaria presentes en Costa Rica](https://www.nacion.com/ciencia/salud/dos-especies-de-parasitos-causantes-de-malaria/E37XK6PERBAOTFMCNX32BI7JA4/story/) (Nacion.com)
 
 - [Medizin: "Manche Viren machen es einem eben leicht"](https://www.sueddeutsche.de/gesundheit/impfstoffe-entwicklung-malaria-corona-aids-1.6376009) (Süddeutsche Zeitung)
-
-- [Odisha's first vaccine manufacturing plant to start production by May](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/odishas-first-vaccine-manufacturing-plant-to-start-production-by-may/articleshow/107800124.cms) (The Times of India)
 
 ## 24-8 (dengue)
 
@@ -1488,32 +1474,6 @@ Source: [News API](https://newsapi.org/)
 
 - [2 tipos de repelente contra o mosquito da dengue, segundo a Anvisa](https://catracalivre.com.br/saude-bem-estar/2-tipos-de-repelente-contra-o-mosquito-da-dengue-segundo-a-anvisa/) (Catracalivre.com.br)
 
-- [Dengue no RJ: número de casos é 6 vezes maior do que o esperado](https://www.metropoles.com/brasil/dengue-no-rj-numero-de-casos-e-6-vezes-maior-do-que-o-esperado) (Metropoles.com)
-
-- [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://esporte.ig.com.br/parceiros/esporte-news-mundo/2024-02-18/allan--do-flamengo--e-diagnosticado-com-dengue-e-desfalca-a-equipe.html) (Ig.com.br)
-
-- [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://www.terra.com.br/esportes/flamengo/allan-do-flamengo-e-diagnosticado-com-dengue-e-desfalca-a-equipe,7644e233e4586eddc0cd56bcc78ade88iau4mpd9.html) (Terra.com.br)
-
-- [Volante Allan, do Flamengo, está com dengue](https://www.terra.com.br/esportes/flamengo/volante-allan-do-flamengo-esta-com-dengue,94c93d8757d43dc9e9eac4ad384889c0bc7fslg7.html) (Terra.com.br)
-
-- [Volante Allan, do Flamengo, está com dengue](https://esporte.ig.com.br/parceiros/jogada10/2024-02-18/volante-allan--do-flamengo--esta-com-dengue.html) (Ig.com.br)
-
-- [Allan é diagnosticado com dengue e desfalca o Flamengo por tempo indeterminado](  https://www.lance.com.br/flamengo/allan-e-diagnosticado-com-dengue-e-desfalca-o-flamengo-por-tempo-indeterminado.html ) (Lance.com.br)
-
-- [Dengue Rages Around The Globe. Where Are The Vaccines?](https://www.forbes.com/sites/stephenthomas/2024/02/18/dengue-rages-around-the-globe-where-are-the-vaccines/) (Forbes)
-
-- [Dengue: Hospital de Campanha do DF já realizou 16 mil procedimentos](https://www.metropoles.com/distrito-federal/dengue-hospital-de-campanha-do-df-ja-realizou-16-mil-procedimentos) (Metropoles.com)
-
-- [São Paulo tem 60 mil casos de dengue confirmados em 2024](https://www.metropoles.com/sao-paulo/sao-paulo-tem-60-mil-casos-de-dengue-confirmados-em-2024) (Metropoles.com)
-
-- [Idosos e crianças fazem parte do grupos de risco para dengue grave](https://jornaldebrasilia.com.br/noticias/brasil/idosos-e-criancas-fazem-parte-do-grupos-de-risco-para-dengue-grave/) (Jornaldebrasilia.com.br)
-
-- [Epidemia de dengue no Brasil: lições para as parcerias tecnológicas do SUS](https://www.conjur.com.br/2024-fev-18/epidemia-de-dengue-no-brasil-licoes-para-as-parcerias-tecnologicas-do-sus/) (Conjur.com.br)
-
-- [About one-third of dengue cases in Klang involve youths](https://www.thestar.com.my/metro/metro-news/2024/02/18/about-one-third-of-dengue-cases-in-klang-involve-youths) (The Star Online)
-
-- [Este año suman 4 mil 593 casos de dengue; 2 mil 382 son graves](https://www.jornada.com.mx/2024/02/18/sociedad/027n1soc) (Jornada.com.mx)
-
 ## 24-8 (chikungunya)
 
 - [La mayor fábrica de mosquitos anti-dengue del mundo está en América Latina: cómo trabaja y los planes para la Argentina](https://www.lanacion.com.ar/el-mundo/la-mayor-fabrica-de-mosquitos-anti-dengue-del-mundo-esta-en-america-latina-como-trabaja-y-los-planes-nid24022024/) (La Nacion)
@@ -1636,6 +1596,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-13 (meningitis)
 
+- [Deadly Bacterial Infection Spike Alarms Health Officials, CDC Cites Surge Amongst Unusual Demographic](https://www.newsbreak.com/virginia-state/3386659979975-deadly-bacterial-infection-spike-alarms-health-officials-cdc-cites-surge-amongst-unusual-demographic) (Newsbreak.com)
+
+- [Businesses plan for a future without TikTok; Kia investing in a new compact car; meningitis cases on the rise | Hot off the Wire podcast](https://richmond.com/news/nation-world/businesses-plan-for-a-future-without-tiktok-kia-investing-in-a-new-compact-car-meningitis/article_d48bd6d0-755b-5a53-a491-27f64abafc63.html) (Richmond.com)
+
+- [Businesses plan for a future without TikTok; Kia investing in a new compact car; meningitis cases on the rise | Hot off the Wire podcast](https://roanoke.com/news/nation-world/businesses-plan-for-a-future-without-tiktok-kia-investing-in-a-new-compact-car-meningitis/article_0d66b3a7-7fad-5197-bbe0-840456b55c20.html) (Roanoke Times)
+
 - [Rare but severe cases of meningitis are on the rise, CDC warns](https://www.washingtonpost.com/health/2024/03/29/meningitis-rise-cdc-warning-symptoms-vaccine/) (The Washington Post)
 
 - [What is meningococcal disease? Symptoms to know as CDC warns of spike](https://www.cbsnews.com/news/meningococcal-disease-symptoms-treatment/) (CBS News)
@@ -1663,6 +1629,12 @@ Source: [News API](https://newsapi.org/)
 - [New testing approach improves detection of rare but emerging Powassan virus spread by deer ticks](https://www.sciencedaily.com/releases/2024/03/240326170114.htm) (Science Daily)
 
 ## 24-13 (measles)
+
+- [Tracking measles cases in the United States](https://kslnewsradio.com/2091742/tracking-measles-cases-in-the-united-states/) (kslnewsradio.com)
+
+- [Why Are Bay Area Health Officials Warning About Measles?](https://www.kqed.org/news/11981370/why-are-bay-area-health-officials-warning-about-measles) (KQED)
+
+- [Bay Area health officials urging public to get vaccinated as measles cases rise](https://abc7news.com/bay-area-health-officials-urge-vaccinations-measles-cases-rise/14592187/) (KGO-TV)
 
 - [Bay Area health officials warn about uptick in measles cases nationwide](https://www.ktvu.com/news/bay-area-health-officials-warn-about-uptick-in-measles-cases-nationwide) (KTVU San Francisco)
 
@@ -1761,6 +1733,12 @@ Source: [News API](https://newsapi.org/)
 - [Roche receives FDA approval for the first molecular test to screen for malaria in blood donors](https://www.globenewswire.com/news-release/2024/03/26/2852619/0/en/Roche-receives-FDA-approval-for-the-first-molecular-test-to-screen-for-malaria-in-blood-donors.html) (GlobeNewswire)
 
 ## 24-13 (dengue)
+
+- [Raquete elétrica funciona contra o Aedes aegypti? Especialista explica](https://www.metropoles.com/saude/raquete-mata-mosquito-dengue) (Metropoles.com)
+
+- [Puerto Rico Declares Public Health Emergency Amid Historic Dengue Fever Outbreak](https://grist.org/health/puerto-rico-declares-an-emergency-as-cases-of-dengue-fever-spike/) (Grist)
+
+- [Por qué hay una epidemia de dengue en Argentina](https://www.periodismo.com/2024/03/30/por-que-hay-una-epidemia-de-dengue-en-argentina/) (Periodismo.com)
 
 - [UOL NEWS](https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2024/03/29/secretario-com-fim-de-epidemia-de-dengue-rio-centra-esforcos-contra-gripe.htm) (Uol.com.br)
 
