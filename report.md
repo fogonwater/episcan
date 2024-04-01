@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-04-01 07:05
-- **Most recent article:** 2024-03-31 05:54:49
+- **New articles in last harvest:** 5
+- **Last harvest:** 2024-04-01 19:05
+- **Most recent article:** 2024-03-31 16:26:28
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 160 | 2 | 186 | 207 | 1108 |
-| measles | 86 | 112 | 87 | 44 | 2 | 97 | 80 | 508 |
-| malaria | 15 | 23 | 18 | 7 | 0 | 32 | 17 | 112 |
+| dengue | 192 | 181 | 180 | 160 | 5 | 173 | 207 | 1098 |
+| measles | 86 | 112 | 87 | 44 | 3 | 95 | 80 | 507 |
+| malaria | 15 | 23 | 18 | 7 | 0 | 31 | 17 | 111 |
 | zika | 16 | 16 | 12 | 21 | 0 | 13 | 11 | 89 |
 | chikungunya | 8 | 20 | 15 | 9 | 0 | 13 | 16 | 81 |
-| meningitis | 16 | 5 | 8 | 16 | 0 | 7 | 4 | 56 |
+| meningitis | 16 | 5 | 8 | 16 | 0 | 6 | 4 | 55 |
 | sarampión | 3 | 3 | 12 | 3 | 0 | 11 | 5 | 37 |
 | rabies | 6 | 6 | 9 | 3 | 0 | 4 | 8 | 36 |
-| mpox | 5 | 8 | 4 | 6 | 0 | 6 | 1 | 30 |
+| mpox | 5 | 8 | 4 | 6 | 1 | 6 | 1 | 31 |
 | pertussis | 4 | 5 | 3 | 6 | 0 | 0 | 4 | 22 |
-| yersinia | 1 | 3 | 3 | 1 | 0 | 1 | 1 | 10 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 2 | 1 | 5 |
+| yersinia | 1 | 3 | 3 | 1 | 0 | 0 | 1 | 9 |
+| typhoid | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 4 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
 | leptospirosis | 0 | 1 | 0 | 0 | 0 | 0 | 2 | 3 |
 
@@ -804,15 +804,9 @@ Source: [News API](https://newsapi.org/)
 
 - [Belo Horizonte tem Upa lotada neste domingo e pacientes ficam até 9 horas por atendimento](https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024) (R7.com)
 
-## 24-8 (yersinia)
-
-- [В США мужчина заразился бубонной чумой от кошки. Что нужно знать?](https://hi-news.ru/eto-interesno/v-ssha-muzhchina-zarazilsya-bubonnoj-chumoj-ot-koshki-chto-nuzhno-znat.html) (Hi-news.ru)
-
 ## 24-8 (typhoid)
 
 - [That’s not just a tummy ache, it may actually be typhoid](https://www.thestar.com.my/news/nation/2024/02/25/thats-not-just-a-tummy-ache-it-may-actually-be-typhoid) (The Star Online)
-
-- [Alice Eve’s 8 Best Acting Roles (Including Star Trek's Carol Marcus)](https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/) (Screen Rant)
 
 ## 24-8 (sarampión)
 
@@ -875,8 +869,6 @@ Source: [News API](https://newsapi.org/)
 - [Molecular Epidemiology of Underreported Emerging Zoonotic Pathogen Streptococcus suis in Europe](https://wwwnc.cdc.gov/eid/article/30/3/23-0348_article) (Cdc.gov)
 
 - [Computerised modified paramedian approach technique versus conventional midline approach technique of lumbar puncture: a randomised control trial protocol](https://bmjopen.bmj.com/content/14/2/e077941?rss=1) (The BMJ)
-
-- [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
 
@@ -1070,10 +1062,6 @@ Source: [News API](https://newsapi.org/)
 
 - [2 Children Die Of Suspected Measles, 17 Infected In Madhya Pradesh's Maihar](https://www.ndtv.com/india-news/2-children-die-of-suspected-measles-17-infected-in-madhya-pradesh-maihar-schools-shut-in-district-5086496) (NDTV News)
 
-- [Florida Department of Health investigates Broward County's multiple measles cases](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/) (CBS News)
-
-- [Measles infections pose far more risks than most realize, including a fatal neurological complication](https://www.nbcnews.com/health/kids-health/measles-infection-symptoms-longterm-risks-rcna138583) (NBC News)
-
 ## 24-8 (malaria)
 
 - [Quizzes, interactive puzzles, demonstrations and a history of malaria vaccine: Exciting ‘National Science Day’ line up at IISER Pune](https://indianexpress.com/article/cities/pune/iiser-pune-national-science-day-9178259/) (The Indian Express)
@@ -1137,8 +1125,6 @@ Source: [News API](https://newsapi.org/)
 - [Dos especies de parásitos causantes de malaria presentes en Costa Rica](https://www.nacion.com/ciencia/salud/dos-especies-de-parasitos-causantes-de-malaria/E37XK6PERBAOTFMCNX32BI7JA4/story/) (Nacion.com)
 
 - [Medizin: "Manche Viren machen es einem eben leicht"](https://www.sueddeutsche.de/gesundheit/impfstoffe-entwicklung-malaria-corona-aids-1.6376009) (Süddeutsche Zeitung)
-
-- [Odisha's first vaccine manufacturing plant to start production by May](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/odishas-first-vaccine-manufacturing-plant-to-start-production-by-may/articleshow/107800124.cms) (The Times of India)
 
 ## 24-8 (dengue)
 
@@ -1488,32 +1474,6 @@ Source: [News API](https://newsapi.org/)
 
 - [2 tipos de repelente contra o mosquito da dengue, segundo a Anvisa](https://catracalivre.com.br/saude-bem-estar/2-tipos-de-repelente-contra-o-mosquito-da-dengue-segundo-a-anvisa/) (Catracalivre.com.br)
 
-- [Dengue no RJ: número de casos é 6 vezes maior do que o esperado](https://www.metropoles.com/brasil/dengue-no-rj-numero-de-casos-e-6-vezes-maior-do-que-o-esperado) (Metropoles.com)
-
-- [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://esporte.ig.com.br/parceiros/esporte-news-mundo/2024-02-18/allan--do-flamengo--e-diagnosticado-com-dengue-e-desfalca-a-equipe.html) (Ig.com.br)
-
-- [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://www.terra.com.br/esportes/flamengo/allan-do-flamengo-e-diagnosticado-com-dengue-e-desfalca-a-equipe,7644e233e4586eddc0cd56bcc78ade88iau4mpd9.html) (Terra.com.br)
-
-- [Volante Allan, do Flamengo, está com dengue](https://www.terra.com.br/esportes/flamengo/volante-allan-do-flamengo-esta-com-dengue,94c93d8757d43dc9e9eac4ad384889c0bc7fslg7.html) (Terra.com.br)
-
-- [Volante Allan, do Flamengo, está com dengue](https://esporte.ig.com.br/parceiros/jogada10/2024-02-18/volante-allan--do-flamengo--esta-com-dengue.html) (Ig.com.br)
-
-- [Allan é diagnosticado com dengue e desfalca o Flamengo por tempo indeterminado](  https://www.lance.com.br/flamengo/allan-e-diagnosticado-com-dengue-e-desfalca-o-flamengo-por-tempo-indeterminado.html ) (Lance.com.br)
-
-- [Dengue Rages Around The Globe. Where Are The Vaccines?](https://www.forbes.com/sites/stephenthomas/2024/02/18/dengue-rages-around-the-globe-where-are-the-vaccines/) (Forbes)
-
-- [Dengue: Hospital de Campanha do DF já realizou 16 mil procedimentos](https://www.metropoles.com/distrito-federal/dengue-hospital-de-campanha-do-df-ja-realizou-16-mil-procedimentos) (Metropoles.com)
-
-- [São Paulo tem 60 mil casos de dengue confirmados em 2024](https://www.metropoles.com/sao-paulo/sao-paulo-tem-60-mil-casos-de-dengue-confirmados-em-2024) (Metropoles.com)
-
-- [Idosos e crianças fazem parte do grupos de risco para dengue grave](https://jornaldebrasilia.com.br/noticias/brasil/idosos-e-criancas-fazem-parte-do-grupos-de-risco-para-dengue-grave/) (Jornaldebrasilia.com.br)
-
-- [Epidemia de dengue no Brasil: lições para as parcerias tecnológicas do SUS](https://www.conjur.com.br/2024-fev-18/epidemia-de-dengue-no-brasil-licoes-para-as-parcerias-tecnologicas-do-sus/) (Conjur.com.br)
-
-- [About one-third of dengue cases in Klang involve youths](https://www.thestar.com.my/metro/metro-news/2024/02/18/about-one-third-of-dengue-cases-in-klang-involve-youths) (The Star Online)
-
-- [Este año suman 4 mil 593 casos de dengue; 2 mil 382 son graves](https://www.jornada.com.mx/2024/02/18/sociedad/027n1soc) (Jornada.com.mx)
-
 ## 24-8 (chikungunya)
 
 - [La mayor fábrica de mosquitos anti-dengue del mundo está en América Latina: cómo trabaja y los planes para la Argentina](https://www.lanacion.com.ar/el-mundo/la-mayor-fabrica-de-mosquitos-anti-dengue-del-mundo-esta-en-america-latina-como-trabaja-y-los-planes-nid24022024/) (La Nacion)
@@ -1542,13 +1502,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Belo Horizonte tem Upa lotada neste domingo e pacientes ficam até 9 horas por atendimento](https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024) (R7.com)
 
+## 24-14 (mpox)
+
+- [Vacina da mpox perde eficácia em até um ano, mostram dois estudos](https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia) (Metropoles.com)
+
 ## 24-14 (measles)
+
+- [Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW](https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/) (SweetwaterNOW.com)
 
 - [NSW Health issues urgent measles alert for locals in Western Sydney with popular Kmart listed as exposure spot](https://www.skynews.com.au/australia-news/nsw-health-issues-urgent-measles-alert-for-locals-in-western-sydney-with-popular-kmart-listed-as-exposure-spot/news-story/95f89da1bf2329a5aafc92547ca950a6) (Sky News Australia)
 
 - [Two Waikato measles cases prompts call for vaccinations](https://www.1news.co.nz/2024/03/31/two-waikato-measles-cases-prompts-call-for-vaccinations/) (1news.co.nz)
 
 ## 24-14 (dengue)
+
+- [Irmã tatua corpo em homenagem à mulher grávida que morreu de dengue](https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue) (Metropoles.com)
+
+- [A Policlinico S.Martino di Genova un caso di Dengue, già dimesso](https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html) (ANSA.it)
+
+- [Novas tendas de dengue no DF seguem modelo de hospitais de campanha](https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha) (Metropoles.com)
 
 - [Dengue cases soar, doubling in first quarter of 2024; seven deaths reported](https://www.channelnewsasia.com/singapore/dengue-fever-cases-double-first-quarter-2024-mosquito-urgent-action-needed-4232836) (CNA)
 
