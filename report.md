@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2024-04-02 19:05
-- **Most recent article:** 2024-04-01 18:57:08
+- **New articles in last harvest:** 24
+- **Last harvest:** 2024-04-03 07:06
+- **Most recent article:** 2024-04-02 06:01:05
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 186 | 29 | 173 | 207 | 1148 |
-| measles | 86 | 112 | 87 | 44 | 6 | 95 | 80 | 510 |
-| malaria | 15 | 23 | 18 | 7 | 3 | 31 | 17 | 114 |
-| zika | 16 | 16 | 12 | 21 | 2 | 13 | 11 | 91 |
-| chikungunya | 8 | 20 | 15 | 9 | 1 | 13 | 16 | 82 |
-| meningitis | 16 | 5 | 8 | 16 | 0 | 6 | 4 | 55 |
+| dengue | 192 | 181 | 180 | 186 | 45 | 186 | 207 | 1177 |
+| measles | 86 | 112 | 87 | 44 | 7 | 97 | 80 | 513 |
+| malaria | 15 | 23 | 18 | 7 | 4 | 32 | 17 | 116 |
+| zika | 16 | 16 | 12 | 21 | 3 | 13 | 11 | 92 |
+| chikungunya | 8 | 20 | 15 | 9 | 2 | 13 | 16 | 83 |
+| meningitis | 16 | 5 | 8 | 16 | 0 | 7 | 4 | 56 |
 | sarampión | 3 | 3 | 12 | 3 | 3 | 11 | 5 | 40 |
-| rabies | 6 | 6 | 9 | 3 | 0 | 4 | 8 | 36 |
-| mpox | 5 | 8 | 4 | 6 | 1 | 6 | 1 | 31 |
+| rabies | 6 | 6 | 9 | 3 | 1 | 4 | 8 | 37 |
+| mpox | 5 | 8 | 4 | 6 | 6 | 6 | 1 | 36 |
 | pertussis | 4 | 5 | 3 | 6 | 1 | 0 | 4 | 23 |
-| yersinia | 1 | 3 | 3 | 1 | 0 | 0 | 1 | 9 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 4 |
+| yersinia | 1 | 3 | 3 | 1 | 1 | 1 | 1 | 11 |
+| typhoid | 0 | 0 | 1 | 1 | 0 | 2 | 1 | 5 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
 | leptospirosis | 0 | 1 | 0 | 0 | 0 | 0 | 2 | 3 |
 
@@ -804,9 +804,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Belo Horizonte tem Upa lotada neste domingo e pacientes ficam até 9 horas por atendimento](https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024) (R7.com)
 
+## 24-8 (yersinia)
+
+- [В США мужчина заразился бубонной чумой от кошки. Что нужно знать?](https://hi-news.ru/eto-interesno/v-ssha-muzhchina-zarazilsya-bubonnoj-chumoj-ot-koshki-chto-nuzhno-znat.html) (Hi-news.ru)
+
 ## 24-8 (typhoid)
 
 - [That’s not just a tummy ache, it may actually be typhoid](https://www.thestar.com.my/news/nation/2024/02/25/thats-not-just-a-tummy-ache-it-may-actually-be-typhoid) (The Star Online)
+
+- [Alice Eve’s 8 Best Acting Roles (Including Star Trek's Carol Marcus)](https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/) (Screen Rant)
 
 ## 24-8 (sarampión)
 
@@ -869,6 +875,8 @@ Source: [News API](https://newsapi.org/)
 - [Molecular Epidemiology of Underreported Emerging Zoonotic Pathogen Streptococcus suis in Europe](https://wwwnc.cdc.gov/eid/article/30/3/23-0348_article) (Cdc.gov)
 
 - [Computerised modified paramedian approach technique versus conventional midline approach technique of lumbar puncture: a randomised control trial protocol](https://bmjopen.bmj.com/content/14/2/e077941?rss=1) (The BMJ)
+
+- [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
 
@@ -1062,6 +1070,10 @@ Source: [News API](https://newsapi.org/)
 
 - [2 Children Die Of Suspected Measles, 17 Infected In Madhya Pradesh's Maihar](https://www.ndtv.com/india-news/2-children-die-of-suspected-measles-17-infected-in-madhya-pradesh-maihar-schools-shut-in-district-5086496) (NDTV News)
 
+- [Florida Department of Health investigates Broward County's multiple measles cases](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/) (CBS News)
+
+- [Measles infections pose far more risks than most realize, including a fatal neurological complication](https://www.nbcnews.com/health/kids-health/measles-infection-symptoms-longterm-risks-rcna138583) (NBC News)
+
 ## 24-8 (malaria)
 
 - [Quizzes, interactive puzzles, demonstrations and a history of malaria vaccine: Exciting ‘National Science Day’ line up at IISER Pune](https://indianexpress.com/article/cities/pune/iiser-pune-national-science-day-9178259/) (The Indian Express)
@@ -1125,6 +1137,8 @@ Source: [News API](https://newsapi.org/)
 - [Dos especies de parásitos causantes de malaria presentes en Costa Rica](https://www.nacion.com/ciencia/salud/dos-especies-de-parasitos-causantes-de-malaria/E37XK6PERBAOTFMCNX32BI7JA4/story/) (Nacion.com)
 
 - [Medizin: "Manche Viren machen es einem eben leicht"](https://www.sueddeutsche.de/gesundheit/impfstoffe-entwicklung-malaria-corona-aids-1.6376009) (Süddeutsche Zeitung)
+
+- [Odisha's first vaccine manufacturing plant to start production by May](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/odishas-first-vaccine-manufacturing-plant-to-start-production-by-may/articleshow/107800124.cms) (The Times of India)
 
 ## 24-8 (dengue)
 
@@ -1474,6 +1488,32 @@ Source: [News API](https://newsapi.org/)
 
 - [2 tipos de repelente contra o mosquito da dengue, segundo a Anvisa](https://catracalivre.com.br/saude-bem-estar/2-tipos-de-repelente-contra-o-mosquito-da-dengue-segundo-a-anvisa/) (Catracalivre.com.br)
 
+- [Dengue no RJ: número de casos é 6 vezes maior do que o esperado](https://www.metropoles.com/brasil/dengue-no-rj-numero-de-casos-e-6-vezes-maior-do-que-o-esperado) (Metropoles.com)
+
+- [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://esporte.ig.com.br/parceiros/esporte-news-mundo/2024-02-18/allan--do-flamengo--e-diagnosticado-com-dengue-e-desfalca-a-equipe.html) (Ig.com.br)
+
+- [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://www.terra.com.br/esportes/flamengo/allan-do-flamengo-e-diagnosticado-com-dengue-e-desfalca-a-equipe,7644e233e4586eddc0cd56bcc78ade88iau4mpd9.html) (Terra.com.br)
+
+- [Volante Allan, do Flamengo, está com dengue](https://www.terra.com.br/esportes/flamengo/volante-allan-do-flamengo-esta-com-dengue,94c93d8757d43dc9e9eac4ad384889c0bc7fslg7.html) (Terra.com.br)
+
+- [Volante Allan, do Flamengo, está com dengue](https://esporte.ig.com.br/parceiros/jogada10/2024-02-18/volante-allan--do-flamengo--esta-com-dengue.html) (Ig.com.br)
+
+- [Allan é diagnosticado com dengue e desfalca o Flamengo por tempo indeterminado](  https://www.lance.com.br/flamengo/allan-e-diagnosticado-com-dengue-e-desfalca-o-flamengo-por-tempo-indeterminado.html ) (Lance.com.br)
+
+- [Dengue Rages Around The Globe. Where Are The Vaccines?](https://www.forbes.com/sites/stephenthomas/2024/02/18/dengue-rages-around-the-globe-where-are-the-vaccines/) (Forbes)
+
+- [Dengue: Hospital de Campanha do DF já realizou 16 mil procedimentos](https://www.metropoles.com/distrito-federal/dengue-hospital-de-campanha-do-df-ja-realizou-16-mil-procedimentos) (Metropoles.com)
+
+- [São Paulo tem 60 mil casos de dengue confirmados em 2024](https://www.metropoles.com/sao-paulo/sao-paulo-tem-60-mil-casos-de-dengue-confirmados-em-2024) (Metropoles.com)
+
+- [Idosos e crianças fazem parte do grupos de risco para dengue grave](https://jornaldebrasilia.com.br/noticias/brasil/idosos-e-criancas-fazem-parte-do-grupos-de-risco-para-dengue-grave/) (Jornaldebrasilia.com.br)
+
+- [Epidemia de dengue no Brasil: lições para as parcerias tecnológicas do SUS](https://www.conjur.com.br/2024-fev-18/epidemia-de-dengue-no-brasil-licoes-para-as-parcerias-tecnologicas-do-sus/) (Conjur.com.br)
+
+- [About one-third of dengue cases in Klang involve youths](https://www.thestar.com.my/metro/metro-news/2024/02/18/about-one-third-of-dengue-cases-in-klang-involve-youths) (The Star Online)
+
+- [Este año suman 4 mil 593 casos de dengue; 2 mil 382 son graves](https://www.jornada.com.mx/2024/02/18/sociedad/027n1soc) (Jornada.com.mx)
+
 ## 24-8 (chikungunya)
 
 - [La mayor fábrica de mosquitos anti-dengue del mundo está en América Latina: cómo trabaja y los planes para la Argentina](https://www.lanacion.com.ar/el-mundo/la-mayor-fabrica-de-mosquitos-anti-dengue-del-mundo-esta-en-america-latina-como-trabaja-y-los-planes-nid24022024/) (La Nacion)
@@ -1504,9 +1544,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-14 (zika)
 
+- [Epidemia de dengue também está levando a aumento dos casos de zika e chikungunya?](https://www.bbc.com/portuguese/articles/cqvx9w1j342o) (BBC News)
+
 - [Biased virus transmission following sequential coinfection of Aedes aegypti with dengue and Zika viruses](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012053) (Plos.org)
 
 - [Investigating the dose-dependency of the midgut escape barrier using a mechanistic model of within-mosquito dengue virus population dynamics](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011975) (Plos.org)
+
+## 24-14 (yersinia)
+
+- [חוקרים חשפו: הסיבות לתחלואה קטלנית בתקופת האבן בסקנדינביה](https://www.ynet.co.il/environment-science/article/hjt11r3h10) (Ynet)
 
 ## 24-14 (sarampión)
 
@@ -1516,15 +1562,31 @@ Source: [News API](https://newsapi.org/)
 
 - [SSA inicia campaña para aumentar la cobertura de vacunación contra la polio, sarampión y rubéola](https://www.record.com.mx/contra/ssa-inicia-campana-para-aumentar-la-cobertura-de-vacunacion-contra-la-polio-sarampion-y) (Record.com.mx)
 
+## 24-14 (rabies)
+
+- [Essential med prices set to see marginal rise after govt nod](https://timesofindia.indiatimes.com/india/essential-med-prices-set-to-see-marginal-rise-after-govt-nod/articleshow/108958244.cms) (The Times of India)
+
 ## 24-14 (pertussis)
 
 - [Bacolod City Health Office vigilant against pertussis](https://rpnradio.com/bacolod-city-health-office-vigilant-against-pertussis/) (Rpnradio.com)
 
 ## 24-14 (mpox)
 
+- [Bavarian Nordic Announces Commercial Launch of Mpox Vaccine in the U.S.](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Announces-Commercial-Launch-of-Mpox-Vaccine-in-the-U-S-46333938/) (Marketscreener.com)
+
+- [Bavarian Nordic Announces Commercial Launch of Mpox Vaccine in the U.S.](https://www.globenewswire.com/news-release/2024/04/02/2855635/0/en/Bavarian-Nordic-Announces-Commercial-Launch-of-Mpox-Vaccine-in-the-U-S.html) (GlobeNewswire)
+
+- [Doctors warn new version of Monkeypox may lead to a faster rise in cases](https://www.wsbtv.com/news/local/doctors-warn-new-version-monkeypox-may-lead-faster-rise-cases/2W2UH45SXVEWHO2DEMW7Z5RXHU/) (WSB Atlanta)
+
+- [Mpox cases in US: Viral disease caused by infection with the monkeypox virus nearly double from last year, CDC says](https://abc7news.com/mpox-cases-in-us-double-same-time-since-2023/14604290/) (KGO-TV)
+
+- [Mpox cases are far outpacing last year's numbers, CDC reports](https://www.livescience.com/health/viruses-infections-disease/mpox-cases-are-far-outpacing-last-years-numbers-cdc-reports) (Live Science)
+
 - [Vacina da mpox perde eficácia em até um ano, mostram dois estudos](https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia) (Metropoles.com)
 
 ## 24-14 (measles)
+
+- [As measles cases rise nationwide, Pittsburgh health officials stress importance of vaccination](https://www.cbsnews.com/pittsburgh/news/measles-cases-rising-nationwide-pittsburgh-health-officials-vaccination/) (CBS News)
 
 - [Utah officials have a warning as measles cases rise nationwide](https://www.fox13now.com/news/health/utah-officials-have-a-warning-as-measles-cases-rise-nationwide) (fox13now.com)
 
@@ -1540,6 +1602,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-14 (malaria)
 
+- [Malaria raises risks of miscarriages, deformity in early pregnancy – Experts](https://punchng.com/malaria-raises-risks-of-miscarriages-deformity-in-early-pregnancy-experts/) (The Punch)
+
 - [Quantifying Mosquito Host Preference](https://cshprotocols.cshlp.org/content/2024/4/pdb.top107663.full?rss=1) (Cshlp.org)
 
 - [A Behavioral Assay to Quantify Odor-Guided Thermotaxis with Anopheles gambiae under Semi-Field Conditions](https://cshprotocols.cshlp.org/content/2024/4/pdb.prot108303.full?rss=1) (Cshlp.org)
@@ -1548,9 +1612,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-14 (dengue)
 
+- [Dengue: Nunes diz que, inicialmente, vacinação será apenas em Itaquera](https://www.metropoles.com/sao-paulo/dengue-nunes-inicialmente-vacina-apenas-itaquera) (Metropoles.com)
+
+- [São Paulo registra aumento de mais de 70% nos óbitos por dengue em uma semana](https://noticias.r7.com/jr-na-tv/videos/sao-paulo-registra-aumento-de-mais-de-70-nos-obitos-por-dengue-em-uma-semana-01042024) (R7.com)
+
+- [Brasil se aproxima de 1.000 mortes por dengue em 2024](https://www.metropoles.com/brasil/brasil-se-aproxima-de-1-000-mortes-por-dengue-em-2024) (Metropoles.com)
+
+- [Conmoción por la muerte de la esposa del golfista: cuándo el dengue puede generar cuadros graves, incluso en personas jóvenes](https://www.lanacion.com.ar/sociedad/conmocion-por-la-muerte-de-la-esposa-del-golfista-cuando-el-dengue-puede-generar-cuadros-graves-nid01042024/) (La Nacion)
+
+- [Rita Lisauskas recebe especialistas para falarem sobre desafios da dengue no Brasil, no "Opinião"](https://www.ouniversodatv.com/2024/04/rita-lisauskas-recebe-especialistas.html) (Ouniversodatv.com)
+
+- [Epidemia de dengue também está levando a aumento dos casos de zika e chikungunya?](https://www.bbc.com/portuguese/articles/cqvx9w1j342o) (BBC News)
+
+- [Epidemia avança: DF ultrapassa marca de 200 mortes por dengue em 2024](https://www.metropoles.com/distrito-federal/epidemia-avanca-df-ultrapassa-marca-de-200-mortes-por-dengue-em-2024) (Metropoles.com)
+
+- [Dieron de alta a Roxy Vázquez tras ser internada: "Fue un cuadro viral severo"](https://exitoina.perfil.com/noticias/destacada/dieron-alta-roxy-vazquez-ser-internada-fue-un-cuadro-viral-severo.phtml) (Perfil.com)
+
 - [Epidemia de dengue aumenta demanda por doação de plaquetas no Rio de Janeiro](https://noticias.r7.com/rio-de-janeiro/epidemia-de-dengue-aumenta-demanda-por-doacao-de-plaquetas-no-rio-de-janeiro-01042024) (R7.com)
 
 - [Epidemia de dengue aumenta demanda por doação de plaquetas no Rio](https://jornaldebrasilia.com.br/noticias/brasil/epidemia-de-dengue-aumenta-demanda-por-doacao-de-plaquetas-no-rio/) (Jornaldebrasilia.com.br)
+
+- [Dengue: Brasil registra 26 mortes e 166 mil novos casos prováveis durante o feriado](https://noticias.r7.com/saude/dengue-brasil-registra-26-mortes-e-166-mil-novos-casos-provaveis-durante-o-feriado-01042024) (R7.com)
 
 - [A qué temperatura muere el mosquito del dengue](https://www.lanacion.com.ar/sociedad/a-que-temperatura-muere-el-mosquito-del-dengue-nid01042024/) (La Nacion)
 
@@ -1568,7 +1650,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Mortes por dengue na cidade de São Paulo aumentaram 73% em uma semana](https://www.metropoles.com/sao-paulo/mortes-dengue-sao-paulo-aumentaram-73-semana) (Metropoles.com)
 
+- [Doses da vacina contra dengue para Campinas são suficientes para 19% do público-alvo; veja números](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/01/doses-da-vacina-contra-dengue-para-campinas-sao-suficientes-para-19percent-do-publico-alvo-veja-numeros.ghtml) (Globo)
+
 - [Butantan: parceria entre Brasil e EUA resulta em vacina eficaz contra dengue](https://brasil.perfil.com/saude/butantan-parceria-entre-brasil-e-eua-resulta-em-vacina-eficaz-contra-dengue.phtml) (Perfil.com)
+
+- [Em uma semana, mortes por dengue na cidade de São Paulo sobem de 19 para 33](https://valor.globo.com/brasil/noticia/2024/04/01/em-uma-semana-mortes-por-dengue-na-cidade-de-so-paulo-sobem-de-19-para-33.ghtml) (Globo)
 
 - [Mortes por dengue em São Paulo sobem de 19 para 33 em uma semana](https://claudia.abril.com.br/saude/mortes-por-dengue-em-sao-paulo-sobem-de-19-para-33-em-uma-semana) (Abril.com.br)
 
@@ -1576,17 +1662,27 @@ Source: [News API](https://newsapi.org/)
 
 - [Biased virus transmission following sequential coinfection of Aedes aegypti with dengue and Zika viruses](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012053) (Plos.org)
 
+- [Investigating the dose-dependency of the midgut escape barrier using a mechanistic model of within-mosquito dengue virus population dynamics](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011975) (Plos.org)
+
+- [Vacinação contra a dengue no Brasil segue abaixo do ideal, diz infectologista](https://noticias.r7.com/prisma/herodoto-barbeiro/vacinacao-contra-a-dengue-no-brasil-segue-abaixo-do-ideal-diz-infectologista-01042024) (R7.com)
+
+- [Sobe para 33 o número de mortes por dengue na cidade de São Paulo](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/sobe-para-33-o-numero-de-mortes-por-dengue-na-cidade-de-sao-paulo-01042024) (R7.com)
+
 - [Las Américas reportan el triple de casos de dengue que en 2023: “Es motivo de preocupación”](https://www.vozdeamerica.com/a/americas-triple-casos-dengue-preocupacion/7551430.html) (Vozdeamerica.com)
 
 - [Em uma semana, mortes por dengue na cidade de São Paulo sobem de 19 para 33](https://jornaldebrasilia.com.br/noticias/brasil/em-uma-semana-mortes-por-dengue-na-cidade-de-sao-paulo-sobem-de-19-para-33/) (Jornaldebrasilia.com.br)
 
 - [Democratic committees are out fundraising GOP committees this election cycle](https://www.rawstory.com/democratic-committees-are-out-fundraising-gop-committees-this-election-cycle/) (Raw Story)
 
+- [Vacinação contra dengue vai estar disponível nas escolas da capital paulista](https://recordtv.r7.com/balanco-geral-manha/videos/vacinacao-contra-dengue-vai-estar-disponivel-nas-escolas-da-capital-paulista-01042024) (R7.com)
+
 - [Fernán Quirós explicó por qué la vacuna contra el dengue no se debe incluir todavía en el calendario nacional](https://www.lanacion.com.ar/lnmas/fernan-quiros-explico-por-que-la-vacuna-contra-el-dengue-no-se-debe-incluir-todavia-en-el-calendario-nid01042024/) (La Nacion)
 
 - [‘Dengue podría tener un mayor impacto durante 2024′, señala OPS](https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/) (Nacion.com)
 
 - [Quem está com dengue pode comer chocolate? Saiba o que pode acontecer](https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/) (Saudelab.com)
+
+- [Indonesia sees dengue case surge in Q1](https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1) (The Star Online)
 
 - [El mapa del dengue: afirman que la epidemia es “más de seis veces mayor” que el año pasado y continúan las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/) (La Nacion)
 
@@ -1607,6 +1703,8 @@ Source: [News API](https://newsapi.org/)
 - [“Siento que no nos están cuidando”: Mirtha Legrand volvió a apuntar contra el Gobierno por el avance del Dengue](https://www.lanacion.com.ar/espectaculos/personajes/siento-que-no-nos-estan-cuidando-mirtha-legrand-volvio-a-apuntar-contra-el-gobierno-por-el-avance-nid31032024/) (La Nacion)
 
 ## 24-14 (chikungunya)
+
+- [Epidemia de dengue também está levando a aumento dos casos de zika e chikungunya?](https://www.bbc.com/portuguese/articles/cqvx9w1j342o) (BBC News)
 
 - [Lúpulo tem ação antiviral contra chikungunya e oropouche](https://tecnologia.ig.com.br/parceiros/canaltech/2024-04-01/lupulo-tem-acao-antiviral-contra-chikungunya-e-oropouche.html) (Ig.com.br)
 
