@@ -1,8 +1,461 @@
 {
-  "last_updated": "2024-04-05 07:05",
-  "count_articles_total": 2157,
+  "last_updated": "2024-04-05 19:06",
+  "count_articles_total": 2163,
   "count_articles_new": 25,
   "articles": [
+    {
+      "id": 7841,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "X. Gago",
+      "title": "Sanidade inmunizar\u00e1 a menores contra la sepsis, la neumon\u00eda y la meningitis",
+      "description": "La nueva vacuna, que el Sergas estima que ser\u00e1 20 veces m\u00e1s efectiva, se administrar\u00e1 a mayores de 65 y personas en grupos de riesgo, incluidos por primera vez los menores",
+      "url": "https://www.lavozdegalicia.es/noticia/galicia/2024/04/04/sanidadeinmunizara-menores-contra-sepsis-neumonia-meningitis/00031712256008455791471.htm",
+      "urlToImage": "https://cflvdg.avoz.es/sc/OCyBFluS6lFYVIHdXJGmDn_Aqy8=/1280x/2021/12/22/00121640181961768977345/Foto/eup_20211221_144859668.jpg",
+      "publishedAt": "2024-04-04 18:45:00",
+      "content": "El Gobierno gallego autoriz\u00f3 hoy jueves el suministro por 11,5 millones de euros durante dos a\u00f1os de una vacuna mejorada contra la bacteria que provoca la neumon\u00eda, la meningitis y la sepsis. El f\u00e1rm\u2026 [+1827 chars]",
+      "retrievedAt": "2024-04-05 19:06:22.822325",
+      "internal_id": "f360d37c05c66008f377b515379649efdfb3f4766421b22106f0fb3551dc43e5",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7826,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Michelle McGahan",
+      "title": "Why Joe Rogan Just Slammed 'The View' \u2014 And Didn't Hold Back",
+      "description": "Joe Rogan didn't mince words while slamming 'The View' \u2014 and its audience \u2014 on Wednesday, April 3.",
+      "url": "https://www.newsweek.com/why-joe-rogan-slammed-view-1887040",
+      "urlToImage": "https://d.newsweek.com/en/full/2373528/joe-rogan.jpg",
+      "publishedAt": "2024-04-04 16:57:53",
+      "content": "Entertainment gossip and news from Newsweek's network of contributors Joe Rogan didn't mince words when talking about The View, calling the talk show a \"rabies-infested hen house\" on the latest epis\u2026 [+2710 chars]",
+      "retrievedAt": "2024-04-05 19:06:21.123228",
+      "internal_id": "adc915bb4f1cee7b9296960c32c292d1f0d41fa29f93a72c2a1832455d5367f2",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7839,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Yorga77",
+      "title": "Dengue ; Argentina, el pa\u00eds atraviesa el peor brote de la enfermedad de su historia con una grave escasez de repelentes",
+      "description": "Hace no muchos a\u00f1os, el dengue era para la mayor\u00eda de los argentinos una enfermedad tropical que solo afectaba a quienes viajaban a pa\u00edses lim\u00edtrofes m\u00e1s c\u00e1lidos. El aumento de las temperaturas por el cambio clim\u00e1tico hizo que esta infecci\u00f3n viral, que es tra\u2026",
+      "url": "https://www.meneame.net/m/actualidad/dengue-argentina-pais-atraviesa-peor-brote-enfermedad-historia",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-04-04 16:49:16",
+      "content": "Repelentes no escasean en el gobierno.",
+      "retrievedAt": "2024-04-05 19:06:22.436738",
+      "internal_id": "f18c6110b7f9569fb5e1cf8c4090ff96264af4eb7955779ebf65ba9d681301ed",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7838,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "S\u00e3o Paulo passa de 200 mortes por dengue, com v\u00edtimas em 70 cidades",
+      "description": "Estado chegou a 205 mortes por dengue nesta quinta-feira (4/4), com 428.543 casos confirmados da doen\u00e7a desde o in\u00edcio do ano",
+      "url": "https://www.metropoles.com/sao-paulo/sao-paulo-passa-200-mortes-dengue-70-cidades",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
+      "publishedAt": "2024-04-04 16:10:36",
+      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo chegou a 205 mortes por dengue nesta quinta-feira (4/4), de acordo com o painel de monitoramento da Secretaria Estadual da Sa\u00fade. Outros 406 \u00f3bitos est\u00e3o em investiga\u00e7\u2026 [+7244 chars]",
+      "retrievedAt": "2024-04-05 19:06:22.422677",
+      "internal_id": "f47368fa742c1cdcb22e0ceedf210cbb94dc45cea6545a9cfeca7ae2d35cc095",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7832,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Ute Sch\u00f6nfelder",
+      "title": "Attack and defense in the microverse: How small RNA molecules regulate viral infections of bacteria",
+      "description": "Viruses need hosts. Whether it's measles, the flu or coronavirus, viral pathogens cannot multiply or infect other organisms without the assistance of their hosts' cellular infrastructure. However, humans are not the only ones affected by viruses: animals, pla\u2026",
+      "url": "https://phys.org/news/2024-04-defense-microverse-small-rna-molecules.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/attack-and-defence-in.jpg",
+      "publishedAt": "2024-04-04 16:01:15",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+4582 chars]",
+      "retrievedAt": "2024-04-05 19:06:21.623528",
+      "internal_id": "7d0c91dc384df5c588f43f57a83c06925681699d7e121c873adbe1954c2c055a",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7823,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "Harold Hutchison",
+      "title": "\u2018Rabies-Infested Hen House\u2019: Joe Rogan Lights Into \u2018The View\u2019",
+      "description": "Joe Rogan blasted the co-hosts on ABC\u2019s \u201cThe View\u201d during an interview of author Coleman Hughes while discussing the author&#039;s appearance on the ABC show.",
+      "url": "https://dailycaller.com/2024/04/04/joe-rogan-the-view/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/04/DCNF-Rogan-View-Rabies-Hughes-Featured.jpg",
+      "publishedAt": "2024-04-04 15:53:46",
+      "content": "Podcaster Joe Rogan blasted the co-hosts of ABC\u2019s \u201cThe View\u201d during a Wednesday interview of author Coleman Hughes while discussing the author\u2019s appearance on the ABC show. Hughes clashed with co-ho\u2026 [+2267 chars]",
+      "retrievedAt": "2024-04-05 19:06:21.107320",
+      "internal_id": "f459fa26e4b1a5962bed07c64050be6f0bf72002f15916662b90d05f6276d31c",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7834,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Nikolas Lanum",
+      "title": "Chicago alderman says tuberculosis, measles 'crisis' in migrant shelters may push away Black and Latino voters",
+      "description": "Democratic Chicago Alderman Raymond Lopez is warning that an outbreak of tuberculosis and measles at migrant shelters may push away Black and Latino voters.",
+      "url": "https://www.foxnews.com/media/chicago-alderman-tuberculosis-measles-crisis-migrant-shelters-push-away-black-latino-voters",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Chicago-Alderman-migrant-shelter.png",
+      "publishedAt": "2024-04-04 15:52:39",
+      "content": "Democratic Chicago Alderman Raymond Lopez said he is concerned city officials have been inattentive to alarms raised about a potential outbreak after health officials confirmed a small number of tube\u2026 [+2184 chars]",
+      "retrievedAt": "2024-04-05 19:06:21.631121",
+      "internal_id": "21e4caede94c667e790beb1b2f49fe6cbd9c6d846cbb1efcf81020657468be57",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7827,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Decider",
+      "author": "mliss1578",
+      "title": "Joe Rogan Calls \u2018The View\u2019 A \u201cRabies-Infested Henhouse\u201d After Coleman Hughes Says He Didn\u2019t Expect Sunny Hostin To \u201cAmbush\u201d Him",
+      "description": "\"It is the show that people love to hate,\" Rogan said.",
+      "url": "https://decider.com/2024/04/04/joe-rogan-the-view-rabies-infested-henhouse-coleman-hughes-sunny-hostin-ambush/",
+      "urlToImage": "https://decider.com/wp-content/uploads/2024/04/view2_c7975e.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2024-04-04 15:42:25",
+      "content": "Joe Rogan has some strong feelings about The View. On a recent episode of his podcast, he referred to the hit daytime talk show as a \u201crabies-infested henhouse\u201d that people \u201clove to hate.\u201d His commen\u2026 [+2008 chars]",
+      "retrievedAt": "2024-04-05 19:06:21.127182",
+      "internal_id": "e8ed7d9a48b7310a004a37c116decbd9250d110d97201d3db3c764e286c0050c",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7831,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Durham Region Public Health confirms measles case",
+      "description": "Durham Region Public Health is warning that residents could have been exposed to measles in the region and at Toronto Pearson International Airport.",
+      "url": "https://www.cbc.ca/news/canada/toronto/durham-region-toronto-pearson-airport-measles-1.7163347",
+      "urlToImage": "https://i.cbc.ca/1.7131773.1709334919!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2024-04-04 15:09:31",
+      "content": "Durham Region Public Health is warning that residents could have been exposed to measles in the region and at Toronto Pearson International Airport. In a news release Thursday, the public health dep\u2026 [+1861 chars]",
+      "retrievedAt": "2024-04-05 19:06:21.615985",
+      "internal_id": "a43ed8a45b00857071a6423ed3e9f04329dace4e66b73d52bc453c092a1e66c2",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7829,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Variety",
+      "author": "Ethan Shanfeld",
+      "title": "Joe Rogan Slams \u2018The View\u2019 as \u2018Rabies-Infested Hen House\u2019: \u2018It Is the Show That People Love to Hate\u2019",
+      "description": "Joe Rogan has some choice words for TV\u2019s most-watched daytime talk show. In a new episode of his \u201cJoe Rogan Experience\u201d podcast, the host bonded with author and journalist Coleman Hughes over the latter\u2019s tense appearance on \u201cThe View.\u201d \u201cIt is the show that p\u2026",
+      "url": "https://variety.com/2024/tv/news/joe-rogan-slams-the-view-1235960350/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-04-at-10.34.55-AM-e1712241327819.png?w=1000&h=563&crop=1",
+      "publishedAt": "2024-04-04 14:57:12",
+      "content": "Joe Rogan has some choice words for TV\u2019s most-watched daytime talk show. In a new episode of his \u201cJoe Rogan Experience\u201d podcast, the host bonded with author and journalist Coleman Hughes over the la\u2026 [+1433 chars]",
+      "retrievedAt": "2024-04-05 19:06:21.141427",
+      "internal_id": "9d2fd0b09cdbbb6f7c3d1ae24b8df169f392cebf7ba58a060d800f54b9fa5ee6",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7837,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Saiba quais cidades de S\u00e3o Paulo receber\u00e3o vacinas para dengue",
+      "description": "Minist\u00e9rio de Sa\u00fade divulgou quais cidades de S\u00e3o Paulo receber\u00e3o vacinas contra dengue; ao todo, ser\u00e3o distribu\u00eddas 274,9 mil doses",
+      "url": "https://www.metropoles.com/sao-paulo/saiba-quais-cidades-de-sao-paulo-receberao-vacinas-para-dengue",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/02/10095625/vacinacao-dengue-vacina-qdenga-imunizante-df.jpeg",
+      "publishedAt": "2024-04-04 14:39:08",
+      "content": "S\u00e3o Paulo O Minist\u00e9rio da Sa\u00fade divulgou, nessa quarta-feira (3/4), as quantidades e quais cidades de S\u00e3o Paulo receber\u00e3o doses da vacina para dengue. Ser\u00e3o contemplados 50 munic\u00edpios nas regi\u00f5es de \u2026 [+7434 chars]",
+      "retrievedAt": "2024-04-05 19:06:22.400864",
+      "internal_id": "93f8f98f6f42c1c369bce022436edc23bc06a1c19db4be68d5436b5900695063",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7845,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Allison Parshall",
+      "title": "How Rats Took Over North America",
+      "description": "Rat remains from shipwrecks and dig sites show how two rodent species duked it out in eastern North America",
+      "url": "https://www.scientificamerican.com/article/how-rats-took-over-north-america/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/6c88beb7446c5155/original/DMPCXR.jpg?w=1200",
+      "publishedAt": "2024-04-04 14:30:00",
+      "content": "The Black Death first swept through Europe in the mid-1300s, killing tens of millions of people. But it didn\u2019t stop there\u2014the plague-causing bacterium Yersinia pestishid inside the bodies of black ra\u2026 [+5800 chars]",
+      "retrievedAt": "2024-04-05 19:06:24.806203",
+      "internal_id": "74e758d262a2bece097b4323f4003c34568f9b124ab6d4adf63654ad1d2ab27a",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7836,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rajendra Prasad Chatterjee, Aroni Chatterjee, Sabbir Ansari, Shilpa Chatterjee, Shyamalendu Chatterjee, Nilanjan Chakraborty",
+      "title": "Molecular identification and phylogenetic analysis of chikungunya virus among dengue-negative patients in Kolkata, India",
+      "description": "Dengue and chikungunya are co-circulating vector-borne diseases that share a significant number of clinical symptoms. To identify variables to aid physicians in making rapid and effective diagnostic decisions, we performed molecular diagnosis of the chikungun\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301644",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0301644.g005&size=inline",
+      "publishedAt": "2024-04-04 14:00:00",
+      "content": "Abstract Dengue and chikungunya are co-circulating vector-borne diseases that share a significant number of clinical symptoms. To identify variables to aid physicians in making rapid and effective d\u2026 [+34639 chars]",
+      "retrievedAt": "2024-04-05 19:06:22.365003",
+      "internal_id": "7fc733883388999e5c3a182fa9b6bf6b00e00b7ac7396e669f219cb0c5997dac",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7844,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Megan Auzenbergs, Clara Maure, Hyolim Kang, Andrew Clark, Oliver Brady, Sushant Sahastrabuddhe, Kaja Abbas",
+      "title": "Programmatic considerations and evidence gaps for chikungunya vaccine introduction in countries at risk of chikungunya outbreaks: Stakeholder analysis",
+      "description": "Author summary The first vaccine to prevent chikungunya fever has been recently approved in November 2023 by the US FDA and multiple chikungunya vaccine candidates are in different phases of the development pipeline. These will be the first-ever vaccines agai\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012075",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012075.g002&size=inline",
+      "publishedAt": "2024-04-04 14:00:00",
+      "content": "Abstract Chikungunya can have longstanding effects on health and quality of life. Alongside the recent approval of the worlds first chikungunya vaccine by the US Food and Drug Administration in Nove\u2026 [+46118 chars]",
+      "retrievedAt": "2024-04-05 19:06:23.926674",
+      "internal_id": "0d3c840f149f1db7f4fe34091d06611e53ccd3a2254be7ae87862dba3f4f8c3a",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7824,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Radaronline.com",
+      "author": "Aaron Johnson",
+      "title": "\u2018Rabies-infested Henhouse\u2019: Joe Rogan Slams \u2018The View\u2019 Co-hosts After Sunny Hostin \u2018Ambushed\u2019 Guest Author",
+      "description": "The podcaster didn't hold back his feelings when talking to author Coleman Hughes about his chat with Sunny Hostin.",
+      "url": "https://radaronline.com/p/joe-rogan-slams-the-view-sunny-hostin-co-hosts-guest-author-interview-coleman-hughes/",
+      "urlToImage": "https://media.radaronline.com/brand-img/o0NCTdgLs/1200x628/joe-rogan-slams-sunny-hostin-the-view-coleman-hughes-interview-rabies-1-1712238519545.jpg",
+      "publishedAt": "2024-04-04 13:50:10",
+      "content": "Source: MEGARogan went after Sunny Hostin. Joe Rogan didnt hold back when speaking about The View co-hosts during a chat with author Coleman Hughes. Hughes, a registered Independent, wrote the boo\u2026 [+2822 chars]",
+      "retrievedAt": "2024-04-05 19:06:21.112122",
+      "internal_id": "8b36c42a515a0686f1f13b2d33fb893af469d873985d41137dbb86d1017e4b41",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7833,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Michael Dorgan",
+      "title": "Tuberculosis breaks out at Chicago migrant shelters following measles cases",
+      "description": "A tuberculosis outbreak has been reported at migrant shelters in Chicago as health officials there are already battling dozens of cases of measles.",
+      "url": "https://www.foxnews.com/health/tuberculosis-breaks-chicago-migrant-shelters-measles-cases",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Chicago-shelter.jpg",
+      "publishedAt": "2024-04-04 13:43:38",
+      "content": "Chicago health officials have announced that a \"small number\" of tuberculosis (TB) cases have been reported at some migrant facilities following a recent outbreak of measles among migrants living in \u2026 [+3798 chars]",
+      "retrievedAt": "2024-04-05 19:06:21.627523",
+      "internal_id": "cce7b8eb188a0451f80a956f8d56db6047e20fbf28a59e0eeac761fc5f413b07",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7828,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "TMZ",
+      "author": "TMZ Staff",
+      "title": "Joe Rogan Slams 'The View,' Calls It a 'Rabies-Infested Hen House'",
+      "description": "Joe Rogan crapped on \"The View\" after his latest guest came on and recounted what he felt was a bad experience on the show -- and he had some choice words for the ladies there. The comedian/podcaster hosted Coleman Hughes on 'JRE' Wednesday, and\u2026 Permalink",
+      "url": "https://www.tmz.com/2024/04/04/joe-rogan-the-view-author-coleman-hughes-rabies-infested-henhouse/",
+      "urlToImage": "https://imagez.tmz.com/image/0f/16by9/2024/04/04/0fd2883603f245a49a5ffc9787ef27f9_xl.jpg",
+      "publishedAt": "2024-04-04 13:28:44",
+      "content": "Joe Rogan crapped on \"The View\" after his latest guest came on and recounted what he felt was a bad experience on the show -- and he had some choice words for the ladies there. The comedian/podcaste\u2026 [+1273 chars]",
+      "retrievedAt": "2024-04-05 19:06:21.131211",
+      "internal_id": "b1e7b7ca0c425b2c647f4eb660fe8c0f52918c7ae59b1f26ed5abbdf615f37ca",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7825,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Zachary Leeman",
+      "title": "Joe Rogan Trashes \u2018Rabies-Infested Hen House\u2019 The View Talking with Author Fresh Off Tense Interview",
+      "description": "Joe Rogan laid into The View and its hosts while chatting with author Coleman Hughes, a View guest fresh off of a tense interview with Sunny Hostin. The post Joe Rogan Trashes \u2018Rabies-Infested Hen House\u2019 The View Talking with Author Fresh Off Tense Interview \u2026",
+      "url": "https://www.mediaite.com/politics/joe-rogan-trashes-rabies-infested-hen-house-the-view-talking-with-author-fresh-off-tense-interview/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/04/rogan_hughes.jpg",
+      "publishedAt": "2024-04-04 13:22:03",
+      "content": "Joe Rogan laid into The View and its hosts while chatting with author Coleman Hughes, a View guest fresh off of a tense interview with Sunny Hostin. Hughes appeared on The View to promote his End of\u2026 [+1571 chars]",
+      "retrievedAt": "2024-04-05 19:06:21.116160",
+      "internal_id": "2268422b1da8d447b499c7bc425839a221990e2330c2c6a28b49c9ffba7fdbfe",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7830,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Mary Chastain",
+      "title": "Chicago Measles Cases Rise as Illegal Aliens Show Up With Tuberculosis",
+      "description": "Measles are popping up in the suburbs. The post Chicago Measles Cases Rise as Illegal Aliens Show Up With Tuberculosis first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/04/chicago-measles-cases-rise-as-illegal-aliens-show-up-with-tuberculosis/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/04/Tuberculosis-Chicago.jpg",
+      "publishedAt": "2024-04-04 13:00:37",
+      "content": "Leslie has California. I have Illinois. The glorious city of Chicago has 53 measles cases\u2026as of now. The city claimed the illegal aliens didn\u2019t cause the measles outbreak. But then health officials\u2026 [+3794 chars]",
+      "retrievedAt": "2024-04-05 19:06:21.604073",
+      "internal_id": "6a7f3b7e95db9b8108fbc83aa0dd5b743090e09fdfa8e9372e059639051332ef",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7821,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Aktualne.cz",
+      "author": "Dom\u00e1c\u00ed",
+      "title": "\u010cern\u00fd ka\u0161el m\u00e1 na sv\u011bdom\u00ed prvn\u00ed d\u011btsk\u00e9 \u00famrt\u00ed. Na Pardubicku na n\u011bj zem\u0159el novorozenec",
+      "description": "Odborn\u00edci uvedli, \u017ee jde o nejsiln\u011bj\u0161\u00ed epidemii za v\u00edce ne\u017e \u0161edes\u00e1t let. Od po\u010d\u00e1tku roku do dubna onemocn\u011blo p\u0159es \u0161est tis\u00edc lid\u00ed.",
+      "url": "https://zpravy.aktualne.cz/domaci/novorozenec-v-pardubickem-kraji-zemrel-na-cerny-kasel-uvedl/r~859993d8f28211eea065ac1f6b220ee8/",
+      "urlToImage": "https://cdn.xsd.cz/original/9679ee20404435ff9287f73f97da97e0.jpg",
+      "publishedAt": "2024-04-04 12:59:57",
+      "content": "\"Pokud v\u00edm, zem\u0159elo velmi mal\u00e9 d\u00edt\u011b z Pardubick\u00e9ho kraje. M\u011blo oslabenou imunitu a nakazilo se n\u011bkolika druhy bakteri\u00ed v\u010detn\u011b pneumokoka a Bordetella pertussis. Zat\u00edm mohu jen spekulovat, ale p\u0159edpok\u2026 [+327 chars]",
+      "retrievedAt": "2024-04-05 19:06:20.796271",
+      "internal_id": "d2ab1959a09289b79ac4045c3c192d3986cd58347122bb5b6d8fa96da906889d",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7835,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "\"Siento que contagiarme o no es s\u00f3lo cuesti\u00f3n de suerte\": Argentina atraviesa el peor brote de dengue de su historia con una grave escasez de repelentes",
+      "description": "La falta de repelente y las versiones cruzadas sobre las nuevas vacunas agravan la situaci\u00f3n.",
+      "url": "https://www.bbc.com/mundo/articles/clm73n10dz7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7822/live/36541100-f218-11ee-bc21-df85a59367c6.jpg",
+      "publishedAt": "2024-04-04 11:15:42",
+      "content": "Fuente de la imagen, Reuters Pie de foto, Operarios en un parque de Buenos Aires. Article informationAuthor, Veronica SminkRole, BBC News Mundo, Argentina Hace \u2026 [+8293 chars]",
+      "retrievedAt": "2024-04-05 19:06:22.345024",
+      "internal_id": "8de653cc202f4faf2047c3b021d3904c379e920340c9878d285bd4faaf93dfed",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7840,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "Roc\u00edo Antol\u00edn",
+      "title": "Grifols recibe la autorizaci\u00f3n de Europa para su prueba de detecci\u00f3n de arbovirus",
+      "description": "Grifols ampl\u00eda su cat\u00e1logo del \u00e1rea de diagn\u00f3stico. La catalana ha obtenido el marcado CE para su prueba o test Procleix ArboPlex Assay. Esta detecta cuatro arbovirus. En concreto, los virus del dengue, Zika, chikungunya y del Nilo Occidental. Se utilizar\u00e1 pa\u2026",
+      "url": "https://www.eleconomista.es/salud/noticias/12752187/04/24/grifols-recibe-la-autorizacion-de-europa-para-su-prueba-de-deteccion-de-arbovirus.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/4935x2693/4/f/f/1200x655_Grifolsfarmaceutica.jpg",
+      "publishedAt": "2024-04-04 10:08:05",
+      "content": "Grifols ampl\u00eda su cat\u00e1logo del \u00e1rea de diagn\u00f3stico. La catalana ha obtenido el marcado CE para su prueba o test Procleix ArboPlex Assay. Esta detecta cuatro arbovirus. En concreto, los virus del deng\u2026 [+3036 chars]",
+      "retrievedAt": "2024-04-05 19:06:22.459030",
+      "internal_id": "a4ec3f879e9f454f249ff11adb798f5706abc8fa189a0d6b13076bb2f9a5d532",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7843,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Branded Content",
+      "title": "Awakening to the Perils of Malaria: A Call to Action for Nigeria",
+      "description": "In the heart of Nigeria, nestled within its vibrant communities, lies a silent menace that has plagued our people for generations: malaria. It was many years ago when I first witnessed its cruel grip, as a child in my village succumbed to the disease due to l\u2026",
+      "url": "https://punchng.com/awakening-to-the-perils-of-malaria-a-call-to-action-for-nigeria/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/04/04144826/mon.jpg",
+      "publishedAt": "2024-04-04 09:17:39",
+      "content": "In the heart of Nigeria, nestled within its vibrant communities, lies a silent menace that has plagued our people for generations: malaria. It was many years ago when I first witnessed its cruel grip\u2026 [+3755 chars]",
+      "retrievedAt": "2024-04-05 19:06:23.141763",
+      "internal_id": "28e1ca8956a5ef91bea006b8fe6c83d3844a8a7a9043135e5b0751fcfddaaf3f",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7822,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Iriga: Albay Health Office, sinegurong wala pang kaso sa lalawigan ng \u201cwoofing cough\u201d ngunit nagpaalala sa kahalagahan ng pagpapabakuna",
+      "description": "Kinumpirma ni Jan Edmund Dominic Bailon, pinuno ng Provincial Epidemiology and Surveillance Unit (PESU) na wala pang naitatalang kaso ng \u201cwoofing cough\u201d o pertussis ang kanilang opisina simula Enero hanggang unang Araw ng Abril ng taong kasalukuyan. Bagaman w\u2026",
+      "url": "https://rpnradio.com/iriga-albay-health-office-sinegurong-wala-pang-kaso-sa-lalawigan-ng-woofing-cough-ngunit-nagpaalala-sa-kahalagahan-ng-pagpapabakuna/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/04/Albay-Health-Office-states-no-cases-of-Pertussis-in-province-but-stress-importance-of-vaccination.jpg",
+      "publishedAt": "2024-04-04 07:49:40",
+      "content": "Kinumpirma ni Jan Edmund Dominic Bailon, pinuno ng Provincial Epidemiology and Surveillance Unit (PESU) na wala pang naitatalang kaso ng woofing cough o pertussis ang kanilang opisina simula Enero ha\u2026 [+740 chars]",
+      "retrievedAt": "2024-04-05 19:06:20.820477",
+      "internal_id": "2aa464eafce4063176dd458e3fe501ed509e01d6b76cc78d5a4603ff3c33f080",
+      "publishedAtLabel": "Apr 4"
+    },
+    {
+      "id": 7842,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nuevatribuna.es",
+      "author": "CRISTINA CALANDRE",
+      "title": "Las instituciones siguen prevaricando: Exposici\u00f3n Malaria",
+      "description": "Necesitamos tu ayuda para seguir informando Colabora con Nuevatribuna Esta semana he visitado la Exposici\u00f3n \"Misi\u00f3n Malaria, una mirada hist\u00f3rica\" organizada por el Museo Nacional de Ciencias Naturales-CSIC y el...",
+      "url": "https://www.nuevatribuna.es/articulo/sociedad/memoria-instituciones-siguen-prevaricando-exposicion-malaria/20240404093248225564.html",
+      "urlToImage": "https://www.nuevatribuna.es/media/nuevatribuna/images/2024/04/04/2024040409192991528.jpg",
+      "publishedAt": "2024-04-04 07:32:48",
+      "content": "Esta semana he visitado la Exposici\u00f3n \"Misi\u00f3n Malaria, una mirada hist\u00f3rica\" organizada por el Museo Nacional de Ciencias Naturales-CSIC y el Instituto de Salud Global - Fundaci\u00f3n La Caixa. (1) Con \u2026 [+2644 chars]",
+      "retrievedAt": "2024-04-05 19:06:23.137487",
+      "internal_id": "82f9a8248ec186271125ef7a6d3ba0844f739b634831fdaf72df3ce6e5754a25",
+      "publishedAtLabel": "Apr 4"
+    },
     {
       "id": 7816,
       "query": [
@@ -38612,348 +39065,6 @@
       "content": "\u00daltimas not\u00edcias: No combate ao mosquito Aedes aegypti, transmissor da dengue, destaca-se a necessidade do uso de repelentes. Eles s\u00e3o divididos em duas categorias: os aplicados na pele e os destina\u2026 [+2951 chars]",
       "retrievedAt": "2024-02-21 07:05:45.058142",
       "internal_id": "450f7e0b98f0fe258ee27041b8f3c832bfd4b4aceb09530f37a60aeefa9d31f3",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5664,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Screen Rant",
-      "author": "Mark Donaldson",
-      "title": "Alice Eve\u2019s 8 Best Acting Roles (Including Star Trek's Carol Marcus)",
-      "description": "Alice Eve memorably played Dr. Carol Marcus in J.J. Abrams' Star Trek into Darkness, but it was just one of many roles from the MCU to Belgravia.",
-      "url": "https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/",
-      "urlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/02/alice-eve-best-roles-carol-marcus-star-trek-into-darkness.jpg",
-      "publishedAt": "2024-02-18 18:30:11",
-      "content": "Summary Alice Eve's role as Carol Marcus in Star Trek into Darkness was a proud moment despite controversy. The actress seamlessly portrayed Typhoid Mary in Iron Fist, enhancing t\u2026 [+7413 chars]",
-      "retrievedAt": "2024-02-19 19:05:37.565621",
-      "internal_id": "0a4f3e0e357469092604e0b5e86728069e989168880acfc36e0254e3ba88406f",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5652,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Cbs Miami",
-      "title": "Florida Department of Health investigates Broward County's multiple measles cases",
-      "description": "DOH-Broward announced on Sunday that it's investigating the four reported cases of the disease that came out of Manatee Bay Elementary School over the weekend.",
-      "url": "https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/24/f6482dd6-aca2-452a-b592-f8c61813b020/thumbnail/1200x630/16b2c82ca2ee6ede98047e6814752e52/gettyimages-1359395701.jpg?v=2a01790210e495d24a119503c08f840d",
-      "publishedAt": "2024-02-18 17:22:42",
-      "content": "WESTON \u2014 The Florida Department of Health is carrying out an epidemiological investigation surrounding the multiple cases of measles at a Broward County elementary school over the weekend. DOH-Browa\u2026 [+2089 chars]",
-      "retrievedAt": "2024-02-19 19:05:33.085475",
-      "internal_id": "6569d7962516e26cf07db550edb7fce8ba3ac8c31164c994e0075f69bebc1055",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5659,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "S\u00e3o Gon\u00e7alo",
-      "title": "Dengue no RJ: n\u00famero de casos \u00e9 6 vezes maior do que o esperado",
-      "description": "Com mais de 41 mil notifica\u00e7\u00f5es, o estado chega a 80% do n\u00famero de casos de dengue registrados em todo o ano passado",
-      "url": "https://www.metropoles.com/brasil/dengue-no-rj-numero-de-casos-e-6-vezes-maior-do-que-o-esperado",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
-      "publishedAt": "2024-02-18 16:13:12",
-      "content": "O boletim semanal Panorama da Dengue, divulgado nessa sexta-feira (16/2) pela Secretaria de Estado de Sa\u00fade do Rio de Janeiro (SES-RJ), mostra que o estado tem n\u00famero de casos prov\u00e1veis da doen\u00e7a sei\u2026 [+630 chars]",
-      "retrievedAt": "2024-02-19 19:05:34.296453",
-      "internal_id": "cb7621a715d822e1e77b66e0116498ff9c9482cffcf7901e01ef70b3e9289f73",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5679,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Esporte News Mundo, Esporte News Mundo",
-      "title": "Allan, do Flamengo, \u00e9 diagnosticado com dengue e desfalca a equipe",
-      "description": "Volante Allan foi diagnosticado com dengue e desfalca o Flamengo por tempo indeterminado",
-      "url": "https://esporte.ig.com.br/parceiros/esporte-news-mundo/2024-02-18/allan--do-flamengo--e-diagnosticado-com-dengue-e-desfalca-a-equipe.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/cr/tu/m1/crtum1xuqne696pmbgsjk11hb.jpg",
-      "publishedAt": "2024-02-18 16:05:31",
-      "content": "O Flamengo informou, atrav\u00e9s do seu twitter, que o volante Allan se apresentou na sexta-feira (16) com febre e mialgia. O jogador passou por exames e, na manh\u00e3 deste domingo (18), foi confirmado q\u2026 [+1011 chars]",
-      "retrievedAt": "2024-02-20 07:06:14.239985",
-      "internal_id": "0965234305fe760d55ab86e6c4575b03b97d030fbd39dcfc58df3ae73961599b",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5661,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Esporte News Mundo",
-      "title": "Allan, do Flamengo, \u00e9 diagnosticado com dengue e desfalca a equipe",
-      "description": "O Flamengo informou, atrav\u00e9s do seu twitter, que o volante Allan se apresentou na sexta-feira ...",
-      "url": "https://www.terra.com.br/esportes/flamengo/allan-do-flamengo-e-diagnosticado-com-dengue-e-desfalca-a-equipe,7644e233e4586eddc0cd56bcc78ade88iau4mpd9.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/18/525763425-allan-flamengo.jpg",
-      "publishedAt": "2024-02-18 15:58:14",
-      "content": "O Flamengo informou, atrav\u00e9s do seu twitter, que o volante Allan se apresentou na sexta-feira (16) com febre e mialgia. O jogador passou por exames e, na manh\u00e3 deste domingo (18), foi confirmado que \u2026 [+1051 chars]",
-      "retrievedAt": "2024-02-19 19:05:34.365654",
-      "internal_id": "fa3b418c48415d0b740ba4af4b8aaa3aca3f8310fa82052a48e3e80dbc07454b",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5663,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Odisha's first vaccine manufacturing plant to start production by May",
-      "description": "According to the Odisha chief minister's office, the plant, at full capacity, will be the biggest vaccine-producing plant in the country. It is expected to produce over 15 vaccines for various diseases, including cholera and malaria.",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/odishas-first-vaccine-manufacturing-plant-to-start-production-by-may/articleshow/107800124.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-107800182,width-1200,height-630,imgsize-231244,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-02-18 15:20:51",
-      "content": "Bhubaneswar: Commercial production at the Sapigen Biologix vaccine plant in Odisha, the first such facility in the state, will commence by May this year, officials said on Sunday. The plant at the Bi\u2026 [+968 chars]",
-      "retrievedAt": "2024-02-19 19:05:35.469743",
-      "internal_id": "aa915018953a32562255f080c629dc7e8922c0ab5800dbd83e6162af083abb14",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5655,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Jogada10",
-      "title": "Volante Allan, do Flamengo, est\u00e1 com dengue",
-      "description": "Flamengo anunciou neste domingo que Allan ficar\u00e1 um tempo afastado de campo porque exame apontou dengue. Rio vive epidemia da doen\u00e7a",
-      "url": "https://www.terra.com.br/esportes/flamengo/volante-allan-do-flamengo-esta-com-dengue,94c93d8757d43dc9e9eac4ad384889c0bc7fslg7.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/18/480081693-screenshot20230814133524gallery-e1708266853563-3-1-610x400.jpg",
-      "publishedAt": "2024-02-18 15:16:52",
-      "content": "O Flamengo anunciou neste domingo (18/2) que o volante Allan est\u00e1 com dengue. Assim, ele ser\u00e1 desfalque no jogo contra o Boavista, na ter\u00e7a-feira, pela nona rodada do Campeonato Carioca. \"O atleta A\u2026 [+1979 chars]",
-      "retrievedAt": "2024-02-19 19:05:34.169395",
-      "internal_id": "bd2b73906d31e021f7b99790ba6b454e28c329b1b853d68de473263217784f5f",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5680,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Jogada10, Jogada10",
-      "title": "Volante Allan, do Flamengo, est\u00e1 com dengue",
-      "description": "Flamengo anunciou neste domingo que Allan ficar\u00e1 um tempo afastado de campo porque exame apontou dengue. Rio vive epidemia da doen\u00e7a",
-      "url": "https://esporte.ig.com.br/parceiros/jogada10/2024-02-18/volante-allan--do-flamengo--esta-com-dengue.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/55/29/y8/5529y8s3e5kx9t12jdkn5qmtw.jpg",
-      "publishedAt": "2024-02-18 15:15:07",
-      "content": "O Flamengo anunciou neste domingo (18/2) que o volante Allan est\u00e1 com dengue. Assim, ele ser\u00e1 desfalque no jogo contra o Boavista, na ter\u00e7a-feira, pela nona rodada do Campeonato Carioca. O atleta Al\u2026 [+1868 chars]",
-      "retrievedAt": "2024-02-20 07:06:14.245000",
-      "internal_id": "47e408bb9b7d349b59d72fc20730d876c0ec71ddafb4757d794470ad73837726",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5678,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Lance.com.br",
-      "author": "LANCE!",
-      "title": "Allan \u00e9 diagnosticado com dengue e desfalca o Flamengo por tempo indeterminado",
-      "description": "Allan novamente se tornou baixa no Flamengo. O Rubro-Negro informou que o meia apresentou quadro ...",
-      "url": "  https://www.lance.com.br/flamengo/allan-e-diagnosticado-com-dengue-e-desfalca-o-flamengo-por-tempo-indeterminado.html ",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/18/1967747027-allanflamengotreino-scaled-aspect-ratio-512-320.jpg",
-      "publishedAt": "2024-02-18 14:48:30",
-      "content": "Allan novamente se tornou baixa no Flamengo. O Rubro-Negro informou que o meia apresentou quadro de febre e mialgia e, ap\u00f3s exames na sexta-feira (16), o atleta teve o diagn\u00f3stico de dengue confirmad\u2026 [+792 chars]",
-      "retrievedAt": "2024-02-20 07:06:14.234759",
-      "internal_id": "b2e374ea367055cb3ed1d9d9970f67b04ab123bdf6465984e475e6fae2f2bba8",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5653,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Stephen J. Thomas, M.D., Contributor, \n Stephen J. Thomas, M.D., Contributor\n https://www.forbes.com/sites/stephenthomas/",
-      "title": "Dengue Rages Around The Globe. Where Are The Vaccines?",
-      "description": "Dengue is spreading even in temperate climates like the U.S. and Europe. Learn about the threat and the difficult journey to make a safe and effective vaccine.",
-      "url": "https://www.forbes.com/sites/stephenthomas/2024/02/18/dengue-rages-around-the-globe-where-are-the-vaccines/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65d152a1229b517018a14413/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-02-18 14:35:19",
-      "content": "Female Aedes aegypti mosquito, a carrier of the dengue viruses, feeding on the human skin, 2005. ... [+] Image courtesy Centers for Disease Control (CDC) / James Gathany. (Photo by Smith Collection/G\u2026 [+8308 chars]",
-      "retrievedAt": "2024-02-19 19:05:34.146327",
-      "internal_id": "199c0bf3df0e769ed5a36f2abc6c17ae37cbb6bae265b3832e56147f07306710",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5658,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Jonatas Martins",
-      "title": "Dengue: Hospital de Campanha do DF j\u00e1 realizou 16 mil procedimentos",
-      "description": "Hospital de Campanha, montado pela FAB para o combate \u00e0 dengue no Distrito Federal, tem 60 leitos para atender pacientes 24 horas por dia",
-      "url": "https://www.metropoles.com/distrito-federal/dengue-hospital-de-campanha-do-df-ja-realizou-16-mil-procedimentos",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06184139/Hospital-de-campanha-da-Forc%CC%A7a-Ae%CC%81rea-Brasileira-FAB-na-Ceila%CC%82ndia-tem-movimento-intenso-de-pacientes-buscando-atendimento-contra-a-dengue-Metro%CC%81poles-11.jpg",
-      "publishedAt": "2024-02-18 13:37:02",
-      "content": "O Hospital de Campanha (HCamp) do Distrito Federal, montado pela For\u00e7a A\u00e9rea Brasileira (FAB) para o combate \u00e0 dengue na regi\u00e3o, j\u00e1 realizou mais de 16 mil procedimentos desde que foi inaugurado. O b\u2026 [+5877 chars]",
-      "retrievedAt": "2024-02-19 19:05:34.268261",
-      "internal_id": "52792ae496fed0130160cf41ee19124b7c7285001f75d1af4baa6a8d81f4f832",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5660,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Renan Porto",
-      "title": "S\u00e3o Paulo tem 60 mil casos de dengue confirmados em 2024",
-      "description": "Estado de S\u00e3o Paulo registrou 15 mortes confirmadas em decorr\u00eancia da dengue. H\u00e1, tamb\u00e9m, 21 em investiga\u00e7\u00e3o, segundo Secretaria da Sa\u00fade",
-      "url": "https://www.metropoles.com/sao-paulo/sao-paulo-tem-60-mil-casos-de-dengue-confirmados-em-2024",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/12/15114121/Dengue_Aedes_Aegypti_Casos.jpg",
-      "publishedAt": "2024-02-18 12:10:59",
-      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo soma 60.337 casos confirmados de dengue em 2024, de acordo com o painel de monitoramento da doen\u00e7a da Secretaria da Sa\u00fade. Na fila de confirma\u00e7\u00e3o, h\u00e1 pelo menos 45.393\u2026 [+2891 chars]",
-      "retrievedAt": "2024-02-19 19:05:34.311890",
-      "internal_id": "12f5bdd3de547d735adb1b24fff041fdc693a50b8f0bcdad7cd237838cf15c19",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5662,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "El Poniente almeriense impulsa una campa\u00f1a de vacunaci\u00f3n contra el papiloma humano y la meningitis en preadolescentes",
-      "description": "El Distrito Sanitario Poniente de Almer\u00eda, dependiente del Servicio Andaluz de Salud (SAS), ha iniciado una campa\u00f1a de vacunaci\u00f3n para proteger del virus del papiloma humano y frente a la meningitis a los preadolescentes nacidos en el a\u00f1o 2012.",
-      "url": "https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240218130705_1200.jpg",
-      "publishedAt": "2024-02-18 12:07:05",
-      "content": "ALMER\u00cdA, 18 Feb. (EUROPA PRESS) - El Distrito Sanitario Poniente de Almer\u00eda, dependiente del Servicio Andaluz de Salud (SAS), ha iniciado una campa\u00f1a de vacunaci\u00f3n para proteger del virus del papi\u2026 [+2964 chars]",
-      "retrievedAt": "2024-02-19 19:05:34.600904",
-      "internal_id": "663f6fc13fc4ed3d6b66ee2612739a7f20c7dedff889873ec508220249c207fa",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5651,
-      "query": [
-        "measles"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Liz Szabo",
-      "title": "Measles infections pose far more risks than most realize, including a fatal neurological complication",
-      "description": "Measles is so contagious that even one case is considered an outbreak. The resurgence around the world raises the risk of more serious complications and deaths.",
-      "url": "https://www.nbcnews.com/health/kids-health/measles-infection-symptoms-longterm-risks-rcna138583",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240215-Emmalee-Madeline-Snehal-Parker-ew-515p-019fd1.jpg",
-      "publishedAt": "2024-02-18 12:00:00",
-      "content": "Erica Finkelstein-Parker planned her daughters 8th birthday party with love. Because Emmalee adored airplanes, Finkelstein-Parker chose the theme Flying High with Emmalee. Finkelstein-Parker filled \u2026 [+8682 chars]",
-      "retrievedAt": "2024-02-19 19:05:32.976795",
-      "internal_id": "1011dced29eccd394fb64b3cae1fdd7832db309ca2f767da86247d6c70bc479f",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5657,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Idosos e crian\u00e7as fazem parte do grupos de risco para dengue grave",
-      "description": "THAIS PORSCH CURITIBA, PR (FOLHAPRESS) Dados do Minist\u00e9rio da Sa\u00fade divulgados na quinta-feira (15) mostram que o Brasil passou a...",
-      "url": "https://jornaldebrasilia.com.br/noticias/brasil/idosos-e-criancas-fazem-parte-do-grupos-de-risco-para-dengue-grave/",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/18115709/IMG_0121.jpeg",
-      "publishedAt": "2024-02-18 11:57:35",
-      "content": "THAIS PORSCHCURITIBA, PR (FOLHAPRESS) Dados do Minist\u00e9rio da Sa\u00fade divulgados na quinta-feira (15) mostram que o Brasil passou a marca de meio milh\u00e3o de casos de dengue, com 532.921 pessoas possivel\u2026 [+4242 chars]",
-      "retrievedAt": "2024-02-19 19:05:34.263281",
-      "internal_id": "c03b03841fd6fbb53ea2266c684608a035bd132a167a3c5d99fdd501f19a2f58",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5656,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Conjur.com.br",
-      "author": "Guillermo Glassman",
-      "title": "Epidemia de dengue no Brasil: li\u00e7\u00f5es para as parcerias tecnol\u00f3gicas do SUS",
-      "description": "A dengue foi listada entre as dez maiores amea\u00e7as \u00e0 sa\u00fade global pela World Health Organization [1]. Neste momento, o Brasil j\u00e1 registra mais de 500 mil casos de dengue em 2024, quase quatro vezes mais do que os registrados no mesmo per\u00edodo de 2023, com 75 mo\u2026",
-      "url": "https://www.conjur.com.br/2024-fev-18/epidemia-de-dengue-no-brasil-licoes-para-as-parcerias-tecnologicas-do-sus/",
-      "urlToImage": "https://www.conjur.com.br/wp-content/uploads/2021/07/publico-pragmatico-horizontal-30.jpeg",
-      "publishedAt": "2024-02-18 11:00:41",
-      "content": "A dengue foi listada entre as dez maiores amea\u00e7as \u00e0 sa\u00fade global pela World Health Organization [1]. Neste momento, o Brasil j\u00e1 registra mais de 500 mil casos de dengue em 2024, quase quatro vezes m\u2026 [+18776 chars]",
-      "retrievedAt": "2024-02-19 19:05:34.181553",
-      "internal_id": "8bcd42f5cb2eb597b1ba8c5e2b23b9fe8e244953d13ebfcfca862ad7010c4fb1",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5654,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "EDWARD RAJENDRA",
-      "title": "About one-third of dengue cases in Klang involve youths",
-      "description": "KLANG: About one-third of the number of dengue cases here involve youths, says the Royal Klang City Council (MBDK). Read full story",
-      "url": "https://www.thestar.com.my/metro/metro-news/2024/02/18/about-one-third-of-dengue-cases-in-klang-involve-youths",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/02/18/2549789.jpg",
-      "publishedAt": "2024-02-18 09:41:00",
-      "content": "KLANG: About one-third of the number of dengue cases here involve youths, says the Royal Klang City Council (MBDK). MBDK health department director Azmi Muji said from January to Feb 11 this year, t\u2026 [+3031 chars]",
-      "retrievedAt": "2024-02-19 19:05:34.164198",
-      "internal_id": "c6983738a4599a3af92c8dba28a4d580879fd5f4c913846ee4a72e68a92962a1",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5669,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Este a\u00f1o suman 4 mil 593 casos de dengue; 2 mil 382 son graves",
-      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 4 mil 593 casos de dengue, de los cuales 2 mil 382 son casos clasificados con signos de alarma y dengue grave, es decir, 48 por ciento de \u2026",
-      "url": "https://www.jornada.com.mx/2024/02/18/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-02-18 08:58:24",
-      "content": "Peri\u00f3dico La JornadaDomingo 18 de febrero de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 4 mil 593 casos de d\u2026 [+2433 chars]",
-      "retrievedAt": "2024-02-20 07:06:14.146512",
-      "internal_id": "4e213462df99673f4892bde6abb1dcae6d6b2aaf2e38dbadc7e68f8edbfcd6b2",
-      "publishedAtLabel": "Feb 18"
-    },
-    {
-      "id": 5665,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Hi-news.ru",
-      "author": "\u041b\u044e\u0431\u043e\u0432\u044c \u0421\u043e\u043a\u043e\u0432\u0438\u043a\u043e\u0432\u0430",
-      "title": "\u0412 \u0421\u0428\u0410 \u043c\u0443\u0436\u0447\u0438\u043d\u0430 \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0441\u044f \u0431\u0443\u0431\u043e\u043d\u043d\u043e\u0439 \u0447\u0443\u043c\u043e\u0439 \u043e\u0442 \u043a\u043e\u0448\u043a\u0438. \u0427\u0442\u043e \u043d\u0443\u0436\u043d\u043e \u0437\u043d\u0430\u0442\u044c?",
-      "description": "\u0425\u043e\u0442\u044f \u0447\u0443\u043c\u0430 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f \u0431\u043e\u043b\u0435\u0437\u043d\u044c\u044e \u0434\u0430\u043b\u0435\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0448\u043b\u043e\u0433\u043e, \u043e\u043d\u0430 \u043f\u043e-\u043f\u0440\u0435\u0436\u043d\u0435\u043c\u0443 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442, \u0430 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u0427\u0435\u0440\u043d\u043e\u0439 \u0441\u043c\u0435\u0440\u0442\u0438 \u0432\u0440\u0435\u043c\u044f \u043e\u0442 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0442 \u0432 \u0440\u0430\u0437\u043d\u044b\u0445 \u0443\u0433\u043e\u043b\u043a\u0430\u0445 \u043c\u0438\u0440\u0430. \u041d\u0435\u0434\u0430\u0432\u043d\u043e \u0432\u043b\u0430\u0441\u0442\u0438 \u0421\u0428\u0410 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043e \u0440\u0435\u0434\u043a\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043c\u043e\u043b\u043e\u0434\u043e\u0433\u043e \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0431\u0443\u0431\u043e\u043d\u043d\u043e\u0439 \u0447\u0443\u043c\u043e\u0439 \u043e\u0442 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0439 \u043a\u043e\u0448\u043a\u0438",
-      "url": "https://hi-news.ru/eto-interesno/v-ssha-muzhchina-zarazilsya-bubonnoj-chumoj-ot-koshki-chto-nuzhno-znat.html",
-      "urlToImage": "https://hi-news.ru/wp-content/uploads/2024/02/bubo_nic-1000x526.jpeg",
-      "publishedAt": "2024-02-18 08:00:01",
-      "content": "COVID-19, - ( ) . , \u00ab \u00bb. , , , , - . , , , , , \u00ab\u00bb, . . Y. pestis , , , - . , . Yersinia pestis, , . , , - (). , . , , , . , , , , , 25 , . \u00ab \u00bb 1625 . - , . , , - , . . : \u00ab \u00bb: ? , (1346-135\u2026 [+330 chars]",
-      "retrievedAt": "2024-02-19 19:05:38.329141",
-      "internal_id": "456e721aef340cd5f2ac4ea57c4ebc6af74ecd63613a98542932acae739f5991",
       "publishedAtLabel": "Feb 18"
     }
   ]

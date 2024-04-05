@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 25
-- **Last harvest:** 2024-04-05 07:05
-- **Most recent article:** 2024-04-04 05:54:07
+- **Last harvest:** 2024-04-05 19:06
+- **Most recent article:** 2024-04-04 18:45:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 186 | 98 | 186 | 207 | 1230 |
-| measles | 86 | 112 | 87 | 44 | 15 | 97 | 80 | 521 |
-| malaria | 15 | 23 | 18 | 7 | 9 | 32 | 17 | 121 |
-| zika | 16 | 16 | 12 | 21 | 6 | 13 | 11 | 95 |
-| chikungunya | 8 | 20 | 15 | 9 | 6 | 13 | 16 | 87 |
-| meningitis | 16 | 5 | 8 | 16 | 1 | 7 | 4 | 57 |
+| dengue | 192 | 181 | 180 | 186 | 104 | 173 | 207 | 1223 |
+| measles | 86 | 112 | 87 | 44 | 20 | 95 | 80 | 524 |
+| malaria | 15 | 23 | 18 | 7 | 11 | 31 | 17 | 122 |
+| zika | 16 | 16 | 12 | 21 | 7 | 13 | 11 | 96 |
+| chikungunya | 8 | 20 | 15 | 9 | 9 | 13 | 16 | 90 |
+| meningitis | 16 | 5 | 8 | 16 | 2 | 6 | 4 | 57 |
+| rabies | 6 | 6 | 9 | 3 | 10 | 4 | 8 | 46 |
 | mpox | 5 | 8 | 4 | 6 | 11 | 6 | 1 | 41 |
 | sarampión | 3 | 3 | 12 | 3 | 4 | 11 | 5 | 41 |
-| rabies | 6 | 6 | 9 | 3 | 3 | 4 | 8 | 39 |
-| pertussis | 4 | 5 | 3 | 6 | 5 | 0 | 4 | 27 |
-| yersinia | 1 | 3 | 3 | 1 | 2 | 1 | 1 | 12 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 2 | 1 | 5 |
+| pertussis | 4 | 5 | 3 | 6 | 7 | 0 | 4 | 29 |
+| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 1 | 12 |
 | leptospirosis | 0 | 1 | 0 | 0 | 1 | 0 | 2 | 4 |
+| typhoid | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 4 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
 
 
@@ -804,15 +804,9 @@ Source: [News API](https://newsapi.org/)
 
 - [Belo Horizonte tem Upa lotada neste domingo e pacientes ficam até 9 horas por atendimento](https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024) (R7.com)
 
-## 24-8 (yersinia)
-
-- [В США мужчина заразился бубонной чумой от кошки. Что нужно знать?](https://hi-news.ru/eto-interesno/v-ssha-muzhchina-zarazilsya-bubonnoj-chumoj-ot-koshki-chto-nuzhno-znat.html) (Hi-news.ru)
-
 ## 24-8 (typhoid)
 
 - [That’s not just a tummy ache, it may actually be typhoid](https://www.thestar.com.my/news/nation/2024/02/25/thats-not-just-a-tummy-ache-it-may-actually-be-typhoid) (The Star Online)
-
-- [Alice Eve’s 8 Best Acting Roles (Including Star Trek's Carol Marcus)](https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/) (Screen Rant)
 
 ## 24-8 (sarampión)
 
@@ -875,8 +869,6 @@ Source: [News API](https://newsapi.org/)
 - [Molecular Epidemiology of Underreported Emerging Zoonotic Pathogen Streptococcus suis in Europe](https://wwwnc.cdc.gov/eid/article/30/3/23-0348_article) (Cdc.gov)
 
 - [Computerised modified paramedian approach technique versus conventional midline approach technique of lumbar puncture: a randomised control trial protocol](https://bmjopen.bmj.com/content/14/2/e077941?rss=1) (The BMJ)
-
-- [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
 
@@ -1070,10 +1062,6 @@ Source: [News API](https://newsapi.org/)
 
 - [2 Children Die Of Suspected Measles, 17 Infected In Madhya Pradesh's Maihar](https://www.ndtv.com/india-news/2-children-die-of-suspected-measles-17-infected-in-madhya-pradesh-maihar-schools-shut-in-district-5086496) (NDTV News)
 
-- [Florida Department of Health investigates Broward County's multiple measles cases](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/) (CBS News)
-
-- [Measles infections pose far more risks than most realize, including a fatal neurological complication](https://www.nbcnews.com/health/kids-health/measles-infection-symptoms-longterm-risks-rcna138583) (NBC News)
-
 ## 24-8 (malaria)
 
 - [Quizzes, interactive puzzles, demonstrations and a history of malaria vaccine: Exciting ‘National Science Day’ line up at IISER Pune](https://indianexpress.com/article/cities/pune/iiser-pune-national-science-day-9178259/) (The Indian Express)
@@ -1137,8 +1125,6 @@ Source: [News API](https://newsapi.org/)
 - [Dos especies de parásitos causantes de malaria presentes en Costa Rica](https://www.nacion.com/ciencia/salud/dos-especies-de-parasitos-causantes-de-malaria/E37XK6PERBAOTFMCNX32BI7JA4/story/) (Nacion.com)
 
 - [Medizin: "Manche Viren machen es einem eben leicht"](https://www.sueddeutsche.de/gesundheit/impfstoffe-entwicklung-malaria-corona-aids-1.6376009) (Süddeutsche Zeitung)
-
-- [Odisha's first vaccine manufacturing plant to start production by May](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/odishas-first-vaccine-manufacturing-plant-to-start-production-by-may/articleshow/107800124.cms) (The Times of India)
 
 ## 24-8 (dengue)
 
@@ -1488,32 +1474,6 @@ Source: [News API](https://newsapi.org/)
 
 - [2 tipos de repelente contra o mosquito da dengue, segundo a Anvisa](https://catracalivre.com.br/saude-bem-estar/2-tipos-de-repelente-contra-o-mosquito-da-dengue-segundo-a-anvisa/) (Catracalivre.com.br)
 
-- [Dengue no RJ: número de casos é 6 vezes maior do que o esperado](https://www.metropoles.com/brasil/dengue-no-rj-numero-de-casos-e-6-vezes-maior-do-que-o-esperado) (Metropoles.com)
-
-- [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://esporte.ig.com.br/parceiros/esporte-news-mundo/2024-02-18/allan--do-flamengo--e-diagnosticado-com-dengue-e-desfalca-a-equipe.html) (Ig.com.br)
-
-- [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://www.terra.com.br/esportes/flamengo/allan-do-flamengo-e-diagnosticado-com-dengue-e-desfalca-a-equipe,7644e233e4586eddc0cd56bcc78ade88iau4mpd9.html) (Terra.com.br)
-
-- [Volante Allan, do Flamengo, está com dengue](https://www.terra.com.br/esportes/flamengo/volante-allan-do-flamengo-esta-com-dengue,94c93d8757d43dc9e9eac4ad384889c0bc7fslg7.html) (Terra.com.br)
-
-- [Volante Allan, do Flamengo, está com dengue](https://esporte.ig.com.br/parceiros/jogada10/2024-02-18/volante-allan--do-flamengo--esta-com-dengue.html) (Ig.com.br)
-
-- [Allan é diagnosticado com dengue e desfalca o Flamengo por tempo indeterminado](  https://www.lance.com.br/flamengo/allan-e-diagnosticado-com-dengue-e-desfalca-o-flamengo-por-tempo-indeterminado.html ) (Lance.com.br)
-
-- [Dengue Rages Around The Globe. Where Are The Vaccines?](https://www.forbes.com/sites/stephenthomas/2024/02/18/dengue-rages-around-the-globe-where-are-the-vaccines/) (Forbes)
-
-- [Dengue: Hospital de Campanha do DF já realizou 16 mil procedimentos](https://www.metropoles.com/distrito-federal/dengue-hospital-de-campanha-do-df-ja-realizou-16-mil-procedimentos) (Metropoles.com)
-
-- [São Paulo tem 60 mil casos de dengue confirmados em 2024](https://www.metropoles.com/sao-paulo/sao-paulo-tem-60-mil-casos-de-dengue-confirmados-em-2024) (Metropoles.com)
-
-- [Idosos e crianças fazem parte do grupos de risco para dengue grave](https://jornaldebrasilia.com.br/noticias/brasil/idosos-e-criancas-fazem-parte-do-grupos-de-risco-para-dengue-grave/) (Jornaldebrasilia.com.br)
-
-- [Epidemia de dengue no Brasil: lições para as parcerias tecnológicas do SUS](https://www.conjur.com.br/2024-fev-18/epidemia-de-dengue-no-brasil-licoes-para-as-parcerias-tecnologicas-do-sus/) (Conjur.com.br)
-
-- [About one-third of dengue cases in Klang involve youths](https://www.thestar.com.my/metro/metro-news/2024/02/18/about-one-third-of-dengue-cases-in-klang-involve-youths) (The Star Online)
-
-- [Este año suman 4 mil 593 casos de dengue; 2 mil 382 son graves](https://www.jornada.com.mx/2024/02/18/sociedad/027n1soc) (Jornada.com.mx)
-
 ## 24-8 (chikungunya)
 
 - [La mayor fábrica de mosquitos anti-dengue del mundo está en América Latina: cómo trabaja y los planes para la Argentina](https://www.lanacion.com.ar/el-mundo/la-mayor-fabrica-de-mosquitos-anti-dengue-del-mundo-esta-en-america-latina-como-trabaja-y-los-planes-nid24022024/) (La Nacion)
@@ -1544,6 +1504,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-14 (zika)
 
+- [Grifols recibe la autorización de Europa para su prueba de detección de arbovirus](https://www.eleconomista.es/salud/noticias/12752187/04/24/grifols-recibe-la-autorizacion-de-europa-para-su-prueba-de-deteccion-de-arbovirus.html) (Eleconomista.es)
+
 - [World Vaccine Congress Washington: Antibody persistence of a single-dose live-attenuated chikungunya virus vaccine in adults](https://www.marketscreener.com/quote/stock/VALNEVA-54466/news/World-Vaccine-Congress-Washington-Antibody-persistence-of-a-single-dose-live-attenuated-chikungunya-46354893/) (Marketscreener.com)
 
 - [Brasil supera marca de mil mortes por dengue em 2024](https://veja.abril.com.br/saude/brasil-supera-marca-de-mil-mortes-por-dengue-em-2024) (Abril.com.br)
@@ -1557,6 +1519,8 @@ Source: [News API](https://newsapi.org/)
 - [Investigating the dose-dependency of the midgut escape barrier using a mechanistic model of within-mosquito dengue virus population dynamics](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011975) (Plos.org)
 
 ## 24-14 (yersinia)
+
+- [How Rats Took Over North America](https://www.scientificamerican.com/article/how-rats-took-over-north-america/) (Scientific American)
 
 - [У людей каменного века обнаружили опасные инфекции](https://health.mail.ru/news/3295523-u-lyudej-kamennogo-veka-obnaruzhili-opasnye-infekc/) (Mail.ru)
 
@@ -1574,6 +1538,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-14 (rabies)
 
+- [Why Joe Rogan Just Slammed 'The View' — And Didn't Hold Back](https://www.newsweek.com/why-joe-rogan-slammed-view-1887040) (Newsweek)
+
+- [‘Rabies-Infested Hen House’: Joe Rogan Lights Into ‘The View’](https://dailycaller.com/2024/04/04/joe-rogan-the-view/) (The Daily Caller)
+
+- [Joe Rogan Calls ‘The View’ A “Rabies-Infested Henhouse” After Coleman Hughes Says He Didn’t Expect Sunny Hostin To “Ambush” Him](https://decider.com/2024/04/04/joe-rogan-the-view-rabies-infested-henhouse-coleman-hughes-sunny-hostin-ambush/) (Decider)
+
+- [Joe Rogan Slams ‘The View’ as ‘Rabies-Infested Hen House’: ‘It Is the Show That People Love to Hate’](https://variety.com/2024/tv/news/joe-rogan-slams-the-view-1235960350/) (Variety)
+
+- [‘Rabies-infested Henhouse’: Joe Rogan Slams ‘The View’ Co-hosts After Sunny Hostin ‘Ambushed’ Guest Author](https://radaronline.com/p/joe-rogan-slams-the-view-sunny-hostin-co-hosts-guest-author-interview-coleman-hughes/) (Radaronline.com)
+
+- [Joe Rogan Slams 'The View,' Calls It a 'Rabies-Infested Hen House'](https://www.tmz.com/2024/04/04/joe-rogan-the-view-author-coleman-hughes-rabies-infested-henhouse/) (TMZ)
+
+- [Joe Rogan Trashes ‘Rabies-Infested Hen House’ The View Talking with Author Fresh Off Tense Interview](https://www.mediaite.com/politics/joe-rogan-trashes-rabies-infested-hen-house-the-view-talking-with-author-fresh-off-tense-interview/) (Mediaite)
+
 - [Joe Rogan roasts 'The View' as 'rabies-infested henhouse' after author Coleman Hughes' feud with co-host](https://www.foxnews.com/media/joe-rogan-roasts-the-view-rabies-infested-henhouse-author-coleman-hughes-feud-co-host) (Fox News)
 
 - [She was encouraged to take a rabies shot after an encounter with a bat. Now a Virginia woman faces a $30K bill.](https://dailyprogress.com/news/local/she-was-encouraged-to-take-a-rabies-shot-after-an-encounter-with-a-bat-now/article_8a57e61a-ede4-11ee-890a-cf85320d55bc.html) (The Daily Progress)
@@ -1581,6 +1559,10 @@ Source: [News API](https://newsapi.org/)
 - [Essential med prices set to see marginal rise after govt nod](https://timesofindia.indiatimes.com/india/essential-med-prices-set-to-see-marginal-rise-after-govt-nod/articleshow/108958244.cms) (The Times of India)
 
 ## 24-14 (pertussis)
+
+- [Černý kašel má na svědomí první dětské úmrtí. Na Pardubicku na něj zemřel novorozenec](https://zpravy.aktualne.cz/domaci/novorozenec-v-pardubickem-kraji-zemrel-na-cerny-kasel-uvedl/r~859993d8f28211eea065ac1f6b220ee8/) (Aktualne.cz)
+
+- [Iriga: Albay Health Office, sinegurong wala pang kaso sa lalawigan ng “woofing cough” ngunit nagpaalala sa kahalagahan ng pagpapabakuna](https://rpnradio.com/iriga-albay-health-office-sinegurong-wala-pang-kaso-sa-lalawigan-ng-woofing-cough-ngunit-nagpaalala-sa-kahalagahan-ng-pagpapabakuna/) (Rpnradio.com)
 
 - [Які щеплення варто зробити найближчому оточенню немовляти – пояснює МОЗ](https://life.pravda.com.ua/health/yaki-shcheplennya-slid-zrobiti-shchob-zahistiti-nemovlya-vidpovid-moz-300841/) (Pravda.com.ua)
 
@@ -1618,9 +1600,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-14 (meningitis)
 
+- [Sanidade inmunizará a menores contra la sepsis, la neumonía y la meningitis](https://www.lavozdegalicia.es/noticia/galicia/2024/04/04/sanidadeinmunizara-menores-contra-sepsis-neumonia-meningitis/00031712256008455791471.htm) (Lavozdegalicia.es)
+
 - [CDC warns of nationwide surge in bacterial infection leading to meningitis](https://www.fox2detroit.com/news/cdc-warns-of-nationwide-surge-in-bacterial-infections-leading-to-meningitis) (FOX 2 Detroit)
 
 ## 24-14 (measles)
+
+- [Attack and defense in the microverse: How small RNA molecules regulate viral infections of bacteria](https://phys.org/news/2024-04-defense-microverse-small-rna-molecules.html) (Phys.Org)
+
+- [Chicago alderman says tuberculosis, measles 'crisis' in migrant shelters may push away Black and Latino voters](https://www.foxnews.com/media/chicago-alderman-tuberculosis-measles-crisis-migrant-shelters-push-away-black-latino-voters) (Fox News)
+
+- [Durham Region Public Health confirms measles case](https://www.cbc.ca/news/canada/toronto/durham-region-toronto-pearson-airport-measles-1.7163347) (CBC News)
+
+- [Tuberculosis breaks out at Chicago migrant shelters following measles cases](https://www.foxnews.com/health/tuberculosis-breaks-chicago-migrant-shelters-measles-cases) (Fox News)
+
+- [Chicago Measles Cases Rise as Illegal Aliens Show Up With Tuberculosis](https://legalinsurrection.com/2024/04/chicago-measles-cases-rise-as-illegal-aliens-show-up-with-tuberculosis/) (Legalinsurrection.com)
 
 - [Measles alert for multiple locations in Adelaide after teenager tests positive](https://www.abc.net.au/news/2024-04-04/another-measles-case-in-sa/103668426) (ABC News (AU))
 
@@ -1654,6 +1648,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-14 (malaria)
 
+- [Awakening to the Perils of Malaria: A Call to Action for Nigeria](https://punchng.com/awakening-to-the-perils-of-malaria-a-call-to-action-for-nigeria/) (The Punch)
+
+- [Las instituciones siguen prevaricando: Exposición Malaria](https://www.nuevatribuna.es/articulo/sociedad/memoria-instituciones-siguen-prevaricando-exposicion-malaria/20240404093248225564.html) (Nuevatribuna.es)
+
 - [Automated bioacoustics: Researchers are listening in on insects to better gauge environmental health](https://phys.org/news/2024-04-automated-bioacoustics-insects-gauge-environmental.html) (Phys.Org)
 
 - [New discovery unravels malaria invasion mechanism](https://www.sciencedaily.com/releases/2024/04/240403130556.htm) (Science Daily)
@@ -1677,6 +1675,18 @@ Source: [News API](https://newsapi.org/)
 - [Domestic dogs in indigenous Amazonian communities: Key players in Leptospira cycling and transmission?](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011671) (Plos.org)
 
 ## 24-14 (dengue)
+
+- [Dengue ; Argentina, el país atraviesa el peor brote de la enfermedad de su historia con una grave escasez de repelentes](https://www.meneame.net/m/actualidad/dengue-argentina-pais-atraviesa-peor-brote-enfermedad-historia) (Meneame.net)
+
+- [São Paulo passa de 200 mortes por dengue, com vítimas em 70 cidades](https://www.metropoles.com/sao-paulo/sao-paulo-passa-200-mortes-dengue-70-cidades) (Metropoles.com)
+
+- [Saiba quais cidades de São Paulo receberão vacinas para dengue](https://www.metropoles.com/sao-paulo/saiba-quais-cidades-de-sao-paulo-receberao-vacinas-para-dengue) (Metropoles.com)
+
+- [Molecular identification and phylogenetic analysis of chikungunya virus among dengue-negative patients in Kolkata, India](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301644) (Plos.org)
+
+- ["Siento que contagiarme o no es sólo cuestión de suerte": Argentina atraviesa el peor brote de dengue de su historia con una grave escasez de repelentes](https://www.bbc.com/mundo/articles/clm73n10dz7o) (BBC News)
+
+- [Grifols recibe la autorización de Europa para su prueba de detección de arbovirus](https://www.eleconomista.es/salud/noticias/12752187/04/24/grifols-recibe-la-autorizacion-de-europa-para-su-prueba-de-deteccion-de-arbovirus.html) (Eleconomista.es)
 
 - [Prefeitura de SP inicia vacinação contra dengue nesta quinta (4/4)](https://www.metropoles.com/sao-paulo/prefeitura-de-sp-inicia-vacinacao-contra-dengue-nesta-quinta-4-4) (Metropoles.com)
 
@@ -1875,6 +1885,12 @@ Source: [News API](https://newsapi.org/)
 - [“Siento que no nos están cuidando”: Mirtha Legrand volvió a apuntar contra el Gobierno por el avance del Dengue](https://www.lanacion.com.ar/espectaculos/personajes/siento-que-no-nos-estan-cuidando-mirtha-legrand-volvio-a-apuntar-contra-el-gobierno-por-el-avance-nid31032024/) (La Nacion)
 
 ## 24-14 (chikungunya)
+
+- [Molecular identification and phylogenetic analysis of chikungunya virus among dengue-negative patients in Kolkata, India](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301644) (Plos.org)
+
+- [Programmatic considerations and evidence gaps for chikungunya vaccine introduction in countries at risk of chikungunya outbreaks: Stakeholder analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012075) (Plos.org)
+
+- [Grifols recibe la autorización de Europa para su prueba de detección de arbovirus](https://www.eleconomista.es/salud/noticias/12752187/04/24/grifols-recibe-la-autorizacion-de-europa-para-su-prueba-de-deteccion-de-arbovirus.html) (Eleconomista.es)
 
 - [World Vaccine Congress Washington: Antibody persistence of a single-dose live-attenuated chikungunya virus vaccine in adults](https://www.marketscreener.com/quote/stock/VALNEVA-54466/news/World-Vaccine-Congress-Washington-Antibody-persistence-of-a-single-dose-live-attenuated-chikungunya-46354893/) (Marketscreener.com)
 
