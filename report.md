@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-04-06 07:05
-- **Most recent article:** 2024-04-05 05:20:31
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-04-06 19:05
+- **Most recent article:** 2024-04-05 19:02:02
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-8 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 186 | 116 | 186 | 207 | 1248 |
-| measles | 86 | 112 | 87 | 44 | 24 | 97 | 80 | 530 |
-| malaria | 15 | 23 | 18 | 7 | 12 | 32 | 17 | 124 |
-| zika | 16 | 16 | 12 | 21 | 7 | 13 | 11 | 96 |
-| chikungunya | 8 | 20 | 15 | 9 | 10 | 13 | 16 | 91 |
-| meningitis | 16 | 5 | 8 | 16 | 2 | 7 | 4 | 58 |
-| rabies | 6 | 6 | 9 | 3 | 11 | 4 | 8 | 47 |
+| dengue | 192 | 181 | 180 | 186 | 127 | 173 | 207 | 1246 |
+| measles | 86 | 112 | 87 | 44 | 26 | 95 | 80 | 530 |
+| malaria | 15 | 23 | 18 | 7 | 12 | 31 | 17 | 123 |
+| zika | 16 | 16 | 12 | 21 | 9 | 13 | 11 | 98 |
+| chikungunya | 8 | 20 | 15 | 9 | 11 | 13 | 16 | 92 |
+| meningitis | 16 | 5 | 8 | 16 | 3 | 6 | 4 | 58 |
+| rabies | 6 | 6 | 9 | 3 | 14 | 4 | 8 | 50 |
 | mpox | 5 | 8 | 4 | 6 | 11 | 6 | 1 | 41 |
 | sarampión | 3 | 3 | 12 | 3 | 4 | 11 | 5 | 41 |
 | pertussis | 4 | 5 | 3 | 6 | 7 | 0 | 4 | 29 |
-| yersinia | 1 | 3 | 3 | 1 | 3 | 1 | 1 | 13 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 2 | 1 | 5 |
+| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 1 | 12 |
 | leptospirosis | 0 | 1 | 0 | 0 | 1 | 0 | 2 | 4 |
+| typhoid | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 4 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
 
 
@@ -804,15 +804,9 @@ Source: [News API](https://newsapi.org/)
 
 - [Belo Horizonte tem Upa lotada neste domingo e pacientes ficam até 9 horas por atendimento](https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024) (R7.com)
 
-## 24-8 (yersinia)
-
-- [В США мужчина заразился бубонной чумой от кошки. Что нужно знать?](https://hi-news.ru/eto-interesno/v-ssha-muzhchina-zarazilsya-bubonnoj-chumoj-ot-koshki-chto-nuzhno-znat.html) (Hi-news.ru)
-
 ## 24-8 (typhoid)
 
 - [That’s not just a tummy ache, it may actually be typhoid](https://www.thestar.com.my/news/nation/2024/02/25/thats-not-just-a-tummy-ache-it-may-actually-be-typhoid) (The Star Online)
-
-- [Alice Eve’s 8 Best Acting Roles (Including Star Trek's Carol Marcus)](https://screenrant.com/alice-eve-best-roles-carol-marcus-star-trek-into-darkness/) (Screen Rant)
 
 ## 24-8 (sarampión)
 
@@ -875,8 +869,6 @@ Source: [News API](https://newsapi.org/)
 - [Molecular Epidemiology of Underreported Emerging Zoonotic Pathogen Streptococcus suis in Europe](https://wwwnc.cdc.gov/eid/article/30/3/23-0348_article) (Cdc.gov)
 
 - [Computerised modified paramedian approach technique versus conventional midline approach technique of lumbar puncture: a randomised control trial protocol](https://bmjopen.bmj.com/content/14/2/e077941?rss=1) (The BMJ)
-
-- [El Poniente almeriense impulsa una campaña de vacunación contra el papiloma humano y la meningitis en preadolescentes](https://www.europapress.es/esandalucia/almeria/noticia-poniente-almeriense-impulsa-campana-vacunacion-contra-papiloma-humano-meningitis-preadolescentes-20240218130705.html) (Europapress.es)
 
 ## 24-8 (measles)
 
@@ -1070,10 +1062,6 @@ Source: [News API](https://newsapi.org/)
 
 - [2 Children Die Of Suspected Measles, 17 Infected In Madhya Pradesh's Maihar](https://www.ndtv.com/india-news/2-children-die-of-suspected-measles-17-infected-in-madhya-pradesh-maihar-schools-shut-in-district-5086496) (NDTV News)
 
-- [Florida Department of Health investigates Broward County's multiple measles cases](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/) (CBS News)
-
-- [Measles infections pose far more risks than most realize, including a fatal neurological complication](https://www.nbcnews.com/health/kids-health/measles-infection-symptoms-longterm-risks-rcna138583) (NBC News)
-
 ## 24-8 (malaria)
 
 - [Quizzes, interactive puzzles, demonstrations and a history of malaria vaccine: Exciting ‘National Science Day’ line up at IISER Pune](https://indianexpress.com/article/cities/pune/iiser-pune-national-science-day-9178259/) (The Indian Express)
@@ -1137,8 +1125,6 @@ Source: [News API](https://newsapi.org/)
 - [Dos especies de parásitos causantes de malaria presentes en Costa Rica](https://www.nacion.com/ciencia/salud/dos-especies-de-parasitos-causantes-de-malaria/E37XK6PERBAOTFMCNX32BI7JA4/story/) (Nacion.com)
 
 - [Medizin: "Manche Viren machen es einem eben leicht"](https://www.sueddeutsche.de/gesundheit/impfstoffe-entwicklung-malaria-corona-aids-1.6376009) (Süddeutsche Zeitung)
-
-- [Odisha's first vaccine manufacturing plant to start production by May](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/odishas-first-vaccine-manufacturing-plant-to-start-production-by-may/articleshow/107800124.cms) (The Times of India)
 
 ## 24-8 (dengue)
 
@@ -1488,32 +1474,6 @@ Source: [News API](https://newsapi.org/)
 
 - [2 tipos de repelente contra o mosquito da dengue, segundo a Anvisa](https://catracalivre.com.br/saude-bem-estar/2-tipos-de-repelente-contra-o-mosquito-da-dengue-segundo-a-anvisa/) (Catracalivre.com.br)
 
-- [Dengue no RJ: número de casos é 6 vezes maior do que o esperado](https://www.metropoles.com/brasil/dengue-no-rj-numero-de-casos-e-6-vezes-maior-do-que-o-esperado) (Metropoles.com)
-
-- [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://esporte.ig.com.br/parceiros/esporte-news-mundo/2024-02-18/allan--do-flamengo--e-diagnosticado-com-dengue-e-desfalca-a-equipe.html) (Ig.com.br)
-
-- [Allan, do Flamengo, é diagnosticado com dengue e desfalca a equipe](https://www.terra.com.br/esportes/flamengo/allan-do-flamengo-e-diagnosticado-com-dengue-e-desfalca-a-equipe,7644e233e4586eddc0cd56bcc78ade88iau4mpd9.html) (Terra.com.br)
-
-- [Volante Allan, do Flamengo, está com dengue](https://www.terra.com.br/esportes/flamengo/volante-allan-do-flamengo-esta-com-dengue,94c93d8757d43dc9e9eac4ad384889c0bc7fslg7.html) (Terra.com.br)
-
-- [Volante Allan, do Flamengo, está com dengue](https://esporte.ig.com.br/parceiros/jogada10/2024-02-18/volante-allan--do-flamengo--esta-com-dengue.html) (Ig.com.br)
-
-- [Allan é diagnosticado com dengue e desfalca o Flamengo por tempo indeterminado](  https://www.lance.com.br/flamengo/allan-e-diagnosticado-com-dengue-e-desfalca-o-flamengo-por-tempo-indeterminado.html ) (Lance.com.br)
-
-- [Dengue Rages Around The Globe. Where Are The Vaccines?](https://www.forbes.com/sites/stephenthomas/2024/02/18/dengue-rages-around-the-globe-where-are-the-vaccines/) (Forbes)
-
-- [Dengue: Hospital de Campanha do DF já realizou 16 mil procedimentos](https://www.metropoles.com/distrito-federal/dengue-hospital-de-campanha-do-df-ja-realizou-16-mil-procedimentos) (Metropoles.com)
-
-- [São Paulo tem 60 mil casos de dengue confirmados em 2024](https://www.metropoles.com/sao-paulo/sao-paulo-tem-60-mil-casos-de-dengue-confirmados-em-2024) (Metropoles.com)
-
-- [Idosos e crianças fazem parte do grupos de risco para dengue grave](https://jornaldebrasilia.com.br/noticias/brasil/idosos-e-criancas-fazem-parte-do-grupos-de-risco-para-dengue-grave/) (Jornaldebrasilia.com.br)
-
-- [Epidemia de dengue no Brasil: lições para as parcerias tecnológicas do SUS](https://www.conjur.com.br/2024-fev-18/epidemia-de-dengue-no-brasil-licoes-para-as-parcerias-tecnologicas-do-sus/) (Conjur.com.br)
-
-- [About one-third of dengue cases in Klang involve youths](https://www.thestar.com.my/metro/metro-news/2024/02/18/about-one-third-of-dengue-cases-in-klang-involve-youths) (The Star Online)
-
-- [Este año suman 4 mil 593 casos de dengue; 2 mil 382 son graves](https://www.jornada.com.mx/2024/02/18/sociedad/027n1soc) (Jornada.com.mx)
-
 ## 24-8 (chikungunya)
 
 - [La mayor fábrica de mosquitos anti-dengue del mundo está en América Latina: cómo trabaja y los planes para la Argentina](https://www.lanacion.com.ar/el-mundo/la-mayor-fabrica-de-mosquitos-anti-dengue-del-mundo-esta-en-america-latina-como-trabaja-y-los-planes-nid24022024/) (La Nacion)
@@ -1543,6 +1503,10 @@ Source: [News API](https://newsapi.org/)
 - [Belo Horizonte tem Upa lotada neste domingo e pacientes ficam até 9 horas por atendimento](https://noticias.r7.com/minas-gerais/belo-horizonte-tem-upa-lotada-neste-domingo-e-pacientes-ficam-ate-9-horas-por-atendimento-18022024) (R7.com)
 
 ## 24-14 (zika)
+
+- [Vacuna contra el zika desarrollada en Brasil se muestra eficaz en pruebas con ratones](https://www.montevideo.com.uy/Salud/Vacuna-contra-el-zika-desarrollada-en-Brasil-se-muestra-eficaz-en-pruebas-con-ratones-uc884645) (Montevideo.com.uy)
+
+- [Vacina brasileira contra o zika apresenta resultados promissores](https://www.metropoles.com/saude/vacina-brasileira-contra-o-zika) (Metropoles.com)
 
 - [Grifols recibe la autorización de Europa para su prueba de detección de arbovirus](https://www.eleconomista.es/salud/noticias/12752187/04/24/grifols-recibe-la-autorizacion-de-europa-para-su-prueba-de-deteccion-de-arbovirus.html) (Eleconomista.es)
 
@@ -1577,6 +1541,12 @@ Source: [News API](https://newsapi.org/)
 - [SSA inicia campaña para aumentar la cobertura de vacunación contra la polio, sarampión y rubéola](https://www.record.com.mx/contra/ssa-inicia-campana-para-aumentar-la-cobertura-de-vacunacion-contra-la-polio-sarampion-y) (Record.com.mx)
 
 ## 24-14 (rabies)
+
+- [Sanofi: rabies vaccine launched in the UK](https://www.marketscreener.com/quote/stock/SANOFI-4698/news/Sanofi-rabies-vaccine-launched-in-the-UK-46372865/) (Marketscreener.com)
+
+- [Joe Rogan calls ‘The View’ a ‘rabies-infested hen house’. Here’s why](https://www.pennlive.com/news/2024/04/joe-rogan-calls-the-view-a-rabies-infested-hen-house-heres-why.html) (PennLive)
+
+- [Sanofi Announces Launch of Verorab ® (Sanofi Inactivated Rabies Vaccine) in the UK for Pre-exposure and Post-exposure Prophylaxis of Rabies in All Age Groups](https://www.investing.com/news/press-releases/sanofi-announces-launch-of-verorab--sanofi-inactivated-rabies-vaccine-in-the-uk-for-preexposure-and-postexposure-prophylaxis-of-rabies-in-all-age-groups-93CH-3367063) (Investing.com)
 
 - [Sanofi Announces Launch of Verorab® (Sanofi Inactivated Rabies Vaccine) in the UK for Pre-exposure and Post-exposure Prophylaxis of Rabies in All Age Groups](https://www.investorsobserver.com/news/qm-pr/4561419541031236) (InvestorsObserver)
 
@@ -1642,11 +1612,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-14 (meningitis)
 
+- [Un niño de once años muere por meningitis en Valencia y Salud Pública ordena desalojar el campus donde se encontraba](https://www.abc.es/espana/comunidad-valenciana/nino-once-anos-muere-meningitis-valencia-salud-20240405151829-nt.html) (Www.abc.es)
+
 - [Sanidade inmunizará a menores contra la sepsis, la neumonía y la meningitis](https://www.lavozdegalicia.es/noticia/galicia/2024/04/04/sanidadeinmunizara-menores-contra-sepsis-neumonia-meningitis/00031712256008455791471.htm) (Lavozdegalicia.es)
 
 - [CDC warns of nationwide surge in bacterial infection leading to meningitis](https://www.fox2detroit.com/news/cdc-warns-of-nationwide-surge-in-bacterial-infections-leading-to-meningitis) (FOX 2 Detroit)
 
 ## 24-14 (measles)
+
+- [Nearly 100 Measles Cases Reported in US](https://www.theepochtimes.com/health/nearly-100-measles-cases-reported-in-us-5620269) (Theepochtimes.com)
+
+- [Chicago Health Dept warns of public measles exposure; city accused of TB ‘cover up’ in migrant shelters](https://www.bizpacreview.com/2024/04/05/chicago-health-dept-warns-of-public-measles-exposure-city-accused-of-tb-cover-up-in-migrant-shelters-1450358/) (Bizpacreview.com)
 
 - [Analysis of Suspected Measles Cases with Discrepant Measles-Specific IgM and rRT-PCR Test Results, Japan](https://wwwnc.cdc.gov/eid/article/30/5/23-1757_article) (Cdc.gov)
 
@@ -1727,6 +1703,28 @@ Source: [News API](https://newsapi.org/)
 - [Domestic dogs in indigenous Amazonian communities: Key players in Leptospira cycling and transmission?](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011671) (Plos.org)
 
 ## 24-14 (dengue)
+
+- [Rio de Janeiro registra primeiros casos de dengue tipo 3](https://saude.ig.com.br/2024-04-05/rio-de-janeiro-registra-primeiros-casos-de-dengue-tipo-3.html) (Ig.com.br)
+
+- [Dengue em alta agrava falta de repelentes nas prateleiras em março](https://veja.abril.com.br/coluna/radar/dengue-em-alta-agrava-falta-de-repelentes-nas-prateleiras-em-marco) (Abril.com.br)
+
+- [Com retorno de Coronado, Corinthians atualiza situação médica de lesionados](  https://www.lance.com.br/corinthians/com-retorno-de-coronado-corinthians-atualiza-situacao-medica-de-lesionados.html ) (Lance.com.br)
+
+- [Qué puede comer y qué debe evitar un paciente con dengue](https://www.lanacion.com.ar/sociedad/que-puede-comer-y-que-debe-evitar-un-paciente-con-dengue-nid05042024/) (La Nacion)
+
+- [Dengue fever outbreak in Argentina leads to shortage of a must-have item: mosquito repellent](https://abcnews.go.com/International/wireStory/dengue-fever-outbreak-argentina-leads-shortage-item-mosquito-108899459) (ABC News)
+
+- [Dengue fever outbreak in Argentina leads to shortage of a must-have item: mosquito repellent](https://www.startribune.com/dengue-fever-outbreak-in-argentina-leads-to-shortage-of-a-must-have-item-mosquito-repellent/600356669/) (Minneapolis Star Tribune)
+
+- [Catalunya vigilará la inminente llegada del mosquito tigre para prevenir casos de dengue](https://www.elperiodico.com/es/sanidad/20240405/cataluna-dengue-epidemia-argentina-control-mosquitos-tigre-100658617) (Elperiodico.com)
+
+- [Região de Curitiba tem primeira morte por dengue em 2024; vítima é uma mulher de 30 anos](https://www.terra.com.br/noticias/brasil/cidades/regiao-de-curitiba-tem-primeira-morte-por-dengue-em-2024-vitima-e-uma-mulher-de-30-anos,61b567b6c77795c1b4d2370e8e1acfa39jtows6l.html) (Terra.com.br)
+
+- [L’épidémie de dengue fait plus de 400 morts en Indonésie : à qui la faute ?](https://www.courrierinternational.com/article/sante-l-epidemie-de-dengue-fait-plus-de-400-morts-en-indonesie-a-qui-la-faute) (Courrier International)
+
+- [El pacto de honor de los medios franceses](https://www.periodismo.com/2024/04/05/el-pacto-de-honor-de-los-medios-franceses/) (Periodismo.com)
+
+- [Argentina bojuje s vlnou horečky dengue a nedostatkem repelentů, vakcína proti nemoci již byla vyrobena, její ale distribuce teprve začíná](https://www.tyden.cz/rubriky/zahranici/argentina-bojuje-s-vlnou-horecky-dengue-a-nedostatkem-repelentu-vakcina-proti-nemoci-jiz-byla-vyrobena-jeji-ale-distribuce-teprve-zacina_565315.html) (Tyden.cz)
 
 - [Epidemia de dengue estabiliza em SP: “Já passamos o pior momento”](https://www.metropoles.com/sao-paulo/epidemia-dengue-estabiliza-em-sp) (Metropoles.com)
 
@@ -1961,6 +1959,8 @@ Source: [News API](https://newsapi.org/)
 - [“Siento que no nos están cuidando”: Mirtha Legrand volvió a apuntar contra el Gobierno por el avance del Dengue](https://www.lanacion.com.ar/espectaculos/personajes/siento-que-no-nos-estan-cuidando-mirtha-legrand-volvio-a-apuntar-contra-el-gobierno-por-el-avance-nid31032024/) (La Nacion)
 
 ## 24-14 (chikungunya)
+
+- [Atenção! Mosquito-Pólvora invade Litoral Gaúcho e ameaça saúde pública](https://www.terra.com.br/noticias/atencao-mosquito-polvora-invade-litoral-gaucho-e-ameaca-saude-publica,d995522ba03b6b6ae15dd063b0cda8eft5bpbqpa.html) (Terra.com.br)
 
 - [Madrid redobla el control de mosquitos y garrapatas ante el repunte de dengue y otras enfermedades transmitidas por animales](https://www.abc.es/espana/madrid/madrid-redobla-control-mosquitos-garrapatas-ante-repunte-20240404041836-nt.html) (Www.abc.es)
 
