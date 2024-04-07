@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-04-07 07:05
-- **Most recent article:** 2024-04-06 07:00:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-04-07 19:05
+- **Most recent article:** 2024-04-06 18:09:53
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 186 | 134 | 206 | 1079 |
-| measles | 86 | 112 | 87 | 44 | 31 | 77 | 437 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 17 | 93 |
-| zika | 16 | 16 | 12 | 21 | 10 | 11 | 86 |
-| chikungunya | 8 | 20 | 15 | 9 | 11 | 16 | 79 |
-| meningitis | 16 | 5 | 8 | 16 | 3 | 4 | 52 |
+| dengue | 192 | 181 | 180 | 186 | 138 | 202 | 1079 |
+| measles | 86 | 112 | 87 | 44 | 35 | 76 | 440 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 14 | 90 |
+| zika | 16 | 16 | 12 | 21 | 10 | 10 | 85 |
+| chikungunya | 8 | 20 | 15 | 9 | 11 | 15 | 78 |
+| meningitis | 16 | 5 | 8 | 16 | 4 | 4 | 53 |
 | rabies | 6 | 6 | 9 | 3 | 16 | 8 | 48 |
 | mpox | 5 | 8 | 4 | 6 | 12 | 1 | 36 |
-| sarampión | 3 | 3 | 12 | 3 | 4 | 5 | 30 |
+| sarampión | 3 | 3 | 12 | 3 | 5 | 5 | 31 |
 | pertussis | 4 | 5 | 3 | 6 | 7 | 4 | 29 |
-| yersinia | 1 | 3 | 3 | 1 | 3 | 1 | 12 |
+| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 11 |
 | leptospirosis | 0 | 1 | 0 | 0 | 1 | 2 | 4 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 1 | 4 |
 | typhoid | 0 | 0 | 1 | 1 | 0 | 1 | 3 |
@@ -53,12 +53,6 @@ Source: [News API](https://newsapi.org/)
 - [Combate à dengue: 9 dicas de manutenção da casa para eliminar o mosquito!](https://casa.abril.com.br/minha-casa/combate-a-dengue-dicas-de-manutencao-da-casa/) (Abril.com.br)
 
 - [Sivrisineğe dronlu çözüm](https://www.hurriyet.com.tr/dunya/sivrisinege-dronlu-cozum-42410711) (Hurriyet.com.tr)
-
-- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
-
-## 24-9 (yersinia)
-
-- [Як бубонна чума змінила імунну систему людини](https://www.bbc.com/ukrainian/articles/cl5llwlx51vo) (BBC News)
 
 ## 24-9 (typhoid)
 
@@ -276,8 +270,6 @@ Source: [News API](https://newsapi.org/)
 
 - [How vaccine hesitancy is contributing to rising rates of measles and COVID](https://www.pbs.org/newshour/show/how-vaccine-hesitancy-is-contributing-to-rising-rates-of-measles-and-covid) (PBS)
 
-- [Michigan reports first measles case since 2019 outbreak: What to know](https://www.clickondetroit.com/health/2024/02/25/michigan-reports-first-measles-case-since-2019-outbreak-what-to-know/) (WDIV ClickOnDetroit)
-
 ## 24-9 (malaria)
 
 - [Considerations for Rearing and Maintaining Anopheles in the Laboratory](https://cshprotocols.cshlp.org/content/2024/3/pdb.top107802.full?rss=1) (Cshlp.org)
@@ -307,12 +299,6 @@ Source: [News API](https://newsapi.org/)
 - [First DNA study of ancient Eastern Arabians reveals malaria adaptation](https://phys.org/news/2024-02-dna-ancient-eastern-arabians-reveals.html) (Phys.Org)
 
 - [Hårde anklager mod dansk rigmand: Skyld i eskaleret malariasmitte](https://www.bt.dk/udland/haarde-anklager-mod-dansk-rigmand-skyld-i-eskaleret-malariasmitte) (Www.bt.dk)
-
-- [Calcio: Fiorentina; Kouamé lascia l'ospedale e torna a casa](https://www.ansa.it/sito/notizie/sport/calcio/2024/02/25/calcio-fiorentina-kouame-lascia-lospedale-e-torna-a-casa_fbbb4cc8-cb31-455e-b813-db73d2da300e.html) (ANSA.it)
-
-- [Kouame con la malaria, il report della Fiorentina: "Dimesso dall'ospedale, sta migliorando"](https://www.tuttomercatoweb.com/serie-a/kouame-con-la-malaria-il-report-della-fiorentina-dimesso-dall-ospedale-sta-migliorando-1939399) (Tuttomercatoweb.com)
-
-- [Fiorentina confirm Kouame out of hospital after malaria diagnosis](https://football-italia.net/fiorentina-confirm-kouame-out-of-hospital-after-malaria-diagnosis/) (Football Italia)
 
 ## 24-9 (leptospirosis)
 
@@ -726,14 +712,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Game gratuito ‘Contra a Dengue’ estimula crianças a combater o Aedes aegypti](https://catracalivre.com.br/cidadania/game-gratuito-contra-a-dengue-estimula-criancas-a-combater-o-aedes-aegypti/) (Catracalivre.com.br)
 
-- [Un chico de 17 años infectado por dengue sufre una erección continúa de casi 20 horas](https://www.marca.com/tiramillas/actualidad/2024/02/25/65db5829ca47411c178b4571.html) (Marca)
-
-- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
-
-- [Week in pictures: Ukraine war anniversary to farmers’ protest in India](https://www.aljazeera.com/gallery/2024/2/25/week-in-pictures-ukraine-war-anniversary-to-farmers-protest-in-india) (Al Jazeera English)
-
-- [Vacinação contra dengue em BH deve começar nos próximos dias](https://noticias.r7.com/minas-gerais/vacinacao-contra-dengue-em-bh-deve-comecar-nos-proximos-dias-25022024) (R7.com)
-
 ## 24-9 (chikungunya)
 
 - [Epidemia de dengue: Com centenas de casos, Natal decreta situação de emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/03/02/epidemia-de-dengue-com-centenas-de-casos-natal-decreta-situacao-de-emergencia.ghtml) (Globo)
@@ -766,8 +744,6 @@ Source: [News API](https://newsapi.org/)
 
 - [A doença confundida com dengue que é mais mortífera do que se imaginava](https://www.bbc.com/portuguese/articles/cg3kr44npkyo) (BBC News)
 
-- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
-
 ## 24-14 (zika)
 
 - [Vacina contra zika da USP tem resultados promissores](https://olhardigital.com.br/2024/04/06/medicina-e-saude/vacina-contra-zika-da-usp-tem-resultados-promissores/) (Olhardigital.com.br)
@@ -799,6 +775,8 @@ Source: [News API](https://newsapi.org/)
 - [חוקרים חשפו: הסיבות לתחלואה קטלנית בתקופת האבן בסקנדינביה](https://www.ynet.co.il/environment-science/article/hjt11r3h10) (Ynet)
 
 ## 24-14 (sarampión)
+
+- [Sarampión está erradicado del país; casos actuales son importados, asegura el Censia](https://www.jornada.com.mx/2024/04/06/politica/011n2pol) (Jornada.com.mx)
 
 - [Cobertura contra sarampión, a 85%: Salud](https://www.jornada.com.mx/2024/04/03/capital/032n2cap) (Jornada.com.mx)
 
@@ -886,6 +864,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-14 (meningitis)
 
+- [Desalojan un campus de fútbol en Valencia por la muerte de un niño de 11 años por una meningitis](https://www.libertaddigital.com/deportes/liga/2024-04-06/desalojan-un-campus-de-futbol-en-valencia-por-la-muerte-de-un-nino-de-11-anos-por-una-meningitis-7114326/) (Libertaddigital.com)
+
 - [Un niño de once años muere por meningitis en Valencia y Salud Pública ordena desalojar el campus donde se encontraba](https://www.abc.es/espana/comunidad-valenciana/nino-once-anos-muere-meningitis-valencia-salud-20240405151829-nt.html) (Www.abc.es)
 
 - [Sanidade inmunizará a menores contra la sepsis, la neumonía y la meningitis](https://www.lavozdegalicia.es/noticia/galicia/2024/04/04/sanidadeinmunizara-menores-contra-sepsis-neumonia-meningitis/00031712256008455791471.htm) (Lavozdegalicia.es)
@@ -893,6 +873,14 @@ Source: [News API](https://newsapi.org/)
 - [CDC warns of nationwide surge in bacterial infection leading to meningitis](https://www.fox2detroit.com/news/cdc-warns-of-nationwide-surge-in-bacterial-infections-leading-to-meningitis) (FOX 2 Detroit)
 
 ## 24-14 (measles)
+
+- [Disease rampant in shelters as migrants skip vaccinations required of U.S. children](https://www.wnd.com/2024/04/disease-rampant-shelters-migrants-skip-vaccinations-required-u-s-children/) (Wnd.com)
+
+- [Chicago Public Health Spox: Don't Worry about TB Cases in Migrant Shelters](https://hotair.com/karen-townsend/2024/04/06/chicago-n3786024) (Hot Air)
+
+- [Vaccinating migrants like US children would have prevented disease outbreaks at Chicago shelters: experts](https://www.foxnews.com/health/vaccinating-migrants-us-children-prevented-disease-outbreaks-chicago-shelters-experts) (Fox News)
+
+- [Chicago is a hotspot in the measles outbreak. Here's how to stay safe](https://www.npr.org/2024/04/06/1243230498/chicago-is-a-hotspot-in-the-measles-outbreak-heres-how-to-stay-safe) (NPR)
 
 - [Health department warns of CTA, suburban Walmart measles exposure](https://www.newsbreak.com/chicago-il/3393044051881-health-department-warns-of-cta-suburban-walmart-measles-exposure) (Newsbreak.com)
 
@@ -989,6 +977,14 @@ Source: [News API](https://newsapi.org/)
 - [Domestic dogs in indigenous Amazonian communities: Key players in Leptospira cycling and transmission?](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011671) (Plos.org)
 
 ## 24-14 (dengue)
+
+- [Argentinos batallan por conseguir repelente en el peor brote de dengue](https://www.montevideo.com.uy/Salud/Argentinos-batallan-por-conseguir-repelente-en-el-peor-brote-de-dengue-uc884714) (Montevideo.com.uy)
+
+- [Dengue avança e atinge 95% das cidades brasileiras](https://saude.ig.com.br/2024-04-06/dengue-atinge-95-por-cento-cidades-brasil.html) (Ig.com.br)
+
+- [129 muertos y más de 180.000 casos positivos en la peor epidemia de dengue en la historia de Argentina](https://www.abc.es/sociedad/129-muertos-180000-casos-positivos-peor-epidemia-20240406111731-nt.html) (Www.abc.es)
+
+- [Saiba quanto tempo duram os sintomas da dengue](https://valor.globo.com/brasil/noticia/2024/04/06/saiba-quanto-tempo-duram-os-sintomas-da-dengue.ghtml) (Globo)
 
 - [Ellos faltan más. Las lesiones de fútbol y la brecha de género en el mundo de la gastronomía](https://www.lanacion.com.ar/sabado/ellos-faltan-mas-las-lesiones-de-futbol-y-la-brecha-de-genero-en-el-mundo-de-la-gastronomia-nid06042024/) (La Nacion)
 
