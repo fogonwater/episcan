@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-04-07 19:05
-- **Most recent article:** 2024-04-06 18:09:53
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-04-08 07:07
+- **Most recent article:** 2024-04-07 03:00:00
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-9 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 186 | 138 | 202 | 1079 |
-| measles | 86 | 112 | 87 | 44 | 35 | 76 | 440 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 14 | 90 |
-| zika | 16 | 16 | 12 | 21 | 10 | 10 | 85 |
-| chikungunya | 8 | 20 | 15 | 9 | 11 | 15 | 78 |
-| meningitis | 16 | 5 | 8 | 16 | 4 | 4 | 53 |
-| rabies | 6 | 6 | 9 | 3 | 16 | 8 | 48 |
-| mpox | 5 | 8 | 4 | 6 | 12 | 1 | 36 |
-| sarampión | 3 | 3 | 12 | 3 | 5 | 5 | 31 |
-| pertussis | 4 | 5 | 3 | 6 | 7 | 4 | 29 |
-| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 11 |
-| leptospirosis | 0 | 1 | 0 | 0 | 1 | 2 | 4 |
-| shigellosis | 0 | 2 | 1 | 0 | 0 | 1 | 4 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 1 | 3 |
+| Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 192 | 181 | 180 | 186 | 145 | 1 | 206 | 1091 |
+| measles | 86 | 112 | 87 | 44 | 36 | 0 | 77 | 442 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 0 | 17 | 93 |
+| zika | 16 | 16 | 12 | 21 | 11 | 0 | 11 | 87 |
+| chikungunya | 8 | 20 | 15 | 9 | 12 | 0 | 16 | 80 |
+| meningitis | 16 | 5 | 8 | 16 | 4 | 1 | 4 | 54 |
+| rabies | 6 | 6 | 9 | 3 | 16 | 0 | 8 | 48 |
+| mpox | 5 | 8 | 4 | 6 | 12 | 0 | 1 | 36 |
+| sarampión | 3 | 3 | 12 | 3 | 5 | 0 | 5 | 31 |
+| pertussis | 4 | 5 | 3 | 6 | 7 | 0 | 4 | 29 |
+| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 1 | 12 |
+| leptospirosis | 0 | 1 | 0 | 0 | 1 | 0 | 2 | 4 |
+| shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
+| typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -53,6 +53,12 @@ Source: [News API](https://newsapi.org/)
 - [Combate à dengue: 9 dicas de manutenção da casa para eliminar o mosquito!](https://casa.abril.com.br/minha-casa/combate-a-dengue-dicas-de-manutencao-da-casa/) (Abril.com.br)
 
 - [Sivrisineğe dronlu çözüm](https://www.hurriyet.com.tr/dunya/sivrisinege-dronlu-cozum-42410711) (Hurriyet.com.tr)
+
+- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
+
+## 24-9 (yersinia)
+
+- [Як бубонна чума змінила імунну систему людини](https://www.bbc.com/ukrainian/articles/cl5llwlx51vo) (BBC News)
 
 ## 24-9 (typhoid)
 
@@ -270,6 +276,8 @@ Source: [News API](https://newsapi.org/)
 
 - [How vaccine hesitancy is contributing to rising rates of measles and COVID](https://www.pbs.org/newshour/show/how-vaccine-hesitancy-is-contributing-to-rising-rates-of-measles-and-covid) (PBS)
 
+- [Michigan reports first measles case since 2019 outbreak: What to know](https://www.clickondetroit.com/health/2024/02/25/michigan-reports-first-measles-case-since-2019-outbreak-what-to-know/) (WDIV ClickOnDetroit)
+
 ## 24-9 (malaria)
 
 - [Considerations for Rearing and Maintaining Anopheles in the Laboratory](https://cshprotocols.cshlp.org/content/2024/3/pdb.top107802.full?rss=1) (Cshlp.org)
@@ -299,6 +307,12 @@ Source: [News API](https://newsapi.org/)
 - [First DNA study of ancient Eastern Arabians reveals malaria adaptation](https://phys.org/news/2024-02-dna-ancient-eastern-arabians-reveals.html) (Phys.Org)
 
 - [Hårde anklager mod dansk rigmand: Skyld i eskaleret malariasmitte](https://www.bt.dk/udland/haarde-anklager-mod-dansk-rigmand-skyld-i-eskaleret-malariasmitte) (Www.bt.dk)
+
+- [Calcio: Fiorentina; Kouamé lascia l'ospedale e torna a casa](https://www.ansa.it/sito/notizie/sport/calcio/2024/02/25/calcio-fiorentina-kouame-lascia-lospedale-e-torna-a-casa_fbbb4cc8-cb31-455e-b813-db73d2da300e.html) (ANSA.it)
+
+- [Kouame con la malaria, il report della Fiorentina: "Dimesso dall'ospedale, sta migliorando"](https://www.tuttomercatoweb.com/serie-a/kouame-con-la-malaria-il-report-della-fiorentina-dimesso-dall-ospedale-sta-migliorando-1939399) (Tuttomercatoweb.com)
+
+- [Fiorentina confirm Kouame out of hospital after malaria diagnosis](https://football-italia.net/fiorentina-confirm-kouame-out-of-hospital-after-malaria-diagnosis/) (Football Italia)
 
 ## 24-9 (leptospirosis)
 
@@ -712,6 +726,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Game gratuito ‘Contra a Dengue’ estimula crianças a combater o Aedes aegypti](https://catracalivre.com.br/cidadania/game-gratuito-contra-a-dengue-estimula-criancas-a-combater-o-aedes-aegypti/) (Catracalivre.com.br)
 
+- [Un chico de 17 años infectado por dengue sufre una erección continúa de casi 20 horas](https://www.marca.com/tiramillas/actualidad/2024/02/25/65db5829ca47411c178b4571.html) (Marca)
+
+- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
+
+- [Week in pictures: Ukraine war anniversary to farmers’ protest in India](https://www.aljazeera.com/gallery/2024/2/25/week-in-pictures-ukraine-war-anniversary-to-farmers-protest-in-india) (Al Jazeera English)
+
+- [Vacinação contra dengue em BH deve começar nos próximos dias](https://noticias.r7.com/minas-gerais/vacinacao-contra-dengue-em-bh-deve-comecar-nos-proximos-dias-25022024) (R7.com)
+
 ## 24-9 (chikungunya)
 
 - [Epidemia de dengue: Com centenas de casos, Natal decreta situação de emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/03/02/epidemia-de-dengue-com-centenas-de-casos-natal-decreta-situacao-de-emergencia.ghtml) (Globo)
@@ -744,7 +766,19 @@ Source: [News API](https://newsapi.org/)
 
 - [A doença confundida com dengue que é mais mortífera do que se imaginava](https://www.bbc.com/portuguese/articles/cg3kr44npkyo) (BBC News)
 
+- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
+
+## 24-15 (meningitis)
+
+- [Reaprender caminar con 33 años, la remontada de Ana: «De gripe A pasamos a meningitis con daño cerebral»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2024/04/06/reaprender-caminar-33-anos-remontada-ana-gripe-pasamos-meningitis-dano-cerebral/00031712408879932852228.htm) (Lavozdegalicia.es)
+
+## 24-15 (dengue)
+
+- [Vacuna contra el dengue en Argentina: precio, quién puede recibirla, contraindicaciones y tiempo de efectividad](https://cnnespanol.cnn.com/2024/04/06/vacuna-dengue-argentina-precio-contraindicaciones-efectividad-orix/) (CNN)
+
 ## 24-14 (zika)
+
+- [Arbovírus, mosquitos e potenciais hospedeiros são rastreados em tempo real na cidade de São Paulo](https://gizmodo.uol.com.br/arbovirus-mosquitos-e-potenciais-hospedeiros-sao-rastreados-em-tempo-real-na-cidade-de-sao-paulo/) (Uol.com.br)
 
 - [Vacina contra zika da USP tem resultados promissores](https://olhardigital.com.br/2024/04/06/medicina-e-saude/vacina-contra-zika-da-usp-tem-resultados-promissores/) (Olhardigital.com.br)
 
@@ -874,6 +908,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-14 (measles)
 
+- [Joe Biden Faces MAGA Fury for Measles Outbreak Spurred by Migrants](https://www.newsweek.com/joe-biden-faces-maga-fury-measles-outbreak-spurred-migrants-1887662) (Newsweek)
+
 - [Disease rampant in shelters as migrants skip vaccinations required of U.S. children](https://www.wnd.com/2024/04/disease-rampant-shelters-migrants-skip-vaccinations-required-u-s-children/) (Wnd.com)
 
 - [Chicago Public Health Spox: Don't Worry about TB Cases in Migrant Shelters](https://hotair.com/karen-townsend/2024/04/06/chicago-n3786024) (Hot Air)
@@ -978,6 +1014,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-14 (dengue)
 
+- [Arbovírus, mosquitos e potenciais hospedeiros são rastreados em tempo real na cidade de São Paulo](https://gizmodo.uol.com.br/arbovirus-mosquitos-e-potenciais-hospedeiros-sao-rastreados-em-tempo-real-na-cidade-de-sao-paulo/) (Uol.com.br)
+
+- [Aumenta preocupación por brote de dengue en Centroamérica](https://www.nacion.com/el-mundo/centroamerica/aumenta-preocupacion-por-brote-de-dengue-en/FWNLI6FYG5EDNCUIEWC6Z6LJBQ/story/) (Nacion.com)
+
+- [Carro fumacê explode e causa destruição em prédio do Rio](https://recordtv.r7.com/balanco-geral/videos/carro-fumace-explode-e-causa-destruicao-em-predio-do-rio-06042024) (R7.com)
+
 - [Argentinos batallan por conseguir repelente en el peor brote de dengue](https://www.montevideo.com.uy/Salud/Argentinos-batallan-por-conseguir-repelente-en-el-peor-brote-de-dengue-uc884714) (Montevideo.com.uy)
 
 - [Dengue avança e atinge 95% das cidades brasileiras](https://saude.ig.com.br/2024-04-06/dengue-atinge-95-por-cento-cidades-brasil.html) (Ig.com.br)
@@ -1002,11 +1044,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Rio de Janeiro registra primeiros casos de dengue tipo 3](https://saude.ig.com.br/2024-04-05/rio-de-janeiro-registra-primeiros-casos-de-dengue-tipo-3.html) (Ig.com.br)
 
+- [Solo 20 casos: cuáles son las hipótesis que explican que Río Negro sea la provincia con menos infecciones de dengue del país](https://www.lanacion.com.ar/sociedad/solo-20-casos-cuales-son-las-hipotesis-que-explican-que-rio-negro-sea-la-provincia-con-menos-nid05042024/) (La Nacion)
+
 - [Dengue em alta agrava falta de repelentes nas prateleiras em março](https://veja.abril.com.br/coluna/radar/dengue-em-alta-agrava-falta-de-repelentes-nas-prateleiras-em-marco) (Abril.com.br)
 
 - [Com retorno de Coronado, Corinthians atualiza situação médica de lesionados](  https://www.lance.com.br/corinthians/com-retorno-de-coronado-corinthians-atualiza-situacao-medica-de-lesionados.html ) (Lance.com.br)
 
 - [Qué puede comer y qué debe evitar un paciente con dengue](https://www.lanacion.com.ar/sociedad/que-puede-comer-y-que-debe-evitar-un-paciente-con-dengue-nid05042024/) (La Nacion)
+
+- [Atenção! Mosquito-Pólvora invade Litoral Gaúcho e ameaça saúde pública](https://www.terra.com.br/noticias/atencao-mosquito-polvora-invade-litoral-gaucho-e-ameaca-saude-publica,d995522ba03b6b6ae15dd063b0cda8eft5bpbqpa.html) (Terra.com.br)
 
 - [Dengue fever outbreak in Argentina leads to shortage of a must-have item: mosquito repellent](https://abcnews.go.com/International/wireStory/dengue-fever-outbreak-argentina-leads-shortage-item-mosquito-108899459) (ABC News)
 
@@ -1015,6 +1061,8 @@ Source: [News API](https://newsapi.org/)
 - [Catalunya vigilará la inminente llegada del mosquito tigre para prevenir casos de dengue](https://www.elperiodico.com/es/sanidad/20240405/cataluna-dengue-epidemia-argentina-control-mosquitos-tigre-100658617) (Elperiodico.com)
 
 - [Região de Curitiba tem primeira morte por dengue em 2024; vítima é uma mulher de 30 anos](https://www.terra.com.br/noticias/brasil/cidades/regiao-de-curitiba-tem-primeira-morte-por-dengue-em-2024-vitima-e-uma-mulher-de-30-anos,61b567b6c77795c1b4d2370e8e1acfa39jtows6l.html) (Terra.com.br)
+
+- [Mosquitos fazem mais do que picar? 3 comportamentos quase desconhecidos](https://tecnologia.ig.com.br/parceiros/canaltech/2024-04-05/mosquitos-fazem-mais-do-que-picar--3-comportamentos-quase-desconhecidos.html) (Ig.com.br)
 
 - [L’épidémie de dengue fait plus de 400 morts en Indonésie : à qui la faute ?](https://www.courrierinternational.com/article/sante-l-epidemie-de-dengue-fait-plus-de-400-morts-en-indonesie-a-qui-la-faute) (Courrier International)
 
@@ -1031,6 +1079,8 @@ Source: [News API](https://newsapi.org/)
 - [Tenda contra dengue em área carente do DF fica alagada durante chuva](https://www.metropoles.com/distrito-federal/video-flagra-alagamento-em-tenda-contra-a-dengue-em-area-carente-no-df) (Metropoles.com)
 
 - [Dengue: en qué consiste la vía de excepción en los controles para ingresar repelentes al país y qué ingredientes pueden tener](https://www.lanacion.com.ar/sociedad/dengue-en-que-consiste-la-via-de-excepcion-en-los-controles-para-ingresar-repelentes-al-pais-y-que-nid04042024/) (La Nacion)
+
+- [Roxy Vázquez, tras contraer dengue y atravesar dos internaciones: “Me asusté mucho; el cuerpo literalmente se te parte”](https://www.lanacion.com.ar/espectaculos/personajes/roxy-vazquez-tras-contraer-dengue-y-atravesar-dos-internaciones-me-asuste-mucho-el-cuerpo-nid04042024/) (La Nacion)
 
 - [Ministério da Saúde manda ao DF R$ 4,7 milhões para o combate à dengue](https://www.metropoles.com/distrito-federal/dengue-ministerio-da-saude-df) (Metropoles.com)
 
@@ -1255,6 +1305,8 @@ Source: [News API](https://newsapi.org/)
 - [“Siento que no nos están cuidando”: Mirtha Legrand volvió a apuntar contra el Gobierno por el avance del Dengue](https://www.lanacion.com.ar/espectaculos/personajes/siento-que-no-nos-estan-cuidando-mirtha-legrand-volvio-a-apuntar-contra-el-gobierno-por-el-avance-nid31032024/) (La Nacion)
 
 ## 24-14 (chikungunya)
+
+- [Arbovírus, mosquitos e potenciais hospedeiros são rastreados em tempo real na cidade de São Paulo](https://gizmodo.uol.com.br/arbovirus-mosquitos-e-potenciais-hospedeiros-sao-rastreados-em-tempo-real-na-cidade-de-sao-paulo/) (Uol.com.br)
 
 - [Atenção! Mosquito-Pólvora invade Litoral Gaúcho e ameaça saúde pública](https://www.terra.com.br/noticias/atencao-mosquito-polvora-invade-litoral-gaucho-e-ameaca-saude-publica,d995522ba03b6b6ae15dd063b0cda8eft5bpbqpa.html) (Terra.com.br)
 
