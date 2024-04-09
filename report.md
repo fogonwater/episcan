@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-04-09 07:06
-- **Most recent article:** 2024-04-08 06:07:08
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-04-09 19:05
+- **Most recent article:** 2024-04-08 18:48:42
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 186 | 158 | 10 | 206 | 1113 |
-| measles | 86 | 112 | 87 | 44 | 36 | 0 | 77 | 442 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 0 | 17 | 93 |
-| zika | 16 | 16 | 12 | 21 | 11 | 1 | 11 | 88 |
-| chikungunya | 8 | 20 | 15 | 9 | 12 | 0 | 16 | 80 |
+| dengue | 192 | 181 | 180 | 186 | 158 | 24 | 202 | 1123 |
+| measles | 86 | 112 | 87 | 44 | 36 | 0 | 76 | 441 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 4 | 14 | 94 |
+| zika | 16 | 16 | 12 | 21 | 11 | 2 | 10 | 88 |
+| chikungunya | 8 | 20 | 15 | 9 | 12 | 1 | 15 | 80 |
 | meningitis | 16 | 5 | 8 | 16 | 4 | 2 | 4 | 55 |
 | rabies | 6 | 6 | 9 | 3 | 16 | 2 | 8 | 50 |
 | mpox | 5 | 8 | 4 | 6 | 12 | 0 | 1 | 36 |
 | sarampión | 3 | 3 | 12 | 3 | 5 | 0 | 5 | 31 |
-| pertussis | 4 | 5 | 3 | 6 | 7 | 0 | 4 | 29 |
-| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 1 | 12 |
+| pertussis | 4 | 5 | 3 | 6 | 7 | 1 | 4 | 30 |
+| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 0 | 11 |
 | leptospirosis | 0 | 1 | 0 | 0 | 1 | 0 | 2 | 4 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
 | typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 3 |
@@ -53,12 +53,6 @@ Source: [News API](https://newsapi.org/)
 - [Combate à dengue: 9 dicas de manutenção da casa para eliminar o mosquito!](https://casa.abril.com.br/minha-casa/combate-a-dengue-dicas-de-manutencao-da-casa/) (Abril.com.br)
 
 - [Sivrisineğe dronlu çözüm](https://www.hurriyet.com.tr/dunya/sivrisinege-dronlu-cozum-42410711) (Hurriyet.com.tr)
-
-- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
-
-## 24-9 (yersinia)
-
-- [Як бубонна чума змінила імунну систему людини](https://www.bbc.com/ukrainian/articles/cl5llwlx51vo) (BBC News)
 
 ## 24-9 (typhoid)
 
@@ -276,8 +270,6 @@ Source: [News API](https://newsapi.org/)
 
 - [How vaccine hesitancy is contributing to rising rates of measles and COVID](https://www.pbs.org/newshour/show/how-vaccine-hesitancy-is-contributing-to-rising-rates-of-measles-and-covid) (PBS)
 
-- [Michigan reports first measles case since 2019 outbreak: What to know](https://www.clickondetroit.com/health/2024/02/25/michigan-reports-first-measles-case-since-2019-outbreak-what-to-know/) (WDIV ClickOnDetroit)
-
 ## 24-9 (malaria)
 
 - [Considerations for Rearing and Maintaining Anopheles in the Laboratory](https://cshprotocols.cshlp.org/content/2024/3/pdb.top107802.full?rss=1) (Cshlp.org)
@@ -307,12 +299,6 @@ Source: [News API](https://newsapi.org/)
 - [First DNA study of ancient Eastern Arabians reveals malaria adaptation](https://phys.org/news/2024-02-dna-ancient-eastern-arabians-reveals.html) (Phys.Org)
 
 - [Hårde anklager mod dansk rigmand: Skyld i eskaleret malariasmitte](https://www.bt.dk/udland/haarde-anklager-mod-dansk-rigmand-skyld-i-eskaleret-malariasmitte) (Www.bt.dk)
-
-- [Calcio: Fiorentina; Kouamé lascia l'ospedale e torna a casa](https://www.ansa.it/sito/notizie/sport/calcio/2024/02/25/calcio-fiorentina-kouame-lascia-lospedale-e-torna-a-casa_fbbb4cc8-cb31-455e-b813-db73d2da300e.html) (ANSA.it)
-
-- [Kouame con la malaria, il report della Fiorentina: "Dimesso dall'ospedale, sta migliorando"](https://www.tuttomercatoweb.com/serie-a/kouame-con-la-malaria-il-report-della-fiorentina-dimesso-dall-ospedale-sta-migliorando-1939399) (Tuttomercatoweb.com)
-
-- [Fiorentina confirm Kouame out of hospital after malaria diagnosis](https://football-italia.net/fiorentina-confirm-kouame-out-of-hospital-after-malaria-diagnosis/) (Football Italia)
 
 ## 24-9 (leptospirosis)
 
@@ -726,14 +712,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Game gratuito ‘Contra a Dengue’ estimula crianças a combater o Aedes aegypti](https://catracalivre.com.br/cidadania/game-gratuito-contra-a-dengue-estimula-criancas-a-combater-o-aedes-aegypti/) (Catracalivre.com.br)
 
-- [Un chico de 17 años infectado por dengue sufre una erección continúa de casi 20 horas](https://www.marca.com/tiramillas/actualidad/2024/02/25/65db5829ca47411c178b4571.html) (Marca)
-
-- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
-
-- [Week in pictures: Ukraine war anniversary to farmers’ protest in India](https://www.aljazeera.com/gallery/2024/2/25/week-in-pictures-ukraine-war-anniversary-to-farmers-protest-in-india) (Al Jazeera English)
-
-- [Vacinação contra dengue em BH deve começar nos próximos dias](https://noticias.r7.com/minas-gerais/vacinacao-contra-dengue-em-bh-deve-comecar-nos-proximos-dias-25022024) (R7.com)
-
 ## 24-9 (chikungunya)
 
 - [Epidemia de dengue: Com centenas de casos, Natal decreta situação de emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/03/02/epidemia-de-dengue-com-centenas-de-casos-natal-decreta-situacao-de-emergencia.ghtml) (Globo)
@@ -766,9 +744,9 @@ Source: [News API](https://newsapi.org/)
 
 - [A doença confundida com dengue que é mais mortífera do que se imaginava](https://www.bbc.com/portuguese/articles/cg3kr44npkyo) (BBC News)
 
-- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
-
 ## 24-15 (zika)
+
+- [Wolbachia: bactéria inibe transmissão da dengue e outras doenças ao contaminar Aedes aegypti](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/04/08/wolbachia-bacteria-inibe-transmissao-da-dengue-e-outras-doencas-ao-contaminar-aedes-aegypti.ghtml) (Globo)
 
 - [Vacina de DNA contra o zika apresenta bons resultados em testes com camundongos](https://gizmodo.uol.com.br/vacina-de-dna-contra-o-zika-apresenta-bons-resultados-em-testes-com-camundongos/) (Uol.com.br)
 
@@ -778,13 +756,55 @@ Source: [News API](https://newsapi.org/)
 
 - [Expert backs Osun police on straying dogs, urges vaccination](https://punchng.com/expert-backs-osun-police-on-straying-dogs-urges-vaccination/) (The Punch)
 
+## 24-15 (pertussis)
+
+- [Universal Health Care: 5 years later](https://www.ibon.org/uhc-five-yrs/) (Ibon.org)
+
 ## 24-15 (meningitis)
 
 - [Sick boy was 'so much worse' when let go from hospital, inquiry into his death hears](https://www.9news.com.au/national/meningitis-sick-boy-was-so-much-worse-when-let-go-from-hospital-victoria-health-news/7bb8b727-613d-4160-ad4f-1f0c9adc517f) (9News)
 
 - [Reaprender caminar con 33 años, la remontada de Ana: «De gripe A pasamos a meningitis con daño cerebral»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2024/04/06/reaprender-caminar-33-anos-remontada-ana-gripe-pasamos-meningitis-dano-cerebral/00031712408879932852228.htm) (Lavozdegalicia.es)
 
+## 24-15 (malaria)
+
+- [Unitaid Awards Medincell up to $6 million Extension Grant to Fight Malaria](https://www.investing.com/news/press-releases/unitaid-awards-medincell-up-to-6-million-extension-grant-to-fight-malaria-93CH-3369952) (Investing.com)
+
+- [Unitaid Awards Medincell up to $6 million Extension Grant to Fight Malaria](https://www.marketscreener.com/quote/stock/MEDINCELL-S-A-46472820/news/Unitaid-Awards-Medincell-up-to-6-million-Extension-Grant-to-Fight-Malaria-46389090/) (Marketscreener.com)
+
+- [Unitaid Awards Medincell up to $6 million Extension Grant to Fight Malaria](https://www.marketscreener.com/quote/stock/MEDINCELL-S-A-46472820/news/Unitaid-Awards-Medincell-up-to-6-million-Extension-Grant-to-Fight-Malaria-46389086/) (Marketscreener.com)
+
+- [Mystery As Navy Fires Commander of Biomedical Lab](https://www.newsweek.com/us-navy-namru-south-commander-fired-abigail-yablonsky-marter-1887951) (Newsweek)
+
 ## 24-15 (dengue)
+
+- [Doenças de outono evidenciam importância da água sanitária](https://www.terra.com.br/noticias/doencas-de-outono-evidenciam-importancia-da-agua-sanitaria,725d9c0620e8d238215dff40343fe89c0si3ekh9.html) (Terra.com.br)
+
+- [Argentina acumula casi 216.000 casos de dengue en el peor brote de su historia](https://latamnews.lat/20240408/argentina-acumula-casi-216000-casos-de-dengue-en-el-peor-brote-de-su-historia-1149585598.html) (Latamnews.lat)
+
+- [How mosquito larva guts could help create highly specific insecticides](https://www.sciencedaily.com/releases/2024/04/240408130627.htm) (Science Daily)
+
+- [How mosquito larva guts could help create highly specific insecticides](https://phys.org/news/2024-04-mosquito-larva-guts-highly-specific.html) (Phys.Org)
+
+- [Amérique latine : Morts, pénurie, records… Quand la dengue rend dingue](https://www.20minutes.fr/monde/4085437-20240408-amerique-latine-morts-penurie-records-quand-dengue-rend-dingue) (20 Minutes)
+
+- [Contentores de resíduos auxiliam na prevenção da dengue](https://www.terra.com.br/noticias/contentores-de-residuos-auxiliam-na-prevencao-da-dengue,596b06caf7a0dc837c687f6d0d3ec3870l0oewj4.html) (Terra.com.br)
+
+- [Em meio à crise na Saúde, Lula elogia Nísia: “Consegue falar com alma”](https://www.metropoles.com/brasil/em-meio-a-crise-na-saude-lula-elogia-nisia-consegue-falar-com-alma) (Metropoles.com)
+
+- [São Paulo registra mais de 200 mortes por dengue](https://olhardigital.com.br/2024/04/08/medicina-e-saude/sao-paulo-registra-mais-de-200-mortes-por-dengue/) (Olhardigital.com.br)
+
+- [Dengue: llegó a la Argentina una donación de más de 20.000 repelentes para mosquitos desde México](https://www.lanacion.com.ar/sociedad/dengue-llego-a-la-argentina-una-donacion-mas-de-20000-repelentes-para-mosquitos-desde-mexico-nid08042024/) (La Nacion)
+
+- [Argentina enfrenta risco crescente de epidemia de dengue](https://www.terra.com.br/noticias/mundo/argentina-enfrenta-risco-crescente-de-epidemia-de-dengue,efb404d18f58c6744504ea716d1b448bgazxa8fl.html) (Terra.com.br)
+
+- [Argentina faces rising dengue epidemic risk as mosquitoes hatch early](https://www.thestar.com.my/news/world/2024/04/08/argentina-faces-rising-dengue-epidemic-risk-as-mosquitoes-hatch-early) (The Star Online)
+
+- [Dengue: São Paulo já contabiliza 221 mortos pela doença](https://saude.ig.com.br/2024-04-08/dengue--sao-paulo-ja-contabiliza-221-mortos-pela-doenca.html) (Ig.com.br)
+
+- [El cazador de eclipses](https://www.periodismo.com/2024/04/08/el-cazador-de-eclipses/) (Periodismo.com)
+
+- [Dengue: hay nueve personas internadas por la enfermedad, todas en cuidados intermedios](https://www.montevideo.com.uy/Noticias/Dengue-hay-nueve-personas-internadas-por-la-enfermedad-todas-en-cuidados-intermedios-uc884815) (Montevideo.com.uy)
 
 - [뎅기열 환자 급증…경북, 거점 보건소 5곳 운영](https://m.khan.co.kr/article/202404081046001) (Khan.co.kr)
 
@@ -805,6 +825,10 @@ Source: [News API](https://newsapi.org/)
 - [Se extiende el dengue por Centro y Sudamérica](https://www.jornada.com.mx/2024/04/07/mundo/022n1mun) (Jornada.com.mx)
 
 - [Vacuna contra el dengue en Argentina: precio, quién puede recibirla, contraindicaciones y tiempo de efectividad](https://cnnespanol.cnn.com/2024/04/06/vacuna-dengue-argentina-precio-contraindicaciones-efectividad-orix/) (CNN)
+
+## 24-15 (chikungunya)
+
+- [Wolbachia: bactéria inibe transmissão da dengue e outras doenças ao contaminar Aedes aegypti](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/04/08/wolbachia-bacteria-inibe-transmissao-da-dengue-e-outras-doencas-ao-contaminar-aedes-aegypti.ghtml) (Globo)
 
 ## 24-14 (zika)
 
