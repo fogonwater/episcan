@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-04-11 07:06
-- **Most recent article:** 2024-04-10 07:00:52
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-04-11 19:05
+- **Most recent article:** 2024-04-10 18:34:44
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 186 | 158 | 65 | 206 | 1168 |
-| measles | 86 | 112 | 87 | 44 | 36 | 7 | 77 | 449 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 12 | 17 | 105 |
-| zika | 16 | 16 | 12 | 21 | 11 | 5 | 11 | 92 |
-| chikungunya | 8 | 20 | 15 | 9 | 12 | 2 | 16 | 82 |
+| dengue | 192 | 181 | 180 | 186 | 158 | 77 | 202 | 1176 |
+| measles | 86 | 112 | 87 | 44 | 36 | 9 | 76 | 450 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 14 | 14 | 104 |
+| zika | 16 | 16 | 12 | 21 | 11 | 7 | 10 | 93 |
+| chikungunya | 8 | 20 | 15 | 9 | 12 | 2 | 15 | 81 |
 | meningitis | 16 | 5 | 8 | 16 | 4 | 4 | 4 | 57 |
 | rabies | 6 | 6 | 9 | 3 | 16 | 4 | 8 | 52 |
-| sarampión | 3 | 3 | 12 | 3 | 5 | 5 | 5 | 36 |
-| mpox | 5 | 8 | 4 | 6 | 12 | 0 | 1 | 36 |
+| mpox | 5 | 8 | 4 | 6 | 12 | 3 | 1 | 39 |
+| sarampión | 3 | 3 | 12 | 3 | 5 | 6 | 5 | 37 |
 | pertussis | 4 | 5 | 3 | 6 | 7 | 2 | 4 | 31 |
-| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 1 | 12 |
-| leptospirosis | 0 | 1 | 0 | 0 | 1 | 0 | 2 | 4 |
+| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 0 | 11 |
+| leptospirosis | 0 | 1 | 0 | 0 | 1 | 1 | 2 | 5 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
 | typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 3 |
 
@@ -53,12 +53,6 @@ Source: [News API](https://newsapi.org/)
 - [Combate à dengue: 9 dicas de manutenção da casa para eliminar o mosquito!](https://casa.abril.com.br/minha-casa/combate-a-dengue-dicas-de-manutencao-da-casa/) (Abril.com.br)
 
 - [Sivrisineğe dronlu çözüm](https://www.hurriyet.com.tr/dunya/sivrisinege-dronlu-cozum-42410711) (Hurriyet.com.tr)
-
-- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
-
-## 24-9 (yersinia)
-
-- [Як бубонна чума змінила імунну систему людини](https://www.bbc.com/ukrainian/articles/cl5llwlx51vo) (BBC News)
 
 ## 24-9 (typhoid)
 
@@ -276,8 +270,6 @@ Source: [News API](https://newsapi.org/)
 
 - [How vaccine hesitancy is contributing to rising rates of measles and COVID](https://www.pbs.org/newshour/show/how-vaccine-hesitancy-is-contributing-to-rising-rates-of-measles-and-covid) (PBS)
 
-- [Michigan reports first measles case since 2019 outbreak: What to know](https://www.clickondetroit.com/health/2024/02/25/michigan-reports-first-measles-case-since-2019-outbreak-what-to-know/) (WDIV ClickOnDetroit)
-
 ## 24-9 (malaria)
 
 - [Considerations for Rearing and Maintaining Anopheles in the Laboratory](https://cshprotocols.cshlp.org/content/2024/3/pdb.top107802.full?rss=1) (Cshlp.org)
@@ -307,12 +299,6 @@ Source: [News API](https://newsapi.org/)
 - [First DNA study of ancient Eastern Arabians reveals malaria adaptation](https://phys.org/news/2024-02-dna-ancient-eastern-arabians-reveals.html) (Phys.Org)
 
 - [Hårde anklager mod dansk rigmand: Skyld i eskaleret malariasmitte](https://www.bt.dk/udland/haarde-anklager-mod-dansk-rigmand-skyld-i-eskaleret-malariasmitte) (Www.bt.dk)
-
-- [Calcio: Fiorentina; Kouamé lascia l'ospedale e torna a casa](https://www.ansa.it/sito/notizie/sport/calcio/2024/02/25/calcio-fiorentina-kouame-lascia-lospedale-e-torna-a-casa_fbbb4cc8-cb31-455e-b813-db73d2da300e.html) (ANSA.it)
-
-- [Kouame con la malaria, il report della Fiorentina: "Dimesso dall'ospedale, sta migliorando"](https://www.tuttomercatoweb.com/serie-a/kouame-con-la-malaria-il-report-della-fiorentina-dimesso-dall-ospedale-sta-migliorando-1939399) (Tuttomercatoweb.com)
-
-- [Fiorentina confirm Kouame out of hospital after malaria diagnosis](https://football-italia.net/fiorentina-confirm-kouame-out-of-hospital-after-malaria-diagnosis/) (Football Italia)
 
 ## 24-9 (leptospirosis)
 
@@ -726,14 +712,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Game gratuito ‘Contra a Dengue’ estimula crianças a combater o Aedes aegypti](https://catracalivre.com.br/cidadania/game-gratuito-contra-a-dengue-estimula-criancas-a-combater-o-aedes-aegypti/) (Catracalivre.com.br)
 
-- [Un chico de 17 años infectado por dengue sufre una erección continúa de casi 20 horas](https://www.marca.com/tiramillas/actualidad/2024/02/25/65db5829ca47411c178b4571.html) (Marca)
-
-- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
-
-- [Week in pictures: Ukraine war anniversary to farmers’ protest in India](https://www.aljazeera.com/gallery/2024/2/25/week-in-pictures-ukraine-war-anniversary-to-farmers-protest-in-india) (Al Jazeera English)
-
-- [Vacinação contra dengue em BH deve começar nos próximos dias](https://noticias.r7.com/minas-gerais/vacinacao-contra-dengue-em-bh-deve-comecar-nos-proximos-dias-25022024) (R7.com)
-
 ## 24-9 (chikungunya)
 
 - [Epidemia de dengue: Com centenas de casos, Natal decreta situação de emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/03/02/epidemia-de-dengue-com-centenas-de-casos-natal-decreta-situacao-de-emergencia.ghtml) (Globo)
@@ -766,9 +744,11 @@ Source: [News API](https://newsapi.org/)
 
 - [A doença confundida com dengue que é mais mortífera do que se imaginava](https://www.bbc.com/portuguese/articles/cg3kr44npkyo) (BBC News)
 
-- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
-
 ## 24-15 (zika)
+
+- [Assessing and managing the risk of Aedes mosquito introductions via the global maritime trade network](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012110) (Plos.org)
+
+- [2024.4.10 (评论: 垂死的天鹅)](https://movie.douban.com/review/15868362/) (Douban.com)
 
 - [Investigan una nueva herramienta de diagnóstico más rápida y sencilla que una PCR](https://www.infosalus.com/asistencia/noticia-investigan-nueva-herramienta-diagnostico-mas-rapida-sencilla-pcr-20240410073149.html) (Infosalus.com)
 
@@ -781,6 +761,8 @@ Source: [News API](https://newsapi.org/)
 - [Vacina de DNA contra o zika apresenta bons resultados em testes com camundongos](https://gizmodo.uol.com.br/vacina-de-dna-contra-o-zika-apresenta-bons-resultados-em-testes-com-camundongos/) (Uol.com.br)
 
 ## 24-15 (sarampión)
+
+- [Nuevo aviso nacional de la Ssa frente a tres casos de sarampión registrados](https://www.jornada.com.mx/2024/04/10/politica/020n1pol) (Jornada.com.mx)
 
 - [México emite nueva alerta epidemiológica por virus de sarampión](https://www.eluniversal.com.co/mundo/mexico-emite-nueva-alerta-epidemiologica-por-virus-de-sarampion-CD10313919) (Eluniversal.com.co)
 
@@ -808,6 +790,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Universal Health Care: 5 years later](https://www.ibon.org/uhc-five-yrs/) (Ibon.org)
 
+## 24-15 (mpox)
+
+- [Labcorp receives FDA EUA for Mpox PCR Test Home Collection Kit](https://thefly.com/permalinks/entry.php/id3894783/LH-Labcorp-receives-FDA-EUA-for--Mpox-PCR-Test-Home-Collection-Kit) (Thefly.com)
+
+- [Labcorp Receives FDA Emergency Use Authorization for Mpox PCR Test Home Collection Kit](https://www.marketscreener.com/quote/stock/LABORATORY-CORPORATION-OF-13392/news/Labcorp-Receives-FDA-Emergency-Use-Authorization-for-Mpox-PCR-Test-Home-Collection-Kit-46403979/) (Marketscreener.com)
+
+- [Spalničky, záškrt i svrab. Po černém kašli v Česku přibývá dalších infekčních nemocí](https://www.idnes.cz/zpravy/domaci/cerny-kasel-spalnicky-nestovice-mpox-svrab-zaskrt-szu.A240410_094754_domaci_pari) (Idnes.cz)
+
 ## 24-15 (meningitis)
 
 - [Toddler dies after being released from hospital ‘so much worse’ than when he arrived](https://7news.com.au/news/sick-victorian-boy-who-later-died-was-so-much-worse-when-let-go-from-hospital-c-14238962) (7NEWS.com.au)
@@ -819,6 +809,10 @@ Source: [News API](https://newsapi.org/)
 - [Reaprender caminar con 33 años, la remontada de Ana: «De gripe A pasamos a meningitis con daño cerebral»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2024/04/06/reaprender-caminar-33-anos-remontada-ana-gripe-pasamos-meningitis-dano-cerebral/00031712408879932852228.htm) (Lavozdegalicia.es)
 
 ## 24-15 (measles)
+
+- [Detroit measles case confirmed in 4-year-old child](https://www.fox2detroit.com/news/detroit-measles-case-confirmed-in-4-year-old-child) (FOX 2 Detroit)
+
+- [Detroit child diagnosed with measles: View list of exposure sites](https://www.clickondetroit.com/health/2024/04/10/detroit-child-diagnosed-with-measles-view-list-of-exposure-sites/) (WDIV ClickOnDetroit)
 
 - [Tri-State doctors brace for impact as U.S. measles cases are on the rise](https://www.wsaz.com/2024/04/09/tri-state-doctors-brace-impact-us-measles-cases-are-rise/) (WSAZ-TV)
 
@@ -835,6 +829,10 @@ Source: [News API](https://newsapi.org/)
 - [Tuberculosis, measles break out in U.S. shelters for illegal aliens](https://www.wnd.com/2024/04/tuberculosis-measles-break-u-s-shelters-illegal-aliens/) (Wnd.com)
 
 ## 24-15 (malaria)
+
+- [Wolbachia infection-responsive immune genes suppress Plasmodium falciparum infection in Anopheles stephensi](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012145) (Plos.org)
+
+- [Diagnostic accuracy of DPP Fever Panel II Asia tests for tropical fever diagnosis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012077) (Plos.org)
 
 - [News24 | Discovery launches malaria benefits and funeral cover in seven African markets](https://www.news24.com/fin24/companies/discovery-launches-malaria-benefits-and-funeral-cover-in-seven-african-markets-20240410) (News24)
 
@@ -860,7 +858,35 @@ Source: [News API](https://newsapi.org/)
 
 - [Mystery As Navy Fires Commander of Biomedical Lab](https://www.newsweek.com/us-navy-namru-south-commander-fired-abigail-yablonsky-marter-1887951) (Newsweek)
 
+## 24-15 (leptospirosis)
+
+- [Severe leptospirosis in tropical and non-tropical areas: A comparison of two french, multicentre, retrospective cohorts](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012084) (Plos.org)
+
 ## 24-15 (dengue)
+
+- [Dengue: SP amplia vacinação; veja quem pode tomar](https://olhardigital.com.br/2024/04/10/medicina-e-saude/dengue-sp-amplia-vacinacao-veja-quem-pode-tomar/) (Olhardigital.com.br)
+
+- [Cuba prueba una técnica para reducir población del mosquito transmisor del dengue](https://www.montevideo.com.uy/Salud/Cuba-prueba-una-tecnica-para-reducir-poblacion-del-mosquito-transmisor-del-dengue-uc885100) (Montevideo.com.uy)
+
+- [SP atinge meio milhão de casos de dengue e 250 mortes pela doença](https://www.metropoles.com/sao-paulo/sp-atinge-meio-milhao-de-casos-de-dengue-e-250-mortes-pela-doenca) (Metropoles.com)
+
+- [SP: capital amplia vacinação contra dengue em todos os postos de saúde](https://saude.ig.com.br/2024-04-10/sao-paulo-amplia-vacinacao-dengue-criancas.html) (Ig.com.br)
+
+- [Si tuve dengue recientemente, ¿me puedo volver a contagiar?](https://www.lanacion.com.ar/sociedad/si-tuve-dengue-recientemente-me-puedo-volver-a-contagiar-nid10042024/) (La Nacion)
+
+- [Com mais quatro mortes no Vale do Sinos, RS se aproxima de recorde de óbitos por dengue](https://www.terra.com.br/noticias/com-mais-quatro-mortes-no-vale-do-sinos-rs-se-aproxima-de-recorde-de-obitos-por-dengue,7204b2ecab92d98e6f7e1339d6411a1c6zh2t33p.html) (Terra.com.br)
+
+- [Immer häufiger Dengue-Fieber in Berlin: So schützt man sich](https://www.morgenpost.de/bezirke/mitte/article242068566/Immer-haeufiger-Dengue-Fieber-in-Berlin-So-schuetzt-man-sich.html) (Berliner Morgenpost)
+
+- [Prefeitura de SP amplia vacinação contra a dengue para toda a cidade](https://www.metropoles.com/sao-paulo/prefeitura-sp-vacinacao-dengue) (Metropoles.com)
+
+- [Mehr Fälle: Denguefieber-Gefahr in Deutschland immer größer](https://www.morgenpost.de/vermischtes/article242067770/Mehr-Faelle-Denguefieber-Gefahr-in-Deutschland-immer-groesser.html) (Berliner Morgenpost)
+
+- [O que comer e não comer com dengue? Especialista revela](https://claudia.abril.com.br/saude/o-que-comer-e-nao-comer-com-dengue) (Abril.com.br)
+
+- [Tropenkrankheit eingeschleppt: Dengue-Fieber breitet sich in Deutschland aus](https://www.chip.de/news/Tropenkrankheit-eingeschleppt-Dengue-Fieber-breitet-sich-in-Deutschland-ausbr_185227061.html) (CHIP Online Deutschland)
+
+- [In Berlin - Mehr Denguefieber-Fälle – das sind die Symptome der „Knochenbrecherkrankheit“](https://www.focus.de/gesundheit/news/nach-deutschland-reisende-bringen-verstaerkt-denguefieber-mit-das-sind-die-symptome-der-knochenbrecherkrankheit_id_259840429.html) (Focus)
 
 - [Tropenkrankheit - Immer mehr Dengue-Fieber-Fälle in Deutschland](https://www.bild.de/ratgeber/2024/ratgeber/tropenkrankheit-immer-mehr-dengue-fieber-faelle-in-deutschland-87824590.bild.html) (Bild)
 
