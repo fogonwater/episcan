@@ -1,8 +1,314 @@
 {
-  "last_updated": "2024-04-10 19:05",
-  "count_articles_total": 1981,
+  "last_updated": "2024-04-11 07:06",
+  "count_articles_total": 2008,
   "count_articles_new": 18,
   "articles": [
+    {
+      "id": 8025,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Mara Pallokat",
+      "title": "Tropenkrankheit - Immer mehr Dengue-Fieber-F\u00e4lle in Deutschland",
+      "description": "Fieber, Hautausschlag, Schmerzen. Das Dengue-Fieber ist eine der meist gef\u00fcrchtetsten Tropenkrankheiten. In seltenen F\u00e4llen kommt es sogar zum Tod.",
+      "url": "https://www.bild.de/ratgeber/2024/ratgeber/tropenkrankheit-immer-mehr-dengue-fieber-faelle-in-deutschland-87824590.bild.html",
+      "urlToImage": "https://images.bild.de/661625178035ef3884f2c34d/d9ae0eaf7b525ba90e3cd47bb189362d,89a64362?w=1280",
+      "publishedAt": "2024-04-10 07:00:52",
+      "content": "Fieber, Hautausschlag, Kopf- und Gliederschmerzen. Das Dengue-Fieber ist eine der meist gef\u00fcrchtetsten Tropenkrankheiten. In seltenen F\u00e4llen kann es sogar zum Tod f\u00fchren. Schon 39 F\u00e4lle von Dengue-\u2026 [+1721 chars]",
+      "retrievedAt": "2024-04-11 07:06:16.096427",
+      "internal_id": "634212cc9475ea7666d1af632f6d66c983cc2509297ac835f5d8db14a82f8d34",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8017,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSAZ-TV",
+      "author": "Lesya Feinstein",
+      "title": "Tri-State doctors brace for impact as U.S. measles cases are on the rise",
+      "description": "Measles cases have spiked in the last three months to where we are now at triple-digit case numbers in the United States.",
+      "url": "https://www.wsaz.com/2024/04/09/tri-state-doctors-brace-impact-us-measles-cases-are-rise/",
+      "urlToImage": "https://gray-wsaz-prod.cdn.arcpublishing.com/resizer/v2/RB42IB5D6JGGFBWEAOV7IB4YQ4.jpg?auth=f890188b5d595b82d700ab9237af3a996117521483ef6ad0fbf384a28b47b5cf&width=1200&height=600&smart=true",
+      "publishedAt": "2024-04-10 06:58:03",
+      "content": "ASHLAND, Ky. (WSAZ) - Measles cases have spiked in the last three months to where we are now at triple-digit case numbers in the United States. The CDC is reporting around 113 cases of measles. None\u2026 [+1619 chars]",
+      "retrievedAt": "2024-04-11 07:06:15.316871",
+      "internal_id": "6c4812b3209a4d503f1d896d1f0513f489e9009b677db15bb11d1e27c5193997",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8031,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Garth Theunissen",
+      "title": "News24 | Discovery launches malaria benefits and funeral cover in seven African markets",
+      "description": "WHO data shows that Africa accounted for 233 million, or 94%, of global malaria cases in 2022 while the UN estimates it costs the continent about $12 billion a year due to healthcare costs, reduced worker productivity and lost investment.",
+      "url": "https://www.news24.com/fin24/companies/discovery-launches-malaria-benefits-and-funeral-cover-in-seven-african-markets-20240410",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3994/1ccac697f3c74d38b85c22cca37ac4c5.jpg",
+      "publishedAt": "2024-04-10 06:10:35",
+      "content": "Discovery has launched malaria benefits and funeral cover across the seven African markets in which it has been operating. It launched these businesses on the rest of the continent in early 2022. Vi\u2026 [+829 chars]",
+      "retrievedAt": "2024-04-11 07:06:16.610427",
+      "internal_id": "ffa111dc7612f33b3e8c859c36b35f46c4233e6167a826693373fca3b0d0b1ea",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8032,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Investigan una nueva herramienta de diagn\u00f3stico m\u00e1s r\u00e1pida y sencilla que una PCR",
+      "description": "Una nueva herramienta que combina optofluidos y nanoporos para realizar pruebas r\u00e1pidas logra resultados detecci\u00f3n de COVID-19 y virus Zika similares a la PCR pero de forma m\u00e1s r\u00e1pida y sencilla.",
+      "url": "https://www.infosalus.com/asistencia/noticia-investigan-nueva-herramienta-diagnostico-mas-rapida-sencilla-pcr-20240410073149.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240410073149_1200.jpg",
+      "publishedAt": "2024-04-10 05:31:49",
+      "content": "MADRID, 10 Abr. (EUROPA PRESS) - Una nueva herramienta que combina optofluidos y nanoporos para realizar pruebas r\u00e1pidas logra resultados detecci\u00f3n de COVID-19 y virus Zika similares a la PCR pero\u2026 [+5681 chars]",
+      "retrievedAt": "2024-04-11 07:06:16.935772",
+      "internal_id": "2080bd4456b3df10921721fee1a244b4a94541a170e4dba5ab31f8e08c39a5c5",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8023,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Gesundheit: Reisende bringen verst\u00e4rkt Denguefieber mit",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eGesundheit\u201c. Lesen Sie jetzt \u201eReisende bringen verst\u00e4rkt Denguefieber mit\u201c.",
+      "url": "https://www.zeit.de/news/2024-04/10/reisende-bringen-verstaerkt-denguefieber-mit",
+      "urlToImage": "https://img.zeit.de/news/2024-04/10/reisende-bringen-verstaerkt-denguefieber-mit-image-group/wide__1300x731",
+      "publishedAt": "2024-04-10 03:30:41",
+      "content": "In Berlin wurden in diesem Jahr bereits 39 best\u00e4tigte F\u00e4lle der Tropenkrankheit Denguefieber registriert. Das seien deutlich mehr als in der Zeit vor der Coronapandemie, hei\u00dft es im aktuellen Wochenb\u2026 [+2725 chars]",
+      "retrievedAt": "2024-04-11 07:06:16.060012",
+      "internal_id": "9c6c763c507ba4618dcf7a162d141e5e318588e8a28ca349950318486d0d46a0",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8024,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gesundheit: Reisende bringen verst\u00e4rkt Denguefieber mit",
+      "description": "In Berlin wurden in diesem Jahr vergleichsweise viele Denguefieber-F\u00e4lle gemeldet. Angesteckt haben sich die Menschen bislang in klassischen Denguefieber-Gebieten. Das k\u00f6nnte sich bald \u00e4ndern.",
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/gesundheit--reisende-bringen-verstaerkt-denguefieber-mit-34614126.html",
+      "urlToImage": "https://image.stern.de/34614128/t/iK/v1/w1440/r1.7778/-/10--urnnewsmldpacom2009010124041099620137v3w800h600l640t425r1920b1278jpeg---0235d17693505de1.jpg",
+      "publishedAt": "2024-04-10 03:30:41",
+      "content": "In Berlin wurden in diesem Jahr vergleichsweise viele Denguefieber-F\u00e4lle gemeldet. Angesteckt haben sich die Menschen bislang in klassischen Denguefieber-Gebieten. Das k\u00f6nnte sich bald \u00e4ndern. In Be\u2026 [+2231 chars]",
+      "retrievedAt": "2024-04-11 07:06:16.073919",
+      "internal_id": "6a3c92052c2cf97b9903ee2011e9a26334521b0e381f25a850e0a09f76491fb4",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8033,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "EFE",
+      "title": "Cuba adelanta t\u00e9cnicas para reducir poblaci\u00f3n de mosquito transmisor del dengue",
+      "description": "Cuba prob\u00f3 por segunda vez la t\u00e9cnica conocida como del \u201cinsecto est\u00e9ril\u201d dirigida a reducir la tasa de natalidad del mosquito Aedes aegypti, agente trasmisor de enfermedades como el dengue, el zika y el chikungu\u00f1a.",
+      "url": "https://www.eluniversal.com.co/mundo/cuba-adelanta-tecnicas-para-reducir-poblacion-de-mosquito-transmisor-del-dengue-HD10314030",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x687/229c0/800d686/none/13704/KMKD/cuba-adelanta-investigacion-contra-mosquitos-de-dengue-y-zika_9858114_20240409204916.jpg",
+      "publishedAt": "2024-04-10 01:49:11",
+      "content": "Cuba prob\u00f3 por segunda vez la t\u00e9cnica conocida como del insecto est\u00e9ril dirigida a reducir la tasa de natalidad del mosquito Aedes aegypti, agente trasmisor de enfermedades como el dengue, el zika y \u2026 [+1387 chars]",
+      "retrievedAt": "2024-04-11 07:06:16.946239",
+      "internal_id": "03c42929ad7d7122e3b700215e2c731d09a3430e0ac78cd4c10b6c25616bb4f6",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8016,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Households hit by measles outbreaks as Irish cases rise to 13, while 19 more suspected cases under investigation",
+      "description": "Two outbreaks of measles have been reported in private homes, with seven people infected as a result of the virus being passed on, it has emerged.",
+      "url": "https://www.independent.ie/irish-news/households-hit-by-measles-outbreaks-as-irish-cases-rise-to-13-while-19-more-suspected-cases-under-investigation/a1497890628.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/rOUD5jWCZIEznVqbdF8OrygumtQ=/60x0:735x450/629x0/prod-mh-ireland/3d9f0bc9-7c64-443a-8c1a-3f44301f4e9a/93d35931-b461-4bcb-9964-36cb5a4bd9e1/video/video.jpg",
+      "publishedAt": "2024-04-10 01:30:00",
+      "content": "Two outbreaks of measles have been reported in private homes, with seven people infected as a result of the virus being passed on, it has emerged.It comes as the number of confirmed cases in Ireland \u2026 [+2586 chars]",
+      "retrievedAt": "2024-04-11 07:06:15.272808",
+      "internal_id": "8077948bce7b57ce9d8a7af54331088474d32ca30ec7ead9a86c6eb610eec852",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8028,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "AFP, AFP",
+      "title": "Argentinos lutam para conseguir repelente em pior surto de dengue no pa\u00eds",
+      "description": "Espantar mosquitos com misturas de baunilha ou xampu barato s\u00e3o op\u00e7\u00f5es que se popularizam em Buenos Aires como alternativa ao repelente, um produto que se tornou escasso e caro quando o pa\u00eds sofre com sua pior epidemia de dengue, com 129 mortos...",
+      "url": "https://ultimosegundo.ig.com.br/afp/2024-04-09/argentinos-lutam-para-conseguir-repelente-em-pior-surto-de-dengue-no-pais.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6p/55/74/6p5574h9850cbpfn3betd31tp.jpg",
+      "publishedAt": "2024-04-10 01:26:37",
+      "content": "Luis ROBAYO Espantar mosquitos com misturas de baunilha ou xampu barato s\u00e3o op\u00e7\u00f5es que se popularizam em Buenos Aires como alternativa ao repelente, um produto que se tornou escasso e caro quando o p\u2026 [+3651 chars]",
+      "retrievedAt": "2024-04-11 07:06:16.134649",
+      "internal_id": "748ded986e9e1ab197ba2f6639d7e0aa413189f6a04b5be2cbc2b01c1a885adb",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8022,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "EFE",
+      "title": "M\u00e9xico emite nueva alerta epidemiol\u00f3gica por virus de sarampi\u00f3n",
+      "description": "La Secretar\u00eda de Salud (SSa) de M\u00e9xico emiti\u00f3 este martes un nuevo aviso epidemiol\u00f3gico a unidades m\u00e9dicas del sector p\u00fablico ante la detecci\u00f3n de m\u00e1s casos importados de sarampi\u00f3n.",
+      "url": "https://www.eluniversal.com.co/mundo/mexico-emite-nueva-alerta-epidemiologica-por-virus-de-sarampion-CD10313919",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/903x686/52c0/800d686/none/13704/CQWM/49195a4648fe320514057c3f156d4ecedbde8829_9858005_20240409200546.jpg",
+      "publishedAt": "2024-04-10 01:05:39",
+      "content": "La Secretar\u00eda de Salud (SSa) de M\u00e9xico emiti\u00f3 este martes un nuevo aviso epidemiol\u00f3gico a unidades m\u00e9dicas del sector p\u00fablico ante la detecci\u00f3n de m\u00e1s casos importados de sarampi\u00f3n. El aviso que pro\u2026 [+2907 chars]",
+      "retrievedAt": "2024-04-11 07:06:15.642715",
+      "internal_id": "5a31821dd0b74ab3769d550e944b96a8f01bb9412ab6c58446c026a61dd3f155",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8021,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Redacci\u00f3n",
+      "title": "Sarampi\u00f3n en M\u00e9xico: Salud alerta por nuevos casos importados, \u00bfc\u00f3mo y d\u00f3nde vacunar a los ni\u00f1os?",
+      "description": "La Secretar\u00eda de Salud alert\u00f3 de nuevos casos importados de sarampi\u00f3n en M\u00e9xico e hizo un llamado a la \"vacunaci\u00f3n intensiva\".",
+      "url": "https://www.elfinanciero.com.mx/salud/2024/04/09/sarampion-en-mexico-salud-alerta-por-nuevos-casos-importados-como-y-donde-vacunar-a-los-ninos/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/T7sWNMTXd72FivavNFglKgqDSMc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/J3WWG22HXBFP7NGGSFZ2FCLZVM.jpeg",
+      "publishedAt": "2024-04-10 00:56:43",
+      "content": "Tras la detecci\u00f3n de tres nuevos casos de sarampi\u00f3n importado en M\u00e9xico, la Secretar\u00eda de Salud (SSA) federal emiti\u00f3 este martes una alerta epidemiol\u00f3gica a todas las unidades m\u00e9dicas de primero, seg\u2026 [+4092 chars]",
+      "retrievedAt": "2024-04-11 07:06:15.639108",
+      "internal_id": "9b1d0eabc9b125e62e4207a67cbc1c26ad8f123b48ad2ea3cf00d3d808b8b1d1",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8018,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / ES",
+      "title": "Salud emite aviso epidemiol\u00f3gico por sarampi\u00f3n",
+      "description": "El prop\u00f3sito de este aviso es evitar la reintroducci\u00f3n del virus y garantizar el diagn\u00f3stico oportuno del mismo, se\u00f1ala Salud.",
+      "url": "https://aristeguinoticias.com/0904/mexico/salud-emite-aviso-epidemiologico-por-sarampion/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/02/unam-alerta-rebrote-sarampion-casos-vacuna-mexico-europa-estados-unidos-eu-09022024.jpg",
+      "publishedAt": "2024-04-10 00:36:22",
+      "content": "La Secretar\u00eda de Salud emiti\u00f3 este martes un nuevo aviso ante la detecci\u00f3n de casos importados de sarampi\u00f3n en M\u00e9xico. En M\u00e9xico, en el 2024 y hasta la semana 13, se han notificado un total de 859 c\u2026 [+3967 chars]",
+      "retrievedAt": "2024-04-11 07:06:15.624413",
+      "internal_id": "74a24a6286119c91af0f5334fbede4413e3967faa26aae3972e26d764e0e46cf",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8020,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Record.com.mx",
+      "author": "Record.com.mx",
+      "title": "\u00a1Atenci\u00f3n! La Ssa emite una alerta sobre el sarampi\u00f3n por 4 casos confirmados \u00a1y m\u00e1s de 800 sospechosos!",
+      "description": "La Secretar\u00eda de Salud ha emitido un aviso epidemiol\u00f3gico sobre el sarampi\u00f3n y ha instado a los padres a vacunar a sus hijos para asegurar que est\u00e9n protegidos",
+      "url": "https://www.record.com.mx/contra/atencion-la-ssa-emite-una-alerta-sobre-el-sarampion-por-4-casos-confirmados-y-mas-de-800",
+      "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/04/09/sarampion24.jpg",
+      "publishedAt": "2024-04-10 00:26:00",
+      "content": "LaSecretar\u00eda de Saludemiti\u00f3 un aviso epidemiol\u00f3gico por casos de sarampi\u00f3n importados y pide a las unidades m\u00e9dicas verificar el cumplimiento de las acciones de vigilancia y diagn\u00f3stico de estos caso\u2026 [+1873 chars]",
+      "retrievedAt": "2024-04-11 07:06:15.635072",
+      "internal_id": "4874f5c73b638f16657c6e8d728855aba67bc6a16c19d9da0198f7f03712f392",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8027,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Mar\u00eda N\u00f6llmann",
+      "title": "\u201cLlama la atenci\u00f3n\u201d: cu\u00e1l es la tasa de letalidad del dengue en la Argentina y qu\u00e9 advierten los expertos",
+      "description": "Seg\u00fan la Organizaci\u00f3n Panamericana de la Salud, la cantidad de muertes sobre los casos totales en el pa\u00eds es del 0,073%, mientras que en Brasil alcanza el 0,029%; los especialistas consultados indican que no hay causas precisas para explicar la suba de esta \u2026",
+      "url": "https://www.lanacion.com.ar/sociedad/llama-la-atencion-cual-es-la-tasa-de-letalidad-del-dengue-en-la-argentina-y-que-advierten-los-nid09042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-tasa-de-letalidad-en-el-pais-es-menor-que-la-S3JPAWMYHRDENE6Q76GQSY2MO4.jpg?auth=ea273d9864dfb28806178bede17b6b98a393721aefc196f023cbc6d6eca84657&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-09 22:40:39",
+      "content": "En Argentina, la tasa de letalidad del dengue ha ido en aumento en los \u00faltimos a\u00f1os. Seg\u00fan datos de la Organizaci\u00f3n Panamericana de la Salud, la cantidad de muertes por esta enfermedad sobre el total\u2026 [+5542 chars]",
+      "retrievedAt": "2024-04-11 07:06:16.122814",
+      "internal_id": "2ea1e8c5f69b6b18446701f33648d3ffee2dae83e69a16371e185f7ffd95585c",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 8019,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.mx",
+      "author": "Gonzalo Hern\u00e1ndez",
+      "title": "Aviso ante casos de sarampi\u00f3n en M\u00e9xico: estas son las recomendaciones de las autoridades para prevenirlo",
+      "description": "La Secretar\u00eda de Salud de M\u00e9xico ha emitido un nuevo aviso epidemiol\u00f3gico de sarampi\u00f3n en el pa\u00eds, a partir de la detecci\u00f3n de casos importados de esta enfermedad en el pa\u00eds. De acuerdo con las autoridades sanitarias, el prop\u00f3sito del aviso\u2026",
+      "url": "https://www.xataka.com.mx/medicina-y-salud/aviso-sarampion-mexico-estas-recomendaciones-autoridades-para-prevenirlo",
+      "urlToImage": "https://i.blogs.es/457a75/alerta-sarampion/840_560.jpeg",
+      "publishedAt": "2024-04-09 22:22:00",
+      "content": "La Secretar\u00eda de Salud de M\u00e9xicoha emitido un nuevo aviso epidemiol\u00f3gico de sarampi\u00f3n en el pa\u00eds, a partir de la detecci\u00f3n de casos importados de esta enfermedad en el pa\u00eds. De acuerdo con las aut\u2026 [+2354 chars]",
+      "retrievedAt": "2024-04-11 07:06:15.630175",
+      "internal_id": "861b84baa1928e99252bc74ee2046bd7855970d4751fc94edc5ac7235149c9f6",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 8026,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Brasil supera os 2,9 milh\u00f5es casos prov\u00e1veis de dengue",
+      "description": "No ano passado, o pa\u00eds registrou 1.649.144 casos prov\u00e1veis da doen\u00e7a e 1.179 mortes, segundo o Minist\u00e9rio da Sa\u00fade",
+      "url": "https://www.metropoles.com/brasil/brasil-supera-os-29-milhoes-casos-provaveis-de-dengue",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/02/21152254/dengue-5.jpg",
+      "publishedAt": "2024-04-09 20:43:50",
+      "content": "O Brasil registrou 2.965.988 casos prov\u00e1veis de dengue at\u00e9 esta ter\u00e7a-feira (9/4). Os dados est\u00e3o presentes no Painel de Monitoramento das Arboviroses, do Minist\u00e9rio da Sa\u00fade, com informes di\u00e1rios so\u2026 [+4421 chars]",
+      "retrievedAt": "2024-04-11 07:06:16.118746",
+      "internal_id": "fda92be8c3458eaf568802de52aee16ee7b0834d86675592f1b66e7793ebbc8d",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 8030,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Lola Bezerra se quebr\u00f3 al recordar a Victoria, pareja de Emilio \u201cPuma\u201d Dom\u00ednguez: \u201cPerd\u00ed a mi mejor amiga\u201d",
+      "description": "La mujer del reconocido golfista muri\u00f3 el 30 de marzo tras contagiarse de dengue y sufrir severas complicaciones en su estado de salud; ten\u00eda dos hijos",
+      "url": "https://www.lanacion.com.ar/espectaculos/lola-bezerra-se-quebro-al-recordar-a-victoria-pareja-de-emilio-puma-dominguez-perdi-a-mi-mejor-amiga-nid09042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/lola-bezerra-se-quebro-al-recordar-a-su-amiga-SH35PBFWBVC25DDYIUGSXIGGAM.png?auth=d3bf8ca34a13d5f6ad152fa524e2119dc855148c7af1bd467ca1e942ffe9d86f&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-09 19:53:56",
+      "content": "Lola Bezerra atraves\u00f3 un momento muy dif\u00edcil en los \u00faltimos d\u00edas, luego del fallecimiento de una de sus mejores amigas, Victoria de la Mota Claverie, pareja del reconocido golfista Emilio Puma Dom\u00edng\u2026 [+2786 chars]",
+      "retrievedAt": "2024-04-11 07:06:16.229876",
+      "internal_id": "07f8643245322a88758e9628119038764a424ff00cc36d041899ec6d788c8ca0",
+      "publishedAtLabel": "Apr 9"
+    },
     {
       "id": 8009,
       "query": [
@@ -19,6 +325,24 @@
       "content": "En medio de la epidemia de dengue que atraviesa la Argentina, todos buscan maneras de protegerse contra la picadura del Aedes aegypti. En este escenario, se comercializa la vacuna Qdenga, del laborat\u2026 [+5103 chars]",
       "retrievedAt": "2024-04-10 19:05:56.162073",
       "internal_id": "fef97ec7873253b30b01a76c361710b115f9de57ce5eff24d8010c48c42a16b9",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 8029,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Dar\u00edo Palavecino",
+      "title": "Alerta en la costa: detectaron el primer caso aut\u00f3ctono de dengue en Mar del Plata",
+      "description": "Se trata de un joven que no ten\u00eda antecedentes de viaje; las autoridades del municipio de General Pueyrred\u00f3n no tienen registrado hasta el momento la presencia del Aedes aegypti, el mosquito transmisor del virus",
+      "url": "https://www.lanacion.com.ar/sociedad/alerta-en-la-costa-detectaron-el-primer-caso-autoctono-de-dengue-en-mar-del-plata-nid09042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/en-mar-del-plata-antes-de-este-caso-solo-se-INENR6OJXVD6VKNXV647C4IYJY.JPG?auth=a3acf99d0615971810de7ec292598340b8c4c5cdb3b3732794d02c6bc4e3c47b&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-09 17:50:32",
+      "content": "MAR DEL PLATA.-Un hombre joven que no tiene antecedentes de haber salido de la ciudad en estos \u00faltimos tiempos se confirm\u00f3 como el primer caso aut\u00f3ctono de dengue en esta ciudad, seg\u00fan indicaron fuen\u2026 [+4015 chars]",
+      "retrievedAt": "2024-04-11 07:06:16.223042",
+      "internal_id": "014683232c3ec04f97f32f86db9029c05b75bcdcc9abc113f92d48202ac2d24c",
       "publishedAtLabel": "Apr 9"
     },
     {
@@ -35780,6 +36104,170 @@
       "content": "\u00daltimas not\u00edcias: O portal de jogos virtuais Ludo Educativo est\u00e1 relan\u00e7ando o jogo \u201cContra a Dengue 3 \u2013 No Mundo Digital\u201d devido ao crescente aumento dos casos da doen\u00e7a. O objetivo do game \u00e9 consci\u2026 [+1609 chars]",
       "retrievedAt": "2024-02-27 07:05:58.825392",
       "internal_id": "8be2d1e293437c7b38f445fcc5d7309cc0d394d8aaaa568dd58a368c2b059f6d",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6007,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Calcio: Fiorentina; Kouam\u00e9 lascia l'ospedale e torna a casa",
+      "description": "Christian Kouam\u00e9 ha lasciato l'ospedale dove era stato ricoverato qualche giorno fa dopo essere risultato positivo alla malaria al rientro dalla partecipazione alla Coppa d'Africa vinta dalla propria nazionale, la Costa d'Avorio. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/02/25/calcio-fiorentina-kouame-lascia-lospedale-e-torna-a-casa_fbbb4cc8-cb31-455e-b813-db73d2da300e.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2022/8/31/85c6b05aa7f841346be065de9f3f33e5.jpg",
+      "publishedAt": "2024-02-25 17:27:55",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-02-26 19:05:49.054960",
+      "internal_id": "497633451bc4a4fc12c418aa2909966d89abec3f02a13fcaacf2c16e6f89b521",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6005,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Giacomo Iacobellis",
+      "title": "Kouame con la malaria, il report della Fiorentina: \"Dimesso dall'ospedale, sta migliorando\"",
+      "description": "La Fiorentina ha diramato un comunicato riguardo a Christian Kouame. Le condizioni dell'attaccante viola, che ha contratto la malaria durante l'esperienza in Coppa d'Africa con la Nazionale della Cost",
+      "url": "https://www.tuttomercatoweb.com/serie-a/kouame-con-la-malaria-il-report-della-fiorentina-dimesso-dall-ospedale-sta-migliorando-1939399",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/c7/c721b91a1c4e35d1f688e9cd119f9426-09867-oooz0000.jpeg",
+      "publishedAt": "2024-02-25 16:41:03",
+      "content": "La Fiorentina ha diramato un comunicato riguardo a Christian Kouame. Le condizioni dell'attaccante viola, che ha contratto la malaria durante l'esperienza in Coppa d'Africa con la Nazionale della Cos\u2026 [+1080 chars]",
+      "retrievedAt": "2024-02-26 19:05:49.025654",
+      "internal_id": "b08f72ad97d31acb4da18ef288f0007fa0d3a62069a6d3e5597df2a91c48b775",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6006,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "football-italia",
+      "source_name": "Football Italia",
+      "author": "Susy Campanale",
+      "title": "Fiorentina confirm Kouame out of hospital after malaria diagnosis",
+      "description": "Fiorentina have announced that Ivory Coast international Christian Kouame has been released from hospital after undergoing treatment for malaria",
+      "url": "https://football-italia.net/fiorentina-confirm-kouame-out-of-hospital-after-malaria-diagnosis/",
+      "urlToImage": "https://icdn.football-italia.net/wp-content/uploads/2024/02/Christian-Kouame-Ivory-Coast.jpg",
+      "publishedAt": "2024-02-25 15:41:38",
+      "content": "Fiorentina have announced that Ivory Coast international Christian Kouame has been released from hospital after undergoing treatment for malaria. The forward had contracted the disease during his ti\u2026 [+1040 chars]",
+      "retrievedAt": "2024-02-26 19:05:49.038893",
+      "internal_id": "fe642d0dcde962b1301adf3cd2bbd4100bef3035aecac7e986fa673d2e5c7167",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6004,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "marca",
+      "source_name": "Marca",
+      "author": "marca.com",
+      "title": "Un chico de 17 a\u00f1os infectado por dengue sufre una erecci\u00f3n contin\u00faa de casi 20 horas",
+      "description": "El virus del dengue, conocido por causar erupciones cut\u00e1neas y hemorragias internas, ahora est\u00e1 siendo vinculado a un efecto inusual: erecciones prolongadas que pueden durar horas.",
+      "url": "https://www.marca.com/tiramillas/actualidad/2024/02/25/65db5829ca47411c178b4571.html",
+      "urlToImage": "https://phantom-marca.unidadeditorial.es/7eacf77eefc2c3a99a736f6738c286f1/resize/1200/f/webp/assets/multimedia/imagenes/2024/02/25/17088737565503.jpg",
+      "publishedAt": "2024-02-25 15:26:54",
+      "content": "El virus del dengue, conocido por causar erupciones cut\u00e1neas y hemorragias internas, ahora est\u00e1 siendo vinculado a un efecto inusual: erecciones prolongadas que pueden durar horas. Esto es algo que h\u2026 [+1894 chars]",
+      "retrievedAt": "2024-02-26 19:05:47.602172",
+      "internal_id": "2601545597dd2de1b8d7f63caf9e2cb63484968b2f84bbe3c22f267b6a899e71",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6009,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "http://www.facebook.com/bbcnews",
+      "title": "\u042f\u043a \u0431\u0443\u0431\u043e\u043d\u043d\u0430 \u0447\u0443\u043c\u0430 \u0437\u043c\u0456\u043d\u0438\u043b\u0430 \u0456\u043c\u0443\u043d\u043d\u0443 \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u043b\u044e\u0434\u0438\u043d\u0438",
+      "description": "\u0411\u0443\u0431\u043e\u043d\u043d\u0430 \u0447\u0443\u043c\u0430 \u0432\u0441\u0435 \u0449\u0435 \u0442\u0440\u0430\u043f\u043b\u044f\u0454\u0442\u044c\u0441\u044f \u0432 \u043e\u043a\u0440\u0435\u043c\u0438\u0445 \u043c\u0456\u0441\u0446\u044f\u0445 \u0417\u0435\u043c\u043b\u0456, \u0430\u043b\u0435 \u0437\u0430\u0432\u0434\u044f\u043a\u0438 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u043c \u0430\u043d\u0442\u0438\u0431\u0456\u043e\u0442\u0438\u043a\u0430\u043c \u0457\u0457 \u043d\u0430\u0431\u0430\u0433\u0430\u0442\u043e \u043b\u0435\u0433\u0448\u0435 \u043b\u0456\u043a\u0443\u0432\u0430\u0442\u0438, \u043d\u0456\u0436 \u0443 \u043c\u0438\u043d\u0443\u043b\u043e\u043c\u0443.",
+      "url": "https://www.bbc.com/ukrainian/articles/cl5llwlx51vo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/d71e/live/1f4f74e0-d0d0-11ee-8f28-259790e80bba.jpg",
+      "publishedAt": "2024-02-25 12:54:22",
+      "content": ", Getty images , , XIV , - Article informationAuthor, Role, BBC Future , , . . Yersinia pestis . . , . \" \" , . - , , , , . , , . . . . \" \", . , -\u2026 [+619 chars]",
+      "retrievedAt": "2024-02-26 19:05:50.924038",
+      "internal_id": "7dbedc866e666502a25adf9e342220926397eb4cf641f8be2be6321f047952de",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6008,
+      "query": [
+        "zika",
+        "chikungunya",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Pablo Nascimento, do R7",
+      "title": "Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH",
+      "description": "Unidade tamb\u00e9m ganhar\u00e1 uma espa\u00e7o para fazer hidrata\u00e7\u00e3o das pessoas infectadas com a doen\u00e7a, al\u00e9m de zika e chikungunya",
+      "url": "https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024",
+      "urlToImage": "https://img.r7.com/images/hospital-dengue-bh-25022024124035339?crop=703x395+66+0",
+      "publishedAt": "2024-02-25 12:44:00",
+      "content": "BH tem sete unidades exclusivas para casos de dengue Divulga\u00e7\u00e3o / PBH / Amira Hissa O CAA (Centro de Atendimento \u00e0s Arboviroses) da regional Barreiro, em Belo Horizonte, passar\u00e1 a funcionar 2\u2026 [+2126 chars]",
+      "retrievedAt": "2024-02-26 19:05:49.664325",
+      "internal_id": "4cb01ebc2bcedf553a6e65ab383a5edfbf092b777cc4916b17c698c7d8a6ac30",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6003,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Week in pictures: Ukraine war anniversary to farmers\u2019 protest in India",
+      "description": "A roundup of some of last week\u2019s events.",
+      "url": "https://www.aljazeera.com/gallery/2024/2/25/week-in-pictures-ukraine-war-anniversary-to-farmers-protest-in-india",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-02-24T091820Z_125958182_RC2I86AEXLP6_RTRMADP_3_UKRAINE-CRISIS-ANNIVERSARY-LVIV-1708855342.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-02-25 12:18:04",
+      "content": "From a dengue vaccination campaign in Brazil, a Buddhist ceremony in Thailand to antigovernment protests in India and Israel, here is the week in photos.",
+      "retrievedAt": "2024-02-26 19:05:47.583212",
+      "internal_id": "0fa8c6e200bd2f070e1a1a3e8a1a376e69a41d64476c78fd6fd097b7087226e8",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6016,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Pablo Nascimento, do R7",
+      "title": "Vacina\u00e7\u00e3o contra dengue em BH deve come\u00e7ar nos pr\u00f3ximos dias",
+      "description": "Crian\u00e7as de 10 e 11 anos devem ser as primeira a receber o imunizante pelo SUS; BH tem 49 mil doses do medicamento",
+      "url": "https://noticias.r7.com/minas-gerais/vacinacao-contra-dengue-em-bh-deve-comecar-nos-proximos-dias-25022024",
+      "urlToImage": "https://img.r7.com/images/vacina-dengue-25022024115952749?crop=1054x592+35+14",
+      "publishedAt": "2024-02-25 12:07:00",
+      "content": "Crian\u00e7as s\u00e3o priorit\u00e1rias para vacina da dengue Reprodu\u00e7\u00e3o / Ag\u00eancia Brasil / Fabio Rodrigues-Pozzebom A vacina\u00e7\u00e3o contra a dengue em Belo Horizonte pelo SUS (Sistema \u00danico de Sa\u00fade) deve co\u2026 [+2212 chars]",
+      "retrievedAt": "2024-02-27 07:05:58.849546",
+      "internal_id": "939ae91b77b35288aa4a13afdfb33f38e73be956fab2dfb541bd97a5812c36e7",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6061,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Kayla Clarke",
+      "title": "Michigan reports first measles case since 2019 outbreak: What to know",
+      "description": "Michigan reported its first case of measles since the 2019 outbreak. Here is a breakdown of what you should know about the virus.",
+      "url": "https://www.clickondetroit.com/health/2024/02/25/michigan-reports-first-measles-case-since-2019-outbreak-what-to-know/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2HKB7OK34FACXM24GBYTBTWBGA.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-02-25 10:34:55",
+      "content": "Michigan has reported its first case of measles since the 2019 outbreak. On Friday, Feb. 23, 2024, Michigan health officials said that a child in Oakland County has measles. The childs case is belie\u2026 [+3470 chars]",
+      "retrievedAt": "2024-02-28 07:05:53.754675",
+      "internal_id": "81d985ee6c481fb53207a6067568ca45f62c83cbeaf2251ad8c32f92bec2e9fe",
       "publishedAtLabel": "Feb 25"
     }
   ]
