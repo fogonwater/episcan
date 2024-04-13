@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-04-13 07:05
-- **Most recent article:** 2024-04-12 06:09:28
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-04-13 19:05
+- **Most recent article:** 2024-04-12 18:42:08
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 186 | 158 | 107 | 206 | 1210 |
-| measles | 86 | 112 | 87 | 44 | 36 | 23 | 77 | 465 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 14 | 17 | 107 |
-| zika | 16 | 16 | 12 | 21 | 11 | 8 | 11 | 95 |
-| chikungunya | 8 | 20 | 15 | 9 | 12 | 4 | 16 | 84 |
-| meningitis | 16 | 5 | 8 | 16 | 4 | 4 | 4 | 57 |
+| dengue | 192 | 181 | 180 | 186 | 158 | 116 | 202 | 1215 |
+| measles | 86 | 112 | 87 | 44 | 36 | 31 | 76 | 472 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 14 | 14 | 104 |
+| zika | 16 | 16 | 12 | 21 | 11 | 10 | 10 | 96 |
+| chikungunya | 8 | 20 | 15 | 9 | 12 | 6 | 15 | 85 |
+| meningitis | 16 | 5 | 8 | 16 | 4 | 6 | 4 | 59 |
 | rabies | 6 | 6 | 9 | 3 | 16 | 8 | 8 | 56 |
 | sarampión | 3 | 3 | 12 | 3 | 5 | 10 | 5 | 41 |
 | mpox | 5 | 8 | 4 | 6 | 12 | 3 | 1 | 39 |
 | pertussis | 4 | 5 | 3 | 6 | 7 | 8 | 4 | 37 |
-| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 1 | 12 |
+| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 0 | 11 |
 | leptospirosis | 0 | 1 | 0 | 0 | 1 | 1 | 2 | 5 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
 | typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 3 |
@@ -53,12 +53,6 @@ Source: [News API](https://newsapi.org/)
 - [Combate à dengue: 9 dicas de manutenção da casa para eliminar o mosquito!](https://casa.abril.com.br/minha-casa/combate-a-dengue-dicas-de-manutencao-da-casa/) (Abril.com.br)
 
 - [Sivrisineğe dronlu çözüm](https://www.hurriyet.com.tr/dunya/sivrisinege-dronlu-cozum-42410711) (Hurriyet.com.tr)
-
-- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
-
-## 24-9 (yersinia)
-
-- [Як бубонна чума змінила імунну систему людини](https://www.bbc.com/ukrainian/articles/cl5llwlx51vo) (BBC News)
 
 ## 24-9 (typhoid)
 
@@ -276,8 +270,6 @@ Source: [News API](https://newsapi.org/)
 
 - [How vaccine hesitancy is contributing to rising rates of measles and COVID](https://www.pbs.org/newshour/show/how-vaccine-hesitancy-is-contributing-to-rising-rates-of-measles-and-covid) (PBS)
 
-- [Michigan reports first measles case since 2019 outbreak: What to know](https://www.clickondetroit.com/health/2024/02/25/michigan-reports-first-measles-case-since-2019-outbreak-what-to-know/) (WDIV ClickOnDetroit)
-
 ## 24-9 (malaria)
 
 - [Considerations for Rearing and Maintaining Anopheles in the Laboratory](https://cshprotocols.cshlp.org/content/2024/3/pdb.top107802.full?rss=1) (Cshlp.org)
@@ -307,12 +299,6 @@ Source: [News API](https://newsapi.org/)
 - [First DNA study of ancient Eastern Arabians reveals malaria adaptation](https://phys.org/news/2024-02-dna-ancient-eastern-arabians-reveals.html) (Phys.Org)
 
 - [Hårde anklager mod dansk rigmand: Skyld i eskaleret malariasmitte](https://www.bt.dk/udland/haarde-anklager-mod-dansk-rigmand-skyld-i-eskaleret-malariasmitte) (Www.bt.dk)
-
-- [Calcio: Fiorentina; Kouamé lascia l'ospedale e torna a casa](https://www.ansa.it/sito/notizie/sport/calcio/2024/02/25/calcio-fiorentina-kouame-lascia-lospedale-e-torna-a-casa_fbbb4cc8-cb31-455e-b813-db73d2da300e.html) (ANSA.it)
-
-- [Kouame con la malaria, il report della Fiorentina: "Dimesso dall'ospedale, sta migliorando"](https://www.tuttomercatoweb.com/serie-a/kouame-con-la-malaria-il-report-della-fiorentina-dimesso-dall-ospedale-sta-migliorando-1939399) (Tuttomercatoweb.com)
-
-- [Fiorentina confirm Kouame out of hospital after malaria diagnosis](https://football-italia.net/fiorentina-confirm-kouame-out-of-hospital-after-malaria-diagnosis/) (Football Italia)
 
 ## 24-9 (leptospirosis)
 
@@ -726,14 +712,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Game gratuito ‘Contra a Dengue’ estimula crianças a combater o Aedes aegypti](https://catracalivre.com.br/cidadania/game-gratuito-contra-a-dengue-estimula-criancas-a-combater-o-aedes-aegypti/) (Catracalivre.com.br)
 
-- [Un chico de 17 años infectado por dengue sufre una erección continúa de casi 20 horas](https://www.marca.com/tiramillas/actualidad/2024/02/25/65db5829ca47411c178b4571.html) (Marca)
-
-- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
-
-- [Week in pictures: Ukraine war anniversary to farmers’ protest in India](https://www.aljazeera.com/gallery/2024/2/25/week-in-pictures-ukraine-war-anniversary-to-farmers-protest-in-india) (Al Jazeera English)
-
-- [Vacinação contra dengue em BH deve começar nos próximos dias](https://noticias.r7.com/minas-gerais/vacinacao-contra-dengue-em-bh-deve-comecar-nos-proximos-dias-25022024) (R7.com)
-
 ## 24-9 (chikungunya)
 
 - [Epidemia de dengue: Com centenas de casos, Natal decreta situação de emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/03/02/epidemia-de-dengue-com-centenas-de-casos-natal-decreta-situacao-de-emergencia.ghtml) (Globo)
@@ -766,9 +744,11 @@ Source: [News API](https://newsapi.org/)
 
 - [A doença confundida com dengue que é mais mortífera do que se imaginava](https://www.bbc.com/portuguese/articles/cg3kr44npkyo) (BBC News)
 
-- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
-
 ## 24-15 (zika)
+
+- [Dengue: descubren que los mosquitos pueden picar a través de la ropa](https://www.meneame.net/m/actualidad/dengue-descubren-mosquitos-pueden-picar-traves-ropa) (Meneame.net)
+
+- [Mosquito da dengue pode transmitir a febre oropouche?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-04-12/mosquito-da-dengue-pode-transmitir-a-febre-oropouche-.html) (Ig.com.br)
 
 - [Febre oropouche: o que é? Há riscos do Brasil enfrentar surto?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-04-11/febre-oropouche--o-que-e--ha-riscos-do-brasil-enfrentar-surto-.html) (Ig.com.br)
 
@@ -854,6 +834,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-15 (meningitis)
 
+- [In world first, Nigeria introduces new 5-in-1 vaccine against meningitis](https://www.who.int/news/item/12-04-2024-in-world-first--nigeria-introduces-new-5-in-1-vaccine-against-meningitis) (World Health Organization)
+
+- [Staffing better but 'not ideal' at hospital where toddler was discharged two days before he died](https://www.abc.net.au/news/2024-04-12/noah-souvatzis-coronial-inquiry-northeast-health-wangaratta/103681798) (ABC News (AU))
+
 - [Toddler dies after being released from hospital ‘so much worse’ than when he arrived](https://7news.com.au/news/sick-victorian-boy-who-later-died-was-so-much-worse-when-let-go-from-hospital-c-14238962) (7NEWS.com.au)
 
 - [US Officials Warn of Increase in Bacterial Illnesses That Could Be Deadly](https://learningenglish.voanews.com/a/us-officials-warn-of-increase-in-bacterial-illnesses-that-could-be-deadly/7551803.html) (VOA News)
@@ -863,6 +847,22 @@ Source: [News API](https://newsapi.org/)
 - [Reaprender caminar con 33 años, la remontada de Ana: «De gripe A pasamos a meningitis con daño cerebral»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2024/04/06/reaprender-caminar-33-anos-remontada-ana-gripe-pasamos-meningitis-dano-cerebral/00031712408879932852228.htm) (Lavozdegalicia.es)
 
 ## 24-15 (measles)
+
+- [US measles cases are up in 2024. What’s driving the increase?](https://www.bostonherald.com/2024/04/12/us-measles-cases-are-up-in-2024-whats-driving-the-increase/) (Boston Herald)
+
+- [Could U.S. Measles Cases Break a Record This Year? What to Know](https://www.webmd.com/children/news/20240412/us-measles-cases-record-what-to-know) (WebMD)
+
+- [Georgia health officials link third measles case to unvaccinated international traveler](https://www.foxnews.com/health/georgia-health-officials-link-third-measles-case-unvaccinated-international-traveler) (Fox News)
+
+- [Measles outbreak Illinois 2024: Virus spread has significantly subsided in city; officials say vaccine, testing helping](https://abc7chicago.com/measles-chicago-vaccine-outbreak-illinois-2024/14651178/) (WLS-TV)
+
+- [5 things to know for April 12: O.J. Simpson, Trump trial, Ukraine, Immigration, Measles | CNN](https://www.cnn.com/2024/04/12/us/5-things-to-know-for-april-12-o-j-simpson-trump-trial-ukraine-immigration-measles/index.html) (CNN)
+
+- [2024 sees rise in US measles cases: All you need to know](https://timesofindia.indiatimes.com/world/us/2024-sees-rise-in-us-measles-cases-all-you-need-to-know/articleshow/109247559.cms) (The Times of India)
+
+- [Georgia health officials confirm 3rd measles case in state](https://www.wsbtv.com/news/local/atlanta/georgia-health-officials-confirm-3rd-measles-case-state/RPW34QNTTFBYFBFILIPZ7ZU2VI/) (WSB Atlanta)
+
+- [Measles Is Back, and That’s Scary](https://www.scientificamerican.com/podcast/episode/measles-is-back-and-thats-scary/) (Scientific American)
 
 - [US measles cases are up in 2024. What’s driving the increase?](https://www.twincities.com/2024/04/11/us-measles-cases-are-up-in-2024-whats-driving-the-increase/) (TwinCities.com-Pioneer Press)
 
@@ -945,6 +945,24 @@ Source: [News API](https://newsapi.org/)
 - [Severe leptospirosis in tropical and non-tropical areas: A comparison of two french, multicentre, retrospective cohorts](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012084) (Plos.org)
 
 ## 24-15 (dengue)
+
+- [What you need to know about the latest outbreak of dengue fever](https://www.pbs.org/newshour/health/what-you-need-to-know-about-the-latest-outbreak-of-dengue-fever) (PBS)
+
+- [Mosquito da dengue pode picar por cima da roupa, revela estudo](https://www.terra.com.br/vida-e-estilo/saude/mosquito-da-dengue-pode-picar-por-cima-da-roupa-revela-estudo,a784e23424bd7dc3cc0b0b704cf162e9f4psys1b.html) (Terra.com.br)
+
+- [Dengue: mosquito pode picar até por cima da roupa](https://olhardigital.com.br/2024/04/12/medicina-e-saude/dengue-mosquito-pode-picar-ate-por-cima-da-roupa/) (Olhardigital.com.br)
+
+- [Dengue: descubren que los mosquitos pueden picar a través de la ropa](https://www.meneame.net/m/actualidad/dengue-descubren-mosquitos-pueden-picar-traves-ropa) (Meneame.net)
+
+- [Mosquito da dengue pode transmitir a febre oropouche?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-04-12/mosquito-da-dengue-pode-transmitir-a-febre-oropouche-.html) (Ig.com.br)
+
+- [Pesquisa aponta que 61% dos hospitais de SP registram alta de internações por dengue](https://valor.globo.com/brasil/noticia/2024/04/12/pesquisa-aponta-que-61percent-dos-hospitais-de-sp-registram-alta-de-internacoes-por-dengue.ghtml) (Globo)
+
+- [En Argentine : l’inaction du gouvernement face à l’épidémie de dengue](https://www.lalibre.be/international/amerique/2024/04/12/en-argentine-linaction-du-gouvernement-face-a-lepidemie-de-dengue-PXKDV7SYQVGVJKB744BBI4DCSQ/) (Lalibre.be)
+
+- [Brasil tem quase 70% dos casos de dengue da América Latina e Caribe](https://saude.ig.com.br/2024-04-12/brasil-tem-quase-70--dos-casos-de-dengue-da-america-latina-e-caribe.html) (Ig.com.br)
+
+- [Dengue e gripe tiveram (e terão) pesos diferentes nos balanços de empresas de saúde?](https://www.infomoney.com.br/mercados/a-dengue-e-gripe-tiveram-e-terao-pesos-diferentes-em-balancos-de-empresas-de-saude/) (InfoMoney)
 
 - [Verdreifachung der Dengue-Todesfälle in Peru](https://www.diepresse.com/18360161/verdreifachung-der-dengue-todesfaelle-in-peru) (Diepresse.com)
 
@@ -1161,6 +1179,10 @@ Source: [News API](https://newsapi.org/)
 - [Vacuna contra el dengue en Argentina: precio, quién puede recibirla, contraindicaciones y tiempo de efectividad](https://cnnespanol.cnn.com/2024/04/06/vacuna-dengue-argentina-precio-contraindicaciones-efectividad-orix/) (CNN)
 
 ## 24-15 (chikungunya)
+
+- [Dengue: descubren que los mosquitos pueden picar a través de la ropa](https://www.meneame.net/m/actualidad/dengue-descubren-mosquitos-pueden-picar-traves-ropa) (Meneame.net)
+
+- [Mosquito da dengue pode transmitir a febre oropouche?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-04-12/mosquito-da-dengue-pode-transmitir-a-febre-oropouche-.html) (Ig.com.br)
 
 - [Brasil registra mais de 3.350 casos de Febre do Oropouche](https://saude.ig.com.br/2024-04-11/brasil-tem-mais-de-3350-casos-de-febre-do-oropouche.html) (Ig.com.br)
 
