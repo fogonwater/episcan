@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-04-12 19:05
-- **Most recent article:** 2024-04-11 18:49:51
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-04-13 07:05
+- **Most recent article:** 2024-04-12 06:09:28
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 192 | 181 | 180 | 186 | 158 | 95 | 202 | 1194 |
-| measles | 86 | 112 | 87 | 44 | 36 | 18 | 76 | 459 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 14 | 14 | 104 |
-| zika | 16 | 16 | 12 | 21 | 11 | 8 | 10 | 94 |
-| chikungunya | 8 | 20 | 15 | 9 | 12 | 4 | 15 | 83 |
+| dengue | 192 | 181 | 180 | 186 | 158 | 107 | 206 | 1210 |
+| measles | 86 | 112 | 87 | 44 | 36 | 23 | 77 | 465 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 14 | 17 | 107 |
+| zika | 16 | 16 | 12 | 21 | 11 | 8 | 11 | 95 |
+| chikungunya | 8 | 20 | 15 | 9 | 12 | 4 | 16 | 84 |
 | meningitis | 16 | 5 | 8 | 16 | 4 | 4 | 4 | 57 |
-| rabies | 6 | 6 | 9 | 3 | 16 | 7 | 8 | 55 |
-| sarampión | 3 | 3 | 12 | 3 | 5 | 9 | 5 | 40 |
+| rabies | 6 | 6 | 9 | 3 | 16 | 8 | 8 | 56 |
+| sarampión | 3 | 3 | 12 | 3 | 5 | 10 | 5 | 41 |
 | mpox | 5 | 8 | 4 | 6 | 12 | 3 | 1 | 39 |
-| pertussis | 4 | 5 | 3 | 6 | 7 | 5 | 4 | 34 |
-| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 0 | 11 |
+| pertussis | 4 | 5 | 3 | 6 | 7 | 8 | 4 | 37 |
+| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 1 | 12 |
 | leptospirosis | 0 | 1 | 0 | 0 | 1 | 1 | 2 | 5 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
 | typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 3 |
@@ -53,6 +53,12 @@ Source: [News API](https://newsapi.org/)
 - [Combate à dengue: 9 dicas de manutenção da casa para eliminar o mosquito!](https://casa.abril.com.br/minha-casa/combate-a-dengue-dicas-de-manutencao-da-casa/) (Abril.com.br)
 
 - [Sivrisineğe dronlu çözüm](https://www.hurriyet.com.tr/dunya/sivrisinege-dronlu-cozum-42410711) (Hurriyet.com.tr)
+
+- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
+
+## 24-9 (yersinia)
+
+- [Як бубонна чума змінила імунну систему людини](https://www.bbc.com/ukrainian/articles/cl5llwlx51vo) (BBC News)
 
 ## 24-9 (typhoid)
 
@@ -270,6 +276,8 @@ Source: [News API](https://newsapi.org/)
 
 - [How vaccine hesitancy is contributing to rising rates of measles and COVID](https://www.pbs.org/newshour/show/how-vaccine-hesitancy-is-contributing-to-rising-rates-of-measles-and-covid) (PBS)
 
+- [Michigan reports first measles case since 2019 outbreak: What to know](https://www.clickondetroit.com/health/2024/02/25/michigan-reports-first-measles-case-since-2019-outbreak-what-to-know/) (WDIV ClickOnDetroit)
+
 ## 24-9 (malaria)
 
 - [Considerations for Rearing and Maintaining Anopheles in the Laboratory](https://cshprotocols.cshlp.org/content/2024/3/pdb.top107802.full?rss=1) (Cshlp.org)
@@ -299,6 +307,12 @@ Source: [News API](https://newsapi.org/)
 - [First DNA study of ancient Eastern Arabians reveals malaria adaptation](https://phys.org/news/2024-02-dna-ancient-eastern-arabians-reveals.html) (Phys.Org)
 
 - [Hårde anklager mod dansk rigmand: Skyld i eskaleret malariasmitte](https://www.bt.dk/udland/haarde-anklager-mod-dansk-rigmand-skyld-i-eskaleret-malariasmitte) (Www.bt.dk)
+
+- [Calcio: Fiorentina; Kouamé lascia l'ospedale e torna a casa](https://www.ansa.it/sito/notizie/sport/calcio/2024/02/25/calcio-fiorentina-kouame-lascia-lospedale-e-torna-a-casa_fbbb4cc8-cb31-455e-b813-db73d2da300e.html) (ANSA.it)
+
+- [Kouame con la malaria, il report della Fiorentina: "Dimesso dall'ospedale, sta migliorando"](https://www.tuttomercatoweb.com/serie-a/kouame-con-la-malaria-il-report-della-fiorentina-dimesso-dall-ospedale-sta-migliorando-1939399) (Tuttomercatoweb.com)
+
+- [Fiorentina confirm Kouame out of hospital after malaria diagnosis](https://football-italia.net/fiorentina-confirm-kouame-out-of-hospital-after-malaria-diagnosis/) (Football Italia)
 
 ## 24-9 (leptospirosis)
 
@@ -712,6 +726,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Game gratuito ‘Contra a Dengue’ estimula crianças a combater o Aedes aegypti](https://catracalivre.com.br/cidadania/game-gratuito-contra-a-dengue-estimula-criancas-a-combater-o-aedes-aegypti/) (Catracalivre.com.br)
 
+- [Un chico de 17 años infectado por dengue sufre una erección continúa de casi 20 horas](https://www.marca.com/tiramillas/actualidad/2024/02/25/65db5829ca47411c178b4571.html) (Marca)
+
+- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
+
+- [Week in pictures: Ukraine war anniversary to farmers’ protest in India](https://www.aljazeera.com/gallery/2024/2/25/week-in-pictures-ukraine-war-anniversary-to-farmers-protest-in-india) (Al Jazeera English)
+
+- [Vacinação contra dengue em BH deve começar nos próximos dias](https://noticias.r7.com/minas-gerais/vacinacao-contra-dengue-em-bh-deve-comecar-nos-proximos-dias-25022024) (R7.com)
+
 ## 24-9 (chikungunya)
 
 - [Epidemia de dengue: Com centenas de casos, Natal decreta situação de emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/03/02/epidemia-de-dengue-com-centenas-de-casos-natal-decreta-situacao-de-emergencia.ghtml) (Globo)
@@ -744,6 +766,8 @@ Source: [News API](https://newsapi.org/)
 
 - [A doença confundida com dengue que é mais mortífera do que se imaginava](https://www.bbc.com/portuguese/articles/cg3kr44npkyo) (BBC News)
 
+- [Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH](https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024) (R7.com)
+
 ## 24-15 (zika)
 
 - [Febre oropouche: o que é? Há riscos do Brasil enfrentar surto?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-04-11/febre-oropouche--o-que-e--ha-riscos-do-brasil-enfrentar-surto-.html) (Ig.com.br)
@@ -763,6 +787,8 @@ Source: [News API](https://newsapi.org/)
 - [Vacina de DNA contra o zika apresenta bons resultados em testes com camundongos](https://gizmodo.uol.com.br/vacina-de-dna-contra-o-zika-apresenta-bons-resultados-em-testes-com-camundongos/) (Uol.com.br)
 
 ## 24-15 (sarampión)
+
+- [Aumentan los casos de sarampión en EEUU](https://www.vozdeamerica.com/a/aumento-casos-sarampion-eeuu-/7566596.html) (Vozdeamerica.com)
 
 - [Edomex: para evitar contagios sarampión o rubéola autoridades piden vacunar a niños](https://aristeguinoticias.com/1104/mexico/edomex-para-evitar-contagios-sarampion-o-rubeola-autoridades-piden-vacunar-a-ninos/) (Aristeguinoticias.com)
 
@@ -784,6 +810,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-15 (rabies)
 
+- [Rabies awareness meeting in Balipara](https://thehillstimes.in/assam/rabies-awareness-meeting-in-balipara) (Thehillstimes.in)
+
 - [Victims of Dog-bites can Now Access Anti-rabies in Siaya Health Facilities](https://dalanews.co.ke/2024/04/11/victims-of-dog-bites-can-now-access-anti-rabies-in-siaya-health-facilities/) (Dalanews.co.ke)
 
 - [Internationally Classified ‘Rabies-Free’ Country Reports Fatal Case Of Human Rabies](https://dailycaller.com/2024/04/11/internationally-classified-rabies-free-country-reports-fatal-case-of-human-rabies/) (The Daily Caller)
@@ -799,6 +827,12 @@ Source: [News API](https://newsapi.org/)
 - [Expert backs Osun police on straying dogs, urges vaccination](https://punchng.com/expert-backs-osun-police-on-straying-dogs-urges-vaccination/) (The Punch)
 
 ## 24-15 (pertussis)
+
+- [Health experts eye newly reported cases of whooping cough in San Francisco](https://www.ktvu.com/news/health-experts-eye-newly-reported-cases-of-whooping-cough-in-san-francisco) (KTVU San Francisco)
+
+- [Iriga: 21 kaso ng pertussis nairehistro ng DOH Bicol](https://rpnradio.com/iriga-21-kaso-ng-pertussis-nairehistro-ng-doh-bicol/) (Rpnradio.com)
+
+- [Reemergence of Bordetella parapertussis, United States, 2019–2023](https://wwwnc.cdc.gov/eid/article/30/5/23-1278_article) (Cdc.gov)
 
 - [All you need to know about whooping cough as fatal outbreaks rise](https://timesofindia.indiatimes.com/world/rest-of-world/all-you-need-to-know-about-whooping-cough-as-fatal-outbreaks-rise/articleshow/109217751.cms) (The Times of India)
 
@@ -829,6 +863,16 @@ Source: [News API](https://newsapi.org/)
 - [Reaprender caminar con 33 años, la remontada de Ana: «De gripe A pasamos a meningitis con daño cerebral»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2024/04/06/reaprender-caminar-33-anos-remontada-ana-gripe-pasamos-meningitis-dano-cerebral/00031712408879932852228.htm) (Lavozdegalicia.es)
 
 ## 24-15 (measles)
+
+- [US measles cases are up in 2024. What’s driving the increase?](https://www.twincities.com/2024/04/11/us-measles-cases-are-up-in-2024-whats-driving-the-increase/) (TwinCities.com-Pioneer Press)
+
+- [Rise in Measles Cases Prompts CDC Warning](https://www.newser.com/story/348928/rise-in-measles-cases-prompts-cdc-warning.html) (Newser)
+
+- [Measles could once again become endemic in the US, the CDC warns (Beth Mole/Ars Technica)](https://www.memeorandum.com/240411/p75) (Memeorandum.com)
+
+- [Emerging Cases Of Measles Threaten Its Elimination Status, CDC Says](https://dailycaller.com/2024/04/11/emerging-cases-measles-warning-study-cdc-morbidity-mortality-weekly-report/) (The Daily Caller)
+
+- [US measles cases are up in 2024. What's driving the increase?](https://www.foxnews.com/us/us-measles-cases-2024-whats-driving-increase) (Fox News)
 
 - [US measles cases are up in 2024. What's driving the increase?](https://www.wsls.com/health/2024/04/11/us-measles-cases-are-up-in-2024-whats-driving-the-increase/) (WSLS 10)
 
@@ -902,15 +946,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-15 (dengue)
 
+- [Verdreifachung der Dengue-Todesfälle in Peru](https://www.diepresse.com/18360161/verdreifachung-der-dengue-todesfaelle-in-peru) (Diepresse.com)
+
+- [Peru's dengue deaths triple as climate change swells mosquito population](https://timesofindia.indiatimes.com/world/rest-of-world/perus-dengue-deaths-triple-as-climate-change-swells-mosquito-population/articleshow/109232051.cms) (The Times of India)
+
+- [Espírito Santo do Pinhal confirma segunda morte por dengue em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/11/espirito-santo-do-pinhal-confirma-segunda-morte-por-dengue-em-2024.ghtml) (Globo)
+
 - [Brasil já tem mais de 3 milhões de casos de dengue em 2024, quase o dobro de 2023](https://www.terra.com.br/vida-e-estilo/saude/brasil-ja-tem-mais-de-3-milhoes-de-casos-de-dengue-em-2024-quase-o-dobro-de-2023,6e6341239d9c488a15d79ca2bc4f4b2f2ut7en5s.html) (Terra.com.br)
+
+- [¿Qué secuelas deja el dengue?](https://www.lanacion.com.ar/sociedad/que-secuelas-deja-el-dengue-nid11042024/) (La Nacion)
+
+- [Si ya tuve dengue, ¿cuánto tengo que esperar para vacunarme?](https://www.lanacion.com.ar/sociedad/si-ya-tuve-dengue-cuanto-tengo-que-esperar-para-vacunarme-nid11042024/) (La Nacion)
 
 - [Dengue: Brasil chega a 3 milhões de casos em 2024](https://olhardigital.com.br/2024/04/11/medicina-e-saude/dengue-brasil-chega-a-3-milhoes-de-casos-em-2024/) (Olhardigital.com.br)
 
+- [Surto de dengue acende alerta para cuidados com piscinas](https://www.terra.com.br/noticias/surto-de-dengue-acende-alerta-para-cuidados-com-piscinas,381c2d5a8451fd0e0ee4544f160ff8155nqb43fa.html) (Terra.com.br)
+
 - [Argentina: El dengue hace estragos y el Estado, ausente](https://aristeguinoticias.com/1104/mundo/argentina-el-dengue-hace-estragos-y-el-estado-ausente/) (Aristeguinoticias.com)
+
+- [Brasil registra mais de 3.350 casos de Febre do Oropouche](https://saude.ig.com.br/2024-04-11/brasil-tem-mais-de-3350-casos-de-febre-do-oropouche.html) (Ig.com.br)
+
+- [Febre oropouche: o que é? Há riscos do Brasil enfrentar surto?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-04-11/febre-oropouche--o-que-e--ha-riscos-do-brasil-enfrentar-surto-.html) (Ig.com.br)
 
 - [Tenda de acolhimento 24 horas para dengue começa a funcionar no Guará](https://www.metropoles.com/distrito-federal/tenda-de-acolhimento-24-horas-para-dengue-comeca-a-funcionar-no-guara) (Metropoles.com)
 
 - [Revelan que el gobierno desoyó a los especialistas y postergó la vacuna del dengue](https://www.periodismo.com/2024/04/11/revelan-que-el-gobierno-desoyo-a-los-especialistas-y-postergo-la-vacuna-del-dengue/) (Periodismo.com)
+
+- [Mortes por dengue batem recorde no país](https://valor.globo.com/impresso/noticia/2024/04/11/mortes-por-dengue-batem-recorde-no-pais.ghtml) (Globo)
 
 - [Qué reparos tiene el Gobierno argentino sobre la vacuna contra el dengue](https://www.meneame.net/m/actualidad/reparos-tiene-gobierno-argentino-sobre-vacuna-contra-dengue) (Meneame.net)
 
@@ -923,6 +985,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue avança no DF e número de mortes sobe para 234](https://www.metropoles.com/distrito-federal/dengue-avanca-no-df-e-numero-de-mortes-sobe-para-234) (Metropoles.com)
 
 - [Dengue: mais de 3 milhões de casos foram registrados em 2024](https://saude.ig.com.br/2024-04-10/dengue-brasil-3-milhoes-casos.html) (Ig.com.br)
+
+- [Prefeitura de SP amplia vacinação contra dengue em crianças para todas as unidades básicas](https://valor.globo.com/brasil/noticia/2024/04/10/prefeitura-de-sp-amplia-vacinacao-contra-dengue-em-criancas-para-todas-as-unidades-basicas.ghtml) (Globo)
+
+- [Dengue em Campinas: tudo o que você precisa saber sobre o início da vacinação a partir desta quinta](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/10/dengue-em-campinas-tudo-o-que-voce-precisa-saber-sobre-o-inicio-da-vacinacao-a-partir-desta-quinta.ghtml) (Globo)
 
 - [Argentina sofre com escassez de repelente em meio a surto de dengue](https://www.metropoles.com/mundo/argentina-sofre-com-escassez-de-repelente-em-meio-a-surto-de-dengue) (Metropoles.com)
 
@@ -957,6 +1023,8 @@ Source: [News API](https://newsapi.org/)
 - [Mehr Fälle: Denguefieber-Gefahr in Deutschland immer größer](https://www.morgenpost.de/vermischtes/article242067770/Mehr-Faelle-Denguefieber-Gefahr-in-Deutschland-immer-groesser.html) (Berliner Morgenpost)
 
 - [O que comer e não comer com dengue? Especialista revela](https://claudia.abril.com.br/saude/o-que-comer-e-nao-comer-com-dengue) (Abril.com.br)
+
+- [Dengue em Campinas: Saúde prevê pico de transmissão na 2ª quinzena e diz que não se deve ter 'falsa sensação de segurança'](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/10/dengue-em-campinas-saude-preve-pico-de-transmissao-na-2a-quinzena-e-diz-que-nao-se-deve-ter-falsa-sensacao-de-seguranca.ghtml) (Globo)
 
 - [Tropenkrankheit eingeschleppt: Dengue-Fieber breitet sich in Deutschland aus](https://www.chip.de/news/Tropenkrankheit-eingeschleppt-Dengue-Fieber-breitet-sich-in-Deutschland-ausbr_185227061.html) (CHIP Online Deutschland)
 

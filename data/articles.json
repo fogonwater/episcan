@@ -1,8 +1,242 @@
 {
-  "last_updated": "2024-04-12 19:05",
-  "count_articles_total": 2060,
-  "count_articles_new": 22,
+  "last_updated": "2024-04-13 07:05",
+  "count_articles_total": 2089,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 8096,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "KTVU San Francisco",
+      "author": "Zak Sos",
+      "title": "Health experts eye newly reported cases of whooping cough in San Francisco",
+      "description": "Health experts are once again eyeing the spread of Pertussis, also known as whooping cough, in the Bay Area; this time in San Francisco, where more than a dozen cases have been reported since January, including at a Catholic high school in the city.",
+      "url": "https://www.ktvu.com/news/health-experts-eye-newly-reported-cases-of-whooping-cough-in-san-francisco",
+      "urlToImage": "https://images.foxtv.com/m107833-mcdn.mp.lura.live/iupl/DAF/683/1280/720/DAF683D231D48C8F7AC989D0C2126919.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=qQBf6zX95L1FWTHtgTAHh2TH_uU&ve=1&tl=1",
+      "publishedAt": "2024-04-12 06:09:28",
+      "content": "SAN FRANCISCO - Health experts are once again eyeing the spread of Pertussis, also known as whooping cough, in the Bay Area; this time in San Francisco, where more than a dozen cases have been report\u2026 [+2459 chars]",
+      "retrievedAt": "2024-04-13 07:05:50.549022",
+      "internal_id": "ac23c5764bfdd8c3411f8f3c9af970e29e3548591e069f28bc9fb0b47d114976",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 8097,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Radyo Ronda",
+      "title": "Iriga: 21 kaso ng pertussis nairehistro ng DOH Bicol",
+      "description": "21 na kaso ng nakahahawang sakit na pertussis ang nairehistro ng Department of Health (DOH) simula Enero 1 hanggang Abril 7, 2024. Siyam (9) na kaso ng sakit ang naitala mula sa Camarines Sur, anim (6) sa Albay, lima (5) sa Sorsogon at isa (1) sa Masbate, ayo\u2026",
+      "url": "https://rpnradio.com/iriga-21-kaso-ng-pertussis-nairehistro-ng-doh-bicol/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2022/03/feat-iriga.png",
+      "publishedAt": "2024-04-12 05:23:49",
+      "content": "21 na kaso ng nakahahawang sakit na pertussis ang nairehistro ng Department of Health (DOH) simula Enero 1 hanggang Abril 7, 2024. Siyam (9) na kaso ng sakit ang naitala mula sa Camarines Sur, anim \u2026 [+872 chars]",
+      "retrievedAt": "2024-04-13 07:05:50.556807",
+      "internal_id": "a6162bc6beebd3a62e63eb5301dff01ff92c41b7965bd3410d3a89beb1c51b71",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 8105,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Verdreifachung der Dengue-Todesf\u00e4lle in Peru",
+      "description": "Die das Dengue-Fieber \u00fcbertragende Gelse hat sich schnell an die neuen klimatischen Gegebenheiten angepasst; mit dramatischen Auswirkungen. Die Zahl der Todesf\u00e4lle in Peru hat sich in diesem Jahr bereits verdreifacht.",
+      "url": "https://www.diepresse.com/18360161/verdreifachung-der-dengue-todesfaelle-in-peru",
+      "urlToImage": "https://img.diepresse.com/public/incoming/ta4br9-BRAZIL-DENGUE/alternates/DPR_SOCIAL_NACHRICHTEN/BRAZIL-DENGUE",
+      "publishedAt": "2024-04-12 04:48:00",
+      "content": "Die das Dengue-Fieber \u00fcbertragende Gelse hat sich schnell an die neuen klimatischen Gegebenheiten angepasst; mit dramatischen Auswirkungen. Die Zahl der Todesf\u00e4lle in Peru hat sich in diesem Jahr ber\u2026 [+1121 chars]",
+      "retrievedAt": "2024-04-13 07:05:51.640910",
+      "internal_id": "76f90b86e80de881f2bb4a840b2ae03ba8c83fb7fff05b14ece312193dc2259c",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 8103,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TwinCities.com-Pioneer Press",
+      "author": "Devi Shastri",
+      "title": "US measles cases are up in 2024. What\u2019s driving the increase?",
+      "description": "There have been 17 times as many U.S. measles cases in the first three months of this year compared with the average number seen in the first three months of the previous three years.",
+      "url": "https://www.twincities.com/2024/04/11/us-measles-cases-are-up-in-2024-whats-driving-the-increase/",
+      "urlToImage": "https://www.twincities.com/wp-content/uploads/2024/03/GettyImages-1139499582.jpg?w=1024&h=682",
+      "publishedAt": "2024-04-12 04:09:05",
+      "content": "Measles outbreaks in the U.S. and abroad are raising health experts concern about the preventable, once-common childhood virus. One of the worlds most contagious diseases, measles can lead to potent\u2026 [+3991 chars]",
+      "retrievedAt": "2024-04-13 07:05:50.991354",
+      "internal_id": "d1826f238538170c2d9ae3ecc675843b26b2a02f26dd45d4478a8027e43a1a09",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 8095,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Reemergence of Bordetella parapertussis, United States, 2019\u20132023",
+      "description": "Reemergence of Bordetella parapertussis, United States, 2019\u20132023",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/5/23-1278_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-04-12 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Whooping cough is a highly\u2026 [+5780 chars]",
+      "retrievedAt": "2024-04-13 07:05:50.525776",
+      "internal_id": "1055987d9b3495bfe8fcd92e33d8386060f058db21b6fd853c7841ce5ac8052f",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 8106,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Peru's dengue deaths triple as climate change swells mosquito population",
+      "description": "The government of President Dina Boluarte this week said it had approved an \"emergency decree\" allowing extraordinary economic measures to bolster the plan to counter the outbreak, which experts say is exacerbated by climate change. Deaths caused by the mosqu\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/perus-dengue-deaths-triple-as-climate-change-swells-mosquito-population/articleshow/109232051.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109232136,width-1070,height-580,imgsize-958122,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-04-12 03:13:23",
+      "content": "Baby names inspired by nebula, galaxy and outer space",
+      "retrievedAt": "2024-04-13 07:05:51.699941",
+      "internal_id": "a898d72a456869c14ca18d47a4083411b4cb2c98e4813e5fb6296e0a78a4eab9",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 8101,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Bob Cronin",
+      "title": "Rise in Measles Cases Prompts CDC Warning",
+      "description": "An increase in the spread of measles has the Centers for Disease Control and Prevention concerned about whether the disease will no longer be considered eliminated in the US. The number of cases recorded in the first quarter of this year equals about 30% of t\u2026",
+      "url": "https://www.newser.com/story/348928/rise-in-measles-cases-prompts-cdc-warning.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1528780-12-20240411194432.jpeg",
+      "publishedAt": "2024-04-12 00:15:00",
+      "content": "The agency's report says the rise in cases \"represents a renewed threat to elimination.\" It calls for greater \"routine measles, mumps, and rubella vaccination coverage\"\u2014one dose covers all three\u2014sayi\u2026 [+940 chars]",
+      "retrievedAt": "2024-04-13 07:05:50.968177",
+      "internal_id": "107db338e0376fdf47e8fa38a39639b98df5937afc2f9a4d4988ab19c57aa0e6",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 8098,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Rabies awareness meeting in Balipara",
+      "description": "HT Correspondent TEZPUR, April 11: In response to the number of rabies cases reported in cattle and a confirmed case of rabies in cattle recorded under Block Veterinary Dispensary, Balipara, at Pakbil village on April 2 last, an awareness meeting on rabies wa\u2026",
+      "url": "https://thehillstimes.in/assam/rabies-awareness-meeting-in-balipara",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2024/04/Rabies-awareness-meeting-in-Balipara.jpg",
+      "publishedAt": "2024-04-12 00:00:14",
+      "content": "HT Correspondent TEZPUR, April 11: In response to the number of rabies cases reported in cattle and a confirmed case of rabies in cattle recorded under Block Veterinary Dispensary, Balipara, at Pakb\u2026 [+2170 chars]",
+      "retrievedAt": "2024-04-13 07:05:50.697096",
+      "internal_id": "6a6baaa063f5121849a564ffa32025d337aebdd0e1a90f2931d1aa9a90c4ed99",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 8104,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (Associated Press)",
+      "title": "Aumentan los casos de sarampi\u00f3n en EEUU",
+      "description": "Los casos de sarampi\u00f3n aumentaron en un mes en EEUU, seg\u00fan informe de las autoridades sanitarias. Populosas ciudades como Nueva York, Filadelfia y Chicago se encuentran entre los lugares de incidencia del virus.",
+      "url": "https://www.vozdeamerica.com/a/aumento-casos-sarampion-eeuu-/7566596.html",
+      "urlToImage": "https://gdb.voanews.com/79170d4c-9a3c-444a-a02d-4cd7bf794c63_w1200_r1.jpg",
+      "publishedAt": "2024-04-11 23:55:09",
+      "content": "Los brotes de sarampi\u00f3n en Estados Unidos y el extranjero est\u00e1n generando preocupaci\u00f3n entre los expertos de salud acerca de este virus prevenible, el cual sol\u00eda ser com\u00fan en la infancia. El sarampi\u2026 [+1908 chars]",
+      "retrievedAt": "2024-04-13 07:05:51.376270",
+      "internal_id": "3ec39882cd6bd937d3eaa61e6c1ac8b3ecbeaa3e0cd7b91280f0a2d582eb27c1",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
+      "id": 8111,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Esp\u00edrito Santo do Pinhal confirma segunda morte por dengue em 2024",
+      "description": "V\u00edtima \u00e9 uma mulher, de 35 anos, moradora do bairro S\u00e3o Judas Tadeu. Com o novo registro, regi\u00e3o de Campinas (SP) soma 14 \u00f3bitos pela doen\u00e7a. Esp\u00edrito Santo do Pinhal confirma segunda morte por dengue em 2024 A Prefeitura de Esp\u00edrito Santo do Pinhal (SP) conf\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/11/espirito-santo-do-pinhal-confirma-segunda-morte-por-dengue-em-2024.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/qLptL4CLhoxtT7oBKeF4rwp7wdg=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/12511605.jpg",
+      "publishedAt": "2024-04-11 23:32:30",
+      "content": "Segundo a administra\u00e7\u00e3o municipal, a v\u00edtima \u00e9 uma mulher, de 35 anos, que residia no bairro S\u00e3o Judas Tadeu. Ela apresentou os primeiros sintomas no dia 18 de mar\u00e7o e morreu oito dias depois. 1 de \u2026 [+2051 chars]",
+      "retrievedAt": "2024-04-13 07:05:51.794912",
+      "internal_id": "94a86fd1d3da43566fe14940c6b8766c06a5c11c13d850cf380f0f502ba3776c",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
+      "id": 8100,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Measles could once again become endemic in the US, the CDC warns (Beth Mole/Ars Technica)",
+      "description": "Beth Mole / Ars Technica: Measles could once again become endemic in the US, the CDC warns \u2014 This year's measles cases are over 17x higher than cases seen in the first quarters of 2000 to 2023. \u2014 In 2000, after a decadeslong public health battle and a Her\u2026",
+      "url": "https://www.memeorandum.com/240411/p75",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-623545538-760x380.jpeg",
+      "publishedAt": "2024-04-11 22:50:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-04-13 07:05:50.957228",
+      "internal_id": "3f8ce673c9a622049723cd1ebf1907605e12e41279ad85af9636ee3004c1e906",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
+      "id": 8099,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "John Oyewale",
+      "title": "Emerging Cases Of Measles Threaten Its Elimination Status, CDC Says",
+      "description": "A highly infectious disease declared eliminated in the U.S. at the turn of the century threatens to reestablish itself in the country after recent outbreaks.",
+      "url": "https://dailycaller.com/2024/04/11/emerging-cases-measles-warning-study-cdc-morbidity-mortality-weekly-report/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/01/shutterstock_2219506669-scaled-e1704978653302.jpg",
+      "publishedAt": "2024-04-11 21:26:07",
+      "content": "A highly infectious disease declared eliminated in the U.S. at the turn of the century threatens to reestablish itself in the country following recent outbreaks, the Centers for Disease Control and P\u2026 [+2947 chars]",
+      "retrievedAt": "2024-04-13 07:05:50.952639",
+      "internal_id": "285ba5b0bc2432d02d2aa9745156ad6761ad48843b94a7931de4fe19a779bd61",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
+      "id": 8102,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Associated Press",
+      "title": "US measles cases are up in 2024. What's driving the increase?",
+      "description": "The number of U.S cases of measles, one of the world's most contagious diseases which can lead to serious complications, are so far this year nearly double the total case count for all of last year.",
+      "url": "https://www.foxnews.com/us/us-measles-cases-2024-whats-driving-increase",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Measles-Explainer.gif",
+      "publishedAt": "2024-04-11 19:55:22",
+      "content": "The U.S. Centers of Disease Control and Prevention documented 113 cases of measles so far this year in the U.S.The number of cases in the first three months of this year is 17 times \u2026 [+4130 chars]",
+      "retrievedAt": "2024-04-13 07:05:50.983804",
+      "internal_id": "8a76f5996b1bb7738941002bfc4ad808299bc349df0274da9405334f1ddaef12",
+      "publishedAtLabel": "Apr 11"
+    },
     {
       "id": 8083,
       "query": [
@@ -55,6 +289,42 @@
       "content": "O Brasil j\u00e1 registrou, desde o in\u00edcio do ano, 3.062.181 casos prov\u00e1veis de dengue. O n\u00famero j\u00e1 \u00e9 quase o dobro de todo o ano passado, quando foram detectados 1,6 milh\u00e3o de casos. Desde o in\u00edcio do \u2026 [+1126 chars]",
       "retrievedAt": "2024-04-12 19:05:44.562121",
       "internal_id": "758cef5f6c340ab54c36d44215dc5e4543a3edd10e8ac35b9c0168271ad7f185",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
+      "id": 8108,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "\u00bfQu\u00e9 secuelas deja el dengue?",
+      "description": "Los expertos se\u00f1alan que hay algunos casos en que los s\u00edntomas y consecuencias de la enfermedad pueden prolongarse m\u00e1s all\u00e1 de la duraci\u00f3n del cuadro viral",
+      "url": "https://www.lanacion.com.ar/sociedad/que-secuelas-deja-el-dengue-nid11042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/en-la-mayoria-de-los-casos-la-recuperacion-es-sin-ANZYGCZQP5EK5BOHF26OGMVTNU.jpg?auth=1ca766195ebeb9a673eb820870a2bd79a8a28aa337d559502e939c129021c781&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-11 18:05:19",
+      "content": "La epidemia de dengue en la Argentina es hist\u00f3rica. El virus genera sobre todo cefaleas, fiebre alta, dolor de cuerpo y n\u00e1useas, entre otros s\u00edntomas que suelen perdurar, en promedio, unos 10 d\u00edas. P\u2026 [+5914 chars]",
+      "retrievedAt": "2024-04-13 07:05:51.758430",
+      "internal_id": "6ff24b2e3c4426cd34ce4cc4ad91c08a6cd48acfe1b396ae6e0a3d64f0aa42b4",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
+      "id": 8109,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Si ya tuve dengue, \u00bfcu\u00e1nto tengo que esperar para vacunarme?",
+      "description": "El esquema de inmunizaci\u00f3n consta de dos dosis, que se deben inocular con un intervalo de 90 d\u00edas",
+      "url": "https://www.lanacion.com.ar/sociedad/si-ya-tuve-dengue-cuanto-tengo-que-esperar-para-vacunarme-nid11042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-vacuna-contra-el-dengue-disponible-en-el-O462LEZ5CFEG5KF2BFXTFMLRPM.jpg?auth=4a5493de0136b4da0928c93072dd6b2b1da7c63a4639d6d7550b4bb3adee1af2&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-11 17:54:53",
+      "content": "La mayor epidemia de dengue que enfrent\u00f3 hasta el momento el pa\u00eds super\u00f3 en las primeras 13 semanas de este a\u00f1o todos los casos acumulados en 2023. De acuerdo con los \u00faltimos datos publicados por el \u2026 [+5143 chars]",
+      "retrievedAt": "2024-04-13 07:05:51.779834",
+      "internal_id": "e6a49ea8e6fbd7da71405e894a8ed761760f998b5c9528606c8fe15084b5c59e",
       "publishedAtLabel": "Apr 11"
     },
     {
@@ -220,6 +490,24 @@
       "publishedAtLabel": "Apr 11"
     },
     {
+      "id": 8107,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "DINO",
+      "title": "Surto de dengue acende alerta para cuidados com piscinas",
+      "description": "De acordo com o levantamento feito em mar\u00e7o pelo Minist\u00e9rio da Sa\u00fade, o pa\u00eds j\u00e1 ultrapassou o total de 2.010.896 casos prov\u00e1veis de dengue; profissional da BAUMINAS Hidroazul explica os cuidados que devem ser tomados com \u00e1guas paradas em piscinas",
+      "url": "https://www.terra.com.br/noticias/surto-de-dengue-acende-alerta-para-cuidados-com-piscinas,381c2d5a8451fd0e0ee4544f160ff8155nqb43fa.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/11/935243558-245c773f-8a5b-4b08-bfba-08cdeb40d85e.jpg",
+      "publishedAt": "2024-04-11 16:43:14",
+      "content": "O Brasil registrou mais de 2 milh\u00f5es de casos de dengue em 2024, segundo dados do Minist\u00e9rio da Sa\u00fade, divulgados pela Ag\u00eancia Brasil. De acordo com o levantamento feito em mar\u00e7o pelo Minist\u00e9rio da S\u2026 [+3184 chars]",
+      "retrievedAt": "2024-04-13 07:05:51.737175",
+      "internal_id": "d34a82feef18ce303f1a8519d6879882602244a103234aeb45befacbe2ea3150",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
       "id": 8088,
       "query": [
         "dengue"
@@ -240,7 +528,8 @@
     {
       "id": 8094,
       "query": [
-        "chikungunya"
+        "chikungunya",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Ig.com.br",
@@ -259,7 +548,8 @@
       "id": 8093,
       "query": [
         "zika",
-        "chikungunya"
+        "chikungunya",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Ig.com.br",
@@ -380,6 +670,24 @@
       "content": "10 superfoods one must have in summers as per Ayurveda",
       "retrievedAt": "2024-04-12 19:05:42.258853",
       "internal_id": "d7e8501ebcad49e4a47162abeb1e76856a2beda3bfa587230b6d37a2af306a5d",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
+      "id": 8114,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Mortes por dengue batem recorde no pa\u00eds",
+      "description": "Segundo dados do Minist\u00e9rio da Sa\u00fade, s\u00e3o 3,062 milh\u00f5es de notifica\u00e7\u00f5es da doen\u00e7a em 2024, maior registro de casos para quatro meses desde o in\u00edcio da s\u00e9rie hist\u00f3rica, em 2000",
+      "url": "https://valor.globo.com/impresso/noticia/2024/04/11/mortes-por-dengue-batem-recorde-no-pais.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-04-11 08:00:42",
+      "content": "O Brasil ultrapassou ontem a marca de 3 milh\u00f5es de casos de dengue em 2024, segundo dados do Minist\u00e9rio da Sa\u00fade, com 3.062.181 registros (confirmados e em investiga\u00e7\u00e3o). Al\u00e9m disso, em menos de quat\u2026 [+249 chars]",
+      "retrievedAt": "2024-04-13 07:05:51.810897",
+      "internal_id": "2821ac3d3f66e556e92a4c02760bee3577a88abd48a88f99926d1a1db8c358cf",
       "publishedAtLabel": "Apr 11"
     },
     {
@@ -560,6 +868,42 @@
       "content": "O Brasil soma 3.062.181 casos prov\u00e1veis de dengue neste ano e com dados atualizados at\u00e9 esta quarta-feira (10). A informa\u00e7\u00e3o \u00e9 do Painel de Monitoramento das Arboviroses, que \u00e9 fomentado pelos dado\u2026 [+1115 chars]",
       "retrievedAt": "2024-04-12 07:06:21.653401",
       "internal_id": "77fd0466b8ae5b2e2ff060c7edf311bca5b91c305bd4fb212bd30c82ffd81cfd",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8110,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Prefeitura de SP amplia vacina\u00e7\u00e3o contra dengue em crian\u00e7as para todas as unidades b\u00e1sicas",
+      "description": "SP recebeu 177.679 doses da vacina; segundo a prefeitura, 2.084 aplica\u00e7\u00f5es do imunizante foram realizadas na capital e nos distritos de Itaquera e Vila Jaguara",
+      "url": "https://valor.globo.com/brasil/noticia/2024/04/10/prefeitura-de-sp-amplia-vacinacao-contra-dengue-em-criancas-para-todas-as-unidades-basicas.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/He4AX0RpV8v2Bo2SEecIsj0srz4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/4/U/BlaBubQviI3YaHOoSmuw/106009100-rio-de-janeiro-rj-23022024-dengue-inicio-da-campanha-de-vacinacao-contra-dengue-no-rio-d.jpg",
+      "publishedAt": "2024-04-10 20:36:48",
+      "content": "A Prefeitura de S\u00e3o Paulo ampliar\u00e1 a vacina\u00e7\u00e3o contra dengue em crian\u00e7as de 10 a 14 anos para todos os postos da capital, a partir desta quinta-feira (11). As vacinas ser\u00e3o aplicadas em todas as 471 \u2026 [+1277 chars]",
+      "retrievedAt": "2024-04-13 07:05:51.787103",
+      "internal_id": "de23f3af03e5d6296878efafe974622351638d2b0df002e5b70250f93c67a03c",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8113,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue em Campinas: tudo o que voc\u00ea precisa saber sobre o in\u00edcio da vacina\u00e7\u00e3o a partir desta quinta",
+      "description": "Imunizante ser\u00e1 aplicado para adolescentes de 10 a 14 anos em todos os centros de sa\u00fade da metr\u00f3pole. g1 preparou um guia com os detalhes. Veja situa\u00e7\u00e3o em outras cidades da regi\u00e3o. Vacina da dengue Governo de S\u00e3o Paulo/Divulga\u00e7\u00e3o Campinas (SP) inicia, a part\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/10/dengue-em-campinas-tudo-o-que-voce-precisa-saber-sobre-o-inicio-da-vacinacao-a-partir-desta-quinta.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/MXcf2p4rlgiDBYiyVxYjip9Dz_0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/f/M/ZpxkVJSkmUUScJ9LAfiw/vacina-dengue-butantan.jpg",
+      "publishedAt": "2024-04-10 20:27:43",
+      "content": "O g1 preparou, abaixo, um guia com tudo o que voc\u00ea precisa saber sobre o in\u00edcio da aplica\u00e7\u00e3o do imunizante na metr\u00f3pole. Quem pode receber as doses? Neste primeiro momento, a vacina ser\u00e1 aplicada\u2026 [+6066 chars]",
+      "retrievedAt": "2024-04-13 07:05:51.803830",
+      "internal_id": "1a5b0a6a437625b92055d2b7acdb01cea7e223492c4a959ea31f07d350db391f",
       "publishedAtLabel": "Apr 10"
     },
     {
@@ -1046,6 +1390,24 @@
       "content": "The first at-home mpox testing kit provides patients with convenience and privacy to test for mpox, supports physicians in detection and treatment BURLINGTON, N.C., April 10, 2024 /PRNewswire/ -- La\u2026 [+6051 chars]",
       "retrievedAt": "2024-04-11 19:05:38.849426",
       "internal_id": "fc6ec4f094e7570dcbe9de584edd73bc3dc229488f18b1a55352f9afa82b53c1",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 8112,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue em Campinas: Sa\u00fade prev\u00ea pico de transmiss\u00e3o na 2\u00aa quinzena e diz que n\u00e3o se deve ter 'falsa sensa\u00e7\u00e3o de seguran\u00e7a'",
+      "description": "Em mar\u00e7o, prefeito da metr\u00f3pole comentou a possibilidade da metr\u00f3pole atingir 100 mil casos da doen\u00e7a at\u00e9 maio. Apesar do montante at\u00e9 abril representar 45% da proje\u00e7\u00e3o, diretora do Devisa afirma que n\u00e3o \u00e9 momento de abaixar a guarda. Aedes aegypti no laborat\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/10/dengue-em-campinas-saude-preve-pico-de-transmissao-na-2a-quinzena-e-diz-que-nao-se-deve-ter-falsa-sensacao-de-seguranca.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/FEXfQdgEI18zV5SZ_tsx2-Ihn-o=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2016/02/02/2016-02-02t173627z_1269241792_gf10000293378_rtrmadp_3_health-zika-brazil.jpg",
+      "publishedAt": "2024-04-10 09:46:33",
+      "content": "Os casos n\u00e3o est\u00e3o diminuindo. N\u00e3o podemos dar uma falsa sensa\u00e7\u00e3o de seguran\u00e7a \u00e0 popula\u00e7\u00e3o\", diz Andr\u00e9a Von Zuben, diretora do Devisa. Segundo a epidemiologista respons\u00e1vel pelo Devisa, a pasta tem \u2026 [+4712 chars]",
+      "retrievedAt": "2024-04-13 07:05:51.799487",
+      "internal_id": "1468053ec6361a58a00a744546d589e2ee320124f25fbd9c0e0c1074c85b1838",
       "publishedAtLabel": "Apr 10"
     },
     {
@@ -37203,6 +37565,170 @@
       "content": "\u00daltimas not\u00edcias: O portal de jogos virtuais Ludo Educativo est\u00e1 relan\u00e7ando o jogo \u201cContra a Dengue 3 \u2013 No Mundo Digital\u201d devido ao crescente aumento dos casos da doen\u00e7a. O objetivo do game \u00e9 consci\u2026 [+1609 chars]",
       "retrievedAt": "2024-02-27 07:05:58.825392",
       "internal_id": "8be2d1e293437c7b38f445fcc5d7309cc0d394d8aaaa568dd58a368c2b059f6d",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6007,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Calcio: Fiorentina; Kouam\u00e9 lascia l'ospedale e torna a casa",
+      "description": "Christian Kouam\u00e9 ha lasciato l'ospedale dove era stato ricoverato qualche giorno fa dopo essere risultato positivo alla malaria al rientro dalla partecipazione alla Coppa d'Africa vinta dalla propria nazionale, la Costa d'Avorio. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/02/25/calcio-fiorentina-kouame-lascia-lospedale-e-torna-a-casa_fbbb4cc8-cb31-455e-b813-db73d2da300e.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2022/8/31/85c6b05aa7f841346be065de9f3f33e5.jpg",
+      "publishedAt": "2024-02-25 17:27:55",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-02-26 19:05:49.054960",
+      "internal_id": "497633451bc4a4fc12c418aa2909966d89abec3f02a13fcaacf2c16e6f89b521",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6005,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Giacomo Iacobellis",
+      "title": "Kouame con la malaria, il report della Fiorentina: \"Dimesso dall'ospedale, sta migliorando\"",
+      "description": "La Fiorentina ha diramato un comunicato riguardo a Christian Kouame. Le condizioni dell'attaccante viola, che ha contratto la malaria durante l'esperienza in Coppa d'Africa con la Nazionale della Cost",
+      "url": "https://www.tuttomercatoweb.com/serie-a/kouame-con-la-malaria-il-report-della-fiorentina-dimesso-dall-ospedale-sta-migliorando-1939399",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/c7/c721b91a1c4e35d1f688e9cd119f9426-09867-oooz0000.jpeg",
+      "publishedAt": "2024-02-25 16:41:03",
+      "content": "La Fiorentina ha diramato un comunicato riguardo a Christian Kouame. Le condizioni dell'attaccante viola, che ha contratto la malaria durante l'esperienza in Coppa d'Africa con la Nazionale della Cos\u2026 [+1080 chars]",
+      "retrievedAt": "2024-02-26 19:05:49.025654",
+      "internal_id": "b08f72ad97d31acb4da18ef288f0007fa0d3a62069a6d3e5597df2a91c48b775",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6006,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "football-italia",
+      "source_name": "Football Italia",
+      "author": "Susy Campanale",
+      "title": "Fiorentina confirm Kouame out of hospital after malaria diagnosis",
+      "description": "Fiorentina have announced that Ivory Coast international Christian Kouame has been released from hospital after undergoing treatment for malaria",
+      "url": "https://football-italia.net/fiorentina-confirm-kouame-out-of-hospital-after-malaria-diagnosis/",
+      "urlToImage": "https://icdn.football-italia.net/wp-content/uploads/2024/02/Christian-Kouame-Ivory-Coast.jpg",
+      "publishedAt": "2024-02-25 15:41:38",
+      "content": "Fiorentina have announced that Ivory Coast international Christian Kouame has been released from hospital after undergoing treatment for malaria. The forward had contracted the disease during his ti\u2026 [+1040 chars]",
+      "retrievedAt": "2024-02-26 19:05:49.038893",
+      "internal_id": "fe642d0dcde962b1301adf3cd2bbd4100bef3035aecac7e986fa673d2e5c7167",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6004,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "marca",
+      "source_name": "Marca",
+      "author": "marca.com",
+      "title": "Un chico de 17 a\u00f1os infectado por dengue sufre una erecci\u00f3n contin\u00faa de casi 20 horas",
+      "description": "El virus del dengue, conocido por causar erupciones cut\u00e1neas y hemorragias internas, ahora est\u00e1 siendo vinculado a un efecto inusual: erecciones prolongadas que pueden durar horas.",
+      "url": "https://www.marca.com/tiramillas/actualidad/2024/02/25/65db5829ca47411c178b4571.html",
+      "urlToImage": "https://phantom-marca.unidadeditorial.es/7eacf77eefc2c3a99a736f6738c286f1/resize/1200/f/webp/assets/multimedia/imagenes/2024/02/25/17088737565503.jpg",
+      "publishedAt": "2024-02-25 15:26:54",
+      "content": "El virus del dengue, conocido por causar erupciones cut\u00e1neas y hemorragias internas, ahora est\u00e1 siendo vinculado a un efecto inusual: erecciones prolongadas que pueden durar horas. Esto es algo que h\u2026 [+1894 chars]",
+      "retrievedAt": "2024-02-26 19:05:47.602172",
+      "internal_id": "2601545597dd2de1b8d7f63caf9e2cb63484968b2f84bbe3c22f267b6a899e71",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6009,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "http://www.facebook.com/bbcnews",
+      "title": "\u042f\u043a \u0431\u0443\u0431\u043e\u043d\u043d\u0430 \u0447\u0443\u043c\u0430 \u0437\u043c\u0456\u043d\u0438\u043b\u0430 \u0456\u043c\u0443\u043d\u043d\u0443 \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u043b\u044e\u0434\u0438\u043d\u0438",
+      "description": "\u0411\u0443\u0431\u043e\u043d\u043d\u0430 \u0447\u0443\u043c\u0430 \u0432\u0441\u0435 \u0449\u0435 \u0442\u0440\u0430\u043f\u043b\u044f\u0454\u0442\u044c\u0441\u044f \u0432 \u043e\u043a\u0440\u0435\u043c\u0438\u0445 \u043c\u0456\u0441\u0446\u044f\u0445 \u0417\u0435\u043c\u043b\u0456, \u0430\u043b\u0435 \u0437\u0430\u0432\u0434\u044f\u043a\u0438 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u043c \u0430\u043d\u0442\u0438\u0431\u0456\u043e\u0442\u0438\u043a\u0430\u043c \u0457\u0457 \u043d\u0430\u0431\u0430\u0433\u0430\u0442\u043e \u043b\u0435\u0433\u0448\u0435 \u043b\u0456\u043a\u0443\u0432\u0430\u0442\u0438, \u043d\u0456\u0436 \u0443 \u043c\u0438\u043d\u0443\u043b\u043e\u043c\u0443.",
+      "url": "https://www.bbc.com/ukrainian/articles/cl5llwlx51vo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/d71e/live/1f4f74e0-d0d0-11ee-8f28-259790e80bba.jpg",
+      "publishedAt": "2024-02-25 12:54:22",
+      "content": ", Getty images , , XIV , - Article informationAuthor, Role, BBC Future , , . . Yersinia pestis . . , . \" \" , . - , , , , . , , . . . . \" \", . , -\u2026 [+619 chars]",
+      "retrievedAt": "2024-02-26 19:05:50.924038",
+      "internal_id": "7dbedc866e666502a25adf9e342220926397eb4cf641f8be2be6321f047952de",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6008,
+      "query": [
+        "zika",
+        "chikungunya",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Pablo Nascimento, do R7",
+      "title": "Posto para pacientes com dengue passa a atender 24 horas por dia na regional Barreiro, em BH",
+      "description": "Unidade tamb\u00e9m ganhar\u00e1 uma espa\u00e7o para fazer hidrata\u00e7\u00e3o das pessoas infectadas com a doen\u00e7a, al\u00e9m de zika e chikungunya",
+      "url": "https://noticias.r7.com/minas-gerais/posto-para-pacientes-com-dengue-passa-a-atender-24-horas-na-regional-barreiro-em-bh-25022024",
+      "urlToImage": "https://img.r7.com/images/hospital-dengue-bh-25022024124035339?crop=703x395+66+0",
+      "publishedAt": "2024-02-25 12:44:00",
+      "content": "BH tem sete unidades exclusivas para casos de dengue Divulga\u00e7\u00e3o / PBH / Amira Hissa O CAA (Centro de Atendimento \u00e0s Arboviroses) da regional Barreiro, em Belo Horizonte, passar\u00e1 a funcionar 2\u2026 [+2126 chars]",
+      "retrievedAt": "2024-02-26 19:05:49.664325",
+      "internal_id": "4cb01ebc2bcedf553a6e65ab383a5edfbf092b777cc4916b17c698c7d8a6ac30",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6003,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Week in pictures: Ukraine war anniversary to farmers\u2019 protest in India",
+      "description": "A roundup of some of last week\u2019s events.",
+      "url": "https://www.aljazeera.com/gallery/2024/2/25/week-in-pictures-ukraine-war-anniversary-to-farmers-protest-in-india",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-02-24T091820Z_125958182_RC2I86AEXLP6_RTRMADP_3_UKRAINE-CRISIS-ANNIVERSARY-LVIV-1708855342.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-02-25 12:18:04",
+      "content": "From a dengue vaccination campaign in Brazil, a Buddhist ceremony in Thailand to antigovernment protests in India and Israel, here is the week in photos.",
+      "retrievedAt": "2024-02-26 19:05:47.583212",
+      "internal_id": "0fa8c6e200bd2f070e1a1a3e8a1a376e69a41d64476c78fd6fd097b7087226e8",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6016,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Pablo Nascimento, do R7",
+      "title": "Vacina\u00e7\u00e3o contra dengue em BH deve come\u00e7ar nos pr\u00f3ximos dias",
+      "description": "Crian\u00e7as de 10 e 11 anos devem ser as primeira a receber o imunizante pelo SUS; BH tem 49 mil doses do medicamento",
+      "url": "https://noticias.r7.com/minas-gerais/vacinacao-contra-dengue-em-bh-deve-comecar-nos-proximos-dias-25022024",
+      "urlToImage": "https://img.r7.com/images/vacina-dengue-25022024115952749?crop=1054x592+35+14",
+      "publishedAt": "2024-02-25 12:07:00",
+      "content": "Crian\u00e7as s\u00e3o priorit\u00e1rias para vacina da dengue Reprodu\u00e7\u00e3o / Ag\u00eancia Brasil / Fabio Rodrigues-Pozzebom A vacina\u00e7\u00e3o contra a dengue em Belo Horizonte pelo SUS (Sistema \u00danico de Sa\u00fade) deve co\u2026 [+2212 chars]",
+      "retrievedAt": "2024-02-27 07:05:58.849546",
+      "internal_id": "939ae91b77b35288aa4a13afdfb33f38e73be956fab2dfb541bd97a5812c36e7",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 6061,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Kayla Clarke",
+      "title": "Michigan reports first measles case since 2019 outbreak: What to know",
+      "description": "Michigan reported its first case of measles since the 2019 outbreak. Here is a breakdown of what you should know about the virus.",
+      "url": "https://www.clickondetroit.com/health/2024/02/25/michigan-reports-first-measles-case-since-2019-outbreak-what-to-know/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2HKB7OK34FACXM24GBYTBTWBGA.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-02-25 10:34:55",
+      "content": "Michigan has reported its first case of measles since the 2019 outbreak. On Friday, Feb. 23, 2024, Michigan health officials said that a child in Oakland County has measles. The childs case is belie\u2026 [+3470 chars]",
+      "retrievedAt": "2024-02-28 07:05:53.754675",
+      "internal_id": "81d985ee6c481fb53207a6067568ca45f62c83cbeaf2251ad8c32f92bec2e9fe",
       "publishedAtLabel": "Feb 25"
     }
   ]
