@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-04-14 07:45
-- **Most recent article:** 2024-04-13 05:11:53
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-04-14 21:43
+- **Most recent article:** 2024-04-13 20:54:28
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 190 | 181 | 180 | 186 | 158 | 121 | 1016 |
-| measles | 84 | 112 | 87 | 44 | 36 | 35 | 398 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 92 |
-| zika | 16 | 16 | 12 | 21 | 11 | 10 | 86 |
-| chikungunya | 8 | 20 | 15 | 9 | 12 | 6 | 70 |
-| meningitis | 16 | 5 | 8 | 16 | 4 | 9 | 58 |
+| dengue | 180 | 181 | 180 | 186 | 158 | 125 | 1010 |
+| measles | 77 | 112 | 87 | 44 | 36 | 43 | 399 |
+| malaria | 14 | 23 | 18 | 7 | 13 | 16 | 91 |
+| zika | 14 | 16 | 12 | 21 | 11 | 10 | 84 |
+| chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 71 |
+| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 64 |
 | rabies | 5 | 6 | 9 | 3 | 16 | 8 | 47 |
+| sarampión | 3 | 3 | 12 | 3 | 5 | 13 | 39 |
 | mpox | 5 | 8 | 4 | 6 | 12 | 3 | 38 |
-| sarampión | 3 | 3 | 12 | 3 | 5 | 11 | 37 |
 | pertussis | 4 | 5 | 3 | 6 | 7 | 9 | 34 |
 | yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 11 |
 | leptospirosis | 0 | 1 | 0 | 0 | 1 | 2 | 4 |
@@ -55,6 +55,10 @@ Source: [News API](https://newsapi.org/)
 - [Vacina de DNA contra o zika apresenta bons resultados em testes com camundongos](https://gizmodo.uol.com.br/vacina-de-dna-contra-o-zika-apresenta-bons-resultados-em-testes-com-camundongos/) (Uol.com.br)
 
 ## 24-15 (sarampión)
+
+- [No se puede culpar de todo al Covid-19](https://es.gizmodo.com/brotes-de-sarampion-de-covid19-1851408331) (Gizmodo.com)
+
+- [Descarta Ssa transmisión endémica de sarampión en México](https://www.jornada.com.mx/2024/04/13/politica/014n3pol) (Jornada.com.mx)
 
 - [Vacunación contra sarampión llega a centros comerciales y parques este fin de semana largo](https://www.nacion.com/el-pais/salud/vacunacion-contra-sarampion-llega-a-centros/RH3RVM2P7JFTDCW2NOK5UH6RK4/story/) (Nacion.com)
 
@@ -126,6 +130,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-15 (meningitis)
 
+- [Nigeria se convierte en el primer país del mundo en administrar la nueva vacuna de la meningitis](https://www.lavozdegalicia.es/noticia/sociedad/2024/04/14/nigeria-convierte-primer-pais-mundo-administrar-nueva-vacuna-meningitis/0003_202404G14P32992.htm) (Lavozdegalicia.es)
+
+- [Nigeria becomes first country to roll out new meningitis vaccine, WHO says](https://www.marketscreener.com/news/latest/Nigeria-becomes-first-country-to-roll-out-new-meningitis-vaccine-WHO-says-46429916/) (Marketscreener.com)
+
+- [Nigeria führt 5-in-1-Meningitis-Impfstoff ein](https://orf.at/stories/3354360/) (Orf.at)
+
+- [Nigeria führt als erstes Land weltweit 5-in-1-Meningitis-Impfstoff ein](https://www.diepresse.com/18364946/nigeria-fuehrt-als-erstes-land-weltweit-5-in-1-meningitis-impfstoff-ein) (Diepresse.com)
+
+- [Gesundheit: Erstes Land: Nigeria führt 5-in-1-Meningitis-Impfstoff ein](https://www.zeit.de/news/2024-04/13/erstes-land-nigeria-fuehrt-5-in-1-meningitis-impfstoff-ein) (Die Zeit)
+
+- [Gesundheit: Erstes Land: Nigeria führt 5-in-1-Meningitis-Impfstoff ein](https://www.stern.de/panorama/wissen/gesundheit--erstes-land--nigeria-fuehrt-5-in-1-meningitis-impfstoff-ein-34625404.html) (STERN.de)
+
 - [Nigeria takes lead in meningitis vaccine – WHO](https://punchng.com/nigeria-takes-lead-in-meningitis-vaccine-who/) (The Punch)
 
 - [News24 | Nigeria rolls out 'revolutionary' meningitis vaccine in a world first](https://www.news24.com/news24/africa/news/nigeria-rolls-out-revolutionary-meningitis-vaccine-in-a-world-first-20240412) (News24)
@@ -145,6 +161,22 @@ Source: [News API](https://newsapi.org/)
 - [Reaprender caminar con 33 años, la remontada de Ana: «De gripe A pasamos a meningitis con daño cerebral»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2024/04/06/reaprender-caminar-33-anos-remontada-ana-gripe-pasamos-meningitis-dano-cerebral/00031712408879932852228.htm) (Lavozdegalicia.es)
 
 ## 24-15 (measles)
+
+- [Measles case confirmed in visitor who traveled through LA County, health officials say](https://abc7.com/measles-case-confirmed-in-visitor-who-traveled-through-los-angeles-county/14658250/) (KABC-TV)
+
+- [Public health officials warn Los Angeles area public of measles exposure](https://www.cbsnews.com/losangeles/news/public-health-officials-warn-los-angeles-area-public-of-measles-exposure/) (CBS News)
+
+- [Measles confirmed in traveler who passed through LA County](https://www.foxla.com/news/measles-confirmed-in-traveler-who-passed-through-la-county) (FOX 11 Los Angeles)
+
+- [Los Angeles County Reports Measles Case, Possible Exposure at Universal Studios, Santa Monica Pier on Easter Weekend](https://variety.com/2024/biz/news/measles-la-county-universal-studios-pier-1235970277/) (Variety)
+
+- [1st case of measles reported in DuPage County since 2009, health officials say](https://abc7chicago.com/measles-dupage-county-first-case-mmr-vaccine/14656994/) (WLS-TV)
+
+- [Health officials confirm measles case in DuPage County resident](http://www.nbcchicago.com/news/local/measles-case-confirmed-in-dupage-county-resident/3409532/) (NBC Chicago)
+
+- [Southern Nevada Health District Issues Health Alert After Las Vegas Visitor May Have Spread Measles](https://www.thegatewaypundit.com/2024/04/southern-nevada-health-district-issues-health-alert-after/) (Thegatewaypundit.com)
+
+- [You Can't Blame Everything on Covid-19](https://gizmodo.com/covid19-measles-outbreaks-1851404770) (Gizmodo.com)
 
 - [Measles scare: Las Vegas visitor may have spread measles on Strip](https://www.reviewjournal.com/post/3033203) (Las Vegas Review-Journal)
 
@@ -257,6 +289,14 @@ Source: [News API](https://newsapi.org/)
 - [Severe leptospirosis in tropical and non-tropical areas: A comparison of two french, multicentre, retrospective cohorts](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012084) (Plos.org)
 
 ## 24-15 (dengue)
+
+- [“No se está haciendo nada”. Cuál es una de las provincias más complicadas por dengue y qué se prevé en el corto plazo](https://www.lanacion.com.ar/sociedad/no-se-esta-haciendo-nada-cual-es-una-de-las-provincias-mas-complicadas-por-dengue-y-que-se-preve-en-nid13042024/) (La Nacion)
+
+- [Morre bebê que teve parto antecipado um dia antes da mãe morrer com suspeita de dengue no Paraná](https://www.terra.com.br/noticias/brasil/cidades/morre-bebe-que-teve-parto-antecipado-um-dia-antes-da-mae-morrer-com-suspeita-de-dengue-no-parana,a984ff419a376fc79cbdbc39ce3d55880zf9w3sc.html) (Terra.com.br)
+
+- [Casos de dengue superaron los 500, informó el Ministerio de Salud Pública](https://www.montevideo.com.uy/Salud/Casos-de-dengue-superaron-los-500-informo-el-Ministerio-de-Salud-Publica-uc885377) (Montevideo.com.uy)
+
+- [Más de un millón de casos: Brasil avanza con ensayos clínicos de una vacuna monodosis contra el dengue](https://www.lanacion.com.ar/sociedad/mas-de-un-millon-de-casos-brasil-avanza-con-ensayos-clinicos-de-una-vacuna-monodosis-contra-el-nid13042024/) (La Nacion)
 
 - [Do total de mortes ocorridas no DF no ano, quase 8% foram por dengue](https://www.metropoles.com/distrito-federal/do-total-de-mortes-ocorridas-no-df-no-ano-quase-8-foram-por-dengue) (Metropoles.com)
 
@@ -501,6 +541,8 @@ Source: [News API](https://newsapi.org/)
 - [Vacuna contra el dengue en Argentina: precio, quién puede recibirla, contraindicaciones y tiempo de efectividad](https://cnnespanol.cnn.com/2024/04/06/vacuna-dengue-argentina-precio-contraindicaciones-efectividad-orix/) (CNN)
 
 ## 24-15 (chikungunya)
+
+- [모기로 아우성... 지구 미지의 영역으로 들어가나](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003020441) (Ohmynews.com)
 
 - [Dengue: descubren que los mosquitos pueden picar a través de la ropa](https://www.meneame.net/m/actualidad/dengue-descubren-mosquitos-pueden-picar-traves-ropa) (Meneame.net)
 
@@ -3282,10 +3324,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: água parada em obras e prédios abandonados preocupa moradores em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/04/dengue-agua-parada-em-obras-e-predios-abandonados-preocupa-moradores-em-campinas.ghtml) (Globo)
 
-- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
-
 ## 24-10 (yersinia)
 
 - [Socio-ecological risk factors associated with human flea infestations of rural household in plague-endemic areas of Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012036) (Plos.org)
@@ -3522,20 +3560,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Vaccine skepticism on display in Florida](https://www.startribune.com/vaccine-skepticism-on-display-in-florida/600347932/) (Minneapolis Star Tribune)
 
-- [unknown title](https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties) (FOX 2 Detroit)
-
-- [The Week Unwrapped: Measles, karting and TikTok tunes](https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes) (The Week Magazine)
-
-- [Health officials confirm measles case in Washtenaw County, warn of exposure spot](https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html) (mlive.com)
-
-- [Washtenaw County confirms Michigan’s 3rd case of measles this year](https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/) (WDIV ClickOnDetroit)
-
-- [News Flash • Health Department Alerts Public to Local Measle](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669) (Washtenaw.org)
-
-- [Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)](https://www.memeorandum.com/240303/p7) (Memeorandum.com)
-
-- [Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more](https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more) (Fox News)
-
 ## 24-10 (malaria)
 
 - [African health ministers pledge to end malaria deaths in region - Healthwise](https://healthwise.punchng.com/african-health-ministers-pledge-to-end-malaria-deaths-in-region/) (The Punch)
@@ -3565,8 +3589,6 @@ Source: [News API](https://newsapi.org/)
 - [Plateau to distribute 2.9m mosquito nets to citizens](https://punchng.com/plateau-to-distribute-2-9m-mosquito-nets-to-citizens/) (The Punch)
 
 - [Structure-guided design of VAR2CSA-based immunogens and a cocktail strategy for a placental malaria vaccine](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011879) (Plos.org)
-
-- [Africa: Remembering the Legacy of Malaria-Fighting Trailblazer Kent Campbell](https://allafrica.com/stories/202403030068.html) (AllAfrica - Top Africa News)
 
 ## 24-10 (dengue)
 
@@ -3929,26 +3951,6 @@ Source: [News API](https://newsapi.org/)
 - [Febre oropouche: o que é, causas, sintomas e tratamento](https://delas.ig.com.br/parceiros/selecoes/2024-03-04/febre-oropouche--o-que-e--causas--sintomas-e-tratamento.html) (Ig.com.br)
 
 - [Bebê morre de dengue e Covid após ser liberada por hospitais](https://brasil.perfil.com/brasil/bebe-morre-de-dengue-e-covid-apos-ser-liberada-por-hospitais.phtml) (Perfil.com)
-
-- [Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto](https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html) (Ig.com.br)
-
-- [Epidemia de dengue faz Natal decretar emergência em saúde](https://jornaldebrasilia.com.br/?p=2720607) (Jornaldebrasilia.com.br)
-
-- [Brasil elogia medidas adotadas pela Itália contra dengue](https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html) (Terra.com.br)
-
-- [Criança de 9 anos é encontrada morta dentro de casa na Grande BH](https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024) (R7.com)
-
-- [Week in pictures: From firefighter protests in Seoul to prayers in Gaza](https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza) (Al Jazeera English)
-
-- [Populações periféricas são mais vulneráveis à dengue](https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/) (Jornaldebrasilia.com.br)
-
-- [Febasgo, Ministério da Saúde e Opas lançam manual sobre dengue para gestantes](https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/) (Catracalivre.com.br)
-
-- [Mirtha Legrand le pidió al Gobierno que la vacuna del dengue sea gratuita](https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/) (La Nacion)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
 
 ## 24-10 (chikungunya)
 

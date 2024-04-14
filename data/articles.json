@@ -1,8 +1,386 @@
 {
-  "last_updated": "2024-04-14 07:45",
-  "count_articles_total": 1780,
-  "count_articles_new": 17,
+  "last_updated": "2024-04-14 21:43",
+  "count_articles_total": 1783,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 8157,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KABC-TV",
+      "author": null,
+      "title": "Measles case confirmed in visitor who traveled through LA County, health officials say",
+      "description": "A case of measles has been confirmed in a non-Los Angeles County resident who traveled throughout the county two weekends ago, officials said.",
+      "url": "https://abc7.com/measles-case-confirmed-in-visitor-who-traveled-through-los-angeles-county/14658250/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14379247_measles-img-web.jpg?w=1600",
+      "publishedAt": "2024-04-13 20:54:28",
+      "content": "LOS ANGELES (CNS) -- A case of measles has been confirmed in a non-Los Angeles County resident who traveled throughout the county two weekends ago, officials said Saturday. The Los Angeles County De\u2026 [+2338 chars]",
+      "retrievedAt": "2024-04-14 21:43:12.505387",
+      "internal_id": "e420ff39790f643899e56482575898110e0d07e87a3171e63eb0e7f7b38257ff",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8158,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Cbs Los Angeles",
+      "title": "Public health officials warn Los Angeles area public of measles exposure",
+      "description": "Measles spreads easily through the air when an infected person breathes, talks, coughs, or sneezes.",
+      "url": "https://www.cbsnews.com/losangeles/news/public-health-officials-warn-los-angeles-area-public-of-measles-exposure/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/13/57638b5f-f844-486d-a1b8-8db283756253/thumbnail/1200x630/ee9315e3f91514c018760b49419f933a/gettyimages-1209159833.jpg?v=c0ff3069549804234360eec4c5e30dea",
+      "publishedAt": "2024-04-13 20:30:40",
+      "content": "The Los Angeles County Department of Public Health is warning the Los Angeles area public of exposure to measles from a non-Los Angeles County resident who traveled through the area March 30 through \u2026 [+2714 chars]",
+      "retrievedAt": "2024-04-14 21:43:12.518396",
+      "internal_id": "58ef7c43f47d4b8091f76b6dbb89173ee73366bea767bc425aff7ec5a5c4b94b",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8162,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Gabriela Origlia",
+      "title": "\u201cNo se est\u00e1 haciendo nada\u201d. Cu\u00e1l es una de las provincias m\u00e1s complicadas por dengue y qu\u00e9 se prev\u00e9 en el corto plazo",
+      "description": "Para los especialistas, en C\u00f3rdoba falt\u00f3 prevenci\u00f3n; la baja de la temperatura, acompa\u00f1ada de lluvias, puede signficar una estabilizaci\u00f3n de la situaci\u00f3n",
+      "url": "https://www.lanacion.com.ar/sociedad/no-se-esta-haciendo-nada-cual-es-una-de-las-provincias-mas-complicadas-por-dengue-y-que-se-preve-en-nid13042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-ciudad-de-cordoba-junto-con-bell-ville-san-V7OX7HM2OVGXBPNDOLQBSVVMWE.jpg?auth=81b3694f83a573198735bb457de9fd44520f82f7a0d29107ac1bef81e0fe9892&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-13 20:21:16",
+      "content": "C\u00d3RDOBA.- La baja pronunciada de las temperaturas en la \u00faltima semana descomprimi\u00f3 la tensi\u00f3n por los casos de dengue en la provincia de C\u00f3rdoba, aunque de ninguna manera los especialistas -como en t\u2026 [+5184 chars]",
+      "retrievedAt": "2024-04-14 21:43:13.266970",
+      "internal_id": "3c54dbdbdc75a9a542cedcfb891177246d411110a44c7b8f727743d3f6a402ba",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8156,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 11 Los Angeles",
+      "author": "City News Service",
+      "title": "Measles confirmed in traveler who passed through LA County",
+      "description": "A case of measles has been confirmed in a non-Los Angeles County resident who traveled throughout the county two weekends ago, officials said Saturday.",
+      "url": "https://www.foxla.com/news/measles-confirmed-in-traveler-who-passed-through-la-county",
+      "urlToImage": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2019/10/1280/720/measles_1556671366500_7194621_ver1.0_1280_720.jpg?ve=1&tl=1",
+      "publishedAt": "2024-04-13 20:15:38",
+      "content": "A case of measles has been confirmed in a non-Los Angeles County resident who traveled throughout the county two weekends ago, officials said Saturday. The Los Angeles County Department of Public He\u2026 [+2404 chars]",
+      "retrievedAt": "2024-04-14 21:43:12.501194",
+      "internal_id": "d85ca0972350579114b89e43671644cea1548a4b3a60377775ee1d3a5037ad53",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8153,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Variety",
+      "author": "Jack Dunn",
+      "title": "Los Angeles County Reports Measles Case, Possible Exposure at Universal Studios, Santa Monica Pier on Easter Weekend",
+      "description": "The Los Angeles County Department of Public Health has been informed of a possible measles exposure at Universal Studios, county officials reported Saturday. The possible exposure stems from one case of measles from an out of state tourist who traveled throug\u2026",
+      "url": "https://variety.com/2024/biz/news/measles-la-county-universal-studios-pier-1235970277/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2022/06/theme_parks_covid-res.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2024-04-13 20:15:32",
+      "content": "The Los Angeles County Department of Public Health has been informed of a possible measles exposure at Universal Studios, county officials reported Saturday. The possible exposure stems from one case\u2026 [+1572 chars]",
+      "retrievedAt": "2024-04-14 21:43:12.462789",
+      "internal_id": "22e33bae6327f73de204c8f6822813818ae1b196ad97c798567d8e467852ffd5",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8170,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "https://www.facebook.com/lavozdegalicia",
+      "title": "Nigeria se convierte en el primer pa\u00eds del mundo en administrar la nueva vacuna de la meningitis",
+      "description": "Est\u00e1 entre los 26 pa\u00edses hiperend\u00e9micos de \u00c1frica donde esta enfermedad afecta especialmente",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2024/04/14/nigeria-convierte-primer-pais-mundo-administrar-nueva-vacuna-meningitis/0003_202404G14P32992.htm",
+      "urlToImage": "https://cflvdg.avoz.es/sc/X6sKieimJZ26By8YpLbglOToa5I=/1280x/2024/04/13/00121713024182267698210/Foto/efe_20240410_152457752.jpg",
+      "publishedAt": "2024-04-13 16:06:00",
+      "content": "Nigeria se ha convertido en el primer pa\u00eds del mundo en administrar la nueva y \u00abrevolucionaria\u00bb vacuna Men5CV contra la meningitis, seg\u00fan inform\u00f3 la Organizaci\u00f3n Mundial de la Salud (OMS) en un comun\u2026 [+1575 chars]",
+      "retrievedAt": "2024-04-14 21:43:13.623121",
+      "internal_id": "6dd966b8f08a96421764994491b70b69e11d0d2f63ef7dccc165a4b849232105",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8154,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLS-TV",
+      "author": "Abc 7 Chicago",
+      "title": "1st case of measles reported in DuPage County since 2009, health officials say",
+      "description": "1st case of measles reported in DuPage County since 2009, health officials sayabc7chicago.com",
+      "url": "https://abc7chicago.com/measles-dupage-county-first-case-mmr-vaccine/14656994/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14657091_041324-wls-dupage-measles-case-vid.jpg?w=1600",
+      "publishedAt": "2024-04-13 15:53:45",
+      "content": "DUPAGE COUNTY, Ill. (WLS) -- A case of measles is being reported in DuPage County. The DuPage County Health Department said it's the first case of measles identified in the county since 2009. Healt\u2026 [+898 chars]",
+      "retrievedAt": "2024-04-14 21:43:12.470080",
+      "internal_id": "9620460524e36fc20f34383d1dbf04e1c6ea3daf8bb1f4de23fe47cd45bcac90",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8164,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Banda B",
+      "title": "Morre beb\u00ea que teve parto antecipado um dia antes da m\u00e3e morrer com suspeita de dengue no Paran\u00e1",
+      "description": "Morreu o beb\u00ea que teve o parto antecipado um dia antes da m\u00e3e, identificada como \u00c9rica Campos, de 25 anos,... Morre beb\u00ea que teve parto antecipado um dia antes da m\u00e3e morrer com suspeita de dengue no Paran\u00e1 foi publicado primeiro em Banda B.",
+      "url": "https://www.terra.com.br/noticias/brasil/cidades/morre-bebe-que-teve-parto-antecipado-um-dia-antes-da-mae-morrer-com-suspeita-de-dengue-no-parana,a984ff419a376fc79cbdbc39ce3d55880zf9w3sc.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/13/1897277294-erica-campos.jpg",
+      "publishedAt": "2024-04-13 15:40:09",
+      "content": "Morreu o beb\u00ea que teve o parto antecipado um dia antes da m\u00e3e, identificada como \u00c9rica Campos, de 25 anos, morrer com suspeita de dengue em Londrina, norte do Paran\u00e1. A crian\u00e7a estava internada no Ho\u2026 [+628 chars]",
+      "retrievedAt": "2024-04-14 21:43:13.307050",
+      "internal_id": "1eebb747e5f808453aa8dcd4feef5cba9138fff1da5e8aadce88dcdbff8611f8",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8155,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC Chicago",
+      "author": "Nbc Chicago Staff",
+      "title": "Health officials confirm measles case in DuPage County resident",
+      "description": "A measles case has been confirmed in a DuPage County resident, marking the county\u2019s first case since 2009, health officials said. The source of infection is currently unknown, as the case does not appear to be linked to the Chicago outbreak.",
+      "url": "http://www.nbcchicago.com/news/local/measles-case-confirmed-in-dupage-county-resident/3409532/",
+      "urlToImage": "https://media.nbcchicago.com/2019/09/Measles8.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2024-04-13 14:39:22",
+      "content": "A measles case has been confirmed in a DuPage County resident, marking the county's first case since 2009, health officials said. The source of infection is currently unknown, as the case does not ap\u2026 [+995 chars]",
+      "retrievedAt": "2024-04-14 21:43:12.493546",
+      "internal_id": "d212e240d990b6f97769958c7ae59769f9e58ae104a68f6bf65be702d4c07899",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8168,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Nigeria becomes first country to roll out new meningitis vaccine, WHO says",
+      "description": "(marketscreener.com) https://www.marketscreener.com/news/latest/Nigeria-becomes-first-country-to-roll-out-new-meningitis-vaccine-WHO-says--46429916/?utm_medium=RSS&utm_content=20240413",
+      "url": "https://www.marketscreener.com/news/latest/Nigeria-becomes-first-country-to-roll-out-new-meningitis-vaccine-WHO-says-46429916/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2021-12/2021-12-20T194333Z_1_LYNXMPEHBJ0UG_RTROPTP_3_HEALTH-CORONAVIRUS-WHO.JPG",
+      "publishedAt": "2024-04-13 13:40:00",
+      "content": "(Corrects quote in paragraph 3 to read \"...eliminate meningitis by 2030\", not \"by 2023\") By Ope Adetayo ABUJA (Reuters) -Nigeria has become the first country in the world to roll out the \"revoluti\u2026 [+889 chars]",
+      "retrievedAt": "2024-04-14 21:43:13.603918",
+      "internal_id": "1c41557e332b64d56021b92661fe61c4ea8c0f54fa2bb4e577702a64567cf209",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8152,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Thegatewaypundit.com",
+      "author": "Jim H\u1d0fft",
+      "title": "Southern Nevada Health District Issues Health Alert After Las Vegas Visitor May Have Spread Measles",
+      "description": "The Southern Nevada Health District (SNHD) has issued a health alert after it was confirmed that a visitor to the Las Vegas Strip may have spread measles, a highly contagious virus. The post Southern Nevada Health District Issues Health Alert After Las Vegas \u2026",
+      "url": "https://www.thegatewaypundit.com/2024/04/southern-nevada-health-district-issues-health-alert-after/",
+      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/measles-1-1200x630.jpg",
+      "publishedAt": "2024-04-13 13:30:59",
+      "content": "The Southern Nevada Health District (SNHD) has issued a health alert after it was confirmed that a visitor to the Las Vegas Strip may have spread measles, a highly contagious virus. This case comes \u2026 [+2623 chars]",
+      "retrievedAt": "2024-04-14 21:43:12.440610",
+      "internal_id": "b0aaf0b4d36231f08decfb24f5dd7f353ba1569e2f3b34f08e1d40ca8c1cea5d",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8161,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Casos de dengue superaron los 500, inform\u00f3 el Ministerio de Salud P\u00fablica",
+      "description": "Treinta y Tres, Cerro Largo y Flores son los \u00fanicos tres departamentos en los que no hay ninguna persona cursando la enfermedad.",
+      "url": "https://www.montevideo.com.uy/Salud/Casos-de-dengue-superaron-los-500-informo-el-Ministerio-de-Salud-Publica-uc885377",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202402/_W933_80/871760.jpg",
+      "publishedAt": "2024-04-13 12:12:00",
+      "content": "Uruguay super\u00f3 este viernes los 500 casos acumulados de dengue, seg\u00fan el reporte diario entregado por el Ministerio de Salud P\u00fablica (MSP). En las \u00faltimas 24 horas, los casos aut\u00f3ctonos en el pa\u00eds\u2026 [+1221 chars]",
+      "retrievedAt": "2024-04-14 21:43:13.234365",
+      "internal_id": "ac7088a20e7445db4dc45dea1268053af1e082457292238fd4dfcf5c8a1dd9c0",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8166,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Nigeria f\u00fchrt 5-in-1-Meningitis-Impfstoff ein",
+      "description": "",
+      "url": "https://orf.at/stories/3354360/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-04-13 12:07:20",
+      "content": "Afrikas bev\u00f6lkerungsreichster Staat Nigeria hat als erstes Land der Welt einen 5-in-1-Impfstoff gegen Meningitis, auch Hirnhautentz\u00fcndung genannt, eingef\u00fchrt. Das Pr\u00e4parat Men5CV sch\u00fctzt nach Angaben\u2026 [+1004 chars]",
+      "retrievedAt": "2024-04-14 21:43:13.592074",
+      "internal_id": "d9d3653f5fc1355a458738a6777a0aba61922b8b502a321ada8469db68877d68",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8163,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "The New York Times",
+      "title": "M\u00e1s de un mill\u00f3n de casos: Brasil avanza con ensayos cl\u00ednicos de una vacuna monodosis contra el dengue",
+      "description": "Podr\u00eda comenzar a producir el f\u00e1rmaco a partir del a\u00f1o pr\u00f3ximo; solo podr\u00e1 abastecer al mercado interno",
+      "url": "https://www.lanacion.com.ar/sociedad/mas-de-un-millon-de-casos-brasil-avanza-con-ensayos-clinicos-de-una-vacuna-monodosis-contra-el-nid13042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/un-trabajador-de-salud-publica-fumiga-el-terreno-CWE242I3VJADDMTPEHETPLBESI.jpg?auth=1cc0c96dae14f386a3c65212da06de4f315f4acb8560336122656a17a654dda8&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-13 12:00:00",
+      "content": "NUEVA YORK.- El brote de dengue que afecta a Am\u00e9rica Latina desde hace tres meses es de una escala nunca vista: un mill\u00f3n de casos en Brasil en apenas unas semanas, un exponencial aumento en la Argen\u2026 [+6060 chars]",
+      "retrievedAt": "2024-04-14 21:43:13.274585",
+      "internal_id": "d85e331104b3b4b75c06e1cb35c65e768f4d1dda890936248749a7c822c43697",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8167,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Nigeria f\u00fchrt als erstes Land weltweit 5-in-1-Meningitis-Impfstoff ein",
+      "description": "Der neue Kombinations-Impfstoff bietet umfassenderen Schutz als bisher verwendete Vakzine.",
+      "url": "https://www.diepresse.com/18364946/nigeria-fuehrt-als-erstes-land-weltweit-5-in-1-meningitis-impfstoff-ein",
+      "urlToImage": "https://www.diepresse.com/assets_v2/images/diepresse_nachrichten.png",
+      "publishedAt": "2024-04-13 11:58:28",
+      "content": "Der neue Kombinations-Impfstoff bietet umfassenderen Schutz als bisher verwendete Vakzine. Afrikas bev\u00f6lkerungsreichster Staat Nigeria hat als erstes Land der Welt einen 5-in-1-Impfstoff gegen Meni\u2026 [+2411 chars]",
+      "retrievedAt": "2024-04-14 21:43:13.596437",
+      "internal_id": "7119f308cf911066443a290f1dae4e5ec6ab9dcf97cd8f6cd8d1aef045b0dc2d",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8151,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "You Can't Blame Everything on Covid-19",
+      "description": "Measles has made an unwelcome return to the U.S., with dozens of children across multiple states having caught the highly contagious viral disease so far this year. There are several reasons why measles has become a larger problem both here and worldwide as o\u2026",
+      "url": "https://gizmodo.com/covid19-measles-outbreaks-1851404770",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c9b945650935c1ff96bcebb9b1c677a4.jpg",
+      "publishedAt": "2024-04-13 11:30:00",
+      "content": "Measles has made an unwelcome return to the U.S., with dozens of children across multiple states having caught the highly contagious viral disease so far this year. There are several reasons why meas\u2026 [+6461 chars]",
+      "retrievedAt": "2024-04-14 21:43:12.392734",
+      "internal_id": "65a857b3c5619e1df70e0aecda37f19560bc2a596c703c7c972f4331bc10935d",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8159,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "No se puede culpar de todo al Covid-19",
+      "description": "El sarampi\u00f3n ha regresado no deseado a los EE. UU., y hasta ahora decenas de ni\u00f1os en varios estados han contra\u00eddo esta enfermedad viral altamente contagiosa este a\u00f1o. Hay varias razones por las cuales el sarampi\u00f3n se ha convertido en un problema m\u00e1s grande a\u2026",
+      "url": "https://es.gizmodo.com/brotes-de-sarampion-de-covid19-1851408331",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c9b945650935c1ff96bcebb9b1c677a4.jpg",
+      "publishedAt": "2024-04-13 11:30:00",
+      "content": "El sarampi\u00f3n ha regresado no deseado a los EE. UU., y hasta ahora decenas de ni\u00f1os en varios estados han contra\u00eddo esta enfermedad viral altamente contagiosa este a\u00f1o. Hay varias razones por las cual\u2026 [+7637 chars]",
+      "retrievedAt": "2024-04-14 21:43:12.803263",
+      "internal_id": "78e05afafe1f5d3f96e04945a16842ee68f977fb2964c465dccd1f8a33924b60",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8165,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Gesundheit: Erstes Land: Nigeria f\u00fchrt 5-in-1-Meningitis-Impfstoff ein",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eGesundheit\u201c. Lesen Sie jetzt \u201eErstes Land: Nigeria f\u00fchrt 5-in-1-Meningitis-Impfstoff ein\u201c.",
+      "url": "https://www.zeit.de/news/2024-04/13/erstes-land-nigeria-fuehrt-5-in-1-meningitis-impfstoff-ein",
+      "urlToImage": "https://img.zeit.de/news/2024-04/13/erstes-land-nigeria-fuehrt-5-in-1-meningitis-impfstoff-ein-image-group/wide__1300x731",
+      "publishedAt": "2024-04-13 11:11:29",
+      "content": "Afrikas bev\u00f6lkerungsreichster Staat Nigeria hat als erstes Land der Welt einen 5-in-1-Impfstoff gegen Meningitis, auch Hirnhautentz\u00fcndung genannt, eingef\u00fchrt. Das Pr\u00e4parat Men5CV sch\u00fctzt nach Angaben\u2026 [+3206 chars]",
+      "retrievedAt": "2024-04-14 21:43:13.586574",
+      "internal_id": "a5b324f9761bedb3f3d6e43f28b1e99ff8a3d8d5e2cdad7e1ad5155fd78d51d9",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8169,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gesundheit: Erstes Land: Nigeria f\u00fchrt 5-in-1-Meningitis-Impfstoff ein",
+      "description": "Genf/Lagos - Afrikas bev\u00f6lkerungsreichster Staat Nigeria hat als erstes Land der Welt einen 5-in-1-Impfstoff gegen Meningitis, auch Hirnhautentz\u00fcndung",
+      "url": "https://www.stern.de/panorama/wissen/gesundheit--erstes-land--nigeria-fuehrt-5-in-1-meningitis-impfstoff-ein-34625404.html",
+      "urlToImage": "https://image.stern.de/34625406/t/ZG/v1/w1440/r1.7778/-/13--urnnewsmldpacom2009010124041399660347v2w800h600l138t482r1646b1390jpeg---a284559e80c12502.jpg",
+      "publishedAt": "2024-04-13 11:11:29",
+      "content": "Die WHO hat das Ziel Meningitis bis 2030 zur\u00fcckzudr\u00e4ngen. Ein neuer Impfstoff k\u00f6nnte dieses Ziel ein wenig n\u00e4her bringen. Afrikas bev\u00f6lkerungsreichster Staat Nigeria hat als erstes Land der Welt ein\u2026 [+2523 chars]",
+      "retrievedAt": "2024-04-14 21:43:13.608240",
+      "internal_id": "0116a64f81ebead22d85a60e75bc6f46325b9bb3bed82f8a491add17d0723260",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8171,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ohmynews.com",
+      "author": "\ub178\uad11\uc900",
+      "title": "\ubaa8\uae30\ub85c \uc544\uc6b0\uc131... \uc9c0\uad6c \ubbf8\uc9c0\uc758 \uc601\uc5ed\uc73c\ub85c \ub4e4\uc5b4\uac00\ub098",
+      "description": "\ub0a8\ubbf8\ub85c \ub208\uc744 \ub3cc\ub824\ubd24\ub2e4. \uc9c0\uad6c \ud3c9\uade0 \uc628\ub3c4\uac00 \uc5ed\ub300\uae09\uc73c\ub85c \uc0c1\uc2b9\ud55c \uac00\uc6b4\ub370 \uc9c0\uae08 \ube0c\ub77c\uc9c8, \uc544\ub974\ud5e8\ud2f0\ub098, \ud30c\ub77c\uacfc\uc774 \ub4f1 \ub0a8\ubbf8 \uad6d\uac00\ub4e4\uc740 \ub385\uae30\ubc14\uc774\ub7ec\uc2a4\uc5d0 \uac10\uc5fc\ub41c \ubaa8\uae30\uac00 \uc62e\uae30\ub294 '\ub385\uae30\uc5f4'\uc774 \uc5ed\ub300 \ucd5c\uc545\uc758 \uc0c1\ud669\uc73c\ub85c \ubc88\uc9c0\uace0 \uc788\ub2e4. \uc138\uacc4\ubcf4\uac74\uae30\uad6c \ubbf8\uc8fc\ubcf8\ubd80 \ubc1c\ud45c\uc5d0 \ub530\ub974\uba74 \uc62c\ud574 1\uc6d4\ubd80\ud130 3\uc6d4\uae4c\uc9c0 \uc0ac\ub9dd\uc790\ub9cc 1\ucc9c \uba85\uc774 \ub118\uace0 \uac10\uc5fc \uc0ac\ub840\ub294 357\ub9cc\uc5ec \uac74\uc774\ub2e4. \uacfc\uc5f0 \ud604\uc9c0\uc5d0\uc11c \ub290\ub07c\ub294 \ub385\uae30\uc5f4 \uc0c1\ud669\uc740 \uc5b4\ub5a4\uc9c0 \ub0a8\ubbf8 \ud30c\ub77c\uacfc\uc774\uc5d0 \uc0b4\uace0 \uc788\ub294 \uae30\ud6c4 \ud2b9\ud30c\uc6d0\uaed8 \ubb3c\uc5b4\ubd24\ub2e4. \ud30c\ub77c\uacfc\uc774\uc5d0\uc11c \uc2dd\ub7c9 \uc791\ubb3c \ub18d\uc5c5 \uae30\uc220\uc744 \uc9c0\uc6d0\ud558\uace0 \uc788\u2026",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003020441",
+      "urlToImage": "https://ojsfile.ohmynews.com/CRI_T_IMG/2024/0412/A0003020441_T.jpg",
+      "publishedAt": "2024-04-13 10:13:08",
+      "content": ". , , '' . 1 3 1 357 .. , . \" .\" ''(chikungunya) \u00b7 . 1950 , '' . , (2023) .\" 1~2 . . . () ... .\" 1~2 22 2 . . 2023 11 18 . \" , .\" , . . \"3 45 . .\" . 8 , (8) . \" 6 8 10 . . 39 42 .\"- 2023 11 \u2026 [+652 chars]",
+      "retrievedAt": "2024-04-14 21:43:14.416398",
+      "internal_id": "e99ea91f96fe2abd414561158c17099d933254a14442cb052b601f6214df3a0e",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8160,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Descarta Ssa transmisi\u00f3n end\u00e9mica de sarampi\u00f3n en M\u00e9xico",
+      "description": "En M\u00e9xico no existe transmisi\u00f3n end\u00e9mica de sarampi\u00f3n, por lo que seguimos siendo un pa\u00eds libre de casos aut\u00f3ctonos, afirm\u00f3 el subsecretario de Prevenci\u00f3n y Promoci\u00f3n de la Salud, Ruy L\u00f3pez Ridaura, quien destac\u00f3 que pese a que fueron detectados 800 casos sos\u2026",
+      "url": "https://www.jornada.com.mx/2024/04/13/politica/014n3pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-04-13 09:04:18",
+      "content": "Peri\u00f3dico La JornadaS\u00e1bado 13 de abril de 2024, p. 14 En M\u00e9xico no existe transmisi\u00f3n end\u00e9mica de sarampi\u00f3n, por lo que seguimos siendo un pa\u00eds libre de casos aut\u00f3ctonos, afirm\u00f3 el subsecretario de \u2026 [+3113 chars]",
+      "retrievedAt": "2024-04-14 21:43:12.821972",
+      "internal_id": "824737e2fb2e956ba1a3a86eb8e5d0e111acf5b70c7cf43433a47f9176ad29ee",
+      "publishedAtLabel": "Apr 13"
+    },
     {
       "id": 8141,
       "query": [
@@ -31831,332 +32209,6 @@
       "content": "Uma beb\u00ea de 8 meses morreu no Distrito Federal devido a dengue e Covid-19. A m\u00e3e de Helena, Gabriela Alves Martins de Oliveira, relatou que procurou atendimento m\u00e9dico na rede p\u00fablica pelo menos quat\u2026 [+2711 chars]",
       "retrievedAt": "2024-03-06 07:05:49.581167",
       "internal_id": "805da7f8da1dd7a2195af3635d33eee1017ef1c60bce925139b46371c7aaed3e",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6508,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: Remembering the Legacy of Malaria-Fighting Trailblazer Kent Campbell",
-      "description": "[allAfrica] Carlos 'Kent' Campbell, a respected public health physician and global health champion who died on February 20, 2024, is being celebrated by colleagues and coworkers for his pivotal role in fight to eliminate malaria in Africa.",
-      "url": "https://allafrica.com/stories/202403030068.html",
-      "urlToImage": "https://cdn01.allafrica.com/download/pic/main/main/csiid/00641754:1cb739e07dd8a5620e2ffb153e10e138:arc614x376:w1200.jpg",
-      "publishedAt": "2024-03-03 21:13:01",
-      "content": "Carlos 'Kent' Campbell, a respected public health physician and global health champion who died on February 20, 2024, is being celebrated by colleagues and coworkers for his pivotal role in fight to\u2026 [+3996 chars]",
-      "retrievedAt": "2024-03-06 19:05:29.205414",
-      "internal_id": "e6540cf04a4fd2e0d937c065d1162f1a792f117272491a65e1e55424d0e46937",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6360,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "FOX 2 Detroit",
-      "author": "Fox 2 Detroit",
-      "title": "unknown title",
-      "description": "Both Wayne and Washtenaw County Health Departments are working closely with MDHHS to identify anyone who might've been exposed.",
-      "url": "https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties",
-      "urlToImage": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2019/10/1280/720/Measles20germs20pic_1546020282274.png_6564173_ver1.0_640_360.jpg?ve=1&tl=1",
-      "publishedAt": "2024-03-03 21:01:29",
-      "content": "SOUTHFIELD, Mich. (FOX 2) - Two more cases of measles were confirmed by Michigan health officials after the state detected its first positive case in more than four years last week. Wayne County Pub\u2026 [+2997 chars]",
-      "retrievedAt": "2024-03-05 07:05:46.251489",
-      "internal_id": "9a254b81b45c4a726cc43bdeb1ae9b9a0a61649ebc57907bb0b11a26f260fd02",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6363,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Rafael Nascimento, Rafael Nascimento",
-      "title": "Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto",
-      "description": "Doen\u00e7a tem sintomas semelhantes aos da dengue. Funda\u00e7\u00e3o de Vigil\u00e2ncia em Sa\u00fade do AM disse que confirmou surto com base nas orienta\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade",
-      "url": "https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ar/r3/5x/arr35xldkkm8u7y79rtzicsam.jpg",
-      "publishedAt": "2024-03-03 19:30:51",
-      "content": "Ap\u00f3s registrar 1.674 casos da Febre do Oropouche neste ano, o governo do Amazonas reconheceu o surto da doen\u00e7a no estado. A arbovirose tem sintomas semelhantes aos da dengue , como dor de cabe\u00e7a, m\u2026 [+1637 chars]",
-      "retrievedAt": "2024-03-05 07:05:47.425451",
-      "internal_id": "4f54511b881e88ed15874f3ade0a47ecf0fd73c369ac37e0f4e4b21dd65325dc",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6344,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Week Magazine",
-      "author": "theweekonlineeditors@futurenet.com (The Week Staff)",
-      "title": "The Week Unwrapped: Measles, karting and TikTok tunes",
-      "description": "What's behind the rising number of measles outbreaks? Will a new female karting competition change motorsport for the better? And why are some songs disappearing from TikTok?",
-      "url": "https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fAFBBzBL5d9DErhBr6efeN-1200-80.jpg",
-      "publishedAt": "2024-03-03 18:40:21",
-      "content": "Olly Mann and The Week delve behind the headlines and debate what really matters from the past seven days. A podcast for curious, open-minded people, it delivers fresh perspectives on politics, cultu\u2026 [+1070 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.697687",
-      "internal_id": "b2e30dc646c05ed1bdeca4a323b26da89e8ff9100a6a950027f2919f62b31bef",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6349,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "mlive.com",
-      "author": "Bradley Massman | Bmassman@mlive.com",
-      "title": "Health officials confirm measles case in Washtenaw County, warn of exposure spot",
-      "description": "Health officials said anyone potentially exposed should monitor themselves for symptoms for 21 days.",
-      "url": "https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html",
-      "urlToImage": "https://www.mlive.com/resizer/braWJjc9pBYgnHTB8HkXoSOdmqE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KVPYG456ZNDHVGMDJNAZQOS2HU.JPG",
-      "publishedAt": "2024-03-03 18:26:22",
-      "content": "WASHTENAW COUNTY, MI The health department has confirmed a case of measles in Washtenaw County and is warning of a potential exposure spot at one local emergency department. Washtenaw County health \u2026 [+1552 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.792195",
-      "internal_id": "a2aa9eaf06d3ab65b7ff363404cb262f39c5977205f839a27780f7536c55b84c",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6354,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Epidemia de dengue faz Natal decretar emerg\u00eancia em sa\u00fade",
-      "description": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados...",
-      "url": "https://jornaldebrasilia.com.br/?p=2720607",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03182222/IMG_0883.webp",
-      "publishedAt": "2024-03-03 18:23:05",
-      "content": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados tamb\u00e9m indicam uma tend\u00eancia de crescimento pela terceira semana\u2026 [+2894 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.876117",
-      "internal_id": "33a1b0813cf4ec41ba700bbe82a3b37961ab5a8c342a8dd1a553de4616efbc35",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6348,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WDIV ClickOnDetroit",
-      "author": "Kayla Clarke",
-      "title": "Washtenaw County confirms Michigan\u2019s 3rd case of measles this year",
-      "description": "The Washtenaw County Health Department is reporting Michigan\u2019s third case of measles this year.",
-      "url": "https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/353X74D4FRE3VM725VMXJ2EM24.jpg?_a=ATAPphC0",
-      "publishedAt": "2024-03-03 17:47:39",
-      "content": "YPSILANTI, Mich. The Washtenaw County Health Department is reporting Michigans third case of measles this year. Measles is a highly contagious and preventable disease that is caused by a virus. It c\u2026 [+4274 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.783392",
-      "internal_id": "66e75ab3377ee78236ab1e6f0c2a292010d46730996df438609019e7ba8a1142",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6355,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Ansa",
-      "title": "Brasil elogia medidas adotadas pela It\u00e1lia contra dengue",
-      "description": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do ...",
-      "url": "https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-03-03 17:03:51",
-      "content": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do Brasil, Ethel Maciel, afirmou que a It\u00e1lia \"fez bem\" em elevar o n\u00edvel de alerta nas fronteiras e em \"a\u2026 [+3272 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.943794",
-      "internal_id": "96d77d6528e48a135f8a7b7746cac9a520c9d287fe13fec2b91f6cee758c25f9",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6347,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Washtenaw.org",
-      "author": null,
-      "title": "News Flash \u2022 Health Department Alerts Public to Local Measle",
-      "description": "Washtenaw County Health Department is reporting a case of measles and alerting residents to possible exposure on Fri, March 1 at a local emergency department. MMR vaccination is recommended for anyone 1 year and older and anyone potentially exposed.",
-      "url": "https://www.washtenaw.org/CivicAlerts.aspx?AID=2669",
-      "urlToImage": "https://www.washtenaw.org/ImageRepository/Document?documentID=33982",
-      "publishedAt": "2024-03-03 16:58:30",
-      "content": "(Spanish translation now available. Arabic translation will be posted here as soon as possible.) Washtenaw County Health Department is reporting a case of measles and alerting the public to the poss\u2026 [+4449 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.778622",
-      "internal_id": "0115d742ce4f280db0fd16954879da4c565dcf72b89f2a5631d0f6e0c36033c9",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6458,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Crian\u00e7a de 9 anos \u00e9 encontrada morta dentro de casa na Grande BH",
-      "description": "Exames constataram aus\u00eancia de sinais de viol\u00eancia; acredita-se que a causa da morte foi por dengue hemorr\u00e1gica",
-      "url": "https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024",
-      "urlToImage": "https://img.r7.com/images/morre-suspeita-dengue-03032024155458912?dimensions=160x90",
-      "publishedAt": "2024-03-03 15:56:40",
-      "content": "Crian\u00e7a foi levada para um hospital em Esmeraldas (MG) Reprodu\u00e7\u00e3o / Google Street View Uma crian\u00e7a de 9 anos foi encontrada morta dentro de casa, em Ribeir\u00e3o das Neves, na regi\u00e3o metropolitan\u2026 [+1545 chars]",
-      "retrievedAt": "2024-03-06 07:05:49.632919",
-      "internal_id": "c7157848613bfc1b2dc52747534b0752c1b1356dc74494a3455f96eb3296758b",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6350,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "al-jazeera-english",
-      "source_name": "Al Jazeera English",
-      "author": "Al Jazeera",
-      "title": "Week in pictures: From firefighter protests in Seoul to prayers in Gaza",
-      "description": "A roundup of some of last week\u2019s events.",
-      "url": "https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AA-20240301-33853497-33853495-FRIDAY_PRAYERS_OF_PALESTINIANS_AMONG_DESTROYED_MOSQUE_RUBBLE_IN_GAZA_STRIP-1709468351.jpg?resize=1920%2C1440",
-      "publishedAt": "2024-03-03 15:31:34",
-      "content": "From a dengue epidemic in Peru to the funeral of the Russian opposition leader, here is the week in photos.",
-      "retrievedAt": "2024-03-04 19:05:22.751317",
-      "internal_id": "2e2fd80473629f422e9d001fc77aa53f31f474e04931c698c5653557aaea0eeb",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6353,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Popula\u00e7\u00f5es perif\u00e9ricas s\u00e3o mais vulner\u00e1veis \u00e0 dengue",
-      "description": "\"O meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho\u201d. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1...",
-      "url": "https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03152924/IMG_0852.webp",
-      "publishedAt": "2024-03-03 15:30:36",
-      "content": "\u201cO meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1 acostumada com o pequeno Vitor, de 3 anos de idade, pulando de um \u2026 [+9534 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.839937",
-      "internal_id": "79e6ac8676b06abf6fd68f62d083b86a48c2e1f67c3fb94b11290c7908e61783",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6345,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)",
-      "description": "Richard Luscombe / The Guardian: Florida is swamped by disease outbreaks as quackery replaces science \u2014 The state is in the grip of a measles outbreak, yet Joseph Ladapo, the surgeon general, continues to ignore medical science to stop it \u2014 Shortly before\u2026",
-      "url": "https://www.memeorandum.com/240303/p7",
-      "urlToImage": "https://i.guim.co.uk/img/media/160521aedeeb183f524009821e37428c9c19ea5c/0_43_3300_1980/master/3300.jpg?width=300&dpr=2&s=none",
-      "publishedAt": "2024-03-03 15:20:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.725738",
-      "internal_id": "6742296b3d2f02f0d75e721dc29d108237e7b7b149ef2f9ad59923894f6a99fd",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6346,
-      "query": [
-        "measles"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Melissa Rudy",
-      "title": "Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more",
-      "description": "This weekend, check out some of the top stories of the week in Health that you may have missed, including key insights on COVID and autoimmune treatments.",
-      "url": "https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/kidney-transplants-split.jpg",
-      "publishedAt": "2024-03-03 15:18:55",
-      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. Please enter a valid email address. By entering your e\u2026 [+3480 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.764064",
-      "internal_id": "f01d5d96d57062959741f73c8ed148d3eaff0f7467e6f025a181b094f585f5aa",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6446,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Febasgo, Minist\u00e9rio da Sa\u00fade e Opas lan\u00e7am manual sobre dengue para gestantes",
-      "description": "A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas),",
-      "url": "https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2023/03/istock-1097583224.jpg",
-      "publishedAt": "2024-03-03 14:44:06",
-      "content": "\u00daltimas not\u00edcias: A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas), lan\u00e7ou o Manual de Preven\u00e7\u00e3o,\u2026 [+1842 chars]",
-      "retrievedAt": "2024-03-06 07:05:49.576692",
-      "internal_id": "68257706d896542fc814eeedad8f23ca543b0ff37cd70496222d9998cd27e8c4",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6454,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "Mirtha Legrand le pidi\u00f3 al Gobierno que la vacuna del dengue sea gratuita",
-      "description": "La conductora se refiri\u00f3 al aumento de casos que tuvo lugar en las \u00faltimas semanas en todo el pa\u00eds;",
-      "url": "https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/mirtha-pidio-que-la-vacuna-contra-el-dengue-sea-TWGCOU3ELVGQVDB6OOYM2KYRXM.JPG?auth=6cfd3fd285ae28eb6faa3b6a31ad57bceaca996bb5ec954c09941ee330f9b8d8&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-03 12:01:59",
-      "content": "En medio de un aumento exponencial de los casos de dengue en el \u00c1rea Metropolitana de Buenos Aires (AMBA)y otras regiones del pa\u00eds, Mirtha Legrand se quej\u00f3 del valor de las vacunas para prevenirlo y \u2026 [+2542 chars]",
-      "retrievedAt": "2024-03-06 07:05:49.614148",
-      "internal_id": "f185e4a02dc5e0411f5f29ab8cf12a65a9513382510095352199bbf6ceed0ebf",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6352,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": "svenska-dagbladet",
-      "source_name": "Svenska Dagbladet",
-      "author": "Anna Karolina Eriksson/TT",
-      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
-      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vektorburna virussjukdomarna st\u00e5r och knackar p\u00e5 d\u00f6rren, men det finns inga avsatta medel f\u00f6r \u00f6vervakn\u2026",
-      "url": "https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar",
-      "urlToImage": "https://svd.vgc.no/v2/images/90ff6fef-1ca6-4105-b103-658514f2ec88?h=630&q=80&upscale=true&w=1200&s=b693c53191dbce138a60969d340d03bfa6eac7ac",
-      "publishedAt": "2024-03-03 08:34:17",
-      "content": "Invasiva myggarter n\u00e4rmar sig Sverige med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. De vektorburna virussjukdomarna st\u00e5r och knack\u2026 [+99 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.816348",
-      "internal_id": "ed1c0db11933badd1d64c90a024b2d5ad63053f362844dd74ac5eacc53839fb9",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6351,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "TT",
-      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
-      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vek",
-      "url": "https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/6012ca3e-1a73-423b-a19e-da105b74f5e0?fit=crop&format=auto&h=826&q=50&w=1239&s=344ba01e72e2f15f7bac9bc7888853c0f9aacfbe",
-      "publishedAt": "2024-03-03 08:34:16",
-      "content": "Anna Karolina Eriksson/TT share-arrow Dela chevron-left f\u00f6reg\u00e5endechevron-right n\u00e4sta Culex modestus, nilfebersmygga.1 / 2Foto: Anders Lindstr\u00f6m/SVA Invasiva myggarter n\u00e4rmar sig Sverige med f\u2026 [+2998 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.791631",
-      "internal_id": "ae9e266b91ac7889b2e75e16b89d9e01b7d907b335ff1ec5e2fa7639194eae88",
       "publishedAtLabel": "Mar 3"
     }
   ]
