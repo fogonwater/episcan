@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-04-15 07:05
-- **Most recent article:** 2024-04-14 05:46:57
+- **New articles in last harvest:** 6
+- **Last harvest:** 2024-04-15 19:06
+- **Most recent article:** 2024-04-14 18:32:51
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 190 | 181 | 180 | 186 | 158 | 137 | 2 | 1034 |
-| measles | 84 | 112 | 87 | 44 | 36 | 43 | 1 | 407 |
+| dengue | 181 | 181 | 180 | 186 | 158 | 137 | 5 | 1028 |
+| measles | 78 | 112 | 87 | 44 | 36 | 43 | 4 | 404 |
 | malaria | 15 | 23 | 18 | 7 | 13 | 16 | 0 | 92 |
-| zika | 16 | 16 | 12 | 21 | 11 | 10 | 0 | 86 |
+| zika | 14 | 16 | 12 | 21 | 11 | 10 | 0 | 84 |
 | chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 0 | 71 |
 | meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 0 | 64 |
 | rabies | 5 | 6 | 9 | 3 | 16 | 8 | 0 | 47 |
@@ -34,9 +34,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (measles)
 
+- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
+
+- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
+
+- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
+
 - [What parents need to know about measles](https://www.bostonherald.com/2024/04/14/what-parents-need-to-know-about-measles/) (Boston Herald)
 
 ## 24-16 (dengue)
+
+- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
+
+- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
+
+- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 - [Del dengue y la libertad de expresión al ajuste y la violencia: Mirtha Legrand volvió a cargar contra el gobierno de Milei](https://www.lanacion.com.ar/espectaculos/personajes/del-dengue-y-la-libertad-de-expresion-al-ajuste-y-la-violencia-mirtha-legrand-volvio-a-cargar-contra-nid14042024/) (La Nacion)
 
@@ -3360,10 +3372,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: água parada em obras e prédios abandonados preocupa moradores em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/04/dengue-agua-parada-em-obras-e-predios-abandonados-preocupa-moradores-em-campinas.ghtml) (Globo)
 
-- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
-
 ## 24-10 (yersinia)
 
 - [Socio-ecological risk factors associated with human flea infestations of rural household in plague-endemic areas of Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012036) (Plos.org)
@@ -3601,18 +3609,6 @@ Source: [News API](https://newsapi.org/)
 - [Vaccine skepticism on display in Florida](https://www.startribune.com/vaccine-skepticism-on-display-in-florida/600347932/) (Minneapolis Star Tribune)
 
 - [unknown title](https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties) (FOX 2 Detroit)
-
-- [The Week Unwrapped: Measles, karting and TikTok tunes](https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes) (The Week Magazine)
-
-- [Health officials confirm measles case in Washtenaw County, warn of exposure spot](https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html) (mlive.com)
-
-- [Washtenaw County confirms Michigan’s 3rd case of measles this year](https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/) (WDIV ClickOnDetroit)
-
-- [News Flash • Health Department Alerts Public to Local Measle](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669) (Washtenaw.org)
-
-- [Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)](https://www.memeorandum.com/240303/p7) (Memeorandum.com)
-
-- [Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more](https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more) (Fox News)
 
 ## 24-10 (malaria)
 
@@ -4009,24 +4005,6 @@ Source: [News API](https://newsapi.org/)
 - [Bebê morre de dengue e Covid após ser liberada por hospitais](https://brasil.perfil.com/brasil/bebe-morre-de-dengue-e-covid-apos-ser-liberada-por-hospitais.phtml) (Perfil.com)
 
 - [Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto](https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html) (Ig.com.br)
-
-- [Epidemia de dengue faz Natal decretar emergência em saúde](https://jornaldebrasilia.com.br/?p=2720607) (Jornaldebrasilia.com.br)
-
-- [Brasil elogia medidas adotadas pela Itália contra dengue](https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html) (Terra.com.br)
-
-- [Criança de 9 anos é encontrada morta dentro de casa na Grande BH](https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024) (R7.com)
-
-- [Week in pictures: From firefighter protests in Seoul to prayers in Gaza](https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza) (Al Jazeera English)
-
-- [Populações periféricas são mais vulneráveis à dengue](https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/) (Jornaldebrasilia.com.br)
-
-- [Febasgo, Ministério da Saúde e Opas lançam manual sobre dengue para gestantes](https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/) (Catracalivre.com.br)
-
-- [Mirtha Legrand le pidió al Gobierno que la vacuna del dengue sea gratuita](https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/) (La Nacion)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
 
 ## 24-10 (chikungunya)
 
