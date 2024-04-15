@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2024-04-14 21:43
-- **Most recent article:** 2024-04-13 20:54:28
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-04-15 07:05
+- **Most recent article:** 2024-04-14 05:46:57
 
 ---
 
@@ -10,27 +10,37 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 180 | 181 | 180 | 186 | 158 | 125 | 1010 |
-| measles | 77 | 112 | 87 | 44 | 36 | 43 | 399 |
-| malaria | 14 | 23 | 18 | 7 | 13 | 16 | 91 |
-| zika | 14 | 16 | 12 | 21 | 11 | 10 | 84 |
-| chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 71 |
-| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 64 |
-| rabies | 5 | 6 | 9 | 3 | 16 | 8 | 47 |
-| sarampión | 3 | 3 | 12 | 3 | 5 | 13 | 39 |
-| mpox | 5 | 8 | 4 | 6 | 12 | 3 | 38 |
-| pertussis | 4 | 5 | 3 | 6 | 7 | 9 | 34 |
-| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 11 |
-| leptospirosis | 0 | 1 | 0 | 0 | 1 | 2 | 4 |
-| shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 3 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 2 |
+| Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 190 | 181 | 180 | 186 | 158 | 137 | 2 | 1034 |
+| measles | 84 | 112 | 87 | 44 | 36 | 43 | 1 | 407 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 0 | 92 |
+| zika | 16 | 16 | 12 | 21 | 11 | 10 | 0 | 86 |
+| chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 0 | 71 |
+| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 0 | 64 |
+| rabies | 5 | 6 | 9 | 3 | 16 | 8 | 0 | 47 |
+| sarampión | 3 | 3 | 12 | 3 | 5 | 13 | 0 | 39 |
+| mpox | 5 | 8 | 4 | 6 | 12 | 3 | 0 | 38 |
+| pertussis | 4 | 5 | 3 | 6 | 7 | 9 | 0 | 34 |
+| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 0 | 11 |
+| leptospirosis | 0 | 1 | 0 | 0 | 1 | 3 | 0 | 5 |
+| shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 3 |
+| typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-16 (measles)
+
+- [What parents need to know about measles](https://www.bostonherald.com/2024/04/14/what-parents-need-to-know-about-measles/) (Boston Herald)
+
+## 24-16 (dengue)
+
+- [Del dengue y la libertad de expresión al ajuste y la violencia: Mirtha Legrand volvió a cargar contra el gobierno de Milei](https://www.lanacion.com.ar/espectaculos/personajes/del-dengue-y-la-libertad-de-expresion-al-ajuste-y-la-violencia-mirtha-legrand-volvio-a-cargar-contra-nid14042024/) (La Nacion)
+
+- [Pós-dengue: quais são as sequelas mais comuns da doença?](https://www.metropoles.com/saude/pos-dengue-sequelas-mais-comuns) (Metropoles.com)
 
 ## 24-15 (zika)
 
@@ -284,6 +294,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-15 (leptospirosis)
 
+- [Leptospirosis, transmitted by rat urine, is on the rise in NYC, health officials warn](https://www.newsbreak.com/new-york-city-ny/3401583650237-leptospirosis-transmitted-by-rat-urine-is-on-the-rise-in-nyc-health-officials-warn) (Newsbreak.com)
+
 - [Leptospirosis, transmitted by rat urine, is on the rise in NYC, health officials warn](https://gothamist.com/news/leptospirosis-transmitted-by-rat-urine-is-on-the-rise-in-nyc-health-officials-warn) (Gothamist)
 
 - [Severe leptospirosis in tropical and non-tropical areas: A comparison of two french, multicentre, retrospective cohorts](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012084) (Plos.org)
@@ -294,6 +306,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Morre bebê que teve parto antecipado um dia antes da mãe morrer com suspeita de dengue no Paraná](https://www.terra.com.br/noticias/brasil/cidades/morre-bebe-que-teve-parto-antecipado-um-dia-antes-da-mae-morrer-com-suspeita-de-dengue-no-parana,a984ff419a376fc79cbdbc39ce3d55880zf9w3sc.html) (Terra.com.br)
 
+- [Após morte, Piraquara decreta emergência pela dengue e moradores podem ser multados](https://www.terra.com.br/noticias/brasil/cidades/apos-morte-piraquara-decreta-emergencia-pela-dengue-e-moradores-podem-ser-multados,78abd8dc1ff0758bed0ea5efa6ceac46vwkml5xh.html) (Terra.com.br)
+
 - [Casos de dengue superaron los 500, informó el Ministerio de Salud Pública](https://www.montevideo.com.uy/Salud/Casos-de-dengue-superaron-los-500-informo-el-Ministerio-de-Salud-Publica-uc885377) (Montevideo.com.uy)
 
 - [Más de un millón de casos: Brasil avanza con ensayos clínicos de una vacuna monodosis contra el dengue](https://www.lanacion.com.ar/sociedad/mas-de-un-millon-de-casos-brasil-avanza-con-ensayos-clinicos-de-una-vacuna-monodosis-contra-el-nid13042024/) (La Nacion)
@@ -302,15 +316,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Veja os perigos da dengue para crianças de até 5 anos](https://saude.ig.com.br/parceiros/edicase/2024-04-12/veja-os-perigos-da-dengue-para-criancas-de-ate-5-anos.html) (Ig.com.br)
 
+- [Campinas cancela vacinação de dengue neste sábado e reduz tempo de atendimento para pacientes com sintomas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/12/campinas-cancela-vacinacao-de-dengue-neste-sabado-e-reduz-tempo-de-atendimento-para-pacientes-com-sintomas.ghtml) (Globo)
+
 - [Roupa Repelente: nova arma contra a dengue](https://ultimosegundo.ig.com.br/colunas/responsabilidade-com/2024-04-12/roupa-repelente-nova-arma-contra-a-dengue.html) (Ig.com.br)
+
+- [VÍDEO: Secretária de Saúde de Joinville compara filas em hospitais com ida à praia: 'Filinha de 6 horas'](https://www.terra.com.br/noticias/brasil/cidades/video-secretaria-de-saude-de-joinville-compara-filas-em-hospitais-com-ida-a-praia-filinha-de-6-horas,fcbe743be2d0ec0fb44139323deb49e97wv744ll.html) (Terra.com.br)
 
 - [Veja os perigos da dengue para crianças de até 5 anos](https://www.terra.com.br/vida-e-estilo/saude/veja-os-perigos-da-dengue-para-criancas-de-ate-5-anos,290c3f86625c51493fceb1ec3216736fy6a4xkw4.html) (Terra.com.br)
 
+- [Proyecto Wolbachia: Niterói, la ciudad de Brasil que suelta mosquitos desde hace ocho años para frenar el dengue](https://www.lanacion.com.ar/sociedad/proyecto-wolbachia-niteroi-la-ciudad-de-brasil-que-suelta-mosquitos-desde-hace-ocho-anos-para-frenar-nid12042024/) (La Nacion)
+
 - [What you need to know about the latest outbreak of dengue fever](https://www.pbs.org/newshour/health/what-you-need-to-know-about-the-latest-outbreak-of-dengue-fever) (PBS)
+
+- [Alerta dengue: subirá la temperatura, ¿volverán los mosquitos?](https://www.lanacion.com.ar/sociedad/alerta-dengue-subira-la-temperatura-volveran-los-mosquitos-nid12042024/) (La Nacion)
 
 - [Campinas amplia atendimento e vacinação contra dengue e gripe em 10 Centros de Saúde neste sábado](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/12/campinas-amplia-atendimento-e-vacinacao-contra-dengue-e-gripe-em-10-centros-de-saude-neste-sabado.ghtml) (Globo)
 
 - [Mosquito da dengue pode picar por cima da roupa, revela estudo](https://www.terra.com.br/vida-e-estilo/saude/mosquito-da-dengue-pode-picar-por-cima-da-roupa-revela-estudo,a784e23424bd7dc3cc0b0b704cf162e9f4psys1b.html) (Terra.com.br)
+
+- [Epidemia de dengue: una empresa alertó sobre la venta de un repelente falso](https://www.lanacion.com.ar/sociedad/epidemia-de-dengue-una-empresa-alerto-sobre-la-venta-de-un-repelente-falso-nid12042024/) (La Nacion)
 
 - [Dengue: mosquito pode picar até por cima da roupa](https://olhardigital.com.br/2024/04/12/medicina-e-saude/dengue-mosquito-pode-picar-ate-por-cima-da-roupa/) (Olhardigital.com.br)
 
@@ -332,6 +356,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Espírito Santo do Pinhal confirma segunda morte por dengue em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/11/espirito-santo-do-pinhal-confirma-segunda-morte-por-dengue-em-2024.ghtml) (Globo)
 
+- [Muertes por dengue se triplican en Perú, las autoridades tratan de frenar contagios](https://www.vozdeamerica.com/a/muertes-dengue-triplican-peru-autoridades-tratan-frenar-contagios-/7566507.html) (Vozdeamerica.com)
+
+- [PODCAST | El dengue y la Argentina de Milei: caso práctico de gobierno ultraliberal](https://www.eldiario.es/blog/al-dia/podcast-dengue-argentina-milei-caso-practico-gobierno-ultraliberal_132_11282254.html) (Eldiario.es)
+
+- [Fake News comprometem medidas eficientes contra a dengue, diz editor do Comprova](https://www.terra.com.br/noticias/brasil/politica/fake-news-comprometem-medidas-eficientes-contra-a-dengue-diz-editor-do-comprova,2b9a2db552d4c74434e5e2fcb54dc2c32rk8xowv.html) (Terra.com.br)
+
+- [Apesar de ano atípico, outono deve favorecer redução nos casos de dengue, diz assessora técnica](https://www.terra.com.br/noticias/brasil/politica/apesar-de-ano-atipico-outono-deve-favorecer-reducao-nos-casos-de-dengue-diz-assessora-tecnica,56112b8b06b23e1d111f26d9d88d731aan6u6pr4.html) (Terra.com.br)
+
 - [Brasil já tem mais de 3 milhões de casos de dengue em 2024, quase o dobro de 2023](https://www.terra.com.br/vida-e-estilo/saude/brasil-ja-tem-mais-de-3-milhoes-de-casos-de-dengue-em-2024-quase-o-dobro-de-2023,6e6341239d9c488a15d79ca2bc4f4b2f2ut7en5s.html) (Terra.com.br)
 
 - [¿Qué secuelas deja el dengue?](https://www.lanacion.com.ar/sociedad/que-secuelas-deja-el-dengue-nid11042024/) (La Nacion)
@@ -350,6 +382,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Tenda de acolhimento 24 horas para dengue começa a funcionar no Guará](https://www.metropoles.com/distrito-federal/tenda-de-acolhimento-24-horas-para-dengue-comeca-a-funcionar-no-guara) (Metropoles.com)
 
+- [Surto de dengue acende alerta para cuidados com piscinas](https://www.dino.com.br/releases/surto-de-dengue-acende-alerta-para-cuidados-com-piscinas-dino890302551131) (Dino.com.br)
+
 - [Revelan que el gobierno desoyó a los especialistas y postergó la vacuna del dengue](https://www.periodismo.com/2024/04/11/revelan-que-el-gobierno-desoyo-a-los-especialistas-y-postergo-la-vacuna-del-dengue/) (Periodismo.com)
 
 - [Mortes por dengue batem recorde no país](https://valor.globo.com/impresso/noticia/2024/04/11/mortes-por-dengue-batem-recorde-no-pais.ghtml) (Globo)
@@ -359,6 +393,8 @@ Source: [News API](https://newsapi.org/)
 - [Brasil já ultrapassou os três milhões de casos de dengue em 2024](https://expresso.pt/internacional/2024-04-11-Brasil-ja-ultrapassou-os-tres-milhoes-de-casos-de-dengue-em-2024-dcd803eb) (Expresso.pt)
 
 - ["Milei los abandonó": Maduro ofrece ayuda al pueblo argentino para combatir el dengue](https://latamnews.lat/20240411/milei-los-abandono-maduro-ofrece-ayuda-al-pueblo-argentino-para-combatir-el-dengue-1149650791.html) (Latamnews.lat)
+
+- [Las razones de la demora de la importación para abastecer al mercado](https://www.lanacion.com.ar/economia/comercio-exterior/las-razones-de-la-demora-de-la-importacion-para-abastecer-al-mercado-nid11042024/) (La Nacion)
 
 - [¿Estamos ante la fase final del dengue por este año en Argentina?](https://cnnespanol.cnn.com/2024/04/10/estamos-fase-final-dengue-argentina-orix/) (CNN)
 
@@ -3324,6 +3360,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: água parada em obras e prédios abandonados preocupa moradores em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/04/dengue-agua-parada-em-obras-e-predios-abandonados-preocupa-moradores-em-campinas.ghtml) (Globo)
 
+- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
+
+- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
+
 ## 24-10 (yersinia)
 
 - [Socio-ecological risk factors associated with human flea infestations of rural household in plague-endemic areas of Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012036) (Plos.org)
@@ -3560,6 +3600,20 @@ Source: [News API](https://newsapi.org/)
 
 - [Vaccine skepticism on display in Florida](https://www.startribune.com/vaccine-skepticism-on-display-in-florida/600347932/) (Minneapolis Star Tribune)
 
+- [unknown title](https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties) (FOX 2 Detroit)
+
+- [The Week Unwrapped: Measles, karting and TikTok tunes](https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes) (The Week Magazine)
+
+- [Health officials confirm measles case in Washtenaw County, warn of exposure spot](https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html) (mlive.com)
+
+- [Washtenaw County confirms Michigan’s 3rd case of measles this year](https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/) (WDIV ClickOnDetroit)
+
+- [News Flash • Health Department Alerts Public to Local Measle](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669) (Washtenaw.org)
+
+- [Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)](https://www.memeorandum.com/240303/p7) (Memeorandum.com)
+
+- [Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more](https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more) (Fox News)
+
 ## 24-10 (malaria)
 
 - [African health ministers pledge to end malaria deaths in region - Healthwise](https://healthwise.punchng.com/african-health-ministers-pledge-to-end-malaria-deaths-in-region/) (The Punch)
@@ -3589,6 +3643,8 @@ Source: [News API](https://newsapi.org/)
 - [Plateau to distribute 2.9m mosquito nets to citizens](https://punchng.com/plateau-to-distribute-2-9m-mosquito-nets-to-citizens/) (The Punch)
 
 - [Structure-guided design of VAR2CSA-based immunogens and a cocktail strategy for a placental malaria vaccine](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011879) (Plos.org)
+
+- [Africa: Remembering the Legacy of Malaria-Fighting Trailblazer Kent Campbell](https://allafrica.com/stories/202403030068.html) (AllAfrica - Top Africa News)
 
 ## 24-10 (dengue)
 
@@ -3951,6 +4007,26 @@ Source: [News API](https://newsapi.org/)
 - [Febre oropouche: o que é, causas, sintomas e tratamento](https://delas.ig.com.br/parceiros/selecoes/2024-03-04/febre-oropouche--o-que-e--causas--sintomas-e-tratamento.html) (Ig.com.br)
 
 - [Bebê morre de dengue e Covid após ser liberada por hospitais](https://brasil.perfil.com/brasil/bebe-morre-de-dengue-e-covid-apos-ser-liberada-por-hospitais.phtml) (Perfil.com)
+
+- [Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto](https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html) (Ig.com.br)
+
+- [Epidemia de dengue faz Natal decretar emergência em saúde](https://jornaldebrasilia.com.br/?p=2720607) (Jornaldebrasilia.com.br)
+
+- [Brasil elogia medidas adotadas pela Itália contra dengue](https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html) (Terra.com.br)
+
+- [Criança de 9 anos é encontrada morta dentro de casa na Grande BH](https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024) (R7.com)
+
+- [Week in pictures: From firefighter protests in Seoul to prayers in Gaza](https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza) (Al Jazeera English)
+
+- [Populações periféricas são mais vulneráveis à dengue](https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/) (Jornaldebrasilia.com.br)
+
+- [Febasgo, Ministério da Saúde e Opas lançam manual sobre dengue para gestantes](https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/) (Catracalivre.com.br)
+
+- [Mirtha Legrand le pidió al Gobierno que la vacuna del dengue sea gratuita](https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/) (La Nacion)
+
+- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
+
+- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
 
 ## 24-10 (chikungunya)
 

@@ -1,8 +1,80 @@
 {
-  "last_updated": "2024-04-14 21:43",
-  "count_articles_total": 1783,
-  "count_articles_new": 21,
+  "last_updated": "2024-04-15 07:05",
+  "count_articles_total": 1817,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 8174,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Del dengue y la libertad de expresi\u00f3n al ajuste y la violencia: Mirtha Legrand volvi\u00f3 a cargar contra el gobierno de Milei",
+      "description": "La conductora no se guard\u00f3 nada a la hora de hablar de la actualidad del pa\u00eds. \u201cEstoy en contra cuando las cosas se hacen mal, sea de izquierda o de derecha\u201d, se despach\u00f3",
+      "url": "https://www.lanacion.com.ar/espectaculos/personajes/del-dengue-y-la-libertad-de-expresion-al-ajuste-y-la-violencia-mirtha-legrand-volvio-a-cargar-contra-nid14042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/mirtha-volvio-a-mostrarse-preocupada-por-la-IAD4ECF4AVEJPF7VOPFDP57IGU.JPG?auth=9f55c22a0e7eac234187310de27c1a51e39dbe53fb6b5a986a0915a0dc8c2749&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-14 05:46:57",
+      "content": "Mirtha Legrand volvi\u00f3 a manifestar su preocupaci\u00f3n en relaci\u00f3n a la actualidad de la Argentina. Sin vueltas -y tambi\u00e9n sin eufemismos-, apunt\u00f3 contra el gobierno de Javier Milei por su gesti\u00f3n en rel\u2026 [+4187 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.872110",
+      "internal_id": "bced64648fb081514d3cc60d8cd8d2d9bec4a0df8ffa055bae59928fed31dd93",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8173,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "\u00c9rica Montenegro",
+      "title": "P\u00f3s-dengue: quais s\u00e3o as sequelas mais comuns da doen\u00e7a?",
+      "description": "A p\u00f3s-dengue n\u00e3o \u00e9 t\u00e3o comentada quanto a Covid longa. Desconhecimento pode levar as pessoas que tiveram dengue a n\u00e3o associarem mal-estar",
+      "url": "https://www.metropoles.com/saude/pos-dengue-sequelas-mais-comuns",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/01/15114320/Fadiga-cronica-apos-exercicio-fisico.jpg",
+      "publishedAt": "2024-04-14 05:00:45",
+      "content": "O ciclo da dengue no corpo do paciente dura entre 5 e 14 dias. Passado esse per\u00edodo, nem sempre as coisas voltam ao normal. Algumas pessoas ficam mais cansadas, sem disposi\u00e7\u00e3o e, at\u00e9 mesmo, tristes \u2013\u2026 [+4751 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.829491",
+      "internal_id": "5d734545121a1190410c1239d669594eca44407d035117d2f1fe66320a8471de",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8172,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Dr. Andrew N. Hashikawa and Dr. Adam Ratner",
+      "title": "What parents need to know about measles",
+      "description": "Measles was under control in the United States, but we are seeing outbreaks again in areas where vaccination rates have fallen. Because measles is so contagious, outbreaks happen quickly.",
+      "url": "https://www.bostonherald.com/2024/04/14/what-parents-need-to-know-about-measles/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/04/BHR-Z-WFIL-01.jpg?w=1024&h=766",
+      "publishedAt": "2024-04-14 04:32:09",
+      "content": "Measles is a highly contagious disease caused by the measles virus. The infection can lead to serious and sometimes fatal complications. Fortunately, measles is a vaccine-preventable illness. Measle\u2026 [+6091 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.118545",
+      "internal_id": "cc03e92067c8eab21db9138e451aac6892dc142321e3add904efa804056c4ba1",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8187,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Catalina Gonella",
+      "title": "Leptospirosis, transmitted by rat urine, is on the rise in NYC, health officials warn",
+      "description": "A rat seen in New York City on Oct. 19, 2022. The city health department is urging medical professionals to be on the lookout for cases. [ more \u203a ]",
+      "url": "https://www.newsbreak.com/new-york-city-ny/3401583650237-leptospirosis-transmitted-by-rat-urine-is-on-the-rise-in-nyc-health-officials-warn",
+      "urlToImage": "https://img.particlenews.com/img/id/3VgbOV_0sPVz5jc00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-04-13 22:14:22",
+      "content": "A rat seen in New York City on Oct. 19, 2022. Local cases of the infectious disease leptospirosis, which in New York City is largely associated with exposure to rat urine, are continuing to trend u\u2026 [+2482 chars]",
+      "retrievedAt": "2024-04-15 07:05:47.721746",
+      "internal_id": "838caebbaf557a8db63dcbdfebf8bfc9e6f6156bda3a9cec87a6a0ce0c980eb8",
+      "publishedAtLabel": "Apr 13"
+    },
     {
       "id": 8157,
       "query": [
@@ -199,6 +271,24 @@
       "content": "The Southern Nevada Health District (SNHD) has issued a health alert after it was confirmed that a visitor to the Las Vegas Strip may have spread measles, a highly contagious virus. This case comes \u2026 [+2623 chars]",
       "retrievedAt": "2024-04-14 21:43:12.440610",
       "internal_id": "b0aaf0b4d36231f08decfb24f5dd7f353ba1569e2f3b34f08e1d40ca8c1cea5d",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 8185,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Banda B",
+      "title": "Ap\u00f3s morte, Piraquara decreta emerg\u00eancia pela dengue e moradores podem ser multados",
+      "description": "A cidade de Piraquara, na Regi\u00e3o Metropolitana de Curitiba (RMC), decretou, na quinta-feira (11), situa\u00e7\u00e3o de emerg\u00eancia em raz\u00e3o da...",
+      "url": "https://www.terra.com.br/noticias/brasil/cidades/apos-morte-piraquara-decreta-emergencia-pela-dengue-e-moradores-podem-ser-multados,78abd8dc1ff0758bed0ea5efa6ceac46vwkml5xh.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/13/604062237-piraquara-situacao-emergencia-dengue-2024.jpg",
+      "publishedAt": "2024-04-13 12:12:26",
+      "content": "A cidade de Piraquara, na Regi\u00e3o Metropolitana de Curitiba (RMC), decretou, na quinta-feira (11), situa\u00e7\u00e3o de emerg\u00eancia em raz\u00e3o da dengue. A decis\u00e3o foi tomada considerando o aumento de casos de de\u2026 [+1748 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.965741",
+      "internal_id": "383a3174b2fc8fbea48e1e8aa3cdceae80a0b26b99d53f2283f90122deeb5546",
       "publishedAtLabel": "Apr 13"
     },
     {
@@ -472,6 +562,24 @@
       "publishedAtLabel": "Apr 13"
     },
     {
+      "id": 8176,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas cancela vacina\u00e7\u00e3o de dengue neste s\u00e1bado e reduz tempo de atendimento para pacientes com sintomas",
+      "description": "Secretaria de Sa\u00fade mudou esquema de atendimento em 10 unidades que abririam das 7h \u00e0s 17h. Pasta argumenta que Dia D de vacina\u00e7\u00e3o contra gripe demandou esfor\u00e7os. Centro de Sa\u00fade Parque S\u00e3o Quirino, em Campinas (SP), onde t\u00e9cnica de enfermagem foi agredida po\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/12/campinas-cancela-vacinacao-de-dengue-neste-sabado-e-reduz-tempo-de-atendimento-para-pacientes-com-sintomas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/bN6A4d0Zi6FUjPBuq6XKhXUIRpo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/T/u/UAt0KGS5AZMo5Bvx3HeQ/whatsapp-image-2023-06-06-at-17.02.46.jpeg",
+      "publishedAt": "2024-04-12 23:23:13",
+      "content": "Segundo a Secretaria de Sa\u00fade, tanto o cancelamento da aplica\u00e7\u00e3o dos imunizantes de dengue neste s\u00e1bado quanto a redu\u00e7\u00e3o no tempo de funcionamento dos 10 centros de sa\u00fade ocorrem para \"otimizar a cam\u2026 [+1034 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.919371",
+      "internal_id": "fc7e6ae403136ee2cf43f25ba9c2b49f97cb1707b085b4b0f6384fb3e78551fd",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
       "id": 8140,
       "query": [
         "dengue"
@@ -505,6 +613,24 @@
       "content": "Este fin de semana largo es un buen momento para vacunar a los beb\u00e9s y ni\u00f1os contra sarampi\u00f3n, rub\u00e9ola y paperas. Los centros de salud est\u00e1n listos para recibir a los menores de entre 15 meses y 9 a\u00f1\u2026 [+2169 chars]",
       "retrievedAt": "2024-04-14 07:45:51.730350",
       "internal_id": "706808f54385af4866d7fe6ed8f65a616560fc5b7ab0ac999fbfd65f56ecbe99",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 8181,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra",
+      "title": "V\u00cdDEO: Secret\u00e1ria de Sa\u00fade de Joinville compara filas em hospitais com ida \u00e0 praia: 'Filinha de 6 horas'",
+      "description": "A secret\u00e1ria de Sa\u00fade de Joinville, Santa Catarina, T\u00e2nia Eberhardt comparou as filas ...",
+      "url": "https://www.terra.com.br/noticias/brasil/cidades/video-secretaria-de-saude-de-joinville-compara-filas-em-hospitais-com-ida-a-praia-filinha-de-6-horas,fcbe743be2d0ec0fb44139323deb49e97wv744ll.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/12/screenshot-2024-04-12t184745-329-1k1zk2orbsbw3.png",
+      "publishedAt": "2024-04-12 21:50:32",
+      "content": "ResumoA secret\u00e1ria de Sa\u00fade de Joinville, SC, comparou o tempo de filas hospitalares com um passeio para a praia. O munic\u00edpio est\u00e1 enfrentando uma grande demanda de casos de dengue, somando 10,9 mil \u2026 [+2615 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.946435",
+      "internal_id": "90d1e454e7c60a713f903b278033f8e9f20ada425fd2b637b89d480624c5c7f6",
       "publishedAtLabel": "Apr 12"
     },
     {
@@ -616,6 +742,24 @@
       "publishedAtLabel": "Apr 12"
     },
     {
+      "id": 8180,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "El Pa\u00eds",
+      "title": "Proyecto Wolbachia: Niter\u00f3i, la ciudad de Brasil que suelta mosquitos desde hace ocho a\u00f1os para frenar el dengue",
+      "description": "Los prometedores resultados de la introducci\u00f3n de insectos criados en laboratorio animan a otros municipios a interesarse por el m\u00e9todo, descubierto en Australia y que se usa en 14 pa\u00edses",
+      "url": "https://www.lanacion.com.ar/sociedad/proyecto-wolbachia-niteroi-la-ciudad-de-brasil-que-suelta-mosquitos-desde-hace-ocho-anos-para-frenar-nid12042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/R46X2RNOC5D3HEGPFZFDJRSB44.jpg?auth=b25562942280194a9bf40ff05457e23aaa6dd4b6b62e7b8a353caf5d262c7483&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-12 19:56:23",
+      "content": "R\u00cdO DE JANEIRO. Para disfrutar de una de las vistas m\u00e1s lindas de la ciudad de R\u00edo de Janeiro, lo mejor es tomar el ferry, cruzar la bah\u00eda de Guan\u00e1bara como hacen a diario miles de personas y, en 20 \u2026 [+7270 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.941086",
+      "internal_id": "5b568c08dd4f5b1db5f0f4d1d227c6cf3f8857b18932f70ff1d72c0438a50a1c",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
       "id": 8146,
       "query": [
         "meningitis"
@@ -667,6 +811,24 @@
       "content": "Roughly 4.7 million people have been infected with dengue fever so far in 2024, an explosion of cases centered in Latin America and the Caribbean that experts warn could grow. We\u2019re seeing a worriso\u2026 [+7291 chars]",
       "retrievedAt": "2024-04-13 19:05:28.416348",
       "internal_id": "07a93703c6f41fa7632e56185bf63dd475df161c20c7119ee40f093bf947e2de",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 8178,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "Alerta dengue: subir\u00e1 la temperatura, \u00bfvolver\u00e1n los mosquitos?",
+      "description": "Los especialistas se\u00f1alaron que con la llegada del fr\u00edo el insecto est\u00e1 aletargado; prev\u00e9n que proliferar\u00e1n hasta mayo",
+      "url": "https://www.lanacion.com.ar/sociedad/alerta-dengue-subira-la-temperatura-volveran-los-mosquitos-nid12042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-bajas-temperaturas-hacen-que-el-mosquito-N6H53UA4LRC73MH3KDKX3DLWNE.JPG?auth=314cc6512321cb643e7139f2c847d646aa71677a0bd47fe76bb4c652352f09b2&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-12 18:21:11",
+      "content": "En medio de la epidemia hist\u00f3rica de dengue que atraviesa la Argentina, se espera que el descenso de la temperatura ayude a que merme la cantidad de mosquitos en las casas y los espacios abiertos. De\u2026 [+4602 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.931278",
+      "internal_id": "380e5a500104d709683a34102a0b63151ac8709c050519cac0a84e39c04025fe",
       "publishedAtLabel": "Apr 12"
     },
     {
@@ -757,6 +919,24 @@
       "content": "Um estudo feito por pesquisadores do N\u00facleo de Pesquisa Biom\u00e9dica (Nupeb), da Universidade Federal de Lavras, em Minas Gerais, aponta que nem a roupa protege mais contra o mosquito Aedes aegypti. O i\u2026 [+1031 chars]",
       "retrievedAt": "2024-04-13 19:05:28.322154",
       "internal_id": "f4ebc03f78a699613ec895798f15d0dbc52e60dd380cc5490837c6b6d3878e2d",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 8177,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Epidemia de dengue: una empresa alert\u00f3 sobre la venta de un repelente falso",
+      "description": "\u201cAprovechan el contexto para sacar ventaja, poniendo en riesgo a la poblaci\u00f3n\u201d, afirman desde la empresa cuyo repelente fue falsificado",
+      "url": "https://www.lanacion.com.ar/sociedad/epidemia-de-dengue-una-empresa-alerto-sobre-la-venta-de-un-repelente-falso-nid12042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-repelente-en-aerosol-solo-se-podra-llevar-UH6772MMOZAUNG5BK2UHNKDGXU.jpg?auth=f716d901e47ef77f0dc75ad6bba85c3e01ea87856bdcab72de85e02ca3347eef&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-12 15:40:40",
+      "content": "La compa\u00f1\u00eda multinacional Gordej, que comercializa en el pa\u00eds diferentes productos cosm\u00e9ticos, inform\u00f3 p\u00fablicamente hoy que ha detectado la presencia en g\u00f3ndolas de un repelente ap\u00f3crifo. El mismo, i\u2026 [+1531 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.923553",
+      "internal_id": "64646aa025152ccee1006b3370c1f2c919e72cbf9c05e6306094878f9dc42f50",
       "publishedAtLabel": "Apr 12"
     },
     {
@@ -1232,6 +1412,24 @@
       "publishedAtLabel": "Apr 11"
     },
     {
+      "id": 8175,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (Reuters)",
+      "title": "Muertes por dengue se triplican en Per\u00fa, las autoridades tratan de frenar contagios",
+      "description": "El gobierno peruano indic\u00f3 que los casos y muertes por una epidemia de dengue se est\u00e1n triplicando en el pa\u00eds.",
+      "url": "https://www.vozdeamerica.com/a/muertes-dengue-triplican-peru-autoridades-tratan-frenar-contagios-/7566507.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-5f63-08dc5a6eaf89_w1200_r1.jpg",
+      "publishedAt": "2024-04-11 21:44:05",
+      "content": "LIMA Los casos y muertes por una epidemia de dengue en Per\u00fa se han m\u00e1s que triplicado en lo que va del 2024 con respecto al mismo per\u00edodo del a\u00f1o pasado, seg\u00fan datos del gobierno, que est\u00e1 redobland\u2026 [+2743 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.915252",
+      "internal_id": "0154ba8673a40c32f50f551eeb6f1e224bcc4dff06076cdfb2ae8a2a3e34ef37",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
       "id": 8099,
       "query": [
         "measles"
@@ -1247,6 +1445,60 @@
       "content": "A highly infectious disease declared eliminated in the U.S. at the turn of the century threatens to reestablish itself in the country following recent outbreaks, the Centers for Disease Control and P\u2026 [+2947 chars]",
       "retrievedAt": "2024-04-13 07:05:50.952639",
       "internal_id": "285ba5b0bc2432d02d2aa9745156ad6761ad48843b94a7931de4fe19a779bd61",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
+      "id": 8182,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Juan Luis S\u00e1nchez",
+      "title": "PODCAST | El dengue y la Argentina de Milei: caso pr\u00e1ctico de gobierno ultraliberal",
+      "description": "Javier Milei lleg\u00f3 al poder en Argentina con la promesa de acabar con lo p\u00fablico. Y en parte lo ha hecho. El dengue es una enfermedad tropical que est\u00e1 ganando terreno gracias al cambio clim\u00e1tico. En Argentina hay m\u00e1s de 200.000 personas que ya han pasado est\u2026",
+      "url": "https://www.eldiario.es/blog/al-dia/podcast-dengue-argentina-milei-caso-practico-gobierno-ultraliberal_132_11282254.html",
+      "urlToImage": "https://static.eldiario.es/clip/254d5e8b-911a-4c82-8258-0871a1e2aee8_facebook-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-04-11 21:25:34",
+      "content": "'Al d\u00eda' y 'Un tema Al d\u00eda' son el bolet\u00edn y el podcast de elDiario.es para mantenerte informado con las claves de actualidad cada ma\u00f1ana. Con Juanlu S\u00e1nchez, subdirector de eldiario.es, y las aporta\u2026 [+58 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.950901",
+      "internal_id": "ffada7c5c1f73c432414ae6cb7c84e930a1d41baa2e2c9addad0f598954e7b97",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
+      "id": 8184,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra",
+      "title": "Fake News comprometem medidas eficientes contra a dengue, diz editor do Comprova",
+      "description": "Jos\u00e9 Antonio Lima, editor do Comprova, destacou que a desinforma\u00e7\u00e3o impacta na pol\u00edtica de campanha de vacina\u00e7\u00e3o contra a doen\u00e7a",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/fake-news-comprometem-medidas-eficientes-contra-a-dengue-diz-editor-do-comprova,2b9a2db552d4c74434e5e2fcb54dc2c32rk8xowv.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/11/captura-de-tela-2024-04-11-as-17-11-35-vf6gapu1epgk.png",
+      "publishedAt": "2024-04-11 20:51:35",
+      "content": "Em entrevista ao Terra Agora, comandado por Caz\u00e9 Pecini, Jos\u00e9 Antonio Lima, editor do Comprova, destacou que as fake news comprometem as medidas contra a dengue, incluindo a pol\u00edtica de campanha de v\u2026 [+2303 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.960882",
+      "internal_id": "8b47b6ec8b333463420cff84f216d731f1cdacbc23052d9732eb126273e4115c",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
+      "id": 8183,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra",
+      "title": "Apesar de ano at\u00edpico, outono deve favorecer redu\u00e7\u00e3o nos casos de dengue, diz assessora t\u00e9cnica",
+      "description": "Em entrevista, Nathalia Franceschi, Assessora T\u00e9cnica em Sa\u00fade P\u00fablica do Governo de S\u00e3o Paulo comentou sobre o surto de dengue no Pa\u00eds",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/apesar-de-ano-atipico-outono-deve-favorecer-reducao-nos-casos-de-dengue-diz-assessora-tecnica,56112b8b06b23e1d111f26d9d88d731aan6u6pr4.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/11/captura-de-tela-2024-04-11-as-17-35-16-rkzk4pakf8dz.png",
+      "publishedAt": "2024-04-11 20:43:50",
+      "content": "Em entrevista ao Terra Agora, apresentado por Caz\u00e9 Pecini, Nathalia Franceschi, Assessora T\u00e9cnica em Sa\u00fade P\u00fablica do Governo de S\u00e3o Paulo, afirmou que, apesar do ano at\u00edpico no Pa\u00eds, o outono deve f\u2026 [+2672 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.956201",
+      "internal_id": "6db7ce5817ab0397439afd565b9c8beff589aa21913d9d426a88cb0c06cd321a",
       "publishedAtLabel": "Apr 11"
     },
     {
@@ -1649,6 +1901,24 @@
       "publishedAtLabel": "Apr 11"
     },
     {
+      "id": 8186,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dino.com.br",
+      "author": null,
+      "title": "Surto de dengue acende alerta para cuidados com piscinas",
+      "description": "De acordo com o levantamento feito em mar\u00e7o pelo Minist\u00e9rio da Sa\u00fade, o pa\u00eds j\u00e1 ultrapassou o total de 2.010.896 casos prov\u00e1veis de dengue; profissional da BAUMINAS Hidroazul explica os cuidados que devem ser tomados com \u00e1guas paradas em piscinas",
+      "url": "https://www.dino.com.br/releases/surto-de-dengue-acende-alerta-para-cuidados-com-piscinas-dino890302551131",
+      "urlToImage": "https://s2-valor.glbimg.com/U_Q_MK91UCo3V8ThiMB01lHEMhU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/U/9/2AxzD8RYmOvcbBnTEkjg/245c773f-8a5b-4b08-bfba-08cdeb40d85e.jpg",
+      "publishedAt": "2024-04-11 13:39:56",
+      "content": "O Brasil registrou mais de 2 milh\u00f5es de casos de dengue em 2024, segundo dados do Minist\u00e9rio da Sa\u00fade, divulgados pela Ag\u00eancia Brasil. De acordo com o levantamento feito em mar\u00e7o pelo Minist\u00e9rio da S\u2026 [+3013 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.969733",
+      "internal_id": "656ec0128764c99082a52cfd911ee4b2d0bac054b69d5f251e55923b9c7acd21",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
       "id": 8089,
       "query": [
         "dengue"
@@ -1772,6 +2042,24 @@
       "content": "\u00a1El tiempo de Dios es perfecto! Ha nacido la Gran Misi\u00f3n Ciencia, Innovaci\u00f3n y Tecnolog\u00eda Dr. Humberto Fern\u00e1ndez - Mor\u00e1n. Luego de la planificaci\u00f3n y la consulta, la hemos establecido para el desarro\u2026 [+149 chars]",
       "retrievedAt": "2024-04-12 07:06:21.612859",
       "internal_id": "542c0d1a8423649461e74ed4a4a442cf4529d9b593b97fb78838a5c0cc0d5351",
+      "publishedAtLabel": "Apr 11"
+    },
+    {
+      "id": 8179,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Paula Urien",
+      "title": "Las razones de la demora de la importaci\u00f3n para abastecer al mercado",
+      "description": "Qu\u00e9 deja como ense\u00f1anza la falta de un insumo b\u00e1sico en medio de la epidemia de dengue; ante el aumento exponencial de la demanda, con una oferta que no llega a producir a nivel local, los tiempos para adquirir productos en el exterior marcan que la previsibi\u2026",
+      "url": "https://www.lanacion.com.ar/economia/comercio-exterior/las-razones-de-la-demora-de-la-importacion-para-abastecer-al-mercado-nid11042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-falta-de-repelentes-provoco-que-haya-mas-casos-OHJYCTE6VFDWXCSSJY4RGAUR6I.jpg?auth=29c7122e37d17e9cbfe2ab5279eb71b32f2c14aac095fec7aea41bf9a7d1fc7f&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-11 03:01:00",
+      "content": "La guardia est\u00e1 atiborrada de gente; muchos no tienen ni siquiera lugar para sentarse; la espera es de 4 a 6 horas para que un cl\u00ednico, exhausto, atienda a los que se acercan preocupados por su salud\u2026 [+12241 chars]",
+      "retrievedAt": "2024-04-15 07:05:45.936645",
+      "internal_id": "fee992438e1309e6635c0d2dbd37b4397ab03dcb277e0b286b8395f204e9b4fc",
       "publishedAtLabel": "Apr 11"
     },
     {
@@ -32209,6 +32497,332 @@
       "content": "Uma beb\u00ea de 8 meses morreu no Distrito Federal devido a dengue e Covid-19. A m\u00e3e de Helena, Gabriela Alves Martins de Oliveira, relatou que procurou atendimento m\u00e9dico na rede p\u00fablica pelo menos quat\u2026 [+2711 chars]",
       "retrievedAt": "2024-03-06 07:05:49.581167",
       "internal_id": "805da7f8da1dd7a2195af3635d33eee1017ef1c60bce925139b46371c7aaed3e",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6508,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Remembering the Legacy of Malaria-Fighting Trailblazer Kent Campbell",
+      "description": "[allAfrica] Carlos 'Kent' Campbell, a respected public health physician and global health champion who died on February 20, 2024, is being celebrated by colleagues and coworkers for his pivotal role in fight to eliminate malaria in Africa.",
+      "url": "https://allafrica.com/stories/202403030068.html",
+      "urlToImage": "https://cdn01.allafrica.com/download/pic/main/main/csiid/00641754:1cb739e07dd8a5620e2ffb153e10e138:arc614x376:w1200.jpg",
+      "publishedAt": "2024-03-03 21:13:01",
+      "content": "Carlos 'Kent' Campbell, a respected public health physician and global health champion who died on February 20, 2024, is being celebrated by colleagues and coworkers for his pivotal role in fight to\u2026 [+3996 chars]",
+      "retrievedAt": "2024-03-06 19:05:29.205414",
+      "internal_id": "e6540cf04a4fd2e0d937c065d1162f1a792f117272491a65e1e55424d0e46937",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6360,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 2 Detroit",
+      "author": "Fox 2 Detroit",
+      "title": "unknown title",
+      "description": "Both Wayne and Washtenaw County Health Departments are working closely with MDHHS to identify anyone who might've been exposed.",
+      "url": "https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties",
+      "urlToImage": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2019/10/1280/720/Measles20germs20pic_1546020282274.png_6564173_ver1.0_640_360.jpg?ve=1&tl=1",
+      "publishedAt": "2024-03-03 21:01:29",
+      "content": "SOUTHFIELD, Mich. (FOX 2) - Two more cases of measles were confirmed by Michigan health officials after the state detected its first positive case in more than four years last week. Wayne County Pub\u2026 [+2997 chars]",
+      "retrievedAt": "2024-03-05 07:05:46.251489",
+      "internal_id": "9a254b81b45c4a726cc43bdeb1ae9b9a0a61649ebc57907bb0b11a26f260fd02",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6363,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Rafael Nascimento, Rafael Nascimento",
+      "title": "Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto",
+      "description": "Doen\u00e7a tem sintomas semelhantes aos da dengue. Funda\u00e7\u00e3o de Vigil\u00e2ncia em Sa\u00fade do AM disse que confirmou surto com base nas orienta\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade",
+      "url": "https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ar/r3/5x/arr35xldkkm8u7y79rtzicsam.jpg",
+      "publishedAt": "2024-03-03 19:30:51",
+      "content": "Ap\u00f3s registrar 1.674 casos da Febre do Oropouche neste ano, o governo do Amazonas reconheceu o surto da doen\u00e7a no estado. A arbovirose tem sintomas semelhantes aos da dengue , como dor de cabe\u00e7a, m\u2026 [+1637 chars]",
+      "retrievedAt": "2024-03-05 07:05:47.425451",
+      "internal_id": "4f54511b881e88ed15874f3ade0a47ecf0fd73c369ac37e0f4e4b21dd65325dc",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6344,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (The Week Staff)",
+      "title": "The Week Unwrapped: Measles, karting and TikTok tunes",
+      "description": "What's behind the rising number of measles outbreaks? Will a new female karting competition change motorsport for the better? And why are some songs disappearing from TikTok?",
+      "url": "https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fAFBBzBL5d9DErhBr6efeN-1200-80.jpg",
+      "publishedAt": "2024-03-03 18:40:21",
+      "content": "Olly Mann and The Week delve behind the headlines and debate what really matters from the past seven days. A podcast for curious, open-minded people, it delivers fresh perspectives on politics, cultu\u2026 [+1070 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.697687",
+      "internal_id": "b2e30dc646c05ed1bdeca4a323b26da89e8ff9100a6a950027f2919f62b31bef",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6349,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "Bradley Massman | Bmassman@mlive.com",
+      "title": "Health officials confirm measles case in Washtenaw County, warn of exposure spot",
+      "description": "Health officials said anyone potentially exposed should monitor themselves for symptoms for 21 days.",
+      "url": "https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html",
+      "urlToImage": "https://www.mlive.com/resizer/braWJjc9pBYgnHTB8HkXoSOdmqE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KVPYG456ZNDHVGMDJNAZQOS2HU.JPG",
+      "publishedAt": "2024-03-03 18:26:22",
+      "content": "WASHTENAW COUNTY, MI The health department has confirmed a case of measles in Washtenaw County and is warning of a potential exposure spot at one local emergency department. Washtenaw County health \u2026 [+1552 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.792195",
+      "internal_id": "a2aa9eaf06d3ab65b7ff363404cb262f39c5977205f839a27780f7536c55b84c",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6354,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Epidemia de dengue faz Natal decretar emerg\u00eancia em sa\u00fade",
+      "description": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados...",
+      "url": "https://jornaldebrasilia.com.br/?p=2720607",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03182222/IMG_0883.webp",
+      "publishedAt": "2024-03-03 18:23:05",
+      "content": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados tamb\u00e9m indicam uma tend\u00eancia de crescimento pela terceira semana\u2026 [+2894 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.876117",
+      "internal_id": "33a1b0813cf4ec41ba700bbe82a3b37961ab5a8c342a8dd1a553de4616efbc35",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6348,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Kayla Clarke",
+      "title": "Washtenaw County confirms Michigan\u2019s 3rd case of measles this year",
+      "description": "The Washtenaw County Health Department is reporting Michigan\u2019s third case of measles this year.",
+      "url": "https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/353X74D4FRE3VM725VMXJ2EM24.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-03-03 17:47:39",
+      "content": "YPSILANTI, Mich. The Washtenaw County Health Department is reporting Michigans third case of measles this year. Measles is a highly contagious and preventable disease that is caused by a virus. It c\u2026 [+4274 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.783392",
+      "internal_id": "66e75ab3377ee78236ab1e6f0c2a292010d46730996df438609019e7ba8a1142",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6355,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Brasil elogia medidas adotadas pela It\u00e1lia contra dengue",
+      "description": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do ...",
+      "url": "https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-03-03 17:03:51",
+      "content": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do Brasil, Ethel Maciel, afirmou que a It\u00e1lia \"fez bem\" em elevar o n\u00edvel de alerta nas fronteiras e em \"a\u2026 [+3272 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.943794",
+      "internal_id": "96d77d6528e48a135f8a7b7746cac9a520c9d287fe13fec2b91f6cee758c25f9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6347,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Washtenaw.org",
+      "author": null,
+      "title": "News Flash \u2022 Health Department Alerts Public to Local Measle",
+      "description": "Washtenaw County Health Department is reporting a case of measles and alerting residents to possible exposure on Fri, March 1 at a local emergency department. MMR vaccination is recommended for anyone 1 year and older and anyone potentially exposed.",
+      "url": "https://www.washtenaw.org/CivicAlerts.aspx?AID=2669",
+      "urlToImage": "https://www.washtenaw.org/ImageRepository/Document?documentID=33982",
+      "publishedAt": "2024-03-03 16:58:30",
+      "content": "(Spanish translation now available. Arabic translation will be posted here as soon as possible.) Washtenaw County Health Department is reporting a case of measles and alerting the public to the poss\u2026 [+4449 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.778622",
+      "internal_id": "0115d742ce4f280db0fd16954879da4c565dcf72b89f2a5631d0f6e0c36033c9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6458,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Crian\u00e7a de 9 anos \u00e9 encontrada morta dentro de casa na Grande BH",
+      "description": "Exames constataram aus\u00eancia de sinais de viol\u00eancia; acredita-se que a causa da morte foi por dengue hemorr\u00e1gica",
+      "url": "https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024",
+      "urlToImage": "https://img.r7.com/images/morre-suspeita-dengue-03032024155458912?dimensions=160x90",
+      "publishedAt": "2024-03-03 15:56:40",
+      "content": "Crian\u00e7a foi levada para um hospital em Esmeraldas (MG) Reprodu\u00e7\u00e3o / Google Street View Uma crian\u00e7a de 9 anos foi encontrada morta dentro de casa, em Ribeir\u00e3o das Neves, na regi\u00e3o metropolitan\u2026 [+1545 chars]",
+      "retrievedAt": "2024-03-06 07:05:49.632919",
+      "internal_id": "c7157848613bfc1b2dc52747534b0752c1b1356dc74494a3455f96eb3296758b",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6350,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Week in pictures: From firefighter protests in Seoul to prayers in Gaza",
+      "description": "A roundup of some of last week\u2019s events.",
+      "url": "https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AA-20240301-33853497-33853495-FRIDAY_PRAYERS_OF_PALESTINIANS_AMONG_DESTROYED_MOSQUE_RUBBLE_IN_GAZA_STRIP-1709468351.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-03-03 15:31:34",
+      "content": "From a dengue epidemic in Peru to the funeral of the Russian opposition leader, here is the week in photos.",
+      "retrievedAt": "2024-03-04 19:05:22.751317",
+      "internal_id": "2e2fd80473629f422e9d001fc77aa53f31f474e04931c698c5653557aaea0eeb",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6353,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Popula\u00e7\u00f5es perif\u00e9ricas s\u00e3o mais vulner\u00e1veis \u00e0 dengue",
+      "description": "\"O meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho\u201d. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03152924/IMG_0852.webp",
+      "publishedAt": "2024-03-03 15:30:36",
+      "content": "\u201cO meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1 acostumada com o pequeno Vitor, de 3 anos de idade, pulando de um \u2026 [+9534 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.839937",
+      "internal_id": "79e6ac8676b06abf6fd68f62d083b86a48c2e1f67c3fb94b11290c7908e61783",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6345,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)",
+      "description": "Richard Luscombe / The Guardian: Florida is swamped by disease outbreaks as quackery replaces science \u2014 The state is in the grip of a measles outbreak, yet Joseph Ladapo, the surgeon general, continues to ignore medical science to stop it \u2014 Shortly before\u2026",
+      "url": "https://www.memeorandum.com/240303/p7",
+      "urlToImage": "https://i.guim.co.uk/img/media/160521aedeeb183f524009821e37428c9c19ea5c/0_43_3300_1980/master/3300.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2024-03-03 15:20:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.725738",
+      "internal_id": "6742296b3d2f02f0d75e721dc29d108237e7b7b149ef2f9ad59923894f6a99fd",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6346,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more",
+      "description": "This weekend, check out some of the top stories of the week in Health that you may have missed, including key insights on COVID and autoimmune treatments.",
+      "url": "https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/kidney-transplants-split.jpg",
+      "publishedAt": "2024-03-03 15:18:55",
+      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. Please enter a valid email address. By entering your e\u2026 [+3480 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.764064",
+      "internal_id": "f01d5d96d57062959741f73c8ed148d3eaff0f7467e6f025a181b094f585f5aa",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6446,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Febasgo, Minist\u00e9rio da Sa\u00fade e Opas lan\u00e7am manual sobre dengue para gestantes",
+      "description": "A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas),",
+      "url": "https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2023/03/istock-1097583224.jpg",
+      "publishedAt": "2024-03-03 14:44:06",
+      "content": "\u00daltimas not\u00edcias: A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas), lan\u00e7ou o Manual de Preven\u00e7\u00e3o,\u2026 [+1842 chars]",
+      "retrievedAt": "2024-03-06 07:05:49.576692",
+      "internal_id": "68257706d896542fc814eeedad8f23ca543b0ff37cd70496222d9998cd27e8c4",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6454,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Mirtha Legrand le pidi\u00f3 al Gobierno que la vacuna del dengue sea gratuita",
+      "description": "La conductora se refiri\u00f3 al aumento de casos que tuvo lugar en las \u00faltimas semanas en todo el pa\u00eds;",
+      "url": "https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/mirtha-pidio-que-la-vacuna-contra-el-dengue-sea-TWGCOU3ELVGQVDB6OOYM2KYRXM.JPG?auth=6cfd3fd285ae28eb6faa3b6a31ad57bceaca996bb5ec954c09941ee330f9b8d8&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-03 12:01:59",
+      "content": "En medio de un aumento exponencial de los casos de dengue en el \u00c1rea Metropolitana de Buenos Aires (AMBA)y otras regiones del pa\u00eds, Mirtha Legrand se quej\u00f3 del valor de las vacunas para prevenirlo y \u2026 [+2542 chars]",
+      "retrievedAt": "2024-03-06 07:05:49.614148",
+      "internal_id": "f185e4a02dc5e0411f5f29ab8cf12a65a9513382510095352199bbf6ceed0ebf",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6352,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Anna Karolina Eriksson/TT",
+      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
+      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vektorburna virussjukdomarna st\u00e5r och knackar p\u00e5 d\u00f6rren, men det finns inga avsatta medel f\u00f6r \u00f6vervakn\u2026",
+      "url": "https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar",
+      "urlToImage": "https://svd.vgc.no/v2/images/90ff6fef-1ca6-4105-b103-658514f2ec88?h=630&q=80&upscale=true&w=1200&s=b693c53191dbce138a60969d340d03bfa6eac7ac",
+      "publishedAt": "2024-03-03 08:34:17",
+      "content": "Invasiva myggarter n\u00e4rmar sig Sverige med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. De vektorburna virussjukdomarna st\u00e5r och knack\u2026 [+99 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.816348",
+      "internal_id": "ed1c0db11933badd1d64c90a024b2d5ad63053f362844dd74ac5eacc53839fb9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6351,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
+      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vek",
+      "url": "https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/6012ca3e-1a73-423b-a19e-da105b74f5e0?fit=crop&format=auto&h=826&q=50&w=1239&s=344ba01e72e2f15f7bac9bc7888853c0f9aacfbe",
+      "publishedAt": "2024-03-03 08:34:16",
+      "content": "Anna Karolina Eriksson/TT share-arrow Dela chevron-left f\u00f6reg\u00e5endechevron-right n\u00e4sta Culex modestus, nilfebersmygga.1 / 2Foto: Anders Lindstr\u00f6m/SVA Invasiva myggarter n\u00e4rmar sig Sverige med f\u2026 [+2998 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.791631",
+      "internal_id": "ae9e266b91ac7889b2e75e16b89d9e01b7d907b335ff1ec5e2fa7639194eae88",
       "publishedAtLabel": "Mar 3"
     }
   ]
