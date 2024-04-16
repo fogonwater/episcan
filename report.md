@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-04-16 07:06
-- **Most recent article:** 2024-04-15 06:21:33
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-04-16 19:05
+- **Most recent article:** 2024-04-15 18:09:47
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 190 | 181 | 180 | 186 | 158 | 138 | 7 | 1040 |
-| measles | 84 | 112 | 87 | 44 | 36 | 43 | 5 | 411 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 0 | 92 |
-| zika | 16 | 16 | 12 | 21 | 11 | 10 | 0 | 86 |
-| chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 0 | 71 |
+| dengue | 181 | 181 | 180 | 186 | 158 | 138 | 18 | 1042 |
+| measles | 78 | 112 | 87 | 44 | 36 | 43 | 8 | 408 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 2 | 94 |
+| zika | 14 | 16 | 12 | 21 | 11 | 10 | 0 | 84 |
+| chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 1 | 72 |
 | meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 2 | 66 |
 | rabies | 5 | 6 | 9 | 3 | 16 | 8 | 0 | 47 |
+| mpox | 5 | 8 | 4 | 6 | 12 | 3 | 1 | 39 |
 | sarampión | 3 | 3 | 12 | 3 | 5 | 13 | 0 | 39 |
-| mpox | 5 | 8 | 4 | 6 | 12 | 3 | 0 | 38 |
-| pertussis | 4 | 5 | 3 | 6 | 7 | 9 | 0 | 34 |
-| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 0 | 11 |
+| pertussis | 4 | 5 | 3 | 6 | 7 | 9 | 1 | 35 |
+| yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 1 | 12 |
 | leptospirosis | 0 | 1 | 0 | 0 | 1 | 3 | 0 | 5 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 3 |
 | typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 2 |
@@ -32,6 +32,18 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-16 (yersinia)
+
+- [All the diseases you might have if you lived in a medieval city (video)](https://en.protothema.gr/all-the-diseases-you-might-have-if-you-lived-in-a-medieval-city-video/) (Protothema.gr)
+
+## 24-16 (pertussis)
+
+- [Dugang na bakuna kontra pertussis, halat kan Bula Municipal Health Office](https://www.gmanetwork.com/regionaltv/balitangbicolandia/111353/dugang-na-bakuna-kontra-pertussis-halat-kan-bula-municipal-health-office/video/) (GMA News)
+
+## 24-16 (mpox)
+
+- [Epidémie de mpox : la RDC va homologuer en urgence deux vaccins et un traitement](https://www.lemonde.fr/afrique/article/2024/04/15/epidemie-de-mpox-la-rdc-va-homologuer-en-urgence-deux-vaccins-et-un-traitement_6227992_3212.html) (Le Monde)
+
 ## 24-16 (meningitis)
 
 - [Paramedics On Scene S05E01 1080p WEBRip x264-W45Ps](https://rlsbb.cc/paramedics-on-scene-s05e01-1080p-webrip-x264-w45ps/) (Rlsbb.cc)
@@ -39,6 +51,12 @@ Source: [News API](https://newsapi.org/)
 - [Paramedics On Scene S05E01 1080p WEBRip x264-W45Ps](https://rlsbb.ru/paramedics-on-scene-s05e01-1080p-webrip-x264-w45ps/) (Rlsbb.ru)
 
 ## 24-16 (measles)
+
+- [U.S. Measles Cases Are Rising in 2024, CDC Warns](https://www.smithsonianmag.com/smart-news/us-measles-cases-are-rising-in-2024-cdc-warns-180984150/) (Smithsonian.com)
+
+- [Health officials: No measles reported after potential exposure, COVID cases down](https://www.wlwt.com/article/cincinnati-health-department-measles-heritage-bank-covid-update/60497913) (WLWT Cincinnati)
+
+- [Monday, April 15, 2024](https://kffhealthnews.org/morning-briefing/monday-april-15-2024/) (Kffhealthnews.org)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
@@ -50,7 +68,35 @@ Source: [News API](https://newsapi.org/)
 
 - [What parents need to know about measles](https://www.bostonherald.com/2024/04/14/what-parents-need-to-know-about-measles/) (Boston Herald)
 
+## 24-16 (malaria)
+
+- [Anger against DMK is transferring to BJP in a positive way: PM Modi](https://www.thehindubusinessline.com/news/elections/anger-against-dmk-is-transferring-to-bjp-in-a-positive-way-pm-modi/article68068087.ece) (BusinessLine)
+
+- [Ett år av krig: Sudans barn betalar priset](https://www.svd.se/a/4Bj35g/ett-ar-av-krig-sudans-barn-betalar-priset) (Svenska Dagbladet)
+
 ## 24-16 (dengue)
+
+- [Dengue: bactéria pode frear transmissão da doença no Brasil](https://olhardigital.com.br/2024/04/15/medicina-e-saude/dengue-bacteria-pode-frear-transmissao-da-doenca-no-brasil/) (Olhardigital.com.br)
+
+- [Transmitida por mosquito, febre oropouche tem alta no Brasil; saiba diferenciá-la da dengue](https://www.terra.com.br/vida-e-estilo/saude/transmitida-por-mosquito-febre-oropouche-tem-alta-no-brasil-saiba-diferencia-la-da-dengue,b5333199f7d7e24e61a90875f48b614da2uma8d4.html) (Terra.com.br)
+
+- [Gefahr durch Tropenkrankheit: Denguefieber-Fälle steigen in Deutschland rasant an](https://www.n-tv.de/wissen/Denguefieber-Faelle-steigen-in-Deutschland-rasant-an-article24874574.html) (N-tv.de)
+
+- [Número de mortes por dengue em São Paulo cresce 25% em uma semana](https://www.metropoles.com/sao-paulo/numero-de-mortes-por-dengue-em-sao-paulo-cresce-25-em-uma-semana) (Metropoles.com)
+
+- [Desde Reino Unido alertan de la presencia de dengue en Ibiza y recomiendan tomar todas las precauciones posibles](https://www.huffingtonpost.es/sociedad/desde-reino-unido-alertan-presencia-dengue-ibiza-recomiendan-tomar-todas-precauciones.html) (Huffingtonpost.es)
+
+- [Dengue en Chile: Cómo se transmite y cuáles son los síntomas una vez contagiado](https://www.cnnchile.com/pais/dengue-chile-como-contagia-sintoma_20240415/) (Cnnchile.com)
+
+- [Anger against DMK is transferring to BJP in a positive way: PM Modi](https://www.thehindubusinessline.com/news/elections/anger-against-dmk-is-transferring-to-bjp-in-a-positive-way-pm-modi/article68068087.ece) (BusinessLine)
+
+- [Último reporte del Minsal sobre dengue “da cuenta de 135 casos en Chile continental”](https://www.cnnchile.com/pais/reporte-minsal-135-casos-dengue-chile-continental_20240415/) (Cnnchile.com)
+
+- [Portugal vai acabar por ter casos de dengue, mas vai demorar](https://greensavers.sapo.pt/portugal-vai-acabar-por-ter-casos-de-dengue-mas-vai-demorar/) (Sapo.pt)
+
+- [Argentina suma ya casi 200 muertes por dengue desde el inicio de la temporada](https://www.abc.es/sociedad/argentina-suma-200-muertes-dengue-inicio-temporada-20240415111459-nt.html) (Www.abc.es)
+
+- [Había una vez un Estado](https://ctxt.es/es/20240401/Firmas/46153/Argentina-Milei-despidos-publico-dengue-epidemia-muertos.htm) (Ctxt.es)
 
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
@@ -65,6 +111,10 @@ Source: [News API](https://newsapi.org/)
 - [Del dengue y la libertad de expresión al ajuste y la violencia: Mirtha Legrand volvió a cargar contra el gobierno de Milei](https://www.lanacion.com.ar/espectaculos/personajes/del-dengue-y-la-libertad-de-expresion-al-ajuste-y-la-violencia-mirtha-legrand-volvio-a-cargar-contra-nid14042024/) (La Nacion)
 
 - [Pós-dengue: quais são as sequelas mais comuns da doença?](https://www.metropoles.com/saude/pos-dengue-sequelas-mais-comuns) (Metropoles.com)
+
+## 24-16 (chikungunya)
+
+- [Portugal vai acabar por ter casos de dengue, mas vai demorar](https://greensavers.sapo.pt/portugal-vai-acabar-por-ter-casos-de-dengue-mas-vai-demorar/) (Sapo.pt)
 
 ## 24-15 (zika)
 
@@ -3386,10 +3436,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: água parada em obras e prédios abandonados preocupa moradores em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/04/dengue-agua-parada-em-obras-e-predios-abandonados-preocupa-moradores-em-campinas.ghtml) (Globo)
 
-- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
-
 ## 24-10 (yersinia)
 
 - [Socio-ecological risk factors associated with human flea infestations of rural household in plague-endemic areas of Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012036) (Plos.org)
@@ -3627,18 +3673,6 @@ Source: [News API](https://newsapi.org/)
 - [Vaccine skepticism on display in Florida](https://www.startribune.com/vaccine-skepticism-on-display-in-florida/600347932/) (Minneapolis Star Tribune)
 
 - [unknown title](https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties) (FOX 2 Detroit)
-
-- [The Week Unwrapped: Measles, karting and TikTok tunes](https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes) (The Week Magazine)
-
-- [Health officials confirm measles case in Washtenaw County, warn of exposure spot](https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html) (mlive.com)
-
-- [Washtenaw County confirms Michigan’s 3rd case of measles this year](https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/) (WDIV ClickOnDetroit)
-
-- [News Flash • Health Department Alerts Public to Local Measle](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669) (Washtenaw.org)
-
-- [Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)](https://www.memeorandum.com/240303/p7) (Memeorandum.com)
-
-- [Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more](https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more) (Fox News)
 
 ## 24-10 (malaria)
 
@@ -4035,24 +4069,6 @@ Source: [News API](https://newsapi.org/)
 - [Bebê morre de dengue e Covid após ser liberada por hospitais](https://brasil.perfil.com/brasil/bebe-morre-de-dengue-e-covid-apos-ser-liberada-por-hospitais.phtml) (Perfil.com)
 
 - [Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto](https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html) (Ig.com.br)
-
-- [Epidemia de dengue faz Natal decretar emergência em saúde](https://jornaldebrasilia.com.br/?p=2720607) (Jornaldebrasilia.com.br)
-
-- [Brasil elogia medidas adotadas pela Itália contra dengue](https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html) (Terra.com.br)
-
-- [Criança de 9 anos é encontrada morta dentro de casa na Grande BH](https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024) (R7.com)
-
-- [Week in pictures: From firefighter protests in Seoul to prayers in Gaza](https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza) (Al Jazeera English)
-
-- [Populações periféricas são mais vulneráveis à dengue](https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/) (Jornaldebrasilia.com.br)
-
-- [Febasgo, Ministério da Saúde e Opas lançam manual sobre dengue para gestantes](https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/) (Catracalivre.com.br)
-
-- [Mirtha Legrand le pidió al Gobierno que la vacuna del dengue sea gratuita](https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/) (La Nacion)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
 
 ## 24-10 (chikungunya)
 
