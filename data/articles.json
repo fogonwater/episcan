@@ -1,8 +1,369 @@
 {
-  "last_updated": "2024-04-16 19:05",
-  "count_articles_total": 1832,
-  "count_articles_new": 18,
+  "last_updated": "2024-04-17 07:07",
+  "count_articles_total": 1868,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 8225,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "mit dpa",
+      "title": "\u00dcbertr\u00e4gt Dengue- und Zika-Viren - Asiatische Tigerm\u00fccke in 2 Berliner Bezirken nachgewiesen - wie Sie sich sch\u00fctzen",
+      "description": "Schon in den vergangenen Jahren wurde die Asiatische Tigerm\u00fccke in Deutschland registriert. Auch in diesem Jahr verbreitet sich die Insektenart hierzulande. Nun wurde sie in zwei Berliner Bezirken nachgewiesen. Wie Sie sich gegen den Krankheits\u00fcbertr\u00e4ger sch\u00fc\u2026",
+      "url": "https://www.focus.de/gesundheit/news/uebertragt-dengue-und-zika-viren-asiatische-tigermuecke-in-2-berliner-bezirken-nachgewiesen-wie-sie-sich-schuetzen_id_259858600.html",
+      "urlToImage": "https://p6.focus.de/img/regional/karlsruhe/id_204963539/asiatische-tigermuecke.jpg?im=Crop%3D%280%2C60%2C760%2C380%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=83244214582f8a6053bd93e63919e69bb5af7e775ff2bf25a21a9a19fb47944c",
+      "publishedAt": "2024-04-16 07:06:28",
+      "content": "Schon in den vergangenen Jahren wurde die Asiatische Tigerm\u00fccke in Deutschland registriert. Auch in diesem Jahr verbreitet sich die Insektenart hierzulande. Nun wurde sie in zwei Berliner Bezirken na\u2026 [+4507 chars]",
+      "retrievedAt": "2024-04-17 07:06:58.769132",
+      "internal_id": "52e063bf2adf9779f3be75b9301ae7ddbfab75abbdb913eac3b38277bd77e5b5",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8235,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "GSK Says FDA Accepts GSK Meningitis Vaccine Candidate File",
+      "description": "(marketscreener.com) GSK plc: * PRESCRIPTION DRUG USER FEE ACT ACTION DATE SET BY FDA FOR 14 FEBRUARY 2025 * FDA ACCEPTS GSK MENINGITIS VACCINE CANDIDATE FILE * SUBMISSION BASED ON RESULTS FROM PIVOTAL PHASE III TRIAL SHOWING ALL PRIMARY ENDPOINTS MET Sour\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/GSK-PLC-9590199/news/GSK-Says-FDA-Accepts-GSK-Meningitis-Vaccine-Candidate-File-46442607/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2024-04-16 06:41:19",
+      "content": "April 16 (Reuters) - GSK plc: * PRESCRIPTION DRUG USER FEE ACT ACTION DATE SET BY FDA FOR 14 FEBRUARY 2025 * FDA ACCEPTS GSK MENINGITIS VACCINE CANDIDATE FILE * SUBMISSION BASED ON RESULTS FROM \u2026 [+109 chars]",
+      "retrievedAt": "2024-04-17 07:06:59.327192",
+      "internal_id": "23c21f24b6e94725467ace79a7e78e57c1320a63554aa38faf26c5ff59bed9c5",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8238,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Janko, M. M., Araujo, A. L., Ascencio, E. J., Guedes, G. R., Vasco, L. E., Santos, R. O., Damasceno, C. P., Medrano, P. G., Chacon-Uscamaita, P. R., Gunderson, A. K., OMalley, S., Kansara, P. H., Narvaez, M. B., Coombes, C., Pizzitutti, F., Salmon-Mulanovich, G., Zaitchik, B. F., Mena, C. F., Lescano, A. G., Barbieri, A. F., Pan, W. K.",
+      "title": "Study protocol: improving response to malaria in the Amazon through identification of inter-community networks and human mobility in border regions of Ecuador, Peru and Brazil",
+      "description": "Introduction Understanding human mobility\u2019s role in malaria transmission is critical to successful control and elimination. However, common approaches to measuring mobility are ill-equipped for remote regions such as the Amazon. This study develops a networ\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/4/e078911",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-04-16 06:27:28",
+      "content": "Introduction Despite considerable progress in reducing the burden of malaria since 2000, progress has stalled in recent years, and malaria still kills over 600000 people per year.1 Nevertheless, dif\u2026 [+11741 chars]",
+      "retrievedAt": "2024-04-17 07:06:59.693376",
+      "internal_id": "a47936257f0ea4431ef557501a049ee46fa17f5ee6b008da647e2b18e0c7e3ec",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8219,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "The Associated Press",
+      "title": "US measles cases are up in 2024. What\u2019s driving the increase?",
+      "description": "There have been 17 times as many U.S. measles cases in the first three months of this year compared with the average number seen in the first three months of the previous three years. That\u2019s according to a government report published Thursday. The report\u2019s au\u2026",
+      "url": "https://www.denverpost.com/2024/04/15/us-measles-cases-are-up-in-2024-whats-driving-the-increase/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/04/Measles-Explainer_13088.jpg?w=1024&h=766",
+      "publishedAt": "2024-04-16 03:42:58",
+      "content": "By DEVI SHASTRI and MIKE STOBBE (Associated Press) Measles outbreaks in the U.S. and abroad are raising health experts concern about the preventable, once-common childhood virus. One of the worlds \u2026 [+4125 chars]",
+      "retrievedAt": "2024-04-17 07:06:57.923014",
+      "internal_id": "041a20ed894cc3f33828cc35aed264a717d513964bd9d9de1c7dfca6f5217f7a",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8221,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Nicole Alarcon Soares",
+      "title": "Health officials sound the alarm as measles cases spike across the country",
+      "description": "News 12 Connecticut\u2019s Justin DeVellis spoke with an infectious disease expert from Yale on the measles outbreak.",
+      "url": "https://www.newsbreak.com/connecticut-state/3404144885815-health-officials-sound-the-alarm-as-measles-cases-spike-across-the-country",
+      "urlToImage": "https://img.particlenews.com/img/id/1zTLB8_0sS5Z6mb00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-04-16 02:17:02",
+      "content": "A Yale health expert is raising awareness of measles as cases are reported in New York and New Jersey. Dr. Magna Dias, a professor of pediatrics at Yale School of Medicine says the U.S. typically \u2026 [+476 chars]",
+      "retrievedAt": "2024-04-17 07:06:57.937734",
+      "internal_id": "ed596fc0e750a3222d4d793272429df7de98ef68a64d68352a9a35b675e4a6f8",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8226,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sopitas.com",
+      "author": "Gabriela Espinosa",
+      "title": "Argentina atraviesa la peor crisis de dengue en su historia\u2026 \u00bfqu\u00e9 podemos aprender?",
+      "description": "La temporada de dengue en Argentina comenz\u00f3 en julio del 2023 y va en la semana 14 del 2024 que termin\u00f3 el pasado 7 de abril.... The post Argentina atraviesa la peor crisis de dengue en su historia\u2026 \u00bfqu\u00e9 podemos aprender? appeared first on Sopitas.com.",
+      "url": "https://www.sopitas.com/noticias/argentina-crisis-dengue-historia-cifras-numeros-ministerio-salud/",
+      "urlToImage": "https://www.sopitas.com/wp-content/uploads/2020/08/mosquitos-modificados-geneticamente-florida-millones-libres-estudio.jpg",
+      "publishedAt": "2024-04-16 01:08:19",
+      "content": "Lo que necesitas saber: El n\u00famero de casos de dengue registrados en Argentina encendi\u00f3 varias alertas. La temporada de dengue en Argentina comenz\u00f3 en julio del 2023 y va en la semana 14 del 2024 q\u2026 [+4584 chars]",
+      "retrievedAt": "2024-04-17 07:06:58.779629",
+      "internal_id": "17c52fce3068d0aff7f6cc0575df1bfbc8db095613f215067ddf3a2b9a681332",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8236,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "GlobeNewswire",
+      "title": "EBC Financial Group Partners with United to Beat Malaria, a Campaign of the United Nations Foundation, to Protect Vulnerable Children and Their Families from Malaria",
+      "description": "EBC Financial Group Amplifies Malaria Eradication Efforts, Supporting Critical Health Interventions and Community Empowerment WASHINGTON, April 16, 2024 (GLOBE NEWSWIRE) \u2014 Today, EBC Financial Group (EBC) announced a new partnership with United to Beat Malari\u2026",
+      "url": "https://financialpost.com/globe-newswire/ebc-financial-group-partners-with-united-to-beat-malaria-a-campaign-of-the-united-nations-foundation-to-protect-vulnerable-children-and-their-families-from-malaria",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/04/in-front-of-capitol-hill.jpeg",
+      "publishedAt": "2024-04-16 01:07:40",
+      "content": "Author of the article: EBC with delegates of the United to Beat Malaria 2024 Leadership Summit at Capitol HillGNW Article content EBC Financial Group Amplifies Malaria Eradication Efforts, Support\u2026 [+10687 chars]",
+      "retrievedAt": "2024-04-17 07:06:59.684164",
+      "internal_id": "5f7d45b6485784d30da5a6b394c17aec1bc5dbdcf1c31234dd2f743bacf6b450",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8220,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX5 Las Vegas",
+      "author": "Elaine Emerson",
+      "title": "Health District: No new measles cases reported in Clark County",
+      "description": "The Southern Nevada Health District continues to monitor measles cases after a visitor with measles visited the Las Vegas Strip.",
+      "url": "https://www.fox5vegas.com/2024/04/15/health-district-no-new-measles-case-reported-clark-county/",
+      "urlToImage": "https://gray-kvvu-prod.cdn.arcpublishing.com/resizer/v2/76APWXELQVEZHFFOI42QV2VTZ4.jpg?auth=2ac2518cf0288ed0fb392570594d829827c6dc5ab2d212d584786d3e5388e4e1&width=1200&height=600&smart=true",
+      "publishedAt": "2024-04-16 01:07:02",
+      "content": "LAS VEGAS, Nev. (FOX5) - The Southern Nevada Health District continues to monitor measles cases after a visitor with measles visited the Las Vegas Strip. As of Monday, an SNHD spokesperson said ther\u2026 [+1203 chars]",
+      "retrievedAt": "2024-04-17 07:06:57.930148",
+      "internal_id": "5632efa734f2f5018937d9c5421538368a6c0607a433ef95bfccd00960a38b69",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8237,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC Financial Group Partners with United to Beat Malaria, a Campaign of the United Nations Foundation, to Protect Vulnerable Children and Their Families from Malaria",
+      "description": "EBC Financial Group Amplifies Malaria Eradication Efforts, Supporting Critical Health Interventions and Community Empowerment. ......",
+      "url": "https://www.globenewswire.com/news-release/2024/04/16/2863262/0/en/EBC-Financial-Group-Partners-with-United-to-Beat-Malaria-a-Campaign-of-the-United-Nations-Foundation-to-Protect-Vulnerable-Children-and-Their-Families-from-Malaria.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/25cc6523-80ba-4ea3-9d22-554096ea4b97",
+      "publishedAt": "2024-04-16 01:05:00",
+      "content": "WASHINGTON, April 16, 2024 (GLOBE NEWSWIRE) -- Today, EBC Financial Group (EBC) announced a new partnership with United to Beat Malaria (Beat Malaria), a campaign of the United Nations Foundation (UN\u2026 [+7821 chars]",
+      "retrievedAt": "2024-04-17 07:06:59.688836",
+      "internal_id": "30a98cb5600c3a848bde8b312d0062836c6943e4ea41ef292c9661c6d21dc616",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8227,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Mart\u00edn Llaryora sugiri\u00f3 que avanzar\u00e1 con la vacunaci\u00f3n contra el dengue si el gobierno nacional no lo hace",
+      "description": "El gobernador cordob\u00e9s se refiri\u00f3 a la grave situaci\u00f3n que atraviesa la provincia y afirm\u00f3 que espera \u201clos lineamientos nacionales\u201d para avanzar en acciones locales; reiter\u00f3 su apoyo a la ley de Bases y al Pacto de Mayo",
+      "url": "https://www.lanacion.com.ar/politica/martin-llaryora-sugirio-que-avanzara-con-la-vacunacion-contra-el-dengue-si-el-gobierno-nacional-no-nid15042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/martin-llaryora-gobernador-de-LNYKSA5ERJF2NDNI3RGV4DJ55Y.JPG?auth=d68477033cdf5345b7d70c1d4fd5aa32a81d41d8abb3165f7e8cab557efe5a7c&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-16 00:41:13",
+      "content": "En medio de la epidemia de dengue que afecta al pa\u00eds, el gobernador de C\u00f3rdoba, Mart\u00edn Llaryora afirm\u00f3 que est\u00e1 a la espera de los lineamientos nacionales y adelant\u00f3 que, en caso de que no haya indic\u2026 [+2908 chars]",
+      "retrievedAt": "2024-04-17 07:06:58.829471",
+      "internal_id": "375d569acb96cd3368420a3ac23696173cfb7e02a36d1d1b0f1f62c630aad4c3",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8223,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KSDK.com",
+      "author": "Mercedes Mackay",
+      "title": "Measles cases on the rise across the country",
+      "description": "The problem is so serious, that the CDC warned if it continues to spread, measles may be taken off the list of eliminated diseases.",
+      "url": "https://www.ksdk.com/article/news/health/measles-cases-on-the-rise-missouri-illinois/63-a3f12548-e922-49ea-8755-852b14793688",
+      "urlToImage": "https://media.ksdk.com/assets/KSDK/images/9335d0dd-477f-439a-890b-42af3b022f2c/9335d0dd-477f-439a-890b-42af3b022f2c_1140x641.jpg",
+      "publishedAt": "2024-04-16 00:37:21",
+      "content": "ST. LOUIS Health officials are encouraging everyone to make sure they have their measles vaccination, as cases continue to rise across the country, including in Missouri and Illinois. This is somet\u2026 [+2624 chars]",
+      "retrievedAt": "2024-04-17 07:06:57.956403",
+      "internal_id": "d54acebf0e9872ef5cb0baf7ff1c62f80131570ed6aaed7cf4430bb9448cc38b",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8234,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "a.irwin@uq.edu.au (Adam D Irwin), a.irwin@uq.edu.au (Annelie Brauner), a.irwin@uq.edu.au (Benita Westerlund-Wikstr\u00f6m), a.irwin@uq.edu.au (Brian M Forde), a.irwin@uq.edu.au (Haakon Bergh), a.irwin@uq.edu.au (Kate M Peters), a.irwin@uq.edu.au (Laura Alvarez-Fraga), a.irwin@uq.edu.au (Mark A Schembri), a.irwin@uq.edu.au (Minh-Duy Phan), a.irwin@uq.edu.au (Nguyen Thi Khanh Nhu), a.irwin@uq.edu.au (Patrick NA Harris), a.irwin@uq.edu.au (Paul Turner), a.irwin@uq.edu.au (Sanmarie Schlebusch), a.irwin@uq.edu.au (Scott A Beatson), a.irwin@uq.edu.au (Stacey B Andersen), a.irwin@uq.edu.au (Steven J Hancock), a.irwin@uq.edu.au (Thyl Miliya)",
+      "title": "High-risk Escherichia coli clones that cause neonatal meningitis and association with recrudescent infection",
+      "description": "Neonatal meningitis is a devastating disease associated with high mortality and neurological sequelae. Escherichia coli is the second most common cause of neonatal meningitis in full-term infants (herein NMEC) and the most common cause of meningitis in preter\u2026",
+      "url": "https://elifesciences.org/articles/91853",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-04-16 00:00:00",
+      "content": "In this study, we present a genomic analysis of 58 NMEC isolates obtained over 46 years spanning seven different geographic locations and reveal a dominance of ST95 and ST1193. We also provide direct\u2026 [+5621 chars]",
+      "retrievedAt": "2024-04-17 07:06:59.322630",
+      "internal_id": "4ce3694c4c16b9f68e420f3bbd642c4ec5b773a9bd5f9d15f3caf2e0619af09d",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8232,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "eCristbalChvezBravo, S HookaShemiraniArbabzadeh",
+      "title": "Chile records 135 cases of dengue, all imported",
+      "description": "SANTIAGO, April 15 (Xinhua) -- Chile has so far registered 135 cases of dengue, all imported, chief of the Health Ministry's Department of Epidemiology Christian Garcia said on Monday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/04/16/chile-records-135-cases-of-dengue-all-imported",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-04-15 22:51:00",
+      "content": "SANTIAGO, April 15 (Xinhua) -- Chile has so far registered 135 cases of dengue, all imported, chief of the Health Ministry's Department of Epidemiology Christian Garcia said on Monday. \"There is no\u2026 [+844 chars]",
+      "retrievedAt": "2024-04-17 07:06:58.868669",
+      "internal_id": "fad4a1daeecc820fb93633e6be9dc64e7363f511a4b4fcea7ddfb4c7f2354fc9",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 8230,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Veja a lista atualizada dos bairros com maior incid\u00eancia de dengue em Porto Alegre",
+      "description": "A capital tem 1.810 casos confirmados de dengue, conforme dados divulgados no boletim epidemiol\u00f3gico pela Diretoria de Vigil\u00e2ncia em Sa\u00fade da Secretaria Municipal de Sa\u00fade (SMS)",
+      "url": "https://www.terra.com.br/noticias/veja-a-lista-atualizada-dos-bairros-com-maior-incidencia-de-dengue-em-porto-alegre,68f0639d79b5a3fb291b119399a46ec53amfd5io.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/15/47881036-dengue.jpg",
+      "publishedAt": "2024-04-15 22:48:11",
+      "content": "At\u00e9 o dia 13 de abril de 2024, Porto Alegre registrou 1.810 casos confirmados de dengue, conforme dados divulgados no boletim epidemiol\u00f3gico pela Diretoria de Vigil\u00e2ncia em Sa\u00fade da Secretaria Munici\u2026 [+2037 chars]",
+      "retrievedAt": "2024-04-17 07:06:58.851119",
+      "internal_id": "64f8fd4a284974fce8a47ce686b4e8e404fa70ff29e21c5ce4fb869340f845fc",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 8222,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX19",
+      "author": "Fox19 Digital Staff",
+      "title": "Cincinnati Health Department reports measles case in Tri-State",
+      "description": "Cincinnati Health Department reports measles case in Tri-Statefox19.com",
+      "url": "https://www.fox19.com/2024/04/15/cincinnati-health-department-reports-measles-case-tri-state/",
+      "urlToImage": "https://gray-wxix-prod.cdn.arcpublishing.com/resizer/v2/76APWXELQVEZHFFOI42QV2VTZ4.jpg?auth=2ac2518cf0288ed0fb392570594d829827c6dc5ab2d212d584786d3e5388e4e1&width=1200&height=600&smart=true",
+      "publishedAt": "2024-04-15 21:56:23",
+      "content": "CINCINNATI (WXIX) - An out-of-town visitor to Cincinnati tested positive for measles while in the Tri-State on Wednesday, April 10. According to the Cincinnati Health Department, the person flew in\u2026 [+1251 chars]",
+      "retrievedAt": "2024-04-17 07:06:57.944336",
+      "internal_id": "d591bf6d417c705109516a8b7ce78e2d081122d95bc975e7a62eded43bc6f941",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 8224,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLWT Cincinnati",
+      "author": "Matthew Dietz",
+      "title": "Health Department says visitor to Cincinnati tested positive for measles",
+      "description": "The Cincinnati Health Department has been notified that an out-of-town visitor to Cincinnati has tested positive for measles.",
+      "url": "https://www.wlwt.com/article/cincinnati-health-department-measles-positive-test/60503316",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1359395701-65f38d7b13f47.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+      "publishedAt": "2024-04-15 21:26:00",
+      "content": "CINCINNATI \u2014The Cincinnati Health Department has been notified that an out-of-town visitor to Cincinnati has tested positive for measles. According to CHD, the visitor flew from Illinois to Cincinna\u2026 [+1276 chars]",
+      "retrievedAt": "2024-04-17 07:06:57.963022",
+      "internal_id": "5e932fd534d6a76a98d32e0d9367135d2f5a31d66f532a996bcc3b3444c4a2ec",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 8228,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: com novo \u00f3bito em Americana, regi\u00e3o chega a 15 mortes pela doen\u00e7a em 2024",
+      "description": "Segundo a prefeitura, v\u00edtima \u00e9 um homem, de 74 anos, que residia na regi\u00e3o do bairro Morada do Sol e foi infectado pelo sorotipo 2. Aedes aegypti tamb\u00e9m \u00e9 transmissor da febre amarela Prefeitura de Cabo Frio A Prefeitura de Americana (SP) confirmou, nesta se\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/15/dengue-com-novo-obito-em-americana-regiao-chega-a-15-mortes-pela-doenca-em-2024.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/yrvTbeizO73ltenv-yQNBSjQdKg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/S/0/KOWiHVQF6IaBWD35qehA/g1-mosquito-da-dengue.jpg",
+      "publishedAt": "2024-04-15 20:17:44",
+      "content": "A v\u00edtima \u00e9 um homem, de 74 anos, que residia na regi\u00e3o do bairro Morada do Sol e foi infectado pelo sorotipo 2 da doen\u00e7a. Ele estava internado no Hospital Municipal Dr. Waldemar Tebaldi e morreu em 2\u2026 [+2113 chars]",
+      "retrievedAt": "2024-04-17 07:06:58.839681",
+      "internal_id": "cc3a7419057eb627e73ed1b61ac9711295fb646ed3e2b31ae9a2dc6623208da1",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 8229,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas aplica 2,4 mil doses da vacina contra a dengue; saiba quem pode e onde tomar",
+      "description": "Imunizante \u00e9 aplicado para adolescentes de 10 a 14 anos em todos os centros de sa\u00fade da metr\u00f3pole. Vacina contra a dengue est\u00e1 dispon\u00edvel para crian\u00e7as e adolescentes entre 10 e 14 anos em Campinas (SP) Fernanda Sunega Campinas (SP) j\u00e1 aplicou 2.413 doses da \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/15/campinas-aplica-24-mil-doses-da-vacina-contra-a-dengue-saiba-quem-pode-e-onde-tomar.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/SP4vIC7jVk65eHWRBN0Aa1TwVgE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/s/A/ZYM5TTRkGvu7P0Vf4uEw/whatsapp-image-2024-04-15-at-16.24.28.jpeg",
+      "publishedAt": "2024-04-15 20:14:27",
+      "content": "O n\u00famero de doses \u00e9 suficiente para atender 19% do p\u00fablico-alvo. Na metr\u00f3pole, essa popula\u00e7\u00e3o \u00e9 estimada em 91,2 mil pessoas. As doses est\u00e3o dispon\u00edveis em todos os 68 centros de sa\u00fade de Campinas.\u2026 [+4578 chars]",
+      "retrievedAt": "2024-04-17 07:06:58.847055",
+      "internal_id": "4633ec7b7a182bae515ffca1ea4d0ab4f66835e6dd152b1043b44ab6119ae4a4",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 8218,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Deng Yaomin",
+      "title": "Czech Republic records year's highest whooping cough cases in a week",
+      "description": "PRAGUE, April 15 (Xinhua) -- The Czech Republic recorded nearly 1,500 new cases of whooping cough, or pertussis, last week, the highest weekly number so far this year, according to the latest data from the Czech State Health Institute (SZU). Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/04/16/czech-republic-records-year039s-highest-whooping-cough-cases-in-a-week",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-04-15 19:48:00",
+      "content": "PRAGUE, April 15 (Xinhua) -- The Czech Republic recorded nearly 1,500 new cases of whooping cough, or pertussis, last week, the highest weekly number so far this year, according to the latest data fr\u2026 [+1497 chars]",
+      "retrievedAt": "2024-04-17 07:06:57.179275",
+      "internal_id": "5edf6194ad21a687bd33b45858513cdb175cfc3b87b1c6de2dd2803e6a18e76c",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 8233,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Mosquito da dengue pode picar por cima da roupa? Estudo faz descoberta",
+      "description": "O Brasil enfrenta anualmente desafios no combate ao Aedes Aegypti, com milhares de casos de dengue registrados. Em 2024, o pa\u00eds alcan\u00e7ou um n\u00famero",
+      "url": "https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-picar-por-cima-roupa/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/04/mosquito-da-dengue-pode-picar-por-cima-da-roupa.jpg",
+      "publishedAt": "2024-04-15 19:05:09",
+      "content": "O Brasil enfrenta anualmente desafios no combate ao Aedes Aegypti, com milhares de casos de dengue registrados. Em 2024, o pa\u00eds alcan\u00e7ou um n\u00famero alarmante de mais de 2 milh\u00f5es de casos. Recentemen\u2026 [+3367 chars]",
+      "retrievedAt": "2024-04-17 07:06:58.873206",
+      "internal_id": "5edfc7b60fbc15a66f900d591d9cc0f76fb715ff4b40d097d5dd267126ede4d5",
+      "publishedAtLabel": "Apr 15"
+    },
     {
       "id": 8201,
       "query": [
@@ -291,6 +652,24 @@
       "content": "A coordenadora da Rede Nacional de Vigil\u00e2ncia de Vetores (REVIVE) considera que Portugal continental vai acabar por ter casos de dengue ou chikungunya, mas vai demorar porque o mosquito transmissor \u00e9\u2026 [+3164 chars]",
       "retrievedAt": "2024-04-16 19:05:26.314356",
       "internal_id": "3dcdd7d3ccdd154b088244b829e07d71ac42d6fe982ec7d2981efdd36b8aca8c",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 8231,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Homework",
+      "title": "S\u00edndrome da fadiga cr\u00f4nica atinge mais mulheres e quem teve Covid ou dengue",
+      "description": "A falta de conhecimento sobre a doen\u00e7a tem exposto pacientes a diagn\u00f3sticos equivocados e \u00e0 estigmatiza\u00e7\u00e3o",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/sindrome-da-fadiga-cronica-atinge-mais-mulheres-e-quem-teve-covid-ou-dengue,05a0c2daeb06f44fc2c292289bf6b5b3v7xvtyor.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/14/sindrome-da-fadiga-sokmkehy5yk0.jpg",
+      "publishedAt": "2024-04-15 09:55:24",
+      "content": "ResumoLaura Silva teve covid-19 em 2021 e desenvolveu S\u00edndrome de Fadiga Cr\u00f4nica (EM/SFC) 6 meses depois. Uma pesquisa do ICB-USP mostrou que a doen\u00e7a era observada em 10-20% dos se curaram do v\u00edrus.\u2026 [+4117 chars]",
+      "retrievedAt": "2024-04-17 07:06:58.864323",
+      "internal_id": "4f4de3a5af6e57e5f64276fe7d9457c3f85c4af48542ff0d8075422b3f61fe4d",
       "publishedAtLabel": "Apr 15"
     },
     {
@@ -33093,6 +33472,278 @@
       "content": "Ap\u00f3s registrar 1.674 casos da Febre do Oropouche neste ano, o governo do Amazonas reconheceu o surto da doen\u00e7a no estado. A arbovirose tem sintomas semelhantes aos da dengue , como dor de cabe\u00e7a, m\u2026 [+1637 chars]",
       "retrievedAt": "2024-03-05 07:05:47.425451",
       "internal_id": "4f54511b881e88ed15874f3ade0a47ecf0fd73c369ac37e0f4e4b21dd65325dc",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6344,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (The Week Staff)",
+      "title": "The Week Unwrapped: Measles, karting and TikTok tunes",
+      "description": "What's behind the rising number of measles outbreaks? Will a new female karting competition change motorsport for the better? And why are some songs disappearing from TikTok?",
+      "url": "https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fAFBBzBL5d9DErhBr6efeN-1200-80.jpg",
+      "publishedAt": "2024-03-03 18:40:21",
+      "content": "Olly Mann and The Week delve behind the headlines and debate what really matters from the past seven days. A podcast for curious, open-minded people, it delivers fresh perspectives on politics, cultu\u2026 [+1070 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.697687",
+      "internal_id": "b2e30dc646c05ed1bdeca4a323b26da89e8ff9100a6a950027f2919f62b31bef",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6349,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "Bradley Massman | Bmassman@mlive.com",
+      "title": "Health officials confirm measles case in Washtenaw County, warn of exposure spot",
+      "description": "Health officials said anyone potentially exposed should monitor themselves for symptoms for 21 days.",
+      "url": "https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html",
+      "urlToImage": "https://www.mlive.com/resizer/braWJjc9pBYgnHTB8HkXoSOdmqE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KVPYG456ZNDHVGMDJNAZQOS2HU.JPG",
+      "publishedAt": "2024-03-03 18:26:22",
+      "content": "WASHTENAW COUNTY, MI The health department has confirmed a case of measles in Washtenaw County and is warning of a potential exposure spot at one local emergency department. Washtenaw County health \u2026 [+1552 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.792195",
+      "internal_id": "a2aa9eaf06d3ab65b7ff363404cb262f39c5977205f839a27780f7536c55b84c",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6354,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Epidemia de dengue faz Natal decretar emerg\u00eancia em sa\u00fade",
+      "description": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados...",
+      "url": "https://jornaldebrasilia.com.br/?p=2720607",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03182222/IMG_0883.webp",
+      "publishedAt": "2024-03-03 18:23:05",
+      "content": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados tamb\u00e9m indicam uma tend\u00eancia de crescimento pela terceira semana\u2026 [+2894 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.876117",
+      "internal_id": "33a1b0813cf4ec41ba700bbe82a3b37961ab5a8c342a8dd1a553de4616efbc35",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6348,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Kayla Clarke",
+      "title": "Washtenaw County confirms Michigan\u2019s 3rd case of measles this year",
+      "description": "The Washtenaw County Health Department is reporting Michigan\u2019s third case of measles this year.",
+      "url": "https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/353X74D4FRE3VM725VMXJ2EM24.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-03-03 17:47:39",
+      "content": "YPSILANTI, Mich. The Washtenaw County Health Department is reporting Michigans third case of measles this year. Measles is a highly contagious and preventable disease that is caused by a virus. It c\u2026 [+4274 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.783392",
+      "internal_id": "66e75ab3377ee78236ab1e6f0c2a292010d46730996df438609019e7ba8a1142",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6355,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Brasil elogia medidas adotadas pela It\u00e1lia contra dengue",
+      "description": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do ...",
+      "url": "https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-03-03 17:03:51",
+      "content": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do Brasil, Ethel Maciel, afirmou que a It\u00e1lia \"fez bem\" em elevar o n\u00edvel de alerta nas fronteiras e em \"a\u2026 [+3272 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.943794",
+      "internal_id": "96d77d6528e48a135f8a7b7746cac9a520c9d287fe13fec2b91f6cee758c25f9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6347,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Washtenaw.org",
+      "author": null,
+      "title": "News Flash \u2022 Health Department Alerts Public to Local Measle",
+      "description": "Washtenaw County Health Department is reporting a case of measles and alerting residents to possible exposure on Fri, March 1 at a local emergency department. MMR vaccination is recommended for anyone 1 year and older and anyone potentially exposed.",
+      "url": "https://www.washtenaw.org/CivicAlerts.aspx?AID=2669",
+      "urlToImage": "https://www.washtenaw.org/ImageRepository/Document?documentID=33982",
+      "publishedAt": "2024-03-03 16:58:30",
+      "content": "(Spanish translation now available. Arabic translation will be posted here as soon as possible.) Washtenaw County Health Department is reporting a case of measles and alerting the public to the poss\u2026 [+4449 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.778622",
+      "internal_id": "0115d742ce4f280db0fd16954879da4c565dcf72b89f2a5631d0f6e0c36033c9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6458,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Crian\u00e7a de 9 anos \u00e9 encontrada morta dentro de casa na Grande BH",
+      "description": "Exames constataram aus\u00eancia de sinais de viol\u00eancia; acredita-se que a causa da morte foi por dengue hemorr\u00e1gica",
+      "url": "https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024",
+      "urlToImage": "https://img.r7.com/images/morre-suspeita-dengue-03032024155458912?dimensions=160x90",
+      "publishedAt": "2024-03-03 15:56:40",
+      "content": "Crian\u00e7a foi levada para um hospital em Esmeraldas (MG) Reprodu\u00e7\u00e3o / Google Street View Uma crian\u00e7a de 9 anos foi encontrada morta dentro de casa, em Ribeir\u00e3o das Neves, na regi\u00e3o metropolitan\u2026 [+1545 chars]",
+      "retrievedAt": "2024-03-06 07:05:49.632919",
+      "internal_id": "c7157848613bfc1b2dc52747534b0752c1b1356dc74494a3455f96eb3296758b",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6350,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Week in pictures: From firefighter protests in Seoul to prayers in Gaza",
+      "description": "A roundup of some of last week\u2019s events.",
+      "url": "https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AA-20240301-33853497-33853495-FRIDAY_PRAYERS_OF_PALESTINIANS_AMONG_DESTROYED_MOSQUE_RUBBLE_IN_GAZA_STRIP-1709468351.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-03-03 15:31:34",
+      "content": "From a dengue epidemic in Peru to the funeral of the Russian opposition leader, here is the week in photos.",
+      "retrievedAt": "2024-03-04 19:05:22.751317",
+      "internal_id": "2e2fd80473629f422e9d001fc77aa53f31f474e04931c698c5653557aaea0eeb",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6353,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Popula\u00e7\u00f5es perif\u00e9ricas s\u00e3o mais vulner\u00e1veis \u00e0 dengue",
+      "description": "\"O meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho\u201d. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03152924/IMG_0852.webp",
+      "publishedAt": "2024-03-03 15:30:36",
+      "content": "\u201cO meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1 acostumada com o pequeno Vitor, de 3 anos de idade, pulando de um \u2026 [+9534 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.839937",
+      "internal_id": "79e6ac8676b06abf6fd68f62d083b86a48c2e1f67c3fb94b11290c7908e61783",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6345,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)",
+      "description": "Richard Luscombe / The Guardian: Florida is swamped by disease outbreaks as quackery replaces science \u2014 The state is in the grip of a measles outbreak, yet Joseph Ladapo, the surgeon general, continues to ignore medical science to stop it \u2014 Shortly before\u2026",
+      "url": "https://www.memeorandum.com/240303/p7",
+      "urlToImage": "https://i.guim.co.uk/img/media/160521aedeeb183f524009821e37428c9c19ea5c/0_43_3300_1980/master/3300.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2024-03-03 15:20:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.725738",
+      "internal_id": "6742296b3d2f02f0d75e721dc29d108237e7b7b149ef2f9ad59923894f6a99fd",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6346,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more",
+      "description": "This weekend, check out some of the top stories of the week in Health that you may have missed, including key insights on COVID and autoimmune treatments.",
+      "url": "https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/kidney-transplants-split.jpg",
+      "publishedAt": "2024-03-03 15:18:55",
+      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. Please enter a valid email address. By entering your e\u2026 [+3480 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.764064",
+      "internal_id": "f01d5d96d57062959741f73c8ed148d3eaff0f7467e6f025a181b094f585f5aa",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6446,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Febasgo, Minist\u00e9rio da Sa\u00fade e Opas lan\u00e7am manual sobre dengue para gestantes",
+      "description": "A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas),",
+      "url": "https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2023/03/istock-1097583224.jpg",
+      "publishedAt": "2024-03-03 14:44:06",
+      "content": "\u00daltimas not\u00edcias: A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas), lan\u00e7ou o Manual de Preven\u00e7\u00e3o,\u2026 [+1842 chars]",
+      "retrievedAt": "2024-03-06 07:05:49.576692",
+      "internal_id": "68257706d896542fc814eeedad8f23ca543b0ff37cd70496222d9998cd27e8c4",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6454,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Mirtha Legrand le pidi\u00f3 al Gobierno que la vacuna del dengue sea gratuita",
+      "description": "La conductora se refiri\u00f3 al aumento de casos que tuvo lugar en las \u00faltimas semanas en todo el pa\u00eds;",
+      "url": "https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/mirtha-pidio-que-la-vacuna-contra-el-dengue-sea-TWGCOU3ELVGQVDB6OOYM2KYRXM.JPG?auth=6cfd3fd285ae28eb6faa3b6a31ad57bceaca996bb5ec954c09941ee330f9b8d8&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-03 12:01:59",
+      "content": "En medio de un aumento exponencial de los casos de dengue en el \u00c1rea Metropolitana de Buenos Aires (AMBA)y otras regiones del pa\u00eds, Mirtha Legrand se quej\u00f3 del valor de las vacunas para prevenirlo y \u2026 [+2542 chars]",
+      "retrievedAt": "2024-03-06 07:05:49.614148",
+      "internal_id": "f185e4a02dc5e0411f5f29ab8cf12a65a9513382510095352199bbf6ceed0ebf",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6352,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Anna Karolina Eriksson/TT",
+      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
+      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vektorburna virussjukdomarna st\u00e5r och knackar p\u00e5 d\u00f6rren, men det finns inga avsatta medel f\u00f6r \u00f6vervakn\u2026",
+      "url": "https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar",
+      "urlToImage": "https://svd.vgc.no/v2/images/90ff6fef-1ca6-4105-b103-658514f2ec88?h=630&q=80&upscale=true&w=1200&s=b693c53191dbce138a60969d340d03bfa6eac7ac",
+      "publishedAt": "2024-03-03 08:34:17",
+      "content": "Invasiva myggarter n\u00e4rmar sig Sverige med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. De vektorburna virussjukdomarna st\u00e5r och knack\u2026 [+99 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.816348",
+      "internal_id": "ed1c0db11933badd1d64c90a024b2d5ad63053f362844dd74ac5eacc53839fb9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6351,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
+      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vek",
+      "url": "https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/6012ca3e-1a73-423b-a19e-da105b74f5e0?fit=crop&format=auto&h=826&q=50&w=1239&s=344ba01e72e2f15f7bac9bc7888853c0f9aacfbe",
+      "publishedAt": "2024-03-03 08:34:16",
+      "content": "Anna Karolina Eriksson/TT share-arrow Dela chevron-left f\u00f6reg\u00e5endechevron-right n\u00e4sta Culex modestus, nilfebersmygga.1 / 2Foto: Anders Lindstr\u00f6m/SVA Invasiva myggarter n\u00e4rmar sig Sverige med f\u2026 [+2998 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.791631",
+      "internal_id": "ae9e266b91ac7889b2e75e16b89d9e01b7d907b335ff1ec5e2fa7639194eae88",
       "publishedAtLabel": "Mar 3"
     }
   ]
