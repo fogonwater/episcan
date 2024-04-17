@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2024-04-17 07:07
-- **Most recent article:** 2024-04-16 07:06:28
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-04-17 19:05
+- **Most recent article:** 2024-04-16 17:57:00
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 190 | 181 | 180 | 186 | 158 | 138 | 27 | 1060 |
-| measles | 84 | 112 | 87 | 44 | 36 | 43 | 14 | 420 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 5 | 97 |
-| zika | 16 | 16 | 12 | 21 | 11 | 10 | 1 | 87 |
-| chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 1 | 72 |
-| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 4 | 68 |
+| dengue | 181 | 181 | 180 | 186 | 158 | 138 | 37 | 1061 |
+| measles | 78 | 112 | 87 | 44 | 36 | 43 | 18 | 418 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 6 | 98 |
+| zika | 14 | 16 | 12 | 21 | 11 | 10 | 2 | 86 |
+| chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 2 | 73 |
+| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 7 | 71 |
 | rabies | 5 | 6 | 9 | 3 | 16 | 8 | 0 | 47 |
 | mpox | 5 | 8 | 4 | 6 | 12 | 3 | 1 | 39 |
 | sarampión | 3 | 3 | 12 | 3 | 5 | 13 | 0 | 39 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-16 (zika)
+
+- [D-Fense Pro Tecidos previne picadas do mosquito da dengue por cima das roupas](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/especial-publicitario/d-fense-pro/noticia/2024/04/16/d-fense-pro-tecidos-previne-picadas-do-mosquito-da-dengue-por-cima-das-roupas.ghtml) (Globo)
 
 - [Überträgt Dengue- und Zika-Viren - Asiatische Tigermücke in 2 Berliner Bezirken nachgewiesen - wie Sie sich schützen](https://www.focus.de/gesundheit/news/uebertragt-dengue-und-zika-viren-asiatische-tigermuecke-in-2-berliner-bezirken-nachgewiesen-wie-sie-sich-schuetzen_id_259858600.html) (Focus)
 
@@ -52,6 +54,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (meningitis)
 
+- [Nigeria rolls out world's first full shot against meningitis](https://www.dw.com/en/nigeria-rolls-out-worlds-first-full-shot-against-meningitis/a-68828606) (DW (English))
+
+- [Nigeria rolls out world's first shot against all five strains of meningitis](https://www.dw.com/en/nigeria-rolls-out-worlds-first-shot-against-all-five-strains-of-meningitis/a-68828606) (DW (English))
+
+- [GSK's latest meningitis vaccine accepted for review by US regulator](https://www.marketscreener.com/quote/stock/GSK-PLC-9590199/news/GSK-s-latest-meningitis-vaccine-accepted-for-review-by-US-regulator-46443222/) (Marketscreener.com)
+
 - [GSK Says FDA Accepts GSK Meningitis Vaccine Candidate File](https://www.marketscreener.com/quote/stock/GSK-PLC-9590199/news/GSK-Says-FDA-Accepts-GSK-Meningitis-Vaccine-Candidate-File-46442607/) (Marketscreener.com)
 
 - [High-risk Escherichia coli clones that cause neonatal meningitis and association with recrudescent infection](https://elifesciences.org/articles/91853) (Elifesciences.org)
@@ -61,6 +69,14 @@ Source: [News API](https://newsapi.org/)
 - [Paramedics On Scene S05E01 1080p WEBRip x264-W45Ps](https://rlsbb.ru/paramedics-on-scene-s05e01-1080p-webrip-x264-w45ps/) (Rlsbb.ru)
 
 ## 24-16 (measles)
+
+- [The Supreme Court must consider science, not pseudo-science, in public health rulings](https://www.kevinmd.com/2024/04/the-supreme-court-must-consider-science-not-pseudo-science-in-public-health-rulings.html) (Kevinmd.com)
+
+- [Measles Outbreak Map Reveals Where Cases Are Spiking](https://www.newsweek.com/measles-outbreak-map-us-18-jurisdictions-chicago-florida-1890830) (Newsweek)
+
+- [Tuesday, April 16, 2024](https://kffhealthnews.org/morning-briefing/tuesday-april-16-2024/) (Kffhealthnews.org)
+
+- ['Out-of-town visitor' tests positive for measles in Cincinnati](https://www.wcpo.com/news/local-news/out-of-town-visitor-tests-positive-for-measles-in-cincinnati) (WCPO)
 
 - [US measles cases are up in 2024. What’s driving the increase?](https://www.denverpost.com/2024/04/15/us-measles-cases-are-up-in-2024-whats-driving-the-increase/) (The Denver Post)
 
@@ -92,6 +108,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (malaria)
 
+- [Spatio-temporal spread of artemisinin resistance in Southeast Asia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012017) (Plos.org)
+
 - [Study protocol: improving response to malaria in the Amazon through identification of inter-community networks and human mobility in border regions of Ecuador, Peru and Brazil](https://bmjopen.bmj.com/content/14/4/e078911) (The BMJ)
 
 - [EBC Financial Group Partners with United to Beat Malaria, a Campaign of the United Nations Foundation, to Protect Vulnerable Children and Their Families from Malaria](https://financialpost.com/globe-newswire/ebc-financial-group-partners-with-united-to-beat-malaria-a-campaign-of-the-united-nations-foundation-to-protect-vulnerable-children-and-their-families-from-malaria) (Financial Post)
@@ -103,6 +121,26 @@ Source: [News API](https://newsapi.org/)
 - [Ett år av krig: Sudans barn betalar priset](https://www.svd.se/a/4Bj35g/ett-ar-av-krig-sudans-barn-betalar-priset) (Svenska Dagbladet)
 
 ## 24-16 (dengue)
+
+- [Dengue: algumas plantas podem afastar o mosquito Aedes aegypti](https://olhardigital.com.br/2024/04/16/medicina-e-saude/dengue-algumas-plantas-podem-afastar-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
+
+- [Estas son las zonas más expuestas al dengue en España](https://www.huffingtonpost.es/life/salud/estas-son-zonas-mas-expuestas-dengue-espana.html) (Huffingtonpost.es)
+
+- [PILLOLE DI GOSSIP! ALL’ISOLA PAURA PER MARINA SUMA CHE SI FA MALE DURANTE UNA PROVA – IL POETA PIETRO FANELLI FURIOSO: "NON SIAMO CARNE DA MACELLO” (VIDEO) – LUCE CAPONEGRO, GIA’ SELEN, E’ LA PRIMA ELIMINATA, LA FRECCIATA DI SONIA BRUGANELLI A MALTESE - CHIARA NASTI: “LE BOCCE GROSSE SONO BELLE E NON VEDO L’ORA DI RIFARLE NUOVAMENTE” - GIULIA DE LELLIS E’ TORNATA COL SUO EX ANDREA DAMANTE? I DUE SI SONO VISTI PER UN CAFFE’ MA LEI HA PASSATO IL WEEK END CON GIANO DEL BUFALO – FLIRT IN CORSO TRA LO JUVENTINO MCKENNIE E LA SORELLA DELL’INTERISTA FRATTESI – FIORELLO IMITA SINNER: VIDEO](https://www.dagospia.com/rubrica-2/media_e_tv/pillole-gossip-all-rsquo-isola-paura-marina-suma-che-si-fa-male-391803.htm) (Dagospia.com)
+
+- [Ceilândia recebe tenda de acolhimento para dengue no Hospital Regional](https://www.metropoles.com/distrito-federal/ceilandia-recebe-tenda-de-acolhimento-para-dengue-no-hospital-regional) (Metropoles.com)
+
+- [Registrato caso di dengue a Terni, persona tornata dal Brasile](https://www.ansa.it/umbria/notizie/2024/04/16/registrato-caso-di-dengue-a-terni-persona-tornata-dal-brasile_099e38f7-a4d7-4bda-8540-1188ccf84a60.html) (ANSA.it)
+
+- [El Presidente Javier Milei y el Ministro de Defensa, Luis Petri, anuncian la adquisición de 24 aviones de combate F-16 para la Fuerza Aérea Argentina](https://www.meneame.net/m/ocio/presidente-javier-milei-ministro-defensa-luis-petri-anuncian-24) (Meneame.net)
+
+- [Dengue: casos caem pela metade no Rio de Janeiro](https://saude.ig.com.br/2024-04-16/dengue--casos-caem-pela-metade-no-rio-de-janeiro.html) (Ig.com.br)
+
+- [D-Fense Pro Tecidos: a solução inteligente para te proteger contra a dengue!](https://g1.globo.com/sp/campinas-regiao/especial-publicitario/d-fense-pro/noticia/2024/04/16/d-fense-pro-tecidos-a-solucao-inteligente-para-te-proteger-contra-a-dengue.ghtml) (Globo)
+
+- [D-Fense Pro Tecidos previne picadas do mosquito da dengue por cima das roupas](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/especial-publicitario/d-fense-pro/noticia/2024/04/16/d-fense-pro-tecidos-previne-picadas-do-mosquito-da-dengue-por-cima-das-roupas.ghtml) (Globo)
+
+- [Dr. José Moya Medina*: Dengue: lo que todos debemos saber](https://www.jornada.com.mx/2024/04/16/politica/016a2pol) (Jornada.com.mx)
 
 - [Überträgt Dengue- und Zika-Viren - Asiatische Tigermücke in 2 Berliner Bezirken nachgewiesen - wie Sie sich schützen](https://www.focus.de/gesundheit/news/uebertragt-dengue-und-zika-viren-asiatische-tigermuecke-in-2-berliner-bezirken-nachgewiesen-wie-sie-sich-schuetzen_id_259858600.html) (Focus)
 
@@ -159,6 +197,8 @@ Source: [News API](https://newsapi.org/)
 - [Pós-dengue: quais são as sequelas mais comuns da doença?](https://www.metropoles.com/saude/pos-dengue-sequelas-mais-comuns) (Metropoles.com)
 
 ## 24-16 (chikungunya)
+
+- [D-Fense Pro Tecidos previne picadas do mosquito da dengue por cima das roupas](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/especial-publicitario/d-fense-pro/noticia/2024/04/16/d-fense-pro-tecidos-previne-picadas-do-mosquito-da-dengue-por-cima-das-roupas.ghtml) (Globo)
 
 - [Portugal vai acabar por ter casos de dengue, mas vai demorar](https://greensavers.sapo.pt/portugal-vai-acabar-por-ter-casos-de-dengue-mas-vai-demorar/) (Sapo.pt)
 
@@ -3482,10 +3522,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: água parada em obras e prédios abandonados preocupa moradores em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/04/dengue-agua-parada-em-obras-e-predios-abandonados-preocupa-moradores-em-campinas.ghtml) (Globo)
 
-- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
-
 ## 24-10 (yersinia)
 
 - [Socio-ecological risk factors associated with human flea infestations of rural household in plague-endemic areas of Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012036) (Plos.org)
@@ -3723,18 +3759,6 @@ Source: [News API](https://newsapi.org/)
 - [Vaccine skepticism on display in Florida](https://www.startribune.com/vaccine-skepticism-on-display-in-florida/600347932/) (Minneapolis Star Tribune)
 
 - [unknown title](https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties) (FOX 2 Detroit)
-
-- [The Week Unwrapped: Measles, karting and TikTok tunes](https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes) (The Week Magazine)
-
-- [Health officials confirm measles case in Washtenaw County, warn of exposure spot](https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html) (mlive.com)
-
-- [Washtenaw County confirms Michigan’s 3rd case of measles this year](https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/) (WDIV ClickOnDetroit)
-
-- [News Flash • Health Department Alerts Public to Local Measle](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669) (Washtenaw.org)
-
-- [Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)](https://www.memeorandum.com/240303/p7) (Memeorandum.com)
-
-- [Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more](https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more) (Fox News)
 
 ## 24-10 (malaria)
 
@@ -4131,24 +4155,6 @@ Source: [News API](https://newsapi.org/)
 - [Bebê morre de dengue e Covid após ser liberada por hospitais](https://brasil.perfil.com/brasil/bebe-morre-de-dengue-e-covid-apos-ser-liberada-por-hospitais.phtml) (Perfil.com)
 
 - [Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto](https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html) (Ig.com.br)
-
-- [Epidemia de dengue faz Natal decretar emergência em saúde](https://jornaldebrasilia.com.br/?p=2720607) (Jornaldebrasilia.com.br)
-
-- [Brasil elogia medidas adotadas pela Itália contra dengue](https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html) (Terra.com.br)
-
-- [Criança de 9 anos é encontrada morta dentro de casa na Grande BH](https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024) (R7.com)
-
-- [Week in pictures: From firefighter protests in Seoul to prayers in Gaza](https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza) (Al Jazeera English)
-
-- [Populações periféricas são mais vulneráveis à dengue](https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/) (Jornaldebrasilia.com.br)
-
-- [Febasgo, Ministério da Saúde e Opas lançam manual sobre dengue para gestantes](https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/) (Catracalivre.com.br)
-
-- [Mirtha Legrand le pidió al Gobierno que la vacuna del dengue sea gratuita](https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/) (La Nacion)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
 
 ## 24-10 (chikungunya)
 
