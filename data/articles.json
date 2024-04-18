@@ -1,8 +1,533 @@
 {
-  "last_updated": "2024-04-18 07:06",
-  "count_articles_total": 1904,
-  "count_articles_new": 18,
+  "last_updated": "2024-04-18 19:05",
+  "count_articles_total": 1919,
+  "count_articles_new": 30,
   "articles": [
+    {
+      "id": 8277,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Nida Sayed",
+      "title": "4th phase to microchip dogs starts in Panaji, data to breed well-being",
+      "description": "Panaji: The fourth phase of the Purple Up initiative to microchip dogs, both stray and domestic, has been launched in Panaji by Mission Rabies in coll.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/4th-phase-to-microchip-dogs-starts-in-panaji-data-to-breed-well-being/articleshow/109382133.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-04-17 18:22:57",
+      "content": "In pics: 'Chamkila' star Parineeti Chopra, and Raghav Chadha's Delhi home",
+      "retrievedAt": "2024-04-18 19:05:20.204778",
+      "internal_id": "7ee9b90d31152c5886ef7287526f185cdd29caaaef648cc27ee725b4ea442791",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8285,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luciano Arcoverde",
+      "title": "Dengue: n\u00famero de novas infec\u00e7\u00f5es cai, mas DF lidera em taxa de casos",
+      "description": "Boletim da SES-DF destaca que casos confirmados chegaram a 224,9 mil, mas pasta prev\u00ea diminui\u00e7\u00e3o nas pr\u00f3ximas semanas, devido a sazonalidade",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-numero-de-novas-infeccoes-cai-mas-df-lidera-em-taxa-de-casos",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/04/10204524/dengue-mata-234-pessoas-DF.jpg",
+      "publishedAt": "2024-04-17 18:18:57",
+      "content": "Com mais 14.488 novos casos confirmados o que totaliza 224.935 desde o in\u00edcio do ano , o Distrito Federal continua como a unidade da Federa\u00e7\u00e3o com maior taxa de infec\u00e7\u00f5es prov\u00e1veis por dengue no pa\u00eds\u2026 [+2416 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.460188",
+      "internal_id": "150df9c579b29c286919206f36cf2110fea5be362e198db0f263427d8c919daa",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8291,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "ED WHITE Associated Press",
+      "title": "Lab chief faces sentencing in Michigan 12 years after fatal US meningitis outbreak",
+      "description": "The head of a specialty pharmacy will be sentenced in Michigan for 11 deaths more than a decade ago that were tied to tainted steroids",
+      "url": "https://abcnews.go.com/Health/wireStory/lab-chief-faces-sentencing-michigan-12-years-after-109354442",
+      "urlToImage": "https://i.abcnewsfe.com/a/4e082bf5-11ec-46b2-a1e9-7cac9f37211b/wirestory_b0b5d4c7bf3dc746ed086ca2131bee46_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-17 17:50:24",
+      "content": "HOWELL, Mich. -- Days after a routine injection to ease back pain, Donna Kruzich and a friend drove across the border to Canada in 2012 to see end-of-summer theater in Stratford, Ontario. The 78-yea\u2026 [+4205 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.868421",
+      "internal_id": "cf418819c17690dec16a79ad662bcfbe23a779f8d2857eddf85ec5f0415af6a7",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8294,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "associated-press",
+      "source_name": "Associated Press",
+      "author": "Ed White",
+      "title": "Lab chief faces sentencing in Michigan 12 years after fatal US meningitis outbreak",
+      "description": "The head of a specialty pharmacy will be sentenced in Michigan for 11 deaths more than a decade ago that were tied to tainted steroids. Michigan is the only state that has pursued charges against Barry Cadden for deaths resulting from a national meningitis ou\u2026",
+      "url": "https://apnews.com/article/meningitis-steroids-pharmacy-michigan-sentencing-b0b5d4c7bf3dc746ed086ca2131bee46",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e7c335d/2147483647/strip/true/crop/4032x2268+0+378/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2Ff7%2F07efd8568564b042891444be08ef%2Fc3ef661d2b984b33bdbd43126e93d940",
+      "publishedAt": "2024-04-17 17:35:57",
+      "content": "HOWELL, Mich. (AP) Days after a routine injection to ease back pain, Donna Kruzich and a friend drove across the border to Canada in 2012 to see end-of-summer theater in Stratford, Ontario. The 78-y\u2026 [+4191 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.883488",
+      "internal_id": "19b905ebd43de3ad5e4d404055e2170b608ae78310885941baab75831241a70d",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8292,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "ED WHITE Associated Press",
+      "title": "Lab chief faces sentencing in Michigan 12 years after fatal US meningitis outbreak",
+      "description": "The head of a specialty pharmacy will be sentenced in Michigan for 11 deaths more than a decade ago that were tied to tainted steroids",
+      "url": "https://abcnews.go.com/US/wireStory/lab-chief-faces-sentencing-michigan-12-years-after-109354441",
+      "urlToImage": "https://i.abcnewsfe.com/a/4e082bf5-11ec-46b2-a1e9-7cac9f37211b/wirestory_b0b5d4c7bf3dc746ed086ca2131bee46_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-17 17:34:30",
+      "content": "HOWELL, Mich. -- Days after a routine injection to ease back pain, Donna Kruzich and a friend drove across the border to Canada in 2012 to see end-of-summer theater in Stratford, Ontario. The 78-yea\u2026 [+4205 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.872194",
+      "internal_id": "3bf07377efbfb6e3c013e0f6eea44e54c7dfef75bc96e2db13505d74db81de2d",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8290,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "ED WHITE",
+      "title": "Lab chief faces sentencing in Michigan 12 years after fatal US meningitis outbreak",
+      "description": "Days after a routine injection to ease back pain, Donna Kruzich and a friend drove across the border to Canada in 2012 to see end-of-summer theater in Stratford, Ontario.",
+      "url": "https://www.startribune.com/lab-chief-faces-sentencing-in-michigan-12-years-after-fatal-us-meningitis-outbreak/600359577/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1713369823",
+      "publishedAt": "2024-04-17 17:27:02",
+      "content": "HOWELL, Mich. Days after a routine injection to ease back pain, Donna Kruzich and a friend drove across the border to Canada in 2012 to see end-of-summer theater in Stratford, Ontario. The 78-year-o\u2026 [+4243 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.853261",
+      "internal_id": "3a18b13cbd3add561c42cd49c1049e3d68c2f1e202c92c5087b14af185db27eb",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8293,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Ed White",
+      "title": "Lab chief faces sentencing in Michigan 12 years after fatal US meningitis outbreak",
+      "description": "The head of a specialty pharmacy will be sentenced in Michigan for 11 deaths more than a decade ago that were tied to tainted steroids.",
+      "url": "https://www.clickondetroit.com/health/2024/04/17/lab-chief-faces-sentencing-in-michigan-12-years-after-fatal-us-meningitis-outbreak/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DSUMHLQ5MNAV5OCPD5OXZ6O55I.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-04-17 17:26:09",
+      "content": "HOWELL, Mich. Days after a routine injection to ease back pain, Donna Kruzich and a friend drove across the border to Canada in 2012 to see end-of-summer theater in Stratford, Ontario. The 78-year-o\u2026 [+4355 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.879676",
+      "internal_id": "3172145434eedf923cd6b7a1a2d1b6bb16cb8a90c25c3e2a7a030d401bb6c5be",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8298,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412 \u0414\u0420 \u041a\u043e\u043d\u0433\u043e \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u0448\u0442\u0430\u043c\u043c \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f mpox",
+      "description": "\u0428\u0442\u0430\u043c\u043c \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0440\u0438 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f\u0445 \u0432 \u0448\u0430\u0445\u0442\u0435\u0440\u0441\u043a\u043e\u043c \u0433\u043e\u0440\u043e\u0434\u0435 \u041a\u0430\u043c\u0438\u0442\u0443\u0433\u0435, \u0433\u0434\u0435 \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u0432\u0441\u043f\u044b\u0448\u043a\u0430",
+      "url": "https://tass.ru/obschestvo/20576099",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/20576099?u=2024-04-17T16:40:25.522264",
+      "publishedAt": "2024-04-17 16:40:25",
+      "content": ", 17 . //. () mpox (\"\", ), . The Daily Telegraph. , mpox, . , 2022 , 100 . , , mpox, . Mpox - , , . 1970 . , , , . mpox 1% 10%. .",
+      "retrievedAt": "2024-04-18 19:05:23.369755",
+      "internal_id": "9fe9fc513c27815c20595e7b95980fe64e9863bf54127c6a0f6dcfec232e3102",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8276,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Jneurosci.org",
+      "author": "Ye, Q., Gast, G., Wilfley, E. G., Huynh, H., Hays, C., Holmes, T. C., Xu, X.",
+      "title": "Monosynaptic Rabies Tracing Reveals Sex- and Age-Dependent Dorsal Subiculum Connectivity Alterations in an Alzheimer's Disease Mouse Model",
+      "description": "The subiculum (SUB), a hippocampal formation structure, is among the earliest brain regions impacted in Alzheimer's disease (AD). Toward a better understanding of AD circuit-based mechanisms, we mapped synaptic circuit inputs to dorsal SUB using monosynaptic \u2026",
+      "url": "https://www.jneurosci.org/content/44/16/e1796232024",
+      "urlToImage": "https://www.jneurosci.org/sites/default/files/highwire/jneuro/44/16.cover-source.jpg",
+      "publishedAt": "2024-04-17 16:30:26",
+      "content": "Introduction Alzheimer's disease (AD) is the most common form of dementia and a major health concern worldwide. AD age-progressive cognitive decline is correlated with extensive synaptic and neurona\u2026 [+12925 chars]",
+      "retrievedAt": "2024-04-18 19:05:20.197113",
+      "internal_id": "ca1904aa5aeb4fc0bf7bd5b8bad4b31be9123329b31664140338a06d68104efb",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8295,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Hvg.hu",
+      "author": "hvg@hvg.hu",
+      "title": "Francia aggodalmak, magyar rem\u00e9nyek \u2013 \u00edgy \u00e1llunk 100 nappal az olimpia kezdete el\u0151tt",
+      "description": "Sz\u00e1z nappal a p\u00e1rizsi olimpia megnyit\u00f3ja el\u0151tt m\u00e9g mindig sok a nyitott k\u00e9rd\u00e9s, legyen sz\u00f3 a rendez\u00e9s biztons\u00e1g\u00e1r\u00f3l vagy a magyar sportol\u00f3k r\u00e9szv\u00e9tel\u00e9r\u0151l. Nyolc \u00e9ve, a ri\u00f3i j\u00e1t\u00e9kok el\u0151tt a Zika-v\u00edrus, legut\u00f3bb, a toki\u00f3it megel\u0151z\u0151en a koronav\u00edrus-j\u00e1rv\u00e1ny okozo\u2026",
+      "url": "https://hvg.hu/sport/20240417_100-nap-parizsi-olimpia-megnyito-kvota",
+      "urlToImage": "https://img.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/702abc8d-6e3b-46ad-8632-5771a3403295.jpg",
+      "publishedAt": "2024-04-17 16:25:00",
+      "content": "P\u00e1rizsban amellett, hogy idrl idre fell\u00e1ngol a szoci\u00e1lis vagy gazdas\u00e1gi el\u00e9gedetlens\u00e9g \u00ad el\u00e9g a tavaly tavasszal a tervezett nyugd\u00edjreform miatti t\u00fcntet\u00e9ssorozatot felid\u00e9zni; a terrorfenyegetts\u00e9g fol\u2026 [+13840 chars]",
+      "retrievedAt": "2024-04-18 19:05:22.717423",
+      "internal_id": "01468da20a9a01db5a31eb810d3710bc5ea1dd3d2210bf7e895413313aef276a",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8282,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tudocelular.com",
+      "author": "Tudocelular.com",
+      "title": "Dengue: esp\u00e9cies de plantas t\u00eam subst\u00e2ncias capazes de afastar o Aedes aegypti",
+      "description": "Algumas esp\u00e9cies possuem subst\u00e2ncias em seus tecidos que podem fazer esse papel e combater a a\u00e7\u00e3o do inseto",
+      "url": "https://www.tudocelular.com/tech/noticias/n220251/plantas-podem-afastar-mosquito-da-dengue.html",
+      "urlToImage": "https://t2.tudocdn.net/691369?w=1920",
+      "publishedAt": "2024-04-17 16:20:00",
+      "content": "Existem algumas plantas que podem ajudar na luta contra o Aedes aegypti, transmissor da dengue, doen\u00e7a que acumula mais de 3 milh\u00f5es de casos no Brasil. Os pesquisadores afirmam que existem esp\u00e9cies \u2026 [+1142 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.414676",
+      "internal_id": "e37aee8a645928dae35a9b48340ed4af90c1cdf7e526a1c06ac43da245aac58c",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8289,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Esp\u00edrito Santo Pinhal confirma 4\u00aa morte por dengue em 2024; regi\u00e3o chega a 17 \u00f3bitos",
+      "description": "Segundo a prefeitura, v\u00edtima era uma mulher de 83 anos, com comorbidades, que morava no bairro Jardim das Rosas. Mosquito transmissor da Dengue, Zika e Chikungunya Reprodu\u00e7\u00e3o Banco de Dados A Prefeitura de Esp\u00edrito Santo do Pinhal (SP) confirmou, nesta quarta\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/17/espirito-santo-pinhal-confirma-4a-morte-por-dengue-em-2024-regiao-chega-a-17-obitos.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/DHEYwZe0vj_q8DMs1SWCE80wlQw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/k/l/VuSf06ToiAfBlgBbE74Q/dengue.jpg",
+      "publishedAt": "2024-04-17 15:59:09",
+      "content": "Com o novo caso, a regi\u00e3o de Campinas (SP) soma 17 mortes provocadas pela doen\u00e7a neste ano. Veja os detalhes abaixo. De acordo com a prefeitura, a v\u00edtima era mulher de 83 anos, que morava no bairro\u2026 [+1941 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.516924",
+      "internal_id": "252974413df16b66feedf7b7544eb0b04ddef637a861f06cd00c8c242794b630",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8286,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Anna Durrance-Bagale, Nirel Hoe, Jane Lai, Jonathan Wee Kent Liew, Hannah Clapham, Natasha Howard",
+      "title": "Dengue vector control in high-income, city settings: A scoping review of approaches and methods",
+      "description": "Author summary Dengue virus is present in many parts of the world and has serious health and socioeconomic effects even in high-income countries, especially with rapid changes in the climate globally. In this study, we explored the literature on dengue vector\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012081",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012081.g002&size=inline",
+      "publishedAt": "2024-04-17 14:00:00",
+      "content": "Citation: Durrance-Bagale A, Hoe N, Lai J, Liew JWK, Clapham H, Howard N (2024) Dengue vector control in high-income, city settings: A scoping review of approaches and methods. PLoS Negl Trop Dis 18(\u2026 [+30389 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.470554",
+      "internal_id": "826a253d94518e13cb0871d9d680246b501c146349869a01be2a3a75acd9171a",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8287,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Henk van den Berg, Kabirul Bashar, Rajib Chowdhury, Rajendra M. Bhatt, Hardev Prasad Gupta, Ashwani Kumar, Shanmugavelu Sabesan, Ananganallur N. Shriram, Hari Kishan Raju Konuganti, Akhouri T. S. Sinha, Mohammad Mehdi Sedaghat, Ahmadali Enayati, Hameeda Mohammed Hassan, Aishath Shaheen Najmee, Sana Saleem, Surendra Uranw, Pahalagedera H. D. Kusumawathie, Devika Perera, Mohammed A. Esmail, Lauren B. Carrington, Samira M. Al-Eryani, Roop Kumari, Bhupender N. Nagpal, Sabera Sultana, Raman Velayudhan, Rajpal S. Yadav",
+      "title": "Perceived needs of disease vector control programs: A review and synthesis of (sub)national assessments from South Asia and the Middle East",
+      "description": "Author summary Vector control can play a major role in the control and elimination of vector-borne diseases, such as malaria, dengue, leishmaniases and other vector-borne diseases. However, to reach its potential, national vector control systems should be ade\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011451",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011451.g002&size=inline",
+      "publishedAt": "2024-04-17 14:00:00",
+      "content": "Citation: van den Berg H, Bashar K, Chowdhury R, Bhatt RM, Gupta HP, Kumar A, et al. (2024) Perceived needs of disease vector control programs: A review and synthesis of (sub)national assessments fro\u2026 [+39462 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.483145",
+      "internal_id": "df47f4dfd5ad97c2086f8dcb0e37ea62c7e76235337f61cf223f54b47caa31f5",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8296,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Paola Mariela Saba Villarroel, Rodolphe Hamel, Nuttamonpat Gumpangseth, Sakda Yainoy, Phanit Koomhin, Doroth\u00e9e Miss\u00e9, Sineewanlaya Wichit",
+      "title": "Global seroprevalence of Zika virus in asymptomatic individuals: A systematic review",
+      "description": "Author summary Zika virus (ZIKV) remains an important public health concern. Estimating the true burden of the disease is a major challenge, often underestimated due to the substantial number of asymptomatic infections. Consequently, seroprevalence studies ar\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011842",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011842.g003&size=inline",
+      "publishedAt": "2024-04-17 14:00:00",
+      "content": "Introduction Zika virus (ZIKV) is an arthropod-borne virus classified within the Flaviviridae family. It is mainly transmitted to humans through the bite of infected Aedes aegypti and Aedes albopict\u2026 [+32955 chars]",
+      "retrievedAt": "2024-04-18 19:05:22.722015",
+      "internal_id": "f972fbb0ba73294ef87655aaac85b17ece5ef73a011e880697d57c64bc26e1fa",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8302,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Annette Onken, Sabrina Moyo, Mohammed Khamis Miraji, Jon Bohlin, Msafiri Marijani, Joel Manyahi, Kibwana Omar Kibwana, Fredrik M\u00fcller, P\u00e5l A. Jenum, Khamis Ali Abeid, Marianne Reimers, Nina Langeland, Kristine M\u00f8rch, Bj\u00f8rn Blomberg",
+      "title": "Predominance of multidrug-resistant Salmonella Typhi genotype 4.3.1 with low-level ciprofloxacin resistance in Zanzibar",
+      "description": "Author summary Salmonella Typhi causes typhoid fever. Multi-drug resistant (MDR) S. Typhi is spreading globally. Local and regional surveillance of MDR S. Typhi populations using both blood culture and whole genome sequencing can uncover outbreaks and help ma\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012132",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012132.g003&size=inline",
+      "publishedAt": "2024-04-17 14:00:00",
+      "content": "Abstract Background Typhoid fever is a common cause of febrile illness in low- and middle-income countries. While multidrug-resistant (MDR) Salmonella Typhi (S. Typhi) has spread globally, fluoroqu\u2026 [+52474 chars]",
+      "retrievedAt": "2024-04-18 19:05:23.668968",
+      "internal_id": "a17cfa8a99744d3a9aef9d3763a22b17a72bceacc3c17433014fb0a31a998519",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8300,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Variante com \u201cpotencial pand\u00eamico\u201d da mpox \u00e9 encontrada no Congo",
+      "description": "Pesquisadores recomendam cuidados com variante mais infecciosa da var\u00edola dos macacos (mpox) que est\u00e1 se espalhando no pa\u00eds",
+      "url": "https://www.metropoles.com/saude/variante-pandemico-da-mpox",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2022/06/21211827/variola-dos-macacos-exame-imagem-ilustrativa-doenc%CC%A7a-mundo-monkeypox-10.jpeg",
+      "publishedAt": "2024-04-17 13:52:09",
+      "content": "Uma nova variante do v\u00edrus mpox, mais infecciosa e potencialmente mais fatal do que a que circulou no surto global de 2022, foi documentada no Congo, na \u00c1frica. Pesquisadores europeus j\u00e1 haviam aler\u2026 [+2202 chars]",
+      "retrievedAt": "2024-04-18 19:05:23.383574",
+      "internal_id": "05b2f686ecf6e2097639b39a47071d288b8f82f24c3c436ed6eba5b67387f6fa",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8301,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The-sun.com",
+      "author": "Isabel Shaw",
+      "title": "New mutant strain of mpox with \u2018pandemic potential\u2019 discovered as health chiefs call for \u2018urgent measures\u2019",
+      "description": "A MUTANT strain of mpox with \u201cnew pandemic potential\u201d has been discovered in a small town in the Democratic Republic of Congo (DRC), according to research. The new bug is a descendant o\u2026",
+      "url": "https://www.the-sun.com/health/11114810/mutant-monkeypox-mpox-pandemic-potential/",
+      "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2022/11/found-infected-cell-blue-cultured-778934201.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2024-04-17 13:32:32",
+      "content": "A MUTANT strain of mpox with \"new pandemic potential\" has been discovered in a small town in the Democratic Republic of Congo (DRC), according to research. The new bug is a descendant of the deadlie\u2026 [+4067 chars]",
+      "retrievedAt": "2024-04-18 19:05:23.392173",
+      "internal_id": "2c17fcf540c381b842ddf3d4b0ede2a7c45d5cce88a2db800a903772be8fa788",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8284,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cnnchile.com",
+      "author": "CNN Chile",
+      "title": "Dengue en Chile: \u00bfDe qu\u00e9 tama\u00f1o es y c\u00f3mo identificar al mosquito que transmite la enfermedad?",
+      "description": "El Senapred declar\u00f3 Alerta Amarilla en la Provincia de Los Andes debido al reporte de \u201cm\u00faltiples focos\u201d de mosquitos que transmiten la enfermedad viral. Las autoridades llamaron a tomar resguardos frente a un virus que puede causar desde fiebre y dolores musc\u2026",
+      "url": "https://www.cnnchile.com/pais/dengue-sintomas-mosquito-como-es-recomendaciones-alerta-amarilla_20240417/",
+      "urlToImage": "https://media.cnnchile.com/sites/2/2024/04/Mosquito-del-dengue.jpg",
+      "publishedAt": "2024-04-17 12:36:04",
+      "content": "El Servicio Nacional de Prevenci\u00f3n y Respuesta ante Desastres (Senapred) declar\u00f3 ayer Alerta Sanitaria para la Provincia de Los Andes (Regi\u00f3n de Valpara\u00edso), debido al reporte de m\u00faltiples focos de m\u2026 [+2928 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.436462",
+      "internal_id": "3c446bc8481b1fe9409cb868725769095b08eb44a9175cf2490d60a3cf64119a",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8304,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Enhanced Yersinia surveillance: privacy notice",
+      "description": "Explanation of the personal information collected as part of UKHSA's enhanced Yersinia surveillance, how we use it and who we share it with.",
+      "url": "https://www.gov.uk/government/publications/enhanced-yersinia-surveillance-privacy-notice",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-04-17 12:25:14",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2024-04-18 19:05:24.238614",
+      "internal_id": "15bf2c535c0e44e528803cc0b2d87be3ec87160f64877e4991606cd00f38f24f",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8279,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Adrianna Wrona",
+      "title": "Measles alert as case linked to Dublin play centre and HSE warns parents to watch for symptoms",
+      "description": "The HSE has warned parents to be on the alert for measles after a case was linked to a children\u2019s play centre in Dublin.",
+      "url": "https://www.independent.ie/irish-news/health/measles-alert-as-case-linked-to-dublin-play-centre-and-hse-warns-parents-to-watch-for-symptoms/a1834798416.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/typ8AFsivtxhhmGviCts8Dhlctk=/629x460/smart/prod-mh-ireland/e2d18fe9-e604-4ee7-ac73-58aa008a494a/65ad576f-785a-4ed3-ad3e-5a50bdf4d9b7/e2d18fe9-e604-4ee7-ac73-58aa008a494a.jpg",
+      "publishedAt": "2024-04-17 11:29:17",
+      "content": "The HSE has warned parents to be on the alert for measles after a case was linked to a childrens play centre in Dublin.The Department of Public Health at the HSE issued a statement with a measles ale\u2026 [+3097 chars]",
+      "retrievedAt": "2024-04-18 19:05:20.532420",
+      "internal_id": "f70f7bd43812d1a695dfcaad0f33201299284bd2b54167a4b18a3eb1bd71b946",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8280,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Adrianna Wrona",
+      "title": "Parents warned families may have been exposed to measles after case linked to Dublin play centre",
+      "description": "The HSE has warned parents to be on the alert for measles after a case was linked to a children\u2019s play centre in Dublin.",
+      "url": "https://www.independent.ie/irish-news/parents-warned-families-may-have-been-exposed-to-measles-after-case-linked-to-dublin-play-centre/a1834798416.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/typ8AFsivtxhhmGviCts8Dhlctk=/629x460/smart/prod-mh-ireland/e2d18fe9-e604-4ee7-ac73-58aa008a494a/65ad576f-785a-4ed3-ad3e-5a50bdf4d9b7/e2d18fe9-e604-4ee7-ac73-58aa008a494a.jpg",
+      "publishedAt": "2024-04-17 11:29:17",
+      "content": "The HSE has warned parents to be on the alert for measles after a case was linked to a childrens play centre in Dublin.The Department of Public Health at the HSE issued a statement with a measles ale\u2026 [+3097 chars]",
+      "retrievedAt": "2024-04-18 19:05:20.551497",
+      "internal_id": "9babca034ca0e74c5c8ce2f58093357aea9a49d0a169c0ab0fef73f9912bb9c6",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8278,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Tim O'Brien",
+      "title": "HSE issues \u2018urgent alert\u2019 for measles after case in Dublin indoor-play centre",
+      "description": "Case is one of several that have emerged in recent weeks in Dublin and the northeast",
+      "url": "https://www.irishtimes.com/health/2024/04/17/hse-issues-urgent-alert-for-measles-after-case-in-dublin-indoor-play-centre/",
+      "urlToImage": "https://www.irishtimes.com/resizer/OblrT38uxiWul291kR5UGIcKZdo=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/SX7H3G4KNJA73A77QGLXHRMHSQ.jpg",
+      "publishedAt": "2024-04-17 11:19:36",
+      "content": "The HSE has issued an urgent public health alert warning families they may have been exposed to a case of measles in an indoor childrens play centre, near Castleknock, north Dublin. The HSE said a p\u2026 [+2599 chars]",
+      "retrievedAt": "2024-04-18 19:05:20.525261",
+      "internal_id": "4e84ffbb4b2207d8c7d349152b060db24357f0c8d77f7530c8887e2f37624044",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8303,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "Jon Haworth",
+      "title": "Human infections from rat urine on the rise in New York City",
+      "description": "New York City officials say they are seeing a rise in sicknesses from rat urine -- and if left untreated, it can cause kidney failure and liver damage.",
+      "url": "https://6abc.com/what-is-leptospirosis-human-infections-from-rat-urine-on-the-rise-in-new-york-city/14680813/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14676747_041624-wabc-rat-nyc-img.jpg?w=1600",
+      "publishedAt": "2024-04-17 11:17:13",
+      "content": "NEW YORK -- The New York Department of Health and Mental Hygiene has released a health advisory after multiple cases of human leptospirosis -- an infection that is associated to exposure to rat urine\u2026 [+3215 chars]",
+      "retrievedAt": "2024-04-18 19:05:23.895916",
+      "internal_id": "f402b58082f486df5415fb2a8f49e3b0ee2437865e7c038b5302f980c836bc13",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8275,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Whooping Cough: Know Causes, Symptoms, Preventive Measures And More",
+      "description": "Whooping cough is very contagious and can affect anyone. It can cause serious illness in babies. In some cases, the cough can become violent and rapid and even lead to vomiting.",
+      "url": "https://www.ndtv.com/health/whooping-cough-know-causes-symptoms-preventive-measures-and-more-5462076",
+      "urlToImage": "https://c.ndtvimg.com/2022-10/975l94g_cold-cough_625x300_09_October_22.jpg",
+      "publishedAt": "2024-04-17 11:17:02",
+      "content": "Whooping cough is caused by a bacteria called Bordetella pertussis Whooping cough, also known as pertussis is a highly contagious respiratory tract infection. It is caused by a bacteria called Borde\u2026 [+2004 chars]",
+      "retrievedAt": "2024-04-18 19:05:20.006286",
+      "internal_id": "147e4f7f1637022ac4b14b2e3c8299097df64d5ac2a69a504ff0f81875e71403",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8281,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Luke Taylor",
+      "title": "Dengue: Argentinians turn to homemade repellent amid surge in cases",
+      "description": "Argentinians are making homemade mosquito repellent and scouring pharmacies for off-the-shelf products as the worst outbreak of dengue fever in recent history has led to shortages.Demand for mosquito repellent has meant that sprays have become almost impossib\u2026",
+      "url": "https://www.bmj.com/content/385/bmj.q885",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/385/8424.cover-source.jpg",
+      "publishedAt": "2024-04-17 09:50:45",
+      "content": "Argentinians are making homemade mosquito repellent and scouring pharmacies for off-the-shelf products as the worst outbreak of dengue fever in recent history has led to shortages. Demand for mosqui\u2026 [+653 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.407443",
+      "internal_id": "b07bf4425bab16d51644c158a05b01a65408d29aa560f2dc8c5ed0069f3de51c",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8297,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "EL MUNDO",
+      "title": "Detectan en el Congo una nueva cepa de la viruela del mono con \"potencial pand\u00e9mico\"",
+      "description": "Un grupo de investigadores ha encontrado una nueva cepa del virus de la viruela del mono, hoy denominado como Mpox, con \"potencial pand\u00e9mico\" en la Rep\u00fablica...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/04/17/661f9493fdddffc2718b4597.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/a1b26db8c4875ecf30983f17da0a49ec/crop/75x0/3044x1979/resize/1200/f/webp/assets/multimedia/imagenes/2024/04/17/17133458442970.jpg",
+      "publishedAt": "2024-04-17 09:24:45",
+      "content": "Un grupo de investigadores ha encontrado una nueva cepa del virus de la viruela del mono, hoy denominado como Mpox, con \"potencial pand\u00e9mico\" en la Rep\u00fablica Democr\u00e1tica del Congo. Por ello, piden u\u2026 [+859 chars]",
+      "retrievedAt": "2024-04-18 19:05:23.364885",
+      "internal_id": "af616c44480cc2d1983f2d9519edc1417ee57c3f8e4349d0be7274ac6009a713",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8283,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Giovanna Sutto",
+      "title": "Dengue: como saber quais repelentes vendidos no pa\u00eds protegem contra o Aedes Aegypti?",
+      "description": "Inseticidas 'naturais' \u00e0 base de citronela, andiroba, \u00f3leo de cravo, entre outros, n\u00e3o possuem comprova\u00e7\u00e3o de efic\u00e1cia The post Dengue: como saber quais repelentes vendidos no pa\u00eds protegem contra o Aedes Aegypti? appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/consumo/dengue-como-saber-quais-repelentes-vendidos-no-pais-protegem-contra-o-aedes-aegypti/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2019/06/dengue-bloomberg.jpg?fit=900%2C683&quality=70&strip=all",
+      "publishedAt": "2024-04-17 09:02:00",
+      "content": "Com mais de 3 milh\u00f5es de casos de dengue em 2024 no pa\u00eds, os consumidores devem tomar medidas de prote\u00e7\u00e3o contra o Aedes aegypti, transmissor da doen\u00e7a. Entre as medidas recomendadas est\u00e1 a utiliza\u00e7\u00e3\u2026 [+5117 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.421275",
+      "internal_id": "fa1b2078846d3e8fa75a2ae387e8410cc5449b56ae4a08308699cafb7991258d",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8299,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "New mpox lineage found in DRC could help fuel another global outbreak, study warns",
+      "description": "A new lineage of the mpox virus linked to efficient human-to-human transmission has been identified in the Democratic Republic of the Congo (DRC) \u2014 and the researchers behind the finding are calling for swift action to 'avert another global mpox outbreak.'",
+      "url": "https://www.cbc.ca/news/health/mpox-drc-1.7175684",
+      "urlToImage": "https://i.cbc.ca/1.6668281.1669754248!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/icymi-mpox-thumb-nov22.jpg",
+      "publishedAt": "2024-04-17 08:00:59",
+      "content": "A new lineage of the mpox virus linked to efficient human-to-human transmission has been identified in the Democratic Republic of the Congo (DRC) and the researchers behind the finding are calling fo\u2026 [+4179 chars]",
+      "retrievedAt": "2024-04-18 19:05:23.379653",
+      "internal_id": "ccdc584db18374bbf09beeb071943b0269b186527be5b9dd74edb499905ae07c",
+      "publishedAtLabel": "Apr 17"
+    },
     {
       "id": 8263,
       "query": [
@@ -1086,6 +1611,24 @@
       "content": "In Deutschland gibt es immer mehr F\u00e4lle einer Krankheit, die eigentlich nur in tropischen Regionen vorkommt: das Denguefieber. Noch wird die durch M\u00fccken \u00fcbertragene Infektion von Reisenden eingeschl\u2026 [+7899 chars]",
       "retrievedAt": "2024-04-16 19:05:26.318280",
       "internal_id": "98cf54f4bdcb26e829b74ee918de498df471b6cd4c71237a097d72b758a44cd6",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 8288,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Gefahr durch Tropenkrankheit: Zahl der Denguefieber-F\u00e4lle steigt in Deutschland rasant an",
+      "description": "In Deutschland gibt es immer mehr F\u00e4lle einer Krankheit, die eigentlich nur in tropischen Regionen vorkommt: das Denguefieber. Noch wird die durch M\u00fccken \u00fcbertragene Infektion von Reisenden eingeschleppt. Doch mit Voranschreiten des Klimawandels steigt auch i\u2026",
+      "url": "https://www.n-tv.de/wissen/Zahl-der-Denguefieber-Faelle-steigt-in-Deutschland-rasant-an-article24874574.html",
+      "urlToImage": "https://bilder1.n-tv.de/img/incoming/crop24874616/6661326941-cImg_16_9-w1200/425476135.jpg",
+      "publishedAt": "2024-04-15 17:33:08",
+      "content": "In Deutschland gibt es immer mehr F\u00e4lle einer Krankheit, die eigentlich nur in tropischen Regionen vorkommt: das Denguefieber. Noch wird die durch M\u00fccken \u00fcbertragene Infektion von Reisenden eingeschl\u2026 [+7899 chars]",
+      "retrievedAt": "2024-04-18 19:05:21.495562",
+      "internal_id": "c38857d455579251d8f44d7f7d4a2fc4b8d2e6274c1ad6a7ab7aff6e35a65871",
       "publishedAtLabel": "Apr 15"
     },
     {
@@ -34124,278 +34667,6 @@
       "content": "Ap\u00f3s registrar 1.674 casos da Febre do Oropouche neste ano, o governo do Amazonas reconheceu o surto da doen\u00e7a no estado. A arbovirose tem sintomas semelhantes aos da dengue , como dor de cabe\u00e7a, m\u2026 [+1637 chars]",
       "retrievedAt": "2024-03-05 07:05:47.425451",
       "internal_id": "4f54511b881e88ed15874f3ade0a47ecf0fd73c369ac37e0f4e4b21dd65325dc",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6344,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Week Magazine",
-      "author": "theweekonlineeditors@futurenet.com (The Week Staff)",
-      "title": "The Week Unwrapped: Measles, karting and TikTok tunes",
-      "description": "What's behind the rising number of measles outbreaks? Will a new female karting competition change motorsport for the better? And why are some songs disappearing from TikTok?",
-      "url": "https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fAFBBzBL5d9DErhBr6efeN-1200-80.jpg",
-      "publishedAt": "2024-03-03 18:40:21",
-      "content": "Olly Mann and The Week delve behind the headlines and debate what really matters from the past seven days. A podcast for curious, open-minded people, it delivers fresh perspectives on politics, cultu\u2026 [+1070 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.697687",
-      "internal_id": "b2e30dc646c05ed1bdeca4a323b26da89e8ff9100a6a950027f2919f62b31bef",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6349,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "mlive.com",
-      "author": "Bradley Massman | Bmassman@mlive.com",
-      "title": "Health officials confirm measles case in Washtenaw County, warn of exposure spot",
-      "description": "Health officials said anyone potentially exposed should monitor themselves for symptoms for 21 days.",
-      "url": "https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html",
-      "urlToImage": "https://www.mlive.com/resizer/braWJjc9pBYgnHTB8HkXoSOdmqE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KVPYG456ZNDHVGMDJNAZQOS2HU.JPG",
-      "publishedAt": "2024-03-03 18:26:22",
-      "content": "WASHTENAW COUNTY, MI The health department has confirmed a case of measles in Washtenaw County and is warning of a potential exposure spot at one local emergency department. Washtenaw County health \u2026 [+1552 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.792195",
-      "internal_id": "a2aa9eaf06d3ab65b7ff363404cb262f39c5977205f839a27780f7536c55b84c",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6354,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Epidemia de dengue faz Natal decretar emerg\u00eancia em sa\u00fade",
-      "description": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados...",
-      "url": "https://jornaldebrasilia.com.br/?p=2720607",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03182222/IMG_0883.webp",
-      "publishedAt": "2024-03-03 18:23:05",
-      "content": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados tamb\u00e9m indicam uma tend\u00eancia de crescimento pela terceira semana\u2026 [+2894 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.876117",
-      "internal_id": "33a1b0813cf4ec41ba700bbe82a3b37961ab5a8c342a8dd1a553de4616efbc35",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6348,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WDIV ClickOnDetroit",
-      "author": "Kayla Clarke",
-      "title": "Washtenaw County confirms Michigan\u2019s 3rd case of measles this year",
-      "description": "The Washtenaw County Health Department is reporting Michigan\u2019s third case of measles this year.",
-      "url": "https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/353X74D4FRE3VM725VMXJ2EM24.jpg?_a=ATAPphC0",
-      "publishedAt": "2024-03-03 17:47:39",
-      "content": "YPSILANTI, Mich. The Washtenaw County Health Department is reporting Michigans third case of measles this year. Measles is a highly contagious and preventable disease that is caused by a virus. It c\u2026 [+4274 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.783392",
-      "internal_id": "66e75ab3377ee78236ab1e6f0c2a292010d46730996df438609019e7ba8a1142",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6355,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Ansa",
-      "title": "Brasil elogia medidas adotadas pela It\u00e1lia contra dengue",
-      "description": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do ...",
-      "url": "https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-03-03 17:03:51",
-      "content": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do Brasil, Ethel Maciel, afirmou que a It\u00e1lia \"fez bem\" em elevar o n\u00edvel de alerta nas fronteiras e em \"a\u2026 [+3272 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.943794",
-      "internal_id": "96d77d6528e48a135f8a7b7746cac9a520c9d287fe13fec2b91f6cee758c25f9",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6347,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Washtenaw.org",
-      "author": null,
-      "title": "News Flash \u2022 Health Department Alerts Public to Local Measle",
-      "description": "Washtenaw County Health Department is reporting a case of measles and alerting residents to possible exposure on Fri, March 1 at a local emergency department. MMR vaccination is recommended for anyone 1 year and older and anyone potentially exposed.",
-      "url": "https://www.washtenaw.org/CivicAlerts.aspx?AID=2669",
-      "urlToImage": "https://www.washtenaw.org/ImageRepository/Document?documentID=33982",
-      "publishedAt": "2024-03-03 16:58:30",
-      "content": "(Spanish translation now available. Arabic translation will be posted here as soon as possible.) Washtenaw County Health Department is reporting a case of measles and alerting the public to the poss\u2026 [+4449 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.778622",
-      "internal_id": "0115d742ce4f280db0fd16954879da4c565dcf72b89f2a5631d0f6e0c36033c9",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6458,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Crian\u00e7a de 9 anos \u00e9 encontrada morta dentro de casa na Grande BH",
-      "description": "Exames constataram aus\u00eancia de sinais de viol\u00eancia; acredita-se que a causa da morte foi por dengue hemorr\u00e1gica",
-      "url": "https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024",
-      "urlToImage": "https://img.r7.com/images/morre-suspeita-dengue-03032024155458912?dimensions=160x90",
-      "publishedAt": "2024-03-03 15:56:40",
-      "content": "Crian\u00e7a foi levada para um hospital em Esmeraldas (MG) Reprodu\u00e7\u00e3o / Google Street View Uma crian\u00e7a de 9 anos foi encontrada morta dentro de casa, em Ribeir\u00e3o das Neves, na regi\u00e3o metropolitan\u2026 [+1545 chars]",
-      "retrievedAt": "2024-03-06 07:05:49.632919",
-      "internal_id": "c7157848613bfc1b2dc52747534b0752c1b1356dc74494a3455f96eb3296758b",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6350,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "al-jazeera-english",
-      "source_name": "Al Jazeera English",
-      "author": "Al Jazeera",
-      "title": "Week in pictures: From firefighter protests in Seoul to prayers in Gaza",
-      "description": "A roundup of some of last week\u2019s events.",
-      "url": "https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AA-20240301-33853497-33853495-FRIDAY_PRAYERS_OF_PALESTINIANS_AMONG_DESTROYED_MOSQUE_RUBBLE_IN_GAZA_STRIP-1709468351.jpg?resize=1920%2C1440",
-      "publishedAt": "2024-03-03 15:31:34",
-      "content": "From a dengue epidemic in Peru to the funeral of the Russian opposition leader, here is the week in photos.",
-      "retrievedAt": "2024-03-04 19:05:22.751317",
-      "internal_id": "2e2fd80473629f422e9d001fc77aa53f31f474e04931c698c5653557aaea0eeb",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6353,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Popula\u00e7\u00f5es perif\u00e9ricas s\u00e3o mais vulner\u00e1veis \u00e0 dengue",
-      "description": "\"O meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho\u201d. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1...",
-      "url": "https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03152924/IMG_0852.webp",
-      "publishedAt": "2024-03-03 15:30:36",
-      "content": "\u201cO meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1 acostumada com o pequeno Vitor, de 3 anos de idade, pulando de um \u2026 [+9534 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.839937",
-      "internal_id": "79e6ac8676b06abf6fd68f62d083b86a48c2e1f67c3fb94b11290c7908e61783",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6345,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)",
-      "description": "Richard Luscombe / The Guardian: Florida is swamped by disease outbreaks as quackery replaces science \u2014 The state is in the grip of a measles outbreak, yet Joseph Ladapo, the surgeon general, continues to ignore medical science to stop it \u2014 Shortly before\u2026",
-      "url": "https://www.memeorandum.com/240303/p7",
-      "urlToImage": "https://i.guim.co.uk/img/media/160521aedeeb183f524009821e37428c9c19ea5c/0_43_3300_1980/master/3300.jpg?width=300&dpr=2&s=none",
-      "publishedAt": "2024-03-03 15:20:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.725738",
-      "internal_id": "6742296b3d2f02f0d75e721dc29d108237e7b7b149ef2f9ad59923894f6a99fd",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6346,
-      "query": [
-        "measles"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Melissa Rudy",
-      "title": "Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more",
-      "description": "This weekend, check out some of the top stories of the week in Health that you may have missed, including key insights on COVID and autoimmune treatments.",
-      "url": "https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/kidney-transplants-split.jpg",
-      "publishedAt": "2024-03-03 15:18:55",
-      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. Please enter a valid email address. By entering your e\u2026 [+3480 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.764064",
-      "internal_id": "f01d5d96d57062959741f73c8ed148d3eaff0f7467e6f025a181b094f585f5aa",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6446,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Febasgo, Minist\u00e9rio da Sa\u00fade e Opas lan\u00e7am manual sobre dengue para gestantes",
-      "description": "A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas),",
-      "url": "https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2023/03/istock-1097583224.jpg",
-      "publishedAt": "2024-03-03 14:44:06",
-      "content": "\u00daltimas not\u00edcias: A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas), lan\u00e7ou o Manual de Preven\u00e7\u00e3o,\u2026 [+1842 chars]",
-      "retrievedAt": "2024-03-06 07:05:49.576692",
-      "internal_id": "68257706d896542fc814eeedad8f23ca543b0ff37cd70496222d9998cd27e8c4",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6454,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "Mirtha Legrand le pidi\u00f3 al Gobierno que la vacuna del dengue sea gratuita",
-      "description": "La conductora se refiri\u00f3 al aumento de casos que tuvo lugar en las \u00faltimas semanas en todo el pa\u00eds;",
-      "url": "https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/mirtha-pidio-que-la-vacuna-contra-el-dengue-sea-TWGCOU3ELVGQVDB6OOYM2KYRXM.JPG?auth=6cfd3fd285ae28eb6faa3b6a31ad57bceaca996bb5ec954c09941ee330f9b8d8&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-03 12:01:59",
-      "content": "En medio de un aumento exponencial de los casos de dengue en el \u00c1rea Metropolitana de Buenos Aires (AMBA)y otras regiones del pa\u00eds, Mirtha Legrand se quej\u00f3 del valor de las vacunas para prevenirlo y \u2026 [+2542 chars]",
-      "retrievedAt": "2024-03-06 07:05:49.614148",
-      "internal_id": "f185e4a02dc5e0411f5f29ab8cf12a65a9513382510095352199bbf6ceed0ebf",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6352,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": "svenska-dagbladet",
-      "source_name": "Svenska Dagbladet",
-      "author": "Anna Karolina Eriksson/TT",
-      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
-      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vektorburna virussjukdomarna st\u00e5r och knackar p\u00e5 d\u00f6rren, men det finns inga avsatta medel f\u00f6r \u00f6vervakn\u2026",
-      "url": "https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar",
-      "urlToImage": "https://svd.vgc.no/v2/images/90ff6fef-1ca6-4105-b103-658514f2ec88?h=630&q=80&upscale=true&w=1200&s=b693c53191dbce138a60969d340d03bfa6eac7ac",
-      "publishedAt": "2024-03-03 08:34:17",
-      "content": "Invasiva myggarter n\u00e4rmar sig Sverige med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. De vektorburna virussjukdomarna st\u00e5r och knack\u2026 [+99 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.816348",
-      "internal_id": "ed1c0db11933badd1d64c90a024b2d5ad63053f362844dd74ac5eacc53839fb9",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6351,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "TT",
-      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
-      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vek",
-      "url": "https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/6012ca3e-1a73-423b-a19e-da105b74f5e0?fit=crop&format=auto&h=826&q=50&w=1239&s=344ba01e72e2f15f7bac9bc7888853c0f9aacfbe",
-      "publishedAt": "2024-03-03 08:34:16",
-      "content": "Anna Karolina Eriksson/TT share-arrow Dela chevron-left f\u00f6reg\u00e5endechevron-right n\u00e4sta Culex modestus, nilfebersmygga.1 / 2Foto: Anders Lindstr\u00f6m/SVA Invasiva myggarter n\u00e4rmar sig Sverige med f\u2026 [+2998 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.791631",
-      "internal_id": "ae9e266b91ac7889b2e75e16b89d9e01b7d907b335ff1ec5e2fa7639194eae88",
       "publishedAtLabel": "Mar 3"
     }
   ]
