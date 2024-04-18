@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 18
-- **Last harvest:** 2024-04-17 19:05
-- **Most recent article:** 2024-04-16 17:57:00
+- **Last harvest:** 2024-04-18 07:06
+- **Most recent article:** 2024-04-17 06:30:18
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 181 | 181 | 180 | 186 | 158 | 138 | 37 | 1061 |
-| measles | 78 | 112 | 87 | 44 | 36 | 43 | 18 | 418 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 6 | 98 |
-| zika | 14 | 16 | 12 | 21 | 11 | 10 | 2 | 86 |
-| chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 2 | 73 |
+| dengue | 190 | 181 | 180 | 186 | 158 | 138 | 44 | 1077 |
+| measles | 84 | 112 | 87 | 44 | 36 | 43 | 23 | 429 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 8 | 100 |
+| zika | 16 | 16 | 12 | 21 | 11 | 10 | 3 | 89 |
+| chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 3 | 74 |
 | meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 7 | 71 |
 | rabies | 5 | 6 | 9 | 3 | 16 | 8 | 0 | 47 |
-| mpox | 5 | 8 | 4 | 6 | 12 | 3 | 1 | 39 |
+| mpox | 5 | 8 | 4 | 6 | 12 | 3 | 3 | 41 |
 | sarampión | 3 | 3 | 12 | 3 | 5 | 13 | 0 | 39 |
-| pertussis | 4 | 5 | 3 | 6 | 7 | 9 | 2 | 36 |
+| pertussis | 4 | 5 | 3 | 6 | 7 | 9 | 3 | 37 |
 | yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 1 | 12 |
-| leptospirosis | 0 | 1 | 0 | 0 | 1 | 3 | 0 | 5 |
+| leptospirosis | 0 | 1 | 0 | 0 | 1 | 3 | 1 | 6 |
 | shigellosis | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 3 |
 | typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 2 |
 
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-16 (zika)
+
+- [Dengue: Espírito Santo Pinhal confirma 3ª morte e região chega a 16 óbitos pela doença em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/16/dengue-espirito-santo-pinhal-confirma-3a-morte-e-regiao-chega-a-16-obitos-pela-doenca-em-2024.ghtml) (Globo)
 
 - [D-Fense Pro Tecidos previne picadas do mosquito da dengue por cima das roupas](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/especial-publicitario/d-fense-pro/noticia/2024/04/16/d-fense-pro-tecidos-previne-picadas-do-mosquito-da-dengue-por-cima-das-roupas.ghtml) (Globo)
 
@@ -44,11 +46,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (pertussis)
 
+- [Bacolod: Province logs pertussis fatality, 11 cases confirmed](https://rpnradio.com/bacolod-province-logs-pertussis-fatality-11-cases-confirmed/) (Rpnradio.com)
+
 - [Czech Republic records year's highest whooping cough cases in a week](https://www.thestar.com.my/news/world/2024/04/16/czech-republic-records-year039s-highest-whooping-cough-cases-in-a-week) (The Star Online)
 
 - [Dugang na bakuna kontra pertussis, halat kan Bula Municipal Health Office](https://www.gmanetwork.com/regionaltv/balitangbicolandia/111353/dugang-na-bakuna-kontra-pertussis-halat-kan-bula-municipal-health-office/video/) (GMA News)
 
 ## 24-16 (mpox)
+
+- [Seasonal Patterns of Mpox Index Cases, Africa, 1970–2021](https://wwwnc.cdc.gov/eid/article/30/5/23-0293_article) (Cdc.gov)
+
+- [Researchers Warn of Mutant Monkeypox Strain with ‘Pandemic Potential’, Discovered in Congo Village](https://legalinsurrection.com/2024/04/researchers-warn-of-mutant-monkeypox-strain-with-pandemic-potential-discovered-in-congo-village/) (Legalinsurrection.com)
 
 - [Epidémie de mpox : la RDC va homologuer en urgence deux vaccins et un traitement](https://www.lemonde.fr/afrique/article/2024/04/15/epidemie-de-mpox-la-rdc-va-homologuer-en-urgence-deux-vaccins-et-un-traitement_6227992_3212.html) (Le Monde)
 
@@ -69,6 +77,16 @@ Source: [News API](https://newsapi.org/)
 - [Paramedics On Scene S05E01 1080p WEBRip x264-W45Ps](https://rlsbb.ru/paramedics-on-scene-s05e01-1080p-webrip-x264-w45ps/) (Rlsbb.ru)
 
 ## 24-16 (measles)
+
+- [Illinois, Chicago health departments celebrate response to measles outbreak](https://wgntv.com/health/illinois-chicago-health-departments-celebrate-response-to-measles-outbreak/) (WGN TV Chicago)
+
+- [Chicago measles outbreak 2024: Top state, city health department officials talk lessons learned as cases rise to 61](https://abc7chicago.com/chicago-measles-outbreak-2024-vaccine-symptoms/14677636/) (WLS-TV)
+
+- [Health officials prepare to welcome potentially 2K migrants per week this summer amid measles outbreak](https://www.newsbreak.com/chicago-il/3405252635311-health-officials-prepare-to-welcome-potentially-2k-migrants-per-week-this-summer-amid-measles-outbreak) (Newsbreak.com)
+
+- [Los Angeles public health officials issue measles warnings](https://www.skepticalraptor.com/skepticalraptorblog.php/los-angeles-public-health-officials-issue-measles-warnings/) (Skepticalraptor.com)
+
+- [Life Without Vaccines: Americans Who Never Forget](https://www.forbes.com/sites/unicefusa/2024/04/16/life-without-vaccines-americans-who-never-forget/) (Forbes)
 
 - [The Supreme Court must consider science, not pseudo-science, in public health rulings](https://www.kevinmd.com/2024/04/the-supreme-court-must-consider-science-not-pseudo-science-in-public-health-rulings.html) (Kevinmd.com)
 
@@ -108,6 +126,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (malaria)
 
+- [New nets ‘prevent’ 13m malaria cases in Africa- Project](https://punchng.com/new-nets-prevent-13m-malaria-cases-in-africa-project/) (The Punch)
+
+- [Ancient Formula May Be the Ultimate Antibiotic Solution](https://articles.mercola.com/sites/articles/archive/2024/04/17/ancient-formula-antibiotic-alternative.aspx) (Mercola.com)
+
 - [Spatio-temporal spread of artemisinin resistance in Southeast Asia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012017) (Plos.org)
 
 - [Study protocol: improving response to malaria in the Amazon through identification of inter-community networks and human mobility in border regions of Ecuador, Peru and Brazil](https://bmjopen.bmj.com/content/14/4/e078911) (The BMJ)
@@ -120,7 +142,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Ett år av krig: Sudans barn betalar priset](https://www.svd.se/a/4Bj35g/ett-ar-av-krig-sudans-barn-betalar-priset) (Svenska Dagbladet)
 
+## 24-16 (leptospirosis)
+
+- [What is Leptospirosis: Human infections from rat urine on the rise in NYC](https://abc7ny.com/what-is-leptospirosis-human-infections-from-rat-urine-on-the-rise-in-nyc/14675638/) (WABC-TV)
+
 ## 24-16 (dengue)
+
+- [Saúde remanejou 12 mil doses de vacina da dengue; 4 mil vencem em 30/4](https://www.metropoles.com/distrito-federal/saude-remanejou-12-mil-doses-de-vacina-da-dengue-4-mil-vencem-em-30-4) (Metropoles.com)
+
+- [Supervisora convoca agentes de saúde para evento de Nunes e é afastada](https://www.metropoles.com/sao-paulo/supervisora-convoca-evento-nunes) (Metropoles.com)
+
+- [Graciela Ocaña cargó contra Fernán Quirós por no asistir a la Legislatura y criticó la “alta tasa de fallecidos del dengue”](https://www.lanacion.com.ar/politica/graciela-ocana-cargo-contra-fernan-quiros-por-no-asistir-a-la-legislatura-y-critico-la-alta-tasa-de-nid16042024/) (La Nacion)
+
+- [Epidemia de dengue provoca queda nas doações de sangue em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/16/epidemia-de-dengue-provoca-queda-nas-doacoes-de-sangue-em-campinas.ghtml) (Globo)
+
+- [Dengue: ministra da Saúde culpa negacionismo por baixa vacinação](https://www.metropoles.com/brasil/dengue-ministra-da-saude-culpa-negacionismo-por-baixa-vacinacao) (Metropoles.com)
+
+- [SP ultrapassa 300 mortes por dengue e registra 600 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-ultrapassa-300-mortes-por-dengue-e-registra-600-mil-casos-da-doenca) (Metropoles.com)
+
+- [Dengue: Espírito Santo Pinhal confirma 3ª morte e região chega a 16 óbitos pela doença em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/16/dengue-espirito-santo-pinhal-confirma-3a-morte-e-regiao-chega-a-16-obitos-pela-doenca-em-2024.ghtml) (Globo)
 
 - [Dengue: algumas plantas podem afastar o mosquito Aedes aegypti](https://olhardigital.com.br/2024/04/16/medicina-e-saude/dengue-algumas-plantas-podem-afastar-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
 
@@ -197,6 +237,8 @@ Source: [News API](https://newsapi.org/)
 - [Pós-dengue: quais são as sequelas mais comuns da doença?](https://www.metropoles.com/saude/pos-dengue-sequelas-mais-comuns) (Metropoles.com)
 
 ## 24-16 (chikungunya)
+
+- [Dengue: Espírito Santo Pinhal confirma 3ª morte e região chega a 16 óbitos pela doença em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/16/dengue-espirito-santo-pinhal-confirma-3a-morte-e-regiao-chega-a-16-obitos-pela-doenca-em-2024.ghtml) (Globo)
 
 - [D-Fense Pro Tecidos previne picadas do mosquito da dengue por cima das roupas](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/especial-publicitario/d-fense-pro/noticia/2024/04/16/d-fense-pro-tecidos-previne-picadas-do-mosquito-da-dengue-por-cima-das-roupas.ghtml) (Globo)
 
@@ -3522,6 +3564,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: água parada em obras e prédios abandonados preocupa moradores em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/04/dengue-agua-parada-em-obras-e-predios-abandonados-preocupa-moradores-em-campinas.ghtml) (Globo)
 
+- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
+
+- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
+
 ## 24-10 (yersinia)
 
 - [Socio-ecological risk factors associated with human flea infestations of rural household in plague-endemic areas of Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012036) (Plos.org)
@@ -3759,6 +3805,18 @@ Source: [News API](https://newsapi.org/)
 - [Vaccine skepticism on display in Florida](https://www.startribune.com/vaccine-skepticism-on-display-in-florida/600347932/) (Minneapolis Star Tribune)
 
 - [unknown title](https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties) (FOX 2 Detroit)
+
+- [The Week Unwrapped: Measles, karting and TikTok tunes](https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes) (The Week Magazine)
+
+- [Health officials confirm measles case in Washtenaw County, warn of exposure spot](https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html) (mlive.com)
+
+- [Washtenaw County confirms Michigan’s 3rd case of measles this year](https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/) (WDIV ClickOnDetroit)
+
+- [News Flash • Health Department Alerts Public to Local Measle](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669) (Washtenaw.org)
+
+- [Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)](https://www.memeorandum.com/240303/p7) (Memeorandum.com)
+
+- [Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more](https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more) (Fox News)
 
 ## 24-10 (malaria)
 
@@ -4155,6 +4213,24 @@ Source: [News API](https://newsapi.org/)
 - [Bebê morre de dengue e Covid após ser liberada por hospitais](https://brasil.perfil.com/brasil/bebe-morre-de-dengue-e-covid-apos-ser-liberada-por-hospitais.phtml) (Perfil.com)
 
 - [Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto](https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html) (Ig.com.br)
+
+- [Epidemia de dengue faz Natal decretar emergência em saúde](https://jornaldebrasilia.com.br/?p=2720607) (Jornaldebrasilia.com.br)
+
+- [Brasil elogia medidas adotadas pela Itália contra dengue](https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html) (Terra.com.br)
+
+- [Criança de 9 anos é encontrada morta dentro de casa na Grande BH](https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024) (R7.com)
+
+- [Week in pictures: From firefighter protests in Seoul to prayers in Gaza](https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza) (Al Jazeera English)
+
+- [Populações periféricas são mais vulneráveis à dengue](https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/) (Jornaldebrasilia.com.br)
+
+- [Febasgo, Ministério da Saúde e Opas lançam manual sobre dengue para gestantes](https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/) (Catracalivre.com.br)
+
+- [Mirtha Legrand le pidió al Gobierno que la vacuna del dengue sea gratuita](https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/) (La Nacion)
+
+- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
+
+- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
 
 ## 24-10 (chikungunya)
 
