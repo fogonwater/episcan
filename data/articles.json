@@ -1,8 +1,386 @@
 {
-  "last_updated": "2024-04-18 19:05",
-  "count_articles_total": 1919,
-  "count_articles_new": 30,
+  "last_updated": "2024-04-19 07:05",
+  "count_articles_total": 1956,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 8309,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "Le climat nous rend fous",
+      "description": "La crise climatique ne se contente pas de transformer notre environnement. Elle affecte directement notre sant\u00e9. On l\u2019a d\u2019ailleurs d\u00e9j\u00e0 \u00e9voqu\u00e9 ici, avec l\u2019arriv\u00e9e dans de nouvelles r\u00e9gions du monde de maladies comme la dengue, v\u00e9hicul\u00e9es par des insectes qui \u2026",
+      "url": "https://www.courrierinternational.com/article/climatiques-le-climat-nous-rend-fous",
+      "urlToImage": "https://focus.courrierinternational.com/2023/02/15/0/0/2048/1203/1200/630/60/0/f787471_1676471103560-climatique.png",
+      "publishedAt": "2024-04-18 05:30:16",
+      "content": "La crise climatique ne se contente pas de transformer notre environnement. Elle affecte directement notre sant\u00e9. On la dailleurs d\u00e9j\u00e0 \u00e9voqu\u00e9 ici, avec larriv\u00e9e dans de nouvelles r\u00e9gions du monde de m\u2026 [+6418 chars]",
+      "retrievedAt": "2024-04-19 07:05:43.807883",
+      "internal_id": "f82951f1fc7cbe00802c2ee2091c23e94127b5ed9fa14bc6ff9b40c40b9c326a",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8314,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC Financial Group Bermitra dengan United to Beat Malaria, Sebuah Kampanye Yayasan PBB, untuk Melindungi Anak dan Keluarga Mereka yang Rentan dari Malaria",
+      "description": "EBC Financial Group Memperkuat Upaya Pemberantasan Malaria, yang Mendukung Intervensi Kesehatan Penting dan Pemberdayaan Masyarakat.......",
+      "url": "https://www.globenewswire.com/news-release/2024/04/18/2865080/0/id/EBC-Financial-Group-Bermitra-dengan-United-to-Beat-Malaria-Sebuah-Kampanye-Yayasan-PBB-untuk-Melindungi-Anak-dan-Keluarga-Mereka-yang-Rentan-dari-Malaria.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/25cc6523-80ba-4ea3-9d22-554096ea4b97",
+      "publishedAt": "2024-04-18 02:53:00",
+      "content": "WASHINGTON, April 18, 2024 (GLOBE NEWSWIRE) -- Hari ini, EBC Financial Group (EBC) mengumumkan kemitraan baru dengan United to Beat Malaria (Beat Malaria), sebuah kampanye Yayasan PBB (UN Foundation)\u2026 [+9052 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.765011",
+      "internal_id": "1fe07cd6a58651ac76561cb4f4159c9ffc88648b5bf7e637a7435134914e98ff",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8315,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC Financial Group Bekerjasama dengan Bersatu Tewaskan Malaria, Kempen Yayasan Pertubuhan Bangsa-Bangsa Bersatu untuk Melindungi Kanak-kanak Rentan dan Keluarga Mereka daripada Malaria",
+      "description": "Kumpulan Kewangan EBC Memperkukuh Usaha Pembasmian Malaria, Menyokong Intervensi Kesihatan Kritikal dan Pemerkasaan Komuniti.......",
+      "url": "https://www.globenewswire.com/news-release/2024/04/18/2865080/0/ms/EBC-Financial-Group-Bekerjasama-dengan-Bersatu-Tewaskan-Malaria-Kempen-Yayasan-Pertubuhan-Bangsa-Bangsa-Bersatu-untuk-Melindungi-Kanak-kanak-Rentan-dan-Keluarga-Mereka-daripada-Mal.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/25cc6523-80ba-4ea3-9d22-554096ea4b97",
+      "publishedAt": "2024-04-18 02:53:00",
+      "content": "WASHINGTON, April 18, 2024 (GLOBE NEWSWIRE) -- Hari ini, EBC Financial Group (EBC) mengumumkan perkongsian baharu dengan Bersatu Tewaskan Malaria (Tewaskan Malaria), kempen Yayasan Pertubuhan Bangsa-\u2026 [+8774 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.775452",
+      "internal_id": "ee3f15ec1572990c567e16ec4d5421ea14c503481f778647f6715821eb5501ce",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8316,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC Financial Group geht Partnerschaft mit United to Beat Malaria ein, einer Kampagne der UN Foundation, um gef\u00e4hrdete Kinder und ihre Familien vor Malaria zu sch\u00fctzen",
+      "description": "EBC Financial Group verst\u00e4rkt die Bem\u00fchungen zur Ausrottung von Malaria und unterst\u00fctzt wichtige Gesundheitsma\u00dfnahmen und die St\u00e4rkung der Gemeinschaft.",
+      "url": "https://www.globenewswire.com/news-release/2024/04/18/2865080/0/de/EBC-Financial-Group-geht-Partnerschaft-mit-United-to-Beat-Malaria-ein-einer-Kampagne-der-UN-Foundation-um-gef%C3%A4hrdete-Kinder-und-ihre-Familien-vor-Malaria-zu-sch%C3%BCtzen.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/25cc6523-80ba-4ea3-9d22-554096ea4b97",
+      "publishedAt": "2024-04-18 02:53:00",
+      "content": "WASHINGTON, April 18, 2024 (GLOBE NEWSWIRE) -- Die EBC Financial Group (EBC) gab heute eine neue Partnerschaft mit United to Beat Malaria (Beat Malaria) bekannt, einer Kampagne der United Nations Fou\u2026 [+9391 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.780124",
+      "internal_id": "a2c22af153dfe5cb95aa9b7f0ed9e455b871b3c6ddd89d05ea325b3694640327",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8317,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC Financial Group, \ub9d0\ub77c\ub9ac\uc544\uc5d0 \uac00\uc7a5 \ucde8\uc57d\ud55c \uc5b4\ub9b0\uc774 \uac00\uc871 \ubcf4\ud638 \uc704\ud574 \uc720\uc5d4 \uc7ac\ub2e8 \ucea0\ud398\uc778 United to Beat Malaria\uc640 \ud30c\ud2b8\ub108\uc2ed",
+      "description": "EBC Financial Group, \ud575\uc2ec\uc801\uc778 \ubcf4\uac74 \uac1c\uc785 \ubc0f \uc9c0\uc5ed \uc0ac\ud68c \uc784\ud30c\uc6cc\uba3c\ud2b8 \uc9c0\uc9c0\ud558\uba70 \ub9d0\ub77c\ub9ac\uc544 \uc885\uc2dd \ub178\ub825 \uac15\ud654\ud55c\ub2e4......",
+      "url": "https://www.globenewswire.com/news-release/2024/04/18/2865080/0/ko/EBC-Financial-Group-%EB%A7%90%EB%9D%BC%EB%A6%AC%EC%95%84%EC%97%90-%EA%B0%80%EC%9E%A5-%EC%B7%A8%EC%95%BD%ED%95%9C-%EC%96%B4%EB%A6%B0%EC%9D%B4-%EA%B0%80%EC%A1%B1-%EB%B3%B4%ED%98%B8-%EC%9C%84%ED%95%B4-%EC%9C%A0%EC%97%94-%EC%9E%AC%EB%8B%A8-%EC%BA%A0%ED%8E%98%EC%9D%B8-United-to-Beat-Malaria%EC%99%80-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/25cc6523-80ba-4ea3-9d22-554096ea4b97",
+      "publishedAt": "2024-04-18 02:53:00",
+      "content": ", April 18, 2024 (GLOBE NEWSWIRE) -- EBC Financial Group(EBC) 60 United Nations Foundation( ) United to Beat Malaria(Beat Malaria) . United to Beat Malaria . , , . , , . EBC United to Beat Malaria\u2026 [+1194 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.785480",
+      "internal_id": "da0a8ae209be8b758abe18646f42bf23b1757cc345bbe1274313f06256245f5d",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8318,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC Financial Group \u4e0e\u8054\u5408\u56fd\u57fa\u91d1\u4f1a United to Beat Malaria \u8fd0\u52a8\u5efa\u7acb\u5408\u4f5c\u4f19\u4f34\u5173\u7cfb\uff0c\u5e2e\u52a9\u5f31\u52bf\u513f\u7ae5\u53ca\u5176\u5bb6\u5ead\u62b5\u5fa1\u759f\u75be",
+      "description": "EBC Financial Group \u52a0\u5927\u6d88\u706d\u759f\u75be\u65b9\u9762\u7684\u52aa\u529b\uff0c\u4e3a\u91cd\u8981\u536b\u751f\u5e72\u9884\u63aa\u65bd\u548c\u793e\u533a\u8d4b\u80fd\u63d0\u4f9b\u652f\u6301\u3002......",
+      "url": "https://www.globenewswire.com/news-release/2024/04/18/2865080/0/zh-hans/EBC-Financial-Group-%E4%B8%8E%E8%81%94%E5%90%88%E5%9B%BD%E5%9F%BA%E9%87%91%E4%BC%9A-United-to-Beat-Malaria-%E8%BF%90%E5%8A%A8%E5%BB%BA%E7%AB%8B%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB-%E5%B8%AE%E5%8A%A9%E5%BC%B1%E5%8A%BF%E5%84%BF%E7%AB%A5%E5%8F%8A%E5%85%B6%E5%AE%B6%E5%BA%AD%E6%8A%B5%E5%BE%A1%E7%96%9F%E7%96%BE.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/25cc6523-80ba-4ea3-9d22-554096ea4b97",
+      "publishedAt": "2024-04-18 02:53:00",
+      "content": ", April 18, 2024 (GLOBE NEWSWIRE) -- EBC Financial Group (EBC) United to Beat Malaria (Beat Malaria) Beat Malaria (UN Foundation) 600,000 United to Beat Malaria EBC United to Beat Malaria EBC EB\u2026 [+1146 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.789596",
+      "internal_id": "a4c50ca9f8892b28207c518c27ba3cfca482b6f8ee109e2799b940d735411679",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8319,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC Financial Group \u8207\u806f\u5408\u570b\u57fa\u91d1\u6703 United to Beat Malaria \u904b\u52d5\u5efa\u7acb\u5408\u4f5c\u5925\u4f34\u95dc\u4fc2\uff0c\u5e6b\u52a9\u5f31\u52e2\u5152\u7ae5\u53ca\u5176\u5bb6\u5ead\u62b5\u79a6\u7627\u75be",
+      "description": "EBC Financial Group \u52a0\u5927\u6d88\u6ec5\u7627\u75be\u65b9\u9762\u7684\u52aa\u529b\uff0c\u70ba\u91cd\u8981\u885b\u751f\u5e72\u9810\u63aa\u65bd\u548c\u793e\u7fa4\u8ce6\u80fd\u63d0\u4f9b\u652f\u63f4\u3002......",
+      "url": "https://www.globenewswire.com/news-release/2024/04/18/2865080/0/zh-hant/EBC-Financial-Group-%E8%88%87%E8%81%AF%E5%90%88%E5%9C%8B%E5%9F%BA%E9%87%91%E6%9C%83-United-to-Beat-Malaria-%E9%81%8B%E5%8B%95%E5%BB%BA%E7%AB%8B%E5%90%88%E4%BD%9C%E5%A4%A5%E4%BC%B4%E9%97%9C%E4%BF%82-%E5%B9%AB%E5%8A%A9%E5%BC%B1%E5%8B%A2%E5%85%92%E7%AB%A5%E5%8F%8A%E5%85%B6%E5%AE%B6%E5%BA%AD%E6%8A%B5%E7%A6%A6%E7%98%A7%E7%96%BE.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/25cc6523-80ba-4ea3-9d22-554096ea4b97",
+      "publishedAt": "2024-04-18 02:53:00",
+      "content": ", April 18, 2024 (GLOBE NEWSWIRE) -- EBC Financial Group (EBC) United to Beat Malaria (Beat Malaria) Beat Malaria (UN Foundation) 600,000 United to Beat Malaria EBC United to Beat Malaria EBC EB\u2026 [+1146 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.793879",
+      "internal_id": "adaab9dc53a7f2edc61cca87253a1567f8853ceee81d728e968473c477f09923",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8320,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC Financial Group se asocia con United to Beat Malaria, una campa\u00f1a de la Fundaci\u00f3n de las Naciones Unidas, para proteger a los ni\u00f1os vulnerables y sus familias contra la malaria",
+      "description": "EBC Financial Group ampl\u00eda los esfuerzos de erradicaci\u00f3n de la malaria, apoyando las intervenciones cr\u00edticas de salud y el empoderamiento comunitario......",
+      "url": "https://www.globenewswire.com/news-release/2024/04/18/2865080/0/es/EBC-Financial-Group-se-asocia-con-United-to-Beat-Malaria-una-campa%C3%B1a-de-la-Fundaci%C3%B3n-de-las-Naciones-Unidas-para-proteger-a-los-ni%C3%B1os-vulnerables-y-sus-familias-contra-la-malaria.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/25cc6523-80ba-4ea3-9d22-554096ea4b97",
+      "publishedAt": "2024-04-18 02:53:00",
+      "content": "WASHINGTON, April 17, 2024 (GLOBE NEWSWIRE) -- Hoy, EBC Financial Group (EBC) anunci\u00f3 una nueva asociaci\u00f3n con United to Beat Malaria (Beat Malaria), una campa\u00f1a de la Fundaci\u00f3n de las Naciones Unida\u2026 [+8831 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.798107",
+      "internal_id": "bb08966691d73a06440854f2c54328a36f5e9f1d701285c0e396d80f4961d003",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8321,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC Financial Group \u05de\u05e9\u05ea\u05e4\u05ea \u05e4\u05e2\u05d5\u05dc\u05d4 \u05e2\u05dd United to Beat Malaria, \u05e7\u05de\u05e4\u05d9\u05d9\u05df \u05e9\u05dc \u05e7\u05e8\u05df \u05d4\u05d0\u05d5\"\u05dd, \u05db\u05d3\u05d9 \u05dc\u05d4\u05d2\u05df \u05e2\u05dc \u05d9\u05dc\u05d3\u05d9\u05dd \u05e4\u05d2\u05d9\u05e2\u05d9\u05dd \u05d5\u05de\u05e9\u05e4\u05d7\u05d5\u05ea\u05d9\u05d4\u05dd \u05de\u05e4\u05e0\u05d9 \u05de\u05dc\u05e8\u05d9\u05d4",
+      "description": "EBC Financial Group \u05de\u05d2\u05d1\u05d9\u05e8\u05d4 \u05d0\u05ea \u05de\u05d0\u05de\u05e6\u05d9 \u05de\u05d9\u05d2\u05d5\u05e8 \u05d4\u05de\u05dc\u05e8\u05d9\u05d4, \u05ea\u05d5\u05de\u05db\u05ea \u05d1\u05d4\u05ea\u05e2\u05e8\u05d1\u05d5\u05d9\u05d5\u05ea \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05e7\u05e8\u05d9\u05d8\u05d9\u05d5\u05ea \u05d5\u05d1\u05d4\u05e2\u05e6\u05de\u05d4 \u05e7\u05d4\u05d9\u05dc\u05ea\u05d9\u05ea......",
+      "url": "https://www.globenewswire.com/news-release/2024/04/18/2865080/0/he/EBC-Financial-Group-%D7%9E%D7%A9%D7%AA%D7%A4%D7%AA-%D7%A4%D7%A2%D7%95%D7%9C%D7%94-%D7%A2%D7%9D-United-to-Beat-Malaria-%D7%A7%D7%9E%D7%A4%D7%99%D7%99%D7%9F-%D7%A9%D7%9C-%D7%A7%D7%A8%D7%9F-%D7%94%D7%90%D7%95-%D7%9D-%D7%9B%D7%93%D7%99-%D7%9C%D7%94%D7%92%D7%9F-%D7%A2%D7%9C-%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%A4%D7%92%D7%99%D7%A2%D7%99%D7%9D-%D7%95%D7%9E%D7%A9%D7%A4%D7%97%D7%95%D7%AA%D7%99%D7%94%D7%9D-%D7%9E%D7%A4%D7%A0%D7%99-%D7%9E%D7%9C%D7%A8%D7%99%D7%94.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/25cc6523-80ba-4ea3-9d22-554096ea4b97",
+      "publishedAt": "2024-04-18 02:53:00",
+      "content": ", April 18, 2024 (GLOBE NEWSWIRE) -- EBC Financial Group (EBC) United toBeat Malaria ( ), \" (UN Foundation), -600,000 . United to BeatMalaria, \" . \" , . \" , , . EBCUnited to BeatMalaria, . EBC . -E\u2026 [+1265 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.802026",
+      "internal_id": "dad92120e407e3317872deb889f5113adcfd231822b0d9c379f328f5e0e97026",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8322,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC\u30d5\u30a3\u30ca\u30f3\u30b7\u30e3\u30eb\u30fb\u30b0\u30eb\u30fc\u30d7 (EBC Financial Group) \u304c\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u30fb\u30c8\u30a5\u30fb\u30d3\u30fc\u30c8\u30fb\u30de\u30e9\u30ea\u30a2 (United to Beat Malaria)\u3068\u63d0\u643a\u3057\u3001\u5f31\u3044\u7acb\u5834\u306b\u3042\u308b\u5b50\u4f9b\u305f\u3061\u3068\u305d\u306e\u5bb6\u65cf\u3092\u30de\u30e9\u30ea\u30a2\u304b\u3089\u5b88\u308b\u56fd\u9023\u8ca1\u56e3 (UN Foundation) \u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u3092\u5b9f\u65bd",
+      "description": "EBC\u30d5\u30a3\u30ca\u30f3\u30b7\u30e3\u30eb\u30fb\u30b0\u30eb\u30fc\u30d7\u306f\u30de\u30e9\u30ea\u30a2\u64b2\u6ec5\u306e\u53d6\u308a\u7d44\u307f\u3092\u5f37\u5316\u3057\u3001\u91cd\u8981\u306a\u5065\u5eb7\u4ecb\u5165\u3068\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u306e\u30a8\u30f3\u30d1\u30ef\u30fc\u30e1\u30f3\u30c8\u3092\u652f\u63f4\u3057\u3066\u3044\u308b\u3002......",
+      "url": "https://www.globenewswire.com/news-release/2024/04/18/2865080/0/ja/EBC%E3%83%95%E3%82%A3%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-EBC-Financial-Group-%E3%81%8C%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89-%E3%83%88%E3%82%A5-%E3%83%93%E3%83%BC%E3%83%88-%E3%83%9E%E3%83%A9%E3%83%AA%E3%82%A2-United-to-Beat-Malaria-%E3%81%A8%E6%8F%90%E6%90%BA%E3%81%97-%E5%BC%B1%E3%81%84%E7%AB%8B%E5%A0%B4%E3%81%AB%E3%81%82%E3%82%8B%E5%AD%90%E4%BE%9B%E3%81%9F%E3%81%A1%E3%81%A8%E3%81%9D%E3%81%AE%E5%AE%B6%E6%97%8F%E3%82%92%E3%83%9E%E3%83%A9%E3%83%AA%E3%82%A2%E3%81%8B%E3%82%89%E5%AE%88%E3%82%8B%E5%9B%BD%E9%80%A3%E8%B2%A1%E5%9B%A3-UN-Foundation-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%92%E5%AE%9F%E6%96%BD.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/25cc6523-80ba-4ea3-9d22-554096ea4b97",
+      "publishedAt": "2024-04-18 02:53:00",
+      "content": ", April 18, 2024 (GLOBE NEWSWIRE) -- EBC (EBC) 60 EBCEBCEBC75%5 EBCEBC (EBC Financial Group (UK) Ltd) (CEO) (David Barrett) 2024EBC (Margaret McDonnell) EBCEBC 24,00094% EBCEBCAPAC (Samuel Hertz\u2026 [+757 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.806060",
+      "internal_id": "c5ebdea7509e64a99af67ddcee36d6907602c5f638b5b5eca569c3e644741dfd",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8324,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC Financial Group s\u2019associe \u00e0 \u00ab Unis pour vaincre le paludisme \u00bb, une campagne de la Fondation des Nations unies, pour prot\u00e9ger les enfants vuln\u00e9rables et leurs familles contre le paludisme",
+      "description": "EBC Financial Group intensifie les efforts d\u2019\u00e9radication du paludisme en soutenant des interventions sanitaires essentielles et l\u2019autonomisation des.........",
+      "url": "https://www.globenewswire.com/news-release/2024/04/18/2865080/0/fr/EBC-Financial-Group-s-associe-%C3%A0-Unis-pour-vaincre-le-paludisme-une-campagne-de-la-Fondation-des-Nations-unies-pour-prot%C3%A9ger-les-enfants-vuln%C3%A9rables-et-leurs-familles-contre-le-palu.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/25cc6523-80ba-4ea3-9d22-554096ea4b97",
+      "publishedAt": "2024-04-18 02:53:00",
+      "content": "WASHINGTON, 18 avr. 2024 (GLOBE NEWSWIRE) -- Aujourdhui, EBC Financial Group (\u00ab EBC \u00bb) a annonc\u00e9 un nouveau partenariat avec \u00ab Unis pour vaincre le paludisme \u00bb (United to Beat Malaria en anglais), un\u2026 [+9733 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.824912",
+      "internal_id": "7e6d9a53c3748ae4478865a7743759c20540f8c89710c63e6503214dea85f7e9",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8325,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC Financial Group Faz Parceria com a Unidos para Combater a Mal\u00e1ria, Uma Campanha da Funda\u00e7\u00e3o das Na\u00e7\u00f5es Unidas, para Proteger Crian\u00e7as Vulner\u00e1veis e Suas Fam\u00edlias da Mal\u00e1ria",
+      "description": "EBC Financial Group Amplifica os Esfor\u00e7os de Erradica\u00e7\u00e3o da Mal\u00e1ria, Apoiando Interven\u00e7\u00f5es Cr\u00edticas de Sa\u00fade e Empoderamento da Comunidade.......",
+      "url": "https://www.globenewswire.com/news-release/2024/04/18/2865080/0/pt/EBC-Financial-Group-Faz-Parceria-com-a-Unidos-para-Combater-a-Mal%C3%A1ria-Uma-Campanha-da-Funda%C3%A7%C3%A3o-das-Na%C3%A7%C3%B5es-Unidas-para-Proteger-Crian%C3%A7as-Vulner%C3%A1veis-e-Suas-Fam%C3%ADlias-da-Mal%C3%A1ria.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/25cc6523-80ba-4ea3-9d22-554096ea4b97",
+      "publishedAt": "2024-04-18 02:53:00",
+      "content": "WASHINGTON, April 17, 2024 (GLOBE NEWSWIRE) -- O EBC Financial Group (EBC) anunciou hoje uma nova parceria com a Unidos para Combater a Mal\u00e1ria (Beat Malaria), uma campanha da Funda\u00e7\u00e3o das Na\u00e7\u00f5es Uni\u2026 [+8606 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.829526",
+      "internal_id": "cfc9854030e0ac412d0935258cea11ed2941fed8fa0434e9bffa7216df0c2d9a",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8313,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "The mega-pastor pushing anti-vaccine conspiracy theories",
+      "description": "Pastor Chris Oyakhilome is targeting the new malaria vaccines as African countries start their rollout.",
+      "url": "https://www.bbc.co.uk/news/world-africa-67577223",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3260/production/_133169821_fabccb79-0362-4d2a-8696-2f3c46b64b90.jpg",
+      "publishedAt": "2024-04-18 01:54:49",
+      "content": "Dressed in his signature closed-neck suit, Pastor Chris Oyakhilome stared directly into the camera, declaring that \"there was never a proof that vaccines ever worked\". Everyone had been \"lied to\" a\u2026 [+7778 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.750102",
+      "internal_id": "dbe20ce251b1fdfe19e8627c4a2471cfd0af344a14578f299b33114f593772e9",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8312,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Sun Chronicle",
+      "author": "Staff and wire reports",
+      "title": "Former Wrentham man faces sentencing in Michigan 12 years after fatal US meningitis outbreak",
+      "description": "Days after a routine injection to ease back pain, Donna Kruzich and a friend drove across the Michigan border to Canada in 2012 to see end-of-summer theater in Stratford, Ontario.",
+      "url": "https://www.thesunchronicle.com/news/local_news/former-wrentham-man-faces-sentencing-in-michigan-12-years-after-fatal-us-meningitis-outbreak/article_4c0322cd-1b8f-56e2-829b-08c65bee95ff.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/d/34/d342630c-5ce5-5659-97f5-2f7e2440080f/60e621300e28b.image.jpg?crop=341%2C341%2C85%2C0&resize=200%2C200&order=crop%2Cresize",
+      "publishedAt": "2024-04-17 23:30:00",
+      "content": "Days after a routine injection to ease back pain, Donna Kruzich and a friend drove across the Michigan border to Canada in 2012 to see end-of-summer theater in Stratford, Ontario. The 78-year-old wo\u2026 [+4173 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.232013",
+      "internal_id": "4fdf3065c48be369e555b0fcc858503967d58d6864bdf30e7eb0cf007a3f56b0",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8306,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Eimer McAuley",
+      "title": "Dr Fauci in Dublin: I'm concerned false info online could lead to further rise in measles cases",
+      "description": "Dr Fauci said that he has been \u2018extensively\u2019 threatened by anti-vaxxers, but that doctors can\u2019t be afraid to give out factual advice.",
+      "url": "https://www.thejournal.ie/dr-anthony-fauci-measles-6357542-Apr2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6357542/river/?height=400&version=6357545",
+      "publishedAt": "2024-04-17 22:39:09",
+      "content": "DR ANTHONY FAUCI has said that he is very concerned about the normalisation of untruth, including by anti-vaxxers online, and how it could lead to a further rise in measles cases as people are being \u2026 [+4873 chars]",
+      "retrievedAt": "2024-04-19 07:05:42.818076",
+      "internal_id": "0a01cd995b4dacf211d89fc6db98552cfabb49458515e6031ae26e427fb30359",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8308,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Simone Cordeiro",
+      "title": "Dengue: como a IA pode ser usada para identificar \u00e1reas de risco?",
+      "description": "Universidades do sudeste do Brasil e do Reino Unido realizam pesquisa para ajudar a localizar focos do mosquito. O post Dengue: como a IA pode ser usada para identificar \u00e1reas de risco? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/04/17/medicina-e-saude/dengue-como-a-ia-pode-ser-usada-para-identificar-areas-de-risco/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/04/111111-695x500.jpg",
+      "publishedAt": "2024-04-17 22:20:00",
+      "content": "Com dados alarmantes da transmiss\u00e3o de dengue no pa\u00eds, nunca antes as estrat\u00e9gias de combate ao mosquito foram t\u00e3o bem-vindas. E a Intelig\u00eancia Artificial (IA) chegou para trazer mais uma possibilida\u2026 [+2724 chars]",
+      "retrievedAt": "2024-04-19 07:05:43.800829",
+      "internal_id": "04e2cdf59335518873fd46443af9544123634a4d70d45f4d4d85abb8c9f316e3",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8305,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Whooping Cough Cases Rise Across Europe, Asia And Parts Of U.S.",
+      "description": "Whooping cough outbreaks are expanding across Europe, Asia and parts of the United States, including Northern California.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2024/04/17/whooping-cough-cases-rise-across-europe-asia-and-parts-of-us/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66202b2dfa1dab85bc1995a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-17 21:55:39",
+      "content": "Infant gets vaccinated against diphtheria, pertussis (whooping cough) and tetanus. Vaccination ... [+] provides long-term protection against certain infectious diseases. getty Whooping cough outbre\u2026 [+4536 chars]",
+      "retrievedAt": "2024-04-19 07:05:42.114891",
+      "internal_id": "fbf4d911cbeb8848f116aa667de786605b661d384d79d675f76045861855d50e",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8310,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas confirma tr\u00eas novas mortes por dengue e total chega a 11; crian\u00e7a de 10 anos \u00e9 uma das v\u00edtimas",
+      "description": "Segundo a Sa\u00fade, pacientes foram infectados pelo sorotipo 2 da doen\u00e7a e dois deles tinham doen\u00e7as pr\u00e9vias. Metr\u00f3pole soma 55.176 casos confirmados em 2024. Mosquito Aedes aegypti Ueslei Marcelino/Reuters A Prefeitura de Campinas (SP) confirmou, nesta quarta-f\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/17/campinas-confirma-tres-novas-mortes-por-dengue-e-total-chega-a-11-crianca-de-10-anos-e-uma-das-vitimas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/YP1dr5F1C_JsS9_2GS3swViM7IQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/W/W/5iSjs4RDeg6dVnCrof4g/aedes.jpg",
+      "publishedAt": "2024-04-17 20:56:57",
+      "content": "Ainda de acordo com a pasta, os tr\u00eas pacientes foram infectados pelo sorotipo 2 da doen\u00e7a e dois deles tinham doen\u00e7as pr\u00e9vias. Veja o detalhamento abaixo: Homem, 43 anos, atendido na rede p\u00fa\u2026 [+4413 chars]",
+      "retrievedAt": "2024-04-19 07:05:43.921434",
+      "internal_id": "28d7e3c232b269d713f5ee6da69f6010db40cea3eb337e8882f103ffc02d5f05",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8326,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "Nytt myggn\u00e4t hindrar malariaspridning",
+      "description": "\u25b8 En ny form av myggn\u00e4t har under en tre\u00e5rsperiod hindrat uppskattningsvis 13 miljoner malariafall i Afrika s\u00f6der om\u2026",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1246197",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=56&q=50&w=100&s=8d717b112fa508073dcc3292ac8f7acfdc612d33",
+      "publishedAt": "2024-04-17 20:52:08",
+      "content": "TRE NYHETER DU INTE F\u00c5R MISSA: Nytt myggn\u00e4t hindrar malariaspridning En ny form av myggn\u00e4t har under en tre\u00e5rsperiod hindrat uppskattningsvis 13 miljoner malariafall i Afrika s\u00f6der om Sahar\u2026 [+12554 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.834929",
+      "internal_id": "95c57203d5c0607cdf75b002f83b58190881857aee08780175cc71bbad2a9607",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8307,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Francisco \"A.J.\" Camacho, E&E News",
+      "title": "A Dengue Fever Outbreak Is Setting Records in the Americas",
+      "description": "At least 2.1 million cases of dengue fever have been reported in North and South America, and this year 1,800 people have died from the mosquito-borne disease",
+      "url": "https://www.scientificamerican.com/article/a-dengue-fever-outbreak-is-setting-records-in-the-americas/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/728b43ce4bc28fa6/original/GettyImages-1258609962.jpg?w=1200",
+      "publishedAt": "2024-04-17 19:30:00",
+      "content": "CLIMATEWIRE | At least 2.1 million people in North and South America have been infected this year with dengue \u2014 a record-setting figure that scientists attribute in part to climate change. The Pan A\u2026 [+4006 chars]",
+      "retrievedAt": "2024-04-19 07:05:43.787532",
+      "internal_id": "fa13b10e5a10230fd0140b028a7ec57b0e11b708b7b68b78fb6cd18512e91e61",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8323,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Nytt myggn\u00e4t hindrar malariaspridning",
+      "description": "En ny form av myggn\u00e4t har under en tre\u00e5rsperiod hindrat uppskattningsvis 13 miljoner malariafall i Afrika s\u00f6der om Sahara.",
+      "url": "https://www.aftonbladet.se/nyheter/a/jQ9gGe/nytt-myggnat-hindrar-malariaspridning",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/2d748f6e-0bc4-4ba7-9e61-8db7c7f54f15?fit=crop&format=auto&h=1267&q=50&w=1900&s=5d767cfb70499da122a604c7a95bf90906633930",
+      "publishedAt": "2024-04-17 19:18:59",
+      "content": "share-arrow Dela En ny form av myggn\u00e4t har under en tre\u00e5rsperiod hindrat uppskattningsvis 13 miljoner malariafall i Afrika s\u00f6der om Sahara. N\u00e4stan en halv miljon barn i Afrika ber\u00e4knas \u00e5rligen d\u00f6 \u2026 [+1029 chars]",
+      "retrievedAt": "2024-04-19 07:05:44.814372",
+      "internal_id": "732deed5e79355f99510c99065e7d2423a9cbb51982c36b634677de69f541e9c",
+      "publishedAtLabel": "Apr 17"
+    },
     {
       "id": 8277,
       "query": [
@@ -364,6 +742,24 @@
       "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
       "retrievedAt": "2024-04-18 19:05:24.238614",
       "internal_id": "15bf2c535c0e44e528803cc0b2d87be3ec87160f64877e4991606cd00f38f24f",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 8311,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "R.N.",
+      "title": "Encuesta: 86% est\u00e1 en contra de la motosierra en la UBA",
+      "description": "Seg\u00fan un estudio de la consultora Zuban C\u00f3rdoba, la gesti\u00f3n de la crisis del Dengue y los recortes en las universidades, entre las m\u00e1s denostadas. Leer m\u00e1s",
+      "url": "https://noticias.perfil.com/noticias/informacion-general/encuesta-la-imagen-de-milei-mejora-en-5-puntos-tras-el-recorte-de-estatales.phtml",
+      "urlToImage": "https://fotos.perfil.com/2024/04/12/trim/1280/720/motosierra-1784200.jpg",
+      "publishedAt": "2024-04-17 11:52:11",
+      "content": "La imagen positiva de Javier Milei sube del 42,5% en marzo al 47,1 en abril, a la par que logra una disminuci\u00f3n en el rechazo que hab\u00eda ido en aumento desde su asunci\u00f3n el pasado 10 de diciembre. Una\u2026 [+1979 chars]",
+      "retrievedAt": "2024-04-19 07:05:43.928476",
+      "internal_id": "60b223dfc9ca30698710662ee2878ebea11490b02eda2b4d69e9e3c9ce2c222a",
       "publishedAtLabel": "Apr 17"
     },
     {
@@ -34667,6 +35063,278 @@
       "content": "Ap\u00f3s registrar 1.674 casos da Febre do Oropouche neste ano, o governo do Amazonas reconheceu o surto da doen\u00e7a no estado. A arbovirose tem sintomas semelhantes aos da dengue , como dor de cabe\u00e7a, m\u2026 [+1637 chars]",
       "retrievedAt": "2024-03-05 07:05:47.425451",
       "internal_id": "4f54511b881e88ed15874f3ade0a47ecf0fd73c369ac37e0f4e4b21dd65325dc",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6344,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (The Week Staff)",
+      "title": "The Week Unwrapped: Measles, karting and TikTok tunes",
+      "description": "What's behind the rising number of measles outbreaks? Will a new female karting competition change motorsport for the better? And why are some songs disappearing from TikTok?",
+      "url": "https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fAFBBzBL5d9DErhBr6efeN-1200-80.jpg",
+      "publishedAt": "2024-03-03 18:40:21",
+      "content": "Olly Mann and The Week delve behind the headlines and debate what really matters from the past seven days. A podcast for curious, open-minded people, it delivers fresh perspectives on politics, cultu\u2026 [+1070 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.697687",
+      "internal_id": "b2e30dc646c05ed1bdeca4a323b26da89e8ff9100a6a950027f2919f62b31bef",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6349,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "Bradley Massman | Bmassman@mlive.com",
+      "title": "Health officials confirm measles case in Washtenaw County, warn of exposure spot",
+      "description": "Health officials said anyone potentially exposed should monitor themselves for symptoms for 21 days.",
+      "url": "https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html",
+      "urlToImage": "https://www.mlive.com/resizer/braWJjc9pBYgnHTB8HkXoSOdmqE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KVPYG456ZNDHVGMDJNAZQOS2HU.JPG",
+      "publishedAt": "2024-03-03 18:26:22",
+      "content": "WASHTENAW COUNTY, MI The health department has confirmed a case of measles in Washtenaw County and is warning of a potential exposure spot at one local emergency department. Washtenaw County health \u2026 [+1552 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.792195",
+      "internal_id": "a2aa9eaf06d3ab65b7ff363404cb262f39c5977205f839a27780f7536c55b84c",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6354,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Epidemia de dengue faz Natal decretar emerg\u00eancia em sa\u00fade",
+      "description": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados...",
+      "url": "https://jornaldebrasilia.com.br/?p=2720607",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03182222/IMG_0883.webp",
+      "publishedAt": "2024-03-03 18:23:05",
+      "content": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados tamb\u00e9m indicam uma tend\u00eancia de crescimento pela terceira semana\u2026 [+2894 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.876117",
+      "internal_id": "33a1b0813cf4ec41ba700bbe82a3b37961ab5a8c342a8dd1a553de4616efbc35",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6348,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Kayla Clarke",
+      "title": "Washtenaw County confirms Michigan\u2019s 3rd case of measles this year",
+      "description": "The Washtenaw County Health Department is reporting Michigan\u2019s third case of measles this year.",
+      "url": "https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/353X74D4FRE3VM725VMXJ2EM24.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-03-03 17:47:39",
+      "content": "YPSILANTI, Mich. The Washtenaw County Health Department is reporting Michigans third case of measles this year. Measles is a highly contagious and preventable disease that is caused by a virus. It c\u2026 [+4274 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.783392",
+      "internal_id": "66e75ab3377ee78236ab1e6f0c2a292010d46730996df438609019e7ba8a1142",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6355,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Brasil elogia medidas adotadas pela It\u00e1lia contra dengue",
+      "description": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do ...",
+      "url": "https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-03-03 17:03:51",
+      "content": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do Brasil, Ethel Maciel, afirmou que a It\u00e1lia \"fez bem\" em elevar o n\u00edvel de alerta nas fronteiras e em \"a\u2026 [+3272 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.943794",
+      "internal_id": "96d77d6528e48a135f8a7b7746cac9a520c9d287fe13fec2b91f6cee758c25f9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6347,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Washtenaw.org",
+      "author": null,
+      "title": "News Flash \u2022 Health Department Alerts Public to Local Measle",
+      "description": "Washtenaw County Health Department is reporting a case of measles and alerting residents to possible exposure on Fri, March 1 at a local emergency department. MMR vaccination is recommended for anyone 1 year and older and anyone potentially exposed.",
+      "url": "https://www.washtenaw.org/CivicAlerts.aspx?AID=2669",
+      "urlToImage": "https://www.washtenaw.org/ImageRepository/Document?documentID=33982",
+      "publishedAt": "2024-03-03 16:58:30",
+      "content": "(Spanish translation now available. Arabic translation will be posted here as soon as possible.) Washtenaw County Health Department is reporting a case of measles and alerting the public to the poss\u2026 [+4449 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.778622",
+      "internal_id": "0115d742ce4f280db0fd16954879da4c565dcf72b89f2a5631d0f6e0c36033c9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6458,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Crian\u00e7a de 9 anos \u00e9 encontrada morta dentro de casa na Grande BH",
+      "description": "Exames constataram aus\u00eancia de sinais de viol\u00eancia; acredita-se que a causa da morte foi por dengue hemorr\u00e1gica",
+      "url": "https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024",
+      "urlToImage": "https://img.r7.com/images/morre-suspeita-dengue-03032024155458912?dimensions=160x90",
+      "publishedAt": "2024-03-03 15:56:40",
+      "content": "Crian\u00e7a foi levada para um hospital em Esmeraldas (MG) Reprodu\u00e7\u00e3o / Google Street View Uma crian\u00e7a de 9 anos foi encontrada morta dentro de casa, em Ribeir\u00e3o das Neves, na regi\u00e3o metropolitan\u2026 [+1545 chars]",
+      "retrievedAt": "2024-03-06 07:05:49.632919",
+      "internal_id": "c7157848613bfc1b2dc52747534b0752c1b1356dc74494a3455f96eb3296758b",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6350,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Week in pictures: From firefighter protests in Seoul to prayers in Gaza",
+      "description": "A roundup of some of last week\u2019s events.",
+      "url": "https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AA-20240301-33853497-33853495-FRIDAY_PRAYERS_OF_PALESTINIANS_AMONG_DESTROYED_MOSQUE_RUBBLE_IN_GAZA_STRIP-1709468351.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-03-03 15:31:34",
+      "content": "From a dengue epidemic in Peru to the funeral of the Russian opposition leader, here is the week in photos.",
+      "retrievedAt": "2024-03-04 19:05:22.751317",
+      "internal_id": "2e2fd80473629f422e9d001fc77aa53f31f474e04931c698c5653557aaea0eeb",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6353,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Popula\u00e7\u00f5es perif\u00e9ricas s\u00e3o mais vulner\u00e1veis \u00e0 dengue",
+      "description": "\"O meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho\u201d. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03152924/IMG_0852.webp",
+      "publishedAt": "2024-03-03 15:30:36",
+      "content": "\u201cO meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1 acostumada com o pequeno Vitor, de 3 anos de idade, pulando de um \u2026 [+9534 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.839937",
+      "internal_id": "79e6ac8676b06abf6fd68f62d083b86a48c2e1f67c3fb94b11290c7908e61783",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6345,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)",
+      "description": "Richard Luscombe / The Guardian: Florida is swamped by disease outbreaks as quackery replaces science \u2014 The state is in the grip of a measles outbreak, yet Joseph Ladapo, the surgeon general, continues to ignore medical science to stop it \u2014 Shortly before\u2026",
+      "url": "https://www.memeorandum.com/240303/p7",
+      "urlToImage": "https://i.guim.co.uk/img/media/160521aedeeb183f524009821e37428c9c19ea5c/0_43_3300_1980/master/3300.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2024-03-03 15:20:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.725738",
+      "internal_id": "6742296b3d2f02f0d75e721dc29d108237e7b7b149ef2f9ad59923894f6a99fd",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6346,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more",
+      "description": "This weekend, check out some of the top stories of the week in Health that you may have missed, including key insights on COVID and autoimmune treatments.",
+      "url": "https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/kidney-transplants-split.jpg",
+      "publishedAt": "2024-03-03 15:18:55",
+      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. Please enter a valid email address. By entering your e\u2026 [+3480 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.764064",
+      "internal_id": "f01d5d96d57062959741f73c8ed148d3eaff0f7467e6f025a181b094f585f5aa",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6446,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Febasgo, Minist\u00e9rio da Sa\u00fade e Opas lan\u00e7am manual sobre dengue para gestantes",
+      "description": "A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas),",
+      "url": "https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2023/03/istock-1097583224.jpg",
+      "publishedAt": "2024-03-03 14:44:06",
+      "content": "\u00daltimas not\u00edcias: A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas), lan\u00e7ou o Manual de Preven\u00e7\u00e3o,\u2026 [+1842 chars]",
+      "retrievedAt": "2024-03-06 07:05:49.576692",
+      "internal_id": "68257706d896542fc814eeedad8f23ca543b0ff37cd70496222d9998cd27e8c4",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6454,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Mirtha Legrand le pidi\u00f3 al Gobierno que la vacuna del dengue sea gratuita",
+      "description": "La conductora se refiri\u00f3 al aumento de casos que tuvo lugar en las \u00faltimas semanas en todo el pa\u00eds;",
+      "url": "https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/mirtha-pidio-que-la-vacuna-contra-el-dengue-sea-TWGCOU3ELVGQVDB6OOYM2KYRXM.JPG?auth=6cfd3fd285ae28eb6faa3b6a31ad57bceaca996bb5ec954c09941ee330f9b8d8&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-03 12:01:59",
+      "content": "En medio de un aumento exponencial de los casos de dengue en el \u00c1rea Metropolitana de Buenos Aires (AMBA)y otras regiones del pa\u00eds, Mirtha Legrand se quej\u00f3 del valor de las vacunas para prevenirlo y \u2026 [+2542 chars]",
+      "retrievedAt": "2024-03-06 07:05:49.614148",
+      "internal_id": "f185e4a02dc5e0411f5f29ab8cf12a65a9513382510095352199bbf6ceed0ebf",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6352,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Anna Karolina Eriksson/TT",
+      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
+      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vektorburna virussjukdomarna st\u00e5r och knackar p\u00e5 d\u00f6rren, men det finns inga avsatta medel f\u00f6r \u00f6vervakn\u2026",
+      "url": "https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar",
+      "urlToImage": "https://svd.vgc.no/v2/images/90ff6fef-1ca6-4105-b103-658514f2ec88?h=630&q=80&upscale=true&w=1200&s=b693c53191dbce138a60969d340d03bfa6eac7ac",
+      "publishedAt": "2024-03-03 08:34:17",
+      "content": "Invasiva myggarter n\u00e4rmar sig Sverige med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. De vektorburna virussjukdomarna st\u00e5r och knack\u2026 [+99 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.816348",
+      "internal_id": "ed1c0db11933badd1d64c90a024b2d5ad63053f362844dd74ac5eacc53839fb9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6351,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
+      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vek",
+      "url": "https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/6012ca3e-1a73-423b-a19e-da105b74f5e0?fit=crop&format=auto&h=826&q=50&w=1239&s=344ba01e72e2f15f7bac9bc7888853c0f9aacfbe",
+      "publishedAt": "2024-03-03 08:34:16",
+      "content": "Anna Karolina Eriksson/TT share-arrow Dela chevron-left f\u00f6reg\u00e5endechevron-right n\u00e4sta Culex modestus, nilfebersmygga.1 / 2Foto: Anders Lindstr\u00f6m/SVA Invasiva myggarter n\u00e4rmar sig Sverige med f\u2026 [+2998 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.791631",
+      "internal_id": "ae9e266b91ac7889b2e75e16b89d9e01b7d907b335ff1ec5e2fa7639194eae88",
       "publishedAtLabel": "Mar 3"
     }
   ]

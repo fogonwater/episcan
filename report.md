@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 30
-- **Last harvest:** 2024-04-18 19:05
-- **Most recent article:** 2024-04-17 18:22:57
+- **New articles in last harvest:** 22
+- **Last harvest:** 2024-04-19 07:05
+- **Most recent article:** 2024-04-18 05:30:16
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 181 | 181 | 180 | 186 | 158 | 138 | 53 | 1077 |
-| measles | 78 | 112 | 87 | 44 | 36 | 43 | 26 | 426 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 9 | 101 |
-| zika | 14 | 16 | 12 | 21 | 11 | 10 | 6 | 90 |
-| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 12 | 76 |
+| dengue | 190 | 181 | 180 | 186 | 158 | 138 | 58 | 1091 |
+| measles | 84 | 112 | 87 | 44 | 36 | 43 | 27 | 433 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 23 | 115 |
+| zika | 16 | 16 | 12 | 21 | 11 | 10 | 6 | 92 |
+| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 13 | 77 |
 | chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 4 | 75 |
 | rabies | 5 | 6 | 9 | 3 | 16 | 8 | 2 | 49 |
 | mpox | 5 | 8 | 4 | 6 | 12 | 3 | 8 | 46 |
+| pertussis | 4 | 5 | 3 | 6 | 7 | 9 | 5 | 39 |
 | sarampión | 3 | 3 | 12 | 3 | 5 | 13 | 0 | 39 |
-| pertussis | 4 | 5 | 3 | 6 | 7 | 9 | 4 | 38 |
 | yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 2 | 13 |
 | leptospirosis | 0 | 1 | 0 | 0 | 1 | 3 | 2 | 7 |
 | typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 3 |
@@ -64,6 +64,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (pertussis)
 
+- [Whooping Cough Cases Rise Across Europe, Asia And Parts Of U.S.](https://www.forbes.com/sites/joshuacohen/2024/04/17/whooping-cough-cases-rise-across-europe-asia-and-parts-of-us/) (Forbes)
+
 - [Whooping Cough: Know Causes, Symptoms, Preventive Measures And More](https://www.ndtv.com/health/whooping-cough-know-causes-symptoms-preventive-measures-and-more-5462076) (NDTV News)
 
 - [Bacolod: Province logs pertussis fatality, 11 cases confirmed](https://rpnradio.com/bacolod-province-logs-pertussis-fatality-11-cases-confirmed/) (Rpnradio.com)
@@ -92,6 +94,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (meningitis)
 
+- [Former Wrentham man faces sentencing in Michigan 12 years after fatal US meningitis outbreak](https://www.thesunchronicle.com/news/local_news/former-wrentham-man-faces-sentencing-in-michigan-12-years-after-fatal-us-meningitis-outbreak/article_4c0322cd-1b8f-56e2-829b-08c65bee95ff.html) (The Sun Chronicle)
+
 - [Lab chief faces sentencing in Michigan 12 years after fatal US meningitis outbreak](https://abcnews.go.com/Health/wireStory/lab-chief-faces-sentencing-michigan-12-years-after-109354442) (ABC News)
 
 - [Lab chief faces sentencing in Michigan 12 years after fatal US meningitis outbreak](https://apnews.com/article/meningitis-steroids-pharmacy-michigan-sentencing-b0b5d4c7bf3dc746ed086ca2131bee46) (Associated Press)
@@ -117,6 +121,8 @@ Source: [News API](https://newsapi.org/)
 - [Paramedics On Scene S05E01 1080p WEBRip x264-W45Ps](https://rlsbb.ru/paramedics-on-scene-s05e01-1080p-webrip-x264-w45ps/) (Rlsbb.ru)
 
 ## 24-16 (measles)
+
+- [Dr Fauci in Dublin: I'm concerned false info online could lead to further rise in measles cases](https://www.thejournal.ie/dr-anthony-fauci-measles-6357542-Apr2024/) (TheJournal.ie)
 
 - [Measles alert as case linked to Dublin play centre and HSE warns parents to watch for symptoms](https://www.independent.ie/irish-news/health/measles-alert-as-case-linked-to-dublin-play-centre-and-hse-warns-parents-to-watch-for-symptoms/a1834798416.html) (Independent.ie)
 
@@ -172,6 +178,34 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (malaria)
 
+- [EBC Financial Group Bermitra dengan United to Beat Malaria, Sebuah Kampanye Yayasan PBB, untuk Melindungi Anak dan Keluarga Mereka yang Rentan dari Malaria](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/id/EBC-Financial-Group-Bermitra-dengan-United-to-Beat-Malaria-Sebuah-Kampanye-Yayasan-PBB-untuk-Melindungi-Anak-dan-Keluarga-Mereka-yang-Rentan-dari-Malaria.html) (GlobeNewswire)
+
+- [EBC Financial Group Bekerjasama dengan Bersatu Tewaskan Malaria, Kempen Yayasan Pertubuhan Bangsa-Bangsa Bersatu untuk Melindungi Kanak-kanak Rentan dan Keluarga Mereka daripada Malaria](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/ms/EBC-Financial-Group-Bekerjasama-dengan-Bersatu-Tewaskan-Malaria-Kempen-Yayasan-Pertubuhan-Bangsa-Bangsa-Bersatu-untuk-Melindungi-Kanak-kanak-Rentan-dan-Keluarga-Mereka-daripada-Mal.html) (GlobeNewswire)
+
+- [EBC Financial Group geht Partnerschaft mit United to Beat Malaria ein, einer Kampagne der UN Foundation, um gefährdete Kinder und ihre Familien vor Malaria zu schützen](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/de/EBC-Financial-Group-geht-Partnerschaft-mit-United-to-Beat-Malaria-ein-einer-Kampagne-der-UN-Foundation-um-gef%C3%A4hrdete-Kinder-und-ihre-Familien-vor-Malaria-zu-sch%C3%BCtzen.html) (GlobeNewswire)
+
+- [EBC Financial Group, 말라리아에 가장 취약한 어린이 가족 보호 위해 유엔 재단 캠페인 United to Beat Malaria와 파트너십](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/ko/EBC-Financial-Group-%EB%A7%90%EB%9D%BC%EB%A6%AC%EC%95%84%EC%97%90-%EA%B0%80%EC%9E%A5-%EC%B7%A8%EC%95%BD%ED%95%9C-%EC%96%B4%EB%A6%B0%EC%9D%B4-%EA%B0%80%EC%A1%B1-%EB%B3%B4%ED%98%B8-%EC%9C%84%ED%95%B4-%EC%9C%A0%EC%97%94-%EC%9E%AC%EB%8B%A8-%EC%BA%A0%ED%8E%98%EC%9D%B8-United-to-Beat-Malaria%EC%99%80-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD.html) (GlobeNewswire)
+
+- [EBC Financial Group 与联合国基金会 United to Beat Malaria 运动建立合作伙伴关系，帮助弱势儿童及其家庭抵御疟疾](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/zh-hans/EBC-Financial-Group-%E4%B8%8E%E8%81%94%E5%90%88%E5%9B%BD%E5%9F%BA%E9%87%91%E4%BC%9A-United-to-Beat-Malaria-%E8%BF%90%E5%8A%A8%E5%BB%BA%E7%AB%8B%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB-%E5%B8%AE%E5%8A%A9%E5%BC%B1%E5%8A%BF%E5%84%BF%E7%AB%A5%E5%8F%8A%E5%85%B6%E5%AE%B6%E5%BA%AD%E6%8A%B5%E5%BE%A1%E7%96%9F%E7%96%BE.html) (GlobeNewswire)
+
+- [EBC Financial Group 與聯合國基金會 United to Beat Malaria 運動建立合作夥伴關係，幫助弱勢兒童及其家庭抵禦瘧疾](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/zh-hant/EBC-Financial-Group-%E8%88%87%E8%81%AF%E5%90%88%E5%9C%8B%E5%9F%BA%E9%87%91%E6%9C%83-United-to-Beat-Malaria-%E9%81%8B%E5%8B%95%E5%BB%BA%E7%AB%8B%E5%90%88%E4%BD%9C%E5%A4%A5%E4%BC%B4%E9%97%9C%E4%BF%82-%E5%B9%AB%E5%8A%A9%E5%BC%B1%E5%8B%A2%E5%85%92%E7%AB%A5%E5%8F%8A%E5%85%B6%E5%AE%B6%E5%BA%AD%E6%8A%B5%E7%A6%A6%E7%98%A7%E7%96%BE.html) (GlobeNewswire)
+
+- [EBC Financial Group se asocia con United to Beat Malaria, una campaña de la Fundación de las Naciones Unidas, para proteger a los niños vulnerables y sus familias contra la malaria](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/es/EBC-Financial-Group-se-asocia-con-United-to-Beat-Malaria-una-campa%C3%B1a-de-la-Fundaci%C3%B3n-de-las-Naciones-Unidas-para-proteger-a-los-ni%C3%B1os-vulnerables-y-sus-familias-contra-la-malaria.html) (GlobeNewswire)
+
+- [EBC Financial Group משתפת פעולה עם United to Beat Malaria, קמפיין של קרן האו"ם, כדי להגן על ילדים פגיעים ומשפחותיהם מפני מלריה](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/he/EBC-Financial-Group-%D7%9E%D7%A9%D7%AA%D7%A4%D7%AA-%D7%A4%D7%A2%D7%95%D7%9C%D7%94-%D7%A2%D7%9D-United-to-Beat-Malaria-%D7%A7%D7%9E%D7%A4%D7%99%D7%99%D7%9F-%D7%A9%D7%9C-%D7%A7%D7%A8%D7%9F-%D7%94%D7%90%D7%95-%D7%9D-%D7%9B%D7%93%D7%99-%D7%9C%D7%94%D7%92%D7%9F-%D7%A2%D7%9C-%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%A4%D7%92%D7%99%D7%A2%D7%99%D7%9D-%D7%95%D7%9E%D7%A9%D7%A4%D7%97%D7%95%D7%AA%D7%99%D7%94%D7%9D-%D7%9E%D7%A4%D7%A0%D7%99-%D7%9E%D7%9C%D7%A8%D7%99%D7%94.html) (GlobeNewswire)
+
+- [EBCフィナンシャル・グループ (EBC Financial Group) がユナイテッド・トゥ・ビート・マラリア (United to Beat Malaria)と提携し、弱い立場にある子供たちとその家族をマラリアから守る国連財団 (UN Foundation) キャンペーンを実施](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/ja/EBC%E3%83%95%E3%82%A3%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-EBC-Financial-Group-%E3%81%8C%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89-%E3%83%88%E3%82%A5-%E3%83%93%E3%83%BC%E3%83%88-%E3%83%9E%E3%83%A9%E3%83%AA%E3%82%A2-United-to-Beat-Malaria-%E3%81%A8%E6%8F%90%E6%90%BA%E3%81%97-%E5%BC%B1%E3%81%84%E7%AB%8B%E5%A0%B4%E3%81%AB%E3%81%82%E3%82%8B%E5%AD%90%E4%BE%9B%E3%81%9F%E3%81%A1%E3%81%A8%E3%81%9D%E3%81%AE%E5%AE%B6%E6%97%8F%E3%82%92%E3%83%9E%E3%83%A9%E3%83%AA%E3%82%A2%E3%81%8B%E3%82%89%E5%AE%88%E3%82%8B%E5%9B%BD%E9%80%A3%E8%B2%A1%E5%9B%A3-UN-Foundation-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%92%E5%AE%9F%E6%96%BD.html) (GlobeNewswire)
+
+- [EBC Financial Group s’associe à « Unis pour vaincre le paludisme », une campagne de la Fondation des Nations unies, pour protéger les enfants vulnérables et leurs familles contre le paludisme](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/fr/EBC-Financial-Group-s-associe-%C3%A0-Unis-pour-vaincre-le-paludisme-une-campagne-de-la-Fondation-des-Nations-unies-pour-prot%C3%A9ger-les-enfants-vuln%C3%A9rables-et-leurs-familles-contre-le-palu.html) (GlobeNewswire)
+
+- [EBC Financial Group Faz Parceria com a Unidos para Combater a Malária, Uma Campanha da Fundação das Nações Unidas, para Proteger Crianças Vulneráveis e Suas Famílias da Malária](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/pt/EBC-Financial-Group-Faz-Parceria-com-a-Unidos-para-Combater-a-Mal%C3%A1ria-Uma-Campanha-da-Funda%C3%A7%C3%A3o-das-Na%C3%A7%C3%B5es-Unidas-para-Proteger-Crian%C3%A7as-Vulner%C3%A1veis-e-Suas-Fam%C3%ADlias-da-Mal%C3%A1ria.html) (GlobeNewswire)
+
+- [The mega-pastor pushing anti-vaccine conspiracy theories](https://www.bbc.co.uk/news/world-africa-67577223) (BBC News)
+
+- [Nytt myggnät hindrar malariaspridning](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1246197) (Aftonbladet.se)
+
+- [Nytt myggnät hindrar malariaspridning](https://www.aftonbladet.se/nyheter/a/jQ9gGe/nytt-myggnat-hindrar-malariaspridning) (Aftonbladet.se)
+
 - [Perceived needs of disease vector control programs: A review and synthesis of (sub)national assessments from South Asia and the Middle East](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011451) (Plos.org)
 
 - [New nets ‘prevent’ 13m malaria cases in Africa- Project](https://punchng.com/new-nets-prevent-13m-malaria-cases-in-africa-project/) (The Punch)
@@ -198,6 +232,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (dengue)
 
+- [Le climat nous rend fous](https://www.courrierinternational.com/article/climatiques-le-climat-nous-rend-fous) (Courrier International)
+
+- [Dengue: como a IA pode ser usada para identificar áreas de risco?](https://olhardigital.com.br/2024/04/17/medicina-e-saude/dengue-como-a-ia-pode-ser-usada-para-identificar-areas-de-risco/) (Olhardigital.com.br)
+
+- [Campinas confirma três novas mortes por dengue e total chega a 11; criança de 10 anos é uma das vítimas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/17/campinas-confirma-tres-novas-mortes-por-dengue-e-total-chega-a-11-crianca-de-10-anos-e-uma-das-vitimas.ghtml) (Globo)
+
+- [A Dengue Fever Outbreak Is Setting Records in the Americas](https://www.scientificamerican.com/article/a-dengue-fever-outbreak-is-setting-records-in-the-americas/) (Scientific American)
+
 - [Dengue: número de novas infecções cai, mas DF lidera em taxa de casos](https://www.metropoles.com/distrito-federal/dengue-numero-de-novas-infeccoes-cai-mas-df-lidera-em-taxa-de-casos) (Metropoles.com)
 
 - [Dengue: espécies de plantas têm substâncias capazes de afastar o Aedes aegypti](https://www.tudocelular.com/tech/noticias/n220251/plantas-podem-afastar-mosquito-da-dengue.html) (Tudocelular.com)
@@ -209,6 +251,8 @@ Source: [News API](https://newsapi.org/)
 - [Perceived needs of disease vector control programs: A review and synthesis of (sub)national assessments from South Asia and the Middle East](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011451) (Plos.org)
 
 - [Dengue en Chile: ¿De qué tamaño es y cómo identificar al mosquito que transmite la enfermedad?](https://www.cnnchile.com/pais/dengue-sintomas-mosquito-como-es-recomendaciones-alerta-amarilla_20240417/) (Cnnchile.com)
+
+- [Encuesta: 86% está en contra de la motosierra en la UBA](https://noticias.perfil.com/noticias/informacion-general/encuesta-la-imagen-de-milei-mejora-en-5-puntos-tras-el-recorte-de-estatales.phtml) (Perfil.com)
 
 - [Dengue: Argentinians turn to homemade repellent amid surge in cases](https://www.bmj.com/content/385/bmj.q885) (The BMJ)
 
@@ -3634,6 +3678,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: água parada em obras e prédios abandonados preocupa moradores em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/04/dengue-agua-parada-em-obras-e-predios-abandonados-preocupa-moradores-em-campinas.ghtml) (Globo)
 
+- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
+
+- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
+
 ## 24-10 (yersinia)
 
 - [Socio-ecological risk factors associated with human flea infestations of rural household in plague-endemic areas of Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012036) (Plos.org)
@@ -3871,6 +3919,18 @@ Source: [News API](https://newsapi.org/)
 - [Vaccine skepticism on display in Florida](https://www.startribune.com/vaccine-skepticism-on-display-in-florida/600347932/) (Minneapolis Star Tribune)
 
 - [unknown title](https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties) (FOX 2 Detroit)
+
+- [The Week Unwrapped: Measles, karting and TikTok tunes](https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes) (The Week Magazine)
+
+- [Health officials confirm measles case in Washtenaw County, warn of exposure spot](https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html) (mlive.com)
+
+- [Washtenaw County confirms Michigan’s 3rd case of measles this year](https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/) (WDIV ClickOnDetroit)
+
+- [News Flash • Health Department Alerts Public to Local Measle](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669) (Washtenaw.org)
+
+- [Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)](https://www.memeorandum.com/240303/p7) (Memeorandum.com)
+
+- [Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more](https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more) (Fox News)
 
 ## 24-10 (malaria)
 
@@ -4267,6 +4327,24 @@ Source: [News API](https://newsapi.org/)
 - [Bebê morre de dengue e Covid após ser liberada por hospitais](https://brasil.perfil.com/brasil/bebe-morre-de-dengue-e-covid-apos-ser-liberada-por-hospitais.phtml) (Perfil.com)
 
 - [Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto](https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html) (Ig.com.br)
+
+- [Epidemia de dengue faz Natal decretar emergência em saúde](https://jornaldebrasilia.com.br/?p=2720607) (Jornaldebrasilia.com.br)
+
+- [Brasil elogia medidas adotadas pela Itália contra dengue](https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html) (Terra.com.br)
+
+- [Criança de 9 anos é encontrada morta dentro de casa na Grande BH](https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024) (R7.com)
+
+- [Week in pictures: From firefighter protests in Seoul to prayers in Gaza](https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza) (Al Jazeera English)
+
+- [Populações periféricas são mais vulneráveis à dengue](https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/) (Jornaldebrasilia.com.br)
+
+- [Febasgo, Ministério da Saúde e Opas lançam manual sobre dengue para gestantes](https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/) (Catracalivre.com.br)
+
+- [Mirtha Legrand le pidió al Gobierno que la vacuna del dengue sea gratuita](https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/) (La Nacion)
+
+- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
+
+- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
 
 ## 24-10 (chikungunya)
 
