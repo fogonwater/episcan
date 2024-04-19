@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-04-19 07:05
-- **Most recent article:** 2024-04-18 05:30:16
+- **New articles in last harvest:** 45
+- **Last harvest:** 2024-04-19 19:05
+- **Most recent article:** 2024-04-18 18:54:25
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 190 | 181 | 180 | 186 | 158 | 138 | 58 | 1091 |
-| measles | 84 | 112 | 87 | 44 | 36 | 43 | 27 | 433 |
+| dengue | 181 | 181 | 180 | 186 | 158 | 138 | 76 | 1100 |
+| measles | 78 | 112 | 87 | 44 | 36 | 43 | 30 | 430 |
 | malaria | 15 | 23 | 18 | 7 | 13 | 16 | 23 | 115 |
-| zika | 16 | 16 | 12 | 21 | 11 | 10 | 6 | 92 |
-| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 13 | 77 |
-| chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 4 | 75 |
-| rabies | 5 | 6 | 9 | 3 | 16 | 8 | 2 | 49 |
-| mpox | 5 | 8 | 4 | 6 | 12 | 3 | 8 | 46 |
+| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 32 | 96 |
+| zika | 14 | 16 | 12 | 21 | 11 | 10 | 8 | 92 |
+| chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 5 | 76 |
+| rabies | 5 | 6 | 9 | 3 | 16 | 8 | 3 | 50 |
+| mpox | 5 | 8 | 4 | 6 | 12 | 3 | 11 | 49 |
 | pertussis | 4 | 5 | 3 | 6 | 7 | 9 | 5 | 39 |
 | sarampión | 3 | 3 | 12 | 3 | 5 | 13 | 0 | 39 |
 | yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 2 | 13 |
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-16 (zika)
+
+- [Vacina contra o zika vírus está em desenvolvimento](https://claudia.abril.com.br/saude/vacina-contra-zika-virus) (Abril.com.br)
+
+- [Design, development, and validation of multi-epitope proteins for serological diagnosis of Zika virus infections and discrimination from dengue virus seropositivity](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012100) (Plos.org)
 
 - [Francia aggodalmak, magyar remények – így állunk 100 nappal az olimpia kezdete előtt](https://hvg.hu/sport/20240417_100-nap-parizsi-olimpia-megnyito-kvota) (Hvg.hu)
 
@@ -58,6 +62,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (rabies)
 
+- [Bayesian modeling of post-vaccination serological data suggests that yearly vaccination of dog aged](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012089) (Plos.org)
+
 - [4th phase to microchip dogs starts in Panaji, data to breed well-being](https://timesofindia.indiatimes.com/city/goa/4th-phase-to-microchip-dogs-starts-in-panaji-data-to-breed-well-being/articleshow/109382133.cms) (The Times of India)
 
 - [Monosynaptic Rabies Tracing Reveals Sex- and Age-Dependent Dorsal Subiculum Connectivity Alterations in an Alzheimer's Disease Mouse Model](https://www.jneurosci.org/content/44/16/e1796232024) (Jneurosci.org)
@@ -76,6 +82,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (mpox)
 
+- [New report criticizes federal government’s mpox response](https://www.advocate.com/health/mpox-response-failure-ritchie-torres) (Advocate.com)
+
+- [Mpox cases on the rise again, OPH warns](https://www.cbc.ca/news/canada/ottawa/mpox-cases-on-the-rise-again-oph-warns-1.7177270) (CBC News)
+
+- [Hallan cambios genómicos recurrentes en el genoma del virus Mpox que podrían explicar su transmisibilidad](https://www.infosalus.com/salud-investigacion/noticia-hallan-cambios-genomicos-recurrentes-genoma-virus-mpox-podrian-explicar-transmisibilidad-20240418124506.html) (Infosalus.com)
+
 - [В ДР Конго обнаружили опасный штамм инфекционного заболевания mpox](https://tass.ru/obschestvo/20576099) (Tass.ru)
 
 - [Variante com “potencial pandêmico” da mpox é encontrada no Congo](https://www.metropoles.com/saude/variante-pandemico-da-mpox) (Metropoles.com)
@@ -93,6 +105,44 @@ Source: [News API](https://newsapi.org/)
 - [Epidémie de mpox : la RDC va homologuer en urgence deux vaccins et un traitement](https://www.lemonde.fr/afrique/article/2024/04/15/epidemie-de-mpox-la-rdc-va-homologuer-en-urgence-deux-vaccins-et-un-traitement_6227992_3212.html) (Le Monde)
 
 ## 24-16 (meningitis)
+
+- [A lab chief's sentencing for meningitis deaths is postponed, extending grief of victims' families](https://abcnews.go.com/Health/wireStory/lab-chiefs-sentencing-meningitis-deaths-postponed-extending-grief-109391308) (ABC News)
+
+- [A lab chief's sentencing for meningitis deaths is postponed, extending grief of victims' families](https://abcnews.go.com/US/wireStory/lab-chiefs-sentencing-meningitis-deaths-postponed-extending-grief-109391307) (ABC News)
+
+- [A lab chief's sentencing for meningitis deaths is postponed, extending grief of victims' families](https://www.startribune.com/a-lab-chiefs-sentencing-for-meningitis-deaths-is-postponed-extending-grief-of-victims-families/600359863/) (Minneapolis Star Tribune)
+
+- [Parents of girl who developed meningitis settle case with €2.6m interim payment](https://www.irishtimes.com/crime-law/courts/2024/04/18/parents-of-girl-who-developed-meningitis-settle-case-with-26m-interim-payment/) (The Irish Times)
+
+- [Parents of baby who developed meningitis in weeks after birth settle High Court action for €2.6m](https://www.independent.ie/irish-news/courts/parents-of-baby-who-developed-meningitis-in-weeks-after-birth-settle-high-court-action-for-26m/a388321779.html) (Independent.ie)
+
+- [Muere a los 17 años por una meningitis grave: ¿cuáles son los síntomas, cómo se diagnostica y qué tratamiento se debe seguir?](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2024/04/18/meningitis-grave-sintomas-diagnostico-tratamiento-actuar-tiempo/00031713449021531672772.htm) (Lavozdegalicia.es)
+
+- [Muere la gimnasta María Herranz a los 17 años por una meningitis](https://www.publico.es/deportes/muere-gimnasta-maria-herranz-17-anos-meningitis.html) (Publico.es)
+
+- [Muere la gimnasta María Herranz Gómez a los 17 años a causa de una meningitis](https://www.hola.com/actualidad/20240418252690/muere-a-los-17-gimnasta-maria-herranz-meningitis/) (Hola)
+
+- [Muere la gimnasta de Cabanillas del Campo María Herranz a los 17 años por una meningitis](https://www.europapress.es/castilla-lamancha/noticia-muere-gimnasta-cabanillas-campo-maria-herranz-17-anos-meningitis-20240418133427.html) (Europapress.es)
+
+- [Muere la gimnasta María Herranz a los 17 años por una meningitis](https://www.europapress.es/deportes/noticia-muere-gimnasta-maria-herranz-17-anos-meningitis-20240418132836.html) (Europapress.es)
+
+- [Muere la gimnasta María Herranz a los 17 años por una meningitis](https://www.mundodeportivo.com/atletismo/20240418/1002230249/muere-gimnasta-maria-herranz-17-anos-meningitis.html) (Mundodeportivo.com)
+
+- [Muere a los 17 años la gimnasta María Herranz Gómez a causa una meningitis](https://www.eleconomista.es/actualidad/noticias/12774670/04/24/muere-a-los-17-anos-la-gimnasta-maria-herranz-gomez-a-causa-una-meningitis.html) (Eleconomista.es)
+
+- [Fallece la deportista de Cabanillas del Campo María Herranz Gómez](https://www.meneame.net/m/actualidad/fallece-deportista-cabanillas-campo-maria-herranz-gomez) (Meneame.net)
+
+- [Muere la gimnasta María Herranz a los 17 años por una meningitis](https://www.elperiodico.com/es/deportes/20240418/muere-joven-gimnasta-maria-herranz-meningitis-dv-101230208) (Elperiodico.com)
+
+- [Muere a los 17 años la gimnasta María Herranz por una meningitis](https://www.elmundo.es/deportes/mas-deporte/2024/04/18/6620f05ce4d4d800638b456d.html) (El Mundo)
+
+- [Muere María Herranz, gimnasta de trampolín, a los 17 años](https://www.elconfidencial.com/deportes/2024-04-18/muere-maria-herranz-gimnasta-trampolin-17-anos_3868983/) (Elconfidencial.com)
+
+- [Fallece una gimnasta de 17 años por meningitis grave](https://www.lavozdegalicia.es/noticia/deportes/2024/04/18/fallece-gimnasta-17-anos-meningitis-grave/00031713431910002790683.htm) (Lavozdegalicia.es)
+
+- [Muere la gimnasta María Herranz a los 17 años por una meningitis fulminante](https://www.marca.com/otros-deportes/2024/04/18/muere-gimnasta-maria-herranz-17-anos-meningitis.html) (Marca)
+
+- [Muere la gimnasta María Herranz a los 17 años por una meningitis](https://www.abc.es/espana/castilla-la-mancha/muere-gimnasta-maria-herranz-anos-meningitis-20240418101934-nt.html) (Www.abc.es)
 
 - [Former Wrentham man faces sentencing in Michigan 12 years after fatal US meningitis outbreak](https://www.thesunchronicle.com/news/local_news/former-wrentham-man-faces-sentencing-in-michigan-12-years-after-fatal-us-meningitis-outbreak/article_4c0322cd-1b8f-56e2-829b-08c65bee95ff.html) (The Sun Chronicle)
 
@@ -121,6 +171,12 @@ Source: [News API](https://newsapi.org/)
 - [Paramedics On Scene S05E01 1080p WEBRip x264-W45Ps](https://rlsbb.ru/paramedics-on-scene-s05e01-1080p-webrip-x264-w45ps/) (Rlsbb.ru)
 
 ## 24-16 (measles)
+
+- [Kids don't need to get sick to be healthy](https://yourlocalepidemiologist.substack.com/p/kids-dont-need-to-get-sick-to-be) (Substack.com)
+
+- [Three more measles cases confirmed - bringing total number this year to 16](https://www.thejournal.ie/measles-cases-ireland-april-6357983-Apr2024/) (TheJournal.ie)
+
+- [Quebec successfully pushes back against rise in measles cases](https://www.cbc.ca/news/canada/montreal/montreal-quebec-measles-wins-1.7176827) (CBC News)
 
 - [Dr Fauci in Dublin: I'm concerned false info online could lead to further rise in measles cases](https://www.thejournal.ie/dr-anthony-fauci-measles-6357542-Apr2024/) (TheJournal.ie)
 
@@ -231,6 +287,42 @@ Source: [News API](https://newsapi.org/)
 - [What is Leptospirosis: Human infections from rat urine on the rise in NYC](https://abc7ny.com/what-is-leptospirosis-human-infections-from-rat-urine-on-the-rise-in-nyc/14675638/) (WABC-TV)
 
 ## 24-16 (dengue)
+
+- [Dengue: 11 estados têm vacinas que vencerão em 30 de abril, diz Nísia](https://www.metropoles.com/brasil/dengue-11-estados-tem-vacinas-que-vencerao-em-30-de-abril-diz-nisia) (Metropoles.com)
+
+- [Vacina contra o zika vírus está em desenvolvimento](https://claudia.abril.com.br/saude/vacina-contra-zika-virus) (Abril.com.br)
+
+- [Dengue: Ministério da Saúde amplia faixa etária para vacinação](https://olhardigital.com.br/2024/04/18/medicina-e-saude/dengue-ministerio-da-saude-amplia-faixa-etaria-para-vacinacao/) (Olhardigital.com.br)
+
+- [Ministério da Saúde recomenda ampliar vacinação da dengue para público de 6 a 16 anos](https://dinheirama.com/ministerio-da-saude-recomenda-ampliar-vacinacao-da-dengue-para-publico-de-6-a-16-anos/) (Dinheirama.com)
+
+- [Dengue cases surge near 50% in the Americas amid 'emergency situation'](https://www.marketscreener.com/news/latest/Dengue-cases-surge-near-50-in-the-Americas-amid-emergency-situation-46471065/) (Marketscreener.com)
+
+- [Cidade de SP não vai ampliar faixa etária de vacinação contra dengue](https://www.metropoles.com/sao-paulo/cidade-de-sp-nao-vai-ampliar-faixa-etaria-de-vacinacao-contra-dengue) (Metropoles.com)
+
+- [Com doses prestes a vencer, Saúde amplia vacinação contra dengue](https://saude.ig.com.br/2024-04-18/com-doses-prestes-a-vencer--saude-amplia-vacinacao-contra-dengue.html) (Ig.com.br)
+
+- [Dengue cases in Americas pass 5.2 million in 'emergency situation'](https://www.marketscreener.com/news/latest/Dengue-cases-in-Americas-pass-5-2-million-in-emergency-situation-46471065/) (Marketscreener.com)
+
+- [DF, GO e BA ampliam público para a vacina da dengue; veja as idades](https://www.metropoles.com/brasil/estados-ampliam-publico-para-a-vacina-da-dengue-veja-as-idades) (Metropoles.com)
+
+- [Manu, robô de inteligência artificial, tira dúvidas sobre dengue no DF](https://www.metropoles.com/distrito-federal/manu-robo-de-inteligencia-artificial-tira-duvidas-sobre-dengue-no-df) (Metropoles.com)
+
+- ['Meu medo era perder meus bebês' para a dengue, diz uma grávida no Peru](https://ultimosegundo.ig.com.br/afp/2024-04-18/meu-medo-era-perder-meus-bebes-para-a-dengue--diz-uma-gravida-no-peru.html) (Ig.com.br)
+
+- [Xepa da vacina | Saúde amplia faixa etária para vacinação da dengue](https://tecnologia.ig.com.br/parceiros/canaltech/2024-04-18/xepa-da-vacina---saude-amplia-faixa-etaria-para-vacinacao-da-dengue.html) (Ig.com.br)
+
+- [Design, development, and validation of multi-epitope proteins for serological diagnosis of Zika virus infections and discrimination from dengue virus seropositivity](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012100) (Plos.org)
+
+- [Dengue: quase todos os distritos da cidade de SP já enfrentam uma epidemia da doença](https://olhardigital.com.br/2024/04/18/medicina-e-saude/dengue-quase-todos-os-distritos-da-cidade-de-sp-ja-enfrentam-uma-epidemia-da-doenca/) (Olhardigital.com.br)
+
+- [Confirman dos casos de dengue en consultorio de San Antonio](https://www.cnnchile.com/pais/confirman-dos-casos-dengue-consultorio-san-antonio_20240418/) (Cnnchile.com)
+
+- [DF amplia vacinação contra a dengue para pessoas de 6 a 16 anos](https://www.metropoles.com/distrito-federal/vacina-dengue-df-6-a-16-anos) (Metropoles.com)
+
+- [Jornalista Edilma Neiva Ibiapina morre de dengue, aos 77 anos, no DF](https://www.metropoles.com/distrito-federal/jornalista-edilma-neiva-ibiapina-morre-de-dengue-aos-77-anos-no-df) (Metropoles.com)
+
+- [Dengue: com vacina perto de vencer, Saúde amplia faixa etária para 59](https://www.metropoles.com/brasil/dengue-com-vacina-perto-de-vencer-saude-amplia-faixa-etaria-para-59) (Metropoles.com)
 
 - [Le climat nous rend fous](https://www.courrierinternational.com/article/climatiques-le-climat-nous-rend-fous) (Courrier International)
 
@@ -349,6 +441,8 @@ Source: [News API](https://newsapi.org/)
 - [Pós-dengue: quais são as sequelas mais comuns da doença?](https://www.metropoles.com/saude/pos-dengue-sequelas-mais-comuns) (Metropoles.com)
 
 ## 24-16 (chikungunya)
+
+- [Campinas confirma terceiro caso de chikungunya em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/18/campinas-confirma-terceiro-caso-de-chikungunya-em-2024.ghtml) (Globo)
 
 - [Espírito Santo Pinhal confirma 4ª morte por dengue em 2024; região chega a 17 óbitos](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/17/espirito-santo-pinhal-confirma-4a-morte-por-dengue-em-2024-regiao-chega-a-17-obitos.ghtml) (Globo)
 
@@ -3678,10 +3772,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: água parada em obras e prédios abandonados preocupa moradores em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/04/dengue-agua-parada-em-obras-e-predios-abandonados-preocupa-moradores-em-campinas.ghtml) (Globo)
 
-- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
-
 ## 24-10 (yersinia)
 
 - [Socio-ecological risk factors associated with human flea infestations of rural household in plague-endemic areas of Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012036) (Plos.org)
@@ -3919,18 +4009,6 @@ Source: [News API](https://newsapi.org/)
 - [Vaccine skepticism on display in Florida](https://www.startribune.com/vaccine-skepticism-on-display-in-florida/600347932/) (Minneapolis Star Tribune)
 
 - [unknown title](https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties) (FOX 2 Detroit)
-
-- [The Week Unwrapped: Measles, karting and TikTok tunes](https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes) (The Week Magazine)
-
-- [Health officials confirm measles case in Washtenaw County, warn of exposure spot](https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html) (mlive.com)
-
-- [Washtenaw County confirms Michigan’s 3rd case of measles this year](https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/) (WDIV ClickOnDetroit)
-
-- [News Flash • Health Department Alerts Public to Local Measle](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669) (Washtenaw.org)
-
-- [Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)](https://www.memeorandum.com/240303/p7) (Memeorandum.com)
-
-- [Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more](https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more) (Fox News)
 
 ## 24-10 (malaria)
 
@@ -4327,24 +4405,6 @@ Source: [News API](https://newsapi.org/)
 - [Bebê morre de dengue e Covid após ser liberada por hospitais](https://brasil.perfil.com/brasil/bebe-morre-de-dengue-e-covid-apos-ser-liberada-por-hospitais.phtml) (Perfil.com)
 
 - [Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto](https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html) (Ig.com.br)
-
-- [Epidemia de dengue faz Natal decretar emergência em saúde](https://jornaldebrasilia.com.br/?p=2720607) (Jornaldebrasilia.com.br)
-
-- [Brasil elogia medidas adotadas pela Itália contra dengue](https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html) (Terra.com.br)
-
-- [Criança de 9 anos é encontrada morta dentro de casa na Grande BH](https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024) (R7.com)
-
-- [Week in pictures: From firefighter protests in Seoul to prayers in Gaza](https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza) (Al Jazeera English)
-
-- [Populações periféricas são mais vulneráveis à dengue](https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/) (Jornaldebrasilia.com.br)
-
-- [Febasgo, Ministério da Saúde e Opas lançam manual sobre dengue para gestantes](https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/) (Catracalivre.com.br)
-
-- [Mirtha Legrand le pidió al Gobierno que la vacuna del dengue sea gratuita](https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/) (La Nacion)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
 
 ## 24-10 (chikungunya)
 
