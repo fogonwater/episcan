@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-04-20 07:06
-- **Most recent article:** 2024-04-19 05:40:52
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-04-20 19:05
+- **Most recent article:** 2024-04-19 18:59:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 190 | 181 | 180 | 186 | 158 | 138 | 87 | 1120 |
-| measles | 84 | 112 | 87 | 44 | 36 | 43 | 32 | 438 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 24 | 116 |
-| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 37 | 101 |
-| zika | 16 | 16 | 12 | 21 | 11 | 10 | 8 | 94 |
+| dengue | 181 | 181 | 180 | 186 | 158 | 138 | 94 | 1118 |
+| measles | 78 | 112 | 87 | 44 | 36 | 43 | 36 | 436 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 25 | 117 |
+| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 44 | 108 |
+| zika | 14 | 16 | 12 | 21 | 11 | 10 | 8 | 92 |
 | chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 5 | 76 |
+| mpox | 5 | 8 | 4 | 6 | 12 | 3 | 13 | 51 |
 | rabies | 5 | 6 | 9 | 3 | 16 | 8 | 3 | 50 |
-| mpox | 5 | 8 | 4 | 6 | 12 | 3 | 11 | 49 |
 | pertussis | 4 | 5 | 3 | 6 | 7 | 9 | 5 | 39 |
 | sarampión | 3 | 3 | 12 | 3 | 5 | 13 | 0 | 39 |
 | yersinia | 1 | 3 | 3 | 1 | 3 | 0 | 2 | 13 |
@@ -82,6 +82,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (mpox)
 
+- [New study finds inadequate response to mpox outbreak](https://www.advocate.com/health/mpox-inadequate-response-uk-study) (Advocate.com)
+
+- [Ritchie Torres is working hard to make sure another mpox outbreak doesn’t ruin Hot Gay Summer 2024™](https://www.queerty.com/ritchie-torres-is-working-hard-to-make-sure-another-mpox-outbreak-doesnt-ruin-hot-gay-summer-2024-20240419) (Queerty.com)
+
 - [New report criticizes federal government’s mpox response](https://www.advocate.com/health/mpox-response-failure-ritchie-torres) (Advocate.com)
 
 - [Mpox cases on the rise again, OPH warns](https://www.cbc.ca/news/canada/ottawa/mpox-cases-on-the-rise-again-oph-warns-1.7177270) (CBC News)
@@ -105,6 +109,18 @@ Source: [News API](https://newsapi.org/)
 - [Epidémie de mpox : la RDC va homologuer en urgence deux vaccins et un traitement](https://www.lemonde.fr/afrique/article/2024/04/15/epidemie-de-mpox-la-rdc-va-homologuer-en-urgence-deux-vaccins-et-un-traitement_6227992_3212.html) (Le Monde)
 
 ## 24-16 (meningitis)
+
+- [Andalucía registra 25 casos de meningitis en lo que va de año y sólo es superada Madrid](https://www.abc.es/espana/andalucia/andalucia-registra-casos-meningitis-ano-solo-superada-20240419143234-nts.html) (Www.abc.es)
+
+- [Cantabria es la sexta comunidad con la tasa mas alta de meningitis, registrando tres casos en lo que va de año](https://eldiariocantabria.publico.es/articulo/sanidad/cantabria-es-sexta-comunidad-tasa-mas-alta-meningitis-registrando-casos-que-va-ano/20240419142626155239.html) (Publico.es)
+
+- [Asturias notifica siete casos de meningitis en lo que va de año, según datos del Ministerio de Sanidad](https://www.europapress.es/asturias/noticia-asturias-notifica-siete-casos-meningitis-va-ano-datos-ministerio-sanidad-20240419141026.html) (Europapress.es)
+
+- [Sanidad notifica 14 muertes por meningitis en lo que va de año, las mismas que el año pasado en la misma fecha](https://www.infosalus.com/salud-investigacion/noticia-sanidad-notifica-14-muertes-meningitis-va-ano-mismas-ano-pasado-misma-fecha-20240419134940.html) (Infosalus.com)
+
+- [Piden tranquilidad ante la afluencia a Urgencias en Guadalajara tras la muerte de María Herranz por meningitis](https://www.abc.es/espana/castilla-la-mancha/piden-tranquilidad-ante-afluencia-urgencias-tras-muerte-20240419130650-nt.html) (Www.abc.es)
+
+- [Qué es la meningitis: sus causas y sus síntomas](https://www.nationalgeographic.com.es/ciencia/que-es-meningitis-sus-causas-y-sus-sintomas_22088) (Nationalgeographic.com.es)
 
 - [¿Qué es la meningitis? Causas, riesgos, síntomas y tratamiento](https://cnnespanol.cnn.com/2024/04/19/que-es-la-meningitis-causas-riesgos-y-tratamiento-orix/) (CNN)
 
@@ -166,6 +182,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Lab chief faces sentencing in Michigan 12 years after fatal US meningitis outbreak](https://www.clickondetroit.com/health/2024/04/17/lab-chief-faces-sentencing-in-michigan-12-years-after-fatal-us-meningitis-outbreak/) (WDIV ClickOnDetroit)
 
+- [Bacteria behind meningitis in babies explained](https://www.sciencedaily.com/releases/2024/04/240416115947.htm) (Science Daily)
+
 - [Nigeria rolls out world's first full shot against meningitis](https://www.dw.com/en/nigeria-rolls-out-worlds-first-full-shot-against-meningitis/a-68828606) (DW (English))
 
 - [Nigeria rolls out world's first shot against all five strains of meningitis](https://www.dw.com/en/nigeria-rolls-out-worlds-first-shot-against-all-five-strains-of-meningitis/a-68828606) (DW (English))
@@ -181,6 +199,14 @@ Source: [News API](https://newsapi.org/)
 - [Paramedics On Scene S05E01 1080p WEBRip x264-W45Ps](https://rlsbb.ru/paramedics-on-scene-s05e01-1080p-webrip-x264-w45ps/) (Rlsbb.ru)
 
 ## 24-16 (measles)
+
+- [U.S. measles cases reach 125 this year, topping 2022's large outbreaks](https://www.cbsnews.com/news/measles-cases-reach-125-2024-topping-2022-outbreaks/) (CBS News)
+
+- [What you should know about rising measles cases](https://www.futurity.org/measles-surge-3209502/) (Futurity: Research News)
+
+- [Local doctor warns of measles outbreak across the US](https://www.ksat.com/news/local/2024/04/19/local-doctor-warns-of-measles-outbreak-across-the-us/) (KSAT San Antonio)
+
+- [Whooping cough on the rise amid HSE concern over child vaccine uptake](https://www.independent.ie/irish-news/whooping-cough-on-the-rise-amid-hse-concern-over-child-vaccine-uptake/a833261145.html) (Independent.ie)
 
 - [Cook County Public Health warns of possible measles exposure at Sam's Club in Evergreen Park](https://wgntv.com/news/medical-watch/cook-county-public-health-warns-of-possible-measles-exposure-at-sams-club-in-evergreen-park/) (WGN TV Chicago)
 
@@ -248,6 +274,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (malaria)
 
+- [Protocol for a magnetic resonance imaging study of participants in the fever RCT: Does fever control prevent brain injury in malaria?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294823) (Plos.org)
+
 - [Pastor Chris Oyakhilome's Anti-Vaccine Messages Threaten Africa's Health - BBC Finds](https://westafricaweekly.com/pastor-chris-oyakhilomes-anti-vaccine-messages-threaten-africas-health-bbc-finds/) (Westafricaweekly.com)
 
 - [EBC Financial Group Bermitra dengan United to Beat Malaria, Sebuah Kampanye Yayasan PBB, untuk Melindungi Anak dan Keluarga Mereka yang Rentan dari Malaria](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/id/EBC-Financial-Group-Bermitra-dengan-United-to-Beat-Malaria-Sebuah-Kampanye-Yayasan-PBB-untuk-Melindungi-Anak-dan-Keluarga-Mereka-yang-Rentan-dari-Malaria.html) (GlobeNewswire)
@@ -303,6 +331,20 @@ Source: [News API](https://newsapi.org/)
 - [What is Leptospirosis: Human infections from rat urine on the rise in NYC](https://abc7ny.com/what-is-leptospirosis-human-infections-from-rat-urine-on-the-rise-in-nyc/14675638/) (WABC-TV)
 
 ## 24-16 (dengue)
+
+- [Milano, il Comune riduce il taglio dell’erba nelle aree verdi: «Mantiene la biodiversità»](https://milano.corriere.it/notizie/cronaca/24_aprile_19/burioni-e-il-taglio-ridotto-dell-erba-a-milano-prima-attacca-il-comune-poi-ci-ripensa-polemica-la-destra-si-vuole-risparmiare-74ae25f0-ab07-4ac1-8b8a-36dbcdcc5xlk.shtml) (Corriere.it)
+
+- [Il Perù alle prese con la dengue, infezioni record in Brasile e in Argentina](https://www.internazionale.it/ultime-notizie/2024/04/19/salute-dengue-america-latina) (Internazionale.it)
+
+- [Dengue no Rio Grande do Sul: número recorde de mortes em 2024](https://www.terra.com.br/noticias/dengue-no-rio-grande-do-sul-numero-recorde-de-mortes-em-2024,8aa9578128c940ecea4a1f8197cc050a605gu5vn.html) (Terra.com.br)
+
+- [Infectólogo alerta que, tras el dengue, llega “la temporada de infecciones respiratorias”](https://www.montevideo.com.uy/Salud/Infectologo-alerta-que-tras-el-dengue-llega-la-temporada-de-infecciones-respiratorias--uc885943) (Montevideo.com.uy)
+
+- [Com superlotação de 175%, HRC não atende crianças doentes. Veja vídeo](https://www.metropoles.com/distrito-federal/com-superlotacao-de-175-hrc-nao-atende-criancas-doentes-veja-video) (Metropoles.com)
+
+- [Dengue cases drop to 1,698 in ME15, one death reported](https://www.thestar.com.my/news/nation/2024/04/19/dengue-cases-drop-to-1698-in-me15-one-death-reported) (The Star Online)
+
+- [PAHO: vészhelyzet alakult ki a szúnyogok által terjesztett gyilkos vírus miatt](https://www.portfolio.hu/gazdasag/20240419/paho-veszhelyzet-alakult-ki-a-szunyogok-altal-terjesztett-gyilkos-virus-miatt-681555) (Portfolio.hu)
 
 - [Global clinical development on Dengue antiviral candidate will start, Hyundai Bioscience strives to win emergency use authorization](https://www.investing.com/news/press-releases/global-clinical-development-on-dengue-antiviral-candidate-will-start-hyundai-bioscience-strives-to-win-emergency-use-authorization-93CH-3386038) (Investing.com)
 
@@ -3810,10 +3852,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: água parada em obras e prédios abandonados preocupa moradores em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/04/dengue-agua-parada-em-obras-e-predios-abandonados-preocupa-moradores-em-campinas.ghtml) (Globo)
 
-- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
-
 ## 24-10 (yersinia)
 
 - [Socio-ecological risk factors associated with human flea infestations of rural household in plague-endemic areas of Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012036) (Plos.org)
@@ -4051,18 +4089,6 @@ Source: [News API](https://newsapi.org/)
 - [Vaccine skepticism on display in Florida](https://www.startribune.com/vaccine-skepticism-on-display-in-florida/600347932/) (Minneapolis Star Tribune)
 
 - [unknown title](https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties) (FOX 2 Detroit)
-
-- [The Week Unwrapped: Measles, karting and TikTok tunes](https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes) (The Week Magazine)
-
-- [Health officials confirm measles case in Washtenaw County, warn of exposure spot](https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html) (mlive.com)
-
-- [Washtenaw County confirms Michigan’s 3rd case of measles this year](https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/) (WDIV ClickOnDetroit)
-
-- [News Flash • Health Department Alerts Public to Local Measle](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669) (Washtenaw.org)
-
-- [Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)](https://www.memeorandum.com/240303/p7) (Memeorandum.com)
-
-- [Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more](https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more) (Fox News)
 
 ## 24-10 (malaria)
 
@@ -4459,24 +4485,6 @@ Source: [News API](https://newsapi.org/)
 - [Bebê morre de dengue e Covid após ser liberada por hospitais](https://brasil.perfil.com/brasil/bebe-morre-de-dengue-e-covid-apos-ser-liberada-por-hospitais.phtml) (Perfil.com)
 
 - [Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto](https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html) (Ig.com.br)
-
-- [Epidemia de dengue faz Natal decretar emergência em saúde](https://jornaldebrasilia.com.br/?p=2720607) (Jornaldebrasilia.com.br)
-
-- [Brasil elogia medidas adotadas pela Itália contra dengue](https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html) (Terra.com.br)
-
-- [Criança de 9 anos é encontrada morta dentro de casa na Grande BH](https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024) (R7.com)
-
-- [Week in pictures: From firefighter protests in Seoul to prayers in Gaza](https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza) (Al Jazeera English)
-
-- [Populações periféricas são mais vulneráveis à dengue](https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/) (Jornaldebrasilia.com.br)
-
-- [Febasgo, Ministério da Saúde e Opas lançam manual sobre dengue para gestantes](https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/) (Catracalivre.com.br)
-
-- [Mirtha Legrand le pidió al Gobierno que la vacuna del dengue sea gratuita](https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/) (La Nacion)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
-
-- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
 
 ## 24-10 (chikungunya)
 

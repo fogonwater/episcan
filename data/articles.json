@@ -1,8 +1,368 @@
 {
-  "last_updated": "2024-04-20 07:06",
-  "count_articles_total": 2020,
-  "count_articles_new": 19,
+  "last_updated": "2024-04-20 19:05",
+  "count_articles_total": 2026,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 8391,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "U.S. measles cases reach 125 this year, topping 2022's large outbreaks",
+      "description": "The CDC estimates the U.S. could reach 300 measles cases in 2024 \u2014 more than the recent peak two years ago.",
+      "url": "https://www.cbsnews.com/news/measles-cases-reach-125-2024-topping-2022-outbreaks/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/31/f1ca414a-bcbb-4baf-8bc5-7385bebd1aab/thumbnail/1200x630g4/f1368b81c99c41e416f2206c864d3afd/ap17023711999843.jpg?v=55c0f85ebcd2b956528d9c6f5a7e8871",
+      "publishedAt": "2024-04-19 18:59:00",
+      "content": "At least 125 measles cases have been reported across 17 states so far this year, the Centers for Disease Control and Prevention said Friday, up from 121 cases last week. More cases have now been rep\u2026 [+2354 chars]",
+      "retrievedAt": "2024-04-20 19:05:32.781882",
+      "internal_id": "fea31effada087bec70cc629826ae9565be0df805c79a44453200cd524f4f7d1",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8393,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Tufts University",
+      "title": "What you should know about rising measles cases",
+      "description": "Cases of measles, a highly contagious and deadly disease, are surging in parts of the US. Experts fill you in on what you need to know.",
+      "url": "https://www.futurity.org/measles-surge-3209502/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/04/measles-surge-1600.jpg",
+      "publishedAt": "2024-04-19 18:40:36",
+      "content": "Cases of measles, a highly contagious and deadly disease, are surging in parts of the US, worrying doctors and public health experts. This year, so far, the Centers for Disease Control and Preventio\u2026 [+6106 chars]",
+      "retrievedAt": "2024-04-20 19:05:32.822995",
+      "internal_id": "581eb30b439d57eb33276d5e607a9f1bbcc851036409d08351e848a9b5d82b79",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8411,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Advocate.com",
+      "author": "Donald Padgett",
+      "title": "New study finds inadequate response to mpox outbreak",
+      "description": "A new study of gay, bisexual, and other men who have sex with men (GBMSM) in the United Kingdom who were diagnosed with mpox (the disease formerly known as monkeypox) found they often encountered difficulties accessing medical testing and treatment. The parti\u2026",
+      "url": "https://www.advocate.com/health/mpox-inadequate-response-uk-study",
+      "urlToImage": "https://www.advocate.com/media-library/gay-man-receiving-mpox-vaccine.jpg?id=52049551&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+      "publishedAt": "2024-04-19 18:06:18",
+      "content": "A new study of gay, bisexual, and other men who have sex with men (GBMSM) in the United Kingdom who were diagnosed with mpox (the disease formerly known as monkeypox) found they often encountered dif\u2026 [+2736 chars]",
+      "retrievedAt": "2024-04-20 19:05:36.429811",
+      "internal_id": "0d7d0c2604e34c38dfe9f7e5e1961e5c054bc41afe971360ee322cf68c3c68e4",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8395,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Chiara Evangelista",
+      "title": "Milano, il Comune riduce il taglio dell\u2019erba nelle aree verdi: \u00abMantiene la biodiversit\u00e0\u00bb",
+      "description": "In 54 aree pubbliche proposto lo \u00absfalcio ridotto\u00bb: tagli meno frequenti. La critica di Burioni: \u00abPi\u00f9 zanzare, pericolo dengue\u00bb. Ma cambia idea dopo l'intervento in rete di un entomologo: \u00abSpecie antagoniste\u00bbIn 54 aree pubbliche proposto lo \u00absfalcio ridotto\u00bb:\u2026",
+      "url": "https://milano.corriere.it/notizie/cronaca/24_aprile_19/burioni-e-il-taglio-ridotto-dell-erba-a-milano-prima-attacca-il-comune-poi-ci-ripensa-polemica-la-destra-si-vuole-risparmiare-74ae25f0-ab07-4ac1-8b8a-36dbcdcc5xlk.shtml",
+      "urlToImage": "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2024/04/19/662295de486d2.jpeg",
+      "publishedAt": "2024-04-19 17:03:21",
+      "content": "In 54 aree pubbliche proposto lo \u00absfalcio ridotto\u00bb: tagli meno frequenti. Il virologo: \u00abPi\u00f9 zanzare, pericolo dengue\u00bb. Ma cambia idea dopo l'intervento in rete di un entomologo: \u00abSpecie antagoniste\u00bb \u2026 [+1544 chars]",
+      "retrievedAt": "2024-04-20 19:05:33.596883",
+      "internal_id": "fe4e573edec0173e004c9f16d796686c15041e0d5cbb9776701e50665681e6c7",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8410,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Queerty.com",
+      "author": "Alex Reimer",
+      "title": "Ritchie Torres is working hard to make sure another mpox outbreak doesn\u2019t ruin Hot Gay Summer 2024\u2122",
+      "description": "Ritchie Torres filed legislation this week aimed at improving the HHS' response to mpox and other health emergencies.",
+      "url": "https://www.queerty.com/ritchie-torres-is-working-hard-to-make-sure-another-mpox-outbreak-doesnt-ruin-hot-gay-summer-2024-20240419",
+      "urlToImage": "https://adabgmwwup.cloudimg.io/v7/_queerty-prodweb_/2024/04/torres-scaled.jpg?auto=format&auto=compress&fit=crop&gravity=smart&w=1200&h=630&force_format=jpeg&wat=1&wat_gravity=southeast&wat_pad=70",
+      "publishedAt": "2024-04-19 17:00:00",
+      "content": "With mpox infections once again on the rise among gay men, one out member of Congress is calling for big changes to the Department of Health and Human Services. Rep. Ritchie Torres, who represents t\u2026 [+4872 chars]",
+      "retrievedAt": "2024-04-20 19:05:36.425167",
+      "internal_id": "d16d5000b1d38175da661736b5c9864d32427e89d3209c58726a6f45bf63d345",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8396,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "Il Per\u00f9 alle prese con la dengue, infezioni record in Brasile e in Argentina",
+      "description": "In meno di tre mesi le autorit\u00e0 sanitarie degli stati dell\u2019America Latina e dei Caraibi hanno registrato pi\u00f9 di 3,5 milioni di contagi e un migliaio di decessi. Leggi",
+      "url": "https://www.internazionale.it/ultime-notizie/2024/04/19/salute-dengue-america-latina",
+      "urlToImage": "https://media.internazionale.it/images/2024/04/19/221795-sd.jpeg",
+      "publishedAt": "2024-04-19 15:01:46",
+      "content": "Uninfermiera si occupa di un paziente allospedale Sergio Bernales a Lima, in Per\u00f9, il 17 aprile 2024. (Juan Carlos Cisneros, Afp) Avevo paura di perdere i miei bambini, racconta Joselyn Caqui, che \u2026 [+2607 chars]",
+      "retrievedAt": "2024-04-20 19:05:33.610167",
+      "internal_id": "7e9d03a34b9b6d572ecf5a1a8e6a58c8b0864e18e6408d9216da392408a1a006",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8409,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Moses B. Chilombe, Karl B. Seydel, Colleen A. Hammond, Suzanna Mwanza, Archana A. Patel, Frank Lungu, Somwe wa Somwe, Sam Kampondeni, Michael J. Potchen, Michael P. McDermott, Gretchen L. Birbeck",
+      "title": "Protocol for a magnetic resonance imaging study of participants in the fever RCT: Does fever control prevent brain injury in malaria?",
+      "description": "Background Despite eradication efforts, ~135,000 African children sustained brain injuries as a result of central nervous system (CNS) malaria in 2021. Newer antimalarial medications rapidly clear peripheral parasitemia and improve survival, but mortality rem\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294823",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0294823.t001&size=inline",
+      "publishedAt": "2024-04-19 14:00:00",
+      "content": "Citation: Chilombe MB, Seydel KB, Hammond CA, Mwanza S, Patel AA, Lungu F, et al. (2024) Protocol for a magnetic resonance imaging study of participants in the fever RCT: Does fever control prevent b\u2026 [+29338 chars]",
+      "retrievedAt": "2024-04-20 19:05:35.129314",
+      "internal_id": "e568b08bb6ee6a4e46170c751c029543c8e0f1ba47b4f26c93617597aaf51eb4",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8394,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KSAT San Antonio",
+      "author": "Patty Santos",
+      "title": "Local doctor warns of measles outbreak across the US",
+      "description": "San Antonio-area doctors are warning families to be alert as the Center for Disease Control tracks a spike in measles cases.",
+      "url": "https://www.ksat.com/news/local/2024/04/19/local-doctor-warns-of-measles-outbreak-across-the-us/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/P5mK9o4B8Jejnw9qUD4c/1713533342634_1920x1080_thumbnail.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-04-19 13:45:50",
+      "content": "SAN ANTONIO The Centers for Disease Control and Prevention has reported a measles outbreak in several states. Texas is not yet one of them. The CDC said 121 measles cases have been confirmed in the\u2026 [+1517 chars]",
+      "retrievedAt": "2024-04-20 19:05:32.854853",
+      "internal_id": "7e276f50b8efdc6d9ba3db4cf16261eb19bf1f9176f442679c0cd800e5984306",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8399,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Dengue no Rio Grande do Sul: n\u00famero recorde de mortes em 2024",
+      "description": "O Rio Grande do Sul enfrenta uma situa\u00e7\u00e3o alarmante com rela\u00e7\u00e3o \u00e0 dengue neste ano de 2024, com ...",
+      "url": "https://www.terra.com.br/noticias/dengue-no-rio-grande-do-sul-numero-recorde-de-mortes-em-2024,8aa9578128c940ecea4a1f8197cc050a605gu5vn.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/19/1767457539-macro-mosquito-aedes-aegypti-sucking-blood-close-up-human-skin.jpg",
+      "publishedAt": "2024-04-19 12:58:01",
+      "content": "O Rio Grande do Sul enfrenta uma situa\u00e7\u00e3o alarmante com rela\u00e7\u00e3o \u00e0 dengue neste ano de 2024, com um registro recorde de mortes relacionadas \u00e0 doen\u00e7a. Segundo dados da Secretaria Estadual da Sa\u00fade (SES\u2026 [+2084 chars]",
+      "retrievedAt": "2024-04-20 19:05:33.736740",
+      "internal_id": "fe3bbcf6865fa628cd0768a94bf3ab8ed6ef7717950a32476fa181f76e3f7504",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8405,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Andaluc\u00eda registra 25 casos de meningitis en lo que va de a\u00f1o y s\u00f3lo es superada Madrid",
+      "description": "Andaluc\u00eda, con 25 casos de meningitis en lo que va de a\u00f1o se sit\u00faa como la segunda comunidad aut\u00f3noma con m\u00e1s incidencia, s\u00f3lo superada por Madrid. As\u00ed se desprende del informe de la Red Nacional de Vigilancia Epidemiol\u00f3gica (Renave) del Instituto de Salud Ca\u2026",
+      "url": "https://www.abc.es/espana/andalucia/andalucia-registra-casos-meningitis-ano-solo-superada-20240419143234-nts.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2024/04/19/vacuna-infantil-U50861418010QZl-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-04-19 12:32:34",
+      "content": "Andaluc\u00eda, con 25 casos de meningitis en lo que va de a\u00f1o se sit\u00faa como la segunda comunidad aut\u00f3noma con m\u00e1s incidencia, s\u00f3lo superada por Madrid. As\u00ed se desprende del informe de la Red Nacional de \u2026 [+4873 chars]",
+      "retrievedAt": "2024-04-20 19:05:34.314421",
+      "internal_id": "4d5b0b5025958d6a7e9f4be14214fceb1040146b85bf52339709ac225f3ed5aa",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8398,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Infect\u00f3logo alerta que, tras el dengue, llega \u201cla temporada de infecciones respiratorias\u201d",
+      "description": "Julio Medina, catedr\u00e1tico de la Udelar, hizo cinco recomendaciones ante el arribo de virus como la influenza, el covid-19 o el rinovirus.",
+      "url": "https://www.montevideo.com.uy/Salud/Infectologo-alerta-que-tras-el-dengue-llega-la-temporada-de-infecciones-respiratorias--uc885943",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202008/_W933_80/737230.jpg",
+      "publishedAt": "2024-04-19 12:28:00",
+      "content": "Julio Medina, infect\u00f3logo y director de la C\u00e1tedra de Enfermedades Infecciosas de la Universidad de la Rep\u00fablica (Udelar), alert\u00f3 que, tras la problem\u00e1tica del dengue se comienza a dar paso a la temp\u2026 [+1910 chars]",
+      "retrievedAt": "2024-04-20 19:05:33.707951",
+      "internal_id": "83d26f55199f149fbb0cf1b307cc396193206de1d0a855cd83b7df687d8c76a2",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8404,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Publico.es",
+      "author": "eldiariocantabria.es",
+      "title": "Cantabria es la sexta comunidad con la tasa mas alta de meningitis, registrando tres casos en lo que va de a\u00f1o",
+      "description": "&nbsp;",
+      "url": "https://eldiariocantabria.publico.es/articulo/sanidad/cantabria-es-sexta-comunidad-tasa-mas-alta-meningitis-registrando-casos-que-va-ano/20240419142626155239.html",
+      "urlToImage": "https://eldiariocantabria.publico.es/media/eldiariocantabria/images/2015/11/25/2015112519310129646.jpg",
+      "publishedAt": "2024-04-19 12:26:26",
+      "content": "Cantabria ha registrado tres casos de meningitis en lo que va de a\u00f1o --hasta la primera semana de abril--, aunque no se ha notificado ninguna defunci\u00f3n, seg\u00fan datos del Instituto de Salud Carlos III,\u2026 [+5024 chars]",
+      "retrievedAt": "2024-04-20 19:05:34.267833",
+      "internal_id": "3281c301cd7ff4ba216a5c5683d7bd10e975474fce06110c2d1acae03d211a22",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8406,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Asturias notifica siete casos de meningitis en lo que va de a\u00f1o, seg\u00fan datos del Ministerio de Sanidad",
+      "description": "El Principado de Asturias ha notificado siete casos de meningitis en lo que va de a\u00f1o, seg\u00fan datos del Instituto de Salud Carlos III, adscrito al Ministerio de Sanidad.",
+      "url": "https://www.europapress.es/asturias/noticia-asturias-notifica-siete-casos-meningitis-va-ano-datos-ministerio-sanidad-20240419141026.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240419141026_1200.jpg",
+      "publishedAt": "2024-04-19 12:10:26",
+      "content": "MADRID/OVIEDO, 19 Abr. (EUROPA PRESS) - El Principado de Asturias ha notificado siete casos de meningitis en lo que va de a\u00f1o, seg\u00fan datos del Instituto de Salud Carlos III, adscrito al Ministerio\u2026 [+4818 chars]",
+      "retrievedAt": "2024-04-20 19:05:34.327872",
+      "internal_id": "7c656f7be73d3f5fa829f586c282f710f5147286426475fa37f35f09177bfb54",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8392,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Whooping cough on the rise amid HSE concern over child vaccine uptake",
+      "description": "Whooping cough is on the increase with 48 cases confirmed here so far this year compared to five in 2021 and eighteen in 2023.",
+      "url": "https://www.independent.ie/irish-news/whooping-cough-on-the-rise-amid-hse-concern-over-child-vaccine-uptake/a833261145.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/wrghX3kimJ7hES9VWWBjM0gIhk0=/629x460/smart/prod-mh-ireland/b36ee6a2-8a7f-4909-a390-9e269b40deac/696a50ff-b811-4e28-9a1f-c713b7d13933/b36ee6a2-8a7f-4909-a390-9e269b40deac.jpg",
+      "publishedAt": "2024-04-19 12:00:47",
+      "content": "Whooping cough is on the increase with 48 cases confirmed here so far this year compared to five in 2021 and eighteen in 2023.Cases of measles are also rising with sixteen infections reported to date\u2026 [+2573 chars]",
+      "retrievedAt": "2024-04-20 19:05:32.818769",
+      "internal_id": "7a65997f8cc95897964fe17621616d8b5a32e980b199592e213d6541ddcc0cd0",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8407,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Sanidad notifica 14 muertes por meningitis en lo que va de a\u00f1o, las mismas que el a\u00f1o pasado en la misma fecha",
+      "description": "El Instituto de Salud Carlos III, adscrito al Ministerio de Sanidad, ha notificado un total de 14 muertes por meningitis en lo que va de a\u00f1o --hasta la primera semana de abril--, la misma cifra que se alcanz\u00f3 en el mismo periodo del a\u00f1o pasado, seg\u00fan se recog\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-sanidad-notifica-14-muertes-meningitis-va-ano-mismas-ano-pasado-misma-fecha-20240419134940.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240419134940_1200.jpg",
+      "publishedAt": "2024-04-19 11:49:40",
+      "content": "MADRID, 19 Abr. (EUROPA PRESS) - El Instituto de Salud Carlos III, adscrito al Ministerio de Sanidad, ha notificado un total de 14 muertes por meningitis en lo que va de a\u00f1o --hasta la primera sem\u2026 [+4684 chars]",
+      "retrievedAt": "2024-04-20 19:05:34.339057",
+      "internal_id": "d63c33093bdf727a8e67c6c0eb91ff4ca395fa701953a0800f4669a208e94d5a",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Com superlota\u00e7\u00e3o de 175%, HRC n\u00e3o atende crian\u00e7as doentes. Veja v\u00eddeo",
+      "description": "Fam\u00edlias ficaram aflitas e revoltadas sem atendimento no hospital na quarta-feira (17/4). Apenas casos vermelhos eram atendidos pela unidade",
+      "url": "https://www.metropoles.com/distrito-federal/com-superlotacao-de-175-hrc-nao-atende-criancas-doentes-veja-video",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/04/18210113/com-175-superlotacao-hospital-deixa-de-receber-pacientes.jpeg",
+      "publishedAt": "2024-04-19 11:43:39",
+      "content": "Pressionado pela explos\u00e3o de casos de dengue, Covid, doen\u00e7as respirat\u00f3rios, bem como a falta de profissionais de sa\u00fade, o Hospital Regional de Ceil\u00e2ndia (HRC) est\u00e1 superlotado, operando a 175% da cap\u2026 [+2983 chars]",
+      "retrievedAt": "2024-04-20 19:05:33.746913",
+      "internal_id": "7be8484df8e7a5ad4c42a8a5b5adfd4f6e72bc28b845f5596f1709d5b01cbb89",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8403,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Piden tranquilidad ante la afluencia a Urgencias en Guadalajara tras la muerte de Mar\u00eda Herranz por meningitis",
+      "description": "La Direcci\u00f3n General de Salud P\u00fablica del Gobierno de Castilla-La Mancha ha realizado una llamada de tranquilidad ante la afluencia de personas a los centros de Urgencias de Atenci\u00f3n Primaria, especialmente el de Azuqueca de Henares y el SUAP de Los Manantial\u2026",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/piden-tranquilidad-ante-afluencia-urgencias-tras-muerte-20240419130650-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/04/19/urgencias-U64627842321xuj-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-04-19 11:06:51",
+      "content": "La Direcci\u00f3n General de Salud P\u00fablica del Gobierno de Castilla-La Mancha ha realizado una llamada de tranquilidad ante la afluencia de personas a los centros de Urgencias de Atenci\u00f3n Primaria, especi\u2026 [+1044 chars]",
+      "retrievedAt": "2024-04-20 19:05:34.249658",
+      "internal_id": "60326322b47600d9b5feaf27505f2d94087f4947d2cd2bdc008ebfd6bbfbe6b2",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases drop to 1,698 in ME15, one death reported",
+      "description": "PUTRAJAYA: The number of dengue fever cases decreased to 1,698 in the 15th Epidemiological Week (ME15), which covered the April 7 to 13 period, compared to 2,487 cases in the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/04/19/dengue-cases-drop-to-1698-in-me15-one-death-reported",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/04/19/2651987.jpg",
+      "publishedAt": "2024-04-19 10:36:00",
+      "content": "PUTRAJAYA: The number of dengue fever cases decreased to 1,698 in the 15th Epidemiological Week (ME15), which covered the April 7 to 13 period, compared to 2,487 cases in the previous week. Health d\u2026 [+1331 chars]",
+      "retrievedAt": "2024-04-20 19:05:33.751170",
+      "internal_id": "a35e9aaa5e44c0d44ba6f1bb4b59cd43f9d7a151ca6235f69f1bd71f8d57433e",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8397,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "PAHO: v\u00e9szhelyzet alakult ki a sz\u00fanyogok \u00e1ltal terjesztett gyilkos v\u00edrus miatt",
+      "description": "V\u00e9szhelyzetet teremtett az amerikai kontinensen a dengue-l\u00e1zas megbeteged\u00e9sek sz\u00e1m\u00e1nak megugr\u00e1sa - k\u00f6z\u00f6lte cs\u00fct\u00f6rt\u00f6k\u00f6n Jarbas Barbosa, a P\u00e1namerikai Eg\u00e9szs\u00e9g\u00fcgyi Szervezet (PAHO) igazgat\u00f3ja.",
+      "url": "https://www.portfolio.hu/gazdasag/20240419/paho-veszhelyzet-alakult-ki-a-szunyogok-altal-terjesztett-gyilkos-virus-miatt-681555",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/s/z/u/szunyog-tigrisszunyog-389714.jpg",
+      "publishedAt": "2024-04-19 09:06:00",
+      "content": "A PAHO adatai szerint id\u00e9n m\u00e1r t\u00f6bb mint 5,2 milli\u00f3 dengue-l\u00e1zas megbeteged\u00e9st regisztr\u00e1ltak a t\u00e9rs\u00e9gben. Ez a m\u00e1rciusi adatokhoz k\u00e9pest, amikor m\u00e9g 3,5 milli\u00f3 megbeteged\u00e9st jelentettek, t\u00f6bb mint 48\u2026 [+1332 chars]",
+      "retrievedAt": "2024-04-20 19:05:33.632379",
+      "internal_id": "f4588f0927bcffdd7cd679d449787fe9feb4da73e59a007a5487db0c43d7977a",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8408,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Sergio Parra, Sergio Parra",
+      "title": "Qu\u00e9 es la meningitis: sus causas y sus s\u00edntomas",
+      "description": "En la reciente p\u00e9rdida de una joven estudiante de 17 a\u00f1os en Cabanillas del Campo, Guadalajara, debido a una sepsis por meningococo, se visibiliza una vez m\u00e1s la cruda realidad de una enfermedad que, aunque rara, posee un potencial devastador. Este suceso ha \u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/que-es-meningitis-sus-causas-y-sus-sintomas_22088",
+      "urlToImage": "https://content.nationalgeographic.com.es/medio/2024/04/19/meningitis_b00c551a_240419104602_1200x630.jpg",
+      "publishedAt": "2024-04-19 08:48:00",
+      "content": "En la reciente p\u00e9rdida de una joven estudiante de 17 a\u00f1os en Cabanillas del Campo, Guadalajara, debido a una sepsis por meningococo, se visibiliza una vez m\u00e1s la cruda realidad de una enfermedad que,\u2026 [+3545 chars]",
+      "retrievedAt": "2024-04-20 19:05:34.346492",
+      "internal_id": "6557c14fb3216f4d9f187bc372a90566a1881dd08aa48ed04913b5e3747ace1d",
+      "publishedAtLabel": "Apr 19"
+    },
     {
       "id": 8385,
       "query": [
@@ -2492,6 +2852,24 @@
       "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
       "retrievedAt": "2024-04-17 19:05:10.949390",
       "internal_id": "ce7966d22a28cf77d42abfc34b3fd110d0fdeedb52bb46d08ea750feb80fed92",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 8402,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Bacteria behind meningitis in babies explained",
+      "description": "Researchers have identified the types of E.coli responsible for neonatal meningitis -- around 50 per cent of infections are caused by two types of E. coli. The study was the largest to date, examining genomes of E. coli bacteria across four continents. The re\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/04/240416115947.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-04-16 15:59:47",
+      "content": "A milestone study led by University of Queensland researchers has identified the main types of E. coli bacteria that cause neonatal meningitis, and revealed why some infections recur despite being tr\u2026 [+2951 chars]",
+      "retrievedAt": "2024-04-20 19:05:34.230476",
+      "internal_id": "604353c6fc2f68a5128b1b6e5742c21eb300b1a8c41974137399ba83f7be25d3",
       "publishedAtLabel": "Apr 16"
     },
     {
@@ -36217,278 +36595,6 @@
       "content": "Ap\u00f3s registrar 1.674 casos da Febre do Oropouche neste ano, o governo do Amazonas reconheceu o surto da doen\u00e7a no estado. A arbovirose tem sintomas semelhantes aos da dengue , como dor de cabe\u00e7a, m\u2026 [+1637 chars]",
       "retrievedAt": "2024-03-05 07:05:47.425451",
       "internal_id": "4f54511b881e88ed15874f3ade0a47ecf0fd73c369ac37e0f4e4b21dd65325dc",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6344,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Week Magazine",
-      "author": "theweekonlineeditors@futurenet.com (The Week Staff)",
-      "title": "The Week Unwrapped: Measles, karting and TikTok tunes",
-      "description": "What's behind the rising number of measles outbreaks? Will a new female karting competition change motorsport for the better? And why are some songs disappearing from TikTok?",
-      "url": "https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fAFBBzBL5d9DErhBr6efeN-1200-80.jpg",
-      "publishedAt": "2024-03-03 18:40:21",
-      "content": "Olly Mann and The Week delve behind the headlines and debate what really matters from the past seven days. A podcast for curious, open-minded people, it delivers fresh perspectives on politics, cultu\u2026 [+1070 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.697687",
-      "internal_id": "b2e30dc646c05ed1bdeca4a323b26da89e8ff9100a6a950027f2919f62b31bef",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6349,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "mlive.com",
-      "author": "Bradley Massman | Bmassman@mlive.com",
-      "title": "Health officials confirm measles case in Washtenaw County, warn of exposure spot",
-      "description": "Health officials said anyone potentially exposed should monitor themselves for symptoms for 21 days.",
-      "url": "https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html",
-      "urlToImage": "https://www.mlive.com/resizer/braWJjc9pBYgnHTB8HkXoSOdmqE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KVPYG456ZNDHVGMDJNAZQOS2HU.JPG",
-      "publishedAt": "2024-03-03 18:26:22",
-      "content": "WASHTENAW COUNTY, MI The health department has confirmed a case of measles in Washtenaw County and is warning of a potential exposure spot at one local emergency department. Washtenaw County health \u2026 [+1552 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.792195",
-      "internal_id": "a2aa9eaf06d3ab65b7ff363404cb262f39c5977205f839a27780f7536c55b84c",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6354,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Epidemia de dengue faz Natal decretar emerg\u00eancia em sa\u00fade",
-      "description": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados...",
-      "url": "https://jornaldebrasilia.com.br/?p=2720607",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03182222/IMG_0883.webp",
-      "publishedAt": "2024-03-03 18:23:05",
-      "content": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados tamb\u00e9m indicam uma tend\u00eancia de crescimento pela terceira semana\u2026 [+2894 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.876117",
-      "internal_id": "33a1b0813cf4ec41ba700bbe82a3b37961ab5a8c342a8dd1a553de4616efbc35",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6348,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WDIV ClickOnDetroit",
-      "author": "Kayla Clarke",
-      "title": "Washtenaw County confirms Michigan\u2019s 3rd case of measles this year",
-      "description": "The Washtenaw County Health Department is reporting Michigan\u2019s third case of measles this year.",
-      "url": "https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/353X74D4FRE3VM725VMXJ2EM24.jpg?_a=ATAPphC0",
-      "publishedAt": "2024-03-03 17:47:39",
-      "content": "YPSILANTI, Mich. The Washtenaw County Health Department is reporting Michigans third case of measles this year. Measles is a highly contagious and preventable disease that is caused by a virus. It c\u2026 [+4274 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.783392",
-      "internal_id": "66e75ab3377ee78236ab1e6f0c2a292010d46730996df438609019e7ba8a1142",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6355,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Ansa",
-      "title": "Brasil elogia medidas adotadas pela It\u00e1lia contra dengue",
-      "description": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do ...",
-      "url": "https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2024-03-03 17:03:51",
-      "content": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do Brasil, Ethel Maciel, afirmou que a It\u00e1lia \"fez bem\" em elevar o n\u00edvel de alerta nas fronteiras e em \"a\u2026 [+3272 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.943794",
-      "internal_id": "96d77d6528e48a135f8a7b7746cac9a520c9d287fe13fec2b91f6cee758c25f9",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6347,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Washtenaw.org",
-      "author": null,
-      "title": "News Flash \u2022 Health Department Alerts Public to Local Measle",
-      "description": "Washtenaw County Health Department is reporting a case of measles and alerting residents to possible exposure on Fri, March 1 at a local emergency department. MMR vaccination is recommended for anyone 1 year and older and anyone potentially exposed.",
-      "url": "https://www.washtenaw.org/CivicAlerts.aspx?AID=2669",
-      "urlToImage": "https://www.washtenaw.org/ImageRepository/Document?documentID=33982",
-      "publishedAt": "2024-03-03 16:58:30",
-      "content": "(Spanish translation now available. Arabic translation will be posted here as soon as possible.) Washtenaw County Health Department is reporting a case of measles and alerting the public to the poss\u2026 [+4449 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.778622",
-      "internal_id": "0115d742ce4f280db0fd16954879da4c565dcf72b89f2a5631d0f6e0c36033c9",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6458,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Crian\u00e7a de 9 anos \u00e9 encontrada morta dentro de casa na Grande BH",
-      "description": "Exames constataram aus\u00eancia de sinais de viol\u00eancia; acredita-se que a causa da morte foi por dengue hemorr\u00e1gica",
-      "url": "https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024",
-      "urlToImage": "https://img.r7.com/images/morre-suspeita-dengue-03032024155458912?dimensions=160x90",
-      "publishedAt": "2024-03-03 15:56:40",
-      "content": "Crian\u00e7a foi levada para um hospital em Esmeraldas (MG) Reprodu\u00e7\u00e3o / Google Street View Uma crian\u00e7a de 9 anos foi encontrada morta dentro de casa, em Ribeir\u00e3o das Neves, na regi\u00e3o metropolitan\u2026 [+1545 chars]",
-      "retrievedAt": "2024-03-06 07:05:49.632919",
-      "internal_id": "c7157848613bfc1b2dc52747534b0752c1b1356dc74494a3455f96eb3296758b",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6350,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "al-jazeera-english",
-      "source_name": "Al Jazeera English",
-      "author": "Al Jazeera",
-      "title": "Week in pictures: From firefighter protests in Seoul to prayers in Gaza",
-      "description": "A roundup of some of last week\u2019s events.",
-      "url": "https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AA-20240301-33853497-33853495-FRIDAY_PRAYERS_OF_PALESTINIANS_AMONG_DESTROYED_MOSQUE_RUBBLE_IN_GAZA_STRIP-1709468351.jpg?resize=1920%2C1440",
-      "publishedAt": "2024-03-03 15:31:34",
-      "content": "From a dengue epidemic in Peru to the funeral of the Russian opposition leader, here is the week in photos.",
-      "retrievedAt": "2024-03-04 19:05:22.751317",
-      "internal_id": "2e2fd80473629f422e9d001fc77aa53f31f474e04931c698c5653557aaea0eeb",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6353,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Popula\u00e7\u00f5es perif\u00e9ricas s\u00e3o mais vulner\u00e1veis \u00e0 dengue",
-      "description": "\"O meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho\u201d. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1...",
-      "url": "https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03152924/IMG_0852.webp",
-      "publishedAt": "2024-03-03 15:30:36",
-      "content": "\u201cO meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1 acostumada com o pequeno Vitor, de 3 anos de idade, pulando de um \u2026 [+9534 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.839937",
-      "internal_id": "79e6ac8676b06abf6fd68f62d083b86a48c2e1f67c3fb94b11290c7908e61783",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6345,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)",
-      "description": "Richard Luscombe / The Guardian: Florida is swamped by disease outbreaks as quackery replaces science \u2014 The state is in the grip of a measles outbreak, yet Joseph Ladapo, the surgeon general, continues to ignore medical science to stop it \u2014 Shortly before\u2026",
-      "url": "https://www.memeorandum.com/240303/p7",
-      "urlToImage": "https://i.guim.co.uk/img/media/160521aedeeb183f524009821e37428c9c19ea5c/0_43_3300_1980/master/3300.jpg?width=300&dpr=2&s=none",
-      "publishedAt": "2024-03-03 15:20:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.725738",
-      "internal_id": "6742296b3d2f02f0d75e721dc29d108237e7b7b149ef2f9ad59923894f6a99fd",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6346,
-      "query": [
-        "measles"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Melissa Rudy",
-      "title": "Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more",
-      "description": "This weekend, check out some of the top stories of the week in Health that you may have missed, including key insights on COVID and autoimmune treatments.",
-      "url": "https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/kidney-transplants-split.jpg",
-      "publishedAt": "2024-03-03 15:18:55",
-      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. Please enter a valid email address. By entering your e\u2026 [+3480 chars]",
-      "retrievedAt": "2024-03-04 19:05:21.764064",
-      "internal_id": "f01d5d96d57062959741f73c8ed148d3eaff0f7467e6f025a181b094f585f5aa",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6446,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Febasgo, Minist\u00e9rio da Sa\u00fade e Opas lan\u00e7am manual sobre dengue para gestantes",
-      "description": "A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas),",
-      "url": "https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2023/03/istock-1097583224.jpg",
-      "publishedAt": "2024-03-03 14:44:06",
-      "content": "\u00daltimas not\u00edcias: A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas), lan\u00e7ou o Manual de Preven\u00e7\u00e3o,\u2026 [+1842 chars]",
-      "retrievedAt": "2024-03-06 07:05:49.576692",
-      "internal_id": "68257706d896542fc814eeedad8f23ca543b0ff37cd70496222d9998cd27e8c4",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6454,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "Mirtha Legrand le pidi\u00f3 al Gobierno que la vacuna del dengue sea gratuita",
-      "description": "La conductora se refiri\u00f3 al aumento de casos que tuvo lugar en las \u00faltimas semanas en todo el pa\u00eds;",
-      "url": "https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/mirtha-pidio-que-la-vacuna-contra-el-dengue-sea-TWGCOU3ELVGQVDB6OOYM2KYRXM.JPG?auth=6cfd3fd285ae28eb6faa3b6a31ad57bceaca996bb5ec954c09941ee330f9b8d8&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-03 12:01:59",
-      "content": "En medio de un aumento exponencial de los casos de dengue en el \u00c1rea Metropolitana de Buenos Aires (AMBA)y otras regiones del pa\u00eds, Mirtha Legrand se quej\u00f3 del valor de las vacunas para prevenirlo y \u2026 [+2542 chars]",
-      "retrievedAt": "2024-03-06 07:05:49.614148",
-      "internal_id": "f185e4a02dc5e0411f5f29ab8cf12a65a9513382510095352199bbf6ceed0ebf",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6352,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": "svenska-dagbladet",
-      "source_name": "Svenska Dagbladet",
-      "author": "Anna Karolina Eriksson/TT",
-      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
-      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vektorburna virussjukdomarna st\u00e5r och knackar p\u00e5 d\u00f6rren, men det finns inga avsatta medel f\u00f6r \u00f6vervakn\u2026",
-      "url": "https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar",
-      "urlToImage": "https://svd.vgc.no/v2/images/90ff6fef-1ca6-4105-b103-658514f2ec88?h=630&q=80&upscale=true&w=1200&s=b693c53191dbce138a60969d340d03bfa6eac7ac",
-      "publishedAt": "2024-03-03 08:34:17",
-      "content": "Invasiva myggarter n\u00e4rmar sig Sverige med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. De vektorburna virussjukdomarna st\u00e5r och knack\u2026 [+99 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.816348",
-      "internal_id": "ed1c0db11933badd1d64c90a024b2d5ad63053f362844dd74ac5eacc53839fb9",
-      "publishedAtLabel": "Mar 3"
-    },
-    {
-      "id": 6351,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "TT",
-      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
-      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vek",
-      "url": "https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/6012ca3e-1a73-423b-a19e-da105b74f5e0?fit=crop&format=auto&h=826&q=50&w=1239&s=344ba01e72e2f15f7bac9bc7888853c0f9aacfbe",
-      "publishedAt": "2024-03-03 08:34:16",
-      "content": "Anna Karolina Eriksson/TT share-arrow Dela chevron-left f\u00f6reg\u00e5endechevron-right n\u00e4sta Culex modestus, nilfebersmygga.1 / 2Foto: Anders Lindstr\u00f6m/SVA Invasiva myggarter n\u00e4rmar sig Sverige med f\u2026 [+2998 chars]",
-      "retrievedAt": "2024-03-04 19:05:22.791631",
-      "internal_id": "ae9e266b91ac7889b2e75e16b89d9e01b7d907b335ff1ec5e2fa7639194eae88",
       "publishedAtLabel": "Mar 3"
     }
   ]
