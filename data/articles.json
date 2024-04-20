@@ -1,8 +1,260 @@
 {
-  "last_updated": "2024-04-19 19:05",
-  "count_articles_total": 1986,
-  "count_articles_new": 45,
+  "last_updated": "2024-04-20 07:06",
+  "count_articles_total": 2020,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 8385,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "urielblanco",
+      "title": "\u00bfQu\u00e9 es la meningitis? Causas, riesgos, s\u00edntomas y tratamiento",
+      "description": "La meningitis es un padecimiento que, pese a que se puede prevenir con la vacunaci\u00f3n, cada a\u00f1o afecta a millones de personas en todo el mundo.",
+      "url": "https://cnnespanol.cnn.com/2024/04/19/que-es-la-meningitis-causas-riesgos-y-tratamiento-orix/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/02/meningitis-e1713505803801.jpg?quality=100&strip=info",
+      "publishedAt": "2024-04-19 05:40:52",
+      "content": "\u00bfQu\u00e9 es la meningitis y c\u00f3mo puedes protegerte? 3:07 (CNN Espa\u00f1ol) -- La meningitis es una infecci\u00f3n que, pese a que se puede prevenir con la vacunaci\u00f3n, cada a\u00f1o afecta a millones de personas en to\u2026 [+4312 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.629129",
+      "internal_id": "94f2f4bf9c94b44a694318f868f9f5107db9f612aa3c0599ac6b8486823877d9",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8387,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Iasbaba.com",
+      "author": "IASbaba",
+      "title": "UPSC Quiz \u2013 2024 : IASbaba\u2019s Daily Current Affairs Quiz 18th April 2024",
+      "description": "For Previous Daily Quiz (ARCHIVES) \u2013 CLICK HERE The Current Affairs questions are based on sources like \u2018The Hindu\u2019, \u2018Indian Express\u2019 and \u2018PIB\u2019, which are very important sources for UPSC Prelims Exam. The questions are focused on both the concepts and facts. \u2026",
+      "url": "https://iasbaba.com/2024/04/upsc-quiz-2024-iasbabas-daily-current-affairs-quiz-18th-april-2024/",
+      "urlToImage": "https://iasbaba.com/wp-content/uploads/2023/12/Daily-Current-Affairs-Quiz-2024.jpg",
+      "publishedAt": "2024-04-19 05:14:46",
+      "content": "\u00b7 Nigeria has become the 1st country in the world to roll out a new vaccine (called Men5CV) against meningitis.\u00b7 It protects people against 5 strains (A, C, W, Y and X) of the meningococc\u2026 [+943 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.654680",
+      "internal_id": "72879405df1e12e0bd06c4f94a9e270aee72dfb053833e54e5695f42ab2cf845",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8375,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Investing.com",
+      "title": "Global clinical development on Dengue antiviral candidate will start, Hyundai Bioscience strives to win emergency use authorization",
+      "description": "Global clinical development on Dengue antiviral candidate will start, Hyundai Bioscience strives to win emergency use authorization",
+      "url": "https://www.investing.com/news/press-releases/global-clinical-development-on-dengue-antiviral-candidate-will-start-hyundai-bioscience-strives-to-win-emergency-use-authorization-93CH-3386038",
+      "urlToImage": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "publishedAt": "2024-04-19 03:04:04",
+      "content": "SEOUL, South Korea , April 18, 2024 /PRNewswire/ -- South Korea's biotechnology company Hyundai (OTC:HYMTF) Bioscience (CEO Oh Sang-gi, www.hyundaibioscience.com) announced on April 15 that i\u2026 [+5798 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.221179",
+      "internal_id": "5dca6eb88ccaa3362c7a304dbe2b376d745e61242d823459913ece2c982b552c",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8376,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Marcos Dom\u00ednguez",
+      "title": "Alerta en Espa\u00f1a por la brutal explosi\u00f3n de casos de dengue en Sudam\u00e9rica: \"Debemos ser precavidos\"",
+      "description": "Los casos en Latinoam\u00e9rica se multiplican por seis respecto a 2023. En Gran Canaria, el mosquito 'Aedes aegypti' se hac fuerte en un barrio de la capital.",
+      "url": "https://www.elespanol.com/ciencia/salud/20240419/alerta-espana-brutal-explosion-casos-dengue-sudamerica-debemos-precavidos/848665502_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/04/18/ciencia/salud/848676162_241648567_1706x960.jpg",
+      "publishedAt": "2024-04-19 00:21:56",
+      "content": "El dengue est\u00e1 viviendo un despegue sin igual en los primeros cuatro meses de 2024. En lo que va de a\u00f1o, el n\u00famero de casos se ha cuadruplicado en Am\u00e9rica Latina respecto a 2023, pero multiplica por \u2026 [+8247 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.224986",
+      "internal_id": "f2d8ec805254eecefa938bc1bc750e69b41f368462996c9dda79651ce40a69ec",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8372,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WGN TV Chicago",
+      "author": "Alonzo Small",
+      "title": "Cook County Public Health warns of possible measles exposure at Sam's Club in Evergreen Park",
+      "description": "Cook County Public Health warns of possible measles exposure at Sam's Club in Evergreen Parkwgntv.com",
+      "url": "https://wgntv.com/news/medical-watch/cook-county-public-health-warns-of-possible-measles-exposure-at-sams-club-in-evergreen-park/",
+      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2024/01/GettyImages-1196157315-e1706646492255.jpg?w=1280",
+      "publishedAt": "2024-04-19 00:15:35",
+      "content": "EVERGREEN PARK, Ill. Cook County\u2019s Department of Public Health is warning locals about possible measles exposure at an Evergreen Park-area Sam\u2019s Club. CCDPH says visitors to the south suburban Sam\u2019\u2026 [+1515 chars]",
+      "retrievedAt": "2024-04-20 07:06:01.724412",
+      "internal_id": "03f1d06310285471185d21636bb4615fd543d59232bda70a91c9d8823ce26130",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8384,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Dengue: Anvisa recomenda 2 tipos de repelente contra o mosquito",
+      "description": "Com 1,8 milh\u00e3o de casos, o Brasil se aproxima de viver a maior epidemia de dengue da hist\u00f3ria. Em meio ao aumento de registros em v\u00e1rios estados,",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-anvisa-recomenda-2-tipos-de-repelente-contra-o-mosquito/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/04/mosquito-da-dengue-pode-picar-por-cima-da-roupa.jpg",
+      "publishedAt": "2024-04-19 00:00:33",
+      "content": "Com 1,8 milh\u00e3o de casos, o Brasil se aproxima de viver a maior epidemia de dengue da hist\u00f3ria. Em meio ao aumento de registros em v\u00e1rios estados, destaca-se a import\u00e2ncia do uso de repelente, que se \u2026 [+2390 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.347742",
+      "internal_id": "2c995339212ff5750bebd9cd3fbc26f6bf3a09b0b00dc6155729addd6f997969",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 8377,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Caio Figueiredo",
+      "title": "Dengue no DF: Hospital de Campanha da FAB encerra as atividades",
+      "description": "O HCAMP da For\u00e7a A\u00e9rea Brasileira instalado na regi\u00e3o administrativa de Ceil\u00e2ndia atendeu mais de 50 mil procedimentos",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-no-df-hospital-de-campanha-da-fab-encerra-as-atividades",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/15183501/Movimentac%CC%A7a%CC%83o-de-pacientes-no-Hospital-de-Campanha-da-Forc%CC%A7a-Ae%CC%81rea-Brasileira-montado-para-combate-a-dengue-ao-lado-da-UPA-1-de-Ceila%CC%82ndia-7.jpg",
+      "publishedAt": "2024-04-18 23:13:37",
+      "content": "Devido \u00e0 baixa nos casos de dengue, o Hospital de Campanha (HCAMP) da For\u00e7a A\u00e9rea Brasileira (FAB) est\u00e1 encerrando as atividades na capital. Com mais de 50 mil atendimentos no DF, a unidade de sa\u00fade \u2026 [+2052 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.276881",
+      "internal_id": "b60f9e3b71266d2febde91b3eaf386bb37a0861bde0b92f002b594375882277f",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8374,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "InvestorsObserver",
+      "author": "InvestorsObserver",
+      "title": "Global clinical development on Dengue antiviral candidate will start, Hyundai Bioscience strives to win emergency use authorization",
+      "description": "Global clinical development on Dengue antiviral candidate will start, Hyundai Bioscience strives to win emergency use authorization PR Newswire SEOUL, South Korea , April 18, 2024 /PRNewswire/ -- South Korea's biot...",
+      "url": "https://www.investorsobserver.com/news/qm-pr/8064199342354158",
+      "urlToImage": "https://s3.amazonaws.com/images.investorsobserver.com/io-logo-800x450.jpg",
+      "publishedAt": "2024-04-18 22:54:00",
+      "content": "SEOUL, South Korea , April 18, 2024 /PRNewswire/ -- South Korea's biotechnology company Hyundai Bioscience (CEO Oh Sang-gi, www.hyundaibioscience.com ) announced on April 15 that it would ca\u2026 [+6049 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.213302",
+      "internal_id": "bf855903200623d0d69bf629540da7112181699889f2c034a3d903a3c2f3f8fe",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8378,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: idade para imuniza\u00e7\u00e3o \u00e9 ampliada em seis estados; veja lista",
+      "description": "Novas recomenda\u00e7\u00f5es foram divulgadas pelo Minist\u00e9rio da Sa\u00fade para evitar perca de doses; agora, pessoas entre 4 e 59 anos poder\u00e3o ser vacinadas",
+      "url": "https://saude.ig.com.br/2024-04-18/dengue--veja-lista-de-estados-com-vacinacao-ampliada.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/f1/0q/ep/f10qepa9wgb13evl9ixl7e3b9.jpg",
+      "publishedAt": "2024-04-18 21:51:22",
+      "content": "Nesta quinta-feira (18), o Minist\u00e9rio da Sa\u00fade recomendou aos estados a amplia\u00e7\u00e3o do p\u00fablico alvo da vacina da dengue. Anteriormente disponibilizada para jovens entre 10 e 14 anos, agora a pasta orie\u2026 [+1908 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.306700",
+      "internal_id": "f7a47af9b8a78b9b4faf7214d1e6daee731cc6b7363505a1e6b9ce342cf454e1",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8373,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Jacqueline Howard",
+      "title": "WHO clarifies what counts as a pathogen that can spread through the air | CNN",
+      "description": "The World Health Organization is opening up the definition of airborne pathogens \u2013 such as Covid-19, influenza and measles \u2013 to include when respiratory droplets spread through the air and when they land on a person, regardless of the size of the droplet.",
+      "url": "https://www.cnn.com/2024/04/18/health/who-airborne-pathogen/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1366554108-20240418184013249.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-18 21:04:45",
+      "content": "The World Health Organization is opening up the definition of airborne pathogens such as Covid-19, influenza and measles to include when respiratory droplets spread through the air and when they land\u2026 [+6014 chars]",
+      "retrievedAt": "2024-04-20 07:06:01.750505",
+      "internal_id": "1c66986fe6ca42e38e19891ec4ed1f80d366edfe4809e08ee41f1eb76ec95a23",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8388,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Redacci\u00f3n",
+      "title": "\u00bfQu\u00e9 le pas\u00f3 a Mar\u00eda Herranz, la gimnasta espa\u00f1ola que muri\u00f3 a los 17 a\u00f1os?",
+      "description": "La muerte de la deportista fue calificada como 's\u00fabita' porque sucedi\u00f3 en menos de 24 horas tras haber manifestado meningitis.",
+      "url": "https://www.elfinanciero.com.mx/deportes/2024/04/18/que-le-paso-a-maria-herranz-la-gimnasta-espanola-que-murio-a-los-17-anos/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/kmm0l3iiB0_TjrZOl6fxwI6fxuQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MFKZMPVKBFBCDBGOEFEA5KSYLU.jpg",
+      "publishedAt": "2024-04-18 20:40:55",
+      "content": "Su nombre era Mar\u00eda Herranz y ten\u00eda una trayectoria promisoria como gimnasta en Espa\u00f1a, su pa\u00eds de origen y desde donde hoy la despiden tras conocer su fallecimiento. La noticia ha dado la vuelta al \u2026 [+2363 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.681546",
+      "internal_id": "1f8edd3c8d5819b82a353f28930e95fa53c754e49a839f5cb18ebfc77ae41447",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8386,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "ED WHITE",
+      "title": "A lab chief\u2019s sentencing for meningitis deaths is postponed, extending grief of victims\u2019 families",
+      "description": "Peggy Nuerenberg, whose 88-year-old mother, Mary Plettl, died after getting a tainted steroid injection for pain, said she was \u201cabsolutely blindsided.\u201d",
+      "url": "https://www.bostonglobe.com/2024/04/18/nation/lab-chiefs-sentencing-meningitis-deaths-is-postponed-extending-grief-victims-families/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/xbrOJFJWsExaoAECTodel4oKBuQ=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/DJNGYFMCO5W3RNBQU2BHGK7PTE.jpg",
+      "publishedAt": "2024-04-18 19:58:50",
+      "content": "HOWELL, Mich. A Michigan judge on Thursday suddenly postponed the sentencing of a man at the center of a fatal meningitis outbreak that hit multiple states, dismaying people who were poised to speak \u2026 [+2857 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.644753",
+      "internal_id": "5042ab0bf510006a62c517ef9446226f815b7f6cfe9aeb5cba13a6b89d0951be",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8382,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Quem pode tomar a vacina da dengue? Sa\u00fade amplia faixa et\u00e1ria para doses com vencimento pr\u00f3ximo",
+      "description": "Doses da vacina prestes a vencer est\u00e3o liberadas para faixa et\u00e1ria ampliada no SUS",
+      "url": "https://valor.globo.com/brasil/noticia/2024/04/18/quem-pode-tomar-a-vacina-da-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/4Sbxfi7kgoG8Bt8mPyhgAbHDuU8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/3/b/8tkA4jROeTbNHaBrphwQ/106247910-osasco-20sp-2015-03-2024-20-20equipes-20da-20zoonoses-20realizam-20trabalho-20de-20campo-20no-20combate-20aos-20f.jpg",
+      "publishedAt": "2024-04-18 19:26:22",
+      "content": "O Minist\u00e9rio da Sa\u00fade recomendou a amplia\u00e7\u00e3o do grupo de vacina\u00e7\u00e3o da dengue em munic\u00edpios que t\u00eam uma quantidade alta de doses com vencimento em 30 de abril. A decis\u00e3o foi motivada devido \u00e0 baixa ad\u2026 [+3263 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.336823",
+      "internal_id": "e945911d5ce57ccbf2b60d382c067ab2a185f6ce03e6b1795476e74b0edcf630",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8389,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Kevin Ruiz",
+      "title": "Muere Mar\u00eda Herranz, gimnasta espa\u00f1ola, a los 17 a\u00f1os por meningitis",
+      "description": "Mar\u00eda Herranz, gimnasta espa\u00f1ola de 17 a\u00f1os, fallece debido a meningitis, dejando un legado de inspiraci\u00f3n y luto en su comunidad y el mundo del deporte.",
+      "url": "https://www.nacion.com/viva/farandula/muere-maria-herranz-gimnasta-espanola-a-los-17/QQDIQUCOKZH4RF6AOQ7ERHRVFU/story/",
+      "urlToImage": "https://www.nacion.com/resizer/-6g6Al_aI-foI0giqnMPsDBR7Xg=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/AKX32RFQXZEHDHV75FK3GAK4BM.jpeg",
+      "publishedAt": "2024-04-18 19:12:32",
+      "content": "La comunidad deportiva y el municipio de Cabanillas del Campo en Espa\u00f1a est\u00e1n de luto tras el fallecimiento de la destacada gimnasta Mar\u00eda Herranz, quien muri\u00f3 a los 17 a\u00f1os debido a una meningitis. \u2026 [+1581 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.708685",
+      "internal_id": "3613fbde2d13537c480295be3241bcf418534f9c48fefb6246f8db9590eb62ba",
+      "publishedAtLabel": "Apr 18"
+    },
     {
       "id": 8336,
       "query": [
@@ -19,6 +271,42 @@
       "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, afirmou nesta quinta-feira (18/4) que, em 11 estados, h\u00e1 estoque de doses da vacina contra a dengue que vencer\u00e3o em 30 de abril. N\u00e3o h\u00e1 um quantitativo por munic\u2026 [+1306 chars]",
       "retrievedAt": "2024-04-19 19:05:32.984358",
       "internal_id": "ca88a4055bc81884bb8fd178acbf122c32e8200331315aff32b80621e9671d10",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8381,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Opas cita \"situa\u00e7\u00e3o emergencial\" e reporta aumento de quase 50% nos casos de dengue nas Am\u00e9ricas",
+      "description": "Os casos de dengue criaram uma \"situa\u00e7\u00e3o emergencial\" nas Am\u00e9ricas, embora o n\u00famero de casos na ...",
+      "url": "https://www.terra.com.br/noticias/mundo/opas-cita-situacao-emergencial-e-reporta-aumento-de-quase-50-nos-casos-de-dengue-nas-americas,a3480dcb1634b57626690dd252717ca6ircp1bxi.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-04-18 18:49:32",
+      "content": "Os casos de dengue criaram uma \"situa\u00e7\u00e3o emergencial\" nas Am\u00e9ricas, embora o n\u00famero de casos na Argentina e no Brasil tenha se estabilizado, afirmou nesta quinta-feira a Organiza\u00e7\u00e3o Pan-Americana de \u2026 [+1424 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.333116",
+      "internal_id": "46c4598ea61dfeb7b5a270974bc4aa3f8aab378000f1754a75eb8a84a40e6711",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8383,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (Reuters)",
+      "title": "Casos de dengue en Am\u00e9rica aumentan casi un 50 % en menos de un mes, seg\u00fan la OPS",
+      "description": "La transmisi\u00f3n de dengue contin\u00faa siendo \"muy fuerte\" en la regi\u00f3n, seg\u00fan la Organizaci\u00f3n Panamericana de la Salud (OPS).",
+      "url": "https://www.vozdeamerica.com/a/casos-dengue-america-aumentan-50-menos-un-mes-ops/7575665.html",
+      "urlToImage": "https://gdb.voanews.com/219648E4-1D5E-436C-BD25-FAFDC59A9863.jpg",
+      "publishedAt": "2024-04-18 18:31:59",
+      "content": "CIUDAD DE M\u00c9XICO Los contagios de dengue en los pa\u00edses de Am\u00e9rica subieron casi un 50 % en las \u00faltimas tres semanas, hasta 5,2 millones de casos en lo que va del a\u00f1o, con m\u00e1s de 1.800 muertes report\u2026 [+2675 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.344002",
+      "internal_id": "ae5855767d718112e1ac50d03ad455161fd6523c60131adc895c9ef3d5a08481",
       "publishedAtLabel": "Apr 18"
     },
     {
@@ -275,6 +563,24 @@
       "publishedAtLabel": "Apr 18"
     },
     {
+      "id": 8380,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: entenda por que queda de plaquetas nem sempre \u00e9 sinal de forma grave da doen\u00e7a",
+      "description": "M\u00e9dico hematologista destaca que gravidade do quadro n\u00e3o pode ser definida apenas pelo hemograma, mas requer an\u00e1lise de outras manifesta\u00e7\u00f5es cl\u00ednicas. Para pacientes com suspeita ou diagn\u00f3stico confirmado de dengue, um hemograma que apresenta queda nos n\u00edveis\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/18/dengue-entenda-por-que-queda-de-plaquetas-nem-sempre-e-sinal-de-forma-grave-da-doenca.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/ExsxsIl6cwxCxPaNPcwiXXAdiQ0=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/12528864.jpg",
+      "publishedAt": "2024-04-18 16:19:07",
+      "content": "Em entrevista \u00e0 EPTV, afiliada da TV Globo, o m\u00e9dico hematologista Guilherme Duffles destaca que, em geral, h\u00e1 um risco maior de hemorragia espont\u00e2nea ou seja, sangramento sem traumas quando as plaqu\u2026 [+2339 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.323499",
+      "internal_id": "a0b20a911ed620758d2c44cdbbadd14c5b79c6a29630f0cd45f52e7e0213b8f4",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
       "id": 8369,
       "query": [
         "mpox"
@@ -456,6 +762,24 @@
       "publishedAtLabel": "Apr 18"
     },
     {
+      "id": 8379,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Dos 4 aos 59 anos: faixa et\u00e1ria de vacina contra a dengue \u00e9 ampliada",
+      "description": "Ministra da Sa\u00fade anunciou medida para doses que est\u00e3o prestes a vencer; munic\u00edpios correm o risco de perd\u00ea-las",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dos-4-aos-59-anos-faixa-etaria-de-vacina-contra-a-dengue-e-ampliada,702ace5f71ed2b085440abe012e3d60bo74gn7jm.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/08/382665411-vacina-contra-dengue.jpeg",
+      "publishedAt": "2024-04-18 13:39:47",
+      "content": "A ministra da Sa\u00fade N\u00edsia Trindade Lima anunciou nesta quinta-feira (18) que o Minist\u00e9rio est\u00e1 ampliando, de forma tempor\u00e1ria, a faixa et\u00e1ria para as vacinas da dengue que vencem no dia 30 de abril n\u2026 [+1653 chars]",
+      "retrievedAt": "2024-04-20 07:06:02.319728",
+      "internal_id": "044f53fc9ead45dafbcb3bd4775c7030a6a3d69297a66b5d4e604a1083283611",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
       "id": 8332,
       "query": [
         "dengue"
@@ -471,6 +795,24 @@
       "content": "O \u00faltimo boletim de arboviroses divulgado na \u00faltima segunda-feira (15) aponta para um cen\u00e1rio de verdadeira infesta\u00e7\u00e3o do mosquito Aedes aegypti em S\u00e3o Paulo. Dos 96 distritos da cidade, 91 j\u00e1 enfren\u2026 [+1675 chars]",
       "retrievedAt": "2024-04-19 19:05:32.927664",
       "internal_id": "c29a4be0fc1a61eb9052fa4ca7fd6f58384448b6187037450102288ea0c58aaa",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 8390,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Westafricaweekly.com",
+      "author": "Ikenna Churchill",
+      "title": "Pastor Chris Oyakhilome's Anti-Vaccine Messages Threaten Africa's Health - BBC Finds",
+      "description": "A famous African preacher, Pastor Chris Oyakhilome, has been spreading doubts about vaccines, especially the new malaria vaccine being distributed across Africa",
+      "url": "https://westafricaweekly.com/pastor-chris-oyakhilomes-anti-vaccine-messages-threaten-africas-health-bbc-finds/",
+      "urlToImage": "https://westafricaweekly.com/wp-content/uploads/2024/04/IMG_0860.jpeg",
+      "publishedAt": "2024-04-18 13:27:37",
+      "content": "A famous African preacher, Pastor Chris Oyakhilome, has been spreading doubts about vaccines, especially the new malaria vaccine being distributed across Africa. The BBC looked into dozens of his ser\u2026 [+2084 chars]",
+      "retrievedAt": "2024-04-20 07:06:03.181235",
+      "internal_id": "0a458c4935229d74ca5663f1d0ee1cfa6cb3cd692c52b2ecabb90b57d43b069c",
       "publishedAtLabel": "Apr 18"
     },
     {
@@ -35875,6 +36217,278 @@
       "content": "Ap\u00f3s registrar 1.674 casos da Febre do Oropouche neste ano, o governo do Amazonas reconheceu o surto da doen\u00e7a no estado. A arbovirose tem sintomas semelhantes aos da dengue , como dor de cabe\u00e7a, m\u2026 [+1637 chars]",
       "retrievedAt": "2024-03-05 07:05:47.425451",
       "internal_id": "4f54511b881e88ed15874f3ade0a47ecf0fd73c369ac37e0f4e4b21dd65325dc",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6344,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (The Week Staff)",
+      "title": "The Week Unwrapped: Measles, karting and TikTok tunes",
+      "description": "What's behind the rising number of measles outbreaks? Will a new female karting competition change motorsport for the better? And why are some songs disappearing from TikTok?",
+      "url": "https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fAFBBzBL5d9DErhBr6efeN-1200-80.jpg",
+      "publishedAt": "2024-03-03 18:40:21",
+      "content": "Olly Mann and The Week delve behind the headlines and debate what really matters from the past seven days. A podcast for curious, open-minded people, it delivers fresh perspectives on politics, cultu\u2026 [+1070 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.697687",
+      "internal_id": "b2e30dc646c05ed1bdeca4a323b26da89e8ff9100a6a950027f2919f62b31bef",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6349,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "Bradley Massman | Bmassman@mlive.com",
+      "title": "Health officials confirm measles case in Washtenaw County, warn of exposure spot",
+      "description": "Health officials said anyone potentially exposed should monitor themselves for symptoms for 21 days.",
+      "url": "https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html",
+      "urlToImage": "https://www.mlive.com/resizer/braWJjc9pBYgnHTB8HkXoSOdmqE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KVPYG456ZNDHVGMDJNAZQOS2HU.JPG",
+      "publishedAt": "2024-03-03 18:26:22",
+      "content": "WASHTENAW COUNTY, MI The health department has confirmed a case of measles in Washtenaw County and is warning of a potential exposure spot at one local emergency department. Washtenaw County health \u2026 [+1552 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.792195",
+      "internal_id": "a2aa9eaf06d3ab65b7ff363404cb262f39c5977205f839a27780f7536c55b84c",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6354,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Epidemia de dengue faz Natal decretar emerg\u00eancia em sa\u00fade",
+      "description": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados...",
+      "url": "https://jornaldebrasilia.com.br/?p=2720607",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03182222/IMG_0883.webp",
+      "publishedAt": "2024-03-03 18:23:05",
+      "content": "A Prefeitura de Natal decretou emerg\u00eancia em sa\u00fade devido ao aumento do n\u00famero de casos de dengue. De acordo com o munic\u00edpio, os dados tamb\u00e9m indicam uma tend\u00eancia de crescimento pela terceira semana\u2026 [+2894 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.876117",
+      "internal_id": "33a1b0813cf4ec41ba700bbe82a3b37961ab5a8c342a8dd1a553de4616efbc35",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6348,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Kayla Clarke",
+      "title": "Washtenaw County confirms Michigan\u2019s 3rd case of measles this year",
+      "description": "The Washtenaw County Health Department is reporting Michigan\u2019s third case of measles this year.",
+      "url": "https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/353X74D4FRE3VM725VMXJ2EM24.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-03-03 17:47:39",
+      "content": "YPSILANTI, Mich. The Washtenaw County Health Department is reporting Michigans third case of measles this year. Measles is a highly contagious and preventable disease that is caused by a virus. It c\u2026 [+4274 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.783392",
+      "internal_id": "66e75ab3377ee78236ab1e6f0c2a292010d46730996df438609019e7ba8a1142",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6355,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Brasil elogia medidas adotadas pela It\u00e1lia contra dengue",
+      "description": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do ...",
+      "url": "https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-03-03 17:03:51",
+      "content": "Por Luigi Spera - A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Meio Ambiente do Minist\u00e9rio da Sa\u00fade do Brasil, Ethel Maciel, afirmou que a It\u00e1lia \"fez bem\" em elevar o n\u00edvel de alerta nas fronteiras e em \"a\u2026 [+3272 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.943794",
+      "internal_id": "96d77d6528e48a135f8a7b7746cac9a520c9d287fe13fec2b91f6cee758c25f9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6347,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Washtenaw.org",
+      "author": null,
+      "title": "News Flash \u2022 Health Department Alerts Public to Local Measle",
+      "description": "Washtenaw County Health Department is reporting a case of measles and alerting residents to possible exposure on Fri, March 1 at a local emergency department. MMR vaccination is recommended for anyone 1 year and older and anyone potentially exposed.",
+      "url": "https://www.washtenaw.org/CivicAlerts.aspx?AID=2669",
+      "urlToImage": "https://www.washtenaw.org/ImageRepository/Document?documentID=33982",
+      "publishedAt": "2024-03-03 16:58:30",
+      "content": "(Spanish translation now available. Arabic translation will be posted here as soon as possible.) Washtenaw County Health Department is reporting a case of measles and alerting the public to the poss\u2026 [+4449 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.778622",
+      "internal_id": "0115d742ce4f280db0fd16954879da4c565dcf72b89f2a5631d0f6e0c36033c9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6458,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Crian\u00e7a de 9 anos \u00e9 encontrada morta dentro de casa na Grande BH",
+      "description": "Exames constataram aus\u00eancia de sinais de viol\u00eancia; acredita-se que a causa da morte foi por dengue hemorr\u00e1gica",
+      "url": "https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024",
+      "urlToImage": "https://img.r7.com/images/morre-suspeita-dengue-03032024155458912?dimensions=160x90",
+      "publishedAt": "2024-03-03 15:56:40",
+      "content": "Crian\u00e7a foi levada para um hospital em Esmeraldas (MG) Reprodu\u00e7\u00e3o / Google Street View Uma crian\u00e7a de 9 anos foi encontrada morta dentro de casa, em Ribeir\u00e3o das Neves, na regi\u00e3o metropolitan\u2026 [+1545 chars]",
+      "retrievedAt": "2024-03-06 07:05:49.632919",
+      "internal_id": "c7157848613bfc1b2dc52747534b0752c1b1356dc74494a3455f96eb3296758b",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6350,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Week in pictures: From firefighter protests in Seoul to prayers in Gaza",
+      "description": "A roundup of some of last week\u2019s events.",
+      "url": "https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AA-20240301-33853497-33853495-FRIDAY_PRAYERS_OF_PALESTINIANS_AMONG_DESTROYED_MOSQUE_RUBBLE_IN_GAZA_STRIP-1709468351.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-03-03 15:31:34",
+      "content": "From a dengue epidemic in Peru to the funeral of the Russian opposition leader, here is the week in photos.",
+      "retrievedAt": "2024-03-04 19:05:22.751317",
+      "internal_id": "2e2fd80473629f422e9d001fc77aa53f31f474e04931c698c5653557aaea0eeb",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6353,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Popula\u00e7\u00f5es perif\u00e9ricas s\u00e3o mais vulner\u00e1veis \u00e0 dengue",
+      "description": "\"O meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho\u201d. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/03152924/IMG_0852.webp",
+      "publishedAt": "2024-03-03 15:30:36",
+      "content": "\u201cO meu homem-aranha est\u00e1 amuado, tristinho. \u00c9 t\u00e3o estranho. A auxiliar de servi\u00e7os gerais Juliana Pereira, de 28 anos de idade, est\u00e1 acostumada com o pequeno Vitor, de 3 anos de idade, pulando de um \u2026 [+9534 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.839937",
+      "internal_id": "79e6ac8676b06abf6fd68f62d083b86a48c2e1f67c3fb94b11290c7908e61783",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6345,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)",
+      "description": "Richard Luscombe / The Guardian: Florida is swamped by disease outbreaks as quackery replaces science \u2014 The state is in the grip of a measles outbreak, yet Joseph Ladapo, the surgeon general, continues to ignore medical science to stop it \u2014 Shortly before\u2026",
+      "url": "https://www.memeorandum.com/240303/p7",
+      "urlToImage": "https://i.guim.co.uk/img/media/160521aedeeb183f524009821e37428c9c19ea5c/0_43_3300_1980/master/3300.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2024-03-03 15:20:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.725738",
+      "internal_id": "6742296b3d2f02f0d75e721dc29d108237e7b7b149ef2f9ad59923894f6a99fd",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6346,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more",
+      "description": "This weekend, check out some of the top stories of the week in Health that you may have missed, including key insights on COVID and autoimmune treatments.",
+      "url": "https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/kidney-transplants-split.jpg",
+      "publishedAt": "2024-03-03 15:18:55",
+      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. Please enter a valid email address. By entering your e\u2026 [+3480 chars]",
+      "retrievedAt": "2024-03-04 19:05:21.764064",
+      "internal_id": "f01d5d96d57062959741f73c8ed148d3eaff0f7467e6f025a181b094f585f5aa",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6446,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Febasgo, Minist\u00e9rio da Sa\u00fade e Opas lan\u00e7am manual sobre dengue para gestantes",
+      "description": "A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas),",
+      "url": "https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2023/03/istock-1097583224.jpg",
+      "publishedAt": "2024-03-03 14:44:06",
+      "content": "\u00daltimas not\u00edcias: A Federa\u00e7\u00e3o Brasileira de Ginecologia Obstetr\u00edcia (Febasgo), em parceria com o Minist\u00e9rio da Sa\u00fade (MS) e a Organiza\u00e7\u00e3o Pan-Americana de Sa\u00fade (Opas), lan\u00e7ou o Manual de Preven\u00e7\u00e3o,\u2026 [+1842 chars]",
+      "retrievedAt": "2024-03-06 07:05:49.576692",
+      "internal_id": "68257706d896542fc814eeedad8f23ca543b0ff37cd70496222d9998cd27e8c4",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6454,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Mirtha Legrand le pidi\u00f3 al Gobierno que la vacuna del dengue sea gratuita",
+      "description": "La conductora se refiri\u00f3 al aumento de casos que tuvo lugar en las \u00faltimas semanas en todo el pa\u00eds;",
+      "url": "https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/mirtha-pidio-que-la-vacuna-contra-el-dengue-sea-TWGCOU3ELVGQVDB6OOYM2KYRXM.JPG?auth=6cfd3fd285ae28eb6faa3b6a31ad57bceaca996bb5ec954c09941ee330f9b8d8&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-03 12:01:59",
+      "content": "En medio de un aumento exponencial de los casos de dengue en el \u00c1rea Metropolitana de Buenos Aires (AMBA)y otras regiones del pa\u00eds, Mirtha Legrand se quej\u00f3 del valor de las vacunas para prevenirlo y \u2026 [+2542 chars]",
+      "retrievedAt": "2024-03-06 07:05:49.614148",
+      "internal_id": "f185e4a02dc5e0411f5f29ab8cf12a65a9513382510095352199bbf6ceed0ebf",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6352,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Anna Karolina Eriksson/TT",
+      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
+      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vektorburna virussjukdomarna st\u00e5r och knackar p\u00e5 d\u00f6rren, men det finns inga avsatta medel f\u00f6r \u00f6vervakn\u2026",
+      "url": "https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar",
+      "urlToImage": "https://svd.vgc.no/v2/images/90ff6fef-1ca6-4105-b103-658514f2ec88?h=630&q=80&upscale=true&w=1200&s=b693c53191dbce138a60969d340d03bfa6eac7ac",
+      "publishedAt": "2024-03-03 08:34:17",
+      "content": "Invasiva myggarter n\u00e4rmar sig Sverige med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. De vektorburna virussjukdomarna st\u00e5r och knack\u2026 [+99 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.816348",
+      "internal_id": "ed1c0db11933badd1d64c90a024b2d5ad63053f362844dd74ac5eacc53839fb9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 6351,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Fruktade smittor p\u00e5 v\u00e4g \u2013 men ingen \u00f6vervakar",
+      "description": "Invasiva myggarter n\u00e4rmar sig Sverige \u2013 med fruktade virus som zika, dengue och nilfeber i bagaget. Men ingen har koll p\u00e5 var, om och n\u00e4r de dyker upp. \u2013 De vek",
+      "url": "https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/6012ca3e-1a73-423b-a19e-da105b74f5e0?fit=crop&format=auto&h=826&q=50&w=1239&s=344ba01e72e2f15f7bac9bc7888853c0f9aacfbe",
+      "publishedAt": "2024-03-03 08:34:16",
+      "content": "Anna Karolina Eriksson/TT share-arrow Dela chevron-left f\u00f6reg\u00e5endechevron-right n\u00e4sta Culex modestus, nilfebersmygga.1 / 2Foto: Anders Lindstr\u00f6m/SVA Invasiva myggarter n\u00e4rmar sig Sverige med f\u2026 [+2998 chars]",
+      "retrievedAt": "2024-03-04 19:05:22.791631",
+      "internal_id": "ae9e266b91ac7889b2e75e16b89d9e01b7d907b335ff1ec5e2fa7639194eae88",
       "publishedAtLabel": "Mar 3"
     }
   ]

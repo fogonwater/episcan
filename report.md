@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 45
-- **Last harvest:** 2024-04-19 19:05
-- **Most recent article:** 2024-04-18 18:54:25
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-04-20 07:06
+- **Most recent article:** 2024-04-19 05:40:52
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-10 | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 181 | 181 | 180 | 186 | 158 | 138 | 76 | 1100 |
-| measles | 78 | 112 | 87 | 44 | 36 | 43 | 30 | 430 |
-| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 23 | 115 |
-| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 32 | 96 |
-| zika | 14 | 16 | 12 | 21 | 11 | 10 | 8 | 92 |
+| dengue | 190 | 181 | 180 | 186 | 158 | 138 | 87 | 1120 |
+| measles | 84 | 112 | 87 | 44 | 36 | 43 | 32 | 438 |
+| malaria | 15 | 23 | 18 | 7 | 13 | 16 | 24 | 116 |
+| meningitis | 16 | 5 | 8 | 16 | 4 | 15 | 37 | 101 |
+| zika | 16 | 16 | 12 | 21 | 11 | 10 | 8 | 94 |
 | chikungunya | 8 | 20 | 15 | 9 | 12 | 7 | 5 | 76 |
 | rabies | 5 | 6 | 9 | 3 | 16 | 8 | 3 | 50 |
 | mpox | 5 | 8 | 4 | 6 | 12 | 3 | 11 | 49 |
@@ -106,6 +106,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (meningitis)
 
+- [¿Qué es la meningitis? Causas, riesgos, síntomas y tratamiento](https://cnnespanol.cnn.com/2024/04/19/que-es-la-meningitis-causas-riesgos-y-tratamiento-orix/) (CNN)
+
+- [UPSC Quiz – 2024 : IASbaba’s Daily Current Affairs Quiz 18th April 2024](https://iasbaba.com/2024/04/upsc-quiz-2024-iasbabas-daily-current-affairs-quiz-18th-april-2024/) (Iasbaba.com)
+
+- [¿Qué le pasó a María Herranz, la gimnasta española que murió a los 17 años?](https://www.elfinanciero.com.mx/deportes/2024/04/18/que-le-paso-a-maria-herranz-la-gimnasta-espanola-que-murio-a-los-17-anos/) (El Financiero)
+
+- [A lab chief’s sentencing for meningitis deaths is postponed, extending grief of victims’ families](https://www.bostonglobe.com/2024/04/18/nation/lab-chiefs-sentencing-meningitis-deaths-is-postponed-extending-grief-victims-families/) (The Boston Globe)
+
+- [Muere María Herranz, gimnasta española, a los 17 años por meningitis](https://www.nacion.com/viva/farandula/muere-maria-herranz-gimnasta-espanola-a-los-17/QQDIQUCOKZH4RF6AOQ7ERHRVFU/story/) (Nacion.com)
+
 - [A lab chief's sentencing for meningitis deaths is postponed, extending grief of victims' families](https://abcnews.go.com/Health/wireStory/lab-chiefs-sentencing-meningitis-deaths-postponed-extending-grief-109391308) (ABC News)
 
 - [A lab chief's sentencing for meningitis deaths is postponed, extending grief of victims' families](https://abcnews.go.com/US/wireStory/lab-chiefs-sentencing-meningitis-deaths-postponed-extending-grief-109391307) (ABC News)
@@ -172,6 +182,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (measles)
 
+- [Cook County Public Health warns of possible measles exposure at Sam's Club in Evergreen Park](https://wgntv.com/news/medical-watch/cook-county-public-health-warns-of-possible-measles-exposure-at-sams-club-in-evergreen-park/) (WGN TV Chicago)
+
+- [WHO clarifies what counts as a pathogen that can spread through the air | CNN](https://www.cnn.com/2024/04/18/health/who-airborne-pathogen/index.html) (CNN)
+
 - [Kids don't need to get sick to be healthy](https://yourlocalepidemiologist.substack.com/p/kids-dont-need-to-get-sick-to-be) (Substack.com)
 
 - [Three more measles cases confirmed - bringing total number this year to 16](https://www.thejournal.ie/measles-cases-ireland-april-6357983-Apr2024/) (TheJournal.ie)
@@ -234,6 +248,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (malaria)
 
+- [Pastor Chris Oyakhilome's Anti-Vaccine Messages Threaten Africa's Health - BBC Finds](https://westafricaweekly.com/pastor-chris-oyakhilomes-anti-vaccine-messages-threaten-africas-health-bbc-finds/) (Westafricaweekly.com)
+
 - [EBC Financial Group Bermitra dengan United to Beat Malaria, Sebuah Kampanye Yayasan PBB, untuk Melindungi Anak dan Keluarga Mereka yang Rentan dari Malaria](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/id/EBC-Financial-Group-Bermitra-dengan-United-to-Beat-Malaria-Sebuah-Kampanye-Yayasan-PBB-untuk-Melindungi-Anak-dan-Keluarga-Mereka-yang-Rentan-dari-Malaria.html) (GlobeNewswire)
 
 - [EBC Financial Group Bekerjasama dengan Bersatu Tewaskan Malaria, Kempen Yayasan Pertubuhan Bangsa-Bangsa Bersatu untuk Melindungi Kanak-kanak Rentan dan Keluarga Mereka daripada Malaria](https://www.globenewswire.com/news-release/2024/04/18/2865080/0/ms/EBC-Financial-Group-Bekerjasama-dengan-Bersatu-Tewaskan-Malaria-Kempen-Yayasan-Pertubuhan-Bangsa-Bangsa-Bersatu-untuk-Melindungi-Kanak-kanak-Rentan-dan-Keluarga-Mereka-daripada-Mal.html) (GlobeNewswire)
@@ -288,7 +304,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-16 (dengue)
 
+- [Global clinical development on Dengue antiviral candidate will start, Hyundai Bioscience strives to win emergency use authorization](https://www.investing.com/news/press-releases/global-clinical-development-on-dengue-antiviral-candidate-will-start-hyundai-bioscience-strives-to-win-emergency-use-authorization-93CH-3386038) (Investing.com)
+
+- [Alerta en España por la brutal explosión de casos de dengue en Sudamérica: "Debemos ser precavidos"](https://www.elespanol.com/ciencia/salud/20240419/alerta-espana-brutal-explosion-casos-dengue-sudamerica-debemos-precavidos/848665502_0.html) (Elespanol.com)
+
+- [Dengue: Anvisa recomenda 2 tipos de repelente contra o mosquito](https://catracalivre.com.br/saude-bem-estar/dengue-anvisa-recomenda-2-tipos-de-repelente-contra-o-mosquito/) (Catracalivre.com.br)
+
+- [Dengue no DF: Hospital de Campanha da FAB encerra as atividades](https://www.metropoles.com/distrito-federal/dengue-no-df-hospital-de-campanha-da-fab-encerra-as-atividades) (Metropoles.com)
+
+- [Global clinical development on Dengue antiviral candidate will start, Hyundai Bioscience strives to win emergency use authorization](https://www.investorsobserver.com/news/qm-pr/8064199342354158) (InvestorsObserver)
+
+- [Dengue: idade para imunização é ampliada em seis estados; veja lista](https://saude.ig.com.br/2024-04-18/dengue--veja-lista-de-estados-com-vacinacao-ampliada.html) (Ig.com.br)
+
+- [Quem pode tomar a vacina da dengue? Saúde amplia faixa etária para doses com vencimento próximo](https://valor.globo.com/brasil/noticia/2024/04/18/quem-pode-tomar-a-vacina-da-dengue.ghtml) (Globo)
+
 - [Dengue: 11 estados têm vacinas que vencerão em 30 de abril, diz Nísia](https://www.metropoles.com/brasil/dengue-11-estados-tem-vacinas-que-vencerao-em-30-de-abril-diz-nisia) (Metropoles.com)
+
+- [Opas cita "situação emergencial" e reporta aumento de quase 50% nos casos de dengue nas Américas](https://www.terra.com.br/noticias/mundo/opas-cita-situacao-emergencial-e-reporta-aumento-de-quase-50-nos-casos-de-dengue-nas-americas,a3480dcb1634b57626690dd252717ca6ircp1bxi.html) (Terra.com.br)
+
+- [Casos de dengue en América aumentan casi un 50 % en menos de un mes, según la OPS](https://www.vozdeamerica.com/a/casos-dengue-america-aumentan-50-menos-un-mes-ops/7575665.html) (Vozdeamerica.com)
 
 - [Vacina contra o zika vírus está em desenvolvimento](https://claudia.abril.com.br/saude/vacina-contra-zika-virus) (Abril.com.br)
 
@@ -304,6 +338,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue cases in Americas pass 5.2 million in 'emergency situation'](https://www.marketscreener.com/news/latest/Dengue-cases-in-Americas-pass-5-2-million-in-emergency-situation-46471065/) (Marketscreener.com)
 
+- [Dengue: entenda por que queda de plaquetas nem sempre é sinal de forma grave da doença](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/18/dengue-entenda-por-que-queda-de-plaquetas-nem-sempre-e-sinal-de-forma-grave-da-doenca.ghtml) (Globo)
+
 - [DF, GO e BA ampliam público para a vacina da dengue; veja as idades](https://www.metropoles.com/brasil/estados-ampliam-publico-para-a-vacina-da-dengue-veja-as-idades) (Metropoles.com)
 
 - [Manu, robô de inteligência artificial, tira dúvidas sobre dengue no DF](https://www.metropoles.com/distrito-federal/manu-robo-de-inteligencia-artificial-tira-duvidas-sobre-dengue-no-df) (Metropoles.com)
@@ -313,6 +349,8 @@ Source: [News API](https://newsapi.org/)
 - [Xepa da vacina | Saúde amplia faixa etária para vacinação da dengue](https://tecnologia.ig.com.br/parceiros/canaltech/2024-04-18/xepa-da-vacina---saude-amplia-faixa-etaria-para-vacinacao-da-dengue.html) (Ig.com.br)
 
 - [Design, development, and validation of multi-epitope proteins for serological diagnosis of Zika virus infections and discrimination from dengue virus seropositivity](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012100) (Plos.org)
+
+- [Dos 4 aos 59 anos: faixa etária de vacina contra a dengue é ampliada](https://www.terra.com.br/vida-e-estilo/saude/dos-4-aos-59-anos-faixa-etaria-de-vacina-contra-a-dengue-e-ampliada,702ace5f71ed2b085440abe012e3d60bo74gn7jm.html) (Terra.com.br)
 
 - [Dengue: quase todos os distritos da cidade de SP já enfrentam uma epidemia da doença](https://olhardigital.com.br/2024/04/18/medicina-e-saude/dengue-quase-todos-os-distritos-da-cidade-de-sp-ja-enfrentam-uma-epidemia-da-doenca/) (Olhardigital.com.br)
 
@@ -3772,6 +3810,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: água parada em obras e prédios abandonados preocupa moradores em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/04/dengue-agua-parada-em-obras-e-predios-abandonados-preocupa-moradores-em-campinas.ghtml) (Globo)
 
+- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
+
+- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
+
 ## 24-10 (yersinia)
 
 - [Socio-ecological risk factors associated with human flea infestations of rural household in plague-endemic areas of Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012036) (Plos.org)
@@ -4009,6 +4051,18 @@ Source: [News API](https://newsapi.org/)
 - [Vaccine skepticism on display in Florida](https://www.startribune.com/vaccine-skepticism-on-display-in-florida/600347932/) (Minneapolis Star Tribune)
 
 - [unknown title](https://www.fox2detroit.com/news/two-more-measles-cases-detected-in-michigan-wayne-and-washtenaw-counties) (FOX 2 Detroit)
+
+- [The Week Unwrapped: Measles, karting and TikTok tunes](https://theweek.com/podcasts/the-week-unwrapped-measles-karting-and-tiktok-tunes) (The Week Magazine)
+
+- [Health officials confirm measles case in Washtenaw County, warn of exposure spot](https://www.mlive.com/news/ann-arbor/2024/03/health-officials-confirm-measles-case-in-washtenaw-county-warn-of-exposure-spot.html) (mlive.com)
+
+- [Washtenaw County confirms Michigan’s 3rd case of measles this year](https://www.clickondetroit.com/health/2024/03/03/washtenaw-county-confirms-michigans-3rd-case-of-measles-this-year/) (WDIV ClickOnDetroit)
+
+- [News Flash • Health Department Alerts Public to Local Measle](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669) (Washtenaw.org)
+
+- [Florida is swamped by disease outbreaks as quackery replaces science (Richard Luscombe/The Guardian)](https://www.memeorandum.com/240303/p7) (Memeorandum.com)
+
+- [Health's weekend read includes kidney donations, cancer prevention, measles vaccinations and more](https://www.foxnews.com/health/healths-weekend-read-kidney-donations-cancer-prevention-measles-vaccinations-more) (Fox News)
 
 ## 24-10 (malaria)
 
@@ -4405,6 +4459,24 @@ Source: [News API](https://newsapi.org/)
 - [Bebê morre de dengue e Covid após ser liberada por hospitais](https://brasil.perfil.com/brasil/bebe-morre-de-dengue-e-covid-apos-ser-liberada-por-hospitais.phtml) (Perfil.com)
 
 - [Febre do Oropouche: Amazonas registra 1,6 mil casos e reconhece surto](https://saude.ig.com.br/2024-03-03/amazonas-registra-1-6-mil-casos-e-reconhece-surto-de-febre-do-oropouche.html) (Ig.com.br)
+
+- [Epidemia de dengue faz Natal decretar emergência em saúde](https://jornaldebrasilia.com.br/?p=2720607) (Jornaldebrasilia.com.br)
+
+- [Brasil elogia medidas adotadas pela Itália contra dengue](https://www.terra.com.br/noticias/mundo/brasil-elogia-medidas-adotadas-pela-italia-contra-dengue,b70a9366cdbc032c2ece4767a07307515nmemw03.html) (Terra.com.br)
+
+- [Criança de 9 anos é encontrada morta dentro de casa na Grande BH](https://noticias.r7.com/minas-gerais/crianca-de-9-anos-e-encontrada-morta-dentro-de-casa-na-grande-bh-03032024) (R7.com)
+
+- [Week in pictures: From firefighter protests in Seoul to prayers in Gaza](https://www.aljazeera.com/gallery/2024/3/3/week-in-pictures-from-firefighter-protests-in-seoul-to-prayers-in-gaza) (Al Jazeera English)
+
+- [Populações periféricas são mais vulneráveis à dengue](https://jornaldebrasilia.com.br/noticias/brasil/populacoes-perifericas-sao-mais-vulneraveis-a-dengue/) (Jornaldebrasilia.com.br)
+
+- [Febasgo, Ministério da Saúde e Opas lançam manual sobre dengue para gestantes](https://catracalivre.com.br/saude-bem-estar/febasgo-ministerio-da-saude-e-opas-lancam-manual-sobre-dengue-para-gestantes/) (Catracalivre.com.br)
+
+- [Mirtha Legrand le pidió al Gobierno que la vacuna del dengue sea gratuita](https://www.lanacion.com.ar/espectaculos/mirtha-legrand-le-pidio-al-gobierno-que-la-vacuna-del-dengue-sea-gratuita-nid03032024/) (La Nacion)
+
+- [Fruktade smittor på väg – men ingen övervakar](https://www.svd.se/a/bgyXvl/fruktade-smittor-pa-vag-men-ingen-overvakar) (Svenska Dagbladet)
+
+- [Fruktade smittor på väg – men ingen övervakar](https://www.aftonbladet.se/nyheter/a/9zyb4w/fruktade-smittor-pa-vag-men-ingen-overvakar) (Aftonbladet.se)
 
 ## 24-10 (chikungunya)
 
