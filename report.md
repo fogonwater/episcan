@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2024-04-23 19:05
-- **Most recent article:** 2024-04-22 18:52:27
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-04-24 07:06
+- **Most recent article:** 2024-04-23 06:51:58
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 164 | 180 | 186 | 158 | 138 | 113 | 17 | 956 |
-| measles | 108 | 87 | 44 | 36 | 43 | 40 | 7 | 365 |
-| malaria | 19 | 18 | 7 | 13 | 16 | 29 | 7 | 109 |
-| meningitis | 4 | 8 | 16 | 4 | 15 | 44 | 1 | 92 |
-| zika | 14 | 12 | 21 | 11 | 10 | 8 | 1 | 77 |
-| chikungunya | 18 | 15 | 9 | 12 | 7 | 5 | 2 | 68 |
+| dengue | 178 | 180 | 186 | 158 | 138 | 113 | 27 | 980 |
+| measles | 112 | 87 | 44 | 36 | 43 | 40 | 11 | 373 |
+| malaria | 23 | 18 | 7 | 13 | 16 | 29 | 9 | 115 |
+| meningitis | 5 | 8 | 16 | 4 | 15 | 44 | 1 | 93 |
+| zika | 15 | 12 | 21 | 11 | 10 | 8 | 1 | 78 |
+| chikungunya | 19 | 15 | 9 | 12 | 7 | 5 | 2 | 69 |
 | mpox | 7 | 4 | 6 | 12 | 3 | 13 | 1 | 46 |
 | rabies | 6 | 9 | 3 | 16 | 8 | 3 | 0 | 45 |
-| pertussis | 5 | 3 | 6 | 7 | 9 | 7 | 2 | 39 |
-| sarampión | 3 | 12 | 3 | 5 | 13 | 0 | 3 | 39 |
+| pertussis | 5 | 3 | 6 | 7 | 9 | 7 | 3 | 40 |
+| sarampión | 3 | 12 | 3 | 5 | 13 | 0 | 4 | 40 |
 | yersinia | 3 | 3 | 1 | 3 | 0 | 2 | 0 | 12 |
 | leptospirosis | 1 | 0 | 0 | 1 | 3 | 3 | 1 | 9 |
 | typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 0 | 4 |
@@ -38,6 +38,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-17 (sarampión)
 
+- [Vacunación contra sarampión está rezagada: apenas se ha colocado mitad de las dosis](https://www.nacion.com/el-pais/salud/vacunacion-contra-sarampion-esta-rezagada-apenas/Q35A54S3L5BX5LPS6Z2Y7FKW5U/story/) (Nacion.com)
+
 - [El ECDC alerta de un aumento de casos de sarampión y tosferina, pese a ser prevenibles mediante vacunación](https://www.infosalus.com/salud-investigacion/noticia-ecdc-alerta-aumento-casos-sarampion-tosferina-pese-ser-prevenibles-vacunacion-20240422132731.html) (Infosalus.com)
 
 - [La Comisión de Vacunación del COEGI alerta de posibles brotes de enfermedades que se pueden prevenir con vacunas](https://www.elconfidencialdigital.com/articulo/comunicados/comision-vacunacion-coegi-alerta-posibles-brotes-enfermedades-que-pueden-prevenir-vacunas/20240422103221765289.html) (Elconfidencialdigital.com)
@@ -45,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 - [México, por primera vez en Semana de Vacunación en las Américas](https://www.jornada.com.mx/2024/04/22/sociedad/030n2soc) (Jornada.com.mx)
 
 ## 24-17 (pertussis)
+
+- [With whooping cough cases on the rise, do you need a booster vaccine?](https://www.foxnews.com/health/whooping-cough-cases-rise-do-you-need-booster-vaccine) (Fox News)
 
 - [Vaccine-preventable disease is on the rise in Europe](https://www.euractiv.com/section/health-consumers/news/vaccine-preventable-disease-is-on-the-rise-in-europe/) (EURACTIV)
 
@@ -59,6 +63,14 @@ Source: [News API](https://newsapi.org/)
 - [Global, regional, and national burden of meningitis and its aetiologies, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019](http://eprints.lse.ac.uk/122732/) (Lse.ac.uk)
 
 ## 24-17 (measles)
+
+- [West Virginia has its first measles case in 15 years](https://www.cbsnews.com/pittsburgh/news/west-virginia-first-measles-case-since-2009/) (CBS News)
+
+- [West Virginia confirms first measles case since 2009](https://abcnews.go.com/Health/wireStory/west-virginia-confirms-measles-case-2009-109508079) (ABC News)
+
+- [West Virginia confirms first measles case since 2009](https://www.startribune.com/west-virginia-confirms-first-measles-case-since-2009/600360806/) (Minneapolis Star Tribune)
+
+- [Possible measles exposure at children's museum during total eclipse event: Officials](https://abcnews.go.com/US/possible-measles-exposure-indiana-childrens-museum-total-eclipse-event/story?id=109490250) (ABC News)
 
 - [Vaccine-preventable disease is on the rise in Europe](https://www.euractiv.com/section/health-consumers/news/vaccine-preventable-disease-is-on-the-rise-in-europe/) (EURACTIV)
 
@@ -75,6 +87,10 @@ Source: [News API](https://newsapi.org/)
 - [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
 
 ## 24-17 (malaria)
+
+- [World Malaria Day 2024: Prevention Tips To Keep You And Your Family Safe](https://www.ndtv.com/health/world-malaria-day-2024-prevention-tips-to-keep-you-and-your-family-safe-5503556) (NDTV News)
+
+- [Why malaria remains one of the world’s deadliest diseases](https://nation.africa/kenya/health/why-malaria-remains-one-of-the-world-s-deadliest-diseases-4599508) (Nation.africa)
 
 - [Roundup: Scientists call for more community engagement to defeat malaria](https://www.thestar.com.my/news/world/2024/04/23/roundup-scientists-call-for-more-community-engagement-to-defeat-malaria) (The Star Online)
 
@@ -96,6 +112,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-17 (dengue)
 
+- [Quais cidades estão vacinando contra a dengue? Confira lista](https://valor.globo.com/brasil/noticia/2024/04/23/quais-cidades-estao-vacinando-contra-a-dengue.ghtml) (Globo)
+
+- [5 cuidados que as gestantes devem ter durante a epidemia de dengue](https://saude.ig.com.br/parceiros/edicase/2024-04-22/5-cuidados-que-as-gestantes-devem-ter-durante-a-epidemia-de-dengue.html) (Ig.com.br)
+
+- [¡Buena noticia! Cartagena logra mantener tasa de mortalidad por dengue en cero](https://www.eluniversal.com.co/cartagena/buena-noticia-cartagena-logra-mantener-tasa-de-mortalidad-por-dengue-en-cero-OK10389997) (Eluniversal.com.co)
+
+- [Menino de dois anos que contraiu dengue e pneumonia morre no Paraná](https://www.terra.com.br/noticias/brasil/cidades/menino-de-dois-anos-que-contraiu-dengue-e-pneumonia-morre-no-parana,f5eed3ba2a70f58533254275866d5f995o8g5qmm.html) (Terra.com.br)
+
+- [Porto Alegre decreta situação de emergência em razão da dengue](https://www.terra.com.br/noticias/porto-alegre-decreta-situacao-de-emergencia-em-razao-da-dengue,46a02c296d391fc407e846c01f364561nbmg5m3e.html) (Terra.com.br)
+
+- [São Paulo tem apenas dois bairros sem epidemia de dengue](https://valor.globo.com/brasil/noticia/2024/04/22/sao-paulo-tem-apenas-dois-bairros-sem-epidemia-de-dengue.ghtml) (Globo)
+
+- [5 cuidados que as gestantes devem ter durante a epidemia de dengue](https://www.terra.com.br/vida-e-estilo/saude/5-cuidados-que-as-gestantes-devem-ter-durante-a-epidemia-de-dengue,42c233ec8b5c45dd022b800d8a409e9ea673tew1.html) (Terra.com.br)
+
+- [Campinas aplica 32,9% das doses da vacina contra a dengue; saiba quem pode e onde tomar](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/22/campinas-aplica-329percent-das-doses-da-vacina-contra-a-dengue-saiba-quem-pode-e-onde-tomar.ghtml) (Globo)
+
 - [O relato de médico que perdeu paciente para dengue pela 1ª vez em 20 anos: 'O Brasil perdeu Maria'](https://www.bbc.com/portuguese/articles/cx9zwq1rev7o) (BBC News)
 
 - [Vacina da dengue já está disponível no SUS; veja quem pode tomar](https://delas.ig.com.br/parceiros/selecoes/2024-04-22/vacina-da-dengue-ja-esta-disponivel-no-sus--veja-quem-pode-tomar.html) (Ig.com.br)
@@ -104,9 +136,13 @@ Source: [News API](https://newsapi.org/)
 
 - [On Earth Day, Impact Of Climate Change On Infectious Diseases Looms](https://www.forbes.com/sites/davewessner/2024/04/22/on-earth-day-impact-of-climate-change-on-infectious-diseases-looms/) (Forbes)
 
+- [Health Minister pushes Wolbachia for dengue fight at Bali summit](https://en.antaranews.com/news/311469/health-minister-pushes-wolbachia-for-dengue-fight-at-bali-summit) (Antaranews.com)
+
 - [Brasil atinge 1,6 mil mortes por dengue](https://olhardigital.com.br/2024/04/22/medicina-e-saude/brasil-atinge-16-mil-mortes-por-dengue/) (Olhardigital.com.br)
 
 - [Global Dengue Pipeline Landscape Report 2024: Therapeutic Assessment and Drug Analysis of 20+ Drugs](https://www.globenewswire.com/news-release/2024/04/22/2866935/28124/en/Global-Dengue-Pipeline-Landscape-Report-2024-Therapeutic-Assessment-and-Drug-Analysis-of-20-Drugs.html) (GlobeNewswire)
+
+- [Climate change driving up dengue infections: Ministry](https://en.antaranews.com/news/311427/climate-change-driving-up-dengue-infections-ministry) (Antaranews.com)
 
 - [Changement climatique : l’ONU alerte sur le nombre «impressionnants» de travailleurs déjà exposés à des risques pour leur santé](https://www.liberation.fr/societe/sante/changement-climatique-lonu-alerte-sur-le-nombre-impressionnants-de-travailleurs-deja-exposes-a-des-risques-pour-leur-sante-20240422_6KHWMKM2ZZALDLO7URM7KZYRV4/) (Libération)
 
@@ -3222,6 +3258,8 @@ Source: [News API](https://newsapi.org/)
 
 - [PharmaMar frena la inversión del área de virología y cierra el estudio Covid](https://www.eleconomista.es/salud/noticias/12715539/03/24/pharmamar-frena-la-inversion-del-area-de-virologia-y-cierra-el-estudio-covid.html) (Eleconomista.es)
 
+- [Crise climática potencializa casos de dengue no Brasil](https://www.metropoles.com/brasil/crise-climatica-dengue-brasil) (Metropoles.com)
+
 ## 24-11 (yersinia)
 
 - [在石器时代，接吻可能会死](http://jandan.net/p/115919) (Jandan.net)
@@ -3295,6 +3333,8 @@ Source: [News API](https://newsapi.org/)
 - [Infektionskrankheit: Selten, aber gefährlich: Was Eltern über Meningokokken wissen müssen](https://www.stern.de/panorama/wissen/meningokokken--was-eltern-ueber-die-infektionskrankheit-wissen-muessen-34523946.html) (STERN.de)
 
 - [Nigeria: Over 500 Recover From Meningitis Outbreak in Yobe](https://allafrica.com/stories/202403110296.html) (AllAfrica - Top Africa News)
+
+- [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
 
 ## 24-11 (measles)
 
@@ -3514,6 +3554,14 @@ Source: [News API](https://newsapi.org/)
 
 - [MLHU reports confirmed case of measles in London, Ont. - London | Globalnews.ca](https://globalnews.ca/news/10348206/mlhu-measles-london-ont/) (Global News)
 
+- [CDPH reports second measles case at Pilsen migrant shelter](http://www.nbcchicago.com/news/health/health-wellness-science-news/second-case-of-measles-confirmed-at-pilsen-migrant-shelter-cdph-says/3378540/) (NBC Chicago)
+
+- [Another migrant child at Pilsen shelter diagnosed with measles](https://www.fox32chicago.com/news/chicago-migrant-child-pilsen-shelter-measles) (FOX 32 Chicago)
+
+- [Measles outbreak Chicago: Second child diagnosed at Pilsen migrant shelter in third city case, CDPH says](https://abc7chicago.com/measles-chicago-outbreak-pilsen-migrant-shelter/14510818/) (WLS-TV)
+
+- [No new cases reported after Indiana measles outbreak](http://www.chicagotribune.com/2024/03/10/no-new-cases-reported-after-indiana-measles-outbreak/) (Chicago Tribune)
+
 ## 24-11 (malaria)
 
 - [Malaria, viruela, polio: así es como sabemos que la vida en el antiguo Egipto estaba devastada por las enfermedades (ENG)](https://www.meneame.net/m/cultura/malaria-viruela-polio-asi-como-sabemos-vida-antiguo-egipto-eng) (Meneame.net)
@@ -3553,6 +3601,14 @@ Source: [News API](https://newsapi.org/)
 - [El Museo Nacional de Ciencias Naturales inaugura la exposición 'Misión Malaria: una mirada histórica'](https://www.infosalus.com/salud-investigacion/noticia-museo-nacional-ciencias-naturales-inaugura-exposicion-mision-malaria-mirada-historica-20240311143354.html) (Infosalus.com)
 
 - [Why the Credit Card Competition Act Won’t Lower Merchant Interchange Fees](https://www.pymnts.com/credit-cards/2024/why-the-credit-card-competition-act-wont-lower-merchant-interchange-fees/) (pymnts.com)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.investing.com/news/stock-market-news/indias-serum-looks-beyond-covid-with-new-vaccines-for-malaria-dengue-3331513) (Investing.com)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-new-vaccines-malaria-dengue-4185221) (CNA)
+
+- [India's Serum looks beyond COVID-19 with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-19-new-vaccines-malaria-dengue-4185221) (CNA)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/) (Marketscreener.com)
 
 ## 24-11 (leptospirosis)
 
@@ -3888,6 +3944,34 @@ Source: [News API](https://newsapi.org/)
 
 - [Brazil’s staggering dengue fever crisis is a warning to the world](https://www.bostonglobe.com/2024/03/10/world/brazils-staggering-dengue-fever-crisis-is-warning-world/) (The Boston Globe)
 
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.investing.com/news/stock-market-news/indias-serum-looks-beyond-covid-with-new-vaccines-for-malaria-dengue-3331513) (Investing.com)
+
+- [Crise climática potencializa casos de dengue no Brasil](https://www.metropoles.com/brasil/crise-climatica-dengue-brasil) (Metropoles.com)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-new-vaccines-malaria-dengue-4185221) (CNA)
+
+- [India's Serum looks beyond COVID-19 with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-19-new-vaccines-malaria-dengue-4185221) (CNA)
+
+- [Quaest: 26% dos brasileiros não pretendem tomar vacina contra a dengue](https://saude.ig.com.br/2024-03-10/pesquisa-quaest-vacinacao-contra-dengue.html) (Ig.com.br)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/) (Marketscreener.com)
+
+- [Repelente: saiba os cuidados para utilizar com segurança](https://www.terra.com.br/vida-e-estilo/repelente-saiba-os-cuidados-para-utilizar-com-seguranca,3f77f14b7787afaf0a5d71eaecb724d1fof5nn19.html) (Terra.com.br)
+
+- [Em um mês, casos de dengue dobram em São Paulo](https://jornaldebrasilia.com.br/noticias/brasil/em-um-mes-casos-de-dengue-dobram-em-sao-paulo/) (Jornaldebrasilia.com.br)
+
+- [Minas Gerais responde por um em cada três casos de dengue no país](https://saude.ig.com.br/2024-03-10/engue-casos-minas-gerais-brasil.html) (Ig.com.br)
+
+- [Cidade do Rio registra mais de 2 mil casos de dengue em 24 horas](https://saude.ig.com.br/2024-03-10/cidade-do-rio-registra-mais-de-2-mil-casos-de-dengue-em-24-horas.html) (Ig.com.br)
+
+- [Dengue: menores terão de esperar até meia hora após vacinação. Entenda](https://www.metropoles.com/distrito-federal/dengue-menores-terao-de-esperar-ate-meia-hora-apos-vacinacao-entenda) (Metropoles.com)
+
+- [Comunidades más afectadas por dengue recibirán repelentes y toldos contra mosquitos](https://www.nacion.com/el-pais/salud/comunidades-mas-afectadas-por-dengue-recibiran/CPDPFRM3CFAQ3J73RNFY7Z3W3I/story/) (Nacion.com)
+
+- [5 plantas que realmente afastam o mosquito da dengue](https://www.terra.com.br/vida-e-estilo/saude/5-plantas-que-realmente-afastam-o-mosquito-da-dengue,1fb5fe768a6d201675d4c8f49e636f57jmw0p7sg.html) (Terra.com.br)
+
+- [Co-infecção de Covid e Dengue: riscos ao contrair ambas ao mesmo tempo](https://saude.ig.com.br/2024-03-10/co-infeccao-de-covid-e-dengue--riscos-ao-contrair-ambas-ao-mesmo-tempo.html) (Ig.com.br)
+
 ## 24-11 (chikungunya)
 
 - [Estudo revela que chikungunya causa danos cerebrais e indica necessidade de mudanças no atendimento](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/16/estudo-revela-que-chikungunya-causa-danos-cerebrais-e-indica-necessidade-de-mudancas-no-atendimento.ghtml) (Globo)
@@ -3925,3 +4009,5 @@ Source: [News API](https://newsapi.org/)
 - [Entenda por que cães e gatos não pegam dengue, mas podem ser contaminados pelo Aedes aegypti](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/11/entenda-por-que-caes-e-gatos-nao-pegam-dengue-mas-podem-ser-contaminados-pelo-aedes-aegypti.ghtml) (Globo)
 
 - [Número de mortes por chikungunya sobe para 20 em Minas Gerais](https://noticias.r7.com/minas-gerais/mg-record/videos/numero-de-mortes-por-chikungunya-sobe-para-20-em-minas-gerais-11032024) (R7.com)
+
+- [Crise climática potencializa casos de dengue no Brasil](https://www.metropoles.com/brasil/crise-climatica-dengue-brasil) (Metropoles.com)
