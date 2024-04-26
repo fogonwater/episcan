@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2024-04-25 19:05
-- **Most recent article:** 2024-04-24 19:00:12
+- **New articles in last harvest:** 28
+- **Last harvest:** 2024-04-26 07:06
+- **Most recent article:** 2024-04-25 06:27:31
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-11 | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 164 | 180 | 186 | 158 | 138 | 113 | 57 | 996 |
-| measles | 108 | 87 | 44 | 36 | 43 | 40 | 16 | 374 |
-| malaria | 19 | 18 | 7 | 13 | 16 | 29 | 29 | 131 |
-| meningitis | 4 | 8 | 16 | 4 | 15 | 44 | 3 | 94 |
-| zika | 14 | 12 | 21 | 11 | 10 | 8 | 1 | 77 |
-| chikungunya | 18 | 15 | 9 | 12 | 7 | 5 | 2 | 68 |
+| dengue | 178 | 180 | 186 | 158 | 138 | 113 | 66 | 1019 |
+| measles | 112 | 87 | 44 | 36 | 43 | 40 | 19 | 381 |
+| malaria | 23 | 18 | 7 | 13 | 16 | 29 | 48 | 154 |
+| meningitis | 5 | 8 | 16 | 4 | 15 | 44 | 3 | 95 |
+| zika | 15 | 12 | 21 | 11 | 10 | 8 | 1 | 78 |
+| chikungunya | 19 | 15 | 9 | 12 | 7 | 5 | 3 | 70 |
 | mpox | 7 | 4 | 6 | 12 | 3 | 13 | 3 | 48 |
 | rabies | 6 | 9 | 3 | 16 | 8 | 3 | 1 | 46 |
-| sarampión | 3 | 12 | 3 | 5 | 13 | 0 | 6 | 42 |
+| sarampión | 3 | 12 | 3 | 5 | 13 | 0 | 7 | 43 |
 | pertussis | 5 | 3 | 6 | 7 | 9 | 7 | 3 | 40 |
 | yersinia | 3 | 3 | 1 | 3 | 0 | 2 | 0 | 12 |
 | leptospirosis | 1 | 0 | 0 | 1 | 3 | 3 | 1 | 9 |
@@ -37,6 +37,8 @@ Source: [News API](https://newsapi.org/)
 - [On Earth Day, Impact Of Climate Change On Infectious Diseases Looms](https://www.forbes.com/sites/davewessner/2024/04/22/on-earth-day-impact-of-climate-change-on-infectious-diseases-looms/) (Forbes)
 
 ## 24-17 (sarampión)
+
+- [Expertos piden actualizar los conocimientos sobre sarampión](https://www.infosalus.com/salud-investigacion/noticia-expertos-piden-actualizar-conocimientos-sarampion-20240425071350.html) (Infosalus.com)
 
 - [Vacuna contra sarampión salvó 94 millones de vidas en últimos 50 años](https://www.nacion.com/ciencia/salud/vacuna-contra-sarampion-salvo-94-millones-de-vidas/PZDCU2BSFVGG5ATJ6TYKOMCQ7E/story/) (Nacion.com)
 
@@ -80,6 +82,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-17 (measles)
 
+- [Measles case in Vermont reminds families that it's crucial to vaccinate children](https://www.mynbc5.com/article/measles-case-in-vermont-reminds-families-that-its-crucial-to-vaccinate-children/60595534) (WPTZ)
+
+- [AHS issues public alert for potential measles exposures in Edmonton](https://www.cbc.ca/news/canada/edmonton/ahs-issues-public-alert-for-potential-measles-exposures-in-edmonton-1.7184161) (CBC News)
+
+- [Person with measles visited Edmonton airport, Stollery Children’s Hospital: AHS - Edmonton | Globalnews.ca](https://globalnews.ca/news/10447730/edmonton-airport-hospital-measles-exposure/) (Global News)
+
 - [Two more measles cases confirmed - bringing total number this year to 18](https://www.thejournal.ie/two-more-measles-cases-confirmed-bringing-total-number-this-year-to-18-6363230-Apr2024/) (TheJournal.ie)
 
 - [New Hampshire’s GOP Is Taking a Stand—Against the Polio Vaccine](https://www.mmo-champion.com/threads/2649513-New-Hampshire’s-GOP-Is-Taking-a-Stand—Against-the-Polio-Vaccine?p=54445445#post54445445) (Mmo-champion.com)
@@ -113,6 +121,44 @@ Source: [News API](https://newsapi.org/)
 - [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
 
 ## 24-17 (malaria)
+
+- [Climate change is bringing malaria to new areas. In Africa, it never left](https://timesofindia.indiatimes.com/home/environment/climate-change-is-bringing-malaria-to-new-areas-in-africa-it-never-left/articleshow/109584106.cms) (The Times of India)
+
+- [Boli foarte periculoase transmise de țânțari se răspândesc în Europa din cauza crizei climatice. „Mai multe cazuri și posibil decese”](https://adevarul.ro/stiri-interne/sanatate/boli-foarte-periculoase-transmise-de-tantari-se-2357044.html) (Adevarul.ro)
+
+- [Climate change is bringing malaria to new areas. In Africa, it never left](https://abcnews.go.com/International/wireStory/climate-change-bringing-malaria-new-areas-africa-left-109606973) (ABC News)
+
+- [World Malaria Day 2024: Tips for speedy recovery](https://economictimes.indiatimes.com/news/web-stories/world-malaria-day-2024-tips-for-speedy-recovery/slideshow/109582714.cms) (The Times of India)
+
+- [Climate change is bringing malaria to new areas. In Africa, it never left](https://abcnews.go.com/Health/wireStory/climate-change-bringing-malaria-new-areas-africa-left-109606978) (ABC News)
+
+- [Malaria is still killing people in Kenya, but a vaccine and local drug production may help](https://abcnews.go.com/Health/wireStory/malaria-killing-people-kenya-vaccine-local-drug-production-109606736) (ABC News)
+
+- [Malaria is still killing people in Kenya, but a vaccine and local drug production may help](https://abcnews.go.com/International/wireStory/malaria-killing-people-kenya-vaccine-local-drug-production-109606731) (ABC News)
+
+- [World Malaria Day 2024: Understanding The Consequences of Malaria During Pregnancy](https://doctor.ndtv.com/living-healthy/world-malaria-day-2024-understanding-the-consequences-of-malaria-during-pregnancy-5518329) (NDTV News)
+
+- [Climate change is bringing malaria to new areas. In Africa, it never left](https://www.startribune.com/climate-change-is-bringing-malaria-to-new-areas-in-africa-it-never-left/600361495/) (Minneapolis Star Tribune)
+
+- [Diseases spread by mosquitoes, other than dengue and malaria](https://economictimes.indiatimes.com/news/web-stories/diseases-spread-by-mosquitoes-other-than-dengue-and-malaria/slideshow/109582204.cms) (The Times of India)
+
+- [Malaria is still killing people in Kenya, but a vaccine and local drug production may help](https://www.startribune.com/malaria-is-still-killing-people-in-kenya-but-a-vaccine-and-local-drug-production-may-help/600361494/) (Minneapolis Star Tribune)
+
+- [Besondere Gefahr für Schwangere](https://science.orf.at/stories/3224729/) (Science.orf.at)
+
+- [Expert: Bolile transmise de ţânţari se răspândesc în Europa din cauza crizei climatice](https://www.mediafax.ro/stiinta-sanatate/expert-bolile-transmise-de-tantari-se-raspandesc-in-europa-din-cauza-crizei-climatice-22355575) (Mediafax.ro)
+
+- [Welt-Malaria-Tag: "Machen nicht die Fortschritte, die wir machen sollten"](https://www.tagesschau.de/wissen/gesundheit/welt-malaria-tag-102.html) (tagesschau.de)
+
+- [World Malaria Day 2024: Date, Theme And History Of This Day](https://www.ndtv.com/offbeat/world-malaria-day-2024-date-theme-and-history-of-this-day-5518114) (NDTV News)
+
+- [World Malaria Day 2024: Know Theme, Significance And Prevention Tips](https://www.ndtv.com/health/world-malaria-day-2024-know-theme-significance-and-prevention-tips-5517963) (NDTV News)
+
+- [Autochthonous Plasmodium vivax Infections, Florida, USA, 2023](https://wwwnc.cdc.gov/eid/article/30/6/24-0336_article) (Cdc.gov)
+
+- [Over half of world's population could be at risk of mosquito-borne diseases, experts warn](https://news.sky.com/story/over-half-of-worlds-population-could-be-at-risk-of-mosquito-borne-diseases-experts-warn-13122450) (Sky.com)
+
+- [Can climate change accelerate transmission of malaria? Pioneering research sheds light on impacts of temperature](https://www.sciencedaily.com/releases/2024/04/240424160505.htm) (Science Daily)
 
 - [Can climate change accelerate transmission of malaria? New research sheds light on impacts of temperature](https://phys.org/news/2024-04-climate-transmission-malaria-impacts-temperature.html) (Phys.Org)
 
@@ -177,6 +223,24 @@ Source: [News API](https://newsapi.org/)
 - [Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023](https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/) (Legalinsurrection.com)
 
 ## 24-17 (dengue)
+
+- [Boli foarte periculoase transmise de țânțari se răspândesc în Europa din cauza crizei climatice. „Mai multe cazuri și posibil decese”](https://adevarul.ro/stiri-interne/sanatate/boli-foarte-periculoase-transmise-de-tantari-se-2357044.html) (Adevarul.ro)
+
+- [Diseases spread by mosquitoes, other than dengue and malaria](https://economictimes.indiatimes.com/news/web-stories/diseases-spread-by-mosquitoes-other-than-dengue-and-malaria/slideshow/109582204.cms) (The Times of India)
+
+- [Expert: Bolile transmise de ţânţari se răspândesc în Europa din cauza crizei climatice](https://www.mediafax.ro/stiinta-sanatate/expert-bolile-transmise-de-tantari-se-raspandesc-in-europa-din-cauza-crizei-climatice-22355575) (Mediafax.ro)
+
+- [Over half of world's population could be at risk of mosquito-borne diseases, experts warn](https://news.sky.com/story/over-half-of-worlds-population-could-be-at-risk-of-mosquito-borne-diseases-experts-warn-13122450) (Sky.com)
+
+- [Daniella Cicarelli faz alerta sobre grave doença: 'Riscos'](https://www.terra.com.br/diversao/gente/daniella-cicarelli-faz-alerta-sobre-grave-doenca-riscos,d0057c091d437be120924b501d347a19nslxbzzn.html) (Terra.com.br)
+
+- [Louveira confirma primeira morte por dengue e total na região de Campinas chega a 26](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/24/louveira-confirma-primeira-morte-por-dengue-e-total-na-regiao-de-campinas-chega-a-26.ghtml) (Globo)
+
+- [Epidemia de dengue afeta adesão à vacinação contra a gripe em grupos prioritários em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/24/epidemia-de-dengue-afeta-adesao-a-vacinacao-contra-a-gripe-em-grupos-prioritarios-em-campinas.ghtml) (Globo)
+
+- [Curitiba confirma 1.121 novos casos de dengue e tem 23 pacientes internados com a doença](https://www.terra.com.br/noticias/brasil/cidades/curitiba-confirma-1121-novos-casos-de-dengue-e-tem-23-pacientes-internados-com-a-doenca,6c146307a2cf3f83425668b2813a27causm4fwct.html) (Terra.com.br)
+
+- [Dengue: número de casos já é o dobro em relação ao registrado no ano passado](https://www.terra.com.br/vida-e-estilo/saude/dengue-numero-de-casos-ja-e-o-dobro-em-relacao-ao-registrado-no-ano-passado,73979abfce10ef7ed2a3ff573cdc0e1acun10s31.html) (Terra.com.br)
 
 - [Mosquitos parecidos com o da dengue? Veja como identificar](https://delas.ig.com.br/parceiros/selecoes/2024-04-24/mosquitos-parecidos-com-o-da-dengue--veja-como-identificar.html) (Ig.com.br)
 
@@ -293,6 +357,8 @@ Source: [News API](https://newsapi.org/)
 - [Terkena Penyakit DBD, Berat Badan Fairuz A Rafiq Turun Drastis](https://www.inews.id/lifestyle/health/terkena-penyakit-dbd-berat-badan-fairuz-a-rafiq-turun-drastis) (Inews.id)
 
 ## 24-17 (chikungunya)
+
+- [Diseases spread by mosquitoes, other than dengue and malaria](https://economictimes.indiatimes.com/news/web-stories/diseases-spread-by-mosquitoes-other-than-dengue-and-malaria/slideshow/109582204.cms) (The Times of India)
 
 - [El ECDC informa de 160.000 casos y 50 muertes en todo el mundo por el virus Chikungunya en 2024](https://www.infosalus.com/salud-investigacion/noticia-ecdc-informa-160000-casos-50-muertes-todo-mundo-virus-chikungunya-2024-20240422173531.html) (Infosalus.com)
 
@@ -3384,6 +3450,8 @@ Source: [News API](https://newsapi.org/)
 
 - [PharmaMar frena la inversión del área de virología y cierra el estudio Covid](https://www.eleconomista.es/salud/noticias/12715539/03/24/pharmamar-frena-la-inversion-del-area-de-virologia-y-cierra-el-estudio-covid.html) (Eleconomista.es)
 
+- [Crise climática potencializa casos de dengue no Brasil](https://www.metropoles.com/brasil/crise-climatica-dengue-brasil) (Metropoles.com)
+
 ## 24-11 (yersinia)
 
 - [在石器时代，接吻可能会死](http://jandan.net/p/115919) (Jandan.net)
@@ -3457,6 +3525,8 @@ Source: [News API](https://newsapi.org/)
 - [Infektionskrankheit: Selten, aber gefährlich: Was Eltern über Meningokokken wissen müssen](https://www.stern.de/panorama/wissen/meningokokken--was-eltern-ueber-die-infektionskrankheit-wissen-muessen-34523946.html) (STERN.de)
 
 - [Nigeria: Over 500 Recover From Meningitis Outbreak in Yobe](https://allafrica.com/stories/202403110296.html) (AllAfrica - Top Africa News)
+
+- [Sarah Almagro, campeona de surf sin piernas ni brazos: «El mar trata a todos por igual»](https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html) (Www.abc.es)
 
 ## 24-11 (measles)
 
@@ -3676,6 +3746,14 @@ Source: [News API](https://newsapi.org/)
 
 - [MLHU reports confirmed case of measles in London, Ont. - London | Globalnews.ca](https://globalnews.ca/news/10348206/mlhu-measles-london-ont/) (Global News)
 
+- [CDPH reports second measles case at Pilsen migrant shelter](http://www.nbcchicago.com/news/health/health-wellness-science-news/second-case-of-measles-confirmed-at-pilsen-migrant-shelter-cdph-says/3378540/) (NBC Chicago)
+
+- [Another migrant child at Pilsen shelter diagnosed with measles](https://www.fox32chicago.com/news/chicago-migrant-child-pilsen-shelter-measles) (FOX 32 Chicago)
+
+- [Measles outbreak Chicago: Second child diagnosed at Pilsen migrant shelter in third city case, CDPH says](https://abc7chicago.com/measles-chicago-outbreak-pilsen-migrant-shelter/14510818/) (WLS-TV)
+
+- [No new cases reported after Indiana measles outbreak](http://www.chicagotribune.com/2024/03/10/no-new-cases-reported-after-indiana-measles-outbreak/) (Chicago Tribune)
+
 ## 24-11 (malaria)
 
 - [Malaria, viruela, polio: así es como sabemos que la vida en el antiguo Egipto estaba devastada por las enfermedades (ENG)](https://www.meneame.net/m/cultura/malaria-viruela-polio-asi-como-sabemos-vida-antiguo-egipto-eng) (Meneame.net)
@@ -3715,6 +3793,14 @@ Source: [News API](https://newsapi.org/)
 - [El Museo Nacional de Ciencias Naturales inaugura la exposición 'Misión Malaria: una mirada histórica'](https://www.infosalus.com/salud-investigacion/noticia-museo-nacional-ciencias-naturales-inaugura-exposicion-mision-malaria-mirada-historica-20240311143354.html) (Infosalus.com)
 
 - [Why the Credit Card Competition Act Won’t Lower Merchant Interchange Fees](https://www.pymnts.com/credit-cards/2024/why-the-credit-card-competition-act-wont-lower-merchant-interchange-fees/) (pymnts.com)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.investing.com/news/stock-market-news/indias-serum-looks-beyond-covid-with-new-vaccines-for-malaria-dengue-3331513) (Investing.com)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-new-vaccines-malaria-dengue-4185221) (CNA)
+
+- [India's Serum looks beyond COVID-19 with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-19-new-vaccines-malaria-dengue-4185221) (CNA)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/) (Marketscreener.com)
 
 ## 24-11 (leptospirosis)
 
@@ -4050,6 +4136,34 @@ Source: [News API](https://newsapi.org/)
 
 - [Brazil’s staggering dengue fever crisis is a warning to the world](https://www.bostonglobe.com/2024/03/10/world/brazils-staggering-dengue-fever-crisis-is-warning-world/) (The Boston Globe)
 
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.investing.com/news/stock-market-news/indias-serum-looks-beyond-covid-with-new-vaccines-for-malaria-dengue-3331513) (Investing.com)
+
+- [Crise climática potencializa casos de dengue no Brasil](https://www.metropoles.com/brasil/crise-climatica-dengue-brasil) (Metropoles.com)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-new-vaccines-malaria-dengue-4185221) (CNA)
+
+- [India's Serum looks beyond COVID-19 with new vaccines for malaria, dengue](https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-19-new-vaccines-malaria-dengue-4185221) (CNA)
+
+- [Quaest: 26% dos brasileiros não pretendem tomar vacina contra a dengue](https://saude.ig.com.br/2024-03-10/pesquisa-quaest-vacinacao-contra-dengue.html) (Ig.com.br)
+
+- [India's Serum looks beyond COVID with new vaccines for malaria, dengue](https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/) (Marketscreener.com)
+
+- [Repelente: saiba os cuidados para utilizar com segurança](https://www.terra.com.br/vida-e-estilo/repelente-saiba-os-cuidados-para-utilizar-com-seguranca,3f77f14b7787afaf0a5d71eaecb724d1fof5nn19.html) (Terra.com.br)
+
+- [Em um mês, casos de dengue dobram em São Paulo](https://jornaldebrasilia.com.br/noticias/brasil/em-um-mes-casos-de-dengue-dobram-em-sao-paulo/) (Jornaldebrasilia.com.br)
+
+- [Minas Gerais responde por um em cada três casos de dengue no país](https://saude.ig.com.br/2024-03-10/engue-casos-minas-gerais-brasil.html) (Ig.com.br)
+
+- [Cidade do Rio registra mais de 2 mil casos de dengue em 24 horas](https://saude.ig.com.br/2024-03-10/cidade-do-rio-registra-mais-de-2-mil-casos-de-dengue-em-24-horas.html) (Ig.com.br)
+
+- [Dengue: menores terão de esperar até meia hora após vacinação. Entenda](https://www.metropoles.com/distrito-federal/dengue-menores-terao-de-esperar-ate-meia-hora-apos-vacinacao-entenda) (Metropoles.com)
+
+- [Comunidades más afectadas por dengue recibirán repelentes y toldos contra mosquitos](https://www.nacion.com/el-pais/salud/comunidades-mas-afectadas-por-dengue-recibiran/CPDPFRM3CFAQ3J73RNFY7Z3W3I/story/) (Nacion.com)
+
+- [5 plantas que realmente afastam o mosquito da dengue](https://www.terra.com.br/vida-e-estilo/saude/5-plantas-que-realmente-afastam-o-mosquito-da-dengue,1fb5fe768a6d201675d4c8f49e636f57jmw0p7sg.html) (Terra.com.br)
+
+- [Co-infecção de Covid e Dengue: riscos ao contrair ambas ao mesmo tempo](https://saude.ig.com.br/2024-03-10/co-infeccao-de-covid-e-dengue--riscos-ao-contrair-ambas-ao-mesmo-tempo.html) (Ig.com.br)
+
 ## 24-11 (chikungunya)
 
 - [Estudo revela que chikungunya causa danos cerebrais e indica necessidade de mudanças no atendimento](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/16/estudo-revela-que-chikungunya-causa-danos-cerebrais-e-indica-necessidade-de-mudancas-no-atendimento.ghtml) (Globo)
@@ -4087,3 +4201,5 @@ Source: [News API](https://newsapi.org/)
 - [Entenda por que cães e gatos não pegam dengue, mas podem ser contaminados pelo Aedes aegypti](https://g1.globo.com/sp/campinas-regiao/noticia/2024/03/11/entenda-por-que-caes-e-gatos-nao-pegam-dengue-mas-podem-ser-contaminados-pelo-aedes-aegypti.ghtml) (Globo)
 
 - [Número de mortes por chikungunya sobe para 20 em Minas Gerais](https://noticias.r7.com/minas-gerais/mg-record/videos/numero-de-mortes-por-chikungunya-sobe-para-20-em-minas-gerais-11032024) (R7.com)
+
+- [Crise climática potencializa casos de dengue no Brasil](https://www.metropoles.com/brasil/crise-climatica-dengue-brasil) (Metropoles.com)

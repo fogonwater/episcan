@@ -1,8 +1,517 @@
 {
-  "last_updated": "2024-04-25 19:05",
-  "count_articles_total": 1836,
-  "count_articles_new": 26,
+  "last_updated": "2024-04-26 07:06",
+  "count_articles_total": 1883,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 8588,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Climate change is bringing malaria to new areas. In Africa, it never left",
+      "description": "Malaria's impact on Africa is severe, with high deaths among children. COVID-19 setbacks hinder progress. Climate change exacerbates the situation with extreme weather events, threatening areas once inhospitable to mosquitoes.",
+      "url": "https://timesofindia.indiatimes.com/home/environment/climate-change-is-bringing-malaria-to-new-areas-in-africa-it-never-left/articleshow/109584106.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109584766,width-1070,height-580,imgsize-18728,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-04-25 06:27:31",
+      "content": "News Climate change is bringing malaria to new areas. In Africa, it never left Malaria's impact on Africa is severe, with high deaths among children. COVID-19 setbacks hi\u2026 [+1654 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.926123",
+      "internal_id": "8dd15bf3c7b5bb130b54ce92b2b51dd3bc148555a5f6f3e9812b1ca1768712e5",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8566,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Florina Ilicea",
+      "title": "Boli foarte periculoase transmise de \u021b\u00e2n\u021bari se r\u0103sp\u00e2ndesc \u00een Europa din cauza crizei climatice. \u201eMai multe cazuri \u0219i posibil decese\u201d",
+      "description": "Boli precum febra dengue \u0219i malaria ajung s\u0103 se transmit\u0103 pe tot globul. Se r\u0103sp\u00e2ndesc \u00een p\u0103r\u021bi ale lumii, p\u00e2n\u0103 acum neafectate: nordul Europei, America, Asia \u0219i Australia.",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/boli-foarte-periculoase-transmise-de-tantari-se-2357044.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-b/b7378cff-6744-4f46-9d49-5d3af2a30d9f/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-04-25 05:56:57",
+      "content": "Boli precum febra dengue i malaria ajung s se transmit pe tot globul. Se rsp\u00e2ndesc \u00een pri ale lumii, p\u00e2n acum neafectate: nordul Europei, America, Asia i Australia. Insectele rsp\u00e2ndesc boli precum\u2026 [+4409 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.058078",
+      "internal_id": "61882f3a73da19656c8a7425cfb75a8289be68d95b5af7b08cf9ad0d94424d4d",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8579,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DAN IKPOYI Associated Press, FARAI MUTSAKA Associated Press",
+      "title": "Climate change is bringing malaria to new areas. In Africa, it never left",
+      "description": "When cases of locally transmitted malaria were found in the United States last year, it was a reminder that climate change is reviving or migrating the threat of some diseases",
+      "url": "https://abcnews.go.com/International/wireStory/climate-change-bringing-malaria-new-areas-africa-left-109606973",
+      "urlToImage": "https://i.abcnewsfe.com/a/c94c278a-c6a4-4788-9da3-de072cc25a57/wirestory_8d4437a316cce82e4a69e68f9a6521b7_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-25 05:34:36",
+      "content": "LAGOS, Nigeria -- When a small number of cases of locally transmitted malaria were found in the United States last year, it was a reminder that climate change is reviving or migrating the threat of s\u2026 [+3693 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.853605",
+      "internal_id": "5170b99520aa2b5ed5df96974c28805938cba07e12d86d45bfa5374050dbd38f",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8589,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "World Malaria Day 2024: Tips for speedy recovery",
+      "description": "World Malaria Day 2024 highlights malaria's global impact. Prevention tips include protective clothing, mosquito nets, and eliminating breeding sites.",
+      "url": "https://economictimes.indiatimes.com/news/web-stories/world-malaria-day-2024-tips-for-speedy-recovery/slideshow/109582714.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-109582857,width-900,height-460,resizemode-4.cms",
+      "publishedAt": "2024-04-25 05:26:18",
+      "content": "Finish treatment, rest, hydrate, eat well, and follow medical advice for full recovery.",
+      "retrievedAt": "2024-04-26 07:06:48.930183",
+      "internal_id": "7ef39c3fb05a6e8a449f3a7d6981d42ffbbb7f5931d5c54bb9b7cd9b3b4544bc",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8586,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DAN IKPOYI Associated Press, FARAI MUTSAKA Associated Press",
+      "title": "Climate change is bringing malaria to new areas. In Africa, it never left",
+      "description": "When cases of locally transmitted malaria were found in the United States last year, it was a reminder that climate change is reviving or migrating the threat of some diseases",
+      "url": "https://abcnews.go.com/Health/wireStory/climate-change-bringing-malaria-new-areas-africa-left-109606978",
+      "urlToImage": "https://i.abcnewsfe.com/a/c94c278a-c6a4-4788-9da3-de072cc25a57/wirestory_8d4437a316cce82e4a69e68f9a6521b7_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-25 05:19:13",
+      "content": "LAGOS, Nigeria -- When a small number of cases of locally transmitted malaria were found in the United States last year, it was a reminder that climate change is reviving or migrating the threat of s\u2026 [+3693 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.898923",
+      "internal_id": "f363d7a91ac199df3e5fb825c66ee690e55dd0857c125d3abeac131876779d9f",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8581,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "FRED OOKO Associated Press, DESMOND TIRO Associated Press",
+      "title": "Malaria is still killing people in Kenya, but a vaccine and local drug production may help",
+      "description": "Malaria is still a significant public health challenge in Kenya, but an important pilot of the world\u2019s first malaria vaccine may help",
+      "url": "https://abcnews.go.com/Health/wireStory/malaria-killing-people-kenya-vaccine-local-drug-production-109606736",
+      "urlToImage": "https://i.abcnewsfe.com/a/1982071f-16c8-4899-8ef5-4aac551164ef/wirestory_ecc08dd160735bd537a552db5ab200af_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-25 05:18:37",
+      "content": "MIGORI, Kenya -- As the coffin bearing the body of Rosebella Awuor was lowered into the grave, heart-wrenching sobs from mourners filled the air. Her sister Winnie Akinyi, the guardian to Awuors orph\u2026 [+3827 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.862373",
+      "internal_id": "6f0809ddc8296fd0f9038a4145489966726a25e7c74ed7be335b899fe88324c0",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8578,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "FRED OOKO Associated Press, DESMOND TIRO Associated Press",
+      "title": "Malaria is still killing people in Kenya, but a vaccine and local drug production may help",
+      "description": "Malaria is still a significant public health challenge in Kenya, but an important pilot of the world\u2019s first malaria vaccine may help",
+      "url": "https://abcnews.go.com/International/wireStory/malaria-killing-people-kenya-vaccine-local-drug-production-109606731",
+      "urlToImage": "https://i.abcnewsfe.com/a/1982071f-16c8-4899-8ef5-4aac551164ef/wirestory_ecc08dd160735bd537a552db5ab200af_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-25 05:18:32",
+      "content": "MIGORI, Kenya -- As the coffin bearing the body of Rosebella Awuor was lowered into the grave, heart-wrenching sobs from mourners filled the air. Her sister Winnie Akinyi, the guardian to Awuors orph\u2026 [+3827 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.842616",
+      "internal_id": "003fbf8c4be44f46cbe1ad14f42ae2081911f3c674c50a62dd476230205a2784",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8565,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Expertos piden actualizar los conocimientos sobre sarampi\u00f3n",
+      "description": "Dado el aumento de los casos de sarampi\u00f3n en Canad\u00e1 y a nivel internacional, es importante que los m\u00e9dicos comprendan la enfermedad y el papel de la vacunaci\u00f3n contra el sarampi\u00f3n.",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-expertos-piden-actualizar-conocimientos-sarampion-20240425071350.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240425071350_1200.jpg",
+      "publishedAt": "2024-04-25 05:13:50",
+      "content": "MADRID, 25 Abr. (EUROPA PRESS) - Dado el aumento de los casos de sarampi\u00f3n en Canad\u00e1 y a nivel internacional, es importante que los m\u00e9dicos comprendan la enfermedad y el papel de la vacunaci\u00f3n con\u2026 [+3528 chars]",
+      "retrievedAt": "2024-04-26 07:06:47.696781",
+      "internal_id": "a400ad19a114dc154d51af52836538ea55e39c7398a2de268027228049d63b0a",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8584,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Dr. Ravi N Sangapur",
+      "title": "World Malaria Day 2024: Understanding The Consequences of Malaria During Pregnancy",
+      "description": "World Malaria Day is recognised globally on April 25th to spread awareness about this mosquito-borne disease.",
+      "url": "https://doctor.ndtv.com/living-healthy/world-malaria-day-2024-understanding-the-consequences-of-malaria-during-pregnancy-5518329",
+      "urlToImage": "https://i.ndtvimg.com/i/2018-04/malaria_650x400_61524633117.jpg",
+      "publishedAt": "2024-04-25 05:12:52",
+      "content": "Malaria is a fatal disease caused by the parasites of the plasmodium genus, transmitted to humans through the infectious bites of female mosquito Anopheles. Malaria remains a substantial public healt\u2026 [+4785 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.887462",
+      "internal_id": "db0f73741e0a14847fa41192555c3df780c53fc232128d89bbaf5aafc3d0e1ec",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8576,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "DAN IKPOYI and FARAI MUTSAKA",
+      "title": "Climate change is bringing malaria to new areas. In Africa, it never left",
+      "description": "When a small number of cases of locally transmitted malaria were found in the United States last year, it was a reminder that climate change is reviving or migrating the threat of some diseases. But across the African continent malaria has never left, killing\u2026",
+      "url": "https://www.startribune.com/climate-change-is-bringing-malaria-to-new-areas-in-africa-it-never-left/600361495/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1713369823",
+      "publishedAt": "2024-04-25 05:11:00",
+      "content": "LAGOS, Nigeria When a small number of cases of locally transmitted malaria were found in the United States last year, it was a reminder that climate change is reviving or migrating the threat of some\u2026 [+3798 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.823854",
+      "internal_id": "1cffb7233223820cdb142305376bb3b5859723f2c1da7c60638f2e3400e71e62",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8568,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Diseases spread by mosquitoes, other than dengue and malaria",
+      "description": "Malaria dengue chikungunya yllow fever and other diseases spread by mosquito: what are some dangerous diseases spread by mosquitoes?",
+      "url": "https://economictimes.indiatimes.com/news/web-stories/diseases-spread-by-mosquitoes-other-than-dengue-and-malaria/slideshow/109582204.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-109582368,width-900,height-460,resizemode-4.cms",
+      "publishedAt": "2024-04-25 05:09:23",
+      "content": "Often causes no symptoms, but can lead to fever, headache, and muscle aches in some cases, and serious neurological illness in rare cases.",
+      "retrievedAt": "2024-04-26 07:06:48.081713",
+      "internal_id": "360424bac9ab53b33f4edfaf985057f3d0c4d27ab86af44da15ea7b5604c2464",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8577,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "FRED OOKO and DESMOND TIRO",
+      "title": "Malaria is still killing people in Kenya, but a vaccine and local drug production may help",
+      "description": "As the coffin bearing the body of Rosebella Awuor was lowered into the grave, heart-wrenching sobs from mourners filled the air. Her sister Winnie Akinyi, the guardian to Awuor's orphaned son, fell to the ground, wailing.",
+      "url": "https://www.startribune.com/malaria-is-still-killing-people-in-kenya-but-a-vaccine-and-local-drug-production-may-help/600361494/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1713369823",
+      "publishedAt": "2024-04-25 05:07:01",
+      "content": "MIGORI, Kenya As the coffin bearing the body of Rosebella Awuor was lowered into the grave, heart-wrenching sobs from mourners filled the air. Her sister Winnie Akinyi, the guardian to Awuor's orphan\u2026 [+3846 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.835539",
+      "internal_id": "5fe2391fa805e2b9f0ee7182d3b262be36266964315e972bd1ae6678d0140226",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8585,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Besondere Gefahr f\u00fcr Schwangere",
+      "description": "Malaria ist f\u00fcr schwangere Frauen besonders gef\u00e4hrlich. Darauf verweist die Weltgesundheitsorganisation WHO zum Welt-Malaria-Tag am Donnerstag. Unbehandelt k\u00f6nne Malaria zu schwerer Blutarmut sowie zu Tod- und Fr\u00fchgeburten f\u00fchren.",
+      "url": "https://science.orf.at/stories/3224729/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2021%2F49%2F40%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F1159994_master_413140_kenya_-_health_-_malaria_.jpg%3Fs%3Da3561950a2c7372602da5af01beac687a80bc898",
+      "publishedAt": "2024-04-25 05:00:00",
+      "content": "Eine Schwangerschaft verringert die Immunit\u00e4t einer Frau gegen Malaria, macht sie anf\u00e4lliger f\u00fcr Infektionen und erh\u00f6ht ihr Risiko einer schweren Erkrankung und des Todes, berichtet die WHO. Malaria\u2026 [+1329 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.891643",
+      "internal_id": "5f5b2535a15fd7473554fea70449ce10cb10874ff4491ef0b543a25470b0d2e1",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8567,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Cosmin Pirv",
+      "title": "Expert: Bolile transmise de \u0163\u00e2n\u0163ari se r\u0103sp\u00e2ndesc \u00een Europa din cauza crizei climatice",
+      "description": "Bolile transmise de \u0163\u00e2n\u0163ari se r\u0103sp\u00e2ndesc pe tot globul, \u015fi \u00een special \u00een Europa, din cauza crizei climatice, a declarat un expert citat de The Guardian.",
+      "url": "https://www.mediafax.ro/stiinta-sanatate/expert-bolile-transmise-de-tantari-se-raspandesc-in-europa-din-cauza-crizei-climatice-22355575",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/7627/22355575/1/profimedia-0103058591.jpg?width=640",
+      "publishedAt": "2024-04-25 04:57:41",
+      "content": "Insectele rsp\u00e2ndesc boli precum malaria i febra dengue, a cror prevalen a crescut foarte mult \u00een ultimii 80 de ani, deoarece \u00eenclzirea global le-a oferit condiii mai calde i mai umede. Prof. Rache\u2026 [+1995 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.068923",
+      "internal_id": "c066585f9c3141b587700700875538e312134f6f885a393fd8aca328489b266d",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8575,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "Kai K\u00fcstner, ARD-Studio Nordwestafrika",
+      "title": "Welt-Malaria-Tag: \"Machen nicht die Fortschritte, die wir machen sollten\"",
+      "description": "Weltweit stecken sich j\u00e4hrlich rund 250 Millionen Menschen mit Malaria an, viele sterben an einer Infektion - vor allem in Afrika. In Kamerun l\u00e4uft eine Impfkampagne, die Hoffnung macht, aber auch auf Widerstand st\u00f6\u00dft. Von K. K\u00fcstner.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/welt-malaria-tag-102.html",
+      "urlToImage": "https://images.tagesschau.de/image/46a0657d-7e1d-46fe-9a5b-0455b7076e63/AAABhoCECDA/AAABjwnlFvA/16x9-1280/malaria-119.jpg",
+      "publishedAt": "2024-04-25 04:53:10",
+      "content": "Stand: 25.04.2024 06:53 Uhr Weltweit stecken sich j\u00e4hrlich rund 250 Millionen Menschen mit Malaria an, viele sterben an einer Infektion - vor allem in Afrika. In Kamerun l\u00e4uft eine Impfkampagne, die\u2026 [+5035 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.803865",
+      "internal_id": "8982cd2f639ac29c86cfe37ab7a1fc8d78411e152da018755e6d2f4b0c54e237",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8582,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "World Malaria Day 2024: Date, Theme And History Of This Day",
+      "description": "World Malaria Day 2024: Malaria is most commonly spread by a mosquito bite.",
+      "url": "https://www.ndtv.com/offbeat/world-malaria-day-2024-date-theme-and-history-of-this-day-5518114",
+      "urlToImage": "https://c.ndtvimg.com/2024-04/9to1css8_mosquito_625x300_25_April_24.jpeg?ver-20240422.08",
+      "publishedAt": "2024-04-25 04:32:36",
+      "content": "World Malaria Day 2024: Look out for signs 10-15 days after a mosquito bite. World Malaria Day 2024: Each year on April 25th, the world unites for World Malaria Day to raise awareness about this ser\u2026 [+2019 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.866477",
+      "internal_id": "cd19230e75e88883d1827a69052c5be77b0765bbcef6c213d775c250f05581aa",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8583,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "World Malaria Day 2024: Know Theme, Significance And Prevention Tips",
+      "description": "World Malaria Day was established by the World Health Organisation to highlight the global burden of malaria and to promote actions to prevent and control the disease.",
+      "url": "https://www.ndtv.com/health/world-malaria-day-2024-know-theme-significance-and-prevention-tips-5517963",
+      "urlToImage": "https://c.ndtvimg.com/2019-04/oliom1rg_malaria_625x300_24_April_19.jpg",
+      "publishedAt": "2024-04-25 04:08:54",
+      "content": "Fever, chills, headaches, nausea and muscle pain are a few symptoms of malaria Every year, World Malaria Day is recognised globally on April 25th to spread awareness about this mosquito-borne diseas\u2026 [+2581 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.880337",
+      "internal_id": "2b735f661dd4dbda8d603f75cbd1d0b89c502784243d35e7133d81f73105091e",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8587,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Autochthonous Plasmodium vivax Infections, Florida, USA, 2023",
+      "description": "Autochthonous P. vivax Infections, Florida",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/6/24-0336_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-04-25 04:00:00",
+      "content": "Although commendable progress for combating malaria in endemic areas has been achieved and a dozen countries have been declared malaria-free since 2000 (1), increasing international travel has led to\u2026 [+9427 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.920571",
+      "internal_id": "67e4a9f3f34446d50bc220a9d2f031ab70fc9fd4f623286c36c49563aafe2f5e",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8564,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPTZ",
+      "author": "Adrian Pastor",
+      "title": "Measles case in Vermont reminds families that it's crucial to vaccinate children",
+      "description": "During National Infant Immunization Week, the Vermont Department of Health says vaccination is the first line of defense against measles.",
+      "url": "https://www.mynbc5.com/article/measles-case-in-vermont-reminds-families-that-its-crucial-to-vaccinate-children/60595534",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/55a34412-467d-4cda-8e95-4436f7f2ef80/46ecbd4c-b86d-4021-ae08-1dafe4ee5310.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2024-04-25 02:03:20",
+      "content": "WATERBURY, Vt. \u2014The Vermont Department of Health has confirmed the first case of measles in the state since 2018. Experts with the Department of Health said that while cases of measles are far and f\u2026 [+2189 chars]",
+      "retrievedAt": "2024-04-26 07:06:47.311666",
+      "internal_id": "d3699cb122b9554df2f18f6d69998af4cbe94a7ce7cfc4ecd5f0b5798e896db7",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 8562,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "AHS issues public alert for potential measles exposures in Edmonton",
+      "description": "Alberta Health Services says a person with lab-confirmed measles was in multiple public settings in the Edmonton area while infectious and members of the public may have been exposed.",
+      "url": "https://www.cbc.ca/news/canada/edmonton/ahs-issues-public-alert-for-potential-measles-exposures-in-edmonton-1.7184161",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1714000801!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2024-04-24 23:35:05",
+      "content": "Alberta Health Services says a person with lab-confirmed measles was in multiple public settings in the Edmonton area while infectious and members of the public may have been exposed. AHS issued an\u2026 [+1586 chars]",
+      "retrievedAt": "2024-04-26 07:06:47.259751",
+      "internal_id": "83c4b616d410df74d1abf666051e14304fe418c13495b4ab661325969290af04",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 8571,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Over half of world's population could be at risk of mosquito-borne diseases, experts warn",
+      "description": "More than half of the world's population could be at risk of catching diseases transmitted by mosquitoes such as malaria and dengue by the end of the century, scientists have warned.",
+      "url": "https://news.sky.com/story/over-half-of-worlds-population-could-be-at-risk-of-mosquito-borne-diseases-experts-warn-13122450",
+      "urlToImage": "https://e3.365dm.com/24/04/1600x900/skynews-mosquito-disease-malaria_6532440.jpg?20240425000013",
+      "publishedAt": "2024-04-24 22:53:00",
+      "content": "More than half of the world's population could be at risk of catching diseases transmitted by mosquitoes such as malaria and dengue by the end of the century, scientists have warned. Mosquito-borne \u2026 [+2530 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.131396",
+      "internal_id": "6c0b367ea30ac83e097d50a7c89339847c9d5e4836f136c8ff561718cfa521a1",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 8570,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "M\u00e1rcia Piovesan",
+      "title": "Daniella Cicarelli faz alerta sobre grave doen\u00e7a: 'Riscos'",
+      "description": "Nesta quarta-feira, 24, Daniella Cicarelli usou suas redes sociais para falar sobre dengue, na ...",
+      "url": "https://www.terra.com.br/diversao/gente/daniella-cicarelli-faz-alerta-sobre-grave-doenca-riscos,d0057c091d437be120924b501d347a19nslxbzzn.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/24/234094005-daniella-cicarelli-reproducao-instagram.jpg",
+      "publishedAt": "2024-04-24 22:51:54",
+      "content": "Nesta quarta-feira, 24, Daniella Cicarelli usou suas redes sociais para falar sobre dengue, na qual foi diagnosticada nos \u00faltimos dias, e a import\u00e2ncia da vacina contra a doen\u00e7a. \"Cheguei ao hospita\u2026 [+973 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.126730",
+      "internal_id": "247128c1176ecbf4334e2b3a8595e4e89aa67d974b42fc473cd546a333ac3128",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 8572,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Louveira confirma primeira morte por dengue e total na regi\u00e3o de Campinas chega a 26",
+      "description": "Com 14 \u00f3bitos, Campinas \u00e9 a cidade com o maior de v\u00edtimas pela doen\u00e7a na regi\u00e3o. Louveira confirma 1\u00aa morte por dengue em 2024 A Prefeitura de Louveira (SP) confirmou no in\u00edcio da noite desta quarta-feira (24) a primeira morte na cidade em 2024 causada pela d\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/24/louveira-confirma-primeira-morte-por-dengue-e-total-na-regiao-de-campinas-chega-a-26.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/C8kwq40sRJX3A6UxzXhNw6eOnrA=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/12545748.jpg",
+      "publishedAt": "2024-04-24 22:33:32",
+      "content": "De acordo com a Secretaria de Sa\u00fade, o paciente foi internado no dia 29 de mar\u00e7o na Santa Casa de Louveira e evoluiu para \u00f3bito no dia 30 do mesmo m\u00eas. O exame confirmando a dengue como causa da mort\u2026 [+2231 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.147561",
+      "internal_id": "7e97352e399775e29540f78a22fee647516cff770ebabe1ff12d4b1b72478bd7",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 8573,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Epidemia de dengue afeta ades\u00e3o \u00e0 vacina\u00e7\u00e3o contra a gripe em grupos priorit\u00e1rios em Campinas",
+      "description": "Pacientes com febre n\u00e3o devem tomar o imunizante, e sintoma \u00e9 um dos principais da dengue. Ap\u00f3s 1\u00ba m\u00eas da campanha, cobertura est\u00e1 em 26,55%; no mesmo per\u00edodo de 2023, taxa era de 32,45%. Epidemia de dengue influencia baixa procura pela vacina da gripe em Cam\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/24/epidemia-de-dengue-afeta-adesao-a-vacinacao-contra-a-gripe-em-grupos-prioritarios-em-campinas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/LzHnIALUUkWLtwYXQvFBmRuxzCk=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/12545684.jpg",
+      "publishedAt": "2024-04-24 22:29:52",
+      "content": "Dados da Secretaria de Sa\u00fade mostram que entre os grupos priorit\u00e1rios, os idosos, gestantes e pu\u00e9peras (mulheres que tiveram o beb\u00ea recentemente) apresentam redu\u00e7\u00f5es significativas na cobertura ap\u00f3s \u2026 [+7084 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.166075",
+      "internal_id": "16b78e60bfb0d1a3800c4cf6c939aeebee0dd5d848f7f071162fcf1666431ba5",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 8563,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Caley Gibson",
+      "title": "Person with measles visited Edmonton airport, Stollery Children\u2019s Hospital: AHS - Edmonton | Globalnews.ca",
+      "description": "Alberta Health Services is warning people that a person with lab-confirmed measles attended a number of Edmonton-area locations over the past eight days.",
+      "url": "https://globalnews.ca/news/10447730/edmonton-airport-hospital-measles-exposure/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2018/08/measles_video_qtp_848x480_395745347505-e1550071511624.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2024-04-24 20:51:48",
+      "content": "Alberta Health Services is warning people that a person with lab-confirmed measles attended a number of Edmonton-area locations over the past eight days. AHS issued the warning Wednesday afternoon, \u2026 [+2029 chars]",
+      "retrievedAt": "2024-04-26 07:06:47.304502",
+      "internal_id": "8338aa73acc6e4ee8c3a816c345de31c58443ac72092bb0149bf318352a2973b",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 8569,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Banda B",
+      "title": "Curitiba confirma 1.121 novos casos de dengue e tem 23 pacientes internados com a doen\u00e7a",
+      "description": "A Secretaria Municipal da Sa\u00fade (SMS) confirmou, nesta quarta-feira (24), 1.121 novos casos de dengue em Curitiba. No total, a... Curitiba confirma 1.121 novos casos de dengue e tem 23 pacientes internados com a doen\u00e7a foi publicado primeiro em Banda B.",
+      "url": "https://www.terra.com.br/noticias/brasil/cidades/curitiba-confirma-1121-novos-casos-de-dengue-e-tem-23-pacientes-internados-com-a-doenca,6c146307a2cf3f83425668b2813a27causm4fwct.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/24/261157156-image-6-5.jpg",
+      "publishedAt": "2024-04-24 20:16:17",
+      "content": "A Secretaria Municipal da Sa\u00fade (SMS) confirmou, nesta quarta-feira (24), 1.121 novos casos de dengue em Curitiba. No total, a capital do Paran\u00e1 contabiliza 5.029 casos da doen\u00e7a no ano, com 2.165 im\u2026 [+786 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.107357",
+      "internal_id": "78ef1130c8cdf448f526361888b8649b8675efe48ddb470a7db0242a1e70da5c",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 8580,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Can climate change accelerate transmission of malaria? Pioneering research sheds light on impacts of temperature",
+      "description": "A groundbreaking study combined novel experimental data within an innovative modeling framework to examine how temperature might affect transmission risk of malaria in different environments in Africa.",
+      "url": "https://www.sciencedaily.com/releases/2024/04/240424160505.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-04-24 20:05:05",
+      "content": "Malaria is a mosquito-borne disease caused by a parasite that spreads from bites of infected female Anopheles mosquitoes. If left untreated in humans, malaria can cause severe symptoms, health compli\u2026 [+4888 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.858197",
+      "internal_id": "c292636aee614f4f77241ad478c47858a9000535366726bd43d60b873bd3b95e",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 8574,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: n\u00famero de casos j\u00e1 \u00e9 o dobro em rela\u00e7\u00e3o ao registrado no ano passado",
+      "description": "At\u00e9 o momento, Brasil tem 3.809.060 casos prov\u00e1veis da doen\u00e7a; quantidade de \u00f3bitos \u00e9 46% superior \u00e0 registrada em 2023",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-numero-de-casos-ja-e-o-dobro-em-relacao-ao-registrado-no-ano-passado,73979abfce10ef7ed2a3ff573cdc0e1acun10s31.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-04-24 19:12:16",
+      "content": "De acordo com dados do Painel de Arboviroses do Minist\u00e9rio da Sa\u00fade, o Brasil atingiu um total de 3.809.060 casos de dengue, o que representa um aumento de 2,30 vezes em rela\u00e7\u00e3o aos 1.649.144 casos c\u2026 [+2767 chars]",
+      "retrievedAt": "2024-04-26 07:06:48.183026",
+      "internal_id": "34792981fef6bf6ddbbbdd769028cca291fcd80ddb424255c36d29b7ba519afe",
+      "publishedAtLabel": "Apr 24"
+    },
     {
       "id": 8543,
       "query": [
@@ -33157,6 +33666,354 @@
       "content": "The Middlesex-London Health Unit (MLHU) has confirmed a case of measles in the London-Middlesex community. The health unit says the case involves an adult who likely got measles during travel. The \u2026 [+1714 chars]",
       "retrievedAt": "2024-03-12 07:06:01.743943",
       "internal_id": "277e6b5533826ed60b5baaa7f2f3bb6cb10bd612496facfb69606b0a37a9c953",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6703,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "India's Serum looks beyond COVID with new vaccines for malaria, dengue",
+      "description": "India's Serum looks beyond COVID with new vaccines for malaria, dengue",
+      "url": "https://www.investing.com/news/stock-market-news/indias-serum-looks-beyond-covid-with-new-vaccines-for-malaria-dengue-3331513",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_L.jpg",
+      "publishedAt": "2024-03-10 18:56:53",
+      "content": "By Manas Mishra PUNE, India (Reuters) - The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few y\u2026 [+2350 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.491348",
+      "internal_id": "8cd75edba2bc85dbb1f935d43da9f0a69d6c94ded1ba44438d4617fd1623970c",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6704,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Crise clim\u00e1tica potencializa casos de dengue no Brasil",
+      "description": "N\u00edsia Trindade, ministra da Sa\u00fade, tamb\u00e9m alertou para o impacto das mudan\u00e7as clim\u00e1ticas nos casos de dengue no Brasil",
+      "url": "https://www.metropoles.com/brasil/crise-climatica-dengue-brasil",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/10141755/Mosquito-da-dengue-a-ligacao-com-a-crise-climatica.jpg",
+      "publishedAt": "2024-03-10 18:45:20",
+      "content": "Um estudo da Universidade do Estado do Rio de Janeiro (UERJ) alerta sobre os prov\u00e1veis impactos das mudan\u00e7as clim\u00e1ticas nos casos de arboviroses, como dengue, zika e chikungunya, transmitidas pelo mo\u2026 [+7206 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.509483",
+      "internal_id": "ca3fcd7481327a4e902ee6b184bbb8433a29352a391500db8defdeea8eecff9c",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6700,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "India's Serum looks beyond COVID with new vaccines for malaria, dengue",
+      "description": "PUNE: The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few years of shots against diseases lik",
+      "url": "https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-new-vaccines-malaria-dengue-4185221",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--aAs0w-5W--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-08t101711z_1_lynxmpejb70am_rtroptp_3_health-coronavirus-india-vaccine.jpg?itok=Lv04fq0Y",
+      "publishedAt": "2024-03-10 18:10:10",
+      "content": "PUNE: The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few years of shots against diseases like\u2026 [+1316 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.469125",
+      "internal_id": "ec10827772c27ab93f27f7e14bd217ca4c2ecc4d73d8675b88e6b0ea6e53e455",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6701,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "India's Serum looks beyond COVID-19 with new vaccines for malaria, dengue",
+      "description": "PUNE: The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few years of shots against diseases lik",
+      "url": "https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-19-new-vaccines-malaria-dengue-4185221",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--aAs0w-5W--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-08t101711z_1_lynxmpejb70am_rtroptp_3_health-coronavirus-india-vaccine.jpg?itok=Lv04fq0Y",
+      "publishedAt": "2024-03-10 18:10:00",
+      "content": "PUNE: The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few years of shots against diseases like\u2026 [+1313 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.480267",
+      "internal_id": "b8fb77802a73bccf062e6cd3b534a3ad2fc95fd36d69fa0989e44650be6e673d",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6712,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Quaest: 26% dos brasileiros n\u00e3o pretendem tomar vacina contra a dengue",
+      "description": "Estudo entrevistou 2 mil pessoas entre 25 e 27 de fevereiro deste ano",
+      "url": "https://saude.ig.com.br/2024-03-10/pesquisa-quaest-vacinacao-contra-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/1g/xs/23/1gxs23fk4ckqd1wrs457cdgmd.jpg",
+      "publishedAt": "2024-03-10 18:03:02",
+      "content": "Cerca de 1 entre 4 brasileiros (26%) n\u00e3o deseja tomar a vacina contra a dengue . O dado foi obtido atrav\u00e9s de uma pesquisa feita pela Quaest , divulgada neste domingo (10). O estudo ouviu 2 mil pes\u2026 [+1868 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.659410",
+      "internal_id": "83077a9253e24f4dc07b8b923c1fb5fcf0f2da1fa1cde4557b9d1ff8d5e78166",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6697,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC Chicago",
+      "author": null,
+      "title": "CDPH reports second measles case at Pilsen migrant shelter",
+      "description": "A second case of measles has been confirmed at a Chicago migrant shelter, public health officials announced Sunday.",
+      "url": "http://www.nbcchicago.com/news/health/health-wellness-science-news/second-case-of-measles-confirmed-at-pilsen-migrant-shelter-cdph-says/3378540/",
+      "urlToImage": "https://media.nbcchicago.com/2021/08/Generic-Doctors-Office-Patient-Room.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2024-03-10 17:31:19",
+      "content": "A second case of measles has been confirmed at a Chicago migrant shelter, public health officials announced Sunday. According to the Chicago Department of Public Health, the case was confirmed at th\u2026 [+1788 chars]",
+      "retrievedAt": "2024-03-11 19:05:25.869076",
+      "internal_id": "793ddfd08b014a465d6ffdec30a67b1160becda021d84547a38cbc031af6c1ba",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6706,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "India's Serum looks beyond COVID with new vaccines for malaria, dengue",
+      "description": "(marketscreener.com) The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few years of shots against diseases like malaria and dengue by repurposing facilities\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2024-03/2024-03-10T173250Z_1_LYNXNPEK29060_RTROPTP_3_HEALTH-VACCINES-SERUM.JPG",
+      "publishedAt": "2024-03-10 17:30:00",
+      "content": "PUNE, India March 10 (Reuters) - The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few years \u2026 [+2411 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.546054",
+      "internal_id": "f076f47ebc11840b9b069cd814acdea8444cc2fb5c3948a5c765dfca1c4dc97d",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6698,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 32 Chicago",
+      "author": "Fox 32 Chicago",
+      "title": "Another migrant child at Pilsen shelter diagnosed with measles",
+      "description": "Another migrant child at Pilsen shelter diagnosed with measlesfox32chicago.com",
+      "url": "https://www.fox32chicago.com/news/chicago-migrant-child-pilsen-shelter-measles",
+      "urlToImage": "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2023/10/1280/720/GettyImages-462803922.jpg?ve=1&tl=1",
+      "publishedAt": "2024-03-10 17:14:48",
+      "content": "CHICAGO - A second Chicagomigrant child was reported to have measles on Sunday. The Chicago Department of Public Health (CDPH) said the child has been staying at the new arrivals shelter in Pilsen, \u2026 [+2946 chars]",
+      "retrievedAt": "2024-03-11 19:05:25.875582",
+      "internal_id": "c6b8c04ee40a13c5e5c5961b82185222330697b4da3fcc699bfaf82ee0f51012",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6699,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLS-TV",
+      "author": "Abc 7 Chicago",
+      "title": "Measles outbreak Chicago: Second child diagnosed at Pilsen migrant shelter in third city case, CDPH says",
+      "description": "Two young children staying at a Chicago migrant shelter were diagnosed with measles, the Chicago Department of Health said Sunday.",
+      "url": "https://abc7chicago.com/measles-chicago-outbreak-pilsen-migrant-shelter/14510818/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14506226_030824-wls-maher-measles-shelter-10p-vid.jpg?w=1600",
+      "publishedAt": "2024-03-10 16:36:06",
+      "content": "CHICAGO (WLS) -- The video in the player above is from a previous report. A second case of measles involving a child living inside a Pilsen migrant shelter was announced on Sunday. CDPH officials s\u2026 [+4043 chars]",
+      "retrievedAt": "2024-03-11 19:05:25.922923",
+      "internal_id": "62f6f8fbd90b03119d33407583f9f4309e4070fd0d35ebb665b1e09dc6c32479",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6789,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Alto Astral",
+      "title": "Repelente: saiba os cuidados para utilizar com seguran\u00e7a",
+      "description": "O Brasil enfrenta desde o in\u00edcio do ano uma explos\u00e3o decasos dedengue, doen\u00e7a transmitida pelo ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/repelente-saiba-os-cuidados-para-utilizar-com-seguranca,3f77f14b7787afaf0a5d71eaecb724d1fof5nn19.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/10/441015446-cuidado-repelente.jpg",
+      "publishedAt": "2024-03-10 16:01:09",
+      "content": "O Brasil enfrenta desde o in\u00edcio do ano uma explos\u00e3o decasos dedengue, doen\u00e7a transmitida pelo mosquito Aedes aegypti. De acordo com o Minist\u00e9rio da Sa\u00fade, h\u00e1 pelo menos 1 milh\u00e3o de casos suspeitos n\u2026 [+2228 chars]",
+      "retrievedAt": "2024-03-13 07:05:32.642917",
+      "internal_id": "ff8006fc189c0db1cbfe525a6e0fdab271114883b7d6242ea513f169b8be7c93",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6702,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Em um m\u00eas, casos de dengue dobram em S\u00e3o Paulo",
+      "description": "Os casos de dengue confirmados no estado de S\u00e3o Paulo chegaram, neste domingo (10), a 183.288, de acordo com dados da Secretaria da...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/em-um-mes-casos-de-dengue-dobram-em-sao-paulo/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/10153010/IMG_1217.webp",
+      "publishedAt": "2024-03-10 15:31:15",
+      "content": "Os casos de dengue confirmados no estado de S\u00e3o Paulo chegaram, neste domingo (10), a 183.288, de acordo com dados da Secretaria da Sa\u00fade do estado paulista. A quantidade \u00e9 2,1 vezes a registrada em \u2026 [+1237 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.485072",
+      "internal_id": "ed768652a3fb928372247032040d14feab3365d156a99fe89d3296b46a0645e9",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6709,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Minas Gerais responde por um em cada tr\u00eas casos de dengue no pa\u00eds",
+      "description": "Os 464.223 casos prov\u00e1veis registrados no estado nas primeiras semanas de 2024 j\u00e1 superam todos os casos contabilizados ao longo do ano passado",
+      "url": "https://saude.ig.com.br/2024-03-10/engue-casos-minas-gerais-brasil.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-03-10 15:30:35",
+      "content": "O Brasil j\u00e1 registrou, desde 1\u00ba de janeiro, 1.342.086 casos prov\u00e1veis de dengue desses, 464.223 casos foram reportados por autoridades sanit\u00e1rias de Minas Gerais. Em primeiro lugar no ranking de n\u00fame\u2026 [+2502 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.610601",
+      "internal_id": "56bc57daa4206af4f1ad60ba70bdf816a7e59fa9a07e4da28540f541396496a3",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6696,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Chicago Tribune",
+      "author": "Carrie Napoleon, Carole Carlson",
+      "title": "No new cases reported after Indiana measles outbreak",
+      "description": "No new cases of measles have been reported in Lake County in the wake of the first confirmed case of the disease in Indiana in five years announced Feb. 23 by the Indiana Department of Health.",
+      "url": "http://www.chicagotribune.com/2024/03/10/no-new-cases-reported-after-indiana-measles-outbreak/",
+      "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/migration/2023/09/03/C3HLOAFJ6JBC3GYG4JL5G7JCZ4.jpg?w=1024&h=670",
+      "publishedAt": "2024-03-10 15:21:33",
+      "content": "No new cases of measles have been reported in Lake County in the wake of the first confirmed case of the disease in Indiana in five years announced Feb. 23 by the Indiana Department of Health. IDOH \u2026 [+4010 chars]",
+      "retrievedAt": "2024-03-11 19:05:25.794791",
+      "internal_id": "049378de4872a9636b570443a23fdd4154faa883b6b1763da4ed8c5443831700",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6710,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Cidade do Rio registra mais de 2 mil casos de dengue em 24 horas",
+      "description": "O bairro com maior n\u00famero de registros \u00e9 Campo Grande, na zona oeste, com 11.558",
+      "url": "https://saude.ig.com.br/2024-03-10/cidade-do-rio-registra-mais-de-2-mil-casos-de-dengue-em-24-horas.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/93/z2/nl/93z2nl62hg0vi7a2la17he7h5.jpg",
+      "publishedAt": "2024-03-10 15:13:01",
+      "content": "O munic\u00edpio do Rio de Janeiro atingiu o total de 56.928 casos de dengue em dados atualizados neste s\u00e1bado (9). O n\u00famero representa um aumento de mais de 2 mil casos em 24 horas. Nessa sexta-feira (8)\u2026 [+3014 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.630860",
+      "internal_id": "f6f36321a14615d07fde60642a2d2fa36bf7d94cff6b803d49df950ad53fe5dd",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6705,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "J\u00e9ssica Ribeiro",
+      "title": "Dengue: menores ter\u00e3o de esperar at\u00e9 meia hora ap\u00f3s vacina\u00e7\u00e3o. Entenda",
+      "description": "Crian\u00e7as e adolescentes de 10 a 14 anos dever\u00e3o ficar em observa\u00e7\u00e3o em unidade de atendimento ap\u00f3s receber dose contra dengue. Saiba mais",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-menores-terao-de-esperar-ate-meia-hora-apos-vacinacao-entenda",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09113159/Vacinacao-dengue-UBS-Asa-2.jpg",
+      "publishedAt": "2024-03-10 15:02:02",
+      "content": "Crian\u00e7as e adolescentes de 10 a 14 anos que tomarem a dose da vacina contra a dengue dever\u00e3o, a partir desta semana, ficar 15 minutos em observa\u00e7\u00e3o na unidade de sa\u00fade de atendimento, segundo a Secre\u2026 [+1757 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.532188",
+      "internal_id": "af19b82f0a7f7c1279b67bec01b7638f3a640406831321b24d2568362625223a",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6711,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "\u00c1ngela \u00c1valos Rodr\u00edguez",
+      "title": "Comunidades m\u00e1s afectadas por dengue recibir\u00e1n repelentes y toldos contra mosquitos",
+      "description": "CCSS distribuir\u00e1 este a\u00f1o 80.000 repelentes y 40.000 toldos contra mosquitos en las comunidades con m\u00e1s enfermos de dengue.",
+      "url": "https://www.nacion.com/el-pais/salud/comunidades-mas-afectadas-por-dengue-recibiran/CPDPFRM3CFAQ3J73RNFY7Z3W3I/story/",
+      "urlToImage": "https://www.nacion.com/resizer/f7moqqFivxWgJ7nbdtvnFJv2KGQ=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Q37GVVLP6RG27CJQ7E76K6XD2E.jpeg",
+      "publishedAt": "2024-03-10 11:15:00",
+      "content": "La Caja Costarricense de Seguro Social (CCSS) entregar\u00e1 80. 000 repelentes y 40.000 toldos contra mosquitos en las comunidades que registran m\u00e1s enfermos de dengue. La distribuci\u00f3n de los productos s\u2026 [+3668 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.640550",
+      "internal_id": "6f9a640129715e126ce979d0a198ced5e9c280da0942472ca114caafa6871253",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6707,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Homework",
+      "title": "5 plantas que realmente afastam o mosquito da dengue",
+      "description": "Com um aumento de mais de 445% nos casos da doen\u00e7a, a ado\u00e7\u00e3o de m\u00e9todos naturais de preven\u00e7\u00e3o torna-se essencial",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/5-plantas-que-realmente-afastam-o-mosquito-da-dengue,1fb5fe768a6d201675d4c8f49e636f57jmw0p7sg.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/09/5-plantas-trrc9scysajm.jpg",
+      "publishedAt": "2024-03-10 09:30:06",
+      "content": "De acordo com o Minist\u00e9rio da Sa\u00fade, o Brasil j\u00e1 superou os 740 mil casos de dengue, representando um aumento de mais de 445% em compara\u00e7\u00e3o ao mesmo per\u00edodo do ano passado, quando foram registrados 1\u2026 [+6910 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.583927",
+      "internal_id": "1ca331b500fde084b142686b15d41a6dfce41e87f327fff667af40d7911b3601",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6708,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Pedro Gabriel, Pedro Gabriel",
+      "title": "Co-infec\u00e7\u00e3o de Covid e Dengue: riscos ao contrair ambas ao mesmo tempo",
+      "description": "Especialista alerta para a maior fragilidade do corpo no caso de co-infec\u00e7\u00e3o e quais os m\u00e9todos para se prevenir",
+      "url": "https://saude.ig.com.br/2024-03-10/co-infeccao-de-covid-e-dengue--riscos-ao-contrair-ambas-ao-mesmo-tempo.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/7t/8r/7m/7t8r7m0d2pbe2d62xm8uka5jt.jpg",
+      "publishedAt": "2024-03-10 09:00:34",
+      "content": "O ano de 2024 come\u00e7ou conturbado para a sa\u00fade brasileira. De um lado, temos o Brasil registrando uma crescente cont\u00ednua e preocupante de casos de Dengue. Do outro, uma nova onda da Covid-19 surge e p\u2026 [+3679 chars]",
+      "retrievedAt": "2024-03-11 19:05:26.601945",
+      "internal_id": "ceb8d2530157079732cae7d54d2104d8c34c1dbc9655127e660e4915c8f60cb9",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 6713,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Sarah Almagro, campeona de surf sin piernas ni brazos: \u00abEl mar trata a todos por igual\u00bb",
+      "description": "Sarah Almagro Vallejo, una chica de Marbella que hoy tiene 24 a\u00f1os, le cambi\u00f3 la vida a los 18, despu\u00e9s de hacer la EvAU (evaluaci\u00f3n para el Acceso a la Universidad). Todo iba bien hasta que una meningitis meningoc\u00f3cica provoc\u00f3 la amputaci\u00f3n de los dos pies y\u2026",
+      "url": "https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/natural/2024/03/01/WhatsAppImage2024-02-29at13.23.26-U32230042336oDQ-1024x512@diario_abc.jpeg",
+      "publishedAt": "2024-03-10 07:17:26",
+      "content": "Sarah Almagro Vallejo, una chica de Marbella que hoy tiene 24 a\u00f1os, le cambi\u00f3 la vida a los 18, despu\u00e9s de hacer la EvAU (evaluaci\u00f3n para el Acceso a la Universidad). Todo iba bien hasta que una meni\u2026 [+602 chars]",
+      "retrievedAt": "2024-03-11 19:05:27.010977",
+      "internal_id": "703d640ca85d974dc37dbe7d3fd8fe247ee3e2fc1eaa974d2bc07aba41cdcff4",
       "publishedAtLabel": "Mar 10"
     }
   ]
