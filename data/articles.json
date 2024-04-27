@@ -1,8 +1,369 @@
 {
-  "last_updated": "2024-04-27 07:06",
-  "count_articles_total": 1925,
+  "last_updated": "2024-04-27 19:05",
+  "count_articles_total": 1926,
   "count_articles_new": 20,
   "articles": [
+    {
+      "id": 8633,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Madison.com",
+      "author": "David Wahlberg",
+      "title": "Measles case confirmed in Dane County",
+      "description": "The infected person lives in Dane County and works in Rock County. Health officials are working to identify and notify people who may have been exposed.",
+      "url": "https://madison.com/news/local/business/health-care/measles-dane-county-wisconsin-outbreaks/article_81d9b8b6-03fa-11ef-9953-5b7da35c95ae.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/1d/81d9b8b6-03fa-11ef-9953-5b7da35c95ae/662bf65f8a026.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2024-04-26 18:56:11",
+      "content": "The first case of measles in Dane County in more than two decades was confirmed Friday in a county resident who works in Rock County and acquired the infection while traveling domestically outside of\u2026 [+4259 chars]",
+      "retrievedAt": "2024-04-27 19:05:35.155789",
+      "internal_id": "fae7931d12890cd3eadb7e484171aec41c9006775b9065a0bd21dc4f84b60408",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8650,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "DRC is seeing its worst mpox outbreak \u2014 but has no vaccines or treatments yet. Why?",
+      "description": "With nearly 5,000 cases reported so far this year \u2014 and concerns about a new strain \u2014 the Democratic Republic of Congo is considering the declaration of a public health emergency.",
+      "url": "https://www.npr.org/sections/goatsandsoda/2024/04/26/1247460477/drc-is-seeing-its-worst-mpox-outbreak-but-has-no-vaccines-or-treatments-yet-why",
+      "urlToImage": "https://media.npr.org/assets/img/2024/04/26/gettyimages-1242143209_wide-f21bc937f0b637de471d6e5a829baf01a9d4f741-s1400-c100.jpg",
+      "publishedAt": "2024-04-26 18:36:20",
+      "content": "The Imvanex vaccine is one of two available vaccines that are used to protect against the mpox virus. Vaccines were widely used during the 2022 mpox outbreak. But currently no vaccines are available \u2026 [+7318 chars]",
+      "retrievedAt": "2024-04-27 19:05:39.041664",
+      "internal_id": "03e7d5d7d46af2a9d579c919e1742c45eb99fea612b7d5be0411f1ffb652cffc",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8634,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "fox6now.com",
+      "author": "Fox6 News Milwaukee",
+      "title": "Measles case in Dane County, DHS investigating possible exposures",
+      "description": "The Wisconsin Department of Health Services (DHS) confirmed a case of measles in a person living in Dane County, with travel and employment in Rock County.",
+      "url": "https://www.fox6now.com/news/measles-case-dane-county-dhs-investigating-exposures",
+      "urlToImage": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/03/1280/720/9P-MEASLES-OUTBREAK-TRAVEL-GUIDELINES-PKG_00.00.06.30.jpg?ve=1&tl=1",
+      "publishedAt": "2024-04-26 18:36:10",
+      "content": "MADISON, Wis. - The Wisconsin Department of Health Services (DHS) confirmed a case of measles in a person living in Dane County, with travel and employment in Rock County. DHS, in coordination with \u2026 [+1743 chars]",
+      "retrievedAt": "2024-04-27 19:05:35.160313",
+      "internal_id": "faa5a05eebb53c7529b29dcd210e923cc1298b4abc4d47755907071b04df407c",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8636,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "El Pa\u00eds",
+      "title": "En 50 a\u00f1os: un informe destaca que la vacunaci\u00f3n evit\u00f3 154 millones de muertes, pero alerta por una conducta que dej\u00f3 la pandemia",
+      "description": "La inmunizaci\u00f3n rutinaria salv\u00f3 a 146 millones de ni\u00f1os menores de cinco a\u00f1os, seg\u00fan la OMS, que advierte del repunte de los brotes de sarampi\u00f3n debido a un descenso de la cobertura",
+      "url": "https://www.lanacion.com.ar/sociedad/en-50-anos-un-informe-destaca-que-la-vacunacion-evito-154-millones-de-muertes-pero-alerta-por-una-nid26042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/desde-la-pandemia-de-covid-se-ha-registrado-un-5KJXSAKQ35BHFC4325M3X4W5DM.jpg?auth=c295aa7cfa76039fcff6c170f59032146a0e13f435dead17a17c4959c8472b95&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-26 17:25:43",
+      "content": "MADRID.- En los \u00faltimos 50 a\u00f1os, las vacunas han salvado la vida de 154 millones de personas, o lo que es lo mismo, seis vidas cada minuto, o el equivalente a la poblaci\u00f3n actual de Rusia, o el 10% d\u2026 [+7922 chars]",
+      "retrievedAt": "2024-04-27 19:05:35.570454",
+      "internal_id": "9246eab5b842a1ae125cf8f2797beeabe59b38979387deb2d40b28582c67379e",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8643,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Vacina contra dengue chegar\u00e1 a 214 munic\u00edpios de SP",
+      "description": "Minist\u00e9rio da Sa\u00fade anunciou que haver\u00e1 a distribui\u00e7\u00e3o de 986.548 doses para 625 novos munic\u00edpios em todo o pa\u00eds, totalizando 1.330 cidades contempladas",
+      "url": "https://valor.globo.com/brasil/noticia/2024/04/26/vacina-contra-dengue-chegar-a-214-municpios-de-sp.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/N5N-dWwGa4sAIo7zbzPUDkzwgfI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/C/e/LAkn6CS46zZ1eHG4Ux7Q/105876791.jpg",
+      "publishedAt": "2024-04-26 16:29:12",
+      "content": "Um total de 214 munic\u00edpios do Estado de S\u00e3o Paulo ser\u00e3o contemplados com a quarta remessa de vacinas contra a dengue, conforme recomenda\u00e7\u00e3o do Minist\u00e9rio da Sa\u00fade nesta quinta-feira (25). A capital p\u2026 [+2926 chars]",
+      "retrievedAt": "2024-04-27 19:05:36.217706",
+      "internal_id": "1c6cf8b55cc41e3b0f8ee08b55a17fe84e0313630bb2af2f1001b4d6c1386c33",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8651,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Mary-Russell Roberson",
+      "title": "What dog owners should know about leptospirosis",
+      "description": "Emmanuelle Butty, med.vet., DACVIM (SAIM), assistant clinical professor at Cummings School of Veterinary Medicine, sometimes treats dogs with leptospirosis, an infection that can lead to kidney failure and even death.",
+      "url": "https://phys.org/news/2024-04-dog-owners-leptospirosis.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/dog-in-puddle.jpg",
+      "publishedAt": "2024-04-26 16:28:55",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+5213 chars]",
+      "retrievedAt": "2024-04-27 19:05:39.678297",
+      "internal_id": "93913fbc810e72d00d8f62ba460f2804a593f527e7a8617a2611737f30da940f",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8632,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WLOS",
+      "author": "Kari Barrows",
+      "title": "Henderson County health officials report outbreak of whooping cough cases",
+      "description": "Henderson County health officials says an outbreak of pertussis, also known as whooping cough, has been reported.",
+      "url": "https://wlos.com/news/local/whooping-cough-outbreak-henderson-county-department-public-health-pertussis-school-aged-children-identify-notify",
+      "urlToImage": "https://wlos.com/resources/media/d2c6fde8-8c05-4a1f-892c-9af818fbba01-large16x9_VWHOOPINGCOUGHUNCA.transfer_frame_268.jpg",
+      "publishedAt": "2024-04-26 15:44:27",
+      "content": "HENDERSON COUNTY, N.C. (WLOS) Henderson County health officials says an outbreak of pertussis, also known as whooping cough, has been reported. A release from the Henderson County Department of Publ\u2026 [+1305 chars]",
+      "retrievedAt": "2024-04-27 19:05:33.981006",
+      "internal_id": "9960cd9e8e521fe821700a0eec321eb3ef8bdd6ff780dbd8e79333fa98be88c5",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8637,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "El Comercio (Per\u00fa)",
+      "title": "C\u00f3mo diferenciar la varicela del sarampi\u00f3n: similitudes y diferencias de sus s\u00edntomas y tratamientos",
+      "description": "Cuando aparecen manchas en la piel, se sospecha de la presencia de estas dos enfermedades, sin embargo, hay que prestar mucha atenci\u00f3n para saber de qu\u00e9 virus se trata",
+      "url": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/como-diferenciar-la-varicela-del-sarampion-similitudes-y-diferencias-de-sus-sintomas-y-tratamientos-nid26042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/varicel-y-sarampion-es-fundamental-saber-que-son-I5WUDDGQLZEIFGFEYMPWCX3QBY.jpg?auth=b5db88edb50d9b7d519b9aba486ab535b54ec134dc91f2968553173c9bf37103&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-26 15:28:54",
+      "content": "Es muy com\u00fan observar brotes excesivos en la piel e inmediatamente pensar que se trata de varicela \u00bfverdad? Sin embargo, no siempre es as\u00ed, pues las enfermedades virales de este nivel, como el saramp\u2026 [+8082 chars]",
+      "retrievedAt": "2024-04-27 19:05:35.575650",
+      "internal_id": "0ecf259acbb3af037dd4cbda02393d8e9f017ebc5ab93e96c1864c2b9d572a23",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8647,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Un anticuerpo monoclonal contra la malaria logra una eficacia del 80%",
+      "description": "Una \u00fanica inyecci\u00f3n de un anticuerpo monoclonal experimental contra la malaria logra una eficacia cercana al 80% frente a la Malaria , seg\u00fan una investigaci\u00f3n realizada por cient\u00edficos de los Institutos Nacionales de Salud (NIH) cuyos resultados aparecen en '\u2026",
+      "url": "https://www.abc.es/salud/enfermedades/anticuerpo-monoclonal-malaria-logra-eficacia-20240426170100-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/04/26/malaria-plasmodium-U67025602860JtS-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-04-26 15:01:00",
+      "content": "Una \u00fanica inyecci\u00f3n de un anticuerpo monoclonal experimental contra la malaria logra una eficacia cercana al 80% frente a la Malaria, seg\u00fan una investigaci\u00f3n realizada por cient\u00edficos de los Institut\u2026 [+3581 chars]",
+      "retrievedAt": "2024-04-27 19:05:37.347753",
+      "internal_id": "6f1f8a2dbfabaad5701816a091de19235d01d1cfbf1195d49777f1a0a716685d",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8642,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Vacina contra a dengue chega a mais 625 munic\u00edpios nesta sexta-feira",
+      "description": "Agora, 25 estados est\u00e3o contemplados pela campanha de imuniza\u00e7\u00e3o contra a doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-04-26/vacina-dengue-ampliacao-mais-cidades.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c1/e4/d1/c1e4d1oh0uh1d020x4568fo7s.jpg",
+      "publishedAt": "2024-04-26 14:59:36",
+      "content": "Mais 625 munic\u00edpios em seis estados v\u00e3o receber vacinas contra a dengue a partir desta sexta-feira (26). Com isso, o total de cidades contempladas com o imunizante chega a 1.330, em 25 estados. Os \u2026 [+2372 chars]",
+      "retrievedAt": "2024-04-27 19:05:36.184762",
+      "internal_id": "6b70fba528f8ce705b6af12eb485a80e9313f2da9d3a9cc0dfd2dca4528514cc",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8644,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Com 65,8 mil casos, Campinas atinge a maior epidemia de dengue da hist\u00f3ria da cidade",
+      "description": "N\u00famero superou a marca de 2015, de 65.754 contaminados, que era o \u00edndice mais alto de registros da doen\u00e7a at\u00e9 ent\u00e3o. Cerca de 75% das picadas de mosquitos, como o Aedes aegypti, acontecem por cima das roupas (Foto: Divulga\u00e7\u00e3o) Cerca de 75% das picadas de mosq\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/26/com-658-mil-casos-campinas-atinge-a-maior-epidemia-de-dengue-da-historia-da-cidade.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/s1r4y_7yOGMk3JXETU6K5Zzg29s=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/N/F/CcE8gfRIemQr05xYCXrw/ap22287429259196.jpg",
+      "publishedAt": "2024-04-26 14:44:33",
+      "content": "O n\u00famero superou a marca de 2015, de 65.754 contaminados, que era o \u00edndice mais alto de registros da doen\u00e7a at\u00e9 ent\u00e3o. Veja abaixo a linha do tempo: A cidade soma 14 mortes por dengue neste ano - a\u2026 [+5901 chars]",
+      "retrievedAt": "2024-04-27 19:05:36.244520",
+      "internal_id": "7834f4f5b0a34c769acf3bd225e4d28c20065d81ce04f6ef4eafb6cbdd0b8ef7",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8641,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Rebeca Kemilly",
+      "title": "DF receber\u00e1 28,3 mil doses em nova remessa de vacinas contra a dengue",
+      "description": "Porcentagem entregue ao Distrito Federal pelo Minist\u00e9rio da Sa\u00fade ser\u00e1 a maior entre as dos estados e munic\u00edpios contemplados na quarta leva",
+      "url": "https://www.metropoles.com/distrito-federal/df-recebera-283-mil-doses-em-nova-remessa-de-vacinas-contra-a-dengue",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/02/10095625/vacinacao-dengue-vacina-qdenga-imunizante-df.jpeg",
+      "publishedAt": "2024-04-26 13:50:13",
+      "content": "O Distrito Federal vai receber 28.330 novas doses de vacina contra a dengue, por meio da quarta remessa enviada pelo Minist\u00e9rio da Sa\u00fade. A nova leva de vacinas distribuir\u00e1 986.548 imunizantes para o\u2026 [+1388 chars]",
+      "retrievedAt": "2024-04-27 19:05:36.163955",
+      "internal_id": "26a27166362687543b3e7fd218017d995c0d0f724938837021d41f9c49502e9e",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8639,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Com recorde de casos no Brasil, vacina contra a dengue chega a mais 625 munic\u00edpios",
+      "description": "Em menos de cinco meses, Brasil j\u00e1 registrou quase quatro milh\u00f5es de casos de dengue e 1.792 mortes causadas pela doen\u00e7a O post Com recorde de casos no Brasil, vacina contra a dengue chega a mais 625 munic\u00edpios apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/04/26/medicina-e-saude/com-recorde-de-casos-no-brasil-vacina-contra-a-dengue-chega-a-mais-625-municipios/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/02/vacina-dengue.jpg",
+      "publishedAt": "2024-04-26 13:32:58",
+      "content": "Novos munic\u00edpios brasileiros receber\u00e3o vacinas contra a dengue a partir desta sexta-feira (26). No total, s\u00e3o 625 cidades em seis estados (Alagoas, Cear\u00e1, Sergipe, Piau\u00ed, Mato Grosso e Rio Grande do \u2026 [+2059 chars]",
+      "retrievedAt": "2024-04-27 19:05:36.088645",
+      "internal_id": "233c614affc13d4a51461ccd773981ae186a9b3e68536f1d5cf04e6f2edec452",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8640,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Tamires Ferreira",
+      "title": "Dengue: Brasil tem quase 4 milh\u00f5es de casos prov\u00e1veis",
+      "description": "N\u00famero de \u00f3bitos confirmados j\u00e1 chega a mais de 1,7 mil O post Dengue: Brasil tem quase 4 milh\u00f5es de casos prov\u00e1veis apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/04/26/medicina-e-saude/dengue-brasil-tem-quase-4-milhoes-de-casos-provaveis/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/05/Destaque-dengue.jpg",
+      "publishedAt": "2024-04-26 12:52:09",
+      "content": "De acordo com o Painel de Monitoramento das Arboviroses do Minist\u00e9rio da Sa\u00fade, divulgado na quinta-feira (25), o Brasil j\u00e1 se aproxima dos 4 milh\u00f5es de casos prov\u00e1veis de dengue. Segundo a pasta, s\u00e3\u2026 [+1481 chars]",
+      "retrievedAt": "2024-04-27 19:05:36.096887",
+      "internal_id": "41996fa6c7bd2de376b9bbb8a2e89ba20e6fbdd4d0a33a35f1fbff80accca1a4",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8648,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Timothy Obiezu)",
+      "title": "Soaring prices threaten Nigeria\u2019s malaria control",
+      "description": "Abuja, Nigeria \u2014 Thursday, April 25, marked World Malaria Day, a day to mark progress against the deadly disease. In Nigeria, that progress is being threatened by soaring drug costs caused by inflation, a poor exchange rate and the exit of pharmaceutical comp\u2026",
+      "url": "https://www.voanews.com/a/soaring-prices-threaten-nigeria-s-malaria-control/7586119.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-964e-08dc65ea3675_w1200_r1.jpg",
+      "publishedAt": "2024-04-26 12:18:07",
+      "content": "Abuja, Nigeria Thursday, April 25, marked World Malaria Day, a day to mark progress against the deadly disease. In Nigeria, that progress is being threatened by soaring drug costs caused by inflatio\u2026 [+2960 chars]",
+      "retrievedAt": "2024-04-27 19:05:37.353165",
+      "internal_id": "4d8903752364284bd52b1ba41b600a245c3667617fbc3122870ded1e9fece68b",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8649,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "\u00c1guas de Lindoia confirma primeira morte por febre amarela em 2024",
+      "description": "Segundo a Prefeitura, caso era investigado como dengue. Cidade n\u00e3o tem outras ocorr\u00eancias identificadas at\u00e9 ent\u00e3o. Aedes aegypti \u00e9 o transmissor da chikungunya, dengue, Zika e febre amarela Freepik A Prefeitura de \u00c1guas de Lind\u00f3ia (SP) confirmou a primeira mo\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/26/aguas-de-lindoia-confirma-primeira-morte-por-febre-amarela-em-2024.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/aoe3M0tL0WGhf0XFkv-i_0yqI0U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/f/6/jGeaMRSAWPX7nVHjHzDA/mosquito.jpg",
+      "publishedAt": "2024-04-26 11:52:36",
+      "content": "O caso era investigado como suspeita de dengue, mas um laudo emitido pelo Instituto Adolfo Lutz descartou a possibilidade. A cidade n\u00e3o tem nenhum outro caso identificado at\u00e9 ent\u00e3o. O g1 pediu um p\u2026 [+1791 chars]",
+      "retrievedAt": "2024-04-27 19:05:38.087080",
+      "internal_id": "f6e52acabd80b3cf5c7627cd0a58c5a6674b7870749c9940bf9600bd7beef1eb",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8645,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Santo Ant\u00f4nio do Jardim confirma 1\u00aa morte por dengue em 2024; regi\u00e3o chega a 28 \u00f3bitos",
+      "description": "V\u00edtima era uma idosa de 68 anos que tinha comorbidades. Com 14 \u00f3bitos, Campinas \u00e9 a cidade com o maior n\u00famero de v\u00edtimas pela doen\u00e7a na regi\u00e3o. Mosquito Aedes aegypti \u00e9 respons\u00e1vel por transmitir a dengue. Reprdou\u00e7\u00e3o/EPTV A Prefeitura de Santo Ant\u00f4nio do Jard\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/26/santo-antonio-do-jardim-confirma-1a-morte-por-dengue-em-2024-regiao-chega-a-28-obitos.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/j44gEgHziCCSgVvx6Ec-8CpgD8U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/H/Q/KTZBUxTTKeNca2c7rDUQ/mosquito-da-dengue.png",
+      "publishedAt": "2024-04-26 11:50:23",
+      "content": "Ela estava internada na Santa Casa de S\u00e3o Jo\u00e3o da Boa Vista (SP) e tinha comorbidades como diabetes e hipertens\u00e3o. Com a confirma\u00e7\u00e3o, o total de \u00f3bitos por dengue na \u00e1rea de cobertura do g1 Campina\u2026 [+1887 chars]",
+      "retrievedAt": "2024-04-27 19:05:36.255172",
+      "internal_id": "8444255ec87652cae46da9a762b5a001e5f9a09e19828a09e120912983b7a0de",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8638,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "JO de Paris 2024 : l\u2019Institut Pasteur se pr\u00e9pare \u00e0 accueillir les virus qui accompagneront les touristes",
+      "description": "Avec l\u2019afflux de touristes venus du monde entier avec leurs agents infectieux locaux (grippe, dengue, etc.), la Cellule d\u2019intervention biologique d\u2019urgence, charg\u00e9e de d\u00e9tecter les nouveaux pathog\u00e8nes sur le territoire, se pr\u00e9pare \u00e0 tourner \u00e0 plein r\u00e9gime pen\u2026",
+      "url": "https://www.liberation.fr/societe/sante/jo-de-paris-2024-linstitut-pasteur-se-prepare-a-accueillir-les-virus-qui-accompagneront-les-touristes-20240426_7FHJFDODEVCYHBQZ25H23DBSNE/",
+      "urlToImage": "https://www.liberation.fr/resizer/jfq34LNkMpx2rhLlFw87J0eZdCI=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/QCVNECWD7BCXFMTUOYD6LH3XXE.jpg",
+      "publishedAt": "2024-04-26 11:05:37",
+      "content": "Dans le laboratoire de Jean-Claude Manuguerra, aussi, on se pr\u00e9pare pour les Jeux olympiques de Paris 2024. \u00abOn sait quon risque d\u00eatre mobilis\u00e9s beaucoup plus que dhabitude, mais on sy pr\u00e9pare depuis\u2026 [+4015 chars]",
+      "retrievedAt": "2024-04-27 19:05:36.084074",
+      "internal_id": "9a0a19af4e5c79068ab92fee63e48846fc4b7eeca28a086bc138cf1327186296",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8635,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Nathan Bevan",
+      "title": "Measles spreading in community as cases rise - Public Health Wales",
+      "description": "People are warned to look out for early symptoms like a high temperature, cough and red eyes.",
+      "url": "https://www.bbc.co.uk/news/uk-wales-68903959",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B87E/production/_132403274_gettyimages-1159665832.jpg",
+      "publishedAt": "2024-04-26 08:58:56",
+      "content": "Measles cases are now spreading in the community, Public Health Wales has said. Nine cases have now been confirmed in south east Wales with fears the disease may be spreading. PHW is urging parents\u2026 [+1738 chars]",
+      "retrievedAt": "2024-04-27 19:05:35.167981",
+      "internal_id": "a6dccdd3822282941f82dfc8f0723ae567ce30d556501cf559ff2b91c9d2e9a7",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 8646,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La correcta cobertura vacunal de la meningitis pueden evitar 3 millones de casos y 900.000 muertes para 2030",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) y diferentes l\u00edderes mundiales se re\u00fanen este viernes en Par\u00eds para abordar la meningitis con la nueva hoja de ruta 'Derrotar a la meningitis para 2030' que, seg\u00fan ha se\u00f1alado la responsable de la lucha contra la meni\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-correcta-cobertura-vacunal-meningitis-pueden-evitar-millones-casos-900000-muertes-2030-20240426100449.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240426100449_1200.jpg",
+      "publishedAt": "2024-04-26 08:04:49",
+      "content": "MADRID, 26 Abr. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) y diferentes l\u00edderes mundiales se re\u00fanen este viernes en Par\u00eds para abordar la meningitis con la nueva hoja de ruta 'Derr\u2026 [+4890 chars]",
+      "retrievedAt": "2024-04-27 19:05:36.616079",
+      "internal_id": "d9664a85d25187328be4df6f56e6d3c87a84b975e4ce094a0b163a7e63edcbda",
+      "publishedAtLabel": "Apr 26"
+    },
     {
       "id": 8614,
       "query": [
@@ -34424,354 +34785,6 @@
       "content": "The Middlesex-London Health Unit (MLHU) has confirmed a case of measles in the London-Middlesex community. The health unit says the case involves an adult who likely got measles during travel. The \u2026 [+1714 chars]",
       "retrievedAt": "2024-03-12 07:06:01.743943",
       "internal_id": "277e6b5533826ed60b5baaa7f2f3bb6cb10bd612496facfb69606b0a37a9c953",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6703,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Investing.com",
-      "author": "Reuters",
-      "title": "India's Serum looks beyond COVID with new vaccines for malaria, dengue",
-      "description": "India's Serum looks beyond COVID with new vaccines for malaria, dengue",
-      "url": "https://www.investing.com/news/stock-market-news/indias-serum-looks-beyond-covid-with-new-vaccines-for-malaria-dengue-3331513",
-      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_L.jpg",
-      "publishedAt": "2024-03-10 18:56:53",
-      "content": "By Manas Mishra PUNE, India (Reuters) - The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few y\u2026 [+2350 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.491348",
-      "internal_id": "8cd75edba2bc85dbb1f935d43da9f0a69d6c94ded1ba44438d4617fd1623970c",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6704,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Maria Eduarda Portela",
-      "title": "Crise clim\u00e1tica potencializa casos de dengue no Brasil",
-      "description": "N\u00edsia Trindade, ministra da Sa\u00fade, tamb\u00e9m alertou para o impacto das mudan\u00e7as clim\u00e1ticas nos casos de dengue no Brasil",
-      "url": "https://www.metropoles.com/brasil/crise-climatica-dengue-brasil",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/03/10141755/Mosquito-da-dengue-a-ligacao-com-a-crise-climatica.jpg",
-      "publishedAt": "2024-03-10 18:45:20",
-      "content": "Um estudo da Universidade do Estado do Rio de Janeiro (UERJ) alerta sobre os prov\u00e1veis impactos das mudan\u00e7as clim\u00e1ticas nos casos de arboviroses, como dengue, zika e chikungunya, transmitidas pelo mo\u2026 [+7206 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.509483",
-      "internal_id": "ca3fcd7481327a4e902ee6b184bbb8433a29352a391500db8defdeea8eecff9c",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6700,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "India's Serum looks beyond COVID with new vaccines for malaria, dengue",
-      "description": "PUNE: The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few years of shots against diseases lik",
-      "url": "https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-new-vaccines-malaria-dengue-4185221",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--aAs0w-5W--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-08t101711z_1_lynxmpejb70am_rtroptp_3_health-coronavirus-india-vaccine.jpg?itok=Lv04fq0Y",
-      "publishedAt": "2024-03-10 18:10:10",
-      "content": "PUNE: The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few years of shots against diseases like\u2026 [+1316 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.469125",
-      "internal_id": "ec10827772c27ab93f27f7e14bd217ca4c2ecc4d73d8675b88e6b0ea6e53e455",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6701,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "India's Serum looks beyond COVID-19 with new vaccines for malaria, dengue",
-      "description": "PUNE: The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few years of shots against diseases lik",
-      "url": "https://www.channelnewsasia.com/asia/indias-serum-looks-beyond-covid-19-new-vaccines-malaria-dengue-4185221",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--aAs0w-5W--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-08t101711z_1_lynxmpejb70am_rtroptp_3_health-coronavirus-india-vaccine.jpg?itok=Lv04fq0Y",
-      "publishedAt": "2024-03-10 18:10:00",
-      "content": "PUNE: The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few years of shots against diseases like\u2026 [+1313 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.480267",
-      "internal_id": "b8fb77802a73bccf062e6cd3b534a3ad2fc95fd36d69fa0989e44650be6e673d",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6712,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Quaest: 26% dos brasileiros n\u00e3o pretendem tomar vacina contra a dengue",
-      "description": "Estudo entrevistou 2 mil pessoas entre 25 e 27 de fevereiro deste ano",
-      "url": "https://saude.ig.com.br/2024-03-10/pesquisa-quaest-vacinacao-contra-dengue.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/1g/xs/23/1gxs23fk4ckqd1wrs457cdgmd.jpg",
-      "publishedAt": "2024-03-10 18:03:02",
-      "content": "Cerca de 1 entre 4 brasileiros (26%) n\u00e3o deseja tomar a vacina contra a dengue . O dado foi obtido atrav\u00e9s de uma pesquisa feita pela Quaest , divulgada neste domingo (10). O estudo ouviu 2 mil pes\u2026 [+1868 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.659410",
-      "internal_id": "83077a9253e24f4dc07b8b923c1fb5fcf0f2da1fa1cde4557b9d1ff8d5e78166",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6697,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "NBC Chicago",
-      "author": null,
-      "title": "CDPH reports second measles case at Pilsen migrant shelter",
-      "description": "A second case of measles has been confirmed at a Chicago migrant shelter, public health officials announced Sunday.",
-      "url": "http://www.nbcchicago.com/news/health/health-wellness-science-news/second-case-of-measles-confirmed-at-pilsen-migrant-shelter-cdph-says/3378540/",
-      "urlToImage": "https://media.nbcchicago.com/2021/08/Generic-Doctors-Office-Patient-Room.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2024-03-10 17:31:19",
-      "content": "A second case of measles has been confirmed at a Chicago migrant shelter, public health officials announced Sunday. According to the Chicago Department of Public Health, the case was confirmed at th\u2026 [+1788 chars]",
-      "retrievedAt": "2024-03-11 19:05:25.869076",
-      "internal_id": "793ddfd08b014a465d6ffdec30a67b1160becda021d84547a38cbc031af6c1ba",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6706,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": null,
-      "title": "India's Serum looks beyond COVID with new vaccines for malaria, dengue",
-      "description": "(marketscreener.com) The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few years of shots against diseases like malaria and dengue by repurposing facilities\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/India-s-Serum-looks-beyond-COVID-with-new-vaccines-for-malaria-dengue-46136521/",
-      "urlToImage": "https://www.marketscreener.com/images/reuters/2024-03/2024-03-10T173250Z_1_LYNXNPEK29060_RTROPTP_3_HEALTH-VACCINES-SERUM.JPG",
-      "publishedAt": "2024-03-10 17:30:00",
-      "content": "PUNE, India March 10 (Reuters) - The CEO of the world's biggest vaccine maker, Serum Institute of India, said the company has bolstered its manufacturing ahead of launches over the next few years \u2026 [+2411 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.546054",
-      "internal_id": "f076f47ebc11840b9b069cd814acdea8444cc2fb5c3948a5c765dfca1c4dc97d",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6698,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "FOX 32 Chicago",
-      "author": "Fox 32 Chicago",
-      "title": "Another migrant child at Pilsen shelter diagnosed with measles",
-      "description": "Another migrant child at Pilsen shelter diagnosed with measlesfox32chicago.com",
-      "url": "https://www.fox32chicago.com/news/chicago-migrant-child-pilsen-shelter-measles",
-      "urlToImage": "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2023/10/1280/720/GettyImages-462803922.jpg?ve=1&tl=1",
-      "publishedAt": "2024-03-10 17:14:48",
-      "content": "CHICAGO - A second Chicagomigrant child was reported to have measles on Sunday. The Chicago Department of Public Health (CDPH) said the child has been staying at the new arrivals shelter in Pilsen, \u2026 [+2946 chars]",
-      "retrievedAt": "2024-03-11 19:05:25.875582",
-      "internal_id": "c6b8c04ee40a13c5e5c5961b82185222330697b4da3fcc699bfaf82ee0f51012",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6699,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WLS-TV",
-      "author": "Abc 7 Chicago",
-      "title": "Measles outbreak Chicago: Second child diagnosed at Pilsen migrant shelter in third city case, CDPH says",
-      "description": "Two young children staying at a Chicago migrant shelter were diagnosed with measles, the Chicago Department of Health said Sunday.",
-      "url": "https://abc7chicago.com/measles-chicago-outbreak-pilsen-migrant-shelter/14510818/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/14506226_030824-wls-maher-measles-shelter-10p-vid.jpg?w=1600",
-      "publishedAt": "2024-03-10 16:36:06",
-      "content": "CHICAGO (WLS) -- The video in the player above is from a previous report. A second case of measles involving a child living inside a Pilsen migrant shelter was announced on Sunday. CDPH officials s\u2026 [+4043 chars]",
-      "retrievedAt": "2024-03-11 19:05:25.922923",
-      "internal_id": "62f6f8fbd90b03119d33407583f9f4309e4070fd0d35ebb665b1e09dc6c32479",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6789,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Alto Astral",
-      "title": "Repelente: saiba os cuidados para utilizar com seguran\u00e7a",
-      "description": "O Brasil enfrenta desde o in\u00edcio do ano uma explos\u00e3o decasos dedengue, doen\u00e7a transmitida pelo ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/repelente-saiba-os-cuidados-para-utilizar-com-seguranca,3f77f14b7787afaf0a5d71eaecb724d1fof5nn19.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/10/441015446-cuidado-repelente.jpg",
-      "publishedAt": "2024-03-10 16:01:09",
-      "content": "O Brasil enfrenta desde o in\u00edcio do ano uma explos\u00e3o decasos dedengue, doen\u00e7a transmitida pelo mosquito Aedes aegypti. De acordo com o Minist\u00e9rio da Sa\u00fade, h\u00e1 pelo menos 1 milh\u00e3o de casos suspeitos n\u2026 [+2228 chars]",
-      "retrievedAt": "2024-03-13 07:05:32.642917",
-      "internal_id": "ff8006fc189c0db1cbfe525a6e0fdab271114883b7d6242ea513f169b8be7c93",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6702,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Em um m\u00eas, casos de dengue dobram em S\u00e3o Paulo",
-      "description": "Os casos de dengue confirmados no estado de S\u00e3o Paulo chegaram, neste domingo (10), a 183.288, de acordo com dados da Secretaria da...",
-      "url": "https://jornaldebrasilia.com.br/noticias/brasil/em-um-mes-casos-de-dengue-dobram-em-sao-paulo/",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/03/10153010/IMG_1217.webp",
-      "publishedAt": "2024-03-10 15:31:15",
-      "content": "Os casos de dengue confirmados no estado de S\u00e3o Paulo chegaram, neste domingo (10), a 183.288, de acordo com dados da Secretaria da Sa\u00fade do estado paulista. A quantidade \u00e9 2,1 vezes a registrada em \u2026 [+1237 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.485072",
-      "internal_id": "ed768652a3fb928372247032040d14feab3365d156a99fe89d3296b46a0645e9",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6709,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Minas Gerais responde por um em cada tr\u00eas casos de dengue no pa\u00eds",
-      "description": "Os 464.223 casos prov\u00e1veis registrados no estado nas primeiras semanas de 2024 j\u00e1 superam todos os casos contabilizados ao longo do ano passado",
-      "url": "https://saude.ig.com.br/2024-03-10/engue-casos-minas-gerais-brasil.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2024-03-10 15:30:35",
-      "content": "O Brasil j\u00e1 registrou, desde 1\u00ba de janeiro, 1.342.086 casos prov\u00e1veis de dengue desses, 464.223 casos foram reportados por autoridades sanit\u00e1rias de Minas Gerais. Em primeiro lugar no ranking de n\u00fame\u2026 [+2502 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.610601",
-      "internal_id": "56bc57daa4206af4f1ad60ba70bdf816a7e59fa9a07e4da28540f541396496a3",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6696,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Chicago Tribune",
-      "author": "Carrie Napoleon, Carole Carlson",
-      "title": "No new cases reported after Indiana measles outbreak",
-      "description": "No new cases of measles have been reported in Lake County in the wake of the first confirmed case of the disease in Indiana in five years announced Feb. 23 by the Indiana Department of Health.",
-      "url": "http://www.chicagotribune.com/2024/03/10/no-new-cases-reported-after-indiana-measles-outbreak/",
-      "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/migration/2023/09/03/C3HLOAFJ6JBC3GYG4JL5G7JCZ4.jpg?w=1024&h=670",
-      "publishedAt": "2024-03-10 15:21:33",
-      "content": "No new cases of measles have been reported in Lake County in the wake of the first confirmed case of the disease in Indiana in five years announced Feb. 23 by the Indiana Department of Health. IDOH \u2026 [+4010 chars]",
-      "retrievedAt": "2024-03-11 19:05:25.794791",
-      "internal_id": "049378de4872a9636b570443a23fdd4154faa883b6b1763da4ed8c5443831700",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6710,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Cidade do Rio registra mais de 2 mil casos de dengue em 24 horas",
-      "description": "O bairro com maior n\u00famero de registros \u00e9 Campo Grande, na zona oeste, com 11.558",
-      "url": "https://saude.ig.com.br/2024-03-10/cidade-do-rio-registra-mais-de-2-mil-casos-de-dengue-em-24-horas.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/93/z2/nl/93z2nl62hg0vi7a2la17he7h5.jpg",
-      "publishedAt": "2024-03-10 15:13:01",
-      "content": "O munic\u00edpio do Rio de Janeiro atingiu o total de 56.928 casos de dengue em dados atualizados neste s\u00e1bado (9). O n\u00famero representa um aumento de mais de 2 mil casos em 24 horas. Nessa sexta-feira (8)\u2026 [+3014 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.630860",
-      "internal_id": "f6f36321a14615d07fde60642a2d2fa36bf7d94cff6b803d49df950ad53fe5dd",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6705,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "J\u00e9ssica Ribeiro",
-      "title": "Dengue: menores ter\u00e3o de esperar at\u00e9 meia hora ap\u00f3s vacina\u00e7\u00e3o. Entenda",
-      "description": "Crian\u00e7as e adolescentes de 10 a 14 anos dever\u00e3o ficar em observa\u00e7\u00e3o em unidade de atendimento ap\u00f3s receber dose contra dengue. Saiba mais",
-      "url": "https://www.metropoles.com/distrito-federal/dengue-menores-terao-de-esperar-ate-meia-hora-apos-vacinacao-entenda",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09113159/Vacinacao-dengue-UBS-Asa-2.jpg",
-      "publishedAt": "2024-03-10 15:02:02",
-      "content": "Crian\u00e7as e adolescentes de 10 a 14 anos que tomarem a dose da vacina contra a dengue dever\u00e3o, a partir desta semana, ficar 15 minutos em observa\u00e7\u00e3o na unidade de sa\u00fade de atendimento, segundo a Secre\u2026 [+1757 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.532188",
-      "internal_id": "af19b82f0a7f7c1279b67bec01b7638f3a640406831321b24d2568362625223a",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6711,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "\u00c1ngela \u00c1valos Rodr\u00edguez",
-      "title": "Comunidades m\u00e1s afectadas por dengue recibir\u00e1n repelentes y toldos contra mosquitos",
-      "description": "CCSS distribuir\u00e1 este a\u00f1o 80.000 repelentes y 40.000 toldos contra mosquitos en las comunidades con m\u00e1s enfermos de dengue.",
-      "url": "https://www.nacion.com/el-pais/salud/comunidades-mas-afectadas-por-dengue-recibiran/CPDPFRM3CFAQ3J73RNFY7Z3W3I/story/",
-      "urlToImage": "https://www.nacion.com/resizer/f7moqqFivxWgJ7nbdtvnFJv2KGQ=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Q37GVVLP6RG27CJQ7E76K6XD2E.jpeg",
-      "publishedAt": "2024-03-10 11:15:00",
-      "content": "La Caja Costarricense de Seguro Social (CCSS) entregar\u00e1 80. 000 repelentes y 40.000 toldos contra mosquitos en las comunidades que registran m\u00e1s enfermos de dengue. La distribuci\u00f3n de los productos s\u2026 [+3668 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.640550",
-      "internal_id": "6f9a640129715e126ce979d0a198ced5e9c280da0942472ca114caafa6871253",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6707,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Homework",
-      "title": "5 plantas que realmente afastam o mosquito da dengue",
-      "description": "Com um aumento de mais de 445% nos casos da doen\u00e7a, a ado\u00e7\u00e3o de m\u00e9todos naturais de preven\u00e7\u00e3o torna-se essencial",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/5-plantas-que-realmente-afastam-o-mosquito-da-dengue,1fb5fe768a6d201675d4c8f49e636f57jmw0p7sg.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/09/5-plantas-trrc9scysajm.jpg",
-      "publishedAt": "2024-03-10 09:30:06",
-      "content": "De acordo com o Minist\u00e9rio da Sa\u00fade, o Brasil j\u00e1 superou os 740 mil casos de dengue, representando um aumento de mais de 445% em compara\u00e7\u00e3o ao mesmo per\u00edodo do ano passado, quando foram registrados 1\u2026 [+6910 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.583927",
-      "internal_id": "1ca331b500fde084b142686b15d41a6dfce41e87f327fff667af40d7911b3601",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6708,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Pedro Gabriel, Pedro Gabriel",
-      "title": "Co-infec\u00e7\u00e3o de Covid e Dengue: riscos ao contrair ambas ao mesmo tempo",
-      "description": "Especialista alerta para a maior fragilidade do corpo no caso de co-infec\u00e7\u00e3o e quais os m\u00e9todos para se prevenir",
-      "url": "https://saude.ig.com.br/2024-03-10/co-infeccao-de-covid-e-dengue--riscos-ao-contrair-ambas-ao-mesmo-tempo.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/7t/8r/7m/7t8r7m0d2pbe2d62xm8uka5jt.jpg",
-      "publishedAt": "2024-03-10 09:00:34",
-      "content": "O ano de 2024 come\u00e7ou conturbado para a sa\u00fade brasileira. De um lado, temos o Brasil registrando uma crescente cont\u00ednua e preocupante de casos de Dengue. Do outro, uma nova onda da Covid-19 surge e p\u2026 [+3679 chars]",
-      "retrievedAt": "2024-03-11 19:05:26.601945",
-      "internal_id": "ceb8d2530157079732cae7d54d2104d8c34c1dbc9655127e660e4915c8f60cb9",
-      "publishedAtLabel": "Mar 10"
-    },
-    {
-      "id": 6713,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Sarah Almagro, campeona de surf sin piernas ni brazos: \u00abEl mar trata a todos por igual\u00bb",
-      "description": "Sarah Almagro Vallejo, una chica de Marbella que hoy tiene 24 a\u00f1os, le cambi\u00f3 la vida a los 18, despu\u00e9s de hacer la EvAU (evaluaci\u00f3n para el Acceso a la Universidad). Todo iba bien hasta que una meningitis meningoc\u00f3cica provoc\u00f3 la amputaci\u00f3n de los dos pies y\u2026",
-      "url": "https://www.abc.es/espana/andalucia/sarah-almagro-surfista-manos-pies-convertido-subcampeona-20240310140246-nts.html",
-      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/natural/2024/03/01/WhatsAppImage2024-02-29at13.23.26-U32230042336oDQ-1024x512@diario_abc.jpeg",
-      "publishedAt": "2024-03-10 07:17:26",
-      "content": "Sarah Almagro Vallejo, una chica de Marbella que hoy tiene 24 a\u00f1os, le cambi\u00f3 la vida a los 18, despu\u00e9s de hacer la EvAU (evaluaci\u00f3n para el Acceso a la Universidad). Todo iba bien hasta que una meni\u2026 [+602 chars]",
-      "retrievedAt": "2024-03-11 19:05:27.010977",
-      "internal_id": "703d640ca85d974dc37dbe7d3fd8fe247ee3e2fc1eaa974d2bc07aba41cdcff4",
       "publishedAtLabel": "Mar 10"
     }
   ]
