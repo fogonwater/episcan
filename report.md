@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-04-28 07:05
-- **Most recent article:** 2024-04-26 23:58:20
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-04-28 19:05
+- **Most recent article:** 2024-04-27 19:00:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 178 | 186 | 158 | 138 | 113 | 101 | 874 |
-| measles | 87 | 44 | 36 | 43 | 40 | 25 | 275 |
-| malaria | 18 | 7 | 13 | 16 | 29 | 68 | 151 |
+| dengue | 170 | 186 | 158 | 138 | 113 | 108 | 873 |
+| measles | 86 | 44 | 36 | 43 | 40 | 26 | 275 |
+| malaria | 17 | 7 | 13 | 16 | 29 | 70 | 152 |
 | meningitis | 8 | 16 | 4 | 15 | 44 | 5 | 92 |
 | zika | 12 | 21 | 11 | 10 | 8 | 2 | 64 |
 | chikungunya | 15 | 9 | 12 | 7 | 5 | 4 | 52 |
 | mpox | 4 | 6 | 12 | 3 | 13 | 8 | 46 |
 | sarampión | 12 | 3 | 5 | 13 | 0 | 10 | 43 |
-| rabies | 7 | 3 | 16 | 8 | 3 | 3 | 40 |
+| rabies | 6 | 3 | 16 | 8 | 3 | 3 | 39 |
 | pertussis | 3 | 6 | 7 | 9 | 7 | 5 | 37 |
 | leptospirosis | 0 | 0 | 1 | 3 | 3 | 3 | 10 |
-| yersinia | 3 | 1 | 3 | 0 | 2 | 0 | 9 |
+| yersinia | 1 | 1 | 3 | 0 | 2 | 0 | 7 |
 | typhoid | 1 | 1 | 0 | 0 | 2 | 0 | 4 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -112,6 +112,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-17 (measles)
 
+- [Surgeon general urges measles vaccine among military amid rise in cases, positive member](https://www.cbc.ca/news/canada/new-brunswick/measles-military-vaccine-memo-surgeon-general-canadian-armed-forces-quebec-positive-1.7186150) (CBC News)
+
 - [More than 150 people in West Virginia exposed to measles: Health officials](https://abcnews.go.com/Health/150-people-west-virginia-exposed-measles-health-officials/story?id=109701072) (ABC News)
 
 - [Health officer warns about dangers of measles as first case in 15 years hits West Virgina](https://www.wsaz.com/2024/04/26/health-officer-warns-about-dangers-measles-first-case-15-years-hits-west-virgina/) (WSAZ-TV)
@@ -163,6 +165,10 @@ Source: [News API](https://newsapi.org/)
 - [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
 
 ## 24-17 (malaria)
+
+- [Día de la Malaria: La prevención y la atención en salud deben ser comunitarias](https://www.elfinanciero.com.mx/salud/2024/04/27/dia-de-la-malaria-la-prevencion-y-la-atencion-en-salud-deben-ser-comunitarias/) (El Financiero)
+
+- [Zanzara della malaria trovata in Italia dopo 50 anni: la scoperta in Puglia](https://www.ilgiornale.it/news/nazionale/zanzara-malaria-trovata-italia-50-anni-scoperta-puglia-2315042.html) (Ilgiornale.it)
 
 - [Claim: Global Warming is Spreading Malaria and Dengue to Europe](https://wattsupwiththat.com/2024/04/26/claim-global-warming-spreading-malaria-and-dengue-to-europe/) (Wattsupwiththat.com)
 
@@ -310,6 +316,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-17 (dengue)
 
+- [Os remédios e vacinas que devem ter alíquota zerada na reforma tributária](https://veja.abril.com.br/economia/os-remedios-e-vacinas-que-devem-ter-aliquota-zerada-na-reforma-tributaria) (Abril.com.br)
+
+- [Artur Nogueira confirma morte por dengue de criança de 11 anos; região chega a 30 óbitos](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/27/artur-nogueira-confirma-morte-por-dengue-de-crianca-de-11-anos-regiao-chega-a-30-obitos.ghtml) (Globo)
+
+- [Sumaré confirma 1ª morte por dengue em 2024; região chega a 29 óbitos](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/27/sumare-confirma-1a-morte-por-dengue-em-2024-regiao-chega-a-29-obitos.ghtml) (Globo)
+
+- [Americana amplia faixa etária da vacinação contra dengue para crianças de 10 a 14 anos](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/27/americana-amplia-faixa-etaria-da-vacinacao-contra-dengue-para-criancas-de-10-a-14-anos.ghtml) (Globo)
+
+- [RS registra 109 mortes por dengue em 2024](https://www.terra.com.br/noticias/rs-registra-109-mortes-por-dengue-em-2024,36791158e11f1fefb1845204a08a17dazipwf1gt.html) (Terra.com.br)
+
+- [Cantor Leandro contraiu dengue no Brasil: "Perdi uns 5 ou 6 quilos"](https://www.vidas.pt/a-ferver/detalhe/cantor-leandro-contraiu-dengue-no-brasil-perdi-uns-5-ou-6-quilos) (Vidas.pt)
+
 - [Dengue: por que percentual de internações em Campinas é oito vezes maior que o registrado em 2015](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/26/dengue-por-que-percentual-de-internacoes-em-campinas-e-oito-vezes-maior-que-o-registrado-em-2015.ghtml) (Globo)
 
 - [Paciente com doença rara tem diagnóstico errado e luta por vaga em UTI](https://www.metropoles.com/distrito-federal/paciente-doenca-rara-dengue-vaga-uti) (Metropoles.com)
@@ -377,6 +395,8 @@ Source: [News API](https://newsapi.org/)
 - [The inflammasome pathway is activated by dengue virus non-structural protein 1 and is protective during dengue virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012167) (Plos.org)
 
 - [Record alarmant de cas de dengue en France avant les JO : ce qu’il faut savoir](https://www.futura-sciences.com/sante/actualites/moustique-record-alarmant-cas-dengue-france-avant-jo-ce-quil-faut-savoir-113114/) (Futura)
+
+- [Record inquiétant de cas de dengue en France : tout ce qu’il faut savoir](https://www.futura-sciences.com/sante/actualites/moustique-record-inquietant-cas-dengue-france-tout-ce-quil-faut-savoir-113114/) (Futura)
 
 - [Hyundai Bioscience's antiviral for Dengue Fever to enter clinical trials in Brazil](https://www.investorsobserver.com/news/qm-pr/5155170940029391) (InvestorsObserver)
 
@@ -2876,10 +2896,6 @@ Source: [News API](https://newsapi.org/)
 
 - [У людей каменного века обнаружили опасные инфекции](https://lenta.ru/news/2024/03/18/bacterium/) (Lenta)
 
-- [Como a peste bubônica reestruturou o sistema imunológico humano](https://www.bbc.com/portuguese/articles/c4nmvjdkngpo) (BBC News)
-
-- [Почему поцелуи в каменном веке были смертельно опасными](https://hi-news.ru/eto-interesno/pochemu-pocelui-v-kamennom-veke-byli-smertelno-opasnymi.html) (Hi-news.ru)
-
 ## 24-12 (typhoid)
 
 - [Kingpin is back as the physical embodiment of the seven deadly sins to reclaim his place as Daredevil's arch-enemy](https://www.gamesradar.com/kingpin-is-back-as-the-physical-embodiment-of-the-seven-deadly-sins-to-reclaim-his-place-as-daredevils-arch-enemy/) (GamesRadar+)
@@ -2927,8 +2943,6 @@ Source: [News API](https://newsapi.org/)
 - [Reframing the problem of India’s street dogs](https://blogs.lse.ac.uk/lsereviewofbooks/2024/03/19/reframing-the-problem-of-indias-street-dogs/) (Lse.ac.uk)
 
 - [I Drink Your Blood Streaming: Watch & Stream Online via Peacock](https://www.comingsoon.net/guides/news/1608541-i-drink-your-blood-streaming-watch-stream-online-via-peacock) (ComingSoon.net)
-
-- [Indian sophistication on stray dogs can be confusing](https://www.livemint.com/opinion/online-views/indian-sophistication-on-stray-dogs-can-be-confusing-11710675151847.html) (Livemint)
 
 ## 24-12 (pertussis)
 
@@ -3140,8 +3154,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['We can see this one coming': Pharmacists want govt to let them give vaccine against measles](https://www.thejournal.ie/pharmacists-want-to-help-with-mmr-vaccines-6326161-Mar2024/) (TheJournal.ie)
 
-- [Measles: What to know about one of the most contagious diseases](https://nationalpost.com/health/what-to-know-about-measles-symptoms-vaccines) (National Post)
-
 ## 24-12 (malaria)
 
 - [Confirman en Coahuila caso de malaria en una mujer embarazada](https://www.record.com.mx/contra/confirman-en-coahuila-caso-de-malaria-en-una-mujer-embarazada) (Record.com.mx)
@@ -3177,8 +3189,6 @@ Source: [News API](https://newsapi.org/)
 - [Un esqueleto de época romana revela cómo llegó la malaria a Europa](https://www.nationalgeographic.com.es/ciencia/se-ha-descifrado-genoma-malaria-esqueleto-epoca-romana_21875) (Nationalgeographic.com.es)
 
 - [Africa: Infectious Diseases Fester in Wake of Drought, War - UN Report](https://allafrica.com/stories/202403180129.html) (AllAfrica - Top Africa News)
-
-- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
 
 ## 24-12 (dengue)
 
@@ -3521,22 +3531,6 @@ Source: [News API](https://newsapi.org/)
 - [Roxy Vázquez reveló detalles de cómo transitó el dengue y sus días en el hospital: “Estoy débil”](https://www.lanacion.com.ar/espectaculos/roxy-vazquez-revelo-detalles-de-como-transito-el-dengue-y-sus-dias-en-el-hospital-estoy-debil-nid17032024/) (La Nacion)
 
 - [Lula chama reunião ministerial para mudar agenda e reverter queda na popularidade](https://valor.globo.com/politica/noticia/2024/03/17/lula-chama-reunio-ministerial-para-mudar-agenda-e-reverter-queda-na-popularidade.ghtml) (Globo)
-
-- [Dengue en Argentina: se registraron 79 muertos y 120.000 infectados desde agosto de 2023](https://www.lanacion.com.ar/sociedad/dengue-en-argentina-se-registraron-79-muertos-y-120000-infectados-desde-agosto-de-2023-nid17032024/) (La Nacion)
-
-- [Dengue se espalha para o Sul e Centro-Oeste, diz estudo da Fiocruz](https://saude.ig.com.br/2024-03-17/dengue-se-espalha-para-o-sul-e-centro-oeste--diz-estudo-da-fiocruz.html) (Ig.com.br)
-
-- [Dengue: Governo de SP vai distribuir 300 mil repelentes para gestantes](https://catracalivre.com.br/saude-bem-estar/dengue-governo-de-sp-vai-distribuir-300-mil-repelentes-para-gestantes/) (Catracalivre.com.br)
-
-- [Cómo eliminar los mosquitos de la cocina](https://www.lanacion.com.ar/sociedad/como-eliminar-los-mosquitos-de-la-cocina-nid17032024/) (La Nacion)
-
-- [Brasil y Argentina multiplican en 2024 los casos de dengue registrados en 2023](https://www.montevideo.com.uy/Salud/Brasil-y-Argentina-multiplican-en-2024-los-casos-de-dengue-registrados-en-2023-uc882821) (Montevideo.com.uy)
-
-- [Alta de casos de dengue no país](https://www.diariodigital.com.br/geral/alta-de-casos-de-dengue-no-pais) (Diariodigital.com.br)
-
-- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
-
-- [Veja a diferença entre os sintomas de dengue e covid-19](https://saude.ig.com.br/2024-03-17/veja-diferenca-entre-sintomas-dengue-covid-19.html) (Ig.com.br)
 
 ## 24-12 (chikungunya)
 
