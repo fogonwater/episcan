@@ -1,8 +1,677 @@
 {
-  "last_updated": "2024-04-30 07:06",
-  "count_articles_total": 1647,
-  "count_articles_new": 12,
+  "last_updated": "2024-04-30 19:05",
+  "count_articles_total": 1672,
+  "count_articles_new": 37,
   "articles": [
+    {
+      "id": 8716,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Naian Lucas Lopes, Naian Lucas Lopes",
+      "title": "Prefeitura de SP diz que todos os bairros est\u00e3o com epidemia de dengue",
+      "description": "De acordo com os dados apresentados, todos os bairros da capital paulista est\u00e3o agora em estado de epidemia da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-04-29/sao-paulo-todos-bairros-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-04-29 18:57:24",
+      "content": "A cidade de S\u00e3o Paulo enfrenta uma situa\u00e7\u00e3o preocupante com a dissemina\u00e7\u00e3o da dengue, conforme apontado pelo boletim epidemiol\u00f3gico divulgado pela Prefeitura nesta segunda-feira (29). De acordo com o\u2026 [+1423 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.916287",
+      "internal_id": "66be14fa9cb48b210caf0e0fb64e97f988e8dfc936fafece3480884d671ea7e1",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8713,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Una bacteria podr\u00eda ser eficaz para evitar la expansi\u00f3n del mosquito tigre en Espa\u00f1a",
+      "description": "Una investigaci\u00f3n, publicada en la revista cient\u00edfica 'Insects', ha desvelado que la bacteria 'Wolbachia' podr\u00eda jugar un papel clave para frenar la expansi\u00f3n del mosquito tigre en Espa\u00f1a ('Aedes albopictus'), vector de enfermedades como el dengue, el Zika o \u2026",
+      "url": "https://www.abc.es/sociedad/bacteria-eficaz-evitar-expansion-mosquito-tigre-espana-20240429201657-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/sociedad/2024/04/29/mosquito-tigre-kU2F--1024x512@diario_abc.JPG",
+      "publishedAt": "2024-04-29 18:16:57",
+      "content": "Una investigaci\u00f3n, publicada en la revista cient\u00edfica 'Insects', ha desvelado que la bacteria 'Wolbachia' podr\u00eda jugar un papel clave para frenar la expansi\u00f3n del mosquito tigre en Espa\u00f1a ('Aedes alb\u2026 [+3282 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.874019",
+      "internal_id": "437b95d8e1807f5ee648fc1a3c893cb9ce6a58d074ef3639f45831ec2fa852b6",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8741,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Robyn White",
+      "title": "US Dog Owners Warned Against Widespread Deadly Bacterial Illness",
+      "description": "Despite availability of an effective vaccine, veterinarian Emmanuelle Butty still sees dogs with the serious disease.",
+      "url": "https://www.newsweek.com/us-dog-owners-widespread-deadly-bacterial-illness-1895219",
+      "urlToImage": "https://d.newsweek.com/en/full/2385197/dog-vet.jpg",
+      "publishedAt": "2024-04-29 17:51:31",
+      "content": "A veterinarian has warned dog owners to get their pets vaccinated against a widespread, potentially fatal bacterial illness called leptospirosis. \"It's heartbreaking when we see these cases,\" Emmanu\u2026 [+3444 chars]",
+      "retrievedAt": "2024-04-30 19:05:18.331618",
+      "internal_id": "bcfb8d2575267ba32ddb67fa1ddb1a41e1292920526e1028a55e37c9b142849e",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8726,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Leonie Feuerbach",
+      "title": "Aurea Pereira Steberl: Was es hei\u00dft, eine schwarze Brasilianerin zu sein",
+      "description": "T\u00e4nzerin in Belo Horizonte, Goldgr\u00e4berin am Amazonas, Haushaltshilfe in Deutschland \u2013 das Buch \u201eAurea\u201c erz\u00e4hlt von den Stationen der Brasilianerin Aurea Pereira Steberl. Es zeigt, was es bedeutet, in Brasilien als Schwarze aufzuwachsen.",
+      "url": "https://www.faz.net/aktuell/stil/leib-seele/aurea-was-es-bedeutet-als-schwarze-frau-in-brasilien-zu-leben-19643672.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/3879349160/1.9643689/facebook_teaser/paula-macedo-weiss-links-und.jpg",
+      "publishedAt": "2024-04-29 17:39:28",
+      "content": "Sie schlug sich durch, als Haushaltshilfe, Kosmetikerin, Goldgr\u00e4berin. \u00dcberlebte Hunger, Malaria, einen Mordversuch. Und kam schlie\u00dflich nach Deutschland. All das schildert die Frankfurter M\u00e4zenin un\u2026 [+5844 chars]",
+      "retrievedAt": "2024-04-30 19:05:16.731959",
+      "internal_id": "35657d46d566a38bbb030d538af9d1cf6831440cd3d6355343d4398157352292",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8722,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Brasil registra 1.888 mortes por dengue em 2024 e 3,9 milh\u00f5es de casos prov\u00e1veis",
+      "description": "\u00c9 o maior n\u00famero da s\u00e9rie hist\u00f3rica registrada pelo Minist\u00e9rio da Sa\u00fade desde 2000",
+      "url": "https://valor.globo.com/brasil/noticia/2024/04/29/brasil-registra-1888-mortes-por-dengue-em-2024-e-39-milhoes-de-casos-provaveis.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/ZQ3hef375ur7CAIg1eUrEhs9XlU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/9/O/2dYBPYRCu5rYybJqjM5A/106083108-bras-c3-adlia-20df-2029-02-2024-20-20larvas-20s-c3-a3o-20analisadas-20em-20laborat-c3-b3rio-20da-20vigil-c3-a2ncia-20ambiental-20do-20d.jpg",
+      "publishedAt": "2024-04-29 16:27:01",
+      "content": "O pa\u00eds j\u00e1 registrou, em 2024, 1.888 mortes por dengue, segundo dados do Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade, atualizado pela \u00faltima vez na sexta-feira (26). \u00c9 o maior n\u00famero\u2026 [+2091 chars]",
+      "retrievedAt": "2024-04-30 19:05:16.002982",
+      "internal_id": "b350f7660cb2e8ada037e5e1e1bb9748dc036c3ff8873ab2c85113ffa4558372",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8732,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Kenya distributes 15.3 mln malaria insecticidal nets targeting 27 mln people",
+      "description": "NAIROBI, April 29 (Xinhua) -- The Kenyan Ministry of Health is distributing 15.3 million long-lasting insecticidal nets (LLINs) in 22 counties, targeting 27 million people at risk of malaria, a government official said on Monday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/04/30/kenya-distributes-153-mln-malaria-insecticidal-nets-targeting-27-mln-people",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-04-29 16:17:00",
+      "content": "NAIROBI, April 29 (Xinhua) -- The Kenyan Ministry of Health is distributing 15.3 million long-lasting insecticidal nets (LLINs) in 22 counties, targeting 27 million people at risk of malaria, a gover\u2026 [+1273 chars]",
+      "retrievedAt": "2024-04-30 19:05:16.812410",
+      "internal_id": "9291f7804fb54fea1ac5c021aa9dbcb35c4c1dd63b01ae8d94a74d7288964fd0",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8711,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Los casos mundiales de sarampi\u00f3n casi se duplican en un a\u00f1o",
+      "description": "El doctor Patrick O'Connor, de la sede de la OMS en Ginebra (Suiza), ha advertido de que los casos mundiales de sarampi\u00f3n casi se han duplicado en un a\u00f1o, al pasar de 171.153 casos en 2022 a 321.582 en 2023. Aunque esta cifra a\u00fan est\u00e1 por concretar, supone un\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-casos-mundiales-sarampion-casi-duplican-ano-20240429180712.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240429180712_1200.jpg",
+      "publishedAt": "2024-04-29 16:07:12",
+      "content": "MADRID, 29 Abr. (EUROPA PRESS) - El doctor Patrick O'Connor, de la sede de la OMS en Ginebra (Suiza), ha advertido de que los casos mundiales de sarampi\u00f3n casi se han duplicado en un a\u00f1o, al pasar\u2026 [+7691 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.442585",
+      "internal_id": "d99342514524ede8e1f99765cdb6a73e9caab533f830102fb1da06d72f9c0702",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8721,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Una bacteria podr\u00eda ser eficaz para evitar la expansi\u00f3n del mosquito tigre en Espa\u00f1a",
+      "description": "Una investigaci\u00f3n, publicada en la revista cient\u00edfica 'Insects', ha desvelado que la bacteria 'Wolbachia' podr\u00eda jugar un papel clave para frenar la expansi\u00f3n del mosquito tigre en Espa\u00f1a ('Aedes albopictus'), vector de enfermedades como el dengue, el Zika o \u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-bacteria-podria-ser-eficaz-evitar-expansion-mosquito-tigre-espana-20240429173157.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240429173157_1200.jpg",
+      "publishedAt": "2024-04-29 15:31:57",
+      "content": "MADRID, 29 Abr. (EUROPA PRESS) - Una investigaci\u00f3n, publicada en la revista cient\u00edfica 'Insects', ha desvelado que la bacteria 'Wolbachia' podr\u00eda jugar un papel clave para frenar la expansi\u00f3n del \u2026 [+3346 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.998601",
+      "internal_id": "a9978c8c1f3e3237f2c1e63cf50fb37ac2e7379c0a4a92c38bc07d6fcbbe7da8",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8738,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Susanne St\u00f6cker",
+      "title": "Vaccinia virus: New insights into the structure and function of the poxvirus prototype",
+      "description": "An outbreak of infections with the mpox virus&mdash;formerly known as monkeypox&mdash;in Europe in 2022 led to a rise in interest in poxviruses. An international research team has now investigated the structure of the poxvirus prototype, the vaccinia virus (V\u2026",
+      "url": "https://phys.org/news/2024-04-vaccinia-virus-insights-function-poxvirus.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/vaccinia-virus-new-ins.jpg",
+      "publishedAt": "2024-04-29 15:31:51",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+478 chars]",
+      "retrievedAt": "2024-04-30 19:05:17.944847",
+      "internal_id": "ad2f10af3b765a44f844a734656977082cc4532b619b8588b37699fb1a9de3c6",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8743,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Iltalehti.fi",
+      "author": null,
+      "title": "Tampereella ruokamyrkytys\u00adepidemia",
+      "description": "T\u00e4ll\u00e4 hetkell\u00e4 varmistettuja tapauksia on 12. Ruokamyrkytysep\u00e4iltyj\u00e4 on t\u00e4ll\u00e4 hetkell\u00e4 yli 40. Tampereen alueella riehuu ruokamyrkytysepidemia. Syyksi ep\u00e4ill\u00e4\u00e4n kasviksia. Tampereen kaupunki tiedottaa Pirkanmaalla todetun 43 mahdollista ruokamyrkytystapausta.\u2026",
+      "url": "https://www.iltalehti.fi/kotimaa/a/a15a245d-efde-4181-985e-f44c3e1f79ab",
+      "urlToImage": "https://img.ilcdn.fi/gUatg6yxU3R-_KFzKtvdfhACSq4=/1200x630/top/filters:watermark(assets.ilcdn.fi/ilsome_v2.jpg,25,0,0)/img-s3.ilcdn.fi/129a394da1de7bfd9fe0869a5050cb372657c5a74f4888a666c6ab77090beb7c.jpg",
+      "publishedAt": "2024-04-29 14:41:12",
+      "content": "Tampereen alueella riehuu ruokamyrkytysepidemia. Syyksi ep\u00e4ill\u00e4\u00e4n kasviksia. Tampereen kaupunki tiedottaa Pirkanmaalla todetun 43 mahdollista ruokamyrkytystapausta. N\u00e4ist\u00e4 12 on varmistettu yersinia\u2026 [+682 chars]",
+      "retrievedAt": "2024-04-30 19:05:18.532937",
+      "internal_id": "da98eb082aac4f14390a8ac52b6b33cd7abc1180e1ae92082ca734a86b23d962",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8712,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Reforma tribut\u00e1ria deixar\u00e1 vacinas e medicamentos mais baratos",
+      "description": "Texto prev\u00ea isen\u00e7\u00e3o para vacinas contra a Covid-19, dengue e febre amarela, al\u00e9m de outros imunizantes e medicamentos O post Reforma tribut\u00e1ria deixar\u00e1 vacinas e medicamentos mais baratos apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/04/29/medicina-e-saude/reforma-tributaria-deixara-vacinas-e-medicamentos-mais-baratos/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/10/vacinas.jpg",
+      "publishedAt": "2024-04-29 14:36:54",
+      "content": "Diversos medicamentos e vacinas, entre elas os imunizantes contra a covid-19, a dengue e a febre amarela, podem ter isen\u00e7\u00e3o de impostos no Brasil. \u00c9 isso o que prev\u00ea o texto da reforma tribut\u00e1ria env\u2026 [+1788 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.863158",
+      "internal_id": "05c749d82f3b04879bf19dd3aae5b781bf5826387c39386f92d167963acf57ec",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8717,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yawen Wang, Conglu Li, Shi Zhao, Yuchen Wei, Kehang Li, Xiaoting Jiang, Janice Ho, Jinjun Ran, Lefei Han, Benny Chung-ying Zee, Ka Chun Chong",
+      "title": "Projection of dengue fever transmissibility under climate change in South and Southeast Asian countries",
+      "description": "Author summary Climate change has a significant impact worldwide, including the proliferation of infectious diseases in tropical areas. While the warmer and more humid living conditions in these regions are generally considered favorable for the transmission \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012158",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012158.g004&size=inline",
+      "publishedAt": "2024-04-29 14:00:00",
+      "content": "Abstract Vector-borne infectious disease such as dengue fever (DF) has spread rapidly due to more suitable living environments. Considering the limited studies investigating the disease spread under\u2026 [+39720 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.923836",
+      "internal_id": "dba1f73298c6ef481f2c3c2e4a033847c6d594d1c984a0fef1f586ed452803b9",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8718,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Leonardo D. Ortega-L\u00f3pez, Mauro Pazmi\u00f1o Betancourth, Renato Le\u00f3n, Alain Kohl, Heather M. Ferguson",
+      "title": "Behaviour and distribution of Aedes aegypti mosquitoes and their relation to dengue incidence in two transmission hotspots in coastal Ecuador",
+      "description": "Author summary Dengue transmission is hyperendemic in coastal Ecuador. However, there is limited understanding of how exposure to Aedes aegypti vectors varies at the neighbourhood-level and in response to local micro-climatic conditions. Here, we investigated\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010932",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0010932.g006&size=inline",
+      "publishedAt": "2024-04-29 14:00:00",
+      "content": "Abstract Background Dengue (DENV) transmission is endemic throughout coastal Ecuador, showing heterogeneous incidence patterns in association with fine-scale variation in Aedes aegypti vector popul\u2026 [+63260 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.931809",
+      "internal_id": "895bf53e58dced3965aedf5077dda4182682e8157f2bcb17ac44a15a0ff853da",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8723,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Apolinar M. Hern\u00e1ndez, Luis D. Alcaraz, Crist\u00f3bal Hern\u00e1ndez-\u00c1lvarez, Miguel F. Romero, Ang\u00e9lica Jara-Serv\u00edn, Hugo Barajas, Carlos M. . Ram\u00edrez, Mariana Peimbert",
+      "title": "Revealing the microbiome diversity and biocontrol potential of field Aedes ssp.: Implications for disease vector management",
+      "description": "The mosquito Aedes spp. holds important relevance for human and animal health, as it serves as a vector for transmitting multiple diseases, including dengue and Zika virus. The microbiome\u2019s impact on its host\u2019s health and fitness is well known. However, most \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302328",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0302328.g006&size=inline",
+      "publishedAt": "2024-04-29 14:00:00",
+      "content": "Abstract The mosquito Aedes spp. holds important relevance for human and animal health, as it serves as a vector for transmitting multiple diseases, including dengue and Zika virus. The microbiomes \u2026 [+61155 chars]",
+      "retrievedAt": "2024-04-30 19:05:16.011454",
+      "internal_id": "292a03bd6dd49a3a128420dbfd7f1a5b6052a8198d5fdfbc3b3ca8f94d2334a4",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8731,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Estee Y. Cramer, Xuan Quang Nguyen, Jeffrey C. Hertz, Do Van Nguyen, Huynh Hong Quang, Ian H. Mendenhall, Andrew A. Lover",
+      "title": "Measuring effects of ivermectin-treated cattle on potential malaria vectors in Vietnam: A cluster-randomized trial",
+      "description": "Author summary Malaria incidence in Vietnam has substantially declined in the last decade, however, current prevention strategies may be insufficient to achieve national elimination goals. A proposed tool for use as a mosquitocide is zooprophylaxis-aided iver\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012014",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012014.g005&size=inline",
+      "publishedAt": "2024-04-29 14:00:00",
+      "content": "Citation: Cramer EY, Nguyen XQ, Hertz JC, Nguyen DV, Quang HH, Mendenhall IH, et al. (2024) Measuring effects of ivermectin-treated cattle on potential malaria vectors in Vietnam: A cluster-randomize\u2026 [+41658 chars]",
+      "retrievedAt": "2024-04-30 19:05:16.792449",
+      "internal_id": "2ed38a4d3c06da16fae85a377a80be01f35c9383d9d1413602fd31da2cffcdbc",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8715,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "SES questionar\u00e1 crit\u00e9rios de distribui\u00e7\u00e3o de vacinas contra a dengue em munic\u00edpios ga\u00fachos",
+      "description": "Decis\u00e3o do Minist\u00e9rio da Sa\u00fade deixa d\u00favidas sobre escolha dos contemplados e faixa et\u00e1ria inicial para imuniza\u00e7\u00e3o",
+      "url": "https://www.terra.com.br/noticias/ses-questionara-criterios-de-distribuicao-de-vacinas-contra-a-dengue-em-municipios-gauchos,cb8b33b62387c2588dc18fb2e5f49483jpdu62ud.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/29/1604117231-captura-de-tela-2023-04-11-as-174110-e1683306865917.jpg",
+      "publishedAt": "2024-04-29 13:57:48",
+      "content": "Em uma reuni\u00e3o agendada para a manh\u00e3 desta segunda-feira (29), a epidemiologista Tani Ranieri, coordenadora do Centro Estadual de Vigil\u00e2ncia em Sa\u00fade do Estado (Cevs), da Secretaria Estadual da Sa\u00fade\u2026 [+1599 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.911946",
+      "internal_id": "30b051128b3cfd467df9e9e49eec497a17848fb2f638029c668ce8af6aea7555",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8728,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Petra Brost-Koruhn",
+      "title": "Gef\u00e4hrliches Insekt in Italien entdeckt \u2013 Experten alarmiert",
+      "description": "Das Insekt galt in Italien als ausgemerzt. Doch Experten haben das es gesichtet und warnen vor der Gefahr: Es kann Malaria \u00fcbertragen.",
+      "url": "https://www.morgenpost.de/vermischtes/article242211950/Gefaehrliches-Insekt-in-Italien-entdeckt-Experten-alarmiert.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/242211948/242211948_1714399021_v16_9_1600.jpeg",
+      "publishedAt": "2024-04-29 13:57:02",
+      "content": "Rom. Das Insekt galt in Italien als ausgemerzt. Doch Experten haben das es gesichtet und warnen vor der Gefahr: Es kann Malaria \u00fcbertragen. Es war eine gute Nachricht: Vor gut einem halben Jahrhunde\u2026 [+3661 chars]",
+      "retrievedAt": "2024-04-30 19:05:16.757252",
+      "internal_id": "36e532225e78298638ef95fc4a2eac3745f53d3a4a463765f302a3ed207849d8",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8720,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Dengue \u00e9 considerada epidemia em todos os bairros de S\u00e3o Paulo",
+      "description": "Epidemia atinge todos os 96 bairros da cidade; at\u00e9 a semana passada, Moema e Jardim Paulista eram os \u00fanicos que n\u00e3o tinham atingido a marca.",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-e-considerada-epidemia-em-todos-os-bairros-de-sao-paulo,aa3436cb9b37a861f4f2f515e3346fc1r9grshk1.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/09/dengue-e-chikungunya-1jy7ryyl96jp5.jpg",
+      "publishedAt": "2024-04-29 13:37:12",
+      "content": "ResumoA prefeitura de S\u00e3o Paulo divulgou boletim de arboviroses informando que a dengue chegou ao n\u00edvel de epidemia em todos os 96 bairros da cidade. O prefeito Ricardo Nunes lamentou os dados durant\u2026 [+1703 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.965449",
+      "internal_id": "0bbfa60b79b64c9f3ac10fd32b37dbf67767f03a68b111a774e6083237897ccb",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8709,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Marcie Jones",
+      "title": "Uh Oh! Is RFK Jr. Stealing Core Republican 'Conspiracy Theorists With Measles' Vote From Trump?",
+      "description": "That's not what was supposed to happen!",
+      "url": "https://www.wonkette.com/p/uh-oh-is-rfk-jr-stealing-core-republican",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c8975cc-83d7-490b-a972-336d757f79f1_2218x1368.jpeg",
+      "publishedAt": "2024-04-29 13:35:28",
+      "content": "Dontcha hate it when the spoiler spoils you? Defendant Donald J. Trump sure does! When anti-vaxxer and and all-around crackpot Robert Fitzgerald Kennedy Junior got in the race last year, it was hail\u2026 [+5735 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.169969",
+      "internal_id": "325711f9f435363b97257c699b54b48f81938555636dbbbb206eb9f58ec7a834",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8714,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Todos os 96 bairros de S\u00e3o Paulo enfrentam epidemia de dengue",
+      "description": "Moema e Jardim Paulista foram os \u00faltimos bairros a entrarem no \u00edndice de epidemia de dengue na capital paulista; dados s\u00e3o desta segunda",
+      "url": "https://www.metropoles.com/sao-paulo/bairros-sao-paulo-epidemia-dengue",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/01/25105813/DF-e-prioridade-para-vacinacao-contra-Dengue.jpg",
+      "publishedAt": "2024-04-29 13:32:29",
+      "content": "S\u00e3o Paulo Todos os 96 bairros da cidade de S\u00e3o Paulo est\u00e3o em situa\u00e7\u00e3o de epidemia de dengue, segundo o boletim de arboviroses mais recente da Secretaria Municipal de Sa\u00fade, divulgado nesta segunda-f\u2026 [+6228 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.890696",
+      "internal_id": "aa4d00db13d65d049ead6f3a45d82a9147b1b48be05e043df0d99f8c80a197e3",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8736,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Bavarian Nordic Initiates Rolling Submission of Biologics License Application with FDA for its Chikungunya Vaccine Candidate",
+      "description": "(marketscreener.com) COPENHAGEN, Denmark, April 29, 2024 \u2013 Bavarian Nordic A/S today announced that it has initiated the rolling submission process with the U.S. Food and Drug Administration for a Biologics License Application for the licensure of its CHIKV V\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Initiates-Rolling-Submission-of-Biologics-License-Application-with-FDA-for-its-Chiku-46564700/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-04-29 13:04:06",
+      "content": "COPENHAGEN, Denmark, April 29, 2024 Bavarian Nordic A/S (OMX: BAVA) today announced that it has initiated the rolling submission process with the U.S. Food and Drug Administration (FDA) for a Biologi\u2026 [+3656 chars]",
+      "retrievedAt": "2024-04-30 19:05:17.701180",
+      "internal_id": "43734993c1595157b57ba5309125400a5138d9f422805757038dcfcc63cdd7b9",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8734,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic p\u00e5begynder l\u00f8bende registreringsans\u00f8gning for chikungunya-vaccine til de amerikanske sundhedsmyndigheder",
+      "description": "K\u00d8BENHAVN, Danmark, 29. april 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at selskabet har p\u00e5begyndt en l\u00f8bende indsendelse til de amerikanske sundhedsmyndigheder, U.S. Food and Drug Administration (FDA), af registreringsans\u00f8gningen for selskabets \u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/04/29/2871305/0/da/Bavarian-Nordic-p%C3%A5begynder-l%C3%B8bende-registreringsans%C3%B8gning-for-chikungunya-vaccine-til-de-amerikanske-sundhedsmyndigheder.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-04-29 13:03:00",
+      "content": "K\u00d8BENHAVN, Danmark, 29. april 2024 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at selskabet har p\u00e5begyndt en l\u00f8bende indsendelse til de amerikanske sundhedsmyndigheder, U.S. Food and Drug Adminis\u2026 [+3726 chars]",
+      "retrievedAt": "2024-04-30 19:05:17.678025",
+      "internal_id": "5f8d1a4015b48f588487493d3d16efe7b4784866266f672d7ba562cca4bfa708",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8735,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Initiates Rolling Submission of Biologics License Application with FDA for its Chikungunya Vaccine Candidate",
+      "description": "COPENHAGEN, Denmark, April 29, 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced that it has initiated the rolling submission process with the U.S. Food and Drug Administration (FDA) for a Biologics License Application (BLA) for the licensure of its CHIK\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/04/29/2871305/0/en/Bavarian-Nordic-Initiates-Rolling-Submission-of-Biologics-License-Application-with-FDA-for-its-Chikungunya-Vaccine-Candidate.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-04-29 13:03:00",
+      "content": "COPENHAGEN, Denmark, April 29, 2024 Bavarian Nordic A/S (OMX: BAVA) today announced that it has initiated the rolling submission process with the U.S. Food and Drug Administration (FDA) for a Biologi\u2026 [+3652 chars]",
+      "retrievedAt": "2024-04-30 19:05:17.682512",
+      "internal_id": "f92b35d78cd91a409626a91f98b1c260e5b472664f34ebde8f48c6de51423ebc",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8729,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Malariagelse in Italien aufgetaucht",
+      "description": "Eine malaria\u00fcbertragende Gelse ist in Italien nach 50 Jahren wieder aufgetaucht. Laut Forschenden sei es notwendig, die \u00dcberwachung zu verst\u00e4rken, um das Risiko einer Wiedereinschleppung der Krankheit zu verhindern, wie aus einer Studie von Italiens oberstem \u2026",
+      "url": "https://science.orf.at/stories/3224792/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2022%2F17%2F08%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F1317859_master_471708_anopheles_albimanus_mosquito.jpg%3Fs%3D825f63de1a8626245a1c673e0cc818dcec3268cf",
+      "publishedAt": "2024-04-29 12:39:33",
+      "content": "Lokalisiert wurden Exemplare der Art Anopheles sacharovi in der Provinz Lecce in der s\u00fcditalienischen Adria-Region Apulien. Das Vorhandensein der malaria\u00fcbertragenden Gelse ist eine Information, die \u2026 [+1266 chars]",
+      "retrievedAt": "2024-04-30 19:05:16.777191",
+      "internal_id": "16dc702174bc8b3a19613b71e2ea2bd4e966c5e056767616aa94a4e05c285854",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8737,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Cheryl Walter, Lecturer in Biomedical Science, University of Hull",
+      "title": "Mpox: why the virus\u2019s continued, rapid mutation since the 2022 global outbreak remains a concern",
+      "description": "Although cases have fallen significantly since the global mpox outbreak in 2022, the virus still continues to mutate.",
+      "url": "https://theconversation.com/mpox-why-the-viruss-continued-rapid-mutation-since-the-2022-global-outbreak-remains-a-concern-228338",
+      "urlToImage": "https://images.theconversation.com/files/590627/original/file-20240426-18-zlfuqi.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C6336%2C3168&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-04-29 12:04:02",
+      "content": "Mpox, previously known as \"monkeypox\", is a pox virus that's related to smallpox and cowpox. Dotted Yeti/ Shutterstock In 2022, as the world was slowly beginning to recover from the worst of the COV\u2026 [+5811 chars]",
+      "retrievedAt": "2024-04-30 19:05:17.935492",
+      "internal_id": "ea529d6707fdc778ceb58d6e6bfdfd79c4fb13509220fbc41c0c10f2802234e6",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8744,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Www.hs.fi",
+      "author": "Sari Sainio Aamulehti",
+      "title": "Tampere | Tampereen yli\u00adopiston ravintoloissa ep\u00e4ill\u00e4\u00e4n ruoka\u00admyrkytys\u00adepidemiaa",
+      "description": "Epidemian aiheuttajaksi ep\u00e4ill\u00e4\u00e4n yersinia enterocolitica -bakteeria. Aiheuttajaksi ep\u00e4ill\u00e4\u00e4n kypsent\u00e4m\u00e4tt\u00f6mi\u00e4 kasviksia.",
+      "url": "https://www.hs.fi/kotimaa/art-2000010393834.html",
+      "urlToImage": "https://hs.mediadelivery.fi/img/some/default/5023f360bde84d2b3229e91c32440e70.jpg",
+      "publishedAt": "2024-04-29 12:01:00",
+      "content": "Epidemian aiheuttajaksi ep\u00e4ill\u00e4\u00e4n yersinia enterocolitica -bakteeria. Aiheuttajaksi ep\u00e4ill\u00e4\u00e4n kypsent\u00e4m\u00e4tt\u00f6mi\u00e4 kasviksia.Pirkanmaalla selvitet\u00e4\u00e4n mahdollisesti elintarvikkeiden v\u00e4lityksell\u00e4 levinnytt\u2026 [+2293 chars]",
+      "retrievedAt": "2024-04-30 19:05:18.537035",
+      "internal_id": "eb135958fe6011f7faab7285c3b52ddb16d6a6f0a489ad7471480b20820afe5e",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8730,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Von Autor No\u00e9 Leeker",
+      "title": "\"Ernsthafte Schritte\u201c erforderlich - Wissenschaftler finden Malaria-M\u00fccken in italienischer Urlaubsregion",
+      "description": "In Italien wurden zum ersten Mal seit 50 Jahren Malaria-M\u00fccken entdeckt. Experten warnen vor einer weiteren Ausbreitung und fordern verst\u00e4rkte \u00dcberwachung.Von Autor No\u00e9 Leeker",
+      "url": "https://www.focus.de/gesundheit/ernsthafte-schritte-erforderlich-wissenschaftler-finden-malaria-muecken-in-italienischer-urlaubsregion_id_259897780.html",
+      "urlToImage": "https://p6.focus.de/img/panorama/id_259529224/dem-parasit-bleiben-nur-zwei-tage-zur-infektion-eines-menschen-sonst-stirbt-er-mit-der-muecke..jpg?im=Crop%3D%280%2C104%2C1000%2C500%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=3950142930c1ca297705645fd02418b441f05feb450f206de094522058095ea0",
+      "publishedAt": "2024-04-29 11:58:44",
+      "content": "In Italien wurden zum ersten Mal seit 50 Jahren Malaria-M\u00fccken entdeckt. Experten warnen vor einer weiteren Ausbreitung und fordern verst\u00e4rkte \u00dcberwachung.In Italien wurden laut der Nachrichtenagentu\u2026 [+2632 chars]",
+      "retrievedAt": "2024-04-30 19:05:16.781469",
+      "internal_id": "be56ca525a833f1e1b1253c17092f1c615e194959db39f5501d9f6b981bbf433",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8708,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "iDNES.cz, \u010cTK",
+      "title": "Za t\u00fdden p\u0159ibylo 1604 naka\u017een\u00fdch \u010dern\u00fdm ka\u0161lem. T\u0159etina jsou mladistv\u00ed",
+      "description": "Za uplynul\u00fd t\u00fdden p\u0159ibylo podle \u00fadaj\u016f St\u00e1tn\u00edho zdravotn\u00edho \u00fastavu 1604 naka\u017een\u00fdch \u010dern\u00fdm ka\u0161lem, co\u017e je od za\u010d\u00e1tku leto\u0161n\u00edho roku nejv\u00edc v t\u00fddenn\u00edm srovn\u00e1n\u00ed. Celkov\u011b l\u00e9ka\u0159i eviduj\u00ed skoro 11 000 infikovan\u00fdch. Zhruba t\u0159etinu tvo\u0159\u00ed mladistv\u00ed ve v\u011bku 15 a\u017e 19 let\u2026",
+      "url": "https://www.idnes.cz/zpravy/domaci/cerny-kasel-nejvetsi-pocet-nakazenych-sukl.A240429_125355_domaci_pari",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2018/4/PET72947c_cernykasel1.jpg",
+      "publishedAt": "2024-04-29 11:55:00",
+      "content": "Pokud se okovan\u00fd lovk setk\u00e1 s pvodcem onemocnn\u00ed, bakteri\u00ed Bordetella pertussis, okov\u00e1n\u00ed souasn\u00fdmi vakc\u00ednami proti pertusi zabr\u00e1n\u00ed u vtiny jedinc z\u00e1van\u00fdm prbhm a komplikac\u00edm onemocnn\u00ed a sn\u00ed\u00ed pravdpodo\u2026 [+3120 chars]",
+      "retrievedAt": "2024-04-30 19:05:14.561762",
+      "internal_id": "88abb9df599f482a8af98b2c58289221315a8e5798db1f5907f174b52f80685e",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8710,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Zosia Kmietowicz",
+      "title": "MMR uptake in England quadruples in 2024",
+      "description": "The NHS in England has delivered four times as many measles, mumps, and rubella vaccines to 5 to 25 year olds in the first 12 weeks of 2024 (75 499) as it did in the same period in 2023 (18 433), the latest data show.1 When children under 5 are included, a to\u2026",
+      "url": "https://www.bmj.com/content/385/bmj.q972",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/385/8426.cover-source.jpg",
+      "publishedAt": "2024-04-29 11:51:15",
+      "content": "The NHS in England has delivered four times as many measles, mumps, and rubella vaccines to 5 to 25 year olds in the first 12 weeks of 2024 (75499) as it did in the same period in 2023 (18433), the l\u2026 [+187 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.174713",
+      "internal_id": "75c4e0f72c41522aaf628a2871283f52de6e93170660dde6c341f5daa3f65bb3",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8742,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Pirkanmaalla selvitet\u00e4\u00e4n vatsatautiepidemian syyt\u00e4 \u2013 aiheuttajaksi ep\u00e4ill\u00e4\u00e4n kasviksia",
+      "description": "Mahdollisia yersinia-bakteerin aiheuttamia sairastumisia on havaittu 43 henkil\u00f6ll\u00e4.",
+      "url": "https://yle.fi/a/74-20086275",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_120,w_6000,h_3354/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1712834335/39-1268990661798e3b7071",
+      "publishedAt": "2024-04-29 11:35:14",
+      "content": "Pirkanmaalla jyll\u00e4\u00e4 vatsatautiepidemia, jonka syy on viel\u00e4 ep\u00e4selv\u00e4. Tampereen kaupungin elintarvikevalvonta ja Pirkanmaan hyvinvointialueen (Pirha) infektioidentorjuntayksikk\u00f6 selvitt\u00e4v\u00e4t mahdollis\u2026 [+1752 chars]",
+      "retrievedAt": "2024-04-30 19:05:18.528219",
+      "internal_id": "232374fa24a544434f6c1ff0903d0deb5c4486fc3e09da8d3d116317d494bfd9",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8740,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Un estudio define cambios gen\u00f3micos espec\u00edficos que podr\u00edan asociarse a la transmisibilidad del virus Mpox",
+      "description": "Un equipo del Instituto de Salud Carlos III (ISCIII), en colaboraci\u00f3n con investigadores de la Escuela Icahn de Medicina de Mount Sinai (ISMMS) de Nueva York (EEUU), ha liderado un estudio colaborativo que ha permitido localizar alteraciones en el genoma del \u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-estudio-define-cambios-genomicos-especificos-podrian-asociarse-transmisibilidad-virus-mpox-20240429130504.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240429130504_1200.jpg",
+      "publishedAt": "2024-04-29 11:05:04",
+      "content": "MADRID, 29 Abr. (EUROPA PRESS) - Un equipo del Instituto de Salud Carlos III (ISCIII), en colaboraci\u00f3n con investigadores de la Escuela Icahn de Medicina de Mount Sinai (ISMMS) de Nueva York (EEUU\u2026 [+3449 chars]",
+      "retrievedAt": "2024-04-30 19:05:17.955439",
+      "internal_id": "87fefc331f6fdea9f747129dea36d09386564256942a3aa993fbbba5b91d13e1",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8733,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Rio F, Tegar Nurfitra",
+      "title": "Need to consistently raise public awareness on malaria: MPR",
+      "description": "Deputy Speaker of the People&#39;s Consultative Assembly (MPR) Lestari Moerdijat has called on the government to be consistent in raising people&#39;s ...",
+      "url": "https://en.antaranews.com/news/312102/need-to-consistently-raise-public-awareness-on-malaria-mpr",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/02/19/IMG-20240205-WA0139-2.jpg",
+      "publishedAt": "2024-04-29 10:53:33",
+      "content": "Although we are witnessing a decline in malaria count, Indonesia still stands among the most significant contributors to malaria deaths in the world. We need to execute a malaria prevention movement \u2026 [+2087 chars]",
+      "retrievedAt": "2024-04-30 19:05:16.827071",
+      "internal_id": "2f9207e0bd98d0b30dea525f57754245e80c89e48a745da01c0ef42f12d2285c",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8724,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Malay Mail",
+      "title": "Health Ministry: Dengue cases increase in from April 14-20, four deaths reported",
+      "description": "PUTRAJAYA, April 29 \u2014 Reported dengue fever cases increased to 2,321 in the 16th Epidemiological Week (ME16), from April 14 to 20, compared with 1,698 cases recorded in the...",
+      "url": "https://www.malaymail.com/news/malaysia/2024/04/29/health-ministry-dengue-cases-increase-in-from-april-14-20-four-deaths-reported/131504",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2024/04/29/thumbs/400x400/205964.jpg",
+      "publishedAt": "2024-04-29 09:59:50",
+      "content": "PUTRAJAYA, April 29 Reported dengue fever cases increased to 2,321 in the 16th Epidemiological Week (ME16), from April 14 to 20, compared with 1,698 cases recorded in the previous week, with four dea\u2026 [+1361 chars]",
+      "retrievedAt": "2024-04-30 19:05:16.015608",
+      "internal_id": "5d5801993acdbe200321d0601ca03f3e772c23a885ace659e4f7d68d0c256cc0",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8719,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases up by 36% last week, four deaths reported",
+      "description": "PUTRAJAYA: Reported dengue fever cases increased by 36% to 2,321 in the 16th Epidemiological Week (ME16), from April 14 to 20, compared with 1,698 cases recorded in the previous week, with four deaths due to dengue fever complications. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/04/29/dengue-cases-up-by-36-last-week-four-deaths-reported",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/04/29/2668056.jpg",
+      "publishedAt": "2024-04-29 09:42:00",
+      "content": "PUTRAJAYA: Reported dengue fever cases increased by 36% to 2,321 in the 16th Epidemiological Week (ME16), from April 14 to 20, compared with 1,698 cases recorded in the previous week, with four death\u2026 [+1373 chars]",
+      "retrievedAt": "2024-04-30 19:05:15.939459",
+      "internal_id": "348e6037b524a4f4d8fb418b4171f40233e17ca84731a5cadc99b885b1d0f0ce",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8727,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "\u201eMalariam\u00fccke\u201c nach 50 Jahren wieder in Italien aufgetaucht",
+      "description": "Exemplare der Stechm\u00fccken-Art \u201eAnopheles sacharovi\u201c ist erstmals nach langer Zeit wieder in Apulien lokalisiert worden. Es gebe keine unmittelbare Gefahr, doch werde man die Verbreitung \u00fcberwachen.",
+      "url": "https://www.diepresse.com/18416480/malariamuecke-nach-50-jahren-wieder-in-italien-aufgetaucht",
+      "urlToImage": "https://img.diepresse.com/public/incoming/opdwd9-FILES-US-HEALTH-MALARIA-DISEASES/alternates/DPR_SOCIAL_NACHRICHTEN/FILES-US-HEALTH-MALARIA-DISEASES",
+      "publishedAt": "2024-04-29 08:47:27",
+      "content": "Exemplare der Stechm\u00fccken-Art Anopheles sacharovi ist erstmals nach langer Zeit wieder in Apulien lokalisiert worden. Es gebe keine unmittelbare Gefahr, doch werde man die Verbreitung \u00fcberwachen. Ei\u2026 [+1898 chars]",
+      "retrievedAt": "2024-04-30 19:05:16.752310",
+      "internal_id": "1cd6083ac7b13a2f5beae59f42246562db2962cd6d96dcfe4350885a259a2979",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8725,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Global Market Insights Inc.",
+      "title": "Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.",
+      "description": "Meningococcal Vaccines industry is projected to witness a CAGR of 6.5% during the period 2024-2032. This growth can be due to rising prevalence of meningitis and increasing government initiatives. Meningococcal Vaccines industry is projected to witness a CAGR\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6a29379b-a16f-4ee6-9798-26bdadb816f3",
+      "publishedAt": "2024-04-29 08:00:00",
+      "content": "Selbyville, Delaware, April 29, 2024 (GLOBE NEWSWIRE) -- Meningococcal Vaccines Market Size will reach USD 7.8 billion by 2032, cites the latest report by Global Market Insights Inc. According to\u2026 [+6412 chars]",
+      "retrievedAt": "2024-04-30 19:05:16.350601",
+      "internal_id": "0430ef0cee0f2e4fb68ba7a8da72e8f002724d2253852718a3eb15755ca20d5b",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 8739,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Starobserver.com.au",
+      "author": "Chloe Sargeant",
+      "title": "Three New Local Cases of Mpox Have Been Confirmed In Victoria",
+      "description": "The Victorian Department of Health have reported that in the past week, three new locally acquired cases of mpox (previously referred to as \u2018monkeypox\u2019) have been confirmed in Victoria. Prior ... The post Three New Local Cases of Mpox Have Been Confirmed In V\u2026",
+      "url": "https://www.starobserver.com.au/news/new-mpox-cases-vic/230357",
+      "urlToImage": "https://www.starobserver.com.au/wp-content/uploads/2024/04/Vaccine-3.jpg",
+      "publishedAt": "2024-04-29 07:29:52",
+      "content": "The Victorian Department of Health have reported that in the past week, three new locally acquired cases of mpox (previously referred to as \u2018monkeypox\u2019) have been confirmed in Victoria. Prior to thi\u2026 [+2136 chars]",
+      "retrievedAt": "2024-04-30 19:05:17.950529",
+      "internal_id": "e8bff242b178ea9ff9e5ae58c0d9f75f4b4b8ae6684d79061b3a7e0900cdda53",
+      "publishedAtLabel": "Apr 29"
+    },
     {
       "id": 8707,
       "query": [
@@ -29530,223 +30199,6 @@
       "content": "A reuni\u00e3o ministerial convocada pelo presidente Luiz In\u00e1cio Lula da Silva para esta segunda-feira (18) ocorre na esteira de uma sequ\u00eancia de pesquisas revelando a queda da avalia\u00e7\u00e3o do governo e pres\u2026 [+551 chars]",
       "retrievedAt": "2024-03-19 07:05:49.225462",
       "internal_id": "e579b4e952ada658c1f85a9482f0f1e3c7882ab86dc0646e7dda36907a83a9f0",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7075,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "Dengue en Argentina: se registraron 79 muertos y 120.000 infectados desde agosto de 2023",
-      "description": "En lo que va de 2024, se informaron 102.898 contagiados; el Ministerio de Salud compar\u00f3 el dato con los primeros 67 d\u00edas del a\u00f1o pasado y hubo un aumento de 11,3 veces",
-      "url": "https://www.lanacion.com.ar/sociedad/dengue-en-argentina-se-registraron-79-muertos-y-120000-infectados-desde-agosto-de-2023-nid17032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/dengue-en-argentina-unos-120-mil-casos-y-79-W2XEXN6O3NFC7DFYRDTITO44UE.jpg?auth=5bc04f37db6b043de9dcc4fa3b6613233fcdc1f1e5c556a34785170f41ffa991&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-17 18:46:04",
-      "content": "Desde agosto del a\u00f1o pasado hasta comienzos de este mes, 120.007 personas se contagiaron de dengue en Argentina y 79 de ellas murieron a ra\u00edz de la enfermedad que transmite el mosquito Aedes aegypti.\u2026 [+3763 chars]",
-      "retrievedAt": "2024-03-19 07:05:49.346430",
-      "internal_id": "935421e57b6f98f77740203b833112e838447e2059f685901ffb90fffd2e9846",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7055,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Dengue se espalha para o Sul e Centro-Oeste, diz estudo da Fiocruz",
-      "description": "Altas temperaturas por mais tempo favorecem aparecimento da doen\u00e7a",
-      "url": "https://saude.ig.com.br/2024-03-17/dengue-se-espalha-para-o-sul-e-centro-oeste--diz-estudo-da-fiocruz.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
-      "publishedAt": "2024-03-17 18:37:29",
-      "content": "Estudo do pesquisador Christovam Barcellos, do Observat\u00f3rio de Clima e Sa\u00fade, do Instituto de Comunica\u00e7\u00e3o e Informa\u00e7\u00e3o Cient\u00edfica e Tecnol\u00f3gica em Sa\u00fade (Icict) da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), co\u2026 [+4585 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.483108",
-      "internal_id": "fab656ac29daa792722941d207fbb158982278dbcc32222ab09c24aa10701889",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7060,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "BBC News Brasil",
-      "title": "Como a peste bub\u00f4nica reestruturou o sistema imunol\u00f3gico humano",
-      "description": "A peste bub\u00f4nica ainda \u00e9 encontrada em locais espalhados pelo mundo, mas gra\u00e7as aos antibi\u00f3ticos modernos \u00e9 muito mais f\u00e1cil de trat\u00e1-la do que no passado. No entanto, a doen\u00e7a pode ter deixado a sua marca na humanidade.",
-      "url": "https://www.bbc.com/portuguese/articles/c4nmvjdkngpo",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/17/99760342-284143c0-d752-11ee-9a5b-e35447f6c53b.png",
-      "publishedAt": "2024-03-17 18:34:09",
-      "content": "Observada com o microsc\u00f3pio, a bact\u00e9ria Yersinia pestis n\u00e3o parece ter nada de especial. Seu formato est\u00e1 mais ou menos dentro dos padr\u00f5es das bact\u00e9rias - uma esp\u00e9cie de bast\u00e3o curto com extremidade\u2026 [+9407 chars]",
-      "retrievedAt": "2024-03-18 19:05:37.054182",
-      "internal_id": "934c6ac98c4d39963a93eb5f4471bc43b0bbe64b89b681c7044a36497a4c8cdc",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7053,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Dengue: Governo de SP vai distribuir 300 mil repelentes para gestantes",
-      "description": "Com o aumento no n\u00famero de casos de dengue em S\u00e3o Paulo, o Centro de Opera\u00e7\u00f5es de Emerg\u00eancias (COE) do Governo do Estado anunciou a entrega de repelentes",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-governo-de-sp-vai-distribuir-300-mil-repelentes-para-gestantes/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2020/06/istock-182832007.jpg",
-      "publishedAt": "2024-03-17 17:55:29",
-      "content": "Com o aumento no n\u00famero de casos de dengue em S\u00e3o Paulo, o Centro de Opera\u00e7\u00f5es de Emerg\u00eancias (COE) do Governo do Estado anunciou a entrega de repelentes para gr\u00e1vidas. Ser\u00e3o 300 mil unidades espec\u00edf\u2026 [+3944 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.410440",
-      "internal_id": "beb9bed853db96d73bd0f4715eb0207ad009f88a635e9bf68497d7aefb08eddd",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7051,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Livemint",
-      "author": "Manu Joseph",
-      "title": "Indian sophistication on stray dogs can be confusing",
-      "description": "Our protection of strays suggests a compassion greater than what we have for humans.",
-      "url": "https://www.livemint.com/opinion/online-views/indian-sophistication-on-stray-dogs-can-be-confusing-11710675151847.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/17/1600x900/3-0-126336026-GettyImages-1211427920-0_1679835740201_1710695016271.jpg",
-      "publishedAt": "2024-03-17 17:09:00",
-      "content": "Now and then, stray dogs tear a child apart. Old people too. This is rare. But they do kill thousands of Indians every year in a less dramatic way, through rabies, and dozens of other diseases. The W\u2026 [+5299 chars]",
-      "retrievedAt": "2024-03-18 19:05:34.559509",
-      "internal_id": "793020846edf07ada8112f230d54e15e122401f5b7c13e317471ad20bf8dfab5",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7058,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "C\u00f3mo eliminar los mosquitos de la cocina",
-      "description": "Este insecto es transmisor de distintas enfermedades, como el dengue; este es el paso a paso para proteger las distintas partes del hogar de los mosquitos",
-      "url": "https://www.lanacion.com.ar/sociedad/como-eliminar-los-mosquitos-de-la-cocina-nid17032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/estos-son-los-metodos-caseros-que-se-pueden-Y3JBZHSHORGTVLP2IYU5N2VBYU.jpg?auth=36fcd1d12987b4186b5103a3db1b190045f6343f60af5b817e78bdab1d2d4b7f&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-17 16:54:23",
-      "content": "Los mosquitos se convirtieron en un verdadero problema las \u00faltimas semanas de febrero y principios de marzo, tras las elevadas temperaturas en todo el \u00c1rea Metropolitana de Buenos Aires (AMBA) y las \u2026 [+3483 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.522420",
-      "internal_id": "4cd0a6062cc51b80eeee537803455c81324acf7fe1095ec538c2b75fb809d792",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7054,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Brasil y Argentina multiplican en 2024 los casos de dengue registrados en 2023",
-      "description": "Las altas temperaturas asociadas al fen\u00f3meno de El Ni\u00f1o han adelantado e intensificado la expansi\u00f3n de la enfermedad.",
-      "url": "https://www.montevideo.com.uy/Salud/Brasil-y-Argentina-multiplican-en-2024-los-casos-de-dengue-registrados-en-2023-uc882821",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
-      "publishedAt": "2024-03-17 16:20:00",
-      "content": "Brasil super\u00f3 este viernes y en apenas dos meses y medio el n\u00famero de casos de dengue reportados en todo 2023, pues ya son 1,68 millones de contagios en lo que va de 2024 frente a los 1,65 millone\u2026 [+3835 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.468841",
-      "internal_id": "40b72e7efa33ab422ded00b4b31db6ce260311174736165db6ff78d2aaf8eb5d",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7079,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Diariodigital.com.br",
-      "author": "Di\u00e1rio Digital",
-      "title": "Alta de casos de dengue no pa\u00eds",
-      "description": "Saiba por que doen\u00e7a diminui plaquetas e o papel delas no corpo",
-      "url": "https://www.diariodigital.com.br/geral/alta-de-casos-de-dengue-no-pais",
-      "urlToImage": null,
-      "publishedAt": "2024-03-17 15:32:00",
-      "content": "Saiba por que doen\u00e7a diminui plaquetas e o papel delas no corpo",
-      "retrievedAt": "2024-03-19 07:05:49.377072",
-      "internal_id": "27ffb9f0b05e0b3a1cfd2a81211479ea5575fcae50164a7a7831b7e0e82b9752",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7059,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Hi-news.ru",
-      "author": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0416\u0443\u043a\u043e\u0432",
-      "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u043f\u043e\u0446\u0435\u043b\u0443\u0438 \u0432 \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u043c \u0432\u0435\u043a\u0435 \u0431\u044b\u043b\u0438 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u043c\u0438",
-      "description": "\u0423\u0447\u0435\u043d\u044b\u0435 \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043c\u0438\u043a\u0440\u043e\u0431\u0438\u043e\u043c \u0434\u0440\u0435\u0432\u043d\u0438\u0445 \u043b\u044e\u0434\u0435\u0439, \u0436\u0438\u0432\u0448\u0438\u0445 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0421\u043a\u0430\u043d\u0434\u0438\u043d\u0430\u0432\u0438\u0438 \u0432 \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u043c \u0432\u0435\u043a\u0435. \u041a\u0430\u043a \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e\u0441\u044c, \u0447\u0435\u0440\u0435\u0437 \u043f\u043e\u0446\u0435\u043b\u0443\u0438 \u0432 \u0442\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0430 \u043c\u043e\u0433\u043b\u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u0430\u0442\u043e\u0433\u0435\u043d\u044b, \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f.",
-      "url": "https://hi-news.ru/eto-interesno/pochemu-pocelui-v-kamennom-veke-byli-smertelno-opasnymi.html",
-      "urlToImage": "https://hi-news.ru/wp-content/uploads/2024/03/Paren_i_devyshka-1000x526.png",
-      "publishedAt": "2024-03-17 12:25:37",
-      "content": ", , . . , , . , , , , . , , . 40 , -, ( , XVIII ). 600 . , Yersinia enterocolitica Salmonella enterica. , . , . 420 , . , , . , , , , . , . , Salmonella enterica , , . , , , Neisseria meningi\u2026 [+178 chars]",
-      "retrievedAt": "2024-03-18 19:05:37.047830",
-      "internal_id": "6ad063764eb33d488f1be16ce9651ecfdda2972dbdcc2c8ebad603ebed07decf",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7057,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Christof  Geldmacher, Stefan  Vieths, Kerstin  Kling",
-      "title": "Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?",
-      "description": "Gegen viele Krankheiten gibt es seit Jahrzehnten gute Impfungen. Doch bei manchen klappt es bis heute schlecht oder gar nicht. Bringen Forschung und neue Techniken den Umschwung?",
-      "url": "https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/salvador-bahia-brazil-january-18-2017-people-is-seen-manipulating-sample-of-med/alternates/BASE_16_9_W1400/salvador--bahia----brazil-----january--18--2017--people--is--seen--manipulating--sample--of--med.jpeg",
-      "publishedAt": "2024-03-17 12:13:30",
-      "content": "Ohne Impfungen ist das Leben in modernen Gesellschaften heute kaum mehr vorstellbar. K\u00f6nnten sich Krankheiten wie Pocken, Kinderl\u00e4hmung oder Masern im Eng-an-Eng der Gro\u00dfst\u00e4dte und erleichtert durch \u2026 [+4808 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.518762",
-      "internal_id": "4471d053299f0978b1e8cae300d47c54ece39efae5152668cc7bfee08fe3ad15",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7052,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "National Post",
-      "author": "Sharon Kirkey",
-      "title": "Measles: What to know about one of the most contagious diseases",
-      "description": "Here\u2019s what you need to know about what measles is, how it spreads and symptoms to watch out for",
-      "url": "https://nationalpost.com/health/what-to-know-about-measles-symptoms-vaccines",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2024/03/measles-1.jpg",
-      "publishedAt": "2024-03-17 11:14:09",
-      "content": "Heres what you need to know about what measles is, how it spreads and symptoms to watch out for Get the latest from Sharon Kirkey straight to your inbox Sign Up Two doses of the MMR vaccine are ab\u2026 [+9949 chars]",
-      "retrievedAt": "2024-03-18 19:05:34.869731",
-      "internal_id": "caac6579cd2df44e18a3c99e56d13c3235f1be9c20023cbdc1304c092891fe81",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7056,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Esther Ferreira, Esther Ferreira",
-      "title": "Veja a diferen\u00e7a entre os sintomas de dengue e covid-19",
-      "description": "Infectologista explica os sinais, diagn\u00f3stico e tratamento das duas doen\u00e7as",
-      "url": "https://saude.ig.com.br/2024-03-17/veja-diferenca-entre-sintomas-dengue-covid-19.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/1u/kn/t2/1uknt284pl7tmgaz166r4eyhi.jpg",
-      "publishedAt": "2024-03-17 11:00:00",
-      "content": "Com a explos\u00e3o no n\u00famero de casos de dengue e de covid-19 no Brasil ao longo das \u00faltimas semanas , manifesta\u00e7\u00f5es comuns das duas doen\u00e7as podem gerar d\u00favida na hora de obter o diagn\u00f3stico. Tanto a\u2026 [+2637 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.491486",
-      "internal_id": "36b398df8fdedaf6dcfdf8e55631513cef5feb4d61165d50d74eadba0b885e28",
       "publishedAtLabel": "Mar 17"
     }
   ]

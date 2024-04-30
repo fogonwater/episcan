@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-04-30 07:06
-- **Most recent article:** 2024-04-29 05:00:52
+- **New articles in last harvest:** 37
+- **Last harvest:** 2024-04-30 19:05
+- **Most recent article:** 2024-04-29 18:57:24
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 178 | 186 | 158 | 138 | 113 | 117 | 5 | 895 |
-| measles | 87 | 44 | 36 | 43 | 40 | 28 | 4 | 282 |
-| malaria | 18 | 7 | 13 | 16 | 29 | 77 | 4 | 164 |
-| meningitis | 8 | 16 | 4 | 15 | 44 | 5 | 1 | 93 |
-| zika | 12 | 21 | 11 | 10 | 8 | 3 | 0 | 65 |
-| chikungunya | 15 | 9 | 12 | 7 | 5 | 5 | 0 | 53 |
-| mpox | 4 | 6 | 12 | 3 | 13 | 8 | 1 | 47 |
-| sarampión | 12 | 3 | 5 | 13 | 0 | 10 | 2 | 45 |
-| rabies | 7 | 3 | 16 | 8 | 3 | 3 | 1 | 41 |
-| pertussis | 3 | 6 | 7 | 9 | 7 | 5 | 1 | 38 |
-| leptospirosis | 0 | 0 | 1 | 3 | 3 | 3 | 0 | 10 |
-| yersinia | 3 | 1 | 3 | 0 | 2 | 0 | 0 | 9 |
+| dengue | 170 | 186 | 158 | 138 | 113 | 117 | 18 | 900 |
+| measles | 86 | 44 | 36 | 43 | 40 | 28 | 6 | 283 |
+| malaria | 17 | 7 | 13 | 16 | 29 | 77 | 12 | 171 |
+| meningitis | 8 | 16 | 4 | 15 | 44 | 5 | 2 | 94 |
+| zika | 12 | 21 | 11 | 10 | 8 | 3 | 3 | 68 |
+| chikungunya | 15 | 9 | 12 | 7 | 5 | 5 | 3 | 56 |
+| mpox | 4 | 6 | 12 | 3 | 13 | 8 | 5 | 51 |
+| sarampión | 12 | 3 | 5 | 13 | 0 | 10 | 3 | 46 |
+| rabies | 6 | 3 | 16 | 8 | 3 | 3 | 1 | 40 |
+| pertussis | 3 | 6 | 7 | 9 | 7 | 5 | 2 | 39 |
+| leptospirosis | 0 | 0 | 1 | 3 | 3 | 3 | 1 | 11 |
+| yersinia | 1 | 1 | 3 | 0 | 2 | 0 | 3 | 10 |
 | typhoid | 1 | 1 | 0 | 0 | 2 | 0 | 0 | 4 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -32,7 +32,25 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-18 (zika)
+
+- [Una bacteria podría ser eficaz para evitar la expansión del mosquito tigre en España](https://www.abc.es/sociedad/bacteria-eficaz-evitar-expansion-mosquito-tigre-espana-20240429201657-nt.html) (Www.abc.es)
+
+- [Una bacteria podría ser eficaz para evitar la expansión del mosquito tigre en España](https://www.infosalus.com/salud-investigacion/noticia-bacteria-podria-ser-eficaz-evitar-expansion-mosquito-tigre-espana-20240429173157.html) (Infosalus.com)
+
+- [Revealing the microbiome diversity and biocontrol potential of field Aedes ssp.: Implications for disease vector management](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302328) (Plos.org)
+
+## 24-18 (yersinia)
+
+- [Tampereella ruokamyrkytys­epidemia](https://www.iltalehti.fi/kotimaa/a/a15a245d-efde-4181-985e-f44c3e1f79ab) (Iltalehti.fi)
+
+- [Tampere | Tampereen yli­opiston ravintoloissa epäillään ruoka­myrkytys­epidemiaa](https://www.hs.fi/kotimaa/art-2000010393834.html) (Www.hs.fi)
+
+- [Pirkanmaalla selvitetään vatsatautiepidemian syytä – aiheuttajaksi epäillään kasviksia](https://yle.fi/a/74-20086275) (YLE News)
+
 ## 24-18 (sarampión)
+
+- [Los casos mundiales de sarampión casi se duplican en un año](https://www.infosalus.com/salud-investigacion/noticia-casos-mundiales-sarampion-casi-duplican-ano-20240429180712.html) (Infosalus.com)
 
 - [Los casos mundiales de sarampión casi se duplicaron en un año, dicen los investigadores (ENG)](https://www.meneame.net/m/ciencia/casos-mundiales-sarampion-casi-duplicaron-ano-dicen-eng) (Meneame.net)
 
@@ -44,17 +62,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-18 (pertussis)
 
+- [Za týden přibylo 1604 nakažených černým kašlem. Třetina jsou mladiství](https://www.idnes.cz/zpravy/domaci/cerny-kasel-nejvetsi-pocet-nakazenych-sukl.A240429_125355_domaci_pari) (Idnes.cz)
+
 - [Bacolod: 13 confirmed pertussis cases in Negros Occidental](https://rpnradio.com/bacolod-13-confirmed-pertussis-cases-in-negros-occidental/) (Rpnradio.com)
 
 ## 24-18 (mpox)
+
+- [Vaccinia virus: New insights into the structure and function of the poxvirus prototype](https://phys.org/news/2024-04-vaccinia-virus-insights-function-poxvirus.html) (Phys.Org)
+
+- [Mpox: why the virus’s continued, rapid mutation since the 2022 global outbreak remains a concern](https://theconversation.com/mpox-why-the-viruss-continued-rapid-mutation-since-the-2022-global-outbreak-remains-a-concern-228338) (The Conversation Africa)
+
+- [Un estudio define cambios genómicos específicos que podrían asociarse a la transmisibilidad del virus Mpox](https://www.infosalus.com/salud-investigacion/noticia-estudio-define-cambios-genomicos-especificos-podrian-asociarse-transmisibilidad-virus-mpox-20240429130504.html) (Infosalus.com)
+
+- [Three New Local Cases of Mpox Have Been Confirmed In Victoria](https://www.starobserver.com.au/news/new-mpox-cases-vic/230357) (Starobserver.com.au)
 
 - [Mpox: o que se sabe sobre cepa mais letal e de transmissão sexual](https://www.metropoles.com/saude/cepa-mais-letal-de-mpox-sexo) (Metropoles.com)
 
 ## 24-18 (meningitis)
 
+- [Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html) (GlobeNewswire)
+
 - [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
 
 ## 24-18 (measles)
+
+- [Uh Oh! Is RFK Jr. Stealing Core Republican 'Conspiracy Theorists With Measles' Vote From Trump?](https://www.wonkette.com/p/uh-oh-is-rfk-jr-stealing-core-republican) (Wonkette.com)
+
+- [MMR uptake in England quadruples in 2024](https://www.bmj.com/content/385/bmj.q972) (The BMJ)
 
 - [‘Measles had serious impact on kids with cancer’](https://timesofindia.indiatimes.com/city/mumbai/measles-had-serious-impact-on-kids-with-cancer/articleshow/109673357.cms) (The Times of India)
 
@@ -66,6 +100,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-18 (malaria)
 
+- [Aurea Pereira Steberl: Was es heißt, eine schwarze Brasilianerin zu sein](https://www.faz.net/aktuell/stil/leib-seele/aurea-was-es-bedeutet-als-schwarze-frau-in-brasilien-zu-leben-19643672.html) (Faz.net)
+
+- [Kenya distributes 15.3 mln malaria insecticidal nets targeting 27 mln people](https://www.thestar.com.my/news/world/2024/04/30/kenya-distributes-153-mln-malaria-insecticidal-nets-targeting-27-mln-people) (The Star Online)
+
+- [Measuring effects of ivermectin-treated cattle on potential malaria vectors in Vietnam: A cluster-randomized trial](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012014) (Plos.org)
+
+- [Gefährliches Insekt in Italien entdeckt – Experten alarmiert](https://www.morgenpost.de/vermischtes/article242211950/Gefaehrliches-Insekt-in-Italien-entdeckt-Experten-alarmiert.html) (Berliner Morgenpost)
+
+- [Malariagelse in Italien aufgetaucht](https://science.orf.at/stories/3224792/) (Science.orf.at)
+
+- ["Ernsthafte Schritte“ erforderlich - Wissenschaftler finden Malaria-Mücken in italienischer Urlaubsregion](https://www.focus.de/gesundheit/ernsthafte-schritte-erforderlich-wissenschaftler-finden-malaria-muecken-in-italienischer-urlaubsregion_id_259897780.html) (Focus)
+
+- [Need to consistently raise public awareness on malaria: MPR](https://en.antaranews.com/news/312102/need-to-consistently-raise-public-awareness-on-malaria-mpr) (Antaranews.com)
+
+- [„Malariamücke“ nach 50 Jahren wieder in Italien aufgetaucht](https://www.diepresse.com/18416480/malariamuecke-nach-50-jahren-wieder-in-italien-aufgetaucht) (Diepresse.com)
+
 - [तीन करोड़ साल पुरानी बीमारी मलेरिया जड़ से होगी खत्म! गेम चेंजर है वैक्सीन आर21, क्या कहते हैं वैज्ञानिक](https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms) (The Times of India)
 
 - [Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia](https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/) (Ilpost.it)
@@ -74,7 +124,37 @@ Source: [News API](https://newsapi.org/)
 
 - [Climate change is bringing malaria to new areas. In Africa, it never left](https://www.voanews.com/a/climate-change-is-bringing-malaria-to-new-areas-in-africa-it-never-left-/7588081.html) (VOA News)
 
+## 24-18 (leptospirosis)
+
+- [US Dog Owners Warned Against Widespread Deadly Bacterial Illness](https://www.newsweek.com/us-dog-owners-widespread-deadly-bacterial-illness-1895219) (Newsweek)
+
 ## 24-18 (dengue)
+
+- [Prefeitura de SP diz que todos os bairros estão com epidemia de dengue](https://saude.ig.com.br/2024-04-29/sao-paulo-todos-bairros-dengue.html) (Ig.com.br)
+
+- [Una bacteria podría ser eficaz para evitar la expansión del mosquito tigre en España](https://www.abc.es/sociedad/bacteria-eficaz-evitar-expansion-mosquito-tigre-espana-20240429201657-nt.html) (Www.abc.es)
+
+- [Brasil registra 1.888 mortes por dengue em 2024 e 3,9 milhões de casos prováveis](https://valor.globo.com/brasil/noticia/2024/04/29/brasil-registra-1888-mortes-por-dengue-em-2024-e-39-milhoes-de-casos-provaveis.ghtml) (Globo)
+
+- [Una bacteria podría ser eficaz para evitar la expansión del mosquito tigre en España](https://www.infosalus.com/salud-investigacion/noticia-bacteria-podria-ser-eficaz-evitar-expansion-mosquito-tigre-espana-20240429173157.html) (Infosalus.com)
+
+- [Reforma tributária deixará vacinas e medicamentos mais baratos](https://olhardigital.com.br/2024/04/29/medicina-e-saude/reforma-tributaria-deixara-vacinas-e-medicamentos-mais-baratos/) (Olhardigital.com.br)
+
+- [Projection of dengue fever transmissibility under climate change in South and Southeast Asian countries](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012158) (Plos.org)
+
+- [Behaviour and distribution of Aedes aegypti mosquitoes and their relation to dengue incidence in two transmission hotspots in coastal Ecuador](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010932) (Plos.org)
+
+- [Revealing the microbiome diversity and biocontrol potential of field Aedes ssp.: Implications for disease vector management](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302328) (Plos.org)
+
+- [SES questionará critérios de distribuição de vacinas contra a dengue em municípios gaúchos](https://www.terra.com.br/noticias/ses-questionara-criterios-de-distribuicao-de-vacinas-contra-a-dengue-em-municipios-gauchos,cb8b33b62387c2588dc18fb2e5f49483jpdu62ud.html) (Terra.com.br)
+
+- [Dengue é considerada epidemia em todos os bairros de São Paulo](https://www.terra.com.br/vida-e-estilo/saude/dengue-e-considerada-epidemia-em-todos-os-bairros-de-sao-paulo,aa3436cb9b37a861f4f2f515e3346fc1r9grshk1.html) (Terra.com.br)
+
+- [Todos os 96 bairros de São Paulo enfrentam epidemia de dengue](https://www.metropoles.com/sao-paulo/bairros-sao-paulo-epidemia-dengue) (Metropoles.com)
+
+- [Health Ministry: Dengue cases increase in from April 14-20, four deaths reported](https://www.malaymail.com/news/malaysia/2024/04/29/health-ministry-dengue-cases-increase-in-from-april-14-20-four-deaths-reported/131504) (Malay Mail)
+
+- [Dengue cases up by 36% last week, four deaths reported](https://www.thestar.com.my/news/nation/2024/04/29/dengue-cases-up-by-36-last-week-four-deaths-reported) (The Star Online)
 
 - [Santé. Moustique tigre : faut-il s'inquiéter de la recrudescence des cas de dengue ?](https://www.ledauphine.com/magazine-sante/2024/04/29/moustique-tigre-faut-il-s-inquieter-de-la-recrudescence-des-cas-de-dengue) (Le Dauphiné Libéré)
 
@@ -85,6 +165,14 @@ Source: [News API](https://newsapi.org/)
 - [Rising dengue cases in Kedah raising alarm](https://www.thestar.com.my/news/nation/2024/04/29/rising-dengue-cases-in-kedah-raising-alarm) (The Star Online)
 
 - [Argentina llegó a 280 fallecimientos de pacientes con dengue; 42 en la última semana](https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762) (Montevideo.com.uy)
+
+## 24-18 (chikungunya)
+
+- [Bavarian Nordic Initiates Rolling Submission of Biologics License Application with FDA for its Chikungunya Vaccine Candidate](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Initiates-Rolling-Submission-of-Biologics-License-Application-with-FDA-for-its-Chiku-46564700/) (Marketscreener.com)
+
+- [Bavarian Nordic påbegynder løbende registreringsansøgning for chikungunya-vaccine til de amerikanske sundhedsmyndigheder](https://www.globenewswire.com/news-release/2024/04/29/2871305/0/da/Bavarian-Nordic-p%C3%A5begynder-l%C3%B8bende-registreringsans%C3%B8gning-for-chikungunya-vaccine-til-de-amerikanske-sundhedsmyndigheder.html) (GlobeNewswire)
+
+- [Bavarian Nordic Initiates Rolling Submission of Biologics License Application with FDA for its Chikungunya Vaccine Candidate](https://www.globenewswire.com/news-release/2024/04/29/2871305/0/en/Bavarian-Nordic-Initiates-Rolling-Submission-of-Biologics-License-Application-with-FDA-for-its-Chikungunya-Vaccine-Candidate.html) (GlobeNewswire)
 
 ## 24-17 (zika)
 
@@ -2990,10 +3078,6 @@ Source: [News API](https://newsapi.org/)
 
 - [У людей каменного века обнаружили опасные инфекции](https://lenta.ru/news/2024/03/18/bacterium/) (Lenta)
 
-- [Como a peste bubônica reestruturou o sistema imunológico humano](https://www.bbc.com/portuguese/articles/c4nmvjdkngpo) (BBC News)
-
-- [Почему поцелуи в каменном веке были смертельно опасными](https://hi-news.ru/eto-interesno/pochemu-pocelui-v-kamennom-veke-byli-smertelno-opasnymi.html) (Hi-news.ru)
-
 ## 24-12 (typhoid)
 
 - [Kingpin is back as the physical embodiment of the seven deadly sins to reclaim his place as Daredevil's arch-enemy](https://www.gamesradar.com/kingpin-is-back-as-the-physical-embodiment-of-the-seven-deadly-sins-to-reclaim-his-place-as-daredevils-arch-enemy/) (GamesRadar+)
@@ -3041,8 +3125,6 @@ Source: [News API](https://newsapi.org/)
 - [Reframing the problem of India’s street dogs](https://blogs.lse.ac.uk/lsereviewofbooks/2024/03/19/reframing-the-problem-of-indias-street-dogs/) (Lse.ac.uk)
 
 - [I Drink Your Blood Streaming: Watch & Stream Online via Peacock](https://www.comingsoon.net/guides/news/1608541-i-drink-your-blood-streaming-watch-stream-online-via-peacock) (ComingSoon.net)
-
-- [Indian sophistication on stray dogs can be confusing](https://www.livemint.com/opinion/online-views/indian-sophistication-on-stray-dogs-can-be-confusing-11710675151847.html) (Livemint)
 
 ## 24-12 (pertussis)
 
@@ -3254,8 +3336,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['We can see this one coming': Pharmacists want govt to let them give vaccine against measles](https://www.thejournal.ie/pharmacists-want-to-help-with-mmr-vaccines-6326161-Mar2024/) (TheJournal.ie)
 
-- [Measles: What to know about one of the most contagious diseases](https://nationalpost.com/health/what-to-know-about-measles-symptoms-vaccines) (National Post)
-
 ## 24-12 (malaria)
 
 - [Confirman en Coahuila caso de malaria en una mujer embarazada](https://www.record.com.mx/contra/confirman-en-coahuila-caso-de-malaria-en-una-mujer-embarazada) (Record.com.mx)
@@ -3291,8 +3371,6 @@ Source: [News API](https://newsapi.org/)
 - [Un esqueleto de época romana revela cómo llegó la malaria a Europa](https://www.nationalgeographic.com.es/ciencia/se-ha-descifrado-genoma-malaria-esqueleto-epoca-romana_21875) (Nationalgeographic.com.es)
 
 - [Africa: Infectious Diseases Fester in Wake of Drought, War - UN Report](https://allafrica.com/stories/202403180129.html) (AllAfrica - Top Africa News)
-
-- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
 
 ## 24-12 (dengue)
 
@@ -3635,22 +3713,6 @@ Source: [News API](https://newsapi.org/)
 - [Roxy Vázquez reveló detalles de cómo transitó el dengue y sus días en el hospital: “Estoy débil”](https://www.lanacion.com.ar/espectaculos/roxy-vazquez-revelo-detalles-de-como-transito-el-dengue-y-sus-dias-en-el-hospital-estoy-debil-nid17032024/) (La Nacion)
 
 - [Lula chama reunião ministerial para mudar agenda e reverter queda na popularidade](https://valor.globo.com/politica/noticia/2024/03/17/lula-chama-reunio-ministerial-para-mudar-agenda-e-reverter-queda-na-popularidade.ghtml) (Globo)
-
-- [Dengue en Argentina: se registraron 79 muertos y 120.000 infectados desde agosto de 2023](https://www.lanacion.com.ar/sociedad/dengue-en-argentina-se-registraron-79-muertos-y-120000-infectados-desde-agosto-de-2023-nid17032024/) (La Nacion)
-
-- [Dengue se espalha para o Sul e Centro-Oeste, diz estudo da Fiocruz](https://saude.ig.com.br/2024-03-17/dengue-se-espalha-para-o-sul-e-centro-oeste--diz-estudo-da-fiocruz.html) (Ig.com.br)
-
-- [Dengue: Governo de SP vai distribuir 300 mil repelentes para gestantes](https://catracalivre.com.br/saude-bem-estar/dengue-governo-de-sp-vai-distribuir-300-mil-repelentes-para-gestantes/) (Catracalivre.com.br)
-
-- [Cómo eliminar los mosquitos de la cocina](https://www.lanacion.com.ar/sociedad/como-eliminar-los-mosquitos-de-la-cocina-nid17032024/) (La Nacion)
-
-- [Brasil y Argentina multiplican en 2024 los casos de dengue registrados en 2023](https://www.montevideo.com.uy/Salud/Brasil-y-Argentina-multiplican-en-2024-los-casos-de-dengue-registrados-en-2023-uc882821) (Montevideo.com.uy)
-
-- [Alta de casos de dengue no país](https://www.diariodigital.com.br/geral/alta-de-casos-de-dengue-no-pais) (Diariodigital.com.br)
-
-- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
-
-- [Veja a diferença entre os sintomas de dengue e covid-19](https://saude.ig.com.br/2024-03-17/veja-diferenca-entre-sintomas-dengue-covid-19.html) (Ig.com.br)
 
 ## 24-12 (chikungunya)
 
