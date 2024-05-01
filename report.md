@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-05-01 07:06
-- **Most recent article:** 2024-04-30 04:08:43
+- **New articles in last harvest:** 35
+- **Last harvest:** 2024-05-01 19:06
+- **Most recent article:** 2024-04-30 16:41:56
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 178 | 186 | 158 | 138 | 113 | 117 | 29 | 919 |
-| measles | 87 | 44 | 36 | 43 | 40 | 28 | 11 | 289 |
-| malaria | 18 | 7 | 13 | 16 | 29 | 77 | 12 | 172 |
+| dengue | 170 | 186 | 158 | 138 | 113 | 117 | 42 | 924 |
+| measles | 86 | 44 | 36 | 43 | 40 | 28 | 14 | 291 |
+| malaria | 17 | 7 | 13 | 16 | 29 | 77 | 13 | 172 |
 | meningitis | 8 | 16 | 4 | 15 | 44 | 5 | 2 | 94 |
-| zika | 12 | 21 | 11 | 10 | 8 | 3 | 3 | 68 |
-| chikungunya | 15 | 9 | 12 | 7 | 5 | 5 | 3 | 56 |
-| mpox | 4 | 6 | 12 | 3 | 13 | 8 | 6 | 52 |
+| zika | 12 | 21 | 11 | 10 | 8 | 3 | 6 | 71 |
+| mpox | 4 | 6 | 12 | 3 | 13 | 8 | 21 | 67 |
+| chikungunya | 15 | 9 | 12 | 7 | 5 | 5 | 6 | 59 |
 | sarampión | 12 | 3 | 5 | 13 | 0 | 10 | 4 | 47 |
-| rabies | 7 | 3 | 16 | 8 | 3 | 3 | 1 | 41 |
+| rabies | 6 | 3 | 16 | 8 | 3 | 3 | 1 | 40 |
 | pertussis | 3 | 6 | 7 | 9 | 7 | 5 | 2 | 39 |
-| yersinia | 3 | 1 | 3 | 0 | 2 | 0 | 3 | 12 |
 | leptospirosis | 0 | 0 | 1 | 3 | 3 | 3 | 1 | 11 |
+| yersinia | 1 | 1 | 3 | 0 | 2 | 0 | 3 | 10 |
 | typhoid | 1 | 1 | 0 | 0 | 2 | 0 | 0 | 4 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -33,6 +33,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-18 (zika)
+
+- [«Καμπανάκι» ΕΟΔΥ για τον Δάγκειο Πυρετό λόγω αυξημένου κινδύνου μετάδοσης - Τα μέτρα πρόληψης](https://www.newsit.gr/ygeia/dagkeios-pyretos-odigies-apo-ton-eody-logo-ayksimenou-kindynou-ta-metra-prolipsis/4072277/) (Newsit.gr)
+
+- [«Καμπανάκι» ΕΟΔΥ για αυξημένο κίνδυνο Δάγκειου πυρετού- Οι επικίνδυνες περιοχές](https://www.skai.gr/news/health/eody-ayksimenow-kindynow-dagkeiou-pyretou-oi-epikindynes-perioxes) (Skai.gr)
+
+- [ΕΟΔΥ: Προειδοποιήσεις για τον Δάγκειο πυρετό σε ταξιδιώτες και επισκέπτες από το εξωτερικό](https://www.protothema.gr/ugeia/article/1493442/eodu-proeidopoiiseis-gia-ton-dageio-pureto-se-taxidiotes-kai-episkeptes-apo-to-exoteriko/) (Protothema.gr)
 
 - [Una bacteria podría ser eficaz para evitar la expansión del mosquito tigre en España](https://www.abc.es/sociedad/bacteria-eficaz-evitar-expansion-mosquito-tigre-espana-20240429201657-nt.html) (Www.abc.es)
 
@@ -70,6 +76,36 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-18 (mpox)
 
+- [FHM om utbrottet av apkoppor: ”Sjukdom vi inte vill ska spridas”](https://www.expressen.se/nyheter/sverige/fhm-om-utbrottet-av-apkoppor--sjukdom-vi-inte-vill-ska-spridas/) (Expressen.se)
+
+- [Una dosis más baja de la vacuna mpox es segura y genera una respuesta de anticuerpos de seis semanas](https://www.infosalus.com/salud-investigacion/noticia-dosis-mas-baja-vacuna-mpox-segura-genera-respuesta-anticuerpos-seis-semanas-20240430170530.html) (Infosalus.com)
+
+- [В Стокгольме расследуют вспышку оспы обезьян](https://tass.ru/obschestvo/20686653) (Tass.ru)
+
+- [Trump bötfälls för domstolstrots](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=35167) (Svenska Dagbladet)
+
+- [Domstol avvisar tyskt vapenstopp till Israel](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=35165) (Svenska Dagbladet)
+
+- [Kundportal hos Postnord ligger nere](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=35164) (Svenska Dagbladet)
+
+- [Volontärer hoppar av Eurovision i Malmö](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=35154) (Svenska Dagbladet)
+
+- [Utbrott av apkoppor i Stockholm förbryllar Folhälsomyndigheten](https://www.svt.se/nyheter/lokalt/stockholm/utbrott-av-apkoppor-i-stockholm-forbryllar-folhalsomyndigheten) (Www.svt.se)
+
+- [Utbrudd av apekopper i Stockholm](https://www.nrk.no/nyheter/utbrudd-av-apekopper-i-stockholm-1.16865415) (NRK)
+
+- [Pågående utbrott av apkoppor i Stockholm](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=35144) (Svenska Dagbladet)
+
+- [Utbrott av apkoppor i Stockholm](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1249741) (Aftonbladet.se)
+
+- [Utbrott av apkoppor i Stockholm](https://www.dn.se/direkt/2024-04-30/utbrott-av-apkoppor-i-stockholm/) (Www.dn.se)
+
+- [Utbrott av apkoppor i Stockholm](https://www.expressen.se/nyheter/sverige/utbrott-av-apkoppor-i-stockholm/) (Expressen.se)
+
+- [Utbrott av apkoppor i Stockholm](https://www.svd.se/a/5EVope/utbrott-av-apkoppor-i-stockholm) (Svenska Dagbladet)
+
+- [Utbrott av apkoppor i Stockholm](https://www.aftonbladet.se/nyheter/a/al2aJL/utbrott-av-apkoppor-i-stockholm) (Aftonbladet.se)
+
 - [Mpox disease Victoria: Three new locally acquired cases recorded as health authorities urge residents to become fully vaccinated](https://www.skynews.com.au/lifestyle/health/victoria-records-three-new-locally-acquired-cases-of-mpox-disease-as-health-authorities-urge-residents-to-become-fully-vaccinated/news-story/61c439cb535f5c4e3c725d567035dde5) (Sky News Australia)
 
 - [Vaccinia virus: New insights into the structure and function of the poxvirus prototype](https://phys.org/news/2024-04-vaccinia-virus-insights-function-poxvirus.html) (Phys.Org)
@@ -89,6 +125,12 @@ Source: [News API](https://newsapi.org/)
 - [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
 
 ## 24-18 (measles)
+
+- [The WHO overturned dogma on how airborne diseases spread. Will the CDC act on it?](https://www.nbcnews.com/health/health-news/who-airborne-disease-cdc-updated-guidelines-rcna149843) (NBC News)
+
+- [Health experts warn next measles outbreak could be much worse](https://www.1news.co.nz/2024/04/30/health-experts-warn-next-measles-outbreak-could-be-much-worse/) (1news.co.nz)
+
+- [Health experts warn Kiwis at 'serious risk' of measles epidemic](https://www.newshub.co.nz/home/new-zealand/2024/04/health-experts-warn-kiwis-at-serious-risk-of-measles-epidemic-as-immunisation-rates-plummet.html) (Newshub)
 
 - [Measles making alarming comeback as global cases double and trend is getting worse](https://www.wnd.com/2024/04/measles-making-alarming-comeback-global-cases-double-trend-getting-worse/) (Wnd.com)
 
@@ -113,6 +155,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
 
 ## 24-18 (malaria)
+
+- [GFGF, GHS celebrates 2024 world malaria day at Tassco](https://thechronicle.com.gh/gfgf-ghs-celebrates-2024-world-malaria-day-at-tassco/) (Thechronicle.com.gh)
 
 - [Aurea Pereira Steberl: Was es heißt, eine schwarze Brasilianerin zu sein](https://www.faz.net/aktuell/stil/leib-seele/aurea-was-es-bedeutet-als-schwarze-frau-in-brasilien-zu-leben-19643672.html) (Faz.net)
 
@@ -143,6 +187,32 @@ Source: [News API](https://newsapi.org/)
 - [US Dog Owners Warned Against Widespread Deadly Bacterial Illness](https://www.newsweek.com/us-dog-owners-widespread-deadly-bacterial-illness-1895219) (Newsweek)
 
 ## 24-18 (dengue)
+
+- [Estado do Rio de Janeiro tem dez casos confirmados de febre oropouche](https://www.terra.com.br/vida-e-estilo/saude/estado-do-rio-de-janeiro-tem-dez-casos-confirmados-de-febre-oropouche,f35eb9543a75f3ed8ed22997d1b9fd42horujcou.html) (Terra.com.br)
+
+- [Declaran emergencia nacional por epidemia de dengue en Guatemala](https://cnnespanol.cnn.com/2024/04/30/declaran-emergencia-nacional-epidemia-dengue-guatemala-orix/) (CNN)
+
+- [Dengue: Brasil ultrapassa os 4 milhões de casos da doença](https://www.terra.com.br/vida-e-estilo/saude/dengue-brasil-ultrapassa-os-4-milhoes-de-casos-da-doenca,bfcb94cfc6edcd112eec865c4b145b2fqgmfe8k5.html) (Terra.com.br)
+
+- [Dengue: Vinhedo registra primeira morte pela doença em nove anos](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/30/dengue-vinhedo-registra-primeira-morte-pela-doenca-em-nove-anos.ghtml) (Globo)
+
+- [Rio Grande do Sul receberá primeiras doses da vacina da dengue](https://www.terra.com.br/noticias/rio-grande-do-sul-recebera-primeiras-doses-da-vacina-da-dengue,1beeb7c536b68d2c2458d17844ee40c61j32cuei.html) (Terra.com.br)
+
+- [Brasil passa de 4 milhões de casos de dengue; mortes chegam a 1.937](https://gizmodo.uol.com.br/brasil-passa-de-4-milhoes-de-casos-de-dengue-mortes-chegam-a-1-937/) (Uol.com.br)
+
+- [São Paulo bate recorde histórico de mortes por dengue, com 550 vítimas](https://www.metropoles.com/sao-paulo/sao-paulo-bate-recorde-historico-de-mortes-por-dengue-com-550-vitimas) (Metropoles.com)
+
+- [Effectiveness of the Integrated Dengue Education and Learning (iDEAL) module in improving the knowledge, attitude, practice, environmental cleanliness index, and dengue index among schoolchildren: A randomised controlled trial protocol](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302736) (Plos.org)
+
+- [Dengue: SP tem mais mortes em 2024 do que nos nove anos anteriores somados](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-mais-mortes-em-2024-do-que-nos-nove-anos-anteriores-somados,b899585ef6e0a91b792d8acab938cb89v8wn3pd3.html) (Terra.com.br)
+
+- [Minas inaugura fábrica de mosquito modificado para combater dengue; conheça o método Wolbachia](https://www.terra.com.br/vida-e-estilo/saude/minas-inaugura-fabrica-de-mosquito-modificado-para-combater-dengue-conheca-o-metodo-wolbachia,90bf40fbd3841773b8c88967b85e1afcgpl4e4x1.html) (Terra.com.br)
+
+- [Al via a Roma campagna anti-zanzare, 'attenzione a dengue'](https://www.ansa.it/lazio/notizie/2024/04/30/al-via-a-roma-campagna-anti-zanzare-attenzione-a-dengue_94c59702-2115-44ec-8d1e-bb29dedde2f0.html) (ANSA.it)
+
+- [Saúde inaugura biofábrica de mosquitos antidengue em Minas Gerais](https://dinheirama.com/saude-inaugura-biofabrica-de-mosquitos-antidengue-em-minas-gerais/) (Dinheirama.com)
+
+- [Curta](https://valor.globo.com/brasil/noticia/2024/04/30/curta.ghtml) (Globo)
 
 - [São Paulo já tem todos os bairros com epidemia de dengue, aponta boletim da prefeitura](https://valor.globo.com/brasil/noticia/2024/04/29/so-paulo-j-tem-todos-os-bairros-com-epidemia-de-dengue-aponta-boletim-da-prefeitura.ghtml) (Globo)
 
@@ -203,6 +273,12 @@ Source: [News API](https://newsapi.org/)
 - [Argentina llegó a 280 fallecimientos de pacientes con dengue; 42 en la última semana](https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762) (Montevideo.com.uy)
 
 ## 24-18 (chikungunya)
+
+- [«Καμπανάκι» ΕΟΔΥ για τον Δάγκειο Πυρετό λόγω αυξημένου κινδύνου μετάδοσης - Τα μέτρα πρόληψης](https://www.newsit.gr/ygeia/dagkeios-pyretos-odigies-apo-ton-eody-logo-ayksimenou-kindynou-ta-metra-prolipsis/4072277/) (Newsit.gr)
+
+- [«Καμπανάκι» ΕΟΔΥ για αυξημένο κίνδυνο Δάγκειου πυρετού- Οι επικίνδυνες περιοχές](https://www.skai.gr/news/health/eody-ayksimenow-kindynow-dagkeiou-pyretou-oi-epikindynes-perioxes) (Skai.gr)
+
+- [ΕΟΔΥ: Προειδοποιήσεις για τον Δάγκειο πυρετό σε ταξιδιώτες και επισκέπτες από το εξωτερικό](https://www.protothema.gr/ugeia/article/1493442/eodu-proeidopoiiseis-gia-ton-dageio-pureto-se-taxidiotes-kai-episkeptes-apo-to-exoteriko/) (Protothema.gr)
 
 - [Bavarian Nordic Initiates Rolling Submission of Biologics License Application with FDA for its Chikungunya Vaccine Candidate](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Initiates-Rolling-Submission-of-Biologics-License-Application-with-FDA-for-its-Chiku-46564700/) (Marketscreener.com)
 
@@ -3114,10 +3190,6 @@ Source: [News API](https://newsapi.org/)
 
 - [У людей каменного века обнаружили опасные инфекции](https://lenta.ru/news/2024/03/18/bacterium/) (Lenta)
 
-- [Como a peste bubônica reestruturou o sistema imunológico humano](https://www.bbc.com/portuguese/articles/c4nmvjdkngpo) (BBC News)
-
-- [Почему поцелуи в каменном веке были смертельно опасными](https://hi-news.ru/eto-interesno/pochemu-pocelui-v-kamennom-veke-byli-smertelno-opasnymi.html) (Hi-news.ru)
-
 ## 24-12 (typhoid)
 
 - [Kingpin is back as the physical embodiment of the seven deadly sins to reclaim his place as Daredevil's arch-enemy](https://www.gamesradar.com/kingpin-is-back-as-the-physical-embodiment-of-the-seven-deadly-sins-to-reclaim-his-place-as-daredevils-arch-enemy/) (GamesRadar+)
@@ -3165,8 +3237,6 @@ Source: [News API](https://newsapi.org/)
 - [Reframing the problem of India’s street dogs](https://blogs.lse.ac.uk/lsereviewofbooks/2024/03/19/reframing-the-problem-of-indias-street-dogs/) (Lse.ac.uk)
 
 - [I Drink Your Blood Streaming: Watch & Stream Online via Peacock](https://www.comingsoon.net/guides/news/1608541-i-drink-your-blood-streaming-watch-stream-online-via-peacock) (ComingSoon.net)
-
-- [Indian sophistication on stray dogs can be confusing](https://www.livemint.com/opinion/online-views/indian-sophistication-on-stray-dogs-can-be-confusing-11710675151847.html) (Livemint)
 
 ## 24-12 (pertussis)
 
@@ -3378,8 +3448,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['We can see this one coming': Pharmacists want govt to let them give vaccine against measles](https://www.thejournal.ie/pharmacists-want-to-help-with-mmr-vaccines-6326161-Mar2024/) (TheJournal.ie)
 
-- [Measles: What to know about one of the most contagious diseases](https://nationalpost.com/health/what-to-know-about-measles-symptoms-vaccines) (National Post)
-
 ## 24-12 (malaria)
 
 - [Confirman en Coahuila caso de malaria en una mujer embarazada](https://www.record.com.mx/contra/confirman-en-coahuila-caso-de-malaria-en-una-mujer-embarazada) (Record.com.mx)
@@ -3415,8 +3483,6 @@ Source: [News API](https://newsapi.org/)
 - [Un esqueleto de época romana revela cómo llegó la malaria a Europa](https://www.nationalgeographic.com.es/ciencia/se-ha-descifrado-genoma-malaria-esqueleto-epoca-romana_21875) (Nationalgeographic.com.es)
 
 - [Africa: Infectious Diseases Fester in Wake of Drought, War - UN Report](https://allafrica.com/stories/202403180129.html) (AllAfrica - Top Africa News)
-
-- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
 
 ## 24-12 (dengue)
 
@@ -3759,22 +3825,6 @@ Source: [News API](https://newsapi.org/)
 - [Roxy Vázquez reveló detalles de cómo transitó el dengue y sus días en el hospital: “Estoy débil”](https://www.lanacion.com.ar/espectaculos/roxy-vazquez-revelo-detalles-de-como-transito-el-dengue-y-sus-dias-en-el-hospital-estoy-debil-nid17032024/) (La Nacion)
 
 - [Lula chama reunião ministerial para mudar agenda e reverter queda na popularidade](https://valor.globo.com/politica/noticia/2024/03/17/lula-chama-reunio-ministerial-para-mudar-agenda-e-reverter-queda-na-popularidade.ghtml) (Globo)
-
-- [Dengue en Argentina: se registraron 79 muertos y 120.000 infectados desde agosto de 2023](https://www.lanacion.com.ar/sociedad/dengue-en-argentina-se-registraron-79-muertos-y-120000-infectados-desde-agosto-de-2023-nid17032024/) (La Nacion)
-
-- [Dengue se espalha para o Sul e Centro-Oeste, diz estudo da Fiocruz](https://saude.ig.com.br/2024-03-17/dengue-se-espalha-para-o-sul-e-centro-oeste--diz-estudo-da-fiocruz.html) (Ig.com.br)
-
-- [Dengue: Governo de SP vai distribuir 300 mil repelentes para gestantes](https://catracalivre.com.br/saude-bem-estar/dengue-governo-de-sp-vai-distribuir-300-mil-repelentes-para-gestantes/) (Catracalivre.com.br)
-
-- [Cómo eliminar los mosquitos de la cocina](https://www.lanacion.com.ar/sociedad/como-eliminar-los-mosquitos-de-la-cocina-nid17032024/) (La Nacion)
-
-- [Brasil y Argentina multiplican en 2024 los casos de dengue registrados en 2023](https://www.montevideo.com.uy/Salud/Brasil-y-Argentina-multiplican-en-2024-los-casos-de-dengue-registrados-en-2023-uc882821) (Montevideo.com.uy)
-
-- [Alta de casos de dengue no país](https://www.diariodigital.com.br/geral/alta-de-casos-de-dengue-no-pais) (Diariodigital.com.br)
-
-- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
-
-- [Veja a diferença entre os sintomas de dengue e covid-19](https://saude.ig.com.br/2024-03-17/veja-diferenca-entre-sintomas-dengue-covid-19.html) (Ig.com.br)
 
 ## 24-12 (chikungunya)
 
