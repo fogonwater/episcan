@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-05-02 07:05
-- **Most recent article:** 2024-05-01 00:39:38
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-05-02 19:05
+- **Most recent article:** 2024-05-01 19:01:59
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 178 | 186 | 158 | 138 | 113 | 117 | 51 | 941 |
-| measles | 87 | 44 | 36 | 43 | 40 | 28 | 14 | 292 |
-| malaria | 18 | 7 | 13 | 16 | 29 | 77 | 13 | 173 |
+| dengue | 170 | 186 | 158 | 138 | 113 | 117 | 53 | 935 |
+| measles | 86 | 44 | 36 | 43 | 40 | 28 | 16 | 293 |
+| malaria | 17 | 7 | 13 | 16 | 29 | 77 | 15 | 174 |
 | meningitis | 8 | 16 | 4 | 15 | 44 | 5 | 2 | 94 |
-| zika | 12 | 21 | 11 | 10 | 8 | 3 | 6 | 71 |
-| mpox | 4 | 6 | 12 | 3 | 13 | 8 | 22 | 68 |
+| zika | 12 | 21 | 11 | 10 | 8 | 3 | 8 | 73 |
+| mpox | 4 | 6 | 12 | 3 | 13 | 8 | 23 | 69 |
 | chikungunya | 15 | 9 | 12 | 7 | 5 | 5 | 6 | 59 |
-| sarampión | 12 | 3 | 5 | 13 | 0 | 10 | 4 | 47 |
-| rabies | 7 | 3 | 16 | 8 | 3 | 3 | 1 | 41 |
+| sarampión | 12 | 3 | 5 | 13 | 0 | 10 | 5 | 48 |
+| rabies | 6 | 3 | 16 | 8 | 3 | 3 | 1 | 40 |
 | pertussis | 3 | 6 | 7 | 9 | 7 | 5 | 2 | 39 |
-| yersinia | 3 | 1 | 3 | 0 | 2 | 0 | 3 | 12 |
 | leptospirosis | 0 | 0 | 1 | 3 | 3 | 3 | 1 | 11 |
+| yersinia | 1 | 1 | 3 | 0 | 2 | 0 | 3 | 10 |
 | typhoid | 1 | 1 | 0 | 0 | 2 | 0 | 0 | 4 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-18 (zika)
+
+- [Global Insect Repellent Market Projected to Reach $8.4 Billion by 2032 from $5 Billion in 2023, Driven by Rising Concerns Related to Diseases Such as Zika Virus, Malaria, and Lyme](https://www.globenewswire.com/news-release/2024/05/01/2873420/28124/en/Global-Insect-Repellent-Market-Projected-to-Reach-8-4-Billion-by-2032-from-5-Billion-in-2023-Driven-by-Rising-Concerns-Related-to-Diseases-Such-as-Zika-Virus-Malaria-and-Lyme.html) (GlobeNewswire)
+
+- [Emory University police arrest convicted felon who crossed state lines to join anti-Israel protests](https://www.foxnews.com/us/emory-university-police-arrest-convicted-felon-crossed-state-lines-join-anti-israel-protests) (Fox News)
 
 - [«Καμπανάκι» ΕΟΔΥ για τον Δάγκειο Πυρετό λόγω αυξημένου κινδύνου μετάδοσης - Τα μέτρα πρόληψης](https://www.newsit.gr/ygeia/dagkeios-pyretos-odigies-apo-ton-eody-logo-ayksimenou-kindynou-ta-metra-prolipsis/4072277/) (Newsit.gr)
 
@@ -56,6 +60,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-18 (sarampión)
 
+- [La OMS confirma cómo se propagan los virus por el aire. Los CDC tal vez miren para otro lado](https://kffhealthnews.org/news/article/la-oms-confirma-como-se-propagan-los-virus-por-el-aire-los-cdc-tal-vez-miren-para-otro-lado/) (Kffhealthnews.org)
+
 - [UNAM emite medidas de prevención ante aumento de casos de sarampión en CDMX](https://www.record.com.mx/contra/unam-emite-medidas-de-prevencion-ante-aumento-de-casos-de-sarampion-en-cdmx) (Record.com.mx)
 
 - [Los casos mundiales de sarampión casi se duplican en un año](https://www.infosalus.com/salud-investigacion/noticia-casos-mundiales-sarampion-casi-duplican-ano-20240429180712.html) (Infosalus.com)
@@ -75,6 +81,8 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: 13 confirmed pertussis cases in Negros Occidental](https://rpnradio.com/bacolod-13-confirmed-pertussis-cases-in-negros-occidental/) (Rpnradio.com)
 
 ## 24-18 (mpox)
+
+- [Mpox Cases Up in 2024: Is This Another Surge?](https://www.webmd.com/a-to-z-guides/news/20240501/mpox-cases-up-2024-is-this-another-surge) (WebMD)
 
 - [В мире в марте выявили 466 случаев оспы обезьян](https://tass.ru/obschestvo/20688289) (Tass.ru)
 
@@ -128,6 +136,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-18 (measles)
 
+- [WHO Overturns Dogma on Airborne Disease Spread. The CDC Might Not Act on It.](https://kffhealthnews.org/news/article/airborne-disease-transmission-who-cdc-new-evidence/) (Kffhealthnews.org)
+
+- [Επιστήμονες ανακάλυψαν αυτοκόλλητο επίθεμα αντί εμβολίου κατά της Ιλαράς](https://www.skai.gr/news/health/ilara-epistimones-anakalypsan-epithema-pou-antikathista-to-emvolio) (Skai.gr)
+
 - [The WHO overturned dogma on how airborne diseases spread. Will the CDC act on it?](https://www.nbcnews.com/health/health-news/who-airborne-disease-cdc-updated-guidelines-rcna149843) (NBC News)
 
 - [Health experts warn next measles outbreak could be much worse](https://www.1news.co.nz/2024/04/30/health-experts-warn-next-measles-outbreak-could-be-much-worse/) (1news.co.nz)
@@ -157,6 +169,10 @@ Source: [News API](https://newsapi.org/)
 - [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
 
 ## 24-18 (malaria)
+
+- [ESCMID 2024: Cutting-edge vaccines in development for a healthier tomorrow](https://www.clinicaltrialsarena.com/analyst-comment/escmid-2024-cutting-edge-vaccines-in-development-for-a-healthier-tomorrow/) (Clinical Trials Arena)
+
+- [Global Insect Repellent Market Projected to Reach $8.4 Billion by 2032 from $5 Billion in 2023, Driven by Rising Concerns Related to Diseases Such as Zika Virus, Malaria, and Lyme](https://www.globenewswire.com/news-release/2024/05/01/2873420/28124/en/Global-Insect-Repellent-Market-Projected-to-Reach-8-4-Billion-by-2032-from-5-Billion-in-2023-Driven-by-Rising-Concerns-Related-to-Diseases-Such-as-Zika-Virus-Malaria-and-Lyme.html) (GlobeNewswire)
 
 - [GFGF, GHS celebrates 2024 world malaria day at Tassco](https://thechronicle.com.gh/gfgf-ghs-celebrates-2024-world-malaria-day-at-tassco/) (Thechronicle.com.gh)
 
@@ -189,6 +205,10 @@ Source: [News API](https://newsapi.org/)
 - [US Dog Owners Warned Against Widespread Deadly Bacterial Illness](https://www.newsweek.com/us-dog-owners-widespread-deadly-bacterial-illness-1895219) (Newsweek)
 
 ## 24-18 (dengue)
+
+- [Latam reservou 19 voos para transporte de repelentes entre Manaus e SP](https://veja.abril.com.br/coluna/radar/latam-reservou-19-voos-para-transporte-de-repelentes-entre-manaus-e-sp) (Abril.com.br)
+
+- [Dengue: por qué los asintomáticos representan una buena y una mala noticia a la vez](https://www.lanacion.com.ar/sociedad/dengue-por-que-los-asintomaticos-representan-una-buena-y-una-mala-noticia-a-la-vez-nid01052024/) (La Nacion)
 
 - [Porto Alegre recebe vacina contra dengue na quinta-feira](https://www.terra.com.br/noticias/porto-alegre-recebe-vacina-contra-dengue-na-quinta-feira,85048d00ca4a5e9ebce31af8dbc19630jwyw0bti.html) (Terra.com.br)
 
@@ -3210,10 +3230,6 @@ Source: [News API](https://newsapi.org/)
 
 - [У людей каменного века обнаружили опасные инфекции](https://lenta.ru/news/2024/03/18/bacterium/) (Lenta)
 
-- [Como a peste bubônica reestruturou o sistema imunológico humano](https://www.bbc.com/portuguese/articles/c4nmvjdkngpo) (BBC News)
-
-- [Почему поцелуи в каменном веке были смертельно опасными](https://hi-news.ru/eto-interesno/pochemu-pocelui-v-kamennom-veke-byli-smertelno-opasnymi.html) (Hi-news.ru)
-
 ## 24-12 (typhoid)
 
 - [Kingpin is back as the physical embodiment of the seven deadly sins to reclaim his place as Daredevil's arch-enemy](https://www.gamesradar.com/kingpin-is-back-as-the-physical-embodiment-of-the-seven-deadly-sins-to-reclaim-his-place-as-daredevils-arch-enemy/) (GamesRadar+)
@@ -3261,8 +3277,6 @@ Source: [News API](https://newsapi.org/)
 - [Reframing the problem of India’s street dogs](https://blogs.lse.ac.uk/lsereviewofbooks/2024/03/19/reframing-the-problem-of-indias-street-dogs/) (Lse.ac.uk)
 
 - [I Drink Your Blood Streaming: Watch & Stream Online via Peacock](https://www.comingsoon.net/guides/news/1608541-i-drink-your-blood-streaming-watch-stream-online-via-peacock) (ComingSoon.net)
-
-- [Indian sophistication on stray dogs can be confusing](https://www.livemint.com/opinion/online-views/indian-sophistication-on-stray-dogs-can-be-confusing-11710675151847.html) (Livemint)
 
 ## 24-12 (pertussis)
 
@@ -3474,8 +3488,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['We can see this one coming': Pharmacists want govt to let them give vaccine against measles](https://www.thejournal.ie/pharmacists-want-to-help-with-mmr-vaccines-6326161-Mar2024/) (TheJournal.ie)
 
-- [Measles: What to know about one of the most contagious diseases](https://nationalpost.com/health/what-to-know-about-measles-symptoms-vaccines) (National Post)
-
 ## 24-12 (malaria)
 
 - [Confirman en Coahuila caso de malaria en una mujer embarazada](https://www.record.com.mx/contra/confirman-en-coahuila-caso-de-malaria-en-una-mujer-embarazada) (Record.com.mx)
@@ -3511,8 +3523,6 @@ Source: [News API](https://newsapi.org/)
 - [Un esqueleto de época romana revela cómo llegó la malaria a Europa](https://www.nationalgeographic.com.es/ciencia/se-ha-descifrado-genoma-malaria-esqueleto-epoca-romana_21875) (Nationalgeographic.com.es)
 
 - [Africa: Infectious Diseases Fester in Wake of Drought, War - UN Report](https://allafrica.com/stories/202403180129.html) (AllAfrica - Top Africa News)
-
-- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
 
 ## 24-12 (dengue)
 
@@ -3855,22 +3865,6 @@ Source: [News API](https://newsapi.org/)
 - [Roxy Vázquez reveló detalles de cómo transitó el dengue y sus días en el hospital: “Estoy débil”](https://www.lanacion.com.ar/espectaculos/roxy-vazquez-revelo-detalles-de-como-transito-el-dengue-y-sus-dias-en-el-hospital-estoy-debil-nid17032024/) (La Nacion)
 
 - [Lula chama reunião ministerial para mudar agenda e reverter queda na popularidade](https://valor.globo.com/politica/noticia/2024/03/17/lula-chama-reunio-ministerial-para-mudar-agenda-e-reverter-queda-na-popularidade.ghtml) (Globo)
-
-- [Dengue en Argentina: se registraron 79 muertos y 120.000 infectados desde agosto de 2023](https://www.lanacion.com.ar/sociedad/dengue-en-argentina-se-registraron-79-muertos-y-120000-infectados-desde-agosto-de-2023-nid17032024/) (La Nacion)
-
-- [Dengue se espalha para o Sul e Centro-Oeste, diz estudo da Fiocruz](https://saude.ig.com.br/2024-03-17/dengue-se-espalha-para-o-sul-e-centro-oeste--diz-estudo-da-fiocruz.html) (Ig.com.br)
-
-- [Dengue: Governo de SP vai distribuir 300 mil repelentes para gestantes](https://catracalivre.com.br/saude-bem-estar/dengue-governo-de-sp-vai-distribuir-300-mil-repelentes-para-gestantes/) (Catracalivre.com.br)
-
-- [Cómo eliminar los mosquitos de la cocina](https://www.lanacion.com.ar/sociedad/como-eliminar-los-mosquitos-de-la-cocina-nid17032024/) (La Nacion)
-
-- [Brasil y Argentina multiplican en 2024 los casos de dengue registrados en 2023](https://www.montevideo.com.uy/Salud/Brasil-y-Argentina-multiplican-en-2024-los-casos-de-dengue-registrados-en-2023-uc882821) (Montevideo.com.uy)
-
-- [Alta de casos de dengue no país](https://www.diariodigital.com.br/geral/alta-de-casos-de-dengue-no-pais) (Diariodigital.com.br)
-
-- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
-
-- [Veja a diferença entre os sintomas de dengue e covid-19](https://saude.ig.com.br/2024-03-17/veja-diferenca-entre-sintomas-dengue-covid-19.html) (Ig.com.br)
 
 ## 24-12 (chikungunya)
 

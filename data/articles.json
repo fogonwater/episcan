@@ -1,8 +1,171 @@
 {
-  "last_updated": "2024-05-02 07:05",
-  "count_articles_total": 1747,
-  "count_articles_new": 10,
+  "last_updated": "2024-05-02 19:05",
+  "count_articles_total": 1744,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 8811,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Ramiro Brites",
+      "title": "Latam reservou 19 voos para transporte de repelentes entre Manaus e SP",
+      "description": "Com uso dos avi\u00f5es, tempo de viagem de produtos contra a dengue caiu de 56 para quatro horas em meio a epidemia",
+      "url": "https://veja.abril.com.br/coluna/radar/latam-reservou-19-voos-para-transporte-de-repelentes-entre-manaus-e-sp",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-23-at-19.33.42.jpeg?quality=90&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2024-05-01 19:01:59",
+      "content": "Assine VEJA por R$2,00/semanaRadar SEGUIR SEGUINDO Por Robson BoninNotas exclusivas sobre pol\u00edtica, neg\u00f3cios e entretenimento. Com Gustavo Maia, Nicholas Shores e Ramiro Brites. Este conte\u00fado \u00e9 ex\u2026 [+951 chars]",
+      "retrievedAt": "2024-05-02 19:05:35.196241",
+      "internal_id": "7e4ec55bd5b394c87a09e524a33937bea249a79603dfa34a9753b748db1404b0",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 8816,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "WebMD",
+      "author": "Damian Mcnamara",
+      "title": "Mpox Cases Up in 2024: Is This Another Surge?",
+      "description": "Although nowhere near the tens of thousands of cases seen in a 2022-23 outbreak, Mpox cases are up the first few months of 2024, compared to the same time last year. Here's what to know.",
+      "url": "https://www.webmd.com/a-to-z-guides/news/20240501/mpox-cases-up-2024-is-this-another-surge",
+      "urlToImage": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/monkeypox_ref_guide/1800x1200_sciencesource_rm_monkeypox_ref_guide_alt.jpg",
+      "publishedAt": "2024-05-01 18:13:34",
+      "content": "Why are Some People at Higher Risk? Members of the LGBTQ+ community have been at higher risk for mpox over the last few years, but why? There are certain social networks where we now know that thi\u2026 [+1975 chars]",
+      "retrievedAt": "2024-05-02 19:05:36.614930",
+      "internal_id": "eafc14b6b853116de6facca978f82f13046d857b350907e001d2262f74c85582",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 8813,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Clinical Trials Arena",
+      "author": "GlobalData Healthcare",
+      "title": "ESCMID 2024: Cutting-edge vaccines in development for a healthier tomorrow",
+      "description": "Data presented at ESCMID Global 2024 highlights the efficacy of vaccines against malaria, Streptococcus pneumoniae and more.",
+      "url": "https://www.clinicaltrialsarena.com/analyst-comment/escmid-2024-cutting-edge-vaccines-in-development-for-a-healthier-tomorrow/",
+      "urlToImage": "https://media.zenfs.com/en/clinical_trials_arena_396/0f7359b1621a037aefa0f774cd7ba86d",
+      "publishedAt": "2024-05-01 14:22:17",
+      "content": "New vaccine trial data was presented during an oral session at the 34th European Society of Clinical Microbiology and Infectious Diseases (ESCMID) Global (formerly ECCMID) conference in Barcelona, Sp\u2026 [+3201 chars]",
+      "retrievedAt": "2024-05-02 19:05:35.824236",
+      "internal_id": "d7abfd8832dfc862bcc090e03c44ac91b3ea153accb36f44604d7bbad4d08067",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 8814,
+      "query": [
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Global Insect Repellent Market Projected to Reach $8.4 Billion by 2032 from $5 Billion in 2023, Driven by Rising Concerns Related to Diseases Such as Zika Virus, Malaria, and Lyme",
+      "description": "Dublin, May 01, 2024 (GLOBE NEWSWIRE) -- The \"Insect Repellent Market Report by Insect Type (Mosquito Repellent, Bugs Repellent, Fly Repellent, and Others), Product Type (Vaporizers, Spray, Cream, and Others), Distribution Channel (Supermarkets/Hypermarkets, \u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/05/01/2873420/28124/en/Global-Insect-Repellent-Market-Projected-to-Reach-8-4-Billion-by-2032-from-5-Billion-in-2023-Driven-by-Rising-Concerns-Related-to-Diseases-Such-as-Zika-Virus-Malaria-and-Lyme.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2024-05-01 14:12:00",
+      "content": "Dublin, May 01, 2024 (GLOBE NEWSWIRE) -- The \"Insect Repellent Market Report by Insect Type (Mosquito Repellent, Bugs Repellent, Fly Repellent, and Others), Product Type (Vaporizers, Spray, Cream, an\u2026 [+3695 chars]",
+      "retrievedAt": "2024-05-02 19:05:35.847222",
+      "internal_id": "1fcd2f76f7a411409d426cd2a8349be45c7a60df4a073a8b44e1e07460b968a9",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 8812,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "Dengue: por qu\u00e9 los asintom\u00e1ticos representan una buena y una mala noticia a la vez",
+      "description": "Los especialistas indican que solo uno de cada cuatro casos genera s\u00edntomas que derivan en la consulta m\u00e9dica que permite el diagn\u00f3stico",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-por-que-los-asintomaticos-representan-una-buena-y-una-mala-noticia-a-la-vez-nid01052024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-aedes-aegypti-mosquito-vector-del-S3JPAWMYHRDENE6Q76GQSY2MO4.jpg?auth=ea273d9864dfb28806178bede17b6b98a393721aefc196f023cbc6d6eca84657&width=768&quality=70&smart=false",
+      "publishedAt": "2024-05-01 14:07:24",
+      "content": "La epidemia de dengue que atraviesa la Argentina por momentos colaps\u00f3 las guardias de muchos hospitales del centro y norte del pa\u00eds. Hoy, en gran parte del pa\u00eds, los casos llevan tres o m\u00e1s semanas a\u2026 [+5937 chars]",
+      "retrievedAt": "2024-05-02 19:05:35.248697",
+      "internal_id": "8b802a7471ce77f26d197fdd8c439322429d0bd745949d7f43d3b58094e71e4a",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 8815,
+      "query": [
+        "zika"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Greg Norman",
+      "title": "Emory University police arrest convicted felon who crossed state lines to join anti-Israel protests",
+      "description": "Emory University has announced the arrest of Derek Zika, a convicted felon who allegedly traveled from North Carolina to take part in anti-Israel protests.",
+      "url": "https://www.foxnews.com/us/emory-university-police-arrest-convicted-felon-crossed-state-lines-join-anti-israel-protests",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/Emory-University-protest.jpg",
+      "publishedAt": "2024-05-01 13:51:23",
+      "content": "Police at Emory University in Georgia have announced the arrest of a \"convicted felon who crossed state lines to come to campus\" to participate in anti-Israel demonstrations. Derek Zika, of Statesv\u2026 [+2340 chars]",
+      "retrievedAt": "2024-05-02 19:05:36.096080",
+      "internal_id": "3f21b829402c95dea476ded18cf8c6486fa87454597399e11596a5abb51f71e2",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 8809,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen",
+      "title": "WHO Overturns Dogma on Airborne Disease Spread. The CDC Might Not Act on It.",
+      "description": "After grave missteps in the covid pandemic, the World Health Organization revisited the science and now confirms that many respiratory viruses are inhaled as airborne particles. The new framework implies that stopping transmission relies on costly measures li\u2026",
+      "url": "https://kffhealthnews.org/news/article/airborne-disease-transmission-who-cdc-new-evidence/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/05/GettyImages-1242380206-resized.jpg",
+      "publishedAt": "2024-05-01 09:00:00",
+      "content": "Amy MaxmenThe World Health Organization has issued a report that transforms how the world understands respiratory infections like covid-19, influenza, and measles. Motivated by grave missteps in the\u2026 [+7925 chars]",
+      "retrievedAt": "2024-05-02 19:05:34.709902",
+      "internal_id": "1021c9c2de775cdb7461d7257f631d1555b2626b3a72148e3f64f7dae135c5a3",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 8810,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen",
+      "title": "La OMS confirma c\u00f3mo se propagan los virus por el aire. Los CDC tal vez miren para otro lado",
+      "description": "La OMS concluy\u00f3 que la transmisi\u00f3n a\u00e9rea ocurre cuando las personas enfermas exhalan pat\u00f3genos que quedan suspendidos en el aire, contenidos en peque\u00f1as part\u00edculas de saliva y moco que, a su vez, son inhaladas por otros.",
+      "url": "https://kffhealthnews.org/news/article/la-oms-confirma-como-se-propagan-los-virus-por-el-aire-los-cdc-tal-vez-miren-para-otro-lado/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/05/GettyImages-1242380206-resized.jpg",
+      "publishedAt": "2024-05-01 09:00:00",
+      "content": "Amy MaxmenLa Organizaci\u00f3n Mundial de la Salud (OMS) ha emitido un informe que transforma la manera en que el mundo comprende infecciones respiratorias como covid-19, la gripe y el sarampi\u00f3n. Motivad\u2026 [+9084 chars]",
+      "retrievedAt": "2024-05-02 19:05:34.905478",
+      "internal_id": "12e58a2a1e82e6224830649c50ca221726ae7369db49b5daeb8a459d78b16b40",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 8808,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0395\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b1\u03bd\u03b1\u03ba\u03ac\u03bb\u03c5\u03c8\u03b1\u03bd \u03b1\u03c5\u03c4\u03bf\u03ba\u03cc\u03bb\u03bb\u03b7\u03c4\u03bf \u03b5\u03c0\u03af\u03b8\u03b5\u03bc\u03b1 \u03b1\u03bd\u03c4\u03af \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u0399\u03bb\u03b1\u03c1\u03ac\u03c2",
+      "description": "\u0395\u03bb\u03c0\u03b9\u03b4\u03bf\u03c6\u03cc\u03c1\u03b1 \u03bd\u03ad\u03b1 \u03b1\u03c0\u03cc \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03ba\u03ac\u03bb\u03c5\u03c8\u03b1\u03bd \u03c4\u03bf \u03b5\u03c0\u03af\u03b8\u03b5\u03bc\u03b1 \u03b1\u03bd\u03c4\u03af \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u03b9\u03bb\u03b1\u03c1\u03ac\u03c2 - \u0395\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03c4\u03b7\u03bd \u0391\u03c6\u03c1\u03b9\u03ba\u03ae \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03c3\u03c9\u03b8\u03bf\u03cd\u03bd",
+      "url": "https://www.skai.gr/news/health/ilara-epistimones-anakalypsan-epithema-pou-antikathista-to-emvolio",
+      "urlToImage": "https://www.skai.gr/sites/default/files/styles/article_16_9/public/articles/2015m/16-80423nicotine-patch.jpg?itok=8IlfwK9Y",
+      "publishedAt": "2024-05-01 08:57:34",
+      "content": ", , . BBC , , . 200 . , patch , . , Covid , , . , , , , 95% . Patch to protect against measles in children shows promise https://t.co/B4QyQS3b3O BBC News (World) (@BBCWorld) April 30, \u2026 [+190 chars]",
+      "retrievedAt": "2024-05-02 19:05:34.690292",
+      "internal_id": "6d1d1ea2956ff4f749e09f6c8884e3d4f3210a11e29793fd88b897769173c81b",
+      "publishedAtLabel": "May 1"
+    },
     {
       "id": 8802,
       "query": [
@@ -31336,223 +31499,6 @@
       "content": "A reuni\u00e3o ministerial convocada pelo presidente Luiz In\u00e1cio Lula da Silva para esta segunda-feira (18) ocorre na esteira de uma sequ\u00eancia de pesquisas revelando a queda da avalia\u00e7\u00e3o do governo e pres\u2026 [+551 chars]",
       "retrievedAt": "2024-03-19 07:05:49.225462",
       "internal_id": "e579b4e952ada658c1f85a9482f0f1e3c7882ab86dc0646e7dda36907a83a9f0",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7075,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "Dengue en Argentina: se registraron 79 muertos y 120.000 infectados desde agosto de 2023",
-      "description": "En lo que va de 2024, se informaron 102.898 contagiados; el Ministerio de Salud compar\u00f3 el dato con los primeros 67 d\u00edas del a\u00f1o pasado y hubo un aumento de 11,3 veces",
-      "url": "https://www.lanacion.com.ar/sociedad/dengue-en-argentina-se-registraron-79-muertos-y-120000-infectados-desde-agosto-de-2023-nid17032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/dengue-en-argentina-unos-120-mil-casos-y-79-W2XEXN6O3NFC7DFYRDTITO44UE.jpg?auth=5bc04f37db6b043de9dcc4fa3b6613233fcdc1f1e5c556a34785170f41ffa991&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-17 18:46:04",
-      "content": "Desde agosto del a\u00f1o pasado hasta comienzos de este mes, 120.007 personas se contagiaron de dengue en Argentina y 79 de ellas murieron a ra\u00edz de la enfermedad que transmite el mosquito Aedes aegypti.\u2026 [+3763 chars]",
-      "retrievedAt": "2024-03-19 07:05:49.346430",
-      "internal_id": "935421e57b6f98f77740203b833112e838447e2059f685901ffb90fffd2e9846",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7055,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Dengue se espalha para o Sul e Centro-Oeste, diz estudo da Fiocruz",
-      "description": "Altas temperaturas por mais tempo favorecem aparecimento da doen\u00e7a",
-      "url": "https://saude.ig.com.br/2024-03-17/dengue-se-espalha-para-o-sul-e-centro-oeste--diz-estudo-da-fiocruz.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
-      "publishedAt": "2024-03-17 18:37:29",
-      "content": "Estudo do pesquisador Christovam Barcellos, do Observat\u00f3rio de Clima e Sa\u00fade, do Instituto de Comunica\u00e7\u00e3o e Informa\u00e7\u00e3o Cient\u00edfica e Tecnol\u00f3gica em Sa\u00fade (Icict) da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), co\u2026 [+4585 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.483108",
-      "internal_id": "fab656ac29daa792722941d207fbb158982278dbcc32222ab09c24aa10701889",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7060,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "BBC News Brasil",
-      "title": "Como a peste bub\u00f4nica reestruturou o sistema imunol\u00f3gico humano",
-      "description": "A peste bub\u00f4nica ainda \u00e9 encontrada em locais espalhados pelo mundo, mas gra\u00e7as aos antibi\u00f3ticos modernos \u00e9 muito mais f\u00e1cil de trat\u00e1-la do que no passado. No entanto, a doen\u00e7a pode ter deixado a sua marca na humanidade.",
-      "url": "https://www.bbc.com/portuguese/articles/c4nmvjdkngpo",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/17/99760342-284143c0-d752-11ee-9a5b-e35447f6c53b.png",
-      "publishedAt": "2024-03-17 18:34:09",
-      "content": "Observada com o microsc\u00f3pio, a bact\u00e9ria Yersinia pestis n\u00e3o parece ter nada de especial. Seu formato est\u00e1 mais ou menos dentro dos padr\u00f5es das bact\u00e9rias - uma esp\u00e9cie de bast\u00e3o curto com extremidade\u2026 [+9407 chars]",
-      "retrievedAt": "2024-03-18 19:05:37.054182",
-      "internal_id": "934c6ac98c4d39963a93eb5f4471bc43b0bbe64b89b681c7044a36497a4c8cdc",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7053,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Dengue: Governo de SP vai distribuir 300 mil repelentes para gestantes",
-      "description": "Com o aumento no n\u00famero de casos de dengue em S\u00e3o Paulo, o Centro de Opera\u00e7\u00f5es de Emerg\u00eancias (COE) do Governo do Estado anunciou a entrega de repelentes",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-governo-de-sp-vai-distribuir-300-mil-repelentes-para-gestantes/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2020/06/istock-182832007.jpg",
-      "publishedAt": "2024-03-17 17:55:29",
-      "content": "Com o aumento no n\u00famero de casos de dengue em S\u00e3o Paulo, o Centro de Opera\u00e7\u00f5es de Emerg\u00eancias (COE) do Governo do Estado anunciou a entrega de repelentes para gr\u00e1vidas. Ser\u00e3o 300 mil unidades espec\u00edf\u2026 [+3944 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.410440",
-      "internal_id": "beb9bed853db96d73bd0f4715eb0207ad009f88a635e9bf68497d7aefb08eddd",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7051,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Livemint",
-      "author": "Manu Joseph",
-      "title": "Indian sophistication on stray dogs can be confusing",
-      "description": "Our protection of strays suggests a compassion greater than what we have for humans.",
-      "url": "https://www.livemint.com/opinion/online-views/indian-sophistication-on-stray-dogs-can-be-confusing-11710675151847.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/17/1600x900/3-0-126336026-GettyImages-1211427920-0_1679835740201_1710695016271.jpg",
-      "publishedAt": "2024-03-17 17:09:00",
-      "content": "Now and then, stray dogs tear a child apart. Old people too. This is rare. But they do kill thousands of Indians every year in a less dramatic way, through rabies, and dozens of other diseases. The W\u2026 [+5299 chars]",
-      "retrievedAt": "2024-03-18 19:05:34.559509",
-      "internal_id": "793020846edf07ada8112f230d54e15e122401f5b7c13e317471ad20bf8dfab5",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7058,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "C\u00f3mo eliminar los mosquitos de la cocina",
-      "description": "Este insecto es transmisor de distintas enfermedades, como el dengue; este es el paso a paso para proteger las distintas partes del hogar de los mosquitos",
-      "url": "https://www.lanacion.com.ar/sociedad/como-eliminar-los-mosquitos-de-la-cocina-nid17032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/estos-son-los-metodos-caseros-que-se-pueden-Y3JBZHSHORGTVLP2IYU5N2VBYU.jpg?auth=36fcd1d12987b4186b5103a3db1b190045f6343f60af5b817e78bdab1d2d4b7f&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-17 16:54:23",
-      "content": "Los mosquitos se convirtieron en un verdadero problema las \u00faltimas semanas de febrero y principios de marzo, tras las elevadas temperaturas en todo el \u00c1rea Metropolitana de Buenos Aires (AMBA) y las \u2026 [+3483 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.522420",
-      "internal_id": "4cd0a6062cc51b80eeee537803455c81324acf7fe1095ec538c2b75fb809d792",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7054,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Brasil y Argentina multiplican en 2024 los casos de dengue registrados en 2023",
-      "description": "Las altas temperaturas asociadas al fen\u00f3meno de El Ni\u00f1o han adelantado e intensificado la expansi\u00f3n de la enfermedad.",
-      "url": "https://www.montevideo.com.uy/Salud/Brasil-y-Argentina-multiplican-en-2024-los-casos-de-dengue-registrados-en-2023-uc882821",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
-      "publishedAt": "2024-03-17 16:20:00",
-      "content": "Brasil super\u00f3 este viernes y en apenas dos meses y medio el n\u00famero de casos de dengue reportados en todo 2023, pues ya son 1,68 millones de contagios en lo que va de 2024 frente a los 1,65 millone\u2026 [+3835 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.468841",
-      "internal_id": "40b72e7efa33ab422ded00b4b31db6ce260311174736165db6ff78d2aaf8eb5d",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7079,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Diariodigital.com.br",
-      "author": "Di\u00e1rio Digital",
-      "title": "Alta de casos de dengue no pa\u00eds",
-      "description": "Saiba por que doen\u00e7a diminui plaquetas e o papel delas no corpo",
-      "url": "https://www.diariodigital.com.br/geral/alta-de-casos-de-dengue-no-pais",
-      "urlToImage": null,
-      "publishedAt": "2024-03-17 15:32:00",
-      "content": "Saiba por que doen\u00e7a diminui plaquetas e o papel delas no corpo",
-      "retrievedAt": "2024-03-19 07:05:49.377072",
-      "internal_id": "27ffb9f0b05e0b3a1cfd2a81211479ea5575fcae50164a7a7831b7e0e82b9752",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7059,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Hi-news.ru",
-      "author": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0416\u0443\u043a\u043e\u0432",
-      "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u043f\u043e\u0446\u0435\u043b\u0443\u0438 \u0432 \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u043c \u0432\u0435\u043a\u0435 \u0431\u044b\u043b\u0438 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u043c\u0438",
-      "description": "\u0423\u0447\u0435\u043d\u044b\u0435 \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043c\u0438\u043a\u0440\u043e\u0431\u0438\u043e\u043c \u0434\u0440\u0435\u0432\u043d\u0438\u0445 \u043b\u044e\u0434\u0435\u0439, \u0436\u0438\u0432\u0448\u0438\u0445 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0421\u043a\u0430\u043d\u0434\u0438\u043d\u0430\u0432\u0438\u0438 \u0432 \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u043c \u0432\u0435\u043a\u0435. \u041a\u0430\u043a \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e\u0441\u044c, \u0447\u0435\u0440\u0435\u0437 \u043f\u043e\u0446\u0435\u043b\u0443\u0438 \u0432 \u0442\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0430 \u043c\u043e\u0433\u043b\u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u0430\u0442\u043e\u0433\u0435\u043d\u044b, \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f.",
-      "url": "https://hi-news.ru/eto-interesno/pochemu-pocelui-v-kamennom-veke-byli-smertelno-opasnymi.html",
-      "urlToImage": "https://hi-news.ru/wp-content/uploads/2024/03/Paren_i_devyshka-1000x526.png",
-      "publishedAt": "2024-03-17 12:25:37",
-      "content": ", , . . , , . , , , , . , , . 40 , -, ( , XVIII ). 600 . , Yersinia enterocolitica Salmonella enterica. , . , . 420 , . , , . , , , , . , . , Salmonella enterica , , . , , , Neisseria meningi\u2026 [+178 chars]",
-      "retrievedAt": "2024-03-18 19:05:37.047830",
-      "internal_id": "6ad063764eb33d488f1be16ce9651ecfdda2972dbdcc2c8ebad603ebed07decf",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7057,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Christof  Geldmacher, Stefan  Vieths, Kerstin  Kling",
-      "title": "Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?",
-      "description": "Gegen viele Krankheiten gibt es seit Jahrzehnten gute Impfungen. Doch bei manchen klappt es bis heute schlecht oder gar nicht. Bringen Forschung und neue Techniken den Umschwung?",
-      "url": "https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/salvador-bahia-brazil-january-18-2017-people-is-seen-manipulating-sample-of-med/alternates/BASE_16_9_W1400/salvador--bahia----brazil-----january--18--2017--people--is--seen--manipulating--sample--of--med.jpeg",
-      "publishedAt": "2024-03-17 12:13:30",
-      "content": "Ohne Impfungen ist das Leben in modernen Gesellschaften heute kaum mehr vorstellbar. K\u00f6nnten sich Krankheiten wie Pocken, Kinderl\u00e4hmung oder Masern im Eng-an-Eng der Gro\u00dfst\u00e4dte und erleichtert durch \u2026 [+4808 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.518762",
-      "internal_id": "4471d053299f0978b1e8cae300d47c54ece39efae5152668cc7bfee08fe3ad15",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7052,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "National Post",
-      "author": "Sharon Kirkey",
-      "title": "Measles: What to know about one of the most contagious diseases",
-      "description": "Here\u2019s what you need to know about what measles is, how it spreads and symptoms to watch out for",
-      "url": "https://nationalpost.com/health/what-to-know-about-measles-symptoms-vaccines",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2024/03/measles-1.jpg",
-      "publishedAt": "2024-03-17 11:14:09",
-      "content": "Heres what you need to know about what measles is, how it spreads and symptoms to watch out for Get the latest from Sharon Kirkey straight to your inbox Sign Up Two doses of the MMR vaccine are ab\u2026 [+9949 chars]",
-      "retrievedAt": "2024-03-18 19:05:34.869731",
-      "internal_id": "caac6579cd2df44e18a3c99e56d13c3235f1be9c20023cbdc1304c092891fe81",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7056,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Esther Ferreira, Esther Ferreira",
-      "title": "Veja a diferen\u00e7a entre os sintomas de dengue e covid-19",
-      "description": "Infectologista explica os sinais, diagn\u00f3stico e tratamento das duas doen\u00e7as",
-      "url": "https://saude.ig.com.br/2024-03-17/veja-diferenca-entre-sintomas-dengue-covid-19.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/1u/kn/t2/1uknt284pl7tmgaz166r4eyhi.jpg",
-      "publishedAt": "2024-03-17 11:00:00",
-      "content": "Com a explos\u00e3o no n\u00famero de casos de dengue e de covid-19 no Brasil ao longo das \u00faltimas semanas , manifesta\u00e7\u00f5es comuns das duas doen\u00e7as podem gerar d\u00favida na hora de obter o diagn\u00f3stico. Tanto a\u2026 [+2637 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.491486",
-      "internal_id": "36b398df8fdedaf6dcfdf8e55631513cef5feb4d61165d50d74eadba0b885e28",
       "publishedAtLabel": "Mar 17"
     }
   ]
