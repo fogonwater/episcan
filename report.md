@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 35
-- **Last harvest:** 2024-05-01 19:06
-- **Most recent article:** 2024-04-30 16:41:56
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-05-02 07:05
+- **Most recent article:** 2024-05-01 00:39:38
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 170 | 186 | 158 | 138 | 113 | 117 | 42 | 924 |
-| measles | 86 | 44 | 36 | 43 | 40 | 28 | 14 | 291 |
-| malaria | 17 | 7 | 13 | 16 | 29 | 77 | 13 | 172 |
+| dengue | 178 | 186 | 158 | 138 | 113 | 117 | 51 | 941 |
+| measles | 87 | 44 | 36 | 43 | 40 | 28 | 14 | 292 |
+| malaria | 18 | 7 | 13 | 16 | 29 | 77 | 13 | 173 |
 | meningitis | 8 | 16 | 4 | 15 | 44 | 5 | 2 | 94 |
 | zika | 12 | 21 | 11 | 10 | 8 | 3 | 6 | 71 |
-| mpox | 4 | 6 | 12 | 3 | 13 | 8 | 21 | 67 |
+| mpox | 4 | 6 | 12 | 3 | 13 | 8 | 22 | 68 |
 | chikungunya | 15 | 9 | 12 | 7 | 5 | 5 | 6 | 59 |
 | sarampión | 12 | 3 | 5 | 13 | 0 | 10 | 4 | 47 |
-| rabies | 6 | 3 | 16 | 8 | 3 | 3 | 1 | 40 |
+| rabies | 7 | 3 | 16 | 8 | 3 | 3 | 1 | 41 |
 | pertussis | 3 | 6 | 7 | 9 | 7 | 5 | 2 | 39 |
+| yersinia | 3 | 1 | 3 | 0 | 2 | 0 | 3 | 12 |
 | leptospirosis | 0 | 0 | 1 | 3 | 3 | 3 | 1 | 11 |
-| yersinia | 1 | 1 | 3 | 0 | 2 | 0 | 3 | 10 |
 | typhoid | 1 | 1 | 0 | 0 | 2 | 0 | 0 | 4 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -75,6 +75,8 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: 13 confirmed pertussis cases in Negros Occidental](https://rpnradio.com/bacolod-13-confirmed-pertussis-cases-in-negros-occidental/) (Rpnradio.com)
 
 ## 24-18 (mpox)
+
+- [В мире в марте выявили 466 случаев оспы обезьян](https://tass.ru/obschestvo/20688289) (Tass.ru)
 
 - [FHM om utbrottet av apkoppor: ”Sjukdom vi inte vill ska spridas”](https://www.expressen.se/nyheter/sverige/fhm-om-utbrottet-av-apkoppor--sjukdom-vi-inte-vill-ska-spridas/) (Expressen.se)
 
@@ -187,6 +189,24 @@ Source: [News API](https://newsapi.org/)
 - [US Dog Owners Warned Against Widespread Deadly Bacterial Illness](https://www.newsweek.com/us-dog-owners-widespread-deadly-bacterial-illness-1895219) (Newsweek)
 
 ## 24-18 (dengue)
+
+- [Porto Alegre recebe vacina contra dengue na quinta-feira](https://www.terra.com.br/noticias/porto-alegre-recebe-vacina-contra-dengue-na-quinta-feira,85048d00ca4a5e9ebce31af8dbc19630jwyw0bti.html) (Terra.com.br)
+
+- [Samoa dengue fever outbreak: Fumigation efforts ramp up, travellers advised to get medical insurance](https://www.nzherald.co.nz/talanoa/samoa-dengue-fever-outbreak-fumigation-efforts-ramp-up-travellers-advised-to-get-medical-insurance/B42F22DI55AAFGIEOVIIXBJYW4/) (New Zealand Herald)
+
+- [Este es el país sudamericano que supera las 2.000 muertes por dengue este año](https://www.eluniversal.com.co/salud/enfermedades/este-es-el-pais-sudamericano-que-supera-las-2000-muertes-por-dengue-este-ano-FG10436751) (Eluniversal.com.co)
+
+- [¡Atención! Se declara emergencia nacional en Guatemala debido a la epidemia de dengue](https://www.record.com.mx/contra/atencion-se-declara-emergencia-nacional-en-guatemala-debido-a-la-epidemia-de-dengue) (Record.com.mx)
+
+- [Dengue: Brasil ultrapassa marca de 2 mil mortes em 2024](https://saude.ig.com.br/2024-04-30/brasil-2-mil-mortes-dengue-2024.html) (Ig.com.br)
+
+- [Dengue: Brasil ultrapassa marca de 2 mil mortes em 2024](https://saude.ig.com.br/2024-04-30/brasil-2-milhoes-mortes-covid-2024.html) (Ig.com.br)
+
+- [Brasil ultrapassa 2 mil mortes por dengue em 2024](https://www.metropoles.com/brasil/brasil-ultrapassa-2-mil-mortes-por-dengue-em-2024) (Metropoles.com)
+
+- [Guatemala declara emergencia nacional por epidemia de dengue](https://www.nacion.com/el-mundo/centroamerica/guatemala-declara-emergencia-nacional-por-epidemia/CEDEL43YBZC6REMXSXZ3EYCD2M/story/) (Nacion.com)
+
+- [Dengue: Campinas chega a 70 mil casos e confirma 2 novas mortes](https://g1.globo.com/sp/campinas-regiao/noticia/2024/04/30/dengue-campinas-chega-a-70-mil-casos-e-confirma-2-novas-mortes.ghtml) (Globo)
 
 - [Estado do Rio de Janeiro tem dez casos confirmados de febre oropouche](https://www.terra.com.br/vida-e-estilo/saude/estado-do-rio-de-janeiro-tem-dez-casos-confirmados-de-febre-oropouche,f35eb9543a75f3ed8ed22997d1b9fd42horujcou.html) (Terra.com.br)
 
@@ -3190,6 +3210,10 @@ Source: [News API](https://newsapi.org/)
 
 - [У людей каменного века обнаружили опасные инфекции](https://lenta.ru/news/2024/03/18/bacterium/) (Lenta)
 
+- [Como a peste bubônica reestruturou o sistema imunológico humano](https://www.bbc.com/portuguese/articles/c4nmvjdkngpo) (BBC News)
+
+- [Почему поцелуи в каменном веке были смертельно опасными](https://hi-news.ru/eto-interesno/pochemu-pocelui-v-kamennom-veke-byli-smertelno-opasnymi.html) (Hi-news.ru)
+
 ## 24-12 (typhoid)
 
 - [Kingpin is back as the physical embodiment of the seven deadly sins to reclaim his place as Daredevil's arch-enemy](https://www.gamesradar.com/kingpin-is-back-as-the-physical-embodiment-of-the-seven-deadly-sins-to-reclaim-his-place-as-daredevils-arch-enemy/) (GamesRadar+)
@@ -3237,6 +3261,8 @@ Source: [News API](https://newsapi.org/)
 - [Reframing the problem of India’s street dogs](https://blogs.lse.ac.uk/lsereviewofbooks/2024/03/19/reframing-the-problem-of-indias-street-dogs/) (Lse.ac.uk)
 
 - [I Drink Your Blood Streaming: Watch & Stream Online via Peacock](https://www.comingsoon.net/guides/news/1608541-i-drink-your-blood-streaming-watch-stream-online-via-peacock) (ComingSoon.net)
+
+- [Indian sophistication on stray dogs can be confusing](https://www.livemint.com/opinion/online-views/indian-sophistication-on-stray-dogs-can-be-confusing-11710675151847.html) (Livemint)
 
 ## 24-12 (pertussis)
 
@@ -3448,6 +3474,8 @@ Source: [News API](https://newsapi.org/)
 
 - ['We can see this one coming': Pharmacists want govt to let them give vaccine against measles](https://www.thejournal.ie/pharmacists-want-to-help-with-mmr-vaccines-6326161-Mar2024/) (TheJournal.ie)
 
+- [Measles: What to know about one of the most contagious diseases](https://nationalpost.com/health/what-to-know-about-measles-symptoms-vaccines) (National Post)
+
 ## 24-12 (malaria)
 
 - [Confirman en Coahuila caso de malaria en una mujer embarazada](https://www.record.com.mx/contra/confirman-en-coahuila-caso-de-malaria-en-una-mujer-embarazada) (Record.com.mx)
@@ -3483,6 +3511,8 @@ Source: [News API](https://newsapi.org/)
 - [Un esqueleto de época romana revela cómo llegó la malaria a Europa](https://www.nationalgeographic.com.es/ciencia/se-ha-descifrado-genoma-malaria-esqueleto-epoca-romana_21875) (Nationalgeographic.com.es)
 
 - [Africa: Infectious Diseases Fester in Wake of Drought, War - UN Report](https://allafrica.com/stories/202403180129.html) (AllAfrica - Top Africa News)
+
+- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
 
 ## 24-12 (dengue)
 
@@ -3825,6 +3855,22 @@ Source: [News API](https://newsapi.org/)
 - [Roxy Vázquez reveló detalles de cómo transitó el dengue y sus días en el hospital: “Estoy débil”](https://www.lanacion.com.ar/espectaculos/roxy-vazquez-revelo-detalles-de-como-transito-el-dengue-y-sus-dias-en-el-hospital-estoy-debil-nid17032024/) (La Nacion)
 
 - [Lula chama reunião ministerial para mudar agenda e reverter queda na popularidade](https://valor.globo.com/politica/noticia/2024/03/17/lula-chama-reunio-ministerial-para-mudar-agenda-e-reverter-queda-na-popularidade.ghtml) (Globo)
+
+- [Dengue en Argentina: se registraron 79 muertos y 120.000 infectados desde agosto de 2023](https://www.lanacion.com.ar/sociedad/dengue-en-argentina-se-registraron-79-muertos-y-120000-infectados-desde-agosto-de-2023-nid17032024/) (La Nacion)
+
+- [Dengue se espalha para o Sul e Centro-Oeste, diz estudo da Fiocruz](https://saude.ig.com.br/2024-03-17/dengue-se-espalha-para-o-sul-e-centro-oeste--diz-estudo-da-fiocruz.html) (Ig.com.br)
+
+- [Dengue: Governo de SP vai distribuir 300 mil repelentes para gestantes](https://catracalivre.com.br/saude-bem-estar/dengue-governo-de-sp-vai-distribuir-300-mil-repelentes-para-gestantes/) (Catracalivre.com.br)
+
+- [Cómo eliminar los mosquitos de la cocina](https://www.lanacion.com.ar/sociedad/como-eliminar-los-mosquitos-de-la-cocina-nid17032024/) (La Nacion)
+
+- [Brasil y Argentina multiplican en 2024 los casos de dengue registrados en 2023](https://www.montevideo.com.uy/Salud/Brasil-y-Argentina-multiplican-en-2024-los-casos-de-dengue-registrados-en-2023-uc882821) (Montevideo.com.uy)
+
+- [Alta de casos de dengue no país](https://www.diariodigital.com.br/geral/alta-de-casos-de-dengue-no-pais) (Diariodigital.com.br)
+
+- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
+
+- [Veja a diferença entre os sintomas de dengue e covid-19](https://saude.ig.com.br/2024-03-17/veja-diferenca-entre-sintomas-dengue-covid-19.html) (Ig.com.br)
 
 ## 24-12 (chikungunya)
 
