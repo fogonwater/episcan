@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-05-02 19:05
-- **Most recent article:** 2024-05-01 19:01:59
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-05-03 07:06
+- **Most recent article:** 2024-05-02 05:26:36
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 170 | 186 | 158 | 138 | 113 | 117 | 53 | 935 |
-| measles | 86 | 44 | 36 | 43 | 40 | 28 | 16 | 293 |
-| malaria | 17 | 7 | 13 | 16 | 29 | 77 | 15 | 174 |
+| dengue | 178 | 186 | 158 | 138 | 113 | 117 | 55 | 945 |
+| measles | 87 | 44 | 36 | 43 | 40 | 28 | 17 | 295 |
+| malaria | 18 | 7 | 13 | 16 | 29 | 77 | 15 | 175 |
 | meningitis | 8 | 16 | 4 | 15 | 44 | 5 | 2 | 94 |
+| mpox | 4 | 6 | 12 | 3 | 13 | 8 | 28 | 74 |
 | zika | 12 | 21 | 11 | 10 | 8 | 3 | 8 | 73 |
-| mpox | 4 | 6 | 12 | 3 | 13 | 8 | 23 | 69 |
 | chikungunya | 15 | 9 | 12 | 7 | 5 | 5 | 6 | 59 |
-| sarampión | 12 | 3 | 5 | 13 | 0 | 10 | 5 | 48 |
-| rabies | 6 | 3 | 16 | 8 | 3 | 3 | 1 | 40 |
+| sarampión | 12 | 3 | 5 | 13 | 0 | 10 | 6 | 49 |
+| rabies | 7 | 3 | 16 | 8 | 3 | 3 | 1 | 41 |
 | pertussis | 3 | 6 | 7 | 9 | 7 | 5 | 2 | 39 |
+| yersinia | 3 | 1 | 3 | 0 | 2 | 0 | 4 | 13 |
 | leptospirosis | 0 | 0 | 1 | 3 | 3 | 3 | 1 | 11 |
-| yersinia | 1 | 1 | 3 | 0 | 2 | 0 | 3 | 10 |
 | typhoid | 1 | 1 | 0 | 0 | 2 | 0 | 0 | 4 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -52,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-18 (yersinia)
 
+- [Identifying risks of human flea infestations in plague-endemic areas of Madagascar](https://www.sciencedaily.com/releases/2024/05/240501153058.htm) (Science Daily)
+
 - [Tampereella ruokamyrkytys­epidemia](https://www.iltalehti.fi/kotimaa/a/a15a245d-efde-4181-985e-f44c3e1f79ab) (Iltalehti.fi)
 
 - [Tampere | Tampereen yli­opiston ravintoloissa epäillään ruoka­myrkytys­epidemiaa](https://www.hs.fi/kotimaa/art-2000010393834.html) (Www.hs.fi)
@@ -59,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 - [Pirkanmaalla selvitetään vatsatautiepidemian syytä – aiheuttajaksi epäillään kasviksia](https://yle.fi/a/74-20086275) (YLE News)
 
 ## 24-18 (sarampión)
+
+- [¿Aumentan casos de sarampión? Llaman a la población a vacunarse](https://www.record.com.mx/contra/aumentan-casos-de-sarampion-llaman-a-la-poblacion-a-vacunarse) (Record.com.mx)
 
 - [La OMS confirma cómo se propagan los virus por el aire. Los CDC tal vez miren para otro lado](https://kffhealthnews.org/news/article/la-oms-confirma-como-se-propagan-los-virus-por-el-aire-los-cdc-tal-vez-miren-para-otro-lado/) (Kffhealthnews.org)
 
@@ -81,6 +85,16 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: 13 confirmed pertussis cases in Negros Occidental](https://rpnradio.com/bacolod-13-confirmed-pertussis-cases-in-negros-occidental/) (Rpnradio.com)
 
 ## 24-18 (mpox)
+
+- [A new form of mpox that may spread more easily found in Congo's biggest outbreak](https://abcnews.go.com/Health/wireStory/new-form-mpox-spread-easily-found-congos-biggest-109853533) (ABC News)
+
+- [A new form of mpox that may spread more easily found in Congo's biggest outbreak](https://economictimes.indiatimes.com/news/international/world-news/a-new-form-of-mpox-that-may-spread-more-easily-found-in-congos-biggest-outbreak/articleshow/109773465.cms) (The Times of India)
+
+- [A new form of mpox that may spread more easily found in Congo's biggest outbreak](https://abcnews.go.com/International/wireStory/new-form-mpox-spread-easily-found-congos-biggest-109853529) (ABC News)
+
+- [A new form of mpox that may spread more easily found in Congo's biggest outbreak](https://www.startribune.com/a-new-form-of-mpox-that-may-spread-more-easily-found-in-congos-biggest-outbreak/600363197/) (Minneapolis Star Tribune)
+
+- [A new form of mpox that may spread more easily found in Congo’s biggest outbreak](https://www.bostonherald.com/2024/05/02/a-new-form-of-mpox-that-may-spread-more-easily-found-in-congos-biggest-outbreak/) (Boston Herald)
 
 - [Mpox Cases Up in 2024: Is This Another Surge?](https://www.webmd.com/a-to-z-guides/news/20240501/mpox-cases-up-2024-is-this-another-surge) (WebMD)
 
@@ -135,6 +149,8 @@ Source: [News API](https://newsapi.org/)
 - [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
 
 ## 24-18 (measles)
+
+- [Low measles vaccination rates for Māori blamed on cyclone, pandemic](https://www.nzherald.co.nz/kahu/low-measles-vaccination-rates-for-maori-blamed-on-cyclone-pandemic/3QBWFZ227VBANCERCHDFGMTMJ4/) (New Zealand Herald)
 
 - [WHO Overturns Dogma on Airborne Disease Spread. The CDC Might Not Act on It.](https://kffhealthnews.org/news/article/airborne-disease-transmission-who-cdc-new-evidence/) (Kffhealthnews.org)
 
@@ -205,6 +221,10 @@ Source: [News API](https://newsapi.org/)
 - [US Dog Owners Warned Against Widespread Deadly Bacterial Illness](https://www.newsweek.com/us-dog-owners-widespread-deadly-bacterial-illness-1895219) (Newsweek)
 
 ## 24-18 (dengue)
+
+- [Brasil sobrepasa los 2.000 fallecimientos de pacientes con dengue en 2024](https://www.montevideo.com.uy/Salud/Brasil-sobrepasa-los-2-000-fallecimientos-de-pacientes-con-dengue-en-2024-uc887050) (Montevideo.com.uy)
+
+- [Porto Alegre recebe lote de vacina da dengue nesta quinta-feira](https://www.terra.com.br/noticias/porto-alegre-recebe-lote-de-vacina-da-dengue-nesta-quinta-feira,dab576a5808f6162f1f03bf28529c505mhbzccs1.html) (Terra.com.br)
 
 - [Latam reservou 19 voos para transporte de repelentes entre Manaus e SP](https://veja.abril.com.br/coluna/radar/latam-reservou-19-voos-para-transporte-de-repelentes-entre-manaus-e-sp) (Abril.com.br)
 
@@ -3230,6 +3250,10 @@ Source: [News API](https://newsapi.org/)
 
 - [У людей каменного века обнаружили опасные инфекции](https://lenta.ru/news/2024/03/18/bacterium/) (Lenta)
 
+- [Como a peste bubônica reestruturou o sistema imunológico humano](https://www.bbc.com/portuguese/articles/c4nmvjdkngpo) (BBC News)
+
+- [Почему поцелуи в каменном веке были смертельно опасными](https://hi-news.ru/eto-interesno/pochemu-pocelui-v-kamennom-veke-byli-smertelno-opasnymi.html) (Hi-news.ru)
+
 ## 24-12 (typhoid)
 
 - [Kingpin is back as the physical embodiment of the seven deadly sins to reclaim his place as Daredevil's arch-enemy](https://www.gamesradar.com/kingpin-is-back-as-the-physical-embodiment-of-the-seven-deadly-sins-to-reclaim-his-place-as-daredevils-arch-enemy/) (GamesRadar+)
@@ -3277,6 +3301,8 @@ Source: [News API](https://newsapi.org/)
 - [Reframing the problem of India’s street dogs](https://blogs.lse.ac.uk/lsereviewofbooks/2024/03/19/reframing-the-problem-of-indias-street-dogs/) (Lse.ac.uk)
 
 - [I Drink Your Blood Streaming: Watch & Stream Online via Peacock](https://www.comingsoon.net/guides/news/1608541-i-drink-your-blood-streaming-watch-stream-online-via-peacock) (ComingSoon.net)
+
+- [Indian sophistication on stray dogs can be confusing](https://www.livemint.com/opinion/online-views/indian-sophistication-on-stray-dogs-can-be-confusing-11710675151847.html) (Livemint)
 
 ## 24-12 (pertussis)
 
@@ -3488,6 +3514,8 @@ Source: [News API](https://newsapi.org/)
 
 - ['We can see this one coming': Pharmacists want govt to let them give vaccine against measles](https://www.thejournal.ie/pharmacists-want-to-help-with-mmr-vaccines-6326161-Mar2024/) (TheJournal.ie)
 
+- [Measles: What to know about one of the most contagious diseases](https://nationalpost.com/health/what-to-know-about-measles-symptoms-vaccines) (National Post)
+
 ## 24-12 (malaria)
 
 - [Confirman en Coahuila caso de malaria en una mujer embarazada](https://www.record.com.mx/contra/confirman-en-coahuila-caso-de-malaria-en-una-mujer-embarazada) (Record.com.mx)
@@ -3523,6 +3551,8 @@ Source: [News API](https://newsapi.org/)
 - [Un esqueleto de época romana revela cómo llegó la malaria a Europa](https://www.nationalgeographic.com.es/ciencia/se-ha-descifrado-genoma-malaria-esqueleto-epoca-romana_21875) (Nationalgeographic.com.es)
 
 - [Africa: Infectious Diseases Fester in Wake of Drought, War - UN Report](https://allafrica.com/stories/202403180129.html) (AllAfrica - Top Africa News)
+
+- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
 
 ## 24-12 (dengue)
 
@@ -3865,6 +3895,22 @@ Source: [News API](https://newsapi.org/)
 - [Roxy Vázquez reveló detalles de cómo transitó el dengue y sus días en el hospital: “Estoy débil”](https://www.lanacion.com.ar/espectaculos/roxy-vazquez-revelo-detalles-de-como-transito-el-dengue-y-sus-dias-en-el-hospital-estoy-debil-nid17032024/) (La Nacion)
 
 - [Lula chama reunião ministerial para mudar agenda e reverter queda na popularidade](https://valor.globo.com/politica/noticia/2024/03/17/lula-chama-reunio-ministerial-para-mudar-agenda-e-reverter-queda-na-popularidade.ghtml) (Globo)
+
+- [Dengue en Argentina: se registraron 79 muertos y 120.000 infectados desde agosto de 2023](https://www.lanacion.com.ar/sociedad/dengue-en-argentina-se-registraron-79-muertos-y-120000-infectados-desde-agosto-de-2023-nid17032024/) (La Nacion)
+
+- [Dengue se espalha para o Sul e Centro-Oeste, diz estudo da Fiocruz](https://saude.ig.com.br/2024-03-17/dengue-se-espalha-para-o-sul-e-centro-oeste--diz-estudo-da-fiocruz.html) (Ig.com.br)
+
+- [Dengue: Governo de SP vai distribuir 300 mil repelentes para gestantes](https://catracalivre.com.br/saude-bem-estar/dengue-governo-de-sp-vai-distribuir-300-mil-repelentes-para-gestantes/) (Catracalivre.com.br)
+
+- [Cómo eliminar los mosquitos de la cocina](https://www.lanacion.com.ar/sociedad/como-eliminar-los-mosquitos-de-la-cocina-nid17032024/) (La Nacion)
+
+- [Brasil y Argentina multiplican en 2024 los casos de dengue registrados en 2023](https://www.montevideo.com.uy/Salud/Brasil-y-Argentina-multiplican-en-2024-los-casos-de-dengue-registrados-en-2023-uc882821) (Montevideo.com.uy)
+
+- [Alta de casos de dengue no país](https://www.diariodigital.com.br/geral/alta-de-casos-de-dengue-no-pais) (Diariodigital.com.br)
+
+- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
+
+- [Veja a diferença entre os sintomas de dengue e covid-19](https://saude.ig.com.br/2024-03-17/veja-diferenca-entre-sintomas-dengue-covid-19.html) (Ig.com.br)
 
 ## 24-12 (chikungunya)
 
