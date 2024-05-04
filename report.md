@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-05-03 19:05
-- **Most recent article:** 2024-05-02 19:00:59
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-05-04 07:06
+- **Most recent article:** 2024-05-03 06:43:27
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-12 | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 170 | 186 | 158 | 138 | 113 | 117 | 59 | 941 |
-| measles | 86 | 44 | 36 | 43 | 40 | 28 | 20 | 297 |
-| malaria | 17 | 7 | 13 | 16 | 29 | 77 | 21 | 180 |
-| meningitis | 8 | 16 | 4 | 15 | 44 | 5 | 2 | 94 |
-| mpox | 4 | 6 | 12 | 3 | 13 | 8 | 34 | 80 |
+| dengue | 178 | 186 | 158 | 138 | 113 | 117 | 67 | 957 |
+| measles | 87 | 44 | 36 | 43 | 40 | 28 | 21 | 299 |
+| malaria | 18 | 7 | 13 | 16 | 29 | 77 | 23 | 183 |
+| meningitis | 8 | 16 | 4 | 15 | 44 | 5 | 3 | 95 |
+| mpox | 4 | 6 | 12 | 3 | 13 | 8 | 35 | 81 |
 | zika | 12 | 21 | 11 | 10 | 8 | 3 | 8 | 73 |
 | chikungunya | 15 | 9 | 12 | 7 | 5 | 5 | 7 | 60 |
 | sarampión | 12 | 3 | 5 | 13 | 0 | 10 | 6 | 49 |
-| rabies | 6 | 3 | 16 | 8 | 3 | 3 | 1 | 40 |
+| rabies | 7 | 3 | 16 | 8 | 3 | 3 | 2 | 42 |
 | pertussis | 3 | 6 | 7 | 9 | 7 | 5 | 2 | 39 |
+| yersinia | 3 | 1 | 3 | 0 | 2 | 0 | 4 | 13 |
 | leptospirosis | 0 | 0 | 1 | 3 | 3 | 3 | 2 | 12 |
-| yersinia | 1 | 1 | 3 | 0 | 2 | 0 | 4 | 11 |
 | typhoid | 1 | 1 | 0 | 0 | 2 | 0 | 0 | 4 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -76,6 +76,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-18 (rabies)
 
+- [Health officials issue rabies alert for Westside area of Duval](https://www.actionnewsjax.com/news/local/health-officials-issue-rabies-alert-westside-area-duval/PVHNE5SGJZBQ3FP6YXJ22GCMEU/) (ActionNewsJax.com)
+
 - [World Veterinary Day observed](https://thehillstimes.in/assam/world-veterinary-day-observed) (Thehillstimes.in)
 
 ## 24-18 (pertussis)
@@ -85,6 +87,8 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: 13 confirmed pertussis cases in Negros Occidental](https://rpnradio.com/bacolod-13-confirmed-pertussis-cases-in-negros-occidental/) (Rpnradio.com)
 
 ## 24-18 (mpox)
+
+- [A new form of mpox that may spread more easily found in Congo's biggest outbreak](https://www.pbs.org/newshour/health/a-new-form-of-mpox-that-may-spread-more-easily-found-in-congos-biggest-outbreak) (PBS)
 
 - [Mpox outbreak that is rapidly spreading through Congo may be a new form of the disease](https://www.foxnews.com/health/mpox-outbreak-rapidly-spreading-congo-new-form-disease) (Fox News)
 
@@ -156,11 +160,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-18 (meningitis)
 
+- [World News in Brief: Palestinian journalists win top press freedom prize, child migrant detention, Niger meningitis epidemic](https://www.globalsecurity.org/military/library/news/2024/05/mil-240502-unnews05.htm) (Globalsecurity.org)
+
 - [Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html) (GlobeNewswire)
 
 - [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
 
 ## 24-18 (measles)
+
+- [Why vaccination is important for all ages](https://punchng.com/why-vaccination-is-important-for-all-ages/) (The Punch)
 
 - [Supporting migrant adolescents](https://www.kevinmd.com/2024/05/supporting-migrant-adolescents.html) (Kevinmd.com)
 
@@ -203,6 +211,10 @@ Source: [News API](https://newsapi.org/)
 - [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
 
 ## 24-18 (malaria)
+
+- [Mortein takes its fight against Malaria to Communities across Nigeria](https://punchng.com/mortein-takes-its-fight-against-malaria-to-communities-across-nigeria/) (The Punch)
+
+- [11.8m test kits, 13.4m mosquito nets delivered to Nigerians in 2023 – USAID](https://punchng.com/n11-8m-test-kits-n13-4m-mosquito-nets-delivered-to-nigerians-in-2023-usaid/) (The Punch)
 
 - [Deeper understanding of malaria parasite development unlocks opportunities to block disease spread](https://www.sciencedaily.com/releases/2024/05/240502141202.htm) (Science Daily)
 
@@ -254,7 +266,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-18 (dengue)
 
+- [Iminumunkahi ni Mayor Magalong ang pagtulong-tulong sa pagsugpo sa dengue sa siudad ng Baguio](https://rpnradio.com/iminumunkahi-ni-mayor-magalong-ang-pagtulong-tulong-sa-pagsugpo-sa-dengue-sa-siudad-ng-baguio/) (Rpnradio.com)
+
+- [Brasil supera os 4,2 milhões de casos de dengue previstos para 2024](https://veja.abril.com.br/saude/brasil-supera-os-42-milhoes-de-casos-de-dengue-previstos-para-2024) (Abril.com.br)
+
+- [DF ultrapassa as 300 mortes por dengue, diz Ministério da Saúde](https://www.metropoles.com/distrito-federal/df-ultrapassa-as-300-mortes-por-dengue-diz-ministerio-da-saude) (Metropoles.com)
+
 - [Dengue: una nueva provincia lanzó su propia campaña de vacunación contra el virus](https://www.lanacion.com.ar/sociedad/dengue-una-nueva-provincia-lanzo-su-propia-campana-de-vacunacion-contra-el-virus-nid02052024/) (La Nacion)
+
+- [Reportan 33 nuevos casos de dengue en Cartagena; van 734 en 2024](https://www.eluniversal.com.co/cartagena/reportan-33-nuevos-casos-de-dengue-en-cartagena-van-734-en-2024-GB10444121) (Eluniversal.com.co)
 
 - [Brasil ampliará uso de mosquitos infectados no combate à dengue; entenda](https://olhardigital.com.br/2024/05/02/medicina-e-saude/brasil-ampliara-uso-de-mosquitos-infectados-no-combate-a-dengue-entenda/) (Olhardigital.com.br)
 
@@ -262,13 +282,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Correction: Unique characteristics of new complete blood count parameters, the Immature Platelet Fraction and the Immature Platelet Fraction Count, in dengue patients](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303463) (Plos.org)
 
+- [Taking dengue vaccine is still optional for public: Official](https://en.antaranews.com/news/312372/taking-dengue-vaccine-is-still-optional-for-public-official) (Antaranews.com)
+
+- [Indonesia logs threefold increase in dengue cases](https://en.vietnamplus.vn/indonesia-logs-threefold-increase-in-dengue-cases/285293.vnp) (Vietnamplus.vn)
+
 - [Brasil sobrepasa los 2.000 fallecimientos de pacientes con dengue en 2024](https://www.montevideo.com.uy/Salud/Brasil-sobrepasa-los-2-000-fallecimientos-de-pacientes-con-dengue-en-2024-uc887050) (Montevideo.com.uy)
 
 - [Porto Alegre recebe lote de vacina da dengue nesta quinta-feira](https://www.terra.com.br/noticias/porto-alegre-recebe-lote-de-vacina-da-dengue-nesta-quinta-feira,dab576a5808f6162f1f03bf28529c505mhbzccs1.html) (Terra.com.br)
 
 - [Latam reservou 19 voos para transporte de repelentes entre Manaus e SP](https://veja.abril.com.br/coluna/radar/latam-reservou-19-voos-para-transporte-de-repelentes-entre-manaus-e-sp) (Abril.com.br)
 
+- [Set up task force with health office to address dengue fears](https://www.thestar.com.my/metro/metro-news/2024/05/02/set-up-task-force-with-health-office-to-address-dengue-fears) (The Star Online)
+
 - [Dengue: por qué los asintomáticos representan una buena y una mala noticia a la vez](https://www.lanacion.com.ar/sociedad/dengue-por-que-los-asintomaticos-representan-una-buena-y-una-mala-noticia-a-la-vez-nid01052024/) (La Nacion)
+
+- [Bali turns to climate-based early warning for dengue](https://en.antaranews.com/news/312258/bali-turns-to-climate-based-early-warning-for-dengue) (Antaranews.com)
 
 - [Porto Alegre recebe vacina contra dengue na quinta-feira](https://www.terra.com.br/noticias/porto-alegre-recebe-vacina-contra-dengue-na-quinta-feira,85048d00ca4a5e9ebce31af8dbc19630jwyw0bti.html) (Terra.com.br)
 
@@ -3292,6 +3320,10 @@ Source: [News API](https://newsapi.org/)
 
 - [У людей каменного века обнаружили опасные инфекции](https://lenta.ru/news/2024/03/18/bacterium/) (Lenta)
 
+- [Como a peste bubônica reestruturou o sistema imunológico humano](https://www.bbc.com/portuguese/articles/c4nmvjdkngpo) (BBC News)
+
+- [Почему поцелуи в каменном веке были смертельно опасными](https://hi-news.ru/eto-interesno/pochemu-pocelui-v-kamennom-veke-byli-smertelno-opasnymi.html) (Hi-news.ru)
+
 ## 24-12 (typhoid)
 
 - [Kingpin is back as the physical embodiment of the seven deadly sins to reclaim his place as Daredevil's arch-enemy](https://www.gamesradar.com/kingpin-is-back-as-the-physical-embodiment-of-the-seven-deadly-sins-to-reclaim-his-place-as-daredevils-arch-enemy/) (GamesRadar+)
@@ -3339,6 +3371,8 @@ Source: [News API](https://newsapi.org/)
 - [Reframing the problem of India’s street dogs](https://blogs.lse.ac.uk/lsereviewofbooks/2024/03/19/reframing-the-problem-of-indias-street-dogs/) (Lse.ac.uk)
 
 - [I Drink Your Blood Streaming: Watch & Stream Online via Peacock](https://www.comingsoon.net/guides/news/1608541-i-drink-your-blood-streaming-watch-stream-online-via-peacock) (ComingSoon.net)
+
+- [Indian sophistication on stray dogs can be confusing](https://www.livemint.com/opinion/online-views/indian-sophistication-on-stray-dogs-can-be-confusing-11710675151847.html) (Livemint)
 
 ## 24-12 (pertussis)
 
@@ -3550,6 +3584,8 @@ Source: [News API](https://newsapi.org/)
 
 - ['We can see this one coming': Pharmacists want govt to let them give vaccine against measles](https://www.thejournal.ie/pharmacists-want-to-help-with-mmr-vaccines-6326161-Mar2024/) (TheJournal.ie)
 
+- [Measles: What to know about one of the most contagious diseases](https://nationalpost.com/health/what-to-know-about-measles-symptoms-vaccines) (National Post)
+
 ## 24-12 (malaria)
 
 - [Confirman en Coahuila caso de malaria en una mujer embarazada](https://www.record.com.mx/contra/confirman-en-coahuila-caso-de-malaria-en-una-mujer-embarazada) (Record.com.mx)
@@ -3585,6 +3621,8 @@ Source: [News API](https://newsapi.org/)
 - [Un esqueleto de época romana revela cómo llegó la malaria a Europa](https://www.nationalgeographic.com.es/ciencia/se-ha-descifrado-genoma-malaria-esqueleto-epoca-romana_21875) (Nationalgeographic.com.es)
 
 - [Africa: Infectious Diseases Fester in Wake of Drought, War - UN Report](https://allafrica.com/stories/202403180129.html) (AllAfrica - Top Africa News)
+
+- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
 
 ## 24-12 (dengue)
 
@@ -3927,6 +3965,22 @@ Source: [News API](https://newsapi.org/)
 - [Roxy Vázquez reveló detalles de cómo transitó el dengue y sus días en el hospital: “Estoy débil”](https://www.lanacion.com.ar/espectaculos/roxy-vazquez-revelo-detalles-de-como-transito-el-dengue-y-sus-dias-en-el-hospital-estoy-debil-nid17032024/) (La Nacion)
 
 - [Lula chama reunião ministerial para mudar agenda e reverter queda na popularidade](https://valor.globo.com/politica/noticia/2024/03/17/lula-chama-reunio-ministerial-para-mudar-agenda-e-reverter-queda-na-popularidade.ghtml) (Globo)
+
+- [Dengue en Argentina: se registraron 79 muertos y 120.000 infectados desde agosto de 2023](https://www.lanacion.com.ar/sociedad/dengue-en-argentina-se-registraron-79-muertos-y-120000-infectados-desde-agosto-de-2023-nid17032024/) (La Nacion)
+
+- [Dengue se espalha para o Sul e Centro-Oeste, diz estudo da Fiocruz](https://saude.ig.com.br/2024-03-17/dengue-se-espalha-para-o-sul-e-centro-oeste--diz-estudo-da-fiocruz.html) (Ig.com.br)
+
+- [Dengue: Governo de SP vai distribuir 300 mil repelentes para gestantes](https://catracalivre.com.br/saude-bem-estar/dengue-governo-de-sp-vai-distribuir-300-mil-repelentes-para-gestantes/) (Catracalivre.com.br)
+
+- [Cómo eliminar los mosquitos de la cocina](https://www.lanacion.com.ar/sociedad/como-eliminar-los-mosquitos-de-la-cocina-nid17032024/) (La Nacion)
+
+- [Brasil y Argentina multiplican en 2024 los casos de dengue registrados en 2023](https://www.montevideo.com.uy/Salud/Brasil-y-Argentina-multiplican-en-2024-los-casos-de-dengue-registrados-en-2023-uc882821) (Montevideo.com.uy)
+
+- [Alta de casos de dengue no país](https://www.diariodigital.com.br/geral/alta-de-casos-de-dengue-no-pais) (Diariodigital.com.br)
+
+- [Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?](https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html) (Der Tagesspiegel)
+
+- [Veja a diferença entre os sintomas de dengue e covid-19](https://saude.ig.com.br/2024-03-17/veja-diferenca-entre-sintomas-dengue-covid-19.html) (Ig.com.br)
 
 ## 24-12 (chikungunya)
 
