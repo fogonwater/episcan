@@ -1,8 +1,134 @@
 {
-  "last_updated": "2024-05-04 07:06",
-  "count_articles_total": 1800,
-  "count_articles_new": 14,
+  "last_updated": "2024-05-04 19:06",
+  "count_articles_total": 1795,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 8865,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Santo Ant\u00f4nio de Posse confirma 5\u00aa morte por dengue em 2024; regi\u00e3o chega a 35 \u00f3bitos",
+      "description": "V\u00edtima era um homem de 58 anos que morreu em mar\u00e7o. Com 16 \u00f3bitos, Campinas \u00e9 a cidade com o maior n\u00famero de casos fatais da doen\u00e7a na regi\u00e3o. Mosquito Aedes aegypti, transmissor da dengue Reprodu\u00e7\u00e3o/RBS TV A Prefeitura de Santo Ant\u00f4nio de Posse (SP) confirmo\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/03/santo-antonio-de-posse-confirma-5a-morte-por-dengue-em-2024-regiao-chega-a-35-obitos.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/c7onUgnkNAAG-fgAcrt7JR1ZIP4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/5/O/ypMtM4SSGfqB5hJxPGMA/dengue-1-.png",
+      "publishedAt": "2024-05-03 19:04:39",
+      "content": "Segundo a administra\u00e7\u00e3o municipal, a v\u00edtima \u00e9 um homem, de 58 anos, que apresentava comorbidades. Ele teve in\u00edcio dos sintomas de dengue em 2 de mar\u00e7o, vindo a \u00f3bito no dia 9 do mesmo m\u00eas. \u2026 [+1713 chars]",
+      "retrievedAt": "2024-05-04 19:06:10.306987",
+      "internal_id": "afa8f65d75ecb7fe77032c52f4780f39573d21feb2589b6e7c7662e7216716d5",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 8863,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Enzo Marcus",
+      "title": "Menino de 3 anos morre de dengue ap\u00f3s ter sido liberado em UPA",
+      "description": "Fam\u00edlia de menino acusa a UPA de Ermelino Matarazzo, na zona leste, de demora no atendimento e de falha de diagn\u00f3stico na primeira consulta",
+      "url": "https://www.metropoles.com/sao-paulo/menino-de-3-anos-morre-de-dengue-apos-ter-sido-liberado-em-upa",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/05/03151241/Fachada-da-UPA-de-Ermelini-Matarazzo-na-Zona-Leste-de-SP.jpg",
+      "publishedAt": "2024-05-03 18:44:38",
+      "content": "S\u00e3o Paulo Uma crian\u00e7a de 3 anos morreu na Unidade de Pronto Atendimento (UPA) de Ermelino Matarazzo, na zona leste de S\u00e3o Paulo, na noite da \u00faltima quinta-feira (2/5), ap\u00f3s dar entrada no local com s\u2026 [+2009 chars]",
+      "retrievedAt": "2024-05-04 19:06:10.253133",
+      "internal_id": "7bbc3382b0a750e8aa5d0fa6be90f3789d79d414c1cf673e78e5b5bd6e1cb119",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 8861,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "At least 42 die from measles outbreak in northeast Nigeria",
+      "description": "(marketscreener.com) At least 42 deaths have been recorded from a measles outbreak in just over a week in Nigeria's northeastern state of Adamawa, the state's health commissioner said on Friday. Measles is a highly contagious, airborne virus that mostly affe\u2026",
+      "url": "https://www.marketscreener.com/news/latest/At-least-42-die-from-measles-outbreak-in-northeast-Nigeria-46625983/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-05-03 17:52:43",
+      "content": "YOLA, Nigeria (Reuters) - At least 42 deaths have been recorded from a measles outbreak in just over a week in Nigeria's northeastern state of Adamawa, the state's health commissioner said on Friday.\u2026 [+799 chars]",
+      "retrievedAt": "2024-05-04 19:06:09.540315",
+      "internal_id": "52a5988fc221101b70508add69b9de31a0b6e005e3b81b7ac22122163a38b23b",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 8864,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Health DG: Slight dip in dengue cases",
+      "description": "PUTRAJAYA: Reported dengue fever cases dropped to 2,237 in the 17th Epidemiological Week (ME17) from April 21-27, compared with 2,321 cases recorded in the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/05/04/health-dg-slight-dip-in-dengue-cases",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/05/04/2676764.jpg",
+      "publishedAt": "2024-05-03 16:00:00",
+      "content": "PUTRAJAYA: Reported dengue fever cases dropped to 2,237 in the 17th Epidemiological Week (ME17) from April 21-27, compared with 2,321 cases recorded in the previous week. No deaths due to dengue fev\u2026 [+695 chars]",
+      "retrievedAt": "2024-05-04 19:06:10.278805",
+      "internal_id": "024b2a6cecc1cff456c277205dcd2c21724cc4898ca76ef8be285eac3b918aa2",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 8866,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Source of pregnancy complications from infections revealed by placenta map",
+      "description": "The placenta's response to infections from malaria, toxoplasmosis and listeria has been mapped in high resolution, possibly paving the way for new treatment options.",
+      "url": "https://www.sciencedaily.com/releases/2024/05/240503111946.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-05-03 15:19:46",
+      "content": "The first panoramic view of infection pathways in the human placenta has been created, which could highlight potential drug targets to develop pregnancy-safe therapies for malaria, toxoplasmosis and \u2026 [+6292 chars]",
+      "retrievedAt": "2024-05-04 19:06:11.062853",
+      "internal_id": "c57fff2881e85bad0a24e340a2a22ddc9313a7688f8586197173758f286d41b6",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 8867,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yanting Zhao, Ziheng Yan, Kai Song, Yanbing Li, Leiming Shen, Yiming Cui, Zongmin Du, Ruifu Yang, Yajun Song, Lan Jing, Yong Zhao",
+      "title": "Development and evaluation of a multi-target droplet digital PCR assay for highly sensitive and specific detection of Yersinia pestis",
+      "description": "Author summary Yersinia pestis is the causative agent of three historic plague pandemics. Presently, the plague remains endemic or sporadic in many countries. The wide distribution of natural plague foci in Asia, Africa, and the Americas reminds us of the thr\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012167",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012167.g004&size=inline",
+      "publishedAt": "2024-05-03 14:00:00",
+      "content": "Abstract Background Plague, caused by the bacterium Yersinia pestis, is a zoonotic disease that poses considerable threats to human health. Nucleic acid tests are crucial for plague surveillance an\u2026 [+37181 chars]",
+      "retrievedAt": "2024-05-04 19:06:12.432613",
+      "internal_id": "64d2ea0d5e4974e3836b15e3f91d8bf817fefff6de94215236613748c1df527d",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 8862,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Van contra sarampi\u00f3n, rub\u00e9ola y parotiditis en escuelas",
+      "description": "Desde ayer y hasta el 31 de mayo, brigadas m\u00e9dicas acudir\u00e1n a mil 918 escuelas p\u00fablicas de prescolar, primaria y especiales para iniciar o completar los esquemas de vacunaci\u00f3n contra sarampi\u00f3n, rub\u00e9ola y parotiditis (SRP y SR) de manera gratuita.",
+      "url": "https://www.jornada.com.mx/2024/05/03/capital/030n3cap",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-05-03 08:50:26",
+      "content": "Peri\u00f3dico La JornadaViernes 3 de mayo de 2024, p. 30 Desde ayer y hasta el 31 de mayo, brigadas m\u00e9dicas acudir\u00e1n a mil 918 escuelas p\u00fablicas de prescolar, primaria y especiales para iniciar o comple\u2026 [+1899 chars]",
+      "retrievedAt": "2024-05-04 19:06:09.888606",
+      "internal_id": "919ce20373cd50a7c9afca13ce1908ed326d62cfaa4f826b0ec0c28bbef6e11b",
+      "publishedAtLabel": "May 3"
+    },
     {
       "id": 8855,
       "query": [
@@ -32292,223 +32418,6 @@
       "content": "A reuni\u00e3o ministerial convocada pelo presidente Luiz In\u00e1cio Lula da Silva para esta segunda-feira (18) ocorre na esteira de uma sequ\u00eancia de pesquisas revelando a queda da avalia\u00e7\u00e3o do governo e pres\u2026 [+551 chars]",
       "retrievedAt": "2024-03-19 07:05:49.225462",
       "internal_id": "e579b4e952ada658c1f85a9482f0f1e3c7882ab86dc0646e7dda36907a83a9f0",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7075,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "Dengue en Argentina: se registraron 79 muertos y 120.000 infectados desde agosto de 2023",
-      "description": "En lo que va de 2024, se informaron 102.898 contagiados; el Ministerio de Salud compar\u00f3 el dato con los primeros 67 d\u00edas del a\u00f1o pasado y hubo un aumento de 11,3 veces",
-      "url": "https://www.lanacion.com.ar/sociedad/dengue-en-argentina-se-registraron-79-muertos-y-120000-infectados-desde-agosto-de-2023-nid17032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/dengue-en-argentina-unos-120-mil-casos-y-79-W2XEXN6O3NFC7DFYRDTITO44UE.jpg?auth=5bc04f37db6b043de9dcc4fa3b6613233fcdc1f1e5c556a34785170f41ffa991&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-17 18:46:04",
-      "content": "Desde agosto del a\u00f1o pasado hasta comienzos de este mes, 120.007 personas se contagiaron de dengue en Argentina y 79 de ellas murieron a ra\u00edz de la enfermedad que transmite el mosquito Aedes aegypti.\u2026 [+3763 chars]",
-      "retrievedAt": "2024-03-19 07:05:49.346430",
-      "internal_id": "935421e57b6f98f77740203b833112e838447e2059f685901ffb90fffd2e9846",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7055,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Dengue se espalha para o Sul e Centro-Oeste, diz estudo da Fiocruz",
-      "description": "Altas temperaturas por mais tempo favorecem aparecimento da doen\u00e7a",
-      "url": "https://saude.ig.com.br/2024-03-17/dengue-se-espalha-para-o-sul-e-centro-oeste--diz-estudo-da-fiocruz.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
-      "publishedAt": "2024-03-17 18:37:29",
-      "content": "Estudo do pesquisador Christovam Barcellos, do Observat\u00f3rio de Clima e Sa\u00fade, do Instituto de Comunica\u00e7\u00e3o e Informa\u00e7\u00e3o Cient\u00edfica e Tecnol\u00f3gica em Sa\u00fade (Icict) da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), co\u2026 [+4585 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.483108",
-      "internal_id": "fab656ac29daa792722941d207fbb158982278dbcc32222ab09c24aa10701889",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7060,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "BBC News Brasil",
-      "title": "Como a peste bub\u00f4nica reestruturou o sistema imunol\u00f3gico humano",
-      "description": "A peste bub\u00f4nica ainda \u00e9 encontrada em locais espalhados pelo mundo, mas gra\u00e7as aos antibi\u00f3ticos modernos \u00e9 muito mais f\u00e1cil de trat\u00e1-la do que no passado. No entanto, a doen\u00e7a pode ter deixado a sua marca na humanidade.",
-      "url": "https://www.bbc.com/portuguese/articles/c4nmvjdkngpo",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/03/17/99760342-284143c0-d752-11ee-9a5b-e35447f6c53b.png",
-      "publishedAt": "2024-03-17 18:34:09",
-      "content": "Observada com o microsc\u00f3pio, a bact\u00e9ria Yersinia pestis n\u00e3o parece ter nada de especial. Seu formato est\u00e1 mais ou menos dentro dos padr\u00f5es das bact\u00e9rias - uma esp\u00e9cie de bast\u00e3o curto com extremidade\u2026 [+9407 chars]",
-      "retrievedAt": "2024-03-18 19:05:37.054182",
-      "internal_id": "934c6ac98c4d39963a93eb5f4471bc43b0bbe64b89b681c7044a36497a4c8cdc",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7053,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Dengue: Governo de SP vai distribuir 300 mil repelentes para gestantes",
-      "description": "Com o aumento no n\u00famero de casos de dengue em S\u00e3o Paulo, o Centro de Opera\u00e7\u00f5es de Emerg\u00eancias (COE) do Governo do Estado anunciou a entrega de repelentes",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-governo-de-sp-vai-distribuir-300-mil-repelentes-para-gestantes/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2020/06/istock-182832007.jpg",
-      "publishedAt": "2024-03-17 17:55:29",
-      "content": "Com o aumento no n\u00famero de casos de dengue em S\u00e3o Paulo, o Centro de Opera\u00e7\u00f5es de Emerg\u00eancias (COE) do Governo do Estado anunciou a entrega de repelentes para gr\u00e1vidas. Ser\u00e3o 300 mil unidades espec\u00edf\u2026 [+3944 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.410440",
-      "internal_id": "beb9bed853db96d73bd0f4715eb0207ad009f88a635e9bf68497d7aefb08eddd",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7051,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Livemint",
-      "author": "Manu Joseph",
-      "title": "Indian sophistication on stray dogs can be confusing",
-      "description": "Our protection of strays suggests a compassion greater than what we have for humans.",
-      "url": "https://www.livemint.com/opinion/online-views/indian-sophistication-on-stray-dogs-can-be-confusing-11710675151847.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/17/1600x900/3-0-126336026-GettyImages-1211427920-0_1679835740201_1710695016271.jpg",
-      "publishedAt": "2024-03-17 17:09:00",
-      "content": "Now and then, stray dogs tear a child apart. Old people too. This is rare. But they do kill thousands of Indians every year in a less dramatic way, through rabies, and dozens of other diseases. The W\u2026 [+5299 chars]",
-      "retrievedAt": "2024-03-18 19:05:34.559509",
-      "internal_id": "793020846edf07ada8112f230d54e15e122401f5b7c13e317471ad20bf8dfab5",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7058,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "C\u00f3mo eliminar los mosquitos de la cocina",
-      "description": "Este insecto es transmisor de distintas enfermedades, como el dengue; este es el paso a paso para proteger las distintas partes del hogar de los mosquitos",
-      "url": "https://www.lanacion.com.ar/sociedad/como-eliminar-los-mosquitos-de-la-cocina-nid17032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/estos-son-los-metodos-caseros-que-se-pueden-Y3JBZHSHORGTVLP2IYU5N2VBYU.jpg?auth=36fcd1d12987b4186b5103a3db1b190045f6343f60af5b817e78bdab1d2d4b7f&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-17 16:54:23",
-      "content": "Los mosquitos se convirtieron en un verdadero problema las \u00faltimas semanas de febrero y principios de marzo, tras las elevadas temperaturas en todo el \u00c1rea Metropolitana de Buenos Aires (AMBA) y las \u2026 [+3483 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.522420",
-      "internal_id": "4cd0a6062cc51b80eeee537803455c81324acf7fe1095ec538c2b75fb809d792",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7054,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Brasil y Argentina multiplican en 2024 los casos de dengue registrados en 2023",
-      "description": "Las altas temperaturas asociadas al fen\u00f3meno de El Ni\u00f1o han adelantado e intensificado la expansi\u00f3n de la enfermedad.",
-      "url": "https://www.montevideo.com.uy/Salud/Brasil-y-Argentina-multiplican-en-2024-los-casos-de-dengue-registrados-en-2023-uc882821",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
-      "publishedAt": "2024-03-17 16:20:00",
-      "content": "Brasil super\u00f3 este viernes y en apenas dos meses y medio el n\u00famero de casos de dengue reportados en todo 2023, pues ya son 1,68 millones de contagios en lo que va de 2024 frente a los 1,65 millone\u2026 [+3835 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.468841",
-      "internal_id": "40b72e7efa33ab422ded00b4b31db6ce260311174736165db6ff78d2aaf8eb5d",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7079,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Diariodigital.com.br",
-      "author": "Di\u00e1rio Digital",
-      "title": "Alta de casos de dengue no pa\u00eds",
-      "description": "Saiba por que doen\u00e7a diminui plaquetas e o papel delas no corpo",
-      "url": "https://www.diariodigital.com.br/geral/alta-de-casos-de-dengue-no-pais",
-      "urlToImage": null,
-      "publishedAt": "2024-03-17 15:32:00",
-      "content": "Saiba por que doen\u00e7a diminui plaquetas e o papel delas no corpo",
-      "retrievedAt": "2024-03-19 07:05:49.377072",
-      "internal_id": "27ffb9f0b05e0b3a1cfd2a81211479ea5575fcae50164a7a7831b7e0e82b9752",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7059,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Hi-news.ru",
-      "author": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0416\u0443\u043a\u043e\u0432",
-      "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u043f\u043e\u0446\u0435\u043b\u0443\u0438 \u0432 \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u043c \u0432\u0435\u043a\u0435 \u0431\u044b\u043b\u0438 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u043c\u0438",
-      "description": "\u0423\u0447\u0435\u043d\u044b\u0435 \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043c\u0438\u043a\u0440\u043e\u0431\u0438\u043e\u043c \u0434\u0440\u0435\u0432\u043d\u0438\u0445 \u043b\u044e\u0434\u0435\u0439, \u0436\u0438\u0432\u0448\u0438\u0445 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0421\u043a\u0430\u043d\u0434\u0438\u043d\u0430\u0432\u0438\u0438 \u0432 \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u043c \u0432\u0435\u043a\u0435. \u041a\u0430\u043a \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e\u0441\u044c, \u0447\u0435\u0440\u0435\u0437 \u043f\u043e\u0446\u0435\u043b\u0443\u0438 \u0432 \u0442\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0430 \u043c\u043e\u0433\u043b\u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u0430\u0442\u043e\u0433\u0435\u043d\u044b, \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f.",
-      "url": "https://hi-news.ru/eto-interesno/pochemu-pocelui-v-kamennom-veke-byli-smertelno-opasnymi.html",
-      "urlToImage": "https://hi-news.ru/wp-content/uploads/2024/03/Paren_i_devyshka-1000x526.png",
-      "publishedAt": "2024-03-17 12:25:37",
-      "content": ", , . . , , . , , , , . , , . 40 , -, ( , XVIII ). 600 . , Yersinia enterocolitica Salmonella enterica. , . , . 420 , . , , . , , , , . , . , Salmonella enterica , , . , , , Neisseria meningi\u2026 [+178 chars]",
-      "retrievedAt": "2024-03-18 19:05:37.047830",
-      "internal_id": "6ad063764eb33d488f1be16ce9651ecfdda2972dbdcc2c8ebad603ebed07decf",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7057,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Christof  Geldmacher, Stefan  Vieths, Kerstin  Kling",
-      "title": "Malaria, HIV, Dengue: Gelingt der Durchbruch bei der Impfstoffentwicklung?",
-      "description": "Gegen viele Krankheiten gibt es seit Jahrzehnten gute Impfungen. Doch bei manchen klappt es bis heute schlecht oder gar nicht. Bringen Forschung und neue Techniken den Umschwung?",
-      "url": "https://www.tagesspiegel.de/wissen/malaria-hiv-dengue-gelingt-der-durchbruch-bei-der-impfstoffentwicklung-11261281.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/salvador-bahia-brazil-january-18-2017-people-is-seen-manipulating-sample-of-med/alternates/BASE_16_9_W1400/salvador--bahia----brazil-----january--18--2017--people--is--seen--manipulating--sample--of--med.jpeg",
-      "publishedAt": "2024-03-17 12:13:30",
-      "content": "Ohne Impfungen ist das Leben in modernen Gesellschaften heute kaum mehr vorstellbar. K\u00f6nnten sich Krankheiten wie Pocken, Kinderl\u00e4hmung oder Masern im Eng-an-Eng der Gro\u00dfst\u00e4dte und erleichtert durch \u2026 [+4808 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.518762",
-      "internal_id": "4471d053299f0978b1e8cae300d47c54ece39efae5152668cc7bfee08fe3ad15",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7052,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "National Post",
-      "author": "Sharon Kirkey",
-      "title": "Measles: What to know about one of the most contagious diseases",
-      "description": "Here\u2019s what you need to know about what measles is, how it spreads and symptoms to watch out for",
-      "url": "https://nationalpost.com/health/what-to-know-about-measles-symptoms-vaccines",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2024/03/measles-1.jpg",
-      "publishedAt": "2024-03-17 11:14:09",
-      "content": "Heres what you need to know about what measles is, how it spreads and symptoms to watch out for Get the latest from Sharon Kirkey straight to your inbox Sign Up Two doses of the MMR vaccine are ab\u2026 [+9949 chars]",
-      "retrievedAt": "2024-03-18 19:05:34.869731",
-      "internal_id": "caac6579cd2df44e18a3c99e56d13c3235f1be9c20023cbdc1304c092891fe81",
-      "publishedAtLabel": "Mar 17"
-    },
-    {
-      "id": 7056,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Esther Ferreira, Esther Ferreira",
-      "title": "Veja a diferen\u00e7a entre os sintomas de dengue e covid-19",
-      "description": "Infectologista explica os sinais, diagn\u00f3stico e tratamento das duas doen\u00e7as",
-      "url": "https://saude.ig.com.br/2024-03-17/veja-diferenca-entre-sintomas-dengue-covid-19.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/1u/kn/t2/1uknt284pl7tmgaz166r4eyhi.jpg",
-      "publishedAt": "2024-03-17 11:00:00",
-      "content": "Com a explos\u00e3o no n\u00famero de casos de dengue e de covid-19 no Brasil ao longo das \u00faltimas semanas , manifesta\u00e7\u00f5es comuns das duas doen\u00e7as podem gerar d\u00favida na hora de obter o diagn\u00f3stico. Tanto a\u2026 [+2637 chars]",
-      "retrievedAt": "2024-03-18 19:05:35.491486",
-      "internal_id": "36b398df8fdedaf6dcfdf8e55631513cef5feb4d61165d50d74eadba0b885e28",
       "publishedAtLabel": "Mar 17"
     }
   ]
