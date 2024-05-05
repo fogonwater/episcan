@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-05-05 07:05
-- **Most recent article:** 2024-05-04 05:22:18
+- **New articles in last harvest:** 2
+- **Last harvest:** 2024-05-05 19:05
+- **Most recent article:** 2024-05-04 18:38:58
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 185 | 158 | 138 | 113 | 117 | 75 | 786 |
+| dengue | 179 | 158 | 138 | 113 | 117 | 76 | 781 |
 | measles | 44 | 36 | 43 | 40 | 28 | 24 | 215 |
 | malaria | 7 | 13 | 16 | 29 | 77 | 24 | 166 |
 | meningitis | 16 | 4 | 15 | 44 | 5 | 3 | 87 |
-| mpox | 6 | 12 | 3 | 13 | 8 | 35 | 77 |
-| zika | 21 | 11 | 10 | 8 | 3 | 8 | 61 |
-| chikungunya | 9 | 12 | 7 | 5 | 5 | 7 | 45 |
+| mpox | 6 | 12 | 3 | 13 | 8 | 36 | 78 |
+| zika | 19 | 11 | 10 | 8 | 3 | 8 | 59 |
+| chikungunya | 8 | 12 | 7 | 5 | 5 | 7 | 44 |
 | sarampión | 3 | 5 | 13 | 0 | 10 | 8 | 39 |
 | rabies | 3 | 16 | 8 | 3 | 3 | 4 | 37 |
 | pertussis | 6 | 7 | 9 | 7 | 5 | 2 | 36 |
@@ -96,6 +96,8 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: 13 confirmed pertussis cases in Negros Occidental](https://rpnradio.com/bacolod-13-confirmed-pertussis-cases-in-negros-occidental/) (Rpnradio.com)
 
 ## 24-18 (mpox)
+
+- [Mpox cases are spiking again in NYC, health department says](https://gothamist.com/news/mpox-cases-are-spiking-again-in-nyc-health-department-says) (Gothamist)
 
 - [A new form of mpox that may spread more easily found in Congo's biggest outbreak](https://www.pbs.org/newshour/health/a-new-form-of-mpox-that-may-spread-more-easily-found-in-congos-biggest-outbreak) (PBS)
 
@@ -282,6 +284,8 @@ Source: [News API](https://newsapi.org/)
 - [US Dog Owners Warned Against Widespread Deadly Bacterial Illness](https://www.newsweek.com/us-dog-owners-widespread-deadly-bacterial-illness-1895219) (Newsweek)
 
 ## 24-18 (dengue)
+
+- [El 'ejército' de peces guppy con el que combaten el dengue en el suroeste de Colombia](https://www.elperiodico.com/es/internacional/20240504/ejercito-peces-guppy-combaten-dengue-101934237) (Elperiodico.com)
 
 - [How disinformation works—and how to counter it](https://www.thepassivevoice.com/how-disinformation-works-and-how-to-counter-it/) (Thepassivevoice.com)
 
@@ -2733,10 +2737,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://www.terra.com.br/vida-e-estilo/saude/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue,b9995ffbba358b40bd28daa79300bf334maktznz.html) (Terra.com.br)
 
-- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
-
-- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
-
 ## 24-13 (yersinia)
 
 - [A novel sORF gene mutant strain of Yersinia pestis vaccine EV76 offers enhanced safety and improved protection against plague](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012129) (Plos.org)
@@ -3289,18 +3289,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Santa Fe: reportaron la muerte de un chico de seis años por dengue](https://www.lanacion.com.ar/sociedad/santa-fe-reportaron-la-muerte-de-un-chico-de-seis-anos-por-dengue-nid24032024/) (La Nacion)
 
-- [El mapa del dengue: ya se notificaron más de 200.000 casos en el país](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/) (La Nacion)
-
-- [Entenda por que ainda é preciso vacinar contra a Covid-19](https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/) (Dinheirama.com)
-
-- [Laboratorio de la Udelar en Salto colaborará con el MSP en diagnóstico de dengue](https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462) (Montevideo.com.uy)
-
-- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
-
-- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
-
-- [Dengue: desigualdade social e mudanças climáticas colaboram para surto](https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html) (Ig.com.br)
-
 ## 24-13 (chikungunya)
 
 - [¿Qué es el dengue y cómo tratarlo?](https://cnnespanol.cnn.com/2024/03/28/que-es-dengue-como-tratarlo-orix/) (CNN)
@@ -3318,5 +3306,3 @@ Source: [News API](https://newsapi.org/)
 - [Com mais 40 mortes, DF chega a 188 óbitos por dengue em 2024](https://www.metropoles.com/distrito-federal/com-mais-40-mortes-df-chega-a-188-obitos-por-dengue-em-2024) (Metropoles.com)
 
 - [El ECDC notifica más de 70.000 casos y 15 muertes por chikungunya en todo el mundo](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-70000-casos-15-muertes-chikungunya-todo-mundo-20240325170006.html) (Infosalus.com)
-
-- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
