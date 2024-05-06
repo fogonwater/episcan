@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 3
-- **Last harvest:** 2024-05-06 07:06
-- **Most recent article:** 2024-05-05 04:00:00
+- **Last harvest:** 2024-05-06 19:05
+- **Most recent article:** 2024-05-05 17:13:05
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 185 | 158 | 138 | 113 | 117 | 77 | 1 | 789 |
+| dengue | 179 | 158 | 138 | 113 | 117 | 77 | 4 | 786 |
 | measles | 44 | 36 | 43 | 40 | 28 | 24 | 1 | 216 |
 | malaria | 7 | 13 | 16 | 29 | 77 | 24 | 0 | 166 |
 | meningitis | 16 | 4 | 15 | 44 | 5 | 3 | 0 | 87 |
 | mpox | 6 | 12 | 3 | 13 | 8 | 36 | 0 | 78 |
-| zika | 21 | 11 | 10 | 8 | 3 | 8 | 0 | 61 |
-| chikungunya | 9 | 12 | 7 | 5 | 5 | 7 | 0 | 45 |
+| zika | 19 | 11 | 10 | 8 | 3 | 8 | 0 | 59 |
+| chikungunya | 8 | 12 | 7 | 5 | 5 | 7 | 0 | 44 |
 | sarampión | 3 | 5 | 13 | 0 | 10 | 8 | 0 | 39 |
 | rabies | 3 | 16 | 8 | 3 | 3 | 4 | 0 | 37 |
 | pertussis | 6 | 7 | 9 | 7 | 5 | 2 | 0 | 36 |
@@ -36,6 +36,12 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1111: Taming of the flu](https://www.microbe.tv/twiv/twiv-1111/) (Microbe.tv)
 
 ## 24-19 (dengue)
+
+- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
+
+- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
+
+- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 - [El ‘ejército’ de peces guppy con el que combaten el dengue en Cali](https://www.eluniversal.com.co/salud/enfermedades/el-ejercito-de-peces-guppy-con-el-que-combaten-el-dengue-en-cali-DA10457589) (Eluniversal.com.co)
 
@@ -2747,10 +2753,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://www.terra.com.br/vida-e-estilo/saude/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue,b9995ffbba358b40bd28daa79300bf334maktznz.html) (Terra.com.br)
 
-- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
-
-- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
-
 ## 24-13 (yersinia)
 
 - [A novel sORF gene mutant strain of Yersinia pestis vaccine EV76 offers enhanced safety and improved protection against plague](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012129) (Plos.org)
@@ -3303,18 +3305,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Santa Fe: reportaron la muerte de un chico de seis años por dengue](https://www.lanacion.com.ar/sociedad/santa-fe-reportaron-la-muerte-de-un-chico-de-seis-anos-por-dengue-nid24032024/) (La Nacion)
 
-- [El mapa del dengue: ya se notificaron más de 200.000 casos en el país](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/) (La Nacion)
-
-- [Entenda por que ainda é preciso vacinar contra a Covid-19](https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/) (Dinheirama.com)
-
-- [Laboratorio de la Udelar en Salto colaborará con el MSP en diagnóstico de dengue](https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462) (Montevideo.com.uy)
-
-- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
-
-- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
-
-- [Dengue: desigualdade social e mudanças climáticas colaboram para surto](https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html) (Ig.com.br)
-
 ## 24-13 (chikungunya)
 
 - [¿Qué es el dengue y cómo tratarlo?](https://cnnespanol.cnn.com/2024/03/28/que-es-dengue-como-tratarlo-orix/) (CNN)
@@ -3332,5 +3322,3 @@ Source: [News API](https://newsapi.org/)
 - [Com mais 40 mortes, DF chega a 188 óbitos por dengue em 2024](https://www.metropoles.com/distrito-federal/com-mais-40-mortes-df-chega-a-188-obitos-por-dengue-em-2024) (Metropoles.com)
 
 - [El ECDC notifica más de 70.000 casos y 15 muertes por chikungunya en todo el mundo](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-70000-casos-15-muertes-chikungunya-todo-mundo-20240325170006.html) (Infosalus.com)
-
-- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
