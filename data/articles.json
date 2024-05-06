@@ -1,8 +1,62 @@
 {
-  "last_updated": "2024-05-05 19:05",
-  "count_articles_total": 1486,
-  "count_articles_new": 2,
+  "last_updated": "2024-05-06 07:06",
+  "count_articles_total": 1495,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 8880,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1111: Taming of the flu",
+      "description": "TWiV reviews viruses in the news: Chinese scientist who released the SARS-CoV-2 genome sequence sleeps in the street, a case of measles in Haifa, spread of waterborne infectious diseases in Gaza, interstate spread of avian influenza A(H5N1) in dairy cattle, a\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1111/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-05 04:00:00",
+      "content": "TWiV reviews viruses in the news: Chinese scientist who released the SARS-CoV-2 genome sequence sleeps in the street, a case of measles in Haifa, spread of waterborne infectious diseases in Gaza, int\u2026 [+818 chars]",
+      "retrievedAt": "2024-05-06 07:06:10.607143",
+      "internal_id": "417a82eb6a280afd90c6b9b94ece284b0e0cba0483a803e590d335eaecd247fd",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8882,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "EFE",
+      "title": "El \u2018ej\u00e9rcito\u2019 de peces guppy con el que combaten el dengue en Cali",
+      "description": "En la ciudad de Cali, en el suroeste del pa\u00eds, hay un particular \u2018ej\u00e9rcito\u2019 de peces guppy que ha sido clave para luchar la constante batalla contra el dengue, la enfermedad viral que se transmite a trav\u00e9s del mosquito aedes aegypti y que ya ha cobrado miles \u2026",
+      "url": "https://www.eluniversal.com.co/salud/enfermedades/el-ejercito-de-peces-guppy-con-el-que-combaten-el-dengue-en-cali-DA10457589",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/0c0/800d686/none/13704/OCKU/criadero-de-peces_10017167_20240504192355.jpg",
+      "publishedAt": "2024-05-05 00:22:29",
+      "content": "En la ciudad de Cali, en el suroeste del pa\u00eds, hay un particular ej\u00e9rcito de peces guppy que ha sido clave para luchar la constante batalla contra el dengue, la enfermedad viral que se transmite a tr\u2026 [+2813 chars]",
+      "retrievedAt": "2024-05-06 07:06:11.394303",
+      "internal_id": "73cd25e320273b8581bed2cec1d362961cb0e28649d5daa3157565e9ffc82ae8",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8881,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ouniversodatv.com",
+      "author": "O Universo da TV",
+      "title": "''Canal Livre'' recebe Jean Gorinchteyn, infectologista e ex-secret\u00e1rio de Sa\u00fade do estado de S\u00e3o Paulo",
+      "description": "Jean Gorinchteyn explica emerg\u00eancia sanit\u00e1ria ocasionada pela dengue. Cr\u00e9dito: Reprodu\u00e7\u00e3o/Band O Canal Livre desta semana entrevista Jean...",
+      "url": "https://www.ouniversodatv.com/2024/05/canal-livre-recebe-jean-gorinchteyn.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8VaonA9KOtt5nQ1hZgh6DiNztoz2UU8RPC-ujubgeMUgRv6tl_inPdBJys1BYuPQ-Pg04KNmIkxjMPAvVZYClRQR8b-ftVjmWqEOuTPxAmG2IBsL8cZ4dnSXvQKjQ-a7P23ppmkgPS927ehKl5MMQu04bcT2w9HYbQ1CfthUFbl_REVE0iujlZgd9LLQ/w1600/unnamed%20-%202024-05-04T182132.932.jpg",
+      "publishedAt": "2024-05-04 21:22:00",
+      "content": "Jean Gorinchteyn explica emerg\u00eancia sanit\u00e1ria ocasionada pela dengue. Cr\u00e9dito: Reprodu\u00e7\u00e3o/Band O Canal Livre desta semana entrevista Jean Gorinch\u2026 [+512 chars]",
+      "retrievedAt": "2024-05-06 07:06:11.386208",
+      "internal_id": "dbb11ddfccd38e12e2d712de2f0b91d4c6a60c76e14119c3c5ec37d40b3dbeab",
+      "publishedAtLabel": "May 4"
+    },
     {
       "id": 8878,
       "query": [
@@ -26831,6 +26885,117 @@
       "content": "SANTA FE.- Un ni\u00f1o de seis a\u00f1os es la octava v\u00edctima mortal del dengue en lo que va del a\u00f1o en la provincia de Santa Fe. En el pa\u00eds, seg\u00fan los \u00faltimos informes epidemiol\u00f3gicos, los muertos por la enf\u2026 [+3752 chars]",
       "retrievedAt": "2024-03-26 07:06:18.992880",
       "internal_id": "f2a55d74f538e1d22364c26bee8af41c486b3c891cf8ed6d443b8bd78e70e10e",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El mapa del dengue: ya se notificaron m\u00e1s de 200.000 casos en el pa\u00eds",
+      "description": "De esa cifra, se confirmaron m\u00e1s de 134.000 infecciones",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/aedes-aegypti-el-mosquito-vector-del-virus-del-6QDYNDDYZJFKLPQ2NNJK3N2RKI.jpg?auth=a5ebe6e7fab9ffd9789d2c0e1c57750d7714ab7cf7ea62c37633f480d019bab8&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-24 16:55:59",
+      "content": "La epidemia de dengue contin\u00faa y lo hace de acuerdo con las previsiones epidemiol\u00f3gicas: la cantidad de casos notificados en el pa\u00eds super\u00f3 la barrera de los 200.000 en lo que va del a\u00f1o y las provin\u2026 [+2702 chars]",
+      "retrievedAt": "2024-03-26 07:06:19.056485",
+      "internal_id": "83953d7ef6fb011bfdda9cfe96a47a388ecd25f0e7f5246ee6823916cb1f49d2",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7380,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dinheirama.com",
+      "author": "Ag\u00eancia Gov",
+      "title": "Entenda por que ainda \u00e9 preciso vacinar contra a Covid-19",
+      "description": "O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo\u2026 ------ Este artigo foi escrito por Ag\u00eancia Gov. Este artigo apareceu originalmente no site Dinheirama.A rep\u2026",
+      "url": "https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/",
+      "urlToImage": "https://media.dinheirama.com/medias/uploads/2024/03/20240323-vacinas.jpg",
+      "publishedAt": "2024-03-24 15:00:00",
+      "content": "1O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo Minist\u00e9rio da Sa\u00fade em janeiro no SUS, a vacin\u2026 [+4684 chars]",
+      "retrievedAt": "2024-03-25 19:05:41.952308",
+      "internal_id": "9e3149c732c50e3521f9a7a90c71be623a86ef2c4e8811025d56818d80803f4b",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7381,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Laboratorio de la Udelar en Salto colaborar\u00e1 con el MSP en diagn\u00f3stico de dengue",
+      "description": "Rodrigo Arim, rector de la universidad, anunci\u00f3 la noticia en sus redes sociales y destac\u00f3 \u201cla calidad al servicio del Uruguay\u201d.",
+      "url": "https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202209/_W933_80/818330.jpg",
+      "publishedAt": "2024-03-24 12:50:00",
+      "content": "Montevideo Portal El laboratorio de Virolog\u00eda Molecular de la Universidad de la Rep\u00fablica (Udelar) en Salto realizar\u00e1 diagn\u00f3sticos de dengue en el norte del pa\u00eds, seg\u00fan inform\u00f3 el rector de la unive\u2026 [+767 chars]",
+      "retrievedAt": "2024-03-25 19:05:42.171646",
+      "internal_id": "a0f32d00907d4cd18fb6a874c8ad828f7b07e04241d40cfb0c466fed3247c2f2",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7384,
+      "query": [
+        "zika",
+        "chikungunya",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mobilidaderio.com.br",
+      "author": "Mobilidade Rio",
+      "title": "Cientistas desenvolvem armadilha para combater o mosquito da dengue",
+      "description": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chikungunya e febre amarela urbana. Batizado de MataAedes, o pro\u2026",
+      "url": "https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/",
+      "urlToImage": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "publishedAt": "2024-03-24 12:14:55",
+      "content": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chik\u2026 [+2141 chars]",
+      "retrievedAt": "2024-03-25 19:05:43.094537",
+      "internal_id": "2a0a1c670c7bf57f488758ecf8356255d3267e8f075aa3b17e9048270bbf33ca",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7383,
+      "query": [
+        "zika",
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "France's battle against tiger mosquitoes threatening 2024 Paris Olympics",
+      "description": "France is facing a challenge in ensuring the 2024 Paris Olympics are free from mosquito-borne diseases. Asian tiger mosquitoes, carriers of diseases like dengue and zika, pose a threat to millions of fans and athletes. Despite efforts to eradicate them, inclu\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108748291,width-1200,height-630,imgsize-347784,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-24 09:12:00",
+      "content": "France is facing a challenging task to ensure that the upcoming 2024 Paris Olympics remain free from the threat of mosquito-borne diseases. The Asian tiger mosquito, known for spreading viruses like \u2026 [+2590 chars]",
+      "retrievedAt": "2024-03-25 19:05:43.075284",
+      "internal_id": "3537c26a8ee10134790b28359458aaa828c7f83e33c9d4f29a3685b3cfc47008",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7382,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "Dengue: desigualdade social e mudan\u00e7as clim\u00e1ticas colaboram para surto",
+      "description": "Aumento na incid\u00eancia de casos tem denunciado o impacto do racismo ambiental e das mudan\u00e7as clim\u00e1ticas no Brasil",
+      "url": "https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6d/6y/ft/6d6yfteqtvzc9enme97vjfmlv.jpg",
+      "publishedAt": "2024-03-24 09:00:00",
+      "content": "Nesta quinta-feira (22), o Minist\u00e9rio da Sa\u00fade informou que o Brasil superou a marca de 2 milh\u00f5es de casos de dengue em 2024. De acordo com a pasta, s\u00e3o 2.010.896 casos prov\u00e1veis da doen\u00e7a, com 682\u2026 [+5528 chars]",
+      "retrievedAt": "2024-03-25 19:05:42.192075",
+      "internal_id": "45743fbd38e9bb965d84cc83fd8f053a577aa793dd101c4ab9ee48bd12712da4",
       "publishedAtLabel": "Mar 24"
     }
   ]
