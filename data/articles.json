@@ -1,8 +1,118 @@
 {
-  "last_updated": "2024-05-06 19:05",
-  "count_articles_total": 1492,
-  "count_articles_new": 3,
+  "last_updated": "2024-05-07 07:07",
+  "count_articles_total": 1506,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 8886,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412 \u0422\u0430\u0439\u0432\u0430\u043d\u0435 \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0434\u0438\u043b\u0438 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0431 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d\u0438\u0438 \u043b\u0438\u0441\u0441\u0430\u0432\u0438\u0440\u0443\u0441\u0430 \u0443 \u043b\u0435\u0442\u0443\u0447\u0438\u0445 \u043c\u044b\u0448\u0435\u0439",
+      "description": "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u043e \u043a\u0430\u0440\u0430\u043d\u0442\u0438\u043d\u043d\u043e\u043c\u0443 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044e \u0437\u0430 \u0444\u043b\u043e\u0440\u043e\u0439 \u0438 \u0444\u0430\u0443\u043d\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u044b \u043f\u0440\u0438\u0437\u0432\u0430\u043b\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u043d\u0435 \u043f\u0440\u0438\u043a\u0430\u0441\u0430\u0442\u044c\u0441\u044f \u043a \u0434\u0438\u043a\u0438\u043c \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c",
+      "url": "https://tass.ru/obschestvo/20718209",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/20718209?u=2024-05-06T06:21:23.296435",
+      "publishedAt": "2024-05-06 06:21:23",
+      "content": ", 6 . //. - . Taipei Times. , , . Nyctalus plancyi velutinus. , (Rabies lyssavirus), , . 100%. . . - 17 , .",
+      "retrievedAt": "2024-05-07 07:07:04.286224",
+      "internal_id": "2307a197bbf9fa7bd1a7ac678ad59616d515901f93599a1362908ec6a1cf00fe",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8893,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Yersinia ruckeri Infection and Enteric Redmouth Disease among Endangered Chinese Sturgeons, China, 2022",
+      "description": "Yersinia ruckeri Infection among Chinese Sturgeons",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/6/23-1354_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-05-06 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Chinese sturgeons (Acipens\u2026 [+17088 chars]",
+      "retrievedAt": "2024-05-07 07:07:06.808399",
+      "internal_id": "d15d1fa1424bb996ae63c07ce1921eeb8c2cd7029e27202b3d5c410f1b6e0f2d",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8888,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Conte\u00fado de Marca",
+      "title": "Com epidemia de dengue, Hemocentro do DF opera com apenas 60% do ideal",
+      "description": "No Hemocentro, reservas de sangue dos tipos O+, O- e AB- se encontram em n\u00edvel cr\u00edtico para atender \u00e0s necessidades da rede p\u00fablica de sa\u00fade do DF",
+      "url": "https://www.metropoles.com/conteudo-especial/hemocentro-df-doacao-de-sangue",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/05/01115257/pexels-franco30-12193090-2.jpg",
+      "publishedAt": "2024-05-06 03:10:27",
+      "content": "Desde o in\u00edcio do ano, o volume de doa\u00e7\u00f5es de sangue vem diminuindo, e a Funda\u00e7\u00e3o Hemocentro de Bras\u00edlia est\u00e1 operando com apenas 60% da capacidade ideal para atender \u00e0s necessidades da rede p\u00fablica \u2026 [+2768 chars]",
+      "retrievedAt": "2024-05-07 07:07:05.087715",
+      "internal_id": "c3be406321ee0d771b46f1717bcac1fa7eac8f54dd5bc3abb6bbcfb1bfca743f",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8890,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Milena Tereza Torres Couto, Alberto Galdino Silva J\u00fanior, Karen Yasmim Pereira dos Santos Avelino, Laura Helena Vega Gonzales Gil, Marli Ten\u00f3rio Cordeiro, Maria D. L. Oliveira, Cesar Augusto A. S. Souza de Andrade",
+      "title": "DEVELOPMENT OF OPTICAL AND ELECTROCHEMICAL IMMUNODEVICE FOR THE DENGUE VIRUS DETECTION",
+      "description": "Anal. Methods, 2024, Accepted ManuscriptDOI: 10.1039/D4AY00514G, PaperMilena Tereza Torres Couto, Alberto Galdino Silva J\u00fanior, Karen Yasmim Pereira dos Santos Avelino, Laura Helena Vega Gonzales Gil, Marli Ten\u00f3rio Cordeiro, Maria D. L. Oliveira, Cesar August\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2024/ay/d4ay00514g",
+      "urlToImage": null,
+      "publishedAt": "2024-05-05 23:00:00",
+      "content": "M. T. T. Couto, A. G. Silva J\u00fanior, K. Y. P. D. S. Avelino, L. H. V. G. Gil, M. T. Cordeiro, M. D. L. Oliveira and C. A. A. S. Souza de Andrade, Anal. Methods, 2024, Accepted Manuscript , DOI: 10.\u2026 [+707 chars]",
+      "retrievedAt": "2024-05-07 07:07:05.111658",
+      "internal_id": "06f089d3368b7d3e63741fe505aece2ffbfe99f75f455e582a283cc42054e1ec",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8889,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "M\u00e1s de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos",
+      "description": "Si bien no cesa las notificaciones de esta enfermedad transmitida por mosquitos, el pico de la curva epid\u00e9mica va quedando atr\u00e1s;",
+      "url": "https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-mosquito-aedes-aegypti-transmite-el-virus-del-6QDYNDDYZJFKLPQ2NNJK3N2RKI.jpg?auth=a5ebe6e7fab9ffd9789d2c0e1c57750d7714ab7cf7ea62c37633f480d019bab8&width=768&quality=70&smart=false",
+      "publishedAt": "2024-05-05 22:54:03",
+      "content": "Si bien no cesa la notificaci\u00f3n de casos de dengue en el pa\u00eds, en la mayor\u00eda de las 19 provincias donde esta temporada de enfermedades transmitidas por mosquitos hubo circulaci\u00f3n de ese virus transmi\u2026 [+2770 chars]",
+      "retrievedAt": "2024-05-07 07:07:05.107384",
+      "internal_id": "ab6d98b83844c70730815d115286b186ce41a813822138c1aaa443341d53d84e",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8887,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "TT",
+      "title": "Labbmyggor ska l\u00f6sa problem i LA",
+      "description": "Sterila hanmyggor uppf\u00f6dda i labb ska r\u00e5da bot p\u00e5 problemet med aggressiva honmyggor i Los Angeles, skriver NBC News.",
+      "url": "https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la",
+      "urlToImage": "https://svd.vgc.no/v2/images/f42aa1b9-7cce-4df7-97fb-3762b7f55498?h=630&q=80&upscale=true&w=1200&s=7f34136d8de6dd7f1135a2f804e14ef2f0e41c71",
+      "publishedAt": "2024-05-05 20:17:31",
+      "content": "Myggarten gulafebernmyggan b\u00f6rjade flytta in i s\u00f6dra Kalifornien omkring 2014. Den riktar speciellt in sig p\u00e5 m\u00e4nniskor och kan b\u00e4ra p\u00e5 virus som chikungunya, zika och dengue och gula febern. Den lo\u2026 [+228 chars]",
+      "retrievedAt": "2024-05-07 07:07:05.076545",
+      "internal_id": "b036db975e42ac14ae9f1823491b2a1857fbf3d339e2824ada1521497f9d63cb",
+      "publishedAtLabel": "May 5"
+    },
     {
       "id": 8884,
       "query": [
@@ -55,6 +165,24 @@
       "content": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total\u2026 [+945 chars]",
       "retrievedAt": "2024-05-06 19:05:27.935323",
       "internal_id": "bd805cf9d09aaca253f43d9ea3e77cff097a31fdaeb260576323187444d13def",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8891,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Financial News",
+      "author": null,
+      "title": "Tackling Malaria: Nigeria's Efforts and Challenges",
+      "description": "Federal Government of Nigeria is taking quick measures to tackle and eliminate malaria. Measures include intensifying case management, mobilizing funding, enhancing community involvement, and exploring innovative service delivery. Coordination Minister expres\u2026",
+      "url": "https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges",
+      "urlToImage": "https://storage.financialnews.com/10141/6637014fdec5f.webp",
+      "publishedAt": "2024-05-05 10:40:57",
+      "content": "Malaria is a deadly disease caused by parasites transmitted to humans through the bites of infected mosquitoes. It is a major public health concern in Nigeria, with millions of cases reported annuall\u2026 [+3610 chars]",
+      "retrievedAt": "2024-05-07 07:07:05.691610",
+      "internal_id": "205d4a96c931ebd9358276362996805a4f3aadaaf893a121e26a98446f806075",
       "publishedAtLabel": "May 5"
     },
     {
@@ -145,6 +273,24 @@
       "content": "New York Citys health department is warning of another increase in local cases of the mpox virus, formerly known as monkeypox, and urging medical professionals to monitor for cases ahead of the summe\u2026 [+2276 chars]",
       "retrievedAt": "2024-05-05 19:05:48.949290",
       "internal_id": "0e2065cdf6e619dfdc2f3332a9005d270c2136a2cc17fc5f5c718dc147bd9192",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 8892,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Diggers.news",
+      "author": "Muzamba Siandizya",
+      "title": "Yellow Dove shares mental health battle; I\u2019d strip naked, attempt to jump off Findeco House",
+      "description": "Yellow Dove shares mental health battle; I\u2019d strip naked, attempt to jump off Findeco Housediggers.news",
+      "url": "https://diggers.news/lifestyle/2024/05/04/stripping-naked-attempted-15th-floor-findeco-house-jump-yellow-dove-shares-mental-health-battle/",
+      "urlToImage": "https://diggers.news/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-02-at-11.53.27-PM-e1714733389362.jpeg",
+      "publishedAt": "2024-05-04 06:19:06",
+      "content": "In 2010, I was diagnosed with a mental illness that initially presented as malaria until doctors discovered my brain wasnt functioning properly. Suddenly, I found myself unable to make sound judgment\u2026 [+657 chars]",
+      "retrievedAt": "2024-05-07 07:07:05.696216",
+      "internal_id": "3ef8ccc1ff17bbabcd907bc723851ec6ad2e7207a0cc2f45a5e58a36e0346767",
       "publishedAtLabel": "May 4"
     },
     {
@@ -26939,6 +27085,117 @@
       "content": "SANTA FE.- Un ni\u00f1o de seis a\u00f1os es la octava v\u00edctima mortal del dengue en lo que va del a\u00f1o en la provincia de Santa Fe. En el pa\u00eds, seg\u00fan los \u00faltimos informes epidemiol\u00f3gicos, los muertos por la enf\u2026 [+3752 chars]",
       "retrievedAt": "2024-03-26 07:06:18.992880",
       "internal_id": "f2a55d74f538e1d22364c26bee8af41c486b3c891cf8ed6d443b8bd78e70e10e",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El mapa del dengue: ya se notificaron m\u00e1s de 200.000 casos en el pa\u00eds",
+      "description": "De esa cifra, se confirmaron m\u00e1s de 134.000 infecciones",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/aedes-aegypti-el-mosquito-vector-del-virus-del-6QDYNDDYZJFKLPQ2NNJK3N2RKI.jpg?auth=a5ebe6e7fab9ffd9789d2c0e1c57750d7714ab7cf7ea62c37633f480d019bab8&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-24 16:55:59",
+      "content": "La epidemia de dengue contin\u00faa y lo hace de acuerdo con las previsiones epidemiol\u00f3gicas: la cantidad de casos notificados en el pa\u00eds super\u00f3 la barrera de los 200.000 en lo que va del a\u00f1o y las provin\u2026 [+2702 chars]",
+      "retrievedAt": "2024-03-26 07:06:19.056485",
+      "internal_id": "83953d7ef6fb011bfdda9cfe96a47a388ecd25f0e7f5246ee6823916cb1f49d2",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7380,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dinheirama.com",
+      "author": "Ag\u00eancia Gov",
+      "title": "Entenda por que ainda \u00e9 preciso vacinar contra a Covid-19",
+      "description": "O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo\u2026 ------ Este artigo foi escrito por Ag\u00eancia Gov. Este artigo apareceu originalmente no site Dinheirama.A rep\u2026",
+      "url": "https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/",
+      "urlToImage": "https://media.dinheirama.com/medias/uploads/2024/03/20240323-vacinas.jpg",
+      "publishedAt": "2024-03-24 15:00:00",
+      "content": "1O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo Minist\u00e9rio da Sa\u00fade em janeiro no SUS, a vacin\u2026 [+4684 chars]",
+      "retrievedAt": "2024-03-25 19:05:41.952308",
+      "internal_id": "9e3149c732c50e3521f9a7a90c71be623a86ef2c4e8811025d56818d80803f4b",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7381,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Laboratorio de la Udelar en Salto colaborar\u00e1 con el MSP en diagn\u00f3stico de dengue",
+      "description": "Rodrigo Arim, rector de la universidad, anunci\u00f3 la noticia en sus redes sociales y destac\u00f3 \u201cla calidad al servicio del Uruguay\u201d.",
+      "url": "https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202209/_W933_80/818330.jpg",
+      "publishedAt": "2024-03-24 12:50:00",
+      "content": "Montevideo Portal El laboratorio de Virolog\u00eda Molecular de la Universidad de la Rep\u00fablica (Udelar) en Salto realizar\u00e1 diagn\u00f3sticos de dengue en el norte del pa\u00eds, seg\u00fan inform\u00f3 el rector de la unive\u2026 [+767 chars]",
+      "retrievedAt": "2024-03-25 19:05:42.171646",
+      "internal_id": "a0f32d00907d4cd18fb6a874c8ad828f7b07e04241d40cfb0c466fed3247c2f2",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7384,
+      "query": [
+        "zika",
+        "chikungunya",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mobilidaderio.com.br",
+      "author": "Mobilidade Rio",
+      "title": "Cientistas desenvolvem armadilha para combater o mosquito da dengue",
+      "description": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chikungunya e febre amarela urbana. Batizado de MataAedes, o pro\u2026",
+      "url": "https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/",
+      "urlToImage": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "publishedAt": "2024-03-24 12:14:55",
+      "content": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chik\u2026 [+2141 chars]",
+      "retrievedAt": "2024-03-25 19:05:43.094537",
+      "internal_id": "2a0a1c670c7bf57f488758ecf8356255d3267e8f075aa3b17e9048270bbf33ca",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7383,
+      "query": [
+        "zika",
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "France's battle against tiger mosquitoes threatening 2024 Paris Olympics",
+      "description": "France is facing a challenge in ensuring the 2024 Paris Olympics are free from mosquito-borne diseases. Asian tiger mosquitoes, carriers of diseases like dengue and zika, pose a threat to millions of fans and athletes. Despite efforts to eradicate them, inclu\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108748291,width-1200,height-630,imgsize-347784,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-24 09:12:00",
+      "content": "France is facing a challenging task to ensure that the upcoming 2024 Paris Olympics remain free from the threat of mosquito-borne diseases. The Asian tiger mosquito, known for spreading viruses like \u2026 [+2590 chars]",
+      "retrievedAt": "2024-03-25 19:05:43.075284",
+      "internal_id": "3537c26a8ee10134790b28359458aaa828c7f83e33c9d4f29a3685b3cfc47008",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7382,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "Dengue: desigualdade social e mudan\u00e7as clim\u00e1ticas colaboram para surto",
+      "description": "Aumento na incid\u00eancia de casos tem denunciado o impacto do racismo ambiental e das mudan\u00e7as clim\u00e1ticas no Brasil",
+      "url": "https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6d/6y/ft/6d6yfteqtvzc9enme97vjfmlv.jpg",
+      "publishedAt": "2024-03-24 09:00:00",
+      "content": "Nesta quinta-feira (22), o Minist\u00e9rio da Sa\u00fade informou que o Brasil superou a marca de 2 milh\u00f5es de casos de dengue em 2024. De acordo com a pasta, s\u00e3o 2.010.896 casos prov\u00e1veis da doen\u00e7a, com 682\u2026 [+5528 chars]",
+      "retrievedAt": "2024-03-25 19:05:42.192075",
+      "internal_id": "45743fbd38e9bb965d84cc83fd8f053a577aa793dd101c4ab9ee48bd12712da4",
       "publishedAtLabel": "Mar 24"
     }
   ]
