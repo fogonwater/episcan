@@ -1,8 +1,171 @@
 {
-  "last_updated": "2024-05-07 07:07",
-  "count_articles_total": 1506,
-  "count_articles_new": 8,
+  "last_updated": "2024-05-07 19:05",
+  "count_articles_total": 1509,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 8898,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Dengue, gripe e covid: quais vacinas est\u00e3o dispon\u00edveis e quem pode se vacinar no SUS",
+      "description": "Com o aumento dos casos de dengue, gripe e covid-19 em todo o pa\u00eds, a import\u00e2ncia da vacina\u00e7\u00e3o ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-gripe-e-covid-quais-vacinas-estao-disponiveis-e-quem-pode-se-vacinar-no-sus,af71581e961ed2fd376b958f4829d4b8qfjd4wdo.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/01/1165438192-vacina.jpg",
+      "publishedAt": "2024-05-06 18:29:29",
+      "content": "Com o aumento dos casos de dengue, gripe e covid-19 em todo o pa\u00eds, a import\u00e2ncia da vacina\u00e7\u00e3o se torna ainda mais evidente. A dengue, uma doen\u00e7a transmitida pelo mosquito Aedes aegypti, pode causar \u2026 [+4447 chars]",
+      "retrievedAt": "2024-05-07 19:05:26.527964",
+      "internal_id": "369bf2edce820c1fa3cebc77b39f75164b36836723dca4cd553712b4a9f14116",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8894,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Bob Furuya",
+      "title": "Saiba por que os m\u00e9dicos n\u00e3o falam mais em dengue hemorr\u00e1gica",
+      "description": "A OMS substituiu o termo \"dengue hemorr\u00e1gica\" por \"dengue grave\" em 2009; o Minist\u00e9rio da Sa\u00fade aderiu \u00e0 mudan\u00e7a em 2014. O post Saiba por que os m\u00e9dicos n\u00e3o falam mais em dengue hemorr\u00e1gica apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/05/06/medicina-e-saude/saiba-por-que-os-medicos-nao-falam-mais-em-dengue-hemorragica/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue-e1699618484205.jpg",
+      "publishedAt": "2024-05-06 18:10:50",
+      "content": "Segundo informa\u00e7\u00f5es da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), os primeiros relatos de dengue no Brasil datam do final do s\u00e9culo XIX. A preocupa\u00e7\u00e3o \u00e0 \u00e9poca, por\u00e9m, n\u00e3o era com essa doen\u00e7a especificamente, m\u2026 [+3376 chars]",
+      "retrievedAt": "2024-05-07 19:05:26.480335",
+      "internal_id": "571154972fcac90e38adff4d052576401ae7c4bae4a955ebc8116f6e97919cb4",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8899,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Dengue: \u201cEn la ciudad, estamos en la fase final de este brote\u201d, dijo Fern\u00e1n Quir\u00f3s",
+      "description": "El ministro de Salud porte\u00f1o actualiz\u00f3 esta ma\u00f1ana en conferencia de prensa junto al jefe de Gobierno el curso local de la mayor epidemia de esta enfermedad en el pa\u00eds en los \u00faltimos 15 a\u00f1os",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-en-la-ciudad-estamos-en-la-fase-final-de-este-brote-dijo-fernan-quiros-nid06052024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/fernan-quiros-informa-como-sigue-la-situacion-BTSQU5A3GJBEVOG6HDBWYDDDN4.jpg?auth=8af52b8783ed1763a9d6ceb47fcafb97baf7ace37f78508241710a5e90996563&width=768&quality=70&smart=false",
+      "publishedAt": "2024-05-06 17:50:34",
+      "content": "Con datos epidemiol\u00f3gicos y previsiones meteorol\u00f3gicas que para las autoridades sanitarias de la ciudad de Buenos Aires son suficientemente robustos sobre el curso de la epidemia de dengue en el dist\u2026 [+3218 chars]",
+      "retrievedAt": "2024-05-07 19:05:26.537939",
+      "internal_id": "d34b76b1c2eedb23cb314bf4f9e717e538dbdb91ab554db166333a2525576104",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8896,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tudocelular.com",
+      "author": "Tudocelular.com",
+      "title": "Dengue: Brasil chega a 4.453.376 casos e 2.246 mortes pela doen\u00e7a em 2024 | Relat\u00f3rio",
+      "description": "Desde o come\u00e7o de 2024, o Brasil vive um aumento expressivo nos casos de dengue, causados por fatores como o aumento de chuvas em todo o pa\u00eds e outros fatores clim\u00e1ticos e ambientais.",
+      "url": "https://www.tudocelular.com/tech/noticias/n220885/dengue-casos-e-mortes-doenca-brasil-relatorio-2.html",
+      "urlToImage": "https://t2.tudocdn.net/691370?w=1920",
+      "publishedAt": "2024-05-06 17:10:00",
+      "content": "Atualiza\u00e7\u00e3o (06/05/2024) \u2013 RB Desde o come\u00e7o de 2024, o Brasil vive um aumento expressivo nos casos de dengue, causados por fatores como o aumento de chuvas em todo o pa\u00eds, e outros fatores clim\u00e1tic\u2026 [+3102 chars]",
+      "retrievedAt": "2024-05-07 19:05:26.501195",
+      "internal_id": "8f726855673645415b6f1dea7c7fbb4538344e7cfd0b2aefa2d412163b38c4e1",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8901,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "X.G.",
+      "title": "La Xunta dar\u00e1 a 15.000 ni\u00f1os una vacuna m\u00e1s potente contra la bacteria de la meningitis",
+      "description": "Sanidade invirti\u00f3 673.000 euros en el f\u00e1rmaco, que distribuir\u00e1 a los nacidos en el 2022 en una campa\u00f1a especial de inoculaci\u00f3n hasta diciembre",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2024/05/06/xunta-dara-15000-ninos-vacuna-potente-contra-bacteria-meningitis/00031715011875682638691.htm",
+      "urlToImage": "https://cflvdg.avoz.es/sc/aIlFnvqDznTGY3Y23dTT3JvVPek=/1280x/2023/05/18/00121684429383209519821/Foto/H22Y5177.jpg",
+      "publishedAt": "2024-05-06 16:20:00",
+      "content": "Sanidade iniciar\u00e1 este mes una campa\u00f1a especial de vacunaci\u00f3n para inocular a 14.850 ni\u00f1os nacidos en el 2022 con una medicina m\u00e1s potente contra laenfermedad neumoc\u00f3cica invasora, en la que se inclu\u2026 [+2429 chars]",
+      "retrievedAt": "2024-05-07 19:05:26.954050",
+      "internal_id": "dd9f46d84f183be21db0f823615dfa1060125445ac9cf312ad7758210a9467ee",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8900,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Brasil j\u00e1 registra mais de 2 mil mortes por dengue neste ano",
+      "description": "A dengue j\u00e1 matou mais de 2 mil pessoas no Brasil at\u00e9 o momento. \u00c9 o que mostra o Painel de ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/brasil-ja-registra-mais-de-2-mil-mortes-por-dengue-neste-ano,f826903b92b857e380ac884431a62656fh8fce9o.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-05-06 14:42:55",
+      "content": "A dengue j\u00e1 matou mais de 2 mil pessoas no Brasil at\u00e9 o momento. \u00c9 o que mostra o Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade. No total, foram confirmadas 2.197 \u00f3bitos pela doen\u00e7a e\u2026 [+1881 chars]",
+      "retrievedAt": "2024-05-07 19:05:26.554343",
+      "internal_id": "0a97462793ac5ead35e5b5f6f127b3ab786caa2cd9d21d1a31da93d448279509",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8897,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "H\u00e9ctor M. S\u00e1nchez C., David L. Smith, John M. Marshall",
+      "title": "MGSurvE: A framework to optimize trap placement for genetic surveillance of mosquito populations",
+      "description": "Author summary Mosquito-borne diseases such as malaria and dengue fever continue to pose a major health burden throughout much of the world. The impact of currently-available tools, such as insecticides and antimalarial drugs, is stagnating, and gene drive-mo\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012046",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012046.g004&size=inline",
+      "publishedAt": "2024-05-06 14:00:00",
+      "content": "Abstract Genetic surveillance of mosquito populations is becoming increasingly relevant as genetics-based mosquito control strategies advance from laboratory to field testing. Especially applicable \u2026 [+38282 chars]",
+      "retrievedAt": "2024-05-07 19:05:26.520858",
+      "internal_id": "9015ec47560ed323ba3d666a5dd991588df1520684d00ca9ae1ad54eb62bd3a6",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8902,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El CSIC destaca la predilecci\u00f3n de los mosquitos transmisores de la malaria por valles de r\u00edos con zonas de regad\u00edo",
+      "description": "Un estudio reciente coordinado por investigadores de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana (CSIC), el Centro Nacional de Epidemiolog\u00eda (ISCIII) y el Centro de Investigaciones Biom\u00e9dicas en Red en Epidemiolog\u00eda y Salud P\u00fablica (Ciberesp) ha analizado la distribuci\u00f3n\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240506134135_1200.jpg",
+      "publishedAt": "2024-05-06 11:41:35",
+      "content": "SEVILLA, 6 May. (EUROPA PRESS) - Un estudio reciente coordinado por investigadores de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana (CSIC), el Centro Nacional de Epidemiolog\u00eda (ISCIII) y el Centro de Investigac\u2026 [+2950 chars]",
+      "retrievedAt": "2024-05-07 19:05:27.360198",
+      "internal_id": "fa1fe4fe8b726359dac2f12dd7d7690c9f1a551311bfc24a388055a7e7aaadc2",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8895,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Conjur.com.br",
+      "author": "Sem autor",
+      "title": "Munic\u00edpios devem indenizar pai de crian\u00e7a morta por dengue ap\u00f3s neglig\u00eancia",
+      "description": "A 6\u00aa C\u00e2mara de Direito P\u00fablico do Tribunal de Justi\u00e7a de S\u00e3o Paulo manteve decis\u00e3o da 1\u00aa Vara C\u00edvel de Sumar\u00e9 (SP), proferida pela ju\u00edza Ana Lucia Granziol, que condenou os munic\u00edpios de Sumar\u00e9 e Nova Odessa a indenizarem pai de crian\u00e7a que morreu de dengue a\u2026",
+      "url": "https://www.conjur.com.br/2024-mai-06/municipios-devem-indenizar-pai-de-crianca-morta-por-dengue-apos-negligencia/",
+      "urlToImage": "https://www.conjur.com.br/wp-content/uploads/2023/11/mosquito-dengue-aedes3.jpeg",
+      "publishedAt": "2024-05-06 10:42:37",
+      "content": "Munic\u00edpios foram negligentes no tratamento e ter\u00e3o de indenizar pai de crian\u00e7a morta por dengue Segundo os autos, a v\u00edtima, ent\u00e3o com 13 anos, apresentou sintomas t\u00edpicos da doen\u00e7a e procurou atendi\u2026 [+882 chars]",
+      "retrievedAt": "2024-05-07 19:05:26.496588",
+      "internal_id": "715024c046ff767f1d07f1bfd5be244bfb2119fb543de2488275f9e39491a1a2",
+      "publishedAtLabel": "May 6"
+    },
     {
       "id": 8886,
       "query": [
@@ -27085,117 +27248,6 @@
       "content": "SANTA FE.- Un ni\u00f1o de seis a\u00f1os es la octava v\u00edctima mortal del dengue en lo que va del a\u00f1o en la provincia de Santa Fe. En el pa\u00eds, seg\u00fan los \u00faltimos informes epidemiol\u00f3gicos, los muertos por la enf\u2026 [+3752 chars]",
       "retrievedAt": "2024-03-26 07:06:18.992880",
       "internal_id": "f2a55d74f538e1d22364c26bee8af41c486b3c891cf8ed6d443b8bd78e70e10e",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7393,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "El mapa del dengue: ya se notificaron m\u00e1s de 200.000 casos en el pa\u00eds",
-      "description": "De esa cifra, se confirmaron m\u00e1s de 134.000 infecciones",
-      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/aedes-aegypti-el-mosquito-vector-del-virus-del-6QDYNDDYZJFKLPQ2NNJK3N2RKI.jpg?auth=a5ebe6e7fab9ffd9789d2c0e1c57750d7714ab7cf7ea62c37633f480d019bab8&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-24 16:55:59",
-      "content": "La epidemia de dengue contin\u00faa y lo hace de acuerdo con las previsiones epidemiol\u00f3gicas: la cantidad de casos notificados en el pa\u00eds super\u00f3 la barrera de los 200.000 en lo que va del a\u00f1o y las provin\u2026 [+2702 chars]",
-      "retrievedAt": "2024-03-26 07:06:19.056485",
-      "internal_id": "83953d7ef6fb011bfdda9cfe96a47a388ecd25f0e7f5246ee6823916cb1f49d2",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7380,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Dinheirama.com",
-      "author": "Ag\u00eancia Gov",
-      "title": "Entenda por que ainda \u00e9 preciso vacinar contra a Covid-19",
-      "description": "O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo\u2026 ------ Este artigo foi escrito por Ag\u00eancia Gov. Este artigo apareceu originalmente no site Dinheirama.A rep\u2026",
-      "url": "https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/",
-      "urlToImage": "https://media.dinheirama.com/medias/uploads/2024/03/20240323-vacinas.jpg",
-      "publishedAt": "2024-03-24 15:00:00",
-      "content": "1O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo Minist\u00e9rio da Sa\u00fade em janeiro no SUS, a vacin\u2026 [+4684 chars]",
-      "retrievedAt": "2024-03-25 19:05:41.952308",
-      "internal_id": "9e3149c732c50e3521f9a7a90c71be623a86ef2c4e8811025d56818d80803f4b",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7381,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Laboratorio de la Udelar en Salto colaborar\u00e1 con el MSP en diagn\u00f3stico de dengue",
-      "description": "Rodrigo Arim, rector de la universidad, anunci\u00f3 la noticia en sus redes sociales y destac\u00f3 \u201cla calidad al servicio del Uruguay\u201d.",
-      "url": "https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202209/_W933_80/818330.jpg",
-      "publishedAt": "2024-03-24 12:50:00",
-      "content": "Montevideo Portal El laboratorio de Virolog\u00eda Molecular de la Universidad de la Rep\u00fablica (Udelar) en Salto realizar\u00e1 diagn\u00f3sticos de dengue en el norte del pa\u00eds, seg\u00fan inform\u00f3 el rector de la unive\u2026 [+767 chars]",
-      "retrievedAt": "2024-03-25 19:05:42.171646",
-      "internal_id": "a0f32d00907d4cd18fb6a874c8ad828f7b07e04241d40cfb0c466fed3247c2f2",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7384,
-      "query": [
-        "zika",
-        "chikungunya",
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Mobilidaderio.com.br",
-      "author": "Mobilidade Rio",
-      "title": "Cientistas desenvolvem armadilha para combater o mosquito da dengue",
-      "description": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chikungunya e febre amarela urbana. Batizado de MataAedes, o pro\u2026",
-      "url": "https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/",
-      "urlToImage": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "publishedAt": "2024-03-24 12:14:55",
-      "content": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chik\u2026 [+2141 chars]",
-      "retrievedAt": "2024-03-25 19:05:43.094537",
-      "internal_id": "2a0a1c670c7bf57f488758ecf8356255d3267e8f075aa3b17e9048270bbf33ca",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7383,
-      "query": [
-        "zika",
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "France's battle against tiger mosquitoes threatening 2024 Paris Olympics",
-      "description": "France is facing a challenge in ensuring the 2024 Paris Olympics are free from mosquito-borne diseases. Asian tiger mosquitoes, carriers of diseases like dengue and zika, pose a threat to millions of fans and athletes. Despite efforts to eradicate them, inclu\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-108748291,width-1200,height-630,imgsize-347784,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-03-24 09:12:00",
-      "content": "France is facing a challenging task to ensure that the upcoming 2024 Paris Olympics remain free from the threat of mosquito-borne diseases. The Asian tiger mosquito, known for spreading viruses like \u2026 [+2590 chars]",
-      "retrievedAt": "2024-03-25 19:05:43.075284",
-      "internal_id": "3537c26a8ee10134790b28359458aaa828c7f83e33c9d4f29a3685b3cfc47008",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7382,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Marina Semensato, Marina Semensato",
-      "title": "Dengue: desigualdade social e mudan\u00e7as clim\u00e1ticas colaboram para surto",
-      "description": "Aumento na incid\u00eancia de casos tem denunciado o impacto do racismo ambiental e das mudan\u00e7as clim\u00e1ticas no Brasil",
-      "url": "https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6d/6y/ft/6d6yfteqtvzc9enme97vjfmlv.jpg",
-      "publishedAt": "2024-03-24 09:00:00",
-      "content": "Nesta quinta-feira (22), o Minist\u00e9rio da Sa\u00fade informou que o Brasil superou a marca de 2 milh\u00f5es de casos de dengue em 2024. De acordo com a pasta, s\u00e3o 2.010.896 casos prov\u00e1veis da doen\u00e7a, com 682\u2026 [+5528 chars]",
-      "retrievedAt": "2024-03-25 19:05:42.192075",
-      "internal_id": "45743fbd38e9bb965d84cc83fd8f053a577aa793dd101c4ab9ee48bd12712da4",
       "publishedAtLabel": "Mar 24"
     }
   ]
