@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-05-08 07:06
-- **Most recent article:** 2024-05-07 06:58:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-05-08 19:05
+- **Most recent article:** 2024-05-07 16:45:35
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 185 | 158 | 138 | 113 | 117 | 77 | 19 | 807 |
+| dengue | 179 | 158 | 138 | 113 | 117 | 77 | 25 | 807 |
 | measles | 44 | 36 | 43 | 40 | 28 | 24 | 1 | 216 |
-| malaria | 7 | 13 | 16 | 29 | 77 | 25 | 4 | 171 |
+| malaria | 7 | 13 | 16 | 29 | 77 | 25 | 10 | 177 |
 | meningitis | 16 | 4 | 15 | 44 | 5 | 3 | 1 | 88 |
 | mpox | 6 | 12 | 3 | 13 | 8 | 36 | 2 | 80 |
-| zika | 21 | 11 | 10 | 8 | 3 | 8 | 1 | 62 |
-| chikungunya | 9 | 12 | 7 | 5 | 5 | 7 | 1 | 46 |
+| zika | 19 | 11 | 10 | 8 | 3 | 8 | 1 | 60 |
+| chikungunya | 8 | 12 | 7 | 5 | 5 | 7 | 1 | 45 |
+| rabies | 3 | 16 | 8 | 3 | 3 | 4 | 2 | 39 |
 | sarampión | 3 | 5 | 13 | 0 | 10 | 8 | 0 | 39 |
-| rabies | 3 | 16 | 8 | 3 | 3 | 4 | 1 | 38 |
-| pertussis | 6 | 7 | 9 | 7 | 5 | 2 | 0 | 36 |
+| pertussis | 6 | 7 | 9 | 7 | 5 | 2 | 1 | 37 |
 | yersinia | 1 | 3 | 0 | 2 | 0 | 5 | 1 | 12 |
 | leptospirosis | 0 | 1 | 3 | 3 | 3 | 2 | 0 | 12 |
-| typhoid | 1 | 0 | 0 | 2 | 0 | 0 | 0 | 3 |
+| typhoid | 1 | 0 | 0 | 2 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -39,9 +39,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Yersinia ruckeri Infection and Enteric Redmouth Disease among Endangered Chinese Sturgeons, China, 2022](https://wwwnc.cdc.gov/eid/article/30/6/23-1354_article) (Cdc.gov)
 
+## 24-19 (typhoid)
+
+- [Typhoid Rosie: "Cover It Up (Fuck You I’m So Beautiful)”](https://www.punknews.org/article/82756/typhoid-rosie-cover-it-up-fuck-you-im-so-beautiful) (Punknews.org)
+
 ## 24-19 (rabies)
 
+- [An assessment of the operationality and factors influencing the effectiveness of rabies surveillance in Gombe State, Nigeria](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012154) (Plos.org)
+
 - [В Тайване предупредили население об обнаружении лиссавируса у летучих мышей](https://tass.ru/obschestvo/20718209) (Tass.ru)
+
+## 24-19 (pertussis)
+
+- [2nd case of whooping cough confirmed at Lexington school](https://www.wkyt.com/2024/05/07/2nd-case-whooping-cough-confirmed-lexington-school/) (WKYT)
 
 ## 24-19 (mpox)
 
@@ -59,6 +69,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-19 (malaria)
 
+- [Un estudio analiza el riesgo de transmisión de la malaria por parte de los mosquitos en España](https://www.eleconomista.es/salud/noticias/12803762/05/24/un-estudio-analiza-el-riesgo-de-transmision-de-la-malaria-por-parte-de-los-mosquitos-en-espana.html) (Eleconomista.es)
+
+- [El Informe de Resultados 2023 de la OMS revela avances en la cobertura sanitaria universal, malaria, VIH y tabaco](https://www.infosalus.com/actualidad/noticia-informe-resultados-2023-oms-revela-avances-cobertura-sanitaria-universal-malaria-vih-tabaco-20240507170017.html) (Infosalus.com)
+
+- [Patriots' Calvin Anderson on the comeback trail after battling malaria and heart contusion](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-calvin-anderson-on-the-comeback-trail-after-battling-malaria-and-heart-contusion) (NBCSports.com)
+
+- [Comparative evaluation of the diagnostic accuracies of four different malaria rapid diagnostic test kits available in Ghana](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302840) (Plos.org)
+
+- [El riesgo de transmisión local de la malaria en España es "muy bajo", según un estudio](https://www.infosalus.com/actualidad/noticia-riesgo-transmision-local-malaria-espana-muy-estudio-20240507114118.html) (Infosalus.com)
+
+- [The harrowing tale of Patriots player Calvin Anderson’s near-fatal bout with malaria](https://www.bostonglobe.com/2024/05/07/sports/calvin-anderson-patriots-malaria/) (The Boston Globe)
+
 - [Un estudio ofrece la primera vista panorámica de las vías de infección en la placenta humana](https://www.infosalus.com/salud-investigacion/noticia-estudio-ofrece-primera-vista-panoramica-vias-infeccion-placenta-humana-20240507070050.html) (Infosalus.com)
 
 - [MGSurvE: A framework to optimize trap placement for genetic surveillance of mosquito populations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012046) (Plos.org)
@@ -68,6 +90,18 @@ Source: [News API](https://newsapi.org/)
 - [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
 
 ## 24-19 (dengue)
+
+- [Un caso 'accertato' di Dengue segnalato a Perugia](https://www.ansa.it/umbria/notizie/2024/05/07/un-caso-accertato-di-dengue-segnalato-a-perugia_877516bf-b0f1-426a-a828-e0ea4970c732.html) (ANSA.it)
+
+- [Johor sounds the alarm on dengue](https://www.thestar.com.my/news/nation/2024/05/08/johor-sounds-the-alarm-on-dengue) (The Star Online)
+
+- [Aparecida (GO) amplia vacinação contra a dengue entre 6 a 16 anos](https://www.metropoles.com/brasil/aparecida-go-amplia-vacinacao-contra-a-dengue-entre-6-a-16-anos) (Metropoles.com)
+
+- [Camila Homs se sinceró sobre el drama que vivió tras contraer dengue: “Sentía que me iba a morir”](https://www.lanacion.com.ar/espectaculos/camila-homs-se-sincero-sobre-el-drama-que-vivio-tras-contraer-dengue-sentia-que-me-iba-a-morir-nid07052024/) (La Nacion)
+
+- [Qual a diferença entre sintomas de dengue e gripe? Infectologista explica](https://olhardigital.com.br/2024/05/07/medicina-e-saude/infectologista-explica-diferenca-entre-sintomas-de-dengue-e-gripe/) (Olhardigital.com.br)
+
+- [13 anos após morte de adolescente por dengue, TJ manda prefeituras indenizarem pai em R$ 300 mil](https://g1.globo.com/sp/piracicaba-regiao/noticia/2024/05/07/13-anos-apos-morte-de-adolescente-por-dengue-tj-manda-prefeituras-indenizarem-pai-em-r-300-mil.ghtml) (Globo)
 
 - [Kemenkes RI Singgung Perubahan Gejala DBD, Inikah Pemicunya?](https://health.detik.com/berita-detikhealth/d-7328225/kemenkes-ri-singgung-perubahan-gejala-dbd-inikah-pemicunya) (Detik.com)
 
@@ -2821,10 +2855,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://www.terra.com.br/vida-e-estilo/saude/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue,b9995ffbba358b40bd28daa79300bf334maktznz.html) (Terra.com.br)
 
-- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
-
-- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
-
 ## 24-13 (yersinia)
 
 - [A novel sORF gene mutant strain of Yersinia pestis vaccine EV76 offers enhanced safety and improved protection against plague](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012129) (Plos.org)
@@ -3377,18 +3407,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Santa Fe: reportaron la muerte de un chico de seis años por dengue](https://www.lanacion.com.ar/sociedad/santa-fe-reportaron-la-muerte-de-un-chico-de-seis-anos-por-dengue-nid24032024/) (La Nacion)
 
-- [El mapa del dengue: ya se notificaron más de 200.000 casos en el país](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/) (La Nacion)
-
-- [Entenda por que ainda é preciso vacinar contra a Covid-19](https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/) (Dinheirama.com)
-
-- [Laboratorio de la Udelar en Salto colaborará con el MSP en diagnóstico de dengue](https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462) (Montevideo.com.uy)
-
-- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
-
-- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
-
-- [Dengue: desigualdade social e mudanças climáticas colaboram para surto](https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html) (Ig.com.br)
-
 ## 24-13 (chikungunya)
 
 - [¿Qué es el dengue y cómo tratarlo?](https://cnnespanol.cnn.com/2024/03/28/que-es-dengue-como-tratarlo-orix/) (CNN)
@@ -3406,5 +3424,3 @@ Source: [News API](https://newsapi.org/)
 - [Com mais 40 mortes, DF chega a 188 óbitos por dengue em 2024](https://www.metropoles.com/distrito-federal/com-mais-40-mortes-df-chega-a-188-obitos-por-dengue-em-2024) (Metropoles.com)
 
 - [El ECDC notifica más de 70.000 casos y 15 muertes por chikungunya en todo el mundo](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-70000-casos-15-muertes-chikungunya-todo-mundo-20240325170006.html) (Infosalus.com)
-
-- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)

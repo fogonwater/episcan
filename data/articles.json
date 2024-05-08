@@ -1,8 +1,278 @@
 {
-  "last_updated": "2024-05-08 07:06",
-  "count_articles_total": 1522,
-  "count_articles_new": 7,
+  "last_updated": "2024-05-08 19:05",
+  "count_articles_total": 1531,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 8910,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WKYT",
+      "author": "Lucy Bryson",
+      "title": "2nd case of whooping cough confirmed at Lexington school",
+      "description": "The Lexington Fayette County Health Department released a statement confirming a positive case of pertussis, also known as whooping cough, at Bryan Station High School.",
+      "url": "https://www.wkyt.com/2024/05/07/2nd-case-whooping-cough-confirmed-lexington-school/",
+      "urlToImage": "https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/v2/IKOCU74CL5GFNDR3RR4RWLUD7Q.jpg?auth=2c0ff584f47376deb8870d51b40c655363244dc987d5cf04d4080e8fa8f7d879&width=1200&height=600&smart=true",
+      "publishedAt": "2024-05-07 16:45:35",
+      "content": "LEXINGTON, Ky. (WKYT)Another case of pertussis has been confirmed in a Lexington high school. The Lexington Fayette County Health Department released a statement confirming a positive case of pertus\u2026 [+1392 chars]",
+      "retrievedAt": "2024-05-08 19:05:22.417278",
+      "internal_id": "4270fcfbfe887705af631c08a8c1686d17bc86ffb5d9e11194d4b89a30af8469",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8924,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Punknews.org",
+      "author": "emmoore@nospam.punknews.org (emmoore)",
+      "title": "Typhoid Rosie: \"Cover It Up (Fuck You I\u2019m So Beautiful)\u201d",
+      "description": "Typhoid Rosie have released a new song. It is called \u201cCover It Up (Fuck You I\u2019m So Beautiful)\u201d and is off their upcoming album Last Words which will be out on June 21. Typhoid Rosie released their album Queen of Swords in 2021. Check out the song below....",
+      "url": "https://www.punknews.org/article/82756/typhoid-rosie-cover-it-up-fuck-you-im-so-beautiful",
+      "urlToImage": "https://static.punknews.org/images/frontpage/fp-1715098167.jpg",
+      "publishedAt": "2024-05-07 16:30:02",
+      "content": "Typhoid Rosie have released a new song. It is called Cover It Up (Fuck You Im So Beautiful) and is off their upcoming album Last Words which will be out on June 21. Typhoid Rosie released their album\u2026 [+50 chars]",
+      "retrievedAt": "2024-05-08 19:05:25.163231",
+      "internal_id": "e73dc527723abce4aadd93625ca627643040cc8f1f0f37c2ba825e67c1770aba",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8916,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Un caso 'accertato' di Dengue segnalato a Perugia",
+      "description": "Segnalato a Perugia un caso accertato di febbre virale Dengue trasmessa da zanzara del genere Aedes, in corrispondenza dell'area cittadina. (ANSA)",
+      "url": "https://www.ansa.it/umbria/notizie/2024/05/07/un-caso-accertato-di-dengue-segnalato-a-perugia_877516bf-b0f1-426a-a828-e0ea4970c732.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/30/eed15edca9a3fd846b89774e299fe68f.jpg",
+      "publishedAt": "2024-05-07 16:04:28",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-05-08 19:05:23.566890",
+      "internal_id": "5b431385652cfc0d3b5aab90cb65163fc47c0bb9cf6ccde3d4cac222e10cd0a8",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8914,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "YEE XIANG YUN",
+      "title": "Johor sounds the alarm on dengue",
+      "description": "JOHOR BARU: Johor has the highest number of dengue deaths nationwide, which has led to the state government launching more efforts to destroy mosquito breeding grounds. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/05/08/johor-sounds-the-alarm-on-dengue",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/05/08/2682668.jpg",
+      "publishedAt": "2024-05-07 16:00:00",
+      "content": "JOHOR BARU: Johor has the highest number of dengue deaths nationwide, which has led to the state government launching more efforts to destroy mosquito breeding grounds. State health and environment \u2026 [+2720 chars]",
+      "retrievedAt": "2024-05-08 19:05:23.549566",
+      "internal_id": "40d7c879cdc42f8feefcbec743991d3de5ee8a296229e1fb682ec4c7ea0c2fb8",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8913,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Aparecida (GO) amplia vacina\u00e7\u00e3o contra a dengue entre 6 a 16 anos",
+      "description": "P\u00fablico pode receber a imuniza\u00e7\u00e3o em 38 postos fixos. Medida segue determina\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade",
+      "url": "https://www.metropoles.com/brasil/aparecida-go-amplia-vacinacao-contra-a-dengue-entre-6-a-16-anos",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2022/09/30193904/dengue-aparecida.jpeg",
+      "publishedAt": "2024-05-07 15:51:27",
+      "content": "Goi\u00e2nia \u2013 Nesta ter\u00e7a-feira (7/5), o munic\u00edpio de Aparecida de Goi\u00e2nia, na regi\u00e3o metropolitana da capital goiana, ampliou a vacina\u00e7\u00e3o contra a dengue para a faixa et\u00e1ria de 6 a 16 anos de idade. A \u2026 [+3106 chars]",
+      "retrievedAt": "2024-05-08 19:05:23.536240",
+      "internal_id": "d0cda59083561d020c1166f7c27467b29cbfdb97dfbda8e90517d0205940e0f5",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8922,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "Roc\u00edo Antol\u00edn",
+      "title": "Un estudio analiza el riesgo de transmisi\u00f3n de la malaria por parte de los mosquitos en Espa\u00f1a",
+      "description": "El riesgo de transmisi\u00f3n local de la malaria es \"muy bajo\". Esta es la conclusi\u00f3n de un estudio reciente coordinado por investigadores de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana, el Centro Nacional de Epidemiolog\u00eda del Instituto de Salud Carlos III y el \u00c1rea de Epide\u2026",
+      "url": "https://www.eleconomista.es/salud/noticias/12803762/05/24/un-estudio-analiza-el-riesgo-de-transmision-de-la-malaria-por-parte-de-los-mosquitos-en-espana.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/4928x3264/2/e/a/1200x655_mosquitomalaria.jpg",
+      "publishedAt": "2024-05-07 15:39:47",
+      "content": "El riesgo de transmisi\u00f3n local de la malaria es \"muy bajo\". Esta es la conclusi\u00f3n de un estudio reciente coordinado por investigadores de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana, el Centro Nacional de Epidem\u2026 [+2827 chars]",
+      "retrievedAt": "2024-05-08 19:05:24.096776",
+      "internal_id": "df65396069cee5550cbc840d068fc44e877ecdaee09a8ebc35d61a4fbb676570",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8923,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El Informe de Resultados 2023 de la OMS revela avances en la cobertura sanitaria universal, malaria, VIH y tabaco",
+      "description": "El Informe de Resultados 2023 de la Organizaci\u00f3n Mundial de la Salud (OMS), que muestra los logros alcanzados en materia de salud p\u00fablica y que se publicar\u00e1 antes de la 77.\u00aa Asamblea Mundial de la Salud 2024, que se celebrar\u00e1 del 27 de mayo al 1 de junio de 2\u2026",
+      "url": "https://www.infosalus.com/actualidad/noticia-informe-resultados-2023-oms-revela-avances-cobertura-sanitaria-universal-malaria-vih-tabaco-20240507170017.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240507170017_1200.jpg",
+      "publishedAt": "2024-05-07 15:00:17",
+      "content": "MADRID, 7 May. (EUROPA PRESS) - El Informe de Resultados 2023 de la Organizaci\u00f3n Mundial de la Salud (OMS), que muestra los logros alcanzados en materia de salud p\u00fablica y que se publicar\u00e1 antes d\u2026 [+4690 chars]",
+      "retrievedAt": "2024-05-08 19:05:24.100766",
+      "internal_id": "c6dcd03fdf57356989c7b676a012f284488cdac71ef60a85f7febde3a404c1bb",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8918,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NBCSports.com",
+      "author": "ProFootball Talk on NBC Sports",
+      "title": "Patriots' Calvin Anderson on the comeback trail after battling malaria and heart contusion",
+      "description": "Patriots offensive tackle Calvin Anderson signed with New England last year and quickly earned a spot in the starting lineup.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-calvin-anderson-on-the-comeback-trail-after-battling-malaria-and-heart-contusion",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DBb2V9Wo7twPGzNi01j7WQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/profootballtalk.nbcsports.com/9d74a9105bad07e5a8fa96729783fba3",
+      "publishedAt": "2024-05-07 14:55:45",
+      "content": "Patriots offensive tackle Calvin Anderson signed with New England last year and quickly earned a spot in the starting lineup. But things did not go according to plan. Anderson has revealed in an int\u2026 [+1320 chars]",
+      "retrievedAt": "2024-05-08 19:05:24.075937",
+      "internal_id": "57f19ec1ccfc9df642b415f5dfd80ad6f312a79ec0f59e0ea8e911547db5155e",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8911,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Adebanwo Kuye, Mishel Dauda, Anthony Oche Ameh, Molta Idris Danladi, Yakubu Joel Atuman, Grace Sabo Nok Kia, Barbara H\u00e4sler",
+      "title": "An assessment of the operationality and factors influencing the effectiveness of rabies surveillance in Gombe State, Nigeria",
+      "description": "Author summary Rabies continues to be a problem in Africa, affecting vulnerable populations, despite effective vaccines being available. Nigeria, being the most populous country in Africa, needs to take prompt action to be able to eliminate dog-mediated rabie\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012154",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012154.g003&size=inline",
+      "publishedAt": "2024-05-07 14:00:00",
+      "content": "Abstract Rabies remains a burden in Africa, disproportionately affecting the most vulnerable despite the availability of effective vaccines. Nigeria, the most populous African country, needs rapid d\u2026 [+59283 chars]",
+      "retrievedAt": "2024-05-08 19:05:22.697630",
+      "internal_id": "ddd5ff6ed9b202145e05820db9d6b041d7e50608e1135f92a8cfc9c55e25f706",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8919,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Enoch Aninagyei, John Gameli Deku, Keren Trishia Yemofio, Ekua Quainoo, Kofi Adjei Ntiri, Evelyn Yaro, Priscilla Essandoh, Hubert Kwame Agbogli, Richard Harry Asmah",
+      "title": "Comparative evaluation of the diagnostic accuracies of four different malaria rapid diagnostic test kits available in Ghana",
+      "description": "Malaria rapid diagnostic test (mRDT) kit is one of the techniques for diagnosing malaria. Due to its inherent advantages over the microscopy technique, several brands of the kit have flooded malaria endemic countries, without prior in-country evaluation. Two \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302840",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0302840.t007&size=inline",
+      "publishedAt": "2024-05-07 14:00:00",
+      "content": "Abstract Malaria rapid diagnostic test (mRDT) kit is one of the techniques for diagnosing malaria. Due to its inherent advantages over the microscopy technique, several brands of the kit have floode\u2026 [+36280 chars]",
+      "retrievedAt": "2024-05-08 19:05:24.080421",
+      "internal_id": "f688330aafee05aff48a7ebe8d5d2d67f234849fd2a62d0487668c5849255b15",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8917,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Camila Homs se sincer\u00f3 sobre el drama que vivi\u00f3 tras contraer dengue: \u201cSent\u00eda que me iba a morir\u201d",
+      "description": "En di\u00e1logo con Socios del espect\u00e1culo (eltrece), la modelo habl\u00f3 de los duros d\u00edas que atraves\u00f3 como consecuencia de la enfermedad: \u201clloraba del dolor que estaba sintiendo\u201d, asegur\u00f3",
+      "url": "https://www.lanacion.com.ar/espectaculos/camila-homs-se-sincero-sobre-el-drama-que-vivio-tras-contraer-dengue-sentia-que-me-iba-a-morir-nid07052024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/camila-homs-hablo-del-duro-momento-que-vivio-tras-M46KC4ZLFZGHTKFVQSS4U3LMKM.png?auth=a8487e507df5fa4c0d150725be3483f0ed37179edae6d89fec65dbd8b8385f74&width=768&quality=70&smart=false",
+      "publishedAt": "2024-05-07 11:17:58",
+      "content": "El fin de semana, Camila Homs comparti\u00f3 en su perfil de Instagram el dif\u00edcil momento que atraves\u00f3 tras contraer dengue. Cu\u00eddense mucho, le recomend\u00f3 a su mill\u00f3n de seguidores. Si bien logr\u00f3 recuperar\u2026 [+2684 chars]",
+      "retrievedAt": "2024-05-08 19:05:23.574448",
+      "internal_id": "4a9f0645b6c2378d22bc0f3369d6e78e02b36de5ab515a62d388635da3ec4e61",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8912,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Pedro Spadoni",
+      "title": "Qual a diferen\u00e7a entre sintomas de dengue e gripe? Infectologista explica",
+      "description": "Apesar de dengue e gripe serem virais, h\u00e1 sintomas que as diferenciam \u2013 principalmente quando a pessoa evolui para um quadro grave; entenda O post Qual a diferen\u00e7a entre sintomas de dengue e gripe? Infectologista explica apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/05/07/medicina-e-saude/infectologista-explica-diferenca-entre-sintomas-de-dengue-e-gripe/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/05/Destaque-Homem-doente.jpg",
+      "publishedAt": "2024-05-07 10:03:00",
+      "content": "Dengue e gripe t\u00eam os mesmos sintomas at\u00e9 certo ponto. Apesar das duas doen\u00e7as serem virais, h\u00e1 sinais que as diferenciam, principalmente quando a pessoa evolui para um quadro mais grave. Por isso, \u00e9\u2026 [+3770 chars]",
+      "retrievedAt": "2024-05-08 19:05:23.503624",
+      "internal_id": "2669b6e4e764dcb32993bbf37f34e2458927a2727ddc48386a0a406a88885d81",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8921,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El riesgo de transmisi\u00f3n local de la malaria en Espa\u00f1a es \"muy bajo\", seg\u00fan un estudio",
+      "description": "Un estudio reciente coordinado por investigadores de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana (CSIC), el Centro Nacional de Epidemiolog\u00eda del Instituto de Salud Carlos III (ISCIII) y el \u00c1rea de Epidemiolog\u00eda y Salud P\u00fablica (CIBERESP) del Centro de Investigaci\u00f3n Biom\u00e9\u2026",
+      "url": "https://www.infosalus.com/actualidad/noticia-riesgo-transmision-local-malaria-espana-muy-estudio-20240507114118.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240507114118_1200.jpg",
+      "publishedAt": "2024-05-07 09:41:18",
+      "content": "MADRID, 7 May. (EUROPA PRESS) - Un estudio reciente coordinado por investigadores de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana (CSIC), el Centro Nacional de Epidemiolog\u00eda del Instituto de Salud Carlos III (\u2026 [+3010 chars]",
+      "retrievedAt": "2024-05-08 19:05:24.092527",
+      "internal_id": "443f5fa598f9400cab9d6b4ad9713e20fb4546c7c3f6d351c850f7d552e17132",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8920,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Christopher Price",
+      "title": "The harrowing tale of Patriots player Calvin Anderson\u2019s near-fatal bout with malaria",
+      "description": "\"If I were to win Comeback Player of the Year,\" said Anderson, \"it wouldn\u2019t be about me, but about how God brought me back from this.\"",
+      "url": "https://www.bostonglobe.com/2024/05/07/sports/calvin-anderson-patriots-malaria/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/5SxRR-3Ak_CW1YM8Wct74ejqLho=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/67ATDMYCXCGMHVVD6WR7CWJPXI.jpg",
+      "publishedAt": "2024-05-07 09:00:01",
+      "content": "Instead, Anderson was laid out in the emergency room at Newton-Wellesley Hospital with a 105-degree fever and 50-50 odds on whether he was going to live or die. The morning of July 22, 2023 marked t\u2026 [+17664 chars]",
+      "retrievedAt": "2024-05-08 19:05:24.084449",
+      "internal_id": "bcc08ad2054a3a495fe55aa3bc004569a569d9a3f22262f3dd40db431b21b8a3",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8915,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "13 anos ap\u00f3s morte de adolescente por dengue, TJ manda prefeituras indenizarem pai em R$ 300 mil",
+      "description": "Laudo aponta que houve falha nos atendimentos prestados a jovem de 13 anos nas redes municipais de Sumar\u00e9 (SP) e Nova Odessa (SP). Mosquito Aedes aegypti, transmissor da dengue Lucas Garriga/INaturalist O Tribunal de Justi\u00e7a de S\u00e3o Paulo (TJ-SP) determinou qu\u2026",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2024/05/07/13-anos-apos-morte-de-adolescente-por-dengue-tj-manda-prefeituras-indenizarem-pai-em-r-300-mil.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/PQC7IxwaZnGzp5xhg5vj2sDHrmU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/G/K/3M9DyLSvaef2oGV43XgA/lucas-garriga.jpeg",
+      "publishedAt": "2024-05-07 08:03:42",
+      "content": "As administra\u00e7\u00f5es municipais j\u00e1 tinham sido condenadas em primeira inst\u00e2ncia, em 21 de junho de 2023, mas o valor de indeniza\u00e7\u00e3o estipulado na ocasi\u00e3o foi de R$ 100 mil. Tanto o pai da adolescente qu\u2026 [+4002 chars]",
+      "retrievedAt": "2024-05-08 19:05:23.553767",
+      "internal_id": "bc50a22c6bc68a41a3bf317fc7f1df8ee521e72ebd6e48f342d64dac0ebc06f3",
+      "publishedAtLabel": "May 7"
+    },
     {
       "id": 8908,
       "query": [
@@ -27374,117 +27644,6 @@
       "content": "SANTA FE.- Un ni\u00f1o de seis a\u00f1os es la octava v\u00edctima mortal del dengue en lo que va del a\u00f1o en la provincia de Santa Fe. En el pa\u00eds, seg\u00fan los \u00faltimos informes epidemiol\u00f3gicos, los muertos por la enf\u2026 [+3752 chars]",
       "retrievedAt": "2024-03-26 07:06:18.992880",
       "internal_id": "f2a55d74f538e1d22364c26bee8af41c486b3c891cf8ed6d443b8bd78e70e10e",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7393,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "El mapa del dengue: ya se notificaron m\u00e1s de 200.000 casos en el pa\u00eds",
-      "description": "De esa cifra, se confirmaron m\u00e1s de 134.000 infecciones",
-      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/aedes-aegypti-el-mosquito-vector-del-virus-del-6QDYNDDYZJFKLPQ2NNJK3N2RKI.jpg?auth=a5ebe6e7fab9ffd9789d2c0e1c57750d7714ab7cf7ea62c37633f480d019bab8&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-24 16:55:59",
-      "content": "La epidemia de dengue contin\u00faa y lo hace de acuerdo con las previsiones epidemiol\u00f3gicas: la cantidad de casos notificados en el pa\u00eds super\u00f3 la barrera de los 200.000 en lo que va del a\u00f1o y las provin\u2026 [+2702 chars]",
-      "retrievedAt": "2024-03-26 07:06:19.056485",
-      "internal_id": "83953d7ef6fb011bfdda9cfe96a47a388ecd25f0e7f5246ee6823916cb1f49d2",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7380,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Dinheirama.com",
-      "author": "Ag\u00eancia Gov",
-      "title": "Entenda por que ainda \u00e9 preciso vacinar contra a Covid-19",
-      "description": "O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo\u2026 ------ Este artigo foi escrito por Ag\u00eancia Gov. Este artigo apareceu originalmente no site Dinheirama.A rep\u2026",
-      "url": "https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/",
-      "urlToImage": "https://media.dinheirama.com/medias/uploads/2024/03/20240323-vacinas.jpg",
-      "publishedAt": "2024-03-24 15:00:00",
-      "content": "1O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo Minist\u00e9rio da Sa\u00fade em janeiro no SUS, a vacin\u2026 [+4684 chars]",
-      "retrievedAt": "2024-03-25 19:05:41.952308",
-      "internal_id": "9e3149c732c50e3521f9a7a90c71be623a86ef2c4e8811025d56818d80803f4b",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7381,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Laboratorio de la Udelar en Salto colaborar\u00e1 con el MSP en diagn\u00f3stico de dengue",
-      "description": "Rodrigo Arim, rector de la universidad, anunci\u00f3 la noticia en sus redes sociales y destac\u00f3 \u201cla calidad al servicio del Uruguay\u201d.",
-      "url": "https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202209/_W933_80/818330.jpg",
-      "publishedAt": "2024-03-24 12:50:00",
-      "content": "Montevideo Portal El laboratorio de Virolog\u00eda Molecular de la Universidad de la Rep\u00fablica (Udelar) en Salto realizar\u00e1 diagn\u00f3sticos de dengue en el norte del pa\u00eds, seg\u00fan inform\u00f3 el rector de la unive\u2026 [+767 chars]",
-      "retrievedAt": "2024-03-25 19:05:42.171646",
-      "internal_id": "a0f32d00907d4cd18fb6a874c8ad828f7b07e04241d40cfb0c466fed3247c2f2",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7384,
-      "query": [
-        "zika",
-        "chikungunya",
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Mobilidaderio.com.br",
-      "author": "Mobilidade Rio",
-      "title": "Cientistas desenvolvem armadilha para combater o mosquito da dengue",
-      "description": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chikungunya e febre amarela urbana. Batizado de MataAedes, o pro\u2026",
-      "url": "https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/",
-      "urlToImage": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "publishedAt": "2024-03-24 12:14:55",
-      "content": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chik\u2026 [+2141 chars]",
-      "retrievedAt": "2024-03-25 19:05:43.094537",
-      "internal_id": "2a0a1c670c7bf57f488758ecf8356255d3267e8f075aa3b17e9048270bbf33ca",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7383,
-      "query": [
-        "zika",
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "France's battle against tiger mosquitoes threatening 2024 Paris Olympics",
-      "description": "France is facing a challenge in ensuring the 2024 Paris Olympics are free from mosquito-borne diseases. Asian tiger mosquitoes, carriers of diseases like dengue and zika, pose a threat to millions of fans and athletes. Despite efforts to eradicate them, inclu\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-108748291,width-1200,height-630,imgsize-347784,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-03-24 09:12:00",
-      "content": "France is facing a challenging task to ensure that the upcoming 2024 Paris Olympics remain free from the threat of mosquito-borne diseases. The Asian tiger mosquito, known for spreading viruses like \u2026 [+2590 chars]",
-      "retrievedAt": "2024-03-25 19:05:43.075284",
-      "internal_id": "3537c26a8ee10134790b28359458aaa828c7f83e33c9d4f29a3685b3cfc47008",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7382,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Marina Semensato, Marina Semensato",
-      "title": "Dengue: desigualdade social e mudan\u00e7as clim\u00e1ticas colaboram para surto",
-      "description": "Aumento na incid\u00eancia de casos tem denunciado o impacto do racismo ambiental e das mudan\u00e7as clim\u00e1ticas no Brasil",
-      "url": "https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6d/6y/ft/6d6yfteqtvzc9enme97vjfmlv.jpg",
-      "publishedAt": "2024-03-24 09:00:00",
-      "content": "Nesta quinta-feira (22), o Minist\u00e9rio da Sa\u00fade informou que o Brasil superou a marca de 2 milh\u00f5es de casos de dengue em 2024. De acordo com a pasta, s\u00e3o 2.010.896 casos prov\u00e1veis da doen\u00e7a, com 682\u2026 [+5528 chars]",
-      "retrievedAt": "2024-03-25 19:05:42.192075",
-      "internal_id": "45743fbd38e9bb965d84cc83fd8f053a577aa793dd101c4ab9ee48bd12712da4",
       "publishedAtLabel": "Mar 24"
     }
   ]
