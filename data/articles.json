@@ -1,8 +1,134 @@
 {
-  "last_updated": "2024-05-07 19:05",
-  "count_articles_total": 1509,
-  "count_articles_new": 9,
+  "last_updated": "2024-05-08 07:06",
+  "count_articles_total": 1522,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 8908,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": null,
+      "title": "Nieuwe variant van apenpokken ontdekt in mijnstad in Congo",
+      "description": "In Congo is een nieuwe variant van het mpox-virus ontdekt, beter bekend als de apenpokken. Dat melden onderzoekers van het Congolees Nationaal Instituut voor Biomedisch Onderzoek (INRB) en het Instituut voor Tropische Geneeskunde (ITG). De nieuwe variant word\u2026",
+      "url": "https://www.vrt.be/vrtnws/nl/2024/05/06/uitbraak-van-nieuwe-variant-van-apenpokken-in-congolese-mijnstad/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/05/06/f6615a3a-0ba1-11ef-8fc9-02b7b76bf47f.jpg",
+      "publishedAt": "2024-05-07 06:58:00",
+      "content": "In 5 maanden tijd verspreidde de nieuwe variant van de apenpokken zich razendsnel in Kamituga, een mijnstad in het oosten van de Democratische Republiek Congo. In oktober 2023 werden daar de eerste g\u2026 [+440 chars]",
+      "retrievedAt": "2024-05-08 07:06:42.065236",
+      "internal_id": "5593b11dfe5469a8cc1d64a4b1c31c8f0c74c6f218c69c4b55d68d6b9d9690f0",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8909,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Belga Belga",
+      "title": "Variole du singe: des chercheurs belges et congolais d\u00e9couvrent un nouveau variant en RDC",
+      "description": "Des chercheurs de l'Institut de m\u00e9decine tropicale d'Anvers et de l'Institut national de recherche biom\u00e9dicale de Kinshasa ont d\u00e9couvert une mutation du virus de la variole du singe (Mpox), selon une \u00e9tude en pr\u00e9publication qui n'a pas encore fait l'objet d'u\u2026",
+      "url": "https://www.lavenir.net/actu/monde/2024/05/07/variole-du-singe-des-chercheurs-belges-et-congolais-decouvrent-un-nouveau-variant-en-rdc-VV3J3LSEDFE6BA6LSA6RE3STEA/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/6QR2GXHI2BEFTCXSN2AQIQE2SI.jpg?auth=7e71427f88c76899f2474d3aba5b889fed2a80729b945482a9548c055b89d1fe&width=1200&height=630&quality=85&focal=1250%2C831&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2024-05-07 05:33:13",
+      "content": "En 2022, un variant du virus de la variole du singe avait provoqu\u00e9 une \u00e9pid\u00e9mie qui s'\u00e9tait propag\u00e9e dans plusieurs pays dans le monde et notamment en Belgique. Les contaminations avaient toutefois n\u2026 [+1059 chars]",
+      "retrievedAt": "2024-05-08 07:06:42.070025",
+      "internal_id": "190ecea1a1ed40dc58dcc6f6c178ce95bbe171e834f148018c6ab9b5726c174a",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8907,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Un estudio ofrece la primera vista panor\u00e1mica de las v\u00edas de infecci\u00f3n en la placenta humana",
+      "description": "Se ha creado la primera vista panor\u00e1mica de las v\u00edas de infecci\u00f3n en la placenta humana, que podr\u00eda resaltar posibles objetivos farmacol\u00f3gicos para desarrollar terapias seguras durante el embarazo para la malaria, la toxoplasmosis y la listeria, todas enferme\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-estudio-ofrece-primera-vista-panoramica-vias-infeccion-placenta-humana-20240507070050.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240507070050_1200.jpg",
+      "publishedAt": "2024-05-07 05:00:50",
+      "content": "MADRID, 7 May. (EUROPA PRESS) - Se ha creado la primera vista panor\u00e1mica de las v\u00edas de infecci\u00f3n en la placenta humana, que podr\u00eda resaltar posibles objetivos farmacol\u00f3gicos para desarrollar tera\u2026 [+6040 chars]",
+      "retrievedAt": "2024-05-08 07:06:41.548462",
+      "internal_id": "5407b6c18c03f5aaf93c0c10eb3b02a7b8463c9fd1325dc49bccce9fc2e8f61f",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8906,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Detik.com",
+      "author": "Nafilah Sri Sagita K",
+      "title": "Kemenkes RI Singgung Perubahan Gejala DBD, Inikah Pemicunya?",
+      "description": "Kasus DBD masih 'ngegas', gejala pada pasien disebut mengalami perubahan terutama pada kelompok berikut. Apa sih memang pemicunya?",
+      "url": "https://health.detik.com/berita-detikhealth/d-7328225/kemenkes-ri-singgung-perubahan-gejala-dbd-inikah-pemicunya",
+      "urlToImage": "https://awsimages.detik.net.id/api/wm/2024/04/18/kasus-dbd-naik-drastis-fogging-digencarkan-3_169.jpeg?wid=54&w=650&v=1&t=jpeg",
+      "publishedAt": "2024-05-07 00:03:24",
+      "content": "Jakarta - Gejala demam berdarah dengue (DBD) belakangan disebut mengalami perubahan. Direktur Pencegahan dan Pengendalian Penyakit Menular Imran Pambudi menyebut hal ini berkaitan dengan reaksi imuno\u2026 [+2613 chars]",
+      "retrievedAt": "2024-05-08 07:06:41.006067",
+      "internal_id": "281d69306a84a52ffaa186ce2367d04b7341bbc296f16999f74d059abc3613de",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8904,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Tobias Browne",
+      "title": "Un brote hist\u00f3rico de dengue deja a Argentina sin repelentes",
+      "description": "Argentina est\u00e1 atravesando la peor crisis epidemiol\u00f3gica de dengue de toda su historia y la cantidad de casos y fallecidos superan todo tipo de r\u00e9cord en comparaci\u00f3n con a\u00f1os...",
+      "url": "https://www.elmundo.es/internacional/2024/05/07/6630f462e9cf4a37568b45bb.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/6c51dd0a6bd6e9379d56bbc03b1f1a4d/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2024/04/30/17144838362026.jpg",
+      "publishedAt": "2024-05-06 22:01:22",
+      "content": "Argentina est\u00e1 atravesando la peor crisis epidemiol\u00f3gica de dengue de toda su historia y la cantidad de casos y fallecidos superan todo tipo de r\u00e9cord en comparaci\u00f3n con a\u00f1os anteriores. Como consecu\u2026 [+378 chars]",
+      "retrievedAt": "2024-05-08 07:06:40.955950",
+      "internal_id": "bd40b71c25106735663f914768a5d4cd771c541bdb37df7336045d2ccef5e857",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8903,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Daniel Lozano",
+      "title": "Dengue, la nueva plaga que golpea Am\u00e9rica Latina",
+      "description": "Violencia, inseguridad, corrupci\u00f3n, narcotr\u00e1fico, pobreza, populismos y, por si fueran pocas, el dengue. Como las plagas b\u00edblicas de Egipto, otra m\u00e1s se ha desplegado por la...",
+      "url": "https://www.elmundo.es/internacional/2024/05/06/6638d972fdddff266c8b4599.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/4dba7d660b0df19873431209307f9f3b/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2024/05/06/17150044289412.jpg",
+      "publishedAt": "2024-05-06 20:47:13",
+      "content": "Violencia, inseguridad, corrupci\u00f3n, narcotr\u00e1fico, pobreza, populismos y, por si fueran pocas, el dengue. Como las plagas b\u00edblicas de Egipto, otra m\u00e1s se ha desplegado por la regi\u00f3n con tal repercusi\u00f3\u2026 [+378 chars]",
+      "retrievedAt": "2024-05-08 07:06:40.935045",
+      "internal_id": "6beb016edd07e0af2ae5258aa36b4537037efc5c4d6bb320f2e9e97a378ad11d",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8905,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Cristina G. Lucio",
+      "title": "Dengue, los riesgos de un pat\u00f3geno emergente en Europa: \"El cambio clim\u00e1tico est\u00e1 dando alas al virus\"",
+      "description": "El dengue es uno de los virus a los que el cambio clim\u00e1tico est\u00e1 aupando. Los expertos siguen la evoluci\u00f3n de las infecciones en zonas hasta hace poco libres de la enfermedad, como Espa\u00f1a Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/05/06/6638bc5efdddffc1728b4597.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/d5fddb6f61bfebf639ec9406bf0c3cc4/resize/1200/f/webp/assets/multimedia/imagenes/2024/05/06/17149946819905.jpg",
+      "publishedAt": "2024-05-06 20:46:56",
+      "content": "En la lista de los llamados virus emergentes, pat\u00f3genos que en las \u00faltimas d\u00e9cadas no han dejado de crecer en n\u00famero y extensi\u00f3n geogr\u00e1fica, el dengue ocupa un lugar destacado. Seg\u00fan datos de la Or\u2026 [+380 chars]",
+      "retrievedAt": "2024-05-08 07:06:40.960880",
+      "internal_id": "ebc4e4b42e7e3b1c78e93a5a5ea4358f8a6033acf7e681a5b5ddf60dc3793f5b",
+      "publishedAtLabel": "May 6"
+    },
     {
       "id": 8898,
       "query": [
@@ -27248,6 +27374,117 @@
       "content": "SANTA FE.- Un ni\u00f1o de seis a\u00f1os es la octava v\u00edctima mortal del dengue en lo que va del a\u00f1o en la provincia de Santa Fe. En el pa\u00eds, seg\u00fan los \u00faltimos informes epidemiol\u00f3gicos, los muertos por la enf\u2026 [+3752 chars]",
       "retrievedAt": "2024-03-26 07:06:18.992880",
       "internal_id": "f2a55d74f538e1d22364c26bee8af41c486b3c891cf8ed6d443b8bd78e70e10e",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El mapa del dengue: ya se notificaron m\u00e1s de 200.000 casos en el pa\u00eds",
+      "description": "De esa cifra, se confirmaron m\u00e1s de 134.000 infecciones",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/aedes-aegypti-el-mosquito-vector-del-virus-del-6QDYNDDYZJFKLPQ2NNJK3N2RKI.jpg?auth=a5ebe6e7fab9ffd9789d2c0e1c57750d7714ab7cf7ea62c37633f480d019bab8&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-24 16:55:59",
+      "content": "La epidemia de dengue contin\u00faa y lo hace de acuerdo con las previsiones epidemiol\u00f3gicas: la cantidad de casos notificados en el pa\u00eds super\u00f3 la barrera de los 200.000 en lo que va del a\u00f1o y las provin\u2026 [+2702 chars]",
+      "retrievedAt": "2024-03-26 07:06:19.056485",
+      "internal_id": "83953d7ef6fb011bfdda9cfe96a47a388ecd25f0e7f5246ee6823916cb1f49d2",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7380,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dinheirama.com",
+      "author": "Ag\u00eancia Gov",
+      "title": "Entenda por que ainda \u00e9 preciso vacinar contra a Covid-19",
+      "description": "O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo\u2026 ------ Este artigo foi escrito por Ag\u00eancia Gov. Este artigo apareceu originalmente no site Dinheirama.A rep\u2026",
+      "url": "https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/",
+      "urlToImage": "https://media.dinheirama.com/medias/uploads/2024/03/20240323-vacinas.jpg",
+      "publishedAt": "2024-03-24 15:00:00",
+      "content": "1O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo Minist\u00e9rio da Sa\u00fade em janeiro no SUS, a vacin\u2026 [+4684 chars]",
+      "retrievedAt": "2024-03-25 19:05:41.952308",
+      "internal_id": "9e3149c732c50e3521f9a7a90c71be623a86ef2c4e8811025d56818d80803f4b",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7381,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Laboratorio de la Udelar en Salto colaborar\u00e1 con el MSP en diagn\u00f3stico de dengue",
+      "description": "Rodrigo Arim, rector de la universidad, anunci\u00f3 la noticia en sus redes sociales y destac\u00f3 \u201cla calidad al servicio del Uruguay\u201d.",
+      "url": "https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202209/_W933_80/818330.jpg",
+      "publishedAt": "2024-03-24 12:50:00",
+      "content": "Montevideo Portal El laboratorio de Virolog\u00eda Molecular de la Universidad de la Rep\u00fablica (Udelar) en Salto realizar\u00e1 diagn\u00f3sticos de dengue en el norte del pa\u00eds, seg\u00fan inform\u00f3 el rector de la unive\u2026 [+767 chars]",
+      "retrievedAt": "2024-03-25 19:05:42.171646",
+      "internal_id": "a0f32d00907d4cd18fb6a874c8ad828f7b07e04241d40cfb0c466fed3247c2f2",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7384,
+      "query": [
+        "zika",
+        "chikungunya",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mobilidaderio.com.br",
+      "author": "Mobilidade Rio",
+      "title": "Cientistas desenvolvem armadilha para combater o mosquito da dengue",
+      "description": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chikungunya e febre amarela urbana. Batizado de MataAedes, o pro\u2026",
+      "url": "https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/",
+      "urlToImage": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "publishedAt": "2024-03-24 12:14:55",
+      "content": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chik\u2026 [+2141 chars]",
+      "retrievedAt": "2024-03-25 19:05:43.094537",
+      "internal_id": "2a0a1c670c7bf57f488758ecf8356255d3267e8f075aa3b17e9048270bbf33ca",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7383,
+      "query": [
+        "zika",
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "France's battle against tiger mosquitoes threatening 2024 Paris Olympics",
+      "description": "France is facing a challenge in ensuring the 2024 Paris Olympics are free from mosquito-borne diseases. Asian tiger mosquitoes, carriers of diseases like dengue and zika, pose a threat to millions of fans and athletes. Despite efforts to eradicate them, inclu\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108748291,width-1200,height-630,imgsize-347784,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-24 09:12:00",
+      "content": "France is facing a challenging task to ensure that the upcoming 2024 Paris Olympics remain free from the threat of mosquito-borne diseases. The Asian tiger mosquito, known for spreading viruses like \u2026 [+2590 chars]",
+      "retrievedAt": "2024-03-25 19:05:43.075284",
+      "internal_id": "3537c26a8ee10134790b28359458aaa828c7f83e33c9d4f29a3685b3cfc47008",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7382,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "Dengue: desigualdade social e mudan\u00e7as clim\u00e1ticas colaboram para surto",
+      "description": "Aumento na incid\u00eancia de casos tem denunciado o impacto do racismo ambiental e das mudan\u00e7as clim\u00e1ticas no Brasil",
+      "url": "https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6d/6y/ft/6d6yfteqtvzc9enme97vjfmlv.jpg",
+      "publishedAt": "2024-03-24 09:00:00",
+      "content": "Nesta quinta-feira (22), o Minist\u00e9rio da Sa\u00fade informou que o Brasil superou a marca de 2 milh\u00f5es de casos de dengue em 2024. De acordo com a pasta, s\u00e3o 2.010.896 casos prov\u00e1veis da doen\u00e7a, com 682\u2026 [+5528 chars]",
+      "retrievedAt": "2024-03-25 19:05:42.192075",
+      "internal_id": "45743fbd38e9bb965d84cc83fd8f053a577aa793dd101c4ab9ee48bd12712da4",
       "publishedAtLabel": "Mar 24"
     }
   ]
