@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2024-05-08 19:05
-- **Most recent article:** 2024-05-07 16:45:35
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-05-09 07:05
+- **Most recent article:** 2024-05-08 02:58:23
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 179 | 158 | 138 | 113 | 117 | 77 | 25 | 807 |
+| dengue | 185 | 158 | 138 | 113 | 117 | 77 | 30 | 818 |
 | measles | 44 | 36 | 43 | 40 | 28 | 24 | 1 | 216 |
 | malaria | 7 | 13 | 16 | 29 | 77 | 25 | 10 | 177 |
 | meningitis | 16 | 4 | 15 | 44 | 5 | 3 | 1 | 88 |
 | mpox | 6 | 12 | 3 | 13 | 8 | 36 | 2 | 80 |
-| zika | 19 | 11 | 10 | 8 | 3 | 8 | 1 | 60 |
-| chikungunya | 8 | 12 | 7 | 5 | 5 | 7 | 1 | 45 |
+| zika | 21 | 11 | 10 | 8 | 3 | 8 | 1 | 62 |
+| chikungunya | 9 | 12 | 7 | 5 | 5 | 7 | 1 | 46 |
 | rabies | 3 | 16 | 8 | 3 | 3 | 4 | 2 | 39 |
 | sarampión | 3 | 5 | 13 | 0 | 10 | 8 | 0 | 39 |
 | pertussis | 6 | 7 | 9 | 7 | 5 | 2 | 1 | 37 |
+| leptospirosis | 0 | 1 | 3 | 3 | 3 | 2 | 1 | 13 |
 | yersinia | 1 | 3 | 0 | 2 | 0 | 5 | 1 | 12 |
-| leptospirosis | 0 | 1 | 3 | 3 | 3 | 2 | 0 | 12 |
-| typhoid | 1 | 0 | 0 | 2 | 0 | 0 | 1 | 4 |
+| typhoid | 1 | 0 | 0 | 2 | 0 | 0 | 2 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -40,6 +40,8 @@ Source: [News API](https://newsapi.org/)
 - [Yersinia ruckeri Infection and Enteric Redmouth Disease among Endangered Chinese Sturgeons, China, 2022](https://wwwnc.cdc.gov/eid/article/30/6/23-1354_article) (Cdc.gov)
 
 ## 24-19 (typhoid)
+
+- [The establishment told her she was wrong – then stole her findings](https://www.thepassivevoice.com/the-establishment-told-her-she-was-wrong-then-stole-her-findings/) (Thepassivevoice.com)
 
 - [Typhoid Rosie: "Cover It Up (Fuck You I’m So Beautiful)”](https://www.punknews.org/article/82756/typhoid-rosie-cover-it-up-fuck-you-im-so-beautiful) (Punknews.org)
 
@@ -89,7 +91,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
 
+## 24-19 (leptospirosis)
+
+- [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
+
 ## 24-19 (dengue)
+
+- [Maioria das UFs já vê queda em casos de dengue, mas nova epidemia é esperada para este ano](https://www.terra.com.br/vida-e-estilo/saude/maioria-das-ufs-ja-ve-queda-em-casos-de-dengue-mas-nova-epidemia-e-esperada-para-este-ano,76af41e13001459376f107bef89eba95z7nfyuoc.html) (Terra.com.br)
+
+- [Dengue: número de mortes sobe e vai a 323 no DF em 2024](https://www.metropoles.com/distrito-federal/dengue-numero-de-mortes-sobe-e-vai-a-323-no-df-em-2024) (Metropoles.com)
+
+- [Curso de Capacitação em Arboviroses](https://cursoseducaweb.com.br/curso-de-capacitacao-em-arboviroses) (Cursoseducaweb.com.br)
+
+- [Confirmaron la enfermedad que tiene Jamaica, la hija de L-Gante y Tamara Báez: "Sigue internada"](https://exitoina.perfil.com/noticias/destacada/confirmaron-enfermedad-tiene-jamaica-hija-l-gante-tamara-baez-sigue-internada.phtml) (Perfil.com)
+
+- [Maioria dos estados registra tendência de queda de casos de dengue](https://www.metropoles.com/brasil/dengue-maioria-dos-estados-brasileiros-tem-tendencia-de-queda) (Metropoles.com)
 
 - [Un caso 'accertato' di Dengue segnalato a Perugia](https://www.ansa.it/umbria/notizie/2024/05/07/un-caso-accertato-di-dengue-segnalato-a-perugia_877516bf-b0f1-426a-a828-e0ea4970c732.html) (ANSA.it)
 
@@ -2855,6 +2871,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://www.terra.com.br/vida-e-estilo/saude/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue,b9995ffbba358b40bd28daa79300bf334maktznz.html) (Terra.com.br)
 
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
+
+- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
+
 ## 24-13 (yersinia)
 
 - [A novel sORF gene mutant strain of Yersinia pestis vaccine EV76 offers enhanced safety and improved protection against plague](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012129) (Plos.org)
@@ -3407,6 +3427,18 @@ Source: [News API](https://newsapi.org/)
 
 - [Santa Fe: reportaron la muerte de un chico de seis años por dengue](https://www.lanacion.com.ar/sociedad/santa-fe-reportaron-la-muerte-de-un-chico-de-seis-anos-por-dengue-nid24032024/) (La Nacion)
 
+- [El mapa del dengue: ya se notificaron más de 200.000 casos en el país](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/) (La Nacion)
+
+- [Entenda por que ainda é preciso vacinar contra a Covid-19](https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/) (Dinheirama.com)
+
+- [Laboratorio de la Udelar en Salto colaborará con el MSP en diagnóstico de dengue](https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462) (Montevideo.com.uy)
+
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
+
+- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
+
+- [Dengue: desigualdade social e mudanças climáticas colaboram para surto](https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html) (Ig.com.br)
+
 ## 24-13 (chikungunya)
 
 - [¿Qué es el dengue y cómo tratarlo?](https://cnnespanol.cnn.com/2024/03/28/que-es-dengue-como-tratarlo-orix/) (CNN)
@@ -3424,3 +3456,5 @@ Source: [News API](https://newsapi.org/)
 - [Com mais 40 mortes, DF chega a 188 óbitos por dengue em 2024](https://www.metropoles.com/distrito-federal/com-mais-40-mortes-df-chega-a-188-obitos-por-dengue-em-2024) (Metropoles.com)
 
 - [El ECDC notifica más de 70.000 casos y 15 muertes por chikungunya en todo el mundo](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-70000-casos-15-muertes-chikungunya-todo-mundo-20240325170006.html) (Infosalus.com)
+
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)

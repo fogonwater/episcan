@@ -1,8 +1,134 @@
 {
-  "last_updated": "2024-05-08 19:05",
-  "count_articles_total": 1531,
-  "count_articles_new": 15,
+  "last_updated": "2024-05-09 07:05",
+  "count_articles_total": 1544,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 8930,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Thepassivevoice.com",
+      "author": "PG",
+      "title": "The establishment told her she was wrong \u2013 then stole her findings",
+      "description": "From History Today: In December 1871 the Prince of Wales lay dangerously ill with typhoid, the disease that had killed his father. Taking advantage of modern technology, the Archbishop of Canterbury despatched telegraph messages around the country ordering sp\u2026",
+      "url": "https://www.thepassivevoice.com/the-establishment-told-her-she-was-wrong-then-stole-her-findings/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-08 02:58:23",
+      "content": "From History Today: In December 1871 the Prince of Wales lay dangerously ill with typhoid, the disease that had killed his father. Taking advantage of modern technology, the Archbishop of Canterbury\u2026 [+9161 chars]",
+      "retrievedAt": "2024-05-09 07:05:56.758826",
+      "internal_id": "178f783545566fa2eeb9697bc784a02a2c0c89f1046abfd3effeeb4aa1b8806a",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8928,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Maioria das UFs j\u00e1 v\u00ea queda em casos de dengue, mas nova epidemia \u00e9 esperada para este ano",
+      "description": "Para secret\u00e1ria do Minist\u00e9rio da Sa\u00fade, mudan\u00e7as clim\u00e1ticas devem antecipar para este ano temporada de dengue de 2025; n\u00famero de casos deste ano j\u00e1 supera a pior previs\u00e3o",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/maioria-das-ufs-ja-ve-queda-em-casos-de-dengue-mas-nova-epidemia-e-esperada-para-este-ano,76af41e13001459376f107bef89eba95z7nfyuoc.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-05-07 23:28:56",
+      "content": "O Minist\u00e9rio da Sa\u00fade informou nesta ter\u00e7a-feira, 7, que a maioria dos Estados brasileiros j\u00e1 passou pelo pico da dengue neste ano, mas alertou que a pr\u00f3xima temporada de transmiss\u00e3o da doen\u00e7a pode v\u2026 [+4116 chars]",
+      "retrievedAt": "2024-05-09 07:05:54.269372",
+      "internal_id": "c58832f41eae5dba53fad477628830a155923b0628b6795b43f765dfedcea9fe",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8931,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Olivia Cook",
+      "title": "Leptospirosis Cases Surge to Highest Level in New York City",
+      "description": "New York City's (NYC) Department of Health and Mental Hygiene has warned about the spread of leptospirosis, or \"rat urine disease,\" in the city. The department noted in its 2024 Health Advisory #10 that six cases of leptospirosis have already been reported th\u2026",
+      "url": "https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2018/10/rat-e1538574029384.jpg",
+      "publishedAt": "2024-05-07 22:30:21",
+      "content": "This article was originally published by Olivia Cook at Natural News. New York City\u2019s (NYC) Department of Health and Mental Hygiene has warned about the spread of leptospirosis, or \u201crat urine disea\u2026 [+5063 chars]",
+      "retrievedAt": "2024-05-09 07:05:57.237638",
+      "internal_id": "2c96b69759f2e103037738d803e5aa7ff07b45f473f7ebd1d7e82820a7d7a632",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8927,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Dengue: n\u00famero de mortes sobe e vai a 323 no DF em 2024",
+      "description": "Em m\u00e9dia, foram duas mortes por dia causadas pela dengue em 2024 no DF. Dados do Minist\u00e9rio da Sa\u00fade foram atualizados nesta 3\u00aa",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-numero-de-mortes-sobe-e-vai-a-323-no-df-em-2024",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/15183518/Movimentac%CC%A7a%CC%83o-de-pacientes-no-Hospital-de-Campanha-da-Forc%CC%A7a-Ae%CC%81rea-Brasileira-montado-para-combate-a-dengue-ao-lado-da-UPA-1-de-Ceila%CC%82ndia-11.jpg",
+      "publishedAt": "2024-05-07 22:11:10",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2696 chars]",
+      "retrievedAt": "2024-05-09 07:05:54.255697",
+      "internal_id": "4145242c4d0928be55207164cfc2fb52b6d9156be076d68b9476bf9bb210390b",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8925,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cursoseducaweb.com.br",
+      "author": "EducaWeb",
+      "title": "Curso de Capacita\u00e7\u00e3o em Arboviroses",
+      "description": "O curso de Capacita\u00e7\u00e3o em Arboviroses da EducaWeb \u00e9 indicado ideal para profissionais da sa\u00fade, como agentes comunit\u00e1rios de sa\u00fade, agentes de endemias ou qualquer pessoa interessada em entender mais sobre as doen\u00e7as transmitidas por artr\u00f3podes, como a dengue\u2026",
+      "url": "https://cursoseducaweb.com.br/curso-de-capacitacao-em-arboviroses",
+      "urlToImage": "https://cursoseducaweb.com.br/images/cursos/curso-de-capacitacao-em-arboviroses.jpg",
+      "publishedAt": "2024-05-07 21:22:35",
+      "content": "Ap\u00f3s concluir o curso voc\u00ea poder\u00e1 emitir na mesma hora seu certificado de conclus\u00e3o e utiliz\u00e1-los para diversos fins, como: horas complementares na faculdade, prova de t\u00edtulos e enriquecer seu curr\u2026 [+1230 chars]",
+      "retrievedAt": "2024-05-09 07:05:54.232408",
+      "internal_id": "eee91156e2ae7bd6b631116a388978344a71ac64747cfbfd8deb6ed9705caec6",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8929,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Rocio Limeres",
+      "title": "Confirmaron la enfermedad que tiene Jamaica, la hija de L-Gante y Tamara B\u00e1ez: \"Sigue internada\"",
+      "description": "La peque\u00f1a de casi tres a\u00f1os tiene dengue y est\u00e1 en el Hospital Garrahan bajo los correspondientes cuidados m\u00e9dicos. Leer m\u00e1s",
+      "url": "https://exitoina.perfil.com/noticias/destacada/confirmaron-enfermedad-tiene-jamaica-hija-l-gante-tamara-baez-sigue-internada.phtml",
+      "urlToImage": "https://fotos.perfil.com/2024/05/07/trim/1140/641/l-gante-y-tamara-baez-junto-a-su-hija-jamaica-1798008.jpg",
+      "publishedAt": "2024-05-07 21:08:31",
+      "content": "La hija de L-Gante y Tamara B\u00e1ez, Jamaica, fue internada durante el fin de semana y gener\u00f3 preocupaci\u00f3n. Tras la incertidumbre, finalmente se conoci\u00f3 el diagn\u00f3stico de la peque\u00f1a. El periodista Mat\u00ed\u2026 [+1617 chars]",
+      "retrievedAt": "2024-05-09 07:05:54.283835",
+      "internal_id": "7af378ce16fabec8521ff1bd7fa4eb8474fa19a0a58a2a9088664cf2d22c27e1",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8926,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luana Viana",
+      "title": "Maioria dos estados registra tend\u00eancia de queda de casos de dengue",
+      "description": "Ao todo 22 estados e o Distrito Federal apresentam tend\u00eancia de queda nos casos de dengue. Apenas o Mato Grosso apresenta alta",
+      "url": "https://www.metropoles.com/brasil/dengue-maioria-dos-estados-brasileiros-tem-tendencia-de-queda",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/05/07174040/foto-ethel-MS.jpg",
+      "publishedAt": "2024-05-07 21:02:14",
+      "content": "A secret\u00e1ria de Vigil\u00e2ncia e Sa\u00fade do Minist\u00e9rio da Sa\u00fade (MS), Ethel Maciel, afirmou em coletiva de imprensa, nesta ter\u00e7a-feira (7/4), que \u201c22 estados brasileiros est\u00e3o com tend\u00eancia de queda nos ca\u2026 [+2392 chars]",
+      "retrievedAt": "2024-05-09 07:05:54.248364",
+      "internal_id": "4314813bb422c941cf2a2ea96c4895fcc8a66ecc212733f3dab7a79e8fa17a79",
+      "publishedAtLabel": "May 7"
+    },
     {
       "id": 8910,
       "query": [
@@ -27644,6 +27770,117 @@
       "content": "SANTA FE.- Un ni\u00f1o de seis a\u00f1os es la octava v\u00edctima mortal del dengue en lo que va del a\u00f1o en la provincia de Santa Fe. En el pa\u00eds, seg\u00fan los \u00faltimos informes epidemiol\u00f3gicos, los muertos por la enf\u2026 [+3752 chars]",
       "retrievedAt": "2024-03-26 07:06:18.992880",
       "internal_id": "f2a55d74f538e1d22364c26bee8af41c486b3c891cf8ed6d443b8bd78e70e10e",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El mapa del dengue: ya se notificaron m\u00e1s de 200.000 casos en el pa\u00eds",
+      "description": "De esa cifra, se confirmaron m\u00e1s de 134.000 infecciones",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/aedes-aegypti-el-mosquito-vector-del-virus-del-6QDYNDDYZJFKLPQ2NNJK3N2RKI.jpg?auth=a5ebe6e7fab9ffd9789d2c0e1c57750d7714ab7cf7ea62c37633f480d019bab8&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-24 16:55:59",
+      "content": "La epidemia de dengue contin\u00faa y lo hace de acuerdo con las previsiones epidemiol\u00f3gicas: la cantidad de casos notificados en el pa\u00eds super\u00f3 la barrera de los 200.000 en lo que va del a\u00f1o y las provin\u2026 [+2702 chars]",
+      "retrievedAt": "2024-03-26 07:06:19.056485",
+      "internal_id": "83953d7ef6fb011bfdda9cfe96a47a388ecd25f0e7f5246ee6823916cb1f49d2",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7380,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dinheirama.com",
+      "author": "Ag\u00eancia Gov",
+      "title": "Entenda por que ainda \u00e9 preciso vacinar contra a Covid-19",
+      "description": "O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo\u2026 ------ Este artigo foi escrito por Ag\u00eancia Gov. Este artigo apareceu originalmente no site Dinheirama.A rep\u2026",
+      "url": "https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/",
+      "urlToImage": "https://media.dinheirama.com/medias/uploads/2024/03/20240323-vacinas.jpg",
+      "publishedAt": "2024-03-24 15:00:00",
+      "content": "1O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo Minist\u00e9rio da Sa\u00fade em janeiro no SUS, a vacin\u2026 [+4684 chars]",
+      "retrievedAt": "2024-03-25 19:05:41.952308",
+      "internal_id": "9e3149c732c50e3521f9a7a90c71be623a86ef2c4e8811025d56818d80803f4b",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7381,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Laboratorio de la Udelar en Salto colaborar\u00e1 con el MSP en diagn\u00f3stico de dengue",
+      "description": "Rodrigo Arim, rector de la universidad, anunci\u00f3 la noticia en sus redes sociales y destac\u00f3 \u201cla calidad al servicio del Uruguay\u201d.",
+      "url": "https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202209/_W933_80/818330.jpg",
+      "publishedAt": "2024-03-24 12:50:00",
+      "content": "Montevideo Portal El laboratorio de Virolog\u00eda Molecular de la Universidad de la Rep\u00fablica (Udelar) en Salto realizar\u00e1 diagn\u00f3sticos de dengue en el norte del pa\u00eds, seg\u00fan inform\u00f3 el rector de la unive\u2026 [+767 chars]",
+      "retrievedAt": "2024-03-25 19:05:42.171646",
+      "internal_id": "a0f32d00907d4cd18fb6a874c8ad828f7b07e04241d40cfb0c466fed3247c2f2",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7384,
+      "query": [
+        "zika",
+        "chikungunya",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mobilidaderio.com.br",
+      "author": "Mobilidade Rio",
+      "title": "Cientistas desenvolvem armadilha para combater o mosquito da dengue",
+      "description": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chikungunya e febre amarela urbana. Batizado de MataAedes, o pro\u2026",
+      "url": "https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/",
+      "urlToImage": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "publishedAt": "2024-03-24 12:14:55",
+      "content": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chik\u2026 [+2141 chars]",
+      "retrievedAt": "2024-03-25 19:05:43.094537",
+      "internal_id": "2a0a1c670c7bf57f488758ecf8356255d3267e8f075aa3b17e9048270bbf33ca",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7383,
+      "query": [
+        "zika",
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "France's battle against tiger mosquitoes threatening 2024 Paris Olympics",
+      "description": "France is facing a challenge in ensuring the 2024 Paris Olympics are free from mosquito-borne diseases. Asian tiger mosquitoes, carriers of diseases like dengue and zika, pose a threat to millions of fans and athletes. Despite efforts to eradicate them, inclu\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108748291,width-1200,height-630,imgsize-347784,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-24 09:12:00",
+      "content": "France is facing a challenging task to ensure that the upcoming 2024 Paris Olympics remain free from the threat of mosquito-borne diseases. The Asian tiger mosquito, known for spreading viruses like \u2026 [+2590 chars]",
+      "retrievedAt": "2024-03-25 19:05:43.075284",
+      "internal_id": "3537c26a8ee10134790b28359458aaa828c7f83e33c9d4f29a3685b3cfc47008",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7382,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "Dengue: desigualdade social e mudan\u00e7as clim\u00e1ticas colaboram para surto",
+      "description": "Aumento na incid\u00eancia de casos tem denunciado o impacto do racismo ambiental e das mudan\u00e7as clim\u00e1ticas no Brasil",
+      "url": "https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6d/6y/ft/6d6yfteqtvzc9enme97vjfmlv.jpg",
+      "publishedAt": "2024-03-24 09:00:00",
+      "content": "Nesta quinta-feira (22), o Minist\u00e9rio da Sa\u00fade informou que o Brasil superou a marca de 2 milh\u00f5es de casos de dengue em 2024. De acordo com a pasta, s\u00e3o 2.010.896 casos prov\u00e1veis da doen\u00e7a, com 682\u2026 [+5528 chars]",
+      "retrievedAt": "2024-03-25 19:05:42.192075",
+      "internal_id": "45743fbd38e9bb965d84cc83fd8f053a577aa793dd101c4ab9ee48bd12712da4",
       "publishedAtLabel": "Mar 24"
     }
   ]
