@@ -1,8 +1,441 @@
 {
-  "last_updated": "2024-05-09 07:05",
-  "count_articles_total": 1544,
-  "count_articles_new": 7,
+  "last_updated": "2024-05-09 19:05",
+  "count_articles_total": 1562,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 8939,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "MIKE STOBBE / AP",
+      "title": "New Rules for Dogs Entering U.S. to Help Prevent Spread of Rabies",
+      "description": "All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies.",
+      "url": "https://time.com/6976083/6976083/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/Dog-airport.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-05-08 18:54:32",
+      "content": "(NEW YORK) All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesda\u2026 [+3071 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.736064",
+      "internal_id": "5c9494d07d1ea703502252eab17da10efd1b113e7926ecdf1463d0f15509bf5d",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8941,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Mike Stobbe, Associated Press",
+      "title": "Dogs entering U.S. must be 6 months old and microchipped to prevent spread of rabies, new rules say",
+      "description": "Worries about rabies resulted in a temporary order in 2021, suspending the importation of dogs from more than 100 countries. The new rules take effect on Aug. 1, as the temporary order expires.",
+      "url": "https://www.pbs.org/newshour/health/dogs-entering-u-s-must-be-6-months-old-and-microchipped-to-prevent-spread-of-rabies-new-rules-say",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/05/2021-02-04T202026Z_1277031733_RC2WLL9O1OV9_RTRMADP_3_USA-DAILYLIFE-1024x683.jpg",
+      "publishedAt": "2024-05-08 18:24:29",
+      "content": "NEW YORK (AP) All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wedne\u2026 [+3245 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.751623",
+      "internal_id": "f1bda1e1450011ecb30101d05eeed217007810480cb1d71dda68c13a2544834c",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8936,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MIKE STOBBE AP medical writer",
+      "title": "Dogs entering US must be 6 months old, microchipped, new rules say",
+      "description": "New U.S. rules require all dogs coming into the U.S. to be at least 6 months old and microchipped to help prevent the spread of rabies",
+      "url": "https://abcnews.go.com/Lifestyle/wireStory/dogs-entering-us-6-months-microchipped-prevent-spread-110027684",
+      "urlToImage": "https://i.abcnewsfe.com/a/1c53289a-07ef-48c6-9445-aab477ef65c4/wirestory_572fa077a00afec3b2c13ab412f641ef_16x9.jpg?w=1600",
+      "publishedAt": "2024-05-08 18:22:27",
+      "content": "NEW YORK -- All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesd\u2026 [+3274 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.716672",
+      "internal_id": "8853e69497491c01acb3b78edf367bcd3fa77287b953e1f864d20d0f246420b5",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8942,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Associated Press",
+      "title": "To prevent rabies, dogs entering US must be microchipped and at least 6 months old, new rules say",
+      "description": "New rules for traveling with pets say that dogs must be at least six months old and microchipped so their rabies vaccinations can be verified as more people travel with their pets.",
+      "url": "https://www.foxnews.com/us/prevent-rabies-dogs-entering-us-microchipped-least-6-months-old-new-rules-say",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/Dog-Import-Rules.jpg",
+      "publishedAt": "2024-05-08 17:47:25",
+      "content": "All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new\u2026 [+3216 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.757408",
+      "internal_id": "b4bd7a25d57ad401748fa863365c42940d0182022f87d50276da9277f795ba93",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8948,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Banda B",
+      "title": "Curitiba confirma 885 novos casos de dengue e tem dois pacientes internados em UTI",
+      "description": "A Secretaria Municipal da Sa\u00fade de Curitiba, confirmou, nesta quarta-feira (8), 885 novos casos ...",
+      "url": "https://www.terra.com.br/noticias/brasil/cidades/curitiba-confirma-885-novos-casos-de-dengue-e-tem-dois-pacientes-internados-em-uti,f0d5ec680272dafd8852522d1813cedc5mvbuwiv.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/08/250433305-image-1-15.jpg",
+      "publishedAt": "2024-05-08 17:27:52",
+      "content": "A Secretaria Municipal da Sa\u00fade de Curitiba, confirmou, nesta quarta-feira (8), 885 novos casos de dengue. Do total, segundo o boletim, 89 s\u00e3o referentes a notifica\u00e7\u00f5es da \u00faltima semana, enquanto os \u2026 [+611 chars]",
+      "retrievedAt": "2024-05-09 19:05:23.506688",
+      "internal_id": "98e06b7368f9c69aabb4ac59cd8ee248db89470aed33f2e3eb8b1dad197df8a6",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8933,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "Developing and Evaluating Animal Models for Studying the Safety and Efficacy of Vaccines Against Anthrax, Staphylococcal Infections, and Pertussis",
+      "description": "A description of Tod Merkel's research program and related publications.",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/developing-and-evaluating-animal-models-studying-safety-and-efficacy-vaccines-against-anthrax",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2024-05-08 16:25:19",
+      "content": "Principal Investigator: Tod Merkel, PhDOffice / Division / Lab: OVRR / DBPAP / LRSP General Overview Our laboratory is studying the interaction between humans and three important bacterial pathogen\u2026 [+9506 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.428011",
+      "internal_id": "c40b9d497871ecd6ef5237042b984e4d0ffd611df339224abec6ef946576da90",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8946,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Tres de cada cuatro ni\u00f1os ya recibieron refuerzo contra sarampi\u00f3n",
+      "description": "Faltan 138.419 menores de edad de ser vacunados contra sarampi\u00f3n, rub\u00e9ola y paperas; CCSS pide a familias no negarles el derecho",
+      "url": "https://www.nacion.com/el-pais/salud/tres-de-cada-cuatro-ninos-ya-recibieron-refuerzo/AQ4NZVZRURERRGEOSAXNWVYR44/story/",
+      "urlToImage": "https://www.nacion.com/resizer/nX-CP069Jd94GnjEoM1AwaDOvFs=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/DWQHRTVM3RDKNBVIPV6B3KNF2Q.jpeg",
+      "publishedAt": "2024-05-08 16:10:04",
+      "content": "El 75% de los ni\u00f1os entre los 15 meses y menos de diez a\u00f1os ya recibieron la vacuna de refuerzo contra sarampi\u00f3n, rub\u00e9ola y paperas (SRP). Datos brindados por la Caja Costarricense de Seguro Social (\u2026 [+2512 chars]",
+      "retrievedAt": "2024-05-09 19:05:23.156345",
+      "internal_id": "c269c2fe1016d90e07fa0025b0e46a1bbd157ed40706fba0767a2660c6c71925",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8952,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Cen\u00e1rio de mortes por dengue pode piorar com desastre no RS, dizem munic\u00edpios",
+      "description": "S\u00f3 nos quatro primeiros meses deste ano, 4,3 milh\u00f5es de pessoas tiveram dengue",
+      "url": "https://valor.globo.com/brasil/noticia/2024/05/08/cenrio-de-mortes-por-dengue-pode-piorar-com-desastre-no-rs-dizem-municpios.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/oRAG1He31H8u9DdkSh_heE8Pjvk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/B/7/6pTyjiTBOE7DuX6J2Rjg/f608f145d3354270b8e250ad06d5dc04-0-d4f119e277284b99bdc51c8cb0a35b9b.jpg",
+      "publishedAt": "2024-05-08 16:02:49",
+      "content": "O Brasil registrou novo recorde de mortes por dengue em 2024, mais de 2.197 confirmadas e outras 2.276 ainda em investiga\u00e7\u00e3o, superando todas as marcas de 2000 para c\u00e1. Contudo, os n\u00fameros de casos r\u2026 [+1330 chars]",
+      "retrievedAt": "2024-05-09 19:05:23.570306",
+      "internal_id": "9cfb14a9b175decdffaa1785a80761dcd7bba5b1ed0e0f7938d8e17419f0682e",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8937,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "MIKE STOBBE",
+      "title": "Dogs entering US must be 6 months old and microchipped to prevent spread of rabies, new rules say",
+      "description": "The updated rules apply to dogs brought in by breeders or rescue groups as well as pets traveling with their US owners.",
+      "url": "https://www.bostonglobe.com/2024/05/08/nation/new-rules-importing-dogs-to-us/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/FZPHLBC-fTkcqwrJPQDjNN4aB9E=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/JJCCJJDLSPEFP22FSNKRHVE4OE.jpg",
+      "publishedAt": "2024-05-08 16:02:26",
+      "content": "NEW YORK (AP) All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wedne\u2026 [+3268 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.721821",
+      "internal_id": "7fd6752e982fb0ef629fc570249a40d4c9842cf1f968f8449a68835afc358a3c",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8934,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "Bacterial Vaccine Safety: Biomarkers of Virulence and Attenuation in Bordetella Pertussis (Whooping Cough) and Anthrax Bacteria",
+      "description": "A description of E. Scott Stibitz's research program and related publications.",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/bacterial-vaccine-safety-biomarkers-virulence-and-attenuation-bordetella-pertussis-whooping-cough",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2024-05-08 15:58:40",
+      "content": "Principal Investigator: E. Scott Stibitz, PhDOffice / Division / Lab: OVRR / DBPAP / LESTD General Overview Our laboratory is studying disease-causing bacteria for which new vaccines and novel ther\u2026 [+21203 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.432877",
+      "internal_id": "4259f2967af76f28eca11ef8ccb7638b6292d1caf09c5921d677c38e1f492fd5",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8944,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "associated-press",
+      "source_name": "Associated Press",
+      "author": "Mike Stobbe",
+      "title": "Dogs entering US must be 6 months old and microchipped to prevent spread of rabies, new rules say",
+      "description": "New U.S. rules require all dogs coming into the U.S. to be at least 6 months old and microchipped to help prevent the spread of rabies. The new rules published Wednesday require vaccination for dogs that have been in countries where rabies is common. The regu\u2026",
+      "url": "https://apnews.com/article/cdc-dog-import-rules-rabies-572fa077a00afec3b2c13ab412f641ef",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c71be4e/2147483647/strip/true/crop/5016x2822+0+245/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbc%2F5a%2F20e83be59a429692c0a5c2176489%2F5817deb770184425946dec2fcb9f0ee0",
+      "publishedAt": "2024-05-08 15:57:56",
+      "content": "NEW YORK (AP) All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wedne\u2026 [+3270 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.766622",
+      "internal_id": "46c28f3961b797dd5f0ecc56762ad8e73c6cae8df250bdde7fe851cbe24fa53c",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8954,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "Novel Methods to Detect Malaria Biomarkers for Evaluation of Vaccine Safety and Efficacy",
+      "description": "Heather J. Painter's, research project \"Novel Methods to Detect Malaria Biomarkers for Evaluation of Vaccine Safety and Efficacy\".",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/novel-methods-detect-malaria-biomarkers-evaluation-vaccine-safety-and-efficacy",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2024-05-08 15:55:36",
+      "content": "Heather J. Painter, PhD Office of Vaccines Research and ReviewDivision of Bacterial, Parasitic and Allergenic ProductsLaboratory of Mucosal Pathogens and Cellular Immunology Heather.Painter@fda.hhs\u2026 [+4731 chars]",
+      "retrievedAt": "2024-05-09 19:05:24.398986",
+      "internal_id": "e98dd5809e596caee5691f852174284adc78551a4a7208b29a9b61d59a028b65",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8945,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Mike Stobbe",
+      "title": "Dogs entering US must be 6 months old and microchipped to prevent spread of rabies, new rules say",
+      "description": "New U.S. rules require all dogs coming into the U.S. to be at least 6 months old and microchipped to help prevent the spread of rabies.",
+      "url": "https://www.clickondetroit.com/health/2024/05/08/dogs-entering-us-must-be-6-months-old-and-microchipped-to-prevent-spread-of-rabies-new-rules-say/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/4QZ353YXGJHN5KUUFDHUFKMZVA.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-05-08 15:47:43",
+      "content": "NEW YORK All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday.\u2026 [+3424 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.771903",
+      "internal_id": "a5a02a6ae53d472222ec2498d3095415d5f67958ce386e8dee3629814d842462",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8940,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MIKE STOBBE AP medical writer",
+      "title": "Dogs entering US must be 6 months old and microchipped to prevent spread of rabies, new rules say",
+      "description": "New U.S. rules require all dogs coming into the U.S. to be at least 6 months old and microchipped to help prevent the spread of rabies",
+      "url": "https://abcnews.go.com/Health/wireStory/dogs-entering-us-6-months-microchipped-prevent-spread-110027682",
+      "urlToImage": "https://i.abcnewsfe.com/a/1c53289a-07ef-48c6-9445-aab477ef65c4/wirestory_572fa077a00afec3b2c13ab412f641ef_16x9.jpg?w=1600",
+      "publishedAt": "2024-05-08 15:42:46",
+      "content": "NEW YORK -- All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesd\u2026 [+3274 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.743666",
+      "internal_id": "1f93181b0f37675cc50c517e9cfd389c6c0e2112dc96f55be4f7f7f22f44e9af",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8943,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "MIKE STOBBE",
+      "title": "Dogs entering US must be 6 months old and microchipped to prevent spread of rabies, new rules say",
+      "description": "All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday.",
+      "url": "https://www.startribune.com/dogs-entering-us-must-be-6-months-old-and-microchipped-to-prevent-spread-of-rabies-new-rules-say/600364508/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1714769250",
+      "publishedAt": "2024-05-08 15:35:01",
+      "content": "NEW YORK All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday.\u2026 [+3280 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.761598",
+      "internal_id": "f8ef403dbe29ac7106e10b7d33b13f04cf6e29e2c611facadc4f23493bf17d9f",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8938,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Dogs entering US must be 6 months old and microchipped to prevent spread of rabies, new rules say",
+      "description": "New U.S. rules require all dogs coming into the U.S. to be at least 6 months old and microchipped to help prevent the spread of rabies. The new rules published Wednesday require vaccination for dogs that have been in countries where rabies is common. The regu\u2026",
+      "url": "https://www.bostonherald.com/2024/05/08/dogs-entering-us-must-be-6-months-old-and-microchipped-to-prevent-spread-of-rabies-new-rules-say/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/05/Dog_Import_Rules_33853.jpg?w=1024&h=676",
+      "publishedAt": "2024-05-08 15:34:13",
+      "content": "By MIKE STOBBE (AP Medical Writer) NEW YORK (AP) \u2014 All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according t\u2026 [+3322 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.726305",
+      "internal_id": "ba28862a0b5d670b25d05599dc1dc81908715654c05f8cc8fc31eb588206bb55",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8949,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "Reducing Threats to the Blood Supply from West Nile Virus, Dengue Virus, and Chikungunya Virus Through Development of Detection Tools and Studies of Genetic Evolution and Pathogenesis",
+      "description": "A description of Maria Rios's research program and related publications.",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/reducing-threats-blood-supply-west-nile-virus-dengue-virus-and-chikungunya-virus-through-development",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2024-05-08 15:28:37",
+      "content": "Principal Investigator: Maria Rios, PhDOffice / Division / Lab: OBRR / DETTD / LEP General Overview The mission of our research program is to reduce the risk of transmission of West Nile Virus (WNV\u2026 [+18224 chars]",
+      "retrievedAt": "2024-05-09 19:05:23.529911",
+      "internal_id": "4981a4830e3265034fcf08c23482fdb7184b28e5dd1e82ab4f0635549b2507a2",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8935,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Rob Stein",
+      "title": "For those bringing a dog into the U.S., new rules aim to keep out rabies",
+      "description": "The CDC announced stricter regulations for importing dogs from abroad \u2014 or traveling internationally with your furry companions.",
+      "url": "https://www.npr.org/sections/health-shots/2024/05/08/1249622314/cdc-rules-dogs-import-travel-international-rabies",
+      "urlToImage": "https://media.npr.org/assets/img/2024/05/07/gettyimages-820699982_wide-6cdda687144c14b2a6c4a73a51b58ce50143659d.jpg?s=1400&c=100&f=jpeg",
+      "publishedAt": "2024-05-08 15:24:22",
+      "content": "Traveling internationally with a dog or adopting one from abroad just got a bit more complicated. The CDC issued new rules intended to reduce the risk of importing rabies. mauinow1/Getty Images/iSto\u2026 [+4202 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.708593",
+      "internal_id": "e111b6254af87496235da05df0ebdbe27d2cb3b5f790a786372f2b22e72d767a",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8953,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "Keeping Blood and Blood Products Safe by Developing Tests for Malaria and Other Parasites and Helping to Develop Malaria Vaccine",
+      "description": "A description of Sanjai Kumar's research program and related publications.",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/keeping-blood-and-blood-products-safe-developing-tests-malaria-and-other-parasites-and-helping",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2024-05-08 14:51:42",
+      "content": "Principal Investigator: Sanjai Kumar, PhDOffice / Division / Lab: OBRR / DETTD / LEP General Overview Malaria is transmitted in more than 100 countries, causing approximately 250 million infections\u2026 [+15335 chars]",
+      "retrievedAt": "2024-05-09 19:05:24.393582",
+      "internal_id": "31606cecc065982b473bad91d71c4c123d95669a1faea36cf9572326745055e2",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8951,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "In Umbria nel 2024 sono quattro i casi di Dengue da importazione",
+      "description": "Dall'inizio dell'anno sono quattro i casi di Dengue da importazione registrati in Umbria: tre sul territorio di competenza dell'Usl Umbria 1 e uno su quello dell'Usl Umbria 2. Lo scorso anno complessivamente sono stati due. (ANSA)",
+      "url": "https://www.ansa.it/umbria/notizie/2024/05/08/in-umbria-nel-2024-sono-quattro-i-casi-di-dengue-da-importazione_fbbf4eed-396e-44dd-b110-eb901a9703e0.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/5/8/75f97d7bf0a3b15a738006a1d60bb898.jpg",
+      "publishedAt": "2024-05-08 13:59:16",
+      "content": "Dall'inizio dell'anno sono quattro i casi di Dengue da importazione registrati in Umbria: tre sul territorio di competenza dell'Usl Umbria 1 e uno su quello dell'Usl Umbria 2. Lo scorso anno compl\u2026 [+3256 chars]",
+      "retrievedAt": "2024-05-09 19:05:23.558922",
+      "internal_id": "d9578ec761354abe4c958eb3b8ed04358d650e0485b54e3c4803e26148d1ec39",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8947,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "t3n",
+      "source_name": "T3n",
+      "author": null,
+      "title": "Statistik der Woche: Hotspots des Denguefiebers in Deutschland",
+      "description": "Vor allem in Lateinamerika und der Karibik haben die Menschen mit einer zunehmenden Zahl von Denguefieber-F\u00e4llen zu k\u00e4mpfen. Doch auch in Deutschland steigen die Fallzahlen an, wie unsere Infografik zeigt. weiterlesen auf t3n.de",
+      "url": "https://t3n.de/news/statistik-der-woche-hotspots-des-denguefieber-in-deutschland-1623270/",
+      "urlToImage": "https://t3n.de/news/wp-content/uploads/2024/05/20240503_Dengue_Teaser_TR.jpg",
+      "publishedAt": "2024-05-08 12:30:37",
+      "content": "Die Zahl der F\u00e4lle von Denguefieber steigt in Deutschland derzeit rasant an. Insgesamt wurden dem Robert Koch-Institut (RKI) bis zum 29. April 2024 rund 660 Infektionen mit der Tropenkrankheit gemeld\u2026 [+2088 chars]",
+      "retrievedAt": "2024-05-09 19:05:23.478068",
+      "internal_id": "51d5e906e1bd6094dfcad0bb6b6b3a2a4d6cd1f3b9dcb10f9b5e31474eca6a88",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8950,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue, due casi in Liguria nelle ultime ore",
+      "description": "Due casi di dengue sono stati diagnosticati in Liguria nelle ultime ore. Ad essere infettati due cittadini italiani, tornati recentemente da viaggi all'estero e sottoposti alle cure negli ospedali genovesi Policlinico San Martino e Galliera. (ANSA)",
+      "url": "https://www.ansa.it/liguria/notizie/2024/05/08/dengue-due-casi-in-liguria-nelle-ultime-ore_4661c039-8700-4d1f-8e99-5f66f98e4d0e.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/4/10/0cfb779a33998e671c746f01809eb67a.jpg",
+      "publishedAt": "2024-05-08 11:51:55",
+      "content": "Due casi di dengue sono stati diagnosticati in Liguria nelle ultime ore. Ad essere infettati due cittadini italiani, tornati recentemente da viaggi all'estero e sottoposti alle cure negli ospedali\u2026 [+1530 chars]",
+      "retrievedAt": "2024-05-09 19:05:23.554263",
+      "internal_id": "4a28ea3a064e28e6da0626ccc5a2ca2cfc8bc98c511bc649ae7554664e9c87f4",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8955,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Monkeypox Cases are Climbing in NYC",
+      "description": "NYC Public Health Advisory concerned about another summertime surge, as well as the more severe strain being reported in the Congo. The post Monkeypox Cases are Climbing in NYC first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/05/monkeypox-cases-are-climbing-in-nyc/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2022/07/LI-113-California-Monkeypox.png",
+      "publishedAt": "2024-05-08 11:00:33",
+      "content": "Reviewing the monkeypox coverage we have shared, I noted that the Centers for Disease Control and Prevention (CDC) warned that a more infectious mpox (i.e., the rebranded monkeypox) virus strain had \u2026 [+3764 chars]",
+      "retrievedAt": "2024-05-09 19:05:25.133398",
+      "internal_id": "3284ee73c97a8a5571fefac66107d712176383c6094eff1f982e538f8169f2ac",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8932,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "EURACTIV",
+      "author": "Catherine Feore",
+      "title": "EU raises alarm at 10-fold increase in whooping cough cases",
+      "description": "The European Centre for Disease Control (ECDC) has raised the alarm at the ten-fold increase in whooping cough (Pertussis) on the continent in the past year, renewing calls to step up vaccination as the best defence.",
+      "url": "https://www.euractiv.com/section/health-consumers/news/eu-raises-alarm-at-10-fold-increase-in-whooping-cough-cases/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2024/05/Whooping-cough-vaccination-800x450.jpg",
+      "publishedAt": "2024-05-08 10:00:03",
+      "content": "The European Centre for Disease Control (ECDC) has raised the alarm at the ten-fold increase in whooping cough (Pertussis) on the continent in the past year, renewing calls to step up vaccination as \u2026 [+1888 chars]",
+      "retrievedAt": "2024-05-09 19:05:22.357694",
+      "internal_id": "a3d354829da0cced122fc842c238a550b5365c1f1585498e4231dcbcf2b75066",
+      "publishedAtLabel": "May 8"
+    },
     {
       "id": 8930,
       "query": [
@@ -27770,117 +28203,6 @@
       "content": "SANTA FE.- Un ni\u00f1o de seis a\u00f1os es la octava v\u00edctima mortal del dengue en lo que va del a\u00f1o en la provincia de Santa Fe. En el pa\u00eds, seg\u00fan los \u00faltimos informes epidemiol\u00f3gicos, los muertos por la enf\u2026 [+3752 chars]",
       "retrievedAt": "2024-03-26 07:06:18.992880",
       "internal_id": "f2a55d74f538e1d22364c26bee8af41c486b3c891cf8ed6d443b8bd78e70e10e",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7393,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "El mapa del dengue: ya se notificaron m\u00e1s de 200.000 casos en el pa\u00eds",
-      "description": "De esa cifra, se confirmaron m\u00e1s de 134.000 infecciones",
-      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/aedes-aegypti-el-mosquito-vector-del-virus-del-6QDYNDDYZJFKLPQ2NNJK3N2RKI.jpg?auth=a5ebe6e7fab9ffd9789d2c0e1c57750d7714ab7cf7ea62c37633f480d019bab8&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-24 16:55:59",
-      "content": "La epidemia de dengue contin\u00faa y lo hace de acuerdo con las previsiones epidemiol\u00f3gicas: la cantidad de casos notificados en el pa\u00eds super\u00f3 la barrera de los 200.000 en lo que va del a\u00f1o y las provin\u2026 [+2702 chars]",
-      "retrievedAt": "2024-03-26 07:06:19.056485",
-      "internal_id": "83953d7ef6fb011bfdda9cfe96a47a388ecd25f0e7f5246ee6823916cb1f49d2",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7380,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Dinheirama.com",
-      "author": "Ag\u00eancia Gov",
-      "title": "Entenda por que ainda \u00e9 preciso vacinar contra a Covid-19",
-      "description": "O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo\u2026 ------ Este artigo foi escrito por Ag\u00eancia Gov. Este artigo apareceu originalmente no site Dinheirama.A rep\u2026",
-      "url": "https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/",
-      "urlToImage": "https://media.dinheirama.com/medias/uploads/2024/03/20240323-vacinas.jpg",
-      "publishedAt": "2024-03-24 15:00:00",
-      "content": "1O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo Minist\u00e9rio da Sa\u00fade em janeiro no SUS, a vacin\u2026 [+4684 chars]",
-      "retrievedAt": "2024-03-25 19:05:41.952308",
-      "internal_id": "9e3149c732c50e3521f9a7a90c71be623a86ef2c4e8811025d56818d80803f4b",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7381,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Laboratorio de la Udelar en Salto colaborar\u00e1 con el MSP en diagn\u00f3stico de dengue",
-      "description": "Rodrigo Arim, rector de la universidad, anunci\u00f3 la noticia en sus redes sociales y destac\u00f3 \u201cla calidad al servicio del Uruguay\u201d.",
-      "url": "https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202209/_W933_80/818330.jpg",
-      "publishedAt": "2024-03-24 12:50:00",
-      "content": "Montevideo Portal El laboratorio de Virolog\u00eda Molecular de la Universidad de la Rep\u00fablica (Udelar) en Salto realizar\u00e1 diagn\u00f3sticos de dengue en el norte del pa\u00eds, seg\u00fan inform\u00f3 el rector de la unive\u2026 [+767 chars]",
-      "retrievedAt": "2024-03-25 19:05:42.171646",
-      "internal_id": "a0f32d00907d4cd18fb6a874c8ad828f7b07e04241d40cfb0c466fed3247c2f2",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7384,
-      "query": [
-        "zika",
-        "chikungunya",
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Mobilidaderio.com.br",
-      "author": "Mobilidade Rio",
-      "title": "Cientistas desenvolvem armadilha para combater o mosquito da dengue",
-      "description": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chikungunya e febre amarela urbana. Batizado de MataAedes, o pro\u2026",
-      "url": "https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/",
-      "urlToImage": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "publishedAt": "2024-03-24 12:14:55",
-      "content": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chik\u2026 [+2141 chars]",
-      "retrievedAt": "2024-03-25 19:05:43.094537",
-      "internal_id": "2a0a1c670c7bf57f488758ecf8356255d3267e8f075aa3b17e9048270bbf33ca",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7383,
-      "query": [
-        "zika",
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "France's battle against tiger mosquitoes threatening 2024 Paris Olympics",
-      "description": "France is facing a challenge in ensuring the 2024 Paris Olympics are free from mosquito-borne diseases. Asian tiger mosquitoes, carriers of diseases like dengue and zika, pose a threat to millions of fans and athletes. Despite efforts to eradicate them, inclu\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-108748291,width-1200,height-630,imgsize-347784,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-03-24 09:12:00",
-      "content": "France is facing a challenging task to ensure that the upcoming 2024 Paris Olympics remain free from the threat of mosquito-borne diseases. The Asian tiger mosquito, known for spreading viruses like \u2026 [+2590 chars]",
-      "retrievedAt": "2024-03-25 19:05:43.075284",
-      "internal_id": "3537c26a8ee10134790b28359458aaa828c7f83e33c9d4f29a3685b3cfc47008",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7382,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Marina Semensato, Marina Semensato",
-      "title": "Dengue: desigualdade social e mudan\u00e7as clim\u00e1ticas colaboram para surto",
-      "description": "Aumento na incid\u00eancia de casos tem denunciado o impacto do racismo ambiental e das mudan\u00e7as clim\u00e1ticas no Brasil",
-      "url": "https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6d/6y/ft/6d6yfteqtvzc9enme97vjfmlv.jpg",
-      "publishedAt": "2024-03-24 09:00:00",
-      "content": "Nesta quinta-feira (22), o Minist\u00e9rio da Sa\u00fade informou que o Brasil superou a marca de 2 milh\u00f5es de casos de dengue em 2024. De acordo com a pasta, s\u00e3o 2.010.896 casos prov\u00e1veis da doen\u00e7a, com 682\u2026 [+5528 chars]",
-      "retrievedAt": "2024-03-25 19:05:42.192075",
-      "internal_id": "45743fbd38e9bb965d84cc83fd8f053a577aa793dd101c4ab9ee48bd12712da4",
       "publishedAtLabel": "Mar 24"
     }
   ]
