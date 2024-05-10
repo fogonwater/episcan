@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-05-10 07:05
-- **Most recent article:** 2024-05-09 06:15:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-05-10 19:05
+- **Most recent article:** 2024-05-09 18:37:23
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 185 | 158 | 138 | 113 | 117 | 77 | 42 | 830 |
-| measles | 44 | 36 | 43 | 40 | 28 | 24 | 2 | 217 |
-| malaria | 7 | 13 | 16 | 29 | 77 | 25 | 14 | 181 |
+| dengue | 179 | 158 | 138 | 113 | 117 | 77 | 45 | 827 |
+| measles | 44 | 36 | 43 | 40 | 28 | 24 | 7 | 222 |
+| malaria | 7 | 13 | 16 | 29 | 77 | 25 | 20 | 187 |
 | meningitis | 16 | 4 | 15 | 44 | 5 | 3 | 1 | 88 |
 | mpox | 6 | 12 | 3 | 13 | 8 | 36 | 3 | 81 |
-| zika | 21 | 11 | 10 | 8 | 3 | 8 | 1 | 62 |
-| rabies | 3 | 16 | 8 | 3 | 3 | 4 | 17 | 54 |
-| chikungunya | 9 | 12 | 7 | 5 | 5 | 7 | 2 | 47 |
-| pertussis | 6 | 7 | 9 | 7 | 5 | 2 | 4 | 40 |
+| zika | 19 | 11 | 10 | 8 | 3 | 8 | 1 | 60 |
+| rabies | 3 | 16 | 8 | 3 | 3 | 4 | 19 | 56 |
+| chikungunya | 8 | 12 | 7 | 5 | 5 | 7 | 3 | 47 |
+| pertussis | 6 | 7 | 9 | 7 | 5 | 2 | 5 | 41 |
 | sarampión | 3 | 5 | 13 | 0 | 10 | 8 | 1 | 40 |
 | leptospirosis | 0 | 1 | 3 | 3 | 3 | 2 | 1 | 13 |
 | yersinia | 1 | 3 | 0 | 2 | 0 | 5 | 1 | 12 |
@@ -52,6 +52,10 @@ Source: [News API](https://newsapi.org/)
 - [Tres de cada cuatro niños ya recibieron refuerzo contra sarampión](https://www.nacion.com/el-pais/salud/tres-de-cada-cuatro-ninos-ya-recibieron-refuerzo/AQ4NZVZRURERRGEOSAXNWVYR44/story/) (Nacion.com)
 
 ## 24-19 (rabies)
+
+- [Bringing a Pup From Abroad? There Are New Rules](https://www.newser.com/story/350096/its-now-a-bit-tougher-for-dogs-to-come-to-the-us.html) (Newser)
+
+- [Retraction: Prevalence and public health significance of rabies virus in bats in the North Region of Cameroon](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012171) (Plos.org)
 
 - [In effort to prevent rabies, CDC launches new rules for bringing dogs into the US | CNN](https://www.cnn.com/2024/05/08/health/cdc-dog-import-rules/index.html) (CNN)
 
@@ -89,6 +93,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-19 (pertussis)
 
+- [Whooping cough Q&A: What is the disease, and what should I do if my child has it?](https://www.irishtimes.com/health/your-family/2024/05/09/qa-whooping-cough/) (The Irish Times)
+
 - [Developing and Evaluating Animal Models for Studying the Safety and Efficacy of Vaccines Against Anthrax, Staphylococcal Infections, and Pertussis](https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/developing-and-evaluating-animal-models-studying-safety-and-efficacy-vaccines-against-anthrax) (FDA.gov)
 
 - [Bacterial Vaccine Safety: Biomarkers of Virulence and Attenuation in Bordetella Pertussis (Whooping Cough) and Anthrax Bacteria](https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/bacterial-vaccine-safety-biomarkers-virulence-and-attenuation-bordetella-pertussis-whooping-cough) (FDA.gov)
@@ -111,11 +117,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-19 (measles)
 
+- [Mumps Vaccine: Here's What You Need To Know About The MMR Vaccine](https://www.ndtv.com/health/mumps-vaccine-heres-what-you-need-to-know-about-the-mmr-vaccine-5625904) (NDTV News)
+
+- [Nearly 12 per cent of India's eligible children received no dose of measles vaccine, study finds](https://timesofindia.indiatimes.com/home/science/nearly-12-per-cent-of-indias-eligible-children-received-no-dose-of-measles-vaccine-study-finds/articleshow/109982742.cms) (The Times of India)
+
+- [Twenty measles cases confirmed in Ireland so far this year](https://www.thejournal.ie/how-many-measles-cases-are-there-in-ireland-2-6374676-May2024/) (TheJournal.ie)
+
+- [Nearly 12 pc of India's eligible children received no dose of measles vaccine, study finds](https://economictimes.indiatimes.com/news/india/nearly-12-pc-of-indias-eligible-children-received-no-dose-of-measles-vaccine-study-finds/articleshow/109976536.cms) (The Times of India)
+
+- [Worrying vaccination gaps come to notice after post-Covid measles spurt forces a data relook](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/worrying-vaccination-gaps-come-to-notice-after-post-covid-measles-spurt-forces-a-data-relook/articleshow/109974093.cms) (The Times of India)
+
 - [Spurt in post-Covid measles cases reveals big gaps in vaccination](https://timesofindia.indiatimes.com/india/spurt-in-post-covid-measles-cases-reveals-big-gaps-in-vaccination/articleshow/109959350.cms) (The Times of India)
 
 - [TWiV 1111: Taming of the flu](https://www.microbe.tv/twiv/twiv-1111/) (Microbe.tv)
 
 ## 24-19 (malaria)
+
+- [DHS kicks off checks for dengue, malaria](https://timesofindia.indiatimes.com/city/goa/dhs-kicks-off-checks-for-dengue-malaria/articleshow/109989354.cms) (The Times of India)
+
+- [How climate change will affect malaria transmission](https://phys.org/news/2024-05-climate-affect-malaria-transmission.html) (Phys.Org)
+
+- [Assam Police mourns death of Lance Corporal Monoj Gogoi in Chhattisgarh](https://thehillstimes.in/assam/assam-police-mourns-death-of-lance-corporal-monoj-gogoi-in-chhattisgarh) (Thehillstimes.in)
+
+- [Notes from the Field: Increases in Imported Malaria Cases - Three Southern U.S. Border Jurisdictions, 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7318a2.htm) (Cdc.gov)
+
+- [Measuring protective efficacy and quantifying the impact of drug resistance: A novel malaria chemoprevention trial design and methodology](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004376) (Plos.org)
+
+- [Quality assessment of oral antimalarial and antiretroviral medicines used by public health systems in Sahel countries](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303289) (Plos.org)
 
 - [India's apex medical research body releases diet plan for all age groups](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/indias-apex-medical-research-body-releases-diet-plan-for-all-age-groups/articleshow/109969353.cms) (The Times of India)
 
@@ -150,6 +178,12 @@ Source: [News API](https://newsapi.org/)
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
 
 ## 24-19 (dengue)
+
+- [DHS kicks off checks for dengue, malaria](https://timesofindia.indiatimes.com/city/goa/dhs-kicks-off-checks-for-dengue-malaria/articleshow/109989354.cms) (The Times of India)
+
+- [Vaccini, la leggenda bugiarda sull'Occidente egoista](https://www.corriere.it/oriente-occidente-federico-rampini/24_maggio_09/vaccini-occidente-egoista-da17c2be-a65a-4a43-9262-940753cd6xlk.shtml) (Corriere.it)
+
+- [Dengue: el Gobierno nacional incorporará la vacunación contra el dengue](https://www.lanacion.com.ar/sociedad/dengue-el-gobierno-nacional-incorporara-la-vacunacion-contra-el-dengue-nid09052024/) (La Nacion)
 
 - [Grippe, dengue, Covid… Les JO de Paris, futur nid à épidémies ?](https://www.lexpress.fr/sciences-sante/grippe-dengue-covid-les-jo-de-paris-futur-nid-a-epidemies-FYEA2ILICVEMJDKQCKJK6HE4OY/) (L'Express)
 
@@ -236,6 +270,8 @@ Source: [News API](https://newsapi.org/)
 - [El ‘ejército’ de peces guppy con el que combaten el dengue en Cali](https://www.eluniversal.com.co/salud/enfermedades/el-ejercito-de-peces-guppy-con-el-que-combaten-el-dengue-en-cali-DA10457589) (Eluniversal.com.co)
 
 ## 24-19 (chikungunya)
+
+- [Vigilância pode prever epidemias de chikungunya; entenda](https://olhardigital.com.br/2024/05/09/medicina-e-saude/vigilancia-pode-prever-epidemias-de-chikungunya-entenda/) (Olhardigital.com.br)
 
 - [Reducing Threats to the Blood Supply from West Nile Virus, Dengue Virus, and Chikungunya Virus Through Development of Detection Tools and Studies of Genetic Evolution and Pathogenesis](https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/reducing-threats-blood-supply-west-nile-virus-dengue-virus-and-chikungunya-virus-through-development) (FDA.gov)
 
@@ -2951,10 +2987,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://www.terra.com.br/vida-e-estilo/saude/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue,b9995ffbba358b40bd28daa79300bf334maktznz.html) (Terra.com.br)
 
-- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
-
-- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
-
 ## 24-13 (yersinia)
 
 - [A novel sORF gene mutant strain of Yersinia pestis vaccine EV76 offers enhanced safety and improved protection against plague](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012129) (Plos.org)
@@ -3507,18 +3539,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Santa Fe: reportaron la muerte de un chico de seis años por dengue](https://www.lanacion.com.ar/sociedad/santa-fe-reportaron-la-muerte-de-un-chico-de-seis-anos-por-dengue-nid24032024/) (La Nacion)
 
-- [El mapa del dengue: ya se notificaron más de 200.000 casos en el país](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/) (La Nacion)
-
-- [Entenda por que ainda é preciso vacinar contra a Covid-19](https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/) (Dinheirama.com)
-
-- [Laboratorio de la Udelar en Salto colaborará con el MSP en diagnóstico de dengue](https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462) (Montevideo.com.uy)
-
-- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
-
-- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
-
-- [Dengue: desigualdade social e mudanças climáticas colaboram para surto](https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html) (Ig.com.br)
-
 ## 24-13 (chikungunya)
 
 - [¿Qué es el dengue y cómo tratarlo?](https://cnnespanol.cnn.com/2024/03/28/que-es-dengue-como-tratarlo-orix/) (CNN)
@@ -3536,5 +3556,3 @@ Source: [News API](https://newsapi.org/)
 - [Com mais 40 mortes, DF chega a 188 óbitos por dengue em 2024](https://www.metropoles.com/distrito-federal/com-mais-40-mortes-df-chega-a-188-obitos-por-dengue-em-2024) (Metropoles.com)
 
 - [El ECDC notifica más de 70.000 casos y 15 muertes por chikungunya en todo el mundo](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-70000-casos-15-muertes-chikungunya-todo-mundo-20240325170006.html) (Infosalus.com)
-
-- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)

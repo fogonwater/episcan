@@ -1,8 +1,315 @@
 {
-  "last_updated": "2024-05-10 07:05",
-  "count_articles_total": 1582,
-  "count_articles_new": 14,
+  "last_updated": "2024-05-10 19:05",
+  "count_articles_total": 1593,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 8978,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Of India",
+      "title": "DHS kicks off checks for dengue, malaria",
+      "description": "Panaji: The directorate of health services (DHS) has asked chief medical officers (CMOs) of health centres across the state to take all required measu.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/dhs-kicks-off-checks-for-dengue-malaria/articleshow/109989354.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-09 18:37:23",
+      "content": "10 benefits of eating 1 Khajoor everyday",
+      "retrievedAt": "2024-05-10 19:05:37.370850",
+      "internal_id": "892b7a9230abb4c78e840cfcf0a72721060db980fcd8be614ac5449d8a0a61bc",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8981,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "How climate change will affect malaria transmission",
+      "description": "A new model for predicting the effects of climate change on malaria transmission in Africa could lead to more targeted interventions to control the disease according to a new study.",
+      "url": "https://phys.org/news/2024-05-climate-affect-malaria-transmission.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/malaria.jpg",
+      "publishedAt": "2024-05-09 18:00:01",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+4314 chars]",
+      "retrievedAt": "2024-05-10 19:05:38.367156",
+      "internal_id": "274576a0e8342dffbbb16865e59c938da5dd482dbba57a319f7b634ab8e6c55e",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8970,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Shauna Bowers",
+      "title": "Whooping cough Q&A: What is the disease, and what should I do if my child has it?",
+      "description": "Whooping cough is a highly infectious bacterial disease involving the lungs and airways",
+      "url": "https://www.irishtimes.com/health/your-family/2024/05/09/qa-whooping-cough/",
+      "urlToImage": "https://www.irishtimes.com/resizer/aH3KFoS9ced_TW2gIdOxCn_LRgs=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/W65PDQ2M2MKP75JYCZQPUY6YOY.jpg",
+      "publishedAt": "2024-05-09 18:00:00",
+      "content": "Whooping cough, more formally known as pertussis, is on the rise in Ireland and around the world. The Health Protection Surveillance Centre has reported 77 cases of the disease since the start of the\u2026 [+3778 chars]",
+      "retrievedAt": "2024-05-10 19:05:35.518668",
+      "internal_id": "231d9d0242d1635680a69391b426606963273a5c5cbb6a14c0c4dee8d70147a1",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8984,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Assam Police mourns death of Lance Corporal Monoj Gogoi in Chhattisgarh",
+      "description": "The Assam Police is mourning the tragic loss of Lance Corporal Monoj Gogoi from 5th APBn, Sontila, who passed away due to cerebral Malaria with Septic shock on May 8, 2024.",
+      "url": "https://thehillstimes.in/assam/assam-police-mourns-death-of-lance-corporal-monoj-gogoi-in-chhattisgarh",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2024/05/New-Project-2024-05-09T225723.384.jpg",
+      "publishedAt": "2024-05-09 17:29:21",
+      "content": "HT Digital, Chhattisgarh, May 9: The Assam Police is mourning the tragic loss of Lance Corporal Monoj Gogoi from 5th APBn, Sontila, who passed away due to cerebral Malaria with Septic shock on May 8\u2026 [+817 chars]",
+      "retrievedAt": "2024-05-10 19:05:38.400407",
+      "internal_id": "f6d347b568283e338a91fa35b3e4099e9bf035bf0a0150303e7ace6edfaf8d85",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8982,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: Increases in Imported Malaria Cases - Three Southern U.S. Border Jurisdictions, 2023",
+      "description": "This report describes an increase in cases of imported malaria in three U.S. southern border jurisdictions.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7318a2.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7318a2_ImportedMilaria_IMAGE_09May2024_1200x675.jpeg?_=81444",
+      "publishedAt": "2024-05-09 17:00:00",
+      "content": "Cedar L. Mitchell, PhD1,2,3; Audrey Kennar, MSPH1,4,5; Yvonne Vasquez6; Kaitlyn Noris2; Thomas Williamson, MPH3; Andrea Mannell, MPH2; Anissa Taylor, MPH2; Irene Ruberto, PhD3; Theresa A. Cullen, MD2\u2026 [+11213 chars]",
+      "retrievedAt": "2024-05-10 19:05:38.384809",
+      "internal_id": "62a3608640204563ba90c603e011fa604ae3d0fc70a49a99592644a933f2d2f5",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8979,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Federico Rampini",
+      "title": "Vaccini, la leggenda bugiarda sull'Occidente egoista",
+      "description": "Dopo le terapie contro l'HIV, sono in arrivo i vaccini contro la febbre dengue e il colera. Sviluppati da aziende occidentali, salveranno milioni di vite nel Sud globaleDopo le terapie contro l'HIV, sono in arrivo i vaccini contro la febbre dengue e il colera\u2026",
+      "url": "https://www.corriere.it/oriente-occidente-federico-rampini/24_maggio_09/vaccini-occidente-egoista-da17c2be-a65a-4a43-9262-940753cd6xlk.shtml",
+      "urlToImage": "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2024/04/24/66290bb451f23.jpeg",
+      "publishedAt": "2024-05-09 16:28:01",
+      "content": "Febbre dengue, colera: su questi due fronti ci sono buone notizie in arrivo per le vaccinazioni. Cure e profilassi non arrivano mai cos\u00ec velocemente come si vorrebbe, per\u00f2 la scienza medica continua \u2026 [+7287 chars]",
+      "retrievedAt": "2024-05-10 19:05:37.387627",
+      "internal_id": "f868b3698b5ad961dce769a7ac74a938801cafdd97b383c695a04bf81daff347",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8972,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Jenn Gidman",
+      "title": "Bringing a Pup From Abroad? There Are New Rules",
+      "description": "All dogs coming into the US from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new rules require vaccination for dogs that have been in countries\u2026",
+      "url": "https://www.newser.com/story/350096/its-now-a-bit-tougher-for-dogs-to-come-to-the-us.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1534019-12-20240509103002.jpeg",
+      "publishedAt": "2024-05-09 15:10:21",
+      "content": "All dogs coming into the US from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new ru\u2026 [+1423 chars]",
+      "retrievedAt": "2024-05-10 19:05:35.924031",
+      "internal_id": "afa64d797fdf2603f0aa4d27883508c63220f35329715356c90e4e627398323c",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8971,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "The PLOS Neglected Tropical Diseases Editors",
+      "title": "Retraction: Prevalence and public health significance of rabies virus in bats in the North Region of Cameroon",
+      "description": "",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012171",
+      "urlToImage": null,
+      "publishedAt": "2024-05-09 14:00:00",
+      "content": "Following publication of this article [1], a number of concerns were raised which question the scientific validity of the reported results. The concerns were discussed with two members of the PLOS Ne\u2026 [+2399 chars]",
+      "retrievedAt": "2024-05-10 19:05:35.919885",
+      "internal_id": "ff54a59589314de2dd731d9e49bfd8dc33e6d35ddc18fe104808b6d91cd00c84",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8983,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Andria Mousa, Gina Cuomo-Dannenburg, Hayley A. Thompson, R. Matthew Chico, Khalid B. Beshir, Colin J. Sutherland, David Schellenberg, Roly Gosling, Michael Alifrangis, Emma Filtenborg Hocke, Helle Hansson, Ana Chopo-Pizarro, Wilfred F. Mbacham, Innocent M. Ali, Mike Chaponda, Cally Roper, Lucy C. Okell",
+      "title": "Measuring protective efficacy and quantifying the impact of drug resistance: A novel malaria chemoprevention trial design and methodology",
+      "description": "Using a novel modelling approach, Mousa and colleagues investigate the design and analysis of malaria chemoprevention trials and generate measures of protection that can be applied across a range of transmission settings.",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004376",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1004376.g004&size=inline",
+      "publishedAt": "2024-05-09 14:00:00",
+      "content": "Abstract Background Recently revised WHO guidelines on malaria chemoprevention have opened the door to more tailored implementation. Countries face choices on whether to replace old drugs, target a\u2026 [+43687 chars]",
+      "retrievedAt": "2024-05-10 19:05:38.396091",
+      "internal_id": "5413d1952a08743e479ed477bf12c22110793bda46c9b446f2bb6acdcf7ced52",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8985,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Amor R. C\u00e1ceres-P\u00e9rez, Javier Su\u00e1rez-Gonz\u00e1lez, Ana Santove\u00f1a-Est\u00e9vez, Jos\u00e9 B. Fari\u00f1a",
+      "title": "Quality assessment of oral antimalarial and antiretroviral medicines used by public health systems in Sahel countries",
+      "description": "Malaria and Human Immunodeficiency Virus infections are among the top 10 causes of death in low income countries. Furthermore, many medicines used in these treatment areas are substandard, which contributes to the high death rate. Using a monitoring system to\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303289",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0303289.g006&size=inline",
+      "publishedAt": "2024-05-09 14:00:00",
+      "content": "Citation: C\u00e1ceres-P\u00e9rez AR, Su\u00e1rez-Gonz\u00e1lez J, Santove\u00f1a-Est\u00e9vez A, Fari\u00f1a JB (2024) Quality assessment of oral antimalarial and antiretroviral medicines used by public health systems in Sahel countr\u2026 [+31055 chars]",
+      "retrievedAt": "2024-05-10 19:05:38.433600",
+      "internal_id": "cf1b33291d8f472f02934ad98709f675fae121f019ea2020b015a271f42df4a9",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8980,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Dengue: el Gobierno nacional incorporar\u00e1 la vacunaci\u00f3n contra el dengue",
+      "description": "As\u00ed lo inform\u00f3 el Ministerio de Salud de la Naci\u00f3n a partir de la recomendaci\u00f3n de una comisi\u00f3n t\u00e9cnica asesora; ser\u00e1 para la poblaci\u00f3n de entre 15 y 39 a\u00f1os, seg\u00fan se ir\u00e1 definiendo con las jurisdicciones",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-el-gobierno-nacional-incorporara-la-vacunacion-contra-el-dengue-nid09052024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-vacuna-qdenga-contra-el-XKUXVASGHJEXTEWO2RM2D4RQDI.jpeg?auth=9738955d199269a3203d02ed1defa17d0944323b5cea0c314a74ede3059ed500&width=768&quality=70&smart=false",
+      "publishedAt": "2024-05-09 13:31:03",
+      "content": "El pa\u00eds incorporar\u00e1 la vacuna contra el dengue a un plan de trabajo con las provincias para evitar una epidemia por tercer a\u00f1o consecutivo y con la magnitud que alcanz\u00f3 la de esta temporada. La decis\u2026 [+7605 chars]",
+      "retrievedAt": "2024-05-10 19:05:37.400899",
+      "internal_id": "e7bbce04b51123cdb1d28d7d6c619b2cf508c85fdeffda783dc5709ea746aa01",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8975,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Mumps Vaccine: Here's What You Need To Know About The MMR Vaccine",
+      "description": "A combined MMR vaccine which protects against measles, mumps and rubella is given to children.",
+      "url": "https://www.ndtv.com/health/mumps-vaccine-heres-what-you-need-to-know-about-the-mmr-vaccine-5625904",
+      "urlToImage": "https://c.ndtvimg.com/2022-12/328l4usg_vaccine-india-generic_625x300_16_December_22.jpg",
+      "publishedAt": "2024-05-09 13:04:22",
+      "content": "Children are given two doses of the MMR vaccine. Cases of mumps, a contagious viral infection, are rising in Delhi over the past few weeks. Previously, in March 2024, Kerala also reported a sharp su\u2026 [+1866 chars]",
+      "retrievedAt": "2024-05-10 19:05:36.317267",
+      "internal_id": "8767e9f992506f661002314ffbd28d3336fbc17002304bf2a8c1464c7850a53c",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8976,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Nearly 12 per cent of India's eligible children received no dose of measles vaccine, study finds",
+      "description": "Science News: NEW DELHI: Nearly 12 per cent of children in India who are eligible for measles vaccination have received none of the recommended double-dose, signall.",
+      "url": "https://timesofindia.indiatimes.com/home/science/nearly-12-per-cent-of-indias-eligible-children-received-no-dose-of-measles-vaccine-study-finds/articleshow/109982742.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109982858,width-1070,height-580,imgsize-563538,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-09 11:59:28",
+      "content": "News Science News Nearly 12 per cent of India's eligible children received no dose of measles vaccine, study finds FOLLOW US ON SOCIAL MEDIA Latest News Three\u2026 [+1640 chars]",
+      "retrievedAt": "2024-05-10 19:05:36.327137",
+      "internal_id": "7fcbfffb9d56a410952a174e433524c714aa91b05a975b240da5180029dc4e0a",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8986,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Rodrigo Mozelli",
+      "title": "Vigil\u00e2ncia pode prever epidemias de chikungunya; entenda",
+      "description": "Estudo apontou que v\u00edrus circulou por S\u00e3o Jos\u00e9 do Rio Preto (SP) silenciosamente por anos O post Vigil\u00e2ncia pode prever epidemias de chikungunya; entenda apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/05/09/medicina-e-saude/vigilancia-pode-prever-epidemias-de-chikungunya-entenda/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/03/chykunguya.jpg",
+      "publishedAt": "2024-05-09 09:50:00",
+      "content": "Um estudo realizado por pesquisadores da Faculdade de Medicina de S\u00e3o Jos\u00e9 do Rio Preto (Famerp) apontou que o v\u00edrus da chikungunya circulou por S\u00e3o Jos\u00e9 do Rio Preto (SP) silenciosamente por anos. \u2026 [+4024 chars]",
+      "retrievedAt": "2024-05-10 19:05:39.007562",
+      "internal_id": "91a7b3a90782bd655c40ce4ba84436c8a4e8973b17e5c908c236269c3ef47cea",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8973,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "\u00d3rla Ryan",
+      "title": "Twenty measles cases confirmed in Ireland so far this year",
+      "description": "A further 13 suspected cases are under investigation.",
+      "url": "https://www.thejournal.ie/how-many-measles-cases-are-there-in-ireland-2-6374676-May2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6374676/river/?height=400&version=6374717",
+      "publishedAt": "2024-05-09 09:33:08",
+      "content": "TWENTY MEASLES CASES have been confirmed in Ireland to date this year, according to the latest figures from the Health Protection Surveillance Centre (HPSC). Three outbreaks where two or more confir\u2026 [+1916 chars]",
+      "retrievedAt": "2024-05-10 19:05:36.305307",
+      "internal_id": "1a60333b435f4009e84f2cdb660620df96aad2dc0391df1a29a8ff84a0936c88",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8974,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Nearly 12 pc of India's eligible children received no dose of measles vaccine, study finds",
+      "description": "Researchers from the Ministry of Health and Family Welfare and Banaras Hindu University in Varanasi investigated previously overlooked critical aspects of measles vaccination, focusing on zero-doses, partially vaccinated, and those fully immunised. They analy\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/nearly-12-pc-of-indias-eligible-children-received-no-dose-of-measles-vaccine-study-finds/articleshow/109976536.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-109976595,width-1200,height-630,imgsize-61758,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-05-09 08:58:15",
+      "content": "Nearly 12 per cent of children in India who are eligible for measles vaccination have received none of the recommended double-dose, signalling a \"concerning gap\" in immunisation coverage, a new study\u2026 [+3434 chars]",
+      "retrievedAt": "2024-05-10 19:05:36.309800",
+      "internal_id": "de35b9bfa9a4417b1b59280f23b5d2d9f8f329b347cc95b37ec3b65ad25d9a65",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8977,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Worrying vaccination gaps come to notice after post-Covid measles spurt forces a data relook",
+      "description": "A relook at the survey data was necessitated by instances of repeated measles outbreaks after the COVID-19 pandemic, the report by (by Rema Nagarajan) said.",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/worrying-vaccination-gaps-come-to-notice-after-post-covid-measles-spurt-forces-a-data-relook/articleshow/109974093.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-109974978,width-1200,height-630,imgsize-31062,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-05-09 08:16:43",
+      "content": "A closer look at the National Family Health Survey (NFHS-5) by researchers has found that more than one in nine eligible children nationally did not get any dose of the measles vaccine in the 2019-21\u2026 [+4061 chars]",
+      "retrievedAt": "2024-05-10 19:05:36.331455",
+      "internal_id": "f181cfa92cb02e0cb4b304ae2ac85b389850db4d7600d4a4b31a4ca694fc6623",
+      "publishedAtLabel": "May 9"
+    },
     {
       "id": 8964,
       "query": [
@@ -28455,117 +28762,6 @@
       "content": "SANTA FE.- Un ni\u00f1o de seis a\u00f1os es la octava v\u00edctima mortal del dengue en lo que va del a\u00f1o en la provincia de Santa Fe. En el pa\u00eds, seg\u00fan los \u00faltimos informes epidemiol\u00f3gicos, los muertos por la enf\u2026 [+3752 chars]",
       "retrievedAt": "2024-03-26 07:06:18.992880",
       "internal_id": "f2a55d74f538e1d22364c26bee8af41c486b3c891cf8ed6d443b8bd78e70e10e",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7393,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "El mapa del dengue: ya se notificaron m\u00e1s de 200.000 casos en el pa\u00eds",
-      "description": "De esa cifra, se confirmaron m\u00e1s de 134.000 infecciones",
-      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/aedes-aegypti-el-mosquito-vector-del-virus-del-6QDYNDDYZJFKLPQ2NNJK3N2RKI.jpg?auth=a5ebe6e7fab9ffd9789d2c0e1c57750d7714ab7cf7ea62c37633f480d019bab8&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-24 16:55:59",
-      "content": "La epidemia de dengue contin\u00faa y lo hace de acuerdo con las previsiones epidemiol\u00f3gicas: la cantidad de casos notificados en el pa\u00eds super\u00f3 la barrera de los 200.000 en lo que va del a\u00f1o y las provin\u2026 [+2702 chars]",
-      "retrievedAt": "2024-03-26 07:06:19.056485",
-      "internal_id": "83953d7ef6fb011bfdda9cfe96a47a388ecd25f0e7f5246ee6823916cb1f49d2",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7380,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Dinheirama.com",
-      "author": "Ag\u00eancia Gov",
-      "title": "Entenda por que ainda \u00e9 preciso vacinar contra a Covid-19",
-      "description": "O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo\u2026 ------ Este artigo foi escrito por Ag\u00eancia Gov. Este artigo apareceu originalmente no site Dinheirama.A rep\u2026",
-      "url": "https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/",
-      "urlToImage": "https://media.dinheirama.com/medias/uploads/2024/03/20240323-vacinas.jpg",
-      "publishedAt": "2024-03-24 15:00:00",
-      "content": "1O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo Minist\u00e9rio da Sa\u00fade em janeiro no SUS, a vacin\u2026 [+4684 chars]",
-      "retrievedAt": "2024-03-25 19:05:41.952308",
-      "internal_id": "9e3149c732c50e3521f9a7a90c71be623a86ef2c4e8811025d56818d80803f4b",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7381,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Laboratorio de la Udelar en Salto colaborar\u00e1 con el MSP en diagn\u00f3stico de dengue",
-      "description": "Rodrigo Arim, rector de la universidad, anunci\u00f3 la noticia en sus redes sociales y destac\u00f3 \u201cla calidad al servicio del Uruguay\u201d.",
-      "url": "https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202209/_W933_80/818330.jpg",
-      "publishedAt": "2024-03-24 12:50:00",
-      "content": "Montevideo Portal El laboratorio de Virolog\u00eda Molecular de la Universidad de la Rep\u00fablica (Udelar) en Salto realizar\u00e1 diagn\u00f3sticos de dengue en el norte del pa\u00eds, seg\u00fan inform\u00f3 el rector de la unive\u2026 [+767 chars]",
-      "retrievedAt": "2024-03-25 19:05:42.171646",
-      "internal_id": "a0f32d00907d4cd18fb6a874c8ad828f7b07e04241d40cfb0c466fed3247c2f2",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7384,
-      "query": [
-        "zika",
-        "chikungunya",
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Mobilidaderio.com.br",
-      "author": "Mobilidade Rio",
-      "title": "Cientistas desenvolvem armadilha para combater o mosquito da dengue",
-      "description": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chikungunya e febre amarela urbana. Batizado de MataAedes, o pro\u2026",
-      "url": "https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/",
-      "urlToImage": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "publishedAt": "2024-03-24 12:14:55",
-      "content": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chik\u2026 [+2141 chars]",
-      "retrievedAt": "2024-03-25 19:05:43.094537",
-      "internal_id": "2a0a1c670c7bf57f488758ecf8356255d3267e8f075aa3b17e9048270bbf33ca",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7383,
-      "query": [
-        "zika",
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "France's battle against tiger mosquitoes threatening 2024 Paris Olympics",
-      "description": "France is facing a challenge in ensuring the 2024 Paris Olympics are free from mosquito-borne diseases. Asian tiger mosquitoes, carriers of diseases like dengue and zika, pose a threat to millions of fans and athletes. Despite efforts to eradicate them, inclu\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-108748291,width-1200,height-630,imgsize-347784,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-03-24 09:12:00",
-      "content": "France is facing a challenging task to ensure that the upcoming 2024 Paris Olympics remain free from the threat of mosquito-borne diseases. The Asian tiger mosquito, known for spreading viruses like \u2026 [+2590 chars]",
-      "retrievedAt": "2024-03-25 19:05:43.075284",
-      "internal_id": "3537c26a8ee10134790b28359458aaa828c7f83e33c9d4f29a3685b3cfc47008",
-      "publishedAtLabel": "Mar 24"
-    },
-    {
-      "id": 7382,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Marina Semensato, Marina Semensato",
-      "title": "Dengue: desigualdade social e mudan\u00e7as clim\u00e1ticas colaboram para surto",
-      "description": "Aumento na incid\u00eancia de casos tem denunciado o impacto do racismo ambiental e das mudan\u00e7as clim\u00e1ticas no Brasil",
-      "url": "https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6d/6y/ft/6d6yfteqtvzc9enme97vjfmlv.jpg",
-      "publishedAt": "2024-03-24 09:00:00",
-      "content": "Nesta quinta-feira (22), o Minist\u00e9rio da Sa\u00fade informou que o Brasil superou a marca de 2 milh\u00f5es de casos de dengue em 2024. De acordo com a pasta, s\u00e3o 2.010.896 casos prov\u00e1veis da doen\u00e7a, com 682\u2026 [+5528 chars]",
-      "retrievedAt": "2024-03-25 19:05:42.192075",
-      "internal_id": "45743fbd38e9bb965d84cc83fd8f053a577aa793dd101c4ab9ee48bd12712da4",
       "publishedAtLabel": "Mar 24"
     }
   ]
