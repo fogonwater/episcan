@@ -1,8 +1,260 @@
 {
-  "last_updated": "2024-05-09 19:05",
-  "count_articles_total": 1562,
-  "count_articles_new": 24,
+  "last_updated": "2024-05-10 07:05",
+  "count_articles_total": 1582,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 8964,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "St\u00e9phanie Benz",
+      "title": "Grippe, dengue, Covid\u2026 Les JO de Paris, futur nid \u00e0 \u00e9pid\u00e9mies ?",
+      "description": "Les grands \u00e9v\u00e9nements sportifs ont jusqu\u2019ici rarement \u00e9t\u00e9 li\u00e9s \u00e0 des \u00e9pid\u00e9mies importantes. Mais les autorit\u00e9s se doivent d\u2019anticiper tous les sc\u00e9narios.",
+      "url": "https://www.lexpress.fr/sciences-sante/grippe-dengue-covid-les-jo-de-paris-futur-nid-a-epidemies-FYEA2ILICVEMJDKQCKJK6HE4OY/",
+      "urlToImage": "https://www.lexpress.fr/resizer/HVi_wv2qCS7oRXCLCWMckagw75o=/1200x630/cloudfront-eu-central-1.images.arcpublishing.com/lexpress/PK2X5ZI4TBFI7BZM2UV2NTDI7Y.jpg",
+      "publishedAt": "2024-05-09 06:15:00",
+      "content": "Plus de 10 000 athl\u00e8tes, 45 000 volontaires, 12 millions de spectateurs et 25 000 journalistes. Les chiffres sont connus, ils donnent le vertige. Avec une telle masse de visiteurs agglutin\u00e9s le temps\u2026 [+5914 chars]",
+      "retrievedAt": "2024-05-10 07:05:46.513257",
+      "internal_id": "0a06ce65923dd1e038fbd67e38c46a3bfadbb1d88297d86a1a44fc073260a962",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8968,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "India's apex medical research body releases diet plan for all age groups",
+      "description": "ICMR and NIN's dietary guidelines for Indians emphasize fruit, nut, seed, and meat consumption. 'My Plate for the Day' recommends macro intake from eight food groups, addressing various health aspects from food safety to sugar restrictions for infants.",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/indias-apex-medical-research-body-releases-diet-plan-for-all-age-groups/articleshow/109969353.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109969341,width-1070,height-580,imgsize-698055,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-09 06:05:53",
+      "content": "How to handle malaria during pregnancy",
+      "retrievedAt": "2024-05-10 07:05:47.532115",
+      "internal_id": "39411dcae750c3003d2925e72a7d1ad02f295cc42cdf228240ef0fa09a8fc0a2",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8959,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Jacqueline Howard",
+      "title": "In effort to prevent rabies, CDC launches new rules for bringing dogs into the US | CNN",
+      "description": "The United States has new rules for how dogs are brought into the country, and they go into effect in August.",
+      "url": "https://www.cnn.com/2024/05/08/health/cdc-dog-import-rules/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24129549733853.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-09 05:35:43",
+      "content": "The United States has new rules for how dogs are brought into the country, and they go into effect in August. The US Centers for Disease Control and Prevention announced Wednesday that it is updatin\u2026 [+3976 chars]",
+      "retrievedAt": "2024-05-10 07:05:45.121524",
+      "internal_id": "ec6bcacde6b94c51cd3b24b536dbbc855ab0d0d8606a8acb6f75f7bf6611f7f9",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8967,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Sven Felix Kellerhoff",
+      "title": "Wie Deutschland sich in die Weltgemeinschaft der V\u00f6lker zur\u00fcckschoss",
+      "description": "Das Haus der Geschichte der Bundesrepublik in Bonn pr\u00e4sentiert die Erfolgsgeschichte Deutschlands seit 1945. WELT hat sich zum Jubil\u00e4um in Ausstellungen und Magazinen umgeschaut. Heute: Das \u201eWunder von Bern\u201c und das Geheimnis der Schraubstollen.",
+      "url": "https://www.welt.de/geschichte/article251433220/75-Jahre-Grundgesetz-Das-Wunder-von-Bern.html",
+      "urlToImage": "https://img.welt.de/img/geschichte/mobile251433216/3961352907-ci16x9-w1200/DWO-Teaser-GG-Fussballschuh-aw.jpg",
+      "publishedAt": "2024-05-09 05:18:13",
+      "content": "Wer schw\u00e4rmerisch veranlagt ist, spricht vom Wunder von Bern. Wissenschaftlich n\u00fcchterne Menschen sehen den entscheidenden Vorteil eher in der \u00fcberstandenen Malaria des deutschen Mannschaftskapit\u00e4ns,\u2026 [+4900 chars]",
+      "retrievedAt": "2024-05-10 07:05:47.524386",
+      "internal_id": "50dbadcc3e20a7487e2b5a3761dd3b3739ed6de918b81bfcaded899c3339f72f",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8966,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N CARTAGENA",
+      "title": "Dengue en Cartagena: en la presente semana epidemi\u00f3loga hay 0 casos",
+      "description": "El Departamento Administrativo Distrital de Salud (Dadis) contin\u00faa fortaleciendo las actividades contra el dengue en los entornos educativo, comunitario, institucional y de hogar, as\u00ed lo inform\u00f3 el director del organismo de salud, \u00c1lex Tejada N\u00fa\u00f1ez, al entreg\u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/ojo-dadis-confirma-aumento-en-los-casos-de-dengue-en-cartagena-BN10480753",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1220x686/210c0/800d686/none/13704/BNXA/dadis_10043794_20240508221318.jpg",
+      "publishedAt": "2024-05-09 02:54:36",
+      "content": "El Departamento Administrativo Distrital de Salud (Dadis) contin\u00faa fortaleciendo las actividades contra el dengue en los entornos educativo, comunitario, institucional y de hogar, as\u00ed lo inform\u00f3 el d\u2026 [+785 chars]",
+      "retrievedAt": "2024-05-10 07:05:46.537963",
+      "internal_id": "2aa015487abc45e3bef2362aa14c62e4f77d4c6bbb6285c25d10f5659245fda4",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8962,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Americana confirma 3\u00aa morte por dengue em 2024; regi\u00e3o chega a 44 \u00f3bitos",
+      "description": "V\u00edtima era mulher de 45 anos com diabetes e anemia falciforme. Campinas \u00e9 a cidade com o maior n\u00famero de casos fatais da doen\u00e7a na regi\u00e3o. Mosquito Aedes aegypti, transmissor da dengue Reprodu\u00e7\u00e3o/RBS TV A Prefeitura de Americana (SP) confirmou, nesta quarta-f\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/08/americana-confirma-3a-morte-por-dengue-em-2024-regiao-chega-a-44-obitos.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/c7onUgnkNAAG-fgAcrt7JR1ZIP4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/5/O/ypMtM4SSGfqB5hJxPGMA/dengue-1-.png",
+      "publishedAt": "2024-05-09 00:26:25",
+      "content": "Segundo a administra\u00e7\u00e3o municipal, a v\u00edtima era uma mulher de 45 anos, que come\u00e7ou a apresentar sintomas da doen\u00e7a em 17 de abril, vindo a morrer no dia 19. Ela morava no bairro M\u00e1rcia Cristina, e ti\u2026 [+2034 chars]",
+      "retrievedAt": "2024-05-10 07:05:46.498869",
+      "internal_id": "edc765e8b39b621241b850fea9a8a164f9d6d5294cf80f28b7dce1e13f06c03c",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8965,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue bites hard in Selangor",
+      "description": "SHAH ALAM: In the tranquil greenery of the Setia Alam township, a war rages. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/05/09/dengue-bites-hard-in-selangor",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/05/08/2683167.jfif",
+      "publishedAt": "2024-05-08 23:00:00",
+      "content": "SHAH ALAM: In the tranquil greenery of the Setia Alam township, a war rages. Anjung Sari, a quiet gated community near the foothills of the Shah Alam Community Forest, is under siege by an old enemy\u2026 [+6700 chars]",
+      "retrievedAt": "2024-05-10 07:05:46.523521",
+      "internal_id": "566f75bd9675073c1422c6bd5163b50214c07a1edd6979844af2fbcc95f2c453",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8960,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Rema Nagarajan",
+      "title": "Spurt in post-Covid measles cases reveals big gaps in vaccination",
+      "description": "India News: More than one in nine eligible children nationally did not receive any dose of the measles vaccine in the 2019-21 period and nearly 30% received just .",
+      "url": "https://timesofindia.indiatimes.com/india/spurt-in-post-covid-measles-cases-reveals-big-gaps-in-vaccination/articleshow/109959350.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109959354,width-1070,height-580,imgsize-15024,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-08 21:55:41",
+      "content": "10 ways to raise your child's confidence and self esteem",
+      "retrievedAt": "2024-05-10 07:05:45.385965",
+      "internal_id": "5541892b12c170264928191ecb9d3889fde0c6a1be116ffca4b837c99c4140fb",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8957,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Dogs entering U.S. must be 6 months old and microchipped to prevent spread of rabies, new rules say",
+      "description": "All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new rules require vaccination for dogs that have been in countri\u2026",
+      "url": "https://japantoday.com/category/world/dogs-entering-us-must-be-6-months-old-and-microchipped-to-prevent-spread-of-rabies-new-rules-say",
+      "urlToImage": null,
+      "publishedAt": "2024-05-08 21:41:10",
+      "content": "All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new\u2026 [+3215 chars]",
+      "retrievedAt": "2024-05-10 07:05:45.076267",
+      "internal_id": "1d381eaa3b7bc3919a61ee68286645410b66b2bfaa4f3a0b59942c59f16fb6ec",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8958,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Ernie Mundell",
+      "title": "Dogs brought to US must be microchipped, older than 6 months: CDC",
+      "description": "Dogs brought into the United States from abroad must be compliant with new rules to help fight rabies in this country, according to updated guidance from the Centers for Disease Control and Prevention issued Wednesday.",
+      "url": "https://phys.org/news/2024-05-dogs-brought-microchipped-older-months.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/dogs-brought-to-us-mus.jpg",
+      "publishedAt": "2024-05-08 21:11:03",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+3073 chars]",
+      "retrievedAt": "2024-05-10 07:05:45.100670",
+      "internal_id": "beeb93994e4e58fb35af14bae8962b63923beb8851d37c891c83a1900d7bfd25",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8956,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "The Associated Press",
+      "title": "Traveling with dogs to the U.S.? The new CDC rules you'll have to follow",
+      "description": "All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new CDC rules.",
+      "url": "https://www.nbcnews.com/health/health-news/traveling-dogs-us-new-cdc-rules-follow-rcna151362",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/240508-dog-import-rules-leash-canine-2022-ac-442p-30c9df.jpg",
+      "publishedAt": "2024-05-08 20:55:00",
+      "content": "All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new\u2026 [+3101 chars]",
+      "retrievedAt": "2024-05-10 07:05:45.047479",
+      "internal_id": "b33bdef06a6a5bbdc1eb9d9bd1fccbfce1489a63f338b81ecf7dbb8cee93cc08",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8969,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Akash Kalita",
+      "title": "Researchers target spermidine production to combat emerging drug resistance in Salmonella",
+      "description": "Food-borne diseases like typhoid, caused by Salmonella Typhimurium, are a severe threat to public health, especially in India. The indiscriminate use of antibiotics has allowed this bacterium to become resistant, posing a major hurdle in treating infections.",
+      "url": "https://phys.org/news/2024-05-spermidine-production-combat-emerging-drug.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/targeting-spermidine-p.jpg",
+      "publishedAt": "2024-05-08 20:41:03",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+3522 chars]",
+      "retrievedAt": "2024-05-10 07:05:49.545970",
+      "internal_id": "80cf1c6a1004af3352faa809317355ca1eb5e8a0bf9dc5ea358b30099512505c",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8963,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: com 4 novos \u00f3bitos, Campinas chega a 20 mortes confirmadas pela doen\u00e7a; veja detalhamento",
+      "description": "V\u00edtimas confirmadas nesta quarta s\u00e3o todos homens e tinham entre 57 e 90 anos. Mosquito Aedes aegypti \u00e9 respons\u00e1vel por transmitir a dengue. Reprdou\u00e7\u00e3o/EPTV A Secretaria Municipal de Sa\u00fade de Campinas (SP) confirmou nesta quarta-feira (8) quatro novas mortes \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/08/dengue-com-4-novos-obitos-campinas-chega-a-20-mortes-confirmadas-pela-doenca-veja-detalhamento.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/j44gEgHziCCSgVvx6Ec-8CpgD8U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/H/Q/KTZBUxTTKeNca2c7rDUQ/mosquito-da-dengue.png",
+      "publishedAt": "2024-05-08 19:44:02",
+      "content": "Segundo o detalhamento da secretaria, as novas v\u00edtimas que tiveram o exame positivo para dengue eram todos homens e tinham 57, 59, 88 e 90 anos, sendo que os dois mais novos n\u00e3o possu\u00edam doen\u00e7as pree\u2026 [+6693 chars]",
+      "retrievedAt": "2024-05-10 07:05:46.506112",
+      "internal_id": "79aa3a5a56957c728542e8cbd272e468c7694e6eb966a9dd23a17af25e2580cb",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8961,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Regi\u00e3o italiana da Lig\u00faria registra 2 casos importados de dengue",
+      "description": "A regi\u00e3o italiana da Lig\u00faria registrou dois casos importados de dengue nesta quarta-feira (8), ...",
+      "url": "https://www.terra.com.br/noticias/mundo/regiao-italiana-da-liguria-registra-2-casos-importados-de-dengue,a50fce583491c07c72546500000d05401s74z5j7.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-05-08 19:42:15",
+      "content": "A regi\u00e3o italiana da Lig\u00faria registrou dois casos importados de dengue nesta quarta-feira (8), um deles do Brasil. Os infectados s\u00e3o dois cidad\u00e3os italianos, que est\u00e3o recebendo tratamento nos \u2026 [+1296 chars]",
+      "retrievedAt": "2024-05-10 07:05:46.479396",
+      "internal_id": "0a9f485e53eda3708856da16925e9fceb94f09ba89a985ecffbf31a9f6fc7283",
+      "publishedAtLabel": "May 8"
+    },
     {
       "id": 8939,
       "query": [
@@ -28203,6 +28455,117 @@
       "content": "SANTA FE.- Un ni\u00f1o de seis a\u00f1os es la octava v\u00edctima mortal del dengue en lo que va del a\u00f1o en la provincia de Santa Fe. En el pa\u00eds, seg\u00fan los \u00faltimos informes epidemiol\u00f3gicos, los muertos por la enf\u2026 [+3752 chars]",
       "retrievedAt": "2024-03-26 07:06:18.992880",
       "internal_id": "f2a55d74f538e1d22364c26bee8af41c486b3c891cf8ed6d443b8bd78e70e10e",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El mapa del dengue: ya se notificaron m\u00e1s de 200.000 casos en el pa\u00eds",
+      "description": "De esa cifra, se confirmaron m\u00e1s de 134.000 infecciones",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/aedes-aegypti-el-mosquito-vector-del-virus-del-6QDYNDDYZJFKLPQ2NNJK3N2RKI.jpg?auth=a5ebe6e7fab9ffd9789d2c0e1c57750d7714ab7cf7ea62c37633f480d019bab8&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-24 16:55:59",
+      "content": "La epidemia de dengue contin\u00faa y lo hace de acuerdo con las previsiones epidemiol\u00f3gicas: la cantidad de casos notificados en el pa\u00eds super\u00f3 la barrera de los 200.000 en lo que va del a\u00f1o y las provin\u2026 [+2702 chars]",
+      "retrievedAt": "2024-03-26 07:06:19.056485",
+      "internal_id": "83953d7ef6fb011bfdda9cfe96a47a388ecd25f0e7f5246ee6823916cb1f49d2",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7380,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dinheirama.com",
+      "author": "Ag\u00eancia Gov",
+      "title": "Entenda por que ainda \u00e9 preciso vacinar contra a Covid-19",
+      "description": "O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo\u2026 ------ Este artigo foi escrito por Ag\u00eancia Gov. Este artigo apareceu originalmente no site Dinheirama.A rep\u2026",
+      "url": "https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/",
+      "urlToImage": "https://media.dinheirama.com/medias/uploads/2024/03/20240323-vacinas.jpg",
+      "publishedAt": "2024-03-24 15:00:00",
+      "content": "1O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo Minist\u00e9rio da Sa\u00fade em janeiro no SUS, a vacin\u2026 [+4684 chars]",
+      "retrievedAt": "2024-03-25 19:05:41.952308",
+      "internal_id": "9e3149c732c50e3521f9a7a90c71be623a86ef2c4e8811025d56818d80803f4b",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7381,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Laboratorio de la Udelar en Salto colaborar\u00e1 con el MSP en diagn\u00f3stico de dengue",
+      "description": "Rodrigo Arim, rector de la universidad, anunci\u00f3 la noticia en sus redes sociales y destac\u00f3 \u201cla calidad al servicio del Uruguay\u201d.",
+      "url": "https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202209/_W933_80/818330.jpg",
+      "publishedAt": "2024-03-24 12:50:00",
+      "content": "Montevideo Portal El laboratorio de Virolog\u00eda Molecular de la Universidad de la Rep\u00fablica (Udelar) en Salto realizar\u00e1 diagn\u00f3sticos de dengue en el norte del pa\u00eds, seg\u00fan inform\u00f3 el rector de la unive\u2026 [+767 chars]",
+      "retrievedAt": "2024-03-25 19:05:42.171646",
+      "internal_id": "a0f32d00907d4cd18fb6a874c8ad828f7b07e04241d40cfb0c466fed3247c2f2",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7384,
+      "query": [
+        "zika",
+        "chikungunya",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mobilidaderio.com.br",
+      "author": "Mobilidade Rio",
+      "title": "Cientistas desenvolvem armadilha para combater o mosquito da dengue",
+      "description": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chikungunya e febre amarela urbana. Batizado de MataAedes, o pro\u2026",
+      "url": "https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/",
+      "urlToImage": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "publishedAt": "2024-03-24 12:14:55",
+      "content": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chik\u2026 [+2141 chars]",
+      "retrievedAt": "2024-03-25 19:05:43.094537",
+      "internal_id": "2a0a1c670c7bf57f488758ecf8356255d3267e8f075aa3b17e9048270bbf33ca",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7383,
+      "query": [
+        "zika",
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "France's battle against tiger mosquitoes threatening 2024 Paris Olympics",
+      "description": "France is facing a challenge in ensuring the 2024 Paris Olympics are free from mosquito-borne diseases. Asian tiger mosquitoes, carriers of diseases like dengue and zika, pose a threat to millions of fans and athletes. Despite efforts to eradicate them, inclu\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108748291,width-1200,height-630,imgsize-347784,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-24 09:12:00",
+      "content": "France is facing a challenging task to ensure that the upcoming 2024 Paris Olympics remain free from the threat of mosquito-borne diseases. The Asian tiger mosquito, known for spreading viruses like \u2026 [+2590 chars]",
+      "retrievedAt": "2024-03-25 19:05:43.075284",
+      "internal_id": "3537c26a8ee10134790b28359458aaa828c7f83e33c9d4f29a3685b3cfc47008",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7382,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "Dengue: desigualdade social e mudan\u00e7as clim\u00e1ticas colaboram para surto",
+      "description": "Aumento na incid\u00eancia de casos tem denunciado o impacto do racismo ambiental e das mudan\u00e7as clim\u00e1ticas no Brasil",
+      "url": "https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6d/6y/ft/6d6yfteqtvzc9enme97vjfmlv.jpg",
+      "publishedAt": "2024-03-24 09:00:00",
+      "content": "Nesta quinta-feira (22), o Minist\u00e9rio da Sa\u00fade informou que o Brasil superou a marca de 2 milh\u00f5es de casos de dengue em 2024. De acordo com a pasta, s\u00e3o 2.010.896 casos prov\u00e1veis da doen\u00e7a, com 682\u2026 [+5528 chars]",
+      "retrievedAt": "2024-03-25 19:05:42.192075",
+      "internal_id": "45743fbd38e9bb965d84cc83fd8f053a577aa793dd101c4ab9ee48bd12712da4",
       "publishedAtLabel": "Mar 24"
     }
   ]

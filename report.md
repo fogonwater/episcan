@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2024-05-09 19:05
-- **Most recent article:** 2024-05-08 18:54:32
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-05-10 07:05
+- **Most recent article:** 2024-05-09 06:15:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 179 | 158 | 138 | 113 | 117 | 77 | 36 | 818 |
-| measles | 44 | 36 | 43 | 40 | 28 | 24 | 1 | 216 |
-| malaria | 7 | 13 | 16 | 29 | 77 | 25 | 12 | 179 |
+| dengue | 185 | 158 | 138 | 113 | 117 | 77 | 42 | 830 |
+| measles | 44 | 36 | 43 | 40 | 28 | 24 | 2 | 217 |
+| malaria | 7 | 13 | 16 | 29 | 77 | 25 | 14 | 181 |
 | meningitis | 16 | 4 | 15 | 44 | 5 | 3 | 1 | 88 |
 | mpox | 6 | 12 | 3 | 13 | 8 | 36 | 3 | 81 |
-| zika | 19 | 11 | 10 | 8 | 3 | 8 | 1 | 60 |
-| rabies | 3 | 16 | 8 | 3 | 3 | 4 | 13 | 50 |
-| chikungunya | 8 | 12 | 7 | 5 | 5 | 7 | 2 | 46 |
+| zika | 21 | 11 | 10 | 8 | 3 | 8 | 1 | 62 |
+| rabies | 3 | 16 | 8 | 3 | 3 | 4 | 17 | 54 |
+| chikungunya | 9 | 12 | 7 | 5 | 5 | 7 | 2 | 47 |
 | pertussis | 6 | 7 | 9 | 7 | 5 | 2 | 4 | 40 |
 | sarampión | 3 | 5 | 13 | 0 | 10 | 8 | 1 | 40 |
 | leptospirosis | 0 | 1 | 3 | 3 | 3 | 2 | 1 | 13 |
 | yersinia | 1 | 3 | 0 | 2 | 0 | 5 | 1 | 12 |
-| typhoid | 1 | 0 | 0 | 2 | 0 | 0 | 2 | 5 |
+| typhoid | 1 | 0 | 0 | 2 | 0 | 0 | 3 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -41,6 +41,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-19 (typhoid)
 
+- [Researchers target spermidine production to combat emerging drug resistance in Salmonella](https://phys.org/news/2024-05-spermidine-production-combat-emerging-drug.html) (Phys.Org)
+
 - [The establishment told her she was wrong – then stole her findings](https://www.thepassivevoice.com/the-establishment-told-her-she-was-wrong-then-stole-her-findings/) (Thepassivevoice.com)
 
 - [Typhoid Rosie: "Cover It Up (Fuck You I’m So Beautiful)”](https://www.punknews.org/article/82756/typhoid-rosie-cover-it-up-fuck-you-im-so-beautiful) (Punknews.org)
@@ -50,6 +52,14 @@ Source: [News API](https://newsapi.org/)
 - [Tres de cada cuatro niños ya recibieron refuerzo contra sarampión](https://www.nacion.com/el-pais/salud/tres-de-cada-cuatro-ninos-ya-recibieron-refuerzo/AQ4NZVZRURERRGEOSAXNWVYR44/story/) (Nacion.com)
 
 ## 24-19 (rabies)
+
+- [In effort to prevent rabies, CDC launches new rules for bringing dogs into the US | CNN](https://www.cnn.com/2024/05/08/health/cdc-dog-import-rules/index.html) (CNN)
+
+- [Dogs entering U.S. must be 6 months old and microchipped to prevent spread of rabies, new rules say](https://japantoday.com/category/world/dogs-entering-us-must-be-6-months-old-and-microchipped-to-prevent-spread-of-rabies-new-rules-say) (Japan Today)
+
+- [Dogs brought to US must be microchipped, older than 6 months: CDC](https://phys.org/news/2024-05-dogs-brought-microchipped-older-months.html) (Phys.Org)
+
+- [Traveling with dogs to the U.S.? The new CDC rules you'll have to follow](https://www.nbcnews.com/health/health-news/traveling-dogs-us-new-cdc-rules-follow-rcna151362) (NBC News)
 
 - [New Rules for Dogs Entering U.S. to Help Prevent Spread of Rabies](https://time.com/6976083/6976083/) (Time)
 
@@ -101,9 +111,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-19 (measles)
 
+- [Spurt in post-Covid measles cases reveals big gaps in vaccination](https://timesofindia.indiatimes.com/india/spurt-in-post-covid-measles-cases-reveals-big-gaps-in-vaccination/articleshow/109959350.cms) (The Times of India)
+
 - [TWiV 1111: Taming of the flu](https://www.microbe.tv/twiv/twiv-1111/) (Microbe.tv)
 
 ## 24-19 (malaria)
+
+- [India's apex medical research body releases diet plan for all age groups](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/indias-apex-medical-research-body-releases-diet-plan-for-all-age-groups/articleshow/109969353.cms) (The Times of India)
+
+- [Wie Deutschland sich in die Weltgemeinschaft der Völker zurückschoss](https://www.welt.de/geschichte/article251433220/75-Jahre-Grundgesetz-Das-Wunder-von-Bern.html) (DIE WELT)
 
 - [Novel Methods to Detect Malaria Biomarkers for Evaluation of Vaccine Safety and Efficacy](https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/novel-methods-detect-malaria-biomarkers-evaluation-vaccine-safety-and-efficacy) (FDA.gov)
 
@@ -134,6 +150,18 @@ Source: [News API](https://newsapi.org/)
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
 
 ## 24-19 (dengue)
+
+- [Grippe, dengue, Covid… Les JO de Paris, futur nid à épidémies ?](https://www.lexpress.fr/sciences-sante/grippe-dengue-covid-les-jo-de-paris-futur-nid-a-epidemies-FYEA2ILICVEMJDKQCKJK6HE4OY/) (L'Express)
+
+- [Dengue en Cartagena: en la presente semana epidemióloga hay 0 casos](https://www.eluniversal.com.co/cartagena/ojo-dadis-confirma-aumento-en-los-casos-de-dengue-en-cartagena-BN10480753) (Eluniversal.com.co)
+
+- [Americana confirma 3ª morte por dengue em 2024; região chega a 44 óbitos](https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/08/americana-confirma-3a-morte-por-dengue-em-2024-regiao-chega-a-44-obitos.ghtml) (Globo)
+
+- [Dengue bites hard in Selangor](https://www.thestar.com.my/news/nation/2024/05/09/dengue-bites-hard-in-selangor) (The Star Online)
+
+- [Dengue: com 4 novos óbitos, Campinas chega a 20 mortes confirmadas pela doença; veja detalhamento](https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/08/dengue-com-4-novos-obitos-campinas-chega-a-20-mortes-confirmadas-pela-doenca-veja-detalhamento.ghtml) (Globo)
+
+- [Região italiana da Ligúria registra 2 casos importados de dengue](https://www.terra.com.br/noticias/mundo/regiao-italiana-da-liguria-registra-2-casos-importados-de-dengue,a50fce583491c07c72546500000d05401s74z5j7.html) (Terra.com.br)
 
 - [Curitiba confirma 885 novos casos de dengue e tem dois pacientes internados em UTI](https://www.terra.com.br/noticias/brasil/cidades/curitiba-confirma-885-novos-casos-de-dengue-e-tem-dois-pacientes-internados-em-uti,f0d5ec680272dafd8852522d1813cedc5mvbuwiv.html) (Terra.com.br)
 
@@ -2923,6 +2951,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://www.terra.com.br/vida-e-estilo/saude/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue,b9995ffbba358b40bd28daa79300bf334maktznz.html) (Terra.com.br)
 
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
+
+- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
+
 ## 24-13 (yersinia)
 
 - [A novel sORF gene mutant strain of Yersinia pestis vaccine EV76 offers enhanced safety and improved protection against plague](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012129) (Plos.org)
@@ -3475,6 +3507,18 @@ Source: [News API](https://newsapi.org/)
 
 - [Santa Fe: reportaron la muerte de un chico de seis años por dengue](https://www.lanacion.com.ar/sociedad/santa-fe-reportaron-la-muerte-de-un-chico-de-seis-anos-por-dengue-nid24032024/) (La Nacion)
 
+- [El mapa del dengue: ya se notificaron más de 200.000 casos en el país](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/) (La Nacion)
+
+- [Entenda por que ainda é preciso vacinar contra a Covid-19](https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/) (Dinheirama.com)
+
+- [Laboratorio de la Udelar en Salto colaborará con el MSP en diagnóstico de dengue](https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462) (Montevideo.com.uy)
+
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
+
+- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
+
+- [Dengue: desigualdade social e mudanças climáticas colaboram para surto](https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html) (Ig.com.br)
+
 ## 24-13 (chikungunya)
 
 - [¿Qué es el dengue y cómo tratarlo?](https://cnnespanol.cnn.com/2024/03/28/que-es-dengue-como-tratarlo-orix/) (CNN)
@@ -3492,3 +3536,5 @@ Source: [News API](https://newsapi.org/)
 - [Com mais 40 mortes, DF chega a 188 óbitos por dengue em 2024](https://www.metropoles.com/distrito-federal/com-mais-40-mortes-df-chega-a-188-obitos-por-dengue-em-2024) (Metropoles.com)
 
 - [El ECDC notifica más de 70.000 casos y 15 muertes por chikungunya en todo el mundo](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-70000-casos-15-muertes-chikungunya-todo-mundo-20240325170006.html) (Infosalus.com)
+
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
