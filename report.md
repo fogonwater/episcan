@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-05-10 19:05
-- **Most recent article:** 2024-05-09 18:37:23
+- **New articles in last harvest:** 44
+- **Last harvest:** 2024-05-10 19:50
+- **Most recent article:** 2024-05-09 19:47:02
 
 ---
 
@@ -12,19 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 179 | 158 | 138 | 113 | 117 | 77 | 45 | 827 |
+| dengue | 179 | 158 | 138 | 113 | 117 | 77 | 46 | 828 |
 | measles | 44 | 36 | 43 | 40 | 28 | 24 | 7 | 222 |
 | malaria | 7 | 13 | 16 | 29 | 77 | 25 | 20 | 187 |
 | meningitis | 16 | 4 | 15 | 44 | 5 | 3 | 1 | 88 |
 | mpox | 6 | 12 | 3 | 13 | 8 | 36 | 3 | 81 |
 | zika | 19 | 11 | 10 | 8 | 3 | 8 | 1 | 60 |
-| rabies | 3 | 16 | 8 | 3 | 3 | 4 | 19 | 56 |
-| chikungunya | 8 | 12 | 7 | 5 | 5 | 7 | 3 | 47 |
+| rabies | 3 | 16 | 8 | 3 | 3 | 4 | 20 | 57 |
+| chikungunya | 8 | 12 | 7 | 5 | 5 | 7 | 4 | 48 |
 | pertussis | 6 | 7 | 9 | 7 | 5 | 2 | 5 | 41 |
 | sarampión | 3 | 5 | 13 | 0 | 10 | 8 | 1 | 40 |
+| h5n1 | 0 | 0 | 0 | 0 | 0 | 0 | 39 | 39 |
 | leptospirosis | 0 | 1 | 3 | 3 | 3 | 2 | 1 | 13 |
 | yersinia | 1 | 3 | 0 | 2 | 0 | 5 | 1 | 12 |
 | typhoid | 1 | 0 | 0 | 2 | 0 | 0 | 3 | 6 |
+| hpai | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -52,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 - [Tres de cada cuatro niños ya recibieron refuerzo contra sarampión](https://www.nacion.com/el-pais/salud/tres-de-cada-cuatro-ninos-ya-recibieron-refuerzo/AQ4NZVZRURERRGEOSAXNWVYR44/story/) (Nacion.com)
 
 ## 24-19 (rabies)
+
+- [Here's what to know if you are traveling abroad with your dog](https://www.startribune.com/heres-what-to-know-if-you-are-traveling-abroad-with-your-dog/600364850/) (Minneapolis Star Tribune)
 
 - [Bringing a Pup From Abroad? There Are New Rules](https://www.newser.com/story/350096/its-now-a-bit-tougher-for-dogs-to-come-to-the-us.html) (Newser)
 
@@ -177,7 +181,97 @@ Source: [News API](https://newsapi.org/)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
 
+## 24-19 (hpai)
+
+- [株式会社シーディーアイ【ICT×ヘルパー×訪問介護記録】【無料オンラインセミナー開催】「まだ間に合う！特定事業所加算 虎の巻 ～これを聞けばもう安心～」](https://japan.cnet.com/release/30970681/) (CNET)
+
+- [CDC: ENGAGED WITH STATE & LOCAL HEALTH DEPARTMENTS, FARMWORKER O…](https://www.marketscreener.com/news/latest/CDC-ENGAGED-WITH-STATE-LOCAL-HEALTH-DEPARTMENTS-FARMWORKER-O--46640738/) (Marketscreener.com)
+
+- [Māori health organisation wants smokers to kick the habit in May](https://www.nzherald.co.nz/kahu/maori-health-organisation-wants-smokers-to-kick-the-habit-in-may/6DX5BXMEE5HB3FV2GOKZIZANDY/) (New Zealand Herald)
+
+## 24-19 (h5n1)
+
+- [Bird flu is bad for poultry and dairy cows. It’s not a dire threat for most of us — yet](https://www.bostonherald.com/2024/05/09/bird-flu-is-bad-for-poultry-and-dairy-cows-its-not-a-dire-threat-for-most-of-us-yet/) (Boston Herald)
+
+- [Bird flu doesn’t pose imminent pandemic risk—but lack of transparency, planning a cause for concern](https://www.hsph.harvard.edu/news/features/bird-flu-doesnt-pose-imminent-pandemic-risk-but-lack-of-transparency-planning-a-cause-for-concern/) (Harvard School of Engineering and Applied Sciences)
+
+- [How to Stop Bird Flu from Becoming the Next Pandemic](https://time.com/6976402/bird-flu-next-pandemic-testing/) (Time)
+
+- [Influenza aviaria, l’allarme degli scienziati Usa su Nature: “Rischia di diventare endemico tra i bovini”](https://www.ilfattoquotidiano.it/2024/05/09/influenza-aviaria-lallarme-degli-scienziati-usa-su-nature-rischia-di-diventare-endemico-tra-i-bovini/7542448/) (Ilfattoquotidiano.it)
+
+- [Grippe aviaire : ce que l’on sait du virus H5N1 qui se diffuse chez les vaches aux États-Unis](https://www.lepoint.fr/sante/grippe-aviaire-ce-que-l-on-sait-du-virus-h5n1-qui-se-diffuse-chez-les-vaches-aux-etats-unis-09-05-2024-2559800_40.php) (Le Point)
+
+- [No sign yet of H5N1 bird flu spreading between humans, says WHO chief](https://www.globalsecurity.org/security/library/news/2024/05/sec-240508-unnews01.htm) (Globalsecurity.org)
+
+- [The bird flu outbreak brings more questions than answers](https://www.japantimes.co.jp/commentary/2024/05/09/world/bird-flu-outbreak/) (The Japan Times)
+
+- [Bird flu in milk supply is likely coming from asymptomatic cows](https://www.statnews.com/2024/05/08/bird-flu-in-milk-h5n1-levels-suggest-asymptomatic-cows/) (STAT)
+
+- [U.S. Can Produce 100 Million Bird Flu “Vaccines” In Months](https://www.shtfplan.com/headline-news/u-s-can-produce-100-million-bird-flu-vaccines-in-months) (Shtfplan.com)
+
+- [La OMS alerta de que hasta 36 ganaderías de vacas de EEUU tienen gripe aviar: "El virus se está adaptando a mamíferos"](https://www.infosalus.com/actualidad/noticia-oms-alerta-36-ganaderias-vacas-eeuu-tienen-gripe-aviar-virus-adaptando-mamiferos-20240508185428.html) (Infosalus.com)
+
+- [Глава ВОЗ заявил, что вирус птичьего гриппа A(H5N1) требует усиленного наблюдения](https://tass.ru/obschestvo/20746431) (Tass.ru)
+
+- [CDC Says Bird Flu Has “Pandemic Potential” As It Has Mutated Over 300 Times](https://www.shtfplan.com/headline-news/cdc-says-bird-flu-has-pandemic-potential-as-it-has-mutated-over-300-times) (Shtfplan.com)
+
+- [Bird flu is bad for poultry and dairy cows: It's not a dire threat for most of us—yet](https://phys.org/news/2024-05-bird-flu-bad-poultry-dairy.html) (Phys.Org)
+
+- [Bird flu has spread to cows in Colorado. Is avian influenza threat? We answer your questions.](https://www.denverpost.com/2024/05/08/bird-flu-avian-influenza-colorado-cows/) (The Denver Post)
+
+- [No sign yet of H5N1 bird flu spreading between humans, says WHO chief](https://news.un.org/en/story/2024/05/1149521) (UN News)
+
+- [Even as bird flu looms, the world is unlearning Covid’s lessons](https://www.vox.com/24151110/bird-flu-h5n1-pandemic-treaty-prevention-response) (Vox)
+
+- [Mazlení krav v ohrožení. Oblíbenou zábavu milovníků zvířat kazí ptačí chřipka](https://www.idnes.cz/ekonomika/zahranicni/luz-farma-mazleni-s-kravami-kravy-ptaci-chripka.A240507_105518_eko-zahranicni_alis) (Idnes.cz)
+
+- [Giorgetti: “Spalmare i crediti del superbonus su 10 anni sarà un obbligo”. Poi se la prende con il governo Draghi di cui era ministro](https://www.ilfattoquotidiano.it/2024/05/08/giorgetti-spalmare-i-crediti-del-superbonus-su-10-anni-sara-un-obbligo-poi-se-la-prende-con-il-governo-draghi-di-cui-era-ministro/7540228/) (Ilfattoquotidiano.it)
+
+- [Ustica, sequestro da 130 milioni alla “nuova” Itavia: due indagati. “Usati i soldi dei risarcimenti per pagare debito con le banche”](https://www.ilfattoquotidiano.it/2024/05/08/ustica-sequestro-da-130-milioni-alla-nuova-itavia-due-indagati-usati-i-soldi-dei-risarcimenti-per-pagare-debito-con-le-banche/7540227/) (Ilfattoquotidiano.it)
+
+- [Il Twiga di Briatore sbarca in Liguria nel giorno dell’arresto del governatore Toti (assente alla presentazione del locale)](https://www.ilfattoquotidiano.it/2024/05/08/il-twiga-di-briatore-sbarca-in-liguria-nel-giorno-dellarresto-del-governatore-toti-assente-alla-presentazione-del-locale/7540143/) (Ilfattoquotidiano.it)
+
+- [L’arresto di Toti e i super poteri dei governatori: ribadisco, il terzo mandato va scongiurato](https://www.ilfattoquotidiano.it/2024/05/08/larresto-di-toti-e-i-super-poteri-dei-governatori-ribadisco-il-terzo-mandato-va-scongiurato/7540166/) (Ilfattoquotidiano.it)
+
+- [Alla Camera si discute sulla “supercazzola”: Mulè riprende Iaria (M5s) per l’uso del deputato. E Giachetti interviene in difesa del collega](https://www.ilfattoquotidiano.it/2024/05/08/alla-camera-si-discute-sulla-supercazzola-mule-riprende-iaria-m5s-per-luso-del-termine-e-giachetti-interviene-a-difesa-del-collega/7540101/) (Ilfattoquotidiano.it)
+
+- [Bird flu: One disease, half a billion birds and now mammals. How scared should we be?](https://www.nzherald.co.nz/nz/one-disease-half-a-billion-birds-and-now-mammals-how-scared-should-we-be-of-bird-flu/GVNE43B3OZF77L66B76UXE4T2Q/) (New Zealand Herald)
+
+- [The H5N1 Bird Flu “Has Acquired Dozens Of New Mutations” And Authorities Are Really Ramping Up The Fear Level](https://www.shtfplan.com/headline-news/the-h5n1-bird-flu-has-acquired-dozens-of-new-mutations-and-authorities-are-really-ramping-up-the-fear-level) (Shtfplan.com)
+
+- [With H5N1 Bird Flu Virus Spreading, How Safe Is Cow Cuddling Now?](https://www.forbes.com/sites/brucelee/2024/05/07/with-h5n1-bird-flu-virus-spreading-how-safe-is-cow-cuddling-now/) (Forbes)
+
+- [WHO's Farrar: Social context is key to halting bird flu spread](https://www.statnews.com/2024/05/07/bird-flu-spread-who-chief-scientist-farrar-on-stopping-h5n1/) (STAT)
+
+- [CDC Asks States to Make Worker Protective Gear Available to Combat Bird Flu](https://www.insurancejournal.com/news/national/2024/05/07/773097.htm) (Insurance Journal)
+
+- [Outbreak of Highly Pathogenic Avian Influenza A(H5N1) Virus in Seals, St. Lawrence Estuary, Quebec, Canada](https://wwwnc.cdc.gov/eid/article/30/6/23-1033_article) (Cdc.gov)
+
+- [美国CDC要求各州为工人提供防护装备以对抗禽流感](https://www.cnbeta.com.tw/articles/tech/1429893.htm) (Cnbeta.com.tw)
+
+- [US CDC asks states to make worker protective gear available to combat bird flu](https://www.marketscreener.com/quote/index/S-P-GSCI-CLASS-III-MILK-U-65338632/news/US-CDC-asks-states-to-make-worker-protective-gear-available-to-combat-bird-flu-46641373/) (Marketscreener.com)
+
+- [Data highlight need to control cow outbreak to halt bird flu spread](https://www.statnews.com/2024/05/06/bird-flu-spread-study-of-h5n1-virus-infection-in-cows/) (STAT)
+
+- [Monday headlines: Plantasia](https://themorningnews.org/p/monday-headlines-plantasia) (Themorningnews.org)
+
+- [Aviaria, sempre più specie suscettibili al virus: quanto deve preoccuparsi l’uomo?](https://www.ilfattoquotidiano.it/2024/05/06/aviaria-sempre-piu-specie-suscettibili-al-virus-quanto-deve-preoccuparsi-luomo/7537115/) (Ilfattoquotidiano.it)
+
+- [La gripe aviar es mala para las aves de corral y las vacas lecheras. No es una amenaza grave para la mayoría de nosotros… por ahora](https://kffhealthnews.org/news/article/la-gripe-aviar-es-mala-para-las-aves-de-corral-y-las-vacas-lecheras-no-es-una-amenaza-grave-para-la-mayoria-de-nosotros-por-ahora/) (Kffhealthnews.org)
+
+- [Avian flu: What are the risk to humans?](https://www.ctvnews.ca/health/avian-flu-risk-to-humans-grows-as-outbreaks-spread-warns-expert-1.6875036) (Ctvnews.ca)
+
+- [EU alerta que los trabajadores de sector lácteo corren riesgo de contraer la gripe aviar](https://www.forbes.com.mx/eu-alerta-que-los-trabajadores-de-sector-lacteo-corren-riesgo-de-contraer-la-gripe-aviar/) (Forbes.com.mx)
+
+- [Navigating the flap over avian flu](https://www.bostonglobe.com/2024/05/06/opinion/avian-flu-h5n1-cattle-cows-milk-mdar/) (The Boston Globe)
+
+- [Lintuinfluenssa levisi Yhdysvalloissa lehmiin, viruksen jäämiä on ainakin viidenneksessä kauppojen maidosta](https://yle.fi/a/74-20085940) (YLE News)
+
+- [Gatos se infectaron con H5N1 por la forma más inesperada: tomaron leche de vaca](https://www.xataka.com.mx/medicina-y-salud/gatos-se-infectaron-h5n1-forma-inesperada-tomaron-leche-vaca) (Xataka.com.mx)
+
 ## 24-19 (dengue)
+
+- [Veja os sintomas e como prevenir a febre oropouche](https://www.terra.com.br/vida-e-estilo/saude/veja-os-sintomas-e-como-prevenir-a-febre-oropouche,f70ce56571f3242b3e2e98444327d5dfz1baku0u.html) (Terra.com.br)
 
 - [DHS kicks off checks for dengue, malaria](https://timesofindia.indiatimes.com/city/goa/dhs-kicks-off-checks-for-dengue-malaria/articleshow/109989354.cms) (The Times of India)
 
@@ -270,6 +364,8 @@ Source: [News API](https://newsapi.org/)
 - [El ‘ejército’ de peces guppy con el que combaten el dengue en Cali](https://www.eluniversal.com.co/salud/enfermedades/el-ejercito-de-peces-guppy-con-el-que-combaten-el-dengue-en-cali-DA10457589) (Eluniversal.com.co)
 
 ## 24-19 (chikungunya)
+
+- [Veja os sintomas e como prevenir a febre oropouche](https://www.terra.com.br/vida-e-estilo/saude/veja-os-sintomas-e-como-prevenir-a-febre-oropouche,f70ce56571f3242b3e2e98444327d5dfz1baku0u.html) (Terra.com.br)
 
 - [Vigilância pode prever epidemias de chikungunya; entenda](https://olhardigital.com.br/2024/05/09/medicina-e-saude/vigilancia-pode-prever-epidemias-de-chikungunya-entenda/) (Olhardigital.com.br)
 

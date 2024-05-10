@@ -1,8 +1,63 @@
 {
-  "last_updated": "2024-05-10 19:05",
-  "count_articles_total": 1593,
-  "count_articles_new": 17,
+  "last_updated": "2024-05-10 19:50",
+  "count_articles_total": 1637,
+  "count_articles_new": 44,
   "articles": [
+    {
+      "id": 8987,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "The Associated Press",
+      "title": "Here's what to know if you are traveling abroad with your dog",
+      "description": "whether if you are returning from a trip overseas with Rover, visiting the U.S., or adopting a dog from abroad \u2014 you have to follow a set of new rules designed to help prevent the spread of rabies.",
+      "url": "https://www.startribune.com/heres-what-to-know-if-you-are-traveling-abroad-with-your-dog/600364850/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1715282644",
+      "publishedAt": "2024-05-09 19:47:02",
+      "content": "If you are bringing a dog into the U.S. whether if you are returning from a trip overseas with Rover, visiting the U.S., or adopting a dog from abroad you have to follow a set of new rules designed t\u2026 [+1388 chars]",
+      "retrievedAt": "2024-05-10 19:50:06.313369",
+      "internal_id": "685134d96f9dd816951bb04a425b816e6cf43952bbff05ffedea54ecfe9afbc6",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 9030,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Portal EdiCase",
+      "title": "Veja os sintomas e como prevenir a febre oropouche",
+      "description": "Doen\u00e7a viral tem sintomas parecidos com a dengue e a chikungunya, mas \u00e9 transmitida por outro inseto",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/veja-os-sintomas-e-como-prevenir-a-febre-oropouche,f70ce56571f3242b3e2e98444327d5dfz1baku0u.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/09/128046197-virus.jpg",
+      "publishedAt": "2024-05-09 19:33:32",
+      "content": "A febre oropouche \u00e9 uma doen\u00e7a causada pelo v\u00edrus Orthobunyavirus oropoucheense (OROV), descoberto pela primeira vez no Brasil em 1960. Ele \u00e9 transmitido principalmente pela picada de um tipo espec\u00edf\u2026 [+2217 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.845230",
+      "internal_id": "d6e0cd4256e05261c955687b3883163e789e8463ac329dd9df8d0a09bc4ba68b",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 9004,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Tribune News Service",
+      "title": "Bird flu is bad for poultry and dairy cows. It\u2019s not a dire threat for most of us \u2014 yet",
+      "description": "What scientists fear most is if the virus were to spread efficiently from person to person. That hasn\u2019t happened and might not.",
+      "url": "https://www.bostonherald.com/2024/05/09/bird-flu-is-bad-for-poultry-and-dairy-cows-its-not-a-dire-threat-for-most-of-us-yet/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/05/US-NEWS-HEALTH-BIRDFLU-QA-GET.jpg?w=1024&h=695",
+      "publishedAt": "2024-05-09 19:03:06",
+      "content": "Amy Maxmen | (TNS) KFF Health News Headlines are flying after the Department of Agriculture confirmed that the H5N1 bird flu virus has infected dairy cows around the country. Tests have detected the\u2026 [+9504 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.996250",
+      "internal_id": "d93f76394c5046a411e0e0438fffc793c603b6542e294c6b0ba4022ebba26617",
+      "publishedAtLabel": "May 9"
+    },
     {
       "id": 8978,
       "query": [
@@ -20,6 +75,42 @@
       "content": "10 benefits of eating 1 Khajoor everyday",
       "retrievedAt": "2024-05-10 19:05:37.370850",
       "internal_id": "892b7a9230abb4c78e840cfcf0a72721060db980fcd8be614ac5449d8a0a61bc",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 9029,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Harvard School of Engineering and Applied Sciences",
+      "author": "Karen Feldscher",
+      "title": "Bird flu doesn\u2019t pose imminent pandemic risk\u2014but lack of transparency, planning a cause for concern",
+      "description": "Bill Hanage, associate professor of epidemiology at Harvard Chan School, discusses the potential pandemic risk posed by bird flu, currently circulating among cows.",
+      "url": "https://www.hsph.harvard.edu/news/features/bird-flu-doesnt-pose-imminent-pandemic-risk-but-lack-of-transparency-planning-a-cause-for-concern/",
+      "urlToImage": "https://www.hsph.harvard.edu/news/wp-content/uploads/sites/21/2024/05/Cows_1200x800.jpg",
+      "publishedAt": "2024-05-09 18:36:05",
+      "content": "May 9, 2024 Bird fluH5N1 avian flu virushas been spreading among dairy cows across the U.S. So far, theres only one known case of the virus possibly passing from a cow to a human, but experts are con\u2026 [+7959 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.105021",
+      "internal_id": "5a4ee9690ef32662337c9bf243c36e3afc38ccce0ecbb3a171f31654e92b9ba9",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 9024,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Michael Mina",
+      "title": "How to Stop Bird Flu from Becoming the Next Pandemic",
+      "description": "The most important tool in our arsenal is widespread testing, write Janika Schmitt and Michael Mina. We're not doing enough of it.",
+      "url": "https://time.com/6976402/bird-flu-next-pandemic-testing/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/dairy-cow.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-05-09 18:26:46",
+      "content": "If H5N1 turns into a full-blown pandemic, we are currently in chapter one. To prevent chapter two from becoming a reality, the most important tool in our arsenal will be widespread testing. Testing i\u2026 [+7536 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.084314",
+      "internal_id": "c57f20942b4781c20f72053a058b4308c2ad4433d7dbda1a80d99180ff9d06e6",
       "publishedAtLabel": "May 9"
     },
     {
@@ -110,6 +201,24 @@
       "content": "Febbre dengue, colera: su questi due fronti ci sono buone notizie in arrivo per le vaccinazioni. Cure e profilassi non arrivano mai cos\u00ec velocemente come si vorrebbe, per\u00f2 la scienza medica continua \u2026 [+7287 chars]",
       "retrievedAt": "2024-05-10 19:05:37.387627",
       "internal_id": "f868b3698b5ad961dce769a7ac74a938801cafdd97b383c695a04bf81daff347",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 8993,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "30science per Il Fatto",
+      "title": "Influenza aviaria, l\u2019allarme degli scienziati Usa su Nature: \u201cRischia di diventare endemico tra i bovini\u201d",
+      "description": "Il ceppo H5N1 dell\u2019influenza aviaria, che ha messo in allarme la comunit\u00e0 scientifica, rischia di diventare endemico tra i bovini USA, con l\u2019alta probabilit\u00e0 di mutazioni e di conseguente diffusione tra gli esseri umani. Questo secondo quanto riportato da una\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/05/09/influenza-aviaria-lallarme-degli-scienziati-usa-su-nature-rischia-di-diventare-endemico-tra-i-bovini/7542448/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/04/03/influenza-aviaria-1200x630.jpg",
+      "publishedAt": "2024-05-09 16:06:01",
+      "content": "Il ceppo H5N1 dellinfluenza aviaria, che ha messo in allarme la comunit\u00e0 scientifica, rischia di diventare endemico tra i bovini USA, con lalta probabilit\u00e0 di mutazioni e di conseguente diffusione tr\u2026 [+6002 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.947896",
+      "internal_id": "4458970ec9d2acd79b7dc936f4e0fd0fbff405fc076e9274a7f81792a6b1a631",
       "publishedAtLabel": "May 9"
     },
     {
@@ -239,6 +348,24 @@
       "publishedAtLabel": "May 9"
     },
     {
+      "id": 9016,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Chlo\u00e9 S\u00e9mat",
+      "title": "Grippe aviaire : ce que l\u2019on sait du virus H5N1 qui se diffuse chez les vaches aux \u00c9tats-Unis",
+      "description": "De nombreux elevages de bovins sont touches par la grippe aviaire aux Etats-Unis. Debut avril, un employe de ferme a ete teste positif.",
+      "url": "https://www.lepoint.fr/sante/grippe-aviaire-ce-que-l-on-sait-du-virus-h5n1-qui-se-diffuse-chez-les-vaches-aux-etats-unis-09-05-2024-2559800_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2024/05/09/26560521lpw-26560526-mega-une-jpg_10294570.jpg",
+      "publishedAt": "2024-05-09 11:30:00",
+      "content": "Aux \u00c9tats-Unis, la contamination de plusieurs \u00e9levages de vaches laiti\u00e8res par la grippe aviaire suscite l'inqui\u00e9tude. D'autant que, jusqu'alors, les bovins \u00e9taient r\u00e9put\u00e9s peu sensibles \u00e0 ce virus q\u2026 [+3329 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.049777",
+      "internal_id": "610d5017d729980f4773afb1c1ca87ad58397e67b0ab63341932910b35f58b7c",
+      "publishedAtLabel": "May 9"
+    },
+    {
       "id": 8986,
       "query": [
         "chikungunya"
@@ -290,6 +417,24 @@
       "content": "Nearly 12 per cent of children in India who are eligible for measles vaccination have received none of the recommended double-dose, signalling a \"concerning gap\" in immunisation coverage, a new study\u2026 [+3434 chars]",
       "retrievedAt": "2024-05-10 19:05:36.309800",
       "internal_id": "de35b9bfa9a4417b1b59280f23b5d2d9f8f329b347cc95b37ec3b65ad25d9a65",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 9008,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "No sign yet of H5N1 bird flu spreading between humans, says WHO chief",
+      "description": "The H5N1 avian influenza virus has so far shown no signs of adapting to allow human to human transmission, the UN health agency said on Wednesday, urging continued surveillance.",
+      "url": "https://www.globalsecurity.org/security/library/news/2024/05/sec-240508-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-05-09 08:52:24",
+      "content": "8 May 2024 - The H5N1 avian influenza virus has so far shown no signs of adapting to allow human to human transmission, the UN health agency said on Wednesday, urging continued surveillance. So far,\u2026 [+2264 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.013619",
+      "internal_id": "952b40c875b92051a7b21c5f7a940ba337823d4200987279d242dc0e0ec2ba4c",
       "publishedAtLabel": "May 9"
     },
     {
@@ -398,6 +543,24 @@
       "content": "El Departamento Administrativo Distrital de Salud (Dadis) contin\u00faa fortaleciendo las actividades contra el dengue en los entornos educativo, comunitario, institucional y de hogar, as\u00ed lo inform\u00f3 el d\u2026 [+785 chars]",
       "retrievedAt": "2024-05-10 07:05:46.537963",
       "internal_id": "2aa015487abc45e3bef2362aa14c62e4f77d4c6bbb6285c25d10f5659245fda4",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 9022,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "Lisa Jarvis",
+      "title": "The bird flu outbreak brings more questions than answers",
+      "description": "This is a pathogen that has loomed large in the minds of infectious disease experts for its potential to cause a deadly human pandemic.",
+      "url": "https://www.japantimes.co.jp/commentary/2024/05/09/world/bird-flu-outbreak/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/05/09/335357.JPG",
+      "publishedAt": "2024-05-09 02:35:00",
+      "content": "As the magnitude of the bird flu outbreak in cattle becomes clearer, so does the need to quickly get a firmer grip on some basic facts. Namely, how far this H5N1 virus has spread, how it is spreading\u2026 [+577 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.075384",
+      "internal_id": "9286c090b61385b1f2f488c497f5882ad5af1a959b2a382ed6ead3e07027fe27",
       "publishedAtLabel": "May 9"
     },
     {
@@ -527,6 +690,24 @@
       "publishedAtLabel": "May 8"
     },
     {
+      "id": 9027,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Megan Molteni",
+      "title": "Bird flu in milk supply is likely coming from asymptomatic cows",
+      "description": "How is it that so much bird flu virus is getting off of affected dairy farms and into the national milk supply?",
+      "url": "https://www.statnews.com/2024/05/08/bird-flu-in-milk-h5n1-levels-suggest-asymptomatic-cows/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/05/AdobeStock_64224019-1024x576.jpeg",
+      "publishedAt": "2024-05-08 20:05:14",
+      "content": "Since March, when the first reported cases of H5N1 bird flu began showing up in dairy cattle in Texas, the Food and Drug Administration has been asking farmers to discard any milk from infected anima\u2026 [+11260 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.096825",
+      "internal_id": "c269b9671330b001f8a8791dd2b9ee740033eb03c5c504618e4a9a6ee69abef2",
+      "publishedAtLabel": "May 8"
+    },
+    {
       "id": 8963,
       "query": [
         "dengue"
@@ -635,6 +816,24 @@
       "publishedAtLabel": "May 8"
     },
     {
+      "id": 9005,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "U.S. Can Produce 100 Million Bird Flu \u201cVaccines\u201d In Months",
+      "description": "The United States allegedly has the capacity to produce 100 million doses of bird flu \"vaccines\" within months, should the ruling class declare it another plandemic. The U.S. government has two candidate vaccine viruses for H5N1 bird flu that could be used to\u2026",
+      "url": "https://www.shtfplan.com/headline-news/u-s-can-produce-100-million-bird-flu-vaccines-in-months",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdfluvaccine.jpg",
+      "publishedAt": "2024-05-08 17:30:02",
+      "content": "The United States allegedly can produce 100 million doses of bird flu \u201cvaccines\u201d within months, should the ruling class declare it another plandemic. The U.S. government has two candidate vaccine vir\u2026 [+1807 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.000315",
+      "internal_id": "17b13db7a1d74d23b50f0775721287bcb7840ff4e44e05a4aa80f080c4701bb5",
+      "publishedAtLabel": "May 8"
+    },
+    {
       "id": 8948,
       "query": [
         "dengue"
@@ -650,6 +849,24 @@
       "content": "A Secretaria Municipal da Sa\u00fade de Curitiba, confirmou, nesta quarta-feira (8), 885 novos casos de dengue. Do total, segundo o boletim, 89 s\u00e3o referentes a notifica\u00e7\u00f5es da \u00faltima semana, enquanto os \u2026 [+611 chars]",
       "retrievedAt": "2024-05-09 19:05:23.506688",
       "internal_id": "98e06b7368f9c69aabb4ac59cd8ee248db89470aed33f2e3eb8b1dad197df8a6",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 9014,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS alerta de que hasta 36 ganader\u00edas de vacas de EEUU tienen gripe aviar: \"El virus se est\u00e1 adaptando a mam\u00edferos\"",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido de que hay un total de 36 ganader\u00edas de vacas lecheras en Estados Unidos infectadas por el brote de gripe aviar H5N1.",
+      "url": "https://www.infosalus.com/actualidad/noticia-oms-alerta-36-ganaderias-vacas-eeuu-tienen-gripe-aviar-virus-adaptando-mamiferos-20240508185428.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240508185428_1200.jpg",
+      "publishedAt": "2024-05-08 16:54:28",
+      "content": "MADRID, 8 May. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido de que hay un total de 36 ganader\u00edas de vacas lecheras en Estados Unidos infectadas por el brote de gripe avi\u2026 [+6967 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.041866",
+      "internal_id": "4b08408888f675c2970079b01d9241378cef1700b8c1607cd3e5b4e8dd01c515",
       "publishedAtLabel": "May 8"
     },
     {
@@ -815,6 +1032,24 @@
       "publishedAtLabel": "May 8"
     },
     {
+      "id": 9003,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0413\u043b\u0430\u0432\u0430 \u0412\u041e\u0417 \u0437\u0430\u044f\u0432\u0438\u043b, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 A(H5N1) \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u0443\u0441\u0438\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f",
+      "description": "\u041f\u0440\u0438 \u044d\u0442\u043e\u043c \u043e\u043d \u043f\u043e\u043a\u0430 \u043d\u0435 \u043f\u0440\u043e\u044f\u0432\u043b\u044f\u0435\u0442 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u043e\u0432 \u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0438\u0438 \u043a \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044e \u0441\u0440\u0435\u0434\u0438 \u043b\u044e\u0434\u0435\u0439, \u043e\u0442\u043c\u0435\u0442\u0438\u043b \u0422\u0435\u0434\u0440\u043e\u0441 \u0410\u0434\u0430\u043d\u043e\u043c \u0413\u0435\u0431\u0440\u0435\u0439\u0435\u0441\u0443\u0441",
+      "url": "https://tass.ru/obschestvo/20746431",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/20746431?u=2024-05-08T15:37:58.467756",
+      "publishedAt": "2024-05-08 15:37:58",
+      "content": ", 8 . //. A(H5N1) , . () . \" , \", - . , , , \" \" A(H5N1). \" \". , , \" 36 \". , 220 30 . , \" \", , , . A(H5N1) , , , - . , 2021 28 . . - , . , , , , .",
+      "retrievedAt": "2024-05-10 19:50:07.991917",
+      "internal_id": "4abd19ae82ffc699bc4691e34a74ed8d4b7867f193349c9996dcfd9bc302f93d",
+      "publishedAtLabel": "May 8"
+    },
+    {
       "id": 8943,
       "query": [
         "rabies"
@@ -888,6 +1123,24 @@
       "publishedAtLabel": "May 8"
     },
     {
+      "id": 9001,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "CDC Says Bird Flu Has \u201cPandemic Potential\u201d As It Has Mutated Over 300 Times",
+      "description": "The bird flu could cause the next pandemic in humans, the Centers for Disease Control and Prevention has warned. The H5N1 strain is currently spreading on farms and continues to mutate.",
+      "url": "https://www.shtfplan.com/headline-news/cdc-says-bird-flu-has-pandemic-potential-as-it-has-mutated-over-300-times",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/03/bird-flu-positive.jpg",
+      "publishedAt": "2024-05-08 15:00:10",
+      "content": "The bird flu could cause the next pandemic in humans, the Centers for Disease Control and Prevention has warned. The H5N1 strain is currently spreading on farms and continues to mutate. This strain \u2026 [+2058 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.983432",
+      "internal_id": "11122ffd672ac1e7aaeb65bd772e672c1006e26b11de12f09a9da2458472ccba",
+      "publishedAtLabel": "May 8"
+    },
+    {
       "id": 8953,
       "query": [
         "malaria"
@@ -942,6 +1195,60 @@
       "publishedAtLabel": "May 8"
     },
     {
+      "id": 8992,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Amy Maxmen",
+      "title": "Bird flu is bad for poultry and dairy cows: It's not a dire threat for most of us\u2014yet",
+      "description": "Headlines are flying after the Department of Agriculture confirmed that the H5N1 bird flu virus has infected dairy cows around the country. Tests have detected the virus among cattle in nine states, mainly in Texas and New Mexico, and most recently in Colorad\u2026",
+      "url": "https://phys.org/news/2024-05-bird-flu-bad-poultry-dairy.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/dairy-cows.jpg",
+      "publishedAt": "2024-05-08 12:18:44",
+      "content": "Headlines are flying after the Department of Agriculture confirmed that the H5N1 bird flu virus has infected dairy cows around the country. Tests have detected the virus among cattle in nine states, \u2026 [+9865 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.943425",
+      "internal_id": "3a2b06aace3a6b0f29abd734acf9146eed9a675e7cdad736063cb6771dfcd830",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 9011,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "Bird flu has spread to cows in Colorado. Is avian influenza threat? We answer your questions.",
+      "description": "The Denver Post compiled the latest information on H5N1 highly pathogenic avian influenza, the bird flu virus that has jumped to cows in at least nine states \u2014 including Colorado \u2014 and has infected a small number of people.",
+      "url": "https://www.denverpost.com/2024/05/08/bird-flu-avian-influenza-colorado-cows/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/04/tdp-z-opcolumn-03.jpg?w=1024&h=693",
+      "publishedAt": "2024-05-08 12:00:14",
+      "content": "The bird flu has arrived in Colorado, and while it doesn\u2019t represent anywhere near the threat that COVID-19 did at the beginning of the pandemic, people should take some precautions with animals that\u2026 [+6976 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.029215",
+      "internal_id": "a6f2499e91f6b1c528425227df1f9fff395ba495efd5f9f8f694fb7d06448666",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 9019,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "No sign yet of H5N1 bird flu spreading between humans, says WHO chief",
+      "description": "The H5N1 avian influenza virus has so far shown no signs of adapting to allow human-to-human transmission, the UN health agency said on Wednesday, urging continued surveillance. Read Full Story on UN News The post No sign yet of H5N1 bird flu spreading betwee\u2026",
+      "url": "https://news.un.org/en/story/2024/05/1149521",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/18-04-2024_Unsplash_chicken-01.jpg/image770x420cropped.jpg",
+      "publishedAt": "2024-05-08 12:00:00",
+      "content": "So far, one human case has been reported in the United States since the outbreak of bird flu among the millions of dairy cattle across the country. At least 220 people are subject to monitoring and a\u2026 [+1942 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.062291",
+      "internal_id": "146585941f824d5829819b0e622b120cb1d40b2b4122a66fe3c74e782c16886a",
+      "publishedAtLabel": "May 8"
+    },
+    {
       "id": 8950,
       "query": [
         "dengue"
@@ -957,6 +1264,24 @@
       "content": "Due casi di dengue sono stati diagnosticati in Liguria nelle ultime ore. Ad essere infettati due cittadini italiani, tornati recentemente da viaggi all'estero e sottoposti alle cure negli ospedali\u2026 [+1530 chars]",
       "retrievedAt": "2024-05-09 19:05:23.554263",
       "internal_id": "4a28ea3a064e28e6da0626ccc5a2ca2cfc8bc98c511bc649ae7554664e9c87f4",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8991,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Dylan Scott",
+      "title": "Even as bird flu looms, the world is unlearning Covid\u2019s lessons",
+      "description": "H5N1 makes clear human and animal health is connected. Why aren\u2019t we doing something about it?",
+      "url": "https://www.vox.com/24151110/bird-flu-h5n1-pandemic-treaty-prevention-response",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/isYTEVVKrRSqZ4-h-wNz8Uu5ass=/0x172:3405x1955/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25437188/GettyImages_2150341585.jpg",
+      "publishedAt": "2024-05-08 11:15:00",
+      "content": "Despite increasing H5N1 flu concerns, self-interest appears to be trumping the common good as the world negotiates a pandemic treaty. | Justin Sullivan/Getty Images A post-Covid pandemic treaty\u2026 [+6689 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.937739",
+      "internal_id": "968b235484b6ef6899611c5e5a65e941646f2fbc178e55676286e3185c83dbac",
       "publishedAtLabel": "May 8"
     },
     {
@@ -993,6 +1318,114 @@
       "content": "The European Centre for Disease Control (ECDC) has raised the alarm at the ten-fold increase in whooping cough (Pertussis) on the continent in the past year, renewing calls to step up vaccination as \u2026 [+1888 chars]",
       "retrievedAt": "2024-05-09 19:05:22.357694",
       "internal_id": "a3d354829da0cced122fc842c238a550b5365c1f1585498e4231dcbcf2b75066",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 9013,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Sabina Ali",
+      "title": "Mazlen\u00ed krav v ohro\u017een\u00ed. Obl\u00edbenou z\u00e1bavu milovn\u00edk\u016f zv\u00ed\u0159at kaz\u00ed pta\u010d\u00ed ch\u0159ipka",
+      "description": "Platit farm\u00e1\u0159\u016fm za to, \u017ee se p\u0159itul\u00ed k p\u016fltunov\u00fdm jalovic\u00edm, je ve Spojen\u00fdch st\u00e1tech d\u00edky soci\u00e1ln\u00edm s\u00edt\u00edm hit. Pro n\u00e1v\u0161t\u011bvn\u00edky mazlen\u00ed s kravami p\u0159edstavuje terapeutickou z\u00e1le\u017eitost nebo zkr\u00e1tka jen \u00fanik z m\u011bsta za zaj\u00edmav\u00fdm z\u00e1\u017eitkem. Pro farmy je pak tento t\u2026",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/luz-farma-mazleni-s-kravami-kravy-ptaci-chripka.A240507_105518_eko-zahranicni_alis",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2024/5/ALI5db4448790_45_BIRD_FLU_COW_CUDDLING.JPG",
+      "publishedAt": "2024-05-08 10:00:00",
+      "content": "Americk\u00e9 ministerstvo zemdlstv\u00ed pta\u00ed chipku potvrdilo ve st\u00e1dech dojnic v dev\u00edti st\u00e1tech. Vdci na z\u00e1klad n\u00e1lez \u00e1stic H5N1 v piblin 20 procentech vzork ml\u00e9ka uvedli, e epidemie je pravdpodobn roz\u00eden\u00e1 \u2026 [+2891 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.037750",
+      "internal_id": "450f1a3bb58a484c4bc3b1cf05906fb6a7bc6c37f26a4765775fc1674c093def",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8999,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Giorgetti: \u201cSpalmare i crediti del superbonus su 10 anni sar\u00e0 un obbligo\u201d. Poi se la prende con il governo Draghi di cui era ministro",
+      "description": "I crediti del Superbonus verranno spalmati su un arco di 10 anni, oltre il doppio rispetto ai 4 attuali. Lo ha indicato il ministro dell\u2019economia Giancarlo Giorgetti dopo aver partecipato ai lavori della commissione Finanze del Senato sul decreto Superbonus. \u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/05/08/giorgetti-spalmare-i-crediti-del-superbonus-su-10-anni-sara-un-obbligo-poi-se-la-prende-con-il-governo-draghi-di-cui-era-ministro/7540228/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/05/08/giorgetti_1200-2-1200x630.jpg",
+      "publishedAt": "2024-05-08 09:15:52",
+      "content": "Milano, 8 mag. (Adnkronos Salute) - I casi umani di aviaria sono sottostimati. E \"se molti lavoratori delle aziende lattiero-casearie contraggono l'H5N1\", il virus aviario che circola tra le mucche i\u2026 [+6402 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.974696",
+      "internal_id": "01b6f736d9b66c3df5e99ea1088ded75ccade2cec5f9b263e91de8f039935c9c",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8997,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Ustica, sequestro da 130 milioni alla \u201cnuova\u201d Itavia: due indagati. \u201cUsati i soldi dei risarcimenti per pagare debito con le banche\u201d",
+      "description": "Un sequestro da 130 milioni di euro ai danni nei confronti di due componenti pro-tempore del consiglio di amministrazione della societ\u00e0 Aerolinee Itavia Spa, che per chi non lo ricordasse era la compagnia aerea del Dc9 che precipit\u00f2 nelle acque di Ustica con \u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/05/08/ustica-sequestro-da-130-milioni-alla-nuova-itavia-due-indagati-usati-i-soldi-dei-risarcimenti-per-pagare-debito-con-le-banche/7540227/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/09/04/ustica-1-1200x630.jpg",
+      "publishedAt": "2024-05-08 09:15:13",
+      "content": "Milano, 8 mag. (Adnkronos Salute) - I casi umani di aviaria sono sottostimati. E \"se molti lavoratori delle aziende lattiero-casearie contraggono l'H5N1\", il virus aviario che circola tra le mucche i\u2026 [+6402 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.965811",
+      "internal_id": "2f58d3e20691daaddc55eac19bebe5f42f505af12ea3e08289fe0cf2c292ebde",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 8998,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Il Twiga di Briatore sbarca in Liguria nel giorno dell\u2019arresto del governatore Toti (assente alla presentazione del locale)",
+      "description": "Flavio Briatore sbarca in Liguria nel giorno dell\u2019arresto di Giovanni Toti. L\u2019imprenditore ha infatti appena presentato a Ventimiglia un\u2019altra sede del Twiga, la sua catena di locali esclusivi. \u201cQui abbiamo trovato un\u2019amministrazione fantastica, che con il si\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/05/08/il-twiga-di-briatore-sbarca-in-liguria-nel-giorno-dellarresto-del-governatore-toti-assente-alla-presentazione-del-locale/7540143/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/12/15/briatore-1200x630.jpg",
+      "publishedAt": "2024-05-08 08:58:26",
+      "content": "Milano, 8 mag. (Adnkronos Salute) - I casi umani di aviaria sono sottostimati. E \"se molti lavoratori delle aziende lattiero-casearie contraggono l'H5N1\", il virus aviario che circola tra le mucche i\u2026 [+6402 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.970084",
+      "internal_id": "7478fb797bb5716232e9653435c2935c70248966f31f5b3da0768b462e7a91fd",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 9020,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Sostenitore",
+      "title": "L\u2019arresto di Toti e i super poteri dei governatori: ribadisco, il terzo mandato va scongiurato",
+      "description": "di Leonardo Botta La vicenda del presidente della Regione Liguria, Giovanni Toti, per cui sono scattati gli arresti domiciliari (per ora solo una misura cautelare richiesta dalla procura e concessa dal giudice per le indagini preliminari; le eventuali colpe s\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/05/08/larresto-di-toti-e-i-super-poteri-dei-governatori-ribadisco-il-terzo-mandato-va-scongiurato/7540166/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/03/29/med-1200x630-14-1200x630.jpg",
+      "publishedAt": "2024-05-08 08:51:50",
+      "content": "Milano, 8 mag. (Adnkronos Salute) - I casi umani di aviaria sono sottostimati. E \"se molti lavoratori delle aziende lattiero-casearie contraggono l'H5N1\", il virus aviario che circola tra le mucche i\u2026 [+6402 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.066543",
+      "internal_id": "4a819788da0c835cd1863d13e2452bca0b64c4278c39af447e45fa003992fd7c",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 9021,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Alla Camera si discute sulla \u201csupercazzola\u201d: Mul\u00e8 riprende Iaria (M5s) per l\u2019uso del deputato. E Giachetti interviene in difesa del collega",
+      "description": "\u201cAvete tirato fuori una supercazzola\u201c. Il deputato del Movimento 5 stelle, Antonino Iaria, \u00e8 stato ripreso in Aula alla Camera dal presidente di turno Antonio Mul\u00e8 per aver usato il termine reso famoso da Monicelli e dal suo \u2018Amici miei\u2018 durante una discussio\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/05/08/alla-camera-si-discute-sulla-supercazzola-mule-riprende-iaria-m5s-per-luso-del-termine-e-giachetti-interviene-a-difesa-del-collega/7540101/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/05/08/supercazzola.jpg",
+      "publishedAt": "2024-05-08 08:41:55",
+      "content": "Milano, 8 mag. (Adnkronos Salute) - I casi umani di aviaria sono sottostimati. E \"se molti lavoratori delle aziende lattiero-casearie contraggono l'H5N1\", il virus aviario che circola tra le mucche i\u2026 [+6402 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.071202",
+      "internal_id": "873fa9df013093c5ec065253e23d42da0bbea5d55ba90410682f4a7e80cfd1d2",
       "publishedAtLabel": "May 8"
     },
     {
@@ -1119,6 +1552,24 @@
       "content": "A secret\u00e1ria de Vigil\u00e2ncia e Sa\u00fade do Minist\u00e9rio da Sa\u00fade (MS), Ethel Maciel, afirmou em coletiva de imprensa, nesta ter\u00e7a-feira (7/4), que \u201c22 estados brasileiros est\u00e3o com tend\u00eancia de queda nos ca\u2026 [+2392 chars]",
       "retrievedAt": "2024-05-09 07:05:54.248364",
       "internal_id": "4314813bb422c941cf2a2ea96c4895fcc8a66ecc212733f3dab7a79e8fa17a79",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 9023,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Jamie Morton",
+      "title": "Bird flu: One disease, half a billion birds and now mammals. How scared should we be?",
+      "description": "The global spread of bird flu has scientists concerned. Here's what you should know.",
+      "url": "https://www.nzherald.co.nz/nz/one-disease-half-a-billion-birds-and-now-mammals-how-scared-should-we-be-of-bird-flu/GVNE43B3OZF77L66B76UXE4T2Q/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/TMAIFFKUDJDRVFVLUZETJRAKMY.jpg?auth=abd8490b79806791a7cd61b0beeae050966d5d85e4b71d31478d1b79b3b9189c&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-05-07 17:00:00",
+      "content": "Scientists have been growing increasingly concerned by the spread and evolution of H5N1 avian flu, which has killed tens of millions of poultry birds in four years and been detected in two dozen coun\u2026 [+5647 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.080133",
+      "internal_id": "7411641feef391d8a8bfa23047a8e03f62ca20a8f2fffdfb2d70933887cbc161",
       "publishedAtLabel": "May 7"
     },
     {
@@ -1302,6 +1753,24 @@
       "publishedAtLabel": "May 7"
     },
     {
+      "id": 9000,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Michael Snyder",
+      "title": "The H5N1 Bird Flu \u201cHas Acquired Dozens Of New Mutations\u201d And Authorities Are Really Ramping Up The Fear Level",
+      "description": "Have you noticed that the mainstream media is suddenly full of very alarming stories about H5N1? When hundreds of millions of birds were dying because of the bird flu, the mainstream media didn\u2019t seem to care very much, and so most people in the general popu\u2026",
+      "url": "https://www.shtfplan.com/headline-news/the-h5n1-bird-flu-has-acquired-dozens-of-new-mutations-and-authorities-are-really-ramping-up-the-fear-level",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/02/birdflu2.jpg",
+      "publishedAt": "2024-05-07 12:30:06",
+      "content": "This article was originally published by Michael Snyder at The End of the American Dream. Have you noticed that the mainstream media is suddenly full of very alarming stories about H5N1? When hund\u2026 [+7587 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.979203",
+      "internal_id": "3ca52d200b0759e194a18b5c7b58f179530013ffdea6424cdad4eebce4ea17d5",
+      "publishedAtLabel": "May 7"
+    },
+    {
       "id": 8917,
       "query": [
         "dengue"
@@ -1338,6 +1807,24 @@
       "publishedAtLabel": "May 7"
     },
     {
+      "id": 8995,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "With H5N1 Bird Flu Virus Spreading, How Safe Is Cow Cuddling Now?",
+      "description": "During the earlier days of the Covid-19 pandemic, cow cuddling experienced a surge in popularity. But will this change with the spread of the H5N1 avian influenza virus?",
+      "url": "https://www.forbes.com/sites/brucelee/2024/05/07/with-h5n1-bird-flu-virus-spreading-how-safe-is-cow-cuddling-now/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6639f176ce862fc90015b601/0x0.jpg?format=jpg&crop=680,510,x63,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-07 09:48:39",
+      "content": "How might the recent spread of the highly pathogenic avian influenza (HAPI) H5N1 virus among dairy ... [+] cattle affect the practice of paying a farm, an animal sanctuary or some other keeper of cow\u2026 [+3742 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.956107",
+      "internal_id": "496705b68d7ab28d81eb474d588cdea02d83372d0173885ae142a4f2d868b077",
+      "publishedAtLabel": "May 7"
+    },
+    {
       "id": 8921,
       "query": [
         "malaria"
@@ -1353,6 +1840,24 @@
       "content": "MADRID, 7 May. (EUROPA PRESS) - Un estudio reciente coordinado por investigadores de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana (CSIC), el Centro Nacional de Epidemiolog\u00eda del Instituto de Salud Carlos III (\u2026 [+3010 chars]",
       "retrievedAt": "2024-05-08 19:05:24.092527",
       "internal_id": "443f5fa598f9400cab9d6b4ad9713e20fb4546c7c3f6d351c850f7d552e17132",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 9025,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "WHO's Farrar: Social context is key to halting bird flu spread",
+      "description": "Dairy farmers' reluctance to report H5N1 infections among cows or allow testing of their workers is complicating the public health response to the bird flu.",
+      "url": "https://www.statnews.com/2024/05/07/bird-flu-spread-who-chief-scientist-farrar-on-stopping-h5n1/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/05/24227151550_2a8083dd97_o-1024x576.jpg",
+      "publishedAt": "2024-05-07 09:03:00",
+      "content": "Jeremy Farrar, now the World Health Organizations chief scientist, was working in Vietnam 20 years ago when the H5N1 virus started to spread across Asia at that point in poultry. He recalls there was\u2026 [+4085 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.088615",
+      "internal_id": "c3760faca8b483cd5603e227537af6463ff37a8ae05ade55da7092902fc35e6a",
       "publishedAtLabel": "May 7"
     },
     {
@@ -1410,6 +1915,24 @@
       "publishedAtLabel": "May 7"
     },
     {
+      "id": 9007,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Insurance Journal",
+      "author": "admin",
+      "title": "CDC Asks States to Make Worker Protective Gear Available to Combat Bird Flu",
+      "description": "The U.S. Centers for Disease Control and Prevention (CDC) said on Monday it had met with state health officials and asked them to facilitate distribution of protective gear for farm workers to avoid infection against H5N1 bird flu. The CDC \u2026",
+      "url": "https://www.insurancejournal.com/news/national/2024/05/07/773097.htm",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+      "publishedAt": "2024-05-07 05:36:22",
+      "content": "The U.S. Centers for Disease Control and Prevention (CDC) said on Monday it had met with state health officials and asked them to facilitate distribution of protective gear for farm workers to avoid \u2026 [+1128 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.009394",
+      "internal_id": "70edb0afc4b46e0a8516313df6b125cb91ba8818c6ca01e7fe2fcff11134c6d2",
+      "publishedAtLabel": "May 7"
+    },
+    {
       "id": 8909,
       "query": [
         "mpox"
@@ -1443,6 +1966,60 @@
       "content": "MADRID, 7 May. (EUROPA PRESS) - Se ha creado la primera vista panor\u00e1mica de las v\u00edas de infecci\u00f3n en la placenta humana, que podr\u00eda resaltar posibles objetivos farmacol\u00f3gicos para desarrollar tera\u2026 [+6040 chars]",
       "retrievedAt": "2024-05-08 07:06:41.548462",
       "internal_id": "5407b6c18c03f5aaf93c0c10eb3b02a7b8463c9fd1325dc49bccce9fc2e8f61f",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 9010,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Outbreak of Highly Pathogenic Avian Influenza A(H5N1) Virus in Seals, St. Lawrence Estuary, Quebec, Canada",
+      "description": "Avian Influenza A(H5N1) Virus in Seals, Canada",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/6/23-1033_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-05-07 04:00:00",
+      "content": "Sporadic outbreaks of influenza A virus (IAV) infections have been reported in pinnipeds in the United States and Europe, most commonly in harbor (Phoca vitulina) and gray (Halichoerus grypus) seals \u2026 [+26091 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.021667",
+      "internal_id": "3c0689bdc6d0b5e9f7e16994491107d7504af3a72bf7f7ca6fdaa1945b8db7c1",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 9018,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cnbeta.com.tw",
+      "author": "ytzong",
+      "title": "\u7f8e\u56fdCDC\u8981\u6c42\u5404\u5dde\u4e3a\u5de5\u4eba\u63d0\u4f9b\u9632\u62a4\u88c5\u5907\u4ee5\u5bf9\u6297\u79bd\u6d41\u611f",
+      "description": "\u7f8e\u56fd\u75be\u75c5\u63a7\u5236\u548c\u9884\u9632\u4e2d\u5fc3\uff08CDC\uff09\u5468\u4e00\u8868\u793a\uff0c\u5b83\u5df2\u4e0e\u5dde\u536b\u751f\u5b98\u5458\u4f1a\u9762\uff0c\u5e76\u8981\u6c42\u4ed6\u4eec\u4e3a\u519c\u573a\u5de5\u4eba\u5206\u53d1\u9632\u62a4\u88c5\u5907\u63d0\u4f9b\u4fbf\u5229\uff0c\u4ee5\u907f\u514d\u611f\u67d3H5N1\u79bd\u6d41\u611f\u3002\u75be\u75c5\u9884\u9632\u63a7\u5236\u4e2d\u5fc3\u8868\u793a\uff0c\u5b83\u8981\u6c42\u5dde\u536b\u751f\u90e8\u95e8\u4e0e\u519c\u4e1a\u90e8\u95e8\u7684\u540c\u884c\u548c\u793e\u533a\u5408\u4f5c\u4f19\u4f34\u5408\u4f5c\uff0c\u4f18\u5148\u5c06\u4e2a\u4eba\u9632\u62a4\u8bbe\u5907\u4ece\u5e93\u5b58\u4e2d\u5206\u53d1\u7ed9\u5b58\u5728\u5976\u725b\u7fa4\u611f\u67d3\u79bd\u6d41\u611f\u7684\u519c\u573a\u7684\u5de5\u4eba\u3002 \u9996\u5e2d\u526f\u4e3b\u4efbNirav Shah\u8868\u793a\uff0c\u867d\u7136\u7f8e\u56fd\u516c\u4f17\u9762\u4e34\u7684\u98ce\u9669\u4ecd\u7136\u5f88\u4f4e\uff0c\u4f46\u5404\u5dde\u5e94\u91c7\u53d6\u884c\u52a8\u4fdd\u62a4\u6709\u5de5\u4f5c\u66b4\u9732\u98ce\u9669\u7684\u4eba\uff0c\u5305\u62ec\u5976\u725b\u573a\u3001\u5bb6\u79bd\u517b\u6b96\u573a\u548c\u5c60\u5bb0\u573a\u7684\u4eba\u3002\u75be\u75c5\u9884\u9632\u63a7\u5236\u4e2d\u5fc3\u4e0a\u5468\u6566\u4fc3\u519c\u6c11\uff0c\u5de5\u4eba\u548c\u7d27\u6025\u6551\u63f4\u4eba\u5458\u5728\u4e0e\u75c5\u9e1f\uff0c\u7272\u755c\uff0c\u7caa\u4fbf\uff0c\u751f\u725b\u5976\u6216\u53d7\u6c61\u67d3\u7684\u8868\u9762\u76f4\u63a5\u6216\u2026",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1429893.htm",
+      "urlToImage": "https://static.cnbetacdn.com/thumb/article/2021/1216/451d0dd00c20430.jpg",
+      "publishedAt": "2024-05-07 01:35:16",
+      "content": "0 2024-05-07 09:05:41 Nirav Shah 325 created by ceallan",
+      "retrievedAt": "2024-05-10 19:50:08.058248",
+      "internal_id": "1e0736eefe95e9cfb4311cfd9949842e620ef1acec8676fe63c5e7b6b79ea44e",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 8989,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "CNET",
+      "author": null,
+      "title": "\u682a\u5f0f\u4f1a\u793e\u30b7\u30fc\u30c7\u30a3\u30fc\u30a2\u30a4\u3010ICT\u00d7\u30d8\u30eb\u30d1\u30fc\u00d7\u8a2a\u554f\u4ecb\u8b77\u8a18\u9332\u3011\u3010\u7121\u6599\u30aa\u30f3\u30e9\u30a4\u30f3\u30bb\u30df\u30ca\u30fc\u958b\u50ac\u3011\u300c\u307e\u3060\u9593\u306b\u5408\u3046\uff01\u7279\u5b9a\u4e8b\u696d\u6240\u52a0\u7b97 \u864e\u306e\u5dfb \uff5e\u3053\u308c\u3092\u805e\u3051\u3070\u3082\u3046\u5b89\u5fc3\uff5e\u300d",
+      "description": "\u682a\u5f0f\u4f1a\u793e\u30b7\u30fc\u30c7\u30a3\u30fc\u30a2\u30a4\uff08\u4ee3\u8868\u53d6\u7de0\u5f79\u793e\u9577\uff1a\u6ff1\u5ca1\u90a6\u96c5\u3001\u672c\u793e\uff1a\u6771\u4eac\u90fd\u4e2d\u592e\u533a\u3001\u4ee5\u4e0b\u300cCDI\u300d\uff09\u306f\u3001\u7279\u5b9a\u4e8b\u696d\u6240\u52a0\u7b97\u53d6\u5f97\u306e\u305f\u3081\u306eICT\u6d3b\u7528\u3068\u4ecb\u8b77DX\u306b\u95a2\u3059\u308b\u7121\u6599\u30aa\u30f3\u30e9\u30a4\u30f3\u30bb\u30df\u30ca\u30fc\u3092\u958b\u50ac\u3057\u307e\u3059\u3002\u4ee4\u548c6\u5e74\u5ea6\u306e\u4ecb\u8b77\u5831\u916c\u6539\u5b9a\u306b\u3088\u308a\u8a2a\u554f\u4ecb\u8b77\u306e\u57fa\u672c\u5831\u916c\u304c\u30de\u30a4\u30ca\u30b9\u3068\u306a\u308a\u3001\u7279\u5b9a\u4e8b\u696d\u6240\u52a0\u7b97\u53d6\u5f97\u306e\u91cd\u8981\u6027\u304c\u3088\u308a\u4e00\u5c64\u5897\u3057\u3066\u3044\u307e\u3059\u3002\u672c\u30bb\u30df\u30ca\u30fc...",
+      "url": "https://japan.cnet.com/release/30970681/",
+      "urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
+      "publishedAt": "2024-05-07 01:00:00",
+      "content": "CDIICTDX6Hirai. Care and.CEOICT Zoom120245 818:0019:002202451518:0019:003202452218:0019:004202452918:0019:001800 Hirai. Care and. CEO ICT [: ] \u00d7AI 2017 INCJ2018 AI HPAI SOIN() PR TIMES",
+      "retrievedAt": "2024-05-10 19:50:07.117516",
+      "internal_id": "c7b571467be9d26db5eb882f8204e8b6e5d6a3972b39ccabbf3f55e13954f52d",
       "publishedAtLabel": "May 7"
     },
     {
@@ -1482,6 +2059,24 @@
       "publishedAtLabel": "May 6"
     },
     {
+      "id": 9017,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "US CDC asks states to make worker protective gear available to combat bird flu",
+      "description": "(marketscreener.com) The U.S. Centers for Disease Control and Prevention said on Monday it had met with state health officials and asked them to facilitate distribution of protective gear for farm workers to avoid infection against H5N1 bird flu. The CDC sai\u2026",
+      "url": "https://www.marketscreener.com/quote/index/S-P-GSCI-CLASS-III-MILK-U-65338632/news/US-CDC-asks-states-to-make-worker-protective-gear-available-to-combat-bird-flu-46641373/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2024-04/2024-04-25T213654Z_1_LYNXNPEK3O116_RTROPTP_3_HEALTH-BIRDFLU-USA-EXPERTS.JPG",
+      "publishedAt": "2024-05-06 21:43:33",
+      "content": "May 6 (Reuters) - The U.S. Centers for Disease Control and Prevention (CDC) said on Monday it had met with state health officials and asked them to facilitate distribution of protective gear for f\u2026 [+1260 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.054132",
+      "internal_id": "66c27077f7a20c72516a39c626148fa8721d2dc70fae3017b12b0cbb382e4d2b",
+      "publishedAtLabel": "May 6"
+    },
+    {
       "id": 8903,
       "query": [
         "dengue"
@@ -1515,6 +2110,78 @@
       "content": "En la lista de los llamados virus emergentes, pat\u00f3genos que en las \u00faltimas d\u00e9cadas no han dejado de crecer en n\u00famero y extensi\u00f3n geogr\u00e1fica, el dengue ocupa un lugar destacado. Seg\u00fan datos de la Or\u2026 [+380 chars]",
       "retrievedAt": "2024-05-08 07:06:40.960880",
       "internal_id": "ebc4e4b42e7e3b1c78e93a5a5ea4358f8a6033acf7e681a5b5ddf60dc3793f5b",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8988,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "CDC: ENGAGED WITH STATE & LOCAL HEALTH DEPARTMENTS, FARMWORKER O\u2026",
+      "description": "(marketscreener.com) CDC: ENGAGED WITH STATE & LOCAL HEALTH DEPARTMENTS, FARMWORKER ORGANIZATIONS & PUBLIC HEALTH VETERINARIANS SINCE LEARNING OF OUTBREAK OF HPAI IN DAIRY CATTLE https://www.marketscreener.com/news/latest/CDC-ENGAGED-WITH-STATE-LOCAL-HEALT\u2026",
+      "url": "https://www.marketscreener.com/news/latest/CDC-ENGAGED-WITH-STATE-LOCAL-HEALTH-DEPARTMENTS-FARMWORKER-O--46640738/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2024-05-06 20:45:41",
+      "content": "ANALYST RECOMMENDATIONS : Microsoft, Alphabet, Walt Disney, Draftkings...",
+      "retrievedAt": "2024-05-10 19:50:07.112845",
+      "internal_id": "51210eccf18e7efa772fa2e2a0cc27d2b1378c0f6973d6cfdbfa330904c57742",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8990,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": null,
+      "title": "M\u0101ori health organisation wants smokers to kick the habit in May",
+      "description": "Hapai Te Hauora is using art to help wh\u0101nau stop smoking.",
+      "url": "https://www.nzherald.co.nz/kahu/maori-health-organisation-wants-smokers-to-kick-the-habit-in-may/6DX5BXMEE5HB3FV2GOKZIZANDY/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/DAZWLVQPIJFNJONX5WGWISM2UM.jpg?auth=10f530d7b01b87abeefdff2e0eb0b14937b7b50143e30686f8bb5d9813cb1d64&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-05-06 20:02:58",
+      "content": "Maori public health organisation Hapai Te Hauora's eulogy to tobacco art show was launched in Wellington last week and will travel around Aotearoa.Hpai Te Hauora kicked off Smokefree May with Auahitr\u2026 [+2733 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.121726",
+      "internal_id": "cb21870b89803029521f7da1941a972672bd752554b89504c60ade2567cc64e4",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 9026,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "Data highlight need to control cow outbreak to halt bird flu spread",
+      "description": "Location of receptors that flu viruses can attach to in cows may help explain pattern of illness in H5N1 bird flu outbreak in dairy cattle.",
+      "url": "https://www.statnews.com/2024/05/06/bird-flu-spread-study-of-h5n1-virus-infection-in-cows/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/05/GettyImages-466190176-1024x576.jpg",
+      "publishedAt": "2024-05-06 19:53:46",
+      "content": "A new study looking at the distribution of receptors that flu viruses can attach to in different cow tissues may help to explain the pattern of illness being seen in the outbreak of H5N1 bird flu in \u2026 [+6957 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.092768",
+      "internal_id": "fe62dfeaef53f91cf62de0808fbe53d60ff159841addd3e9103cc6e96cfc6c4c",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 9009,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Monday headlines: Plantasia",
+      "description": "Russia will hold military exercises near Ukraine, apparently intending to show it could use battlefield nuclear weapons there. / The New York Times [+] It's impossible to tell how far H5N1 has spread in the US, since dairy farmers\u2014unlike poultry farmers\u2014aren\u2026",
+      "url": "https://themorningnews.org/p/monday-headlines-plantasia",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2024-05-06 19:04:00",
+      "content": "Today is Independent Bookstore Day! Here are ways you can support and celebrate your local. / Book Publishing Brick by Brick Millions of Lego pieces fell overboard near Land's End in 1997. Now, a 13\u2026 [+1729 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.017736",
+      "internal_id": "c54b5e2a169f7e233359df722bef215262f1af8cfe8046c5ae78b4899d1d48d8",
       "publishedAtLabel": "May 6"
     },
     {
@@ -1608,6 +2275,60 @@
       "publishedAtLabel": "May 6"
     },
     {
+      "id": 8994,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Sante Roperto",
+      "title": "Aviaria, sempre pi\u00f9 specie suscettibili al virus: quanto deve preoccuparsi l\u2019uomo?",
+      "description": "Negli ultimi due anni, un centinaio di paesi nel mondo hanno segnalato focolai di influenza aviaria ad alta patogenicit\u00e0 (H5N1). E a preoccupare la comunit\u00e0 scientifica internazionale non \u00e8 stata solo la recente segnalazione del virus nei bovini, insieme al r\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/05/06/aviaria-sempre-piu-specie-suscettibili-al-virus-quanto-deve-preoccuparsi-luomo/7537115/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/03/02/influenza-aviaria-1-1200x630.jpg",
+      "publishedAt": "2024-05-06 16:03:14",
+      "content": "Negli ultimi due anni, un centinaio di paesi nel mondo hanno segnalato focolai di influenza aviaria ad alta patogenicit\u00e0 (H5N1). E a preoccupare la comunit\u00e0 scientifica internazionale non \u00e8 stata sol\u2026 [+2185 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.952126",
+      "internal_id": "90b80f5c8a47a5e2eb5cb3504c213bdae6c435d2077731c715643f9a3812ec80",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 8996,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen",
+      "title": "La gripe aviar es mala para las aves de corral y las vacas lecheras. No es una amenaza grave para la mayor\u00eda de nosotros\u2026 por ahora",
+      "description": "Las pruebas han detectado el virus en el ganado en nueve estados, principalmente en Texas y Nuevo M\u00e9xico, y m\u00e1s recientemente en Colorado. Una persona ha dado positivo para el H5N1.",
+      "url": "https://kffhealthnews.org/news/article/la-gripe-aviar-es-mala-para-las-aves-de-corral-y-las-vacas-lecheras-no-es-una-amenaza-grave-para-la-mayoria-de-nosotros-por-ahora/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/05/GettyImages-1450374430-resized.jpg",
+      "publishedAt": "2024-05-06 15:41:16",
+      "content": "Amy MaxmenLos titulares explotaron despu\u00e9s que el Departamento de Agricultura confirmara que el virus de la gripe aviar H5N1 ha infectado a vacas lecheras en todo el pa\u00eds. Las pruebas han detectado \u2026 [+10702 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.961058",
+      "internal_id": "19388503ecf0368b1e10e8c47b1f45613f82a4f6414c6dc5d406739c4a1670bb",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 9028,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ctvnews.ca",
+      "author": "Ctv News",
+      "title": "Avian flu: What are the risk to humans?",
+      "description": "H5N1 or avian flu is decimating wildlife around the world and is now spreading among cattle in the United States, sparking concerns about 'pandemic potential' for humans. Now a health expert is urging Canada to scale up surveillance north of the border.",
+      "url": "https://www.ctvnews.ca/health/avian-flu-risk-to-humans-grows-as-outbreaks-spread-warns-expert-1.6875036",
+      "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/5/6/dr--isaac-bogoch-1-6875040-1715006761343.jpg",
+      "publishedAt": "2024-05-06 15:14:29",
+      "content": "H5N1 or avian flu is decimating wildlife around the world and is now spreading among cattle in the United States, sparking concerns about \"pandemic potential\" for humans. Now a health expert is urgin\u2026 [+4726 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.100920",
+      "internal_id": "938cf586c9f59a924b1dec87f784c105e1dc59304427cb22f4e23788d8156ff0",
+      "publishedAtLabel": "May 6"
+    },
+    {
       "id": 8900,
       "query": [
         "dengue"
@@ -1642,6 +2363,24 @@
       "content": "Abstract Genetic surveillance of mosquito populations is becoming increasingly relevant as genetics-based mosquito control strategies advance from laboratory to field testing. Especially applicable \u2026 [+38282 chars]",
       "retrievedAt": "2024-05-07 19:05:26.520858",
       "internal_id": "9015ec47560ed323ba3d666a5dd991588df1520684d00ca9ae1ad54eb62bd3a6",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 9012,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "EU alerta que los trabajadores de sector l\u00e1cteo corren riesgo de contraer la gripe aviar",
+      "description": "Forbes M\u00e9xico. EU alerta que los trabajadores de sector l\u00e1cteo corren riesgo de contraer la gripe aviar Autoridades estadounidenses instaron a los granjeros, trabajadores y personal de respuesta a emergencias a llevar el equipo de protecci\u00f3n adecuado cuando\u2026",
+      "url": "https://www.forbes.com.mx/eu-alerta-que-los-trabajadores-de-sector-lacteo-corren-riesgo-de-contraer-la-gripe-aviar/",
+      "urlToImage": "https://cdn.forbes.com.mx/2023/05/vacas-locas.webp",
+      "publishedAt": "2024-05-06 13:46:36",
+      "content": "Las autoridades sanitarias estadounidenses alertaron que los trabajadores del sector l\u00e1cteo siguen expuestos al riesgo del virus H5N1 de la gripe aviar, que est\u00e1 infectando a las caba\u00f1as lecheras, y \u2026 [+1193 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.033333",
+      "internal_id": "7544fd07abf4337db9fde523bf8f8c686774b9ac33abb8bea5a1cd162f243629",
       "publishedAtLabel": "May 6"
     },
     {
@@ -1681,6 +2420,24 @@
       "publishedAtLabel": "May 6"
     },
     {
+      "id": 9015,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Editorial Board",
+      "title": "Navigating the flap over avian flu",
+      "description": "Authorities should keep a careful eye on the disease, which has spread to cattle, in case it jumps to humans.",
+      "url": "https://www.bostonglobe.com/2024/05/06/opinion/avian-flu-h5n1-cattle-cows-milk-mdar/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/LdQLl7_bhDyGQbsB1MRLZmvRUhg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/GLB6MHICKKIGEURF2ISEA2RVHA.jpg",
+      "publishedAt": "2024-05-06 08:00:00",
+      "content": "With headlines warning of the dangers of avian flu, its time to prepare but not to panic. The disease, officially called highly pathogenic avian influenza or H5N1, has been circulating for several y\u2026 [+4825 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.045789",
+      "internal_id": "156275a1180388a325b73927400696940d55b8e089ab0e741df9f79fc4bc3b5f",
+      "publishedAtLabel": "May 6"
+    },
+    {
       "id": 8886,
       "query": [
         "rabies"
@@ -1696,6 +2453,24 @@
       "content": ", 6 . //. - . Taipei Times. , , . Nyctalus plancyi velutinus. , (Rabies lyssavirus), , . 100%. . . - 17 , .",
       "retrievedAt": "2024-05-07 07:07:04.286224",
       "internal_id": "2307a197bbf9fa7bd1a7ac678ad59616d515901f93599a1362908ec6a1cf00fe",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 9006,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Lintuinfluenssa levisi Yhdysvalloissa lehmiin, viruksen j\u00e4\u00e4mi\u00e4 on ainakin viidenneksess\u00e4 kauppojen maidosta",
+      "description": "Viruksen odottamaton loikka nautoihin todistaa nopeasta muuntautumiskyvyst\u00e4, joka on riski my\u00f6s ihmisille. Euroopassa tartuntatilanne on viime vuotta rauhallisempi mutta odottava.",
+      "url": "https://yle.fi/a/74-20085940",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_1,y_14,w_1023,h_575/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1714150864/39-1277061662bdd660ca91",
+      "publishedAt": "2024-05-06 05:16:53",
+      "content": "T\u00e4m\u00e4n t\u00e4ytyy olla jokin virhe! Se oli virologi Tarja Sirosen ensimm\u00e4inen ajatus, kun h\u00e4n n\u00e4ki uutisen, jonka mukaan Yhdysvalloissa oli todettu lintuinfluenssatartuntoja lehmiss\u00e4. H5N1-virus ei ollut\u2026 [+12054 chars]",
+      "retrievedAt": "2024-05-10 19:50:08.004211",
+      "internal_id": "15a4a2ba8f38e2f743ecb429cb6e440e01ecfa5cf5ddc4ac027d2e10b01d405a",
       "publishedAtLabel": "May 6"
     },
     {
@@ -1732,6 +2507,24 @@
       "content": "Desde o in\u00edcio do ano, o volume de doa\u00e7\u00f5es de sangue vem diminuindo, e a Funda\u00e7\u00e3o Hemocentro de Bras\u00edlia est\u00e1 operando com apenas 60% da capacidade ideal para atender \u00e0s necessidades da rede p\u00fablica \u2026 [+2768 chars]",
       "retrievedAt": "2024-05-07 07:07:05.087715",
       "internal_id": "c3be406321ee0d771b46f1717bcac1fa7eac8f54dd5bc3abb6bbcfb1bfca743f",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 9002,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.mx",
+      "author": "C\u00e9sar Aguilla",
+      "title": "Gatos se infectaron con H5N1 por la forma m\u00e1s inesperada: tomaron leche de vaca",
+      "description": "A finales de 2021 se detect\u00f3 una grave e inusual infecci\u00f3n en diversos mam\u00edferos, incluyendo gatos. Se trata del virus H5N1, conocida como gripe aviar, que nuevamente comenz\u00f3 a preocupar a las autoridades despu\u00e9s de que se encontrara su presencia en leche cru\u2026",
+      "url": "https://www.xataka.com.mx/medicina-y-salud/gatos-se-infectaron-h5n1-forma-inesperada-tomaron-leche-vaca",
+      "urlToImage": "https://i.blogs.es/35de25/diseno-sin-titulo-53-/840_560.jpeg",
+      "publishedAt": "2024-05-06 01:01:56",
+      "content": "A finales de 2021 se detect\u00f3 una grave e inusual infecci\u00f3n en diversos mam\u00edferos, incluyendo gatos. Se trata del virus H5N1, conocida como gripe aviar, que nuevamente comenz\u00f3 a preocupar a las autori\u2026 [+3470 chars]",
+      "retrievedAt": "2024-05-10 19:50:07.987527",
+      "internal_id": "4e608a27a8f541c1f5f350ad83bf7fb1fd2c5c43616199297c632b4b9c573370",
       "publishedAtLabel": "May 6"
     },
     {
