@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 44
-- **Last harvest:** 2024-05-10 19:50
-- **Most recent article:** 2024-05-09 19:47:02
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-05-11 07:06
+- **Most recent article:** 2024-05-10 06:08:31
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-13 | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 179 | 158 | 138 | 113 | 117 | 77 | 46 | 828 |
+| dengue | 185 | 158 | 138 | 113 | 117 | 77 | 47 | 835 |
 | measles | 44 | 36 | 43 | 40 | 28 | 24 | 7 | 222 |
-| malaria | 7 | 13 | 16 | 29 | 77 | 25 | 20 | 187 |
+| malaria | 7 | 13 | 16 | 29 | 77 | 25 | 25 | 192 |
 | meningitis | 16 | 4 | 15 | 44 | 5 | 3 | 1 | 88 |
 | mpox | 6 | 12 | 3 | 13 | 8 | 36 | 3 | 81 |
-| zika | 19 | 11 | 10 | 8 | 3 | 8 | 1 | 60 |
+| zika | 21 | 11 | 10 | 8 | 3 | 8 | 1 | 62 |
 | rabies | 3 | 16 | 8 | 3 | 3 | 4 | 20 | 57 |
-| chikungunya | 8 | 12 | 7 | 5 | 5 | 7 | 4 | 48 |
+| chikungunya | 9 | 12 | 7 | 5 | 5 | 7 | 5 | 50 |
+| h5n1 | 0 | 0 | 0 | 0 | 0 | 0 | 43 | 43 |
 | pertussis | 6 | 7 | 9 | 7 | 5 | 2 | 5 | 41 |
 | sarampión | 3 | 5 | 13 | 0 | 10 | 8 | 1 | 40 |
-| h5n1 | 0 | 0 | 0 | 0 | 0 | 0 | 39 | 39 |
 | leptospirosis | 0 | 1 | 3 | 3 | 3 | 2 | 1 | 13 |
 | yersinia | 1 | 3 | 0 | 2 | 0 | 5 | 1 | 12 |
 | typhoid | 1 | 0 | 0 | 2 | 0 | 0 | 3 | 6 |
@@ -137,6 +137,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-19 (malaria)
 
+- [Krankheit: Weniger Malaria in Afrika?](https://www.zeit.de/news/2024-05/10/weniger-malaria-in-afrika) (Die Zeit)
+
+- [Krankheit: Weniger Malaria in Afrika?](https://www.stern.de/panorama/wissen/krankheit--weniger-malaria-in-afrika--34699504.html) (STERN.de)
+
+- [FDA considers updating blood donation guidelines to keep nation’s supply safe from malaria | CNN](https://www.cnn.com/2024/05/09/health/fda-blood-donations-malaria/index.html) (CNN)
+
+- [Terminan 88 años de malaria para Royale Union Saint-Gilloise | Video](https://aristeguinoticias.com/0905/deportes/terminan-88-anos-de-malaria-para-royale-union-saint-gilloise-video/) (Aristeguinoticias.com)
+
+- [How climate change will affect malaria transmission](https://www.sciencedaily.com/releases/2024/05/240509155516.htm) (Science Daily)
+
 - [DHS kicks off checks for dengue, malaria](https://timesofindia.indiatimes.com/city/goa/dhs-kicks-off-checks-for-dengue-malaria/articleshow/109989354.cms) (The Times of India)
 
 - [How climate change will affect malaria transmission](https://phys.org/news/2024-05-climate-affect-malaria-transmission.html) (Phys.Org)
@@ -190,6 +200,14 @@ Source: [News API](https://newsapi.org/)
 - [Māori health organisation wants smokers to kick the habit in May](https://www.nzherald.co.nz/kahu/maori-health-organisation-wants-smokers-to-kick-the-habit-in-may/6DX5BXMEE5HB3FV2GOKZIZANDY/) (New Zealand Herald)
 
 ## 24-19 (h5n1)
+
+- [Bird flu FAQ: Everything you need to know about the H5N1 outbreak that’s spread to dairy cows in 9 states](https://fortune.com/well/2024/05/09/h5n1-hpai-avian-bird-flu-faq/) (Fortune)
+
+- [Cows have human flu receptors, study shows, raising the stakes on the bird flu outbreak in dairy cattle | CNN](https://www.cnn.com/2024/05/09/health/bird-flu-cows-human-receptors/index.html) (CNN)
+
+- [Bird Flu (H5N1) Explained: 70 People In Colorado Monitored For Illness, Local Officials Says](https://www.forbes.com/sites/ariannajohnson/2024/05/09/bird-flu-h5n1-explained-70-people-in-colorado-monitored-for-illness-local-officials-says/) (Forbes)
+
+- [US to post influenza A wastewater data online to help with bird flu probe, official says](https://www.marketscreener.com/news/latest/US-to-post-influenza-A-wastewater-data-online-to-help-with-bird-flu-probe-official-says-46684294/) (Marketscreener.com)
 
 - [Bird flu is bad for poultry and dairy cows. It’s not a dire threat for most of us — yet](https://www.bostonherald.com/2024/05/09/bird-flu-is-bad-for-poultry-and-dairy-cows-its-not-a-dire-threat-for-most-of-us-yet/) (Boston Herald)
 
@@ -270,6 +288,8 @@ Source: [News API](https://newsapi.org/)
 - [Gatos se infectaron con H5N1 por la forma más inesperada: tomaron leche de vaca](https://www.xataka.com.mx/medicina-y-salud/gatos-se-infectaron-h5n1-forma-inesperada-tomaron-leche-vaca) (Xataka.com.mx)
 
 ## 24-19 (dengue)
+
+- [Veja os sintomas e como prevenir a febre oropouche](https://saude.ig.com.br/parceiros/edicase/2024-05-09/veja-os-sintomas-e-como-prevenir-a-febre-oropouche.html) (Ig.com.br)
 
 - [Veja os sintomas e como prevenir a febre oropouche](https://www.terra.com.br/vida-e-estilo/saude/veja-os-sintomas-e-como-prevenir-a-febre-oropouche,f70ce56571f3242b3e2e98444327d5dfz1baku0u.html) (Terra.com.br)
 
@@ -364,6 +384,8 @@ Source: [News API](https://newsapi.org/)
 - [El ‘ejército’ de peces guppy con el que combaten el dengue en Cali](https://www.eluniversal.com.co/salud/enfermedades/el-ejercito-de-peces-guppy-con-el-que-combaten-el-dengue-en-cali-DA10457589) (Eluniversal.com.co)
 
 ## 24-19 (chikungunya)
+
+- [Veja os sintomas e como prevenir a febre oropouche](https://saude.ig.com.br/parceiros/edicase/2024-05-09/veja-os-sintomas-e-como-prevenir-a-febre-oropouche.html) (Ig.com.br)
 
 - [Veja os sintomas e como prevenir a febre oropouche](https://www.terra.com.br/vida-e-estilo/saude/veja-os-sintomas-e-como-prevenir-a-febre-oropouche,f70ce56571f3242b3e2e98444327d5dfz1baku0u.html) (Terra.com.br)
 
@@ -3083,6 +3105,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://www.terra.com.br/vida-e-estilo/saude/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue,b9995ffbba358b40bd28daa79300bf334maktznz.html) (Terra.com.br)
 
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
+
+- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
+
 ## 24-13 (yersinia)
 
 - [A novel sORF gene mutant strain of Yersinia pestis vaccine EV76 offers enhanced safety and improved protection against plague](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012129) (Plos.org)
@@ -3635,6 +3661,18 @@ Source: [News API](https://newsapi.org/)
 
 - [Santa Fe: reportaron la muerte de un chico de seis años por dengue](https://www.lanacion.com.ar/sociedad/santa-fe-reportaron-la-muerte-de-un-chico-de-seis-anos-por-dengue-nid24032024/) (La Nacion)
 
+- [El mapa del dengue: ya se notificaron más de 200.000 casos en el país](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/) (La Nacion)
+
+- [Entenda por que ainda é preciso vacinar contra a Covid-19](https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/) (Dinheirama.com)
+
+- [Laboratorio de la Udelar en Salto colaborará con el MSP en diagnóstico de dengue](https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462) (Montevideo.com.uy)
+
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)
+
+- [France's battle against tiger mosquitoes threatening 2024 Paris Olympics](https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms) (The Times of India)
+
+- [Dengue: desigualdade social e mudanças climáticas colaboram para surto](https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html) (Ig.com.br)
+
 ## 24-13 (chikungunya)
 
 - [¿Qué es el dengue y cómo tratarlo?](https://cnnespanol.cnn.com/2024/03/28/que-es-dengue-como-tratarlo-orix/) (CNN)
@@ -3652,3 +3690,5 @@ Source: [News API](https://newsapi.org/)
 - [Com mais 40 mortes, DF chega a 188 óbitos por dengue em 2024](https://www.metropoles.com/distrito-federal/com-mais-40-mortes-df-chega-a-188-obitos-por-dengue-em-2024) (Metropoles.com)
 
 - [El ECDC notifica más de 70.000 casos y 15 muertes por chikungunya en todo el mundo](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-70000-casos-15-muertes-chikungunya-todo-mundo-20240325170006.html) (Infosalus.com)
+
+- [Cientistas desenvolvem armadilha para combater o mosquito da dengue](https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/) (Mobilidaderio.com.br)

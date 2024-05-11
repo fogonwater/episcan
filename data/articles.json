@@ -1,8 +1,189 @@
 {
-  "last_updated": "2024-05-10 19:50",
-  "count_articles_total": 1637,
-  "count_articles_new": 44,
+  "last_updated": "2024-05-11 07:06",
+  "count_articles_total": 1653,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 9037,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheit: Weniger Malaria in Afrika?",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheit\u201c. Lesen Sie jetzt \u201eWeniger Malaria in Afrika?\u201c.",
+      "url": "https://www.zeit.de/news/2024-05/10/weniger-malaria-in-afrika",
+      "urlToImage": "https://img.zeit.de/news/2024-05/10/weniger-malaria-in-afrika-image-group/wide__1300x731",
+      "publishedAt": "2024-05-10 06:08:31",
+      "content": "Im Zuge des Klimawandels k\u00f6nnten die Malaria-\u00dcbertragungsgebiete in Afrika k\u00fcnftig st\u00e4rker schrumpfen als bisher angenommen. Demn\u00e4chst werde es bis zum Ende des Jahrhunderts wahrscheinlich in der Sum\u2026 [+5346 chars]",
+      "retrievedAt": "2024-05-11 07:06:23.831151",
+      "internal_id": "57ccc5a96c6bb228cb8231737acda5f51b2126661eecb02793eb50bc566a4807",
+      "publishedAtLabel": "May 10"
+    },
+    {
+      "id": 9038,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheit: Weniger Malaria in Afrika?",
+      "description": "Leeds - Im Zuge des Klimawandels k\u00f6nnten die Malaria-\u00dcbertragungsgebiete in Afrika k\u00fcnftig st\u00e4rker schrumpfen als bisher angenommen. Demn\u00e4chst werde es",
+      "url": "https://www.stern.de/panorama/wissen/krankheit--weniger-malaria-in-afrika--34699504.html",
+      "urlToImage": "https://image.stern.de/34699506/t/cd/v1/w1440/r1.7778/-/10--urnnewsmldpacom2009010124051099981128v3w800h600l1015t533r3063b1899jpeg---aa693afab8d5cb6f.jpg",
+      "publishedAt": "2024-05-10 06:08:31",
+      "content": "Weltweit leben Milliarden Menschen in malariagef\u00e4hrdeten Gebieten. In Afrika k\u00f6nnte der Klimawandel daf\u00fcr sorgen, dass diese k\u00fcnftig kleiner werden. Im Zuge des Klimawandels k\u00f6nnten die Malaria-\u00dcber\u2026 [+4915 chars]",
+      "retrievedAt": "2024-05-11 07:06:23.838634",
+      "internal_id": "ddb4b2f437fd076db84155c08b189de6a8e33927d9d54c8f53e5e516100376aa",
+      "publishedAtLabel": "May 10"
+    },
+    {
+      "id": 9032,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Lindsey Leake",
+      "title": "Bird flu FAQ: Everything you need to know about the H5N1 outbreak that\u2019s spread to dairy cows in 9 states",
+      "description": "The disease has spread to poultry in 48 states, dairy cattle in nine, and two people in Texas and Colorado.",
+      "url": "https://fortune.com/well/2024/05/09/h5n1-hpai-avian-bird-flu-faq/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/05/GettyImages-2141960121-e1715009163902.jpg?resize=1200,600",
+      "publishedAt": "2024-05-10 01:00:00",
+      "content": "Just when you stopped regularly hearing about COVID-19 in the news, another infectious disease began to dominate headlines this spring: bird flu.The good news isfor now, at leastpublic health experts\u2026 [+8764 chars]",
+      "retrievedAt": "2024-05-11 07:06:21.746683",
+      "internal_id": "28b98f2b860dc4267794bab6589f3a5cad7f7600496ead01e3de7d882d3ce6ed",
+      "publishedAtLabel": "May 10"
+    },
+    {
+      "id": 9034,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "Cows have human flu receptors, study shows, raising the stakes on the bird flu outbreak in dairy cattle | CNN",
+      "description": "Cows have the same kinds of gateways into their cells as humans and birds, a new study shows. The finding suggests that cows could be mixing bowls - hosts that could help H5N1 bird flu learn to spread in humans.",
+      "url": "https://www.cnn.com/2024/05/09/health/bird-flu-cows-human-receptors/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2139565276.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-10 00:34:59",
+      "content": "In early March, Dr. Barb Petersen, a large-animal vet in Texas, began getting calls from the dairy farms she works with in the Panhandle. Workers there were seeing a lot of cows with mastitis, an inf\u2026 [+9257 chars]",
+      "retrievedAt": "2024-05-11 07:06:21.795998",
+      "internal_id": "7dbb525e8aa90450de82d3f7f2f3ad5a92cb4fcefcad311a009a8bea50cec0eb",
+      "publishedAtLabel": "May 10"
+    },
+    {
+      "id": 9040,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Jen Christensen",
+      "title": "FDA considers updating blood donation guidelines to keep nation\u2019s supply safe from malaria | CNN",
+      "description": "The US Food and Drug Administration is considering a requirement for blood banks to use a new test that can detect the parasites that cause malaria in certain donors\u2019 blood, and it\u2019s seeking the opinion of its independent advisers on the best way to meet its \u2026",
+      "url": "https://www.cnn.com/2024/05/09/health/fda-blood-donations-malaria/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1303315827.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-09 23:51:21",
+      "content": "The US Food and Drug Administration is considering a requirement for blood banks to use a new test that can detect the parasites that cause malaria in certain donors blood, and its seeking the opinio\u2026 [+7199 chars]",
+      "retrievedAt": "2024-05-11 07:06:23.898188",
+      "internal_id": "ceb8d83ccafc2960e9070d3084cda26e1ff7f6dec4d9dca036d968e5b982ac34",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 9039,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / EC",
+      "title": "Terminan 88 a\u00f1os de malaria para Royale Union Saint-Gilloise | Video",
+      "description": "El club fundado el 1 de noviembre de 1897 volvi\u00f3 a celebrar la obtenci\u00f3n de un t\u00edtulo, la Copa de B\u00e9lgica, tras vencer 1-0 al Amberes, casi nueve d\u00e9cadas despu\u00e9s de conquistar la liga en la temporada 1934-35.",
+      "url": "https://aristeguinoticias.com/0905/deportes/terminan-88-anos-de-malaria-para-royale-union-saint-gilloise-video/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/05/union-09052024.jpg",
+      "publishedAt": "2024-05-09 23:48:58",
+      "content": "El Royale Union Saint-Gilloise gan\u00f3 este jueves la Copa de B\u00e9lgica, tras superar 1-0 al Amberes, y 88 a\u00f1os despu\u00e9s de su \u00faltimo t\u00edtulo, la Liga de la temporada 1934/35, volvi\u00f3 a introducir un trofeo \u2026 [+2870 chars]",
+      "retrievedAt": "2024-05-11 07:06:23.852877",
+      "internal_id": "1088981948dcd9caf1efede4f721a43e23be75aefe4d73ac1cda7b50b7355b2d",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 9031,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Arianna Johnson, Forbes Staff, \n Arianna Johnson, Forbes Staff\n https://www.forbes.com/sites/ariannajohnson/",
+      "title": "Bird Flu (H5N1) Explained: 70 People In Colorado Monitored For Illness, Local Officials Says",
+      "description": "Bird flu typically spreads among birds, but there have been recent outbreaks among cattle in the U.S., and one Texas man contracted the virus from sick cows. Here\u2019s why so many experts are worried about a possible new pandemic.",
+      "url": "https://www.forbes.com/sites/ariannajohnson/2024/05/09/bird-flu-h5n1-explained-70-people-in-colorado-monitored-for-illness-local-officials-says/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662a9d6a4635389a14a348ae/0x0.jpg?format=jpg&crop=2812,1581,x0,y128,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-09 22:05:55",
+      "content": "Heres the latest news about a global outbreak of H5N1 bird flu that started in 2020, and recently spread among cattle in U.S. states and marine mammals across the world, which has health officials cl\u2026 [+10161 chars]",
+      "retrievedAt": "2024-05-11 07:06:21.694228",
+      "internal_id": "d514a33f0773ccef614aff5e55320d09e8da2975d0c3fab8b5143fbd2a967f87",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 9033,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "US to post influenza A wastewater data online to help with bird flu probe, official says",
+      "description": "(marketscreener.com) The U.S. Centers for Disease Control and Prevention is planning to make public data on influenza A found in wastewater possibly as soon as Friday that could offer new clues into the outbreak of H5N1 bird flu in cattle herds. CDC wastewat\u2026",
+      "url": "https://www.marketscreener.com/news/latest/US-to-post-influenza-A-wastewater-data-online-to-help-with-bird-flu-probe-official-says-46684294/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2024-05/2024-05-09T212328Z_2_LYNXMPEK480VT_RTROPTP_3_HEALTH-BIRDFLU.JPG",
+      "publishedAt": "2024-05-09 21:23:28",
+      "content": "CHICAGO (Reuters) - The U.S. Centers for Disease Control and Prevention (CDC) is planning to make public data on influenza A found in wastewater possibly as soon as Friday that could offer new clues \u2026 [+380 chars]",
+      "retrievedAt": "2024-05-11 07:06:21.753910",
+      "internal_id": "f2bb9c36ac06bef45c5ae70bb45500b546dd016264ebec2186abdb157806d980",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 9035,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "EdiCase, EdiCase",
+      "title": "Veja os sintomas e como prevenir a febre oropouche",
+      "description": "Doen\u00e7a viral tem sintomas parecidos com a dengue e a chikungunya, mas \u00e9 transmitida por outro inseto",
+      "url": "https://saude.ig.com.br/parceiros/edicase/2024-05-09/veja-os-sintomas-e-como-prevenir-a-febre-oropouche.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/16/bv/ug/16bvugqnsvdvrsprj790dcqlg.jpg",
+      "publishedAt": "2024-05-09 20:10:03",
+      "content": "A febre oropouche \u00e9 uma doen\u00e7a causada pelo v\u00edrus Orthobunyavirus oropoucheense (OROV), descoberto pela primeira vez no Brasil em 1960. Ele \u00e9 transmitido principalmente pela picada de um tipo espec\u00ed\u2026 [+2027 chars]",
+      "retrievedAt": "2024-05-11 07:06:22.566045",
+      "internal_id": "06133a474832defb8c8f080dc5c21088ac6315b56530a849b30e3e82fc12a36b",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 9036,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "How climate change will affect malaria transmission",
+      "description": "A new model for predicting the effects of climate change on malaria transmission in Africa could lead to more targeted interventions to control the disease according to a new study. Previous methods have used rainfall totals to indicate the presence of surfac\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/05/240509155516.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-05-09 19:55:16",
+      "content": "A new model for predicting the effects of climate change on malaria transmission in Africa could lead to more targeted interventions to control the disease according to a new study.Previous methods h\u2026 [+4139 chars]",
+      "retrievedAt": "2024-05-11 07:06:23.826409",
+      "internal_id": "cf1ae51a7bb49c9e25fdd68635e949ad93d3bdcfaac1ed7a0f88ba16fe4b4b29",
+      "publishedAtLabel": "May 9"
+    },
     {
       "id": 8987,
       "query": [
@@ -29555,6 +29736,117 @@
       "content": "SANTA FE.- Un ni\u00f1o de seis a\u00f1os es la octava v\u00edctima mortal del dengue en lo que va del a\u00f1o en la provincia de Santa Fe. En el pa\u00eds, seg\u00fan los \u00faltimos informes epidemiol\u00f3gicos, los muertos por la enf\u2026 [+3752 chars]",
       "retrievedAt": "2024-03-26 07:06:18.992880",
       "internal_id": "f2a55d74f538e1d22364c26bee8af41c486b3c891cf8ed6d443b8bd78e70e10e",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El mapa del dengue: ya se notificaron m\u00e1s de 200.000 casos en el pa\u00eds",
+      "description": "De esa cifra, se confirmaron m\u00e1s de 134.000 infecciones",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-ya-se-notificaron-mas-de-200000-casos-en-el-pais-nid24032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/aedes-aegypti-el-mosquito-vector-del-virus-del-6QDYNDDYZJFKLPQ2NNJK3N2RKI.jpg?auth=a5ebe6e7fab9ffd9789d2c0e1c57750d7714ab7cf7ea62c37633f480d019bab8&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-24 16:55:59",
+      "content": "La epidemia de dengue contin\u00faa y lo hace de acuerdo con las previsiones epidemiol\u00f3gicas: la cantidad de casos notificados en el pa\u00eds super\u00f3 la barrera de los 200.000 en lo que va del a\u00f1o y las provin\u2026 [+2702 chars]",
+      "retrievedAt": "2024-03-26 07:06:19.056485",
+      "internal_id": "83953d7ef6fb011bfdda9cfe96a47a388ecd25f0e7f5246ee6823916cb1f49d2",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7380,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dinheirama.com",
+      "author": "Ag\u00eancia Gov",
+      "title": "Entenda por que ainda \u00e9 preciso vacinar contra a Covid-19",
+      "description": "O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo\u2026 ------ Este artigo foi escrito por Ag\u00eancia Gov. Este artigo apareceu originalmente no site Dinheirama.A rep\u2026",
+      "url": "https://dinheirama.com/entenda-por-que-ainda-e-preciso-vacinar-contra-a-covid-19/",
+      "urlToImage": "https://media.dinheirama.com/medias/uploads/2024/03/20240323-vacinas.jpg",
+      "publishedAt": "2024-03-24 15:00:00",
+      "content": "1O Brasil enfrenta atualmente um surto de dengue e, at\u00e9 o \u00faltimo dia 20, foram contabilizados 1,9 milh\u00e3o de casos prov\u00e1veis da doen\u00e7a. Incorporada pelo Minist\u00e9rio da Sa\u00fade em janeiro no SUS, a vacin\u2026 [+4684 chars]",
+      "retrievedAt": "2024-03-25 19:05:41.952308",
+      "internal_id": "9e3149c732c50e3521f9a7a90c71be623a86ef2c4e8811025d56818d80803f4b",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7381,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Laboratorio de la Udelar en Salto colaborar\u00e1 con el MSP en diagn\u00f3stico de dengue",
+      "description": "Rodrigo Arim, rector de la universidad, anunci\u00f3 la noticia en sus redes sociales y destac\u00f3 \u201cla calidad al servicio del Uruguay\u201d.",
+      "url": "https://www.montevideo.com.uy/Salud/Laboratorio-de-la-Udelar-en-Salto-colaborara-con-el-MSP-en-diagnostico-de-dengue-uc883462",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202209/_W933_80/818330.jpg",
+      "publishedAt": "2024-03-24 12:50:00",
+      "content": "Montevideo Portal El laboratorio de Virolog\u00eda Molecular de la Universidad de la Rep\u00fablica (Udelar) en Salto realizar\u00e1 diagn\u00f3sticos de dengue en el norte del pa\u00eds, seg\u00fan inform\u00f3 el rector de la unive\u2026 [+767 chars]",
+      "retrievedAt": "2024-03-25 19:05:42.171646",
+      "internal_id": "a0f32d00907d4cd18fb6a874c8ad828f7b07e04241d40cfb0c466fed3247c2f2",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7384,
+      "query": [
+        "zika",
+        "chikungunya",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mobilidaderio.com.br",
+      "author": "Mobilidade Rio",
+      "title": "Cientistas desenvolvem armadilha para combater o mosquito da dengue",
+      "description": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chikungunya e febre amarela urbana. Batizado de MataAedes, o pro\u2026",
+      "url": "https://mobilidaderio.com.br/cientistas-desenvolvem-armadilha-para-combater-o-mosquito-da-dengue/",
+      "urlToImage": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "publishedAt": "2024-03-24 12:14:55",
+      "content": "Cientistas brasileiros desenvolveram uma ferramenta simples e de baixo custo que pode fazer toda a diferen\u00e7a no controle de pernilongos e do Aedes aegypti, o mosquito que transmite dengue, zika, chik\u2026 [+2141 chars]",
+      "retrievedAt": "2024-03-25 19:05:43.094537",
+      "internal_id": "2a0a1c670c7bf57f488758ecf8356255d3267e8f075aa3b17e9048270bbf33ca",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7383,
+      "query": [
+        "zika",
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "France's battle against tiger mosquitoes threatening 2024 Paris Olympics",
+      "description": "France is facing a challenge in ensuring the 2024 Paris Olympics are free from mosquito-borne diseases. Asian tiger mosquitoes, carriers of diseases like dengue and zika, pose a threat to millions of fans and athletes. Despite efforts to eradicate them, inclu\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/frances-battle-against-tiger-mosquitoes-threatening-2024-paris-olympics/articleshow/108746329.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108748291,width-1200,height-630,imgsize-347784,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-24 09:12:00",
+      "content": "France is facing a challenging task to ensure that the upcoming 2024 Paris Olympics remain free from the threat of mosquito-borne diseases. The Asian tiger mosquito, known for spreading viruses like \u2026 [+2590 chars]",
+      "retrievedAt": "2024-03-25 19:05:43.075284",
+      "internal_id": "3537c26a8ee10134790b28359458aaa828c7f83e33c9d4f29a3685b3cfc47008",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 7382,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "Dengue: desigualdade social e mudan\u00e7as clim\u00e1ticas colaboram para surto",
+      "description": "Aumento na incid\u00eancia de casos tem denunciado o impacto do racismo ambiental e das mudan\u00e7as clim\u00e1ticas no Brasil",
+      "url": "https://saude.ig.com.br/2024-03-24/dengue-desigualdade-social-mudancas-climaticas-surto.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6d/6y/ft/6d6yfteqtvzc9enme97vjfmlv.jpg",
+      "publishedAt": "2024-03-24 09:00:00",
+      "content": "Nesta quinta-feira (22), o Minist\u00e9rio da Sa\u00fade informou que o Brasil superou a marca de 2 milh\u00f5es de casos de dengue em 2024. De acordo com a pasta, s\u00e3o 2.010.896 casos prov\u00e1veis da doen\u00e7a, com 682\u2026 [+5528 chars]",
+      "retrievedAt": "2024-03-25 19:05:42.192075",
+      "internal_id": "45743fbd38e9bb965d84cc83fd8f053a577aa793dd101c4ab9ee48bd12712da4",
       "publishedAtLabel": "Mar 24"
     }
   ]
