@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-05-12 07:05
-- **Most recent article:** 2024-05-11 05:00:00
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-05-12 19:05
+- **Most recent article:** 2024-05-11 18:57:39
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 155 | 138 | 113 | 117 | 77 | 55 | 655 |
-| malaria | 13 | 16 | 29 | 77 | 25 | 28 | 188 |
-| measles | 34 | 43 | 40 | 28 | 24 | 9 | 178 |
+| dengue | 146 | 138 | 113 | 117 | 77 | 57 | 648 |
+| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 189 |
+| measles | 33 | 43 | 40 | 28 | 24 | 9 | 177 |
 | meningitis | 4 | 15 | 44 | 5 | 3 | 5 | 76 |
-| mpox | 12 | 3 | 13 | 8 | 36 | 3 | 75 |
-| rabies | 16 | 8 | 3 | 3 | 4 | 21 | 55 |
-| h5n1 | 0 | 0 | 0 | 0 | 0 | 51 | 51 |
+| mpox | 11 | 3 | 13 | 8 | 36 | 3 | 74 |
+| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 56 |
+| h5n1 | 0 | 0 | 0 | 0 | 0 | 55 | 55 |
+| zika | 11 | 10 | 8 | 3 | 8 | 2 | 42 |
 | chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 41 |
-| zika | 11 | 10 | 8 | 3 | 8 | 1 | 41 |
 | sarampión | 5 | 13 | 0 | 10 | 8 | 1 | 37 |
 | pertussis | 7 | 9 | 7 | 5 | 2 | 5 | 35 |
 | leptospirosis | 1 | 3 | 3 | 3 | 2 | 1 | 13 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-19 (zika)
+
+- [Alertan sobre la llegada de mosquitos peligrosos a España este verano](https://eldiariocantabria.publico.es/articulo/sanidad/alertan-llegada-mosquitos-peligrosos-espana-verano/20240511105555156473.html) (Publico.es)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
 
@@ -54,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 - [Tres de cada cuatro niños ya recibieron refuerzo contra sarampión](https://www.nacion.com/el-pais/salud/tres-de-cada-cuatro-ninos-ya-recibieron-refuerzo/AQ4NZVZRURERRGEOSAXNWVYR44/story/) (Nacion.com)
 
 ## 24-19 (rabies)
+
+- [Earnings call: Bavarian Nordic sees demand rise for travel vaccines](https://www.investing.com/news/stock-market-news/earnings-call-bavarian-nordic-sees-demand-rise-for-travel-vaccines-93CH-3435846) (Investing.com)
 
 - [What to know about the CDC's new rules for traveling with your dog](https://www.foxnews.com/lifestyle/what-know-cdcs-new-rules-traveling-dog) (Fox News)
 
@@ -151,6 +155,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-19 (malaria)
 
+- [„Ausnahmslos größte Bedrohung“ - Diesen Keimen könnten jährlich Millionen Menschen zum Opfer fallen](https://www.focus.de/gesundheit/news/ausnahmslos-groesste-bedrohung-diesen-keimen-koennten-jaehrlich-millionen-menschen-zum-opfer-fallen_id_259934802.html) (Focus)
+
 - [Ausbreitung von Malaria verschiebt sich](https://science.orf.at/stories/3224955/) (Science.orf.at)
 
 - [Malaria-Gebiete in Afrika könnten schrumpfen](https://www.welt.de/wissenschaft/article251451838/Klimawandel-Malaria-Gebiete-in-Afrika-koennten-schrumpfen.html) (DIE WELT)
@@ -223,6 +229,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-19 (h5n1)
 
+- [Aviaria, Covid e altre pandemie. Vespignani: «Così AI e Big Data aiutano a predire le prossime»](https://www.corriere.it/salute/24_maggio_11/aviaria-covid-e-altre-pandemie-l-epidemiologo-vespignani-cosi-ai-e-big-data-ci-aiutano-a-predire-le-prossime-ebb9d93d-b2e4-4a54-82a8-bcae2a80axlk.shtml) (Corriere.it)
+
+- [美国禽流感远比想象得更严重？CDC将斥资1亿美元监测病毒](https://www.cnbeta.com.tw/articles/tech/1430521.htm) (Cnbeta.com.tw)
+
+- [Bird flu vaccine candidates already exist. But if H5N1 sparks a pandemic, making enough doses won't be easy](https://www.cbc.ca/news/health/bird-flu-h5n1-vaccines-1.7199091) (CBC News)
+
 - [TWiV 1112: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1112/) (Microbe.tv)
 
 - [U.S. pledges money and other aid to help track and contain bird flu on dairy farms](https://www.pbs.org/newshour/politics/u-s-pledges-money-and-other-aid-to-help-track-and-contain-bird-flu-on-dairy-farms) (PBS)
@@ -238,6 +250,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu risk to humans is low, but "things can change," doctor says](https://www.cbsnews.com/news/bird-flu-risk-to-humans-jon-lapook/) (CBS News)
 
 - [New fears over possible impact of bird flu on humans](https://www.cbsnews.com/video/new-fears-over-possible-impact-of-bird-flu-on-humans/) (CBS News)
+
+- [CDC Mỹ công khai dữ liệu xét nghiệm nước cống để phòng chống cúm A](https://tinhte.vn/thread/cdc-my-cong-khai-du-lieu-xet-nghiem-nuoc-cong-de-phong-chong-cum-a.3785932/) (Tinhte.vn)
 
 - [Bird flu FAQ: Everything you need to know about the H5N1 outbreak that’s spread to dairy cows in 9 states](https://fortune.com/well/2024/05/09/h5n1-hpai-avian-bird-flu-faq/) (Fortune)
 
@@ -326,6 +340,10 @@ Source: [News API](https://newsapi.org/)
 - [Gatos se infectaron con H5N1 por la forma más inesperada: tomaron leche de vaca](https://www.xataka.com.mx/medicina-y-salud/gatos-se-infectaron-h5n1-forma-inesperada-tomaron-leche-vaca) (Xataka.com.mx)
 
 ## 24-19 (dengue)
+
+- [Alertan sobre la llegada de mosquitos peligrosos a España este verano](https://eldiariocantabria.publico.es/articulo/sanidad/alertan-llegada-mosquitos-peligrosos-espana-verano/20240511105555156473.html) (Publico.es)
+
+- [País tem 2,4 mil mortes confirmadas por dengue](https://valor.globo.com/brasil/noticia/2024/05/11/pas-tem-24-mil-mortes-confirmadas-por-dengue.ghtml) (Globo)
 
 - [Campinas abre 14 postos para aplicar vacinas e atender pessoas com sintomas de dengue neste sábado](https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/10/campinas-abre-14-postos-de-aplicacao-de-vacinas-e-atendimento-para-pessoas-com-sintomas-de-dengue-neste-sabado.ghtml) (Globo)
 
@@ -2657,8 +2675,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox cases are far outpacing last year's numbers, CDC reports](https://www.livescience.com/health/viruses-infections-disease/mpox-cases-are-far-outpacing-last-years-numbers-cdc-reports) (Live Science)
 
-- [Vacina da mpox perde eficácia em até um ano, mostram dois estudos](https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia) (Metropoles.com)
-
 ## 24-14 (meningitis)
 
 - [Desalojan un campus de fútbol en Valencia por la muerte de un niño de 11 años por una meningitis](https://www.libertaddigital.com/deportes/liga/2024-04-06/desalojan-un-campus-de-futbol-en-valencia-por-la-muerte-de-un-nino-de-11-anos-por-una-meningitis-7114326/) (Libertaddigital.com)
@@ -2736,8 +2752,6 @@ Source: [News API](https://newsapi.org/)
 - [Waikato measles cases a false alarm - Te Whatu Ora](https://www.1news.co.nz/2024/04/01/waikato-measles-cases-a-false-alarm-te-whatu-ora/) (1news.co.nz)
 
 - [Waikato measles cases a false alarm](https://www.nzherald.co.nz/nz/waikato-measles-cases-a-false-alarm/427XY4ZQT5HJZPNUQPMUJH3MVQ/) (New Zealand Herald)
-
-- [Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW](https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/) (SweetwaterNOW.com)
 
 ## 24-14 (malaria)
 
@@ -3064,24 +3078,6 @@ Source: [News API](https://newsapi.org/)
 - [Vacinação contra dengue vai estar disponível nas escolas da capital paulista](https://recordtv.r7.com/balanco-geral-manha/videos/vacinacao-contra-dengue-vai-estar-disponivel-nas-escolas-da-capital-paulista-01042024) (R7.com)
 
 - [Fernán Quirós explicó por qué la vacuna contra el dengue no se debe incluir todavía en el calendario nacional](https://www.lanacion.com.ar/lnmas/fernan-quiros-explico-por-que-la-vacuna-contra-el-dengue-no-se-debe-incluir-todavia-en-el-calendario-nid01042024/) (La Nacion)
-
-- [‘Dengue podría tener un mayor impacto durante 2024′, señala OPS](https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/) (Nacion.com)
-
-- [Quem está com dengue pode comer chocolate? Saiba o que pode acontecer](https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/) (Saudelab.com)
-
-- [Indonesia sees dengue case surge in Q1](https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1) (The Star Online)
-
-- [El mapa del dengue: afirman que la epidemia es “más de seis veces mayor” que el año pasado y continúan las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/) (La Nacion)
-
-- [Internaron otra vez a Roxy Vázquez a menos de un mes de recibir el alta por dengue: "Quedé con las defensas bajas"](https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml) (Perfil.com)
-
-- [Irmã tatua corpo em homenagem à mulher grávida que morreu de dengue](https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue) (Metropoles.com)
-
-- [A Policlinico S.Martino di Genova un caso di Dengue, già dimesso](https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html) (ANSA.it)
-
-- [Surto de dengue nas Américas é o pior já registrado, diz Organização Pan-Americana da Saúde](https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024) (R7.com)
-
-- [Novas tendas de dengue no DF seguem modelo de hospitais de campanha](https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha) (Metropoles.com)
 
 ## 24-14 (chikungunya)
 
