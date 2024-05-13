@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-05-13 07:06
-- **Most recent article:** 2024-05-12 06:00:00
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-05-13 19:05
+- **Most recent article:** 2024-05-12 17:37:53
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 155 | 138 | 113 | 117 | 77 | 57 | 0 | 657 |
-| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 0 | 189 |
-| measles | 34 | 43 | 40 | 28 | 24 | 10 | 0 | 179 |
+| dengue | 146 | 138 | 113 | 117 | 77 | 57 | 3 | 651 |
+| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 1 | 190 |
+| measles | 33 | 43 | 40 | 28 | 24 | 10 | 0 | 178 |
 | meningitis | 4 | 15 | 44 | 5 | 3 | 5 | 0 | 76 |
-| mpox | 12 | 3 | 13 | 8 | 36 | 3 | 0 | 75 |
-| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 3 | 60 |
-| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 0 | 56 |
+| mpox | 11 | 3 | 13 | 8 | 36 | 3 | 0 | 74 |
+| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 7 | 64 |
+| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 1 | 57 |
+| chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 1 | 42 |
 | zika | 11 | 10 | 8 | 3 | 8 | 2 | 0 | 42 |
-| chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 0 | 41 |
 | sarampión | 5 | 13 | 0 | 10 | 8 | 1 | 0 | 37 |
 | pertussis | 7 | 9 | 7 | 5 | 2 | 5 | 0 | 35 |
 | leptospirosis | 1 | 3 | 3 | 3 | 2 | 1 | 0 | 13 |
@@ -33,13 +33,41 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-20 (rabies)
+
+- [Dogs entering US must be 6 months old, microchipped to prevent rabies spread](https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html) (VOA News)
+
+## 24-20 (malaria)
+
+- [Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]](https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html) (Jungewelt.de)
+
 ## 24-20 (h5n1)
+
+- [Eating our way to the next pandemic](https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html) (Kevinmd.com)
+
+- [Les animaux vivent déjà la prochaine pandémie](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/) (Futura)
+
+- [Gripa aviară la fermele de vaci. Cum încearcă SUA să limiteze răspândirea virusului](https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html) (Adevarul.ro)
+
+- [الأبقار قد تنقل إنفلونزا الطيور إلى البشر.. كيف؟](https://www.almayadeen.net/health/الأبقار-قد-تنقل-إنفلونزا-الطيور-إلى-البشر---كيف) (Almayadeen.net)
 
 - [Vogelgrippe H5N1 in Kuhmilch entdeckt: Gefahr für den Menschen?](https://www.telepolis.de/features/Vogelgrippe-H5N1-in-Kuhmilch-entdeckt-Gefahr-fuer-den-Menschen-9713402.html) (Telepolis.de)
 
 - [Vogelgrippe in Kuhmilch: Gefahr für den Menschen?](https://www.telepolis.de/features/Vogelgrippe-in-Kuhmilch-Gefahr-fuer-den-Menschen-9713402.html) (Telepolis.de)
 
 - [TWiV 1113: Influenza virus H5N1 in cows' milk with Richard Webby](https://www.microbe.tv/twiv/twiv-1113/) (Microbe.tv)
+
+## 24-20 (dengue)
+
+- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)
+
+- [High worldwide dengue numbers may not impact Singapore: Experts](https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts) (The Straits Times)
+
+- [Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension](https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391) (NDTV News)
+
+## 24-20 (chikungunya)
+
+- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)
 
 ## 24-19 (zika)
 
@@ -2689,8 +2717,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox cases are far outpacing last year's numbers, CDC reports](https://www.livescience.com/health/viruses-infections-disease/mpox-cases-are-far-outpacing-last-years-numbers-cdc-reports) (Live Science)
 
-- [Vacina da mpox perde eficácia em até um ano, mostram dois estudos](https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia) (Metropoles.com)
-
 ## 24-14 (meningitis)
 
 - [Desalojan un campus de fútbol en Valencia por la muerte de un niño de 11 años por una meningitis](https://www.libertaddigital.com/deportes/liga/2024-04-06/desalojan-un-campus-de-futbol-en-valencia-por-la-muerte-de-un-nino-de-11-anos-por-una-meningitis-7114326/) (Libertaddigital.com)
@@ -2768,8 +2794,6 @@ Source: [News API](https://newsapi.org/)
 - [Waikato measles cases a false alarm - Te Whatu Ora](https://www.1news.co.nz/2024/04/01/waikato-measles-cases-a-false-alarm-te-whatu-ora/) (1news.co.nz)
 
 - [Waikato measles cases a false alarm](https://www.nzherald.co.nz/nz/waikato-measles-cases-a-false-alarm/427XY4ZQT5HJZPNUQPMUJH3MVQ/) (New Zealand Herald)
-
-- [Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW](https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/) (SweetwaterNOW.com)
 
 ## 24-14 (malaria)
 
@@ -3096,24 +3120,6 @@ Source: [News API](https://newsapi.org/)
 - [Vacinação contra dengue vai estar disponível nas escolas da capital paulista](https://recordtv.r7.com/balanco-geral-manha/videos/vacinacao-contra-dengue-vai-estar-disponivel-nas-escolas-da-capital-paulista-01042024) (R7.com)
 
 - [Fernán Quirós explicó por qué la vacuna contra el dengue no se debe incluir todavía en el calendario nacional](https://www.lanacion.com.ar/lnmas/fernan-quiros-explico-por-que-la-vacuna-contra-el-dengue-no-se-debe-incluir-todavia-en-el-calendario-nid01042024/) (La Nacion)
-
-- [‘Dengue podría tener un mayor impacto durante 2024′, señala OPS](https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/) (Nacion.com)
-
-- [Quem está com dengue pode comer chocolate? Saiba o que pode acontecer](https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/) (Saudelab.com)
-
-- [Indonesia sees dengue case surge in Q1](https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1) (The Star Online)
-
-- [El mapa del dengue: afirman que la epidemia es “más de seis veces mayor” que el año pasado y continúan las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/) (La Nacion)
-
-- [Internaron otra vez a Roxy Vázquez a menos de un mes de recibir el alta por dengue: "Quedé con las defensas bajas"](https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml) (Perfil.com)
-
-- [Irmã tatua corpo em homenagem à mulher grávida que morreu de dengue](https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue) (Metropoles.com)
-
-- [A Policlinico S.Martino di Genova un caso di Dengue, già dimesso](https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html) (ANSA.it)
-
-- [Surto de dengue nas Américas é o pior já registrado, diz Organização Pan-Americana da Saúde](https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024) (R7.com)
-
-- [Novas tendas de dengue no DF seguem modelo de hospitais de campanha](https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha) (Metropoles.com)
 
 ## 24-14 (chikungunya)
 
