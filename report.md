@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-05-12 19:05
-- **Most recent article:** 2024-05-11 18:57:39
+- **New articles in last harvest:** 6
+- **Last harvest:** 2024-05-13 07:06
+- **Most recent article:** 2024-05-12 06:00:00
 
 ---
 
@@ -10,28 +10,36 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 146 | 138 | 113 | 117 | 77 | 57 | 648 |
-| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 189 |
-| measles | 33 | 43 | 40 | 28 | 24 | 9 | 177 |
-| meningitis | 4 | 15 | 44 | 5 | 3 | 5 | 76 |
-| mpox | 11 | 3 | 13 | 8 | 36 | 3 | 74 |
-| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 56 |
-| h5n1 | 0 | 0 | 0 | 0 | 0 | 55 | 55 |
-| zika | 11 | 10 | 8 | 3 | 8 | 2 | 42 |
-| chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 41 |
-| sarampión | 5 | 13 | 0 | 10 | 8 | 1 | 37 |
-| pertussis | 7 | 9 | 7 | 5 | 2 | 5 | 35 |
-| leptospirosis | 1 | 3 | 3 | 3 | 2 | 1 | 13 |
-| yersinia | 3 | 0 | 2 | 0 | 5 | 1 | 11 |
-| typhoid | 0 | 0 | 2 | 0 | 0 | 3 | 5 |
-| hpai | 0 | 0 | 0 | 0 | 0 | 4 | 4 |
+| Disease | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 155 | 138 | 113 | 117 | 77 | 57 | 0 | 657 |
+| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 0 | 189 |
+| measles | 34 | 43 | 40 | 28 | 24 | 10 | 0 | 179 |
+| meningitis | 4 | 15 | 44 | 5 | 3 | 5 | 0 | 76 |
+| mpox | 12 | 3 | 13 | 8 | 36 | 3 | 0 | 75 |
+| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 3 | 60 |
+| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 0 | 56 |
+| zika | 11 | 10 | 8 | 3 | 8 | 2 | 0 | 42 |
+| chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 0 | 41 |
+| sarampión | 5 | 13 | 0 | 10 | 8 | 1 | 0 | 37 |
+| pertussis | 7 | 9 | 7 | 5 | 2 | 5 | 0 | 35 |
+| leptospirosis | 1 | 3 | 3 | 3 | 2 | 1 | 0 | 13 |
+| yersinia | 3 | 0 | 2 | 0 | 5 | 1 | 0 | 11 |
+| typhoid | 0 | 0 | 2 | 0 | 0 | 3 | 0 | 5 |
+| hpai | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-20 (h5n1)
+
+- [Vogelgrippe H5N1 in Kuhmilch entdeckt: Gefahr für den Menschen?](https://www.telepolis.de/features/Vogelgrippe-H5N1-in-Kuhmilch-entdeckt-Gefahr-fuer-den-Menschen-9713402.html) (Telepolis.de)
+
+- [Vogelgrippe in Kuhmilch: Gefahr für den Menschen?](https://www.telepolis.de/features/Vogelgrippe-in-Kuhmilch-Gefahr-fuer-den-Menschen-9713402.html) (Telepolis.de)
+
+- [TWiV 1113: Influenza virus H5N1 in cows' milk with Richard Webby](https://www.microbe.tv/twiv/twiv-1113/) (Microbe.tv)
 
 ## 24-19 (zika)
 
@@ -134,6 +142,8 @@ Source: [News API](https://newsapi.org/)
 - [La Xunta dará a 15.000 niños una vacuna más potente contra la bacteria de la meningitis](https://www.lavozdegalicia.es/noticia/sociedad/2024/05/06/xunta-dara-15000-ninos-vacuna-potente-contra-bacteria-meningitis/00031715011875682638691.htm) (Lavozdegalicia.es)
 
 ## 24-19 (measles)
+
+- [What to know about new COVID variants and the spread of bird flu and measles](https://www.pbs.org/newshour/show/what-to-know-about-new-covid-variants-and-the-spread-of-bird-flu-and-measles) (PBS)
 
 - [Public health officials confirm case of measles in Sacramento County](https://www.kcra.com/article/sacramento-county-measles-health-uc-davis-medical/60759103) (KCRA Sacramento)
 
@@ -245,11 +255,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Scientists watching wastewater for signs of H5N1 as U.S. bird flu outbreak in dairy cattle grows](https://www.cbc.ca/news/health/wastewater-monitoring-h5n1-avian-flu-1.7200545) (CBC News)
 
+- [US pledges money and other aid to help track and contain bird flu on dairy farms](https://apnews.com/article/bird-flu-dairy-cattle-h5n1-milk-0b46e7a28a20fe825d7a324a976bac22) (Associated Press)
+
 - [US pledges money and other aid to help track and contain bird flu on dairy farms](https://www.bostonherald.com/2024/05/10/us-pledges-money-and-other-aid-to-help-track-and-contain-bird-flu-on-dairy-farms/) (Boston Herald)
 
 - [Bird flu risk to humans is low, but "things can change," doctor says](https://www.cbsnews.com/news/bird-flu-risk-to-humans-jon-lapook/) (CBS News)
 
 - [New fears over possible impact of bird flu on humans](https://www.cbsnews.com/video/new-fears-over-possible-impact-of-bird-flu-on-humans/) (CBS News)
+
+- [Stop Blaming Wild Birds. Avian Flu Is Our Fault.](https://newrepublic.com/article/181451/bird-flu-chickens-pigs-cows-humans-wild) (The New Republic)
 
 - [CDC Mỹ công khai dữ liệu xét nghiệm nước cống để phòng chống cúm A](https://tinhte.vn/thread/cdc-my-cong-khai-du-lieu-xet-nghiem-nuoc-cong-de-phong-chong-cum-a.3785932/) (Tinhte.vn)
 
@@ -2675,6 +2689,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox cases are far outpacing last year's numbers, CDC reports](https://www.livescience.com/health/viruses-infections-disease/mpox-cases-are-far-outpacing-last-years-numbers-cdc-reports) (Live Science)
 
+- [Vacina da mpox perde eficácia em até um ano, mostram dois estudos](https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia) (Metropoles.com)
+
 ## 24-14 (meningitis)
 
 - [Desalojan un campus de fútbol en Valencia por la muerte de un niño de 11 años por una meningitis](https://www.libertaddigital.com/deportes/liga/2024-04-06/desalojan-un-campus-de-futbol-en-valencia-por-la-muerte-de-un-nino-de-11-anos-por-una-meningitis-7114326/) (Libertaddigital.com)
@@ -2752,6 +2768,8 @@ Source: [News API](https://newsapi.org/)
 - [Waikato measles cases a false alarm - Te Whatu Ora](https://www.1news.co.nz/2024/04/01/waikato-measles-cases-a-false-alarm-te-whatu-ora/) (1news.co.nz)
 
 - [Waikato measles cases a false alarm](https://www.nzherald.co.nz/nz/waikato-measles-cases-a-false-alarm/427XY4ZQT5HJZPNUQPMUJH3MVQ/) (New Zealand Herald)
+
+- [Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW](https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/) (SweetwaterNOW.com)
 
 ## 24-14 (malaria)
 
@@ -3078,6 +3096,24 @@ Source: [News API](https://newsapi.org/)
 - [Vacinação contra dengue vai estar disponível nas escolas da capital paulista](https://recordtv.r7.com/balanco-geral-manha/videos/vacinacao-contra-dengue-vai-estar-disponivel-nas-escolas-da-capital-paulista-01042024) (R7.com)
 
 - [Fernán Quirós explicó por qué la vacuna contra el dengue no se debe incluir todavía en el calendario nacional](https://www.lanacion.com.ar/lnmas/fernan-quiros-explico-por-que-la-vacuna-contra-el-dengue-no-se-debe-incluir-todavia-en-el-calendario-nid01042024/) (La Nacion)
+
+- [‘Dengue podría tener un mayor impacto durante 2024′, señala OPS](https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/) (Nacion.com)
+
+- [Quem está com dengue pode comer chocolate? Saiba o que pode acontecer](https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/) (Saudelab.com)
+
+- [Indonesia sees dengue case surge in Q1](https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1) (The Star Online)
+
+- [El mapa del dengue: afirman que la epidemia es “más de seis veces mayor” que el año pasado y continúan las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/) (La Nacion)
+
+- [Internaron otra vez a Roxy Vázquez a menos de un mes de recibir el alta por dengue: "Quedé con las defensas bajas"](https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml) (Perfil.com)
+
+- [Irmã tatua corpo em homenagem à mulher grávida que morreu de dengue](https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue) (Metropoles.com)
+
+- [A Policlinico S.Martino di Genova un caso di Dengue, già dimesso](https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html) (ANSA.it)
+
+- [Surto de dengue nas Américas é o pior já registrado, diz Organização Pan-Americana da Saúde](https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024) (R7.com)
+
+- [Novas tendas de dengue no DF seguem modelo de hospitais de campanha](https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha) (Metropoles.com)
 
 ## 24-14 (chikungunya)
 
