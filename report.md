@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 17
-- **Last harvest:** 2024-05-15 07:06
-- **Most recent article:** 2024-05-14 07:00:00
+- **Last harvest:** 2024-05-15 19:05
+- **Most recent article:** 2024-05-14 18:42:18
 
 ---
 
@@ -12,21 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 155 | 138 | 113 | 117 | 77 | 57 | 14 | 671 |
-| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 1 | 190 |
-| measles | 34 | 43 | 40 | 28 | 24 | 10 | 3 | 182 |
-| mpox | 12 | 3 | 13 | 8 | 36 | 3 | 3 | 78 |
+| dengue | 146 | 138 | 113 | 117 | 77 | 57 | 18 | 666 |
+| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 3 | 192 |
+| measles | 33 | 43 | 40 | 28 | 24 | 10 | 5 | 183 |
+| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 21 | 78 |
 | meningitis | 4 | 15 | 44 | 5 | 3 | 5 | 2 | 78 |
-| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 16 | 73 |
-| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 5 | 61 |
+| mpox | 11 | 3 | 13 | 8 | 36 | 3 | 3 | 77 |
+| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 6 | 62 |
 | chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 7 | 48 |
 | zika | 11 | 10 | 8 | 3 | 8 | 2 | 1 | 43 |
+| pertussis | 7 | 9 | 7 | 5 | 2 | 5 | 4 | 39 |
 | sarampión | 5 | 13 | 0 | 10 | 8 | 1 | 0 | 37 |
-| pertussis | 7 | 9 | 7 | 5 | 2 | 5 | 1 | 36 |
 | leptospirosis | 1 | 3 | 3 | 3 | 2 | 1 | 0 | 13 |
 | yersinia | 3 | 0 | 2 | 0 | 5 | 1 | 0 | 11 |
+| typhoid | 0 | 0 | 2 | 0 | 0 | 3 | 1 | 6 |
 | hpai | 0 | 0 | 0 | 0 | 0 | 4 | 1 | 5 |
-| typhoid | 0 | 0 | 2 | 0 | 0 | 3 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -37,7 +37,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Nueva tecnología de biomarcadores sintéticos diferencia entre infecciones previas por Zika y dengue](https://www.infosalus.com/salud-investigacion/noticia-nueva-tecnologia-biomarcadores-sinteticos-diferencia-infecciones-previas-zika-dengue-20240514070747.html) (Infosalus.com)
 
+## 24-20 (typhoid)
+
+- [UPSC Quiz – 2024 : IASbaba’s Daily Current Affairs Quiz 14th May 2024](https://iasbaba.com/2024/05/upsc-quiz-2024-iasbabas-daily-current-affairs-quiz-14th-may-2024/) (Iasbaba.com)
+
 ## 24-20 (rabies)
+
+- [‘There are no bad dogs, only bad owners’](https://timesofindia.indiatimes.com/city/chennai/there-are-no-bad-dogs-only-bad-owners/articleshow/110108461.cms) (The Times of India)
 
 - [NewJeans performance directors speak out against alleged choreography plagiarism by ILLIT](https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/newjeans-performance-directors-speak-out-against-alleged-choreography-plagiarism-by-illit/articleshow/110107025.cms) (The Times of India)
 
@@ -50,6 +56,12 @@ Source: [News API](https://newsapi.org/)
 - [Dogs entering US must be 6 months old, microchipped to prevent rabies spread](https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html) (VOA News)
 
 ## 24-20 (pertussis)
+
+- [Why is whooping cough surging in the UK? Falling vaccination rates may be the answer](https://theconversation.com/why-is-whooping-cough-surging-in-the-uk-falling-vaccination-rates-may-be-the-answer-229851) (The Conversation Africa)
+
+- [Why is whooping cough surging in the UK? Falling vaccination rates may be answer](https://theconversation.com/why-is-whooping-cough-surging-in-the-uk-falling-vaccination-rates-may-be-answer-229851) (The Conversation Africa)
+
+- [Health dept. reports another whooping cough case in Lexington](https://www.wkyt.com/2024/05/14/health-dept-reports-another-whooping-cough-case-lexington/) (WKYT)
 
 - [Bacolod: PHO targeting 20T children for vaccines](https://rpnradio.com/bacolod-pho-targeting-20t-children-for-vaccines/) (Rpnradio.com)
 
@@ -69,6 +81,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (measles)
 
+- [NHS England measles figure causes confusion over encephalitis risk - Full Fact](https://fullfact.org/health/nhs-measles-mmr-encephalitis-international/) (Full Fact)
+
+- [Measles case confirmed in adult in Mississauga](https://toronto.citynews.ca/2024/05/14/measles-case-virus-adult-mississauga-peel-public-health/) (Citynews.ca)
+
 - [Measles: Twenty-six cases, and five outbreaks, confirmed in Ireland this year](https://www.thejournal.ie/number-of-confirmed-measles-cases-in-ireland-6378819-May2024/) (TheJournal.ie)
 
 - [Birth by C-section more than doubles odds of measles vaccine failure](https://www.sciencedaily.com/releases/2024/05/240513105151.htm) (Science Daily)
@@ -77,6 +93,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (malaria)
 
+- [To de-worm Mandur, new pipeline mooted](https://timesofindia.indiatimes.com/city/goa/de-worming-mandur-new-pipeline-proposal-to-address-water-contamination/articleshow/110126419.cms) (The Times of India)
+
+- [Distribution and dynamics of Anopheles gambiae s.l. larval habitats in three Senegalese cities with high urban malaria incidence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303473) (Plos.org)
+
 - [Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]](https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html) (Jungewelt.de)
 
 ## 24-20 (hpai)
@@ -84,6 +104,16 @@ Source: [News API](https://newsapi.org/)
 - [First case of highly pathogenic avian influenza transmitted from cow to human confirmed](https://www.sciencedaily.com/releases/2024/05/240513193046.htm) (Science Daily)
 
 ## 24-20 (h5n1)
+
+- [CDC issues warning against consuming raw milk as bird flu fears soar...](https://www.the-express.com/news/health/137506/cdc-warning-drinking-raw-milk-cows-bird-flu-outbreak) (The-express.com)
+
+- [US relaxes regulations for labs handling bird flu samples to ease virus response](https://www.marketscreener.com/quote/future/CORN-FUTURE-ZC-CBE-C1-16213/news/US-relaxes-regulations-for-labs-handling-bird-flu-samples-to-ease-virus-response-46721986/) (Marketscreener.com)
+
+- [Could the avian flu be our next pandemic threat?](https://scopeblog.stanford.edu/2024/05/14/bird-avian-flu-h5n1-cows-pandemic-threat/) (Stanford.edu)
+
+- [Versuche mit Vogelgrippe an der Ostsee: Kühe werden mit dem Virus infiziert](https://www.tagesspiegel.de/versuche-mit-vogelgrippe-an-der-ostsee-kuhe-werden-mit-dem-virus-infiziert-11661242.html) (Der Tagesspiegel)
+
+- [Riems: Infektionsstudie: Kühe werden mit Vogelgrippevirus infiziert](https://www.zeit.de/news/2024-05/14/infektionsstudie-kuehe-werden-mit-vogelgrippevirus-infiziert) (Die Zeit)
 
 - [Kemenesi Gábor: A madárinfluenza feszegeti a határait, most kell megállítani](https://www.portfolio.hu/gazdasag/20240514/kemenesi-gabor-a-madarinfluenza-feszegeti-a-hatarait-most-kell-megallitani-685711) (Portfolio.hu)
 
@@ -118,6 +148,14 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1113: Influenza virus H5N1 in cows' milk with Richard Webby](https://www.microbe.tv/twiv/twiv-1113/) (Microbe.tv)
 
 ## 24-20 (dengue)
+
+- [To de-worm Mandur, new pipeline mooted](https://timesofindia.indiatimes.com/city/goa/de-worming-mandur-new-pipeline-proposal-to-address-water-contamination/articleshow/110126419.cms) (The Times of India)
+
+- [As três ondas de doenças infecciosas que devem acometer o Rio Grande do Sul depois das inundações](https://www.bbc.com/portuguese/articles/c0klld5pvn4o) (BBC News)
+
+- [Governo monitora possível aumento de casos de dengue no RS](https://www.metropoles.com/blog-do-noblat/governo-monitora-possivel-aumento-de-casos-de-dengue-no-rs) (Metropoles.com)
+
+- [Enchente no RS pode causar surto de leptospirose e dengue](https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-14/enchente-no-rs-pode-causar-surto-de-leptospirose-e-dengue.html) (Ig.com.br)
 
 - [Nueva tecnología de biomarcadores sintéticos diferencia entre infecciones previas por Zika y dengue](https://www.infosalus.com/salud-investigacion/noticia-nueva-tecnologia-biomarcadores-sinteticos-diferencia-infecciones-previas-zika-dengue-20240514070747.html) (Infosalus.com)
 
@@ -2811,8 +2849,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox cases are far outpacing last year's numbers, CDC reports](https://www.livescience.com/health/viruses-infections-disease/mpox-cases-are-far-outpacing-last-years-numbers-cdc-reports) (Live Science)
 
-- [Vacina da mpox perde eficácia em até um ano, mostram dois estudos](https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia) (Metropoles.com)
-
 ## 24-14 (meningitis)
 
 - [Desalojan un campus de fútbol en Valencia por la muerte de un niño de 11 años por una meningitis](https://www.libertaddigital.com/deportes/liga/2024-04-06/desalojan-un-campus-de-futbol-en-valencia-por-la-muerte-de-un-nino-de-11-anos-por-una-meningitis-7114326/) (Libertaddigital.com)
@@ -2890,8 +2926,6 @@ Source: [News API](https://newsapi.org/)
 - [Waikato measles cases a false alarm - Te Whatu Ora](https://www.1news.co.nz/2024/04/01/waikato-measles-cases-a-false-alarm-te-whatu-ora/) (1news.co.nz)
 
 - [Waikato measles cases a false alarm](https://www.nzherald.co.nz/nz/waikato-measles-cases-a-false-alarm/427XY4ZQT5HJZPNUQPMUJH3MVQ/) (New Zealand Herald)
-
-- [Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW](https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/) (SweetwaterNOW.com)
 
 ## 24-14 (malaria)
 
@@ -3218,24 +3252,6 @@ Source: [News API](https://newsapi.org/)
 - [Vacinação contra dengue vai estar disponível nas escolas da capital paulista](https://recordtv.r7.com/balanco-geral-manha/videos/vacinacao-contra-dengue-vai-estar-disponivel-nas-escolas-da-capital-paulista-01042024) (R7.com)
 
 - [Fernán Quirós explicó por qué la vacuna contra el dengue no se debe incluir todavía en el calendario nacional](https://www.lanacion.com.ar/lnmas/fernan-quiros-explico-por-que-la-vacuna-contra-el-dengue-no-se-debe-incluir-todavia-en-el-calendario-nid01042024/) (La Nacion)
-
-- [‘Dengue podría tener un mayor impacto durante 2024′, señala OPS](https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/) (Nacion.com)
-
-- [Quem está com dengue pode comer chocolate? Saiba o que pode acontecer](https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/) (Saudelab.com)
-
-- [Indonesia sees dengue case surge in Q1](https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1) (The Star Online)
-
-- [El mapa del dengue: afirman que la epidemia es “más de seis veces mayor” que el año pasado y continúan las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/) (La Nacion)
-
-- [Internaron otra vez a Roxy Vázquez a menos de un mes de recibir el alta por dengue: "Quedé con las defensas bajas"](https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml) (Perfil.com)
-
-- [Irmã tatua corpo em homenagem à mulher grávida que morreu de dengue](https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue) (Metropoles.com)
-
-- [A Policlinico S.Martino di Genova un caso di Dengue, già dimesso](https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html) (ANSA.it)
-
-- [Surto de dengue nas Américas é o pior já registrado, diz Organização Pan-Americana da Saúde](https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024) (R7.com)
-
-- [Novas tendas de dengue no DF seguem modelo de hospitais de campanha](https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha) (Metropoles.com)
 
 ## 24-14 (chikungunya)
 
