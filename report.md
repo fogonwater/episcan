@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-05-16 07:05
-- **Most recent article:** 2024-05-15 04:00:15
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-05-16 19:05
+- **Most recent article:** 2024-05-15 18:52:05
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 155 | 138 | 113 | 117 | 77 | 57 | 24 | 681 |
-| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 3 | 192 |
-| measles | 34 | 43 | 40 | 28 | 24 | 10 | 6 | 185 |
-| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 24 | 81 |
-| mpox | 12 | 3 | 13 | 8 | 36 | 3 | 3 | 78 |
+| dengue | 146 | 138 | 113 | 117 | 77 | 57 | 37 | 685 |
+| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 5 | 194 |
+| measles | 33 | 43 | 40 | 28 | 24 | 10 | 7 | 185 |
+| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 31 | 88 |
 | meningitis | 4 | 15 | 44 | 5 | 3 | 5 | 2 | 78 |
-| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 6 | 62 |
+| mpox | 11 | 3 | 13 | 8 | 36 | 3 | 3 | 77 |
+| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 7 | 63 |
 | chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 7 | 48 |
 | zika | 11 | 10 | 8 | 3 | 8 | 2 | 1 | 43 |
 | pertussis | 7 | 9 | 7 | 5 | 2 | 5 | 4 | 39 |
 | sarampión | 5 | 13 | 0 | 10 | 8 | 1 | 0 | 37 |
-| leptospirosis | 1 | 3 | 3 | 3 | 2 | 1 | 0 | 13 |
+| leptospirosis | 1 | 3 | 3 | 3 | 2 | 1 | 2 | 15 |
 | yersinia | 3 | 0 | 2 | 0 | 5 | 1 | 0 | 11 |
 | typhoid | 0 | 0 | 2 | 0 | 0 | 3 | 1 | 6 |
 | hpai | 0 | 0 | 0 | 0 | 0 | 4 | 1 | 5 |
@@ -42,6 +42,8 @@ Source: [News API](https://newsapi.org/)
 - [UPSC Quiz – 2024 : IASbaba’s Daily Current Affairs Quiz 14th May 2024](https://iasbaba.com/2024/05/upsc-quiz-2024-iasbabas-daily-current-affairs-quiz-14th-may-2024/) (Iasbaba.com)
 
 ## 24-20 (rabies)
+
+- [Rabies outbreaks in Costa Rica cattle linked to deforestation](https://phys.org/news/2024-05-rabies-outbreaks-costa-rica-cattle.html) (Phys.Org)
 
 - [‘There are no bad dogs, only bad owners’](https://timesofindia.indiatimes.com/city/chennai/there-are-no-bad-dogs-only-bad-owners/articleshow/110108461.cms) (The Times of India)
 
@@ -81,6 +83,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (measles)
 
+- [C-Section Doubles Risk Of Measles Vaccine Failure; Study Recommends Taking 2 Doses](https://www.medicaldaily.com/c-section-doubles-risk-measles-vaccine-failure-study-recommends-taking-2-doses-471743) (Medical Daily)
+
 - [TOI Health News Morning Briefing| Woman alleges COVID vaccine disabled her, severity of FLiRT COVID variants, measles vaccine ineffective in babies born via C-section, how to spot dehydration in kids, wheat alternatives for diabetics and more](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/toi-health-news-morning-briefing-woman-alleges-covid-vaccine-disabled-her-severity-of-flirt-covid-variants-measles-vaccine-ineffective-in-babies-born-via-c-section-how-to-spot-dehydration-in-kids-wheat-alternatives-for-diabetics-and-more/articleshow/110131377.cms) (The Times of India)
 
 - [NHS England measles figure causes confusion over encephalitis risk - Full Fact](https://fullfact.org/health/nhs-measles-mmr-encephalitis-international/) (Full Fact)
@@ -95,17 +99,41 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (malaria)
 
+- [Southern US Border Sees 143 Percent Jump in Imported Malaria: CDC](https://www.theepochtimes.com/health/southern-us-border-sees-143-percent-jump-in-imported-malaria-cdc-5650422) (Theepochtimes.com)
+
+- [A systematic review of the factors associated with malaria infection among forest rangers](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303406) (Plos.org)
+
 - [To de-worm Mandur, new pipeline mooted](https://timesofindia.indiatimes.com/city/goa/de-worming-mandur-new-pipeline-proposal-to-address-water-contamination/articleshow/110126419.cms) (The Times of India)
 
 - [Distribution and dynamics of Anopheles gambiae s.l. larval habitats in three Senegalese cities with high urban malaria incidence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303473) (Plos.org)
 
 - [Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]](https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html) (Jungewelt.de)
 
+## 24-20 (leptospirosis)
+
+- [How to protect your dog from dangerous bacterial infection](https://www.futurity.org/dogs-leptospirosis-3220022/) (Futurity: Research News)
+
+- [Accuracy of rapid lateral flow immunoassays for human leptospirosis diagnosis: A systematic review and meta-analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012174) (Plos.org)
+
 ## 24-20 (hpai)
 
 - [First case of highly pathogenic avian influenza transmitted from cow to human confirmed](https://www.sciencedaily.com/releases/2024/05/240513193046.htm) (Science Daily)
 
 ## 24-20 (h5n1)
+
+- [Canada says its commercial milk tests negative for bird flu](https://www.marketscreener.com/quote/future/MILK-CLASS-IV-FUTURE-GDK--26106620/news/Canada-says-its-commercial-milk-tests-negative-for-bird-flu-46737264/) (Marketscreener.com)
+
+- [Bird Flu (H5N1) Explained: Bird Flu Possibly Found In U.S. Wastewater, CDC Reports](https://www.forbes.com/sites/ariannajohnson/2024/05/15/bird-flu-h5n1-explained-bird-flu-possibly-found-in-us-wastewater-cdc-reports/) (Forbes)
+
+- [Highly pathogenic avian flu detected in New York City wild birds](https://www.sciencedaily.com/releases/2024/05/240515122731.htm) (Science Daily)
+
+- [Птичий грипп стал угрозой для морской жизни](https://ecology-frontend.vedomosti.ru/ecology/protection_nature/news/2024/05/15/1037381-ptichii-gripp-stal-ugrozoi-dlya-morskoi-zhizni) (Vedomosti.ru)
+
+- [Avian flu detected in New York City wild birds](https://phys.org/news/2024-05-avian-flu-york-city-wild.html) (Phys.Org)
+
+- [Sprzedaż mleka rośnie. Wierzą, że picie "ptasiej grypy" zapewnia odporność](https://geekweek.interia.pl/medycyna/news-sprzedaz-mleka-rosnie-wierza-ze-picie-ptasiej-grypy-zapewnia,nId,7512279) (Interia.pl)
+
+- [Despite Bird Flu Risk, Raw-Milk Drinkers Are Undaunted](https://www.wired.com/story/raw-milk-drinkers-h5n1-bird-flu/) (Wired)
 
 - [Antibodies to Influenza A(H5N1) Virus in Hunting Dogs Retrieving Wild Fowl, Washington, USA](https://wwwnc.cdc.gov/eid/article/30/6/23-1459_article) (Cdc.gov)
 
@@ -156,6 +184,32 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1113: Influenza virus H5N1 in cows' milk with Richard Webby](https://www.microbe.tv/twiv/twiv-1113/) (Microbe.tv)
 
 ## 24-20 (dengue)
+
+- [Invasión en el AMBA: un mosquito con presencia desde Bolivia hasta Tierra del Fuego que resiste al frío](https://www.lanacion.com.ar/sociedad/invasion-en-el-amba-un-mosquito-con-presencia-desde-bolivia-hasta-tierra-del-fuego-que-resiste-al-nid15052024/) (La Nacion)
+
+- [WHO approves second vaccine against the mosquito-borne disease dengue as outbreaks intensify](https://www.foxnews.com/world/who-approves-second-vaccine-against-mosquito-borne-disease-dengue-outbreaks-intensify) (Fox News)
+
+- [Qdenga: OMS pré-qualifica vacina contra a dengue para outros países](https://www.metropoles.com/saude/oms-pre-qualifica-vacina-dengue-qdenga) (Metropoles.com)
+
+- [Takeda’s dengue vaccine gets WHO pre-qualification](https://www.thehindubusinessline.com/news/national/takedas-dengue-vaccine-gets-who-pre-qualification/article68179356.ece) (BusinessLine)
+
+- [La OMS aprueba nueva vacuna contra el dengue](https://aristeguinoticias.com/1505/kiosko/la-oms-aprueba-nueva-vacuna-contra-el-dengue/) (Aristeguinoticias.com)
+
+- [Dengue: Campinas projeta redução de casos após pico em abril, mas alerta para manter cuidados](https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/15/dengue-campinas-projeta-reducao-de-casos-apos-pico-em-abril-mas-alerta-para-manter-cuidados.ghtml) (Globo)
+
+- [Internações por dengue e síndrome respiratória sobem em 96% dos hospitais de SP](https://www.terra.com.br/vida-e-estilo/saude/internacoes-por-dengue-e-sindrome-respiratoria-sobem-em-96-dos-hospitais-de-sp,5cf02d4e61efff11cfbc510f8ba92bd1e2rjm7sl.html) (Terra.com.br)
+
+- [Prevent Senior suspende venda de planos de saúde para SP e RJ](https://www.metropoles.com/negocios/prevent-senior-planos-de-saude-sp-rj) (Metropoles.com)
+
+- [UN agency authorizes second vaccine against dengue amid outbreaks in the Americas](https://abcnews.go.com/Health/wireStory/agency-authorizes-vaccine-dengue-amid-outbreaks-americas-110255781) (ABC News)
+
+- [UN agency authorizes second vaccine against dengue amid outbreaks in the Americas](https://abcnews.go.com/International/wireStory/agency-authorizes-vaccine-dengue-amid-outbreaks-americas-110255780) (ABC News)
+
+- [UN agency authorizes second vaccine against dengue amid outbreaks in the Americas](https://www.startribune.com/un-agency-authorizes-second-vaccine-against-dengue-amid-outbreaks-in-the-americas/600366070/) (Minneapolis Star Tribune)
+
+- [Boletim aponta duas mortes por dengue em Curitiba e uma em Pinhais](https://www.terra.com.br/noticias/brasil/cidades/boletim-aponta-duas-mortes-por-dengue-em-curitiba-e-uma-em-pinhais,0cd837004d37e013562d5a540a7dd923pi9bx5ew.html) (Terra.com.br)
+
+- [MSP reporta el cuarto fallecimiento de persona con dengue en lo que va del año](https://www.montevideo.com.uy/Salud/MSP-reporta-el-cuarto-fallecimiento-de-persona-con-dengue-en-lo-que-va-del-ano-uc888319) (Montevideo.com.uy)
 
 - [Prevent Senior vai suspender venda de planos de saúde em SP e RJ](https://valor.globo.com/empresas/noticia/2024/05/15/prevent-senior-vai-suspender-venda-de-planos-de-sade-em-sp-e-rj.ghtml) (Globo)
 
@@ -2869,8 +2923,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox cases are far outpacing last year's numbers, CDC reports](https://www.livescience.com/health/viruses-infections-disease/mpox-cases-are-far-outpacing-last-years-numbers-cdc-reports) (Live Science)
 
-- [Vacina da mpox perde eficácia em até um ano, mostram dois estudos](https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia) (Metropoles.com)
-
 ## 24-14 (meningitis)
 
 - [Desalojan un campus de fútbol en Valencia por la muerte de un niño de 11 años por una meningitis](https://www.libertaddigital.com/deportes/liga/2024-04-06/desalojan-un-campus-de-futbol-en-valencia-por-la-muerte-de-un-nino-de-11-anos-por-una-meningitis-7114326/) (Libertaddigital.com)
@@ -2948,8 +3000,6 @@ Source: [News API](https://newsapi.org/)
 - [Waikato measles cases a false alarm - Te Whatu Ora](https://www.1news.co.nz/2024/04/01/waikato-measles-cases-a-false-alarm-te-whatu-ora/) (1news.co.nz)
 
 - [Waikato measles cases a false alarm](https://www.nzherald.co.nz/nz/waikato-measles-cases-a-false-alarm/427XY4ZQT5HJZPNUQPMUJH3MVQ/) (New Zealand Herald)
-
-- [Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW](https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/) (SweetwaterNOW.com)
 
 ## 24-14 (malaria)
 
@@ -3276,24 +3326,6 @@ Source: [News API](https://newsapi.org/)
 - [Vacinação contra dengue vai estar disponível nas escolas da capital paulista](https://recordtv.r7.com/balanco-geral-manha/videos/vacinacao-contra-dengue-vai-estar-disponivel-nas-escolas-da-capital-paulista-01042024) (R7.com)
 
 - [Fernán Quirós explicó por qué la vacuna contra el dengue no se debe incluir todavía en el calendario nacional](https://www.lanacion.com.ar/lnmas/fernan-quiros-explico-por-que-la-vacuna-contra-el-dengue-no-se-debe-incluir-todavia-en-el-calendario-nid01042024/) (La Nacion)
-
-- [‘Dengue podría tener un mayor impacto durante 2024′, señala OPS](https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/) (Nacion.com)
-
-- [Quem está com dengue pode comer chocolate? Saiba o que pode acontecer](https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/) (Saudelab.com)
-
-- [Indonesia sees dengue case surge in Q1](https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1) (The Star Online)
-
-- [El mapa del dengue: afirman que la epidemia es “más de seis veces mayor” que el año pasado y continúan las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/) (La Nacion)
-
-- [Internaron otra vez a Roxy Vázquez a menos de un mes de recibir el alta por dengue: "Quedé con las defensas bajas"](https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml) (Perfil.com)
-
-- [Irmã tatua corpo em homenagem à mulher grávida que morreu de dengue](https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue) (Metropoles.com)
-
-- [A Policlinico S.Martino di Genova un caso di Dengue, già dimesso](https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html) (ANSA.it)
-
-- [Surto de dengue nas Américas é o pior já registrado, diz Organização Pan-Americana da Saúde](https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024) (R7.com)
-
-- [Novas tendas de dengue no DF seguem modelo de hospitais de campanha](https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha) (Metropoles.com)
 
 ## 24-14 (chikungunya)
 

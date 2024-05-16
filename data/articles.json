@@ -1,8 +1,476 @@
 {
-  "last_updated": "2024-05-16 07:05",
-  "count_articles_total": 1482,
-  "count_articles_new": 10,
+  "last_updated": "2024-05-16 19:05",
+  "count_articles_total": 1497,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 9157,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Carol Clark",
+      "title": "Rabies outbreaks in Costa Rica cattle linked to deforestation",
+      "description": "Deforestation in Costa Rica raises the risk of cattle becoming infected with rabies by vampire bats, finds a new study. Emerging Infectious Diseases published the research by disease ecologists at Emory University.",
+      "url": "https://phys.org/news/2024-05-rabies-outbreaks-costa-rica-cattle.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/rabies-outbreaks-in-co.jpg",
+      "publishedAt": "2024-05-15 18:52:05",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+302 chars]",
+      "retrievedAt": "2024-05-16 19:05:29.584331",
+      "internal_id": "bc326802d1efa8d516a03a397fc47a5defdc948b2c97d0f83ce533d7ebb0ad66",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9175,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Mauricio Giambartolomei",
+      "title": "Invasi\u00f3n en el AMBA: un mosquito con presencia desde Bolivia hasta Tierra del Fuego que resiste al fr\u00edo",
+      "description": "Las bajas temperaturas provocaron que el vector del dengue comience la retirada, pero hay otras dos especies que persisten y estar\u00e1n en el ambiente durante algunas semanas",
+      "url": "https://www.lanacion.com.ar/sociedad/invasion-en-el-amba-un-mosquito-con-presencia-desde-bolivia-hasta-tierra-del-fuego-que-resiste-al-nid15052024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-especie-aedes-albifasciatus-o-mosquito-de-XLEUZ4TYJRHMFJZ6JLSYUS6UEI.png?auth=a0da4e93894c9ca48df7b8a631ed1de7303e48a5c10788f011ced295bd8469cd&width=768&quality=70&smart=false",
+      "publishedAt": "2024-05-15 18:21:03",
+      "content": "Despu\u00e9s de un largo per\u00edodo de humedad y d\u00edas templados, el fr\u00edo comienza a ganar terreno anticip\u00e1ndose a la llegada del invierno. Las bajas temperaturas se sintieron esta semana en todo el pa\u00eds y el\u2026 [+5628 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.242630",
+      "internal_id": "775e24079b959a6c7d63f643c0b76c585c4e0cd9b624bb2fa2bdd1cde52aadd0",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9164,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Canada says its commercial milk tests negative for bird flu",
+      "description": "(marketscreener.com) Canadian government officials said samples of commercially sold milk as of May 14 have shown \"no evidence\" of H5N1 bird flu after enhanced testing aimed at alleviating Canadians concerns following the virus' detection in some U.S. dairy c\u2026",
+      "url": "https://www.marketscreener.com/quote/future/MILK-CLASS-IV-FUTURE-GDK--26106620/news/Canada-says-its-commercial-milk-tests-negative-for-bird-flu-46737264/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2024-05/2024-05-15T175911Z_1_LYNXMPEK4E0UO_RTROPTP_3_HEALTH-BIRDFLU-CANADA.JPG",
+      "publishedAt": "2024-05-15 17:59:11",
+      "content": "WASHINGTON (Reuters) - Canadian government officials said samples of commercially sold milk as of May 14 have shown \"no evidence\" of H5N1 bird flu after enhanced testing aimed at alleviating Canadian\u2026 [+1321 chars]",
+      "retrievedAt": "2024-05-16 19:05:30.727508",
+      "internal_id": "238cfb35a9fa946ce416d9cd2f5c9c39c4021a92017797148a1430c4b969871f",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9160,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Arianna Johnson, Forbes Staff, \n Arianna Johnson, Forbes Staff\n https://www.forbes.com/sites/ariannajohnson/",
+      "title": "Bird Flu (H5N1) Explained: Bird Flu Possibly Found In U.S. Wastewater, CDC Reports",
+      "description": "Bird flu typically spreads among birds, but there have been recent outbreaks among cattle in the U.S., and one Texas man contracted the virus from sick cows. Here\u2019s why so many experts are worried about a possible new pandemic.",
+      "url": "https://www.forbes.com/sites/ariannajohnson/2024/05/15/bird-flu-h5n1-explained-bird-flu-possibly-found-in-us-wastewater-cdc-reports/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662a9d6a4635389a14a348ae/0x0.jpg?format=jpg&crop=2812,1581,x0,y128,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-15 17:34:19",
+      "content": "Heres the latest news about a global outbreak of H5N1 bird flu that started in 2020, and recently spread among cattle in U.S. states and marine mammals across the world, which has health officials cl\u2026 [+10852 chars]",
+      "retrievedAt": "2024-05-16 19:05:30.663025",
+      "internal_id": "5ab67934db6bd835d1ca1de943e59a1aa70dbe26867b1f0c1d225cd34d6995e7",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9178,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Associated Press",
+      "title": "WHO approves second vaccine against the mosquito-borne disease dengue as outbreaks intensify",
+      "description": "The World Health Organization has authorized a second dengue vaccine, manufactured by Takeda, for children aged six to 16 living in regions with high rates.",
+      "url": "https://www.foxnews.com/world/who-approves-second-vaccine-against-mosquito-borne-disease-dengue-outbreaks-intensify",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/Dengue.png",
+      "publishedAt": "2024-05-15 17:13:34",
+      "content": "The World Health Organization has authorized a second dengue vaccine, aiming to protect millions worldwide against the mosquito-borne disease.The vaccine, named Qdenga, is recommende\u2026 [+2489 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.266782",
+      "internal_id": "109ca295ef1731155c7a6e701f74fc10b3e9d78b8dd8ab06d79555c3b32c3bcc",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9181,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Tufts University",
+      "title": "How to protect your dog from dangerous bacterial infection",
+      "description": "An expert has answers for you about dogs and leptospirosis, including how to prevent dogs from getting it and what's next if they do.",
+      "url": "https://www.futurity.org/dogs-leptospirosis-3220022/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/05/dogs-leptospirosis-1600.jpg",
+      "publishedAt": "2024-05-15 16:59:35",
+      "content": "Leptospirosis is a dangerous infection that can lead to kidney failure and even death in dogs. An expert has tips for keeping your four-legged friends safe and healthy. \u201cIt\u2019s heartbreaking when we s\u2026 [+4822 chars]",
+      "retrievedAt": "2024-05-16 19:05:33.149653",
+      "internal_id": "107ceb1c5169858a06dd3a9bfab3e84bccd1858c171dacebd7f07dcb2942dd15",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9171,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Qdenga: OMS pr\u00e9-qualifica vacina contra a dengue para outros pa\u00edses",
+      "description": "A OMS recomenda o uso da vacina em crian\u00e7as de 6 a 16 anos em locais com alta carga de dengue e intensidade de transmiss\u00e3o",
+      "url": "https://www.metropoles.com/saude/oms-pre-qualifica-vacina-dengue-qdenga",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/10095623/vacinacao-dengue-vacina-qdenga-imunizante-df1.jpeg",
+      "publishedAt": "2024-05-15 16:51:09",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2696 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.190763",
+      "internal_id": "91eee9e2fb20ac1b89a298c1046d7908e987800998ceb6a757c9fa587160dbcb",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9162,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Highly pathogenic avian flu detected in New York City wild birds",
+      "description": "A small number of New York City wild birds carry highly pathogenic H5N1 avian influenza, according to a recent study.",
+      "url": "https://www.sciencedaily.com/releases/2024/05/240515122731.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-05-15 16:27:31",
+      "content": "A small number of New York City wild birds carry highly pathogenic H5N1 avian influenza, according to a recent study published in the Journal of Virology,a journal of the American Society for Microbi\u2026 [+3061 chars]",
+      "retrievedAt": "2024-05-16 19:05:30.687292",
+      "internal_id": "aaf471aa3625d5fa8c33bf6d1232a0518318a76819d48995ad1ef20d22ade7e2",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9168,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "PT Jyothi Datta",
+      "title": "Takeda\u2019s dengue vaccine gets WHO pre-qualification",
+      "description": "Takeda's WHO-prequalified dengue vaccine, TAK-003, offers hope for combating the global burden of dengue fever.",
+      "url": "https://www.thehindubusinessline.com/news/national/takedas-dengue-vaccine-gets-who-pre-qualification/article68179356.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/6st0c7/article68179632.ece/alternates/LANDSCAPE_1200/2020-06-11T132140Z_222309947_RC217H92Y1KA_RTRMADP_3_TAKEDAPHARMA-DIVESTITURE-CELLTRION.JPG",
+      "publishedAt": "2024-05-15 15:32:39",
+      "content": "Takedas dengue vaccine has been pre-qualified by the World Health Organization (WHO), making it the second such vaccine to do so. Developed by Japans Takeda, TAK-003 is a live-attenuated vaccine co\u2026 [+1909 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.162440",
+      "internal_id": "3f527a9b196fa153f57a643349acb704d9056879f9936b579743ff345b876145",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9166,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / GER",
+      "title": "La OMS aprueba nueva vacuna contra el dengue",
+      "description": "Brotes hist\u00f3ricos de dengue azotan Latinoam\u00e9rica, OMS advierte de m\u00e1s casos y muertes. Pa\u00edses afectados deben tomar medidas urgentes.",
+      "url": "https://aristeguinoticias.com/1505/kiosko/la-oms-aprueba-nueva-vacuna-contra-el-dengue/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/05/7-3.png",
+      "publishedAt": "2024-05-15 15:22:01",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) anunci\u00f3 este mi\u00e9rcoles la validaci\u00f3n de una nueva vacuna contra el dengue, la japonesa TAK-003, en un momento de notable incremento de casos y fallecimientos\u2026 [+2084 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.153233",
+      "internal_id": "d2567532c2921acf749a2c6441fe993d1aa994e373d7717aa7cdb559fff2a95c",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9180,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Theepochtimes.com",
+      "author": "Naveen Athrappully",
+      "title": "Southern US Border Sees 143 Percent Jump in Imported Malaria: CDC",
+      "description": "Imported cases in 2023 increased correspondingly to the entry of asylum seekers and other \u2019migrants,' the agency said.",
+      "url": "https://www.theepochtimes.com/health/southern-us-border-sees-143-percent-jump-in-imported-malaria-cdc-5650422",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2024/05/02/id5641851-GettyImages-2081665581-1080x720.jpg",
+      "publishedAt": "2024-05-15 14:56:45",
+      "content": "Imported malaria cases in three southern border jurisdictions more than doubled in 2023 from the year prior, according to the U.S. Centers for Disease Control and Prevention (CDC). During JanuaryDec\u2026 [+6244 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.816952",
+      "internal_id": "bf636b3b91534c03a8d221b95a3b7abbdcdcff44cff054a598308bf7d6edb0bb",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9176,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: Campinas projeta redu\u00e7\u00e3o de casos ap\u00f3s pico em abril, mas alerta para manter cuidados",
+      "description": "Secretaria de Sa\u00fade acredita em queda dos n\u00fameros por conta da diminui\u00e7\u00e3o do calor a partir de maio. \u00c1pice da doen\u00e7a aconteceu entre os dias 7 e 13 de abril. Metr\u00f3pole soma 84.553 registros e 23 mortes. Aedes aegypti Reprodu\u00e7\u00e3o EPTV A Prefeitura de Campinas (\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/15/dengue-campinas-projeta-reducao-de-casos-apos-pico-em-abril-mas-alerta-para-manter-cuidados.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/eUw_AjiCfJACEcUIr_0pevh35oc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/p/A/KoEnW0RNO0YSJbk2suZw/dengue3.jpg",
+      "publishedAt": "2024-05-15 14:54:58",
+      "content": "No entanto, a Secretaria de Sa\u00fade refor\u00e7ou que a popula\u00e7\u00e3o deve manter todos os cuidados para combate e remo\u00e7\u00e3o dos criadouros do mosquito Aedes Aegypti, vetor da dengue e de outras doen\u00e7as, como zik\u2026 [+9689 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.251444",
+      "internal_id": "75e6491e0341875ac2220c18c3286561d2734149c184e13bc62da74d49da1c65",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9161,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Vedomosti.ru",
+      "author": "\u0412\u0435\u0434\u043e\u043c\u043e\u0441\u0442\u0438. \u042d\u043a\u043e\u043b\u043e\u0433\u0438\u044f",
+      "title": "\u041f\u0442\u0438\u0447\u0438\u0439 \u0433\u0440\u0438\u043f\u043f \u0441\u0442\u0430\u043b \u0443\u0433\u0440\u043e\u0437\u043e\u0439 \u0434\u043b\u044f \u043c\u043e\u0440\u0441\u043a\u043e\u0439 \u0436\u0438\u0437\u043d\u0438",
+      "description": "",
+      "url": "https://ecology-frontend.vedomosti.ru/ecology/protection_nature/news/2024/05/15/1037381-ptichii-gripp-stal-ugrozoi-dlya-morskoi-zhizni",
+      "urlToImage": "https://sharing.vedomosti.ru/1715783960/vedomosti.ru/ecology/protection_nature/news/2024/05/15/1037381-ptichii-gripp-stal-ugrozoi-dlya-morskoi-zhizni.jpg",
+      "publishedAt": "2024-05-15 14:39:20",
+      "content": "H5N1 , , , , . , Emerging Infectious Diseases, . 17 000 . , , , 24 000 . , . , , .",
+      "retrievedAt": "2024-05-16 19:05:30.673864",
+      "internal_id": "f989961443e06d3979604470eefeec54f020ae4147c7425d0deb4385fd2759ee",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9177,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Interna\u00e7\u00f5es por dengue e s\u00edndrome respirat\u00f3ria sobem em 96% dos hospitais de SP",
+      "description": "Pesquisa consultou 89 hospitais privados, sendo 67% localizados na capital e Grande S\u00e3o Paulo e 33% no interior do Estado",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/internacoes-por-dengue-e-sindrome-respiratoria-sobem-em-96-dos-hospitais-de-sp,5cf02d4e61efff11cfbc510f8ba92bd1e2rjm7sl.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/15/1093522597-lwly6rixrvbw5pmotsvlgbrtru.jpg",
+      "publishedAt": "2024-05-15 14:32:35",
+      "content": "Segundo levantamento realizado pelo Sindicato dos Hospitais, Cl\u00ednicas e Laborat\u00f3rios do Estado de S\u00e3o Paulo (SindHosp), 96% dos hospitais paulistas registraram aumento de interna\u00e7\u00f5es de pacientes por\u2026 [+3876 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.262584",
+      "internal_id": "fa87e8ab0e5202c70477a5fb186fec521099c1a3c0337ffbd0bcf84a8bcfeffa",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9179,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rahmat Dapari, Muhamad Zazali Fikri Mohd Yusop, Dharsshini Chinnasamy, Nurul Izati Zakaria, Siti Munisah Mohd Shoaib, Mohd Erfan Edros",
+      "title": "A systematic review of the factors associated with malaria infection among forest rangers",
+      "description": "Introduction Malaria is a vector-borne disease that initially manifests as fever, headache, and chills. The illness could progress to more severe conditions, including lethargy, impaired consciousness, convulsions, shortness of breath, blood in urine, jaundic\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303406",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0303406.g001&size=inline",
+      "publishedAt": "2024-05-15 14:00:00",
+      "content": "Citation: Dapari R, Mohd Yusop MZF, Chinnasamy D, Zakaria NI, Mohd Shoaib SM, Edros ME (2024) A systematic review of the factors associated with malaria infection among forest rangers. PLoS ONE 19(5)\u2026 [+24387 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.810983",
+      "internal_id": "0e5ca30c7e947676db4565114cbf9d8b33202a5dcc6f521c2ab3c76fd5259f67",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9182,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Teerapat Nualnoi, Luelak Lomlim, Supawadee Naorungroj",
+      "title": "Accuracy of rapid lateral flow immunoassays for human leptospirosis diagnosis: A systematic review and meta-analysis",
+      "description": "Author summary Several rapid lateral flow immunoassays (LFIs) for the diagnosis of leptospirosis, the most common bacterial infection transmitted from animals to humans, have been developed during the last two decades. The test accuracy, however, seems incons\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012174",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012174.g004&size=inline",
+      "publishedAt": "2024-05-15 14:00:00",
+      "content": "Citation: Nualnoi T, Lomlim L, Naorungroj S (2024) Accuracy of rapid lateral flow immunoassays for human leptospirosis diagnosis: A systematic review and meta-analysis. PLoS Negl Trop Dis 18(5): e0\u2026 [+28589 chars]",
+      "retrievedAt": "2024-05-16 19:05:33.154924",
+      "internal_id": "2f325db151d269ef02e5a9d068cbedddda2cda1e8c40312a415a9a0fddb8152d",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9172,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Valentina Moreira",
+      "title": "Prevent Senior suspende venda de planos de sa\u00fade para SP e RJ",
+      "description": "Vendas ir\u00e3o acontecer at\u00e9 o dia 30 de maio; Prevent Senior fala em sobrecarga do sistema de sa\u00fade por surtos de dengue e doen\u00e7as sazonais",
+      "url": "https://www.metropoles.com/negocios/prevent-senior-planos-de-saude-sp-rj",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2021/10/13132116/Prevent-Senior-SP4.jpeg",
+      "publishedAt": "2024-05-15 13:34:00",
+      "content": "S\u00e3o Paulo A operadora Prevent Senior ir\u00e1 suspender temporariamente a venda de seus planos nos estados do Rio de Janeiro e S\u00e3o Paulo a partir do dia 31 de maio. A medida foi publicada no site da emp\u2026 [+1162 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.195261",
+      "internal_id": "9f01677876b0a7694887a2654262a1c1f2ef647d962f532ab442785f4fc73f7c",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9165,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Avian flu detected in New York City wild birds",
+      "description": "A small number of New York City wild birds carry highly pathogenic H5N1 avian influenza, according to a study published in the Journal of Virology,. The work highlights that the interface between animals and humans that may give rise to zoonotic infections or\u2026",
+      "url": "https://phys.org/news/2024-05-avian-flu-york-city-wild.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/house-sparrow.jpg",
+      "publishedAt": "2024-05-15 13:00:01",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+470 chars]",
+      "retrievedAt": "2024-05-16 19:05:30.732249",
+      "internal_id": "03aa1a0a88b39ccfc59dad3f22d7a1600e6657cb0fe8a3b6b4f3d6588e64387b",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9163,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Karolina Majchrzak",
+      "title": "Sprzeda\u017c mleka ro\u015bnie. Wierz\u0105, \u017ce picie \"ptasiej grypy\" zapewnia odporno\u015b\u0107",
+      "description": "Eksperci ostrzegaj\u0105, by nie spo\u017cywa\u0107 \u015bwie\u017cego niepasteryzowanego mleka, bo mo\u017ce zawiera\u0107 \"wysokie st\u0119\u017cenie\" wirusa H5N1, ale Amerykanie wiedz\u0105 lepiej. Sprzeda\u017c poszybowa\u0142a w g\u00f3r\u0119, a jego nabywcy licz\u0105 na nabycie odporno\u015bci na ptasi\u0105 gryp\u0119.",
+      "url": "https://geekweek.interia.pl/medycyna/news-sprzedaz-mleka-rosnie-wierza-ze-picie-ptasiej-grypy-zapewnia,nId,7512279",
+      "urlToImage": "https://i.iplsc.com/-/00083T6P7Y9E94TQ-C461-F4.jpg",
+      "publishedAt": "2024-05-15 12:44:09",
+      "content": "Obecna epidemia ptasiej grypy H5N1 rozpocza si w 2020 r. i doprowadzia do mierci dziesitek milion\u00f3w drobiu, a naukowcy s coraz bardziej zaniepokojeni jej rozprzestrzenianiem si na nowe gatunki. Ostat\u2026 [+2557 chars]",
+      "retrievedAt": "2024-05-16 19:05:30.713574",
+      "internal_id": "c5c76cf3bad03c0f6c2074e40d85d9400f426de4c93a79620862933d269bcc58",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9159,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Beth Mole, Ars Technica",
+      "title": "Despite Bird Flu Risk, Raw-Milk Drinkers Are Undaunted",
+      "description": "As H5N1 continues its spread among US cow herds, raw milk enthusiasts remain utterly unfazed.",
+      "url": "https://www.wired.com/story/raw-milk-drinkers-h5n1-bird-flu/",
+      "urlToImage": "https://media.wired.com/photos/66437e66e2ad7ab03620e2e7/191:100/w_1280,c_limit/Raw-Milk-Drinkers-1492554847.jpg",
+      "publishedAt": "2024-05-15 11:30:00",
+      "content": "To drink raw milk at any time is to flirt with dangerous germs. But, amid an unprecedented outbreak of H5N1 bird flu in US dairy cows, the risks have ratcheted up considerably. Health experts have st\u2026 [+3973 chars]",
+      "retrievedAt": "2024-05-16 19:05:30.645223",
+      "internal_id": "ecee7ce7ccf457f35729a2f21a8e893801a7e23e472a728036ce380827b992fd",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9170,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "UN agency authorizes second vaccine against dengue amid outbreaks in the Americas",
+      "description": "The World Health Organization has authorized a second dengue vaccine, a move that could provide protection for millions worldwide against the mosquito-borne disease that has already sparked numerous outbreaks across the Americas this year",
+      "url": "https://abcnews.go.com/Health/wireStory/agency-authorizes-vaccine-dengue-amid-outbreaks-americas-110255781",
+      "urlToImage": "https://i.abcnewsfe.com/a/be86910b-6b07-4329-a559-7c7b535ee9f9/wirestory_583ff7aa5f0abbb9cb465db3c40ccee3_16x9.jpg?w=1600",
+      "publishedAt": "2024-05-15 11:18:35",
+      "content": "GENEVA -- GENEVA (AP) The World Health Organization on Wednesday authorized a second dengue vaccine, a move that could provide protection for millions worldwide against the mosquito-borne disease t\u2026 [+2213 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.174158",
+      "internal_id": "219cbb03acb80f6706b0ff0558b9631f46c0d5b6744be210a112365cb7829267",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9169,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "UN agency authorizes second vaccine against dengue amid outbreaks in the Americas",
+      "description": "The World Health Organization has authorized a second dengue vaccine, a move that could provide protection for millions worldwide against the mosquito-borne disease that has already sparked numerous outbreaks across the Americas this year",
+      "url": "https://abcnews.go.com/International/wireStory/agency-authorizes-vaccine-dengue-amid-outbreaks-americas-110255780",
+      "urlToImage": "https://i.abcnewsfe.com/a/be86910b-6b07-4329-a559-7c7b535ee9f9/wirestory_583ff7aa5f0abbb9cb465db3c40ccee3_16x9.jpg?w=1600",
+      "publishedAt": "2024-05-15 11:18:31",
+      "content": "GENEVA -- GENEVA (AP) The World Health Organization on Wednesday authorized a second dengue vaccine, a move that could provide protection for millions worldwide against the mosquito-borne disease t\u2026 [+2213 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.169639",
+      "internal_id": "e53a30c6c79f6907b0c6dea2f039cbbf26053b55e644bd7aee435f40377e1cc1",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9167,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "Star Tribune Staff",
+      "title": "UN agency authorizes second vaccine against dengue amid outbreaks in the Americas",
+      "description": "Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.",
+      "url": "https://www.startribune.com/un-agency-authorizes-second-vaccine-against-dengue-amid-outbreaks-in-the-americas/600366070/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1715282644",
+      "publishedAt": "2024-05-15 11:03:01",
+      "content": "GENEVA The World Health Organization on Wednesday authorized a second dengue vaccine, a move that could provide protection for millions worldwide against the mosquito-borne disease that has already\u2026 [+2201 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.157694",
+      "internal_id": "e19effc4946c86f9fd58937443d06f05dfc41077df61852b148d27e4dfa45221",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9174,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Banda B",
+      "title": "Boletim aponta duas mortes por dengue em Curitiba e uma em Pinhais",
+      "description": "Das tr\u00eas mortes, apenas uma delas tinha comorbidades. As tr\u00eas eram mulheres. Entre os casos est\u00e1 uma jovem de 26 anos",
+      "url": "https://www.terra.com.br/noticias/brasil/cidades/boletim-aponta-duas-mortes-por-dengue-em-curitiba-e-uma-em-pinhais,0cd837004d37e013562d5a540a7dd923pi9bx5ew.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/15/2095924480-curitiba-pinhais-mortes-dengue-boletim-semanal.jpg",
+      "publishedAt": "2024-05-15 11:00:29",
+      "content": "O boletim semanal da dengue, publicado nesta ter\u00e7a-feira (14) pela Secretaria de Estado da Sa\u00fade (Sesa), trouxe a informa\u00e7\u00e3o de que tr\u00eas mortes pela doen\u00e7a, provocada pelo mosquito aedes aegypti, oco\u2026 [+2618 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.222337",
+      "internal_id": "e7e25e1e7d94acbf0f51faafcd24d1d0a25338b45faf990194176fff18b0b528",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9173,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "MSP reporta el cuarto fallecimiento de persona con dengue en lo que va del a\u00f1o",
+      "description": "El informe indica que el paciente presentaba comorbilidades que podr\u00edan haber incidido en el \u00f3bito.",
+      "url": "https://www.montevideo.com.uy/Salud/MSP-reporta-el-cuarto-fallecimiento-de-persona-con-dengue-en-lo-que-va-del-ano-uc888319",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201602/_W933_80/547171.jpg",
+      "publishedAt": "2024-05-15 08:57:00",
+      "content": "Cada d\u00eda, el Ministerio de Salud P\u00fablica (MSP) actualiza cifras acerca de la situaci\u00f3n del dengue y otros arbovirus, t\u00e9rmino que engloba a los virus transmitidos por criaturas hemat\u00f3fagas como mosq\u2026 [+846 chars]",
+      "retrievedAt": "2024-05-16 19:05:31.208719",
+      "internal_id": "e1844f29a9bdacf15ab1a2f8afe4e2da2f3416c7c469eb5e7e8260fa48bb84bf",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 9158,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "C-Section Doubles Risk Of Measles Vaccine Failure; Study Recommends Taking 2 Doses",
+      "description": "To have robust protection against measles, children born with C-sections should receive two doses of the vaccination, the study revealed.",
+      "url": "https://www.medicaldaily.com/c-section-doubles-risk-measles-vaccine-failure-study-recommends-taking-2-doses-471743",
+      "urlToImage": "https://d.medicaldaily.com/en/full/472582/measles-vaccine.jpg",
+      "publishedAt": "2024-05-15 07:09:02",
+      "content": "Can the type of delivery affect a child's risk of getting measles after vaccination? The researchers now say that children born via C-section are at more than double the risk of getting measles after\u2026 [+2440 chars]",
+      "retrievedAt": "2024-05-16 19:05:30.012515",
+      "internal_id": "62f7493b828b29df92641314d6f5495585cf492d5feb5dc8333e4e060f63972e",
+      "publishedAtLabel": "May 15"
+    },
     {
       "id": 9151,
       "query": [
@@ -26556,204 +27024,6 @@
       "content": "LaSecretar\u00eda de Salud est\u00e1 llevando a cabo una campa\u00f1a de vacunaci\u00f3n para prevenir enfermedades como la poliomielitis, el sarampi\u00f3n, la rub\u00e9ola y la parotiditis. Se administrar\u00e1n alrededor de nueve m\u2026 [+1164 chars]",
       "retrievedAt": "2024-04-02 07:05:49.323761",
       "internal_id": "77c97d5225733b874577eed72f9eabf94c74c7f6415c9835a57d88b6126850d8",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7667,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "\u2018Dengue podr\u00eda tener un mayor impacto durante 2024\u2032, se\u00f1ala OPS",
-      "description": "Costa Rica fue mencionado como un pa\u00eds donde la incidencia del dengue en este a\u00f1o es alta, en una \u00e9poca donde tradicionalmente no lo ha sido pues no hay lluvias",
-      "url": "https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/",
-      "urlToImage": "https://www.nacion.com/resizer/ei61w-7K88_-OZqqsjtnLTX4sog=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Z4UMCIUPJJH4XHTI7MHZ7KBTKA.jpg",
-      "publishedAt": "2024-03-31 18:21:43",
-      "content": "Esto es motivo de preocupaci\u00f3n; representa tres veces m\u00e1s casos que los reportados para esta misma fecha en el 2023, a\u00f1o r\u00e9cord con m\u00e1s de 4,5 millones de casos notificados en la regi\u00f3n, afirm\u00f3 Jarba\u2026 [+6121 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.924693",
-      "internal_id": "ff8597afe7a4ccf14e53e4b9a4c214af0c7b7a41abf9047a2015650ea3e36005",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7676,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Saudelab.com",
-      "author": "Sa\u00fadeLAB",
-      "title": "Quem est\u00e1 com dengue pode comer chocolate? Saiba o que pode acontecer",
-      "description": "A dengue \u00e9 uma doen\u00e7a viral que se faz presente em diversas regi\u00f5es do mundo, especialmente em \u00e1reas tropicais e subtropicais. Mas, ser\u00e1 que quem est\u00e1 com dengue pode comer chocolate?A dengue \u00e9 uma doen\u00e7a gra\u00e7a que requer aten\u00e7\u00e3o imediata. Neste cont",
-      "url": "https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/",
-      "urlToImage": "https://saudelab.com/wp-content/uploads/2024/03/quem-esta-com-dengue-pode-comer-chocolate.jpg",
-      "publishedAt": "2024-03-31 18:00:49",
-      "content": "A dengue \u00e9 uma doen\u00e7a viral que se faz presente em diversas regi\u00f5es do mundo, especialmente em \u00e1reas tropicais e subtropicais. Mas, ser\u00e1 que quem est\u00e1 com dengue pode comer chocolate? A dengue \u00e9 uma\u2026 [+6716 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.957674",
-      "internal_id": "a734c3c3cff92b6f400c47c2fac9f485c0781c6ce2412670ec3a4d56eeb9e674",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7730,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Tao Fangwei",
-      "title": "Indonesia sees dengue case surge in Q1",
-      "description": "JAKARTA, March 31 (Xinhua) -- Dengue fever cases in Indonesia in the first quarter of 2024 has increased almost three times compared to the same period last year, said the Ministry of Health on Sunday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-03-31 16:50:00",
-      "content": "JAKARTA, March 31 (Xinhua) -- Dengue fever cases in Indonesia in the first quarter of 2024 has increased almost three times compared to the same period last year, said the Ministry of Health on Sunda\u2026 [+1002 chars]",
-      "retrievedAt": "2024-04-03 07:06:06.554557",
-      "internal_id": "20dfa3fde0a93b02c1398a23f6a9b5ae47d800a14ce23a87fcaab9f09f767681",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7652,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Bruno Bucis",
-      "title": "Vacina da mpox perde efic\u00e1cia em at\u00e9 um ano, mostram dois estudos",
-      "description": "Estudos mostraram que a vacina contra a var\u00edola dos macacos (mpox) perde efetividade rapidamente e que queda come\u00e7a em 1 m\u00eas",
-      "url": "https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2023/03/14144040/vacina-mpox1.jpg",
-      "publishedAt": "2024-03-31 16:26:28",
-      "content": "A prote\u00e7\u00e3o estimulada pela vacina contra mpox, a var\u00edola dos macacos, tem um prazo de dura\u00e7\u00e3o muito mais curto do que se imaginava anteriormente. \u00c9 o que apontam dois estudos que ser\u00e3o divulgados dur\u2026 [+6433 chars]",
-      "retrievedAt": "2024-04-01 19:05:27.659396",
-      "internal_id": "2498b4e81c7a77972a38ac56bcc4156d3f847dc681da3a334d96f6b432334371",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7665,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "El mapa del dengue: afirman que la epidemia es \u201cm\u00e1s de seis veces mayor\u201d que el a\u00f1o pasado y contin\u00faan las muertes",
-      "description": "Es una estimaci\u00f3n del Ministerio de Salud de la Naci\u00f3n al comparar los casos acumulados en lo que va de 2024 y el mismo per\u00edodo de 2023",
-      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-circula-en-19-UKV2FKM2HREKBKBYSUTGVC7XCE.jpg?auth=8f232fdfafc7b1602c7a1e08a018e5e884e12659b92462bad4fc408f281ecd68&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-31 15:40:38",
-      "content": "Una nueva actualizaci\u00f3n de las cifras oficiales de la epidemia de dengue refiere que la magnitud en todo el territorio es algo m\u00e1s de seis veces mayor que la del a\u00f1o pasado a esta altura de la tempor\u2026 [+2790 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.918105",
-      "internal_id": "559d2775d289667b8e169528022053f82b92b9b2b707add50a5166ea92962abc",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7664,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Perfil.com",
-      "author": "Rocio Limeres",
-      "title": "Internaron otra vez a Roxy V\u00e1zquez a menos de un mes de recibir el alta por dengue: \"Qued\u00e9 con las defensas bajas\"",
-      "description": "La conductora de Tempraneros gener\u00f3 preocupaci\u00f3n y detall\u00f3 sobre su salud: \"Es un cuadro derivado de un sistema inmune que qued\u00f3 d\u00e9bil\". Leer m\u00e1s",
-      "url": "https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml",
-      "urlToImage": "https://fotos.perfil.com/2024/03/31/trim/1140/641/roxy-vazquez-1778405.jpg",
-      "publishedAt": "2024-03-31 15:32:19",
-      "content": "Roxy V\u00e1zquez cont\u00f3 que fue internada nuevamente a menos de un mes de recibir el alta por dengue y gener\u00f3 preocupaci\u00f3n. A trav\u00e9s de sus historias de Instagram, la conductora se mostr\u00f3 desde el hospit\u2026 [+2030 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.914843",
-      "internal_id": "f1bdc9a83d795620070a34447efbc484e5938e30f5f35aa4bb73f5c60449708b",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7648,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "SweetwaterNOW.com",
-      "author": "News Desk",
-      "title": "Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW",
-      "description": "ROCK SPRINGS \u2014 Sweetwater County Public Health are raising awareness of increasing numbers of measles cases being reported throughout the U.S. According to the organization, 64 cases of measles across 17 states have been reported in 2024, while there were onl\u2026",
-      "url": "https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/",
-      "urlToImage": "https://sweetwaternow.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2017/12/Measles.jpg",
-      "publishedAt": "2024-03-31 14:38:46",
-      "content": "ROCK SPRINGS Sweetwater County Public Health are raising awareness of increasing numbers of measles cases being reported throughout the U.S. According to the organization, 64 cases of measles across\u2026 [+1661 chars]",
-      "retrievedAt": "2024-04-01 19:05:25.413528",
-      "internal_id": "b9fb0b3d20971086bae92f762db7ce7ff296072cb052419da2e2acb5d9ea9ac8",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7649,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Daniela Santos",
-      "title": "Irm\u00e3 tatua corpo em homenagem \u00e0 mulher gr\u00e1vida que morreu de dengue",
-      "description": "Jovem fez tatuagem em homenagem \u00e0 influenciadora Sofia Amorim, que morreu na \u00faltima quarta-feira com suspeita de dengue",
-      "url": "https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/31104323/irma-influenciadora-dengue-homenagem.jpeg",
-      "publishedAt": "2024-03-31 13:57:51",
-      "content": "A irm\u00e3 da influenciadora Sofia Amorim, que morreu aos 22 anos com suspeita de dengue, decidiu homenagear a jovem com uma tatuagem. Sofia estava gr\u00e1vida de sete meses. A m\u00e3e e o beb\u00ea faleceram na \u00falti\u2026 [+1335 chars]",
-      "retrievedAt": "2024-04-01 19:05:26.201313",
-      "internal_id": "14f68f3726eb610ae4f829c44bd3a2451adfc5bd87bec5305e5b83b47a77ec73",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7651,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "A Policlinico S.Martino di Genova un caso di Dengue, gi\u00e0 dimesso",
-      "description": "Un ragazzo affetto da Dengue \u00e8 stato ricoverato al Policlinico San Martino. Il ragazzo appena rientrato dall'Argentina si \u00e8 presentato al policlinico quando ha riconosciuto i sintomi, ha detto, \"ascoltando le campagne informative in tv e leggendole sui social\u2026",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/1/b247554c693bf3beabfb34a4b150271a.jpg",
-      "publishedAt": "2024-03-31 13:56:22",
-      "content": "Un ragazzo affetto da Dengue \u00e8 stato ricoverato al Policlinico San Martino. Il ragazzo appena rientrato dall'Argentina si \u00e8 presentato al policlinico quando ha riconosciuto i sintomi, ha detto, \"a\u2026 [+1735 chars]",
-      "retrievedAt": "2024-04-01 19:05:26.278567",
-      "internal_id": "390ac49736c846736184bd69bb3d547c06276b4f9b007015abd1cd6bf7c7445a",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7682,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Surto de dengue nas Am\u00e9ricas \u00e9 o pior j\u00e1 registrado, diz Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade",
-      "description": "O surto de dengue no continente americano , que estourou no come\u00e7o do ano, \u00e9 o pior da hist\u00f3ria, segundo a OPAS (Organiza\u00e7\u00e3o Pan-Americana da ...",
-      "url": "https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024",
-      "urlToImage": "https://vtb.akamaized.net/image/1418760/2024/03/31/66097ecf1df97b1d2b000617/d40613485d894f52999004c35b8119b9__Surto_de_dengue_nas_Am_ricas___o_pior_j__registrado_na_hist_ria__segundo_OPAS_thumb.jpg",
-      "publishedAt": "2024-03-31 13:08:08",
-      "content": "O surto de dengue no continente americano , que estourou no come\u00e7o do ano, \u00e9 o pior da hist\u00f3ria, segundo a OPAS (Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade). Os casos s\u00e3o tr\u00eas vezes mais numerosos do que o r\u2026 [+222 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.983061",
-      "internal_id": "4932b5d557acef24dcd8e1b49d4f253f90b656d7fac240e980ef727857302671",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7650,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Thalita Vasconcelos",
-      "title": "Novas tendas de dengue no DF seguem modelo de hospitais de campanha",
-      "description": "O objetivo \u00e9 aumentar a capacidade de acesso aos pacientes a rede p\u00fablica de sa\u00fade logo que apresentem os primeiros sintomas da doen\u00e7a",
-      "url": "https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/23134513/Tendas-Dengue-GDF.jpg",
-      "publishedAt": "2024-03-31 12:44:28",
-      "content": "As 11 novas tendas de acolhimento aos pacientes com dengue anunciadas pelo Governo do Distrito Federal (GDF) v\u00e3o funcionar como hospitais de campanha, com consult\u00f3rios, equipamentos, mobili\u00e1rio e cli\u2026 [+3260 chars]",
-      "retrievedAt": "2024-04-01 19:05:26.271969",
-      "internal_id": "81246b348951b29932194bf9f6edde13c4d500267a03bcefa845646dd8bfbdb2",
       "publishedAtLabel": "Mar 31"
     }
   ]
