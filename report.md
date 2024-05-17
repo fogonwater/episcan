@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2024-05-16 19:05
-- **Most recent article:** 2024-05-15 18:52:05
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-05-17 07:06
+- **Most recent article:** 2024-05-16 05:56:01
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 146 | 138 | 113 | 117 | 77 | 57 | 37 | 685 |
+| dengue | 155 | 138 | 113 | 117 | 77 | 57 | 44 | 701 |
 | malaria | 13 | 16 | 29 | 77 | 25 | 29 | 5 | 194 |
-| measles | 33 | 43 | 40 | 28 | 24 | 10 | 7 | 185 |
-| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 31 | 88 |
+| measles | 34 | 43 | 40 | 28 | 24 | 10 | 10 | 189 |
+| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 38 | 95 |
+| mpox | 12 | 3 | 13 | 8 | 36 | 3 | 3 | 78 |
 | meningitis | 4 | 15 | 44 | 5 | 3 | 5 | 2 | 78 |
-| mpox | 11 | 3 | 13 | 8 | 36 | 3 | 3 | 77 |
-| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 7 | 63 |
+| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 8 | 64 |
 | chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 7 | 48 |
-| zika | 11 | 10 | 8 | 3 | 8 | 2 | 1 | 43 |
+| zika | 11 | 10 | 8 | 3 | 8 | 2 | 3 | 45 |
 | pertussis | 7 | 9 | 7 | 5 | 2 | 5 | 4 | 39 |
 | sarampión | 5 | 13 | 0 | 10 | 8 | 1 | 0 | 37 |
 | leptospirosis | 1 | 3 | 3 | 3 | 2 | 1 | 2 | 15 |
@@ -35,6 +35,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (zika)
 
+- [Introduction of New Dengue Virus Lineages after COVID-19 Pandemic, Nicaragua, 2022](https://wwwnc.cdc.gov/eid/article/30/6/23-1553_article) (Cdc.gov)
+
+- [Biswulfenioidins A–E, dioxygen-bridged abietane-type diterpenoid dimers with anti-Zika virus potential from Orthosiphon wulfenioides](https://pubs.rsc.org/en/content/articlelanding/2024/qo/d4qo00619d) (Royal Society of Chemistry)
+
 - [Nueva tecnología de biomarcadores sintéticos diferencia entre infecciones previas por Zika y dengue](https://www.infosalus.com/salud-investigacion/noticia-nueva-tecnologia-biomarcadores-sinteticos-diferencia-infecciones-previas-zika-dengue-20240514070747.html) (Infosalus.com)
 
 ## 24-20 (typhoid)
@@ -42,6 +46,8 @@ Source: [News API](https://newsapi.org/)
 - [UPSC Quiz – 2024 : IASbaba’s Daily Current Affairs Quiz 14th May 2024](https://iasbaba.com/2024/05/upsc-quiz-2024-iasbabas-daily-current-affairs-quiz-14th-may-2024/) (Iasbaba.com)
 
 ## 24-20 (rabies)
+
+- [Stray dogs bite two in city, captured](https://timesofindia.indiatimes.com/city/chennai/stray-dogs-bite-two-in-city-captured/articleshow/110160224.cms) (The Times of India)
 
 - [Rabies outbreaks in Costa Rica cattle linked to deforestation](https://phys.org/news/2024-05-rabies-outbreaks-costa-rica-cattle.html) (Phys.Org)
 
@@ -83,6 +89,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (measles)
 
+- [Call to vaccinate children after measles outbreak](https://www.bbc.co.uk/news/uk-england-london-68985183) (BBC News)
+
+- [Ontario measles cases approaching high set a decade ago](https://www.cbc.ca/news/canada/toronto/measles-cases-ontario-total-to-date-nearing-decade-high-1.7205742) (CBC News)
+
+- [Trump rally pledges against vaccine mandates risk our kids' lives](https://www.msnbc.com/opinion/msnbc-opinion/trump-rally-vaccine-mandates-risks-kids-lives-rcna152461) (MSNBC)
+
 - [C-Section Doubles Risk Of Measles Vaccine Failure; Study Recommends Taking 2 Doses](https://www.medicaldaily.com/c-section-doubles-risk-measles-vaccine-failure-study-recommends-taking-2-doses-471743) (Medical Daily)
 
 - [TOI Health News Morning Briefing| Woman alleges COVID vaccine disabled her, severity of FLiRT COVID variants, measles vaccine ineffective in babies born via C-section, how to spot dehydration in kids, wheat alternatives for diabetics and more](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/toi-health-news-morning-briefing-woman-alleges-covid-vaccine-disabled-her-severity-of-flirt-covid-variants-measles-vaccine-ineffective-in-babies-born-via-c-section-how-to-spot-dehydration-in-kids-wheat-alternatives-for-diabetics-and-more/articleshow/110131377.cms) (The Times of India)
@@ -120,6 +132,20 @@ Source: [News API](https://newsapi.org/)
 - [First case of highly pathogenic avian influenza transmitted from cow to human confirmed](https://www.sciencedaily.com/releases/2024/05/240513193046.htm) (Science Daily)
 
 ## 24-20 (h5n1)
+
+- [Bird Flu Jumps From Cow to Human in The US: Experts Confirm First Case](https://www.sciencealert.com/bird-flu-jumps-from-cow-to-human-in-the-us-experts-confirm-first-case) (ScienceAlert)
+
+- [Veterinär om upptäckten i USA: ”Svårt tro på först”](https://www.svd.se/a/eM8Jx9/fagelinfluensan-h5n1-bland-kor-i-usa-forvanar-virusexperter) (Svenska Dagbladet)
+
+- [Bird flu shows limited ability for airborne spread in ferrets - study](https://www.jpost.com/health-and-wellness/article-801353) (The Jerusalem Post)
+
+- [Why scientists are concerned about the latest transmission of bird flu to cows](https://www.pbs.org/newshour/show/why-scientists-are-concerned-about-the-latest-transmission-of-bird-flu-to-cows) (PBS)
+
+- [H5N1 virus from 2022 mink outbreak capable of inefficient airborne transmission](https://www.sciencedaily.com/releases/2024/05/240515164238.htm) (Science Daily)
+
+- [La gripe aviar ha llegado a la gran manzana](https://es.gizmodo.com/gripe-aviar-h5n1-nueva-york-enfermedades-infecciosas-ur-1851480014) (Gizmodo.com)
+
+- [Bird Flu Has Made It to the Big Apple](https://gizmodo.com/bird-flu-h5n1-new-york-city-infectious-diseases-urban-1851479811) (Gizmodo.com)
 
 - [Canada says its commercial milk tests negative for bird flu](https://www.marketscreener.com/quote/future/MILK-CLASS-IV-FUTURE-GDK--26106620/news/Canada-says-its-commercial-milk-tests-negative-for-bird-flu-46737264/) (Marketscreener.com)
 
@@ -184,6 +210,20 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1113: Influenza virus H5N1 in cows' milk with Richard Webby](https://www.microbe.tv/twiv/twiv-1113/) (Microbe.tv)
 
 ## 24-20 (dengue)
+
+- [National Dengue Day 2024: Add These 10 Superfoods To Your Diet For A Speedy Recovery](https://doctor.ndtv.com/living-healthy/national-dengue-day-2024-add-these-10-superfoods-to-your-diet-for-a-speedy-recovery-5674706) (NDTV News)
+
+- [National Dengue Day 2024: Here Are The Signs, Symptoms And Complications Of Severe Dengue](https://www.ndtv.com/health/national-dengue-day-2024-here-are-the-signs-symptoms-and-complications-of-severe-dengue-5674508) (NDTV News)
+
+- [Introduction of New Dengue Virus Lineages after COVID-19 Pandemic, Nicaragua, 2022](https://wwwnc.cdc.gov/eid/article/30/6/23-1553_article) (Cdc.gov)
+
+- [Quais são as sequelas da dengue e quanto tempo duram? Entenda](https://www.terra.com.br/vida-e-estilo/saude/quais-sao-as-sequelas-da-dengue-e-quanto-tempo-duram-entenda,75d796b1647a75a266cf34f36bd1cff307hzpis5.html) (Terra.com.br)
+
+- [BBMP set to use Covid mist cannons to fight mosquitoes](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-to-use-covid-mist-cannons-to-fight-mosquitoes/articleshow/110159115.cms) (The Times of India)
+
+- [Dengue em Campinas: áreas dos CSs Valença e União de Bairros lideram em casos, mas epidemia registra infectado até na cadeia](https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/15/dengue-em-campinas-areas-dos-css-valenca-e-uniao-de-bairros-lideram-em-casos-mas-epidemia-registra-infectado-ate-na-cadeia.ghtml) (Globo)
+
+- [Curitiba detalha primeiras mortes por dengue na cidade em 2024](https://www.terra.com.br/noticias/brasil/cidades/curitiba-detalha-primeiras-mortes-por-dengue-na-cidade-em-2024,11ef16a2cbb27c42f027a0e57892a849gof0ea5y.html) (Terra.com.br)
 
 - [Invasión en el AMBA: un mosquito con presencia desde Bolivia hasta Tierra del Fuego que resiste al frío](https://www.lanacion.com.ar/sociedad/invasion-en-el-amba-un-mosquito-con-presencia-desde-bolivia-hasta-tierra-del-fuego-que-resiste-al-nid15052024/) (La Nacion)
 
@@ -2923,6 +2963,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox cases are far outpacing last year's numbers, CDC reports](https://www.livescience.com/health/viruses-infections-disease/mpox-cases-are-far-outpacing-last-years-numbers-cdc-reports) (Live Science)
 
+- [Vacina da mpox perde eficácia em até um ano, mostram dois estudos](https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia) (Metropoles.com)
+
 ## 24-14 (meningitis)
 
 - [Desalojan un campus de fútbol en Valencia por la muerte de un niño de 11 años por una meningitis](https://www.libertaddigital.com/deportes/liga/2024-04-06/desalojan-un-campus-de-futbol-en-valencia-por-la-muerte-de-un-nino-de-11-anos-por-una-meningitis-7114326/) (Libertaddigital.com)
@@ -3000,6 +3042,8 @@ Source: [News API](https://newsapi.org/)
 - [Waikato measles cases a false alarm - Te Whatu Ora](https://www.1news.co.nz/2024/04/01/waikato-measles-cases-a-false-alarm-te-whatu-ora/) (1news.co.nz)
 
 - [Waikato measles cases a false alarm](https://www.nzherald.co.nz/nz/waikato-measles-cases-a-false-alarm/427XY4ZQT5HJZPNUQPMUJH3MVQ/) (New Zealand Herald)
+
+- [Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW](https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/) (SweetwaterNOW.com)
 
 ## 24-14 (malaria)
 
@@ -3326,6 +3370,24 @@ Source: [News API](https://newsapi.org/)
 - [Vacinação contra dengue vai estar disponível nas escolas da capital paulista](https://recordtv.r7.com/balanco-geral-manha/videos/vacinacao-contra-dengue-vai-estar-disponivel-nas-escolas-da-capital-paulista-01042024) (R7.com)
 
 - [Fernán Quirós explicó por qué la vacuna contra el dengue no se debe incluir todavía en el calendario nacional](https://www.lanacion.com.ar/lnmas/fernan-quiros-explico-por-que-la-vacuna-contra-el-dengue-no-se-debe-incluir-todavia-en-el-calendario-nid01042024/) (La Nacion)
+
+- [‘Dengue podría tener un mayor impacto durante 2024′, señala OPS](https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/) (Nacion.com)
+
+- [Quem está com dengue pode comer chocolate? Saiba o que pode acontecer](https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/) (Saudelab.com)
+
+- [Indonesia sees dengue case surge in Q1](https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1) (The Star Online)
+
+- [El mapa del dengue: afirman que la epidemia es “más de seis veces mayor” que el año pasado y continúan las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/) (La Nacion)
+
+- [Internaron otra vez a Roxy Vázquez a menos de un mes de recibir el alta por dengue: "Quedé con las defensas bajas"](https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml) (Perfil.com)
+
+- [Irmã tatua corpo em homenagem à mulher grávida que morreu de dengue](https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue) (Metropoles.com)
+
+- [A Policlinico S.Martino di Genova un caso di Dengue, già dimesso](https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html) (ANSA.it)
+
+- [Surto de dengue nas Américas é o pior já registrado, diz Organização Pan-Americana da Saúde](https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024) (R7.com)
+
+- [Novas tendas de dengue no DF seguem modelo de hospitais de campanha](https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha) (Metropoles.com)
 
 ## 24-14 (chikungunya)
 
