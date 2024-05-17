@@ -1,8 +1,555 @@
 {
-  "last_updated": "2024-05-17 07:06",
-  "count_articles_total": 1527,
-  "count_articles_new": 19,
+  "last_updated": "2024-05-17 19:05",
+  "count_articles_total": 1546,
+  "count_articles_new": 30,
   "articles": [
+    {
+      "id": 9219,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "N\u00famero de casos de dengue na It\u00e1lia \u00e9 6 vezes maior do que em 2023",
+      "description": "O n\u00famero de casos de dengue na It\u00e1lia subiu para 197 no primeiro trimestre do ano, cerca de seis ...",
+      "url": "https://www.terra.com.br/noticias/mundo/numero-de-casos-de-dengue-na-italia-e-6-vezes-maior-do-que-em-2023,6f8dfd8d28ba698e724d2ee489c987dbj3cb9vul.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-05-16 17:57:14",
+      "content": "O n\u00famero de casos de dengue na It\u00e1lia subiu para 197 no primeiro trimestre do ano, cerca de seis vezes maior do que no mesmo per\u00edodo de 2023, informou nesta quinta-feira (16) o Instituto Superior de \u2026 [+3127 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.213848",
+      "internal_id": "480054930d837dc619f22f1f661eb1306490dd5a8fa4488bb104a572cc1c8a3a",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9226,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "\u00c1gua alcalina hidrata mais? Veja a diferen\u00e7a dela para a comum e para qu\u00ea serve",
+      "description": "M\u00e9dico esclarece mitos associados ao consumo de \u00e1gua alcalina na recupera\u00e7\u00e3o de doen\u00e7as como a dengue",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/agua-alcalina-hidrata-mais-veja-a-diferenca-dela-para-a-comum-e-para-que-serve,918445fa75e5846db87c6f5eb712b815zobfnuhv.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/16/istock-1462151880-1if0j76m10i0n.jpg",
+      "publishedAt": "2024-05-16 17:42:53",
+      "content": "ResumoA \u00e1gua alcalina difere da \u00e1gua comum pelo seu pH mais alto, variando de 8 a 9. Apesar de ser comumente promovida como melhor op\u00e7\u00e3o para hidrata\u00e7\u00e3o, n\u00e3o existem evid\u00eancias cient\u00edficas que compro\u2026 [+3061 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.279107",
+      "internal_id": "98fecc8b2830606b14296d24c415cbae87df5fed30f76dcf4f117c34a0c9b4c5",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9221,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Febre do Oropouche: com 5 mil casos, Sa\u00fade faz alerta para doen\u00e7a",
+      "description": "Doen\u00e7a est\u00e1 mais concentrada na regi\u00e3o Norte do pa\u00eds",
+      "url": "https://saude.ig.com.br/2024-05-16/febre-do-oropouche--com-5-mil-casos--saude-faz-alerta-para-doenca.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/7p/33/66/7p3366e7y8jyky0mtf7y6s058.jpg",
+      "publishedAt": "2024-05-16 17:39:02",
+      "content": "Um novo boletim epidemiol\u00f3gico divulgado pelo Minist\u00e9rio da Sa\u00fade mostrou o crescimento dos casos de Febre do Oropouche , doen\u00e7a com os mesmo sintomas da dengue e chikungunya, em todo o Brasil. S\u2026 [+1787 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.234356",
+      "internal_id": "99cd4ab65561385844a654271522ce37f604d74f66ec06180b672ea0c4e0c0f2",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9216,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Qual a diferen\u00e7a da febre oropouche com outras arboviroses",
+      "description": "A febre oropouche \u00e9 transmitida por mosquitos e causa febre; infec\u00e7\u00e3o pode ser confundida com outras arboviroses, como dengue, chikungunya, zika e febre amarela",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-16/qual-a-diferenca-da-febre-oropouche-com-outras-arboviroses.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/av/wp/a8/avwpa8z3ik5qktuzvqgq3o9w8.jpg",
+      "publishedAt": "2024-05-16 17:10:20",
+      "content": "Historicamente, a febre oropouche \u00e9 uma doen\u00e7a concentrada na regi\u00e3o Norte do Brasil, especialmente em \u00e1reas pr\u00f3ximas \u00e0 floresta amaz\u00f4nica. Por conta disso, a maioria das pessoas pouco sabe sobre as \u2026 [+4793 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.188656",
+      "internal_id": "c6c1e8a436e0173bc965e617fade7b52a352b6a4e5cfc1b089b7f4211c855465",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9202,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Measles Outbreak Associated with a Migrant Shelter \u2014 Chicago, Illinois, February\u2013May 2024",
+      "description": "This report describes a measles outbreak at a migrant shelter in Chicago.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7319a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7319a1_MeaslesOutbreakMigrantShelter_IMAGE_16May2024_1200x675.png?_=85171",
+      "publishedAt": "2024-05-16 17:05:22",
+      "content": "Kimberly Gressick, MD1,2,*; Amy Nham, PharmD1,2,*; Thomas D. Filardo, MD3; Kendall Anderson, MS, MPH2; Stephanie R. Black, MD2; Katherine Boss, MPH2; Maribel Chavez-Torres, MPH2; Shelby Daniel-Wayman\u2026 [+24221 chars]",
+      "retrievedAt": "2024-05-17 19:05:16.953485",
+      "internal_id": "12e3e09d0cfb677f42ff98aff12aab2b837b5b3ae322d3cfd840ec28d056e16d",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9203,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Real-Time Use of a Dynamic Model To Measure the Impact of Public Health Interventions on Measles Outbreak Size and Duration \u2014 Chicago, Illinois, 2024",
+      "description": "This report describes how dynamic models can be used to measure the impact of public health interventions on measles outbreak size and duration.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7319a2.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7319a2_MeaslesPublicHealthImpactModel_IMAGE_16May2024_1200x675.jpeg?_=58970",
+      "publishedAt": "2024-05-16 17:05:22",
+      "content": "Nina B. Masters, PhD1; Inga Holmdahl, PhD2; Paige B. Miller, PhD2; Chirag K. Kumar2,3; Catherine M. Herzog, PhD2; Peter M. DeJonge, PhD4,5; Stephanie Gretsch, MPH4; Sara E. Oliver, MD1; Manisha Patel\u2026 [+19594 chars]",
+      "retrievedAt": "2024-05-17 19:05:16.971761",
+      "internal_id": "8c9151f99f73eefbb0f06048f37b2747ebc82656575fd1f7a990486cf115c12a",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9231,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "U.S. Preparedness and Response to Increasing Clade I Mpox Cases in the Democratic Republic of the Congo \u2014 United States, 2024",
+      "description": "This report describes the investigation of cases in the Democratic Republic of the Congo (DRC), CDC\u2019s support to DRC, and U.S. public health preparedness activities to date.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7319a3.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7319a3_CladeIMpoxDRC_IMAGE_16May2024_1200x675.png?_=85221",
+      "publishedAt": "2024-05-16 17:05:22",
+      "content": "Jennifer H. McQuiston, DVM1; Richard Luce, MD2; Dieudonne Mwamba Kazadi, MD3; Christian Ngandu Bwangandu, PhD3; Placide Mbala-Kingebeni, MD; Mark Anderson, MD2; Joanna M. Prasher, PhD5; Ian T. Willia\u2026 [+22683 chars]",
+      "retrievedAt": "2024-05-17 19:05:19.759039",
+      "internal_id": "5e5ec415ddd4ed700fe698e1f8a789cdf41d8c0a4573c63e17f84304ee4ff0af",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9209,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "GrrlScientist, Senior Contributor, \n GrrlScientist, Senior Contributor\n https://www.forbes.com/sites/grrlscientist/",
+      "title": "H5N1 Avian Influenza Detected In New York City\u2019s Wild Birds",
+      "description": "Scientists have found several strains of highly pathogenic avian influenza in a small number of NYC\u2019s wild birds.",
+      "url": "https://www.forbes.com/sites/grrlscientist/2024/05/16/h5n1-avian-influenza-detected-in-new-york-citys-wild-birds/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6646150f58c952d992882b0c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-16 16:46:08",
+      "content": "Scientists have found several strains of the highly pathogenic avian influenza virus in a small number of NYCs wild birds. A family of Canada geese lounge around on the lakeshore in Central Park, Ne\u2026 [+7250 chars]",
+      "retrievedAt": "2024-05-17 19:05:17.607434",
+      "internal_id": "7e9520ea7e9ff8eb8df7f720f78a33d2ce770d3741bbacd2041b1ad65e3ed73e",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9222,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Febre oropouche dispara pelo Brasil; saiba os sintomas e como se proteger",
+      "description": "Minist\u00e9rio da Sa\u00fade divulga dados sobre a doen\u00e7a, transmitida por mosquitos e com sintomas semelhantes \u00e0 dengue e chikungunya",
+      "url": "https://claudia.abril.com.br/saude/febre-oropouche-dispara-pelo-brasil-saiba-os-sintomas-e-como-se-proteger",
+      "urlToImage": "https://claudia.abril.com.br/wp-content/uploads/2024/03/1o-caso-de-febre-Oropouche-e-confirmado-no-Rio-saiba-o-que-e-a-doenca-sintomas-.jpg?quality=85&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2024-05-16 16:40:31",
+      "content": "Assine CLAUDIA por R$2,00/semanaContinua ap\u00f3s publicidade Minist\u00e9rio da Sa\u00fade divulga dados sobre a doen\u00e7a, transmitida por mosquitos e com sintomas semelhantes \u00e0 dengue e chikungunya Por Da Reda\u00e7\u00e3\u2026 [+3887 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.242350",
+      "internal_id": "46bddbff44e30f98f3bf6e3c15bde228169b10f2fd259a7a1200751257bf8738",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9220,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "EdiCase, EdiCase",
+      "title": "7 alimentos para consumir durante a recupera\u00e7\u00e3o da dengue",
+      "description": "Nutricionista explica como a alimenta\u00e7\u00e3o pode ajudar ou prejudicar a recupera\u00e7\u00e3o da doen\u00e7a",
+      "url": "https://saude.ig.com.br/parceiros/edicase/2024-05-16/7-alimentos-para-consumir-durante-a-recuperacao-da-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/dm/0v/i0/dm0vi09gw7zrivxfkpt3wgktc.jpg",
+      "publishedAt": "2024-05-16 15:15:05",
+      "content": "A dengue \u00e9 uma doen\u00e7a viral transmitida principalmente pela picada do mosquito Aedes aegypti. Os sintomas podem variar de leves a graves. Os mais comuns incluem febre alta, dores de cabe\u00e7a intensas,\u2026 [+3772 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.219566",
+      "internal_id": "d75187e32dd6ebf5f8af4992051ecb8bf29dc5844d00544347d9ee94c149a2e0",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9227,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Research identifies mechanism behind drug resistance in malaria parasite",
+      "description": "Collaborating researchers have discovered a link between malaria parasites' ability to develop resistance to antimalarial drugs\u2014specifically artemisinin (ART)\u2014through a cellular process called transfer ribonucleic acid (tRNA) modification. tRNA modification i\u2026",
+      "url": "https://phys.org/news/2024-05-mechanism-drug-resistance-malaria-parasite.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/smart-breakthrough-res.jpg",
+      "publishedAt": "2024-05-16 15:15:05",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+6098 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.951581",
+      "internal_id": "be134d6abfd9340c4bbb961ae4239668ba3482b814cc808aaa6ecf46c20cec1b",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9207,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Hannah Docter-Loeb",
+      "title": "Do We Have Enough Bird Flu Vaccines for a Potential Pandemic?",
+      "description": "The U.S. government has a stockpile of H5N1 vaccines, and several companies could make millions more if needed. But scaling up the supply could take time",
+      "url": "https://www.scientificamerican.com/article/do-we-have-enough-bird-flu-vaccines-for-a-potential-pandemic/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/92d5d2e6c11631/original/GettyImages-1252538677_WEB.jpg?w=1200",
+      "publishedAt": "2024-05-16 15:15:00",
+      "content": "The infection of dozens of cattle herds in the U.S. with the avian influenza virus H5N1 has raised concerns about whether the pathogen, which frequently infects poultry and wild birds, could spread m\u2026 [+8242 chars]",
+      "retrievedAt": "2024-05-17 19:05:17.574991",
+      "internal_id": "7bf2c61e326ad6019af03d651a3320c2efcf2479138f9c061915d6bf41a9d41e",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9225,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Portal EdiCase",
+      "title": "7 alimentos para consumir durante a recupera\u00e7\u00e3o da dengue",
+      "description": "A dengue \u00e9 uma doen\u00e7a viral transmitida principalmente pela picada do mosquito Aedes aegypti. Os ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/7-alimentos-para-consumir-durante-a-recuperacao-da-dengue,cf47185eb2693e0d52e80f29bad87f88guxymuak.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/16/356363871-alimentacao-saudavel.jpg",
+      "publishedAt": "2024-05-16 15:03:30",
+      "content": "A dengue \u00e9 uma doen\u00e7a viral transmitida principalmente pela picada do mosquito Aedes aegypti. Os sintomas podem variar de leves a graves. Os mais comuns incluem febre alta, dores de cabe\u00e7a intensas, \u2026 [+4211 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.274063",
+      "internal_id": "4bf9cf74e84ff5fb1bb13af50fc50df26ec237390b9f4b208fc50649c8475f48",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9211,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "CDC Claims To Be Monitoring Bird Flu Cases Across The U.S.",
+      "description": "According to the Centers for Disease Control and Prevention (CDC), there have been more than 90 million poultry impacted by bird flu, also known as H5N1, as well as 46 herds of dairy cows, as of Tuesday. The CDC further claims that it has been monitoring bird\u2026",
+      "url": "https://www.shtfplan.com/member-exclusive/cdc-claims-to-be-monitoring-bird-flu-cases-across-the-u-s",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/Depositphotos_217712812_DS.jpg",
+      "publishedAt": "2024-05-16 15:00:21",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2024-05-17 19:05:17.660094",
+      "internal_id": "75faace9438aa76b1462d7698c1ecc9cc3613ddd0f7b6ad69a6016c035488695",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9230,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "National Institutes of Health",
+      "author": null,
+      "title": "New | phs003567.v1.p1 | Association Between Telomere Length and Falciparum Malaria Endemicity in Sub-Saharan Africans",
+      "description": "Association Between Telomere Length and Falciparum Malaria Endemicity in Sub-Saharan Africans ( study page | release notes ) \u200b",
+      "url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003567.v1.p1",
+      "urlToImage": null,
+      "publishedAt": "2024-05-16 15:00:00",
+      "content": "The goal of this study was to identify the genetic and environmental drivers of telomere length variation in an ethnically diverse African cohort. It comprises 1,818 participants from Cameroon, Tanza\u2026 [+1460 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.978793",
+      "internal_id": "ca7a27e9f04634df91b086a4058b138d682f6aa1944008c80288395c9d7bac36",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9223,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Cshlp.org",
+      "author": "Tipo, J., Gottipati, K., Choi, K. H.",
+      "title": "High-resolution RNA tertiary structures in Zika virus stem-loop A for the development of inhibitory small molecules [ARTICLES]",
+      "description": "Flaviviruses such as Zika (ZIKV) and dengue virus (DENV) are positive-sense RNA viruses belonging to Flaviviridae. The flavivirus genome contains a 5' end stem\u2013loop promoter sequence known as stem\u2013loop A (SLA) that is recognized by the flavivirus polymerase N\u2026",
+      "url": "https://rnajournal.cshlp.org/content/30/6/609.short?rss=1",
+      "urlToImage": null,
+      "publishedAt": "2024-05-16 14:47:20",
+      "content": "Flaviviruses such as Zika (ZIKV) and dengue virus (DENV) are positive-sense RNA viruses belonging to Flaviviridae. The flavivirus genome contains a 5 end stemloop promoter sequence known as stemloop \u2026 [+1147 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.251209",
+      "internal_id": "efb957badf7e75a82b76ddf0859102baa6f0cddf8a63dec186184d52f5aebce0",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9228,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Fassiatou Tairou, Ibrahima Gaye, Samantha Herrera, Saira Nawaz, Libasse Sarr, Birane Ciss\u00e9, Babacar Faye, Roger C. K. Tine",
+      "title": "Malaria prevalence and use of control measures in an area with persistent transmission in Senegal",
+      "description": "Introduction In Senegal, the widespread use of vector control measures has resulted in a significant reduction in the malaria burden and led the country to consider the possibility of elimination. Given this shift and changing context, it is important to char\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303794",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0303794.g004&size=inline",
+      "publishedAt": "2024-05-16 14:00:00",
+      "content": "Citation: Tairou F, Gaye I, Herrera S, Nawaz S, Sarr L, Ciss\u00e9 B, et al. (2024) Malaria prevalence and use of control measures in an area with persistent transmission in Senegal. PLoS ONE 19(5): e03\u2026 [+30190 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.957353",
+      "internal_id": "9bbe763b9832d628d4a091258db32869e53eae7e03b0d278a4a85dc7108e2114",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9204,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "Why has measles returned to UK? Pandemic spreads, children hit hard. Know in detail",
+      "description": "Measles breakout has been reported from different parts of England. Low vaccine coverage is reportedly the reason for this pandemic with regional variations.",
+      "url": "https://economictimes.indiatimes.com/news/international/uk/why-has-measles-returned-to-uk-pandemic-spreads-children-hit-hard-know-in-detail/articleshow/110182927.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-110182962,width-1200,height-630,imgsize-50804,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-05-16 13:38:29",
+      "content": "A wave of Measles has gripped the United Kingdom (UK). The UK Health Security Agency has confirmed an outbreak of more than 1,000 measles cases. This is more than thrice the number of cases registere\u2026 [+2802 chars]",
+      "retrievedAt": "2024-05-17 19:05:16.977014",
+      "internal_id": "0623e2e1471814a0e61e173f579edb2e5a9f6037bef47104eb7081d4846a4c6b",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9208,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "L\u2019influenza aviaria rilevata a New York, lo studio: \u201cLe mucche laboratorio per il virus per contagiare l\u2019uomo?\u201d",
+      "description": "L\u2019influenza aviaria \u00e8 arrivata a New York. \u201cUn piccolo numero di uccelli selvatici sono portatori del virus H5N1 ad alta patogenicit\u00e0\u201c, ha scoperto uno studio pubblicato sul Journal of Virology, rivista della Societ\u00e0 americana di microbiologia. Il lavoro evid\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/05/16/linfluenza-aviaria-rilevata-a-new-york-lo-studio-le-mucche-laboratorio-per-il-virus-per-contagiare-luomo/7550791/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/03/04/Billionaires-Row-new-york-1200-1200x630.jpg",
+      "publishedAt": "2024-05-16 13:29:53",
+      "content": "Linfluenza aviaria \u00e8 arrivata a New York. \u201cUn piccolo numero di uccelli selvatici sono portatori del virus H5N1 ad alta patogenicit\u00e0\u201c, ha scoperto uno studio pubblicato sul Journal of Virology, rivis\u2026 [+4203 chars]",
+      "retrievedAt": "2024-05-17 19:05:17.602732",
+      "internal_id": "11e1a6149b66a186aeccd4149074de278ae95c9f66cad848b235948284d35bfb",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9213,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Dengue: OMS autoriza uso global de vacina aplicada no Brasil",
+      "description": "A vacina Qdenga \u00e9 o segundo imunizante contra a dengue a ser pr\u00e9-qualificado pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade O post Dengue: OMS autoriza uso global de vacina aplicada no Brasil apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/05/16/medicina-e-saude/dengue-oms-autoriza-uso-global-de-vacina-aplicada-no-brasil/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/vacina-dengue-QDenga.png",
+      "publishedAt": "2024-05-16 13:28:03",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) informou que pr\u00e9-qualificou a vacina Qdenga, produzida pelo laborat\u00f3rio japon\u00eas Takeda e atualmente usada para imuniza\u00e7\u00e3o contra a dengue no Brasil. Este \u00e9 o segu\u2026 [+1894 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.103086",
+      "internal_id": "637b0dfea7c8ea73f413b82e3a986536c06e48ee85069e3de9594e71c8a522af",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9217,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "O que \u00e9 febre oropouche? Sintomas e tratamento",
+      "description": "A febre oropouche pode ser confundida com a dengue por causa da semelhan\u00e7a entre os sintomas, como dor nos olhos e dor de cabe\u00e7a. Saiba todos os sintomas",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-16/o-que-e-febre-oropouche--sintomas-e-tratamento.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/47/8a/g9/478ag9f2zuszb2l47wg4r2vha.jpg",
+      "publishedAt": "2024-05-16 12:55:07",
+      "content": "A febre oropouche tem sido uma preocupa\u00e7\u00e3o em toda a Am\u00e9rica do Sul, e pode atingir pessoas de qualquer idade. Muitas vezes, \u00e9 confundida com a dengue, por causa dos sintomas e pela transmiss\u00e3o, que \u2026 [+3157 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.194016",
+      "internal_id": "4958bc534f985e8c7153f88bfbd381707697502ace10b326b9d639e913289b79",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9214,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Salgono a 197 i casi di dengue in Italia, 6 volte in pi\u00f9 rispetto al 2023",
+      "description": "In aumento i casi di infezione da virus dengue che, secondo una nota dell'Istituto Superiore di Sanit\u00e0, salgono a 197 nel primo trimestre dell'anno, ovvero 6 volte in pi\u00f9 rispetto allo stesso periodo del 2023. (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/05/16/salgono-a-197-i-casi-di-dengue-6-volte-in-piu-rispetto-al-2023_cef6b1a6-2c9a-4e90-b9de-ce2e4a78b3eb.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/4/11/fd093ddcb68e420896f373f0c58b7278.jpg",
+      "publishedAt": "2024-05-16 12:50:46",
+      "content": "In aumento in Italia i casi di infezione da virus dengue che, secondo l'Istituto Superiore di Sanit\u00e0, salgono a 197 nel primo trimestre dell'anno, ovvero 6 volte in pi\u00f9 rispetto allo stesso periodo d\u2026 [+3636 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.109005",
+      "internal_id": "609ea32a4c3b7f2f70936ad63c59ca2c10008b6821d52efaccd48b736d8fb22f",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9215,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luciano Arcoverde",
+      "title": "Sa\u00fade inicia aplica\u00e7\u00e3o de 2\u00aa dose da vacina contra dengue. Saiba mais",
+      "description": "P\u00fablico de 10 a 14 anos que tenha recebido 1\u00aa dose da vacina pode procurar um dos 100 postos de atendimento do Distrito Federal. Saiba mais",
+      "url": "https://www.metropoles.com/distrito-federal/saude-inicia-aplicacao-de-2a-dose-da-vacina-contra-dengue-saiba-mais",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2022/05/03170308/Vacinacao-infantil-2-1.jpg",
+      "publishedAt": "2024-05-16 12:44:56",
+      "content": "A segunda dose da vacina contra a dengue come\u00e7ou a ser aplicada no Distrito Federal nesta quinta-feira (16/5). Fam\u00edlias com crian\u00e7as de 10 a 14 anos de idade que tenham completado 90 dias do recebime\u2026 [+1870 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.176972",
+      "internal_id": "b38d5c3e2e21904ab17b665c73c0ddc6b44893c0cac5aa5a7feeaf9be9a53fc3",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9224,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": null,
+      "title": "Las amenazas de la ruta migratoria en Guatemala: el dengue, los arrestos y el cambio clim\u00e1tico",
+      "description": "Puerto Barrios (Guatemala), 16 may (EFE).- Miles de migrantes atraviesan a diario la frontera entre Honduras y Guatemala en su camino hacia Estados Unidos, enfrent\u00e1ndose a la amenaza de enfermedades tropicales como el dengue, el arresto de las fuerzas de segu\u2026",
+      "url": "https://www.eldiario.es/desalambre/amenazas-ruta-migratoria-guatemala-dengue-arrestos-cambio-climatico_1_11372072.html",
+      "urlToImage": "https://static.eldiario.es/clip/52b0cd90-e782-42ed-b99e-6852b493fd4e_facebook-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-05-16 12:34:00",
+      "content": "Puerto Barrios (Guatemala), 16 may (EFE).- Miles de migrantes atraviesan a diario la frontera entre Honduras y Guatemala en su camino hacia Estados Unidos, enfrent\u00e1ndose a la amenaza de enfermedades \u2026 [+4905 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.265000",
+      "internal_id": "58bcfded1233e2f22d131547318822d11b0c65b4c0d9b5587bc915e11a0b19b5",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9210,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Andreea Tobias",
+      "title": "Gripa aviar\u0103 trece de la vac\u0103 la om. Exper\u0163ii confirm\u0103 primul caz",
+      "description": "Gripa aviar\u0103 \u00eenalt patogen\u0103 A(H5N1), care se r\u0103sp\u00e2nde\u015fte \u00een \u00eentreaga lume din 2020, a fost transmis\u0103 de la o vac\u0103 la un fermier din SUA. Este prima transmitere confirmat\u0103 de la vac\u0103 la om a acestui virus.",
+      "url": "https://www.mediafax.ro/stiinta-sanatate/gripa-aviara-trece-de-la-vaca-la-om-expertii-confirma-primul-caz-22379307",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/7627/22379307/1/profimedia-0102295129.jpg?width=640",
+      "publishedAt": "2024-05-16 12:27:26",
+      "content": "Vestea bun este c acest caz a fost depistat rapid, iar virusul s-a manifestat sub forma unei inflamaii oculare, mai degrab dec\u00e2t sub forma unei infecii a cilor respiratorii superioare. Aadar, probabi\u2026 [+2079 chars]",
+      "retrievedAt": "2024-05-17 19:05:17.642915",
+      "internal_id": "de0263b5219b676b4bdd92503473195bf011ea4be5a7ac47cc60889043135d0c",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9229,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Ocean Biomedical, Inc.",
+      "title": "Ocean Biomedical, Inc. (NASDAQ: OCEA) Announces Patent Allowance for Malaria Antibodies That Have Potential Capability to Protect Against Infection and Treat Severe Disease",
+      "description": "Providence, RI, May 16, 2024 (GLOBE NEWSWIRE) -- Ocean Biomedical (NASDAQ:OCEA ) announced today that Scientific Co-founder Dr. Jonathan Kurtis, MD, PhD, has been granted a new patent for his malaria therapeutic antibody discoveries, targeted to both preve\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/05/16/2883369/0/en/Ocean-Biomedical-Inc-NASDAQ-OCEA-Announces-Patent-Allowance-for-Malaria-Antibodies-That-Have-Potential-Capability-to-Protect-Against-Infection-and-Treat-Severe-Disease.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23cba9ce-1bc6-4226-9c6b-e5561047b289",
+      "publishedAt": "2024-05-16 12:01:00",
+      "content": "Providence, RI, May 16, 2024 (GLOBE NEWSWIRE) -- Ocean Biomedical (NASDAQ:OCEA ) announced today that Scientific Co-founder Dr. Jonathan Kurtis, MD, PhD, has been granted a new patent for his mala\u2026 [+8801 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.962996",
+      "internal_id": "69373340958de6f9293765b8302ef1a81a7be996be7ef4f35a8b4e452e438a28",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9212,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Gripe avi\u00e1ria: cientistas detectam H5N1 em aves de Nova York",
+      "description": "A gripe avi\u00e1ria (H5N1) foi detectada em 4 esp\u00e9cies de galinhas, gansos e falc\u00f5es em Nova York, mas pesquisadores e autoridades garantem que o risco \u00e9 baixo",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-16/gripe-aviaria--cientistas-detectam-h5n1-em-aves-de-nova-york.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/33/z7/md/33z7mdvzf1k68e8wh9u1lvl9r.jpg",
+      "publishedAt": "2024-05-16 11:30:06",
+      "content": "Depois que encontraram part\u00edculas de v\u00edrus da gripe avi\u00e1ria at\u00e9 no leite , os EUA se preocuparam em rastrear a doen\u00e7a onde quer que ela estivesse. Na quarta (15), pesquisadores anunciaram que detect\u2026 [+2979 chars]",
+      "retrievedAt": "2024-05-17 19:05:17.694441",
+      "internal_id": "9a715134f3ee624cb5bd32f9feda3d26fe7c38ae3be1923d67b516260ffd4649",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9205,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Fred Schwaller",
+      "title": "US: 'No evidence' of H5N1 bird flu spreading among people",
+      "description": "H5N1 bird flu has been detected in cows and dairy products in the United States. Authorities say the public health risk is low but warn the virus may adapt to infect humans.",
+      "url": "https://www.dw.com/en/us-no-evidence-of-h5n1-bird-flu-spreading-among-people/a-69094487",
+      "urlToImage": "https://static.dw.com/image/64996083_6.jpg",
+      "publishedAt": "2024-05-16 10:55:00",
+      "content": "Health authorities have confirmed that a highly pathogenic avian influenza (HPAI) has been spreading among dairy cattle in nine US states since March 2024. The H5N1 bird flu virus has been found in \u2026 [+5281 chars]",
+      "retrievedAt": "2024-05-17 19:05:17.285495",
+      "internal_id": "09525152ced5336d328ee4340e575feb0418d4f250046633bacd71588e0773f5",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9206,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Fred Schwaller",
+      "title": "'No evidence' of H5N1 bird flu spreading among people",
+      "description": "H5N1 bird flu has been detected in cows and US dairy products. Authorities say the public health risk is low, but warn the virus may adapt to infect humans.",
+      "url": "https://www.dw.com/en/no-evidence-of-h5n1-bird-flu-spreading-among-people/a-69094487",
+      "urlToImage": "https://static.dw.com/image/64996083_6.jpg",
+      "publishedAt": "2024-05-16 10:55:00",
+      "content": "Health authorities have confirmed that a highly pathogenic avian influenza (HPAI) has been spreading among dairy cattle in nine US states since March 2024. The H5N1 bird flu virus has been found in \u2026 [+4461 chars]",
+      "retrievedAt": "2024-05-17 19:05:17.292107",
+      "internal_id": "18e23abf38cd89410d6d7435114888cc85c9ed5991dbb6bb7aa0c6857136f0ec",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9218,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Como a dengue tamb\u00e9m pode afetar a sa\u00fade da sua coluna? Entenda",
+      "description": "As dores musculares que acompanham a dengue, al\u00e9m da desidrata\u00e7\u00e3o e inflama\u00e7\u00e3o das articula\u00e7\u00f5es locais, podem causar desconforto na coluna",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/como-a-dengue-tambem-pode-afetar-a-saude-da-sua-coluna-entenda,174a9d9071f991922dc63b6af17b2653rmf5od7j.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/15/istock-1491569697-vbt1bg1x7cxg.jpg",
+      "publishedAt": "2024-05-16 08:00:14",
+      "content": "ResumoA dengue pode afetar a coluna por conta da dor muscular generalizada que acompanha a doen\u00e7a, al\u00e9m da inflama\u00e7\u00e3o das articula\u00e7\u00f5es. O ortopedista indica hidrata\u00e7\u00e3o, analg\u00e9sicos, repouso e, se nec\u2026 [+2189 chars]",
+      "retrievedAt": "2024-05-17 19:05:18.206255",
+      "internal_id": "988bd6517d4ad2485eb3de88bb9cf06746be0dfb76a05c68143622e3cc12c8e3",
+      "publishedAtLabel": "May 16"
+    },
     {
       "id": 9195,
       "query": [
@@ -27367,204 +27914,6 @@
       "content": "LaSecretar\u00eda de Salud est\u00e1 llevando a cabo una campa\u00f1a de vacunaci\u00f3n para prevenir enfermedades como la poliomielitis, el sarampi\u00f3n, la rub\u00e9ola y la parotiditis. Se administrar\u00e1n alrededor de nueve m\u2026 [+1164 chars]",
       "retrievedAt": "2024-04-02 07:05:49.323761",
       "internal_id": "77c97d5225733b874577eed72f9eabf94c74c7f6415c9835a57d88b6126850d8",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7667,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "\u2018Dengue podr\u00eda tener un mayor impacto durante 2024\u2032, se\u00f1ala OPS",
-      "description": "Costa Rica fue mencionado como un pa\u00eds donde la incidencia del dengue en este a\u00f1o es alta, en una \u00e9poca donde tradicionalmente no lo ha sido pues no hay lluvias",
-      "url": "https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/",
-      "urlToImage": "https://www.nacion.com/resizer/ei61w-7K88_-OZqqsjtnLTX4sog=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Z4UMCIUPJJH4XHTI7MHZ7KBTKA.jpg",
-      "publishedAt": "2024-03-31 18:21:43",
-      "content": "Esto es motivo de preocupaci\u00f3n; representa tres veces m\u00e1s casos que los reportados para esta misma fecha en el 2023, a\u00f1o r\u00e9cord con m\u00e1s de 4,5 millones de casos notificados en la regi\u00f3n, afirm\u00f3 Jarba\u2026 [+6121 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.924693",
-      "internal_id": "ff8597afe7a4ccf14e53e4b9a4c214af0c7b7a41abf9047a2015650ea3e36005",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7676,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Saudelab.com",
-      "author": "Sa\u00fadeLAB",
-      "title": "Quem est\u00e1 com dengue pode comer chocolate? Saiba o que pode acontecer",
-      "description": "A dengue \u00e9 uma doen\u00e7a viral que se faz presente em diversas regi\u00f5es do mundo, especialmente em \u00e1reas tropicais e subtropicais. Mas, ser\u00e1 que quem est\u00e1 com dengue pode comer chocolate?A dengue \u00e9 uma doen\u00e7a gra\u00e7a que requer aten\u00e7\u00e3o imediata. Neste cont",
-      "url": "https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/",
-      "urlToImage": "https://saudelab.com/wp-content/uploads/2024/03/quem-esta-com-dengue-pode-comer-chocolate.jpg",
-      "publishedAt": "2024-03-31 18:00:49",
-      "content": "A dengue \u00e9 uma doen\u00e7a viral que se faz presente em diversas regi\u00f5es do mundo, especialmente em \u00e1reas tropicais e subtropicais. Mas, ser\u00e1 que quem est\u00e1 com dengue pode comer chocolate? A dengue \u00e9 uma\u2026 [+6716 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.957674",
-      "internal_id": "a734c3c3cff92b6f400c47c2fac9f485c0781c6ce2412670ec3a4d56eeb9e674",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7730,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Tao Fangwei",
-      "title": "Indonesia sees dengue case surge in Q1",
-      "description": "JAKARTA, March 31 (Xinhua) -- Dengue fever cases in Indonesia in the first quarter of 2024 has increased almost three times compared to the same period last year, said the Ministry of Health on Sunday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-03-31 16:50:00",
-      "content": "JAKARTA, March 31 (Xinhua) -- Dengue fever cases in Indonesia in the first quarter of 2024 has increased almost three times compared to the same period last year, said the Ministry of Health on Sunda\u2026 [+1002 chars]",
-      "retrievedAt": "2024-04-03 07:06:06.554557",
-      "internal_id": "20dfa3fde0a93b02c1398a23f6a9b5ae47d800a14ce23a87fcaab9f09f767681",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7652,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Bruno Bucis",
-      "title": "Vacina da mpox perde efic\u00e1cia em at\u00e9 um ano, mostram dois estudos",
-      "description": "Estudos mostraram que a vacina contra a var\u00edola dos macacos (mpox) perde efetividade rapidamente e que queda come\u00e7a em 1 m\u00eas",
-      "url": "https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2023/03/14144040/vacina-mpox1.jpg",
-      "publishedAt": "2024-03-31 16:26:28",
-      "content": "A prote\u00e7\u00e3o estimulada pela vacina contra mpox, a var\u00edola dos macacos, tem um prazo de dura\u00e7\u00e3o muito mais curto do que se imaginava anteriormente. \u00c9 o que apontam dois estudos que ser\u00e3o divulgados dur\u2026 [+6433 chars]",
-      "retrievedAt": "2024-04-01 19:05:27.659396",
-      "internal_id": "2498b4e81c7a77972a38ac56bcc4156d3f847dc681da3a334d96f6b432334371",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7665,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "El mapa del dengue: afirman que la epidemia es \u201cm\u00e1s de seis veces mayor\u201d que el a\u00f1o pasado y contin\u00faan las muertes",
-      "description": "Es una estimaci\u00f3n del Ministerio de Salud de la Naci\u00f3n al comparar los casos acumulados en lo que va de 2024 y el mismo per\u00edodo de 2023",
-      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-circula-en-19-UKV2FKM2HREKBKBYSUTGVC7XCE.jpg?auth=8f232fdfafc7b1602c7a1e08a018e5e884e12659b92462bad4fc408f281ecd68&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-31 15:40:38",
-      "content": "Una nueva actualizaci\u00f3n de las cifras oficiales de la epidemia de dengue refiere que la magnitud en todo el territorio es algo m\u00e1s de seis veces mayor que la del a\u00f1o pasado a esta altura de la tempor\u2026 [+2790 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.918105",
-      "internal_id": "559d2775d289667b8e169528022053f82b92b9b2b707add50a5166ea92962abc",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7664,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Perfil.com",
-      "author": "Rocio Limeres",
-      "title": "Internaron otra vez a Roxy V\u00e1zquez a menos de un mes de recibir el alta por dengue: \"Qued\u00e9 con las defensas bajas\"",
-      "description": "La conductora de Tempraneros gener\u00f3 preocupaci\u00f3n y detall\u00f3 sobre su salud: \"Es un cuadro derivado de un sistema inmune que qued\u00f3 d\u00e9bil\". Leer m\u00e1s",
-      "url": "https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml",
-      "urlToImage": "https://fotos.perfil.com/2024/03/31/trim/1140/641/roxy-vazquez-1778405.jpg",
-      "publishedAt": "2024-03-31 15:32:19",
-      "content": "Roxy V\u00e1zquez cont\u00f3 que fue internada nuevamente a menos de un mes de recibir el alta por dengue y gener\u00f3 preocupaci\u00f3n. A trav\u00e9s de sus historias de Instagram, la conductora se mostr\u00f3 desde el hospit\u2026 [+2030 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.914843",
-      "internal_id": "f1bdc9a83d795620070a34447efbc484e5938e30f5f35aa4bb73f5c60449708b",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7648,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "SweetwaterNOW.com",
-      "author": "News Desk",
-      "title": "Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW",
-      "description": "ROCK SPRINGS \u2014 Sweetwater County Public Health are raising awareness of increasing numbers of measles cases being reported throughout the U.S. According to the organization, 64 cases of measles across 17 states have been reported in 2024, while there were onl\u2026",
-      "url": "https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/",
-      "urlToImage": "https://sweetwaternow.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2017/12/Measles.jpg",
-      "publishedAt": "2024-03-31 14:38:46",
-      "content": "ROCK SPRINGS Sweetwater County Public Health are raising awareness of increasing numbers of measles cases being reported throughout the U.S. According to the organization, 64 cases of measles across\u2026 [+1661 chars]",
-      "retrievedAt": "2024-04-01 19:05:25.413528",
-      "internal_id": "b9fb0b3d20971086bae92f762db7ce7ff296072cb052419da2e2acb5d9ea9ac8",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7649,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Daniela Santos",
-      "title": "Irm\u00e3 tatua corpo em homenagem \u00e0 mulher gr\u00e1vida que morreu de dengue",
-      "description": "Jovem fez tatuagem em homenagem \u00e0 influenciadora Sofia Amorim, que morreu na \u00faltima quarta-feira com suspeita de dengue",
-      "url": "https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/31104323/irma-influenciadora-dengue-homenagem.jpeg",
-      "publishedAt": "2024-03-31 13:57:51",
-      "content": "A irm\u00e3 da influenciadora Sofia Amorim, que morreu aos 22 anos com suspeita de dengue, decidiu homenagear a jovem com uma tatuagem. Sofia estava gr\u00e1vida de sete meses. A m\u00e3e e o beb\u00ea faleceram na \u00falti\u2026 [+1335 chars]",
-      "retrievedAt": "2024-04-01 19:05:26.201313",
-      "internal_id": "14f68f3726eb610ae4f829c44bd3a2451adfc5bd87bec5305e5b83b47a77ec73",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7651,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "A Policlinico S.Martino di Genova un caso di Dengue, gi\u00e0 dimesso",
-      "description": "Un ragazzo affetto da Dengue \u00e8 stato ricoverato al Policlinico San Martino. Il ragazzo appena rientrato dall'Argentina si \u00e8 presentato al policlinico quando ha riconosciuto i sintomi, ha detto, \"ascoltando le campagne informative in tv e leggendole sui social\u2026",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/1/b247554c693bf3beabfb34a4b150271a.jpg",
-      "publishedAt": "2024-03-31 13:56:22",
-      "content": "Un ragazzo affetto da Dengue \u00e8 stato ricoverato al Policlinico San Martino. Il ragazzo appena rientrato dall'Argentina si \u00e8 presentato al policlinico quando ha riconosciuto i sintomi, ha detto, \"a\u2026 [+1735 chars]",
-      "retrievedAt": "2024-04-01 19:05:26.278567",
-      "internal_id": "390ac49736c846736184bd69bb3d547c06276b4f9b007015abd1cd6bf7c7445a",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7682,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Surto de dengue nas Am\u00e9ricas \u00e9 o pior j\u00e1 registrado, diz Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade",
-      "description": "O surto de dengue no continente americano , que estourou no come\u00e7o do ano, \u00e9 o pior da hist\u00f3ria, segundo a OPAS (Organiza\u00e7\u00e3o Pan-Americana da ...",
-      "url": "https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024",
-      "urlToImage": "https://vtb.akamaized.net/image/1418760/2024/03/31/66097ecf1df97b1d2b000617/d40613485d894f52999004c35b8119b9__Surto_de_dengue_nas_Am_ricas___o_pior_j__registrado_na_hist_ria__segundo_OPAS_thumb.jpg",
-      "publishedAt": "2024-03-31 13:08:08",
-      "content": "O surto de dengue no continente americano , que estourou no come\u00e7o do ano, \u00e9 o pior da hist\u00f3ria, segundo a OPAS (Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade). Os casos s\u00e3o tr\u00eas vezes mais numerosos do que o r\u2026 [+222 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.983061",
-      "internal_id": "4932b5d557acef24dcd8e1b49d4f253f90b656d7fac240e980ef727857302671",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7650,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Thalita Vasconcelos",
-      "title": "Novas tendas de dengue no DF seguem modelo de hospitais de campanha",
-      "description": "O objetivo \u00e9 aumentar a capacidade de acesso aos pacientes a rede p\u00fablica de sa\u00fade logo que apresentem os primeiros sintomas da doen\u00e7a",
-      "url": "https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/23134513/Tendas-Dengue-GDF.jpg",
-      "publishedAt": "2024-03-31 12:44:28",
-      "content": "As 11 novas tendas de acolhimento aos pacientes com dengue anunciadas pelo Governo do Distrito Federal (GDF) v\u00e3o funcionar como hospitais de campanha, com consult\u00f3rios, equipamentos, mobili\u00e1rio e cli\u2026 [+3260 chars]",
-      "retrievedAt": "2024-04-01 19:05:26.271969",
-      "internal_id": "81246b348951b29932194bf9f6edde13c4d500267a03bcefa845646dd8bfbdb2",
       "publishedAtLabel": "Mar 31"
     }
   ]

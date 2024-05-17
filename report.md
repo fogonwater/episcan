@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-05-17 07:06
-- **Most recent article:** 2024-05-16 05:56:01
+- **New articles in last harvest:** 30
+- **Last harvest:** 2024-05-17 19:05
+- **Most recent article:** 2024-05-16 17:57:14
 
 ---
 
@@ -12,21 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 155 | 138 | 113 | 117 | 77 | 57 | 44 | 701 |
-| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 5 | 194 |
-| measles | 34 | 43 | 40 | 28 | 24 | 10 | 10 | 189 |
-| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 38 | 95 |
-| mpox | 12 | 3 | 13 | 8 | 36 | 3 | 3 | 78 |
+| dengue | 146 | 138 | 113 | 117 | 77 | 57 | 58 | 706 |
+| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 9 | 198 |
+| measles | 33 | 43 | 40 | 28 | 24 | 10 | 13 | 191 |
+| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 46 | 103 |
+| mpox | 11 | 3 | 13 | 8 | 36 | 3 | 4 | 78 |
 | meningitis | 4 | 15 | 44 | 5 | 3 | 5 | 2 | 78 |
 | rabies | 16 | 8 | 3 | 3 | 4 | 22 | 8 | 64 |
-| chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 7 | 48 |
-| zika | 11 | 10 | 8 | 3 | 8 | 2 | 3 | 45 |
+| chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 10 | 51 |
+| zika | 11 | 10 | 8 | 3 | 8 | 2 | 5 | 47 |
 | pertussis | 7 | 9 | 7 | 5 | 2 | 5 | 4 | 39 |
 | sarampión | 5 | 13 | 0 | 10 | 8 | 1 | 0 | 37 |
 | leptospirosis | 1 | 3 | 3 | 3 | 2 | 1 | 2 | 15 |
 | yersinia | 3 | 0 | 2 | 0 | 5 | 1 | 0 | 11 |
+| hpai | 0 | 0 | 0 | 0 | 0 | 4 | 3 | 7 |
 | typhoid | 0 | 0 | 2 | 0 | 0 | 3 | 1 | 6 |
-| hpai | 0 | 0 | 0 | 0 | 0 | 4 | 1 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-20 (zika)
+
+- [Qual a diferença da febre oropouche com outras arboviroses](https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-16/qual-a-diferenca-da-febre-oropouche-com-outras-arboviroses.html) (Ig.com.br)
+
+- [High-resolution RNA tertiary structures in Zika virus stem-loop A for the development of inhibitory small molecules [ARTICLES]](https://rnajournal.cshlp.org/content/30/6/609.short?rss=1) (Cshlp.org)
 
 - [Introduction of New Dengue Virus Lineages after COVID-19 Pandemic, Nicaragua, 2022](https://wwwnc.cdc.gov/eid/article/30/6/23-1553_article) (Cdc.gov)
 
@@ -75,6 +79,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (mpox)
 
+- [U.S. Preparedness and Response to Increasing Clade I Mpox Cases in the Democratic Republic of the Congo — United States, 2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7319a3.htm) (Cdc.gov)
+
 - [Incubation Period and Serial Interval of Mpox in 2022 Global Outbreak Compared with Historical Estimates](https://wwwnc.cdc.gov/eid/article/30/6/23-1095_article) (Cdc.gov)
 
 - [Monkeypox case detected in South Africa](https://www.thestar.com.my/news/world/2024/05/14/monkeypox-case-detected-in-south-africa) (The Star Online)
@@ -88,6 +94,12 @@ Source: [News API](https://newsapi.org/)
 - [Ex-pharmacy exec sentenced for role in deadly meningitis outbreak caused by mold-tainted drugs](https://www.foxnews.com/us/ex-pharmacy-exec-sentenced-role-deadly-meningitis-outbreak-caused-mold-tainted-drugs) (Fox News)
 
 ## 24-20 (measles)
+
+- [Measles Outbreak Associated with a Migrant Shelter — Chicago, Illinois, February–May 2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7319a1.htm) (Cdc.gov)
+
+- [Real-Time Use of a Dynamic Model To Measure the Impact of Public Health Interventions on Measles Outbreak Size and Duration — Chicago, Illinois, 2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7319a2.htm) (Cdc.gov)
+
+- [Why has measles returned to UK? Pandemic spreads, children hit hard. Know in detail](https://economictimes.indiatimes.com/news/international/uk/why-has-measles-returned-to-uk-pandemic-spreads-children-hit-hard-know-in-detail/articleshow/110182927.cms) (The Times of India)
 
 - [Call to vaccinate children after measles outbreak](https://www.bbc.co.uk/news/uk-england-london-68985183) (BBC News)
 
@@ -111,6 +123,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (malaria)
 
+- [Research identifies mechanism behind drug resistance in malaria parasite](https://phys.org/news/2024-05-mechanism-drug-resistance-malaria-parasite.html) (Phys.Org)
+
+- [New | phs003567.v1.p1 | Association Between Telomere Length and Falciparum Malaria Endemicity in Sub-Saharan Africans](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003567.v1.p1) (National Institutes of Health)
+
+- [Malaria prevalence and use of control measures in an area with persistent transmission in Senegal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303794) (Plos.org)
+
+- [Ocean Biomedical, Inc. (NASDAQ: OCEA) Announces Patent Allowance for Malaria Antibodies That Have Potential Capability to Protect Against Infection and Treat Severe Disease](https://www.globenewswire.com/news-release/2024/05/16/2883369/0/en/Ocean-Biomedical-Inc-NASDAQ-OCEA-Announces-Patent-Allowance-for-Malaria-Antibodies-That-Have-Potential-Capability-to-Protect-Against-Infection-and-Treat-Severe-Disease.html) (GlobeNewswire)
+
 - [Southern US Border Sees 143 Percent Jump in Imported Malaria: CDC](https://www.theepochtimes.com/health/southern-us-border-sees-143-percent-jump-in-imported-malaria-cdc-5650422) (Theepochtimes.com)
 
 - [A systematic review of the factors associated with malaria infection among forest rangers](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303406) (Plos.org)
@@ -129,9 +149,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (hpai)
 
+- [US: 'No evidence' of H5N1 bird flu spreading among people](https://www.dw.com/en/us-no-evidence-of-h5n1-bird-flu-spreading-among-people/a-69094487) (DW (English))
+
+- ['No evidence' of H5N1 bird flu spreading among people](https://www.dw.com/en/no-evidence-of-h5n1-bird-flu-spreading-among-people/a-69094487) (DW (English))
+
 - [First case of highly pathogenic avian influenza transmitted from cow to human confirmed](https://www.sciencedaily.com/releases/2024/05/240513193046.htm) (Science Daily)
 
 ## 24-20 (h5n1)
+
+- [H5N1 Avian Influenza Detected In New York City’s Wild Birds](https://www.forbes.com/sites/grrlscientist/2024/05/16/h5n1-avian-influenza-detected-in-new-york-citys-wild-birds/) (Forbes)
+
+- [Do We Have Enough Bird Flu Vaccines for a Potential Pandemic?](https://www.scientificamerican.com/article/do-we-have-enough-bird-flu-vaccines-for-a-potential-pandemic/) (Scientific American)
+
+- [CDC Claims To Be Monitoring Bird Flu Cases Across The U.S.](https://www.shtfplan.com/member-exclusive/cdc-claims-to-be-monitoring-bird-flu-cases-across-the-u-s) (Shtfplan.com)
+
+- [L’influenza aviaria rilevata a New York, lo studio: “Le mucche laboratorio per il virus per contagiare l’uomo?”](https://www.ilfattoquotidiano.it/2024/05/16/linfluenza-aviaria-rilevata-a-new-york-lo-studio-le-mucche-laboratorio-per-il-virus-per-contagiare-luomo/7550791/) (Ilfattoquotidiano.it)
+
+- [Gripa aviară trece de la vacă la om. Experţii confirmă primul caz](https://www.mediafax.ro/stiinta-sanatate/gripa-aviara-trece-de-la-vaca-la-om-expertii-confirma-primul-caz-22379307) (Mediafax.ro)
+
+- [Gripe aviária: cientistas detectam H5N1 em aves de Nova York](https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-16/gripe-aviaria--cientistas-detectam-h5n1-em-aves-de-nova-york.html) (Ig.com.br)
+
+- [US: 'No evidence' of H5N1 bird flu spreading among people](https://www.dw.com/en/us-no-evidence-of-h5n1-bird-flu-spreading-among-people/a-69094487) (DW (English))
+
+- ['No evidence' of H5N1 bird flu spreading among people](https://www.dw.com/en/no-evidence-of-h5n1-bird-flu-spreading-among-people/a-69094487) (DW (English))
 
 - [Bird Flu Jumps From Cow to Human in The US: Experts Confirm First Case](https://www.sciencealert.com/bird-flu-jumps-from-cow-to-human-in-the-us-experts-confirm-first-case) (ScienceAlert)
 
@@ -210,6 +250,34 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1113: Influenza virus H5N1 in cows' milk with Richard Webby](https://www.microbe.tv/twiv/twiv-1113/) (Microbe.tv)
 
 ## 24-20 (dengue)
+
+- [Número de casos de dengue na Itália é 6 vezes maior do que em 2023](https://www.terra.com.br/noticias/mundo/numero-de-casos-de-dengue-na-italia-e-6-vezes-maior-do-que-em-2023,6f8dfd8d28ba698e724d2ee489c987dbj3cb9vul.html) (Terra.com.br)
+
+- [Água alcalina hidrata mais? Veja a diferença dela para a comum e para quê serve](https://www.terra.com.br/vida-e-estilo/saude/agua-alcalina-hidrata-mais-veja-a-diferenca-dela-para-a-comum-e-para-que-serve,918445fa75e5846db87c6f5eb712b815zobfnuhv.html) (Terra.com.br)
+
+- [Febre do Oropouche: com 5 mil casos, Saúde faz alerta para doença](https://saude.ig.com.br/2024-05-16/febre-do-oropouche--com-5-mil-casos--saude-faz-alerta-para-doenca.html) (Ig.com.br)
+
+- [Qual a diferença da febre oropouche com outras arboviroses](https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-16/qual-a-diferenca-da-febre-oropouche-com-outras-arboviroses.html) (Ig.com.br)
+
+- [Febre oropouche dispara pelo Brasil; saiba os sintomas e como se proteger](https://claudia.abril.com.br/saude/febre-oropouche-dispara-pelo-brasil-saiba-os-sintomas-e-como-se-proteger) (Abril.com.br)
+
+- [7 alimentos para consumir durante a recuperação da dengue](https://saude.ig.com.br/parceiros/edicase/2024-05-16/7-alimentos-para-consumir-durante-a-recuperacao-da-dengue.html) (Ig.com.br)
+
+- [7 alimentos para consumir durante a recuperação da dengue](https://www.terra.com.br/vida-e-estilo/saude/7-alimentos-para-consumir-durante-a-recuperacao-da-dengue,cf47185eb2693e0d52e80f29bad87f88guxymuak.html) (Terra.com.br)
+
+- [High-resolution RNA tertiary structures in Zika virus stem-loop A for the development of inhibitory small molecules [ARTICLES]](https://rnajournal.cshlp.org/content/30/6/609.short?rss=1) (Cshlp.org)
+
+- [Dengue: OMS autoriza uso global de vacina aplicada no Brasil](https://olhardigital.com.br/2024/05/16/medicina-e-saude/dengue-oms-autoriza-uso-global-de-vacina-aplicada-no-brasil/) (Olhardigital.com.br)
+
+- [O que é febre oropouche? Sintomas e tratamento](https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-16/o-que-e-febre-oropouche--sintomas-e-tratamento.html) (Ig.com.br)
+
+- [Salgono a 197 i casi di dengue in Italia, 6 volte in più rispetto al 2023](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/05/16/salgono-a-197-i-casi-di-dengue-6-volte-in-piu-rispetto-al-2023_cef6b1a6-2c9a-4e90-b9de-ce2e4a78b3eb.html) (ANSA.it)
+
+- [Saúde inicia aplicação de 2ª dose da vacina contra dengue. Saiba mais](https://www.metropoles.com/distrito-federal/saude-inicia-aplicacao-de-2a-dose-da-vacina-contra-dengue-saiba-mais) (Metropoles.com)
+
+- [Las amenazas de la ruta migratoria en Guatemala: el dengue, los arrestos y el cambio climático](https://www.eldiario.es/desalambre/amenazas-ruta-migratoria-guatemala-dengue-arrestos-cambio-climatico_1_11372072.html) (Eldiario.es)
+
+- [Como a dengue também pode afetar a saúde da sua coluna? Entenda](https://www.terra.com.br/vida-e-estilo/saude/como-a-dengue-tambem-pode-afetar-a-saude-da-sua-coluna-entenda,174a9d9071f991922dc63b6af17b2653rmf5od7j.html) (Terra.com.br)
 
 - [National Dengue Day 2024: Add These 10 Superfoods To Your Diet For A Speedy Recovery](https://doctor.ndtv.com/living-healthy/national-dengue-day-2024-add-these-10-superfoods-to-your-diet-for-a-speedy-recovery-5674706) (NDTV News)
 
@@ -300,6 +368,12 @@ Source: [News API](https://newsapi.org/)
 - [Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension](https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391) (NDTV News)
 
 ## 24-20 (chikungunya)
+
+- [Febre do Oropouche: com 5 mil casos, Saúde faz alerta para doença](https://saude.ig.com.br/2024-05-16/febre-do-oropouche--com-5-mil-casos--saude-faz-alerta-para-doenca.html) (Ig.com.br)
+
+- [Qual a diferença da febre oropouche com outras arboviroses](https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-16/qual-a-diferenca-da-febre-oropouche-com-outras-arboviroses.html) (Ig.com.br)
+
+- [Febre oropouche dispara pelo Brasil; saiba os sintomas e como se proteger](https://claudia.abril.com.br/saude/febre-oropouche-dispara-pelo-brasil-saiba-os-sintomas-e-como-se-proteger) (Abril.com.br)
 
 - [Mayaro: há risco de o vírus se disseminar em outras regiões do Brasil?](https://www.metropoles.com/saude/mayaro-risco-virus-se-disseminar) (Metropoles.com)
 
@@ -2963,8 +3037,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox cases are far outpacing last year's numbers, CDC reports](https://www.livescience.com/health/viruses-infections-disease/mpox-cases-are-far-outpacing-last-years-numbers-cdc-reports) (Live Science)
 
-- [Vacina da mpox perde eficácia em até um ano, mostram dois estudos](https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia) (Metropoles.com)
-
 ## 24-14 (meningitis)
 
 - [Desalojan un campus de fútbol en Valencia por la muerte de un niño de 11 años por una meningitis](https://www.libertaddigital.com/deportes/liga/2024-04-06/desalojan-un-campus-de-futbol-en-valencia-por-la-muerte-de-un-nino-de-11-anos-por-una-meningitis-7114326/) (Libertaddigital.com)
@@ -3042,8 +3114,6 @@ Source: [News API](https://newsapi.org/)
 - [Waikato measles cases a false alarm - Te Whatu Ora](https://www.1news.co.nz/2024/04/01/waikato-measles-cases-a-false-alarm-te-whatu-ora/) (1news.co.nz)
 
 - [Waikato measles cases a false alarm](https://www.nzherald.co.nz/nz/waikato-measles-cases-a-false-alarm/427XY4ZQT5HJZPNUQPMUJH3MVQ/) (New Zealand Herald)
-
-- [Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW](https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/) (SweetwaterNOW.com)
 
 ## 24-14 (malaria)
 
@@ -3370,24 +3440,6 @@ Source: [News API](https://newsapi.org/)
 - [Vacinação contra dengue vai estar disponível nas escolas da capital paulista](https://recordtv.r7.com/balanco-geral-manha/videos/vacinacao-contra-dengue-vai-estar-disponivel-nas-escolas-da-capital-paulista-01042024) (R7.com)
 
 - [Fernán Quirós explicó por qué la vacuna contra el dengue no se debe incluir todavía en el calendario nacional](https://www.lanacion.com.ar/lnmas/fernan-quiros-explico-por-que-la-vacuna-contra-el-dengue-no-se-debe-incluir-todavia-en-el-calendario-nid01042024/) (La Nacion)
-
-- [‘Dengue podría tener un mayor impacto durante 2024′, señala OPS](https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/) (Nacion.com)
-
-- [Quem está com dengue pode comer chocolate? Saiba o que pode acontecer](https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/) (Saudelab.com)
-
-- [Indonesia sees dengue case surge in Q1](https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1) (The Star Online)
-
-- [El mapa del dengue: afirman que la epidemia es “más de seis veces mayor” que el año pasado y continúan las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/) (La Nacion)
-
-- [Internaron otra vez a Roxy Vázquez a menos de un mes de recibir el alta por dengue: "Quedé con las defensas bajas"](https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml) (Perfil.com)
-
-- [Irmã tatua corpo em homenagem à mulher grávida que morreu de dengue](https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue) (Metropoles.com)
-
-- [A Policlinico S.Martino di Genova un caso di Dengue, già dimesso](https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html) (ANSA.it)
-
-- [Surto de dengue nas Américas é o pior já registrado, diz Organização Pan-Americana da Saúde](https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024) (R7.com)
-
-- [Novas tendas de dengue no DF seguem modelo de hospitais de campanha](https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha) (Metropoles.com)
 
 ## 24-14 (chikungunya)
 
