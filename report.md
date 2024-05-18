@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-05-18 07:05
-- **Most recent article:** 2024-05-17 06:36:54
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-05-18 19:05
+- **Most recent article:** 2024-05-17 18:30:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 155 | 138 | 113 | 117 | 77 | 57 | 67 | 724 |
-| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 11 | 200 |
-| measles | 34 | 43 | 40 | 28 | 24 | 10 | 14 | 193 |
-| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 50 | 107 |
-| mpox | 12 | 3 | 13 | 8 | 36 | 3 | 6 | 81 |
-| meningitis | 4 | 15 | 44 | 5 | 3 | 5 | 3 | 79 |
+| dengue | 146 | 138 | 113 | 117 | 77 | 57 | 71 | 719 |
+| measles | 33 | 43 | 40 | 28 | 24 | 10 | 24 | 202 |
+| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 12 | 201 |
+| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 55 | 112 |
+| mpox | 11 | 3 | 13 | 8 | 36 | 3 | 9 | 83 |
+| meningitis | 4 | 15 | 44 | 5 | 3 | 5 | 4 | 80 |
 | rabies | 16 | 8 | 3 | 3 | 4 | 22 | 9 | 65 |
 | chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 11 | 52 |
-| zika | 11 | 10 | 8 | 3 | 8 | 2 | 5 | 47 |
+| zika | 11 | 10 | 8 | 3 | 8 | 2 | 6 | 48 |
 | pertussis | 7 | 9 | 7 | 5 | 2 | 5 | 4 | 39 |
 | sarampión | 5 | 13 | 0 | 10 | 8 | 1 | 0 | 37 |
-| leptospirosis | 1 | 3 | 3 | 3 | 2 | 1 | 2 | 15 |
+| leptospirosis | 1 | 3 | 3 | 3 | 2 | 1 | 3 | 16 |
 | yersinia | 3 | 0 | 2 | 0 | 5 | 1 | 0 | 11 |
 | hpai | 0 | 0 | 0 | 0 | 0 | 4 | 3 | 7 |
 | typhoid | 0 | 0 | 2 | 0 | 0 | 3 | 1 | 6 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-20 (zika)
+
+- [Characteristics, risk factors, and outcomes related to Zika virus infection during pregnancy in Northeastern Thailand: A prospective pregnancy cohort study, 2018–2020](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012176) (Plos.org)
 
 - [Qual a diferença da febre oropouche com outras arboviroses](https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-16/qual-a-diferenca-da-febre-oropouche-com-outras-arboviroses.html) (Ig.com.br)
 
@@ -81,6 +83,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (mpox)
 
+- [Health Experts are Watching a More Dangerous Version of Mpox](https://time.com/6979046/mpox-outbreak-africa-vaccine/) (Time)
+
+- [Friday, May 17, 2024](https://kffhealthnews.org/morning-briefing/friday-may-17-2024/) (Kffhealthnews.org)
+
+- [Mpox: ¿Una amenaza global en potencia?](https://www.nationalgeographic.com.es/ciencia/esta-enfermedad-podria-convertirse-amenaza-global-caso-expandirse_22288) (Nationalgeographic.com.es)
+
 - [CDC warns of new mpox outbreak, urges vaccination](https://www.advocate.com/health/new-mpox-outbreak-get-vaccinated) (Advocate.com)
 
 - [More Lethal Mpox Strain Surges In Congo—Here’s Why The CDC Warns Of A ‘Global Threat’](https://www.forbes.com/sites/tylerroush/2024/05/16/more-lethal-mpox-strain-surges-in-congo-heres-why-the-cdc-warns-of-a-global-threat/) (Forbes)
@@ -95,6 +103,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (meningitis)
 
+- [El ECDC advierte de casos de meningitis en Francia, Reino Unido y Estados Unidos relacionados con viajes a Arabia Saudí](https://www.infosalus.com/salud-investigacion/noticia-ecdc-advierte-casos-meningitis-francia-reino-unido-estados-unidos-relacionados-viajes-arabia-saudi-20240517175957.html) (Infosalus.com)
+
 - [Scientists Warn Brain Diseases Are Getting Worse as Climate Change Intensifies](https://www.sciencealert.com/scientists-warn-brain-diseases-are-getting-worse-as-climate-change-intensifies) (ScienceAlert)
 
 - [AEV otorga tres ayudas a asociaciones para fomentar la vacunación entre pacientes con lupus y diabetes](https://www.infosalus.com/salud-investigacion/noticia-aev-otorga-tres-ayudas-asociaciones-fomentar-vacunacion-pacientes-lupus-diabetes-20240513163419.html) (Infosalus.com)
@@ -102,6 +112,26 @@ Source: [News API](https://newsapi.org/)
 - [Ex-pharmacy exec sentenced for role in deadly meningitis outbreak caused by mold-tainted drugs](https://www.foxnews.com/us/ex-pharmacy-exec-sentenced-role-deadly-meningitis-outbreak-caused-mold-tainted-drugs) (Fox News)
 
 ## 24-20 (measles)
+
+- [Move Over, Covid—There's Another Virus on the Rise](https://www.psychologytoday.com/intl/blog/heal-the-mind-to-heal-the-body/202405/move-over-covid-theres-another-virus-on-the-rise) (Psychology Today)
+
+- [Ontario reports first death from measles in over a decade](https://timesofindia.indiatimes.com/world/rest-of-world/ontario-reports-first-death-from-measles-in-over-a-decade/articleshow/110215660.cms) (The Times of India)
+
+- [Ontario reports first death from measles in over a decade](https://www.marketscreener.com/news/latest/Ontario-reports-first-death-from-measles-in-over-a-decade-46762003/) (Marketscreener.com)
+
+- [London Measles Outbreak Reported Cases Continue To Rise In U.K.](https://www.forbes.com/sites/katherinehignett/2024/05/17/london-measles-outbreak-reported-as-uk-cases-continue-to-rise/) (Forbes)
+
+- [Young child dies from measles, Public Health Ontario reports](https://www.theglobeandmail.com/canada/article-young-child-dies-from-measles-public-health-ontario-reports/) (The Globe And Mail)
+
+- [Child under 5 dies after measles hospitalization, Public Health Ontario reports](https://www.theglobeandmail.com/canada/article-child-under-5-dies-after-measles-hospitalization-public-health-ontario/) (The Globe And Mail)
+
+- [Public Health Alert: Possible Contact with Measles in Specific Parts of CUH Emergency Department and Puffin Ward](https://corksafetyalerts.com/news/public-health-alert-possible-contact-with-measles-in-specific-parts-of-cuh-emergency-department-and-puffin-ward/) (Corksafetyalerts.com)
+
+- [Ontario child under 5 dies of measles: provincial health agency](https://www.cbc.ca/news/canada/toronto/measles-death-child-ontario-1.7207293) (CBC News)
+
+- [Hamilton child under 5 dies of measles: public health agency](https://www.cbc.ca/news/canada/hamilton/measles-death-child-ontario-1.7207293) (CBC News)
+
+- [Child has died of measles, Public Health Ontario says](https://www.cp24.com/news/child-under-5-dies-of-measles-in-ontario-pho-1.6890989) (CP24 Toronto's Breaking News)
 
 - [Caesarean stops measles jab response, and quantum navigation](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/caesarean-stops-measles-jab-response-and-quantum-navigation) (The Naked Scientists)
 
@@ -133,6 +163,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (malaria)
 
+- [Namibia secures nearly 50 mln USD from Global Fund to fight infectious diseases](https://www.thestar.com.my/news/world/2024/05/18/namibia-secures-nearly-50-mln-usd-from-global-fund-to-fight-infectious-diseases) (The Star Online)
+
 - [mRNA malaria vaccine due for first clinical trial](https://www.bangkokpost.com/thailand/general/2794579/mrna-malaria-vaccine-due-for-first-clinical-trial) (Bangkok Post)
 
 - [mRNA vaccine due for first clinical trial](https://www.bangkokpost.com/thailand/general/2794579/mrna-vaccine-due-for-first-clinical-trial) (Bangkok Post)
@@ -157,6 +189,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (leptospirosis)
 
+- [Factors associated with differential seropositivity to Leptospira interrogans and Leptospira kirschneri in a high transmission urban setting for leptospirosis in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011292) (Plos.org)
+
 - [How to protect your dog from dangerous bacterial infection](https://www.futurity.org/dogs-leptospirosis-3220022/) (Futurity: Research News)
 
 - [Accuracy of rapid lateral flow immunoassays for human leptospirosis diagnosis: A systematic review and meta-analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012174) (Plos.org)
@@ -170,6 +204,16 @@ Source: [News API](https://newsapi.org/)
 - [First case of highly pathogenic avian influenza transmitted from cow to human confirmed](https://www.sciencedaily.com/releases/2024/05/240513193046.htm) (Science Daily)
 
 ## 24-20 (h5n1)
+
+- [Slow Response to Bird Flu in Cows Worries Scientists](https://www.nature.com/articles/d41586-024-01416-7) (Nature.com)
+
+- [Krwista wołowina z grilla? Naukowcy ostrzegają przed ptasią grypą](https://tvn24.pl/ciekawostki/nauka-wirus-ptasiej-grypy-w-mielonym-miesie-wolowym-badanie-st7921893) (Tvn24.pl)
+
+- [Vírus mais letal da gripe aviária é encontrado em aves de Nova York](https://brasil.perfil.com/sem-categoria/virus-mais-letal-da-gripe-aviaria-e-encontrado-em-aves-de-nova-york.phtml) (Perfil.com)
+
+- ['Playing Russian roulette with your health': Officials warn that social media trend of consuming raw milk will not protect you from bird flu](https://www.livescience.com/health/viruses-infections-disease/playing-russian-roulette-with-your-health-officials-warn-that-social-media-trend-of-consuming-raw-milk-will-not-protect-you-from-bird-flu) (Live Science)
+
+- [„Wir müssen wirklich sicherstellen, dass H5N1 nicht beginnt, von Mensch zu Mensch zu gehen“](https://www.welt.de/wissenschaft/plus251535410/Vogelgrippe-Wir-muessen-wirklich-sicherstellen-dass-H5N1-nicht-beginnt-von-Mensch-zu-Mensch-zu-gehen.html) (DIE WELT)
 
 - [Állatról emberre terjed a madárinfluenza – újabb világjárvány jöhet?](https://index.hu/tudomany/2024/05/17/madarinfluenza-virus-jarvany-fertozes-betegseg-tehen-ember-kutatas-vizsgalat-terjedes/) (Index.hu)
 
@@ -272,6 +316,14 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1113: Influenza virus H5N1 in cows' milk with Richard Webby](https://www.microbe.tv/twiv/twiv-1113/) (Microbe.tv)
 
 ## 24-20 (dengue)
+
+- [Má gestão de resíduos sólidos pode influenciar surgimento de epidemias](https://economia.ig.com.br/parceiros/esginsights/2024-05-17/ma-gestao-de-residuos-solidos-pode-influenciar-surgimento-de-epidemias.html) (Ig.com.br)
+
+- [Vacina do Alzheimer a caminho: entenda o acordo da Takeda](https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-17/vacina-do-alzheimer-a-caminho--entenda-o-acordo-da-takeda.html) (Ig.com.br)
+
+- [O que é febre mayaro? Unicamp confirma vírus no Brasil](https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-17/o-que-e-febre-mayaro--unicamp-confirma-virus-no-brasil.html) (Ig.com.br)
+
+- [OMS precalifica dos vacunas contra el dengue: ¿qué sucederá en Costa Rica?](https://www.nacion.com/ciencia/salud/oms-precalifica-dos-vacunas-contra-el-dengue-que/3XXY2C47D5GLHFVG4BVNKTCTYQ/story/) (Nacion.com)
 
 - [132 infected with dengue in Mizoram till April 30: Govt](https://timesofindia.indiatimes.com/city/guwahati/132-infected-with-dengue-in-mizoram-till-april-30-govt/articleshow/110193905.cms) (The Times of India)
 
@@ -3079,8 +3131,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox cases are far outpacing last year's numbers, CDC reports](https://www.livescience.com/health/viruses-infections-disease/mpox-cases-are-far-outpacing-last-years-numbers-cdc-reports) (Live Science)
 
-- [Vacina da mpox perde eficácia em até um ano, mostram dois estudos](https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia) (Metropoles.com)
-
 ## 24-14 (meningitis)
 
 - [Desalojan un campus de fútbol en Valencia por la muerte de un niño de 11 años por una meningitis](https://www.libertaddigital.com/deportes/liga/2024-04-06/desalojan-un-campus-de-futbol-en-valencia-por-la-muerte-de-un-nino-de-11-anos-por-una-meningitis-7114326/) (Libertaddigital.com)
@@ -3158,8 +3208,6 @@ Source: [News API](https://newsapi.org/)
 - [Waikato measles cases a false alarm - Te Whatu Ora](https://www.1news.co.nz/2024/04/01/waikato-measles-cases-a-false-alarm-te-whatu-ora/) (1news.co.nz)
 
 - [Waikato measles cases a false alarm](https://www.nzherald.co.nz/nz/waikato-measles-cases-a-false-alarm/427XY4ZQT5HJZPNUQPMUJH3MVQ/) (New Zealand Herald)
-
-- [Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW](https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/) (SweetwaterNOW.com)
 
 ## 24-14 (malaria)
 
@@ -3486,24 +3534,6 @@ Source: [News API](https://newsapi.org/)
 - [Vacinação contra dengue vai estar disponível nas escolas da capital paulista](https://recordtv.r7.com/balanco-geral-manha/videos/vacinacao-contra-dengue-vai-estar-disponivel-nas-escolas-da-capital-paulista-01042024) (R7.com)
 
 - [Fernán Quirós explicó por qué la vacuna contra el dengue no se debe incluir todavía en el calendario nacional](https://www.lanacion.com.ar/lnmas/fernan-quiros-explico-por-que-la-vacuna-contra-el-dengue-no-se-debe-incluir-todavia-en-el-calendario-nid01042024/) (La Nacion)
-
-- [‘Dengue podría tener un mayor impacto durante 2024′, señala OPS](https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/) (Nacion.com)
-
-- [Quem está com dengue pode comer chocolate? Saiba o que pode acontecer](https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/) (Saudelab.com)
-
-- [Indonesia sees dengue case surge in Q1](https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1) (The Star Online)
-
-- [El mapa del dengue: afirman que la epidemia es “más de seis veces mayor” que el año pasado y continúan las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/) (La Nacion)
-
-- [Internaron otra vez a Roxy Vázquez a menos de un mes de recibir el alta por dengue: "Quedé con las defensas bajas"](https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml) (Perfil.com)
-
-- [Irmã tatua corpo em homenagem à mulher grávida que morreu de dengue](https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue) (Metropoles.com)
-
-- [A Policlinico S.Martino di Genova un caso di Dengue, già dimesso](https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html) (ANSA.it)
-
-- [Surto de dengue nas Américas é o pior já registrado, diz Organização Pan-Americana da Saúde](https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024) (R7.com)
-
-- [Novas tendas de dengue no DF seguem modelo de hospitais de campanha](https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha) (Metropoles.com)
 
 ## 24-14 (chikungunya)
 

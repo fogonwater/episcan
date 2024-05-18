@@ -1,8 +1,476 @@
 {
-  "last_updated": "2024-05-18 07:05",
-  "count_articles_total": 1577,
-  "count_articles_new": 20,
+  "last_updated": "2024-05-18 19:05",
+  "count_articles_total": 1592,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 9262,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Smriti Mallapaty, Nature magazine",
+      "title": "Slow Response to Bird Flu in Cows Worries Scientists",
+      "description": "The H5N1 virus is a long way from becoming adapted to humans, but limited testing and tracking mean we could miss danger signs",
+      "url": "https://www.nature.com/articles/d41586-024-01416-7",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/34f4bfedfc218d5f/original/GettyImages-1363794589_WEB.jpg?w=1200",
+      "publishedAt": "2024-05-17 18:30:00",
+      "content": "Researchers worry that insufficient collection and reporting of data are hampering efforts to assess the scale of the bird-flu outbreak in US cattle \u2014 and could hold back efforts to bring the virus u\u2026 [+7470 chars]",
+      "retrievedAt": "2024-05-18 19:05:17.788915",
+      "internal_id": "0e1bc89d4ce745edabe1ed61e5df7ff912c8e641544062d67896cfcaf76fbcc1",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9252,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Psychology Today",
+      "author": "Chris Gilbert, M.D., Ph.D.",
+      "title": "Move Over, Covid\u2014There's Another Virus on the Rise",
+      "description": "Measles outbreaks are ringing warning sirens in the medical field.",
+      "url": "https://www.psychologytoday.com/intl/blog/heal-the-mind-to-heal-the-body/202405/move-over-covid-theres-another-virus-on-the-rise",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-05/cdc-bkc-m0iZ4Sk-unsplash-2.jpg?itok=p7tI1mQ_",
+      "publishedAt": "2024-05-17 17:41:00",
+      "content": "Last week I attended my quarterly conference for physicians addressing the latest concerns about virus illnesses. I expected the presentation done by Shira Shafir, Ph.D., Master of Public Health, and\u2026 [+6070 chars]",
+      "retrievedAt": "2024-05-18 19:05:16.907801",
+      "internal_id": "b6d75baf33a79e5a22d532ca54daecc99fdd0880892f6d09d61d10ca7f21e987",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9257,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Ontario reports first death from measles in over a decade",
+      "description": "A child in Ontario, under five years old, has succumbed to measles, marking the province's first measles related death in over ten years, as confirmed by Public Health Ontario (PHO). The child, who was not vaccinated against the highly contagious virus, requi\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/ontario-reports-first-death-from-measles-in-over-a-decade/articleshow/110215660.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-110215814,width-1070,height-580,imgsize-2127689,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-17 16:53:42",
+      "content": "8 fastest growing succulents for the home garden",
+      "retrievedAt": "2024-05-18 19:05:16.957465",
+      "internal_id": "8b9a17cf990b56f931f21c6424a87b14e67ebdba5a0bba14d9d8a52209da0ec6",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9256,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Ontario reports first death from measles in over a decade",
+      "description": "(marketscreener.com) An Ontario child under the age of five has died of measles making it the first such case in more than a decade, according to the provincial health agency. The child required hospitalization and was not vaccinated against the highly infec\u2026",
+      "url": "https://www.marketscreener.com/news/latest/Ontario-reports-first-death-from-measles-in-over-a-decade-46762003/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2024-05-17 16:28:45",
+      "content": "TORONTO, (Reuters) - An Ontario child under the age of five has died of measles making it the first such case in more than a decade, according to the provincial health agency. The child required hos\u2026 [+1320 chars]",
+      "retrievedAt": "2024-05-18 19:05:16.949600",
+      "internal_id": "36beb86b64785829ef17c4dc76be5877e9cc421f9ddf943b0c209ac6405e9598",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9272,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "KaulaNhongo",
+      "title": "Namibia secures nearly 50 mln USD from Global Fund to fight infectious diseases",
+      "description": "WINDHOEK, May 17 (Xinhua) -- Namibia has secured a grant of close to 50 million U.S. dollars from the Global Fund to Fight AIDS, Tuberculosis and Malaria, a senior official said Friday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/05/18/namibia-secures-nearly-50-mln-usd-from-global-fund-to-fight-infectious-diseases",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-05-17 16:27:00",
+      "content": "WINDHOEK, May 17 (Xinhua) -- Namibia has secured a grant of close to 50 million U.S. dollars from the Global Fund to Fight AIDS, Tuberculosis and Malaria, a senior official said Friday. Speaking at\u2026 [+1175 chars]",
+      "retrievedAt": "2024-05-18 19:05:19.169052",
+      "internal_id": "5dd756fce5851aa2b4a3c4ab8632eba526a3e3d61f3ab540be0083994d45be29",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9271,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC advierte de casos de meningitis en Francia, Reino Unido y Estados Unidos relacionados con viajes a Arabia Saud\u00ed",
+      "description": "El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) est\u00e1 monitorizando los informes de tres pa\u00edses (Francia, Reino Unido y Estados Unidos) de casos de enfermedad meningoc\u00f3cica invasiva (EMI) asociados a viajes a Ara\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-advierte-casos-meningitis-francia-reino-unido-estados-unidos-relacionados-viajes-arabia-saudi-20240517175957.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240517175957_1200.jpg",
+      "publishedAt": "2024-05-17 15:59:57",
+      "content": "La mayor\u00eda de los casos no tienen antecedentes de vacunaci\u00f3n antimeningoc\u00f3cica MADRID, 17 May. (EUROPA PRESS) - El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC, por sus sigl\u2026 [+4581 chars]",
+      "retrievedAt": "2024-05-18 19:05:18.754811",
+      "internal_id": "1d24d8d29401784f495c586901ab033f4bc2a911a3c6fdb0a81f629f885891b3",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9265,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "wac//am",
+      "title": "Krwista wo\u0142owina z grilla? Naukowcy ostrzegaj\u0105 przed ptasi\u0105 gryp\u0105",
+      "description": "Ameryka\u0144scy naukowcy przeprowadzili seri\u0119 test\u00f3w, by sprawdzi\u0107, jak zachowuje si\u0119 wirus ptasiej grypy H5N1 w mielonej wo\u0142owinie przyrz\u0105dzanej w okre\u015blonych stopniach wysma\u017cenia. Wielbiciele krwistego burgera wo\u0142owego musz\u0105 uwa\u017ca\u0107.",
+      "url": "https://tvn24.pl/ciekawostki/nauka-wirus-ptasiej-grypy-w-mielonym-miesie-wolowym-badanie-st7921893",
+      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-kf0yr9-sredni-hamburger-wazy-okolo-160-gramow-4632397/alternates/LANDSCAPE_1280",
+      "publishedAt": "2024-05-17 15:34:39",
+      "content": "Amerykascy naukowcy przeprowadzili seri test\u00f3w, by sprawdzi, jak zachowuje si wirus ptasiej grypy H5N1 w mielonej woowinie przyrzdzanej w okrelonych stopniach wysmaenia. Wielbiciele krwistego burgera\u2026 [+2574 chars]",
+      "retrievedAt": "2024-05-18 19:05:17.911998",
+      "internal_id": "7686d365bedbdace43fc1699721fb140cca986bb32f22c9a5ce6317fe6f68b54",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9266,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "V\u00edrus mais letal da gripe avi\u00e1ria \u00e9 encontrado em aves de Nova York",
+      "description": "Estudo divulgado no no Journal of Virology encontrou rastros da variante 2.3.4.4b do v\u00edrus da gripe avi\u00e1ria (H5N1) em fezes dos animais da cidade",
+      "url": "https://brasil.perfil.com/sem-categoria/virus-mais-letal-da-gripe-aviaria-e-encontrado-em-aves-de-nova-york.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/17/65850561-abre-perfil-brasil-2024-05-17t121746772.jpg",
+      "publishedAt": "2024-05-17 15:33:13",
+      "content": "Um estudo divulgado na quinta-feira (16), no Journal of Virology, aumentou a preocupa\u00e7\u00e3o ao revelar que aves da cidade de Nova York est\u00e3o com uma variante altamente patog\u00eanica do v\u00edrus. Desde que o \u2026 [+1657 chars]",
+      "retrievedAt": "2024-05-18 19:05:17.916366",
+      "internal_id": "bd9e766d6f6c0a000079787791519e3951f3e1399ef156b4e2ac629559073836",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9275,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Alice Park",
+      "title": "Health Experts are Watching a More Dangerous Version of Mpox",
+      "description": "Cases of a new group of mpox viruses in the Democratic Republic of Congo has U.S. health officials on alert.",
+      "url": "https://time.com/6979046/mpox-outbreak-africa-vaccine/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/GettyImages-1428289519.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2024-05-17 14:57:42",
+      "content": "Cases of a new group of mpox viruses are rising, potentially posing a risk to people around the world, according to health officials at the U.S. Centers for Disease Control and Prevention (CDC). So\u2026 [+3834 chars]",
+      "retrievedAt": "2024-05-18 19:05:20.014647",
+      "internal_id": "121d2c34848dd8cbce1bcad9ec98b328f95a6a3c91b7cb1267f51251beadf122",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9253,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Katherine Hignett, Senior Contributor, \n Katherine Hignett, Senior Contributor\n https://www.forbes.com/sites/katherinehignett-1/",
+      "title": "London Measles Outbreak Reported Cases Continue To Rise In U.K.",
+      "description": "Parents in England have been urged to vaccinate their children as the measles virus continues to spread across the country.",
+      "url": "https://www.forbes.com/sites/katherinehignett/2024/05/17/london-measles-outbreak-reported-as-uk-cases-continue-to-rise/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66475f13f6e9514545d1ac34/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-17 14:40:32",
+      "content": "Child with a red measles rash. getty Parents in England have been urged to vaccinate their children as the measles virus continues to spread. London has seen a surge in cases, while an earlier out\u2026 [+3979 chars]",
+      "retrievedAt": "2024-05-18 19:05:16.925052",
+      "internal_id": "b407e98f20da852eeec92e827e8b35f14301ab72822e4c222ce7dac46916f8d5",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9263,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "ben.turner@futurenet.com (Ben Turner)",
+      "title": "'Playing Russian roulette with your health': Officials warn that social media trend of consuming raw milk will not protect you from bird flu",
+      "description": "Raw milk sales have surged following reports of H5N1 infections in dairy cows in the U.S. But drinking unpasteurized products will cause more harm than good, experts warn.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/playing-russian-roulette-with-your-health-officials-warn-that-social-media-trend-of-consuming-raw-milk-will-not-protect-you-from-bird-flu",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JhgwikG9d7W5g9spiZx3nb-1200-80.jpg",
+      "publishedAt": "2024-05-17 14:12:01",
+      "content": "People shouldn't drink raw milk in an attempt to gain immunity from bird flu, health experts have warned. These warnings follow news that a bird flu subtype called H5N1 was found in cattle herds \u2026 [+4986 chars]",
+      "retrievedAt": "2024-05-18 19:05:17.817026",
+      "internal_id": "2c81457fdc85a63378749f913e87da6d5f59be4ba0fbdb3f5d2fc28ee0ed5ee6",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9273,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jurai Wongsawat, Somsak Thamthitiwat, Victoria J. Hicks, Sumonmal Uttayamakul, Phanthaneeya Teepruksa, Pongpun Sawatwong, Beth Skaggs, Philip A. Mock, John R. MacArthur, Inthira Suya, Patranuch Sapchookul, Paul Kitsutani, Terrence Q. Lo, Apichart Vachiraphan, Ekachai Kovavisarach, Chulwoo Rhee, Pamorn Darun, Kamol Saepueng, Chamnan Waisaen, Doungporn Jampan, Pravit Sriboonrat, Buncha Palanuwong, Punchawee Sukbut, Darin Areechokchai, Chakrarat Pittayawonganon, Sopon Iamsirithaworn, Emily Bloss, Carol Y. Rao",
+      "title": "Characteristics, risk factors, and outcomes related to Zika virus infection during pregnancy in Northeastern Thailand: A prospective pregnancy cohort study, 2018\u20132020",
+      "description": "Author summary Zika virus (ZIKV) is an emerging infectious pathogen that was elevated to a Public Health Emergency of International Concern in 2016, due to its possible association with congenital microcephaly, a serious birth defect for infants. We launched \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012176",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012176.g002&size=inline",
+      "publishedAt": "2024-05-17 14:00:00",
+      "content": "Citation: Wongsawat J, Thamthitiwat S, Hicks VJ, Uttayamakul S, Teepruksa P, Sawatwong P, et al. (2024) Characteristics, risk factors, and outcomes related to Zika virus infection during pregnancy in\u2026 [+45456 chars]",
+      "retrievedAt": "2024-05-18 19:05:19.505138",
+      "internal_id": "c84aab20cede624157a0fadfc0a4ce3016284d249b80e4ba1520ba3faaaa2525",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9277,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Daiana de Oliveira, Hussein Khalil, Fabiana Almerinda G. Palma, Roberta Santana, Nivison Nery Jr, Juan C. Quintero-V\u00e9lez, Caio Graco Zeppelini, Gielson Almeida do Sacramento, Jaqueline S. Cruz, Ricardo Lustosa, Igor Santana Ferreira, Ticiana Carvalho-Pereira, Peter J. Diggle, Elsio A. Wunder Jr, Albert I. Ko, Yeimi Alzate Lopez, Mike Begon, Mitermayer G. Reis, Federico Costa",
+      "title": "Factors associated with differential seropositivity to Leptospira interrogans and Leptospira kirschneri in a high transmission urban setting for leptospirosis in Brazil",
+      "description": "Author summary In this study, we investigated specific epidemiological patterns related to the Icterohaemorrhagiae and Cynopteri serogroups in urban environments at high risk for leptospirosis. Our results indicate that seropositivity for the Cynopteri serogr\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011292",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011292.g003&size=inline",
+      "publishedAt": "2024-05-17 14:00:00",
+      "content": "Abstract Background Leptospirosis is a zoonosis caused by pathogenic species of bacteria belonging to the genus Leptospira. Most studies infer the epidemiological patterns of a single serogroup or \u2026 [+34088 chars]",
+      "retrievedAt": "2024-05-18 19:05:20.533696",
+      "internal_id": "f7b479ed2a3f977752fae53a0cb4b5317b62d7949d577392091cff6dbcec6e23",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9270,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "ESG Insights, ESG Insights",
+      "title": "M\u00e1 gest\u00e3o de res\u00edduos s\u00f3lidos pode influenciar surgimento de epidemias",
+      "description": "Crescimento da dengue no Brasil mostra a import\u00e2ncia de um controle mais r\u00edgido sobre o descarte inadequado",
+      "url": "https://economia.ig.com.br/parceiros/esginsights/2024-05-17/ma-gestao-de-residuos-solidos-pode-influenciar-surgimento-de-epidemias.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0w/1q/f8/0w1qf82qeyr6qbrw4225d346u.jpg",
+      "publishedAt": "2024-05-17 13:55:45",
+      "content": "POR GUI ARRUDA Nos \u00faltimos meses, o Brasil enfrenta uma crise com o aumento do n\u00famero de casos de dengue, com oito estados e o Distrito Federal declarando situa\u00e7\u00e3o de emerg\u00eancia. A dengue \u00e9 uma do\u2026 [+4229 chars]",
+      "retrievedAt": "2024-05-18 19:05:18.459998",
+      "internal_id": "68e420fed1b62f48eafe20144c112a1208c007470b0e56d9c47c02d84c11c801",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9268,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Vacina do Alzheimer a caminho: entenda o acordo da Takeda",
+      "description": "Respons\u00e1vel pela vacina da dengue, a Takeda tamb\u00e9m est\u00e1 envolvida nos testes com humanos para uma poss\u00edvel vacina contra o avan\u00e7o da doen\u00e7a de Alzheimer",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-17/vacina-do-alzheimer-a-caminho--entenda-o-acordo-da-takeda.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6b/ji/lg/6bjilg73570esp978daec8mvx.jpg",
+      "publishedAt": "2024-05-17 12:40:07",
+      "content": "Conhecida pela vacina contra a dengue (Qdenga) , a farmac\u00eautica japonesa Takeda se envolve em um novo projeto: o desenvolvimento da primeira vacina do Alzheimer. Em parceria com a startup de biotec\u2026 [+2765 chars]",
+      "retrievedAt": "2024-05-18 19:05:18.379313",
+      "internal_id": "1e85d94301b260a38f8e2ec614f3d4661ca29c8c0a0b4c472166de26bcde1331",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9276,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Friday, May 17, 2024",
+      "description": "Friday's briefing includes news on needle exchanges, the reclassification of cannabis, a push for maternal mental health support, warnings of surging mpox, and more.",
+      "url": "https://kffhealthnews.org/morning-briefing/friday-may-17-2024/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2024-05-17 12:36:24",
+      "content": "California's Proposal For Universal Health Care Collapses The dream of CalCare a state insurance program for all residents with no premiums, deductibles or copays is no more, having been scrapped in\u2026 [+6098 chars]",
+      "retrievedAt": "2024-05-18 19:05:20.025952",
+      "internal_id": "21a999dfaf9f17b11f99454df0c9530d2c1ccd1b0c421891205bf4cbbcea9263",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9258,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-globe-and-mail",
+      "source_name": "The Globe And Mail",
+      "author": "Carly Weeks",
+      "title": "Young child dies from measles, Public Health Ontario reports",
+      "description": "An unvaccinated child under age 5 has died from the measles in Ontario, unvaccinated children are at heightened risk for complications of the virus",
+      "url": "https://www.theglobeandmail.com/canada/article-young-child-dies-from-measles-public-health-ontario-reports/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/BAHA3CESDZEBXMWZM7FROYSAB4.jpg?auth=271750ec6190b132c79c1276e3f5892e19c0b2137daa80ccbe2e708746db5f47&width=1200&height=803&quality=80",
+      "publishedAt": "2024-05-17 12:15:23",
+      "content": "Open this photo in gallery:A measles, mumps and rubella vaccine is seen on a countertop at a pediatrics clinic in Greenbrae, Calif. on Feb. 6, 2015.Eric Risberg/The Associated Press An Ontario child\u2026 [+2601 chars]",
+      "retrievedAt": "2024-05-18 19:05:16.978121",
+      "internal_id": "e889e06d2ceafcb7b606afa32b7016618a7b742f4b7a3f100fc135133c52c144",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9259,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-globe-and-mail",
+      "source_name": "The Globe And Mail",
+      "author": "The Canadian Press",
+      "title": "Child under 5 dies after measles hospitalization, Public Health Ontario reports",
+      "description": "The Ontario agency says there have been 22 confirmed cases of measles in Ontario this year, 13 of them in children",
+      "url": "https://www.theglobeandmail.com/canada/article-child-under-5-dies-after-measles-hospitalization-public-health-ontario/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/AVGZNC6S2RHPZLCLEZWADOSATE.JPG?auth=942cff89fe442c470de2f78ffdae25d1b4d76be8bef8fc67e1b6a1a5aab823a3&width=1200&height=800&quality=80",
+      "publishedAt": "2024-05-17 12:15:23",
+      "content": "Public Health Ontario says a young child has died after being hospitalized for measles the first such death in more than a decade. A report published Thursday says the child was under five years old\u2026 [+457 chars]",
+      "retrievedAt": "2024-05-18 19:05:16.982974",
+      "internal_id": "150362775bc9c249580860ce24e50d6ca03920cb33714c69752f7aa061b35546",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9261,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Corksafetyalerts.com",
+      "author": "Cork Safety Alerts News",
+      "title": "Public Health Alert: Possible Contact with Measles in Specific Parts of CUH Emergency Department and Puffin Ward",
+      "description": "Everyone who attended the locations above during these timeframes should be aware of the signs and symptoms of measles for 21 days from the time of possible exposure.",
+      "url": "https://corksafetyalerts.com/news/public-health-alert-possible-contact-with-measles-in-specific-parts-of-cuh-emergency-department-and-puffin-ward/",
+      "urlToImage": "https://corksafetyalerts.b-cdn.net/wp-content/uploads/2024/05/Public-Health-Alert.jpg",
+      "publishedAt": "2024-05-17 11:55:28",
+      "content": "Help Support Cork Safety Alerts \u2013 Donate the price of a coffee here via Stripe: https://csalert.ie/donate The Department of Public Health HSE South West is advising that members of the public may ha\u2026 [+4093 chars]",
+      "retrievedAt": "2024-05-18 19:05:16.999337",
+      "internal_id": "50c49a5407e86cac7c99c5d0769b1846d52472e4ec7aab892f81c68dc1c0f6cc",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9254,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ontario child under 5 dies of measles: provincial health agency",
+      "description": "In a report published Thursday, Public Health Ontario said the child was not vaccinated against the highly infectious respiratory virus. It did not indicate when or where the child died, or their specific age.",
+      "url": "https://www.cbc.ca/news/canada/toronto/measles-death-child-ontario-1.7207293",
+      "urlToImage": "https://i.cbc.ca/1.7131773.1709334919!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2024-05-17 11:29:17",
+      "content": "A child under five years old has died of measles in Ontario, according to the province's public health agency. In a report published Thursday, Public Health Ontario said the child was not vaccinated\u2026 [+1132 chars]",
+      "retrievedAt": "2024-05-18 19:05:16.933342",
+      "internal_id": "f6dee1cec01b8b6714608e630997630348e09e01890c2f1e082b6136720ef502",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9255,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Hamilton child under 5 dies of measles: public health agency",
+      "description": "In a report published Thursday, Public Health Ontario said the child was not vaccinated against the highly infectious respiratory virus. It's the first recorded death from measles in the province since 1989, as far back as Ontario's data goes.",
+      "url": "https://www.cbc.ca/news/canada/hamilton/measles-death-child-ontario-1.7207293",
+      "urlToImage": "https://i.cbc.ca/1.7131773.1709334919!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2024-05-17 11:29:17",
+      "content": "A Hamilton child under five years old has died of measles, says the city's public health agency. \"This is a profoundly tragic situation where a young child has left us too soon with their whole lif\u2026 [+4393 chars]",
+      "retrievedAt": "2024-05-18 19:05:16.944990",
+      "internal_id": "9cbe19fedcd664eed63dc3972a601ded9fbae848088927069cc7f9c6faab3c97",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9267,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "O que \u00e9 febre mayaro? Unicamp confirma v\u00edrus no Brasil",
+      "description": "A Unicamp confirmou a circula\u00e7\u00e3o do v\u00edrus mayaro em Roraima. A febre mayaro gera sintomas parecidos com a dengue, como dor de cabe\u00e7a e dor nas articula\u00e7\u00f5es",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-17/o-que-e-febre-mayaro--unicamp-confirma-virus-no-brasil.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5v/52/ud/5v52udrmesg0dn5m67aojwxza.jpg",
+      "publishedAt": "2024-05-17 11:20:06",
+      "content": "Parte da popula\u00e7\u00e3o questiona o que \u00e9 febre mayaro, j\u00e1 que a Unicamp confirmou a circula\u00e7\u00e3o do v\u00edrus em humanos no Brasil (mais precisamente em Roraima). O pat\u00f3geno tem como vetor o Haemagogus janthin\u2026 [+3471 chars]",
+      "retrievedAt": "2024-05-18 19:05:18.371631",
+      "internal_id": "fab5317b2f5ece3c28e87626090aaa808f743dbae10fafcc4be9e61f102b9887",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9269,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "OMS precalifica dos vacunas contra el dengue: \u00bfqu\u00e9 suceder\u00e1 en Costa Rica?",
+      "description": "Las vacunas contra el dengue precalificadas por la OMS son de las farmac\u00e9uticas Takeda y Sanofi; Comisi\u00f3n de Vacunaci\u00f3n y Epidemiolog\u00eda vio el tema.",
+      "url": "https://www.nacion.com/ciencia/salud/oms-precalifica-dos-vacunas-contra-el-dengue-que/3XXY2C47D5GLHFVG4BVNKTCTYQ/story/",
+      "urlToImage": "https://www.nacion.com/resizer/ksiz4utnWQy6pd9iBT7XS2_xeNc=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/C4MIC3G7FVGJDJT6IG2PMPLU6M.jpg",
+      "publishedAt": "2024-05-17 11:15:00",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) precalific\u00f3 dos vacunas contra el dengue. Se trata de Qdenga, de la casa farmac\u00e9utica japonesa Takeda, cuyo aval se comunic\u00f3 este 15 de mayo, que se une a De\u2026 [+3930 chars]",
+      "retrievedAt": "2024-05-18 19:05:18.429249",
+      "internal_id": "249957c81a6b3ee2de476a44c1e620a145bd7534e2b57bd8b9d0e9510fd45419",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9260,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CP24 Toronto's Breaking News",
+      "author": "Codi Wilson",
+      "title": "Child has died of measles, Public Health Ontario says",
+      "description": "A young child has died of measles in the province, a new surveillance report from Public Health Ontario confirms.",
+      "url": "https://www.cp24.com/news/child-under-5-dies-of-measles-in-ontario-pho-1.6890989",
+      "urlToImage": "https://www.cp24.com/polopoly_fs/1.1644165.1398717233!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+      "publishedAt": "2024-05-17 10:50:36",
+      "content": "A young child has died of measles in the province, a new surveillance report from Public Health Ontario confirms. The child, who was under the age of five, was not immunized against the virus, accor\u2026 [+892 chars]",
+      "retrievedAt": "2024-05-18 19:05:16.994766",
+      "internal_id": "b5fbda119e6f1b41170590a875ad63b545ecd2ee2ab2d0d95891e7bb0661328f",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9274,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Sergio Parra, Sergio Parra",
+      "title": "Mpox: \u00bfUna amenaza global en potencia?",
+      "description": "En el \u00faltimo a\u00f1o, un n\u00famero creciente de personas ha sido infectada con una cepa m\u00e1s mortal del virus mpox en la Rep\u00fablica Democr\u00e1tica del Congo (RDC), lo que podr\u00eda convertirse en una \u201camenaza global\u201d si esta cepa se propaga fuera del pa\u00eds africano, seg\u00fan ha\u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/esta-enfermedad-podria-convertirse-amenaza-global-caso-expandirse_22288",
+      "urlToImage": "https://content.nationalgeographic.com.es/medio/2024/05/17/celula-infectada_b6602152_240517095838_1200x630.jpg",
+      "publishedAt": "2024-05-17 09:16:00",
+      "content": "En el \u00faltimo a\u00f1o, un n\u00famero creciente de personas ha sido infectada con una cepa m\u00e1s mortal del virus mpox en la Rep\u00fablica Democr\u00e1tica del Congo (RDC), lo que podr\u00eda convertirse en una amenaza global\u2026 [+4226 chars]",
+      "retrievedAt": "2024-05-18 19:05:20.002624",
+      "internal_id": "9eb00d38646041b11fe75c54d852aad18984c36ed4a1b487137f3caea96727da",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9264,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Nike Heinen",
+      "title": "\u201eWir m\u00fcssen wirklich sicherstellen, dass H5N1 nicht beginnt, von Mensch zu Mensch zu gehen\u201c",
+      "description": "In den USA grassiert die Vogelgrippe unter Rindern. W\u00e4hrend deutsche Experten beruhigen, bekommt man bei einem Blick \u00fcber den Atlantik den Eindruck: F\u00fcr die Spezialisten dort scheint es mehr offene Fragen als Antworten zu geben. Oder warum steht jetzt das Fle\u2026",
+      "url": "https://www.welt.de/wissenschaft/plus251535410/Vogelgrippe-Wir-muessen-wirklich-sicherstellen-dass-H5N1-nicht-beginnt-von-Mensch-zu-Mensch-zu-gehen.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile251544878/0361359657-ci16x9-w1200-fnov-fpotl-fpi157750653/TEM-of-Avian-influenza-A-H5N1-viruses.jpg",
+      "publishedAt": "2024-05-17 07:12:55",
+      "content": "Die WELT als ePaper: Die vollst\u00e4ndige Ausgabe steht Ihnen bereits am Vorabend zur Verf\u00fcgung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link die\u2026 [+49 chars]",
+      "retrievedAt": "2024-05-18 19:05:17.893894",
+      "internal_id": "fef0ff66b21db208b3c441fefa10428c1a3d28cf7aa8fa042e6b7250ce0e7695",
+      "publishedAtLabel": "May 17"
+    },
     {
       "id": 9247,
       "query": [
@@ -28275,204 +28743,6 @@
       "content": "LaSecretar\u00eda de Salud est\u00e1 llevando a cabo una campa\u00f1a de vacunaci\u00f3n para prevenir enfermedades como la poliomielitis, el sarampi\u00f3n, la rub\u00e9ola y la parotiditis. Se administrar\u00e1n alrededor de nueve m\u2026 [+1164 chars]",
       "retrievedAt": "2024-04-02 07:05:49.323761",
       "internal_id": "77c97d5225733b874577eed72f9eabf94c74c7f6415c9835a57d88b6126850d8",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7667,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "\u2018Dengue podr\u00eda tener un mayor impacto durante 2024\u2032, se\u00f1ala OPS",
-      "description": "Costa Rica fue mencionado como un pa\u00eds donde la incidencia del dengue en este a\u00f1o es alta, en una \u00e9poca donde tradicionalmente no lo ha sido pues no hay lluvias",
-      "url": "https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/",
-      "urlToImage": "https://www.nacion.com/resizer/ei61w-7K88_-OZqqsjtnLTX4sog=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Z4UMCIUPJJH4XHTI7MHZ7KBTKA.jpg",
-      "publishedAt": "2024-03-31 18:21:43",
-      "content": "Esto es motivo de preocupaci\u00f3n; representa tres veces m\u00e1s casos que los reportados para esta misma fecha en el 2023, a\u00f1o r\u00e9cord con m\u00e1s de 4,5 millones de casos notificados en la regi\u00f3n, afirm\u00f3 Jarba\u2026 [+6121 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.924693",
-      "internal_id": "ff8597afe7a4ccf14e53e4b9a4c214af0c7b7a41abf9047a2015650ea3e36005",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7676,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Saudelab.com",
-      "author": "Sa\u00fadeLAB",
-      "title": "Quem est\u00e1 com dengue pode comer chocolate? Saiba o que pode acontecer",
-      "description": "A dengue \u00e9 uma doen\u00e7a viral que se faz presente em diversas regi\u00f5es do mundo, especialmente em \u00e1reas tropicais e subtropicais. Mas, ser\u00e1 que quem est\u00e1 com dengue pode comer chocolate?A dengue \u00e9 uma doen\u00e7a gra\u00e7a que requer aten\u00e7\u00e3o imediata. Neste cont",
-      "url": "https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/",
-      "urlToImage": "https://saudelab.com/wp-content/uploads/2024/03/quem-esta-com-dengue-pode-comer-chocolate.jpg",
-      "publishedAt": "2024-03-31 18:00:49",
-      "content": "A dengue \u00e9 uma doen\u00e7a viral que se faz presente em diversas regi\u00f5es do mundo, especialmente em \u00e1reas tropicais e subtropicais. Mas, ser\u00e1 que quem est\u00e1 com dengue pode comer chocolate? A dengue \u00e9 uma\u2026 [+6716 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.957674",
-      "internal_id": "a734c3c3cff92b6f400c47c2fac9f485c0781c6ce2412670ec3a4d56eeb9e674",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7730,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Tao Fangwei",
-      "title": "Indonesia sees dengue case surge in Q1",
-      "description": "JAKARTA, March 31 (Xinhua) -- Dengue fever cases in Indonesia in the first quarter of 2024 has increased almost three times compared to the same period last year, said the Ministry of Health on Sunday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-03-31 16:50:00",
-      "content": "JAKARTA, March 31 (Xinhua) -- Dengue fever cases in Indonesia in the first quarter of 2024 has increased almost three times compared to the same period last year, said the Ministry of Health on Sunda\u2026 [+1002 chars]",
-      "retrievedAt": "2024-04-03 07:06:06.554557",
-      "internal_id": "20dfa3fde0a93b02c1398a23f6a9b5ae47d800a14ce23a87fcaab9f09f767681",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7652,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Bruno Bucis",
-      "title": "Vacina da mpox perde efic\u00e1cia em at\u00e9 um ano, mostram dois estudos",
-      "description": "Estudos mostraram que a vacina contra a var\u00edola dos macacos (mpox) perde efetividade rapidamente e que queda come\u00e7a em 1 m\u00eas",
-      "url": "https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2023/03/14144040/vacina-mpox1.jpg",
-      "publishedAt": "2024-03-31 16:26:28",
-      "content": "A prote\u00e7\u00e3o estimulada pela vacina contra mpox, a var\u00edola dos macacos, tem um prazo de dura\u00e7\u00e3o muito mais curto do que se imaginava anteriormente. \u00c9 o que apontam dois estudos que ser\u00e3o divulgados dur\u2026 [+6433 chars]",
-      "retrievedAt": "2024-04-01 19:05:27.659396",
-      "internal_id": "2498b4e81c7a77972a38ac56bcc4156d3f847dc681da3a334d96f6b432334371",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7665,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "El mapa del dengue: afirman que la epidemia es \u201cm\u00e1s de seis veces mayor\u201d que el a\u00f1o pasado y contin\u00faan las muertes",
-      "description": "Es una estimaci\u00f3n del Ministerio de Salud de la Naci\u00f3n al comparar los casos acumulados en lo que va de 2024 y el mismo per\u00edodo de 2023",
-      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-circula-en-19-UKV2FKM2HREKBKBYSUTGVC7XCE.jpg?auth=8f232fdfafc7b1602c7a1e08a018e5e884e12659b92462bad4fc408f281ecd68&width=768&quality=70&smart=false",
-      "publishedAt": "2024-03-31 15:40:38",
-      "content": "Una nueva actualizaci\u00f3n de las cifras oficiales de la epidemia de dengue refiere que la magnitud en todo el territorio es algo m\u00e1s de seis veces mayor que la del a\u00f1o pasado a esta altura de la tempor\u2026 [+2790 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.918105",
-      "internal_id": "559d2775d289667b8e169528022053f82b92b9b2b707add50a5166ea92962abc",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7664,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Perfil.com",
-      "author": "Rocio Limeres",
-      "title": "Internaron otra vez a Roxy V\u00e1zquez a menos de un mes de recibir el alta por dengue: \"Qued\u00e9 con las defensas bajas\"",
-      "description": "La conductora de Tempraneros gener\u00f3 preocupaci\u00f3n y detall\u00f3 sobre su salud: \"Es un cuadro derivado de un sistema inmune que qued\u00f3 d\u00e9bil\". Leer m\u00e1s",
-      "url": "https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml",
-      "urlToImage": "https://fotos.perfil.com/2024/03/31/trim/1140/641/roxy-vazquez-1778405.jpg",
-      "publishedAt": "2024-03-31 15:32:19",
-      "content": "Roxy V\u00e1zquez cont\u00f3 que fue internada nuevamente a menos de un mes de recibir el alta por dengue y gener\u00f3 preocupaci\u00f3n. A trav\u00e9s de sus historias de Instagram, la conductora se mostr\u00f3 desde el hospit\u2026 [+2030 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.914843",
-      "internal_id": "f1bdc9a83d795620070a34447efbc484e5938e30f5f35aa4bb73f5c60449708b",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7648,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "SweetwaterNOW.com",
-      "author": "News Desk",
-      "title": "Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW",
-      "description": "ROCK SPRINGS \u2014 Sweetwater County Public Health are raising awareness of increasing numbers of measles cases being reported throughout the U.S. According to the organization, 64 cases of measles across 17 states have been reported in 2024, while there were onl\u2026",
-      "url": "https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/",
-      "urlToImage": "https://sweetwaternow.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2017/12/Measles.jpg",
-      "publishedAt": "2024-03-31 14:38:46",
-      "content": "ROCK SPRINGS Sweetwater County Public Health are raising awareness of increasing numbers of measles cases being reported throughout the U.S. According to the organization, 64 cases of measles across\u2026 [+1661 chars]",
-      "retrievedAt": "2024-04-01 19:05:25.413528",
-      "internal_id": "b9fb0b3d20971086bae92f762db7ce7ff296072cb052419da2e2acb5d9ea9ac8",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7649,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Daniela Santos",
-      "title": "Irm\u00e3 tatua corpo em homenagem \u00e0 mulher gr\u00e1vida que morreu de dengue",
-      "description": "Jovem fez tatuagem em homenagem \u00e0 influenciadora Sofia Amorim, que morreu na \u00faltima quarta-feira com suspeita de dengue",
-      "url": "https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/31104323/irma-influenciadora-dengue-homenagem.jpeg",
-      "publishedAt": "2024-03-31 13:57:51",
-      "content": "A irm\u00e3 da influenciadora Sofia Amorim, que morreu aos 22 anos com suspeita de dengue, decidiu homenagear a jovem com uma tatuagem. Sofia estava gr\u00e1vida de sete meses. A m\u00e3e e o beb\u00ea faleceram na \u00falti\u2026 [+1335 chars]",
-      "retrievedAt": "2024-04-01 19:05:26.201313",
-      "internal_id": "14f68f3726eb610ae4f829c44bd3a2451adfc5bd87bec5305e5b83b47a77ec73",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7651,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "A Policlinico S.Martino di Genova un caso di Dengue, gi\u00e0 dimesso",
-      "description": "Un ragazzo affetto da Dengue \u00e8 stato ricoverato al Policlinico San Martino. Il ragazzo appena rientrato dall'Argentina si \u00e8 presentato al policlinico quando ha riconosciuto i sintomi, ha detto, \"ascoltando le campagne informative in tv e leggendole sui social\u2026",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/1/b247554c693bf3beabfb34a4b150271a.jpg",
-      "publishedAt": "2024-03-31 13:56:22",
-      "content": "Un ragazzo affetto da Dengue \u00e8 stato ricoverato al Policlinico San Martino. Il ragazzo appena rientrato dall'Argentina si \u00e8 presentato al policlinico quando ha riconosciuto i sintomi, ha detto, \"a\u2026 [+1735 chars]",
-      "retrievedAt": "2024-04-01 19:05:26.278567",
-      "internal_id": "390ac49736c846736184bd69bb3d547c06276b4f9b007015abd1cd6bf7c7445a",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7682,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Surto de dengue nas Am\u00e9ricas \u00e9 o pior j\u00e1 registrado, diz Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade",
-      "description": "O surto de dengue no continente americano , que estourou no come\u00e7o do ano, \u00e9 o pior da hist\u00f3ria, segundo a OPAS (Organiza\u00e7\u00e3o Pan-Americana da ...",
-      "url": "https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024",
-      "urlToImage": "https://vtb.akamaized.net/image/1418760/2024/03/31/66097ecf1df97b1d2b000617/d40613485d894f52999004c35b8119b9__Surto_de_dengue_nas_Am_ricas___o_pior_j__registrado_na_hist_ria__segundo_OPAS_thumb.jpg",
-      "publishedAt": "2024-03-31 13:08:08",
-      "content": "O surto de dengue no continente americano , que estourou no come\u00e7o do ano, \u00e9 o pior da hist\u00f3ria, segundo a OPAS (Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade). Os casos s\u00e3o tr\u00eas vezes mais numerosos do que o r\u2026 [+222 chars]",
-      "retrievedAt": "2024-04-02 07:05:49.983061",
-      "internal_id": "4932b5d557acef24dcd8e1b49d4f253f90b656d7fac240e980ef727857302671",
-      "publishedAtLabel": "Mar 31"
-    },
-    {
-      "id": 7650,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Thalita Vasconcelos",
-      "title": "Novas tendas de dengue no DF seguem modelo de hospitais de campanha",
-      "description": "O objetivo \u00e9 aumentar a capacidade de acesso aos pacientes a rede p\u00fablica de sa\u00fade logo que apresentem os primeiros sintomas da doen\u00e7a",
-      "url": "https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/23134513/Tendas-Dengue-GDF.jpg",
-      "publishedAt": "2024-03-31 12:44:28",
-      "content": "As 11 novas tendas de acolhimento aos pacientes com dengue anunciadas pelo Governo do Distrito Federal (GDF) v\u00e3o funcionar como hospitais de campanha, com consult\u00f3rios, equipamentos, mobili\u00e1rio e cli\u2026 [+3260 chars]",
-      "retrievedAt": "2024-04-01 19:05:26.271969",
-      "internal_id": "81246b348951b29932194bf9f6edde13c4d500267a03bcefa845646dd8bfbdb2",
       "publishedAtLabel": "Mar 31"
     }
   ]
