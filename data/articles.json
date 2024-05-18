@@ -1,8 +1,297 @@
 {
-  "last_updated": "2024-05-17 19:05",
-  "count_articles_total": 1546,
-  "count_articles_new": 30,
+  "last_updated": "2024-05-18 07:05",
+  "count_articles_total": 1577,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 9247,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Sanjay Sisodiya & Mark Maslin, The Conversation",
+      "title": "Scientists Warn Brain Diseases Are Getting Worse as Climate Change Intensifies",
+      "description": "Climate change is making the symptoms of certain brain conditions worse, our new review has found.",
+      "url": "https://www.sciencealert.com/scientists-warn-brain-diseases-are-getting-worse-as-climate-change-intensifies",
+      "urlToImage": "https://www.sciencealert.com/images/2024/05/PenTapsOnBrainScan.jpg",
+      "publishedAt": "2024-05-17 06:36:54",
+      "content": "Climate change is making the symptoms of certain brain conditions worse, our new review has found. Conditions that can worsen as temperature and humidity rise include stroke, migraines, meningitis, e\u2026 [+5044 chars]",
+      "retrievedAt": "2024-05-18 07:05:36.725357",
+      "internal_id": "b253adc1536bb065b8844fd6d2049da12aaa011172dcddafcc39eec197eb6fb7",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9236,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Moln\u00e1r Gerg\u0151",
+      "title": "\u00c1llatr\u00f3l emberre terjed a mad\u00e1rinfluenza \u2013 \u00fajabb vil\u00e1gj\u00e1rv\u00e1ny j\u00f6het?",
+      "description": "\u00c1llatr\u00f3l emberre terjed a mad\u00e1rinfluenza \u2013 \u00fajabb vil\u00e1gj\u00e1rv\u00e1ny j\u00f6het? - A tejel\u0151 szarvasmarh\u00e1k okozhatnak gondot.",
+      "url": "https://index.hu/tudomany/2024/05/17/madarinfluenza-virus-jarvany-fertozes-betegseg-tehen-ember-kutatas-vizsgalat-terjedes/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/5635/56357/563576/56357625_4167051_ed947ae90ca754dbc7d9e0dadec69c6c_wm.jpg",
+      "publishedAt": "2024-05-17 04:53:00",
+      "content": "A 2020 \u00f3ta vil\u00e1gszerte terjed magas patogenit\u00e1s\u00fa mad\u00e1rinfluenza A (H5N1) v\u00edrus egy teh\u00e9nrl egy tejtermelre terjedt \u00e1t az Egyes\u00fclt \u00c1llamokban, ami a v\u00edrus els megers\u00edtett teh\u00e9nrl emberre t\u00f6rt\u00e9n \u00e1tad\u00e1s\u2026 [+3262 chars]",
+      "retrievedAt": "2024-05-18 07:05:36.141996",
+      "internal_id": "72b6613ebf9d4dfa2bd073d3efd297f060df65edb35ad06150574dcaccdc17be",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9233,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Naked Scientists",
+      "author": "The Naked Scientists",
+      "title": "Caesarean stops measles jab response, and quantum navigation",
+      "description": "In the news pod, geneticist Henrik Salje tells us about the relative ineffectiveness of the measles vaccine for infants born via c-section. Also, the incredible memory-making abilities of Eurasian jays with Nicky Clayton, and Ramsey Faragher relates how quant\u2026",
+      "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/caesarean-stops-measles-jab-response-and-quantum-navigation",
+      "urlToImage": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/gfbfecc890f8b20d9344ece1329bdd5db083f5fdb396bc0688d157a52bea1f66469a0a0172cce429cae1ed10c63a232a1f13fb95cdb626af2fbf51d15bc825628_1280.jpg?itok=6tN-zsGk",
+      "publishedAt": "2024-05-17 04:26:52",
+      "content": "Researchers at the University of Cambridge and Fudan University in China have found that the first dose of their measles jab is almost 3 times more likely to be completely ineffective in children bor\u2026 [+7493 chars]",
+      "retrievedAt": "2024-05-18 07:05:35.546801",
+      "internal_id": "8eddbca46b6779272f0cdbf138d8d45e89f4f682873659c012bcc910afc76ca7",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9239,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "HC Vanlalruata",
+      "title": "132 infected with dengue in Mizoram till April 30: Govt",
+      "description": "Aizawl: At least 132 people have been infected with dengue in Mizoram from January 1 till April 30 this year.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/132-infected-with-dengue-in-mizoram-till-april-30-govt/articleshow/110193905.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-110193993,width-1070,height-580,imgsize-29656,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-17 03:46:42",
+      "content": "8 fastest growing succulents for the home garden",
+      "retrievedAt": "2024-05-18 07:05:36.446540",
+      "internal_id": "10a0a13a5cc983bb206ad33c727e09807b7d56bab84a224f2c958afe03e17f31",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9248,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Onnucha Hutasingh",
+      "title": "mRNA malaria vaccine due for first clinical trial",
+      "description": "Mahidol University has inched closer to starting the world's first clinical trial of an mRNA vaccine against malaria.",
+      "url": "https://www.bangkokpost.com/thailand/general/2794579/mrna-malaria-vaccine-due-for-first-clinical-trial",
+      "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2024/05/17/5147029_700.jpg",
+      "publishedAt": "2024-05-17 02:26:00",
+      "content": "Mahidol University has inched closer to starting the world's first clinical trial of an mRNA vaccine against malaria. Already tested on mice during a past laboratory trial, the vaccine candidate wil\u2026 [+2079 chars]",
+      "retrievedAt": "2024-05-18 07:05:37.029955",
+      "internal_id": "cad8f3f8d7ce96f63f0d4db55489f9a3255b0a90db0621cc7fde6bacac8e3f80",
+      "publishedAtLabel": "May 17"
+    },
+    {
+      "id": 9244,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Cientistas confirmam circula\u00e7\u00e3o de v\u00edrus mayaro em humanos em Roraima; entenda riscos",
+      "description": "Circula\u00e7\u00e3o desse pat\u00f3geno costuma ficar restrita aos animais e em \u00e1reas de mata; nas pessoas, ele provoca uma doen\u00e7a com sintomas semelhantes aos da dengue e do chikungunya",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/cientistas-confirmam-circulacao-de-virus-mayaro-em-humanos-em-roraima-entenda-riscos,2dc6416f0e5939c1ceead818eb00537cwfng4l8r.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-05-16 23:10:37",
+      "content": "Um estudo realizado na Universidade Estadual de Campinas (Unicamp) confirmou a circula\u00e7\u00e3o do v\u00edrus mayaro (conhecido pela sigla MAYV) entre humanos no Estado de Roraima. O v\u00edrus, transmitido por mosq\u2026 [+6733 chars]",
+      "retrievedAt": "2024-05-18 07:05:36.563836",
+      "internal_id": "583c92f9c5922cf4ada77dcb650165f4322ceb78e3c7717972626ce398a8f95f",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9251,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Advocate.com",
+      "author": "Trudy Ring",
+      "title": "CDC warns of new mpox outbreak, urges vaccination",
+      "description": "With a severe version of mpox breaking out in the Democratic Republic of Congo, officials with the U.S. Centers for Disease Control and Prevention are warning that it could spread and that people at risk should be vaccinated as soon as possible.",
+      "url": "https://www.advocate.com/health/new-mpox-outbreak-get-vaccinated",
+      "urlToImage": "https://www.advocate.com/media-library/cdc-warns-new-monkeypox-outbreak.jpg?id=52262631&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+      "publishedAt": "2024-05-16 22:52:34",
+      "content": "With a severe version of mpox breaking out in the Democratic Republic of Congo, officials with the U.S. Centers for Disease Control and Prevention are warning that it could spread and that people at \u2026 [+2478 chars]",
+      "retrievedAt": "2024-05-18 07:05:37.671429",
+      "internal_id": "5a7ba2814b858331f3dd65e635b333383faae6a80f7498d373a479716b9667b4",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9249,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Onnucha Hutasingh",
+      "title": "mRNA vaccine due for first clinical trial",
+      "description": "Mahidol University has inched closer to starting the world's first clinical trial of an mRNA vaccine against malaria.",
+      "url": "https://www.bangkokpost.com/thailand/general/2794579/mrna-vaccine-due-for-first-clinical-trial",
+      "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2024/05/17/5147029_700.jpg",
+      "publishedAt": "2024-05-16 22:36:00",
+      "content": "Mahidol University has inched closer to starting the world's first clinical trial of an mRNA vaccine against malaria. Already tested on mice during a past laboratory trial, the vaccine candidate wil\u2026 [+2079 chars]",
+      "retrievedAt": "2024-05-18 07:05:37.034376",
+      "internal_id": "ed4e0ad4db3339899ee07f036ab43b3b4f4f10bed14124bed3cde6e0e7dad65a",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9232,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Maeve Lawler",
+      "title": "Mother pins down fox after her 4-year-old was bit in Hollis, N.H.",
+      "description": "Both the mother and child \u201care undergoing preventative measures for rabies exposure,\u201d Hollis Police Chief Brendan LaFlamme said. Both were also treated for minor injuries.",
+      "url": "https://www.bostonglobe.com/2024/05/16/metro/mother-pins-down-fox-after-her-4-year-old-was-bit-hollis-nh/",
+      "urlToImage": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=472",
+      "publishedAt": "2024-05-16 22:24:37",
+      "content": "A New Hampshire mother pinned down a fox after the wild animal attacked her four-year-old child at their home in Hollis, local police confirmed Wednesday. The child was bitten by the fox on their pr\u2026 [+1177 chars]",
+      "retrievedAt": "2024-05-18 07:05:35.177529",
+      "internal_id": "97ae0a1f66295896f58279f4110f9017698306a6575748fe0953798e07901f41",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9235,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Leandro Costa Criscuolo",
+      "title": "Transmiss\u00e3o de gripe avi\u00e1ria de vaca para humano \u00e9 confirmada",
+      "description": "Caso deve tornar mais r\u00edgido o monitoramento de vacas leiteiras e quem trabalha com esses animais nos EUA O post Transmiss\u00e3o de gripe avi\u00e1ria de vaca para humano \u00e9 confirmada apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/05/16/medicina-e-saude/primeira-transmissao-de-gripe-aviaria-de-vaca-para-humano-eh-confirmada/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/05/vaca.jpg",
+      "publishedAt": "2024-05-16 21:03:00",
+      "content": "Um fazendeiro pegou gripe avi\u00e1ria (H5N1) de uma vaca nos EUA. \u00c9 o que confirma um estudo publicado no The New England Journal of Medicine. Este \u00e9 o primeiro registro feito de transmiss\u00e3o do v\u00edrus ent\u2026 [+2944 chars]",
+      "retrievedAt": "2024-05-18 07:05:36.085087",
+      "internal_id": "c3ddbf0a5181db647ed7eeb2258109f9737c27335d376ebc89844942525f7201",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9250,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Ty Roush, Forbes Staff, \n Ty Roush, Forbes Staff\n https://www.forbes.com/sites/tylerroush/",
+      "title": "More Lethal Mpox Strain Surges In Congo\u2014Here\u2019s Why The CDC Warns Of A \u2018Global Threat\u2019",
+      "description": "The virus has spread to nearly 20,000 people and caused about 1,000 deaths since last year, the agency said.",
+      "url": "https://www.forbes.com/sites/tylerroush/2024/05/16/more-lethal-mpox-strain-surges-in-congo-heres-why-the-cdc-warns-of-a-global-threat/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/664669eb54f9dba5017dfa06/0x0.jpg?format=jpg&crop=1999,1124,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-16 20:19:48",
+      "content": "More people have become infected with a deadlier strain of the mpox virus in the Democratic Republic of the Congo over the last year, posing a global threat if the virus strain leaves the African cou\u2026 [+4651 chars]",
+      "retrievedAt": "2024-05-18 07:05:37.666271",
+      "internal_id": "0397518fedc97fa4129011b3d669f67d262cabd60ced444c1e35be4ad514c73f",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9237,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Spencer Whitney",
+      "title": "Californians Urged to Avoid Raw Milk Amid Bird Flu Outbreak on Dairy Farms",
+      "description": "With bird flu spreading on dairy farms across the U.S., federal scientists and health experts are warning people about increased risks from drinking raw milk.",
+      "url": "https://www.kqed.org/science/1992816/californians-urged-to-avoid-raw-milk-amid-bird-flu-outbreak-on-dairy-farms",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/35/2024/05/240513-RAWMILK-01-BL-KQED-1020x680.jpg",
+      "publishedAt": "2024-05-16 20:00:57",
+      "content": "Last month, the FDA reported that 1 in 5 pasteurized milk products nationwide tested positive for the H5N1 virus. Pasteurized milk appears to still be safe to consume because the process makes the vi\u2026 [+4056 chars]",
+      "retrievedAt": "2024-05-18 07:05:36.170755",
+      "internal_id": "898f51ec2ca09fcbe7a572ded5b2679d895525e76bd3c32bcec3a5c6f2782796",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9238,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Durgesh Nandan Jha",
+      "title": "WHO approves Japan-made dengue vaccine",
+      "description": "WHO approves TAK-003 (Qdenga) as 2nd dengue vaccine for children aged 6-16 in high-burden areas. Takeda in talks to launch in India. Panacea Biotec & Serum Institute collaborate on indigenous vaccine trials.",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/who-approves-japan-made-dengue-vaccine/articleshow/110187299.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-110187300,width-1070,height-580,imgsize-20150,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-16 19:35:48",
+      "content": "8 fastest growing succulents for the home garden",
+      "retrievedAt": "2024-05-18 07:05:36.441260",
+      "internal_id": "ec006464967e99efe873e6b0d84ad5aa1c3240bd7cdf300cb9fd7a9bea7b410b",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9240,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Have dengue symptoms? Seek immediate treatment to avoid complications, say docs",
+      "description": "Panaji: With Goa recording cases of dengue even before the monsoon setting in, health services said people with symptoms of the disease, such as sever.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/have-dengue-symptoms-seek-immediate-treatment-to-avoid-complications-say-docs/articleshow/110187194.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-110187199,width-1070,height-580,imgsize-9904,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-16 19:15:53",
+      "content": "8 fastest growing succulents for the home garden",
+      "retrievedAt": "2024-05-18 07:05:36.450914",
+      "internal_id": "07dbb377fac01fc48c9625880369397c1fe0a6e1305160c3e435a6022b50d0b4",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9234,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Arianna Johnson, Forbes Staff, \n Arianna Johnson, Forbes Staff\n https://www.forbes.com/sites/ariannajohnson/",
+      "title": "Bird Flu (H5N1) Explained: Well-Cooked Burgers Safe From Virus, Study Finds",
+      "description": "Bird flu typically spreads among birds, but there have been recent outbreaks among cattle in the U.S., and one Texas man contracted the virus from sick cows. Here\u2019s why so many experts are worried about a possible new pandemic.",
+      "url": "https://www.forbes.com/sites/ariannajohnson/2024/05/16/bird-flu-h5n1-explained-well-cooked-burgers-safe-from-virus-study-finds/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662a9d6a4635389a14a348ae/0x0.jpg?format=jpg&crop=2812,1581,x0,y128,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-16 19:14:03",
+      "content": "Heres the latest news about a global outbreak of H5N1 bird flu that started in 2020, and recently spread among cattle in U.S. states and marine mammals across the world, which has health officials cl\u2026 [+11124 chars]",
+      "retrievedAt": "2024-05-18 07:05:36.073235",
+      "internal_id": "a09043ebdf45ecd91985fcb479a12e7ba05af8d9fe1c16f64ab61f6d7e89f16c",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9243,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Leonie Zimmermann, Rebecca H\u00e4fner",
+      "title": "Gef\u00e4hrlicher M\u00fcckenstich: Zahl der Dengue-F\u00e4lle nimmt weltweit zu: Was Sie \u00fcber das Denguefieber wissen m\u00fcssen",
+      "description": "Eine Krankheit, die durch Stechm\u00fccken \u00fcbertragen wird, sorgt f\u00fcr Aufregung. Zuletzt hat sich das Denguefieber in Peru und Brasilien massiv ausgebreitet. Die wichtigsten Fragen und Antworten.",
+      "url": "https://www.stern.de/gesundheit/denguefieber--das-muessen-sie-ueber-die-krankheit-wissen-33779928.html",
+      "urlToImage": "https://image.stern.de/33779930/t/YP/v3/w1440/r1.7778/-/gardasee.jpg",
+      "publishedAt": "2024-05-16 19:12:00",
+      "content": "Eine Krankheit, die durch Stechm\u00fccken \u00fcbertragen wird, sorgt f\u00fcr Aufregung. Zuletzt hat sich das Denguefieber in Peru und Brasilien massiv ausgebreitet. Die wichtigsten Fragen und Antworten. In Bra\u2026 [+3853 chars]",
+      "retrievedAt": "2024-05-18 07:05:36.559313",
+      "internal_id": "c01de2f9fdab58067ef7435bf918032069a44d164c839795b807cc3542222e0e",
+      "publishedAtLabel": "May 16"
+    },
     {
       "id": 9219,
       "query": [
@@ -56,6 +345,24 @@
       "content": "Um novo boletim epidemiol\u00f3gico divulgado pelo Minist\u00e9rio da Sa\u00fade mostrou o crescimento dos casos de Febre do Oropouche , doen\u00e7a com os mesmo sintomas da dengue e chikungunya, em todo o Brasil. S\u2026 [+1787 chars]",
       "retrievedAt": "2024-05-17 19:05:18.234356",
       "internal_id": "99cd4ab65561385844a654271522ce37f604d74f66ec06180b672ea0c4e0c0f2",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9241,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: idosos s\u00e3o 69% das mortes em Campinas, mas doen\u00e7a tamb\u00e9m vitimou crian\u00e7a",
+      "description": "g1 reuniu dados dos 23 \u00f3bitos por dengue na metr\u00f3pole este ano. Aedes Aegypti, o mosquito transmissor da dengue, em Campinas Rog\u00e9rio Capela/Prefeitura de Campinas Campinas (SP) registrou na epidemia deste ano 85.764 casos confirmados de dengue, sendo que dest\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/16/dengue-idosos-sao-69percent-das-mortes-em-campinas-mas-doenca-tambem-vitimou-crianca.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/raCobyA298J_fijEhsnrFzszhkY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/3/jE5XawQYAqB18IKYlkEg/dengue-nova.jpg",
+      "publishedAt": "2024-05-16 17:17:02",
+      "content": "O g1 reuniu as informa\u00e7\u00f5es das 23 mortes por dengue em Campinas e tra\u00e7ou um perfil das v\u00edtimas. Veja os dados: 16 v\u00edtimas (69%) eram idosos, sendo cinco entre 60 e 79 anos e 11 entre 80 e 99\u2026 [+9043 chars]",
+      "retrievedAt": "2024-05-18 07:05:36.548708",
+      "internal_id": "03565758d3a95c264aac0aac545d818e8610596806642629b54b1c8919b44c47",
       "publishedAtLabel": "May 16"
     },
     {
@@ -167,6 +474,42 @@
       "content": "Assine CLAUDIA por R$2,00/semanaContinua ap\u00f3s publicidade Minist\u00e9rio da Sa\u00fade divulga dados sobre a doen\u00e7a, transmitida por mosquitos e com sintomas semelhantes \u00e0 dengue e chikungunya Por Da Reda\u00e7\u00e3\u2026 [+3887 chars]",
       "retrievedAt": "2024-05-17 19:05:18.242350",
       "internal_id": "46bddbff44e30f98f3bf6e3c15bde228169b10f2fd259a7a1200751257bf8738",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9242,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "L\u2019Express",
+      "title": "Dengue : la France m\u00e9tropolitaine face \u00e0 une flamb\u00e9e record",
+      "description": "Plus de 2 100 cas de dengue ont \u00e9t\u00e9 comptabilis\u00e9s depuis le d\u00e9but de 2024 en France m\u00e9tropolitaine, contre un peu plus de 2 000 sur toute l\u2019ann\u00e9e 2023, qui constituait d\u00e9j\u00e0 une ann\u00e9e record.",
+      "url": "https://www.lexpress.fr/sciences-sante/sante/dengue-la-france-metropolitaine-face-a-une-flambee-record-ZYJ3OHDUIJGYTEX2O5BICECRSM/",
+      "urlToImage": "https://www.lexpress.fr/resizer/mssG8diFzJX3jyOLDMoQ8k2fAak=/1200x630/filters:focal(852x506:862x516)/cloudfront-eu-central-1.images.arcpublishing.com/lexpress/FUB4S762FBFSXDJRWYD4ZN3NHU.jpg",
+      "publishedAt": "2024-05-16 15:49:42",
+      "content": "Une progression fulgurante, et qui ne semble pas pr\u00eate de ralentir. Le nombre de cas de dengue import\u00e9s en France m\u00e9tropolitaine, principalement apr\u00e8s des voyages aux Antilles, a d\u00e9j\u00e0 battu le record\u2026 [+2594 chars]",
+      "retrievedAt": "2024-05-18 07:05:36.554347",
+      "internal_id": "73e59c18f4ba3b23f60b2b326cb119342562c6595677a7280ef19e853a6bdfe6",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9245,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Dengue : D\u00e9j\u00e0 autant de cas import\u00e9s en quatre mois que durant toute l\u2019ann\u00e9e 2023, un record",
+      "description": "Le nombre de cas de dengue import\u00e9s en France m\u00e9tropolitaine, principalement apr\u00e8s des voyages aux Antilles, a d\u00e9j\u00e0 battu le record atteint sur toute l'ann\u00e9e 2023, selon des donn\u00e9es de Sant\u00e9 publique France",
+      "url": "https://www.20minutes.fr/sante/4091420-20240516-dengue-deja-autant-cas-importes-quatre-mois-durant-toute-annee-2023-record",
+      "urlToImage": "https://img.20mn.fr/Ml9ZY8SPSBCU0zs2HwO0ayk/1444x920_operations-de-demoustication-anti-larvaires-organise-par-la-mairie-de-cannes-insecticide-biologique-traitement-des-espaces-publics-susceptibles-de-servir-de-gites-aux-moustiques-notamment-le-moustique-tigre-vecteur-d-agents-infectieux-dont-la-dengue-le-chikungunya-le-zika-square-leo-callandry-cannes-france-11-07-2023-syspeo-sys-b003-credit-syspeo-sipa-2307160802",
+      "publishedAt": "2024-05-16 15:45:01",
+      "content": "Cest une histoire de dingue et de record avant m\u00eame les Jeux olympiques de Paris, qui favoriseront le brassage de populations en pleine saison du moustique tigre. Le record 2023 de cas de dengue impo\u2026 [+2351 chars]",
+      "retrievedAt": "2024-05-18 07:05:36.568316",
+      "internal_id": "173c69ff60f5234727bc02ecf348443b41de2d883c840be334321a217265ecbc",
       "publishedAtLabel": "May 16"
     },
     {
@@ -530,6 +873,24 @@
       "content": "Health authorities have confirmed that a highly pathogenic avian influenza (HPAI) has been spreading among dairy cattle in nine US states since March 2024. The H5N1 bird flu virus has been found in \u2026 [+4461 chars]",
       "retrievedAt": "2024-05-17 19:05:17.292107",
       "internal_id": "18e23abf38cd89410d6d7435114888cc85c9ed5991dbb6bb7aa0c6857136f0ec",
+      "publishedAtLabel": "May 16"
+    },
+    {
+      "id": 9246,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Empresas de Sanidad Ambiental recomiendan permanecer muy alerta ante la epidemia de dengue en Argentina",
+      "description": "La Asociaci\u00f3n Nacional de Empresas de Sanidad Ambiental (ANECPLA) ha recomendado a las autoridades espa\u00f1olas mantenerse muy alerta ante el brote \"hist\u00f3rico\" de dengue que est\u00e1 sufriendo Argentina, que ya ha registrado m\u00e1s de 435.000 casos y provocado la muert\u2026",
+      "url": "https://www.europapress.es/sociedad/noticia-empresas-sanidad-ambiental-recomiendan-permanecer-muy-alerta-epidemia-dengue-argentina-20240516122858.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240516122858_1200.jpg",
+      "publishedAt": "2024-05-16 10:28:58",
+      "content": "MADRID, 16 May. (EUROPA PRESS) - La Asociaci\u00f3n Nacional de Empresas de Sanidad Ambiental (ANECPLA) ha recomendado a las autoridades espa\u00f1olas mantenerse muy alerta ante el brote \"hist\u00f3rico\" de d\u2026 [+2271 chars]",
+      "retrievedAt": "2024-05-18 07:05:36.582135",
+      "internal_id": "8cc2728169301d5fe9b31e9ffce5eb02bc7e91e1db74e2e86a431e72884ff29f",
       "publishedAtLabel": "May 16"
     },
     {
@@ -27914,6 +28275,204 @@
       "content": "LaSecretar\u00eda de Salud est\u00e1 llevando a cabo una campa\u00f1a de vacunaci\u00f3n para prevenir enfermedades como la poliomielitis, el sarampi\u00f3n, la rub\u00e9ola y la parotiditis. Se administrar\u00e1n alrededor de nueve m\u2026 [+1164 chars]",
       "retrievedAt": "2024-04-02 07:05:49.323761",
       "internal_id": "77c97d5225733b874577eed72f9eabf94c74c7f6415c9835a57d88b6126850d8",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 7667,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "\u2018Dengue podr\u00eda tener un mayor impacto durante 2024\u2032, se\u00f1ala OPS",
+      "description": "Costa Rica fue mencionado como un pa\u00eds donde la incidencia del dengue en este a\u00f1o es alta, en una \u00e9poca donde tradicionalmente no lo ha sido pues no hay lluvias",
+      "url": "https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/",
+      "urlToImage": "https://www.nacion.com/resizer/ei61w-7K88_-OZqqsjtnLTX4sog=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Z4UMCIUPJJH4XHTI7MHZ7KBTKA.jpg",
+      "publishedAt": "2024-03-31 18:21:43",
+      "content": "Esto es motivo de preocupaci\u00f3n; representa tres veces m\u00e1s casos que los reportados para esta misma fecha en el 2023, a\u00f1o r\u00e9cord con m\u00e1s de 4,5 millones de casos notificados en la regi\u00f3n, afirm\u00f3 Jarba\u2026 [+6121 chars]",
+      "retrievedAt": "2024-04-02 07:05:49.924693",
+      "internal_id": "ff8597afe7a4ccf14e53e4b9a4c214af0c7b7a41abf9047a2015650ea3e36005",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 7676,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Saudelab.com",
+      "author": "Sa\u00fadeLAB",
+      "title": "Quem est\u00e1 com dengue pode comer chocolate? Saiba o que pode acontecer",
+      "description": "A dengue \u00e9 uma doen\u00e7a viral que se faz presente em diversas regi\u00f5es do mundo, especialmente em \u00e1reas tropicais e subtropicais. Mas, ser\u00e1 que quem est\u00e1 com dengue pode comer chocolate?A dengue \u00e9 uma doen\u00e7a gra\u00e7a que requer aten\u00e7\u00e3o imediata. Neste cont",
+      "url": "https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/",
+      "urlToImage": "https://saudelab.com/wp-content/uploads/2024/03/quem-esta-com-dengue-pode-comer-chocolate.jpg",
+      "publishedAt": "2024-03-31 18:00:49",
+      "content": "A dengue \u00e9 uma doen\u00e7a viral que se faz presente em diversas regi\u00f5es do mundo, especialmente em \u00e1reas tropicais e subtropicais. Mas, ser\u00e1 que quem est\u00e1 com dengue pode comer chocolate? A dengue \u00e9 uma\u2026 [+6716 chars]",
+      "retrievedAt": "2024-04-02 07:05:49.957674",
+      "internal_id": "a734c3c3cff92b6f400c47c2fac9f485c0781c6ce2412670ec3a4d56eeb9e674",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 7730,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tao Fangwei",
+      "title": "Indonesia sees dengue case surge in Q1",
+      "description": "JAKARTA, March 31 (Xinhua) -- Dengue fever cases in Indonesia in the first quarter of 2024 has increased almost three times compared to the same period last year, said the Ministry of Health on Sunday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-03-31 16:50:00",
+      "content": "JAKARTA, March 31 (Xinhua) -- Dengue fever cases in Indonesia in the first quarter of 2024 has increased almost three times compared to the same period last year, said the Ministry of Health on Sunda\u2026 [+1002 chars]",
+      "retrievedAt": "2024-04-03 07:06:06.554557",
+      "internal_id": "20dfa3fde0a93b02c1398a23f6a9b5ae47d800a14ce23a87fcaab9f09f767681",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 7652,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Vacina da mpox perde efic\u00e1cia em at\u00e9 um ano, mostram dois estudos",
+      "description": "Estudos mostraram que a vacina contra a var\u00edola dos macacos (mpox) perde efetividade rapidamente e que queda come\u00e7a em 1 m\u00eas",
+      "url": "https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2023/03/14144040/vacina-mpox1.jpg",
+      "publishedAt": "2024-03-31 16:26:28",
+      "content": "A prote\u00e7\u00e3o estimulada pela vacina contra mpox, a var\u00edola dos macacos, tem um prazo de dura\u00e7\u00e3o muito mais curto do que se imaginava anteriormente. \u00c9 o que apontam dois estudos que ser\u00e3o divulgados dur\u2026 [+6433 chars]",
+      "retrievedAt": "2024-04-01 19:05:27.659396",
+      "internal_id": "2498b4e81c7a77972a38ac56bcc4156d3f847dc681da3a334d96f6b432334371",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 7665,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El mapa del dengue: afirman que la epidemia es \u201cm\u00e1s de seis veces mayor\u201d que el a\u00f1o pasado y contin\u00faan las muertes",
+      "description": "Es una estimaci\u00f3n del Ministerio de Salud de la Naci\u00f3n al comparar los casos acumulados en lo que va de 2024 y el mismo per\u00edodo de 2023",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-circula-en-19-UKV2FKM2HREKBKBYSUTGVC7XCE.jpg?auth=8f232fdfafc7b1602c7a1e08a018e5e884e12659b92462bad4fc408f281ecd68&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-31 15:40:38",
+      "content": "Una nueva actualizaci\u00f3n de las cifras oficiales de la epidemia de dengue refiere que la magnitud en todo el territorio es algo m\u00e1s de seis veces mayor que la del a\u00f1o pasado a esta altura de la tempor\u2026 [+2790 chars]",
+      "retrievedAt": "2024-04-02 07:05:49.918105",
+      "internal_id": "559d2775d289667b8e169528022053f82b92b9b2b707add50a5166ea92962abc",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 7664,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Rocio Limeres",
+      "title": "Internaron otra vez a Roxy V\u00e1zquez a menos de un mes de recibir el alta por dengue: \"Qued\u00e9 con las defensas bajas\"",
+      "description": "La conductora de Tempraneros gener\u00f3 preocupaci\u00f3n y detall\u00f3 sobre su salud: \"Es un cuadro derivado de un sistema inmune que qued\u00f3 d\u00e9bil\". Leer m\u00e1s",
+      "url": "https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml",
+      "urlToImage": "https://fotos.perfil.com/2024/03/31/trim/1140/641/roxy-vazquez-1778405.jpg",
+      "publishedAt": "2024-03-31 15:32:19",
+      "content": "Roxy V\u00e1zquez cont\u00f3 que fue internada nuevamente a menos de un mes de recibir el alta por dengue y gener\u00f3 preocupaci\u00f3n. A trav\u00e9s de sus historias de Instagram, la conductora se mostr\u00f3 desde el hospit\u2026 [+2030 chars]",
+      "retrievedAt": "2024-04-02 07:05:49.914843",
+      "internal_id": "f1bdc9a83d795620070a34447efbc484e5938e30f5f35aa4bb73f5c60449708b",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 7648,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "SweetwaterNOW.com",
+      "author": "News Desk",
+      "title": "Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW",
+      "description": "ROCK SPRINGS \u2014 Sweetwater County Public Health are raising awareness of increasing numbers of measles cases being reported throughout the U.S. According to the organization, 64 cases of measles across 17 states have been reported in 2024, while there were onl\u2026",
+      "url": "https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/",
+      "urlToImage": "https://sweetwaternow.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2017/12/Measles.jpg",
+      "publishedAt": "2024-03-31 14:38:46",
+      "content": "ROCK SPRINGS Sweetwater County Public Health are raising awareness of increasing numbers of measles cases being reported throughout the U.S. According to the organization, 64 cases of measles across\u2026 [+1661 chars]",
+      "retrievedAt": "2024-04-01 19:05:25.413528",
+      "internal_id": "b9fb0b3d20971086bae92f762db7ce7ff296072cb052419da2e2acb5d9ea9ac8",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 7649,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Daniela Santos",
+      "title": "Irm\u00e3 tatua corpo em homenagem \u00e0 mulher gr\u00e1vida que morreu de dengue",
+      "description": "Jovem fez tatuagem em homenagem \u00e0 influenciadora Sofia Amorim, que morreu na \u00faltima quarta-feira com suspeita de dengue",
+      "url": "https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/31104323/irma-influenciadora-dengue-homenagem.jpeg",
+      "publishedAt": "2024-03-31 13:57:51",
+      "content": "A irm\u00e3 da influenciadora Sofia Amorim, que morreu aos 22 anos com suspeita de dengue, decidiu homenagear a jovem com uma tatuagem. Sofia estava gr\u00e1vida de sete meses. A m\u00e3e e o beb\u00ea faleceram na \u00falti\u2026 [+1335 chars]",
+      "retrievedAt": "2024-04-01 19:05:26.201313",
+      "internal_id": "14f68f3726eb610ae4f829c44bd3a2451adfc5bd87bec5305e5b83b47a77ec73",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 7651,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "A Policlinico S.Martino di Genova un caso di Dengue, gi\u00e0 dimesso",
+      "description": "Un ragazzo affetto da Dengue \u00e8 stato ricoverato al Policlinico San Martino. Il ragazzo appena rientrato dall'Argentina si \u00e8 presentato al policlinico quando ha riconosciuto i sintomi, ha detto, \"ascoltando le campagne informative in tv e leggendole sui social\u2026",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/1/b247554c693bf3beabfb34a4b150271a.jpg",
+      "publishedAt": "2024-03-31 13:56:22",
+      "content": "Un ragazzo affetto da Dengue \u00e8 stato ricoverato al Policlinico San Martino. Il ragazzo appena rientrato dall'Argentina si \u00e8 presentato al policlinico quando ha riconosciuto i sintomi, ha detto, \"a\u2026 [+1735 chars]",
+      "retrievedAt": "2024-04-01 19:05:26.278567",
+      "internal_id": "390ac49736c846736184bd69bb3d547c06276b4f9b007015abd1cd6bf7c7445a",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 7682,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Surto de dengue nas Am\u00e9ricas \u00e9 o pior j\u00e1 registrado, diz Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade",
+      "description": "O surto de dengue no continente americano , que estourou no come\u00e7o do ano, \u00e9 o pior da hist\u00f3ria, segundo a OPAS (Organiza\u00e7\u00e3o Pan-Americana da ...",
+      "url": "https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2024/03/31/66097ecf1df97b1d2b000617/d40613485d894f52999004c35b8119b9__Surto_de_dengue_nas_Am_ricas___o_pior_j__registrado_na_hist_ria__segundo_OPAS_thumb.jpg",
+      "publishedAt": "2024-03-31 13:08:08",
+      "content": "O surto de dengue no continente americano , que estourou no come\u00e7o do ano, \u00e9 o pior da hist\u00f3ria, segundo a OPAS (Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade). Os casos s\u00e3o tr\u00eas vezes mais numerosos do que o r\u2026 [+222 chars]",
+      "retrievedAt": "2024-04-02 07:05:49.983061",
+      "internal_id": "4932b5d557acef24dcd8e1b49d4f253f90b656d7fac240e980ef727857302671",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 7650,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalita Vasconcelos",
+      "title": "Novas tendas de dengue no DF seguem modelo de hospitais de campanha",
+      "description": "O objetivo \u00e9 aumentar a capacidade de acesso aos pacientes a rede p\u00fablica de sa\u00fade logo que apresentem os primeiros sintomas da doen\u00e7a",
+      "url": "https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/23134513/Tendas-Dengue-GDF.jpg",
+      "publishedAt": "2024-03-31 12:44:28",
+      "content": "As 11 novas tendas de acolhimento aos pacientes com dengue anunciadas pelo Governo do Distrito Federal (GDF) v\u00e3o funcionar como hospitais de campanha, com consult\u00f3rios, equipamentos, mobili\u00e1rio e cli\u2026 [+3260 chars]",
+      "retrievedAt": "2024-04-01 19:05:26.271969",
+      "internal_id": "81246b348951b29932194bf9f6edde13c4d500267a03bcefa845646dd8bfbdb2",
       "publishedAtLabel": "Mar 31"
     }
   ]

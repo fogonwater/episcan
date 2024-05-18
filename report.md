@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 30
-- **Last harvest:** 2024-05-17 19:05
-- **Most recent article:** 2024-05-16 17:57:14
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-05-18 07:05
+- **Most recent article:** 2024-05-17 06:36:54
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-14 | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 146 | 138 | 113 | 117 | 77 | 57 | 58 | 706 |
-| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 9 | 198 |
-| measles | 33 | 43 | 40 | 28 | 24 | 10 | 13 | 191 |
-| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 46 | 103 |
-| mpox | 11 | 3 | 13 | 8 | 36 | 3 | 4 | 78 |
-| meningitis | 4 | 15 | 44 | 5 | 3 | 5 | 2 | 78 |
-| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 8 | 64 |
-| chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 10 | 51 |
+| dengue | 155 | 138 | 113 | 117 | 77 | 57 | 67 | 724 |
+| malaria | 13 | 16 | 29 | 77 | 25 | 29 | 11 | 200 |
+| measles | 34 | 43 | 40 | 28 | 24 | 10 | 14 | 193 |
+| h5n1 | 0 | 0 | 0 | 0 | 0 | 57 | 50 | 107 |
+| mpox | 12 | 3 | 13 | 8 | 36 | 3 | 6 | 81 |
+| meningitis | 4 | 15 | 44 | 5 | 3 | 5 | 3 | 79 |
+| rabies | 16 | 8 | 3 | 3 | 4 | 22 | 9 | 65 |
+| chikungunya | 12 | 7 | 5 | 5 | 7 | 5 | 11 | 52 |
 | zika | 11 | 10 | 8 | 3 | 8 | 2 | 5 | 47 |
 | pertussis | 7 | 9 | 7 | 5 | 2 | 5 | 4 | 39 |
 | sarampión | 5 | 13 | 0 | 10 | 8 | 1 | 0 | 37 |
@@ -51,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (rabies)
 
+- [Mother pins down fox after her 4-year-old was bit in Hollis, N.H.](https://www.bostonglobe.com/2024/05/16/metro/mother-pins-down-fox-after-her-4-year-old-was-bit-hollis-nh/) (The Boston Globe)
+
 - [Stray dogs bite two in city, captured](https://timesofindia.indiatimes.com/city/chennai/stray-dogs-bite-two-in-city-captured/articleshow/110160224.cms) (The Times of India)
 
 - [Rabies outbreaks in Costa Rica cattle linked to deforestation](https://phys.org/news/2024-05-rabies-outbreaks-costa-rica-cattle.html) (Phys.Org)
@@ -79,6 +81,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (mpox)
 
+- [CDC warns of new mpox outbreak, urges vaccination](https://www.advocate.com/health/new-mpox-outbreak-get-vaccinated) (Advocate.com)
+
+- [More Lethal Mpox Strain Surges In Congo—Here’s Why The CDC Warns Of A ‘Global Threat’](https://www.forbes.com/sites/tylerroush/2024/05/16/more-lethal-mpox-strain-surges-in-congo-heres-why-the-cdc-warns-of-a-global-threat/) (Forbes)
+
 - [U.S. Preparedness and Response to Increasing Clade I Mpox Cases in the Democratic Republic of the Congo — United States, 2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7319a3.htm) (Cdc.gov)
 
 - [Incubation Period and Serial Interval of Mpox in 2022 Global Outbreak Compared with Historical Estimates](https://wwwnc.cdc.gov/eid/article/30/6/23-1095_article) (Cdc.gov)
@@ -89,11 +95,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (meningitis)
 
+- [Scientists Warn Brain Diseases Are Getting Worse as Climate Change Intensifies](https://www.sciencealert.com/scientists-warn-brain-diseases-are-getting-worse-as-climate-change-intensifies) (ScienceAlert)
+
 - [AEV otorga tres ayudas a asociaciones para fomentar la vacunación entre pacientes con lupus y diabetes](https://www.infosalus.com/salud-investigacion/noticia-aev-otorga-tres-ayudas-asociaciones-fomentar-vacunacion-pacientes-lupus-diabetes-20240513163419.html) (Infosalus.com)
 
 - [Ex-pharmacy exec sentenced for role in deadly meningitis outbreak caused by mold-tainted drugs](https://www.foxnews.com/us/ex-pharmacy-exec-sentenced-role-deadly-meningitis-outbreak-caused-mold-tainted-drugs) (Fox News)
 
 ## 24-20 (measles)
+
+- [Caesarean stops measles jab response, and quantum navigation](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/caesarean-stops-measles-jab-response-and-quantum-navigation) (The Naked Scientists)
 
 - [Measles Outbreak Associated with a Migrant Shelter — Chicago, Illinois, February–May 2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7319a1.htm) (Cdc.gov)
 
@@ -122,6 +132,10 @@ Source: [News API](https://newsapi.org/)
 - [How to Check If You Have Immunity to Measles or Need Another Dose](https://www.scientificamerican.com/article/how-to-check-if-you-have-immunity-to-measles-or-need-another-dose/) (Scientific American)
 
 ## 24-20 (malaria)
+
+- [mRNA malaria vaccine due for first clinical trial](https://www.bangkokpost.com/thailand/general/2794579/mrna-malaria-vaccine-due-for-first-clinical-trial) (Bangkok Post)
+
+- [mRNA vaccine due for first clinical trial](https://www.bangkokpost.com/thailand/general/2794579/mrna-vaccine-due-for-first-clinical-trial) (Bangkok Post)
 
 - [Research identifies mechanism behind drug resistance in malaria parasite](https://phys.org/news/2024-05-mechanism-drug-resistance-malaria-parasite.html) (Phys.Org)
 
@@ -156,6 +170,14 @@ Source: [News API](https://newsapi.org/)
 - [First case of highly pathogenic avian influenza transmitted from cow to human confirmed](https://www.sciencedaily.com/releases/2024/05/240513193046.htm) (Science Daily)
 
 ## 24-20 (h5n1)
+
+- [Állatról emberre terjed a madárinfluenza – újabb világjárvány jöhet?](https://index.hu/tudomany/2024/05/17/madarinfluenza-virus-jarvany-fertozes-betegseg-tehen-ember-kutatas-vizsgalat-terjedes/) (Index.hu)
+
+- [Transmissão de gripe aviária de vaca para humano é confirmada](https://olhardigital.com.br/2024/05/16/medicina-e-saude/primeira-transmissao-de-gripe-aviaria-de-vaca-para-humano-eh-confirmada/) (Olhardigital.com.br)
+
+- [Californians Urged to Avoid Raw Milk Amid Bird Flu Outbreak on Dairy Farms](https://www.kqed.org/science/1992816/californians-urged-to-avoid-raw-milk-amid-bird-flu-outbreak-on-dairy-farms) (KQED)
+
+- [Bird Flu (H5N1) Explained: Well-Cooked Burgers Safe From Virus, Study Finds](https://www.forbes.com/sites/ariannajohnson/2024/05/16/bird-flu-h5n1-explained-well-cooked-burgers-safe-from-virus-study-finds/) (Forbes)
 
 - [H5N1 Avian Influenza Detected In New York City’s Wild Birds](https://www.forbes.com/sites/grrlscientist/2024/05/16/h5n1-avian-influenza-detected-in-new-york-citys-wild-birds/) (Forbes)
 
@@ -251,15 +273,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (dengue)
 
+- [132 infected with dengue in Mizoram till April 30: Govt](https://timesofindia.indiatimes.com/city/guwahati/132-infected-with-dengue-in-mizoram-till-april-30-govt/articleshow/110193905.cms) (The Times of India)
+
+- [Cientistas confirmam circulação de vírus mayaro em humanos em Roraima; entenda riscos](https://www.terra.com.br/vida-e-estilo/saude/cientistas-confirmam-circulacao-de-virus-mayaro-em-humanos-em-roraima-entenda-riscos,2dc6416f0e5939c1ceead818eb00537cwfng4l8r.html) (Terra.com.br)
+
+- [WHO approves Japan-made dengue vaccine](https://timesofindia.indiatimes.com/world/rest-of-world/who-approves-japan-made-dengue-vaccine/articleshow/110187299.cms) (The Times of India)
+
+- [Have dengue symptoms? Seek immediate treatment to avoid complications, say docs](https://timesofindia.indiatimes.com/city/goa/have-dengue-symptoms-seek-immediate-treatment-to-avoid-complications-say-docs/articleshow/110187194.cms) (The Times of India)
+
+- [Gefährlicher Mückenstich: Zahl der Dengue-Fälle nimmt weltweit zu: Was Sie über das Denguefieber wissen müssen](https://www.stern.de/gesundheit/denguefieber--das-muessen-sie-ueber-die-krankheit-wissen-33779928.html) (STERN.de)
+
 - [Número de casos de dengue na Itália é 6 vezes maior do que em 2023](https://www.terra.com.br/noticias/mundo/numero-de-casos-de-dengue-na-italia-e-6-vezes-maior-do-que-em-2023,6f8dfd8d28ba698e724d2ee489c987dbj3cb9vul.html) (Terra.com.br)
 
 - [Água alcalina hidrata mais? Veja a diferença dela para a comum e para quê serve](https://www.terra.com.br/vida-e-estilo/saude/agua-alcalina-hidrata-mais-veja-a-diferenca-dela-para-a-comum-e-para-que-serve,918445fa75e5846db87c6f5eb712b815zobfnuhv.html) (Terra.com.br)
 
 - [Febre do Oropouche: com 5 mil casos, Saúde faz alerta para doença](https://saude.ig.com.br/2024-05-16/febre-do-oropouche--com-5-mil-casos--saude-faz-alerta-para-doenca.html) (Ig.com.br)
 
+- [Dengue: idosos são 69% das mortes em Campinas, mas doença também vitimou criança](https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/16/dengue-idosos-sao-69percent-das-mortes-em-campinas-mas-doenca-tambem-vitimou-crianca.ghtml) (Globo)
+
 - [Qual a diferença da febre oropouche com outras arboviroses](https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-16/qual-a-diferenca-da-febre-oropouche-com-outras-arboviroses.html) (Ig.com.br)
 
 - [Febre oropouche dispara pelo Brasil; saiba os sintomas e como se proteger](https://claudia.abril.com.br/saude/febre-oropouche-dispara-pelo-brasil-saiba-os-sintomas-e-como-se-proteger) (Abril.com.br)
+
+- [Dengue : la France métropolitaine face à une flambée record](https://www.lexpress.fr/sciences-sante/sante/dengue-la-france-metropolitaine-face-a-une-flambee-record-ZYJ3OHDUIJGYTEX2O5BICECRSM/) (L'Express)
+
+- [Dengue : Déjà autant de cas importés en quatre mois que durant toute l’année 2023, un record](https://www.20minutes.fr/sante/4091420-20240516-dengue-deja-autant-cas-importes-quatre-mois-durant-toute-annee-2023-record) (20 Minutes)
 
 - [7 alimentos para consumir durante a recuperação da dengue](https://saude.ig.com.br/parceiros/edicase/2024-05-16/7-alimentos-para-consumir-durante-a-recuperacao-da-dengue.html) (Ig.com.br)
 
@@ -276,6 +314,8 @@ Source: [News API](https://newsapi.org/)
 - [Saúde inicia aplicação de 2ª dose da vacina contra dengue. Saiba mais](https://www.metropoles.com/distrito-federal/saude-inicia-aplicacao-de-2a-dose-da-vacina-contra-dengue-saiba-mais) (Metropoles.com)
 
 - [Las amenazas de la ruta migratoria en Guatemala: el dengue, los arrestos y el cambio climático](https://www.eldiario.es/desalambre/amenazas-ruta-migratoria-guatemala-dengue-arrestos-cambio-climatico_1_11372072.html) (Eldiario.es)
+
+- [Empresas de Sanidad Ambiental recomiendan permanecer muy alerta ante la epidemia de dengue en Argentina](https://www.europapress.es/sociedad/noticia-empresas-sanidad-ambiental-recomiendan-permanecer-muy-alerta-epidemia-dengue-argentina-20240516122858.html) (Europapress.es)
 
 - [Como a dengue também pode afetar a saúde da sua coluna? Entenda](https://www.terra.com.br/vida-e-estilo/saude/como-a-dengue-tambem-pode-afetar-a-saude-da-sua-coluna-entenda,174a9d9071f991922dc63b6af17b2653rmf5od7j.html) (Terra.com.br)
 
@@ -368,6 +408,8 @@ Source: [News API](https://newsapi.org/)
 - [Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension](https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391) (NDTV News)
 
 ## 24-20 (chikungunya)
+
+- [Cientistas confirmam circulação de vírus mayaro em humanos em Roraima; entenda riscos](https://www.terra.com.br/vida-e-estilo/saude/cientistas-confirmam-circulacao-de-virus-mayaro-em-humanos-em-roraima-entenda-riscos,2dc6416f0e5939c1ceead818eb00537cwfng4l8r.html) (Terra.com.br)
 
 - [Febre do Oropouche: com 5 mil casos, Saúde faz alerta para doença](https://saude.ig.com.br/2024-05-16/febre-do-oropouche--com-5-mil-casos--saude-faz-alerta-para-doenca.html) (Ig.com.br)
 
@@ -3037,6 +3079,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox cases are far outpacing last year's numbers, CDC reports](https://www.livescience.com/health/viruses-infections-disease/mpox-cases-are-far-outpacing-last-years-numbers-cdc-reports) (Live Science)
 
+- [Vacina da mpox perde eficácia em até um ano, mostram dois estudos](https://www.metropoles.com/saude/vacina-da-mpox-perde-eficacia) (Metropoles.com)
+
 ## 24-14 (meningitis)
 
 - [Desalojan un campus de fútbol en Valencia por la muerte de un niño de 11 años por una meningitis](https://www.libertaddigital.com/deportes/liga/2024-04-06/desalojan-un-campus-de-futbol-en-valencia-por-la-muerte-de-un-nino-de-11-anos-por-una-meningitis-7114326/) (Libertaddigital.com)
@@ -3114,6 +3158,8 @@ Source: [News API](https://newsapi.org/)
 - [Waikato measles cases a false alarm - Te Whatu Ora](https://www.1news.co.nz/2024/04/01/waikato-measles-cases-a-false-alarm-te-whatu-ora/) (1news.co.nz)
 
 - [Waikato measles cases a false alarm](https://www.nzherald.co.nz/nz/waikato-measles-cases-a-false-alarm/427XY4ZQT5HJZPNUQPMUJH3MVQ/) (New Zealand Herald)
+
+- [Sweetwater County Public Health Raises Awareness of Measles Cases in U.S. - SweetwaterNOW](https://www.sweetwaternow.com/sweetwater-county-public-health-raises-awareness-of-measles-cases-in-u-s/) (SweetwaterNOW.com)
 
 ## 24-14 (malaria)
 
@@ -3440,6 +3486,24 @@ Source: [News API](https://newsapi.org/)
 - [Vacinação contra dengue vai estar disponível nas escolas da capital paulista](https://recordtv.r7.com/balanco-geral-manha/videos/vacinacao-contra-dengue-vai-estar-disponivel-nas-escolas-da-capital-paulista-01042024) (R7.com)
 
 - [Fernán Quirós explicó por qué la vacuna contra el dengue no se debe incluir todavía en el calendario nacional](https://www.lanacion.com.ar/lnmas/fernan-quiros-explico-por-que-la-vacuna-contra-el-dengue-no-se-debe-incluir-todavia-en-el-calendario-nid01042024/) (La Nacion)
+
+- [‘Dengue podría tener un mayor impacto durante 2024′, señala OPS](https://www.nacion.com/ciencia/salud/dengue-podria-tener-un-mayor-impacto-durante-2024/YUDQL6ZRPRHOVIICM3SASRBPNY/story/) (Nacion.com)
+
+- [Quem está com dengue pode comer chocolate? Saiba o que pode acontecer](https://saudelab.com/quem-esta-com-dengue-pode-comer-chocolate/) (Saudelab.com)
+
+- [Indonesia sees dengue case surge in Q1](https://www.thestar.com.my/news/world/2024/04/01/indonesia-sees-dengue-case-surge-in-q1) (The Star Online)
+
+- [El mapa del dengue: afirman que la epidemia es “más de seis veces mayor” que el año pasado y continúan las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-afirman-que-la-epidemia-es-mas-de-seis-veces-mayor-que-el-ano-pasado-y-continuan-nid31032024/) (La Nacion)
+
+- [Internaron otra vez a Roxy Vázquez a menos de un mes de recibir el alta por dengue: "Quedé con las defensas bajas"](https://exitoina.perfil.com/noticias/destacada/internaron-roxy-vazquez-menos-un-mes-recibir-alta-dengue-quede-con-las-defensas-bajas.phtml) (Perfil.com)
+
+- [Irmã tatua corpo em homenagem à mulher grávida que morreu de dengue](https://www.metropoles.com/brasil/irma-tatua-corpo-em-homenagem-a-irma-gravida-que-morreu-com-dengue) (Metropoles.com)
+
+- [A Policlinico S.Martino di Genova un caso di Dengue, già dimesso](https://www.ansa.it/sito/notizie/cronaca/2024/03/31/a-policlinico-s.martino-di-genova-un-caso-di-dengue-gia-dimesso_3cd2e75c-963d-429a-a478-bf692e6550aa.html) (ANSA.it)
+
+- [Surto de dengue nas Américas é o pior já registrado, diz Organização Pan-Americana da Saúde](https://noticias.r7.com/record-news/videos/surto-de-dengue-nas-americas-e-o-pior-ja-registrado-diz-organizacao-pan-americana-da-saude-31032024) (R7.com)
+
+- [Novas tendas de dengue no DF seguem modelo de hospitais de campanha](https://www.metropoles.com/distrito-federal/novas-tendas-de-dengue-no-df-seguem-modelo-de-hospitais-de-campanha) (Metropoles.com)
 
 ## 24-14 (chikungunya)
 
