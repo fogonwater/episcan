@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-05-19 07:06
-- **Most recent article:** 2024-05-18 04:00:00
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-05-19 19:05
+- **Most recent article:** 2024-05-18 17:00:45
 
 ---
 
@@ -12,21 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 137 | 113 | 117 | 77 | 57 | 75 | 576 |
-| malaria | 16 | 29 | 77 | 25 | 29 | 12 | 188 |
-| measles | 43 | 40 | 28 | 24 | 10 | 26 | 171 |
-| h5n1 | 0 | 0 | 0 | 0 | 57 | 61 | 118 |
-| meningitis | 14 | 44 | 5 | 3 | 5 | 8 | 79 |
+| dengue | 131 | 113 | 117 | 77 | 57 | 78 | 573 |
+| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 189 |
+| measles | 43 | 40 | 28 | 24 | 10 | 28 | 173 |
+| h5n1 | 0 | 0 | 0 | 0 | 57 | 62 | 119 |
+| meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 80 |
 | mpox | 3 | 13 | 8 | 36 | 3 | 10 | 73 |
 | rabies | 8 | 3 | 3 | 4 | 22 | 10 | 50 |
-| chikungunya | 7 | 5 | 5 | 7 | 5 | 11 | 40 |
+| chikungunya | 7 | 5 | 5 | 7 | 5 | 12 | 41 |
 | zika | 10 | 8 | 3 | 8 | 2 | 6 | 37 |
 | pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 33 |
 | sarampión | 13 | 0 | 10 | 8 | 1 | 0 | 32 |
 | leptospirosis | 3 | 3 | 3 | 2 | 1 | 3 | 15 |
 | yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 8 |
+| typhoid | 0 | 2 | 0 | 0 | 3 | 2 | 7 |
 | hpai | 0 | 0 | 0 | 0 | 4 | 3 | 7 |
-| typhoid | 0 | 2 | 0 | 0 | 3 | 1 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -48,6 +48,8 @@ Source: [News API](https://newsapi.org/)
 - [Nueva tecnología de biomarcadores sintéticos diferencia entre infecciones previas por Zika y dengue](https://www.infosalus.com/salud-investigacion/noticia-nueva-tecnologia-biomarcadores-sinteticos-diferencia-infecciones-previas-zika-dengue-20240514070747.html) (Infosalus.com)
 
 ## 24-20 (typhoid)
+
+- [Gov't issues alert to schools on possible health risks due to flooding](https://www.citizen.digital/news/govt-issues-alert-to-schools-on-possible-health-risks-due-to-flooding-n342359) (Citizen.digital)
 
 - [UPSC Quiz – 2024 : IASbaba’s Daily Current Affairs Quiz 14th May 2024](https://iasbaba.com/2024/05/upsc-quiz-2024-iasbabas-daily-current-affairs-quiz-14th-may-2024/) (Iasbaba.com)
 
@@ -109,6 +111,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (meningitis)
 
+- [Confirman caso de meningitis meningocócica en colegio de Viña del Mar](https://www.cnnchile.com/pais/confirman-meningitis-meningococica-colegio-vina-del-mar_20240518/) (Cnnchile.com)
+
 - [Fall trial set for pharmacist in 11 Michigan meningitis deaths after plea deal talks fizzle](https://www.woodtv.com/health/ap-health/ap-fall-trial-set-for-pharmacist-in-11-michigan-meningitis-deaths-after-plea-deal-talks-fizzle/) (WOODTV.com)
 
 - [Fall trial set for pharmacist in 11 Michigan meningitis deaths after plea deal talks fizzle](https://abcnews.go.com/US/wireStory/fall-trial-set-pharmacist-11-michigan-meningitis-deaths-110351533) (ABC News)
@@ -126,6 +130,10 @@ Source: [News API](https://newsapi.org/)
 - [Ex-pharmacy exec sentenced for role in deadly meningitis outbreak caused by mold-tainted drugs](https://www.foxnews.com/us/ex-pharmacy-exec-sentenced-role-deadly-meningitis-outbreak-caused-mold-tainted-drugs) (Fox News)
 
 ## 24-20 (measles)
+
+- [CDC Links 84% of Measles Cases in Chicago to Illegal Aliens from Venezuela](https://www.thegatewaypundit.com/2024/05/cdc-links-84-measles-cases-chicago-illegal-aliens/) (Thegatewaypundit.com)
+
+- [Ontario's first measles death in decades offers grim reminder that unvaccinated kids are at risk](https://www.cbc.ca/news/health/measles-vaccination-rates-1.7207834) (CBC News)
 
 - [Measles case reported at Melbourne Airport](https://www.9news.com.au/national/measles-cases-victoria-measles-case-reported-at-melbourne-airport/fef33b09-20d8-4527-bc0e-7cf6c1951445) (9News)
 
@@ -181,6 +189,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (malaria)
 
+- [Gov't issues alert to schools on possible health risks due to flooding](https://www.citizen.digital/news/govt-issues-alert-to-schools-on-possible-health-risks-due-to-flooding-n342359) (Citizen.digital)
+
 - [Namibia secures nearly 50 mln USD from Global Fund to fight infectious diseases](https://www.thestar.com.my/news/world/2024/05/18/namibia-secures-nearly-50-mln-usd-from-global-fund-to-fight-infectious-diseases) (The Star Online)
 
 - [mRNA malaria vaccine due for first clinical trial](https://www.bangkokpost.com/thailand/general/2794579/mrna-malaria-vaccine-due-for-first-clinical-trial) (Bangkok Post)
@@ -222,6 +232,8 @@ Source: [News API](https://newsapi.org/)
 - [First case of highly pathogenic avian influenza transmitted from cow to human confirmed](https://www.sciencedaily.com/releases/2024/05/240513193046.htm) (Science Daily)
 
 ## 24-20 (h5n1)
+
+- [В США люди начали заражаться птичьим гриппом от животных — насколько это опасно?](https://hi-news.ru/eto-interesno/v-ssha-lyudi-nachali-zarazhatsya-ptichim-grippom-ot-zhivotnyx-naskolko-eto-opasno.html) (Hi-news.ru)
 
 - [TWiV 1114: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1114/) (Microbe.tv)
 
@@ -346,6 +358,12 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1113: Influenza virus H5N1 in cows' milk with Richard Webby](https://www.microbe.tv/twiv/twiv-1113/) (Microbe.tv)
 
 ## 24-20 (dengue)
+
+- [Enchentes no RS acendem alerta para risco de epidemias de doenças graves](https://veja.abril.com.br/saude/enchentes-no-rs-podem-trazer-epidemias-de-doencas-graves) (Abril.com.br)
+
+- [Ricardo Nunes diz que calor fora de época retardou queda da dengue, mas espera diminuição de casos nas próximas semanas](https://g1.globo.com/sp/sao-paulo/noticia/2024/05/18/dengue-em-sp-nunes-diz-que-calor-fora-de-epoca-retardou-queda-mas-espera-diminuicao-de-casos-nas-proximas-semanas.ghtml) (Globo)
+
+- [Pakistan: Dengue outbreak claims 14 lives in Turbat, over 5000 cases reported in Kech district](https://timesofindia.indiatimes.com/world/pakistan/pakistan-dengue-outbreak-claims-14-lives-in-turbat-over-5000-cases-reported-in-kech-district/articleshow/110233564.cms) (The Times of India)
 
 - [Assam Rifles organises lecture](https://thehillstimes.in/assam/assam-rifles-organises-lecture) (Thehillstimes.in)
 
@@ -498,6 +516,8 @@ Source: [News API](https://newsapi.org/)
 - [Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension](https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391) (NDTV News)
 
 ## 24-20 (chikungunya)
+
+- [Gov't issues alert to schools on possible health risks due to flooding](https://www.citizen.digital/news/govt-issues-alert-to-schools-on-possible-health-risks-due-to-flooding-n342359) (Citizen.digital)
 
 - [Cientistas confirmam circulação de vírus mayaro em humanos em Roraima; entenda riscos](https://www.terra.com.br/vida-e-estilo/saude/cientistas-confirmam-circulacao-de-virus-mayaro-em-humanos-em-roraima-entenda-riscos,2dc6416f0e5939c1ceead818eb00537cwfng4l8r.html) (Terra.com.br)
 
@@ -3018,18 +3038,6 @@ Source: [News API](https://newsapi.org/)
 - [Milei deja la atención sanitaria al libre mercado en la peor epidemia de dengue](https://www.meneame.net/m/actualidad/milei-deja-atencion-sanitaria-libre-mercado-peor-epidemia-dengue) (Meneame.net)
 
 - [Milei decide no vacunar contra la epidemia de dengue y su ministro de Salud pide que no lleven pantalones cortos](https://www.meneame.net/m/politica/milei-decide-no-vacunar-contra-epidemia-dengue-ministro-salud-no) (Meneame.net)
-
-- [Fuerte suba: el país supera los 200.000 casos de dengue en lo que va del año y ya es un 54% más que en todo 2023](https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/) (La Nacion)
-
-- [Dá para ter dengue e Covid ao mesmo tempo?](https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html) (Terra.com.br)
-
-- [Ni el mosquito ni el clima: el otro factor de riesgo para la propagación del dengue que cada vez más señalan los expertos](https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/) (La Nacion)
-
-- [Guatemala y Panamá, los más afectados por ola de dengue en Centroamérica](https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783) (Montevideo.com.uy)
-
-- [Mortes por dengue no estado de São Paulo chegam a 221](https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221) (Metropoles.com)
-
-- [Se extiende el dengue por Centro y Sudamérica](https://www.jornada.com.mx/2024/04/07/mundo/022n1mun) (Jornada.com.mx)
 
 ## 24-15 (chikungunya)
 
