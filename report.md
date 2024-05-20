@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-05-19 19:05
-- **Most recent article:** 2024-05-18 17:00:45
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-05-20 07:06
+- **Most recent article:** 2024-05-19 07:01:27
 
 ---
 
@@ -10,28 +10,44 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 131 | 113 | 117 | 77 | 57 | 78 | 573 |
-| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 189 |
-| measles | 43 | 40 | 28 | 24 | 10 | 28 | 173 |
-| h5n1 | 0 | 0 | 0 | 0 | 57 | 62 | 119 |
-| meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 80 |
-| mpox | 3 | 13 | 8 | 36 | 3 | 10 | 73 |
-| rabies | 8 | 3 | 3 | 4 | 22 | 10 | 50 |
-| chikungunya | 7 | 5 | 5 | 7 | 5 | 12 | 41 |
-| zika | 10 | 8 | 3 | 8 | 2 | 6 | 37 |
-| pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 33 |
-| sarampión | 13 | 0 | 10 | 8 | 1 | 0 | 32 |
-| leptospirosis | 3 | 3 | 3 | 2 | 1 | 3 | 15 |
-| yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 8 |
-| typhoid | 0 | 2 | 0 | 0 | 3 | 2 | 7 |
-| hpai | 0 | 0 | 0 | 0 | 4 | 3 | 7 |
+| Disease | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 137 | 113 | 117 | 77 | 57 | 87 | 3 | 591 |
+| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 0 | 189 |
+| measles | 43 | 40 | 28 | 24 | 10 | 29 | 0 | 174 |
+| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 1 | 121 |
+| meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 0 | 80 |
+| mpox | 3 | 13 | 8 | 36 | 3 | 10 | 1 | 74 |
+| rabies | 8 | 3 | 3 | 4 | 22 | 10 | 0 | 50 |
+| chikungunya | 7 | 5 | 5 | 7 | 5 | 12 | 0 | 41 |
+| zika | 10 | 8 | 3 | 8 | 2 | 6 | 0 | 37 |
+| pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 0 | 33 |
+| sarampión | 13 | 0 | 10 | 8 | 1 | 0 | 0 | 32 |
+| leptospirosis | 3 | 3 | 3 | 2 | 1 | 3 | 0 | 15 |
+| yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 0 | 8 |
+| typhoid | 0 | 2 | 0 | 0 | 3 | 2 | 0 | 7 |
+| hpai | 0 | 0 | 0 | 0 | 4 | 3 | 0 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-21 (mpox)
+
+- [Deadly new strain of monkeypox in Africa virus raises concerns of spread](https://www.jpost.com/health-and-wellness/article-801670) (The Jerusalem Post)
+
+## 24-21 (h5n1)
+
+- [Aviaria, in Usa gli allevatori contro i controlli nelle fattorie. I funzionari dei Cdc ricorrono ai veterinari locali](https://www.ilfattoquotidiano.it/2024/05/19/aviaria-in-usa-gli-allevatori-contro-i-controlli-nelle-fattorie-i-funzionari-dei-cdc-ricorrono-ai-veterinari-locali/7551261/) (Ilfattoquotidiano.it)
+
+## 24-21 (dengue)
+
+- [Vorsicht vor Mücken - Die Dengue-Gefahr lauert bereits in Europa](https://www.bild.de/leben-wissen/reisen/dengue-fieber-in-diesen-urlaubslaendern-lauern-aedes-muecken-6645c1452a58ee5c6317500f) (Bild)
+
+- [Mirtha Legrand habló de la libertad de expresión, volvió a pedir por la vacuna del dengue y reveló una infidencia de Milei](https://www.lanacion.com.ar/espectaculos/personajes/mirtha-legrand-hablo-de-la-libertad-de-expresion-volvio-a-pedir-por-la-vacuna-del-dengue-y-revelo-nid19052024/) (La Nacion)
+
+- [Mizoram: 7 people died of dengue in two years](https://thehillstimes.in/northeast/mizoram-7-people-died-of-dengue-in-two-years) (Thehillstimes.in)
 
 ## 24-20 (zika)
 
@@ -130,6 +146,8 @@ Source: [News API](https://newsapi.org/)
 - [Ex-pharmacy exec sentenced for role in deadly meningitis outbreak caused by mold-tainted drugs](https://www.foxnews.com/us/ex-pharmacy-exec-sentenced-role-deadly-meningitis-outbreak-caused-mold-tainted-drugs) (Fox News)
 
 ## 24-20 (measles)
+
+- [Eighty-Four Percent of Measles Cases During Chicago’s Outbreak Tied to Venezuelan Migrants](https://legalinsurrection.com/2024/05/eighty-four-percent-of-measles-cases-during-chicagos-outbreak-tied-to-venezuelan-migrants/) (Legalinsurrection.com)
 
 - [CDC Links 84% of Measles Cases in Chicago to Illegal Aliens from Venezuela](https://www.thegatewaypundit.com/2024/05/cdc-links-84-measles-cases-chicago-illegal-aliens/) (Thegatewaypundit.com)
 
@@ -232,6 +250,8 @@ Source: [News API](https://newsapi.org/)
 - [First case of highly pathogenic avian influenza transmitted from cow to human confirmed](https://www.sciencedaily.com/releases/2024/05/240513193046.htm) (Science Daily)
 
 ## 24-20 (h5n1)
+
+- [Bedrohliches Virus in Milch - Top-Virologe: Hier droht die nächste Pandemie](https://www.bild.de/leben-wissen/bedrohliches-vogelgrippe-virus-wie-gefaehrlich-ist-unsere-milch-663f9abc8dd6743651953875) (Bild)
 
 - [В США люди начали заражаться птичьим гриппом от животных — насколько это опасно?](https://hi-news.ru/eto-interesno/v-ssha-lyudi-nachali-zarazhatsya-ptichim-grippom-ot-zhivotnyx-naskolko-eto-opasno.html) (Hi-news.ru)
 
@@ -359,19 +379,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-20 (dengue)
 
+- [The Guardian Toad](https://www.toxel.com/tech/2024/05/18/the-guardian-toad/) (Toxel.com)
+
 - [Enchentes no RS acendem alerta para risco de epidemias de doenças graves](https://veja.abril.com.br/saude/enchentes-no-rs-podem-trazer-epidemias-de-doencas-graves) (Abril.com.br)
+
+- [Gov't issues alert to schools on possible health risks due to flooding](https://www.citizen.digital/news/govt-issues-alert-to-schools-on-possible-health-risks-due-to-flooding-n342359) (Citizen.digital)
 
 - [Ricardo Nunes diz que calor fora de época retardou queda da dengue, mas espera diminuição de casos nas próximas semanas](https://g1.globo.com/sp/sao-paulo/noticia/2024/05/18/dengue-em-sp-nunes-diz-que-calor-fora-de-epoca-retardou-queda-mas-espera-diminuicao-de-casos-nas-proximas-semanas.ghtml) (Globo)
 
 - [Pakistan: Dengue outbreak claims 14 lives in Turbat, over 5000 cases reported in Kech district](https://timesofindia.indiatimes.com/world/pakistan/pakistan-dengue-outbreak-claims-14-lives-in-turbat-over-5000-cases-reported-in-kech-district/articleshow/110233564.cms) (The Times of India)
 
+- [Brasil contabiliza 2.715 mortes por dengue em 2024](https://valor.globo.com/brasil/noticia/2024/05/18/brasil-contabiliza-2715-mortes-por-dengue-em-2024.ghtml) (Globo)
+
 - [Assam Rifles organises lecture](https://thehillstimes.in/assam/assam-rifles-organises-lecture) (Thehillstimes.in)
+
+- [Sintomas da dengue: a alimentação pode ajudar a amenizá-los?](https://boaforma.abril.com.br/alimentacao/sintomas-da-dengue-alimentacao/) (Abril.com.br)
 
 - [Qdenga: tire as principais dúvidas sobre essa vacina da dengue](https://boaforma.abril.com.br/equilibrio/qdenga-vacina-da-dengue/) (Abril.com.br)
 
 - [DF chega a 343 mortes por dengue e tem outras 53 em investigação](https://www.metropoles.com/distrito-federal/df-chega-a-343-mortes-por-dengue-e-tem-outras-53-em-investigacao) (Metropoles.com)
 
 - [Campinas abre 15 postos de saúde neste sábado para atender casos de dengue e vacinação](https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/17/campinas-abre-15-postos-de-saude-neste-sabado-para-atender-casos-de-dengue-e-vacinacao.ghtml) (Globo)
+
+- [WHO prequalifies new dengue vaccine, but Africa still not in the picture](https://nation.africa/kenya/health/who-prequalifies-new-dengue-vaccine-but-africa-still-not-in-the-picture-4626442) (Nation.africa)
 
 - [Má gestão de resíduos sólidos pode influenciar surgimento de epidemias](https://economia.ig.com.br/parceiros/esginsights/2024-05-17/ma-gestao-de-residuos-solidos-pode-influenciar-surgimento-de-epidemias.html) (Ig.com.br)
 
@@ -381,9 +411,13 @@ Source: [News API](https://newsapi.org/)
 
 - [OMS precalifica dos vacunas contra el dengue: ¿qué sucederá en Costa Rica?](https://www.nacion.com/ciencia/salud/oms-precalifica-dos-vacunas-contra-el-dengue-que/3XXY2C47D5GLHFVG4BVNKTCTYQ/story/) (Nacion.com)
 
+- [Expliquez-nous le moustique tigre](https://www.francetvinfo.fr/replay-radio/expliquez-nous/expliquez-nous-le-moustique-tigre_6521519.html) (Francetvinfo.fr)
+
 - [132 infected with dengue in Mizoram till April 30: Govt](https://timesofindia.indiatimes.com/city/guwahati/132-infected-with-dengue-in-mizoram-till-april-30-govt/articleshow/110193905.cms) (The Times of India)
 
 - [Cientistas confirmam circulação de vírus mayaro em humanos em Roraima; entenda riscos](https://www.terra.com.br/vida-e-estilo/saude/cientistas-confirmam-circulacao-de-virus-mayaro-em-humanos-em-roraima-entenda-riscos,2dc6416f0e5939c1ceead818eb00537cwfng4l8r.html) (Terra.com.br)
+
+- [Casi el 40% de las personas que padecen hipertensión no lo saben: Dadis](https://www.eluniversal.com.co/cartagena/casi-el-40-de-las-personas-que-padecen-hipertension-no-lo-saben-dadis-AF10518392) (Eluniversal.com.co)
 
 - [WHO approves Japan-made dengue vaccine](https://timesofindia.indiatimes.com/world/rest-of-world/who-approves-japan-made-dengue-vaccine/articleshow/110187299.cms) (The Times of India)
 
@@ -396,6 +430,8 @@ Source: [News API](https://newsapi.org/)
 - [Água alcalina hidrata mais? Veja a diferença dela para a comum e para quê serve](https://www.terra.com.br/vida-e-estilo/saude/agua-alcalina-hidrata-mais-veja-a-diferenca-dela-para-a-comum-e-para-que-serve,918445fa75e5846db87c6f5eb712b815zobfnuhv.html) (Terra.com.br)
 
 - [Febre do Oropouche: com 5 mil casos, Saúde faz alerta para doença](https://saude.ig.com.br/2024-05-16/febre-do-oropouche--com-5-mil-casos--saude-faz-alerta-para-doenca.html) (Ig.com.br)
+
+- [Número de casos de dengue na Itália é 6 vezes maior do em 2023](https://www.terra.com.br/noticias/mundo/numero-de-casos-de-dengue-na-italia-e-6-vezes-maior-do-em-2023,6f8dfd8d28ba698e724d2ee489c987dbj3cb9vul.html) (Terra.com.br)
 
 - [Dengue: idosos são 69% das mortes em Campinas, mas doença também vitimou criança](https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/16/dengue-idosos-sao-69percent-das-mortes-em-campinas-mas-doenca-tambem-vitimou-crianca.ghtml) (Globo)
 
@@ -424,6 +460,8 @@ Source: [News API](https://newsapi.org/)
 - [Las amenazas de la ruta migratoria en Guatemala: el dengue, los arrestos y el cambio climático](https://www.eldiario.es/desalambre/amenazas-ruta-migratoria-guatemala-dengue-arrestos-cambio-climatico_1_11372072.html) (Eldiario.es)
 
 - [Empresas de Sanidad Ambiental recomiendan permanecer muy alerta ante la epidemia de dengue en Argentina](https://www.europapress.es/sociedad/noticia-empresas-sanidad-ambiental-recomiendan-permanecer-muy-alerta-epidemia-dengue-argentina-20240516122858.html) (Europapress.es)
+
+- [Quais alimentos evitar e quais consumir se você tem ou teve dengue](https://www.terra.com.br/vida-e-estilo/saude/quais-alimentos-evitar-e-quais-consumir-se-voce-tem-ou-teve-dengue,4ee44746fb21a5b20c2399a46d7f7d7efk2ttk5h.html) (Terra.com.br)
 
 - [Como a dengue também pode afetar a saúde da sua coluna? Entenda](https://www.terra.com.br/vida-e-estilo/saude/como-a-dengue-tambem-pode-afetar-a-saude-da-sua-coluna-entenda,174a9d9071f991922dc63b6af17b2653rmf5od7j.html) (Terra.com.br)
 
@@ -3038,6 +3076,18 @@ Source: [News API](https://newsapi.org/)
 - [Milei deja la atención sanitaria al libre mercado en la peor epidemia de dengue](https://www.meneame.net/m/actualidad/milei-deja-atencion-sanitaria-libre-mercado-peor-epidemia-dengue) (Meneame.net)
 
 - [Milei decide no vacunar contra la epidemia de dengue y su ministro de Salud pide que no lleven pantalones cortos](https://www.meneame.net/m/politica/milei-decide-no-vacunar-contra-epidemia-dengue-ministro-salud-no) (Meneame.net)
+
+- [Fuerte suba: el país supera los 200.000 casos de dengue en lo que va del año y ya es un 54% más que en todo 2023](https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/) (La Nacion)
+
+- [Dá para ter dengue e Covid ao mesmo tempo?](https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html) (Terra.com.br)
+
+- [Ni el mosquito ni el clima: el otro factor de riesgo para la propagación del dengue que cada vez más señalan los expertos](https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/) (La Nacion)
+
+- [Guatemala y Panamá, los más afectados por ola de dengue en Centroamérica](https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783) (Montevideo.com.uy)
+
+- [Mortes por dengue no estado de São Paulo chegam a 221](https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221) (Metropoles.com)
+
+- [Se extiende el dengue por Centro y Sudamérica](https://www.jornada.com.mx/2024/04/07/mundo/022n1mun) (Jornada.com.mx)
 
 ## 24-15 (chikungunya)
 
