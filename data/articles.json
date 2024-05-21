@@ -1,8 +1,134 @@
 {
-  "last_updated": "2024-05-20 19:05",
-  "count_articles_total": 1384,
-  "count_articles_new": 3,
+  "last_updated": "2024-05-21 07:06",
+  "count_articles_total": 1397,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 9325,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Epidemia de dengue deve voltar em novembro, alertam especialistas",
+      "description": "Governo se prepara para que a onda de casos de dengue prevista para 2025 comece a aparecer a partir de novembro pr\u00f3ximo",
+      "url": "https://www.metropoles.com/saude/epidemia-de-dengue-em-novembro",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-05-20 05:00:11",
+      "content": "Neste ano, o Brasil registrou mais de 4,9 milh\u00f5es de casos de dengue em um recorde hist\u00f3rico de infec\u00e7\u00f5es. Embora o governo comemore a tend\u00eancia de queda nos casos, o Minist\u00e9rio da Sa\u00fade se prepara p\u2026 [+5169 chars]",
+      "retrievedAt": "2024-05-21 07:06:08.161436",
+      "internal_id": "f91185cbaae9533b9b2d1efb1c5f221abb92b42d80979f973b1e7f693f3dcc7f",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9324,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Muiris Houston",
+      "title": "Is bird flu close to causing the next global infectious disease pandemic?",
+      "description": "Dr Muiris Houston: The H5N1 virus likely spilled from birds into cows in late 2023, and spread undetected among cattle for months before the first cases were reported this March",
+      "url": "https://www.irishtimes.com/health/your-wellness/2024/05/20/is-bird-flu-close-to-causing-the-next-global-infectious-disease-pandemic/",
+      "urlToImage": "https://www.irishtimes.com/resizer/9OEieEjcAcW92rKhE6W5AuWWvmk=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ENQJCAB4BVEXZIMBJD3ZRBN3DI.jpg",
+      "publishedAt": "2024-05-20 04:31:00",
+      "content": "Bird flu, aka the H5N1 virus, has been around since 1996. Since then it has led to intermittent cases of avian flu in humans. It has also steadily infected more species from raccoons and foxes to sea\u2026 [+3360 chars]",
+      "retrievedAt": "2024-05-21 07:06:07.882272",
+      "internal_id": "8a7d8ae3d0bc0f5ce3b532e6e3182b22b8b1ef3ea15a4e499ab116c38fde903a",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9328,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Over 340 new dengue cases reported from May 5-11",
+      "description": "PUTRAJAYA: A total of 343 new cases of dengue fever were reported in the 19th Epidemiological Week (ME19) from May 5-11, taking the total number of cases to 2,338 compared to 1,995 the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/05/20/over-340-new-dengue-cases-reported-from-may-5-11",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/05/20/2703968.jpg",
+      "publishedAt": "2024-05-20 03:15:00",
+      "content": "PUTRAJAYA: A total of 343 new cases of dengue fever were reported in the 19th Epidemiological Week (ME19) from May 5-11, taking the total number of cases to 2,338 compared to 1,995 the previous week.\u2026 [+1091 chars]",
+      "retrievedAt": "2024-05-21 07:06:08.200485",
+      "internal_id": "4ad3851a3aee495e4353d25aa077b754713456e684a875177fb68b4ef462ac4e",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9329,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Malay Mail",
+      "title": "Health Ministry: 343 new dengue cases reported from May 5 to 11",
+      "description": "PUTRAJAYA, May 20 \u2014 A total of 343 new cases of dengue fever were reported in the 19th Epidemiological Week (ME19) from May 5-11, taking the total number of cases to 2,338...",
+      "url": "https://www.malaymail.com/news/malaysia/2024/05/20/health-ministry-343-new-dengue-cases-reported-from-may-5-to-11-one-death/135417",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2024/05/20/thumbs/400x400/211615.jpg",
+      "publishedAt": "2024-05-20 02:58:08",
+      "content": "PUTRAJAYA, May 20 A total of 343 new cases of dengue fever were reported in the 19th Epidemiological Week (ME19) from May 5-11, taking the total number of cases to 2,338 compared to 1,995 the previou\u2026 [+1082 chars]",
+      "retrievedAt": "2024-05-21 07:06:08.236794",
+      "internal_id": "d7697b51e9984603ec60b36e93b6ee6df8e20e2bdeed4d69327e4cd0f11c60e0",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9326,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "VOA Learning English",
+      "title": "Learning English Podcast - May 20, 2024",
+      "description": "On today\u2019s podcast, the U.N. approves another vaccine for dengue fever; social media has young South Koreans interested in Buddhism; a severe solar storm hits Earth followed by a discussion about why there was no major damage reported; then, \u2018probability\u2019 on \u2026",
+      "url": "https://learningenglish.voanews.com/a/7598921.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-e785-08db45a50883_w1200_r1.jpg",
+      "publishedAt": "2024-05-20 00:30:00",
+      "content": "On todays podcast, the U.N. approves another vaccine for dengue fever; social media has young South Koreans interested in Buddhism; a severe solar storm hits Earth followed by a discussion about why \u2026 [+74 chars]",
+      "retrievedAt": "2024-05-21 07:06:08.169627",
+      "internal_id": "d818b19998d6f3c7cc8ae2c167519a9d2d5f9d0dfb18dc125410c1710cd83898",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9327,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos m\u00e1s afectados",
+      "description": "Solo en lo que va del a\u00f1o, se confirmaron 475.643 positivos de esta infecci\u00f3n transmitida por el mosquito Aedes aegypti",
+      "url": "https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-mosquito-aedes-aegypti-vector-del-virus-del-2PYYEYQIUNFG5DJAHHHSWP7A6M?auth=03e5f9c0307376da602505fc73483fd5f1d47b03e1513b82322adc04e112c65a&width=768&quality=70&smart=false",
+      "publishedAt": "2024-05-19 23:09:28",
+      "content": "Con un pico de unos 57.000 casos semanales entre finales de marzo y principios de abril, las cifras oficiales de la epidemia de dengue se mantienen a la baja por quinta semana desde entonces al tener\u2026 [+2871 chars]",
+      "retrievedAt": "2024-05-21 07:06:08.192348",
+      "internal_id": "b2a23879d26752e339441fb2cb0b946cd984411656fff648b1551e15bfa35229",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9323,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "Greg Stanley",
+      "title": "As bird flu spreads to dairy cows, Minnesota's raptors show signs of building remarkable immunity",
+      "description": "High numbers of eagles, owls, condors and other raptors have beaten the H5N1 strain.",
+      "url": "https://www.startribune.com/as-bird-flu-spreads-to-dairy-cows-minnesotas-raptors-show-signs-of-building-remarkable-immunity/600367169/",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/AFLRNHOLVVDFXMA4R7Z7KLMBPU.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2024-05-19 22:45:00",
+      "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
+      "retrievedAt": "2024-05-21 07:06:07.864022",
+      "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
+      "publishedAtLabel": "May 19"
+    },
     {
       "id": 9320,
       "query": [
@@ -24985,6 +25111,114 @@
       "content": "Y mi libertad para ponerme pantalones cortos donde queda?",
       "retrievedAt": "2024-04-09 07:06:08.712972",
       "internal_id": "564eaa099fad3e9e030239277c6cdafbee9450adad7d93e58af268a0594fefaa",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7942,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Fuerte suba: el pa\u00eds supera los 200.000 casos de dengue en lo que va del a\u00f1o y ya es un 54% m\u00e1s que en todo 2023",
+      "description": "Se trata de una epidemia hist\u00f3rica; se reportaron 52.000 contagios en solo una semana y siguen las muertes",
+      "url": "https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/crecen-los-casos-de-dengue-en-el-pais-en-la-mayor-QYAJYSTDSZF5PD4WXL3D5ZILTI.jpeg?auth=5f1c2364d22e8b2da51c77c2e8b8c3729cb36f994b437dfbc620951760756998&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-07 18:47:52",
+      "content": "La mayorepidemia de dengue que enfrent\u00f3 hasta el momento el pa\u00eds super\u00f3 en las primeras 13 semanas de este a\u00f1o todos los casos acumulados en 2023. Si bien la comparaci\u00f3n es relativa, ya que parte de \u2026 [+2070 chars]",
+      "retrievedAt": "2024-04-09 07:06:08.813194",
+      "internal_id": "5ae38315a34a819009e3d3695aa2233437700668fedf9dfbf695abc344fbe9d9",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7923,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Jairo Bouer - Parceria",
+      "title": "D\u00e1 para ter dengue e Covid ao mesmo tempo?",
+      "description": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/07/421659606-istockfebre.jpg",
+      "publishedAt": "2024-04-07 17:00:11",
+      "content": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da dengue podem variar muito. Algumas pessoas t\u00eam sintomas muito intensos, outras t\u00eam sintomas mais ameno\u2026 [+744 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.883513",
+      "internal_id": "b4dc4a1fa650323a01ee2adb93db0abdfe0c5773905c5f3ed124518b1d86a87c",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Gabriela Origlia",
+      "title": "Ni el mosquito ni el clima: el otro factor de riesgo para la propagaci\u00f3n del dengue que cada vez m\u00e1s se\u00f1alan los expertos",
+      "description": "Si bien lo definen como \u201cuna enfermedad democr\u00e1tica\u201d, aparece un v\u00ednculo entre la infecci\u00f3n y la pobreza; causas y recomendaciones",
+      "url": "https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-viviendas-deficitarias-y-el-mal-tratamiento-W53O4OXG4VGM3P3AW2AWYOUXZU.JPG?auth=a694e5614bba61de5f61241698439dc471693c36b6ba15080dd617922fb81b97&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-07 15:40:41",
+      "content": "C\u00d3RDOBA. La Argentina atraviesa la peor epidemia de dengue desde 2009, con m\u00e1s de 180.000 casos diagnosticados (se estima que son a\u00fan m\u00e1s los no contabilizados) y 129 muertos, ysi bien se trata de un\u2026 [+6615 chars]",
+      "retrievedAt": "2024-04-09 07:06:08.797282",
+      "internal_id": "895f61ac4f89945e048be9bf10fe73c20337a21fad96b9b43ccd3539d23a334f",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7921,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Guatemala y Panam\u00e1, los m\u00e1s afectados por ola de dengue en Centroam\u00e9rica",
+      "description": "En Nicaragua, El Salvador y Costa Rica no hay muertos por la enfermedad en 2024. En Honduras, hay cuatro muertos y 8.000 casos.",
+      "url": "https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201807/_W933_80/659534.jpg",
+      "publishedAt": "2024-04-07 14:35:00",
+      "content": "Al menos 20 personas han muerto y m\u00e1s de 30.000 han sido contagiadas por una ola de dengue en Centroam\u00e9rica, donde Guatemala y Panam\u00e1 tienen este a\u00f1o el mayor balance de fallecidos. La Organizaci\u2026 [+2002 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.847014",
+      "internal_id": "f64089a353c82f065f153c6ffcc5e560f2302bf0f4a4afd5eccc6c82e9582f03",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7920,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luiz Vassallo",
+      "title": "Mortes por dengue no estado de S\u00e3o Paulo chegam a 221",
+      "description": "Em todo o estado h\u00e1 485 mortes em investiga\u00e7\u00e3o; foram 456.427 casos confirmados ao longo do ano",
+      "url": "https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-04-07 12:45:16",
+      "content": "S\u00e3o Paulo \u2013 O n\u00famero de mortes em raz\u00e3o de casos de dengue em 2023 chegou a 221 no estado de S\u00e3o Paulo, segundo dados da Secretaria estadual da Sa\u00fade. A pasta registra outros 485 \u00f3bitos em investiga\u00e7\u2026 [+1717 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.833995",
+      "internal_id": "c06f158d1bd95cc31be047934a0d7249a68a4a474a320378fb6e73265eb8d7e5",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7922,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Se extiende el dengue por Centro y Sudam\u00e9rica",
+      "description": "R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su \u201cpeor temporada de dengue\u201d, una \u201cenfermedad febril que afecta a lactantes, ni\u00f1os y adultos\u201d describe el organismo.",
+      "url": "https://www.jornada.com.mx/2024/04/07/mundo/022n1mun",
+      "urlToImage": "https://www.jornada.com.mx/2024/04/07/fotos/022n1mun-1.jpg",
+      "publishedAt": "2024-04-07 12:01:17",
+      "content": "Peri\u00f3dico La JornadaDomingo 7 de abril de 2024, p. 22 R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su peor temporada de dengue, una enfermedad febril que afecta a lactantes,\u2026 [+2321 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.866530",
+      "internal_id": "1ef59dff7bdcee691defb5d888bbdeb9c3e0abea41a52c5bae2169c80bdad59e",
       "publishedAtLabel": "Apr 7"
     }
   ]

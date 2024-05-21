@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2024-05-20 19:05
-- **Most recent article:** 2024-05-19 11:30:09
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-05-21 07:06
+- **Most recent article:** 2024-05-20 05:00:11
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 131 | 113 | 117 | 77 | 57 | 87 | 4 | 586 |
+| dengue | 137 | 113 | 117 | 77 | 57 | 87 | 9 | 597 |
 | malaria | 16 | 29 | 77 | 25 | 29 | 13 | 1 | 190 |
 | measles | 43 | 40 | 28 | 24 | 10 | 29 | 0 | 174 |
-| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 1 | 121 |
+| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 3 | 123 |
 | meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 0 | 80 |
 | mpox | 3 | 13 | 8 | 36 | 3 | 10 | 1 | 74 |
 | rabies | 8 | 3 | 3 | 4 | 22 | 10 | 0 | 50 |
@@ -47,9 +47,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (h5n1)
 
+- [Is bird flu close to causing the next global infectious disease pandemic?](https://www.irishtimes.com/health/your-wellness/2024/05/20/is-bird-flu-close-to-causing-the-next-global-infectious-disease-pandemic/) (The Irish Times)
+
+- [As bird flu spreads to dairy cows, Minnesota's raptors show signs of building remarkable immunity](https://www.startribune.com/as-bird-flu-spreads-to-dairy-cows-minnesotas-raptors-show-signs-of-building-remarkable-immunity/600367169/) (Minneapolis Star Tribune)
+
 - [Aviaria, in Usa gli allevatori contro i controlli nelle fattorie. I funzionari dei Cdc ricorrono ai veterinari locali](https://www.ilfattoquotidiano.it/2024/05/19/aviaria-in-usa-gli-allevatori-contro-i-controlli-nelle-fattorie-i-funzionari-dei-cdc-ricorrono-ai-veterinari-locali/7551261/) (Ilfattoquotidiano.it)
 
 ## 24-21 (dengue)
+
+- [Epidemia de dengue deve voltar em novembro, alertam especialistas](https://www.metropoles.com/saude/epidemia-de-dengue-em-novembro) (Metropoles.com)
+
+- [Over 340 new dengue cases reported from May 5-11](https://www.thestar.com.my/news/nation/2024/05/20/over-340-new-dengue-cases-reported-from-may-5-11) (The Star Online)
+
+- [Health Ministry: 343 new dengue cases reported from May 5 to 11](https://www.malaymail.com/news/malaysia/2024/05/20/health-ministry-343-new-dengue-cases-reported-from-may-5-to-11-one-death/135417) (Malay Mail)
+
+- [Learning English Podcast - May 20, 2024](https://learningenglish.voanews.com/a/7598921.html) (VOA News)
+
+- [Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos más afectados](https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/) (La Nacion)
 
 - [Tive dengue; quando posso me vacinar?](https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html) (Ig.com.br)
 
@@ -3086,6 +3100,18 @@ Source: [News API](https://newsapi.org/)
 - [Milei deja la atención sanitaria al libre mercado en la peor epidemia de dengue](https://www.meneame.net/m/actualidad/milei-deja-atencion-sanitaria-libre-mercado-peor-epidemia-dengue) (Meneame.net)
 
 - [Milei decide no vacunar contra la epidemia de dengue y su ministro de Salud pide que no lleven pantalones cortos](https://www.meneame.net/m/politica/milei-decide-no-vacunar-contra-epidemia-dengue-ministro-salud-no) (Meneame.net)
+
+- [Fuerte suba: el país supera los 200.000 casos de dengue en lo que va del año y ya es un 54% más que en todo 2023](https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/) (La Nacion)
+
+- [Dá para ter dengue e Covid ao mesmo tempo?](https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html) (Terra.com.br)
+
+- [Ni el mosquito ni el clima: el otro factor de riesgo para la propagación del dengue que cada vez más señalan los expertos](https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/) (La Nacion)
+
+- [Guatemala y Panamá, los más afectados por ola de dengue en Centroamérica](https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783) (Montevideo.com.uy)
+
+- [Mortes por dengue no estado de São Paulo chegam a 221](https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221) (Metropoles.com)
+
+- [Se extiende el dengue por Centro y Sudamérica](https://www.jornada.com.mx/2024/04/07/mundo/022n1mun) (Jornada.com.mx)
 
 ## 24-15 (chikungunya)
 
