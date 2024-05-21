@@ -1,8 +1,332 @@
 {
-  "last_updated": "2024-05-21 07:06",
-  "count_articles_total": 1397,
-  "count_articles_new": 7,
+  "last_updated": "2024-05-21 19:05",
+  "count_articles_total": 1409,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 9338,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Bestadsontv.com",
+      "author": null,
+      "title": "Interactive ad: Sapolio: The Guardian Toad",
+      "description": "This year, Peru is historically facing the worst crisis of dengue. Almost 80% of the population in the most affected areas does not have access to clean water, forcing people to collect water in plastic containers from tanker trucks that distribute it from ho\u2026",
+      "url": "https://www.bestadsontv.com/ad/163266/Sapolio-The-Guardian-Toad",
+      "urlToImage": "https://www.bestadsontv.com/includes/image.php/def6f.png?height=400&width=400&image=/def6f.png",
+      "publishedAt": "2024-05-20 18:27:34",
+      "content": "This year, Peru is historically facing the worst crisis of dengue. Almost 80% of the population in the most affected areas does not have access to clean water, forcing people to collect water in plas\u2026 [+999 chars]",
+      "retrievedAt": "2024-05-21 19:05:48.697950",
+      "internal_id": "005f3d8d4b6c2c71e9c565aa4ad2a42c86cd95e834740b2a8254599e631780d2",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9336,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La OMS aprueba una nueva vacuna contra el dengue",
+      "description": "El producto requiere dos dosis que deben administrarse con un intervalo de tres meses.",
+      "url": "https://www.montevideo.com.uy/Salud/La-OMS-aprueba-una-nueva-vacuna-contra-el-dengue-uc888848",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202303/_W933_80/835767.jpg",
+      "publishedAt": "2024-05-20 17:41:00",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) anunci\u00f3 este mi\u00e9rcoles la validaci\u00f3n de una nueva vacuna contra el dengue, la japonesa TAK-003, en un momento de notable incremento de casos y fallecimient\u2026 [+2036 chars]",
+      "retrievedAt": "2024-05-21 19:05:48.684122",
+      "internal_id": "29ef02a91c0c6070e1b968ea7db8274370da2df19800bda85c6acb4a43db1406",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9342,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Mark Smith, Chris Thomas",
+      "title": "Mapping malaria in Africa: Climate change study predicts where mosquitoes will breed in future",
+      "description": "The relationship between climate and malaria transmission is complex and has been the subject of intense study for some three decades.",
+      "url": "https://phys.org/news/2024-05-malaria-africa-climate-mosquitoes-future.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/mosquitoes.jpg",
+      "publishedAt": "2024-05-20 17:07:39",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+6177 chars]",
+      "retrievedAt": "2024-05-21 19:05:49.399248",
+      "internal_id": "e0adaac767490971b0b6af4226f767d17fb8d592dfd41679fda03897c720f77f",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9340,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Boa Forma",
+      "title": "Entenda como a dengue pode afetar o c\u00e9rebro",
+      "description": "Neurocirurgi\u00e3 lista as complica\u00e7\u00f5es neurol\u00f3gicas que podem ocorrer em casos de dengue. Saiba mais!",
+      "url": "https://boaforma.abril.com.br/equilibrio/dengue-pode-afetar-o-cerebro/",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/20/652681402-dengue-afetar-o-cerebro.jpg",
+      "publishedAt": "2024-05-20 17:06:15",
+      "content": "A dengue \u00e9 transmitida por meio da picada da f\u00eamea do mosquito Aedes aegypti infectada por um dos quatro sorotipos do v\u00edrus (DEN-1, DEN-2, DEN-3 ou DEN-4). Neste ano, at\u00e9 o momento, o Brasil registra\u2026 [+1791 chars]",
+      "retrievedAt": "2024-05-21 19:05:48.719785",
+      "internal_id": "11021a26bb257103dabb2fdfd01ad27a87cc05d7724d6c2f64ebafb9b1d81c95",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9337,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tableless.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Qual o CID de suspeita de dengue?",
+      "description": "A Classifica\u00e7\u00e3o Internacional de Doen\u00e7as (CID) \u00e9 um sistema utilizado para padronizar a codifica\u00e7\u00e3o de doen\u00e7as e condi\u00e7\u00f5es de sa\u00fade em todo o mundo. No caso da suspeita de dengue, a CID-10 fornece c\u00f3digos espec\u00edficos para facilitar a identifica\u00e7\u00e3o e o registr\u2026",
+      "url": "https://tableless.com.br/qual-o-cid-de-suspeita-de-dengue/",
+      "urlToImage": "https://tableless.com.br/wp-content/uploads/2024/01/logo-tableless.svg",
+      "publishedAt": "2024-05-20 16:16:33",
+      "content": "A Classifica\u00e7\u00e3o Internacional de Doen\u00e7as (CID) \u00e9 um sistema utilizado para padronizar a codifica\u00e7\u00e3o de doen\u00e7as e condi\u00e7\u00f5es de sa\u00fade em todo o mundo. No caso da suspeita de dengue, a CID-10 fornece c\u00f3\u2026 [+12182 chars]",
+      "retrievedAt": "2024-05-21 19:05:48.688993",
+      "internal_id": "4e1135adf1ca2c6aaac81f6975fd89c7f1ac9aa1905284949ba227d9bdd10b5c",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9334,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Alphafreepress.gr",
+      "author": "\u0395\u03c5\u03c4\u03c5\u03c7\u03af\u03b1 \u03a0\u03b1\u03c0\u03bf\u03cd\u03bb\u03b9\u03b1",
+      "title": "\u0393\u03c1\u03af\u03c0\u03b7 \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd H5N1: \u03a0\u03af\u03bd\u03bf\u03c5\u03bd \u03b1\u03c0\u03b1\u03c3\u03c4\u03b5\u03c1\u03af\u03c9\u03c4\u03bf \u03b3\u03ac\u03bb\u03b1 \u03bc\u03bf\u03bb\u03c5\u03c3\u03bc\u03ad\u03bd\u03bf \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03bf\u03c5\u03bd \u03b1\u03bd\u03bf\u03c3\u03af\u03b1",
+      "description": "\u0393\u03c1\u03af\u03c0\u03b7 \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd H5N1: \u00ab\u03a3\u03b1\u03bd \u03c1\u03c9\u03c3\u03b9\u03ba\u03ae \u03c1\u03bf\u03c5\u03bb\u03ad\u03c4\u03b1\u00bb",
+      "url": "https://www.alphafreepress.gr/2024/05/20/kosmos/gripi-ptinon-h5n1-pinoun-apasterioto-gala-molysmeno-gia-na-apoktisoun-anosia/",
+      "urlToImage": "https://www.alphafreepress.gr/wp-content/uploads/2024/03/gala-dimitriaka-scaled.jpg",
+      "publishedAt": "2024-05-20 16:00:55",
+      "content": "H5N1 . Mark McAfee, , Los Angeles Times \u00ab H5N1 \u00bb. , 100 . , H5N1. , , , . H5N1 36 , , . - . \u00ab \u00bb \u00ab \u00bb, , . \u00ab \u00bb. 36 , . , . . \u00ab -, , \u00bb, Nature . , . . \u00ab H5N1 , , \u00bb, , .",
+      "retrievedAt": "2024-05-21 19:05:48.124172",
+      "internal_id": "a7146c931db38d2c1123b1403eb928f5f0d83f490cbbca894636902657b96763",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9345,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Alex Thomas",
+      "title": "Monkeypox: Deadly New Form Poses A \u201cGlobal Threat\u201d",
+      "description": "The Centers for Disease Control and Prevention in the United States is warning that a deadly new strain of mpox (formerly known as monkeypox) is spreading in the Democratic Republic of Congo (DRC). More people have become infected with this form of mpox, and \u2026",
+      "url": "https://www.shtfplan.com/headline-news/monkeypox-deadly-new-form-poses-a-global-threat",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2022/06/monkeypox2.jpeg",
+      "publishedAt": "2024-05-20 15:00:31",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2024-05-21 19:05:49.978013",
+      "internal_id": "74b6134b615a0f2b27df8dd775365b529b0c87a8521f30c5f310ba0e20c9c5af",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9330,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yan Liu, Chao Zhang, Yuda Wang, Xiaofu Luo, Guangtao Liu, Zizhe Zhang, Jianyong Shen",
+      "title": "Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study",
+      "description": "Purpose The resurgence of pertussis has occurred around the world. However, the epidemiological profiles of pertussis cannot be well understood by current diseases surveillance. This study was designed to understand the seroepidemiological characteristics of \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0303508.t005&size=inline",
+      "publishedAt": "2024-05-20 14:00:00",
+      "content": "Citation: Liu Y, Zhang C, Wang Y, Luo X, Liu G, Zhang Z, et al. (2024) Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study. PLoS ONE 19(5): e0303508. https://doi.org\u2026 [+24784 chars]",
+      "retrievedAt": "2024-05-21 19:05:46.983874",
+      "internal_id": "1b58f483f3c5189d0fca0f85bd365e992988da63f531c8afd70ee29af5a4aa20",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9339,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Etienne Frumence, David A. Wilkinson, Raphaelle Klitting, Muriel Vincent, Nicolas Mnemosyme, Gilda Grard, Nicolas Traversier, Ghislaine Li-Pat-Yuen, Diana Heaugwane, Laurent Souply, Claude Giry, Marie-Claire Paty, Louis Collet, Local Laboratory Network, Patrick G\u00e9rardin, Fabian Thouillot, Xavier De Lamballerie, Marie-Christine Jaffar-Bandjee",
+      "title": "Dynamics of emergence and genetic diversity of dengue virus in Reunion Island from 2012 to 2022",
+      "description": "Author summary This study, conducted from 2012 to 2022, aimed at understanding the dynamics and genetic diversity of dengue virus on Reunion Island, a French overseas department located in the southwestern Indian Ocean, which is regularly affected by dengue e\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012184",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012184.g007&size=inline",
+      "publishedAt": "2024-05-20 14:00:00",
+      "content": "Abstract Background Dengue is a major public health concern in Reunion Island, marked by recurrent epidemics, including successive outbreaks of dengue virus serotypes 1 and 2 (DENV1 and DENV2) with\u2026 [+44829 chars]",
+      "retrievedAt": "2024-05-21 19:05:48.709888",
+      "internal_id": "13600ce546b74fc2f4a79784cd859dd6aad1270dcc2364c460a434498ee10b2b",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9347,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Wim P. Burmeister, Laetitia Boutin, Aurelia C. Balestra, Henri Gr\u00f6ger, Allison Ballandras-Colas, Stephanie Hutin, Christian Kraft, Clemens Grimm, Bettina B\u00f6ttcher, Utz Fischer, Nicolas Tarbouriech, Fr\u00e9d\u00e9ric Iseni",
+      "title": "Structure and flexibility of the DNA polymerase holoenzyme of vaccinia virus",
+      "description": "Author summary The 2022 outbreak of mpox is caused by monkeypox virus closely related to the best-studied model, vaccinia virus. Genome replication, which takes place largely autonomously in the cytosol of the infected cell, is still not really understood. Vi\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011652",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011652.g005&size=inline",
+      "publishedAt": "2024-05-20 14:00:00",
+      "content": "Abstract The year 2022 was marked by the mpox outbreak caused by the human monkeypox virus (MPXV), which is approximately 98% identical to the vaccinia virus (VACV) at the sequence level with regard\u2026 [+62199 chars]",
+      "retrievedAt": "2024-05-21 19:05:49.997197",
+      "internal_id": "94b6591939eac53ed938eb7e69122287134af368cae633bbcf655f11c8801444",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9335,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zive.cz",
+      "author": "Karel Kili\u00e1n",
+      "title": "Virus pta\u010d\u00ed ch\u0159ipky m\u016f\u017ee p\u0159e\u017e\u00edt v nedostate\u010dn\u011b tepeln\u011b upraven\u00e9m hov\u011bz\u00edm mase",
+      "description": "",
+      "url": "https://vtm.zive.cz/clanky/virus-ptaci-chripky-muze-prezit-v-nedostatecne-tepelne-upravenem-hovezim-mase/sc-870-a-228218/default.aspx",
+      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=16416799",
+      "publishedAt": "2024-05-20 13:45:00",
+      "content": "Na farm\u00e1ch ve Spojen\u00fdch st\u00e1tech se u nkolik t\u00fddn \u00ed\u00ed mezi hovz\u00edm dobytkem virus pta\u00ed chipky H5N1. Vdci a dal\u00ed odborn\u00edci se proto sna\u00ed zjistit, zda a p\u00edpadn za jak\u00fdch okolnost\u00ed me b\u00fdt nebezpen\u00fd pro lov\u2026 [+2393 chars]",
+      "retrievedAt": "2024-05-21 19:05:48.156385",
+      "internal_id": "67ec3c1c42062978fbeb25644b42da6502fbb4a4243e6e5384f059750c60207c",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9332,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Alexa Coultoff",
+      "title": "Six things to know about bird flu in milk.",
+      "description": "What is pasteurization? Is organic milk safer? What about yogurt?",
+      "url": "https://www.bostonglobe.com/2024/05/20/metro/bird-flu-virus-milk-raw-milk/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/mtWYCXL-gbsh2eq13Jp8p1eSZCU=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7M2GHZ22P66A55MHRCICLA2NUA.jpg",
+      "publishedAt": "2024-05-20 12:15:28",
+      "content": "Heres what you need to know. In short, yes. The pasteurization process kills harmful bacteria and viruses, and experts say that translates to H5N1 particles, too. Elyse Stachler, a research scient\u2026 [+3540 chars]",
+      "retrievedAt": "2024-05-21 19:05:48.103336",
+      "internal_id": "4cc40a6eb679a4ebda5ecf5bea4b98660bf026b2678c05f093587c95695be1c2",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9346,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Entekhab.ir",
+      "author": "info@entekhab.ir",
+      "title": "\u0634\u06cc\u0648\u0639 \u06cc\u06a9 \u0628\u06cc\u0645\u0627\u0631\u06cc \u06a9\u0634\u0646\u062f\u0647 \u062f\u0631 \u0622\u0641\u0631\u06cc\u0642\u0627 \u062e\u0628\u0631\u0633\u0627\u0632 \u0634\u062f",
+      "description": "\u06a9\u0634\u0648\u0631 \u06a9\u0646\u06af\u0648 \u062f\u0631 \u062d\u0627\u0644 \u0645\u0628\u0627\u0631\u0632\u0647 \u0628\u0627 \u062a\u0639\u062f\u0627\u062f \u0628\u06cc \u0633\u0627\u0628\u0642\u0647 \u0627\u06cc \u0627\u0632 \u0645\u0648\u0627\u0631\u062f \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646 \u0627\u0633\u062a \u06a9\u0647 \u0646\u0627\u0634\u06cc \u0627\u0632 \u0633\u0648\u06cc\u0647 \u0627\u06cc \u0628\u0627 \u0646\u0631\u062e \u0645\u0631\u06af \u0648 \u0645\u06cc\u0631 \u0628\u0627\u0644\u0627\u06cc\u06cc \u0627\u0633\u062a.",
+      "url": "https://www.entekhab.ir/fa/news/784721/\u0634\u06cc\u0648\u0639-\u06cc\u06a9-\u0628\u06cc\u0645\u0627\u0631\u06cc-\u06a9\u0634\u0646\u062f\u0647-\u062f\u0631-\u0622\u0641\u0631\u06cc\u0642\u0627-\u062e\u0628\u0631\u0633\u0627\u0632-\u0634\u062f",
+      "urlToImage": "https://cdn.entekhab.ir/files/fa/news/1403/2/31/1673261_795.jpg",
+      "publishedAt": "2024-05-20 12:01:01",
+      "content": "(Entekhab.ir) : . : . \u00ab \u00bb : \u00ab clade I mpox .\u00bb mpox ( ) clade II . . . . clade mpox . . clade mpox : \" \" -- . : : clade I mpox . : () () . Mpox . . mpox HIV . Mpox .",
+      "retrievedAt": "2024-05-21 19:05:49.982869",
+      "internal_id": "f743e5e0d2550e7fac7473d8667232a0c95f24240b364c887c8f5b57a84ce184",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9331,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Katherine J. Wu",
+      "title": "The Bird-Flu Host We Should Worry About",
+      "description": "Pigs have a track record of hosting flu viruses that jump to us.",
+      "url": "https://www.theatlantic.com/science/archive/2024/05/bird-flu-h5n1-cows-pigs/678407/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2024-05-20 11:00:00",
+      "content": "Of all the creatures stricken with this new and terrible H5N1 flu\u2014the foxes, the bears, the eagles, ducks, chickens, and many other birds\u2014dairy cattle are some of the most intimate with us. In the Un\u2026 [+6883 chars]",
+      "retrievedAt": "2024-05-21 19:05:48.088809",
+      "internal_id": "0b6a45f2fbc669946f4817883641a39168875c8019a9927bd0055395f63696a4",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9343,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa",
+      "description": "Serum Institute of India (SII) commenced exporting the 'R21/Matrix-M' malaria vaccine to Africa in collaboration with the University of Oxford and Novavax. The initial shipment, directed to the Central African Republic, is part of efforts to combat malaria in\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-110272543,width-1200,height-630,imgsize-29322,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-05-20 10:41:04",
+      "content": "Vaccines manufacturer Serum Institute of India (SII) on Monday said it has started exports of 'R21/Matrix-M' malaria vaccine to Africa as part of the global fight against the disease. Developed in co\u2026 [+2161 chars]",
+      "retrievedAt": "2024-05-21 19:05:49.408442",
+      "internal_id": "ab26722d075749eb55a4817a69b48179db30480345c961f976421b6483467b6e",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9344,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "Our Bureau",
+      "title": "Serum Institute ships first R21/Matrix-M malaria vaccine to Africa",
+      "description": "Developed in collaboration with the University of Oxford and Novavax, this vaccine is the second malaria vaccine authorized globally for children in malaria-endemic regions",
+      "url": "https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/extczo/article68196073.ece/alternates/LANDSCAPE_1200/serum%20institute%20of%20india.jpg",
+      "publishedAt": "2024-05-20 10:17:56",
+      "content": "Vaccine makerSerum Institute of India has shipped its first R21/Matrix-M malaria vaccine consignment to Africa. This is the second malaria vaccine authorised globally for children in malaria-endemi\u2026 [+2532 chars]",
+      "retrievedAt": "2024-05-21 19:05:49.417096",
+      "internal_id": "02c0cf13b8574ce62dfa8e58e897ac8fe946e665cf93c36cde994c0e52ab3181",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9333,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "new-york-magazine",
+      "source_name": "New York Magazine",
+      "author": "Benjamin Hart",
+      "title": "We Don\u2019t Know How Bad Bird Flu Is Getting",
+      "description": "Epidemiologist Katelyn Jetelina says we don\u2019t understand the full extent of the bird-flu outbreak, in part because authorities are making familiar some familiar mistakes.",
+      "url": "http://nymag.com/intelligencer/article/we-dont-know-how-bad-bird-flu-is-getting.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/96a/e89/e5f0c80f21170d8999024e6f31bd44ba8d-just-asking-Qs-02-cows-virus.1x.rsocial.w1200.jpg",
+      "publishedAt": "2024-05-20 10:00:44",
+      "content": "The H5N1 influenza has killed tens of millions of birds over the last few years, and its not slowing down. Instead, it has confounded expectations by spreading into animals once thought immune, and e\u2026 [+10907 chars]",
+      "retrievedAt": "2024-05-21 19:05:48.115190",
+      "internal_id": "831a404fa420f69e998872ba1a2e2241560eedd35e29806f80eecc9012f5b475",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9341,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Angela Hart",
+      "title": "Newsom Boosted California\u2019s Public Health Budget During Covid. Now He Wants To Cut It.",
+      "description": "Two years after increasing state and local public health budgets by $300 million annually, Gov. Gavin Newsom proposes to slash the funding in the face of California\u2019s $45 billion deficit.",
+      "url": "https://kffhealthnews.org/news/article/gavin-newsom-california-public-health-budget-cuts/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/05/GettyImages-1898126649-resized.jpg",
+      "publishedAt": "2024-05-20 09:00:00",
+      "content": "Angela HartWhen a doctor in Pasadena, California, reported in October that a hospital patient was exhibiting classic symptoms of dengue fever, such as vomiting, a rash, and bone and joint pain, local\u2026 [+6186 chars]",
+      "retrievedAt": "2024-05-21 19:05:48.770909",
+      "internal_id": "cb311c6a1ec2afa2d5bd0703dfe648933266d788f67cc8110938153de1dd42fe",
+      "publishedAtLabel": "May 20"
+    },
     {
       "id": 9325,
       "query": [
@@ -25111,114 +25435,6 @@
       "content": "Y mi libertad para ponerme pantalones cortos donde queda?",
       "retrievedAt": "2024-04-09 07:06:08.712972",
       "internal_id": "564eaa099fad3e9e030239277c6cdafbee9450adad7d93e58af268a0594fefaa",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7942,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "Fuerte suba: el pa\u00eds supera los 200.000 casos de dengue en lo que va del a\u00f1o y ya es un 54% m\u00e1s que en todo 2023",
-      "description": "Se trata de una epidemia hist\u00f3rica; se reportaron 52.000 contagios en solo una semana y siguen las muertes",
-      "url": "https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/crecen-los-casos-de-dengue-en-el-pais-en-la-mayor-QYAJYSTDSZF5PD4WXL3D5ZILTI.jpeg?auth=5f1c2364d22e8b2da51c77c2e8b8c3729cb36f994b437dfbc620951760756998&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-07 18:47:52",
-      "content": "La mayorepidemia de dengue que enfrent\u00f3 hasta el momento el pa\u00eds super\u00f3 en las primeras 13 semanas de este a\u00f1o todos los casos acumulados en 2023. Si bien la comparaci\u00f3n es relativa, ya que parte de \u2026 [+2070 chars]",
-      "retrievedAt": "2024-04-09 07:06:08.813194",
-      "internal_id": "5ae38315a34a819009e3d3695aa2233437700668fedf9dfbf695abc344fbe9d9",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7923,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Jairo Bouer - Parceria",
-      "title": "D\u00e1 para ter dengue e Covid ao mesmo tempo?",
-      "description": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/07/421659606-istockfebre.jpg",
-      "publishedAt": "2024-04-07 17:00:11",
-      "content": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da dengue podem variar muito. Algumas pessoas t\u00eam sintomas muito intensos, outras t\u00eam sintomas mais ameno\u2026 [+744 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.883513",
-      "internal_id": "b4dc4a1fa650323a01ee2adb93db0abdfe0c5773905c5f3ed124518b1d86a87c",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7938,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Gabriela Origlia",
-      "title": "Ni el mosquito ni el clima: el otro factor de riesgo para la propagaci\u00f3n del dengue que cada vez m\u00e1s se\u00f1alan los expertos",
-      "description": "Si bien lo definen como \u201cuna enfermedad democr\u00e1tica\u201d, aparece un v\u00ednculo entre la infecci\u00f3n y la pobreza; causas y recomendaciones",
-      "url": "https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-viviendas-deficitarias-y-el-mal-tratamiento-W53O4OXG4VGM3P3AW2AWYOUXZU.JPG?auth=a694e5614bba61de5f61241698439dc471693c36b6ba15080dd617922fb81b97&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-07 15:40:41",
-      "content": "C\u00d3RDOBA. La Argentina atraviesa la peor epidemia de dengue desde 2009, con m\u00e1s de 180.000 casos diagnosticados (se estima que son a\u00fan m\u00e1s los no contabilizados) y 129 muertos, ysi bien se trata de un\u2026 [+6615 chars]",
-      "retrievedAt": "2024-04-09 07:06:08.797282",
-      "internal_id": "895f61ac4f89945e048be9bf10fe73c20337a21fad96b9b43ccd3539d23a334f",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7921,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Guatemala y Panam\u00e1, los m\u00e1s afectados por ola de dengue en Centroam\u00e9rica",
-      "description": "En Nicaragua, El Salvador y Costa Rica no hay muertos por la enfermedad en 2024. En Honduras, hay cuatro muertos y 8.000 casos.",
-      "url": "https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201807/_W933_80/659534.jpg",
-      "publishedAt": "2024-04-07 14:35:00",
-      "content": "Al menos 20 personas han muerto y m\u00e1s de 30.000 han sido contagiadas por una ola de dengue en Centroam\u00e9rica, donde Guatemala y Panam\u00e1 tienen este a\u00f1o el mayor balance de fallecidos. La Organizaci\u2026 [+2002 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.847014",
-      "internal_id": "f64089a353c82f065f153c6ffcc5e560f2302bf0f4a4afd5eccc6c82e9582f03",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7920,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Luiz Vassallo",
-      "title": "Mortes por dengue no estado de S\u00e3o Paulo chegam a 221",
-      "description": "Em todo o estado h\u00e1 485 mortes em investiga\u00e7\u00e3o; foram 456.427 casos confirmados ao longo do ano",
-      "url": "https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
-      "publishedAt": "2024-04-07 12:45:16",
-      "content": "S\u00e3o Paulo \u2013 O n\u00famero de mortes em raz\u00e3o de casos de dengue em 2023 chegou a 221 no estado de S\u00e3o Paulo, segundo dados da Secretaria estadual da Sa\u00fade. A pasta registra outros 485 \u00f3bitos em investiga\u00e7\u2026 [+1717 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.833995",
-      "internal_id": "c06f158d1bd95cc31be047934a0d7249a68a4a474a320378fb6e73265eb8d7e5",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7922,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Se extiende el dengue por Centro y Sudam\u00e9rica",
-      "description": "R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su \u201cpeor temporada de dengue\u201d, una \u201cenfermedad febril que afecta a lactantes, ni\u00f1os y adultos\u201d describe el organismo.",
-      "url": "https://www.jornada.com.mx/2024/04/07/mundo/022n1mun",
-      "urlToImage": "https://www.jornada.com.mx/2024/04/07/fotos/022n1mun-1.jpg",
-      "publishedAt": "2024-04-07 12:01:17",
-      "content": "Peri\u00f3dico La JornadaDomingo 7 de abril de 2024, p. 22 R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su peor temporada de dengue, una enfermedad febril que afecta a lactantes,\u2026 [+2321 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.866530",
-      "internal_id": "1ef59dff7bdcee691defb5d888bbdeb9c3e0abea41a52c5bae2169c80bdad59e",
       "publishedAtLabel": "Apr 7"
     }
   ]

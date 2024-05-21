@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-05-21 07:06
-- **Most recent article:** 2024-05-20 05:00:11
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-05-21 19:05
+- **Most recent article:** 2024-05-20 18:27:34
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 137 | 113 | 117 | 77 | 57 | 87 | 9 | 597 |
-| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 1 | 190 |
+| dengue | 131 | 113 | 117 | 77 | 57 | 87 | 15 | 597 |
+| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 4 | 193 |
 | measles | 43 | 40 | 28 | 24 | 10 | 29 | 0 | 174 |
-| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 3 | 123 |
+| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 8 | 128 |
 | meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 0 | 80 |
-| mpox | 3 | 13 | 8 | 36 | 3 | 10 | 1 | 74 |
+| mpox | 3 | 13 | 8 | 36 | 3 | 10 | 4 | 77 |
 | rabies | 8 | 3 | 3 | 4 | 22 | 10 | 0 | 50 |
 | chikungunya | 7 | 5 | 5 | 7 | 5 | 12 | 0 | 41 |
 | zika | 10 | 8 | 3 | 8 | 2 | 6 | 0 | 37 |
-| pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 1 | 34 |
+| pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 2 | 35 |
 | sarampión | 13 | 0 | 10 | 8 | 1 | 0 | 0 | 32 |
 | leptospirosis | 3 | 3 | 3 | 2 | 1 | 3 | 0 | 15 |
 | yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 0 | 8 |
@@ -35,17 +35,41 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (pertussis)
 
+- [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
+
 - [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
 
 ## 24-21 (mpox)
+
+- [Monkeypox: Deadly New Form Poses A “Global Threat”](https://www.shtfplan.com/headline-news/monkeypox-deadly-new-form-poses-a-global-threat) (Shtfplan.com)
+
+- [Structure and flexibility of the DNA polymerase holoenzyme of vaccinia virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011652) (Plos.org)
+
+- [شیوع یک بیماری کشنده در آفریقا خبرساز شد](https://www.entekhab.ir/fa/news/784721/شیوع-یک-بیماری-کشنده-در-آفریقا-خبرساز-شد) (Entekhab.ir)
 
 - [Deadly new strain of monkeypox in Africa virus raises concerns of spread](https://www.jpost.com/health-and-wellness/article-801670) (The Jerusalem Post)
 
 ## 24-21 (malaria)
 
+- [Mapping malaria in Africa: Climate change study predicts where mosquitoes will breed in future](https://phys.org/news/2024-05-malaria-africa-climate-mosquitoes-future.html) (Phys.Org)
+
+- [SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms) (The Times of India)
+
+- [Serum Institute ships first R21/Matrix-M malaria vaccine to Africa](https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece) (BusinessLine)
+
 - [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (h5n1)
+
+- [Γρίπη πτηνών H5N1: Πίνουν απαστερίωτο γάλα μολυσμένο για να αποκτήσουν ανοσία](https://www.alphafreepress.gr/2024/05/20/kosmos/gripi-ptinon-h5n1-pinoun-apasterioto-gala-molysmeno-gia-na-apoktisoun-anosia/) (Alphafreepress.gr)
+
+- [Virus ptačí chřipky může přežít v nedostatečně tepelně upraveném hovězím mase](https://vtm.zive.cz/clanky/virus-ptaci-chripky-muze-prezit-v-nedostatecne-tepelne-upravenem-hovezim-mase/sc-870-a-228218/default.aspx) (Zive.cz)
+
+- [Six things to know about bird flu in milk.](https://www.bostonglobe.com/2024/05/20/metro/bird-flu-virus-milk-raw-milk/) (The Boston Globe)
+
+- [The Bird-Flu Host We Should Worry About](https://www.theatlantic.com/science/archive/2024/05/bird-flu-h5n1-cows-pigs/678407/?utm_source=feed) (The Atlantic)
+
+- [We Don’t Know How Bad Bird Flu Is Getting](http://nymag.com/intelligencer/article/we-dont-know-how-bad-bird-flu-is-getting.html) (New York Magazine)
 
 - [Is bird flu close to causing the next global infectious disease pandemic?](https://www.irishtimes.com/health/your-wellness/2024/05/20/is-bird-flu-close-to-causing-the-next-global-infectious-disease-pandemic/) (The Irish Times)
 
@@ -54,6 +78,18 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, in Usa gli allevatori contro i controlli nelle fattorie. I funzionari dei Cdc ricorrono ai veterinari locali](https://www.ilfattoquotidiano.it/2024/05/19/aviaria-in-usa-gli-allevatori-contro-i-controlli-nelle-fattorie-i-funzionari-dei-cdc-ricorrono-ai-veterinari-locali/7551261/) (Ilfattoquotidiano.it)
 
 ## 24-21 (dengue)
+
+- [Interactive ad: Sapolio: The Guardian Toad](https://www.bestadsontv.com/ad/163266/Sapolio-The-Guardian-Toad) (Bestadsontv.com)
+
+- [La OMS aprueba una nueva vacuna contra el dengue](https://www.montevideo.com.uy/Salud/La-OMS-aprueba-una-nueva-vacuna-contra-el-dengue-uc888848) (Montevideo.com.uy)
+
+- [Entenda como a dengue pode afetar o cérebro](https://boaforma.abril.com.br/equilibrio/dengue-pode-afetar-o-cerebro/) (Abril.com.br)
+
+- [Qual o CID de suspeita de dengue?](https://tableless.com.br/qual-o-cid-de-suspeita-de-dengue/) (Tableless.com.br)
+
+- [Dynamics of emergence and genetic diversity of dengue virus in Reunion Island from 2012 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012184) (Plos.org)
+
+- [Newsom Boosted California’s Public Health Budget During Covid. Now He Wants To Cut It.](https://kffhealthnews.org/news/article/gavin-newsom-california-public-health-budget-cuts/) (Kffhealthnews.org)
 
 - [Epidemia de dengue deve voltar em novembro, alertam especialistas](https://www.metropoles.com/saude/epidemia-de-dengue-em-novembro) (Metropoles.com)
 
@@ -3100,18 +3136,6 @@ Source: [News API](https://newsapi.org/)
 - [Milei deja la atención sanitaria al libre mercado en la peor epidemia de dengue](https://www.meneame.net/m/actualidad/milei-deja-atencion-sanitaria-libre-mercado-peor-epidemia-dengue) (Meneame.net)
 
 - [Milei decide no vacunar contra la epidemia de dengue y su ministro de Salud pide que no lleven pantalones cortos](https://www.meneame.net/m/politica/milei-decide-no-vacunar-contra-epidemia-dengue-ministro-salud-no) (Meneame.net)
-
-- [Fuerte suba: el país supera los 200.000 casos de dengue en lo que va del año y ya es un 54% más que en todo 2023](https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/) (La Nacion)
-
-- [Dá para ter dengue e Covid ao mesmo tempo?](https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html) (Terra.com.br)
-
-- [Ni el mosquito ni el clima: el otro factor de riesgo para la propagación del dengue que cada vez más señalan los expertos](https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/) (La Nacion)
-
-- [Guatemala y Panamá, los más afectados por ola de dengue en Centroamérica](https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783) (Montevideo.com.uy)
-
-- [Mortes por dengue no estado de São Paulo chegam a 221](https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221) (Metropoles.com)
-
-- [Se extiende el dengue por Centro y Sudamérica](https://www.jornada.com.mx/2024/04/07/mundo/022n1mun) (Jornada.com.mx)
 
 ## 24-15 (chikungunya)
 
