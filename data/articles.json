@@ -1,8 +1,532 @@
 {
-  "last_updated": "2024-05-22 07:06",
-  "count_articles_total": 1432,
-  "count_articles_new": 17,
+  "last_updated": "2024-05-22 19:05",
+  "count_articles_total": 1455,
+  "count_articles_new": 29,
   "articles": [
+    {
+      "id": 9376,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheit: Mehr als f\u00fcnf Millionen Dengue-F\u00e4lle in Brasilien",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheit\u201c. Lesen Sie jetzt \u201eMehr als f\u00fcnf Millionen Dengue-F\u00e4lle in Brasilien\u201c.",
+      "url": "https://www.zeit.de/news/2024-05/21/mehr-als-fuenf-millionen-dengue-faelle-in-brasilien",
+      "urlToImage": "https://img.zeit.de/news/2024-05/21/mehr-als-fuenf-millionen-dengue-faelle-in-brasilien-image-group/wide__1300x731",
+      "publishedAt": "2024-05-21 19:02:21",
+      "content": "Die Dengue-Epidemie in Brasilien greift immer weiter um sich. Seit Jahresbeginn wurden in dem s\u00fcdamerikanischen Land 5,1 Millionen best\u00e4tigte und wahrscheinliche Infektionen mit dem Dengue-Virus regi\u2026 [+906 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.511822",
+      "internal_id": "e5667d44eac748c1f16c6b6597af8e95fbd6be047c05e333e8c437d2406ea3d2",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9378,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheit: Mehr als f\u00fcnf Millionen Dengue-F\u00e4lle in Brasilien",
+      "description": "Rio de Janeiro - Die Dengue-Epidemie in Brasilien greift immer weiter um sich. Seit Jahresbeginn wurden in dem s\u00fcdamerikanischen Land 5,1 Millionen",
+      "url": "https://www.stern.de/panorama/wissen/krankheit--mehr-als-fuenf-millionen-dengue-faelle-in-brasilien-34729962.html",
+      "urlToImage": "https://image.stern.de/34729964/t/0a/v1/w1440/r1.7778/-/21--urnnewsmldpacom2009010124052199116209v2w800h600l278t236r1278b900jpeg---632c705d7dc86fc7.jpg",
+      "publishedAt": "2024-05-21 19:02:21",
+      "content": "Das s\u00fcdamerikanische Land leidet unter der schwersten Dengue-Epidemie seiner Geschichte. Fast 3000 Menschen sind bereits an dem Virus gestorben. Die Dengue-Epidemie in Brasilien greift immer weiter \u2026 [+1022 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.521104",
+      "internal_id": "37c46e806d8658fb66d2ea7b392de0ae1baa35ba15a12082a541855796fb7dcb",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9385,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Brasil ultrapassa 5 milh\u00f5es de casos prov\u00e1veis de dengue; n\u00famero \u00e9 tr\u00eas vezes superior ao de 2023",
+      "description": "Proje\u00e7\u00e3o feita pelo Minist\u00e9rio da Sa\u00fade em janeiro deste ano indicava que total de casos em 2024 seria de 4,2 milh\u00f5es",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/brasil-ultrapassa-5-milhoes-de-casos-provaveis-de-dengue-numero-e-tres-vezes-superior-ao-de-2023,807d794e3e36550fd3019cca03294d3bzpx4t4fp.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-05-21 18:52:36",
+      "content": "Na \u00faltima segunda-feira, 20, o Brasil ultrapassou os 5 milh\u00f5es de casos prov\u00e1veis de dengue, totalizando 5.100.766 registros da doen\u00e7a. O n\u00famero \u00e9 tr\u00eas vezes superior ao do ano passado, quando foram \u2026 [+2183 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.631322",
+      "internal_id": "d4d316de603e897451997e20d3ad7989554b4aeaa9da6f3d00715f7aeca9a558",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9379,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / JGE",
+      "title": "Brasil supera los cinco millones de casos de dengue en 2024",
+      "description": "La estimaci\u00f3n del Ministerio de Salud era que Brasil registrara unos 4.2 millones de casos a lo largo de este a\u00f1o, una cifra ya superada cuando a\u00fan no se ha completado el primer semestre.",
+      "url": "https://aristeguinoticias.com/2105/mundo/brasil-supera-los-cinco-millones-de-casos-de-dengue-en-2024/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/03/dengue-temporada-america-2832024.jpg",
+      "publishedAt": "2024-05-21 18:40:06",
+      "content": "El Ministerio de Salud de Brasil confirm\u00f3 que el pa\u00eds ya super\u00f3 los cinco millones de casos de dengue en 2024, una cifra r\u00e9cord desde que se inici\u00f3 la serie hist\u00f3rica en el a\u00f1o 2000. Adem\u00e1s, m\u00e1s de 2\u2026 [+1163 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.532309",
+      "internal_id": "a2a5b20b3e9c0cb4ad80a8ef1969a7c7aa66af3aeb54a5ecd345ebe090f0952e",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9367,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Anna Zarra Aldrich",
+      "title": "Lab sequences rabies in infected black bear",
+      "description": "The Connecticut Veterinary Medical Diagnostic Laboratory (CVMDL) located within UConn's College of Agriculture, Health and Natural Resources (CAHNR) has sequenced a case of rabies from a black bear found in the state.",
+      "url": "https://phys.org/news/2024-05-lab-sequences-rabies-infected-black.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/lab-sequences-rabies-i.jpg",
+      "publishedAt": "2024-05-21 18:32:04",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+4366 chars]",
+      "retrievedAt": "2024-05-22 19:05:22.307330",
+      "internal_id": "27b15710fe89214f663e723b014bfb6cc15ace99e7db94366b24b320326c91e3",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9393,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Body lice may be bigger plague spreaders than previously thought",
+      "description": "A new laboratory study suggests that human body lice are more efficient at transmitting Yersinia pestis, the bacterium that causes plague, than previously thought, supporting the possibility that they may have contributed to past pandemics.",
+      "url": "https://phys.org/news/2024-05-body-lice-bigger-plague-spreaders.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/body-lice-may-be-bigge.jpg",
+      "publishedAt": "2024-05-21 18:00:01",
+      "content": "A new laboratory study suggests that human body lice are more efficient at transmitting Yersinia pestis, the bacterium that causes plague, than previously thought, supporting the possibility that the\u2026 [+3216 chars]",
+      "retrievedAt": "2024-05-22 19:05:26.056945",
+      "internal_id": "28f02a6e5fc07a065aec4d2cce665638076d773208b621ed94c4a830c9d175c0",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9383,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Brasil supera los cinco millones de casos probables de dengue en 2024",
+      "description": "La tasa de incidencia cada 100.000 habitantes es de 2.511,9 casos y la de muertes se sit\u00faa en 4,83.",
+      "url": "https://www.montevideo.com.uy/Salud/Brasil-supera-los-cinco-millones-de-casos-probables-de-dengue-en-2024-uc888961",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201301/_W933_80/389581.jpg",
+      "publishedAt": "2024-05-21 17:53:00",
+      "content": "Brasil ha superado los cinco millones de casos probables de dengue este a\u00f1o y, pese a que la incidencia de la epidemia ha ca\u00eddo, ha llegado a 2.827 muertes por esa enfermedad desde enero pasado, i\u2026 [+1341 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.587460",
+      "internal_id": "0213488df484de0dc880402cfee340441eed252939d64b1af33cb5dd2bc80449",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9381,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "J\u00e9ssica Ribeiro",
+      "title": "Preso por stalking, DJ alega estar com dengue e \u00e9 encaminhado a UBS",
+      "description": "O DJ Pedro Humberto Ramos foi detido pela PCDF por stalkear, amea\u00e7ar e divulgar nudes da ex-namorada, de 21 anos",
+      "url": "https://www.metropoles.com/distrito-federal/preso-por-stalking-dj-alega-estar-com-dengue-e-e-encaminhado-a-ubs",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/05/19134521/dj2.jpg",
+      "publishedAt": "2024-05-21 17:04:26",
+      "content": "O DJ Pedro Humberto Ramos (foto em destaque), 34 anos, preso por stalking, foi encaminhado a uma Unidade B\u00e1sica de Sa\u00fade (UBS) na Divis\u00e3o de Controle e Cust\u00f3dia de Presos (DCCP) por alegar estar com \u2026 [+3402 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.574458",
+      "internal_id": "e2d24fd1b98981d8ed501fd2467f584c2e68d9e3e2b9bdb480e4b7b65ffe5b36",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9366,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Rabies outbreaks in Costa Rica cattle linked to deforestation",
+      "description": "Deforestation in Costa Rica raises the risk of cattle becoming infected with rabies by vampire bats, finds a new study.",
+      "url": "https://www.sciencedaily.com/releases/2024/05/240521124318.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-05-21 16:43:18",
+      "content": "Deforestation in Costa Rica raises the risk of cattle becoming infected with rabies by vampire bats, finds a new study. Emerging Infectious Diseases published the research by disease ecologists at Em\u2026 [+5401 chars]",
+      "retrievedAt": "2024-05-22 19:05:22.302109",
+      "internal_id": "77afd60f2b062bdba09c66a3b45917438d73c04586aed8334ad58f9249c3301b",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9370,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Jamanetwork.com",
+      "author": "Noah Kojima, MD",
+      "title": "US Public Health Preparedness and Response to Highly Pathogenic Avian Influenza A(H5N1) Viruses",
+      "description": "US public health preparedness and response to highly pathogenic avian influenza A(H5N1) viruses are assessed in this survey study conducted by the CDC.",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2819159",
+      "urlToImage": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jld240039t1_1715976100.06893.png?Expires=2147483647&Signature=raVgO3M8SwYs2r5CRNXvZUzr0q2PmnGgFyYLhmFpduWxpDv5cJl9G3HlLee8G9Ntmvvp2SqjI8LrTsAs0SVS2ENaT4zywWPHLYesZOLzcfAKG8wuYhxn4G6oXn-5MtZCtHRFJk13QTFkrOeX2HNkXrUecaV6277WHVVf845f0QrxSsNDXQoeRg1NyhSH2QsAE-EQtNh4OCm0~wN-nruZ1HmKTZMt8bKxBefBwt5CuLaTBRCIDn2SA~zzrCpoFPV2YMRSTN0qmM6DQuznM1-qYUe3WhdN7E929NGy~YurPG~XVgqXBmpFJoZgriLgSBZ4jTBQG9QuNSY-ABvgTECM7A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "publishedAt": "2024-05-21 16:29:31",
+      "content": "Since 2020-2021, highly pathogenic avian influenza (HPAI) A(H5N1) clade 2.3.4.4b viruses have spread among wild birds worldwide,1 causing poultry outbreaks2 and spillover to terrestrial and marine ma\u2026 [+411 chars]",
+      "retrievedAt": "2024-05-22 19:05:22.933593",
+      "internal_id": "9b59aff720663900cf8e00da702254e03c196299fade6238d4e7b62a43550069",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9377,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Thiago Morais",
+      "title": "Dengue: Brasil ultrapassa marca de 5 milh\u00f5es de casos em 2024",
+      "description": "N\u00famero significa recorde desde o in\u00edcio da s\u00e9rie hist\u00f3rica no Brasil, em 2000 O post Dengue: Brasil ultrapassa marca de 5 milh\u00f5es de casos em 2024 apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/05/21/medicina-e-saude/dengue-brasil-ultrapassa-marca-de-5-milhoes-de-casos-em-2024/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/12/Dengue.jpg",
+      "publishedAt": "2024-05-21 16:23:41",
+      "content": "A situa\u00e7\u00e3o alarmante da dengue no Brasil ganhou um novo marco. O pa\u00eds atingiu o registro de 5.100.766 casos prov\u00e1veis da doen\u00e7a, o que j\u00e1 \u00e9 o novo recorde desde o in\u00edcio da s\u00e9rie hist\u00f3rica, em 2000. \u2026 [+2878 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.516535",
+      "internal_id": "01cecb3917fa9b2f5de2539e383aab2225c4df9a31e1c4721657280ca4e005e0",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9390,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Entekhab.ir",
+      "author": "info@entekhab.ir",
+      "title": "\u0634\u06cc\u0648\u0639 \u0628\u06cc\u0645\u0627\u0631\u06cc \u06a9\u0634\u0646\u062f\u0647 \u062f\u0631 \u0622\u0641\u0631\u06cc\u0642\u0627",
+      "description": "\u06a9\u0634\u0648\u0631 \u06a9\u0646\u06af\u0648 \u062f\u0631 \u062d\u0627\u0644 \u0645\u0628\u0627\u0631\u0632\u0647 \u0628\u0627 \u062a\u0639\u062f\u0627\u062f \u0628\u06cc\u200c\u0633\u0627\u0628\u0642\u0647\u200c\u0627\u06cc \u0627\u0632 \u0645\u0648\u0627\u0631\u062f \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646 \u0627\u0633\u062a \u06a9\u0647 \u0646\u0627\u0634\u06cc \u0627\u0632 \u0633\u0648\u06cc\u0647\u200c\u0627\u06cc \u0628\u0627 \u0646\u0631\u062e \u0645\u0631\u06af\u200c\u0648\u0645\u06cc\u0631 \u0628\u0627\u0644\u0627 \u0627\u0633\u062a.",
+      "url": "https://www.entekhab.ir/fa/news/785151/\u0634\u06cc\u0648\u0639-\u0628\u06cc\u0645\u0627\u0631\u06cc-\u06a9\u0634\u0646\u062f\u0647-\u062f\u0631-\u0622\u0641\u0631\u06cc\u0642\u0627",
+      "urlToImage": "https://cdn.entekhab.ir/files/fa/news/1403/3/1/1675008_777.jpeg",
+      "publishedAt": "2024-05-21 15:13:28",
+      "content": "(Entekhab.ir) : : .. \u00ab \u00bb : \u00ab clade I mpox .\u00bbmpox ( ) clade II . . . . clade mpox . . clade mpox : \" \" -- . : : clade I mpox . : () () . Mpox . . mpox HIV . Mpox .",
+      "retrievedAt": "2024-05-22 19:05:25.434263",
+      "internal_id": "207e4bba5c1a48dbf3d8548a3f38978d503e0d0d667a5caa23e1141d13fddf73",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9380,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marianne.net",
+      "author": "Margot Brunet",
+      "title": "Dengue et JO : plut\u00f4t que de paniquer\u2026 videz l\u2019eau de vos pots de fleurs !",
+      "description": "Ces derniers jours, de nombreux articles s\u2019alarment du risque d\u2019\u00e9pid\u00e9mie de dengue lors des Jeux Olympiques de Paris. En cause : les chiffres in\u00e9dits des nombres de contaminations par le virus transmis par le moustique tigre sur le territoire national. Mais d\u2026",
+      "url": "https://www.marianne.net/societe/sante/dengue-et-jo-plutot-que-de-paniquer-vider-leau-de-vos-pots-de-fleurs",
+      "urlToImage": "https://cmifrance.codexcdn.net/assets/asMQM5bfV6qXOhKnx.jpg?w=1540&h=924&r=fill",
+      "publishedAt": "2024-05-21 15:00:00",
+      "content": "Alerte pourpre ! Les Jo approchent (oui, on sait, \u00e7a fait quatre ans quon en parle) et les premiers spectateurs \u00e0 arriver en masse ne sont pas les plus attendus : les moustiques tigres. Ces derniers \u2026 [+6678 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.536983",
+      "internal_id": "0d962f93e7741dcdb90d82552eb3fd9a72a999affddcf124006781ad978ff83f",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9373,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Kuli Orsolya",
+      "title": "Teh\u00e9n fert\u0151z\u00f6tt meg embert mad\u00e1rinfluenza-v\u00edrussal, Rusvai Mikl\u00f3s szerint ez nem j\u00f3 jel",
+      "description": "Teh\u00e9n fert\u0151z\u00f6tt meg embert mad\u00e1rinfluenza-v\u00edrussal, Rusvai Mikl\u00f3s szerint ez nem j\u00f3 jel - A szak\u00e9rt\u0151 szerint ilyenre eddig m\u00e9g nem volt p\u00e9lda.",
+      "url": "https://index.hu/belfold/2024/05/21/rusvai-miklos-madarinfluenza-tehen-fertozes/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/5641/56418/564182/56418205_4171629_31f41de0a9d3c0a5b1a02f9aa40e0add_wm.jpg",
+      "publishedAt": "2024-05-21 14:52:00",
+      "content": "Eredetileg minden influenzav\u00edrus a madarakban l\u00e9tezik, a H5N1 is mondta Rusvai Mikl\u00f3s az InfoR\u00e1di\u00f3ban. Az \u00e1llatorvos, v\u00edruskutat\u00f3 szerint macsk\u00e1ban, kuty\u00e1ban is elfordult m\u00e1r a H5N1, \u00e9s most tehenekb\u2026 [+927 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.202047",
+      "internal_id": "9b8128e1c0cd7ca72314cbe1727a4a6cb1679477be5fbbaa8749f4e5ee6dc1d9",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9382,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Tropenkrankheit mittlerweile auch in Europa - Fieber nach dem Urlaub? Diese Symptome deuten auf Dengue-Virus hin",
+      "description": "Es ist Ferienzeit in Deutschland und viele Menschen verreisen. Das k\u00f6nnte auch die Zahl der Dengue-Virusf\u00e4lle nach oben treiben. Welche Symptome es gibt und wann Sie zum Arzt sollten.",
+      "url": "https://www.focus.de/gesundheit/news/tropenkrankheit-mittlerweile-auch-in-europa-fieber-nach-dem-urlaub-diese-symptome-deuten-auf-dengue-virus-hin_id_259964057.html",
+      "urlToImage": "https://p6.focus.de/img/panorama/welt/id_197987829/eine-asiatische-tigermuecke.-infektionskrankheiten-werden-aus-sicht-von-infektiologen-allein-durch-die-klimakrise-in-den-kommenden-jahrzehnten-deutlich-zunehmen..jpg?im=Crop%3D%280%2C171%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=85c8d9622a8820c34447569471866018b008199b945725a576aaec892cb3d145",
+      "publishedAt": "2024-05-21 14:31:32",
+      "content": "Es ist Ferienzeit in Deutschland und viele Menschen verreisen. Das k\u00f6nnte auch die Zahl der Dengue-Virusf\u00e4lle nach oben treiben. Welche Symptome es gibt und wann Sie zum Arzt sollten.Bei Dengue hande\u2026 [+3775 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.583010",
+      "internal_id": "5020d2ec8d59cdc5576e8ecffb99190bd242f9c0365c4f43e014e3ba3b35dea8",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9388,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mark Okwir, Abigail Link, Bosco Opio, Fred Okello, Ritah Nakato, Betty Nabongo, Jimmy Alal, Joshua Rhein, David Meya, Yu Liu, Paul R. Bohjanen",
+      "title": "Poor long-term outcomes despite improved hospital survival for patients with cryptococcal meningitis in rural, Northern Uganda",
+      "description": "Background Cryptococcal meningitis (CM) remains a major cause of death among people living with HIV in rural sub-Saharan Africa. We previously reported that a CM diagnosis and treatment program (CM-DTP) improved hospital survival for CM patients in rural, nor\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303805",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0303805.g001&size=inline",
+      "publishedAt": "2024-05-21 14:00:00",
+      "content": "Abstract Background Cryptococcal meningitis (CM) remains a major cause of death among people living with HIV in rural sub-Saharan Africa. We previously reported that a CM diagnosis and treatment pr\u2026 [+41302 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.992461",
+      "internal_id": "cb8ca6e8b51bb73db902d590e5d1e9af1ec06f7d0c11f5e612fdcd607e1590e3",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9391,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sarah Ann Schmalzle, Matthew Grant, Susan Lovelace, Jiwon Jung, Clara Choate, Julie Guerin, Walker Weinstein, Gregory Taylor",
+      "title": "Survey of pain and stigma experiences in people diagnosed with mpox in Baltimore, Maryland during 2022 global outbreak",
+      "description": "A high prevalence of mpox in men who have sex with men and in people with HIV, plus visually striking and contagious lesions, have raised concerns for mpox stigma. 24 PCR-confirmed mpox patients were surveyed over the course of three months, utilizing an mpox\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299587",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0299587.g003&size=inline",
+      "publishedAt": "2024-05-21 14:00:00",
+      "content": "Introduction The scale, symptomatology, and demographics of the 2022 mpox (formerly monkeypox) outbreak each diverged from the classic outbreaks that have been occurring sporadically in parts of Afr\u2026 [+21218 chars]",
+      "retrievedAt": "2024-05-22 19:05:25.446060",
+      "internal_id": "ff83a11b6122681c02aea05b6c4cc8a8f39ccb99905a7b573f92356b4018fe28",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9392,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "David M. Bland, Dan Long, Rebecca Rosenke, B. Joseph Hinnebusch",
+      "title": "Yersinia pestis can infect the Pawlowsky glands of human body lice and be transmitted by louse bite",
+      "description": "Yersinia pestis, the causative agent of plague, uses fleas and rodents as vectors for transmission. This study reports a new vector for Y. pestis, showing that it can infect the Pawlowsky glands of human body lice and be transmitted by louse bite.",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002625",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002625.g003&size=inline",
+      "publishedAt": "2024-05-21 14:00:00",
+      "content": "Citation: Bland DM, Long D, Rosenke R, Hinnebusch BJ (2024) Yersinia pestis can infect the Pawlowsky glands of human body lice and be transmitted by louse bite. PLoS Biol 22(5): e3002625. https://\u2026 [+53015 chars]",
+      "retrievedAt": "2024-05-22 19:05:26.052071",
+      "internal_id": "4306bf427a7c5892226c5d0a559a193f8a3f0cbbe0d14fc5b98e7e720313e40b",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9372,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Elisabeth Rosenthal",
+      "title": "I Was There When Bird Flu First Appeared. It\u2019s Different Today.",
+      "description": "The H5N1 flu virus and I go way back. In 1997, I watched as more than a million chickens were slaughtered in Hong Kong to combat the first major global outbreak of the disease. Eighteen people were sickened by the virus and six died, all of whom had close con\u2026",
+      "url": "https://kffhealthnews.org/news/article/health-brief-bird-flu-27-years-later/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/10/health-brief-header-1.jpg",
+      "publishedAt": "2024-05-21 13:08:48",
+      "content": "Elisabeth RosenthalThe H5N1 flu virus and I go way back. In 1997, I watched as more than a million chickens were slaughtered in Hong Kong to combat the first major global outbreak of the disease. Ei\u2026 [+3283 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.180536",
+      "internal_id": "0730e948e41eb8c13230349850717438350cf5033ead3934326cc5eb796723da",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9365,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "K\u00e6ledyr fra udlandet skal fra n\u00e6ste \u00e5r v\u00e6re rabiesvaccineret, n\u00e5r de kommer til Danmark",
+      "description": "Fra n\u00e6ste \u00e5r skal hundehvalpe, kattekillinger og fritteunger v\u00e6re f\u00e6rdigvaccineret mod rabies, n\u00e5r de kommer til Danmark. Det skriver F\u00f8devarestyrelsen i en pressemeddelelse.",
+      "url": "https://www.dr.dk/nyheder/seneste/kaeledyr-fra-udlandet-skal-fra-naeste-aar-vaere-rabiesvaccineret-naar-de-kommer-til",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-05-21 13:03:00",
+      "content": "B\u00e5de sydkoreanske og japanske embedsm\u00e6nd er p\u00e5 bes\u00f8g i Taiwan i forbindelse med inds\u00e6ttelsen af pr\u00e6sident Lai Ching-te. Men det er en helt \u00e5benlys provokation, mener Kina. Selvom Taiwan ser sig sel\u2026 [+706 chars]",
+      "retrievedAt": "2024-05-22 19:05:22.281724",
+      "internal_id": "a942d93e8457461283a27cc90d0fdf83dcd8f7d22f3a8b962750bde406d3e534",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9371,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Mark Crislip",
+      "title": "Bird is the Word",
+      "description": "Something H5N1 this way comes. Perhaps. The post Bird is the Word first appeared on Science-Based Medicine.",
+      "url": "https://sciencebasedmedicine.org/bird-is-the-word/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2024/05/Screenshot-from-2024-05-18-15-51-12.png",
+      "publishedAt": "2024-05-21 12:17:00",
+      "content": "A well a everybody\u2019s heard about the bird B-b-b bird, bird, bird, b-bird\u2019s the word A well a bird, bird, bird, the bird is the word A well a bird, bird, bird, well the bird is the word A well\u2026 [+12122 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.156541",
+      "internal_id": "6fa524c3d75f4e264a02163ed56ad5c30e8d25568283ff43972ab54b404a6cee",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9384,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Leticia Martins, Leticia Martins",
+      "title": "Dengue: Brasil passa dos 5 milh\u00f5es de casos, com mais de 2.800 mortes",
+      "description": "Segundo o Minist\u00e9rio da Sa\u00fade, 24 estados e o Distrito Federal registram queda na incid\u00eancia da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-05-21/dengue-brasil-passa-dos-5-milhoes-de-casos-mais-de-2800-mortes.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-05-21 11:41:57",
+      "content": "O Brasil ultrapassou 5 milh\u00f5es de casos prov\u00e1veis de dengue em 2024, na segunda-feira (20), segundo o Minist\u00e9rio da Sa\u00fade. Ao todo, foram registradas 2.827 mortes registradas por dengue no ano. Out\u2026 [+2917 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.605641",
+      "internal_id": "db030b897987bd265caec6d965f8d13ee837fe3dc97e2f112b5fbba15fdeef68",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9386,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Brasil ultrapassa 5 milh\u00f5es de casos de dengue em 2024",
+      "description": "BRASILIA, 21 MAG - O Brasil ultrapassou nesta segunda-feira (20) 5 milh\u00f5es de casos de dengue ...",
+      "url": "https://www.terra.com.br/noticias/brasil/brasil-ultrapassa-5-milhoes-de-casos-de-dengue-em-2024,5d15bc8434aea2c693a8afc65637864a01h2uu97.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-05-21 11:30:15",
+      "content": "BRASILIA, 21 MAG - O Brasil ultrapassou nesta segunda-feira (20) 5 milh\u00f5es de casos de dengue neste ano, a maior quantidade de infectados da hist\u00f3ria do pa\u00eds, de acordo com um levantamento do Painel \u2026 [+968 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.656867",
+      "internal_id": "5c0def5113bfbc8ecbda62f18378d50a5373a06e993926e8db004430146a7630",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9389,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Novavax: 1st shipment of R21/MatrixM malaria vaccine",
+      "description": "(marketscreener.com) Novavax has celebrated the first shipment to Africa of its R21/Matrix-M malaria vaccine, developed in partnership with the Serum Institute of India . The vaccine, licensed for use in children in malaria-endemic regions, aims to bridge the\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/NOVAVAX-INC-58256108/news/Novavax-1st-shipment-of-R21-MatrixM-malaria-vaccine-46782471/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2024-05-21 10:45:56",
+      "content": "Novavax has celebrated the first shipment to Africa of its R21/Matrix-M malaria vaccine, developed in partnership with the Serum Institute of India (SII). The vaccine, licensed for use in children in\u2026 [+456 chars]",
+      "retrievedAt": "2024-05-22 19:05:24.327676",
+      "internal_id": "d72723bfc3e31cfc6e7b6fbcc8d72b3231277adb5fe542530626b647bf450aae",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9369,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Alphafreepress.gr",
+      "author": "\u0395\u03c5\u03c4\u03c5\u03c7\u03af\u03b1 \u03a0\u03b1\u03c0\u03bf\u03cd\u03bb\u03b9\u03b1",
+      "title": "\u0393\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03ba\u03b1\u03b9 \u03b1\u03b3\u03b5\u03bb\u03b1\u03b4\u03b9\u03bd\u03cc \u03b3\u03ac\u03bb\u03b1: \u0395\u03af\u03bd\u03b1\u03b9 \u03b1\u03c3\u03c6\u03b1\u03bb\u03ae\u03c2 \u03b7 \u03ba\u03b1\u03c4\u03b1\u03bd\u03ac\u03bb\u03c9\u03c3\u03ae \u03c4\u03bf\u03c5;",
+      "description": "\u0393\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03ba\u03b1\u03b9 \u03b1\u03b3\u03b5\u03bb\u03b1\u03b4\u03b9\u03bd\u03cc \u03b3\u03ac\u03bb\u03b1: \u03a4\u03b9 \u03bb\u03ad\u03bd\u03b5 \u03bf\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af",
+      "url": "https://www.alphafreepress.gr/2024/05/21/kosmos/gripi-ton-ptinon-kai-ageladino-gala-einai-asfalis-i-katanalosi-tou/",
+      "urlToImage": "https://www.alphafreepress.gr/wp-content/uploads/2024/05/agelades-scaled.jpg",
+      "publishedAt": "2024-05-21 09:40:44",
+      "content": ", BBC News . , H5N1. , . (H5N1) 20% . H5N1, , . , , (FDA) . ; , FDA 297 38 (HPAI) . \u00ab HPAI , \u00bb, FDA . DNA , . , H5N1 . \u00ab \u00bb, . \u00ab \u00bb, BBC News Michael Payne, . \u00ab 1860\u00bb. 2020 , , \u00ab \u00bb. , , Payne. \u00ab\u2026 [+310 chars]",
+      "retrievedAt": "2024-05-22 19:05:22.928862",
+      "internal_id": "5f654c42a41a10f0389724ae4b7a09a96f620d8bae68dcf2d1fb0c6cf2d58c3e",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9368,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dr. C\u00e9line Gounder",
+      "title": "4 ways vaccine skeptics mislead you on measles and more",
+      "description": "Vaccine scare tactics haven't shifted, but more parents are falling for them. Here's what the rhetoric gets wrong and how it endangers children.",
+      "url": "https://www.cbsnews.com/news/measles-vaccine-skeptics-truth/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/23/fa7028e0-03ce-448b-9970-bb566f600272/thumbnail/1200x630/24836e6026b1bed3b3bf185256c1ef74/gettyimages-1429059636.jpg?v=dac66bdad19d0be8e87f46552b582682",
+      "publishedAt": "2024-05-21 09:00:49",
+      "content": "Measles is on the rise in the United States. So far this year, the number of cases is about 17 times what it was, on average, during the same period in each of the four years before, according to the\u2026 [+10188 chars]",
+      "retrievedAt": "2024-05-22 19:05:22.680007",
+      "internal_id": "938de8e2883acd9ffb1678a25db2481e080e4ebe125c0c09d34bc0d620188ec9",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9387,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Skeptoid.com",
+      "author": "brian@skeptoid.com (Brian Dunning), Brian Dunning",
+      "title": "Skeptoid #937: Helen Keller on Trial",
+      "description": "A bizarre subculture of Helen Keller Truthers believe that she was either faking her deafblindness or even that she didn't exist at all.",
+      "url": "https://skeptoid.com/episodes/4937",
+      "urlToImage": "https://skeptoid.com/eps1200x744/4937.jpg",
+      "publishedAt": "2024-05-21 09:00:00",
+      "content": "Helen Keller was a very real person. She was born in 1880 and lost her sight and her hearing following an illness, probably meningitis, when she was 19 months old. Nevertheless, she learned to read, \u2026 [+10504 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.987884",
+      "internal_id": "e64070dda0f20c53ae143b60855361e7d8e0b9d8c76a2983d76fef5c1a21a6ee",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9374,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ing.dk",
+      "author": "Mie Stage",
+      "title": "Opklaret af danske forskere: Derfor er der fugleinfluenza i m\u00e6lk",
+      "description": "Danske forskere har nu fundet ud af, hvorfor amerikanske k\u00f8er helt us\u00e6dvanligt kunne blive smittet med fugleinfluenza. Men det betyder ogs\u00e5, at danske k\u00f8er kan v\u00e6re udsat.",
+      "url": "https://ing.dk/artikel/opklaret-af-danske-forskere-derfor-er-der-fugleinfluenza-i-maelk",
+      "urlToImage": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2024-04/cow-7957275_1280.jpg?itok=VdD28hGN",
+      "publishedAt": "2024-05-21 08:57:52",
+      "content": "Fugleinfluenzavirussen H5N1 spreder sig fortsat blandt k\u00f8er i USA, selv om antallet af nye tilf\u00e6lde er faldet. Hvad der overhovedet for\u00e5rsagede, at de ellers tilsyneladende influenzaresistente k\u00f8er\u2026 [+187 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.231616",
+      "internal_id": "21d057f595036c61eeae741361fdd17dc67d5449cdde27428d6d544ca2e0fb9a",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9375,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "H5N1 virus can be tracked in retail milk, scientists say",
+      "description": "Store-bought milk could provide a work-around, University of Washington and Fred Hutchinson researchers suggested, similar to wastewater surveillance.",
+      "url": "https://www.statnews.com/2024/05/21/bird-flu-virus-spread-scientists-monitor-h5n1-in-store-bought-milk/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/05/GettyImages-1245006812-1024x576.jpg",
+      "publishedAt": "2024-05-21 08:55:07",
+      "content": "Scientists from the University of Washington and the Fred Hutchinson Cancer Center have managed to generate a full genetic sequence of H5N1 virus from milk, a development they suggest means commercia\u2026 [+6964 chars]",
+      "retrievedAt": "2024-05-22 19:05:23.236094",
+      "internal_id": "765e300568c77996c25d8bfec0b0dc8c24a6bff7c1c983d056b69e22ecab4efe",
+      "publishedAtLabel": "May 21"
+    },
     {
       "id": 9356,
       "query": [
@@ -25741,114 +26265,6 @@
       "content": "Y mi libertad para ponerme pantalones cortos donde queda?",
       "retrievedAt": "2024-04-09 07:06:08.712972",
       "internal_id": "564eaa099fad3e9e030239277c6cdafbee9450adad7d93e58af268a0594fefaa",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7942,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "Fuerte suba: el pa\u00eds supera los 200.000 casos de dengue en lo que va del a\u00f1o y ya es un 54% m\u00e1s que en todo 2023",
-      "description": "Se trata de una epidemia hist\u00f3rica; se reportaron 52.000 contagios en solo una semana y siguen las muertes",
-      "url": "https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/crecen-los-casos-de-dengue-en-el-pais-en-la-mayor-QYAJYSTDSZF5PD4WXL3D5ZILTI.jpeg?auth=5f1c2364d22e8b2da51c77c2e8b8c3729cb36f994b437dfbc620951760756998&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-07 18:47:52",
-      "content": "La mayorepidemia de dengue que enfrent\u00f3 hasta el momento el pa\u00eds super\u00f3 en las primeras 13 semanas de este a\u00f1o todos los casos acumulados en 2023. Si bien la comparaci\u00f3n es relativa, ya que parte de \u2026 [+2070 chars]",
-      "retrievedAt": "2024-04-09 07:06:08.813194",
-      "internal_id": "5ae38315a34a819009e3d3695aa2233437700668fedf9dfbf695abc344fbe9d9",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7923,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Jairo Bouer - Parceria",
-      "title": "D\u00e1 para ter dengue e Covid ao mesmo tempo?",
-      "description": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/07/421659606-istockfebre.jpg",
-      "publishedAt": "2024-04-07 17:00:11",
-      "content": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da dengue podem variar muito. Algumas pessoas t\u00eam sintomas muito intensos, outras t\u00eam sintomas mais ameno\u2026 [+744 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.883513",
-      "internal_id": "b4dc4a1fa650323a01ee2adb93db0abdfe0c5773905c5f3ed124518b1d86a87c",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7938,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Gabriela Origlia",
-      "title": "Ni el mosquito ni el clima: el otro factor de riesgo para la propagaci\u00f3n del dengue que cada vez m\u00e1s se\u00f1alan los expertos",
-      "description": "Si bien lo definen como \u201cuna enfermedad democr\u00e1tica\u201d, aparece un v\u00ednculo entre la infecci\u00f3n y la pobreza; causas y recomendaciones",
-      "url": "https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-viviendas-deficitarias-y-el-mal-tratamiento-W53O4OXG4VGM3P3AW2AWYOUXZU.JPG?auth=a694e5614bba61de5f61241698439dc471693c36b6ba15080dd617922fb81b97&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-07 15:40:41",
-      "content": "C\u00d3RDOBA. La Argentina atraviesa la peor epidemia de dengue desde 2009, con m\u00e1s de 180.000 casos diagnosticados (se estima que son a\u00fan m\u00e1s los no contabilizados) y 129 muertos, ysi bien se trata de un\u2026 [+6615 chars]",
-      "retrievedAt": "2024-04-09 07:06:08.797282",
-      "internal_id": "895f61ac4f89945e048be9bf10fe73c20337a21fad96b9b43ccd3539d23a334f",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7921,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Guatemala y Panam\u00e1, los m\u00e1s afectados por ola de dengue en Centroam\u00e9rica",
-      "description": "En Nicaragua, El Salvador y Costa Rica no hay muertos por la enfermedad en 2024. En Honduras, hay cuatro muertos y 8.000 casos.",
-      "url": "https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201807/_W933_80/659534.jpg",
-      "publishedAt": "2024-04-07 14:35:00",
-      "content": "Al menos 20 personas han muerto y m\u00e1s de 30.000 han sido contagiadas por una ola de dengue en Centroam\u00e9rica, donde Guatemala y Panam\u00e1 tienen este a\u00f1o el mayor balance de fallecidos. La Organizaci\u2026 [+2002 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.847014",
-      "internal_id": "f64089a353c82f065f153c6ffcc5e560f2302bf0f4a4afd5eccc6c82e9582f03",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7920,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Luiz Vassallo",
-      "title": "Mortes por dengue no estado de S\u00e3o Paulo chegam a 221",
-      "description": "Em todo o estado h\u00e1 485 mortes em investiga\u00e7\u00e3o; foram 456.427 casos confirmados ao longo do ano",
-      "url": "https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
-      "publishedAt": "2024-04-07 12:45:16",
-      "content": "S\u00e3o Paulo \u2013 O n\u00famero de mortes em raz\u00e3o de casos de dengue em 2023 chegou a 221 no estado de S\u00e3o Paulo, segundo dados da Secretaria estadual da Sa\u00fade. A pasta registra outros 485 \u00f3bitos em investiga\u00e7\u2026 [+1717 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.833995",
-      "internal_id": "c06f158d1bd95cc31be047934a0d7249a68a4a474a320378fb6e73265eb8d7e5",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7922,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Se extiende el dengue por Centro y Sudam\u00e9rica",
-      "description": "R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su \u201cpeor temporada de dengue\u201d, una \u201cenfermedad febril que afecta a lactantes, ni\u00f1os y adultos\u201d describe el organismo.",
-      "url": "https://www.jornada.com.mx/2024/04/07/mundo/022n1mun",
-      "urlToImage": "https://www.jornada.com.mx/2024/04/07/fotos/022n1mun-1.jpg",
-      "publishedAt": "2024-04-07 12:01:17",
-      "content": "Peri\u00f3dico La JornadaDomingo 7 de abril de 2024, p. 22 R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su peor temporada de dengue, una enfermedad febril que afecta a lactantes,\u2026 [+2321 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.866530",
-      "internal_id": "1ef59dff7bdcee691defb5d888bbdeb9c3e0abea41a52c5bae2169c80bdad59e",
       "publishedAtLabel": "Apr 7"
     }
   ]

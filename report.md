@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-05-22 07:06
-- **Most recent article:** 2024-05-21 05:00:33
+- **New articles in last harvest:** 29
+- **Last harvest:** 2024-05-22 19:05
+- **Most recent article:** 2024-05-21 19:02:21
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 137 | 113 | 117 | 77 | 57 | 87 | 20 | 608 |
-| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 5 | 194 |
-| measles | 43 | 40 | 28 | 24 | 10 | 29 | 2 | 176 |
-| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 11 | 131 |
-| meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 2 | 82 |
-| mpox | 3 | 13 | 8 | 36 | 3 | 10 | 4 | 77 |
-| rabies | 8 | 3 | 3 | 4 | 22 | 10 | 0 | 50 |
+| dengue | 131 | 113 | 117 | 77 | 57 | 87 | 31 | 613 |
+| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 6 | 195 |
+| measles | 43 | 40 | 28 | 24 | 10 | 29 | 3 | 177 |
+| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 18 | 138 |
+| meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 4 | 84 |
+| mpox | 3 | 13 | 8 | 36 | 3 | 10 | 6 | 79 |
+| rabies | 8 | 3 | 3 | 4 | 22 | 10 | 3 | 53 |
 | chikungunya | 7 | 5 | 5 | 7 | 5 | 12 | 0 | 41 |
 | zika | 10 | 8 | 3 | 8 | 2 | 6 | 1 | 38 |
 | pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 4 | 37 |
 | sarampión | 13 | 0 | 10 | 8 | 1 | 0 | 0 | 32 |
 | leptospirosis | 3 | 3 | 3 | 2 | 1 | 3 | 0 | 15 |
-| hpai | 0 | 0 | 0 | 0 | 4 | 3 | 1 | 8 |
-| yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 0 | 8 |
+| yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 2 | 10 |
+| hpai | 0 | 0 | 0 | 0 | 4 | 3 | 3 | 10 |
 | typhoid | 0 | 2 | 0 | 0 | 3 | 2 | 0 | 7 |
 
 
@@ -36,6 +36,20 @@ Source: [News API](https://newsapi.org/)
 ## 24-21 (zika)
 
 - [Information for Human Cell, Tissue, and Cellular and Tissue-Based Product (HCT/P) Establishments Regarding FDA’s Determination that Zika Virus is no Longer a Relevant Communicable Disease Agent or Disease](https://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products/information-human-cell-tissue-and-cellular-and-tissue-based-product-hctp-establishments-regarding) (FDA.gov)
+
+## 24-21 (yersinia)
+
+- [Body lice may be bigger plague spreaders than previously thought](https://phys.org/news/2024-05-body-lice-bigger-plague-spreaders.html) (Phys.Org)
+
+- [Yersinia pestis can infect the Pawlowsky glands of human body lice and be transmitted by louse bite](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002625) (Plos.org)
+
+## 24-21 (rabies)
+
+- [Lab sequences rabies in infected black bear](https://phys.org/news/2024-05-lab-sequences-rabies-infected-black.html) (Phys.Org)
+
+- [Rabies outbreaks in Costa Rica cattle linked to deforestation](https://www.sciencedaily.com/releases/2024/05/240521124318.htm) (Science Daily)
+
+- [Kæledyr fra udlandet skal fra næste år være rabiesvaccineret, når de kommer til Danmark](https://www.dr.dk/nyheder/seneste/kaeledyr-fra-udlandet-skal-fra-naeste-aar-vaere-rabiesvaccineret-naar-de-kommer-til) (Www.dr.dk)
 
 ## 24-21 (pertussis)
 
@@ -49,6 +63,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (mpox)
 
+- [شیوع بیماری کشنده در آفریقا](https://www.entekhab.ir/fa/news/785151/شیوع-بیماری-کشنده-در-آفریقا) (Entekhab.ir)
+
+- [Survey of pain and stigma experiences in people diagnosed with mpox in Baltimore, Maryland during 2022 global outbreak](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299587) (Plos.org)
+
 - [Monkeypox: Deadly New Form Poses A “Global Threat”](https://www.shtfplan.com/headline-news/monkeypox-deadly-new-form-poses-a-global-threat) (Shtfplan.com)
 
 - [Structure and flexibility of the DNA polymerase holoenzyme of vaccinia virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011652) (Plos.org)
@@ -59,17 +77,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (meningitis)
 
+- [Poor long-term outcomes despite improved hospital survival for patients with cryptococcal meningitis in rural, Northern Uganda](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303805) (Plos.org)
+
+- [Skeptoid #937: Helen Keller on Trial](https://skeptoid.com/episodes/4937) (Skeptoid.com)
+
 - [The Wisconsin Health Department announces new vaccine requirements for children](https://www.wmtv15news.com/2024/05/21/wisconsin-health-department-announces-new-vaccine-requirements-children/) (Wmtv15news.com)
 
 - [Trial date set for pharmacist charged in 2012 Michigan fungal meningitis outbreak case](https://www.cbsnews.com/detroit/news/man-heading-to-trial-in-michigan-fungal-meningitis-outbreak/) (CBS News)
 
 ## 24-21 (measles)
 
+- [4 ways vaccine skeptics mislead you on measles and more](https://www.cbsnews.com/news/measles-vaccine-skeptics-truth/) (CBS News)
+
 - [Pennsylvania health officials warn about measles exposure in Philadelphia region](https://www.cbsnews.com/philadelphia/news/pennsylvania-health-department-measles-exposure-philadelphia/) (CBS News)
 
 - [Residents warned of possible measles exposure in Philadelphia and Montgomery County](https://6abc.com/post/residents-warned-measles-exposure-philadelphia-montgomery-county/14848435/) (WPVI-TV)
 
 ## 24-21 (malaria)
+
+- [Novavax: 1st shipment of R21/MatrixM malaria vaccine](https://www.marketscreener.com/quote/stock/NOVAVAX-INC-58256108/news/Novavax-1st-shipment-of-R21-MatrixM-malaria-vaccine-46782471/) (Marketscreener.com)
 
 - [Serum Institute ships over 43k doses of malaria vaccine to African nations](https://timesofindia.indiatimes.com/city/pune/serum-institute-ships-over-43k-doses-of-malaria-vaccine-to-african-nations/articleshow/110285005.cms) (The Times of India)
 
@@ -83,9 +109,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (hpai)
 
+- [US Public Health Preparedness and Response to Highly Pathogenic Avian Influenza A(H5N1) Viruses](https://jamanetwork.com/journals/jama/fullarticle/2819159) (Jamanetwork.com)
+
+- [Γρίπη των πτηνών και αγελαδινό γάλα: Είναι ασφαλής η κατανάλωσή του;](https://www.alphafreepress.gr/2024/05/21/kosmos/gripi-ton-ptinon-kai-ageladino-gala-einai-asfalis-i-katanalosi-tou/) (Alphafreepress.gr)
+
 - [US Rulers Say There’s “No Evidence” Of Bird Flu Spreading to Humans](https://www.shtfplan.com/headline-news/us-rulers-say-theres-no-evidence-of-bird-flu-spreading-to-humans) (Shtfplan.com)
 
 ## 24-21 (h5n1)
+
+- [US Public Health Preparedness and Response to Highly Pathogenic Avian Influenza A(H5N1) Viruses](https://jamanetwork.com/journals/jama/fullarticle/2819159) (Jamanetwork.com)
+
+- [Tehén fertőzött meg embert madárinfluenza-vírussal, Rusvai Miklós szerint ez nem jó jel](https://index.hu/belfold/2024/05/21/rusvai-miklos-madarinfluenza-tehen-fertozes/) (Index.hu)
+
+- [I Was There When Bird Flu First Appeared. It’s Different Today.](https://kffhealthnews.org/news/article/health-brief-bird-flu-27-years-later/) (Kffhealthnews.org)
+
+- [Bird is the Word](https://sciencebasedmedicine.org/bird-is-the-word/) (Sciencebasedmedicine.org)
+
+- [Γρίπη των πτηνών και αγελαδινό γάλα: Είναι ασφαλής η κατανάλωσή του;](https://www.alphafreepress.gr/2024/05/21/kosmos/gripi-ton-ptinon-kai-ageladino-gala-einai-asfalis-i-katanalosi-tou/) (Alphafreepress.gr)
+
+- [Opklaret af danske forskere: Derfor er der fugleinfluenza i mælk](https://ing.dk/artikel/opklaret-af-danske-forskere-derfor-er-der-fugleinfluenza-i-maelk) (Ing.dk)
+
+- [H5N1 virus can be tracked in retail milk, scientists say](https://www.statnews.com/2024/05/21/bird-flu-virus-spread-scientists-monitor-h5n1-in-store-bought-milk/) (STAT)
 
 - [Readout of CDC Call with State Public Health Partners on H5N1 Influenza Monitoring](https://www.cdc.gov/media/releases/2024/s0521-readout-avian.html) (Cdc.gov)
 
@@ -110,6 +154,28 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, in Usa gli allevatori contro i controlli nelle fattorie. I funzionari dei Cdc ricorrono ai veterinari locali](https://www.ilfattoquotidiano.it/2024/05/19/aviaria-in-usa-gli-allevatori-contro-i-controlli-nelle-fattorie-i-funzionari-dei-cdc-ricorrono-ai-veterinari-locali/7551261/) (Ilfattoquotidiano.it)
 
 ## 24-21 (dengue)
+
+- [Krankheit: Mehr als fünf Millionen Dengue-Fälle in Brasilien](https://www.zeit.de/news/2024-05/21/mehr-als-fuenf-millionen-dengue-faelle-in-brasilien) (Die Zeit)
+
+- [Krankheit: Mehr als fünf Millionen Dengue-Fälle in Brasilien](https://www.stern.de/panorama/wissen/krankheit--mehr-als-fuenf-millionen-dengue-faelle-in-brasilien-34729962.html) (STERN.de)
+
+- [Brasil ultrapassa 5 milhões de casos prováveis de dengue; número é três vezes superior ao de 2023](https://www.terra.com.br/vida-e-estilo/saude/brasil-ultrapassa-5-milhoes-de-casos-provaveis-de-dengue-numero-e-tres-vezes-superior-ao-de-2023,807d794e3e36550fd3019cca03294d3bzpx4t4fp.html) (Terra.com.br)
+
+- [Brasil supera los cinco millones de casos de dengue en 2024](https://aristeguinoticias.com/2105/mundo/brasil-supera-los-cinco-millones-de-casos-de-dengue-en-2024/) (Aristeguinoticias.com)
+
+- [Brasil supera los cinco millones de casos probables de dengue en 2024](https://www.montevideo.com.uy/Salud/Brasil-supera-los-cinco-millones-de-casos-probables-de-dengue-en-2024-uc888961) (Montevideo.com.uy)
+
+- [Preso por stalking, DJ alega estar com dengue e é encaminhado a UBS](https://www.metropoles.com/distrito-federal/preso-por-stalking-dj-alega-estar-com-dengue-e-e-encaminhado-a-ubs) (Metropoles.com)
+
+- [Dengue: Brasil ultrapassa marca de 5 milhões de casos em 2024](https://olhardigital.com.br/2024/05/21/medicina-e-saude/dengue-brasil-ultrapassa-marca-de-5-milhoes-de-casos-em-2024/) (Olhardigital.com.br)
+
+- [Dengue et JO : plutôt que de paniquer… videz l’eau de vos pots de fleurs !](https://www.marianne.net/societe/sante/dengue-et-jo-plutot-que-de-paniquer-vider-leau-de-vos-pots-de-fleurs) (Marianne.net)
+
+- [Tropenkrankheit mittlerweile auch in Europa - Fieber nach dem Urlaub? Diese Symptome deuten auf Dengue-Virus hin](https://www.focus.de/gesundheit/news/tropenkrankheit-mittlerweile-auch-in-europa-fieber-nach-dem-urlaub-diese-symptome-deuten-auf-dengue-virus-hin_id_259964057.html) (Focus)
+
+- [Dengue: Brasil passa dos 5 milhões de casos, com mais de 2.800 mortes](https://saude.ig.com.br/2024-05-21/dengue-brasil-passa-dos-5-milhoes-de-casos-mais-de-2800-mortes.html) (Ig.com.br)
+
+- [Brasil ultrapassa 5 milhões de casos de dengue em 2024](https://www.terra.com.br/noticias/brasil/brasil-ultrapassa-5-milhoes-de-casos-de-dengue-em-2024,5d15bc8434aea2c693a8afc65637864a01h2uu97.html) (Terra.com.br)
 
 - [Dengue: 9 estados e DF registram recorde histórico de casos](https://www.metropoles.com/brasil/dengue-9-estados-e-df-registram-recorde-historico-de-casos) (Metropoles.com)
 
@@ -3178,18 +3244,6 @@ Source: [News API](https://newsapi.org/)
 - [Milei deja la atención sanitaria al libre mercado en la peor epidemia de dengue](https://www.meneame.net/m/actualidad/milei-deja-atencion-sanitaria-libre-mercado-peor-epidemia-dengue) (Meneame.net)
 
 - [Milei decide no vacunar contra la epidemia de dengue y su ministro de Salud pide que no lleven pantalones cortos](https://www.meneame.net/m/politica/milei-decide-no-vacunar-contra-epidemia-dengue-ministro-salud-no) (Meneame.net)
-
-- [Fuerte suba: el país supera los 200.000 casos de dengue en lo que va del año y ya es un 54% más que en todo 2023](https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/) (La Nacion)
-
-- [Dá para ter dengue e Covid ao mesmo tempo?](https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html) (Terra.com.br)
-
-- [Ni el mosquito ni el clima: el otro factor de riesgo para la propagación del dengue que cada vez más señalan los expertos](https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/) (La Nacion)
-
-- [Guatemala y Panamá, los más afectados por ola de dengue en Centroamérica](https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783) (Montevideo.com.uy)
-
-- [Mortes por dengue no estado de São Paulo chegam a 221](https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221) (Metropoles.com)
-
-- [Se extiende el dengue por Centro y Sudamérica](https://www.jornada.com.mx/2024/04/07/mundo/022n1mun) (Jornada.com.mx)
 
 ## 24-15 (chikungunya)
 
