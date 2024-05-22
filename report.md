@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-05-21 19:05
-- **Most recent article:** 2024-05-20 18:27:34
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-05-22 07:06
+- **Most recent article:** 2024-05-21 05:00:33
 
 ---
 
@@ -12,28 +12,36 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 131 | 113 | 117 | 77 | 57 | 87 | 15 | 597 |
-| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 4 | 193 |
-| measles | 43 | 40 | 28 | 24 | 10 | 29 | 0 | 174 |
-| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 8 | 128 |
-| meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 0 | 80 |
+| dengue | 137 | 113 | 117 | 77 | 57 | 87 | 20 | 608 |
+| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 5 | 194 |
+| measles | 43 | 40 | 28 | 24 | 10 | 29 | 2 | 176 |
+| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 11 | 131 |
+| meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 2 | 82 |
 | mpox | 3 | 13 | 8 | 36 | 3 | 10 | 4 | 77 |
 | rabies | 8 | 3 | 3 | 4 | 22 | 10 | 0 | 50 |
 | chikungunya | 7 | 5 | 5 | 7 | 5 | 12 | 0 | 41 |
-| zika | 10 | 8 | 3 | 8 | 2 | 6 | 0 | 37 |
-| pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 2 | 35 |
+| zika | 10 | 8 | 3 | 8 | 2 | 6 | 1 | 38 |
+| pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 4 | 37 |
 | sarampión | 13 | 0 | 10 | 8 | 1 | 0 | 0 | 32 |
 | leptospirosis | 3 | 3 | 3 | 2 | 1 | 3 | 0 | 15 |
+| hpai | 0 | 0 | 0 | 0 | 4 | 3 | 1 | 8 |
 | yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 0 | 8 |
 | typhoid | 0 | 2 | 0 | 0 | 3 | 2 | 0 | 7 |
-| hpai | 0 | 0 | 0 | 0 | 4 | 3 | 0 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-21 (zika)
+
+- [Information for Human Cell, Tissue, and Cellular and Tissue-Based Product (HCT/P) Establishments Regarding FDA’s Determination that Zika Virus is no Longer a Relevant Communicable Disease Agent or Disease](https://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products/information-human-cell-tissue-and-cellular-and-tissue-based-product-hctp-establishments-regarding) (FDA.gov)
+
 ## 24-21 (pertussis)
+
+- [Czech Republic records nearly 15,000 cases of Pertussis, 6 die](https://www.thestar.com.my/news/world/2024/05/21/czech-republic-records-nearly-15000-cases-of-pertussis-6-die) (The Star Online)
+
+- [Lexington Health Department declares pertussis outbreak](https://www.lex18.com/news/lexington-health-department-declares-pertussis-outbreak) (LEX18 Lexington KY News)
 
 - [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
 
@@ -49,7 +57,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Deadly new strain of monkeypox in Africa virus raises concerns of spread](https://www.jpost.com/health-and-wellness/article-801670) (The Jerusalem Post)
 
+## 24-21 (meningitis)
+
+- [The Wisconsin Health Department announces new vaccine requirements for children](https://www.wmtv15news.com/2024/05/21/wisconsin-health-department-announces-new-vaccine-requirements-children/) (Wmtv15news.com)
+
+- [Trial date set for pharmacist charged in 2012 Michigan fungal meningitis outbreak case](https://www.cbsnews.com/detroit/news/man-heading-to-trial-in-michigan-fungal-meningitis-outbreak/) (CBS News)
+
+## 24-21 (measles)
+
+- [Pennsylvania health officials warn about measles exposure in Philadelphia region](https://www.cbsnews.com/philadelphia/news/pennsylvania-health-department-measles-exposure-philadelphia/) (CBS News)
+
+- [Residents warned of possible measles exposure in Philadelphia and Montgomery County](https://6abc.com/post/residents-warned-measles-exposure-philadelphia-montgomery-county/14848435/) (WPVI-TV)
+
 ## 24-21 (malaria)
+
+- [Serum Institute ships over 43k doses of malaria vaccine to African nations](https://timesofindia.indiatimes.com/city/pune/serum-institute-ships-over-43k-doses-of-malaria-vaccine-to-african-nations/articleshow/110285005.cms) (The Times of India)
 
 - [Mapping malaria in Africa: Climate change study predicts where mosquitoes will breed in future](https://phys.org/news/2024-05-malaria-africa-climate-mosquitoes-future.html) (Phys.Org)
 
@@ -59,7 +81,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
+## 24-21 (hpai)
+
+- [US Rulers Say There’s “No Evidence” Of Bird Flu Spreading to Humans](https://www.shtfplan.com/headline-news/us-rulers-say-theres-no-evidence-of-bird-flu-spreading-to-humans) (Shtfplan.com)
+
 ## 24-21 (h5n1)
+
+- [Readout of CDC Call with State Public Health Partners on H5N1 Influenza Monitoring](https://www.cdc.gov/media/releases/2024/s0521-readout-avian.html) (Cdc.gov)
+
+- [Учёный объяснил, что такое пастеризация и как она делает молоко безопасным для здоровья](https://www.ferra.ru/news/health/uchyonyi-obyasnil-chto-takoe-pasterizaciya-i-kak-ona-delaet-moloko-bezopasnym-dlya-zdorovya-20-05-2024.htm) (Ferra.ru)
+
+- [Evaluación de riesgos de un virus de influenza H5N1 altamente patógeno procedente del visón](https://www.meneame.net/m/ciencia/evaluacion-riesgos-virus-influenza-h5n1-altamente-patogeno-vison) (Meneame.net)
 
 - [Γρίπη πτηνών H5N1: Πίνουν απαστερίωτο γάλα μολυσμένο για να αποκτήσουν ανοσία](https://www.alphafreepress.gr/2024/05/20/kosmos/gripi-ptinon-h5n1-pinoun-apasterioto-gala-molysmeno-gia-na-apoktisoun-anosia/) (Alphafreepress.gr)
 
@@ -78,6 +110,16 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, in Usa gli allevatori contro i controlli nelle fattorie. I funzionari dei Cdc ricorrono ai veterinari locali](https://www.ilfattoquotidiano.it/2024/05/19/aviaria-in-usa-gli-allevatori-contro-i-controlli-nelle-fattorie-i-funzionari-dei-cdc-ricorrono-ai-veterinari-locali/7551261/) (Ilfattoquotidiano.it)
 
 ## 24-21 (dengue)
+
+- [Dengue: 9 estados e DF registram recorde histórico de casos](https://www.metropoles.com/brasil/dengue-9-estados-e-df-registram-recorde-historico-de-casos) (Metropoles.com)
+
+- [Campinas tem 198,8 mil vacinados contra a gripe e 11,6 mil contra a dengue; doses seguem disponíveis](https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/20/campinas-tem-1988-mil-vacinados-contra-a-gripe-e-116-mil-contra-a-dengue-doses-seguem-disponiveis.ghtml) (Globo)
+
+- [Brasil pode enfrentar segunda epidemia de dengue este ano](https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-20/brasil-pode-enfrentar-segunda-epidemia-de-dengue-este-ano.html) (Ig.com.br)
+
+- [Insider lança camiseta repelente para combater doenças transmitidas por mosquitos](https://ultimosegundo.ig.com.br/parceiros/adnews/2024-05-20/insider-lanca-camiseta-repelente-para-combater-doencas-transmitidas-por-mosquitos.html) (Ig.com.br)
+
+- [Dengue: Brasil ultrapassa 5 milhões de casos e bate novo recorde](https://www.metropoles.com/brasil/dengue-brasil-ultrapassa-5-milhoes-de-casos-e-bate-novo-recorde) (Metropoles.com)
 
 - [Interactive ad: Sapolio: The Guardian Toad](https://www.bestadsontv.com/ad/163266/Sapolio-The-Guardian-Toad) (Bestadsontv.com)
 
@@ -3136,6 +3178,18 @@ Source: [News API](https://newsapi.org/)
 - [Milei deja la atención sanitaria al libre mercado en la peor epidemia de dengue](https://www.meneame.net/m/actualidad/milei-deja-atencion-sanitaria-libre-mercado-peor-epidemia-dengue) (Meneame.net)
 
 - [Milei decide no vacunar contra la epidemia de dengue y su ministro de Salud pide que no lleven pantalones cortos](https://www.meneame.net/m/politica/milei-decide-no-vacunar-contra-epidemia-dengue-ministro-salud-no) (Meneame.net)
+
+- [Fuerte suba: el país supera los 200.000 casos de dengue en lo que va del año y ya es un 54% más que en todo 2023](https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/) (La Nacion)
+
+- [Dá para ter dengue e Covid ao mesmo tempo?](https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html) (Terra.com.br)
+
+- [Ni el mosquito ni el clima: el otro factor de riesgo para la propagación del dengue que cada vez más señalan los expertos](https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/) (La Nacion)
+
+- [Guatemala y Panamá, los más afectados por ola de dengue en Centroamérica](https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783) (Montevideo.com.uy)
+
+- [Mortes por dengue no estado de São Paulo chegam a 221](https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221) (Metropoles.com)
+
+- [Se extiende el dengue por Centro y Sudamérica](https://www.jornada.com.mx/2024/04/07/mundo/022n1mun) (Jornada.com.mx)
 
 ## 24-15 (chikungunya)
 

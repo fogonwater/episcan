@@ -1,8 +1,314 @@
 {
-  "last_updated": "2024-05-21 19:05",
-  "count_articles_total": 1409,
-  "count_articles_new": 18,
+  "last_updated": "2024-05-22 07:06",
+  "count_articles_total": 1432,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 9356,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mateus Salom\u00e3o",
+      "title": "Dengue: 9 estados e DF registram recorde hist\u00f3rico de casos",
+      "description": "Somados diagn\u00f3sticos dos cinco primeiros meses deste ano, o Brasil tem mais de 5,1 milh\u00f5es de casos de dengue",
+      "url": "https://www.metropoles.com/brasil/dengue-9-estados-e-df-registram-recorde-historico-de-casos",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/05/20173232/dengue-brasil.jpg",
+      "publishedAt": "2024-05-21 05:00:33",
+      "content": "Em meio \u00e0 explos\u00e3o de diagn\u00f3sticos, nove estados e o Distrito Federal j\u00e1 bateram recorde anual de casos de dengue. Assim, h\u00e1 mais de duas d\u00e9cadas, essas unidades da federa\u00e7\u00e3o n\u00e3o registravam tantos c\u2026 [+2260 chars]",
+      "retrievedAt": "2024-05-22 07:06:12.708543",
+      "internal_id": "7ac20a915764978aba338d6f66c97b6e333a8fb225a99f72092a7cd3c6b9dca0",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9354,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Readout of CDC Call with State Public Health Partners on H5N1 Influenza Monitoring",
+      "description": "In a meeting with public health partners, CDC Principal Deputy Director Nirav D. Shah laid out the agency\u2019s recommendations that influenza surveillance systems continue operating at enhanced levels during the summer and to increase the number of positive infl\u2026",
+      "url": "https://www.cdc.gov/media/releases/2024/s0521-readout-avian.html",
+      "urlToImage": "https://www.cdc.gov/media/images/releases/about-cdc-fb_pr.jpg",
+      "publishedAt": "2024-05-21 05:00:00",
+      "content": "May 21, 2024 \u2013 Today, in a meeting with public health partners, CDC Principal Deputy Director Nirav D. Shah laid out the agency\u2019s recommendations that influenza surveillance systems continue operatin\u2026 [+1436 chars]",
+      "retrievedAt": "2024-05-22 07:06:12.254806",
+      "internal_id": "9ba5385085372fdf40ac0e375fe8550f7de51a8b79c82d4500cf084accabdd3f",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9362,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Wmtv15news.com",
+      "author": "Katie Castellano",
+      "title": "The Wisconsin Health Department announces new vaccine requirements for children",
+      "description": "The Wisconsin Health Department announced Monday new vaccine requirements for child care centers and schools.",
+      "url": "https://www.wmtv15news.com/2024/05/21/wisconsin-health-department-announces-new-vaccine-requirements-children/",
+      "urlToImage": "https://gray-wmtv-prod.cdn.arcpublishing.com/resizer/v2/NSFUDDMHSJAYJN5ERGMDWKJWQE.png?auth=3db705995f422f614011e44afcc6230442ef26d1f9c15fd3f9ad82595df616c2&width=1200&height=600&smart=true",
+      "publishedAt": "2024-05-21 03:37:06",
+      "content": "MADISON, Wis. (WMTV) - The Wisconsin Health Department announced Monday new vaccine requirements for child care centers and schools. Meningitis vaccines are now required and Chickenpox infections mu\u2026 [+253 chars]",
+      "retrievedAt": "2024-05-22 07:06:12.919217",
+      "internal_id": "5b299836eab290abde48530048658a1c3bed666b64eae253b6308803ee9da99f",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9363,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Serum Institute ships over 43k doses of malaria vaccine to African nations",
+      "description": "Pune-based Serum Institute of India shipped the R21/Matrix-M\u2122 malaria vaccine to Africa, including the Central African Republic, South Sudan, and Democratic Republic of Congo. Developed with University of Oxford and Novavax's Matrix-M\u2122 adjuvant, the vaccine a\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/pune/serum-institute-ships-over-43k-doses-of-malaria-vaccine-to-african-nations/articleshow/110285005.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-110285980,width-1070,height-580,imgsize-1655565,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-21 01:46:54",
+      "content": "8 fastest growing succulents for the home garden",
+      "retrievedAt": "2024-05-22 07:06:13.629415",
+      "internal_id": "d7a22f8d09830cb1a2c5bb97707f25b94834179c28d2565a96bf36ff4653cc9a",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9361,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dejanay Booth-singleton",
+      "title": "Trial date set for pharmacist charged in 2012 Michigan fungal meningitis outbreak case",
+      "description": "Glenn Chin, 56, of Canton, Massachusetts, will appear in court on Nov. 4, 2024, according to the Michigan Attorney General's office. He is charged with 11 counts of second-degree murder.",
+      "url": "https://www.cbsnews.com/detroit/news/man-heading-to-trial-in-michigan-fungal-meningitis-outbreak/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/05/20/16dd09e3-a162-461f-ba56-a3e5fab1a9b0/thumbnail/1200x630/95f292f369a52c261ce47c7c3239fbf4/ap17262753307830.jpg?v=dac66bdad19d0be8e87f46552b582682",
+      "publishedAt": "2024-05-20 22:57:01",
+      "content": "(CBS DETROIT) - A Massachusetts man who is charged with murder in a nationwide fungal meningitis outbreak that struck Michigan is heading to trial later this year. Glenn Chin, 56, of Canton, Massach\u2026 [+1715 chars]",
+      "retrievedAt": "2024-05-22 07:06:12.914484",
+      "internal_id": "6cbed135de5fa501c69cecddd8487dab1472bb903e425c24aae1b70bf3473b25",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9364,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "Information for Human Cell, Tissue, and Cellular and Tissue-Based Product (HCT/P) Establishments Regarding FDA\u2019s Determination that Zika Virus is no Longer a Relevant Communicable Disease Agent or Disease",
+      "description": "This is the Information for Human Cell, Tissue, and Cellular and Tissue-Based Product (HCT/P) Establishments Regarding FDA\u2019s Determination that Zika Virus is no Longer a Relevant Communicable Disease Agent or Disease page",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products/information-human-cell-tissue-and-cellular-and-tissue-based-product-hctp-establishments-regarding",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2024-05-20 22:52:14",
+      "content": "FDA regulations require HCT/P establishments to make a donor eligibility determination for donors of HCT/Ps based on donor screening and testing. When, in the agencys view, a new relevant communicab\u2026 [+4180 chars]",
+      "retrievedAt": "2024-05-22 07:06:13.860184",
+      "internal_id": "229fb6f382a913dc53c5e9db24561cb8c4fedbef858394f66f580482babe27d4",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9360,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas tem 198,8 mil vacinados contra a gripe e 11,6 mil contra a dengue; doses seguem dispon\u00edveis",
+      "description": "Dados foram atualizados pela Secretaria de Sa\u00fade nesta segunda (20). Tire d\u00favidas sobre a imuniza\u00e7\u00e3o e veja hor\u00e1rios e onde receber as doses. Aplica\u00e7\u00e3o da vacina contra a gripe em posto de sa\u00fade de Campinas (SP): doses dispon\u00edveis para toda popula\u00e7\u00e3o acima do\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/20/campinas-tem-1988-mil-vacinados-contra-a-gripe-e-116-mil-contra-a-dengue-doses-seguem-disponiveis.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/Af1ZqTT7J2fDZeF_aKbbqa6xxas=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/H/p/lNYTdkS8iBr900cpwltQ/vacina-rc.jpg",
+      "publishedAt": "2024-05-20 22:50:38",
+      "content": "J\u00e1 em rela\u00e7\u00e3o a dengue, dispon\u00edvel para crian\u00e7as e adolescentes de 10 a 14 anos, foram 11.655 aplica\u00e7\u00f5es desde 11 de abril. Neste ano, a vacina contra a gripe protege contra as variantes A (H1N1 e \u2026 [+1469 chars]",
+      "retrievedAt": "2024-05-22 07:06:12.769963",
+      "internal_id": "957ee1668f397075d0476237352ea92366d600ce7c2b4d7362a5e7bb9a110056",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9353,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ferra.ru",
+      "author": "\u0412\u0430\u043b\u0435\u0440\u0438\u044f \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0430",
+      "title": "\u0423\u0447\u0451\u043d\u044b\u0439 \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043b, \u0447\u0442\u043e \u0442\u0430\u043a\u043e\u0435 \u043f\u0430\u0441\u0442\u0435\u0440\u0438\u0437\u0430\u0446\u0438\u044f \u0438 \u043a\u0430\u043a \u043e\u043d\u0430 \u0434\u0435\u043b\u0430\u0435\u0442 \u043c\u043e\u043b\u043e\u043a\u043e \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u043c \u0434\u043b\u044f \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f",
+      "description": "\u041d\u0435\u0434\u0430\u0432\u043d\u0438\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u043e \u0442\u043e\u043c, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0431\u044b\u043b \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d \u0432 \u043a\u043e\u0440\u043e\u0432\u044c\u0435\u043c \u043c\u043e\u043b\u043e\u043a\u0435, \u0437\u0430\u0441\u0442\u0430\u0432\u0438\u043b\u0438 \u0436\u0438\u0442\u0435\u043b\u0435\u0439 \u0421\u0428\u0410 \u0437\u0430\u0434\u0443\u043c\u0430\u0442\u044c\u0441\u044f, \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e \u043b\u0438 \u043f\u0438\u0442\u044c \u0432\u043e\u043e\u0431\u0449\u0435 \u043c\u043e\u043b\u043e\u043a\u043e, \u043f\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u043c\u043e\u0435 \u0432 \u0428\u0442\u0430\u0442\u044b. \u0414\u0430\u043d\u043d\u044b\u0435 \u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043f\u043e \u0441\u0430\u043d\u0438\u0442\u0430\u0440\u043d\u043e\u043c\u0443 \u043d\u0430\u0434\u0437\u043e\u0440\u0443 \u0437\u0430 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e\u043c \u043f\u0438\u0449\u0435\u0432\u044b\u0445 \u043f\u0440\u043e\u0434\u0443\u2026",
+      "url": "https://www.ferra.ru/news/health/uchyonyi-obyasnil-chto-takoe-pasterizaciya-i-kak-ona-delaet-moloko-bezopasnym-dlya-zdorovya-20-05-2024.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2024/05/20/16/6473797/b5d1fea9678992c1edf2320f710610ce6b22f15f.jpg",
+      "publishedAt": "2024-05-20 22:30:00",
+      "content": "() , , . , , , . , . , . Listeria monocytogenes , . , . , , , , ( - , ), Campylobacter ( ), ( , .).",
+      "retrievedAt": "2024-05-22 07:06:12.250248",
+      "internal_id": "b29f383a82e5b4ca3ed531aee5d4f95ad564af0388c22b456aabf93dbd260e06",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9355,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "onainigo",
+      "title": "Evaluaci\u00f3n de riesgos de un virus de influenza H5N1 altamente pat\u00f3geno procedente del vis\u00f3n",
+      "description": "Un aislado de H5N1 derivado de vis\u00f3n se transmite por contacto directo al 75% de los hurones expuestos y, en estudios de transmisi\u00f3n a\u00e9rea, el virus se transmite al 37,5% de los contactos. threadreaderapp.com/thread/1791147766460317814.html www.nature.com/art\u2026",
+      "url": "https://www.meneame.net/m/ciencia/evaluacion-riesgos-virus-influenza-h5n1-altamente-patogeno-vison",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-05-20 22:14:35",
+      "content": "Pues que repetimos de nuevo el modo Pandemia...",
+      "retrievedAt": "2024-05-22 07:06:12.262605",
+      "internal_id": "f1e266910b39e93d15061bc2953cb0c63673d54c49374239f57c87b1dde9ddc3",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9348,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Deng Yaomin",
+      "title": "Czech Republic records nearly 15,000 cases of Pertussis, 6 die",
+      "description": "PRAGUE, May 20 (Xinhua) -- The Czech Republic has recorded nearly 15,000 cases of whooping cough, or pertussis, and six infected people have died since the beginning of this year, according to the State Health Institute (SZU). Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/05/21/czech-republic-records-nearly-15000-cases-of-pertussis-6-die",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-05-20 21:45:00",
+      "content": "PRAGUE, May 20 (Xinhua) -- The Czech Republic has recorded nearly 15,000 cases of whooping cough, or pertussis, and six infected people have died since the beginning of this year, according to the St\u2026 [+827 chars]",
+      "retrievedAt": "2024-05-22 07:06:11.038694",
+      "internal_id": "d55f8ea08971fb42784c74e38ca3c54788da0d6a808bd1ce204907f5bd35040d",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9359,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Brasil pode enfrentar segunda epidemia de dengue este ano",
+      "description": "A atual onda de casos da dengue d\u00e1 sinais de decl\u00ednio, mas o Minist\u00e9rio da Sa\u00fade prev\u00ea que o Brasil pode enfrentar uma nova epidemia nos \u00faltimos meses do ano",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-05-20/brasil-pode-enfrentar-segunda-epidemia-de-dengue-este-ano.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/e7/2e/4p/e72e4pnbkv3o656wfrjmy7co0.jpg",
+      "publishedAt": "2024-05-20 21:35:21",
+      "content": "Ap\u00f3s 5 milh\u00f5es de casos de dengue e 2,8 mil mortes em decorr\u00eancia da doen\u00e7a, a atual epidemia da dengue perde for\u00e7a e caminha para o seu fim. No entanto, \u00e9 poss\u00edvel que o Brasil enfrente outra onda \u2026 [+3784 chars]",
+      "retrievedAt": "2024-05-22 07:06:12.742280",
+      "internal_id": "7399ee27b7f8b3d09cf858be1f540fc195efe6423822b6791bbf37d3eca88789",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9350,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Cbs Philadelphia",
+      "title": "Pennsylvania health officials warn about measles exposure in Philadelphia region",
+      "description": "Pennsylvania health officials are warning of three locations in Philadelphia and Montgomery counties where measles exposures could have happened.",
+      "url": "https://www.cbsnews.com/philadelphia/news/pennsylvania-health-department-measles-exposure-philadelphia/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/11/c925ed5e-13a3-434a-946a-f5436a8b7074/thumbnail/1200x630/2608241007d89328f70e87da1fd78b9f/gettyimages-1328334860.jpg?v=dac66bdad19d0be8e87f46552b582682",
+      "publishedAt": "2024-05-20 21:14:54",
+      "content": "PHILADELPHIA (CBS) \u2013 Officials in Pennsylvania are warning about possible measles exposures in the Philadelphia region. The Philadelphia Health Department joined the Montgomery County and Pennsylva\u2026 [+1868 chars]",
+      "retrievedAt": "2024-05-22 07:06:11.685749",
+      "internal_id": "82a94be1e3f6cfc1e089db0563b241f8fe5d07ff4b193f6d6535eb1a619bf79e",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9351,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": null,
+      "title": "Residents warned of possible measles exposure in Philadelphia and Montgomery County",
+      "description": "Health officials are warning the public about potential measles exposure in several locations in Philadelphia and Montgomery County.",
+      "url": "https://6abc.com/post/residents-warned-measles-exposure-philadelphia-montgomery-county/14848435/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/5229649_040119-wabc-measles-img.jpg?w=1600",
+      "publishedAt": "2024-05-20 20:44:27",
+      "content": "PHILADELPHIA (WPVI) -- Health officials are warning the public about potential measles exposure in several locations in Philadelphia and Montgomery County. The locations are, and the dates and times\u2026 [+934 chars]",
+      "retrievedAt": "2024-05-22 07:06:11.690560",
+      "internal_id": "d96384f6a18eb8716a7bee66c3851a03d43b40b46799689932dbe76c14d59bbf",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9349,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "LEX18 Lexington KY News",
+      "author": "Web Staff",
+      "title": "Lexington Health Department declares pertussis outbreak",
+      "description": "The Lexington-Fayette County Health Department declared a pertussis, or whooping cough, outbreak Monday afternoon.",
+      "url": "https://www.lex18.com/news/lexington-health-department-declares-pertussis-outbreak",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/12838d6/2147483647/strip/true/crop/986x518+0+19/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F4e%2F46%2Ff45794734845ab5afc2c71e621e5%2Fpertussis.jpg",
+      "publishedAt": "2024-05-20 20:22:02",
+      "content": "LEXINGTON, Ky. (LEX 18) The Lexington-Fayette County Health Department declared a pertussis, or whooping cough, outbreak Monday afternoon. The health department says nine total cases have been confi\u2026 [+291 chars]",
+      "retrievedAt": "2024-05-22 07:06:11.073449",
+      "internal_id": "f9af5d6d2159636a2770593e430ed363e611d534096dc40c6b15c0523e9f68ef",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9358,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Adnews, Adnews",
+      "title": "Insider lan\u00e7a camiseta repelente para combater doen\u00e7as transmitidas por mosquitos",
+      "description": "Forte aliada contra a dengue, pe\u00e7a utiliza tecnologia inovadora para afastar insetos.The post Insider lan\u00e7a camiseta repelente para combater doen\u00e7as transmitidas por mosquitos appeared first on ADNEWS.",
+      "url": "https://ultimosegundo.ig.com.br/parceiros/adnews/2024-05-20/insider-lanca-camiseta-repelente-para-combater-doencas-transmitidas-por-mosquitos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/b3/tt/25/b3tt25w868ksl42ajbaq954h5.jpg",
+      "publishedAt": "2024-05-20 20:05:19",
+      "content": "Ao atingir mais de 3 milh\u00f5es de casos prov\u00e1veis de dengue, de acordo com o Painel de Arboviroses do Minist\u00e9rio da Sa\u00fade , o Brasil nunca esteve t\u00e3o suscet\u00edvel ao mosquito transmissor, o Aedes Aegypt\u2026 [+3700 chars]",
+      "retrievedAt": "2024-05-22 07:06:12.720829",
+      "internal_id": "73ab2edcc713ed818ba7a502022f5c65de4bbe533a0a378e699a7c2ec6a96c9e",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9352,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "US Rulers Say There\u2019s \u201cNo Evidence\u201d Of Bird Flu Spreading to Humans",
+      "description": "While health authorities in the United States have confirmed that the highly pathogenic avian influenza (HPAI) has been spreading among dairy cattle in nine states since March of 2024, they are also still saying the risk to humans is low. But still, the warni\u2026",
+      "url": "https://www.shtfplan.com/headline-news/us-rulers-say-theres-no-evidence-of-bird-flu-spreading-to-humans",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2018/06/birdflu-e1529418976701.jpg",
+      "publishedAt": "2024-05-20 20:00:14",
+      "content": "While health authorities in the United States have confirmed that the highly pathogenic avian influenza (HPAI) has been spreading among dairy cattle in nine states since March of 2024, they are also \u2026 [+1911 chars]",
+      "retrievedAt": "2024-05-22 07:06:11.799843",
+      "internal_id": "b97f27838878f77bb7457a6314fa59624a1ece68e63239a7ce0493f57ab88a99",
+      "publishedAtLabel": "May 20"
+    },
+    {
+      "id": 9357,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Giovanna Estrela",
+      "title": "Dengue: Brasil ultrapassa 5 milh\u00f5es de casos e bate novo recorde",
+      "description": "Foram registradas mais de 2 mil mortes por dengue no pa\u00eds este ano, segundo informa\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade",
+      "url": "https://www.metropoles.com/brasil/dengue-brasil-ultrapassa-5-milhoes-de-casos-e-bate-novo-recorde",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2022/03/23131156/Foto-mosquito-da-dengue-3.jpg",
+      "publishedAt": "2024-05-20 19:35:02",
+      "content": "Os n\u00fameros da dengue n\u00e3o param de crescer. O Brasil alcan\u00e7ou, nesta segunda-feira (20/5), a marca de 5.100.766 de casos prov\u00e1veis de dengue em 2024. A informa\u00e7\u00e3o consta na mais recente atualiza\u00e7\u00e3o do\u2026 [+6192 chars]",
+      "retrievedAt": "2024-05-22 07:06:12.713048",
+      "internal_id": "0ff358b6319dc4de27a065b6305317f4cb62bddd2f231914e04e1d0f90f3f65f",
+      "publishedAtLabel": "May 20"
+    },
     {
       "id": 9338,
       "query": [
@@ -25435,6 +25741,114 @@
       "content": "Y mi libertad para ponerme pantalones cortos donde queda?",
       "retrievedAt": "2024-04-09 07:06:08.712972",
       "internal_id": "564eaa099fad3e9e030239277c6cdafbee9450adad7d93e58af268a0594fefaa",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7942,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Fuerte suba: el pa\u00eds supera los 200.000 casos de dengue en lo que va del a\u00f1o y ya es un 54% m\u00e1s que en todo 2023",
+      "description": "Se trata de una epidemia hist\u00f3rica; se reportaron 52.000 contagios en solo una semana y siguen las muertes",
+      "url": "https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/crecen-los-casos-de-dengue-en-el-pais-en-la-mayor-QYAJYSTDSZF5PD4WXL3D5ZILTI.jpeg?auth=5f1c2364d22e8b2da51c77c2e8b8c3729cb36f994b437dfbc620951760756998&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-07 18:47:52",
+      "content": "La mayorepidemia de dengue que enfrent\u00f3 hasta el momento el pa\u00eds super\u00f3 en las primeras 13 semanas de este a\u00f1o todos los casos acumulados en 2023. Si bien la comparaci\u00f3n es relativa, ya que parte de \u2026 [+2070 chars]",
+      "retrievedAt": "2024-04-09 07:06:08.813194",
+      "internal_id": "5ae38315a34a819009e3d3695aa2233437700668fedf9dfbf695abc344fbe9d9",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7923,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Jairo Bouer - Parceria",
+      "title": "D\u00e1 para ter dengue e Covid ao mesmo tempo?",
+      "description": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/07/421659606-istockfebre.jpg",
+      "publishedAt": "2024-04-07 17:00:11",
+      "content": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da dengue podem variar muito. Algumas pessoas t\u00eam sintomas muito intensos, outras t\u00eam sintomas mais ameno\u2026 [+744 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.883513",
+      "internal_id": "b4dc4a1fa650323a01ee2adb93db0abdfe0c5773905c5f3ed124518b1d86a87c",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Gabriela Origlia",
+      "title": "Ni el mosquito ni el clima: el otro factor de riesgo para la propagaci\u00f3n del dengue que cada vez m\u00e1s se\u00f1alan los expertos",
+      "description": "Si bien lo definen como \u201cuna enfermedad democr\u00e1tica\u201d, aparece un v\u00ednculo entre la infecci\u00f3n y la pobreza; causas y recomendaciones",
+      "url": "https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-viviendas-deficitarias-y-el-mal-tratamiento-W53O4OXG4VGM3P3AW2AWYOUXZU.JPG?auth=a694e5614bba61de5f61241698439dc471693c36b6ba15080dd617922fb81b97&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-07 15:40:41",
+      "content": "C\u00d3RDOBA. La Argentina atraviesa la peor epidemia de dengue desde 2009, con m\u00e1s de 180.000 casos diagnosticados (se estima que son a\u00fan m\u00e1s los no contabilizados) y 129 muertos, ysi bien se trata de un\u2026 [+6615 chars]",
+      "retrievedAt": "2024-04-09 07:06:08.797282",
+      "internal_id": "895f61ac4f89945e048be9bf10fe73c20337a21fad96b9b43ccd3539d23a334f",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7921,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Guatemala y Panam\u00e1, los m\u00e1s afectados por ola de dengue en Centroam\u00e9rica",
+      "description": "En Nicaragua, El Salvador y Costa Rica no hay muertos por la enfermedad en 2024. En Honduras, hay cuatro muertos y 8.000 casos.",
+      "url": "https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201807/_W933_80/659534.jpg",
+      "publishedAt": "2024-04-07 14:35:00",
+      "content": "Al menos 20 personas han muerto y m\u00e1s de 30.000 han sido contagiadas por una ola de dengue en Centroam\u00e9rica, donde Guatemala y Panam\u00e1 tienen este a\u00f1o el mayor balance de fallecidos. La Organizaci\u2026 [+2002 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.847014",
+      "internal_id": "f64089a353c82f065f153c6ffcc5e560f2302bf0f4a4afd5eccc6c82e9582f03",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7920,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luiz Vassallo",
+      "title": "Mortes por dengue no estado de S\u00e3o Paulo chegam a 221",
+      "description": "Em todo o estado h\u00e1 485 mortes em investiga\u00e7\u00e3o; foram 456.427 casos confirmados ao longo do ano",
+      "url": "https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-04-07 12:45:16",
+      "content": "S\u00e3o Paulo \u2013 O n\u00famero de mortes em raz\u00e3o de casos de dengue em 2023 chegou a 221 no estado de S\u00e3o Paulo, segundo dados da Secretaria estadual da Sa\u00fade. A pasta registra outros 485 \u00f3bitos em investiga\u00e7\u2026 [+1717 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.833995",
+      "internal_id": "c06f158d1bd95cc31be047934a0d7249a68a4a474a320378fb6e73265eb8d7e5",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7922,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Se extiende el dengue por Centro y Sudam\u00e9rica",
+      "description": "R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su \u201cpeor temporada de dengue\u201d, una \u201cenfermedad febril que afecta a lactantes, ni\u00f1os y adultos\u201d describe el organismo.",
+      "url": "https://www.jornada.com.mx/2024/04/07/mundo/022n1mun",
+      "urlToImage": "https://www.jornada.com.mx/2024/04/07/fotos/022n1mun-1.jpg",
+      "publishedAt": "2024-04-07 12:01:17",
+      "content": "Peri\u00f3dico La JornadaDomingo 7 de abril de 2024, p. 22 R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su peor temporada de dengue, una enfermedad febril que afecta a lactantes,\u2026 [+2321 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.866530",
+      "internal_id": "1ef59dff7bdcee691defb5d888bbdeb9c3e0abea41a52c5bae2169c80bdad59e",
       "publishedAtLabel": "Apr 7"
     }
   ]
