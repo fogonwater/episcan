@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-05-23 07:06
-- **Most recent article:** 2024-05-22 06:37:05
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-05-23 19:05
+- **Most recent article:** 2024-05-22 17:35:42
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 137 | 113 | 117 | 77 | 57 | 87 | 33 | 621 |
-| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 6 | 195 |
-| measles | 43 | 40 | 28 | 24 | 10 | 29 | 5 | 179 |
-| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 24 | 144 |
+| dengue | 131 | 113 | 117 | 77 | 57 | 87 | 37 | 619 |
+| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 10 | 199 |
+| measles | 43 | 40 | 28 | 24 | 10 | 29 | 7 | 181 |
+| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 33 | 153 |
 | meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 4 | 84 |
 | mpox | 3 | 13 | 8 | 36 | 3 | 10 | 6 | 79 |
-| rabies | 8 | 3 | 3 | 4 | 22 | 10 | 4 | 54 |
+| rabies | 8 | 3 | 3 | 4 | 22 | 10 | 5 | 55 |
 | chikungunya | 7 | 5 | 5 | 7 | 5 | 12 | 0 | 41 |
-| zika | 10 | 8 | 3 | 8 | 2 | 6 | 1 | 38 |
-| pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 4 | 37 |
+| zika | 10 | 8 | 3 | 8 | 2 | 6 | 2 | 39 |
+| pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 5 | 38 |
 | sarampión | 13 | 0 | 10 | 8 | 1 | 0 | 0 | 32 |
 | leptospirosis | 3 | 3 | 3 | 2 | 1 | 3 | 0 | 15 |
 | yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 4 | 12 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-21 (zika)
+
+- [Czy denga zagraża Polsce? Komary roznoszące tropikalne choroby coraz bliżej](https://zdrowie.gazeta.pl/Zdrowie/7,101580,30994436,czy-denga-zagraza-polsce-komary-roznoszace-tropikalne-choroby.html) (Gazeta.pl)
 
 - [Information for Human Cell, Tissue, and Cellular and Tissue-Based Product (HCT/P) Establishments Regarding FDA’s Determination that Zika Virus is no Longer a Relevant Communicable Disease Agent or Disease](https://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products/information-human-cell-tissue-and-cellular-and-tissue-based-product-hctp-establishments-regarding) (FDA.gov)
 
@@ -49,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (rabies)
 
+- [Rabies Warning as Disease Detected in Connecticut Black Bear](https://www.newsweek.com/rabies-detected-black-bear-connecticut-1903522) (Newsweek)
+
 - [Two people exposed to bat with rabies in Englewood](https://www.denverpost.com/2024/05/21/bat-rabies-englewood-colorado-arapahoe/) (The Denver Post)
 
 - [Lab sequences rabies in infected black bear](https://phys.org/news/2024-05-lab-sequences-rabies-infected-black.html) (Phys.Org)
@@ -58,6 +62,8 @@ Source: [News API](https://newsapi.org/)
 - [Kæledyr fra udlandet skal fra næste år være rabiesvaccineret, når de kommer til Danmark](https://www.dr.dk/nyheder/seneste/kaeledyr-fra-udlandet-skal-fra-naeste-aar-vaere-rabiesvaccineret-naar-de-kommer-til) (Www.dr.dk)
 
 ## 24-21 (pertussis)
+
+- [Media attention can impede positive predictive value of clinical diagnosis of low prevalence disease](https://www.bmj.com/content/385/bmj.q1133) (The BMJ)
 
 - [Czech Republic records nearly 15,000 cases of Pertussis, 6 die](https://www.thestar.com.my/news/world/2024/05/21/czech-republic-records-nearly-15000-cases-of-pertussis-6-die) (The Star Online)
 
@@ -93,6 +99,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (measles)
 
+- [Four more measles cases confirmed in Ireland, bringing total for year so far to thirty](https://www.thejournal.ie/four-more-measles-cases-confirmed-in-ireland-6386310-May2024/) (TheJournal.ie)
+
+- [4 Ways Vaccine Skeptics Mislead You on Measles and More](https://kffhealthnews.org/news/article/measles-how-vaccine-skeptics-mislead-public/) (Kffhealthnews.org)
+
 - [NSW Health issues new measles alert for south-west Sydney, urging residents to monitor symptoms for signs of the illness](https://www.skynews.com.au/australia-news/nsw-health-issues-new-measles-alert-for-southwest-sydney-urging-residents-to-monitor-symptoms-for-signs-of-the-illness/news-story/97a56e63814ecc14daa3c1e5bfcbf643) (Sky News Australia)
 
 - [Dr. Paul Parkman, who helped to eliminate rubella, dies at 91](https://www.bostonglobe.com/2024/05/21/metro/dr-paul-parkman-who-helped-eliminate-rubella-dies-91/) (The Boston Globe)
@@ -104,6 +114,14 @@ Source: [News API](https://newsapi.org/)
 - [Residents warned of possible measles exposure in Philadelphia and Montgomery County](https://6abc.com/post/residents-warned-measles-exposure-philadelphia-montgomery-county/14848435/) (WPVI-TV)
 
 ## 24-21 (malaria)
+
+- [‘Critical gaps’ in understanding climate change fuel tropical disease spread](https://news.un.org/en/story/2024/05/1150101) (UN News)
+
+- [Czy denga zagraża Polsce? Komary roznoszące tropikalne choroby coraz bliżej](https://zdrowie.gazeta.pl/Zdrowie/7,101580,30994436,czy-denga-zagraza-polsce-komary-roznoszace-tropikalne-choroby.html) (Gazeta.pl)
+
+- [La presencia de la malaria aviar en mosquitos es mayor conforme aumenta la distancia de ríos y marismas](https://www.abc.es/espana/andalucia/presencia-malaria-aviar-mosquitos-mayor-conforme-aumenta-20240522115410-nts.html) (Www.abc.es)
+
+- [La presencia de la malaria aviar en mosquitos es mayor al alejarse de ríos y marismas](https://www.infosalus.com/salud-investigacion/noticia-presencia-malaria-aviar-mosquitos-mayor-alejarse-rios-marismas-20240522114155.html) (Infosalus.com)
 
 - [Novavax: 1st shipment of R21/MatrixM malaria vaccine](https://www.marketscreener.com/quote/stock/NOVAVAX-INC-58256108/news/Novavax-1st-shipment-of-R21-MatrixM-malaria-vaccine-46782471/) (Marketscreener.com)
 
@@ -128,6 +146,24 @@ Source: [News API](https://newsapi.org/)
 - [US Rulers Say There’s “No Evidence” Of Bird Flu Spreading to Humans](https://www.shtfplan.com/headline-news/us-rulers-say-theres-no-evidence-of-bird-flu-spreading-to-humans) (Shtfplan.com)
 
 ## 24-21 (h5n1)
+
+- [Austrália registra primeiro caso de infecção humana por gripe aviária](https://www.metropoles.com/saude/australia-1-gripe-aviaria) (Metropoles.com)
+
+- [Πρώτο κρούσμα γρίπης των πτηνών σε άνθρωπο καταγράφηκε στην Αυστραλία](https://www.newsit.gr/kosmos/gripi-ton-ptinon-proto-krousma-se-anthropo-katagrafike-stin-aystralia/4089635/) (Newsit.gr)
+
+- [Australia’s 1st human case of bird flu confirmed in child - National | Globalnews.ca](https://globalnews.ca/news/10516848/bird-flu-child-australia/) (Global News)
+
+- [Bird Flu (H5N1) Explained: Australia’s First Human Case Of Bird Flu Reported In Child](https://www.forbes.com/sites/ariannajohnson/2024/05/22/bird-flu-h5n1-explained-australias-first-human-case-of-bird-flu-reported-in-child/) (Forbes)
+
+- [First human case of bird flu detected in Australia...](https://www.news.com.au/lifestyle/health/health-problems/child-confirmed-as-first-case-of-h5n1-bird-flu-in-australia/news-story/63d9155dbe59d9ab4dd45ff7c1c41513) (News.com.au)
+
+- [Links 5/22/2024](https://www.nakedcapitalism.com/2024/05/links-5-22-2024.html) (Nakedcapitalism.com)
+
+- [Child Recovers From First H5N1 Bird Flu Case In Australia; Separate Strain Hits Egg Farm](https://www.ibtimes.com.au/child-recovers-first-h5n1-bird-flu-case-australia-separate-strain-hits-egg-farm-1848200) (Ibtimes.com.au)
+
+- [Australia reports first human avian flu infection](https://www.channelnewsasia.com/world/australia-first-human-avian-flu-infection-4354801) (CNA)
+
+- [Questions and answers about ramping up H5N1 bird flu vaccine](https://www.statnews.com/2024/05/22/h5n1-bird-flu-vaccine-questions-and-answers/) (STAT)
 
 - [Australia informa del primer caso de gripe aviar en humanos de su Historia](https://www.elmundo.es/ciencia-y-salud/salud/2024/05/22/664d90e0fdddffbe1e8b4590.html) (El Mundo)
 
@@ -178,6 +214,14 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, in Usa gli allevatori contro i controlli nelle fattorie. I funzionari dei Cdc ricorrono ai veterinari locali](https://www.ilfattoquotidiano.it/2024/05/19/aviaria-in-usa-gli-allevatori-contro-i-controlli-nelle-fattorie-i-funzionari-dei-cdc-ricorrono-ai-veterinari-locali/7551261/) (Ilfattoquotidiano.it)
 
 ## 24-21 (dengue)
+
+- [Onda de dengue que assola América Latina chega a Miami](https://valor.globo.com/mundo/noticia/2024/05/22/onda-de-dengue-que-assola-america-latina-chega-a-miami.ghtml) (Globo)
+
+- [Dengue pode deixar sequelas no corpo? Entenda](https://www.terra.com.br/vida-e-estilo/dengue-pode-deixar-sequelas-no-corpo-entenda,ecbf051974fdedd2759eac415d059b6dl47sxqmu.html) (Terra.com.br)
+
+- [‘Critical gaps’ in understanding climate change fuel tropical disease spread](https://news.un.org/en/story/2024/05/1150101) (UN News)
+
+- [De maneira silenciosa, dengue também afeta o cérebro: veja como](https://www.terra.com.br/vida-e-estilo/saude/de-maneira-silenciosa-dengue-tambem-afeta-o-cerebro-veja-como,423a73733cb597bcc79dae7a4ae90ea0hq21b8o0.html) (Terra.com.br)
 
 - [DF registra 365 mortes por dengue em 2024; média é de 2 óbitos por dia](https://www.metropoles.com/distrito-federal/df-registra-365-mortes-por-dengue-em-2024-media-e-de-2-obitos-por-dia) (Metropoles.com)
 
@@ -3272,18 +3316,6 @@ Source: [News API](https://newsapi.org/)
 - [Milei deja la atención sanitaria al libre mercado en la peor epidemia de dengue](https://www.meneame.net/m/actualidad/milei-deja-atencion-sanitaria-libre-mercado-peor-epidemia-dengue) (Meneame.net)
 
 - [Milei decide no vacunar contra la epidemia de dengue y su ministro de Salud pide que no lleven pantalones cortos](https://www.meneame.net/m/politica/milei-decide-no-vacunar-contra-epidemia-dengue-ministro-salud-no) (Meneame.net)
-
-- [Fuerte suba: el país supera los 200.000 casos de dengue en lo que va del año y ya es un 54% más que en todo 2023](https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/) (La Nacion)
-
-- [Dá para ter dengue e Covid ao mesmo tempo?](https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html) (Terra.com.br)
-
-- [Ni el mosquito ni el clima: el otro factor de riesgo para la propagación del dengue que cada vez más señalan los expertos](https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/) (La Nacion)
-
-- [Guatemala y Panamá, los más afectados por ola de dengue en Centroamérica](https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783) (Montevideo.com.uy)
-
-- [Mortes por dengue no estado de São Paulo chegam a 221](https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221) (Metropoles.com)
-
-- [Se extiende el dengue por Centro y Sudamérica](https://www.jornada.com.mx/2024/04/07/mundo/022n1mun) (Jornada.com.mx)
 
 ## 24-15 (chikungunya)
 

@@ -1,8 +1,370 @@
 {
-  "last_updated": "2024-05-23 07:06",
-  "count_articles_total": 1475,
-  "count_articles_new": 14,
+  "last_updated": "2024-05-23 19:05",
+  "count_articles_total": 1489,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 9424,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Onda de dengue que assola Am\u00e9rica Latina chega a Miami",
+      "description": "A Fl\u00f3rida relatou 164 casos de dengue desde o in\u00edcio do ano \u2014 todos, exceto seis, associados a viagens internacionais",
+      "url": "https://valor.globo.com/mundo/noticia/2024/05/22/onda-de-dengue-que-assola-america-latina-chega-a-miami.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2024-05-22 17:35:42",
+      "content": "Sigla de centro-direita de Rishi Sunak enfrenta s\u00e9rie de crises, incluindo recess\u00e3o econ\u00f4mica e esc\u00e2ndalos de \u00e9tica; com isso, o Partido Trabalhista, de centro-esquerda, \u00e9 favorito",
+      "retrievedAt": "2024-05-23 19:05:51.869717",
+      "internal_id": "52d4333959500bbe5e3d63518e9170622a7ac0cc3a1358fb9d9cddd2326342b0",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9423,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Bons Fluidos",
+      "title": "Dengue pode deixar sequelas no corpo? Entenda",
+      "description": "O Brasil j\u00e1 registra mais de 4,8 milh\u00f5es de casos prov\u00e1veis de dengue somente neste ano. Os ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/dengue-pode-deixar-sequelas-no-corpo-entenda,ecbf051974fdedd2759eac415d059b6dl47sxqmu.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/22/842973256-capa-bons-fluidos-4-2.jpg",
+      "publishedAt": "2024-05-22 15:42:22",
+      "content": "O Brasil j\u00e1 registra mais de 4,8 milh\u00f5es de casos prov\u00e1veis de dengue somente neste ano. Os dados s\u00e3o do Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade. Por causa desta alta, desde o f\u2026 [+2407 chars]",
+      "retrievedAt": "2024-05-23 19:05:51.857689",
+      "internal_id": "6c41e191aa7baa5c71184c2be6be91b83098772747612ac9d702dd4c45244f5e",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9417,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Austr\u00e1lia registra primeiro caso de infec\u00e7\u00e3o humana por gripe avi\u00e1ria",
+      "description": "Pa\u00eds na Oceania ainda n\u00e3o tinha casos confirmados da doen\u00e7a at\u00e9 ent\u00e3o. Cientistas temem que a gripe avi\u00e1ria (H5N1) se torne uma epidemia",
+      "url": "https://www.metropoles.com/saude/australia-1-gripe-aviaria",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2023/05/22203143/gripe-aviaria-1.jpg",
+      "publishedAt": "2024-05-22 15:28:54",
+      "content": "A Austr\u00e1lia registrou, nesta quarta-feira (22/5), o primeiro caso de gripe avi\u00e1ria do pa\u00eds. A doen\u00e7a foi confirmada em um menino que, segundo as autoridades de sa\u00fade, se infectou durante uma viagem \u00e0\u2026 [+1799 chars]",
+      "retrievedAt": "2024-05-23 19:05:51.327197",
+      "internal_id": "002a17a9883ab60669d693e374e47dd20f2a05dbf908d0b94dff81f1ddf48dae",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9409,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jess Thomson",
+      "title": "Rabies Warning as Disease Detected in Connecticut Black Bear",
+      "description": "Connecticut officials found that a bear that had been behaving strangely had rabies, warning locals of the signs of rabid animals.",
+      "url": "https://www.newsweek.com/rabies-detected-black-bear-connecticut-1903522",
+      "urlToImage": "https://d.newsweek.com/en/full/2397416/bear-rabies.jpg",
+      "publishedAt": "2024-05-22 14:50:15",
+      "content": "In a rare case, a black bear in Connecticut has tested positive for rabies, sparking a warning from state wildlife officials. The bear was a wild female adult discovered in Canton, Connecticut, in F\u2026 [+4535 chars]",
+      "retrievedAt": "2024-05-23 19:05:50.392049",
+      "internal_id": "c6eecbfce1601cb0c0dbb2e37014f4c3e914b2dd230c44affa0b73523995ed32",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9415,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u03a3\u03c0\u03c5\u03c1\u03bf\u03c2 \u03a0\u03bb\u03bf\u03c5\u03bc\u03b9\u03b4\u03b7\u03c2",
+      "title": "\u03a0\u03c1\u03ce\u03c4\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03b5 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1",
+      "description": "\u0388\u03bd\u03b1 \u03c0\u03b1\u03b9\u03b4\u03af \u03c3\u03c4\u03b7\u03bd \u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1 \u03bc\u03bf\u03bb\u03cd\u03bd\u03b8\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03ba\u03b1\u03b9 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03af \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c7\u03ce\u03c1\u03b1, \u03b5\u03bd\u03ce \u03ad\u03bd\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03cc, \u03b5\u03be\u03b1\u03b9\u03c1\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c4\u03b9\u03ba\u03cc \u03c3\u03c4\u03ad\u03bb\u03b5\u03c7\u03bf\u03c2 \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03c0\u03c4\u03b7\u03bd\u03bf\u03c4\u03c1\u03bf\u03c6\u03b9\u03ba\u03ae \u03bc\u03bf\u03bd\u03ac\u03b4\u03b1. \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u0391\u03c1\u03c7\u03ad\u03c2 \u03c3\u03c4\u03b7\u03bd \u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1 \u03c4\u03bf \u03c0\u03b1\u03b9\u03b4\u03af \u03b5\u03af\u03c7\u03b5 \u03ba\u03bf\u03bb\u03bb\u03ae\u03c3\u03b5\u03b9 \u2026",
+      "url": "https://www.newsit.gr/kosmos/gripi-ton-ptinon-proto-krousma-se-anthropo-katagrafike-stin-aystralia/4089635/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2024/05/chickens-scaled.jpg",
+      "publishedAt": "2024-05-22 13:44:27",
+      "content": ", , . , . H5N1 , , . , , , . : iatropedia.gr",
+      "retrievedAt": "2024-05-23 19:05:51.294474",
+      "internal_id": "cb2371517950a157f75629453be98e79026343871ea330c9c10c09b2feb91cad",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9420,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Reuters",
+      "title": "Australia\u2019s 1st human case of bird flu confirmed in child - National | Globalnews.ca",
+      "description": "The case in Victoria involves an H5N1 virus, but the strain is not the same as those responsible for outbreaks in the United States, Looker said.",
+      "url": "https://globalnews.ca/news/10516848/bird-flu-child-australia/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2024/05/GettyImages-1465317269.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2024-05-22 13:26:23",
+      "content": "Australia reported its first human case of avian influenza on Wednesday in a child who authorities said had been infected in India but made a full recovery, while a different highly contagious strain\u2026 [+2953 chars]",
+      "retrievedAt": "2024-05-23 19:05:51.354988",
+      "internal_id": "aa9ee8c1d42a7d7e1ab74b53e43419874589d17efd8e0fd5bcf8bc62ab2bb1db",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9408,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Daniel J Chivers",
+      "title": "Media attention can impede positive predictive value of clinical diagnosis of low prevalence disease",
+      "description": "Smout and colleagues say that during periods of high prevalence of pertussis the positive predictive value of a clinical diagnosis is greater than when the prevalence is low.1 While this is a mathematical certainty, recent dialogue, medical publications, and \u2026",
+      "url": "https://www.bmj.com/content/385/bmj.q1133",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/385/8429.cover-source.jpg",
+      "publishedAt": "2024-05-22 13:06:11",
+      "content": "Daniel J Chivers, foundation year 2 doctorSheffield, UK djchivers307{at}gmail.com Smout and colleagues say that during periods of high prevalen\u2026 [+160 chars]",
+      "retrievedAt": "2024-05-23 19:05:50.093167",
+      "internal_id": "ba101792c1108b70adf1864ee2118e81a6df149d90b88d8f6b46438b570b19b9",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9413,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Arianna Johnson, Forbes Staff, \n Arianna Johnson, Forbes Staff\n https://www.forbes.com/sites/ariannajohnson/",
+      "title": "Bird Flu (H5N1) Explained: Australia\u2019s First Human Case Of Bird Flu Reported In Child",
+      "description": "Bird flu typically spreads among birds, but there have been recent outbreaks among cattle in the U.S., and one Texas man contracted the virus from sick cows. Here\u2019s why so many experts are worried about a possible new pandemic.",
+      "url": "https://www.forbes.com/sites/ariannajohnson/2024/05/22/bird-flu-h5n1-explained-australias-first-human-case-of-bird-flu-reported-in-child/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662a9d6a4635389a14a348ae/0x0.jpg?format=jpg&crop=2812,1581,x0,y128,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-22 12:29:04",
+      "content": "Heres the latest news about a global outbreak of H5N1 bird flu that started in 2020, and recently spread among cattle in U.S. states and marine mammals across the world, which has health officials cl\u2026 [+11383 chars]",
+      "retrievedAt": "2024-05-23 19:05:51.256058",
+      "internal_id": "dab5c5988364cbe3f01995b0dae5aa8397156be91c8ad7130cbf48f4177a99a2",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9412,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "news-com-au",
+      "source_name": "News.com.au",
+      "author": "Alex Blair",
+      "title": "First human case of bird flu detected in Australia...",
+      "description": "First human case of bird flu detected in Australia... (First column, 3rd story, link) Related stories:4 more cats die in USA...",
+      "url": "https://www.news.com.au/lifestyle/health/health-problems/child-confirmed-as-first-case-of-h5n1-bird-flu-in-australia/news-story/63d9155dbe59d9ab4dd45ff7c1c41513",
+      "urlToImage": "https://content.api.news/v3/images/bin/b1d34864f8ca952f4bd95939edde11d5",
+      "publishedAt": "2024-05-22 12:04:36",
+      "content": "A child has been confirmed as the first case of H5N1 bird flu in Australia. The child contracted the avian influenza A infection while in India and fell ill in March this year, according to Victori\u2026 [+2131 chars]",
+      "retrievedAt": "2024-05-23 19:05:51.251303",
+      "internal_id": "c1655f0225126db7c3598f4b52ddf8e051e00ca220ad18c294978917f036ec58",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9422,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "\u2018Critical gaps\u2019 in understanding climate change fuel tropical disease spread",
+      "description": "A comprehensive review by the UN health agency has revealed critical gaps in understanding the full impact of climate change on malaria, dengue, trachoma and other tropical diseases. Read Full Story on UN News The post \u2018Critical gaps\u2019 in understanding climate\u2026",
+      "url": "https://news.un.org/en/story/2024/05/1150101",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/13-10-2022-UNICEF-UN0705919-Pakistan.jpg/image770x420cropped.jpg",
+      "publishedAt": "2024-05-22 12:00:00",
+      "content": "The World Health Organization (WHO) study, conducted in partnership with Reaching the Last Mile (RLM), a global health initiative to eliminate neglected tropical diseases (NTDs), found that rising te\u2026 [+1941 chars]",
+      "retrievedAt": "2024-05-23 19:05:51.852997",
+      "internal_id": "9314782a024ecfcfd5ac8d14d2c1d2e0551a98df4508fb07b2bc3562345e94f3",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9410,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Lauren Boland",
+      "title": "Four more measles cases confirmed in Ireland, bringing total for year so far to thirty",
+      "description": "Of the 30 confirmed cases this year, the majority have been among children and young adults.",
+      "url": "https://www.thejournal.ie/four-more-measles-cases-confirmed-in-ireland-6386310-May2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6386310/river/?height=400&version=6386335",
+      "publishedAt": "2024-05-22 11:50:59",
+      "content": "FOUR MORE MEASLES cases have been confirmed in Ireland, bringing the number of confirmed cases this year to thirty. The latest figures from the Health Protection Surveillance Centre (HPSC) show that\u2026 [+1274 chars]",
+      "retrievedAt": "2024-05-23 19:05:50.654980",
+      "internal_id": "d1ef4b1482eb942f9b5d93ffff7faa4106cc6a14e69a9e3bb67e1609268a0d71",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9426,
+      "query": [
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Anna Kurek",
+      "title": "Czy denga zagra\u017ca Polsce? Komary roznosz\u0105ce tropikalne choroby coraz bli\u017cej",
+      "description": "Europie gro\u017c\u0105 choroby dotychczas u nas nieznane. Denga, Zika, malaria i inne tropikalne choroby zaka\u017ane mog\u0105 do nas dotrze\u0107 za spraw\u0105 komar\u00f3w, kt\u00f3rym sprzyja ocieplaj\u0105cy si\u0119 klimat.",
+      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,30994436,czy-denga-zagraza-polsce-komary-roznoszace-tropikalne-choroby.html",
+      "urlToImage": "https://bi.im-g.pl/im/16/8f/1d/z30994710IER,Komar-tygrysi.jpg",
+      "publishedAt": "2024-05-22 11:30:00",
+      "content": "- (...) W cigu najbliszych kilku dekad epidemie chor\u00f3b przenoszonych przez komary rozprzestrzeni si w obecnie nienaraonych na t chorob czciach Europy P\u00f3nocnej, Azji, Ameryki P\u00f3nocnej i Australii - m\u00f3\u2026 [+2535 chars]",
+      "retrievedAt": "2024-05-23 19:05:52.578407",
+      "internal_id": "b5ed8427c482959b6db4cf08121fb33a8653d58fab7235e3f4f53095f175cdf3",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9416,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Links 5/22/2024",
+      "description": "Our blistering daily links: moar cat bird flu victims, coffee drinking decline, Taiwan factory kill switches, police getting DNA via false Covid tests, AfD, Netanyahu doubles down on genocide, Zelensky meltdown, Trump beats Biden $ haul, Supremes, confused Fe\u2026",
+      "url": "https://www.nakedcapitalism.com/2024/05/links-5-22-2024.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-22-at-5.47.57-PM.png",
+      "publishedAt": "2024-05-22 10:59:13",
+      "content": "4 more cats die of H5N1 bird flu in the U.S. BNO :-( Americans are drinking half the coffee they did in the 40s Guardian. Kevin W: \u201cThere is literally no resemblance between 1940s coffee and modern \u2026 [+9779 chars]",
+      "retrievedAt": "2024-05-23 19:05:51.302972",
+      "internal_id": "1bc6a074f3c3afc2e1401a6b16079e8c9c845949ed8b64255963d69bb95d3ac0",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9418,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ibtimes.com.au",
+      "author": "Shreyashi Chakraborty",
+      "title": "Child Recovers From First H5N1 Bird Flu Case In Australia; Separate Strain Hits Egg Farm",
+      "description": "The child was understood to have returned from India in March, following which they tested positive for the avian influenza H5N1 strain.",
+      "url": "https://www.ibtimes.com.au/child-recovers-first-h5n1-bird-flu-case-australia-separate-strain-hits-egg-farm-1848200",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1662192/bird-flu-spreading-through-southern-france-highly-contagious-fowl-poses-no-health-risk-humans.jpg",
+      "publishedAt": "2024-05-22 10:44:56",
+      "content": "The first human case of the H5N1 strain of bird flu to be identified in Australia has been identified in a child, who recently returned from abroad. The announcement coincides with the discovery of \u2026 [+2021 chars]",
+      "retrievedAt": "2024-05-23 19:05:51.335534",
+      "internal_id": "aa94eec300fc462984e3a5690a7d87847465e0c1796f5ed2782e2969bef5d7ca",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9425,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "La presencia de la malaria aviar en mosquitos es mayor conforme aumenta la distancia de r\u00edos y marismas",
+      "description": "Un equipo cient\u00edfico de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana (EBD-CSIC), la Universidad de Granada y el Servicio de Control de Mosquitos de la Diputaci\u00f3n de Huelva ha analizado mediante t\u00e9cnicas moleculares la presencia de par\u00e1sitos de la malaria aviar en el mosqu\u2026",
+      "url": "https://www.abc.es/espana/andalucia/presencia-malaria-aviar-mosquitos-mayor-conforme-aumenta-20240522115410-nts.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2024/05/22/mosquitos-picadura-estudio-kdjB--1024x512@diario_abc.JPG",
+      "publishedAt": "2024-05-22 09:54:10",
+      "content": "Un equipo cient\u00edfico de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana (EBD-CSIC), la Universidad de Granada y el Servicio de Control de Mosquitos de la Diputaci\u00f3n de Huelva ha analizado mediante t\u00e9cnicas molecular\u2026 [+2645 chars]",
+      "retrievedAt": "2024-05-23 19:05:52.551872",
+      "internal_id": "309ffcfa6bb62fe39719036f8363c67e69a382679e8c0a670b1dd9e1dac16fbc",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9427,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La presencia de la malaria aviar en mosquitos es mayor al alejarse de r\u00edos y marismas",
+      "description": "Un equipo cient\u00edfico de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana (EBD-CSIC), la Universidad de Granada y el Servicio de Control de Mosquitos de la Diputaci\u00f3n de Huelva ha analizado mediante t\u00e9cnicas moleculares la presencia de par\u00e1sitos de la malaria aviar en el mosqu\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-presencia-malaria-aviar-mosquitos-mayor-alejarse-rios-marismas-20240522114155.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240522114155_1200.jpg",
+      "publishedAt": "2024-05-22 09:41:55",
+      "content": "SEVILLA, 22 May. (EUROPA PRESS) - Un equipo cient\u00edfico de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana (EBD-CSIC), la Universidad de Granada y el Servicio de Control de Mosquitos de la Diputaci\u00f3n de Huelva ha \u2026 [+2712 chars]",
+      "retrievedAt": "2024-05-23 19:05:52.583144",
+      "internal_id": "bd62c94bbd3b6ea7511eef38cd74cf618059c975d4b855d436875decffbe530e",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9414,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Australia reports first human avian flu infection",
+      "description": "SYDNEY/CANBERRA: Australia reported its first human case of avian influenza on Wednesday (May 22) in a child who authorities said had been infected in India but made a full recovery, while a different highly contagious strain was found on an egg farm.",
+      "url": "https://www.channelnewsasia.com/world/australia-first-human-avian-flu-infection-4354801",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--vFUKiFBB--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-05-02t030538z_1_lynxmpek4102j_rtroptp_3_health-birdflu-usa.jpg?itok=7D4KwVAl",
+      "publishedAt": "2024-05-22 09:18:00",
+      "content": "The case in Victoria involves an H5N1 virus, but the strain is not the same as those responsible for outbreaks in the United States, Looker said. A farm worker in Texas tested positive for the virus\u2026 [+937 chars]",
+      "retrievedAt": "2024-05-23 19:05:51.283183",
+      "internal_id": "7aafad52d627e44a51827c16217d157724abb036b74e3cc130af8aea4ea50939",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9421,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Homework",
+      "title": "De maneira silenciosa, dengue tamb\u00e9m afeta o c\u00e9rebro: veja como",
+      "description": "Entre 1% e 5% dos pacientes contaminados podem desenvolver doen\u00e7as neurol\u00f3gicas. Especialista fala sobre o assunto",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/de-maneira-silenciosa-dengue-tambem-afeta-o-cerebro-veja-como,423a73733cb597bcc79dae7a4ae90ea0hq21b8o0.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/21/de-maneira-silenciosa-qhntpyz05277.jpg",
+      "publishedAt": "2024-05-22 09:15:29",
+      "content": "ResumoO Brasil ultrapassou os 4,2 milh\u00f5es de casos de dengue previstos para 2024, o maior surto dos \u00faltimos 24 anos. Os sintomas mais comuns s\u00e3o febre alta e manchas vermelhas no corpo, al\u00e9m de risco\u2026 [+2622 chars]",
+      "retrievedAt": "2024-05-23 19:05:51.827910",
+      "internal_id": "ff70a0ca7e20edf4996b628aac5f8973da8e966893f02a05016c41ba6a4e7521",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9419,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "Questions and answers about ramping up H5N1 bird flu vaccine",
+      "description": "How easy is it to switch from seasonal to pandemic flu vaccine production? Does a bird flu vaccine for cows make sense? The answers are complicated.",
+      "url": "https://www.statnews.com/2024/05/22/h5n1-bird-flu-vaccine-questions-and-answers/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/05/Cow_vaccine_birdfluIllustration-1024x576.jpg",
+      "publishedAt": "2024-05-22 09:07:03",
+      "content": "If the H5N1 bird flu virus ever acquires the ability to transmit easily to and among people keep your fingers crossed that it doesnt the world is going to need serious amounts of vaccine. Like, lakes\u2026 [+15222 chars]",
+      "retrievedAt": "2024-05-23 19:05:51.343338",
+      "internal_id": "519fd7e50ed55b0196671f33347ee63de45679ac535c65d6b3c5c31caa094d0f",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9411,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen and C\u00e9line Gounder",
+      "title": "4 Ways Vaccine Skeptics Mislead You on Measles and More",
+      "description": "Vaccine scare tactics haven\u2019t shifted, but more parents are falling for them. Here\u2019s what the rhetoric gets wrong and how it endangers children.",
+      "url": "https://kffhealthnews.org/news/article/measles-how-vaccine-skeptics-mislead-public/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/05/GettyImages-1424336906.jpg",
+      "publishedAt": "2024-05-22 09:00:00",
+      "content": "Amy Maxmen and C\u00e9line GounderMeasles is on the rise in the United States. So far this year, the number of cases is about 17 times what it was, on average, during the same period in each of the four y\u2026 [+9989 chars]",
+      "retrievedAt": "2024-05-23 19:05:50.666758",
+      "internal_id": "a803be173a04410adc0ead1f5e96ec3521dfcf77991ecab706e2aec11abca606",
+      "publishedAtLabel": "May 22"
+    },
     {
       "id": 9400,
       "query": [
@@ -26517,114 +26879,6 @@
       "content": "Y mi libertad para ponerme pantalones cortos donde queda?",
       "retrievedAt": "2024-04-09 07:06:08.712972",
       "internal_id": "564eaa099fad3e9e030239277c6cdafbee9450adad7d93e58af268a0594fefaa",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7942,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "Fuerte suba: el pa\u00eds supera los 200.000 casos de dengue en lo que va del a\u00f1o y ya es un 54% m\u00e1s que en todo 2023",
-      "description": "Se trata de una epidemia hist\u00f3rica; se reportaron 52.000 contagios en solo una semana y siguen las muertes",
-      "url": "https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/crecen-los-casos-de-dengue-en-el-pais-en-la-mayor-QYAJYSTDSZF5PD4WXL3D5ZILTI.jpeg?auth=5f1c2364d22e8b2da51c77c2e8b8c3729cb36f994b437dfbc620951760756998&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-07 18:47:52",
-      "content": "La mayorepidemia de dengue que enfrent\u00f3 hasta el momento el pa\u00eds super\u00f3 en las primeras 13 semanas de este a\u00f1o todos los casos acumulados en 2023. Si bien la comparaci\u00f3n es relativa, ya que parte de \u2026 [+2070 chars]",
-      "retrievedAt": "2024-04-09 07:06:08.813194",
-      "internal_id": "5ae38315a34a819009e3d3695aa2233437700668fedf9dfbf695abc344fbe9d9",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7923,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Jairo Bouer - Parceria",
-      "title": "D\u00e1 para ter dengue e Covid ao mesmo tempo?",
-      "description": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/07/421659606-istockfebre.jpg",
-      "publishedAt": "2024-04-07 17:00:11",
-      "content": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da dengue podem variar muito. Algumas pessoas t\u00eam sintomas muito intensos, outras t\u00eam sintomas mais ameno\u2026 [+744 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.883513",
-      "internal_id": "b4dc4a1fa650323a01ee2adb93db0abdfe0c5773905c5f3ed124518b1d86a87c",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7938,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Gabriela Origlia",
-      "title": "Ni el mosquito ni el clima: el otro factor de riesgo para la propagaci\u00f3n del dengue que cada vez m\u00e1s se\u00f1alan los expertos",
-      "description": "Si bien lo definen como \u201cuna enfermedad democr\u00e1tica\u201d, aparece un v\u00ednculo entre la infecci\u00f3n y la pobreza; causas y recomendaciones",
-      "url": "https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-viviendas-deficitarias-y-el-mal-tratamiento-W53O4OXG4VGM3P3AW2AWYOUXZU.JPG?auth=a694e5614bba61de5f61241698439dc471693c36b6ba15080dd617922fb81b97&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-07 15:40:41",
-      "content": "C\u00d3RDOBA. La Argentina atraviesa la peor epidemia de dengue desde 2009, con m\u00e1s de 180.000 casos diagnosticados (se estima que son a\u00fan m\u00e1s los no contabilizados) y 129 muertos, ysi bien se trata de un\u2026 [+6615 chars]",
-      "retrievedAt": "2024-04-09 07:06:08.797282",
-      "internal_id": "895f61ac4f89945e048be9bf10fe73c20337a21fad96b9b43ccd3539d23a334f",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7921,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Guatemala y Panam\u00e1, los m\u00e1s afectados por ola de dengue en Centroam\u00e9rica",
-      "description": "En Nicaragua, El Salvador y Costa Rica no hay muertos por la enfermedad en 2024. En Honduras, hay cuatro muertos y 8.000 casos.",
-      "url": "https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201807/_W933_80/659534.jpg",
-      "publishedAt": "2024-04-07 14:35:00",
-      "content": "Al menos 20 personas han muerto y m\u00e1s de 30.000 han sido contagiadas por una ola de dengue en Centroam\u00e9rica, donde Guatemala y Panam\u00e1 tienen este a\u00f1o el mayor balance de fallecidos. La Organizaci\u2026 [+2002 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.847014",
-      "internal_id": "f64089a353c82f065f153c6ffcc5e560f2302bf0f4a4afd5eccc6c82e9582f03",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7920,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Luiz Vassallo",
-      "title": "Mortes por dengue no estado de S\u00e3o Paulo chegam a 221",
-      "description": "Em todo o estado h\u00e1 485 mortes em investiga\u00e7\u00e3o; foram 456.427 casos confirmados ao longo do ano",
-      "url": "https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
-      "publishedAt": "2024-04-07 12:45:16",
-      "content": "S\u00e3o Paulo \u2013 O n\u00famero de mortes em raz\u00e3o de casos de dengue em 2023 chegou a 221 no estado de S\u00e3o Paulo, segundo dados da Secretaria estadual da Sa\u00fade. A pasta registra outros 485 \u00f3bitos em investiga\u00e7\u2026 [+1717 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.833995",
-      "internal_id": "c06f158d1bd95cc31be047934a0d7249a68a4a474a320378fb6e73265eb8d7e5",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7922,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Se extiende el dengue por Centro y Sudam\u00e9rica",
-      "description": "R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su \u201cpeor temporada de dengue\u201d, una \u201cenfermedad febril que afecta a lactantes, ni\u00f1os y adultos\u201d describe el organismo.",
-      "url": "https://www.jornada.com.mx/2024/04/07/mundo/022n1mun",
-      "urlToImage": "https://www.jornada.com.mx/2024/04/07/fotos/022n1mun-1.jpg",
-      "publishedAt": "2024-04-07 12:01:17",
-      "content": "Peri\u00f3dico La JornadaDomingo 7 de abril de 2024, p. 22 R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su peor temporada de dengue, una enfermedad febril que afecta a lactantes,\u2026 [+2321 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.866530",
-      "internal_id": "1ef59dff7bdcee691defb5d888bbdeb9c3e0abea41a52c5bae2169c80bdad59e",
       "publishedAtLabel": "Apr 7"
     }
   ]
