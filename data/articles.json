@@ -1,8 +1,260 @@
 {
-  "last_updated": "2024-05-22 19:05",
-  "count_articles_total": 1455,
-  "count_articles_new": 29,
+  "last_updated": "2024-05-23 07:06",
+  "count_articles_total": 1475,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 9400,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Reuters",
+      "title": "Australia informa del primer caso de gripe aviar en humanos de su Historia",
+      "description": "Australia inform\u00f3 este mi\u00e9rcoles de su primer caso humano de gripe aviar A(H5N1), aunque no hay se\u00f1ales de transmisi\u00f3n y la posibilidad de que se produjeran m\u00e1s casos en...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/05/22/664d90e0fdddffbe1e8b4590.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/d9d962394de6e8987b9ed01d9c2252b0/resize/1200/f/webp/assets/multimedia/imagenes/2023/02/10/16760263683479.jpg",
+      "publishedAt": "2024-05-22 06:37:05",
+      "content": "Australia inform\u00f3 este mi\u00e9rcoles de su primer caso humano de gripe aviar A(H5N1), aunque no hay se\u00f1ales de transmisi\u00f3n y la posibilidad de que se produjeran m\u00e1s casos en humanos era muy baja, seg\u00fan e\u2026 [+1702 chars]",
+      "retrievedAt": "2024-05-23 07:06:05.693819",
+      "internal_id": "8016a96afe881faef73b5cbce48a4667bf28e10e44d56cb436bdc92cdb7df281",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9397,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "CDC Reports Second Human Case of H5 Bird Flu Tied to Dairy Cow Outbreak",
+      "description": "CDC Reports Second Human Case of H5 Bird Flu Tied to Dairy Cow Outbreak",
+      "url": "https://www.cdc.gov/media/releases/2024/s0522-human-case-h5.html",
+      "urlToImage": "https://www.cdc.gov/media/images/releases/about-cdc-fb_pr.jpg",
+      "publishedAt": "2024-05-22 05:00:00",
+      "content": "May 22, 2024 \u2013 A human case of highly pathogenic avian influenza (HPAI) A(H5) (\u201cH5 bird flu\u201d) virus infection in the United States has been identified in the state of Michigan. This is the second cas\u2026 [+5872 chars]",
+      "retrievedAt": "2024-05-23 07:06:05.287622",
+      "internal_id": "b9e5dc86d130d6b5300be5809a93df68fc1d56a1832ecc37c53305ffc638dc22",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9406,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Body lice may be bigger plague spreaders than previously thought",
+      "description": "A new laboratory study suggests that human body lice are more efficient at transmitting Yersinia pestis, the bacterium that causes plague, than previously thought, supporting the possibility that they may have contributed to past pandemics.",
+      "url": "https://www.sciencedaily.com/releases/2024/05/240521204327.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-05-22 00:43:27",
+      "content": "A new laboratory study suggests that human body lice are more efficient at transmitting Yersinia pestis, the bacterium that causes plague, than previously thought, supporting the possibility that the\u2026 [+2501 chars]",
+      "retrievedAt": "2024-05-23 07:06:07.949790",
+      "internal_id": "732be6c68b0d832c4616adcb29d4fb545aeae4bc8e8648d5846fa15bfe0711ef",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9396,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Adriana Mageros",
+      "title": "NSW Health issues new measles alert for south-west Sydney, urging residents to monitor symptoms for signs of the illness",
+      "description": "Residents in south-west Sydney have been asked to be alert for signs and symptoms of measles after a child visited several locations while infectious.",
+      "url": "https://www.skynews.com.au/australia-news/nsw-health-issues-new-measles-alert-for-southwest-sydney-urging-residents-to-monitor-symptoms-for-signs-of-the-illness/news-story/97a56e63814ecc14daa3c1e5bfcbf643",
+      "urlToImage": "https://content.api.news/v3/images/bin/e057278ad3ab1eced5ce99b40b47d60b",
+      "publishedAt": "2024-05-21 23:37:21",
+      "content": "Residents in south-west Sydney have been asked to be alert for signs and symptoms of measles after a child visited several locations while infectious. New South Wales Health said the child recently\u2026 [+2375 chars]",
+      "retrievedAt": "2024-05-23 07:06:05.137593",
+      "internal_id": "dc92f3fe79252abc4bb9d7526eb09f16a3ed829c3621fb7e5b771afe1f986f15",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9401,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Kaitlin Lewis",
+      "title": "Bird Flu Update as CDC Issues New Recommendations",
+      "description": "The CDC is encouraging local and state health officials to use \"enhanced levels\" of monitoring for flu cases to track possible bird flu inflections.",
+      "url": "https://www.newsweek.com/bird-flu-update-cdc-issues-new-recommendations-1903282",
+      "urlToImage": "https://d.newsweek.com/en/full/2397124/bird-flu-update-cdc-issues-recommendations.jpg",
+      "publishedAt": "2024-05-21 23:05:51",
+      "content": "The Centers for Disease Control and Prevention (CDC) urges state and local health officials to keep up with influenza testing over the summer to track any potential human infections of the H5N1 virus\u2026 [+3431 chars]",
+      "retrievedAt": "2024-05-23 07:06:05.717837",
+      "internal_id": "580fc8f483e68abae028cda73c8388052bbd4bb0ab1c602cef5d81611d87c280",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9395,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Sam Roberts",
+      "title": "Dr. Paul Parkman, who helped to eliminate rubella, dies at 91",
+      "description": "Dr. Paul D. Parkman, whose research was instrumental in identifying the virus that causes rubella and developing a vaccine that has prevented an epidemic of the disease in the United States for more than 50 years, died on May 7 at his home in Auburn, New York\u2026",
+      "url": "https://www.bostonglobe.com/2024/05/21/metro/dr-paul-parkman-who-helped-eliminate-rubella-dies-91/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/IQ_mluSzbWwromjLclUDXqEQvIM=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/RAVDERZMXTDJOT3RNCLVHAG5NE.jpg",
+      "publishedAt": "2024-05-21 22:29:15",
+      "content": "Rubella, also known as German measles because German scientists classified it in the 19th century, is a moderate illness for most patients, identified by a spotty and often itchy red rash. But in pre\u2026 [+4483 chars]",
+      "retrievedAt": "2024-05-23 07:06:05.126070",
+      "internal_id": "62676f38afeb6a99ec06079fbc29ce3b4e9f22232a9bf5c579debd98fbc7e5a5",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9399,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Bnonews.com",
+      "author": "https://facebook.com/bnonews/",
+      "title": "4 MORE cats die of bird flu in USA...",
+      "description": "Four more cats have died of H5N1 bird flu in the United States, including two pets in South Dakota with no links to poultry or dairy cows, according to state and federal officials. At least 14 cats have recently died of bird flu. Of the newly reported cases, \u2026",
+      "url": "https://bnonews.com/index.php/2024/05/4-more-cats-die-of-h5n1-bird-flu-in-the-u-s/",
+      "urlToImage": "https://bnonews.com/wp-content/uploads/2023/04/2018Cat-1000x600.jpg",
+      "publishedAt": "2024-05-21 22:01:36",
+      "content": "Four more cats have died of H5N1 bird flu in the United States, including two pets in South Dakota with no links to poultry or dairy cows, according to state and federal officials. At least 14 cats h\u2026 [+3507 chars]",
+      "retrievedAt": "2024-05-23 07:06:05.689001",
+      "internal_id": "ea7e318b01f465a72d52cd6510f256d2bc5f97ba6c25f85551e186f86c66f538",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9403,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "CDC, dos EUA, pede a Estados que mantenham testes de gripe em alta neste ver\u00e3o",
+      "description": "O Centro de Preven\u00e7\u00e3o e Controle de Doen\u00e7as (CDC na sigla em ingl\u00eas) dos Estados Unidos ...",
+      "url": "https://www.terra.com.br/noticias/mundo/cdc-dos-eua-pede-a-estados-que-mantenham-testes-de-gripe-em-alta-neste-verao,84de73f8b7ee2574990918c0bd0ac7e8zzu5ntb0.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-05-21 21:18:58",
+      "content": "O Centro de Preven\u00e7\u00e3o e Controle de Doen\u00e7as (CDC na sigla em ingl\u00eas) dos Estados Unidos aconselhou nesta ter\u00e7a-feira os Estados a ajudar na vigil\u00e2ncia da gripe avi\u00e1ria H5N1, aumentando os testes de a\u2026 [+1037 chars]",
+      "retrievedAt": "2024-05-23 07:06:05.753660",
+      "internal_id": "d1e758343fe66c71874e96bd535ad637f48fd9fb3b7bc5237a7d0913aeb4faa8",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9394,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Katie Langford",
+      "title": "Two people exposed to bat with rabies in Englewood",
+      "description": "The bat in Englewood is the fourth case of rabies confirmed in Colorado this year and the first in Arapahoe County, the county said in a news release.",
+      "url": "https://www.denverpost.com/2024/05/21/bat-rabies-englewood-colorado-arapahoe/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2016/05/20101010_114639_bats.jpg?w=600&h=398",
+      "publishedAt": "2024-05-21 20:31:34",
+      "content": "Two people were exposed to a bat with rabies in Englewood, Arapahoe County officials said Tuesday. The bat is the fourth case of rabies confirmed in Colorado this year and the first in Arapahoe Coun\u2026 [+1394 chars]",
+      "retrievedAt": "2024-05-23 07:06:04.988752",
+      "internal_id": "8865eb49493c0ca72fb21f16bbbe5b53f198f5152ef061747d68f4bbb6f65ca4",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9402,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "US CDC asks states to keep flu testing on high this summer",
+      "description": "(marketscreener.com) The U.S. Centers for Disease Control on Tuesday advised states to aid in H5N1 bird flu surveillance by increasing testing of influenza A virus samples during the summer season to help detect even rare cases of transmission of the virus in\u2026",
+      "url": "https://www.marketscreener.com/news/latest/US-CDC-asks-states-to-keep-flu-testing-on-high-this-summer-46787310/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2024-05-21 20:27:40",
+      "content": "May 21 (Reuters) - The U.S. Centers for Disease Control on Tuesday advised states to aid in H5N1 bird flu surveillance by increasing testing of influenza A virus samples during the summer season t\u2026 [+902 chars]",
+      "retrievedAt": "2024-05-23 07:06:05.744868",
+      "internal_id": "e47b3288ec6dc84806e43beb006de2f8c72155d24ae16524f2833d02b1b9f416",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9405,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "DF registra 365 mortes por dengue em 2024; m\u00e9dia \u00e9 de 2 \u00f3bitos por dia",
+      "description": "Dados s\u00e3o do Minist\u00e9rio da Sa\u00fade, atualizados nesta ter\u00e7a (21/5). Em 2024, o DF j\u00e1 registrou mais de 255 mil casos prov\u00e1veis de dengue",
+      "url": "https://www.metropoles.com/distrito-federal/df-registra-365-mortes-por-dengue-em-2024-media-e-de-2-obitos-por-dia",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/04/29143555/Dengue-compressed-1.jpg",
+      "publishedAt": "2024-05-21 20:21:28",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2696 chars]",
+      "retrievedAt": "2024-05-23 07:06:06.102514",
+      "internal_id": "fbca7f0eb5c0fab359a2495b6a9134365d59a84f842c4f70efe72023f7bb285d",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9407,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / APV",
+      "title": "Piojos del cuerpo humano son potentes transmisores de la peste: estudio",
+      "description": "La bacteria \u2018Yersinia pestis\u2019 ha sido responsable de numerosas pandemias de peste a lo largo de la historia.",
+      "url": "https://aristeguinoticias.com/2105/kiosko/piojos-del-cuerpo-humano-son-potentes-transmisores-de-la-peste-estudio/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/05/piojos-2152024-.jpg",
+      "publishedAt": "2024-05-21 19:49:45",
+      "content": "Un equipo de investigadores estadounidenses descubri\u00f3 que los piojos que afectan al cuerpo humano (distintos a los de la cabeza) contribuyen de forma m\u00e1s potente de lo que se pensaba a la transmisi\u00f3n\u2026 [+1874 chars]",
+      "retrievedAt": "2024-05-23 07:06:07.958893",
+      "internal_id": "fc8d51faed40b5f2af390b72b6d29fd047a7aca99b0b9c962cd36724ef7091f1",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9404,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "R\u00e9cord hist\u00f3rico: Brasil supera los cinco millones de casos de dengue",
+      "description": "El Ministerio de Salud de Brasil ha confirmado que el pa\u00eds ha superado ya los cinco millones de casos de dengue , una cifra r\u00e9cord desde que se inici\u00f3 la serie hist\u00f3rica en el a\u00f1o 2000. Adem\u00e1s, m\u00e1s de 2.800 personas han fallecido a cuenta de la enfermedad. La\u2026",
+      "url": "https://www.abc.es/sociedad/record-historico-brasil-supera-cinco-millones-casos-20240521213639-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2024/05/21/dengue-brasil-kIIG--1024x512@diario_abc.PNG",
+      "publishedAt": "2024-05-21 19:36:40",
+      "content": "El Ministerio de Salud de Brasil ha confirmado que el pa\u00eds ha superado ya los cinco millones de casos de dengue, una cifra r\u00e9cord desde que se inici\u00f3 la serie hist\u00f3rica en el a\u00f1o 2000. Adem\u00e1s, m\u00e1s de\u2026 [+1050 chars]",
+      "retrievedAt": "2024-05-23 07:06:06.074419",
+      "internal_id": "7de76f6f270d2612080882328fe6d1655309d38bc61ece7933edf2c6a71d06f4",
+      "publishedAtLabel": "May 21"
+    },
+    {
+      "id": 9398,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Grace Wade",
+      "title": "Why we still don't know exactly how bird flu is spreading between cows",
+      "description": "Early evidence suggests that a bird flu virus called H5N1 may be infecting dairy cows through contaminated milking equipment \u2013 but poor surveillance has made it nearly impossible to rule out other possibilities",
+      "url": "https://www.newscientist.com/article/2432190-why-we-still-dont-know-exactly-how-bird-flu-is-spreading-between-cows/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/05/21151226/SEI_205339545.jpg",
+      "publishedAt": "2024-05-21 19:15:07",
+      "content": "Bird flu has been spreading among dairy cows in the US Getty Images/Cavan Images Public health experts still dont know how a bird flu virus has been spreading for months among dairy cows in the US \u2026 [+351 chars]",
+      "retrievedAt": "2024-05-23 07:06:05.683879",
+      "internal_id": "c9de7c2b907a7efc0adafd8ff09627b55c8af1d3cb09d85db5990522d19cc93e",
+      "publishedAtLabel": "May 21"
+    },
     {
       "id": 9376,
       "query": [
@@ -26265,6 +26517,114 @@
       "content": "Y mi libertad para ponerme pantalones cortos donde queda?",
       "retrievedAt": "2024-04-09 07:06:08.712972",
       "internal_id": "564eaa099fad3e9e030239277c6cdafbee9450adad7d93e58af268a0594fefaa",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7942,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Fuerte suba: el pa\u00eds supera los 200.000 casos de dengue en lo que va del a\u00f1o y ya es un 54% m\u00e1s que en todo 2023",
+      "description": "Se trata de una epidemia hist\u00f3rica; se reportaron 52.000 contagios en solo una semana y siguen las muertes",
+      "url": "https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/crecen-los-casos-de-dengue-en-el-pais-en-la-mayor-QYAJYSTDSZF5PD4WXL3D5ZILTI.jpeg?auth=5f1c2364d22e8b2da51c77c2e8b8c3729cb36f994b437dfbc620951760756998&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-07 18:47:52",
+      "content": "La mayorepidemia de dengue que enfrent\u00f3 hasta el momento el pa\u00eds super\u00f3 en las primeras 13 semanas de este a\u00f1o todos los casos acumulados en 2023. Si bien la comparaci\u00f3n es relativa, ya que parte de \u2026 [+2070 chars]",
+      "retrievedAt": "2024-04-09 07:06:08.813194",
+      "internal_id": "5ae38315a34a819009e3d3695aa2233437700668fedf9dfbf695abc344fbe9d9",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7923,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Jairo Bouer - Parceria",
+      "title": "D\u00e1 para ter dengue e Covid ao mesmo tempo?",
+      "description": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/07/421659606-istockfebre.jpg",
+      "publishedAt": "2024-04-07 17:00:11",
+      "content": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da dengue podem variar muito. Algumas pessoas t\u00eam sintomas muito intensos, outras t\u00eam sintomas mais ameno\u2026 [+744 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.883513",
+      "internal_id": "b4dc4a1fa650323a01ee2adb93db0abdfe0c5773905c5f3ed124518b1d86a87c",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Gabriela Origlia",
+      "title": "Ni el mosquito ni el clima: el otro factor de riesgo para la propagaci\u00f3n del dengue que cada vez m\u00e1s se\u00f1alan los expertos",
+      "description": "Si bien lo definen como \u201cuna enfermedad democr\u00e1tica\u201d, aparece un v\u00ednculo entre la infecci\u00f3n y la pobreza; causas y recomendaciones",
+      "url": "https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-viviendas-deficitarias-y-el-mal-tratamiento-W53O4OXG4VGM3P3AW2AWYOUXZU.JPG?auth=a694e5614bba61de5f61241698439dc471693c36b6ba15080dd617922fb81b97&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-07 15:40:41",
+      "content": "C\u00d3RDOBA. La Argentina atraviesa la peor epidemia de dengue desde 2009, con m\u00e1s de 180.000 casos diagnosticados (se estima que son a\u00fan m\u00e1s los no contabilizados) y 129 muertos, ysi bien se trata de un\u2026 [+6615 chars]",
+      "retrievedAt": "2024-04-09 07:06:08.797282",
+      "internal_id": "895f61ac4f89945e048be9bf10fe73c20337a21fad96b9b43ccd3539d23a334f",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7921,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Guatemala y Panam\u00e1, los m\u00e1s afectados por ola de dengue en Centroam\u00e9rica",
+      "description": "En Nicaragua, El Salvador y Costa Rica no hay muertos por la enfermedad en 2024. En Honduras, hay cuatro muertos y 8.000 casos.",
+      "url": "https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201807/_W933_80/659534.jpg",
+      "publishedAt": "2024-04-07 14:35:00",
+      "content": "Al menos 20 personas han muerto y m\u00e1s de 30.000 han sido contagiadas por una ola de dengue en Centroam\u00e9rica, donde Guatemala y Panam\u00e1 tienen este a\u00f1o el mayor balance de fallecidos. La Organizaci\u2026 [+2002 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.847014",
+      "internal_id": "f64089a353c82f065f153c6ffcc5e560f2302bf0f4a4afd5eccc6c82e9582f03",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7920,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luiz Vassallo",
+      "title": "Mortes por dengue no estado de S\u00e3o Paulo chegam a 221",
+      "description": "Em todo o estado h\u00e1 485 mortes em investiga\u00e7\u00e3o; foram 456.427 casos confirmados ao longo do ano",
+      "url": "https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-04-07 12:45:16",
+      "content": "S\u00e3o Paulo \u2013 O n\u00famero de mortes em raz\u00e3o de casos de dengue em 2023 chegou a 221 no estado de S\u00e3o Paulo, segundo dados da Secretaria estadual da Sa\u00fade. A pasta registra outros 485 \u00f3bitos em investiga\u00e7\u2026 [+1717 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.833995",
+      "internal_id": "c06f158d1bd95cc31be047934a0d7249a68a4a474a320378fb6e73265eb8d7e5",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7922,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Se extiende el dengue por Centro y Sudam\u00e9rica",
+      "description": "R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su \u201cpeor temporada de dengue\u201d, una \u201cenfermedad febril que afecta a lactantes, ni\u00f1os y adultos\u201d describe el organismo.",
+      "url": "https://www.jornada.com.mx/2024/04/07/mundo/022n1mun",
+      "urlToImage": "https://www.jornada.com.mx/2024/04/07/fotos/022n1mun-1.jpg",
+      "publishedAt": "2024-04-07 12:01:17",
+      "content": "Peri\u00f3dico La JornadaDomingo 7 de abril de 2024, p. 22 R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su peor temporada de dengue, una enfermedad febril que afecta a lactantes,\u2026 [+2321 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.866530",
+      "internal_id": "1ef59dff7bdcee691defb5d888bbdeb9c3e0abea41a52c5bae2169c80bdad59e",
       "publishedAtLabel": "Apr 7"
     }
   ]

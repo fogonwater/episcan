@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 29
-- **Last harvest:** 2024-05-22 19:05
-- **Most recent article:** 2024-05-21 19:02:21
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-05-23 07:06
+- **Most recent article:** 2024-05-22 06:37:05
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 131 | 113 | 117 | 77 | 57 | 87 | 31 | 613 |
+| dengue | 137 | 113 | 117 | 77 | 57 | 87 | 33 | 621 |
 | malaria | 16 | 29 | 77 | 25 | 29 | 13 | 6 | 195 |
-| measles | 43 | 40 | 28 | 24 | 10 | 29 | 3 | 177 |
-| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 18 | 138 |
+| measles | 43 | 40 | 28 | 24 | 10 | 29 | 5 | 179 |
+| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 24 | 144 |
 | meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 4 | 84 |
 | mpox | 3 | 13 | 8 | 36 | 3 | 10 | 6 | 79 |
-| rabies | 8 | 3 | 3 | 4 | 22 | 10 | 3 | 53 |
+| rabies | 8 | 3 | 3 | 4 | 22 | 10 | 4 | 54 |
 | chikungunya | 7 | 5 | 5 | 7 | 5 | 12 | 0 | 41 |
 | zika | 10 | 8 | 3 | 8 | 2 | 6 | 1 | 38 |
 | pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 4 | 37 |
 | sarampión | 13 | 0 | 10 | 8 | 1 | 0 | 0 | 32 |
 | leptospirosis | 3 | 3 | 3 | 2 | 1 | 3 | 0 | 15 |
-| yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 2 | 10 |
-| hpai | 0 | 0 | 0 | 0 | 4 | 3 | 3 | 10 |
+| yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 4 | 12 |
+| hpai | 0 | 0 | 0 | 0 | 4 | 3 | 4 | 11 |
 | typhoid | 0 | 2 | 0 | 0 | 3 | 2 | 0 | 7 |
 
 
@@ -39,11 +39,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (yersinia)
 
+- [Body lice may be bigger plague spreaders than previously thought](https://www.sciencedaily.com/releases/2024/05/240521204327.htm) (Science Daily)
+
+- [Piojos del cuerpo humano son potentes transmisores de la peste: estudio](https://aristeguinoticias.com/2105/kiosko/piojos-del-cuerpo-humano-son-potentes-transmisores-de-la-peste-estudio/) (Aristeguinoticias.com)
+
 - [Body lice may be bigger plague spreaders than previously thought](https://phys.org/news/2024-05-body-lice-bigger-plague-spreaders.html) (Phys.Org)
 
 - [Yersinia pestis can infect the Pawlowsky glands of human body lice and be transmitted by louse bite](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002625) (Plos.org)
 
 ## 24-21 (rabies)
+
+- [Two people exposed to bat with rabies in Englewood](https://www.denverpost.com/2024/05/21/bat-rabies-englewood-colorado-arapahoe/) (The Denver Post)
 
 - [Lab sequences rabies in infected black bear](https://phys.org/news/2024-05-lab-sequences-rabies-infected-black.html) (Phys.Org)
 
@@ -87,6 +93,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (measles)
 
+- [NSW Health issues new measles alert for south-west Sydney, urging residents to monitor symptoms for signs of the illness](https://www.skynews.com.au/australia-news/nsw-health-issues-new-measles-alert-for-southwest-sydney-urging-residents-to-monitor-symptoms-for-signs-of-the-illness/news-story/97a56e63814ecc14daa3c1e5bfcbf643) (Sky News Australia)
+
+- [Dr. Paul Parkman, who helped to eliminate rubella, dies at 91](https://www.bostonglobe.com/2024/05/21/metro/dr-paul-parkman-who-helped-eliminate-rubella-dies-91/) (The Boston Globe)
+
 - [4 ways vaccine skeptics mislead you on measles and more](https://www.cbsnews.com/news/measles-vaccine-skeptics-truth/) (CBS News)
 
 - [Pennsylvania health officials warn about measles exposure in Philadelphia region](https://www.cbsnews.com/philadelphia/news/pennsylvania-health-department-measles-exposure-philadelphia/) (CBS News)
@@ -109,6 +119,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (hpai)
 
+- [CDC Reports Second Human Case of H5 Bird Flu Tied to Dairy Cow Outbreak](https://www.cdc.gov/media/releases/2024/s0522-human-case-h5.html) (Cdc.gov)
+
 - [US Public Health Preparedness and Response to Highly Pathogenic Avian Influenza A(H5N1) Viruses](https://jamanetwork.com/journals/jama/fullarticle/2819159) (Jamanetwork.com)
 
 - [Γρίπη των πτηνών και αγελαδινό γάλα: Είναι ασφαλής η κατανάλωσή του;](https://www.alphafreepress.gr/2024/05/21/kosmos/gripi-ton-ptinon-kai-ageladino-gala-einai-asfalis-i-katanalosi-tou/) (Alphafreepress.gr)
@@ -116,6 +128,18 @@ Source: [News API](https://newsapi.org/)
 - [US Rulers Say There’s “No Evidence” Of Bird Flu Spreading to Humans](https://www.shtfplan.com/headline-news/us-rulers-say-theres-no-evidence-of-bird-flu-spreading-to-humans) (Shtfplan.com)
 
 ## 24-21 (h5n1)
+
+- [Australia informa del primer caso de gripe aviar en humanos de su Historia](https://www.elmundo.es/ciencia-y-salud/salud/2024/05/22/664d90e0fdddffbe1e8b4590.html) (El Mundo)
+
+- [Bird Flu Update as CDC Issues New Recommendations](https://www.newsweek.com/bird-flu-update-cdc-issues-new-recommendations-1903282) (Newsweek)
+
+- [4 MORE cats die of bird flu in USA...](https://bnonews.com/index.php/2024/05/4-more-cats-die-of-h5n1-bird-flu-in-the-u-s/) (Bnonews.com)
+
+- [CDC, dos EUA, pede a Estados que mantenham testes de gripe em alta neste verão](https://www.terra.com.br/noticias/mundo/cdc-dos-eua-pede-a-estados-que-mantenham-testes-de-gripe-em-alta-neste-verao,84de73f8b7ee2574990918c0bd0ac7e8zzu5ntb0.html) (Terra.com.br)
+
+- [US CDC asks states to keep flu testing on high this summer](https://www.marketscreener.com/news/latest/US-CDC-asks-states-to-keep-flu-testing-on-high-this-summer-46787310/) (Marketscreener.com)
+
+- [Why we still don't know exactly how bird flu is spreading between cows](https://www.newscientist.com/article/2432190-why-we-still-dont-know-exactly-how-bird-flu-is-spreading-between-cows/) (New Scientist)
 
 - [US Public Health Preparedness and Response to Highly Pathogenic Avian Influenza A(H5N1) Viruses](https://jamanetwork.com/journals/jama/fullarticle/2819159) (Jamanetwork.com)
 
@@ -154,6 +178,10 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, in Usa gli allevatori contro i controlli nelle fattorie. I funzionari dei Cdc ricorrono ai veterinari locali](https://www.ilfattoquotidiano.it/2024/05/19/aviaria-in-usa-gli-allevatori-contro-i-controlli-nelle-fattorie-i-funzionari-dei-cdc-ricorrono-ai-veterinari-locali/7551261/) (Ilfattoquotidiano.it)
 
 ## 24-21 (dengue)
+
+- [DF registra 365 mortes por dengue em 2024; média é de 2 óbitos por dia](https://www.metropoles.com/distrito-federal/df-registra-365-mortes-por-dengue-em-2024-media-e-de-2-obitos-por-dia) (Metropoles.com)
+
+- [Récord histórico: Brasil supera los cinco millones de casos de dengue](https://www.abc.es/sociedad/record-historico-brasil-supera-cinco-millones-casos-20240521213639-nt.html) (Www.abc.es)
 
 - [Krankheit: Mehr als fünf Millionen Dengue-Fälle in Brasilien](https://www.zeit.de/news/2024-05/21/mehr-als-fuenf-millionen-dengue-faelle-in-brasilien) (Die Zeit)
 
@@ -3244,6 +3272,18 @@ Source: [News API](https://newsapi.org/)
 - [Milei deja la atención sanitaria al libre mercado en la peor epidemia de dengue](https://www.meneame.net/m/actualidad/milei-deja-atencion-sanitaria-libre-mercado-peor-epidemia-dengue) (Meneame.net)
 
 - [Milei decide no vacunar contra la epidemia de dengue y su ministro de Salud pide que no lleven pantalones cortos](https://www.meneame.net/m/politica/milei-decide-no-vacunar-contra-epidemia-dengue-ministro-salud-no) (Meneame.net)
+
+- [Fuerte suba: el país supera los 200.000 casos de dengue en lo que va del año y ya es un 54% más que en todo 2023](https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/) (La Nacion)
+
+- [Dá para ter dengue e Covid ao mesmo tempo?](https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html) (Terra.com.br)
+
+- [Ni el mosquito ni el clima: el otro factor de riesgo para la propagación del dengue que cada vez más señalan los expertos](https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/) (La Nacion)
+
+- [Guatemala y Panamá, los más afectados por ola de dengue en Centroamérica](https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783) (Montevideo.com.uy)
+
+- [Mortes por dengue no estado de São Paulo chegam a 221](https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221) (Metropoles.com)
+
+- [Se extiende el dengue por Centro y Sudamérica](https://www.jornada.com.mx/2024/04/07/mundo/022n1mun) (Jornada.com.mx)
 
 ## 24-15 (chikungunya)
 
