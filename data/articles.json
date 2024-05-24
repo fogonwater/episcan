@@ -1,8 +1,422 @@
 {
-  "last_updated": "2024-05-23 19:05",
-  "count_articles_total": 1489,
-  "count_articles_new": 20,
+  "last_updated": "2024-05-24 07:06",
+  "count_articles_total": 1518,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 9438,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "MoneyDJ",
+      "title": "\u7f8e\u653f\u5e9c\u56b4\u9632\u79bd\u6d41\u611f\u8207\u83ab\u5fb7\u7d0d\u3001\u8f1d\u745e\u63a5\u6d3d\uff0c\u75ab\u82d7\u80a1\u98c6",
+      "description": "\u9451\u65bc H5N1 \u79bd\u6d41\u611f\u5728\u7f8e\u570b\u4e73\u725b\u7fa4\u5927\u91cf\u50b3\u64ad\uff0c\u8fd1\u65e5\u4e26\u9678\u7e8c\u5728\u7f8e\u570b\u3001\u6fb3\u6d32\u767c\u73fe\u4eba\u985e\u611f\u67d3\u500b\u6848\uff0c\u7f8e\u570b\u9632\u75ab\u7576\u5c40\u5ba3\u5e03\uff0c\u6b63\u5728\u8ddf mRNA \u7642\u6cd5\u53ca\u75ab\u82d7\u751f\u6280\u696d\u8005\u83ab\u5fb7\u7d0d\uff08Moderna Inc.\uff09\u3001\u8f1d\u745e\uff08Pfizer\uff09\u8a0e\u8ad6\u53ef\u80fd\u7684\u79bd\u6d41\u611f\u75ab\u82d7\u7814\u767c\u65b9\u6848\u3002 Barron's\u3001\u82f1\u570b\u91d1\u878d\u6642\u5831\u5831\u5c0e\uff0c\u7f8e\u570b\u885b\u751f\u53ca\u516c\u5171\u670d\u52d9\u5c40\u9632\u5099\u8207\u61c9\u8b8a\u90e8\u52a9\u7406\u79d8...",
+      "url": "https://finance.technews.tw/2024/05/23/moderna-and-pfizer-in-talks-with-u-s-to-make-a-bird-flu-vaccine/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2021/12/03114045/mufid-majnun-ruQ-_rc5tOo-unsplash-e1642649360241.jpg",
+      "publishedAt": "2024-05-23 06:45:23",
+      "content": "H5N1 mRNA Moderna Inc.Pfizer Barron\u2019sDawn OConnell 22mRNA H5N122Clare Looker CDC22H5N1 22H5H5N1mRNA 2213.67%163.332023217BioNTechBNT11.11%102.301123.64%29.613 H5N1Novavax Inc.5.3%15.7020221214 \u2026 [+24 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.568847",
+      "internal_id": "53347ce3079b1e2340b2f6b94cfdad0458ad4a23a8966f70d7325a3405e6e980",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9448,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Levif.be",
+      "author": "Le Vif",
+      "title": "Deuxi\u00e8me cas humain de grippe aviaire li\u00e9 \u00e0 une \u00e9pid\u00e9mie chez les vaches aux Etats-Unis",
+      "description": "Un cas de grippe aviaire (virus H5N1) a \u00e9t\u00e9 d\u00e9t\u00e9ct\u00e9 chez un travailleur d'une ferme dans le Michigan, aux Etats-Unis. The post Deuxi\u00e8me cas humain de grippe aviaire li\u00e9 \u00e0 une \u00e9pid\u00e9mie chez les vaches aux Etats-Unis appeared first on Le Vif.",
+      "url": "https://www.levif.be/societe/sante/deuxieme-cas-humain-de-grippe-aviaire-lie-a-une-epidemie-chez-les-vaches-aux-etats-unis/",
+      "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/6003072/gettyimages-1450374430-1-jpg.jpg",
+      "publishedAt": "2024-05-23 05:07:01",
+      "content": "Un cas de grippe aviaire (virus H5N1) a \u00e9t\u00e9 d\u00e9t\u00e9ct\u00e9 chez un travailleur d\u2019une ferme dans le Michigan, aux Etats-Unis. Moins de deux mois apr\u00e8s un premier cas, une deuxi\u00e8me personne a \u00e9t\u00e9 infect\u00e9e pa\u2026 [+1547 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.676382",
+      "internal_id": "fbd6f6084458a4d3f30b481a9e619041172cfb6d5f6cbb69975f852672cb1757",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9449,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Emergence of Indigenous Dengue Fever, Niger, October 2023",
+      "description": "Emergence of Indigenous Dengue Fever, Niger, October 2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/7/24-0301_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-05-23 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue fever is a mosquito\u2026 [+6158 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.934186",
+      "internal_id": "3fd7e68c811f3425eeb2ba84ae2a15ca51f2dbc3d744bf008cf7c60821c787eb",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9443,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "\u0130neklerde ku\u015f gribinin yay\u0131lmas\u0131, insanlar i\u00e7in ne kadar risk bar\u0131nd\u0131r\u0131yor?",
+      "description": "Ku\u015f gribinin H5N1 t\u00fcr\u00fc 1996 y\u0131l\u0131ndan bu yana g\u00f6r\u00fcl\u00fcyor ve \u015fimdiye kadar b\u00fcy\u00fck \u00f6l\u00e7\u00fcde hayvanlarla s\u0131n\u0131rl\u0131 kald\u0131. Vir\u00fcs\u00fcn Amerika'da s\u0131\u011f\u0131rlara s\u0131\u00e7ramas\u0131yla baz\u0131lar\u0131 art\u0131k insandan insana bula\u015fma durumuna do\u011fru ilerledi\u011fimizi ve bunun ciddi sonu\u00e7lar\u0131 olabilece\u011fi\u2026",
+      "url": "https://www.bbc.com/turkce/articles/cg33jr542r5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_turkce/d5bc/live/632fdd30-1856-11ef-baf9-2dfab45ba024.jpg",
+      "publishedAt": "2024-05-23 01:53:40",
+      "content": "Kaynak, Getty Images Ku gribinin H5N1 t\u00fcr\u00fc 1996 ylndan bu yana g\u00f6r\u00fcl\u00fcyor ve imdiye kadar b\u00fcy\u00fck \u00f6l\u00e7\u00fcde hayvanlarla snrl kald. Vir\u00fcs\u00fcn Amerika'da srlara s\u00e7ramasyla bazlar artk insandan insana bulama d\u2026 [+4537 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.615201",
+      "internal_id": "b2ab2c368280e4f053bbaf179d3475e441b8833f474d746a44674e755d9a4582",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9430,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "U.S. confirms another human H5 bird flu case tied to dairy cow outbreak",
+      "description": "LOS ANGELES, May 22 (Xinhua) -- A new human case of highly pathogenic avian influenza (HPAI) A (H5 b",
+      "url": "http://en.people.cn/n3/2024/0523/c90000-20173048.html",
+      "urlToImage": null,
+      "publishedAt": "2024-05-23 01:12:53",
+      "content": "LOS ANGELES, May 22 (Xinhua) -- A new human case of highly pathogenic avian influenza (HPAI) A (H5 bird flu) virus infection in the United States has been identified, U.S. health authorities said on \u2026 [+1039 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.119615",
+      "internal_id": "05ec9b4514503c2a187a1413116a01d5aa56bac62ce631db5f43d30fa5dd4f08",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9441,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Aila Slisco",
+      "title": "Map Shows States With Human Bird Flu Cases",
+      "description": "The Centers of Disease Control and Prevention said that a human bird flu case had been discovered in a new state on Wednesday.",
+      "url": "https://www.newsweek.com/map-shows-states-human-bird-flu-cases-1903771",
+      "urlToImage": "https://d.newsweek.com/en/full/2397858/bird-flu-map-us-outbreak-cdc-michigan.jpg",
+      "publishedAt": "2024-05-23 00:30:39",
+      "content": "The Centers for Disease Control and Prevention (CDC) has announced a second recent case of a farm worker contracting the H5N1 virus from dairy cows, expanding the U.S. map of states where the virus h\u2026 [+3802 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.594521",
+      "internal_id": "8d7414b950f21d81a00a177ddf6f8b7769c683f103efa6d5fc5489ee77daeec7",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9444,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY TZVI JOFFRE",
+      "title": "Second case of bird flu among dairy workers found in Michigan",
+      "description": "A nasal swab of the farm worker tested negative, but an eye swab tested negative.",
+      "url": "https://www.jpost.com/health-and-wellness/article-802310",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/493159",
+      "publishedAt": "2024-05-22 22:33:02",
+      "content": "A dairy farmworker in Michigan has been found to be infected with H5N1 avian influenza, the second human case of bird flu associated with an ongoing outbreak of the virus among dairy cows, Michigan's\u2026 [+3862 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.623844",
+      "internal_id": "c05a66d83609b987aeead5220951237268c54a62394a290ce187eb63864ff0b2",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9433,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "H5N1 bird flu has spread to human from cow in 2nd probable case, CDC reports",
+      "description": "A dairy worker in Michigan contracted an eye infection on a dairy farm where H5N1 had been identified in cows.",
+      "url": "https://www.livescience.com/health/flu/h5n1-bird-flu-has-spread-to-human-from-cow-in-2nd-probable-case-cdc-reports",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/d2f25MHRHdwMkXFtyUzVeT-1200-80.jpg",
+      "publishedAt": "2024-05-22 21:41:31",
+      "content": "A second human case of bird flu has been linked to the ongoing outbreak in cows on U.S. dairy farms, the Centers for Disease Control and Prevention (CDC) reported Wednesday (May 22). A subtype of\u2026 [+3428 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.537491",
+      "internal_id": "268bd7991f5aca928d3fc3e73e0bee626acd892438ba181c257b98d7199c0c87",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9429,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Erik Loomis",
+      "title": "Our Vaccination Heroes",
+      "description": "In this insane anti-vax era, it is worth remembering the terrible diseases that used to be common and now are preventable or even eliminated (or nearly so) thanks to doctors coming up with life-saving vaccines. The co-creator of the rubella vaccine, Paul Park\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2024/05/our-vaccination-heroes",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2024/05/cdc_46432_DS1.png",
+      "publishedAt": "2024-05-22 21:04:00",
+      "content": "Rubella, also known as German measles because German scientists classified it in the 19th century, is a moderate illness for most patients, identified by a spotty and often itchy red rash. But in pre\u2026 [+3073 chars]",
+      "retrievedAt": "2024-05-24 07:06:03.786410",
+      "internal_id": "b40ccd81431667dc70379bb0c3dc2fe677b5befb9d09312f24d4ea0ee6eb0dd8",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9445,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "The Associated Press",
+      "title": "A Michigan farmworker is diagnosed with bird flu in 2nd U.S. case tied to dairy cows",
+      "description": "The Michigan dairy worker had mild eye symptoms from the infection and has recovered, health officials said. The worker had been in contact with cows presumed to be infected.",
+      "url": "https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows",
+      "urlToImage": "https://media.npr.org/assets/img/2024/05/22/ap24143659716467_wide-ab7461c95c24ed78ba604166008d0ae828a3e656.jpg?s=1400&c=100&f=jpeg",
+      "publishedAt": "2024-05-22 20:52:30",
+      "content": "This 2005 electron microscope image shows an avian influenza A H5N1 virion. On Wednesday, Michigan health officials said a farmworker has been diagnosed with bird flu, the second human case connected\u2026 [+2973 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.651207",
+      "internal_id": "a0f70e63f1e6ce99526e6aeaa620dfe3552dca60099cde94466a1030a143ccec",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9428,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "From staff reports",
+      "title": "Henrico officials report county's third rabies case of 2024",
+      "description": "Officers responded to the 900 block of Merlin Court on Wednesday afternoon for the report of a potential rabies exposure stemming from an interaction between dogs and a raccoon.",
+      "url": "https://richmond.com/news/local/henrico-rabies-case-vaccine-clinic/article_c9ceb9fc-187a-11ef-b7c3-1f42e077f4d2.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/9c/c9ceb9fc-187a-11ef-b7c3-1f42e077f4d2/664e593e425ed.preview.jpg?crop=1010%2C530%2C0%2C94&resize=1010%2C530&order=crop%2Cresize",
+      "publishedAt": "2024-05-22 20:45:00",
+      "content": "Henrico County officials on Wednesday reported the county's third rabies case of 2024. Police said officers responded to the 900 block of Merlin Court on Wednesday afternoon for the report of a pote\u2026 [+687 chars]",
+      "retrievedAt": "2024-05-24 07:06:03.609970",
+      "internal_id": "7c557ebf71fe66e208676c5080a3f9fc886bd80dbc34f169d8384ba4678e728a",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9432,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Quartz India",
+      "author": "Matt Novak / Gizmodo",
+      "title": "Second human tests positive for bird flu amid dairy heard outbreak",
+      "description": "The state of Michigan reported its first human case of H5N1, commonly called the bird flu, on Wednesday according to a press release from Michigan Health and Human Services. It\u2019s just the third human case ever detected in the U.S. and the second of the curren\u2026",
+      "url": "https://qz.com/human-bird-flu-h5n1-michigan-outbreak-virus-milk-cows-1851494890",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f54886974fdf9589e76935e6a1ddb5c4.jpg",
+      "publishedAt": "2024-05-22 20:34:00",
+      "content": "The state of Michigan reported its first human case of H5N1, commonly called the bird flu, on Wednesday according to a press release from Michigan Health and Human Services. Its just the third human \u2026 [+2984 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.522261",
+      "internal_id": "414c9122c5e68a691c97d9fc119c06b5140f5fd01423ef36aad1eba32a2a75c0",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9442,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Muhammet Binici",
+      "title": "Avustralya\u2019da ilk defa bir ki\u015fide ku\u015f gribi tespit edildi",
+      "description": "Avustralya\u2019n\u0131n Victoria eyaletinde sa\u011fl\u0131k yetkilileri, ilk defa bir ki\u015fide ku\u015f gribi (H5N1) tespit edildi\u011fini ve s\u00f6z konusu \u00e7ocu\u011fun iyile\u015fti\u011fini duyurdu.",
+      "url": "https://www.haber7.com/dunya/haber/3426457-avustralyada-ilk-defa-bir-kiside-kus-gribi-tespit-edildi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/21/avustralyada_ilk_defa_bir_kiside_kus_gribi_tespit_edildi_1716409369_9501.jpg",
+      "publishedAt": "2024-05-22 20:25:00",
+      "content": "Victoria eyaleti salk yetkilileri bug\u00fcn yaptklar a\u00e7klamada, ku gribine yakalanan \u00e7ocuun Mart aynda Hindistandan evine geldiini ve iyi hissetmediini belirtti. Yaplan ileri testlerde \u00e7ocuun, ku gribi (\u2026 [+807 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.610426",
+      "internal_id": "0c0155affc79a01270ac8bc4fb1ba3cf68c32e540403bd5383b16d60a92d1158",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9446,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "\u00c9tats-Unis. Un deuxi\u00e8me humain contamin\u00e9 par la grippe aviaire via une \u00e9pid\u00e9mie chez des vaches",
+      "description": "La personne contamin\u00e9e travaille dans une ferme du Michigan, dans le nord du pays, o\u00f9 le virus H5N1 a infect\u00e9 des vaches.",
+      "url": "https://www.ledauphine.com/sante/2024/05/22/un-deuxieme-humain-contamine-par-la-grippe-aviaire-via-une-epidemie-chez-des-vaches",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/D3F83056-8783-44FF-8B48-2E741AA3CC14/FB1200/photo-1716409315.jpg",
+      "publishedAt": "2024-05-22 20:21:00",
+      "content": "Moins de deux mois apr\u00e8s un premier cas, une deuxi\u00e8me personne a \u00e9t\u00e9 infect\u00e9e par la grippe aviaire aux \u00c9tats-Unis, en lien avec une \u00e9pid\u00e9mie de ce virus qui s\u2019est propag\u00e9e dans les troupeaux de vach\u2026 [+1844 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.666753",
+      "internal_id": "13bf7b372e255274df559fbdc937cb6c3acd2b8b965e085e439ea8537fe6b9a7",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9440,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Michigan Reports Human Case of Bird Flu",
+      "description": "\"A second human case of bird flu infection linked to the current H5N1 outbreak in dairy cows has been detected, in a farm worker who had exposure to infected cows,\" Stat reports.",
+      "url": "https://politicalwire.com/2024/05/22/michigan-reports-human-case-of-bird-flu/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2024-05-22 20:16:55",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.586247",
+      "internal_id": "63b28eb590738b285ba0f614e6a77c0584835edb13cd56236f9b013e42d63fee",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9431,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Matt Novak",
+      "title": "Human Infected With Bird Flu in Michigan, Only the Second Case of Current Outbreak",
+      "description": "The state of Michigan reported its first human case of H5N1, commonly called the bird flu, on Wednesday according to a press release from Michigan Health and Human Services. It\u2019s just the third human case ever detected in the U.S. and the second of the curren\u2026",
+      "url": "https://gizmodo.com/human-bird-flu-h5n1-michigan-outbreak-virus-milk-cows-1851494494",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f54886974fdf9589e76935e6a1ddb5c4.jpg",
+      "publishedAt": "2024-05-22 20:14:00",
+      "content": "The state of Michigan reported its first human case of H5N1, commonly called the bird flu, on Wednesday according to a press release from Michigan Health and Human Services. Its just the third human \u2026 [+2927 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.509783",
+      "internal_id": "2fa64d8f195a124c12c4b1463fbc2b302694ef652a8ac3701228f57238423b4f",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9434,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Matt Novak",
+      "title": "Humano infectado con gripe aviar en Michigan, solo el segundo caso del brote actual",
+      "description": "El estado de Michigan report\u00f3 su primer caso humano de H5N1, com\u00fanmente llamada gripe aviar, el mi\u00e9rcoles, seg\u00fan un comunicado de prensa de Servicios de Salud y Humanos de Michigan. Es solo el tercer caso humano jam\u00e1s detectado en los EE. UU. y el segundo del\u2026",
+      "url": "https://es.gizmodo.com/gripe-humana-aviar-h5n1-virus-del-brote-de-michigan-vac-1851494736",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f54886974fdf9589e76935e6a1ddb5c4.jpg",
+      "publishedAt": "2024-05-22 20:14:00",
+      "content": "El estado de Michigan report\u00f3 su primer caso humano de H5N1, com\u00fanmente llamada gripe aviar, el mi\u00e9rcoles, seg\u00fan un comunicado de prensa de Servicios de Salud y Humanos de Michigan. Es solo el tercer\u2026 [+3494 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.542358",
+      "internal_id": "edb2f12b9d39f396de2b54eb063c78fcb2f6df4fd21aea03757a46494ee0706e",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9450,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Banda B",
+      "title": "Beb\u00ea de 9 meses, sem comorbidades, morre v\u00edtima de dengue em Curitiba",
+      "description": "Um beb\u00ea de 9 meses, sem comorbidades, morreu v\u00edtima da dengue em Curitiba. O \u00f3bito consta em ...",
+      "url": "https://www.terra.com.br/noticias/brasil/cidades/bebe-de-9-meses-sem-comorbidades-morre-vitima-de-dengue-em-curitiba,311b52d346b90ce9441b6ffac2b365197ez165f2.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/22/134069659-image-1-57.jpg",
+      "publishedAt": "2024-05-22 20:06:54",
+      "content": "Um beb\u00ea de 9 meses, sem comorbidades, morreu v\u00edtima da dengue em Curitiba. O \u00f3bito consta em boletim da Secretaria Municipal da Sa\u00fade (SMS), divulgado nesta quarta-feira (22). De acordo com a Prefei\u2026 [+1196 chars]",
+      "retrievedAt": "2024-05-24 07:06:05.020337",
+      "internal_id": "b8782c9e6955ea89b4d2fe9970b97d364578ab1d226871a9a551268d55a68cce",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9435,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "30science per Il Fatto",
+      "title": "Aviaria e influenza umana, l\u2019interazione che preoccupa gli scienziati e le misure del Cdc negli Usa",
+      "description": "Continua a preoccupare l\u2019epidemia nel bestiame USA del virus dell\u2019aviaria H5N1. Dopo aver fatto il salto di specie ed infettato decine di allevamenti di bovini da latte in diversi Stati dell\u2019Unione, ora il virus preoccupa per quelle che possono essere le even\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/05/22/aviaria-e-influenza-umana-linterazione-che-preoccupa-gli-scienziati-e-le-misure-del-cdc-negli-usa/7558211/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/04/03/influenza-aviaria-1200x630.jpg",
+      "publishedAt": "2024-05-22 20:04:24",
+      "content": "Roma, 22 mag. (Adnkronos) - Il colpo di scena arriva in serata, con un video sui social in cui Giorgia Meloni annuncia di aver messo in 'stand-by' il decreto ministeriale firmato da Maurizio Leo, e c\u2026 [+4265 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.554160",
+      "internal_id": "e4fcb093bb373fd86641ffd97c801001300c6d31136916290af1f10a6f21ab0c",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9439,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Australia Reports Its First Human Bird Flu Infection",
+      "description": "Australia reported its first case of H5N1 bird flu in a human being on Wednesday. \"This is the first confirmed human case of highly pathogenic avian influenza in Australia,\" Dr. Claire Looker, the state's chief health officer, said in a statement.",
+      "url": "https://www.shtfplan.com/headline-news/australia-reports-its-first-human-bird-flu-infection",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
+      "publishedAt": "2024-05-22 20:00:44",
+      "content": "Australia reported its first case of H5N1 bird flu in a human being on Wednesday. \u201cThis is the first confirmed human case of highly pathogenic avian influenza in Australia,\u201d Dr. Claire Looker, the s\u2026 [+1812 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.580909",
+      "internal_id": "b011ac48d7fa8890c6b8cda365830ec4165e61643e5535e66fce54550245d77d",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9437,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Arianna Johnson, Forbes Staff, \n Arianna Johnson, Forbes Staff\n https://www.forbes.com/sites/ariannajohnson/",
+      "title": "Bird Flu (H5N1) Explained: U.S. Reports Another Human Case Of Bird Flu\u2014Second One Tied To Dairy Cows",
+      "description": "Bird flu typically spreads among birds, but there have been recent outbreaks among cattle in the U.S., and one Texas man contracted the virus from sick cows. Here\u2019s why so many experts are worried about a possible new pandemic.",
+      "url": "https://www.forbes.com/sites/ariannajohnson/2024/05/22/bird-flu-h5n1-explained-us-reports-another-human-case-of-bird-flu-second-one-tied-to-dairy-cows/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662a9d6a4635389a14a348ae/0x0.jpg?format=jpg&crop=2812,1581,x0,y128,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-22 19:57:48",
+      "content": "Heres the latest news about a global outbreak of H5N1 bird flu that started in 2020, and recently spread among cattle in U.S. states and marine mammals across the world, which has health officials cl\u2026 [+11572 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.564077",
+      "internal_id": "412cf80e839b2a13c77725a42bca826bb74443b650d4853d502606aed1707f0b",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9447,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "2nd human infected with H5N1 bird flu in U.S., CDC says",
+      "description": "A Michigan farm worker has been diagnosed with bird flu, becoming the second U.S. case tied to dairy cows.",
+      "url": "https://www.cbc.ca/news/health/h5n1-human-infection-michigan-1.7211575",
+      "urlToImage": "https://i.cbc.ca/1.4872258.1716406691!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/canceled-climate-conference.jpg",
+      "publishedAt": "2024-05-22 19:53:15",
+      "content": "A Michigan farm worker has been diagnosed with bird flu the second human case associated with an outbreak in U.S. dairy cows. The patient had mild eye symptoms and has recovered, U.S. and Michigan h\u2026 [+1990 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.671554",
+      "internal_id": "ba47dba1507c6a4dae09d3c9c4b2fefc0c781ddaed9600c0d06daa0e7d813fea",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9436,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "En till m\u00e4nniska smittad av f\u00e5gelinfluensan",
+      "description": "\u25b8 En lantbrukare i Michigan har smittats av f\u00e5gelinfluensan H5N1, rapporterar amerikanska medier.",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1256527",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=56&q=50&w=100&s=8d717b112fa508073dcc3292ac8f7acfdc612d33",
+      "publishedAt": "2024-05-22 19:51:59",
+      "content": "TRE NYHETER DU INTE F\u00c5R MISSA: En till m\u00e4nniska smittad av f\u00e5gelinfluensan En lantbrukare i Michigan har smittats av f\u00e5gelinfluensan H5N1, rapporterar amerikanska medier. Personen smittade\u2026 [+12945 chars]",
+      "retrievedAt": "2024-05-24 07:06:04.559323",
+      "internal_id": "14e220310f2a72089df21f9acf33060929815a1690af50c5299b5e3f50dd12aa",
+      "publishedAtLabel": "May 22"
+    },
     {
       "id": 9424,
       "query": [
@@ -26879,6 +27293,114 @@
       "content": "Y mi libertad para ponerme pantalones cortos donde queda?",
       "retrievedAt": "2024-04-09 07:06:08.712972",
       "internal_id": "564eaa099fad3e9e030239277c6cdafbee9450adad7d93e58af268a0594fefaa",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7942,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Fuerte suba: el pa\u00eds supera los 200.000 casos de dengue en lo que va del a\u00f1o y ya es un 54% m\u00e1s que en todo 2023",
+      "description": "Se trata de una epidemia hist\u00f3rica; se reportaron 52.000 contagios en solo una semana y siguen las muertes",
+      "url": "https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/crecen-los-casos-de-dengue-en-el-pais-en-la-mayor-QYAJYSTDSZF5PD4WXL3D5ZILTI.jpeg?auth=5f1c2364d22e8b2da51c77c2e8b8c3729cb36f994b437dfbc620951760756998&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-07 18:47:52",
+      "content": "La mayorepidemia de dengue que enfrent\u00f3 hasta el momento el pa\u00eds super\u00f3 en las primeras 13 semanas de este a\u00f1o todos los casos acumulados en 2023. Si bien la comparaci\u00f3n es relativa, ya que parte de \u2026 [+2070 chars]",
+      "retrievedAt": "2024-04-09 07:06:08.813194",
+      "internal_id": "5ae38315a34a819009e3d3695aa2233437700668fedf9dfbf695abc344fbe9d9",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7923,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Jairo Bouer - Parceria",
+      "title": "D\u00e1 para ter dengue e Covid ao mesmo tempo?",
+      "description": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/07/421659606-istockfebre.jpg",
+      "publishedAt": "2024-04-07 17:00:11",
+      "content": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da dengue podem variar muito. Algumas pessoas t\u00eam sintomas muito intensos, outras t\u00eam sintomas mais ameno\u2026 [+744 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.883513",
+      "internal_id": "b4dc4a1fa650323a01ee2adb93db0abdfe0c5773905c5f3ed124518b1d86a87c",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Gabriela Origlia",
+      "title": "Ni el mosquito ni el clima: el otro factor de riesgo para la propagaci\u00f3n del dengue que cada vez m\u00e1s se\u00f1alan los expertos",
+      "description": "Si bien lo definen como \u201cuna enfermedad democr\u00e1tica\u201d, aparece un v\u00ednculo entre la infecci\u00f3n y la pobreza; causas y recomendaciones",
+      "url": "https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-viviendas-deficitarias-y-el-mal-tratamiento-W53O4OXG4VGM3P3AW2AWYOUXZU.JPG?auth=a694e5614bba61de5f61241698439dc471693c36b6ba15080dd617922fb81b97&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-07 15:40:41",
+      "content": "C\u00d3RDOBA. La Argentina atraviesa la peor epidemia de dengue desde 2009, con m\u00e1s de 180.000 casos diagnosticados (se estima que son a\u00fan m\u00e1s los no contabilizados) y 129 muertos, ysi bien se trata de un\u2026 [+6615 chars]",
+      "retrievedAt": "2024-04-09 07:06:08.797282",
+      "internal_id": "895f61ac4f89945e048be9bf10fe73c20337a21fad96b9b43ccd3539d23a334f",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7921,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Guatemala y Panam\u00e1, los m\u00e1s afectados por ola de dengue en Centroam\u00e9rica",
+      "description": "En Nicaragua, El Salvador y Costa Rica no hay muertos por la enfermedad en 2024. En Honduras, hay cuatro muertos y 8.000 casos.",
+      "url": "https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201807/_W933_80/659534.jpg",
+      "publishedAt": "2024-04-07 14:35:00",
+      "content": "Al menos 20 personas han muerto y m\u00e1s de 30.000 han sido contagiadas por una ola de dengue en Centroam\u00e9rica, donde Guatemala y Panam\u00e1 tienen este a\u00f1o el mayor balance de fallecidos. La Organizaci\u2026 [+2002 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.847014",
+      "internal_id": "f64089a353c82f065f153c6ffcc5e560f2302bf0f4a4afd5eccc6c82e9582f03",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7920,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luiz Vassallo",
+      "title": "Mortes por dengue no estado de S\u00e3o Paulo chegam a 221",
+      "description": "Em todo o estado h\u00e1 485 mortes em investiga\u00e7\u00e3o; foram 456.427 casos confirmados ao longo do ano",
+      "url": "https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-04-07 12:45:16",
+      "content": "S\u00e3o Paulo \u2013 O n\u00famero de mortes em raz\u00e3o de casos de dengue em 2023 chegou a 221 no estado de S\u00e3o Paulo, segundo dados da Secretaria estadual da Sa\u00fade. A pasta registra outros 485 \u00f3bitos em investiga\u00e7\u2026 [+1717 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.833995",
+      "internal_id": "c06f158d1bd95cc31be047934a0d7249a68a4a474a320378fb6e73265eb8d7e5",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7922,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Se extiende el dengue por Centro y Sudam\u00e9rica",
+      "description": "R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su \u201cpeor temporada de dengue\u201d, una \u201cenfermedad febril que afecta a lactantes, ni\u00f1os y adultos\u201d describe el organismo.",
+      "url": "https://www.jornada.com.mx/2024/04/07/mundo/022n1mun",
+      "urlToImage": "https://www.jornada.com.mx/2024/04/07/fotos/022n1mun-1.jpg",
+      "publishedAt": "2024-04-07 12:01:17",
+      "content": "Peri\u00f3dico La JornadaDomingo 7 de abril de 2024, p. 22 R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su peor temporada de dengue, una enfermedad febril que afecta a lactantes,\u2026 [+2321 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.866530",
+      "internal_id": "1ef59dff7bdcee691defb5d888bbdeb9c3e0abea41a52c5bae2169c80bdad59e",
       "publishedAtLabel": "Apr 7"
     }
   ]

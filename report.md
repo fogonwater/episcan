@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-05-23 19:05
-- **Most recent article:** 2024-05-22 17:35:42
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-05-24 07:06
+- **Most recent article:** 2024-05-23 06:45:23
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 131 | 113 | 117 | 77 | 57 | 87 | 37 | 619 |
+| dengue | 137 | 113 | 117 | 77 | 57 | 87 | 39 | 627 |
 | malaria | 16 | 29 | 77 | 25 | 29 | 13 | 10 | 199 |
-| measles | 43 | 40 | 28 | 24 | 10 | 29 | 7 | 181 |
-| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 33 | 153 |
+| measles | 43 | 40 | 28 | 24 | 10 | 29 | 8 | 182 |
+| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 51 | 171 |
 | meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 4 | 84 |
 | mpox | 3 | 13 | 8 | 36 | 3 | 10 | 6 | 79 |
-| rabies | 8 | 3 | 3 | 4 | 22 | 10 | 5 | 55 |
+| rabies | 8 | 3 | 3 | 4 | 22 | 10 | 6 | 56 |
 | chikungunya | 7 | 5 | 5 | 7 | 5 | 12 | 0 | 41 |
 | zika | 10 | 8 | 3 | 8 | 2 | 6 | 2 | 39 |
 | pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 5 | 38 |
 | sarampión | 13 | 0 | 10 | 8 | 1 | 0 | 0 | 32 |
 | leptospirosis | 3 | 3 | 3 | 2 | 1 | 3 | 0 | 15 |
+| hpai | 0 | 0 | 0 | 0 | 4 | 3 | 5 | 12 |
 | yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 4 | 12 |
-| hpai | 0 | 0 | 0 | 0 | 4 | 3 | 4 | 11 |
 | typhoid | 0 | 2 | 0 | 0 | 3 | 2 | 0 | 7 |
 
 
@@ -50,6 +50,8 @@ Source: [News API](https://newsapi.org/)
 - [Yersinia pestis can infect the Pawlowsky glands of human body lice and be transmitted by louse bite](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002625) (Plos.org)
 
 ## 24-21 (rabies)
+
+- [Henrico officials report county's third rabies case of 2024](https://richmond.com/news/local/henrico-rabies-case-vaccine-clinic/article_c9ceb9fc-187a-11ef-b7c3-1f42e077f4d2.html) (Richmond.com)
 
 - [Rabies Warning as Disease Detected in Connecticut Black Bear](https://www.newsweek.com/rabies-detected-black-bear-connecticut-1903522) (Newsweek)
 
@@ -99,6 +101,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (measles)
 
+- [Our Vaccination Heroes](https://www.lawyersgunsmoneyblog.com/2024/05/our-vaccination-heroes) (Lawyersgunsmoneyblog.com)
+
 - [Four more measles cases confirmed in Ireland, bringing total for year so far to thirty](https://www.thejournal.ie/four-more-measles-cases-confirmed-in-ireland-6386310-May2024/) (TheJournal.ie)
 
 - [4 Ways Vaccine Skeptics Mislead You on Measles and More](https://kffhealthnews.org/news/article/measles-how-vaccine-skeptics-mislead-public/) (Kffhealthnews.org)
@@ -137,6 +141,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (hpai)
 
+- [U.S. confirms another human H5 bird flu case tied to dairy cow outbreak](http://en.people.cn/n3/2024/0523/c90000-20173048.html) (People.cn)
+
 - [CDC Reports Second Human Case of H5 Bird Flu Tied to Dairy Cow Outbreak](https://www.cdc.gov/media/releases/2024/s0522-human-case-h5.html) (Cdc.gov)
 
 - [US Public Health Preparedness and Response to Highly Pathogenic Avian Influenza A(H5N1) Viruses](https://jamanetwork.com/journals/jama/fullarticle/2819159) (Jamanetwork.com)
@@ -146,6 +152,42 @@ Source: [News API](https://newsapi.org/)
 - [US Rulers Say There’s “No Evidence” Of Bird Flu Spreading to Humans](https://www.shtfplan.com/headline-news/us-rulers-say-theres-no-evidence-of-bird-flu-spreading-to-humans) (Shtfplan.com)
 
 ## 24-21 (h5n1)
+
+- [美政府嚴防禽流感與莫德納、輝瑞接洽，疫苗股飆](https://finance.technews.tw/2024/05/23/moderna-and-pfizer-in-talks-with-u-s-to-make-a-bird-flu-vaccine/) (Technews.tw)
+
+- [Deuxième cas humain de grippe aviaire lié à une épidémie chez les vaches aux Etats-Unis](https://www.levif.be/societe/sante/deuxieme-cas-humain-de-grippe-aviaire-lie-a-une-epidemie-chez-les-vaches-aux-etats-unis/) (Levif.be)
+
+- [İneklerde kuş gribinin yayılması, insanlar için ne kadar risk barındırıyor?](https://www.bbc.com/turkce/articles/cg33jr542r5o) (BBC News)
+
+- [Map Shows States With Human Bird Flu Cases](https://www.newsweek.com/map-shows-states-human-bird-flu-cases-1903771) (Newsweek)
+
+- [Second case of bird flu among dairy workers found in Michigan](https://www.jpost.com/health-and-wellness/article-802310) (The Jerusalem Post)
+
+- [H5N1 bird flu has spread to human from cow in 2nd probable case, CDC reports](https://www.livescience.com/health/flu/h5n1-bird-flu-has-spread-to-human-from-cow-in-2nd-probable-case-cdc-reports) (Live Science)
+
+- [A Michigan farmworker is diagnosed with bird flu in 2nd U.S. case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows) (NPR)
+
+- [Second human tests positive for bird flu amid dairy heard outbreak](https://qz.com/human-bird-flu-h5n1-michigan-outbreak-virus-milk-cows-1851494890) (Quartz India)
+
+- [Avustralya’da ilk defa bir kişide kuş gribi tespit edildi](https://www.haber7.com/dunya/haber/3426457-avustralyada-ilk-defa-bir-kiside-kus-gribi-tespit-edildi) (Haber7.com)
+
+- [États-Unis. Un deuxième humain contaminé par la grippe aviaire via une épidémie chez des vaches](https://www.ledauphine.com/sante/2024/05/22/un-deuxieme-humain-contamine-par-la-grippe-aviaire-via-une-epidemie-chez-des-vaches) (Le Dauphiné Libéré)
+
+- [Michigan Reports Human Case of Bird Flu](https://politicalwire.com/2024/05/22/michigan-reports-human-case-of-bird-flu/) (Politicalwire.com)
+
+- [Human Infected With Bird Flu in Michigan, Only the Second Case of Current Outbreak](https://gizmodo.com/human-bird-flu-h5n1-michigan-outbreak-virus-milk-cows-1851494494) (Gizmodo.com)
+
+- [Humano infectado con gripe aviar en Michigan, solo el segundo caso del brote actual](https://es.gizmodo.com/gripe-humana-aviar-h5n1-virus-del-brote-de-michigan-vac-1851494736) (Gizmodo.com)
+
+- [Aviaria e influenza umana, l’interazione che preoccupa gli scienziati e le misure del Cdc negli Usa](https://www.ilfattoquotidiano.it/2024/05/22/aviaria-e-influenza-umana-linterazione-che-preoccupa-gli-scienziati-e-le-misure-del-cdc-negli-usa/7558211/) (Ilfattoquotidiano.it)
+
+- [Australia Reports Its First Human Bird Flu Infection](https://www.shtfplan.com/headline-news/australia-reports-its-first-human-bird-flu-infection) (Shtfplan.com)
+
+- [Bird Flu (H5N1) Explained: U.S. Reports Another Human Case Of Bird Flu—Second One Tied To Dairy Cows](https://www.forbes.com/sites/ariannajohnson/2024/05/22/bird-flu-h5n1-explained-us-reports-another-human-case-of-bird-flu-second-one-tied-to-dairy-cows/) (Forbes)
+
+- [2nd human infected with H5N1 bird flu in U.S., CDC says](https://www.cbc.ca/news/health/h5n1-human-infection-michigan-1.7211575) (CBC News)
+
+- [En till människa smittad av fågelinfluensan](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1256527) (Aftonbladet.se)
 
 - [Austrália registra primeiro caso de infecção humana por gripe aviária](https://www.metropoles.com/saude/australia-1-gripe-aviaria) (Metropoles.com)
 
@@ -214,6 +256,10 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, in Usa gli allevatori contro i controlli nelle fattorie. I funzionari dei Cdc ricorrono ai veterinari locali](https://www.ilfattoquotidiano.it/2024/05/19/aviaria-in-usa-gli-allevatori-contro-i-controlli-nelle-fattorie-i-funzionari-dei-cdc-ricorrono-ai-veterinari-locali/7551261/) (Ilfattoquotidiano.it)
 
 ## 24-21 (dengue)
+
+- [Emergence of Indigenous Dengue Fever, Niger, October 2023](https://wwwnc.cdc.gov/eid/article/30/7/24-0301_article) (Cdc.gov)
+
+- [Bebê de 9 meses, sem comorbidades, morre vítima de dengue em Curitiba](https://www.terra.com.br/noticias/brasil/cidades/bebe-de-9-meses-sem-comorbidades-morre-vitima-de-dengue-em-curitiba,311b52d346b90ce9441b6ffac2b365197ez165f2.html) (Terra.com.br)
 
 - [Onda de dengue que assola América Latina chega a Miami](https://valor.globo.com/mundo/noticia/2024/05/22/onda-de-dengue-que-assola-america-latina-chega-a-miami.ghtml) (Globo)
 
@@ -3316,6 +3362,18 @@ Source: [News API](https://newsapi.org/)
 - [Milei deja la atención sanitaria al libre mercado en la peor epidemia de dengue](https://www.meneame.net/m/actualidad/milei-deja-atencion-sanitaria-libre-mercado-peor-epidemia-dengue) (Meneame.net)
 
 - [Milei decide no vacunar contra la epidemia de dengue y su ministro de Salud pide que no lleven pantalones cortos](https://www.meneame.net/m/politica/milei-decide-no-vacunar-contra-epidemia-dengue-ministro-salud-no) (Meneame.net)
+
+- [Fuerte suba: el país supera los 200.000 casos de dengue en lo que va del año y ya es un 54% más que en todo 2023](https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/) (La Nacion)
+
+- [Dá para ter dengue e Covid ao mesmo tempo?](https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html) (Terra.com.br)
+
+- [Ni el mosquito ni el clima: el otro factor de riesgo para la propagación del dengue que cada vez más señalan los expertos](https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/) (La Nacion)
+
+- [Guatemala y Panamá, los más afectados por ola de dengue en Centroamérica](https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783) (Montevideo.com.uy)
+
+- [Mortes por dengue no estado de São Paulo chegam a 221](https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221) (Metropoles.com)
+
+- [Se extiende el dengue por Centro y Sudamérica](https://www.jornada.com.mx/2024/04/07/mundo/022n1mun) (Jornada.com.mx)
 
 ## 24-15 (chikungunya)
 
