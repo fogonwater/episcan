@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2024-05-24 07:06
-- **Most recent article:** 2024-05-23 06:45:23
+- **New articles in last harvest:** 25
+- **Last harvest:** 2024-05-24 19:05
+- **Most recent article:** 2024-05-23 19:02:34
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 137 | 113 | 117 | 77 | 57 | 87 | 39 | 627 |
-| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 10 | 199 |
-| measles | 43 | 40 | 28 | 24 | 10 | 29 | 8 | 182 |
-| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 51 | 171 |
+| dengue | 131 | 113 | 117 | 77 | 57 | 87 | 44 | 626 |
+| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 12 | 201 |
+| measles | 43 | 40 | 28 | 24 | 10 | 29 | 11 | 185 |
+| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 60 | 180 |
 | meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 4 | 84 |
-| mpox | 3 | 13 | 8 | 36 | 3 | 10 | 6 | 79 |
+| mpox | 3 | 13 | 8 | 36 | 3 | 10 | 9 | 82 |
 | rabies | 8 | 3 | 3 | 4 | 22 | 10 | 6 | 56 |
-| chikungunya | 7 | 5 | 5 | 7 | 5 | 12 | 0 | 41 |
-| zika | 10 | 8 | 3 | 8 | 2 | 6 | 2 | 39 |
-| pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 5 | 38 |
+| chikungunya | 7 | 5 | 5 | 7 | 5 | 12 | 1 | 42 |
+| zika | 10 | 8 | 3 | 8 | 2 | 6 | 3 | 40 |
+| pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 6 | 39 |
 | sarampión | 13 | 0 | 10 | 8 | 1 | 0 | 0 | 32 |
 | leptospirosis | 3 | 3 | 3 | 2 | 1 | 3 | 0 | 15 |
-| hpai | 0 | 0 | 0 | 0 | 4 | 3 | 5 | 12 |
+| hpai | 0 | 0 | 0 | 0 | 4 | 3 | 6 | 13 |
 | yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 4 | 12 |
 | typhoid | 0 | 2 | 0 | 0 | 3 | 2 | 0 | 7 |
 
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-21 (zika)
+
+- [Czy w Polsce są komary tygrysie? Wzrost temperatur jest ich sprzymierzeńcem. "Nie ma żadnej procedury"](https://kobieta.gazeta.pl/kobieta/7,107881,30998373,smiertelny-wrog-juz-w-polsce-przed-tymi-owadami-ciezko-sie.html) (Gazeta.pl)
 
 - [Czy denga zagraża Polsce? Komary roznoszące tropikalne choroby coraz bliżej](https://zdrowie.gazeta.pl/Zdrowie/7,101580,30994436,czy-denga-zagraza-polsce-komary-roznoszace-tropikalne-choroby.html) (Gazeta.pl)
 
@@ -65,6 +67,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (pertussis)
 
+- [The mysterious spike in whooping cough cases](https://www.dw.com/en/the-mysterious-spike-in-whooping-cough-cases/a-69164064) (DW (English))
+
 - [Media attention can impede positive predictive value of clinical diagnosis of low prevalence disease](https://www.bmj.com/content/385/bmj.q1133) (The BMJ)
 
 - [Czech Republic records nearly 15,000 cases of Pertussis, 6 die](https://www.thestar.com.my/news/world/2024/05/21/czech-republic-records-nearly-15000-cases-of-pertussis-6-die) (The Star Online)
@@ -76,6 +80,12 @@ Source: [News API](https://newsapi.org/)
 - [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
 
 ## 24-21 (mpox)
+
+- [CDC says vaccination could protect the U.S. from more dangerous mpox virus](https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753) (NBC News)
+
+- [Notes from the Field: Clade II Mpox Surveillance Update - United States, October 2023-April 2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7320a4.htm) (Cdc.gov)
+
+- [Case study: VDEC rapidly develops an immunoassay for Mpox during the 2022 global outbreak](https://www.gov.uk/government/case-studies/vdec-rapidly-develops-an-immunoassay-for-mpox-during-the-2022-global-outbreak) (Www.gov.uk)
 
 - [شیوع بیماری کشنده در آفریقا](https://www.entekhab.ir/fa/news/785151/شیوع-بیماری-کشنده-در-آفریقا) (Entekhab.ir)
 
@@ -101,6 +111,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (measles)
 
+- [Passengers may have been exposed to measles on Dublin-bound flight](https://www.irishtimes.com/health/2024/05/23/passengers-may-have-been-exposed-to-measles-on-dublin-bound-flight/) (The Irish Times)
+
+- [Ryanair passengers at centre of public alert over highly contagious measles risk](https://www.independent.ie/irish-news/ryanair-passengers-at-centre-of-public-alert-over-highly-contagious-measles-risk/a1237570837.html) (Independent.ie)
+
+- [HSE issue measles exposure warning for passengers on London to Dublin flight](https://www.thejournal.ie/ryanair-measles-hse-exposure-london-to-dublin-gatwick-6387967-May2024/) (TheJournal.ie)
+
 - [Our Vaccination Heroes](https://www.lawyersgunsmoneyblog.com/2024/05/our-vaccination-heroes) (Lawyersgunsmoneyblog.com)
 
 - [Four more measles cases confirmed in Ireland, bringing total for year so far to thirty](https://www.thejournal.ie/four-more-measles-cases-confirmed-in-ireland-6386310-May2024/) (TheJournal.ie)
@@ -118,6 +134,10 @@ Source: [News API](https://newsapi.org/)
 - [Residents warned of possible measles exposure in Philadelphia and Montgomery County](https://6abc.com/post/residents-warned-measles-exposure-philadelphia-montgomery-county/14848435/) (WPVI-TV)
 
 ## 24-21 (malaria)
+
+- [Kite & Key Media: Recent Medical Breakthroughs On Malaria, RSV, And Cancer](https://www.realclearpolitics.com/video/2024/05/23/kite__key_media_recent_medical_breakthroughs_on_malaria_rsv_and_cancer.html) (RealClearPolitics)
+
+- [GMO mosquitoes released in Djibouti to fight malaria](https://www.bbc.com/news/articles/cw551yelwz5o) (BBC News)
 
 - [‘Critical gaps’ in understanding climate change fuel tropical disease spread](https://news.un.org/en/story/2024/05/1150101) (UN News)
 
@@ -141,6 +161,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (hpai)
 
+- [U.S. confirms another human H5 bird flu case tied to dairy cow outbreak](https://www.globalsecurity.org/security/library/news/2024/05/sec-240523-pdo02.htm) (Globalsecurity.org)
+
 - [U.S. confirms another human H5 bird flu case tied to dairy cow outbreak](http://en.people.cn/n3/2024/0523/c90000-20173048.html) (People.cn)
 
 - [CDC Reports Second Human Case of H5 Bird Flu Tied to Dairy Cow Outbreak](https://www.cdc.gov/media/releases/2024/s0522-human-case-h5.html) (Cdc.gov)
@@ -152,6 +174,24 @@ Source: [News API](https://newsapi.org/)
 - [US Rulers Say There’s “No Evidence” Of Bird Flu Spreading to Humans](https://www.shtfplan.com/headline-news/us-rulers-say-theres-no-evidence-of-bird-flu-spreading-to-humans) (Shtfplan.com)
 
 ## 24-21 (h5n1)
+
+- [Reportan gripe aviar en trabajador agrícola de Michigan expuesto regularmente a ganado infectado](https://cnnespanol.cnn.com/2024/05/23/gripe-aviar-trabajador-agricola-ganado-michigan-trax/) (CNN)
+
+- [В США нашли уже второй случай заболевания человека птичьим гриппом от коровы](https://www.ferra.ru/news/health/v-ssha-nashli-uzhe-vtoroi-sluchai-zabolevaniya-cheloveka-ptichim-grippom-ot-korovy-23-05-2024.htm) (Ferra.ru)
+
+- [Influenza aviaria, secondo contagio umano legato a casi di infezione nelle mucche](https://www.galileonet.it/influenza-aviaria-secondo-contagio-umano-legato-a-casi-di-infezione-nelle-mucche/) (Galileonet.it)
+
+- [Wird uns das Vogelgrippevirus H5N1 gefährlich?](https://www.tagesschau.de/wissen/gesundheit/vogelgrippe-infektion-mensch-100.html) (tagesschau.de)
+
+- [Cows Have Almost Certainly Infected More Than Two People With Bird Flu](https://www.theatlantic.com/science/archive/2024/05/bird-flu-infections-cows-farmworkers/678463/?utm_source=feed) (The Atlantic)
+
+- [Un deuxième cas de grippe aviaire chez l'humain confirmé](https://www.futura-sciences.com/sante/breves/grippe-aviaire-deuxieme-cas-grippe-aviaire-chez-humain-confirme-9556/) (Futura)
+
+- [U.S. reports 2nd human case of bird flu tied to dairy cow outbreak](https://www.rawstory.com/u-s-reports-2nd-human-case-of-bird-flu-tied-to-dairy-cow-outbreak/) (Raw Story)
+
+- [La grippe H5N1 touche maintenant les humains, un deuxième cas détecté](https://www.journaldugeek.com/2024/05/23/la-grippe-h5n1-touche-maintenant-les-humains-un-deuxieme-cas-detecte/) (Journal du geek)
+
+- [Bird flu is hitting Australian poultry farms, and the first human case has been reported in Victoria. Here’s what we know](https://theconversation.com/bird-flu-is-hitting-australian-poultry-farms-and-the-first-human-case-has-been-reported-in-victoria-heres-what-we-know-230691) (The Conversation Africa)
 
 - [美政府嚴防禽流感與莫德納、輝瑞接洽，疫苗股飆](https://finance.technews.tw/2024/05/23/moderna-and-pfizer-in-talks-with-u-s-to-make-a-bird-flu-vaccine/) (Technews.tw)
 
@@ -257,6 +297,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (dengue)
 
+- [Moustiques tigres, limaces, punaises de lit : alerte aux nouveaux envahisseurs en Belgique](https://www.dhnet.be/actu/belgique/2024/05/23/moustiques-tigres-limaces-punaises-de-lit-alerte-aux-nouveaux-envahisseurs-en-belgique-7MJASSBS3JALJAMPINNGHEHWZY/) (dh.be)
+
+- [RKI warnt – Dengue-Fieber-Fälle in Deutschland nehmen zu](https://www.morgenpost.de/vermischtes/article242404924/RKI-warnt-Dengue-Fieber-Faelle-in-Deutschland-nehmen-zu.html) (Berliner Morgenpost)
+
+- [Vacinação reduziu casos de dengue no Paraná, aponta pesquisa](https://olhardigital.com.br/2024/05/23/medicina-e-saude/vacinacao-reduziu-casos-de-dengue-no-parana-aponta-pesquisa/) (Olhardigital.com.br)
+
+- [RJ inicia vacina contra dengue em crianças e adolescentes](https://www.terra.com.br/visao-do-corre/corre-pro-futuro/rj-inicia-vacina-contra-dengue-em-criancas-e-adolescentes,06e1a6be958ff0090b7570b23c5bed74wqhsjsqv.html) (Terra.com.br)
+
 - [Emergence of Indigenous Dengue Fever, Niger, October 2023](https://wwwnc.cdc.gov/eid/article/30/7/24-0301_article) (Cdc.gov)
 
 - [Bebê de 9 meses, sem comorbidades, morre vítima de dengue em Curitiba](https://www.terra.com.br/noticias/brasil/cidades/bebe-de-9-meses-sem-comorbidades-morre-vitima-de-dengue-em-curitiba,311b52d346b90ce9441b6ffac2b365197ez165f2.html) (Terra.com.br)
@@ -266,6 +314,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue pode deixar sequelas no corpo? Entenda](https://www.terra.com.br/vida-e-estilo/dengue-pode-deixar-sequelas-no-corpo-entenda,ecbf051974fdedd2759eac415d059b6dl47sxqmu.html) (Terra.com.br)
 
 - [‘Critical gaps’ in understanding climate change fuel tropical disease spread](https://news.un.org/en/story/2024/05/1150101) (UN News)
+
+- [5 โรคในหน้าฝน ที่ผู้สูงอายุต้องระวัง พร้อมวิธีป้องกัน](https://www.thairath.co.th/lifestyle/lifestyle45plus/2787647) (Thairath.co.th)
 
 - [De maneira silenciosa, dengue também afeta o cérebro: veja como](https://www.terra.com.br/vida-e-estilo/saude/de-maneira-silenciosa-dengue-tambem-afeta-o-cerebro-veja-como,423a73733cb597bcc79dae7a4ae90ea0hq21b8o0.html) (Terra.com.br)
 
@@ -334,6 +384,10 @@ Source: [News API](https://newsapi.org/)
 - [Mirtha Legrand habló de la libertad de expresión, volvió a pedir por la vacuna del dengue y reveló una infidencia de Milei](https://www.lanacion.com.ar/espectaculos/personajes/mirtha-legrand-hablo-de-la-libertad-de-expresion-volvio-a-pedir-por-la-vacuna-del-dengue-y-revelo-nid19052024/) (La Nacion)
 
 - [Mizoram: 7 people died of dengue in two years](https://thehillstimes.in/northeast/mizoram-7-people-died-of-dengue-in-two-years) (Thehillstimes.in)
+
+## 24-21 (chikungunya)
+
+- [Moustiques tigres, limaces, punaises de lit : alerte aux nouveaux envahisseurs en Belgique](https://www.dhnet.be/actu/belgique/2024/05/23/moustiques-tigres-limaces-punaises-de-lit-alerte-aux-nouveaux-envahisseurs-en-belgique-7MJASSBS3JALJAMPINNGHEHWZY/) (dh.be)
 
 ## 24-20 (zika)
 
@@ -3362,18 +3416,6 @@ Source: [News API](https://newsapi.org/)
 - [Milei deja la atención sanitaria al libre mercado en la peor epidemia de dengue](https://www.meneame.net/m/actualidad/milei-deja-atencion-sanitaria-libre-mercado-peor-epidemia-dengue) (Meneame.net)
 
 - [Milei decide no vacunar contra la epidemia de dengue y su ministro de Salud pide que no lleven pantalones cortos](https://www.meneame.net/m/politica/milei-decide-no-vacunar-contra-epidemia-dengue-ministro-salud-no) (Meneame.net)
-
-- [Fuerte suba: el país supera los 200.000 casos de dengue en lo que va del año y ya es un 54% más que en todo 2023](https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/) (La Nacion)
-
-- [Dá para ter dengue e Covid ao mesmo tempo?](https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html) (Terra.com.br)
-
-- [Ni el mosquito ni el clima: el otro factor de riesgo para la propagación del dengue que cada vez más señalan los expertos](https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/) (La Nacion)
-
-- [Guatemala y Panamá, los más afectados por ola de dengue en Centroamérica](https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783) (Montevideo.com.uy)
-
-- [Mortes por dengue no estado de São Paulo chegam a 221](https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221) (Metropoles.com)
-
-- [Se extiende el dengue por Centro y Sudamérica](https://www.jornada.com.mx/2024/04/07/mundo/022n1mun) (Jornada.com.mx)
 
 ## 24-15 (chikungunya)
 

@@ -1,8 +1,441 @@
 {
-  "last_updated": "2024-05-24 07:06",
-  "count_articles_total": 1518,
-  "count_articles_new": 23,
+  "last_updated": "2024-05-24 19:05",
+  "count_articles_total": 1537,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 9474,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Benjamin Ryan",
+      "title": "CDC says vaccination could protect the U.S. from more dangerous mpox virus",
+      "description": "As concerns mount about a large outbreak of an especially virulent form of mpox in central Africa and an uptick in U.S. cases since early last year, the mpox vaccine appears to give long-term protection, the CDC said.",
+      "url": "https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/240523-Mpox-aa-1234p-e57333.jpg",
+      "publishedAt": "2024-05-23 19:02:34",
+      "content": "As concerns mount about a large outbreak of an especially virulent form of mpox in central Africa and an uptick in U.S. cases since early last year, the mpox vaccine appears to give long-term protect\u2026 [+9808 chars]",
+      "retrievedAt": "2024-05-24 19:05:26.538328",
+      "internal_id": "5626e089cecd68cfe79c3078305525fb54f0950a1da3a88b8cf6c03137fc4a2f",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9471,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "RealClearPolitics",
+      "author": null,
+      "title": "Kite & Key Media: Recent Medical Breakthroughs On Malaria, RSV, And Cancer",
+      "description": "Via Kite & Key Media -- Weight-loss drugs may be getting all the headlines, but we've simultaneously been making progress against some of the world's worst diseases with far less fanfare. Malaria kills about half a million children in Africa an\u2026",
+      "url": "https://www.realclearpolitics.com/video/2024/05/23/kite__key_media_recent_medical_breakthroughs_on_malaria_rsv_and_cancer.html",
+      "urlToImage": "https://assets.realclear.com/images/65/651345_5_.jpeg",
+      "publishedAt": "2024-05-23 18:34:55",
+      "content": "Via Kite &amp; Key Media -- Weight-loss drugs may be getting all the headlines, but weve simultaneously been making progress against some of the worlds worst diseases with far less fanfare. Malaria k\u2026 [+941 chars]",
+      "retrievedAt": "2024-05-24 19:05:25.928042",
+      "internal_id": "fab46f6780e34edcce2d68d8c53d2e11511cee60035dd0cd1b96db63fa961689",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9462,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Sol Amaya",
+      "title": "Reportan gripe aviar en trabajador agr\u00edcola de Michigan expuesto regularmente a ganado infectado",
+      "description": "Un caso de influenza H5, tambi\u00e9n conocida como influenza aviar o gripe aviar, en un trabajador agr\u00edcola en Michigan que estuvo expuesto regularmente a ganado infectado, fue confirmado por el Departamento de Salud y Servicios Humanos de Michigan y los Centros \u2026",
+      "url": "https://cnnespanol.cnn.com/2024/05/23/gripe-aviar-trabajador-agricola-ganado-michigan-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/05/gripe-aviar.webp",
+      "publishedAt": "2024-05-23 18:21:11",
+      "content": "El riesgo epidemiol\u00f3gico del contagio del ganado por la gripe aviar H5N1 1:20 (CNN) -- Un caso de influenza H5, tambi\u00e9n conocida como influenza aviar o gripe aviar, en un trabajador agr\u00edcola en Mich\u2026 [+4975 chars]",
+      "retrievedAt": "2024-05-24 19:05:24.576363",
+      "internal_id": "50f50afa31cf5bea50b9efa5a8039fbd30aa3a5b68bfe7da31c010ee3354ce08",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9452,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": null,
+      "title": "Passengers may have been exposed to measles on Dublin-bound flight",
+      "description": "HSE issued advice to passengers on board Ryanair flight between Gatwick and Dublin last Thursday",
+      "url": "https://www.irishtimes.com/health/2024/05/23/passengers-may-have-been-exposed-to-measles-on-dublin-bound-flight/",
+      "urlToImage": "https://www.irishtimes.com/resizer/1BPcWIDujN80OPvU8N34WGIohWQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/KVO2WE6NSNFP5MLJUZ5LGTOIFU.JPG",
+      "publishedAt": "2024-05-23 17:37:23",
+      "content": "Passengers on board a London-Dublin flight may have been exposed to measles, according to health officials. The Health Service Executive is advising passengers and crew on board Ryanair flight FR123\u2026 [+1803 chars]",
+      "retrievedAt": "2024-05-24 19:05:23.581043",
+      "internal_id": "060a03bbf68100031305e3cd4046814ceb08a3254869fd616bf852043b51bba1",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9472,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Kinga Adamczak",
+      "title": "Czy w Polsce s\u0105 komary tygrysie? Wzrost temperatur jest ich sprzymierze\u0144cem. \"Nie ma \u017cadnej procedury\"",
+      "description": "W ostatnich latach coraz cz\u0119\u015bciej s\u0142yszymy doniesienia z r\u00f3\u017cnych europejskich pa\u0144stw, \u017ce zarejestrowali u siebie obecno\u015b\u0107 komar\u00f3w tygrysich. Dzieje si\u0119 tak na skutek ocieplenia klimatu i wyra\u017anego wzrostu \u015brednich temperatur. Czy w Polsce s\u0105 komary tygrysie?",
+      "url": "https://kobieta.gazeta.pl/kobieta/7,107881,30998373,smiertelny-wrog-juz-w-polsce-przed-tymi-owadami-ciezko-sie.html",
+      "urlToImage": "https://bi.im-g.pl/im/25/90/1d/z30998821IER,Komar-tygrysi.jpg",
+      "publishedAt": "2024-05-23 17:21:00",
+      "content": "Komar tygrysi to gro\u017any, inwazyjny owad, znany z przenoszenia chor\u00f3b zaka\u017anych takich jak denga czy zika. Coraz cz\u0119\u015bciej mo\u017cemy spotka\u0107 go w Europie, a w tym miesi\u0105cu prawdopodobnie by\u0142 widziany r\u00f3wn\u2026 [+2748 chars]",
+      "retrievedAt": "2024-05-24 19:05:26.126761",
+      "internal_id": "b08317315fd60cf5ae65a787507bb63812aaba68c304f53385368cd1fe019ade",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9454,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Ryanair passengers at centre of public alert over highly contagious measles risk",
+      "description": "The HSE has issued a public alert to Ryanair passengers and crew who may have been exposed to highly contagious measles on a flight from London to Dublin last Thursday.",
+      "url": "https://www.independent.ie/irish-news/ryanair-passengers-at-centre-of-public-alert-over-highly-contagious-measles-risk/a1237570837.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/pdbrYMqG3jMBfpLA-0gNo1_EFNE=/475x0:3132x1771/629x0/prod-mh-ireland/6c187409-7014-4f0d-843f-43ce6027fb48/47b39fef-fcf1-4177-b4b9-da6fed416fa2/2.32933660.jpg",
+      "publishedAt": "2024-05-23 17:13:34",
+      "content": "The HSE has issued a public alert to Ryanair passengers and crew who may have been exposed to highly contagious measles on a flight from London to Dublin last Thursday.The Ryanair flight FR123 travel\u2026 [+2902 chars]",
+      "retrievedAt": "2024-05-24 19:05:23.596247",
+      "internal_id": "83c368c93ae05b5fd38e52d5b58144d39d3a20a2c99f3886b3c8434ebc956201",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9473,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: Clade II Mpox Surveillance Update - United States, October 2023-April 2024",
+      "description": "This report describes mpox surveillance during October 2023 -April 2024.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7320a4.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/weekly_logo_1200x627.jpg?_=82391",
+      "publishedAt": "2024-05-23 17:00:00",
+      "content": "Alexandra Tuttle, MPH1; Christine M. Hughes, MPH1; Mitchell Dvorak, MPH1,2; Leah Aeschleman, MPH1,2; Whitni Davidson, MPH1; Kimberly Wilkins1; Crystal Gigante, PhD1; Panayampalli S. Satheshkumar, PhD\u2026 [+9639 chars]",
+      "retrievedAt": "2024-05-24 19:05:26.527712",
+      "internal_id": "34665398dd46eb42825d4675543c6b9559ce3956a763eeda5714aa194c6366ff",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9453,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Niall O'Connor",
+      "title": "HSE issue measles exposure warning for passengers on London to Dublin flight",
+      "description": "The Ryanair flight FR123 travelled to Ireland on 16 May at 8.10pm.",
+      "url": "https://www.thejournal.ie/ryanair-measles-hse-exposure-london-to-dublin-gatwick-6387967-May2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6387967/river/?height=400&version=6387973",
+      "publishedAt": "2024-05-23 16:54:21",
+      "content": "THE HSE HAS issued a warning that passengers on board a flight from London Gatwick to Dublin may have been exposed to measles. The Ryanair flight FR123 travelled to Ireland on 16 May at 8.10pm. A \u2026 [+876 chars]",
+      "retrievedAt": "2024-05-24 19:05:23.588742",
+      "internal_id": "486c6a1954f9d21b2b9d7f1b9552bffe453cc26fcef2b9632a310c4061d9f744",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9467,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Zhen-Zhen Zveny",
+      "title": "Moustiques tigres, limaces, punaises de lit : alerte aux nouveaux envahisseurs en Belgique",
+      "description": "La m\u00e9t\u00e9o de ces derniers jours est propice aux petites b\u00eates envahissantes. La saison des moustiques tigres a d\u00e9marr\u00e9 et il n\u2019y a pas qu\u2019eux qui sont de sortie. ...",
+      "url": "https://www.dhnet.be/actu/belgique/2024/05/23/moustiques-tigres-limaces-punaises-de-lit-alerte-aux-nouveaux-envahisseurs-en-belgique-7MJASSBS3JALJAMPINNGHEHWZY/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/42GGZRILGVCBZKFS4F3C4H3S2A.jpg?auth=a82e1de9efc05b73cddb100b38590df3383621db86c74bfb3722bf77a124f809&width=1200&height=630&quality=85&focal=1000%2C613&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2024-05-23 16:44:33",
+      "content": "Linsecte aux rayures blanches et noires est tr\u00e8s nuisant car il pique en journ\u00e9e. Mais il pr\u00e9sente aussi des risques de sant\u00e9 publique : il peut \u00eatre vecteur et transmettre la dengue, le chikungunya \u2026 [+2918 chars]",
+      "retrievedAt": "2024-05-24 19:05:25.162527",
+      "internal_id": "e1cb0e11a757ed1a36dc1ad7bcc8e3b104f0d389f8b477ee31fe7f7796bb3ad9",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9466,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Patricia von Thien",
+      "title": "RKI warnt \u2013 Dengue-Fieber-F\u00e4lle in Deutschland nehmen zu",
+      "description": "Infektionen mit dem Dengue-Fieber nehmen weltweit zu. Jetzt werden auch in Deutschland immer mehr F\u00e4lle gemeldet. Das RKI warnt.",
+      "url": "https://www.morgenpost.de/vermischtes/article242404924/RKI-warnt-Dengue-Fieber-Faelle-in-Deutschland-nehmen-zu.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/241600144/241600144_1716481806_v16_9_1600.jpeg",
+      "publishedAt": "2024-05-23 16:29:52",
+      "content": "Berlin. Infektionen mit dem Dengue-Fieber nehmen weltweit zu. Jetzt werden auch in Deutschland immer mehr F\u00e4lle gemeldet. Das RKI warnt. Das Dengue-Fieber verorten die meisten Menschen au\u00dferhalb Eur\u2026 [+4325 chars]",
+      "retrievedAt": "2024-05-24 19:05:25.109794",
+      "internal_id": "5217195f84f680e645ccd804b9e2a6ce87f84a1b6b8377f81f34057fb413df0f",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9470,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "GMO mosquitoes released in Djibouti to fight malaria",
+      "description": "The genetically-engineered and non-biting mosquitoes are hoped to stop the spread of the invasive Anopheles stephensi species.",
+      "url": "https://www.bbc.com/news/articles/cw551yelwz5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/af13/live/e33132a0-1913-11ef-80aa-699d54c46324.jpg",
+      "publishedAt": "2024-05-23 16:27:36",
+      "content": "Dorcas Wangira ,Africa Health Correspondent, BBC News Tens of thousands of genetically modified (GMO) mosquitoes have been released in Djibouti in an effort to stop the spread of an invasive species\u2026 [+4401 chars]",
+      "retrievedAt": "2024-05-24 19:05:25.905779",
+      "internal_id": "7d2188b72532f9dcd1e242ac5c8a56b967ac4a5df37ee469166ad1145b036e33",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9460,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ferra.ru",
+      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
+      "title": "\u0412 \u0421\u0428\u0410 \u043d\u0430\u0448\u043b\u0438 \u0443\u0436\u0435 \u0432\u0442\u043e\u0440\u043e\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c \u043e\u0442 \u043a\u043e\u0440\u043e\u0432\u044b",
+      "description": "\u0423 \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u0430 \u043c\u043e\u043b\u043e\u0447\u043d\u043e\u0439 \u0444\u0435\u0440\u043c\u044b \u0432 \u041c\u0438\u0447\u0438\u0433\u0430\u043d\u0435 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5, \u0447\u0442\u043e \u0441\u0442\u0430\u043b\u043e \u0432\u0442\u043e\u0440\u044b\u043c \u0441\u043b\u0443\u0447\u0430\u0435\u043c \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u043c \u0441\u043e \u0432\u0441\u043f\u044b\u0448\u043a\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0441\u0440\u0435\u0434\u0438 \u043a\u043e\u0440\u043e\u0432 \u0421\u0428\u0410. \u0423 \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u0430 \u0431\u044b\u043b\u0430 \u043b\u0438\u0448\u044c \u043b\u0435\u0433\u043a\u0430\u044f \u0433\u043b\u0430\u0437\u043d\u0430\u044f \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u044f, \u0438 \u0441 \u0442\u0435\u0445 \u043f\u043e\u0440 \u043e\u043d \u0432\u044b\u0437\u0434\u043e\u0440\u043e\u0432\u0435\u043b. \u042d\u0442\u043e \u2026",
+      "url": "https://www.ferra.ru/news/health/v-ssha-nashli-uzhe-vtoroi-sluchai-zabolevaniya-cheloveka-ptichim-grippom-ot-korovy-23-05-2024.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2024/05/23/16/6477786/a6a943c4f72151e8af6727dcd91229e82da74720.jpeg",
+      "publishedAt": "2024-05-23 16:17:36",
+      "content": "(CDC), . , H5N1 , . , . , , . , CDC . , H5N1 - , . . .",
+      "retrievedAt": "2024-05-24 19:05:24.544728",
+      "internal_id": "a91b7419da2a42d58f414892257b7f2d9ffefc6a8aa6629ba9e7560d72a9b487",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9463,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Galileonet.it",
+      "author": "Sara Carmignani",
+      "title": "Influenza aviaria, secondo contagio umano legato a casi di infezione nelle mucche",
+      "description": "Il primo caso era stato rilevato poche settimane fa nello stato del Texas. In entrambi i casi si tratta di lavoratori di aziende lattiero-casearie in cui sono stati registrati casi di infezione da virus H5N1 nelle mucche L'articolo Influenza aviaria, secondo \u2026",
+      "url": "https://www.galileonet.it/influenza-aviaria-secondo-contagio-umano-legato-a-casi-di-infezione-nelle-mucche/",
+      "urlToImage": "https://www.galileonet.it/wp-content/uploads/2024/05/annie-spratt-JMjNnQ2xFoY-unsplash.jpg",
+      "publishedAt": "2024-05-23 15:18:58",
+      "content": "Gli statunitensi Centers for Disease Control and Prevention (Cdc) hanno segnalato il secondo caso di contagio umano da influenza aviaria A(H5) legato a un focolaio scoppiato allinterno di un allevame\u2026 [+1951 chars]",
+      "retrievedAt": "2024-05-24 19:05:24.604072",
+      "internal_id": "dd643123342a24b19c39c6b98dfb04380aed32069e6d029856ab0c0f57c0ca11",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9457,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "Lilly Zerbst und David Beck, SWR",
+      "title": "Wird uns das Vogelgrippevirus H5N1 gef\u00e4hrlich?",
+      "description": "In den USA ist ein weiterer Mensch nach Kontakt mit K\u00fchen positiv auf das Vogelgrippevirus H5N1 getestet worden. Experten \u00e4u\u00dfern sich besorgt, sehen aber derzeit kein akutes Ansteckungsrisiko. Von Lilly Zerbst und David Beck.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/vogelgrippe-infektion-mensch-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/40e9195c-536b-4d55-abc3-0c7ed995e5e1/AAABj6X-7l0/AAABjwnlFvA/16x9-1280/milchkuehe-usa-100.jpg",
+      "publishedAt": "2024-05-23 15:08:20",
+      "content": "Stand: 23.05.2024 17:08 Uhr In den USA ist ein weiterer Mensch nach Kontakt mit K\u00fchen positiv auf das Vogelgrippevirus H5N1 getestet worden. Experten \u00e4u\u00dfern sich besorgt, sehen aber derzeit kein aku\u2026 [+5612 chars]",
+      "retrievedAt": "2024-05-24 19:05:24.493341",
+      "internal_id": "484376dbfab504187a62b39ae41106cb47c8e95efe2ba2d5981c63bfd6c19658",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9465,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Vacina\u00e7\u00e3o reduziu casos de dengue no Paran\u00e1, aponta pesquisa",
+      "description": "Segundo os pesquisadores, a vacina\u00e7\u00e3o reduziu em 71% o risco de dengue em pessoas que j\u00e1 tinham contra\u00eddo a doen\u00e7a O post Vacina\u00e7\u00e3o reduziu casos de dengue no Paran\u00e1, aponta pesquisa apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/05/23/medicina-e-saude/vacinacao-reduziu-casos-de-dengue-no-parana-aponta-pesquisa/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue-e1699618484205.jpg",
+      "publishedAt": "2024-05-23 14:41:47",
+      "content": "O n\u00famero de casos de dengue no Brasil neste ano j\u00e1 superou todos os recordes. As autoridades de sa\u00fade alertam para a situa\u00e7\u00e3o h\u00e1 meses, mas uma pesquisa realizada pela Universidade Federal do Paran\u00e1 \u2026 [+2016 chars]",
+      "retrievedAt": "2024-05-24 19:05:25.088915",
+      "internal_id": "2c2f2b11b4ddaab1a7be8959e4eeb3abbd19864e68d5d778911d04a018732fff",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9451,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Clare Roth",
+      "title": "The mysterious spike in whooping cough cases",
+      "description": "Whooping cough, or pertussis, cases are spiking across the US and Europe. Experts say it\u2019s unclear why. In the winter of 2023, health experts across the European continent started noticing something weird. Cases of whooping cough, also known as pertussis, wer\u2026",
+      "url": "https://www.dw.com/en/the-mysterious-spike-in-whooping-cough-cases/a-69164064",
+      "urlToImage": "https://static.dw.com/image/69164902_6.jpg",
+      "publishedAt": "2024-05-23 14:20:00",
+      "content": "In the winter of 2023, health experts across the European continent started noticing something weird. Cases of whooping cough, also known as pertussis, were rising. And it wasn't just happening in \u2026 [+6258 chars]",
+      "retrievedAt": "2024-05-24 19:05:22.877328",
+      "internal_id": "b939968bb36270770aa7b9516c6866b45204e7fc6e3a29a75f654f126c445909",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9459,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Katherine J. Wu",
+      "title": "Cows Have Almost Certainly Infected More Than Two People With Bird Flu",
+      "description": "Protecting dairy workers from further spread will be crucial to containing the outbreak.",
+      "url": "https://www.theatlantic.com/science/archive/2024/05/bird-flu-infections-cows-farmworkers/678463/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2024-05-23 14:06:50",
+      "content": "It was bound to happen again. For the second time in two months, the United States has confirmed a case of bird flu in a dairy worker employed by a farm with H5N1-infected cows. \u201cThe only thing I\u2019m s\u2026 [+7572 chars]",
+      "retrievedAt": "2024-05-24 19:05:24.534014",
+      "internal_id": "77e6d2a7da115ebd6fd6ab57a89a3f3bc2243865122e681e013687161f4b79cf",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9458,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "L\u00e9a Picon, Journaliste scientifique",
+      "title": "Un deuxi\u00e8me cas de grippe aviaire chez l'humain confirm\u00e9",
+      "description": "C\u2019est officiel : mercredi 22 mai, un deuxi\u00e8me cas humain de grippe aviaire a \u00e9t\u00e9 annonc\u00e9 par le Centre de contr\u00f4le et de pr\u00e9vention des maladies (CDC). Tout a commenc\u00e9 en mars dernier aux \u00c9tats-Unis, lorsqu\u2019un sous-type de grippe aviaire H5N1 a \u00e9t\u00e9 d\u00e9tect\u00e9 ch\u2026",
+      "url": "https://www.futura-sciences.com/sante/breves/grippe-aviaire-deuxieme-cas-grippe-aviaire-chez-humain-confirme-9556/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/f/1/b/f1beb544b6_50216469_lait-vache-fermier-yanawut-suntornkij.jpg",
+      "publishedAt": "2024-05-23 12:24:09",
+      "content": "C'est officiel : mercredi 22 mai, un deuxi\u00e8me cas humain de grippe aviaire a \u00e9t\u00e9 annonc\u00e9 par le Centre de contr\u00f4le et de pr\u00e9vention des maladies (CDCCDC). Tout a commenc\u00e9 en mars dernier aux \u00c9tats-Un\u2026 [+1453 chars]",
+      "retrievedAt": "2024-05-24 19:05:24.529567",
+      "internal_id": "4a94e044c7baac09951935a2b4f8c7d369a942086cc26d83e7d2d0697a71382a",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9468,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Vis\u00e3o do Corre",
+      "title": "RJ inicia vacina contra dengue em crian\u00e7as e adolescentes",
+      "description": "Segunda dose contra dengue \u00e9 para p\u00fablico entre 10 e 14 anos. Em outra frente, vacina\u00e7\u00e3o contra gripe acontece em metr\u00f4s",
+      "url": "https://www.terra.com.br/visao-do-corre/corre-pro-futuro/rj-inicia-vacina-contra-dengue-em-criancas-e-adolescentes,06e1a6be958ff0090b7570b23c5bed74wqhsjsqv.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/23/vacina-dengue-gripe-urxymju3lnas.jpg",
+      "publishedAt": "2024-05-23 11:37:10",
+      "content": "ResumoA Secretaria Municipal de Sa\u00fade do Rio de Janeiro inicia a aplica\u00e7\u00e3o da segunda dose da vacina contra a dengue para crian\u00e7as e adolescentes que j\u00e1 tomaram a primeira dose. Al\u00e9m dessa campanha, \u2026 [+2259 chars]",
+      "retrievedAt": "2024-05-24 19:05:25.176614",
+      "internal_id": "ccaf9c2d2b854154572212c0cb86abc524493d1cb2f8490fc5980723e46d51e7",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9464,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Agence France-Presse",
+      "title": "U.S. reports 2nd human case of bird flu tied to dairy cow outbreak",
+      "description": "A second case of bird flu has been found in a human, US health authorities announced Wednesday, less then two months after the first one as an outbreak of the disease circulates widely among dairy cows.Both individuals infected with the virus called H5N1 -- t\u2026",
+      "url": "https://www.rawstory.com/u-s-reports-2nd-human-case-of-bird-flu-tied-to-dairy-cow-outbreak/",
+      "urlToImage": "https://www.rawstory.com/media-library/burger-king-unveils-whopper-from-cows-on-green-diet.jpg?id=24818558&width=1200&height=600&coordinates=0%2C20%2C0%2C20",
+      "publishedAt": "2024-05-23 11:08:44",
+      "content": "Livestock farming is one of the main culprits in greenhouse gas emissions, the primary cause of global warming. Cellular agriculture, where food or nutrients are grown from cell cultures, is increas\u2026 [+4340 chars]",
+      "retrievedAt": "2024-05-24 19:05:24.611542",
+      "internal_id": "a9c2fea8a2d7b8ce6e78a39c9f3420bcb39787db589bf597bcc05c1c3cf75ac5",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9456,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Journal du geek",
+      "author": "tristan carballeda",
+      "title": "La grippe H5N1 touche maintenant les humains, un deuxi\u00e8me cas d\u00e9tect\u00e9",
+      "description": "Un agriculteur du Michigan a d\u00e9velopp\u00e9 la grippe aviaire apr\u00e8s avoir travaill\u00e9 avec du b\u00e9tail malade, c'est le deuxi\u00e8me cas dans le monde.",
+      "url": "https://www.journaldugeek.com/2024/05/23/la-grippe-h5n1-touche-maintenant-les-humains-un-deuxieme-cas-detecte/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/03/covid-19-maladie-qi.jpg",
+      "publishedAt": "2024-05-23 10:06:36",
+      "content": "Ce mercredi, l\u00c9tat du Michigan vient de confirmer la pr\u00e9sence dun cas de H5N1 humain. Cette maladie, plus commun\u00e9ment connue sous le nom de grippe aviaire, a infect\u00e9 un agriculteur de la r\u00e9gion, sans\u2026 [+2726 chars]",
+      "retrievedAt": "2024-05-24 19:05:24.488901",
+      "internal_id": "60b65f81eb99abb5c64de0b01a8f362990d12d50d30e1449081c07e885a306b7",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9455,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "U.S. confirms another human H5 bird flu case tied to dairy cow outbreak",
+      "description": "A new human case of highly pathogenic avian influenza (HPAI) A (H5 bird flu) virus infection in the United States has been identified, U.S. health authorities said on Wednesday.",
+      "url": "https://www.globalsecurity.org/security/library/news/2024/05/sec-240523-pdo02.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-05-23 09:03:18",
+      "content": "People's Daily Online (Xinhua) 09:08, May 23, 2024 LOS ANGELES, May 22 (Xinhua) -- A new human case of highly pathogenic avian influenza (HPAI) A (H5 bird flu) virus infection in the United States \u2026 [+1163 chars]",
+      "retrievedAt": "2024-05-24 19:05:23.989723",
+      "internal_id": "28a3e367f1d916022e4695f64dd1f1d5870991270fb020e51d8c574262acf9e2",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9475,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Case study: VDEC rapidly develops an immunoassay for Mpox during the 2022 global outbreak",
+      "description": "To better understand Mpox and its spread within the UK, VDEC developed an immunoassay to assess immune responses to Mpox infection and new vaccines.",
+      "url": "https://www.gov.uk/government/case-studies/vdec-rapidly-develops-an-immunoassay-for-mpox-during-the-2022-global-outbreak",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/664df177993111924d9d39eb/s300_mpox-image-creative-commons.jpg",
+      "publishedAt": "2024-05-23 08:30:06",
+      "content": "The Vaccine Development and Evaluation Centre (VDEC) facilitates the development and evaluation of new vaccines and therapeutics. VDEC developed an immunoassay at speed during the 2022 global Mpox o\u2026 [+5023 chars]",
+      "retrievedAt": "2024-05-24 19:05:26.542726",
+      "internal_id": "e3cac475236ffc41ff7170ff29913bde6672898cea5349ab64a35b74d756473e",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9461,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "C Raina MacIntyre, Professor of Global Biosecurity, NHMRC L3 Research Fellow, Head, Biosecurity Program, Kirby Institute, UNSW Sydney, Haley Stone, PhD Candidate, Biosecurity Program, Kirby Institute, UNSW Sydney",
+      "title": "Bird flu is hitting Australian poultry farms, and the first human case has been reported in Victoria. Here\u2019s what we know",
+      "description": "Contact tracing didn\u2019t identify any cases beyond this child. While the risk to the public is very low, the global situation with bird flu is precarious.",
+      "url": "https://theconversation.com/bird-flu-is-hitting-australian-poultry-farms-and-the-first-human-case-has-been-reported-in-victoria-heres-what-we-know-230691",
+      "urlToImage": "https://images.theconversation.com/files/595927/original/file-20240523-17-bw2ql5.jpg?ixlib=rb-4.1.0&rect=0%2C1116%2C6720%2C3360&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-05-23 07:50:14",
+      "content": "Dewald Kirsten/Shutterstock The first human case of avian influenza (bird flu) in Australia was reported yesterday in Victoria. A child acquired the H5N1 strain of the virus in India and became ill \u2026 [+5713 chars]",
+      "retrievedAt": "2024-05-24 19:05:24.562921",
+      "internal_id": "ad32d8b57785131c9c9bc5c0151cfb80ae833e015f2a4a81a473ad0a907d1b08",
+      "publishedAtLabel": "May 23"
+    },
     {
       "id": 9438,
       "query": [
@@ -633,6 +1066,24 @@
       "content": "- (...) W cigu najbliszych kilku dekad epidemie chor\u00f3b przenoszonych przez komary rozprzestrzeni si w obecnie nienaraonych na t chorob czciach Europy P\u00f3nocnej, Azji, Ameryki P\u00f3nocnej i Australii - m\u00f3\u2026 [+2535 chars]",
       "retrievedAt": "2024-05-23 19:05:52.578407",
       "internal_id": "b5ed8427c482959b6db4cf08121fb33a8653d58fab7235e3f4f53095f175cdf3",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 9469,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thairath.co.th",
+      "author": "Thairath",
+      "title": "5 \u0e42\u0e23\u0e04\u0e43\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e1d\u0e19 \u0e17\u0e35\u0e48\u0e1c\u0e39\u0e49\u0e2a\u0e39\u0e07\u0e2d\u0e32\u0e22\u0e38\u0e15\u0e49\u0e2d\u0e07\u0e23\u0e30\u0e27\u0e31\u0e07 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e27\u0e34\u0e18\u0e35\u0e1b\u0e49\u0e2d\u0e07\u0e01\u0e31\u0e19",
+      "description": "\u0e2b\u0e19\u0e49\u0e32\u0e1d\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e24\u0e14\u0e39\u0e17\u0e35\u0e48\u0e21\u0e32\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e0a\u0e38\u0e48\u0e21\u0e09\u0e48\u0e33\u0e02\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e1d\u0e19\u0e17\u0e35\u0e48\u0e0a\u0e48\u0e27\u0e22\u0e04\u0e25\u0e32\u0e22\u0e23\u0e49\u0e2d\u0e19\u0e44\u0e14\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e14\u0e35 \u0e41\u0e15\u0e48\u0e01\u0e47\u0e21\u0e32\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e1a\u0e42\u0e23\u0e04\u0e20\u0e31\u0e22\u0e44\u0e02\u0e49\u0e40\u0e08\u0e47\u0e1a\u0e14\u0e49\u0e27\u0e22\u0e40\u0e0a\u0e48\u0e19\u0e01\u0e31\u0e19 \u0e42\u0e23\u0e04\u0e43\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e1d\u0e19\u0e17\u0e35\u0e48\u0e1c\u0e39\u0e49\u0e2a\u0e39\u0e07\u0e27\u0e31\u0e22\u0e04\u0e27\u0e23\u0e23\u0e30\u0e27\u0e31\u0e07\u0e21\u0e35\u0e2d\u0e30\u0e44\u0e23\u0e1a\u0e49\u0e32\u0e07 \u0e41\u0e25\u0e30\u0e15\u0e49\u0e2d\u0e07\u0e1b\u0e49\u0e2d\u0e07\u0e01\u0e31\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e23",
+      "url": "https://www.thairath.co.th/lifestyle/lifestyle45plus/2787647",
+      "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa5KTT3yaX6tQnsE7xN923TziSq4OjwjhReq8xV5n9XK3U7lxo73G.jpg",
+      "publishedAt": "2024-05-22 11:13:01",
+      "content": "3-5 4 65 5 65 (Dengue virus) 3 1-2 : , , ,",
+      "retrievedAt": "2024-05-24 19:05:25.184071",
+      "internal_id": "004a71c6c3798dda38122458488852430aecddcc13ce5a4c1ea71ea1efa0360e",
       "publishedAtLabel": "May 22"
     },
     {
@@ -27293,114 +27744,6 @@
       "content": "Y mi libertad para ponerme pantalones cortos donde queda?",
       "retrievedAt": "2024-04-09 07:06:08.712972",
       "internal_id": "564eaa099fad3e9e030239277c6cdafbee9450adad7d93e58af268a0594fefaa",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7942,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "Fuerte suba: el pa\u00eds supera los 200.000 casos de dengue en lo que va del a\u00f1o y ya es un 54% m\u00e1s que en todo 2023",
-      "description": "Se trata de una epidemia hist\u00f3rica; se reportaron 52.000 contagios en solo una semana y siguen las muertes",
-      "url": "https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/crecen-los-casos-de-dengue-en-el-pais-en-la-mayor-QYAJYSTDSZF5PD4WXL3D5ZILTI.jpeg?auth=5f1c2364d22e8b2da51c77c2e8b8c3729cb36f994b437dfbc620951760756998&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-07 18:47:52",
-      "content": "La mayorepidemia de dengue que enfrent\u00f3 hasta el momento el pa\u00eds super\u00f3 en las primeras 13 semanas de este a\u00f1o todos los casos acumulados en 2023. Si bien la comparaci\u00f3n es relativa, ya que parte de \u2026 [+2070 chars]",
-      "retrievedAt": "2024-04-09 07:06:08.813194",
-      "internal_id": "5ae38315a34a819009e3d3695aa2233437700668fedf9dfbf695abc344fbe9d9",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7923,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Jairo Bouer - Parceria",
-      "title": "D\u00e1 para ter dengue e Covid ao mesmo tempo?",
-      "description": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/07/421659606-istockfebre.jpg",
-      "publishedAt": "2024-04-07 17:00:11",
-      "content": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da dengue podem variar muito. Algumas pessoas t\u00eam sintomas muito intensos, outras t\u00eam sintomas mais ameno\u2026 [+744 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.883513",
-      "internal_id": "b4dc4a1fa650323a01ee2adb93db0abdfe0c5773905c5f3ed124518b1d86a87c",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7938,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Gabriela Origlia",
-      "title": "Ni el mosquito ni el clima: el otro factor de riesgo para la propagaci\u00f3n del dengue que cada vez m\u00e1s se\u00f1alan los expertos",
-      "description": "Si bien lo definen como \u201cuna enfermedad democr\u00e1tica\u201d, aparece un v\u00ednculo entre la infecci\u00f3n y la pobreza; causas y recomendaciones",
-      "url": "https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-viviendas-deficitarias-y-el-mal-tratamiento-W53O4OXG4VGM3P3AW2AWYOUXZU.JPG?auth=a694e5614bba61de5f61241698439dc471693c36b6ba15080dd617922fb81b97&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-07 15:40:41",
-      "content": "C\u00d3RDOBA. La Argentina atraviesa la peor epidemia de dengue desde 2009, con m\u00e1s de 180.000 casos diagnosticados (se estima que son a\u00fan m\u00e1s los no contabilizados) y 129 muertos, ysi bien se trata de un\u2026 [+6615 chars]",
-      "retrievedAt": "2024-04-09 07:06:08.797282",
-      "internal_id": "895f61ac4f89945e048be9bf10fe73c20337a21fad96b9b43ccd3539d23a334f",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7921,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Guatemala y Panam\u00e1, los m\u00e1s afectados por ola de dengue en Centroam\u00e9rica",
-      "description": "En Nicaragua, El Salvador y Costa Rica no hay muertos por la enfermedad en 2024. En Honduras, hay cuatro muertos y 8.000 casos.",
-      "url": "https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201807/_W933_80/659534.jpg",
-      "publishedAt": "2024-04-07 14:35:00",
-      "content": "Al menos 20 personas han muerto y m\u00e1s de 30.000 han sido contagiadas por una ola de dengue en Centroam\u00e9rica, donde Guatemala y Panam\u00e1 tienen este a\u00f1o el mayor balance de fallecidos. La Organizaci\u2026 [+2002 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.847014",
-      "internal_id": "f64089a353c82f065f153c6ffcc5e560f2302bf0f4a4afd5eccc6c82e9582f03",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7920,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Luiz Vassallo",
-      "title": "Mortes por dengue no estado de S\u00e3o Paulo chegam a 221",
-      "description": "Em todo o estado h\u00e1 485 mortes em investiga\u00e7\u00e3o; foram 456.427 casos confirmados ao longo do ano",
-      "url": "https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
-      "publishedAt": "2024-04-07 12:45:16",
-      "content": "S\u00e3o Paulo \u2013 O n\u00famero de mortes em raz\u00e3o de casos de dengue em 2023 chegou a 221 no estado de S\u00e3o Paulo, segundo dados da Secretaria estadual da Sa\u00fade. A pasta registra outros 485 \u00f3bitos em investiga\u00e7\u2026 [+1717 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.833995",
-      "internal_id": "c06f158d1bd95cc31be047934a0d7249a68a4a474a320378fb6e73265eb8d7e5",
-      "publishedAtLabel": "Apr 7"
-    },
-    {
-      "id": 7922,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Se extiende el dengue por Centro y Sudam\u00e9rica",
-      "description": "R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su \u201cpeor temporada de dengue\u201d, una \u201cenfermedad febril que afecta a lactantes, ni\u00f1os y adultos\u201d describe el organismo.",
-      "url": "https://www.jornada.com.mx/2024/04/07/mundo/022n1mun",
-      "urlToImage": "https://www.jornada.com.mx/2024/04/07/fotos/022n1mun-1.jpg",
-      "publishedAt": "2024-04-07 12:01:17",
-      "content": "Peri\u00f3dico La JornadaDomingo 7 de abril de 2024, p. 22 R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su peor temporada de dengue, una enfermedad febril que afecta a lactantes,\u2026 [+2321 chars]",
-      "retrievedAt": "2024-04-08 19:05:32.866530",
-      "internal_id": "1ef59dff7bdcee691defb5d888bbdeb9c3e0abea41a52c5bae2169c80bdad59e",
       "publishedAtLabel": "Apr 7"
     }
   ]
