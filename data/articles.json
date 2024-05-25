@@ -1,8 +1,152 @@
 {
-  "last_updated": "2024-05-24 19:05",
-  "count_articles_total": 1537,
-  "count_articles_new": 25,
+  "last_updated": "2024-05-25 07:05",
+  "count_articles_total": 1551,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 9476,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Pauline Ongaji",
+      "title": "Measles vaccine less effective in children born by C-section",
+      "description": "A single dose of the measles jab is up to 2.6 times more likely to be completely ineffective in children born by C-section, compared to those born naturally",
+      "url": "https://nation.africa/kenya/health/measles-vaccine-less-effective-in-children-born-by-c-section-4629274",
+      "urlToImage": "https://nation.africa/resource/image/3468094/landscape_ratio3x2/1200/800/27ee36783371f7ba4517a0d4e9fb54d7/du/measles.jpg",
+      "publishedAt": "2024-05-24 06:34:11",
+      "content": "The measles vaccine does not work well in children delivered by caesarean-section, a new study has revealed. The study conducted by scientists from the University of Cambridge, UK, and Fudan Universi\u2026 [+3400 chars]",
+      "retrievedAt": "2024-05-25 07:05:52.264372",
+      "internal_id": "d50c311f0ae74cad12f066845b9e4502eb3ac64954ce5523277958d3b314ce90",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9478,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Daniel Contescu",
+      "title": "Al doilea caz uman de grip\u0103 aviar\u0103 \u00een Statele Unite",
+      "description": "Un b\u0103rbat din Michigan a contractat gripa aviar\u0103 H5N1, dup\u0103 ce un caz asem\u0103n\u0103tor avusese loc \u00een Texas.",
+      "url": "https://www.mediafax.ro/sanatate/al-doilea-caz-uman-de-gripa-aviara-in-statele-unite-22386494",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/38026/22386494/1/curcani.jpg?width=640",
+      "publishedAt": "2024-05-24 03:18:11",
+      "content": "Un al doilea caz uman de grip aviar H5N1 foarte patogen apare \u00een Statele Unite. Centrele pentru Controlul i Prevenirea Bolilor (CDC) au confirmat infectarea unui muncitor din Michigan. Aceast grip\u2026 [+1420 chars]",
+      "retrievedAt": "2024-05-25 07:05:53.195996",
+      "internal_id": "e0e41c93c0c24c2efbe8eb0a5fa1b7e55c5a070f07a3451526960fa5136b67ce",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9480,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "\u4e2d\u592e\u5ee3\u64ad\u96fb\u53f0",
+      "title": "\u6fb3\u6d32\u5831\u544a\u9996\u8d77\u4eba\u985e\u611f\u67d3\u79bd\u6d41\u611f\u75c5\u4f8b\uff0c\u96de\u86cb\u8fb2\u5834\u4e5f\u7206\u79bd\u6d41\u611f",
+      "description": "\u6fb3\u6d32 22 \u65e5\u5831\u544a\u7b2c\u4e00\u8d77\u4eba\u985e\u611f\u67d3\u79bd\u6d41\u611f\u7684\u6848\u4f8b\uff0c\u767c\u751f\u5728\u4e00\u540d\u5152\u7ae5\u8eab\u4e0a\u3002\u6709\u95dc\u7576\u5c40\u8868\u793a\uff0c\u9019\u540d\u5b69\u7ae5\u662f\u5728\u5370\u5ea6\u611f\u67d3\u75c5\u6bd2\uff0c\u4f46\u662f\u5df2\u7d93\u5b8c\u5168\u5eb7\u5fa9\u3002\u5728\u6b64\u540c\u6642\uff0c\u6fb3\u6d32\u4e00\u8655\u96de\u86cb\u8fb2\u5834\u767c\u73fe\u4e86\u53e6\u4e00\u7a2e\u9ad8\u50b3\u67d3\u6027\u7684\u4e0d\u540c\u75c5\u6bd2\u682a\u3002 \u6700\u8fd1\u5e7e\u5e74\uff0cH5N1\u79bd\u6d41\u611f\u75c5\u6bd2\u682a\u5168\u7403\u7206\u767c\uff0c\u5c0e\u81f4\u6578\u5341\u5104\u96bb\u5bb6\u79bd\u548c\u91ce\u751f\u79bd\u9ce5\u6b7b\u4ea1\uff0c\u75c5\u6bd2\u4e26\u4e14\u50b3\u64ad\u5230\u6578\u5341\u7a2e\u54fa\u4e73\u52d5\u7269\u8eab\u4e0a\u3002 \u6fb3\u6d32\u6771...",
+      "url": "https://technews.tw/2024/05/24/australia-reports-first-human-case-of-bird-flu/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2019/11/29165438/animal-1867521_1280.jpg",
+      "publishedAt": "2024-05-23 23:50:39",
+      "content": "\u00a9 2013-2024 TechNews Inc. All rights reserved. | | | |",
+      "retrievedAt": "2024-05-25 07:05:53.235392",
+      "internal_id": "d10d5260822ec780983ca9ac82795c38ba7beecd5a0e606835433da67782eca4",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9483,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Odatv.com",
+      "author": "Odatv",
+      "title": "Milyonlar\u0131 \u00f6ld\u00fcren hastal\u0131\u011f\u0131n nas\u0131l yay\u0131ld\u0131\u011f\u0131 bulundu",
+      "description": "Orta \u00c7a\u011f Avrupa's\u0131nda 25 milyon ki\u015finin \u00f6l\u00fcm\u00fcne yol a\u00e7t\u0131\u011f\u0131 tahmin edilen veba salg\u0131n\u0131n\u0131n, d\u00fc\u015f\u00fcn\u00fclenden farkl\u0131 bir \u015fekilde yay\u0131ld\u0131\u011f\u0131 ortaya \u00e7\u0131kt\u0131.",
+      "url": "https://www.odatv.com/guncel/milyonlari-olduren-hastaligin-nasil-yayildigi-bulundu-120045150",
+      "urlToImage": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2024/05/24/milyonlari-olduren-hastaligin-nasil-yayildigi-bulundu-db5q.jpg",
+      "publishedAt": "2024-05-23 23:32:52",
+      "content": "Orta \u00c7a Avrupa'snda 25 milyon kiinin \u00f6l\u00fcm\u00fcne yol a\u00e7t tahmin edilen veba salgnnn, d\u00fc\u00fcn\u00fclenden farkl bir ekilde yayld ortaya \u00e7kt. Kara \u00d6l\u00fcm diye bilinen vebaya yol a\u00e7an Yersinia pestis adl bakteri, ke\u2026 [+1574 chars]",
+      "retrievedAt": "2024-05-25 07:05:56.103867",
+      "internal_id": "ac3db95c9fded38f85069ed7255b3a2d4c415e6517a749690896d81cf30c486c",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9482,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Harvard School of Engineering and Applied Sciences",
+      "author": "Jay Lau",
+      "title": "Once a malaria patient, student now has sights set on stopping the deadly disease",
+      "description": "Cyrianne Keutcha, PhD \u201925, has been around malaria all her life, from growing up in a malaria-endemic country, to being infected herself, and now to studying the parasite in the lab.",
+      "url": "https://www.hsph.harvard.edu/news/features/once-a-malaria-patient-student-now-has-sights-set-on-stopping-the-deadly-disease/",
+      "urlToImage": "https://www.hsph.harvard.edu/news/wp-content/uploads/sites/21/2024/05/Cyrianne_Keutcha_1200x800.jpg",
+      "publishedAt": "2024-05-23 20:49:03",
+      "content": "May 23, 2024 Cyrianne Keutcha, PhD 25, has been around malaria all her life, from growing up in a malaria-endemic country, to being infected herself, and now to studying the parasite in the lab. She \u2026 [+8168 chars]",
+      "retrievedAt": "2024-05-25 07:05:54.459666",
+      "internal_id": "4a74a4eec35ad92b8fce71204a1bba2204345069fd9814eef496633a28fba8cc",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9481,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas confirma mais 7 mortes por dengue, e atinge 30 \u00f3bitos pela doen\u00e7a em 2024",
+      "description": "\u00d3bitos de seis homens idosos e uma jovem de 24 anos ocorreram entre 2 de abril e 4 de maio. Secretaria de Sa\u00fade refor\u00e7a necessidade de combate aos criadouros. Cidade vive pior epidemia da hist\u00f3ria. Campinas (SP) registra 95,6 mil casos confirmados de dengue e\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/23/campinas-confirma-mais-7-mortes-por-dengue-e-atinge-30-obitos-pela-doenca-em-2024.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/Aa2OxfZvoUF1K96KIe9Xd-qwLms=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/8/O/B9DguGTESByAB7OuBAKA/dengue4.jpg",
+      "publishedAt": "2024-05-23 20:31:39",
+      "content": "De acordo com a pasta, os \u00f3bitos ocorreram entre 2 de abril e 4 de maio. As v\u00edtimas s\u00e3o sete homens idosos e uma jovem de 24 anos - veja detalhes abaixo. \"A Sa\u00fade lamenta as mortes e se solidariza c\u2026 [+10605 chars]",
+      "retrievedAt": "2024-05-25 07:05:53.614654",
+      "internal_id": "0190952e1a822537bfa6822d45c3324cdd288883677be6aacaaa7d7f251eee10",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9479,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Ruling Class \u201cAdvances\u201d Its \u201cPlan\u201d To Produce 4.8 Million Bird Flu \u201cVaccines\u201d",
+      "description": "The Health and Human Services arm of the ruling class is now \"advancing\" its preplanned scamdemic \"vaccines\" for the bird flu. In order to \"prepare\" for the next plandemic, the ruling class is going to be creating 4.8 million H5N1 avian influenza shots along \u2026",
+      "url": "https://www.shtfplan.com/headline-news/ruling-class-advances-its-plan-to-produce-4-8-million-bird-flu-vaccines",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu-1.jpg",
+      "publishedAt": "2024-05-23 20:00:34",
+      "content": "The Health and Human Services arm of the ruling class is now \u201cadvancing\u201d its preplanned scamdemic \u201cvaccines\u201d for the bird flu. In order to \u201cprepare\u201d for the next plandemic, the ruling class is going \u2026 [+2215 chars]",
+      "retrievedAt": "2024-05-25 07:05:53.200792",
+      "internal_id": "4896521a17cc7d88da0432444ef85f2475c8b3a66bdbffc172ac880119bc241c",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 9477,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "kottke.org",
+      "author": "Jason Kottke",
+      "title": "Two diary workers have caught the H5N1 virus from cows, \u201cthe first...",
+      "description": "Two diary workers have caught the H5N1 virus from cows, \u201cthe first known instance globally of a person catching this version",
+      "url": "https://kottke.org/24/05/0044679-two-diary-workers-have-ca",
+      "urlToImage": "",
+      "publishedAt": "2024-05-23 19:50:12",
+      "content": "\u00d7Hello! In order to leave a comment, you need to be a current kottke.org member. If you'd like to sign up for a membership to support the site and join the conversation, you can explore your options \u2026 [+394 chars]",
+      "retrievedAt": "2024-05-25 07:05:53.136962",
+      "internal_id": "1f4ec57a6a2e877dd4b63155a150eb570323d0da5d72b6b8a1907dcb06f2f315",
+      "publishedAtLabel": "May 23"
+    },
     {
       "id": 9474,
       "query": [
@@ -27744,6 +27888,114 @@
       "content": "Y mi libertad para ponerme pantalones cortos donde queda?",
       "retrievedAt": "2024-04-09 07:06:08.712972",
       "internal_id": "564eaa099fad3e9e030239277c6cdafbee9450adad7d93e58af268a0594fefaa",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7942,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Fuerte suba: el pa\u00eds supera los 200.000 casos de dengue en lo que va del a\u00f1o y ya es un 54% m\u00e1s que en todo 2023",
+      "description": "Se trata de una epidemia hist\u00f3rica; se reportaron 52.000 contagios en solo una semana y siguen las muertes",
+      "url": "https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/crecen-los-casos-de-dengue-en-el-pais-en-la-mayor-QYAJYSTDSZF5PD4WXL3D5ZILTI.jpeg?auth=5f1c2364d22e8b2da51c77c2e8b8c3729cb36f994b437dfbc620951760756998&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-07 18:47:52",
+      "content": "La mayorepidemia de dengue que enfrent\u00f3 hasta el momento el pa\u00eds super\u00f3 en las primeras 13 semanas de este a\u00f1o todos los casos acumulados en 2023. Si bien la comparaci\u00f3n es relativa, ya que parte de \u2026 [+2070 chars]",
+      "retrievedAt": "2024-04-09 07:06:08.813194",
+      "internal_id": "5ae38315a34a819009e3d3695aa2233437700668fedf9dfbf695abc344fbe9d9",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7923,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Jairo Bouer - Parceria",
+      "title": "D\u00e1 para ter dengue e Covid ao mesmo tempo?",
+      "description": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/07/421659606-istockfebre.jpg",
+      "publishedAt": "2024-04-07 17:00:11",
+      "content": "Doutor, dengue pode confundir com Covid? E d\u00e1 para pegar as duas ao mesmo tempo? Os sintomas da dengue podem variar muito. Algumas pessoas t\u00eam sintomas muito intensos, outras t\u00eam sintomas mais ameno\u2026 [+744 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.883513",
+      "internal_id": "b4dc4a1fa650323a01ee2adb93db0abdfe0c5773905c5f3ed124518b1d86a87c",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Gabriela Origlia",
+      "title": "Ni el mosquito ni el clima: el otro factor de riesgo para la propagaci\u00f3n del dengue que cada vez m\u00e1s se\u00f1alan los expertos",
+      "description": "Si bien lo definen como \u201cuna enfermedad democr\u00e1tica\u201d, aparece un v\u00ednculo entre la infecci\u00f3n y la pobreza; causas y recomendaciones",
+      "url": "https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-viviendas-deficitarias-y-el-mal-tratamiento-W53O4OXG4VGM3P3AW2AWYOUXZU.JPG?auth=a694e5614bba61de5f61241698439dc471693c36b6ba15080dd617922fb81b97&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-07 15:40:41",
+      "content": "C\u00d3RDOBA. La Argentina atraviesa la peor epidemia de dengue desde 2009, con m\u00e1s de 180.000 casos diagnosticados (se estima que son a\u00fan m\u00e1s los no contabilizados) y 129 muertos, ysi bien se trata de un\u2026 [+6615 chars]",
+      "retrievedAt": "2024-04-09 07:06:08.797282",
+      "internal_id": "895f61ac4f89945e048be9bf10fe73c20337a21fad96b9b43ccd3539d23a334f",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7921,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Guatemala y Panam\u00e1, los m\u00e1s afectados por ola de dengue en Centroam\u00e9rica",
+      "description": "En Nicaragua, El Salvador y Costa Rica no hay muertos por la enfermedad en 2024. En Honduras, hay cuatro muertos y 8.000 casos.",
+      "url": "https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201807/_W933_80/659534.jpg",
+      "publishedAt": "2024-04-07 14:35:00",
+      "content": "Al menos 20 personas han muerto y m\u00e1s de 30.000 han sido contagiadas por una ola de dengue en Centroam\u00e9rica, donde Guatemala y Panam\u00e1 tienen este a\u00f1o el mayor balance de fallecidos. La Organizaci\u2026 [+2002 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.847014",
+      "internal_id": "f64089a353c82f065f153c6ffcc5e560f2302bf0f4a4afd5eccc6c82e9582f03",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7920,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luiz Vassallo",
+      "title": "Mortes por dengue no estado de S\u00e3o Paulo chegam a 221",
+      "description": "Em todo o estado h\u00e1 485 mortes em investiga\u00e7\u00e3o; foram 456.427 casos confirmados ao longo do ano",
+      "url": "https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-04-07 12:45:16",
+      "content": "S\u00e3o Paulo \u2013 O n\u00famero de mortes em raz\u00e3o de casos de dengue em 2023 chegou a 221 no estado de S\u00e3o Paulo, segundo dados da Secretaria estadual da Sa\u00fade. A pasta registra outros 485 \u00f3bitos em investiga\u00e7\u2026 [+1717 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.833995",
+      "internal_id": "c06f158d1bd95cc31be047934a0d7249a68a4a474a320378fb6e73265eb8d7e5",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 7922,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Se extiende el dengue por Centro y Sudam\u00e9rica",
+      "description": "R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su \u201cpeor temporada de dengue\u201d, una \u201cenfermedad febril que afecta a lactantes, ni\u00f1os y adultos\u201d describe el organismo.",
+      "url": "https://www.jornada.com.mx/2024/04/07/mundo/022n1mun",
+      "urlToImage": "https://www.jornada.com.mx/2024/04/07/fotos/022n1mun-1.jpg",
+      "publishedAt": "2024-04-07 12:01:17",
+      "content": "Peri\u00f3dico La JornadaDomingo 7 de abril de 2024, p. 22 R\u00edo de Janeiro. La OPS advirti\u00f3 que Latinoam\u00e9rica y el Caribe vivir\u00e1n su peor temporada de dengue, una enfermedad febril que afecta a lactantes,\u2026 [+2321 chars]",
+      "retrievedAt": "2024-04-08 19:05:32.866530",
+      "internal_id": "1ef59dff7bdcee691defb5d888bbdeb9c3e0abea41a52c5bae2169c80bdad59e",
       "publishedAtLabel": "Apr 7"
     }
   ]
