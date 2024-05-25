@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-05-25 07:05
-- **Most recent article:** 2024-05-24 06:34:11
+- **New articles in last harvest:** 11
+- **Last harvest:** 2024-05-25 19:06
+- **Most recent article:** 2024-05-24 18:13:38
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-15 | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 137 | 113 | 117 | 77 | 57 | 87 | 45 | 633 |
-| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 13 | 202 |
+| dengue | 131 | 113 | 117 | 77 | 57 | 87 | 50 | 632 |
+| malaria | 16 | 29 | 77 | 25 | 29 | 13 | 14 | 203 |
+| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 68 | 188 |
 | measles | 43 | 40 | 28 | 24 | 10 | 29 | 12 | 186 |
-| h5n1 | 0 | 0 | 0 | 0 | 57 | 63 | 64 | 184 |
 | meningitis | 14 | 44 | 5 | 3 | 5 | 9 | 4 | 84 |
 | mpox | 3 | 13 | 8 | 36 | 3 | 10 | 9 | 82 |
 | rabies | 8 | 3 | 3 | 4 | 22 | 10 | 6 | 56 |
@@ -24,7 +24,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | pertussis | 9 | 7 | 5 | 2 | 5 | 5 | 6 | 39 |
 | sarampión | 13 | 0 | 10 | 8 | 1 | 0 | 0 | 32 |
 | leptospirosis | 3 | 3 | 3 | 2 | 1 | 3 | 0 | 15 |
-| yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 5 | 13 |
+| yersinia | 0 | 2 | 0 | 5 | 1 | 0 | 6 | 14 |
 | hpai | 0 | 0 | 0 | 0 | 4 | 3 | 6 | 13 |
 | typhoid | 0 | 2 | 0 | 0 | 3 | 2 | 0 | 7 |
 
@@ -42,6 +42,8 @@ Source: [News API](https://newsapi.org/)
 - [Information for Human Cell, Tissue, and Cellular and Tissue-Based Product (HCT/P) Establishments Regarding FDA’s Determination that Zika Virus is no Longer a Relevant Communicable Disease Agent or Disease](https://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products/information-human-cell-tissue-and-cellular-and-tissue-based-product-hctp-establishments-regarding) (FDA.gov)
 
 ## 24-21 (yersinia)
+
+- [Descubren que los piojos del cuerpo humano son potentes transmisores de la peste](https://www.forbes.com.mx/descubren-que-los-piojos-del-cuerpo-humano-son-potentes-transmisores-de-la-peste/) (Forbes.com.mx)
 
 - [Milyonları öldüren hastalığın nasıl yayıldığı bulundu](https://www.odatv.com/guncel/milyonlari-olduren-hastaligin-nasil-yayildigi-bulundu-120045150) (Odatv.com)
 
@@ -139,6 +141,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (malaria)
 
+- [Logran que trasmitir la malaria por transfusiones en Europa sea cosa del pasado](https://www.infosalus.com/salud-investigacion/noticia-logran-trasmitir-malaria-transfusiones-europa-sea-cosa-pasado-20240524171833.html) (Infosalus.com)
+
 - [Once a malaria patient, student now has sights set on stopping the deadly disease](https://www.hsph.harvard.edu/news/features/once-a-malaria-patient-student-now-has-sights-set-on-stopping-the-deadly-disease/) (Harvard School of Engineering and Applied Sciences)
 
 - [Kite & Key Media: Recent Medical Breakthroughs On Malaria, RSV, And Cancer](https://www.realclearpolitics.com/video/2024/05/23/kite__key_media_recent_medical_breakthroughs_on_malaria_rsv_and_cancer.html) (RealClearPolitics)
@@ -180,6 +184,14 @@ Source: [News API](https://newsapi.org/)
 - [US Rulers Say There’s “No Evidence” Of Bird Flu Spreading to Humans](https://www.shtfplan.com/headline-news/us-rulers-say-theres-no-evidence-of-bird-flu-spreading-to-humans) (Shtfplan.com)
 
 ## 24-21 (h5n1)
+
+- [Aviaria, dopo il secondo caso umano i Cdc Usa si preparano a possibile “aumento del rischio”](https://www.ilfattoquotidiano.it/2024/05/24/aviaria-dopo-il-secondo-caso-umano-i-cdc-usa-si-preparano-a-possibile-aumento-del-rischio/7561526/) (Ilfattoquotidiano.it)
+
+- [High H5N1 influenza levels found in mice given raw milk from infected dairy cows](https://www.sciencedaily.com/releases/2024/05/240524121634.htm) (Science Daily)
+
+- [Bird Flu (H5N1) Explained: Study Suggests Drinking Infected Milk Could Spread Disease](https://www.forbes.com/sites/ariannajohnson/2024/05/24/bird-flu-h5n1-explained-study-suggests-drinking-infected-milk-could-spread-disease/) (Forbes)
+
+- [The WHO’s Pandemic Treaty And A Bird Flu Crisis Are Both Arriving At The Same Time](https://www.shtfplan.com/conspiracy-fact-and-theory/the-whos-pandemic-treaty-and-a-bird-flu-crisis-are-both-arriving-at-the-same-time) (Shtfplan.com)
 
 - [Al doilea caz uman de gripă aviară în Statele Unite](https://www.mediafax.ro/sanatate/al-doilea-caz-uman-de-gripa-aviara-in-statele-unite-22386494) (Mediafax.ro)
 
@@ -310,6 +322,16 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, in Usa gli allevatori contro i controlli nelle fattorie. I funzionari dei Cdc ricorrono ai veterinari locali](https://www.ilfattoquotidiano.it/2024/05/19/aviaria-in-usa-gli-allevatori-contro-i-controlli-nelle-fattorie-i-funzionari-dei-cdc-ricorrono-ai-veterinari-locali/7551261/) (Ilfattoquotidiano.it)
 
 ## 24-21 (dengue)
+
+- [Donna rientra dall'estero e si sente male, ipotesi Dengue](https://www.ansa.it/veneto/notizie/2024/05/24/donna-rientra-dallestero-e-si-sente-male-ipotesi-dengue_f91a0aaf-cf4a-4249-875b-8a13614dc418.html) (ANSA.it)
+
+- [Brasil chega a 3 mil mortes causadas pela dengue em 2024](https://www.metropoles.com/saude/brasil-3-mil-mortes-pela-dengue) (Metropoles.com)
+
+- [Brasil chega a 3.000 mortes por dengue em 2024](https://valor.globo.com/brasil/noticia/2024/05/24/brasil-chega-a-3000-mortes-por-dengue-em-2024.ghtml) (Globo)
+
+- [Dengue: Brasil chega a 3 mil mortes em 2024](https://saude.ig.com.br/2024-05-24/brasil-3-mil-mortes-dengue-2024.html) (Ig.com.br)
+
+- [Un caso di Dengue in piazza Morlacchi a Perugia](https://www.ansa.it/umbria/notizie/2024/05/24/un-caso-di-dengue-in-piazza-morlacchi-a-perugia_a9c3540c-95ae-4f8e-8372-ac7b9a7d6116.html) (ANSA.it)
 
 - [Campinas confirma mais 7 mortes por dengue, e atinge 30 óbitos pela doença em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/23/campinas-confirma-mais-7-mortes-por-dengue-e-atinge-30-obitos-pela-doenca-em-2024.ghtml) (Globo)
 
@@ -3432,18 +3454,6 @@ Source: [News API](https://newsapi.org/)
 - [Milei deja la atención sanitaria al libre mercado en la peor epidemia de dengue](https://www.meneame.net/m/actualidad/milei-deja-atencion-sanitaria-libre-mercado-peor-epidemia-dengue) (Meneame.net)
 
 - [Milei decide no vacunar contra la epidemia de dengue y su ministro de Salud pide que no lleven pantalones cortos](https://www.meneame.net/m/politica/milei-decide-no-vacunar-contra-epidemia-dengue-ministro-salud-no) (Meneame.net)
-
-- [Fuerte suba: el país supera los 200.000 casos de dengue en lo que va del año y ya es un 54% más que en todo 2023](https://www.lanacion.com.ar/sociedad/fuerte-suba-el-pais-supera-los-200000-casos-de-dengue-en-lo-que-va-del-ano-y-ya-es-un-54-mas-que-en-nid07042024/) (La Nacion)
-
-- [Dá para ter dengue e Covid ao mesmo tempo?](https://www.terra.com.br/vida-e-estilo/da-para-ter-dengue-e-covid-ao-mesmo-tempo,cc3cd148d1d4a5ac89324e22de5dd3383owexmx7.html) (Terra.com.br)
-
-- [Ni el mosquito ni el clima: el otro factor de riesgo para la propagación del dengue que cada vez más señalan los expertos](https://www.lanacion.com.ar/sociedad/ni-el-mosquito-ni-el-clima-el-otro-factor-de-riesgo-para-la-propagacion-del-dengue-que-cada-vez-mas-nid07042024/) (La Nacion)
-
-- [Guatemala y Panamá, los más afectados por ola de dengue en Centroamérica](https://www.montevideo.com.uy/Salud/Guatemala-y-Panama-los-mas-afectados-por-ola-de-dengue-en-Centroamerica-uc884783) (Montevideo.com.uy)
-
-- [Mortes por dengue no estado de São Paulo chegam a 221](https://www.metropoles.com/sao-paulo/mortes-por-dengue-no-estado-de-sao-paulo-chegam-a-221) (Metropoles.com)
-
-- [Se extiende el dengue por Centro y Sudamérica](https://www.jornada.com.mx/2024/04/07/mundo/022n1mun) (Jornada.com.mx)
 
 ## 24-15 (chikungunya)
 
