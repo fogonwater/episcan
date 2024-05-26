@@ -1,8 +1,62 @@
 {
-  "last_updated": "2024-05-26 07:06",
-  "count_articles_total": 1322,
-  "count_articles_new": 16,
+  "last_updated": "2024-05-26 19:05",
+  "count_articles_total": 1319,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 9511,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Ahram-canada.com",
+      "author": "\u0623\u0645\u0644 \u0641\u0631\u062c",
+      "title": "\u0646\u062a\u0627\u0626\u062c \u0641\u062d\u0635 \u0645\u0634\u062a\u0642\u0627\u062a \u0627\u0644\u062d\u0644\u064a\u0628 \u062a\u062d\u0633\u0628\u0627 \u0644\u062a\u0641\u0634\u064a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0641\u064a \u0643\u0646\u062f\u0627",
+      "description": "\u0642\u0631\u0631 \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u0648\u0646 \u0641\u064a \u0643\u0646\u062f\u0627 \u0628\u0627\u062e\u062a\u0628\u0627\u0631 \u0639\u064a\u0646\u0627\u062a \u0645\u0646 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u0630\u064a \u064a\u062a\u0645 \u0628\u064a\u0639\u0647 \u0648 \u062a\u062f\u0627\u0648\u0644\u0647 \u064a\u0628\u0627\u0639 \u0641\u064a \u0645\u062d\u0627\u0644 \u0627\u0644\u0628\u0642\u0627\u0644\u0629\u060c \u0648\u0630\u0644\u0643 \u0643\u0625\u062c\u0631\u0627\u0621 \u0648\u0642\u0627\u0626\u064a\u061b \u062e\u0648\u0641\u0627 \u0645\u0646 \u062a\u0641\u0634\u064a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0648\u062a\u0623\u062b\u064a\u0631\u0647\u0627 \u0639\u0644\u0649 \u0645\u0646\u062a\u062c\u0627\u062a \u0627\u0644\u062d\u0644\u064a\u0628. \u0643\u0645\u0627 \u062a\u0645 \u0627\u0644\u0625\u0639\u0644\u0627\u0646 \u0639\u0646 \u0646\u062a\u0627\u0626\u062c \u0647\u0630\u0647 \u0627\u0644\u0627\u062e\u062a\u0628\u0627\u0631\u0627\u062a \u064a\u0648\u0645 \u0627\u0644\u062e\u0645\u064a\u0633 \u0627\u0644\u0645\u0627\u0636\u064a\u061b \u062d\u064a\u062b \u0642\u0627\u0644\u062a \u0648\u0643\u0627\u0644\u0629 \u0641\u062d\u0635 \u0627\u0644\u0623\u063a\u0630\u064a\u0629 \u0627\u0644\u0643\u0646\u062f\u064a\u0629\u2026",
+      "url": "https://www.ahram-canada.com/228967/",
+      "urlToImage": "https://www.ahram-canada.com/wp-content/uploads/2023/04/\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627-\u0627\u0644\u0637\u064a\u0648\u0631-\u0645\u0648\u0627\u0642\u0639-660x330.jpg",
+      "publishedAt": "2024-05-25 16:40:05",
+      "content": "12 , , . 303 16 HPAI . . CFIA : \u201d \u201d CFIA. CFIA . 16 : : 77 : 75 : 76 : 75 \"\" \u2026",
+      "retrievedAt": "2024-05-26 19:05:31.444284",
+      "internal_id": "f581b5a62d9544471d8dac69a2ee92c12b3df1c68986b0396e3baaaed3ecadad",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 9513,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Whoownsafrica.com",
+      "author": "Ericson Mangoli",
+      "title": "How Djibouti is combating Malaria with GMO mosquitoes",
+      "description": "The initiative aims to address the dramatic increase in malaria cases in Djibouti, which have risen from just 27 in 2012 to over 70,000 in recent years.",
+      "url": "https://www.whoownsafrica.com/health/how-djibouti-is-combating-malaria-with-gmo-mosquitoes/",
+      "urlToImage": "https://www.whoownsafrica.com/wp-content/uploads/2024/05/How-Djibouti-is-combating-Malaria-with-GMO-mosquitoes-www.whoownsafrica.jpg",
+      "publishedAt": "2024-05-25 14:56:22",
+      "content": "Djibouti, a tiny East African country, has recently taken aggressive action to combat a surge in malaria infections with the use of genetically modified mosquitoes. The initiative, which began on Th\u2026 [+4357 chars]",
+      "retrievedAt": "2024-05-26 19:05:32.973681",
+      "internal_id": "0e7d91ba7c33326460135cc69c895b2b199bf85fd43b64e77d5d970f3560452e",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 9512,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Djibouti: Brukar genmodifisert mygg mot malaria",
+      "description": "I Djibouti har forskarar i selskapet Oxitec sleppt laus genmodifisert mygg for \u00e5 kjempa mot malariamygg. Det skriv CNN. Helseministeren i Djibouti seier landet pr\u00f8ver ny teknologi i eit fors\u00f8k p\u00e5 \u00e5 redusere smitten av malaria, som rammar landet hardt. Fors\u00f8ke\u2026",
+      "url": "https://www.nrk.no/nyheter/djibouti_-brukar-genmodifisert-mygg-mot-malaria-1.16897019",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.502/common/img/default.jpg",
+      "publishedAt": "2024-05-25 08:46:38",
+      "content": "25. mai2024kl.10:46I Djibouti har forskarar i selskapet Oxitec sleppt laus genmodifisert mygg for \u00e5 kjempa mot malariamygg. Det skriv CNN. Helseministeren i Djibouti seier landet pr\u00f8ver ny teknologi\u2026 [+529 chars]",
+      "retrievedAt": "2024-05-26 19:05:32.947966",
+      "internal_id": "48bba0ecddcd74ed91bcbec33e096fe11f574e09a780269219de020fe87b74d0",
+      "publishedAtLabel": "May 25"
+    },
     {
       "id": 9503,
       "query": [
@@ -23757,114 +23811,6 @@
       "content": "La Seremi de la Regi\u00f3n de Valpara\u00edso confirm\u00f3 el hallazgo de un mosquito Aedes aegypti en el Terminal de Buses Ahumada de la comuna de Los Andes, lo que ha generado un llamado urgente a la acci\u00f3n por\u2026 [+1901 chars]",
       "retrievedAt": "2024-04-16 07:06:13.321002",
       "internal_id": "39339444eefc7b256d165e35edab548f00068c54f87fd57297a52c5ba632d047",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8189,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Deadline",
-      "author": "Bruce Haring",
-      "title": "L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier",
-      "description": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los Angeles County Department of Public Health said it had received\u2026",
-      "url": "http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2023/09/Universal-Studios-theme-park-Hollywood.jpg?w=1024",
-      "publishedAt": "2024-04-14 18:32:51",
-      "content": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los An\u2026 [+1049 chars]",
-      "retrievedAt": "2024-04-15 19:05:56.686603",
-      "internal_id": "6754d64ecced4850f3f21b330198b32459cdf8cc6ba021f346496bd25e8bfb83",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8191,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Idnes.cz",
-      "author": "Martina Riemlov\u00e1",
-      "title": "Argentina bojuje s vlnou hore\u010dky dengue, repelenty v zemi nejsou k sehn\u00e1n\u00ed",
-      "description": "V Argentin\u011b se \u0161\u00ed\u0159\u00ed epidemie hore\u010dky dengue, a tak v tamn\u00edch obchodech a l\u00e9k\u00e1rn\u00e1ch chyb\u00ed dostate\u010dn\u00e9 mno\u017estv\u00ed p\u0159\u00edpravk\u016f proti hmyzu. Tamn\u00ed \u00fa\u0159ady u\u017e zru\u0161ily omezen\u00ed souvisej\u00edc\u00ed s dovozem repelent\u016f, aby v zemi nav\u00fd\u0161ily nab\u00eddku. N\u011bkte\u0159\u00ed obyvatel\u00e9 si prozat\u00edm za\u010da\u2026",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie",
-      "urlToImage": "https://1gr.cz/tempimg/fb/2024/4/RIE80166f40ba_profimedia_0863037161.jpg",
-      "publishedAt": "2024-04-14 17:00:00",
-      "content": "Navt\u00edvili jsme nejm\u00e9n ticet l\u00e9k\u00e1ren po cel\u00e9m mst, nic u nezbylo, \u00edk\u00e1 pro agenturu AP dvaatyicetilet\u00e1 Ana Infante z hlavn\u00edho msta Buenos Aires. Chtla nakoupit repelenty pot\u00e9, co jej\u00ed spolupracovnice m\u2026 [+2955 chars]",
-      "retrievedAt": "2024-04-15 19:05:57.449323",
-      "internal_id": "276f46d6c6aaa7f9c7f18b77d7e212406c4dacd6f9717f373c6928c6996128db",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8193,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "El mapa del dengue: informan por primera vez en el a\u00f1o una tendencia en baja, con excepci\u00f3n de dos provincias",
-      "description": "Surge del ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias y en un an\u00e1lisis que las autoridades sanitarias",
-      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-es-transmitido-por-la-S3JPAWMYHRDENE6Q76GQSY2MO4.jpg?auth=ea273d9864dfb28806178bede17b6b98a393721aefc196f023cbc6d6eca84657&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-14 16:08:20",
-      "content": "El avance de la epidemia de dengue en las 19 provincias con circulaci\u00f3n viral estar\u00eda tendiendo a desacelerarse, de acuerdo con el ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias\u2026 [+2630 chars]",
-      "retrievedAt": "2024-04-15 19:05:57.545411",
-      "internal_id": "98a2d21fa90f6d15b4ada2e8bad569b674137707859c0d40e1fa86c82bcadea1",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8192,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Juliana Arreguy",
-      "title": "SP chega a 285 mortes por dengue e 573 mil casos da doen\u00e7a",
-      "description": "Capital concentra mortes por dengue no estado, com 39 \u00f3bitos, seguida de Guarulhos, na Grande SP, com 26, e Jacare\u00ed, no interior, com 20",
-      "url": "https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
-      "publishedAt": "2024-04-14 15:48:07",
-      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo chegou a 285 mortes por dengue neste domingo (14/4), e investiga 605 outros \u00f3bitos em decorr\u00eancia da doen\u00e7a. As informa\u00e7\u00f5es constam no painel de monitoramento da Secre\u2026 [+6245 chars]",
-      "retrievedAt": "2024-04-15 19:05:57.456240",
-      "internal_id": "6c2c17696af3df5a2356e199353c2a2aa8edcd88a1eb20193c3659a959247c76",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8190,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Alessia Dunn",
-      "title": "Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger",
-      "description": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. When guests visit a theme park, it is impossible to think that you will not come into contact with germs. At \u2026",
-      "url": "https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Universal-Hollywood.jpg",
-      "publishedAt": "2024-04-14 14:29:45",
-      "content": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. Credit: Universal Studios When guests visit a t\u2026 [+4444 chars]",
-      "retrievedAt": "2024-04-15 19:05:56.714627",
-      "internal_id": "4b63de4a1f2879f2231802882676a41b3a9a477fc46ba131faf2e2cee5fb374b",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8188,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
-      "title": "Alarming Measles Outbreaks Surge Across Europe And Central Asia",
-      "description": "While focus in the U.S. has been on rising numbers of measles cases domestically, it\u2019s Europe and Central Asia where the situation is at crisis level.",
-      "url": "https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661bbf0650e753f1cc011c18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-04-14 13:13:47",
-      "content": "Little girl with measles. getty After surging at the end of last year, measles outbreaks across Europe and Central Asia intensified in the first quarter of 2024, with incidence rates of up to hundr\u2026 [+6945 chars]",
-      "retrievedAt": "2024-04-15 19:05:56.673594",
-      "internal_id": "bbbf1402efba99042fd00b5c3e3c92fffbbd7087b18b96f84e7fbe35ce307cf7",
       "publishedAtLabel": "Apr 14"
     }
   ]

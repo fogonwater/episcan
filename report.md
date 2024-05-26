@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-05-26 07:06
-- **Most recent article:** 2024-05-25 06:46:01
+- **New articles in last harvest:** 3
+- **Last harvest:** 2024-05-26 19:05
+- **Most recent article:** 2024-05-25 16:40:05
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 111 | 117 | 77 | 57 | 87 | 57 | 506 |
+| dengue | 108 | 117 | 77 | 57 | 87 | 57 | 503 |
 | h5n1 | 0 | 0 | 0 | 57 | 63 | 71 | 191 |
-| malaria | 29 | 77 | 25 | 29 | 13 | 15 | 188 |
-| measles | 39 | 28 | 24 | 10 | 29 | 15 | 145 |
+| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 190 |
+| measles | 36 | 28 | 24 | 10 | 29 | 15 | 142 |
 | mpox | 13 | 8 | 36 | 3 | 10 | 9 | 79 |
 | meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 70 |
 | rabies | 3 | 3 | 4 | 22 | 10 | 8 | 50 |
@@ -23,8 +23,8 @@ By US epiweek (i.e. Sunday to Saturday)
 | zika | 8 | 3 | 8 | 2 | 6 | 3 | 30 |
 | pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 30 |
 | sarampión | 0 | 10 | 8 | 1 | 0 | 0 | 19 |
+| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 14 |
 | yersinia | 2 | 0 | 5 | 1 | 0 | 6 | 14 |
-| hpai | 0 | 0 | 0 | 4 | 3 | 6 | 13 |
 | leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 12 |
 | typhoid | 2 | 0 | 0 | 3 | 2 | 0 | 7 |
 
@@ -151,6 +151,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (malaria)
 
+- [How Djibouti is combating Malaria with GMO mosquitoes](https://www.whoownsafrica.com/health/how-djibouti-is-combating-malaria-with-gmo-mosquitoes/) (Whoownsafrica.com)
+
+- [Djibouti: Brukar genmodifisert mygg mot malaria](https://www.nrk.no/nyheter/djibouti_-brukar-genmodifisert-mygg-mot-malaria-1.16897019) (NRK)
+
 - [New malaria vaccine delivered for the first time](https://www.npr.org/sections/goats-and-soda/2024/05/24/g-s1-931/new-malaria-vaccine-delivered-for-the-first-time) (NPR)
 
 - [Logran que trasmitir la malaria por transfusiones en Europa sea cosa del pasado](https://www.infosalus.com/salud-investigacion/noticia-logran-trasmitir-malaria-transfusiones-europa-sea-cosa-pasado-20240524171833.html) (Infosalus.com)
@@ -182,6 +186,8 @@ Source: [News API](https://newsapi.org/)
 - [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (hpai)
+
+- [نتائج فحص مشتقات الحليب تحسبا لتفشي إنفلونزا الطيور في كندا](https://www.ahram-canada.com/228967/) (Ahram-canada.com)
 
 - [U.S. confirms another human H5 bird flu case tied to dairy cow outbreak](https://www.globalsecurity.org/security/library/news/2024/05/sec-240523-pdo02.htm) (Globalsecurity.org)
 
@@ -2653,12 +2659,6 @@ Source: [News API](https://newsapi.org/)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
-- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
-
-- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
-
-- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
-
 ## 24-16 (malaria)
 
 - [Xewa Sowé Center for Orphans / Corentin Dalon + Arianna Fabrizi De Biani + Doryan Kuschner + Florian Mahieu](https://www.archdaily.com/1015819/xewa-sowe-center-for-orphans-corentin-dalon-plus-arianna-fabrizi-de-biani-plus-doryan-kuschner-plus-florian-mahieu) (ArchDaily)
@@ -2944,12 +2944,6 @@ Source: [News API](https://newsapi.org/)
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
 - [Alerta sanitaria: Confirman hallazgo de mosquito transmisor del dengue en terminal de buses de Los Andes](https://www.cnnchile.com/pais/alerta-sanitaria-hallazgo-mosquito-dengue-terminal-los-andes_20240414/) (Cnnchile.com)
-
-- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
-
-- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
-
-- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 ## 24-16 (chikungunya)
 
