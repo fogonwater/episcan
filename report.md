@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2024-05-27 07:06
-- **Most recent article:** 2024-05-26 07:00:16
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-05-27 19:05
+- **Most recent article:** 2024-05-26 18:16:55
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 111 | 117 | 77 | 57 | 87 | 58 | 0 | 507 |
-| h5n1 | 0 | 0 | 0 | 57 | 63 | 87 | 2 | 209 |
-| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 0 | 190 |
-| measles | 39 | 28 | 24 | 10 | 29 | 15 | 0 | 145 |
-| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 0 | 79 |
+| dengue | 108 | 117 | 77 | 57 | 87 | 58 | 1 | 505 |
+| h5n1 | 0 | 0 | 0 | 57 | 63 | 87 | 5 | 212 |
+| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 1 | 191 |
+| measles | 36 | 28 | 24 | 10 | 29 | 15 | 0 | 142 |
+| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 1 | 80 |
 | meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 0 | 70 |
-| rabies | 3 | 3 | 4 | 22 | 10 | 8 | 0 | 50 |
+| rabies | 3 | 3 | 4 | 22 | 10 | 8 | 1 | 51 |
 | chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 0 | 37 |
 | zika | 8 | 3 | 8 | 2 | 6 | 3 | 0 | 30 |
 | pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 0 | 30 |
@@ -33,6 +33,18 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-22 (rabies)
+
+- [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
+
+## 24-22 (mpox)
+
+- [Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie](https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000) (Www.nrc.nl)
+
+## 24-22 (malaria)
+
+- [República Centroafricana, primer país del mundo que recibe una nueva vacuna anti-malaria](https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433) (Montevideo.com.uy)
+
 ## 24-22 (leptospirosis)
 
 - [Waterborne disease outbreak after Brazil floods kills four](https://www.bbc.com/news/articles/cq559gexxy5o) (BBC News)
@@ -43,9 +55,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (h5n1)
 
+- [شرب الحليب الخام.. هل هو مفيد؟](https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a) (Aljazeera.net)
+
+- [شناسایی دومین فرد مبتلا به آنفولانزای پرندگان در آمریکا؛ آشنایی با ویروس H5N1](https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus) (Digiato.com)
+
+- [Could Bird Flu Lead To Next Pandemic?](https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982) (NDTV News)
+
 - [Мыши заболели птичьим гриппом, выпив сырого молока](https://naked-science.ru/article/medicine/bird-flu-in-milk) (Naked-science.ru)
 
 - [Day 1: ruffled fur and lethargy](https://www.metafilter.com/203879/Day-1-ruffled-fur-and-lethargy) (Metafilter.com)
+
+## 24-22 (dengue)
+
+- [Se quintuplican casos de dengue en un año, alerta Ssa](https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-21 (zika)
 
@@ -2709,12 +2731,6 @@ Source: [News API](https://newsapi.org/)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
-- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
-
-- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
-
-- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
-
 ## 24-16 (malaria)
 
 - [Xewa Sowé Center for Orphans / Corentin Dalon + Arianna Fabrizi De Biani + Doryan Kuschner + Florian Mahieu](https://www.archdaily.com/1015819/xewa-sowe-center-for-orphans-corentin-dalon-plus-arianna-fabrizi-de-biani-plus-doryan-kuschner-plus-florian-mahieu) (ArchDaily)
@@ -3000,12 +3016,6 @@ Source: [News API](https://newsapi.org/)
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
 - [Alerta sanitaria: Confirman hallazgo de mosquito transmisor del dengue en terminal de buses de Los Andes](https://www.cnnchile.com/pais/alerta-sanitaria-hallazgo-mosquito-dengue-terminal-los-andes_20240414/) (Cnnchile.com)
-
-- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
-
-- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
-
-- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 ## 24-16 (chikungunya)
 
