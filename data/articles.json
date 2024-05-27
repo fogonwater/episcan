@@ -1,8 +1,135 @@
 {
-  "last_updated": "2024-05-26 19:05",
-  "count_articles_total": 1319,
-  "count_articles_new": 3,
+  "last_updated": "2024-05-27 07:06",
+  "count_articles_total": 1346,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 9514,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Naked-science.ru",
+      "author": "\u041c\u0438\u0445\u0430\u0438\u043b \u041e\u0440\u043b\u043e\u0432",
+      "title": "\u041c\u044b\u0448\u0438 \u0437\u0430\u0431\u043e\u043b\u0435\u043b\u0438 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c, \u0432\u044b\u043f\u0438\u0432 \u0441\u044b\u0440\u043e\u0433\u043e \u043c\u043e\u043b\u043e\u043a\u0430",
+      "description": "\u0412 \u0421\u0428\u0410 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442\u0441\u044f \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0437\u0430\u0440\u0430\u0436\u0430\u0435\u0442 \u043c\u043e\u043b\u043e\u0447\u043d\u044b\u0445 \u043a\u043e\u0440\u043e\u0432. \u0418\u043d\u0444\u0435\u043a\u0446\u0438\u044f \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u0442 \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u044b\u0435 \u043e\u043f\u0430\u0441\u0435\u043d\u0438\u044f, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0432 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0445 \u0441\u043b\u0443\u0447\u0430\u044f\u0445 \u043f\u0435\u0440\u0435\u0434\u0430\u0435\u0442\u0441\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0443 \u0438 \u043c\u043e\u0436\u0435\u0442 \u0441\u0442\u0430\u0442\u044c \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043d\u043e\u0432\u043e\u0439 \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u043e\u0439 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438. \u0420\u0430\u043d\u0435\u0435 \u0441\u0442\u0430\u043b\u043e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e, \u0447\u0442\u043e\u2026",
+      "url": "https://naked-science.ru/article/medicine/bird-flu-in-milk",
+      "urlToImage": "https://naked-science.ru/wp-content/uploads/2024/01/dri-psychiatristcom.jpg",
+      "publishedAt": "2024-05-26 07:00:16",
+      "content": "H5N1, . , . , , . , , , ., \u00ab \u00bb H5N1 (HPAI A(H5N1), highly pathogenic avian influenza), . , , . : , , SARS-CoV-2. 2024 H5N1 . -, . , , . , , . H5N1 , . FDA ( ) , () . , - , . New England Journal \u2026 [+69 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.198103",
+      "internal_id": "d216918aebf7a60ecc4b488adf8d1c7097bc60e517e1da7f1053661b922628fb",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9534,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Waterborne disease outbreak after Brazil floods kills four",
+      "description": "Authorities in Rio Grande do Sul are investigating more than 800 suspected cases of leptospirosis after unprecedented floods.",
+      "url": "https://www.bbc.com/news/articles/cq559gexxy5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/69c8/live/48226110-1aff-11ef-955e-a52ab8b57484.jpg",
+      "publishedAt": "2024-05-26 03:08:02",
+      "content": "Authorities in the Brazilian state of Rio Grande do Sul have confirmed 54 cases of the waterborne leptospirosis disease after the region experienced unprecedented floods in the months of April and Ma\u2026 [+2461 chars]",
+      "retrievedAt": "2024-05-27 07:06:34.116012",
+      "internal_id": "9ea7bb271b9188e843aabdc81c03f85d2b79b4da4fd26c3a96051d3c5be605b8",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9515,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metafilter.com",
+      "author": "zenon",
+      "title": "Day 1: ruffled fur and lethargy",
+      "description": "Researchers found raw cow's milk infected lab mice with Highly Pathogenic Avian Influenza A (H5N1). They demonstrated both mammal to mammal transmission and that the milk remained infectious for weeks when stored at refrigerator temperatures.H5N1 was not hist\u2026",
+      "url": "https://www.metafilter.com/203879/Day-1-ruffled-fur-and-lethargy",
+      "urlToImage": "https://cdn.mefi.us/images/mefi/apple-touch-icon.png",
+      "publishedAt": "2024-05-26 01:20:13",
+      "content": "MetaFilter is a weblog that anyone can contribute a link or a comment to. A typical weblog is one person posting their thoughts on the unique things they find on the web. This website exists to break\u2026 [+120 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.878105",
+      "internal_id": "106bdf2b868ed617686c57eb4076e5f83938481d4e6cb7b99eb91d40ddb87d40",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9533,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Ag\u00eancia Fapesp",
+      "title": "Pesquisadores observam os v\u00edrus mayaro e chikungunya circulando ao mesmo tempo em Roraima",
+      "description": "Segundo os autores do estudo, o esperado seria que a infec\u00e7\u00e3o por um dos pat\u00f3genos protegesse contra o outro, o que tornaria dif\u00edcil a cocircula\u00e7\u00e3o. Grupo alerta para o risco de que a transmiss\u00e3o do mayaro passe a ocorrer em ambientes urbanos em decorr\u00eancia d\u2026",
+      "url": "https://gizmodo.uol.com.br/pesquisadores-observam-os-virus-mayaro-e-chikungunya-circulando-ao-mesmo-tempo-em-roraima/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/05/virus-mayaro.jpg",
+      "publishedAt": "2024-05-25 23:01:45",
+      "content": "Texto: Maria Fernanda Ziegler | Ag\u00eancia FAPESP Estudo publicado este m\u00eas na revista Emerging Infectious Diseases mostra que os v\u00edrus mayaro e chikungunya est\u00e3o circulando ao mesmo tempo (cocircula\u00e7\u00e3\u2026 [+5419 chars]",
+      "retrievedAt": "2024-05-27 07:06:33.375827",
+      "internal_id": "a0c09e34440cb441bbd4e287fdabbcbb7359b063bef7a79d5439b2921f93843e",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 9518,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Leite cru contaminado com gripe avi\u00e1ria infecta ratos em estudo",
+      "description": "Pesquisadores fazem alerta sobre o risco de transmiss\u00e3o do v\u00edrus da gripe avi\u00e1ria com o consumo de leite sem pasteuriza\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/saude/leite-cru-infecta-ratos-com-gripe-aviaria",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/05/25165716/Leite-9.jpg",
+      "publishedAt": "2024-05-25 20:51:11",
+      "content": "Um estudo publicado na sexta-feira (24/5), no New England Journal of Medicine, mostra evid\u00eancias de que o leite cru sem pasteuriza\u00e7\u00e3o contaminado com o v\u00edrus da gripe avi\u00e1ria (H5N1) pode transmitir a\u2026 [+2288 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.935261",
+      "internal_id": "8e618b68fe81d072ce387984673e8eae233a18c9a5fcfab44071e0c27e3c8c46",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 9532,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marcelo Bandeira, Marcelo Bandeira",
+      "title": "Recuperado da dengue, Erasmo Vi\u00e3na d\u00e1 as caras na web: \"9 kg a menos\"",
+      "description": "\"Voltando a treinar depois de nove dias parado por conta da doen\u00e7a\", postou o modelo, sem citar o pol\u00eamico conte\u00fado que foi parar nos assuntos mais falados do X",
+      "url": "https://gente.ig.com.br/colunas/marcelo-bandeira/2024-05-25/recuperado-da-dengue--erasmo-viana-da-as-caras-na-web---9-kg-a-menos-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/2s/cu/3h/2scu3h20nbcslhg9zywqxozwv.jpg",
+      "publishedAt": "2024-05-25 20:33:35",
+      "content": "Ap\u00f3s ter um v\u00eddeo de sexo expl\u00edcito com uma \"mulher n\u00e3o identificada\" vazado na internet, Erasmo Vi\u00e3na est\u00e1 de volta ao mundo virtual. O per\u00edodo off se deu devido aos sintomas da dengue. Por meio d\u2026 [+557 chars]",
+      "retrievedAt": "2024-05-27 07:06:32.325673",
+      "internal_id": "6282ea2fafd837f1fa9a5f4b364a305454c82f6e94df294bb2ecbe7a9c650951",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 9516,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Muhammet Binici",
+      "title": "ABD\u2019de inek etinde ku\u015f gribi izleri tespit edildi",
+      "description": "ABD Tar\u0131m Bakanl\u0131\u011f\u0131, \u2018t\u00fcketime uygun olmayan\u2019 s\u00fct ineklerinde y\u00fcr\u00fctt\u00fc\u011f\u00fc test sonucunda \u2018bir ine\u011fin etindeki dokuda ku\u015f gribi partik\u00fclleri\u2019 bulundu\u011funu duyurdu.",
+      "url": "https://www.haber7.com/dunya/haber/3427306-abdde-inek-etinde-kus-gribi-izleri-tespit-edildi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/21/abdde_inek_etinde_kus_gribi_izleri_tespit_edildi_1716667304_6647.jpg",
+      "publishedAt": "2024-05-25 20:02:00",
+      "content": "ABDde daha \u00f6nce baz ineklerin s\u00fct\u00fcnde ku gribi (H5N1) tespit edilmi ve bu ineklerin \u00e7i s\u00fct\u00fcn\u00fc t\u00fcketen baz kedilerin \u00f6ld\u00fc\u00fc a\u00e7klanmt. ABD Tarm Bakanl (USDA) d\u00fcn yapt a\u00e7klamada t\u00fcketime uygun olmad bel\u2026 [+628 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.914689",
+      "internal_id": "31c623acb793ed2d89672cfc608e68ebe20b8b633614c7c7b505b7643ffd9fc5",
+      "publishedAtLabel": "May 25"
+    },
     {
       "id": 9511,
       "query": [
@@ -58,6 +185,24 @@
       "publishedAtLabel": "May 25"
     },
     {
+      "id": 9517,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Bird flu in U.S. cows caught scientists by surprise. Canadian research has seen it coming since 1953",
+      "description": "Even though 2024 marked the first time the H5N1 bird flu was reported in dairy cows, researchers have known for decades that influenza viruses can target the cells that make up mammary glands.",
+      "url": "https://www.cbc.ca/news/health/bird-flu-in-u-s-cows-caught-scientists-by-surprise-canadian-research-has-seen-it-coming-since-1953-1.7212587",
+      "urlToImage": "https://i.cbc.ca/1.7212642.1716491685!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/h5n1-dairy-cows.jpg",
+      "publishedAt": "2024-05-25 08:00:00",
+      "content": "This story is part of CBC Health's Second Opinion, a weekly analysis of health and medical science news emailed to subscribers on Saturday mornings. If you haven't subscribed yet, you can do that by \u2026 [+10820 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.926913",
+      "internal_id": "03efa2af3e7ff174252e37508b74a5b2643be257247d39e8b34149014573b90e",
+      "publishedAtLabel": "May 25"
+    },
+    {
       "id": 9503,
       "query": [
         "dengue",
@@ -74,6 +219,24 @@
       "content": "M\u00fccken sind l\u00e4stig, die Asiatische Tigerm\u00fccke ist besonders unangenehm - und sie kann gef\u00e4hrlich werden. Der \u00fcber internationale Warenstr\u00f6me nach Europa gelangte Exot kann Dengue-, Chikungunya- und Z\u2026 [+3342 chars]",
       "retrievedAt": "2024-05-26 07:06:24.762471",
       "internal_id": "55f9ae583029d9f7e41e81a71e687615794e7314a01fc07d86bab0e0710ea675",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 9526,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u0930\u0941\u091a\u093f\u0930 \u0936\u0941\u0915\u094d\u0932\u093e",
+      "title": "\u092c\u0926\u0932\u093e\u0935 \u0915\u0947 \u0932\u093f\u090f \u0935\u094b\u091f\u093f\u0902\u0917 \u091c\u0930\u0942\u0930\u0940.. \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0935\u094b\u091f \u0921\u093e\u0932 \u0930\u0939\u0947 \u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0915\u0947 \u092c\u0947\u091f\u0947 \u0930\u0947\u0939\u093e\u0928 \u0914\u0930 \u092e\u093f\u0930\u093e\u092f\u093e \u0928\u0947 \u0915\u094d\u092f\u093e-\u0915\u094d\u092f\u093e \u0915\u0939\u093e \u091c\u093e\u0928\u0947\u0902",
+      "description": "Lok Sabha Chunav 2024: \u0932\u094b\u0915\u0924\u0902\u0924\u094d\u0930 \u092c\u091a\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0935\u094b\u091f \u0915\u0930\u0928\u093e \u091c\u0930\u0942\u0930\u0940 \u0939\u0948, \u092f\u0947 \u092c\u093e\u0924 \u092a\u094d\u0930\u093f\u092f\u0902\u0915\u093e \u0917\u093e\u0902\u0927\u0940 \u0915\u0947 \u092c\u0947\u091f\u0947 \u0930\u0947\u0939\u093e\u0928 \u0935\u093e\u0921\u094d\u0930\u093e \u0928\u0947 \u0915\u0939\u0940 \u0939\u0948\u0964 \u0936\u0928\u093f\u0935\u093e\u0930 \u0915\u094b \u0926\u093f\u0932\u094d\u0932\u0940 \u0915\u0947 \u090f\u0915 \u0935\u094b\u091f\u093f\u0902\u0917 \u0938\u0947\u0902\u091f\u0930 \u092a\u0930 \u0930\u0947\u0939\u093e\u0928 \u0914\u0930 \u092e\u093f\u0930\u093e\u092f\u093e \u092e\u0924\u0926\u093e\u0928 \u0915\u0947 \u0932\u093f\u090f \u092a\u0939\u0941\u0902\u091a\u0947\u0964 \u0907\u0938 \u0926\u094c\u0930\u093e\u0928 \u0906\u092e \u0935\u094b\u091f\u0930\u094d\u0938 \u0915\u0940 \u0924\u0930\u0939 \u0932\u093e\u0907\u0928 \u092e\u0947\u0902 \u0932\u0917\u0915\u0930 \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u0905\u092a\u0928\u0947 \u092e\u0924\u093e\u0927\u093f\u0915\u093e\u0930 \u0915\u093e\u2026",
+      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/priyanka-gandhi-vadra-children-raihan-rajiv-vadra-and-miraya-vadra-cast-their-votes-delhi/articleshow/110413679.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-60738,msid-110413637/navbharat-times.jpg",
+      "publishedAt": "2024-05-25 04:52:50",
+      "content": " , Adv: , , 55% ? , , ... , -, , IMD , , , ... , , ' ', H5N1 Virus, 20 , - ' 3' ' ' '\u2026 [+80 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.979899",
+      "internal_id": "d73446ca97dc0c41331630ebb9869efcd33b66194ff9cf03ea18dc3bd5bffc3c",
       "publishedAtLabel": "May 25"
     },
     {
@@ -527,6 +690,186 @@
       "publishedAtLabel": "May 24"
     },
     {
+      "id": 9531,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u092e\u0941\u0928\u0947\u0936\u094d\u0935\u0930 \u0915\u0941\u092e\u093e\u0930",
+      "title": "\u092e\u0927\u094d\u092f \u092a\u094d\u0930\u0926\u0947\u0936 \u092e\u0947\u0902 \u092d\u094b\u092a\u093e\u0932 \u0938\u0947 \u0938\u091f\u0947 \u091c\u093f\u0932\u0947 \u092e\u0947\u0902 \u0939\u094b\u0928\u0947 \u0935\u093e\u0932\u093e \u0939\u0948 50,000 \u0915\u0930\u094b\u0921\u093c \u0915\u093e \u0907\u0928\u094d\u0935\u0947\u0938\u094d\u091f\u092e\u0947\u0902\u091f, 15 \u0938\u0947 20 \u0939\u091c\u093e\u0930 \u0932\u094b\u0917\u094b\u0902 \u0915\u094b \u092e\u093f\u0932\u0947\u0917\u093e \u0930\u094b\u091c\u0917\u093e\u0930",
+      "description": "Gail Invest 50000 Crore In MP: \u092e\u0927\u094d\u092f \u092a\u094d\u0930\u0926\u0947\u0936 \u0915\u0947 \u0938\u0940\u0939\u094b\u0930 \u092e\u0947\u0902 \u0917\u0947\u0932 \u0907\u0902\u0921\u093f\u092f\u093e 50 \u0939\u091c\u093e\u0930 \u0915\u0930\u094b\u0921\u093c \u0930\u0941\u092a\u090f \u0915\u093e \u0928\u093f\u0935\u0947\u0936 \u0915\u0930\u0928\u0947 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u0932\u093f\u090f \u091c\u092e\u0940\u0928 \u0905\u0927\u093f\u0917\u094d\u0930\u0939\u0923 \u0915\u093e \u0915\u093e\u092e \u0936\u0941\u0930\u0942 \u0939\u094b \u0917\u092f\u093e \u0939\u0948\u0964 \u0907\u0938 \u0928\u093f\u0935\u0947\u0936 \u0938\u0947 \u092c\u0921\u093c\u0947 \u092a\u0948\u092e\u093e\u0928\u0947 \u092a\u0930 \u0932\u094b\u0917\u094b\u0902 \u0915\u094b \u0930\u094b\u091c\u0917\u093e\u0930 \u092e\u093f\u0932\u0947\u0917\u093e\u0964 \u0938\u093e\u0925 \u0939\u0940 \u0909\u0938\u0947 \u0907\u0932\u093e\u0915\u0947 \u092e\u0947\u0902 \u0906\u0930\u094d\u0925\u093f\u0915 \u0924\u0930\u0915\u094d\u0915\u0940 \u092d\u0940 \u0906\u090f\u0917\u0940\u0964",
+      "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/bhopal/gail-india-rs-50000-crore-investment-to-be-made-in-sehore-to-adjacent-to-bhopal-in-madhya-pradesh-15-to-20-thousand-people-get-employment/articleshow/110400053.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-85222,msid-110400099/navbharat-times.jpg",
+      "publishedAt": "2024-05-24 12:18:40",
+      "content": ": () 800 15 20 50,000 800 () 800 450 , 350 , , , , 50 - 5 6 50 , () 1984 , 370 ? Adv: , , 55% 15 , 18 , , Explained: 60 H5N1, , \u2026 [+175 chars]",
+      "retrievedAt": "2024-05-27 07:06:32.004477",
+      "internal_id": "f30baf5ddbc8038364fc52fc1c379e7c663073199ac93806ec25855075fa5c07",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9530,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u0935\u093f\u0936\u094d\u0935\u0928\u093e\u0925 \u0938\u0941\u092e\u0928",
+      "title": "\u092c\u091a\u092a\u0928 \u0915\u0947 \u0926\u094b\u0938\u094d\u0924 \u0928\u0947 \u0915\u094d\u092f\u094b\u0902 \u0915\u0930\u093e \u0926\u093f\u090f \u0938\u093e\u0902\u0938\u0926 \u0905\u091c\u0940\u092e \u0905\u0928\u093e\u0930 \u0915\u0947 \u091f\u0941\u0915\u0921\u093c\u0947-\u091f\u0941\u0915\u0921\u093c\u0947, \u091c\u093e\u0928\u093f\u090f \u0907\u0928\u0938\u093e\u0907\u0921 \u0938\u094d\u091f\u094b\u0930\u0940",
+      "description": "\u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u0915\u0947 \u091c\u093f\u0938 \u0938\u093e\u0902\u0938\u0926 \u0915\u0940 \u0915\u094b\u0932\u0915\u093e\u0924\u093e \u092e\u0947\u0902 \u0939\u0924\u094d\u092f\u093e \u0939\u0941\u0908, \u0909\u0938\u0915\u0947 \u0926\u093e\u092e\u0928 \u092a\u0930 \u092d\u0940 \u0926\u093e\u0917 \u0925\u0947\u0964 \u091c\u093f\u0938 \u0926\u094b\u0938\u094d\u0924 \u0928\u0947 \u0938\u093e\u0902\u0938\u0926 \u0905\u091c\u0940\u092e \u0905\u0928\u093e\u0930 \u0915\u0947 \u092c\u0947\u0930\u0939\u092e\u0940 \u0938\u0947 \u0915\u0924\u094d\u0932 \u0915\u0940 \u0938\u093e\u091c\u093f\u0936 \u0930\u091a\u0940, \u0935\u0939 \u0909\u0928\u0915\u093e \u092c\u093f\u091c\u0928\u0947\u0938 \u092a\u093e\u0930\u094d\u091f\u0928\u0930 \u0925\u093e\u0964 \u092f\u0939 \u092c\u093f\u091c\u0928\u0947\u0938 \u0938\u093e\u092b-\u0938\u0941\u0925\u0930\u093e \u0928\u0939\u0940\u0902, \u092c\u0932\u094d\u0915\u093f \u0938\u094d\u092e\u0917\u0932\u093f\u0902\u0917 \u0915\u093e \u0925\u093e\u0964 \u0907\u0938\u0940 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947\u0902 \u0926\u094b\u0928\u094b\u0902 \u092e\u0947\u0902 \u0905\u0926\u093e\u0935\u0924 \u0939\u0941\u0908 \u0914\u0930 \u0938\u093e\u0902\u0938\u0926 \u0915\u094b \u091c\u093e\u0928\u2026",
+      "url": "https://navbharattimes.indiatimes.com/state/west-bengal/kolkata/kolkata-cid-chase-awami-league-mp-mnwarul-azim-anar-murder-case-mastermind-akhtaruzzaman-shaheen/articleshow/110398108.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-55014,msid-110398370/navbharat-times.jpg",
+      "publishedAt": "2024-05-24 11:28:07",
+      "content": ": ? , - 2008 2014 , - , , , , 12 , 13 Explained: 60 H5N1, , Adv: , , 55% , , , , , ... , ! ... , , - ... , \u2026 [+96 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.999577",
+      "internal_id": "8d4ee9535b11b5e1824eea68e0907affe5f89328c8d36eac1c8b819502ccd915",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9525,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u090b\u0937\u093f\u0915\u0947\u0936 \u0915\u0941\u092e\u093e\u0930",
+      "title": "\u0936\u093e\u0939\u093f\u0926 \u0905\u092b\u0930\u0940\u0926\u0940 \u0915\u093e \u091b\u0930\u094d\u0930\u093e \u0926\u093f\u0916\u093e \u0930\u0939\u093e \u0925\u093e \u0906\u0902\u0916, \u0938\u0941\u0930\u0947\u0936 \u0930\u0948\u0928\u093e \u0928\u0947 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u0915\u094b \u0926\u093f\u0916\u093e\u0908 \u092e\u094b\u0939\u093e\u0932\u0940 \u0935\u093e\u0932\u0940 \u0914\u0915\u093e\u0924",
+      "description": "\u0938\u0941\u0930\u0947\u0936 \u0930\u0948\u0928\u093e \u0928\u0947 \u0938\u0902\u0928\u094d\u092f\u093e\u0938 \u0938\u0947 \u0935\u093e\u092a\u0938\u0940 \u0915\u0947 \u0928\u093e\u092e \u092a\u0930 \u0936\u093e\u0939\u093f\u0926 \u0905\u092b\u0930\u0940\u0926\u0940 \u0915\u094b \u091f\u094d\u0930\u094b\u0932 \u0915\u093f\u092f\u093e \u0925\u093e\u0964 \u0905\u092c \u0905\u092b\u0930\u0940\u0926\u0940 \u0915\u094b \u0906\u0908\u0938\u0940\u0938\u0940 \u0928\u0947 \u091f\u094020 \u0935\u0930\u094d\u0932\u094d\u0921 \u0915\u092a \u0915\u093e \u090f\u0902\u092c\u0947\u0938\u0921\u0930 \u092c\u0928\u093e \u0926\u093f\u092f\u093e \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u092a\u0924\u094d\u0930\u0915\u093e\u0930 \u0928\u0947 \u0930\u0948\u0928\u093e \u0915\u094b \u091a\u093f\u0922\u093c\u093e\u0928\u0947 \u0915\u0940 \u0915\u094b\u0936\u093f\u0936 \u0915\u0940\u0964 \u0907\u0938\u0915\u0947 \u091c\u0935\u093e\u092c \u092e\u0947\u0902 \u0930\u0948\u0928\u093e \u0928\u0947 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0947 \u092a\u0941\u0930\u093e\u0928\u0947 \u091c\u0916\u094d\u092e \u092f\u093e\u0926 \u0926\u093f\u0932\u093e \u0926\u093f\u090f\u0964",
+      "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/suresh-raina-brutally-troll-shahid-afridi-and-pakistan-once-again/articleshow/110396661.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-92892,msid-110397861/navbharat-times.jpg",
+      "publishedAt": "2024-05-24 11:22:38",
+      "content": "Explained: 60 H5N1, , Adv: , , 55% , 7 20 , , ... , ! , 50 ... , , ? Google Pay , , ,\u2026 [+50 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.974604",
+      "internal_id": "f7a43bf3ac86a89ffa8f99778986c94405f269a68a1557fefa544f4a7a2107ad",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9528,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u0905\u091a\u0932\u0947\u0902\u0926\u094d\u0930 \u0915\u091f\u093f\u092f\u093e\u0930",
+      "title": "\u0939\u0924\u094d\u092f\u093e \u0915\u0940 \u0938\u091c\u093e \u0938\u0947 \u092c\u091a\u0928\u0947 \u0915\u094b \u091a\u093e\u0930 \u092c\u093e\u0930 \u092c\u0926\u0932\u093e \u0928\u093e\u092e, \u0938\u093e\u0927\u0941 \u092c\u0928\u093e...\u0932\u0947\u0915\u093f\u0928 \u092a\u0941\u0932\u093f\u0938 \u0928\u0947 18 \u0938\u093e\u0932 \u0938\u0947 \u0935\u093e\u0902\u091f\u0947\u0921 \u0915\u094b \u0916\u094b\u091c \u0928\u093f\u0915\u093e\u0932\u093e",
+      "description": "Sruat Crime News: \u0917\u0941\u091c\u0930\u093e\u0924 \u0915\u0940 \u0938\u0942\u0930\u0924 \u0936\u0939\u0930 \u092a\u0941\u0932\u093f\u0938 \u0928\u0947 \u090f\u0915 18 \u0938\u093e\u0932 \u092a\u0941\u0930\u093e\u0928\u0947 \u092e\u093e\u092e\u0932\u0947 \u0915\u094b \u0939\u0932 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u0915\u093e\u092e\u092f\u093e\u092c\u0940 \u0939\u093e\u0938\u093f\u0932 \u0915\u0940 \u0939\u0948\u0964 \u0938\u093e\u0932 2006 \u092e\u0947\u0902 \u0938\u0930\u093f\u092f\u093e \u092b\u0948\u0915\u094d\u091f\u094d\u0930\u0940 \u092e\u0947\u0902 \u092e\u0930\u094d\u0921\u0930 \u0915\u0940 \u0918\u091f\u0928\u093e \u092e\u0947\u0902 \u0906\u0930\u094b\u092a\u0940 \u0915\u094b \u092a\u0941\u0932\u093f\u0938 \u0928\u0947 \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 \u0938\u0947 \u0905\u0930\u0947\u0938\u094d\u091f \u0915\u093f\u092f\u093e \u0939\u0948\u0964 \u0907\u0938 \u092a\u0941\u0930\u093e\u0928\u0947 \u092e\u093e\u092e\u0932\u0947 \u092e\u0947\u0902 \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948 \u0915\u093f \u0906\u0930\u094b\u092a\u0940 \u0928\u0947 \u092c\u091a\u0928\u0947 \u0915\u094b \u0938\u2026",
+      "url": "https://navbharattimes.indiatimes.com/state/gujarat/ahmedabad/surat-police-arrested-killer-from-uttar-pradesh-after-18-years-who-changed-four-names-and-his-attire/articleshow/110396525.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-58500,msid-110396843/navbharat-times.jpg",
+      "publishedAt": "2024-05-24 11:20:23",
+      "content": " ? Adv: , , 55% Explained: 60 H5N1, , , - ... , , ? , , 7 20 , , ... Google Pay , , , <\u2026 [+48 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.990008",
+      "internal_id": "1296346b2034988436a76b5d49d230b3af72e3a40d8b32085e24890c59919274",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9527,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u0936\u0948\u0932\u0947\u0936 \u0915\u0941\u092e\u093e\u0930 \u0936\u0941\u0915\u094d\u0932\u093e",
+      "title": "\u0907\u091c\u0930\u093e\u092f\u0932 \u0915\u094b \u0928 \u0926\u0947\u0902 \u0939\u0925\u093f\u092f\u093e\u0930... \u092d\u093e\u0930\u0924 \u0928\u0947 \u0909\u0924\u093e\u0930\u093e '\u0915\u093e\u0930\u0917\u093f\u0932 \u0915\u093e \u0915\u0930\u094d\u091c' \u0924\u094b \u091f\u0947\u0902\u0936\u0928 \u092e\u0947\u0902 \u0906\u092f\u093e \u092b\u0932\u0938\u094d\u200d\u0924\u0940\u0928, \u092e\u094b\u0926\u0940 \u0938\u0930\u0915\u093e\u0930 \u0938\u0947 \u0932\u0917\u093e\u0908 \u0917\u0941\u0939\u093e\u0930",
+      "description": "India Israel Weapons Palestine: \u092b\u0932\u0938\u094d\u200d\u0924\u0940\u0928 \u0928\u0947 \u092d\u093e\u0930\u0924 \u0938\u0947 \u0905\u0928\u0941\u0930\u094b\u0927 \u0915\u093f\u092f\u093e \u0939\u0948 \u0915\u093f \u0935\u0939 \u0907\u091c\u0930\u093e\u092f\u0932 \u0915\u094b \u0939\u0925\u093f\u092f\u093e\u0930 \u0926\u0947\u0928\u0947 \u0915\u0947 \u092b\u0948\u0938\u0932\u0947 \u092a\u0930 \u092b\u093f\u0930 \u0938\u0947 \u0935\u093f\u091a\u093e\u0930 \u0915\u0930\u0947\u0964 \u092b\u0932\u0938\u094d\u200d\u0924\u0940\u0928 \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0907\u091c\u0930\u093e\u092f\u0932 \u0907\u0928 \u0939\u0925\u093f\u092f\u093e\u0930\u094b\u0902 \u0915\u093e \u0907\u0938\u094d\u200d\u0924\u0947\u092e\u093e\u0932 \u0917\u093e\u091c\u093e \u092e\u0947\u0902 \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0948\u0964 \u092b\u0932\u0938\u094d\u200d\u0924\u0940\u0928\u0940 \u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0907\u091c\u0930\u093e\u092f\u0932 \u092a\u0930 \u091a\u094c\u0924\u0930\u092b\u093e \u0926\u092c\u093e\u0935 \u0915\u0940 \u091c\u0930\u0942\u0930\u0924 \u0939\u0948 \u0924\u2026",
+      "url": "https://navbharattimes.indiatimes.com/world/uae/israel-gaza-war-news-palestine-asks-india-to-reconsider-its-decision-to-export-weapons-to-israel-hamas-war/articleshow/110397573.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-71196,msid-110397830/navbharat-times.jpg",
+      "publishedAt": "2024-05-24 11:19:18",
+      "content": " , , Adv: , , 55% , , - ... , 7 20 , ... , !Explained: 60 H5N1, , ... , , ... Google Pay , , </l\u2026 [+58 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.984755",
+      "internal_id": "50f80312c02f178c6477b62b3329db03e8089b9aac8596561e73f8feb119bca5",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9522,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u092d\u0942\u092a\u0947\u0902\u0926\u094d\u0930 \u0936\u0930\u094d\u092e\u093e",
+      "title": "\u090f\u092e\u094d\u0938 \u0938\u092e\u0947\u0924 \u0915\u0908 \u092e\u0947\u0921\u093f\u0915\u0932 \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u094b\u0902 \u092e\u0947\u0902 \u092c\u0928 \u0930\u0939\u0947 '\u091a\u0932\u0928\u0947 \u0935\u093e\u0932\u0947 \u0905\u0938\u094d\u092a\u0924\u093e\u0932', \u0907\u092e\u0930\u091c\u0947\u0902\u0938\u0940 \u092e\u0947\u0902 \u0915\u0939\u0940\u0902 \u092d\u0940 \u091c\u093e \u0938\u0915\u0947\u0902\u0917\u0947",
+      "description": "\u0926\u0947\u0936\u092d\u0930 \u0915\u0947 \u0926\u0942\u0930-\u0926\u0930\u093e\u091c \u0935\u093e\u0932\u0947 \u0907\u0932\u093e\u0915\u094b\u0902 \u092e\u0947\u0902 \u0915\u093f\u0938\u0940 \u0907\u092e\u0930\u091c\u0947\u0902\u0938\u0940 \u0915\u0947 \u0935\u0915\u094d\u0924 \u0905\u092c \u092e\u0947\u0921\u093f\u0915\u0932 \u0939\u0947\u0932\u094d\u092a \u0906\u0938\u093e\u0928\u0940 \u0938\u0947 \u092a\u0939\u0941\u0902\u091a \u0938\u0915\u0947\u0917\u0940\u0964 \u090f\u092e\u094d\u0938 \u0938\u092e\u0947\u0924 \u0915\u0908 \u092c\u0921\u093c\u0947 \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u092a\u094b\u0930\u094d\u091f\u0947\u092c\u0932 \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092c\u0928\u093e\u090f \u091c\u093e \u0930\u0939\u0947 \u0939\u0948\u0902\u0964 \u092a\u094d\u0930\u094b\u091c\u0947\u0915\u094d\u091f \u092d\u0940\u0937\u094d\u092e \u0915\u0947 \u0924\u0939\u0924 \u092f\u0947 \u092a\u094d\u0930\u094b\u091c\u0947\u0915\u094d\u091f \u092c\u0928\u093e\u090f \u091c\u093e \u0930\u0939\u0947 \u0939\u0948\u0902\u0964",
+      "url": "https://navbharattimes.indiatimes.com/india/portable-hospitals-in-all-major-medical-institutions/articleshow/110397891.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-55524,msid-110397899/navbharat-times.jpg",
+      "publishedAt": "2024-05-24 11:19:08",
+      "content": ": - AIIMS ( ) (, ) 200 72 , , , - , , , , , , , , 27 (WHA) - , -BHISHM , ( ) 2022 2023 926 50 - ICMR , Adv: , , 55% NDRF ITBP , Explained: 60 H5N1, , <\u2026 [+156 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.958362",
+      "internal_id": "1ba69c5bb41c6b15e7e3d53d970cf5d116f54efb15a079f4f1dfc1864855fc01",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9529,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u0938\u0941\u091c\u0940\u0924 \u0909\u092a\u093e\u0927\u094d\u092f\u093e\u092f",
+      "title": "\u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941 \u0915\u0947 \u092a\u0942\u0930\u094d\u0935 \u0938\u094d\u092a\u0947\u0936\u0932 \u0921\u0940\u091c\u0940\u092a\u0940 \u0930\u093e\u091c\u0947\u0936 \u0926\u093e\u0938 \u0917\u093f\u0930\u092b\u094d\u0924\u093e\u0930, \u092a\u0924\u094d\u0928\u0940 \u0915\u0940 \u0936\u093f\u0915\u093e\u092f\u0924 \u092a\u0930 \u0939\u0941\u090f \u0905\u0930\u0947\u0938\u094d\u091f, \u092e\u093e\u092e\u0932\u093e \u0915\u094d\u092f\u093e \u0939\u0948?",
+      "description": "Former Tamil Nadu DGP Arrested: \u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941 \u0915\u0947 \u092a\u0942\u0930\u094d\u0935 \u0935\u093f\u0936\u0947\u0937 \u092a\u0941\u0932\u093f\u0938 \u092e\u0939\u093e\u0928\u093f\u0926\u0947\u0936\u0915 \u0930\u093e\u091c\u0947\u0936 \u0926\u093e\u0938 \u0915\u094b \u0909\u0928\u0938\u0947 \u0905\u0932\u0917 \u0930\u0939 \u0930\u0939\u0940 \u0909\u0928\u0915\u0940 \u092a\u0924\u094d\u0928\u0940 \u092c\u0940\u0932\u093e \u0935\u0947\u0902\u0915\u091f\u0947\u0936\u0928 \u0915\u0940 \u0936\u093f\u0915\u093e\u092f\u0924 \u092a\u0930 \u0918\u0930 \u092e\u0947\u0902 \u0918\u0941\u0938\u0915\u0930 \u0927\u092e\u0915\u0940 \u0926\u0947\u0928\u0947 \u0915\u0947 \u0906\u0930\u094b\u092a \u092e\u0947\u0902 \u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930 \u0915\u094b \u0917\u093f\u0930\u092b\u094d\u0924\u093e\u0930 \u0915\u0930 \u0932\u093f\u092f\u093e \u0917\u092f\u093e\u0964 \u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941 \u092a\u0941\u0932\u093f\u0938 \u0928\u0947 \u092f\u0939 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0926\u0940 \u0939\u0948\u0964 \u092c\u0940\u0932\u093e \u0935\u0947\u0902\u0915\u091f\u0947\u0936\u0928 \u0924\u2026",
+      "url": "https://navbharattimes.indiatimes.com/state/tamil-nadu/chennai/former-tamil-nadu-special-dgp-rajesh-das-arrested-for-trespass-criminal-intimidation/articleshow/110397225.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-49852,msid-110397288/navbharat-times.jpg",
+      "publishedAt": "2024-05-24 11:11:37",
+      "content": " , , Adv: , , 55% , 50 , , , Explained: 60 H5N1, , 4 , , ... , ! , , ... Google Pay , , <li\u2026 [+53 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.994467",
+      "internal_id": "836c279d77f16c01a7ab178ce76bd05d57f33f5c322afa7fa787a3c3e1a927de",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9523,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u0930\u093e\u0918\u0935\u0947\u0902\u0926\u094d\u0930 \u0936\u0941\u0915\u094d\u0932\u093e",
+      "title": "\u092c\u0947\u091f\u0947 \u0915\u0940 \u091a\u093e\u0939\u0924 \u092e\u0947\u0902 \u092a\u0924\u094d\u0928\u0940 \u0915\u093e \u092a\u0947\u091f \u091a\u0940\u0930 \u0926\u093f\u092f\u093e... \u0915\u094b\u0930\u094d\u091f \u0928\u0947 \u0938\u0941\u0928\u093e\u0908 \u0909\u092e\u094d\u0930 \u0915\u0948\u0926 \u0915\u0940 \u0938\u091c\u093e, \u092c\u0926\u093e\u092f\u0942\u0902 \u0915\u0940 \u0915\u0939\u093e\u0928\u0940 \u0926\u0939\u0932\u093e \u0926\u0947\u0917\u0940",
+      "description": "\u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 \u0915\u0947 \u092c\u0926\u093e\u092f\u0942\u0902 \u092e\u0947\u0902 \u090f\u0915 \u0936\u0916\u094d\u0938 \u0928\u0947 \u0905\u092a\u0928\u0940 \u092a\u0924\u094d\u0928\u0940 \u0915\u093e \u092a\u0947\u091f \u0907\u0938\u0932\u093f\u090f \u091a\u0940\u0930 \u0926\u093f\u092f\u093e \u0924\u093e\u0915\u093f \u092a\u0924\u093e \u0915\u0930 \u0938\u0915\u0947 \u0915\u093f \u0909\u0938\u0915\u0947 \u0917\u0930\u094d\u092d \u092e\u0947\u0902 \u092c\u0947\u091f\u093e \u0939\u0948 \u092f\u093e \u092c\u0947\u091f\u0940? \u0921\u0949\u0915\u094d\u091f\u0930\u094b\u0902 \u0928\u0947 \u091c\u0948\u0938\u0947-\u0924\u0948\u0938\u0947 \u092e\u0939\u093f\u0932\u093e \u0915\u0940 \u091c\u093e\u0928 \u092c\u091a\u093e \u0932\u0940 \u0932\u0947\u0915\u093f\u0928 \u0917\u0930\u094d\u092d \u092e\u0947\u0902 \u092a\u0932 \u0930\u0939\u0947 \u0936\u093f\u0936\u0941 \u0915\u094b \u0928\u0939\u0940\u0902 \u092c\u091a\u093e \u0938\u0915\u0947\u0964 \u0906\u0930\u094b\u092a\u0940 \u092a\u0924\u093f \u0915\u094b \u0915\u094b\u0930\u094d\u091f \u0928\u0947 \u0906\u091c\u0940\u0935\u0928 \u0915\u093e\u0930\u093e\u0935\u093e\u0938 \u0915\u0940 \u0938\u091c\u093e \u0938\u0941\u0928\u093e\u0908 \u0939\u0948\u0964",
+      "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/badaun/badaun-man-cuts-open-wife-stomach-to-check-whether-baby-boy-or-girl/articleshow/110396585.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-59434,msid-110397188/navbharat-times.jpg",
+      "publishedAt": "2024-05-24 10:57:04",
+      "content": "Explained: 60 H5N1, , Adv: , , 55% , 50 , 7 20 , , , , 4 , , ... , ! , , Google Pay , , <l\u2026 [+54 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.962892",
+      "internal_id": "d4d4e55ac350ae3f82150ba28be9d1944c99d0ae2dfd1d51529a6ca08efbd99f",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9520,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u0930\u093f\u091c\u0935\u093e\u0928",
+      "title": "\u092f\u0941\u0926\u094d\u0927\u092a\u094b\u0924 \u0938\u0947 \u0932\u0947\u0915\u0930 \u092b\u093e\u0907\u091f\u0930 \u091c\u0947\u091f \u0924\u0915... \u091a\u0940\u0928 \u0928\u0947 \u092c\u0924\u093e\u092f\u093e \u0915\u094d\u200d\u092f\u094b\u0902 \u0924\u093e\u0907\u0935\u093e\u0928 \u0915\u0940 \u0915\u0930 \u0930\u0916\u0940 \u0939\u0948 \u091a\u094c\u0924\u0930\u092b\u093e \u0918\u0947\u0930\u093e\u092c\u0902\u0926\u0940, \u0926\u0915\u094d\u0937\u093f\u0923 \u091a\u0940\u0928 \u0938\u093e\u0917\u0930 \u092e\u0947\u0902 \u0924\u0928\u093e\u0935",
+      "description": "\u0924\u093e\u0907\u0935\u093e\u0928-\u0928\u093f\u092f\u0902\u0924\u094d\u0930\u093f\u0924 \u0926\u094d\u0935\u0940\u092a\u094b\u0902 \u0915\u0947 \u0938\u092e\u0942\u0939\u094b\u0902 \u0915\u0947 \u092a\u093e\u0938\u091a \u091a\u0940\u0928 \u0915\u093e \u092f\u0939 \u0905\u092d\u094d\u092f\u093e\u0938 \u0932\u093e\u0908 \u091a\u093f\u0902\u0917\u0924\u0947 \u0915\u0947 \u0924\u093e\u0907\u0935\u093e\u0928 \u0915\u0947 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f \u0915\u0947 \u0924\u094c\u0930 \u092a\u0930 \u092a\u0926\u092d\u093e\u0930 \u0938\u0902\u092d\u093e\u0932\u0928\u0947 \u0915\u0947 \u0920\u0940\u0915 \u0924\u0940\u0928 \u0926\u093f\u0928 \u092c\u093e\u0926 \u0939\u094b \u0930\u0939\u093e \u0939\u0948\u0964 \u0932\u093e\u0908 \u0915\u094b \u091a\u0940\u0928 \u090f\u0915 \u0905\u0932\u0917\u093e\u0935\u0935\u093e\u0926\u0940 \u0928\u0947\u0924\u093e \u0915\u0947 \u0924\u094c\u0930 \u092a\u0930 \u0926\u0947\u0916\u0924\u093e \u0939\u0948 \u0914\u0930 \u0909\u0928\u0915\u094b \u0928\u093e\u092a\u0938\u0902\u0926 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \u0909\u0928\u0915\u094b \u091a\u0940\u0928 \u0935\u093f\u0930\u094b\u0927\u0940 \u0928\u0947\u0924\u093e \u092e\u093e\u0928\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964",
+      "url": "https://navbharattimes.indiatimes.com/world/china/china-military-drills-around-taiwan-designed-to-test-its-ability-to-seize-power-over-island/articleshow/110397027.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-77614,msid-110396993/navbharat-times.jpg",
+      "publishedAt": "2024-05-24 10:53:33",
+      "content": ": ' ' - , , , , , - , , , ' ' , , - ...Adv: , , 55% , , Explained: 60 H5N1, , , 50 , , ? , , , ... \u2026 [+87 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.948171",
+      "internal_id": "9be2cf67b57ba345e501e9e71fac2096d50cb14d2c94bb5769545c98db662d9a",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9524,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u0938\u0941\u091c\u0940\u0924 \u0909\u092a\u093e\u0927\u094d\u092f\u093e\u092f",
+      "title": "\u0928\u093e\u092c\u093e\u0932\u093f\u0917 \u0939\u0940 \u091a\u0932\u093e \u0930\u0939\u093e \u0925\u093e \u092a\u094b\u0930\u094d\u0936 \u0915\u093e\u0930, \u092a\u0941\u0932\u093f\u0938 \u0915\u0947 \u092a\u093e\u0938 \u092a\u0915\u094d\u0915\u0947 \u0938\u092c\u0942\u0924, \u092a\u0941\u0923\u0947 \u090f\u0915\u094d\u0938\u0940\u0921\u0947\u0902\u091f \u0915\u0947\u0938 \u092e\u0947\u0902 \u092c\u095c\u093e \u0926\u093e\u0935\u093e",
+      "description": "Pune Porsche Accident Case: \u092a\u0941\u0923\u0947 \u0915\u0947 \u092a\u0941\u0932\u093f\u0938 \u0915\u092e\u093f\u0936\u094d\u0928\u0930 \u0905\u092e\u093f\u0924\u0947\u0936 \u0915\u0941\u092e\u093e\u0930 \u0928\u0947 \u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930 \u0915\u094b \u0915\u0939\u093e \u0915\u093f \u092a\u0941\u0932\u093f\u0938 \u0915\u0947 \u092a\u093e\u0938 \u092a\u0915\u094d\u0915\u0947 \u0938\u092c\u0942\u0924 \u0939\u0948\u0902 \u0915\u093f \u0939\u093e\u0926\u0938\u0947 \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u0928\u093e\u092c\u093e\u0932\u093f\u0917 \u0939\u0940 \u0915\u093e\u0930 \u091a\u0932\u093e \u0930\u0939\u093e \u0925\u093e\u0964 \u0915\u0908 \u091a\u0936\u094d\u092e\u0926\u0940\u0926\u094b\u0902 \u0928\u0947 \u092d\u0940 \u0907\u0938\u0915\u0940 \u092a\u0941\u0937\u094d\u091f\u093f \u0915\u0940 \u0939\u0948\u0964 \u0921\u094d\u0930\u093e\u0907\u0935\u0930 \u0915\u0947 \u0915\u093e\u0930 \u091a\u0932\u093e\u0928\u0947 \u0915\u0947 \u0926\u093e\u0935\u0947 \u0928\u093f\u0930\u093e\u0927\u093e\u0930 \u0939\u0948\u0902\u0964 \u0926\u0930\u0905\u0938\u0932 \u0939\u093e\u0926\u0938\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0906\u2026",
+      "url": "https://navbharattimes.indiatimes.com/state/maharashtra/pune/pune-porsche-accident-case-police-commissioner-claims-minor-was-driving-porsche-car-solid-evidence/articleshow/110395822.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-73796,msid-110396951/navbharat-times.jpg",
+      "publishedAt": "2024-05-24 10:52:17",
+      "content": " ? Adv: , , 55% NDRF ITBP , 4 , Explained: 60 H5N1, , , , ... , ? , , : , Google Pay , , <li\u2026 [+55 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.969688",
+      "internal_id": "ad4638847a52f6d607827e5d4fcf12d643b3d77dd73be546e683522760bc9f0d",
+      "publishedAtLabel": "May 24"
+    },
+    {
       "id": 9502,
       "query": [
         "h5n1"
@@ -542,6 +885,42 @@
       "content": ": 2009 , , H1N1 , H1N1/09 , , 20 5 30 cdnsciencepub.com , A 20 1918 , H1N1 5 1957 A (H2N2) 20 , 1968 A (H3N2) 10 ' ' , 40 2009 A (H1N1) WHO 2.5 , 2,832 21 H5N1 , 1997 , 6 Explained: , , ' ' ,\u2026 [+419 chars]",
       "retrievedAt": "2024-05-26 07:06:23.991032",
       "internal_id": "6e517bfb6185fe2adaa7288cd75400f8fa9596c56b948f55f29506777e2ef5d2",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9519,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Canadian dairy farmers urged to think about bird flu protections as U.S. identifies 2nd case",
+      "description": "If cows become infected with H5N1 bird flu in Canada, gloves, goggles and masks could join work boots and coveralls as important protection in farmers' wardrobes.",
+      "url": "https://www.cbc.ca/news/health/ppe-dairy-farms-bird-flu-1.7212704",
+      "urlToImage": "https://i.cbc.ca/1.7211311.1716396401!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/marcus-and-paige-dueck.jpg",
+      "publishedAt": "2024-05-24 08:00:00",
+      "content": "As the U.S. identified a second human case of bird flu linked to dairy cows this week, some Canadian dairy farmers and veterinarians are on guard, taking measures like stocking up on personal protect\u2026 [+6115 chars]",
+      "retrievedAt": "2024-05-27 07:06:31.943556",
+      "internal_id": "2c754db7eef97c3d08349e63c7d66248f04bf4e369184a84a4438dd841f9a5c4",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9521,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "1km bird flu affected zone declared after 9,000 chickens die at Kerala poultry farm",
+      "description": "An outbreak of bird flu (H5N1) at the Manarcadu local poultry farm in Kottayam district has led to the confirmation of the disease at the National Institute of High Security Animal Diseases Lab in Bhopal. A bird flu-affected zone has been designated in the ar\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/1km-bird-flu-affected-zone-declared-after-9000-chickens-die-at-kerala-poultry-farm/articleshow/110388393.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-110388401,width-1070,height-580,imgsize-19846,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-24 07:45:44",
+      "content": "10 cutest and most colourful animals found in India",
+      "retrievedAt": "2024-05-27 07:06:31.953334",
+      "internal_id": "687c508fe80ba0802c8ed0337f8d20107a8e94a6c78c552ca7a7e87fe1da30e1",
       "publishedAtLabel": "May 24"
     },
     {
@@ -23811,6 +24190,114 @@
       "content": "La Seremi de la Regi\u00f3n de Valpara\u00edso confirm\u00f3 el hallazgo de un mosquito Aedes aegypti en el Terminal de Buses Ahumada de la comuna de Los Andes, lo que ha generado un llamado urgente a la acci\u00f3n por\u2026 [+1901 chars]",
       "retrievedAt": "2024-04-16 07:06:13.321002",
       "internal_id": "39339444eefc7b256d165e35edab548f00068c54f87fd57297a52c5ba632d047",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8189,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Deadline",
+      "author": "Bruce Haring",
+      "title": "L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier",
+      "description": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los Angeles County Department of Public Health said it had received\u2026",
+      "url": "http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/09/Universal-Studios-theme-park-Hollywood.jpg?w=1024",
+      "publishedAt": "2024-04-14 18:32:51",
+      "content": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los An\u2026 [+1049 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.686603",
+      "internal_id": "6754d64ecced4850f3f21b330198b32459cdf8cc6ba021f346496bd25e8bfb83",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8191,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Martina Riemlov\u00e1",
+      "title": "Argentina bojuje s vlnou hore\u010dky dengue, repelenty v zemi nejsou k sehn\u00e1n\u00ed",
+      "description": "V Argentin\u011b se \u0161\u00ed\u0159\u00ed epidemie hore\u010dky dengue, a tak v tamn\u00edch obchodech a l\u00e9k\u00e1rn\u00e1ch chyb\u00ed dostate\u010dn\u00e9 mno\u017estv\u00ed p\u0159\u00edpravk\u016f proti hmyzu. Tamn\u00ed \u00fa\u0159ady u\u017e zru\u0161ily omezen\u00ed souvisej\u00edc\u00ed s dovozem repelent\u016f, aby v zemi nav\u00fd\u0161ily nab\u00eddku. N\u011bkte\u0159\u00ed obyvatel\u00e9 si prozat\u00edm za\u010da\u2026",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2024/4/RIE80166f40ba_profimedia_0863037161.jpg",
+      "publishedAt": "2024-04-14 17:00:00",
+      "content": "Navt\u00edvili jsme nejm\u00e9n ticet l\u00e9k\u00e1ren po cel\u00e9m mst, nic u nezbylo, \u00edk\u00e1 pro agenturu AP dvaatyicetilet\u00e1 Ana Infante z hlavn\u00edho msta Buenos Aires. Chtla nakoupit repelenty pot\u00e9, co jej\u00ed spolupracovnice m\u2026 [+2955 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.449323",
+      "internal_id": "276f46d6c6aaa7f9c7f18b77d7e212406c4dacd6f9717f373c6928c6996128db",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8193,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El mapa del dengue: informan por primera vez en el a\u00f1o una tendencia en baja, con excepci\u00f3n de dos provincias",
+      "description": "Surge del ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias y en un an\u00e1lisis que las autoridades sanitarias",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-es-transmitido-por-la-S3JPAWMYHRDENE6Q76GQSY2MO4.jpg?auth=ea273d9864dfb28806178bede17b6b98a393721aefc196f023cbc6d6eca84657&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-14 16:08:20",
+      "content": "El avance de la epidemia de dengue en las 19 provincias con circulaci\u00f3n viral estar\u00eda tendiendo a desacelerarse, de acuerdo con el ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias\u2026 [+2630 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.545411",
+      "internal_id": "98a2d21fa90f6d15b4ada2e8bad569b674137707859c0d40e1fa86c82bcadea1",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8192,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Arreguy",
+      "title": "SP chega a 285 mortes por dengue e 573 mil casos da doen\u00e7a",
+      "description": "Capital concentra mortes por dengue no estado, com 39 \u00f3bitos, seguida de Guarulhos, na Grande SP, com 26, e Jacare\u00ed, no interior, com 20",
+      "url": "https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
+      "publishedAt": "2024-04-14 15:48:07",
+      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo chegou a 285 mortes por dengue neste domingo (14/4), e investiga 605 outros \u00f3bitos em decorr\u00eancia da doen\u00e7a. As informa\u00e7\u00f5es constam no painel de monitoramento da Secre\u2026 [+6245 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.456240",
+      "internal_id": "6c2c17696af3df5a2356e199353c2a2aa8edcd88a1eb20193c3659a959247c76",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8190,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Alessia Dunn",
+      "title": "Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger",
+      "description": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. When guests visit a theme park, it is impossible to think that you will not come into contact with germs. At \u2026",
+      "url": "https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Universal-Hollywood.jpg",
+      "publishedAt": "2024-04-14 14:29:45",
+      "content": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. Credit: Universal Studios When guests visit a t\u2026 [+4444 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.714627",
+      "internal_id": "4b63de4a1f2879f2231802882676a41b3a9a477fc46ba131faf2e2cee5fb374b",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8188,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Alarming Measles Outbreaks Surge Across Europe And Central Asia",
+      "description": "While focus in the U.S. has been on rising numbers of measles cases domestically, it\u2019s Europe and Central Asia where the situation is at crisis level.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661bbf0650e753f1cc011c18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-14 13:13:47",
+      "content": "Little girl with measles. getty After surging at the end of last year, measles outbreaks across Europe and Central Asia intensified in the first quarter of 2024, with incidence rates of up to hundr\u2026 [+6945 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.673594",
+      "internal_id": "bbbf1402efba99042fd00b5c3e3c92fffbbd7087b18b96f84e7fbe35ce307cf7",
       "publishedAtLabel": "Apr 14"
     }
   ]

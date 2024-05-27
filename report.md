@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2024-05-26 19:05
-- **Most recent article:** 2024-05-25 16:40:05
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-05-27 07:06
+- **Most recent article:** 2024-05-26 07:00:16
 
 ---
 
@@ -10,28 +10,42 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 108 | 117 | 77 | 57 | 87 | 57 | 503 |
-| h5n1 | 0 | 0 | 0 | 57 | 63 | 71 | 191 |
-| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 190 |
-| measles | 36 | 28 | 24 | 10 | 29 | 15 | 142 |
-| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 79 |
-| meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 70 |
-| rabies | 3 | 3 | 4 | 22 | 10 | 8 | 50 |
-| chikungunya | 5 | 5 | 7 | 5 | 12 | 2 | 36 |
-| zika | 8 | 3 | 8 | 2 | 6 | 3 | 30 |
-| pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 30 |
-| sarampión | 0 | 10 | 8 | 1 | 0 | 0 | 19 |
-| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 14 |
-| yersinia | 2 | 0 | 5 | 1 | 0 | 6 | 14 |
-| leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 12 |
-| typhoid | 2 | 0 | 0 | 3 | 2 | 0 | 7 |
+| Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 111 | 117 | 77 | 57 | 87 | 58 | 0 | 507 |
+| h5n1 | 0 | 0 | 0 | 57 | 63 | 87 | 2 | 209 |
+| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 0 | 190 |
+| measles | 39 | 28 | 24 | 10 | 29 | 15 | 0 | 145 |
+| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 0 | 79 |
+| meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 0 | 70 |
+| rabies | 3 | 3 | 4 | 22 | 10 | 8 | 0 | 50 |
+| chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 0 | 37 |
+| zika | 8 | 3 | 8 | 2 | 6 | 3 | 0 | 30 |
+| pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 0 | 30 |
+| sarampión | 0 | 10 | 8 | 1 | 0 | 0 | 0 | 19 |
+| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 1 | 15 |
+| yersinia | 2 | 0 | 5 | 1 | 0 | 6 | 0 | 14 |
+| leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 1 | 13 |
+| typhoid | 2 | 0 | 0 | 3 | 2 | 0 | 0 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-22 (leptospirosis)
+
+- [Waterborne disease outbreak after Brazil floods kills four](https://www.bbc.com/news/articles/cq559gexxy5o) (BBC News)
+
+## 24-22 (hpai)
+
+- [Мыши заболели птичьим гриппом, выпив сырого молока](https://naked-science.ru/article/medicine/bird-flu-in-milk) (Naked-science.ru)
+
+## 24-22 (h5n1)
+
+- [Мыши заболели птичьим гриппом, выпив сырого молока](https://naked-science.ru/article/medicine/bird-flu-in-milk) (Naked-science.ru)
+
+- [Day 1: ruffled fur and lethargy](https://www.metafilter.com/203879/Day-1-ruffled-fur-and-lethargy) (Metafilter.com)
 
 ## 24-21 (zika)
 
@@ -203,6 +217,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (h5n1)
 
+- [Leite cru contaminado com gripe aviária infecta ratos em estudo](https://www.metropoles.com/saude/leite-cru-infecta-ratos-com-gripe-aviaria) (Metropoles.com)
+
+- [ABD’de inek etinde kuş gribi izleri tespit edildi](https://www.haber7.com/dunya/haber/3427306-abdde-inek-etinde-kus-gribi-izleri-tespit-edildi) (Haber7.com)
+
+- [Bird flu in U.S. cows caught scientists by surprise. Canadian research has seen it coming since 1953](https://www.cbc.ca/news/health/bird-flu-in-u-s-cows-caught-scientists-by-surprise-canadian-research-has-seen-it-coming-since-1953-1.7212587) (CBC News)
+
+- [बदलाव के लिए वोटिंग जरूरी.. पहली बार वोट डाल रहे प्रियंका के बेटे रेहान और मिराया ने क्या-क्या कहा जानें](https://navbharattimes.indiatimes.com/metro/delhi/other-news/priyanka-gandhi-vadra-children-raihan-rajiv-vadra-and-miraya-vadra-cast-their-votes-delhi/articleshow/110413679.cms) (The Times of India)
+
 - [Vogelgrippe bei Kühen: Wie gefährlich ist das für Menschen?](https://www.morgenpost.de/web-wissen/gesundheit/article242413740/Vogelgrippe-bei-Kuehen-Wie-gefaehrlich-ist-das-fuer-Menschen.html) (Berliner Morgenpost)
 
 - [Aviaria, dopo il secondo caso umano i Cdc Usa si preparano a possibile “aumento del rischio”](https://www.ilfattoquotidiano.it/2024/05/24/aviaria-dopo-il-secondo-caso-umano-i-cdc-usa-si-preparano-a-possibile-aumento-del-rischio/7561526/) (Ilfattoquotidiano.it)
@@ -215,7 +237,31 @@ Source: [News API](https://newsapi.org/)
 
 - [The WHO’s Pandemic Treaty And A Bird Flu Crisis Are Both Arriving At The Same Time](https://www.shtfplan.com/conspiracy-fact-and-theory/the-whos-pandemic-treaty-and-a-bird-flu-crisis-are-both-arriving-at-the-same-time) (Shtfplan.com)
 
+- [मध्य प्रदेश में भोपाल से सटे जिले में होने वाला है 50,000 करोड़ का इन्वेस्टमेंट, 15 से 20 हजार लोगों को मिलेगा रोजगार](https://navbharattimes.indiatimes.com/state/madhya-pradesh/bhopal/gail-india-rs-50000-crore-investment-to-be-made-in-sehore-to-adjacent-to-bhopal-in-madhya-pradesh-15-to-20-thousand-people-get-employment/articleshow/110400053.cms) (The Times of India)
+
+- [बचपन के दोस्त ने क्यों करा दिए सांसद अजीम अनार के टुकड़े-टुकड़े, जानिए इनसाइड स्टोरी](https://navbharattimes.indiatimes.com/state/west-bengal/kolkata/kolkata-cid-chase-awami-league-mp-mnwarul-azim-anar-murder-case-mastermind-akhtaruzzaman-shaheen/articleshow/110398108.cms) (The Times of India)
+
+- [शाहिद अफरीदी का छर्रा दिखा रहा था आंख, सुरेश रैना ने पाकिस्तानी को दिखाई मोहाली वाली औकात](https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/suresh-raina-brutally-troll-shahid-afridi-and-pakistan-once-again/articleshow/110396661.cms) (The Times of India)
+
+- [हत्या की सजा से बचने को चार बार बदला नाम, साधु बना...लेकिन पुलिस ने 18 साल से वांटेड को खोज निकाला](https://navbharattimes.indiatimes.com/state/gujarat/ahmedabad/surat-police-arrested-killer-from-uttar-pradesh-after-18-years-who-changed-four-names-and-his-attire/articleshow/110396525.cms) (The Times of India)
+
+- [इजरायल को न दें हथियार... भारत ने उतारा 'कारगिल का कर्ज' तो टेंशन में आया फलस्‍तीन, मोदी सरकार से लगाई गुहार](https://navbharattimes.indiatimes.com/world/uae/israel-gaza-war-news-palestine-asks-india-to-reconsider-its-decision-to-export-weapons-to-israel-hamas-war/articleshow/110397573.cms) (The Times of India)
+
+- [एम्स समेत कई मेडिकल संस्थानों में बन रहे 'चलने वाले अस्पताल', इमरजेंसी में कहीं भी जा सकेंगे](https://navbharattimes.indiatimes.com/india/portable-hospitals-in-all-major-medical-institutions/articleshow/110397891.cms) (The Times of India)
+
+- [तमिलनाडु के पूर्व स्पेशल डीजीपी राजेश दास गिरफ्तार, पत्नी की शिकायत पर हुए अरेस्ट, मामला क्या है?](https://navbharattimes.indiatimes.com/state/tamil-nadu/chennai/former-tamil-nadu-special-dgp-rajesh-das-arrested-for-trespass-criminal-intimidation/articleshow/110397225.cms) (The Times of India)
+
+- [बेटे की चाहत में पत्नी का पेट चीर दिया... कोर्ट ने सुनाई उम्र कैद की सजा, बदायूं की कहानी दहला देगी](https://navbharattimes.indiatimes.com/state/uttar-pradesh/badaun/badaun-man-cuts-open-wife-stomach-to-check-whether-baby-boy-or-girl/articleshow/110396585.cms) (The Times of India)
+
+- [युद्धपोत से लेकर फाइटर जेट तक... चीन ने बताया क्‍यों ताइवान की कर रखी है चौतरफा घेराबंदी, दक्षिण चीन सागर में तनाव](https://navbharattimes.indiatimes.com/world/china/china-military-drills-around-taiwan-designed-to-test-its-ability-to-seize-power-over-island/articleshow/110397027.cms) (The Times of India)
+
+- [नाबालिग ही चला रहा था पोर्श कार, पुलिस के पास पक्के सबूत, पुणे एक्सीडेंट केस में बड़ा दावा](https://navbharattimes.indiatimes.com/state/maharashtra/pune/pune-porsche-accident-case-police-commissioner-claims-minor-was-driving-porsche-car-solid-evidence/articleshow/110395822.cms) (The Times of India)
+
 - [Explained: सामान्य फ्लू से 60 फीसदी घातक और जानलेवा है H5N1, रूप बदलने में माहिर, क्या यह बनेगी अगली महामारी](https://navbharattimes.indiatimes.com/india/h5n1-is-60-percent-deadlier-and-more-lethal-than-normal-flu-adept-at-changing-form-will-it-become-the-next-pandemic/articleshow/110390669.cms) (The Times of India)
+
+- [Canadian dairy farmers urged to think about bird flu protections as U.S. identifies 2nd case](https://www.cbc.ca/news/health/ppe-dairy-farms-bird-flu-1.7212704) (CBC News)
+
+- [1km bird flu affected zone declared after 9,000 chickens die at Kerala poultry farm](https://timesofindia.indiatimes.com/city/kochi/1km-bird-flu-affected-zone-declared-after-9000-chickens-die-at-kerala-poultry-farm/articleshow/110388393.cms) (The Times of India)
 
 - [Al doilea caz uman de gripă aviară în Statele Unite](https://www.mediafax.ro/sanatate/al-doilea-caz-uman-de-gripa-aviara-in-statele-unite-22386494) (Mediafax.ro)
 
@@ -347,6 +393,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-21 (dengue)
 
+- [Recuperado da dengue, Erasmo Viãna dá as caras na web: "9 kg a menos"](https://gente.ig.com.br/colunas/marcelo-bandeira/2024-05-25/recuperado-da-dengue--erasmo-viana-da-as-caras-na-web---9-kg-a-menos-.html) (Ig.com.br)
+
 - [Tiere: Der Kampf gegen die Tigermücke: Mückenfänger und Fallen](https://www.zeit.de/news/2024-05/25/der-kampf-gegen-die-tigermuecke-mueckenfaenger-und-fallen) (Die Zeit)
 
 - [नाशिककरांनो सावधान! डेंग्यू परतलाय..., तीन आठवड्यांत रुग्णसंख्या १९वर, कशी घ्याल खबरदारी?](https://marathi.indiatimes.com/maharashtra/nashik/nineteen-dengue-patients-were-reported-in-nashik-in-three-weeks/articleshow/110411839.cms) (The Times of India)
@@ -462,6 +510,8 @@ Source: [News API](https://newsapi.org/)
 - [Mizoram: 7 people died of dengue in two years](https://thehillstimes.in/northeast/mizoram-7-people-died-of-dengue-in-two-years) (Thehillstimes.in)
 
 ## 24-21 (chikungunya)
+
+- [Pesquisadores observam os vírus mayaro e chikungunya circulando ao mesmo tempo em Roraima](https://gizmodo.uol.com.br/pesquisadores-observam-os-virus-mayaro-e-chikungunya-circulando-ao-mesmo-tempo-em-roraima/) (Uol.com.br)
 
 - [Tiere: Der Kampf gegen die Tigermücke: Mückenfänger und Fallen](https://www.zeit.de/news/2024-05/25/der-kampf-gegen-die-tigermuecke-mueckenfaenger-und-fallen) (Die Zeit)
 
@@ -2659,6 +2709,12 @@ Source: [News API](https://newsapi.org/)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
+- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
+
+- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
+
+- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
+
 ## 24-16 (malaria)
 
 - [Xewa Sowé Center for Orphans / Corentin Dalon + Arianna Fabrizi De Biani + Doryan Kuschner + Florian Mahieu](https://www.archdaily.com/1015819/xewa-sowe-center-for-orphans-corentin-dalon-plus-arianna-fabrizi-de-biani-plus-doryan-kuschner-plus-florian-mahieu) (ArchDaily)
@@ -2944,6 +3000,12 @@ Source: [News API](https://newsapi.org/)
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
 - [Alerta sanitaria: Confirman hallazgo de mosquito transmisor del dengue en terminal de buses de Los Andes](https://www.cnnchile.com/pais/alerta-sanitaria-hallazgo-mosquito-dengue-terminal-los-andes_20240414/) (Cnnchile.com)
+
+- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
+
+- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
+
+- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 ## 24-16 (chikungunya)
 
