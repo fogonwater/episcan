@@ -1,8 +1,207 @@
 {
-  "last_updated": "2024-05-27 19:05",
-  "count_articles_total": 1347,
-  "count_articles_new": 7,
+  "last_updated": "2024-05-28 07:06",
+  "count_articles_total": 1374,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 9556,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Livedoor.com",
+      "author": "\u6bce\u65e5\u65b0\u805e",
+      "title": "\u9ce5\u30a4\u30f3\u30d5\u30eb\u306b\u611f\u67d3\u3057\u305f\u725b\u306e\u4e73\u3067\u30de\u30a6\u30b9\u304c\u611f\u67d3 \u71b1\u51e6\u7406\u3067\u30a6\u30a4\u30eb\u30b9\u6fc0\u6e1b",
+      "description": "\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb\u30b9\uff08H5N1\uff09\u306b\u611f\u67d3\u3057\u305f\u725b\u306e\u4e73\u306b\u30a6\u30a4\u30eb\u30b9\u304c\u542b\u307e\u308c\u3001\u305d\u306e\u4e73\u3092\u30de\u30a6\u30b9\u306e\u53e3\u306b\u5782\u3089\u3059\u3068\u611f\u67d3\u3059\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3068\u3001\u6771\u4eac\u5927\u65b0\u4e16\u4ee3\u611f\u67d3\u75c7\u30bb\u30f3\u30bf\u30fc\u306e\u6cb3\u5ca1\u7fa9\u88d5\u6a5f\u69cb\u9577\u3089\u306e\u7814\u7a76\u30c1\u30fc\u30e0\u304c\u767a\u8868\u3057\u305f\u3002\u4e73\u3092\u71b1\u51e6\u7406\u3059\u308b\u3068\u3001\u611f\u67d3\u80fd\u529b\u306e\u3042\u308b\u30a6\u30a4\u30eb\u30b9\u306f3\u4e07\u5206\u306e1\u306b\u6e1b\u3063\u305f\u3068\u3044\u3046\u3002\u3010\u56f3\u3067\u5206\u304b\u308b\u3011\u9ce5\u30a4\u30f3\u30d5\u30eb\u3001\u6bba\u51e6\u5206\u6570\u306e\u63a8\u79fbH5N1\u30a6\u30a4\u30eb\u30b9\u306f\u30012020\u5e74\u4ee5\u964d\u3001\u4e16\u754c\u7684\u306b\u6d41\u884c\u3057\u3001\u30d2\u30c8\u3092\u542b\u3080\u3055\u307e\u3056\u307e\u306a\u54fa\u4e73\u985e\u3078\u306e\u611f\u67d3\u304c\u5831\u544a\u3055\u308c\u3066\u3044\u308b\u3002\u7279\u306b\u7c73\u56fd\u3067\u306f\u3001\u4eca\u5e743\u6708\u4ee5\u964d\u3001\u4e73\u725b\u3078\u306e\u611f\u67d3\u304c\u6025\u62e1 \u5168\u6587\u6bce\u65e5\u65b0\u805e 05\u670827\u65e516\u664202\u5206",
+      "url": "https://news.livedoor.com/article/detail/26485830/",
+      "urlToImage": "https://image.news.livedoor.com/newsimage/stf/0/5/05592_1715_c7ce563c_536e3632.jpg",
+      "publishedAt": "2024-05-27 07:02:37",
+      "content": "H5N131 H5N120203 2028WHO5023 31 H5N16330721531 4 4 H5N11997 https://www.nejm.org/doi/10.1056/NEJMc2405495)",
+      "retrievedAt": "2024-05-28 07:06:42.709786",
+      "internal_id": "4bffb13061e51ee76ab57d08c4b8fc34760fad96aa89c413499ae0e5926e14fb",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9542,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KABC-TV",
+      "author": "Abc7.com Staff",
+      "title": "Infectious person with measles traveled through LAX, health officials warn",
+      "description": "Symptoms of measles typically start appearing a week or more after initial exposure.",
+      "url": "https://abc7.com/post/infectious-person-measles-traveled-lax-health-officials-warn/14876506/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14876433_meales-with-courtesy.jpg?w=1600",
+      "publishedAt": "2024-05-27 06:08:49",
+      "content": "LOS ANGELES (KABC) -- Los Angeles County public health officials have confirmed a person with a case of measles recently traveled through Los Angeles International Airport. They say a person travele\u2026 [+766 chars]",
+      "retrievedAt": "2024-05-28 07:06:41.307717",
+      "internal_id": "24c8dd497cff47b8e36235f69e991724a78c8df6c2a6ddb21d41ff6249c494d3",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9558,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "DF: quase 30% das mortes por dengue s\u00e3o de idosos com 80 anos ou mais",
+      "description": "Segundo boletim da Secretaria de Sa\u00fade do DF, em 2024, foram registradas 365 mortes por dengue. Desses, 101 s\u00e3o idosos com 80 anos ou mais",
+      "url": "https://www.metropoles.com/distrito-federal/df-quase-30-das-mortes-por-dengue-sao-de-idosos-com-80-anos-ou-mais",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/04/10204524/dengue-mata-234-pessoas-DF.jpg",
+      "publishedAt": "2024-05-27 05:45:57",
+      "content": "Desde o in\u00edcio do ano, 101 idosos com 80 anos ou mais morreram por dengue no Distrito Federal. O n\u00famero representa 27,6% do total de \u00f3bitos pela doen\u00e7a notificados na capital federal em 2024. Segund\u2026 [+5278 chars]",
+      "retrievedAt": "2024-05-28 07:06:43.367708",
+      "internal_id": "787a08f61b02c2bfe975773a528756af1795380c749d71b6f20fabdcc9abcaab",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9543,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "US, European nations consider vaccinating workers exposed to bird flu",
+      "description": "Europe News: CHICAGO/LONDON: The United States and Europe are taking steps to acquire or manufacture H5N1 bird flu vaccines that could be used to protect at-risk p.",
+      "url": "https://timesofindia.indiatimes.com/world/europe/us-european-nations-consider-vaccinating-workers-exposed-to-bird-flu/articleshow/110454042.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-110454335,width-1070,height-580,imgsize-28024,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-27 05:23:14",
+      "content": "10 animal wonders who can sing and dance",
+      "retrievedAt": "2024-05-28 07:06:42.601742",
+      "internal_id": "621a75f21662960dc031860c1bef8a99f20cd2ec628279f4a72bfe7fb3dccafa",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9549,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Julie Steenhuysen, Jennifer Rigby",
+      "title": "US, European nations consider vaccinating workers exposed to bird flu",
+      "description": "CHICAGO/LONDON (Reuters) - The United States and Europe are taking steps to acquire or manufacture H5N1 bird flu vaccines that could be used to protect at-risk poultry and dairy workers, veterinarians and lab technicians, government officials said, moves infl\u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/05/27/us-european-nations-consider-vaccinating-workers-exposed-to-bird-flu",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/05/27/2716417.jpg",
+      "publishedAt": "2024-05-27 05:09:00",
+      "content": "CHICAGO/LONDON (Reuters) - The United States and Europe are taking steps to acquire or manufacture H5N1 bird flu vaccines that could be used to protect at-risk poultry and dairy workers, veterinarian\u2026 [+5078 chars]",
+      "retrievedAt": "2024-05-28 07:06:42.677974",
+      "internal_id": "fbefe5fe795326d9ca6af5bf2ba6c9155e28611e4ebab0459c52c9b3da243a57",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9548,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "US, European nations consider vaccinating workers exposed to bird flu",
+      "description": "US, European nations consider vaccinating workers exposed to bird flu",
+      "url": "https://www.investing.com/news/stock-market-news/us-european-nations-consider-vaccinating-workers-exposed-to-bird-flu-3457571",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC720I9_L.jpg",
+      "publishedAt": "2024-05-27 05:06:02",
+      "content": "By Julie Steenhuysen and Jennifer Rigby CHICAGO/LONDON (Reuters) - The United States and Europe are taking steps to acquire or manufacture H5N1 bird flu vaccines that could be used to protect at-ris\u2026 [+5053 chars]",
+      "retrievedAt": "2024-05-28 07:06:42.673250",
+      "internal_id": "a27d2ebe81898c928cedd8811f021aaad87da5d262771d0c805113bf8ada1b3d",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9545,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "US, European nations consider vaccinating workers exposed to bird flu",
+      "description": "(marketscreener.com) The United States and Europe are taking steps to acquire or manufacture H5N1 bird flu vaccines that could be used to protect at-risk poultry and dairy workers, veterinarians and lab technicians, government officials said, moves influenza \u2026",
+      "url": "https://www.marketscreener.com/quote/stock/CSL-LIMITED-6492492/news/US-European-nations-consider-vaccinating-workers-exposed-to-bird-flu-46829956/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2023-11/2023-11-24T140302Z_1_LYNXMPEJAN0IR_RTROPTP_3_CANADA-USA-DAIRY.JPG",
+      "publishedAt": "2024-05-27 05:00:00",
+      "content": "CHICAGO/LONDON, May 27 (Reuters) - The United States and Europe are taking steps to acquire or manufacture H5N1 bird flu vaccines that could be used to protect at-risk poultry and dairy workers, v\u2026 [+5147 chars]",
+      "retrievedAt": "2024-05-28 07:06:42.659343",
+      "internal_id": "d212d77264ab0928d54bc37627651d27f7595397f41b0e276007550b09aba3ad",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9559,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "Myggens \u00e5terkomst",
+      "description": "\u25b8 Sommaren 2024 kan bli en av de v\u00e4rsta myggsomrarna p\u00e5 l\u00e4nge. Allt beror dock en hel del p\u00e5 hur regnig sommaren kommer att bli. Tidigare har vi h\u00f6rt en hel del om kyrkog\u00e5rdsmyggan och den fruktade tigermyggan - som sprider d\u00f6dliga virus som dengue och zika -\u2026",
+      "url": "https://www.aftonbladet.se/podcasts/ab/episode/370224",
+      "urlToImage": "https://images.stream.schibsted.media/users/ab_/images/2a0727e9604bd92e298a0e870ea06ce9.jpg?t%5B%5D=c1440x1440q80",
+      "publishedAt": "2024-05-27 02:00:24",
+      "content": "Sommaren 2024 kan bli en av de v\u00e4rsta myggsomrarna p\u00e5 l\u00e4nge. Allt beror dock en hel del p\u00e5 hur regnig sommaren kommer att bli. Tidigare har vi h\u00f6rt en hel del om kyrkog\u00e5rdsmyggan och den fruktade tig\u2026 [+627 chars]",
+      "retrievedAt": "2024-05-28 07:06:43.389722",
+      "internal_id": "ed4d49300e69adf08b2ebff37f57d7f7ed3b1089bbec4cbcbd16a42714734206",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9561,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod: WV dengue death toll now 8, cases almost 3,000",
+      "description": "Bacolod City \u2013 The dengue death toll in Western Visayas has further risen to eight, as the Department of Health in Region 6 logged 2,933 cases, as of May 18. From May 12 to 18, DOH Western Visayas Center for Health Development (WV CHD) recorded two dengue rel\u2026",
+      "url": "https://rpnradio.com/bacolod-wv-dengue-death-toll-now-8-cases-almost-3000/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/05/wv-dengue-death-toll.jpg",
+      "publishedAt": "2024-05-27 01:39:50",
+      "content": "Bacolod City \u2013 The dengue death toll in Western Visayas has further risen to eight, as the Department of Health in Region 6 logged 2,933 cases, as of May 18. From May 12 to 18, DOH Western Visayas C\u2026 [+940 chars]",
+      "retrievedAt": "2024-05-28 07:06:43.413845",
+      "internal_id": "84db2a0d3790ad56c10512afbe4c4e00046afa011292f30c29458d6ac95006ab",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9560,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Palike bats for \u2018dry day\u2019 to fight mosquitoes",
+      "description": "Bruhat Bengaluru Mahanagara Palike (BBMP) is intensifying mosquito-control spraying activities across the city to combat mosquitoes and prevent diseases like dengue. Citizens are urged to be cautious and prevent mosquito multiplication by draining stagnant wa\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bbmp-intensifies-mosquito-control-spraying-activities-in-bengaluru/articleshow/110446527.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-26 22:38:29",
+      "content": "10 common mistakes of Indian parenting and their solutions",
+      "retrievedAt": "2024-05-28 07:06:43.401115",
+      "internal_id": "bf3c3f927597af14d848524e853d44ffec2ef559df4e2390af2daa9a0088d857",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9562,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Japanese mosquito coils taking bite out of malaria in Kenya",
+      "description": "At a time when chrysanthemum flower production for use in mosquito-repelling incense coils has all but ceased in Japan, the tradition has been picked up in Kenya where thousands of people are killed every year by mosquito-borne malaria. A company based in cen\u2026",
+      "url": "https://japantoday.com/category/business/feature-japanese-mosquito-coils-taking-bite-out-of-malaria-in-kenya",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26 21:48:52",
+      "content": "At a time when chrysanthemum flower production for use in mosquito-repelling incense coils has all but ceased in Japan, the tradition has been picked up in Kenya where thousands of people are killed \u2026 [+4916 chars]",
+      "retrievedAt": "2024-05-28 07:06:44.446200",
+      "internal_id": "fb224978f9c7c9fec333a0c800974af30b5603518ec8906d67d3c2b01cd635fb",
+      "publishedAtLabel": "May 26"
+    },
     {
       "id": 9541,
       "query": [
@@ -94,6 +293,24 @@
       "publishedAtLabel": "May 26"
     },
     {
+      "id": 9552,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.com.ua",
+      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430. \u0416\u0438\u0442\u0442\u044f",
+      "title": "\u0412\u0456\u0440\u0443\u0441 \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443 \u0432\u043f\u0435\u0440\u0448\u0435 \u0432\u0438\u044f\u0432\u0438\u043b\u0438 \u0432 \u044f\u043b\u043e\u0432\u0438\u0447\u0438\u043d\u0456",
+      "description": "",
+      "url": "https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/",
+      "urlToImage": "https://imglife.pravda.com.ua/life/images/doc/3/4/62370/3457395d88ebdd2bebd86486e6aec0e2.jpeg?w=1920&q=90",
+      "publishedAt": "2024-05-26 11:30:00",
+      "content": ". . , , , , ,The New York Times. , , . H5N1 . (, ) . , , 58 ' . \", , \", , Consumer Reports. , . \" , \". , , , - , . . , , , , . \" ' \", . , , , . \" , H5N1 , \", , -. , , , .",
+      "retrievedAt": "2024-05-28 07:06:42.690970",
+      "internal_id": "050e922e59cca24332929e52e0d896c1c66dedf1be888ac65889fc23fcbfc9c1",
+      "publishedAtLabel": "May 26"
+    },
+    {
       "id": 9538,
       "query": [
         "h5n1"
@@ -146,6 +363,24 @@
       "content": "H5N1, . , . , , . , , , ., \u00ab \u00bb H5N1 (HPAI A(H5N1), highly pathogenic avian influenza), . , , . : , , SARS-CoV-2. 2024 H5N1 . -, . , , . , , . H5N1 , . FDA ( ) , () . , - , . New England Journal \u2026 [+69 chars]",
       "retrievedAt": "2024-05-27 07:06:31.198103",
       "internal_id": "d216918aebf7a60ecc4b488adf8d1c7097bc60e517e1da7f1053661b922628fb",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9551,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u039d\u03b1\u03c4\u03ac\u03c3\u03b1 \u03a3\u03c4\u03b1\u03c3\u03b9\u03bd\u03bf\u03cd",
+      "title": "\u039a\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03b5 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5\u03c2 \u03c3\u03b7\u03bc\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc: \u0398\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 H5N1 \u03b7 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b7 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1;",
+      "description": "\u03a3\u03c4\u03b9\u03c2 22 \u039c\u03b1\u0390\u03bf\u03c5, \u03c4\u03b1 \u039a\u03ad\u03bd\u03c4\u03c1\u03b1 \u0395\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03a0\u03c1\u03cc\u03bb\u03b7\u03c8\u03b7\u03c2 \u039d\u03bf\u03c3\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd \u03c4\u03b7\u03c2 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03ae\u03c2 (CDC) \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b1\u03bd \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03b7 \u03bc\u03cc\u03bb\u03c5\u03bd\u03c3\u03b7 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b9\u03cc \u03975 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd, \u03ad\u03bd\u03b1 \u03bc\u03b9\u03ba\u03c1\u03cc\u03b2\u03b9\u03bf \u03bc\u03b5 \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2\u2026 \u039a\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03b5 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5\u03c2 \u03c3\u03b7\u03bc\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc: \u0398\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u2026",
+      "url": "https://www.naftemporiki.gr/health/1670992/kroysmata-gripis-ton-ptinon-se-anthropoys-simainoyn-synagermo-tha-einai-i-h5n1-i-epomeni-pandimia/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2023/02/2023-02-15T095514Z_273477669_RC2ZAZ9AKYUQ_RTRMADP_3_HEALTH-BIRDFLU.jpg",
+      "publishedAt": "2024-05-26 05:04:44",
+      "content": "22 , (CDC) 5 , . , . . , . , , \u00ab \u00bb . , . H5N1, , , . H5N1 , 900 , . . , , Economist. 2022 51 , , , . , , . \u00ab\u00bb , H5N1 . 9 . , (FDA) 20% 51 ( ), , . , . , . , , ( ). . 22 40 H5N1\u2026 [+191 chars]",
+      "retrievedAt": "2024-05-28 07:06:42.686729",
+      "internal_id": "1ba518ec07ff1126cf3d8e5e1cc7e9c80489eb1baedc90738aa10a80eef68e72",
       "publishedAtLabel": "May 26"
     },
     {
@@ -275,6 +510,24 @@
       "publishedAtLabel": "May 25"
     },
     {
+      "id": 9553,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "Around the Web",
+      "title": "HHS set to roll out bird flu vaxes by the millions",
+      "description": "(CHILDREN'S HEALTH DEFENSE) \u2013 Federal health officials are ramping up efforts to combat what they claim is the growing threat of H5N1 bird flu with plans to produce 4.8 million vaccine doses and increase influenza surveillance nationwide. The move comes as tw\u2026",
+      "url": "https://www.wnd.com/2024/05/hhs-set-roll-bird-flu-vaxes-millions/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2021/12/pixabay-syringe-vaccine.jpg",
+      "publishedAt": "2024-05-25 16:29:15",
+      "content": "(CHILDREN'S HEALTH DEFENSE) Federal health officials are ramping up efforts to combat what they claim is the growing threat of H5N1 bird flu with plans to produce 4.8 million vaccine doses and increa\u2026 [+736 chars]",
+      "retrievedAt": "2024-05-28 07:06:42.695667",
+      "internal_id": "66edc1c0160357cdd32d1011ab4bfa4e996dfde3238354b8876544dfd9c86a62",
+      "publishedAtLabel": "May 25"
+    },
+    {
       "id": 9513,
       "query": [
         "malaria"
@@ -366,6 +619,24 @@
       "publishedAtLabel": "May 25"
     },
     {
+      "id": 9555,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1116: Clinical update with Dr. Daniel Griffin",
+      "description": "In his weekly clinical update, Dr. Griffin delves highly pathogenic H5N1 biology including its circulation in New York City, being able to infect cells within mammary glands and why testing is not supported before reviewing the recent statistics on SARS-CoV-2\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1116/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-25 04:00:00",
+      "content": "In his weekly clinical update, Dr. Griffin delves highly pathogenic H5N1 biology including its circulation in New York City, being able to infect cells within mammary glands and why testing is not su\u2026 [+1088 chars]",
+      "retrievedAt": "2024-05-28 07:06:42.705291",
+      "internal_id": "77da8634fa622e6ffce7f5cac49d124a476513db6a3bd3850052a68405b32815",
+      "publishedAtLabel": "May 25"
+    },
+    {
       "id": 9506,
       "query": [
         "dengue"
@@ -381,6 +652,24 @@
       "content": ". . , : , . , . . , . . . , . : , . . . . , .. . . . . ., . . , . .- , , - , , , , - , , , Farmer Protest: ; ' ' . . , - , .- . , . . , , . . . , , , , . , . ; . . . , , API PI </l\u2026 [+273 chars]",
       "retrievedAt": "2024-05-26 07:06:24.791911",
       "internal_id": "b06789653a3afc05c6c0f2f45f06e34eddf83d3c814c98582fa6078083e08230",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 9557,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Yahoo.co.jp",
+      "author": "\u5ffd\u90a3\u8ce2\u5fd7",
+      "title": "\u30a2\u30e1\u30ea\u30ab\u30672\u4eba\u76ee\u306e\u4e73\u725b\u304b\u3089\u306e\u30d2\u30c8\u611f\u67d3\u4f8b \u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb\u30b9A(H5N1)\u306e\u73fe\u5728\u306e\u72b6\u6cc1\uff08\u5ffd\u90a3\u8ce2\u5fd7\uff09 - \u30a8\u30ad\u30b9\u30d1\u30fc\u30c8 - Yahoo!\u30cb\u30e5\u30fc\u30b9",
+      "description": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306b\u304a\u3044\u3066\u3001\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb\u30b9A(H5N1)\u304c\u62e1\u5927\u3057\u3066\u304a\u308a\u3001\u30d2\u30c8\u3067\u306e\u611f\u67d3\u4f8b\u306f3\u4f8b\u767a\u751f\u3057\u3066\u3044\u307e\u3059\u3002\u3053\u306e\u3046\u30612\u4f8b\u306f\u4e73\u725b\u304b\u3089\u30d2\u30c8\u306b\u611f\u67d3\u3057\u305f\u3068\u8003\u3048\u3089\u308c\u308b\u4e8b\u4f8b\u3067\u3059\u3002\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8",
+      "url": "https://news.yahoo.co.jp/expert/articles/c6cd41c51e3f686390cc6be5b436ef0b5f4b1e17",
+      "urlToImage": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kutsunasatoshi/01778919/title-1716604052452.jpeg?exp=10800",
+      "publishedAt": "2024-05-25 02:37:18",
+      "content": "A(H5N1)32A(H5N1) 2019; 20: 88 ABCD4BCD A HA:haemagglutininNA:neuraminidaseH7N9, H5N1H1N1H3N2BCD A Nature Reviews Microbiology volume 17, pages6781(2019) A1918H1N1 A2009AA/H1N1pdm 2 2020 A(H5\u2026 [+208 chars]",
+      "retrievedAt": "2024-05-28 07:06:42.714572",
+      "internal_id": "12d1d11f65c18131067e0227ead4ce60e0b7a6df8f4a8cc27afef9ec65ee5aca",
       "publishedAtLabel": "May 25"
     },
     {
@@ -672,6 +961,24 @@
       "publishedAtLabel": "May 24"
     },
     {
+      "id": 9547,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "EARLY RELEASE: Outbreak of Highly Pathogenic Avian Influenza A(H5N1) Viruses in U.S. Dairy Cattle and Detection of Two Human Cases \u2014 United States, 2024",
+      "description": "This report describes the joint investigation between CDC, U.S. Department of Agriculture, and the Food and Drug Administration after influenza A (H5N1) was detected in a U.S. farm worker.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7321e1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7321e1_Outbreak-H5N1_IMAGE_24May24_1200x675.jpeg?_=11652",
+      "publishedAt": "2024-05-24 17:08:44",
+      "content": "Identification of Two Human Cases of Influenza A(H5) Virus Infection On April 1, 2024, the Texas Department of State Health Services reported, after confirmation by CDC, that a commercial dairy farm\u2026 [+12730 chars]",
+      "retrievedAt": "2024-05-28 07:06:42.668718",
+      "internal_id": "54f0a04e76107d10389424e0a1ba9210089936954d8f42d4e6490f5d7ef63c5f",
+      "publishedAtLabel": "May 24"
+    },
+    {
       "id": 9489,
       "query": [
         "dengue"
@@ -705,6 +1012,24 @@
       "content": "Mice administered raw milk samples from dairy cows infected with H5N1 influenza experienced high virus levels in their respiratory organs and lower virus levels in other vital organs, according to fi\u2026 [+3787 chars]",
       "retrievedAt": "2024-05-25 19:06:03.783740",
       "internal_id": "c90912a2f4eb416431bcde9146eb0f234f5ae822173f7528864bd1fd6d1adfde",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9550,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "CNBC",
+      "author": null,
+      "title": "Here's how U.S. health officials are responding to bird flu in humans after second case",
+      "description": "A strain of bird flu called H5N1 has been confirmed in dairy cows in nine U.S. states, along with two people.",
+      "url": "https://www.cnbc.com/2024/05/24/bird-flu-what-to-know-about-human-cases-vaccines.html",
+      "urlToImage": null,
+      "publishedAt": "2024-05-24 15:50:12",
+      "content": "Cows are seen standing in a feedlot on June 14, 2023 in Quemado, Texas. U.S. health officials are monitoring and preparing to combat bird flu in humans, even as they stress that the risk to the gene\u2026 [+8810 chars]",
+      "retrievedAt": "2024-05-28 07:06:42.682156",
+      "internal_id": "d5c8eb118fc15032ca5b1ca7c233621eb79a28b6ee1ab58b3274c4538fb95867",
       "publishedAtLabel": "May 24"
     },
     {
@@ -831,6 +1156,24 @@
       "content": ": () 800 15 20 50,000 800 () 800 450 , 350 , , , , 50 - 5 6 50 , () 1984 , 370 ? Adv: , , 55% 15 , 18 , , Explained: 60 H5N1, , \u2026 [+175 chars]",
       "retrievedAt": "2024-05-27 07:06:32.004477",
       "internal_id": "f30baf5ddbc8038364fc52fc1c379e7c663073199ac93806ec25855075fa5c07",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9544,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u092f\u094b\u0917\u0947\u0902\u0926\u094d\u0930 \u092e\u093f\u0936\u094d\u0930\u093e",
+      "title": "\u092a\u094b\u092a \u092b\u094d\u0930\u093e\u0902\u0938\u093f\u0938 15 \u0938\u093e\u0932 \u0915\u0947 \u0932\u0921\u093c\u0915\u0947 \u0915\u094b \u0926\u0947\u0902\u0917\u0947 \u0938\u0902\u0924 \u0915\u0940 \u0909\u092a\u093e\u0927\u093f, 18 \u0938\u093e\u0932 \u092a\u0939\u0932\u0947 \u0939\u094b \u091a\u0941\u0915\u0940 \u0939\u0948 \u092e\u094c\u0924, \u091c\u093e\u0928\u0947\u0902 \u092e\u093e\u092e\u0932\u093e",
+      "description": "Pope Francis Saint: \u092a\u094b\u092a \u092b\u094d\u0930\u093e\u0902\u0938\u093f\u0938 \u0928\u0947 \u090f\u0915 \u092c\u0921\u093c\u093e \u092b\u0948\u0938\u0932\u093e \u0915\u093f\u092f\u093e \u0939\u0948\u0964 \u0935\u0947\u091f\u093f\u0915\u0928 \u091c\u0932\u094d\u0926 \u0939\u0940 \u090f\u0915 \u0932\u0921\u093c\u0915\u0947 \u0915\u094b \u092e\u0930\u0923\u094b\u092a\u0930\u093e\u0902\u0924 \u0938\u0902\u0924 \u0915\u0940 \u0909\u092a\u093e\u0927\u093f \u0926\u0947 \u0938\u0915\u0924\u093e \u0939\u0948\u0964 \u092a\u094b\u092a \u0928\u0947 \u0909\u0938\u0915\u0947 \u0926\u094b \u091a\u092e\u0924\u094d\u0915\u093e\u0930\u094b\u0902 \u0915\u094b \u092e\u093e\u0928\u093e \u0939\u0948\u0964 \u0907\u0938 \u0932\u0921\u093c\u0915\u0947 \u0915\u093e \u0928\u093e\u092e \u0915\u093e\u0930\u094d\u0932\u094b \u090f\u0915\u094d\u092f\u0942\u091f\u093f\u0938 \u0939\u0948, \u091c\u093f\u0938\u0915\u0940 2006 \u092e\u0947\u0902 15 \u0938\u093e\u0932 \u0915\u0940 \u0909\u092e\u094d\u0930 \u092e\u0947\u0902 \u092e\u094c\u0924 \u0939\u094b \u0917\u0908 \u0925\u0940\u0964 \u0930\u093f\u092a\u094b\u0930\u094d\u091f \u0915\u0947 \u092e\u0941\u0924\u093e\u092c\u093f\u2026",
+      "url": "https://navbharattimes.indiatimes.com/world/rest-of-europe/carlo-acutis-pope-francis-recognized-miracle-of-teenage-boy-who-died-18-years-before-to-become-a-saint/articleshow/110399492.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-61662,msid-110399662/navbharat-times.jpg",
+      "publishedAt": "2024-05-24 12:06:51",
+      "content": ": 2006 15 (Millennial) , 1980 90 Y 2020 , , , ' 2014 , ' , (CEI) , Explained: 60 H5N1, , Adv: , , 55% , - ... ' ', ... ' ' , 3\u2026 [+235 chars]",
+      "retrievedAt": "2024-05-28 07:06:42.654366",
+      "internal_id": "d740a3c0bf4c5058c963e9efe9e6ddf28188f2dd4977da4ca8ebd5123ba59422",
       "publishedAtLabel": "May 24"
     },
     {
@@ -1014,6 +1357,24 @@
       "publishedAtLabel": "May 24"
     },
     {
+      "id": 9546,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "US Could See Spike in Bird Flu Cases After Migration Season",
+      "description": "Birds may have spread the disease while migrating for breeding season over the spring.",
+      "url": "https://www.newsweek.com/bird-flu-increase-cases-migration-sick-ill-virus-1904147",
+      "urlToImage": "https://d.newsweek.com/en/full/2398312/stock-picture-mallard-duck.jpg",
+      "publishedAt": "2024-05-24 08:11:47",
+      "content": "The U.S. could see an increase in bird flu cases as the peak of spring migration comes to an end, experts warned. Parts of the country are currently experiencing an H5N1 bird flu outbreak, with conf\u2026 [+4322 chars]",
+      "retrievedAt": "2024-05-28 07:06:42.663926",
+      "internal_id": "99e6770c3ec9b34aaff7bbeed02f5c71729e876473c434b36c481c9f0be42b2e",
+      "publishedAtLabel": "May 24"
+    },
+    {
       "id": 9519,
       "query": [
         "h5n1"
@@ -1047,6 +1408,24 @@
       "content": "10 cutest and most colourful animals found in India",
       "retrievedAt": "2024-05-27 07:06:31.953334",
       "internal_id": "687c508fe80ba0802c8ed0337f8d20107a8e94a6c78c552ca7a7e87fe1da30e1",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 9554,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.\u0420\u0443",
+      "title": "\u0412\u0440\u0430\u0447 \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0434\u0438\u043b \u043e\u0431 \u0443\u0433\u0440\u043e\u0437\u0435 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438 \u0438\u0437-\u0437\u0430 \u043a\u043e\u0440\u043e\u0432\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u0421\u0428\u0410",
+      "description": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u0435 \u0441\u043b\u0443\u0447\u0430\u0438 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043a\u043e\u0440\u043e\u0432\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u0435\u043d \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0442\u044c\u0441\u044f \u0447\u0435\u0440\u0435\u0437 \u043c\u043e\u043b\u043e\u043a\u043e.",
+      "url": "https://health.mail.ru/news/3426094-vrach-predupredil-ob-ugroze-pandemii-izza/",
+      "urlToImage": "https://health.mail.ru/sharepic/33/3426094/?1716528616",
+      "publishedAt": "2024-05-24 07:35:00",
+      "content": ". , , . \u00ab , , , , , \u00bb, . , : , , . . . H5N1 . , . : :",
+      "retrievedAt": "2024-05-28 07:06:42.700057",
+      "internal_id": "85c2172e1c1fc1d7bfcc3c9dc82718b7eb29e8909fe186fccb35fdaa31bf7dec",
       "publishedAtLabel": "May 24"
     },
     {
@@ -24316,6 +24695,114 @@
       "content": "La Seremi de la Regi\u00f3n de Valpara\u00edso confirm\u00f3 el hallazgo de un mosquito Aedes aegypti en el Terminal de Buses Ahumada de la comuna de Los Andes, lo que ha generado un llamado urgente a la acci\u00f3n por\u2026 [+1901 chars]",
       "retrievedAt": "2024-04-16 07:06:13.321002",
       "internal_id": "39339444eefc7b256d165e35edab548f00068c54f87fd57297a52c5ba632d047",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8189,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Deadline",
+      "author": "Bruce Haring",
+      "title": "L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier",
+      "description": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los Angeles County Department of Public Health said it had received\u2026",
+      "url": "http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/09/Universal-Studios-theme-park-Hollywood.jpg?w=1024",
+      "publishedAt": "2024-04-14 18:32:51",
+      "content": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los An\u2026 [+1049 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.686603",
+      "internal_id": "6754d64ecced4850f3f21b330198b32459cdf8cc6ba021f346496bd25e8bfb83",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8191,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Martina Riemlov\u00e1",
+      "title": "Argentina bojuje s vlnou hore\u010dky dengue, repelenty v zemi nejsou k sehn\u00e1n\u00ed",
+      "description": "V Argentin\u011b se \u0161\u00ed\u0159\u00ed epidemie hore\u010dky dengue, a tak v tamn\u00edch obchodech a l\u00e9k\u00e1rn\u00e1ch chyb\u00ed dostate\u010dn\u00e9 mno\u017estv\u00ed p\u0159\u00edpravk\u016f proti hmyzu. Tamn\u00ed \u00fa\u0159ady u\u017e zru\u0161ily omezen\u00ed souvisej\u00edc\u00ed s dovozem repelent\u016f, aby v zemi nav\u00fd\u0161ily nab\u00eddku. N\u011bkte\u0159\u00ed obyvatel\u00e9 si prozat\u00edm za\u010da\u2026",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2024/4/RIE80166f40ba_profimedia_0863037161.jpg",
+      "publishedAt": "2024-04-14 17:00:00",
+      "content": "Navt\u00edvili jsme nejm\u00e9n ticet l\u00e9k\u00e1ren po cel\u00e9m mst, nic u nezbylo, \u00edk\u00e1 pro agenturu AP dvaatyicetilet\u00e1 Ana Infante z hlavn\u00edho msta Buenos Aires. Chtla nakoupit repelenty pot\u00e9, co jej\u00ed spolupracovnice m\u2026 [+2955 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.449323",
+      "internal_id": "276f46d6c6aaa7f9c7f18b77d7e212406c4dacd6f9717f373c6928c6996128db",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8193,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El mapa del dengue: informan por primera vez en el a\u00f1o una tendencia en baja, con excepci\u00f3n de dos provincias",
+      "description": "Surge del ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias y en un an\u00e1lisis que las autoridades sanitarias",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-es-transmitido-por-la-S3JPAWMYHRDENE6Q76GQSY2MO4.jpg?auth=ea273d9864dfb28806178bede17b6b98a393721aefc196f023cbc6d6eca84657&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-14 16:08:20",
+      "content": "El avance de la epidemia de dengue en las 19 provincias con circulaci\u00f3n viral estar\u00eda tendiendo a desacelerarse, de acuerdo con el ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias\u2026 [+2630 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.545411",
+      "internal_id": "98a2d21fa90f6d15b4ada2e8bad569b674137707859c0d40e1fa86c82bcadea1",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8192,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Arreguy",
+      "title": "SP chega a 285 mortes por dengue e 573 mil casos da doen\u00e7a",
+      "description": "Capital concentra mortes por dengue no estado, com 39 \u00f3bitos, seguida de Guarulhos, na Grande SP, com 26, e Jacare\u00ed, no interior, com 20",
+      "url": "https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
+      "publishedAt": "2024-04-14 15:48:07",
+      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo chegou a 285 mortes por dengue neste domingo (14/4), e investiga 605 outros \u00f3bitos em decorr\u00eancia da doen\u00e7a. As informa\u00e7\u00f5es constam no painel de monitoramento da Secre\u2026 [+6245 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.456240",
+      "internal_id": "6c2c17696af3df5a2356e199353c2a2aa8edcd88a1eb20193c3659a959247c76",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8190,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Alessia Dunn",
+      "title": "Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger",
+      "description": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. When guests visit a theme park, it is impossible to think that you will not come into contact with germs. At \u2026",
+      "url": "https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Universal-Hollywood.jpg",
+      "publishedAt": "2024-04-14 14:29:45",
+      "content": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. Credit: Universal Studios When guests visit a t\u2026 [+4444 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.714627",
+      "internal_id": "4b63de4a1f2879f2231802882676a41b3a9a477fc46ba131faf2e2cee5fb374b",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8188,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Alarming Measles Outbreaks Surge Across Europe And Central Asia",
+      "description": "While focus in the U.S. has been on rising numbers of measles cases domestically, it\u2019s Europe and Central Asia where the situation is at crisis level.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661bbf0650e753f1cc011c18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-14 13:13:47",
+      "content": "Little girl with measles. getty After surging at the end of last year, measles outbreaks across Europe and Central Asia intensified in the first quarter of 2024, with incidence rates of up to hundr\u2026 [+6945 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.673594",
+      "internal_id": "bbbf1402efba99042fd00b5c3e3c92fffbbd7087b18b96f84e7fbe35ce307cf7",
       "publishedAtLabel": "Apr 14"
     }
   ]
