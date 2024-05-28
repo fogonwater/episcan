@@ -1,8 +1,261 @@
 {
-  "last_updated": "2024-05-28 07:06",
-  "count_articles_total": 1374,
-  "count_articles_new": 21,
+  "last_updated": "2024-05-28 19:05",
+  "count_articles_total": 1382,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 9573,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di Dengue a Trieste, 13enne era rientrata da una crociera",
+      "description": "Il caso di febbre Dengue accertato a Trieste riguarda una 13enne rientrata da una crociera ai Caraibi con un volo di linea. La ragazzina era in viaggio con i genitori, risultati negativi. Lo riferisce la Tgr Rai del Fvg. (ANSA)",
+      "url": "https://www.ansa.it/friuliveneziagiulia/notizie/2024/05/27/caso-di-dengue-a-trieste-13enne-era-rientrata-da-una-crociera_fcd49df0-88f3-4de8-baf4-770f0d12d46e.html",
+      "urlToImage": "https://www.ansa.it",
+      "publishedAt": "2024-05-27 18:09:54",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-05-28 19:05:53.827722",
+      "internal_id": "1b7e236d49455221bc5e307781400449cb5d1b31f1a029e11c1da9b14a96095d",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9576,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Npress.gr",
+      "author": "Sotiris",
+      "title": "\u0391\u03bd\u03ae\u03c3\u03c5\u03c7\u03bf\u03c2 \u03bf \u03a3\u03c9\u03c4\u03ae\u03c1\u03b7\u03c2 \u03a4\u03c3\u03b9\u03cc\u03b4\u03c1\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ad\u03be\u03b1\u03c1\u03c3\u03b7 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u03b4\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf \u03c0\u03c5\u03c1\u03b5\u03c4\u03cc \u2013 npress.gr",
+      "description": "\u0391\u03c5\u03be\u03b7\u03bc\u03ad\u03bd\u03bf\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bc\u03ad\u03bd\u03b5\u03b9 \u03bf \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf\u03c2 \u03b3\u03b9\u03b1 \u0394\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf \u03c0\u03c5\u03c1\u03b5\u03c4\u03cc \u03c3\u03b5 \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03ce\u03c4\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03b7\u03b3\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03c3\u03b5 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03bd\u03b4\u03b7\u03bc\u03b5\u03af \u03b7 \u03bd\u03cc\u03c3\u03bf\u03c2, \u03c0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03b5\u03af \u03bf \u0395\u03b8\u03bd\u03b9\u03ba\u03cc\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u0394\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2. \u039f \u0395\u039f\u0394\u03a5 \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03ce\u03bd\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03b5\u03af \u03b3\u03b9\u03b1 \u03b1\u03c5",
+      "url": "https://www.npress.gr/health/anisychos-o-sotiris-tsiodras-gia-tin-ex/",
+      "urlToImage": "https://www.npress.gr/wp-content/uploads/2020/04/tsiodras-gantia.jpg",
+      "publishedAt": "2024-05-27 17:59:53",
+      "content": ", . Chikungunya Zika Aedes ( Aedes aegypti -- Aedes albopictus). . , , . E 100 , - , , , , . . \u00ab \u00bb , . 450% \u00ab , , . \u00bb . 5 , . , 450% . , , 1927-28, . , 250% . , , , , . ,\u2026 [+22 chars]",
+      "retrievedAt": "2024-05-28 19:05:54.662055",
+      "internal_id": "560c3798b5bedddda74545f844438b5d47f166454374949481b12de97f6579f1",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9564,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KFSN-TV",
+      "author": null,
+      "title": "Passenger on United flight to Fresno had measles, officials confirm",
+      "description": "A passenger on a flight to Fresno was confirmed to be traveling with measles, according to LA County health officials.",
+      "url": "https://abc30.com/post/passenger-united-flight-fresno-measles-officials-confirm/14878374/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14534254_031624-kfsn-8p-measles-vid.jpg?w=1600",
+      "publishedAt": "2024-05-27 17:45:02",
+      "content": "FRESNO, Calif. (KFSN) -- A passenger on a flight to Fresno was confirmed to be traveling with measles, according to LA County health officials. The traveler was United Flight 5591, which left Los An\u2026 [+816 chars]",
+      "retrievedAt": "2024-05-28 19:05:51.806633",
+      "internal_id": "fd3fb7c2eae49aa7224883ed42c75ac15c71c36a46a2a67bdd2ba2166d1114c6",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9566,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Carol Clark",
+      "title": "US dairy cows are tip of the iceberg as bird flu spreads in mammals globally, says ecologist",
+      "description": "Health authorities are working to gather information on the spread of the H5N1 virus, or bird flu, in U.S. dairy cows\u2014the first confirmation of the virus in cattle.",
+      "url": "https://phys.org/news/2024-05-dairy-cows-iceberg-bird-flu.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/dairy-cows-1.jpg",
+      "publishedAt": "2024-05-27 17:44:03",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+4491 chars]",
+      "retrievedAt": "2024-05-28 19:05:53.000637",
+      "internal_id": "10bc925d093abbebed244a53aa4e703014cb5c6e3be2afb0cf08dbbfba3ab483",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9569,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Sa\u00fade em Dia",
+      "title": "Dengue pode causar queda de cabelo. Entenda como o problema acontece",
+      "description": "Assim como na Covid-19, pacientes que tiveram dengue podem sofrer queda de cabelo, o que pode envolver a perda de at\u00e9 um ter\u00e7o dos fios",
+      "url": "https://www.metropoles.com/saude/dengue-pode-causar-queda-de-cabelo",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2021/06/29150559/Queda-de-cabelo_2.jpg",
+      "publishedAt": "2024-05-27 16:35:03",
+      "content": "Mais de 4 milh\u00f5es de pessoas se contaminaram pelo v\u00edrus da dengue no Brasil em 2024. O n\u00famero representa o maior surto da doen\u00e7a no pa\u00eds, que causa uma s\u00e9rie de sintomas relacionados ao estresse fisi\u2026 [+1528 chars]",
+      "retrievedAt": "2024-05-28 19:05:53.776989",
+      "internal_id": "ce1d248877694f8e537bde444a00cf6ba873cd3ebc6c7d571b5328c22b570e57",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9567,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ferra.ru",
+      "author": "\u0412\u0430\u043b\u0435\u0440\u0438\u044f \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0430",
+      "title": "\u0420\u0430\u0441\u043a\u0440\u044b\u0442\u043e, \u0447\u0435\u043c \u043e\u043f\u0430\u0441\u043d\u043e \u0434\u043b\u044f \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0441\u044b\u0440\u043e\u0435 \u043c\u043e\u043b\u043e\u043a\u043e",
+      "description": "\u0411\u043e\u043b\u0435\u0435 \u0440\u0430\u043d\u043d\u0438\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0438, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u043e\u043f\u0430\u0434\u0430\u0435\u0442 \u0432 \u043c\u043e\u043b\u043e\u043a\u043e \u0434\u043e\u0439\u043d\u044b\u0445 \u043a\u043e\u0440\u043e\u0432. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c \u0435\u0433\u043e \u0433\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b \u043e\u0441\u0442\u0430\u0451\u0442\u0441\u044f \u0432 \u043c\u043e\u043b\u043e\u043a\u0435 \u0434\u0430\u0436\u0435 \u043f\u043e\u0441\u043b\u0435 \u043f\u0430\u0441\u0442\u0435\u0440\u0438\u0437\u0430\u0446\u0438\u0438. \u041d\u043e\u0432\u0430\u044f \u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 \u043f\u0440\u043e\u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043b\u0430, \u0447\u0442\u043e \u0435\u0441\u043b\u0438 \u0432\u044b\u043f\u0438\u0442\u044c \u043c\u043e\u043b\u043e\u043a\u043e \u0437\u0430\u0440\u0430\u0436\u0451\u043d\u043d\u043e\u0439 \u043a\u043e\u0440\u043e\u0432\u044b, \u0442\u043e \u043c\u2026",
+      "url": "https://www.ferra.ru/news/health/raskryto-chem-opasno-dlya-zdorovya-syroe-moloko-27-05-2024.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2024/05/27/13/6481538/cef830bd25ca30ed10f2ba8bff5707ac21012515.jpg",
+      "publishedAt": "2024-05-27 16:30:00",
+      "content": ". , H5N1. , , . , ( ) . New England Journal of Medicine.",
+      "retrievedAt": "2024-05-28 19:05:53.034621",
+      "internal_id": "9430f78235443c5e141178f117954df54bf6ef0106f7c726c8aac495b1fe5baf",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9575,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Edwin Caicedo",
+      "title": "Cu\u00e1les son los cinco tipos de hepatitis: sus s\u00edntomas, c\u00f3mo se transmite y c\u00f3mo cuidar el h\u00edgado",
+      "description": "Seg\u00fan la OMS, a 2040 la hepatitis podr\u00eda matar a m\u00e1s personas que la malaria, la tuberculosis y el VIH juntos",
+      "url": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/cuales-son-los-cinco-tipos-de-hepatitis-sus-sintomas-como-se-transmite-y-como-cuidar-el-higado-nid27052024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/para-enfrentar-la-hepatitis-es-clave-mantener-al-Z74WJ5UIW5GARI6JJPOLXDNUUQ.jpg?auth=0ccc5b16c968c9e466a569cc881fda642b5e57ebadc491878941e323549f3f37&width=768&quality=70&smart=false",
+      "publishedAt": "2024-05-27 15:14:27",
+      "content": "La enfermedad suele ser silenciosa, pues la mayor\u00eda de pacientes no presentan ning\u00fan s\u00edntoma y parecen sanos, porque el virus est\u00e1 completamente adaptado al organismo y no ha da\u00f1ado el h\u00edgado. Lo m\u00e1s\u2026 [+3217 chars]",
+      "retrievedAt": "2024-05-28 19:05:54.316907",
+      "internal_id": "f58862a78afa33bde56a9b886d173829ce3fc2e87376eaa9fc310eb53cfc6e1e",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9571,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Accertato un caso di Dengue a Trieste, al via la disinfestazione",
+      "description": "Un caso di febbre Dengue \u00e8 stato accertato a Trieste dal Dipartimento di prevenzione dell'Azienda sanitaria universitaria giuliano isontina. (ANSA)",
+      "url": "https://www.ansa.it/friuliveneziagiulia/notizie/2024/05/27/accertato-un-caso-di-dengue-a-trieste-al-via-la-disinfestazione_d851df2f-f4ae-4b80-9b92-75c3847f5f3d.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/30/eed15edca9a3fd846b89774e299fe68f.jpg",
+      "publishedAt": "2024-05-27 15:06:28",
+      "content": "Un caso di febbre Dengue \u00e8 stato accertato a Trieste dal Dipartimento di prevenzione dell'Azienda sanitaria universitaria giuliano isontina. Lo rende noto il Comune di Trieste, annunciando che que\u2026 [+1706 chars]",
+      "retrievedAt": "2024-05-28 19:05:53.815966",
+      "internal_id": "4a4445f9f32ddbd3b46ff68c168c61051a46e42f49a73e37b3c580edada80dec",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9565,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KTLA Los Angeles",
+      "author": "Will Conybeare",
+      "title": "Person with measles had a connecting flight at LAX, health department says",
+      "description": "The Los Angeles County Department of Public Health says a non-Los Angeles County resident with a confirmed case of measles had a connecting flight at LAX earlier this month. Now, officials are warning anyone who may have been at the airport on May 19 to check\u2026",
+      "url": "https://ktla.com/news/local-news/person-with-measles-had-a-connecting-flight-at-lax-health-department-says/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2020/03/lax.jpg?w=1280",
+      "publishedAt": "2024-05-27 15:06:04",
+      "content": "The Los Angeles County Department of Public Health says a non-Los Angeles County resident with a confirmed case of measles had a connecting flight at LAX earlier this month. Now, officials are warnin\u2026 [+3412 chars]",
+      "retrievedAt": "2024-05-28 19:05:51.814539",
+      "internal_id": "b15131502ebdfc2cef4c6a1cc799a8d6fea411989690bd1a9f0512691b61ad90",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9574,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Genetic tests that foretell what might pass from mother to child",
+      "description": "Prenatal tests help identify genetic conditions in pregnancy through screening and diagnostic tests, including carrier screening for diseases like sickle cell disease. Genetic counselling offers support and guidance for families, led by experts like Dr. Talat\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/genetic-tests-that-foretell-what-might-pass-from-mother-to-child/articleshow/110471563.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-110471518,width-1070,height-580,imgsize-643918,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-27 15:02:33",
+      "content": "How to handle malaria during pregnancy",
+      "retrievedAt": "2024-05-28 19:05:54.308521",
+      "internal_id": "fdec2eeb66c37025ab6a44047d5928e32b890e35ae681878db3255f6626ce092",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9570,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Sa\u00fade em Dia",
+      "title": "Dengue: infec\u00e7\u00e3o pode levar a queda de cabelo",
+      "description": "Assim como na Covid-19, pacientes que tiveram dengue podem sofrer queda de cabelo, o que pode envolver a perda de at\u00e9 um ter\u00e7o dos fios",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-infeccao-pode-levar-a-queda-de-cabelo,af0078bb0941cb13523bfb2e571bf6e2p7xxel13.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/27/1824817898-queda-de-cabelo-x-dengue.jpg",
+      "publishedAt": "2024-05-27 14:57:14",
+      "content": "Mais de 4 milh\u00f5es de pessoas se contaminaram pelo v\u00edrus da dengue no Brasil em 2024. Esse representa o maior surto da doen\u00e7a no pa\u00eds, que causa uma s\u00e9rie de sintomas relacionados ao estresse fisiol\u00f3g\u2026 [+4122 chars]",
+      "retrievedAt": "2024-05-28 19:05:53.798321",
+      "internal_id": "2039b2130c5b9996ab0c3984786151af5f65974266b11317f413a9fd402bd1da",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9568,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Seznam.cz",
+      "author": null,
+      "title": "USA, Kanada i Evropa sh\u00e1n\u011bj\u00ed vakc\u00ednu proti nov\u00e9 variant\u011b pta\u010d\u00ed ch\u0159ipky",
+      "description": "Spojen\u00e9 st\u00e1ty, Kanada a evropsk\u00e9 zdravotnick\u00e9 \u00fa\u0159ady objedn\u00e1vaj\u00ed novou vakc\u00ednu proti podtypu pta\u010d\u00ed ch\u0159ipky H5N1 nebo podnikaj\u00ed kroky k vlastn\u00ed v\u00fdrob\u011b t\u00e9to l\u00e1tky. Nov\u00e1 varianta viru se \u0161\u00ed\u0159\u00ed i mezi savci, nej\u010dast\u011bji mezi dobytkem. Vakc\u00edna by mohla poslou\u017eit k oc\u2026",
+      "url": "https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https:%2F%2Fwww.novinky.cz%2Fclanek%2Fzahranicni-svet-usa-kanada-i-evropa-shaneji-vakcinu-proti-nove-variante-ptaci-chripky-40473587%3Fcwreturn%3D1",
+      "urlToImage": null,
+      "publishedAt": "2024-05-27 14:17:45",
+      "content": "Dolo k chyb pi na\u00edt\u00e1n\u00ed skriptu na t\u00e9to str\u00e1nce. Tato chyba me b\u00fdt zpsobena pouit\u00edm roz\u00eden\u00ed prohl\u00edee nebo blok\u00e1tor, kter\u00e9 mohou ovlivnit na\u00edt\u00e1n\u00ed str\u00e1nky. Pro spr\u00e1vnou funknost str\u00e1nky pros\u00edme, deakti\u2026 [+275 chars]",
+      "retrievedAt": "2024-05-28 19:05:53.130208",
+      "internal_id": "8fd59d22189d00992498fe8675376904f20db3ae5c4e5450cfa8e05b339f83ee",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9563,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Clare  Roth",
+      "title": "El misterioso aumento de los casos de tos ferina",
+      "description": "En Estados Unidos y Europa se est\u00e1 registrando un alza en los contagios por tos convulsiva o pertusis. Los expertos aseguran que las razones a\u00fan no est\u00e1n muy claras. En el invierno de 2023, expertos sanitarios de toda Europa empezaron a notar que estaba pasan\u2026",
+      "url": "https://www.dw.com/es/el-misterioso-aumento-de-los-casos-de-tos-ferina/a-69188517",
+      "urlToImage": "https://static.dw.com/image/69164902_6.jpg",
+      "publishedAt": "2024-05-27 13:54:00",
+      "content": "En el invierno de 2023, expertos sanitarios de toda Europa empezaron a notar que estaba pasando algo raro. Los casos de tos ferina, tambi\u00e9n conocida como pertussis o tos convulsiva, estaban aumentand\u2026 [+4236 chars]",
+      "retrievedAt": "2024-05-28 19:05:51.027610",
+      "internal_id": "3952732a70e336c0a7148b333ad81e50c107a2b9cb3c3f3791b9fbd84ae4286a",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9572,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue, al via la vaccinazione nella Asl di Oristano",
+      "description": "Alla Asl 5 di Oristano al via la vaccinazione per la Dengue. Il Dipartimento di Igiene e Prevenzione Sanitaria, diretto da Maria Valentina Marras, in campo anche per prevenire il contagio dal nuovo virus tramesso dalla zanzara. (ANSA)",
+      "url": "https://www.ansa.it/sardegna/notizie/2024/05/27/dengue-al-via-la-vaccinazione-nella-asl-di-oristano_604c268a-2c5b-4fa0-beea-88b2847cc9ea.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2018/6/22/ded9844ee752cd4669ab5a84f8f7412f.jpg",
+      "publishedAt": "2024-05-27 09:36:20",
+      "content": "Alla Asl 5 di Oristano al via la vaccinazione per la Dengue. Il Dipartimento di Igiene e Prevenzione Sanitaria, diretto da Maria Valentina Marras, in campo anche per prevenire il contagio dal nuov\u2026 [+1573 chars]",
+      "retrievedAt": "2024-05-28 19:05:53.820104",
+      "internal_id": "9fb6a66f553c6088cc6cec8e1c686d42e9af55b17b96d8f9ab1d418efc0f1ffb",
+      "publishedAtLabel": "May 27"
+    },
     {
       "id": 9556,
       "query": [
@@ -24695,114 +24948,6 @@
       "content": "La Seremi de la Regi\u00f3n de Valpara\u00edso confirm\u00f3 el hallazgo de un mosquito Aedes aegypti en el Terminal de Buses Ahumada de la comuna de Los Andes, lo que ha generado un llamado urgente a la acci\u00f3n por\u2026 [+1901 chars]",
       "retrievedAt": "2024-04-16 07:06:13.321002",
       "internal_id": "39339444eefc7b256d165e35edab548f00068c54f87fd57297a52c5ba632d047",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8189,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Deadline",
-      "author": "Bruce Haring",
-      "title": "L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier",
-      "description": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los Angeles County Department of Public Health said it had received\u2026",
-      "url": "http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2023/09/Universal-Studios-theme-park-Hollywood.jpg?w=1024",
-      "publishedAt": "2024-04-14 18:32:51",
-      "content": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los An\u2026 [+1049 chars]",
-      "retrievedAt": "2024-04-15 19:05:56.686603",
-      "internal_id": "6754d64ecced4850f3f21b330198b32459cdf8cc6ba021f346496bd25e8bfb83",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8191,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Idnes.cz",
-      "author": "Martina Riemlov\u00e1",
-      "title": "Argentina bojuje s vlnou hore\u010dky dengue, repelenty v zemi nejsou k sehn\u00e1n\u00ed",
-      "description": "V Argentin\u011b se \u0161\u00ed\u0159\u00ed epidemie hore\u010dky dengue, a tak v tamn\u00edch obchodech a l\u00e9k\u00e1rn\u00e1ch chyb\u00ed dostate\u010dn\u00e9 mno\u017estv\u00ed p\u0159\u00edpravk\u016f proti hmyzu. Tamn\u00ed \u00fa\u0159ady u\u017e zru\u0161ily omezen\u00ed souvisej\u00edc\u00ed s dovozem repelent\u016f, aby v zemi nav\u00fd\u0161ily nab\u00eddku. N\u011bkte\u0159\u00ed obyvatel\u00e9 si prozat\u00edm za\u010da\u2026",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie",
-      "urlToImage": "https://1gr.cz/tempimg/fb/2024/4/RIE80166f40ba_profimedia_0863037161.jpg",
-      "publishedAt": "2024-04-14 17:00:00",
-      "content": "Navt\u00edvili jsme nejm\u00e9n ticet l\u00e9k\u00e1ren po cel\u00e9m mst, nic u nezbylo, \u00edk\u00e1 pro agenturu AP dvaatyicetilet\u00e1 Ana Infante z hlavn\u00edho msta Buenos Aires. Chtla nakoupit repelenty pot\u00e9, co jej\u00ed spolupracovnice m\u2026 [+2955 chars]",
-      "retrievedAt": "2024-04-15 19:05:57.449323",
-      "internal_id": "276f46d6c6aaa7f9c7f18b77d7e212406c4dacd6f9717f373c6928c6996128db",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8193,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "El mapa del dengue: informan por primera vez en el a\u00f1o una tendencia en baja, con excepci\u00f3n de dos provincias",
-      "description": "Surge del ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias y en un an\u00e1lisis que las autoridades sanitarias",
-      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-es-transmitido-por-la-S3JPAWMYHRDENE6Q76GQSY2MO4.jpg?auth=ea273d9864dfb28806178bede17b6b98a393721aefc196f023cbc6d6eca84657&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-14 16:08:20",
-      "content": "El avance de la epidemia de dengue en las 19 provincias con circulaci\u00f3n viral estar\u00eda tendiendo a desacelerarse, de acuerdo con el ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias\u2026 [+2630 chars]",
-      "retrievedAt": "2024-04-15 19:05:57.545411",
-      "internal_id": "98a2d21fa90f6d15b4ada2e8bad569b674137707859c0d40e1fa86c82bcadea1",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8192,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Juliana Arreguy",
-      "title": "SP chega a 285 mortes por dengue e 573 mil casos da doen\u00e7a",
-      "description": "Capital concentra mortes por dengue no estado, com 39 \u00f3bitos, seguida de Guarulhos, na Grande SP, com 26, e Jacare\u00ed, no interior, com 20",
-      "url": "https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
-      "publishedAt": "2024-04-14 15:48:07",
-      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo chegou a 285 mortes por dengue neste domingo (14/4), e investiga 605 outros \u00f3bitos em decorr\u00eancia da doen\u00e7a. As informa\u00e7\u00f5es constam no painel de monitoramento da Secre\u2026 [+6245 chars]",
-      "retrievedAt": "2024-04-15 19:05:57.456240",
-      "internal_id": "6c2c17696af3df5a2356e199353c2a2aa8edcd88a1eb20193c3659a959247c76",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8190,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Alessia Dunn",
-      "title": "Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger",
-      "description": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. When guests visit a theme park, it is impossible to think that you will not come into contact with germs. At \u2026",
-      "url": "https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Universal-Hollywood.jpg",
-      "publishedAt": "2024-04-14 14:29:45",
-      "content": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. Credit: Universal Studios When guests visit a t\u2026 [+4444 chars]",
-      "retrievedAt": "2024-04-15 19:05:56.714627",
-      "internal_id": "4b63de4a1f2879f2231802882676a41b3a9a477fc46ba131faf2e2cee5fb374b",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8188,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
-      "title": "Alarming Measles Outbreaks Surge Across Europe And Central Asia",
-      "description": "While focus in the U.S. has been on rising numbers of measles cases domestically, it\u2019s Europe and Central Asia where the situation is at crisis level.",
-      "url": "https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661bbf0650e753f1cc011c18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-04-14 13:13:47",
-      "content": "Little girl with measles. getty After surging at the end of last year, measles outbreaks across Europe and Central Asia intensified in the first quarter of 2024, with incidence rates of up to hundr\u2026 [+6945 chars]",
-      "retrievedAt": "2024-04-15 19:05:56.673594",
-      "internal_id": "bbbf1402efba99042fd00b5c3e3c92fffbbd7087b18b96f84e7fbe35ce307cf7",
       "publishedAtLabel": "Apr 14"
     }
   ]

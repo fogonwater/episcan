@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2024-05-28 07:06
-- **Most recent article:** 2024-05-27 07:02:37
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-05-28 19:05
+- **Most recent article:** 2024-05-27 18:09:54
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 111 | 117 | 77 | 57 | 87 | 58 | 5 | 512 |
-| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 12 | 227 |
-| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 2 | 192 |
-| measles | 39 | 28 | 24 | 10 | 29 | 15 | 1 | 146 |
+| dengue | 108 | 117 | 77 | 57 | 87 | 58 | 10 | 514 |
+| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 15 | 230 |
+| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 4 | 194 |
+| measles | 36 | 28 | 24 | 10 | 29 | 15 | 3 | 145 |
 | mpox | 13 | 8 | 36 | 3 | 10 | 9 | 1 | 80 |
 | meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 0 | 70 |
 | rabies | 3 | 3 | 4 | 22 | 10 | 8 | 1 | 51 |
-| chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 0 | 37 |
-| zika | 8 | 3 | 8 | 2 | 6 | 3 | 1 | 31 |
-| pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 0 | 30 |
+| chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 1 | 38 |
+| zika | 8 | 3 | 8 | 2 | 6 | 3 | 2 | 32 |
+| pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 1 | 31 |
 | sarampión | 0 | 10 | 8 | 1 | 0 | 0 | 0 | 19 |
 | hpai | 0 | 0 | 0 | 4 | 3 | 7 | 1 | 15 |
 | yersinia | 2 | 0 | 5 | 1 | 0 | 6 | 0 | 14 |
@@ -35,11 +35,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (zika)
 
+- [Ανήσυχος ο Σωτήρης Τσιόδρας για την έξαρση κρουσμάτων στο δάγκειο πυρετό – npress.gr](https://www.npress.gr/health/anisychos-o-sotiris-tsiodras-gia-tin-ex/) (Npress.gr)
+
 - [Myggens återkomst](https://www.aftonbladet.se/podcasts/ab/episode/370224) (Aftonbladet.se)
 
 ## 24-22 (rabies)
 
 - [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
+
+## 24-22 (pertussis)
+
+- [El misterioso aumento de los casos de tos ferina](https://www.dw.com/es/el-misterioso-aumento-de-los-casos-de-tos-ferina/a-69188517) (DW (English))
 
 ## 24-22 (mpox)
 
@@ -47,9 +53,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (measles)
 
+- [Passenger on United flight to Fresno had measles, officials confirm](https://abc30.com/post/passenger-united-flight-fresno-measles-officials-confirm/14878374/) (KFSN-TV)
+
+- [Person with measles had a connecting flight at LAX, health department says](https://ktla.com/news/local-news/person-with-measles-had-a-connecting-flight-at-lax-health-department-says/) (KTLA Los Angeles)
+
 - [Infectious person with measles traveled through LAX, health officials warn](https://abc7.com/post/infectious-person-measles-traveled-lax-health-officials-warn/14876506/) (KABC-TV)
 
 ## 24-22 (malaria)
+
+- [Cuáles son los cinco tipos de hepatitis: sus síntomas, cómo se transmite y cómo cuidar el hígado](https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/cuales-son-los-cinco-tipos-de-hepatitis-sus-sintomas-como-se-transmite-y-como-cuidar-el-higado-nid27052024/) (La Nacion)
+
+- [Genetic tests that foretell what might pass from mother to child](https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/genetic-tests-that-foretell-what-might-pass-from-mother-to-child/articleshow/110471563.cms) (The Times of India)
 
 - [Japanese mosquito coils taking bite out of malaria in Kenya](https://japantoday.com/category/business/feature-japanese-mosquito-coils-taking-bite-out-of-malaria-in-kenya) (Japan Today)
 
@@ -64,6 +78,12 @@ Source: [News API](https://newsapi.org/)
 - [Мыши заболели птичьим гриппом, выпив сырого молока](https://naked-science.ru/article/medicine/bird-flu-in-milk) (Naked-science.ru)
 
 ## 24-22 (h5n1)
+
+- [US dairy cows are tip of the iceberg as bird flu spreads in mammals globally, says ecologist](https://phys.org/news/2024-05-dairy-cows-iceberg-bird-flu.html) (Phys.Org)
+
+- [Раскрыто, чем опасно для здоровья сырое молоко](https://www.ferra.ru/news/health/raskryto-chem-opasno-dlya-zdorovya-syroe-moloko-27-05-2024.htm) (Ferra.ru)
+
+- [USA, Kanada i Evropa shánějí vakcínu proti nové variantě ptačí chřipky](https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https:%2F%2Fwww.novinky.cz%2Fclanek%2Fzahranicni-svet-usa-kanada-i-evropa-shaneji-vakcinu-proti-nove-variante-ptaci-chripky-40473587%3Fcwreturn%3D1) (Seznam.cz)
 
 - [鳥インフルに感染した牛の乳でマウスが感染 熱処理でウイルス激減](https://news.livedoor.com/article/detail/26485830/) (Livedoor.com)
 
@@ -91,6 +111,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (dengue)
 
+- [Caso di Dengue a Trieste, 13enne era rientrata da una crociera](https://www.ansa.it/friuliveneziagiulia/notizie/2024/05/27/caso-di-dengue-a-trieste-13enne-era-rientrata-da-una-crociera_fcd49df0-88f3-4de8-baf4-770f0d12d46e.html) (ANSA.it)
+
+- [Dengue pode causar queda de cabelo. Entenda como o problema acontece](https://www.metropoles.com/saude/dengue-pode-causar-queda-de-cabelo) (Metropoles.com)
+
+- [Accertato un caso di Dengue a Trieste, al via la disinfestazione](https://www.ansa.it/friuliveneziagiulia/notizie/2024/05/27/accertato-un-caso-di-dengue-a-trieste-al-via-la-disinfestazione_d851df2f-f4ae-4b80-9b92-75c3847f5f3d.html) (ANSA.it)
+
+- [Dengue: infecção pode levar a queda de cabelo](https://www.terra.com.br/vida-e-estilo/saude/dengue-infeccao-pode-levar-a-queda-de-cabelo,af0078bb0941cb13523bfb2e571bf6e2p7xxel13.html) (Terra.com.br)
+
+- [Dengue, al via la vaccinazione nella Asl di Oristano](https://www.ansa.it/sardegna/notizie/2024/05/27/dengue-al-via-la-vaccinazione-nella-asl-di-oristano_604c268a-2c5b-4fa0-beea-88b2847cc9ea.html) (ANSA.it)
+
 - [DF: quase 30% das mortes por dengue são de idosos com 80 anos ou mais](https://www.metropoles.com/distrito-federal/df-quase-30-das-mortes-por-dengue-sao-de-idosos-com-80-anos-ou-mais) (Metropoles.com)
 
 - [Myggens återkomst](https://www.aftonbladet.se/podcasts/ab/episode/370224) (Aftonbladet.se)
@@ -100,6 +130,10 @@ Source: [News API](https://newsapi.org/)
 - [Palike bats for ‘dry day’ to fight mosquitoes](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-intensifies-mosquito-control-spraying-activities-in-bengaluru/articleshow/110446527.cms) (The Times of India)
 
 - [Se quintuplican casos de dengue en un año, alerta Ssa](https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc) (Jornada.com.mx)
+
+## 24-22 (chikungunya)
+
+- [Ανήσυχος ο Σωτήρης Τσιόδρας για την έξαρση κρουσμάτων στο δάγκειο πυρετό – npress.gr](https://www.npress.gr/health/anisychos-o-sotiris-tsiodras-gia-tin-ex/) (Npress.gr)
 
 ## 24-21 (zika)
 
@@ -2779,12 +2813,6 @@ Source: [News API](https://newsapi.org/)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
-- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
-
-- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
-
-- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
-
 ## 24-16 (malaria)
 
 - [Xewa Sowé Center for Orphans / Corentin Dalon + Arianna Fabrizi De Biani + Doryan Kuschner + Florian Mahieu](https://www.archdaily.com/1015819/xewa-sowe-center-for-orphans-corentin-dalon-plus-arianna-fabrizi-de-biani-plus-doryan-kuschner-plus-florian-mahieu) (ArchDaily)
@@ -3070,12 +3098,6 @@ Source: [News API](https://newsapi.org/)
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
 - [Alerta sanitaria: Confirman hallazgo de mosquito transmisor del dengue en terminal de buses de Los Andes](https://www.cnnchile.com/pais/alerta-sanitaria-hallazgo-mosquito-dengue-terminal-los-andes_20240414/) (Cnnchile.com)
-
-- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
-
-- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
-
-- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 ## 24-16 (chikungunya)
 
