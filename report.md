@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-05-29 07:06
-- **Most recent article:** 2024-05-28 06:51:17
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-05-29 19:05
+- **Most recent article:** 2024-05-28 18:28:41
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 111 | 117 | 77 | 57 | 87 | 58 | 12 | 519 |
-| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 17 | 232 |
-| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 6 | 196 |
-| measles | 39 | 28 | 24 | 10 | 29 | 15 | 5 | 150 |
-| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 1 | 80 |
+| dengue | 108 | 117 | 77 | 57 | 87 | 58 | 18 | 522 |
+| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 22 | 237 |
+| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 8 | 198 |
+| measles | 36 | 28 | 24 | 10 | 29 | 15 | 5 | 147 |
+| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 3 | 82 |
 | meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 0 | 70 |
 | rabies | 3 | 3 | 4 | 22 | 10 | 8 | 1 | 51 |
 | chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 2 | 39 |
+| pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 2 | 32 |
 | zika | 8 | 3 | 8 | 2 | 6 | 3 | 2 | 32 |
-| pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 1 | 31 |
 | sarampión | 0 | 10 | 8 | 1 | 0 | 0 | 0 | 19 |
 | hpai | 0 | 0 | 0 | 4 | 3 | 7 | 1 | 15 |
+| leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 2 | 14 |
 | yersinia | 2 | 0 | 5 | 1 | 0 | 6 | 0 | 14 |
-| leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 1 | 13 |
 | typhoid | 2 | 0 | 0 | 3 | 2 | 0 | 0 | 7 |
 
 
@@ -45,9 +45,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (pertussis)
 
+- [Correspondence: Prenatal pertussis vaccine change from July 2024 letter](https://www.gov.uk/government/publications/prenatal-pertussis-vaccine-change-from-july-2024-letter) (Www.gov.uk)
+
 - [El misterioso aumento de los casos de tos ferina](https://www.dw.com/es/el-misterioso-aumento-de-los-casos-de-tos-ferina/a-69188517) (DW (English))
 
 ## 24-22 (mpox)
+
+- [Health department urges screening after 2nd confirmed mpox case](https://www.capetownetc.com/news/health-department-urges-screening-after-2nd-confirmed-mpox-case/) (CapeTown ETC)
+
+- [News24 | SA records second mpox case in less than a month](https://www.news24.com/news24/southafrica/news/sa-records-second-mpox-case-in-less-than-a-month-20240528) (News24)
 
 - [Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie](https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000) (Www.nrc.nl)
 
@@ -65,6 +71,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (malaria)
 
+- [Binance Executive Jailed in Nigeria is Suspected of Having Malaria, Family Says](https://www.coindesk.com/policy/2024/05/28/binance-executive-jailed-in-nigeria-is-suspected-of-having-malaria-family-says/) (CoinDesk)
+
+- [Defining a malaria diagnostic pathway from innovation to adoption: stakeholder perspectives on data and evidence gaps](http://eprints.lse.ac.uk/123689/) (Lse.ac.uk)
+
 - [クロクマの肉に寄生虫、食べた一家が入院 米ＣＤＣが注意喚起](https://www.cnn.co.jp/usa/35219384.html) (Cnn.co.jp)
 
 - [Criza superbacteriilor. Cum ar putea fi salvate sute de mii de vieți pe an. Expert: „Oamenii mănâncă antibiotice fără să vrea”](https://adevarul.ro/stiri-interne/sanatate/criza-superbacteriilor-cum-ar-putea-fi-salvate-2364226.html) (Adevarul.ro)
@@ -79,6 +89,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (leptospirosis)
 
+- [Cases of bacterial disease rise in Brazil’s flooded south](https://www.digitaljournal.com/world/cases-of-bacterial-disease-rise-in-brazils-flooded-south/article) (Digital Journal)
+
 - [Waterborne disease outbreak after Brazil floods kills four](https://www.bbc.com/news/articles/cq559gexxy5o) (BBC News)
 
 ## 24-22 (hpai)
@@ -86,6 +98,16 @@ Source: [News API](https://newsapi.org/)
 - [Мыши заболели птичьим гриппом, выпив сырого молока](https://naked-science.ru/article/medicine/bird-flu-in-milk) (Naked-science.ru)
 
 ## 24-22 (h5n1)
+
+- [US, European nations seek increased vaccine production to protect workers exposed to bird flu](https://www.foxnews.com/world/us-european-nations-seek-increased-vaccine-production-protect-workers-exposed-bird-flu) (Fox News)
+
+- [Una vacuna experimental de ARNm se dirige a la gripe aviar H5N1](https://es.gizmodo.com/vacuna-contra-la-gripe-aviar-de-mrna-upenn-1851503677) (Gizmodo.com)
+
+- [An Experimental mRNA Vaccine Targets H5N1 Bird Flu](https://gizmodo.com/mrna-bird-flu-vaccine-upenn-1851503662) (Gizmodo.com)
+
+- [Researchers are developing an experimental mRNA vaccine to limit bird flu outbreak](https://qz.com/mrna-bird-flu-vaccine-upenn-1851503463) (Quartz India)
+
+- [เช็กอาการไข้หวัดนก ติดต่ออย่างไร รักษาได้หรือไม่](https://www.thairath.co.th/lifestyle/life/2789060) (Thairath.co.th)
 
 - [H5N1: Vibes are off. How are you preparing, if at all?](https://ask.metafilter.com/380164/H5N1-Vibes-are-off-How-are-you-preparing-if-at-all) (Metafilter.com)
 
@@ -122,6 +144,18 @@ Source: [News API](https://newsapi.org/)
 - [Day 1: ruffled fur and lethargy](https://www.metafilter.com/203879/Day-1-ruffled-fur-and-lethargy) (Metafilter.com)
 
 ## 24-22 (dengue)
+
+- [SURVEILLANCE SUMMARIES: Sentinel Enhanced Dengue Surveillance System — Puerto Rico, 2012–2022](https://www.cdc.gov/mmwr/volumes/73/ss/ss7303a1.htm) (Cdc.gov)
+
+- [Salgono a due i casi di Dengue in Fvg, Regione 'nessun allarme'](https://www.ansa.it/friuliveneziagiulia/notizie/2024/05/28/salgono-a-due-i-casi-di-dengue-in-fvg-regione-nessun-allarme_ad330257-96d1-43ca-a525-45fa035ea616.html) (ANSA.it)
+
+- [HPV, dengue, gripe, covid e poliomielite: todas as vacinas já disponíveis no SUS e quem pode tomar](https://www.terra.com.br/vida-e-estilo/saude/hpv-dengue-gripe-covid-e-poliomielite-todas-as-vacinas-ja-disponiveis-no-sus-e-quem-pode-tomar,c77040da2c9ece6d121f7104a417d280hle86f2g.html) (Terra.com.br)
+
+- [Knowledge, attitude, and practice regarding dengue among non-health undergraduate students of Nepal](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012222) (Plos.org)
+
+- [Em meio à maior epidemia da história, Campinas atinge 100 mil casos confirmados de dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/28/em-meio-a-maior-epidemia-da-historia-campinas-atinge-100-mil-casos-confirmados-de-dengue.ghtml) (Globo)
+
+- [Dengue avança pela cidade de São Paulo](https://valor.globo.com/brasil/noticia/2024/05/28/dengue-avanca-pela-cidade-de-sao-paulo.ghtml) (Globo)
 
 - [Health DG: Dengue cases increase from May 12 to 18, two deaths reported](https://www.malaysiakini.com/news/706928) (Malaysiakini)
 
@@ -2831,12 +2865,6 @@ Source: [News API](https://newsapi.org/)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
-- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
-
-- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
-
-- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
-
 ## 24-16 (malaria)
 
 - [Xewa Sowé Center for Orphans / Corentin Dalon + Arianna Fabrizi De Biani + Doryan Kuschner + Florian Mahieu](https://www.archdaily.com/1015819/xewa-sowe-center-for-orphans-corentin-dalon-plus-arianna-fabrizi-de-biani-plus-doryan-kuschner-plus-florian-mahieu) (ArchDaily)
@@ -3122,12 +3150,6 @@ Source: [News API](https://newsapi.org/)
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
 - [Alerta sanitaria: Confirman hallazgo de mosquito transmisor del dengue en terminal de buses de Los Andes](https://www.cnnchile.com/pais/alerta-sanitaria-hallazgo-mosquito-dengue-terminal-los-andes_20240414/) (Cnnchile.com)
-
-- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
-
-- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
-
-- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 ## 24-16 (chikungunya)
 
