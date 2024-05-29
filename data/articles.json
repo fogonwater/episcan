@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-05-28 19:05",
-  "count_articles_total": 1382,
-  "count_articles_new": 14,
+  "last_updated": "2024-05-29 07:06",
+  "count_articles_total": 1397,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 9582,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Malaysiakini",
+      "author": "Bernama",
+      "title": "Health DG: Dengue cases increase from May 12 to 18, two deaths reported",
+      "description": "Health DG: Dengue cases increase from May 12 to 18, two deaths reportedmalaysiakini.com",
+      "url": "https://www.malaysiakini.com/news/706928",
+      "urlToImage": "https://i.malaysiakini.com/1189/78cdcd26f55c7034000f7e552193b67e.jpeg",
+      "publishedAt": "2024-05-28 06:51:17",
+      "content": "Reported dengue fever cases increased to 2,461 in the 20th Epidemiological Week (ME20), from May 12 to 18, compared with 2,338 cases reported in the previous week. Health director-general Dr Muhamma\u2026 [+166 chars]",
+      "retrievedAt": "2024-05-29 07:06:06.392478",
+      "internal_id": "aa874b7e3f67b760ed2d07e7b543649888905bf84edb5a9c11dd883c7329a652",
+      "publishedAtLabel": "May 28"
+    },
+    {
+      "id": 9585,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Chikungunya in Maldives",
+      "description": "There is an outbreak of chikungunya in the Mal&#233; and Hulhumal&#233; regions of Maldives. Mosquitoes spread the virus that causes chikungunya.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-maldives",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2024-05-28 04:00:00",
+      "content": "Chikungunya disease is caused by the chikungunya virus and is spread to humans through mosquito bites. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, the Caribbean, and India\u2026 [+828 chars]",
+      "retrievedAt": "2024-05-29 07:06:07.261386",
+      "internal_id": "40bdca16270731457d272880d07f91f827af77414514db88ebfc12bae7ca441e",
+      "publishedAtLabel": "May 28"
+    },
+    {
+      "id": 9583,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cnn.co.jp",
+      "author": "\u7ffb\u8a33\uff1aCNN.co.jp\u7de8\u96c6\u90e8",
+      "title": "\u30af\u30ed\u30af\u30de\u306e\u8089\u306b\u5bc4\u751f\u866b\u3001\u98df\u3079\u305f\u4e00\u5bb6\u304c\u5165\u9662 \u7c73\uff23\uff24\uff23\u304c\u6ce8\u610f\u559a\u8d77",
+      "description": "\u91ce\u751f\u306e\u30af\u30de\u306e\u8089\u3092\u98df\u3079\u305f\u4e00\u5bb6\u304c\u5bc4\u751f\u866b\u306b\u611f\u67d3\u3057\u3066\u5165\u9662\u3057\u305f\u4e8b\u4f8b\u306b\u3064\u3044\u3066\u3001\u7c73\u75be\u75c5\u5bfe\u7b56\u30bb\u30f3\u30bf\u30fc\uff08\uff23\uff24\uff23\uff09\u304c\u6700\u65b0\u306e\u75c7\u4f8b\u5831\u544a\u3067\u660e\u3089\u304b\u306b\u3057\u305f\u3002\u4e00\u5bb6\u306f\u795d\u3044\u4e8b\u306e\u305f\u3081\u7c73\u5404\u5730\u304b\u3089\u30b5\u30a6\u30b9\u30c0\u30b3\u30bf\u5dde\u306b\u96c6\u307e\u3063\u3066\u98df\u4e8b\u3057\u3066\u3044\u305f\u3002 \u96c6\u307e\u3063\u305f\u5bb6\u65cf\u3084\u89aa\u985e\u306e\u4e2d\u306b\u30cf\u30f3\u30bf\u30fc\u304c\u3044\u3066\u3001\uff12\uff10\uff12\uff12\u5e74\uff13\u6708\u306b\u30ab\u30ca\u30c0\u306e\u30b5\u30b9\u30ab\u30c1\u30e5\u30ef\u30f3\u5dde\u3067\u4ed5\u7559\u3081\u305f\u30af\u30ed\u30af\u30de\u306e\u8089\u3092\u6301\u53c2\u3057\u3066\u3044\u305f\u3002\u8089\u306f\u5c02\u9580\u5e97\u306e\u30a2\u30c9\u30d0\u30a4\u30b9\u306b\u5f93\u3063\u3066\u3001\u5bc4\u751f\u866b\u99c6\u9664\u306e\u305f\u3081\u306b\uff14\uff15\u65e5\u9593\u51b7\u51cd\u3057\u305f\u5f8c\u306b\u89e3\u51cd\u3057\u3001\u91ce\u83dc\u3068...",
+      "url": "https://www.cnn.co.jp/usa/35219384.html",
+      "urlToImage": "https://www.cnn.co.jp/storage/2024/05/28/d3502c1d256974a86594edb425c6ebe3/t/1100/617/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHdwN2E1YTcwMDBpbmNwNGM0bDJmazdr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nsd3A3YTVhODAwMG5uY3A0OTVva2VuZDI=.JPG",
+      "publishedAt": "2024-05-28 03:24:00",
+      "content": "/Division of Parasitic Diseases and Malaria, Center for Global Health, CDC",
+      "retrievedAt": "2024-05-29 07:06:06.909810",
+      "internal_id": "6cf5302d5c5cf412ad664b75c9c88d4ecf953cc8374495fc9a0012ca550caca3",
+      "publishedAtLabel": "May 28"
+    },
+    {
+      "id": 9580,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metafilter.com",
+      "author": "SandCounty",
+      "title": "H5N1: Vibes are off. How are you preparing, if at all?",
+      "description": "With governments starting to swing into action globally, it's hard not to feel like we're at the start of a familiar film. Though it's very hard to forecast risk, my partner and I are starting to discuss what, if anything, we should be doing and how to know w\u2026",
+      "url": "https://ask.metafilter.com/380164/H5N1-Vibes-are-off-How-are-you-preparing-if-at-all",
+      "urlToImage": "http://cdn.mefi.us/images/askmefi/apple-touch-icon.png",
+      "publishedAt": "2024-05-28 01:34:42",
+      "content": "Ask MetaFilter is a question and answer site that covers nearly any question on earth, where members help each other solve problems. Ask MetaFilter is where thousands of life's little questions are a\u2026 [+7 chars]",
+      "retrievedAt": "2024-05-29 07:06:06.011882",
+      "internal_id": "f1842beea131a9fab0cd71cb2f275d20963149e605455940614fb3522a7cae1a",
+      "publishedAtLabel": "May 28"
+    },
+    {
+      "id": 9581,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Sa\u00fade do DF cria grupo para rever Plano de Enfrentamento da Dengue",
+      "description": "O grupo de trabalho vai se reunir semanalmente e tem 90 dias para apresentar vers\u00e3o atualizada do plano de enfrentamento \u00e0 dengue",
+      "url": "https://www.metropoles.com/distrito-federal/saude-do-df-cria-grupo-para-rever-plano-de-enfrentamento-da-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/04/29143555/Dengue-compressed-1.jpg",
+      "publishedAt": "2024-05-27 22:56:14",
+      "content": "Nesta segunda-feira (27/5), a Secretaria de Sa\u00fade do Distrito Federal (SES-DF) criou um grupo de trabalho para revisar e atualizar o plano de enfrentamento \u00e0 dengue e outras arbovirores. A medida foi\u2026 [+4960 chars]",
+      "retrievedAt": "2024-05-29 07:06:06.352462",
+      "internal_id": "7f4e3f28ff644aa79e938c9881e3e110bd973dfd14ee1194bde26ad67e8f56e2",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9584,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Ioana Ion",
+      "title": "Criza superbacteriilor. Cum ar putea fi salvate sute de mii de vie\u021bi pe an. Expert: \u201eOamenii m\u0103n\u00e2nc\u0103 antibiotice f\u0103r\u0103 s\u0103 vrea\u201d",
+      "description": "Milioane de oameni mor \u00een fiecare an \u00een urma infec\u021biilor cu bacterii rezistente la medicamente. Exper\u021bii din domeniu caut\u0103 solu\u021bii pentru a \u00eenvinge \u00een lupta cu superbacteriile care ucid mai mul\u021bi oameni dec\u00e2t HIV, malaria \u0219i tuberculoza la un loc.",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/criza-superbacteriilor-cum-ar-putea-fi-salvate-2364226.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-e/e9c3c4c8-b2bc-4ec8-8d11-01edcbd02dea/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-05-27 20:55:25",
+      "content": "Milioane de oameni mor \u00een fiecare an \u00een urma infeciilor cu bacterii rezistente la medicamente. Experii din domeniu caut soluii pentru a \u00eenvinge \u00een lupta cu superbacteriile care ucid mai muli oameni d\u2026 [+5487 chars]",
+      "retrievedAt": "2024-05-29 07:06:06.918383",
+      "internal_id": "259e3faf8f47ae426f67d1b8205b06230cee24178a0ed73028f2198c5fb7d144",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9578,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Diarmuid Pepper",
+      "title": "Seven more measles cases confirmed in Ireland, bringing total for year so far to 37",
+      "description": "There are also 16 suspected cases currently under investigation.",
+      "url": "https://www.thejournal.ie/confirmed-measles-cases-update-hpsc-6391389-May2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6391389/river/?height=400&version=6391391",
+      "publishedAt": "2024-05-27 20:25:25",
+      "content": "SEVEN MORE MEASLES cases have been confirmed in Ireland, bringing the number of confirmed cases this year to 37. The latest figures from the Health Protection Surveillance Centre (HPSC) show that in\u2026 [+2019 chars]",
+      "retrievedAt": "2024-05-29 07:06:05.441833",
+      "internal_id": "fdaa7a8443f6223fd71075bd33d44c3bacfd203cdd66a74ef6889c46fdc9acab",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9579,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "'Usa ed Europa si muovono per il vaccino contro l'aviaria'",
+      "description": "Gli Stati Uniti e l'Europa stanno intraprendendo passi per acquisire o produrre vaccini contro l'influenza aviaria H5N1 che potrebbero essere utilizzati per proteggere pollame e lavoratori lattiero-caseari, veterinari e tecnici di laboratorio a rischio. (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/05/27/usa-ed-europa-si-muovono-per-il-vaccino-contro-laviaria_b57d04aa-85e4-4aaf-af55-95cbd2400ad3.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2022/5/24/a33e3857f57fb676d9897236684ce0a4.jpg",
+      "publishedAt": "2024-05-27 20:11:39",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-05-29 07:06:05.992027",
+      "internal_id": "de1e990f8292757105b31f28baeadfd9dac9228d013ae25956b24a08d3aa4754",
+      "publishedAtLabel": "May 27"
+    },
+    {
+      "id": 9577,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Gabe Whisnant",
+      "title": "Measles Warning at California Airport After Infection Found",
+      "description": "According to the Centers for Disease Control and Prevention, a total of 142 measles cases have been reported by 21 U.S. states so far this year.",
+      "url": "https://www.newsweek.com/measles-warning-california-lax-munich-germany-airport-after-infection-found-1905056",
+      "urlToImage": "https://d.newsweek.com/en/full/2399552/travelers-lax.jpg",
+      "publishedAt": "2024-05-27 19:54:10",
+      "content": "A passenger had a confirmed case of measles on a connecting flight into Los Angeles International Airport (LAX) earlier this month, according to public health officials. According to a press release\u2026 [+4397 chars]",
+      "retrievedAt": "2024-05-29 07:06:05.423567",
+      "internal_id": "92754b2192f93139702efd085555c289a18b41deffdc63be9a663f1d4809a90a",
+      "publishedAtLabel": "May 27"
+    },
     {
       "id": 9573,
       "query": [
@@ -24948,6 +25110,114 @@
       "content": "La Seremi de la Regi\u00f3n de Valpara\u00edso confirm\u00f3 el hallazgo de un mosquito Aedes aegypti en el Terminal de Buses Ahumada de la comuna de Los Andes, lo que ha generado un llamado urgente a la acci\u00f3n por\u2026 [+1901 chars]",
       "retrievedAt": "2024-04-16 07:06:13.321002",
       "internal_id": "39339444eefc7b256d165e35edab548f00068c54f87fd57297a52c5ba632d047",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8189,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Deadline",
+      "author": "Bruce Haring",
+      "title": "L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier",
+      "description": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los Angeles County Department of Public Health said it had received\u2026",
+      "url": "http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/09/Universal-Studios-theme-park-Hollywood.jpg?w=1024",
+      "publishedAt": "2024-04-14 18:32:51",
+      "content": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los An\u2026 [+1049 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.686603",
+      "internal_id": "6754d64ecced4850f3f21b330198b32459cdf8cc6ba021f346496bd25e8bfb83",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8191,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Martina Riemlov\u00e1",
+      "title": "Argentina bojuje s vlnou hore\u010dky dengue, repelenty v zemi nejsou k sehn\u00e1n\u00ed",
+      "description": "V Argentin\u011b se \u0161\u00ed\u0159\u00ed epidemie hore\u010dky dengue, a tak v tamn\u00edch obchodech a l\u00e9k\u00e1rn\u00e1ch chyb\u00ed dostate\u010dn\u00e9 mno\u017estv\u00ed p\u0159\u00edpravk\u016f proti hmyzu. Tamn\u00ed \u00fa\u0159ady u\u017e zru\u0161ily omezen\u00ed souvisej\u00edc\u00ed s dovozem repelent\u016f, aby v zemi nav\u00fd\u0161ily nab\u00eddku. N\u011bkte\u0159\u00ed obyvatel\u00e9 si prozat\u00edm za\u010da\u2026",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2024/4/RIE80166f40ba_profimedia_0863037161.jpg",
+      "publishedAt": "2024-04-14 17:00:00",
+      "content": "Navt\u00edvili jsme nejm\u00e9n ticet l\u00e9k\u00e1ren po cel\u00e9m mst, nic u nezbylo, \u00edk\u00e1 pro agenturu AP dvaatyicetilet\u00e1 Ana Infante z hlavn\u00edho msta Buenos Aires. Chtla nakoupit repelenty pot\u00e9, co jej\u00ed spolupracovnice m\u2026 [+2955 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.449323",
+      "internal_id": "276f46d6c6aaa7f9c7f18b77d7e212406c4dacd6f9717f373c6928c6996128db",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8193,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El mapa del dengue: informan por primera vez en el a\u00f1o una tendencia en baja, con excepci\u00f3n de dos provincias",
+      "description": "Surge del ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias y en un an\u00e1lisis que las autoridades sanitarias",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-es-transmitido-por-la-S3JPAWMYHRDENE6Q76GQSY2MO4.jpg?auth=ea273d9864dfb28806178bede17b6b98a393721aefc196f023cbc6d6eca84657&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-14 16:08:20",
+      "content": "El avance de la epidemia de dengue en las 19 provincias con circulaci\u00f3n viral estar\u00eda tendiendo a desacelerarse, de acuerdo con el ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias\u2026 [+2630 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.545411",
+      "internal_id": "98a2d21fa90f6d15b4ada2e8bad569b674137707859c0d40e1fa86c82bcadea1",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8192,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Arreguy",
+      "title": "SP chega a 285 mortes por dengue e 573 mil casos da doen\u00e7a",
+      "description": "Capital concentra mortes por dengue no estado, com 39 \u00f3bitos, seguida de Guarulhos, na Grande SP, com 26, e Jacare\u00ed, no interior, com 20",
+      "url": "https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
+      "publishedAt": "2024-04-14 15:48:07",
+      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo chegou a 285 mortes por dengue neste domingo (14/4), e investiga 605 outros \u00f3bitos em decorr\u00eancia da doen\u00e7a. As informa\u00e7\u00f5es constam no painel de monitoramento da Secre\u2026 [+6245 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.456240",
+      "internal_id": "6c2c17696af3df5a2356e199353c2a2aa8edcd88a1eb20193c3659a959247c76",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8190,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Alessia Dunn",
+      "title": "Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger",
+      "description": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. When guests visit a theme park, it is impossible to think that you will not come into contact with germs. At \u2026",
+      "url": "https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Universal-Hollywood.jpg",
+      "publishedAt": "2024-04-14 14:29:45",
+      "content": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. Credit: Universal Studios When guests visit a t\u2026 [+4444 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.714627",
+      "internal_id": "4b63de4a1f2879f2231802882676a41b3a9a477fc46ba131faf2e2cee5fb374b",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8188,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Alarming Measles Outbreaks Surge Across Europe And Central Asia",
+      "description": "While focus in the U.S. has been on rising numbers of measles cases domestically, it\u2019s Europe and Central Asia where the situation is at crisis level.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661bbf0650e753f1cc011c18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-14 13:13:47",
+      "content": "Little girl with measles. getty After surging at the end of last year, measles outbreaks across Europe and Central Asia intensified in the first quarter of 2024, with incidence rates of up to hundr\u2026 [+6945 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.673594",
+      "internal_id": "bbbf1402efba99042fd00b5c3e3c92fffbbd7087b18b96f84e7fbe35ce307cf7",
       "publishedAtLabel": "Apr 14"
     }
   ]

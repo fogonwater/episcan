@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-05-28 19:05
-- **Most recent article:** 2024-05-27 18:09:54
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-05-29 07:06
+- **Most recent article:** 2024-05-28 06:51:17
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 108 | 117 | 77 | 57 | 87 | 58 | 10 | 514 |
-| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 15 | 230 |
-| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 4 | 194 |
-| measles | 36 | 28 | 24 | 10 | 29 | 15 | 3 | 145 |
+| dengue | 111 | 117 | 77 | 57 | 87 | 58 | 12 | 519 |
+| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 17 | 232 |
+| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 6 | 196 |
+| measles | 39 | 28 | 24 | 10 | 29 | 15 | 5 | 150 |
 | mpox | 13 | 8 | 36 | 3 | 10 | 9 | 1 | 80 |
 | meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 0 | 70 |
 | rabies | 3 | 3 | 4 | 22 | 10 | 8 | 1 | 51 |
-| chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 1 | 38 |
+| chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 2 | 39 |
 | zika | 8 | 3 | 8 | 2 | 6 | 3 | 2 | 32 |
 | pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 1 | 31 |
 | sarampión | 0 | 10 | 8 | 1 | 0 | 0 | 0 | 19 |
@@ -53,6 +53,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (measles)
 
+- [Seven more measles cases confirmed in Ireland, bringing total for year so far to 37](https://www.thejournal.ie/confirmed-measles-cases-update-hpsc-6391389-May2024/) (TheJournal.ie)
+
+- [Measles Warning at California Airport After Infection Found](https://www.newsweek.com/measles-warning-california-lax-munich-germany-airport-after-infection-found-1905056) (Newsweek)
+
 - [Passenger on United flight to Fresno had measles, officials confirm](https://abc30.com/post/passenger-united-flight-fresno-measles-officials-confirm/14878374/) (KFSN-TV)
 
 - [Person with measles had a connecting flight at LAX, health department says](https://ktla.com/news/local-news/person-with-measles-had-a-connecting-flight-at-lax-health-department-says/) (KTLA Los Angeles)
@@ -60,6 +64,10 @@ Source: [News API](https://newsapi.org/)
 - [Infectious person with measles traveled through LAX, health officials warn](https://abc7.com/post/infectious-person-measles-traveled-lax-health-officials-warn/14876506/) (KABC-TV)
 
 ## 24-22 (malaria)
+
+- [クロクマの肉に寄生虫、食べた一家が入院 米ＣＤＣが注意喚起](https://www.cnn.co.jp/usa/35219384.html) (Cnn.co.jp)
+
+- [Criza superbacteriilor. Cum ar putea fi salvate sute de mii de vieți pe an. Expert: „Oamenii mănâncă antibiotice fără să vrea”](https://adevarul.ro/stiri-interne/sanatate/criza-superbacteriilor-cum-ar-putea-fi-salvate-2364226.html) (Adevarul.ro)
 
 - [Cuáles son los cinco tipos de hepatitis: sus síntomas, cómo se transmite y cómo cuidar el hígado](https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/cuales-son-los-cinco-tipos-de-hepatitis-sus-sintomas-como-se-transmite-y-como-cuidar-el-higado-nid27052024/) (La Nacion)
 
@@ -78,6 +86,10 @@ Source: [News API](https://newsapi.org/)
 - [Мыши заболели птичьим гриппом, выпив сырого молока](https://naked-science.ru/article/medicine/bird-flu-in-milk) (Naked-science.ru)
 
 ## 24-22 (h5n1)
+
+- [H5N1: Vibes are off. How are you preparing, if at all?](https://ask.metafilter.com/380164/H5N1-Vibes-are-off-How-are-you-preparing-if-at-all) (Metafilter.com)
+
+- ['Usa ed Europa si muovono per il vaccino contro l'aviaria'](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/05/27/usa-ed-europa-si-muovono-per-il-vaccino-contro-laviaria_b57d04aa-85e4-4aaf-af55-95cbd2400ad3.html) (ANSA.it)
 
 - [US dairy cows are tip of the iceberg as bird flu spreads in mammals globally, says ecologist](https://phys.org/news/2024-05-dairy-cows-iceberg-bird-flu.html) (Phys.Org)
 
@@ -111,6 +123,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (dengue)
 
+- [Health DG: Dengue cases increase from May 12 to 18, two deaths reported](https://www.malaysiakini.com/news/706928) (Malaysiakini)
+
+- [Saúde do DF cria grupo para rever Plano de Enfrentamento da Dengue](https://www.metropoles.com/distrito-federal/saude-do-df-cria-grupo-para-rever-plano-de-enfrentamento-da-dengue) (Metropoles.com)
+
 - [Caso di Dengue a Trieste, 13enne era rientrata da una crociera](https://www.ansa.it/friuliveneziagiulia/notizie/2024/05/27/caso-di-dengue-a-trieste-13enne-era-rientrata-da-una-crociera_fcd49df0-88f3-4de8-baf4-770f0d12d46e.html) (ANSA.it)
 
 - [Dengue pode causar queda de cabelo. Entenda como o problema acontece](https://www.metropoles.com/saude/dengue-pode-causar-queda-de-cabelo) (Metropoles.com)
@@ -132,6 +148,8 @@ Source: [News API](https://newsapi.org/)
 - [Se quintuplican casos de dengue en un año, alerta Ssa](https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-22 (chikungunya)
+
+- [Level 2 - Chikungunya in Maldives](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-maldives) (Cdc.gov)
 
 - [Ανήσυχος ο Σωτήρης Τσιόδρας για την έξαρση κρουσμάτων στο δάγκειο πυρετό – npress.gr](https://www.npress.gr/health/anisychos-o-sotiris-tsiodras-gia-tin-ex/) (Npress.gr)
 
@@ -2813,6 +2831,12 @@ Source: [News API](https://newsapi.org/)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
+- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
+
+- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
+
+- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
+
 ## 24-16 (malaria)
 
 - [Xewa Sowé Center for Orphans / Corentin Dalon + Arianna Fabrizi De Biani + Doryan Kuschner + Florian Mahieu](https://www.archdaily.com/1015819/xewa-sowe-center-for-orphans-corentin-dalon-plus-arianna-fabrizi-de-biani-plus-doryan-kuschner-plus-florian-mahieu) (ArchDaily)
@@ -3098,6 +3122,12 @@ Source: [News API](https://newsapi.org/)
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
 - [Alerta sanitaria: Confirman hallazgo de mosquito transmisor del dengue en terminal de buses de Los Andes](https://www.cnnchile.com/pais/alerta-sanitaria-hallazgo-mosquito-dengue-terminal-los-andes_20240414/) (Cnnchile.com)
+
+- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
+
+- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
+
+- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 ## 24-16 (chikungunya)
 
