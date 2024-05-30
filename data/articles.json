@@ -1,8 +1,444 @@
 {
-  "last_updated": "2024-05-30 07:06",
-  "count_articles_total": 1427,
-  "count_articles_new": 13,
+  "last_updated": "2024-05-30 19:05",
+  "count_articles_total": 1445,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 9618,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sun Sentinel",
+      "author": "Tribune News Service",
+      "title": "4 ways vaccine skeptics mislead you on measles and more",
+      "description": "Unvaccinated people, or those whose immunization status is unknown, account for 80% of the measles cases this year.",
+      "url": "http://www.sun-sentinel.com/2024/05/29/4-ways-vaccine-skeptics-mislead-you-on-measles-and-more/",
+      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2024/05/US-NEWS-HEALTH-VACCINE-SKEPTICS-GET.jpg?w=1024&h=682",
+      "publishedAt": "2024-05-29 18:49:31",
+      "content": "Amy Maxmen and C\u00e9line Gounder | (TNS) KFF Health News Measles is on the rise in the United States. In the first quarter of this year, the number of cases was about 17 times what it was, on average, \u2026 [+10340 chars]",
+      "retrievedAt": "2024-05-30 19:05:29.254311",
+      "internal_id": "6e31028c2fb1142e9ff9d1883d6a7fae97d6dbb54d8454996a1ba1553b59694f",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9616,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Tribune News Service",
+      "title": "4 ways vaccine skeptics mislead you on measles and more",
+      "description": "Unvaccinated people, or those whose immunization status is unknown, account for 80% of the measles cases this year.",
+      "url": "https://www.bostonherald.com/2024/05/29/4-ways-vaccine-skeptics-mislead-you-on-measles-and-more/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/05/US-NEWS-HEALTH-VACCINE-SKEPTICS-GET.jpg?w=1024&h=682",
+      "publishedAt": "2024-05-29 18:48:33",
+      "content": "Unvaccinated people, or those whose immunization status is unknown, account for 80% of the measles cases this year.",
+      "retrievedAt": "2024-05-30 19:05:29.217695",
+      "internal_id": "e1c8aabf09fda505a206fc32c6b155e98e48d0bc7059032b2ca2ee8de4547b76",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9635,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Melos Ambaye)",
+      "title": "WHO: Climate change could increase spread of diseases",
+      "description": "World Health Organization says 'urgent action' is needed to research how climate change is affecting malaria and neglected tropical diseases (NTDs)",
+      "url": "https://www.voanews.com/a/who-climate-change-could-increase-spread-of-diseases/7633858.html",
+      "urlToImage": "https://gdb.voanews.com/F99B4BE5-042F-4C24-BD7B-434A8A56CCB8.jpg",
+      "publishedAt": "2024-05-29 18:40:20",
+      "content": "The World Health Organization says urgent action is needed to research how climate change is affecting malaria and neglected tropical diseases (NTDs). Rising temperatures are changing how vector-bor\u2026 [+2004 chars]",
+      "retrievedAt": "2024-05-30 19:05:31.083075",
+      "internal_id": "1a52fb2d7a0a1c4e10edfa7252d08658b056d99b09217c528e92e984b291f97d",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9619,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Beth Mole",
+      "title": "Alpacas in Idaho test positive for H5N1 bird flu in another world first",
+      "description": "The alpacas were known to be in close contact with infected birds.",
+      "url": "https://arstechnica.com/science/2024/05/h5n1-bird-flu-has-come-for-the-alpacas-too-the-usda-reports/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1315264598-760x380.jpeg",
+      "publishedAt": "2024-05-29 18:12:40",
+      "content": "Enlarge/ Suri alpacas on a farm in Pennsylvania. 20 Four backyard alpacas in southern Idaho have tested positive for highly pathogenic avian influenza (HPAI) H5N1, marking the first time bird flu h\u2026 [+1989 chars]",
+      "retrievedAt": "2024-05-30 19:05:29.564052",
+      "internal_id": "4d9c557c00911dd2fc9b556b1264aad3c2e8b9d91f0229ebc5c92fcf12136b87",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9631,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Novas Vacinas Dispon\u00edveis: Prote\u00e7\u00e3o ampliada contra Dengue e Covid-19",
+      "description": "A Secretaria Municipal de Sa\u00fade (SMS) anuncia a disponibiliza\u00e7\u00e3o de duas novas vacinas para a ...",
+      "url": "https://www.terra.com.br/noticias/novas-vacinas-disponiveis-protecao-ampliada-contra-dengue-e-covid-19,46df208cd32836046065fbf716c94df7u2ytgc1y.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/29/1687394888-240529cristinerocholvacinacaodenguesms-9167.jpg",
+      "publishedAt": "2024-05-29 18:06:20",
+      "content": "A Secretaria Municipal de Sa\u00fade (SMS) anuncia a disponibiliza\u00e7\u00e3o de duas novas vacinas para a popula\u00e7\u00e3o. A vacina Qdenga, destinada a combater a dengue, ser\u00e1 oferecida para crian\u00e7as e adolescentes en\u2026 [+929 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.434135",
+      "internal_id": "193fbd3e007109a41bedc7f1997038707d6539f43f61dedb39fcfd36c94a872d",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9638,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Smithsonian.com",
+      "author": "Sarah Kuta",
+      "title": "Family Members Infected With Parasitic Worms After Eating Undercooked Bear Meat at Reunion",
+      "description": "Six people developed symptoms of roundworm infection after consuming grilled black bear meat and vegetables in July 2022, and all have since recovered",
+      "url": "https://www.smithsonianmag.com/smart-news/family-members-infected-with-parasitic-worms-after-eating-undercooked-bear-meat-at-reunion-180984434/",
+      "urlToImage": "https://th-thumbnailer.cdn-si-edu.com/vbLXf1SQ6bSyKfZeuu8IPIbWO7Y=/fit-in/1600x0/filters:focal(593x367:594x368)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fb4%2Ffb%2Fb4fb1a7d-b0cf-4cf8-a678-4e0925716aea%2Fmm7320a2-f-large.png",
+      "publishedAt": "2024-05-29 17:35:55",
+      "content": "Laboratory testing found live Trichinella larvae in black bear meat that had been frozen for 110 days. Division of Parasitic Diseases and Malaria, Center for Global Health, CDC Six people became i\u2026 [+4210 chars]",
+      "retrievedAt": "2024-05-30 19:05:31.111854",
+      "internal_id": "75ae9dc7cecbff7c3b4f15587686cd2124800fc7330529684687d9ce065caab7",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9620,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "H5N1 Bird Flu Has Mutated",
+      "description": "The H5N1 bird flu that recently infected a second person in the United States after coming in contact with cows, has mutated. The slight evolution in the virus is associated with \"adaptation to mammalian hosts\", according to the Centers for Disease Control an\u2026",
+      "url": "https://www.shtfplan.com/headline-news/h5n1-bird-flu-has-mutated",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/03/bird-flu-positive.jpg",
+      "publishedAt": "2024-05-29 17:30:44",
+      "content": "The H5N1 bird flu that recently infected a second person in the United States after coming in contact with cows, has mutated. The slight evolution in the virus is associated with \u201cadaptation to mamma\u2026 [+2492 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.027458",
+      "internal_id": "06247772811624deac6c9955b76b5e047ccb0f4fe80a168ddd809e9fc9957dc5",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9628,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Aten\u00e7\u00e3o! Covid-19 ainda mata mais do que a dengue em 2024",
+      "description": "A maior quantidade de mortes por Covid aconteceu nas 12 primeiras semanas do ano, quando a m\u00e9dia foi de 217 mortes por semana",
+      "url": "https://www.metropoles.com/saude/covid-mata-mais-que-dengue-brasil",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2023/01/10144007/Swab-nasal.jpg",
+      "publishedAt": "2024-05-29 16:23:50",
+      "content": "Apesar de o Brasil enfrentar uma epidemia de dengue em 2024, com um recorde hist\u00f3rico de mais de 4,9 milh\u00f5es de casos, o n\u00famero de mortes causadas pela Covid-19 ainda \u00e9 maior do que o de mortes ocasi\u2026 [+1184 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.399237",
+      "internal_id": "9e3cf905659a7ed2c34e3d1ec04bd55908f9012924b3ebf0278450c19f4e6a71",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9627,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "Why is US experiencing a dengue outbreak? Is climate change to be blamed? Details here",
+      "description": "The US and other countries in the region are experiencing an outbreak of dengue. This has largely been attributed to climate change and it is only expected to increase in the coming years.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-us-experiencing-a-dengue-outbreak-is-climate-change-to-be-blamed-details-here/articleshow/110540204.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-110541063,width-1200,height-630,imgsize-23506,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-05-29 15:21:56",
+      "content": "Ever heard of dengue and dengue fever? Those staying in the US and Europe may have read it in books as the outbreaks are mostly confined to the tropics of the world. This may not be the case anymore,\u2026 [+2396 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.381218",
+      "internal_id": "518c19fd4e4aa8a4e3feddefd8e3d6bc32209fca7d806b2a73e1134215c32f9e",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9621,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Freethoughtblogs.com",
+      "author": "PZ Myers",
+      "title": "There are limits to how much creationists can deny",
+      "description": "Here\u2019s a headline for you: H5N1 virus in latest human case has mutated, officials say. This is not a surprise. This is the lesson we are thoroughly familiar with in biology, that everything changes over time. Of course H5N1 is evolving. Testing of the latest \u2026",
+      "url": "https://freethoughtblogs.com/pharyngula/2024/05/29/there-are-limits-to-how-much-creationists-can-deny/",
+      "urlToImage": "https://freethoughtblogs.com/pharyngula/wp-content/themes/ftb2-theme/images/logo.png",
+      "publishedAt": "2024-05-29 15:20:13",
+      "content": "Here\u2019s a headline for you: H5N1 virus in latest human case has mutated, officials say. This is not a surprise. This is the lesson we are thoroughly familiar with in biology, that everything changes o\u2026 [+2384 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.032173",
+      "internal_id": "b582b70be30e584d220cfab7f4b1b520cb2a01d398f57332aa963327a229adbc",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9624,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Detectan por primera vez en una granja de EU alpacas infectadas con gripe aviar",
+      "description": "Forbes M\u00e9xico. Detectan por primera vez en una granja de EU alpacas infectadas con gripe aviar Seg\u00fan expertos, el hallazgo, 'no es inesperado' debido a la detecci\u00f3n previa de gripe aviar en las instalaciones y a 'la mezcla de m\u00faltiples especies de ganado en\u2026",
+      "url": "https://www.forbes.com.mx/detectan-por-primera-vez-en-una-granja-de-eu-alpacas-infectadas-con-gripe-aviar/",
+      "urlToImage": "https://cdn.forbes.com.mx/2024/05/olga-kravchuk-UU6UKXmtrpw-unsplash-scaled.jpg",
+      "publishedAt": "2024-05-29 15:03:03",
+      "content": "El Departamento de Agricultura de Estados Unidos confirm\u00f3 este martes la detecci\u00f3n de \u201cgripe aviar altamente pat\u00f3gena\u201d H5N1 en varias alpacas de una granja en la que hab\u00eda aves de corral infectadas. \u2026 [+1919 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.072734",
+      "internal_id": "344b8132b529b77808085eac1db0eccb6bac2c8a218f44b8b809e7e967c605c5",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9633,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Abdoul-Aziz Maiga, Aboubacar Sombi\u00e9, Nicolas Zanr\u00e9, F\u00e9lix Yam\u00e9ogo, Souleymane Iro, Jean Testa, Antoine Sanon, Ousmane Koita, Hirotaka Kanuka, Philip J. McCall, David Weetman, Athanase Badolo",
+      "title": "First report of V1016I, F1534C and V410L kdr mutations associated with pyrethroid resistance in Aedes aegypti populations from Niamey, Niger",
+      "description": "Background Ae. aegypti is the vector of important \u03bc arboviruses, including dengue, Zika, chikungunya and yellow fever. Despite not being specifically targeted by insecticide-based control programs in West Africa, resistance to insecticides in Ae. aegypti has \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304550",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0304550.g004&size=inline",
+      "publishedAt": "2024-05-29 14:00:00",
+      "content": "Abstract Background Ae. aegypti is the vector of important arboviruses, including dengue, Zika, chikungunya and yellow fever. Despite not being specifically targeted by insecticide-based control pr\u2026 [+35637 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.462989",
+      "internal_id": "7433d4fb56a0196d3e694fb385f3a8326eba15b4ea5edada351b28bd21d8cd67",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9636,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bosco B. Agaba, Joaniter I. Nankabirwa, Adoke Yeka, Sam Nsobya, Karryn Gresty, Karen Anderson, Paul Mbaka, Christiane Prosser, David Smith, Jimmy Opigo, Rhoda Namubiru, Emmanuel Arinaitwe, John Kissa, Samuel Gonahasa, Sungho Won, Bora Lee, Chae Seung Lim, Charles Karamagi, Qin Cheng, Joan K. Nakayaga, Moses R. Kamya",
+      "title": "Correction: Limitations of rapid diagnostic tests in malaria surveys in areas with varied transmission intensity in Uganda 2017\u20132019: Implications for selection and use of HRP2 RDTs",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304728",
+      "urlToImage": null,
+      "publishedAt": "2024-05-29 14:00:00",
+      "content": "The first authors name is written incorrectly. The correct name is: Bosco B. Agaba. The correct citation is: Agaba BB, Nankabirwa JI, Yeka A, Nsobya S, Gresty K, Anderson K, et al. (2020) Limitations\u2026 [+1184 chars]",
+      "retrievedAt": "2024-05-30 19:05:31.087587",
+      "internal_id": "eca984b51b1a93b4a27df261f9b51aab0bd79fe3e253184472343a5abe925df6",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9623,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Lars Fischer",
+      "title": "H5N1: Rohmilch infiziert M\u00e4use mit Vogelgrippe",
+      "description": "Fachleute r\u00e4tseln, wie gef\u00e4hrlich der H5N1-Ausbruch bei K\u00fchen f\u00fcr Menschen ist. Nun zeigt sich: Rohmilch infizierter K\u00fche zu trinken reicht wom\u00f6glich f\u00fcr eine Infektion.",
+      "url": "https://www.spektrum.de/news/vogelgrippe-rohmilch-infiziert-maeuse-mit-h5n1/2218199",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/GettyImages-1414600155.jpg",
+      "publishedAt": "2024-05-29 13:42:40",
+      "content": "Seit sich das Vogelgrippevirus H5N1 unter K\u00fchen verbreitet, r\u00e4tseln Fachleute, ob auch Milch f\u00fcr Menschen gef\u00e4hrlich sein k\u00f6nnte. Denn Spuren des Erregers sind selbst in pasteurisierter Milch nachwei\u2026 [+1771 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.055006",
+      "internal_id": "1ab30cdc06b3781f66dabcc521a99fec162e35e518463f7064fe28b00c66fe3a",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9637,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Makua Ubanagu",
+      "title": "Rotary commits $30m to tackle childhood diseases in Nigeria, others",
+      "description": "In an initiative to combat the leading causes of childhood mortality, Rotary has unveiled a $30 million programme aimed at strengthening health systems and tackling malaria, pneumonia, and diarrheal diseases in four African countries. Dubbed the \u2018Rotary Healt\u2026",
+      "url": "https://punchng.com/rotary-commits-30m-to-tackle-childhood-diseases-in-nigeria-others/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/05/29154808/Rotary-commits-30m-to-tackle-childhood-diseases-in-Nigeria-others-e1716994088236-1200x630.jpg",
+      "publishedAt": "2024-05-29 13:00:45",
+      "content": "In an initiative to combat the leading causes of childhood mortality, Rotary has unveiled a $30 million programme aimed at strengthening health systems and tackling malaria, pneumonia, and diarrheal \u2026 [+2763 chars]",
+      "retrievedAt": "2024-05-30 19:05:31.095770",
+      "internal_id": "ecd1a5e32c91d1674cd50f713f2f1f51c5e1bf2facc2ebc23710f8488e1e7acd",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9617,
+      "query": [
+        "measles"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Made by History / Elena Conis",
+      "title": "The Public Health Community Needs to Tell the Whole Truth About the History of Measles",
+      "description": "The anti-vaccine movement has gained ground because the public health community has denied the truth about measles.",
+      "url": "https://time.com/6981222/public-health-measles-history/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/measles.jpg?quality=85&w=733&h=628&crop=1",
+      "publishedAt": "2024-05-29 13:00:00",
+      "content": "Measles outbreaks are back. And with each one in recent years, doctors and health officials have urged the public to get fully vaccinated against this deadly disease. Every time, however, the campaig\u2026 [+9097 chars]",
+      "retrievedAt": "2024-05-30 19:05:29.239306",
+      "internal_id": "a235f8022bd77b377f707071cc9292023a61298a8dc8b16440c56e33893923d4",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9626,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Tjerk Br\u00fchwiller",
+      "title": "Mit M\u00fccken gegen Denguefieber",
+      "description": "An Denguefieber sind in diesem Jahr in Brasilien schon fast dreimal so viele Menschen gestorben wie 2023. Nun will das Land den \u00dcbertr\u00e4ger der Viruserkrankung mit einer neuen Methode bek\u00e4mpfen: mit M\u00fccken, die ein Bakterium in sich tragen.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-setzt-im-kampf-gegen-denguefieber-auf-eine-neue-methode-19749579.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/849164540/1.9749655/facebook_teaser/stechmuecke-der-art-aedes.jpg",
+      "publishedAt": "2024-05-29 12:48:15",
+      "content": "In Brasilien sind in diesem Jahr schon mehr als 2800 Personen an den Folgen des Denguefiebers gestorben, fast dreimal so viele wie im gesamten vergangenen Jahr und ein Allzeithoch f\u00fcr Brasilien. Weit\u2026 [+2503 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.369320",
+      "internal_id": "a0a1b0fb0ec6ae494eb02dc1cbf58b46d332840670953d751a65339c7090fa4a",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9632,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Casi di Dengue in Fvg, dimessi entrambi i pazienti",
+      "description": "I due pazienti affetti da febbre Dengue, che erano stati ricoverati in due ospedali triestini, sono stati dimessi dopo che le loro condizioni di salute sono migliorate. Lo si apprende da fonti sanitarie. (ANSA)",
+      "url": "https://www.ansa.it/friuliveneziagiulia/notizie/2024/05/29/casi-di-dengue-in-fvg-dimessi-entrambi-i-pazienti_58d734c0-7bee-4a7a-b6c6-f0caf1191af9.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/1/285491b2fd452952cf88ea307daebd9c.jpg",
+      "publishedAt": "2024-05-29 12:06:44",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.448670",
+      "internal_id": "452f23434e465fba96b72560dd0c1f14d34b48088cfd0f8c46bca1a58ab989e8",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9629,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "L\u2019Express",
+      "title": "Moustique tigre, dengue... A quoi faut-il s\u2019attendre cet \u00e9t\u00e9 ?",
+      "description": "Le moustique Aedes albopictus, vecteur potentiel de la dengue (mais \u00e9galement du chikungunya), est implant\u00e9 durablement dans 51 d\u00e9partements de m\u00e9tropole.",
+      "url": "https://www.lexpress.fr/sciences-sante/moustique-tigre-dengue-a-quoi-faut-il-sattendre-cet-ete-5H4ZDBRYHRGLTIZH4PZOLCP4YE/",
+      "urlToImage": "https://www.lexpress.fr/resizer/mssG8diFzJX3jyOLDMoQ8k2fAak=/1200x630/filters:focal(852x506:862x516)/cloudfront-eu-central-1.images.arcpublishing.com/lexpress/FUB4S762FBFSXDJRWYD4ZN3NHU.jpg",
+      "publishedAt": "2024-05-29 11:42:16",
+      "content": "Quasi toute la France est colori\u00e9e en rouge. Le nombre de cas de dengue import\u00e9s en m\u00e9tropole, principalement apr\u00e8s des voyages aux Antilles, a d\u00e9j\u00e0 battu le record atteint sur toute lann\u00e9e 2023, sel\u2026 [+4709 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.417587",
+      "internal_id": "3607282c42134579cafa507fe37e7a330cd0f6a45d04a5e7515cce82d7274f37",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9639,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Joseph Osmundson",
+      "title": "We Can Prevent Another Summer mPox Outbreak",
+      "description": "Queer people\u2019s behavior squashed the U.S. mpox outbreak in 2022. We shouldn\u2019t have to rely on that to stop future outbreaks here or abroad",
+      "url": "https://www.scientificamerican.com/article/we-can-prevent-another-summer-mpox-outbreak/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/8dd3dc9615d6e0c/original/GettyImages-1242269574.jpg?w=1200",
+      "publishedAt": "2024-05-29 11:00:00",
+      "content": "In May 2022, when the spread of mpox virus began to be reported outside of Central Africa for the first time, queer health advocates imagined it would become a clear demonstration of a successful eme\u2026 [+7563 chars]",
+      "retrievedAt": "2024-05-30 19:05:31.686827",
+      "internal_id": "d8be109f575c9cd867918df868c85e5c02130102d4e7274065785878a2dea992",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9630,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: quanto custa tomar a vacina na rede privada?",
+      "description": "Produto se tornou mais escasso nas cl\u00ednicas e farm\u00e1cias espalhadas pelo pa\u00eds com a alta de casos da doen\u00e7a nos \u00faltimos meses",
+      "url": "https://saude.ig.com.br/2024-05-29/quanto-custa-vacina-dengue-rede-privada.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/2f/o0/vm/2fo0vm163bmwz70iakqm13d8v.jpg",
+      "publishedAt": "2024-05-29 09:00:00",
+      "content": "O Brasil chegou a 3 mil mortes provocadas pela dengue somente em 2024 , n\u00famero 2,5 vezes maior do que o registrado em todo o ano passado. Em meio \u00e0 explos\u00e3o de casos e \u00f3bitos, o Minist\u00e9rio da Sa\u00fa\u2026 [+1860 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.422757",
+      "internal_id": "3f8c257763235e197f7d0d62bfdca1827e94852c4d397947340fb30b061f586f",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9625,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Research: HAIRS risk statement: Avian influenza A(H5N1) in livestock",
+      "description": "Risk review and statement on the zoonotic risk avian influenza A(H5N1) clade 2.3.4.4b genotype B3.13 presents to people in contact with infected animals in the UK",
+      "url": "https://www.gov.uk/government/publications/hairs-risk-statement-avian-influenza-ah5n1-in-livestock",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-05-29 08:30:03",
+      "content": "Recent detections of highly pathogenic avian influenza (AI) A(H5N1) in dairy cattle from the United States of America (USA) are likely the result of one or more incursions of AI A(H5N1), Clade 2.3.4.\u2026 [+798 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.108068",
+      "internal_id": "8db91330ceb2eeec6b2a90bedcf5a7706c0164e30b4cf14336d2a7af3c64dae5",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9634,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Marvie Basilan",
+      "title": "Jailed Binance Exec Gambaryan Suspected Of Having Malaria, Severe Throat Infection",
+      "description": "Tigran Gambaryan, who has been in Nigerian custody since late February, is suspected of having malaria while he also suffers from a severe throat infection, his lawyer and family revealed.",
+      "url": "https://www.ibtimes.com/jailed-binance-executive-gambaryan-suspected-having-malaria-severe-throat-infection-3733113",
+      "urlToImage": "https://d.ibtimes.com/en/full/4528099/tigran-gambaryan.png",
+      "publishedAt": "2024-05-29 08:25:19",
+      "content": "KEY POINTS Gambaryan is 'very ill' and requires prompt medical care after collapsing in court last week, his lawyer saidJustice Nwite ordered Gambaryan to be taken to a hospital, bu\u2026 [+3074 chars]",
+      "retrievedAt": "2024-05-30 19:05:31.078060",
+      "internal_id": "6f6082bbfd13c5b10c052ad94a4d484b4fe2806b4b02a9b037020a0b163bb1dd",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9622,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Beyzanur \u00d6zbostan",
+      "title": "Kurban bayram\u0131nda aman dikkat! H5N1 vir\u00fcs\u00fc hayvandan insana m\u0131 bula\u015f\u0131yor?",
+      "description": "Ku\u015f gribi di\u011fer ad\u0131yla H5N1 vir\u00fcs\u00fc k\u00fcmes hayvanlar\u0131 ve yabani ku\u015flara bula\u015fmas\u0131yla biliniyordu. \u015eimdiye kadar ABD\u2019nin eylaetlerindeki ineklerde de yay\u0131ld\u0131\u011f\u0131 g\u00f6zlemlenen ku\u015f gribi art\u0131k insanlara da bula\u015fabiliyor mu?",
+      "url": "https://www.haber7.com/saglik/haber/3428290-kurban-bayraminda-aman-dikkat-h5n1-virusu-hayvandan-insana-mi-bulasiyor",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/22/kurban_bayraminda_aman_dikkat_h5n1_virusu_hayvandan_insana_mi_bulasiyor_1716970769_4966.jpg",
+      "publishedAt": "2024-05-29 08:19:00",
+      "content": "Covid-19 pandemisi d\u00fcnyay etkisi altna alrken, H5N1 vir\u00fcs\u00fc de hzla yaylmaya balad ve milyonlarca k\u00fcmes hayvan ve yabani kuun \u00f6l\u00fcm\u00fcne yol a\u00e7t. Vir\u00fcs, spanya'daki bir vizon \u00e7iftlii ve Kuzey Kutbu'ndaki\u2026 [+3310 chars]",
+      "retrievedAt": "2024-05-30 19:05:30.050255",
+      "internal_id": "47a95f617e3ba5af401cdbe47e236b013f9726653f637be697a7520a4baa5b74",
+      "publishedAtLabel": "May 29"
+    },
     {
       "id": 9611,
       "query": [
@@ -25651,114 +26087,6 @@
       "content": "La Seremi de la Regi\u00f3n de Valpara\u00edso confirm\u00f3 el hallazgo de un mosquito Aedes aegypti en el Terminal de Buses Ahumada de la comuna de Los Andes, lo que ha generado un llamado urgente a la acci\u00f3n por\u2026 [+1901 chars]",
       "retrievedAt": "2024-04-16 07:06:13.321002",
       "internal_id": "39339444eefc7b256d165e35edab548f00068c54f87fd57297a52c5ba632d047",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8189,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Deadline",
-      "author": "Bruce Haring",
-      "title": "L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier",
-      "description": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los Angeles County Department of Public Health said it had received\u2026",
-      "url": "http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2023/09/Universal-Studios-theme-park-Hollywood.jpg?w=1024",
-      "publishedAt": "2024-04-14 18:32:51",
-      "content": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los An\u2026 [+1049 chars]",
-      "retrievedAt": "2024-04-15 19:05:56.686603",
-      "internal_id": "6754d64ecced4850f3f21b330198b32459cdf8cc6ba021f346496bd25e8bfb83",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8191,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Idnes.cz",
-      "author": "Martina Riemlov\u00e1",
-      "title": "Argentina bojuje s vlnou hore\u010dky dengue, repelenty v zemi nejsou k sehn\u00e1n\u00ed",
-      "description": "V Argentin\u011b se \u0161\u00ed\u0159\u00ed epidemie hore\u010dky dengue, a tak v tamn\u00edch obchodech a l\u00e9k\u00e1rn\u00e1ch chyb\u00ed dostate\u010dn\u00e9 mno\u017estv\u00ed p\u0159\u00edpravk\u016f proti hmyzu. Tamn\u00ed \u00fa\u0159ady u\u017e zru\u0161ily omezen\u00ed souvisej\u00edc\u00ed s dovozem repelent\u016f, aby v zemi nav\u00fd\u0161ily nab\u00eddku. N\u011bkte\u0159\u00ed obyvatel\u00e9 si prozat\u00edm za\u010da\u2026",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie",
-      "urlToImage": "https://1gr.cz/tempimg/fb/2024/4/RIE80166f40ba_profimedia_0863037161.jpg",
-      "publishedAt": "2024-04-14 17:00:00",
-      "content": "Navt\u00edvili jsme nejm\u00e9n ticet l\u00e9k\u00e1ren po cel\u00e9m mst, nic u nezbylo, \u00edk\u00e1 pro agenturu AP dvaatyicetilet\u00e1 Ana Infante z hlavn\u00edho msta Buenos Aires. Chtla nakoupit repelenty pot\u00e9, co jej\u00ed spolupracovnice m\u2026 [+2955 chars]",
-      "retrievedAt": "2024-04-15 19:05:57.449323",
-      "internal_id": "276f46d6c6aaa7f9c7f18b77d7e212406c4dacd6f9717f373c6928c6996128db",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8193,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "El mapa del dengue: informan por primera vez en el a\u00f1o una tendencia en baja, con excepci\u00f3n de dos provincias",
-      "description": "Surge del ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias y en un an\u00e1lisis que las autoridades sanitarias",
-      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-es-transmitido-por-la-S3JPAWMYHRDENE6Q76GQSY2MO4.jpg?auth=ea273d9864dfb28806178bede17b6b98a393721aefc196f023cbc6d6eca84657&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-14 16:08:20",
-      "content": "El avance de la epidemia de dengue en las 19 provincias con circulaci\u00f3n viral estar\u00eda tendiendo a desacelerarse, de acuerdo con el ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias\u2026 [+2630 chars]",
-      "retrievedAt": "2024-04-15 19:05:57.545411",
-      "internal_id": "98a2d21fa90f6d15b4ada2e8bad569b674137707859c0d40e1fa86c82bcadea1",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8192,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Juliana Arreguy",
-      "title": "SP chega a 285 mortes por dengue e 573 mil casos da doen\u00e7a",
-      "description": "Capital concentra mortes por dengue no estado, com 39 \u00f3bitos, seguida de Guarulhos, na Grande SP, com 26, e Jacare\u00ed, no interior, com 20",
-      "url": "https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
-      "publishedAt": "2024-04-14 15:48:07",
-      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo chegou a 285 mortes por dengue neste domingo (14/4), e investiga 605 outros \u00f3bitos em decorr\u00eancia da doen\u00e7a. As informa\u00e7\u00f5es constam no painel de monitoramento da Secre\u2026 [+6245 chars]",
-      "retrievedAt": "2024-04-15 19:05:57.456240",
-      "internal_id": "6c2c17696af3df5a2356e199353c2a2aa8edcd88a1eb20193c3659a959247c76",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8190,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Alessia Dunn",
-      "title": "Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger",
-      "description": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. When guests visit a theme park, it is impossible to think that you will not come into contact with germs. At \u2026",
-      "url": "https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Universal-Hollywood.jpg",
-      "publishedAt": "2024-04-14 14:29:45",
-      "content": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. Credit: Universal Studios When guests visit a t\u2026 [+4444 chars]",
-      "retrievedAt": "2024-04-15 19:05:56.714627",
-      "internal_id": "4b63de4a1f2879f2231802882676a41b3a9a477fc46ba131faf2e2cee5fb374b",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8188,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
-      "title": "Alarming Measles Outbreaks Surge Across Europe And Central Asia",
-      "description": "While focus in the U.S. has been on rising numbers of measles cases domestically, it\u2019s Europe and Central Asia where the situation is at crisis level.",
-      "url": "https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661bbf0650e753f1cc011c18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-04-14 13:13:47",
-      "content": "Little girl with measles. getty After surging at the end of last year, measles outbreaks across Europe and Central Asia intensified in the first quarter of 2024, with incidence rates of up to hundr\u2026 [+6945 chars]",
-      "retrievedAt": "2024-04-15 19:05:56.673594",
-      "internal_id": "bbbf1402efba99042fd00b5c3e3c92fffbbd7087b18b96f84e7fbe35ce307cf7",
       "publishedAtLabel": "Apr 14"
     }
   ]

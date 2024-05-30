@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-05-30 07:06
-- **Most recent article:** 2024-05-29 07:00:00
+- **New articles in last harvest:** 24
+- **Last harvest:** 2024-05-30 19:05
+- **Most recent article:** 2024-05-29 18:49:31
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 111 | 117 | 77 | 57 | 87 | 58 | 22 | 529 |
-| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 29 | 244 |
-| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 8 | 198 |
-| measles | 39 | 28 | 24 | 10 | 29 | 15 | 5 | 150 |
-| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 3 | 82 |
+| dengue | 108 | 117 | 77 | 57 | 87 | 58 | 30 | 534 |
+| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 36 | 251 |
+| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 13 | 203 |
+| measles | 36 | 28 | 24 | 10 | 29 | 15 | 8 | 150 |
+| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 4 | 83 |
 | meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 0 | 70 |
 | rabies | 3 | 3 | 4 | 22 | 10 | 8 | 1 | 51 |
-| chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 2 | 39 |
+| chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 4 | 41 |
+| zika | 8 | 3 | 8 | 2 | 6 | 3 | 3 | 33 |
 | pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 3 | 33 |
-| zika | 8 | 3 | 8 | 2 | 6 | 3 | 2 | 32 |
 | sarampión | 0 | 10 | 8 | 1 | 0 | 0 | 0 | 19 |
-| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 2 | 16 |
+| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 3 | 17 |
 | leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 3 | 15 |
 | yersinia | 2 | 0 | 5 | 1 | 0 | 6 | 0 | 14 |
 | typhoid | 2 | 0 | 0 | 3 | 2 | 0 | 0 | 7 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-22 (zika)
+
+- [First report of V1016I, F1534C and V410L kdr mutations associated with pyrethroid resistance in Aedes aegypti populations from Niamey, Niger](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304550) (Plos.org)
 
 - [Ανήσυχος ο Σωτήρης Τσιόδρας για την έξαρση κρουσμάτων στο δάγκειο πυρετό – npress.gr](https://www.npress.gr/health/anisychos-o-sotiris-tsiodras-gia-tin-ex/) (Npress.gr)
 
@@ -53,6 +55,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (mpox)
 
+- [We Can Prevent Another Summer mPox Outbreak](https://www.scientificamerican.com/article/we-can-prevent-another-summer-mpox-outbreak/) (Scientific American)
+
 - [Health department urges screening after 2nd confirmed mpox case](https://www.capetownetc.com/news/health-department-urges-screening-after-2nd-confirmed-mpox-case/) (CapeTown ETC)
 
 - [News24 | SA records second mpox case in less than a month](https://www.news24.com/news24/southafrica/news/sa-records-second-mpox-case-in-less-than-a-month-20240528) (News24)
@@ -60,6 +64,12 @@ Source: [News API](https://newsapi.org/)
 - [Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie](https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000) (Www.nrc.nl)
 
 ## 24-22 (measles)
+
+- [4 ways vaccine skeptics mislead you on measles and more](http://www.sun-sentinel.com/2024/05/29/4-ways-vaccine-skeptics-mislead-you-on-measles-and-more/) (Sun Sentinel)
+
+- [4 ways vaccine skeptics mislead you on measles and more](https://www.bostonherald.com/2024/05/29/4-ways-vaccine-skeptics-mislead-you-on-measles-and-more/) (Boston Herald)
+
+- [The Public Health Community Needs to Tell the Whole Truth About the History of Measles](https://time.com/6981222/public-health-measles-history/) (Time)
 
 - [Seven more measles cases confirmed in Ireland, bringing total for year so far to 37](https://www.thejournal.ie/confirmed-measles-cases-update-hpsc-6391389-May2024/) (TheJournal.ie)
 
@@ -72,6 +82,16 @@ Source: [News API](https://newsapi.org/)
 - [Infectious person with measles traveled through LAX, health officials warn](https://abc7.com/post/infectious-person-measles-traveled-lax-health-officials-warn/14876506/) (KABC-TV)
 
 ## 24-22 (malaria)
+
+- [WHO: Climate change could increase spread of diseases](https://www.voanews.com/a/who-climate-change-could-increase-spread-of-diseases/7633858.html) (VOA News)
+
+- [Family Members Infected With Parasitic Worms After Eating Undercooked Bear Meat at Reunion](https://www.smithsonianmag.com/smart-news/family-members-infected-with-parasitic-worms-after-eating-undercooked-bear-meat-at-reunion-180984434/) (Smithsonian.com)
+
+- [Correction: Limitations of rapid diagnostic tests in malaria surveys in areas with varied transmission intensity in Uganda 2017–2019: Implications for selection and use of HRP2 RDTs](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304728) (Plos.org)
+
+- [Rotary commits $30m to tackle childhood diseases in Nigeria, others](https://punchng.com/rotary-commits-30m-to-tackle-childhood-diseases-in-nigeria-others/) (The Punch)
+
+- [Jailed Binance Exec Gambaryan Suspected Of Having Malaria, Severe Throat Infection](https://www.ibtimes.com/jailed-binance-executive-gambaryan-suspected-having-malaria-severe-throat-infection-3733113) (International Business Times)
 
 - [Binance Executive Jailed in Nigeria is Suspected of Having Malaria, Family Says](https://www.coindesk.com/policy/2024/05/28/binance-executive-jailed-in-nigeria-is-suspected-of-having-malaria-family-says/) (CoinDesk)
 
@@ -99,11 +119,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (hpai)
 
+- [Alpacas in Idaho test positive for H5N1 bird flu in another world first](https://arstechnica.com/science/2024/05/h5n1-bird-flu-has-come-for-the-alpacas-too-the-usda-reports/) (Ars Technica)
+
 - [Vers une nouvelle épidémie de grippe aviaire ? une nouvelle espèce de mammifère touchée par le virus](https://www.dhnet.be/actu/sante/2024/05/29/vers-une-nouvelle-epidemie-de-grippe-aviaire-une-nouvelle-espece-de-mammifere-touchee-par-le-virus-7QGYXTXZ3JBMDMEZ7LQ4HBPOJU/) (dh.be)
 
 - [Мыши заболели птичьим гриппом, выпив сырого молока](https://naked-science.ru/article/medicine/bird-flu-in-milk) (Naked-science.ru)
 
 ## 24-22 (h5n1)
+
+- [Alpacas in Idaho test positive for H5N1 bird flu in another world first](https://arstechnica.com/science/2024/05/h5n1-bird-flu-has-come-for-the-alpacas-too-the-usda-reports/) (Ars Technica)
+
+- [H5N1 Bird Flu Has Mutated](https://www.shtfplan.com/headline-news/h5n1-bird-flu-has-mutated) (Shtfplan.com)
+
+- [There are limits to how much creationists can deny](https://freethoughtblogs.com/pharyngula/2024/05/29/there-are-limits-to-how-much-creationists-can-deny/) (Freethoughtblogs.com)
+
+- [Detectan por primera vez en una granja de EU alpacas infectadas con gripe aviar](https://www.forbes.com.mx/detectan-por-primera-vez-en-una-granja-de-eu-alpacas-infectadas-con-gripe-aviar/) (Forbes.com.mx)
+
+- [H5N1: Rohmilch infiziert Mäuse mit Vogelgrippe](https://www.spektrum.de/news/vogelgrippe-rohmilch-infiziert-maeuse-mit-h5n1/2218199) (Spektrum.de)
+
+- [Research: HAIRS risk statement: Avian influenza A(H5N1) in livestock](https://www.gov.uk/government/publications/hairs-risk-statement-avian-influenza-ah5n1-in-livestock) (Www.gov.uk)
+
+- [Kurban bayramında aman dikkat! H5N1 virüsü hayvandan insana mı bulaşıyor?](https://www.haber7.com/saglik/haber/3428290-kurban-bayraminda-aman-dikkat-h5n1-virusu-hayvandan-insana-mi-bulasiyor) (Haber7.com)
 
 - [Vers une nouvelle épidémie de grippe aviaire ? une nouvelle espèce de mammifère touchée par le virus](https://www.dhnet.be/actu/sante/2024/05/29/vers-une-nouvelle-epidemie-de-grippe-aviaire-une-nouvelle-espece-de-mammifere-touchee-par-le-virus-7QGYXTXZ3JBMDMEZ7LQ4HBPOJU/) (dh.be)
 
@@ -165,6 +201,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (dengue)
 
+- [Novas Vacinas Disponíveis: Proteção ampliada contra Dengue e Covid-19](https://www.terra.com.br/noticias/novas-vacinas-disponiveis-protecao-ampliada-contra-dengue-e-covid-19,46df208cd32836046065fbf716c94df7u2ytgc1y.html) (Terra.com.br)
+
+- [Atenção! Covid-19 ainda mata mais do que a dengue em 2024](https://www.metropoles.com/saude/covid-mata-mais-que-dengue-brasil) (Metropoles.com)
+
+- [Why is US experiencing a dengue outbreak? Is climate change to be blamed? Details here](https://economictimes.indiatimes.com/news/international/us/why-is-us-experiencing-a-dengue-outbreak-is-climate-change-to-be-blamed-details-here/articleshow/110540204.cms) (The Times of India)
+
+- [First report of V1016I, F1534C and V410L kdr mutations associated with pyrethroid resistance in Aedes aegypti populations from Niamey, Niger](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304550) (Plos.org)
+
+- [Mit Mücken gegen Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-setzt-im-kampf-gegen-denguefieber-auf-eine-neue-methode-19749579.html) (Faz.net)
+
+- [Casi di Dengue in Fvg, dimessi entrambi i pazienti](https://www.ansa.it/friuliveneziagiulia/notizie/2024/05/29/casi-di-dengue-in-fvg-dimessi-entrambi-i-pazienti_58d734c0-7bee-4a7a-b6c6-f0caf1191af9.html) (ANSA.it)
+
+- [Moustique tigre, dengue... A quoi faut-il s’attendre cet été ?](https://www.lexpress.fr/sciences-sante/moustique-tigre-dengue-a-quoi-faut-il-sattendre-cet-ete-5H4ZDBRYHRGLTIZH4PZOLCP4YE/) (L'Express)
+
+- [Dengue: quanto custa tomar a vacina na rede privada?](https://saude.ig.com.br/2024-05-29/quanto-custa-vacina-dengue-rede-privada.html) (Ig.com.br)
+
 - [Dengue: drones monitoram criadouros do Aedes aegypti em São Paulo](https://olhardigital.com.br/2024/05/29/medicina-e-saude/dengue-drones-monitoram-criadouros-do-aedes-aegypti-em-sao-paulo/) (Olhardigital.com.br)
 
 - [Horečkou dengue a malárií se lze nakazit už i v Evropě, může za to oteplování](https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https:%2F%2Fwww.novinky.cz%2Fclanek%2Fzdravi-horeckou-dengue-a-malarii-se-lze-nakazit-uz-i-v-evrope-muze-za-to-oteplovani-40473792%3Fcwreturn%3D1) (Seznam.cz)
@@ -210,6 +262,10 @@ Source: [News API](https://newsapi.org/)
 - [Se quintuplican casos de dengue en un año, alerta Ssa](https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-22 (chikungunya)
+
+- [First report of V1016I, F1534C and V410L kdr mutations associated with pyrethroid resistance in Aedes aegypti populations from Niamey, Niger](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304550) (Plos.org)
+
+- [Moustique tigre, dengue... A quoi faut-il s’attendre cet été ?](https://www.lexpress.fr/sciences-sante/moustique-tigre-dengue-a-quoi-faut-il-sattendre-cet-ete-5H4ZDBRYHRGLTIZH4PZOLCP4YE/) (L'Express)
 
 - [Level 2 - Chikungunya in Maldives](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-maldives) (Cdc.gov)
 
@@ -2893,12 +2949,6 @@ Source: [News API](https://newsapi.org/)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
-- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
-
-- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
-
-- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
-
 ## 24-16 (malaria)
 
 - [Xewa Sowé Center for Orphans / Corentin Dalon + Arianna Fabrizi De Biani + Doryan Kuschner + Florian Mahieu](https://www.archdaily.com/1015819/xewa-sowe-center-for-orphans-corentin-dalon-plus-arianna-fabrizi-de-biani-plus-doryan-kuschner-plus-florian-mahieu) (ArchDaily)
@@ -3184,12 +3234,6 @@ Source: [News API](https://newsapi.org/)
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
 - [Alerta sanitaria: Confirman hallazgo de mosquito transmisor del dengue en terminal de buses de Los Andes](https://www.cnnchile.com/pais/alerta-sanitaria-hallazgo-mosquito-dengue-terminal-los-andes_20240414/) (Cnnchile.com)
-
-- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
-
-- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
-
-- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 ## 24-16 (chikungunya)
 
