@@ -1,8 +1,243 @@
 {
-  "last_updated": "2024-05-29 19:05",
-  "count_articles_total": 1408,
-  "count_articles_new": 17,
+  "last_updated": "2024-05-30 07:06",
+  "count_articles_total": 1427,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 9611,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Dengue: drones monitoram criadouros do Aedes aegypti em S\u00e3o Paulo",
+      "description": "Drones ir\u00e3o mapear criadouros do mosquito da dengue em im\u00f3veis fechados ou onde os agentes sanit\u00e1rios n\u00e3o t\u00eam permiss\u00e3o para entrar O post Dengue: drones monitoram criadouros do Aedes aegypti em S\u00e3o Paulo apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/05/29/medicina-e-saude/dengue-drones-monitoram-criadouros-do-aedes-aegypti-em-sao-paulo/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2023/05/Dengue-01.jpg",
+      "publishedAt": "2024-05-29 07:00:00",
+      "content": "O Brasil enfrenta uma epidemia de dengue sem precedentes na hist\u00f3ria do pa\u00eds. Por isso, todas as op\u00e7\u00f5es para combater o Aedes aegypti s\u00e3o v\u00e1lidas. Entre elas est\u00e1 o uso de drones para identificar cri\u2026 [+1835 chars]",
+      "retrievedAt": "2024-05-30 07:06:24.535998",
+      "internal_id": "9efdfb1b490e4d3149f8eafcd9c442d3637afdb16d9895373562a66fcf4dfbe3",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9604,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Belga Belga",
+      "title": "Vers une nouvelle \u00e9pid\u00e9mie de grippe aviaire ? une nouvelle esp\u00e8ce de mammif\u00e8re touch\u00e9e par le virus",
+      "description": "Les experts s'inqui\u00e8tent du nombre croissant de mammif\u00e8res infect\u00e9s par la maladie. ...",
+      "url": "https://www.dhnet.be/actu/sante/2024/05/29/vers-une-nouvelle-epidemie-de-grippe-aviaire-une-nouvelle-espece-de-mammifere-touchee-par-le-virus-7QGYXTXZ3JBMDMEZ7LQ4HBPOJU/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/TX6K73S7LJHF5OI43AHUH24W2I.jpg?auth=7cee6903defd6bd1dc5b1546a382357c22b49bc93f26ae6e22460728a3b75e1d&width=1200&height=630&quality=85&focal=2566%2C1711&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2024-05-29 05:16:16",
+      "content": "Les Laboratoires des services v\u00e9t\u00e9rinaires nationaux (NVSL) ont confirm\u00e9 la d\u00e9tection d'une variante hautement pathog\u00e8ne de la grippe aviaire --HPAI H5N1-- \"chez des alpagas sur des installations o\u00f9 \u2026 [+1426 chars]",
+      "retrievedAt": "2024-05-30 07:06:23.745845",
+      "internal_id": "83945bd26d33dade3690d110a2f128ec8ac2ad6bbeaa1792799b5ecdd37ca570",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9614,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Seznam.cz",
+      "author": null,
+      "title": "Hore\u010dkou dengue a mal\u00e1ri\u00ed se lze nakazit u\u017e i v Evrop\u011b, m\u016f\u017ee za to oteplov\u00e1n\u00ed",
+      "description": "P\u0159ena\u0161e\u010di n\u011bkter\u00fdch nemoc\u00ed se s oteplov\u00e1n\u00edm p\u0159esouvaj\u00ed do Evropy, tropick\u00fdmi nemocemi se tak mohou lid\u00e9 nakazit i v evropsk\u00fdch st\u00e1tech. Nej\u010dast\u011bji importovanou n\u00e1kazou do \u010ceska je hore\u010dka dengue. Podle d\u011bkana L\u00e9ka\u0159sk\u00e9 fakulty Ostravsk\u00e9 univerzity Rastislava M\u2026",
+      "url": "https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https:%2F%2Fwww.novinky.cz%2Fclanek%2Fzdravi-horeckou-dengue-a-malarii-se-lze-nakazit-uz-i-v-evrope-muze-za-to-oteplovani-40473792%3Fcwreturn%3D1",
+      "urlToImage": null,
+      "publishedAt": "2024-05-29 03:55:00",
+      "content": "Dolo k chyb pi na\u00edt\u00e1n\u00ed skriptu na t\u00e9to str\u00e1nce. Tato chyba me b\u00fdt zpsobena pouit\u00edm roz\u00eden\u00ed prohl\u00edee nebo blok\u00e1tor, kter\u00e9 mohou ovlivnit na\u00edt\u00e1n\u00ed str\u00e1nky. Pro spr\u00e1vnou funknost str\u00e1nky pros\u00edme, deakti\u2026 [+275 chars]",
+      "retrievedAt": "2024-05-30 07:06:24.602135",
+      "internal_id": "5c179db09129d74ad5fa5422ae7f1c031cbfe619e184992bc50569bcafb47f24",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9608,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "USA: Alpakkaer har f\u00e5tt p\u00e5vist fugleinfluensa",
+      "description": "I USA har alpakkaer p\u00e5 en g\u00e5rd i Idaho f\u00e5tt p\u00e5vist fugleinfluensa. Det er f\u00f8rste gang at alpakkaer har f\u00e5tt p\u00e5vist sykdommen. Tidligere hadde g\u00e5rden hatt fj\u00f8rfe med H5N1-viruset. De siste ukene har H5N1-varianten blitt p\u00e5vist i mer enn 50 dyrearter i USA, ink\u2026",
+      "url": "https://www.nrk.no/nyheter/usa_-alpakkaer-har-fatt-pavist-fugleinfluensa-1.16901695",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.502/common/img/default.jpg",
+      "publishedAt": "2024-05-29 01:27:32",
+      "content": "29. mai2024kl.03:27I USA har alpakkaer p\u00e5 en g\u00e5rd i Idaho f\u00e5tt p\u00e5vist fugleinfluensa. Det er f\u00f8rste gang at alpakkaer har f\u00e5tt p\u00e5vist sykdommen. Tidligere hadde g\u00e5rden hatt fj\u00f8rfe med H5N1-viruset. \u2026 [+194 chars]",
+      "retrievedAt": "2024-05-30 07:06:24.122205",
+      "internal_id": "3e5196d0c64564e0233998db964d2b0762ab3058902b04bf0c1713204ab0d64a",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9606,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mhlw.go.jp",
+      "author": "\u539a\u751f\u52b4\u50cd\u7701",
+      "title": "\uff12\uff10\uff12\uff14\u5e74\uff15\u6708\uff11\u65e5 \u7b2c\uff12\uff11\u56de\u65b0\u578b\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u5bfe\u7b56\u306b\u95a2\u3059\u308b\u5c0f\u59d4\u54e1\u4f1a\u30fb\u7b2c\uff18\u56de\u30ef\u30af\u30c1\u30f3\u4f5c\u696d\u73ed\u4f1a\u8b70\uff08\u5408\u540c\u958b\u50ac\uff09\u8b70\u4e8b\u9332",
+      "description": "",
+      "url": "https://www.mhlw.go.jp/stf/newpage_40447.html",
+      "urlToImage": "",
+      "publishedAt": "2024-05-29 00:32:00",
+      "content": "211411 2420131313 H2N2(H5N1)EB66 118118 116 H5N118H5N1193025H7N960H7N9Guangdong77H5Clade2.3.4.4bH5N8AstrakhanClade2.3.4.4bAH5N1H5N11530WHO8894635230H5N1102813Clade2.3.4.4b H5Clade2.3.4.4bAstrak\u2026 [+319 chars]",
+      "retrievedAt": "2024-05-30 07:06:24.100633",
+      "internal_id": "bdc0087c72ee9581f0abdb9afdf810003cb996711282792ee4ae393017155fc2",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9607,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY TZVI JOFFRE",
+      "title": "Cows, cats and now alpacas: Bird flu discovered for first time in 4 Idaho alpacas",
+      "description": "The virus the alpacas were infected with was the same strain that has been spreading among dairy cattle in recent months.",
+      "url": "https://www.jpost.com/health-and-wellness/article-804104",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/600675",
+      "publishedAt": "2024-05-28 22:50:57",
+      "content": "Four alpacas at a farm in Idaho were found to be infected with the H5N1 strain of Highly Pathogenic Avian Influenza, the Animal and Plant Health Inspection Service (APHIS) of the USDA said Tuesday. \u2026 [+2657 chars]",
+      "retrievedAt": "2024-05-30 07:06:24.109836",
+      "internal_id": "97bb680b34cd0447412b9a02c5755bbbb08f1ab5ea65adb5decac2528381ec41",
+      "publishedAtLabel": "May 28"
+    },
+    {
+      "id": 9615,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "AFP",
+      "title": "Preocupaci\u00f3n por enfermedades aumenta en el sur de Brasil tras inundaciones hist\u00f3ricas",
+      "description": "Las inundaciones que desvastaron R\u00edo Grande do Sul desde principios de mes convirtieron \u00e1reas enteras en inmensas lagunas de agua estancada con un olor a veces nauseabundo",
+      "url": "https://www.nacion.com/el-mundo/preocupacion-por-enfermedades-aumenta-en-el-sur-de/LCESUFE7NVG5RON4ZGUAVN24XE/story/",
+      "urlToImage": "https://www.nacion.com/resizer/Ks4RbB01PHbDwJ-QUqXEl8ENGHQ=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/YYAZOQBOQRCFHBBUXRM4PZ46U4.jpg",
+      "publishedAt": "2024-05-28 22:40:00",
+      "content": "Rio de Janeiro. La aparici\u00f3n de casos y al menos cinco muertes por leptospirosis, una enfermedad bacteriana com\u00fanmente transmitida por las ratas, preocupa a las autoridades tras las inundaciones sin \u2026 [+2039 chars]",
+      "retrievedAt": "2024-05-30 07:06:26.400336",
+      "internal_id": "83d818a48abd6760145810653fef778d4b872c487d7292c6bf87e69bc2356efe",
+      "publishedAtLabel": "May 28"
+    },
+    {
+      "id": 9613,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Kaitlin Sullivan and Anne Thompson and Patrick Martin",
+      "title": "Dengue fever, once confined to the tropics, now threatens the U.S.",
+      "description": "Dengue is a viral fever spread through mosquito bites. It\u2019s common in many tropical regions across the globe, but has recently appeared in more temperate climates.",
+      "url": "https://www.nbcnews.com/health/health-news/dengue-fever-climate-change-mosquitos-tropical-disease-rcna149366",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-05/230509-mosquito-Aedes-aegypti-ew-510p-f65f38.jpg",
+      "publishedAt": "2024-05-28 21:13:56",
+      "content": "Meg Norris was traveling in Argentina in April when the first signs of dengue fever hit her. The weather in Salta, just south of the Bolivian border, was warm, but Norris, a 33-year-old from Boulder,\u2026 [+8783 chars]",
+      "retrievedAt": "2024-05-30 07:06:24.561874",
+      "internal_id": "ae572cc56c81ba14b02a5610f0e1dc69e0d82c4b5f75e099b8937eedbb651a52",
+      "publishedAtLabel": "May 28"
+    },
+    {
+      "id": 9605,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Bel\u00e9n Liotti",
+      "title": "Alpacas dan positivo a la gripe aviar H5N1 por primera vez",
+      "description": "La gripe aviar altamente pat\u00f3gena fue encontrada en alpacas por primera vez, seg\u00fan los Laboratorios de Servicios Veterinarios Nacionales del Departamento de Agricultura de EE.UU.",
+      "url": "https://cnnespanol.cnn.com/2024/05/28/alpacas-positivo-gripe-aviar-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/05/GettyImages-1227956918-e1716929506592.jpg?quality=100&strip=info",
+      "publishedAt": "2024-05-28 21:10:16",
+      "content": "Relacionado: El riesgo epidemiol\u00f3gico del contagio del ganado por la gripe aviar H5N1 1:20 (CNN) -- La gripe aviar altamente pat\u00f3gena fue encontrada en alpacas por primera vez, seg\u00fan los Laboratorio\u2026 [+1429 chars]",
+      "retrievedAt": "2024-05-30 07:06:24.078188",
+      "internal_id": "042f31eed1825873258c157f6d98032dc999d9e44ee9bfc77228686abcff0f67",
+      "publishedAtLabel": "May 28"
+    },
+    {
+      "id": 9612,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Dengue: DF chega a 381 mortes em cinco meses; 21 est\u00e3o em investiga\u00e7\u00e3o",
+      "description": "De acordo com o Minist\u00e9rio da Sa\u00fade, o DF j\u00e1 registrou 381 mortes por dengue em 2024. Capital soma 258 mil casos prov\u00e1veis",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-df-chega-a-381-mortes-em-cinco-meses-21-estao-em-investigacao",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/05/20133115/Dengue-compressed-2.jpg",
+      "publishedAt": "2024-05-28 21:06:22",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2696 chars]",
+      "retrievedAt": "2024-05-30 07:06:24.556499",
+      "internal_id": "a52122ffe3c5d71d219d694dead4390e42a5be5d12f8d5ab8a96fc36ee234982",
+      "publishedAtLabel": "May 28"
+    },
+    {
+      "id": 9603,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "Whooping cough outbreaks: Why is pertussis on the rise in several countries?",
+      "description": "Notable outbreaks of whooping cough, or pertussis, have raised concern in some countries.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/whooping-cough-outbreaks-why-is-pertussis-on-the-rise-in-several-countries",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Gaz5mKddkXsPXFG8mPiRyk-1200-80.jpg",
+      "publishedAt": "2024-05-28 20:57:21",
+      "content": "Cases of whooping cough, or pertussis, have been on the rise in various countries, including the U.K., Australia and China. The U.S. has not seen similar upticks yet, although a few isolated outbreak\u2026 [+8725 chars]",
+      "retrievedAt": "2024-05-30 07:06:23.021466",
+      "internal_id": "7b2aa8ba5729e4dc9ad6d04c6d29b625969ee255e9ee405625764b85b470434e",
+      "publishedAtLabel": "May 28"
+    },
+    {
+      "id": 9610,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "Alpacas test positive for H5N1 bird flu for the first time | CNN",
+      "description": "Highly pathogenic avian influenza, sometimes called bird flu, has been confirmed in alpacas for the first time, according to the US Department of Agriculture\u2019s National Veterinary Services Laboratories.",
+      "url": "https://www.cnn.com/2024/05/28/health/alpacas-h5n1-bird-flu/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/53742466267-756a538fef-o.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-28 20:51:51",
+      "content": "Highly pathogenic avian influenza, sometimes called bird flu, has been confirmed in alpacas for the first time, according to the US Department of Agricultures National Veterinary Services Laboratorie\u2026 [+1128 chars]",
+      "retrievedAt": "2024-05-30 07:06:24.179008",
+      "internal_id": "f895c140af01b2818627abb3a381ffb310f2ce4d7f7e8fbbe31a599d7d2ef95f",
+      "publishedAtLabel": "May 28"
+    },
+    {
+      "id": 9609,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Pfizer : Reiterates Commitment to Pandemic Preparedness",
+      "description": "(marketscreener.com) NEW YORK, NY, MAY 28, 2024 - Pfizer Inc. continues to closely monitor all developments regarding the circulation and outbreaks of the A/H5N1 virus. As part of the company's broader pandemic preparedness efforts, in late 2023, Pfizer initi\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/PFIZER-INC-23365019/news/Pfizer-Reiterates-Commitment-to-Pandemic-Preparedness-46844843/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2024-05-28 20:45:15",
+      "content": "NEW YORK, NY, MAY 28, 2024 - Pfizer Inc. (NYSE:PFE) continues to closely monitor all developments regarding the circulation and outbreaks of the A/H5N1 virus. As part of the company's broader pandemi\u2026 [+574 chars]",
+      "retrievedAt": "2024-05-30 07:06:24.139259",
+      "internal_id": "8d5559a14986da92ef5e2e1a6634441eca5f9d38f743f33566cb36a48027cbe6",
+      "publishedAtLabel": "May 28"
+    },
     {
       "id": 9598,
       "query": [
@@ -25416,6 +25651,114 @@
       "content": "La Seremi de la Regi\u00f3n de Valpara\u00edso confirm\u00f3 el hallazgo de un mosquito Aedes aegypti en el Terminal de Buses Ahumada de la comuna de Los Andes, lo que ha generado un llamado urgente a la acci\u00f3n por\u2026 [+1901 chars]",
       "retrievedAt": "2024-04-16 07:06:13.321002",
       "internal_id": "39339444eefc7b256d165e35edab548f00068c54f87fd57297a52c5ba632d047",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8189,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Deadline",
+      "author": "Bruce Haring",
+      "title": "L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier",
+      "description": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los Angeles County Department of Public Health said it had received\u2026",
+      "url": "http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/09/Universal-Studios-theme-park-Hollywood.jpg?w=1024",
+      "publishedAt": "2024-04-14 18:32:51",
+      "content": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los An\u2026 [+1049 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.686603",
+      "internal_id": "6754d64ecced4850f3f21b330198b32459cdf8cc6ba021f346496bd25e8bfb83",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8191,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Martina Riemlov\u00e1",
+      "title": "Argentina bojuje s vlnou hore\u010dky dengue, repelenty v zemi nejsou k sehn\u00e1n\u00ed",
+      "description": "V Argentin\u011b se \u0161\u00ed\u0159\u00ed epidemie hore\u010dky dengue, a tak v tamn\u00edch obchodech a l\u00e9k\u00e1rn\u00e1ch chyb\u00ed dostate\u010dn\u00e9 mno\u017estv\u00ed p\u0159\u00edpravk\u016f proti hmyzu. Tamn\u00ed \u00fa\u0159ady u\u017e zru\u0161ily omezen\u00ed souvisej\u00edc\u00ed s dovozem repelent\u016f, aby v zemi nav\u00fd\u0161ily nab\u00eddku. N\u011bkte\u0159\u00ed obyvatel\u00e9 si prozat\u00edm za\u010da\u2026",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2024/4/RIE80166f40ba_profimedia_0863037161.jpg",
+      "publishedAt": "2024-04-14 17:00:00",
+      "content": "Navt\u00edvili jsme nejm\u00e9n ticet l\u00e9k\u00e1ren po cel\u00e9m mst, nic u nezbylo, \u00edk\u00e1 pro agenturu AP dvaatyicetilet\u00e1 Ana Infante z hlavn\u00edho msta Buenos Aires. Chtla nakoupit repelenty pot\u00e9, co jej\u00ed spolupracovnice m\u2026 [+2955 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.449323",
+      "internal_id": "276f46d6c6aaa7f9c7f18b77d7e212406c4dacd6f9717f373c6928c6996128db",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8193,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El mapa del dengue: informan por primera vez en el a\u00f1o una tendencia en baja, con excepci\u00f3n de dos provincias",
+      "description": "Surge del ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias y en un an\u00e1lisis que las autoridades sanitarias",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-es-transmitido-por-la-S3JPAWMYHRDENE6Q76GQSY2MO4.jpg?auth=ea273d9864dfb28806178bede17b6b98a393721aefc196f023cbc6d6eca84657&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-14 16:08:20",
+      "content": "El avance de la epidemia de dengue en las 19 provincias con circulaci\u00f3n viral estar\u00eda tendiendo a desacelerarse, de acuerdo con el ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias\u2026 [+2630 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.545411",
+      "internal_id": "98a2d21fa90f6d15b4ada2e8bad569b674137707859c0d40e1fa86c82bcadea1",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8192,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Arreguy",
+      "title": "SP chega a 285 mortes por dengue e 573 mil casos da doen\u00e7a",
+      "description": "Capital concentra mortes por dengue no estado, com 39 \u00f3bitos, seguida de Guarulhos, na Grande SP, com 26, e Jacare\u00ed, no interior, com 20",
+      "url": "https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
+      "publishedAt": "2024-04-14 15:48:07",
+      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo chegou a 285 mortes por dengue neste domingo (14/4), e investiga 605 outros \u00f3bitos em decorr\u00eancia da doen\u00e7a. As informa\u00e7\u00f5es constam no painel de monitoramento da Secre\u2026 [+6245 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.456240",
+      "internal_id": "6c2c17696af3df5a2356e199353c2a2aa8edcd88a1eb20193c3659a959247c76",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8190,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Alessia Dunn",
+      "title": "Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger",
+      "description": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. When guests visit a theme park, it is impossible to think that you will not come into contact with germs. At \u2026",
+      "url": "https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Universal-Hollywood.jpg",
+      "publishedAt": "2024-04-14 14:29:45",
+      "content": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. Credit: Universal Studios When guests visit a t\u2026 [+4444 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.714627",
+      "internal_id": "4b63de4a1f2879f2231802882676a41b3a9a477fc46ba131faf2e2cee5fb374b",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8188,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Alarming Measles Outbreaks Surge Across Europe And Central Asia",
+      "description": "While focus in the U.S. has been on rising numbers of measles cases domestically, it\u2019s Europe and Central Asia where the situation is at crisis level.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661bbf0650e753f1cc011c18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-14 13:13:47",
+      "content": "Little girl with measles. getty After surging at the end of last year, measles outbreaks across Europe and Central Asia intensified in the first quarter of 2024, with incidence rates of up to hundr\u2026 [+6945 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.673594",
+      "internal_id": "bbbf1402efba99042fd00b5c3e3c92fffbbd7087b18b96f84e7fbe35ce307cf7",
       "publishedAtLabel": "Apr 14"
     }
   ]

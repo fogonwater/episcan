@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-05-29 19:05
-- **Most recent article:** 2024-05-28 18:28:41
+- **New articles in last harvest:** 13
+- **Last harvest:** 2024-05-30 07:06
+- **Most recent article:** 2024-05-29 07:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 108 | 117 | 77 | 57 | 87 | 58 | 18 | 522 |
-| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 22 | 237 |
+| dengue | 111 | 117 | 77 | 57 | 87 | 58 | 22 | 529 |
+| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 29 | 244 |
 | malaria | 29 | 77 | 25 | 29 | 13 | 17 | 8 | 198 |
-| measles | 36 | 28 | 24 | 10 | 29 | 15 | 5 | 147 |
+| measles | 39 | 28 | 24 | 10 | 29 | 15 | 5 | 150 |
 | mpox | 13 | 8 | 36 | 3 | 10 | 9 | 3 | 82 |
 | meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 0 | 70 |
 | rabies | 3 | 3 | 4 | 22 | 10 | 8 | 1 | 51 |
 | chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 2 | 39 |
-| pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 2 | 32 |
+| pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 3 | 33 |
 | zika | 8 | 3 | 8 | 2 | 6 | 3 | 2 | 32 |
 | sarampión | 0 | 10 | 8 | 1 | 0 | 0 | 0 | 19 |
-| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 1 | 15 |
-| leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 2 | 14 |
+| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 2 | 16 |
+| leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 3 | 15 |
 | yersinia | 2 | 0 | 5 | 1 | 0 | 6 | 0 | 14 |
 | typhoid | 2 | 0 | 0 | 3 | 2 | 0 | 0 | 7 |
 
@@ -44,6 +44,8 @@ Source: [News API](https://newsapi.org/)
 - [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
 
 ## 24-22 (pertussis)
+
+- [Whooping cough outbreaks: Why is pertussis on the rise in several countries?](https://www.livescience.com/health/viruses-infections-disease/whooping-cough-outbreaks-why-is-pertussis-on-the-rise-in-several-countries) (Live Science)
 
 - [Correspondence: Prenatal pertussis vaccine change from July 2024 letter](https://www.gov.uk/government/publications/prenatal-pertussis-vaccine-change-from-july-2024-letter) (Www.gov.uk)
 
@@ -89,15 +91,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (leptospirosis)
 
+- [Preocupación por enfermedades aumenta en el sur de Brasil tras inundaciones históricas](https://www.nacion.com/el-mundo/preocupacion-por-enfermedades-aumenta-en-el-sur-de/LCESUFE7NVG5RON4ZGUAVN24XE/story/) (Nacion.com)
+
 - [Cases of bacterial disease rise in Brazil’s flooded south](https://www.digitaljournal.com/world/cases-of-bacterial-disease-rise-in-brazils-flooded-south/article) (Digital Journal)
 
 - [Waterborne disease outbreak after Brazil floods kills four](https://www.bbc.com/news/articles/cq559gexxy5o) (BBC News)
 
 ## 24-22 (hpai)
 
+- [Vers une nouvelle épidémie de grippe aviaire ? une nouvelle espèce de mammifère touchée par le virus](https://www.dhnet.be/actu/sante/2024/05/29/vers-une-nouvelle-epidemie-de-grippe-aviaire-une-nouvelle-espece-de-mammifere-touchee-par-le-virus-7QGYXTXZ3JBMDMEZ7LQ4HBPOJU/) (dh.be)
+
 - [Мыши заболели птичьим гриппом, выпив сырого молока](https://naked-science.ru/article/medicine/bird-flu-in-milk) (Naked-science.ru)
 
 ## 24-22 (h5n1)
+
+- [Vers une nouvelle épidémie de grippe aviaire ? une nouvelle espèce de mammifère touchée par le virus](https://www.dhnet.be/actu/sante/2024/05/29/vers-une-nouvelle-epidemie-de-grippe-aviaire-une-nouvelle-espece-de-mammifere-touchee-par-le-virus-7QGYXTXZ3JBMDMEZ7LQ4HBPOJU/) (dh.be)
+
+- [USA: Alpakkaer har fått påvist fugleinfluensa](https://www.nrk.no/nyheter/usa_-alpakkaer-har-fatt-pavist-fugleinfluensa-1.16901695) (NRK)
+
+- [２０２４年５月１日 第２１回新型インフルエンザ対策に関する小委員会・第８回ワクチン作業班会議（合同開催）議事録](https://www.mhlw.go.jp/stf/newpage_40447.html) (Mhlw.go.jp)
+
+- [Cows, cats and now alpacas: Bird flu discovered for first time in 4 Idaho alpacas](https://www.jpost.com/health-and-wellness/article-804104) (The Jerusalem Post)
+
+- [Alpacas dan positivo a la gripe aviar H5N1 por primera vez](https://cnnespanol.cnn.com/2024/05/28/alpacas-positivo-gripe-aviar-trax/) (CNN)
+
+- [Alpacas test positive for H5N1 bird flu for the first time | CNN](https://www.cnn.com/2024/05/28/health/alpacas-h5n1-bird-flu/index.html) (CNN)
+
+- [Pfizer : Reiterates Commitment to Pandemic Preparedness](https://www.marketscreener.com/quote/stock/PFIZER-INC-23365019/news/Pfizer-Reiterates-Commitment-to-Pandemic-Preparedness-46844843/) (Marketscreener.com)
 
 - [US, European nations seek increased vaccine production to protect workers exposed to bird flu](https://www.foxnews.com/world/us-european-nations-seek-increased-vaccine-production-protect-workers-exposed-bird-flu) (Fox News)
 
@@ -144,6 +164,14 @@ Source: [News API](https://newsapi.org/)
 - [Day 1: ruffled fur and lethargy](https://www.metafilter.com/203879/Day-1-ruffled-fur-and-lethargy) (Metafilter.com)
 
 ## 24-22 (dengue)
+
+- [Dengue: drones monitoram criadouros do Aedes aegypti em São Paulo](https://olhardigital.com.br/2024/05/29/medicina-e-saude/dengue-drones-monitoram-criadouros-do-aedes-aegypti-em-sao-paulo/) (Olhardigital.com.br)
+
+- [Horečkou dengue a malárií se lze nakazit už i v Evropě, může za to oteplování](https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https:%2F%2Fwww.novinky.cz%2Fclanek%2Fzdravi-horeckou-dengue-a-malarii-se-lze-nakazit-uz-i-v-evrope-muze-za-to-oteplovani-40473792%3Fcwreturn%3D1) (Seznam.cz)
+
+- [Dengue fever, once confined to the tropics, now threatens the U.S.](https://www.nbcnews.com/health/health-news/dengue-fever-climate-change-mosquitos-tropical-disease-rcna149366) (NBC News)
+
+- [Dengue: DF chega a 381 mortes em cinco meses; 21 estão em investigação](https://www.metropoles.com/distrito-federal/dengue-df-chega-a-381-mortes-em-cinco-meses-21-estao-em-investigacao) (Metropoles.com)
 
 - [SURVEILLANCE SUMMARIES: Sentinel Enhanced Dengue Surveillance System — Puerto Rico, 2012–2022](https://www.cdc.gov/mmwr/volumes/73/ss/ss7303a1.htm) (Cdc.gov)
 
@@ -2865,6 +2893,12 @@ Source: [News API](https://newsapi.org/)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
+- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
+
+- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
+
+- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
+
 ## 24-16 (malaria)
 
 - [Xewa Sowé Center for Orphans / Corentin Dalon + Arianna Fabrizi De Biani + Doryan Kuschner + Florian Mahieu](https://www.archdaily.com/1015819/xewa-sowe-center-for-orphans-corentin-dalon-plus-arianna-fabrizi-de-biani-plus-doryan-kuschner-plus-florian-mahieu) (ArchDaily)
@@ -3150,6 +3184,12 @@ Source: [News API](https://newsapi.org/)
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
 - [Alerta sanitaria: Confirman hallazgo de mosquito transmisor del dengue en terminal de buses de Los Andes](https://www.cnnchile.com/pais/alerta-sanitaria-hallazgo-mosquito-dengue-terminal-los-andes_20240414/) (Cnnchile.com)
+
+- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
+
+- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
+
+- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 ## 24-16 (chikungunya)
 
