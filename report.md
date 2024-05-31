@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-05-31 07:06
-- **Most recent article:** 2024-05-30 06:11:54
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-05-31 19:05
+- **Most recent article:** 2024-05-30 18:52:59
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 111 | 117 | 77 | 57 | 87 | 58 | 30 | 537 |
-| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 39 | 254 |
-| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 16 | 206 |
-| measles | 39 | 28 | 24 | 10 | 29 | 15 | 8 | 153 |
-| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 6 | 85 |
-| meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 0 | 70 |
+| dengue | 108 | 117 | 77 | 57 | 87 | 58 | 36 | 540 |
+| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 49 | 264 |
+| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 18 | 208 |
+| measles | 36 | 28 | 24 | 10 | 29 | 15 | 10 | 152 |
+| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 8 | 87 |
+| meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 1 | 71 |
 | rabies | 3 | 3 | 4 | 22 | 10 | 8 | 1 | 51 |
 | chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 4 | 41 |
+| pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 5 | 35 |
 | zika | 8 | 3 | 8 | 2 | 6 | 3 | 3 | 33 |
-| pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 3 | 33 |
+| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 5 | 19 |
 | sarampión | 0 | 10 | 8 | 1 | 0 | 0 | 0 | 19 |
-| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 4 | 18 |
 | leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 3 | 15 |
 | yersinia | 2 | 0 | 5 | 1 | 0 | 6 | 0 | 14 |
 | typhoid | 2 | 0 | 0 | 3 | 2 | 0 | 0 | 7 |
@@ -47,6 +47,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (pertussis)
 
+- [Oregon health officials warn of rise in whooping cough cases](https://www.kptv.com/2024/05/30/oregon-health-officials-warn-rise-whooping-cough-cases/) (KPTV.com)
+
+- [Cases of whooping cough reported in Minnetonka schools](https://www.startribune.com/cases-of-whooping-cough-reported-in-minnetonka-schools/600369719/) (Minneapolis Star Tribune)
+
 - [Whooping cough outbreaks: Why is pertussis on the rise in several countries?](https://www.livescience.com/health/viruses-infections-disease/whooping-cough-outbreaks-why-is-pertussis-on-the-rise-in-several-countries) (Live Science)
 
 - [Correspondence: Prenatal pertussis vaccine change from July 2024 letter](https://www.gov.uk/government/publications/prenatal-pertussis-vaccine-change-from-july-2024-letter) (Www.gov.uk)
@@ -54,6 +58,10 @@ Source: [News API](https://newsapi.org/)
 - [El misterioso aumento de los casos de tos ferina](https://www.dw.com/es/el-misterioso-aumento-de-los-casos-de-tos-ferina/a-69188517) (DW (English))
 
 ## 24-22 (mpox)
+
+- [Get Your Free 2024 Mpox Vaccine, Say San Francisco Health Officials](https://www.kqed.org/news/11988079/2024-mpox-vaccine-formerly-monkeypox-symptoms-rash) (KQED)
+
+- [Bavarian Nordic and CEPI Partners to Advance Mpox Vaccination in Africa](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-and-CEPI-Partners-to-Advance-Mpox-Vaccination-in-Africa-46863647/) (Marketscreener.com)
 
 - [Eight cases of monkeypox recorded in Queensland](https://www.1news.co.nz/2024/05/30/eight-cases-of-monkeypox-recorded-in-queensland/) (1news.co.nz)
 
@@ -67,7 +75,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie](https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000) (Www.nrc.nl)
 
+## 24-22 (meningitis)
+
+- [Día Nacional de la Donación de Órganos: su hijo mayor falleció a los ocho meses, donaron sus órganos y hoy se dedica a la terapia pediátrica](https://www.lanacion.com.ar/comunidad/dia-nacional-de-la-donacion-de-organos-su-hijo-mayor-fallecio-a-los-ocho-meses-donaron-sus-organos-y-nid30052024/) (La Nacion)
+
 ## 24-22 (measles)
+
+- [Chicago public health officials declare end to measles outbreak](https://www.cbsnews.com/chicago/news/chicago-measles-outbreak-over-public-health-department/) (CBS News)
+
+- [Measles – An Ancient Foe in Modern Times](https://www.stemlynsblog.org/measles-an-ancient-foe-in-modern-times/) (Stemlynsblog.org)
 
 - [4 ways vaccine skeptics mislead you on measles and more](http://www.sun-sentinel.com/2024/05/29/4-ways-vaccine-skeptics-mislead-you-on-measles-and-more/) (Sun Sentinel)
 
@@ -86,6 +102,10 @@ Source: [News API](https://newsapi.org/)
 - [Infectious person with measles traveled through LAX, health officials warn](https://abc7.com/post/infectious-person-measles-traveled-lax-health-officials-warn/14876506/) (KABC-TV)
 
 ## 24-22 (malaria)
+
+- [Nach Erdrutsch: Warnung vor Seuchen in Papua-Neuguinea](https://orf.at/stories/3359192/) (Orf.at)
+
+- [Pregnant in a warming climate: A lethal ‘double risk’ for malaria](http://grist.org/health/fertility-climate-change-pregnancy-malaria-placenta-mosquito/) (Grist)
 
 - [大分県別府市の観光名所、血の池地獄。オリジナル新商品『血の池地獄 蚊取り線香』を5月29日より販売開始！](https://prtimes.jp/main/html/rd/p/000000005.000127864.html) (Prtimes.jp)
 
@@ -129,6 +149,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (hpai)
 
+- [News story: UK declares freedom from bird flu](https://www.gov.uk/government/news/uk-declares-freedom-from-bird-flu) (Www.gov.uk)
+
 - [CDC Confirms Second Human H5 Bird Flu Case in Michigan; Third Case Tied to Dairy Outbreak](https://www.cdc.gov/media/releases/2024/p0530-h5-human-case-michigan.html) (Cdc.gov)
 
 - [Alpacas in Idaho test positive for H5N1 bird flu in another world first](https://arstechnica.com/science/2024/05/h5n1-bird-flu-has-come-for-the-alpacas-too-the-usda-reports/) (Ars Technica)
@@ -138,6 +160,26 @@ Source: [News API](https://newsapi.org/)
 - [Мыши заболели птичьим гриппом, выпив сырого молока](https://naked-science.ru/article/medicine/bird-flu-in-milk) (Naked-science.ru)
 
 ## 24-22 (h5n1)
+
+- [Bird Flu (H5N1) Explained: Third U.S. Dairy Farm Worker Infected With Bird Flu—With New Symptoms](https://www.forbes.com/sites/ariannajohnson/2024/05/30/bird-flu-h5n1-explained-third-us-dairy-farm-worker-infected-with-bird-flu-with-new-symptoms/) (Forbes)
+
+- [2:00PM Water Cooler 5/30/2024](https://www.nakedcapitalism.com/2024/05/200pm-water-cooler-5-30-2024.html) (Nakedcapitalism.com)
+
+- [В США обнаружен пациент с новым симптомом птичьего гриппа](https://rg.ru/2024/05/30/v-ssha-obnaruzhen-pacient-s-novym-simptomom-ptichego-grippa.html) (Rg.ru)
+
+- [Tercera persona en EE.UU. da positivo por gripe aviar en relación con un brote en ganado lechero](https://cnnespanol.cnn.com/2024/05/30/gripe-aviar-h5-eeuu-michigan-tercera-persona-trax/) (CNN)
+
+- [นักวิจัยทดสอบวัคซีน mRNA ไข้หวัดนกในสัตว์ได้ผลดีมาก พัฒนาวัคซีนได้ในระดับชั่วโมงเท่านั้น](https://www.blognone.com/node/140053) (Blognone.com)
+
+- [Moderna's mRNA bird flu vaccine trial is close to getting US government funding](https://qz.com/moderna-bird-flu-mrna-vaccine-trial-1851508948) (Quartz India)
+
+- [We’re Facing a Potential Bird Flu Catastrophe](https://www.thenation.com/article/society/bird-flu-outbreak-public-health/) (Thenation.com)
+
+- [We're Facing a Potential Bird Flu Catastrophe](https://www.thenation.com/article/archive/bird-flu-outbreak-public-health/) (Thenation.com)
+
+- [US proposes bulk milk testing for bird flu before cattle transport](https://www.marketscreener.com/news/latest/US-proposes-bulk-milk-testing-for-bird-flu-before-cattle-transport-46863665/) (Marketscreener.com)
+
+- [Canadian scientists launch early warning system to spot traces of H5N1 bird flu in milk](https://www.cbc.ca/news/health/h5n1-bird-flu-early-warning-system-1.7218486) (CBC News)
 
 - [U.S. Government Nears Deal To Fund Moderna mRNA Bird Flu Shot Trial, Report Says](https://www.forbes.com/sites/siladityaray/2024/05/30/us-government-nears-deal-to-fund-moderna-mrna-bird-flu-shot-trial-report-says/) (Forbes)
 
@@ -218,6 +260,18 @@ Source: [News API](https://newsapi.org/)
 - [Day 1: ruffled fur and lethargy](https://www.metafilter.com/203879/Day-1-ruffled-fur-and-lethargy) (Metafilter.com)
 
 ## 24-22 (dengue)
+
+- [Con 8 millones de casos de dengue, la epidemia en las Américas no tiene precedentes](https://www.montevideo.com.uy/Salud/Con-8-millones-de-casos-de-dengue-la-epidemia-en-las-Americas-no-tiene-precedentes-uc889840) (Montevideo.com.uy)
+
+- [Harris County dengue case: Health officials announce human case of disease spread by mosquitoes](https://abc13.com/post/harris-county-dengue-case-health-officials-announce-human/14890905/) (KTRK-TV)
+
+- [Casos de dengue nas Américas superam recorde do ano passado, diz OMS](https://www.terra.com.br/noticias/casos-de-dengue-nas-americas-superam-recorde-do-ano-passado-diz-oms,90433fbc036c9576a267c00cc1aca22cumbucnlw.html) (Terra.com.br)
+
+- [Dengue cases in Americas surpass last year's record high, WHO says](https://www.investing.com/news/general-news/dengue-cases-in-americas-surpass-last-years-record-high-who-says-3463616) (Investing.com)
+
+- [Dengue cases in Americas surpass last year's record high, WHO says](https://www.marketscreener.com/news/latest/Dengue-cases-in-Americas-surpass-last-year-s-record-high-WHO-says-46865809/) (Marketscreener.com)
+
+- [Queda de cabelo pós-dengue: o que explica esse quadro? Tem tratamento?](https://www.terra.com.br/vida-e-estilo/saude/queda-de-cabelo-pos-dengue-o-que-explica-esse-quadro-tem-tratamento,5c6dd19a58ed25b26859a17bf8000268rv9t2bna.html) (Terra.com.br)
 
 - [Novas Vacinas Disponíveis: Proteção ampliada contra Dengue e Covid-19](https://www.terra.com.br/noticias/novas-vacinas-disponiveis-protecao-ampliada-contra-dengue-e-covid-19,46df208cd32836046065fbf716c94df7u2ytgc1y.html) (Terra.com.br)
 
@@ -2967,12 +3021,6 @@ Source: [News API](https://newsapi.org/)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
-- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
-
-- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
-
-- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
-
 ## 24-16 (malaria)
 
 - [Xewa Sowé Center for Orphans / Corentin Dalon + Arianna Fabrizi De Biani + Doryan Kuschner + Florian Mahieu](https://www.archdaily.com/1015819/xewa-sowe-center-for-orphans-corentin-dalon-plus-arianna-fabrizi-de-biani-plus-doryan-kuschner-plus-florian-mahieu) (ArchDaily)
@@ -3258,12 +3306,6 @@ Source: [News API](https://newsapi.org/)
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
 - [Alerta sanitaria: Confirman hallazgo de mosquito transmisor del dengue en terminal de buses de Los Andes](https://www.cnnchile.com/pais/alerta-sanitaria-hallazgo-mosquito-dengue-terminal-los-andes_20240414/) (Cnnchile.com)
-
-- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
-
-- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
-
-- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 ## 24-16 (chikungunya)
 
