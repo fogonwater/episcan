@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2024-05-30 19:05
-- **Most recent article:** 2024-05-29 18:49:31
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-05-31 07:06
+- **Most recent article:** 2024-05-30 06:11:54
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 108 | 117 | 77 | 57 | 87 | 58 | 30 | 534 |
-| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 36 | 251 |
-| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 13 | 203 |
-| measles | 36 | 28 | 24 | 10 | 29 | 15 | 8 | 150 |
-| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 4 | 83 |
+| dengue | 111 | 117 | 77 | 57 | 87 | 58 | 30 | 537 |
+| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 39 | 254 |
+| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 16 | 206 |
+| measles | 39 | 28 | 24 | 10 | 29 | 15 | 8 | 153 |
+| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 6 | 85 |
 | meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 0 | 70 |
 | rabies | 3 | 3 | 4 | 22 | 10 | 8 | 1 | 51 |
 | chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 4 | 41 |
 | zika | 8 | 3 | 8 | 2 | 6 | 3 | 3 | 33 |
 | pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 3 | 33 |
 | sarampión | 0 | 10 | 8 | 1 | 0 | 0 | 0 | 19 |
-| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 3 | 17 |
+| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 4 | 18 |
 | leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 3 | 15 |
 | yersinia | 2 | 0 | 5 | 1 | 0 | 6 | 0 | 14 |
 | typhoid | 2 | 0 | 0 | 3 | 2 | 0 | 0 | 7 |
@@ -55,6 +55,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (mpox)
 
+- [Eight cases of monkeypox recorded in Queensland](https://www.1news.co.nz/2024/05/30/eight-cases-of-monkeypox-recorded-in-queensland/) (1news.co.nz)
+
+- [Queensland records eight cases of Mpox in one month, formerly known as 'monkeypox'](https://www.abc.net.au/news/2024-05-30/queensland-mpox-cluster-low-risk-to-community-monkey-pox/103907820) (ABC News (AU))
+
 - [We Can Prevent Another Summer mPox Outbreak](https://www.scientificamerican.com/article/we-can-prevent-another-summer-mpox-outbreak/) (Scientific American)
 
 - [Health department urges screening after 2nd confirmed mpox case](https://www.capetownetc.com/news/health-department-urges-screening-after-2nd-confirmed-mpox-case/) (CapeTown ETC)
@@ -82,6 +86,12 @@ Source: [News API](https://newsapi.org/)
 - [Infectious person with measles traveled through LAX, health officials warn](https://abc7.com/post/infectious-person-measles-traveled-lax-health-officials-warn/14876506/) (KABC-TV)
 
 ## 24-22 (malaria)
+
+- [大分県別府市の観光名所、血の池地獄。オリジナル新商品『血の池地獄 蚊取り線香』を5月29日より販売開始！](https://prtimes.jp/main/html/rd/p/000000005.000127864.html) (Prtimes.jp)
+
+- [Novel Flexible Biphenyl PfDHFR Inhibitors With Improved Antimalarial Activity](https://pubs.rsc.org/en/content/articlelanding/2024/md/d4md00197d) (Royal Society of Chemistry)
+
+- [Why pregnancy triples your chances of getting severe malaria](https://www.vox.com/climate/351398/climate-change-expanding-malarias-range-putting-more-pregnant-women-at-risk) (Vox)
 
 - [WHO: Climate change could increase spread of diseases](https://www.voanews.com/a/who-climate-change-could-increase-spread-of-diseases/7633858.html) (VOA News)
 
@@ -119,6 +129,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (hpai)
 
+- [CDC Confirms Second Human H5 Bird Flu Case in Michigan; Third Case Tied to Dairy Outbreak](https://www.cdc.gov/media/releases/2024/p0530-h5-human-case-michigan.html) (Cdc.gov)
+
 - [Alpacas in Idaho test positive for H5N1 bird flu in another world first](https://arstechnica.com/science/2024/05/h5n1-bird-flu-has-come-for-the-alpacas-too-the-usda-reports/) (Ars Technica)
 
 - [Vers une nouvelle épidémie de grippe aviaire ? une nouvelle espèce de mammifère touchée par le virus](https://www.dhnet.be/actu/sante/2024/05/29/vers-une-nouvelle-epidemie-de-grippe-aviaire-une-nouvelle-espece-de-mammifere-touchee-par-le-virus-7QGYXTXZ3JBMDMEZ7LQ4HBPOJU/) (dh.be)
@@ -126,6 +138,12 @@ Source: [News API](https://newsapi.org/)
 - [Мыши заболели птичьим гриппом, выпив сырого молока](https://naked-science.ru/article/medicine/bird-flu-in-milk) (Naked-science.ru)
 
 ## 24-22 (h5n1)
+
+- [U.S. Government Nears Deal To Fund Moderna mRNA Bird Flu Shot Trial, Report Says](https://www.forbes.com/sites/siladityaray/2024/05/30/us-government-nears-deal-to-fund-moderna-mrna-bird-flu-shot-trial-report-says/) (Forbes)
+
+- [US nears deal to fund Moderna's bird flu vaccine trial, FT reports](https://www.investing.com/news/stock-market-news/us-nears-deal-to-fund-modernas-bird-flu-vaccine-trial-ft-reports-3462406) (Investing.com)
+
+- [US nears deal to fund Moderna's bird flu vaccine trial, FT reports](https://www.marketscreener.com/quote/stock/MODERNA-INC-47437573/news/US-nears-deal-to-fund-Moderna-s-bird-flu-vaccine-trial-FT-reports-46858634/) (Marketscreener.com)
 
 - [Alpacas in Idaho test positive for H5N1 bird flu in another world first](https://arstechnica.com/science/2024/05/h5n1-bird-flu-has-come-for-the-alpacas-too-the-usda-reports/) (Ars Technica)
 
@@ -2949,6 +2967,12 @@ Source: [News API](https://newsapi.org/)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
+- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
+
+- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
+
+- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
+
 ## 24-16 (malaria)
 
 - [Xewa Sowé Center for Orphans / Corentin Dalon + Arianna Fabrizi De Biani + Doryan Kuschner + Florian Mahieu](https://www.archdaily.com/1015819/xewa-sowe-center-for-orphans-corentin-dalon-plus-arianna-fabrizi-de-biani-plus-doryan-kuschner-plus-florian-mahieu) (ArchDaily)
@@ -3234,6 +3258,12 @@ Source: [News API](https://newsapi.org/)
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
 - [Alerta sanitaria: Confirman hallazgo de mosquito transmisor del dengue en terminal de buses de Los Andes](https://www.cnnchile.com/pais/alerta-sanitaria-hallazgo-mosquito-dengue-terminal-los-andes_20240414/) (Cnnchile.com)
+
+- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
+
+- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
+
+- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 ## 24-16 (chikungunya)
 

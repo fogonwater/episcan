@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-05-30 19:05",
-  "count_articles_total": 1445,
-  "count_articles_new": 24,
+  "last_updated": "2024-05-31 07:06",
+  "count_articles_total": 1460,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 9641,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Siladitya Ray, Forbes Staff, \n Siladitya Ray, Forbes Staff\n https://www.forbes.com/sites/siladityaray/",
+      "title": "U.S. Government Nears Deal To Fund Moderna mRNA Bird Flu Shot Trial, Report Says",
+      "description": "The federal government\u2019s push to fund the development of an mRNA vaccine for the bird flu comes amid an H5N1 outbreak in cattle and poultry across the country.",
+      "url": "https://www.forbes.com/sites/siladityaray/2024/05/30/us-government-nears-deal-to-fund-moderna-mrna-bird-flu-shot-trial-report-says/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6658182d6d7e651650063838/0x0.jpg?format=jpg&crop=5579,3136,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-30 06:11:54",
+      "content": "Our community is about connecting people through open and thoughtful conversations. We want our readers to share their views and exchange ideas and facts in a safe space. In order to do so, please f\u2026 [+1334 chars]",
+      "retrievedAt": "2024-05-31 07:05:57.823440",
+      "internal_id": "a7ed08ec50e8db560df28c9405951c91d0e304f37474784023503ced75070bb8",
+      "publishedAtLabel": "May 30"
+    },
+    {
+      "id": 9642,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "US nears deal to fund Moderna's bird flu vaccine trial, FT reports",
+      "description": "US nears deal to fund Moderna's bird flu vaccine trial, FT reports",
+      "url": "https://www.investing.com/news/stock-market-news/us-nears-deal-to-fund-modernas-bird-flu-vaccine-trial-ft-reports-3462406",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_L.jpg",
+      "publishedAt": "2024-05-30 05:20:51",
+      "content": "(Reuters) - The U.S. government is nearing an agreement to fund a late-stage trial of Moderna (NASDAQ:MRNA)'s mRNA pandemic bird flu vaccine, the Financial Times reported on Thursday, as an H5N1 outb\u2026 [+1399 chars]",
+      "retrievedAt": "2024-05-31 07:05:57.883798",
+      "internal_id": "321b77dd07bdb32a5da7d926530c4036edf3c0534acab05ba872ab855b9bd11d",
+      "publishedAtLabel": "May 30"
+    },
+    {
+      "id": 9640,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "CDC Confirms Second Human H5 Bird Flu Case in Michigan; Third Case Tied to Dairy Outbreak",
+      "description": "A second human case of highly pathogenic avian influenza (HPAI) A(H5) virus infection has been identified in the state of Michigan.",
+      "url": "https://www.cdc.gov/media/releases/2024/p0530-h5-human-case-michigan.html",
+      "urlToImage": "https://www.cdc.gov/media/images/releases/about-cdc-fb_pr.jpg",
+      "publishedAt": "2024-05-30 05:00:00",
+      "content": "May 30, 2024 \u2013 A second human case of highly pathogenic avian influenza (HPAI) A(H5) virus infection has been identified in the state of Michigan. This is the third human case associated with an ongo\u2026 [+4740 chars]",
+      "retrievedAt": "2024-05-31 07:05:57.053767",
+      "internal_id": "cc791e4ea80bbaa0785402f0df2e126f369c1482c52fd0ab80cb987b2b742f1b",
+      "publishedAtLabel": "May 30"
+    },
+    {
+      "id": 9643,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "US nears deal to fund Moderna's bird flu vaccine trial, FT reports",
+      "description": "(marketscreener.com) The U.S. government is nearing an agreement to fund a late-stage trial of Moderna's mRNA pandemic bird flu vaccine, the Financial Times reported on Thursday, as an H5N1 outbreak spreads through egg farms and among cattle herds. The feder\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/MODERNA-INC-47437573/news/US-nears-deal-to-fund-Moderna-s-bird-flu-vaccine-trial-FT-reports-46858634/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2021-07/2021-07-15T214904Z_1_LYNXMPEH6E176-OCABS_RTROPTP_3_CBUSINESS-US-USA-STOCKS-MODERNA.JPG",
+      "publishedAt": "2024-05-30 04:45:25",
+      "content": "May 30 (Reuters) - The U.S. government is nearing an agreement to fund a late-stage trial of Moderna's mRNA pandemic bird flu vaccine, the Financial Times reported on Thursday, as an H5N1 outbreak\u2026 [+1483 chars]",
+      "retrievedAt": "2024-05-31 07:05:57.888286",
+      "internal_id": "8cc7eb44a62557b45a9ae600235eb92c24e8429617083d0f3bd782e2f030a524",
+      "publishedAtLabel": "May 30"
+    },
+    {
+      "id": 9645,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u5927\u5206\u770c\u5225\u5e9c\u5e02\u306e\u89b3\u5149\u540d\u6240\u3001\u8840\u306e\u6c60\u5730\u7344\u3002\u30aa\u30ea\u30b8\u30ca\u30eb\u65b0\u5546\u54c1\u300e\u8840\u306e\u6c60\u5730\u7344 \u868a\u53d6\u308a\u7dda\u9999\u300f\u30925\u670829\u65e5\u3088\u308a\u8ca9\u58f2\u958b\u59cb\uff01",
+      "description": "[\u682a\u5f0f\u4f1a\u793e \u8840\u306e\u6c60\u5730\u7344] [\u753b\u50cf1: https://prcdn.freetls.fastly.net/release_image/127864/5/127864-5-062d35f2972551d105bd89188aa0c43e-1080x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000127864.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/127864/5/127864-5-24da125bb28124fef65c6f6a1de512e2-1200x660.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2024-05-30 01:40:02",
+      "content": "(778) 2024529[] NPO (Malaria No More Japan) 2 60 [ HP]malarianomore.jp [ / 10] 800 [] 202012 ( / ) (MAIL) info@chinoike.com (TEL) 0120-459-554 / (FAX) 0977-66-1811 idea onsen / (\u2026 [+47 chars]",
+      "retrievedAt": "2024-05-31 07:05:59.801293",
+      "internal_id": "0b724aeb78b61acf8e94495321aab6e2b9c11a6bed704dedfafb4c427ac31f7c",
+      "publishedAtLabel": "May 30"
+    },
+    {
+      "id": 9648,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "1news.co.nz",
+      "author": "Aap",
+      "title": "Eight cases of monkeypox recorded in Queensland",
+      "description": "Victoria had recorded 16 confirmed cases of mpox since April 18 \u2014 with 13 of these cases locally acquired.",
+      "url": "https://www.1news.co.nz/2024/05/30/eight-cases-of-monkeypox-recorded-in-queensland/",
+      "urlToImage": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/mpox-monkeypox-virus-IK3HQOL2TFH3BHRNEIIODOI6KA.jpg?auth=d49f641913bf5114bf0c86744d19bc6e93d574d3df8ec77a05d0998053c0a11b&quality=70&width=600&height=315&focal=1204%2C607",
+      "publishedAt": "2024-05-30 01:15:33",
+      "content": "Contact tracing is reportedly ongoing in Queensland after eight cases of mpox were recorded in the month of May. Queensland Health told the ABC that the state had recorded its biggest cluster of the\u2026 [+1278 chars]",
+      "retrievedAt": "2024-05-31 07:06:01.383988",
+      "internal_id": "acd49bebf3fa3b290396142dd5dbfa1ef4707e922b8e4d97b919b864a9e5ae49",
+      "publishedAtLabel": "May 30"
+    },
+    {
+      "id": 9646,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Sasithorn Decharuangsilp, Uthai Arwon, Nawarat Sooksai, roonglawan Rattanajak, Thanaya Saeyang, Danoo Vitsupakorn, Jarunee Vanichtanankul, Yongyuth Yuthavong, Sumalee Kamchonwongpaisan, Marie Hoarau",
+      "title": "Novel Flexible Biphenyl PfDHFR Inhibitors With Improved Antimalarial Activity",
+      "description": "RSC Med. Chem., 2024, Accepted ManuscriptDOI: 10.1039/D4MD00197D, Research ArticleSasithorn Decharuangsilp, Uthai Arwon, Nawarat Sooksai, roonglawan Rattanajak, Thanaya Saeyang, Danoo Vitsupakorn, Jarunee Vanichtanankul, Yongyuth Yuthavong, Sumalee Kamchonwon\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2024/md/d4md00197d",
+      "urlToImage": null,
+      "publishedAt": "2024-05-29 23:00:00",
+      "content": "S. Decharuangsilp, U. Arwon, N. Sooksai, R. Rattanajak, T. Saeyang, D. Vitsupakorn, J. Vanichtanankul, Y. Yuthavong, S. Kamchonwongpaisan and M. Hoarau, RSC Med. Chem., 2024, Accepted Manuscript ,\u2026 [+716 chars]",
+      "retrievedAt": "2024-05-31 07:05:59.814678",
+      "internal_id": "777f2ca4568cdd45ababe5185d4cd37a883dcbd47436fdb54baac1962ce651f7",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9644,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "zoya.teirstein",
+      "title": "Why pregnancy triples your chances of getting severe malaria",
+      "description": "Expecting worse: Giving birth on a planet in crisis is a collaboration between Vox, Grist, and The 19th that examines how climate change impacts reproductive health \u2014 from menstruation to conception to birth. Explore the series here. Roger Casupang was workin\u2026",
+      "url": "https://www.vox.com/climate/351398/climate-change-expanding-malarias-range-putting-more-pregnant-women-at-risk",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/05/1920-1280-fertility-malaria.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "publishedAt": "2024-05-29 21:51:54",
+      "content": "Expecting worse: Giving birth on a planet in crisis is a collaboration between Vox, Grist, and The 19th that examines how climate change impacts reproductive health from menstruation to conception to\u2026 [+20321 chars]",
+      "retrievedAt": "2024-05-31 07:05:59.775398",
+      "internal_id": "f3b1289edee511f16600c3652c897f3539b36fe2b0ec3b9347c4478a5a3da4dc",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 9647,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Janelle Miles",
+      "title": "Queensland records eight cases of Mpox in one month, formerly known as 'monkeypox'",
+      "description": "Experts are advising those at risk to get vaccinated as the state records eight cases of Mpox.",
+      "url": "https://www.abc.net.au/news/2024-05-30/queensland-mpox-cluster-low-risk-to-community-monkey-pox/103907820",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7bc6fdc5903b88d2ab3a7ac8a662cbb5?impolicy=wcms_watermark_news&cropH=530&cropW=942&xPos=114&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-05-29 20:32:59",
+      "content": "In short: There have been eight cases of Mpox in Queensland this month, but there's no evidence they're connected to a cluster in Victoria.Free Mpox vaccinations are available to tho\u2026 [+3324 chars]",
+      "retrievedAt": "2024-05-31 07:06:01.378637",
+      "internal_id": "a892ca9fceb09354f1de993ef0a1e20f2c4f0caf8792aa4580b8a9ece192a88a",
+      "publishedAtLabel": "May 29"
+    },
     {
       "id": 9618,
       "query": [
@@ -26087,6 +26249,114 @@
       "content": "La Seremi de la Regi\u00f3n de Valpara\u00edso confirm\u00f3 el hallazgo de un mosquito Aedes aegypti en el Terminal de Buses Ahumada de la comuna de Los Andes, lo que ha generado un llamado urgente a la acci\u00f3n por\u2026 [+1901 chars]",
       "retrievedAt": "2024-04-16 07:06:13.321002",
       "internal_id": "39339444eefc7b256d165e35edab548f00068c54f87fd57297a52c5ba632d047",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8189,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Deadline",
+      "author": "Bruce Haring",
+      "title": "L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier",
+      "description": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los Angeles County Department of Public Health said it had received\u2026",
+      "url": "http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/09/Universal-Studios-theme-park-Hollywood.jpg?w=1024",
+      "publishedAt": "2024-04-14 18:32:51",
+      "content": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los An\u2026 [+1049 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.686603",
+      "internal_id": "6754d64ecced4850f3f21b330198b32459cdf8cc6ba021f346496bd25e8bfb83",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8191,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Martina Riemlov\u00e1",
+      "title": "Argentina bojuje s vlnou hore\u010dky dengue, repelenty v zemi nejsou k sehn\u00e1n\u00ed",
+      "description": "V Argentin\u011b se \u0161\u00ed\u0159\u00ed epidemie hore\u010dky dengue, a tak v tamn\u00edch obchodech a l\u00e9k\u00e1rn\u00e1ch chyb\u00ed dostate\u010dn\u00e9 mno\u017estv\u00ed p\u0159\u00edpravk\u016f proti hmyzu. Tamn\u00ed \u00fa\u0159ady u\u017e zru\u0161ily omezen\u00ed souvisej\u00edc\u00ed s dovozem repelent\u016f, aby v zemi nav\u00fd\u0161ily nab\u00eddku. N\u011bkte\u0159\u00ed obyvatel\u00e9 si prozat\u00edm za\u010da\u2026",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2024/4/RIE80166f40ba_profimedia_0863037161.jpg",
+      "publishedAt": "2024-04-14 17:00:00",
+      "content": "Navt\u00edvili jsme nejm\u00e9n ticet l\u00e9k\u00e1ren po cel\u00e9m mst, nic u nezbylo, \u00edk\u00e1 pro agenturu AP dvaatyicetilet\u00e1 Ana Infante z hlavn\u00edho msta Buenos Aires. Chtla nakoupit repelenty pot\u00e9, co jej\u00ed spolupracovnice m\u2026 [+2955 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.449323",
+      "internal_id": "276f46d6c6aaa7f9c7f18b77d7e212406c4dacd6f9717f373c6928c6996128db",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8193,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El mapa del dengue: informan por primera vez en el a\u00f1o una tendencia en baja, con excepci\u00f3n de dos provincias",
+      "description": "Surge del ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias y en un an\u00e1lisis que las autoridades sanitarias",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-es-transmitido-por-la-S3JPAWMYHRDENE6Q76GQSY2MO4.jpg?auth=ea273d9864dfb28806178bede17b6b98a393721aefc196f023cbc6d6eca84657&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-14 16:08:20",
+      "content": "El avance de la epidemia de dengue en las 19 provincias con circulaci\u00f3n viral estar\u00eda tendiendo a desacelerarse, de acuerdo con el ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias\u2026 [+2630 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.545411",
+      "internal_id": "98a2d21fa90f6d15b4ada2e8bad569b674137707859c0d40e1fa86c82bcadea1",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8192,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Arreguy",
+      "title": "SP chega a 285 mortes por dengue e 573 mil casos da doen\u00e7a",
+      "description": "Capital concentra mortes por dengue no estado, com 39 \u00f3bitos, seguida de Guarulhos, na Grande SP, com 26, e Jacare\u00ed, no interior, com 20",
+      "url": "https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
+      "publishedAt": "2024-04-14 15:48:07",
+      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo chegou a 285 mortes por dengue neste domingo (14/4), e investiga 605 outros \u00f3bitos em decorr\u00eancia da doen\u00e7a. As informa\u00e7\u00f5es constam no painel de monitoramento da Secre\u2026 [+6245 chars]",
+      "retrievedAt": "2024-04-15 19:05:57.456240",
+      "internal_id": "6c2c17696af3df5a2356e199353c2a2aa8edcd88a1eb20193c3659a959247c76",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8190,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Alessia Dunn",
+      "title": "Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger",
+      "description": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. When guests visit a theme park, it is impossible to think that you will not come into contact with germs. At \u2026",
+      "url": "https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Universal-Hollywood.jpg",
+      "publishedAt": "2024-04-14 14:29:45",
+      "content": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. Credit: Universal Studios When guests visit a t\u2026 [+4444 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.714627",
+      "internal_id": "4b63de4a1f2879f2231802882676a41b3a9a477fc46ba131faf2e2cee5fb374b",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 8188,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Alarming Measles Outbreaks Surge Across Europe And Central Asia",
+      "description": "While focus in the U.S. has been on rising numbers of measles cases domestically, it\u2019s Europe and Central Asia where the situation is at crisis level.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661bbf0650e753f1cc011c18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-14 13:13:47",
+      "content": "Little girl with measles. getty After surging at the end of last year, measles outbreaks across Europe and Central Asia intensified in the first quarter of 2024, with incidence rates of up to hundr\u2026 [+6945 chars]",
+      "retrievedAt": "2024-04-15 19:05:56.673594",
+      "internal_id": "bbbf1402efba99042fd00b5c3e3c92fffbbd7087b18b96f84e7fbe35ce307cf7",
       "publishedAtLabel": "Apr 14"
     }
   ]
