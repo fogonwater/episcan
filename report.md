@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2024-05-31 19:05
-- **Most recent article:** 2024-05-30 18:52:59
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-06-01 07:05
+- **Most recent article:** 2024-05-31 06:54:10
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 108 | 117 | 77 | 57 | 87 | 58 | 36 | 540 |
-| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 49 | 264 |
-| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 18 | 208 |
-| measles | 36 | 28 | 24 | 10 | 29 | 15 | 10 | 152 |
-| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 8 | 87 |
+| dengue | 111 | 117 | 77 | 57 | 87 | 58 | 43 | 550 |
+| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 55 | 270 |
+| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 20 | 210 |
+| measles | 39 | 28 | 24 | 10 | 29 | 15 | 12 | 157 |
+| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 9 | 88 |
 | meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 1 | 71 |
-| rabies | 3 | 3 | 4 | 22 | 10 | 8 | 1 | 51 |
+| rabies | 3 | 3 | 4 | 22 | 10 | 8 | 2 | 52 |
 | chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 4 | 41 |
 | pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 5 | 35 |
 | zika | 8 | 3 | 8 | 2 | 6 | 3 | 3 | 33 |
-| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 5 | 19 |
+| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 10 | 24 |
 | sarampión | 0 | 10 | 8 | 1 | 0 | 0 | 0 | 19 |
-| leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 3 | 15 |
+| leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 5 | 17 |
 | yersinia | 2 | 0 | 5 | 1 | 0 | 6 | 0 | 14 |
 | typhoid | 2 | 0 | 0 | 3 | 2 | 0 | 0 | 7 |
 
@@ -43,6 +43,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (rabies)
 
+- [News24 | Cape Town metro probes origins of one confirmed, another suspected case of rabies in two family dogs](https://www.news24.com/news24/southafrica/news/cape-town-metro-probes-origins-of-one-confirmed-another-suspected-case-of-rabies-in-two-family-dogs-20240530) (News24)
+
 - [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
 
 ## 24-22 (pertussis)
@@ -58,6 +60,8 @@ Source: [News API](https://newsapi.org/)
 - [El misterioso aumento de los casos de tos ferina](https://www.dw.com/es/el-misterioso-aumento-de-los-casos-de-tos-ferina/a-69188517) (DW (English))
 
 ## 24-22 (mpox)
+
+- [Victoria: Increase in measles and mpox cases prompts warning from Victorian officials](https://www.9news.com.au/national/victoria-increase-in-measles-and-mpox-cases-prompt-warning-from-victorian-officials/0acb952d-c7d3-4e9d-83e3-6c1d63072326) (9News)
 
 - [Get Your Free 2024 Mpox Vaccine, Say San Francisco Health Officials](https://www.kqed.org/news/11988079/2024-mpox-vaccine-formerly-monkeypox-symptoms-rash) (KQED)
 
@@ -81,6 +85,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (measles)
 
+- [Fresh measles, monkeypox warning issued for Australians travelling overseas as Victoria sees increase in cases this year](https://www.skynews.com.au/lifestyle/health/fresh-measles-monkeypox-warning-issued-for-australians-travelling-overseas-as-victoria-sees-increase-in-cases-this-year/news-story/1eb07a6ea84bbd847dbc2aa674c611c0) (Sky News Australia)
+
+- [Victoria: Increase in measles and mpox cases prompts warning from Victorian officials](https://www.9news.com.au/national/victoria-increase-in-measles-and-mpox-cases-prompt-warning-from-victorian-officials/0acb952d-c7d3-4e9d-83e3-6c1d63072326) (9News)
+
 - [Chicago public health officials declare end to measles outbreak](https://www.cbsnews.com/chicago/news/chicago-measles-outbreak-over-public-health-department/) (CBS News)
 
 - [Measles – An Ancient Foe in Modern Times](https://www.stemlynsblog.org/measles-an-ancient-foe-in-modern-times/) (Stemlynsblog.org)
@@ -102,6 +110,10 @@ Source: [News API](https://newsapi.org/)
 - [Infectious person with measles traveled through LAX, health officials warn](https://abc7.com/post/infectious-person-measles-traveled-lax-health-officials-warn/14876506/) (KABC-TV)
 
 ## 24-22 (malaria)
+
+- [GM mosquitoes fight malaria, and robot digit gets thumbs up](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/gm-mosquitoes-fight-malaria-and-robot-digit-gets-thumbs) (The Naked Scientists)
+
+- [Patriots offensive lineman Calvin Anderson personally thanks the team at Newton-Wellesley Hospital](https://www.bostonglobe.com/2024/05/30/sports/patriots-calvin-anderson/) (The Boston Globe)
 
 - [Nach Erdrutsch: Warnung vor Seuchen in Papua-Neuguinea](https://orf.at/stories/3359192/) (Orf.at)
 
@@ -141,6 +153,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (leptospirosis)
 
+- [Neutralizing gut-derived lipopolysaccharide as a novel therapeutic strategy for severe leptospirosis](https://elifesciences.org/articles/96065) (Elifesciences.org)
+
+- [News24 | Leptospirosis now threaten flood-ravaged southern Brazil](https://www.news24.com/news24/world/news/leptospirosis-now-threaten-flood-ravaged-southern-brazil-20240530) (News24)
+
 - [Preocupación por enfermedades aumenta en el sur de Brasil tras inundaciones históricas](https://www.nacion.com/el-mundo/preocupacion-por-enfermedades-aumenta-en-el-sur-de/LCESUFE7NVG5RON4ZGUAVN24XE/story/) (Nacion.com)
 
 - [Cases of bacterial disease rise in Brazil’s flooded south](https://www.digitaljournal.com/world/cases-of-bacterial-disease-rise-in-brazils-flooded-south/article) (Digital Journal)
@@ -148,6 +164,16 @@ Source: [News API](https://newsapi.org/)
 - [Waterborne disease outbreak after Brazil floods kills four](https://www.bbc.com/news/articles/cq559gexxy5o) (BBC News)
 
 ## 24-22 (hpai)
+
+- [U.S. confirms third human bird flu case tied to dairy outbreak](http://en.people.cn/n3/2024/0531/c90000-20176626.html) (People.cn)
+
+- [한국, 광우병 등 동물 감염병 청정국 지위 유지](https://www.khan.co.kr/economy/economy-general/article/202405311353001) (Khan.co.kr)
+
+- [Inquiétant: des alpagas contaminés par la grippe aviaire, risque de pandémie chez les mammifères](https://www.techno-science.net/actualite/inquietant-alpagas-contamines-par-grippe-aviaire-risque-pandemie-chez-mammiferes-N25041.html) (Techno-science.net)
+
+- [3rd Human Case Of Bird Flu Outbreak Reported In US](https://www.ndtv.com/world-news/us-bird-flu-outbreak-3rd-human-case-of-bird-flu-outbreak-reported-in-us-5783863) (NDTV News)
+
+- [U.S. confirms third human bird flu case tied to dairy outbreak](https://www.thestar.com.my/news/world/2024/05/31/us-confirms-third-human-bird-flu-case-tied-to-dairy-outbreak) (The Star Online)
 
 - [News story: UK declares freedom from bird flu](https://www.gov.uk/government/news/uk-declares-freedom-from-bird-flu) (Www.gov.uk)
 
@@ -160,6 +186,18 @@ Source: [News API](https://newsapi.org/)
 - [Мыши заболели птичьим гриппом, выпив сырого молока](https://naked-science.ru/article/medicine/bird-flu-in-milk) (Naked-science.ru)
 
 ## 24-22 (h5n1)
+
+- [Kiszivárgott a terv: ezzel a vakcinával fékeznék meg az újabb járvány berobbanását](https://www.portfolio.hu/gazdasag/20240531/kiszivargott-a-terv-ezzel-a-vakcinaval-fekeznek-meg-az-ujabb-jarvany-berobbanasat-689307) (Portfolio.hu)
+
+- [Kiszivárgott a terv: ezzel a vakcinával fékeznék meg az újabb pusztító járvány berobbanását](https://www.portfolio.hu/gazdasag/20240531/kiszivargott-a-terv-ezzel-a-vakcinaval-fekeznek-meg-az-ujabb-pusztito-jarvany-berobbanasat-689307) (Portfolio.hu)
+
+- [Inquiétant: des alpagas contaminés par la grippe aviaire, risque de pandémie chez les mammifères](https://www.techno-science.net/actualite/inquietant-alpagas-contamines-par-grippe-aviaire-risque-pandemie-chez-mammiferes-N25041.html) (Techno-science.net)
+
+- [3rd Human Case Of Bird Flu Outbreak Reported In US](https://www.ndtv.com/world-news/us-bird-flu-outbreak-3rd-human-case-of-bird-flu-outbreak-reported-in-us-5783863) (NDTV News)
+
+- [The ongoing bird flu outbreak in the United States](https://www.marketscreener.com/quote/future/MILK-CLASS-IV-FUTURE-GDK--26106620/news/The-ongoing-bird-flu-outbreak-in-the-United-States-46867458/) (Marketscreener.com)
+
+- [Aviaria, negli Stati Uniti terzo caso di contagio da bovino ad umano. Le autorità: “Il rischio rimane basso”](https://www.ilfattoquotidiano.it/2024/05/30/aviaria-negli-stati-uniti-terzo-caso-di-contagio-da-bovino-ad-umano-le-autoritail-rischio-rimane-basso/7569054/) (Ilfattoquotidiano.it)
 
 - [Bird Flu (H5N1) Explained: Third U.S. Dairy Farm Worker Infected With Bird Flu—With New Symptoms](https://www.forbes.com/sites/ariannajohnson/2024/05/30/bird-flu-h5n1-explained-third-us-dairy-farm-worker-infected-with-bird-flu-with-new-symptoms/) (Forbes)
 
@@ -260,6 +298,20 @@ Source: [News API](https://newsapi.org/)
 - [Day 1: ruffled fur and lethargy](https://www.metafilter.com/203879/Day-1-ruffled-fur-and-lethargy) (Metafilter.com)
 
 ## 24-22 (dengue)
+
+- [7,6 milioane de cazuri de febră dengue în 90 de țări, inclusiv în Europa. OMS este în alertă: Riscul de răspândire e ridicat](https://www.digi24.ro/stiri/actualitate/sanatate/76-milioane-de-cazuri-de-febra-dengue-in-90-de-tari-inclusiv-in-europa-oms-este-in-alerta-riscul-de-raspandire-e-ridicat-2809907) (Digi24.ro)
+
+- [Organise more gotong-royong to ensure dengue hotspots eradicated, says Ipoh Mayor](https://www.thestar.com.my/news/nation/2024/05/31/organise-more-gotong-royong-to-ensure-dengue-hotspots-eradicated-says-ipoh-mayor) (The Star Online)
+
+- [WHO alarmiert wegen hoher Zahl von Dengue-Fällen](https://orf.at/stories/3359243/) (Orf.at)
+
+- [WHO alarmiert wegen hoher Zahl von Dengue-Fällen](https://www.stern.de/panorama/wissen/krankheiten--who-alarmiert-wegen-hoher-zahl-von-dengue-faellen-34757004.html) (STERN.de)
+
+- [Dengue-Fieber: WHO nennt Anstieg von Dengue-Fällen besorgniserregend](https://www.zeit.de/gesundheit/2024-05/dengue-fieber-ausbreitung-weltgesundheitsorganisation-besorgt) (Die Zeit)
+
+- [Ministério da Saúde entrega nova remessa de vacinas da dengue](https://valor.globo.com/brasil/noticia/2024/05/30/ministrio-da-sade-entrega-nova-remessa-de-vacinas-da-dengue.ghtml) (Globo)
+
+- [Indian Ocean surface temperature could help anticipate dengue outbreaks](https://www.sciencedaily.com/releases/2024/05/240530132621.htm) (Science Daily)
 
 - [Con 8 millones de casos de dengue, la epidemia en las Américas no tiene precedentes](https://www.montevideo.com.uy/Salud/Con-8-millones-de-casos-de-dengue-la-epidemia-en-las-Americas-no-tiene-precedentes-uc889840) (Montevideo.com.uy)
 
@@ -3021,6 +3073,12 @@ Source: [News API](https://newsapi.org/)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
+- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
+
+- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
+
+- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
+
 ## 24-16 (malaria)
 
 - [Xewa Sowé Center for Orphans / Corentin Dalon + Arianna Fabrizi De Biani + Doryan Kuschner + Florian Mahieu](https://www.archdaily.com/1015819/xewa-sowe-center-for-orphans-corentin-dalon-plus-arianna-fabrizi-de-biani-plus-doryan-kuschner-plus-florian-mahieu) (ArchDaily)
@@ -3306,6 +3364,12 @@ Source: [News API](https://newsapi.org/)
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
 - [Alerta sanitaria: Confirman hallazgo de mosquito transmisor del dengue en terminal de buses de Los Andes](https://www.cnnchile.com/pais/alerta-sanitaria-hallazgo-mosquito-dengue-terminal-los-andes_20240414/) (Cnnchile.com)
+
+- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
+
+- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
+
+- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 ## 24-16 (chikungunya)
 
