@@ -1,8 +1,820 @@
 {
-  "last_updated": "2024-06-01 07:05",
-  "count_articles_total": 1509,
-  "count_articles_new": 23,
+  "last_updated": "2024-06-01 19:06",
+  "count_articles_total": 1548,
+  "count_articles_new": 45,
   "articles": [
+    {
+      "id": 9699,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "TMZ",
+      "author": "TMZ Staff",
+      "title": "'Gossip Girl' Star Taylor Momsen Bitten by Bat Onstage, Gets Rabies Shots",
+      "description": "Taylor Momsen -- the frontwoman for The Pretty Reckless band and one-time \"Gossip Girl\" star --must be feeling pretty rock 'n' roll right now ... 'cause she got bitten by a bat onstage. Taylor -- who came up as an actress on 'GG' and as Cindy Lou\u2026",
+      "url": "https://www.tmz.com/2024/05/31/gossip-girl-taylor-momsen-bitten-by-bat-onstage-rabies-shots/",
+      "urlToImage": "https://imagez.tmz.com/image/ff/16by9/2024/05/31/ff09c0451d3842e090e055ef995739ca_xl.jpg",
+      "publishedAt": "2024-05-31 19:03:15",
+      "content": "Taylor Momsen -- the frontwoman for The Pretty Reckless band and one-time \"Gossip Girl\" star --must be feeling pretty rock 'n' roll right now ... 'cause she got bitten by a bat onstage. Taylor -- wh\u2026 [+1395 chars]",
+      "retrievedAt": "2024-06-01 19:06:31.131165",
+      "internal_id": "8589f92510463417987923a56c9c62d6615b5fb144f472c8a19b56fd6ad15601",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9703,
+      "query": [
+        "measles",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Starweekly.com.au",
+      "author": "jimjin",
+      "title": "Measles, mpox warning for Victorian travellers",
+      "description": "Victorians planning overseas travel this winter are being urged to ensure their routine and travel vaccinations are up to date.... The post Measles, mpox warning for Victorian travellers appeared first on Northern.",
+      "url": "https://northern.starweekly.com.au/news/measles-mpox-warning-for-victorian-travellers/",
+      "urlToImage": "https://northern.starweekly.com.au/wp-content/uploads/sites/5/2024/06/PlaneGen_320163_01.jpg",
+      "publishedAt": "2024-05-31 19:02:48",
+      "content": "Victorians planning overseas travel this winter are being urged to ensure their routine and travel vaccinations are up to date. The call comes amid an increasing number of returned travellers to Vi\u2026 [+2319 chars]",
+      "retrievedAt": "2024-06-01 19:06:31.771303",
+      "internal_id": "cfb1c563cef95979c9a63997080881c77b07e739037a8051b4cfd8bec6d6995b",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9698,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Stone",
+      "author": "Larisha Paul",
+      "title": "Taylor Momsen \u2018Must Really Be a Witch\u2019 After Getting Bit by Bat During AC/DC Opening Set",
+      "description": "\u201cHe was cute, but yes he bit me\u2026so rabies shots for the next two weeks,\" the singer shared on Instagram while recounting her onstage run-in with the small animal",
+      "url": "http://www.rollingstone.com/music/music-news/taylor-momsen-bat-bite-acdc-set-1235030750/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/05/taylor-momsen-bat-bite.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2024-05-31 18:35:19",
+      "content": "Every season is spooky season when you\u2019re Taylor Momsen. During a recent performance opening for AC/DC on the Power Up tour, the Pretty Reckless frontwoman caught the attention of a small bat, which \u2026 [+1225 chars]",
+      "retrievedAt": "2024-06-01 19:06:31.112892",
+      "internal_id": "e9931b01680b302c43101ba0b53c9f54a0548a1f6aa827625b700aa9ddea2f30",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9706,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "U.S. to make millions of bird flu vaccine doses this summer",
+      "description": "The U.S. has ordered 4.8 million doses of vaccine to target bird flu in case the outbreak spreads in people.",
+      "url": "https://www.cbsnews.com/news/bird-flu-vaccine-doses-this-summer-cases/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/05/31/6a94aafb-537c-4f91-885e-d7690c8b8a1b/thumbnail/1200x630/7fc359155fe24a44260d6c967f68bb68/gettyimages-472088760.jpg?v=d7bbca61a2ddd34e0cfc8fb46aec1df3",
+      "publishedAt": "2024-05-31 18:19:36",
+      "content": "Some 4.8 million doses of flu vaccine are now being prepared for use in response to the growing U.S. outbreak of highly pathogenic avian influenza, or H5N1, officials say. The order for the doses t\u2026 [+4089 chars]",
+      "retrievedAt": "2024-06-01 19:06:33.117874",
+      "internal_id": "baddc9b9b828e212326a913b35a638bed4990965e2d53ceee7b4982b190617fe",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9728,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Trump va faire appel, projet d\u2019attentat d\u00e9jou\u00e9 \u00e0 Saint-Etienne, vaccin contre le chikungunya\u2026 L\u2019actu de ce vendredi 31 mai",
+      "description": "La r\u00e9daction de Lib\u00e9ration r\u00e9capitule les principales actualit\u00e9s de la journ\u00e9e du vendredi 31 mai.",
+      "url": "https://www.liberation.fr/international/europe/trump-va-faire-appel-projet-dattentat-dejoue-a-saint-etienne-vaccin-contre-le-chikungunya-lactu-de-ce-vendredi-31-mai-20240531_GFUU4XK7QFDI5EHJU5FQ42CWU4/",
+      "urlToImage": "https://www.liberation.fr/resizer/cNuQ1dbjNo1K8Hhp4K8Z-q2sPco=/1200x630/filters:format(jpg):quality(70):focal(3121x972:3131x982)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/HY7MLOJEQRASPD3ZBFTCBEY2MI.jpg",
+      "publishedAt": "2024-05-31 18:00:00",
+      "content": "Chaque soir, la r\u00e9daction de Lib\u00e9 s\u00e9lectionne les actualit\u00e9s du jour quil ne fallait pas rater en France et dans le reste du monde. Au lendemain de sa condamnation historique, Donald Trump a contre-\u2026 [+3861 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.814658",
+      "internal_id": "bf16e14bf64cfeb1bf5679f18c2c12c8a7d1b0249c7cd92e9e52757e365f9e52",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9729,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France",
+      "title": "Chikungunya : L\u2019Agence europ\u00e9enne des m\u00e9dicaments valide le premier vaccin",
+      "description": "C\u2019est une maladie transmise \u00e0 l\u2019homme par le moustique tigre, principalement en zone tropicale. L\u2019Agence europ\u00e9enne des m\u00e9dicaments a donn\u00e9 son feu vert vendredi 31 mai, au premier vaccin produit en Europe contre le virus du Chikungunya.",
+      "url": "https://www.ouest-france.fr/sante/vaccin/chikungunya-lagence-europeenne-des-medicaments-valide-le-premier-vaccin-c500a46a-1f70-11ef-b868-127b2923bc1b",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNDA1ZTA2MzY3YjRlMzZjN2YxYTA0NjM5MGEzNDlmMjRjZjU?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=6b833a8b920fded2a4bc58f52032f29ffdc3cefeccd50c41190110feac05a90e",
+      "publishedAt": "2024-05-31 17:48:19",
+      "content": "Les \u00c9tats-Unis lavaient d\u00e9j\u00e0 approuv\u00e9 en novembre 2023. Le premier vaccin contre le chikungunya, d\u00e9velopp\u00e9 par le groupe Valneva, vient d\u00eatre valid\u00e9, vendredi 31 mai, par lAgence europ\u00e9enne des m\u00e9dic\u2026 [+1585 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.819789",
+      "internal_id": "b126f24bd5d6b7c9a3b4fe4ea72a74ede924efe5b6ec3228219b8954e17faa13",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9701,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Variety",
+      "author": "Thania Garcia",
+      "title": "Taylor Momsen Gets Bit by a Bat While Opening for AC/DC, Ordered to Get Rabies Shots for Two Weeks: \u2018I Must Really Be a Witch\u2019",
+      "description": "In true glam goth spirit, Taylor Momsen of the American rock band the Pretty Reckless was bit by a bat as she was performing the band\u2019s song \u201cWitches Burn\u201d in Sevilla, Spain. The band is touring as a supporting act for the European leg of AC/DC\u2019s \u201cPower Up\u201d t\u2026",
+      "url": "https://variety.com/2024/music/news/taylor-momsen-bite-bat-witch-ac-dc-concert-1236021261/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/05/GettyImages-470762340.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2024-05-31 17:45:49",
+      "content": "In true glam goth spirit, Taylor Momsen of the American rock band the Pretty Reckless was bit by a bat as she was performing the band\u2019s song \u201cWitches Burn\u201d in Sevilla, Spain. The band is touring as a\u2026 [+1398 chars]",
+      "retrievedAt": "2024-06-01 19:06:31.145485",
+      "internal_id": "54e42bfc6d04a94f0474cf0b8d3a7f821c58c88c6e5ae7898bf651995fac5293",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9709,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "Around the Web",
+      "title": "Moderna shares rise on report U.S. government preparing funding for mRNA bird flu vax",
+      "description": "(ZEROHEDGE) \u2013 Shares of Moderna are up more than 4% in the New York premarket trading session following a report by the Financial Times that the US government is preparing to \"bankroll a late-stage trial of Moderna's mRNA pandemic bird flu vaccine.\" H5N1 is s\u2026",
+      "url": "https://www.wnd.com/2024/05/moderna-shares-rise-report-u-s-government-preparing-funding-mrna-bird-flu-vax/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2021/12/pixabay-syringe-vaccine.jpg",
+      "publishedAt": "2024-05-31 17:35:33",
+      "content": "(ZEROHEDGE) Shares of Moderna are up more than 4% in the New York premarket trading session following a report by the Financial Times that the US government is preparing to \"bankroll a late-stage tri\u2026 [+919 chars]",
+      "retrievedAt": "2024-06-01 19:06:33.165362",
+      "internal_id": "fe9465644991ebb60afd271d2ba1e3f70466c6bc1bd364ee105b1fbd0700f963",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9718,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Jogada10, Jogada10",
+      "title": "Cavani oferece produto a garoto e chama aten\u00e7\u00e3o na Argentina",
+      "description": "Argentina, afinal, vive surto de dengue com 333.084 confirmados e taxa de 708 casos por 100 mil habitantes",
+      "url": "https://esporte.ig.com.br/parceiros/jogada10/2024-05-31/cavani-oferece-produto-a-garoto-e-chama-atencao-na-argentina.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/1z/dv/ji/1zdvjixqaqbkiltenfirnz1i3.jpg",
+      "publishedAt": "2024-05-31 16:55:47",
+      "content": "O atacante Edinson Cavani, do Boca Juniors, chamou aten\u00e7\u00e3o. Afinal, ele foi tietado por um garoto na porta do CT do Boca Juniors, na Argentina, e ofereceu um produto diferente. Afinal, foi poss\u00edvel \u2026 [+671 chars]",
+      "retrievedAt": "2024-06-01 19:06:34.085164",
+      "internal_id": "35e1f949b0dd8869b0c85581829d341d7560a4f6890ec994b49c6d3614123014",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9722,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Jogada10",
+      "title": "Cavani oferece produto a garoto e chama aten\u00e7\u00e3o na Argentina",
+      "description": "Argentina, afinal, vive surto de dengue com 333.084 confirmados e taxa de 708 casos por 100 mil habitantes",
+      "url": "https://www.terra.com.br/esportes/futebol/cavani-oferece-produto-a-garoto-e-chama-atencao-na-argentina,cfdbd16053f8bcc89350ee623048d6edv6sdzuqk.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/31/1989642065-021-edinson-cavani-instagram-cavaniofficial21-610x400.jpg",
+      "publishedAt": "2024-05-31 16:51:24",
+      "content": "O atacante Edinson Cavani, do Boca Juniors, chamou aten\u00e7\u00e3o. Afinal, ele foi tietado por um garoto na porta do CT do Boca Juniors, na Argentina, e ofereceu um produto diferente. Afinal, foi poss\u00edvel \u2026 [+781 chars]",
+      "retrievedAt": "2024-06-01 19:06:34.145328",
+      "internal_id": "b382a181f8d53cd8c3fdcf8692bc55c3db6c380a28e2891e7b183006075c3585",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9726,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Harvard School of Engineering and Applied Sciences",
+      "author": "Todd Datz",
+      "title": "Malaria deaths, once declining, have stalled, but there\u2019s reason for hope",
+      "description": "Infectious disease researcher Flaminia Catteruccia, who explores novel eradication methods in her lab and in the field, remains optimistic about defeating the notoriously complex disease.",
+      "url": "https://www.hsph.harvard.edu/news/features/malaria-deaths-reason-for-hope/",
+      "urlToImage": "https://www.hsph.harvard.edu/news/wp-content/uploads/sites/21/2024/05/Flaminia-Catteruccia-scaled.jpg",
+      "publishedAt": "2024-05-31 16:16:09",
+      "content": "May 31, 2024Infectious disease researcher Flaminia Catteruccia, who explores novel eradication methods in her lab and in the field, remains optimistic about defeating the notoriously complex disease.\u2026 [+5679 chars]",
+      "retrievedAt": "2024-06-01 19:06:35.605480",
+      "internal_id": "a900d62352f29ae60c93e62b1699b9d4a21ea859a7fb5883eb9b4d18b91c7897",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9721,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases down, four deaths reported",
+      "description": "PUTRAJAYA: The reported number of dengue fever cases dropped to 2,426 in the 21st Epidemiological Week (ME21) from May 19 to May 25, compared with 2,461 cases the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/06/01/dengue-cases-down-four-deaths-reported",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/06/01/2726128.jpg",
+      "publishedAt": "2024-05-31 16:00:00",
+      "content": "PUTRAJAYA: The reported number of dengue fever cases dropped to 2,426 in the 21st Epidemiological Week (ME21) from May 19 to May 25, compared with 2,461 cases the previous week. Health director-gene\u2026 [+422 chars]",
+      "retrievedAt": "2024-06-01 19:06:34.132911",
+      "internal_id": "3c697fcc29bd7562e251cb95d170f3f5c4aabb5ff3fd35d95620a51eb13c2632",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9727,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Chikungunya : le premier vaccin valid\u00e9 par l\u2019Agence europ\u00e9enne des m\u00e9dicaments",
+      "description": "Le gendarme europ\u00e9en du m\u00e9dicament a autoris\u00e9 la mise sur le march\u00e9 du vaccin lxchiq, produit par la soci\u00e9t\u00e9 Valneva Autriche, contre le virus transmis par le moustique tigre causant de fortes fi\u00e8vres et des douleurs articulaires.",
+      "url": "https://www.liberation.fr/societe/sante/chikungunya-le-premier-vaccin-valide-par-lagence-europeenne-des-medicaments-20240531_JNCSE7RFGVEPVL37WUVOFJLOMM/",
+      "urlToImage": "https://www.liberation.fr/resizer/GzUu3HphmWLQ9KubbFrPRWbirh0=/1200x630/filters:format(jpg):quality(70):focal(2219x1407:2229x1417)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/JT4YGQFHJRAYTCG57BHRAHPUJ4.jpg",
+      "publishedAt": "2024-05-31 15:55:52",
+      "content": "LAgence europ\u00e9enne des m\u00e9dicaments (EMA) a donn\u00e9 son feu vert vendredi 31 mai au premier vaccin produit en Europe contre le virus du Chikungunya. Lautorisation de mise sur le march\u00e9 de lEMA est la de\u2026 [+1764 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.809168",
+      "internal_id": "c959e7fc4105e618eff315b5506f8757bc30aca3b5761a8e4dd5239cd5204fbe",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9732,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Investing.com",
+      "title": "Valneva Receives EMA's Positive CHMP Opinion for its Chikungunya Vaccine",
+      "description": "Valneva Receives EMA's Positive CHMP Opinion for its Chikungunya Vaccine",
+      "url": "https://www.investing.com/news/press-releases/valneva-receives-emas-positive-chmp-opinion-for-its-chikungunya-vaccine-93CH-3465964",
+      "urlToImage": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "publishedAt": "2024-05-31 15:48:04",
+      "content": "If approved, IXCHIQ \u00ae will become the first vaccine available in the EU against the chikungunya virus (CHIKV)Decision on EU marketing authorization expected in the third quarter of 2\u2026 [+10769 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.835269",
+      "internal_id": "31d4f519200cf079d485d7d218067951fd58258a10a21a1d9369af021bd17bc8",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9731,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "L'Agence europ\u00e9enne des m\u00e9dicaments valide le premier vaccin contre le Chikungunya",
+      "description": "L'EMA a donn\u00e9 une autorisation de mise sur le march\u00e9 du vaccin Ixchiq, produit par la soci\u00e9t\u00e9 europ\u00e9enne Valneva Autriche. Il s'agit de la derni\u00e8re \u00e9tape avant l'autorisation de la Commission europ\u00e9enne.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/l-agence-europeenne-des-medicaments-valide-le-premier-vaccin-contre-le-chikungunya_6577094.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/67zDn8AjMBcArblMF4rQ7unSI44/1500x843/2024/05/31/049-f0420031-6659ed203cc16742866447.jpg",
+      "publishedAt": "2024-05-31 15:42:08",
+      "content": "Une avanc\u00e9e dans la lutte contre le Chikungunya. L'Agence europ\u00e9enne des m\u00e9dicaments (EMA) a donn\u00e9 son feu vert, vendredi 31 mai, au premier vaccin produit en Europe contre la maladie. L'infection pa\u2026 [+1177 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.830300",
+      "internal_id": "0247b70bcba24dff9ed7030492e3e5b25d3254f2f1b8b550dea1ca7952fbd499",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9724,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DENG MACHOL Associated Press",
+      "title": "South Sudan receives its first batch of a new vaccine for malaria from the WHO",
+      "description": "South Sudan has received its first batch of a new malaria vaccine from the World Health Organization, an important step in efforts to battle a disease that is the biggest killer of children in this African country",
+      "url": "https://abcnews.go.com/International/wireStory/south-sudan-receives-batch-new-vaccine-malaria-110716461",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-05-31 15:42:04",
+      "content": "JUBA, South Sudan -- South Sudan got its first batch of a new malaria vaccine on Friday from the U.N. health agency, an important step in efforts to battle a disease that is the biggest killer of chi\u2026 [+1492 chars]",
+      "retrievedAt": "2024-06-01 19:06:35.579425",
+      "internal_id": "2ce7f4673a97cf855b95ae488b87e7c373b3f0d4ab1386857083b15a396e0719",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9733,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Valneva Receives EMA's Positive CHMP Opinion for its Chikungunya Vaccine",
+      "description": "(marketscreener.com) If approved, IXCHIQ\u00ae will become the first vaccine available in the EU against the chikungunya virus Decision on EU marketing authorization expected in the third quarter of 2024 Saint Herblain , May 31, 2024 \u2013 Valneva SE , a specialty vac\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-54466/news/Valneva-Receives-EMA-s-Positive-CHMP-Opinion-for-its-Chikungunya-Vaccine-46876319/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2024-05-31 15:35:07",
+      "content": "If approved, IXCHIQ\u00ae will become the first vaccine available in the EU against the chikungunya virus (CHIKV)Decision on EU marketing authorization expected in the third quarter of 20\u2026 [+10707 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.840112",
+      "internal_id": "d57e35fd829573252ef984242de7b699ffb80bf39dad8b2e70d8df702c6fd95f",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9735,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Receives EMA\u2019s Positive CHMP Opinion for its Chikungunya Vaccine",
+      "description": "Saint Herblain (France), May 31, 2024 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) has adopted a positive o\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/05/31/2891631/0/en/Valneva-Receives-EMA-s-Positive-CHMP-Opinion-for-its-Chikungunya-Vaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2024-05-31 15:35:00",
+      "content": "If approved, IXCHIQ\u00ae will become the first vaccine available in the EU against the chikungunya virus (CHIKV)Decision on EU marketing authorization expected in the third quarter of 20\u2026 [+10627 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.850467",
+      "internal_id": "1b239f8242991d55d243af034fb8138bcf53e9cea8db61123280240e2e6e69d9",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9736,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva re\u00e7oit un avis positif du CHMP pour une autorisation de mise sur le march\u00e9 en Europe de son vaccin contre le chikungunya",
+      "description": "En cas d\u2019approbation, IXCHIQ\u00ae deviendra le premier vaccin disponible dans l'UE contre le virus du chikungunya (CHIKV)Une d\u00e9cision sur la demande......",
+      "url": "https://www.globenewswire.com/news-release/2024/05/31/2891631/0/fr/Valneva-re%C3%A7oit-un-avis-positif-du-CHMP-pour-une-autorisation-de-mise-sur-le-march%C3%A9-en-Europe-de-son-vaccin-contre-le-chikungunya.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2024-05-31 15:35:00",
+      "content": "En cas dapprobation, IXCHIQ\u00ae deviendra le premier vaccin disponible dans l'UE contre le virus du chikungunya (CHIKV)Une d\u00e9cision sur la demande dautorisation de mise sur le march\u00e9 eu\u2026 [+12325 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.855234",
+      "internal_id": "e4e8a80fdcac8639da545bba407b77d78ae4224a0535742d896a37206b54ac00",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9725,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DENG MACHOL Associated Press",
+      "title": "South Sudan receives its first batch of a new vaccine for malaria from the WHO",
+      "description": "South Sudan has received its first batch of a new malaria vaccine from the World Health Organization, an important step in efforts to battle a disease that is the biggest killer of children in this African country",
+      "url": "https://abcnews.go.com/Health/wireStory/south-sudan-receives-batch-new-vaccine-malaria-110716464",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-05-31 15:34:14",
+      "content": "JUBA, South Sudan -- South Sudan got its first batch of a new malaria vaccine on Friday from the U.N. health agency, an important step in efforts to battle a disease that is the biggest killer of chi\u2026 [+1492 chars]",
+      "retrievedAt": "2024-06-01 19:06:35.595183",
+      "internal_id": "799d5b2c088d22e2a0f4054e227a408336648ab4c6c0cc5c3a967fdff9349765",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9738,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Chikungunya : Le premier vaccin bient\u00f4t valid\u00e9 en Europe",
+      "description": "Ce vaccin offre une protection de six mois apr\u00e8s l'administration de la dose, une avanc\u00e9e dans la lutte contre cette maladie transmise par le moustique tigre",
+      "url": "https://www.20minutes.fr/sante/4093979-20240531-chikungunya-premier-vaccin-bientot-valide-europe",
+      "urlToImage": "https://img.20mn.fr/ExzcAx-kRYKncZ2bujBibyk/1444x920_an-aedes-aegypti-mosquito-is-pictured-at-a-laboratory-of-the-center-for-parasitological-and-vector-studies-cepave-of-the-national-scientific-research-institute-conicet-in-la-plata-buenos-aires-province-argentina-on-march-26-2024-researchers-at-conicet-are-studying-the-biology-genetic-characteristics-and-behaviour-of-the-aedes-aegypti-mosquitoes-transmitter-of-dengue-zika-and-chikungunya-and-creating-biological-control-strategies-as-argentina-is-facing-a-significant-growing-number-of-dengue-cases-photo-by-luis-robayo-afp",
+      "publishedAt": "2024-05-31 15:30:21",
+      "content": "Un espoir pour des millions de personnes. LAgence europ\u00e9enne des m\u00e9dicaments (EMA) a donn\u00e9 son feu vert vendredi au premier vaccin produit en Europe contre le virus du Chikungunya, transmis \u00e0 lhomme \u2026 [+2240 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.871989",
+      "internal_id": "dbea2a5dbececd7bd5ceb36d8c8a478d26710dda8db81e2008517e13f243aeb6",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9705,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Edda Grabar",
+      "title": "\u201eAtemwegssymptome traten nach direktem Kontakt mit der infizierten Kuh auf\u201c",
+      "description": "In den USA ist ein weiterer Mitarbeiter eines Milchviehbetriebs an der Vogelgrippe erkrankt. Es ist der dritte Fall, und die Beh\u00f6rden berichten erstmals von Atemwegs-Symptomen. Damit erh\u00f6ht sich die Wahrscheinlichkeit, dass sich weitere Menschen anstecken.",
+      "url": "https://www.welt.de/gesundheit/article251806564/Vogelgrippe-Ein-Melker-infiziert-sich-und-entwickelt-Symptome-die-die-Ansteckung-anderer-erleichtern.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile251806560/1421354567-ci16x9-w1200/This-handout-picture-courtesy-of-CD.jpg",
+      "publishedAt": "2024-05-31 15:15:39",
+      "content": "Die Vogelgrippe H5N1 greift in den USA weiter um sich. Wie nun bekannt wurde, hat sich ein dritter Farmarbeiter angesteckt: In diesem Fall traten die Atemwegssymptome nach direktem Kontakt mit einer \u2026 [+4076 chars]",
+      "retrievedAt": "2024-06-01 19:06:33.073072",
+      "internal_id": "0a599f9d738024f9a6dabdcf3db7b18f44e4674e8be06ef8534a4e3a11a828a7",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9700,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Consequence.net",
+      "author": "Spencer Kaufman",
+      "title": "The Pretty Reckless\u2019 Taylor Momsen Bit by Bat Onstage While Opening for AC/DC: Watch",
+      "description": "The singer was taken to the hospital for rabies shots. The Pretty Reckless\u2019 Taylor Momsen Bit by Bat Onstage While Opening for AC/DC: Watch Spencer Kaufman",
+      "url": "https://consequence.net/2024/05/the-pretty-reckless-taylor-momsen-bit-by-bat/",
+      "urlToImage": "https://consequence.net/wp-content/uploads/2024/05/Taylor-Momsen-and-bat.jpg",
+      "publishedAt": "2024-05-31 14:59:15",
+      "content": "Forty-two years after Ozzy Osbourne bit the head off a bat, the bat world finally retaliated on the rock universe. The Pretty Reckless singer Taylor Momsen was bitten by a bat onstage while opening f\u2026 [+1719 chars]",
+      "retrievedAt": "2024-06-01 19:06:31.136263",
+      "internal_id": "4e6cfde536d3eb8c24847075ce1755b5f03a97232b9b15bbfef7576ffb5976f2",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9739,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "AFP -",
+      "title": "L'Agence europ\u00e9enne des m\u00e9dicaments valide le premier vaccin contre le Chikungunya",
+      "description": "L'Agence europ\u00e9enne des m\u00e9dicaments (EMA) a donn\u00e9 son feu vert vendredi au premier vaccin produit en Europe contre le virus du Chikungunya, transmis \u00e0 l'homme par le moustique tigre, avertissant que le changement climatique pourrait favoriser la propagation d\u2026",
+      "url": "https://www.lalibre.be/planete/sante/2024/05/31/lagence-europeenne-des-medicaments-valide-le-premier-vaccin-contre-le-chikungunya-AXY4XNH6EJCXTKILY47GLQTZGE/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/L7SSK36O3NGB7K3DUE4KSYMPFI.jpg?auth=318be1ed4abd30310f26466db807bcf34c8986d25a49f8358b7844090f597cce&width=1200&height=630&quality=85&focal=1800%2C1200&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2024-05-31 14:42:24",
+      "content": "L'EMA a donn\u00e9 une autorisation de mise sur le march\u00e9 du vaccin Ixchiq produit par la soci\u00e9t\u00e9 europ\u00e9enne Valneva Autriche, derni\u00e8re \u00e9tape avant l'autorisation de la Commission europ\u00e9enne. Le vaccin, \u2026 [+2079 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.880990",
+      "internal_id": "20d596b05417d88c65753d0121dbfb751757245f85f5451661f482575830a967",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9741,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Bavarian Nordic Submits Supplemental BLA Seeking U.S. FDA Approval of Freeze-Dried Formulation of Smallpox and Mpox Vaccine",
+      "description": "(marketscreener.com) COPENHAGEN, Denmark, May 31, 2024 \u2013 Bavarian Nordic A/S today announced the submission of a supplemental Biologics License Application to the U.S. Food and Drug Administration seeking approval of a freeze-dried formulation of JYNNEOS\u00ae for\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Submits-Supplemental-BLA-Seeking-U-S-FDA-Approval-of-Freeze-Dried-Formulation-of-Sm-46875939/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2024-05-31 14:34:05",
+      "content": "COPENHAGEN, Denmark, May 31, 2024 Bavarian Nordic A/S (OMX: BAVA) today announced the submission of a supplemental Biologics License Application (sBLA) to the U.S. Food and Drug Administration (FDA) \u2026 [+5459 chars]",
+      "retrievedAt": "2024-06-01 19:06:37.555953",
+      "internal_id": "5174349f624a95822d6d2d76220bb519fea2949a44647d062d63a678358fb157",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9740,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Submits Supplemental BLA Seeking U.S. FDA Approval of Freeze-Dried Formulation of Smallpox and Mpox Vaccine",
+      "description": "COPENHAGEN, Denmark, May 31, 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced the submission of a supplemental Biologics License Application (sBLA) to the U.S. Food and Drug Administration (FDA) seeking approval of a freeze-dried formulation of JYNNEOS\u00ae\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/05/31/2891593/0/en/Bavarian-Nordic-Submits-Supplemental-BLA-Seeking-U-S-FDA-Approval-of-Freeze-Dried-Formulation-of-Smallpox-and-Mpox-Vaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-05-31 14:33:00",
+      "content": "COPENHAGEN, Denmark, May 31, 2024 Bavarian Nordic A/S (OMX: BAVA) today announced the submission of a supplemental Biologics License Application (sBLA) to the U.S. Food and Drug Administration (FDA) \u2026 [+5453 chars]",
+      "retrievedAt": "2024-06-01 19:06:37.551166",
+      "internal_id": "47dcd5e288da030f761c09cf77e89ed86b1f5ec813cde1377ccf959895dd92e7",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9742,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic indsender supplerende ans\u00f8gning til de amerikanske sundhedsmyndigheder om godkendelse af fryset\u00f8rret koppe- og mpoxvaccine",
+      "description": "K\u00d8BENHAVN, Danmark, 31. maj 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at selskabet har indsendt en supplerende registreringsans\u00f8gning til de amerikanske sundhedsmyndigheder, U.S. Food and Drug Administration (FDA), om godkendelse af en fryset\u00f8rre\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/05/31/2891593/0/da/Bavarian-Nordic-indsender-supplerende-ans%C3%B8gning-til-de-amerikanske-sundhedsmyndigheder-om-godkendelse-af-fryset%C3%B8rret-koppe-og-mpoxvaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-05-31 14:33:00",
+      "content": "K\u00d8BENHAVN, Danmark, 31. maj 2024 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at selskabet har indsendt en supplerende registreringsans\u00f8gning til de amerikanske sundhedsmyndigheder, U.S. Food and \u2026 [+5520 chars]",
+      "retrievedAt": "2024-06-01 19:06:37.561547",
+      "internal_id": "add289028af109d495b2fcf8f3e526f65fe0efa12fc9611f87ab29d4a55e04fb",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9719,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Aumentan los casos de dengue en Miami-Dade: repelentes caseros y consejos para evitar que el mosquito te pique",
+      "description": "El 41 por ciento de los contagios registrados en Florida fueron en ese condado; en Am\u00e9rica del Sur se registr\u00f3 una dura epidemia desde que comenz\u00f3 el 2024",
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/aumentan-los-casos-de-dengue-en-miami-dade-repelentes-caseros-y-consejos-para-evitar-que-el-mosquito-nid31052024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-mosquito-que-transmite-el-dengue-es-el-aedes-S3JPAWMYHRDENE6Q76GQSY2MO4.jpg?auth=ea273d9864dfb28806178bede17b6b98a393721aefc196f023cbc6d6eca84657&width=768&quality=70&smart=false",
+      "publishedAt": "2024-05-31 14:29:04",
+      "content": "Con la llegada del verano boreal, algunos distritos de Estados Unidos ya comenzaron a registrar casos de dengue que preocupan a las autoridades sanitarias. Tras la fuerte epidemia registrada desde co\u2026 [+3428 chars]",
+      "retrievedAt": "2024-06-01 19:06:34.093861",
+      "internal_id": "5d85f3a223126404cb104ac3aa363f8016347401a39c3aed6fc9e436b958f414",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9716,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Hong-Zheng Lu, Yu-Zhuang Xie, Chen Gao, Ying Wang, Ting-Ting Liu, Xing-Zhe Wu, Fang Dai, Duo-Quan Wang, Sheng-Qun Deng",
+      "title": "Diabetes mellitus as a risk factor for severe dengue fever and West Nile fever: A meta-analysis",
+      "description": "Author summary In our study, we investigated the association between diabetes mellitus (DM) and the risk of severe clinical manifestations in cases of dengue fever (DF) and West Nile fever (WNF). By analyzing 27 studies involving over 342,000 laboratory-confi\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012217",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012217.g006&size=inline",
+      "publishedAt": "2024-05-31 14:00:00",
+      "content": "Citation: Lu H-Z, Xie Y-Z, Gao C, Wang Y, Liu T-T, Wu X-Z, et al. (2024) Diabetes mellitus as a risk factor for severe dengue fever and West Nile fever: A meta-analysis. PLoS Negl Trop Dis 18(5): e\u2026 [+25526 chars]",
+      "retrievedAt": "2024-06-01 19:06:34.071980",
+      "internal_id": "679ddcff2378e3eac7bda7f4a8a30e114ebe021c1070ca6fad3e8e267221e73e",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9723,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ricarda Sabitzki, Anna-Lena Ro\u00dfmann, Marius Schmitt, Sven Flemming, Andr\u00e9s Guill\u00e9n-Samander, Hannah Michaela Behrens, Ernst Jonscher, Katharina H\u00f6hn, Ulrike Fr\u00f6hlke, Tobias Spielmann",
+      "title": "Role of Rabenosyn-5 and Rab5b in host cell cytosol uptake reveals conservation of endosomal transport in malaria parasites",
+      "description": "Malaria blood stage parasites ingest most of their host cell contents via an endocytic process. This study shows that despite a repurposing of many typical endosomal proteins for secretion, the highly parasite-specific upstream uptake system feeds into a more\u2026",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002639",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002639.g007&size=inline",
+      "publishedAt": "2024-05-31 14:00:00",
+      "content": "Citation: Sabitzki R, Ro\u00dfmann A-L, Schmitt M, Flemming S, Guill\u00e9n-Samander A, Behrens HM, et al. (2024) Role of Rabenosyn-5 and Rab5b in host cell cytosol uptake reveals conservation of endosomal tra\u2026 [+87396 chars]",
+      "retrievedAt": "2024-06-01 19:06:35.560044",
+      "internal_id": "39ee1a079e192a19d84f624eb0ce57802010a158aa61e6e1cbb11ea5ba6e47ad",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9710,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Mun-Keat Looi",
+      "title": "Bird flu: US confirms first case with respiratory symptoms",
+      "description": "The US has recorded the first person with H5N1 flu to have respiratory symptoms, in what is thought to be the third human case in an ongoing outbreak among dairy farms. All previous confirmed cases of the infection in people had symptoms of conjunctivitis but\u2026",
+      "url": "https://www.bmj.com/content/385/bmj.q1203",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/385/8430.cover-source.jpg",
+      "publishedAt": "2024-05-31 13:06:14",
+      "content": "The US has recorded the first person with H5N1 flu to have respiratory symptoms, in what is thought to be the third human case in an ongoing outbreak among dairy farms. All previous confirmed cases o\u2026 [+3155 chars]",
+      "retrievedAt": "2024-06-01 19:06:33.170214",
+      "internal_id": "e03976ab8a219f4f88d0cfbc3f1c7387bd0d7bdd09485bb1b3f66389607a894d",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9707,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Third human case of bird flu tied to dairy cattle outbreak",
+      "description": "For the first time, the CDC confirms a person infected with bird flu in the U.S. has acute respiratory symptoms. It is the third human case tied to the dairy cattle H5N1 outbreak and the second case in a dairy farm worker in Michigan.",
+      "url": "https://www.cbsnews.com/video/third-human-case-of-bird-flu-tied-to-dairy-cattle-outbreak/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/05/31/37b85681-525c-4789-a327-3b9418991e74/thumbnail/1200x630/3baa5553d170627f97736efe6edee6ea/0531-cmo-newbirdflucase-gounder.jpg?v=d7bbca61a2ddd34e0cfc8fb46aec1df3",
+      "publishedAt": "2024-05-31 13:01:00",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-06-01 19:06:33.129864",
+      "internal_id": "d50d6a0ab812d178308ae4aaafc487854bbc19f2b23a1ce045acea4767ae5c4e",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9730,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "D\u00f6nt\u00f6tt a hat\u00f3s\u00e1g: \u00e9rkezhet a chikungunya elleni olt\u00f3anyag",
+      "description": "Az Eur\u00f3pai Gy\u00f3gyszer\u00fcgyn\u00f6ks\u00e9g (EMA) az Ixchiq nev\u0171 vakcina forgalomba hozatali enged\u00e9ly\u00e9nek kiad\u00e1s\u00e1t javasolta p\u00e9nteken, az Ixchiq az els\u0151 olyan olt\u00f3anyag lehet az EU-ban, amely v\u00e9delmet ny\u00fajt a 18 \u00e9ves \u00e9s ann\u00e1l id\u0151sebb feln\u0151tteknek a chikungunya ellen.",
+      "url": "https://www.portfolio.hu/gazdasag/20240531/dontott-a-hatosag-erkezhet-a-chikungunya-elleni-oltoanyag-689477",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1403390266-581428.jpg",
+      "publishedAt": "2024-05-31 12:44:00",
+      "content": "Az Eur\u00f3pai Uni\u00f3 gy\u00f3gyszerfel\u00fcgyeleti hat\u00f3s\u00e1g\u00e1nak szerep\u00e9t bet\u00f6lt, amszterdami sz\u00e9khely \u00fcgyn\u00f6ks\u00e9g p\u00e9nteki t\u00e1j\u00e9koztat\u00e1sa szerint a Ixchiq nev olt\u00f3anyag uni\u00f3s haszn\u00e1lat\u00e1ra vonatkoz\u00f3 enged\u00e9lyez\u00e9si javasl\u2026 [+1446 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.825089",
+      "internal_id": "39088782cf73f08a5ff5dc426f3f51e428fa8556f610909f045141ec0f2ad870",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9711,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Robyn White",
+      "title": "Bird Flu in US Cows Part of Wider Trend\u2014'We Have Moved Into New Territory'",
+      "description": "New findings show that bird flu is becoming a global problem for mammals as it continues to spread rapidly.",
+      "url": "https://www.newsweek.com/bird-flu-detected-cows-united-states-1905472",
+      "urlToImage": "https://d.newsweek.com/en/full/2400013/bird-flu.png",
+      "publishedAt": "2024-05-31 12:19:29",
+      "content": "Bird flu virus has been detected in dairy cows in the United States for the first time. The detection of the H5N1 virus suggests there is now a new phase in the virus' spread among mammals, research\u2026 [+3559 chars]",
+      "retrievedAt": "2024-06-01 19:06:33.200073",
+      "internal_id": "a7674ea8687dfdca09d5e911a677ae4409fbed00e4cd721e1d1b0dc21281ed38",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9704,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "Third Person Catches H5N1 Bird Flu, This Time Has Respiratory Symptoms",
+      "description": "The dairy worker from Michigan caught the H5N1 highly pathogenic avian influenza (HPAI) after interacting with a sick cow without wearing a face mask.",
+      "url": "https://www.forbes.com/sites/brucelee/2024/05/31/third-person-catches-h5n1-bird-flu-this-time-has-respiratory-symptoms/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6659bd0a7d42dd6a45e92ff3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-31 12:11:15",
+      "content": "The current bird flu outbreak has already affected cattle in at least nine states, based on reports ... [+] compiled by the United States Department of Agriculture (USDA). (Photo by Matthew Ludak for\u2026 [+3280 chars]",
+      "retrievedAt": "2024-06-01 19:06:32.248370",
+      "internal_id": "163959461dd5b8109e6157a37a1f1702eca1333899a77c1c88f6a7c1ce9f13ba",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9737,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Silvia Martinez",
+      "title": "Europa autoriza la primera vacuna contra el chikungunya, virus que transmite el mosquito tigre y que ya ha alcanzado el continente",
+      "description": "El virus de chikungunya, transmitido por el mosquito tigre, ya tiene vacuna con la que proteger de sus efectos a los mayores de 18 a\u00f1os. La Agencia Europea del Medicamento (EMA en sus siglas en ingl\u00e9s) ha recomendado la autorizaci\u00f3n de la comercializaci\u00f3n en \u2026",
+      "url": "https://www.elperiodico.com/es/sociedad/20240531/agencia-europea-medicamento-autoriza-primera-103165547",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/cdb5c9fd-5763-4c69-9989-a399521e646b_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-05-31 11:49:37",
+      "content": "El virus de chikungunya, transmitido por el mosquito tigre, ya tiene vacuna con la que proteger de sus efectos a los mayores de 18 a\u00f1os. La Agencia Europea del Medicamento (EMA en sus siglas en ingl\u00e9\u2026 [+3891 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.860087",
+      "internal_id": "db61bb6d81ef4fe68f876de93e93324fdf3bceab8553f034055e55dc61cb08a2",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9713,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Christiane Oelrich",
+      "title": "Der Kampf gegen das Dengue-Fieber beginnt bei den M\u00fccken",
+      "description": "Die Weltgesundheitsorganisation schl\u00e4gt Alarm: Es wird bef\u00fcrchtet, dass die Dengue-F\u00e4lle stark zunehmen. In einigen Regionen ist die Zahl sechsmal so hoch wie im gleichen Zeitraum 2023. Die Erreger werden von Stechm\u00fccken \u00fcbertragen, die l\u00e4ngst auch in Deutsch\u2026",
+      "url": "https://www.welt.de/gesundheit/article251795558/Dengue-Fieber-Der-Kampf-gegen-die-Infektionskrankheit-beginnt-bei-den-Stechmuecken.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile251795556/9661350977-ci16x9-w1200/TOPSHOT-A-pest-control-officer-fu.jpg",
+      "publishedAt": "2024-05-31 10:45:49",
+      "content": "Die Weltgesundheitsorganisation ist alarmiert wegen der bereits jetzt hohen Zahl von Dengue-F\u00e4llen in diesem Jahr. Die Infektionen nehmen seit f\u00fcnf Jahren stetig zu. Aber seit Anfang 2024 sei die Lag\u2026 [+3040 chars]",
+      "retrievedAt": "2024-06-01 19:06:34.007564",
+      "internal_id": "9b28649e59ee81daa843979352ade9b8905801a139b0785ce38b9a33e5e9f8a0",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9734,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "EU regulator recommends use of Valneva's chikungunya vaccine",
+      "description": "(marketscreener.com) The European Medicines Agency recommended the use of Valneva's single-shot vaccine for chikungunya virus, the regulator said on Friday. https://www.marketscreener.com/quote/stock/VALNEVA-54466/news/EU-regulator-recommends-use-of-Valne\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-54466/news/EU-regulator-recommends-use-of-Valneva-s-chikungunya-vaccine-46873761/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2024-05-31 10:22:33",
+      "content": "May 31, 2024 at 06:22 am EDT May 31 (Reuters) - The European Medicines Agency (EMA) recommended the use of Valneva's single-shot vaccine for chikungunya virus, the regulator said on Friday. (Repo\u2026 [+70 chars]",
+      "retrievedAt": "2024-06-01 19:06:36.845133",
+      "internal_id": "3c8871fab5ab3271ce01c7e85df6d8d59e0c60c488da51702b269cba173bd83c",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9720,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue afasta, em m\u00e9dia, oito servidores de Campinas por dia em 2024",
+      "description": "Dados consideram per\u00edodo at\u00e9 20 de maio e, segundo a prefeitura, representam 7,4% do quadro de trabalhadores municipais. Sede da Prefeitura de Campinas (SP) Arquivo PMC A dengue afastou ao menos 1.192 servidores p\u00fablicos municipais at\u00e9 maio de 2024 em Campina\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/31/dengue-afasta-em-media-oito-servidores-de-campinas-por-dia-em-2024.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/BdccBxc5O47gRnBByIOV3TOsmG8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/u/y/3XztYLTsGe5p0OdAIJsg/fa3d806c3f54bdabe074c5b4e4f245a1-1-.jpg",
+      "publishedAt": "2024-05-31 10:04:54",
+      "content": "Naquele ano, que, at\u00e9 ent\u00e3o, registrava a pior epidemia da hist\u00f3ria, foram 986 afastamentos nos primeiros cinco meses. O total apontado agora \u00e9 tamb\u00e9m quase sete vezes maior do que o observado no mes\u2026 [+3152 chars]",
+      "retrievedAt": "2024-06-01 19:06:34.109950",
+      "internal_id": "e926e67ddc0452a59cb4b46c2af967cb1c5a0800f107553a94b3b5f3258a4135",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9715,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": null,
+      "title": "Tropenkrankheiten: Hohe Zahl von Dengue-F\u00e4llen alarmiert WHO",
+      "description": "Vor allem der amerikanische Kontinent registriert extrem hohe Zahlen von Dengue-Infektionen. Der Gro\u00dfteil davon entf\u00e4llt auf Brasilien.",
+      "url": "https://www.spektrum.de/news/tropenkrankheiten-hohe-zahl-von-dengue-faellen-alarmiert-who/2218355",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/iStock-1451071092_Soumyabrata_Roy.jpg",
+      "publishedAt": "2024-05-31 09:52:53",
+      "content": "Die Weltgesundheitsorganisation (WHO) ist alarmiert wegen der schon jetzt hohen Zahl von Denguefieber-F\u00e4llen in diesem Jahr. Insgesamt habe es bis Ende April 2024 bereits F\u00e4lle in 90 L\u00e4ndern gegeben.\u2026 [+1312 chars]",
+      "retrievedAt": "2024-06-01 19:06:34.024551",
+      "internal_id": "03f1606189e18b6d85912f50c63f24769851ddaa5d1f8ae7ae351f9bb7ef7032",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9702,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Measles: posters for the general public",
+      "description": "Measles awareness posters for use by the general public in public spaces.",
+      "url": "https://www.gov.uk/government/publications/measles-posters-for-the-general-public",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-05-31 09:14:01",
+      "content": "These posters includes information on: symptomsvaccination statushow to find more informationPaper copies of the male and female version of these posters in Engli\u2026 [+140 chars]",
+      "retrievedAt": "2024-06-01 19:06:31.751281",
+      "internal_id": "848f536380ebbc556de0685a285df81d272f17847a1bb6a456721b03ef4d5586",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9708,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Bei kranken K\u00fchen angesteckt?: US-Beh\u00f6rde best\u00e4tigt dritte H5N1-Infektion bei Menschen",
+      "description": "Es war nur eine Frage der Zeit, bis der n\u00e4chste Fall einer Vogelgrippe-Infektion bei einem Menschen festgestellt wird. Doch dieses Mal ist etwas anders. Fachleute in den USA sehen f\u00fcr die Allgemeinbev\u00f6lkerung kein erh\u00f6htes Risiko.",
+      "url": "https://www.n-tv.de/wissen/US-Behoerde-bestaetigt-dritte-H5N1-Infektion-bei-Menschen-article24979917.html",
+      "urlToImage": "https://bilder1.n-tv.de/img/incoming/crop24979912/7731327421-cImg_16_9-w1200/imago0361768702h.jpg",
+      "publishedAt": "2024-05-31 08:47:14",
+      "content": "Es war nur eine Frage der Zeit, bis der n\u00e4chste Fall einer Vogelgrippe-Infektion bei einem Menschen festgestellt wird. Doch dieses Mal ist etwas anders. Fachleute in den USA sehen f\u00fcr die Allgemeinbe\u2026 [+3812 chars]",
+      "retrievedAt": "2024-06-01 19:06:33.134915",
+      "internal_id": "9b0121b87a7db1ffc41f9bcd5494d102ed8ddcc9b6a3aa52f70dc9996bbf5de7",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9712,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Renata Mendes Gon\u00e7alves",
+      "title": "Dengue: como identificar corretamente o Aedes aegypti?",
+      "description": "Com tantos casos de dengue no Brasil, \u00e9 importante saber reconhecer o mosquito Aedes aegypti e saber diferenci\u00e1-lo de outros mosquitos O post Dengue: como identificar corretamente o Aedes aegypti? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/05/31/ciencia-e-espaco/dengue-como-identificar-corretamente-o-aedes-aegypti/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2023/11/pexels-pixabay-86722-scaled-e1699618243347.jpg",
+      "publishedAt": "2024-05-31 08:20:00",
+      "content": "Os casos de dengue t\u00eam se alastrado pelo Brasil e com a crescente propaga\u00e7\u00e3o do v\u00edrus, crescem tamb\u00e9m as d\u00favidas em rela\u00e7\u00e3o ao cont\u00e1gio, tratamento, preven\u00e7\u00e3o, formas de contamina\u00e7\u00e3o e tamb\u00e9m a respe\u2026 [+2978 chars]",
+      "retrievedAt": "2024-06-01 19:06:34.002877",
+      "internal_id": "46744b0a6d117dcd220fb0b373166e0192d3b0464838a805ad6ff9c46bb332f1",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9717,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR",
+      "title": "WHO znepokojuje vysok\u00fd po\u010det pr\u00edpadov hor\u00fa\u010dky dengue",
+      "description": "V Amerike bolo hl\u00e1sen\u00fdch za toto obdobie do apr\u00edla tohto roku viac ako 7 mili\u00f3nov pr\u00edpadov hor\u00fa\u010dky dengue.",
+      "url": "https://spravy.pravda.sk/svet/clanok/712129-who-znepokojuje-vysoky-pocet-pripadov-horucky-dengue/",
+      "urlToImage": "http://ipravda.sk/res/2024/03/01/thumbs/horucka-dengue_05-clanokW.jpg",
+      "publishedAt": "2024-05-31 07:49:00",
+      "content": "Poet pr\u00edpadov hor\u00faky dengue na celom svete sa za posledn\u00fdch p\u00e4 rokov zv\u00fdil, priom obzvl\u00e1 alarmuj\u00faca je tento rok situ\u00e1cia v Amerike. Vo tvrtok to vo svojej spr\u00e1ve zverejnila Svetov\u00e1 zdravotn\u00edcka orga\u2026 [+928 chars]",
+      "retrievedAt": "2024-06-01 19:06:34.080297",
+      "internal_id": "ee75ef4c945bb375596bc33c8607a496993cb3e497321e24174f483332073cf0",
+      "publishedAtLabel": "May 31"
+    },
+    {
+      "id": 9714,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "V\u00e9szjelz\u00e9s \u00e9rkezett: ijeszt\u0151 \u00fctemben terjed a sz\u00fanyog \u00e1ltal terjesztett betegs\u00e9g, amely hal\u00e1los is lehet",
+      "description": "Az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet (WHO) friss k\u00f6zlem\u00e9nye szerint id\u00e9n dr\u00e1mai m\u00e9rt\u00e9kben megn\u0151tt a dengue-l\u00e1zas megbeteged\u00e9sek sz\u00e1ma az amerikai kontinensen. Ez a sz\u00fanyogok \u00e1ltal terjesztett v\u00edrusos betegs\u00e9g tov\u00e1bbra is komoly vesz\u00e9lyt jelent a k\u00f6zeg\u00e9szs\u00e9g\u00fcgyre.",
+      "url": "https://www.portfolio.hu/gazdasag/20240531/veszjelzes-erkezett-ijeszto-utemben-terjed-a-szunyog-altal-terjesztett-betegseg-amely-halalos-is-lehet-689341",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/d/e/n/dengue-laz-szunyog-stock-660021.jpg",
+      "publishedAt": "2024-05-31 07:25:00",
+      "content": "Az ENSZ-\u00fcgyn\u00f6ks\u00e9g adatai alapj\u00e1n \u00e1prilis v\u00e9g\u00e9re az amerikai kontinensen regisztr\u00e1lt dengue-esetek sz\u00e1ma meghaladta a 7 milli\u00f3t. Ezzel pedig a regisztr\u00e1lt esetek sz\u00e1ma m\u00e1r most jelentsen meghaladta a\u2026 [+1888 chars]",
+      "retrievedAt": "2024-06-01 19:06:34.019800",
+      "internal_id": "9a449af67de506ea8e2817a3174680a3e73a9ddd6e8210e2843b1a9ad26f474e",
+      "publishedAtLabel": "May 31"
+    },
     {
       "id": 9691,
       "query": [
@@ -27134,114 +27946,6 @@
       "content": "La Seremi de la Regi\u00f3n de Valpara\u00edso confirm\u00f3 el hallazgo de un mosquito Aedes aegypti en el Terminal de Buses Ahumada de la comuna de Los Andes, lo que ha generado un llamado urgente a la acci\u00f3n por\u2026 [+1901 chars]",
       "retrievedAt": "2024-04-16 07:06:13.321002",
       "internal_id": "39339444eefc7b256d165e35edab548f00068c54f87fd57297a52c5ba632d047",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8189,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Deadline",
-      "author": "Bruce Haring",
-      "title": "L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier",
-      "description": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los Angeles County Department of Public Health said it had received\u2026",
-      "url": "http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2023/09/Universal-Studios-theme-park-Hollywood.jpg?w=1024",
-      "publishedAt": "2024-04-14 18:32:51",
-      "content": "Los Angeles County health officials released an exposure warning Saturday regarding an unidentified traveler with measles who visited locations in the county between March 30 and April 1. The Los An\u2026 [+1049 chars]",
-      "retrievedAt": "2024-04-15 19:05:56.686603",
-      "internal_id": "6754d64ecced4850f3f21b330198b32459cdf8cc6ba021f346496bd25e8bfb83",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8191,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Idnes.cz",
-      "author": "Martina Riemlov\u00e1",
-      "title": "Argentina bojuje s vlnou hore\u010dky dengue, repelenty v zemi nejsou k sehn\u00e1n\u00ed",
-      "description": "V Argentin\u011b se \u0161\u00ed\u0159\u00ed epidemie hore\u010dky dengue, a tak v tamn\u00edch obchodech a l\u00e9k\u00e1rn\u00e1ch chyb\u00ed dostate\u010dn\u00e9 mno\u017estv\u00ed p\u0159\u00edpravk\u016f proti hmyzu. Tamn\u00ed \u00fa\u0159ady u\u017e zru\u0161ily omezen\u00ed souvisej\u00edc\u00ed s dovozem repelent\u016f, aby v zemi nav\u00fd\u0161ily nab\u00eddku. N\u011bkte\u0159\u00ed obyvatel\u00e9 si prozat\u00edm za\u010da\u2026",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie",
-      "urlToImage": "https://1gr.cz/tempimg/fb/2024/4/RIE80166f40ba_profimedia_0863037161.jpg",
-      "publishedAt": "2024-04-14 17:00:00",
-      "content": "Navt\u00edvili jsme nejm\u00e9n ticet l\u00e9k\u00e1ren po cel\u00e9m mst, nic u nezbylo, \u00edk\u00e1 pro agenturu AP dvaatyicetilet\u00e1 Ana Infante z hlavn\u00edho msta Buenos Aires. Chtla nakoupit repelenty pot\u00e9, co jej\u00ed spolupracovnice m\u2026 [+2955 chars]",
-      "retrievedAt": "2024-04-15 19:05:57.449323",
-      "internal_id": "276f46d6c6aaa7f9c7f18b77d7e212406c4dacd6f9717f373c6928c6996128db",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8193,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "El mapa del dengue: informan por primera vez en el a\u00f1o una tendencia en baja, con excepci\u00f3n de dos provincias",
-      "description": "Surge del ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias y en un an\u00e1lisis que las autoridades sanitarias",
-      "url": "https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-virus-del-dengue-es-transmitido-por-la-S3JPAWMYHRDENE6Q76GQSY2MO4.jpg?auth=ea273d9864dfb28806178bede17b6b98a393721aefc196f023cbc6d6eca84657&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-14 16:08:20",
-      "content": "El avance de la epidemia de dengue en las 19 provincias con circulaci\u00f3n viral estar\u00eda tendiendo a desacelerarse, de acuerdo con el ritmo de aparici\u00f3n de nuevos casos que van reportando las provincias\u2026 [+2630 chars]",
-      "retrievedAt": "2024-04-15 19:05:57.545411",
-      "internal_id": "98a2d21fa90f6d15b4ada2e8bad569b674137707859c0d40e1fa86c82bcadea1",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8192,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Juliana Arreguy",
-      "title": "SP chega a 285 mortes por dengue e 573 mil casos da doen\u00e7a",
-      "description": "Capital concentra mortes por dengue no estado, com 39 \u00f3bitos, seguida de Guarulhos, na Grande SP, com 26, e Jacare\u00ed, no interior, com 20",
-      "url": "https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/07195753/TCDF-cobra-nomeacoes-de-agentes-contra-a-dengue.jpg",
-      "publishedAt": "2024-04-14 15:48:07",
-      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo chegou a 285 mortes por dengue neste domingo (14/4), e investiga 605 outros \u00f3bitos em decorr\u00eancia da doen\u00e7a. As informa\u00e7\u00f5es constam no painel de monitoramento da Secre\u2026 [+6245 chars]",
-      "retrievedAt": "2024-04-15 19:05:57.456240",
-      "internal_id": "6c2c17696af3df5a2356e199353c2a2aa8edcd88a1eb20193c3659a959247c76",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8190,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Alessia Dunn",
-      "title": "Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger",
-      "description": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. When guests visit a theme park, it is impossible to think that you will not come into contact with germs. At \u2026",
-      "url": "https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Universal-Hollywood.jpg",
-      "publishedAt": "2024-04-14 14:29:45",
-      "content": "If you were enjoying Universal Studios Hollywood or other Los Angeles tourist destinations over Easter weekend, you may have been exposed to measles. Credit: Universal Studios When guests visit a t\u2026 [+4444 chars]",
-      "retrievedAt": "2024-04-15 19:05:56.714627",
-      "internal_id": "4b63de4a1f2879f2231802882676a41b3a9a477fc46ba131faf2e2cee5fb374b",
-      "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 8188,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
-      "title": "Alarming Measles Outbreaks Surge Across Europe And Central Asia",
-      "description": "While focus in the U.S. has been on rising numbers of measles cases domestically, it\u2019s Europe and Central Asia where the situation is at crisis level.",
-      "url": "https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661bbf0650e753f1cc011c18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-04-14 13:13:47",
-      "content": "Little girl with measles. getty After surging at the end of last year, measles outbreaks across Europe and Central Asia intensified in the first quarter of 2024, with incidence rates of up to hundr\u2026 [+6945 chars]",
-      "retrievedAt": "2024-04-15 19:05:56.673594",
-      "internal_id": "bbbf1402efba99042fd00b5c3e3c92fffbbd7087b18b96f84e7fbe35ce307cf7",
       "publishedAtLabel": "Apr 14"
     }
   ]

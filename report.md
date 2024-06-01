@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2024-06-01 07:05
-- **Most recent article:** 2024-05-31 06:54:10
+- **New articles in last harvest:** 45
+- **Last harvest:** 2024-06-01 19:06
+- **Most recent article:** 2024-05-31 19:03:15
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-16 | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 111 | 117 | 77 | 57 | 87 | 58 | 43 | 550 |
-| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 55 | 270 |
-| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 20 | 210 |
-| measles | 39 | 28 | 24 | 10 | 29 | 15 | 12 | 157 |
-| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 9 | 88 |
+| dengue | 108 | 117 | 77 | 57 | 87 | 58 | 54 | 558 |
+| h5n1 | 0 | 0 | 0 | 57 | 63 | 95 | 63 | 278 |
+| malaria | 29 | 77 | 25 | 29 | 13 | 17 | 24 | 214 |
+| measles | 36 | 28 | 24 | 10 | 29 | 15 | 14 | 156 |
+| mpox | 13 | 8 | 36 | 3 | 10 | 9 | 13 | 92 |
 | meningitis | 44 | 5 | 3 | 5 | 9 | 4 | 1 | 71 |
-| rabies | 3 | 3 | 4 | 22 | 10 | 8 | 2 | 52 |
-| chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 4 | 41 |
+| rabies | 3 | 3 | 4 | 22 | 10 | 8 | 6 | 56 |
+| chikungunya | 5 | 5 | 7 | 5 | 12 | 3 | 17 | 54 |
 | pertussis | 7 | 5 | 2 | 5 | 5 | 6 | 5 | 35 |
 | zika | 8 | 3 | 8 | 2 | 6 | 3 | 3 | 33 |
-| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 10 | 24 |
+| hpai | 0 | 0 | 0 | 4 | 3 | 7 | 11 | 25 |
 | sarampión | 0 | 10 | 8 | 1 | 0 | 0 | 0 | 19 |
 | leptospirosis | 3 | 3 | 2 | 1 | 3 | 0 | 5 | 17 |
 | yersinia | 2 | 0 | 5 | 1 | 0 | 6 | 0 | 14 |
@@ -43,6 +43,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (rabies)
 
+- ['Gossip Girl' Star Taylor Momsen Bitten by Bat Onstage, Gets Rabies Shots](https://www.tmz.com/2024/05/31/gossip-girl-taylor-momsen-bitten-by-bat-onstage-rabies-shots/) (TMZ)
+
+- [Taylor Momsen ‘Must Really Be a Witch’ After Getting Bit by Bat During AC/DC Opening Set](http://www.rollingstone.com/music/music-news/taylor-momsen-bat-bite-acdc-set-1235030750/) (Rolling Stone)
+
+- [Taylor Momsen Gets Bit by a Bat While Opening for AC/DC, Ordered to Get Rabies Shots for Two Weeks: ‘I Must Really Be a Witch’](https://variety.com/2024/music/news/taylor-momsen-bite-bat-witch-ac-dc-concert-1236021261/) (Variety)
+
+- [The Pretty Reckless’ Taylor Momsen Bit by Bat Onstage While Opening for AC/DC: Watch](https://consequence.net/2024/05/the-pretty-reckless-taylor-momsen-bit-by-bat/) (Consequence.net)
+
 - [News24 | Cape Town metro probes origins of one confirmed, another suspected case of rabies in two family dogs](https://www.news24.com/news24/southafrica/news/cape-town-metro-probes-origins-of-one-confirmed-another-suspected-case-of-rabies-in-two-family-dogs-20240530) (News24)
 
 - [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
@@ -60,6 +68,14 @@ Source: [News API](https://newsapi.org/)
 - [El misterioso aumento de los casos de tos ferina](https://www.dw.com/es/el-misterioso-aumento-de-los-casos-de-tos-ferina/a-69188517) (DW (English))
 
 ## 24-22 (mpox)
+
+- [Measles, mpox warning for Victorian travellers](https://northern.starweekly.com.au/news/measles-mpox-warning-for-victorian-travellers/) (Starweekly.com.au)
+
+- [Bavarian Nordic Submits Supplemental BLA Seeking U.S. FDA Approval of Freeze-Dried Formulation of Smallpox and Mpox Vaccine](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Submits-Supplemental-BLA-Seeking-U-S-FDA-Approval-of-Freeze-Dried-Formulation-of-Sm-46875939/) (Marketscreener.com)
+
+- [Bavarian Nordic Submits Supplemental BLA Seeking U.S. FDA Approval of Freeze-Dried Formulation of Smallpox and Mpox Vaccine](https://www.globenewswire.com/news-release/2024/05/31/2891593/0/en/Bavarian-Nordic-Submits-Supplemental-BLA-Seeking-U-S-FDA-Approval-of-Freeze-Dried-Formulation-of-Smallpox-and-Mpox-Vaccine.html) (GlobeNewswire)
+
+- [Bavarian Nordic indsender supplerende ansøgning til de amerikanske sundhedsmyndigheder om godkendelse af frysetørret koppe- og mpoxvaccine](https://www.globenewswire.com/news-release/2024/05/31/2891593/0/da/Bavarian-Nordic-indsender-supplerende-ans%C3%B8gning-til-de-amerikanske-sundhedsmyndigheder-om-godkendelse-af-fryset%C3%B8rret-koppe-og-mpoxvaccine.html) (GlobeNewswire)
 
 - [Victoria: Increase in measles and mpox cases prompts warning from Victorian officials](https://www.9news.com.au/national/victoria-increase-in-measles-and-mpox-cases-prompt-warning-from-victorian-officials/0acb952d-c7d3-4e9d-83e3-6c1d63072326) (9News)
 
@@ -84,6 +100,10 @@ Source: [News API](https://newsapi.org/)
 - [Día Nacional de la Donación de Órganos: su hijo mayor falleció a los ocho meses, donaron sus órganos y hoy se dedica a la terapia pediátrica](https://www.lanacion.com.ar/comunidad/dia-nacional-de-la-donacion-de-organos-su-hijo-mayor-fallecio-a-los-ocho-meses-donaron-sus-organos-y-nid30052024/) (La Nacion)
 
 ## 24-22 (measles)
+
+- [Measles, mpox warning for Victorian travellers](https://northern.starweekly.com.au/news/measles-mpox-warning-for-victorian-travellers/) (Starweekly.com.au)
+
+- [Guidance: Measles: posters for the general public](https://www.gov.uk/government/publications/measles-posters-for-the-general-public) (Www.gov.uk)
 
 - [Fresh measles, monkeypox warning issued for Australians travelling overseas as Victoria sees increase in cases this year](https://www.skynews.com.au/lifestyle/health/fresh-measles-monkeypox-warning-issued-for-australians-travelling-overseas-as-victoria-sees-increase-in-cases-this-year/news-story/1eb07a6ea84bbd847dbc2aa674c611c0) (Sky News Australia)
 
@@ -110,6 +130,14 @@ Source: [News API](https://newsapi.org/)
 - [Infectious person with measles traveled through LAX, health officials warn](https://abc7.com/post/infectious-person-measles-traveled-lax-health-officials-warn/14876506/) (KABC-TV)
 
 ## 24-22 (malaria)
+
+- [Malaria deaths, once declining, have stalled, but there’s reason for hope](https://www.hsph.harvard.edu/news/features/malaria-deaths-reason-for-hope/) (Harvard School of Engineering and Applied Sciences)
+
+- [South Sudan receives its first batch of a new vaccine for malaria from the WHO](https://abcnews.go.com/International/wireStory/south-sudan-receives-batch-new-vaccine-malaria-110716461) (ABC News)
+
+- [South Sudan receives its first batch of a new vaccine for malaria from the WHO](https://abcnews.go.com/Health/wireStory/south-sudan-receives-batch-new-vaccine-malaria-110716464) (ABC News)
+
+- [Role of Rabenosyn-5 and Rab5b in host cell cytosol uptake reveals conservation of endosomal transport in malaria parasites](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002639) (Plos.org)
 
 - [GM mosquitoes fight malaria, and robot digit gets thumbs up](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/gm-mosquitoes-fight-malaria-and-robot-digit-gets-thumbs) (The Naked Scientists)
 
@@ -165,6 +193,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (hpai)
 
+- [Third Person Catches H5N1 Bird Flu, This Time Has Respiratory Symptoms](https://www.forbes.com/sites/brucelee/2024/05/31/third-person-catches-h5n1-bird-flu-this-time-has-respiratory-symptoms/) (Forbes)
+
 - [U.S. confirms third human bird flu case tied to dairy outbreak](http://en.people.cn/n3/2024/0531/c90000-20176626.html) (People.cn)
 
 - [한국, 광우병 등 동물 감염병 청정국 지위 유지](https://www.khan.co.kr/economy/economy-general/article/202405311353001) (Khan.co.kr)
@@ -186,6 +216,22 @@ Source: [News API](https://newsapi.org/)
 - [Мыши заболели птичьим гриппом, выпив сырого молока](https://naked-science.ru/article/medicine/bird-flu-in-milk) (Naked-science.ru)
 
 ## 24-22 (h5n1)
+
+- [U.S. to make millions of bird flu vaccine doses this summer](https://www.cbsnews.com/news/bird-flu-vaccine-doses-this-summer-cases/) (CBS News)
+
+- [Moderna shares rise on report U.S. government preparing funding for mRNA bird flu vax](https://www.wnd.com/2024/05/moderna-shares-rise-report-u-s-government-preparing-funding-mrna-bird-flu-vax/) (Wnd.com)
+
+- [„Atemwegssymptome traten nach direktem Kontakt mit der infizierten Kuh auf“](https://www.welt.de/gesundheit/article251806564/Vogelgrippe-Ein-Melker-infiziert-sich-und-entwickelt-Symptome-die-die-Ansteckung-anderer-erleichtern.html) (DIE WELT)
+
+- [Bird flu: US confirms first case with respiratory symptoms](https://www.bmj.com/content/385/bmj.q1203) (The BMJ)
+
+- [Third human case of bird flu tied to dairy cattle outbreak](https://www.cbsnews.com/video/third-human-case-of-bird-flu-tied-to-dairy-cattle-outbreak/) (CBS News)
+
+- [Bird Flu in US Cows Part of Wider Trend—'We Have Moved Into New Territory'](https://www.newsweek.com/bird-flu-detected-cows-united-states-1905472) (Newsweek)
+
+- [Third Person Catches H5N1 Bird Flu, This Time Has Respiratory Symptoms](https://www.forbes.com/sites/brucelee/2024/05/31/third-person-catches-h5n1-bird-flu-this-time-has-respiratory-symptoms/) (Forbes)
+
+- [Bei kranken Kühen angesteckt?: US-Behörde bestätigt dritte H5N1-Infektion bei Menschen](https://www.n-tv.de/wissen/US-Behoerde-bestaetigt-dritte-H5N1-Infektion-bei-Menschen-article24979917.html) (N-tv.de)
 
 - [Kiszivárgott a terv: ezzel a vakcinával fékeznék meg az újabb járvány berobbanását](https://www.portfolio.hu/gazdasag/20240531/kiszivargott-a-terv-ezzel-a-vakcinaval-fekeznek-meg-az-ujabb-jarvany-berobbanasat-689307) (Portfolio.hu)
 
@@ -299,6 +345,28 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-22 (dengue)
 
+- [Cavani oferece produto a garoto e chama atenção na Argentina](https://esporte.ig.com.br/parceiros/jogada10/2024-05-31/cavani-oferece-produto-a-garoto-e-chama-atencao-na-argentina.html) (Ig.com.br)
+
+- [Cavani oferece produto a garoto e chama atenção na Argentina](https://www.terra.com.br/esportes/futebol/cavani-oferece-produto-a-garoto-e-chama-atencao-na-argentina,cfdbd16053f8bcc89350ee623048d6edv6sdzuqk.html) (Terra.com.br)
+
+- [Dengue cases down, four deaths reported](https://www.thestar.com.my/news/nation/2024/06/01/dengue-cases-down-four-deaths-reported) (The Star Online)
+
+- [Aumentan los casos de dengue en Miami-Dade: repelentes caseros y consejos para evitar que el mosquito te pique](https://www.lanacion.com.ar/estados-unidos/florida/aumentan-los-casos-de-dengue-en-miami-dade-repelentes-caseros-y-consejos-para-evitar-que-el-mosquito-nid31052024/) (La Nacion)
+
+- [Diabetes mellitus as a risk factor for severe dengue fever and West Nile fever: A meta-analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012217) (Plos.org)
+
+- [Der Kampf gegen das Dengue-Fieber beginnt bei den Mücken](https://www.welt.de/gesundheit/article251795558/Dengue-Fieber-Der-Kampf-gegen-die-Infektionskrankheit-beginnt-bei-den-Stechmuecken.html) (DIE WELT)
+
+- [Dengue afasta, em média, oito servidores de Campinas por dia em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/05/31/dengue-afasta-em-media-oito-servidores-de-campinas-por-dia-em-2024.ghtml) (Globo)
+
+- [Tropenkrankheiten: Hohe Zahl von Dengue-Fällen alarmiert WHO](https://www.spektrum.de/news/tropenkrankheiten-hohe-zahl-von-dengue-faellen-alarmiert-who/2218355) (Spektrum.de)
+
+- [Dengue: como identificar corretamente o Aedes aegypti?](https://olhardigital.com.br/2024/05/31/ciencia-e-espaco/dengue-como-identificar-corretamente-o-aedes-aegypti/) (Olhardigital.com.br)
+
+- [WHO znepokojuje vysoký počet prípadov horúčky dengue](https://spravy.pravda.sk/svet/clanok/712129-who-znepokojuje-vysoky-pocet-pripadov-horucky-dengue/) (Pravda.sk)
+
+- [Vészjelzés érkezett: ijesztő ütemben terjed a szúnyog által terjesztett betegség, amely halálos is lehet](https://www.portfolio.hu/gazdasag/20240531/veszjelzes-erkezett-ijeszto-utemben-terjed-a-szunyog-altal-terjesztett-betegseg-amely-halalos-is-lehet-689341) (Portfolio.hu)
+
 - [7,6 milioane de cazuri de febră dengue în 90 de țări, inclusiv în Europa. OMS este în alertă: Riscul de răspândire e ridicat](https://www.digi24.ro/stiri/actualitate/sanatate/76-milioane-de-cazuri-de-febra-dengue-in-90-de-tari-inclusiv-in-europa-oms-este-in-alerta-riscul-de-raspandire-e-ridicat-2809907) (Digi24.ro)
 
 - [Organise more gotong-royong to ensure dengue hotspots eradicated, says Ipoh Mayor](https://www.thestar.com.my/news/nation/2024/05/31/organise-more-gotong-royong-to-ensure-dengue-hotspots-eradicated-says-ipoh-mayor) (The Star Online)
@@ -386,6 +454,32 @@ Source: [News API](https://newsapi.org/)
 - [Se quintuplican casos de dengue en un año, alerta Ssa](https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-22 (chikungunya)
+
+- [Trump va faire appel, projet d’attentat déjoué à Saint-Etienne, vaccin contre le chikungunya… L’actu de ce vendredi 31 mai](https://www.liberation.fr/international/europe/trump-va-faire-appel-projet-dattentat-dejoue-a-saint-etienne-vaccin-contre-le-chikungunya-lactu-de-ce-vendredi-31-mai-20240531_GFUU4XK7QFDI5EHJU5FQ42CWU4/) (Libération)
+
+- [Chikungunya : L’Agence européenne des médicaments valide le premier vaccin](https://www.ouest-france.fr/sante/vaccin/chikungunya-lagence-europeenne-des-medicaments-valide-le-premier-vaccin-c500a46a-1f70-11ef-b868-127b2923bc1b) (Ouest-France)
+
+- [Chikungunya : le premier vaccin validé par l’Agence européenne des médicaments](https://www.liberation.fr/societe/sante/chikungunya-le-premier-vaccin-valide-par-lagence-europeenne-des-medicaments-20240531_JNCSE7RFGVEPVL37WUVOFJLOMM/) (Libération)
+
+- [Valneva Receives EMA's Positive CHMP Opinion for its Chikungunya Vaccine](https://www.investing.com/news/press-releases/valneva-receives-emas-positive-chmp-opinion-for-its-chikungunya-vaccine-93CH-3465964) (Investing.com)
+
+- [L'Agence européenne des médicaments valide le premier vaccin contre le Chikungunya](https://www.francetvinfo.fr/sante/maladie/chikungunya/l-agence-europeenne-des-medicaments-valide-le-premier-vaccin-contre-le-chikungunya_6577094.html) (Francetvinfo.fr)
+
+- [Valneva Receives EMA's Positive CHMP Opinion for its Chikungunya Vaccine](https://www.marketscreener.com/quote/stock/VALNEVA-54466/news/Valneva-Receives-EMA-s-Positive-CHMP-Opinion-for-its-Chikungunya-Vaccine-46876319/) (Marketscreener.com)
+
+- [Valneva Receives EMA’s Positive CHMP Opinion for its Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/05/31/2891631/0/en/Valneva-Receives-EMA-s-Positive-CHMP-Opinion-for-its-Chikungunya-Vaccine.html) (GlobeNewswire)
+
+- [Valneva reçoit un avis positif du CHMP pour une autorisation de mise sur le marché en Europe de son vaccin contre le chikungunya](https://www.globenewswire.com/news-release/2024/05/31/2891631/0/fr/Valneva-re%C3%A7oit-un-avis-positif-du-CHMP-pour-une-autorisation-de-mise-sur-le-march%C3%A9-en-Europe-de-son-vaccin-contre-le-chikungunya.html) (GlobeNewswire)
+
+- [Chikungunya : Le premier vaccin bientôt validé en Europe](https://www.20minutes.fr/sante/4093979-20240531-chikungunya-premier-vaccin-bientot-valide-europe) (20 Minutes)
+
+- [L'Agence européenne des médicaments valide le premier vaccin contre le Chikungunya](https://www.lalibre.be/planete/sante/2024/05/31/lagence-europeenne-des-medicaments-valide-le-premier-vaccin-contre-le-chikungunya-AXY4XNH6EJCXTKILY47GLQTZGE/) (Lalibre.be)
+
+- [Döntött a hatóság: érkezhet a chikungunya elleni oltóanyag](https://www.portfolio.hu/gazdasag/20240531/dontott-a-hatosag-erkezhet-a-chikungunya-elleni-oltoanyag-689477) (Portfolio.hu)
+
+- [Europa autoriza la primera vacuna contra el chikungunya, virus que transmite el mosquito tigre y que ya ha alcanzado el continente](https://www.elperiodico.com/es/sociedad/20240531/agencia-europea-medicamento-autoriza-primera-103165547) (Elperiodico.com)
+
+- [EU regulator recommends use of Valneva's chikungunya vaccine](https://www.marketscreener.com/quote/stock/VALNEVA-54466/news/EU-regulator-recommends-use-of-Valneva-s-chikungunya-vaccine-46873761/) (Marketscreener.com)
 
 - [First report of V1016I, F1534C and V410L kdr mutations associated with pyrethroid resistance in Aedes aegypti populations from Niamey, Niger](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304550) (Plos.org)
 
@@ -3073,12 +3167,6 @@ Source: [News API](https://newsapi.org/)
 
 - [JOBS FOR AMERICANS 11](https://ryueyes11.tistory.com/17949) (Tistory.com)
 
-- [L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/) (Deadline)
-
-- [Health Crisis: Universal Confirms Disease Outbreak, Thousands Notified of Contamination Danger](https://insidethemagic.net/2024/04/universal-studios-measles-outbreak-ad1/) (Inside the Magic)
-
-- [Alarming Measles Outbreaks Surge Across Europe And Central Asia](https://www.forbes.com/sites/joshuacohen/2024/04/14/alarming-measles-outbreaks-surge-across-europe-and-central-asia/) (Forbes)
-
 ## 24-16 (malaria)
 
 - [Xewa Sowé Center for Orphans / Corentin Dalon + Arianna Fabrizi De Biani + Doryan Kuschner + Florian Mahieu](https://www.archdaily.com/1015819/xewa-sowe-center-for-orphans-corentin-dalon-plus-arianna-fabrizi-de-biani-plus-doryan-kuschner-plus-florian-mahieu) (ArchDaily)
@@ -3364,12 +3452,6 @@ Source: [News API](https://newsapi.org/)
 - [Os dois tipos de repelente recomendados contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/os-dois-tipos-de-repelente-recomendados-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
 
 - [Alerta sanitaria: Confirman hallazgo de mosquito transmisor del dengue en terminal de buses de Los Andes](https://www.cnnchile.com/pais/alerta-sanitaria-hallazgo-mosquito-dengue-terminal-los-andes_20240414/) (Cnnchile.com)
-
-- [Argentina bojuje s vlnou horečky dengue, repelenty v zemi nejsou k sehnání](https://www.idnes.cz/ekonomika/zahranicni/argentina-nemoc-dengue-nedostatek-repelentu.A240410_121613_eko-zahranicni_rie) (Idnes.cz)
-
-- [El mapa del dengue: informan por primera vez en el año una tendencia en baja, con excepción de dos provincias](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-informan-por-primera-vez-en-el-ano-una-tendencia-en-baja-con-excepcion-de-dos-nid14042024/) (La Nacion)
-
-- [SP chega a 285 mortes por dengue e 573 mil casos da doença](https://www.metropoles.com/sao-paulo/sp-chega-a-285-mortes-por-dengue-e-573-mil-casos-da-doenca) (Metropoles.com)
 
 ## 24-16 (chikungunya)
 
