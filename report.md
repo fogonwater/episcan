@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-06-02 07:05
-- **Most recent article:** 2024-06-01 06:10:33
+- **New articles in last harvest:** 4
+- **Last harvest:** 2024-06-02 19:05
+- **Most recent article:** 2024-06-01 15:56:03
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 114 | 77 | 57 | 87 | 58 | 59 | 452 |
+| dengue | 110 | 77 | 57 | 87 | 58 | 60 | 449 |
 | h5n1 | 0 | 0 | 57 | 63 | 95 | 64 | 279 |
 | malaria | 77 | 25 | 29 | 13 | 17 | 25 | 186 |
-| measles | 28 | 24 | 10 | 29 | 15 | 16 | 122 |
+| measles | 25 | 24 | 10 | 29 | 15 | 16 | 119 |
 | mpox | 8 | 36 | 3 | 10 | 9 | 13 | 79 |
-| rabies | 3 | 4 | 22 | 10 | 8 | 12 | 59 |
+| rabies | 3 | 4 | 22 | 10 | 8 | 14 | 61 |
 | chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 50 |
-| pertussis | 5 | 2 | 5 | 5 | 6 | 5 | 28 |
+| pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 29 |
 | meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 27 |
 | hpai | 0 | 0 | 4 | 3 | 7 | 12 | 26 |
 | zika | 3 | 8 | 2 | 6 | 3 | 3 | 25 |
 | sarampión | 10 | 8 | 1 | 0 | 0 | 0 | 19 |
-| leptospirosis | 3 | 2 | 1 | 3 | 0 | 5 | 14 |
+| leptospirosis | 2 | 2 | 1 | 3 | 0 | 5 | 13 |
 | yersinia | 0 | 5 | 1 | 0 | 6 | 0 | 12 |
 | typhoid | 0 | 0 | 3 | 2 | 0 | 0 | 5 |
 
@@ -42,6 +42,10 @@ Source: [News API](https://newsapi.org/)
 - [Myggens återkomst](https://www.aftonbladet.se/podcasts/ab/episode/370224) (Aftonbladet.se)
 
 ## 24-22 (rabies)
+
+- [Taylor Momsen says she'll need rabies shots for 2 weeks after being bitten by a bat onstage](https://www.today.com/popculture/music/taylor-momsen-bat-bite-video-rcna155021) (TODAY)
+
+- [Taylor Momsen Receiving Rabies Shots After Being Bit by Bat Onstage](https://www.justjared.com/2024/06/01/taylor-momsen-receiving-rabies-shots-after-being-bit-by-bat-onstage/) (Just Jared)
 
 - [Taylor Momsen Needs Rabies Shots After a Bat Attacks Her on Stage](https://www.thedailybeast.com/bitten-by-bat-while-performing-witches-burn-taylor-momsen-needs-a-rabies-shot) (Daily Beast)
 
@@ -68,6 +72,8 @@ Source: [News API](https://newsapi.org/)
 - [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
 
 ## 24-22 (pertussis)
+
+- [Whooping cough cases on the rise nationwide](https://www.cbsnews.com/pittsburgh/news/whooping-cough-cases-on-the-rise-nationwide/) (CBS News)
 
 - [Oregon health officials warn of rise in whooping cough cases](https://www.kptv.com/2024/05/30/oregon-health-officials-warn-rise-whooping-cough-cases/) (KPTV.com)
 
@@ -366,6 +372,8 @@ Source: [News API](https://newsapi.org/)
 - [Day 1: ruffled fur and lethargy](https://www.metafilter.com/203879/Day-1-ruffled-fur-and-lethargy) (Metafilter.com)
 
 ## 24-22 (dengue)
+
+- [Honduras declares health emergency as Central America starts peak dengue season | CNN](https://www.cnn.com/2024/06/01/health/honduras-health-dengue/index.html) (CNN)
 
 - [Alice Ferraz: A dengue do meu marido](https://www.terra.com.br/noticias/alice-ferraz-a-dengue-do-meu-marido,220b75d28a7f69f3e9cb1df4a45bff673w8yycrx.html) (Terra.com.br)
 
@@ -2537,12 +2545,6 @@ Source: [News API](https://newsapi.org/)
 
 - [New Hampshire's GOP Is Taking a Stand--Against the Polio Vaccine (Julia Métraux/Mother Jones)](https://www.memeorandum.com/240421/p32) (Memeorandum.com)
 
-- [Parents describe baby's 'scary' measles symptoms as cases soar](https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596) (Sky.com)
-
-- [Measles Outbreaks Are Worrying Public Health Officials](https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/) (Dianeravitch.net)
-
-- [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
-
 ## 24-17 (malaria)
 
 - [Experții avertizează: Mai mult de jumătate din populația lumii s-ar îmbolnăvi de malarie și febră dengue până la finalul secolului](https://www.digi24.ro/stiri/externe/mapamond/peste-jumatate-din-populatia-lumii-ar-putea-fi-expusa-riscului-de-boli-transmise-de-tantari-2773301) (Digi24.ro)
@@ -2704,8 +2706,6 @@ Source: [News API](https://newsapi.org/)
 - [What dog owners should know about leptospirosis](https://phys.org/news/2024-04-dog-owners-leptospirosis.html) (Phys.Org)
 
 - [Climate-driven models of leptospirosis dynamics in tropical islands from three oceanic basins](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011717) (Plos.org)
-
-- [Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023](https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/) (Legalinsurrection.com)
 
 ## 24-17 (dengue)
 
@@ -2928,14 +2928,6 @@ Source: [News API](https://newsapi.org/)
 - [Dealing a knockout blow to dengue]( https://en.setopati.com/International/162939 ) (Setopati.com)
 
 - [El mapa del dengue: con una tendencia incierta aún, la epidemia supera los 300.000 casos y siguen las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-una-tendencia-incierta-aun-la-epidemia-supera-los-300000-casos-y-siguen-las-nid21042024/) (La Nacion)
-
-- [Ni “posdengue” ni Covid: revelan una infrecuente causa detrás del reciente aumento de neumonías](https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/) (La Nacion)
-
-- [Investigación. Una familia de plantas que crece en la Argentina podría ser la llave en la lucha contra el dengue](https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/) (La Nacion)
-
-- [10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif](https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2) (Idntimes.com)
-
-- [A dengue me pegou. A culpa é do prefeito Ricardo Nunes](https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html) (Terra.com.br)
 
 ## 24-17 (chikungunya)
 

@@ -1,8 +1,80 @@
 {
-  "last_updated": "2024-06-02 07:05",
-  "count_articles_total": 1313,
-  "count_articles_new": 16,
+  "last_updated": "2024-06-02 19:05",
+  "count_articles_total": 1309,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 9762,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Michael Rios",
+      "title": "Honduras declares health emergency as Central America starts peak dengue season | CNN",
+      "description": "Honduras has declared a national health emergency after reporting a rise in hospitalizations and deaths from dengue, the health ministry announced on Friday.",
+      "url": "https://www.cnn.com/2024/06/01/health/honduras-health-dengue/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/26049-copy.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-06-01 15:56:03",
+      "content": "Honduras has declared a national health emergency after reporting a rise in hospitalizations and deaths from dengue, the health ministry announced on Friday. The government has instructed health off\u2026 [+1964 chars]",
+      "retrievedAt": "2024-06-02 19:05:27.279050",
+      "internal_id": "5d057cec5f1b2fc4f65b4f0adbf296302ac7ccbdd1ae2a055f3b33105774f82e",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 9761,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "Becca Wood",
+      "title": "Taylor Momsen says she'll need rabies shots for 2 weeks after being bitten by a bat onstage",
+      "description": "Taylor Momsen has been dubbed a \"bat girl\" by hospital workers following a wild onstage encounter with a bat.",
+      "url": "https://www.today.com/popculture/music/taylor-momsen-bat-bite-video-rcna155021",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-06/taylor-momsen-bw-06012024-f07df6.jpg",
+      "publishedAt": "2024-06-01 15:53:45",
+      "content": "Taylor Momsen has been dubbed a \"bat girl\" by hospital workers following a wild onstage encounter with a bat. While performing with her band, The Pretty Reckless, in Seville, Spain, the former Gossi\u2026 [+2183 chars]",
+      "retrievedAt": "2024-06-02 19:05:25.051221",
+      "internal_id": "45a4b9f295ae18c310d0e098d5419ad4e2e2bbbfa2f65f6b2f77eb0943d43fbd",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 9759,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Jessica Guay",
+      "title": "Whooping cough cases on the rise nationwide",
+      "description": "Rising whooping cough cases are raising health concerns nationwide, including in Pennsylvania.",
+      "url": "https://www.cbsnews.com/pittsburgh/news/whooping-cough-cases-on-the-rise-nationwide/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2015/12/16/a2007913-62db-435f-ac8b-d803bc2e4b52/thumbnail/1200x630/f22e9b35766ec4dd7ccc6b03793c5ef2/whooping-cough1.jpg?v=d7bbca61a2ddd34e0cfc8fb46aec1df3",
+      "publishedAt": "2024-06-01 15:00:41",
+      "content": "PITTSBURGH (KDKA) -- Rising whooping cough cases are raising health concerns nationwide, including in Pennsylvania. No parent wants their child to suffer from pertussis, also known as whooping cough\u2026 [+2765 chars]",
+      "retrievedAt": "2024-06-02 19:05:24.570957",
+      "internal_id": "71a9730967adf868a90c686e7cf7c7969564069ec441cb459d506ac117a0bad1",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 9760,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Just Jared",
+      "author": "Just Jared",
+      "title": "Taylor Momsen Receiving Rabies Shots After Being Bit by Bat Onstage",
+      "description": "Taylor Momsen had to take a trip to the hospital after being bit by a bat during a performance. The 30-year-old Pretty Reckless hitmaker took the stage on Wednesday (May 29) while touring with AC/DC. In the middle of the set, a bat flew onto the stage and bit\u2026",
+      "url": "https://www.justjared.com/2024/06/01/taylor-momsen-receiving-rabies-shots-after-being-bit-by-bat-onstage/",
+      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/06/taylor-bat.jpg",
+      "publishedAt": "2024-06-01 13:30:35",
+      "content": "Taylor Momsen had to take a trip to the hospital after being bit by a bat during a performance. The 30-year-old Pretty Reckless hitmaker took the stage on Wednesday (May 29) while touring with AC/D\u2026 [+1034 chars]",
+      "retrievedAt": "2024-06-02 19:05:25.028466",
+      "internal_id": "5da792a6502f593bf7cec618d7d01e146f59b395be3d7758b7aa72a45c3e7017",
+      "publishedAtLabel": "Jun 1"
+    },
     {
       "id": 9755,
       "query": [
@@ -23561,150 +23633,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2024-04-23 07:05:59.534688",
       "internal_id": "7dd25769ee61a08892685b1478421ba0039c5c3bdb6bb0e16b73f5f48de9005a",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8447,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Sky.com",
-      "author": "Shamaan Freeman-Powell",
-      "title": "Parents describe baby's 'scary' measles symptoms as cases soar",
-      "description": "The parents of a five-month-old baby who was left struggling to breathe after contracting measles have described her \"scary\" ordeal as the number of cases soar.",
-      "url": "https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596",
-      "urlToImage": "https://e3.365dm.com/24/04/1600x900/skynews-james-house-measles_6529267.jpg?20240421195101",
-      "publishedAt": "2024-04-21 18:37:00",
-      "content": "The parents of a five-month-old baby who was left struggling to breathe after contracting measles have described her \"scary\" ordeal as the number of cases soar. England is facing a measles emergency\u2026 [+2610 chars]",
-      "retrievedAt": "2024-04-22 19:06:22.414445",
-      "internal_id": "7dfaa5ddbddab031738b86c2abc216f4aaaec148feaedbb35ee33198c3b1981c",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8454,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Fabiola Czubaj",
-      "title": "Ni \u201cposdengue\u201d ni Covid: revelan una infrecuente causa detr\u00e1s del reciente aumento de neumon\u00edas",
-      "description": "Se trata de la psitacosis, seg\u00fan inform\u00f3 el Ministerio de Salud; difunden recomendaciones para la consulta r\u00e1pida y el diagn\u00f3stico oportuno de esta enfermedad transmitida por aves infectadas",
-      "url": "https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/guardia-del-hospital-bernardino-HPL5HLFZDVAJFFMRBME766FYCQ.JPG?auth=a743da3d8eebf48b342a8d078b1082f3dd290013d2b48860ce22bb5513d07595&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-21 17:52:19",
-      "content": "Las autoridades sanitarias nacionales confirmaron en las \u00faltimas horas la detecci\u00f3n de un aumento de casos de psitacosis, una enfermedad transmitida por aves infectadas, a partir de la investigaci\u00f3n \u2026 [+4124 chars]",
-      "retrievedAt": "2024-04-23 07:06:00.344934",
-      "internal_id": "37fadd4e582d1f910825963600ee42cdeb552ce649e72315a997c9751698a37c",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8450,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Leslie Eastman",
-      "title": "Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023",
-      "description": "There were 24 cases of leptospirosis in the city in 2023, higher than in any prior year. 2024 is already shaping up to be another big year in the Big Apple for infections. The post Disease Caused by Rat Urine Surged in New York City to Record Levels during 20\u2026",
-      "url": "https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2020/05/LI-93-Cannibal-Rats.jpg",
-      "publishedAt": "2024-04-21 16:00:38",
-      "content": "Between the crime, illegal immigrants, and the anti-Israel demonstrations, it\u2019s a really tough time for New York City residents. Thanks to rats, life is getting tougher. The city Health Department h\u2026 [+4461 chars]",
-      "retrievedAt": "2024-04-22 19:06:25.900854",
-      "internal_id": "d579b8052f3d830c44802a894f3a6eeec8d9a20063ab5831b74451771c73c978",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8446,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Dianeravitch.net",
-      "author": "dianeravitch",
-      "title": "Measles Outbreaks Are Worrying Public Health Officials",
-      "description": "The propaganda surrounding COVID vaccines has led to parental uncertainty about other vaccines. This may explain recent measles outbreaks. For most of us, measles is a childhood disease that was conquered by scientists many years ago. But it\u2019s returning. The \u2026",
-      "url": "https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/",
-      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
-      "publishedAt": "2024-04-21 15:00:00",
-      "content": "The propaganda surrounding COVID vaccines has led to parental uncertainty about other vaccines. This may explain recent measles outbreaks. For most of us, measles is a childhood disease that was conq\u2026 [+4009 chars]",
-      "retrievedAt": "2024-04-22 19:06:22.410238",
-      "internal_id": "c529a7ea4b7ef396bdd4509d1008fa20e97a2c3c79183880d9c3370059437a13",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8445,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Omer Awan, Contributor, \n Omer Awan, Contributor\n https://www.forbes.com/sites/omerawan/",
-      "title": "Why The Rising Measles Cases In The United States Are A Big Deal",
-      "description": "121 cases of Measles have been reported across 18 states in the United States since January 1st of this year, according to the CDC.",
-      "url": "https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6622bb4582c99b0118fcce69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-04-21 12:20:40",
-      "content": "AUCKLAND, NEW ZEALAND - SEPTEMBER 10: A measles vaccine is prepared on September 10, 2019 in ... [+] Auckland, New Zealand. (Photo by Fiona Goodall/Getty Images) Getty Images 121 cases of Measles h\u2026 [+4164 chars]",
-      "retrievedAt": "2024-04-22 19:06:22.390398",
-      "internal_id": "281c68072127cc1658eb764a08dec7f892ceda82c9d428cb33cb1f03be3d422f",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8449,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Paz Garc\u00eda Pastormerlo",
-      "title": "Investigaci\u00f3n. Una familia de plantas que crece en la Argentina podr\u00eda ser la llave en la lucha contra el dengue",
-      "description": "Un equipo de cient\u00edficos del Conicet logr\u00f3 identificar extractos y compuestos naturales y avanzan en dise\u00f1ar c\u00f3mo inhibir de forma efectiva el virus que transmite el mosquito Aedes aegypti",
-      "url": "https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-planta-que-podria-contribuir-a-la-cura-del-2U5LRCYWYFCJDGHR2E3SH6U5DM.jpg?auth=79d2192f13bb73398d2baaf37b05469f58d48cba47b12c18b1d25b356dbc614c&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-21 12:00:00",
-      "content": "SAN CARLOS DE BARILOCHE.- Plantas de la familia Asteraceae que crecen en la Argentina podr\u00edan ser la llave en la lucha contra el dengue: cient\u00edficos del Consejo Nacional de Investigaciones Cient\u00edfica\u2026 [+5477 chars]",
-      "retrievedAt": "2024-04-22 19:06:23.386179",
-      "internal_id": "21f9dce4d8b0a9d795ab116816535c49ed9984acaf4151b3711e997a274d97a1",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8457,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Idntimes.com",
-      "author": "Diah Nur Fitriana",
-      "title": "10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif",
-      "description": "Lantas, merk lotion anti nyamuk anak apa saja yang aman untuk kulit sensitifnya? Berikut beberapa rekomendasi lotion anti nyamuk untuk anak.",
-      "url": "https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2",
-      "urlToImage": "https://cdn.idntimes.com/content-images/community/2024/04/anak-memakai-lotion-nyamuk-97bfe5b5aaaac713cca17199da4a87b6-2cc7d979c0d12f4b08960409958ee92a_600x400.jpg",
-      "publishedAt": "2024-04-21 11:25:04",
-      "content": "Saat ini, demam berdarah dengue (DBD) menjadi isu kesehatan masyarakat Indonesia. Penyakit DBD disebabkan oleh virus dengue yang menular ke manusia melalui perantara nyamukAedes aegypti. Salah satu c\u2026 [+465 chars]",
-      "retrievedAt": "2024-04-23 07:06:00.363494",
-      "internal_id": "a17bda8dd2ca4d819fb3137a63c9f59f890fb72b2ac1225b91d7796c8f0dce2a",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8448,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Homework",
-      "title": "A dengue me pegou. A culpa \u00e9 do prefeito Ricardo Nunes",
-      "description": "Passei os \u00faltimos quatro dias congelando, assando, insone, est\u00fapido, suarento, paralisado, ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/20/dengue-vbhga9v1ufqu.jpg",
-      "publishedAt": "2024-04-21 09:45:03",
-      "content": "ResumoO texto retrata a situa\u00e7\u00e3o de S\u00e3o Paulo, no que diz respeito \u00e0 dengue, mencionando falhas na preven\u00e7\u00e3o pela administra\u00e7\u00e3o de Ricardo Nunes, como armadilhas para o mosquito e o custo alto de rep\u2026 [+4381 chars]",
-      "retrievedAt": "2024-04-22 19:06:23.329383",
-      "internal_id": "e428570398b648c153cb7d9203a5e6f7ec427bf4af1d6f3c06b0cd5a981b70d0",
       "publishedAtLabel": "Apr 21"
     }
   ]
