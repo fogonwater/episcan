@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-06-02 19:05",
-  "count_articles_total": 1309,
-  "count_articles_new": 4,
+  "last_updated": "2024-06-03 07:05",
+  "count_articles_total": 1327,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 9769,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "C\u00e9cile De S\u00e8ze (20 Minutes)",
+      "title": "Dengue, variole du singe, virus du Nil occidental\u2026 Ces \u00e9pid\u00e9mies qui menacent la France (et les Jeux olympiques)",
+      "description": "Que ce soit cet \u00e9t\u00e9 ou dans dix ans, de nouvelles \u00e9pid\u00e9mies d'origines multiples vont d\u00e9barquer en France",
+      "url": "https://www.20minutes.fr/sante/4093469-20240602-dengue-variole-singe-virus-nil-occidental-epidemies-menacent-france-jeux-olympiques",
+      "urlToImage": "https://img.20mn.fr/X41_cs9JR1STUDdNSp56yCk/1444x920_covid-19-hopital-consultations-epidemiologiques-coronavirus-ebola-dengue-chikungunya-grippe-h1n1-nice-france-22-03-2020-syspeo-sys-c001-2003221741-credit-syspeo-sipa-2003221742",
+      "publishedAt": "2024-06-02 06:07:36",
+      "content": "La m\u00e9t\u00e9o, les gr\u00e8ves, le terrorisme Les menaces (plus ou moins graves) qui planent sur les Jeux olympiques \u00e0 Paris cet \u00e9t\u00e9 donnent des sueurs froides aux organisateurs. Et cest sans compter le risque\u2026 [+5682 chars]",
+      "retrievedAt": "2024-06-03 07:05:50.425887",
+      "internal_id": "ab77baa0f823b95eeab07f2f64d6a897557ed04b9c9d5441994de4a0b085f52d",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9767,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Paulina Nares",
+      "title": "Honduras declara emergencia sanitaria en inicio de temporada alta del dengue en Centroam\u00e9rica",
+      "description": "El Gobierno dio instrucciones a las autoridades sanitarias para que tomen todas las medidas necesarias, incluidas acciones de prevenci\u00f3n y control y la b\u00fasqueda de fondos para gestionar el brote.",
+      "url": "https://cnnespanol.cnn.com/2024/06/02/honduras-emergencia-sanitaria-temporada-alta-dengue-centroamerica-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/denguqe-mosco.webp",
+      "publishedAt": "2024-06-02 05:03:34",
+      "content": "Alerta en Puerto Rico por temporada de huracanes 3:56 (CNN) -- Honduras declar\u00f3 emergencia sanitaria nacional tras registrar un aumento de las hospitalizaciones y muertes por dengue, anunci\u00f3 el vier\u2026 [+2229 chars]",
+      "retrievedAt": "2024-06-03 07:05:50.350039",
+      "internal_id": "2ddd24f7472c698efaba87b23ad519467e1ea44858bdd42fc7b9c78d6caafe74",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9764,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Thenewslens.com",
+      "author": "\u53f0\u7063\u79d1\u6280\u5a92\u9ad4\u4e2d\u5fc3",
+      "title": "\u725b\u4e5f\u6703\u611f\u67d3\u300c\u79bd\u6d41\u611f\u300d\uff1f\u7f8e\u570b\u7206\u767c\u4e73\u725bH5N1\u75ab\u60c5\uff0c\u559d\u725b\u5976\u3001\u5403\u7f8e\u725b\u6709\u5065\u5eb7\u98a8\u96aa\u55ce\uff1f",
+      "description": "\u6bcf\u5e74\u63a5\u7a2e\u6d41\u611f\u75ab\u82d7\uff0c\u6709\u52a9\u65bc\u5927\u5e45\u964d\u4f4e\u5f97\u5230\u4e0d\u540c\u6d41\u611f\u7684\u53ef\u80fd\uff0c\u4e5f\u964d\u4f4e\u6d41\u611f\u6642\u9020\u6210\u7684\u6b7b\u4ea1\u7387\u3002\u4e00\u822c\u6027\u7684\u7c21\u55ae\u9632\u8b77\u63aa\u65bd\uff0c\u5982\u52e4\u6d17\u624b\u3001\u6234\u53e3\u7f69\u3001\u4e0d\u63c9\u773c\uff0c\u5df2\u7d93\u8b49\u660e\u53ef\u964d\u4f4e\u6d41\u611f\u7684\u50b3\u64ad\u529b\uff0c\u7dad\u8b77\u8eab\u9ad4\u5065\u5eb7\uff0c\u9019\u624d\u662f\u4eba\u9762\u5c0d\u79bd\u6d41\u611f\u6700\u91cd\u8981\u7684\u614b\u5ea6\u3002",
+      "url": "https://www.thenewslens.com/article/203397",
+      "urlToImage": "https://image1.thenewslens.com/2024/5/5t56fd3np7i7s4hmb6tsjenncskfh7.jpg?fm=jpg&format=crop&h=630&q=70&w=1200",
+      "publishedAt": "2024-06-02 04:00:22",
+      "content": "325491H5N1FDA 38297FDAFDA56 World Organization for Animal Health, WOAHOffice International des Epizooties, OIEWhat is avian influenza?LPAI AH5H7HPAI H5N1 CDCTypes of Influenza VirusesHANA18HAH1H18\u2026 [+200 chars]",
+      "retrievedAt": "2024-06-03 07:05:49.998372",
+      "internal_id": "b13879fe13070183f6834cc5e8d7c7fc12b61cb0ad4c5ec0e8e5de5474251477",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9766,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Renata Mendes Gon\u00e7alves",
+      "title": "Dengue: como um mosquito Aedes \u00e9 contaminado?",
+      "description": "Saiba como o mosquito Aedes aegypti se contamina com o v\u00edrus da dengue e entenda como \u00e9 o ciclo de transmiss\u00e3o da doen\u00e7a O post Dengue: como um mosquito Aedes \u00e9 contaminado? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/06/01/medicina-e-saude/dengue-como-um-mosquito-aedes-e-contaminado/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/02/dengue.jpg",
+      "publishedAt": "2024-06-02 00:20:00",
+      "content": "Com a crescente propaga\u00e7\u00e3o do v\u00edrus da dengue, s\u00e3o tantas d\u00favidas em rela\u00e7\u00e3o ao cont\u00e1gio, tratamento, preven\u00e7\u00e3o e formas de contamina\u00e7\u00e3o, inclusive sobre como o mosquito Aedes aegypti se contamina co\u2026 [+6172 chars]",
+      "retrievedAt": "2024-06-03 07:05:50.341751",
+      "internal_id": "b2da7f451c7117cb81f896bd6a5c9e5feac76b350afe0af720179340b609cc55",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9763,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Ashley Hume",
+      "title": "'Gossip Girl' star Taylor Momsen bitten by bat while performing on stage, needs rabies shots for 2 weeks",
+      "description": "\"Gossip Girl\" star Taylor Momsen was bitten by a bat while performing on stage in Spain. Momsen, whose band The Pretty Reckless is opening for AC/DC on tour, said that she is receiving rabies shots.",
+      "url": "https://www.foxnews.com/entertainment/gossip-girl-star-taylor-momsen-bitten-bat-performing-stage-tour-ac-dc",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/taylormomsen.jpg",
+      "publishedAt": "2024-06-01 22:47:24",
+      "content": "\"Gossip Girl\" star Taylor Momsen experienced a terrifying encounter with a flying bat while performing on stage with her band The Pretty Reckless in Sevilla, Spain, on Wednesday. The 30-year-old sin\u2026 [+3998 chars]",
+      "retrievedAt": "2024-06-03 07:05:48.999729",
+      "internal_id": "860b53a0da3b6726b4fe2686cffe20c40daa6f3c3c193af4f98a72d7d5d5a643",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 9771,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "WHO member countries approve steps to bolster health regulations to better brace for pandemics",
+      "description": "The World Health Organization says member countries approved new steps to boost global preparedness for pandemics like COVID-19 and mpox and better respond to dangerous outbreaks",
+      "url": "https://abcnews.go.com/International/wireStory/member-countries-approve-steps-bolster-health-regulations-brace-110744704",
+      "urlToImage": "https://i.abcnewsfe.com/a/636ab937-5f34-474f-b5f8-e3a60be473b2/wirestory_9c6419844b9c333a1a31d224124532f1_16x9.jpg?w=1600",
+      "publishedAt": "2024-06-01 21:26:28",
+      "content": "GENEVA -- The World Health Organization says member countries on Saturday approved a series of new steps to improve global preparedness for and response to pandemics like COVID-19 and mpox. Countri\u2026 [+1455 chars]",
+      "retrievedAt": "2024-06-03 07:05:52.123978",
+      "internal_id": "c02868693264a82b19d16969a3ded395a0717b9b4c532ccc7abfac1bb5b0fa3b",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 9768,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Jairo Bouer - Parceria",
+      "title": "Dengue: taxa de imuniza\u00e7\u00e3o ainda \u00e9 baixa",
+      "description": "Por que ser\u00e1 que pouca gente se vacinou? Distribu\u00edda desde fevereiro, nos primeiros 40 dias de ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/dengue-taxa-de-imunizacao-ainda-e-baixa,f8d558f601b0a9e7d45b7d7d45088da5t0mr3uax.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/01/661022724-istockvacinadengue2.jpg",
+      "publishedAt": "2024-06-01 21:03:17",
+      "content": "Por que ser\u00e1 que pouca gente se vacinou? Distribu\u00edda desde fevereiro, nos primeiros 40 dias de vacina\u00e7\u00e3o contra a dengue apenas 30% das doses disponibilizadas pelo SUS (Sistema \u00danico de Sa\u00fade) foram \u2026 [+1773 chars]",
+      "retrievedAt": "2024-06-03 07:05:50.381558",
+      "internal_id": "b8dea322491ad5aa28bd1b540efa0a5f83a7ada233b08251ffc55b53d256b89b",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 9772,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "WHO member countries approve steps to bolster health regulations to better brace for pandemics",
+      "description": "The World Health Organization says member countries approved new steps to boost global preparedness for pandemics like COVID-19 and mpox and better respond to dangerous outbreaks",
+      "url": "https://abcnews.go.com/Health/wireStory/member-countries-approve-steps-bolster-health-regulations-brace-110744706",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-06-01 21:02:02",
+      "content": "GENEVA -- The World Health Organization says member countries on Saturday approved a series of new steps to improve global preparedness for and response to pandemics like COVID-19 and mpox. Countri\u2026 [+1455 chars]",
+      "retrievedAt": "2024-06-03 07:05:52.132196",
+      "internal_id": "720b9ab895ca1202a9dbf131b72de290c5a8de504e419809c38153a1d7ba3ce7",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 9770,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "Star Tribune Staff",
+      "title": "WHO member countries approve steps to bolster health regulations to better brace for pandemics",
+      "description": "The World Health Organization says member countries on Saturday approved a series of new steps to improve global preparedness for and response to pandemics like COVID-19 and mpox.",
+      "url": "https://www.startribune.com/who-member-countries-approve-steps-to-bolster-health-regulations-to-better-brace-for-pandemics/600370326/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1717186480",
+      "publishedAt": "2024-06-01 20:58:01",
+      "content": "GENEVA The World Health Organization says member countries on Saturday approved a series of new steps to improve global preparedness for and response to pandemics like COVID-19 and mpox. Countries a\u2026 [+1482 chars]",
+      "retrievedAt": "2024-06-03 07:05:52.118286",
+      "internal_id": "829d2eb7e1343b72ddbdbb1b69db1f5bac47a805b9f19417a2c58d370a81494e",
+      "publishedAtLabel": "Jun 1"
+    },
     {
       "id": 9762,
       "query": [
@@ -128,6 +290,24 @@
       "content": "The Public Health Seattle &amp; King County issued an alert after they were notified that an adult with a confirmed case of infectious measles traveled through Seattle-Tacoma International Airport af\u2026 [+3418 chars]",
       "retrievedAt": "2024-06-02 07:05:52.294625",
       "internal_id": "2ad1a028c2ef1eb1a3f30a1ea75aa8af272234fb6bb7536226ff7bda7856dca5",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 9765,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1118: Clinical update with Dr. Daniel Griffin",
+      "description": "In his weekly clinical update, Dr. Griffin delves into highly pathogenic H5N1 infection of hunting dogs, dairy cattle, humans and alpacas before reviewing the recent statistics on SARS-CoV-2 infection, risks factors associated with the development of severe C\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1118/",
+      "urlToImage": null,
+      "publishedAt": "2024-06-01 04:26:38",
+      "content": "In his weekly clinical update, Dr. Griffin delves into highly pathogenic H5N1 infection of hunting dogs, dairy cattle, humans and alpacas before reviewing the recent statistics on SARS-CoV-2 infectio\u2026 [+1180 chars]",
+      "retrievedAt": "2024-06-03 07:05:50.084962",
+      "internal_id": "5332840b037ba8352b6f805064c0a07de7e434eb33670bc30c22d195c32eb258",
       "publishedAtLabel": "Jun 1"
     },
     {
@@ -23633,6 +23813,150 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2024-04-23 07:05:59.534688",
       "internal_id": "7dd25769ee61a08892685b1478421ba0039c5c3bdb6bb0e16b73f5f48de9005a",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8447,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Shamaan Freeman-Powell",
+      "title": "Parents describe baby's 'scary' measles symptoms as cases soar",
+      "description": "The parents of a five-month-old baby who was left struggling to breathe after contracting measles have described her \"scary\" ordeal as the number of cases soar.",
+      "url": "https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596",
+      "urlToImage": "https://e3.365dm.com/24/04/1600x900/skynews-james-house-measles_6529267.jpg?20240421195101",
+      "publishedAt": "2024-04-21 18:37:00",
+      "content": "The parents of a five-month-old baby who was left struggling to breathe after contracting measles have described her \"scary\" ordeal as the number of cases soar. England is facing a measles emergency\u2026 [+2610 chars]",
+      "retrievedAt": "2024-04-22 19:06:22.414445",
+      "internal_id": "7dfaa5ddbddab031738b86c2abc216f4aaaec148feaedbb35ee33198c3b1981c",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8454,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Ni \u201cposdengue\u201d ni Covid: revelan una infrecuente causa detr\u00e1s del reciente aumento de neumon\u00edas",
+      "description": "Se trata de la psitacosis, seg\u00fan inform\u00f3 el Ministerio de Salud; difunden recomendaciones para la consulta r\u00e1pida y el diagn\u00f3stico oportuno de esta enfermedad transmitida por aves infectadas",
+      "url": "https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/guardia-del-hospital-bernardino-HPL5HLFZDVAJFFMRBME766FYCQ.JPG?auth=a743da3d8eebf48b342a8d078b1082f3dd290013d2b48860ce22bb5513d07595&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-21 17:52:19",
+      "content": "Las autoridades sanitarias nacionales confirmaron en las \u00faltimas horas la detecci\u00f3n de un aumento de casos de psitacosis, una enfermedad transmitida por aves infectadas, a partir de la investigaci\u00f3n \u2026 [+4124 chars]",
+      "retrievedAt": "2024-04-23 07:06:00.344934",
+      "internal_id": "37fadd4e582d1f910825963600ee42cdeb552ce649e72315a997c9751698a37c",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8450,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023",
+      "description": "There were 24 cases of leptospirosis in the city in 2023, higher than in any prior year. 2024 is already shaping up to be another big year in the Big Apple for infections. The post Disease Caused by Rat Urine Surged in New York City to Record Levels during 20\u2026",
+      "url": "https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2020/05/LI-93-Cannibal-Rats.jpg",
+      "publishedAt": "2024-04-21 16:00:38",
+      "content": "Between the crime, illegal immigrants, and the anti-Israel demonstrations, it\u2019s a really tough time for New York City residents. Thanks to rats, life is getting tougher. The city Health Department h\u2026 [+4461 chars]",
+      "retrievedAt": "2024-04-22 19:06:25.900854",
+      "internal_id": "d579b8052f3d830c44802a894f3a6eeec8d9a20063ab5831b74451771c73c978",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8446,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "Measles Outbreaks Are Worrying Public Health Officials",
+      "description": "The propaganda surrounding COVID vaccines has led to parental uncertainty about other vaccines. This may explain recent measles outbreaks. For most of us, measles is a childhood disease that was conquered by scientists many years ago. But it\u2019s returning. The \u2026",
+      "url": "https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/",
+      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+      "publishedAt": "2024-04-21 15:00:00",
+      "content": "The propaganda surrounding COVID vaccines has led to parental uncertainty about other vaccines. This may explain recent measles outbreaks. For most of us, measles is a childhood disease that was conq\u2026 [+4009 chars]",
+      "retrievedAt": "2024-04-22 19:06:22.410238",
+      "internal_id": "c529a7ea4b7ef396bdd4509d1008fa20e97a2c3c79183880d9c3370059437a13",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8445,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Omer Awan, Contributor, \n Omer Awan, Contributor\n https://www.forbes.com/sites/omerawan/",
+      "title": "Why The Rising Measles Cases In The United States Are A Big Deal",
+      "description": "121 cases of Measles have been reported across 18 states in the United States since January 1st of this year, according to the CDC.",
+      "url": "https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6622bb4582c99b0118fcce69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-21 12:20:40",
+      "content": "AUCKLAND, NEW ZEALAND - SEPTEMBER 10: A measles vaccine is prepared on September 10, 2019 in ... [+] Auckland, New Zealand. (Photo by Fiona Goodall/Getty Images) Getty Images 121 cases of Measles h\u2026 [+4164 chars]",
+      "retrievedAt": "2024-04-22 19:06:22.390398",
+      "internal_id": "281c68072127cc1658eb764a08dec7f892ceda82c9d428cb33cb1f03be3d422f",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8449,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Paz Garc\u00eda Pastormerlo",
+      "title": "Investigaci\u00f3n. Una familia de plantas que crece en la Argentina podr\u00eda ser la llave en la lucha contra el dengue",
+      "description": "Un equipo de cient\u00edficos del Conicet logr\u00f3 identificar extractos y compuestos naturales y avanzan en dise\u00f1ar c\u00f3mo inhibir de forma efectiva el virus que transmite el mosquito Aedes aegypti",
+      "url": "https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-planta-que-podria-contribuir-a-la-cura-del-2U5LRCYWYFCJDGHR2E3SH6U5DM.jpg?auth=79d2192f13bb73398d2baaf37b05469f58d48cba47b12c18b1d25b356dbc614c&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-21 12:00:00",
+      "content": "SAN CARLOS DE BARILOCHE.- Plantas de la familia Asteraceae que crecen en la Argentina podr\u00edan ser la llave en la lucha contra el dengue: cient\u00edficos del Consejo Nacional de Investigaciones Cient\u00edfica\u2026 [+5477 chars]",
+      "retrievedAt": "2024-04-22 19:06:23.386179",
+      "internal_id": "21f9dce4d8b0a9d795ab116816535c49ed9984acaf4151b3711e997a274d97a1",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8457,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Idntimes.com",
+      "author": "Diah Nur Fitriana",
+      "title": "10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif",
+      "description": "Lantas, merk lotion anti nyamuk anak apa saja yang aman untuk kulit sensitifnya? Berikut beberapa rekomendasi lotion anti nyamuk untuk anak.",
+      "url": "https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2",
+      "urlToImage": "https://cdn.idntimes.com/content-images/community/2024/04/anak-memakai-lotion-nyamuk-97bfe5b5aaaac713cca17199da4a87b6-2cc7d979c0d12f4b08960409958ee92a_600x400.jpg",
+      "publishedAt": "2024-04-21 11:25:04",
+      "content": "Saat ini, demam berdarah dengue (DBD) menjadi isu kesehatan masyarakat Indonesia. Penyakit DBD disebabkan oleh virus dengue yang menular ke manusia melalui perantara nyamukAedes aegypti. Salah satu c\u2026 [+465 chars]",
+      "retrievedAt": "2024-04-23 07:06:00.363494",
+      "internal_id": "a17bda8dd2ca4d819fb3137a63c9f59f890fb72b2ac1225b91d7796c8f0dce2a",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8448,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Homework",
+      "title": "A dengue me pegou. A culpa \u00e9 do prefeito Ricardo Nunes",
+      "description": "Passei os \u00faltimos quatro dias congelando, assando, insone, est\u00fapido, suarento, paralisado, ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/20/dengue-vbhga9v1ufqu.jpg",
+      "publishedAt": "2024-04-21 09:45:03",
+      "content": "ResumoO texto retrata a situa\u00e7\u00e3o de S\u00e3o Paulo, no que diz respeito \u00e0 dengue, mencionando falhas na preven\u00e7\u00e3o pela administra\u00e7\u00e3o de Ricardo Nunes, como armadilhas para o mosquito e o custo alto de rep\u2026 [+4381 chars]",
+      "retrievedAt": "2024-04-22 19:06:23.329383",
+      "internal_id": "e428570398b648c153cb7d9203a5e6f7ec427bf4af1d6f3c06b0cd5a981b70d0",
       "publishedAtLabel": "Apr 21"
     }
   ]
