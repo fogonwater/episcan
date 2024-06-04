@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-06-04 07:05
-- **Most recent article:** 2024-06-03 03:41:08
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-06-04 19:05
+- **Most recent article:** 2024-06-03 17:35:07
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 77 | 57 | 87 | 58 | 61 | 9 | 463 |
-| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 2 | 282 |
-| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 2 | 188 |
-| measles | 28 | 24 | 10 | 29 | 15 | 16 | 0 | 122 |
+| dengue | 110 | 77 | 57 | 87 | 58 | 61 | 17 | 467 |
+| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 6 | 286 |
+| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 4 | 190 |
+| measles | 25 | 24 | 10 | 29 | 15 | 16 | 2 | 121 |
 | mpox | 8 | 36 | 3 | 10 | 9 | 16 | 0 | 82 |
-| rabies | 3 | 4 | 22 | 10 | 8 | 15 | 1 | 63 |
-| chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 0 | 50 |
+| rabies | 3 | 4 | 22 | 10 | 8 | 15 | 2 | 64 |
+| chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 2 | 52 |
 | pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 1 | 30 |
-| meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 0 | 27 |
-| hpai | 0 | 0 | 4 | 3 | 7 | 12 | 0 | 26 |
+| meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 1 | 28 |
+| hpai | 0 | 0 | 4 | 3 | 7 | 12 | 1 | 27 |
 | zika | 3 | 8 | 2 | 6 | 3 | 3 | 0 | 25 |
 | sarampión | 10 | 8 | 1 | 0 | 0 | 0 | 0 | 19 |
-| leptospirosis | 3 | 2 | 1 | 3 | 0 | 5 | 0 | 14 |
+| leptospirosis | 2 | 2 | 1 | 3 | 0 | 5 | 0 | 13 |
 | yersinia | 0 | 5 | 1 | 0 | 6 | 0 | 0 | 12 |
 | typhoid | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 5 |
 
@@ -35,25 +35,69 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (rabies)
 
+- [Taylor Momsen Reveals She Needed Rabies Shots After Being Bit by a Bat On Stage](https://hollywoodlife.com/2024/06/03/taylor-momsen-needs-rabies-shot-after-being-bit-by-a-bat-on-stage/) (Hollywood Life)
+
 - [Dog bites teen in Chennai's KK Nagar, 2nd attack in a day](https://timesofindia.indiatimes.com/city/chennai/dog-bites-teen-in-chennais-kk-nagar-2nd-attack-in-a-day/articleshow/110649537.cms) (The Times of India)
 
 ## 24-23 (pertussis)
 
 - [Bacolod: Negros Occidental pertussis cases rise further](https://rpnradio.com/bacolod-negros-occidental-pertussis-cases-rise-further/) (Rpnradio.com)
 
+## 24-23 (meningitis)
+
+- [Conserved signalling functions for Mps1, Mad1 and Mad2 in the Cryptococcus neoformans spindle checkpoint](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011302) (Plos.org)
+
+## 24-23 (measles)
+
+- [Health Dept. warns of possible measles exposure at Philadelphia International Airport](https://6abc.com/post/health-dept-warns-measles-exposure-philadelphia-international-airports/14906732/) (WPVI-TV)
+
+- [Health officials warn of possible measles exposure at Philadelphia International Airport](https://www.fox29.com/news/health-officials-warn-of-possible-measles-exposure-at-philadelphia-international-airport) (FOX 29 News Philadelphia)
+
 ## 24-23 (malaria)
+
+- [Evaluating Plasmodium falciparum automatic detection and parasitemia estimation: A comparative study on thin blood smear images](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304789) (Plos.org)
+
+- [Elucidating the Spatio-Temporal dynamics of the Plasmodium falciparum basal complex](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012265) (Plos.org)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
 - [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
 
+## 24-23 (hpai)
+
+- [Avian influenza viruses in New Zealand wild birds, with an emphasis on subtypes H5 and H7: Their distinctive epidemiology and genomic properties](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303756) (Plos.org)
+
 ## 24-23 (h5n1)
+
+- [Why Bird Flu Is Causing Eye Infections in Dairy Workers](https://www.scientificamerican.com/article/why-bird-flu-is-causing-eye-infections-in-dairy-workers/) (Scientific American)
+
+- [Avian influenza viruses in New Zealand wild birds, with an emphasis on subtypes H5 and H7: Their distinctive epidemiology and genomic properties](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303756) (Plos.org)
+
+- [Keeping H5N1 out of Alberta's dairy herd as U.S. outbreak continues](https://www.cbc.ca/news/canada/calgary/h5n1-alberta-dairy-herd-american-outbreak-1.7221102) (CBC News)
+
+- [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
 - [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
 
 - [牛也會感染「禽流感」？美國爆發乳牛H5N1疫情，喝牛奶、吃美牛有健康風險嗎？](https://www.thenewslens.com/article/203397) (Thenewslens.com)
 
 ## 24-23 (dengue)
+
+- [Com 6,3 milhões de casos prováveis, Brasil lidera ranking de dengue](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-06-03/com-6-3-milhoes-de-casos-provaveis--brasil-lidera-ranking-de-dengue.html) (Ig.com.br)
+
+- [Brasil registra 3.254 óbitos por dengue em 2024](https://valor.globo.com/brasil/noticia/2024/06/03/brasil-registra-3254-obitos-por-dengue-em-2024.ghtml) (Globo)
+
+- [Brasil registra 82% dos casos da dengue no mundo, diz OMS](https://www.terra.com.br/noticias/brasil/brasil-registra-82-dos-casos-da-dengue-no-mundo-diz-oms,42016b3ccdf7f5a4f9fe8940864dcd49eqq90fcl.html) (Terra.com.br)
+
+- [Esperto, con inverni miti in Europa più zanzare vettori Dengue](https://www.ansa.it/friuliveneziagiulia/notizie/2024/06/03/esperto-con-inverni-miti-in-europa-piu-zanzare-vettori-dengue_c69b9f18-f27c-4ea9-90be-dabe035d716d.html) (ANSA.it)
+
+- [The macroeconomic impact of a dengue outbreak: Case studies from Thailand and Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012201) (Plos.org)
+
+- [Entomological surveys and insecticide susceptibility profile of Aedes aegypti during the dengue outbreak in Sao Tome and Principe in 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011903) (Plos.org)
+
+- [Dengue: Brasil tem 82% dos casos do mundo, diz OMS](https://saude.ig.com.br/2024-06-03/brasil-casos-dengue-mundo-oms.html) (Ig.com.br)
+
+- [Táto exotická choroba sa môže rozšíriť po svete, riziko je vysoké a účinky smrteľné](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/712348-tato-exoticka-choroba-sa-moze-rozsirit-po-svete-riziko-je-vysoke/) (Pravda.sk)
 
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.cc/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.cc)
 
@@ -72,6 +116,12 @@ Source: [News API](https://newsapi.org/)
 - [Honduras declara emergencia sanitaria en inicio de temporada alta del dengue en Centroamérica](https://cnnespanol.cnn.com/2024/06/02/honduras-emergencia-sanitaria-temporada-alta-dengue-centroamerica-trax/) (CNN)
 
 - [Dengue: como um mosquito Aedes é contaminado?](https://olhardigital.com.br/2024/06/01/medicina-e-saude/dengue-como-um-mosquito-aedes-e-contaminado/) (Olhardigital.com.br)
+
+## 24-23 (chikungunya)
+
+- [Infektionskrankheiten: Chikungunya-Fieber: Europäische Arzneimittelagentur empfiehlt ersten Impfstoff](https://www.sueddeutsche.de/gesundheit/chikungunya-impfstoff-zulassung-ema-lux.MNaYnv7oRbRbuad6jVrxBe) (Süddeutsche Zeitung)
+
+- [El ECDC informa de 240.000 casos de Chikungunya y más de 90 muertes en todo el mundo en cuatro meses](https://www.infosalus.com/salud-investigacion/noticia-ecdc-informa-240000-casos-chikungunya-mas-90-muertes-todo-mundo-cuatro-meses-20240603121724.html) (Infosalus.com)
 
 ## 24-22 (zika)
 
@@ -2597,12 +2647,6 @@ Source: [News API](https://newsapi.org/)
 
 - [New Hampshire's GOP Is Taking a Stand--Against the Polio Vaccine (Julia Métraux/Mother Jones)](https://www.memeorandum.com/240421/p32) (Memeorandum.com)
 
-- [Parents describe baby's 'scary' measles symptoms as cases soar](https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596) (Sky.com)
-
-- [Measles Outbreaks Are Worrying Public Health Officials](https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/) (Dianeravitch.net)
-
-- [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
-
 ## 24-17 (malaria)
 
 - [Experții avertizează: Mai mult de jumătate din populația lumii s-ar îmbolnăvi de malarie și febră dengue până la finalul secolului](https://www.digi24.ro/stiri/externe/mapamond/peste-jumatate-din-populatia-lumii-ar-putea-fi-expusa-riscului-de-boli-transmise-de-tantari-2773301) (Digi24.ro)
@@ -2764,8 +2808,6 @@ Source: [News API](https://newsapi.org/)
 - [What dog owners should know about leptospirosis](https://phys.org/news/2024-04-dog-owners-leptospirosis.html) (Phys.Org)
 
 - [Climate-driven models of leptospirosis dynamics in tropical islands from three oceanic basins](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011717) (Plos.org)
-
-- [Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023](https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/) (Legalinsurrection.com)
 
 ## 24-17 (dengue)
 
@@ -2988,14 +3030,6 @@ Source: [News API](https://newsapi.org/)
 - [Dealing a knockout blow to dengue]( https://en.setopati.com/International/162939 ) (Setopati.com)
 
 - [El mapa del dengue: con una tendencia incierta aún, la epidemia supera los 300.000 casos y siguen las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-una-tendencia-incierta-aun-la-epidemia-supera-los-300000-casos-y-siguen-las-nid21042024/) (La Nacion)
-
-- [Ni “posdengue” ni Covid: revelan una infrecuente causa detrás del reciente aumento de neumonías](https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/) (La Nacion)
-
-- [Investigación. Una familia de plantas que crece en la Argentina podría ser la llave en la lucha contra el dengue](https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/) (La Nacion)
-
-- [10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif](https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2) (Idntimes.com)
-
-- [A dengue me pegou. A culpa é do prefeito Ricardo Nunes](https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html) (Terra.com.br)
 
 ## 24-17 (chikungunya)
 
