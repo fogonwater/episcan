@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-06-05 07:06
-- **Most recent article:** 2024-06-04 05:12:13
+- **New articles in last harvest:** 13
+- **Last harvest:** 2024-06-05 19:06
+- **Most recent article:** 2024-06-04 18:48:29
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 77 | 57 | 87 | 58 | 61 | 21 | 475 |
-| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 14 | 294 |
-| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 5 | 191 |
-| measles | 28 | 24 | 10 | 29 | 15 | 16 | 2 | 124 |
+| dengue | 110 | 77 | 57 | 87 | 58 | 61 | 27 | 477 |
+| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 17 | 297 |
+| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 6 | 192 |
+| measles | 25 | 24 | 10 | 29 | 15 | 16 | 2 | 121 |
 | mpox | 8 | 36 | 3 | 10 | 9 | 16 | 2 | 84 |
-| rabies | 3 | 4 | 22 | 10 | 8 | 15 | 5 | 67 |
+| rabies | 3 | 4 | 22 | 10 | 8 | 15 | 6 | 68 |
 | chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 2 | 52 |
-| pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 1 | 30 |
-| meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 1 | 28 |
+| pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 2 | 31 |
+| meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 2 | 29 |
 | hpai | 0 | 0 | 4 | 3 | 7 | 12 | 1 | 27 |
 | zika | 3 | 8 | 2 | 6 | 3 | 3 | 0 | 25 |
 | sarampión | 10 | 8 | 1 | 0 | 0 | 0 | 0 | 19 |
-| leptospirosis | 3 | 2 | 1 | 3 | 0 | 5 | 0 | 14 |
+| leptospirosis | 2 | 2 | 1 | 3 | 0 | 5 | 0 | 13 |
 | yersinia | 0 | 5 | 1 | 0 | 6 | 0 | 0 | 12 |
 | typhoid | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 5 |
 
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-23 (rabies)
+
+- [News24 | Cape Town residents on high alert after rabies case leads to euthanasia of dogs](https://www.news24.com/news24/community-newspaper/peoples-post/cape-town-residents-on-high-alert-after-rabies-case-leads-to-euthanasia-of-dogs-20240604) (News24)
 
 - [Polis sköt dövblind hund – stäms på 10 miljoner](https://www.expressen.se/tv/nyheter/varlden/polis-skot-dovblind-hund-stams-pa-10-miljoner/) (Expressen.se)
 
@@ -47,6 +49,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (pertussis)
 
+- ["On n'a jamais vu ça depuis 40 ans" : Sylvain Brisse, chercheur à l'Institut Pasteur, alerte sur "l'explosion" des cas de coqueluche](https://www.francetvinfo.fr/sante/maladie/on-n-a-jamais-vu-ca-depuis-40-ans-sylvain-brisse-chercheur-a-l-institut-pasteur-alerte-sur-l-explosion-des-cas-de-coqueluche_6584328.html) (Francetvinfo.fr)
+
 - [Bacolod: Negros Occidental pertussis cases rise further](https://rpnradio.com/bacolod-negros-occidental-pertussis-cases-rise-further/) (Rpnradio.com)
 
 ## 24-23 (mpox)
@@ -57,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (meningitis)
 
+- [Bebe Vio is changing the conversation on disability in sport](https://www.dazeddigital.com/life-culture/article/62740/1/bebe-vio-interview-profile-fencing-paralympics-2024-disability-sports) (Dazed)
+
 - [Conserved signalling functions for Mps1, Mad1 and Mad2 in the Cryptococcus neoformans spindle checkpoint](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011302) (Plos.org)
 
 ## 24-23 (measles)
@@ -66,6 +72,8 @@ Source: [News API](https://newsapi.org/)
 - [Health officials warn of possible measles exposure at Philadelphia International Airport](https://www.fox29.com/news/health-officials-warn-of-possible-measles-exposure-at-philadelphia-international-airport) (FOX 29 News Philadelphia)
 
 ## 24-23 (malaria)
+
+- [Use of malaria rapid diagnostic test and anti-malarial drug prescription practices among primary healthcare workers in Ebonyi state, Nigeria: An analytical cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304600) (Plos.org)
 
 - [La polución, una amenaza para la salud mayor que la guerra, malaria, sida, drogas y alcohol juntos](https://www.abc.es/salud/enfermedades/contaminacion-peor-salud-mayor-guerra-malaria-sida-20240603134625-nt.html) (Www.abc.es)
 
@@ -82,6 +90,12 @@ Source: [News API](https://newsapi.org/)
 - [Avian influenza viruses in New Zealand wild birds, with an emphasis on subtypes H5 and H7: Their distinctive epidemiology and genomic properties](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303756) (Plos.org)
 
 ## 24-23 (h5n1)
+
+- [Si llega la pandemia de gripe aviar, tendremos que taparnos los ojos](http://hipertextual.com/2024/06/gripe-aviar-ojos) (Hipertextual)
+
+- [Bird Flu Outbreak Hits California](https://www.newsweek.com/bird-flu-outbreak-california-1907938) (Newsweek)
+
+- [Should we worry about a growing threat from “bird flu”?](https://www.bmj.com/content/385/bmj.q1199) (The BMJ)
 
 - [H5N1 bird flu detected in U.S. San Francisco](http://en.people.cn/n3/2024/0604/c90000-20177737.html) (People.cn)
 
@@ -112,6 +126,18 @@ Source: [News API](https://newsapi.org/)
 - [牛也會感染「禽流感」？美國爆發乳牛H5N1疫情，喝牛奶、吃美牛有健康風險嗎？](https://www.thenewslens.com/article/203397) (Thenewslens.com)
 
 ## 24-23 (dengue)
+
+- [São Paulo não tem vacina da dengue para aplicar segunda dose em crianças](https://valor.globo.com/brasil/noticia/2024/06/04/so-paulo-no-tem-vacina-da-dengue-para-aplicar-segunda-dose-em-crianas.ghtml) (Globo)
+
+- [Mãe acusa médico de receitar remédio contraindicado a bebê que morreu com dengue](https://brasil.perfil.com/brasil/mae-acusa-medico-de-receitar-remedio-contraindicado-a-bebe-que-morreu-com-dengue.phtml) (Perfil.com)
+
+- [Nuevo kit para diagnosticar el dengue](https://noticiasdelaciencia.com/art/50825/nuevo-kit-para-diagnosticar-el-dengue) (Noticiasdelaciencia.com)
+
+- [Due nuovi casi di virus Dengue a Trieste](https://www.ansa.it/friuliveneziagiulia/notizie/2024/06/04/due-nuovi-casi-di-virus-dengue-a-trieste_1f8fe8c0-d7ac-42bf-aa21-3853ddcea83d.html) (ANSA.it)
+
+- [Due nuovi casi di virus Dengue a Trieste](https://www.ansa.it/sito/notizie/cronaca/2024/06/04/due-nuovi-casi-di-virus-dengue-a-trieste_db192243-ca7d-4b5d-a540-849f0b645753.html) (ANSA.it)
+
+- [Brasil lidera ranking mundial de dengue com 82% dos casos, mostra OMS](https://www.metropoles.com/saude/oms-brasil-mais-casos-dengue-mundo) (Metropoles.com)
 
 - [Com 6,3 milhões de casos prováveis, Brasil lidera ranking de dengue](https://gizmodo.uol.com.br/com-63-milhoes-de-casos-provaveis-brasil-lidera-ranking-de-dengue/) (Uol.com.br)
 
@@ -2685,12 +2711,6 @@ Source: [News API](https://newsapi.org/)
 
 - [New Hampshire's GOP Is Taking a Stand--Against the Polio Vaccine (Julia Métraux/Mother Jones)](https://www.memeorandum.com/240421/p32) (Memeorandum.com)
 
-- [Parents describe baby's 'scary' measles symptoms as cases soar](https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596) (Sky.com)
-
-- [Measles Outbreaks Are Worrying Public Health Officials](https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/) (Dianeravitch.net)
-
-- [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
-
 ## 24-17 (malaria)
 
 - [Experții avertizează: Mai mult de jumătate din populația lumii s-ar îmbolnăvi de malarie și febră dengue până la finalul secolului](https://www.digi24.ro/stiri/externe/mapamond/peste-jumatate-din-populatia-lumii-ar-putea-fi-expusa-riscului-de-boli-transmise-de-tantari-2773301) (Digi24.ro)
@@ -2852,8 +2872,6 @@ Source: [News API](https://newsapi.org/)
 - [What dog owners should know about leptospirosis](https://phys.org/news/2024-04-dog-owners-leptospirosis.html) (Phys.Org)
 
 - [Climate-driven models of leptospirosis dynamics in tropical islands from three oceanic basins](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011717) (Plos.org)
-
-- [Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023](https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/) (Legalinsurrection.com)
 
 ## 24-17 (dengue)
 
@@ -3076,14 +3094,6 @@ Source: [News API](https://newsapi.org/)
 - [Dealing a knockout blow to dengue]( https://en.setopati.com/International/162939 ) (Setopati.com)
 
 - [El mapa del dengue: con una tendencia incierta aún, la epidemia supera los 300.000 casos y siguen las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-una-tendencia-incierta-aun-la-epidemia-supera-los-300000-casos-y-siguen-las-nid21042024/) (La Nacion)
-
-- [Ni “posdengue” ni Covid: revelan una infrecuente causa detrás del reciente aumento de neumonías](https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/) (La Nacion)
-
-- [Investigación. Una familia de plantas que crece en la Argentina podría ser la llave en la lucha contra el dengue](https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/) (La Nacion)
-
-- [10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif](https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2) (Idntimes.com)
-
-- [A dengue me pegou. A culpa é do prefeito Ricardo Nunes](https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html) (Terra.com.br)
 
 ## 24-17 (chikungunya)
 
