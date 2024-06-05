@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-06-04 19:05
-- **Most recent article:** 2024-06-03 17:35:07
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-06-05 07:06
+- **Most recent article:** 2024-06-04 05:12:13
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 110 | 77 | 57 | 87 | 58 | 61 | 17 | 467 |
-| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 6 | 286 |
-| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 4 | 190 |
-| measles | 25 | 24 | 10 | 29 | 15 | 16 | 2 | 121 |
-| mpox | 8 | 36 | 3 | 10 | 9 | 16 | 0 | 82 |
-| rabies | 3 | 4 | 22 | 10 | 8 | 15 | 2 | 64 |
+| dengue | 114 | 77 | 57 | 87 | 58 | 61 | 21 | 475 |
+| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 14 | 294 |
+| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 5 | 191 |
+| measles | 28 | 24 | 10 | 29 | 15 | 16 | 2 | 124 |
+| mpox | 8 | 36 | 3 | 10 | 9 | 16 | 2 | 84 |
+| rabies | 3 | 4 | 22 | 10 | 8 | 15 | 5 | 67 |
 | chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 2 | 52 |
 | pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 1 | 30 |
 | meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 1 | 28 |
 | hpai | 0 | 0 | 4 | 3 | 7 | 12 | 1 | 27 |
 | zika | 3 | 8 | 2 | 6 | 3 | 3 | 0 | 25 |
 | sarampión | 10 | 8 | 1 | 0 | 0 | 0 | 0 | 19 |
-| leptospirosis | 2 | 2 | 1 | 3 | 0 | 5 | 0 | 13 |
+| leptospirosis | 3 | 2 | 1 | 3 | 0 | 5 | 0 | 14 |
 | yersinia | 0 | 5 | 1 | 0 | 6 | 0 | 0 | 12 |
 | typhoid | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 5 |
 
@@ -35,6 +35,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (rabies)
 
+- [Polis sköt dövblind hund – stäms på 10 miljoner](https://www.expressen.se/tv/nyheter/varlden/polis-skot-dovblind-hund-stams-pa-10-miljoner/) (Expressen.se)
+
+- [Clinton County Health Department issues health alert amid increase in reported rabies cases](https://www.mynbc5.com/article/clinton-county-health-department-issues-health-alert-amid-increase-in-reported-rabies-cases/60984508) (WPTZ)
+
+- [Taylor Momsen Was Bitten By A Bat—What You Should Know About Rabies](https://www.forbes.com/sites/judystone/2024/06/03/taylor-momsen-was-bitten-by-a-bat-what-you-should-know-about-rabies/) (Forbes)
+
 - [Taylor Momsen Reveals She Needed Rabies Shots After Being Bit by a Bat On Stage](https://hollywoodlife.com/2024/06/03/taylor-momsen-needs-rabies-shot-after-being-bit-by-a-bat-on-stage/) (Hollywood Life)
 
 - [Dog bites teen in Chennai's KK Nagar, 2nd attack in a day](https://timesofindia.indiatimes.com/city/chennai/dog-bites-teen-in-chennais-kk-nagar-2nd-attack-in-a-day/articleshow/110649537.cms) (The Times of India)
@@ -42,6 +48,12 @@ Source: [News API](https://newsapi.org/)
 ## 24-23 (pertussis)
 
 - [Bacolod: Negros Occidental pertussis cases rise further](https://rpnradio.com/bacolod-negros-occidental-pertussis-cases-rise-further/) (Rpnradio.com)
+
+## 24-23 (mpox)
+
+- [Mpox is on the rise in Australia. Here’s what to know about the virus – and who should get vaccinated](https://theconversation.com/mpox-is-on-the-rise-in-australia-heres-what-to-know-about-the-virus-and-who-should-get-vaccinated-231289) (The Conversation Africa)
+
+- [Health Officials Push Mpox Vaccine After Bavarian Nordic’s FDA-Approved Shot Hits Commercial Market](https://childrenshealthdefense.org/defender/monkeypox-vaccine-jynneos-fda-approved-market/) (Childrenshealthdefense.org)
 
 ## 24-23 (meningitis)
 
@@ -54,6 +66,8 @@ Source: [News API](https://newsapi.org/)
 - [Health officials warn of possible measles exposure at Philadelphia International Airport](https://www.fox29.com/news/health-officials-warn-of-possible-measles-exposure-at-philadelphia-international-airport) (FOX 29 News Philadelphia)
 
 ## 24-23 (malaria)
+
+- [La polución, una amenaza para la salud mayor que la guerra, malaria, sida, drogas y alcohol juntos](https://www.abc.es/salud/enfermedades/contaminacion-peor-salud-mayor-guerra-malaria-sida-20240603134625-nt.html) (Www.abc.es)
 
 - [Evaluating Plasmodium falciparum automatic detection and parasitemia estimation: A comparative study on thin blood smear images](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304789) (Plos.org)
 
@@ -69,6 +83,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (h5n1)
 
+- [H5N1 bird flu detected in U.S. San Francisco](http://en.people.cn/n3/2024/0604/c90000-20177737.html) (People.cn)
+
+- [The 3rd human case of bird flu in the US has 2 new and troubling symptoms](https://www.businessinsider.com/bird-flu-virus-h5n1-new-human-case-michigan-respiratory-symptoms-2024-6) (Business Insider)
+
+- [Assessing avian influenza in dairy milk](https://www.nih.gov/news-events/nih-research-matters/assessing-avian-influenza-dairy-milk) (National Institutes of Health)
+
+- [Scientists confirm that pasteurisation effectively inactivates influenza viruses](https://www.gla.ac.uk/news/headline_1078447_en.html) (Gla.ac.uk)
+
+- [H5N1 bird flu detected in U.S. San Francisco](https://www.thestar.com.my/news/world/2024/06/04/h5n1-bird-flu-detected-in-us-san-francisco) (The Star Online)
+
+- [5 million doses of vaccine against H5N1 avian flu being prepared](https://www.upi.com/Health_News/2024/06/03/bird-flu-vaccine/8081717442376/) (UPI.com)
+
+- [Iowa’s Governor Declares A “Disaster” Over Avian Influenza](https://www.shtfplan.com/headline-news/iowas-governor-declares-a-disaster-over-avian-influenza) (Shtfplan.com)
+
+- [Latest human H5N1 bird flu case in US is 1st to cause respiratory symptoms](https://www.livescience.com/health/flu/latest-human-h5n1-bird-flu-case-in-us-is-1st-to-cause-respiratory-symptoms) (Live Science)
+
 - [Why Bird Flu Is Causing Eye Infections in Dairy Workers](https://www.scientificamerican.com/article/why-bird-flu-is-causing-eye-infections-in-dairy-workers/) (Scientific American)
 
 - [Avian influenza viruses in New Zealand wild birds, with an emphasis on subtypes H5 and H7: Their distinctive epidemiology and genomic properties](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303756) (Plos.org)
@@ -82,6 +112,14 @@ Source: [News API](https://newsapi.org/)
 - [牛也會感染「禽流感」？美國爆發乳牛H5N1疫情，喝牛奶、吃美牛有健康風險嗎？](https://www.thenewslens.com/article/203397) (Thenewslens.com)
 
 ## 24-23 (dengue)
+
+- [Com 6,3 milhões de casos prováveis, Brasil lidera ranking de dengue](https://gizmodo.uol.com.br/com-63-milhoes-de-casos-provaveis-brasil-lidera-ranking-de-dengue/) (Uol.com.br)
+
+- [Nelson Brito, baixista do Golpe de Estado, está precisando de doação de sangue](https://whiplash.net/materias/news_694/361431-golpedeestado.html) (Whiplash.net)
+
+- [Sobe para 384 nº de mortes por dengue no DF; 32 estão em investigação](https://www.metropoles.com/distrito-federal/df-chega-a-384-mortes-por-dengue-outras-32-estao-em-investigacao) (Metropoles.com)
+
+- [OMS registra 7,6 milhões de casos prováveis de dengue no mundo; cerca de 82% são no Brasil](https://www.terra.com.br/vida-e-estilo/saude/oms-registra-76-milhoes-de-casos-provaveis-de-dengue-no-mundo-cerca-de-82-sao-no-brasil,8a98ad66b3b58ce54f7082e04c4592549gao1cp8.html) (Terra.com.br)
 
 - [Com 6,3 milhões de casos prováveis, Brasil lidera ranking de dengue](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-06-03/com-6-3-milhoes-de-casos-provaveis--brasil-lidera-ranking-de-dengue.html) (Ig.com.br)
 
@@ -2647,6 +2685,12 @@ Source: [News API](https://newsapi.org/)
 
 - [New Hampshire's GOP Is Taking a Stand--Against the Polio Vaccine (Julia Métraux/Mother Jones)](https://www.memeorandum.com/240421/p32) (Memeorandum.com)
 
+- [Parents describe baby's 'scary' measles symptoms as cases soar](https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596) (Sky.com)
+
+- [Measles Outbreaks Are Worrying Public Health Officials](https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/) (Dianeravitch.net)
+
+- [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
+
 ## 24-17 (malaria)
 
 - [Experții avertizează: Mai mult de jumătate din populația lumii s-ar îmbolnăvi de malarie și febră dengue până la finalul secolului](https://www.digi24.ro/stiri/externe/mapamond/peste-jumatate-din-populatia-lumii-ar-putea-fi-expusa-riscului-de-boli-transmise-de-tantari-2773301) (Digi24.ro)
@@ -2808,6 +2852,8 @@ Source: [News API](https://newsapi.org/)
 - [What dog owners should know about leptospirosis](https://phys.org/news/2024-04-dog-owners-leptospirosis.html) (Phys.Org)
 
 - [Climate-driven models of leptospirosis dynamics in tropical islands from three oceanic basins](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011717) (Plos.org)
+
+- [Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023](https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/) (Legalinsurrection.com)
 
 ## 24-17 (dengue)
 
@@ -3030,6 +3076,14 @@ Source: [News API](https://newsapi.org/)
 - [Dealing a knockout blow to dengue]( https://en.setopati.com/International/162939 ) (Setopati.com)
 
 - [El mapa del dengue: con una tendencia incierta aún, la epidemia supera los 300.000 casos y siguen las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-una-tendencia-incierta-aun-la-epidemia-supera-los-300000-casos-y-siguen-las-nid21042024/) (La Nacion)
+
+- [Ni “posdengue” ni Covid: revelan una infrecuente causa detrás del reciente aumento de neumonías](https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/) (La Nacion)
+
+- [Investigación. Una familia de plantas que crece en la Argentina podría ser la llave en la lucha contra el dengue](https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/) (La Nacion)
+
+- [10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif](https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2) (Idntimes.com)
+
+- [A dengue me pegou. A culpa é do prefeito Ricardo Nunes](https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html) (Terra.com.br)
 
 ## 24-17 (chikungunya)
 
