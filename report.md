@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-06-05 19:06
-- **Most recent article:** 2024-06-04 18:48:29
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-06-06 07:06
+- **Most recent article:** 2024-06-05 05:48:09
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 110 | 77 | 57 | 87 | 58 | 61 | 27 | 477 |
-| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 17 | 297 |
+| dengue | 114 | 77 | 57 | 87 | 58 | 61 | 30 | 484 |
+| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 19 | 299 |
 | malaria | 77 | 25 | 29 | 13 | 17 | 25 | 6 | 192 |
-| measles | 25 | 24 | 10 | 29 | 15 | 16 | 2 | 121 |
+| measles | 28 | 24 | 10 | 29 | 15 | 16 | 3 | 125 |
 | mpox | 8 | 36 | 3 | 10 | 9 | 16 | 2 | 84 |
 | rabies | 3 | 4 | 22 | 10 | 8 | 15 | 6 | 68 |
 | chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 2 | 52 |
-| pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 2 | 31 |
+| pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 3 | 32 |
 | meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 2 | 29 |
 | hpai | 0 | 0 | 4 | 3 | 7 | 12 | 1 | 27 |
 | zika | 3 | 8 | 2 | 6 | 3 | 3 | 0 | 25 |
 | sarampión | 10 | 8 | 1 | 0 | 0 | 0 | 0 | 19 |
-| leptospirosis | 2 | 2 | 1 | 3 | 0 | 5 | 0 | 13 |
+| leptospirosis | 3 | 2 | 1 | 3 | 0 | 5 | 1 | 15 |
 | yersinia | 0 | 5 | 1 | 0 | 6 | 0 | 0 | 12 |
 | typhoid | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 5 |
 
@@ -49,6 +49,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (pertussis)
 
+- [용인시, 호흡기 감염병 확산 막기 위해 예방접종 당부](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003036172) (Ohmynews.com)
+
 - ["On n'a jamais vu ça depuis 40 ans" : Sylvain Brisse, chercheur à l'Institut Pasteur, alerte sur "l'explosion" des cas de coqueluche](https://www.francetvinfo.fr/sante/maladie/on-n-a-jamais-vu-ca-depuis-40-ans-sylvain-brisse-chercheur-a-l-institut-pasteur-alerte-sur-l-explosion-des-cas-de-coqueluche_6584328.html) (Francetvinfo.fr)
 
 - [Bacolod: Negros Occidental pertussis cases rise further](https://rpnradio.com/bacolod-negros-occidental-pertussis-cases-rise-further/) (Rpnradio.com)
@@ -66,6 +68,8 @@ Source: [News API](https://newsapi.org/)
 - [Conserved signalling functions for Mps1, Mad1 and Mad2 in the Cryptococcus neoformans spindle checkpoint](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011302) (Plos.org)
 
 ## 24-23 (measles)
+
+- [Health Officials Issue Warning on Measles Exposure at Philadelphia International Airport](https://www.theepochtimes.com/us/health-officials-issue-warning-on-measles-exposure-at-philadelphia-international-airport-5662520) (Theepochtimes.com)
 
 - [Health Dept. warns of possible measles exposure at Philadelphia International Airport](https://6abc.com/post/health-dept-warns-measles-exposure-philadelphia-international-airports/14906732/) (WPVI-TV)
 
@@ -85,11 +89,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
 
+## 24-23 (leptospirosis)
+
+- [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
+
 ## 24-23 (hpai)
 
 - [Avian influenza viruses in New Zealand wild birds, with an emphasis on subtypes H5 and H7: Their distinctive epidemiology and genomic properties](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303756) (Plos.org)
 
 ## 24-23 (h5n1)
+
+- [科学家证实巴氏杀菌法能有效灭活禽流感病毒](http://jandan.net/p/116692) (Jandan.net)
+
+- [Virologist Dr. Rick Bright: Why the New Human Case of Bird Flu...](https://kottke.org/24/06/0044749-virologist-dr-rick-bright) (kottke.org)
 
 - [Si llega la pandemia de gripe aviar, tendremos que taparnos los ojos](http://hipertextual.com/2024/06/gripe-aviar-ojos) (Hipertextual)
 
@@ -126,6 +138,12 @@ Source: [News API](https://newsapi.org/)
 - [牛也會感染「禽流感」？美國爆發乳牛H5N1疫情，喝牛奶、吃美牛有健康風險嗎？](https://www.thenewslens.com/article/203397) (Thenewslens.com)
 
 ## 24-23 (dengue)
+
+- [As France braces for 15 million Olympics visitors, its ‘dengue detectives’ are hunting for tiger mosquitoes to prevent an outbreak](https://fortune.com/europe/2024/06/05/france-15-million-olympics-visitors-dengue-detectives-outbreak-tiger-mosquitoes/) (Fortune)
+
+- [Actress Namratha Gowda battles Dengue; Urges precaution](https://timesofindia.indiatimes.com/tv/news/kannada/actress-namratha-gowda-battles-dengue-urges-precaution/articleshow/110720944.cms) (The Times of India)
+
+- [Lido de Veneza passará por desinfestação após caso de dengue](https://www.terra.com.br/noticias/mundo/lido-de-veneza-passara-por-desinfestacao-apos-caso-de-dengue,ae8d2d5072bdcac1247d28e8004c37a2mlqb8ltd.html) (Terra.com.br)
 
 - [São Paulo não tem vacina da dengue para aplicar segunda dose em crianças](https://valor.globo.com/brasil/noticia/2024/06/04/so-paulo-no-tem-vacina-da-dengue-para-aplicar-segunda-dose-em-crianas.ghtml) (Globo)
 
@@ -2711,6 +2729,12 @@ Source: [News API](https://newsapi.org/)
 
 - [New Hampshire's GOP Is Taking a Stand--Against the Polio Vaccine (Julia Métraux/Mother Jones)](https://www.memeorandum.com/240421/p32) (Memeorandum.com)
 
+- [Parents describe baby's 'scary' measles symptoms as cases soar](https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596) (Sky.com)
+
+- [Measles Outbreaks Are Worrying Public Health Officials](https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/) (Dianeravitch.net)
+
+- [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
+
 ## 24-17 (malaria)
 
 - [Experții avertizează: Mai mult de jumătate din populația lumii s-ar îmbolnăvi de malarie și febră dengue până la finalul secolului](https://www.digi24.ro/stiri/externe/mapamond/peste-jumatate-din-populatia-lumii-ar-putea-fi-expusa-riscului-de-boli-transmise-de-tantari-2773301) (Digi24.ro)
@@ -2872,6 +2896,8 @@ Source: [News API](https://newsapi.org/)
 - [What dog owners should know about leptospirosis](https://phys.org/news/2024-04-dog-owners-leptospirosis.html) (Phys.Org)
 
 - [Climate-driven models of leptospirosis dynamics in tropical islands from three oceanic basins](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011717) (Plos.org)
+
+- [Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023](https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/) (Legalinsurrection.com)
 
 ## 24-17 (dengue)
 
@@ -3094,6 +3120,14 @@ Source: [News API](https://newsapi.org/)
 - [Dealing a knockout blow to dengue]( https://en.setopati.com/International/162939 ) (Setopati.com)
 
 - [El mapa del dengue: con una tendencia incierta aún, la epidemia supera los 300.000 casos y siguen las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-una-tendencia-incierta-aun-la-epidemia-supera-los-300000-casos-y-siguen-las-nid21042024/) (La Nacion)
+
+- [Ni “posdengue” ni Covid: revelan una infrecuente causa detrás del reciente aumento de neumonías](https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/) (La Nacion)
+
+- [Investigación. Una familia de plantas que crece en la Argentina podría ser la llave en la lucha contra el dengue](https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/) (La Nacion)
+
+- [10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif](https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2) (Idntimes.com)
+
+- [A dengue me pegou. A culpa é do prefeito Ricardo Nunes](https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html) (Terra.com.br)
 
 ## 24-17 (chikungunya)
 
