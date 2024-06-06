@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-06-06 07:06
-- **Most recent article:** 2024-06-05 05:48:09
+- **New articles in last harvest:** 25
+- **Last harvest:** 2024-06-06 19:05
+- **Most recent article:** 2024-06-05 18:56:32
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 77 | 57 | 87 | 58 | 61 | 30 | 484 |
-| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 19 | 299 |
-| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 6 | 192 |
-| measles | 28 | 24 | 10 | 29 | 15 | 16 | 3 | 125 |
-| mpox | 8 | 36 | 3 | 10 | 9 | 16 | 2 | 84 |
+| dengue | 110 | 77 | 57 | 87 | 58 | 61 | 34 | 484 |
+| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 25 | 305 |
+| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 11 | 197 |
+| measles | 25 | 24 | 10 | 29 | 15 | 16 | 8 | 127 |
+| mpox | 8 | 36 | 3 | 10 | 9 | 16 | 4 | 86 |
 | rabies | 3 | 4 | 22 | 10 | 8 | 15 | 6 | 68 |
-| chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 2 | 52 |
-| pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 3 | 32 |
+| chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 3 | 53 |
+| pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 5 | 34 |
 | meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 2 | 29 |
 | hpai | 0 | 0 | 4 | 3 | 7 | 12 | 1 | 27 |
 | zika | 3 | 8 | 2 | 6 | 3 | 3 | 0 | 25 |
 | sarampión | 10 | 8 | 1 | 0 | 0 | 0 | 0 | 19 |
-| leptospirosis | 3 | 2 | 1 | 3 | 0 | 5 | 1 | 15 |
+| leptospirosis | 2 | 2 | 1 | 3 | 0 | 5 | 1 | 14 |
 | yersinia | 0 | 5 | 1 | 0 | 6 | 0 | 0 | 12 |
 | typhoid | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 5 |
 
@@ -49,6 +49,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (pertussis)
 
+- [Pertussis cases soar in France, rise in Europe](https://www.euractiv.com/section/health-consumers/news/pertussis-cases-soar-in-france-rise-in-europe/) (EURACTIV)
+
+- [Whooping Cough Map Reveals Why FDA Is Concerned](https://www.newsweek.com/whooping-cough-map-fda-concerned-1908394) (Newsweek)
+
 - [용인시, 호흡기 감염병 확산 막기 위해 예방접종 당부](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003036172) (Ohmynews.com)
 
 - ["On n'a jamais vu ça depuis 40 ans" : Sylvain Brisse, chercheur à l'Institut Pasteur, alerte sur "l'explosion" des cas de coqueluche](https://www.francetvinfo.fr/sante/maladie/on-n-a-jamais-vu-ca-depuis-40-ans-sylvain-brisse-chercheur-a-l-institut-pasteur-alerte-sur-l-explosion-des-cas-de-coqueluche_6584328.html) (Francetvinfo.fr)
@@ -56,6 +60,10 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: Negros Occidental pertussis cases rise further](https://rpnradio.com/bacolod-negros-occidental-pertussis-cases-rise-further/) (Rpnradio.com)
 
 ## 24-23 (mpox)
+
+- [Afrika ülkesinde 'M çiçeği' alarmı: Ölümle sonuçlanıyor](https://www.odatv.com/guncel/afrika-ulkesinde-m-cicegi-alarmi-olumle-sonuclaniyor-120047276) (Odatv.com)
+
+- [Gefährliche Virus-Variante im Kongo: Ausbreitung über Afrika hinaus zu befürchten](https://www.tagesspiegel.de/wissen/gefahrliche-virus-variante-im-kongo-ausbreitung-uber-afrika-hinaus-zu-befurchten-11760356.html) (Der Tagesspiegel)
 
 - [Mpox is on the rise in Australia. Here’s what to know about the virus – and who should get vaccinated](https://theconversation.com/mpox-is-on-the-rise-in-australia-heres-what-to-know-about-the-virus-and-who-should-get-vaccinated-231289) (The Conversation Africa)
 
@@ -69,6 +77,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (measles)
 
+- [Forty-seven confirmed measles cases in State, latest figures find](https://www.irishtimes.com/health/2024/06/05/forty-seven-confirmed-measles-cases-in-state-latest-figures-find/) (The Irish Times)
+
+- [Forty-seven measles cases confirmed in Ireland so far this year](https://www.thejournal.ie/47-measles-cases-confirmed-ireland-this-year-6399003-Jun2024/) (TheJournal.ie)
+
+- [Forty-four confirmed measles cases in State, latest figures find](https://www.irishtimes.com/health/2024/06/05/forty-four-confirmed-measles-cases-in-state-latest-figures-find/) (The Irish Times)
+
+- [Ministry of Health receives over 5 million doses of children vaccines](https://www.citizen.digital/news/ministry-of-health-receives-over-5-million-doses-of-children-vaccines-n343437) (Citizen.digital)
+
+- [MMR vaccine medical misinformation still prevalent](https://www.techtarget.com/patientengagement/news/366587737/MMR-vaccine-medical-misinformation-still-prevalent) (Techtarget.com)
+
 - [Health Officials Issue Warning on Measles Exposure at Philadelphia International Airport](https://www.theepochtimes.com/us/health-officials-issue-warning-on-measles-exposure-at-philadelphia-international-airport-5662520) (Theepochtimes.com)
 
 - [Health Dept. warns of possible measles exposure at Philadelphia International Airport](https://6abc.com/post/health-dept-warns-measles-exposure-philadelphia-international-airports/14906732/) (WPVI-TV)
@@ -76,6 +94,16 @@ Source: [News API](https://newsapi.org/)
 - [Health officials warn of possible measles exposure at Philadelphia International Airport](https://www.fox29.com/news/health-officials-warn-of-possible-measles-exposure-at-philadelphia-international-airport) (FOX 29 News Philadelphia)
 
 ## 24-23 (malaria)
+
+- [US Lawmakers: Binance Executive Tigran Gambaryan ‘Wrongly Detained’ in Nigeria](https://www.pymnts.com/legal/2024/us-lawmakers-binance-executive-tigran-gambaryan-wrongly-detained-in-nigeria/) (pymnts.com)
+
+- [La lotta alla malaria vale oltre 140 miliardi di dollari di Pil](https://www.ilsole24ore.com/art/la-lotta-malaria-vale-oltre-140-miliardi-dollari-pil-AGAMu2P) (Il Sole 24 Ore)
+
+- [Perspectives of healthcare professionals on training for quantitative G6PD testing during implementation of tafenoquine in Brazil (QualiTRuST Study)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012197) (Plos.org)
+
+- [Day 3 parasitemia and Plasmodium falciparum Kelch 13 mutations among uncomplicated malaria patients treated with artemether-lumefantrine in Adjumani district, Uganda](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305064) (Plos.org)
+
+- [Anualmente suceden millones de muertes por enfermedades cardiovasculares por contaminantes artificiales](https://www.meneame.net/m/ciencia/anualmente-suceden-millones-muertes-enfermedades-contaminantes) (Meneame.net)
 
 - [Use of malaria rapid diagnostic test and anti-malarial drug prescription practices among primary healthcare workers in Ebonyi state, Nigeria: An analytical cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304600) (Plos.org)
 
@@ -98,6 +126,18 @@ Source: [News API](https://newsapi.org/)
 - [Avian influenza viruses in New Zealand wild birds, with an emphasis on subtypes H5 and H7: Their distinctive epidemiology and genomic properties](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303756) (Plos.org)
 
 ## 24-23 (h5n1)
+
+- [Elephant seal outbreak marks first transnational spread of highly pathogenic avian influenza in mammals](https://phys.org/news/2024-06-elephant-outbreak-transnational-highly-pathogenic.html) (Phys.Org)
+
+- [Bird Flu (H5N1) Explained: Study Finds First Known Case Of Mammal-To-Mammal Transnational Transmission](https://www.forbes.com/sites/ariannajohnson/2024/06/05/bird-flu-h5n1-explained-study-finds-first-known-case-of-mammal-to-mammal-transnational-transmission/) (Forbes)
+
+- [H5N1 Is Increasingly Adapting to Mammals](https://www.ucdavis.edu/health/news/h5n1-increasingly-adapting-mammals) (Ucdavis.edu)
+
+- [Three Human Bird Flu Cases Have Been Reported This Year In America. Should We Be Worried?](https://www.forbes.com/sites/omerawan/2024/06/05/three-human-bird-flu-cases-have-been-reported-this-year-in-america-should-we-be-worried/) (Forbes)
+
+- [H5N1 Bird Flu Isn’t a Human Pandemic—Yet](https://www.scientificamerican.com/article/h5n1-bird-flu-isnt-a-human-pandemic-yet/) (Scientific American)
+
+- [The most pressing bird flu mysteries scientists want answered](https://www.statnews.com/2024/06/05/bird-flu-h5n1-in-cows-scientists-top-questions/) (STAT)
 
 - [科学家证实巴氏杀菌法能有效灭活禽流感病毒](http://jandan.net/p/116692) (Jandan.net)
 
@@ -138,6 +178,14 @@ Source: [News API](https://newsapi.org/)
 - [牛也會感染「禽流感」？美國爆發乳牛H5N1疫情，喝牛奶、吃美牛有健康風險嗎？](https://www.thenewslens.com/article/203397) (Thenewslens.com)
 
 ## 24-23 (dengue)
+
+- [Cidade de São Paulo enfrenta falta de vacinas contra a dengue e covid-19; veja onde encontrar](https://www.terra.com.br/vida-e-estilo/saude/cidade-de-sao-paulo-enfrenta-falta-de-vacinas-contra-a-dengue-e-covid-19-veja-onde-encontrar,5d2d06e6bf2242cd6ff01c7967d897a586qrsqby.html) (Terra.com.br)
+
+- [El plan olímpico de Francia para frenar un brote de dengue a pocas semanas de los JJOO: "Detectives de mosquitos"](https://www.meneame.net/m/actualidad/plan-olimpico-francia-frenar-brote-dengue-pocas-semanas-jjoo) (Meneame.net)
+
+- [El plan olímpico de Francia para frenar un brote de dengue a pocas semanas de los JJOO: "Detectives de mosquitos"](https://www.eleconomista.es/actualidad/noticias/12850794/06/24/el-plan-olimpico-de-francia-para-frenar-un-brote-de-dengue-a-pocas-semanas-de-los-jjoo-detectives-de-mosquitos.html) (Eleconomista.es)
+
+- [Épidémies, météo, Jeux Olympiques : Vers un été de “dengue” avec une grande quantité de mouches et moustiques](https://www.dhnet.be/actu/societe/2024/06/05/epidemies-meteo-jeux-olympiques-vers-un-ete-de-dengue-avec-une-grande-quantite-de-mouches-et-moustiques-CVDGOTI73FGQDIH2JV6GTZYWLA/) (dh.be)
 
 - [As France braces for 15 million Olympics visitors, its ‘dengue detectives’ are hunting for tiger mosquitoes to prevent an outbreak](https://fortune.com/europe/2024/06/05/france-15-million-olympics-visitors-dengue-detectives-outbreak-tiger-mosquitoes/) (Fortune)
 
@@ -200,6 +248,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: como um mosquito Aedes é contaminado?](https://olhardigital.com.br/2024/06/01/medicina-e-saude/dengue-como-um-mosquito-aedes-e-contaminado/) (Olhardigital.com.br)
 
 ## 24-23 (chikungunya)
+
+- [Casos de encefalite na Bahia podem ter chikungunya como principal responsável, indica estudo](https://www.terra.com.br/vida-e-estilo/saude/casos-de-encefalite-na-bahia-podem-ter-chikungunya-como-principal-responsavel-indica-estudo,b0be2d166f1b7931ed888e0c36e6de50x5m067ui.html) (Terra.com.br)
 
 - [Infektionskrankheiten: Chikungunya-Fieber: Europäische Arzneimittelagentur empfiehlt ersten Impfstoff](https://www.sueddeutsche.de/gesundheit/chikungunya-impfstoff-zulassung-ema-lux.MNaYnv7oRbRbuad6jVrxBe) (Süddeutsche Zeitung)
 
@@ -2729,12 +2779,6 @@ Source: [News API](https://newsapi.org/)
 
 - [New Hampshire's GOP Is Taking a Stand--Against the Polio Vaccine (Julia Métraux/Mother Jones)](https://www.memeorandum.com/240421/p32) (Memeorandum.com)
 
-- [Parents describe baby's 'scary' measles symptoms as cases soar](https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596) (Sky.com)
-
-- [Measles Outbreaks Are Worrying Public Health Officials](https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/) (Dianeravitch.net)
-
-- [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
-
 ## 24-17 (malaria)
 
 - [Experții avertizează: Mai mult de jumătate din populația lumii s-ar îmbolnăvi de malarie și febră dengue până la finalul secolului](https://www.digi24.ro/stiri/externe/mapamond/peste-jumatate-din-populatia-lumii-ar-putea-fi-expusa-riscului-de-boli-transmise-de-tantari-2773301) (Digi24.ro)
@@ -2896,8 +2940,6 @@ Source: [News API](https://newsapi.org/)
 - [What dog owners should know about leptospirosis](https://phys.org/news/2024-04-dog-owners-leptospirosis.html) (Phys.Org)
 
 - [Climate-driven models of leptospirosis dynamics in tropical islands from three oceanic basins](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011717) (Plos.org)
-
-- [Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023](https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/) (Legalinsurrection.com)
 
 ## 24-17 (dengue)
 
@@ -3120,14 +3162,6 @@ Source: [News API](https://newsapi.org/)
 - [Dealing a knockout blow to dengue]( https://en.setopati.com/International/162939 ) (Setopati.com)
 
 - [El mapa del dengue: con una tendencia incierta aún, la epidemia supera los 300.000 casos y siguen las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-una-tendencia-incierta-aun-la-epidemia-supera-los-300000-casos-y-siguen-las-nid21042024/) (La Nacion)
-
-- [Ni “posdengue” ni Covid: revelan una infrecuente causa detrás del reciente aumento de neumonías](https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/) (La Nacion)
-
-- [Investigación. Una familia de plantas que crece en la Argentina podría ser la llave en la lucha contra el dengue](https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/) (La Nacion)
-
-- [10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif](https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2) (Idntimes.com)
-
-- [A dengue me pegou. A culpa é do prefeito Ricardo Nunes](https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html) (Terra.com.br)
 
 ## 24-17 (chikungunya)
 
