@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2024-06-06 19:05
-- **Most recent article:** 2024-06-05 18:56:32
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-06-07 07:05
+- **Most recent article:** 2024-06-06 07:00:22
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 110 | 77 | 57 | 87 | 58 | 61 | 34 | 484 |
-| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 25 | 305 |
-| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 11 | 197 |
-| measles | 25 | 24 | 10 | 29 | 15 | 16 | 8 | 127 |
+| dengue | 114 | 77 | 57 | 87 | 58 | 61 | 37 | 491 |
+| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 36 | 316 |
+| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 12 | 198 |
+| measles | 28 | 24 | 10 | 29 | 15 | 16 | 9 | 131 |
 | mpox | 8 | 36 | 3 | 10 | 9 | 16 | 4 | 86 |
 | rabies | 3 | 4 | 22 | 10 | 8 | 15 | 6 | 68 |
-| chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 3 | 53 |
+| chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 4 | 54 |
 | pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 5 | 34 |
 | meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 2 | 29 |
 | hpai | 0 | 0 | 4 | 3 | 7 | 12 | 1 | 27 |
 | zika | 3 | 8 | 2 | 6 | 3 | 3 | 0 | 25 |
 | sarampión | 10 | 8 | 1 | 0 | 0 | 0 | 0 | 19 |
-| leptospirosis | 2 | 2 | 1 | 3 | 0 | 5 | 1 | 14 |
+| leptospirosis | 3 | 2 | 1 | 3 | 0 | 5 | 1 | 15 |
 | yersinia | 0 | 5 | 1 | 0 | 6 | 0 | 0 | 12 |
 | typhoid | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 5 |
 
@@ -77,6 +77,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (measles)
 
+- [Vaccines don’t cause autism, but the lie won’t die. In fact, it’s getting worse.](https://arstechnica.com/science/2024/06/vaccines-dont-cause-autism-but-the-lie-wont-die-in-fact-its-getting-worse/) (Ars Technica)
+
 - [Forty-seven confirmed measles cases in State, latest figures find](https://www.irishtimes.com/health/2024/06/05/forty-seven-confirmed-measles-cases-in-state-latest-figures-find/) (The Irish Times)
 
 - [Forty-seven measles cases confirmed in Ireland so far this year](https://www.thejournal.ie/47-measles-cases-confirmed-ireland-this-year-6399003-Jun2024/) (TheJournal.ie)
@@ -94,6 +96,8 @@ Source: [News API](https://newsapi.org/)
 - [Health officials warn of possible measles exposure at Philadelphia International Airport](https://www.fox29.com/news/health-officials-warn-of-possible-measles-exposure-at-philadelphia-international-airport) (FOX 29 News Philadelphia)
 
 ## 24-23 (malaria)
+
+- [マラリア削減でアフリカ経済が年間平均約160億ドルの押し上げ](https://prtimes.jp/main/html/rd/p/000000036.000010063.html) (Prtimes.jp)
 
 - [US Lawmakers: Binance Executive Tigran Gambaryan ‘Wrongly Detained’ in Nigeria](https://www.pymnts.com/legal/2024/us-lawmakers-binance-executive-tigran-gambaryan-wrongly-detained-in-nigeria/) (pymnts.com)
 
@@ -126,6 +130,28 @@ Source: [News API](https://newsapi.org/)
 - [Avian influenza viruses in New Zealand wild birds, with an emphasis on subtypes H5 and H7: Their distinctive epidemiology and genomic properties](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303756) (Plos.org)
 
 ## 24-23 (h5n1)
+
+- [墨西哥現首例人類染 H5N2 禽流感變異株死亡，病毒來源不明](https://technews.tw/2024/06/06/first-human-death-from-h5n2-infection-in-mexico/) (Technews.tw)
+
+- [Un premier décès humain de la grippe aviaire de type H5N2 signalé, faut-il s'en inquiéter? L'OMS fait le point](https://www.lalibre.be/planete/sante/2024/06/06/un-premier-deces-humain-de-la-grippe-aviaire-de-type-h5n2-signale-faut-il-sen-inquieter-loms-fait-le-point-635QRARJG5F23HQETJWWEVBK7Y/) (Lalibre.be)
+
+- [Premier décès humain de la grippe aviaire de type H5N2, selon l’OMS](https://www.dhnet.be/actu/monde/2024/06/06/premier-deces-humain-de-la-grippe-aviaire-de-type-h5n2-selon-loms-6PXMSW45IRHV7PGKGM4FZPKA5E/) (dh.be)
+
+- [Ο πρώτος θάνατος ανθρώπου παγκοσμίως από τη γρίπη των πτηνών H5N2](https://www.naftemporiki.gr/kosmos/1680332/o-protos-thanatos-anthropoy-pagkosmios-apo-ti-gripi-ton-ptinon-h5n2/) (Naftemporiki.gr)
+
+- [Πρώτος θάνατος ανθρώπου παγκοσμίως εξαιτίας της γρίπης των πτηνών H5N2](https://www.skai.gr/news/health/protos-thanatos-anthropou-pagkosmios-eksaitias-tis-gripis-ton-ptinon-h5n2) (Skai.gr)
+
+- [Στο Μεξικό ο 1ος θάνατος ανθρώπου από γρίπη των πτηνών - Ποιος είναι ο ιός Η5Ν2](https://www.newsit.gr/kosmos/gripi-ptinon-protos-thanatos-anthropou-pagkosmios-apo-H5N2/4102469/) (Newsit.gr)
+
+- [México reporta primer caso humano de gripe H5N2, según la Organización Mundial de la Salud](https://cnnespanol.cnn.com/2024/06/05/mexico-reporta-primer-caso-humano-de-gripe-h5n2-oms-trax/) (CNN)
+
+- [Mexiko: Weltweit erster Todesfall durch Vogelgrippe-Subtyp](https://www.sueddeutsche.de/wissen/vogelgrippe-mexiko-subtyp-h5n2-lux.GWpvRW9QWK5rYQVxpJbczK) (Süddeutsche Zeitung)
+
+- ['Increased evidence that we should be alert': H5N1 bird flu is adapting to mammals in 'new ways'](https://www.livescience.com/health/viruses-infections-disease/increased-evidence-that-we-should-be-alert-h5n1-bird-flu-is-adapting-to-mammals-in-new-ways) (Live Science)
+
+- [ВОЗ сообщила о первом в мире случае заражения человека птичьим гриппом A(H5N2)](https://tass.ru/obschestvo/21008867) (Tass.ru)
+
+- [Canada aims to protect cattle industry as U.S. avian flu outbreak spreads](https://financialpost.com/pmn/commodities-business-pmn/agriculture-commodities-business-pmn/canada-aims-to-protect-cattle-industry-as-u-s-avian-flu-outbreak-spreads) (Financial Post)
 
 - [Elephant seal outbreak marks first transnational spread of highly pathogenic avian influenza in mammals](https://phys.org/news/2024-06-elephant-outbreak-transnational-highly-pathogenic.html) (Phys.Org)
 
@@ -178,6 +204,12 @@ Source: [News API](https://newsapi.org/)
 - [牛也會感染「禽流感」？美國爆發乳牛H5N1疫情，喝牛奶、吃美牛有健康風險嗎？](https://www.thenewslens.com/article/203397) (Thenewslens.com)
 
 ## 24-23 (dengue)
+
+- [Cebu: Kaso sa dengue ug COVID-19 nisaka sa Dakbayan sa Sugbo](https://rpnradio.com/cebu-kaso-sa-dengue-ug-covid-19-nisaka-sa-dakbayan-sa-sugbo/) (Rpnradio.com)
+
+- [Estado de SP já tem mais casos de dengue neste ano do que todo o Brasil registrou em 2023](https://www.terra.com.br/vida-e-estilo/saude/estado-de-sp-ja-tem-mais-casos-de-dengue-neste-ano-do-que-todo-o-brasil-registrou-em-2023,fa112840171687cad81326b7bbbcacebla9votgc.html) (Terra.com.br)
+
+- [DF registra 391 mortes por dengue em 2024, segundo Ministério da Saúde](https://www.metropoles.com/distrito-federal/df-registra-391-mortes-por-dengue-em-2024-segundo-ministerio-da-saude) (Metropoles.com)
 
 - [Cidade de São Paulo enfrenta falta de vacinas contra a dengue e covid-19; veja onde encontrar](https://www.terra.com.br/vida-e-estilo/saude/cidade-de-sao-paulo-enfrenta-falta-de-vacinas-contra-a-dengue-e-covid-19-veja-onde-encontrar,5d2d06e6bf2242cd6ff01c7967d897a586qrsqby.html) (Terra.com.br)
 
@@ -248,6 +280,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: como um mosquito Aedes é contaminado?](https://olhardigital.com.br/2024/06/01/medicina-e-saude/dengue-como-um-mosquito-aedes-e-contaminado/) (Olhardigital.com.br)
 
 ## 24-23 (chikungunya)
+
+- [Sorge vor Pandemie - EMA empfiehlt ersten Impfstoff gegen Chikungunya-Fieber – das müssen Sie wissen](https://www.focus.de/gesundheit/news/sorge-vor-pandemie-eu-behoerde-empfiehlt-ersten-impfstoff-gegen-chikungunya-fieber-das-muessen-sie-wissen_id_260009301.html) (Focus)
 
 - [Casos de encefalite na Bahia podem ter chikungunya como principal responsável, indica estudo](https://www.terra.com.br/vida-e-estilo/saude/casos-de-encefalite-na-bahia-podem-ter-chikungunya-como-principal-responsavel-indica-estudo,b0be2d166f1b7931ed888e0c36e6de50x5m067ui.html) (Terra.com.br)
 
@@ -2779,6 +2813,12 @@ Source: [News API](https://newsapi.org/)
 
 - [New Hampshire's GOP Is Taking a Stand--Against the Polio Vaccine (Julia Métraux/Mother Jones)](https://www.memeorandum.com/240421/p32) (Memeorandum.com)
 
+- [Parents describe baby's 'scary' measles symptoms as cases soar](https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596) (Sky.com)
+
+- [Measles Outbreaks Are Worrying Public Health Officials](https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/) (Dianeravitch.net)
+
+- [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
+
 ## 24-17 (malaria)
 
 - [Experții avertizează: Mai mult de jumătate din populația lumii s-ar îmbolnăvi de malarie și febră dengue până la finalul secolului](https://www.digi24.ro/stiri/externe/mapamond/peste-jumatate-din-populatia-lumii-ar-putea-fi-expusa-riscului-de-boli-transmise-de-tantari-2773301) (Digi24.ro)
@@ -2940,6 +2980,8 @@ Source: [News API](https://newsapi.org/)
 - [What dog owners should know about leptospirosis](https://phys.org/news/2024-04-dog-owners-leptospirosis.html) (Phys.Org)
 
 - [Climate-driven models of leptospirosis dynamics in tropical islands from three oceanic basins](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011717) (Plos.org)
+
+- [Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023](https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/) (Legalinsurrection.com)
 
 ## 24-17 (dengue)
 
@@ -3162,6 +3204,14 @@ Source: [News API](https://newsapi.org/)
 - [Dealing a knockout blow to dengue]( https://en.setopati.com/International/162939 ) (Setopati.com)
 
 - [El mapa del dengue: con una tendencia incierta aún, la epidemia supera los 300.000 casos y siguen las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-una-tendencia-incierta-aun-la-epidemia-supera-los-300000-casos-y-siguen-las-nid21042024/) (La Nacion)
+
+- [Ni “posdengue” ni Covid: revelan una infrecuente causa detrás del reciente aumento de neumonías](https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/) (La Nacion)
+
+- [Investigación. Una familia de plantas que crece en la Argentina podría ser la llave en la lucha contra el dengue](https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/) (La Nacion)
+
+- [10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif](https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2) (Idntimes.com)
+
+- [A dengue me pegou. A culpa é do prefeito Ricardo Nunes](https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html) (Terra.com.br)
 
 ## 24-17 (chikungunya)
 

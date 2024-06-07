@@ -1,8 +1,314 @@
 {
-  "last_updated": "2024-06-06 19:05",
-  "count_articles_total": 1414,
-  "count_articles_new": 25,
+  "last_updated": "2024-06-07 07:05",
+  "count_articles_total": 1439,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 9870,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "\u4e2d\u592e\u793e",
+      "title": "\u58a8\u897f\u54e5\u73fe\u9996\u4f8b\u4eba\u985e\u67d3 H5N2 \u79bd\u6d41\u611f\u8b8a\u7570\u682a\u6b7b\u4ea1\uff0c\u75c5\u6bd2\u4f86\u6e90\u4e0d\u660e",
+      "description": "\u4e16\u754c\u885b\u751f\u7d44\u7e54\u4eca\u5929\u8868\u793a\uff0c\u5168\u7403\u51fa\u73fe\u9996\u4f8b\u4eba\u985e\u611f\u67d3 H5N2 \u79bd\u6d41\u611f\u8b8a\u7570\u682a\u6b7b\u4ea1\u75c5\u4f8b\uff0c\u6b7b\u8005\u662f\u58a8\u897f\u54e5\u4e00\u540d 59 \u6b72\u60a3\u8005\uff1b\u4e0d\u904e\u4e16\u885b\u4e5f\u8868\u793a\uff0c\u76ee\u524d\u79bd\u6d41\u611f\u75c5\u6bd2\u5c0d\u666e\u7f85\u5927\u773e\u7684\u5f71\u97ff\u98a8\u96aa\u8f03\u4f4e\u3002 \u7d9c\u5408\u6cd5\u65b0\u793e\u8207\u8def\u900f\u793e\u5831\u5c0e\uff0c\u4e16\u754c\u885b\u751f\u7d44\u7e54\uff08WHO\uff09\u8868\u793a\uff0c\u9019\u540d\u60a3\u8005\u51fa\u73fe\u767c\u71d2\u3001\u547c\u5438\u77ed\u4fc3\u3001\u8179\u7009\u8207\u5641\u5fc3\u7b49\u75c7\u72c0\u5f8c\uff0c4\u670824\u65e5\u6b7b\u4ea1\u3002\u60a3\u8005\u300c\u6c92\u6709\u5bb6\u79bd\u6216\u5176...",
+      "url": "https://technews.tw/2024/06/06/first-human-death-from-h5n2-infection-in-mexico/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2018/06/25153900/bird-1964093_1280.jpg",
+      "publishedAt": "2024-06-06 07:00:22",
+      "content": "H5N2 59 WHO424 AH5N2H5N2 Mexico City523H5N2 H5N2 Michoacan3H5N2State of Mexico H5N1 H5N1 Johns Hopkins UniversityAndrew Pekosz 1997H5 pixabay",
+      "retrievedAt": "2024-06-07 07:05:53.523034",
+      "internal_id": "9f9378a1579a40c3ded5c897ec0b27b11affa305b7f4016686bf94e903321472",
+      "publishedAtLabel": "Jun 6"
+    },
+    {
+      "id": 9884,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "mit dpa",
+      "title": "Sorge vor Pandemie - EMA empfiehlt ersten Impfstoff gegen Chikungunya-Fieber \u2013 das m\u00fcssen Sie wissen",
+      "description": "Gesundheitsexperten warnen, weil sich mit dem Klimawandel M\u00fccken, die das Chikungunya-Virus \u00fcbertragen, immer weiter ausbreiten \u2013 auch in Europa. Die Europ\u00e4ische Arzneimittel-Agentur empfiehlt nun eine Impfstoffzulassung. Antworten auf die sechs wichtigsten F\u2026",
+      "url": "https://www.focus.de/gesundheit/news/sorge-vor-pandemie-eu-behoerde-empfiehlt-ersten-impfstoff-gegen-chikungunya-fieber-das-muessen-sie-wissen_id_260009301.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260009248/imago0073018176h.jpg?im=Crop%3D%280%2C288%2C3464%2C1732%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=007dfb6acfc16668e2782383dc999ac0ae4a69842bb463015007504238cc01b0",
+      "publishedAt": "2024-06-06 06:28:57",
+      "content": "Gesundheitsexperten warnen, weil sich mit dem Klimawandel M\u00fccken, die das Chikungunya-Virus \u00fcbertragen, immer weiter ausbreiten auch in Europa. Die Europ\u00e4ische Arzneimittel-Agentur empfiehlt nun eine\u2026 [+3487 chars]",
+      "retrievedAt": "2024-06-07 07:05:55.311579",
+      "internal_id": "d3c370ec22769407f122d5efbdee1d4816df1cbfa96a4a43098e458287dbf7c4",
+      "publishedAtLabel": "Jun 6"
+    },
+    {
+      "id": 9876,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Belga Belga",
+      "title": "Un premier d\u00e9c\u00e8s humain de la grippe aviaire de type H5N2 signal\u00e9, faut-il s'en inqui\u00e9ter? L'OMS fait le point",
+      "description": "Un premier cas mondial de d\u00e9c\u00e8s humain d\u00fb \u00e0 la grippe aviaire de type H5N2 a \u00e9t\u00e9 attest\u00e9 au Mexique, a annonc\u00e9 mercredi l\u2019Organisation mondiale de la Sant\u00e9 (OMS). ...",
+      "url": "https://www.lalibre.be/planete/sante/2024/06/06/un-premier-deces-humain-de-la-grippe-aviaire-de-type-h5n2-signale-faut-il-sen-inquieter-loms-fait-le-point-635QRARJG5F23HQETJWWEVBK7Y/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/KHCXIKBTPBDEVCF7EXHA66C3UI.jpg?auth=4eb5ddca984f08b0e91a934dd8e8c577d902a72228a9ccf43030c1f980d8dc1a&width=1200&height=630&quality=85&focal=256%2C180&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2024-06-06 05:30:58",
+      "content": "La souche H5N2 est diff\u00e9rente de celle (H5N1) en lien avec l\u00e9pid\u00e9mie en cours chez les vaches aux \u00c9tats-Unis, et pour laquelle trois cas humains ont \u00e9t\u00e9 rapport\u00e9s. \u00c2g\u00e9e de 59 ans, la personne est d\u00e9\u2026 [+1963 chars]",
+      "retrievedAt": "2024-06-07 07:05:53.579060",
+      "internal_id": "59a366454fc606fa9f6a92f2d881e5bfe279d15b4fff6c3f148f8c060d26a6f4",
+      "publishedAtLabel": "Jun 6"
+    },
+    {
+      "id": 9877,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Belga Belga",
+      "title": "Premier d\u00e9c\u00e8s humain de la grippe aviaire de type H5N2, selon l\u2019OMS",
+      "description": "Un premier cas mondial de d\u00e9c\u00e8s humain d\u00fb \u00e0 la grippe aviaire de type H5N2 a \u00e9t\u00e9 attest\u00e9 au Mexique, a annonc\u00e9 mercredi l\u2019Organisation mondiale de la Sant\u00e9 (OMS). ...",
+      "url": "https://www.dhnet.be/actu/monde/2024/06/06/premier-deces-humain-de-la-grippe-aviaire-de-type-h5n2-selon-loms-6PXMSW45IRHV7PGKGM4FZPKA5E/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/KHCXIKBTPBDEVCF7EXHA66C3UI.jpg?auth=4eb5ddca984f08b0e91a934dd8e8c577d902a72228a9ccf43030c1f980d8dc1a&width=1200&height=630&quality=85&focal=256%2C180&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2024-06-06 05:22:19",
+      "content": "La souche H5N2 est diff\u00e9rente de celle (H5N1) en lien avec l\u00e9pid\u00e9mie en cours chez les vaches aux \u00c9tats-Unis, et pour laquelle trois cas humains ont \u00e9t\u00e9 rapport\u00e9s. \u00c2g\u00e9e de 59 ans, la personne est d\u00e9\u2026 [+1721 chars]",
+      "retrievedAt": "2024-06-07 07:05:53.583651",
+      "internal_id": "65e834776d35c58e15bcf83c1243a0be324bdc8da9037f12dba56040d1cab10d",
+      "publishedAtLabel": "Jun 6"
+    },
+    {
+      "id": 9879,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u039d\u03b1\u03c4\u03ac\u03c3\u03b1 \u03a3\u03c4\u03b1\u03c3\u03b9\u03bd\u03bf\u03cd",
+      "title": "\u039f \u03c0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5 \u03c0\u03b1\u03b3\u03ba\u03bf\u03c3\u03bc\u03af\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd H5N2",
+      "description": "\u03a3\u03c4\u03bf \u039c\u03b5\u03be\u03b9\u03ba\u03cc \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03ce\u03b8\u03b7\u03ba\u03b5 \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd H52N2 \u03c3\u03b5 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf. \u00ab\u03a0\u03c1\u03cc\u03ba\u03b5\u03b9\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03b1\u03ba\u03ac \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u0391(H5N2), \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03b5\u03af \u03c4\u03bf\u03bd \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u2026 \u039f \u03c0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5 \u03c0\u03b1\u03b3\u03ba\u03bf\u03c3\u03bc\u03af\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u2026",
+      "url": "https://www.naftemporiki.gr/kosmos/1680332/o-protos-thanatos-anthropoy-pagkosmios-apo-ti-gripi-ton-ptinon-h5n2/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2024/06/gripi-ptinon.jpg",
+      "publishedAt": "2024-06-06 03:09:16",
+      "content": "H52N2 . \u00ab (H5N2), \u00bb, , . H5N2 ( H5N1) . 59 . 24 , , . . 17 , , , , , 23 . \u00ab\u00bb , , . 52 H5N2 \u00ab \u00bb , . \u00ab\u00bb. H5N2 , , . H5N2 , , , . , \u00ab \u00bb, . \u00ab H5 \u00bb, . : H5N1 ; 52 51 H5N2, H5N1, . \u2026 [+21 chars]",
+      "retrievedAt": "2024-06-07 07:05:53.596268",
+      "internal_id": "2c07f5bc4542c4b7199a3c5b00685f8829991b6b5c15ddf8bebecdb8a7c2b061",
+      "publishedAtLabel": "Jun 6"
+    },
+    {
+      "id": 9882,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Radyo Ronda",
+      "title": "Cebu: Kaso sa dengue ug COVID-19 nisaka sa Dakbayan sa Sugbo",
+      "description": "Sa ulahing datos nga gipagawas sa Cebu City Health Department (CCHD), pinaagi ni Dr. Daisy Villa gibutyag nga nisaka ang kaso sa dengue ug Covid-19 sa siyudad sa Sugbo. Apan gitataw niini nga dili pa kini angay kabalak-an bisan paman sa pagsaka sa kaso karong\u2026",
+      "url": "https://rpnradio.com/cebu-kaso-sa-dengue-ug-covid-19-nisaka-sa-dakbayan-sa-sugbo/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/06/COVID-and-dengue-cases-at-Sugbo-increases.jpg",
+      "publishedAt": "2024-06-06 02:59:32",
+      "content": "Sa ulahing datos nga gipagawas sa Cebu City Health Department (CCHD), pinaagi ni Dr. Daisy Villa gibutyag nga nisaka ang kaso sa dengue ug Covid-19 sa siyudad sa Sugbo. Apan gitataw niini nga dili p\u2026 [+1104 chars]",
+      "retrievedAt": "2024-06-07 07:05:54.114212",
+      "internal_id": "64b35a09339d5d9323a690ec0f3fc8c1cf746330aee7f0e8df0a0a7225cb4ad0",
+      "publishedAtLabel": "Jun 6"
+    },
+    {
+      "id": 9872,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5 \u03c0\u03b1\u03b3\u03ba\u03bf\u03c3\u03bc\u03af\u03c9\u03c2 \u03b5\u03be\u03b1\u03b9\u03c4\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd H5N2",
+      "description": "\u00ab\u03a0\u03c1\u03cc\u03ba\u03b5\u03b9\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03b1\u03ba\u03ac \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u0391(H5N2)\u00bb \u03c3\u03b5 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf, \u03c4\u03cc\u03bd\u03b9\u03c3\u03b5 \u03bf \u03bf\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2, \u03bc\u03ad\u03c1\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c4\u03bf\u03c5 \u039f\u0397\u0395, \u03c3\u03c4\u03bf \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03cc \u03b4\u03b5\u03bb\u03c4\u03af\u03bf \u03c0\u03bf\u03c5 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5.",
+      "url": "https://www.skai.gr/news/health/protos-thanatos-anthropou-pagkosmios-eksaitias-tis-gripis-ton-ptinon-h5n2",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-05/bird_flu_shutterstock.jpg?itok=anPY-u9b",
+      "publishedAt": "2024-06-06 02:20:26",
+      "content": "\u00ab (H5N2)\u00bb , , , . H5N2 , (). \u00ab (H5N2)\u00bb , , , . H5N2 ( H5N1) , . 59 . 24 , , . . 17 , , , , , 23 . \u00ab\u00bb , , . H5N2 \u00ab \u00bb , . \u00ab\u00bb. H5N2 , , . H5N2 , , , . , \u00ab \u00bb, . \u00ab H5 \u00bb, . H5N2, H5N1\u2026 [+83 chars]",
+      "retrievedAt": "2024-06-07 07:05:53.542008",
+      "internal_id": "dce0c8a7a11ecdc9f80bfb9c8ed30dd2afc76aefe110faf66a4d16dcdd112fb4",
+      "publishedAtLabel": "Jun 6"
+    },
+    {
+      "id": 9873,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0391\u03bd\u03b4\u03c1\u03b5\u03b1\u03c2 \u039c\u03bf\u03c1\u03c6\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+      "title": "\u03a3\u03c4\u03bf \u039c\u03b5\u03be\u03b9\u03ba\u03cc \u03bf 1\u03bf\u03c2 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5 \u03b1\u03c0\u03cc \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd - \u03a0\u03bf\u03b9\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u03b9\u03cc\u03c2 \u03975\u039d2",
+      "description": "\u03a4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c4\u03cd\u03c0\u03bf\u03c5 H5N2 \u03c0\u03b1\u03b3\u03ba\u03bf\u03c3\u03bc\u03af\u03c9\u03c2, \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03ce\u03b8\u03b7\u03ba\u03b5 \u03c3\u03c4\u03bf \u039c\u03b5\u03be\u03b9\u03ba\u03cc. \u03a4\u03b7\u03bd \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b7 \u03ad\u03ba\u03b1\u03bd\u03b5 \u03bf \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 (\u03a0\u039f\u03a5). \u00ab\u03a0\u03c1\u03cc\u03ba\u03b5\u03b9\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03b1\u03ba\u03ac \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u0391 (H5N2)\u00bb \u03c3\u03b5 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf, \u03c4\u2026",
+      "url": "https://www.newsit.gr/kosmos/gripi-ptinon-protos-thanatos-anthropou-pagkosmios-apo-H5N2/4102469/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2024/06/H5N2_APEMPE_06062024.jpg",
+      "publishedAt": "2024-06-06 01:42:48",
+      "content": "H5N2 , . (). \u00ab (H5N2)\u00bb , , . H5N2 ( H5N1) , . 59 . 24 , , , . . 17 , , , , , 23 . \u00ab\u00bb , , . H5N2 \u00ab\u00bb , . \u00ab\u00bb. H5N2 , , . H5N2 , , , . , \u00ab \u00bb, . \u00ab H5 \u00bb, . H5N2, H5N1, . . H5N1, , \u00ab\u00bb . :",
+      "retrievedAt": "2024-06-07 07:05:53.552534",
+      "internal_id": "bcd937f5dd179aa6629fafef66a6357d7f192903a1dbfccb8af1d2d2ad4f065b",
+      "publishedAtLabel": "Jun 6"
+    },
+    {
+      "id": 9883,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u30de\u30e9\u30ea\u30a2\u524a\u6e1b\u3067\u30a2\u30d5\u30ea\u30ab\u7d4c\u6e08\u304c\u5e74\u9593\u5e73\u5747\u7d04160\u5104\u30c9\u30eb\u306e\u62bc\u3057\u4e0a\u3052",
+      "description": "[\u7279\u5b9a\u975e\u55b6\u5229\u6d3b\u52d5\u6cd5\u4ebaMalaria No More Japan] [\u753b\u50cf1: https://prtimes.jp/i/10063/36/resize/d10063-36-d5fb0b423aad976caa28-0.jpg ] \uff086\u67085\u65e5\u3001\u82f1\u56fd\uff09\u30de\u30e9\u30ea\u30a2\u30fb\u30ce\u30fc\u30e2\u30a2UK\u304c\u767a\u8868\u3057\u305f\u5831\u544a\u66f8\u306b\u3088\u308c\u3070\u3001\u300c2030\u5e74\u307e\u3067\u306b\u30de\u30e9\u30ea\u30a2\u30922015\u5e74\u6bd490\uff05\u524a\u6e1b\u300d\u3068\u3044\u3046\u56fd...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000036.000010063.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/10063/36/10063-36-602c994ce0a84f15f3c56eada3d0047f-1811x2560.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2024-06-06 01:00:00",
+      "content": "65UK2030201590GDP1269[1] 16016010[2]310G7401545000[3] 61315G7 WHO60[4]43[5] 20232030GDP3509085[6]GDP G7Gavi Gavi6202 UKCEO G7GaviGavi RBM Partnership to End MalariaCEO2015902030 NPOMalari\u2026 [+876 chars]",
+      "retrievedAt": "2024-06-07 07:05:54.749763",
+      "internal_id": "19717830b35c2c94e0a56e1107918bf5e1cf511006cc4ca0af10e05c61eb132b",
+      "publishedAtLabel": "Jun 6"
+    },
+    {
+      "id": 9871,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Luis Ernesto Quintana Barney",
+      "title": "M\u00e9xico reporta primer caso humano de gripe H5N2, seg\u00fan la Organizaci\u00f3n Mundial de la Salud",
+      "description": "Mientras Estados Unidos lidia con un brote de gripe H5N1 en ganado lechero y en personas que han tenido contacto con ellos, la Organizaci\u00f3n Mundial de la Salud anunci\u00f3 la primera infecci\u00f3n humana conocida con una cepa diferente, H5N2, en una persona en M\u00e9xico\u2026",
+      "url": "https://cnnespanol.cnn.com/2024/06/05/mexico-reporta-primer-caso-humano-de-gripe-h5n2-oms-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/GettyImages-147831162.jpg?quality=100&strip=info",
+      "publishedAt": "2024-06-05 23:13:58",
+      "content": "La OMS reporta la primera muerte humana por gripe aviar H5N2 en M\u00e9xico 0:36 (CNN) -- Mientras Estados Unidos lidia con un brote de gripe H5N1 en ganado lechero y en personas que han tenido contacto \u2026 [+3195 chars]",
+      "retrievedAt": "2024-06-07 07:05:53.531080",
+      "internal_id": "aa1c8c46459b481057c9ee74f2ceabe4c4e0e28dfd1e46043f4fa0f29ed318fb",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 9875,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "S\u00fcddeutsche Zeitung",
+      "title": "Mexiko: Weltweit erster Todesfall durch Vogelgrippe-Subtyp",
+      "description": "Vogelgrippeviren breiten sich weltweit aus. Hunderte Menschen sind daran weltweit in den vergangenen 20 Jahren gestorben. Jetzt hat die WHO in Mexiko-City den ersten best\u00e4tigten Todesfall eines Menschen durch den Virus Typ H5N2 nachgewiesen.",
+      "url": "https://www.sueddeutsche.de/wissen/vogelgrippe-mexiko-subtyp-h5n2-lux.GWpvRW9QWK5rYQVxpJbczK",
+      "urlToImage": "https://www.sueddeutsche.de/2024/06/05/499eb100-bd09-439f-8ed0-fe2d6a4085c2.jpeg?q=60&fm=webp&width=1200&rect=undefined%2Cundefined%2Cundefined%2Cundefined",
+      "publishedAt": "2024-06-05 22:39:39",
+      "content": "Von 2003 bis Mai 2024 waren der WHO aus 23 L\u00e4ndern insgesamt 463 Todesf\u00e4lle nach Infektionen mit Vogelgrippeviren gemeldet worden, es handelte sich aber immer um A (H5N1). Infektionen mit Vogelgrippe\u2026 [+1987 chars]",
+      "retrievedAt": "2024-06-07 07:05:53.574702",
+      "internal_id": "b011b60d81a853aa53ee0e943de38c4d28c619059c5382756c68bc550ba8d11e",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 9868,
+      "query": [
+        "measles"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Beth Mole",
+      "title": "Vaccines don\u2019t cause autism, but the lie won\u2019t die. In fact, it\u2019s getting worse.",
+      "description": "Vaccine misinformation persists as measles cases are soaring.",
+      "url": "https://arstechnica.com/science/2024/06/vaccines-dont-cause-autism-but-the-lie-wont-die-in-fact-its-getting-worse/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-462718746-760x380.jpeg",
+      "publishedAt": "2024-06-05 22:19:15",
+      "content": "Enlarge/ An MMR and VAR vaccine ready for a pediatric vaccination at Kaiser Permanente East Medical offices in Denver in 2015. 34 For years, the US Centers for Disease Control and Prevention has bl\u2026 [+3677 chars]",
+      "retrievedAt": "2024-06-07 07:05:52.826156",
+      "internal_id": "6810d28abf09ce47d859883238dd107546325058b309718dd222dccc751774fa",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 9869,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Stephanie Pappas",
+      "title": "'Increased evidence that we should be alert': H5N1 bird flu is adapting to mammals in 'new ways'",
+      "description": "New research in marine mammals suggests the virus is increasingly adapting to mammalian hosts.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/increased-evidence-that-we-should-be-alert-h5n1-bird-flu-is-adapting-to-mammals-in-new-ways",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/z6cNAfsBq928FgfYabXVaf-1200-80.jpg",
+      "publishedAt": "2024-06-05 21:42:06",
+      "content": "The H5N1 bird flu virus responsible for the current U.S. outbreak in dairy cows is increasingly adapting to spread in mammals, new research in marine mammals suggests. Some experts worry this develop\u2026 [+3041 chars]",
+      "retrievedAt": "2024-06-07 07:05:53.518023",
+      "internal_id": "58fd832f73ac4554166532979b1bddb9b9f516c5870d67c84715cab6e6090584",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 9874,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412\u041e\u0417 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u043e \u043f\u0435\u0440\u0432\u043e\u043c \u0432 \u043c\u0438\u0440\u0435 \u0441\u043b\u0443\u0447\u0430\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c A(H5N2)",
+      "description": "\u0412\u0438\u0440\u0443\u0441 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d \u0443 \u0436\u0438\u0442\u0435\u043b\u044f \u041c\u0435\u043a\u0441\u0438\u043a\u0438, \u043e\u0442\u043c\u0435\u0442\u0438\u043b\u0438 \u0432 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438",
+      "url": "https://tass.ru/obschestvo/21008867",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21008867?u=2024-06-05T20:46:51.939400",
+      "publishedAt": "2024-06-05 20:46:51",
+      "content": ", 5 . //. () A(H5N2). , - , . \" A(H5N2), \". \" A(H5N2), , H5, \", . , \" \". , \" A(H5N2) \". , . \" , , \". 59- , \" \". . , \" \". 17 , , , . 24 , \" - \". , \" , , - \". \" \". H5, A(H5N1), A(H5N6) A(H5N8).\u2026 [+18 chars]",
+      "retrievedAt": "2024-06-07 07:05:53.562974",
+      "internal_id": "f03d01f9d7ddb23335573d5e34c30103e4956f60138364b9a668f0be11e8a19a",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 9878,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "The Canadian Press",
+      "title": "Canada aims to protect cattle industry as U.S. avian flu outbreak spreads",
+      "description": "CALGARY \u2014 As an outbreak of avian influenza in dairy herds south of the border continues to spread, Canadian officials say they are doing everything they can to protect this country\u2019s livestock industry. Since March \u2014 when a highly contagious strain of A(H5N1\u2026",
+      "url": "https://financialpost.com/pmn/commodities-business-pmn/agriculture-commodities-business-pmn/canada-aims-to-protect-cattle-industry-as-u-s-avian-flu-outbreak-spreads",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/06/gac110-the-canadian-press.jpg",
+      "publishedAt": "2024-06-05 20:38:31",
+      "content": "Author of the article: As an outbreak of avian influenza in dairy herds south of the border continues to spread, Canadian officials say they are doing everything they can to protect this country's l\u2026 [+7396 chars]",
+      "retrievedAt": "2024-06-07 07:05:53.588364",
+      "internal_id": "bbe75e38f2f33625a6fb84f65b59bc980efe17feee94101384f67033f2ca07ec",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 9881,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Estado de SP j\u00e1 tem mais casos de dengue neste ano do que todo o Brasil registrou em 2023",
+      "description": "Atualmente, S\u00e3o Paulo \u00e9 o Estado com mais registros da doen\u00e7a no Pa\u00eds, com mais de 1,6 milh\u00e3o de casos; at\u00e9 o momento, 988 pessoas morreram por causa da dengue",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/estado-de-sp-ja-tem-mais-casos-de-dengue-neste-ano-do-que-todo-o-brasil-registrou-em-2023,fa112840171687cad81326b7bbbcacebla9votgc.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-06-05 19:52:33",
+      "content": "Nesta quarta-feira, 5, o Estado de S\u00e3o Paulo atingiu 1.653.356 de casos prov\u00e1veis de dengue desde janeiro de 2024, segundo o Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade. O n\u00famero \u00e9 \u2026 [+1808 chars]",
+      "retrievedAt": "2024-06-07 07:05:54.088860",
+      "internal_id": "4329cade69473e8b52b91d68138525a83db97a1281c124fb6e297af7de66d93f",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 9880,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "DF registra 391 mortes por dengue em 2024, segundo Minist\u00e9rio da Sa\u00fade",
+      "description": "Segundo o Minist\u00e9rio da Sa\u00fade, ainda h\u00e1 outras 27 mortes que est\u00e3o em investiga\u00e7\u00e3o. Em 2024, o DF registrou mais de 262 mil casos de dengue",
+      "url": "https://www.metropoles.com/distrito-federal/df-registra-391-mortes-por-dengue-em-2024-segundo-ministerio-da-saude",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/03/15183518/Movimentac%CC%A7a%CC%83o-de-pacientes-no-Hospital-de-Campanha-da-Forc%CC%A7a-Ae%CC%81rea-Brasileira-montado-para-combate-a-dengue-ao-lado-da-UPA-1-de-Ceila%CC%82ndia-11.jpg",
+      "publishedAt": "2024-06-05 19:39:12",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2696 chars]",
+      "retrievedAt": "2024-06-07 07:05:54.049879",
+      "internal_id": "06fe46f3f3ceff3bddb53bcf66901c9a87e00908ed48b3ef83145f1899df702a",
+      "publishedAtLabel": "Jun 5"
+    },
     {
       "id": 9859,
       "query": [
@@ -25524,6 +25830,150 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2024-04-23 07:05:59.534688",
       "internal_id": "7dd25769ee61a08892685b1478421ba0039c5c3bdb6bb0e16b73f5f48de9005a",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8447,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Shamaan Freeman-Powell",
+      "title": "Parents describe baby's 'scary' measles symptoms as cases soar",
+      "description": "The parents of a five-month-old baby who was left struggling to breathe after contracting measles have described her \"scary\" ordeal as the number of cases soar.",
+      "url": "https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596",
+      "urlToImage": "https://e3.365dm.com/24/04/1600x900/skynews-james-house-measles_6529267.jpg?20240421195101",
+      "publishedAt": "2024-04-21 18:37:00",
+      "content": "The parents of a five-month-old baby who was left struggling to breathe after contracting measles have described her \"scary\" ordeal as the number of cases soar. England is facing a measles emergency\u2026 [+2610 chars]",
+      "retrievedAt": "2024-04-22 19:06:22.414445",
+      "internal_id": "7dfaa5ddbddab031738b86c2abc216f4aaaec148feaedbb35ee33198c3b1981c",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8454,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Ni \u201cposdengue\u201d ni Covid: revelan una infrecuente causa detr\u00e1s del reciente aumento de neumon\u00edas",
+      "description": "Se trata de la psitacosis, seg\u00fan inform\u00f3 el Ministerio de Salud; difunden recomendaciones para la consulta r\u00e1pida y el diagn\u00f3stico oportuno de esta enfermedad transmitida por aves infectadas",
+      "url": "https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/guardia-del-hospital-bernardino-HPL5HLFZDVAJFFMRBME766FYCQ.JPG?auth=a743da3d8eebf48b342a8d078b1082f3dd290013d2b48860ce22bb5513d07595&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-21 17:52:19",
+      "content": "Las autoridades sanitarias nacionales confirmaron en las \u00faltimas horas la detecci\u00f3n de un aumento de casos de psitacosis, una enfermedad transmitida por aves infectadas, a partir de la investigaci\u00f3n \u2026 [+4124 chars]",
+      "retrievedAt": "2024-04-23 07:06:00.344934",
+      "internal_id": "37fadd4e582d1f910825963600ee42cdeb552ce649e72315a997c9751698a37c",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8450,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023",
+      "description": "There were 24 cases of leptospirosis in the city in 2023, higher than in any prior year. 2024 is already shaping up to be another big year in the Big Apple for infections. The post Disease Caused by Rat Urine Surged in New York City to Record Levels during 20\u2026",
+      "url": "https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2020/05/LI-93-Cannibal-Rats.jpg",
+      "publishedAt": "2024-04-21 16:00:38",
+      "content": "Between the crime, illegal immigrants, and the anti-Israel demonstrations, it\u2019s a really tough time for New York City residents. Thanks to rats, life is getting tougher. The city Health Department h\u2026 [+4461 chars]",
+      "retrievedAt": "2024-04-22 19:06:25.900854",
+      "internal_id": "d579b8052f3d830c44802a894f3a6eeec8d9a20063ab5831b74451771c73c978",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8446,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "Measles Outbreaks Are Worrying Public Health Officials",
+      "description": "The propaganda surrounding COVID vaccines has led to parental uncertainty about other vaccines. This may explain recent measles outbreaks. For most of us, measles is a childhood disease that was conquered by scientists many years ago. But it\u2019s returning. The \u2026",
+      "url": "https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/",
+      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+      "publishedAt": "2024-04-21 15:00:00",
+      "content": "The propaganda surrounding COVID vaccines has led to parental uncertainty about other vaccines. This may explain recent measles outbreaks. For most of us, measles is a childhood disease that was conq\u2026 [+4009 chars]",
+      "retrievedAt": "2024-04-22 19:06:22.410238",
+      "internal_id": "c529a7ea4b7ef396bdd4509d1008fa20e97a2c3c79183880d9c3370059437a13",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8445,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Omer Awan, Contributor, \n Omer Awan, Contributor\n https://www.forbes.com/sites/omerawan/",
+      "title": "Why The Rising Measles Cases In The United States Are A Big Deal",
+      "description": "121 cases of Measles have been reported across 18 states in the United States since January 1st of this year, according to the CDC.",
+      "url": "https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6622bb4582c99b0118fcce69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-21 12:20:40",
+      "content": "AUCKLAND, NEW ZEALAND - SEPTEMBER 10: A measles vaccine is prepared on September 10, 2019 in ... [+] Auckland, New Zealand. (Photo by Fiona Goodall/Getty Images) Getty Images 121 cases of Measles h\u2026 [+4164 chars]",
+      "retrievedAt": "2024-04-22 19:06:22.390398",
+      "internal_id": "281c68072127cc1658eb764a08dec7f892ceda82c9d428cb33cb1f03be3d422f",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8449,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Paz Garc\u00eda Pastormerlo",
+      "title": "Investigaci\u00f3n. Una familia de plantas que crece en la Argentina podr\u00eda ser la llave en la lucha contra el dengue",
+      "description": "Un equipo de cient\u00edficos del Conicet logr\u00f3 identificar extractos y compuestos naturales y avanzan en dise\u00f1ar c\u00f3mo inhibir de forma efectiva el virus que transmite el mosquito Aedes aegypti",
+      "url": "https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-planta-que-podria-contribuir-a-la-cura-del-2U5LRCYWYFCJDGHR2E3SH6U5DM.jpg?auth=79d2192f13bb73398d2baaf37b05469f58d48cba47b12c18b1d25b356dbc614c&width=768&quality=70&smart=false",
+      "publishedAt": "2024-04-21 12:00:00",
+      "content": "SAN CARLOS DE BARILOCHE.- Plantas de la familia Asteraceae que crecen en la Argentina podr\u00edan ser la llave en la lucha contra el dengue: cient\u00edficos del Consejo Nacional de Investigaciones Cient\u00edfica\u2026 [+5477 chars]",
+      "retrievedAt": "2024-04-22 19:06:23.386179",
+      "internal_id": "21f9dce4d8b0a9d795ab116816535c49ed9984acaf4151b3711e997a274d97a1",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8457,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Idntimes.com",
+      "author": "Diah Nur Fitriana",
+      "title": "10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif",
+      "description": "Lantas, merk lotion anti nyamuk anak apa saja yang aman untuk kulit sensitifnya? Berikut beberapa rekomendasi lotion anti nyamuk untuk anak.",
+      "url": "https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2",
+      "urlToImage": "https://cdn.idntimes.com/content-images/community/2024/04/anak-memakai-lotion-nyamuk-97bfe5b5aaaac713cca17199da4a87b6-2cc7d979c0d12f4b08960409958ee92a_600x400.jpg",
+      "publishedAt": "2024-04-21 11:25:04",
+      "content": "Saat ini, demam berdarah dengue (DBD) menjadi isu kesehatan masyarakat Indonesia. Penyakit DBD disebabkan oleh virus dengue yang menular ke manusia melalui perantara nyamukAedes aegypti. Salah satu c\u2026 [+465 chars]",
+      "retrievedAt": "2024-04-23 07:06:00.363494",
+      "internal_id": "a17bda8dd2ca4d819fb3137a63c9f59f890fb72b2ac1225b91d7796c8f0dce2a",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 8448,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Homework",
+      "title": "A dengue me pegou. A culpa \u00e9 do prefeito Ricardo Nunes",
+      "description": "Passei os \u00faltimos quatro dias congelando, assando, insone, est\u00fapido, suarento, paralisado, ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/20/dengue-vbhga9v1ufqu.jpg",
+      "publishedAt": "2024-04-21 09:45:03",
+      "content": "ResumoO texto retrata a situa\u00e7\u00e3o de S\u00e3o Paulo, no que diz respeito \u00e0 dengue, mencionando falhas na preven\u00e7\u00e3o pela administra\u00e7\u00e3o de Ricardo Nunes, como armadilhas para o mosquito e o custo alto de rep\u2026 [+4381 chars]",
+      "retrievedAt": "2024-04-22 19:06:23.329383",
+      "internal_id": "e428570398b648c153cb7d9203a5e6f7ec427bf4af1d6f3c06b0cd5a981b70d0",
       "publishedAtLabel": "Apr 21"
     }
   ]
