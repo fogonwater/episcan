@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-06-07 07:05
-- **Most recent article:** 2024-06-06 07:00:22
+- **New articles in last harvest:** 27
+- **Last harvest:** 2024-06-07 19:05
+- **Most recent article:** 2024-06-06 19:04:00
 
 ---
 
@@ -12,26 +12,30 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 77 | 57 | 87 | 58 | 61 | 37 | 491 |
-| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 36 | 316 |
-| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 12 | 198 |
-| measles | 28 | 24 | 10 | 29 | 15 | 16 | 9 | 131 |
-| mpox | 8 | 36 | 3 | 10 | 9 | 16 | 4 | 86 |
+| dengue | 110 | 77 | 57 | 87 | 58 | 61 | 42 | 492 |
+| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 49 | 329 |
+| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 14 | 200 |
+| measles | 25 | 24 | 10 | 29 | 15 | 16 | 9 | 128 |
+| mpox | 8 | 36 | 3 | 10 | 9 | 16 | 7 | 89 |
 | rabies | 3 | 4 | 22 | 10 | 8 | 15 | 6 | 68 |
 | chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 4 | 54 |
-| pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 5 | 34 |
-| meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 2 | 29 |
-| hpai | 0 | 0 | 4 | 3 | 7 | 12 | 1 | 27 |
+| pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 6 | 35 |
+| meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 3 | 30 |
+| hpai | 0 | 0 | 4 | 3 | 7 | 12 | 2 | 28 |
 | zika | 3 | 8 | 2 | 6 | 3 | 3 | 0 | 25 |
 | sarampión | 10 | 8 | 1 | 0 | 0 | 0 | 0 | 19 |
-| leptospirosis | 3 | 2 | 1 | 3 | 0 | 5 | 1 | 15 |
-| yersinia | 0 | 5 | 1 | 0 | 6 | 0 | 0 | 12 |
+| leptospirosis | 2 | 2 | 1 | 3 | 0 | 5 | 1 | 14 |
+| yersinia | 0 | 5 | 1 | 0 | 6 | 0 | 1 | 13 |
 | typhoid | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-23 (yersinia)
+
+- [Gtk package not found](https://askubuntu.com/questions/1516751/gtk-package-not-found) (Askubuntu.com)
 
 ## 24-23 (rabies)
 
@@ -49,6 +53,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (pertussis)
 
+- [Τι είναι ο κοκκύτης – Τα συμπτώματα, η μετάδοση και οι τρόποι προστασίας](https://www.naftemporiki.gr/health/1680828/ti-einai-o-kokkytis-ta-symptomata-i-metadosi-kai-oi-tropoi-prostasias/) (Naftemporiki.gr)
+
 - [Pertussis cases soar in France, rise in Europe](https://www.euractiv.com/section/health-consumers/news/pertussis-cases-soar-in-france-rise-in-europe/) (EURACTIV)
 
 - [Whooping Cough Map Reveals Why FDA Is Concerned](https://www.newsweek.com/whooping-cough-map-fda-concerned-1908394) (Newsweek)
@@ -61,6 +67,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (mpox)
 
+- [Mpox remains a threat, but vaccines are more readily available](https://www.cnn.com/2024/06/06/health/mpox-vaccine-lgbtq-pride-month/index.html) (CNN)
+
+- [Mpox public health campaign was successful but cases still occur: Study](https://abcnews.go.com/Health/mpox-public-health-campaign-successful-cases-occur-low/story?id=110891706) (ABC News)
+
+- [Mpox Surveillance Based on Rash Characteristics - 13 Emergency Departments, United States, June-December 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7322a1.htm) (Cdc.gov)
+
 - [Afrika ülkesinde 'M çiçeği' alarmı: Ölümle sonuçlanıyor](https://www.odatv.com/guncel/afrika-ulkesinde-m-cicegi-alarmi-olumle-sonuclaniyor-120047276) (Odatv.com)
 
 - [Gefährliche Virus-Variante im Kongo: Ausbreitung über Afrika hinaus zu befürchten](https://www.tagesspiegel.de/wissen/gefahrliche-virus-variante-im-kongo-ausbreitung-uber-afrika-hinaus-zu-befurchten-11760356.html) (Der Tagesspiegel)
@@ -70,6 +82,8 @@ Source: [News API](https://newsapi.org/)
 - [Health Officials Push Mpox Vaccine After Bavarian Nordic’s FDA-Approved Shot Hits Commercial Market](https://childrenshealthdefense.org/defender/monkeypox-vaccine-jynneos-fda-approved-market/) (Childrenshealthdefense.org)
 
 ## 24-23 (meningitis)
+
+- [Persistent spatial clustering and predictors of pediatric La Crosse virus neuroinvasive disease risk in eastern Tennessee and western North Carolina, 2003–2020](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012186) (Plos.org)
 
 - [Bebe Vio is changing the conversation on disability in sport](https://www.dazeddigital.com/life-culture/article/62740/1/bebe-vio-interview-profile-fencing-paralympics-2024-disability-sports) (Dazed)
 
@@ -96,6 +110,10 @@ Source: [News API](https://newsapi.org/)
 - [Health officials warn of possible measles exposure at Philadelphia International Airport](https://www.fox29.com/news/health-officials-warn-of-possible-measles-exposure-at-philadelphia-international-airport) (FOX 29 News Philadelphia)
 
 ## 24-23 (malaria)
+
+- [Antimalarial drug is effective against tick-borne infection babesiosis](https://ysph.yale.edu/news-article/antimalarial-drug-is-effective-against-tick-borne-infection-babesiosis/) (Yale.edu)
+
+- [Joel Breman: infectious diseases physician who investigated the first outbreak of Ebola](https://www.bmj.com/content/385/bmj.q1240) (The BMJ)
 
 - [マラリア削減でアフリカ経済が年間平均約160億ドルの押し上げ](https://prtimes.jp/main/html/rd/p/000000036.000010063.html) (Prtimes.jp)
 
@@ -127,9 +145,37 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (hpai)
 
+- [New Bird Flu Change Sparks Scientists' Warning: 'Be Alert!'](https://www.newsweek.com/bird-flu-new-scientists-1909094) (Newsweek)
+
 - [Avian influenza viruses in New Zealand wild birds, with an emphasis on subtypes H5 and H7: Their distinctive epidemiology and genomic properties](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303756) (Plos.org)
 
 ## 24-23 (h5n1)
+
+- [Bird Flu—H5N1 Vs. H5N2. What’s In A Name? Why The Worry?](https://www.forbes.com/sites/judystone/2024/06/06/bird-flu-h5n1-vs-h5n2-whats-in-a-name-why-the-worry/) (Forbes)
+
+- [OMS pide estar alerta tras la primera muerte por gripe aviar en México](https://aristeguinoticias.com/0606/mundo/oms-pide-estar-alerta-tras-la-primera-muerte-por-gripe-aviar-en-mexico/) (Aristeguinoticias.com)
+
+- [Crescono i timori per l'aviaria, un morto in Messico](https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/06/06/oms-un-morto-per-aviaria-in-messico_7ed6ae35-71eb-459c-8216-828ccf4a38a0.html) (ANSA.it)
+
+- [Bird Flu (H5N1) Explained: Bird Flu Has Killed Dozens Of Dairy Cows In Multiple States, Report Says](https://www.forbes.com/sites/ariannajohnson/2024/06/06/bird-flu-h5n1-explained-bird-flu-has-killed-dozens-of-dairy-cows-in-multiple-states-report-says/) (Forbes)
+
+- [آنفلوانزای پرندگان جان یک مرد را در مکزیک گرفت](https://www.isna.ir/news/1403031711284/آنفلوانزای-پرندگان-جان-یک-مرد-را-در-مکزیک-گرفت) (Isna.ir)
+
+- [آنفولانزای پرندگان جان یک مرد را در مکزیک گرفت](https://www.isna.ir/news/1403031711284/آنفولانزای-پرندگان-جان-یک-مرد-را-در-مکزیک-گرفت) (Isna.ir)
+
+- [Another Bird Flu Variant Reaches Humans: What To Know About H5N2—After First-Ever Confirmed Death](https://www.forbes.com/sites/roberthart/2024/06/06/another-bird-flu-variant-reaches-humans-what-to-know-about-h5n2-after-first-ever-confirmed-death/) (Forbes)
+
+- [Врач Поздняков рассказал об опасности высокопатогенного штамма птичьего гриппа](https://rg.ru/2024/06/06/vrach-pozdniakov-rasskazal-ob-opasnosti-vysokopatogennogo-shtamma-ptichego-grippa.html) (Rg.ru)
+
+- [PRONTI A UN NUOVO LOCKDOWN? LA PROSSIMA PANDEMIA STA ARRIVANDO – IN MESSICO UN UOMO DI 59 ANNI È MORTO PER L’INFLUENZA AVIARIA: È IL PRIMO CASO UMANO DOVUTO AL VIRUS A/H5N2 AL MONDO, DIVERSO DA QUELLO CHE HA CAUSATO UN’EPIDEMIA TRA GLI ANIMALI NEGLI STATI UNITI…](https://www.dagospia.com/rubrica-29/cronache/pronti-nuovo-lockdown-prossima-pandemia-sta-arrivando-ndash-397440.htm) (Dagospia.com)
+
+- [Perché l’influenza aviaria preoccupa gli scienziati](https://www.internazionale.it/magazine/2024/06/06/perche-l-influenza-aviaria-preoccupa-gli-scienziati) (Internazionale.it)
+
+- [Erster Todesfall durch Vogelgrippe-Variante H5N2](https://www.tagesschau.de/ausland/amerika/vogelgrippe-h5n2-todesfall-100.html) (tagesschau.de)
+
+- [Cura para gripe aviária pode depender de ovos de galinha; entenda](https://olhardigital.com.br/2024/06/06/medicina-e-saude/cura-para-gripe-aviaria-pode-depender-de-ovos-de-galinha-entenda/) (Olhardigital.com.br)
+
+- [La grippe aviaire H5N2 fait un premier mort au Mexique, l’OMS se veut rassurante](https://www.huffingtonpost.fr/science/article/la-grippe-aviaire-h5n2-fait-un-premier-mort-au-mexique-l-oms-se-veut-rassurante_235064.html) (Le HuffPost)
 
 - [墨西哥現首例人類染 H5N2 禽流感變異株死亡，病毒來源不明](https://technews.tw/2024/06/06/first-human-death-from-h5n2-infection-in-mexico/) (Technews.tw)
 
@@ -204,6 +250,16 @@ Source: [News API](https://newsapi.org/)
 - [牛也會感染「禽流感」？美國爆發乳牛H5N1疫情，喝牛奶、吃美牛有健康風險嗎？](https://www.thenewslens.com/article/203397) (Thenewslens.com)
 
 ## 24-23 (dengue)
+
+- [Új járvány terjed megállíthatatlanul, egyre súlyosabb a helyzet](https://www.portfolio.hu/gazdasag/20240606/uj-jarvany-terjed-megallithatatlanul-egyre-sulyosabb-a-helyzet-690807) (Portfolio.hu)
+
+- [Estado de SP ultrapassa marca de mil mortes por dengue neste ano](https://www.metropoles.com/sao-paulo/estado-de-sp-ultrapassa-marca-de-mil-mortes-por-dengue-neste-ano) (Metropoles.com)
+
+- [CDSCO panel gives nod for continuation of phase-II clinical trial of SII's dengue vaccine](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cdsco-panel-gives-nod-for-continuation-of-phase-ii-clinical-trial-of-siis-dengue-vaccine/articleshow/110772972.cms) (The Times of India)
+
+- [El ECDC notifica más de 7,5 millones de casos de dengue en 73 países desde principios de año](https://www.infosalus.com/actualidad/noticia-ecdc-notifica-mas-75-millones-casos-dengue-73-paises-principios-ano-20240606111709.html) (Infosalus.com)
+
+- [Dengue : quels symptômes et comment prévenir la maladie transmise par le moustique tigre ?](https://www.huffingtonpost.fr/life/article/dengue-quels-symptomes-et-comment-prevenir-la-maladie-transmise-par-le-moustique-tigre-clx1_223117.html) (Le HuffPost)
 
 - [Cebu: Kaso sa dengue ug COVID-19 nisaka sa Dakbayan sa Sugbo](https://rpnradio.com/cebu-kaso-sa-dengue-ug-covid-19-nisaka-sa-dakbayan-sa-sugbo/) (Rpnradio.com)
 
@@ -2813,12 +2869,6 @@ Source: [News API](https://newsapi.org/)
 
 - [New Hampshire's GOP Is Taking a Stand--Against the Polio Vaccine (Julia Métraux/Mother Jones)](https://www.memeorandum.com/240421/p32) (Memeorandum.com)
 
-- [Parents describe baby's 'scary' measles symptoms as cases soar](https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596) (Sky.com)
-
-- [Measles Outbreaks Are Worrying Public Health Officials](https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/) (Dianeravitch.net)
-
-- [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
-
 ## 24-17 (malaria)
 
 - [Experții avertizează: Mai mult de jumătate din populația lumii s-ar îmbolnăvi de malarie și febră dengue până la finalul secolului](https://www.digi24.ro/stiri/externe/mapamond/peste-jumatate-din-populatia-lumii-ar-putea-fi-expusa-riscului-de-boli-transmise-de-tantari-2773301) (Digi24.ro)
@@ -2980,8 +3030,6 @@ Source: [News API](https://newsapi.org/)
 - [What dog owners should know about leptospirosis](https://phys.org/news/2024-04-dog-owners-leptospirosis.html) (Phys.Org)
 
 - [Climate-driven models of leptospirosis dynamics in tropical islands from three oceanic basins](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011717) (Plos.org)
-
-- [Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023](https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/) (Legalinsurrection.com)
 
 ## 24-17 (dengue)
 
@@ -3204,14 +3252,6 @@ Source: [News API](https://newsapi.org/)
 - [Dealing a knockout blow to dengue]( https://en.setopati.com/International/162939 ) (Setopati.com)
 
 - [El mapa del dengue: con una tendencia incierta aún, la epidemia supera los 300.000 casos y siguen las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-una-tendencia-incierta-aun-la-epidemia-supera-los-300000-casos-y-siguen-las-nid21042024/) (La Nacion)
-
-- [Ni “posdengue” ni Covid: revelan una infrecuente causa detrás del reciente aumento de neumonías](https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/) (La Nacion)
-
-- [Investigación. Una familia de plantas que crece en la Argentina podría ser la llave en la lucha contra el dengue](https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/) (La Nacion)
-
-- [10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif](https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2) (Idntimes.com)
-
-- [A dengue me pegou. A culpa é do prefeito Ricardo Nunes](https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html) (Terra.com.br)
 
 ## 24-17 (chikungunya)
 
