@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 27
-- **Last harvest:** 2024-06-07 19:05
-- **Most recent article:** 2024-06-06 19:04:00
+- **New articles in last harvest:** 13
+- **Last harvest:** 2024-06-08 07:06
+- **Most recent article:** 2024-06-07 06:17:00
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 110 | 77 | 57 | 87 | 58 | 61 | 42 | 492 |
-| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 49 | 329 |
-| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 14 | 200 |
-| measles | 25 | 24 | 10 | 29 | 15 | 16 | 9 | 128 |
-| mpox | 8 | 36 | 3 | 10 | 9 | 16 | 7 | 89 |
+| dengue | 114 | 77 | 57 | 87 | 58 | 61 | 45 | 499 |
+| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 54 | 334 |
+| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 17 | 203 |
+| measles | 28 | 24 | 10 | 29 | 15 | 16 | 10 | 132 |
+| mpox | 8 | 36 | 3 | 10 | 9 | 16 | 8 | 90 |
 | rabies | 3 | 4 | 22 | 10 | 8 | 15 | 6 | 68 |
 | chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 4 | 54 |
 | pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 6 | 35 |
@@ -24,7 +24,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | hpai | 0 | 0 | 4 | 3 | 7 | 12 | 2 | 28 |
 | zika | 3 | 8 | 2 | 6 | 3 | 3 | 0 | 25 |
 | sarampión | 10 | 8 | 1 | 0 | 0 | 0 | 0 | 19 |
-| leptospirosis | 2 | 2 | 1 | 3 | 0 | 5 | 1 | 14 |
+| leptospirosis | 3 | 2 | 1 | 3 | 0 | 5 | 1 | 15 |
 | yersinia | 0 | 5 | 1 | 0 | 6 | 0 | 1 | 13 |
 | typhoid | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 5 |
 
@@ -67,6 +67,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (mpox)
 
+- [Mpox Numbers Are Rising in Australia – Here’s Everything You Need To Know](https://www.starobserver.com.au/news/mpox-everything-you-need-to-know/231464) (Starobserver.com.au)
+
 - [Mpox remains a threat, but vaccines are more readily available](https://www.cnn.com/2024/06/06/health/mpox-vaccine-lgbtq-pride-month/index.html) (CNN)
 
 - [Mpox public health campaign was successful but cases still occur: Study](https://abcnews.go.com/Health/mpox-public-health-campaign-successful-cases-occur-low/story?id=110891706) (ABC News)
@@ -91,6 +93,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (measles)
 
+- [Healthier Together: Health officials sound alarm on measles](https://www.kiro7.com/news/local/healthier-together-health-officials-sound-alarm-measles/LSEZWHRYFVDPNAOHYSNNYGIHPI/) (KIRO Seattle)
+
 - [Vaccines don’t cause autism, but the lie won’t die. In fact, it’s getting worse.](https://arstechnica.com/science/2024/06/vaccines-dont-cause-autism-but-the-lie-wont-die-in-fact-its-getting-worse/) (Ars Technica)
 
 - [Forty-seven confirmed measles cases in State, latest figures find](https://www.irishtimes.com/health/2024/06/05/forty-seven-confirmed-measles-cases-in-state-latest-figures-find/) (The Irish Times)
@@ -110,6 +114,12 @@ Source: [News API](https://newsapi.org/)
 - [Health officials warn of possible measles exposure at Philadelphia International Airport](https://www.fox29.com/news/health-officials-warn-of-possible-measles-exposure-at-philadelphia-international-airport) (FOX 29 News Philadelphia)
 
 ## 24-23 (malaria)
+
+- [Indonesian president in damage control over new capital](https://www.thestar.com.my/news/world/2024/06/07/indonesian-president-in-damage-control-over-new-capital) (The Star Online)
+
+- [Indonesian president in damage control over new capital](https://www.marketscreener.com/news/latest/Indonesian-president-in-damage-control-over-new-capital-46925485/) (Marketscreener.com)
+
+- [5,000 Bauchi pregnant women record rise in malaria attack](https://punchng.com/5000-bauchi-pregnant-women-record-rise-in-malaria-attack/) (The Punch)
 
 - [Antimalarial drug is effective against tick-borne infection babesiosis](https://ysph.yale.edu/news-article/antimalarial-drug-is-effective-against-tick-borne-infection-babesiosis/) (Yale.edu)
 
@@ -150,6 +160,16 @@ Source: [News API](https://newsapi.org/)
 - [Avian influenza viruses in New Zealand wild birds, with an emphasis on subtypes H5 and H7: Their distinctive epidemiology and genomic properties](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303756) (Plos.org)
 
 ## 24-23 (h5n1)
+
+- [美乳牛感染禽流感疫情肆虐，已有五州現死亡案例](https://finance.technews.tw/2024/06/07/dairy-cows-die-from-avian-influenza-in-5-us-states/) (Technews.tw)
+
+- [【ヤバい】鳥インフルエンザ「H5N2型」、人間への感染を世界で初確認・・・感染経路は不明](http://jin115.com/archives/52401422.html) (Jin115.com)
+
+- [Avian Influenza A(H5N1) Virus among Dairy Cattle, Texas, USA](https://wwwnc.cdc.gov/eid/article/30/7/24-0717_article) (Cdc.gov)
+
+- [H5N1, la gripe aviar que ha matado a decenas de vacas lecheras en EU](https://www.forbes.com.mx/h5n1-la-gripe-aviar-que-ha-matado-a-decenas-de-vacas-lecheras-en-eu/) (Forbes.com.mx)
+
+- [A New Bird Flu Death Is Making Experts Uneasy](https://time.com/6986249/new-bird-flu-death/) (Time)
 
 - [Bird Flu—H5N1 Vs. H5N2. What’s In A Name? Why The Worry?](https://www.forbes.com/sites/judystone/2024/06/06/bird-flu-h5n1-vs-h5n2-whats-in-a-name-why-the-worry/) (Forbes)
 
@@ -250,6 +270,12 @@ Source: [News API](https://newsapi.org/)
 - [牛也會感染「禽流感」？美國爆發乳牛H5N1疫情，喝牛奶、吃美牛有健康風險嗎？](https://www.thenewslens.com/article/203397) (Thenewslens.com)
 
 ## 24-23 (dengue)
+
+- [Actress Namratha Gowda hospitalized for Dengue; Shares health update with fans](https://timesofindia.indiatimes.com/tv/news/kannada/actress-namratha-gowda-hospitalized-for-dengue-shares-health-update-with-fans/articleshow/110786106.cms) (The Times of India)
+
+- [Sábado (8/6) será o Dia D contra a pólio no DF. Veja onde se vacinar](https://www.metropoles.com/distrito-federal/sabado-8-6-sera-o-dia-d-contra-a-polio-no-df-veja-onde-se-vacinar) (Metropoles.com)
+
+- [Com grávida entre vítimas, Campinas chega a 35 mortes por dengue 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/06/com-gravida-entre-vitimas-campinas-chega-a-35-mortes-por-dengue-2024.ghtml) (Globo)
 
 - [Új járvány terjed megállíthatatlanul, egyre súlyosabb a helyzet](https://www.portfolio.hu/gazdasag/20240606/uj-jarvany-terjed-megallithatatlanul-egyre-sulyosabb-a-helyzet-690807) (Portfolio.hu)
 
@@ -2869,6 +2895,12 @@ Source: [News API](https://newsapi.org/)
 
 - [New Hampshire's GOP Is Taking a Stand--Against the Polio Vaccine (Julia Métraux/Mother Jones)](https://www.memeorandum.com/240421/p32) (Memeorandum.com)
 
+- [Parents describe baby's 'scary' measles symptoms as cases soar](https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596) (Sky.com)
+
+- [Measles Outbreaks Are Worrying Public Health Officials](https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/) (Dianeravitch.net)
+
+- [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
+
 ## 24-17 (malaria)
 
 - [Experții avertizează: Mai mult de jumătate din populația lumii s-ar îmbolnăvi de malarie și febră dengue până la finalul secolului](https://www.digi24.ro/stiri/externe/mapamond/peste-jumatate-din-populatia-lumii-ar-putea-fi-expusa-riscului-de-boli-transmise-de-tantari-2773301) (Digi24.ro)
@@ -3030,6 +3062,8 @@ Source: [News API](https://newsapi.org/)
 - [What dog owners should know about leptospirosis](https://phys.org/news/2024-04-dog-owners-leptospirosis.html) (Phys.Org)
 
 - [Climate-driven models of leptospirosis dynamics in tropical islands from three oceanic basins](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011717) (Plos.org)
+
+- [Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023](https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/) (Legalinsurrection.com)
 
 ## 24-17 (dengue)
 
@@ -3252,6 +3286,14 @@ Source: [News API](https://newsapi.org/)
 - [Dealing a knockout blow to dengue]( https://en.setopati.com/International/162939 ) (Setopati.com)
 
 - [El mapa del dengue: con una tendencia incierta aún, la epidemia supera los 300.000 casos y siguen las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-una-tendencia-incierta-aun-la-epidemia-supera-los-300000-casos-y-siguen-las-nid21042024/) (La Nacion)
+
+- [Ni “posdengue” ni Covid: revelan una infrecuente causa detrás del reciente aumento de neumonías](https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/) (La Nacion)
+
+- [Investigación. Una familia de plantas que crece en la Argentina podría ser la llave en la lucha contra el dengue](https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/) (La Nacion)
+
+- [10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif](https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2) (Idntimes.com)
+
+- [A dengue me pegou. A culpa é do prefeito Ricardo Nunes](https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html) (Terra.com.br)
 
 ## 24-17 (chikungunya)
 
