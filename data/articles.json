@@ -1,8 +1,386 @@
 {
-  "last_updated": "2024-06-08 07:06",
-  "count_articles_total": 1479,
-  "count_articles_new": 13,
+  "last_updated": "2024-06-08 19:06",
+  "count_articles_total": 1492,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 9926,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WSB Atlanta",
+      "author": "Wsbtv.com News Staff",
+      "title": "Rabid fox bites person in Gwinnett County",
+      "description": "A fox tested positive for rabies after biting a Gwinnett County resident earlier this week.",
+      "url": "https://www.wsbtv.com/news/local/gwinnett-county/rabid-fox-bites-person-gwinnett-county/KTXHRH2BABFBPK4X7SBM2EQFUU/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/DX-2LlSIm4MJUQbiKZ4bklgk_RM=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/5TVZIRJLQZCB3CQBYS5P7W2USU.jpg",
+      "publishedAt": "2024-06-07 17:30:40",
+      "content": "LILBURN, Ga. \u2014 A fox tested positive for rabies after biting a Gwinnett County resident earlier this week. The rabid fox was found near Wayside Court in Lilburn after it bit someone on Monday. The \u2026 [+1325 chars]",
+      "retrievedAt": "2024-06-08 19:05:59.427175",
+      "internal_id": "678bebf125bcbada2f76a556900f1476cf28705da450c4926f7822ca5332a659",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9931,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Dengue: Brasil ultrapassa 3.500 mortes em 2024",
+      "description": "O n\u00famero de mortes por dengue no Brasil \u00e9 recorde e j\u00e1 superou todos os \u00f3bitos registrados em todo o ano passado O post Dengue: Brasil ultrapassa 3.500 mortes em 2024 apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/06/07/medicina-e-saude/dengue-brasil-ultrapassa-3-500-mortes-em-2024/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/06/dengue-1.jpg",
+      "publishedAt": "2024-06-07 14:16:53",
+      "content": "A epidemia de dengue no Brasil atingiu um novo patamar preocupante. As mortes confirmadas pela doen\u00e7a no pa\u00eds ultrapassaram a marca de 3.500 apenas em 2024. O n\u00famero \u00e9 recorde e j\u00e1 superou todos os \u00f3\u2026 [+1360 chars]",
+      "retrievedAt": "2024-06-08 19:06:00.944448",
+      "internal_id": "a9447e1885b81da5f66e622fd23940ecfa49d9aea0da180785aedab40b9ffbae",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9927,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "News12.com",
+      "author": "Lanette Espy",
+      "title": "New Jersey Department of Health warns of measles exposure",
+      "description": "The exposure was potentially June 1 between noon and 3:30 p.m. at the Emergency Department, Penn Medicine Princeton Medical Center in Plainsboro.",
+      "url": "http://newjersey.news12.com/new-jersey-department-of-health-warns-measles-exposure",
+      "urlToImage": "https://images-cf.news12static.com/3kqcuzntcg31/5A2jufRLF1DsDw7W2yOMq3/b18ac38682aca8fce25ee99528769400/measles.png?fit=thumb&w=1920&h=1080&q=80&fm=webp",
+      "publishedAt": "2024-06-07 14:08:23",
+      "content": "Topics you care about, straight to your inbox",
+      "retrievedAt": "2024-06-08 19:05:59.656059",
+      "internal_id": "ccd3ea4b6aaa561fecbc3221b7aa4671149c1be7d2c7c7d065c793eb9fbacb1c",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9935,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "S\u00f4nia Maria Cavalcante da Rocha, Raull Costa Pires, Daniela Cristina Sensato Monteiro, Tha\u00eds Cavalcante Rocha Cronemberges, Nat\u00e1lia Vasconcelos de Souza, Jeov\u00e1 Keny Baima Colares, Danielle Malta Lima",
+      "title": "Is there an overestimation of dengue compared with that of other acute febrile syndromes in childhood?",
+      "description": "Author summary Dengue is a viral disease present in over 100 countries that is transmitted via mosquito bites. Most cases of dengue are associated with mild symptoms, with some cases leading to severe complications and even death. The clinical diagnosis of de\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012137",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012137.t001&size=inline",
+      "publishedAt": "2024-06-07 14:00:00",
+      "content": "Citation: Rocha SMCd, Pires RC, Monteiro DCS, Cronemberges TCR, Souza NVd, Colares JKB, et al. (2024) Is there an overestimation of dengue compared with that of other acute febrile syndromes in child\u2026 [+16793 chars]",
+      "retrievedAt": "2024-06-08 19:06:01.024201",
+      "internal_id": "e43cf9971e123c8ecfc095397fabb1b8f6de2bd090d8a1ef028989bc3233d553",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9941,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Matteo Vitale, Nace Kranjc, Jessica Leigh, Kyrous Kyrou, Thomas Courty, Louise Marston, Silvia Grilli, Andrea Crisanti, Federica Bernardini",
+      "title": "Y chromosome shredding in Anopheles gambiae: Insight into the cellular dynamics of a novel synthetic sex ratio distorter",
+      "description": "Author summary Genetic elements known as sex ratio meiotic drive can manipulate the sex ratio of offspring, favouring the male or female sex. This fascinating phenomenon has inspired the development of synthetic sex ratio distorter systems in several organism\u2026",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011303",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011303.g006&size=inline",
+      "publishedAt": "2024-06-07 14:00:00",
+      "content": "Abstract Despite efforts to explore the genome of the malaria vector Anopheles gambiae, the Y chromosome of this species remains enigmatic. The large number of repetitive and heterochromatic DNA seq\u2026 [+98766 chars]",
+      "retrievedAt": "2024-06-08 19:06:01.729077",
+      "internal_id": "e06ebfaeec67fa923ca0572674122471e6681f463b429b6fb1c4ec528cf9eb7d",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9943,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jacqueline Wistuba-Hamprecht, Bernhard Reuter, Rolf Fendel, Stephen L. Hoffman, Joseph J. Campo, Philip L. Felgner, Peter G. Kremsner, Benjamin Mordm\u00fcller, Nico Pfeifer",
+      "title": "Machine learning prediction of malaria vaccine efficacy based on antibody profiles",
+      "description": "Author summary Developing an effective malaria vaccine is challenging. Malaria is a life-threatening disease caused by the plasmodium parasite, which has a complex multi-stage life-cycle and expresses several thousand proteins in a highly coordinated manner. \u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012131",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012131.g005&size=inline",
+      "publishedAt": "2024-06-07 14:00:00",
+      "content": "Abstract Immunization through repeated direct venous inoculation of Plasmodium falciparum (Pf) sporozoites (PfSPZ) under chloroquine chemoprophylaxis, using the PfSPZ Chemoprophylaxis Vaccine (PfSPZ\u2026 [+78393 chars]",
+      "retrievedAt": "2024-06-08 19:06:01.756349",
+      "internal_id": "7eff34d08d7f878664212565f918cddc89086aac287e0fa69e29217007019a5d",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9944,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kris Rama, Adrianne M. de Roo, Timon Louwsma, Hinko S. Hofstra, Gabriel S. Gurgel do Amaral, Gerard T. Vondeling, Maarten J. Postma, Roel D. Freriks",
+      "title": "Clinical outcomes of chikungunya: A systematic literature review and meta-analysis",
+      "description": "Author summary Chikungunya disease is an emerging public health concern. The disease is transmitted by mosquitoes and characterized by arthralgia and fever in the acute phase, lasting 7\u201310 days. Additionally, some individuals experience chronic symptoms such \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012254",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012254.g005&size=inline",
+      "publishedAt": "2024-06-07 14:00:00",
+      "content": "Citation: Rama K, de Roo AM, Louwsma T, Hofstra HS, S. Gurgel do Amaral G, Vondeling GT, et al. (2024) Clinical outcomes of chikungunya: A systematic literature review and meta-analysis. PLoS Negl Tr\u2026 [+30414 chars]",
+      "retrievedAt": "2024-06-08 19:06:02.329409",
+      "internal_id": "c7a402a4b5683675aeb37f3d8fcc9079b5f3a4a64c50e71b2a5175b5514da6b1",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9945,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Anacleta Cuco, Ernatus Mkupasi, Alexanda Mzula, Robinson Mdegela",
+      "title": "Non-typhoid Salmonella contributes to gastrointestinal infections in Morogoro: Evidence from patients attending Morogoro regional referral hospital in Tanzania",
+      "description": "Author summary Typhoid fever is claimed to prevail in Morogoro region. Most patients with stomach pain and or diarrhoea go for a diagnosis of typhoid despite the existence of other etiological agents causing the same clinical signs. Sample culture and isolati\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012249",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012249.g002&size=inline",
+      "publishedAt": "2024-06-07 14:00:00",
+      "content": "Abstract Introduction Salmonella is one of the most common causes of food-borne outbreaks and infection worldwide. Non-typhoid Salmonella (NTS) infections are common and remain a significant public\u2026 [+44329 chars]",
+      "retrievedAt": "2024-06-08 19:06:03.001693",
+      "internal_id": "62a19941af4d7211d4f3e112ea27de59ac6beac5a985534c42fafbe808cf7556",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Estado de SP ultrapassa mil mortes por dengue em 2024",
+      "description": "Ao todo, S\u00e3o Paulo registra 1.417.142 casos confirmados da doen\u00e7a",
+      "url": "https://valor.globo.com/brasil/noticia/2024/06/07/estado-de-sp-ultrapassa-mil-mortes-por-dengue-em-2024.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/0MqOtzSJhymU4n61MByNf9cC4fU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/W/I/9MnIVvSc2utdvDuEISMg/103851421-mosquito-20aedes-20aegypti.jpg",
+      "publishedAt": "2024-06-07 13:20:07",
+      "content": "O Estado de S\u00e3o Paulo atingiu a marca de 1.004 \u00f3bitos por dengue nesta sexta-feira (7). Dados do painel da dengue estadual apontam ainda que h\u00e1 outras 1.161 mortes em investiga\u00e7\u00e3o. Ao todo, S\u00e3o Paulo\u2026 [+1208 chars]",
+      "retrievedAt": "2024-06-08 19:06:01.055730",
+      "internal_id": "29d549fd156d4c27a4aaadf6500cbbecff2f9b40e3c0963d38dc811761486dc7",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9940,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Fuerteventura Ahora",
+      "title": "Sanidad realiza una vacunaci\u00f3n preventiva contra la meningitis B en Fuerteventura tras detectar dos casos",
+      "description": "La Direcci\u00f3n general de Salud P\u00fablica del Servicio Canario de la Salud (SCS) realizar\u00e1 este fin de semana una vacunaci\u00f3n preventiva contra la meningitis B en Gran Tarajal, en la isla de Fuerteventura, tras detectar dos casos de esta enfermedad en dos alumnos \u2026",
+      "url": "https://www.eldiario.es/canariasahora/fuerteventuraahora/sanidad-realiza-vacunacion-preventiva-meningitis-b-fuerteventura-detectar-casos_1_11431349.html",
+      "urlToImage": "https://static.eldiario.es/clip/2a00f163-0787-4f85-8c1b-2efce5d41b0b_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-06-07 13:15:57",
+      "content": "La Direcci\u00f3n general de Salud P\u00fablica del Servicio Canario de la Salud (SCS) realizar\u00e1 este fin de semana una vacunaci\u00f3n preventiva contra la meningitis B en Gran Tarajal, en la isla de Fuerteventura\u2026 [+2637 chars]",
+      "retrievedAt": "2024-06-08 19:06:01.445845",
+      "internal_id": "088b9425597e69b5ebec462a2204e7a26b74cb61f26a457a5e1296b069e31bb4",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9933,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "GPS Bras\u00edlia, GPS Bras\u00edlia",
+      "title": "Desmobiliza\u00e7\u00e3o das tendas da dengue come\u00e7a na pr\u00f3xima semana",
+      "description": "A Secretaria de Sa\u00fade do Distrito Federal anunciou que as 11 tendas de acolhimento e...",
+      "url": "https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-06-07/desmobilizacao-das-tendas-da-dengue-comeca-na-proxima-semana.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0p/zt/ze/0pztzeu7atvb82l524bxsdzc4.jpg",
+      "publishedAt": "2024-06-07 13:10:05",
+      "content": "A Secretaria de Sa\u00fade do Distrito Federal anunciou que as 11 tendas de acolhimento e hidrata\u00e7\u00e3o instaladas para atender pacientes com sintomas de dengue come\u00e7ar\u00e3o a ser desmobilizadas a partir da pr\u2026 [+3089 chars]",
+      "retrievedAt": "2024-06-08 19:06:00.998110",
+      "internal_id": "5a21b43be1724ff1d4214ba1b10a051caf149949cad94de7c3e7faf4a41489ca",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9932,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Rebeca Kemilly",
+      "title": "Tendas da dengue come\u00e7am desmobiliza\u00e7\u00e3o a partir de 2\u00aa feira (10/6)",
+      "description": "Todas as tendas devem ser desinstaladas at\u00e9 27 de junho. Pacientes com sintomas de dengue devem procurar a UBS mais pr\u00f3xima",
+      "url": "https://www.metropoles.com/distrito-federal/tendas-da-dengue-comecam-desmobilizacao-a-partir-de-2a-feira-10-6",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/04/16141017/Tenda-Ceilandia-2-_Jhonatan-Cantarelle-1.jpg",
+      "publishedAt": "2024-06-07 12:24:12",
+      "content": "Pessoas com sintomas de dengue dever\u00e3o procurar alternativas \u00e0s tendas de acolhimento e hidrata\u00e7\u00e3o nos pr\u00f3ximos dias. Os espa\u00e7os, que somam 11 unidades pelo Distrito Federal, come\u00e7am a ser desmobiliz\u2026 [+5747 chars]",
+      "retrievedAt": "2024-06-08 19:06:00.986590",
+      "internal_id": "a1ba518569b921a0a631447e3ff9d2ee7a2ad581cd4b9f980c633c33f1ef77df",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9934,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "GPS Bras\u00edlia, GPS Bras\u00edlia",
+      "title": "Dia D contra a p\u00f3lio tem mais de 90 locais de imuniza\u00e7\u00e3o neste s\u00e1bado (8)",
+      "description": "O Dia D de Vacina\u00e7\u00e3o nacional contra a p\u00f3lio ser\u00e1 ampliado no DF. Imunizantes tamb\u00e9m...",
+      "url": "https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-06-07/dia-d-contra-a-polio-tem-mais-de-90-locais-de-imunizacao-neste-sabado-8.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/db/9t/ye/db9tyecu22k2pxhtdd26gu7m4.jpg",
+      "publishedAt": "2024-06-07 12:20:26",
+      "content": "O Dia D de Vacina\u00e7\u00e3o nacional contra a p\u00f3lio ser\u00e1 ampliado no DF. Imunizantes tamb\u00e9m em combate a gripe, covid-19 , dengue e outras doen\u00e7as ser\u00e3o aplicados em mais de 90 locais de atendimento. Na pr\u2026 [+1711 chars]",
+      "retrievedAt": "2024-06-08 19:06:01.005929",
+      "internal_id": "f6c99bf0a20ec78eb1373d9c27111a732093df6cd6e38fdfe722cbfc59298f47",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9928,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Tiago Caeiro",
+      "title": "Homem morre com gripe das aves no M\u00e9xico e EUA j\u00e1 reportaram tr\u00eas casos nas \u00faltimas semanas",
+      "description": "Estados Unidos j\u00e1 detetaram o v\u00edrus H5N1 em mais de 80 explora\u00e7\u00f5es pecu\u00e1rias com vacas e h\u00e1 tr\u00eas casos de infe\u00e7\u00e3o confirmados. OMS admite preocupa\u00e7\u00e3o com poss\u00edvel transmiss\u00e3o entre humanos.",
+      "url": "https://observador.pt/2024/06/07/homem-morre-com-gripe-das-aves-no-mexico-e-eua-ja-reportaram-tres-casos-nas-ultimas-semanas/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1600%3A899%3Anowe%3A0%3A84%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F11%2F09232417%2Fdairy-farm.jpg",
+      "publishedAt": "2024-06-07 12:07:51",
+      "content": "Um homem de 59 anos morreu no M\u00e9xico depois de ter sido infetado com o v\u00edrus H5N2, uma estirpe da gripe das aves, avan\u00e7ou a Reuters, citando a Organiza\u00e7\u00e3o Mundial de Sa\u00fade. O homem, residente na cida\u2026 [+2439 chars]",
+      "retrievedAt": "2024-06-08 19:06:00.480211",
+      "internal_id": "425a932fa613708476803ff327d5f7dc35a0e2b83426c513959d3564e3ac0f01",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9939,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Servicio Canario de Salud realiza una vacunaci\u00f3n preventiva contra la meningitis B en Gran Tarajal al detectar 2 casos",
+      "description": "La Direcci\u00f3n general de Salud P\u00fablica del Servicio Canario de la Salud (SCS) realizar\u00e1 este fin de semana una vacunaci\u00f3n preventiva contra la meningitis B en Gran Tarajal, en la isla de Fuerteventura, tras detectar dos casos de esta enfermedad en dos alumnos \u2026",
+      "url": "https://www.europapress.es/islas-canarias/noticia-servicio-canario-salud-realiza-vacunacion-preventiva-contra-meningitis-gran-tarajal-detectar-casos-20240607133852.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240607133852_1200.jpg",
+      "publishedAt": "2024-06-07 11:38:52",
+      "content": "LAS PALMAS DE GRAN CANARIA, 7 Jun. (EUROPA PRESS) - La Direcci\u00f3n general de Salud P\u00fablica del Servicio Canario de la Salud (SCS) realizar\u00e1 este fin de semana una vacunaci\u00f3n preventiva contra la me\u2026 [+2701 chars]",
+      "retrievedAt": "2024-06-08 19:06:01.441396",
+      "internal_id": "785ba26b4423fec92d537403e9740094508b097d7e79cbc83fbf2ead0ea03b59",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9925,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Clay Jones",
+      "title": "Pertussis Cases are Rising Sharply in 2024",
+      "description": "As the pandemic \"winds down\", cases of whooping cough are on the rise in dramatic fashion. The post Pertussis Cases are Rising Sharply in 2024 first appeared on Science-Based Medicine.",
+      "url": "https://sciencebasedmedicine.org/pertussis-cases-are-rising-sharply-in-2024/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2024/06/pertussis.jpg",
+      "publishedAt": "2024-06-07 11:00:00",
+      "content": "In late May, an outbreak of pertussis (whooping cough) was declared by the Lexington-Fayette Health Department in Kentucky. This small cluster of 21 cases, as of two days ago, is not an outlier. Outb\u2026 [+5187 chars]",
+      "retrievedAt": "2024-06-08 19:05:58.850308",
+      "internal_id": "d0dd94c02bbc8ff111ef2fd5dd4eba74ecf2fec68db014c7e7c191d703459b0b",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9930,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com",
+      "author": "Pablo Mart\u00ednez-Juarez",
+      "title": "Par\u00eds ha a\u00f1adido un nuevo deporte a las preparaciones de sus Juegos Ol\u00edmpicos: la caza de mosquitos tigre",
+      "description": "Las chinches ya no son los insectos que m\u00e1s preocupan a las autoridades parisinas. El relevo lo han tomado los mosquitos. Y es por un motivo de peso: miedo a un hipot\u00e9tico brote de dengue en plenos Juegos Ol\u00edmpicos. Buscadores de mosquitos. L\u2026",
+      "url": "https://www.xataka.com/medicina-y-salud/paris-ha-anadido-nuevo-deporte-a-preparaciones-sus-juegos-olimpicos-caza-mosquitos-tigre",
+      "urlToImage": "https://i.blogs.es/132e36/corte-paris-dengue/840_560.jpeg",
+      "publishedAt": "2024-06-07 10:31:39",
+      "content": "Las chinches ya no son los insectos que m\u00e1s preocupan a las autoridades parisinas. El relevo lo han tomado los mosquitos. Y es por un motivo de peso: miedo a un hipot\u00e9tico brote de dengue en plenos J\u2026 [+3267 chars]",
+      "retrievedAt": "2024-06-08 19:06:00.939707",
+      "internal_id": "07f653028f6024107172b3ed5c0a67d255e6a704db301e66fdd14b2e032af46c",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9937,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Homework",
+      "title": "O que fazer se seu cabelo come\u00e7ar a cair ap\u00f3s se recuperar da dengue",
+      "description": "O efl\u00favio tel\u00f3geno \u00e9 um tipo de queda de cabelo que tem rela\u00e7\u00e3o com um processo infeccioso e o estresse fisiol\u00f3gico",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/o-que-fazer-se-seu-cabelo-comecar-a-cair-apos-se-recuperar-da-dengue,b1dba301b90ef2840f0dfbb2b3afda36r8qehmyy.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/06/cabelo-u8aphfrc0im0.jpg",
+      "publishedAt": "2024-06-07 09:45:02",
+      "content": "ResumoA epidemia de dengue provoca uma s\u00e9rie de sintomas relacionados ao estresse fisiol\u00f3gico e, meses ap\u00f3s a cura, o cabelo pode come\u00e7ar a cair em quantidade exagerada, isso se chama Efl\u00favio Tel\u00f3gen\u2026 [+4330 chars]",
+      "retrievedAt": "2024-06-08 19:06:01.050842",
+      "internal_id": "055500b04351263228dd66fcd8f901c454dd7b4279c07330abf7f3849ce6ad95",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9936,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "WHO alarmiert wegen hoher Zahl an Dengue-F\u00e4llen \u2013 auch in \u00d6sterreich mehr F\u00e4lle",
+      "description": "Die Zahl der Infektionen steigt seit Jahren, heuer gibt es aber bereits um 70 Prozent mehr F\u00e4lle als im gesamten Vorjahr. Auch in \u00d6sterreich steigt die Zahl der F\u00e4lle. Bisher wurden die F\u00e4lle allerdings ausnahmslos eingeschleppt. Dabei ist die Asiatische Tige\u2026",
+      "url": "https://www.diepresse.com/18541201/who-alarmiert-wegen-hoher-zahl-an-dengue-faellen-auch-in-oesterreich-mehr-faelle",
+      "urlToImage": "https://img.diepresse.com/public/incoming/bhdk2k-Asiatische-Tigermuecke-Tropische-Tigermuecke-Dengue-Muecke-Denguemuecke-Zika-Muecke-Zikamuecke/alternates/DPR_SOCIAL_NACHRICHTEN/Asiatische%20Tigermuecke%20Tropische%20Tigermuecke%20Dengue%20Muecke%20Denguemuecke%20Zika%20Muecke%20Zikamuecke",
+      "publishedAt": "2024-06-07 09:30:47",
+      "content": "Die Zahl der Infektionen steigt seit Jahren, heuer gibt es aber bereits um 70 Prozent mehr F\u00e4lle als im gesamten Vorjahr. Auch in \u00d6sterreich steigt die Zahl der F\u00e4lle. Bisher wurden die F\u00e4lle allerdi\u2026 [+4258 chars]",
+      "retrievedAt": "2024-06-08 19:06:01.046605",
+      "internal_id": "f38272d670a1803098cff75a3e6dc280ef388f4d7318ed6fb0537ff2baac0ccb",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9929,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "title": "\u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629: \u062d\u0627\u0644\u0629 \u0648\u0641\u0627\u0629 \u0623\u0648\u0644\u0649 \u0628\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0641\u064a \u0627\u0644\u0645\u0643\u0633\u064a\u0643",
+      "description": "\u0623\u0639\u0644\u0646\u062a \u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0639\u0646 \u0623\u0648\u0644 \u0625\u0635\u0627\u0628\u0629 \u0628\u0634\u0631\u064a\u0629 \u0645\u0639\u0631\u0648\u0641\u0629 \u0641\u064a \u0627\u0644\u0645\u0643\u0633\u064a\u0643\u060c \u0628\u0633\u0644\u0627\u0644\u0629 \u0645\u062e\u062a\u0644\u0641\u0629 \u0645\u0646 \u0641\u064a\u0631\u0648\u0633 H5 \u0647\u064a H5N2\u060c \u0623\u062f\u0651\u062a \u0625\u0644\u0649 \u0627\u0644\u0648\u0641\u0627\u0629 \u062c\u0631\u0627\u0621 \u0645\u0636\u0627\u0639\u0641\u0627\u062a \u0627\u0644\u0639\u062f\u0648\u0649.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2024/06/07/bird-flu-mexico-human-h5n2",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/06/06/images/269909.jpg",
+      "publishedAt": "2024-06-07 08:36:42",
+      "content": "(CNN) -- H5N1 H5N2 . A . 900 H5N1 1996 . H5N2 59 . H5N2 . A . H5N2 H5 . . / . 24 / . 8 / H5N2 . 17 . 12 \"-19\" . . / H5N2 . . . . A . . .",
+      "retrievedAt": "2024-06-08 19:06:00.496024",
+      "internal_id": "b8d37a338b100e781fb7d6343ae12070ad0f3a238bc95e629d0623ec4852cad3",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9942,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "Stefanno Sulaiman,Kate Lamb",
+      "title": "Indonesian president in damage control over new capital",
+      "description": "The abrupt resignations of two officials make it harder for Joko Widodo to allay fears about Nusantara, his legacy project.",
+      "url": "https://www.japantimes.co.jp/news/2024/06/07/asia-pacific/politics/indonesian-president-new-capital/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401863.jpg",
+      "publishedAt": "2024-06-07 07:50:00",
+      "content": "JAKARTA Indonesia's president is rushing to reassure investors and bureaucrats about his $32 billion new capital city in a malaria-prone pocket of Borneo after the resignations of two officials overs\u2026 [+591 chars]",
+      "retrievedAt": "2024-06-08 19:06:01.744055",
+      "internal_id": "23f7ae867ddd43623700ba4e6766a2777514d0dc3f2186c68676dcc3ea6963fe",
+      "publishedAtLabel": "Jun 7"
+    },
     {
       "id": 9923,
       "query": [
@@ -26550,150 +26928,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2024-04-23 07:05:59.534688",
       "internal_id": "7dd25769ee61a08892685b1478421ba0039c5c3bdb6bb0e16b73f5f48de9005a",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8447,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Sky.com",
-      "author": "Shamaan Freeman-Powell",
-      "title": "Parents describe baby's 'scary' measles symptoms as cases soar",
-      "description": "The parents of a five-month-old baby who was left struggling to breathe after contracting measles have described her \"scary\" ordeal as the number of cases soar.",
-      "url": "https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596",
-      "urlToImage": "https://e3.365dm.com/24/04/1600x900/skynews-james-house-measles_6529267.jpg?20240421195101",
-      "publishedAt": "2024-04-21 18:37:00",
-      "content": "The parents of a five-month-old baby who was left struggling to breathe after contracting measles have described her \"scary\" ordeal as the number of cases soar. England is facing a measles emergency\u2026 [+2610 chars]",
-      "retrievedAt": "2024-04-22 19:06:22.414445",
-      "internal_id": "7dfaa5ddbddab031738b86c2abc216f4aaaec148feaedbb35ee33198c3b1981c",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8454,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Fabiola Czubaj",
-      "title": "Ni \u201cposdengue\u201d ni Covid: revelan una infrecuente causa detr\u00e1s del reciente aumento de neumon\u00edas",
-      "description": "Se trata de la psitacosis, seg\u00fan inform\u00f3 el Ministerio de Salud; difunden recomendaciones para la consulta r\u00e1pida y el diagn\u00f3stico oportuno de esta enfermedad transmitida por aves infectadas",
-      "url": "https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/guardia-del-hospital-bernardino-HPL5HLFZDVAJFFMRBME766FYCQ.JPG?auth=a743da3d8eebf48b342a8d078b1082f3dd290013d2b48860ce22bb5513d07595&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-21 17:52:19",
-      "content": "Las autoridades sanitarias nacionales confirmaron en las \u00faltimas horas la detecci\u00f3n de un aumento de casos de psitacosis, una enfermedad transmitida por aves infectadas, a partir de la investigaci\u00f3n \u2026 [+4124 chars]",
-      "retrievedAt": "2024-04-23 07:06:00.344934",
-      "internal_id": "37fadd4e582d1f910825963600ee42cdeb552ce649e72315a997c9751698a37c",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8450,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Leslie Eastman",
-      "title": "Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023",
-      "description": "There were 24 cases of leptospirosis in the city in 2023, higher than in any prior year. 2024 is already shaping up to be another big year in the Big Apple for infections. The post Disease Caused by Rat Urine Surged in New York City to Record Levels during 20\u2026",
-      "url": "https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2020/05/LI-93-Cannibal-Rats.jpg",
-      "publishedAt": "2024-04-21 16:00:38",
-      "content": "Between the crime, illegal immigrants, and the anti-Israel demonstrations, it\u2019s a really tough time for New York City residents. Thanks to rats, life is getting tougher. The city Health Department h\u2026 [+4461 chars]",
-      "retrievedAt": "2024-04-22 19:06:25.900854",
-      "internal_id": "d579b8052f3d830c44802a894f3a6eeec8d9a20063ab5831b74451771c73c978",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8446,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Dianeravitch.net",
-      "author": "dianeravitch",
-      "title": "Measles Outbreaks Are Worrying Public Health Officials",
-      "description": "The propaganda surrounding COVID vaccines has led to parental uncertainty about other vaccines. This may explain recent measles outbreaks. For most of us, measles is a childhood disease that was conquered by scientists many years ago. But it\u2019s returning. The \u2026",
-      "url": "https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/",
-      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
-      "publishedAt": "2024-04-21 15:00:00",
-      "content": "The propaganda surrounding COVID vaccines has led to parental uncertainty about other vaccines. This may explain recent measles outbreaks. For most of us, measles is a childhood disease that was conq\u2026 [+4009 chars]",
-      "retrievedAt": "2024-04-22 19:06:22.410238",
-      "internal_id": "c529a7ea4b7ef396bdd4509d1008fa20e97a2c3c79183880d9c3370059437a13",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8445,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Omer Awan, Contributor, \n Omer Awan, Contributor\n https://www.forbes.com/sites/omerawan/",
-      "title": "Why The Rising Measles Cases In The United States Are A Big Deal",
-      "description": "121 cases of Measles have been reported across 18 states in the United States since January 1st of this year, according to the CDC.",
-      "url": "https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6622bb4582c99b0118fcce69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-04-21 12:20:40",
-      "content": "AUCKLAND, NEW ZEALAND - SEPTEMBER 10: A measles vaccine is prepared on September 10, 2019 in ... [+] Auckland, New Zealand. (Photo by Fiona Goodall/Getty Images) Getty Images 121 cases of Measles h\u2026 [+4164 chars]",
-      "retrievedAt": "2024-04-22 19:06:22.390398",
-      "internal_id": "281c68072127cc1658eb764a08dec7f892ceda82c9d428cb33cb1f03be3d422f",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8449,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Paz Garc\u00eda Pastormerlo",
-      "title": "Investigaci\u00f3n. Una familia de plantas que crece en la Argentina podr\u00eda ser la llave en la lucha contra el dengue",
-      "description": "Un equipo de cient\u00edficos del Conicet logr\u00f3 identificar extractos y compuestos naturales y avanzan en dise\u00f1ar c\u00f3mo inhibir de forma efectiva el virus que transmite el mosquito Aedes aegypti",
-      "url": "https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-planta-que-podria-contribuir-a-la-cura-del-2U5LRCYWYFCJDGHR2E3SH6U5DM.jpg?auth=79d2192f13bb73398d2baaf37b05469f58d48cba47b12c18b1d25b356dbc614c&width=768&quality=70&smart=false",
-      "publishedAt": "2024-04-21 12:00:00",
-      "content": "SAN CARLOS DE BARILOCHE.- Plantas de la familia Asteraceae que crecen en la Argentina podr\u00edan ser la llave en la lucha contra el dengue: cient\u00edficos del Consejo Nacional de Investigaciones Cient\u00edfica\u2026 [+5477 chars]",
-      "retrievedAt": "2024-04-22 19:06:23.386179",
-      "internal_id": "21f9dce4d8b0a9d795ab116816535c49ed9984acaf4151b3711e997a274d97a1",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8457,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Idntimes.com",
-      "author": "Diah Nur Fitriana",
-      "title": "10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif",
-      "description": "Lantas, merk lotion anti nyamuk anak apa saja yang aman untuk kulit sensitifnya? Berikut beberapa rekomendasi lotion anti nyamuk untuk anak.",
-      "url": "https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2",
-      "urlToImage": "https://cdn.idntimes.com/content-images/community/2024/04/anak-memakai-lotion-nyamuk-97bfe5b5aaaac713cca17199da4a87b6-2cc7d979c0d12f4b08960409958ee92a_600x400.jpg",
-      "publishedAt": "2024-04-21 11:25:04",
-      "content": "Saat ini, demam berdarah dengue (DBD) menjadi isu kesehatan masyarakat Indonesia. Penyakit DBD disebabkan oleh virus dengue yang menular ke manusia melalui perantara nyamukAedes aegypti. Salah satu c\u2026 [+465 chars]",
-      "retrievedAt": "2024-04-23 07:06:00.363494",
-      "internal_id": "a17bda8dd2ca4d819fb3137a63c9f59f890fb72b2ac1225b91d7796c8f0dce2a",
-      "publishedAtLabel": "Apr 21"
-    },
-    {
-      "id": 8448,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Homework",
-      "title": "A dengue me pegou. A culpa \u00e9 do prefeito Ricardo Nunes",
-      "description": "Passei os \u00faltimos quatro dias congelando, assando, insone, est\u00fapido, suarento, paralisado, ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/20/dengue-vbhga9v1ufqu.jpg",
-      "publishedAt": "2024-04-21 09:45:03",
-      "content": "ResumoO texto retrata a situa\u00e7\u00e3o de S\u00e3o Paulo, no que diz respeito \u00e0 dengue, mencionando falhas na preven\u00e7\u00e3o pela administra\u00e7\u00e3o de Ricardo Nunes, como armadilhas para o mosquito e o custo alto de rep\u2026 [+4381 chars]",
-      "retrievedAt": "2024-04-22 19:06:23.329383",
-      "internal_id": "e428570398b648c153cb7d9203a5e6f7ec427bf4af1d6f3c06b0cd5a981b70d0",
       "publishedAtLabel": "Apr 21"
     }
   ]

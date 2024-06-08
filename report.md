@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-06-08 07:06
-- **Most recent article:** 2024-06-07 06:17:00
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-06-08 19:06
+- **Most recent article:** 2024-06-07 17:30:40
 
 ---
 
@@ -12,21 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-17 | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 77 | 57 | 87 | 58 | 61 | 45 | 499 |
-| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 54 | 334 |
-| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 17 | 203 |
-| measles | 28 | 24 | 10 | 29 | 15 | 16 | 10 | 132 |
+| dengue | 110 | 77 | 57 | 87 | 58 | 61 | 54 | 504 |
+| h5n1 | 0 | 0 | 57 | 63 | 95 | 65 | 56 | 336 |
+| malaria | 77 | 25 | 29 | 13 | 17 | 25 | 20 | 206 |
+| measles | 25 | 24 | 10 | 29 | 15 | 16 | 11 | 130 |
 | mpox | 8 | 36 | 3 | 10 | 9 | 16 | 8 | 90 |
-| rabies | 3 | 4 | 22 | 10 | 8 | 15 | 6 | 68 |
-| chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 4 | 54 |
-| pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 6 | 35 |
-| meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 3 | 30 |
+| rabies | 3 | 4 | 22 | 10 | 8 | 15 | 7 | 69 |
+| chikungunya | 5 | 7 | 5 | 12 | 3 | 18 | 5 | 55 |
+| pertussis | 5 | 2 | 5 | 5 | 6 | 6 | 7 | 36 |
+| meningitis | 5 | 3 | 5 | 9 | 4 | 1 | 5 | 32 |
 | hpai | 0 | 0 | 4 | 3 | 7 | 12 | 2 | 28 |
 | zika | 3 | 8 | 2 | 6 | 3 | 3 | 0 | 25 |
 | sarampión | 10 | 8 | 1 | 0 | 0 | 0 | 0 | 19 |
-| leptospirosis | 3 | 2 | 1 | 3 | 0 | 5 | 1 | 15 |
+| leptospirosis | 2 | 2 | 1 | 3 | 0 | 5 | 1 | 14 |
 | yersinia | 0 | 5 | 1 | 0 | 6 | 0 | 1 | 13 |
-| typhoid | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 5 |
+| typhoid | 0 | 0 | 3 | 2 | 0 | 0 | 1 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -37,7 +37,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Gtk package not found](https://askubuntu.com/questions/1516751/gtk-package-not-found) (Askubuntu.com)
 
+## 24-23 (typhoid)
+
+- [Non-typhoid Salmonella contributes to gastrointestinal infections in Morogoro: Evidence from patients attending Morogoro regional referral hospital in Tanzania](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012249) (Plos.org)
+
 ## 24-23 (rabies)
+
+- [Rabid fox bites person in Gwinnett County](https://www.wsbtv.com/news/local/gwinnett-county/rabid-fox-bites-person-gwinnett-county/KTXHRH2BABFBPK4X7SBM2EQFUU/) (WSB Atlanta)
 
 - [News24 | Cape Town residents on high alert after rabies case leads to euthanasia of dogs](https://www.news24.com/news24/community-newspaper/peoples-post/cape-town-residents-on-high-alert-after-rabies-case-leads-to-euthanasia-of-dogs-20240604) (News24)
 
@@ -52,6 +58,8 @@ Source: [News API](https://newsapi.org/)
 - [Dog bites teen in Chennai's KK Nagar, 2nd attack in a day](https://timesofindia.indiatimes.com/city/chennai/dog-bites-teen-in-chennais-kk-nagar-2nd-attack-in-a-day/articleshow/110649537.cms) (The Times of India)
 
 ## 24-23 (pertussis)
+
+- [Pertussis Cases are Rising Sharply in 2024](https://sciencebasedmedicine.org/pertussis-cases-are-rising-sharply-in-2024/) (Sciencebasedmedicine.org)
 
 - [Τι είναι ο κοκκύτης – Τα συμπτώματα, η μετάδοση και οι τρόποι προστασίας](https://www.naftemporiki.gr/health/1680828/ti-einai-o-kokkytis-ta-symptomata-i-metadosi-kai-oi-tropoi-prostasias/) (Naftemporiki.gr)
 
@@ -85,6 +93,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (meningitis)
 
+- [Sanidad realiza una vacunación preventiva contra la meningitis B en Fuerteventura tras detectar dos casos](https://www.eldiario.es/canariasahora/fuerteventuraahora/sanidad-realiza-vacunacion-preventiva-meningitis-b-fuerteventura-detectar-casos_1_11431349.html) (Eldiario.es)
+
+- [Servicio Canario de Salud realiza una vacunación preventiva contra la meningitis B en Gran Tarajal al detectar 2 casos](https://www.europapress.es/islas-canarias/noticia-servicio-canario-salud-realiza-vacunacion-preventiva-contra-meningitis-gran-tarajal-detectar-casos-20240607133852.html) (Europapress.es)
+
 - [Persistent spatial clustering and predictors of pediatric La Crosse virus neuroinvasive disease risk in eastern Tennessee and western North Carolina, 2003–2020](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012186) (Plos.org)
 
 - [Bebe Vio is changing the conversation on disability in sport](https://www.dazeddigital.com/life-culture/article/62740/1/bebe-vio-interview-profile-fencing-paralympics-2024-disability-sports) (Dazed)
@@ -92,6 +104,8 @@ Source: [News API](https://newsapi.org/)
 - [Conserved signalling functions for Mps1, Mad1 and Mad2 in the Cryptococcus neoformans spindle checkpoint](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011302) (Plos.org)
 
 ## 24-23 (measles)
+
+- [New Jersey Department of Health warns of measles exposure](http://newjersey.news12.com/new-jersey-department-of-health-warns-measles-exposure) (News12.com)
 
 - [Healthier Together: Health officials sound alarm on measles](https://www.kiro7.com/news/local/healthier-together-health-officials-sound-alarm-measles/LSEZWHRYFVDPNAOHYSNNYGIHPI/) (KIRO Seattle)
 
@@ -114,6 +128,12 @@ Source: [News API](https://newsapi.org/)
 - [Health officials warn of possible measles exposure at Philadelphia International Airport](https://www.fox29.com/news/health-officials-warn-of-possible-measles-exposure-at-philadelphia-international-airport) (FOX 29 News Philadelphia)
 
 ## 24-23 (malaria)
+
+- [Y chromosome shredding in Anopheles gambiae: Insight into the cellular dynamics of a novel synthetic sex ratio distorter](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011303) (Plos.org)
+
+- [Machine learning prediction of malaria vaccine efficacy based on antibody profiles](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012131) (Plos.org)
+
+- [Indonesian president in damage control over new capital](https://www.japantimes.co.jp/news/2024/06/07/asia-pacific/politics/indonesian-president-new-capital/) (The Japan Times)
 
 - [Indonesian president in damage control over new capital](https://www.thestar.com.my/news/world/2024/06/07/indonesian-president-in-damage-control-over-new-capital) (The Star Online)
 
@@ -160,6 +180,10 @@ Source: [News API](https://newsapi.org/)
 - [Avian influenza viruses in New Zealand wild birds, with an emphasis on subtypes H5 and H7: Their distinctive epidemiology and genomic properties](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303756) (Plos.org)
 
 ## 24-23 (h5n1)
+
+- [Homem morre com gripe das aves no México e EUA já reportaram três casos nas últimas semanas](https://observador.pt/2024/06/07/homem-morre-com-gripe-das-aves-no-mexico-e-eua-ja-reportaram-tres-casos-nas-ultimas-semanas/) (Observador.pt)
+
+- [الصحة العالمية: حالة وفاة أولى بإنفلونزا الطيور في المكسيك](https://arabic.cnn.com/science-and-health/article/2024/06/07/bird-flu-mexico-human-h5n2) (CNN)
 
 - [美乳牛感染禽流感疫情肆虐，已有五州現死亡案例](https://finance.technews.tw/2024/06/07/dairy-cows-die-from-avian-influenza-in-5-us-states/) (Technews.tw)
 
@@ -271,6 +295,24 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (dengue)
 
+- [Dengue: Brasil ultrapassa 3.500 mortes em 2024](https://olhardigital.com.br/2024/06/07/medicina-e-saude/dengue-brasil-ultrapassa-3-500-mortes-em-2024/) (Olhardigital.com.br)
+
+- [Is there an overestimation of dengue compared with that of other acute febrile syndromes in childhood?](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012137) (Plos.org)
+
+- [Estado de SP ultrapassa mil mortes por dengue em 2024](https://valor.globo.com/brasil/noticia/2024/06/07/estado-de-sp-ultrapassa-mil-mortes-por-dengue-em-2024.ghtml) (Globo)
+
+- [Desmobilização das tendas da dengue começa na próxima semana](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-06-07/desmobilizacao-das-tendas-da-dengue-comeca-na-proxima-semana.html) (Ig.com.br)
+
+- [Tendas da dengue começam desmobilização a partir de 2ª feira (10/6)](https://www.metropoles.com/distrito-federal/tendas-da-dengue-comecam-desmobilizacao-a-partir-de-2a-feira-10-6) (Metropoles.com)
+
+- [Dia D contra a pólio tem mais de 90 locais de imunização neste sábado (8)](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-06-07/dia-d-contra-a-polio-tem-mais-de-90-locais-de-imunizacao-neste-sabado-8.html) (Ig.com.br)
+
+- [París ha añadido un nuevo deporte a las preparaciones de sus Juegos Olímpicos: la caza de mosquitos tigre](https://www.xataka.com/medicina-y-salud/paris-ha-anadido-nuevo-deporte-a-preparaciones-sus-juegos-olimpicos-caza-mosquitos-tigre) (Xataka.com)
+
+- [O que fazer se seu cabelo começar a cair após se recuperar da dengue](https://www.terra.com.br/vida-e-estilo/saude/o-que-fazer-se-seu-cabelo-comecar-a-cair-apos-se-recuperar-da-dengue,b1dba301b90ef2840f0dfbb2b3afda36r8qehmyy.html) (Terra.com.br)
+
+- [WHO alarmiert wegen hoher Zahl an Dengue-Fällen – auch in Österreich mehr Fälle](https://www.diepresse.com/18541201/who-alarmiert-wegen-hoher-zahl-an-dengue-faellen-auch-in-oesterreich-mehr-faelle) (Diepresse.com)
+
 - [Actress Namratha Gowda hospitalized for Dengue; Shares health update with fans](https://timesofindia.indiatimes.com/tv/news/kannada/actress-namratha-gowda-hospitalized-for-dengue-shares-health-update-with-fans/articleshow/110786106.cms) (The Times of India)
 
 - [Sábado (8/6) será o Dia D contra a pólio no DF. Veja onde se vacinar](https://www.metropoles.com/distrito-federal/sabado-8-6-sera-o-dia-d-contra-a-polio-no-df-veja-onde-se-vacinar) (Metropoles.com)
@@ -362,6 +404,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: como um mosquito Aedes é contaminado?](https://olhardigital.com.br/2024/06/01/medicina-e-saude/dengue-como-um-mosquito-aedes-e-contaminado/) (Olhardigital.com.br)
 
 ## 24-23 (chikungunya)
+
+- [Clinical outcomes of chikungunya: A systematic literature review and meta-analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012254) (Plos.org)
 
 - [Sorge vor Pandemie - EMA empfiehlt ersten Impfstoff gegen Chikungunya-Fieber – das müssen Sie wissen](https://www.focus.de/gesundheit/news/sorge-vor-pandemie-eu-behoerde-empfiehlt-ersten-impfstoff-gegen-chikungunya-fieber-das-muessen-sie-wissen_id_260009301.html) (Focus)
 
@@ -2895,12 +2939,6 @@ Source: [News API](https://newsapi.org/)
 
 - [New Hampshire's GOP Is Taking a Stand--Against the Polio Vaccine (Julia Métraux/Mother Jones)](https://www.memeorandum.com/240421/p32) (Memeorandum.com)
 
-- [Parents describe baby's 'scary' measles symptoms as cases soar](https://news.sky.com/story/parents-describe-babys-scary-measles-symptoms-as-cases-soar-13120596) (Sky.com)
-
-- [Measles Outbreaks Are Worrying Public Health Officials](https://dianeravitch.net/2024/04/21/measles-outbreaks-are-worrying-public-health-officials/) (Dianeravitch.net)
-
-- [Why The Rising Measles Cases In The United States Are A Big Deal](https://www.forbes.com/sites/omerawan/2024/04/21/why-the-rising-measles-cases-in-the-united-states-are-a-big-deal/) (Forbes)
-
 ## 24-17 (malaria)
 
 - [Experții avertizează: Mai mult de jumătate din populația lumii s-ar îmbolnăvi de malarie și febră dengue până la finalul secolului](https://www.digi24.ro/stiri/externe/mapamond/peste-jumatate-din-populatia-lumii-ar-putea-fi-expusa-riscului-de-boli-transmise-de-tantari-2773301) (Digi24.ro)
@@ -3062,8 +3100,6 @@ Source: [News API](https://newsapi.org/)
 - [What dog owners should know about leptospirosis](https://phys.org/news/2024-04-dog-owners-leptospirosis.html) (Phys.Org)
 
 - [Climate-driven models of leptospirosis dynamics in tropical islands from three oceanic basins](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011717) (Plos.org)
-
-- [Disease Caused by Rat Urine Surged in New York City to Record Levels during 2023](https://legalinsurrection.com/2024/04/disease-caused-by-rat-urine-surged-in-new-york-city-to-record-levels-during-2023/) (Legalinsurrection.com)
 
 ## 24-17 (dengue)
 
@@ -3286,14 +3322,6 @@ Source: [News API](https://newsapi.org/)
 - [Dealing a knockout blow to dengue]( https://en.setopati.com/International/162939 ) (Setopati.com)
 
 - [El mapa del dengue: con una tendencia incierta aún, la epidemia supera los 300.000 casos y siguen las muertes](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-una-tendencia-incierta-aun-la-epidemia-supera-los-300000-casos-y-siguen-las-nid21042024/) (La Nacion)
-
-- [Ni “posdengue” ni Covid: revelan una infrecuente causa detrás del reciente aumento de neumonías](https://www.lanacion.com.ar/sociedad/ni-posdengue-ni-covid-revelan-una-infrecuente-causa-detras-del-reciente-aumento-de-neumonias-nid21042024/) (La Nacion)
-
-- [Investigación. Una familia de plantas que crece en la Argentina podría ser la llave en la lucha contra el dengue](https://www.lanacion.com.ar/sociedad/investigacion-una-familia-de-plantas-que-crece-en-la-argentina-podria-ser-la-llave-en-la-lucha-nid21042024/) (La Nacion)
-
-- [10 Lotion anti Nyamuk untuk Anak, Aman untuk Kulit Sensitif](https://www.idntimes.com/health/medical/diah-nur-fitriana/lotion-anti-nyamuk-anak-c1c2) (Idntimes.com)
-
-- [A dengue me pegou. A culpa é do prefeito Ricardo Nunes](https://www.terra.com.br/vida-e-estilo/saude/a-dengue-me-pegou-a-culpa-e-do-prefeito-ricardo-nunes,a420e37cf7340cbcc118a636e43e4551yw0njvba.html) (Terra.com.br)
 
 ## 24-17 (chikungunya)
 
