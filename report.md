@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-06-09 07:05
-- **Most recent article:** 2024-06-08 05:12:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-06-09 19:05
+- **Most recent article:** 2024-06-08 18:02:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 77 | 57 | 87 | 58 | 61 | 58 | 398 |
-| h5n1 | 0 | 57 | 63 | 95 | 65 | 61 | 341 |
-| malaria | 24 | 29 | 13 | 17 | 25 | 21 | 129 |
-| measles | 24 | 10 | 29 | 15 | 16 | 11 | 105 |
+| dengue | 76 | 57 | 87 | 58 | 61 | 63 | 402 |
+| h5n1 | 0 | 57 | 63 | 95 | 65 | 63 | 343 |
+| malaria | 21 | 29 | 13 | 17 | 25 | 21 | 126 |
+| measles | 21 | 10 | 29 | 15 | 16 | 11 | 102 |
 | mpox | 36 | 3 | 10 | 9 | 16 | 8 | 82 |
-| rabies | 3 | 22 | 10 | 8 | 15 | 8 | 66 |
+| rabies | 3 | 22 | 10 | 8 | 15 | 9 | 67 |
 | chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 50 |
-| pertussis | 2 | 5 | 5 | 6 | 6 | 7 | 31 |
-| meningitis | 3 | 5 | 9 | 4 | 1 | 6 | 28 |
+| pertussis | 2 | 5 | 5 | 6 | 6 | 9 | 33 |
 | hpai | 0 | 4 | 3 | 7 | 12 | 2 | 28 |
+| meningitis | 2 | 5 | 9 | 4 | 1 | 6 | 27 |
 | zika | 8 | 2 | 6 | 3 | 3 | 0 | 22 |
 | yersinia | 5 | 1 | 0 | 6 | 0 | 1 | 13 |
 | leptospirosis | 2 | 1 | 3 | 0 | 5 | 1 | 12 |
@@ -43,6 +43,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (rabies)
 
+- [News24 | Public urged to stay away from seals after confirmation of rabies case in Cape Town](https://www.news24.com/news24/southafrica/news/public-urged-to-stay-away-from-seals-after-confirmation-of-rabies-case-in-cape-town-20240608) (News24)
+
 - [Rabid fox bites person in Lilburn neighborhood](https://www.fox5atlanta.com/news/rabid-fox-bites-person-lilburn-neighborhood) (FOX 5 Atlanta)
 
 - [Rabid fox bites person in Gwinnett County](https://www.wsbtv.com/news/local/gwinnett-county/rabid-fox-bites-person-gwinnett-county/KTXHRH2BABFBPK4X7SBM2EQFUU/) (WSB Atlanta)
@@ -60,6 +62,10 @@ Source: [News API](https://newsapi.org/)
 - [Dog bites teen in Chennai's KK Nagar, 2nd attack in a day](https://timesofindia.indiatimes.com/city/chennai/dog-bites-teen-in-chennais-kk-nagar-2nd-attack-in-a-day/articleshow/110649537.cms) (The Times of India)
 
 ## 24-23 (pertussis)
+
+- [Более ста детей пострадало из-за вспышки коклюша в Италии](https://nplus1.ru/news/2024/06/08/pertussis-outbreak-italy) (Nplus1.ru)
+
+- [Whooping Cough surging across US, CDC reports 45 in Georgia](https://www.wsbtv.com/news/washington-news-bureau/whooping-cough-surging-across-us-cdc-reports-45-georgia/D32JMRKU6JC47H5KY2N3FINPOQ/) (WSB Atlanta)
 
 - [Pertussis Cases are Rising Sharply in 2024](https://sciencebasedmedicine.org/pertussis-cases-are-rising-sharply-in-2024/) (Sciencebasedmedicine.org)
 
@@ -187,6 +193,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (h5n1)
 
+- [Gripe aviária H5N1 tem novo caso em humano, diz OMS](https://olhardigital.com.br/2024/06/08/medicina-e-saude/gripe-aviaria-h5n1-tem-novo-caso-em-humano-diz-oms/) (Olhardigital.com.br)
+
+- [H5N1型鳥インフルのヒト感染、豪で初確認 インド帰りの女児 WHO](https://www.afpbb.com/articles/-/3523380) (Afpbb.com)
+
 - [Girl in Australia, 2, struck with H5N1 bird flu](https://www.channelnewsasia.com/world/australia-girl-two-years-old-h5n1-bird-flu-india-4396066) (CNA)
 
 - [WHO confirms Australia's first human case of 'severe' bird flu subtype likely came from India](https://www.abc.net.au/news/2024-06-08/who-says-australia-human-case-of-bird-flu-followed-india-travel/103954424) (ABC News (AU))
@@ -310,6 +320,16 @@ Source: [News API](https://newsapi.org/)
 - [牛也會感染「禽流感」？美國爆發乳牛H5N1疫情，喝牛奶、吃美牛有健康風險嗎？](https://www.thenewslens.com/article/203397) (Thenewslens.com)
 
 ## 24-23 (dengue)
+
+- [El dengue cubrirá la totalidad de Brasil y México para 2039, según un estudio](https://www.montevideo.com.uy/Salud/El-dengue-cubrira-la-totalidad-de-Brasil-y-Mexico-para-2039-segun-un-estudio-uc890672) (Montevideo.com.uy)
+
+- [DJ Bárbara Labres é internada com dengue: 'Pior coisa'](https://gente.ig.com.br/celebridades/2024-06-08/dj-barbara-labres-e-internada-com-dengue--pior-coisa.html) (Ig.com.br)
+
+- [Rio Grande do Sul supera soma de mortes por dengue em toda série histórica](https://www.terra.com.br/noticias/brasil/cidades/rio-grande-do-sul-supera-soma-de-mortes-por-dengue-em-toda-a-serie-historica,877ed899c0be1ea472b40ff1c90d397a7cgns3ii.html) (Terra.com.br)
+
+- [RS registra 225 mortes por dengue em apenas seis meses](https://ultimosegundo.ig.com.br/brasil/2024-06-08/rio-grande-do-sul-mortes-dengue.html) (Ig.com.br)
+
+- [Nuovo caso di Dengue a Trieste, al via la disinfestazione](https://www.ansa.it/sito/notizie/cronaca/2024/06/08/nuovo-caso-di-dengue-a-trieste-al-via-la-disinfestazione_c8e1c3a9-2377-473f-89e4-15e4860fd879.html) (ANSA.it)
 
 - [Dengue vaccination inclusion in National Immunisation Programme to take time, says Minister](https://www.thestar.com.my/news/nation/2024/06/08/dengue-vaccination-inclusion-in-national-immunisation-programme-to-take-time-says-minister) (The Star Online)
 
@@ -2543,8 +2563,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html) (GlobeNewswire)
 
-- [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
-
 ## 24-18 (measles)
 
 - [Addressing Childhood Diseases](https://naturalnewsblogs.com/addressing-childhood-diseases/) (Naturalnewsblogs.com)
@@ -2589,12 +2607,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘Measles had serious impact on kids with cancer’](https://timesofindia.indiatimes.com/city/mumbai/measles-had-serious-impact-on-kids-with-cancer/articleshow/109673357.cms) (The Times of India)
 
-- [Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN](https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html) (CNN)
-
-- [Global measles cases nearly doubled in one year, researchers say](https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062) (WESH Orlando)
-
-- [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
-
 ## 24-18 (malaria)
 
 - [Yellow Dove shares mental health battle; I’d strip naked, attempt to jump off Findeco House](https://diggers.news/lifestyle/2024/05/04/stripping-naked-attempted-15th-floor-findeco-house-jump-yellow-dove-shares-mental-health-battle/) (Diggers.news)
@@ -2638,12 +2650,6 @@ Source: [News API](https://newsapi.org/)
 - [Need to consistently raise public awareness on malaria: MPR](https://en.antaranews.com/news/312102/need-to-consistently-raise-public-awareness-on-malaria-mpr) (Antaranews.com)
 
 - [„Malariamücke“ nach 50 Jahren wieder in Italien aufgetaucht](https://www.diepresse.com/18416480/malariamuecke-nach-50-jahren-wieder-in-italien-aufgetaucht) (Diepresse.com)
-
-- [तीन करोड़ साल पुरानी बीमारी मलेरिया जड़ से होगी खत्म! गेम चेंजर है वैक्सीन आर21, क्या कहते हैं वैज्ञानिक](https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms) (The Times of India)
-
-- [Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia](https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/) (Ilpost.it)
-
-- ['Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'](https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/) (Thecooldown.com)
 
 ## 24-18 (leptospirosis)
 
@@ -2804,8 +2810,6 @@ Source: [News API](https://newsapi.org/)
 - [El mapa del dengue: con oscilaciones en las provincias, la epidemia ya acumula casi 380.000 casos desde enero](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-oscilaciones-en-las-provincias-la-epidemia-ya-acumula-casi-380000-casos-desde-nid28042024/) (La Nacion)
 
 - [Rising dengue cases in Kedah raising alarm](https://www.thestar.com.my/news/nation/2024/04/29/rising-dengue-cases-in-kedah-raising-alarm) (The Star Online)
-
-- [Argentina llegó a 280 fallecimientos de pacientes con dengue; 42 en la última semana](https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762) (Montevideo.com.uy)
 
 ## 24-18 (chikungunya)
 
