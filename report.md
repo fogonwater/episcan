@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-06-10 07:06
-- **Most recent article:** 2024-06-09 04:45:11
+- **New articles in last harvest:** 1
+- **Last harvest:** 2024-06-10 19:05
+- **Most recent article:** 2024-06-09 09:18:06
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 77 | 57 | 87 | 58 | 61 | 64 | 1 | 405 |
-| h5n1 | 0 | 57 | 63 | 95 | 65 | 65 | 2 | 347 |
-| malaria | 24 | 29 | 13 | 17 | 25 | 21 | 0 | 129 |
-| measles | 24 | 10 | 29 | 15 | 16 | 11 | 1 | 106 |
+| dengue | 76 | 57 | 87 | 58 | 61 | 64 | 1 | 404 |
+| h5n1 | 0 | 57 | 63 | 95 | 65 | 65 | 3 | 348 |
+| malaria | 21 | 29 | 13 | 17 | 25 | 21 | 0 | 126 |
+| measles | 21 | 10 | 29 | 15 | 16 | 11 | 1 | 103 |
 | mpox | 36 | 3 | 10 | 9 | 16 | 8 | 0 | 82 |
 | rabies | 3 | 22 | 10 | 8 | 15 | 9 | 0 | 67 |
 | chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 0 | 50 |
 | pertussis | 2 | 5 | 5 | 6 | 6 | 9 | 0 | 33 |
-| meningitis | 3 | 5 | 9 | 4 | 1 | 6 | 0 | 28 |
 | hpai | 0 | 4 | 3 | 7 | 12 | 2 | 0 | 28 |
+| meningitis | 2 | 5 | 9 | 4 | 1 | 6 | 0 | 27 |
 | zika | 8 | 2 | 6 | 3 | 3 | 0 | 0 | 22 |
 | yersinia | 5 | 1 | 0 | 6 | 0 | 1 | 0 | 13 |
 | leptospirosis | 2 | 1 | 3 | 0 | 5 | 1 | 0 | 12 |
@@ -38,6 +38,8 @@ Source: [News API](https://newsapi.org/)
 - [帝王切開で生まれた子どもは麻疹ワクチンが効きにくいという研究結果](https://news.livedoor.com/article/detail/26566455/) (Livedoor.com)
 
 ## 24-24 (h5n1)
+
+- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 - [【速報】オーストラリア、女児が鳥インフルエンザに感染したと発表](http://himasoku.com/archives/52255540.html) (Himasoku.com)
 
@@ -2583,8 +2585,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html) (GlobeNewswire)
 
-- [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
-
 ## 24-18 (measles)
 
 - [Addressing Childhood Diseases](https://naturalnewsblogs.com/addressing-childhood-diseases/) (Naturalnewsblogs.com)
@@ -2629,12 +2629,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘Measles had serious impact on kids with cancer’](https://timesofindia.indiatimes.com/city/mumbai/measles-had-serious-impact-on-kids-with-cancer/articleshow/109673357.cms) (The Times of India)
 
-- [Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN](https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html) (CNN)
-
-- [Global measles cases nearly doubled in one year, researchers say](https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062) (WESH Orlando)
-
-- [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
-
 ## 24-18 (malaria)
 
 - [Yellow Dove shares mental health battle; I’d strip naked, attempt to jump off Findeco House](https://diggers.news/lifestyle/2024/05/04/stripping-naked-attempted-15th-floor-findeco-house-jump-yellow-dove-shares-mental-health-battle/) (Diggers.news)
@@ -2678,12 +2672,6 @@ Source: [News API](https://newsapi.org/)
 - [Need to consistently raise public awareness on malaria: MPR](https://en.antaranews.com/news/312102/need-to-consistently-raise-public-awareness-on-malaria-mpr) (Antaranews.com)
 
 - [„Malariamücke“ nach 50 Jahren wieder in Italien aufgetaucht](https://www.diepresse.com/18416480/malariamuecke-nach-50-jahren-wieder-in-italien-aufgetaucht) (Diepresse.com)
-
-- [तीन करोड़ साल पुरानी बीमारी मलेरिया जड़ से होगी खत्म! गेम चेंजर है वैक्सीन आर21, क्या कहते हैं वैज्ञानिक](https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms) (The Times of India)
-
-- [Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia](https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/) (Ilpost.it)
-
-- ['Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'](https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/) (Thecooldown.com)
 
 ## 24-18 (leptospirosis)
 
@@ -2844,8 +2832,6 @@ Source: [News API](https://newsapi.org/)
 - [El mapa del dengue: con oscilaciones en las provincias, la epidemia ya acumula casi 380.000 casos desde enero](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-oscilaciones-en-las-provincias-la-epidemia-ya-acumula-casi-380000-casos-desde-nid28042024/) (La Nacion)
 
 - [Rising dengue cases in Kedah raising alarm](https://www.thestar.com.my/news/nation/2024/04/29/rising-dengue-cases-in-kedah-raising-alarm) (The Star Online)
-
-- [Argentina llegó a 280 fallecimientos de pacientes con dengue; 42 en la última semana](https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762) (Montevideo.com.uy)
 
 ## 24-18 (chikungunya)
 
