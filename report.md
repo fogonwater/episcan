@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-06-11 07:05
-- **Most recent article:** 2024-06-10 00:08:13
+- **New articles in last harvest:** 13
+- **Last harvest:** 2024-06-11 19:05
+- **Most recent article:** 2024-06-10 18:59:35
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 77 | 57 | 87 | 58 | 61 | 64 | 2 | 406 |
-| h5n1 | 0 | 57 | 63 | 95 | 65 | 77 | 7 | 364 |
-| malaria | 24 | 29 | 13 | 17 | 25 | 21 | 2 | 131 |
-| measles | 24 | 10 | 29 | 15 | 16 | 11 | 1 | 106 |
+| dengue | 76 | 57 | 87 | 58 | 61 | 64 | 8 | 411 |
+| h5n1 | 0 | 57 | 63 | 95 | 65 | 77 | 10 | 367 |
+| malaria | 21 | 29 | 13 | 17 | 25 | 21 | 3 | 129 |
+| measles | 21 | 10 | 29 | 15 | 16 | 11 | 1 | 103 |
 | mpox | 36 | 3 | 10 | 9 | 16 | 8 | 0 | 82 |
-| rabies | 3 | 22 | 10 | 8 | 15 | 9 | 0 | 67 |
-| chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 0 | 50 |
-| pertussis | 2 | 5 | 5 | 6 | 6 | 9 | 0 | 33 |
-| meningitis | 3 | 5 | 9 | 4 | 1 | 6 | 0 | 28 |
+| rabies | 3 | 22 | 10 | 8 | 15 | 9 | 1 | 68 |
+| chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 1 | 51 |
+| pertussis | 2 | 5 | 5 | 6 | 6 | 9 | 2 | 35 |
 | hpai | 0 | 4 | 3 | 7 | 12 | 2 | 0 | 28 |
+| meningitis | 2 | 5 | 9 | 4 | 1 | 6 | 0 | 27 |
 | zika | 8 | 2 | 6 | 3 | 3 | 0 | 0 | 22 |
 | yersinia | 5 | 1 | 0 | 6 | 0 | 1 | 0 | 13 |
 | leptospirosis | 2 | 1 | 3 | 0 | 5 | 1 | 0 | 12 |
@@ -33,17 +33,35 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-24 (rabies)
+
+- [Knowledge, attitudes, and practices of healthcare professionals regarding rabies in tertiary care hospitals: A cross-sectional study in Peshawar, Pakistan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012238) (Plos.org)
+
+## 24-24 (pertussis)
+
+- [Immunogenicity, reactogenicity, and IgE-mediated immune responses of a mixed whole-cell and acellular pertussis vaccine schedule in Australian infants: A randomised, double-blind, noninferiority trial](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004414) (Plos.org)
+
+- [Whooping cough: Doctors urge Chinese authorities to review vaccine strategy as cases surge](https://www.bmj.com/content/385/bmj.q1274) (The BMJ)
+
 ## 24-24 (measles)
 
 - [帝王切開で生まれた子どもは麻疹ワクチンが効きにくいという研究結果](https://news.livedoor.com/article/detail/26566455/) (Livedoor.com)
 
 ## 24-24 (malaria)
 
+- [Once called Nantucket fever, this nasty tick-borne illness is on the rise](https://www.npr.org/sections/shots-health-news/2024/06/10/nx-s1-4992276/once-called-nantucket-fever-this-nasty-tick-borne-illness-is-on-the-rise) (NPR)
+
 - [June 9, 2024 - PBS News Weekend full episode](https://www.pbs.org/newshour/show/june-9-2024-pbs-news-weekend-full-episode) (PBS)
 
 - [Can a new malaria vaccine for children eradicate the disease? Here's what to know](https://www.pbs.org/newshour/show/can-a-new-malaria-vaccine-for-children-eradicate-the-disease-heres-what-to-know) (PBS)
 
 ## 24-24 (h5n1)
+
+- [Bird flu virus from Texas human case kills 100% of ferrets in CDC study](https://arstechnica.com/science/2024/06/bird-flu-virus-from-texas-human-case-kills-100-of-ferrets-in-cdc-study/) (Ars Technica)
+
+- [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
+
+- [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
 
 - [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
 
@@ -61,9 +79,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-24 (dengue)
 
+- [Saiba como diferenciar os sintomas de dengue e de leptospirose](https://www.metropoles.com/saude/saiba-como-diferenciar-os-sintomas-de-dengue-e-de-leptospirose) (Metropoles.com)
+
+- [O que é febre do mayaro e como distinguir da dengue](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-febre-do-mayaro-e-como-distinguir-da-dengue,92c964acbef806cbbc7bf35f295e5bc7gncyoq8j.html) (Terra.com.br)
+
+- [Universidad peruana diseña un sapito de plástico que previene la propagación del dengue](https://www.montevideo.com.uy/Salud/Universidad-peruana-disena-un-sapito-de-plastico-que-previene-la-propagacion-del-dengue-uc890825) (Montevideo.com.uy)
+
+- [Döbbenetes statisztikák: kiderült, mely állatok okozzák a legtöbb ember halálát](https://www.portfolio.hu/gazdasag/20240610/dobbenetes-statisztikak-kiderult-mely-allatok-okozzak-a-legtobb-ember-halalat-691483) (Portfolio.hu)
+
+- [The epidemiologic and economic burden of dengue in Singapore: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012240) (Plos.org)
+
+- [Dengue diminui no frio ou ainda preciso me preocupar?](https://saude.ig.com.br/2024-06-10/dengue-diminui-no-frio-ou-ainda-preciso-me-preocupar.html) (Ig.com.br)
+
 - [Mais 21 cidades de Pernambuco vão receber vacina contra dengue](https://www.metropoles.com/brasil/mais-21-cidades-de-pernambuco-vao-receber-vacina-contra-dengue) (Metropoles.com)
 
 - [Dengue kills](https://www.thestar.com.my/news/nation/2024/06/09/dengue-kills) (The Star Online)
+
+## 24-24 (chikungunya)
+
+- [O que é febre do mayaro e como distinguir da dengue](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-febre-do-mayaro-e-como-distinguir-da-dengue,92c964acbef806cbbc7bf35f295e5bc7gncyoq8j.html) (Terra.com.br)
 
 ## 24-23 (yersinia)
 
@@ -2625,8 +2659,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html) (GlobeNewswire)
 
-- [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
-
 ## 24-18 (measles)
 
 - [Addressing Childhood Diseases](https://naturalnewsblogs.com/addressing-childhood-diseases/) (Naturalnewsblogs.com)
@@ -2671,12 +2703,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘Measles had serious impact on kids with cancer’](https://timesofindia.indiatimes.com/city/mumbai/measles-had-serious-impact-on-kids-with-cancer/articleshow/109673357.cms) (The Times of India)
 
-- [Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN](https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html) (CNN)
-
-- [Global measles cases nearly doubled in one year, researchers say](https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062) (WESH Orlando)
-
-- [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
-
 ## 24-18 (malaria)
 
 - [Yellow Dove shares mental health battle; I’d strip naked, attempt to jump off Findeco House](https://diggers.news/lifestyle/2024/05/04/stripping-naked-attempted-15th-floor-findeco-house-jump-yellow-dove-shares-mental-health-battle/) (Diggers.news)
@@ -2720,12 +2746,6 @@ Source: [News API](https://newsapi.org/)
 - [Need to consistently raise public awareness on malaria: MPR](https://en.antaranews.com/news/312102/need-to-consistently-raise-public-awareness-on-malaria-mpr) (Antaranews.com)
 
 - [„Malariamücke“ nach 50 Jahren wieder in Italien aufgetaucht](https://www.diepresse.com/18416480/malariamuecke-nach-50-jahren-wieder-in-italien-aufgetaucht) (Diepresse.com)
-
-- [तीन करोड़ साल पुरानी बीमारी मलेरिया जड़ से होगी खत्म! गेम चेंजर है वैक्सीन आर21, क्या कहते हैं वैज्ञानिक](https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms) (The Times of India)
-
-- [Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia](https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/) (Ilpost.it)
-
-- ['Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'](https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/) (Thecooldown.com)
 
 ## 24-18 (leptospirosis)
 
@@ -2886,8 +2906,6 @@ Source: [News API](https://newsapi.org/)
 - [El mapa del dengue: con oscilaciones en las provincias, la epidemia ya acumula casi 380.000 casos desde enero](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-oscilaciones-en-las-provincias-la-epidemia-ya-acumula-casi-380000-casos-desde-nid28042024/) (La Nacion)
 
 - [Rising dengue cases in Kedah raising alarm](https://www.thestar.com.my/news/nation/2024/04/29/rising-dengue-cases-in-kedah-raising-alarm) (The Star Online)
-
-- [Argentina llegó a 280 fallecimientos de pacientes con dengue; 42 en la última semana](https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762) (Montevideo.com.uy)
 
 ## 24-18 (chikungunya)
 
