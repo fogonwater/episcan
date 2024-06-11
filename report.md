@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 1
-- **Last harvest:** 2024-06-10 19:05
-- **Most recent article:** 2024-06-09 09:18:06
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-06-11 07:05
+- **Most recent article:** 2024-06-10 00:08:13
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 76 | 57 | 87 | 58 | 61 | 64 | 1 | 404 |
-| h5n1 | 0 | 57 | 63 | 95 | 65 | 65 | 3 | 348 |
-| malaria | 21 | 29 | 13 | 17 | 25 | 21 | 0 | 126 |
-| measles | 21 | 10 | 29 | 15 | 16 | 11 | 1 | 103 |
+| dengue | 77 | 57 | 87 | 58 | 61 | 64 | 2 | 406 |
+| h5n1 | 0 | 57 | 63 | 95 | 65 | 77 | 7 | 364 |
+| malaria | 24 | 29 | 13 | 17 | 25 | 21 | 2 | 131 |
+| measles | 24 | 10 | 29 | 15 | 16 | 11 | 1 | 106 |
 | mpox | 36 | 3 | 10 | 9 | 16 | 8 | 0 | 82 |
 | rabies | 3 | 22 | 10 | 8 | 15 | 9 | 0 | 67 |
 | chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 0 | 50 |
 | pertussis | 2 | 5 | 5 | 6 | 6 | 9 | 0 | 33 |
+| meningitis | 3 | 5 | 9 | 4 | 1 | 6 | 0 | 28 |
 | hpai | 0 | 4 | 3 | 7 | 12 | 2 | 0 | 28 |
-| meningitis | 2 | 5 | 9 | 4 | 1 | 6 | 0 | 27 |
 | zika | 8 | 2 | 6 | 3 | 3 | 0 | 0 | 22 |
 | yersinia | 5 | 1 | 0 | 6 | 0 | 1 | 0 | 13 |
 | leptospirosis | 2 | 1 | 3 | 0 | 5 | 1 | 0 | 12 |
@@ -37,15 +37,31 @@ Source: [News API](https://newsapi.org/)
 
 - [帝王切開で生まれた子どもは麻疹ワクチンが効きにくいという研究結果](https://news.livedoor.com/article/detail/26566455/) (Livedoor.com)
 
+## 24-24 (malaria)
+
+- [June 9, 2024 - PBS News Weekend full episode](https://www.pbs.org/newshour/show/june-9-2024-pbs-news-weekend-full-episode) (PBS)
+
+- [Can a new malaria vaccine for children eradicate the disease? Here's what to know](https://www.pbs.org/newshour/show/can-a-new-malaria-vaccine-for-children-eradicate-the-disease-heres-what-to-know) (PBS)
+
 ## 24-24 (h5n1)
 
+- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
+
+- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
+
 - [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
+
+- [Grippe aviaire : la menace venue du ciel qui inquiète les scientifiques](https://www.lexpress.fr/sciences-sante/grippe-aviaire-la-menace-venue-du-ciel-qui-inquiete-les-scientifiques-THDNCK5LSZDYRBEVSVMQBYVM24/) (L'Express)
 
 - [【速報】オーストラリア、女児が鳥インフルエンザに感染したと発表](http://himasoku.com/archives/52255540.html) (Himasoku.com)
 
 - [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表 ＼(^o^)／ｵﾜﾀ](http://matometanews.com/archives/2086387.html) (Matometanews.com)
 
+- [【人類終了】女児が鳥インフルエンザに感染したと発表 ＼(^o^)／ｵﾜﾀ 豪](http://blog.livedoor.jp/rbkyn844/archives/10654686.html) (Livedoor.jp)
+
 ## 24-24 (dengue)
+
+- [Mais 21 cidades de Pernambuco vão receber vacina contra dengue](https://www.metropoles.com/brasil/mais-21-cidades-de-pernambuco-vao-receber-vacina-contra-dengue) (Metropoles.com)
 
 - [Dengue kills](https://www.thestar.com.my/news/nation/2024/06/09/dengue-kills) (The Star Online)
 
@@ -209,13 +225,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-23 (h5n1)
 
+- ["Waanzinnig hoge" hoeveelheden vogelgriepvirus gevonden in rauwe koeienmelk in VS (al blijft besmetting bij de mens beperkt)](https://www.vrt.be/vrtnws/nl/2024/06/08/waanzinnig-hoge-hoeveelheden-vogelgriepvirus-aangetroffen-in-a/) (Www.vrt.be)
+
 - [Gripe aviária H5N1 tem novo caso em humano, diz OMS](https://olhardigital.com.br/2024/06/08/medicina-e-saude/gripe-aviaria-h5n1-tem-novo-caso-em-humano-diz-oms/) (Olhardigital.com.br)
 
+- [В Австралии зарегистрирован первый случай заражения птичьим гриппом H5N1](https://www.gazeta.ru/science/news/2024/06/08/23205217.shtml) (Gazeta.ru)
+
 - [Grippe aviaire : de nouvelles contaminations humaines et une épizootie qui s’accélère aux Etats-Unis](https://www.lemonde.fr/planete/article/2024/06/08/grippe-aviaire-de-nouvelles-contaminations-humaines-et-une-epizootie-qui-s-accelere-aux-etats-unis_6238033_3244.html) (Le Monde)
+
+- [Una niña de 2 años, el primer contagio humano de gripe aviar en Australia](https://www.lavozdegalicia.es/noticia/sociedad/2024/06/08/nina-2-anos-primer-contagio-humano-gripe-aviar-australia/00031717844190573677698.htm) (Lavozdegalicia.es)
+
+- [Girl in Australia, 2, struck with H5N1 bird flu: WHO](https://medicalxpress.com/news/2024-06-girl-australia-struck-h5n1-bird.html) (Medical Xpress)
+
+- [אוסטרליה: בת שנתיים נדבקה בשפעת העופות ואושפזה בטיפול נמרץ](https://www.ynet.co.il/health/article/r1hn0kwrc) (Ynet)
+
+- [Niña australiana de 2 años, afectada por gripe aviar H5N1: OMS [ENG]](https://www.meneame.net/m/ciencia/nina-australiana-2-anos-afectada-gripe-aviar-h5n1-oms-eng) (Meneame.net)
 
 - [H5N1型鳥インフルのヒト感染、豪で初確認 インド帰りの女児 WHO](https://www.afpbb.com/articles/-/3523380) (Afpbb.com)
 
 - [Girl in Australia, 2, struck with H5N1 bird flu](https://www.channelnewsasia.com/world/australia-girl-two-years-old-h5n1-bird-flu-india-4396066) (CNA)
+
+- [Two-Year-Old Australian Girl Tested Positive For H5N1 Bird Flu: WHO](https://www.ndtv.com/world-news/two-year-old-australian-girl-tested-positive-for-h5n1-bird-flu-who-5842787) (NDTV News)
 
 - [WHO confirms Australia's first human case of 'severe' bird flu subtype likely came from India](https://www.abc.net.au/news/2024-06-08/who-says-australia-human-case-of-bird-flu-followed-india-travel/103954424) (ABC News (AU))
 
@@ -223,7 +253,17 @@ Source: [News API](https://newsapi.org/)
 
 - [OMS confirma primer caso de gripe aviar en Australia](https://aristeguinoticias.com/0706/mundo/oms-confirma-primer-caso-de-gripe-aviar-en-australia/) (Aristeguinoticias.com)
 
+- [TWiV 1120: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1120/) (Microbe.tv)
+
+- [Lo que las vacas con gripe aviar nos enseñan sobre la transmisión de virus respiratorios en bebés](https://www.eldiario.es/sociedad/vacas-gripe-aviar-ensenan-transmision-virus-respiratorios-bebes_1_11431757.html) (Eldiario.es)
+
 - [ВОЗ подтвердила заражение человека птичьим гриппом A(H5N1)](https://tass.ru/obschestvo/21044667) (Tass.ru)
+
+- [Seal outbreak shows bird flu virus is adapting to mammals](https://www.futurity.org/bird-flu-adapting-to-mammals-3228552/) (Futurity: Research News)
+
+- [Friday headlines: Journalismisn’t](https://themorningnews.org/p/friday-headlines-journalismisnt) (Themorningnews.org)
+
+- [Finland offers vaccination against bird flu to those working with poultry, or on fur farms](https://www.euractiv.com/section/health-consumers/news/finland-offers-vaccination-against-bird-flu-to-those-working-with-poultry-or-on-fur-farms/) (EURACTIV)
 
 - [Przygotowują szczepionki przeciw ptasiej grypie. Przewidują pandemię?](https://geekweek.interia.pl/medycyna/news-przygotowuja-szczepionki-przeciw-ptasiej-grypie-przewiduja-p,nId,7560310) (Interia.pl)
 
@@ -2585,6 +2625,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html) (GlobeNewswire)
 
+- [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
+
 ## 24-18 (measles)
 
 - [Addressing Childhood Diseases](https://naturalnewsblogs.com/addressing-childhood-diseases/) (Naturalnewsblogs.com)
@@ -2629,6 +2671,12 @@ Source: [News API](https://newsapi.org/)
 
 - [‘Measles had serious impact on kids with cancer’](https://timesofindia.indiatimes.com/city/mumbai/measles-had-serious-impact-on-kids-with-cancer/articleshow/109673357.cms) (The Times of India)
 
+- [Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN](https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html) (CNN)
+
+- [Global measles cases nearly doubled in one year, researchers say](https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062) (WESH Orlando)
+
+- [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
+
 ## 24-18 (malaria)
 
 - [Yellow Dove shares mental health battle; I’d strip naked, attempt to jump off Findeco House](https://diggers.news/lifestyle/2024/05/04/stripping-naked-attempted-15th-floor-findeco-house-jump-yellow-dove-shares-mental-health-battle/) (Diggers.news)
@@ -2672,6 +2720,12 @@ Source: [News API](https://newsapi.org/)
 - [Need to consistently raise public awareness on malaria: MPR](https://en.antaranews.com/news/312102/need-to-consistently-raise-public-awareness-on-malaria-mpr) (Antaranews.com)
 
 - [„Malariamücke“ nach 50 Jahren wieder in Italien aufgetaucht](https://www.diepresse.com/18416480/malariamuecke-nach-50-jahren-wieder-in-italien-aufgetaucht) (Diepresse.com)
+
+- [तीन करोड़ साल पुरानी बीमारी मलेरिया जड़ से होगी खत्म! गेम चेंजर है वैक्सीन आर21, क्या कहते हैं वैज्ञानिक](https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms) (The Times of India)
+
+- [Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia](https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/) (Ilpost.it)
+
+- ['Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'](https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/) (Thecooldown.com)
 
 ## 24-18 (leptospirosis)
 
@@ -2832,6 +2886,8 @@ Source: [News API](https://newsapi.org/)
 - [El mapa del dengue: con oscilaciones en las provincias, la epidemia ya acumula casi 380.000 casos desde enero](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-oscilaciones-en-las-provincias-la-epidemia-ya-acumula-casi-380000-casos-desde-nid28042024/) (La Nacion)
 
 - [Rising dengue cases in Kedah raising alarm](https://www.thestar.com.my/news/nation/2024/04/29/rising-dengue-cases-in-kedah-raising-alarm) (The Star Online)
+
+- [Argentina llegó a 280 fallecimientos de pacientes con dengue; 42 en la última semana](https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762) (Montevideo.com.uy)
 
 ## 24-18 (chikungunya)
 

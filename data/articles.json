@@ -1,8 +1,98 @@
 {
-  "last_updated": "2024-06-10 19:05",
-  "count_articles_total": 1274,
-  "count_articles_new": 1,
+  "last_updated": "2024-06-11 07:05",
+  "count_articles_total": 1301,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 9991,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Diario de Pernambuco",
+      "title": "Mais 21 cidades de Pernambuco v\u00e3o receber vacina contra dengue",
+      "description": "As cidades est\u00e3o localizadas no Agreste Meridional e pertencem \u00e0 V Ger\u00eancia Regional de Sa\u00fade, com sede em Garanhuns",
+      "url": "https://www.metropoles.com/brasil/mais-21-cidades-de-pernambuco-vao-receber-vacina-contra-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/10095625/vacinacao-dengue-vacina-qdenga-imunizante-df.jpeg",
+      "publishedAt": "2024-06-10 00:08:13",
+      "content": "Mais 21 munic\u00edpios de Pernambuco receber\u00e3o a vacina contra a dengue. Segundo a Secretaria Estadual de Sa\u00fade (SES), os imunizantes ser\u00e3o distribu\u00eddos a partir desta segunda-feira (10/6). As cidades e\u2026 [+309 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.455330",
+      "internal_id": "079a06e328a6c0d5db00d160d98661a8a045b3e123f3404fa36a659ecb2281f2",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 9993,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "PBS NewsHour Weekend",
+      "title": "June 9, 2024 - PBS News Weekend full episode",
+      "description": "Sunday on PBS News Weekend, what Atlanta's recent water main break says about America's aging infrastructure. Then, a look at a new vaccine with the potential to eradicate malaria, one of the world's deadliest diseases. Plus, a doctor discusses his new book a\u2026",
+      "url": "https://www.pbs.org/newshour/show/june-9-2024-pbs-news-weekend-full-episode",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/06/FullEpisode-4-1024x681.jpg",
+      "publishedAt": "2024-06-09 21:54:44",
+      "content": "Sunday on PBS News Weekend, what Atlantas recent water main break says about Americas aging infrastructure. Then, a look at a new vaccine with the potential to eradicate malaria, one of the worlds de\u2026 [+127 chars]",
+      "retrievedAt": "2024-06-11 07:05:51.145725",
+      "internal_id": "0bf5250b26179b0f935cdb7fc3248b5086c58248fecf9199a95a29d6aef0b628",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9992,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Ali Rogin, Andrew Corkery, Harry Zahn",
+      "title": "Can a new malaria vaccine for children eradicate the disease? Here's what to know",
+      "description": "Malaria is one of the world's deadliest diseases. Across Africa, it kills nearly half a million children younger than 5 each year. A new vaccine, only the second of its kind, holds the promise of saving thousands of lives and moving the world closer to eradic\u2026",
+      "url": "https://www.pbs.org/newshour/show/can-a-new-malaria-vaccine-for-children-eradicate-the-disease-heres-what-to-know",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/06/Malaria-1-1024x668.jpg",
+      "publishedAt": "2024-06-09 21:35:14",
+      "content": "Malaria is one of the worlds deadliest diseases. Across Africa, it kills nearly half a million children younger than 5 each year. A new vaccine, only the second of its kind, holds the promise of savi\u2026 [+176 chars]",
+      "retrievedAt": "2024-06-11 07:05:51.137587",
+      "internal_id": "f4315756e3e4c6c36890f03a069abb6d7f34c3bf2e3b69a301eb1ef851c629ca",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9980,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u092a\u094d\u0930\u093f\u092f\u0947\u0936 \u092e\u093f\u0936\u094d\u0930",
+      "title": "H5N2 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0907\u0902\u0938\u093e\u0928 \u0915\u0940 \u092e\u094c\u0924, \u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a",
+      "description": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 59 \u0935\u0930\u094d\u0937\u0940\u092f \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u0938\u092c-\u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092e\u0943\u0924\u094d\u092f\u0941 \u0939\u0941\u0908 \u0939\u0948\u0964 \u0907\u0938\u0947 H5N2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0947 \u0915\u093f\u0938\u0940 \u092e\u0928\u0941\u0937\u094d\u092f \u0915\u094b \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0928\u0947 \u0915\u093e \u092a\u0939\u0932\u093e \u091c\u094d\u091e\u093e\u0924 \u092e\u093e\u092e\u0932\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 1996 \u0938\u0947 H5N1 \u0928\u093e\u092e\u0915 \u090f\u0915 \u0905\u0928\u094d\u092f \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0915\u0947 \u0932\u0917\u092d\u0917 900 \u092e\u093e\u0928\u0935 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902, \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u0906\u0927\u0947 \u0938\u0947\u2026",
+      "url": "https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-39062,msid-110853100/navbharat-times.jpg",
+      "publishedAt": "2024-06-09 18:01:24",
+      "content": ": 59 H5N2 1996 H5N1 900 WHO H5 , - ? , 59 (WHO) , , , , \" , (52) \" 51 52 - , , \" , \" '' \" \" 51 : , Adv: 6-16 , 65% 3.0 - , LiveIND vs PAK: , 120 <\u2026 [+223 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.004275",
+      "internal_id": "b4d989dd1da56f6bc0439c6bef6423c07b5918dabfc8d7753194ed1ae156fcb6",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9986,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Anna Kurek",
+      "title": "Naukowcy szykuj\u0105 now\u0105 szczepionk\u0119. Ma zapobiec kolejnej pandemii",
+      "description": "\u015awiat zaczyna si\u0119 powa\u017cnie niepokoi\u0107 ptasi\u0105 gryp\u0105. Istnieje niebezpiecze\u0144stwo, \u017ce mutuj\u0105cy wirus, a szczeg\u00f3lnie typy H5N1, H7N9 i H9N2, mog\u0105 zagrozi\u0107 ludziom i przynie\u015b\u0107 kolejn\u0105 pandemi\u0119. Kilka laboratori\u00f3w na \u015bwiecie pracuje ju\u017c nad szczepionkami, kt\u00f3re mia\u0142\u2026",
+      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html",
+      "urlToImage": "https://bi.im-g.pl/im/40/9b/1d/z31044160IER,Szczepionka-na-ptasia-grype.jpg",
+      "publishedAt": "2024-06-09 10:25:00",
+      "content": "Ostatnie doniesienia na temat ptasiej grypy s bardzo niepokojce. Znaleziono dowody na pierwsze zakaenia wr\u00f3d ludzi. Oznacza to, e istnieje niebezpieczestwo, e mutujcy wirus stanie si zdolny do masowe\u2026 [+2508 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.031940",
+      "internal_id": "a3f3bac77995c0bd9cacca967c87d17581f6d56f2f2ad172156b1c423478a475",
+      "publishedAtLabel": "Jun 9"
+    },
     {
       "id": 9974,
       "query": [
@@ -19,6 +109,24 @@
       "content": "1 2024/06/09() 09:14:10.36ID:eMXCByJm0 8 2024/06/09() 09:17:52.63ID:vU7IJfVJ0.net 22 2024/06/09() 09:22:25.45ID:IpCz3VXT0.net 77 2024/06/09() 09:41:46.02ID:AdyMwMaM0.net 208 2024/06/09() 10:46:\u2026 [+998 chars]",
       "retrievedAt": "2024-06-10 19:05:35.748105",
       "internal_id": "856e0d9de9b997cd78131c7245c3b234a6d641efeff8c1e801851545f67854bb",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9984,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "Yohan Blavignat",
+      "title": "Grippe aviaire : la menace venue du ciel qui inqui\u00e8te les scientifiques",
+      "description": "Une souche hautement pathog\u00e8ne de H5N1 circule depuis mars dans les \u00e9levages de vaches aux Etats-Unis, et a infect\u00e9 trois personnes. Dans le m\u00eame temps, un homme est mort de son demi-fr\u00e8re, H5N2, au Mexique. Le d\u00e9but d'un emballement ?",
+      "url": "https://www.lexpress.fr/sciences-sante/grippe-aviaire-la-menace-venue-du-ciel-qui-inquiete-les-scientifiques-THDNCK5LSZDYRBEVSVMQBYVM24/",
+      "urlToImage": "https://www.lexpress.fr/resizer/Gs9LyOgIMfZVXtsGuPowJZIrKas=/1200x630/filters:focal(3899x1768:3909x1778)/cloudfront-eu-central-1.images.arcpublishing.com/lexpress/PPPCVJX2BNAINJSFELBN3VMPCE.jpg",
+      "publishedAt": "2024-06-09 06:30:00",
+      "content": "La menace tient en quatre lettres, ou plut\u00f4t deux et autant de chiffres : H5N1. D\u00e9tect\u00e9e en 1996, cette souche de la grippe aviaire partie de Chine est parvenue \u00e0 coloniser la plan\u00e8te enti\u00e8re : dabor\u2026 [+10108 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.022992",
+      "internal_id": "7df3cdfee18f0969f1aee309832fdf4433f95eb509c5324c61773e2b1f356078",
       "publishedAtLabel": "Jun 9"
     },
     {
@@ -76,6 +184,24 @@
       "publishedAtLabel": "Jun 9"
     },
     {
+      "id": 9977,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Livedoor.jp",
+      "author": "rbkyn844",
+      "title": "\u3010\u4eba\u985e\u7d42\u4e86\u3011\u5973\u5150\u304c\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306b\u611f\u67d3\u3057\u305f\u3068\u767a\u8868 \uff3c(^o^)\uff0f\uff75\uff9c\uff80 \u8c6a",
+      "description": "\u3010\u4eba\u985e\u7d42\u4e86\u3011\u5973\u5150\u304c\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306b\u611f\u67d3\u3057\u305f\u3068\u767a\u8868 \uff3c(^o^)\uff0f\uff75\uff9c\uff80 \u8c6a var microadCompass = microadCompass || {}; microadCompass.queue = microadCompass.queue || []; microadCompass.queue.push({ \"spot\": \"11cf97bbd364c255a1c676272a5f1000\" }); ...",
+      "url": "http://blog.livedoor.jp/rbkyn844/archives/10654686.html",
+      "urlToImage": "https://livedoor.blogimg.jp/rbkyn844/imgs/9/b/9b16eef2.jpg",
+      "publishedAt": "2024-06-09 02:12:34",
+      "content": ": https://hayabusa9.5ch.net/test/read.cgi/news/1717892050/ H5N1 WHOhttps://t.co/uHpsYHJarT AFPBB News (@afpbbcom) June 8, 2024 4: () [US] 2024/06/09() 09:15:49.21 ID:fToFM9iT0 6: () [US] 2024/0\u2026 [+2323 chars]",
+      "retrievedAt": "2024-06-11 07:05:49.990922",
+      "internal_id": "dde75c467991cdaa7b556ccb268b78a4acf7b1de0d55ee7a049c20e095924536",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
       "id": 9972,
       "query": [
         "dengue"
@@ -109,6 +235,24 @@
       "content": "KUALA LUMPUR: Despite the conditional registration approval for a dengue vaccine recently, the government still needs time to consider its inclusion in the National Immunisation Programme, says Healt\u2026 [+2692 chars]",
       "retrievedAt": "2024-06-10 07:05:59.044622",
       "internal_id": "18e88475d2d003e97e7dc396c7dbee558438da0af733999b7ed59d5a0e113cd8",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 9978,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": null,
+      "title": "\"Waanzinnig hoge\" hoeveelheden vogelgriepvirus gevonden in rauwe koeienmelk in VS (al blijft besmetting bij de mens beperkt)",
+      "description": "Het lijkt er sterk op dat het H5N1-vogelgriepvirus zich tussen koeien verspreidt via rauwe melk. Dat blijkt uit Amerikaanse studies. Het zou verklaren hoe het virus zich gemakkelijk verspreidt tussen melkvee onderling, van koeien op andere zoogdieren en in so\u2026",
+      "url": "https://www.vrt.be/vrtnws/nl/2024/06/08/waanzinnig-hoge-hoeveelheden-vogelgriepvirus-aangetroffen-in-a/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/06/08/93d0fb5d-25cb-11ef-8fc9-02b7b76bf47f.jpg",
+      "publishedAt": "2024-06-08 20:06:07",
+      "content": "Het H5N1-virus blijkt zich, tot verrassing van virologen, te kunnen binden aan receptoren in cellen in de melkklieren van koeien. Rauwe melk wordt daardoor een erg effici\u00ebnte besmettingsbron. Met zul\u2026 [+958 chars]",
+      "retrievedAt": "2024-06-11 07:05:49.995359",
+      "internal_id": "5c25e831d774c0965b5043dcc98c68acb587b41f8571959a86c813940321ff7a",
       "publishedAtLabel": "Jun 8"
     },
     {
@@ -163,6 +307,24 @@
       "content": "B\u00e1rbara Labres est\u00e1 hospitalizada devido \u00e0 dengue . A DJ e influenciadora, de 29 anos, compartilhou em seu Instagram uma imagem mostrando-se recebendo medica\u00e7\u00e3o intravenosa, relatando o sofrimento\u2026 [+594 chars]",
       "retrievedAt": "2024-06-09 19:05:38.003248",
       "internal_id": "9853c9470df7e18a56b47b7d1bb772cfb60c53029d1cf56fe09d345167855996",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 9983,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.ru",
+      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
+      "title": "\u0412 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0438 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c H5N1",
+      "description": "\u0414\u0432\u0443\u0445\u043b\u0435\u0442\u043d\u044f\u044f \u0434\u0435\u0432\u043e\u0447\u043a\u0430 \u0438\u0437 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0438 \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0430\u0441\u044c \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c H5N1 \u0432 \u0418\u043d\u0434\u0438\u0438. \u041e \u043f\u0435\u0440\u0432\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043d\u0430 \u043c\u0430\u0442\u0435\u0440\u0438\u043a\u0435 \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 AFP \u0441\u043e \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u0443\u044e \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417). \u0420\u0435\u0431\u0435\u043d\u043e\u043a \u043d\u0430\u0445\u043e\u0434\u0438\u043b\u0441\u044f \u0432 \u0438\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u043c \u0433\u043e\u0440\u043e\u0434\u0435 \u041a\u0430\u043b\u044c\u043a\u0443\u0442\u0442\u0435 ...",
+      "url": "https://www.gazeta.ru/science/news/2024/06/08/23205217.shtml",
+      "urlToImage": "https://img.gazeta.ru/files3/60/13487060/upload-20210111_gaf_u55_296-pic905-895x505-79816.jpg",
+      "publishedAt": "2024-06-08 14:55:17",
+      "content": ": .Ru (Gazeta.Ru) : \u00ab.\u00bb, 1067761730376, 7743625728 : 125239, , , , 67 : 117105, . , , .9, .1",
+      "retrievedAt": "2024-06-11 07:05:50.017749",
+      "internal_id": "8d293dcbef49edf8fa9857fd4b2dd9071460450ff2b3328c32806eacfe7631bd",
       "publishedAtLabel": "Jun 8"
     },
     {
@@ -256,6 +418,24 @@
       "publishedAtLabel": "Jun 8"
     },
     {
+      "id": 9987,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "redacci\u00f3n",
+      "title": "Una ni\u00f1a de 2 a\u00f1os, el primer contagio humano de gripe aviar en Australia",
+      "description": "La peque\u00f1a, que posiblemente se infect\u00f3 en un viaje a la India, presenta la variante m\u00e1s com\u00fan del virus, la H5N1",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2024/06/08/nina-2-anos-primer-contagio-humano-gripe-aviar-australia/00031717844190573677698.htm",
+      "urlToImage": "https://img.lavdg.com/sc/iDwC6z8Ug4CcNJtxBKSKxLdvCQM=/1280x/2024/06/08/00121717844822158319204/Foto/reu_20240523_165827458.jpg",
+      "publishedAt": "2024-06-08 11:08:00",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) confirm\u00f3 el primer caso humano de la gripe aviar, anunciado ya por las autoridades australianas el mes pasado, en una ni\u00f1a de dos a\u00f1os que hab\u00eda viajado a la\u2026 [+2803 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.036328",
+      "internal_id": "8126f9246b64854e54ba56bf1b76bda16c7b2b4a3447d67f3de0c62aa8747b3a",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
       "id": 9964,
       "query": [
         "dengue"
@@ -271,6 +451,60 @@
       "content": "Un nuovo caso di febbre Dengue \u00e8 stato accertato a Trieste dal Dipartimento di prevenzione dell'Azienda sanitaria universitaria giuliano isontina. Lo rende noto il Comune, annunciando l'avvio di n\u2026 [+1310 chars]",
       "retrievedAt": "2024-06-09 19:05:37.977124",
       "internal_id": "709d4fef3d6d1f0e8d555940f724a0bf04cfee616f48538163177e57ae20fcb7",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 9990,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Medical Xpress",
+      "author": "Science X",
+      "title": "Girl in Australia, 2, struck with H5N1 bird flu: WHO",
+      "description": "A two-and-a-half-year-old girl tested positive for H5N1 bird flu and needed hospital intensive care treatment in Australia after traveling to India, the World Health Organization said on Friday.",
+      "url": "https://medicalxpress.com/news/2024-06-girl-australia-struck-h5n1-bird.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2014/1-h5n1.jpg",
+      "publishedAt": "2024-06-08 10:04:13",
+      "content": "A two-and-a-half-year-old girl tested positive for H5N1 bird flu and needed hospital intensive care treatment in Australia after traveling to India, the World Health Organization said on Friday. \"Th\u2026 [+1904 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.049658",
+      "internal_id": "78f2c50ed0e03fc4f13a744f09a8910b89dd13df3a72159c94d2938543b3755c",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 9982,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05e1\u05d5\u05db\u05e0\u05d5\u05d9\u05d5\u05ea \u05d4\u05d9\u05d3\u05d9\u05e2\u05d5\u05ea",
+      "title": "\u05d0\u05d5\u05e1\u05d8\u05e8\u05dc\u05d9\u05d4: \u05d1\u05ea \u05e9\u05e0\u05ea\u05d9\u05d9\u05dd \u05e0\u05d3\u05d1\u05e7\u05d4 \u05d1\u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05d5\u05d0\u05d5\u05e9\u05e4\u05d6\u05d4 \u05d1\u05d8\u05d9\u05e4\u05d5\u05dc \u05e0\u05de\u05e8\u05e5",
+      "description": "\u05e9\u05dc\u05d5\u05e9\u05d4 \u05d7\u05d5\u05d3\u05e9\u05d9\u05dd \u05dc\u05d0\u05d7\u05e8 \u05d0\u05e9\u05e4\u05d5\u05d6\u05d4 \u05e9\u05dc \u05d4\u05e4\u05e2\u05d5\u05d8\u05d4 \u05e9\u05e0\u05d3\u05d1\u05e7\u05d4 \u05db\u05e0\u05e8\u05d0\u05d4 \u05d1\u05d8\u05d9\u05d5\u05dc \u05d1\u05d4\u05d5\u05d3\u05d5, \u05d5\u05dc\u05d0\u05d7\u05e8 \u05e9\u05d4\u05d7\u05dc\u05d9\u05de\u05d4 \u05dc\u05d2\u05de\u05e8\u05d9, \u05d0\u05d9\u05e9\u05e8 \u05d0\u05e8\u05d2\u05d5\u05df \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d4\u05e2\u05d5\u05dc\u05de\u05d9 \u05e9\u05e0\u05d3\u05d1\u05e7\u05d4 \u05d1\u05ea\u05ea \u05d6\u05df \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea A(H5N1), \u05dc\u05e8\u05d0\u05e9\u05d5\u05e0\u05d4 \u05d1\u05d0\u05d5\u05e1\u05d8\u05e8\u05dc\u05d9\u05d4. \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05d4\u05d9\u05d0 \u05de\u05d7\u05dc\u05d4 \u05d5\u05d9\u05e8\u05d0\u05dc\u05d9\u05ea \u05de\u05d9\u05d3\u05d1\u05e7\u05ea \u05e9\u05e2\u05dc\u05d5\u05dc\u05d4 \u05dc\u05d4\u05d9\u05d5\u05ea \u05e7\u05d8\u05dc\u05e0\u05d9\u05ea, \u05d0\u05da \u05d4\u05e1\u05d9\u05db\u05d5\u05d9 \u05e9\u05d0\u05d3\u05dd \u05d9\u05d3\u05d1\u05d9\u05e7 \u05d0\u05d3\u05dd \u05db\u05de\u05e2\u05d8 \u05dc\u05d0 \u05e7\u05d9\u05d9\u05dd",
+      "url": "https://www.ynet.co.il/health/article/r1hn0kwrc",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/06/08/ByqXZqWBR/ByqXZqWBR_0_15_1000_563_0_large.jpg",
+      "publishedAt": "2024-06-08 09:16:16",
+      "content": "-12 19 . -2 . , - A(H5N1). - . , \" \", . . , , , H5N1 , \" \". \" ', (\"\") ' \" \" H5N1 , \". \" \" . 2003 -2023 246 -H5N1 ( , ), 138 . , , . : , , (59), H5N2 , . . , . \" . . . H5N1 -1997, 900 . -50% ,\u2026 [+13 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.013354",
+      "internal_id": "e63a59c3845e8e3f906d9d6924ef92b2cc73f1d04ada85d2af812fd8680f5205",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 9981,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Larpeir\u00e1n",
+      "title": "Ni\u00f1a australiana de 2 a\u00f1os, afectada por gripe aviar H5N1: OMS [ENG]",
+      "description": "Una ni\u00f1a de dos a\u00f1os y medio dio positivo por gripe aviar H5N1 y necesit\u00f3 tratamiento de cuidados intensivos hospitalarios en Australia despu\u00e9s de viajar a India, dijo el viernes la Organizaci\u00f3n Mundial de la Salud.etiquetas: cepa h5n1, gripe aviar, australia\u2026",
+      "url": "https://www.meneame.net/m/ciencia/nina-australiana-2-anos-afectada-gripe-aviar-h5n1-oms-eng",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-06-08 08:58:31",
+      "content": "\u00a1\u00a1\u00a1\u00a1 R\u00e1pido, todos a agotar las existencias de papel higi\u00e9nico !!!!! Madre m\u00eda las que se nos viene encima otra vez.",
+      "retrievedAt": "2024-06-11 07:05:50.009070",
+      "internal_id": "0adb88e769674e35b5a057f7b2d564b2983c4066015e3617d2ce07ec94724fc1",
       "publishedAtLabel": "Jun 8"
     },
     {
@@ -362,6 +596,24 @@
       "retrievedAt": "2024-06-09 07:05:54.758605",
       "internal_id": "6e23923413632d83a1eaf7a4ed90151319d848a284d03e7df38ff01d3e3a6f5a",
       "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 9976,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Two-Year-Old Australian Girl Tested Positive For H5N1 Bird Flu: WHO",
+      "description": "A two-and-a-half-year-old girl tested positive for H5N1 bird flu and needed hospital intensive care treatment in Australia after travelling to India, the World Health Organization said on Friday.",
+      "url": "https://www.ndtv.com/world-news/two-year-old-australian-girl-tested-positive-for-h5n1-bird-flu-who-5842787",
+      "urlToImage": "https://c.ndtvimg.com/2024-05/laeucfs_h5n1-virus-generic-afp_625x300_31_May_24.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240506.08",
+      "publishedAt": "2024-06-07 23:59:12",
+      "content": "The WHO assesses the current risk to the general population posed by the virus as low. Geneva: A two-and-a-half-year-old girl tested positive for H5N1 bird flu and needed hospital intensive care tre\u2026 [+1698 chars]",
+      "retrievedAt": "2024-06-11 07:05:49.986020",
+      "internal_id": "9514655ad73f457de7a31e5740b197225947c80e78995b6753093963f0d67625",
+      "publishedAtLabel": "Jun 7"
     },
     {
       "id": 9954,
@@ -491,6 +743,42 @@
       "publishedAtLabel": "Jun 7"
     },
     {
+      "id": 9989,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1120: Clinical update with Dr. Daniel Griffin",
+      "description": "In his weekly clinical update, Dr. Griffin reports the third case of influenza H5N1 infection in a human, this time with respiratory symptoms, an H5 avian influenza virus wastewater dashboard, FDA approves Moderna\u2019s mRNA vaccine for respiratory syncytial viru\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1120/",
+      "urlToImage": null,
+      "publishedAt": "2024-06-07 21:15:18",
+      "content": "In his weekly clinical update, Dr. Griffin reports the third case of influenza H5N1 infection in a human, this time with respiratory symptoms, an H5 avian influenza virus wastewater dashboard, FDA ap\u2026 [+1358 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.045148",
+      "internal_id": "4a94ec50eef06d8d5b25fa52b1dedc271bb53ea6f45a89eb9de24218a00ae7b5",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9988,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Sergio Ferrer",
+      "title": "Lo que las vacas con gripe aviar nos ense\u00f1an sobre la transmisi\u00f3n de virus respiratorios en beb\u00e9s",
+      "description": "A finales de 2023, sin que nadie se diera cuenta durante meses, la crisis generada por la gripe aviar H5N1 alcanz\u00f3 a un nuevo hu\u00e9sped: las vacas lecheras de Estados Unidos. Sumar otro mam\u00edfero a la lista no era del todo inesperado a estas alturas, ya que el v\u2026",
+      "url": "https://www.eldiario.es/sociedad/vacas-gripe-aviar-ensenan-transmision-virus-respiratorios-bebes_1_11431757.html",
+      "urlToImage": "https://static.eldiario.es/clip/24641a3d-7d8e-4e0d-8dae-a8a65f424a93_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-06-07 21:13:09",
+      "content": "A finales de 2023, sin que nadie se diera cuenta durante meses, la crisis generada por la gripe aviar H5N1 alcanz\u00f3 a un nuevo hu\u00e9sped: las vacas lecheras de Estados Unidos. Sumar otro mam\u00edfero a la l\u2026 [+1147 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.040877",
+      "internal_id": "621589beca161f421296d8f322f609f1e38bcb50c9438e95a3ddd5f6ac6600af",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
       "id": 9951,
       "query": [
         "h5n1"
@@ -509,6 +797,24 @@
       "publishedAtLabel": "Jun 7"
     },
     {
+      "id": 9985,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Kat Kerlin-UC Davis",
+      "title": "Seal outbreak shows bird flu virus is adapting to mammals",
+      "description": "Researchers investigated a massive avian flu outbreak among elephant seals and found clear mammal-to-mammal transmission of the virus.",
+      "url": "https://www.futurity.org/bird-flu-adapting-to-mammals-3228552/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/06/h5n1-avian-flu-influenza-virus-mammals-seals-2-1600.jpg",
+      "publishedAt": "2024-06-07 19:00:11",
+      "content": "Highly pathogenic H5N1 avian influenza viruses are becoming increasingly flexible and are adapting to mammals in new ways that could have global consequences for humans, wildlife, and livestock, acco\u2026 [+3751 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.027250",
+      "internal_id": "e4ca9e8bae56111870e161e19285e77ee92aa3d0f6aca4fbbefd805c1aaef7f7",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
       "id": 9926,
       "query": [
         "rabies"
@@ -524,6 +830,42 @@
       "content": "LILBURN, Ga. \u2014 A fox tested positive for rabies after biting a Gwinnett County resident earlier this week. The rabid fox was found near Wayside Court in Lilburn after it bit someone on Monday. The \u2026 [+1325 chars]",
       "retrievedAt": "2024-06-08 19:05:59.427175",
       "internal_id": "678bebf125bcbada2f76a556900f1476cf28705da450c4926f7822ca5332a659",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9979,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Friday headlines: Journalismisn\u2019t",
+      "description": "In October, more than 17,000 elephant seals died in an H5N1 outbreak. According to a genetic analysis, the virus jumped at least three times before that. / The New York Times [+] Yesterday, Florida's Supreme Court gave its governor the power to remove locall\u2026",
+      "url": "https://themorningnews.org/p/friday-headlines-journalismisnt",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2024-06-07 17:02:00",
+      "content": "A \"game changer\" immunotherapy drug \"melts away\" tumors, and may one day replace surgery and conventional chemo for bowel cancer. / The Guardian Mexico has elected its first female president, former\u2026 [+1827 chars]",
+      "retrievedAt": "2024-06-11 07:05:49.999848",
+      "internal_id": "2336b3a054f3350f55f35a129d4aefb739c4f85599167d899ecbd2c078c4d3cd",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 9975,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "EURACTIV",
+      "author": "Catherine Feore",
+      "title": "Finland offers vaccination against bird flu to those working with poultry, or on fur farms",
+      "description": "Finland has become the first country in the EU to vaccinate against the H5N1 avian flu, currently spreading among US cattle, announcing that will use the Sequirus vaccine that has been jointly procured at the EU level.",
+      "url": "https://www.euractiv.com/section/health-consumers/news/finland-offers-vaccination-against-bird-flu-to-those-working-with-poultry-or-on-fur-farms/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2024/06/shutterstock_1881060874-800x450.jpg",
+      "publishedAt": "2024-06-07 15:26:49",
+      "content": "Finland has become the first country in the EU to vaccinate against the H5N1 avian flu, currently spreading among US cattle, announcing that will use the Sequirus vaccine that has been jointly procur\u2026 [+2835 chars]",
+      "retrievedAt": "2024-06-11 07:05:49.968818",
+      "internal_id": "cb1600b4f476201feedeaac57a1a3e91d7e4a1c921ab45089142dea6e4d36588",
       "publishedAtLabel": "Jun 7"
     },
     {
@@ -22987,6 +23329,150 @@
       "content": "A virtual tour of 'ShivShakti', Ajay Devgn and Kajol's beautiful home",
       "retrievedAt": "2024-04-30 07:06:47.233821",
       "internal_id": "efc447cf35bbe9445e13740afbe9a7503e18672965df9b3005ce0aa286a68278",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8693,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Argentina lleg\u00f3 a 280 fallecimientos de pacientes con dengue; 42 en la \u00faltima semana",
+      "description": "Solo en lo que va de este a\u00f1o, los casos de la enfermedad suman 379.341, de los cuales 871 fueron clasificados como graves. Solo en lo que va de este a\u00f1o, los casos de la enfermedad suman 379.341, de los cuales 871 fueron clasificados como graves.",
+      "url": "https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
+      "publishedAt": "2024-04-28 18:40:00",
+      "content": "El n\u00famero de muertes por dengue en Argentina ascendi\u00f3 a 280 tras confirmarse 42 nuevos decesos en la \u00faltima semana, seg\u00fan datos oficiales dados a conocer este domingo. De acuerdo con el \u00faltimo bo\u2026 [+1100 chars]",
+      "retrievedAt": "2024-04-29 19:05:20.435097",
+      "internal_id": "4cc058376d292865f5060189041015c7c0fb098553fcfaea87b069329af9bea2",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8695,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u092f\u094b\u0917\u0947\u0902\u0926\u094d\u0930 \u092e\u093f\u0936\u094d\u0930\u093e",
+      "title": "\u0924\u0940\u0928 \u0915\u0930\u094b\u0921\u093c \u0938\u093e\u0932 \u092a\u0941\u0930\u093e\u0928\u0940 \u092c\u0940\u092e\u093e\u0930\u0940 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u091c\u0921\u093c \u0938\u0947 \u0939\u094b\u0917\u0940 \u0916\u0924\u094d\u092e! \u0917\u0947\u092e \u091a\u0947\u0902\u091c\u0930 \u0939\u0948 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0906\u093021, \u0915\u094d\u092f\u093e \u0915\u0939\u0924\u0947 \u0939\u0948\u0902 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915",
+      "description": "Malaria Vaccine: \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0907\u0938 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0938\u092c\u0938\u0947 \u092a\u0941\u0930\u093e\u0928\u0940 \u092c\u0940\u092e\u093e\u0930\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u0938\u0947 \u090f\u0915 \u0939\u0948\u0902\u0964 \u092f\u0939 \u0924\u0940\u0928 \u0915\u0930\u094b\u0921\u093c \u0938\u093e\u0932 \u0938\u0947 \u0927\u0930\u0924\u0940 \u092a\u0930 \u0939\u0948\u0964 \u092a\u094d\u0930\u094b\u091f\u094b\u091c\u094b\u0906 \u0938\u0947 \u092f\u0939 \u0939\u094b\u0924\u093e \u0939\u0948\u0964 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0928 \u0924\u094b \u092f\u0939 \u0935\u093e\u092f\u0930\u0938 \u0939\u0948 \u0914\u0930 \u0928 \u0939\u0940 \u092c\u0948\u0915\u094d\u091f\u0940\u0930\u093f\u092f\u093e \u0907\u0938\u0932\u093f\u090f \u0907\u0938\u0915\u093e \u0915\u094b\u0908 \u091f\u0940\u0915\u093e \u092a\u093f\u091b\u0932\u0947 \u0924\u0940\u0928 \u0938\u093e\u0932 \u0924\u0915 \u0928\u0939\u0940\u0902 \u0925\u093e\u0964 \u0932\u0947\u0915\u093f\u0928 \u0905\u092c \u0907\u0938\u0915\u0940 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0939\u0948\u0964 \u0906\u0907\u090f \u091c\u093e\u0928\u0947\u0902 \u0915\u2026",
+      "url": "https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-29322,msid-109669088/navbharat-times.jpg",
+      "publishedAt": "2024-04-28 14:33:40",
+      "content": ": () , , 21 21 , ? , ( ) , -19 12 , 5,000 , - 100 30 21/- ? - - , ( ) , , 20 20 , , ( ) , , 10 ? 21 21 -19 2020 -19 , , ? 6,00,000 , 2,00,000 ( , ) , , ... - ? Adv: , 6\u2026 [+285 chars]",
+      "retrievedAt": "2024-04-29 19:05:21.342276",
+      "internal_id": "0765c99e2b0de668dc0db8f7542aff4402b0f421402da110b0456758d737fcb2",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8691,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Andrew Torgan, Daniel Wine",
+      "title": "Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN",
+      "description": "Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNNcnn.com",
+      "url": "https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-20240426-152353-resized.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-28 12:59:55",
+      "content": "An Austrian company plans to build a vessel worthy of a James Bond villain: a customized submersible superyacht thats more than 500 feet long and can remain below the oceans surface for up to four we\u2026 [+6530 chars]",
+      "retrievedAt": "2024-04-29 19:05:19.278374",
+      "internal_id": "3daaab959c33d19d73afb0f77378bbe74e883aed08f841c5e9686951cf3fd728",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8692,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WESH Orlando",
+      "author": "Katherine Dillinger",
+      "title": "Global measles cases nearly doubled in one year, researchers say",
+      "description": "Almost half of this year's cases have been in WHO's European Region, with the highest incidence in Azerbaijan, Kyrgyzstan and Yemen.",
+      "url": "https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1173338314-662e3359e5d54.jpg?crop=1.00xw:0.848xh;0,0.120xh&resize=1200:*",
+      "publishedAt": "2024-04-28 11:43:50",
+      "content": "The number of measles cases around the world nearly doubled from 2022 to 2023, researchers say, presenting a challenge to efforts to achieve and maintain elimination status in many countries. There \u2026 [+2983 chars]",
+      "retrievedAt": "2024-04-29 19:05:19.295123",
+      "internal_id": "78dbe4ac61e801d2eed603a4d8592ddcf8224f7a9cc321af7d40b775ead08ed4",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8694,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Nigeria is pioneering a new vaccine to fight meningitis - why this matters",
+      "description": "GOMBE: Nigeria recently became the first country to roll out a new vaccine (called Men5CV) recommended by the World Health Organisation (WHO), which p.",
+      "url": "https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109666704,width-1070,height-580,imgsize-21590,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-04-28 11:38:37",
+      "content": "News Nigeria is pioneering a new vaccine to fight meningitis - why this matters FOLLOW US ON SOCIAL MEDIA",
+      "retrievedAt": "2024-04-29 19:05:20.788636",
+      "internal_id": "a79fa1cfe444d9f59fac7164036b4b0e2a95aefa5d459a7d21b756e32b344ac6",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8702,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia",
+      "description": "Il fatto che ci siano non significa che contengano il parassita che causa la malattia, e non \u00e8 la prima volta che negli ultimi anni vengono rintracciate nel Sud Italia",
+      "url": "https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/",
+      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2024/04/28/1714298599-zanzara_Anopheles.jpg",
+      "publishedAt": "2024-04-28 10:20:57",
+      "content": "Lo scorso settembre in alcune aree rurali della provincia di Lecce \u00e8 stata fatta un\u2019indagine scientifica per verificare la presenza di zanzare appartenenti a specie capaci di trasmettere la malaria. \u2026 [+3753 chars]",
+      "retrievedAt": "2024-04-30 07:06:49.082613",
+      "internal_id": "0e36e9a924879ff17622698b40a89ff803bad823f0fcb3b953d9548aeb10b038",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8690,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Josephine Franks",
+      "title": "Measles cases worldwide almost double in a year - as England faces measles 'emergency'",
+      "description": "Measles cases nearly doubled globally between 2022 and 2023, researchers say.",
+      "url": "https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811",
+      "urlToImage": "https://e3.365dm.com/24/04/1600x900/skynews-measles-child_6536139.jpg?20240428095436",
+      "publishedAt": "2024-04-28 08:00:00",
+      "content": "Measles cases nearly doubled globally between 2022 and 2023, researchers say. There were 321,582 cases worldwide in 2023 - an 88% increase from the previous year, when 171,153 cases were recorded. \u2026 [+2302 chars]",
+      "retrievedAt": "2024-04-29 19:05:19.261681",
+      "internal_id": "bd29469bd0c5429cd11a832e379b289ebc8f22c1e3864377f98d5ac8ed9bdaf4",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8706,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thecooldown.com",
+      "author": "Doric Sam",
+      "title": "'Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'",
+      "description": "'Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'thecooldown.com",
+      "url": "https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/",
+      "urlToImage": "https://www.thecooldown.com/wp-content/uploads/2024/04/solar-powered-refrigeratorsimage.jpg",
+      "publishedAt": "2024-04-28 07:21:48",
+      "content": "Solar-powered refrigerators are the latest innovation that will play a key role in the ongoing fight against malaria. As explained in Reuters, a \"life-saving rollout\" of two approved malaria vaccine\u2026 [+2585 chars]",
+      "retrievedAt": "2024-04-30 07:06:49.105750",
+      "internal_id": "64344c7157e4bdf8bca9a56223390ef82b25328fd7d817bce003f3097b75a7ec",
       "publishedAtLabel": "Apr 28"
     }
   ]
