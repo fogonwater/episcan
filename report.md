@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-06-12 07:05
-- **Most recent article:** 2024-06-11 06:50:00
+- **New articles in last harvest:** 35
+- **Last harvest:** 2024-06-12 19:06
+- **Most recent article:** 2024-06-11 18:45:02
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 77 | 57 | 87 | 58 | 61 | 64 | 12 | 416 |
-| h5n1 | 0 | 57 | 63 | 95 | 65 | 78 | 12 | 370 |
-| malaria | 24 | 29 | 13 | 17 | 25 | 21 | 5 | 134 |
-| measles | 24 | 10 | 29 | 15 | 16 | 11 | 1 | 106 |
-| mpox | 36 | 3 | 10 | 9 | 16 | 8 | 0 | 82 |
+| dengue | 76 | 57 | 87 | 58 | 61 | 64 | 34 | 437 |
+| h5n1 | 0 | 57 | 63 | 95 | 65 | 78 | 21 | 379 |
+| malaria | 21 | 29 | 13 | 17 | 25 | 21 | 5 | 131 |
+| measles | 21 | 10 | 29 | 15 | 16 | 11 | 1 | 103 |
+| mpox | 36 | 3 | 10 | 9 | 16 | 8 | 1 | 83 |
 | rabies | 3 | 22 | 10 | 8 | 15 | 9 | 1 | 68 |
-| chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 1 | 51 |
+| chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 2 | 52 |
 | pertussis | 2 | 5 | 5 | 6 | 6 | 9 | 2 | 35 |
-| hpai | 0 | 4 | 3 | 7 | 12 | 2 | 1 | 29 |
-| meningitis | 3 | 5 | 9 | 4 | 1 | 6 | 0 | 28 |
-| zika | 8 | 2 | 6 | 3 | 3 | 0 | 0 | 22 |
+| hpai | 0 | 4 | 3 | 7 | 12 | 2 | 3 | 31 |
+| meningitis | 2 | 5 | 9 | 4 | 1 | 6 | 2 | 29 |
+| zika | 8 | 2 | 6 | 3 | 3 | 0 | 1 | 23 |
 | yersinia | 5 | 1 | 0 | 6 | 0 | 1 | 0 | 13 |
 | leptospirosis | 2 | 1 | 3 | 0 | 5 | 1 | 0 | 12 |
 | sarampión | 6 | 1 | 0 | 0 | 0 | 0 | 0 | 7 |
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-24 (zika)
+
+- [Saiba diferenciar os sintomas de dengue, chikungunya e Zika e conheça as possíveis complicações de cada doença](https://gizmodo.uol.com.br/diferenca-dengue-chikungunya-zika/) (Uol.com.br)
+
 ## 24-24 (rabies)
 
 - [Knowledge, attitudes, and practices of healthcare professionals regarding rabies in tertiary care hospitals: A cross-sectional study in Peshawar, Pakistan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012238) (Plos.org)
@@ -42,6 +46,16 @@ Source: [News API](https://newsapi.org/)
 - [Immunogenicity, reactogenicity, and IgE-mediated immune responses of a mixed whole-cell and acellular pertussis vaccine schedule in Australian infants: A randomised, double-blind, noninferiority trial](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004414) (Plos.org)
 
 - [Whooping cough: Doctors urge Chinese authorities to review vaccine strategy as cases surge](https://www.bmj.com/content/385/bmj.q1274) (The BMJ)
+
+## 24-24 (mpox)
+
+- [Werden Mpox erneut zur Gefahr in Europa?: „Wir sehen derzeit keine große Impfbereitschaft“](https://www.tagesspiegel.de/gesundheit/werden-mpox-erneut-zur-gefahr-in-europa-wir-sehen-derzeit-keine-grosse-impfbereitschaft-11798402.html) (Der Tagesspiegel)
+
+## 24-24 (meningitis)
+
+- [Using cerebrospinal fluid nanopore sequencing assay to diagnose tuberculous meningitis: a retrospective cohort study in China](https://bmjopen.bmj.com/content/14/6/e080904) (The BMJ)
+
+- [Liga de Paysandú paralizó sus actividades por precaución sanitaria tras muerte de jugador](https://www.montevideo.com.uy/Deportes/Liga-de-Paysandu-paralizo-sus-actividades-por-precaucion-sanitaria-tras-muerte-de-jugador-uc890885) (Montevideo.com.uy)
 
 ## 24-24 (measles)
 
@@ -61,13 +75,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-24 (hpai)
 
+- [CSL : Seqirus, a Proud Champion of Pandemic Preparedness, Signs an Agreement with the European Commission to Provide Pre-Pandemic Vaccines to the EU](https://www.marketscreener.com/quote/stock/CSL-LIMITED-6492492/news/CSL-Seqirus-a-Proud-Champion-of-Pandemic-Preparedness-Signs-an-Agreement-with-the-European-Commi-46946684/) (Marketscreener.com)
+
+- [Sialic Acid Receptor Specificity in Mammary Gland of Dairy Cattle Infected with Highly Pathogenic Avian Influenza A(H5N1) Virus](https://wwwnc.cdc.gov/eid/article/30/7/24-0689_article) (Cdc.gov)
+
 - [「Gaudi 3はNVIDIA GPUを超えるAI性能」とインテル鈴木会長。インテルAI Summit Japanレポート](https://pc.watch.impress.co.jp/docs/news/1599041.html) (Impress.co.jp)
 
 ## 24-24 (h5n1)
 
+- [Bird flu detected in wastewater samples in greater Houston area but no human cases, Harris County Public Health says](https://abc13.com/post/bird-flu-detected-wastewater-samples-greater-houston-area/14936312/) (KTRK-TV)
+
+- [La gripe aviar hace estragos en los animales. Los humanos la ignoramos bajo nuestro propio riesgo](https://cnnespanol.cnn.com/2024/06/11/gripe-aviar-animales-riesgo-humanos-trax/) (CNN)
+
+- [The Dairy Industry Must Act Faster to Keep H5N1 Bird Flu from Starting a Human Epidemic](https://www.scientificamerican.com/article/the-dairy-industry-must-act-faster-to-keep-h5n1-bird-flu-from-starting-a/) (Scientific American)
+
+- [No one wants another pandemic—but bird flu has already flown the coop](https://fortune.com/2024/06/11/pandemic-bird-flu-h5n1-spread-health/) (Fortune)
+
+- [Bruselas coordina la compra de 665.000 vacunas contra el virus H5N1 de la gripe aviar](https://www.infosalus.com/actualidad/noticia-bruselas-coordina-compra-665000-vacunas-contra-virus-h5n1-gripe-aviar-20240611145721.html) (Infosalus.com)
+
+- [Bird flu is rampant in animals. Humans ignore it at our own peril | CNN](https://www.cnn.com/2024/06/11/health/bird-flu-animals-humans/index.html) (CNN)
+
+- [Europa comprará 665.000 dosis de vacunas contra el virus H5N1 de la gripe aviar](https://www.abc.es/sociedad/partida-vacunas-gripe-aviar-20240611095535-nt.html) (Www.abc.es)
+
+- [Bird Flu Tests Are Hard To Get. So How Will We Know When To Sound the Pandemic Alarm?](https://kffhealthnews.org/news/article/bird-flu-tests-pandemic-possibility-preparedness/) (Kffhealthnews.org)
+
 - [Jöhet a vakcina a madárinfluenza ellen](https://www.portfolio.hu/gazdasag/20240611/johet-a-vakcina-a-madarinfluenza-ellen-691565) (Portfolio.hu)
 
 - [Újabb vakcina jöhet, már vizsgálják](https://hvg.hu/tudomany/20240611_mrns-oltoanyag-madarinfluenza-h5n1) (Hvg.hu)
+
+- [Sialic Acid Receptor Specificity in Mammary Gland of Dairy Cattle Infected with Highly Pathogenic Avian Influenza A(H5N1) Virus](https://wwwnc.cdc.gov/eid/article/30/7/24-0689_article) (Cdc.gov)
 
 - [Bird flu virus from Texas human case kills 100% of ferrets in CDC study](https://arstechnica.com/science/2024/06/bird-flu-virus-from-texas-human-case-kills-100-of-ferrets-in-cdc-study/) (Ars Technica)
 
@@ -90,6 +126,50 @@ Source: [News API](https://newsapi.org/)
 - [【人類終了】女児が鳥インフルエンザに感染したと発表 ＼(^o^)／ｵﾜﾀ 豪](http://blog.livedoor.jp/rbkyn844/archives/10654686.html) (Livedoor.jp)
 
 ## 24-24 (dengue)
+
+- [Centrul European pentru Controlul Bolilor avertizează că numărul cazurilor de febră Denga crește alarmant în UE, din cauza schimbărilor climatice care favorizează înmulțirea și răspândirea accelerată a țânțarilor.](https://www.biziday.ro/287418-2/) (Biziday.ro)
+
+- [Dengue, Mosquito-Borne Diseases Rising In Europe Due To Climate Change](https://www.ndtv.com/world-news/dengue-mosquito-borne-diseases-rising-in-europe-due-to-climate-change-5869806) (NDTV News)
+
+- [Dengue ökar i Europa – invasiv mygga sprids](https://www.expressen.se/nyheter/varlden/dengue-okar-i-europa-invasiv-mygga-sprids/) (Expressen.se)
+
+- [Dengue ökar i Europa – invasiv mygga sprids](https://www.svd.se/a/5En4eW/dengue-okar-i-europa-invasiv-mygga-sprids) (Svenska Dagbladet)
+
+- [Dengue ökar i Europa – invasiv mygga sprids](https://www.aftonbladet.se/nyheter/a/alWoe4/dengue-okar-i-europa-invasiv-mygga-sprids) (Aftonbladet.se)
+
+- [Governo do RJ decreta fim de epidemia de dengue no Estado](https://valor.globo.com/brasil/noticia/2024/06/11/governo-do-rj-decreta-fim-de-epidemia-de-dengue-no-estado.ghtml) (Globo)
+
+- [‘Keep anti-breeding measures despite availability of vaccine’](https://www.thestar.com.my/news/nation/2024/06/12/keep-anti-breeding-measures-despite-availability-of-vaccine) (The Star Online)
+
+- [Dengue vaccine is now available](https://www.thestar.com.my/news/nation/2024/06/12/dengue-vaccine-is-now-available) (The Star Online)
+
+- [En Europe, les cas de dengue et de maladies liées aux moustiques connaissent une « hausse significative »](https://www.lemonde.fr/planete/article/2024/06/11/en-europe-les-cas-de-dengue-et-de-maladies-liees-aux-moustiques-connaissent-une-hausse-significative_6238745_3244.html) (Le Monde)
+
+- [Pourquoi les cas de maladies liées aux moustiques augmentent en Europe](https://www.lepoint.fr/sante/pourquoi-les-cas-de-maladies-liees-aux-moustiques-augmentent-en-europe-11-06-2024-2562720_40.php) (Le Point)
+
+- [Saiba diferenciar os sintomas de dengue, chikungunya e Zika e conheça as possíveis complicações de cada doença](https://gizmodo.uol.com.br/diferenca-dengue-chikungunya-zika/) (Uol.com.br)
+
+- [Door muggen overdraagbare ziekten zoals dengue in opmars in Europa](https://www.hbvl.be/cnt/dmf20240611_94302641) (Hbvl.be)
+
+- [Westnijlvirus en dengue in opmars in Europa: zo kan je je ertegen beschermen als je deze zomer naar het zuiden trekt](https://www.vrt.be/vrtnws/nl/2024/06/11/tropische-ziekte-dengue-in-opmars-in-europa-zo-kan-je-je-ertege/) (Www.vrt.be)
+
+- [Alerte liée aux moustiques: hausse des cas de dengue et autres maladies en Europe](https://www.levif.be/societe/sante/alerte-liee-aux-moustiques-hausse-des-cas-de-dengue-et-autres-maladies-en-europe/) (Levif.be)
+
+- [ECDC avertizează: „Sunt tot mai multe cazuri de febră dengue şi de boli cauzate de ţânţari în Europa”](https://www.digi24.ro/stiri/actualitate/sanatate/ecdc-avertizeaza-sunt-tot-mai-multe-cazuri-de-febra-dengue-si-de-boli-cauzate-de-tantari-in-europa-2824279) (Digi24.ro)
+
+- [Fièvre hémorragique de Crimée-Congo en France : la menace se précise](https://theconversation.com/fievre-hemorragique-de-crimee-congo-en-france-la-menace-se-precise-217468) (The Conversation Africa)
+
+- [Door muggen overdraagbare ziekten zoals dengue in opmars in Europa](https://www.gva.be/cnt/dmf20240611_93931679) (Www.gva.be)
+
+- [Durch Gelsen übertragene Krankheiten nehmen zu](https://science.orf.at/stories/3225398/) (Science.orf.at)
+
+- [Door muggen overdraagbare ziekten zoals dengue in opmars in Europa](https://www.nieuwsblad.be/cnt/dmf20240611_93910375) (Nieuwsblad.be)
+
+- [Europe Sees "Significant Rise" In Dengue Cases Due To Climate Change](https://www.ndtv.com/world-news/europe-sees-significant-rise-in-dengue-cases-due-to-climate-change-health-agency-5866395) (NDTV News)
+
+- [EU-Behörde: Von Mücken übertragene Krankheiten nehmen im Zuge des Klimawandels zu](https://www.stern.de/news/eu-behoerde--von-muecken-uebertragene-krankheiten-nehmen-im-zuge-des-klimawandels-zu-34788844.html) (STERN.de)
+
+- [Dengue surges in Europe thanks to climate change](https://www.politico.eu/article/climate-change-drives-surge-in-dengue-in-europe/) (POLITICO.eu)
 
 - [First dengue vaccine launched in Malaysia](https://www.thestar.com.my/news/nation/2024/06/11/first-dengue-vaccine-launched-in-malaysia) (The Star Online)
 
@@ -116,6 +196,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue kills](https://www.thestar.com.my/news/nation/2024/06/09/dengue-kills) (The Star Online)
 
 ## 24-24 (chikungunya)
+
+- [Saiba diferenciar os sintomas de dengue, chikungunya e Zika e conheça as possíveis complicações de cada doença](https://gizmodo.uol.com.br/diferenca-dengue-chikungunya-zika/) (Uol.com.br)
 
 - [O que é febre do mayaro e como distinguir da dengue](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-febre-do-mayaro-e-como-distinguir-da-dengue,92c964acbef806cbbc7bf35f295e5bc7gncyoq8j.html) (Terra.com.br)
 
@@ -2681,8 +2763,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html) (GlobeNewswire)
 
-- [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
-
 ## 24-18 (measles)
 
 - [Addressing Childhood Diseases](https://naturalnewsblogs.com/addressing-childhood-diseases/) (Naturalnewsblogs.com)
@@ -2727,12 +2807,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘Measles had serious impact on kids with cancer’](https://timesofindia.indiatimes.com/city/mumbai/measles-had-serious-impact-on-kids-with-cancer/articleshow/109673357.cms) (The Times of India)
 
-- [Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN](https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html) (CNN)
-
-- [Global measles cases nearly doubled in one year, researchers say](https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062) (WESH Orlando)
-
-- [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
-
 ## 24-18 (malaria)
 
 - [Yellow Dove shares mental health battle; I’d strip naked, attempt to jump off Findeco House](https://diggers.news/lifestyle/2024/05/04/stripping-naked-attempted-15th-floor-findeco-house-jump-yellow-dove-shares-mental-health-battle/) (Diggers.news)
@@ -2776,12 +2850,6 @@ Source: [News API](https://newsapi.org/)
 - [Need to consistently raise public awareness on malaria: MPR](https://en.antaranews.com/news/312102/need-to-consistently-raise-public-awareness-on-malaria-mpr) (Antaranews.com)
 
 - [„Malariamücke“ nach 50 Jahren wieder in Italien aufgetaucht](https://www.diepresse.com/18416480/malariamuecke-nach-50-jahren-wieder-in-italien-aufgetaucht) (Diepresse.com)
-
-- [तीन करोड़ साल पुरानी बीमारी मलेरिया जड़ से होगी खत्म! गेम चेंजर है वैक्सीन आर21, क्या कहते हैं वैज्ञानिक](https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms) (The Times of India)
-
-- [Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia](https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/) (Ilpost.it)
-
-- ['Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'](https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/) (Thecooldown.com)
 
 ## 24-18 (leptospirosis)
 
@@ -2942,8 +3010,6 @@ Source: [News API](https://newsapi.org/)
 - [El mapa del dengue: con oscilaciones en las provincias, la epidemia ya acumula casi 380.000 casos desde enero](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-oscilaciones-en-las-provincias-la-epidemia-ya-acumula-casi-380000-casos-desde-nid28042024/) (La Nacion)
 
 - [Rising dengue cases in Kedah raising alarm](https://www.thestar.com.my/news/nation/2024/04/29/rising-dengue-cases-in-kedah-raising-alarm) (The Star Online)
-
-- [Argentina llegó a 280 fallecimientos de pacientes con dengue; 42 en la última semana](https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762) (Montevideo.com.uy)
 
 ## 24-18 (chikungunya)
 

@@ -1,8 +1,622 @@
 {
-  "last_updated": "2024-06-12 07:05",
-  "count_articles_total": 1324,
-  "count_articles_new": 10,
+  "last_updated": "2024-06-12 19:06",
+  "count_articles_total": 1351,
+  "count_articles_new": 35,
   "articles": [
+    {
+      "id": 10030,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Biziday.ro",
+      "author": "Auras Rosu",
+      "title": "Centrul European pentru Controlul Bolilor avertizeaz\u0103 c\u0103 num\u0103rul cazurilor de febr\u0103 Denga cre\u0219te alarmant \u00een UE, din cauza schimb\u0103rilor climatice care favorizeaz\u0103 \u00eenmul\u021birea \u0219i r\u0103sp\u00e2ndirea accelerat\u0103 a \u021b\u00e2n\u021barilor.",
+      "description": "Centrul European pentru Prevenirea \u0219i Controlul Bolilor (ECDC) a constatat c\u0103 au existat 130 de cazuri de febr\u0103 Dengue \u00eenregistrate la nivelul UE anul trecut, comparativ cu doar 71 de cazuri \u00een perioada 2010 \u2013 2021. Febra Denga este o boal\u0103 infec\u021bioas\u0103, care \u2026",
+      "url": "https://www.biziday.ro/287418-2/",
+      "urlToImage": null,
+      "publishedAt": "2024-06-11 18:45:02",
+      "content": "Centrul European pentru Prevenirea i Controlul Bolilor (ECDC) a constatat c au existat 130 de cazuri de febr Dengue \u00eenregistrate la nivelul UE anul trecut, comparativ cu doar 71 de cazuri \u00een perioada\u2026 [+2152 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.447829",
+      "internal_id": "487198ef1c7eb404d1d777d422c941171ac907dc0d7a7a2d65f5b4ebaf42dd5d",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10038,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Dengue, Mosquito-Borne Diseases Rising In Europe Due To Climate Change",
+      "description": "Cases of dengue and other mosquito-borne diseases are rising significantly in Europe as climate change creates warmer conditions that help invasive mosquitos spread, the EU's health agency warned on Tuesday.",
+      "url": "https://www.ndtv.com/world-news/dengue-mosquito-borne-diseases-rising-in-europe-due-to-climate-change-5869806",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/0nqt9qb_dengue_625x300_22_November_23.jpg",
+      "publishedAt": "2024-06-11 18:40:13",
+      "content": "The mosquito responsible for spreading the West Nile virus is native to Europe (Representational) Cases of dengue and other mosquito-borne diseases are rising significantly in Europe as climate chan\u2026 [+2659 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.494417",
+      "internal_id": "fbb5e04cdccb26b16cabbe7200c4c4e7e44a1c0b2300db31af7bf5dbc67965ea",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10029,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "redaktionen@expressen.se (TT)",
+      "title": "Dengue \u00f6kar i Europa \u2013 invasiv mygga sprids",
+      "description": "I takt med att klimatf\u00f6r\u00e4ndringarna f\u00f6rst\u00e4rks sprider sig invasiva myggor till Europa. Med dem kommer farliga sjukdomar som denguefeber.",
+      "url": "https://www.expressen.se/nyheter/varlden/dengue-okar-i-europa-invasiv-mygga-sprids/",
+      "urlToImage": "https://www.expressen.se/images/logotype-for-sharing.png",
+      "publishedAt": "2024-06-11 18:27:50",
+      "content": "2023 smittades 130 personer lokalt med denguefeber i EU/EEA-omr\u00e5det, j\u00e4mf\u00f6rt med 71 under 2022, enligt den Stockholmsbaserade europeiska smittskyddsmyndigheten ECDC, som studerat myggburna sjukdomar.\u2026 [+1123 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.443268",
+      "internal_id": "7b221d64c83589d171583e703ac6c9005c1db1d4ab653dbf74158e0492e7a1a0",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10025,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "KTRK-TV",
+      "author": "Abc13 Houston",
+      "title": "Bird flu detected in wastewater samples in greater Houston area but no human cases, Harris County Public Health says",
+      "description": "Despite H5N1, or bird flu, being detected, local health officials said there are no human cases in Harris County. Here's what we're told.",
+      "url": "https://abc13.com/post/bird-flu-detected-wastewater-samples-greater-houston-area/14936312/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14936315_061124-bird-flu.jpg?w=1600",
+      "publishedAt": "2024-06-11 17:38:37",
+      "content": "HOUSTON, Texas (KTRK) -- Bird flu, or H5N1, has been detected in wastewater in the greater Houston area, Harris County Public Health confirmed to ABC13 on Tuesday. However, HCPH said there are no hu\u2026 [+2270 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.158390",
+      "internal_id": "e501045676fa54b9e111baab61dfff1640fc345617880f7982d41c24e28a810e",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10020,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Alexandra Ferguson",
+      "title": "La gripe aviar hace estragos en los animales. Los humanos la ignoramos bajo nuestro propio riesgo",
+      "description": "Si la gripe aviar H5N1 muta en el lugar y el momento adecuados, s\u00fabitamente la pandemia animal podr\u00eda convertirse en un grave problema tambi\u00e9n para las personas. The post La gripe aviar hace estragos en los animales. Los humanos la ignoramos bajo nuestro prop\u2026",
+      "url": "https://cnnespanol.cnn.com/2024/06/11/gripe-aviar-animales-riesgo-humanos-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/gettyimages-1546722721.jpg?quality=100&strip=info",
+      "publishedAt": "2024-06-11 17:29:39",
+      "content": "(CNN) -- Mark Naniot recuerda 2022 como un verano infernal. Como cofundador del centro de rescate de animales Wild Instincts en Northwoods, Wisconsin, Naniot y su equipo se pasaron la temporada suda\u2026 [+14980 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.057427",
+      "internal_id": "c3d74b5a9c8f4ed94515dea315a253d2efe988e19fef352406feaec564ce51fc",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10028,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Gustav Sj\u00f6holm/TT",
+      "title": "Dengue \u00f6kar i Europa \u2013 invasiv mygga sprids",
+      "description": "I takt med att klimatf\u00f6r\u00e4ndringarna f\u00f6rst\u00e4rks sprider sig invasiva myggor till Europa. Med dem kommer farliga sjukdomar som denguefeber.",
+      "url": "https://www.svd.se/a/5En4eW/dengue-okar-i-europa-invasiv-mygga-sprids",
+      "urlToImage": "https://svd.vgc.no/v2/images/53c3938a-a0ec-4342-93e5-2c715b2dd930?h=630&q=80&upscale=true&w=1200&s=e7d195f2117d21a86f28ad37f9149eb531989ccc",
+      "publishedAt": "2024-06-11 17:13:13",
+      "content": "2023 smittades 130 personer lokalt med denguefeber i EU/EEA-omr\u00e5det, j\u00e4mf\u00f6rt med 71 under 2022, enligt den Stockholmsbaserade europeiska smittskyddsmyndigheten ECDC, som studerat myggburna sjukdomar.\u2026 [+200 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.437616",
+      "internal_id": "3e7103eeac8f02414bbe2dfeb69eedfaac8574b6aad541f908c5db256e91515b",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10043,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Dengue \u00f6kar i Europa \u2013 invasiv mygga sprids",
+      "description": "I takt med att klimatf\u00f6r\u00e4ndringarna f\u00f6rst\u00e4rks sprider sig invasiva myggor till Europa. Med dem kommer farliga sjukdomar som denguefeber.",
+      "url": "https://www.aftonbladet.se/nyheter/a/alWoe4/dengue-okar-i-europa-invasiv-mygga-sprids",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/9939d392-2f85-4856-9b09-911cc998c998?fit=crop&format=auto&h=1069&q=50&w=1900&s=1a41593a831532ca987eca74acf32fdd6f77d5b5",
+      "publishedAt": "2024-06-11 17:13:12",
+      "content": "share-arrow Dela I takt med att klimatf\u00f6r\u00e4ndringarna f\u00f6rst\u00e4rks sprider sig invasiva myggor till Europa. Med dem kommer farliga sjukdomar som denguefeber. 2023 smittades 130 personer lokalt med den\u2026 [+1889 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.533970",
+      "internal_id": "a3d74b946d324dc6dd064a04c947ba230dcde15c0c87aaccbb03d5d57d06b4d3",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10047,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Governo do RJ decreta fim de epidemia de dengue no Estado",
+      "description": "N\u00famero de casos da doen\u00e7a, este m\u00eas, \u00e9 o menor desde o in\u00edcio da epidemia, decretada em fevereiro deste ano",
+      "url": "https://valor.globo.com/brasil/noticia/2024/06/11/governo-do-rj-decreta-fim-de-epidemia-de-dengue-no-estado.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2024-06-11 16:24:28",
+      "content": "O governo do Rio de Janeiro informou em comunicado fim da epidemia de dengue no Estado. A decis\u00e3o, publicada no Di\u00e1rio Oficial do Estado, \u00e9 baseada em an\u00e1lises t\u00e9cnicas do Centro de Intelig\u00eancia em S\u2026 [+2027 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.577862",
+      "internal_id": "619ed1620407b77fcaee01faffbd401e9031ab701c256ea9d430e0f47093d35b",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10050,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Zhou, L., Zou, X., Yong, Y., Hu, Q.",
+      "title": "Using cerebrospinal fluid nanopore sequencing assay to diagnose tuberculous meningitis: a retrospective cohort study in China",
+      "description": "Objective This study aimed to evaluate the efficiency of nanopore sequencing for the early diagnosis of tuberculous meningitis (TBM) using cerebrospinal fluid and compared it with acid-fast bacilli (AFB) smear, mycobacterial growth indicator tube culture and \u2026",
+      "url": "https://bmjopen.bmj.com/content/14/6/e080904",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-06-11 16:00:32",
+      "content": "Introduction Tuberculous meningitis (TBM) is a severe infection of the central nervous system (CNS) caused by Mycobacterium tuberculosis (MTB) that crosses the bloodbrain barrier to invade the skull\u2026 [+10212 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.877053",
+      "internal_id": "4dfe60bea735746220a82aa78c0a74218731f066a870fb8466a7fef46174f880",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10019,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Kay Russo, Michelle Kromm, Carol Cardona",
+      "title": "The Dairy Industry Must Act Faster to Keep H5N1 Bird Flu from Starting a Human Epidemic",
+      "description": "H5N1 is running rampant through dairy cows, putting humans at risk of an epidemic",
+      "url": "https://www.scientificamerican.com/article/the-dairy-industry-must-act-faster-to-keep-h5n1-bird-flu-from-starting-a/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/3d25e6e30b2ee420/original/GettyImages-1362911665web.jpg?w=1200",
+      "publishedAt": "2024-06-11 16:00:00",
+      "content": "A mystery disease was ripping through the cattle in the Texas panhandle. In early March, roughly three weeks after veterinarians in the panhandle spoke about the first illnesses, one of us (Russo) t\u2026 [+11463 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.045536",
+      "internal_id": "b885e04adfd4f9d17f3ea01c3619ba77fe62f70889cc717e348abe5cf3b7c073",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10044,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "RAGANANTHINI VETHASALAM",
+      "title": "\u2018Keep anti-breeding measures despite availability of vaccine\u2019",
+      "description": "PETALING JAYA: Measures to prevent mosquito breeding in urban areas must still be in place, even though a vaccine for dengue is now available in Malaysia, where dengue is endemic, say public healthcare experts. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/06/12/keep-anti-breeding-measures-despite-availability-of-vaccine",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/06/12/2743775.jpeg",
+      "publishedAt": "2024-06-11 16:00:00",
+      "content": "PETALING JAYA: Measures to prevent mosquito breeding in urban areas must still be in place, even though a vaccine for dengue is now available in Malaysia, where dengue is endemic, say public healthca\u2026 [+2923 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.550160",
+      "internal_id": "3b77a2756140cefbc83f4f809e39cdaec9124ef48ca70627599f2f2842abf8cf",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10045,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "TAN SHIOW CHIN",
+      "title": "Dengue vaccine is now available",
+      "description": "PETALING JAYA: Malaysians can now protect themselves against dengue by getting vaccinated.The Drug Control Authority recently approved the first dengue vaccine for use in the country. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/06/12/dengue-vaccine-is-now-available",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/06/12/2743663.jpg",
+      "publishedAt": "2024-06-11 16:00:00",
+      "content": "PETALING JAYA: Malaysians can now protect themselves against dengue by getting vaccinated.The Drug Control Authority recently approved the first dengue vaccine for use in the country. Manufactured b\u2026 [+3298 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.555175",
+      "internal_id": "de7acc7be28398885125402283e32dba6319f4f042bb688bc030c275057561e8",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10021,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Carolyn Barber",
+      "title": "No one wants another pandemic\u2014but bird flu has already flown the coop",
+      "description": "The H5N1 virus, also known as bird flu or avian influenza, is surging among mammals and proving itself very versatile at jumping from species to species.",
+      "url": "https://fortune.com/2024/06/11/pandemic-bird-flu-h5n1-spread-health/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1546722721-e1718121335556.jpg?resize=1200,600",
+      "publishedAt": "2024-06-11 15:57:39",
+      "content": "At first glance, some of the expert reactions to the recent surge in bird flu virus cases, both in the U.S. and around the world, may appear contradictory. Isnt a more urgent response required? How m\u2026 [+10963 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.076199",
+      "internal_id": "4dfe00311194b395262a1a9cbd310c18f46df0c0a0afcf7862250c8fa33c4c85",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10040,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "En Europe, les cas de dengue et de maladies li\u00e9es aux moustiques connaissent une \u00ab hausse significative \u00bb",
+      "description": "Selon le Centre europ\u00e9en de pr\u00e9vention et de contr\u00f4le des maladies (ECDC), \u00ab le changement climatique cr\u00e9e des conditions plus favorables \u00e0 la propagation des moustiques invasifs dans des zones auparavant \u00e9pargn\u00e9es et \u00e0 l\u2019infection d\u2019un plus grand nombre de p\u2026",
+      "url": "https://www.lemonde.fr/planete/article/2024/06/11/en-europe-les-cas-de-dengue-et-de-maladies-liees-aux-moustiques-connaissent-une-hausse-significative_6238745_3244.html",
+      "urlToImage": "https://img.lemde.fr/2016/01/28/3/0/6016/4010/1440/960/60/0/6ba9434_5151524-01-06.jpg",
+      "publishedAt": "2024-06-11 15:54:58",
+      "content": "Un moustique Aedes aegypti photographi\u00e9 dans un laboratoire de contr\u00f4le des vecteurs \u00e9pid\u00e9miologiques \u00e0 San Salvador (Am\u00e9rique Centrale), le 27 janvier 2016. MARVIN RECINOS / AFP Les cas de dengue e\u2026 [+2658 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.503232",
+      "internal_id": "6871f0fe91e2ef96d3e9d20a04e1bcd2fa4779771c8aa57ab7515eaf22a2028f",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10032,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Thomas Graindorge",
+      "title": "Pourquoi les cas de maladies li\u00e9es aux moustiques augmentent en Europe",
+      "description": "130 cas de dengue autochtone ont ete enregistres dans l'Union europeenne, ainsi qu'en Islande, au Liechtenstein et en Norvege en 2023, contre 71 l'annee precedente.",
+      "url": "https://www.lepoint.fr/sante/pourquoi-les-cas-de-maladies-liees-aux-moustiques-augmentent-en-europe-11-06-2024-2562720_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2024/06/11/26640093lpw-26640186-mega-une-jpg_10354614.jpg",
+      "publishedAt": "2024-06-11 15:47:00",
+      "content": "Pics de chaleur, s\u00e9cheresse, d\u00e9r\u00e8glements m\u00e9t\u00e9orologiques On savait le changement climatique impliqu\u00e9 dans un certain nombre de probl\u00e8mes environnementaux mais, ce que l'on soup\u00e7onnait moins, c'est q\u2026 [+2634 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.456929",
+      "internal_id": "3e3801b296ab9687c45b9d29bdb11dddc6cad502828365108dc754cf08dcd6fe",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10027,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Instituto Butantan",
+      "title": "Saiba diferenciar os sintomas de dengue, chikungunya e Zika e conhe\u00e7a as poss\u00edveis complica\u00e7\u00f5es de cada doen\u00e7a",
+      "description": "Infec\u00e7\u00f5es s\u00e3o transmitidas pelo mosquito Aedes aegypti e se manifestam de forma muito semelhante; aprenda a identificar cada uma delas The post Saiba diferenciar os sintomas de dengue, chikungunya e Zika e conhe\u00e7a as poss\u00edveis complica\u00e7\u00f5es de cada doen\u00e7a appe\u2026",
+      "url": "https://gizmodo.uol.com.br/diferenca-dengue-chikungunya-zika/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/04/mosquito-pernilongo-butantan.jpg",
+      "publishedAt": "2024-06-11 15:30:39",
+      "content": "As principais particularidades observadas em cada doen\u00e7a \u00e9 que, no caso da dengue, a febre alta (40\u00b0C) de in\u00edcio s\u00fabito est\u00e1 sempre presente; na chikungunya, as dores articulares s\u00e3o muito mais forte\u2026 [+1833 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.425264",
+      "internal_id": "b088f56d210c3aad4560d0e980494cba1f1abd17ad58ca15db2bbde6a5643cd4",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10051,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Ingo Bach",
+      "title": "Werden Mpox erneut zur Gefahr in Europa?: \u201eWir sehen derzeit keine gro\u00dfe Impfbereitschaft\u201c",
+      "description": "Im Kongo grassiert ein neuer Stamm der sogenannten Affenpocken. Warum ein Streit um die Impfkosten zum Risikofaktor f\u00fcr die Gesundheit in Deutschland zu werden droht.",
+      "url": "https://www.tagesspiegel.de/gesundheit/werden-mpox-erneut-zur-gefahr-in-europa-wir-sehen-derzeit-keine-grosse-impfbereitschaft-11798402.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/pocken03-affenpockenvirus1/alternates/BASE_16_9_W1400/pocken03-affenpockenvirus",
+      "publishedAt": "2024-06-11 13:30:12",
+      "content": "Herr Karcher, in der Demokratischen Republik Kongo grassiert eine neue Mutation des Monkeypox-Virus, dessen fr\u00fchere Variante es im Jahr 2022 bis nach Europa geschafft und viel Furcht verbreitet hat. \u2026 [+1007 chars]",
+      "retrievedAt": "2024-06-12 19:06:06.789934",
+      "internal_id": "92a7f9af77c219b8cb3e8a555b0eb2aa9da33e568b084a5a848e0432796a993e",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10022,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Bruselas coordina la compra de 665.000 vacunas contra el virus H5N1 de la gripe aviar",
+      "description": "La Comisi\u00f3n Europea ha anunciado este martes un contrato para la compra inicial de 665.000 dosis de la vacuna de Seqirus contra el virus H5N1 de la gripe aviar bajo el mecanismo de compra conjunta comunitario en el que para este contrato participan de momento\u2026",
+      "url": "https://www.infosalus.com/actualidad/noticia-bruselas-coordina-compra-665000-vacunas-contra-virus-h5n1-gripe-aviar-20240611145721.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240611145721_1200.jpg",
+      "publishedAt": "2024-06-11 12:57:21",
+      "content": "BRUSELAS, 11 Jun. (EUROPA PRESS) - La Comisi\u00f3n Europea ha anunciado este martes un contrato para la compra inicial de 665.000 dosis de la vacuna de Seqirus contra el virus H5N1 de la gripe aviar b\u2026 [+1664 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.106009",
+      "internal_id": "13f98ec15833887560a7ac8ece9fac66ac337f59997f7c44a43d3586a4209422",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10049,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Liga de Paysand\u00fa paraliz\u00f3 sus actividades por precauci\u00f3n sanitaria tras muerte de jugador",
+      "description": "Bruno Moreira C\u00e1ceres falleci\u00f3 el pasado domingo y se presupone que es meningitis, denominada \u201cenfermad purpura\u201d, que es muy contagiosa.",
+      "url": "https://www.montevideo.com.uy/Deportes/Liga-de-Paysandu-paralizo-sus-actividades-por-precaucion-sanitaria-tras-muerte-de-jugador-uc890885",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202406/_W933_80/884240.jpg",
+      "publishedAt": "2024-06-11 12:13:00",
+      "content": "F\u00fatbolUy. Seguinos en Twitter @futbolportaluy El fallecimiento el pasado domingo de Bruno Moreira C\u00e1ceres, futbolista de 20 a\u00f1os de Bella Vista de Paysand\u00fa, conmocion\u00f3 a todos debido a que se encont\u2026 [+1784 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.871592",
+      "internal_id": "8d90463de96e1412ace8e1067725c687f5438a20db12b272ee7831f182e10791",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10036,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "jvh",
+      "title": "Door muggen overdraagbare ziekten zoals dengue in opmars in Europa",
+      "description": "Het aantal gevallen van muggenoverdraagbare ziekten zoals knokkelkoorts (dengue) neemt toe in Europa. Dat meldt het Europees Centrum voor ziektepreventie en -bestrijding (ECDC) dinsdag. Door de klimaatverandering zijn er in Europa gunstige leefomstandigheden \u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20240611_94302641",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/06/11/b2538d47-a2f1-412a-aad0-3db50a23c663.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-06-11 11:56:51",
+      "content": "Het aantal gevallen van muggenoverdraagbare ziekten zoals knokkelkoorts (dengue) neemt toe in Europa. Dat meldt het Europees Centrum voor ziektepreventie en -bestrijding (ECDC) dinsdag. Door de klima\u2026 [+1558 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.481916",
+      "internal_id": "2a76be0621f321810f17916be26fe54db63fe3f64e479019831823ba5b553005",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10042,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": null,
+      "title": "Westnijlvirus en dengue in opmars in Europa: zo kan je je ertegen beschermen als je deze zomer naar het zuiden trekt",
+      "description": "In Europa breken er steeds meer tropische ziekten uit die worden verspreid door muggen, zoals dengue en westnijlvirus. Daarvoor waarschuwt het Europese Centrum voor Ziektepreventie en -bestrijding (ECDC). Door de mildere winters en warmere zomers vestigen die\u2026",
+      "url": "https://www.vrt.be/vrtnws/nl/2024/06/11/tropische-ziekte-dengue-in-opmars-in-europa-zo-kan-je-je-ertege/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2023/08/11/6c38d2f0-3826-11ee-91d7-02b7b76bf47f.jpg",
+      "publishedAt": "2024-06-11 11:54:17",
+      "content": "In 2023 werden er in de hele Europese Unie 130 lokale besmettingen van dengue (of knokkelkoorts) vastgesteld. Ter vergelijking: voor de hele periode van 2010 tot 2021 waren het er nog maar 73. En het\u2026 [+6286 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.519242",
+      "internal_id": "c607385dbc652d2517d3e5591af59746325191694aba7d1a2b07863372a1c2e8",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10037,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Levif.be",
+      "author": "Le Vif",
+      "title": "Alerte li\u00e9e aux moustiques: hausse des cas de dengue et autres maladies en Europe",
+      "description": "Les maladies li\u00e9es aux moustiques sont en nette hausse en Europe, averti le Centre europ\u00e9en de pr\u00e9vention et de contr\u00f4le des maladies (ECDC). La faute notamment au changement climatique. The post Alerte li\u00e9e aux moustiques: hausse des cas de dengue et autres \u2026",
+      "url": "https://www.levif.be/societe/sante/alerte-liee-aux-moustiques-hausse-des-cas-de-dengue-et-autres-maladies-en-europe/",
+      "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/5383245/gettyimages-1157432486-jpg.jpg",
+      "publishedAt": "2024-06-11 11:50:07",
+      "content": "Les maladies li\u00e9es aux moustiques sont en nette hausse en Europe, averti le Centre europ\u00e9en de pr\u00e9vention et de contr\u00f4le des maladies (ECDC). La faute notamment au changement climatique. Les cas de \u2026 [+2664 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.490063",
+      "internal_id": "59c9555325e43b5b5b33b95cb623bcc123890c60bfc9431fb393fba0135f7414",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10046,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Bianca Chiril\u0103",
+      "title": "ECDC avertizeaz\u0103: \u201eSunt tot mai multe cazuri de febr\u0103 dengue \u015fi de boli cauzate de \u0163\u00e2n\u0163ari \u00een Europa\u201d",
+      "description": "Num\u0103rul cazurilor de febr\u0103 denga \u015fi al altor boli asociate \u0163\u00e2n\u0163arilor \u00eenregistreaz\u0103 o cre\u015ftere net\u0103 \u00een Europa, schimb\u0103rile climatice cre\u00e2nd condi\u0163ii mai favorabile pentru r\u0103sp\u00e2ndirea speciilor invazive, a avertizat mar\u0163i Centrul European pentru Prevenirea \u015fi \u2026",
+      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/ecdc-avertizeaza-sunt-tot-mai-multe-cazuri-de-febra-dengue-si-de-boli-cauzate-de-tantari-in-europa-2824279",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNiUyRjExJTJGMTk5NzY3NF8xOTk3/Njc0X3NodXR0ZXJzdG9ja18yMjgyNDI5/NDcxLmpwZyZ3PTEyMDAmaD02MzAmemM9/MSZoYXNoPTc5MDgxM2NiMzYyNjc3NjczYWVhYmU0MDdiNjJhZjE0.thumb.jpg",
+      "publishedAt": "2024-06-11 11:48:44",
+      "content": "Numrul cazurilor de febr denga i al altor boli asociate \u00e2narilor \u00eenregistreaz o cretere net \u00een Europa, schimbrile climatice cre\u00e2nd condiii mai favorabile pentru rsp\u00e2ndirea speciilor invazive, a avert\u2026 [+2572 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.573315",
+      "internal_id": "e806a1d21c33b5f066b36da794e50110e8c4da331be0421d0b124d9c7e50dea5",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10026,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "Bird flu is rampant in animals. Humans ignore it at our own peril | CNN",
+      "description": "If H5N1 bird flu changes at the right place at the right time, suddenly the animal pandemic could become a major problem for people, too.",
+      "url": "https://www.cnn.com/2024/06/11/health/bird-flu-animals-humans/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1546722721.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-06-11 11:03:21",
+      "content": "Mark Naniot remembers 2022 as the summer from hell. As the co-founder of Wild Instincts animal rescue in Wisconsins Northwoods, Naniot and his team spent the season sweating in gloves, gowns, smocks\u2026 [+12932 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.163454",
+      "internal_id": "32bef8deff8e50c63c593a8a924f1d5ab7eb59809399a128b67dab843ac8a906",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10048,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Simon Bessis, M\u00e9decin infectiologue et chercheur au Centre international de recherche en infectiologie (CIRI) - ENS de Lyon, Institut Pasteur",
+      "title": "Fi\u00e8vre h\u00e9morragique de Crim\u00e9e-Congo en France : la menace se pr\u00e9cise",
+      "description": "Ce nouveau virus \u00ab exotique \u00bb semble en passe de s\u2019installer dans le Sud de la France, dans le sillage de la tique invasive qui le transmet. Sans c\u00e9der \u00e0 l\u2019alarmisme, voici ce qu\u2019il faut en savoir.",
+      "url": "https://theconversation.com/fievre-hemorragique-de-crimee-congo-en-france-la-menace-se-precise-217468",
+      "urlToImage": "https://images.theconversation.com/files/599584/original/file-20240610-23-zs47me.jpg?ixlib=rb-4.1.0&rect=0%2C819%2C5961%2C2980&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-06-11 11:02:20",
+      "content": "Dans le grand ballet mondial des maladies virales transmis par les insectes ou arachnides se nourrissant de sang, certains virus ont tenu des r\u00f4les de premier plan ces derni\u00e8res ann\u00e9es. Dengue, chiku\u2026 [+11974 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.592876",
+      "internal_id": "aed5dcd4456570d7921bfd42bc5c059852e87310a402a02be8ad6f4a1196e449",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10035,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "jvh",
+      "title": "Door muggen overdraagbare ziekten zoals dengue in opmars in Europa",
+      "description": "Het aantal gevallen van muggenoverdraagbare ziekten zoals knokkelkoorts (dengue) neemt toe in Europa. Dat meldt het Europees Centrum voor ziektepreventie en -bestrijding (ECDC) dinsdag. Door de klimaatverandering zijn er in Europa gunstige leefomstandigheden \u2026",
+      "url": "https://www.gva.be/cnt/dmf20240611_93931679",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/06/11/b2538d47-a2f1-412a-aad0-3db50a23c663.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-06-11 10:55:05",
+      "content": "Het aantal gevallen van muggenoverdraagbare ziekten zoals knokkelkoorts (dengue) neemt toe in Europa. Dat meldt het Europees Centrum voor ziektepreventie en -bestrijding (ECDC) dinsdag. Door de klima\u2026 [+1558 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.477615",
+      "internal_id": "fd6ba7f29c9c4d491f899d53997ef2dfa140f7541dec112278a2033fd2cab619",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10039,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Durch Gelsen \u00fcbertragene Krankheiten nehmen zu",
+      "description": "Im Zuge des Klimawandels nehmen in Europa von Gelsen \u00fcbertragene Krankheiten wie Dengue deutlich zu. In der EU sowie Liechtenstein, Norwegen und Island seien 2023 insgesamt 130 \u00f6rtlich erworbene Dengue-Erkrankungen registriert worden, teilte das Europ\u00e4ische Z\u2026",
+      "url": "https://science.orf.at/stories/3225398/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Ftube%2Fscience%2Fimages%2Fog-fallback.jpg%3Fs%3D9468ebfda8d575e29237d4fe069891178635d8e1",
+      "publishedAt": "2024-06-11 10:54:55",
+      "content": "Europa erlebt jetzt schon, wie der Klimawandel g\u00fcnstigere Bedingungen f\u00fcr invasive M\u00fccken bietet, die sich in zuvor nicht betroffenen Gebieten ausbreiten und mehr Menschen mit Krankheiten wie Dengue \u2026 [+1698 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.498868",
+      "internal_id": "cba9c18e94a07877fb0831499d162b8df9ab60702f90fbaa8c88e383a22a9bdd",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10034,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "jvh",
+      "title": "Door muggen overdraagbare ziekten zoals dengue in opmars in Europa",
+      "description": "Het aantal gevallen van muggenoverdraagbare ziekten zoals knokkelkoorts (dengue) neemt toe in Europa. Dat meldt het Europees Centrum voor ziektepreventie en -bestrijding (ECDC) dinsdag. Door de klimaatverandering zijn er in Europa gunstige leefomstandigheden \u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20240611_93910375",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/06/11/b2538d47-a2f1-412a-aad0-3db50a23c663.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-06-11 10:49:28",
+      "content": "Het aantal gevallen van muggenoverdraagbare ziekten zoals knokkelkoorts (dengue) neemt toe in Europa. Dat meldt het Europees Centrum voor ziektepreventie en -bestrijding (ECDC) dinsdag. Door de klima\u2026 [+1558 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.469595",
+      "internal_id": "bc87494456253dea26d515fb514a944eed03e6f20bef310270e8f861cf616399",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10041,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Europe Sees \"Significant Rise\" In Dengue Cases Due To Climate Change",
+      "description": "Cases of dengue and other mosquito-borne diseases are rising significantly in Europe as climate change creates warmer conditions that help invasive mosquitos spread, the EU's health agency warned on Tuesday.",
+      "url": "https://www.ndtv.com/world-news/europe-sees-significant-rise-in-dengue-cases-due-to-climate-change-health-agency-5866395",
+      "urlToImage": "https://c.ndtvimg.com/2024-06/livm9ni_europe-dengue-_625x300_11_June_24.jpeg?ver-20240506.08",
+      "publishedAt": "2024-06-11 10:19:32",
+      "content": "Imported cases were also on the rise, with 1,572 cases in 2022 and 4,900 in 2023. Stockholm: Cases of dengue and other mosquito-borne diseases are rising significantly in Europe as climate change cr\u2026 [+2655 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.508032",
+      "internal_id": "887409abd42c0119c9d900d322320301c86367c9bb8b91fd2f4fb3cee942426c",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10031,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "EU-Beh\u00f6rde: Von M\u00fccken \u00fcbertragene Krankheiten nehmen im Zuge des Klimawandels zu",
+      "description": "Im Zuge des Klimawandels nehmen in Europa von M\u00fccken \u00fcbertragene Krankheiten wie Dengue deutlich zu. In der EU sowie Liechtenstein, Norwegen und Island seien 2023 insgesamt 130 \u00f6rtlich erworbene Dengue-Erkrankungen registriert worden, teilte das im schwedisch\u2026",
+      "url": "https://www.stern.de/news/eu-behoerde--von-muecken-uebertragene-krankheiten-nehmen-im-zuge-des-klimawandels-zu-34788844.html",
+      "urlToImage": "https://image.stern.de/34788846/t/3G/v1/w1440/r1.7778/-/11--blutsaugende-muecke-der-art-aedes-aegypti---94aedfbe7881d24b.jpg",
+      "publishedAt": "2024-06-11 10:13:19",
+      "content": "Im Zuge des Klimawandels nehmen in Europa von M\u00fccken \u00fcbertragene Krankheiten wie Dengue deutlich zu. In der EU sowie Liechtenstein, Norwegen und Island seien 2023 insgesamt 130 \u00f6rtlich erworbene Deng\u2026 [+2191 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.452393",
+      "internal_id": "3a9aa42929ef237e710256ae3f6bec84873782d75b69a8ade855999b18caa82f",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10018,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "CSL : Seqirus, a Proud Champion of Pandemic Preparedness, Signs an Agreement with the European Commission to Provide Pre-Pandemic Vaccines to the EU",
+      "description": "(marketscreener.com) CSL Seqirus, a Proud Champion of Pandemic Preparedness, Signs an Agreement with the European Commission to Provide Pre-Pandemic Vaccines to the EU CSL Seqirus to provide 665,000 pre-pandemic vaccines to support fifteen EU and\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/CSL-LIMITED-6492492/news/CSL-Seqirus-a-Proud-Champion-of-Pandemic-Preparedness-Signs-an-Agreement-with-the-European-Commi-46946684/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-06-11 10:03:27",
+      "content": "CSL Seqirus to provide 665,000 pre-pandemic (zoonotic) vaccines to support fifteen EU and EEA Member States. Outbreaks of highly pathogenic avian influenza (HPAI) viruses in birds \u2026 [+7527 chars]",
+      "retrievedAt": "2024-06-12 19:06:04.842300",
+      "internal_id": "ac4cc654317ebf9a7d15ea74c10df6bba427ced9681fb6457cea59f974516645",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10023,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Europa comprar\u00e1 665.000 dosis de vacunas contra el virus H5N1 de la gripe aviar",
+      "description": "La Autoridad de Preparaci\u00f3n y Respuesta a Emergencias Sanitarias (HERA) de la Comisi\u00f3n Europea, ha firmado un contrato marco de adquisici\u00f3n conjunta para el suministro a los pa\u00edses miembros vacunas contra la gripe aviar. El contrato incluye inicialmente 665.0\u2026",
+      "url": "https://www.abc.es/sociedad/partida-vacunas-gripe-aviar-20240611095535-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2024/06/11/pollos-U70276647620jti-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-06-11 10:00:07",
+      "content": "La Autoridad de Preparaci\u00f3n y Respuesta a Emergencias Sanitarias (HERA) de la Comisi\u00f3n Europea, ha firmado un contrato marco de adquisici\u00f3n conjunta para el suministro a los pa\u00edses miembros vacunas c\u2026 [+2612 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.134660",
+      "internal_id": "b988fd9fd8d53aa2d8257186741950ec90c4f55ab6259ab6d0a0afbb9a8e975c",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10024,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen and Arthur Allen",
+      "title": "Bird Flu Tests Are Hard To Get. So How Will We Know When To Sound the Pandemic Alarm?",
+      "description": "If widely used, flu tests could be helpful now. In the meantime, the government needs to clear a path for H5N1 tests, researchers warn, to avoid the early missteps of the covid pandemic.",
+      "url": "https://kffhealthnews.org/news/article/bird-flu-tests-pandemic-possibility-preparedness/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/06/GettyImages-1527395476-resized.jpg",
+      "publishedAt": "2024-06-11 09:00:00",
+      "content": "Amy Maxmen and Arthur AllenStanford University infectious disease doctor Abraar Karan has seen a lot of patients with runny noses, fevers, and irritated eyes lately. Such symptoms could signal allerg\u2026 [+8404 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.143109",
+      "internal_id": "488c59e019eabb29cd69f9a14842d5e9f6c6e9d978fd9ba08fe0ad0e06680b26",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10033,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Rory O\u2019Neill",
+      "title": "Dengue surges in Europe thanks to climate change",
+      "description": "Invasive mosquitos are spreading into previously unaffected areas.",
+      "url": "https://www.politico.eu/article/climate-change-drives-surge-in-dengue-in-europe/",
+      "urlToImage": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+      "publishedAt": "2024-06-11 08:33:41",
+      "content": "Rates of dengue are surging in Europe driven by climate change and the spread of mosquitos, the EUs disease agency has warned. The European Centre for Disease Prevention and Control (ECDC) found the\u2026 [+531 chars]",
+      "retrievedAt": "2024-06-12 19:06:05.461905",
+      "internal_id": "a88ab2a16e59a447cbe3cd24c5bafd6c65c3f6c16c0af8aec3d2f162a65f92d1",
+      "publishedAtLabel": "Jun 11"
+    },
     {
       "id": 10009,
       "query": [
@@ -55,6 +669,25 @@
       "content": "PETALING JAYA: Malaysias defence against dengue fever has been strengthened with the launch of the country's first vaccine against the disease. Takeda Malaysias dengue tetravalent vaccine (live atte\u2026 [+2000 chars]",
       "retrievedAt": "2024-06-12 07:05:47.584539",
       "internal_id": "a8c54b12e645b16eecc92bb3c961563faf3affb27109148fc01ce7907cf1abed",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 10017,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Sialic Acid Receptor Specificity in Mammary Gland of Dairy Cattle Infected with Highly Pathogenic Avian Influenza A(H5N1) Virus",
+      "description": "Dairy Cattle Infected with HPAI H5N1 Virus",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/7/24-0689_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-06-11 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.The recent discovery that \u2026 [+26235 chars]",
+      "retrievedAt": "2024-06-12 19:06:04.825758",
+      "internal_id": "955a176abb44f4516590276bf288c78aff27c01fe35792bc107915878ffbb587",
       "publishedAtLabel": "Jun 11"
     },
     {
@@ -23744,150 +24377,6 @@
       "content": "A virtual tour of 'ShivShakti', Ajay Devgn and Kajol's beautiful home",
       "retrievedAt": "2024-04-30 07:06:47.233821",
       "internal_id": "efc447cf35bbe9445e13740afbe9a7503e18672965df9b3005ce0aa286a68278",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8693,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Argentina lleg\u00f3 a 280 fallecimientos de pacientes con dengue; 42 en la \u00faltima semana",
-      "description": "Solo en lo que va de este a\u00f1o, los casos de la enfermedad suman 379.341, de los cuales 871 fueron clasificados como graves. Solo en lo que va de este a\u00f1o, los casos de la enfermedad suman 379.341, de los cuales 871 fueron clasificados como graves.",
-      "url": "https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
-      "publishedAt": "2024-04-28 18:40:00",
-      "content": "El n\u00famero de muertes por dengue en Argentina ascendi\u00f3 a 280 tras confirmarse 42 nuevos decesos en la \u00faltima semana, seg\u00fan datos oficiales dados a conocer este domingo. De acuerdo con el \u00faltimo bo\u2026 [+1100 chars]",
-      "retrievedAt": "2024-04-29 19:05:20.435097",
-      "internal_id": "4cc058376d292865f5060189041015c7c0fb098553fcfaea87b069329af9bea2",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8695,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "\u092f\u094b\u0917\u0947\u0902\u0926\u094d\u0930 \u092e\u093f\u0936\u094d\u0930\u093e",
-      "title": "\u0924\u0940\u0928 \u0915\u0930\u094b\u0921\u093c \u0938\u093e\u0932 \u092a\u0941\u0930\u093e\u0928\u0940 \u092c\u0940\u092e\u093e\u0930\u0940 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u091c\u0921\u093c \u0938\u0947 \u0939\u094b\u0917\u0940 \u0916\u0924\u094d\u092e! \u0917\u0947\u092e \u091a\u0947\u0902\u091c\u0930 \u0939\u0948 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0906\u093021, \u0915\u094d\u092f\u093e \u0915\u0939\u0924\u0947 \u0939\u0948\u0902 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915",
-      "description": "Malaria Vaccine: \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0907\u0938 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0938\u092c\u0938\u0947 \u092a\u0941\u0930\u093e\u0928\u0940 \u092c\u0940\u092e\u093e\u0930\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u0938\u0947 \u090f\u0915 \u0939\u0948\u0902\u0964 \u092f\u0939 \u0924\u0940\u0928 \u0915\u0930\u094b\u0921\u093c \u0938\u093e\u0932 \u0938\u0947 \u0927\u0930\u0924\u0940 \u092a\u0930 \u0939\u0948\u0964 \u092a\u094d\u0930\u094b\u091f\u094b\u091c\u094b\u0906 \u0938\u0947 \u092f\u0939 \u0939\u094b\u0924\u093e \u0939\u0948\u0964 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0928 \u0924\u094b \u092f\u0939 \u0935\u093e\u092f\u0930\u0938 \u0939\u0948 \u0914\u0930 \u0928 \u0939\u0940 \u092c\u0948\u0915\u094d\u091f\u0940\u0930\u093f\u092f\u093e \u0907\u0938\u0932\u093f\u090f \u0907\u0938\u0915\u093e \u0915\u094b\u0908 \u091f\u0940\u0915\u093e \u092a\u093f\u091b\u0932\u0947 \u0924\u0940\u0928 \u0938\u093e\u0932 \u0924\u0915 \u0928\u0939\u0940\u0902 \u0925\u093e\u0964 \u0932\u0947\u0915\u093f\u0928 \u0905\u092c \u0907\u0938\u0915\u0940 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0939\u0948\u0964 \u0906\u0907\u090f \u091c\u093e\u0928\u0947\u0902 \u0915\u2026",
-      "url": "https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-29322,msid-109669088/navbharat-times.jpg",
-      "publishedAt": "2024-04-28 14:33:40",
-      "content": ": () , , 21 21 , ? , ( ) , -19 12 , 5,000 , - 100 30 21/- ? - - , ( ) , , 20 20 , , ( ) , , 10 ? 21 21 -19 2020 -19 , , ? 6,00,000 , 2,00,000 ( , ) , , ... - ? Adv: , 6\u2026 [+285 chars]",
-      "retrievedAt": "2024-04-29 19:05:21.342276",
-      "internal_id": "0765c99e2b0de668dc0db8f7542aff4402b0f421402da110b0456758d737fcb2",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8691,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Andrew Torgan, Daniel Wine",
-      "title": "Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN",
-      "description": "Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNNcnn.com",
-      "url": "https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-20240426-152353-resized.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-04-28 12:59:55",
-      "content": "An Austrian company plans to build a vessel worthy of a James Bond villain: a customized submersible superyacht thats more than 500 feet long and can remain below the oceans surface for up to four we\u2026 [+6530 chars]",
-      "retrievedAt": "2024-04-29 19:05:19.278374",
-      "internal_id": "3daaab959c33d19d73afb0f77378bbe74e883aed08f841c5e9686951cf3fd728",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8692,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WESH Orlando",
-      "author": "Katherine Dillinger",
-      "title": "Global measles cases nearly doubled in one year, researchers say",
-      "description": "Almost half of this year's cases have been in WHO's European Region, with the highest incidence in Azerbaijan, Kyrgyzstan and Yemen.",
-      "url": "https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1173338314-662e3359e5d54.jpg?crop=1.00xw:0.848xh;0,0.120xh&resize=1200:*",
-      "publishedAt": "2024-04-28 11:43:50",
-      "content": "The number of measles cases around the world nearly doubled from 2022 to 2023, researchers say, presenting a challenge to efforts to achieve and maintain elimination status in many countries. There \u2026 [+2983 chars]",
-      "retrievedAt": "2024-04-29 19:05:19.295123",
-      "internal_id": "78dbe4ac61e801d2eed603a4d8592ddcf8224f7a9cc321af7d40b775ead08ed4",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8694,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Nigeria is pioneering a new vaccine to fight meningitis - why this matters",
-      "description": "GOMBE: Nigeria recently became the first country to roll out a new vaccine (called Men5CV) recommended by the World Health Organisation (WHO), which p.",
-      "url": "https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-109666704,width-1070,height-580,imgsize-21590,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-04-28 11:38:37",
-      "content": "News Nigeria is pioneering a new vaccine to fight meningitis - why this matters FOLLOW US ON SOCIAL MEDIA",
-      "retrievedAt": "2024-04-29 19:05:20.788636",
-      "internal_id": "a79fa1cfe444d9f59fac7164036b4b0e2a95aefa5d459a7d21b756e32b344ac6",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8702,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Ilpost.it",
-      "author": null,
-      "title": "Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia",
-      "description": "Il fatto che ci siano non significa che contengano il parassita che causa la malattia, e non \u00e8 la prima volta che negli ultimi anni vengono rintracciate nel Sud Italia",
-      "url": "https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/",
-      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2024/04/28/1714298599-zanzara_Anopheles.jpg",
-      "publishedAt": "2024-04-28 10:20:57",
-      "content": "Lo scorso settembre in alcune aree rurali della provincia di Lecce \u00e8 stata fatta un\u2019indagine scientifica per verificare la presenza di zanzare appartenenti a specie capaci di trasmettere la malaria. \u2026 [+3753 chars]",
-      "retrievedAt": "2024-04-30 07:06:49.082613",
-      "internal_id": "0e36e9a924879ff17622698b40a89ff803bad823f0fcb3b953d9548aeb10b038",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8690,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Sky.com",
-      "author": "Josephine Franks",
-      "title": "Measles cases worldwide almost double in a year - as England faces measles 'emergency'",
-      "description": "Measles cases nearly doubled globally between 2022 and 2023, researchers say.",
-      "url": "https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811",
-      "urlToImage": "https://e3.365dm.com/24/04/1600x900/skynews-measles-child_6536139.jpg?20240428095436",
-      "publishedAt": "2024-04-28 08:00:00",
-      "content": "Measles cases nearly doubled globally between 2022 and 2023, researchers say. There were 321,582 cases worldwide in 2023 - an 88% increase from the previous year, when 171,153 cases were recorded. \u2026 [+2302 chars]",
-      "retrievedAt": "2024-04-29 19:05:19.261681",
-      "internal_id": "bd29469bd0c5429cd11a832e379b289ebc8f22c1e3864377f98d5ac8ed9bdaf4",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8706,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Thecooldown.com",
-      "author": "Doric Sam",
-      "title": "'Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'",
-      "description": "'Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'thecooldown.com",
-      "url": "https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/",
-      "urlToImage": "https://www.thecooldown.com/wp-content/uploads/2024/04/solar-powered-refrigeratorsimage.jpg",
-      "publishedAt": "2024-04-28 07:21:48",
-      "content": "Solar-powered refrigerators are the latest innovation that will play a key role in the ongoing fight against malaria. As explained in Reuters, a \"life-saving rollout\" of two approved malaria vaccine\u2026 [+2585 chars]",
-      "retrievedAt": "2024-04-30 07:06:49.105750",
-      "internal_id": "64344c7157e4bdf8bca9a56223390ef82b25328fd7d817bce003f3097b75a7ec",
       "publishedAtLabel": "Apr 28"
     }
   ]
