@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-06-11 19:05
-- **Most recent article:** 2024-06-10 18:59:35
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-06-12 07:05
+- **Most recent article:** 2024-06-11 06:50:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 76 | 57 | 87 | 58 | 61 | 64 | 8 | 411 |
-| h5n1 | 0 | 57 | 63 | 95 | 65 | 77 | 10 | 367 |
-| malaria | 21 | 29 | 13 | 17 | 25 | 21 | 3 | 129 |
-| measles | 21 | 10 | 29 | 15 | 16 | 11 | 1 | 103 |
+| dengue | 77 | 57 | 87 | 58 | 61 | 64 | 12 | 416 |
+| h5n1 | 0 | 57 | 63 | 95 | 65 | 78 | 12 | 370 |
+| malaria | 24 | 29 | 13 | 17 | 25 | 21 | 5 | 134 |
+| measles | 24 | 10 | 29 | 15 | 16 | 11 | 1 | 106 |
 | mpox | 36 | 3 | 10 | 9 | 16 | 8 | 0 | 82 |
 | rabies | 3 | 22 | 10 | 8 | 15 | 9 | 1 | 68 |
 | chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 1 | 51 |
 | pertussis | 2 | 5 | 5 | 6 | 6 | 9 | 2 | 35 |
-| hpai | 0 | 4 | 3 | 7 | 12 | 2 | 0 | 28 |
-| meningitis | 2 | 5 | 9 | 4 | 1 | 6 | 0 | 27 |
+| hpai | 0 | 4 | 3 | 7 | 12 | 2 | 1 | 29 |
+| meningitis | 3 | 5 | 9 | 4 | 1 | 6 | 0 | 28 |
 | zika | 8 | 2 | 6 | 3 | 3 | 0 | 0 | 22 |
 | yersinia | 5 | 1 | 0 | 6 | 0 | 1 | 0 | 13 |
 | leptospirosis | 2 | 1 | 3 | 0 | 5 | 1 | 0 | 12 |
@@ -49,13 +49,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-24 (malaria)
 
+- [SII, the world’s largest vaccine maker, sees demand doubling in five years](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-the-worlds-largest-vaccine-maker-sees-demand-doubling-in-five-years/articleshow/110887904.cms) (The Times of India)
+
+- [World’s largest vaccine maker sees demand doubling in five years](https://www.japantimes.co.jp/business/2024/06/11/companies/vaccine-maker-demand-doubling/) (The Japan Times)
+
 - [Once called Nantucket fever, this nasty tick-borne illness is on the rise](https://www.npr.org/sections/shots-health-news/2024/06/10/nx-s1-4992276/once-called-nantucket-fever-this-nasty-tick-borne-illness-is-on-the-rise) (NPR)
 
 - [June 9, 2024 - PBS News Weekend full episode](https://www.pbs.org/newshour/show/june-9-2024-pbs-news-weekend-full-episode) (PBS)
 
 - [Can a new malaria vaccine for children eradicate the disease? Here's what to know](https://www.pbs.org/newshour/show/can-a-new-malaria-vaccine-for-children-eradicate-the-disease-heres-what-to-know) (PBS)
 
+## 24-24 (hpai)
+
+- [「Gaudi 3はNVIDIA GPUを超えるAI性能」とインテル鈴木会長。インテルAI Summit Japanレポート](https://pc.watch.impress.co.jp/docs/news/1599041.html) (Impress.co.jp)
+
 ## 24-24 (h5n1)
+
+- [Jöhet a vakcina a madárinfluenza ellen](https://www.portfolio.hu/gazdasag/20240611/johet-a-vakcina-a-madarinfluenza-ellen-691565) (Portfolio.hu)
+
+- [Újabb vakcina jöhet, már vizsgálják](https://hvg.hu/tudomany/20240611_mrns-oltoanyag-madarinfluenza-h5n1) (Hvg.hu)
 
 - [Bird flu virus from Texas human case kills 100% of ferrets in CDC study](https://arstechnica.com/science/2024/06/bird-flu-virus-from-texas-human-case-kills-100-of-ferrets-in-cdc-study/) (Ars Technica)
 
@@ -78,6 +90,14 @@ Source: [News API](https://newsapi.org/)
 - [【人類終了】女児が鳥インフルエンザに感染したと発表 ＼(^o^)／ｵﾜﾀ 豪](http://blog.livedoor.jp/rbkyn844/archives/10654686.html) (Livedoor.jp)
 
 ## 24-24 (dengue)
+
+- [First dengue vaccine launched in Malaysia](https://www.thestar.com.my/news/nation/2024/06/11/first-dengue-vaccine-launched-in-malaysia) (The Star Online)
+
+- [Honduras reporta 20 mortes por dengue em 2024, pior registro da América Central](https://tecnologia.ig.com.br/afp/2024-06-10/honduras-reporta-20-mortes-por-dengue-em-2024--pior-registro-da-america-central.html) (Ig.com.br)
+
+- ['Efeito dengue' impulsiona reclamações no telefone 156 da prefeitura de Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/10/efeito-dengue-impulsiona-reclamacoes-no-telefone-156-da-prefeitura-de-campinas.ghtml) (Globo)
+
+- [Adolescente morre com maculosa e família denuncia erro após tratamento só considerar dengue em Sumaré](https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/10/adolescente-morre-com-maculosa-e-familia-denuncia-erro-apos-tratamento-so-considerar-dengue-em-sumare.ghtml) (Globo)
 
 - [Saiba como diferenciar os sintomas de dengue e de leptospirose](https://www.metropoles.com/saude/saiba-como-diferenciar-os-sintomas-de-dengue-e-de-leptospirose) (Metropoles.com)
 
@@ -270,6 +290,8 @@ Source: [News API](https://newsapi.org/)
 - [Una niña de 2 años, el primer contagio humano de gripe aviar en Australia](https://www.lavozdegalicia.es/noticia/sociedad/2024/06/08/nina-2-anos-primer-contagio-humano-gripe-aviar-australia/00031717844190573677698.htm) (Lavozdegalicia.es)
 
 - [Girl in Australia, 2, struck with H5N1 bird flu: WHO](https://medicalxpress.com/news/2024-06-girl-australia-struck-h5n1-bird.html) (Medical Xpress)
+
+- [World Health Organisation confirms Australia’s first human case of bird flu strain H5N1 likely came from India](https://www.skynews.com.au/lifestyle/health/world-health-organisation-confirms-australias-first-human-case-of-bird-flu-strain-h5n1-likely-came-from-india/news-story/3134eb8f835d6c06306b1d0b309190b4) (Sky News Australia)
 
 - [אוסטרליה: בת שנתיים נדבקה בשפעת העופות ואושפזה בטיפול נמרץ](https://www.ynet.co.il/health/article/r1hn0kwrc) (Ynet)
 
@@ -2659,6 +2681,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html) (GlobeNewswire)
 
+- [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
+
 ## 24-18 (measles)
 
 - [Addressing Childhood Diseases](https://naturalnewsblogs.com/addressing-childhood-diseases/) (Naturalnewsblogs.com)
@@ -2703,6 +2727,12 @@ Source: [News API](https://newsapi.org/)
 
 - [‘Measles had serious impact on kids with cancer’](https://timesofindia.indiatimes.com/city/mumbai/measles-had-serious-impact-on-kids-with-cancer/articleshow/109673357.cms) (The Times of India)
 
+- [Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN](https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html) (CNN)
+
+- [Global measles cases nearly doubled in one year, researchers say](https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062) (WESH Orlando)
+
+- [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
+
 ## 24-18 (malaria)
 
 - [Yellow Dove shares mental health battle; I’d strip naked, attempt to jump off Findeco House](https://diggers.news/lifestyle/2024/05/04/stripping-naked-attempted-15th-floor-findeco-house-jump-yellow-dove-shares-mental-health-battle/) (Diggers.news)
@@ -2746,6 +2776,12 @@ Source: [News API](https://newsapi.org/)
 - [Need to consistently raise public awareness on malaria: MPR](https://en.antaranews.com/news/312102/need-to-consistently-raise-public-awareness-on-malaria-mpr) (Antaranews.com)
 
 - [„Malariamücke“ nach 50 Jahren wieder in Italien aufgetaucht](https://www.diepresse.com/18416480/malariamuecke-nach-50-jahren-wieder-in-italien-aufgetaucht) (Diepresse.com)
+
+- [तीन करोड़ साल पुरानी बीमारी मलेरिया जड़ से होगी खत्म! गेम चेंजर है वैक्सीन आर21, क्या कहते हैं वैज्ञानिक](https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms) (The Times of India)
+
+- [Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia](https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/) (Ilpost.it)
+
+- ['Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'](https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/) (Thecooldown.com)
 
 ## 24-18 (leptospirosis)
 
@@ -2906,6 +2942,8 @@ Source: [News API](https://newsapi.org/)
 - [El mapa del dengue: con oscilaciones en las provincias, la epidemia ya acumula casi 380.000 casos desde enero](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-oscilaciones-en-las-provincias-la-epidemia-ya-acumula-casi-380000-casos-desde-nid28042024/) (La Nacion)
 
 - [Rising dengue cases in Kedah raising alarm](https://www.thestar.com.my/news/nation/2024/04/29/rising-dengue-cases-in-kedah-raising-alarm) (The Star Online)
+
+- [Argentina llegó a 280 fallecimientos de pacientes con dengue; 42 en la última semana](https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762) (Montevideo.com.uy)
 
 ## 24-18 (chikungunya)
 
