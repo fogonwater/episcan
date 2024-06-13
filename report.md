@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 35
-- **Last harvest:** 2024-06-12 19:06
-- **Most recent article:** 2024-06-11 18:45:02
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-06-13 07:05
+- **Most recent article:** 2024-06-12 04:29:42
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 76 | 57 | 87 | 58 | 61 | 64 | 34 | 437 |
-| h5n1 | 0 | 57 | 63 | 95 | 65 | 78 | 21 | 379 |
-| malaria | 21 | 29 | 13 | 17 | 25 | 21 | 5 | 131 |
-| measles | 21 | 10 | 29 | 15 | 16 | 11 | 1 | 103 |
-| mpox | 36 | 3 | 10 | 9 | 16 | 8 | 1 | 83 |
+| dengue | 77 | 57 | 87 | 58 | 61 | 64 | 43 | 447 |
+| h5n1 | 0 | 57 | 63 | 95 | 65 | 78 | 24 | 382 |
+| malaria | 24 | 29 | 13 | 17 | 25 | 21 | 7 | 136 |
+| measles | 24 | 10 | 29 | 15 | 16 | 11 | 1 | 106 |
+| mpox | 36 | 3 | 10 | 9 | 16 | 8 | 3 | 85 |
 | rabies | 3 | 22 | 10 | 8 | 15 | 9 | 1 | 68 |
 | chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 2 | 52 |
 | pertussis | 2 | 5 | 5 | 6 | 6 | 9 | 2 | 35 |
+| meningitis | 3 | 5 | 9 | 4 | 1 | 6 | 3 | 31 |
 | hpai | 0 | 4 | 3 | 7 | 12 | 2 | 3 | 31 |
-| meningitis | 2 | 5 | 9 | 4 | 1 | 6 | 2 | 29 |
 | zika | 8 | 2 | 6 | 3 | 3 | 0 | 1 | 23 |
 | yersinia | 5 | 1 | 0 | 6 | 0 | 1 | 0 | 13 |
 | leptospirosis | 2 | 1 | 3 | 0 | 5 | 1 | 0 | 12 |
@@ -49,9 +49,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-24 (mpox)
 
+- [Relapsed Mpox Keratitis, St. Louis, Missouri, USA](https://wwwnc.cdc.gov/eid/article/30/7/24-0388_article) (Cdc.gov)
+
+- [Government Health Officials Misled About Risky Mpox Research, House Panel Finds](https://www.theepochtimes.com/us/government-health-officials-misled-about-risky-mpox-research-house-panel-finds-5666857) (Theepochtimes.com)
+
 - [Werden Mpox erneut zur Gefahr in Europa?: „Wir sehen derzeit keine große Impfbereitschaft“](https://www.tagesspiegel.de/gesundheit/werden-mpox-erneut-zur-gefahr-in-europa-wir-sehen-derzeit-keine-grosse-impfbereitschaft-11798402.html) (Der Tagesspiegel)
 
 ## 24-24 (meningitis)
+
+- [Meningitis: Deadly bacterial disease cases up in Ont., Man.](https://www.ctvnews.ca/health/cases-of-potentially-deadly-bacterial-disease-on-the-rise-in-ontario-and-manitoba-1.6922878) (Ctvnews.ca)
 
 - [Using cerebrospinal fluid nanopore sequencing assay to diagnose tuberculous meningitis: a retrospective cohort study in China](https://bmjopen.bmj.com/content/14/6/e080904) (The BMJ)
 
@@ -62,6 +68,10 @@ Source: [News API](https://newsapi.org/)
 - [帝王切開で生まれた子どもは麻疹ワクチンが効きにくいという研究結果](https://news.livedoor.com/article/detail/26566455/) (Livedoor.com)
 
 ## 24-24 (malaria)
+
+- [Sonitpur DC advocates inter-departmental unity to combat VBDs](https://thehillstimes.in/assam/sonitpur-dc-advocates-inter-departmental-unity-to-combat-vbds) (Thehillstimes.in)
+
+- [Area-specific focus to fight malaria, dengue](https://timesofindia.indiatimes.com/city/mumbai/area-specific-focus-to-fight-malaria-dengue/articleshow/110921981.cms) (The Times of India)
 
 - [SII, the world’s largest vaccine maker, sees demand doubling in five years](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-the-worlds-largest-vaccine-maker-sees-demand-doubling-in-five-years/articleshow/110887904.cms) (The Times of India)
 
@@ -82,6 +92,12 @@ Source: [News API](https://newsapi.org/)
 - [「Gaudi 3はNVIDIA GPUを超えるAI性能」とインテル鈴木会長。インテルAI Summit Japanレポート](https://pc.watch.impress.co.jp/docs/news/1599041.html) (Impress.co.jp)
 
 ## 24-24 (h5n1)
+
+- [Fatal Infection in Ferrets after Ocular Inoculation with Highly Pathogenic Avian Influenza A(H5N1)](https://wwwnc.cdc.gov/eid/article/30/7/24-0520_article) (Cdc.gov)
+
+- [Bird flu outbreak at dairy farms continue to raise concerns about virus spreading](https://www.pbs.org/newshour/show/bird-flu-outbreak-at-dairy-farms-continue-to-raise-concerns-about-virus-spreading) (PBS)
+
+- [No One Is Safe from Bird Flu Until We Protect Farm Workers](https://time.com/6987552/bird-flu-farm-workers/) (Time)
 
 - [Bird flu detected in wastewater samples in greater Houston area but no human cases, Harris County Public Health says](https://abc13.com/post/bird-flu-detected-wastewater-samples-greater-houston-area/14936312/) (KTRK-TV)
 
@@ -126,6 +142,24 @@ Source: [News API](https://newsapi.org/)
 - [【人類終了】女児が鳥インフルエンザに感染したと発表 ＼(^o^)／ｵﾜﾀ 豪](http://blog.livedoor.jp/rbkyn844/archives/10654686.html) (Livedoor.jp)
 
 ## 24-24 (dengue)
+
+- [Alerta mosquitos: aumentan los casos de dengue y virus del Nilo](https://www.libertaddigital.com/ciencia-tecnologia/ciencia/2024-06-12/alerta-mosquitos-aumentan-los-casos-de-dengue-y-virus-del-nilo-7136301/) (Libertaddigital.com)
+
+- [Tiger mosquitoes behind dengue fever rise in Europe](https://www.bbc.com/news/articles/ce5520m6x2go) (BBC News)
+
+- [Sonitpur DC advocates inter-departmental unity to combat VBDs](https://thehillstimes.in/assam/sonitpur-dc-advocates-inter-departmental-unity-to-combat-vbds) (Thehillstimes.in)
+
+- [Dengue cases up by 235% in the last six months](https://www.thestar.com.my/news/nation/2024/06/12/dengue-cases-up-by-235-in-the-last-six-months) (The Star Online)
+
+- [Area-specific focus to fight malaria, dengue](https://timesofindia.indiatimes.com/city/mumbai/area-specific-focus-to-fight-malaria-dengue/articleshow/110921981.cms) (The Times of India)
+
+- [CLDF aprova projeto que cria protocolo anual para evitar crise de dengue](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-06-11/cldf-aprova-projeto-que-cria-protocolo-anual-para-evitar-crise-de-dengue.html) (Ig.com.br)
+
+- [Dengue: Campinas imuniza 14% do público-alvo e reforça importância da vacinação; veja quem pode tomar](https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/11/dengue-campinas-imuniza-14percent-do-publico-alvo-e-reforca-importancia-da-vacinacao-veja-quem-pode-tomar.ghtml) (Globo)
+
+- [Campinas confirma mais dois óbitos e chega 37 mortes por dengue em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/11/campinas-confirma-mais-dois-obitos-e-chega-37-mortes-por-dengue-2024.ghtml) (Globo)
+
+- [DF ultrapassa marca de 400 mortes por dengue em 2024; maioria é idoso](https://www.metropoles.com/distrito-federal/df-ultrapassa-marca-de-400-mortes-por-dengue-em-2024-maioria-e-idoso) (Metropoles.com)
 
 - [Centrul European pentru Controlul Bolilor avertizează că numărul cazurilor de febră Denga crește alarmant în UE, din cauza schimbărilor climatice care favorizează înmulțirea și răspândirea accelerată a țânțarilor.](https://www.biziday.ro/287418-2/) (Biziday.ro)
 
@@ -2763,6 +2797,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html) (GlobeNewswire)
 
+- [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
+
 ## 24-18 (measles)
 
 - [Addressing Childhood Diseases](https://naturalnewsblogs.com/addressing-childhood-diseases/) (Naturalnewsblogs.com)
@@ -2807,6 +2843,12 @@ Source: [News API](https://newsapi.org/)
 
 - [‘Measles had serious impact on kids with cancer’](https://timesofindia.indiatimes.com/city/mumbai/measles-had-serious-impact-on-kids-with-cancer/articleshow/109673357.cms) (The Times of India)
 
+- [Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN](https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html) (CNN)
+
+- [Global measles cases nearly doubled in one year, researchers say](https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062) (WESH Orlando)
+
+- [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
+
 ## 24-18 (malaria)
 
 - [Yellow Dove shares mental health battle; I’d strip naked, attempt to jump off Findeco House](https://diggers.news/lifestyle/2024/05/04/stripping-naked-attempted-15th-floor-findeco-house-jump-yellow-dove-shares-mental-health-battle/) (Diggers.news)
@@ -2850,6 +2892,12 @@ Source: [News API](https://newsapi.org/)
 - [Need to consistently raise public awareness on malaria: MPR](https://en.antaranews.com/news/312102/need-to-consistently-raise-public-awareness-on-malaria-mpr) (Antaranews.com)
 
 - [„Malariamücke“ nach 50 Jahren wieder in Italien aufgetaucht](https://www.diepresse.com/18416480/malariamuecke-nach-50-jahren-wieder-in-italien-aufgetaucht) (Diepresse.com)
+
+- [तीन करोड़ साल पुरानी बीमारी मलेरिया जड़ से होगी खत्म! गेम चेंजर है वैक्सीन आर21, क्या कहते हैं वैज्ञानिक](https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms) (The Times of India)
+
+- [Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia](https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/) (Ilpost.it)
+
+- ['Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'](https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/) (Thecooldown.com)
 
 ## 24-18 (leptospirosis)
 
@@ -3010,6 +3058,8 @@ Source: [News API](https://newsapi.org/)
 - [El mapa del dengue: con oscilaciones en las provincias, la epidemia ya acumula casi 380.000 casos desde enero](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-oscilaciones-en-las-provincias-la-epidemia-ya-acumula-casi-380000-casos-desde-nid28042024/) (La Nacion)
 
 - [Rising dengue cases in Kedah raising alarm](https://www.thestar.com.my/news/nation/2024/04/29/rising-dengue-cases-in-kedah-raising-alarm) (The Star Online)
+
+- [Argentina llegó a 280 fallecimientos de pacientes con dengue; 42 en la última semana](https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762) (Montevideo.com.uy)
 
 ## 24-18 (chikungunya)
 
