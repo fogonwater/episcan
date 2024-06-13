@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2024-06-13 07:05
-- **Most recent article:** 2024-06-12 04:29:42
+- **New articles in last harvest:** 60
+- **Last harvest:** 2024-06-13 19:05
+- **Most recent article:** 2024-06-12 16:45:27
 
 ---
 
@@ -12,21 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 77 | 57 | 87 | 58 | 61 | 64 | 43 | 447 |
-| h5n1 | 0 | 57 | 63 | 95 | 65 | 78 | 24 | 382 |
-| malaria | 24 | 29 | 13 | 17 | 25 | 21 | 7 | 136 |
-| measles | 24 | 10 | 29 | 15 | 16 | 11 | 1 | 106 |
-| mpox | 36 | 3 | 10 | 9 | 16 | 8 | 3 | 85 |
+| dengue | 76 | 57 | 87 | 58 | 61 | 64 | 62 | 465 |
+| h5n1 | 0 | 57 | 63 | 95 | 65 | 78 | 33 | 391 |
+| malaria | 21 | 29 | 13 | 17 | 25 | 21 | 21 | 147 |
+| measles | 21 | 10 | 29 | 15 | 16 | 11 | 2 | 104 |
+| mpox | 36 | 3 | 10 | 9 | 16 | 8 | 11 | 93 |
 | rabies | 3 | 22 | 10 | 8 | 15 | 9 | 1 | 68 |
-| chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 2 | 52 |
-| pertussis | 2 | 5 | 5 | 6 | 6 | 9 | 2 | 35 |
-| meningitis | 3 | 5 | 9 | 4 | 1 | 6 | 3 | 31 |
+| chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 7 | 57 |
+| pertussis | 2 | 5 | 5 | 6 | 6 | 9 | 8 | 41 |
 | hpai | 0 | 4 | 3 | 7 | 12 | 2 | 3 | 31 |
-| zika | 8 | 2 | 6 | 3 | 3 | 0 | 1 | 23 |
+| meningitis | 2 | 5 | 9 | 4 | 1 | 6 | 3 | 30 |
+| zika | 8 | 2 | 6 | 3 | 3 | 0 | 7 | 29 |
 | yersinia | 5 | 1 | 0 | 6 | 0 | 1 | 0 | 13 |
 | leptospirosis | 2 | 1 | 3 | 0 | 5 | 1 | 0 | 12 |
+| typhoid | 0 | 3 | 2 | 0 | 0 | 1 | 1 | 7 |
 | sarampión | 6 | 1 | 0 | 0 | 0 | 0 | 0 | 7 |
-| typhoid | 0 | 3 | 2 | 0 | 0 | 1 | 0 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -35,7 +35,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-24 (zika)
 
+- [El plan contras las olas de calor de Salut prevé reforzar la vigilancia del mosquito tigre](https://www.elperiodico.com/es/sanidad/20240612/plan-contras-olas-calor-cataluna-reforzara-vigilancia-mosquito-tigre-103694145) (Elperiodico.com)
+
+- [We bring dengue to Europe, local mosquitos do the rest](https://www.dw.com/en/we-bring-dengue-to-europe-local-mosquitos-do-the-rest/a-67547788) (DW (English))
+
+- [Unveiling candidate genes for metabolic resistance to malathion in Aedes albopictus through RNA sequencing-based transcriptome profiling](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012243) (Plos.org)
+
+- [SSI nedtoner risikoen for smitte med denguefeber i Danmark](https://www.dr.dk/nyheder/seneste/ssi-nedtoner-risikoen-smitte-med-denguefeber-i-danmark) (Www.dr.dk)
+
+- [Avrupa’da Asya Kaplan sivrisineği paniği!](https://www.hurriyet.com.tr/dunya/avrupada-asya-kaplan-sivrisinegi-panigi-42476036) (Hurriyet.com.tr)
+
+- [Ateşli hastalığa neden oluyor! Asya Kaplanı Avrupa'da yayılmaya başladı](https://www.sabah.com.tr/dunya/atesli-hastaliga-neden-oluyor-asya-kaplani-avrupada-yayilmaya-basladi-6976312) (Sabah.com.tr)
+
 - [Saiba diferenciar os sintomas de dengue, chikungunya e Zika e conheça as possíveis complicações de cada doença](https://gizmodo.uol.com.br/diferenca-dengue-chikungunya-zika/) (Uol.com.br)
+
+## 24-24 (typhoid)
+
+- [The frequency and associated factors of typhoid carriage in patients undergoing cholecystectomy for gallbladder disease in Pakistan: A cross-sectional study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011775) (Plos.org)
 
 ## 24-24 (rabies)
 
@@ -43,11 +59,39 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-24 (pertussis)
 
+- [Zwei Babys mit Keuchhusten auf Intensivstation in Linz](https://www.diepresse.com/18560414/zwei-babys-mit-keuchhusten-auf-intensivstation-in-linz) (Diepresse.com)
+
+- [Keuchhusten: Zwei Babys auf Intensivstation](https://ooe.orf.at/stories/3260935/) (Ooe.orf.at)
+
+- [Ερωτήσεις και απαντήσεις για τον κοκκύτη από την Ελληνική Εταιρεία Λοιμώξεων](https://www.newsit.gr/ygeia/kokkytis-erotiseis-kai-apantiseis-gia-tin-astheneia-apo-tin-elliniki-etaireia-loimokseon/4108684/) (Newsit.gr)
+
+- [Ελληνική Εταιρεία Λοιμώξεων: Για ποιο λόγο υπάρχει επιδημική έξαρση κοκκύτη στην Ελλάδα](https://www.protothema.gr/greece/article/1508271/elliniki-etaireia-loimoxeon-gia-poio-logo-uparhei-epidimiki-exarsi-kokkuti-stin-ellada/) (Protothema.gr)
+
+- [Για ποιο λόγο υπάρχει επιδημική έξαρση του κοκκύτη-Απαντήσεις από την Ελληνική Εταιρεία Λοιμώξεων](https://www.skai.gr/news/health/kokkytis-gia-poio-logo-yparxei-epidimiki-eksarsi-apantiseis-apo-tin-elliniki-etaireia-loim) (Skai.gr)
+
+- [Κοκκύτης: Ερωτήσεις και απαντήσεις για την ασθένεια από την Ελληνική Εταιρεία Λοιμώξεων](https://www.naftemporiki.gr/health/1685968/kokkytis-erotiseis-kai-apantiseis-gia-tin-astheneia-apo-tin-elliniki-etaireia-loimoxeon/) (Naftemporiki.gr)
+
 - [Immunogenicity, reactogenicity, and IgE-mediated immune responses of a mixed whole-cell and acellular pertussis vaccine schedule in Australian infants: A randomised, double-blind, noninferiority trial](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004414) (Plos.org)
 
 - [Whooping cough: Doctors urge Chinese authorities to review vaccine strategy as cases surge](https://www.bmj.com/content/385/bmj.q1274) (The BMJ)
 
 ## 24-24 (mpox)
+
+- [South Africa records first death from mpox](https://www.bbc.com/news/articles/clddgx7vg6qo) (BBC News)
+
+- [В ЮАР умер человек, заразившийся mpox](https://tass.ru/obschestvo/21079503) (Tass.ru)
+
+- [Qu'est-ce que l'épidemie de mpox, qui a déjà fait 186 décès en 2024 ?](https://www.dhnet.be/actu/sante/2024/06/12/quest-ce-que-lepidemie-de-mpox-qui-a-deja-fait-186-deces-en-2024-JT6MIM43CBBLPBXD24SQTR6KSA/) (dh.be)
+
+- [South Africa records first mpox death after five cases in past month](https://www.marketscreener.com/quote/index/DOW-JONES-SOUTH-AFRICA-ZA-55518594/news/South-Africa-records-first-mpox-death-after-five-cases-in-past-month-46956010/) (Marketscreener.com)
+
+- [Monkeypox Outbreak Hits South Africa: Health Officials on High Alert.](https://newspanther.co.za/monkeypox-outbreak-hits-south-africa-health-officials-on-high-alert/) (Newspanther.co.za)
+
+- [JAR hlási prvú obeť ochorenia mpox, testovanie odhalilo päť nakazených](https://spravy.pravda.sk/svet/clanok/713500-jar-hlasi-prvu-obet-ochorenie-mpox-testovanie-odhalilo-pat-nakazenych/) (Pravda.sk)
+
+- [News24 | SA records first mpox death, as fifth case reported in one month](https://www.news24.com/news24/southafrica/news/sa-records-first-mpox-death-as-fifth-case-reported-in-one-month-20240612) (News24)
+
+- [South Africa records first mpox death after five cases confirmed](https://www.marketscreener.com/quote/index/DOW-JONES-SOUTH-AFRICA-ZA-55518594/news/South-Africa-records-first-mpox-death-after-five-cases-confirmed-46956010/) (Marketscreener.com)
 
 - [Relapsed Mpox Keratitis, St. Louis, Missouri, USA](https://wwwnc.cdc.gov/eid/article/30/7/24-0388_article) (Cdc.gov)
 
@@ -65,9 +109,39 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-24 (measles)
 
+- [10 things we loved at the Royal Academy’s Summer Exhibition 2024](https://www.timeout.com/london/news/10-things-we-loved-at-the-royal-academys-summer-exhibition-2024-061224) (Time Out)
+
 - [帝王切開で生まれた子どもは麻疹ワクチンが効きにくいという研究結果](https://news.livedoor.com/article/detail/26566455/) (Livedoor.com)
 
 ## 24-24 (malaria)
+
+- [Así es cómo colonialismo, guerra y comercio impulsaron propagación de la malaria](https://www.forbes.com.mx/asi-es-como-colonialismo-guerra-y-comercio-impulsaron-propagacion-de-la-malaria/) (Forbes.com.mx)
+
+- [Tracking entwined histories of malaria, humans](https://news.harvard.edu/gazette/story/2024/06/tracking-entwined-histories-of-malaria-humansmalaria/) (Harvard School of Engineering and Applied Sciences)
+
+- [Encuentran una de las muestras más antiguas de malaria en Europa en un hombre enterrado hace 5.000 años en Villena](https://www.infosalus.com/salud-investigacion/noticia-encuentran-muestras-mas-antiguas-malaria-europa-hombre-enterrado-hace-5000-anos-villena-20240612175012.html) (Infosalus.com)
+
+- [Origin and spread of malaria](https://www.sciencedaily.com/releases/2024/06/240612113252.htm) (Science Daily)
+
+- [Hanno 4.000 anni le più antiche tracce della malaria](https://www.ansa.it/canale_scienza/notizie/biotech/2024/06/12/hanno-4.000-anni-le-piu-antiche-tracce-della-malaria-_c17cbf12-6dd1-4cb9-888b-649d525a25fe.html) (ANSA.it)
+
+- [Menschheitsgeschichte: Wie die Malaria die Welt erobert hat](https://www.sueddeutsche.de/gesundheit/malaria-ausbreitung-krieg-handel-kolonialismus-lux.MvmqEtWDS2RMLPrwepRkm8) (Süddeutsche Zeitung)
+
+- [Ältester Malariafall Österreichs entdeckt](https://noe.orf.at/stories/3260892/) (Noe.orf.at)
+
+- [Niet de mug maar de mens verspreidde malaria over de wereld](https://www.nrc.nl/nieuws/2024/06/12/niet-de-mug-maar-de-mens-verspreidde-malaria-over-de-wereld-a4856227) (Www.nrc.nl)
+
+- [Scientists reconstruct ancient genomes of the two most deadly malaria parasites to identify origin and spread](https://phys.org/news/2024-06-scientists-reconstruct-ancient-genomes-deadly.html) (Phys.Org)
+
+- [DNA from dozens of human skeletons unravels history of malaria](https://www.livescience.com/health/viruses-infections-disease/dna-from-dozens-of-human-skeletons-unravels-history-of-malaria) (Live Science)
+
+- [We bring dengue to Europe, local mosquitos do the rest](https://www.dw.com/en/we-bring-dengue-to-europe-local-mosquitos-do-the-rest/a-67547788) (DW (English))
+
+- [Colonialismo, guerra y comercio impulsaron propagación de la malaria en últimos 5.500 años](https://www.montevideo.com.uy/Salud/Colonialismo-guerra-y-comercio-impulsaron-propagacion-de-la-malaria-en-ultimos-5-500-anos-uc891007) (Montevideo.com.uy)
+
+- [Evaluation of transmission-blocking potential of PvPSOP25 using transgenic murine malaria parasite and clinical isolates](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012231) (Plos.org)
+
+- [Hawaii's birds are going extinct. Their last hope could be millions of mosquitoes](https://www.npr.org/2024/06/12/nx-s1-4906582/mosquito-hawaii-birds-endangered-species-extinct) (NPR)
 
 - [Sonitpur DC advocates inter-departmental unity to combat VBDs](https://thehillstimes.in/assam/sonitpur-dc-advocates-inter-departmental-unity-to-combat-vbds) (Thehillstimes.in)
 
@@ -92,6 +166,24 @@ Source: [News API](https://newsapi.org/)
 - [「Gaudi 3はNVIDIA GPUを超えるAI性能」とインテル鈴木会長。インテルAI Summit Japanレポート](https://pc.watch.impress.co.jp/docs/news/1599041.html) (Impress.co.jp)
 
 ## 24-24 (h5n1)
+
+- [EEUU prepara 5 millones de vacunas contra la gripe aviar ante una posible nueva pandemia](https://www.nuevatribuna.es/articulo/global/eeuu-prepara-5-millones-vacunas-gripe-aviar-posible-nueva-pandemia/20240612184527227891.html) (Nuevatribuna.es)
+
+- [OMS reporta drástico aumento de casos gripe aviar en ganado vacuno de EU](https://www.forbes.com.mx/oms-reporta-drastico-aumento-de-casos-gripe-aviar-en-ganado-vacuno-de-eu/) (Forbes.com.mx)
+
+- [La OMS insiste en que la gripe aviar H5N1 tiene "un riesgo bajo para la salud pública"](https://www.infosalus.com/salud-investigacion/noticia-oms-insiste-gripe-aviar-h5n1-tiene-riesgo-salud-publica-20240612175149.html) (Infosalus.com)
+
+- [Bird Flu (H5N1) Explained: Bird Flu (H5N1) Explained: Toddler Infected With Another Strain—Second Human Case In India](https://www.forbes.com/sites/ariannajohnson/2024/06/12/bird-flu-h5n1-explained-bird-flu-h5n1-explained-toddler-infected-with-another-strain-second-human-case-in-india/) (Forbes)
+
+- [„Das Vogelgrippe-Virus spielt Lotto“: Was bringt eine Impfung bei Mensch und Tier?](https://www.tagesspiegel.de/wissen/das-vogelgrippe-virus-spielt-lotto-was-bringt-eine-impfung-bei-mensch-und-tier-11786513.html) (Der Tagesspiegel)
+
+- [„Das Vogelgrippe-Virus spielt Lotto“: Welche Personen jetzt geimpft werden sollten](https://www.tagesspiegel.de/wissen/das-vogelgrippe-virus-spielt-lotto-welche-personen-jetzt-geimpft-werden-sollten-11786513.html) (Der Tagesspiegel)
+
+- [Europa garante 40 milhões de vacinas contra gripe aviária](https://tecnologia.ig.com.br/parceiros/canaltech/2024-06-12/europa-garante-40-milhoes-de-vacinas-contra-gripe-aviaria.html) (Ig.com.br)
+
+- [Vogelgrippe in Indien: Kind nach Infektion schwer erkrankt](https://www.tagesspiegel.de/wissen/vogelgrippe-in-indien-kind-nach-infektion-schwer-erkrankt-11807942.html) (Der Tagesspiegel)
+
+- [„Virus hat sich Millionen Gelegenheiten erschlossen, in Kontakt zu Menschen zu kommen“](https://www.welt.de/wissenschaft/plus251956936/Vogelgrippe-Virus-hat-sich-Millionen-Gelegenheiten-erschlossen-in-Kontakt-zu-Menschen-zu-kommen.html) (DIE WELT)
 
 - [Fatal Infection in Ferrets after Ocular Inoculation with Highly Pathogenic Avian Influenza A(H5N1)](https://wwwnc.cdc.gov/eid/article/30/7/24-0520_article) (Cdc.gov)
 
@@ -142,6 +234,44 @@ Source: [News API](https://newsapi.org/)
 - [【人類終了】女児が鳥インフルエンザに感染したと発表 ＼(^o^)／ｵﾜﾀ 豪](http://blog.livedoor.jp/rbkyn844/archives/10654686.html) (Livedoor.jp)
 
 ## 24-24 (dengue)
+
+- [Forskare: Därför blir dengueviruset allt vanligare i Europa](https://svenska.yle.fi/a/7-10058799) (Svenska.yle.fi)
+
+- [El plan contras las olas de calor de Salut prevé reforzar la vigilancia del mosquito tigre](https://www.elperiodico.com/es/sanidad/20240612/plan-contras-olas-calor-cataluna-reforzara-vigilancia-mosquito-tigre-103694145) (Elperiodico.com)
+
+- [We bring dengue to Europe, local mosquitos do the rest](https://www.dw.com/en/we-bring-dengue-to-europe-local-mosquitos-do-the-rest/a-67547788) (DW (English))
+
+- [CLDF aprova projeto que cria cronograma de combate a crises na Saúde](https://www.metropoles.com/distrito-federal/cldf-aprova-projeto-que-cria-cronograma-de-combate-a-crises-na-saude) (Metropoles.com)
+
+- [Unveiling candidate genes for metabolic resistance to malathion in Aedes albopictus through RNA sequencing-based transcriptome profiling](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012243) (Plos.org)
+
+- [Dengue : 500 cas importés en France métropolitaine depuis le 1er mai](https://www.ouest-france.fr/sante/maladies/dengue-500-cas-importes-en-france-metropolitaine-depuis-le-1er-mai-72d79d6a-28c1-11ef-96d1-fdb7d737b711) (Ouest-France)
+
+- [Aumentan en Europa los casos de dengue y brotes de infecciones por el virus del Nilo Occidental](https://www.huffingtonpost.es/life/salud/aumentan-europa-casos-dengue-brotes-infecciones-virus-nilo-occidental.html) (Huffingtonpost.es)
+
+- [Dengue: el país superó el medio millón de casos y es el segundo en la región, después de Brasil, con más infecciones](https://www.lanacion.com.ar/sociedad/dengue-el-pais-supero-el-medio-millon-de-casos-y-es-el-segundo-en-la-region-despues-de-brasil-con-nid12062024/) (La Nacion)
+
+- [Mudanças climáticas favorecem aumento da dengue na Europa](https://tecnologia.ig.com.br/parceiros/canaltech/2024-06-12/mudancas-climaticas-favorecem-aumento-da-dengue-na-europa.html) (Ig.com.br)
+
+- [How the Paris Olympics could become a super-spreader event for dengue](https://theconversation.com/how-the-paris-olympics-could-become-a-super-spreader-event-for-dengue-231853) (The Conversation Africa)
+
+- [Inteligência artificial atende 38,6 mil com sintomas de dengue em Campinas; veja como funciona](https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/12/inteligencia-artificial-atende-386-mil-com-sintomas-de-dengue-em-campinas-veja-como-funciona.ghtml) (Globo)
+
+- [O mosquito tigre, que está por trás de aumento de casos de dengue na Europa](https://www.bbc.com/portuguese/articles/cp005ezln6mo) (BBC News)
+
+- [En Teloloapan, Guerrero, al menos 5 muertos por dengue hemorrágico: edil](https://www.jornada.com.mx/2024/06/12/estados/030n1est) (Jornada.com.mx)
+
+- [Le zanzare invasive sono sempre più diffuse in Europa](https://www.ilpost.it/2024/06/12/zanzare-invasive-dengue-west-nile/) (Ilpost.it)
+
+- [Dengue fever cases rising as climate change draws tiger mosquitoes to Europe](https://news.sky.com/story/dengue-fever-cases-rising-as-climate-change-draws-tiger-mosquitoes-to-europe-13151795) (Sky.com)
+
+- [Denguefeber i Europa – myggor har blivit ett växande hot under de senaste två decennierna](https://svenska.yle.fi/a/7-10058739) (Svenska.yle.fi)
+
+- [Los casos de dengue y enfermedades transmitidas por mosquitos, en aumento en Europa](https://www.elmundo.es/ciencia-y-salud/2024/06/12/666954bffdddff65708b45ce.html) (El Mundo)
+
+- [Dengue-oro inför OS och fotbolls-EM](https://www.dn.se/sport/dengue-oro-infor-os-och-fotbolls-em/) (Www.dn.se)
+
+- [Dengue-oro inför OS och fotbolls-EM](https://www.svd.se/a/zArJK5/dengue-oro-infor-os-och-fotbolls-em) (Svenska Dagbladet)
 
 - [Alerta mosquitos: aumentan los casos de dengue y virus del Nilo](https://www.libertaddigital.com/ciencia-tecnologia/ciencia/2024-06-12/alerta-mosquitos-aumentan-los-casos-de-dengue-y-virus-del-nilo-7136301/) (Libertaddigital.com)
 
@@ -230,6 +360,16 @@ Source: [News API](https://newsapi.org/)
 - [Dengue kills](https://www.thestar.com.my/news/nation/2024/06/09/dengue-kills) (The Star Online)
 
 ## 24-24 (chikungunya)
+
+- [El plan contras las olas de calor de Salut prevé reforzar la vigilancia del mosquito tigre](https://www.elperiodico.com/es/sanidad/20240612/plan-contras-olas-calor-cataluna-reforzara-vigilancia-mosquito-tigre-103694145) (Elperiodico.com)
+
+- [We bring dengue to Europe, local mosquitos do the rest](https://www.dw.com/en/we-bring-dengue-to-europe-local-mosquitos-do-the-rest/a-67547788) (DW (English))
+
+- [Unveiling candidate genes for metabolic resistance to malathion in Aedes albopictus through RNA sequencing-based transcriptome profiling](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012243) (Plos.org)
+
+- [Avrupa’da Asya Kaplan sivrisineği paniği!](https://www.hurriyet.com.tr/dunya/avrupada-asya-kaplan-sivrisinegi-panigi-42476036) (Hurriyet.com.tr)
+
+- [Ateşli hastalığa neden oluyor! Asya Kaplanı Avrupa'da yayılmaya başladı](https://www.sabah.com.tr/dunya/atesli-hastaliga-neden-oluyor-asya-kaplani-avrupada-yayilmaya-basladi-6976312) (Sabah.com.tr)
 
 - [Saiba diferenciar os sintomas de dengue, chikungunya e Zika e conheça as possíveis complicações de cada doença](https://gizmodo.uol.com.br/diferenca-dengue-chikungunya-zika/) (Uol.com.br)
 
@@ -2797,8 +2937,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html) (GlobeNewswire)
 
-- [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
-
 ## 24-18 (measles)
 
 - [Addressing Childhood Diseases](https://naturalnewsblogs.com/addressing-childhood-diseases/) (Naturalnewsblogs.com)
@@ -2843,12 +2981,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘Measles had serious impact on kids with cancer’](https://timesofindia.indiatimes.com/city/mumbai/measles-had-serious-impact-on-kids-with-cancer/articleshow/109673357.cms) (The Times of India)
 
-- [Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN](https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html) (CNN)
-
-- [Global measles cases nearly doubled in one year, researchers say](https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062) (WESH Orlando)
-
-- [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
-
 ## 24-18 (malaria)
 
 - [Yellow Dove shares mental health battle; I’d strip naked, attempt to jump off Findeco House](https://diggers.news/lifestyle/2024/05/04/stripping-naked-attempted-15th-floor-findeco-house-jump-yellow-dove-shares-mental-health-battle/) (Diggers.news)
@@ -2892,12 +3024,6 @@ Source: [News API](https://newsapi.org/)
 - [Need to consistently raise public awareness on malaria: MPR](https://en.antaranews.com/news/312102/need-to-consistently-raise-public-awareness-on-malaria-mpr) (Antaranews.com)
 
 - [„Malariamücke“ nach 50 Jahren wieder in Italien aufgetaucht](https://www.diepresse.com/18416480/malariamuecke-nach-50-jahren-wieder-in-italien-aufgetaucht) (Diepresse.com)
-
-- [तीन करोड़ साल पुरानी बीमारी मलेरिया जड़ से होगी खत्म! गेम चेंजर है वैक्सीन आर21, क्या कहते हैं वैज्ञानिक](https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms) (The Times of India)
-
-- [Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia](https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/) (Ilpost.it)
-
-- ['Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'](https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/) (Thecooldown.com)
 
 ## 24-18 (leptospirosis)
 
@@ -3058,8 +3184,6 @@ Source: [News API](https://newsapi.org/)
 - [El mapa del dengue: con oscilaciones en las provincias, la epidemia ya acumula casi 380.000 casos desde enero](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-oscilaciones-en-las-provincias-la-epidemia-ya-acumula-casi-380000-casos-desde-nid28042024/) (La Nacion)
 
 - [Rising dengue cases in Kedah raising alarm](https://www.thestar.com.my/news/nation/2024/04/29/rising-dengue-cases-in-kedah-raising-alarm) (The Star Online)
-
-- [Argentina llegó a 280 fallecimientos de pacientes con dengue; 42 en la última semana](https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762) (Montevideo.com.uy)
 
 ## 24-18 (chikungunya)
 
