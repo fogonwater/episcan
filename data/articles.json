@@ -1,8 +1,783 @@
 {
-  "last_updated": "2024-06-14 07:06",
-  "count_articles_total": 1445,
-  "count_articles_new": 11,
+  "last_updated": "2024-06-14 19:05",
+  "count_articles_total": 1480,
+  "count_articles_new": 43,
   "articles": [
+    {
+      "id": 10165,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Clare Wilson",
+      "title": "Polycystic ovary syndrome could be treated with a malaria drug",
+      "description": "The malaria treatment artemisinin improved hormone levels and regulated menstrual cycles in women with polycystic ovary syndrome",
+      "url": "https://www.newscientist.com/article/2435532-polycystic-ovary-syndrome-could-be-treated-with-a-malaria-drug/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/06/13135749/SEI_2085443361.jpg",
+      "publishedAt": "2024-06-13 19:00:45",
+      "content": "The malaria drug artemisinin is derived from the plant sweet wormwood FREDERIC J. BROWN/AFP via Getty Images A medicine already used to treat malaria could also work as a treatment for polycystic o\u2026 [+2074 chars]",
+      "retrievedAt": "2024-06-14 19:05:36.833361",
+      "internal_id": "e76874d31a0dc6cfbfcc8ca2b5debc46796715a731cd2864ee93e4f46d990751",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10168,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Katia Hetter",
+      "title": "How to stay safe from tick- and mosquito-borne illnesses this summer | CNN",
+      "description": "A doctor explains how to protect yourself during West Nile, Lyme disease and malaria season.",
+      "url": "https://www.cnn.com/2024/06/13/health/summer-lyme-ticks-mosquitos-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/191001205056-mosquito-stock.jpg?q=x_5,y_246,h_2767,w_4917,c_crop/w_800",
+      "publishedAt": "2024-06-13 18:46:00",
+      "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being. Welcome to summer in the Nor\u2026 [+6322 chars]",
+      "retrievedAt": "2024-06-14 19:05:36.900965",
+      "internal_id": "5a6455be7c2cc470310de97fe224cace31cf266f13f09cb24db36f1da0f8d135",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10161,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Melody Schreiber",
+      "title": "A surprising history of malaria is revealed by clues from ancient bones",
+      "description": "It's pretty amazing: bones from thousands of years ago yielded traces of malaria parasites. Disease historians are surprised by what they've learned.",
+      "url": "https://www.npr.org/sections/goats-and-soda/2024/06/12/g-s1-4088/malaria-history-slave-trade-colonizers",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+203/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2F83%2F171ea024491998f94802dbf5ad19%2Fmalaria.jpg",
+      "publishedAt": "2024-06-13 18:24:49",
+      "content": "How old is malaria? Researchers used to think it was two or three thousand years old at most a modern disease that appeared long after humans gave up the nomadic hunting lifestyle and formed towns a\u2026 [+5949 chars]",
+      "retrievedAt": "2024-06-14 19:05:36.780276",
+      "internal_id": "1a6146e89b551f5cfed2a25b81e81888501a403a9db8dd8f0a35a692ce4895b6",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10139,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Ooe.orf.at",
+      "author": "ORF.at",
+      "title": "Keuchhusten: Betroffene Eltern mit Appell",
+      "description": "Noch immer sind drei kleine Kinder mit Keuchhusten im Kepler Uniklinikum in intensiver Behandlung. Ein zweij\u00e4hriger Bub befindet sich inzwischen auf dem Weg der Besserung, seine Eltern appellieren jetzt an andere, Ma\u00dfnahmen wie die Impfung zu nutzen.",
+      "url": "https://ooe.orf.at/stories/3261114/",
+      "urlToImage": "https://ibs.orf.at/ooe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2024%2F24%2F09%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F2242172_master_851709_240613_ooeh_keuchhusten_00_00_00_05.jpg%3Fs%3D8160ada779885b3202c642d91aec6c77fda56e2e",
+      "publishedAt": "2024-06-13 18:05:56",
+      "content": "Keuchhusten, auch Pertussis genannt, kann einen gef\u00e4hrlichen Verlauf nehmen. Im Kepler Universit\u00e4tsklinikum k\u00e4mpft seit Wochen das Krankenhausteam um das Leben von drei schwer an Keuchhusten erkrankt\u2026 [+3551 chars]",
+      "retrievedAt": "2024-06-14 19:05:32.384810",
+      "internal_id": "63421829c96f1410580d2835e494b084b7c0f3ddf2e5cc1b315e041edb86d648",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10153,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Study Finds",
+      "author": "study finds",
+      "title": "How Paris Olympics Could Become Super-Spreader Event...",
+      "description": "In Paris, hundreds of sites are being regularly checked for the presence of the dengue-carrying mosquitoes. Will this be enough?",
+      "url": "https://studyfinds.org/paris-olympics-could-become-super-spreader-event-for-dengue-expert-warns/",
+      "urlToImage": "https://studyfinds.org/wp-content/uploads/2024/06/Paris-Olympics-scaled.jpg",
+      "publishedAt": "2024-06-13 18:00:03",
+      "content": "In September 2023, several people came down with dengue fever in Paris, France. The presence of this mosquito-borne disease was notable for two reasons. It was the most northerly outbreak ever record\u2026 [+4274 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.421088",
+      "internal_id": "3903986111474a1293c624479908bdb0da5cfe2384b34791cc8f33ed3f6d0056",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10164,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Eficacia de un f\u00e1rmaco para la malaria en el s\u00edndrome de ovario poliqu\u00edstico",
+      "description": "Las artemisininas, compuestos que se emplean contra la malaria o paludismo de origen vegetal, parecen ser un tratamiento efectivo para el s\u00edndrome de ovario poliqu\u00edstico. Lo afirma una investigaci\u00f3n que se publica en ' Science ' en la se informan c\u00f3mo estos c\u2026",
+      "url": "https://www.abc.es/salud/enfermedades/eficacia-farmaco-malaria-sindrome-ovario-poliquistico-20240613131816-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/06/13/malaria-artemisia-U51064423560Trm-1024x512@diario_abc.jpeg",
+      "publishedAt": "2024-06-13 18:00:03",
+      "content": "Las artemisininas, compuestos que se emplean contra la malaria o paludismo de origen vegetal, parecen ser un tratamiento efectivo para el s\u00edndrome de ovario poliqu\u00edstico. Lo afirma una investigaci\u00f3n \u2026 [+2768 chars]",
+      "retrievedAt": "2024-06-14 19:05:36.824565",
+      "internal_id": "fcab360bbf878c800dd88049b9acdaacf5e48ee7eea0c8ddc74b0a6f08540ecf",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10162,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Pere \u00cd\u00f1igo",
+      "title": "Emplean un compuesto contra la malaria para tratar el s\u00edndrome de ovario poliqu\u00edstico",
+      "description": "Unos antimal\u00e1ricos de origen vegetal, las artemisininas, se investigan como potencial tratamiento para este trastorno de la funci\u00f3n ov\u00e1rica, por el que se producen m\u00e1s hormonas masculinas de lo normal y que puede causar infertilidad Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/06/13/666b2436e85ece65648b4589.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/d8a98cc19cff03917fb6a18b588466a3/crop/0x0/3065x2043/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/13/17182997864444.jpg",
+      "publishedAt": "2024-06-13 18:00:00",
+      "content": "Las artemisininas, compuestos procedentes de la planta Artemisia, que tienen propiedades frente a la malaria podr\u00edan ser tambi\u00e9n \u00fatiles en el s\u00edndrome de ovario poliqu\u00edstico, seg\u00fan sugiere un trabajo\u2026 [+4891 chars]",
+      "retrievedAt": "2024-06-14 19:05:36.793951",
+      "internal_id": "035f971ac756ea1fb31ff38913627bbaa66e05a6dd27ebdd1ebf218794bb6136",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10163,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Archaeology",
+      "author": "Jessica Esther Saraceni",
+      "title": "Genomes of Malaria Parasites Reveal Spread of Disease",
+      "description": "LEIPZIG, GERMANY\u2014According to a statement released by the Max Planck Society, an international team of [\u2026] The post Genomes of Malaria Parasites Reveal Spread of Disease appeared first on Archaeology Magazine.",
+      "url": "https://archaeology.org/news/2024/06/13/genomes-of-malaria-parasites-reveal-spread-of-disease/",
+      "urlToImage": "https://archaeology.org/wp-content/uploads/2024/06/News-20240613-Malaria-Nepal-Header.jpg",
+      "publishedAt": "2024-06-13 18:00:00",
+      "content": "Laguna de los C\u00f3ndores, Peru LEIPZIG, GERMANYAccording to a statement released by the Max Planck Society, an international team of researchers reconstructed ancient Plasmodium genomes through the an\u2026 [+1855 chars]",
+      "retrievedAt": "2024-06-14 19:05:36.815542",
+      "internal_id": "404ec3fd9e0ae50530bbaa085c8cc9dfdef4a27fcbf871ca6fbfc8aea98fd8a3",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10178,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (VOA News)",
+      "title": "South African authorities warn of mpox after 2 deaths",
+      "description": "Six cases have been detected in the country, all among men in their 30s",
+      "url": "https://www.voanews.com/a/7654861.html",
+      "urlToImage": "https://gdb.voanews.com/11CECBA4-9F3F-43AB-B380-B2743F5F5B23.jpg",
+      "publishedAt": "2024-06-13 17:47:23",
+      "content": "Two people have died after contracting mpox, or monkeypox, South African health authorities said Thursday. Six recent mpox cases have been confirmed in South Africa, all among men in their 30s. Offi\u2026 [+1431 chars]",
+      "retrievedAt": "2024-06-14 19:05:38.641349",
+      "internal_id": "f54b498ccb0a060193e0ae5c1ced641e1bda3af9674c05fcc2b536d024f80bdc",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10140,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com",
+      "author": "Javier Jim\u00e9nez",
+      "title": "Cada vez hay m\u00e1s expertos preocupados por el peor brote de gripe aviar conocido. Y no es por la gripe",
+      "description": "Ya son tres los estadounidenses que ha dado positivo de gripe A (H5N1) en los \u00faltimos d\u00edas. Todos ellos se contagiaron, presumiblemente, en las granjas de vacas en las que trabajaban. Sin embargo, el \u00faltimo caso es distinto: por primera, vez no es un simple p\u2026",
+      "url": "https://www.xataka.com/medicina-y-salud/cada-vez-hay-expertos-preocupados-peor-brote-gripe-aviar-conocido-no-gripe",
+      "urlToImage": "https://i.blogs.es/b9dfd6/gabriella-clare-marino-xag5aoido9m-unsplash/840_560.jpeg",
+      "publishedAt": "2024-06-13 17:31:35",
+      "content": "Ya son tres los estadounidenses que ha dado positivo de gripe A (H5N1) en los \u00faltimos d\u00edas. Todos ellos se contagiaron, presumiblemente, en las granjas de vacas en las que trabajaban. Sin embargo, el\u2026 [+3600 chars]",
+      "retrievedAt": "2024-06-14 19:05:34.487173",
+      "internal_id": "da6e2a0fd7bd63c05bb2f08b6261de92c5e2276f0e2f9887de20fe572e2d67ed",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10144,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Philippe RICHARD",
+      "title": "Grippe aviaire : faut-il se pr\u00e9parer \u00e0 l\u2019arriv\u00e9e du virus H5N1 qui touche les bovins am\u00e9ricains ?",
+      "description": "La contamination d\u2019\u00e9levages bovins aux \u00c9tats-Unis n\u2019augmenterait pas le risque pand\u00e9mique de grippe aviaire. Cette souche du virus pourrait cependant traverser l\u2019Atlantique.",
+      "url": "https://www.ouest-france.fr/sante/maladies/grippe-aviaire-faut-il-se-preparer-a-larrivee-du-virus-h5n1-qui-touche-les-bovins-americains-f0b6da2a-2989-11ef-98cf-40d5bb3b7742",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNDA2ODc0N2IzZjQxYzllYmMzZTJkNjI3MjNjNzUzN2JkOTE?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=c324071b07e3076b29e45092806d198feeb3ac9dbf0ef9761f158d67e72c10e1",
+      "publishedAt": "2024-06-13 16:14:15",
+      "content": "Mardi, lAutorit\u00e9 de lUE aux urgences sanitaires (HERA) a conclu un contrat pour acqu\u00e9rir 665 000 doses du vaccin pr\u00e9pand\u00e9mique grippe aviaire de la soci\u00e9t\u00e9 britannique Seqirus, au nom de quinze \u00c9tats\u2026 [+2209 chars]",
+      "retrievedAt": "2024-06-14 19:05:34.534499",
+      "internal_id": "4c8a21f79964cd3ba21c5416c451e21e77a9b72333bcad729db34bf28c796cfc",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10159,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "M\u00e1rcia Piovesan",
+      "title": "Lulu Santos remarca shows ap\u00f3s ser diagnosticado com dengue",
+      "description": "O cantor Lulu Santos, que recentemente foi diagnosticado com dengue, remarcou suas apresenta\u00e7\u00f5es ...",
+      "url": "https://www.terra.com.br/diversao/gente/lulu-santos-remarca-shows-apos-ser-diagnosticado-com-dengue,2e77cd2c6ce4a7aa9073d987dec21c65mh27sfbp.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/13/2021056416-lulu.jpg",
+      "publishedAt": "2024-06-13 16:09:04",
+      "content": "O cantor Lulu Santos, que recentemente foi diagnosticado com dengue, remarcou suas apresenta\u00e7\u00f5es em Sorocaba e Campinas, no interior de S\u00e3o Paulo. Anteriormente, o artista havia sido diagnosticado c\u2026 [+635 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.576255",
+      "internal_id": "e0d3c4518d4e1e724a018f6a4db627650eaa27509a44d2d3976fc2cae076f15c",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10151,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "M\u00e1rcia Piovesan",
+      "title": "Lulu Santos \u00e9 diagnosticado com dengue e remarca shows",
+      "description": "O cantor Lulu Santos, que recentemente foi diagnosticado com dengue, remarcou suas apresenta\u00e7\u00f5es ...",
+      "url": "https://www.terra.com.br/diversao/gente/lulu-santos-e-diagnosticado-com-dengue-e-remarca-shows,2e77cd2c6ce4a7aa9073d987dec21c65mh27sfbp.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/13/2021056416-lulu.jpg",
+      "publishedAt": "2024-06-13 15:48:11",
+      "content": "O cantor Lulu Santos, que recentemente foi diagnosticado com dengue, remarcou suas apresenta\u00e7\u00f5es em Sorocaba e Campinas, no interior de S\u00e3o Paulo. Anteriormente, o artista havia sido diagnosticado c\u2026 [+635 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.383897",
+      "internal_id": "be6438bd8f9fef954f1d993b7ede225e79f1fe7b1bac13451a3c5cbb81b3844c",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10177,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "South Africa's health authorities report 2 deaths from mpox this week and warn of local transmission",
+      "description": "South African health authorities say two people have died this week after contracting mpox, and it appears there is local transmission of the disease",
+      "url": "https://abcnews.go.com/Health/wireStory/south-africas-health-authorities-report-2-deaths-mpox-111094098",
+      "urlToImage": "https://i.abcnewsfe.com/a/bc282263-c12e-4f30-a53c-41bd945dda29/wirestory_724502f85a579af5ffc69f47d403450c_16x9.jpg?w=1600",
+      "publishedAt": "2024-06-13 15:26:26",
+      "content": "CAPE TOWN, South Africa -- South African health authorities say two people have died this week after contracting mpox, and it appears there is local transmission of the disease. The health ministry \u2026 [+2213 chars]",
+      "retrievedAt": "2024-06-14 19:05:38.626181",
+      "internal_id": "363aa2500a0db45795c3d68c69a2d01736cf0a03373301f1547c7ef0a36f7d43",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10175,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "South Africa's health authorities report 2 deaths from mpox this week and warn of local transmission",
+      "description": "South African health authorities say two people have died this week after contracting mpox, and it appears there is local transmission of the disease",
+      "url": "https://abcnews.go.com/International/wireStory/south-africas-health-authorities-report-2-deaths-mpox-111094097",
+      "urlToImage": "https://i.abcnewsfe.com/a/bc282263-c12e-4f30-a53c-41bd945dda29/wirestory_724502f85a579af5ffc69f47d403450c_16x9.jpg?w=1600",
+      "publishedAt": "2024-06-13 15:26:24",
+      "content": "CAPE TOWN, South Africa -- South African health authorities say two people have died this week after contracting mpox, and it appears there is local transmission of the disease. The health ministry \u2026 [+2213 chars]",
+      "retrievedAt": "2024-06-14 19:05:38.600581",
+      "internal_id": "adeba2c71da020db192fb4473413cdb9e15854d346edc71673b558df523f573b",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10172,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "Associated Press",
+      "title": "South Africa's health authorities report 2 deaths from mpox this week and warn of local transmission",
+      "description": "South African health authorities say two people have died this week after contracting mpox, and it appears there is local transmission of the disease.",
+      "url": "https://www.startribune.com/south-africas-health-authorities-report-2-deaths-from-mpox-this-week-and-warn-of-local-transmission/600373282/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1717510706",
+      "publishedAt": "2024-06-13 15:14:03",
+      "content": "CAPE TOWN, South Africa South African health authorities say two people have died this week after contracting mpox, and it appears there is local transmission of the disease. The health ministry sai\u2026 [+2213 chars]",
+      "retrievedAt": "2024-06-14 19:05:38.586720",
+      "internal_id": "e07e901116a2b082d75ce6434262a67e86eecbb91f83630c381a0b4faa4b9170",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10141,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hvg.hu",
+      "author": "hvg@hvg.hu",
+      "title": "Nyakunkon lehet a k\u00f6vetkez\u0151 pand\u00e9mia? Agg\u00f3dnak a szakemberek a mad\u00e1rinfluenza miatt",
+      "description": "Van es\u00e9ly r\u00e1, hogy a mad\u00e1rinfluenza H5N1-vari\u00e1nsa emberre is \u00e1tugorjon, majd terjedni kezdjen \u2013 figyelmeztetnek a szakemberek, akik aggaszt\u00f3nak tal\u00e1lj\u00e1k a helyzetet. Van azonban j\u00f3 h\u00edr is.",
+      "url": "https://hvg.hu/tudomany/20240613_madarinfluenza-h5n1-varians-virus-veszely-emberi-fertozodes-pandemia-szakemberek-aggodalom",
+      "urlToImage": "https://img.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/91b3002c-32bb-4c7c-a852-b4e9adc7f933.jpg",
+      "publishedAt": "2024-06-13 15:03:00",
+      "content": "M\u00e1r a szakemberek is agg\u00f3dnak a mad\u00e1rinfluenza terjed\u00e9se miatt. A fertz\u00e9s H5N1 vari\u00e1nsa m\u00e1r vil\u00e1gszerte madarak t\u00edzmilli\u00f3inak hal\u00e1l\u00e1t okozta, de 40 ezer f\u00f3ka (\u00e9s oroszl\u00e1nf\u00f3ka) is elpusztult miatta. \u2026 [+3343 chars]",
+      "retrievedAt": "2024-06-14 19:05:34.499364",
+      "internal_id": "2c3731621d98175bda51ec02d1c48648b79bec1798b702462a20a5646a3e855f",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10160,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Felipe Nunes, Felipe Nunes",
+      "title": "Lulu Santos \u00e9 diagnosticado com dengue ap\u00f3s gastroenterite e influenza",
+      "description": "M\u00fasico segue afastado dos palcos e demais compromissos profissionais; entenda",
+      "url": "https://gente.ig.com.br/celebridades/2024-06-13/lulu-santos-e-diagnosticado-com-dengue-apos-gastroenterite-e-influenza.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/al/1y/zf/al1yzfoe3vof93zt5z2byafqm.jpg",
+      "publishedAt": "2024-06-13 14:28:26",
+      "content": "O cantor e compositor Lulu Santos, de 71 anos, foi diagnosticado com dengue, segundo comunicado divulgado nesta quinta-feira (13). Antes da doen\u00e7a viral, o m\u00fasico j\u00e1 havia recebido o diagn\u00f3stico \u2026 [+1401 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.588117",
+      "internal_id": "10a1ef3701d94f91c94568637e4df3468f92652d86733c3850a132e438c00855",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10156,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Barbosa",
+      "title": "Lulu Santos \u00e9 diagnosticado com dengue ap\u00f3s receber alta e adia shows",
+      "description": "Nota publicada no Instagram de Lulu Santos, nesta quinta (13/6), afirma que o artista precisar\u00e1 de \"repouso absoluto\"",
+      "url": "https://www.metropoles.com/celebridades/lulu-santos-e-diagnosticado-com-dengue-apos-receber-alta-e-adia-shows",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/06/09142512/capa-1533.jpg",
+      "publishedAt": "2024-06-13 14:21:10",
+      "content": "O cantor Lulu Santos foi diagnosticado com dengue ap\u00f3s receber alta da Cl\u00ednica S\u00e3o Vicente, no Rio de Janeiro, onde estava internado com influenza A e gastroenterite. Nota publicada no Instagram do a\u2026 [+996 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.505993",
+      "internal_id": "56b4f76bb797a6430d9b3967e2cfecf97a88aa51ce6320568951e735de254645",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10158,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "You-Yuan Tsai, Dayna Cheng, Sheng-Wen Huang, Su-Jhen Hung, Ya-Fang Wang, Yih-Jyh Lin, Huey-Pin Tsai, Justin Jang Hann Chu, Jen-Ren Wang",
+      "title": "The molecular epidemiology of a dengue virus outbreak in Taiwan: population wide versus infrapopulation mutation analysis",
+      "description": "Author summary Dengue virus (DENV) is an RNA virus which causes many infections worldwide. Taiwan experienced the largest DENV-2 outbreak in 2015 which resulted in many fatalities. Specific reasons for the increase in severity during this outbreak remains unc\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012268",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012268.g005&size=inline",
+      "publishedAt": "2024-06-13 14:00:00",
+      "content": "Citation: Tsai Y-Y, Cheng D, Huang S-W, Hung S-J, Wang Y-F, Lin Y-J, et al. (2024) The molecular epidemiology of a dengue virus outbreak in Taiwan: population wide versus infrapopulation mutation ana\u2026 [+52558 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.570895",
+      "internal_id": "b0a9e63721a05c22a46b8f04156ef0dc12322d6b1443f6df961f0b0653cba44f",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10166,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mathieu Vanhove, Philipp Schwabl, Collette Clementson, Angela M. Early, Margaret Laws, Frank Anthony, C\u00e9lia Florimond, Luana Mathieu, Kashana James, Cheyenne Knox, Narine Singh, Caroline O. Buckee, Lise Musset, Horace Cox, Reza Niles-Robin, Daniel E. Neafsey",
+      "title": "Temporal and spatial dynamics of Plasmodium falciparum clonal lineages in Guyana",
+      "description": "Author summary Malaria is caused by eukaryotic Plasmodium parasites, which undergo sexual recombination within mosquitoes. In settings with low transmission, such as Guyana, these parasites often recombine with themselves, leading to the propagation of identi\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012013",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012013.g007&size=inline",
+      "publishedAt": "2024-06-13 14:00:00",
+      "content": "Abstract Plasmodium parasites, the causal agents of malaria, are eukaryotic organisms that obligately undergo sexual recombination within mosquitoes. In low transmission settings, parasites recombin\u2026 [+68701 chars]",
+      "retrievedAt": "2024-06-14 19:05:36.885359",
+      "internal_id": "669e485d67eee049cfbd671443b24e7d6c89633724aea6849d7e7cefe4a0cbeb",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10169,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bachirou Tinto, Brice Bicaba, Th\u00e9r\u00e8se Samdapawind\u00e9 Kagon\u00e9, John Kayiwa, Ingrid Rabe, Corinne Simone Collette Merle, Alidou Zango, Ahidjo Ayouba, Sara Salinas, Dramane Kania, Yannick Simonin",
+      "title": "Co-circulation of two Alphaviruses in Burkina Faso: Chikungunya and O\u2019nyong nyong viruses",
+      "description": "Author summary Chikungunya virus (CHIKV) and O\u2019nyong nyong virus (ONNV) are transmitted to humans by the bite of mosquitoes; CHIKV by genus Aedes genus and ONNV by Anopheles genus mosquitoes. Diseases caused by these two viruses can be confused with other com\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011712",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011712.g003&size=inline",
+      "publishedAt": "2024-06-13 14:00:00",
+      "content": "Abstract Background Chikungunya virus (CHIKV) and Onyong nyong virus (ONNV) are phylogenetically related alphaviruses in the Semliki Forest Virus (SFV) antigenic complex of the Togaviridae family. \u2026 [+34739 chars]",
+      "retrievedAt": "2024-06-14 19:05:37.874373",
+      "internal_id": "cfba74d597f45dc5f8037173a9d35847c150c8aece7391ae9c5b255c34f54953",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10146,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Andrew Joseph",
+      "title": "Global vaccine expert criticizes 'ineptitude' of U.S. bird flu response",
+      "description": "Seth Berkley, a longtime and widely respected global health leader, said it has been \u201cshocking to watch the ineptitude\u201d of the U.S. response to #H5N1 bird flu.",
+      "url": "https://www.statnews.com/2024/06/13/global-health-leader-critiques-ineptitude-of-u-s-response-to-bird-flu-outbreak-among-cows/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2016/06/DSC7371-1024x576.jpg",
+      "publishedAt": "2024-06-13 13:57:59",
+      "content": "LONDON Seth Berkley, a longtime and widely respected global health leader, said Thursday that it has been shocking to watch the ineptitude of the U.S. response to the avian influenza outbreak among d\u2026 [+3087 chars]",
+      "retrievedAt": "2024-06-14 19:05:34.600581",
+      "internal_id": "f02086bb2e8c5836a98cf641d00cd00993c480656fa10cc56f2cea7a5e6d092a",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10157,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "Linnea Blomberg",
+      "title": "Denguefeber kan drabba Sverige \u2013 tigermyggor redan hittade",
+      "description": "Denguefeber \u00f6kar stort i Europa. \u00c4ven i Sverige har myggan som b\u00e4r p\u00e5 sjukdomen hittats. \u2013 Har man otur kan man f\u00e5 det, s\u00e4ger myggexperten Anders Lindstr\u00f6m.",
+      "url": "https://www.aftonbladet.se/nyheter/a/4Bz4ee/larmet-denguefeber-kan-drabba-sverige",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/59beb5b6-621e-4522-9133-b5b98c92db1c?fit=crop&format=auto&h=630&q=50&w=1200&s=a70ba435a935be958681ce654e050808cc7be16e",
+      "publishedAt": "2024-06-13 13:35:49",
+      "content": "Uppdaterad 15.43 | Publicerad 15.35 Denguefeber \u00f6kar stort i Europa. \u00c4ven i Sverige har myggan som b\u00e4r p\u00e5 sjukdomen hittats. Har man otur kan man f\u00e5 det, s\u00e4ger myggexperten Anders Lindstr\u00f6m. \u2026 [+2132 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.555912",
+      "internal_id": "13e615baf36d1c9f9ee1c95a813b7842b2a8b9fe475335849cac8d1d10847cee",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10176,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Odatv.com",
+      "author": "Odatv",
+      "title": "\u0130lk \u00f6l\u00fcm kayda ge\u00e7ti: Tehlike sa\u00e7an vir\u00fcs yay\u0131l\u0131yor",
+      "description": "G\u00fcney Afrika Cumhuriyeti'nde ilk kez g\u00f6r\u00fclen maymun \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc \"mpox\" nedeniyle 2 ki\u015finin hayat\u0131n\u0131 kaybetti\u011fi bildirildi. Ulusal Bula\u015f\u0131c\u0131 Hastal\u0131klar Enstit\u00fcs\u00fcnden (NICD) yap\u0131lan a\u00e7\u0131klamada, \u00fclkenin en b\u00fcy\u00fck iki eyaletinde toplamda 6 maymun \u00e7i\u00e7e\u011fi vakas\u0131 t\u2026",
+      "url": "https://www.odatv.com/saglik/ilk-olum-kayda-gecti-tehlike-sacan-virus-yayiliyor-guney-afrikada-maymun-cicegi-virusunden-2-kisi-oldu-baska-eyaletlere-yayildi-120048622",
+      "urlToImage": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2024/06/13/ilk-olum-kayda-gecti-tehlike-sacan-virus-yayiliyor-guney-afrikada-maymun-cicegi-virusunden-2-kisi-oldu-baska-eyaletlere-yayildi-s9as.jpg",
+      "publishedAt": "2024-06-13 13:34:21",
+      "content": "A\u00e7\u0131klamada, \u00fclkede ilk kez rastlanan hastal\u0131k nedeniyle 2 ki\u015finin ya\u015fam\u0131n\u0131 yitirdi\u011fi belirtildi. 15 \u00d6len ilk hastan\u0131n, 10 Haziran'da Gauteng'deki Thembisa Hastanesinde hayat\u0131n\u0131 kaybetti\u011fi aktar\u0131lan\u2026 [+852 chars]",
+      "retrievedAt": "2024-06-14 19:05:38.607621",
+      "internal_id": "9a996f067d11b19d95d4ec8b7d6f8d7114fbf1b73c3ae0b2abfdcb38aa55aac0",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10180,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Second sample from five patients taken for suspected Leptospirosis infection",
+      "description": "MELAKA: A second sample was taken for tests from five patients suspected of being infected with Leptospirosis after a school visit to the Jasin Hot Springs. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/06/13/second-sample-from-five-patients-taken-for-suspected-leptospirosis-infection",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/06/13/2747672.jpg",
+      "publishedAt": "2024-06-13 13:29:00",
+      "content": "MELAKA: A second sample was taken for tests from five patients suspected of being infected with Leptospirosis after a school visit to the Jasin Hot Springs. The health, human resources and unity com\u2026 [+1201 chars]",
+      "retrievedAt": "2024-06-14 19:05:39.106312",
+      "internal_id": "0b78b02cd3b654eb1520d05f58947366c1827b2d835be9c6c4c1b14302db7e3c",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10147,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Hipertextual",
+      "author": "Azucena Mart\u00edn",
+      "title": "El dengue se dispara en Europa: \u00bfy ahora qu\u00e9?",
+      "description": "La primera transmisi\u00f3n de dengue local en Europa tuvo lugar en 2010, con casos reportados en Francia y Croacia. Desde entonces, si bien siguen dominando los casos importados, cada vez hay m\u00e1s brotes causados por mosquitos aut\u00f3ctonos del continente. Esto ha si\u2026",
+      "url": "http://hipertextual.com/2024/06/dengue-europa",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/04/Aedes_aegypti.jpg",
+      "publishedAt": "2024-06-13 13:16:29",
+      "content": "La primera transmisi\u00f3n de dengue local en Europa tuvo lugar en 2010, con casos reportados en Francia y Croacia. Desde entonces, si bien siguen dominando los casos importados, cada vez hay m\u00e1s brotes \u2026 [+4546 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.342174",
+      "internal_id": "e13ba6029904fe97dd4beaa24c5d24fee61027816c5f9cd8a626eebf303d56f7",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10143,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412 \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u0438 \u043d\u0430\u0447\u043d\u0443\u0442 \u0432\u0430\u043a\u0446\u0438\u043d\u0430\u0446\u0438\u044e \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0421\u0442\u0440\u0430\u043d\u0430 \u043f\u043e\u043b\u0443\u0447\u0438\u0442 \u0432\u0430\u043a\u0446\u0438\u043d\u044b \u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e\u0439 \u0437\u0430\u043a\u0443\u043f\u043a\u0438 \u0415\u0421, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u044e\u0442 15 \u0441\u0442\u0440\u0430\u043d",
+      "url": "https://tass.ru/obschestvo/21088567",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21088567?u=2024-06-13T12:49:17.775385",
+      "publishedAt": "2024-06-13 12:49:17",
+      "content": ", 13 . //. , . . , 15 , . Seqirus UK Ltd., . , , , . A(H5N1) 2020-2023 . A(H5N1) 2023 . , . , , .",
+      "retrievedAt": "2024-06-14 19:05:34.516419",
+      "internal_id": "19dd60bba63dd9ea28c7ac5daae8c96493f3bc0606bf09102d13a2fc8600ceb7",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10152,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Ioana Ion",
+      "title": "Alarm\u0103 \u00een Rom\u00e2nia: Temutul \u021b\u00e2n\u021bar-tigru a ajuns pe meleagurile noastre. Epidemiolog: \u201eO singur\u0103 \u00een\u021bep\u0103tur\u0103 este suficient\u0103 pentru transmiterea Dengue\u201d",
+      "description": "O specie invaziv\u0103 de \u021b\u00e2n\u021bar, cunoscut\u0103 sub numele de \u021b\u00e2n\u021barul tigru, a colonizat deja 13 \u021b\u0103ri din Uniunea European\u0103, inclusiv \u021bara noastr\u0103. E vorba de \u021b\u00e2n\u021barul care transmite agen\u021bi patogeni, precum virusul Dengue \u0219i West Nile.",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/alarma-in-romania-temutul-tantar-tigru-a-ajuns-pe-2368321.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-8/8e78ad47-9b9c-42eb-a66b-63104fd0d604/index.gif?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-06-13 10:52:40",
+      "content": "O specie invaziv de \u00e2nar, cunoscut sub numele de \u00e2narul tigru, a colonizat deja 13 ri din Uniunea European, inclusiv ara noastr. E vorba de \u00e2narul care transmite ageni patogeni, precum virusul Dengue\u2026 [+5741 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.402655",
+      "internal_id": "d349b3dc40b2f6fa7a8af6e44ae48b34e649f75c626a0d8a64c984233b258a80",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10148,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Pilar P\u00e9rez, Cristina G. Lucio",
+      "title": "La amenaza de dengue llega a Europa: c\u00f3mo reconocer la infecci\u00f3n y qu\u00e9 hacer para evitarla",
+      "description": "Los casos se han disparado a nivel mundial. En el continente latinoamericano superan los 9,3 millones con m\u00e1s de 4.500 fallecidos. En Europa, el ECDC advierte que las infecciones aut\u00f3ctonas suman m\u00e1s de 130 Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/06/13/666ac303fdddff89458b45a5.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/18e98b7f1e8b5fa575c0a949574267eb/crop/614x245/3072x1883/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/13/17182728150818.jpg",
+      "publishedAt": "2024-06-13 10:43:42",
+      "content": "Tras el brote en Latinoam\u00e9rica, sobre todo centrado en las regiones de Argentina y Brasil , la nueva amenaza del dengue llega al viejo continente . Al otro lado del Atl\u00e1ntico los casos han duplicad\u2026 [+8331 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.351173",
+      "internal_id": "8e6d66b4c13644754b8fd0c7c616b8fa3c485027c0234ede9094259d7970bf39",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10138,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Mohammad S Razai, Sima Berendes, Shobhana Nagraj, Pippa Oakeshott, Asma Khalil",
+      "title": "As whooping cough rates rise, we urgently need to increase maternal vaccination rates",
+      "description": "The UK is experiencing a sharp increase in rates of whooping cough (pertussis), with confirmed cases in England climbing rapidly from 858 in 2023 to reach 2793 in just the first three months of 2024.1 In that period alone, whooping cough claimed the lives of \u2026",
+      "url": "https://www.bmj.com/content/385/bmj.q1289",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/385/8432.cover-source.jpg",
+      "publishedAt": "2024-06-13 10:26:12",
+      "content": "Mohammad S Razai, honorary research fellow in primary care1, Sima Berendes, research fellow2, Shobhana Nagraj, assistant professor of primary and community care34, \u2026 [+6610 chars]",
+      "retrievedAt": "2024-06-14 19:05:32.332922",
+      "internal_id": "93999d00047b66857e8aad760ee1f3226153892b958310ef9a0c20004f99d56e",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10155,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "LADbible",
+      "title": "Woman dubbed 'world's hottest scientist' shows off brutal symptoms after being hit by 'deadly' infection",
+      "description": "Rosie Moore - often dubbed the 'world's hottest scientist' has revealed her brutal symptoms after contracting dengue fever while travelling South America.",
+      "url": "https://www.ladbible.com/news/health/scientist-rosie-moore-dengue-fever-921505-20240613",
+      "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt4f7f9858b18dd334/666ac196a56d0838dc4c5ceb/hottest-scientist.png",
+      "publishedAt": "2024-06-13 10:10:46",
+      "content": "A woman often dubbed the 'world's hottest scientist' has revealed the brutal symptoms she's experienced after contracting a potentially 'deadly' infection while travelling. Getting sick while abroad\u2026 [+2751 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.441170",
+      "internal_id": "eee3c8f3a691b34264aca6fb4a5ce705cefbb4384da66076d0ed4bfc94c1e2df",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10150,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Redacci\u00f3n HuffPost / Agencias",
+      "title": "Aumentan en Europa los casos de dengue y brotes de infecciones por el virus del Nilo Occidental",
+      "description": "Los casos de dengue importados de \u00e1reas end\u00e9micas en Europa siguen aumentando, al igual que los brotes locales de infecciones por el virus del Nilo Occidental y el dengue, seg\u00fan el Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC)\u2026",
+      "url": "https://www.huffingtonpost.es/life/salud/expertos-alerta-internacional-turistas-plagas-rp.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/06/13/mujer-que-acaba-de-ser-picada-por-un-mosquito.jpeg",
+      "publishedAt": "2024-06-13 09:51:05",
+      "content": "Los casos de dengue importados de \u00e1reas end\u00e9micas en Europa siguen aumentando, al igual que los brotes locales de infecciones por el virus del Nilo Occidental y el dengue, seg\u00fan el Centro Europeo par\u2026 [+2958 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.368360",
+      "internal_id": "074dc905351cc053d6d1c3a389bc1e726f73d4821501ef1bdfc774bf03ab77b2",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10170,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "South Africa reports second mpox death this week",
+      "description": "More than 97,000 cases and 186 deaths were reported across 117 countries in the first four months of 2024.",
+      "url": "https://www.aljazeera.com/news/2024/6/13/south-africa-reports-second-mpox-death-this",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/AFP__20240109__1415047424__v2__HighRes__FloridaSMiamiDadeCountyOpensTwoNewMonkeypoxV-1718262876.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-06-13 09:42:52",
+      "content": "A second person has died in South Africa this week from the viral infection mpox, says the health ministry, less than 24 hours after it announced the first death. Previously known as monkeypox, mpox\u2026 [+2200 chars]",
+      "retrievedAt": "2024-06-14 19:05:38.564771",
+      "internal_id": "851fce36caa3cbbecbb83449ac83e7c7d86ebe44126ae9e00d7077379d75cf31",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10145,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sarabic.ae",
+      "author": "\u0633\u0628\u0648\u062a\u0646\u064a\u0643 \u0639\u0631\u0628\u064a",
+      "title": "\u0641\u064a\u0631\u0648\u0633 \u062c\u062f\u064a\u062f \u0642\u062f \u064a\u0643\u0648\u0646 \u0627\u0644\u0648\u0628\u0627\u0621 \u0627\u0644\u062a\u0627\u0644\u064a \u0628\u0639\u062f \u0643\u0648\u0631\u0648\u0646\u0627",
+      "description": "\u0643\u0634\u0641\u062a \u062f\u0631\u0627\u0633\u0629 \u062c\u062f\u064a\u062f\u0629\u060c \u0623\u0646 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u062a\u0646\u062a\u0634\u0631 \u0645\u0646 \u062c\u062f\u064a\u062f \u0628\u0634\u0643\u0644 \u0643\u0628\u064a\u0631\u060c \u0648\u062a\u062b\u064a\u0631 \u0642\u0644\u0642 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u062e\u0628\u0631\u0627\u0621 \u0627\u0644\u0623\u0645\u0631\u0627\u0636 \u0627\u0644\u0645\u0639\u062f\u064a\u0629 \u0623\u0643\u062b\u0631 \u0645\u0646 \u0623\u064a \u0648\u0642\u062a \u0645\u0636\u0649\u060c \u0648\u0627\u0639\u062a\u0628\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0647\u0630\u0627 \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u0645\u0631\u0634\u062d\u064b\u0627 \u0631\u0626\u064a\u0633\u064a\u064b\u0627 \u0644\u0644\u0648\u0628\u0627\u0621 \u0627\u0644\u062a\u0627\u0644\u064a.",
+      "url": "https://sarabic.ae/20240613/%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%82%D8%AF-%D9%8A%D9%83%D9%88%D9%86-%D8%A7%D9%84%D9%88%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%A7%D9%84%D9%8A-%D8%A8%D8%B9%D8%AF-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7--1089808129.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07e5/09/11/1050180352_0:114:3235:1934_2072x0_60_0_0_f86e19ff61d8c3c9eb5fcbe7fd7cfa25.jpg.webp",
+      "publishedAt": "2024-06-13 09:41:08",
+      "content": "https://sarabic.ae/20240613/---------1089808129.html https://cdn.img.sarabic.ae/img/07e5/09/11/1050180352_0:114:3235:1934_1920x0_80_0_0_e9cadeeaa3f5a10c4ad7621ee005a9cf.jpg.webp (H5N1) . (H5N1) . \u2026 [+493 chars]",
+      "retrievedAt": "2024-06-14 19:05:34.581161",
+      "internal_id": "9674db0356d857a85d8daafa4ea2038e7707a2b7eb1fb5f53315025bfd530214",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10171,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Lisalee Solomons",
+      "title": "News24 | Mpox claims second life in South Africa, this time in KZN",
+      "description": "Another person has died in hospital after contracting the mpox disease, this time in Umgungundlovu in KwaZulu-Natal.",
+      "url": "https://www.news24.com/news24/southafrica/news/mpox-claims-second-life-in-south-africa-this-time-in-kzn-20240613",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11929/5d15af04e7754297b3efab8449d82ede.jpg",
+      "publishedAt": "2024-06-13 09:36:18",
+      "content": "Another person has died from mpox, this time in KwaZulu-Natal. The 38-year-old man is the second person in South Africa to succumb to the disease. The first patient died on \u2026 [+4016 chars]",
+      "retrievedAt": "2024-06-14 19:05:38.578077",
+      "internal_id": "77038ae67fd0c4d2415922bce74fc5f93e1dafa1ed441e731ca4f1948f9818e4",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10154,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Francesca Bocchi)",
+      "title": "Zanzare tigre: cosa le attira e come evitare le punture",
+      "description": "Pi\u00f9 pericolosa della zanzara classica perch\u00e9 trasmette malattie come la dengue, la zanzara tigre ( Aedes albopictus.) \u00e8 diffusa nella maggior parte dell'Italia e la sua diffusione \u00e8 da ricondursi alla spiccata plasticit\u00e0 ecologica di questa specie, che consis\u2026",
+      "url": "https://www.ilgiornale.it/news/benessere/tutto-che-c-sapere-sulla-zanzara-tigre-e-proteggersi-2332391.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2024/06/09/1717959848-vignette-moustique-tigre.jpg?_=1717959848",
+      "publishedAt": "2024-06-13 09:33:43",
+      "content": "Originaria dell'Asia, Aedes albopictus, conosciuta anche come zanzara tigre, \u00e8 oggi considerata una delle principali specie invasive. Negli ultimi decenni si \u00e8 diffusa a livello globale con il traspo\u2026 [+6380 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.436144",
+      "internal_id": "b8c27a726bf6adbc2d6fadb06051bcfa1c82666539176960f180fd1151458069",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10179,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Briefly.co.za",
+      "author": "Reitumetse Makwea",
+      "title": "Health Minister Joe Phaahla Confirms 2nd Monkeypox Death",
+      "description": "Health minister Dr Joe Phaahla has confirmed South Africa's second Mpox-related death, a 38-year-old male from Brakpan, Gauteng, which follows that of a Tembisa man.",
+      "url": "https://briefly.co.za/south-africa/189285-health-minister-joe-phaahla-confirms-second-mpox-death/",
+      "urlToImage": "https://netstorage-briefly.akamaized.net/images/c99f64cc37955879.jpg?imwidth=1200",
+      "publishedAt": "2024-06-13 09:08:34",
+      "content": "Minister of Health Dr Joe Phaahla confirmed South Africa's second Monkeypox-related death, a 38-year-old male from Brakpan, Gauteng, who died in KwaZulu-Natal This brings the total n\u2026 [+3191 chars]",
+      "retrievedAt": "2024-06-14 19:05:38.653881",
+      "internal_id": "87b541490c17ebde1175970dcf3d713a6946d84ddaa1ff02fcda6b604187458c",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10173,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412 \u042e\u0410\u0420 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0432\u0442\u043e\u0440\u0443\u044e \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 mpox",
+      "description": "\u0412\u0441\u0435\u0433\u043e \u0432 \u0441\u0442\u0440\u0430\u043d\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0448\u0435\u0441\u0442\u044c \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f",
+      "url": "https://tass.ru/proisshestviya/21085635",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/proisshestviya/21085635?u=2024-06-13T08:33:01.977224",
+      "publishedAt": "2024-06-13 08:33:01",
+      "content": ", 13 . //. mpox ( ). . \" 38 mpox -, - . - \". mpox 37- . mpox. . , mpox , . . Mpox - , , . 1970 . mpox 1% 10%. . mpox , 85%. 2022 mpox, 100 . , c 1 2022 30 2024 117 97 208 mpox. 186 .",
+      "retrievedAt": "2024-06-14 19:05:38.591301",
+      "internal_id": "198ab5a36d4990f398f8cfc75716046d6a15f1b4b5ad2b0da95a203ab93ac5d8",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10167,
+      "query": [
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Press Trust of India",
+      "title": "Breeding of vector-borne diseases spiked by 90% in Delhi in 2023: MCD",
+      "description": "The breeding of vector-borne diseases like dengue, malaria and chikungunya spiked by nearly 90 per cent in Delhi during the monsoon season last year as compared to 2022, revealed an MCD report. According to the report, which also outlines the action plan of t\u2026",
+      "url": "https://www.business-standard.com/india-news/breeding-of-vector-borne-diseases-spiked-by-90-in-delhi-in-2023-mcd-124061300386_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-02/11/thumb/featurecrop/400X400/1707622152-9639.jpg",
+      "publishedAt": "2024-06-13 08:09:17",
+      "content": "Furthermore, the MCD conducted 41,476,581 house inspections in 2023 to look out for the breeding of vector-borne diseases in the city -- which was ramped up by nearly 15 per cent than the previous ye\u2026 [+19 chars]",
+      "retrievedAt": "2024-06-14 19:05:36.891352",
+      "internal_id": "32707fda009bd092e7f619f40ee98fd3b67863dde084027d59843a264aeb68a0",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10149,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Sonja Gillert",
+      "title": "Denguefieber \u2013 worauf muss ich in Europa achten?",
+      "description": "Denguefieber kann wie eine harmlose Erk\u00e4ltung sein, aber auch zu lebensbedrohlichen inneren Blutungen f\u00fchren. Im Jahr 2024 ist die Zahl der Infizierten deutlich gestiegen \u2013 auch in Europa. Was bedeutet das f\u00fcr den Sommerurlaub? Wie sch\u00fctzt man sich und wann i\u2026",
+      "url": "https://www.welt.de/podcasts/aha-zehn-minuten-alltags-wissen/article251994190/Denguefieber-worauf-muss-ich-in-Europa-achten-Podcast.html",
+      "urlToImage": "https://img.welt.de/img/podcasts/aha-zehn-minuten-alltags-wissen/mobile252004214/3331356107-ci16x9-w1200/Asiatische-Tigermuecke-Tropische-Tigermuecke-Dengue-Muecke-Den.jpg",
+      "publishedAt": "2024-06-13 07:55:51",
+      "content": "Au\u00dferdem geht es um die Frage: Eisw\u00fcrfel-Drink oder warmer Tee was ist das perfekte Sommergetr\u00e4nk, um nicht zu sehr ins Schwitzen zu geraten? Mehr erfahren Sie hier im Podcast: Abonnieren Sie den Po\u2026 [+3255 chars]",
+      "retrievedAt": "2024-06-14 19:05:35.359827",
+      "internal_id": "08a729393c47718059977effe26c22a0ae5ef3bb172a88423a30c6be73ef1a56",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10142,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hi-news.ru",
+      "author": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0416\u0443\u043a\u043e\u0432",
+      "title": "\u0412 \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u0438 \u043d\u0430\u0447\u043d\u0443\u0442 \u0432\u0430\u043a\u0446\u0438\u043d\u0430\u0446\u0438\u044e \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u2014 \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u044b\u043c \u0441\u0442\u0440\u0430\u043d\u0430\u043c \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c\u0441\u044f?",
+      "description": "\u0415\u0421 \u0437\u0430\u043a\u043b\u044e\u0447\u0438\u043b \u043a\u043e\u043d\u0442\u0440\u0430\u043a\u0442 \u043d\u0430 \u043f\u043e\u043a\u0443\u043f\u043a\u0443 \u0431\u043e\u043b\u0435\u0435 40 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u0434\u043e\u0437 \u0432\u0430\u043a\u0446\u0438\u043d \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430. \u0412 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0432\u0430\u043a\u0446\u0438\u043d\u0430\u0446\u0438\u044f \u043d\u0430\u0447\u043d\u0435\u0442\u0441\u044f \u0432 \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u0438. \u041e\u0434\u043d\u0430\u043a\u043e \u043c\u043d\u043e\u0433\u0438\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0442\u0440\u0430\u043d\u044b \u043c\u0438\u0440\u0430 \u0442\u0430\u043a\u0436\u0435 \u043e\u0437\u0430\u0431\u043e\u0442\u0438\u043b\u0438\u0441\u044c \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u044c\u044e \u043f\u0440\u043e\u0444\u0438\u043b\u0430\u043a\u0442\u0438\u043a\u0438 \u043e\u043f\u0430\u0441\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430.",
+      "url": "https://hi-news.ru/eto-interesno/v-finlyandii-nachnut-vakcinaciyu-ot-ptichego-grippa-ostalnym-stranam-gotovitsya.html",
+      "urlToImage": "https://hi-news.ru/wp-content/uploads/2024/06/Vakcina-1000x526.png",
+      "publishedAt": "2024-06-13 07:30:08",
+      "content": ", , . , . , , 60%. , . , , . \u2014 . , . , . , . , . , , , . , . , 11 2024 CSL Seqirus 40 15 -, Reuters. . 665 . , . , . , , , , . , , , . , , , , , . H5N8 , , Seqirus. (EMA) 2023 . , H5N1, \u2026 [+129 chars]",
+      "retrievedAt": "2024-06-14 19:05:34.507464",
+      "internal_id": "8ba668991839df37de3b19c1ac4ec6bd020934d6164a647ddcea0e472cc9612e",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10174,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd: \u0394\u03b5\u03cd\u03c4\u03b5\u03c1\u03bf\u03c2 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03b9\u03cc mpox \u03b1\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7\u03bd \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1 \u03c3\u03c4\u03b7 \u039d\u03cc\u03c4\u03b9\u03b1 \u0391\u03c6\u03c1\u03b9\u03ba\u03ae",
+      "description": "\u039f \u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03cc\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03c4\u03c9\u03bd \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03c9\u03bd \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03b1\u03ba\u03ac \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c4\u03bf\u03c5 mpox \u03b1\u03bd\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03ad\u03be\u03b9 | \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd | mpox | \u039d\u03cc\u03c4\u03b9\u03b1 \u0391\u03c6\u03c1\u03b9\u03ba\u03ae | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1508544/eulogia-ton-pithikon-deuteros-thanatos-apo-ton-io-mpox-autin-tin-evdomada-sti-notia-afriki/",
+      "urlToImage": "https://i1.prth.gr/images/640x360share/files/2023-10-11/monkeypox_2158085607.jpg",
+      "publishedAt": "2024-06-13 07:24:34",
+      "content": "Youth Empowered HoReCa Empowered Coca Cola 3 .",
+      "retrievedAt": "2024-06-14 19:05:38.595794",
+      "internal_id": "6096ea5cca9d2423b618cbad8a79f2d5d83314c9390581bb56b2200899f119c7",
+      "publishedAtLabel": "Jun 13"
+    },
     {
       "id": 10127,
       "query": [
@@ -25938,150 +26713,6 @@
       "content": "A virtual tour of 'ShivShakti', Ajay Devgn and Kajol's beautiful home",
       "retrievedAt": "2024-04-30 07:06:47.233821",
       "internal_id": "efc447cf35bbe9445e13740afbe9a7503e18672965df9b3005ce0aa286a68278",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8693,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Argentina lleg\u00f3 a 280 fallecimientos de pacientes con dengue; 42 en la \u00faltima semana",
-      "description": "Solo en lo que va de este a\u00f1o, los casos de la enfermedad suman 379.341, de los cuales 871 fueron clasificados como graves. Solo en lo que va de este a\u00f1o, los casos de la enfermedad suman 379.341, de los cuales 871 fueron clasificados como graves.",
-      "url": "https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
-      "publishedAt": "2024-04-28 18:40:00",
-      "content": "El n\u00famero de muertes por dengue en Argentina ascendi\u00f3 a 280 tras confirmarse 42 nuevos decesos en la \u00faltima semana, seg\u00fan datos oficiales dados a conocer este domingo. De acuerdo con el \u00faltimo bo\u2026 [+1100 chars]",
-      "retrievedAt": "2024-04-29 19:05:20.435097",
-      "internal_id": "4cc058376d292865f5060189041015c7c0fb098553fcfaea87b069329af9bea2",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8695,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "\u092f\u094b\u0917\u0947\u0902\u0926\u094d\u0930 \u092e\u093f\u0936\u094d\u0930\u093e",
-      "title": "\u0924\u0940\u0928 \u0915\u0930\u094b\u0921\u093c \u0938\u093e\u0932 \u092a\u0941\u0930\u093e\u0928\u0940 \u092c\u0940\u092e\u093e\u0930\u0940 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u091c\u0921\u093c \u0938\u0947 \u0939\u094b\u0917\u0940 \u0916\u0924\u094d\u092e! \u0917\u0947\u092e \u091a\u0947\u0902\u091c\u0930 \u0939\u0948 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0906\u093021, \u0915\u094d\u092f\u093e \u0915\u0939\u0924\u0947 \u0939\u0948\u0902 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915",
-      "description": "Malaria Vaccine: \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0907\u0938 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0938\u092c\u0938\u0947 \u092a\u0941\u0930\u093e\u0928\u0940 \u092c\u0940\u092e\u093e\u0930\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u0938\u0947 \u090f\u0915 \u0939\u0948\u0902\u0964 \u092f\u0939 \u0924\u0940\u0928 \u0915\u0930\u094b\u0921\u093c \u0938\u093e\u0932 \u0938\u0947 \u0927\u0930\u0924\u0940 \u092a\u0930 \u0939\u0948\u0964 \u092a\u094d\u0930\u094b\u091f\u094b\u091c\u094b\u0906 \u0938\u0947 \u092f\u0939 \u0939\u094b\u0924\u093e \u0939\u0948\u0964 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0928 \u0924\u094b \u092f\u0939 \u0935\u093e\u092f\u0930\u0938 \u0939\u0948 \u0914\u0930 \u0928 \u0939\u0940 \u092c\u0948\u0915\u094d\u091f\u0940\u0930\u093f\u092f\u093e \u0907\u0938\u0932\u093f\u090f \u0907\u0938\u0915\u093e \u0915\u094b\u0908 \u091f\u0940\u0915\u093e \u092a\u093f\u091b\u0932\u0947 \u0924\u0940\u0928 \u0938\u093e\u0932 \u0924\u0915 \u0928\u0939\u0940\u0902 \u0925\u093e\u0964 \u0932\u0947\u0915\u093f\u0928 \u0905\u092c \u0907\u0938\u0915\u0940 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0939\u0948\u0964 \u0906\u0907\u090f \u091c\u093e\u0928\u0947\u0902 \u0915\u2026",
-      "url": "https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-29322,msid-109669088/navbharat-times.jpg",
-      "publishedAt": "2024-04-28 14:33:40",
-      "content": ": () , , 21 21 , ? , ( ) , -19 12 , 5,000 , - 100 30 21/- ? - - , ( ) , , 20 20 , , ( ) , , 10 ? 21 21 -19 2020 -19 , , ? 6,00,000 , 2,00,000 ( , ) , , ... - ? Adv: , 6\u2026 [+285 chars]",
-      "retrievedAt": "2024-04-29 19:05:21.342276",
-      "internal_id": "0765c99e2b0de668dc0db8f7542aff4402b0f421402da110b0456758d737fcb2",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8691,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Andrew Torgan, Daniel Wine",
-      "title": "Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN",
-      "description": "Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNNcnn.com",
-      "url": "https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-20240426-152353-resized.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-04-28 12:59:55",
-      "content": "An Austrian company plans to build a vessel worthy of a James Bond villain: a customized submersible superyacht thats more than 500 feet long and can remain below the oceans surface for up to four we\u2026 [+6530 chars]",
-      "retrievedAt": "2024-04-29 19:05:19.278374",
-      "internal_id": "3daaab959c33d19d73afb0f77378bbe74e883aed08f841c5e9686951cf3fd728",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8692,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WESH Orlando",
-      "author": "Katherine Dillinger",
-      "title": "Global measles cases nearly doubled in one year, researchers say",
-      "description": "Almost half of this year's cases have been in WHO's European Region, with the highest incidence in Azerbaijan, Kyrgyzstan and Yemen.",
-      "url": "https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1173338314-662e3359e5d54.jpg?crop=1.00xw:0.848xh;0,0.120xh&resize=1200:*",
-      "publishedAt": "2024-04-28 11:43:50",
-      "content": "The number of measles cases around the world nearly doubled from 2022 to 2023, researchers say, presenting a challenge to efforts to achieve and maintain elimination status in many countries. There \u2026 [+2983 chars]",
-      "retrievedAt": "2024-04-29 19:05:19.295123",
-      "internal_id": "78dbe4ac61e801d2eed603a4d8592ddcf8224f7a9cc321af7d40b775ead08ed4",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8694,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Nigeria is pioneering a new vaccine to fight meningitis - why this matters",
-      "description": "GOMBE: Nigeria recently became the first country to roll out a new vaccine (called Men5CV) recommended by the World Health Organisation (WHO), which p.",
-      "url": "https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-109666704,width-1070,height-580,imgsize-21590,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-04-28 11:38:37",
-      "content": "News Nigeria is pioneering a new vaccine to fight meningitis - why this matters FOLLOW US ON SOCIAL MEDIA",
-      "retrievedAt": "2024-04-29 19:05:20.788636",
-      "internal_id": "a79fa1cfe444d9f59fac7164036b4b0e2a95aefa5d459a7d21b756e32b344ac6",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8702,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Ilpost.it",
-      "author": null,
-      "title": "Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia",
-      "description": "Il fatto che ci siano non significa che contengano il parassita che causa la malattia, e non \u00e8 la prima volta che negli ultimi anni vengono rintracciate nel Sud Italia",
-      "url": "https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/",
-      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2024/04/28/1714298599-zanzara_Anopheles.jpg",
-      "publishedAt": "2024-04-28 10:20:57",
-      "content": "Lo scorso settembre in alcune aree rurali della provincia di Lecce \u00e8 stata fatta un\u2019indagine scientifica per verificare la presenza di zanzare appartenenti a specie capaci di trasmettere la malaria. \u2026 [+3753 chars]",
-      "retrievedAt": "2024-04-30 07:06:49.082613",
-      "internal_id": "0e36e9a924879ff17622698b40a89ff803bad823f0fcb3b953d9548aeb10b038",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8690,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Sky.com",
-      "author": "Josephine Franks",
-      "title": "Measles cases worldwide almost double in a year - as England faces measles 'emergency'",
-      "description": "Measles cases nearly doubled globally between 2022 and 2023, researchers say.",
-      "url": "https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811",
-      "urlToImage": "https://e3.365dm.com/24/04/1600x900/skynews-measles-child_6536139.jpg?20240428095436",
-      "publishedAt": "2024-04-28 08:00:00",
-      "content": "Measles cases nearly doubled globally between 2022 and 2023, researchers say. There were 321,582 cases worldwide in 2023 - an 88% increase from the previous year, when 171,153 cases were recorded. \u2026 [+2302 chars]",
-      "retrievedAt": "2024-04-29 19:05:19.261681",
-      "internal_id": "bd29469bd0c5429cd11a832e379b289ebc8f22c1e3864377f98d5ac8ed9bdaf4",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8706,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Thecooldown.com",
-      "author": "Doric Sam",
-      "title": "'Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'",
-      "description": "'Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'thecooldown.com",
-      "url": "https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/",
-      "urlToImage": "https://www.thecooldown.com/wp-content/uploads/2024/04/solar-powered-refrigeratorsimage.jpg",
-      "publishedAt": "2024-04-28 07:21:48",
-      "content": "Solar-powered refrigerators are the latest innovation that will play a key role in the ongoing fight against malaria. As explained in Reuters, a \"life-saving rollout\" of two approved malaria vaccine\u2026 [+2585 chars]",
-      "retrievedAt": "2024-04-30 07:06:49.105750",
-      "internal_id": "64344c7157e4bdf8bca9a56223390ef82b25328fd7d817bce003f3097b75a7ec",
       "publishedAtLabel": "Apr 28"
     }
   ]
