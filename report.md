@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 60
-- **Last harvest:** 2024-06-13 19:05
-- **Most recent article:** 2024-06-12 16:45:27
+- **New articles in last harvest:** 11
+- **Last harvest:** 2024-06-14 07:06
+- **Most recent article:** 2024-06-13 07:00:35
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 76 | 57 | 87 | 58 | 61 | 64 | 62 | 465 |
-| h5n1 | 0 | 57 | 63 | 95 | 65 | 78 | 33 | 391 |
-| malaria | 21 | 29 | 13 | 17 | 25 | 21 | 21 | 147 |
-| measles | 21 | 10 | 29 | 15 | 16 | 11 | 2 | 104 |
-| mpox | 36 | 3 | 10 | 9 | 16 | 8 | 11 | 93 |
+| dengue | 77 | 57 | 87 | 58 | 61 | 64 | 66 | 470 |
+| h5n1 | 0 | 57 | 63 | 95 | 65 | 78 | 35 | 393 |
+| malaria | 24 | 29 | 13 | 17 | 25 | 21 | 24 | 153 |
+| measles | 24 | 10 | 29 | 15 | 16 | 11 | 2 | 107 |
+| mpox | 36 | 3 | 10 | 9 | 16 | 8 | 13 | 95 |
 | rabies | 3 | 22 | 10 | 8 | 15 | 9 | 1 | 68 |
-| chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 7 | 57 |
+| chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 8 | 58 |
 | pertussis | 2 | 5 | 5 | 6 | 6 | 9 | 8 | 41 |
-| hpai | 0 | 4 | 3 | 7 | 12 | 2 | 3 | 31 |
-| meningitis | 2 | 5 | 9 | 4 | 1 | 6 | 3 | 30 |
+| hpai | 0 | 4 | 3 | 7 | 12 | 2 | 4 | 32 |
+| meningitis | 3 | 5 | 9 | 4 | 1 | 6 | 3 | 31 |
 | zika | 8 | 2 | 6 | 3 | 3 | 0 | 7 | 29 |
 | yersinia | 5 | 1 | 0 | 6 | 0 | 1 | 0 | 13 |
 | leptospirosis | 2 | 1 | 3 | 0 | 5 | 1 | 0 | 12 |
@@ -77,6 +77,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-24 (mpox)
 
+- [South Africa reports second mpox death - health ministry](https://www.marketscreener.com/quote/index/DOW-JONES-SOUTH-AFRICA-ZA-55518594/news/South-Africa-reports-second-mpox-death-this-week-46963933/) (Marketscreener.com)
+
+- [Mpox in South Africa: One pesin die for Gauteng, Health Minister Joe Pahaala tok - BBC News Pidgin](https://www.bbc.com/pidgin/articles/c0ww3yn14nzo) (BBC News)
+
 - [South Africa records first death from mpox](https://www.bbc.com/news/articles/clddgx7vg6qo) (BBC News)
 
 - [В ЮАР умер человек, заразившийся mpox](https://tass.ru/obschestvo/21079503) (Tass.ru)
@@ -114,6 +118,12 @@ Source: [News API](https://newsapi.org/)
 - [帝王切開で生まれた子どもは麻疹ワクチンが効きにくいという研究結果](https://news.livedoor.com/article/detail/26566455/) (Livedoor.com)
 
 ## 24-24 (malaria)
+
+- [Djibouti will mit gentechnisch veränderten Moskitos gegen Malaria vorgehen. Das Experiment ist umstritten](https://www.nzz.ch/international/malaria-bekaempfung-djibouti-setzt-auf-gentechnisch-veraenderte-muecken-ld.1834701) (Www.nzz.ch)
+
+- [Schoolkids create health awareness](https://timesofindia.indiatimes.com/city/bengaluru/schoolkids-create-health-awareness/articleshow/110951730.cms) (The Times of India)
+
+- [Scientists show the key role of spleen and extracellular vesicles in cryptic malaria infections](https://phys.org/news/2024-06-scientists-key-role-spleen-extracellular.html) (Phys.Org)
 
 - [Así es cómo colonialismo, guerra y comercio impulsaron propagación de la malaria](https://www.forbes.com.mx/asi-es-como-colonialismo-guerra-y-comercio-impulsaron-propagacion-de-la-malaria/) (Forbes.com.mx)
 
@@ -159,6 +169,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-24 (hpai)
 
+- [Mattilsynet åtvarar om smitteauke](https://www.nrk.no/nordland/mattilsynet-atvarar-om-smitteauke-1.16923298) (NRK)
+
 - [CSL : Seqirus, a Proud Champion of Pandemic Preparedness, Signs an Agreement with the European Commission to Provide Pre-Pandemic Vaccines to the EU](https://www.marketscreener.com/quote/stock/CSL-LIMITED-6492492/news/CSL-Seqirus-a-Proud-Champion-of-Pandemic-Preparedness-Signs-an-Agreement-with-the-European-Commi-46946684/) (Marketscreener.com)
 
 - [Sialic Acid Receptor Specificity in Mammary Gland of Dairy Cattle Infected with Highly Pathogenic Avian Influenza A(H5N1) Virus](https://wwwnc.cdc.gov/eid/article/30/7/24-0689_article) (Cdc.gov)
@@ -166,6 +178,10 @@ Source: [News API](https://newsapi.org/)
 - [「Gaudi 3はNVIDIA GPUを超えるAI性能」とインテル鈴木会長。インテルAI Summit Japanレポート](https://pc.watch.impress.co.jp/docs/news/1599041.html) (Impress.co.jp)
 
 ## 24-24 (h5n1)
+
+- [Why 4 new bird flu developments have experts worried about the virus](https://www.businessinsider.com/h5n1-bird-flu-virus-experts-concerned-human-outbreak-spread-possible-2024-6) (Business Insider)
+
+- [An ounce of prevention: Now is the time to take action on H5N1 avian flu, because the stakes are enormous](https://theconversation.com/an-ounce-of-prevention-now-is-the-time-to-take-action-on-h5n1-avian-flu-because-the-stakes-are-enormous-232130) (The Conversation Africa)
 
 - [EEUU prepara 5 millones de vacunas contra la gripe aviar ante una posible nueva pandemia](https://www.nuevatribuna.es/articulo/global/eeuu-prepara-5-millones-vacunas-gripe-aviar-posible-nueva-pandemia/20240612184527227891.html) (Nuevatribuna.es)
 
@@ -234,6 +250,14 @@ Source: [News API](https://newsapi.org/)
 - [【人類終了】女児が鳥インフルエンザに感染したと発表 ＼(^o^)／ｵﾜﾀ 豪](http://blog.livedoor.jp/rbkyn844/archives/10654686.html) (Livedoor.jp)
 
 ## 24-24 (dengue)
+
+- [Tigermücke verbreitet das Dengue-Fieber in Europa [premium]](https://www.diepresse.com/18561265/tigermuecke-verbreitet-das-dengue-fieber-in-europa) (Diepresse.com)
+
+- [Tiger mosquitoes blamed for spread of dengue fever: ‘Most invasive species’](https://www.foxnews.com/health/tiger-mosquitoes-blamed-spread-dengue-fever-invasive-species) (Fox News)
+
+- [Schoolkids create health awareness](https://timesofindia.indiatimes.com/city/bengaluru/schoolkids-create-health-awareness/articleshow/110951730.cms) (The Times of India)
+
+- [Rio de Janeiro decreta fim da epidemia de dengue](https://noticiabrasil.net.br/20240612/rio-de-janeiro-decreta-fim-da-epidemia-de-dengue-35085717.html) (Noticiabrasil.net.br)
 
 - [Forskare: Därför blir dengueviruset allt vanligare i Europa](https://svenska.yle.fi/a/7-10058799) (Svenska.yle.fi)
 
@@ -360,6 +384,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue kills](https://www.thestar.com.my/news/nation/2024/06/09/dengue-kills) (The Star Online)
 
 ## 24-24 (chikungunya)
+
+- [Schoolkids create health awareness](https://timesofindia.indiatimes.com/city/bengaluru/schoolkids-create-health-awareness/articleshow/110951730.cms) (The Times of India)
 
 - [El plan contras las olas de calor de Salut prevé reforzar la vigilancia del mosquito tigre](https://www.elperiodico.com/es/sanidad/20240612/plan-contras-olas-calor-cataluna-reforzara-vigilancia-mosquito-tigre-103694145) (Elperiodico.com)
 
@@ -2937,6 +2963,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html) (GlobeNewswire)
 
+- [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
+
 ## 24-18 (measles)
 
 - [Addressing Childhood Diseases](https://naturalnewsblogs.com/addressing-childhood-diseases/) (Naturalnewsblogs.com)
@@ -2981,6 +3009,12 @@ Source: [News API](https://newsapi.org/)
 
 - [‘Measles had serious impact on kids with cancer’](https://timesofindia.indiatimes.com/city/mumbai/measles-had-serious-impact-on-kids-with-cancer/articleshow/109673357.cms) (The Times of India)
 
+- [Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN](https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html) (CNN)
+
+- [Global measles cases nearly doubled in one year, researchers say](https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062) (WESH Orlando)
+
+- [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
+
 ## 24-18 (malaria)
 
 - [Yellow Dove shares mental health battle; I’d strip naked, attempt to jump off Findeco House](https://diggers.news/lifestyle/2024/05/04/stripping-naked-attempted-15th-floor-findeco-house-jump-yellow-dove-shares-mental-health-battle/) (Diggers.news)
@@ -3024,6 +3058,12 @@ Source: [News API](https://newsapi.org/)
 - [Need to consistently raise public awareness on malaria: MPR](https://en.antaranews.com/news/312102/need-to-consistently-raise-public-awareness-on-malaria-mpr) (Antaranews.com)
 
 - [„Malariamücke“ nach 50 Jahren wieder in Italien aufgetaucht](https://www.diepresse.com/18416480/malariamuecke-nach-50-jahren-wieder-in-italien-aufgetaucht) (Diepresse.com)
+
+- [तीन करोड़ साल पुरानी बीमारी मलेरिया जड़ से होगी खत्म! गेम चेंजर है वैक्सीन आर21, क्या कहते हैं वैज्ञानिक](https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms) (The Times of India)
+
+- [Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia](https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/) (Ilpost.it)
+
+- ['Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'](https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/) (Thecooldown.com)
 
 ## 24-18 (leptospirosis)
 
@@ -3184,6 +3224,8 @@ Source: [News API](https://newsapi.org/)
 - [El mapa del dengue: con oscilaciones en las provincias, la epidemia ya acumula casi 380.000 casos desde enero](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-oscilaciones-en-las-provincias-la-epidemia-ya-acumula-casi-380000-casos-desde-nid28042024/) (La Nacion)
 
 - [Rising dengue cases in Kedah raising alarm](https://www.thestar.com.my/news/nation/2024/04/29/rising-dengue-cases-in-kedah-raising-alarm) (The Star Online)
+
+- [Argentina llegó a 280 fallecimientos de pacientes con dengue; 42 en la última semana](https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762) (Montevideo.com.uy)
 
 ## 24-18 (chikungunya)
 

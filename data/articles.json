@@ -1,8 +1,208 @@
 {
-  "last_updated": "2024-06-13 19:05",
-  "count_articles_total": 1426,
-  "count_articles_new": 60,
+  "last_updated": "2024-06-14 07:06",
+  "count_articles_total": 1445,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 10127,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Mattilsynet \u00e5tvarar om smitteauke",
+      "description": "I fjor sommar var det stort utbrot av h\u00f8gpatogen fugleinfluensa (HPAI) i Nord-Noreg. Ogs\u00e5 Veste\u00e5rlen var ramma. No \u00e5tvarar Mattilsynet om at det kan kome nye utbrot i \u00e5r, skriv Bladet Vester\u00e5len. S\u00e5 langt i \u00e5r har det vore f\u00e6rre p\u00e5visningar enn i fjor if\u00f8lge \u2026",
+      "url": "https://www.nrk.no/nordland/mattilsynet-atvarar-om-smitteauke-1.16923298",
+      "urlToImage": "https://gfx.nrk.no/zROGVQtNo0KDrrHE5GxUjgPHHVPVhAwqglvJzFDkJwwQ.jpg",
+      "publishedAt": "2024-06-13 07:00:35",
+      "content": "13. juni2024kl.09:00I fjor sommar var det stort utbrot av h\u00f8gpatogen fugleinfluensa (HPAI) i Nord-Noreg. Ogs\u00e5 Veste\u00e5rlen var ramma. No \u00e5tvarar Mattilsynet om at det kan kome nye utbrot i \u00e5r, skriv B\u2026 [+674 chars]",
+      "retrievedAt": "2024-06-14 07:06:39.261313",
+      "internal_id": "b3421c5a45ecb4e7fd29a7049f1f8d20860d573b14148b74fadad1b5982a65e8",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10136,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "South Africa reports second mpox death - health ministry",
+      "description": "(marketscreener.com) A second person has died in South Africa from the viral infection mpox, the health ministry said on Thursday, less than 24 hours after the country's first mpox death was announced. https://www.marketscreener.com/quote/index/DOW-JONES\u2026",
+      "url": "https://www.marketscreener.com/quote/index/DOW-JONES-SOUTH-AFRICA-ZA-55518594/news/South-Africa-reports-second-mpox-death-this-week-46963933/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2022-04/2022-04-29T084216Z_1_LYNXNPEI3S0AR_RTROPTP_3_HEALTH-CORONAVIRUS-SAFRICA-VACCINE.JPG",
+      "publishedAt": "2024-06-13 06:19:59",
+      "content": "JOHANNESBURG (Reuters) -A second person has died in South Africa this week from the viral infection mpox, the health ministry said on Thursday, less than 24 hours after it announced the first death. \u2026 [+685 chars]",
+      "retrievedAt": "2024-06-14 07:06:41.975448",
+      "internal_id": "95729e0981c3f265ed8eda6ba7e438a49c2fa3be6f53915c1d4a5d0ea8cbbfef",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10134,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Stephanie Lahrtz (slz), Samuel Misteli (smi)",
+      "title": "Djibouti will mit gentechnisch ver\u00e4nderten Moskitos gegen Malaria vorgehen. Das Experiment ist umstritten",
+      "description": "Djibouti hatte Malaria fast ausgerottet. Eine neue, schwer kontrollierbare M\u00fcckenart droht nun die Krankheit noch gef\u00e4hrlicher zu machen.",
+      "url": "https://www.nzz.ch/international/malaria-bekaempfung-djibouti-setzt-auf-gentechnisch-veraenderte-muecken-ld.1834701",
+      "urlToImage": "https://img.nzz.ch/2024/06/12/4416ff88-01df-4832-b7d8-4c042ec4522c.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1500,844,x0,y74&wmark=nzz",
+      "publishedAt": "2024-06-13 03:30:00",
+      "content": "Neue Gefahr: Die Spezies Anopheles stephensi tauchte vor einem Jahrzehnt erstmals in Afrika auf. Der ostafrikanische Kleinstaat Djibouti hat im Rahmen eines Pilotversuchs Zehntausende von gentechnis\u2026 [+5752 chars]",
+      "retrievedAt": "2024-06-14 07:06:40.867707",
+      "internal_id": "b1c28d694417fe23e6e0f2409c682e0b7e1122c8d4576de36189d3f3a95e5cfd",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10130,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Irene Z\u00f6ch",
+      "title": "Tigerm\u00fccke verbreitet das Dengue-Fieber in Europa [premium]",
+      "description": "In Europa nehmen die Dengue-F\u00e4lle zu. Die \u00dcbertr\u00e4germ\u00fccke ist aufgrund des Klimawandels in 13 L\u00e4ndern heimisch geworden, auch in \u00d6sterreich.",
+      "url": "https://www.diepresse.com/18561265/tigermuecke-verbreitet-das-dengue-fieber-in-europa",
+      "urlToImage": "https://img.diepresse.com/public/incoming/z6cv65-FILES-FRANCE-HEALTH-ENVIRONMENT-INSECTS/alternates/DPR_SOCIAL_NACHRICHTEN_PAID/FILES-FRANCE-HEALTH-ENVIRONMENT-INSECTS",
+      "publishedAt": "2024-06-13 03:16:05",
+      "content": "In Europa nehmen die Dengue-F\u00e4lle zu. Die \u00dcbertr\u00e4germ\u00fccke ist aufgrund des Klimawandels in 13 L\u00e4ndern heimisch geworden, auch in \u00d6sterreich. Die Stadtverwaltung von Paris hat Tigerm\u00fccken-Detektive \u2026 [+372 chars]",
+      "retrievedAt": "2024-06-14 07:06:40.040853",
+      "internal_id": "0cb9aa0acaf06edb63a6e943c7cf565ae1dedf1099e7c730aacb7f1f5cadd205",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10133,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "Tiger mosquitoes blamed for spread of dengue fever: \u2018Most invasive species\u2019",
+      "description": "As dengue fever continues to spread throughout Europe, experts are blaming an invasive mosquito species as the culprit. Infectious disease experts share words of caution.",
+      "url": "https://www.foxnews.com/health/tiger-mosquitoes-blamed-spread-dengue-fever-invasive-species",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/tiger-mosquito.jpg",
+      "publishedAt": "2024-06-13 00:59:21",
+      "content": "As dengue fever continues to spread throughout Europe, experts are blaming an invasive mosquito species as the culprit. Known as \"tiger mosquitoes ,\" the insects of the species name Aedes albopictu\u2026 [+7984 chars]",
+      "retrievedAt": "2024-06-14 07:06:40.223839",
+      "internal_id": "220c64e7ab7270219e1af413f084b55da17ceb640936bb9dc0ea96de34a3b4c3",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10132,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Schoolkids create health awareness",
+      "description": "B Narayanpur Govt High School and BBMP Mahadevpura zone\u2019s Krishnarajpur Nagar Primary Health Center collaborated to raise awareness on infectious diseases like dengue, chikungunya, and malaria. 60 high school students distributed pamphlets and health material\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/schoolkids-create-health-awareness/articleshow/110951730.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-12 23:18:21",
+      "content": "Habits of women who are mentally strong, as per psychology",
+      "retrievedAt": "2024-06-14 07:06:40.189480",
+      "internal_id": "69d4c0a1e4e294d063bd5561469427c05d4bc309daf9b82878b1281bd20bf99e",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 10131,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Noticiabrasil.net.br",
+      "author": "Sputnik Brasil",
+      "title": "Rio de Janeiro decreta fim da epidemia de dengue",
+      "description": "Decis\u00e3o foi tomada pelo governo do Rio de Janeiro ap\u00f3s monitoramento apontar queda do n\u00famero de casos em todas as regi\u00f5es do estado por quatro semanas seguidas.",
+      "url": "https://noticiabrasil.net.br/20240612/rio-de-janeiro-decreta-fim-da-epidemia-de-dengue-35085717.html",
+      "urlToImage": "https://cdn.noticiabrasil.net.br/images/sharing/article/por/35085717.jpg?34212251718233201",
+      "publishedAt": "2024-06-12 23:00:00",
+      "content": "Siga a Sputnik Brasil e tenha acesso a conte\u00fados exclusivos no nosso canal no Telegram. J\u00e1 que a Sputnik est\u00e1 bloqueada em alguns pa\u00edses, por aqui voc\u00ea consegue baixar o nosso aplicativo para celula\u2026 [+80 chars]",
+      "retrievedAt": "2024-06-14 07:06:40.153298",
+      "internal_id": "b8bb9899764180cf0887a82b5cde095e31873ea4adb0ffa31533916051d06c4a",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 10137,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Bbc News Pidgin",
+      "title": "Mpox in South Africa: One pesin die for Gauteng, Health Minister Joe Pahaala tok - BBC News Pidgin",
+      "description": "Mpox in South Africa: One pesin die for Gauteng, Health Minister Joe Pahaala tok - BBC News Pidginbbc.com",
+      "url": "https://www.bbc.com/pidgin/articles/c0ww3yn14nzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_pidgin/d552/live/229194d0-28e6-11ef-a13a-0b8c563da930.jpg",
+      "publishedAt": "2024-06-12 22:28:55",
+      "content": "Wia dis foto come from, Reuters 12 June 2024, 19:37 WATNew Informate 3 hours wey don pass South Africa don confam dia first death from Mpox, di kontri health minister announce. One 37-year-old man\u2026 [+4497 chars]",
+      "retrievedAt": "2024-06-14 07:06:42.005918",
+      "internal_id": "f5ac90fa3624d0a47ade8e780f91e5a9fd8f90989f82294c58699a9449bb47f3",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 10128,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "business-insider",
+      "source_name": "Business Insider",
+      "author": "Morgan McFall-Johnsen",
+      "title": "Why 4 new bird flu developments have experts worried about the virus",
+      "description": "The H5N1 bird flu virus is changing and getting more opportunities to adapt to humans. Experts are worried that it could soon become transmissible.",
+      "url": "https://www.businessinsider.com/h5n1-bird-flu-virus-experts-concerned-human-outbreak-spread-possible-2024-6",
+      "urlToImage": "https://i.insider.com/6669d3a7764df161125911f7?width=1200&format=jpeg",
+      "publishedAt": "2024-06-12 20:59:16",
+      "content": "Since H5N1 made the unexpected jump from birds to cattle, experts are increasingly worried about human spread.Rodrigo Abd/AP Photo The bird flu, or avian influenza, is increasingly worrying \u2026 [+8477 chars]",
+      "retrievedAt": "2024-06-14 07:06:39.573941",
+      "internal_id": "a2e39909e938fa4a08ad8c6ae956eb9bae41e83f47fc027eb81f2ae09d2cbcd3",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 10135,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Scientists show the key role of spleen and extracellular vesicles in cryptic malaria infections",
+      "description": "Recent research led by Carmen Fern\u00e1ndez-Becerra and Hernando A del Portillo from ISGlobal and Germans Trias i Pujol Research Institute (IGTP) has provided new insights into the role of the spleen in malaria, specifically in infections caused by Plasmodium viv\u2026",
+      "url": "https://phys.org/news/2024-06-scientists-key-role-spleen-extracellular.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-show-the-ke.jpg",
+      "publishedAt": "2024-06-12 20:55:04",
+      "content": "by Germans Trias i Pujol Research Institute Recent research led by Carmen Fern\u00e1ndez-Becerra and Hernando A del Portillo from ISGlobal and Germans Trias i Pujol Research Institute (IGTP) has provided\u2026 [+3113 chars]",
+      "retrievedAt": "2024-06-14 07:06:40.907273",
+      "internal_id": "9e306490a3e19b2ae36f75406274800ae56c5d31cbc9db5d5fcbdff460625a32",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 10129,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Matthew S Miller, Executive Director, Global Nexus and M.G. DeGroote Institute for Infectious Disease Research, McMaster University, McMaster University",
+      "title": "An ounce of prevention: Now is the time to take action on H5N1 avian flu, because the stakes are enormous",
+      "description": "Our approach to combating pandemics must shift to one that prioritizes prevention of human infections with zoonotic viruses, rather than focusing on rapid response once human infection is widespread.",
+      "url": "https://theconversation.com/an-ounce-of-prevention-now-is-the-time-to-take-action-on-h5n1-avian-flu-because-the-stakes-are-enormous-232130",
+      "urlToImage": "https://images.theconversation.com/files/600002/original/file-20240611-17-cyq8oo.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C4377%2C2188&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-06-12 19:34:53",
+      "content": "Bird flu poses a massive threat, and the potential for a catastrophic new pandemic is imminent. We still have a chance to stop a possible humanitarian disaster, but only if we get to work urgently, c\u2026 [+8446 chars]",
+      "retrievedAt": "2024-06-14 07:06:39.603293",
+      "internal_id": "fead520949b852a42b752f02f5dd726259d84d2bd1c5c72416fa66ad6fce655a",
+      "publishedAtLabel": "Jun 12"
+    },
     {
       "id": 10079,
       "query": [
@@ -25738,6 +25938,150 @@
       "content": "A virtual tour of 'ShivShakti', Ajay Devgn and Kajol's beautiful home",
       "retrievedAt": "2024-04-30 07:06:47.233821",
       "internal_id": "efc447cf35bbe9445e13740afbe9a7503e18672965df9b3005ce0aa286a68278",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8693,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Argentina lleg\u00f3 a 280 fallecimientos de pacientes con dengue; 42 en la \u00faltima semana",
+      "description": "Solo en lo que va de este a\u00f1o, los casos de la enfermedad suman 379.341, de los cuales 871 fueron clasificados como graves. Solo en lo que va de este a\u00f1o, los casos de la enfermedad suman 379.341, de los cuales 871 fueron clasificados como graves.",
+      "url": "https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
+      "publishedAt": "2024-04-28 18:40:00",
+      "content": "El n\u00famero de muertes por dengue en Argentina ascendi\u00f3 a 280 tras confirmarse 42 nuevos decesos en la \u00faltima semana, seg\u00fan datos oficiales dados a conocer este domingo. De acuerdo con el \u00faltimo bo\u2026 [+1100 chars]",
+      "retrievedAt": "2024-04-29 19:05:20.435097",
+      "internal_id": "4cc058376d292865f5060189041015c7c0fb098553fcfaea87b069329af9bea2",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8695,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u092f\u094b\u0917\u0947\u0902\u0926\u094d\u0930 \u092e\u093f\u0936\u094d\u0930\u093e",
+      "title": "\u0924\u0940\u0928 \u0915\u0930\u094b\u0921\u093c \u0938\u093e\u0932 \u092a\u0941\u0930\u093e\u0928\u0940 \u092c\u0940\u092e\u093e\u0930\u0940 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u091c\u0921\u093c \u0938\u0947 \u0939\u094b\u0917\u0940 \u0916\u0924\u094d\u092e! \u0917\u0947\u092e \u091a\u0947\u0902\u091c\u0930 \u0939\u0948 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0906\u093021, \u0915\u094d\u092f\u093e \u0915\u0939\u0924\u0947 \u0939\u0948\u0902 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915",
+      "description": "Malaria Vaccine: \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0907\u0938 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0938\u092c\u0938\u0947 \u092a\u0941\u0930\u093e\u0928\u0940 \u092c\u0940\u092e\u093e\u0930\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u0938\u0947 \u090f\u0915 \u0939\u0948\u0902\u0964 \u092f\u0939 \u0924\u0940\u0928 \u0915\u0930\u094b\u0921\u093c \u0938\u093e\u0932 \u0938\u0947 \u0927\u0930\u0924\u0940 \u092a\u0930 \u0939\u0948\u0964 \u092a\u094d\u0930\u094b\u091f\u094b\u091c\u094b\u0906 \u0938\u0947 \u092f\u0939 \u0939\u094b\u0924\u093e \u0939\u0948\u0964 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0928 \u0924\u094b \u092f\u0939 \u0935\u093e\u092f\u0930\u0938 \u0939\u0948 \u0914\u0930 \u0928 \u0939\u0940 \u092c\u0948\u0915\u094d\u091f\u0940\u0930\u093f\u092f\u093e \u0907\u0938\u0932\u093f\u090f \u0907\u0938\u0915\u093e \u0915\u094b\u0908 \u091f\u0940\u0915\u093e \u092a\u093f\u091b\u0932\u0947 \u0924\u0940\u0928 \u0938\u093e\u0932 \u0924\u0915 \u0928\u0939\u0940\u0902 \u0925\u093e\u0964 \u0932\u0947\u0915\u093f\u0928 \u0905\u092c \u0907\u0938\u0915\u0940 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0939\u0948\u0964 \u0906\u0907\u090f \u091c\u093e\u0928\u0947\u0902 \u0915\u2026",
+      "url": "https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-29322,msid-109669088/navbharat-times.jpg",
+      "publishedAt": "2024-04-28 14:33:40",
+      "content": ": () , , 21 21 , ? , ( ) , -19 12 , 5,000 , - 100 30 21/- ? - - , ( ) , , 20 20 , , ( ) , , 10 ? 21 21 -19 2020 -19 , , ? 6,00,000 , 2,00,000 ( , ) , , ... - ? Adv: , 6\u2026 [+285 chars]",
+      "retrievedAt": "2024-04-29 19:05:21.342276",
+      "internal_id": "0765c99e2b0de668dc0db8f7542aff4402b0f421402da110b0456758d737fcb2",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8691,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Andrew Torgan, Daniel Wine",
+      "title": "Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN",
+      "description": "Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNNcnn.com",
+      "url": "https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-20240426-152353-resized.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-28 12:59:55",
+      "content": "An Austrian company plans to build a vessel worthy of a James Bond villain: a customized submersible superyacht thats more than 500 feet long and can remain below the oceans surface for up to four we\u2026 [+6530 chars]",
+      "retrievedAt": "2024-04-29 19:05:19.278374",
+      "internal_id": "3daaab959c33d19d73afb0f77378bbe74e883aed08f841c5e9686951cf3fd728",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8692,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WESH Orlando",
+      "author": "Katherine Dillinger",
+      "title": "Global measles cases nearly doubled in one year, researchers say",
+      "description": "Almost half of this year's cases have been in WHO's European Region, with the highest incidence in Azerbaijan, Kyrgyzstan and Yemen.",
+      "url": "https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1173338314-662e3359e5d54.jpg?crop=1.00xw:0.848xh;0,0.120xh&resize=1200:*",
+      "publishedAt": "2024-04-28 11:43:50",
+      "content": "The number of measles cases around the world nearly doubled from 2022 to 2023, researchers say, presenting a challenge to efforts to achieve and maintain elimination status in many countries. There \u2026 [+2983 chars]",
+      "retrievedAt": "2024-04-29 19:05:19.295123",
+      "internal_id": "78dbe4ac61e801d2eed603a4d8592ddcf8224f7a9cc321af7d40b775ead08ed4",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8694,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Nigeria is pioneering a new vaccine to fight meningitis - why this matters",
+      "description": "GOMBE: Nigeria recently became the first country to roll out a new vaccine (called Men5CV) recommended by the World Health Organisation (WHO), which p.",
+      "url": "https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109666704,width-1070,height-580,imgsize-21590,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-04-28 11:38:37",
+      "content": "News Nigeria is pioneering a new vaccine to fight meningitis - why this matters FOLLOW US ON SOCIAL MEDIA",
+      "retrievedAt": "2024-04-29 19:05:20.788636",
+      "internal_id": "a79fa1cfe444d9f59fac7164036b4b0e2a95aefa5d459a7d21b756e32b344ac6",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8702,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia",
+      "description": "Il fatto che ci siano non significa che contengano il parassita che causa la malattia, e non \u00e8 la prima volta che negli ultimi anni vengono rintracciate nel Sud Italia",
+      "url": "https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/",
+      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2024/04/28/1714298599-zanzara_Anopheles.jpg",
+      "publishedAt": "2024-04-28 10:20:57",
+      "content": "Lo scorso settembre in alcune aree rurali della provincia di Lecce \u00e8 stata fatta un\u2019indagine scientifica per verificare la presenza di zanzare appartenenti a specie capaci di trasmettere la malaria. \u2026 [+3753 chars]",
+      "retrievedAt": "2024-04-30 07:06:49.082613",
+      "internal_id": "0e36e9a924879ff17622698b40a89ff803bad823f0fcb3b953d9548aeb10b038",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8690,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Josephine Franks",
+      "title": "Measles cases worldwide almost double in a year - as England faces measles 'emergency'",
+      "description": "Measles cases nearly doubled globally between 2022 and 2023, researchers say.",
+      "url": "https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811",
+      "urlToImage": "https://e3.365dm.com/24/04/1600x900/skynews-measles-child_6536139.jpg?20240428095436",
+      "publishedAt": "2024-04-28 08:00:00",
+      "content": "Measles cases nearly doubled globally between 2022 and 2023, researchers say. There were 321,582 cases worldwide in 2023 - an 88% increase from the previous year, when 171,153 cases were recorded. \u2026 [+2302 chars]",
+      "retrievedAt": "2024-04-29 19:05:19.261681",
+      "internal_id": "bd29469bd0c5429cd11a832e379b289ebc8f22c1e3864377f98d5ac8ed9bdaf4",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 8706,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thecooldown.com",
+      "author": "Doric Sam",
+      "title": "'Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'",
+      "description": "'Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'thecooldown.com",
+      "url": "https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/",
+      "urlToImage": "https://www.thecooldown.com/wp-content/uploads/2024/04/solar-powered-refrigeratorsimage.jpg",
+      "publishedAt": "2024-04-28 07:21:48",
+      "content": "Solar-powered refrigerators are the latest innovation that will play a key role in the ongoing fight against malaria. As explained in Reuters, a \"life-saving rollout\" of two approved malaria vaccine\u2026 [+2585 chars]",
+      "retrievedAt": "2024-04-30 07:06:49.105750",
+      "internal_id": "64344c7157e4bdf8bca9a56223390ef82b25328fd7d817bce003f3097b75a7ec",
       "publishedAtLabel": "Apr 28"
     }
   ]
