@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-06-15 07:05
-- **Most recent article:** 2024-06-14 06:51:23
+- **New articles in last harvest:** 24
+- **Last harvest:** 2024-06-15 19:05
+- **Most recent article:** 2024-06-14 18:33:32
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-18 | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 77 | 57 | 87 | 58 | 61 | 64 | 84 | 488 |
-| h5n1 | 0 | 57 | 63 | 95 | 65 | 78 | 44 | 402 |
-| malaria | 24 | 29 | 13 | 17 | 25 | 21 | 32 | 161 |
-| measles | 24 | 10 | 29 | 15 | 16 | 11 | 2 | 107 |
-| mpox | 36 | 3 | 10 | 9 | 16 | 8 | 24 | 106 |
+| dengue | 76 | 57 | 87 | 58 | 61 | 64 | 92 | 495 |
+| h5n1 | 0 | 57 | 63 | 95 | 65 | 78 | 52 | 410 |
+| malaria | 21 | 29 | 13 | 17 | 25 | 21 | 35 | 161 |
+| measles | 21 | 10 | 29 | 15 | 16 | 11 | 6 | 108 |
+| mpox | 36 | 3 | 10 | 9 | 16 | 8 | 25 | 107 |
 | rabies | 3 | 22 | 10 | 8 | 15 | 9 | 1 | 68 |
-| chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 10 | 60 |
+| chikungunya | 7 | 5 | 12 | 3 | 18 | 5 | 14 | 64 |
 | pertussis | 2 | 5 | 5 | 6 | 6 | 9 | 11 | 44 |
+| zika | 8 | 2 | 6 | 3 | 3 | 0 | 11 | 33 |
 | hpai | 0 | 4 | 3 | 7 | 12 | 2 | 4 | 32 |
-| meningitis | 3 | 5 | 9 | 4 | 1 | 6 | 3 | 31 |
-| zika | 8 | 2 | 6 | 3 | 3 | 0 | 7 | 29 |
+| meningitis | 2 | 5 | 9 | 4 | 1 | 6 | 3 | 30 |
 | leptospirosis | 2 | 1 | 3 | 0 | 5 | 1 | 1 | 13 |
 | yersinia | 5 | 1 | 0 | 6 | 0 | 1 | 0 | 13 |
 | typhoid | 0 | 3 | 2 | 0 | 0 | 1 | 1 | 7 |
@@ -34,6 +34,14 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-24 (zika)
+
+- [Primul caz din Europa de febră Oropouche, diagnosticat în Italia](https://www.mediafax.ro/sanatate/primul-caz-din-europa-de-febra-oropouche-diagnosticat-in-italia-22407260) (Mediafax.ro)
+
+- [Il Negrar isola in Veneto primo caso europeo di febbre Oropouche](https://www.ansa.it/sito/notizie/cronaca/2024/06/14/il-negrar-isola-in-veneto-primo-caso-europeo-di-febbre-oropouche_29773567-f486-4146-8be1-7f28429c5db0.html) (ANSA.it)
+
+- [Il Negrar isola in Veneto primo caso europeo di febbre Oropouche](https://www.ansa.it/veneto/notizie/2024/06/14/il-negrar-isola-in-veneto-primo-caso-europeo-di-febbre-oropouche_7210eb9b-97e5-4834-a833-4fd914ac0e64.html) (ANSA.it)
+
+- [Il Negrar isola in Veneto primo caso europeo di febbre Oropouche](https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/06/14/il-negrar-isola-in-veneto-primo-caso-europeo-di-febbre-oropouche_bd868cfb-6f43-47d5-8729-255f99c72be7.html) (ANSA.it)
 
 - [El plan contras las olas de calor de Salut prevé reforzar la vigilancia del mosquito tigre](https://www.elperiodico.com/es/sanidad/20240612/plan-contras-olas-calor-cataluna-reforzara-vigilancia-mosquito-tigre-103694145) (Elperiodico.com)
 
@@ -82,6 +90,8 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough: Doctors urge Chinese authorities to review vaccine strategy as cases surge](https://www.bmj.com/content/385/bmj.q1274) (The BMJ)
 
 ## 24-24 (mpox)
+
+- [WHO publishes new mpox prevention and management framework](https://www.clinicaltrialsarena.com/analyst-comment/who-mpox-prevention-management-framework/) (Clinical Trials Arena)
 
 - [Variole du singe : Le nombre de cas a baissé en France… mais le virus circule toujours](https://www.20minutes.fr/sante/4096195-20240614-variole-singe-nombre-cas-baisse-france-virus-circule-toujours) (20 Minutes)
 
@@ -141,11 +151,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-24 (measles)
 
+- [Global surge in infectious diseases as over 40 countries report outbreaks 10-fold over pre-pandemic levels](https://www.globenewswire.com/news-release/2024/06/14/2899158/0/en/Global-surge-in-infectious-diseases-as-over-40-countries-report-outbreaks-10-fold-over-pre-pandemic-levels.html) (GlobeNewswire)
+
+- [GPs urge parents to vaccinate babies against measles if going abroad on holidays](https://www.independent.ie/irish-news/gps-urge-parents-to-vaccinate-babies-against-measles-if-going-abroad-on-holidays/a1702954303.html) (Independent.ie)
+
+- [GPs advise parents that infants 6-11 months should receive extra MMR vaccine if travelling abroad](https://www.thejournal.ie/infants-6-11-months-should-receive-extra-mmr-vaccine-if-travelling-abroad-6409235-Jun2024/) (TheJournal.ie)
+
+- [Parents urged to vaccinate infants before holidays as measles cases climb across Europe](https://www.irishtimes.com/health/2024/06/14/parents-urged-to-vaccinate-infants-before-holidays-as-measles-cases-climb-across-europe/) (The Irish Times)
+
 - [10 things we loved at the Royal Academy’s Summer Exhibition 2024](https://www.timeout.com/london/news/10-things-we-loved-at-the-royal-academys-summer-exhibition-2024-061224) (Time Out)
 
 - [帝王切開で生まれた子どもは麻疹ワクチンが効きにくいという研究結果](https://news.livedoor.com/article/detail/26566455/) (Livedoor.com)
 
 ## 24-24 (malaria)
+
+- [Tässä on maailman vaarallisin eläin](https://www.iltalehti.fi/terveysuutiset/a/6324c3a0-c540-4c01-968d-65e88d0fa83e) (Iltalehti.fi)
+
+- [Africa Malaria Diagnostics Market Size, Share & Trends Analysis Report 2024-2030: Adaptation of the "Zero Malaria" Agenda to Bolster Growth with Increased Initiatives by Market Players and Private Investors](https://www.globenewswire.com/news-release/2024/06/14/2898863/28124/en/Africa-Malaria-Diagnostics-Market-Size-Share-Trends-Analysis-Report-2024-2030-Adaptation-of-the-Zero-Malaria-Agenda-to-Bolster-Growth-with-Increased-Initiatives-by-Market-Players-a.html) (GlobeNewswire)
+
+- [Jak rozprzestrzeniała się malaria? Zrekonstruowano 5500 lat historii choroby](https://kopalniawiedzy.pl/Jak-rozprzestrzeniala-sie-malaria-Zrekonstruowano-5500-lat-historii-choroby,37198) (Kopalniawiedzy.pl)
 
 - [Polycystic ovary syndrome could be treated with a malaria drug](https://www.newscientist.com/article/2435532-polycystic-ovary-syndrome-could-be-treated-with-a-malaria-drug/) (New Scientist)
 
@@ -226,6 +250,22 @@ Source: [News API](https://newsapi.org/)
 - [「Gaudi 3はNVIDIA GPUを超えるAI性能」とインテル鈴木会長。インテルAI Summit Japanレポート](https://pc.watch.impress.co.jp/docs/news/1599041.html) (Impress.co.jp)
 
 ## 24-24 (h5n1)
+
+- [Infectious H5N1 influenza virus in raw milk rapidly declines with heat treatment](https://www.sciencedaily.com/releases/2024/06/240614141822.htm) (Science Daily)
+
+- [Raw Milk Becomes Republicans' Newest Battle](https://www.newsweek.com/raw-milk-becomes-republicans-newest-battle-1913089) (Newsweek)
+
+- [Large, plausible and imminent - time to take H5N1 seriously](https://thebmjpodcast.podbean.com/e/large-plausible-and-imminent-time-to-take-h5n1-seriously/) (Podbean.com)
+
+- [Infectious bird flu survived milk pasteurization in lab test. Here's what to know.](https://www.cbsnews.com/news/bird-flu-milk-pasteurization-nih-study/) (CBS News)
+
+- [Bringing your cow to the county fair? Beware new bird flu protocols.](https://www.startribune.com/bird-flu-h5n1-minnesota-dairy-cows-4h-exhibition-testing-rules-county-fairs/600373581/) (Minneapolis Star Tribune)
+
+- [What to know about the H5N1 virus and its impact on humans](https://www.cbsnews.com/video/what-to-know-about-the-h5n1-virus-and-its-impact-on-humans/) (CBS News)
+
+- [Neue Gefahr durch H5N1 bei Kühen?](https://www.spektrum.de/podcast/wie-gefaehrlich-ist-der-h5n1-ausbruch-bei-kuehen-fuer-menschen/2219651) (Spektrum.de)
+
+- [Gripe aviária pode se tornar a próxima pandemia? Entenda o alerta](https://olhardigital.com.br/2024/06/14/medicina-e-saude/gripe-aviaria-pode-se-tornar-a-proxima-pandemia-entenda-o-alerta/) (Olhardigital.com.br)
 
 - [USDA reports suggest containing bird flu outbreak in dairy cows will be challenging](https://www.statnews.com/2024/06/13/h5n1-bird-flu-usda-reports/) (STAT)
 
@@ -316,6 +356,22 @@ Source: [News API](https://newsapi.org/)
 - [【人類終了】女児が鳥インフルエンザに感染したと発表 ＼(^o^)／ｵﾜﾀ 豪](http://blog.livedoor.jp/rbkyn844/archives/10654686.html) (Livedoor.jp)
 
 ## 24-24 (dengue)
+
+- [Primul caz din Europa de febră Oropouche, diagnosticat în Italia](https://www.mediafax.ro/sanatate/primul-caz-din-europa-de-febra-oropouche-diagnosticat-in-italia-22407260) (Mediafax.ro)
+
+- [Global surge in infectious diseases as over 40 countries report outbreaks 10-fold over pre-pandemic levels](https://www.globenewswire.com/news-release/2024/06/14/2899158/0/en/Global-surge-in-infectious-diseases-as-over-40-countries-report-outbreaks-10-fold-over-pre-pandemic-levels.html) (GlobeNewswire)
+
+- [Figyelmeztetnek: új járvány robbanhat be](https://www.portfolio.hu/global/20240614/figyelmeztetnek-uj-jarvany-robbanhat-be-692491) (Portfolio.hu)
+
+- [Halálos kór támadta meg a világ legdögösebb tudósát](https://www.origo.hu/tudomany/2024/06/halalos-kor-tamadta-meg-a-vilag-legdogosebb-tudosat) (Origo.hu)
+
+- [Dengue Surge Grips Latin America](https://foreignpolicy.com/2024/06/14/latin-america-dengue-outbreak-covid-pandemic-brazil/) (Foreign Policy)
+
+- [Il Negrar isola in Veneto primo caso europeo di febbre Oropouche](https://www.ansa.it/sito/notizie/cronaca/2024/06/14/il-negrar-isola-in-veneto-primo-caso-europeo-di-febbre-oropouche_29773567-f486-4146-8be1-7f28429c5db0.html) (ANSA.it)
+
+- [Il Negrar isola in Veneto primo caso europeo di febbre Oropouche](https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/06/14/il-negrar-isola-in-veneto-primo-caso-europeo-di-febbre-oropouche_bd868cfb-6f43-47d5-8729-255f99c72be7.html) (ANSA.it)
+
+- [Ssa: en un año, contagios de dengue aumentaron 4.8 veces; van 26 muertes](https://www.jornada.com.mx/2024/06/14/sociedad/033n3soc) (Jornada.com.mx)
 
 - [Santé. Hausse des cas de dengue en France et dans l’UE : faut-il craindre l'épidémie ?](https://www.ledauphine.com/magazine-sante/2024/06/14/hausse-des-cas-de-dengue-en-france-et-dans-l-ue-faut-il-craindre-l-epidemie) (Le Dauphiné Libéré)
 
@@ -486,6 +542,14 @@ Source: [News API](https://newsapi.org/)
 - [Dengue kills](https://www.thestar.com.my/news/nation/2024/06/09/dengue-kills) (The Star Online)
 
 ## 24-24 (chikungunya)
+
+- [Primul caz din Europa de febră Oropouche, diagnosticat în Italia](https://www.mediafax.ro/sanatate/primul-caz-din-europa-de-febra-oropouche-diagnosticat-in-italia-22407260) (Mediafax.ro)
+
+- [Il Negrar isola in Veneto primo caso europeo di febbre Oropouche](https://www.ansa.it/sito/notizie/cronaca/2024/06/14/il-negrar-isola-in-veneto-primo-caso-europeo-di-febbre-oropouche_29773567-f486-4146-8be1-7f28429c5db0.html) (ANSA.it)
+
+- [Il Negrar isola in Veneto primo caso europeo di febbre Oropouche](https://www.ansa.it/veneto/notizie/2024/06/14/il-negrar-isola-in-veneto-primo-caso-europeo-di-febbre-oropouche_7210eb9b-97e5-4834-a833-4fd914ac0e64.html) (ANSA.it)
+
+- [Il Negrar isola in Veneto primo caso europeo di febbre Oropouche](https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/06/14/il-negrar-isola-in-veneto-primo-caso-europeo-di-febbre-oropouche_bd868cfb-6f43-47d5-8729-255f99c72be7.html) (ANSA.it)
 
 - [Co-circulation of two Alphaviruses in Burkina Faso: Chikungunya and O’nyong nyong viruses](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011712) (Plos.org)
 
@@ -3069,8 +3133,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningococcal Vaccines Market to hit USD 7.8 Bn by 2032, says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/04/29/2870978/0/en/Meningococcal-Vaccines-Market-to-hit-USD-7-8-Bn-by-2032-says-Global-Market-Insights-Inc.html) (GlobeNewswire)
 
-- [Nigeria is pioneering a new vaccine to fight meningitis - why this matters](https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms) (The Times of India)
-
 ## 24-18 (measles)
 
 - [Addressing Childhood Diseases](https://naturalnewsblogs.com/addressing-childhood-diseases/) (Naturalnewsblogs.com)
@@ -3115,12 +3177,6 @@ Source: [News API](https://newsapi.org/)
 
 - [‘Measles had serious impact on kids with cancer’](https://timesofindia.indiatimes.com/city/mumbai/measles-had-serious-impact-on-kids-with-cancer/articleshow/109673357.cms) (The Times of India)
 
-- [Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN](https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html) (CNN)
-
-- [Global measles cases nearly doubled in one year, researchers say](https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062) (WESH Orlando)
-
-- [Measles cases worldwide almost double in a year - as England faces measles 'emergency'](https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811) (Sky.com)
-
 ## 24-18 (malaria)
 
 - [Yellow Dove shares mental health battle; I’d strip naked, attempt to jump off Findeco House](https://diggers.news/lifestyle/2024/05/04/stripping-naked-attempted-15th-floor-findeco-house-jump-yellow-dove-shares-mental-health-battle/) (Diggers.news)
@@ -3164,12 +3220,6 @@ Source: [News API](https://newsapi.org/)
 - [Need to consistently raise public awareness on malaria: MPR](https://en.antaranews.com/news/312102/need-to-consistently-raise-public-awareness-on-malaria-mpr) (Antaranews.com)
 
 - [„Malariamücke“ nach 50 Jahren wieder in Italien aufgetaucht](https://www.diepresse.com/18416480/malariamuecke-nach-50-jahren-wieder-in-italien-aufgetaucht) (Diepresse.com)
-
-- [तीन करोड़ साल पुरानी बीमारी मलेरिया जड़ से होगी खत्म! गेम चेंजर है वैक्सीन आर21, क्या कहते हैं वैज्ञानिक](https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms) (The Times of India)
-
-- [Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia](https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/) (Ilpost.it)
-
-- ['Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'](https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/) (Thecooldown.com)
 
 ## 24-18 (leptospirosis)
 
@@ -3330,8 +3380,6 @@ Source: [News API](https://newsapi.org/)
 - [El mapa del dengue: con oscilaciones en las provincias, la epidemia ya acumula casi 380.000 casos desde enero](https://www.lanacion.com.ar/sociedad/el-mapa-del-dengue-con-oscilaciones-en-las-provincias-la-epidemia-ya-acumula-casi-380000-casos-desde-nid28042024/) (La Nacion)
 
 - [Rising dengue cases in Kedah raising alarm](https://www.thestar.com.my/news/nation/2024/04/29/rising-dengue-cases-in-kedah-raising-alarm) (The Star Online)
-
-- [Argentina llegó a 280 fallecimientos de pacientes con dengue; 42 en la última semana](https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762) (Montevideo.com.uy)
 
 ## 24-18 (chikungunya)
 

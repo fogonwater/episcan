@@ -1,8 +1,448 @@
 {
-  "last_updated": "2024-06-15 07:05",
-  "count_articles_total": 1496,
-  "count_articles_new": 8,
+  "last_updated": "2024-06-15 19:05",
+  "count_articles_total": 1512,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 10203,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Andreea Tobias",
+      "title": "Primul caz din Europa de febr\u0103 Oropouche, diagnosticat \u00een Italia",
+      "description": "Primul caz din Europa de febr\u0103 Oropouche (o arboviroz\u0103 precum dengue, Zika, chikungunya) a fost diagnosticat \u00een Italia la un pacient cu antecedente recente de c\u0103l\u0103torie \u00een regiunea tropical\u0103 a Caraibelor.",
+      "url": "https://www.mediafax.ro/sanatate/primul-caz-din-europa-de-febra-oropouche-diagnosticat-in-italia-22407260",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/38026/22407260/1/tantari-exotici.jpg?width=640",
+      "publishedAt": "2024-06-14 18:33:32",
+      "content": "Cazul a fost raportat autoritilor sanitare din regiunea Veneto, conform Il Messaggero. Virusul a fost izolat \u00een laborator, fiind primul pas spre dezvoltarea de teste de diagnostic specifice i stud\u2026 [+1037 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.850500",
+      "internal_id": "d0650bd16ea4212b3d9a16a336bddb7d80bb7a79c28b016263f8386a28d46329",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10196,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Infectious H5N1 influenza virus in raw milk rapidly declines with heat treatment",
+      "description": "The amount of infectious H5N1 influenza viruses in raw milk rapidly declined with heat treatment in laboratory research. However, small, detectable amounts of infectious virus remained in raw milk samples with high virus levels when treated at 72 degrees Cels\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/06/240614141822.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-06-14 18:18:22",
+      "content": "The amount of infectious H5N1 influenza viruses in raw milk rapidly declined with heat treatment in laboratory research conducted by scientists at the National Institute of Allergy and Infectious Dis\u2026 [+4145 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.305443",
+      "internal_id": "e5bd583906672eec66f6f450533a54b98e97cd140329db33e819d1d9c45156bb",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10191,
+      "query": [
+        "measles",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Airfinity",
+      "title": "Global surge in infectious diseases as over 40 countries report outbreaks 10-fold over pre-pandemic levels",
+      "description": "New analysis by Airfinity and Bloomberg News reveals outbreaks of diseases such as measles, whooping cough, tuberculosis and polio, as well as dengue and cholera are surging worldwide. New analysis by Airfinity and Bloomberg News reveals outbreaks of diseases\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/06/14/2899158/0/en/Global-surge-in-infectious-diseases-as-over-40-countries-report-outbreaks-10-fold-over-pre-pandemic-levels.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/ea8ad614-aefb-49e5-a34c-882430bd43b7",
+      "publishedAt": "2024-06-14 18:00:00",
+      "content": "London, England, June 14, 2024 (GLOBE NEWSWIRE) -- Global surge in infectious diseases as over 40 countries report outbreaks 10-fold over pre-pandemic levels New analysis by Airfinity and Bloomberg \u2026 [+4570 chars]",
+      "retrievedAt": "2024-06-15 19:05:55.497923",
+      "internal_id": "0e2206096be95820996a1639c42d446ba76f4f84f93809830a36726bb7839d35",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10199,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Anna Skinner",
+      "title": "Raw Milk Becomes Republicans' Newest Battle",
+      "description": "Turning Point USA now sells a shirt with a cow on it, with the words \"got raw milk?\" printed beneath the image.",
+      "url": "https://www.newsweek.com/raw-milk-becomes-republicans-newest-battle-1913089",
+      "urlToImage": "https://d.newsweek.com/en/full/2410499/raw-milk-becomes-republicans-newest-battle.jpg",
+      "publishedAt": "2024-06-14 17:38:33",
+      "content": "Some Republicans are touting the benefits of drinking raw milk, a controversial stance given the concerning spread of the H5N1 virus, known as bird flu, among dairy cows. Highly pathogenic avian inf\u2026 [+4005 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.384085",
+      "internal_id": "c8a76556b10d70fc6a9d11a4b940d0117f44ccc3b99887b8f0127434dec89b98",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10200,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Podbean.com",
+      "author": "The BMJ",
+      "title": "Large, plausible and imminent - time to take H5N1 seriously",
+      "description": "As increasing numbers of mammalian, and human, cases of H5N1 are documented we askShould we worry about a growing threat from \u201cbird flu\u201d? Wendy Barclay, from Imperial college London, and Christopher Dye, from Oxford University join us to explain why they thi\u2026",
+      "url": "https://thebmjpodcast.podbean.com/e/large-plausible-and-imminent-time-to-take-h5n1-seriously/",
+      "urlToImage": "https://d2bwo9zemjwxh5.cloudfront.net/image-logo/16196630/The-BMJ-Podcast-Icon_1200x628.jpg?s=cb980b1f82aa5b805d5fe5919bef4611&e=png",
+      "publishedAt": "2024-06-14 17:31:12",
+      "content": "As increasing numbers of mammalian, and human, cases of H5N1 are documented we askShould we worry about a growing threat from bird flu? Wendy Barclay, from Imperial college London, and Christopher D\u2026 [+444 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.388844",
+      "internal_id": "f2f714ba7d854c8a2bd39c48cb9fb8d61f08ee989f96ad063975954cc0c544ee",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10194,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "Infectious bird flu survived milk pasteurization in lab test. Here's what to know.",
+      "description": "An experiment found \"small but detectable\" amounts of infectious H5N1 virus in milk after it was pasteurized for 15 seconds.",
+      "url": "https://www.cbsnews.com/news/bird-flu-milk-pasteurization-nih-study/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/14/00727b02-80ab-4afb-bf1a-07c5a0ff7b7c/thumbnail/1200x630/2aa6fd392738750a403e367872c26382/gettyimages-1129545363.jpg?v=5842509bb796a146f9b20d3e8b03dac6",
+      "publishedAt": "2024-06-14 16:38:11",
+      "content": "A \"small but detectable quantity\" of infectious H5N1 bird flu virus was able to survive a common approach to pasteurizing milk, according to new research co-authored by scientists at the National Ins\u2026 [+6350 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.288900",
+      "internal_id": "86f961a655833f659612fd23132cd005c4e3d4756e79ff42d52bcb29422ba76e",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10197,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "Christopher Vondracek",
+      "title": "Bringing your cow to the county fair? Beware new bird flu protocols.",
+      "description": "With the H5N1 virus reaching a state dairy herd, officials say any lactating cows being exhibited must present a negative test and certificate of veterinary inspection within a week of arriving to an exhibition.",
+      "url": "https://www.startribune.com/bird-flu-h5n1-minnesota-dairy-cows-4h-exhibition-testing-rules-county-fairs/600373581/",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/ZJC6GARVSFY6YEJRE7F65C7CKQ.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2024-06-14 16:16:59",
+      "content": "Dairy plays a marquee role in Minnesota's fair season, from butter sculptures of dairy princesses to prize-winning Holsteins. But with avian influenza, or H5N1, spreading in herds across the country\u2026 [+1976 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.329012",
+      "internal_id": "9721c2291b7e577e50ceffc6fb6b5fd41ecc862b196500f992e28d4dbe3581cc",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10210,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Iltalehti.fi",
+      "author": null,
+      "title": "T\u00e4ss\u00e4 on maailman vaarallisin el\u00e4in",
+      "description": "Suomessakin on kuoltu hyttysten levitt\u00e4m\u00e4\u00e4n malariaan. Hyttysten herke\u00e4m\u00e4t\u00f6n inin\u00e4 ja niiden parveilu kes\u00e4iltana voi raivostuttaa ja saada toivomaan hyttysten h\u00e4vi\u00e4mist\u00e4 maailmankartalta. Mit\u00e4 jos hyttyset todellakin h\u00e4vi\u00e4isiv\u00e4t kertaheitolla Suomesta? Menisi\u2026",
+      "url": "https://www.iltalehti.fi/terveysuutiset/a/6324c3a0-c540-4c01-968d-65e88d0fa83e",
+      "urlToImage": "https://img.ilcdn.fi/AViEu45GMfw79kA12WzBIyN4tgo=/1200x630/top/filters:watermark(assets.ilcdn.fi/ilsome_v2.jpg,25,0,0)/img-s3.ilcdn.fi/d80ef388c54f759f41baf5a6166cc688fcf96f4d6f53f242386574c5429d2789.jpg",
+      "publishedAt": "2024-06-14 15:50:13",
+      "content": "Hyttysten m\u00e4\u00e4r\u00e4 ei ole niin valtava kuin voimme kuvitella.Hyttyst\u00e4 sanotaan maailman vaarallisimmaksi el\u00e4imeksi, sill\u00e4 se levitt\u00e4\u00e4 malariaa, johon kuolee satoja tuhansia ihmisi\u00e4 joka\u2026 [+4463 chars]",
+      "retrievedAt": "2024-06-15 19:05:57.744226",
+      "internal_id": "7df830292b5d41e1b9de62412a2289e21282a29caf02feee919ab4e0d618b44f",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10204,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Figyelmeztetnek: \u00faj j\u00e1rv\u00e1ny robbanhat be",
+      "description": "Az idei olimpia nagy j\u00e1rv\u00e1ny\u00fcgyi kock\u00e1zatot jelenthet P\u00e1rizsban, ahol a dengue-l\u00e1z elterjed\u00e9s\u00e9t\u0151l tartanak - \u00edrja a CNN.",
+      "url": "https://www.portfolio.hu/global/20240614/figyelmeztetnek-uj-jarvany-robbanhat-be-692491",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/d/e/n/dengue-laz-szunyog-stock-660021.jpg",
+      "publishedAt": "2024-06-14 14:34:00",
+      "content": "2023 szeptember\u00e9ben P\u00e1rizsban t\u00f6bben is megbetegedtek a sz\u00fanyogok \u00e1ltal terjesztett dengue-l\u00e1zban. Az eset k\u00e9t okb\u00f3l is figyelemre m\u00e9lt\u00f3: egyr\u00e9szt ez volt az eddigi leg\u00e9szakibb j\u00e1rv\u00e1nykit\u00f6r\u00e9s, m\u00e1sr\u00e9s\u2026 [+1633 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.876323",
+      "internal_id": "133df4fe7319d8ef11da4d0d5aec0221e5a55198d21146dcb4c4aa075368ddeb",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10195,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "What to know about the H5N1 virus and its impact on humans",
+      "description": "The H5N1 virus has infected dairy cows and humans in 12 states. CBS News medical contributor Dr. Celine Gounder explains the latest government information, clarifies the threat level and discusses whether the virus could become a pandemic.",
+      "url": "https://www.cbsnews.com/video/what-to-know-about-the-h5n1-virus-and-its-impact-on-humans/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/14/14c9c72c-b53f-497c-bc4a-e9af4348374d/thumbnail/1200x630/e21860ce4558d9d85c44ae99eb31099e/0614-cmo-birdflulatest-gounder-mid.jpg?v=5842509bb796a146f9b20d3e8b03dac6",
+      "publishedAt": "2024-06-14 13:35:00",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-06-15 19:05:56.300319",
+      "internal_id": "f35a263097d7faa6cf48af23eeb934b769a4ba0678a944ab7768f2fdb55ebcc3",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10192,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "GPs urge parents to vaccinate babies against measles if going abroad on holidays",
+      "description": "GPs are advising that young infants aged between six and 11 months travelling abroad should get an additional MMR vaccine due to rising incidence of measles cases across Europe.",
+      "url": "https://www.independent.ie/irish-news/gps-urge-parents-to-vaccinate-babies-against-measles-if-going-abroad-on-holidays/a1702954303.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/5lmlHMdEMlfkh3PmqLMlq9GSBWw=/13x0:2087x1383/629x0/prod-mh-ireland/82967078-3861-4c67-912d-508cd056227d/ba497fb4-44ac-4688-a320-ab3777805c12/82967078-3861-4c67-912d-508cd056227d.jpg",
+      "publishedAt": "2024-06-14 12:31:41",
+      "content": "GPs are advising that young infants aged between six and 11 months travelling abroad should get an additional MMR vaccine due to rising incidence of measles cases across Europe.They should get infant\u2026 [+1921 chars]",
+      "retrievedAt": "2024-06-15 19:05:55.504199",
+      "internal_id": "a2616ebb7a30e2e9dab23638971e408a7d4493548ca35ef33857c24715462e73",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10206,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "Hal\u00e1los k\u00f3r t\u00e1madta meg a vil\u00e1g legd\u00f6g\u00f6sebb tud\u00f3s\u00e1t",
+      "description": "A gyakran a \u201evil\u00e1g legd\u00f6g\u00f6sebb tud\u00f3s\u00e1nak\u201d nevezett n\u0151 r\u00e9szletesen besz\u00e1molt azokr\u00f3l a brut\u00e1lis t\u00fcnetekr\u0151l, amelyeket egy utaz\u00e1s k\u00f6zben szerzett, potenci\u00e1lisan hal\u00e1los fert\u0151z\u00e9st k\u00f6vet\u0151en tapasztalt.",
+      "url": "https://www.origo.hu/tudomany/2024/06/halalos-kor-tamadta-meg-a-vilag-legdogosebb-tudosat",
+      "urlToImage": "https://cdn.origo.hu/2024/06/95XrPGPbukj1dTkC-_CaQIcE8NVg7IcIPriDKFG8yBs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzcxN2U5MzcwNjcxMjRlYWJiYTdlOGU4NmU1NDIwZGZm.webp",
+      "publishedAt": "2024-06-14 12:11:24",
+      "content": "Ha valaki k\u00fclf\u00f6ld\u00f6n megbetegszik, az biztosan t\u00f6nkreteszi az egy\u00e9bk\u00e9nt kellemes nyaral\u00e1st, \u00e9s a t\u00e1voli c\u00e9l\u00e1llom\u00e1sokra val\u00f3 utaz\u00e1skor k\u00fcl\u00f6nf\u00e9le \u00f3vint\u00e9zked\u00e9seket \u00e9s v\u00e9dolt\u00e1sokat javasolnak. A dengue-\u2026 [+1812 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.995287",
+      "internal_id": "7ddc2df7e652c194e11d9ef0e22e38623753f8a0e45ea7af685835ebdff8567e",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10202,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Foreign Policy",
+      "author": "Catherine Osborn",
+      "title": "Dengue Surge Grips Latin America",
+      "description": "Lessons from COVID-19 are shaping the region\u2019s response to a record outbreak.",
+      "url": "https://foreignpolicy.com/2024/06/14/latin-america-dengue-outbreak-covid-pandemic-brazil/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2024/06/brazil-dengue-vaccine-GettyImages-2032825184.jpg?w=1000",
+      "publishedAt": "2024-06-14 12:00:37",
+      "content": "Welcome back to Foreign Policys Latin America Brief.Welcome back to Foreign Policys Latin America Brief. The highlights this week: A dengue fever outbreak shows what Latin America learned from COVID\u2026 [+9812 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.834775",
+      "internal_id": "22a7fb07b0d5b0cdab23f801db98927c01e4f2741880fa6cf1bbbabb1f5a65ed",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10205,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Il Negrar isola in Veneto primo caso europeo di febbre Oropouche",
+      "description": "Diagnosticato il primo caso in Europa di febbre Oropouche (una arbovirosi come dengue, Zika, chikungunya), in una paziente con una storia recente di viaggi nella regione tropicale caraibica. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2024/06/14/il-negrar-isola-in-veneto-primo-caso-europeo-di-febbre-oropouche_29773567-f486-4146-8be1-7f28429c5db0.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2014/5/29/68fa225ae3f8ce9bd6db6593f96f4555.jpg",
+      "publishedAt": "2024-06-14 10:53:37",
+      "content": "Diagnosticato il primo caso in Europa di febbre Oropouche (una arbovirosi come dengue, Zika, chikungunya), in una paziente con una storia recente di viaggi nella regione tropicale caraibica. Accer\u2026 [+1885 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.972649",
+      "internal_id": "5b47f0221eae0f6e7cb343ea9dcbab942a521643cf5778de449bf547873c354e",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10211,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Il Negrar isola in Veneto primo caso europeo di febbre Oropouche",
+      "description": "Diagnosticato il primo caso in Europa di febbre Oropouche (una arbovirosi come dengue, Zika, chikungunya), in una paziente con una storia recente di viaggi nella regione tropicale caraibica. (ANSA)",
+      "url": "https://www.ansa.it/veneto/notizie/2024/06/14/il-negrar-isola-in-veneto-primo-caso-europeo-di-febbre-oropouche_7210eb9b-97e5-4834-a833-4fd914ac0e64.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2014/5/29/68fa225ae3f8ce9bd6db6593f96f4555.jpg",
+      "publishedAt": "2024-06-14 10:53:31",
+      "content": "Diagnosticato il primo caso in Europa di febbre Oropouche (una arbovirosi come dengue, Zika, chikungunya), in una paziente con una storia recente di viaggi nella regione tropicale caraibica. Accer\u2026 [+1885 chars]",
+      "retrievedAt": "2024-06-15 19:05:58.186576",
+      "internal_id": "c6ff432ed5b39e4a9c8715d152412f8fc3b1355abb8e0ddfa35f6ff4ac855a9e",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10201,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Il Negrar isola in Veneto primo caso europeo di febbre Oropouche",
+      "description": "Diagnosticato il primo caso in Europa di febbre Oropouche (una arbovirosi come dengue, Zika, chikungunya), in una paziente con una storia recente di viaggi nella regione tropicale caraibica. (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/06/14/il-negrar-isola-in-veneto-primo-caso-europeo-di-febbre-oropouche_bd868cfb-6f43-47d5-8729-255f99c72be7.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/6/14/5c0665f7b379301380f557e420c4d876.jpg",
+      "publishedAt": "2024-06-14 10:28:19",
+      "content": "- Diagnosticato il primo caso in Europa di febbre Oropouche (una arbovirosi come dengue, Zika, chikungunya), in una paziente con una storia recente di viaggi nella regione tropicale caraibica. Accert\u2026 [+1858 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.805684",
+      "internal_id": "537e151ff3510f3ad7753d8b0f70a74d05b4578ec1d85bb67b9f1a57be74073f",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10209,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Africa Malaria Diagnostics Market Size, Share & Trends Analysis Report 2024-2030: Adaptation of the \"Zero Malaria\" Agenda to Bolster Growth with Increased Initiatives by Market Players and Private Investors",
+      "description": "Dublin, June 14, 2024 (GLOBE NEWSWIRE) -- The \"Africa Malaria Diagnostics Market Size, Share & Trends Analysis Report by Technology (Rapid Diagnostic Tests, Microscopy, Molecular Diagnostic Tests), End-use (Hospitals & Clinics, Diagnostic Laboratories), Regio\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/06/14/2898863/28124/en/Africa-Malaria-Diagnostics-Market-Size-Share-Trends-Analysis-Report-2024-2030-Adaptation-of-the-Zero-Malaria-Agenda-to-Bolster-Growth-with-Increased-Initiatives-by-Market-Players-a.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2024-06-14 10:18:00",
+      "content": "Dublin, June 14, 2024 (GLOBE NEWSWIRE) -- The \"Africa Malaria Diagnostics Market Size, Share &amp; Trends Analysis Report by Technology (Rapid Diagnostic Tests, Microscopy, Molecular Diagnostic Tests\u2026 [+6838 chars]",
+      "retrievedAt": "2024-06-15 19:05:57.695319",
+      "internal_id": "a2361d8b0e19a15c53fa296091b4ef5a50c588194d11baf86dccf40307f52984",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10190,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Lauren Boland",
+      "title": "GPs advise parents that infants 6-11 months should receive extra MMR vaccine if travelling abroad",
+      "description": "Measles cases have skyrocketed in Europe over the last year.",
+      "url": "https://www.thejournal.ie/infants-6-11-months-should-receive-extra-mmr-vaccine-if-travelling-abroad-6409235-Jun2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6409235/river/?height=400&version=6409320",
+      "publishedAt": "2024-06-14 10:15:23",
+      "content": "FAMILY DOCTORS ARE advising parents that young infants eligible for the MMR vaccine should receive an additional dose before travelling abroad as the contagious illness spikes across Europe. The Iri\u2026 [+2678 chars]",
+      "retrievedAt": "2024-06-15 19:05:55.491888",
+      "internal_id": "e6ad6f2a8a21fcb552496f1a21091e00cfd7bf86c8819806a1f7fce790cb7b3a",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10189,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Conor Pope",
+      "title": "Parents urged to vaccinate infants before holidays as measles cases climb across Europe",
+      "description": "Irish College of General Practitioners issued advisory to have infants vaccinated at least two weeks before departure",
+      "url": "https://www.irishtimes.com/health/2024/06/14/parents-urged-to-vaccinate-infants-before-holidays-as-measles-cases-climb-across-europe/",
+      "urlToImage": "https://www.irishtimes.com/resizer/ki9FWxkI8xIGSYAOrNW3-eAt5w4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/5UPLOOCJWI2DC4CKQHEIACXBS4.jpg",
+      "publishedAt": "2024-06-14 10:05:17",
+      "content": "Parents of infant children travelling overseas this summer should get an additional MMR vaccine due to rising incidences of measles cases across Europe, the Irish College of GPs (ICGP) has said. It \u2026 [+1952 chars]",
+      "retrievedAt": "2024-06-15 19:05:55.472852",
+      "internal_id": "5bc78b96334aeb3f8f2febd8a298c2254391530555960d6696010525605a9332",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10212,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Clinical Trials Arena",
+      "author": "GlobalData Healthcare",
+      "title": "WHO publishes new mpox prevention and management framework",
+      "description": "The new framework sets out to achieve and sustain the elimination of human-to-human transmission of the disease.",
+      "url": "https://www.clinicaltrialsarena.com/analyst-comment/who-mpox-prevention-management-framework/",
+      "urlToImage": "https://media.zenfs.com/en/clinical_trials_arena_396/828600519a6e37c5caf7d98008bafdcc",
+      "publishedAt": "2024-06-14 09:52:37",
+      "content": "Mpox, caused by the monkeypox virus (MPVX), continues to affect people around the world. The disease causes a painful rash, fever and enlarged lymph nodes, and while most people recover fully, some b\u2026 [+3956 chars]",
+      "retrievedAt": "2024-06-15 19:05:58.918284",
+      "internal_id": "6289519c808981a86af1cbdf7d7adc8c8ad6f89907d62c1ba0fa2ed67400e908",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10208,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Kopalniawiedzy.pl",
+      "author": null,
+      "title": "Jak rozprzestrzenia\u0142a si\u0119 malaria? Zrekonstruowano 5500 lat historii choroby",
+      "description": "Malaria to jedna z najbardziej zab\u00f3jczych chor\u00f3b w historii ludzko\u015bci. W 2022 roku zanotowano 249 milion\u00f3w zaka\u017ce\u0144 i 608 000 zgon\u00f3w w 85 krajach. Obecnie ograniczona jest g\u0142\u00f3wnie do obszar\u00f3w tropikalnych, ale nieco ponad 100 lat temu wyst\u0119powa\u0142a na po\u0142owie po\u2026",
+      "url": "https://kopalniawiedzy.pl/Jak-rozprzestrzeniala-sie-malaria-Zrekonstruowano-5500-lat-historii-choroby,37198",
+      "urlToImage": "https://kopalniawiedzy.pl/media/lib/582/merozoity-00dd19de0b40d5592a6c7ac6325243eb.jpg",
+      "publishedAt": "2024-06-14 09:47:45",
+      "content": "23 min. temu | Humanistyka Malaria to jedna z najbardziej zab\u00f3jczych chor\u00f3b w historii ludzkoci. W 2022 roku zanotowano 249 milion\u00f3w zakae i 608 000 zgon\u00f3w w 85 krajach. Obecnie ograniczona jest g\u00f3w\u2026 [+5810 chars]",
+      "retrievedAt": "2024-06-15 19:05:57.671701",
+      "internal_id": "eff4a0eed43c808adc888e0b3e70538953102f50dd6388e31475cbea9003d639",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10198,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Marc Zimmer, Lars Fischer",
+      "title": "Neue Gefahr durch H5N1 bei K\u00fchen?",
+      "description": "Das Vogelgrippe-Virus H5N1 hat in den USA zahlreiche Milchk\u00fche infiziert und ist bereits auf Menschen \u00fcbergesprungen. Wie gef\u00e4hrlich ist diese Entwicklung? \ufe0f",
+      "url": "https://www.spektrum.de/podcast/wie-gefaehrlich-ist-der-h5n1-ausbruch-bei-kuehen-fuer-menschen/2219651",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/iStock-172467999.jpg",
+      "publishedAt": "2024-06-14 09:42:11",
+      "content": "Ein Podcast von Das Virus H5N1, auch Vogelgrippe genannt, tauchte vor rund 30 Jahren zum ersten Mal auf. Seitdem hat es uns immer wieder \u00fcberrascht, etwa mit dem globalen Ausbruch im Jahr 2004. Sei\u2026 [+846 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.337426",
+      "internal_id": "582b0b31260328751ec529f85c67288c30c0be93a45c2e856c28f2f6ef7d32f4",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10207,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Ssa: en un a\u00f1o, contagios de dengue aumentaron 4.8 veces; van 26 muertes",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 15 mil 742 contagios de dengue, de los cuales 7 mil 764 corresponden a casos con signos de alarma o graves, y 7 mil 978 corresponde a casos no graves. A la fecha se reportan 26 de\u2026",
+      "url": "https://www.jornada.com.mx/2024/06/14/sociedad/033n3soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-06-14 08:40:39",
+      "content": "Peri\u00f3dico La JornadaViernes 14 de junio de 2024, p. 33 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 15 mil 742 contagios de dengue, de los cuales 7 mil 764 corresp\u2026 [+978 chars]",
+      "retrievedAt": "2024-06-15 19:05:57.021563",
+      "internal_id": "b00f8dc2bf2027a8017c5463be5944aaacc62c6d2d5fa21ba027b50a09e08170",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10193,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Nayra Teles",
+      "title": "Gripe avi\u00e1ria pode se tornar a pr\u00f3xima pandemia? Entenda o alerta",
+      "description": "V\u00edrus da gripe avi\u00e1ria tem sofrido muta\u00e7\u00f5es e infectado novos animais, tornando-se cada vez mais uma amea\u00e7a aos humanos O post Gripe avi\u00e1ria pode se tornar a pr\u00f3xima pandemia? Entenda o alerta apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/06/14/medicina-e-saude/gripe-aviaria-pode-se-tornar-a-proxima-pandemia-entenda-o-alerta/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/06/Gripe-aviaria-1024x1024.png",
+      "publishedAt": "2024-06-14 08:40:00",
+      "content": "A pandemia de gripe avi\u00e1ria j\u00e1 \u00e9 uma realidade para os animais. O H5N1, v\u00edrus transmissor da doen\u00e7a, j\u00e1 fez milh\u00f5es de v\u00edtimas entre aves, le\u00f5es-marinhos, focas e outros. Segundo o CDC (Centros de Co\u2026 [+2557 chars]",
+      "retrievedAt": "2024-06-15 19:05:56.280448",
+      "internal_id": "c7968bce79dd9d84019bb270584e729aa76fb93715736c46ab36340c17208a9e",
+      "publishedAtLabel": "Jun 14"
+    },
     {
       "id": 10181,
       "query": [
@@ -26857,150 +27297,6 @@
       "content": "A virtual tour of 'ShivShakti', Ajay Devgn and Kajol's beautiful home",
       "retrievedAt": "2024-04-30 07:06:47.233821",
       "internal_id": "efc447cf35bbe9445e13740afbe9a7503e18672965df9b3005ce0aa286a68278",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8693,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Argentina lleg\u00f3 a 280 fallecimientos de pacientes con dengue; 42 en la \u00faltima semana",
-      "description": "Solo en lo que va de este a\u00f1o, los casos de la enfermedad suman 379.341, de los cuales 871 fueron clasificados como graves. Solo en lo que va de este a\u00f1o, los casos de la enfermedad suman 379.341, de los cuales 871 fueron clasificados como graves.",
-      "url": "https://www.montevideo.com.uy/Noticias/Argentina-llego-a-280-fallecimientos-de-pacientes-con-dengue-42-en-la-ultima-semana-uc886762",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
-      "publishedAt": "2024-04-28 18:40:00",
-      "content": "El n\u00famero de muertes por dengue en Argentina ascendi\u00f3 a 280 tras confirmarse 42 nuevos decesos en la \u00faltima semana, seg\u00fan datos oficiales dados a conocer este domingo. De acuerdo con el \u00faltimo bo\u2026 [+1100 chars]",
-      "retrievedAt": "2024-04-29 19:05:20.435097",
-      "internal_id": "4cc058376d292865f5060189041015c7c0fb098553fcfaea87b069329af9bea2",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8695,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "\u092f\u094b\u0917\u0947\u0902\u0926\u094d\u0930 \u092e\u093f\u0936\u094d\u0930\u093e",
-      "title": "\u0924\u0940\u0928 \u0915\u0930\u094b\u0921\u093c \u0938\u093e\u0932 \u092a\u0941\u0930\u093e\u0928\u0940 \u092c\u0940\u092e\u093e\u0930\u0940 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u091c\u0921\u093c \u0938\u0947 \u0939\u094b\u0917\u0940 \u0916\u0924\u094d\u092e! \u0917\u0947\u092e \u091a\u0947\u0902\u091c\u0930 \u0939\u0948 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0906\u093021, \u0915\u094d\u092f\u093e \u0915\u0939\u0924\u0947 \u0939\u0948\u0902 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915",
-      "description": "Malaria Vaccine: \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0907\u0938 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0938\u092c\u0938\u0947 \u092a\u0941\u0930\u093e\u0928\u0940 \u092c\u0940\u092e\u093e\u0930\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u0938\u0947 \u090f\u0915 \u0939\u0948\u0902\u0964 \u092f\u0939 \u0924\u0940\u0928 \u0915\u0930\u094b\u0921\u093c \u0938\u093e\u0932 \u0938\u0947 \u0927\u0930\u0924\u0940 \u092a\u0930 \u0939\u0948\u0964 \u092a\u094d\u0930\u094b\u091f\u094b\u091c\u094b\u0906 \u0938\u0947 \u092f\u0939 \u0939\u094b\u0924\u093e \u0939\u0948\u0964 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0928 \u0924\u094b \u092f\u0939 \u0935\u093e\u092f\u0930\u0938 \u0939\u0948 \u0914\u0930 \u0928 \u0939\u0940 \u092c\u0948\u0915\u094d\u091f\u0940\u0930\u093f\u092f\u093e \u0907\u0938\u0932\u093f\u090f \u0907\u0938\u0915\u093e \u0915\u094b\u0908 \u091f\u0940\u0915\u093e \u092a\u093f\u091b\u0932\u0947 \u0924\u0940\u0928 \u0938\u093e\u0932 \u0924\u0915 \u0928\u0939\u0940\u0902 \u0925\u093e\u0964 \u0932\u0947\u0915\u093f\u0928 \u0905\u092c \u0907\u0938\u0915\u0940 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0939\u0948\u0964 \u0906\u0907\u090f \u091c\u093e\u0928\u0947\u0902 \u0915\u2026",
-      "url": "https://navbharattimes.indiatimes.com/world/science-news/malaria-vaccine-r21-is-very-effective-know-what-scientist-say-about-it/articleshow/109669015.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-29322,msid-109669088/navbharat-times.jpg",
-      "publishedAt": "2024-04-28 14:33:40",
-      "content": ": () , , 21 21 , ? , ( ) , -19 12 , 5,000 , - 100 30 21/- ? - - , ( ) , , 20 20 , , ( ) , , 10 ? 21 21 -19 2020 -19 , , ? 6,00,000 , 2,00,000 ( , ) , , ... - ? Adv: , 6\u2026 [+285 chars]",
-      "retrievedAt": "2024-04-29 19:05:21.342276",
-      "internal_id": "0765c99e2b0de668dc0db8f7542aff4402b0f421402da110b0456758d737fcb2",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8691,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Andrew Torgan, Daniel Wine",
-      "title": "Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNN",
-      "description": "Start your week smart: Trump on trial, presidential poll, measles on the rise, Chinese influence, Andrew Tate | CNNcnn.com",
-      "url": "https://www.cnn.com/2024/04/28/us/5-things-april-28-trnd/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-20240426-152353-resized.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-04-28 12:59:55",
-      "content": "An Austrian company plans to build a vessel worthy of a James Bond villain: a customized submersible superyacht thats more than 500 feet long and can remain below the oceans surface for up to four we\u2026 [+6530 chars]",
-      "retrievedAt": "2024-04-29 19:05:19.278374",
-      "internal_id": "3daaab959c33d19d73afb0f77378bbe74e883aed08f841c5e9686951cf3fd728",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8692,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WESH Orlando",
-      "author": "Katherine Dillinger",
-      "title": "Global measles cases nearly doubled in one year, researchers say",
-      "description": "Almost half of this year's cases have been in WHO's European Region, with the highest incidence in Azerbaijan, Kyrgyzstan and Yemen.",
-      "url": "https://www.wesh.com/article/global-measles-cases-nearly-doubled-in-one-year-researchers-say/60626062",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1173338314-662e3359e5d54.jpg?crop=1.00xw:0.848xh;0,0.120xh&resize=1200:*",
-      "publishedAt": "2024-04-28 11:43:50",
-      "content": "The number of measles cases around the world nearly doubled from 2022 to 2023, researchers say, presenting a challenge to efforts to achieve and maintain elimination status in many countries. There \u2026 [+2983 chars]",
-      "retrievedAt": "2024-04-29 19:05:19.295123",
-      "internal_id": "78dbe4ac61e801d2eed603a4d8592ddcf8224f7a9cc321af7d40b775ead08ed4",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8694,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Nigeria is pioneering a new vaccine to fight meningitis - why this matters",
-      "description": "GOMBE: Nigeria recently became the first country to roll out a new vaccine (called Men5CV) recommended by the World Health Organisation (WHO), which p.",
-      "url": "https://timesofindia.indiatimes.com/home/science/nigeria-is-pioneering-a-new-vaccine-to-fight-meningitis-why-this-matters/articleshow/109666348.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-109666704,width-1070,height-580,imgsize-21590,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-04-28 11:38:37",
-      "content": "News Nigeria is pioneering a new vaccine to fight meningitis - why this matters FOLLOW US ON SOCIAL MEDIA",
-      "retrievedAt": "2024-04-29 19:05:20.788636",
-      "internal_id": "a79fa1cfe444d9f59fac7164036b4b0e2a95aefa5d459a7d21b756e32b344ac6",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8702,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Ilpost.it",
-      "author": null,
-      "title": "Non bisogna allarmarsi per le zanzare che possono trasmettere la malaria trovate in Puglia",
-      "description": "Il fatto che ci siano non significa che contengano il parassita che causa la malattia, e non \u00e8 la prima volta che negli ultimi anni vengono rintracciate nel Sud Italia",
-      "url": "https://www.ilpost.it/2024/04/28/zanzara-malaria-anopheles-sacharovi-puglia/",
-      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2024/04/28/1714298599-zanzara_Anopheles.jpg",
-      "publishedAt": "2024-04-28 10:20:57",
-      "content": "Lo scorso settembre in alcune aree rurali della provincia di Lecce \u00e8 stata fatta un\u2019indagine scientifica per verificare la presenza di zanzare appartenenti a specie capaci di trasmettere la malaria. \u2026 [+3753 chars]",
-      "retrievedAt": "2024-04-30 07:06:49.082613",
-      "internal_id": "0e36e9a924879ff17622698b40a89ff803bad823f0fcb3b953d9548aeb10b038",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8690,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Sky.com",
-      "author": "Josephine Franks",
-      "title": "Measles cases worldwide almost double in a year - as England faces measles 'emergency'",
-      "description": "Measles cases nearly doubled globally between 2022 and 2023, researchers say.",
-      "url": "https://news.sky.com/story/measles-cases-worldwide-almost-double-in-a-year-as-england-faces-measles-emergency-13124811",
-      "urlToImage": "https://e3.365dm.com/24/04/1600x900/skynews-measles-child_6536139.jpg?20240428095436",
-      "publishedAt": "2024-04-28 08:00:00",
-      "content": "Measles cases nearly doubled globally between 2022 and 2023, researchers say. There were 321,582 cases worldwide in 2023 - an 88% increase from the previous year, when 171,153 cases were recorded. \u2026 [+2302 chars]",
-      "retrievedAt": "2024-04-29 19:05:19.261681",
-      "internal_id": "bd29469bd0c5429cd11a832e379b289ebc8f22c1e3864377f98d5ac8ed9bdaf4",
-      "publishedAtLabel": "Apr 28"
-    },
-    {
-      "id": 8706,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Thecooldown.com",
-      "author": "Doric Sam",
-      "title": "'Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'",
-      "description": "'Life-saving rollout' of solar-powered refrigerators transform health care around the world: 'There's been quite a lot of innovation in the space'thecooldown.com",
-      "url": "https://www.thecooldown.com/green-tech/solar-powered-refrigerators-africa-malaria/",
-      "urlToImage": "https://www.thecooldown.com/wp-content/uploads/2024/04/solar-powered-refrigeratorsimage.jpg",
-      "publishedAt": "2024-04-28 07:21:48",
-      "content": "Solar-powered refrigerators are the latest innovation that will play a key role in the ongoing fight against malaria. As explained in Reuters, a \"life-saving rollout\" of two approved malaria vaccine\u2026 [+2585 chars]",
-      "retrievedAt": "2024-04-30 07:06:49.105750",
-      "internal_id": "64344c7157e4bdf8bca9a56223390ef82b25328fd7d817bce003f3097b75a7ec",
       "publishedAtLabel": "Apr 28"
     }
   ]
