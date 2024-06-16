@@ -1,8 +1,98 @@
 {
-  "last_updated": "2024-06-16 07:06",
-  "count_articles_total": 1341,
-  "count_articles_new": 12,
+  "last_updated": "2024-06-16 19:06",
+  "count_articles_total": 1342,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 10229,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Kahden malarialoisen perim\u00e4 kertoo, kuinka tappava tauti levisi maailmalla \u2013 tautia oli Pohjolassakin",
+      "description": "Helsingin yliopisto on mukana tutkimuksessa, joka selvitti malarialoisten historiaa 5500 vuoden ajalta.",
+      "url": "https://yle.fi/a/74-20094258",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/w_1200,ar_1.91,c_fill,g_faces/q_auto:eco,f_auto,fl_lossy/v1396512883/14-svyle-155867531975136621e",
+      "publishedAt": "2024-06-15 18:00:58",
+      "content": "Malaria on yh\u00e4 yksi vaarallisimmista tartuntataudeista. Maailman terveysj\u00e4rjest\u00f6 WHO arvioi, ett\u00e4 vuosittain l\u00e4hes 250 miljoonaa ihmist\u00e4 saa malarian ja yli 600 000 kuolee siihen. Tautia levitt\u00e4v\u00e4t \u2026 [+2164 chars]",
+      "retrievedAt": "2024-06-16 19:06:13.469386",
+      "internal_id": "56fdc3d00a538eb61ceb777bb992211dba999f81e6b6ed18853da21ef5800f36",
+      "publishedAtLabel": "Jun 15"
+    },
+    {
+      "id": 10225,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ferra.ru",
+      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
+      "title": "\u041a\u0438\u043f\u044f\u0447\u0435\u043d\u0438\u044f \u0441\u043d\u0438\u0437\u0438\u043b\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u0430 H5N1 (\u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430) \u0432 \u0441\u044b\u0440\u043e\u043c \u043c\u043e\u043b\u043e\u043a\u0435",
+      "description": "\u041d\u043e\u0432\u043e\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0430 \u0430\u043b\u043b\u0435\u0440\u0433\u0438\u0438 \u0438 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439 (NIAID) \u0421\u0428\u0410 \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u043e, \u0447\u0442\u043e \u0442\u0435\u0440\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0441\u043d\u0438\u0436\u0430\u0435\u0442 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0432\u0438\u0440\u0443\u0441\u0430 \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0432 \u0441\u044b\u0440\u043e\u043c \u043c\u043e\u043b\u043e\u043a\u0435. \u041f\u0430\u0441\u0442\u0435\u0440\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u0440\u0438 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0435 72 \u00b0C \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 15 \u0441\u0435\u043a\u0443\u043d\u0434 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0441\u043d\u2026",
+      "url": "https://www.ferra.ru/news/health/kipyacheniya-snizilo-soderzhanie-virusa-h5n1-ptichego-grippa-v-syrom-moloke-15-06-2024.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2024/06/15/16/6503822/d36f2b86ec326f673cca8fda74a879d09b19d158.png",
+      "publishedAt": "2024-06-15 16:38:48",
+      "content": "H5N1 . . 1010- 63 \u00b0C 2,5 104- 72 \u00b0C . 20 72 \u00b0C. , . . .",
+      "retrievedAt": "2024-06-16 19:06:12.331936",
+      "internal_id": "c0a70aa96a5f833fcff9a6ea9f377df060e87e1111abee0e0f4d7ea286539447",
+      "publishedAtLabel": "Jun 15"
+    },
+    {
+      "id": 10226,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Nathaniel Dove",
+      "title": "COVID-19, Ebola, bird flu: What to know about zoonotic diseases - National | Globalnews.ca",
+      "description": "COVID-19 and H5N1 bird flu are both zoonotic, meaning they jumped from animals to humans. How did that happen and how can they infect humans?",
+      "url": "https://globalnews.ca/news/10562534/zoonotic-diseases-h5n1-covid-19/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2024/05/20240524190544-6651272e6013bbf0db39cdedjpeg_01232e.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2024-06-15 14:05:11",
+      "content": "The risk to humans from zoonotic diseases like bird flu is low, scientists tell Global News, but they\u2019re still concerned. The H5N1 avian flu is spreading in the United States. So far there have only\u2026 [+8049 chars]",
+      "retrievedAt": "2024-06-16 19:06:12.412301",
+      "internal_id": "8d03cbfe181276240e9c4c09a2d5cc9f7d73bc7c51b1054e4295b8528900b544",
+      "publishedAtLabel": "Jun 15"
+    },
+    {
+      "id": 10228,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Sa\u00fade em Dia",
+      "title": "Pediatra esclarece mitos e verdades sobre dengue em crian\u00e7as",
+      "description": "Alto n\u00famero de casos de dengue no Brasil assusta a pais e respons\u00e1veis por crian\u00e7as e rec\u00e9m-nascidos, que s\u00e3o mais suscet\u00edveis \u00e0 doen\u00e7a",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/pediatra-esclarece-mitos-e-verdades-sobre-dengue-em-criancas,cf3dddc6ccde13584b891e8c01ce7607ptn4n6fj.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/15/776362830-dengue-em-criancas.jpg",
+      "publishedAt": "2024-06-15 13:48:14",
+      "content": "O surto de dengue no pa\u00eds chamou a aten\u00e7\u00e3o de pais e cuidadores de crian\u00e7as e rec\u00e9m-nascidos. Isso porque a doen\u00e7a pode ser fatal, especialmente quando est\u00e1 cercada de mitos e desinforma\u00e7\u00e3o. Pensand\u2026 [+6792 chars]",
+      "retrievedAt": "2024-06-16 19:06:12.887567",
+      "internal_id": "69c50426dd5e7c3e3ee4e4bedaa429c83f71fe9963b3efb85f1721f7359de4a0",
+      "publishedAtLabel": "Jun 15"
+    },
+    {
+      "id": 10227,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "How scientists are using technology to limit the spread of tropical diseases",
+      "description": "Climate change means there's a growing risk of spreading tropical diseases like dengue, which has seen a massive rise in cases in recent years. To limit the spread of such illnesses, scientists are using technological advancements like drones and artificial i\u2026",
+      "url": "https://www.cbsnews.com/video/how-scientists-are-using-technology-to-limit-the-spread-of-tropical-diseases/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/15/2fdfb4cd-cdf0-4bc6-bc7d-d3968131052d/thumbnail/1200x630/4371fb8596332ec7269ab3c063ec36be/0615-satmo-tropicaldrones-bojorquez-2986490-640x360.jpg?v=5842509bb796a146f9b20d3e8b03dac6",
+      "publishedAt": "2024-06-15 12:20:01",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-06-16 19:06:12.785017",
+      "internal_id": "24ea10c774f73f580d9cab6e700f593ffceb71355aef2b23669a80188c238c86",
+      "publishedAtLabel": "Jun 15"
+    },
     {
       "id": 10220,
       "query": [
@@ -24140,78 +24230,6 @@
       "content": "Myggarten gulafebernmyggan b\u00f6rjade flytta in i s\u00f6dra Kalifornien omkring 2014. Den riktar speciellt in sig p\u00e5 m\u00e4nniskor och kan b\u00e4ra p\u00e5 virus som chikungunya, zika och dengue och gula febern. Den lo\u2026 [+228 chars]",
       "retrievedAt": "2024-05-07 07:07:05.076545",
       "internal_id": "b036db975e42ac14ae9f1823491b2a1857fbf3d339e2824ada1521497f9d63cb",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8884,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados",
-      "description": "No pa\u00eds, 21 estados e o Distrito Federal est\u00e3o em tend\u00eancia de queda ou estabilidade na incid\u00eancia de dengue. Outras cinco unidades federativas ainda apresentam alta da doen\u00e7a",
-      "url": "https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
-      "publishedAt": "2024-05-05 17:13:05",
-      "content": "O Estado de S\u00e3o Paulo chegou a 587 mortes por dengue em 2024, segundo dados do painel de monitoramento da Secretaria Estadual da Sa\u00fade deste domingo (5). Outras 719 mortes est\u00e3o em investiga\u00e7\u00e3o. O es\u2026 [+2275 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.899957",
-      "internal_id": "9b4e1c0b521d87ca54107e9873edcdf263aa31c987273811247d42eff1f89a81",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8883,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Luiz Vassallo",
-      "title": "Munic\u00edpios ter\u00e3o de pagar R$ 300 mil por morte de crian\u00e7a com dengue",
-      "description": "Justi\u00e7a de SP considerou que neglig\u00eancia de m\u00e9dicos dos munic\u00edpios de Sumar\u00e9 e Nova Odessa levou \u00e0 morte de crian\u00e7a de 13 anos com dengue",
-      "url": "https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
-      "publishedAt": "2024-05-05 15:01:37",
-      "content": "S\u00e3o Paulo O Tribunal de Justi\u00e7a de S\u00e3o Paulo (TJSP) condenou dois munic\u00edpios do interior de S\u00e3o Paulo a indenizarem em R$ 300 mil o pai de uma crian\u00e7a que morreu de dengue em raz\u00e3o da neglig\u00eancia m\u00e9d\u2026 [+1602 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.880444",
-      "internal_id": "03a02e04614d510c04f09b6bb87d4211a82c2feaf68e8a973dae49b2446b512a",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8885,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue cases surpass 11,000 in Bagmati Province",
-      "description": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total of 11,409 cases have been diagnosed since the commencement o\u2026",
-      "url": "https://english.khabarhub.com/2024/05/354188/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-05-05 14:15:17",
-      "content": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total\u2026 [+945 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.935323",
-      "internal_id": "bd805cf9d09aaca253f43d9ea3e77cff097a31fdaeb260576323187444d13def",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8891,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Financial News",
-      "author": null,
-      "title": "Tackling Malaria: Nigeria's Efforts and Challenges",
-      "description": "Federal Government of Nigeria is taking quick measures to tackle and eliminate malaria. Measures include intensifying case management, mobilizing funding, enhancing community involvement, and exploring innovative service delivery. Coordination Minister expres\u2026",
-      "url": "https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges",
-      "urlToImage": "https://storage.financialnews.com/10141/6637014fdec5f.webp",
-      "publishedAt": "2024-05-05 10:40:57",
-      "content": "Malaria is a deadly disease caused by parasites transmitted to humans through the bites of infected mosquitoes. It is a major public health concern in Nigeria, with millions of cases reported annuall\u2026 [+3610 chars]",
-      "retrievedAt": "2024-05-07 07:07:05.691610",
-      "internal_id": "205d4a96c931ebd9358276362996805a4f3aadaaf893a121e26a98446f806075",
       "publishedAtLabel": "May 5"
     }
   ]

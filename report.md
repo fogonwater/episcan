@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-06-16 07:06
-- **Most recent article:** 2024-06-15 04:43:59
+- **New articles in last harvest:** 5
+- **Last harvest:** 2024-06-16 19:06
+- **Most recent article:** 2024-06-15 18:00:58
 
 ---
 
@@ -12,9 +12,9 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 56 | 87 | 58 | 61 | 64 | 100 | 426 |
-| h5n1 | 57 | 63 | 95 | 65 | 78 | 53 | 411 |
-| malaria | 29 | 13 | 17 | 25 | 21 | 36 | 141 |
+| dengue | 53 | 87 | 58 | 61 | 64 | 102 | 425 |
+| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 413 |
+| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 141 |
 | measles | 9 | 29 | 15 | 16 | 11 | 7 | 87 |
 | mpox | 3 | 10 | 9 | 16 | 8 | 26 | 72 |
 | rabies | 22 | 10 | 8 | 15 | 9 | 2 | 66 |
@@ -171,6 +171,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-24 (malaria)
 
+- [Kahden malarialoisen perimä kertoo, kuinka tappava tauti levisi maailmalla – tautia oli Pohjolassakin](https://yle.fi/a/74-20094258) (YLE News)
+
 - [Ancient DNA Illuminates the History of Malaria, One of the World's Deadliest Diseases](https://www.smithsonianmag.com/smart-news/ancient-dna-illuminates-the-history-of-malaria-one-of-the-worlds-deadliest-diseases-180984547/) (Smithsonian.com)
 
 - [Tässä on maailman vaarallisin eläin](https://www.iltalehti.fi/terveysuutiset/a/6324c3a0-c540-4c01-968d-65e88d0fa83e) (Iltalehti.fi)
@@ -258,6 +260,10 @@ Source: [News API](https://newsapi.org/)
 - [「Gaudi 3はNVIDIA GPUを超えるAI性能」とインテル鈴木会長。インテルAI Summit Japanレポート](https://pc.watch.impress.co.jp/docs/news/1599041.html) (Impress.co.jp)
 
 ## 24-24 (h5n1)
+
+- [Кипячения снизило содержание вируса H5N1 (птичьего гриппа) в сыром молоке](https://www.ferra.ru/news/health/kipyacheniya-snizilo-soderzhanie-virusa-h5n1-ptichego-grippa-v-syrom-moloke-15-06-2024.htm) (Ferra.ru)
+
+- [COVID-19, Ebola, bird flu: What to know about zoonotic diseases - National | Globalnews.ca](https://globalnews.ca/news/10562534/zoonotic-diseases-h5n1-covid-19/) (Global News)
 
 - [下一次疫情会是禽流感吗](http://jandan.net/p/116795) (Jandan.net)
 
@@ -366,6 +372,10 @@ Source: [News API](https://newsapi.org/)
 - [【人類終了】女児が鳥インフルエンザに感染したと発表 ＼(^o^)／ｵﾜﾀ 豪](http://blog.livedoor.jp/rbkyn844/archives/10654686.html) (Livedoor.jp)
 
 ## 24-24 (dengue)
+
+- [Pediatra esclarece mitos e verdades sobre dengue em crianças](https://www.terra.com.br/vida-e-estilo/saude/pediatra-esclarece-mitos-e-verdades-sobre-dengue-em-criancas,cf3dddc6ccde13584b891e8c01ce7607ptn4n6fj.html) (Terra.com.br)
+
+- [How scientists are using technology to limit the spread of tropical diseases](https://www.cbsnews.com/video/how-scientists-are-using-technology-to-limit-the-spread-of-tropical-diseases/) (CBS News)
 
 - [בבית החולים עם הנוף היפה בעולם: דנגי בתאילנד, הסיפור שלי](https://www.ynet.co.il/health/article/s15syg00ra) (Ynet)
 
@@ -2759,8 +2769,6 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
-- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
-
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -2998,12 +3006,6 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
-
-- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
-
-- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
-
-- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 
