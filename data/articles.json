@@ -1,8 +1,45 @@
 {
-  "last_updated": "2024-06-16 19:06",
-  "count_articles_total": 1342,
-  "count_articles_new": 5,
+  "last_updated": "2024-06-17 07:05",
+  "count_articles_total": 1354,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 10237,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Record.com.mx",
+      "author": "Record.com.mx",
+      "title": "Alertan de un virus que se contagia por la picadura de mosco en Latinoam\u00e9rica",
+      "description": "El virus puede provocar meningitis o encefalitis y no hay vacunas ni medicamentos espec\u00edficos para prevenir o tratar esta infecci\u00f3n",
+      "url": "https://www.record.com.mx/contra/alertan-de-un-virus-que-se-contagia-por-la-picadura-de-mosco-en-latinoamerica",
+      "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/06/15/proyecto_nuevo_99.jpg",
+      "publishedAt": "2024-06-16 00:22:18",
+      "content": "Se ha reportado de un virus que a\u00fan no es conocido en Am\u00e9rica Latina que podr\u00eda provocar una alerta epidemiol\u00f3gica de la Organizaci\u00f3n Panamericana de la Salud (OPS) y la Organizaci\u00f3n Mundial de la Sa\u2026 [+1612 chars]",
+      "retrievedAt": "2024-06-17 07:05:55.688688",
+      "internal_id": "64e17457c6044e1d2fcfc29d20dee81e5cdba41b84ec28d3b8be0beba649dfbb",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10230,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencialdigital.com",
+      "author": "Mariel Delgado",
+      "title": "R\u00e9cord de peticiones para vacunarse antes de viajar a pa\u00edses tropicales",
+      "description": "Listas de espera: demoras de dos meses Epidemia de dengue Casos importados en Espa\u00f1a Crece la incidencia del zika en Tailandia Procedimiento de vacunaci\u00f3n...",
+      "url": "https://www.elconfidencialdigital.com/articulo/vivir/avalancha-peticiones-vacunarse-antes-viajar-paises-exoticos/20240616000000798259.html",
+      "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/06/13/2024061318331718858.jpg",
+      "publishedAt": "2024-06-15 22:00:00",
+      "content": "Listas de espera: demoras de dos mesesEpidemia de dengueCasos importados en Espa\u00f1aCrece la incidencia del zika en TailandiaProcedimiento de vacunaci\u00f3n\u2026 [+5172 chars]",
+      "retrievedAt": "2024-06-17 07:05:55.300151",
+      "internal_id": "86144d41a61a98bb9a7d42e446a0482c9559daae7371d947414649ec7febe921",
+      "publishedAtLabel": "Jun 15"
+    },
     {
       "id": 10229,
       "query": [
@@ -130,6 +167,24 @@
       "publishedAtLabel": "Jun 15"
     },
     {
+      "id": 10236,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Seznam.cz",
+      "author": null,
+      "title": "Zr\u00e1dn\u00e1 hore\u010dka dengue. Z cest si ji p\u0159iv\u00e1\u017e\u00ed st\u00e1le v\u00edce \u010cech\u016f",
+      "description": "Sta\u010dilo jedno \u0161t\u00edpnut\u00ed od kom\u00e1ra. Hore\u010dku dengue si z cest po tropick\u00fdch destinac\u00edch p\u0159ivezlo letos u\u017e \u0161est des\u00edtek \u010cech\u016f. P\u0159\u00edpad\u016f v\u00fdrazn\u011b p\u0159ibylo, po\u010dty se za\u010d\u00ednaj\u00ed bl\u00ed\u017eit hodnot\u00e1m za cel\u00fd lo\u0148sk\u00fd rok. Infektologov\u00e9 nab\u00e1daj\u00ed k o\u010dkov\u00e1n\u00ed a pou\u017e\u00edv\u00e1n\u00ed repelent\u016f, \u2026",
+      "url": "https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https:%2F%2Fwww.novinky.cz%2Fclanek%2Fdomaci-zradna-horecka-dengue-z-cest-si-ji-privazi-stale-vice-cechu-40476388%3Fcwreturn%3D1",
+      "urlToImage": null,
+      "publishedAt": "2024-06-15 04:03:00",
+      "content": "Dolo k chyb pi na\u00edt\u00e1n\u00ed skriptu na t\u00e9to str\u00e1nce. Tato chyba me b\u00fdt zpsobena pouit\u00edm roz\u00eden\u00ed prohl\u00edee nebo blok\u00e1tor, kter\u00e9 mohou ovlivnit na\u00edt\u00e1n\u00ed str\u00e1nky. Pro spr\u00e1vnou funknost str\u00e1nky pros\u00edme, deakti\u2026 [+275 chars]",
+      "retrievedAt": "2024-06-17 07:05:55.456531",
+      "internal_id": "4e4d53b7da31ab2b15ed90b362d3ea74636906ff50ab60fa9618c1e09f928771",
+      "publishedAtLabel": "Jun 15"
+    },
+    {
       "id": 10219,
       "query": [
         "dengue"
@@ -181,6 +236,24 @@
       "content": "PETALING JAYA: The newly-launched dengue vaccine, Qdenga, is being offered at some clinics for over RM500, which is believed to be nearly three times higher than the suppliers price. The Star learnt\u2026 [+2054 chars]",
       "retrievedAt": "2024-06-16 07:06:03.267682",
       "internal_id": "c5b9429324b72cf089da2b7173b55991075856d2e7127d76d231fa497e57920a",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 10235,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "RM1.6mil in fines over health regulation violations",
+      "description": "PUTRAJAYA: Fines totalling RM1.6mil were issued in May to individuals who breached rules about smoking in public places while one person was jailed for breaking laws meant to curb the spread of Aedes mosquitoes which cause dengue. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/06/15/rm16mil-in-fines-overhealth-regulation-violations",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/06/15/2750248.jpeg",
+      "publishedAt": "2024-06-14 23:00:00",
+      "content": "PUTRAJAYA: Fines totalling RM1.6mil were issued in May to individuals who breached rules about smoking in public places while one person was jailed for breaking laws meant to curb the spread of Aedes\u2026 [+931 chars]",
+      "retrievedAt": "2024-06-17 07:05:55.451167",
+      "internal_id": "4f0dc09bdfb61c4ffb61442f5bdbb118c1e915597ff77de098dc14f63938690d",
       "publishedAtLabel": "Jun 14"
     },
     {
@@ -1057,6 +1130,24 @@
       "publishedAtLabel": "Jun 13"
     },
     {
+      "id": 10231,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Ap\u00f3s interna\u00e7\u00e3o por conta de gastroenterite e influenza, Lulu Santos \u00e9 diagnosticado com dengue",
+      "description": "Ap\u00f3s precisar cancelar dois shows no \u00faltimo final de semana, Lulu Santos ter\u00e1 de ficar mais um ...",
+      "url": "https://www.terra.com.br/diversao/musica/apos-internacao-por-conta-de-gastroenterite-e-influenza-lulu-santos-e-diagnosticado-com-dengue,3fbae759216ebe64ebd22ae602db4affko7tmgbs.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-06-13 17:24:48",
+      "content": "Ap\u00f3s precisar cancelar dois shows no \u00faltimo final de semana, Lulu Santos ter\u00e1 de ficar mais um tempo afastado dos palcos. O cantor, que chegou a ser internado por conta de complica\u00e7\u00f5es de uma gastroe\u2026 [+906 chars]",
+      "retrievedAt": "2024-06-17 07:05:55.417536",
+      "internal_id": "378d41d172ba4348e59cace4005bb33bc99819093389d57663869902b2b4f367",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
       "id": 10144,
       "query": [
         "h5n1"
@@ -1165,6 +1256,24 @@
       "publishedAtLabel": "Jun 13"
     },
     {
+      "id": 10234,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Pipoca Moderna",
+      "title": "Lulu Santos \u00e9 diagnosticado com dengue tr\u00eas dias ap\u00f3s alta hospitalar",
+      "description": "Lulu Santos foi diagnosticado com dengue nesta quinta-feira (13/6), tr\u00eas dias ap\u00f3s receber alta ...",
+      "url": "https://www.terra.com.br/diversao/musica/lulu-santos-e-diagnosticado-com-dengue-tres-dias-apos-alta-hospitalar,6d4b43c99b16fc0ab6dfedae837f9ca9uq9qwoh5.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/13/294614501-lulu-santos.jpg",
+      "publishedAt": "2024-06-13 15:08:34",
+      "content": "Lulu Santos foi diagnosticado com dengue nesta quinta-feira (13/6), tr\u00eas dias ap\u00f3s receber alta hospitalar. O cantor estava internado com gastroenterite aguda, que foi diagnosticado pouco ap\u00f3s testar\u2026 [+1276 chars]",
+      "retrievedAt": "2024-06-17 07:05:55.445950",
+      "internal_id": "871c5aebf4489dfe7aec3767e7024ae879cda5a93301cebaf0c9790207b41c04",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
       "id": 10141,
       "query": [
         "h5n1"
@@ -1180,6 +1289,24 @@
       "content": "M\u00e1r a szakemberek is agg\u00f3dnak a mad\u00e1rinfluenza terjed\u00e9se miatt. A fertz\u00e9s H5N1 vari\u00e1nsa m\u00e1r vil\u00e1gszerte madarak t\u00edzmilli\u00f3inak hal\u00e1l\u00e1t okozta, de 40 ezer f\u00f3ka (\u00e9s oroszl\u00e1nf\u00f3ka) is elpusztult miatta. \u2026 [+3343 chars]",
       "retrievedAt": "2024-06-14 19:05:34.499364",
       "internal_id": "2c3731621d98175bda51ec02d1c48648b79bec1798b702462a20a5646a3e855f",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10233,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "J.A. G\u00f3mez",
+      "title": "La OMS alerta sobre la 'explosi\u00f3n' del dengue: ya hay m\u00e1s casos en el mundo que en todo 2023",
+      "description": "Entre enero y abril de 2024 se han notificado 7,9 millones de contagios y 4.000 muertes en 79 pa\u00edses, seg\u00fan la Organizaci\u00f3n Mundial de la Salud.",
+      "url": "https://www.elespanol.com/ciencia/salud/20240613/oms-alerta-explosion-dengue-casos-mundo/862664115_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/06/13/ciencia/salud/862674396_243997844_1706x960.jpg",
+      "publishedAt": "2024-06-13 14:54:31",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido del aumento de los casos de dengue debido al cambio clim\u00e1tico y la globalizaci\u00f3n, entre otras causas ya que, entre enero y abril de 2024 se han \u2026 [+4862 chars]",
+      "retrievedAt": "2024-06-17 07:05:55.436771",
+      "internal_id": "3ad9f4c4b3a3e40d259af0639672b4266e81d1b708bf69353104a034b116be83",
       "publishedAtLabel": "Jun 13"
     },
     {
@@ -1360,6 +1487,24 @@
       "content": "La primera transmisi\u00f3n de dengue local en Europa tuvo lugar en 2010, con casos reportados en Francia y Croacia. Desde entonces, si bien siguen dominando los casos importados, cada vez hay m\u00e1s brotes \u2026 [+4546 chars]",
       "retrievedAt": "2024-06-14 19:05:35.342174",
       "internal_id": "e13ba6029904fe97dd4beaa24c5d24fee61027816c5f9cd8a626eebf303d56f7",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 10232,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS advierte del aumento del dengue: 8 millones de casos en cuatro meses, 2 millones m\u00e1s que en todo el a\u00f1o 2023",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido del aumento de los casos de dengue debido al cambio clim\u00e1tico y la globalizaci\u00f3n, entre otras causas ya que, entre enero y abril de 2024 se han notificado 7,9 millones de casos y 4.000 muertes en 79 pa\u00edse\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-oms-advierte-aumento-dengue-millones-casos-cuatro-meses-millones-mas-todo-ano-2023-20240613151050.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240613151050_1200.jpg",
+      "publishedAt": "2024-06-13 13:10:50",
+      "content": "Am\u00e9rica es la regi\u00f3n m\u00e1s afectada, pero Europa a\u00fan tiene 0 casos MADRID, 13 Jun. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido del aumento de los casos de dengue debido\u2026 [+4955 chars]",
+      "retrievedAt": "2024-06-17 07:05:55.422871",
+      "internal_id": "fb5b15d3eb374e3d6e441485833140577582c5df1ca3ce2978b1d75708841bc8",
       "publishedAtLabel": "Jun 13"
     },
     {
@@ -1582,7 +1727,8 @@
       "id": 10167,
       "query": [
         "malaria",
-        "chikungunya"
+        "chikungunya",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Business Standard",
@@ -24230,6 +24376,78 @@
       "content": "Myggarten gulafebernmyggan b\u00f6rjade flytta in i s\u00f6dra Kalifornien omkring 2014. Den riktar speciellt in sig p\u00e5 m\u00e4nniskor och kan b\u00e4ra p\u00e5 virus som chikungunya, zika och dengue och gula febern. Den lo\u2026 [+228 chars]",
       "retrievedAt": "2024-05-07 07:07:05.076545",
       "internal_id": "b036db975e42ac14ae9f1823491b2a1857fbf3d339e2824ada1521497f9d63cb",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8884,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados",
+      "description": "No pa\u00eds, 21 estados e o Distrito Federal est\u00e3o em tend\u00eancia de queda ou estabilidade na incid\u00eancia de dengue. Outras cinco unidades federativas ainda apresentam alta da doen\u00e7a",
+      "url": "https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2024-05-05 17:13:05",
+      "content": "O Estado de S\u00e3o Paulo chegou a 587 mortes por dengue em 2024, segundo dados do painel de monitoramento da Secretaria Estadual da Sa\u00fade deste domingo (5). Outras 719 mortes est\u00e3o em investiga\u00e7\u00e3o. O es\u2026 [+2275 chars]",
+      "retrievedAt": "2024-05-06 19:05:27.899957",
+      "internal_id": "9b4e1c0b521d87ca54107e9873edcdf263aa31c987273811247d42eff1f89a81",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8883,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luiz Vassallo",
+      "title": "Munic\u00edpios ter\u00e3o de pagar R$ 300 mil por morte de crian\u00e7a com dengue",
+      "description": "Justi\u00e7a de SP considerou que neglig\u00eancia de m\u00e9dicos dos munic\u00edpios de Sumar\u00e9 e Nova Odessa levou \u00e0 morte de crian\u00e7a de 13 anos com dengue",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-05-05 15:01:37",
+      "content": "S\u00e3o Paulo O Tribunal de Justi\u00e7a de S\u00e3o Paulo (TJSP) condenou dois munic\u00edpios do interior de S\u00e3o Paulo a indenizarem em R$ 300 mil o pai de uma crian\u00e7a que morreu de dengue em raz\u00e3o da neglig\u00eancia m\u00e9d\u2026 [+1602 chars]",
+      "retrievedAt": "2024-05-06 19:05:27.880444",
+      "internal_id": "03a02e04614d510c04f09b6bb87d4211a82c2feaf68e8a973dae49b2446b512a",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8885,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases surpass 11,000 in Bagmati Province",
+      "description": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total of 11,409 cases have been diagnosed since the commencement o\u2026",
+      "url": "https://english.khabarhub.com/2024/05/354188/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-05-05 14:15:17",
+      "content": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total\u2026 [+945 chars]",
+      "retrievedAt": "2024-05-06 19:05:27.935323",
+      "internal_id": "bd805cf9d09aaca253f43d9ea3e77cff097a31fdaeb260576323187444d13def",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8891,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Financial News",
+      "author": null,
+      "title": "Tackling Malaria: Nigeria's Efforts and Challenges",
+      "description": "Federal Government of Nigeria is taking quick measures to tackle and eliminate malaria. Measures include intensifying case management, mobilizing funding, enhancing community involvement, and exploring innovative service delivery. Coordination Minister expres\u2026",
+      "url": "https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges",
+      "urlToImage": "https://storage.financialnews.com/10141/6637014fdec5f.webp",
+      "publishedAt": "2024-05-05 10:40:57",
+      "content": "Malaria is a deadly disease caused by parasites transmitted to humans through the bites of infected mosquitoes. It is a major public health concern in Nigeria, with millions of cases reported annuall\u2026 [+3610 chars]",
+      "retrievedAt": "2024-05-07 07:07:05.691610",
+      "internal_id": "205d4a96c931ebd9358276362996805a4f3aadaaf893a121e26a98446f806075",
       "publishedAtLabel": "May 5"
     }
   ]

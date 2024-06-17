@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2024-06-16 19:06
-- **Most recent article:** 2024-06-15 18:00:58
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-06-17 07:05
+- **Most recent article:** 2024-06-16 00:22:18
 
 ---
 
@@ -10,30 +10,36 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 53 | 87 | 58 | 61 | 64 | 102 | 425 |
-| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 413 |
-| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 141 |
-| measles | 9 | 29 | 15 | 16 | 11 | 7 | 87 |
-| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 72 |
-| rabies | 22 | 10 | 8 | 15 | 9 | 2 | 66 |
-| chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 57 |
-| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 42 |
-| hpai | 4 | 3 | 7 | 12 | 2 | 4 | 32 |
-| meningitis | 5 | 9 | 4 | 1 | 6 | 3 | 28 |
-| zika | 2 | 6 | 3 | 3 | 0 | 11 | 25 |
-| leptospirosis | 1 | 3 | 0 | 5 | 1 | 1 | 11 |
-| yersinia | 1 | 0 | 6 | 0 | 1 | 0 | 8 |
-| typhoid | 3 | 2 | 0 | 0 | 1 | 1 | 7 |
-| sarampión | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 56 | 87 | 58 | 61 | 64 | 110 | 0 | 436 |
+| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 0 | 413 |
+| malaria | 29 | 13 | 17 | 25 | 21 | 37 | 0 | 142 |
+| measles | 9 | 29 | 15 | 16 | 11 | 7 | 0 | 87 |
+| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 0 | 72 |
+| rabies | 22 | 10 | 8 | 15 | 9 | 2 | 0 | 66 |
+| chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 0 | 57 |
+| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 0 | 42 |
+| hpai | 4 | 3 | 7 | 12 | 2 | 4 | 0 | 32 |
+| meningitis | 5 | 9 | 4 | 1 | 6 | 3 | 1 | 29 |
+| zika | 2 | 6 | 3 | 3 | 0 | 12 | 0 | 26 |
+| leptospirosis | 1 | 3 | 0 | 5 | 1 | 1 | 0 | 11 |
+| yersinia | 1 | 0 | 6 | 0 | 1 | 0 | 0 | 8 |
+| typhoid | 3 | 2 | 0 | 0 | 1 | 1 | 0 | 7 |
+| sarampión | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-25 (meningitis)
+
+- [Alertan de un virus que se contagia por la picadura de mosco en Latinoamérica](https://www.record.com.mx/contra/alertan-de-un-virus-que-se-contagia-por-la-picadura-de-mosco-en-latinoamerica) (Record.com.mx)
+
 ## 24-24 (zika)
+
+- [Récord de peticiones para vacunarse antes de viajar a países tropicales](https://www.elconfidencialdigital.com/articulo/vivir/avalancha-peticiones-vacunarse-antes-viajar-paises-exoticos/20240616000000798259.html) (Elconfidencialdigital.com)
 
 - [Primul caz din Europa de febră Oropouche, diagnosticat în Italia](https://www.mediafax.ro/sanatate/primul-caz-din-europa-de-febra-oropouche-diagnosticat-in-italia-22407260) (Mediafax.ro)
 
@@ -373,6 +379,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-24 (dengue)
 
+- [Récord de peticiones para vacunarse antes de viajar a países tropicales](https://www.elconfidencialdigital.com/articulo/vivir/avalancha-peticiones-vacunarse-antes-viajar-paises-exoticos/20240616000000798259.html) (Elconfidencialdigital.com)
+
 - [Pediatra esclarece mitos e verdades sobre dengue em crianças](https://www.terra.com.br/vida-e-estilo/saude/pediatra-esclarece-mitos-e-verdades-sobre-dengue-em-criancas,cf3dddc6ccde13584b891e8c01ce7607ptn4n6fj.html) (Terra.com.br)
 
 - [How scientists are using technology to limit the spread of tropical diseases](https://www.cbsnews.com/video/how-scientists-are-using-technology-to-limit-the-spread-of-tropical-diseases/) (CBS News)
@@ -381,9 +389,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue cases drop last week, no deaths reported](https://www.thestar.com.my/news/nation/2024/06/15/dengue-cases-drop-last-week-no-deaths-reported) (The Star Online)
 
+- [Zrádná horečka dengue. Z cest si ji přiváží stále více Čechů](https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https:%2F%2Fwww.novinky.cz%2Fclanek%2Fdomaci-zradna-horecka-dengue-z-cest-si-ji-privazi-stale-vice-cechu-40476388%3Fcwreturn%3D1) (Seznam.cz)
+
 - [Dengue : record de cas importés en France dans un contexte épidémique explosif](https://www.lemonde.fr/planete/article/2024/06/15/dengue-record-de-cas-importes-en-france-dans-un-contexte-epidemique-explosif_6240176_3244.html) (Le Monde)
 
 - [Dengue vaccine price soars](https://www.thestar.com.my/news/nation/2024/06/15/dengue-vaccine-price-soars) (The Star Online)
+
+- [RM1.6mil in fines over health regulation violations](https://www.thestar.com.my/news/nation/2024/06/15/rm16mil-in-fines-overhealth-regulation-violations) (The Star Online)
 
 - [Dengue em Campinas: veja os 10 locais com mais testes positivos durante a epidemia](https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/14/dengue-em-campinas-veja-os-10-locais-com-mais-testes-positivos-durante-a-epidemia.ghtml) (Globo)
 
@@ -417,9 +429,15 @@ Source: [News API](https://newsapi.org/)
 
 - [How Paris Olympics Could Become Super-Spreader Event...](https://studyfinds.org/paris-olympics-could-become-super-spreader-event-for-dengue-expert-warns/) (Study Finds)
 
+- [Após internação por conta de gastroenterite e influenza, Lulu Santos é diagnosticado com dengue](https://www.terra.com.br/diversao/musica/apos-internacao-por-conta-de-gastroenterite-e-influenza-lulu-santos-e-diagnosticado-com-dengue,3fbae759216ebe64ebd22ae602db4affko7tmgbs.html) (Terra.com.br)
+
 - [Lulu Santos remarca shows após ser diagnosticado com dengue](https://www.terra.com.br/diversao/gente/lulu-santos-remarca-shows-apos-ser-diagnosticado-com-dengue,2e77cd2c6ce4a7aa9073d987dec21c65mh27sfbp.html) (Terra.com.br)
 
 - [Lulu Santos é diagnosticado com dengue e remarca shows](https://www.terra.com.br/diversao/gente/lulu-santos-e-diagnosticado-com-dengue-e-remarca-shows,2e77cd2c6ce4a7aa9073d987dec21c65mh27sfbp.html) (Terra.com.br)
+
+- [Lulu Santos é diagnosticado com dengue três dias após alta hospitalar](https://www.terra.com.br/diversao/musica/lulu-santos-e-diagnosticado-com-dengue-tres-dias-apos-alta-hospitalar,6d4b43c99b16fc0ab6dfedae837f9ca9uq9qwoh5.html) (Terra.com.br)
+
+- [La OMS alerta sobre la 'explosión' del dengue: ya hay más casos en el mundo que en todo 2023](https://www.elespanol.com/ciencia/salud/20240613/oms-alerta-explosion-dengue-casos-mundo/862664115_0.html) (Elespanol.com)
 
 - [Lulu Santos é diagnosticado com dengue após gastroenterite e influenza](https://gente.ig.com.br/celebridades/2024-06-13/lulu-santos-e-diagnosticado-com-dengue-apos-gastroenterite-e-influenza.html) (Ig.com.br)
 
@@ -431,6 +449,8 @@ Source: [News API](https://newsapi.org/)
 
 - [El dengue se dispara en Europa: ¿y ahora qué?](http://hipertextual.com/2024/06/dengue-europa) (Hipertextual)
 
+- [La OMS advierte del aumento del dengue: 8 millones de casos en cuatro meses, 2 millones más que en todo el año 2023](https://www.infosalus.com/salud-investigacion/noticia-oms-advierte-aumento-dengue-millones-casos-cuatro-meses-millones-mas-todo-ano-2023-20240613151050.html) (Infosalus.com)
+
 - [Alarmă în România: Temutul țânțar-tigru a ajuns pe meleagurile noastre. Epidemiolog: „O singură înțepătură este suficientă pentru transmiterea Dengue”](https://adevarul.ro/stiri-interne/sanatate/alarma-in-romania-temutul-tantar-tigru-a-ajuns-pe-2368321.html) (Adevarul.ro)
 
 - [La amenaza de dengue llega a Europa: cómo reconocer la infección y qué hacer para evitarla](https://www.elmundo.es/ciencia-y-salud/salud/2024/06/13/666ac303fdddff89458b45a5.html) (El Mundo)
@@ -440,6 +460,8 @@ Source: [News API](https://newsapi.org/)
 - [Aumentan en Europa los casos de dengue y brotes de infecciones por el virus del Nilo Occidental](https://www.huffingtonpost.es/life/salud/expertos-alerta-internacional-turistas-plagas-rp.html) (Huffingtonpost.es)
 
 - [Zanzare tigre: cosa le attira e come evitare le punture](https://www.ilgiornale.it/news/benessere/tutto-che-c-sapere-sulla-zanzara-tigre-e-proteggersi-2332391.html) (Ilgiornale.it)
+
+- [Breeding of vector-borne diseases spiked by 90% in Delhi in 2023: MCD](https://www.business-standard.com/india-news/breeding-of-vector-borne-diseases-spiked-by-90-in-delhi-in-2023-mcd-124061300386_1.html) (Business Standard)
 
 - [Denguefieber – worauf muss ich in Europa achten?](https://www.welt.de/podcasts/aha-zehn-minuten-alltags-wissen/article251994190/Denguefieber-worauf-muss-ich-in-Europa-achten-Podcast.html) (DIE WELT)
 
@@ -2769,6 +2791,8 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
+- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
+
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -3006,6 +3030,12 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
+
+- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
+
+- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
+
+- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 
