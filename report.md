@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-06-17 07:05
-- **Most recent article:** 2024-06-16 00:22:18
+- **New articles in last harvest:** 6
+- **Last harvest:** 2024-06-17 19:05
+- **Most recent article:** 2024-06-16 17:35:53
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 56 | 87 | 58 | 61 | 64 | 110 | 0 | 436 |
-| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 0 | 413 |
-| malaria | 29 | 13 | 17 | 25 | 21 | 37 | 0 | 142 |
+| dengue | 53 | 87 | 58 | 61 | 64 | 110 | 1 | 434 |
+| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 1 | 414 |
+| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 1 | 142 |
 | measles | 9 | 29 | 15 | 16 | 11 | 7 | 0 | 87 |
-| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 0 | 72 |
+| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 1 | 73 |
 | rabies | 22 | 10 | 8 | 15 | 9 | 2 | 0 | 66 |
 | chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 0 | 57 |
-| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 0 | 42 |
-| hpai | 4 | 3 | 7 | 12 | 2 | 4 | 0 | 32 |
+| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 2 | 44 |
+| hpai | 4 | 3 | 7 | 12 | 2 | 4 | 1 | 33 |
 | meningitis | 5 | 9 | 4 | 1 | 6 | 3 | 1 | 29 |
 | zika | 2 | 6 | 3 | 3 | 0 | 12 | 0 | 26 |
 | leptospirosis | 1 | 3 | 0 | 5 | 1 | 1 | 0 | 11 |
@@ -33,9 +33,35 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-25 (pertussis)
+
+- [Surto de coqueluche alerta para importância da vacinação](https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/) (Catracalivre.com.br)
+
+- [O que é coqueluche? Entenda a doença que está em ascensão no Brasil](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html) (Terra.com.br)
+
+## 24-25 (mpox)
+
+- [Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance](https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/) (Briefly.co.za)
+
 ## 24-25 (meningitis)
 
 - [Alertan de un virus que se contagia por la picadura de mosco en Latinoamérica](https://www.record.com.mx/contra/alertan-de-un-virus-que-se-contagia-por-la-picadura-de-mosco-en-latinoamerica) (Record.com.mx)
+
+## 24-25 (malaria)
+
+- [Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study](https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640) (NDTV News)
+
+## 24-25 (hpai)
+
+- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
+
+## 24-25 (h5n1)
+
+- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
+
+## 24-25 (dengue)
+
+- [Como diferenciar sintomas da dengue e leptospirose?](https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/) (Olhardigital.com.br)
 
 ## 24-24 (zika)
 
@@ -2791,8 +2817,6 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
-- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
-
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -3030,12 +3054,6 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
-
-- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
-
-- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
-
-- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 
