@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-06-18 07:05
-- **Most recent article:** 2024-06-17 01:34:48
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-06-18 19:05
+- **Most recent article:** 2024-06-17 18:43:32
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 56 | 87 | 58 | 61 | 64 | 115 | 2 | 443 |
-| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 1 | 414 |
-| malaria | 29 | 13 | 17 | 25 | 21 | 37 | 1 | 143 |
-| measles | 9 | 29 | 15 | 16 | 11 | 7 | 0 | 87 |
+| dengue | 53 | 87 | 58 | 61 | 64 | 115 | 9 | 447 |
+| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 3 | 416 |
+| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 3 | 144 |
+| measles | 9 | 29 | 15 | 16 | 11 | 7 | 2 | 89 |
 | mpox | 3 | 10 | 9 | 16 | 8 | 26 | 1 | 73 |
 | rabies | 22 | 10 | 8 | 15 | 9 | 2 | 0 | 66 |
-| chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 0 | 57 |
-| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 4 | 46 |
+| chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 3 | 60 |
+| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 6 | 48 |
 | hpai | 4 | 3 | 7 | 12 | 2 | 4 | 1 | 33 |
 | meningitis | 5 | 9 | 4 | 1 | 6 | 3 | 1 | 29 |
 | zika | 2 | 6 | 3 | 3 | 0 | 12 | 0 | 26 |
 | leptospirosis | 1 | 3 | 0 | 5 | 1 | 1 | 0 | 11 |
+| typhoid | 3 | 2 | 0 | 0 | 1 | 1 | 1 | 8 |
 | yersinia | 1 | 0 | 6 | 0 | 1 | 0 | 0 | 8 |
-| typhoid | 3 | 2 | 0 | 0 | 1 | 1 | 0 | 7 |
 | sarampión | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
@@ -33,7 +33,15 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-25 (typhoid)
+
+- [Jürg Federspiel: Operation am offenen Herzen](https://www.zeit.de/2024/26/juerg-federspiel-typhoid-mary-typhus-usa-literatur-immigration) (Die Zeit)
+
 ## 24-25 (pertussis)
+
+- [Quem deve tomar reforço da vacina de coqueluche? Proteção dura de 5 a 10 anos](https://www.terra.com.br/vida-e-estilo/saude/quem-deve-tomar-reforco-da-vacina-de-coqueluche-protecao-dura-de-5-a-10-anos,30e3ddc0fe31ea79d1de39d0f948ee40zoesvguj.html) (Terra.com.br)
+
+- [Guidance: Pertussis: occupational vaccination of health care workers](https://www.gov.uk/government/publications/pertussis-occupational-vaccination-of-health-care-workers) (Www.gov.uk)
 
 - [Bacolod: Confirmed pertussis cases rise to 36 in NegOcc](https://rpnradio.com/bacolod-confirmed-pertussis-cases-rise-to-36-in-negocc/) (Rpnradio.com)
 
@@ -51,7 +59,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Alertan de un virus que se contagia por la picadura de mosco en Latinoamérica](https://www.record.com.mx/contra/alertan-de-un-virus-que-se-contagia-por-la-picadura-de-mosco-en-latinoamerica) (Record.com.mx)
 
+## 24-25 (measles)
+
+- [Measles: 56 cases confirmed in Ireland so far this year](https://www.thejournal.ie/how-many-measles-cases-in-ireland-2-6411763-Jun2024/) (TheJournal.ie)
+
+- [Colorado’s school vaccination rate hovers below level needed for herd immunity](https://www.denverpost.com/2024/06/17/colorado-school-vaccination-rate-kindergarten-measles/) (The Denver Post)
+
 ## 24-25 (malaria)
+
+- [Malaria Vaccine Saves Children’s Lives In Malawi](https://www.forbes.com/sites/unicefusa/2024/06/17/malaria-vaccine-saves-childrens-lives-in-malawi/) (Forbes)
+
+- [Noul Participates in a Malaria Project Initiated by U.S. CDC with Kenya Medical Research Institute](https://www.investing.com/news/press-releases/noul-participates-in-a-malaria-project-initiated-by-us-cdc-with-kenya-medical-research-institute-93CH-3486734) (Investing.com)
 
 - [Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study](https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640) (NDTV News)
 
@@ -61,13 +79,39 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (h5n1)
 
+- [Eksperci obawiają się kolejnej pandemii. "Niepokój większy niż kiedykolwiek"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31067412,eksperci-obawiaja-sie-kolejnej-pandemii-niepokoj-wiekszy-niz.html) (Gazeta.pl)
+
+- [Bird flu snapshot: A critic of the U.S. response speaks out](https://www.statnews.com/2024/06/17/bird-flu-snapshot-seth-berkley-usda-tom-vilsack/) (STAT)
+
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
 
+- [Health dept adds Saligao and Aldona to dengue high-risk list](https://timesofindia.indiatimes.com/city/goa/health-dept-adds-saligao-and-aldona-to-dengue-high-risk-list/articleshow/111066583.cms) (The Times of India)
+
+- [UBS em Anápolis atende em novo horário após redução de casos de dengue](https://www.metropoles.com/brasil/ubs-em-anapolis-atende-em-novo-horario-apos-reducao-de-casos-de-dengue) (Metropoles.com)
+
+- [Região de Campinas recebe 4,7 mil doses de vacina contra dengue; veja a lista por cidade](https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/17/regiao-de-campinas-recebe-47-mil-doses-de-vacina-contra-dengue-veja-a-lista-por-cidade.ghtml) (Globo)
+
+- [Wolbachia mediates crosstalk between miRNA and Toll pathways to enhance resistance to dengue virus in Aedes aegypti](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012296) (Plos.org)
+
+- [Már Magyarországon is beoltathatjuk magunkat dengue-láz ellen](https://hvg.hu/elet/20240617_mar-magyarorszagon-is-beadathatjuk-magunkat-a-dengue-laz-elleni-vedooltast) (Hvg.hu)
+
+- [Ez nagyon jól fog jönni: egyre terjedő súlyos betegség elleni oltás vált elérhetővé Magyarországon](https://www.portfolio.hu/gazdasag/20240617/ez-nagyon-jol-fog-jonni-egyre-terjedo-sulyos-betegseg-elleni-oltas-valt-elerhetove-magyarorszagon-692863) (Portfolio.hu)
+
+- [Nyaralók, figyelem: egzotikus és rejtélyes betegségre érkezett most védőoltás](https://index.hu/belfold/2024/06/17/vedooltas-oltokozpont-utazas-nyaralas-oltas/) (Index.hu)
+
 - [BMA, businesses join hands in dengue war](https://www.bangkokpost.com/thailand/general/2812004/bma-businesses-join-hands-in-dengue-war) (Bangkok Post)
 
 - [Como diferenciar sintomas da dengue e leptospirose?](https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/) (Olhardigital.com.br)
+
+## 24-25 (chikungunya)
+
+- [Bavarian Nordic Completes BLA Submission to U.S. FDA for its Chikungunya Vaccine Candidate](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Completes-BLA-Submission-to-U-S-FDA-for-its-Chikungunya-Vaccine-Candidate-46986441/) (Marketscreener.com)
+
+- [Bavarian Nordic Completes BLA Submission to U.S. FDA for its Chikungunya Vaccine Candidate](https://www.globenewswire.com/news-release/2024/06/17/2899781/0/en/Bavarian-Nordic-Completes-BLA-Submission-to-U-S-FDA-for-its-Chikungunya-Vaccine-Candidate.html) (GlobeNewswire)
+
+- [Bavarian Nordic indsender registreringsansøgning for chikungunya-vaccine til de amerikanske sundhedsmyndigheder](https://www.globenewswire.com/news-release/2024/06/17/2899781/0/da/Bavarian-Nordic-indsender-registreringsans%C3%B8gning-for-chikungunya-vaccine-til-de-amerikanske-sundhedsmyndigheder.html) (GlobeNewswire)
 
 ## 24-24 (zika)
 
@@ -2833,8 +2877,6 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
-- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
-
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -3072,12 +3114,6 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
-
-- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
-
-- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
-
-- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 
