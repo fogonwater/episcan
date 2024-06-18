@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-06-17 19:05
-- **Most recent article:** 2024-06-16 17:35:53
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-06-18 07:05
+- **Most recent article:** 2024-06-17 01:34:48
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 53 | 87 | 58 | 61 | 64 | 110 | 1 | 434 |
+| dengue | 56 | 87 | 58 | 61 | 64 | 115 | 2 | 443 |
 | h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 1 | 414 |
-| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 1 | 142 |
+| malaria | 29 | 13 | 17 | 25 | 21 | 37 | 1 | 143 |
 | measles | 9 | 29 | 15 | 16 | 11 | 7 | 0 | 87 |
 | mpox | 3 | 10 | 9 | 16 | 8 | 26 | 1 | 73 |
 | rabies | 22 | 10 | 8 | 15 | 9 | 2 | 0 | 66 |
 | chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 0 | 57 |
-| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 2 | 44 |
+| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 4 | 46 |
 | hpai | 4 | 3 | 7 | 12 | 2 | 4 | 1 | 33 |
 | meningitis | 5 | 9 | 4 | 1 | 6 | 3 | 1 | 29 |
 | zika | 2 | 6 | 3 | 3 | 0 | 12 | 0 | 26 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-25 (pertussis)
+
+- [Bacolod: Confirmed pertussis cases rise to 36 in NegOcc](https://rpnradio.com/bacolod-confirmed-pertussis-cases-rise-to-36-in-negocc/) (Rpnradio.com)
+
+- [O que é a tosse convulsa que está preocupando países da Europa?](https://gizmodo.uol.com.br/o-que-e-a-tosse-convulsa-que-esta-preocupando-paises-da-europa/) (Uol.com.br)
 
 - [Surto de coqueluche alerta para importância da vacinação](https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/) (Catracalivre.com.br)
 
@@ -60,6 +64,8 @@ Source: [News API](https://newsapi.org/)
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
+
+- [BMA, businesses join hands in dengue war](https://www.bangkokpost.com/thailand/general/2812004/bma-businesses-join-hands-in-dengue-war) (Bangkok Post)
 
 - [Como diferenciar sintomas da dengue e leptospirose?](https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/) (Olhardigital.com.br)
 
@@ -411,7 +417,13 @@ Source: [News API](https://newsapi.org/)
 
 - [How scientists are using technology to limit the spread of tropical diseases](https://www.cbsnews.com/video/how-scientists-are-using-technology-to-limit-the-spread-of-tropical-diseases/) (CBS News)
 
+- [Why do some people attract mosquito bites while others don't? Can our diet affect how appealing we are to mosquitoes as dengue fever spreads in Europe?](https://internewscast.com/news/why-do-some-people-attract-mosquito-bites-while-others-dont-can-our-diet-affect-how-appealing-we-are-to-mosquitoes-as-dengue-fever-spreads-in-europe/) (Internewscast.com)
+
+- [Dengue infection spreads over 71 districts](https://english.khabarhub.com/2024/15/361030/) (Khabarhub.com)
+
 - [בבית החולים עם הנוף היפה בעולם: דנגי בתאילנד, הסיפור שלי](https://www.ynet.co.il/health/article/s15syg00ra) (Ynet)
+
+- [Health D-G: Dengue cases drop from June 2-8, no deaths reported](https://www.malaymail.com/news/malaysia/2024/06/15/health-d-g-dengue-cases-drop-from-june-2-8-no-deaths-reported/139883) (Malay Mail)
 
 - [Dengue cases drop last week, no deaths reported](https://www.thestar.com.my/news/nation/2024/06/15/dengue-cases-drop-last-week-no-deaths-reported) (The Star Online)
 
@@ -428,6 +440,8 @@ Source: [News API](https://newsapi.org/)
 - [Primul caz din Europa de febră Oropouche, diagnosticat în Italia](https://www.mediafax.ro/sanatate/primul-caz-din-europa-de-febra-oropouche-diagnosticat-in-italia-22407260) (Mediafax.ro)
 
 - [Global surge in infectious diseases as over 40 countries report outbreaks 10-fold over pre-pandemic levels](https://www.globenewswire.com/news-release/2024/06/14/2899158/0/en/Global-surge-in-infectious-diseases-as-over-40-countries-report-outbreaks-10-fold-over-pre-pandemic-levels.html) (GlobeNewswire)
+
+- [Dengue cases as of Week 22 exceed 2023 figure: ministry](https://en.antaranews.com/news/316104/dengue-cases-as-of-week-22-exceed-2023-figure-ministry) (Antaranews.com)
 
 - [Dengue: Campinas revoga decreto de emergência pela doença](https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/14/dengue-campinas-revoga-decreto-de-emergencia-pela-doenca.ghtml) (Globo)
 
@@ -446,6 +460,8 @@ Source: [News API](https://newsapi.org/)
 - [Ssa: en un año, contagios de dengue aumentaron 4.8 veces; van 26 muertes](https://www.jornada.com.mx/2024/06/14/sociedad/033n3soc) (Jornada.com.mx)
 
 - [Santé. Hausse des cas de dengue en France et dans l’UE : faut-il craindre l'épidémie ?](https://www.ledauphine.com/magazine-sante/2024/06/14/hausse-des-cas-de-dengue-en-france-et-dans-l-ue-faut-il-craindre-l-epidemie) (Le Dauphiné Libéré)
+
+- [‘World’s hottest’ scientist Rosie Moore reveals dengue fever diagnosis](https://www.news.com.au/lifestyle/health/health-problems/worlds-hottest-scientist-rosie-moore-diagnosed-with-deadly-disease/news-story/cf1020a066d3cbb368ff82d249c6ebd2) (News.com.au)
 
 - [2 dengue deaths in Karnataka in 3 days, 400 cases since January](https://timesofindia.indiatimes.com/city/bengaluru/2-dengue-deaths-in-karnataka-in-3-days-400-cases-since-january/articleshow/110981932.cms) (The Times of India)
 
@@ -2817,6 +2833,8 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
+- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
+
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -3054,6 +3072,12 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
+
+- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
+
+- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
+
+- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 
