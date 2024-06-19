@@ -1,8 +1,299 @@
 {
-  "last_updated": "2024-06-19 07:06",
-  "count_articles_total": 1401,
-  "count_articles_new": 14,
+  "last_updated": "2024-06-19 19:05",
+  "count_articles_total": 1413,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 10292,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Carlos Cabrera-Lomel\u00ed",
+      "title": "Avian Flu: What to Know About H5N1 Virus Risks, Beyond the Headlines",
+      "description": "In 2024, the avian flu mutated enough to cause infections among cattle. Three human cases of the H5N1 have been confirmed in the United States \u2014 all reported among dairy workers in direct contact with infected cows. In light of this news, here\u2019s what research\u2026",
+      "url": "https://www.kqed.org/news/11990735/avian-flu-what-to-know-about-h5n1-virus-risks-beyond-the-headlines",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2024/06/CaliforniaCattle082311-1020x656.jpg",
+      "publishedAt": "2024-06-18 19:00:45",
+      "content": "The number of infected cattle herds across the country continues to grow. According to the Department of Agriculture (USDA), 92 herds in 12 states have confirmed H5N1 cases. And since the USDA does n\u2026 [+3531 chars]",
+      "retrievedAt": "2024-06-19 19:05:50.784786",
+      "internal_id": "a6b0aa63a82abf0e596982ab3d4068ab3deb2984c48053fa76be9eda829c5c5d",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10299,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "KABC-TV",
+      "author": "Denise Dador",
+      "title": "Mpox cases increase in LA County; health officials advise at-risk residents to take precautions",
+      "description": "Los Angeles County health officials reported a \"concerning increase\" of 10 new cases of mpox in the past two weeks, up from a countywide average of less than two cases per week.",
+      "url": "https://abc7.com/post/mpox-cases-increase-la-county-health-officials-advise/14967262/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14967161_061724-kabc-5p-la-mpox-vid.jpg?w=1600",
+      "publishedAt": "2024-06-18 18:25:37",
+      "content": "LOS ANGELES (KABC) -- The Los Angeles County Department of Public Health on Tuesday reported a \"concerning increase\" of 10 new cases of mpox in the past two weeks, up from a countywide average of les\u2026 [+1984 chars]",
+      "retrievedAt": "2024-06-19 19:05:52.515987",
+      "internal_id": "c7ad5ece85cae693796890c8576955a3f37caff73c4ef61bf53caba41dc8fcee",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10289,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bird Flu \u201cRuns Rampant\u201d In U.S. Dairy Cattle",
+      "description": "Mainstream media outlets are reporting that the bird flu outbreak is running rampant in dairy cattle in the United States. Now that the H5N1 avian influenza has infected an alpaca and polar bear, the fear-mongering has ramped up substantially.",
+      "url": "https://www.shtfplan.com/headline-news/bird-flu-runs-rampant-in-u-s-dairy-cattle",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/cowbirdflu.jpg",
+      "publishedAt": "2024-06-18 17:30:40",
+      "content": "Mainstream media outlets are reporting that the bird flu outbreak is running rampant in dairy cattle in the United States. Now that the H5N1 avian influenza has infected an alpaca and polar bear, the\u2026 [+2908 chars]",
+      "retrievedAt": "2024-06-19 19:05:50.760490",
+      "internal_id": "4cc6e826a8711c3dcddbba79be88e7f6516e942e137d40fe0c76151189f7b78c",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10297,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "El aumento de los casos de dengue pone en alerta a Francia de cara a los Juegos Ol\u00edmpicos",
+      "description": "En los primeros cuatro meses de 2024 Francia metropolitana registr\u00f3 1.679 casos importados.",
+      "url": "https://www.montevideo.com.uy/Salud/El-aumento-de-los-casos-de-dengue-pone-en-alerta-a-Francia-de-cara-a-los-Juegos-Olimpicos-uc891566",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201609/_W933_80/581339.jpg",
+      "publishedAt": "2024-06-18 16:59:00",
+      "content": "Las autoridades francesas han lanzado un plan de vigilancia ante el fuerte aumento de los casos importados de dengue y en previsi\u00f3n de que puedan subir a\u00fan m\u00e1s por la llegada de visitantes para lo\u2026 [+2866 chars]",
+      "retrievedAt": "2024-06-19 19:05:51.198122",
+      "internal_id": "f9139662a322c3f0fbf165d941709e8bd2b09b89e2a5a64fc4527ed698f129b0",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10293,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Study reveals huge increase in global economic cost of invasive mosquitoes and diseases they transmit",
+      "description": "An international study led by scientists from IRD, CNRS and MNHN reveals the massive increase in the global economic cost of the invasive Aedes aegypti and Aedes albopictus mosquitoes, vectors of dengue fever, chikugunya and the Zika virus, over the last few \u2026",
+      "url": "https://phys.org/news/2024-06-reveals-huge-global-economic-invasive.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/study-reveals-the-mass.jpg",
+      "publishedAt": "2024-06-18 16:47:33",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+4714 chars]",
+      "retrievedAt": "2024-06-19 19:05:51.138211",
+      "internal_id": "7bae5b06728c6050c77507aacabe24aceec0ac34fb438bbb1edf238b264239c9",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10296,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Valentina Moreira",
+      "title": "Cidade de S\u00e3o Paulo tem apenas 300 doses de vacina contra a dengue",
+      "description": "Vacina contra a dengue j\u00e1 est\u00e1 em falta nos postos de sa\u00fade da capital, segundo secret\u00e1rio; novas doses devem chegar at\u00e9 julho",
+      "url": "https://www.metropoles.com/sao-paulo/cidade-sp-tem-300-doses-vacina-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/03/21114824/dengue-ses-e1711122459118.jpg",
+      "publishedAt": "2024-06-18 16:25:29",
+      "content": "S\u00e3o Paulo A cidade de S\u00e3o Paulo conta, atualmente, com apenas 300 doses de vacina contra a dengue em seu estoque. Segundo a Secretaria Municipal de Sa\u00fade, a capital est\u00e1 pr\u00f3xima de zerar as doses e \u2026 [+2146 chars]",
+      "retrievedAt": "2024-06-19 19:05:51.189906",
+      "internal_id": "f4e648a148c9a420d21c982dcd55f4807ff141fb292895672e655ee805fd9c10",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10287,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Portland Mercury",
+      "author": "Courtney Vaughn",
+      "title": "Good Morning, News: Anti-vaxxers Bring Measles Back, Celtics Bring Home a Championship, and Seniors Bring Student Loan Debt into Retirement",
+      "description": "by Courtney Vaughn The Mercury provides news and fun every single day\u2014but your help is essential. If you believe Portland benefits from smart, local journalism and arts coverage, please consider making a small monthly contribution, because without you,\u2026",
+      "url": "https://www.portlandmercury.com/good-morning-news/2024/06/18/47263239/good-morning-news-anti-vaxxers-bring-measles-back-celtics-bring-home-a-championship-and-seniors-bring-student-loan-debt-into-retirement",
+      "urlToImage": "https://media1.fdncms.com/portmerc/imager/u/large/47263313/gettyimages-celtics_nba_champions_2024.jpg",
+      "publishedAt": "2024-06-18 15:57:00",
+      "content": "The Mercury provides news and fun every single daybut your help is essential. If you believe Portland benefits from smart, local journalism and arts coverage, please consider making a small monthly c\u2026 [+5969 chars]",
+      "retrievedAt": "2024-06-19 19:05:50.231189",
+      "internal_id": "1d66bf2aaa60cd86a993032d721ce9c6b6f40504f2b52ec194fbfc795e1f5ba7",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10298,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Dengue: Brasil se aproxima de 6 milh\u00f5es de casos e 4 mil mortes",
+      "description": "Jovens com idade entre 20 e 29 anos seguem respondendo pela maior parte dos casos da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-06-18/dengue-brasil-se-aproxima-6-milhoes-casos-4-mil-mortes.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-06-18 15:18:19",
+      "content": "O painel de monitoramento de arboviroses do Minist\u00e9rio da Sa\u00fade contabiliza 5.968.224 casos prov\u00e1veis de dengue e 3.910 mortes confirmadas pela doen\u00e7a ao longo de 2024. H\u00e1, ainda, 2.970 \u00f3bitos em i\u2026 [+1404 chars]",
+      "retrievedAt": "2024-06-19 19:05:51.206810",
+      "internal_id": "9852a06e588dd7bd83ba71bddcca244cc277d650d9c74610dd2f966d79eedc88",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10291,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Rocco Auriemma",
+      "title": "Allarme epidemia: \u00e8 il momento giusto per preoccuparci dell'influenza aviaria",
+      "description": "L'influenza aviaria H5N1 continua a spaventare gli esperti: che il virus riesca ad adattarsi e a rappresentare una minaccia per l'uomo?Nel vasto panorama delle minacce infettive, l'influenza aviaria H5N1 si staglia come un nemico subdolo, capace di attraversa\u2026",
+      "url": "https://tech.everyeye.it/notizie/allarme-epidemia-giusto-preoccuparci-influenza-aviaria-724371.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/allarme-epidemia-giusto-preoccuparci-dell-influenza-aviaria-v3-724371.jpg",
+      "publishedAt": "2024-06-18 14:30:00",
+      "content": "Nel vasto panorama delle minacce infettive, l'influenza aviaria H5N1 si staglia come un nemico subdolo, capace di attraversare le barriere tra specie e di insinuarsi in ospiti inconsapevoli. La vari\u2026 [+2173 chars]",
+      "retrievedAt": "2024-06-19 19:05:50.776744",
+      "internal_id": "91863d89fcb697cdf1fdd2adc16607bffee07dd8925004d117a986e7de341f8c",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10286,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Jane Feinmann",
+      "title": "Analysis reveals global post-covid surge in infectious diseases",
+      "description": "A large post-covid global surge in common communicable diseases including influenza, measles, tuberculosis, and whooping cough has been identified in a new analysis of data from 60 organisations and public health agencies.Since the beginning of 2022, 44 count\u2026",
+      "url": "https://www.bmj.com/content/385/bmj.q1348",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/385/8432.cover-source.jpg",
+      "publishedAt": "2024-06-18 14:25:41",
+      "content": "A large post-covid global surge in common communicable diseases including influenza, measles, tuberculosis, and whooping cough has been identified in a new analysis of data from 60 organisations and \u2026 [+3854 chars]",
+      "retrievedAt": "2024-06-19 19:05:50.215472",
+      "internal_id": "cbd114ee4940ca8ddad3de6f53fd0b37ab451fab809bede7582d9c39837961c3",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10300,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Elli Mylona, Duy Pham Thanh, Jacqueline A. Keane, Sabina Dongol, Buddha Basnyat, Christiane Dolecek, Phat Voong Vinh, Nga Tran Vu Thieu, To Nguyen Thi Nguyen, Abhilasha Karkey, Stephen Baker",
+      "title": "A retrospective investigation of the population structure and geospatial distribution of Salmonella Paratyphi A in Kathmandu, Nepal",
+      "description": "Author summary Enteric (typhoid) fever is caused by bacteria of Salmonella enterica species, specifically Salmonella Typhi and Salmonella Paratyphi A. While the former is most commonly identified as the causative agent of enteric fever, S. Paratyphi A is incr\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011864",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011864.g006&size=inline",
+      "publishedAt": "2024-06-18 14:00:00",
+      "content": "Citation: Mylona E, Pham Thanh D, Keane JA, Dongol S, Basnyat B, Dolecek C, et al. (2024) A retrospective investigation of the population structure and geospatial distribution of Salmonella Paratyphi\u2026 [+43463 chars]",
+      "retrievedAt": "2024-06-19 19:05:52.691811",
+      "internal_id": "90f3414d8d47f141056a418cef2ab3e84a6347b8c8abdcadfd83701b0276464e",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10294,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "TechSpot",
+      "author": "Rob Thubron",
+      "title": "Drones are biting back against Florida's mosquito problem",
+      "description": "A known vector for spreading diseases such as malaria, dengue, West Nile, yellow fever and Zika, mosquitoes are more than just blood-sucking irritants.Read Entire Article",
+      "url": "https://www.techspot.com/news/103435-drones-biting-back-against-florida-mosquito-problem.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/06/2024-06-18-image-5.jpg",
+      "publishedAt": "2024-06-18 11:54:00",
+      "content": "In brief: Drones have joined the unending fight against the mosquito problem in the US. A Florida-based company manufactures the devices, which are being used in almost half of all American states an\u2026 [+2015 chars]",
+      "retrievedAt": "2024-06-19 19:05:51.146853",
+      "internal_id": "81ba14bbac5bb0b3db4b43177f3237e8d5780d1d2355bee2df553c25b9ac1cf2",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10295,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
+      "title": "\u062e\u0631\u0627\u0633\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc \u0639\u0627\u0631\u06cc \u0627\u0632 \u062a\u0628 \u062f\u0646\u06af\u06cc \u0627\u0633\u062a",
+      "description": "\u0645\u062f\u06cc\u0631 \u0628\u06cc\u0645\u0627\u0631\u06cc\u200c\u0647\u0627\u06cc \u0648\u0627\u06af\u06cc\u0631 \u0645\u0639\u0627\u0648\u0646\u062a \u0628\u0647\u062f\u0627\u0634\u062a\u06cc \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0628\u06cc\u0631\u062c\u0646\u062f \u06af\u0641\u062a: \u062e\u0648\u0634\u0628\u062e\u062a\u0627\u0646\u0647 \u062a\u0627\u06a9\u0646\u0648\u0646 \u0645\u0648\u0631\u062f\u06cc \u0627\u0632 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062a\u0628 \u062f\u0646\u06af\u06cc \u062f\u0631 \u0627\u0633\u062a\u0627\u0646 \u0645\u0634\u0627\u0647\u062f\u0647 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a.",
+      "url": "https://www.isna.ir/news/1403032919727/\u062e\u0631\u0627\u0633\u0627\u0646-\u062c\u0646\u0648\u0628\u06cc-\u0639\u0627\u0631\u06cc-\u0627\u0632-\u062a\u0628-\u062f\u0646\u06af\u06cc-\u0627\u0633\u062a",
+      "urlToImage": "https://cdn.isna.ir/d/2024/06/18/4/63071762.jpg?ts=1718706393849",
+      "publishedAt": "2024-06-18 10:30:49",
+      "content": "/ : . : . : . . (DENV) . . (Dengue fever) . . . . : #",
+      "retrievedAt": "2024-06-19 19:05:51.171772",
+      "internal_id": "172b47f3d0c7c75c37d54985eeee407aeb200afa391a5c950e606ba43b3571c3",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10290,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Zulfikar Abbany",
+      "title": "Bird flu? Swine flu? A guide to H5N1 viruses and beyond",
+      "description": "Ever been confused by the names for bird flu or Spanish flu H1N1? Type A influenza has 130 known subtypes, but which ones cause the flu in people? Here\u2019s what the numbers mean. Avid virus-watchers will know that influenza viruses that make the news often feat\u2026",
+      "url": "https://www.dw.com/en/bird-flu-swine-flu-a-guide-to-h5n1-viruses-and-beyond/a-69367069",
+      "urlToImage": "https://static.dw.com/image/64794540_6.jpg",
+      "publishedAt": "2024-06-18 09:56:00",
+      "content": "Avid virus-watchers will know that influenza viruses that make the news often feature the letters \"H\" and \"N\" in their names, such as H5N1 or H9N2. Those are examples of \"Type A\" influenza viruses c\u2026 [+6216 chars]",
+      "retrievedAt": "2024-06-19 19:05:50.772052",
+      "internal_id": "ba20cc7f847730d460fb5eb395a099ddfb2695bd6c5201a5fdbd61f6447db203",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10285,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "Measles case reported in Adelaide boy who recently returned from overseas",
+      "description": "SA Health says it is the sixth case of measles in South Australia this year, compared to three cases at the same time last year.",
+      "url": "https://www.abc.net.au/news/2024-06-18/adelaide-boy-tests-positive-to-measles/103993966",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f226ef8f811f45ee207cc37a3acbd026?impolicy=wcms_watermark_news&cropH=1519&cropW=2699&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-06-18 08:56:39",
+      "content": "In short: A one-year-old boy is in a stable condition in an Adelaide hospital after testing positive to measles.The child visited several locations across Adelaide, including a surge\u2026 [+2232 chars]",
+      "retrievedAt": "2024-06-19 19:05:50.195041",
+      "internal_id": "c8bcb8dd51de45c5f55fb566d863186d0f9d093b86b0153b5a49e6e07f3f75f4",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10288,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Melissa Vel\u00e1squez Loaiza",
+      "title": "AN\u00c1LISIS | No estamos haciendo lo suficiente contra el riesgo de gripe aviar, pero podemos hacerlo",
+      "description": "Hemos visto venir el H5N1 durante m\u00e1s de 20 a\u00f1os. Finlandia detuvo el H5N1 en los animales antes de que se propagara a los humanos el verano pasado. Esta historia, junto con otra media docena de brotes que nunca llegaron a los titulares, aparecen en nuestro n\u2026",
+      "url": "https://cnnespanol.cnn.com/2024/06/18/analisis-no-estamos-haciendo-lo-suficiente-contra-el-riesgo-de-gripe-aviar-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/gripe-aviar-investigadors-e1718690089533.jpg?quality=100&strip=info",
+      "publishedAt": "2024-06-18 07:24:51",
+      "content": "Autoridades de EE.UU. alertan sobre riesgos de leche cruda por gripe aviar en ganado 0:37 Nota del editor: Tom Frieden, director de los Centros para el Control y la Prevenci\u00f3n de Enfermedades de Est\u2026 [+6107 chars]",
+      "retrievedAt": "2024-06-19 19:05:50.751103",
+      "internal_id": "086e0311e8f20a8bfb59434a3d23d876d5ca8622866f54e9d37292964d146034",
+      "publishedAtLabel": "Jun 18"
+    },
     {
       "id": 10281,
       "query": [
@@ -25225,78 +25516,6 @@
       "content": "Myggarten gulafebernmyggan b\u00f6rjade flytta in i s\u00f6dra Kalifornien omkring 2014. Den riktar speciellt in sig p\u00e5 m\u00e4nniskor och kan b\u00e4ra p\u00e5 virus som chikungunya, zika och dengue och gula febern. Den lo\u2026 [+228 chars]",
       "retrievedAt": "2024-05-07 07:07:05.076545",
       "internal_id": "b036db975e42ac14ae9f1823491b2a1857fbf3d339e2824ada1521497f9d63cb",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8884,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados",
-      "description": "No pa\u00eds, 21 estados e o Distrito Federal est\u00e3o em tend\u00eancia de queda ou estabilidade na incid\u00eancia de dengue. Outras cinco unidades federativas ainda apresentam alta da doen\u00e7a",
-      "url": "https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
-      "publishedAt": "2024-05-05 17:13:05",
-      "content": "O Estado de S\u00e3o Paulo chegou a 587 mortes por dengue em 2024, segundo dados do painel de monitoramento da Secretaria Estadual da Sa\u00fade deste domingo (5). Outras 719 mortes est\u00e3o em investiga\u00e7\u00e3o. O es\u2026 [+2275 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.899957",
-      "internal_id": "9b4e1c0b521d87ca54107e9873edcdf263aa31c987273811247d42eff1f89a81",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8883,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Luiz Vassallo",
-      "title": "Munic\u00edpios ter\u00e3o de pagar R$ 300 mil por morte de crian\u00e7a com dengue",
-      "description": "Justi\u00e7a de SP considerou que neglig\u00eancia de m\u00e9dicos dos munic\u00edpios de Sumar\u00e9 e Nova Odessa levou \u00e0 morte de crian\u00e7a de 13 anos com dengue",
-      "url": "https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
-      "publishedAt": "2024-05-05 15:01:37",
-      "content": "S\u00e3o Paulo O Tribunal de Justi\u00e7a de S\u00e3o Paulo (TJSP) condenou dois munic\u00edpios do interior de S\u00e3o Paulo a indenizarem em R$ 300 mil o pai de uma crian\u00e7a que morreu de dengue em raz\u00e3o da neglig\u00eancia m\u00e9d\u2026 [+1602 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.880444",
-      "internal_id": "03a02e04614d510c04f09b6bb87d4211a82c2feaf68e8a973dae49b2446b512a",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8885,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue cases surpass 11,000 in Bagmati Province",
-      "description": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total of 11,409 cases have been diagnosed since the commencement o\u2026",
-      "url": "https://english.khabarhub.com/2024/05/354188/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-05-05 14:15:17",
-      "content": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total\u2026 [+945 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.935323",
-      "internal_id": "bd805cf9d09aaca253f43d9ea3e77cff097a31fdaeb260576323187444d13def",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8891,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Financial News",
-      "author": null,
-      "title": "Tackling Malaria: Nigeria's Efforts and Challenges",
-      "description": "Federal Government of Nigeria is taking quick measures to tackle and eliminate malaria. Measures include intensifying case management, mobilizing funding, enhancing community involvement, and exploring innovative service delivery. Coordination Minister expres\u2026",
-      "url": "https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges",
-      "urlToImage": "https://storage.financialnews.com/10141/6637014fdec5f.webp",
-      "publishedAt": "2024-05-05 10:40:57",
-      "content": "Malaria is a deadly disease caused by parasites transmitted to humans through the bites of infected mosquitoes. It is a major public health concern in Nigeria, with millions of cases reported annuall\u2026 [+3610 chars]",
-      "retrievedAt": "2024-05-07 07:07:05.691610",
-      "internal_id": "205d4a96c931ebd9358276362996805a4f3aadaaf893a121e26a98446f806075",
       "publishedAtLabel": "May 5"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-06-19 07:06
-- **Most recent article:** 2024-06-18 05:35:00
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-06-19 19:05
+- **Most recent article:** 2024-06-18 19:00:45
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 56 | 87 | 58 | 61 | 64 | 115 | 13 | 454 |
-| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 6 | 419 |
-| malaria | 29 | 13 | 17 | 25 | 21 | 37 | 7 | 149 |
-| measles | 9 | 29 | 15 | 16 | 11 | 7 | 4 | 91 |
-| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 2 | 74 |
+| dengue | 53 | 87 | 58 | 61 | 64 | 115 | 19 | 457 |
+| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 11 | 424 |
+| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 8 | 149 |
+| measles | 9 | 29 | 15 | 16 | 11 | 7 | 7 | 94 |
+| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 3 | 75 |
 | rabies | 22 | 10 | 8 | 15 | 9 | 2 | 1 | 67 |
 | chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 3 | 60 |
 | pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 6 | 48 |
 | hpai | 4 | 3 | 7 | 12 | 2 | 4 | 2 | 34 |
 | meningitis | 5 | 9 | 4 | 1 | 6 | 3 | 1 | 29 |
-| zika | 2 | 6 | 3 | 3 | 0 | 12 | 0 | 26 |
+| zika | 2 | 6 | 3 | 3 | 0 | 12 | 2 | 28 |
 | leptospirosis | 1 | 3 | 0 | 5 | 1 | 1 | 0 | 11 |
-| typhoid | 3 | 2 | 0 | 0 | 1 | 1 | 1 | 8 |
+| typhoid | 3 | 2 | 0 | 0 | 1 | 1 | 2 | 9 |
 | yersinia | 1 | 0 | 6 | 0 | 1 | 0 | 0 | 8 |
 | sarampión | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -33,7 +33,15 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-25 (zika)
+
+- [Study reveals huge increase in global economic cost of invasive mosquitoes and diseases they transmit](https://phys.org/news/2024-06-reveals-huge-global-economic-invasive.html) (Phys.Org)
+
+- [Drones are biting back against Florida's mosquito problem](https://www.techspot.com/news/103435-drones-biting-back-against-florida-mosquito-problem.html) (TechSpot)
+
 ## 24-25 (typhoid)
+
+- [A retrospective investigation of the population structure and geospatial distribution of Salmonella Paratyphi A in Kathmandu, Nepal](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011864) (Plos.org)
 
 - [Jürg Federspiel: Operation am offenen Herzen](https://www.zeit.de/2024/26/juerg-federspiel-typhoid-mary-typhus-usa-literatur-immigration) (Die Zeit)
 
@@ -57,6 +65,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (mpox)
 
+- [Mpox cases increase in LA County; health officials advise at-risk residents to take precautions](https://abc7.com/post/mpox-cases-increase-la-county-health-officials-advise/14967262/) (KABC-TV)
+
 - [Reemergence of Clade IIb–Associated Mpox, Germany, July–December 2023](https://wwwnc.cdc.gov/eid/article/30/7/24-0092_article) (Cdc.gov)
 
 - [Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance](https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/) (Briefly.co.za)
@@ -67,6 +77,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (measles)
 
+- [Good Morning, News: Anti-vaxxers Bring Measles Back, Celtics Bring Home a Championship, and Seniors Bring Student Loan Debt into Retirement](https://www.portlandmercury.com/good-morning-news/2024/06/18/47263239/good-morning-news-anti-vaxxers-bring-measles-back-celtics-bring-home-a-championship-and-seniors-bring-student-loan-debt-into-retirement) (The Portland Mercury)
+
+- [Analysis reveals global post-covid surge in infectious diseases](https://www.bmj.com/content/385/bmj.q1348) (The BMJ)
+
+- [Measles case reported in Adelaide boy who recently returned from overseas](https://www.abc.net.au/news/2024-06-18/adelaide-boy-tests-positive-to-measles/103993966) (ABC News (AU))
+
 - [Florida Surgeon General: measles outbreaks, COVID-19 vaccines & public health](https://blog.maryannedemasi.com/p/florida-surgeon-general-measles-outbreaks) (Maryannedemasi.com)
 
 - [2 Oregon measles cases confirmed, OHA warns about possible exposure](https://www.koin.com/news/health/oha-warns-about-possible-exposures-after-2-confirmed-measles-cases-in-clackamas-county/) (KOIN.com)
@@ -76,6 +92,8 @@ Source: [News API](https://newsapi.org/)
 - [Colorado’s school vaccination rate hovers below level needed for herd immunity](https://www.denverpost.com/2024/06/17/colorado-school-vaccination-rate-kindergarten-measles/) (The Denver Post)
 
 ## 24-25 (malaria)
+
+- [Drones are biting back against Florida's mosquito problem](https://www.techspot.com/news/103435-drones-biting-back-against-florida-mosquito-problem.html) (TechSpot)
 
 - [EBC金融集團 與台灣行動兒童療育協會攜手，呵護早期療育兒童，弘揚社會關懷](https://www.thenewslens.com/article/204077) (Thenewslens.com)
 
@@ -99,6 +117,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (h5n1)
 
+- [Avian Flu: What to Know About H5N1 Virus Risks, Beyond the Headlines](https://www.kqed.org/news/11990735/avian-flu-what-to-know-about-h5n1-virus-risks-beyond-the-headlines) (KQED)
+
+- [Bird Flu “Runs Rampant” In U.S. Dairy Cattle](https://www.shtfplan.com/headline-news/bird-flu-runs-rampant-in-u-s-dairy-cattle) (Shtfplan.com)
+
+- [Allarme epidemia: è il momento giusto per preoccuparci dell'influenza aviaria](https://tech.everyeye.it/notizie/allarme-epidemia-giusto-preoccuparci-influenza-aviaria-724371.html) (Everyeye.it)
+
+- [Bird flu? Swine flu? A guide to H5N1 viruses and beyond](https://www.dw.com/en/bird-flu-swine-flu-a-guide-to-h5n1-viruses-and-beyond/a-69367069) (DW (English))
+
+- [ANÁLISIS | No estamos haciendo lo suficiente contra el riesgo de gripe aviar, pero podemos hacerlo](https://cnnespanol.cnn.com/2024/06/18/analisis-no-estamos-haciendo-lo-suficiente-contra-el-riesgo-de-gripe-aviar-trax/) (CNN)
+
 - [Птичий грипп "просочился" из лаборатории Минсельхоза США](https://www.news2.ru/story/684610/) (News2.ru)
 
 - [We aren’t doing enough about the risk of bird flu – but we can | CNN](https://www.cnn.com/2024/06/18/health/bird-flu-risk-opinion-frieden/index.html) (CNN)
@@ -112,6 +140,18 @@ Source: [News API](https://newsapi.org/)
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
+
+- [El aumento de los casos de dengue pone en alerta a Francia de cara a los Juegos Olímpicos](https://www.montevideo.com.uy/Salud/El-aumento-de-los-casos-de-dengue-pone-en-alerta-a-Francia-de-cara-a-los-Juegos-Olimpicos-uc891566) (Montevideo.com.uy)
+
+- [Study reveals huge increase in global economic cost of invasive mosquitoes and diseases they transmit](https://phys.org/news/2024-06-reveals-huge-global-economic-invasive.html) (Phys.Org)
+
+- [Cidade de São Paulo tem apenas 300 doses de vacina contra a dengue](https://www.metropoles.com/sao-paulo/cidade-sp-tem-300-doses-vacina-dengue) (Metropoles.com)
+
+- [Dengue: Brasil se aproxima de 6 milhões de casos e 4 mil mortes](https://saude.ig.com.br/2024-06-18/dengue-brasil-se-aproxima-6-milhoes-casos-4-mil-mortes.html) (Ig.com.br)
+
+- [Drones are biting back against Florida's mosquito problem](https://www.techspot.com/news/103435-drones-biting-back-against-florida-mosquito-problem.html) (TechSpot)
+
+- [خراسان جنوبی عاری از تب دنگی است](https://www.isna.ir/news/1403032919727/خراسان-جنوبی-عاری-از-تب-دنگی-است) (Isna.ir)
 
 - [Nadie temía esta enfermedad en Europa. Ahora es la preocupación de los JJOO de París](https://www.elconfidencial.com/tecnologia/ciencia/2024-06-18/epidemiologos-paris-juegos-eventos-dengue_3905213/) (Elconfidencial.com)
 
@@ -2911,8 +2951,6 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
-- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
-
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -3150,12 +3188,6 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
-
-- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
-
-- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
-
-- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 
