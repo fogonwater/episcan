@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-06-18 19:05
-- **Most recent article:** 2024-06-17 18:43:32
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-06-19 07:06
+- **Most recent article:** 2024-06-18 05:35:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 53 | 87 | 58 | 61 | 64 | 115 | 9 | 447 |
-| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 3 | 416 |
-| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 3 | 144 |
-| measles | 9 | 29 | 15 | 16 | 11 | 7 | 2 | 89 |
-| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 1 | 73 |
-| rabies | 22 | 10 | 8 | 15 | 9 | 2 | 0 | 66 |
+| dengue | 56 | 87 | 58 | 61 | 64 | 115 | 13 | 454 |
+| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 6 | 419 |
+| malaria | 29 | 13 | 17 | 25 | 21 | 37 | 7 | 149 |
+| measles | 9 | 29 | 15 | 16 | 11 | 7 | 4 | 91 |
+| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 2 | 74 |
+| rabies | 22 | 10 | 8 | 15 | 9 | 2 | 1 | 67 |
 | chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 3 | 60 |
 | pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 6 | 48 |
-| hpai | 4 | 3 | 7 | 12 | 2 | 4 | 1 | 33 |
+| hpai | 4 | 3 | 7 | 12 | 2 | 4 | 2 | 34 |
 | meningitis | 5 | 9 | 4 | 1 | 6 | 3 | 1 | 29 |
 | zika | 2 | 6 | 3 | 3 | 0 | 12 | 0 | 26 |
 | leptospirosis | 1 | 3 | 0 | 5 | 1 | 1 | 0 | 11 |
@@ -36,6 +36,10 @@ Source: [News API](https://newsapi.org/)
 ## 24-25 (typhoid)
 
 - [Jürg Federspiel: Operation am offenen Herzen](https://www.zeit.de/2024/26/juerg-federspiel-typhoid-mary-typhus-usa-literatur-immigration) (Die Zeit)
+
+## 24-25 (rabies)
+
+- [Zamboanga: Anti-rabies Vaccination held at EAAB](https://rpnradio.com/zamboanga-anti-rabies-vaccination-held-at-eaab/) (Rpnradio.com)
 
 ## 24-25 (pertussis)
 
@@ -53,6 +57,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (mpox)
 
+- [Reemergence of Clade IIb–Associated Mpox, Germany, July–December 2023](https://wwwnc.cdc.gov/eid/article/30/7/24-0092_article) (Cdc.gov)
+
 - [Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance](https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/) (Briefly.co.za)
 
 ## 24-25 (meningitis)
@@ -61,11 +67,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (measles)
 
+- [Florida Surgeon General: measles outbreaks, COVID-19 vaccines & public health](https://blog.maryannedemasi.com/p/florida-surgeon-general-measles-outbreaks) (Maryannedemasi.com)
+
+- [2 Oregon measles cases confirmed, OHA warns about possible exposure](https://www.koin.com/news/health/oha-warns-about-possible-exposures-after-2-confirmed-measles-cases-in-clackamas-county/) (KOIN.com)
+
 - [Measles: 56 cases confirmed in Ireland so far this year](https://www.thejournal.ie/how-many-measles-cases-in-ireland-2-6411763-Jun2024/) (TheJournal.ie)
 
 - [Colorado’s school vaccination rate hovers below level needed for herd immunity](https://www.denverpost.com/2024/06/17/colorado-school-vaccination-rate-kindergarten-measles/) (The Denver Post)
 
 ## 24-25 (malaria)
+
+- [EBC金融集團 與台灣行動兒童療育協會攜手，呵護早期療育兒童，弘揚社會關懷](https://www.thenewslens.com/article/204077) (Thenewslens.com)
+
+- [Molecular Confirmation of Anopheles stephensi Mosquitoes in the Al Hudaydah Governorate, Yemen, 2021 and 2022](https://wwwnc.cdc.gov/eid/article/30/7/24-0331_article) (Cdc.gov)
+
+- [Hoppfull behandling mot vanlig hormonrubbning](https://www.aftonbladet.se/nyheter/a/zA7Eeb/hoppfull-behandling-mot-vanlig-hormonrubbning) (Aftonbladet.se)
+
+- [Rains bring flu, malaria and dengue to city; slight uptick in Covid cases](https://timesofindia.indiatimes.com/city/mumbai/rains-bring-flu-malaria-and-dengue-to-city-slight-uptick-in-covid-cases/articleshow/111069154.cms) (The Times of India)
 
 - [Malaria Vaccine Saves Children’s Lives In Malawi](https://www.forbes.com/sites/unicefusa/2024/06/17/malaria-vaccine-saves-childrens-lives-in-malawi/) (Forbes)
 
@@ -75,9 +93,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (hpai)
 
+- [Птичий грипп "просочился" из лаборатории Минсельхоза США](https://www.news2.ru/story/684610/) (News2.ru)
+
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (h5n1)
+
+- [Птичий грипп "просочился" из лаборатории Минсельхоза США](https://www.news2.ru/story/684610/) (News2.ru)
+
+- [We aren’t doing enough about the risk of bird flu – but we can | CNN](https://www.cnn.com/2024/06/18/health/bird-flu-risk-opinion-frieden/index.html) (CNN)
+
+- [Bird flu FAQ: Symptoms, what Michigan outbreak means for pets and why wastewater matters](https://www.freep.com/story/news/health/2024/06/17/h5n1-bird-flu-2024-symptoms-vaccine/74122592007/) (Detroit Free Press)
 
 - [Eksperci obawiają się kolejnej pandemii. "Niepokój większy niż kiedykolwiek"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31067412,eksperci-obawiaja-sie-kolejnej-pandemii-niepokoj-wiekszy-niz.html) (Gazeta.pl)
 
@@ -86,6 +112,14 @@ Source: [News API](https://newsapi.org/)
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
+
+- [Nadie temía esta enfermedad en Europa. Ahora es la preocupación de los JJOO de París](https://www.elconfidencial.com/tecnologia/ciencia/2024-06-18/epidemiologos-paris-juegos-eventos-dengue_3905213/) (Elconfidencial.com)
+
+- [Mosquito control: Palike to spend 8L per ward](https://timesofindia.indiatimes.com/city/bengaluru/mosquito-control-palike-to-spend-8l-per-ward/articleshow/111069209.cms) (The Times of India)
+
+- [Rains bring flu, malaria and dengue to city; slight uptick in Covid cases](https://timesofindia.indiatimes.com/city/mumbai/rains-bring-flu-malaria-and-dengue-to-city-slight-uptick-in-covid-cases/articleshow/111069154.cms) (The Times of India)
+
+- [Campinas confirma mais 4 mortes e chega 41 óbitos por dengue em 2024](https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/17/campinas-confirma-mais-4-mortes-e-chega-41-obitos-por-dengue-em-2024.ghtml) (Globo)
 
 - [Health dept adds Saligao and Aldona to dengue high-risk list](https://timesofindia.indiatimes.com/city/goa/health-dept-adds-saligao-and-aldona-to-dengue-high-risk-list/articleshow/111066583.cms) (The Times of India)
 
@@ -2877,6 +2911,8 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
+- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
+
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -3114,6 +3150,12 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
+
+- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
+
+- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
+
+- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 
