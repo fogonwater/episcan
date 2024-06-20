@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-06-20 07:06
-- **Most recent article:** 2024-06-19 07:05:51
+- **New articles in last harvest:** 12
+- **Last harvest:** 2024-06-20 19:05
+- **Most recent article:** 2024-06-19 18:30:01
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 56 | 87 | 58 | 61 | 64 | 115 | 23 | 464 |
-| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 12 | 425 |
-| malaria | 29 | 13 | 17 | 25 | 21 | 37 | 10 | 152 |
-| measles | 9 | 29 | 15 | 16 | 11 | 7 | 7 | 94 |
-| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 5 | 77 |
+| dengue | 53 | 87 | 58 | 61 | 64 | 115 | 27 | 465 |
+| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 16 | 429 |
+| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 11 | 152 |
+| measles | 9 | 29 | 15 | 16 | 11 | 7 | 9 | 96 |
+| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 6 | 78 |
 | rabies | 22 | 10 | 8 | 15 | 9 | 2 | 1 | 67 |
-| chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 3 | 60 |
-| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 7 | 49 |
+| chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 4 | 61 |
+| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 8 | 50 |
 | hpai | 4 | 3 | 7 | 12 | 2 | 4 | 3 | 35 |
 | meningitis | 5 | 9 | 4 | 1 | 6 | 3 | 1 | 29 |
 | zika | 2 | 6 | 3 | 3 | 0 | 12 | 2 | 28 |
@@ -51,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (pertussis)
 
+- [Why Trump’s rhetoric about vaccines and defunding schools matters](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-rhetoric-vaccines-defunding-schools-matters-rcna157912) (MSNBC)
+
 - ['Rampant' spread of illness across NSW with whooping cough rates at their highest in almost a decade](https://www.abc.net.au/news/2024-06-19/nsw-flu-whooping-cough-spike-pneumonia-children/103994248) (ABC News (AU))
 
 - [Quem deve tomar reforço da vacina de coqueluche? Proteção dura de 5 a 10 anos](https://www.terra.com.br/vida-e-estilo/saude/quem-deve-tomar-reforco-da-vacina-de-coqueluche-protecao-dura-de-5-a-10-anos,30e3ddc0fe31ea79d1de39d0f948ee40zoesvguj.html) (Terra.com.br)
@@ -66,6 +68,8 @@ Source: [News API](https://newsapi.org/)
 - [O que é coqueluche? Entenda a doença que está em ascensão no Brasil](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html) (Terra.com.br)
 
 ## 24-25 (mpox)
+
+- [LA County Mpox Cases Surge; Officials Urge Vaccination To Reduce Risk Of Severe Illness](https://www.medicaldaily.com/la-county-mpox-cases-surge-officials-urge-vaccination-reduce-risk-severe-illness-471870) (Medical Daily)
 
 - [LA County reporting an increase of Monkeypox cases](https://www.foxla.com/news/la-county-reporting-increase-monkeypox-cases) (FOX 11 Los Angeles)
 
@@ -83,6 +87,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (measles)
 
+- [Why Trump’s rhetoric about vaccines and defunding schools matters](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-rhetoric-vaccines-defunding-schools-matters-rcna157912) (MSNBC)
+
+- [Measles alert for travellers who visited domestic and international terminals of Sydney Airport after infectious passenger arrives from Dubai](https://www.skynews.com.au/lifestyle/health/measles-alert-for-travellers-who-visited-domestic-and-international-terminals-of-sydney-airport-after-infectious-passenger-arrives-from-dubai/news-story/521250333148572af49358120e1f246a) (Sky News Australia)
+
 - [Good Morning, News: Anti-vaxxers Bring Measles Back, Celtics Bring Home a Championship, and Seniors Bring Student Loan Debt into Retirement](https://www.portlandmercury.com/good-morning-news/2024/06/18/47263239/good-morning-news-anti-vaxxers-bring-measles-back-celtics-bring-home-a-championship-and-seniors-bring-student-loan-debt-into-retirement) (The Portland Mercury)
 
 - [Analysis reveals global post-covid surge in infectious diseases](https://www.bmj.com/content/385/bmj.q1348) (The BMJ)
@@ -98,6 +106,8 @@ Source: [News API](https://newsapi.org/)
 - [Colorado’s school vaccination rate hovers below level needed for herd immunity](https://www.denverpost.com/2024/06/17/colorado-school-vaccination-rate-kindergarten-measles/) (The Denver Post)
 
 ## 24-25 (malaria)
+
+- [The Best Mosquito Repellent For Camping And Keeping Safe From Diseases](https://www.forbes.com/sites/forbes-personal-shopper/article/best-mosquito-repellent-for-camping/) (Forbes)
 
 - [Dengue cases surge in Sudurpaschim Province](https://english.khabarhub.com/2024/19/361645/) (Khabarhub.com)
 
@@ -129,6 +139,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (h5n1)
 
+- [Après le Covid-19, allons-nous affronter la grippe aviaire?](https://www.slate.fr/story/267270/apres-covid-19-affronter-pandemie-grippe-aviaire-epidemie-bovins-vaches-oiseaux) (Slate.fr)
+
+- [Grippe aviaire : pourquoi l’Europe commande des vaccins](https://www.lepoint.fr/sante/grippe-aviaire-pourquoi-l-europe-commande-des-vaccins-19-06-2024-2563453_40.php) (Le Point)
+
+- [What do we need to know about bird flu?](https://www.foodpolitics.com/2024/06/what-do-we-need-to-know-about-bird-flu/) (Foodpolitics.com)
+
+- [Bird Flu and Biomedicine, An Essay on What We Might Expect](https://www.nakedcapitalism.com/2024/06/bird-flu-and-biomedicine-an-essay-on-what-we-might-expect.html) (Nakedcapitalism.com)
+
 - [Un virus, cu mortalitate de 40 de ori mai mare decât COVID-19, ar putea devasta omenirea. La ce trebuie să fim atenți](https://adevarul.ro/stiri-interne/sanatate/un-virus-cu-mortalitate-de-40-de-ori-mai-mare-2369479.html) (Adevarul.ro)
 
 - [Avian Flu: What to Know About H5N1 Virus Risks, Beyond the Headlines](https://www.kqed.org/news/11990735/avian-flu-what-to-know-about-h5n1-virus-risks-beyond-the-headlines) (KQED)
@@ -154,6 +172,14 @@ Source: [News API](https://newsapi.org/)
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
+
+- [La Dengue può provocare una nuova pandemia?](https://www.ansa.it/sito/podcast/ansa_verified/2024/06/19/la-dengue-puo-provocare-una-nuova-pandemia_5d1e222f-023f-4d98-9055-509d0cc03b23.html) (ANSA.it)
+
+- [Plus de 600 nouveaux cas importés de dengue ont été recensés en France hexagonale depuis le 1er mai](https://www.francetvinfo.fr/sante/maladie/plus-de-600-nouveaux-cas-importes-de-dengue-ont-ete-recenses-en-france-hexagonale-depuis-le-1er-mai_6613872.html) (Francetvinfo.fr)
+
+- [Dengue: Brasil se aproxima dos 6 milhões de casos e 4 mil mortes](https://olhardigital.com.br/2024/06/19/medicina-e-saude/dengue-brasil-se-aproxima-dos-6-milhoes-de-casos-e-4-mil-mortes/) (Olhardigital.com.br)
+
+- [Cegah Penyakit DBD, Babinsa Koramil 0826-10 Waru Bersama Petugas Puskesmas Lakukan Fogging](https://suaraindonesia-news.com/cegah-penyakit-dbd-babinsa-koramil-0826-10-waru-bersama-petugas-puskesmas-lakukan-fogging/) (Suaraindonesia-news.com)
 
 - [Dengue cases surge in Sudurpaschim Province](https://english.khabarhub.com/2024/19/361645/) (Khabarhub.com)
 
@@ -202,6 +228,8 @@ Source: [News API](https://newsapi.org/)
 - [Como diferenciar sintomas da dengue e leptospirose?](https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/) (Olhardigital.com.br)
 
 ## 24-25 (chikungunya)
+
+- [Cegah Penyakit DBD, Babinsa Koramil 0826-10 Waru Bersama Petugas Puskesmas Lakukan Fogging](https://suaraindonesia-news.com/cegah-penyakit-dbd-babinsa-koramil-0826-10-waru-bersama-petugas-puskesmas-lakukan-fogging/) (Suaraindonesia-news.com)
 
 - [Bavarian Nordic Completes BLA Submission to U.S. FDA for its Chikungunya Vaccine Candidate](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Completes-BLA-Submission-to-U-S-FDA-for-its-Chikungunya-Vaccine-Candidate-46986441/) (Marketscreener.com)
 
@@ -2973,8 +3001,6 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
-- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
-
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -3212,12 +3238,6 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
-
-- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
-
-- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
-
-- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 

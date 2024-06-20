@@ -1,8 +1,226 @@
 {
-  "last_updated": "2024-06-20 07:06",
-  "count_articles_total": 1427,
-  "count_articles_new": 10,
+  "last_updated": "2024-06-20 19:05",
+  "count_articles_total": 1435,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 10313,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Slate.fr",
+      "author": "Nina Bailly",
+      "title": "Apr\u00e8s le Covid-19, allons-nous affronter la grippe aviaire?",
+      "description": "Les sp\u00e9cialistes surveillent la propagation de H5N1 de tr\u00e8s pr\u00e8s.",
+      "url": "https://www.slate.fr/story/267270/apres-covid-19-affronter-pandemie-grippe-aviaire-epidemie-bovins-vaches-oiseaux",
+      "urlToImage": "https://www.slate.fr/uploads/store/story_267270/original_267270.jpg",
+      "publishedAt": "2024-06-19 18:30:01",
+      "content": "La grippe aviaire est une maladie qui peut infecter les oiseaux (d'o\u00f9 son nom) mais aussi parfois d'autres animaux, comme les renards ou les loutres. La principale souche du virus, H5N1, est apparue \u2026 [+2320 chars]",
+      "retrievedAt": "2024-06-20 19:05:57.146663",
+      "internal_id": "9e9521e5f5915e6815bcb9ee2fa885a047541e441ecab49e6d6577673f8dad2d",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10318,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "La Dengue pu\u00f2 provocare una nuova pandemia?",
+      "description": "Falso, per le sue caratteristiche ad oggi il virus non rappresenta una minaccia di tipo pandemico. (ANSA)",
+      "url": "https://www.ansa.it/sito/podcast/ansa_verified/2024/06/19/la-dengue-puo-provocare-una-nuova-pandemia_5d1e222f-023f-4d98-9055-509d0cc03b23.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/4/24/03671c43add139afbfc769567fccbf72.jpg",
+      "publishedAt": "2024-06-19 16:22:55",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-06-20 19:05:57.533293",
+      "internal_id": "e74499aa5c30ec84b7a11f6b672274af196f5c82d2d571c5fa0ba9bb05b46c09",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10316,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Caroline Tourbe",
+      "title": "Grippe aviaire : pourquoi l\u2019Europe commande des vaccins",
+      "description": "DECRYPTAGE. Le virus H5N1 continue de se repandre dans les elevages bovins americains. Les autorites europeennes commandent des doses de vaccin prepandemique. Cinq questions pour comprendre les raisons d'une telle decision.",
+      "url": "https://www.lepoint.fr/sante/grippe-aviaire-pourquoi-l-europe-commande-des-vaccins-19-06-2024-2563453_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2024/06/19/26658057lpw-26659265-mega-une-jpg_10370719.jpg",
+      "publishedAt": "2024-06-19 15:51:00",
+      "content": "Un troisi\u00e8me homme contamin\u00e9 par le virus grippal H5N1, le seuil des cent \u00e9levages de vaches laiti\u00e8res touch\u00e9es Ces derni\u00e8res semaines, les signes inqui\u00e9tants s'accumulent aux \u00c9tats-Unis sur les capa\u2026 [+9442 chars]",
+      "retrievedAt": "2024-06-20 19:05:57.179244",
+      "internal_id": "f972adc8847be5a9948995021fcfb5285d26387feeb705a953908f6baec455eb",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10319,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Plus de 600 nouveaux cas import\u00e9s de dengue ont \u00e9t\u00e9 recens\u00e9s en France hexagonale depuis le 1er mai",
+      "description": "Ces 600 cas suppl\u00e9mentaires portent \u00e0 pr\u00e8s de 2 800 le nombre de cas import\u00e9s de dengue depuis le d\u00e9but de l'ann\u00e9e.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/plus-de-600-nouveaux-cas-importes-de-dengue-ont-ete-recenses-en-france-hexagonale-depuis-le-1er-mai_6613872.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/9hQEoe5SSNIjbR_d2vu3F4-kw90/1500x843/2024/06/19/080-hl-slapeyrere-1154235-6672f5cb0143f317030283.jpg",
+      "publishedAt": "2024-06-19 15:50:03",
+      "content": "Entre le 1er mai et le 18 juin, 601 cas import\u00e9s ont \u00e9t\u00e9 compatibilit\u00e9s au total dans l'Hexagone, a annonc\u00e9 Sant\u00e9 publique France dans un bulletin publi\u00e9 mercredi 19 juin. 60% de ces cas ont \u00e9t\u00e9 impo\u2026 [+1237 chars]",
+      "retrievedAt": "2024-06-20 19:05:57.558983",
+      "internal_id": "fc474782ed7247e2676a370eac370e32a2a726a2bf8da66855533cfb205bd252",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10311,
+      "query": [
+        "pertussis",
+        "measles"
+      ],
+      "source_id": "msnbc",
+      "source_name": "MSNBC",
+      "author": "Steve Benen",
+      "title": "Why Trump\u2019s rhetoric about vaccines and defunding schools matters",
+      "description": "The more Donald Trump vows to defund schools with vaccine mandates, the more the public-health stakes in the 2024 election come into sharper focus.",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-rhetoric-vaccines-defunding-schools-matters-rcna157912",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240619-covid-vaccine-mb-1547-c9677c.jpg",
+      "publishedAt": "2024-06-19 15:00:30",
+      "content": "Across the country, public school districts require children to be fully immunized against, among other things, polio, measles, hepatitis B, chickenpox, diphtheria, tetanus, and pertussis before they\u2026 [+3529 chars]",
+      "retrievedAt": "2024-06-20 19:05:55.989043",
+      "internal_id": "3b1ec5895f6e91d4dfce6c46a5c1b848b790d4c113226247a06e73dcca4be234",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10321,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Rachael Schultz, Contributor, \n Rachael Schultz, Contributor\n https://www.forbes.com/sites/forbes-personal-shopper/people/rachaelschultz/",
+      "title": "The Best Mosquito Repellent For Camping And Keeping Safe From Diseases",
+      "description": "Bringing the best mosquito repellents camping will help protect you against annoying bites as well as serious diseases, like malaria and West Nile virus.",
+      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-mosquito-repellent-for-camping/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66709584afa8f3c0c4fc2ff8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-19 14:52:07",
+      "content": "If youve ever camped near a body of water, you know there is a major difference between packing any old bug spray and a high-quality mosquito repellent. Swarming mosquitoes can be as incredibly annoy\u2026 [+13723 chars]",
+      "retrievedAt": "2024-06-20 19:05:58.150734",
+      "internal_id": "af972525703639b15422aa93e06583c94d88c70ec4a692e65a89acb15887a49a",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10315,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Foodpolitics.com",
+      "author": "Marion",
+      "title": "What do we need to know about bird flu?",
+      "description": "The current bird flu pandemic is a huge worry, because the current strain, H5N1, is highly pathogenic. Although there have only been 4 reported cases in humans since 2022, the strain has infected: Nearly 100 million chickens have been affected. 101 herds of d\u2026",
+      "url": "https://www.foodpolitics.com/2024/06/what-do-we-need-to-know-about-bird-flu/",
+      "urlToImage": null,
+      "publishedAt": "2024-06-19 13:00:16",
+      "content": "The current bird flu pandemic is a huge worry, because the current strain, H5N1, is highly pathogenic. Although there have only been 4 reported cases in humans since 2022, the strain has infected: \u2026 [+1112 chars]",
+      "retrievedAt": "2024-06-20 19:05:57.164002",
+      "internal_id": "59a8b6047bf57c64da6974444031761eb8a0c5b19f52cefbcf592cb5fe775c46",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10317,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Tamires Ferreira",
+      "title": "Dengue: Brasil se aproxima dos 6 milh\u00f5es de casos e 4 mil mortes",
+      "description": "Painel de monitoramento foi atualizado pelo Minist\u00e9rio da Sa\u00fade O post Dengue: Brasil se aproxima dos 6 milh\u00f5es de casos e 4 mil mortes apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/06/19/medicina-e-saude/dengue-brasil-se-aproxima-dos-6-milhoes-de-casos-e-4-mil-mortes/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/06/dengue-1.jpg",
+      "publishedAt": "2024-06-19 11:26:45",
+      "content": "Segundo dados do Minist\u00e9rio da Sa\u00fade, o Brasil j\u00e1 contabiliza 5.968.224 casos prov\u00e1veis de dengue e 3.910 mortes confirmadas pela doen\u00e7a ao longo de 2024. Conforme divulgado pela Ag\u00eancia Brasil, a ma\u2026 [+2256 chars]",
+      "retrievedAt": "2024-06-20 19:05:57.528065",
+      "internal_id": "c39ffda833914eb24ae29c7f705e822bc2b749998cebe8d9a0ee96f852f07bb8",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10320,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Suaraindonesia-news.com",
+      "author": "admin",
+      "title": "Cegah Penyakit DBD, Babinsa Koramil 0826-10 Waru Bersama Petugas Puskesmas Lakukan Fogging",
+      "description": "PAMEKASAN, Rabu (19/06) suaraindonesia-news.com - Sebagai upaya pencegahan penyakit Demam Berdarah Dengue (DBD) dan Chikungunya, petugas dari Puskesmas Waru bersama Babinsa Koramil 0826-10 Waru Serda Andi Lutfi melaksanakan penyemprotan (fogging) di lingkunga\u2026",
+      "url": "https://suaraindonesia-news.com/cegah-penyakit-dbd-babinsa-koramil-0826-10-waru-bersama-petugas-puskesmas-lakukan-fogging/",
+      "urlToImage": "https://suaraindonesia-news.com/wp-content/uploads/2024/06/IMG_20240619_172941.jpg",
+      "publishedAt": "2024-06-19 10:36:14",
+      "content": "PAMEKASAN, Rabu (19/06) suaraindonesia-news.com \u2013 Sebagai upaya pencegahan penyakit Demam Berdarah Dengue (DBD) dan Chikungunya, petugas dari Puskesmas Waru bersama Babinsa Koramil 0826-10 Waru Serda\u2026 [+1753 chars]",
+      "retrievedAt": "2024-06-20 19:05:57.614002",
+      "internal_id": "5585b79d9342d84c03993b81a37b0716d66e647ec9ab34b7941058c31986ac91",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10314,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Bird Flu and Biomedicine, An Essay on What We Might Expect",
+      "description": "Bird flu as a case study in the category error of libertarian medicine, the misuse of preprints, and resulting poor public health policy.",
+      "url": "https://www.nakedcapitalism.com/2024/06/bird-flu-and-biomedicine-an-essay-on-what-we-might-expect.html",
+      "urlToImage": null,
+      "publishedAt": "2024-06-19 10:14:47",
+      "content": "Yves here. KLG turns to what should be getting more serious attentions than it is: bird flu and what we might do now, having not made serious interventions early. His intro: As H5N1 spreads the scie\u2026 [+17294 chars]",
+      "retrievedAt": "2024-06-20 19:05:57.152184",
+      "internal_id": "cf5cc115e677deb23249781f362611a51a253a2eb0a193d3301434d8d04948b4",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10322,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "LA County Mpox Cases Surge; Officials Urge Vaccination To Reduce Risk Of Severe Illness",
+      "description": "Officials recommend enhancing testing and vaccination efforts to reduce the risk of severe illness and transmission.",
+      "url": "https://www.medicaldaily.com/la-county-mpox-cases-surge-officials-urge-vaccination-reduce-risk-severe-illness-471870",
+      "urlToImage": "https://d.medicaldaily.com/en/full/472719/vaccine.jpg",
+      "publishedAt": "2024-06-19 08:28:46",
+      "content": "Health officials in Los Angeles County, California, have issued a warning after the county witnessed a \"concerning\" increase in mpox cases in the past two weeks. Ten new cases have been reported in \u2026 [+2545 chars]",
+      "retrievedAt": "2024-06-20 19:05:58.810304",
+      "internal_id": "877be3ee492a68135a0f824c2a1bde9e8581f759c725cec58cecbe79eeaed30d",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10312,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Laurence Karacsony",
+      "title": "Measles alert for travellers who visited domestic and international terminals of Sydney Airport after infectious passenger arrives from Dubai",
+      "description": "NSW Health has advised travellers to be on the lookout for signs and symptoms of measles after an infectious international passenger from Dubai arrived at Sydney Airport.",
+      "url": "https://www.skynews.com.au/lifestyle/health/measles-alert-for-travellers-who-visited-domestic-and-international-terminals-of-sydney-airport-after-infectious-passenger-arrives-from-dubai/news-story/521250333148572af49358120e1f246a",
+      "urlToImage": "https://content.api.news/v3/images/bin/cfdf57f78890c87c4985bed0b88e028c",
+      "publishedAt": "2024-06-19 07:27:19",
+      "content": "NSW Health has advised travellers to be on the lookout for signs and symptoms of measles after an infectious international passenger from Dubai arrived at Sydney Airport. The traveller departed Duba\u2026 [+2040 chars]",
+      "retrievedAt": "2024-06-20 19:05:56.730929",
+      "internal_id": "ba401b1cb0398db0d38cfc5faa731b49782bdeab6294ac2532fdaf268d414533",
+      "publishedAtLabel": "Jun 19"
+    },
     {
       "id": 10307,
       "query": [
@@ -25697,78 +25915,6 @@
       "content": "Myggarten gulafebernmyggan b\u00f6rjade flytta in i s\u00f6dra Kalifornien omkring 2014. Den riktar speciellt in sig p\u00e5 m\u00e4nniskor och kan b\u00e4ra p\u00e5 virus som chikungunya, zika och dengue och gula febern. Den lo\u2026 [+228 chars]",
       "retrievedAt": "2024-05-07 07:07:05.076545",
       "internal_id": "b036db975e42ac14ae9f1823491b2a1857fbf3d339e2824ada1521497f9d63cb",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8884,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados",
-      "description": "No pa\u00eds, 21 estados e o Distrito Federal est\u00e3o em tend\u00eancia de queda ou estabilidade na incid\u00eancia de dengue. Outras cinco unidades federativas ainda apresentam alta da doen\u00e7a",
-      "url": "https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
-      "publishedAt": "2024-05-05 17:13:05",
-      "content": "O Estado de S\u00e3o Paulo chegou a 587 mortes por dengue em 2024, segundo dados do painel de monitoramento da Secretaria Estadual da Sa\u00fade deste domingo (5). Outras 719 mortes est\u00e3o em investiga\u00e7\u00e3o. O es\u2026 [+2275 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.899957",
-      "internal_id": "9b4e1c0b521d87ca54107e9873edcdf263aa31c987273811247d42eff1f89a81",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8883,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Luiz Vassallo",
-      "title": "Munic\u00edpios ter\u00e3o de pagar R$ 300 mil por morte de crian\u00e7a com dengue",
-      "description": "Justi\u00e7a de SP considerou que neglig\u00eancia de m\u00e9dicos dos munic\u00edpios de Sumar\u00e9 e Nova Odessa levou \u00e0 morte de crian\u00e7a de 13 anos com dengue",
-      "url": "https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
-      "publishedAt": "2024-05-05 15:01:37",
-      "content": "S\u00e3o Paulo O Tribunal de Justi\u00e7a de S\u00e3o Paulo (TJSP) condenou dois munic\u00edpios do interior de S\u00e3o Paulo a indenizarem em R$ 300 mil o pai de uma crian\u00e7a que morreu de dengue em raz\u00e3o da neglig\u00eancia m\u00e9d\u2026 [+1602 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.880444",
-      "internal_id": "03a02e04614d510c04f09b6bb87d4211a82c2feaf68e8a973dae49b2446b512a",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8885,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue cases surpass 11,000 in Bagmati Province",
-      "description": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total of 11,409 cases have been diagnosed since the commencement o\u2026",
-      "url": "https://english.khabarhub.com/2024/05/354188/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-05-05 14:15:17",
-      "content": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total\u2026 [+945 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.935323",
-      "internal_id": "bd805cf9d09aaca253f43d9ea3e77cff097a31fdaeb260576323187444d13def",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8891,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Financial News",
-      "author": null,
-      "title": "Tackling Malaria: Nigeria's Efforts and Challenges",
-      "description": "Federal Government of Nigeria is taking quick measures to tackle and eliminate malaria. Measures include intensifying case management, mobilizing funding, enhancing community involvement, and exploring innovative service delivery. Coordination Minister expres\u2026",
-      "url": "https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges",
-      "urlToImage": "https://storage.financialnews.com/10141/6637014fdec5f.webp",
-      "publishedAt": "2024-05-05 10:40:57",
-      "content": "Malaria is a deadly disease caused by parasites transmitted to humans through the bites of infected mosquitoes. It is a major public health concern in Nigeria, with millions of cases reported annuall\u2026 [+3610 chars]",
-      "retrievedAt": "2024-05-07 07:07:05.691610",
-      "internal_id": "205d4a96c931ebd9358276362996805a4f3aadaaf893a121e26a98446f806075",
       "publishedAtLabel": "May 5"
     }
   ]
