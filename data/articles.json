@@ -1,8 +1,189 @@
 {
-  "last_updated": "2024-06-19 19:05",
-  "count_articles_total": 1413,
-  "count_articles_new": 16,
+  "last_updated": "2024-06-20 07:06",
+  "count_articles_total": 1427,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 10307,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases surge in Sudurpaschim Province",
+      "description": "MAHENDRANAGAR: Dengue infections transmitted by mosquito bites are on the rise in the hilly districts of Sudurpaschim Province. Traditionally more prevalent in Terai districts, diseases like malaria and dengue are increasingly affecting higher altitudes. Hemr\u2026",
+      "url": "https://english.khabarhub.com/2024/19/361645/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-06-19 07:05:51",
+      "content": "MAHENDRANAGAR: Dengue infections transmitted by mosquito bites are on the rise in the hilly districts of Sudurpaschim Province. Traditionally more prevalent in Terai districts, diseases like malaria\u2026 [+1164 chars]",
+      "retrievedAt": "2024-06-20 07:06:11.921758",
+      "internal_id": "c1732637e2aa866749ca993216efe3a0416f623e79882bbf918d8a31b64476a4",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10302,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Lara Webster",
+      "title": "Bird flu detected on poultry farm in New South Wales",
+      "description": "Avian influenza has been detected at a commercial poultry farm in the Greater Sydney Basin. The affected egg farm has implemented quarantine to prevent the movement of equipment and animals.",
+      "url": "https://www.abc.net.au/news/2024-06-19/bird-flu-detected-on-new-south-wales-poultry-egg-farm/103997490",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0b04ad35e96a4248c2825a4d68019d9c?impolicy=wcms_watermark_news&cropH=3233&cropW=5748&xPos=0&yPos=164&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-06-19 05:03:57",
+      "content": "A New South Wales poultry farm is under quarantine following a detection of bird flu. The New South Wales Department of Primary Industries has confirmed an outbreak of HPAI H7N8 strain of avian inf\u2026 [+1449 chars]",
+      "retrievedAt": "2024-06-20 07:06:11.412554",
+      "internal_id": "af900152b476950aa7f6f1050049b24d2ba20b02e6f8e68e9c523a23168449cb",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10304,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Redacci\u00f3n HuffPost",
+      "title": "Los epidemi\u00f3logos alertan de una plaga que pone en jaque los JJOO de Par\u00eds",
+      "description": "Las autoridades francesas han lanzado un plan de vigilancia ante el fuerte aumento de los casos importados de dengue y en previsi\u00f3n de que puedan subir a\u00fan m\u00e1s por la llegada de visitantes para los Juegos Ol\u00edmpicos de Par\u00eds. Desde el 1 de enero al\u2026",
+      "url": "https://www.huffingtonpost.es/deporte/los-epidemiologos-alertan-plaga-pone-jaque-jjoo-parisbr.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/06/19/la-torre-eiffel-decorada-con-los-aros-olimpicos.jpeg",
+      "publishedAt": "2024-06-19 04:05:00",
+      "content": "Las autoridades francesas han lanzado un plan de vigilancia ante el fuerte aumento de los casos importados de dengue y en previsi\u00f3n de que puedan subir a\u00fan m\u00e1s por la llegada de visitantes para los J\u2026 [+2786 chars]",
+      "retrievedAt": "2024-06-20 07:06:11.852715",
+      "internal_id": "688c6ede4320eed4a8621418659a9fe72a884d40fccf12b2a500a3a36c047928",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10306,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Tropiikin tautihyttysist\u00e4 on tulossa my\u00f6s eurooppalainen ongelma",
+      "description": "Trooppisia kuumetauteja levitt\u00e4v\u00e4t hyttyset ovat levinneet uusille alueille Euroopassa. Henkil\u00f6kohtainen suojautuminen my\u00f6s Euroopan riskialueilla on aiempaa t\u00e4rke\u00e4mp\u00e4\u00e4.",
+      "url": "https://yle.fi/a/74-20090190",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_265,w_2792,h_1570/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1693905171/39-116758164f6f0d4ea305",
+      "publishedAt": "2024-06-19 03:09:37",
+      "content": "Trooppisia kuumetautiviruksia kuten dengueta ja L\u00e4nsi-Niilin kuumetta kantavat hyttyset ovat levitt\u00e4ytym\u00e4ss\u00e4 yh\u00e4 laajemmalle Eurooppaan. Euroopassa todetut tapaukset ovat suurimmaksi osaksi edelleen\u2026 [+5583 chars]",
+      "retrievedAt": "2024-06-20 07:06:11.894783",
+      "internal_id": "a0324f3ea3e9680ff11b7afc7075fa39aaa646b0f755288373975faf39442916",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10303,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Ioana Ion",
+      "title": "Un virus, cu mortalitate de 40 de ori mai mare dec\u00e2t COVID-19, ar putea devasta omenirea. La ce trebuie s\u0103 fim aten\u021bi",
+      "description": "Exper\u021bii britanici \u00een s\u0103n\u0103tate public\u0103 avertizeaz\u0103 c\u0103 gripa aviar\u0103, inclusiv varianta H5N1, care poate infecta \u0219i oamenii, ar putea provoca o pandemie mai grav\u0103 dec\u00e2t COVID-19. Ei cer guvernelor lumii s\u0103 ia m\u0103suri imediate pentru prevenirea unei eventuale cat\u2026",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/un-virus-cu-mortalitate-de-40-de-ori-mai-mare-2369479.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-8/8ed2619a-8317-4376-baf2-e552f358b9e1/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-06-19 03:00:25",
+      "content": "Experii britanici \u00een sntate public avertizeaz c gripa aviar, inclusiv varianta H5N1, care poate infecta i oamenii, ar putea provoca o pandemie mai grav dec\u00e2t COVID-19. Ei cer guvernelor lumii s ia ms\u2026 [+4144 chars]",
+      "retrievedAt": "2024-06-20 07:06:11.596797",
+      "internal_id": "be3644950e2fb7af86a70e3803b3fa3562ae2e704a6728f555c94c187b9b3df6",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10308,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Jess Cockerill",
+      "title": "A Treatment For Malaria Could Have a Surprising Effect on PCOS",
+      "description": "For a condition that affects at least one in ten women of reproductive age and is a leading cause of female infertility worldwide, we understand surprisingly little about polycystic ovary syndrome (PCOS).",
+      "url": "https://www.sciencealert.com/a-treatment-for-malaria-could-have-a-surprising-effect-on-pcos",
+      "urlToImage": "https://www.sciencealert.com/images/2024/06/GettyImages-160936344-1024x415.jpg",
+      "publishedAt": "2024-06-18 23:02:21",
+      "content": "For a condition that affects at least one in ten women of reproductive age and is a leading cause of female infertility worldwide, we understand surprisingly little about polycystic ovary syndrome (P\u2026 [+2925 chars]",
+      "retrievedAt": "2024-06-20 07:06:12.316468",
+      "internal_id": "152b1914f0a2e00e522e8dc07384534906885ee90dbd028184ac7f1720b0cef4",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10310,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "FOX 11 Los Angeles",
+      "author": "City News Service",
+      "title": "LA County reporting an increase of Monkeypox cases",
+      "description": "Symptoms include rash or sores that look like pimples or blisters on the face and body as well as fever, chills, headache, muscle aches or swelling of lymph nodes.",
+      "url": "https://www.foxla.com/news/la-county-reporting-increase-monkeypox-cases",
+      "urlToImage": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/06/1280/720/D46CB0697E15DCD7CCB92F0E98CAC5C2.jpg?ve=1&tl=1",
+      "publishedAt": "2024-06-18 22:47:16",
+      "content": "LOS ANGELES - The Los Angeles County Department of Public Health is reporting a \"concerning increase\" of 10 new cases of mpox in the past two weeks, up from a countywide average of less than two case\u2026 [+2881 chars]",
+      "retrievedAt": "2024-06-20 07:06:12.762522",
+      "internal_id": "aab1f898e1c3d165999772757211dc0687fc489c4a19be9c8e5178acaa3890f1",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10301,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Melissa Mackay",
+      "title": "'Rampant' spread of illness across NSW with whooping cough rates at their highest in almost a decade",
+      "description": "NSW Health data has revealed that whooping cough rates in the state are at their highest in almost a decade. Multiple respiratory illnesses \u2014 including whooping cough and pneumonia \u2014 have been spreading, particularly among school-aged children.",
+      "url": "https://www.abc.net.au/news/2024-06-19/nsw-flu-whooping-cough-spike-pneumonia-children/103994248",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3175b68fe3e7d8234b3c69033ab7208c?impolicy=wcms_watermark_news&cropH=911&cropW=1620&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-06-18 22:03:45",
+      "content": "In short: New South Wales health data shows whooping cough is at its highest rate since 2016.Pertussis (whooping cough) and pneumonia figures are unseasonably high in school-aged chi\u2026 [+4432 chars]",
+      "retrievedAt": "2024-06-20 07:06:10.943371",
+      "internal_id": "e16366565e17d2baab1232a3a65698ff9774a9d2e75f835cfccf3ef65f5e9d6d",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10305,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Amazonaws.com",
+      "author": "Carmen Merchan",
+      "title": "El aumento de los casos de dengue pone en alerta a Francia de cara a los JJ.OO.",
+      "description": "Las autoridades francesas han lanzado un plan de vigilancia ante el fuerte aumento de los casos importados de dengue y en previsi\u00f3n de que puedan subir a\u00fan m\u00e1s por la llegada de visitantes para los Juegos Ol\u00edmpicos de Par\u00eds. Desde el 1 de enero al 19 de abril\u2026",
+      "url": "https://ec2-44-215-200-71.compute-1.amazonaws.com/2024/06/18/el-aumento-de-los-casos-de-dengue-pone-en-alerta-a-francia-de-cara-a-los-jj-oo/",
+      "urlToImage": null,
+      "publishedAt": "2024-06-18 21:00:00",
+      "content": "Las autoridades francesas han lanzado un plan de vigilancia ante el fuerte aumento de los casos importados de dengue y en previsi\u00f3n de que puedan subir a\u00fan m\u00e1s por la llegada de visitantes para los J\u2026 [+2805 chars]",
+      "retrievedAt": "2024-06-20 07:06:11.881319",
+      "internal_id": "067188275482efbd54cb0db2504e7c7e5a2c3aa2a80c3f1f6e3708997bd0e98b",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 10309,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Fauci Hid Plans To Create A Mutant Monkeypox Virus That \u201cCould\u2019ve Started A Pandemic\u201d",
+      "description": "Dr. Anthony Fauci's National Institute of Allergy and Infectious Diseases (NIAID) submitted plans to create a more transmissible and more lethal strain of Mpox in 2015 and hid it from other members of the ruling class. The created virus had \"pandemic potenti\u2026",
+      "url": "https://www.shtfplan.com/headline-news/fauci-hid-plans-to-create-a-mutant-monkeypox-virus-that-couldve-started-a-pandemic",
+      "urlToImage": null,
+      "publishedAt": "2024-06-18 20:00:08",
+      "content": "Dr. Anthony Fauci\u2019s National Institute of Allergy and Infectious Diseases (NIAID) submitted plans to create a more transmissible and more lethal strain of Mpox in 2015 and hid it from other members \u2026 [+2013 chars]",
+      "retrievedAt": "2024-06-20 07:06:12.747983",
+      "internal_id": "65507f4f5733b08db42720ecf8cfbee292e64787b5fce2ced6da5d0dffea4e6e",
+      "publishedAtLabel": "Jun 18"
+    },
     {
       "id": 10292,
       "query": [
@@ -25516,6 +25697,78 @@
       "content": "Myggarten gulafebernmyggan b\u00f6rjade flytta in i s\u00f6dra Kalifornien omkring 2014. Den riktar speciellt in sig p\u00e5 m\u00e4nniskor och kan b\u00e4ra p\u00e5 virus som chikungunya, zika och dengue och gula febern. Den lo\u2026 [+228 chars]",
       "retrievedAt": "2024-05-07 07:07:05.076545",
       "internal_id": "b036db975e42ac14ae9f1823491b2a1857fbf3d339e2824ada1521497f9d63cb",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8884,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados",
+      "description": "No pa\u00eds, 21 estados e o Distrito Federal est\u00e3o em tend\u00eancia de queda ou estabilidade na incid\u00eancia de dengue. Outras cinco unidades federativas ainda apresentam alta da doen\u00e7a",
+      "url": "https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2024-05-05 17:13:05",
+      "content": "O Estado de S\u00e3o Paulo chegou a 587 mortes por dengue em 2024, segundo dados do painel de monitoramento da Secretaria Estadual da Sa\u00fade deste domingo (5). Outras 719 mortes est\u00e3o em investiga\u00e7\u00e3o. O es\u2026 [+2275 chars]",
+      "retrievedAt": "2024-05-06 19:05:27.899957",
+      "internal_id": "9b4e1c0b521d87ca54107e9873edcdf263aa31c987273811247d42eff1f89a81",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8883,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luiz Vassallo",
+      "title": "Munic\u00edpios ter\u00e3o de pagar R$ 300 mil por morte de crian\u00e7a com dengue",
+      "description": "Justi\u00e7a de SP considerou que neglig\u00eancia de m\u00e9dicos dos munic\u00edpios de Sumar\u00e9 e Nova Odessa levou \u00e0 morte de crian\u00e7a de 13 anos com dengue",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-05-05 15:01:37",
+      "content": "S\u00e3o Paulo O Tribunal de Justi\u00e7a de S\u00e3o Paulo (TJSP) condenou dois munic\u00edpios do interior de S\u00e3o Paulo a indenizarem em R$ 300 mil o pai de uma crian\u00e7a que morreu de dengue em raz\u00e3o da neglig\u00eancia m\u00e9d\u2026 [+1602 chars]",
+      "retrievedAt": "2024-05-06 19:05:27.880444",
+      "internal_id": "03a02e04614d510c04f09b6bb87d4211a82c2feaf68e8a973dae49b2446b512a",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8885,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases surpass 11,000 in Bagmati Province",
+      "description": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total of 11,409 cases have been diagnosed since the commencement o\u2026",
+      "url": "https://english.khabarhub.com/2024/05/354188/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-05-05 14:15:17",
+      "content": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total\u2026 [+945 chars]",
+      "retrievedAt": "2024-05-06 19:05:27.935323",
+      "internal_id": "bd805cf9d09aaca253f43d9ea3e77cff097a31fdaeb260576323187444d13def",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8891,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Financial News",
+      "author": null,
+      "title": "Tackling Malaria: Nigeria's Efforts and Challenges",
+      "description": "Federal Government of Nigeria is taking quick measures to tackle and eliminate malaria. Measures include intensifying case management, mobilizing funding, enhancing community involvement, and exploring innovative service delivery. Coordination Minister expres\u2026",
+      "url": "https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges",
+      "urlToImage": "https://storage.financialnews.com/10141/6637014fdec5f.webp",
+      "publishedAt": "2024-05-05 10:40:57",
+      "content": "Malaria is a deadly disease caused by parasites transmitted to humans through the bites of infected mosquitoes. It is a major public health concern in Nigeria, with millions of cases reported annuall\u2026 [+3610 chars]",
+      "retrievedAt": "2024-05-07 07:07:05.691610",
+      "internal_id": "205d4a96c931ebd9358276362996805a4f3aadaaf893a121e26a98446f806075",
       "publishedAtLabel": "May 5"
     }
   ]

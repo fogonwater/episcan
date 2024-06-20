@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-06-19 19:05
-- **Most recent article:** 2024-06-18 19:00:45
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-06-20 07:06
+- **Most recent article:** 2024-06-19 07:05:51
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 53 | 87 | 58 | 61 | 64 | 115 | 19 | 457 |
-| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 11 | 424 |
-| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 8 | 149 |
+| dengue | 56 | 87 | 58 | 61 | 64 | 115 | 23 | 464 |
+| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 12 | 425 |
+| malaria | 29 | 13 | 17 | 25 | 21 | 37 | 10 | 152 |
 | measles | 9 | 29 | 15 | 16 | 11 | 7 | 7 | 94 |
-| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 3 | 75 |
+| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 5 | 77 |
 | rabies | 22 | 10 | 8 | 15 | 9 | 2 | 1 | 67 |
 | chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 3 | 60 |
-| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 6 | 48 |
-| hpai | 4 | 3 | 7 | 12 | 2 | 4 | 2 | 34 |
+| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 7 | 49 |
+| hpai | 4 | 3 | 7 | 12 | 2 | 4 | 3 | 35 |
 | meningitis | 5 | 9 | 4 | 1 | 6 | 3 | 1 | 29 |
 | zika | 2 | 6 | 3 | 3 | 0 | 12 | 2 | 28 |
 | leptospirosis | 1 | 3 | 0 | 5 | 1 | 1 | 0 | 11 |
@@ -51,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (pertussis)
 
+- ['Rampant' spread of illness across NSW with whooping cough rates at their highest in almost a decade](https://www.abc.net.au/news/2024-06-19/nsw-flu-whooping-cough-spike-pneumonia-children/103994248) (ABC News (AU))
+
 - [Quem deve tomar reforço da vacina de coqueluche? Proteção dura de 5 a 10 anos](https://www.terra.com.br/vida-e-estilo/saude/quem-deve-tomar-reforco-da-vacina-de-coqueluche-protecao-dura-de-5-a-10-anos,30e3ddc0fe31ea79d1de39d0f948ee40zoesvguj.html) (Terra.com.br)
 
 - [Guidance: Pertussis: occupational vaccination of health care workers](https://www.gov.uk/government/publications/pertussis-occupational-vaccination-of-health-care-workers) (Www.gov.uk)
@@ -64,6 +66,10 @@ Source: [News API](https://newsapi.org/)
 - [O que é coqueluche? Entenda a doença que está em ascensão no Brasil](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html) (Terra.com.br)
 
 ## 24-25 (mpox)
+
+- [LA County reporting an increase of Monkeypox cases](https://www.foxla.com/news/la-county-reporting-increase-monkeypox-cases) (FOX 11 Los Angeles)
+
+- [Fauci Hid Plans To Create A Mutant Monkeypox Virus That “Could’ve Started A Pandemic”](https://www.shtfplan.com/headline-news/fauci-hid-plans-to-create-a-mutant-monkeypox-virus-that-couldve-started-a-pandemic) (Shtfplan.com)
 
 - [Mpox cases increase in LA County; health officials advise at-risk residents to take precautions](https://abc7.com/post/mpox-cases-increase-la-county-health-officials-advise/14967262/) (KABC-TV)
 
@@ -93,6 +99,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (malaria)
 
+- [Dengue cases surge in Sudurpaschim Province](https://english.khabarhub.com/2024/19/361645/) (Khabarhub.com)
+
+- [A Treatment For Malaria Could Have a Surprising Effect on PCOS](https://www.sciencealert.com/a-treatment-for-malaria-could-have-a-surprising-effect-on-pcos) (ScienceAlert)
+
 - [Drones are biting back against Florida's mosquito problem](https://www.techspot.com/news/103435-drones-biting-back-against-florida-mosquito-problem.html) (TechSpot)
 
 - [EBC金融集團 與台灣行動兒童療育協會攜手，呵護早期療育兒童，弘揚社會關懷](https://www.thenewslens.com/article/204077) (Thenewslens.com)
@@ -111,11 +121,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (hpai)
 
+- [Bird flu detected on poultry farm in New South Wales](https://www.abc.net.au/news/2024-06-19/bird-flu-detected-on-new-south-wales-poultry-egg-farm/103997490) (ABC News (AU))
+
 - [Птичий грипп "просочился" из лаборатории Минсельхоза США](https://www.news2.ru/story/684610/) (News2.ru)
 
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (h5n1)
+
+- [Un virus, cu mortalitate de 40 de ori mai mare decât COVID-19, ar putea devasta omenirea. La ce trebuie să fim atenți](https://adevarul.ro/stiri-interne/sanatate/un-virus-cu-mortalitate-de-40-de-ori-mai-mare-2369479.html) (Adevarul.ro)
 
 - [Avian Flu: What to Know About H5N1 Virus Risks, Beyond the Headlines](https://www.kqed.org/news/11990735/avian-flu-what-to-know-about-h5n1-virus-risks-beyond-the-headlines) (KQED)
 
@@ -140,6 +154,14 @@ Source: [News API](https://newsapi.org/)
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
+
+- [Dengue cases surge in Sudurpaschim Province](https://english.khabarhub.com/2024/19/361645/) (Khabarhub.com)
+
+- [Los epidemiólogos alertan de una plaga que pone en jaque los JJOO de París](https://www.huffingtonpost.es/deporte/los-epidemiologos-alertan-plaga-pone-jaque-jjoo-parisbr.html) (Huffingtonpost.es)
+
+- [Tropiikin tautihyttysistä on tulossa myös eurooppalainen ongelma](https://yle.fi/a/74-20090190) (YLE News)
+
+- [El aumento de los casos de dengue pone en alerta a Francia de cara a los JJ.OO.](https://ec2-44-215-200-71.compute-1.amazonaws.com/2024/06/18/el-aumento-de-los-casos-de-dengue-pone-en-alerta-a-francia-de-cara-a-los-jj-oo/) (Amazonaws.com)
 
 - [El aumento de los casos de dengue pone en alerta a Francia de cara a los Juegos Olímpicos](https://www.montevideo.com.uy/Salud/El-aumento-de-los-casos-de-dengue-pone-en-alerta-a-Francia-de-cara-a-los-Juegos-Olimpicos-uc891566) (Montevideo.com.uy)
 
@@ -2951,6 +2973,8 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
+- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
+
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -3188,6 +3212,12 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
+
+- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
+
+- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
+
+- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 
