@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-06-20 19:05",
-  "count_articles_total": 1435,
-  "count_articles_new": 12,
+  "last_updated": "2024-06-21 07:06",
+  "count_articles_total": 1448,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 10331,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 1 - Dengue in Asia and the Pacific Islands",
+      "description": "Dengue is a year-round risk in many parts of the world, with outbreaks commonly occurring every 2\u20135 years. Travelers to risk areas should prevent mosquito bites. Country List : Argentina, Brazil, Burkina Faso, Cambodia, Colombia, Costa Rica, Cura&#231;ao,\u2026",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level1/dengue-global",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2024-06-20 04:00:00",
+      "content": "Dengue is a disease caused by a virus spread through mosquito bites. The disease can take up to 2 weeks to develop with illness generally lasting less than a week. Health effects from dengue include\u2026 [+347 chars]",
+      "retrievedAt": "2024-06-21 07:06:25.139522",
+      "internal_id": "d776e7d5b87e8a194af64a322a2e1dca1b00beaf5032673c80354f18334c5b2c",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10325,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Heloise Vyas",
+      "title": "Measles surges globally as immunisation in Australia suffers setback. Are we at risk of an outbreak?",
+      "description": "Health experts spotlight \"creative\" solutions Australia can adopt in the face of growing under-vaccination of children and spread of vaccine-preventable diseases like measles.",
+      "url": "https://www.abc.net.au/news/2024-06-20/is-australia-at-risk-of-a-measles-outbreak-as-cases-surge/103997554",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/8e91833ae28ca9d4357ee271807e6d54?impolicy=wcms_watermark_news&cropH=1347&cropW=2395&xPos=0&yPos=173&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-06-20 02:26:41",
+      "content": "In short: Measles cases are soaring globally due to a growing number of non-immune kids and a pandemic-induced immunisation backlog.Australia has almost no localised transmission of \u2026 [+8282 chars]",
+      "retrievedAt": "2024-06-21 07:06:23.892416",
+      "internal_id": "8f3a21d7b48a9a270f9d49b73cd35f01f72cd41e729ad71146dcf6aedb2084c8",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10324,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WKMG News 6 & ClickOrlando",
+      "author": "Brandon Hogan",
+      "title": "Rabies alert issued after positive case near Sumterville",
+      "description": "The Florida Department of Health in Sumter County issued a rabies alert after a positive case was confirmed in the Sumterville area, according to a news release.",
+      "url": "https://www.clickorlando.com/news/local/2024/06/19/rabies-alert-issued-after-positive-case-near-sumterville/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/T5GAAT5BYZFVRB4RVVIZTUTP3I.JPG?_a=ATAPphC0",
+      "publishedAt": "2024-06-20 00:13:48",
+      "content": "SUMTER COUNTY, Fla. The Florida Department of Health in Sumter County issued a rabies alert after a positive case was confirmed in the Sumterville area, according to a news release. A case of rabies\u2026 [+2133 chars]",
+      "retrievedAt": "2024-06-21 07:06:23.575410",
+      "internal_id": "c4d94c51e56109bc961bd6cd4e20d1cae759a3726998fc137d516767d496f605",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10323,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+      "title": "Mor\u00ec a 12 anni per una banale pertosse. Era vaccinato. L\u2019inchiesta rivela la lunga catena di errori medici",
+      "description": "Andrea Vincenzi era vaccinato. Era stato visitato all\u2019ospedale di Chivasso, ma ai medici sarebbe sfuggito la presenza del \u201cbordetella pertussis\u201d ovvero il batterio della malattia. Il ragazzino spir\u00f2 dopo pochi giorni al Regina Margherita",
+      "url": "https://torino.repubblica.it/cronaca/2024/06/20/news/andrea_vincenzi_chivasso_morto_pertosse-423259406/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-torino/2024/06/19/221839974-019eb44f-147e-433e-b2d9-424a8b331f98.jpg",
+      "publishedAt": "2024-06-19 23:00:00",
+      "content": "Andrea Vincenzi era vaccinato. Era stato visitato allospedale di Chivasso, ma ai medici sarebbe sfuggito la presenza del bordetella pertussis ovvero il batterio della malattia. Il ragazzino spir\u00f2 dop\u2026 [+34 chars]",
+      "retrievedAt": "2024-06-21 07:06:23.137205",
+      "internal_id": "d63e7dcf89bd08bc0e8c9c59ed6f9ea7e32217bb758c21fb50c3fadb27dce3b2",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10330,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Gente, iG Gente",
+      "title": "Lulu Santos surge pela primeira vez ap\u00f3s 'combo de doen\u00e7as'; v\u00eddeo",
+      "description": "Cantor encarou tratamento contra influenza, dengue e gastroenterite aguda",
+      "url": "https://gente.ig.com.br/celebridades/2024-06-19/lulu-santos-surge-pela-primeira-vez-apos-combo-de-doencas--video.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/4p/ml/fg/4pmlfgu929a0kcb81qywb2v35.jpg",
+      "publishedAt": "2024-06-19 22:57:46",
+      "content": "Nesta quarta-feira (19), o cantor Lulu Santos, de 71 anos, surgiu pela primeira vez ap\u00f3s precisar ser hospitalizado devido um complexo quadro de sa\u00fade. H\u00e1 cerca de duas semanas, o artista foi diagnos\u2026 [+2276 chars]",
+      "retrievedAt": "2024-06-21 07:06:25.133483",
+      "internal_id": "9cd8d39adf2caa8f97d99d242e8f8714cd3f1a581c1bfa1f9b05cfaa9d7a5e7d",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10327,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thomaz Molina",
+      "title": "Julgamento do homem que atropelou e matou ciclista em 2020 \u00e9 adiado",
+      "description": "J\u00fari popular, que seria nesta quinta, n\u00e3o tem nova data para ocorrer; defesa de Jos\u00e9 Maria da Costa J\u00fanior alega que ele est\u00e1 com dengue",
+      "url": "https://www.metropoles.com/sao-paulo/julgamento-do-homem-que-atropelou-e-matou-ciclista-em-2020-e-adiado",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/06/19194059/marina-harkot.jpg",
+      "publishedAt": "2024-06-19 22:47:06",
+      "content": "S\u00e3o Paulo \u2013 O in\u00edcio do julgamento pelo j\u00fari popular do empres\u00e1rio Jos\u00e9 Maria da Costa J\u00fanior, marcado para esta quinta-feira (20/6), foi adiado a pedido da defesa. Ele \u00e9 acusado de dirigir b\u00eabado, \u2026 [+3865 chars]",
+      "retrievedAt": "2024-06-21 07:06:25.093097",
+      "internal_id": "6b6dde737160fe0c6c1b18fc6120256f9a1fe5ca08978e6cb9634f652bbde67f",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10328,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Deivid Souza",
+      "title": "Pa\u00eds tem novo recorde da dengue com 6 milh\u00f5es de casos e 4 mil mortes",
+      "description": "Apesar do tend\u00eancia na baixa de casos, \u00f3bitos devem aumentar porque h\u00e1 2,8 mil em investiga\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/brasil/pais-tem-novo-recorde-da-dengue-com-6-milhoes-de-casos-e-4-mil-mortes",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-06-19 21:55:51",
+      "content": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil chegou a um novo recorde hist\u00f3rico nesta quarta-feira (19/6), com 6.007.048 registros do tipo. A informa\u00e7\u00e3o consta no Painel de Monitoramento das Arbov\u2026 [+1735 chars]",
+      "retrievedAt": "2024-06-21 07:06:25.103532",
+      "internal_id": "b3a69136710a1d06ff70d971d6de01f1523215ace06fe545582e0e4ebcc663f3",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10329,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Pedro Sciola de Oliveira, Pedro Sciola de Oliveira",
+      "title": "SP: 43% dos hospitais t\u00eam alta de interna\u00e7\u00f5es por dengue e SRAG",
+      "description": "Pesquisa do SindHosp foi feita em 81 hospitais particulares entre 4 e 14 de junho",
+      "url": "https://saude.ig.com.br/2024-06-19/aumento-de-internacoes-por-dengue-e-srag.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/dw/kn/lr/dwknlr7cf6v5rcf6qpb6fy496.jpg",
+      "publishedAt": "2024-06-19 21:03:55",
+      "content": "Uma pesquisa feita pelo Sindicato dos Hospitais, Cl\u00ednicas e Laborat\u00f3rios do Estado de S\u00e3o Paulo (SindHosp) mostra que 43% dos hospitais privados registraram alta nas interna\u00e7\u00f5es por dengue e SRAG\u2026 [+1596 chars]",
+      "retrievedAt": "2024-06-21 07:06:25.127560",
+      "internal_id": "5d3309a618f1dc2951e8f3ec9d89714f22c6406be11c5384b4004577c88afad7",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 10326,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Nitish Boodhoo, Research Associate, Department of Pathobiology, University of Guelph, Shayan Sharif, Professor of Immunology and Associate Dean, Research and Graduate Studies, University of Guelph",
+      "title": "Climate change is helping the H5N1 bird flu virus spread and evolve",
+      "description": "H5N1 is the latest evidence that climate change is altering how viruses spread and evolve. It is essential that global public health officials take these dynamics into account.",
+      "url": "https://theconversation.com/climate-change-is-helping-the-h5n1-bird-flu-virus-spread-and-evolve-230361",
+      "urlToImage": "https://images.theconversation.com/files/601811/original/file-20240619-19-fr6whn.JPG?ixlib=rb-4.1.0&rect=0%2C998%2C8233%2C4116&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-06-19 20:45:16",
+      "content": "The spread of the highly pathogenic avian influenza virus H5N1 among animals is unprecedented having been found on all continents \u2014 except Oceania \u2014 with the United Nations calling it \u201ca global zoono\u2026 [+6207 chars]",
+      "retrievedAt": "2024-06-21 07:06:24.516957",
+      "internal_id": "3ea9e36f2b5148e03d0f34b31d26bbb70330c5662e7db6ca634fedcb60c78a6b",
+      "publishedAtLabel": "Jun 19"
+    },
     {
       "id": 10313,
       "query": [
@@ -25915,6 +26077,78 @@
       "content": "Myggarten gulafebernmyggan b\u00f6rjade flytta in i s\u00f6dra Kalifornien omkring 2014. Den riktar speciellt in sig p\u00e5 m\u00e4nniskor och kan b\u00e4ra p\u00e5 virus som chikungunya, zika och dengue och gula febern. Den lo\u2026 [+228 chars]",
       "retrievedAt": "2024-05-07 07:07:05.076545",
       "internal_id": "b036db975e42ac14ae9f1823491b2a1857fbf3d339e2824ada1521497f9d63cb",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8884,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados",
+      "description": "No pa\u00eds, 21 estados e o Distrito Federal est\u00e3o em tend\u00eancia de queda ou estabilidade na incid\u00eancia de dengue. Outras cinco unidades federativas ainda apresentam alta da doen\u00e7a",
+      "url": "https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2024-05-05 17:13:05",
+      "content": "O Estado de S\u00e3o Paulo chegou a 587 mortes por dengue em 2024, segundo dados do painel de monitoramento da Secretaria Estadual da Sa\u00fade deste domingo (5). Outras 719 mortes est\u00e3o em investiga\u00e7\u00e3o. O es\u2026 [+2275 chars]",
+      "retrievedAt": "2024-05-06 19:05:27.899957",
+      "internal_id": "9b4e1c0b521d87ca54107e9873edcdf263aa31c987273811247d42eff1f89a81",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8883,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luiz Vassallo",
+      "title": "Munic\u00edpios ter\u00e3o de pagar R$ 300 mil por morte de crian\u00e7a com dengue",
+      "description": "Justi\u00e7a de SP considerou que neglig\u00eancia de m\u00e9dicos dos munic\u00edpios de Sumar\u00e9 e Nova Odessa levou \u00e0 morte de crian\u00e7a de 13 anos com dengue",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-05-05 15:01:37",
+      "content": "S\u00e3o Paulo O Tribunal de Justi\u00e7a de S\u00e3o Paulo (TJSP) condenou dois munic\u00edpios do interior de S\u00e3o Paulo a indenizarem em R$ 300 mil o pai de uma crian\u00e7a que morreu de dengue em raz\u00e3o da neglig\u00eancia m\u00e9d\u2026 [+1602 chars]",
+      "retrievedAt": "2024-05-06 19:05:27.880444",
+      "internal_id": "03a02e04614d510c04f09b6bb87d4211a82c2feaf68e8a973dae49b2446b512a",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8885,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases surpass 11,000 in Bagmati Province",
+      "description": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total of 11,409 cases have been diagnosed since the commencement o\u2026",
+      "url": "https://english.khabarhub.com/2024/05/354188/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-05-05 14:15:17",
+      "content": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total\u2026 [+945 chars]",
+      "retrievedAt": "2024-05-06 19:05:27.935323",
+      "internal_id": "bd805cf9d09aaca253f43d9ea3e77cff097a31fdaeb260576323187444d13def",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8891,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Financial News",
+      "author": null,
+      "title": "Tackling Malaria: Nigeria's Efforts and Challenges",
+      "description": "Federal Government of Nigeria is taking quick measures to tackle and eliminate malaria. Measures include intensifying case management, mobilizing funding, enhancing community involvement, and exploring innovative service delivery. Coordination Minister expres\u2026",
+      "url": "https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges",
+      "urlToImage": "https://storage.financialnews.com/10141/6637014fdec5f.webp",
+      "publishedAt": "2024-05-05 10:40:57",
+      "content": "Malaria is a deadly disease caused by parasites transmitted to humans through the bites of infected mosquitoes. It is a major public health concern in Nigeria, with millions of cases reported annuall\u2026 [+3610 chars]",
+      "retrievedAt": "2024-05-07 07:07:05.691610",
+      "internal_id": "205d4a96c931ebd9358276362996805a4f3aadaaf893a121e26a98446f806075",
       "publishedAtLabel": "May 5"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-06-20 19:05
-- **Most recent article:** 2024-06-19 18:30:01
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-06-21 07:06
+- **Most recent article:** 2024-06-20 04:00:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 53 | 87 | 58 | 61 | 64 | 115 | 27 | 465 |
-| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 16 | 429 |
-| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 11 | 152 |
-| measles | 9 | 29 | 15 | 16 | 11 | 7 | 9 | 96 |
+| dengue | 56 | 87 | 58 | 61 | 64 | 115 | 32 | 473 |
+| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 17 | 430 |
+| malaria | 29 | 13 | 17 | 25 | 21 | 37 | 11 | 153 |
+| measles | 9 | 29 | 15 | 16 | 11 | 7 | 10 | 97 |
 | mpox | 3 | 10 | 9 | 16 | 8 | 26 | 6 | 78 |
-| rabies | 22 | 10 | 8 | 15 | 9 | 2 | 1 | 67 |
+| rabies | 22 | 10 | 8 | 15 | 9 | 2 | 2 | 68 |
 | chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 4 | 61 |
-| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 8 | 50 |
+| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 9 | 51 |
 | hpai | 4 | 3 | 7 | 12 | 2 | 4 | 3 | 35 |
 | meningitis | 5 | 9 | 4 | 1 | 6 | 3 | 1 | 29 |
 | zika | 2 | 6 | 3 | 3 | 0 | 12 | 2 | 28 |
@@ -47,9 +47,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (rabies)
 
+- [Rabies alert issued after positive case near Sumterville](https://www.clickorlando.com/news/local/2024/06/19/rabies-alert-issued-after-positive-case-near-sumterville/) (WKMG News 6 & ClickOrlando)
+
 - [Zamboanga: Anti-rabies Vaccination held at EAAB](https://rpnradio.com/zamboanga-anti-rabies-vaccination-held-at-eaab/) (Rpnradio.com)
 
 ## 24-25 (pertussis)
+
+- [Morì a 12 anni per una banale pertosse. Era vaccinato. L’inchiesta rivela la lunga catena di errori medici](https://torino.repubblica.it/cronaca/2024/06/20/news/andrea_vincenzi_chivasso_morto_pertosse-423259406/) (La Repubblica)
 
 - [Why Trump’s rhetoric about vaccines and defunding schools matters](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-rhetoric-vaccines-defunding-schools-matters-rcna157912) (MSNBC)
 
@@ -86,6 +90,8 @@ Source: [News API](https://newsapi.org/)
 - [Alertan de un virus que se contagia por la picadura de mosco en Latinoamérica](https://www.record.com.mx/contra/alertan-de-un-virus-que-se-contagia-por-la-picadura-de-mosco-en-latinoamerica) (Record.com.mx)
 
 ## 24-25 (measles)
+
+- [Measles surges globally as immunisation in Australia suffers setback. Are we at risk of an outbreak?](https://www.abc.net.au/news/2024-06-20/is-australia-at-risk-of-a-measles-outbreak-as-cases-surge/103997554) (ABC News (AU))
 
 - [Why Trump’s rhetoric about vaccines and defunding schools matters](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-rhetoric-vaccines-defunding-schools-matters-rcna157912) (MSNBC)
 
@@ -139,6 +145,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (h5n1)
 
+- [Climate change is helping the H5N1 bird flu virus spread and evolve](https://theconversation.com/climate-change-is-helping-the-h5n1-bird-flu-virus-spread-and-evolve-230361) (The Conversation Africa)
+
 - [Après le Covid-19, allons-nous affronter la grippe aviaire?](https://www.slate.fr/story/267270/apres-covid-19-affronter-pandemie-grippe-aviaire-epidemie-bovins-vaches-oiseaux) (Slate.fr)
 
 - [Grippe aviaire : pourquoi l’Europe commande des vaccins](https://www.lepoint.fr/sante/grippe-aviaire-pourquoi-l-europe-commande-des-vaccins-19-06-2024-2563453_40.php) (Le Point)
@@ -172,6 +180,16 @@ Source: [News API](https://newsapi.org/)
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
+
+- [Level 1 - Dengue in Asia and the Pacific Islands](https://wwwnc.cdc.gov/travel/notices/level1/dengue-global) (Cdc.gov)
+
+- [Lulu Santos surge pela primeira vez após 'combo de doenças'; vídeo](https://gente.ig.com.br/celebridades/2024-06-19/lulu-santos-surge-pela-primeira-vez-apos-combo-de-doencas--video.html) (Ig.com.br)
+
+- [Julgamento do homem que atropelou e matou ciclista em 2020 é adiado](https://www.metropoles.com/sao-paulo/julgamento-do-homem-que-atropelou-e-matou-ciclista-em-2020-e-adiado) (Metropoles.com)
+
+- [País tem novo recorde da dengue com 6 milhões de casos e 4 mil mortes](https://www.metropoles.com/brasil/pais-tem-novo-recorde-da-dengue-com-6-milhoes-de-casos-e-4-mil-mortes) (Metropoles.com)
+
+- [SP: 43% dos hospitais têm alta de internações por dengue e SRAG](https://saude.ig.com.br/2024-06-19/aumento-de-internacoes-por-dengue-e-srag.html) (Ig.com.br)
 
 - [La Dengue può provocare una nuova pandemia?](https://www.ansa.it/sito/podcast/ansa_verified/2024/06/19/la-dengue-puo-provocare-una-nuova-pandemia_5d1e222f-023f-4d98-9055-509d0cc03b23.html) (ANSA.it)
 
@@ -3001,6 +3019,8 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
+- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
+
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -3238,6 +3258,12 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
+
+- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
+
+- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
+
+- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 
