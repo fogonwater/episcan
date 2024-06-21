@@ -1,8 +1,260 @@
 {
-  "last_updated": "2024-06-21 07:06",
-  "count_articles_total": 1448,
-  "count_articles_new": 9,
+  "last_updated": "2024-06-21 19:05",
+  "count_articles_total": 1458,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 10332,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Westvirginiawatch.com",
+      "author": "Lori Kersey",
+      "title": "Health officer: Measles case response cost more than $15K \u2022 West Virginia Watch",
+      "description": "The health department that responded to a single measles case in April spent more than $15,000 on the effort, the head of the agency said.",
+      "url": "https://westvirginiawatch.com/2024/06/20/health-officer-measles-case-response-cost-more-than-15k/",
+      "urlToImage": "http://westvirginiawatch.com/wp-content/uploads/2024/06/Mon-County-Health-Department-scaled.jpeg",
+      "publishedAt": "2024-06-20 18:55:27",
+      "content": "by Lori Kersey, West Virginia WatchJune 20, 2024 The local health department that responded to a single measles case in April spent more than $15,000 on the effort, the head of the agency said. Fi\u2026 [+5756 chars]",
+      "retrievedAt": "2024-06-21 19:05:40.584207",
+      "internal_id": "af2692198ec0866b35be07e10220a23d020cfbf9e7982cb7f81829008b42e8d4",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10342,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Jide Ajia",
+      "title": "NDDC leads fight against Malaria, calls for collaboration",
+      "description": "The Niger Delta Development Commission has called on all stakeholders in the region to intensify efforts to rid the nation of malaria. NDDC Managing Director, Dr Samuel Ogbuku, disclosed this during the Commission\u2019s World Malaria Day Enlightenment Campaign in\u2026",
+      "url": "https://punchng.com/nddc-leads-fight-against-malaria-calls-for-collaboration/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/04/27021705/malaria.jpg",
+      "publishedAt": "2024-06-20 18:18:57",
+      "content": "The Niger Delta Development Commission has called on all stakeholders in the region to intensify efforts to rid the nation of malaria. NDDC Managing Director, Dr Samuel Ogbuku, disclosed this during\u2026 [+1863 chars]",
+      "retrievedAt": "2024-06-21 19:05:43.243204",
+      "internal_id": "c1579aa30a6e498e7cb5792f71858a41fcea3235bfe24727f66b2f6473fce082",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10345,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Max Melzer",
+      "title": "Health warning for South Australia after three cases of highly infectious Mpox virus reported in state",
+      "description": "Health authorities in South Australia have issued a warning to locals after three cases of Mpox, formally called monkeypox, were reported in the state.",
+      "url": "https://www.skynews.com.au/lifestyle/health/health-warning-for-south-australia-after-three-cases-of-highly-infectious-mpox-virus-reported-in-state/news-story/c2ac9aee4998b1177577f5bbf06f0d66",
+      "urlToImage": "https://content.api.news/v3/images/bin/37e3ef488d2cec0119dd9fd509f2a05b",
+      "publishedAt": "2024-06-20 17:27:05",
+      "content": "Health authorities in South Australia have issued a warning to locals after three cases of Mpox, formally called monkeypox, were reported in the state. Three men, one in his 20s, one in his 30s and \u2026 [+2227 chars]",
+      "retrievedAt": "2024-06-21 19:05:44.659898",
+      "internal_id": "a669df33416ba708bfa40d613649929773b1f28882477b7f3dd25556175515b6",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10337,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": null,
+      "title": "Kao's New Mosquito Repellent Combats Dengue Fever Challenges",
+      "description": "Thailand in 2024 is forecasted to experience the highest rainfall and highest temperatures due to the emerging climate change crisis. The risks caused by such phenomena can undermine authorities\u2019 efforts in eliminating the recent years\u2019 high records of increa\u2026",
+      "url": "https://www.bangkokpost.com/business/general/2803071/kaos-new-mosquito-repellent-combats-dengue-fever-challenges",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20240531/c1_2803071_700.jpg",
+      "publishedAt": "2024-06-20 17:05:00",
+      "content": "Thailand in 2024 is forecasted to experience the highest rainfall and highest temperatures due to the emerging climate change crisis. The risks caused by such phenomena can undermine authorities effo\u2026 [+5767 chars]",
+      "retrievedAt": "2024-06-21 19:05:42.181514",
+      "internal_id": "0e76ee63cf8059b4c09f247caf7623016cc3eb1a76afd96177ed9891bc92bb88",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10338,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Jairo Bouer - Parceria",
+      "title": "N\u00e3o caia em fake news sobre a vacina da dengue!",
+      "description": "N\u00e3o existe nenhuma rela\u00e7\u00e3o entre a nova vacina da dengue e um preju\u00edzo no desempenho sexual. ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/nao-caia-em-fake-news-sobre-a-vacina-da-dengue,1cbabd8d372be13feaa6ed47d4d970b4y73678jm.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/20/661946245-istockvacinadengue3.jpg",
+      "publishedAt": "2024-06-20 17:03:19",
+      "content": "N\u00e3o existe nenhuma rela\u00e7\u00e3o entre a nova vacina da dengue e um preju\u00edzo no desempenho sexual. Essa \u00e9 uma das in\u00fameras fake news que circulam por a\u00ed, propagadas por grupos antivacina sem nenhum tipo de\u2026 [+649 chars]",
+      "retrievedAt": "2024-06-21 19:05:42.219205",
+      "internal_id": "66f0e190f08a8fb4655b72a1f08ea0f3ae7e8b8032a937b36e28a86fa8f9c986",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10344,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Successful Distribution of Tecovirimat During the Peak of the Mpox Outbreak - Los Angeles County, June 2022-January 2023",
+      "description": "This report describes distribution of tecovirimat in Los Angeles County tduring the 2022-23 mpox outbreak.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7324a2.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7324a2_TecrovirimatMpoxOutbreak_IMAGE_20June2024_1200x675.jpeg?_=22715",
+      "publishedAt": "2024-06-20 17:00:00",
+      "content": "Margaret J. O\u2019Neil1; Roxanne Archer2; Phoebe Danza2; Rebecca Fisher3; Dee Ann Bagwell4; Ibrahim Younis4; Sonali Kulkarni1; Zachary Rubin2; Moon Kim2; Sharon Balter2; Dawn Terashita2; Jee Kim4; Rita S\u2026 [+19476 chars]",
+      "retrievedAt": "2024-06-21 19:05:44.646499",
+      "internal_id": "42d4c60e8cabca7daf66936f88c33cf2c49c14e91823f4162faa8e503de905df",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10333,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Investing.com",
+      "title": "New Broad-Spectrum Antiviral Currently in a Phase 2a Clinical Trial in Influenza A may be Effective Against the H5N1 Avian Influenza Strain Identified in Humans Exposed to Infected Dairy Cows",
+      "description": "New Broad-Spectrum Antiviral Currently in a Phase 2a Clinical Trial in Influenza A may be Effective Against the H5N1 Avian Influenza Strain Identified in Humans Exposed to Infected Dairy Cows",
+      "url": "https://www.investing.com/news/press-releases/new-broadspectrum-antiviral-currently-in-a-phase-2a-clinical-trial-in-influenza-a-may-be-effective-against-the-h5n1-avian-influenza-strain-identified-in-humans-exposed-to-infected-dairy-cows-93CH-3490562",
+      "urlToImage": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "publishedAt": "2024-06-20 16:24:04",
+      "content": "BOTHELL, Wash., June 20, 2024 (GLOBE NEWSWIRE) -- Cocrystal Pharma, Inc .'s (Nasdaq: COCP) novel, broad-spectrum antiviral CC-42344 inhibits activity in the highly pathogenic avian influenza A (H5N1\u2026 [+8007 chars]",
+      "retrievedAt": "2024-06-21 19:05:41.601533",
+      "internal_id": "0a71c32c78d7c7b9f4c304c5e21e6d538fa27c913022be36b019c76c5fdd5d2c",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10339,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Lulu Santos reaparece ap\u00f3s se recuperar de 'combo de doen\u00e7as': 'Estamos de volta!'",
+      "description": "Em um v\u00eddeo publicado nas redes sociais, o cantor agradeceu ao carinho dos f\u00e3s nesse momento dif\u00edcil",
+      "url": "https://www.terra.com.br/diversao/gente/lulu-santos-reaparece-apos-se-recuperar-de-combo-de-doencas-estamos-de-volta,dc3dd77c9f51958260240497b58ad9acj17upi4z.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/20/1638834557-atd46lwwrzd7jahdzw6kdvxj7i.jpg",
+      "publishedAt": "2024-06-20 15:04:34",
+      "content": "Lulu Santos passou por um momento conturbado ap\u00f3s ser diagnosticado com gripe, gastroenterite e dengue, quase que simultaneamente. Recuperado, o cantor reapareceu nas redes sociais, na \u00faltima quarta-\u2026 [+1761 chars]",
+      "retrievedAt": "2024-06-21 19:05:42.224760",
+      "internal_id": "e70cebf5a9c38b4e69bb7a37177462071a872c611505f99bf67a64317431cb02",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10334,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Nitish Boodhoo, Shayan Sharif",
+      "title": "Climate change is helping the H5N1 bird flu virus spread and evolve",
+      "description": "The spread of the highly pathogenic avian influenza virus H5N1 among animals is unprecedented having been found on all continents&mdash;except Oceania&mdash;with the United Nations calling it \"a global zoonotic animal pandemic.\"",
+      "url": "https://phys.org/news/2024-06-climate-h5n1-bird-flu-virus.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/flock-of-birds.jpg",
+      "publishedAt": "2024-06-20 15:00:01",
+      "content": "This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: fact-checked \u2026 [+6086 chars]",
+      "retrievedAt": "2024-06-21 19:05:41.614548",
+      "internal_id": "d52adfd0ede88ac6d2eda61752c1d88c27f056c60271f0524c2cd10991c1b436",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10335,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "World Socialist Web Site",
+      "author": null,
+      "title": "The destruction of public health and the growing threat of an H5N1 bird flu pandemic",
+      "description": "The deepening threat of a bird flu pandemic is now concentrated in the United States, where the response of the dairy industry, in collusion with the Biden administration and all responsible federal agencies, has been nothing short of criminal.",
+      "url": "https://www.wsws.org/en/articles/2024/06/20/kowh-j20.html",
+      "urlToImage": "https://www.wsws.org/asset/4f163430-5f22-4af4-8708-04b92dea3102?rendition=1600x900",
+      "publishedAt": "2024-06-20 14:21:38",
+      "content": "I am anti-alarmist, but I would say that I have never been more worried in my career than I am about H5N1. Even when COVID-19 had started to spread extensively outside China in 2019, I was not as wor\u2026 [+10312 chars]",
+      "retrievedAt": "2024-06-21 19:05:41.638318",
+      "internal_id": "9a1f2d97d503edd55e5d20e8bd534f57f3ec8fe578852155471e3597fbb11d1c",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10336,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Gabriel Lima",
+      "title": "Lulu Santos volta \u00e0s redes ap\u00f3s \u201ccombo de doen\u00e7as\u201d e agradece carinho",
+      "description": "Em v\u00eddeo publicado nas redes sociais, Lulu Santos aproveitou para falar sobre o per\u00edodo em que foi diagnosticado com dengue e gastroenterite",
+      "url": "https://www.metropoles.com/celebridades/lulu-santos-volta-as-redes-apos-combo-de-doencas-e-agradece-carinho",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/06/20092154/Lulu-Santos-Videos-Redes-Sociais.jpg",
+      "publishedAt": "2024-06-20 12:24:18",
+      "content": "Lulu Santos passou por momentos delicados nos \u00faltimos dias, ao ser diagnosticado com dengue, gripe e gastroenterite aguda. Na noite da \u00faltima quarta-feira (19/6), o cantor voltou \u00e0s redes sociais par\u2026 [+1806 chars]",
+      "retrievedAt": "2024-06-21 19:05:42.154969",
+      "internal_id": "4350691c2a1ea00c423773f10d45db8df98e20f5fa83f23f6d7ca2c64cabebe0",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10343,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Decrypt",
+      "author": "Chidirim Ndeche",
+      "title": "Binance Exec Who Fled Detainment in Nigeria Has Human Rights Suit Dismissed",
+      "description": "But Tigran Gambaryan, who's still in custody in a Nigerian prison and was recently treated for malaria, can proceed with his lawsuit.",
+      "url": "https://decrypt.co/236266/binance-exec-who-fled-detainment-in-nigeria-has-human-rights-suit-dismissed",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/04/binance-nigeria-gID_7.jpg",
+      "publishedAt": "2024-06-20 10:44:14",
+      "content": "A Nigerian court in Abuja has dismissed the human rights suit filed against the Nigerian authorities by a Binance executive, Nadeem Anjarwalla. Anjarwalla, the regional Africa head for Binance, and \u2026 [+2280 chars]",
+      "retrievedAt": "2024-06-21 19:05:43.252926",
+      "internal_id": "ecfdde0ac976325542048c807117493fe8e18dcf2673556e7659edc6caa2a261",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10341,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "La cura inaspettata",
+      "description": "L\u2019artemisinina, comunemente usata per curare la malaria, potrebbe essere efficace anche contro la sindrome dell\u2019ovaio policistico, afferma uno studio pubblicato su Science\u2026. Leggi",
+      "url": "https://www.internazionale.it/magazine/2024/06/20/la-cura-inaspettata",
+      "urlToImage": "https://static.internazionale.it/assets/img/internazionale-icon.png",
+      "publishedAt": "2024-06-20 10:12:06",
+      "content": "Lartemisinina, comunemente usata per curare la malaria, potrebbe essere efficace anche contro la sindrome dellovaio policistico, afferma uno studio pubblicato su Science. I ricercatori hanno somminis\u2026 [+612 chars]",
+      "retrievedAt": "2024-06-21 19:05:43.230911",
+      "internal_id": "e85251f1d1c844283748338bec0b13fb6bb4eb993e2dc49815e1036538ba943e",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10340,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Sergio Parra, Sergio Parra",
+      "title": "Las autoridades sanitarias alertan del aumento de dengue en Europa",
+      "description": "Europa se enfrenta a una creciente amenaza de enfermedades transmitidas por mosquitos, como el dengue y el virus del Nilo Occidental, debido a las condiciones clim\u00e1ticas favorables para la propagaci\u00f3n de estos vectores. La \u00faltima informaci\u00f3n de la UE/EEE (Esp\u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/alerta-autoridades-sanitarias-amenaza-dengue-europa_22590",
+      "urlToImage": "https://content.nationalgeographic.com.es/medio/2024/06/20/aedes-aegypti_6795e421_240620094104_1200x630.jpg",
+      "publishedAt": "2024-06-20 10:00:00",
+      "content": "Europa se enfrenta a una creciente amenaza de enfermedades transmitidas por mosquitos, como el dengue y el virus del Nilo Occidental, debido a las condiciones clim\u00e1ticas favorables para la propagaci\u00f3\u2026 [+4174 chars]",
+      "retrievedAt": "2024-06-21 19:05:42.230319",
+      "internal_id": "2599f7826209c49df34970cdba7a8d164814fe21a28f86a47231daeb9ab5dbea",
+      "publishedAtLabel": "Jun 20"
+    },
     {
       "id": 10331,
       "query": [
@@ -26077,78 +26329,6 @@
       "content": "Myggarten gulafebernmyggan b\u00f6rjade flytta in i s\u00f6dra Kalifornien omkring 2014. Den riktar speciellt in sig p\u00e5 m\u00e4nniskor och kan b\u00e4ra p\u00e5 virus som chikungunya, zika och dengue och gula febern. Den lo\u2026 [+228 chars]",
       "retrievedAt": "2024-05-07 07:07:05.076545",
       "internal_id": "b036db975e42ac14ae9f1823491b2a1857fbf3d339e2824ada1521497f9d63cb",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8884,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados",
-      "description": "No pa\u00eds, 21 estados e o Distrito Federal est\u00e3o em tend\u00eancia de queda ou estabilidade na incid\u00eancia de dengue. Outras cinco unidades federativas ainda apresentam alta da doen\u00e7a",
-      "url": "https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
-      "publishedAt": "2024-05-05 17:13:05",
-      "content": "O Estado de S\u00e3o Paulo chegou a 587 mortes por dengue em 2024, segundo dados do painel de monitoramento da Secretaria Estadual da Sa\u00fade deste domingo (5). Outras 719 mortes est\u00e3o em investiga\u00e7\u00e3o. O es\u2026 [+2275 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.899957",
-      "internal_id": "9b4e1c0b521d87ca54107e9873edcdf263aa31c987273811247d42eff1f89a81",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8883,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Luiz Vassallo",
-      "title": "Munic\u00edpios ter\u00e3o de pagar R$ 300 mil por morte de crian\u00e7a com dengue",
-      "description": "Justi\u00e7a de SP considerou que neglig\u00eancia de m\u00e9dicos dos munic\u00edpios de Sumar\u00e9 e Nova Odessa levou \u00e0 morte de crian\u00e7a de 13 anos com dengue",
-      "url": "https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
-      "publishedAt": "2024-05-05 15:01:37",
-      "content": "S\u00e3o Paulo O Tribunal de Justi\u00e7a de S\u00e3o Paulo (TJSP) condenou dois munic\u00edpios do interior de S\u00e3o Paulo a indenizarem em R$ 300 mil o pai de uma crian\u00e7a que morreu de dengue em raz\u00e3o da neglig\u00eancia m\u00e9d\u2026 [+1602 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.880444",
-      "internal_id": "03a02e04614d510c04f09b6bb87d4211a82c2feaf68e8a973dae49b2446b512a",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8885,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue cases surpass 11,000 in Bagmati Province",
-      "description": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total of 11,409 cases have been diagnosed since the commencement o\u2026",
-      "url": "https://english.khabarhub.com/2024/05/354188/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-05-05 14:15:17",
-      "content": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total\u2026 [+945 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.935323",
-      "internal_id": "bd805cf9d09aaca253f43d9ea3e77cff097a31fdaeb260576323187444d13def",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8891,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Financial News",
-      "author": null,
-      "title": "Tackling Malaria: Nigeria's Efforts and Challenges",
-      "description": "Federal Government of Nigeria is taking quick measures to tackle and eliminate malaria. Measures include intensifying case management, mobilizing funding, enhancing community involvement, and exploring innovative service delivery. Coordination Minister expres\u2026",
-      "url": "https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges",
-      "urlToImage": "https://storage.financialnews.com/10141/6637014fdec5f.webp",
-      "publishedAt": "2024-05-05 10:40:57",
-      "content": "Malaria is a deadly disease caused by parasites transmitted to humans through the bites of infected mosquitoes. It is a major public health concern in Nigeria, with millions of cases reported annuall\u2026 [+3610 chars]",
-      "retrievedAt": "2024-05-07 07:07:05.691610",
-      "internal_id": "205d4a96c931ebd9358276362996805a4f3aadaaf893a121e26a98446f806075",
       "publishedAtLabel": "May 5"
     }
   ]

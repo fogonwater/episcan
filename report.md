@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-06-21 07:06
-- **Most recent article:** 2024-06-20 04:00:00
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-06-21 19:05
+- **Most recent article:** 2024-06-20 18:55:27
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 56 | 87 | 58 | 61 | 64 | 115 | 32 | 473 |
-| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 17 | 430 |
-| malaria | 29 | 13 | 17 | 25 | 21 | 37 | 11 | 153 |
-| measles | 9 | 29 | 15 | 16 | 11 | 7 | 10 | 97 |
-| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 6 | 78 |
+| dengue | 53 | 87 | 58 | 61 | 64 | 115 | 37 | 475 |
+| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 20 | 433 |
+| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 14 | 155 |
+| measles | 9 | 29 | 15 | 16 | 11 | 7 | 11 | 98 |
+| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 8 | 80 |
 | rabies | 22 | 10 | 8 | 15 | 9 | 2 | 2 | 68 |
 | chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 4 | 61 |
 | pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 9 | 51 |
@@ -73,6 +73,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (mpox)
 
+- [Health warning for South Australia after three cases of highly infectious Mpox virus reported in state](https://www.skynews.com.au/lifestyle/health/health-warning-for-south-australia-after-three-cases-of-highly-infectious-mpox-virus-reported-in-state/news-story/c2ac9aee4998b1177577f5bbf06f0d66) (Sky News Australia)
+
+- [Successful Distribution of Tecovirimat During the Peak of the Mpox Outbreak - Los Angeles County, June 2022-January 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7324a2.htm) (Cdc.gov)
+
 - [LA County Mpox Cases Surge; Officials Urge Vaccination To Reduce Risk Of Severe Illness](https://www.medicaldaily.com/la-county-mpox-cases-surge-officials-urge-vaccination-reduce-risk-severe-illness-471870) (Medical Daily)
 
 - [LA County reporting an increase of Monkeypox cases](https://www.foxla.com/news/la-county-reporting-increase-monkeypox-cases) (FOX 11 Los Angeles)
@@ -90,6 +94,8 @@ Source: [News API](https://newsapi.org/)
 - [Alertan de un virus que se contagia por la picadura de mosco en Latinoamérica](https://www.record.com.mx/contra/alertan-de-un-virus-que-se-contagia-por-la-picadura-de-mosco-en-latinoamerica) (Record.com.mx)
 
 ## 24-25 (measles)
+
+- [Health officer: Measles case response cost more than $15K • West Virginia Watch](https://westvirginiawatch.com/2024/06/20/health-officer-measles-case-response-cost-more-than-15k/) (Westvirginiawatch.com)
 
 - [Measles surges globally as immunisation in Australia suffers setback. Are we at risk of an outbreak?](https://www.abc.net.au/news/2024-06-20/is-australia-at-risk-of-a-measles-outbreak-as-cases-surge/103997554) (ABC News (AU))
 
@@ -112,6 +118,12 @@ Source: [News API](https://newsapi.org/)
 - [Colorado’s school vaccination rate hovers below level needed for herd immunity](https://www.denverpost.com/2024/06/17/colorado-school-vaccination-rate-kindergarten-measles/) (The Denver Post)
 
 ## 24-25 (malaria)
+
+- [NDDC leads fight against Malaria, calls for collaboration](https://punchng.com/nddc-leads-fight-against-malaria-calls-for-collaboration/) (The Punch)
+
+- [Binance Exec Who Fled Detainment in Nigeria Has Human Rights Suit Dismissed](https://decrypt.co/236266/binance-exec-who-fled-detainment-in-nigeria-has-human-rights-suit-dismissed) (Decrypt)
+
+- [La cura inaspettata](https://www.internazionale.it/magazine/2024/06/20/la-cura-inaspettata) (Internazionale.it)
 
 - [The Best Mosquito Repellent For Camping And Keeping Safe From Diseases](https://www.forbes.com/sites/forbes-personal-shopper/article/best-mosquito-repellent-for-camping/) (Forbes)
 
@@ -144,6 +156,12 @@ Source: [News API](https://newsapi.org/)
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (h5n1)
+
+- [New Broad-Spectrum Antiviral Currently in a Phase 2a Clinical Trial in Influenza A may be Effective Against the H5N1 Avian Influenza Strain Identified in Humans Exposed to Infected Dairy Cows](https://www.investing.com/news/press-releases/new-broadspectrum-antiviral-currently-in-a-phase-2a-clinical-trial-in-influenza-a-may-be-effective-against-the-h5n1-avian-influenza-strain-identified-in-humans-exposed-to-infected-dairy-cows-93CH-3490562) (Investing.com)
+
+- [Climate change is helping the H5N1 bird flu virus spread and evolve](https://phys.org/news/2024-06-climate-h5n1-bird-flu-virus.html) (Phys.Org)
+
+- [The destruction of public health and the growing threat of an H5N1 bird flu pandemic](https://www.wsws.org/en/articles/2024/06/20/kowh-j20.html) (World Socialist Web Site)
 
 - [Climate change is helping the H5N1 bird flu virus spread and evolve](https://theconversation.com/climate-change-is-helping-the-h5n1-bird-flu-virus-spread-and-evolve-230361) (The Conversation Africa)
 
@@ -180,6 +198,16 @@ Source: [News API](https://newsapi.org/)
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
+
+- [Kao's New Mosquito Repellent Combats Dengue Fever Challenges](https://www.bangkokpost.com/business/general/2803071/kaos-new-mosquito-repellent-combats-dengue-fever-challenges) (Bangkok Post)
+
+- [Não caia em fake news sobre a vacina da dengue!](https://www.terra.com.br/vida-e-estilo/nao-caia-em-fake-news-sobre-a-vacina-da-dengue,1cbabd8d372be13feaa6ed47d4d970b4y73678jm.html) (Terra.com.br)
+
+- [Lulu Santos reaparece após se recuperar de 'combo de doenças': 'Estamos de volta!'](https://www.terra.com.br/diversao/gente/lulu-santos-reaparece-apos-se-recuperar-de-combo-de-doencas-estamos-de-volta,dc3dd77c9f51958260240497b58ad9acj17upi4z.html) (Terra.com.br)
+
+- [Lulu Santos volta às redes após “combo de doenças” e agradece carinho](https://www.metropoles.com/celebridades/lulu-santos-volta-as-redes-apos-combo-de-doencas-e-agradece-carinho) (Metropoles.com)
+
+- [Las autoridades sanitarias alertan del aumento de dengue en Europa](https://www.nationalgeographic.com.es/ciencia/alerta-autoridades-sanitarias-amenaza-dengue-europa_22590) (Nationalgeographic.com.es)
 
 - [Level 1 - Dengue in Asia and the Pacific Islands](https://wwwnc.cdc.gov/travel/notices/level1/dengue-global) (Cdc.gov)
 
@@ -3019,8 +3047,6 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
-- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
-
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -3258,12 +3284,6 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
-
-- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
-
-- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
-
-- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 
