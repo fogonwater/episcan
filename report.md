@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 14
-- **Last harvest:** 2024-06-21 19:05
-- **Most recent article:** 2024-06-20 18:55:27
+- **Last harvest:** 2024-06-22 07:06
+- **Most recent article:** 2024-06-21 05:52:23
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 53 | 87 | 58 | 61 | 64 | 115 | 37 | 475 |
-| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 20 | 433 |
-| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 14 | 155 |
+| dengue | 56 | 87 | 58 | 61 | 64 | 115 | 44 | 485 |
+| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 21 | 434 |
+| malaria | 29 | 13 | 17 | 25 | 21 | 37 | 16 | 158 |
 | measles | 9 | 29 | 15 | 16 | 11 | 7 | 11 | 98 |
-| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 8 | 80 |
+| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 10 | 82 |
 | rabies | 22 | 10 | 8 | 15 | 9 | 2 | 2 | 68 |
 | chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 4 | 61 |
-| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 9 | 51 |
-| hpai | 4 | 3 | 7 | 12 | 2 | 4 | 3 | 35 |
+| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 10 | 52 |
+| hpai | 4 | 3 | 7 | 12 | 2 | 4 | 4 | 36 |
 | meningitis | 5 | 9 | 4 | 1 | 6 | 3 | 1 | 29 |
 | zika | 2 | 6 | 3 | 3 | 0 | 12 | 2 | 28 |
 | leptospirosis | 1 | 3 | 0 | 5 | 1 | 1 | 0 | 11 |
@@ -53,6 +53,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (pertussis)
 
+- [Quebec sees spike in whooping cough cases](https://www.cbc.ca/news/canada/montreal/quebec-whooping-cough-cases-1.7241585) (CBC News)
+
 - [Morì a 12 anni per una banale pertosse. Era vaccinato. L’inchiesta rivela la lunga catena di errori medici](https://torino.repubblica.it/cronaca/2024/06/20/news/andrea_vincenzi_chivasso_morto_pertosse-423259406/) (La Repubblica)
 
 - [Why Trump’s rhetoric about vaccines and defunding schools matters](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-rhetoric-vaccines-defunding-schools-matters-rcna157912) (MSNBC)
@@ -72,6 +74,10 @@ Source: [News API](https://newsapi.org/)
 - [O que é coqueluche? Entenda a doença que está em ascensão no Brasil](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html) (Terra.com.br)
 
 ## 24-25 (mpox)
+
+- [News24 | Mpox cases rise to 13, as health department receives first batch of disease-specific medication](https://www.news24.com/news24/southafrica/news/mpox-cases-rise-to-13-as-health-department-receives-first-batch-of-disease-specific-medication-20240621) (News24)
+
+- [Mpox: Three cases of mpox in South Australia](https://www.9news.com.au/national/mpox-three-cases-of-virus-in-south-australia-health-news/eba4b8f6-6887-4cfb-96c4-c2434a90a8e4) (9News)
 
 - [Health warning for South Australia after three cases of highly infectious Mpox virus reported in state](https://www.skynews.com.au/lifestyle/health/health-warning-for-south-australia-after-three-cases-of-highly-infectious-mpox-virus-reported-in-state/news-story/c2ac9aee4998b1177577f5bbf06f0d66) (Sky News Australia)
 
@@ -119,6 +125,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (malaria)
 
+- [Se disparan los casos de malaria en República Dominicana; detectan dos focos en el sur del país](https://cnnespanol.cnn.com/2024/06/20/casos-malaria-republica-dominicana-orix/) (CNN)
+
+- [New study suggests malaria could cause hypertension, other cardiovascular diseases](https://www.premiumtimesng.com/health/705417-new-study-suggests-malaria-could-cause-hypertension-other-cardiovascular-diseases.html) (Premium Times)
+
 - [NDDC leads fight against Malaria, calls for collaboration](https://punchng.com/nddc-leads-fight-against-malaria-calls-for-collaboration/) (The Punch)
 
 - [Binance Exec Who Fled Detainment in Nigeria Has Human Rights Suit Dismissed](https://decrypt.co/236266/binance-exec-who-fled-detainment-in-nigeria-has-human-rights-suit-dismissed) (Decrypt)
@@ -149,6 +159,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (hpai)
 
+- [What you need to know about the NSW bird flu outbreak](https://www.abc.net.au/news/2024-06-21/nsw-sydney-avian-bird-flu-case-explainer/104002510) (ABC News (AU))
+
 - [Bird flu detected on poultry farm in New South Wales](https://www.abc.net.au/news/2024-06-19/bird-flu-detected-on-new-south-wales-poultry-egg-farm/103997490) (ABC News (AU))
 
 - [Птичий грипп "просочился" из лаборатории Минсельхоза США](https://www.news2.ru/story/684610/) (News2.ru)
@@ -156,6 +168,8 @@ Source: [News API](https://newsapi.org/)
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (h5n1)
+
+- ['Unprecedented' Spread of Bird Flu Exacerbated by Climate Crisis, Experts Warn](https://www.sciencealert.com/unprecedented-spread-of-bird-flu-exacerbated-by-climate-crisis-experts-warn) (ScienceAlert)
 
 - [New Broad-Spectrum Antiviral Currently in a Phase 2a Clinical Trial in Influenza A may be Effective Against the H5N1 Avian Influenza Strain Identified in Humans Exposed to Infected Dairy Cows](https://www.investing.com/news/press-releases/new-broadspectrum-antiviral-currently-in-a-phase-2a-clinical-trial-in-influenza-a-may-be-effective-against-the-h5n1-avian-influenza-strain-identified-in-humans-exposed-to-infected-dairy-cows-93CH-3490562) (Investing.com)
 
@@ -199,9 +213,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (dengue)
 
+- [Tropenkrankheit: Brasilien meldet mehr als sechs Millionen Dengue-Fälle](https://www.zeit.de/gesundheit/2024-06/brasilien-dengue-faelle-hoechststand) (Die Zeit)
+
+- [Dengue viremia kinetics and effects on platelet count and clinical outcomes: An analysis of 2340 patients from Vietnam](https://elifesciences.org/articles/92606) (Elifesciences.org)
+
+- [Dengue nos. up 140%; govt cites surveillance stronger](https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-increase-by-140-in-karnataka-surveillance-measures-strengthened/articleshow/111150584.cms) (The Times of India)
+
+- [Mehr als sechs Millionen Dengue-Fälle in Brasilien](https://orf.at/stories/3361308/) (Orf.at)
+
+- [Krankheiten: Mehr als sechs Millionen Dengue-Fälle in Brasilien](https://www.tagesspiegel.de/wissen/krankheiten-mehr-als-sechs-millionen-dengue-falle-in-brasilien-11872775.html) (Der Tagesspiegel)
+
+- [Krankheiten: Mehr als sechs Millionen Dengue-Fälle in Brasilien](https://www.stern.de/panorama/wissen/krankheiten--mehr-als-sechs-millionen-dengue-faelle-in-brasilien-34816642.html) (STERN.de)
+
 - [Kao's New Mosquito Repellent Combats Dengue Fever Challenges](https://www.bangkokpost.com/business/general/2803071/kaos-new-mosquito-repellent-combats-dengue-fever-challenges) (Bangkok Post)
 
 - [Não caia em fake news sobre a vacina da dengue!](https://www.terra.com.br/vida-e-estilo/nao-caia-em-fake-news-sobre-a-vacina-da-dengue,1cbabd8d372be13feaa6ed47d4d970b4y73678jm.html) (Terra.com.br)
+
+- [Indonesia records 799 dengue deaths as of week 23, cases top 2023](https://en.antaranews.com/news/316572/indonesia-records-799-dengue-deaths-as-of-week-23-cases-top-2023) (Antaranews.com)
 
 - [Lulu Santos reaparece após se recuperar de 'combo de doenças': 'Estamos de volta!'](https://www.terra.com.br/diversao/gente/lulu-santos-reaparece-apos-se-recuperar-de-combo-de-doencas-estamos-de-volta,dc3dd77c9f51958260240497b58ad9acj17upi4z.html) (Terra.com.br)
 
@@ -3047,6 +3075,8 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
+- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
+
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -3284,6 +3314,12 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
+
+- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
+
+- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
+
+- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 

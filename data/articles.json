@@ -1,8 +1,242 @@
 {
-  "last_updated": "2024-06-21 19:05",
-  "count_articles_total": 1458,
+  "last_updated": "2024-06-22 07:06",
+  "count_articles_total": 1476,
   "count_articles_new": 14,
   "articles": [
+    {
+      "id": 10358,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Nicole McCain",
+      "title": "News24 | Mpox cases rise to 13, as health department receives first batch of disease-specific medication",
+      "description": "South Africa has recorded another six cases of Mpox in Gauteng and KwaZulu-Natal, bringing the total to 13. The death toll remains at two.",
+      "url": "https://www.news24.com/news24/southafrica/news/mpox-cases-rise-to-13-as-health-department-receives-first-batch-of-disease-specific-medication-20240621",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/172/b12a52c54eba41969d1aaa15a51bae85.jpg",
+      "publishedAt": "2024-06-21 05:52:23",
+      "content": "There have been 13 reported cases of Mpox in South Africa.The Department of Health says it has received its first batch of Mpox-specific medication.Work is under way to sour\u2026 [+1596 chars]",
+      "retrievedAt": "2024-06-22 07:06:08.587446",
+      "internal_id": "897fa915a84fc15b0ba8d1401757dd00b0f24321b088f29a093500d20f590b19",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10359,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "9News",
+      "author": "Rebecca Masters",
+      "title": "Mpox: Three cases of mpox in South Australia",
+      "description": "SA Health is aware of three men aged in their 20s, 30s and 50s who have acquired the virus locally.",
+      "url": "https://www.9news.com.au/national/mpox-three-cases-of-virus-in-south-australia-health-news/eba4b8f6-6887-4cfb-96c4-c2434a90a8e4",
+      "urlToImage": "https://imageresizer.static9.net.au/WEYOS7BbEnjrvedN1SvpaJO32kk=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F52f06c3a-56e3-45b4-9e2c-ce33368b83c0",
+      "publishedAt": "2024-06-21 05:12:36",
+      "content": "Property News: The only area in Australia where you'll soon buy a cheaper house.",
+      "retrievedAt": "2024-06-22 07:06:08.606944",
+      "internal_id": "4dab043a4f97718337ba6005bef6b5f009e47083b581f9a1bcabb348575497d2",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10348,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Nitish Boodhoo & Shayan Sharif, The Conversation",
+      "title": "'Unprecedented' Spread of Bird Flu Exacerbated by Climate Crisis, Experts Warn",
+      "description": "The spread of the highly pathogenic avian influenza virus H5N1 among animals is unprecedented having been found on all continents \u2013 except Oceania \u2013 with the United Nations calling it \"a global zoonotic animal pandemic.\" H5N1 is known to be able...",
+      "url": "https://www.sciencealert.com/unprecedented-spread-of-bird-flu-exacerbated-by-climate-crisis-experts-warn",
+      "urlToImage": "https://www.sciencealert.com/images/2024/06/ThreatenedCalifornianCondorAtRiskFromBirdFlu.jpg",
+      "publishedAt": "2024-06-21 03:16:13",
+      "content": "The spread of the highly pathogenic avian influenzavirusH5N1 among animals is unprecedented having been found on all continents except Oceania with the United Nations calling it \"a global zoonotic an\u2026 [+5899 chars]",
+      "retrievedAt": "2024-06-22 07:06:06.118251",
+      "internal_id": "41e271323396076cc6fc590232b022238cdaf0ae9c668957fcc02ad6a517eb8a",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10356,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Bel\u00e9n Liotti",
+      "title": "Se disparan los casos de malaria en Rep\u00fablica Dominicana; detectan dos focos en el sur del pa\u00eds",
+      "description": "El director de Epidemiolog\u00eda de Rep\u00fablica Dominicana, Ronald Skewes, le dijo a CNN que se dispararon los casos de malaria, con dos focos activos detectados en el sur del pa\u00eds. The post Se disparan los casos de malaria en Rep\u00fablica Dominicana; detectan dos foc\u2026",
+      "url": "https://cnnespanol.cnn.com/2024/06/20/casos-malaria-republica-dominicana-orix/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/06/230627172457-02-mosquito-borne-diseases-dengue-malaria-climate.webp",
+      "publishedAt": "2024-06-21 02:38:29",
+      "content": "(CNN Espa\u00f1ol) -- El director de Epidemiolog\u00eda de Rep\u00fablica Dominicana, Ronald Skewes, le dijo a CNN que se dispararon los casos de malaria, con dos focos activos detectados en el sur del pa\u00eds, en las\u2026 [+812 chars]",
+      "retrievedAt": "2024-06-22 07:06:07.602788",
+      "internal_id": "44f01db05d25e91bc564ad3136bb7cb22aa60cdb299edf31055eec64124caa3b",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10349,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Simon Sales Prado",
+      "title": "Tropenkrankheit: Brasilien meldet mehr als sechs Millionen Dengue-F\u00e4lle",
+      "description": "Schon jetzt sind in diesem Jahr mehr Menschen in Brasilien an Dengue erkrankt als jemals zuvor. Die Ausbreitung des Virus h\u00e4ngt auch mit starken Regenf\u00e4llen zusammen.",
+      "url": "https://www.zeit.de/gesundheit/2024-06/brasilien-dengue-faelle-hoechststand",
+      "urlToImage": "https://img.zeit.de/administratives/sharing/fallback-image/wide__1300x731",
+      "publishedAt": "2024-06-21 01:42:07",
+      "content": "Brasilien erlebt den schwersten Dengue-Ausbruch seiner Geschichte. Seit Jahresbeginn wurden in dem Land nach Angaben des Gesundheitsministeriums mehr als sechs Millionen best\u00e4tigte sowie mutma\u00dfliche \u2026 [+2216 chars]",
+      "retrievedAt": "2024-06-22 07:06:06.584764",
+      "internal_id": "687ff0860b506fa18ca1310d678d6faf61315b93b8bb2f980cb52e28772f9fc8",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10351,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "vuongnl@oucru.org (Bridget A Wills), vuongnl@oucru.org (Cameron P Simmons), vuongnl@oucru.org (Dong Thi Hoai Tam), vuongnl@oucru.org (Huynh Thi Le Duyen), vuongnl@oucru.org (Kien Duong Thi Hue), vuongnl@oucru.org (Nguyen Lam Vuong), vuongnl@oucru.org (Nguyen Than Ha Quyen), vuongnl@oucru.org (Nguyen Thi Hanh Tien), vuongnl@oucru.org (Phung Khanh Lam), vuongnl@oucru.org (Ronald Geskus), vuongnl@oucru.org (Sophie Yacoub), vuongnl@oucru.org (Thomas Jaenisch), vuongnl@oucru.org (Tran Van Ngoc)",
+      "title": "Dengue viremia kinetics and effects on platelet count and clinical outcomes: An analysis of 2340 patients from Vietnam",
+      "description": "Higher plasma viremia levels in early dengue and a slower subsequent decline are associated with worse clinical outcomes and provide valuable outcome measures for future therapeutic intervention trials.",
+      "url": "https://elifesciences.org/articles/92606",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-06-21 00:00:00",
+      "content": "In this study, we conducted a comprehensive analysis using a large dataset of 2340 viremic dengue patients to examine viremia kinetics from first presentation, its association with various virus and \u2026 [+8231 chars]",
+      "retrievedAt": "2024-06-22 07:06:06.608076",
+      "internal_id": "e999db57d399782bd9cbe48a3614c5e5751cf2948bd630e3f86fa8f4fcec3ed0",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10353,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Nithya Mandyam",
+      "title": "Dengue nos. up 140%; govt cites surveillance stronger",
+      "description": "There has been a 140% increase in dengue cases in Karnataka, attributed to stronger surveillance measures. Health officials emphasize the importance of early identification and testing. Learn more about the rise in dengue cases and the efforts to control the \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-increase-by-140-in-karnataka-surveillance-measures-strengthened/articleshow/111150584.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-20 22:57:53",
+      "content": "10 beautiful fishes to keep in home aquariums for beginners",
+      "retrievedAt": "2024-06-22 07:06:06.645946",
+      "internal_id": "c50a3b8b91f9883003c9f0786c6d0e00c5aeb6546b8f8e8d8d6fb890f971da72",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10346,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Quebec sees spike in whooping cough cases",
+      "description": "The highly contagious infection spreads through respiratory droplets and is marked by a distinct \"whoop\" sound between coughs. Quebec last saw an upsurge in cases in 2019.",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-whooping-cough-cases-1.7241585",
+      "urlToImage": "https://i.cbc.ca/1.5400838.1701204627!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/woman-coughing-into-her-elbow.jpg",
+      "publishedAt": "2024-06-20 21:30:03",
+      "content": "Quebec public health authorities are warning of a resurgence of whooping cough across the province after over 1,500 new cases were reported this month alone. Whooping cough, also known as pertussis,\u2026 [+2649 chars]",
+      "retrievedAt": "2024-06-22 07:06:05.133328",
+      "internal_id": "8ea121c8bb1c9bfc693747cd780e0290db5949459c843e4e05c0da1f70b4187b",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10350,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Mehr als sechs Millionen Dengue-F\u00e4lle in Brasilien",
+      "description": "",
+      "url": "https://orf.at/stories/3361308/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-06-20 20:23:46",
+      "content": "Der schwerste Dengue-Ausbruch in der Geschichte Brasiliens setzt sich fort. Seit Jahresbeginn wurden in dem s\u00fcdamerikanischen Land mehr als sechs Millionen best\u00e4tigte und wahrscheinliche Infektionen \u2026 [+902 chars]",
+      "retrievedAt": "2024-06-22 07:06:06.593313",
+      "internal_id": "40ba0a399301b722bb2b12150494d3b739a463f58348679d5bf910bd09b169a3",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10354,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: Mehr als sechs Millionen Dengue-F\u00e4lle in Brasilien",
+      "description": "In der bisher schwersten Dengue-Epidemie des s\u00fcdamerikanischen Landes sind in diesem Jahr bereits mehr als 4000 Menschen gestorben. Aber es gibt Hoffnung: Die \u00dcbertragung verlangsamte sich zuletzt.",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-mehr-als-sechs-millionen-dengue-falle-in-brasilien-11872775.html",
+      "urlToImage": "https://www.tagesspiegel.de/wissen/images/mucke5/alternates/BASE_16_9_W1400/muecke",
+      "publishedAt": "2024-06-20 20:17:57",
+      "content": "Der schwerste Dengue-Ausbruch in der Geschichte Brasiliens setzt sich fort. Seit Jahresbeginn wurden in dem s\u00fcdamerikanischen Land mehr als 6 Millionen best\u00e4tigte und wahrscheinliche Infektionen mit \u2026 [+1232 chars]",
+      "retrievedAt": "2024-06-22 07:06:06.664882",
+      "internal_id": "d34e87b48fa4f6df0807a567dd9914a730cead23b913de43ad457cea44303041",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10352,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Mehr als sechs Millionen Dengue-F\u00e4lle in Brasilien",
+      "description": "In der bisher schwersten Dengue-Epidemie des s\u00fcdamerikanischen Landes sind in diesem Jahr bereits mehr als 4000 Menschen gestorben. Aber es gibt Hoffnung: Die \u00dcbertragung verlangsamte sich zuletzt.",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--mehr-als-sechs-millionen-dengue-faelle-in-brasilien-34816642.html",
+      "urlToImage": "https://image.stern.de/34816644/t/xq/v1/w1440/r1.7778/-/20--urnnewsmldpacom2009010124062099473929v2w800h600l120t222r1366b1090jpeg---7e8daa225b07d190.jpg",
+      "publishedAt": "2024-06-20 20:15:27",
+      "content": "In der bisher schwersten Dengue-Epidemie des s\u00fcdamerikanischen Landes sind in diesem Jahr bereits mehr als 4000 Menschen gestorben. Aber es gibt Hoffnung: Die \u00dcbertragung verlangsamte sich zuletzt. \u2026 [+1345 chars]",
+      "retrievedAt": "2024-06-22 07:06:06.630697",
+      "internal_id": "eab1a1e8d2de016eab1199aa85ee7591d13fad5f262cd8471f76904ffafdcbd5",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10357,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Premium Times",
+      "author": "Beloved John",
+      "title": "New study suggests malaria could cause hypertension, other cardiovascular diseases",
+      "description": "The report indicates that after reviewing various research works, hypertension and other cardiovascular diseases could be caused by repeated severe malaria exposure, especially during childhood.",
+      "url": "https://www.premiumtimesng.com/health/705417-new-study-suggests-malaria-could-cause-hypertension-other-cardiovascular-diseases.html",
+      "urlToImage": "https://media.premiumtimesng.com/wp-content/files/2016/09/Mosquito.jpg",
+      "publishedAt": "2024-06-20 20:14:29",
+      "content": "Various research works by scientists and medical experts have suggested that malaria, and particularly repeated episodes, could be responsible for hypertension and other cardiovascular diseases. A r\u2026 [+2239 chars]",
+      "retrievedAt": "2024-06-22 07:06:07.630406",
+      "internal_id": "109a6b3a687f6e8c1987fc05f20f43b128daac06e2881a3d4e1fb47801e2b986",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10347,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Millie Roberts and Chantelle Al-Khouri",
+      "title": "What you need to know about the NSW bird flu outbreak",
+      "description": "A strain of high pathogenicity avian influenza was detected on a poultry farm in the Hawkesbury this week, as other subtypes of bird flu have made its way across the country.",
+      "url": "https://www.abc.net.au/news/2024-06-21/nsw-sydney-avian-bird-flu-case-explainer/104002510",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d7a2537a489b3d3aab3ac579e8cd8c6c?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=286&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-06-20 19:20:00",
+      "content": "Egg stock in supermarkets are down, and hundreds of thousands of chickens are set to be euthanased as bird flu wreaks havoc across Australia. Virus strain HPAI H7N8 was detected on a large poultry e\u2026 [+6058 chars]",
+      "retrievedAt": "2024-06-22 07:06:05.909589",
+      "internal_id": "81799f558c7db9a7f790e99d885090b251d7063f93086211b6dff52a403820e0",
+      "publishedAtLabel": "Jun 20"
+    },
     {
       "id": 10332,
       "query": [
@@ -109,6 +343,24 @@
       "content": "Margaret J. O\u2019Neil1; Roxanne Archer2; Phoebe Danza2; Rebecca Fisher3; Dee Ann Bagwell4; Ibrahim Younis4; Sonali Kulkarni1; Zachary Rubin2; Moon Kim2; Sharon Balter2; Dawn Terashita2; Jee Kim4; Rita S\u2026 [+19476 chars]",
       "retrievedAt": "2024-06-21 19:05:44.646499",
       "internal_id": "42d4c60e8cabca7daf66936f88c33cf2c49c14e91823f4162faa8e503de905df",
+      "publishedAtLabel": "Jun 20"
+    },
+    {
+      "id": 10355,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna Ning Prisie",
+      "title": "Indonesia records 799 dengue deaths as of week 23, cases top 2023",
+      "description": "The Indonesian Health Ministry has recorded 799 dengue deaths and 131,501 dengue cases as of the 23rd week of 2024. The number of cases exceeds the total ...",
+      "url": "https://en.antaranews.com/news/316572/indonesia-records-799-dengue-deaths-as-of-week-23-cases-top-2023",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/06/13/1000124475.jpg",
+      "publishedAt": "2024-06-20 16:51:28",
+      "content": "Jakarta (ANTARA) - The Indonesian Health Ministry has recorded 799 dengue deaths and 131,501 dengue cases as of the 23rd week of 2024.The number of cases exceeds the total case count in 2023, with 11\u2026 [+1920 chars]",
+      "retrievedAt": "2024-06-22 07:06:06.687266",
+      "internal_id": "5a9b73fe37c2ecc012e91c96fe7903958be659829d05080c1c24db6aa20db4ae",
       "publishedAtLabel": "Jun 20"
     },
     {
@@ -26329,6 +26581,78 @@
       "content": "Myggarten gulafebernmyggan b\u00f6rjade flytta in i s\u00f6dra Kalifornien omkring 2014. Den riktar speciellt in sig p\u00e5 m\u00e4nniskor och kan b\u00e4ra p\u00e5 virus som chikungunya, zika och dengue och gula febern. Den lo\u2026 [+228 chars]",
       "retrievedAt": "2024-05-07 07:07:05.076545",
       "internal_id": "b036db975e42ac14ae9f1823491b2a1857fbf3d339e2824ada1521497f9d63cb",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8884,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados",
+      "description": "No pa\u00eds, 21 estados e o Distrito Federal est\u00e3o em tend\u00eancia de queda ou estabilidade na incid\u00eancia de dengue. Outras cinco unidades federativas ainda apresentam alta da doen\u00e7a",
+      "url": "https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2024-05-05 17:13:05",
+      "content": "O Estado de S\u00e3o Paulo chegou a 587 mortes por dengue em 2024, segundo dados do painel de monitoramento da Secretaria Estadual da Sa\u00fade deste domingo (5). Outras 719 mortes est\u00e3o em investiga\u00e7\u00e3o. O es\u2026 [+2275 chars]",
+      "retrievedAt": "2024-05-06 19:05:27.899957",
+      "internal_id": "9b4e1c0b521d87ca54107e9873edcdf263aa31c987273811247d42eff1f89a81",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8883,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luiz Vassallo",
+      "title": "Munic\u00edpios ter\u00e3o de pagar R$ 300 mil por morte de crian\u00e7a com dengue",
+      "description": "Justi\u00e7a de SP considerou que neglig\u00eancia de m\u00e9dicos dos munic\u00edpios de Sumar\u00e9 e Nova Odessa levou \u00e0 morte de crian\u00e7a de 13 anos com dengue",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca",
+      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
+      "publishedAt": "2024-05-05 15:01:37",
+      "content": "S\u00e3o Paulo O Tribunal de Justi\u00e7a de S\u00e3o Paulo (TJSP) condenou dois munic\u00edpios do interior de S\u00e3o Paulo a indenizarem em R$ 300 mil o pai de uma crian\u00e7a que morreu de dengue em raz\u00e3o da neglig\u00eancia m\u00e9d\u2026 [+1602 chars]",
+      "retrievedAt": "2024-05-06 19:05:27.880444",
+      "internal_id": "03a02e04614d510c04f09b6bb87d4211a82c2feaf68e8a973dae49b2446b512a",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8885,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases surpass 11,000 in Bagmati Province",
+      "description": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total of 11,409 cases have been diagnosed since the commencement o\u2026",
+      "url": "https://english.khabarhub.com/2024/05/354188/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-05-05 14:15:17",
+      "content": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total\u2026 [+945 chars]",
+      "retrievedAt": "2024-05-06 19:05:27.935323",
+      "internal_id": "bd805cf9d09aaca253f43d9ea3e77cff097a31fdaeb260576323187444d13def",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 8891,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Financial News",
+      "author": null,
+      "title": "Tackling Malaria: Nigeria's Efforts and Challenges",
+      "description": "Federal Government of Nigeria is taking quick measures to tackle and eliminate malaria. Measures include intensifying case management, mobilizing funding, enhancing community involvement, and exploring innovative service delivery. Coordination Minister expres\u2026",
+      "url": "https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges",
+      "urlToImage": "https://storage.financialnews.com/10141/6637014fdec5f.webp",
+      "publishedAt": "2024-05-05 10:40:57",
+      "content": "Malaria is a deadly disease caused by parasites transmitted to humans through the bites of infected mosquitoes. It is a major public health concern in Nigeria, with millions of cases reported annuall\u2026 [+3610 chars]",
+      "retrievedAt": "2024-05-07 07:07:05.691610",
+      "internal_id": "205d4a96c931ebd9358276362996805a4f3aadaaf893a121e26a98446f806075",
       "publishedAtLabel": "May 5"
     }
   ]
