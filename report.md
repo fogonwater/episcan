@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-06-22 07:06
-- **Most recent article:** 2024-06-21 05:52:23
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-06-22 19:06
+- **Most recent article:** 2024-06-21 18:50:09
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-19 | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 56 | 87 | 58 | 61 | 64 | 115 | 44 | 485 |
-| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 21 | 434 |
-| malaria | 29 | 13 | 17 | 25 | 21 | 37 | 16 | 158 |
+| dengue | 53 | 87 | 58 | 61 | 64 | 115 | 52 | 490 |
+| h5n1 | 57 | 63 | 95 | 65 | 78 | 55 | 26 | 439 |
+| malaria | 28 | 13 | 17 | 25 | 21 | 37 | 18 | 159 |
 | measles | 9 | 29 | 15 | 16 | 11 | 7 | 11 | 98 |
-| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 10 | 82 |
-| rabies | 22 | 10 | 8 | 15 | 9 | 2 | 2 | 68 |
+| mpox | 3 | 10 | 9 | 16 | 8 | 26 | 11 | 83 |
+| rabies | 22 | 10 | 8 | 15 | 9 | 2 | 3 | 69 |
 | chikungunya | 5 | 12 | 3 | 18 | 5 | 14 | 4 | 61 |
-| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 10 | 52 |
+| pertussis | 5 | 5 | 6 | 6 | 9 | 11 | 11 | 53 |
 | hpai | 4 | 3 | 7 | 12 | 2 | 4 | 4 | 36 |
+| zika | 2 | 6 | 3 | 3 | 0 | 12 | 3 | 29 |
 | meningitis | 5 | 9 | 4 | 1 | 6 | 3 | 1 | 29 |
-| zika | 2 | 6 | 3 | 3 | 0 | 12 | 2 | 28 |
 | leptospirosis | 1 | 3 | 0 | 5 | 1 | 1 | 0 | 11 |
 | typhoid | 3 | 2 | 0 | 0 | 1 | 1 | 2 | 9 |
 | yersinia | 1 | 0 | 6 | 0 | 1 | 0 | 0 | 8 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-25 (zika)
+
+- [Zika-Virus in Lateinamerika: Was wurde aus den Babys mit den verformten Köpfen?](https://www.tagesspiegel.de/internationales/zika-virus-in-lateinamerika-was-wurde-aus-den-babys-mit-den-verformten-kopfen-11814953.html) (Der Tagesspiegel)
 
 - [Study reveals huge increase in global economic cost of invasive mosquitoes and diseases they transmit](https://phys.org/news/2024-06-reveals-huge-global-economic-invasive.html) (Phys.Org)
 
@@ -47,11 +49,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (rabies)
 
+- [Indonesia's BNPB targets rabies elimination in NTT by December](https://en.antaranews.com/news/316632/indonesias-bnpb-targets-rabies-elimination-in-ntt-by-december) (Antaranews.com)
+
 - [Rabies alert issued after positive case near Sumterville](https://www.clickorlando.com/news/local/2024/06/19/rabies-alert-issued-after-positive-case-near-sumterville/) (WKMG News 6 & ClickOrlando)
 
 - [Zamboanga: Anti-rabies Vaccination held at EAAB](https://rpnradio.com/zamboanga-anti-rabies-vaccination-held-at-eaab/) (Rpnradio.com)
 
 ## 24-25 (pertussis)
+
+- [Pertussis Outbreak: What Pregnant Women and Healthcare Professionals Need to Know](https://en.protothema.gr/2024/06/21/pertussis-outbreak-what-pregnant-women-and-healthcare-professionals-need-to-know/) (Protothema.gr)
 
 - [Quebec sees spike in whooping cough cases](https://www.cbc.ca/news/canada/montreal/quebec-whooping-cough-cases-1.7241585) (CBC News)
 
@@ -74,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 - [O que é coqueluche? Entenda a doença que está em ascensão no Brasil](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html) (Terra.com.br)
 
 ## 24-25 (mpox)
+
+- [Mpox outbreak spreads with health authorities in NSW and South Australia confirming new cases of infectious disease](https://www.skynews.com.au/lifestyle/health/mpox-outbreak-spreads-with-health-authorities-in-nsw-and-south-australia-confirming-new-cases-of-infectious-disease/news-story/3abb25d0fc4c602bd5a0d51d5d65804e) (Sky News Australia)
 
 - [News24 | Mpox cases rise to 13, as health department receives first batch of disease-specific medication](https://www.news24.com/news24/southafrica/news/mpox-cases-rise-to-13-as-health-department-receives-first-batch-of-disease-specific-medication-20240621) (News24)
 
@@ -125,6 +133,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (malaria)
 
+- [竹中平蔵「私は沢山の老害を見てきた」←正論パンチされるｗｗｗｗｗｗｗｗｗ](https://hamusoku.com/archives/10774917.html) (Hamusoku.com)
+
+- [What to do if you get bitten by deadly mosquito making its way to UK](https://www.ladbible.com/news/uk-news/what-to-do-bitten-tiger-mosquito-957011-20240621) (LADbible)
+
 - [Se disparan los casos de malaria en República Dominicana; detectan dos focos en el sur del país](https://cnnespanol.cnn.com/2024/06/20/casos-malaria-republica-dominicana-orix/) (CNN)
 
 - [New study suggests malaria could cause hypertension, other cardiovascular diseases](https://www.premiumtimesng.com/health/705417-new-study-suggests-malaria-could-cause-hypertension-other-cardiovascular-diseases.html) (Premium Times)
@@ -169,6 +181,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-25 (h5n1)
 
+- [Labor-Tests zeigen - Vogelgrippe-Virus auch bei deutschen Kühen](https://www.bild.de/leben-wissen/wissenschaft/vogelgrippe-auch-deutsche-kuehe-koennen-sich-mit-dem-virus-infizieren-667586d91649bf48ba2b8809) (Bild)
+
+- [Изменение климата усугубляет распространение птичьего гриппа H5N1 по всему миру](https://overclockers.ru/blog/Global_Chronicles/show/164540/Izmenenie-klimata-usugublyaet-besprecedentnoe-rasprostranenie-ptich-ego-grippa-H5N1-po-vsemu-miru) (Overclockers.ru)
+
+- [Wie gefährlich die Virustypen sind, die in Deutschland kursieren](https://www.welt.de/gesundheit/article252151074/Vogelgrippe-Viren-die-in-Deutschland-vorkommen-sind-fuer-Kuehe-durchaus-eine-Gefahr.html) (DIE WELT)
+
+- [Gesundheit: Vogelgrippe-Virus H5N1 kann Kühe infizieren](https://www.tagesspiegel.de/wissen/gesundheit-vogelgrippe-virus-h5n1-kann-kuhe-infizieren-11878376.html) (Der Tagesspiegel)
+
+- [Gesundheit: Vogelgrippe-Virus H5N1 kann Kühe infizieren](https://www.stern.de/panorama/wissen/gesundheit--vogelgrippe-virus-h5n1-kann-kuehe-infizieren-34819450.html) (STERN.de)
+
 - ['Unprecedented' Spread of Bird Flu Exacerbated by Climate Crisis, Experts Warn](https://www.sciencealert.com/unprecedented-spread-of-bird-flu-exacerbated-by-climate-crisis-experts-warn) (ScienceAlert)
 
 - [New Broad-Spectrum Antiviral Currently in a Phase 2a Clinical Trial in Influenza A may be Effective Against the H5N1 Avian Influenza Strain Identified in Humans Exposed to Infected Dairy Cows](https://www.investing.com/news/press-releases/new-broadspectrum-antiviral-currently-in-a-phase-2a-clinical-trial-in-influenza-a-may-be-effective-against-the-h5n1-avian-influenza-strain-identified-in-humans-exposed-to-infected-dairy-cows-93CH-3490562) (Investing.com)
@@ -212,6 +234,22 @@ Source: [News API](https://newsapi.org/)
 - [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
+
+- [Casos de dengue suben 385 % en México y la alerta crece ante la temporada de huracanes](https://aristeguinoticias.com/2106/mexico/casos-de-dengue-suben-385-en-mexico-y-la-alerta-crece-ante-la-temporada-de-huracanes/) (Aristeguinoticias.com)
+
+- [Brasil ultrapassa seis milhões de casos prováveis de dengue este ano](https://observador.pt/2024/06/21/brasil-ultrapassa-seis-milhoes-de-casos-provaveis-de-dengue-este-ano/) (Observador.pt)
+
+- [Alertan por aumento de 385% en casos de dengue en México por temporada de huracanes](https://www.forbes.com.mx/alertan-por-aumento-de-385-en-casos-de-dengue-en-mexico-por-temporada-de-huracanes/) (Forbes.com.mx)
+
+- [Lula tomou vacina da dengue na rede privada, antes da campanha no SUS](https://ultimosegundo.ig.com.br/politica/2024-06-21/-lula-vacina-dengue-rede-privada-antes-campanha--sus.html) (Ig.com.br)
+
+- [Uncovering the knowledge gap: A web-based survey of healthcare providers’ understanding and management of dengue fever in East Azerbaijan, Iran](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305528) (Plos.org)
+
+- [What to do if you get bitten by deadly mosquito making its way to UK](https://www.ladbible.com/news/uk-news/what-to-do-bitten-tiger-mosquito-957011-20240621) (LADbible)
+
+- [Lula recebeu vacina contra dengue pela rede privada e antes de campanha do SUS, diz jornal](https://www.terra.com.br/noticias/brasil/lula-recebeu-vacina-contra-dengue-pela-rede-privada-e-antes-de-campanha-do-sus-diz-jornal,4c0933f460ac88afb88eee89470d60d6r83tlhs6.html) (Terra.com.br)
+
+- [Lula recebeu vacina contra dengue pela rede privada e antes de campanha do SUS](https://www.terra.com.br/noticias/brasil/lula-recebeu-vacina-contra-dengue-pela-rede-privada-e-antes-de-campanha-do-sus,4c0933f460ac88afb88eee89470d60d6r83tlhs6.html) (Terra.com.br)
 
 - [Tropenkrankheit: Brasilien meldet mehr als sechs Millionen Dengue-Fälle](https://www.zeit.de/gesundheit/2024-06/brasilien-dengue-faelle-hoechststand) (Die Zeit)
 
@@ -3075,8 +3113,6 @@ Source: [News API](https://newsapi.org/)
 
 - [El CSIC destaca la predilección de los mosquitos transmisores de la malaria por valles de ríos con zonas de regadío](https://www.infosalus.com/salud-investigacion/noticia-csic-destaca-predileccion-mosquitos-transmisores-malaria-valles-rios-zonas-regadio-20240506134135.html) (Infosalus.com)
 
-- [Tackling Malaria: Nigeria's Efforts and Challenges](https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges) (Financial News)
-
 ## 24-19 (leptospirosis)
 
 - [Leptospirosis Cases Surge to Highest Level in New York City](https://www.shtfplan.com/headline-news/leptospirosis-cases-surge-to-highest-level-in-new-york-city) (Shtfplan.com)
@@ -3314,12 +3350,6 @@ Source: [News API](https://newsapi.org/)
 - [Más de 420.000 casos de dengue: baja el reporte de nuevas infecciones, excepto en dos distritos](https://www.lanacion.com.ar/sociedad/mas-de-420000-casos-de-dengue-baja-el-reporte-de-nuevas-infecciones-excepto-en-dos-distritos-nid05052024/) (La Nacion)
 
 - [Labbmyggor ska lösa problem i LA](https://www.svd.se/a/KMvJ2e/myggor-fran-labb-ska-losa-myggproblem-i-la) (Svenska Dagbladet)
-
-- [Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados](https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml) (Globo)
-
-- [Municípios terão de pagar R$ 300 mil por morte de criança com dengue](https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca) (Metropoles.com)
-
-- [Dengue cases surpass 11,000 in Bagmati Province](https://english.khabarhub.com/2024/05/354188/) (Khabarhub.com)
 
 ## 24-19 (chikungunya)
 

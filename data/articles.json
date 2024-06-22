@@ -1,8 +1,333 @@
 {
-  "last_updated": "2024-06-22 07:06",
-  "count_articles_total": 1476,
-  "count_articles_new": 14,
+  "last_updated": "2024-06-22 19:06",
+  "count_articles_total": 1490,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 10368,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / GER",
+      "title": "Casos de dengue suben 385 % en M\u00e9xico y la alerta crece ante la temporada de huracanes",
+      "description": "Casos de dengue en M\u00e9xico aumentan un 385 % en lo que va del a\u00f1o, con 17,016 casos confirmados en las primeras 24 semanas. La situaci\u00f3n se espera que empeore con el comienzo de la temporada de huracanes y verano.",
+      "url": "https://aristeguinoticias.com/2106/mexico/casos-de-dengue-suben-385-en-mexico-y-la-alerta-crece-ante-la-temporada-de-huracanes/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/03/dengue-temporada-2832023.jpg",
+      "publishedAt": "2024-06-21 18:50:09",
+      "content": "Los casos de dengue en M\u00e9xico han subido un 385 % en lo que va del a\u00f1o mientras que las muertes se han quintuplicado, una situaci\u00f3n que se exacerbar\u00e1 tras el comienzo del verano y la temporada de hur\u2026 [+3589 chars]",
+      "retrievedAt": "2024-06-22 19:06:11.380651",
+      "internal_id": "55b2147359fe14edca86c4262293efac0ec44e443cb2b06729aa73e1947da2e1",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10367,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Brasil ultrapassa seis milh\u00f5es de casos prov\u00e1veis de dengue este ano",
+      "description": "Brasil, tal como toda a Am\u00e9rica Latina, sofreu este ano a pior epidemia de dengue da sua hist\u00f3ria, o que tem sido atribu\u00eddo \u00e0s perturba\u00e7\u00f5es clim\u00e1ticas. Foram registadas 4.019 mortes desde janeiro.",
+      "url": "https://observador.pt/2024/06/21/brasil-ultrapassa-seis-milhoes-de-casos-provaveis-de-dengue-este-ano/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F06%2F21191124%2F42527817.jpg",
+      "publishedAt": "2024-06-21 18:41:37",
+      "content": "O Brasil superou este ano os seis milh\u00f5es de casos prov\u00e1veis de dengue e, embora a incid\u00eancia da epidemia tenha diminu\u00eddo, foram registadas 4.019 mortes pela doen\u00e7a desde janeiro, indicaram fontes of\u2026 [+1699 chars]",
+      "retrievedAt": "2024-06-22 19:06:11.375118",
+      "internal_id": "335fe5ece236c704209a7ace04467a84475e71647dcc00879f232fd0c3e2f824",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10369,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Alertan por aumento de 385% en casos de dengue en M\u00e9xico por temporada de huracanes",
+      "description": "Forbes M\u00e9xico. Alertan por aumento de 385% en casos de dengue en M\u00e9xico por temporada de huracanes Autoridades del sur del pa\u00eds alertaron que el panorama de casos de dengue empeorar\u00eda porque apenas comienza el verano. Alertan por aumento de 385% en casos de\u2026",
+      "url": "https://www.forbes.com.mx/alertan-por-aumento-de-385-en-casos-de-dengue-en-mexico-por-temporada-de-huracanes/",
+      "urlToImage": "https://cdn.forbes.com.mx/2021/05/dengue-mosquito-CDC-scaled.jpg",
+      "publishedAt": "2024-06-21 17:50:25",
+      "content": "Los casos de dengue en M\u00e9xico subieron un 385% en lo que va del a\u00f1o mientras que las muertes se quintuplicaron, una situaci\u00f3n que se exacerbar\u00e1 tras el comienzo del verano y la temporada de huracanes\u2026 [+3571 chars]",
+      "retrievedAt": "2024-06-22 19:06:11.390143",
+      "internal_id": "b358cf80fbdff35307286b3e65b690f76ab060e8e40bffaa69d5232e187bcc57",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10363,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Ralf Klostermann",
+      "title": "Labor-Tests zeigen - Vogelgrippe-Virus auch bei deutschen K\u00fchen",
+      "description": "Jetzt haben Tests in deutschen Laboren gezeigt: Die in Deutschland kursierende Variante des Vogel-Virus H5N1 kann auch K\u00fche infizieren.",
+      "url": "https://www.bild.de/leben-wissen/wissenschaft/vogelgrippe-auch-deutsche-kuehe-koennen-sich-mit-dem-virus-infizieren-667586d91649bf48ba2b8809",
+      "urlToImage": "https://images.bild.de/667586d91649bf48ba2b8809/a55706b0083d4ce29e5af4c0ab029781,29a24961?w=1280",
+      "publishedAt": "2024-06-21 17:30:17",
+      "content": "Das gef\u00e4hrliche Vogelgrippe-Virus h\u00e4lt die Forscher weltweit in Atem. Jetzt haben Tests in Laboren gezeigt: Auch in Deutschland sind unsere K\u00fche gef\u00e4hrdet! In den USA wurde das Vogelgrippe-Virus vo\u2026 [+2165 chars]",
+      "retrievedAt": "2024-06-22 19:06:10.784790",
+      "internal_id": "e3b821259a1dccf7def8534b59d60e45d11b1cd72ad342fcecfcbd141d70d0c7",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10362,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Overclockers.ru",
+      "author": "PoZiTiv4iK",
+      "title": "\u0418\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u043a\u043b\u0438\u043c\u0430\u0442\u0430 \u0443\u0441\u0443\u0433\u0443\u0431\u043b\u044f\u0435\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u043f\u043e \u0432\u0441\u0435\u043c\u0443 \u043c\u0438\u0440\u0443",
+      "description": "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0435 \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u044b \u0431\u044c\u044e\u0442 \u0442\u0440\u0435\u0432\u043e\u0433\u0443 \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0431\u0435\u0441\u043f\u0440\u0435\u0446\u0435\u0434\u0435\u043d\u0442\u043d\u044b\u043c \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435\u043c \u0432\u044b\u0441\u043e\u043a\u043e\u043f\u0430\u0442\u043e\u0433\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u043f\u043e \u0432\u0441\u0435\u043c \u043a\u043e\u043d\u0442\u0438\u043d\u0435\u043d\u0442\u0430\u043c. \u042d\u0442\u043e \u044f\u0432\u043b\u0435\u043d\u0438\u0435 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u044b \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u044e\u0442 \u0441 \u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u044f\u043c\u0438 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u043a\u043b\u0438\u043c\u0430\u0442\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u0435\u043d\u044f\u044e\u0442 \u043c\u043e\u0434\u0435\u043b\u0438 \u043c\u0438\u0433\u0440\u0430\u0446\u0438\u0438 \u043f\u0442\u0438\u0446 \u0438 \u0441\u0440\u0435\u0434\u0443 \u0438\u0445 \u043e\u0431\u2026",
+      "url": "https://overclockers.ru/blog/Global_Chronicles/show/164540/Izmenenie-klimata-usugublyaet-besprecedentnoe-rasprostranenie-ptich-ego-grippa-H5N1-po-vsemu-miru",
+      "urlToImage": "https://overclockers.ru/st/legacy/blog/430440/529867_O.JPG",
+      "publishedAt": "2024-06-21 15:55:28",
+      "content": "COVID-19 , , , . H5N1, , , . , H5N1 , . \" \". 350 60 . , H5N1 . , , , . 2024 H5N1 . , . , , H5N1 . , , H5N1, . 2022 , - , . , , . , , .",
+      "retrievedAt": "2024-06-22 19:06:10.769691",
+      "internal_id": "e55ff3ac6b2b81dd24ea45d414d187172c9c13fc5a90978c12c66832ce863f94",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10366,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Wie gef\u00e4hrlich die Virustypen sind, die in Deutschland kursieren",
+      "description": "Ein Infektionsgeschehen wie in den USA ist in Deutschland bisher nicht zu beobachten. Dort grassieren die Erreger der Vogelgrippe bereits in mehr als Hundert Rinderherden. Und aktuelle Tests zeigen, wie riskant die deutschen Erregertypen sein k\u00f6nnen.",
+      "url": "https://www.welt.de/gesundheit/article252151074/Vogelgrippe-Viren-die-in-Deutschland-vorkommen-sind-fuer-Kuehe-durchaus-eine-Gefahr.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile252151072/3201356997-ci16x9-w1200/German-black-and-white-lowland-cattle-Bos-primigenius-taurus-cow-and-calf-Emsla.jpg",
+      "publishedAt": "2024-06-21 15:41:27",
+      "content": "Die in Deutschland vorkommenden Varianten des Vogelgrippe-Virus H5N1 k\u00f6nnen K\u00fche infizieren. Das hat eine erste Versuchsreihe am Friedrich-Loeffler-Institut (FLI) auf der Insel Riems nahe Greifswald \u2026 [+2409 chars]",
+      "retrievedAt": "2024-06-22 19:06:10.818193",
+      "internal_id": "22280281eaf6ae1f68631c987c5dd19f8d7366ef06b6d4289ca1ae7dc871c75e",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10370,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "Lula tomou vacina da dengue na rede privada, antes da campanha no SUS",
+      "description": "Presidente se vacinou no dia 5 de fevereiro sem divulga\u00e7\u00e3o, diz jornal. Campanha no SUS come\u00e7ou 4 dias depois",
+      "url": "https://ultimosegundo.ig.com.br/politica/2024-06-21/-lula-vacina-dengue-rede-privada-antes-campanha--sus.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3b/xr/sf/3bxrsf37lby10nnla5pro491u.jpg",
+      "publishedAt": "2024-06-21 14:47:58",
+      "content": "O presidente Luiz In\u00e1cio Lula da Silva (PT) tomou a vacina contra a dengue sem divulga\u00e7\u00e3o e antes do Sistema \u00danico de Sa\u00fade (SUS) come\u00e7ar a campanha de imuniza\u00e7\u00e3o contra a doen\u00e7a. As informa\u00e7\u00f5es s\u00e3\u2026 [+2140 chars]",
+      "retrievedAt": "2024-06-22 19:06:11.419008",
+      "internal_id": "8939a7e5a17bddee73f0dc8b33b9b71f757fffe6b6069b79bd65ff5fd47d5ec9",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10360,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "Christine Giannou",
+      "title": "Pertussis Outbreak: What Pregnant Women and Healthcare Professionals Need to Know",
+      "description": "Greece is experiencing a pertussis (whooping cough) outbreak, likely linked to the delayed immunization of certain age groups The post Pertussis Outbreak: What Pregnant Women and Healthcare Professionals Need to Know appeared first on ProtoThema English.",
+      "url": "https://en.protothema.gr/2024/06/21/pertussis-outbreak-what-pregnant-women-and-healthcare-professionals-need-to-know/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/06/Screenshot-2024-06-21-at-5.05.13-PM.png",
+      "publishedAt": "2024-06-21 14:08:19",
+      "content": "HEALTH POLICY Pertussis is a respiratory disease caused by a type of bacteria called Bordetella pertussis. The disease is only found in humans. Symptoms of pertussis can vary based on the individual\u2026 [+1814 chars]",
+      "retrievedAt": "2024-06-22 19:06:09.618942",
+      "internal_id": "5c5e57853d2d220ab8c61027504c033d556bda46830609f6a7bdd38609784487",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10374,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Madineh Abbasi, Morteza Zaim, Mahmood Moosazadeh, Mahasti Alizadeh, Abbasali Dorosti, Simin Khayatzadeh, Seyed Hassan Nikookar, Ahmad Raeisi, Fatemeh Nikpoor, Abdolreza Mirolyaie, Behrooz Naghili Hokmabad, Ahad Bazmani, Farzad Kaveh, Somayeh Azimi, Ahmadali Enayati",
+      "title": "Uncovering the knowledge gap: A web-based survey of healthcare providers\u2019 understanding and management of dengue fever in East Azerbaijan, Iran",
+      "description": "Background Dengue fever (DF) is increasingly recognized as one of the world\u2019s major mosquito-borne diseases and causes significant morbidity and mortality in tropical and subtropical countries. Appropriate and timely diagnosis and risk stratification for seve\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305528",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0305528.g004&size=inline",
+      "publishedAt": "2024-06-21 14:00:00",
+      "content": "Abstract Background Dengue fever (DF) is increasingly recognized as one of the worlds major mosquito-borne diseases and causes significant morbidity and mortality in tropical and subtropical countr\u2026 [+39513 chars]",
+      "retrievedAt": "2024-06-22 19:06:11.478417",
+      "internal_id": "299e06cade4d4ae1c5ba112a8c05beca4b81e5009e1f13d19fe1b35b72fb4d76",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10361,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Prasetyo, Kenzu",
+      "title": "Indonesia's BNPB targets rabies elimination in NTT by December",
+      "description": "The National Disaster Mitigation Agency (BNPB) is aiming to eliminate rabies transmission in all districts and cities of East Nusa Tenggara (NTT) by ...",
+      "url": "https://en.antaranews.com/news/316632/indonesias-bnpb-targets-rabies-elimination-in-ntt-by-december",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/04/17/32.jpg",
+      "publishedAt": "2024-06-21 13:58:14",
+      "content": "Jakarta (ANTARA) - The National Disaster Mitigation Agency (BNPB) is aiming to eliminate rabies transmission in all districts and cities of East Nusa Tenggara (NTT) by December 2024.BNPB chief Suha\u2026 [+1427 chars]",
+      "retrievedAt": "2024-06-22 19:06:09.853327",
+      "internal_id": "b7595315deeb47556cd44efaef993be4e795d18fe634217e94ffb783cd8c452c",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10364,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Gesundheit: Vogelgrippe-Virus H5N1 kann K\u00fche infizieren",
+      "description": "In den USA haben sich eine Reihe von Milchk\u00fchen mit dem Vogelgrippe-Virus infiziert. Auch in Deutschland besteht ein Risiko f\u00fcr K\u00fche. Wie steht es um die Gefahr f\u00fcr Menschen?",
+      "url": "https://www.tagesspiegel.de/wissen/gesundheit-vogelgrippe-virus-h5n1-kann-kuhe-infizieren-11878376.html",
+      "urlToImage": "https://www.tagesspiegel.de/wissen/images/vogelgrippe-bei-milchkuhen1/alternates/BASE_16_9_W1400/vogelgrippe-bei-milchkuehen",
+      "publishedAt": "2024-06-21 13:57:22",
+      "content": "Auch die in Deutschland kursierende Variante des Vogelgrippe-Virus H5N1 kann K\u00fche infizieren. Das hat ein erster Test am Friedrich-Loeffler-Institut (FLI) auf der Insel Riems bei Greifswald ergeben. \u2026 [+1896 chars]",
+      "retrievedAt": "2024-06-22 19:06:10.805032",
+      "internal_id": "db8f68e5f0c6f6674f26afeb6530248e9b6f86c16ebb79a4dae8223f3b1611da",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10365,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gesundheit: Vogelgrippe-Virus H5N1 kann K\u00fche infizieren",
+      "description": "In den USA haben sich eine Reihe von Milchk\u00fchen mit dem Vogelgrippe-Virus infiziert. Auch in Deutschland besteht ein Risiko f\u00fcr K\u00fche. Wie steht es um die Gefahr f\u00fcr Menschen?",
+      "url": "https://www.stern.de/panorama/wissen/gesundheit--vogelgrippe-virus-h5n1-kann-kuehe-infizieren-34819450.html",
+      "urlToImage": "https://image.stern.de/34819452/t/nA/v1/w1440/r1.7778/-/21--urnnewsmldpacom2009010124062199482504v3w800h600l819t322r2099b1175jpeg---ac99b200914b2dde.jpg",
+      "publishedAt": "2024-06-21 13:56:10",
+      "content": "In den USA haben sich eine Reihe von Milchk\u00fchen mit dem Vogelgrippe-Virus infiziert. Auch in Deutschland besteht ein Risiko f\u00fcr K\u00fche. Wie steht es um die Gefahr f\u00fcr Menschen? Auch die in Deutschland\u2026 [+1986 chars]",
+      "retrievedAt": "2024-06-22 19:06:10.813733",
+      "internal_id": "c6e0f842fbfc453f1a3af076c445a35eb905f1bed124972b16a1fc3082ee9bab",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10375,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Hamusoku.com",
+      "author": "hamusoku4",
+      "title": "\u7af9\u4e2d\u5e73\u8535\u300c\u79c1\u306f\u6ca2\u5c71\u306e\u8001\u5bb3\u3092\u898b\u3066\u304d\u305f\u300d\u2190\u6b63\u8ad6\u30d1\u30f3\u30c1\u3055\u308c\u308b\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57",
+      "description": "",
+      "url": "https://hamusoku.com/archives/10774917.html",
+      "urlToImage": "https://livedoor.blogimg.jp/hamusoku/imgs/d/7/d76f0c3a-s.png",
+      "publishedAt": "2024-06-21 13:04:48",
+      "content": "&gt;&gt;12010315159491048 First Results of Phase 3 Trial of RTS S/AS01 Malaria Vaccine in African Children",
+      "retrievedAt": "2024-06-22 19:06:12.092021",
+      "internal_id": "fa9b1f79271f3bed86b19211b31345e2b126a0a679c9509336e36847d4b86cee",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10376,
+      "query": [
+        "zika"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Laura Dahmer",
+      "title": "Zika-Virus in Lateinamerika: Was wurde aus den Babys mit den verformten K\u00f6pfen?",
+      "description": "2015 w\u00fctete das Zika-Virus erst in Brasilien, Ende 2016 grassierte die Epidemie in 48 L\u00e4ndern. Besonders betroffen waren schwangere M\u00fctter. Ihre Babys kamen mit Fehlbildungen auf die Welt.",
+      "url": "https://www.tagesspiegel.de/internationales/zika-virus-in-lateinamerika-was-wurde-aus-den-babys-mit-den-verformten-kopfen-11814953.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/salvador-bahia-brazil-april-27-2017-child-with-microcephaly-are-seen-at-the-embrace-microcephaly-association-a-gr/alternates/BASE_16_9_W1400/salvador-bahia--brazil---april-27-2017-child-with-microcephaly-are-seen-at-the-embrace-microcephaly-association-a-gr",
+      "publishedAt": "2024-06-21 12:38:23",
+      "content": "Es war nicht einfach eine kurze Grippe, zu der der Erreger f\u00fchrte, sondern bei Babys zu gravierenden Fehlbildungen oder gar zum Tod: das Zika-Virus. Zwischen 2015 und 2017 erlebte vor allem Brasilien\u2026 [+104 chars]",
+      "retrievedAt": "2024-06-22 19:06:12.529392",
+      "internal_id": "412378277a22e3faea0d03c920febf77b4aca70723ac464c328946b6de9b85d0",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10372,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "LADbible",
+      "title": "What to do if you get bitten by deadly mosquito making its way to UK",
+      "description": "If you're bitten by a potentially deadly mosquito there's a few things to know about what to do, and some ideas of how not to get bitten in the first place.",
+      "url": "https://www.ladbible.com/news/uk-news/what-to-do-bitten-tiger-mosquito-957011-20240621",
+      "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/bltd14769d62c97702e/667570e2b7566fbbe176ddb8/bite-mosquito.png",
+      "publishedAt": "2024-06-21 12:33:39",
+      "content": "An invasive species of potentially deadly mosquitoes could be on the way to the UK, and they may carry debilitating diseases such as dengue fever and malaria. Both diseases can kill if you don't see\u2026 [+2910 chars]",
+      "retrievedAt": "2024-06-22 19:06:11.446549",
+      "internal_id": "d5cbc9eca13aaa9265aeb93ae60767697988668d3a227646cf3e5513b92be60c",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10373,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra",
+      "title": "Lula recebeu vacina contra dengue pela rede privada e antes de campanha do SUS, diz jornal",
+      "description": "O presidente Luiz In\u00e1cio Lula da Silva (PT) foi vacinado contra a dengue antes de o Sistema ...",
+      "url": "https://www.terra.com.br/noticias/brasil/lula-recebeu-vacina-contra-dengue-pela-rede-privada-e-antes-de-campanha-do-sus-diz-jornal,4c0933f460ac88afb88eee89470d60d6r83tlhs6.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/20/1451392651-sdldnk4gvvcjrbo5njebxhcr6q.jpg",
+      "publishedAt": "2024-06-21 11:50:24",
+      "content": "O presidente Luiz In\u00e1cio Lula da Silva (PT) foi vacinado contra a dengue antes de o Sistema \u00danico de Sa\u00fade (SUS) iniciar a campanha de imuniza\u00e7\u00e3o. A primeira dose foi fornecida pela rede privada, em \u2026 [+1045 chars]",
+      "retrievedAt": "2024-06-22 19:06:11.463048",
+      "internal_id": "06fbaafad475e953fd14fc95f4bdda87ce47756fb2a742c7c227d6728e8ec2b3",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10371,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra",
+      "title": "Lula recebeu vacina contra dengue pela rede privada e antes de campanha do SUS",
+      "description": "O presidente Lula (PT) foi vacinado contra a dengue antes de o Sistema \u00danico de Sa\u00fade (SUS) ...",
+      "url": "https://www.terra.com.br/noticias/brasil/lula-recebeu-vacina-contra-dengue-pela-rede-privada-e-antes-de-campanha-do-sus,4c0933f460ac88afb88eee89470d60d6r83tlhs6.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/20/1451392651-sdldnk4gvvcjrbo5njebxhcr6q.jpg",
+      "publishedAt": "2024-06-21 11:24:47",
+      "content": "ResumoPresidente Lula se vacinou contra a dengue antes de campanha e pela rede privada, afirma jornal. O presidente Lula (PT) foi vacinado contra a dengue antes de o Sistema \u00danico de Sa\u00fade (SUS) ini\u2026 [+1113 chars]",
+      "retrievedAt": "2024-06-22 19:06:11.441374",
+      "internal_id": "93794a678ad457c69b02a20a3a7ec997bca76576c567e1018ee48bc15e7951fe",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 10377,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Bryant Hevesi",
+      "title": "Mpox outbreak spreads with health authorities in NSW and South Australia confirming new cases of infectious disease",
+      "description": "Two Australian states have issued urgent health alerts within two days of each other over an infectious disease after new cases were detected across the country.",
+      "url": "https://www.skynews.com.au/lifestyle/health/mpox-outbreak-spreads-with-health-authorities-in-nsw-and-south-australia-confirming-new-cases-of-infectious-disease/news-story/3abb25d0fc4c602bd5a0d51d5d65804e",
+      "urlToImage": "https://content.api.news/v3/images/bin/1db685ecf1a3bc5803bb6c1a27fed50c",
+      "publishedAt": "2024-06-21 09:28:48",
+      "content": "Two Australian states have issued urgent health alerts within two days of each other over an infectious disease after new cases were detected across the country. Authorities in New South Wales on F\u2026 [+2314 chars]",
+      "retrievedAt": "2024-06-22 19:06:13.222363",
+      "internal_id": "dc8687c82e8d9e1370e56bd91da4811fde7e0a5bb57c4a9df6e664348659aa63",
+      "publishedAtLabel": "Jun 21"
+    },
     {
       "id": 10358,
       "query": [
@@ -26581,78 +26906,6 @@
       "content": "Myggarten gulafebernmyggan b\u00f6rjade flytta in i s\u00f6dra Kalifornien omkring 2014. Den riktar speciellt in sig p\u00e5 m\u00e4nniskor och kan b\u00e4ra p\u00e5 virus som chikungunya, zika och dengue och gula febern. Den lo\u2026 [+228 chars]",
       "retrievedAt": "2024-05-07 07:07:05.076545",
       "internal_id": "b036db975e42ac14ae9f1823491b2a1857fbf3d339e2824ada1521497f9d63cb",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8884,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Dengue: SP chega a 587 mortos e mais de 920 mil casos confirmados",
-      "description": "No pa\u00eds, 21 estados e o Distrito Federal est\u00e3o em tend\u00eancia de queda ou estabilidade na incid\u00eancia de dengue. Outras cinco unidades federativas ainda apresentam alta da doen\u00e7a",
-      "url": "https://valor.globo.com/brasil/noticia/2024/05/05/dengue-sp-chega-a-587-mortos-e-mais-de-920-mil-casos-confirmados.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
-      "publishedAt": "2024-05-05 17:13:05",
-      "content": "O Estado de S\u00e3o Paulo chegou a 587 mortes por dengue em 2024, segundo dados do painel de monitoramento da Secretaria Estadual da Sa\u00fade deste domingo (5). Outras 719 mortes est\u00e3o em investiga\u00e7\u00e3o. O es\u2026 [+2275 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.899957",
-      "internal_id": "9b4e1c0b521d87ca54107e9873edcdf263aa31c987273811247d42eff1f89a81",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8883,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Luiz Vassallo",
-      "title": "Munic\u00edpios ter\u00e3o de pagar R$ 300 mil por morte de crian\u00e7a com dengue",
-      "description": "Justi\u00e7a de SP considerou que neglig\u00eancia de m\u00e9dicos dos munic\u00edpios de Sumar\u00e9 e Nova Odessa levou \u00e0 morte de crian\u00e7a de 13 anos com dengue",
-      "url": "https://www.metropoles.com/sao-paulo/dengue-municipios-pagar-morte-crianca",
-      "urlToImage": "https://uploads.metropoles.cloud/wp-content/uploads/2024/03/14211224/sociedade-se-mobiliza-contra-a-dengue.jpg",
-      "publishedAt": "2024-05-05 15:01:37",
-      "content": "S\u00e3o Paulo O Tribunal de Justi\u00e7a de S\u00e3o Paulo (TJSP) condenou dois munic\u00edpios do interior de S\u00e3o Paulo a indenizarem em R$ 300 mil o pai de uma crian\u00e7a que morreu de dengue em raz\u00e3o da neglig\u00eancia m\u00e9d\u2026 [+1602 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.880444",
-      "internal_id": "03a02e04614d510c04f09b6bb87d4211a82c2feaf68e8a973dae49b2446b512a",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8885,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue cases surpass 11,000 in Bagmati Province",
-      "description": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total of 11,409 cases have been diagnosed since the commencement o\u2026",
-      "url": "https://english.khabarhub.com/2024/05/354188/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-05-05 14:15:17",
-      "content": "BAGMATI: Dengue fever cases continue to surge in Bagmati Province, with over 11,000 confirmed cases reported in the past nine months. According to the Health Directorate of Bagmati Province, a total\u2026 [+945 chars]",
-      "retrievedAt": "2024-05-06 19:05:27.935323",
-      "internal_id": "bd805cf9d09aaca253f43d9ea3e77cff097a31fdaeb260576323187444d13def",
-      "publishedAtLabel": "May 5"
-    },
-    {
-      "id": 8891,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Financial News",
-      "author": null,
-      "title": "Tackling Malaria: Nigeria's Efforts and Challenges",
-      "description": "Federal Government of Nigeria is taking quick measures to tackle and eliminate malaria. Measures include intensifying case management, mobilizing funding, enhancing community involvement, and exploring innovative service delivery. Coordination Minister expres\u2026",
-      "url": "https://financialnews.com/category/health/tackling_malaria_nigerias_efforts_and_challenges",
-      "urlToImage": "https://storage.financialnews.com/10141/6637014fdec5f.webp",
-      "publishedAt": "2024-05-05 10:40:57",
-      "content": "Malaria is a deadly disease caused by parasites transmitted to humans through the bites of infected mosquitoes. It is a major public health concern in Nigeria, with millions of cases reported annuall\u2026 [+3610 chars]",
-      "retrievedAt": "2024-05-07 07:07:05.691610",
-      "internal_id": "205d4a96c931ebd9358276362996805a4f3aadaaf893a121e26a98446f806075",
       "publishedAtLabel": "May 5"
     }
   ]
