@@ -1,8 +1,188 @@
 {
-  "last_updated": "2024-06-23 07:06",
-  "count_articles_total": 1305,
-  "count_articles_new": 9,
+  "last_updated": "2024-06-23 19:06",
+  "count_articles_total": 1306,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 10390,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Theepochtimes.com",
+      "author": "Zachary Stieber",
+      "title": "Few People Have Existing Immunity to H5N1 Bird Flu: CDC Study",
+      "description": "Few People Have Existing Immunity to H5N1 Bird Flu: CDC Studytheepochtimes.com",
+      "url": "https://www.theepochtimes.com/health/few-people-have-existing-immunity-to-h5n1-bird-flu-cdc-study-5673055",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2023/05/16/id5270637-UK-poultry-GettyImages-73225724-700x420.jpg",
+      "publishedAt": "2024-06-22 18:52:03",
+      "content": "Many Americans do not have existing immunity to the highly pathogenic avian influenza, a new study indicates. The U.S. Centers for Disease Control and Prevention (CDC) collected blood from 489 peopl\u2026 [+3854 chars]",
+      "retrievedAt": "2024-06-23 19:06:02.278131",
+      "internal_id": "1e9f561f3f127fc66530d38ee37fe6c70fdaa0d76e80ed4af60d9e7371df5807",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 10396,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Poet, Politician, Exile, and Probable Malaria Victim",
+      "description": "About the Cover",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/7/ac-3007_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-06-22 18:28:05",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Possibly Agnolo Bronzino (\u2026 [+6883 chars]",
+      "retrievedAt": "2024-06-23 19:06:03.453722",
+      "internal_id": "8c7b74acfa83a2c333d88ae46d59e59822f8dcf8df2bd4e46fb215c6ee270111",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 10389,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "YAP KUO",
+      "title": "\u6b50\u76df\u9810\u9632\u6027\u63a1\u8cfc\u79bd\u6d41\u611f\u75ab\u82d7\uff0c\u512a\u5148\u63d0\u4f9b\u9ad8\u98a8\u96aa\u4eba\u54e1\u63a5\u7a2e",
+      "description": "\u79bd\u6d41\u611f\uff08Avian Influenza\uff09\u4e3b\u8981\u5f71\u97ff\u9ce5\u985e\uff0c\u5c24\u5176\u7576\u990a\u96de\u5834\u906d\u75c5\u6bd2\u5165\u4fb5\u5f8c\uff0c\u5e38\u9020\u6210\u6578\u4ee5\u842c\u8a08\u6b7b\u4ea1\u3002\u7136\u800c\uff0c\u8fd1\u5e74\u79bd\u6d41\u611f\u75c5\u6bd2\u5df2\u9010\u6b65\u8513\u5ef6\u81f3\u54fa\u4e73\u985e\u52d5\u7269\uff0c\u4e26\u4e14\u51fa\u73fe\u96f6\u661f\u4eba\u985e\u611f\u67d3\u548c\u6b7b\u4ea1\u6848\u4f8b\u3002\u9999\u6e2f\u3001\u8d8a\u5357\u53ca\u6cf0\u570b\u7b49\uff0c\u66fe\u6709\u6578\u4eba\u56e0\u611f\u67d3 H5N1 \u800c\u6b7b\u4ea1\u3002\u8377\u862d\u3001\u7f8e\u570b\u3001\u58a8\u897f\u54e5\u7b49\u4e5f\u9678\u7e8c\u6709\u6b7b\u4ea1\u7684\u901a\u5831\u3002 \u79bd\u6d41\u611f\u5c1a\u672a\u5c0d\u4eba\u985e\u793e\u6703\u69cb\u6210\u6bc0\u6ec5...",
+      "url": "https://technews.tw/2024/06/23/signs-an-agreement-with-the-european-commission-to-provide-pre-pandemic-vaccines-to-the-eu/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2024/06/17095907/brett-jordan-tp9Y4_w9DIA-unsplash.jpg",
+      "publishedAt": "2024-06-22 16:00:59",
+      "content": "\u00a9 2013-2024 TechNews Inc. All rights reserved. | | | |",
+      "retrievedAt": "2024-06-23 19:06:02.251671",
+      "internal_id": "3f473878d0ec5cbd1c1da85ee378b04996de31ee90e8b22f58e67689d36e2849",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 10387,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "Around the Web",
+      "title": "Gain of function 'good news,' no one has tried it on rabies",
+      "description": "A Google search for \"Frio Cave\" makes the Uvalde County, Texas destination look like a tourists' dream. One quickly learns that the cave is home to tens of millions of Mexican free-tailed bats, and that you can sometimes witness the flapping horde streaming o\u2026",
+      "url": "https://www.wnd.com/2024/06/gain-function-good-news-no-one-tried-rabies/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2024/06/bat-unsplash.jpg",
+      "publishedAt": "2024-06-22 15:27:36",
+      "content": "[Editor's note: This story originally was published by Real Clear Wire.] By Ross PomeroyReal Clear Wire A Google search for \"Frio Cave\" makes the Uvalde County, Texas destination look like a touris\u2026 [+3762 chars]",
+      "retrievedAt": "2024-06-23 19:06:01.398693",
+      "internal_id": "277c75c8e25d1feb4045b207c911871db9ddfbe8d4f3c90e1ce91409d63ba86b",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 10395,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Inewsguyana.com",
+      "author": "Inews",
+      "title": "398 persons hospitalised with dengue so far this year \u2013 Health Minister",
+      "description": "Guyana is facing a dengue fever outbreak, with 398 individuals having been hospitalised this year, according to recent information from Health Minister Dr Frank Anthony. In an interview with report\u2026",
+      "url": "https://www.inewsguyana.com/398-persons-hospitalised-with-dengue-so-far-this-year-health-minister/",
+      "urlToImage": "https://i0.wp.com/www.inewsguyana.com/wp-content/uploads/2024/06/frank-anthony.png?fit=812%2C554&ssl=1",
+      "publishedAt": "2024-06-22 15:22:00",
+      "content": "Guyana is facing a dengue fever outbreak, with 398 individuals having been hospitalised this year, according to recent information from Health Minister Dr Frank Anthony. In an interview with reporte\u2026 [+2189 chars]",
+      "retrievedAt": "2024-06-23 19:06:02.907731",
+      "internal_id": "aacad588db64444292b80d1cf167078999e24934f1f6bd7b208d5d8a9c601a10",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 10392,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Vin\u00edcius Nunes",
+      "title": "Direita vai cair em cima de Lula por vacina\u00e7\u00e3o contra a dengue",
+      "description": "Presidente se vacinou contra a doen\u00e7a antes de campanha do SUS",
+      "url": "https://www.metropoles.com/blog-do-noblat/direita-vai-cair-em-cima-de-lula-por-vacinacao-contra-a-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/04/08130446/Lula-toma-vacina-contra-gripe.jpeg",
+      "publishedAt": "2024-06-22 13:00:33",
+      "content": "O ex-presidente Jair Bolsonaro (PL) criticou na sexta-feira (21/06) a imuniza\u00e7\u00e3o do presidente Lula (PT) contra a dengue. Mat\u00e9ria da Folha de S.Paulo, assinada por Mateus Vargas, revela que o petista\u2026 [+1861 chars]",
+      "retrievedAt": "2024-06-23 19:06:02.839054",
+      "internal_id": "f3186221a05fe2c4b907a1e39e6aa62de4285ec6dab748cb9c3a110c7d6050f5",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 10388,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Umwelt - Maline Hofmann",
+      "title": "H5N1-Virus: Forscher warnen vor Anpassung von Vogelgrippen-Virus an S\u00e4ugetiere",
+      "description": "Auch in Europa haben sich bereits S\u00e4ugetiere mit dem Vogelgrippen-Virus angesteckt. Laut Virologen ist auch eine Anpassung an den Menschen m\u00f6glich.",
+      "url": "https://www.zeit.de/wissen/umwelt/2024-06/vogelgrippe-anpassung-saeugetiere-europa-usa",
+      "urlToImage": "https://img.zeit.de/administratives/sharing/fallback-image/wide__1300x731",
+      "publishedAt": "2024-06-22 10:54:41",
+      "content": "Nach Ansteckungen von S\u00e4ugetieren mit der Vogelgrippe in Europa bef\u00fcrchten Experten, dass sich das Virus besser an andere Tiere und wom\u00f6glich auch an den Menschen anpassen k\u00f6nnte. Zwischen Juli und O\u2026 [+3302 chars]",
+      "retrievedAt": "2024-06-23 19:06:02.217775",
+      "internal_id": "028f5b3311d48d8d2c89d725b067d0eddeaeff8febc3c88dcba1251d79e53cd8",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 10393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "\u00c9letvesz\u00e9lyes sz\u00fanyogok \u00e1rasztott\u00e1k el az Egyes\u00fclt Kir\u00e1lys\u00e1got",
+      "description": "Egyre gyorsabban terjed az Egyes\u00fclt Kir\u00e1lys\u00e1gban az \u00e1zsiai tigrissz\u00fanyog. A cs\u00edp\u00e9se annyira f\u00e1jdalmas, hogy kor\u00e1bban a csontt\u00f6r\u00e9shez hasonl\u00edtott\u00e1k. A vesz\u00e9lyes rovarok ezen k\u00edv\u00fcl olyan, emberekre is vesz\u00e9lyes betegs\u00e9geket terjesztenek, mint p\u00e9ld\u00e1ul a dengue-l\u2026",
+      "url": "https://www.origo.hu/nagyvilag/2024/06/tigrisszunyog-csipes-dongue-laz-egyesult-kiralysag",
+      "urlToImage": "https://cdn.origo.hu/2024/06/Wzf9FVRgK8MXr6Zuf_x8dbn_6ssVe7YqpAeoI-hrUTU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRjNGNkNDcxMjcwYzQ5NDA5MDY5YzE4YWU0MDQ0Yjdk.webp",
+      "publishedAt": "2024-06-22 09:32:49",
+      "content": "Fot\u00f3: Origo A hat\u00f3s\u00e1gok szerint a rovarok m\u00e1r meghonosodtak az orsz\u00e1g d\u00e9l-keleti r\u00e9sz\u00e9n, Londonban is, ez\u00e9rt k\u00e9szenl\u00e9ti tervet dolgoztak ki. A srn lakott v\u00e1rosokban gyorsan terjedhet a megbeteged\u00e9s,\u2026 [+1266 chars]",
+      "retrievedAt": "2024-06-23 19:06:02.861747",
+      "internal_id": "54d4a6e7e789ce8c1fb98efb67e4da290081a5126c3d1abbfee09a1e2555beda",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 10394,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Colima: casos de dengue pasan de 36 a mil 11 en un a\u00f1o",
+      "description": "Colima, Col., Los casos de dengue en Colima repuntaron en el acumulado de este a\u00f1o con relaci\u00f3n al mismo periodo de 2023, al pasar de 36 a mil 11, y una persona fallecida.",
+      "url": "https://www.jornada.com.mx/2024/06/22/estados/023n2est",
+      "urlToImage": "https://www.jornada.com.mx/2024/06/22/fotos/023n2est-1.jpg",
+      "publishedAt": "2024-06-22 09:04:43",
+      "content": "Peri\u00f3dico La JornadaS\u00e1bado 22 de junio de 2024, p. 23 Colima, Col., Los casos de dengue en Colima repuntaron en el acumulado de este a\u00f1o con relaci\u00f3n al mismo periodo de 2023, al pasar de 36 a mil 1\u2026 [+2338 chars]",
+      "retrievedAt": "2024-06-23 19:06:02.892010",
+      "internal_id": "2b04f4cb680213edf4423e63dc6490f47f0acd2c3a3c9f98ffe8ec5139c34328",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 10391,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "ACN",
+      "title": "M\u00e1xima vigilancia en el Hospital Cl\u00ednic ante los viajes en plena expansi\u00f3n del dengue",
+      "description": "La expansi\u00f3n del dengue a nivel global ha entrado en las consultas del Servicio de Atenci\u00f3n al Viajero Internacional del Hospital Cl\u00ednic de Barcelona, que informa y aconseja sobre el destino que se visita sobre todo a la hora de prevenir enfermedades. \"Este a\u2026",
+      "url": "https://www.elperiodico.com/es/sociedad/20240622/dengue-virus-viajes-hospital-clinic-104138700",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/d8330f02-c097-4fc5-887b-1c18b4f1dc3e_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-06-22 07:34:52",
+      "content": "La expansi\u00f3n del dengue a nivel global ha entrado en las consultas del Servicio de Atenci\u00f3n al Viajero Internacional del Hospital Cl\u00ednic de Barcelona, que informa y aconseja sobre el destino que se v\u2026 [+5031 chars]",
+      "retrievedAt": "2024-06-23 19:06:02.809577",
+      "internal_id": "afbcab9fe17c7b07f136ab6568532038397de6c25e0de544f06508a168a3fa31",
+      "publishedAtLabel": "Jun 22"
+    },
     {
       "id": 10378,
       "query": [
@@ -23406,169 +23586,6 @@
       "retrievedAt": "2024-05-14 07:06:39.254296",
       "internal_id": "00046bd772f85527639d1ae5775f0ac5006b23f97d33b3b0c839dde336b25bce",
       "publishedAtLabel": "May 13"
-    },
-    {
-      "id": 9090,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Jungewelt.de",
-      "author": "Gerrit Hoekman",
-      "title": "Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]",
-      "description": "Laut britischen Forschern k\u00f6nnte sich das Verbreitungsgebiet der Krankheit durch Wasserknappheit in Afrika verlagern.",
-      "url": "https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html",
-      "urlToImage": "https://www.jungewelt.de/img/1100/194842.jpg",
-      "publishedAt": "2024-05-12 17:37:53",
-      "content": "Uneingeschr\u00e4nkter Zugriff auf alle Inhalte: Erleben Sie die Tageszeitung junge Welt in gedruckter oder digitaler Form oder beides kombiniert. Nachrichtenauswahl und -aufbereitung erfordern finanziel\u2026 [+458 chars]",
-      "retrievedAt": "2024-05-13 19:05:19.009623",
-      "internal_id": "9b89f04b0191c98b004061d5552b21c33276071be45d33faaa916e9e2d7c562b",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9087,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Ag\u00eancia Fapesp",
-      "title": "Monitoramento mostra que \u00e9 poss\u00edvel prever epidemias de chikungunya por meio de vigil\u00e2ncia",
-      "description": "Estudo realizado em S\u00e3o Jos\u00e9 do Rio Preto descobriu que o v\u00edrus conhecido por provocar epidemias massivas tamb\u00e9m pode circular silenciosamente por uma comunidade, provocando poucas infec\u00e7\u00f5es durante anos. Novo perfil do chikungunya refor\u00e7a a import\u00e2ncia de fa\u2026",
-      "url": "https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/05/chikungunya-fapesp.jpg",
-      "publishedAt": "2024-05-12 15:07:47",
-      "content": "Texto: Maria Fernanda Ziegler | Ag\u00eancia FAPESP Conhecido por provocar epidemias massivas at\u00e9 mais impactantes que as de dengue , o v\u00edrus do chikungunya pode tamb\u00e9m apresentar um perfil menos intenso\u2026 [+4913 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.940074",
-      "internal_id": "f88230cf667e1df9939474f657a44e390412cd9c9e5b8f552c90558f548fbede",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9084,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Kevinmd.com",
-      "author": "Dr. Roxanne Becker",
-      "title": "Eating our way to the next pandemic",
-      "description": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic could be around the corner, and the food we choose to purchase \u2026",
-      "url": "https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html",
-      "urlToImage": "https://www.kevinmd.com/wp-content/uploads/shutterstock_2169452695.jpg",
-      "publishedAt": "2024-05-12 15:00:45",
-      "content": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic cou\u2026 [+5251 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.348008",
-      "internal_id": "02a1befaf085db5997a8e6a23b16dfc87efdab2ac46bbc11db65fca5749c2c10",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9083,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Futura",
-      "author": "Diana Bell, Professeur de biologie de la conservation, University of East Anglia \u2013 The Conversation",
-      "title": "Les animaux vivent d\u00e9j\u00e0 la prochaine pand\u00e9mie",
-      "description": "Ces derni\u00e8res ann\u00e9es, la grippe aviaire H5N1 a provoqu\u00e9 la mort de millions de volailles et d'oiseaux mais aussi de nombreux mammif\u00e8res. Ce virus qui semble s'affranchir de toutes les barri\u00e8res deviendra-t-il une menace pand\u00e9mique pour la biodiversit\u00e9 dans so\u2026",
-      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/",
-      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/f/7/cf74a6d59a_50215931_mouette-tridactyle.jpg",
-      "publishedAt": "2024-05-12 12:54:56",
-      "content": "Quelle sera la prochaine pand\u00e9mie ? Je suis une biologiste de la conservation et j'\u00e9tudie les maladies infectieuses \u00e9mergentes. Quand on me demande quelle sera la prochaine pand\u00e9mie, je r\u00e9ponds souve\u2026 [+7162 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.339476",
-      "internal_id": "a84ea503fedd7f1ac3b05f99f4c90265ee8a11e65f8c256aff70e956131ed8b4",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9089,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Zhaki Abdullah",
-      "title": "High worldwide dengue numbers may not impact Singapore: Experts",
-      "description": "Low visitor traffic from South America and diversity of strains in Singapore are among factors cited. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts",
-      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/05/12/2024022590212087gin8446.jpg?VersionId=vvNZ9EWHqfSrd4iFniVTnjtTGI9KcvCY",
-      "publishedAt": "2024-05-12 12:44:29",
-      "content": "SINGAPORE Even as dengue numbers soar worldwide, experts say it remains to be seen how the record figures elsewhere will impact the number of infections in Singapore. To date, there have been more \u2026 [+2599 chars]",
-      "retrievedAt": "2024-05-13 19:05:18.003818",
-      "internal_id": "727876864f7933c46fcd96e0bc2e83db0b17f44df127f56e13aa909da894ab26",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9088,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension",
-      "description": "The authorities first got suspicious last November when health officials were denied entry to her home for dengue-prevention measures.",
-      "url": "https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391",
-      "urlToImage": "https://c.ndtvimg.com/2023-04/bvih5i2g_crime-scene_625x300_03_April_23.jpg",
-      "publishedAt": "2024-05-12 11:19:06",
-      "content": "Upon investigation, police found that the man had been dead for a long time. A woman in Taiwan has been accused of hiding her dead father's body in her home for years to claim his military pension. \u2026 [+2159 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.955426",
-      "internal_id": "5248731708cdfd7954e9181bfde30335b8537f7c3ec9a9248bfc362b58fc6e45",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9085,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Adevarul.ro",
-      "author": "Afrodita Cicovschi",
-      "title": "Gripa aviar\u0103 la fermele de vaci. Cum \u00eencearc\u0103 SUA s\u0103 limiteze r\u0103sp\u00e2ndirea virusului",
-      "description": "Administra\u021bia Biden \u00eencearc\u0103 din r\u0103sputeri s\u0103 limiteze r\u0103sp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijor\u0103rile legate de infec\u021biile umane cu virusul H5N1, scrie Reuters.",
-      "url": "https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html",
-      "urlToImage": "https://cdn.adh.reperio.news/image-c/ca1a7021-d283-4761-bda8-95aff2d28406/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-      "publishedAt": "2024-05-12 10:55:08",
-      "content": "Administraia Biden \u00eencearc din rsputeri s limiteze rsp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijorrile legate de infeciile umane cu virusul H5N1, scrie Reuters. Administraia \u2026 [+2783 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.361888",
-      "internal_id": "cb6c5efd69cd8e0d5f36f551f55c7ae3eac7e45080a542c7cbb079419e3f5ab2",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9086,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Almayadeen.net",
-      "author": "\u0627\u0644\u0645\u064a\u0627\u062f\u064a\u0646 \u0646\u062a",
-      "title": "\u0627\u0644\u0623\u0628\u0642\u0627\u0631 \u0642\u062f \u062a\u0646\u0642\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0627\u0644\u0628\u0634\u0631.. \u0643\u064a\u0641\u061f",
-      "description": "\u062f\u0631\u0627\u0633\u0629 \u062c\u062f\u064a\u062f\u0629 \u0644\u0639\u0644\u0645\u0627\u0621 \u0641\u064a \u0627\u0644\u0635\u062d\u0629 \u062a\u0638\u0647\u0631 \u0623\u0646\u0651 \u0623\u0643\u064a\u0627\u0633 \u0636\u0631\u0639 \u0627\u0644\u0628\u0642\u0631 \u0627\u0644\u062b\u062f\u064a\u064a\u0629 \u0642\u062f \u062a\u0635\u0628\u062d \"\u0623\u0648\u0639\u064a\u0629 \u062e\u0644\u0637\" \u0645\u062d\u0645\u0651\u0644\u0629 \u0628\u0645\u0633\u062a\u0642\u0628\u0644\u0627\u062a \u0627\u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0627\u0644\u0637\u064a\u0648\u0631 \u0648\u062a\u0633\u0627\u0639\u062f \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u0639\u0644\u0649 \u0627\u0644\u0627\u0646\u062a\u0634\u0627\u0631 \u0628\u064a\u0646 \u0627\u0644\u0628\u0634\u0631 \u0645\u062b\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 (H5N1).. \u0648\u0627\u0644\u062c\u062f\u0644 \u064a\u062a\u0648\u0627\u0635\u0644 \u062d\u0648\u0644 \u0635\u062d\u0629 \u0627\u0644\u0623\u0644\u0628\u0627\u0646!",
-      "url": "https://www.almayadeen.net/health/\u0627\u0644\u0623\u0628\u0642\u0627\u0631-\u0642\u062f-\u062a\u0646\u0642\u0644-\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627-\u0627\u0644\u0637\u064a\u0648\u0631-\u0625\u0644\u0649-\u0627\u0644\u0628\u0634\u0631---\u0643\u064a\u0641",
-      "urlToImage": "https://alpha-ar-media.almayadeen.net/media/image/2024/5/12/d06f4808-ce20-4113-a8ab-c110693c3f94.png?v=2&width=1000",
-      "publishedAt": "2024-05-12 08:54:54",
-      "content": "\" \" (H5N1) \"\" \" \" \"BioRxiv\" \"WEb Med\". . (H5N1). . . Many people are wondering how we can monitor this H5N1 situation. We sequence the whole virome from wastewater, and, well, H5N1 starte\u2026 [+574 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.408221",
-      "internal_id": "0bfb1e1b5f252d6082d222066eba0fbfd5c00f340cce4de7fb8d558713f0feb9",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9082,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Dogs entering US must be 6 months old, microchipped to prevent rabies spread",
-      "description": "New York \u2014 All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new rules require vaccination for dogs that have be\u2026",
-      "url": "https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html",
-      "urlToImage": "https://gdb.voanews.com/6633B470-639B-4589-882A-3066C2D759A1.jpg",
-      "publishedAt": "2024-05-12 07:07:40",
-      "content": "New York All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday\u2026 [+3079 chars]",
-      "retrievedAt": "2024-05-13 19:05:15.872833",
-      "internal_id": "d8312d1a3a146431fe86ca9d38efa3dc47fa299be6919e26fd1c609f7279b62c",
-      "publishedAtLabel": "May 12"
     }
   ]
 }
