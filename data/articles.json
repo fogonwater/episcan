@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-06-23 19:06",
-  "count_articles_total": 1306,
-  "count_articles_new": 10,
+  "last_updated": "2024-06-24 07:07",
+  "count_articles_total": 1324,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 10400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Auch Urlaubsorte betroffen: Italien k\u00e4mpft mit doppelter Dengue-Belastung",
+      "description": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die F\u00e4lle, die durch Tigerm\u00fccken in Italien verursacht werden. \u2026",
+      "url": "https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25029658/8121325893-cImg_16_9-w1200/220432705.jpg",
+      "publishedAt": "2024-06-23 07:06:44",
+      "content": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die\u2026 [+5656 chars]",
+      "retrievedAt": "2024-06-24 07:07:00.243495",
+      "internal_id": "df75e123d194d7a022ad7278ab605fb63631805af05d41b3b6827e05b28ec592",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Les chansons l\u00e9g\u00e8res du moustique",
+      "description": "Alors que les autorit\u00e9s alertent sur la p\u00e9rennit\u00e9 de l'installation en France du moustique tigre, vecteur de la dengue, constatons que la chanson n'a pas encore pris la mesure de la menace pour la sant\u00e9 publique.",
+      "url": "https://www.francetvinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/les-chansons-legeres-du-moustique_6500126.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/yOhu2iVC_O1QbV_TlA-Ek8_vhZs/1500x843/2024/06/22/gettyimages-636211478-6676ccc1885ad404200508.jpg",
+      "publishedAt": "2024-06-23 06:34:32",
+      "content": "Cest s\u00e9rieux, le moustique. Un minuscule insecte qui propage la mort, comme le rappelle cette chanson du chanteur congolais Zao. Ici, en Europe, on ne souciait gu\u00e8re du moustique que lorsque lon part\u2026 [+1337 chars]",
+      "retrievedAt": "2024-06-24 07:07:00.268754",
+      "internal_id": "fb67a7086b8228e3a6702abecbe4f76cdaa9d3fed9266e1b881e98cfc41a4918",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10397,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "aftenposten",
+      "source_name": "Aftenposten",
+      "author": "Stine Barstad",
+      "title": "Myggen som sprer tropesykdom, kommer nordover. N\u00e5 skal den v\u00e6re observert i Sk\u00e5ne.",
+      "description": "Tigermyggen sprer tropesykdom nordover i Europa. Dette m\u00e5 du vite.",
+      "url": "https://www.aftenposten.no/verden/i/qPWvKw/tigermyggen-sprer-tropesykdom-nordover-i-europa",
+      "urlToImage": "https://premium.vgc.no/v2/images/d22166ec-2ba1-4b8b-a302-6a41934d0abd?fit=crop&format=auto&h=1365&w=2048&s=6d747fd72fdf38335ff1f91b9ea256eb37a8e7a6",
+      "publishedAt": "2024-06-23 05:00:30",
+      "content": "Verdens mest invaderende mygg st\u00e5r bak \u00f8kning i denguefeber i Europa. N\u00e5 skal den v\u00e6re observert i Sverige. Tigermyggen beskrives som verdens mest invaderende myggart, og stikker d\u00f8gnet rundt. Foto\u2026 [+3438 chars]",
+      "retrievedAt": "2024-06-24 07:07:00.154686",
+      "internal_id": "9a3820351fb64ef980d29e1e3816db7d48c76ccdebdbf618ea56b5a4188007b9",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10403,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "ABC Action News",
+      "author": "Ginny Reese",
+      "title": "Florida dept of health confirms local human case of dengue fever",
+      "description": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever.",
+      "url": "https://www.abcactionnews.com/news/local-news/dept-of-health-hillsborough-county-confirms-local-human-case-of-dengue-fever",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/0749e19/2147483647/strip/true/crop/3000x1575+0+109/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F06%2F3b%2F6da362f346808e6a47e5bbc6d203%2Fap22265819635022.jpg",
+      "publishedAt": "2024-06-23 03:20:35",
+      "content": "HILLSBOROUGH COUNTY, Fla. The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever. DOH-Hillsborough and Hillsborough C\u2026 [+1317 chars]",
+      "retrievedAt": "2024-06-24 07:07:00.281734",
+      "internal_id": "86e01b38bf3fda7868e2cfda0f6ec164630b2edbbe0c6c88bd82eb3fa1b010b8",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "WTSP.com",
+      "author": "Patrick Henkels",
+      "title": "Dengue fever confirmed in Hillsborough County",
+      "description": "At this time, DOH-Hillsborough and Hillsborough County Mosquito Control are conducting aerial spraying to help prevent the spread of the viral infection.",
+      "url": "https://www.wtsp.com/article/news/health/dengue-fever-hillsborough-county/67-8b48d912-bcb1-42c5-aa53-40cfb7f63b3a",
+      "urlToImage": "https://media.wtsp.com/assets/WTSP/images/22485374-c165-4d2d-90d3-f8f20796a829/22485374-c165-4d2d-90d3-f8f20796a829_1140x641.jpg",
+      "publishedAt": "2024-06-23 02:56:54",
+      "content": "TAMPA, Fla. Health officials have announced a confirmed case of dengue fever in Hillsborough County. Dengue fever is a viral infection that spreads from mosquitoes to people, according to the World \u2026 [+1314 chars]",
+      "retrievedAt": "2024-06-24 07:07:00.276846",
+      "internal_id": "48305949a26b21fbf19ff33f0696b2ad7647c441ba05a8a58fdee71131249406",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10399,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra",
+      "title": "Minist\u00e9rio da Sa\u00fade amplia faixa et\u00e1ria para vacina da dengue em doses prestes a vencer; veja regras",
+      "description": "A pasta frisa que tal medida \u00e9 \"tempor\u00e1ria e excepcional\"; Brasil j\u00e1 passa os 6 milh\u00f5es de casos prov\u00e1veis de dengue este ano",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-amplia-faixa-etaria-para-vacina-da-dengue-em-doses-prestes-a-vencer-veja-regras,d8a927124262198f72703decbd358b98mgwk9ov5.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/05/23/vacina-dengue-gripe-urxymju3lnas.jpg",
+      "publishedAt": "2024-06-23 00:26:10",
+      "content": "O Minist\u00e9rio da Sa\u00fade publicou uma nota t\u00e9cnica, na noite de sexta-feira, 21, em que amplia a faixa et\u00e1ria eleg\u00edvel para receber a vacina contra a dengue distribu\u00edda pelo Sistema \u00danico de Sa\u00fade (SUS)\u2026 [+1363 chars]",
+      "retrievedAt": "2024-06-24 07:07:00.235252",
+      "internal_id": "61fddb9423a77999a81e0da71235af37945291837d3eb2ca057a9382472913c0",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10398,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Sa\u00fade recomenda que estados ampliem vacina\u00e7\u00e3o contra a dengue. Entenda",
+      "description": "Minist\u00e9rio da Sa\u00fade recomenda que estados com vacinas contra a dengue prestes \u00e0 vencer ampliem a faixa et\u00e1ria do p\u00fablico-alvo",
+      "url": "https://www.metropoles.com/brasil/saude-recomenda-que-estados-ampliem-vacinacao-contra-a-dengue-entenda",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/10095625/vacinacao-dengue-vacina-qdenga-imunizante-df.jpeg",
+      "publishedAt": "2024-06-22 23:51:22",
+      "content": "O Minist\u00e9rio da Sa\u00fade, em nota t\u00e9cnica publicada na sexta-feira (21/6), recomenda que as unidades da federa\u00e7\u00e3o que tenham doses de vacina contra a dengue prestes a vencer ampliem faixa et\u00e1ria do p\u00fabl\u2026 [+4239 chars]",
+      "retrievedAt": "2024-06-24 07:07:00.202405",
+      "internal_id": "958a90a3d94a80a38fc616a500d3571206822e71ea1d0bb5a4edf57828364827",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 10405,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Revista Pesquisa FAPESP",
+      "title": "Estudo identifica como o v\u00edrus chikungunya leva \u00e0 morte",
+      "description": "Agente infeccioso causa desregula\u00e7\u00e3o metab\u00f3lica e inflama\u00e7\u00e3o em v\u00e1rios \u00f3rg\u00e3os, incluindo o c\u00e9rebro The post Estudo identifica como o v\u00edrus chikungunya leva \u00e0 morte appeared first on Giz Brasil.",
+      "url": "https://gizmodo.uol.com.br/estudo-identifica-como-o-virus-chikungunya-leva-a-morte/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2023/11/chikungunya-fapesp-0.jpg",
+      "publishedAt": "2024-06-22 23:01:52",
+      "content": "Texto: Felipe Floresti/Revista Pesquisa Fapesp A chikungunya \u00e9 uma doen\u00e7a altamente incapacitante. Causada por um v\u00edrus transmitido pela picada de f\u00eameas de mosquitos do g\u00eanero Aedes, ela provoca fe\u2026 [+7109 chars]",
+      "retrievedAt": "2024-06-24 07:07:01.676124",
+      "internal_id": "2b7a3b9e81002eb82627a9876c982b16d682496f5ed064f64cb030fda6d5dc74",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 10404,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Chijioke Iremeka",
+      "title": "How Lagos dirty drainages drive malaria, diarrhoeal infections in communities",
+      "description": "De-silting of drainages in preparation for the rainy season, over the years has, to a great extent, helped rid Lagos of mosquitoes, thereby, reducing the burden of malaria and diarrhoeal infection on an already frail healthcare system. CHIJIOKE IREMEKA writes\u2026",
+      "url": "https://punchng.com/how-lagos-dirty-drainages-drive-malaria-diarrhoeal-infections-in-communities/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/06/22192835/OPALEYE-STREET.jpg",
+      "publishedAt": "2024-06-22 23:01:28",
+      "content": "De-silting of drainages in preparation for the rainy season, over the years has, to a great extent, helped rid Lagos of mosquitoes, thereby, reducing the burden of malaria and diarrhoeal infection on\u2026 [+21448 chars]",
+      "retrievedAt": "2024-06-24 07:07:00.939732",
+      "internal_id": "9c05817b4b12dd50fda8a5a0f12b193d1cf4535380858c2c5abe79722b031798",
+      "publishedAtLabel": "Jun 22"
+    },
     {
       "id": 10390,
       "query": [
@@ -23586,6 +23748,169 @@
       "retrievedAt": "2024-05-14 07:06:39.254296",
       "internal_id": "00046bd772f85527639d1ae5775f0ac5006b23f97d33b3b0c839dde336b25bce",
       "publishedAtLabel": "May 13"
+    },
+    {
+      "id": 9090,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Jungewelt.de",
+      "author": "Gerrit Hoekman",
+      "title": "Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]",
+      "description": "Laut britischen Forschern k\u00f6nnte sich das Verbreitungsgebiet der Krankheit durch Wasserknappheit in Afrika verlagern.",
+      "url": "https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html",
+      "urlToImage": "https://www.jungewelt.de/img/1100/194842.jpg",
+      "publishedAt": "2024-05-12 17:37:53",
+      "content": "Uneingeschr\u00e4nkter Zugriff auf alle Inhalte: Erleben Sie die Tageszeitung junge Welt in gedruckter oder digitaler Form oder beides kombiniert. Nachrichtenauswahl und -aufbereitung erfordern finanziel\u2026 [+458 chars]",
+      "retrievedAt": "2024-05-13 19:05:19.009623",
+      "internal_id": "9b89f04b0191c98b004061d5552b21c33276071be45d33faaa916e9e2d7c562b",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9087,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Ag\u00eancia Fapesp",
+      "title": "Monitoramento mostra que \u00e9 poss\u00edvel prever epidemias de chikungunya por meio de vigil\u00e2ncia",
+      "description": "Estudo realizado em S\u00e3o Jos\u00e9 do Rio Preto descobriu que o v\u00edrus conhecido por provocar epidemias massivas tamb\u00e9m pode circular silenciosamente por uma comunidade, provocando poucas infec\u00e7\u00f5es durante anos. Novo perfil do chikungunya refor\u00e7a a import\u00e2ncia de fa\u2026",
+      "url": "https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/05/chikungunya-fapesp.jpg",
+      "publishedAt": "2024-05-12 15:07:47",
+      "content": "Texto: Maria Fernanda Ziegler | Ag\u00eancia FAPESP Conhecido por provocar epidemias massivas at\u00e9 mais impactantes que as de dengue , o v\u00edrus do chikungunya pode tamb\u00e9m apresentar um perfil menos intenso\u2026 [+4913 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.940074",
+      "internal_id": "f88230cf667e1df9939474f657a44e390412cd9c9e5b8f552c90558f548fbede",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9084,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kevinmd.com",
+      "author": "Dr. Roxanne Becker",
+      "title": "Eating our way to the next pandemic",
+      "description": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic could be around the corner, and the food we choose to purchase \u2026",
+      "url": "https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html",
+      "urlToImage": "https://www.kevinmd.com/wp-content/uploads/shutterstock_2169452695.jpg",
+      "publishedAt": "2024-05-12 15:00:45",
+      "content": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic cou\u2026 [+5251 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.348008",
+      "internal_id": "02a1befaf085db5997a8e6a23b16dfc87efdab2ac46bbc11db65fca5749c2c10",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9083,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Diana Bell, Professeur de biologie de la conservation, University of East Anglia \u2013 The Conversation",
+      "title": "Les animaux vivent d\u00e9j\u00e0 la prochaine pand\u00e9mie",
+      "description": "Ces derni\u00e8res ann\u00e9es, la grippe aviaire H5N1 a provoqu\u00e9 la mort de millions de volailles et d'oiseaux mais aussi de nombreux mammif\u00e8res. Ce virus qui semble s'affranchir de toutes les barri\u00e8res deviendra-t-il une menace pand\u00e9mique pour la biodiversit\u00e9 dans so\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/f/7/cf74a6d59a_50215931_mouette-tridactyle.jpg",
+      "publishedAt": "2024-05-12 12:54:56",
+      "content": "Quelle sera la prochaine pand\u00e9mie ? Je suis une biologiste de la conservation et j'\u00e9tudie les maladies infectieuses \u00e9mergentes. Quand on me demande quelle sera la prochaine pand\u00e9mie, je r\u00e9ponds souve\u2026 [+7162 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.339476",
+      "internal_id": "a84ea503fedd7f1ac3b05f99f4c90265ee8a11e65f8c256aff70e956131ed8b4",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9089,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Zhaki Abdullah",
+      "title": "High worldwide dengue numbers may not impact Singapore: Experts",
+      "description": "Low visitor traffic from South America and diversity of strains in Singapore are among factors cited. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts",
+      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/05/12/2024022590212087gin8446.jpg?VersionId=vvNZ9EWHqfSrd4iFniVTnjtTGI9KcvCY",
+      "publishedAt": "2024-05-12 12:44:29",
+      "content": "SINGAPORE Even as dengue numbers soar worldwide, experts say it remains to be seen how the record figures elsewhere will impact the number of infections in Singapore. To date, there have been more \u2026 [+2599 chars]",
+      "retrievedAt": "2024-05-13 19:05:18.003818",
+      "internal_id": "727876864f7933c46fcd96e0bc2e83db0b17f44df127f56e13aa909da894ab26",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9088,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension",
+      "description": "The authorities first got suspicious last November when health officials were denied entry to her home for dengue-prevention measures.",
+      "url": "https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391",
+      "urlToImage": "https://c.ndtvimg.com/2023-04/bvih5i2g_crime-scene_625x300_03_April_23.jpg",
+      "publishedAt": "2024-05-12 11:19:06",
+      "content": "Upon investigation, police found that the man had been dead for a long time. A woman in Taiwan has been accused of hiding her dead father's body in her home for years to claim his military pension. \u2026 [+2159 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.955426",
+      "internal_id": "5248731708cdfd7954e9181bfde30335b8537f7c3ec9a9248bfc362b58fc6e45",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9085,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Afrodita Cicovschi",
+      "title": "Gripa aviar\u0103 la fermele de vaci. Cum \u00eencearc\u0103 SUA s\u0103 limiteze r\u0103sp\u00e2ndirea virusului",
+      "description": "Administra\u021bia Biden \u00eencearc\u0103 din r\u0103sputeri s\u0103 limiteze r\u0103sp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijor\u0103rile legate de infec\u021biile umane cu virusul H5N1, scrie Reuters.",
+      "url": "https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-c/ca1a7021-d283-4761-bda8-95aff2d28406/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-05-12 10:55:08",
+      "content": "Administraia Biden \u00eencearc din rsputeri s limiteze rsp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijorrile legate de infeciile umane cu virusul H5N1, scrie Reuters. Administraia \u2026 [+2783 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.361888",
+      "internal_id": "cb6c5efd69cd8e0d5f36f551f55c7ae3eac7e45080a542c7cbb079419e3f5ab2",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9086,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Almayadeen.net",
+      "author": "\u0627\u0644\u0645\u064a\u0627\u062f\u064a\u0646 \u0646\u062a",
+      "title": "\u0627\u0644\u0623\u0628\u0642\u0627\u0631 \u0642\u062f \u062a\u0646\u0642\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0627\u0644\u0628\u0634\u0631.. \u0643\u064a\u0641\u061f",
+      "description": "\u062f\u0631\u0627\u0633\u0629 \u062c\u062f\u064a\u062f\u0629 \u0644\u0639\u0644\u0645\u0627\u0621 \u0641\u064a \u0627\u0644\u0635\u062d\u0629 \u062a\u0638\u0647\u0631 \u0623\u0646\u0651 \u0623\u0643\u064a\u0627\u0633 \u0636\u0631\u0639 \u0627\u0644\u0628\u0642\u0631 \u0627\u0644\u062b\u062f\u064a\u064a\u0629 \u0642\u062f \u062a\u0635\u0628\u062d \"\u0623\u0648\u0639\u064a\u0629 \u062e\u0644\u0637\" \u0645\u062d\u0645\u0651\u0644\u0629 \u0628\u0645\u0633\u062a\u0642\u0628\u0644\u0627\u062a \u0627\u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0627\u0644\u0637\u064a\u0648\u0631 \u0648\u062a\u0633\u0627\u0639\u062f \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u0639\u0644\u0649 \u0627\u0644\u0627\u0646\u062a\u0634\u0627\u0631 \u0628\u064a\u0646 \u0627\u0644\u0628\u0634\u0631 \u0645\u062b\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 (H5N1).. \u0648\u0627\u0644\u062c\u062f\u0644 \u064a\u062a\u0648\u0627\u0635\u0644 \u062d\u0648\u0644 \u0635\u062d\u0629 \u0627\u0644\u0623\u0644\u0628\u0627\u0646!",
+      "url": "https://www.almayadeen.net/health/\u0627\u0644\u0623\u0628\u0642\u0627\u0631-\u0642\u062f-\u062a\u0646\u0642\u0644-\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627-\u0627\u0644\u0637\u064a\u0648\u0631-\u0625\u0644\u0649-\u0627\u0644\u0628\u0634\u0631---\u0643\u064a\u0641",
+      "urlToImage": "https://alpha-ar-media.almayadeen.net/media/image/2024/5/12/d06f4808-ce20-4113-a8ab-c110693c3f94.png?v=2&width=1000",
+      "publishedAt": "2024-05-12 08:54:54",
+      "content": "\" \" (H5N1) \"\" \" \" \"BioRxiv\" \"WEb Med\". . (H5N1). . . Many people are wondering how we can monitor this H5N1 situation. We sequence the whole virome from wastewater, and, well, H5N1 starte\u2026 [+574 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.408221",
+      "internal_id": "0bfb1e1b5f252d6082d222066eba0fbfd5c00f340cce4de7fb8d558713f0feb9",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9082,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Dogs entering US must be 6 months old, microchipped to prevent rabies spread",
+      "description": "New York \u2014 All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new rules require vaccination for dogs that have be\u2026",
+      "url": "https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html",
+      "urlToImage": "https://gdb.voanews.com/6633B470-639B-4589-882A-3066C2D759A1.jpg",
+      "publishedAt": "2024-05-12 07:07:40",
+      "content": "New York All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday\u2026 [+3079 chars]",
+      "retrievedAt": "2024-05-13 19:05:15.872833",
+      "internal_id": "d8312d1a3a146431fe86ca9d38efa3dc47fa299be6919e26fd1c609f7279b62c",
+      "publishedAtLabel": "May 12"
     }
   ]
 }
