@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-06-24 07:07",
+  "last_updated": "2024-06-24 19:05",
   "count_articles_total": 1324,
   "count_articles_new": 9,
   "articles": [
+    {
+      "id": 10412,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Madrid, en alerta por dengue tras registrar el doble de casos que en 2023",
+      "description": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid ha duplicado en lo que llevamos de a\u00f1o los casos registrado\u2026",
+      "url": "https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2024/06/23/combo-mosquitotigre-U18720438030ZoL-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-06-23 17:48:28",
+      "content": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid\u2026 [+3708 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.292033",
+      "internal_id": "27eb8ba316639c8071ede24a550604bbbd2540ba2a2585772c56a18c5fb51433",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10409,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Europa Press",
+      "title": "El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
+      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los...",
+      "url": "https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/23e291a4bf337d48bf4a4d4223dfac48/crop/5x0/700x463/f/webp/assets/multimedia/imagenes/2024/06/23/17191631760710.jpg",
+      "publishedAt": "2024-06-23 17:26:45",
+      "content": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo perio\u2026 [+3892 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.238678",
+      "internal_id": "8db81fb0a134209d91cad20a2d9d397f9c8f8f987bee4bb69ffa34ff1ee58b10",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10408,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nath\u00e1lia Cardim",
+      "title": "DF manter\u00e1 faixa et\u00e1ria de vacina\u00e7\u00e3o contra dengue. Veja p\u00fablico-alvo",
+      "description": "Minist\u00e9rio da Sa\u00fade ampliou p\u00fablico-alvo em estados e munic\u00edpios com doses prestes a vencer. No DF, por\u00e9m, imunizantes s\u00f3 expiram em 2025",
+      "url": "https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/11141151/vacinacao-dengue-cruzeiro-criancas-10-11-anos-2.jpeg",
+      "publishedAt": "2024-06-23 17:11:57",
+      "content": "A Secretaria de Sa\u00fade do Distrito Federal (SES-DF) informou neste domingo (23/6) que n\u00e3o haver\u00e1 mudan\u00e7a na estrat\u00e9gia adotada pela pasta com rela\u00e7\u00e3o ao p\u00fablico-alvo da vacina\u00e7\u00e3o contra a dengue na ca\u2026 [+5109 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.211358",
+      "internal_id": "320658297cf021b4f5b323bfff0db2b5023606f8b81cb2272fe0a7d2e9ab8514",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10414,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Livia Kristianti, Raka Adji",
+      "title": "Vigilance key to successful dengue handling in children: Ministry",
+      "description": "Parents&#39; vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control ...",
+      "url": "https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/06/23/IMG-20240623-WA0101.jpg",
+      "publishedAt": "2024-06-23 15:21:55",
+      "content": "Jakarta (ANTARA) - Parents' vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control at the Ministry of Health\u2026 [+1870 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.327407",
+      "internal_id": "2496b9087671152e17309e85fe29b32971052ede992151afd8b149dbf10ca946",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10407,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Resilience",
+      "author": "Kurt Cobb",
+      "title": "What the H5N1 scare tells us about ourselves and our society",
+      "description": "I don't know whether there is an H5N1 \"bird flu\" pandemic in our future. We humans think we can build moats around our modern way of life that protect us from the natural world. All the while we have actually been building the equivalent of superhighways into\u2026",
+      "url": "https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/",
+      "urlToImage": "https://www.resilience.org/wp-content/uploads/2024/06/H5N1_Bird_Flu.jpg",
+      "publishedAt": "2024-06-23 15:03:03",
+      "content": "I don\u2019t know whether there is an H5N1 \u201cbird flu\u201d pandemic in our future. H5N1 seems to be very dangerous to humans. Half of the 900 people known to have contracted it worldwide since 2003 have died. \u2026 [+5039 chars]",
+      "retrievedAt": "2024-06-24 19:05:44.883629",
+      "internal_id": "62238520b3c315e4084be41b5b077c7cd990335ee2c4bd8c1fb74aeb434e6e9e",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10411,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "El dengue aumenta en la Comunidad: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
+      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo periodo del a\u00f1o 2023, seg\u00fan los \u00faltimos datos del \u00c1rea de Vigilan\u2026",
+      "url": "https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240623132950_1200.jpg",
+      "publishedAt": "2024-06-23 11:29:50",
+      "content": "MADRID, 23 Jun. (EUROPA PRESS) - Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplic\u2026 [+5875 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.283012",
+      "internal_id": "b56c770f8270b84a00b07c240e8722daf132d7a3d4b10e71900a9cdbb5f56902",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10410,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para p\u00fablico de 4 a 59 anos",
+      "description": "Minist\u00e9rio da Sa\u00fade diz que, preferencialmente, as doses devem ser remanejadas para cidades n\u00e3o contempladas, mas, em caso de necessidade, a faixa et\u00e1ria atendida pode ser ampliada",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/23/110087725-ycmfxt5i7rdo5hsujaog5fblou.png",
+      "publishedAt": "2024-06-23 10:24:33",
+      "content": "O Minist\u00e9rio da Sa\u00fade informou que as doses da vacina da dengue com o prazo pr\u00f3ximo ao vencimento entre junho e julho devem ser remanejadas para cidades ou usadas para ampliar a faixa et\u00e1ria atendida\u2026 [+1596 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.277233",
+      "internal_id": "bc310198810c439c113360287caf4bc652c190f5b4ef0ac3f27ad4221f1dba31",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10413,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Ginny Reese",
+      "title": "Florida dept of health confirms local human case of dengue fever",
+      "description": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever.",
+      "url": "https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever",
+      "urlToImage": "https://img.particlenews.com/img/id/3RZR15_0u0aR5p700?type=thumbnail_1600x1200",
+      "publishedAt": "2024-06-23 10:02:31",
+      "content": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever. DOH-Hillsborough and Hillsborough County Mosquito Control ar\u2026 [+1307 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.311734",
+      "internal_id": "2699b7e0152fddd6e1b132528b2520bd5dc07d5aa79c7c0f2e2d271f9a14fbf3",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10406,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Jesse Hyland",
+      "title": "Bird flu found at second poultry farm in Hawkesbury area \u2014 just kilometres away from site of initial outbreak",
+      "description": "An outbreak of bird flu has been detected on a second farm in Sydney's north-west, with more than 86,000 chickens to be culled.",
+      "url": "https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d5d6a00e59b4a6fcc93dc7a56632bb8b?impolicy=wcms_watermark_news&cropH=913&cropW=1623&xPos=133&yPos=167&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-06-23 07:52:57",
+      "content": "In short: A second farm in the Hawkesbury region has been confirmed to have the HPAI H7N8 strain of avian influenza.The chicken meat farm is within the restricted biosecurity zone se\u2026 [+3610 chars]",
+      "retrievedAt": "2024-06-24 19:05:44.432602",
+      "internal_id": "4e996e79db6da56a5397a593b33cf52eaed5958e91ce81243db7ca33a1bb1518",
+      "publishedAtLabel": "Jun 23"
+    },
     {
       "id": 10400,
       "query": [
@@ -23748,169 +23910,6 @@
       "retrievedAt": "2024-05-14 07:06:39.254296",
       "internal_id": "00046bd772f85527639d1ae5775f0ac5006b23f97d33b3b0c839dde336b25bce",
       "publishedAtLabel": "May 13"
-    },
-    {
-      "id": 9090,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Jungewelt.de",
-      "author": "Gerrit Hoekman",
-      "title": "Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]",
-      "description": "Laut britischen Forschern k\u00f6nnte sich das Verbreitungsgebiet der Krankheit durch Wasserknappheit in Afrika verlagern.",
-      "url": "https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html",
-      "urlToImage": "https://www.jungewelt.de/img/1100/194842.jpg",
-      "publishedAt": "2024-05-12 17:37:53",
-      "content": "Uneingeschr\u00e4nkter Zugriff auf alle Inhalte: Erleben Sie die Tageszeitung junge Welt in gedruckter oder digitaler Form oder beides kombiniert. Nachrichtenauswahl und -aufbereitung erfordern finanziel\u2026 [+458 chars]",
-      "retrievedAt": "2024-05-13 19:05:19.009623",
-      "internal_id": "9b89f04b0191c98b004061d5552b21c33276071be45d33faaa916e9e2d7c562b",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9087,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Ag\u00eancia Fapesp",
-      "title": "Monitoramento mostra que \u00e9 poss\u00edvel prever epidemias de chikungunya por meio de vigil\u00e2ncia",
-      "description": "Estudo realizado em S\u00e3o Jos\u00e9 do Rio Preto descobriu que o v\u00edrus conhecido por provocar epidemias massivas tamb\u00e9m pode circular silenciosamente por uma comunidade, provocando poucas infec\u00e7\u00f5es durante anos. Novo perfil do chikungunya refor\u00e7a a import\u00e2ncia de fa\u2026",
-      "url": "https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/05/chikungunya-fapesp.jpg",
-      "publishedAt": "2024-05-12 15:07:47",
-      "content": "Texto: Maria Fernanda Ziegler | Ag\u00eancia FAPESP Conhecido por provocar epidemias massivas at\u00e9 mais impactantes que as de dengue , o v\u00edrus do chikungunya pode tamb\u00e9m apresentar um perfil menos intenso\u2026 [+4913 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.940074",
-      "internal_id": "f88230cf667e1df9939474f657a44e390412cd9c9e5b8f552c90558f548fbede",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9084,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Kevinmd.com",
-      "author": "Dr. Roxanne Becker",
-      "title": "Eating our way to the next pandemic",
-      "description": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic could be around the corner, and the food we choose to purchase \u2026",
-      "url": "https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html",
-      "urlToImage": "https://www.kevinmd.com/wp-content/uploads/shutterstock_2169452695.jpg",
-      "publishedAt": "2024-05-12 15:00:45",
-      "content": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic cou\u2026 [+5251 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.348008",
-      "internal_id": "02a1befaf085db5997a8e6a23b16dfc87efdab2ac46bbc11db65fca5749c2c10",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9083,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Futura",
-      "author": "Diana Bell, Professeur de biologie de la conservation, University of East Anglia \u2013 The Conversation",
-      "title": "Les animaux vivent d\u00e9j\u00e0 la prochaine pand\u00e9mie",
-      "description": "Ces derni\u00e8res ann\u00e9es, la grippe aviaire H5N1 a provoqu\u00e9 la mort de millions de volailles et d'oiseaux mais aussi de nombreux mammif\u00e8res. Ce virus qui semble s'affranchir de toutes les barri\u00e8res deviendra-t-il une menace pand\u00e9mique pour la biodiversit\u00e9 dans so\u2026",
-      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/",
-      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/f/7/cf74a6d59a_50215931_mouette-tridactyle.jpg",
-      "publishedAt": "2024-05-12 12:54:56",
-      "content": "Quelle sera la prochaine pand\u00e9mie ? Je suis une biologiste de la conservation et j'\u00e9tudie les maladies infectieuses \u00e9mergentes. Quand on me demande quelle sera la prochaine pand\u00e9mie, je r\u00e9ponds souve\u2026 [+7162 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.339476",
-      "internal_id": "a84ea503fedd7f1ac3b05f99f4c90265ee8a11e65f8c256aff70e956131ed8b4",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9089,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Zhaki Abdullah",
-      "title": "High worldwide dengue numbers may not impact Singapore: Experts",
-      "description": "Low visitor traffic from South America and diversity of strains in Singapore are among factors cited. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts",
-      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/05/12/2024022590212087gin8446.jpg?VersionId=vvNZ9EWHqfSrd4iFniVTnjtTGI9KcvCY",
-      "publishedAt": "2024-05-12 12:44:29",
-      "content": "SINGAPORE Even as dengue numbers soar worldwide, experts say it remains to be seen how the record figures elsewhere will impact the number of infections in Singapore. To date, there have been more \u2026 [+2599 chars]",
-      "retrievedAt": "2024-05-13 19:05:18.003818",
-      "internal_id": "727876864f7933c46fcd96e0bc2e83db0b17f44df127f56e13aa909da894ab26",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9088,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension",
-      "description": "The authorities first got suspicious last November when health officials were denied entry to her home for dengue-prevention measures.",
-      "url": "https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391",
-      "urlToImage": "https://c.ndtvimg.com/2023-04/bvih5i2g_crime-scene_625x300_03_April_23.jpg",
-      "publishedAt": "2024-05-12 11:19:06",
-      "content": "Upon investigation, police found that the man had been dead for a long time. A woman in Taiwan has been accused of hiding her dead father's body in her home for years to claim his military pension. \u2026 [+2159 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.955426",
-      "internal_id": "5248731708cdfd7954e9181bfde30335b8537f7c3ec9a9248bfc362b58fc6e45",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9085,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Adevarul.ro",
-      "author": "Afrodita Cicovschi",
-      "title": "Gripa aviar\u0103 la fermele de vaci. Cum \u00eencearc\u0103 SUA s\u0103 limiteze r\u0103sp\u00e2ndirea virusului",
-      "description": "Administra\u021bia Biden \u00eencearc\u0103 din r\u0103sputeri s\u0103 limiteze r\u0103sp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijor\u0103rile legate de infec\u021biile umane cu virusul H5N1, scrie Reuters.",
-      "url": "https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html",
-      "urlToImage": "https://cdn.adh.reperio.news/image-c/ca1a7021-d283-4761-bda8-95aff2d28406/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-      "publishedAt": "2024-05-12 10:55:08",
-      "content": "Administraia Biden \u00eencearc din rsputeri s limiteze rsp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijorrile legate de infeciile umane cu virusul H5N1, scrie Reuters. Administraia \u2026 [+2783 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.361888",
-      "internal_id": "cb6c5efd69cd8e0d5f36f551f55c7ae3eac7e45080a542c7cbb079419e3f5ab2",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9086,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Almayadeen.net",
-      "author": "\u0627\u0644\u0645\u064a\u0627\u062f\u064a\u0646 \u0646\u062a",
-      "title": "\u0627\u0644\u0623\u0628\u0642\u0627\u0631 \u0642\u062f \u062a\u0646\u0642\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0627\u0644\u0628\u0634\u0631.. \u0643\u064a\u0641\u061f",
-      "description": "\u062f\u0631\u0627\u0633\u0629 \u062c\u062f\u064a\u062f\u0629 \u0644\u0639\u0644\u0645\u0627\u0621 \u0641\u064a \u0627\u0644\u0635\u062d\u0629 \u062a\u0638\u0647\u0631 \u0623\u0646\u0651 \u0623\u0643\u064a\u0627\u0633 \u0636\u0631\u0639 \u0627\u0644\u0628\u0642\u0631 \u0627\u0644\u062b\u062f\u064a\u064a\u0629 \u0642\u062f \u062a\u0635\u0628\u062d \"\u0623\u0648\u0639\u064a\u0629 \u062e\u0644\u0637\" \u0645\u062d\u0645\u0651\u0644\u0629 \u0628\u0645\u0633\u062a\u0642\u0628\u0644\u0627\u062a \u0627\u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0627\u0644\u0637\u064a\u0648\u0631 \u0648\u062a\u0633\u0627\u0639\u062f \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u0639\u0644\u0649 \u0627\u0644\u0627\u0646\u062a\u0634\u0627\u0631 \u0628\u064a\u0646 \u0627\u0644\u0628\u0634\u0631 \u0645\u062b\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 (H5N1).. \u0648\u0627\u0644\u062c\u062f\u0644 \u064a\u062a\u0648\u0627\u0635\u0644 \u062d\u0648\u0644 \u0635\u062d\u0629 \u0627\u0644\u0623\u0644\u0628\u0627\u0646!",
-      "url": "https://www.almayadeen.net/health/\u0627\u0644\u0623\u0628\u0642\u0627\u0631-\u0642\u062f-\u062a\u0646\u0642\u0644-\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627-\u0627\u0644\u0637\u064a\u0648\u0631-\u0625\u0644\u0649-\u0627\u0644\u0628\u0634\u0631---\u0643\u064a\u0641",
-      "urlToImage": "https://alpha-ar-media.almayadeen.net/media/image/2024/5/12/d06f4808-ce20-4113-a8ab-c110693c3f94.png?v=2&width=1000",
-      "publishedAt": "2024-05-12 08:54:54",
-      "content": "\" \" (H5N1) \"\" \" \" \"BioRxiv\" \"WEb Med\". . (H5N1). . . Many people are wondering how we can monitor this H5N1 situation. We sequence the whole virome from wastewater, and, well, H5N1 starte\u2026 [+574 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.408221",
-      "internal_id": "0bfb1e1b5f252d6082d222066eba0fbfd5c00f340cce4de7fb8d558713f0feb9",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9082,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Dogs entering US must be 6 months old, microchipped to prevent rabies spread",
-      "description": "New York \u2014 All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new rules require vaccination for dogs that have be\u2026",
-      "url": "https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html",
-      "urlToImage": "https://gdb.voanews.com/6633B470-639B-4589-882A-3066C2D759A1.jpg",
-      "publishedAt": "2024-05-12 07:07:40",
-      "content": "New York All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday\u2026 [+3079 chars]",
-      "retrievedAt": "2024-05-13 19:05:15.872833",
-      "internal_id": "d8312d1a3a146431fe86ca9d38efa3dc47fa299be6919e26fd1c609f7279b62c",
-      "publishedAtLabel": "May 12"
     }
   ]
 }
