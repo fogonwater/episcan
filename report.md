@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-06-25 07:05
-- **Most recent article:** 2024-06-24 06:58:54
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-06-25 19:06
+- **Most recent article:** 2024-06-24 18:06:01
 
 ---
 
@@ -12,49 +12,93 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 87 | 58 | 61 | 64 | 115 | 62 | 18 | 465 |
-| h5n1 | 60 | 95 | 65 | 78 | 55 | 29 | 2 | 384 |
-| malaria | 13 | 17 | 25 | 21 | 37 | 20 | 1 | 134 |
+| dengue | 84 | 58 | 61 | 64 | 115 | 62 | 24 | 468 |
+| h5n1 | 56 | 95 | 65 | 78 | 55 | 29 | 6 | 384 |
+| malaria | 12 | 17 | 25 | 21 | 37 | 20 | 4 | 136 |
 | measles | 29 | 15 | 16 | 11 | 7 | 11 | 0 | 89 |
-| mpox | 10 | 9 | 16 | 8 | 26 | 14 | 1 | 84 |
-| chikungunya | 12 | 3 | 18 | 5 | 14 | 5 | 2 | 59 |
-| rabies | 10 | 8 | 15 | 9 | 2 | 5 | 1 | 50 |
+| mpox | 10 | 9 | 16 | 8 | 26 | 14 | 2 | 85 |
+| chikungunya | 11 | 3 | 18 | 5 | 14 | 5 | 3 | 59 |
+| rabies | 9 | 8 | 15 | 9 | 2 | 5 | 3 | 51 |
 | pertussis | 5 | 6 | 6 | 9 | 11 | 11 | 0 | 48 |
-| hpai | 3 | 7 | 12 | 2 | 4 | 4 | 1 | 33 |
-| zika | 6 | 3 | 3 | 0 | 12 | 3 | 0 | 27 |
+| hpai | 3 | 7 | 12 | 2 | 4 | 4 | 2 | 34 |
+| zika | 6 | 3 | 3 | 0 | 12 | 3 | 2 | 29 |
 | meningitis | 9 | 4 | 1 | 6 | 3 | 1 | 0 | 24 |
 | leptospirosis | 3 | 0 | 5 | 1 | 1 | 1 | 0 | 11 |
+| typhoid | 2 | 0 | 0 | 1 | 1 | 2 | 1 | 7 |
 | yersinia | 0 | 6 | 0 | 1 | 0 | 0 | 0 | 7 |
-| typhoid | 2 | 0 | 0 | 1 | 1 | 2 | 0 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-26 (zika)
+
+- [Tropenkrankheit nachgewiesen - Erster Europäer an Oropouche-Fieber erkrankt](https://www.bild.de/leben-wissen/medizin/tropenkrankheit-erster-europaeer-an-oropouche-fieber-erkrankt-6679552ab04bfa582b0fd839) (Bild)
+
+- [Como desnutrição, toxinas na água e agrotóxicos criaram 'bolsões de microcefalia' no Brasil](https://www.bbc.com/portuguese/articles/cx88j1w70e0o) (BBC News)
+
+## 24-26 (typhoid)
+
+- [Spatial and temporal clustering of typhoid fever in an urban slum of Dhaka City: Implications for targeted typhoid vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012273) (Plos.org)
+
 ## 24-26 (rabies)
+
+- [Louis Pasteur: Man of science who tamed rabies](https://www.theblaze.com/align/louis-pasteur-man-of-science-who-tamed-rabies) (TheBlaze)
+
+- [A pit bull attack injured her dog. Then this Muskego woman began a search for information.](https://www.jsonline.com/story/communities/west/2024/06/24/pit-bull-attack-injures-muskego-womans-dog-in-greenfield-park/73976387007/) (Milwaukee Journal Sentinel)
 
 - [AstriVax enters clinical phase with its novel vaccine platform technology](https://www.globenewswire.com/news-release/2024/06/24/2902721/0/en/AstriVax-enters-clinical-phase-with-its-novel-vaccine-platform-technology.html) (GlobeNewswire)
 
 ## 24-26 (mpox)
 
+- [Challenges in clinical diagnosis of Clade I Mpox: Highlighting the need for enhanced diagnostic approaches](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012087) (Plos.org)
+
 - [News24 | Mpox outbreak: Medication arrives, but lack of formal registration could be a stumbling block](https://www.news24.com/news24/southafrica/news/mpox-outbreak-medication-arrives-but-lack-of-formal-registration-could-be-a-stumbling-block-20240624) (News24)
 
 ## 24-26 (malaria)
+
+- [Rebel Wilson Reveals She Once Had Malaria After Waking Up with '100 Mosquito Bites on My Face'](https://www.justjared.com/2024/06/24/rebel-wilson-reveals-she-once-had-malaria-after-waking-up-with-100-mosquito-bites-on-my-face/) (Just Jared)
+
+- [Kenya secures 461 mln USD to combat HIV, tuberculosis, malaria](https://www.thestar.com.my/news/world/2024/06/25/kenya-secures-461-mln-usd-to-combat-hiv-tuberculosis-malaria) (The Star Online)
+
+- [Kenya Receives Ksh 59.7 Billion Health Grant For Malaria, HIV &TB Treatment](https://www.kenyans.co.ke/news/101966-kenya-receives-ksh-597-billion-health-grant-malaria-hiv-tb-treatment) (Kenyans.co.ke)
 
 - [Nigeria Denies Claims Of Poor Quality Healthcare For Binance Executive Gambaryan](https://www.ibtimes.com/nigeria-denies-claims-poor-quality-healthcare-binance-executive-gambaryan-3735015) (International Business Times)
 
 ## 24-26 (hpai)
 
+- [Research: Avian influenza (bird flu) in Australia](https://www.gov.uk/government/publications/avian-influenza-bird-flu-in-australia) (Www.gov.uk)
+
 - [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
 
 ## 24-26 (h5n1)
+
+- [‘A head-in-the-sand approach’: The U.S. strategic drug stockpile is inadequate for a bird flu outbreak](https://fortune.com/2024/06/24/us-strategic-drug-stockpile-inadequate-bird-flu-outbreak/) (Fortune)
+
+- [Influenza aviaria da virus A(H5N1): perché non dobbiamo sottovalutarla](https://www.galileonet.it/influenza-aviaria-ah5n1-non-dobbiamo-sottovalutarla/) (Galileonet.it)
+
+- [Influenza aviaria, aumento delle infezioni nei felini. “I gatti potenziale via di diffusione all’uomo”](https://www.ilfattoquotidiano.it/2024/06/24/influenza-aviaria-aumento-delle-infezioni-nei-felini-i-gatti-potenziale-via-di-diffusione-alluomo/7598750/) (Ilfattoquotidiano.it)
+
+- [Bird flu snapshot: USDA secretary urges farmers to take protective measures](https://www.statnews.com/2024/06/24/bird-flu-snapshot-usda-secretary/) (STAT)
 
 - [Persistence of Influenza H5N1 and H1N1 Viruses in Unpasteurized Milk on Milking Unit Surfaces](https://wwwnc.cdc.gov/eid/article/30/8/24-0775_article) (Cdc.gov)
 
 - [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
+
+- [Dengue: Campinas imuniza 15,5% do público-alvo, e doses seguem disponíveis nos centros de saúde](https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/24/dengue-campinas-imuniza-155percent-do-publico-alvo-e-doses-seguem-disponiveis-nos-centros-de-saude.ghtml) (Globo)
+
+- [Dengue surge in Nashik: 37 new cases reported in just eight days](https://timesofindia.indiatimes.com/city/nashik/dengue-surge-in-nashik-37-new-cases-reported-in-just-eight-days/articleshow/111239041.cms) (The Times of India)
+
+- [Keine Impfung verfügbar: Tropenvirus Oropouche in Europa angekommen – wie gefährlich ist es?](https://www.stern.de/gesundheit/oropouche-fieber-in-italien-entdeckt---was-ist-das-fuer-ein-tropenvirus--34823574.html) (STERN.de)
+
+- [Tropenkrankheit nachgewiesen - Erster Europäer an Oropouche-Fieber erkrankt](https://www.bild.de/leben-wissen/medizin/tropenkrankheit-erster-europaeer-an-oropouche-fieber-erkrankt-6679552ab04bfa582b0fd839) (Bild)
+
+- [Repelente infantil: quais os tipos e como escolher?](https://bebe.abril.com.br/saude/repelente-infantil-quais-os-tipos-e-como-escolher/) (Abril.com.br)
+
+- [Vacina da dengue é oferecida para pessoas entre 4 e 59 anos, mas há condições](https://www.tudocelular.com/mercado/noticias/n222813/vacina-dengue-ampliacao-publico.html) (Tudocelular.com)
 
 - [Tropiska myggsmittor kan nå Sverige](https://www.expressen.se/nyheter/sverige/tropiska-myggsmittor-kan-na-sverige/) (Expressen.se)
 
@@ -93,6 +137,8 @@ Source: [News API](https://newsapi.org/)
 - [Ministério da Saúde amplia faixa etária para vacina da dengue em doses prestes a vencer; veja regras](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-amplia-faixa-etaria-para-vacina-da-dengue-em-doses-prestes-a-vencer-veja-regras,d8a927124262198f72703decbd358b98mgwk9ov5.html) (Terra.com.br)
 
 ## 24-26 (chikungunya)
+
+- [Tropenkrankheit nachgewiesen - Erster Europäer an Oropouche-Fieber erkrankt](https://www.bild.de/leben-wissen/medizin/tropenkrankheit-erster-europaeer-an-oropouche-fieber-erkrankt-6679552ab04bfa582b0fd839) (Bild)
 
 - [Valneva Announces Health Canada Approval of the World’s First Chikungunya Vaccine, IXCHIQ®](https://www.globenewswire.com/news-release/2024/06/24/2902724/0/en/Valneva-Announces-Health-Canada-Approval-of-the-World-s-First-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
 
@@ -2556,8 +2602,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies alert: BSF Meghalaya steps up prevention efforts in Muktapur](https://www.syllad.com/rabies-alert-bsf-meghalaya-steps-up-prevention-efforts-in-muktapur/) (Syllad.com)
 
-- [Dogs entering US must be 6 months old, microchipped to prevent rabies spread](https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html) (VOA News)
-
 ## 24-20 (pertussis)
 
 - [Health Department confirms 6 whooping cough cases in Lexington: What to look out for?](https://www.wkyt.com/2024/05/17/health-department-confirms-6-whooping-cough-cases-lexington-what-look-out/) (WKYT)
@@ -2698,8 +2742,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Distribution and dynamics of Anopheles gambiae s.l. larval habitats in three Senegalese cities with high urban malaria incidence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303473) (Plos.org)
 
-- [Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]](https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html) (Jungewelt.de)
-
 ## 24-20 (leptospirosis)
 
 - [Factors associated with differential seropositivity to Leptospira interrogans and Leptospira kirschneri in a high transmission urban setting for leptospirosis in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011292) (Plos.org)
@@ -2829,14 +2871,6 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, il virus rilevato nelle acque reflue in nove città del Texas. Attesa per il monitoraggio dei Cdc Usa](https://www.ilfattoquotidiano.it/2024/05/13/aviaria-il-virus-rilevato-nelle-acque-reflue-in-nove-citta-del-texas-attesa-per-il-monitoraggio-dei-cdc-usa/7546403/) (Ilfattoquotidiano.it)
 
 - [CDC wastewater surveillance dashboard to track bird flu hotspots](https://www.statnews.com/2024/05/13/cdc-wastewater-surveillance-dashboard-bird-flu-outbreak-monitor/) (STAT)
-
-- [Eating our way to the next pandemic](https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html) (Kevinmd.com)
-
-- [Les animaux vivent déjà la prochaine pandémie](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/) (Futura)
-
-- [Gripa aviară la fermele de vaci. Cum încearcă SUA să limiteze răspândirea virusului](https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html) (Adevarul.ro)
-
-- [الأبقار قد تنقل إنفلونزا الطيور إلى البشر.. كيف؟](https://www.almayadeen.net/health/الأبقار-قد-تنقل-إنفلونزا-الطيور-إلى-البشر---كيف) (Almayadeen.net)
 
 ## 24-20 (dengue)
 
@@ -3008,12 +3042,6 @@ Source: [News API](https://newsapi.org/)
 
 - [What should I look out for when choosing a mosquito repellent?](https://www.straitstimes.com/singapore/health/what-should-i-look-out-for-when-choosing-a-mosquito-repellent) (The Straits Times)
 
-- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)
-
-- [High worldwide dengue numbers may not impact Singapore: Experts](https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts) (The Straits Times)
-
-- [Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension](https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391) (NDTV News)
-
 ## 24-20 (chikungunya)
 
 - [Gov't issues alert to schools on possible health risks due to flooding](https://www.citizen.digital/news/govt-issues-alert-to-schools-on-possible-health-risks-due-to-flooding-n342359) (Citizen.digital)
@@ -3037,5 +3065,3 @@ Source: [News API](https://newsapi.org/)
 - [Valneva Reports Further Positive Pivotal Phase 3 Data in Adolescents for its Single-Shot Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/en/Valneva-Reports-Further-Positive-Pivotal-Phase-3-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-Vaccine.html) (GlobeNewswire)
 
 - [Valneva annonce de nouveaux résultats positifs chez les adolescents pour l’étude pivot de Phase 3 de son vaccin à dose unique contre le chikungunya](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/fr/Valneva-annonce-de-nouveaux-r%C3%A9sultats-positifs-chez-les-adolescents-pour-l-%C3%A9tude-pivot-de-Phase-3-de-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya.html) (GlobeNewswire)
-
-- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)

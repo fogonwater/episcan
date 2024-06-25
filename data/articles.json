@@ -1,8 +1,352 @@
 {
-  "last_updated": "2024-06-25 07:05",
-  "count_articles_total": 1344,
-  "count_articles_new": 11,
+  "last_updated": "2024-06-25 19:06",
+  "count_articles_total": 1354,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 10438,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: Campinas imuniza 15,5% do p\u00fablico-alvo, e doses seguem dispon\u00edveis nos centros de sa\u00fade",
+      "description": "Imunizante \u00e9 aplicado para crian\u00e7as e adolescentes entre 10 e 14 anos. Das 18 mil recebidas, 14,2 mil foram aplicadas desde 11 de abril. Vacina contra a dengue est\u00e1 dispon\u00edvel para crian\u00e7as e adolescentes entre 10 e 14 anos em Campinas (SP) Fernanda Sunega A \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/24/dengue-campinas-imuniza-155percent-do-publico-alvo-e-doses-seguem-disponiveis-nos-centros-de-saude.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/SP4vIC7jVk65eHWRBN0Aa1TwVgE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/s/A/ZYM5TTRkGvu7P0Vf4uEw/whatsapp-image-2024-04-15-at-16.24.28.jpeg",
+      "publishedAt": "2024-06-24 18:06:01",
+      "content": "Campinas recebeu 18.063 doses do imunizante e realiza a aplica\u00e7\u00e3o desde 11 de abril, ofertando a vacina nos 68 centros de sa\u00fade, sem necessidade de agendamento - uma plataforma online permite a busca\u2026 [+3740 chars]",
+      "retrievedAt": "2024-06-25 19:06:09.535704",
+      "internal_id": "da7d0c2aba7f095122856bf67713ab4159dc25320b1098514cb62430eab36290",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10437,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Tushar Pawar",
+      "title": "Dengue surge in Nashik: 37 new cases reported in just eight days",
+      "description": "NASHIK: The number of dengue cases in Nashik city has increased significantly with 37 new cases reported in the last eight days.",
+      "url": "https://timesofindia.indiatimes.com/city/nashik/dengue-surge-in-nashik-37-new-cases-reported-in-just-eight-days/articleshow/111239041.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111239027,width-1070,height-580,imgsize-410043,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-24 17:58:32",
+      "content": "Best saree looks of Sneha",
+      "retrievedAt": "2024-06-25 19:06:09.485178",
+      "internal_id": "93a02fc971ed9d443edd1cbbe716cc1d291eae83dfdd46170b5cce86aef8a07e",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10439,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Just Jared",
+      "author": "Just Jared",
+      "title": "Rebel Wilson Reveals She Once Had Malaria After Waking Up with '100 Mosquito Bites on My Face'",
+      "description": "Rebel Wilson is opening up about one of the serious downfalls about growing up in Australia. In a new interview, the 44-year-old Pitch Perfect actress revealed that she has a major phobia of bugs, which all stems from when she contracted malaria as a teenager\u2026",
+      "url": "https://www.justjared.com/2024/06/24/rebel-wilson-reveals-she-once-had-malaria-after-waking-up-with-100-mosquito-bites-on-my-face/",
+      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/06/rebel-malaria.jpg",
+      "publishedAt": "2024-06-24 17:50:29",
+      "content": "Rebel Wilson is opening up about one of the serious downfalls about growing up in Australia. In a new interview, the 44-year-old Pitch Perfect actress revealed that she has a major phobia of bugs, w\u2026 [+1319 chars]",
+      "retrievedAt": "2024-06-25 19:06:10.597180",
+      "internal_id": "888f9b548aacc26dde92ca738d335a9c433dc551a929c044a6edb282ca290756",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10430,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Carolyn Barber",
+      "title": "\u2018A head-in-the-sand approach\u2019: The U.S. strategic drug stockpile is inadequate for a bird flu outbreak",
+      "description": "The U.S. stock is inadequate for a H5N1 pandemic. It\u2019s time to ramp up solutions.",
+      "url": "https://fortune.com/2024/06/24/us-strategic-drug-stockpile-inadequate-bird-flu-outbreak/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-2153314975-e1719249552373.jpg?resize=1200,600",
+      "publishedAt": "2024-06-24 17:25:43",
+      "content": "The latest iteration of bird flu is concerning enough in its own right. It has already demonstrated a tremendous ability to jump species, and its spread to farm livestock has raised alarms among rese\u2026 [+9809 chars]",
+      "retrievedAt": "2024-06-25 19:06:09.099147",
+      "internal_id": "f42f35df969782025e121f58263139c2afe7770cdf4fa64537868ae7e6d74037",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10440,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Bedah Mengo, Li Zhuoqun",
+      "title": "Kenya secures 461 mln USD to combat HIV, tuberculosis, malaria",
+      "description": "NAIROBI, June 24 (Xinhua) -- Kenya on Monday announced that it has signed six grants totaling 59.7 billion shillings (about 462 million U.S. dollars) to support programs targeting HIV, tuberculosis and malaria. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/06/25/kenya-secures-461-mln-usd-to-combat-hiv-tuberculosis-malaria",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-06-24 16:44:00",
+      "content": "NAIROBI, June 24 (Xinhua) -- Kenya on Monday announced that it has signed six grants totaling 59.7 billion shillings (about 462 million U.S. dollars) to support programs targeting HIV, tuberculosis a\u2026 [+1867 chars]",
+      "retrievedAt": "2024-06-25 19:06:10.613916",
+      "internal_id": "d84afa13debf839f79e51275bf61fd9d643900e78f891572c72fe8371e8c7c9b",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10441,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Kenyans.co.ke",
+      "author": "Hellen Njoroge",
+      "title": "Kenya Receives Ksh 59.7 Billion Health Grant For Malaria, HIV &TB Treatment",
+      "description": "The Funds are expected to aid vulnerable communities in SHIF premiums among other programs.",
+      "url": "https://www.kenyans.co.ke/news/101966-kenya-receives-ksh-597-billion-health-grant-malaria-hiv-tb-treatment",
+      "urlToImage": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/ruto%20and%20nakhumicha.jpg?itok=5umviVm1",
+      "publishedAt": "2024-06-24 16:28:01",
+      "content": "On Monday, Kenya received a Ksh59.7 Billion (USD 407,989,068) grant from the Global Fund to combat HIV/AIDS, Tuberculosis and Malaria treatment. According to a statement issued by the Ministry of He\u2026 [+1922 chars]",
+      "retrievedAt": "2024-06-25 19:06:10.624015",
+      "internal_id": "1c59c42e1788b85763670c579aafa931e480074af1ea1dee54d63105a5663c91",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10436,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Tina Pokern",
+      "title": "Keine Impfung verf\u00fcgbar: Tropenvirus Oropouche in Europa angekommen \u2013 wie gef\u00e4hrlich ist es?",
+      "description": "Italien hat einen ersten Erkrankungsfall mit dem Tropenvirus gemeldet. Das Robert-Koch-Institut warnt schon lange. Bisher k\u00f6nnen nur die Symptome gelindert werden.",
+      "url": "https://www.stern.de/gesundheit/oropouche-fieber-in-italien-entdeckt---was-ist-das-fuer-ein-tropenvirus--34823574.html",
+      "urlToImage": "https://image.stern.de/34823912/t/_p/v4/w1440/r1.7778/-/tropenvirus--erster-fall-von-oropouche-fieber.jpg",
+      "publishedAt": "2024-06-24 16:05:00",
+      "content": "Tropenkrankheiten sind in Europa auf dem Vormarsch. Nachdem sich zuletzt vor allem das Dengue-Fieber ausgebreitet hatte, ist nun von einem neuen Tropenvirus die Rede dem Oropouche-Virus, das vornehml\u2026 [+3697 chars]",
+      "retrievedAt": "2024-06-25 19:06:09.473124",
+      "internal_id": "e61f82d68d7bc705597dd50508ba9e847fe4ec4be26ddf7d6358d45075e8e4bc",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10428,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Department for Environment, Food & Rural Affairs",
+      "title": "Research: Avian influenza (bird flu) in Australia",
+      "description": "Preliminary outbreak assessment for highly pathogenic avian influenza (HPAI) in poultry in Australia.",
+      "url": "https://www.gov.uk/government/publications/avian-influenza-bird-flu-in-australia",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-06-24 15:50:56",
+      "content": "Preliminary outbreak assessment for HPAI (H7N3 and H7N9) in poultry in Australia. We monitor any major, notifiable or new and emerging animal disease outbreaks worldwide. When we become aware of a \u2026 [+268 chars]",
+      "retrievedAt": "2024-06-25 19:06:08.748083",
+      "internal_id": "605f3d9430a7b5e0d5251e4d5c9b41649b3f769f449cce7b7b64879bc44ae545",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10443,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Josephine Bourner, Esteban Garcia-Gallo, Festus Mbrenga, Yap Boum II, Emmanuel Nakoun\u00e9, Amy Paterson, Benjamin Jones, Piero Olliaro, Amanda Rojek",
+      "title": "Challenges in clinical diagnosis of Clade I Mpox: Highlighting the need for enhanced diagnostic approaches",
+      "description": "Author summary Mpox is a zoonotic illness caused by the monkeypox virus (MPXV), for which there are two distinct sub-clades. Clade I is typically found in central Africa and is associated with worse patient outcomes than Clade II. Diagnosis of mpox is most co\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012087",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012087.g005&size=inline",
+      "publishedAt": "2024-06-24 14:00:00",
+      "content": "Abstract Background Due to limited diagnostic capacity and availability of point-of-care tests, diagnosis of Clade I mpox in the geographical regions most affected is usually on clinical grounds. T\u2026 [+23642 chars]",
+      "retrievedAt": "2024-06-25 19:06:11.396079",
+      "internal_id": "6c59623b2a09d1ba6065a06dda065e512ff0932f7e180fcd89c83d9c29dd6a28",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10444,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Faisal Ahmmed, Farhana Khanam, Md Taufiqul Islam, Deok Ryun Kim, Sophie Kang, Md Golam Firoj, Asma Binte Aziz, Masuma Hoque, Xinxue Liu, Hyon Jin Jeon, Suman Kanungo, Fahima Chowdhury, Ashraful Islam Khan, Khalequ Zaman, Florian Marks, Jerome H. Kim, Firdausi Qadri, John D. Clemens, Birkneh Tilahun Tadesse, Justin Im",
+      "title": "Spatial and temporal clustering of typhoid fever in an urban slum of Dhaka City: Implications for targeted typhoid vaccination",
+      "description": "Author summary New generation typhoid conjugate vaccines have been introduced in mass national campaigns and routine immunization programs in several typhoid-endemic countries. We evaluated evidence for spatial and temporal clustering of typhoid fever in an u\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012273",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012273.g002&size=inline",
+      "publishedAt": "2024-06-24 14:00:00",
+      "content": "Abstract Background Salmonella enterica serotype Typhi (Salmonella Typhi) causes severe and occasionally life-threatening disease, transmitted through contaminated food and water. Humans are the on\u2026 [+29419 chars]",
+      "retrievedAt": "2024-06-25 19:06:11.612838",
+      "internal_id": "4f3e3545313b04a7791baca0b890f84d33fe7735126c356d18b7320e8e851f54",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10434,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "BILD",
+      "title": "Tropenkrankheit nachgewiesen - Erster Europ\u00e4er an Oropouche-Fieber erkrankt",
+      "description": "Das Virus grassiert vor allem in S\u00fcdamerika. Nach der Diagnose bei einem Italiener wird jetzt untersucht, ob es sich auch bei uns verbreiten k\u00f6nnte.",
+      "url": "https://www.bild.de/leben-wissen/medizin/tropenkrankheit-erster-europaeer-an-oropouche-fieber-erkrankt-6679552ab04bfa582b0fd839",
+      "urlToImage": "https://images.bild.de/6679552ab04bfa582b0fd839/6dbe935259b56da160bce789cea1ea5b,1e785737?w=1280",
+      "publishedAt": "2024-06-24 13:10:20",
+      "content": "Dengue, Chikungunya, Zika tropische Viruserkrankungen sind gef\u00fcrchtet. Jetzt wurde zum ersten Mal in Europa bei einem Menschen das Oropouche-Fieber nachgewiesen. Das Virus (OROV) ist urspr\u00fcnglich im\u2026 [+1682 chars]",
+      "retrievedAt": "2024-06-25 19:06:09.460063",
+      "internal_id": "e9ac712fa9cd7d8e0940d0427d14e7ec165cdbe3132a7dacac701055b37f631f",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10431,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Galileonet.it",
+      "author": "Cristina Casalone e Giovanni Di Guardo",
+      "title": "Influenza aviaria da virus A(H5N1): perch\u00e9 non dobbiamo sottovalutarla",
+      "description": "Il rischio per la popolazione europea \u00e8 considerato basso, ma potrebbe essere pi\u00f9 elevato per chi \u00e8 esposto professionalmente al virus. Rimane quindi cruciale diagnosticare tempestivamente tutti i casi sospetti L'articolo Influenza aviaria da virus A(H5N1): p\u2026",
+      "url": "https://www.galileonet.it/influenza-aviaria-ah5n1-non-dobbiamo-sottovalutarla/",
+      "urlToImage": "https://www.galileonet.it/wp-content/uploads/2024/06/image-from-rawpixel-id-3372707-jpeg-2048x1363-1.jpg",
+      "publishedAt": "2024-06-24 12:56:11",
+      "content": "Il virus dell\u2019influenza aviaria ad alta patogenicit\u00e0 (highly pathogenic avian influenza) A(H5N1) sta suscitando un certo allarme per diverse ragioni, fra cui lo spiccato neurotropismo, ossia la tende\u2026 [+7130 chars]",
+      "retrievedAt": "2024-06-25 19:06:09.103739",
+      "internal_id": "212cfad6b383298d37690695285c76d9b3eaba41295f3b3f032fede681ebc243",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10429,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Influenza aviaria, aumento delle infezioni nei felini. \u201cI gatti potenziale via di diffusione all\u2019uomo\u201d",
+      "description": "Prima che l\u2019influenza aviaria colpisse allevamenti di bovini da latte negli Usa innescando un\u2019allerta anche nel resto del mondo, il virus H5N1 era stato gi\u00e0 rilevato in alcuni mammiferi compresi i gatti. Kristen K. Coleman e Ian G. Bemis, ricercatori presso l\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/06/24/influenza-aviaria-aumento-delle-infezioni-nei-felini-i-gatti-potenziale-via-di-diffusione-alluomo/7598750/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2020/06/29/gattino1200-1200x630.jpg",
+      "publishedAt": "2024-06-24 12:41:06",
+      "content": "Kiev, 24 giu. (Adnkronos) - Un nuovo pacchetto di sanzioni contro la Russia per la guerra in Ucraina, il 14esimo, \u00e8 stato adottato dal Consiglio Ue nel giorno in cui missili da crociera Kalibr lancia\u2026 [+3348 chars]",
+      "retrievedAt": "2024-06-25 19:06:09.086795",
+      "internal_id": "4eb903a5e2d72430574d87dfcad0cecc2be0fb3c95466e76f3a48e5428856dad",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10427,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "TheBlaze",
+      "author": "Matt Himes",
+      "title": "Louis Pasteur: Man of science who tamed rabies",
+      "description": "A little over three years ago, Anthony Fauci went on MSNBC to address critics of his COVID policies. What made the attacks on him especially \"dangerous,\" the doctor cautioned, was that they were actually \"attacks on science.\"These days, of course, Fauci is ea\u2026",
+      "url": "https://www.theblaze.com/align/louis-pasteur-man-of-science-who-tamed-rabies",
+      "urlToImage": "https://www.theblaze.com/media-library/louis-pasteur-man-of-science-who-tamed-rabies.jpg?id=52484235&width=1200&height=600&coordinates=0%2C0%2C0%2C328",
+      "publishedAt": "2024-06-24 11:00:00",
+      "content": "A little over three years ago, Anthony Fauci went on MSNBC to address critics of his COVID policies. What made the attacks on him especially \"dangerous,\" the doctor cautioned, was that they were actu\u2026 [+3170 chars]",
+      "retrievedAt": "2024-06-25 19:06:08.274107",
+      "internal_id": "f70a3d52df2ddd2288303d5c560253933c23cede52a556ec2bf40790844f5172",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10435,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bebe.com",
+      "title": "Repelente infantil: quais os tipos e como escolher?",
+      "description": "Em spray, adesivo ou pulseirinha, o importante mesmo \u00e9 tomar cuidado com o princ\u00edpio ativo e as idades indicadas no r\u00f3tulo",
+      "url": "https://bebe.abril.com.br/saude/repelente-infantil-quais-os-tipos-e-como-escolher/",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/24/1415077089-crianca-picada-mosquito-cotovelo-freepik-zinkevych.jpeg",
+      "publishedAt": "2024-06-24 10:27:28",
+      "content": "O inc\u00f4modo causado por picadas de mosquitos, \u00e0s vezes acompanhadas de doen\u00e7as como a dengue ou a febre do oropouche, entre outras, deixa os pais em alerta em todo o Brasil. Ap\u00f3s um in\u00edcio de 2024 com\u2026 [+2654 chars]",
+      "retrievedAt": "2024-06-25 19:06:09.468326",
+      "internal_id": "02d757f2c40eb67eb3fdd488479356449ff25194fd9d0e7dfa46768908635900",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10426,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Milwaukee Journal Sentinel",
+      "author": "Jim Riccioli, Milwaukee Journal Sentinel",
+      "title": "A pit bull attack injured her dog. Then this Muskego woman began a search for information.",
+      "description": "First, there was a pit bull attack. Then the Muskego dog owner's son had to begin rabies vaccinations when information on the dog was not forthcoming.",
+      "url": "https://www.jsonline.com/story/communities/west/2024/06/24/pit-bull-attack-injures-muskego-womans-dog-in-greenfield-park/73976387007/",
+      "urlToImage": "https://media.zenfs.com/en/milwaukee-journal-sentinel/16c013d3de2dc462cd91dfcdd7ecf90a",
+      "publishedAt": "2024-06-24 10:02:42",
+      "content": "For Kim Petak, it's hard to separate what was worse: the shock of seeing her dog attacked by a roaming pit bull or the aftermath, with all her frustrations stemming from the lack of critical informat\u2026 [+12208 chars]",
+      "retrievedAt": "2024-06-25 19:06:08.257117",
+      "internal_id": "d1a611827ce80157ec9c8da1d53d82d2bfbc486607235483fa3676aa1f750308",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10432,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Megan Molteni",
+      "title": "Bird flu snapshot: USDA secretary urges farmers to take protective measures",
+      "description": "Read the second in a series of regular updates on H5N1 avian flu that STAT is publishing on Monday mornings.",
+      "url": "https://www.statnews.com/2024/06/24/bird-flu-snapshot-usda-secretary/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/05/GettyImages-1197817881-1024x576.jpg",
+      "publishedAt": "2024-06-24 08:36:31",
+      "content": "Bird flu snapshot: This is the second installment in a series of regular updates on H5N1 avian flu that STAT is publishing on Monday mornings. To read future updates you can also subscribe to STATs M\u2026 [+3587 chars]",
+      "retrievedAt": "2024-06-25 19:06:09.140777",
+      "internal_id": "3063b055403c866a3c3a14ded82037d917e9cf79676038b9365a76c3c2c39472",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10433,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tudocelular.com",
+      "author": "Tudocelular.com",
+      "title": "Vacina da dengue \u00e9 oferecida para pessoas entre 4 e 59 anos, mas h\u00e1 condi\u00e7\u00f5es",
+      "description": "Nota t\u00e9cnica especificamente menciona regi\u00f5es com doses perto do vencimento, e aplica\u00e7\u00e3o fica a crit\u00e9rio das secretarias locais",
+      "url": "https://www.tudocelular.com/mercado/noticias/n222813/vacina-dengue-ampliacao-publico.html",
+      "urlToImage": "https://t2.tudocdn.net/650578?w=1920",
+      "publishedAt": "2024-06-24 08:26:00",
+      "content": "No intuito de evitar o desperd\u00edcio devido \u00e0 baixa penetra\u00e7\u00e3o do imunizante, o Minist\u00e9rio da Sa\u00fade, por meio de nota t\u00e9cnica, autorizou Estados e munic\u00edpios a oferecerem a vacina contra a dengue para \u2026 [+2303 chars]",
+      "retrievedAt": "2024-06-25 19:06:09.444469",
+      "internal_id": "ec52754c11c2d571f8cfaadda1a8b9812920cfd97ee7d405be153820bc421246",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 10442,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "BBC News Brasil",
+      "title": "Como desnutri\u00e7\u00e3o, toxinas na \u00e1gua e agrot\u00f3xicos criaram 'bols\u00f5es de microcefalia' no Brasil",
+      "description": "Pesquisadora dedicou a \u00faltima d\u00e9cada de sua carreira a entender por que algumas regi\u00f5es brasileiras \u2014 como o Nordeste e o Centro-Oeste \u2014 tiveram uma maior frequ\u00eancia de casos de microcefalia em beb\u00eas cujas m\u00e3es foram infectadas pelo v\u00edrus zika durante a gesta\u2026",
+      "url": "https://www.bbc.com/portuguese/articles/cx88j1w70e0o",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/24/530141610-50a40790-2e3b-11ef-b0f5-918c06ebf6d2.jpg",
+      "publishedAt": "2024-06-24 07:50:50",
+      "content": "A biom\u00e9dica Patr\u00edcia Garcez se encaixa na rara categoria de pessoas que estavam no lugar certo, na hora certa. Durante sua forma\u00e7\u00e3o acad\u00eamica, realizada em grande parte na Universidade Federal do Ri\u2026 [+11463 chars]",
+      "retrievedAt": "2024-06-25 19:06:10.900601",
+      "internal_id": "750487b94639fb58b12e0f6de6c4dd48bea7d74d1763262af814f1b3f0a6ab0c",
+      "publishedAtLabel": "Jun 24"
+    },
     {
       "id": 10422,
       "query": [
@@ -24108,169 +24452,6 @@
       "retrievedAt": "2024-05-14 07:06:39.254296",
       "internal_id": "00046bd772f85527639d1ae5775f0ac5006b23f97d33b3b0c839dde336b25bce",
       "publishedAtLabel": "May 13"
-    },
-    {
-      "id": 9090,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Jungewelt.de",
-      "author": "Gerrit Hoekman",
-      "title": "Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]",
-      "description": "Laut britischen Forschern k\u00f6nnte sich das Verbreitungsgebiet der Krankheit durch Wasserknappheit in Afrika verlagern.",
-      "url": "https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html",
-      "urlToImage": "https://www.jungewelt.de/img/1100/194842.jpg",
-      "publishedAt": "2024-05-12 17:37:53",
-      "content": "Uneingeschr\u00e4nkter Zugriff auf alle Inhalte: Erleben Sie die Tageszeitung junge Welt in gedruckter oder digitaler Form oder beides kombiniert. Nachrichtenauswahl und -aufbereitung erfordern finanziel\u2026 [+458 chars]",
-      "retrievedAt": "2024-05-13 19:05:19.009623",
-      "internal_id": "9b89f04b0191c98b004061d5552b21c33276071be45d33faaa916e9e2d7c562b",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9087,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Ag\u00eancia Fapesp",
-      "title": "Monitoramento mostra que \u00e9 poss\u00edvel prever epidemias de chikungunya por meio de vigil\u00e2ncia",
-      "description": "Estudo realizado em S\u00e3o Jos\u00e9 do Rio Preto descobriu que o v\u00edrus conhecido por provocar epidemias massivas tamb\u00e9m pode circular silenciosamente por uma comunidade, provocando poucas infec\u00e7\u00f5es durante anos. Novo perfil do chikungunya refor\u00e7a a import\u00e2ncia de fa\u2026",
-      "url": "https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/05/chikungunya-fapesp.jpg",
-      "publishedAt": "2024-05-12 15:07:47",
-      "content": "Texto: Maria Fernanda Ziegler | Ag\u00eancia FAPESP Conhecido por provocar epidemias massivas at\u00e9 mais impactantes que as de dengue , o v\u00edrus do chikungunya pode tamb\u00e9m apresentar um perfil menos intenso\u2026 [+4913 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.940074",
-      "internal_id": "f88230cf667e1df9939474f657a44e390412cd9c9e5b8f552c90558f548fbede",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9084,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Kevinmd.com",
-      "author": "Dr. Roxanne Becker",
-      "title": "Eating our way to the next pandemic",
-      "description": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic could be around the corner, and the food we choose to purchase \u2026",
-      "url": "https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html",
-      "urlToImage": "https://www.kevinmd.com/wp-content/uploads/shutterstock_2169452695.jpg",
-      "publishedAt": "2024-05-12 15:00:45",
-      "content": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic cou\u2026 [+5251 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.348008",
-      "internal_id": "02a1befaf085db5997a8e6a23b16dfc87efdab2ac46bbc11db65fca5749c2c10",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9083,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Futura",
-      "author": "Diana Bell, Professeur de biologie de la conservation, University of East Anglia \u2013 The Conversation",
-      "title": "Les animaux vivent d\u00e9j\u00e0 la prochaine pand\u00e9mie",
-      "description": "Ces derni\u00e8res ann\u00e9es, la grippe aviaire H5N1 a provoqu\u00e9 la mort de millions de volailles et d'oiseaux mais aussi de nombreux mammif\u00e8res. Ce virus qui semble s'affranchir de toutes les barri\u00e8res deviendra-t-il une menace pand\u00e9mique pour la biodiversit\u00e9 dans so\u2026",
-      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/",
-      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/f/7/cf74a6d59a_50215931_mouette-tridactyle.jpg",
-      "publishedAt": "2024-05-12 12:54:56",
-      "content": "Quelle sera la prochaine pand\u00e9mie ? Je suis une biologiste de la conservation et j'\u00e9tudie les maladies infectieuses \u00e9mergentes. Quand on me demande quelle sera la prochaine pand\u00e9mie, je r\u00e9ponds souve\u2026 [+7162 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.339476",
-      "internal_id": "a84ea503fedd7f1ac3b05f99f4c90265ee8a11e65f8c256aff70e956131ed8b4",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9089,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Zhaki Abdullah",
-      "title": "High worldwide dengue numbers may not impact Singapore: Experts",
-      "description": "Low visitor traffic from South America and diversity of strains in Singapore are among factors cited. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts",
-      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/05/12/2024022590212087gin8446.jpg?VersionId=vvNZ9EWHqfSrd4iFniVTnjtTGI9KcvCY",
-      "publishedAt": "2024-05-12 12:44:29",
-      "content": "SINGAPORE Even as dengue numbers soar worldwide, experts say it remains to be seen how the record figures elsewhere will impact the number of infections in Singapore. To date, there have been more \u2026 [+2599 chars]",
-      "retrievedAt": "2024-05-13 19:05:18.003818",
-      "internal_id": "727876864f7933c46fcd96e0bc2e83db0b17f44df127f56e13aa909da894ab26",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9088,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension",
-      "description": "The authorities first got suspicious last November when health officials were denied entry to her home for dengue-prevention measures.",
-      "url": "https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391",
-      "urlToImage": "https://c.ndtvimg.com/2023-04/bvih5i2g_crime-scene_625x300_03_April_23.jpg",
-      "publishedAt": "2024-05-12 11:19:06",
-      "content": "Upon investigation, police found that the man had been dead for a long time. A woman in Taiwan has been accused of hiding her dead father's body in her home for years to claim his military pension. \u2026 [+2159 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.955426",
-      "internal_id": "5248731708cdfd7954e9181bfde30335b8537f7c3ec9a9248bfc362b58fc6e45",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9085,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Adevarul.ro",
-      "author": "Afrodita Cicovschi",
-      "title": "Gripa aviar\u0103 la fermele de vaci. Cum \u00eencearc\u0103 SUA s\u0103 limiteze r\u0103sp\u00e2ndirea virusului",
-      "description": "Administra\u021bia Biden \u00eencearc\u0103 din r\u0103sputeri s\u0103 limiteze r\u0103sp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijor\u0103rile legate de infec\u021biile umane cu virusul H5N1, scrie Reuters.",
-      "url": "https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html",
-      "urlToImage": "https://cdn.adh.reperio.news/image-c/ca1a7021-d283-4761-bda8-95aff2d28406/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-      "publishedAt": "2024-05-12 10:55:08",
-      "content": "Administraia Biden \u00eencearc din rsputeri s limiteze rsp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijorrile legate de infeciile umane cu virusul H5N1, scrie Reuters. Administraia \u2026 [+2783 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.361888",
-      "internal_id": "cb6c5efd69cd8e0d5f36f551f55c7ae3eac7e45080a542c7cbb079419e3f5ab2",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9086,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Almayadeen.net",
-      "author": "\u0627\u0644\u0645\u064a\u0627\u062f\u064a\u0646 \u0646\u062a",
-      "title": "\u0627\u0644\u0623\u0628\u0642\u0627\u0631 \u0642\u062f \u062a\u0646\u0642\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0627\u0644\u0628\u0634\u0631.. \u0643\u064a\u0641\u061f",
-      "description": "\u062f\u0631\u0627\u0633\u0629 \u062c\u062f\u064a\u062f\u0629 \u0644\u0639\u0644\u0645\u0627\u0621 \u0641\u064a \u0627\u0644\u0635\u062d\u0629 \u062a\u0638\u0647\u0631 \u0623\u0646\u0651 \u0623\u0643\u064a\u0627\u0633 \u0636\u0631\u0639 \u0627\u0644\u0628\u0642\u0631 \u0627\u0644\u062b\u062f\u064a\u064a\u0629 \u0642\u062f \u062a\u0635\u0628\u062d \"\u0623\u0648\u0639\u064a\u0629 \u062e\u0644\u0637\" \u0645\u062d\u0645\u0651\u0644\u0629 \u0628\u0645\u0633\u062a\u0642\u0628\u0644\u0627\u062a \u0627\u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0627\u0644\u0637\u064a\u0648\u0631 \u0648\u062a\u0633\u0627\u0639\u062f \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u0639\u0644\u0649 \u0627\u0644\u0627\u0646\u062a\u0634\u0627\u0631 \u0628\u064a\u0646 \u0627\u0644\u0628\u0634\u0631 \u0645\u062b\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 (H5N1).. \u0648\u0627\u0644\u062c\u062f\u0644 \u064a\u062a\u0648\u0627\u0635\u0644 \u062d\u0648\u0644 \u0635\u062d\u0629 \u0627\u0644\u0623\u0644\u0628\u0627\u0646!",
-      "url": "https://www.almayadeen.net/health/\u0627\u0644\u0623\u0628\u0642\u0627\u0631-\u0642\u062f-\u062a\u0646\u0642\u0644-\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627-\u0627\u0644\u0637\u064a\u0648\u0631-\u0625\u0644\u0649-\u0627\u0644\u0628\u0634\u0631---\u0643\u064a\u0641",
-      "urlToImage": "https://alpha-ar-media.almayadeen.net/media/image/2024/5/12/d06f4808-ce20-4113-a8ab-c110693c3f94.png?v=2&width=1000",
-      "publishedAt": "2024-05-12 08:54:54",
-      "content": "\" \" (H5N1) \"\" \" \" \"BioRxiv\" \"WEb Med\". . (H5N1). . . Many people are wondering how we can monitor this H5N1 situation. We sequence the whole virome from wastewater, and, well, H5N1 starte\u2026 [+574 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.408221",
-      "internal_id": "0bfb1e1b5f252d6082d222066eba0fbfd5c00f340cce4de7fb8d558713f0feb9",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9082,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Dogs entering US must be 6 months old, microchipped to prevent rabies spread",
-      "description": "New York \u2014 All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new rules require vaccination for dogs that have be\u2026",
-      "url": "https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html",
-      "urlToImage": "https://gdb.voanews.com/6633B470-639B-4589-882A-3066C2D759A1.jpg",
-      "publishedAt": "2024-05-12 07:07:40",
-      "content": "New York All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday\u2026 [+3079 chars]",
-      "retrievedAt": "2024-05-13 19:05:15.872833",
-      "internal_id": "d8312d1a3a146431fe86ca9d38efa3dc47fa299be6919e26fd1c609f7279b62c",
-      "publishedAtLabel": "May 12"
     }
   ]
 }
