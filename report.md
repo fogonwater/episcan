@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-06-26 07:06
-- **Most recent article:** 2024-06-25 05:45:05
+- **New articles in last harvest:** 36
+- **Last harvest:** 2024-06-26 19:05
+- **Most recent article:** 2024-06-25 19:04:26
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 87 | 58 | 61 | 64 | 115 | 62 | 31 | 478 |
-| h5n1 | 60 | 95 | 65 | 78 | 55 | 29 | 7 | 389 |
-| malaria | 13 | 17 | 25 | 21 | 37 | 20 | 4 | 137 |
-| measles | 29 | 15 | 16 | 11 | 7 | 11 | 0 | 89 |
-| mpox | 10 | 9 | 16 | 8 | 26 | 14 | 2 | 85 |
-| chikungunya | 12 | 3 | 18 | 5 | 14 | 5 | 3 | 60 |
-| rabies | 10 | 8 | 15 | 9 | 2 | 5 | 3 | 52 |
+| dengue | 84 | 58 | 61 | 64 | 115 | 62 | 44 | 488 |
+| h5n1 | 56 | 95 | 65 | 78 | 55 | 29 | 12 | 390 |
+| malaria | 12 | 17 | 25 | 21 | 37 | 20 | 6 | 138 |
+| mpox | 10 | 9 | 16 | 8 | 26 | 14 | 15 | 98 |
+| measles | 29 | 15 | 16 | 11 | 7 | 11 | 1 | 90 |
+| chikungunya | 11 | 3 | 18 | 5 | 14 | 5 | 4 | 60 |
+| rabies | 9 | 8 | 15 | 9 | 2 | 5 | 3 | 51 |
 | pertussis | 5 | 6 | 6 | 9 | 11 | 11 | 0 | 48 |
 | hpai | 3 | 7 | 12 | 2 | 4 | 4 | 2 | 34 |
-| zika | 6 | 3 | 3 | 0 | 12 | 3 | 2 | 29 |
-| meningitis | 9 | 4 | 1 | 6 | 3 | 1 | 0 | 24 |
+| zika | 6 | 3 | 3 | 0 | 12 | 3 | 3 | 30 |
+| meningitis | 9 | 4 | 1 | 6 | 3 | 1 | 1 | 25 |
 | leptospirosis | 3 | 0 | 5 | 1 | 1 | 1 | 0 | 11 |
-| typhoid | 2 | 0 | 0 | 1 | 1 | 2 | 1 | 7 |
+| typhoid | 2 | 0 | 0 | 1 | 1 | 2 | 2 | 8 |
 | yersinia | 0 | 6 | 0 | 1 | 0 | 0 | 0 | 7 |
 
 
@@ -34,11 +34,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (zika)
 
+- [ભારતમાં ઘાતક ઝિકા વાયરસની એન્ટ્રી, જાણો તેના લક્ષણો, ફેલાવાની રીત અને નિવારણનાં પગલાં](https://tv9gujarati.com/health/deadly-zika-virus-enters-india-know-its-symptoms-ways-of-spreading-and-prevention-measures-1048002.html) (Tv9gujarati.com)
+
 - [Tropenkrankheit nachgewiesen - Erster Europäer an Oropouche-Fieber erkrankt](https://www.bild.de/leben-wissen/medizin/tropenkrankheit-erster-europaeer-an-oropouche-fieber-erkrankt-6679552ab04bfa582b0fd839) (Bild)
 
 - [Como desnutrição, toxinas na água e agrotóxicos criaram 'bolsões de microcefalia' no Brasil](https://www.bbc.com/portuguese/articles/cx88j1w70e0o) (BBC News)
 
 ## 24-26 (typhoid)
+
+- [The cost of typhoid illness in low- and middle-income countries, a scoping review of the literature](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305692) (Plos.org)
 
 - [Spatial and temporal clustering of typhoid fever in an urban slum of Dhaka City: Implications for targeted typhoid vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012273) (Plos.org)
 
@@ -52,11 +56,49 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (mpox)
 
+- [В ЮАР за июнь зафиксировали третью смерть от mpox](https://tass.ru/obschestvo/21199965) (Tass.ru)
+
+- [Veszélyes himlővariáns jelent meg – 5-10 százalékos halálozási aránnyal](https://www.portfolio.hu/gazdasag/20240625/veszelyes-himlovarians-jelent-meg-5-10-szazalekos-halalozasi-arannyal-694755) (Portfolio.hu)
+
+- [Dangerous mpox strain spreading in Democratic Republic of the Congo](https://www.newscientist.com/article/2436988-dangerous-mpox-strain-spreading-in-democratic-republic-of-the-congo/) (New Scientist)
+
+- [WHO and scientists call for urgent action on highly dangerous mpox strain](https://www.nbcnews.com/health/health-news/who-scientists-mpox-strain-dangerous-urgent-action-rcna158842) (NBC News)
+
+- [Third Mpox death recorded, number of cases rises to 16 | The Citizen](https://www.citizen.co.za/lifestyle/health/third-mpox-death-recorded-number-of-cases-rises-to-16/) (Auburn Citizen)
+
+- ['Dangerous' new Mpox strain 'could spread internationally'](https://news.sky.com/story/new-mpox-strain-clade-1b-most-dangerous-so-far-and-could-spread-internationally-scientists-warn-13158698) (Sky.com)
+
+- [OMS trage un semnal de alarmă cu privire la o tulpină periculoasă a mpox cu o rată a mortalității de 5%-10%](https://hotnews.ro/oms-trage-un-semnal-de-alarma-cu-privire-la-o-tulpina-periculoasa-a-mpox-cu-o-rata-a-mortalitatii-de-5-10-1529028) (Hotnews.ro)
+
+- [Yeni salgın M çiçeği: 13 ülkeye yayıldı](https://www.odatv.com/guncel/yeni-salgin-m-cicegi-13-ulkeye-yayildi-419-kisi-oldu-120050120) (Odatv.com)
+
+- [DSÖ uyardı: Afrika'da "M çiçeği" vakalarında artış yaşanıyor](https://www.hurriyet.com.tr/dunya/dso-uyardi-afrikada-m-cicegi-vakalarinda-artis-yasaniyor-42481078) (Hurriyet.com.tr)
+
+- [DSÖ, Afrika'da "M çiçeği" vakalarında yaşanan artışa karşı uyardı](https://www.aa.com.tr/tr/saglik/dso-afrikada-m-cicegi-vakalarinda-yasanan-artisa-karsi-uyardi/3257812) (Anadolu Agency)
+
+- [Tonix Pharmaceuticals Presents Vaccine Platform Data in Keynote Talk at the Vaccine Congress 2024](https://www.globenewswire.com/news-release/2024/06/25/2903707/28908/en/Tonix-Pharmaceuticals-Presents-Vaccine-Platform-Data-in-Keynote-Talk-at-the-Vaccine-Congress-2024.html) (GlobeNewswire)
+
+- [ЮАР ввела санитарный контроль на внешних границах из-за оспы обезьян](https://tass.ru/obschestvo/21195533) (Tass.ru)
+
+- [ВОЗ сообщила о более 3,1 тыс. случаях оспы обезьян в мире с начала года](https://tass.ru/obschestvo/21195455) (Tass.ru)
+
 - [Challenges in clinical diagnosis of Clade I Mpox: Highlighting the need for enhanced diagnostic approaches](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012087) (Plos.org)
 
 - [News24 | Mpox outbreak: Medication arrives, but lack of formal registration could be a stumbling block](https://www.news24.com/news24/southafrica/news/mpox-outbreak-medication-arrives-but-lack-of-formal-registration-could-be-a-stumbling-block-20240624) (News24)
 
+## 24-26 (meningitis)
+
+- [Sanidad da por "controlado" el brote de meningitis B en Fuerteventura](https://www.eldiario.es/canariasahora/fuerteventuraahora/sanidad-da-controlado-brote-meningitis-b-fuerteventura_1_11476255.html) (Eldiario.es)
+
+## 24-26 (measles)
+
+- [The implementation of a new measles vaccine mandate in Germany: A qualitative study in local health departments](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306003) (Plos.org)
+
 ## 24-26 (malaria)
+
+- [Malaria drug shows promise as treatment for common hormone disorder](https://www.livescience.com/health/medicine-drugs/malaria-drug-shows-promise-as-treatment-for-common-hormone-disorder) (Live Science)
+
+- [Leishmaniasis en Europa: un desafío emergente para el que no estamos preparados](https://www.nationalgeographic.com.es/ciencia/leishmaniasis-europa-desafio-emergente-para-que-no-estamos-preparados_22618) (Nationalgeographic.com.es)
 
 - [Rebel Wilson Reveals She Once Had Malaria After Waking Up with '100 Mosquito Bites on My Face'](https://www.justjared.com/2024/06/24/rebel-wilson-reveals-she-once-had-malaria-after-waking-up-with-100-mosquito-bites-on-my-face/) (Just Jared)
 
@@ -74,6 +116,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (h5n1)
 
+- [Reuters: Финляндия первой в мире начинает вакцинацию от птичьего гриппа](https://overclockers.ru/blog/Global_Chronicles/show/165272/Reuters-Finlyandiya-pervoj-v-mire-nachinaet-vakcinaciju-ot-ptich-ego-grippa) (Overclockers.ru)
+
+- [Γρίπη των πτηνών: Η Φινλανδία προχωρά στον άμεσο εμβολιασμό εργαζομένων που κινδυνεύουν](https://www.newsit.gr/ygeia/gripi-ton-ptinon-i-finlandia-proxora-ston-ameso-emvoliasmo-ergazomenon-pou-kindyneyoun/4119507/) (Newsit.gr)
+
+- [Фінляндія першою у світі вакцинуватиме людей проти пташиного грипу](https://life.pravda.com.ua/health/finlyandiya-pershoyu-u-sviti-vakcinuvatime-lyudey-proti-ptashinogo-gripu-302325/) (Pravda.com.ua)
+
+- [O țară din Europa, prima din lume care începe vaccinarea oamenilor împotriva gripei aviare](https://www.digi24.ro/stiri/externe/ue/o-tara-din-europa-prima-din-lume-care-incepe-vaccinarea-oamenilor-impotriva-gripei-aviare-2838571) (Digi24.ro)
+
+- [Vogelgrippe? Schweinegrippe? Ein Leitfaden zu H5N1-Viren](https://www.dw.com/de/vogelgrippe-schweinegrippe-ein-leitfaden-zu-h5n1-viren/a-69457814) (DW (English))
+
 - [사람만이 아니었네... 소·돼지도 '필수 의료 공백'](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003041053) (Ohmynews.com)
 
 - [‘A head-in-the-sand approach’: The U.S. strategic drug stockpile is inadequate for a bird flu outbreak](https://fortune.com/2024/06/24/us-strategic-drug-stockpile-inadequate-bird-flu-outbreak/) (Fortune)
@@ -89,6 +141,32 @@ Source: [News API](https://newsapi.org/)
 - [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
+
+- [CDC issues dengue fever alert in the U.S.](https://www.nbcnews.com/news/latino/cdc-warns-increased-dengue-fever-risk-us-rcna158851) (NBC News)
+
+- [Health officials tell US doctors to be alert for dengue as cases ramp up worldwide](https://abcnews.go.com/Health/wireStory/health-officials-us-doctors-alert-dengue-cases-ramp-111416955) (ABC News)
+
+- [US health officials are warning doctors to be alert for dengue cases as the virus surges in other countries](https://abcnews.go.com/Health/wireStory/us-health-officials-warning-doctors-alert-dengue-cases-111416552) (ABC News)
+
+- [US health officials are warning doctors to be alert for dengue cases as the virus surges in other countries](https://abcnews.go.com/US/wireStory/us-health-officials-warning-doctors-alert-dengue-cases-111416498) (ABC News)
+
+- [Health officials tell US doctors to be alert for dengue as cases ramp up worldwide](https://www.seattletimes.com/seattle-news/health/health-officials-tell-us-doctors-to-be-alert-for-dengue-as-cases-ramp-up-worldwide/) (The Seattle Times)
+
+- [Health officials tell US doctors to be alert for dengue as cases ramp up worldwide](https://www.startribune.com/health-officials-tell-us-doctors-to-be-alert-for-dengue-as-cases-ramp-up-worldwide/600376094/) (Minneapolis Star Tribune)
+
+- [US health officials are warning doctors to be alert for dengue cases as the virus surges in other countries](https://www.startribune.com/us-health-officials-are-warning-doctors-to-be-alert-for-dengue-cases-as-the-virus-surges-in-other-countries/600376092/) (Minneapolis Star Tribune)
+
+- [Italien meldet Tropenkrankheit: Erstmals Oropouche-Fieber in Europa registriert](https://www.n-tv.de/wissen/Tropenkrankheiten-in-Europa-auf-dem-Vormarsch-Was-ist-das-Oropouche-Virus-article25041438.html) (N-tv.de)
+
+- [Risk factors associated with dengue complications and death: A cohort study in Peru](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305689) (Plos.org)
+
+- [Dengue cases surging: Here are some common symptoms and precautions](https://www.business-standard.com/lifestyle/dengue-cases-surging-here-are-some-common-symptoms-and-precautions-124062500882_1.html) (Business Standard)
+
+- [Dengue cases up slightly in Johor this week](https://www.thestar.com.my/news/nation/2024/06/25/dengue-cases-up-slightly-in-johor-this-week) (The Star Online)
+
+- [Leishmaniasis en Europa: un desafío emergente para el que no estamos preparados](https://www.nationalgeographic.com.es/ciencia/leishmaniasis-europa-desafio-emergente-para-que-no-estamos-preparados_22618) (Nationalgeographic.com.es)
+
+- [How Paris is preparing for the health threats of the Olympic Games](https://www.bmj.com/content/385/bmj.q1263) (The BMJ)
 
 - [Cegah Demam Berdarah Dengue, Kodim 0826/Pamekasan Lakukan Fogging](https://suaraindonesia-news.com/cegah-demam-berdarah-dengue-kodim-0826-pamekasan-lakukan-fogging/) (Suaraindonesia-news.com)
 
@@ -153,6 +231,8 @@ Source: [News API](https://newsapi.org/)
 - [Ministério da Saúde amplia faixa etária para vacina da dengue em doses prestes a vencer; veja regras](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-amplia-faixa-etaria-para-vacina-da-dengue-em-doses-prestes-a-vencer-veja-regras,d8a927124262198f72703decbd358b98mgwk9ov5.html) (Terra.com.br)
 
 ## 24-26 (chikungunya)
+
+- [Leishmaniasis en Europa: un desafío emergente para el que no estamos preparados](https://www.nationalgeographic.com.es/ciencia/leishmaniasis-europa-desafio-emergente-para-que-no-estamos-preparados_22618) (Nationalgeographic.com.es)
 
 - [Tropenkrankheit nachgewiesen - Erster Europäer an Oropouche-Fieber erkrankt](https://www.bild.de/leben-wissen/medizin/tropenkrankheit-erster-europaeer-an-oropouche-fieber-erkrankt-6679552ab04bfa582b0fd839) (Bild)
 
@@ -2618,8 +2698,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies alert: BSF Meghalaya steps up prevention efforts in Muktapur](https://www.syllad.com/rabies-alert-bsf-meghalaya-steps-up-prevention-efforts-in-muktapur/) (Syllad.com)
 
-- [Dogs entering US must be 6 months old, microchipped to prevent rabies spread](https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html) (VOA News)
-
 ## 24-20 (pertussis)
 
 - [Health Department confirms 6 whooping cough cases in Lexington: What to look out for?](https://www.wkyt.com/2024/05/17/health-department-confirms-6-whooping-cough-cases-lexington-what-look-out/) (WKYT)
@@ -2760,8 +2838,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Distribution and dynamics of Anopheles gambiae s.l. larval habitats in three Senegalese cities with high urban malaria incidence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303473) (Plos.org)
 
-- [Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]](https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html) (Jungewelt.de)
-
 ## 24-20 (leptospirosis)
 
 - [Factors associated with differential seropositivity to Leptospira interrogans and Leptospira kirschneri in a high transmission urban setting for leptospirosis in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011292) (Plos.org)
@@ -2891,14 +2967,6 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, il virus rilevato nelle acque reflue in nove città del Texas. Attesa per il monitoraggio dei Cdc Usa](https://www.ilfattoquotidiano.it/2024/05/13/aviaria-il-virus-rilevato-nelle-acque-reflue-in-nove-citta-del-texas-attesa-per-il-monitoraggio-dei-cdc-usa/7546403/) (Ilfattoquotidiano.it)
 
 - [CDC wastewater surveillance dashboard to track bird flu hotspots](https://www.statnews.com/2024/05/13/cdc-wastewater-surveillance-dashboard-bird-flu-outbreak-monitor/) (STAT)
-
-- [Eating our way to the next pandemic](https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html) (Kevinmd.com)
-
-- [Les animaux vivent déjà la prochaine pandémie](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/) (Futura)
-
-- [Gripa aviară la fermele de vaci. Cum încearcă SUA să limiteze răspândirea virusului](https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html) (Adevarul.ro)
-
-- [الأبقار قد تنقل إنفلونزا الطيور إلى البشر.. كيف؟](https://www.almayadeen.net/health/الأبقار-قد-تنقل-إنفلونزا-الطيور-إلى-البشر---كيف) (Almayadeen.net)
 
 ## 24-20 (dengue)
 
@@ -3070,12 +3138,6 @@ Source: [News API](https://newsapi.org/)
 
 - [What should I look out for when choosing a mosquito repellent?](https://www.straitstimes.com/singapore/health/what-should-i-look-out-for-when-choosing-a-mosquito-repellent) (The Straits Times)
 
-- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)
-
-- [High worldwide dengue numbers may not impact Singapore: Experts](https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts) (The Straits Times)
-
-- [Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension](https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391) (NDTV News)
-
 ## 24-20 (chikungunya)
 
 - [Gov't issues alert to schools on possible health risks due to flooding](https://www.citizen.digital/news/govt-issues-alert-to-schools-on-possible-health-risks-due-to-flooding-n342359) (Citizen.digital)
@@ -3099,5 +3161,3 @@ Source: [News API](https://newsapi.org/)
 - [Valneva Reports Further Positive Pivotal Phase 3 Data in Adolescents for its Single-Shot Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/en/Valneva-Reports-Further-Positive-Pivotal-Phase-3-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-Vaccine.html) (GlobeNewswire)
 
 - [Valneva annonce de nouveaux résultats positifs chez les adolescents pour l’étude pivot de Phase 3 de son vaccin à dose unique contre le chikungunya](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/fr/Valneva-annonce-de-nouveaux-r%C3%A9sultats-positifs-chez-les-adolescents-pour-l-%C3%A9tude-pivot-de-Phase-3-de-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya.html) (GlobeNewswire)
-
-- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)

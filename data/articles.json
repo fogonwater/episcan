@@ -1,8 +1,658 @@
 {
-  "last_updated": "2024-06-26 07:06",
-  "count_articles_total": 1371,
-  "count_articles_new": 8,
+  "last_updated": "2024-06-26 19:05",
+  "count_articles_total": 1398,
+  "count_articles_new": 36,
   "articles": [
+    {
+      "id": 10467,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Nicole Acevedo and Erika Edwards and Kaitlin Sullivan",
+      "title": "CDC issues dengue fever alert in the U.S.",
+      "description": "This year, global dengue fever cases hit record highs due to rising temperatures, creating ideal conditions for mosquito breeding.",
+      "url": "https://www.nbcnews.com/news/latino/cdc-warns-increased-dengue-fever-risk-us-rcna158851",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/ap16217672119108-b7aa70.jpg",
+      "publishedAt": "2024-06-25 19:04:26",
+      "content": "The Centers for Disease Control and Prevention issued a health advisory Tuesday alerting authorities, health care providers and the public of the increased risk of dengue fever infections in the Unit\u2026 [+2476 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.245061",
+      "internal_id": "b1a2a08f585ed92eb761d585a67dbb32f5ef8a2dbd333d39d41f583f21d041f9",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10464,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MIKE STOBBE AP medical writer",
+      "title": "Health officials tell US doctors to be alert for dengue as cases ramp up worldwide",
+      "description": "U.S. health officials are warning doctors to be alert for dengue cases as the tropical disease breaks international records",
+      "url": "https://abcnews.go.com/Health/wireStory/health-officials-us-doctors-alert-dengue-cases-ramp-111416955",
+      "urlToImage": "https://i.abcnewsfe.com/a/60dba348-8cf7-4e31-be0a-daa93272a8be/wirestory_8c165860c5ec768261be5245733b4a45_16x9.jpg?w=1600",
+      "publishedAt": "2024-06-25 19:02:38",
+      "content": "NEW YORK -- U.S. health officials on Tuesday warned doctors to be alert for dengue cases as the tropical disease breaks international records. The virus, which is spread by mosquitoes, has been surg\u2026 [+4205 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.203286",
+      "internal_id": "2d4273f787573f74650cac76904803885fc3126b71c42e0607e2bff3b94ac5fe",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10465,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "US health officials are warning doctors to be alert for dengue cases as the virus surges in other countries",
+      "description": "US health officials are warning doctors to be alert for dengue cases as the virus surges in other countries",
+      "url": "https://abcnews.go.com/Health/wireStory/us-health-officials-warning-doctors-alert-dengue-cases-111416552",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-06-25 19:01:50",
+      "content": "US health officials are warning doctors to be alert for dengue cases as the virus surges in other countries ATLANTA -- US health officials are warning doctors to be alert for dengue cases as the vir\u2026 [+28 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.208007",
+      "internal_id": "bed1ae79603749579cdfc88d4c6b9b26877a694ebccbbcd37874f45d28b75810",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10466,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "US health officials are warning doctors to be alert for dengue cases as the virus surges in other countries",
+      "description": "US health officials are warning doctors to be alert for dengue cases as the virus surges in other countries",
+      "url": "https://abcnews.go.com/US/wireStory/us-health-officials-warning-doctors-alert-dengue-cases-111416498",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-06-25 19:01:49",
+      "content": "US health officials are warning doctors to be alert for dengue cases as the virus surges in other countries ATLANTA -- US health officials are warning doctors to be alert for dengue cases as the vir\u2026 [+28 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.216105",
+      "internal_id": "7c5f077b7f16e63779608497f3ac6bdbb2d42568a93ad3f7bb0037c0db886062",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10463,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Seattle Times",
+      "author": "MIKE STOBBE",
+      "title": "Health officials tell US doctors to be alert for dengue as cases ramp up worldwide",
+      "description": "U.S. health officials are warning doctors to be alert for dengue cases as the tropical disease breaks international records.",
+      "url": "https://www.seattletimes.com/seattle-news/health/health-officials-tell-us-doctors-to-be-alert-for-dengue-as-cases-ramp-up-worldwide/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/06/06252024_dengueWarn-tzrJune25_tzr_115725.jpg?d=1200x630",
+      "publishedAt": "2024-06-25 18:54:10",
+      "content": "NEW YORK (AP) U.S. health officials on Tuesday warned doctors to be alert for dengue cases as the tropical disease breaks international records. The virus, which is spread by mosquitoes, has been su\u2026 [+4173 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.187660",
+      "internal_id": "15f3d86ff908e64a388726614fe86db338c99e66e8da5df8b62f71b3ca1ebe92",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10460,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "MIKE STOBBE",
+      "title": "Health officials tell US doctors to be alert for dengue as cases ramp up worldwide",
+      "description": "U.S. health officials on Tuesday warned doctors to be alert for dengue cases as the tropical disease breaks international records.",
+      "url": "https://www.startribune.com/health-officials-tell-us-doctors-to-be-alert-for-dengue-as-cases-ramp-up-worldwide/600376094/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1719329587",
+      "publishedAt": "2024-06-25 18:54:00",
+      "content": "NEW YORK U.S. health officials on Tuesday warned doctors to be alert for dengue cases as the tropical disease breaks international records. The virus, which is spread by mosquitoes, has been surging\u2026 [+4209 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.162969",
+      "internal_id": "c0c7e48f0aa25795acf58492eb140893e42c2e515ee3f079b58ca4f328f3cfd5",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10461,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "Associated Press",
+      "title": "US health officials are warning doctors to be alert for dengue cases as the virus surges in other countries",
+      "description": "US health officials are warning doctors to be alert for dengue cases as the virus surges in other countries.",
+      "url": "https://www.startribune.com/us-health-officials-are-warning-doctors-to-be-alert-for-dengue-cases-as-the-virus-surges-in-other-countries/600376092/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1719329587",
+      "publishedAt": "2024-06-25 18:53:00",
+      "content": "\u00a9 2024 StarTribune. All rights reserved.",
+      "retrievedAt": "2024-06-26 19:05:20.167818",
+      "internal_id": "0cb3877605113849026992ad262b99d30cd88b2a2560cc41acd4fea35d699327",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10480,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412 \u042e\u0410\u0420 \u0437\u0430 \u0438\u044e\u043d\u044c \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0442\u0440\u0435\u0442\u044c\u044e \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 mpox",
+      "description": "40-\u043b\u0435\u0442\u043d\u0438\u0439 \u043c\u0443\u0436\u0447\u0438\u043d\u0430 \u043d\u0435 \u043e\u0431\u0440\u0430\u0449\u0430\u043b\u0441\u044f \u043a \u0432\u0440\u0430\u0447\u0430\u043c \u0438 \u0443\u043c\u0435\u0440 \u0443 \u0441\u0435\u0431\u044f \u0434\u043e\u043c\u0430",
+      "url": "https://tass.ru/obschestvo/21199965",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21199965?u=2024-06-25T18:10:54.284927",
+      "publishedAt": "2024-06-25 18:10:54",
+      "content": ", 25 . //. mpox ( ). . \" mpox - 40- , - . - . , \". , mpox, , 16. 25 . . . mpox . Mpox - , , . 1970 . mpox 1% 10%. . mpox , 85% . 2022 mpox, 100 . , c 1 2022 30 2024 117 97 208 mpox. 186 .",
+      "retrievedAt": "2024-06-26 19:05:22.147520",
+      "internal_id": "6dfa7d28abfb70d67ad85dd001092501f841569a46d02a2855e5a01bb22d6782",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10455,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Overclockers.ru",
+      "author": "PoZiTiv4iK",
+      "title": "Reuters: \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f \u043f\u0435\u0440\u0432\u043e\u0439 \u0432 \u043c\u0438\u0440\u0435 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0432\u0430\u043a\u0446\u0438\u043d\u0430\u0446\u0438\u044e \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f \u0441\u0442\u0430\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u043e\u0439 \u0432 \u043c\u0438\u0440\u0435, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u0440\u0438\u0441\u0442\u0443\u043f\u0438\u0442 \u043a \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0439 \u0432\u0430\u043a\u0446\u0438\u043d\u0430\u0446\u0438\u0438 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430. \u0412\u0430\u043a\u0446\u0438\u043d\u0430\u0446\u0438\u044f \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0443\u0436\u0435 \u043d\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0435 \u0434\u043b\u044f \u0433\u0440\u0443\u043f\u043f \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0433\u043e \u0440\u0438\u0441\u043a\u0430 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f.",
+      "url": "https://overclockers.ru/blog/Global_Chronicles/show/165272/Reuters-Finlyandiya-pervoj-v-mire-nachinaet-vakcinaciju-ot-ptich-ego-grippa",
+      "urlToImage": "https://overclockers.ru/st/legacy/blog/430440/531564_O.JPG",
+      "publishedAt": "2024-06-25 18:02:30",
+      "content": ". H5N1 , . , , . Reuters , , . , . (THL) , 18 , . , , , . THL , : \" , \". , 485 000 - . , 10 000 CSL Seqirus. 40 15 .",
+      "retrievedAt": "2024-06-26 19:05:19.787655",
+      "internal_id": "41b99f2ef8de9d9e89328a4c40146e901ac17a8c33ca4d90eb7994456cbfb466",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10484,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Vesz\u00e9lyes himl\u0151vari\u00e1ns jelent meg \u2013 5-10 sz\u00e1zal\u00e9kos hal\u00e1loz\u00e1si ar\u00e1nnyal",
+      "description": "A Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1g (KDK) kutat\u00f3i figyelmeztetnek: az Mpox (Majomhiml\u0151) v\u00edrus egy \u00faj, vesz\u00e9lyes t\u00f6rzse nemzetk\u00f6zi terjed\u00e9s el\u0151tt \u00e1llhat. Ez a v\u00e1ltozat s\u00falyosabb t\u00fcneteket \u00e9s magasabb hal\u00e1loz\u00e1si ar\u00e1nyt mutathat, mint kor\u00e1bbi t\u00e1rsai - k\u00f6z\u00f6lte a Sk\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20240625/veszelyes-himlovarians-jelent-meg-5-10-szazalekos-halalozasi-arannyal-694755",
+      "urlToImage": "https://cdn.portfolio.hu/articles/images-xl/b/e/t/betegseg-majomhimlo-686601.jpg",
+      "publishedAt": "2024-06-25 17:38:00",
+      "content": "Az \u00faj t\u00f6rzs elsz\u00f6r szeptemberben jelent meg Kamitug\u00e1ban, egy b\u00e1ny\u00e1szv\u00e1rosban, amely mintegy 273 kilom\u00e9terre fekszik a ruandai hat\u00e1rt\u00f3l. A fertz\u00e9s kezdetben a helyi szexmunk\u00e1sok k\u00f6r\u00e9ben terjedt el. Az\u2026 [+1344 chars]",
+      "retrievedAt": "2024-06-26 19:05:22.171074",
+      "internal_id": "f12ff84bc00c230a728a453013fca3e0b87b25d8a29a429e9e069ce3a37b904e",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10475,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Michael Le Page",
+      "title": "Dangerous mpox strain spreading in Democratic Republic of the Congo",
+      "description": "A new strain of mpox transmitted mainly by heterosexual sex has emerged in a mining town in the Democratic Republic of the Congo and is now spreading to other towns",
+      "url": "https://www.newscientist.com/article/2436988-dangerous-mpox-strain-spreading-in-democratic-republic-of-the-congo/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/06/25170126/SEI_210355592.jpg",
+      "publishedAt": "2024-06-25 17:10:39",
+      "content": "Transmission electron micrograph of mpox virus particles (teal) within an infected cell NIAID Urgent action is needed to try to contain the spread of a new strain of mpox transmitted mainly by hete\u2026 [+4041 chars]",
+      "retrievedAt": "2024-06-26 19:05:22.119397",
+      "internal_id": "783dae85b36066d81885b3f2f2c030fde62b37d38a58656ad2edfc74bd736a60",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10477,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Reuters",
+      "title": "WHO and scientists call for urgent action on highly dangerous mpox strain",
+      "description": "The World Health Organization and other outside scientists said the spread of a dangerous, deadly strain of mpox in Africa needs to be addressed urgently.",
+      "url": "https://www.nbcnews.com/health/health-news/who-scientists-mpox-strain-dangerous-urgent-action-rcna158842",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/240502-mpox-ch-1056-d9e066.jpg",
+      "publishedAt": "2024-06-25 16:57:23",
+      "content": "The spread of mpox in Africa needs to be addressed urgently, the World Health Organization said on Tuesday, as scientists warned separately of a dangerous strain in the Democratic Republic of Congo. \u2026 [+2293 chars]",
+      "retrievedAt": "2024-06-26 19:05:22.129646",
+      "internal_id": "77567929df7196ee8dc1390428d12eb42c59935973c8000490dd7195a456d156",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10486,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Auburn Citizen",
+      "author": "Nicholas Zaal",
+      "title": "Third Mpox death recorded, number of cases rises to 16 | The Citizen",
+      "description": "The new cases include a 40-year-old man from Ladysmith, a 43-year-old man from Johannesburg and a 29-year-old man from Mamelodi.",
+      "url": "https://www.citizen.co.za/lifestyle/health/third-mpox-death-recorded-number-of-cases-rises-to-16/",
+      "urlToImage": "https://media.citizen.co.za/wp-content/uploads/2024/06/Mpox.jpg",
+      "publishedAt": "2024-06-25 16:26:34",
+      "content": "The Department of Health has confirmed three more cases of Mpox (formerly known as monkey pox) had been recorded by Tuesday afternoon. Also, one more patient has died. The latest cases include a 40-\u2026 [+2391 chars]",
+      "retrievedAt": "2024-06-26 19:05:22.188229",
+      "internal_id": "60b9eb98df9f2d811ea1bc719bc1f888b19f4fc9d907fd7bd6de95a44bda2bf6",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10473,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "snehakhedkar30@gmail.com (Sneha Khedkar)",
+      "title": "Malaria drug shows promise as treatment for common hormone disorder",
+      "description": "A study in humans and lab animals suggests that an antimalarial drug might treat the root cause of PCOS symptoms.",
+      "url": "https://www.livescience.com/health/medicine-drugs/malaria-drug-shows-promise-as-treatment-for-common-hormone-disorder",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LpJTukDL3Urek5QaHmVFcj-1200-80.jpg",
+      "publishedAt": "2024-06-25 15:53:36",
+      "content": "A compound used to treat malaria could potentially alleviate symptoms of polycystic ovary syndrome (PCOS), a small study in humans and lab animals finds. PCOS is a hormonal disorder characterized \u2026 [+4042 chars]",
+      "retrievedAt": "2024-06-26 19:05:21.104607",
+      "internal_id": "dbe0356f1f0714771370bf78b1660eebac208d1b821e4b447d1c9d27e32e8744",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10482,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Tom Clarke",
+      "title": "'Dangerous' new Mpox strain 'could spread internationally'",
+      "description": "Scientists tracking the spread of a dangerous new strain of the Mpox virus have said it is time to \"get prepared\".",
+      "url": "https://news.sky.com/story/new-mpox-strain-clade-1b-most-dangerous-so-far-and-could-spread-internationally-scientists-warn-13158698",
+      "urlToImage": "https://e3.365dm.com/22/07/1600x900/skynews-monkeypox-vaccine-imvanex_5839808.jpg?20220719190958",
+      "publishedAt": "2024-06-25 15:41:00",
+      "content": "Scientists tracking the spread of a dangerous new strain of the Mpox virus have said it is time to \"get prepared\". Researchers in the Democratic Republic of Congo (DRC) are warning it could spread i\u2026 [+3086 chars]",
+      "retrievedAt": "2024-06-26 19:05:22.161530",
+      "internal_id": "ceab827a81d449c0c5588f4f007b047ae185c4596bd64ded12d772cbe16d40c7",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10456,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0395\u03b9\u03c1\u03b7\u03bd\u03b7 \u039c\u03b9\u03c7\u03b1\u03bb\u03bf\u03c5\u03b4\u03b7",
+      "title": "\u0393\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd: \u0397 \u03a6\u03b9\u03bd\u03bb\u03b1\u03bd\u03b4\u03af\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ac \u03c3\u03c4\u03bf\u03bd \u03ac\u03bc\u03b5\u03c3\u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc \u03b5\u03c1\u03b3\u03b1\u03b6\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c0\u03bf\u03c5 \u03ba\u03b9\u03bd\u03b4\u03c5\u03bd\u03b5\u03cd\u03bf\u03c5\u03bd",
+      "description": "\u0391\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b7 \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1, \u03b7 \u03a6\u03b9\u03bd\u03bb\u03b1\u03bd\u03b4\u03af\u03b1 \u03c3\u03c7\u03b5\u03b4\u03b9\u03ac\u03b6\u03b5\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03b5\u03b9 \u03c4\u03b7 \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c0\u03c1\u03bf\u03bb\u03b7\u03c0\u03c4\u03b9\u03ba\u03bf\u03cd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b5\u03c1\u03b3\u03b1\u03b6\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03bc\u03b5 \u03ad\u03ba\u03b8\u03b5\u03c3\u03b7 \u03c3\u03b5 \u03b6\u03ce\u03b1, \u03cc\u03c0\u03c9\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03b8\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c5\u03b3\u03b5\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ad\u03c2 \u0391\u03c1\u03c7\u03ad\u03c2 \u03c4\u03b7\u03c2 \u03c7\u03ce\u03c1\u03b1\u03c2. \u039c\u03b5 \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf \u03b1\u03c5\u03c4\u03cc, \u03b7 \u03a6\u03b9\u03bd\u03bb\u03b1\u03bd\u03b4\u03af\u03b1 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c7\u03ce\u03c1\u2026",
+      "url": "https://www.newsit.gr/ygeia/gripi-ton-ptinon-i-finlandia-proxora-ston-ameso-emvoliasmo-ergazomenon-pou-kindyneyoun/4119507/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2024/06/birdflu.jpg",
+      "publishedAt": "2024-06-25 14:51:54",
+      "content": ", , . , . 10.000 , , , 40 15 . (THL), 18 . H5N1 , , , . , THL. , . \u00ab \u00bb, Reuters Hanna Nohynek, (THL). 485.000 .: Iatropedia.gr",
+      "retrievedAt": "2024-06-26 19:05:19.800183",
+      "internal_id": "713063b67013dcb374ae4d0b6a5a97f824717452aa29337d79781fddcfd0e1a0",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10476,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Sebastian Jucan",
+      "title": "OMS trage un semnal de alarm\u0103 cu privire la o tulpin\u0103 periculoas\u0103 a mpox cu o rat\u0103 a mortalit\u0103\u021bii de 5%-10%",
+      "description": "R\u0103sp\u00e2ndirea mpox-ului \u00een Africa trebuie abordat\u0103 de urgen\u0163\u0103, a declarat mar\u0163i Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS), \u00een timp ce oameni de \u015ftiin\u0163\u0103 au avertizat separat despre pericolele unei noi tulpini care se r\u0103sp\u00e2nde\u015fte \u00eentr-o parte\u2026",
+      "url": "https://hotnews.ro/oms-trage-un-semnal-de-alarma-cu-privire-la-o-tulpina-periculoasa-a-mpox-cu-o-rata-a-mortalitatii-de-5-10-1529028",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/04/image-2022-06-15-25620867-41-variola-maimutei-1.jpg",
+      "publishedAt": "2024-06-25 14:43:11",
+      "content": "Rsp\u00e2ndirea mpox-ului \u00een Africa trebuie abordat de urgen, a declarat mari Organizaia Mondial a Sntii (OMS), \u00een timp ce oameni de tiin au avertizat separat despre pericolele unei noi tulpini care se rs\u2026 [+1395 chars]",
+      "retrievedAt": "2024-06-26 19:05:22.124606",
+      "internal_id": "cbd4b10d224a409925e4b1d42ef728c94f2b8399ccfbc844e3273dd626849d92",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10458,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.com.ua",
+      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430. \u0416\u0438\u0442\u0442\u044f",
+      "title": "\u0424\u0456\u043d\u043b\u044f\u043d\u0434\u0456\u044f \u043f\u0435\u0440\u0448\u043e\u044e \u0443 \u0441\u0432\u0456\u0442\u0456 \u0432\u0430\u043a\u0446\u0438\u043d\u0443\u0432\u0430\u0442\u0438\u043c\u0435 \u043b\u044e\u0434\u0435\u0439 \u043f\u0440\u043e\u0442\u0438 \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443",
+      "description": "",
+      "url": "https://life.pravda.com.ua/health/finlyandiya-pershoyu-u-sviti-vakcinuvatime-lyudey-proti-ptashinogo-gripu-302325/",
+      "urlToImage": "https://imglife.pravda.com.ua/life/images/doc/2/b/65307/2b2f49a812c2cfa44399ce9608c1d135.jpeg?w=1920&q=90",
+      "publishedAt": "2024-06-25 14:20:00",
+      "content": ", . CSL Seqirus Reuters, , . \" 18 , \", ' (THL). CSL Seqirus 10 , . '. , , . , , , , , . , , , (, ). , , . , 485 , . , H5N1 . 96% , H5N1 , 25% . , , , .",
+      "retrievedAt": "2024-06-26 19:05:19.813771",
+      "internal_id": "e8158b58b4fea648d1cb4f9027117957bd677c996b1777b218a2d951d6e24c0e",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10483,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Odatv.com",
+      "author": "Odatv",
+      "title": "Yeni salg\u0131n M \u00e7i\u00e7e\u011fi: 13 \u00fclkeye yay\u0131ld\u0131",
+      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc'nden (DS\u00d6), yap\u0131lan a\u00e7\u0131klamada Afrika'da \"M \u00e7i\u00e7e\u011fi (mpox)\" vakalar\u0131nda ya\u015fanan art\u0131\u015fa dikkati \u00e7ekerek bunun temel nedenlerinin belirlenmesi i\u00e7in yo\u011fun ara\u015ft\u0131r\u0131lmalar\u0131n yap\u0131lmas\u0131 \u00e7a\u011fr\u0131s\u0131nda bulundu.",
+      "url": "https://www.odatv.com/guncel/yeni-salgin-m-cicegi-13-ulkeye-yayildi-419-kisi-oldu-120050120",
+      "urlToImage": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2024/06/25/yeni-salgin-m-cicegi-13-ulkeye-yayildi-419-kisi-oldu-ug9c.png",
+      "publishedAt": "2024-06-25 14:15:25",
+      "content": "DS\u00d6'de M \u00e7i\u00e7ei vir\u00fcs\u00fc alannda uzman olarak g\u00f6rev yapan Rosamund Lewis, Birlemi Milletler (BM) Cenevre Ofisi'nin haftalk basn toplantsna \u00e7evrim i\u00e7i katlarak deerlendirmelerde bulundu. Lewis, M \u00e7i\u00e7ei v\u2026 [+1093 chars]",
+      "retrievedAt": "2024-06-26 19:05:22.166401",
+      "internal_id": "b7b55e8b569145fd8631e256754002c046153300ee364772bc996a39322eecf5",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10470,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Italien meldet Tropenkrankheit: Erstmals Oropouche-Fieber in Europa registriert",
+      "description": "In Italien wird bei einer Person, die vorher in der Karibik war, das sogenannte Oropouche-Virus nachgewiesen. Es ist das erste Mal, dass der Erreger, der die Tropenkrankheit Oropouche-Fieber verursacht, in Europa auftritt. Doch wie gef\u00e4hrlich ist das Virus? U\u2026",
+      "url": "https://www.n-tv.de/wissen/Tropenkrankheiten-in-Europa-auf-dem-Vormarsch-Was-ist-das-Oropouche-Virus-article25041438.html",
+      "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop25041463/586132335-cImg_16_9-w1200/imago0580207413h.jpg",
+      "publishedAt": "2024-06-25 14:12:16",
+      "content": "Tropenkrankheiten sind in Europa auf dem Vormarsch. Nachdem sich zuletzt vor allem das Dengue-Fieber ausgebreitet hatte, ist nun von einem neuen Tropenvirus die Rede - dem Oropouche-Virus, das vorneh\u2026 [+3645 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.284620",
+      "internal_id": "17238b213d7e28f867e2dfe36d6b539baac2a4423bd279e310f79d359e4fc4b4",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10453,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sophia Werdin, Julia Neufeind",
+      "title": "The implementation of a new measles vaccine mandate in Germany: A qualitative study in local health departments",
+      "description": "Background Measles is a highly contagious disease with the potential for severe complications. Despite the availability of effective vaccines, there have been recurrent measles outbreaks in Germany over the past decades. In response, a new measles vaccine man\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306003",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0306003.g001&size=inline",
+      "publishedAt": "2024-06-25 14:00:00",
+      "content": "Citation: Werdin S, Neufeind J (2024) The implementation of a new measles vaccine mandate in Germany: A qualitative study in local health departments. PLoS ONE 19(6): e0306003. https://doi.org/10.\u2026 [+41242 chars]",
+      "retrievedAt": "2024-06-26 19:05:19.392629",
+      "internal_id": "195625289f0c618ff2a2d25deda3c677b55066edf98208cc31fa56ab6898a9ee",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10459,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Cesar Copaja-Corzo, Javier Flores-Cohaila, Gustavo Tapia-Sequeiros, Jennifer Vilchez-Cornejo, Miguel Hueda-Zavaleta, Stalin Vilcarromero, Tomas Santana-T\u00e9llez, Jos\u00e9 F. Parodi, Sujey Gomez-Colque, Vicente A. Benites-Zapata",
+      "title": "Risk factors associated with dengue complications and death: A cohort study in Peru",
+      "description": "Background Dengue has emerged as an unprecedented epidemic in Peru, and it is anticipated that this issue will escalate further owing to climate change. This study aimed to determine the risk factors associated with death from dengue in patients treated at Ho\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305689",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0305689.g002&size=inline",
+      "publishedAt": "2024-06-25 14:00:00",
+      "content": "Citation: Copaja-Corzo C, Flores-Cohaila J, Tapia-Sequeiros G, Vilchez-Cornejo J, Hueda-Zavaleta M, Vilcarromero S, et al. (2024) Risk factors associated with dengue complications and death: A cohort\u2026 [+18819 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.150486",
+      "internal_id": "e77254c8291b6e7d704e476ca15039c9f38c820dd18de3e83d7486f34c7650ba",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10488,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Frederic Debellut, Alena Friedrich, Ranju Baral, Clint Pecenka, Emmanuel Mugisha, Kathleen M. Neuzil",
+      "title": "The cost of typhoid illness in low- and middle-income countries, a scoping review of the literature",
+      "description": "Typhoid fever is responsible for a substantial health burden in low- and middle-income countries (LMICs). New means of prevention became available with the prequalification of typhoid conjugate vaccines (TCV) by the World Health Organization (WHO) in 2018. Po\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305692",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0305692.g002&size=inline",
+      "publishedAt": "2024-06-25 14:00:00",
+      "content": "Abstract Typhoid fever is responsible for a substantial health burden in low- and middle-income countries (LMICs). New means of prevention became available with the prequalification of typhoid conju\u2026 [+29686 chars]",
+      "retrievedAt": "2024-06-26 19:05:22.304347",
+      "internal_id": "1fd2c87dd59bfb45496153d4407103e8bd785cd2e9e07cc60a12f3bd7d9d9d80",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10487,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "DS\u00d6 uyard\u0131: Afrika'da \"M \u00e7i\u00e7e\u011fi\" vakalar\u0131nda art\u0131\u015f ya\u015fan\u0131yor",
+      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (DS\u00d6), Afrika'da \"M \u00e7i\u00e7e\u011fi (mpox)\" vakalar\u0131nda ya\u015fanan art\u0131\u015fa kar\u015f\u0131 uyararak bunun temel nedenlerinin belirlenmesi i\u00e7in yo\u011fun ara\u015ft\u0131r\u0131lmalar\u0131n yap\u0131lmas\u0131 \u00e7a\u011fr\u0131s\u0131nda bulundu.",
+      "url": "https://www.hurriyet.com.tr/dunya/dso-uyardi-afrikada-m-cicegi-vakalarinda-artis-yasaniyor-42481078",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/0x0/667ac93d801a4f1d21633a1f.jpg",
+      "publishedAt": "2024-06-25 13:42:24",
+      "content": "p&gt;DS\u00d6'de M \u00e7i\u00e7ei vir\u00fcs\u00fc alannda uzman olarak g\u00f6rev yapan Rosamund Lewis, Birlemi Milletler (BM) Cenevre Ofisi'nin haftalk basn toplantsna \u00e7evrim i\u00e7i katlarak deerlendirmelerde bulundu.Lewis, M \u00e7i\u00e7\u2026 [+1090 chars]",
+      "retrievedAt": "2024-06-26 19:05:22.192776",
+      "internal_id": "a2129d5f6ee983e9cfe900e27bdc5535547b4c1db85416f93909a106a451cf66",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10479,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "DS\u00d6, Afrika'da \"M \u00e7i\u00e7e\u011fi\" vakalar\u0131nda ya\u015fanan art\u0131\u015fa kar\u015f\u0131 uyard\u0131",
+      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (DS\u00d6), Afrika'da \"M \u00e7i\u00e7e\u011fi (mpox)\" vakalar\u0131nda ya\u015fanan art\u0131\u015fa kar\u015f\u0131 uyararak bunun temel nedenlerinin belirlenmesi i\u00e7in yo\u011fun ara\u015ft\u0131r\u0131lmalar\u0131n yap\u0131lmas\u0131 \u00e7a\u011fr\u0131s\u0131nda bulundu. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/saglik/dso-afrikada-m-cicegi-vakalarinda-yasanan-artisa-karsi-uyardi/3257812",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/06/25/thumbs_b_c_8022be48afb0b7bebe4367213768d881.jpg",
+      "publishedAt": "2024-06-25 13:10:08",
+      "content": "DS\u00d6'de M \u00e7i\u00e7ei vir\u00fcs\u00fc alannda uzman olarak g\u00f6rev yapan Rosamund Lewis, Birlemi Milletler (BM) Cenevre Ofisi'nin haftalk basn toplantsna \u00e7evrim i\u00e7i katlarak deerlendirmelerde bulundu. Lewis, M \u00e7i\u00e7ei \u2026 [+1245 chars]",
+      "retrievedAt": "2024-06-26 19:05:22.142672",
+      "internal_id": "7840a0a4afba3a408c51d759754bca73acdfab3d543033348ca6b29170a40aff",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10457,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Maria Isopescu",
+      "title": "O \u021bar\u0103 din Europa, prima din lume care \u00eencepe vaccinarea oamenilor \u00eempotriva gripei aviare",
+      "description": "O \u021bar\u0103 din Europa \u00eencepe, \u00een premier\u0103 mondial\u0103, vaccinarea oamenilor \u00eempotriva gripei aviare. Vaccinul va fi oferit celor cu v\u00e2rste \u00eencep\u00e2nd de la 18 ani care prezint\u0103 un risc crescut de a contracta virusul H5N1.",
+      "url": "https://www.digi24.ro/stiri/externe/ue/o-tara-din-europa-prima-din-lume-care-incepe-vaccinarea-oamenilor-impotriva-gripei-aviare-2838571",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNiUyRjI1JTJGMjAwOTUwNF8yMDA5/NTA0X3ZhY2Npbi1ncmlwYS1hdmlhcmEu/anBnJnc9MTIwMCZoPTYzMCZ6Yz0xJmhh/c2g9NTVmYmYwYTM2NzQ0MTAyMjI0YWM4MDRkNjg1OTcwNTU=.thumb.jpg",
+      "publishedAt": "2024-06-25 12:44:33",
+      "content": "O ar din Europa \u00eencepe, \u00een premier mondial, vaccinarea oamenilor \u00eempotriva gripei aviare. Vaccinul va fi oferit celor cu v\u00e2rste \u00eencep\u00e2nd de la 18 ani care prezint un risc crescut de a contracta virus\u2026 [+2649 chars]",
+      "retrievedAt": "2024-06-26 19:05:19.808989",
+      "internal_id": "bf496b9d711674ffb1dfcbf0134c2c45ca4d9b3ace79868e1d2d8161d516cb31",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10468,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Sudeep Singh Rawat",
+      "title": "Dengue cases surging: Here are some common symptoms and precautions",
+      "description": "The cases of dengue are rising in the country, especially in Bengaluru and Mysuru. Here are some common symptoms and prevention tips",
+      "url": "https://www.business-standard.com/lifestyle/dengue-cases-surging-here-are-some-common-symptoms-and-precautions-124062500882_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/06/thumb/fitandfill/400X400/1680772341-844.jpg",
+      "publishedAt": "2024-06-25 12:23:11",
+      "content": "The cases of dengue are rising in the country, especially in Bengaluru and Mysuru. Here are some common symptoms and prevention tips Photo: Bloomberg Sudeep Singh RawatNew Delhi Dengue cases are r\u2026 [+2957 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.253579",
+      "internal_id": "55c784758f3bccde60b7aad1598d5797a8b75f5f5a1a2aa2a462be73846b3de2",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10485,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Tonix Pharmaceuticals Holding Corp.",
+      "title": "Tonix Pharmaceuticals Presents Vaccine Platform Data in Keynote Talk at the Vaccine Congress 2024",
+      "description": "Tonix\u2019s live virus vaccine TNX-801 is designed to provide long-term protection from mpox and smallpox with one dose TNX-801 vaccination demonstrated......",
+      "url": "https://www.globenewswire.com/news-release/2024/06/25/2903707/28908/en/Tonix-Pharmaceuticals-Presents-Vaccine-Platform-Data-in-Keynote-Talk-at-the-Vaccine-Congress-2024.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/16aad249-3d33-4501-b3d9-118a703fa46e",
+      "publishedAt": "2024-06-25 12:00:00",
+      "content": "Tonixs live virus vaccine TNX-801 is designed to provide long-term protection from mpox and smallpox with one dose TNX-801 vaccination demonstrated efficacy in protecting animals from lethal challen\u2026 [+9524 chars]",
+      "retrievedAt": "2024-06-26 19:05:22.175592",
+      "internal_id": "96fb97a0941e351509f2fcc6be4b19ec2ae2fea623ab6f85b7adb37d94b35824",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10472,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Efe",
+      "title": "Sanidad da por \"controlado\" el brote de meningitis B en Fuerteventura",
+      "description": "La Consejer\u00eda de Sanidad del Gobierno de Canarias considera que el brote de meningitis B detectado en un centro educativo de Fuerteventura se encuentra controlado, aunque a\u00fan no cerrado, tras vacunar a 668 personas relacionadas con la instalaci\u00f3n y familiares\u2026",
+      "url": "https://www.eldiario.es/canariasahora/fuerteventuraahora/sanidad-da-controlado-brote-meningitis-b-fuerteventura_1_11476255.html",
+      "urlToImage": "https://static.eldiario.es/clip/6eeda5ab-5dcf-4d67-9f0a-442928aeb4b4_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-06-25 11:41:32",
+      "content": "La Consejer\u00eda de Sanidad del Gobierno de Canarias considera que el brote de meningitis B detectado en un centro educativo de Fuerteventura se encuentra controlado, aunque a\u00fan no cerrado, tras vacunar\u2026 [+1293 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.646758",
+      "internal_id": "8c5d18e9d124a0166c51d54302dcce9e1e66b6869ab498d7a0b45e4ff1478bda",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10469,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "VENESA DEVI",
+      "title": "Dengue cases up slightly in Johor this week",
+      "description": "JOHOR BARU: A total of 275 dengue cases have been reported statewide in the 25th epidemiological week (ME25), a slight increase from the previous week, says Ling Tian Soon. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/06/25/dengue-cases-up-slightly-in-johor-this-week",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/06/25/2767944.jpg",
+      "publishedAt": "2024-06-25 11:18:00",
+      "content": "JOHOR BARU: A total of 275 dengue cases have been reported statewide in the 25th epidemiological week (ME25), a slight increase from the previous week, says Ling Tian Soon. The Johor health and envi\u2026 [+1705 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.276421",
+      "internal_id": "0043625fb95705584f5ed3647101fa20d87c79096c3d2cffcdb279f9102a7813",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10478,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u042e\u0410\u0420 \u0432\u0432\u0435\u043b\u0430 \u0441\u0430\u043d\u0438\u0442\u0430\u0440\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043d\u0430 \u0432\u043d\u0435\u0448\u043d\u0438\u0445 \u0433\u0440\u0430\u043d\u0438\u0446\u0430\u0445 \u0438\u0437-\u0437\u0430 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u041c\u0435\u0440\u0430 \u043a\u0430\u0441\u0430\u0435\u0442\u0441\u044f \u0432\u0441\u0435\u0445 \u043f\u0443\u043d\u043a\u0442\u043e\u0432 \u0432\u044a\u0435\u0437\u0434\u0430 \u0432 \u0441\u0442\u0440\u0430\u043d\u0443, \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u044b",
+      "url": "https://tass.ru/obschestvo/21195533",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21195533?u=2024-06-25T11:10:11.873369",
+      "publishedAt": "2024-06-25 11:10:11",
+      "content": ", 25 . //. , mpox ( ). , , , . \" , - . - \". 13 mpox. . Mpox - , , . 1970 . mpox 1% 10%. . mpox , 85% .",
+      "retrievedAt": "2024-06-26 19:05:22.138028",
+      "internal_id": "81c3209bf33dfbd35c127bcbc35800a07450a3dfbd34c5a8d292a67efff76fdc",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10481,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412\u041e\u0417 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u043e \u0431\u043e\u043b\u0435\u0435 3,1 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u044f\u0445 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u043c\u0438\u0440\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430",
+      "description": "\u041e\u0431\u0449\u0435\u0435 \u0447\u0438\u0441\u043b\u043e \u0437\u0430\u0440\u0430\u0437\u0438\u0432\u0448\u0438\u0445\u0441\u044f \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 2022 \u0433\u043e\u0434\u0430 \u043f\u0440\u0435\u0432\u044b\u0441\u0438\u043b\u043e 97 \u0442\u044b\u0441.",
+      "url": "https://tass.ru/obschestvo/21195455",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21195455?u=2024-06-25T11:00:58.549231",
+      "publishedAt": "2024-06-25 11:00:58",
+      "content": ", 25 . //. 3,1 . mpox ( ) 2024 , 2022 97 . 117 , (). \" mpox ... 3,1 . \", - . 600 26 , . , , . 13 . - 9 291 419 . mpox , . , 1 2022 30 2024 117 97 208 mpox, 186 . 30 2022 (32 820). (11 212), (7 9\u2026 [+141 chars]",
+      "retrievedAt": "2024-06-26 19:05:22.153113",
+      "internal_id": "e5743173091dfa5bab4135c8760417b3897daf087c2691c4581397539f29eaf5",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10471,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "www.nationalgeographic.com.es, www.nationalgeographic.com.es",
+      "title": "Leishmaniasis en Europa: un desaf\u00edo emergente para el que no estamos preparados",
+      "description": "En las \u00faltimas d\u00e9cadas, el aumento de los casos de enfermedades tropicales transmitidas por vectores, como el dengue, la malaria y el chikungunya, han elevado la preocupaci\u00f3n por que este tipo de patolog\u00edas se extiendan por Europa. Los factores clim\u00e1ticos afe\u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/leishmaniasis-europa-desafio-emergente-para-que-no-estamos-preparados_22618",
+      "urlToImage": "https://content.nationalgeographic.com.es/medio/2024/06/25/leishmaniasis_8e125dc7_613841183_240625082242_1200x630.jpg",
+      "publishedAt": "2024-06-25 11:00:00",
+      "content": "En las \u00faltimas d\u00e9cadas, el aumento de los casos de enfermedades tropicales transmitidas por vectores, como el dengue, la malaria y el chikungunya, han elevado la preocupaci\u00f3n por que este tipo de pat\u2026 [+6828 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.331845",
+      "internal_id": "22893a6cda547cedfee11a16809f37fc005a038dbc8a0f96c7b7a516abe9ad74",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10474,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Tv9gujarati.com",
+      "author": "Tv9 Gujarati",
+      "title": "\u0aad\u0abe\u0ab0\u0aa4\u0aae\u0abe\u0a82 \u0a98\u0abe\u0aa4\u0a95 \u0a9d\u0abf\u0a95\u0abe \u0ab5\u0abe\u0aaf\u0ab0\u0ab8\u0aa8\u0ac0 \u0a8f\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ac0, \u0a9c\u0abe\u0aa3\u0acb \u0aa4\u0ac7\u0aa8\u0abe \u0ab2\u0a95\u0acd\u0ab7\u0aa3\u0acb, \u0aab\u0ac7\u0ab2\u0abe\u0ab5\u0abe\u0aa8\u0ac0 \u0ab0\u0ac0\u0aa4 \u0a85\u0aa8\u0ac7 \u0aa8\u0abf\u0ab5\u0abe\u0ab0\u0aa3\u0aa8\u0abe\u0a82 \u0aaa\u0a97\u0ab2\u0abe\u0a82",
+      "description": "Zika virus - \u0a9d\u0ac0\u0a95\u0abe \u0aa4\u0abe\u0ab5, \u0a9c\u0ac7\u0aa8\u0ac7 \u0a9d\u0abf\u0a95\u0abe \u0aa4\u0ab0\u0ac0\u0a95\u0ac7 \u0aaa\u0aa3 \u0a93\u0ab3\u0a96\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0ac7 \u0a9b\u0ac7, \u0a8f \u0a8f\u0a95 \u0ab0\u0acb\u0a97 \u0a9b\u0ac7 \u0a9c\u0ac7 \u0aa4\u0aae\u0aa8\u0ac7 \u0a8f\u0aa1\u0ac0\u0ab8 \u0a8f\u0a9c\u0ac0\u0aaa\u0acd\u0a9f\u0ac0 \u0a85\u0aa8\u0ac7 \u0a8f\u0aa1\u0ac0\u0ab8 \u0a86\u0ab2\u0acd\u0aac\u0acb\u0aaa\u0abf\u0a95\u0a9f\u0ab8 \u0aae\u0a9a\u0acd\u0a9b\u0ab0\u0aa5\u0ac0 \u0aa5\u0a88 \u0ab6\u0a95\u0ac7 \u0a9b\u0ac7. \u0a86 \u0aae\u0a9a\u0acd\u0a9b\u0ab0\u0acb \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0aa8\u0abe \u0a98\u0aa3\u0abe \u0aad\u0abe\u0a97\u0acb\u0aae\u0abe\u0a82 \u0a9c\u0acb\u0ab5\u0abe \u0aae\u0ab3\u0ac7 \u0a9b\u0ac7.",
+      "url": "https://tv9gujarati.com/health/deadly-zika-virus-enters-india-know-its-symptoms-ways-of-spreading-and-prevention-measures-1048002.html",
+      "urlToImage": "https://images.tv9gujarati.com/wp-content/uploads/2024/06/Zika-virus.jpg",
+      "publishedAt": "2024-06-25 10:47:45",
+      "content": "Zika virus - , , . . Dhinal Chavda | Updated on: Jun 25, 2024 | 4:12 PM . . 46 . . , . , . ? . . , . \u2013 . . , , . . . . . , , , , . . . . . . , , , . . . g clip-path=\"url(#clip0_868_265\u2026 [+5 chars]",
+      "retrievedAt": "2024-06-26 19:05:21.415456",
+      "internal_id": "dfbbfdb867d0a3dfbcb163bfe497f305fdd72c6d420db6214dc42918f1d9cbca",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10462,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Charles Ebikeme",
+      "title": "How Paris is preparing for the health threats of the Olympic Games",
+      "description": "The first Summer Olympics since the height of the pandemic will be grappling with heatwaves, dengue, and the wider problems of inequity that come with hosting the world\u2019s biggest sporting event. Charles Ebikeme reports Hot and humid conditions now play an in\u2026",
+      "url": "https://www.bmj.com/content/385/bmj.q1263",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/385/8433.cover-source.jpg",
+      "publishedAt": "2024-06-25 09:26:24",
+      "content": "Charles Ebikeme, freelance journalistParis and London charles.ebikeme{at}gmail.com The first Summer Olympics since the height of the pandemic w\u2026 [+1532 chars]",
+      "retrievedAt": "2024-06-26 19:05:20.183096",
+      "internal_id": "fa2cabb521f78c962471ca2f78110acc34ef5d0189e119753580db4082430e12",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10454,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Zulfikar Abbany",
+      "title": "Vogelgrippe? Schweinegrippe? Ein Leitfaden zu H5N1-Viren",
+      "description": "Bist Du verwirrt von der Abk\u00fcrzung H5N1 bei Vogelgrippe oder H1N1 bei Spanischer Grippe? Die Influenza vom Typ A hat 130 bekannte Subtypen. Aber welche sind f\u00fcr uns Menschen gef\u00e4hrlich? Wer aufmerksam und regelm\u00e4\u00dfig den Nachrichten \u00fcber Influenzaviren folgt, \u2026",
+      "url": "https://www.dw.com/de/vogelgrippe-schweinegrippe-ein-leitfaden-zu-h5n1-viren/a-69457814",
+      "urlToImage": "https://static.dw.com/image/64794540_6.jpg",
+      "publishedAt": "2024-06-25 08:34:00",
+      "content": "Wer aufmerksam und regelm\u00e4\u00dfig den Nachrichten \u00fcber Influenzaviren folgt, der wei\u00df vermutlich, dass sie oft die Zusatzbezeichnungen wie \"H\" und \"N\" haben, wie zum Beispiel H5N1 oder H9N2. Dies sind B\u2026 [+6325 chars]",
+      "retrievedAt": "2024-06-26 19:05:19.775409",
+      "internal_id": "07025f81f9724acef7164f9f5e97e00585e8aab39362d7d72f05177f7020de0f",
+      "publishedAtLabel": "Jun 25"
+    },
     {
       "id": 10445,
       "query": [
@@ -24596,169 +25246,6 @@
       "retrievedAt": "2024-05-14 07:06:39.254296",
       "internal_id": "00046bd772f85527639d1ae5775f0ac5006b23f97d33b3b0c839dde336b25bce",
       "publishedAtLabel": "May 13"
-    },
-    {
-      "id": 9090,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Jungewelt.de",
-      "author": "Gerrit Hoekman",
-      "title": "Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]",
-      "description": "Laut britischen Forschern k\u00f6nnte sich das Verbreitungsgebiet der Krankheit durch Wasserknappheit in Afrika verlagern.",
-      "url": "https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html",
-      "urlToImage": "https://www.jungewelt.de/img/1100/194842.jpg",
-      "publishedAt": "2024-05-12 17:37:53",
-      "content": "Uneingeschr\u00e4nkter Zugriff auf alle Inhalte: Erleben Sie die Tageszeitung junge Welt in gedruckter oder digitaler Form oder beides kombiniert. Nachrichtenauswahl und -aufbereitung erfordern finanziel\u2026 [+458 chars]",
-      "retrievedAt": "2024-05-13 19:05:19.009623",
-      "internal_id": "9b89f04b0191c98b004061d5552b21c33276071be45d33faaa916e9e2d7c562b",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9087,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Ag\u00eancia Fapesp",
-      "title": "Monitoramento mostra que \u00e9 poss\u00edvel prever epidemias de chikungunya por meio de vigil\u00e2ncia",
-      "description": "Estudo realizado em S\u00e3o Jos\u00e9 do Rio Preto descobriu que o v\u00edrus conhecido por provocar epidemias massivas tamb\u00e9m pode circular silenciosamente por uma comunidade, provocando poucas infec\u00e7\u00f5es durante anos. Novo perfil do chikungunya refor\u00e7a a import\u00e2ncia de fa\u2026",
-      "url": "https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/05/chikungunya-fapesp.jpg",
-      "publishedAt": "2024-05-12 15:07:47",
-      "content": "Texto: Maria Fernanda Ziegler | Ag\u00eancia FAPESP Conhecido por provocar epidemias massivas at\u00e9 mais impactantes que as de dengue , o v\u00edrus do chikungunya pode tamb\u00e9m apresentar um perfil menos intenso\u2026 [+4913 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.940074",
-      "internal_id": "f88230cf667e1df9939474f657a44e390412cd9c9e5b8f552c90558f548fbede",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9084,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Kevinmd.com",
-      "author": "Dr. Roxanne Becker",
-      "title": "Eating our way to the next pandemic",
-      "description": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic could be around the corner, and the food we choose to purchase \u2026",
-      "url": "https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html",
-      "urlToImage": "https://www.kevinmd.com/wp-content/uploads/shutterstock_2169452695.jpg",
-      "publishedAt": "2024-05-12 15:00:45",
-      "content": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic cou\u2026 [+5251 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.348008",
-      "internal_id": "02a1befaf085db5997a8e6a23b16dfc87efdab2ac46bbc11db65fca5749c2c10",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9083,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Futura",
-      "author": "Diana Bell, Professeur de biologie de la conservation, University of East Anglia \u2013 The Conversation",
-      "title": "Les animaux vivent d\u00e9j\u00e0 la prochaine pand\u00e9mie",
-      "description": "Ces derni\u00e8res ann\u00e9es, la grippe aviaire H5N1 a provoqu\u00e9 la mort de millions de volailles et d'oiseaux mais aussi de nombreux mammif\u00e8res. Ce virus qui semble s'affranchir de toutes les barri\u00e8res deviendra-t-il une menace pand\u00e9mique pour la biodiversit\u00e9 dans so\u2026",
-      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/",
-      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/f/7/cf74a6d59a_50215931_mouette-tridactyle.jpg",
-      "publishedAt": "2024-05-12 12:54:56",
-      "content": "Quelle sera la prochaine pand\u00e9mie ? Je suis une biologiste de la conservation et j'\u00e9tudie les maladies infectieuses \u00e9mergentes. Quand on me demande quelle sera la prochaine pand\u00e9mie, je r\u00e9ponds souve\u2026 [+7162 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.339476",
-      "internal_id": "a84ea503fedd7f1ac3b05f99f4c90265ee8a11e65f8c256aff70e956131ed8b4",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9089,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Zhaki Abdullah",
-      "title": "High worldwide dengue numbers may not impact Singapore: Experts",
-      "description": "Low visitor traffic from South America and diversity of strains in Singapore are among factors cited. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts",
-      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/05/12/2024022590212087gin8446.jpg?VersionId=vvNZ9EWHqfSrd4iFniVTnjtTGI9KcvCY",
-      "publishedAt": "2024-05-12 12:44:29",
-      "content": "SINGAPORE Even as dengue numbers soar worldwide, experts say it remains to be seen how the record figures elsewhere will impact the number of infections in Singapore. To date, there have been more \u2026 [+2599 chars]",
-      "retrievedAt": "2024-05-13 19:05:18.003818",
-      "internal_id": "727876864f7933c46fcd96e0bc2e83db0b17f44df127f56e13aa909da894ab26",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9088,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension",
-      "description": "The authorities first got suspicious last November when health officials were denied entry to her home for dengue-prevention measures.",
-      "url": "https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391",
-      "urlToImage": "https://c.ndtvimg.com/2023-04/bvih5i2g_crime-scene_625x300_03_April_23.jpg",
-      "publishedAt": "2024-05-12 11:19:06",
-      "content": "Upon investigation, police found that the man had been dead for a long time. A woman in Taiwan has been accused of hiding her dead father's body in her home for years to claim his military pension. \u2026 [+2159 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.955426",
-      "internal_id": "5248731708cdfd7954e9181bfde30335b8537f7c3ec9a9248bfc362b58fc6e45",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9085,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Adevarul.ro",
-      "author": "Afrodita Cicovschi",
-      "title": "Gripa aviar\u0103 la fermele de vaci. Cum \u00eencearc\u0103 SUA s\u0103 limiteze r\u0103sp\u00e2ndirea virusului",
-      "description": "Administra\u021bia Biden \u00eencearc\u0103 din r\u0103sputeri s\u0103 limiteze r\u0103sp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijor\u0103rile legate de infec\u021biile umane cu virusul H5N1, scrie Reuters.",
-      "url": "https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html",
-      "urlToImage": "https://cdn.adh.reperio.news/image-c/ca1a7021-d283-4761-bda8-95aff2d28406/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-      "publishedAt": "2024-05-12 10:55:08",
-      "content": "Administraia Biden \u00eencearc din rsputeri s limiteze rsp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijorrile legate de infeciile umane cu virusul H5N1, scrie Reuters. Administraia \u2026 [+2783 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.361888",
-      "internal_id": "cb6c5efd69cd8e0d5f36f551f55c7ae3eac7e45080a542c7cbb079419e3f5ab2",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9086,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Almayadeen.net",
-      "author": "\u0627\u0644\u0645\u064a\u0627\u062f\u064a\u0646 \u0646\u062a",
-      "title": "\u0627\u0644\u0623\u0628\u0642\u0627\u0631 \u0642\u062f \u062a\u0646\u0642\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0627\u0644\u0628\u0634\u0631.. \u0643\u064a\u0641\u061f",
-      "description": "\u062f\u0631\u0627\u0633\u0629 \u062c\u062f\u064a\u062f\u0629 \u0644\u0639\u0644\u0645\u0627\u0621 \u0641\u064a \u0627\u0644\u0635\u062d\u0629 \u062a\u0638\u0647\u0631 \u0623\u0646\u0651 \u0623\u0643\u064a\u0627\u0633 \u0636\u0631\u0639 \u0627\u0644\u0628\u0642\u0631 \u0627\u0644\u062b\u062f\u064a\u064a\u0629 \u0642\u062f \u062a\u0635\u0628\u062d \"\u0623\u0648\u0639\u064a\u0629 \u062e\u0644\u0637\" \u0645\u062d\u0645\u0651\u0644\u0629 \u0628\u0645\u0633\u062a\u0642\u0628\u0644\u0627\u062a \u0627\u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0627\u0644\u0637\u064a\u0648\u0631 \u0648\u062a\u0633\u0627\u0639\u062f \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u0639\u0644\u0649 \u0627\u0644\u0627\u0646\u062a\u0634\u0627\u0631 \u0628\u064a\u0646 \u0627\u0644\u0628\u0634\u0631 \u0645\u062b\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 (H5N1).. \u0648\u0627\u0644\u062c\u062f\u0644 \u064a\u062a\u0648\u0627\u0635\u0644 \u062d\u0648\u0644 \u0635\u062d\u0629 \u0627\u0644\u0623\u0644\u0628\u0627\u0646!",
-      "url": "https://www.almayadeen.net/health/\u0627\u0644\u0623\u0628\u0642\u0627\u0631-\u0642\u062f-\u062a\u0646\u0642\u0644-\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627-\u0627\u0644\u0637\u064a\u0648\u0631-\u0625\u0644\u0649-\u0627\u0644\u0628\u0634\u0631---\u0643\u064a\u0641",
-      "urlToImage": "https://alpha-ar-media.almayadeen.net/media/image/2024/5/12/d06f4808-ce20-4113-a8ab-c110693c3f94.png?v=2&width=1000",
-      "publishedAt": "2024-05-12 08:54:54",
-      "content": "\" \" (H5N1) \"\" \" \" \"BioRxiv\" \"WEb Med\". . (H5N1). . . Many people are wondering how we can monitor this H5N1 situation. We sequence the whole virome from wastewater, and, well, H5N1 starte\u2026 [+574 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.408221",
-      "internal_id": "0bfb1e1b5f252d6082d222066eba0fbfd5c00f340cce4de7fb8d558713f0feb9",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9082,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Dogs entering US must be 6 months old, microchipped to prevent rabies spread",
-      "description": "New York \u2014 All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new rules require vaccination for dogs that have be\u2026",
-      "url": "https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html",
-      "urlToImage": "https://gdb.voanews.com/6633B470-639B-4589-882A-3066C2D759A1.jpg",
-      "publishedAt": "2024-05-12 07:07:40",
-      "content": "New York All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday\u2026 [+3079 chars]",
-      "retrievedAt": "2024-05-13 19:05:15.872833",
-      "internal_id": "d8312d1a3a146431fe86ca9d38efa3dc47fa299be6919e26fd1c609f7279b62c",
-      "publishedAtLabel": "May 12"
     }
   ]
 }
