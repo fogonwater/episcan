@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-06-25 19:06
-- **Most recent article:** 2024-06-24 18:06:01
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-06-26 07:06
+- **Most recent article:** 2024-06-25 05:45:05
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 84 | 58 | 61 | 64 | 115 | 62 | 24 | 468 |
-| h5n1 | 56 | 95 | 65 | 78 | 55 | 29 | 6 | 384 |
-| malaria | 12 | 17 | 25 | 21 | 37 | 20 | 4 | 136 |
+| dengue | 87 | 58 | 61 | 64 | 115 | 62 | 31 | 478 |
+| h5n1 | 60 | 95 | 65 | 78 | 55 | 29 | 7 | 389 |
+| malaria | 13 | 17 | 25 | 21 | 37 | 20 | 4 | 137 |
 | measles | 29 | 15 | 16 | 11 | 7 | 11 | 0 | 89 |
 | mpox | 10 | 9 | 16 | 8 | 26 | 14 | 2 | 85 |
-| chikungunya | 11 | 3 | 18 | 5 | 14 | 5 | 3 | 59 |
-| rabies | 9 | 8 | 15 | 9 | 2 | 5 | 3 | 51 |
+| chikungunya | 12 | 3 | 18 | 5 | 14 | 5 | 3 | 60 |
+| rabies | 10 | 8 | 15 | 9 | 2 | 5 | 3 | 52 |
 | pertussis | 5 | 6 | 6 | 9 | 11 | 11 | 0 | 48 |
 | hpai | 3 | 7 | 12 | 2 | 4 | 4 | 2 | 34 |
 | zika | 6 | 3 | 3 | 0 | 12 | 3 | 2 | 29 |
@@ -74,6 +74,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (h5n1)
 
+- [사람만이 아니었네... 소·돼지도 '필수 의료 공백'](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003041053) (Ohmynews.com)
+
 - [‘A head-in-the-sand approach’: The U.S. strategic drug stockpile is inadequate for a bird flu outbreak](https://fortune.com/2024/06/24/us-strategic-drug-stockpile-inadequate-bird-flu-outbreak/) (Fortune)
 
 - [Influenza aviaria da virus A(H5N1): perché non dobbiamo sottovalutarla](https://www.galileonet.it/influenza-aviaria-ah5n1-non-dobbiamo-sottovalutarla/) (Galileonet.it)
@@ -87,6 +89,20 @@ Source: [News API](https://newsapi.org/)
 - [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
+
+- [Cegah Demam Berdarah Dengue, Kodim 0826/Pamekasan Lakukan Fogging](https://suaraindonesia-news.com/cegah-demam-berdarah-dengue-kodim-0826-pamekasan-lakukan-fogging/) (Suaraindonesia-news.com)
+
+- [Bengaluru dengue cases double. BBMP commissioner infected. Hyderabad warned](https://economictimes.indiatimes.com/news/india/bengaluru-dengue-cases-double-bbmp-commissioner-infected-hyderabad-warned/articleshow/111247662.cms) (The Times of India)
+
+- [Hillsborough County has confirmed case of locally transmitted dengue fever](https://www.fox13news.com/news/hillsborough-county-has-confirmed-case-locally-transmitted-dengue-fever) (FOX 13 Tampa Bay)
+
+- [BBMP chief tests positive for dengue](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-chief-tests-positive-for-dengue/articleshow/111243288.cms) (The Times of India)
+
+- [Sem doses com validade próxima, DF não amplia vacinação contra dengue](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-06-24/sem-doses-com-validade-proxima--df-nao-amplia-vacinacao-contra-dengue.html) (Ig.com.br)
+
+- [How one Brazilian city is tackling the surge of dengue cases](https://www.npr.org/2024/06/24/nx-s1-5009918/how-one-brazilian-city-is-tackling-the-surge-of-dengue-cases) (NPR)
+
+- [Ministério da Saúde amplia faixa etária de vacina contra a dengue](https://delas.ig.com.br/parceiros/selecoes/2024-06-24/ministerio-da-saude-amplia-faixa-etaria-de-vacina-contra-a-dengue.html) (Ig.com.br)
 
 - [Dengue: Campinas imuniza 15,5% do público-alvo, e doses seguem disponíveis nos centros de saúde](https://g1.globo.com/sp/campinas-regiao/noticia/2024/06/24/dengue-campinas-imuniza-155percent-do-publico-alvo-e-doses-seguem-disponiveis-nos-centros-de-saude.ghtml) (Globo)
 
@@ -2602,6 +2618,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies alert: BSF Meghalaya steps up prevention efforts in Muktapur](https://www.syllad.com/rabies-alert-bsf-meghalaya-steps-up-prevention-efforts-in-muktapur/) (Syllad.com)
 
+- [Dogs entering US must be 6 months old, microchipped to prevent rabies spread](https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html) (VOA News)
+
 ## 24-20 (pertussis)
 
 - [Health Department confirms 6 whooping cough cases in Lexington: What to look out for?](https://www.wkyt.com/2024/05/17/health-department-confirms-6-whooping-cough-cases-lexington-what-look-out/) (WKYT)
@@ -2742,6 +2760,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Distribution and dynamics of Anopheles gambiae s.l. larval habitats in three Senegalese cities with high urban malaria incidence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303473) (Plos.org)
 
+- [Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]](https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html) (Jungewelt.de)
+
 ## 24-20 (leptospirosis)
 
 - [Factors associated with differential seropositivity to Leptospira interrogans and Leptospira kirschneri in a high transmission urban setting for leptospirosis in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011292) (Plos.org)
@@ -2871,6 +2891,14 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, il virus rilevato nelle acque reflue in nove città del Texas. Attesa per il monitoraggio dei Cdc Usa](https://www.ilfattoquotidiano.it/2024/05/13/aviaria-il-virus-rilevato-nelle-acque-reflue-in-nove-citta-del-texas-attesa-per-il-monitoraggio-dei-cdc-usa/7546403/) (Ilfattoquotidiano.it)
 
 - [CDC wastewater surveillance dashboard to track bird flu hotspots](https://www.statnews.com/2024/05/13/cdc-wastewater-surveillance-dashboard-bird-flu-outbreak-monitor/) (STAT)
+
+- [Eating our way to the next pandemic](https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html) (Kevinmd.com)
+
+- [Les animaux vivent déjà la prochaine pandémie](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/) (Futura)
+
+- [Gripa aviară la fermele de vaci. Cum încearcă SUA să limiteze răspândirea virusului](https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html) (Adevarul.ro)
+
+- [الأبقار قد تنقل إنفلونزا الطيور إلى البشر.. كيف؟](https://www.almayadeen.net/health/الأبقار-قد-تنقل-إنفلونزا-الطيور-إلى-البشر---كيف) (Almayadeen.net)
 
 ## 24-20 (dengue)
 
@@ -3042,6 +3070,12 @@ Source: [News API](https://newsapi.org/)
 
 - [What should I look out for when choosing a mosquito repellent?](https://www.straitstimes.com/singapore/health/what-should-i-look-out-for-when-choosing-a-mosquito-repellent) (The Straits Times)
 
+- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)
+
+- [High worldwide dengue numbers may not impact Singapore: Experts](https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts) (The Straits Times)
+
+- [Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension](https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391) (NDTV News)
+
 ## 24-20 (chikungunya)
 
 - [Gov't issues alert to schools on possible health risks due to flooding](https://www.citizen.digital/news/govt-issues-alert-to-schools-on-possible-health-risks-due-to-flooding-n342359) (Citizen.digital)
@@ -3065,3 +3099,5 @@ Source: [News API](https://newsapi.org/)
 - [Valneva Reports Further Positive Pivotal Phase 3 Data in Adolescents for its Single-Shot Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/en/Valneva-Reports-Further-Positive-Pivotal-Phase-3-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-Vaccine.html) (GlobeNewswire)
 
 - [Valneva annonce de nouveaux résultats positifs chez les adolescents pour l’étude pivot de Phase 3 de son vaccin à dose unique contre le chikungunya](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/fr/Valneva-annonce-de-nouveaux-r%C3%A9sultats-positifs-chez-les-adolescents-pour-l-%C3%A9tude-pivot-de-Phase-3-de-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya.html) (GlobeNewswire)
+
+- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)
