@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 36
-- **Last harvest:** 2024-06-26 19:05
-- **Most recent article:** 2024-06-25 19:04:26
+- **New articles in last harvest:** 25
+- **Last harvest:** 2024-06-27 07:05
+- **Most recent article:** 2024-06-26 06:55:57
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 84 | 58 | 61 | 64 | 115 | 62 | 44 | 488 |
-| h5n1 | 56 | 95 | 65 | 78 | 55 | 29 | 12 | 390 |
-| malaria | 12 | 17 | 25 | 21 | 37 | 20 | 6 | 138 |
-| mpox | 10 | 9 | 16 | 8 | 26 | 14 | 15 | 98 |
+| dengue | 87 | 58 | 61 | 64 | 115 | 62 | 58 | 505 |
+| h5n1 | 60 | 95 | 65 | 78 | 55 | 29 | 16 | 398 |
+| malaria | 13 | 17 | 25 | 21 | 37 | 20 | 9 | 142 |
+| mpox | 10 | 9 | 16 | 8 | 26 | 14 | 19 | 102 |
 | measles | 29 | 15 | 16 | 11 | 7 | 11 | 1 | 90 |
-| chikungunya | 11 | 3 | 18 | 5 | 14 | 5 | 4 | 60 |
-| rabies | 9 | 8 | 15 | 9 | 2 | 5 | 3 | 51 |
+| chikungunya | 12 | 3 | 18 | 5 | 14 | 5 | 5 | 62 |
+| rabies | 10 | 8 | 15 | 9 | 2 | 5 | 3 | 52 |
 | pertussis | 5 | 6 | 6 | 9 | 11 | 11 | 0 | 48 |
 | hpai | 3 | 7 | 12 | 2 | 4 | 4 | 2 | 34 |
-| zika | 6 | 3 | 3 | 0 | 12 | 3 | 3 | 30 |
+| zika | 6 | 3 | 3 | 0 | 12 | 3 | 4 | 31 |
 | meningitis | 9 | 4 | 1 | 6 | 3 | 1 | 1 | 25 |
 | leptospirosis | 3 | 0 | 5 | 1 | 1 | 1 | 0 | 11 |
 | typhoid | 2 | 0 | 0 | 1 | 1 | 2 | 2 | 8 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-26 (zika)
+
+- [Hyundai Bioscience succeeds in developing 'Multi-treatment for mosquito-borne viral infections' including Dengue Fever](https://www.investing.com/news/press-releases/hyundai-bioscience-succeeds-in-developing-multitreatment-for-mosquitoborne-viral-infections-including-dengue-fever-93CH-3496763) (Investing.com)
 
 - [ભારતમાં ઘાતક ઝિકા વાયરસની એન્ટ્રી, જાણો તેના લક્ષણો, ફેલાવાની રીત અને નિવારણનાં પગલાં](https://tv9gujarati.com/health/deadly-zika-virus-enters-india-know-its-symptoms-ways-of-spreading-and-prevention-measures-1048002.html) (Tv9gujarati.com)
 
@@ -55,6 +57,14 @@ Source: [News API](https://newsapi.org/)
 - [AstriVax enters clinical phase with its novel vaccine platform technology](https://www.globenewswire.com/news-release/2024/06/24/2902721/0/en/AstriVax-enters-clinical-phase-with-its-novel-vaccine-platform-technology.html) (GlobeNewswire)
 
 ## 24-26 (mpox)
+
+- [WHO, Scientists Call for Urgent Action on Dangerous Mpox Strain](https://www.insurancejournal.com/news/international/2024/06/26/781136.htm) (Insurance Journal)
+
+- [New mpox strain in DR Congo 'most dangerous yet'](https://www.bbc.com/news/articles/c2vv0pgggqzo) (BBC News)
+
+- [San Diego County reports surge in Mpox, monkeypox cases](https://fox5sandiego.com/news/health/san-diego-county-records-rise-in-mpox-cases/) (fox5sandiego.com)
+
+- [News24 | Another KZN man dies of Mpox, Gauteng detects two more cases](https://www.news24.com/news24/southafrica/news/another-kzn-man-dies-of-mpox-gauteng-detects-two-more-cases-20240625) (News24)
 
 - [В ЮАР за июнь зафиксировали третью смерть от mpox](https://tass.ru/obschestvo/21199965) (Tass.ru)
 
@@ -96,6 +106,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (malaria)
 
+- [RNA polymerase III is involved in regulating Plasmodium falciparum virulence](https://elifesciences.org/articles/95879) (Elifesciences.org)
+
+- [Civil society urges Anambra to boost healthcare through local investments](https://punchng.com/civil-society-urges-anambra-to-boost-healthcare-through-local-investments/) (The Punch)
+
+- [Drugs are more effective at certain times of day](https://www.technologyreview.com/2024/06/25/1093099/drugs-are-more-effective-at-certain-times-of-day/) (MIT Technology Review)
+
 - [Malaria drug shows promise as treatment for common hormone disorder](https://www.livescience.com/health/medicine-drugs/malaria-drug-shows-promise-as-treatment-for-common-hormone-disorder) (Live Science)
 
 - [Leishmaniasis en Europa: un desafío emergente para el que no estamos preparados](https://www.nationalgeographic.com.es/ciencia/leishmaniasis-europa-desafio-emergente-para-que-no-estamos-preparados_22618) (Nationalgeographic.com.es)
@@ -115,6 +131,14 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
 
 ## 24-26 (h5n1)
+
+- [Agencias de sanidad de EE.UU. abren nuevas investigaciones sobre la gripe aviar H5N1 en trabajadores y productos lácteos](https://cnnespanol.cnn.com/2024/06/26/sanidad-eeuu-investigaciones-gripe-aviar-lacteos-trax/) (CNN)
+
+- [禽流感快速變異中，芬蘭施打疫苗成全球首例](https://technews.tw/2024/06/26/finland-launch-h5na-vaccine/) (Technews.tw)
+
+- [US health agencies launch new studies of H5N1 bird flu in dairy workers and dairy products | CNN](https://www.cnn.com/2024/06/25/health/new-studies-bird-flu-dairy-workers-and-dairy-products/index.html) (CNN)
+
+- [Michigan launches first effort of its kind to detect silent bird flu infections in workers](https://www.statnews.com/2024/06/25/bird-flu-michigan-serology-study/) (STAT)
 
 - [Reuters: Финляндия первой в мире начинает вакцинацию от птичьего гриппа](https://overclockers.ru/blog/Global_Chronicles/show/165272/Reuters-Finlyandiya-pervoj-v-mire-nachinaet-vakcinaciju-ot-ptich-ego-grippa) (Overclockers.ru)
 
@@ -141,6 +165,34 @@ Source: [News API](https://newsapi.org/)
 - [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
+
+- [CDC Warns Of Increased Risk Of Dengue Infections: Know Symptoms, Steps For Prevention](https://www.medicaldaily.com/cdc-warns-increased-risk-dengue-infections-know-symptoms-steps-prevention-471890) (Medical Daily)
+
+- [U.S. CDC warns of unexpected increase in dengue cases](http://en.people.cn/n3/2024/0626/c90000-20185852.html) (People.cn)
+
+- [Health officials tell US doctors to be alert for dengue as cases ramp up](https://www.business-standard.com/world-news/health-officials-tell-us-doctors-to-be-alert-for-dengue-as-cases-ramp-up-124062600071_1.html) (Business Standard)
+
+- [Hyundai Bioscience succeeds in developing 'Multi-treatment for mosquito-borne viral infections' including Dengue Fever](https://www.investing.com/news/press-releases/hyundai-bioscience-succeeds-in-developing-multitreatment-for-mosquitoborne-viral-infections-including-dengue-fever-93CH-3496763) (Investing.com)
+
+- [CDC alerta provedores de saúde para aumento em casos de dengue nos EUA](https://www.terra.com.br/noticias/mundo/cdc-alerta-provedores-de-saude-para-aumento-em-casos-de-dengue-nos-eua,75d54f283eb62513570b5e44716210bbgam702wi.html) (Terra.com.br)
+
+- [CM orders urgent steps to rein in dengue](https://timesofindia.indiatimes.com/city/bengaluru/urgent-measures-taken-to-combat-dengue-outbreak-in-karnataka/articleshow/111270349.cms) (The Times of India)
+
+- [U.S. CDC warns of unexpected increase in dengue cases](https://www.thestar.com.my/news/world/2024/06/26/us-cdc-warns-of-unexpected-increase-in-dengue-cases) (The Star Online)
+
+- [U.S. officials warn doctors about dengue amid global surge](https://www.cbsnews.com/news/cdc-warn-doctors-dengue-record-cases-worldwide/) (CBS News)
+
+- [CDC Issues Warning of Increased Dengue Virus Risk Across US](https://www.theepochtimes.com/health/cdc-issues-warning-of-increased-dengue-virus-risk-across-us-5675206) (Theepochtimes.com)
+
+- [CDC warns of increased dengue fever risk in U.S.](https://www.washingtonpost.com/health/2024/06/25/dengue-fever-outbreak-warning-mosquito/) (The Washington Post)
+
+- [What to Know About Dengue Virus as U.S. Sees Increased Risk of Infection](https://time.com/6991847/what-to-know-about-dengue-fever/) (Time)
+
+- [What To Know About Dengue, As CDC Warns Of Possible U.S. Outbreak](https://www.forbes.com/sites/brianbushard/2024/06/25/what-to-know-about-dengue-as-cdc-warns-of-possible-us-outbreak/) (Forbes)
+
+- [As dengue fever cases ramp up worldwide, health officials tell U.S. doctors to stay alert](https://www.pbs.org/newshour/health/as-dengue-fever-cases-ramp-up-worldwide-health-officials-tell-u-s-doctors-to-stay-alert) (PBS)
+
+- [US CDC alerts healthcare providers of increase in dengue cases](https://www.investing.com/news/general-news/us-cdc-alerts-healthcare-providers-of-increase-in-dengue-cases-3496377) (Investing.com)
 
 - [CDC issues dengue fever alert in the U.S.](https://www.nbcnews.com/news/latino/cdc-warns-increased-dengue-fever-risk-us-rcna158851) (NBC News)
 
@@ -231,6 +283,8 @@ Source: [News API](https://newsapi.org/)
 - [Ministério da Saúde amplia faixa etária para vacina da dengue em doses prestes a vencer; veja regras](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-amplia-faixa-etaria-para-vacina-da-dengue-em-doses-prestes-a-vencer-veja-regras,d8a927124262198f72703decbd358b98mgwk9ov5.html) (Terra.com.br)
 
 ## 24-26 (chikungunya)
+
+- [Hyundai Bioscience succeeds in developing 'Multi-treatment for mosquito-borne viral infections' including Dengue Fever](https://www.investing.com/news/press-releases/hyundai-bioscience-succeeds-in-developing-multitreatment-for-mosquitoborne-viral-infections-including-dengue-fever-93CH-3496763) (Investing.com)
 
 - [Leishmaniasis en Europa: un desafío emergente para el que no estamos preparados](https://www.nationalgeographic.com.es/ciencia/leishmaniasis-europa-desafio-emergente-para-que-no-estamos-preparados_22618) (Nationalgeographic.com.es)
 
@@ -2698,6 +2752,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies alert: BSF Meghalaya steps up prevention efforts in Muktapur](https://www.syllad.com/rabies-alert-bsf-meghalaya-steps-up-prevention-efforts-in-muktapur/) (Syllad.com)
 
+- [Dogs entering US must be 6 months old, microchipped to prevent rabies spread](https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html) (VOA News)
+
 ## 24-20 (pertussis)
 
 - [Health Department confirms 6 whooping cough cases in Lexington: What to look out for?](https://www.wkyt.com/2024/05/17/health-department-confirms-6-whooping-cough-cases-lexington-what-look-out/) (WKYT)
@@ -2838,6 +2894,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Distribution and dynamics of Anopheles gambiae s.l. larval habitats in three Senegalese cities with high urban malaria incidence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303473) (Plos.org)
 
+- [Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]](https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html) (Jungewelt.de)
+
 ## 24-20 (leptospirosis)
 
 - [Factors associated with differential seropositivity to Leptospira interrogans and Leptospira kirschneri in a high transmission urban setting for leptospirosis in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011292) (Plos.org)
@@ -2967,6 +3025,14 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, il virus rilevato nelle acque reflue in nove città del Texas. Attesa per il monitoraggio dei Cdc Usa](https://www.ilfattoquotidiano.it/2024/05/13/aviaria-il-virus-rilevato-nelle-acque-reflue-in-nove-citta-del-texas-attesa-per-il-monitoraggio-dei-cdc-usa/7546403/) (Ilfattoquotidiano.it)
 
 - [CDC wastewater surveillance dashboard to track bird flu hotspots](https://www.statnews.com/2024/05/13/cdc-wastewater-surveillance-dashboard-bird-flu-outbreak-monitor/) (STAT)
+
+- [Eating our way to the next pandemic](https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html) (Kevinmd.com)
+
+- [Les animaux vivent déjà la prochaine pandémie](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/) (Futura)
+
+- [Gripa aviară la fermele de vaci. Cum încearcă SUA să limiteze răspândirea virusului](https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html) (Adevarul.ro)
+
+- [الأبقار قد تنقل إنفلونزا الطيور إلى البشر.. كيف؟](https://www.almayadeen.net/health/الأبقار-قد-تنقل-إنفلونزا-الطيور-إلى-البشر---كيف) (Almayadeen.net)
 
 ## 24-20 (dengue)
 
@@ -3138,6 +3204,12 @@ Source: [News API](https://newsapi.org/)
 
 - [What should I look out for when choosing a mosquito repellent?](https://www.straitstimes.com/singapore/health/what-should-i-look-out-for-when-choosing-a-mosquito-repellent) (The Straits Times)
 
+- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)
+
+- [High worldwide dengue numbers may not impact Singapore: Experts](https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts) (The Straits Times)
+
+- [Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension](https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391) (NDTV News)
+
 ## 24-20 (chikungunya)
 
 - [Gov't issues alert to schools on possible health risks due to flooding](https://www.citizen.digital/news/govt-issues-alert-to-schools-on-possible-health-risks-due-to-flooding-n342359) (Citizen.digital)
@@ -3161,3 +3233,5 @@ Source: [News API](https://newsapi.org/)
 - [Valneva Reports Further Positive Pivotal Phase 3 Data in Adolescents for its Single-Shot Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/en/Valneva-Reports-Further-Positive-Pivotal-Phase-3-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-Vaccine.html) (GlobeNewswire)
 
 - [Valneva annonce de nouveaux résultats positifs chez les adolescents pour l’étude pivot de Phase 3 de son vaccin à dose unique contre le chikungunya](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/fr/Valneva-annonce-de-nouveaux-r%C3%A9sultats-positifs-chez-les-adolescents-pour-l-%C3%A9tude-pivot-de-Phase-3-de-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya.html) (GlobeNewswire)
+
+- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)

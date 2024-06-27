@@ -1,8 +1,460 @@
 {
-  "last_updated": "2024-06-26 19:05",
-  "count_articles_total": 1398,
-  "count_articles_new": 36,
+  "last_updated": "2024-06-27 07:05",
+  "count_articles_total": 1432,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 10496,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "CDC Warns Of Increased Risk Of Dengue Infections: Know Symptoms, Steps For Prevention",
+      "description": "Healthcare providers are advised to remain highly vigilant for dengue in patients presenting with fever and a recent travel history to regions with frequent or continuous dengue transmission.",
+      "url": "https://www.medicaldaily.com/cdc-warns-increased-risk-dengue-infections-know-symptoms-steps-prevention-471890",
+      "urlToImage": "https://d.medicaldaily.com/en/full/472738/dengue-fever.jpg",
+      "publishedAt": "2024-06-26 06:55:57",
+      "content": "The U.S. Centers for Disease Control and Prevention (CDC) has issued an urgent alert to healthcare providers and the public to remain vigilant for cases of dengue fever, as the global incidence has r\u2026 [+2883 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.222720",
+      "internal_id": "3505a51133240a7e980fe0c9fdc0f752bba823dde04386883ee984ad50680b5d",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10510,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Insurance Journal",
+      "author": "Admin",
+      "title": "WHO, Scientists Call for Urgent Action on Dangerous Mpox Strain",
+      "description": "The spread of mpox in Africa needs to be addressed urgently, the World Health Organization said on Tuesday, as scientists warned separately of a dangerous strain in the Democratic Republic of Congo. \u201cThere is a critical need to address the \u2026",
+      "url": "https://www.insurancejournal.com/news/international/2024/06/26/781136.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2024/06/mpox-within-infected-cell-AP-580x498.jpg",
+      "publishedAt": "2024-06-26 06:48:25",
+      "content": "The spread of mpox in Africa needs to be addressed urgently, the World Health Organization said on Tuesday, as scientists warned separately of a dangerous strain in the Democratic Republic of Congo. \u2026 [+2838 chars]",
+      "retrievedAt": "2024-06-27 07:05:47.792330",
+      "internal_id": "ad04623a8f98304e23335bb1ca72a1b969609308a3229af2432f9235ec11bf22",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10504,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "U.S. CDC warns of unexpected increase in dengue cases",
+      "description": "LOS ANGELES, June 25 (Xinhua) -- The U.S. Centers for Disease Control and Prevention (CDC) issued a",
+      "url": "http://en.people.cn/n3/2024/0626/c90000-20185852.html",
+      "urlToImage": null,
+      "publishedAt": "2024-06-26 05:30:54",
+      "content": "LOS ANGELES, June 25 (Xinhua) -- The U.S. Centers for Disease Control and Prevention (CDC) issued a health advisory on Tuesday, alerting healthcare providers and the public of an unexpected increase \u2026 [+1828 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.355903",
+      "internal_id": "83753f58280143a8bc6416a5c7e3e03670117f6ecadce6924bcbc78ba1601255",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10489,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Alexandra Ferguson",
+      "title": "Agencias de sanidad de EE.UU. abren nuevas investigaciones sobre la gripe aviar H5N1 en trabajadores y productos l\u00e1cteos",
+      "description": "La FDA afirma que analizar\u00e1 m\u00e1s productos l\u00e1cteos retirados de las estanter\u00edas de los supermercados mientras las agencias sanitarias gubernamentales anuncian nuevas investigaciones sobre las posibles repercusiones del brote de gripe aviar H5N1 en el ganado le\u2026",
+      "url": "https://cnnespanol.cnn.com/2024/06/26/sanidad-eeuu-investigaciones-gripe-aviar-lacteos-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/gettyimages-1850485296.jpg?quality=100&strip=info",
+      "publishedAt": "2024-06-26 05:05:30",
+      "content": "Autoridades de EE.UU. alertan sobre riesgos de leche cruda por gripe aviar en ganado 0:37 (CNN) -- Las agencias de sanidad de Estados Unidos lanzan nuevas rondas de pruebas a los trabajadores del se\u2026 [+5551 chars]",
+      "retrievedAt": "2024-06-27 07:05:45.737493",
+      "internal_id": "127a7c9a10ade4219e862c14f3282ff6b50bfcca909085c60f17cbf103dbaddb",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10501,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "AP",
+      "title": "Health officials tell US doctors to be alert for dengue as cases ramp up",
+      "description": "U.S. health officials on Tuesday warned doctors to be alert for dengue cases as the tropical disease breaks international records. The virus, which is spread by mosquitoes, has been surging worldwide, helped by climate change. In barely six months, countries \u2026",
+      "url": "https://www.business-standard.com/world-news/health-officials-tell-us-doctors-to-be-alert-for-dengue-as-cases-ramp-up-124062600071_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-02/11/thumb/featurecrop/400X400/1707622152-9639.jpg",
+      "publishedAt": "2024-06-26 03:06:16",
+      "content": "The World Health Organization declared an emergency in December, and Puerto Rico declared a public health emergency in March Repeated infections can be especially dangerous | Photo: Unsplash APNew \u2026 [+4452 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.298337",
+      "internal_id": "6ae775315f43632563e850dbe37a970044e1d7eef9b2ec3463f26259ab8bf32e",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10512,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "New mpox strain in DR Congo 'most dangerous yet'",
+      "description": "A current outbreak of the virus in the African country is \"concerning\", say health officials.",
+      "url": "https://www.bbc.com/news/articles/c2vv0pgggqzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dfe8/live/e103a850-32fe-11ef-a32d-c55e0faa7482.jpg",
+      "publishedAt": "2024-06-26 03:05:12",
+      "content": "By Philippa Roxby, Health reporter Mpox, formerly called monkeypox, is a viral infection and can be deadly A new strain of the mpox virus spreading quickly along the eastern border of Democratic Re\u2026 [+4942 chars]",
+      "retrievedAt": "2024-06-27 07:05:47.820491",
+      "internal_id": "afeb3bc0fbbde4391459ed70970b449a903b0ad77f2907ac7a100af2c6648c90",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10490,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "\u9ec3 \u5b3f",
+      "title": "\u79bd\u6d41\u611f\u5feb\u901f\u8b8a\u7570\u4e2d\uff0c\u82ac\u862d\u65bd\u6253\u75ab\u82d7\u6210\u5168\u7403\u9996\u4f8b",
+      "description": "H5N1 \u79bd\u6d41\u611f\u682a\u5df2\u5c0e\u81f4\u5168\u7403\u6578\u5104\u96bb\u5bb6\u79bd\u6b7b\u4ea1\u6216\u88ab\u64b2\u6bba\uff0c\u5168\u7403\u51fa\u73fe\u8d8a\u4f86\u8d8a\u591a\u50b3\u64ad\u5230\u54fa\u4e73\u52d5\u7269\u7684\u6848\u4f8b\uff0c\u751a\u81f3\u50b3\u67d3\u7d66\u4eba\u3002\u96d6\u7136\u73fe\u5728\u9084\u6c92\u6709\u4eba\u50b3\u4eba\u6848\u4f8b\uff0c\u4f46\u5c08\u5bb6\u8b66\u544a\u75c5\u6bd2\u8b8a\u7570\u901f\u5ea6\u5feb\uff0c\u79bd\u6d41\u611f\u6050\u6f14\u8b8a\u6210\u4e0b\u4e00\u5834\u75ab\u60c5\uff0c\u82ac\u862d\u5df2\u6e96\u5099\u70ba\u9ad8\u98a8\u96aa\u5de5\u4f5c\u8005\u63d0\u4f9b\u9810\u9632\u6027\u75ab\u82d7\u63a5\u7a2e\uff0c\u6210\u70ba\u4e16\u754c\u4e0a\u7b2c\u4e00\u500b\u65bd\u6253\u79bd\u6d41\u611f\u75ab\u82d7\u7684\u570b\u5bb6\u3002 H5N1 \u75c5\u6bd2\u80fd\u5920\u8fc5\u901f\u7372\u5f97\u65b0\u5bbf\u4e3b\uff0c...",
+      "url": "https://technews.tw/2024/06/26/finland-launch-h5na-vaccine/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2024/06/26105001/53807083469_e9402380e5_c.jpg",
+      "publishedAt": "2024-06-26 02:56:31",
+      "content": "\u00a9 2013-2024 TechNews Inc. All rights reserved. | | | |",
+      "retrievedAt": "2024-06-27 07:05:45.761824",
+      "internal_id": "63bedebaf30886216d8cd2f593edba0fe7c9bf63b6bc14a385d85041d6e26349",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10498,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Investing.com",
+      "title": "Hyundai Bioscience succeeds in developing 'Multi-treatment for mosquito-borne viral infections' including Dengue Fever",
+      "description": "Hyundai Bioscience succeeds in developing 'Multi-treatment for mosquito-borne viral infections' including Dengue Fever",
+      "url": "https://www.investing.com/news/press-releases/hyundai-bioscience-succeeds-in-developing-multitreatment-for-mosquitoborne-viral-infections-including-dengue-fever-93CH-3496763",
+      "urlToImage": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "publishedAt": "2024-06-26 01:28:04",
+      "content": "Developed a 'Niclosamide-based multi-treatment drug' that can simultaneously treat mosquito-borne viral infections such as four serotypes of dengue virus, Zika, Chikungunya, and Yellow (OTC:Y\u2026 [+3920 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.240288",
+      "internal_id": "defa1239a13d86ed4e27f7f7a827f0984dd4100eb0735a81efd3d92f80070376",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10503,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "CDC alerta provedores de sa\u00fade para aumento em casos de dengue nos EUA",
+      "description": "O Centro de Controle e Preven\u00e7\u00e3o de Doen\u00e7as dos EUA (CDC) emitiu um alerta para provedores de ...",
+      "url": "https://www.terra.com.br/noticias/mundo/cdc-alerta-provedores-de-saude-para-aumento-em-casos-de-dengue-nos-eua,75d54f283eb62513570b5e44716210bbgam702wi.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-06-26 00:06:49",
+      "content": "O Centro de Controle e Preven\u00e7\u00e3o de Doen\u00e7as dos EUA (CDC) emitiu um alerta para provedores de sa\u00fade nesta ter\u00e7a-feira sobre um risco maior de infec\u00e7\u00f5es pelo v\u00edrus da dengue nos Estados Unidos. Cas\u2026 [+1188 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.319499",
+      "internal_id": "812683cf10afacc3f702dee8bfd8c1d12d45740ddfc28ce46c43bd41903319be",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10491,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "US health agencies launch new studies of H5N1 bird flu in dairy workers and dairy products | CNN",
+      "description": "US health agencies are starting new rounds of tests on dairy workers and milk products to better understand the possible impact of H5N1 bird flu.",
+      "url": "https://www.cnn.com/2024/06/25/health/new-studies-bird-flu-dairy-workers-and-dairy-products/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1850485296.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-06-26 00:04:43",
+      "content": "US health agencies are starting new rounds of tests on dairy workers and milk products to better understand the possible impact of H5N1 bird flu. The US Centers for Disease Control and Prevention is\u2026 [+4475 chars]",
+      "retrievedAt": "2024-06-27 07:05:45.802568",
+      "internal_id": "7cd9c08ebce00f1378932f204827093f0f3191e03f349148f54b374930537a03",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10509,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "artur.scherf@pasteur.fr (Anna Barcons-Simon), artur.scherf@pasteur.fr (Antoine Claessens), artur.scherf@pasteur.fr (Artur Scherf), artur.scherf@pasteur.fr (Aurelie Claes), artur.scherf@pasteur.fr (Damarys Loew), artur.scherf@pasteur.fr (Florent Dingli), artur.scherf@pasteur.fr (Gretchen Diffendall), artur.scherf@pasteur.fr (Miguel M Santos), artur.scherf@pasteur.fr (Prince Nyarko)",
+      "title": "RNA polymerase III is involved in regulating Plasmodium falciparum virulence",
+      "description": "While often undetected and untreated, persistent seasonal asymptomatic malaria infections remain a global public health problem. Despite the presence of parasites in the peripheral blood, no symptoms develop. Disease severity is correlated with the levels of \u2026",
+      "url": "https://elifesciences.org/articles/95879",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-06-26 00:00:00",
+      "content": "Parasite and serum samples from malaria infected patients Request a detailed protocol Venous blood draw of different infected individuals in The Gambia during the dry and wet seasons was collected \u2026 [+23669 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.976667",
+      "internal_id": "20803db2b8e6f55a84a16ef3f976361908ec16236c774a1be0a802cc3c00dba1",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10513,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "fox5sandiego.com",
+      "author": "Danielle Dawson",
+      "title": "San Diego County reports surge in Mpox, monkeypox cases",
+      "description": "San Diego County is seeing a slight surge in Mpox cases, with health officials reporting seven new cases in the months of May and June.",
+      "url": "https://fox5sandiego.com/news/health/san-diego-county-records-rise-in-mpox-cases/",
+      "urlToImage": "https://fox5sandiego.com/wp-content/uploads/sites/15/2023/10/653abdf6c1e4e7.20080085.jpeg?w=1280",
+      "publishedAt": "2024-06-25 23:59:56",
+      "content": "SAN DIEGO (FOX 5/KUSI) San Diego County is seeing a slight surge in Mpox cases, with health officials reporting seven new cases in the months of May and June. That is up from the previous average of\u2026 [+2180 chars]",
+      "retrievedAt": "2024-06-27 07:05:47.836117",
+      "internal_id": "83527567d68c572431eb280394af10ad2255b89f9aef8c6d3908a34cfbc93214",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10502,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "CM orders urgent steps to rein in dengue",
+      "description": "Chief minister Siddaramaiah issues urgent directives to tackle the spike in dengue cases in Karnataka, with a focus on ensuring availability of essential treatments and medicines in government hospitals. Special missions and joint reviews are planned to addre\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/urgent-measures-taken-to-combat-dengue-outbreak-in-karnataka/articleshow/111270349.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-25 23:27:15",
+      "content": "10 beautiful fishes to keep in home aquariums for beginners",
+      "retrievedAt": "2024-06-27 07:05:46.307095",
+      "internal_id": "5581a33f870cddab0ae5d0c37955bc64e9ecee01b40d499ba7085bc90e0bb483",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10508,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Ikenna Obianeri",
+      "title": "Civil society urges Anambra to boost healthcare through local investments",
+      "description": "The Coalition of Civil Society Networks on AIDS, Tuberculosis, and Malaria has called on the Anambra State government to invest in disease control, eradication, and other evidence-based intervention programs to boost healthcare delivery in the state. The grou\u2026",
+      "url": "https://punchng.com/civil-society-urges-anambra-to-boost-healthcare-through-local-investments/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/06/25201117/Civil-society.jpg",
+      "publishedAt": "2024-06-25 23:04:39",
+      "content": "The Coalition of Civil Society Networks on AIDS, Tuberculosis, and Malaria has called on the Anambra State government to invest in disease control, eradication, and other evidence-based intervention \u2026 [+4522 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.971951",
+      "internal_id": "afc73228fb7be66db356a5a95a1d4f2ba8df13ee327f55479f779289cc0f1545",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10499,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Wen Tsui",
+      "title": "U.S. CDC warns of unexpected increase in dengue cases",
+      "description": "LOS ANGELES, June 25 (Xinhua) -- The U.S. Centers for Disease Control and Prevention (CDC) issued a health advisory on Tuesday, alerting healthcare providers and the public of an unexpected increase in dengue virus infections in the country. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/06/26/us-cdc-warns-of-unexpected-increase-in-dengue-cases",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-06-25 23:01:00",
+      "content": "LOS ANGELES, June 25 (Xinhua) -- The U.S. Centers for Disease Control and Prevention (CDC) issued a health advisory on Tuesday, alerting healthcare providers and the public of an unexpected increase \u2026 [+1795 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.280849",
+      "internal_id": "4069524dd0d6355ce7bd1ab97b5eb725abbd0e90fc24ebf999e1f13b5777879d",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10495,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "U.S. officials warn doctors about dengue amid global surge",
+      "description": "U.S. health officials are warning doctors to be alert for dengue cases as the tropical disease breaks international records.",
+      "url": "https://www.cbsnews.com/news/cdc-warn-doctors-dengue-record-cases-worldwide/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/06/09/52384762-72b5-4a06-9f6d-9b371d41764e/thumbnail/1200x630/0da11faa8fad40b77c0362fa9b7126f0/gettyimages-2107865344.jpg?v=d44ea471ad55b1f821a0763c85064960",
+      "publishedAt": "2024-06-25 22:29:26",
+      "content": "U.S. health officials on Tuesday warned doctors to be alert for dengue cases as the tropical disease breaks international records. The virus, which is spread by mosquitoes, has been surging worldwid\u2026 [+4460 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.184678",
+      "internal_id": "548ff65fa9a8d4bb1900b341709db681602ac57b071a52eb190ca3a3e230be4f",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10505,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Theepochtimes.com",
+      "author": "Jack Phillips",
+      "title": "CDC Issues Warning of Increased Dengue Virus Risk Across US",
+      "description": "CDC Issues Warning of Increased Dengue Virus Risk Across UStheepochtimes.com",
+      "url": "https://www.theepochtimes.com/health/cdc-issues-warning-of-increased-dengue-virus-risk-across-us-5675206",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2024/06/25/id5675295-Dengue-Combat-LSedit-1080x720.jpg",
+      "publishedAt": "2024-06-25 21:58:12",
+      "content": "The U.S. Centers for Disease Control and Prevention (CDC) sent a health alert on Tuesday that warned doctors to be on alert for dengue fever cases as the mosquito-borne disease continues to spread wo\u2026 [+4658 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.360725",
+      "internal_id": "a0077429719f796c4c3099ae369d58f5ddb26aba8a66a607387f942c89bc26ff",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10492,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "Michigan launches first effort of its kind to detect silent bird flu infections in workers",
+      "description": "Michigan has launched the first effort of its kind to detect silent bird flu infections in farmworkers.",
+      "url": "https://www.statnews.com/2024/06/25/bird-flu-michigan-serology-study/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/06/AP23210026909821-1024x576.jpg",
+      "publishedAt": "2024-06-25 21:53:19",
+      "content": "Michigan has led the nation in making inroads with its farmers as it has worked to contain spread of H5N1 bird flu infections in dairy cows. Now the states health authorities are trying to do the sam\u2026 [+3831 chars]",
+      "retrievedAt": "2024-06-27 07:05:45.807188",
+      "internal_id": "55632709db7648f3f22e83cd05fca52e6d580bff96082377a1f497c7c4a068d5",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10506,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-washington-post",
+      "source_name": "The Washington Post",
+      "author": "Lena H. Sun",
+      "title": "CDC warns of increased dengue fever risk in U.S.",
+      "description": "Warning comes amid record-breaking global incidence of the mosquito-borne viral disease.",
+      "url": "https://www.washingtonpost.com/health/2024/06/25/dengue-fever-outbreak-warning-mosquito/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JSQIQWG6CDJW7HSHBQZC2TEJE_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-06-25 21:38:53",
+      "content": "The Centers for Disease Control and Prevention warned clinicians, health authorities and the public Tuesday about an increased risk for dengue virus infections in the United States because of the rec\u2026 [+4999 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.365304",
+      "internal_id": "ae82e46dccceac9cb67d9f81082027d29936c5d489c74b4a72a359500d6f6558",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10493,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Solcyr\u00e9 Burga",
+      "title": "What to Know About Dengue Virus as U.S. Sees Increased Risk of Infection",
+      "description": "The CDC issued an alert on Tuesday advising health care providers about an elevated risk of dengue fever infections in the U.S.",
+      "url": "https://time.com/6991847/what-to-know-about-dengue-fever/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/06/dengue-fever.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-06-25 21:17:19",
+      "content": "The Centers for Disease Control and Prevention (CDC) issued an alert on Tuesday advising health care providers and public health authorities about an elevated risk of dengue fever infections in the U\u2026 [+3607 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.166373",
+      "internal_id": "8d66713368f6443bcbd3cd8a3b9a8c02fd15e35d166830af8e0673a5dd5a2fdb",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10507,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "MIT Technology Review",
+      "author": "Anne Trafton",
+      "title": "Drugs are more effective at certain times of day",
+      "description": "Using engineered mini-livers derived from donated human cells, MIT researchers have found that the time of day a drug is administered could significantly affect how much of it is available to the body and how much may be broken down into toxic by-products. Th\u2026",
+      "url": "https://www.technologyreview.com/2024/06/25/1093099/drugs-are-more-effective-at-certain-times-of-day/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/06/iStock-1761872297.jpg?resize=1200,600",
+      "publishedAt": "2024-06-25 21:00:00",
+      "content": "The study also revealed that the liver is more susceptible to infections such as malaria at certain points in the circadian cycle, when fewer inflammatory proteins are being producedpossibly because \u2026 [+972 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.954497",
+      "internal_id": "88d7c1fee2f6cfe8201c5f2af29b75fec239544b9400bd7e79b965ef14719751",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10494,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Brian Bushard, Forbes Staff, \n Brian Bushard, Forbes Staff\n https://www.forbes.com/sites/brianbushard/",
+      "title": "What To Know About Dengue, As CDC Warns Of Possible U.S. Outbreak",
+      "description": "There have been 9.7 million reported cases of dengue in the Americas since Jan. 1\u2014double the 4.6 million cases recorded in 2023.",
+      "url": "https://www.forbes.com/sites/brianbushard/2024/06/25/what-to-know-about-dengue-as-cdc-warns-of-possible-us-outbreak/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/667b2beb51652e63dd6c9d94/0x0.jpg?format=jpg&crop=5300,2984,x0,y262,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-25 20:43:47",
+      "content": "The Centers for Disease Control and Prevention warned doctors in the U.S. to prepare for a potential outbreak of dengue, a virus spread by mosquitoes that has surged worldwide since the start of the \u2026 [+4787 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.175894",
+      "internal_id": "c9493e4325dc7a8abf3b548ebb8c9b69ad2cfea62e0893acb2cb24772c23bba7",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10511,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Noxolo Sibiya",
+      "title": "News24 | Another KZN man dies of Mpox, Gauteng detects two more cases",
+      "description": "Another person has died of Mpox in KwaZulu-Natal, raising the death toll to three since the outbreak of the disease in May.",
+      "url": "https://www.news24.com/news24/southafrica/news/another-kzn-man-dies-of-mpox-gauteng-detects-two-more-cases-20240625",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/172/b12a52c54eba41969d1aaa15a51bae85.jpg",
+      "publishedAt": "2024-06-25 20:10:17",
+      "content": "Another person has died of Mpox in KwaZulu-Natal, raising the death toll to three since the outbreak of the disease in May. According to the Department of Health, the 40-year-old man from Ladysmith\u2026 [+152 chars]",
+      "retrievedAt": "2024-06-27 07:05:47.811454",
+      "internal_id": "fe8c0918bdaf261e1526cf487e65212a2e936d0d77c8b73e85c2862f9d446c01",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10500,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Mike Stobbe, Associated Press",
+      "title": "As dengue fever cases ramp up worldwide, health officials tell U.S. doctors to stay alert",
+      "description": "In barely six months, countries in the Americas have already broken calendar-year records for dengue cases.",
+      "url": "https://www.pbs.org/newshour/health/as-dengue-fever-cases-ramp-up-worldwide-health-officials-tell-u-s-doctors-to-stay-alert",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/06/2024-03-27T185251Z_183911704_RC29U6AO3C5Q_RTRMADP_3_PUERTO-RICO-DENGUE-1024x682.jpg",
+      "publishedAt": "2024-06-25 19:40:57",
+      "content": "NEW YORK (AP) U.S. health officials on Tuesday warned doctors to be alert for dengue cases as the tropical disease breaks international records. The virus, which is spread by mosquitoes, has been su\u2026 [+4216 chars]",
+      "retrievedAt": "2024-06-27 07:05:46.285886",
+      "internal_id": "792e0fa1b13c900e789f840e3cb6067a0985ae3621fe74708296f7e22b78e0ee",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 10497,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "US CDC alerts healthcare providers of increase in dengue cases",
+      "description": "US CDC alerts healthcare providers of increase in dengue cases",
+      "url": "https://www.investing.com/news/general-news/us-cdc-alerts-healthcare-providers-of-increase-in-dengue-cases-3496377",
+      "urlToImage": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "publishedAt": "2024-06-25 19:30:37",
+      "content": "(Reuters) - The U.S. Centers for Disease Control and Prevention issued an advisory on Tuesday alerting healthcare providers about an increase in dengue virus infections in the United States.",
+      "retrievedAt": "2024-06-27 07:05:46.231090",
+      "internal_id": "78f4d4b22779a84c9ffd645a2ac8e940e78aeecbf0273437c3ae1323d51cc8e8",
+      "publishedAtLabel": "Jun 25"
+    },
     {
       "id": 10467,
       "query": [
@@ -25246,6 +25698,169 @@
       "retrievedAt": "2024-05-14 07:06:39.254296",
       "internal_id": "00046bd772f85527639d1ae5775f0ac5006b23f97d33b3b0c839dde336b25bce",
       "publishedAtLabel": "May 13"
+    },
+    {
+      "id": 9090,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Jungewelt.de",
+      "author": "Gerrit Hoekman",
+      "title": "Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]",
+      "description": "Laut britischen Forschern k\u00f6nnte sich das Verbreitungsgebiet der Krankheit durch Wasserknappheit in Afrika verlagern.",
+      "url": "https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html",
+      "urlToImage": "https://www.jungewelt.de/img/1100/194842.jpg",
+      "publishedAt": "2024-05-12 17:37:53",
+      "content": "Uneingeschr\u00e4nkter Zugriff auf alle Inhalte: Erleben Sie die Tageszeitung junge Welt in gedruckter oder digitaler Form oder beides kombiniert. Nachrichtenauswahl und -aufbereitung erfordern finanziel\u2026 [+458 chars]",
+      "retrievedAt": "2024-05-13 19:05:19.009623",
+      "internal_id": "9b89f04b0191c98b004061d5552b21c33276071be45d33faaa916e9e2d7c562b",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9087,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Ag\u00eancia Fapesp",
+      "title": "Monitoramento mostra que \u00e9 poss\u00edvel prever epidemias de chikungunya por meio de vigil\u00e2ncia",
+      "description": "Estudo realizado em S\u00e3o Jos\u00e9 do Rio Preto descobriu que o v\u00edrus conhecido por provocar epidemias massivas tamb\u00e9m pode circular silenciosamente por uma comunidade, provocando poucas infec\u00e7\u00f5es durante anos. Novo perfil do chikungunya refor\u00e7a a import\u00e2ncia de fa\u2026",
+      "url": "https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/05/chikungunya-fapesp.jpg",
+      "publishedAt": "2024-05-12 15:07:47",
+      "content": "Texto: Maria Fernanda Ziegler | Ag\u00eancia FAPESP Conhecido por provocar epidemias massivas at\u00e9 mais impactantes que as de dengue , o v\u00edrus do chikungunya pode tamb\u00e9m apresentar um perfil menos intenso\u2026 [+4913 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.940074",
+      "internal_id": "f88230cf667e1df9939474f657a44e390412cd9c9e5b8f552c90558f548fbede",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9084,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kevinmd.com",
+      "author": "Dr. Roxanne Becker",
+      "title": "Eating our way to the next pandemic",
+      "description": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic could be around the corner, and the food we choose to purchase \u2026",
+      "url": "https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html",
+      "urlToImage": "https://www.kevinmd.com/wp-content/uploads/shutterstock_2169452695.jpg",
+      "publishedAt": "2024-05-12 15:00:45",
+      "content": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic cou\u2026 [+5251 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.348008",
+      "internal_id": "02a1befaf085db5997a8e6a23b16dfc87efdab2ac46bbc11db65fca5749c2c10",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9083,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Diana Bell, Professeur de biologie de la conservation, University of East Anglia \u2013 The Conversation",
+      "title": "Les animaux vivent d\u00e9j\u00e0 la prochaine pand\u00e9mie",
+      "description": "Ces derni\u00e8res ann\u00e9es, la grippe aviaire H5N1 a provoqu\u00e9 la mort de millions de volailles et d'oiseaux mais aussi de nombreux mammif\u00e8res. Ce virus qui semble s'affranchir de toutes les barri\u00e8res deviendra-t-il une menace pand\u00e9mique pour la biodiversit\u00e9 dans so\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/f/7/cf74a6d59a_50215931_mouette-tridactyle.jpg",
+      "publishedAt": "2024-05-12 12:54:56",
+      "content": "Quelle sera la prochaine pand\u00e9mie ? Je suis une biologiste de la conservation et j'\u00e9tudie les maladies infectieuses \u00e9mergentes. Quand on me demande quelle sera la prochaine pand\u00e9mie, je r\u00e9ponds souve\u2026 [+7162 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.339476",
+      "internal_id": "a84ea503fedd7f1ac3b05f99f4c90265ee8a11e65f8c256aff70e956131ed8b4",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9089,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Zhaki Abdullah",
+      "title": "High worldwide dengue numbers may not impact Singapore: Experts",
+      "description": "Low visitor traffic from South America and diversity of strains in Singapore are among factors cited. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts",
+      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/05/12/2024022590212087gin8446.jpg?VersionId=vvNZ9EWHqfSrd4iFniVTnjtTGI9KcvCY",
+      "publishedAt": "2024-05-12 12:44:29",
+      "content": "SINGAPORE Even as dengue numbers soar worldwide, experts say it remains to be seen how the record figures elsewhere will impact the number of infections in Singapore. To date, there have been more \u2026 [+2599 chars]",
+      "retrievedAt": "2024-05-13 19:05:18.003818",
+      "internal_id": "727876864f7933c46fcd96e0bc2e83db0b17f44df127f56e13aa909da894ab26",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9088,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension",
+      "description": "The authorities first got suspicious last November when health officials were denied entry to her home for dengue-prevention measures.",
+      "url": "https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391",
+      "urlToImage": "https://c.ndtvimg.com/2023-04/bvih5i2g_crime-scene_625x300_03_April_23.jpg",
+      "publishedAt": "2024-05-12 11:19:06",
+      "content": "Upon investigation, police found that the man had been dead for a long time. A woman in Taiwan has been accused of hiding her dead father's body in her home for years to claim his military pension. \u2026 [+2159 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.955426",
+      "internal_id": "5248731708cdfd7954e9181bfde30335b8537f7c3ec9a9248bfc362b58fc6e45",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9085,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Afrodita Cicovschi",
+      "title": "Gripa aviar\u0103 la fermele de vaci. Cum \u00eencearc\u0103 SUA s\u0103 limiteze r\u0103sp\u00e2ndirea virusului",
+      "description": "Administra\u021bia Biden \u00eencearc\u0103 din r\u0103sputeri s\u0103 limiteze r\u0103sp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijor\u0103rile legate de infec\u021biile umane cu virusul H5N1, scrie Reuters.",
+      "url": "https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-c/ca1a7021-d283-4761-bda8-95aff2d28406/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-05-12 10:55:08",
+      "content": "Administraia Biden \u00eencearc din rsputeri s limiteze rsp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijorrile legate de infeciile umane cu virusul H5N1, scrie Reuters. Administraia \u2026 [+2783 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.361888",
+      "internal_id": "cb6c5efd69cd8e0d5f36f551f55c7ae3eac7e45080a542c7cbb079419e3f5ab2",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9086,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Almayadeen.net",
+      "author": "\u0627\u0644\u0645\u064a\u0627\u062f\u064a\u0646 \u0646\u062a",
+      "title": "\u0627\u0644\u0623\u0628\u0642\u0627\u0631 \u0642\u062f \u062a\u0646\u0642\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0627\u0644\u0628\u0634\u0631.. \u0643\u064a\u0641\u061f",
+      "description": "\u062f\u0631\u0627\u0633\u0629 \u062c\u062f\u064a\u062f\u0629 \u0644\u0639\u0644\u0645\u0627\u0621 \u0641\u064a \u0627\u0644\u0635\u062d\u0629 \u062a\u0638\u0647\u0631 \u0623\u0646\u0651 \u0623\u0643\u064a\u0627\u0633 \u0636\u0631\u0639 \u0627\u0644\u0628\u0642\u0631 \u0627\u0644\u062b\u062f\u064a\u064a\u0629 \u0642\u062f \u062a\u0635\u0628\u062d \"\u0623\u0648\u0639\u064a\u0629 \u062e\u0644\u0637\" \u0645\u062d\u0645\u0651\u0644\u0629 \u0628\u0645\u0633\u062a\u0642\u0628\u0644\u0627\u062a \u0627\u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0627\u0644\u0637\u064a\u0648\u0631 \u0648\u062a\u0633\u0627\u0639\u062f \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u0639\u0644\u0649 \u0627\u0644\u0627\u0646\u062a\u0634\u0627\u0631 \u0628\u064a\u0646 \u0627\u0644\u0628\u0634\u0631 \u0645\u062b\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 (H5N1).. \u0648\u0627\u0644\u062c\u062f\u0644 \u064a\u062a\u0648\u0627\u0635\u0644 \u062d\u0648\u0644 \u0635\u062d\u0629 \u0627\u0644\u0623\u0644\u0628\u0627\u0646!",
+      "url": "https://www.almayadeen.net/health/\u0627\u0644\u0623\u0628\u0642\u0627\u0631-\u0642\u062f-\u062a\u0646\u0642\u0644-\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627-\u0627\u0644\u0637\u064a\u0648\u0631-\u0625\u0644\u0649-\u0627\u0644\u0628\u0634\u0631---\u0643\u064a\u0641",
+      "urlToImage": "https://alpha-ar-media.almayadeen.net/media/image/2024/5/12/d06f4808-ce20-4113-a8ab-c110693c3f94.png?v=2&width=1000",
+      "publishedAt": "2024-05-12 08:54:54",
+      "content": "\" \" (H5N1) \"\" \" \" \"BioRxiv\" \"WEb Med\". . (H5N1). . . Many people are wondering how we can monitor this H5N1 situation. We sequence the whole virome from wastewater, and, well, H5N1 starte\u2026 [+574 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.408221",
+      "internal_id": "0bfb1e1b5f252d6082d222066eba0fbfd5c00f340cce4de7fb8d558713f0feb9",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9082,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Dogs entering US must be 6 months old, microchipped to prevent rabies spread",
+      "description": "New York \u2014 All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new rules require vaccination for dogs that have be\u2026",
+      "url": "https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html",
+      "urlToImage": "https://gdb.voanews.com/6633B470-639B-4589-882A-3066C2D759A1.jpg",
+      "publishedAt": "2024-05-12 07:07:40",
+      "content": "New York All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday\u2026 [+3079 chars]",
+      "retrievedAt": "2024-05-13 19:05:15.872833",
+      "internal_id": "d8312d1a3a146431fe86ca9d38efa3dc47fa299be6919e26fd1c609f7279b62c",
+      "publishedAtLabel": "May 12"
     }
   ]
 }
