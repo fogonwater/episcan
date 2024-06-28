@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-06-28 07:06
-- **Most recent article:** 2024-06-27 04:41:40
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-06-28 19:05
+- **Most recent article:** 2024-06-27 18:35:04
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 87 | 58 | 61 | 64 | 115 | 62 | 73 | 520 |
-| h5n1 | 60 | 95 | 65 | 78 | 55 | 29 | 17 | 399 |
-| malaria | 13 | 17 | 25 | 21 | 37 | 20 | 13 | 146 |
-| mpox | 10 | 9 | 16 | 8 | 26 | 14 | 35 | 118 |
+| dengue | 84 | 58 | 61 | 64 | 115 | 62 | 78 | 522 |
+| h5n1 | 56 | 95 | 65 | 78 | 55 | 29 | 19 | 397 |
+| malaria | 12 | 17 | 25 | 21 | 37 | 20 | 17 | 149 |
+| mpox | 10 | 9 | 16 | 8 | 26 | 14 | 41 | 124 |
 | measles | 29 | 15 | 16 | 11 | 7 | 11 | 1 | 90 |
-| chikungunya | 12 | 3 | 18 | 5 | 14 | 5 | 8 | 65 |
-| rabies | 10 | 8 | 15 | 9 | 2 | 5 | 6 | 55 |
+| chikungunya | 11 | 3 | 18 | 5 | 14 | 5 | 8 | 64 |
+| rabies | 9 | 8 | 15 | 9 | 2 | 5 | 7 | 55 |
 | pertussis | 5 | 6 | 6 | 9 | 11 | 11 | 0 | 48 |
-| zika | 6 | 3 | 3 | 0 | 12 | 3 | 10 | 37 |
+| zika | 6 | 3 | 3 | 0 | 12 | 3 | 12 | 39 |
 | hpai | 3 | 7 | 12 | 2 | 4 | 4 | 2 | 34 |
 | meningitis | 9 | 4 | 1 | 6 | 3 | 1 | 1 | 25 |
-| leptospirosis | 3 | 0 | 5 | 1 | 1 | 1 | 1 | 12 |
-| typhoid | 2 | 0 | 0 | 1 | 1 | 2 | 2 | 8 |
-| yersinia | 0 | 6 | 0 | 1 | 0 | 0 | 0 | 7 |
+| leptospirosis | 3 | 0 | 5 | 1 | 1 | 1 | 2 | 13 |
+| typhoid | 2 | 0 | 0 | 1 | 1 | 2 | 3 | 9 |
+| yersinia | 0 | 6 | 0 | 1 | 0 | 0 | 1 | 8 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-26 (zika)
+
+- [The NS2B-PP1α-eIF2α axis: Inhibiting stress granule formation and Boosting Zika virus replication](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012355) (Plos.org)
+
+- [पुण्यात झिकाचे २ रुग्ण, आजाराची लक्षणं कशी ओळखायची? डॉक्टर सांगतात झिकाची लागण होऊ नये म्हणून....](https://www.lokmat.com/sakhi/health/lifestyle-diseases/zika-virus-disease-what-are-the-symptoms-of-zika-virus-prevention-and-control-measures-for-zika-virus-disease-zika-virus-patient-in-pune-a-a602/) (Lokmat.com)
 
 - [Maharashtra: Two Zika virus cases reported in Pune](https://timesofindia.indiatimes.com/india/maharashtra-two-zika-virus-cases-reported-in-pune/articleshow/111288961.cms) (The Times of India)
 
@@ -54,13 +58,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Como desnutrição, toxinas na água e agrotóxicos criaram 'bolsões de microcefalia' no Brasil](https://www.bbc.com/portuguese/articles/cx88j1w70e0o) (BBC News)
 
+## 24-26 (yersinia)
+
+- [Review of genotyping methods for Yersinia pestis in Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012252) (Plos.org)
+
 ## 24-26 (typhoid)
+
+- [How Smaller Companies Can Join the Circular Economy](https://hbr.org/2024/06/how-smaller-companies-can-join-the-circular-economy) (Harvard Business Review)
 
 - [The cost of typhoid illness in low- and middle-income countries, a scoping review of the literature](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305692) (Plos.org)
 
 - [Spatial and temporal clustering of typhoid fever in an urban slum of Dhaka City: Implications for targeted typhoid vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012273) (Plos.org)
 
 ## 24-26 (rabies)
+
+- [Parliament delays recess to address key proposals](https://www.hurriyetdailynews.com/parliament-delays-recess-to-address-key-proposals-197864) (Hurriyet Daily News)
 
 - [The Perfect Human Predator is More Deadly Than the Plague](https://www.neatorama.com/2024/06/26/The-Perfect-Human-Predator-is-More-Deadly-Than-the-Plague/) (Neatorama.com)
 
@@ -75,6 +87,18 @@ Source: [News API](https://newsapi.org/)
 - [AstriVax enters clinical phase with its novel vaccine platform technology](https://www.globenewswire.com/news-release/2024/06/24/2902721/0/en/AstriVax-enters-clinical-phase-with-its-novel-vaccine-platform-technology.html) (GlobeNewswire)
 
 ## 24-26 (mpox)
+
+- [Mpox: what to watch out for, treatment and what to worry about](https://theconversation.com/mpox-what-to-watch-out-for-treatment-and-what-to-worry-about-233466) (The Conversation Africa)
+
+- [Health Experts Warn Of Rapid Spread Of Mpox Strain In Congo - Arise News](https://www.arise.tv/health-experts-warn-of-rapid-spread-of-mpox-strain-in-congo/) (Arise.tv)
+
+- [Variole du singe : une nouvelle souche plus dangereuse apparue en RDC inquiète l’OMS et les chercheurs](https://www.lemonde.fr/afrique/article/2024/06/27/variole-du-singe-une-nouvelle-souche-plus-dangereuse-apparue-en-rdc-inquiete-l-oms-et-les-chercheurs_6244771_3212.html) (Le Monde)
+
+- [Gay members of Congress worried about mpox outbreak ask for data in letter to Joe Biden (exclusive)](https://www.advocate.com/news/mpox-torres-pocan-president-letter) (Advocate.com)
+
+- [Omikron-Entdecker zur neuen Affenpocken-Variante: Droht aus dem Ausbruch eine Pandemie zu werden?](https://www.tagesspiegel.de/wissen/omikron-entdecker-zur-neuen-affenpocken-variante-droht-aus-dem-ausbruch-eine-pandemie-zu-werden-11893655.html) (Der Tagesspiegel)
+
+- [Mpox strain sparks pandemic fears - symptoms](https://www.gbnews.com/health/mpox-strain-symptoms-vaccine) (Gbnews.com)
 
 - [Fears emerge over new 'most dangerous' mpox strain crossing borders](https://www.japantimes.co.jp/news/2024/06/27/world/science-health/dangerous-mpox-strain-fears/) (The Japan Times)
 
@@ -156,6 +180,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (malaria)
 
+- [A new landscape for malaria vaccine development](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012309) (Plos.org)
+
+- [Activation loop phosphorylation and cGMP saturation of PKG regulate egress of malaria parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012360) (Plos.org)
+
+- [Discover Luxury And Adventure At BABOHI: A Malaria-Free, Big 5 Safari](https://www.forbes.com/sites/sandramacgregor/2024/06/27/discover-luxury-and-adventure-at-babohi-a-malaria-free-big-5-safari/) (Forbes)
+
+- [How can we get malaria control back on track?](https://www.bmj.com/content/385/bmj.q1432) (The BMJ)
+
 - [Strong isolation by distance and evidence of population microstructure reflect ongoing Plasmodium falciparum transmission in Zanzibar](https://elifesciences.org/articles/90173) (Elifesciences.org)
 
 - [How can we get malaria control back on track?](https://www.bmj.com/content/385/bmj.q1408) (The BMJ)
@@ -184,6 +216,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (leptospirosis)
 
+- [Gunung Ledang National Park closed temporarily due to leptospirosis cases](https://www.thestar.com.my/news/nation/2024/06/27/gunung-ledang-national-park-closed-temporarily-due-to-leptospirosis-cases) (The Star Online)
+
 - [Beware of water activities as deadly disease lurks](https://www.thestar.com.my/news/nation/2024/06/27/beware-of-water-activities-as-deadly-disease-lurks) (The Star Online)
 
 ## 24-26 (hpai)
@@ -193,6 +227,10 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
 
 ## 24-26 (h5n1)
+
+- [H5N1 bird flu can remain infectious in raw milk for at least an hour, study finds](https://www.livescience.com/health/flu/h5n1-bird-flu-can-remain-infectious-in-raw-milk-for-at-least-an-hour-study-finds) (Live Science)
+
+- [Finlândia será 1º país a aplicar vacina da gripe aviária em humanos](https://tecnologia.ig.com.br/parceiros/canaltech/2024-06-27/finlandia-sera-1-pais-a-aplicar-vacina-da-gripe-aviaria-em-humanos.html) (Ig.com.br)
 
 - [Bird Flu (H5N1) Explained: Finland Will Start Vaccinating Humans In A Global First](https://www.forbes.com/sites/ariannajohnson/2024/06/26/bird-flu-h5n1-explained-finland-will-start-vaccinating-humans-in-a-global-first/) (Forbes)
 
@@ -229,6 +267,16 @@ Source: [News API](https://newsapi.org/)
 - [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
+
+- [Bebê nasce e morre no mesmo dia vítima da dengue no Paraná. Entenda](https://www.metropoles.com/saude/dengue-mata-bebe-horas-apos-parto) (Metropoles.com)
+
+- [Dengue—Known As Breakbone Fever—Is Having A Record Breaking Year](https://www.forbes.com/sites/matthewbinnicker/2024/06/27/dengue---known-as-breakbone-fever---is-having-a-record-breaking-year/) (Forbes)
+
+- [Maps show dengue fever risk areas as CDC warns of global case surge](https://www.cbsnews.com/news/dengue-fever-map-what-to-know-global-case-surge/) (CBS News)
+
+- [Is the rise in childhood obesity rates leading to an increase in hospitalizations due to dengue?](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012248) (Plos.org)
+
+- [Dengue fever detected across new regions, CDC warns its on the rise around the world](https://www.cbsnews.com/video/cdc-dengue-fever-being-detected-across-new-regions/) (CBS News)
 
 - [सावधान! दिल्ली में बारिश के पीछे-पीछे आ रहा डेंगू, अब तक 232 केस, इस मौसम बिल्कुल रिस्क नहीं लेने का](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-reported-232-dengue-cases-till-now-rainy-season-will-increase-the-numbers/articleshow/111302934.cms) (The Times of India)
 
@@ -2852,8 +2900,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies alert: BSF Meghalaya steps up prevention efforts in Muktapur](https://www.syllad.com/rabies-alert-bsf-meghalaya-steps-up-prevention-efforts-in-muktapur/) (Syllad.com)
 
-- [Dogs entering US must be 6 months old, microchipped to prevent rabies spread](https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html) (VOA News)
-
 ## 24-20 (pertussis)
 
 - [Health Department confirms 6 whooping cough cases in Lexington: What to look out for?](https://www.wkyt.com/2024/05/17/health-department-confirms-6-whooping-cough-cases-lexington-what-look-out/) (WKYT)
@@ -2994,8 +3040,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Distribution and dynamics of Anopheles gambiae s.l. larval habitats in three Senegalese cities with high urban malaria incidence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303473) (Plos.org)
 
-- [Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]](https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html) (Jungewelt.de)
-
 ## 24-20 (leptospirosis)
 
 - [Factors associated with differential seropositivity to Leptospira interrogans and Leptospira kirschneri in a high transmission urban setting for leptospirosis in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011292) (Plos.org)
@@ -3125,14 +3169,6 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, il virus rilevato nelle acque reflue in nove città del Texas. Attesa per il monitoraggio dei Cdc Usa](https://www.ilfattoquotidiano.it/2024/05/13/aviaria-il-virus-rilevato-nelle-acque-reflue-in-nove-citta-del-texas-attesa-per-il-monitoraggio-dei-cdc-usa/7546403/) (Ilfattoquotidiano.it)
 
 - [CDC wastewater surveillance dashboard to track bird flu hotspots](https://www.statnews.com/2024/05/13/cdc-wastewater-surveillance-dashboard-bird-flu-outbreak-monitor/) (STAT)
-
-- [Eating our way to the next pandemic](https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html) (Kevinmd.com)
-
-- [Les animaux vivent déjà la prochaine pandémie](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/) (Futura)
-
-- [Gripa aviară la fermele de vaci. Cum încearcă SUA să limiteze răspândirea virusului](https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html) (Adevarul.ro)
-
-- [الأبقار قد تنقل إنفلونزا الطيور إلى البشر.. كيف؟](https://www.almayadeen.net/health/الأبقار-قد-تنقل-إنفلونزا-الطيور-إلى-البشر---كيف) (Almayadeen.net)
 
 ## 24-20 (dengue)
 
@@ -3304,12 +3340,6 @@ Source: [News API](https://newsapi.org/)
 
 - [What should I look out for when choosing a mosquito repellent?](https://www.straitstimes.com/singapore/health/what-should-i-look-out-for-when-choosing-a-mosquito-repellent) (The Straits Times)
 
-- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)
-
-- [High worldwide dengue numbers may not impact Singapore: Experts](https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts) (The Straits Times)
-
-- [Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension](https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391) (NDTV News)
-
 ## 24-20 (chikungunya)
 
 - [Gov't issues alert to schools on possible health risks due to flooding](https://www.citizen.digital/news/govt-issues-alert-to-schools-on-possible-health-risks-due-to-flooding-n342359) (Citizen.digital)
@@ -3333,5 +3363,3 @@ Source: [News API](https://newsapi.org/)
 - [Valneva Reports Further Positive Pivotal Phase 3 Data in Adolescents for its Single-Shot Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/en/Valneva-Reports-Further-Positive-Pivotal-Phase-3-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-Vaccine.html) (GlobeNewswire)
 
 - [Valneva annonce de nouveaux résultats positifs chez les adolescents pour l’étude pivot de Phase 3 de son vaccin à dose unique contre le chikungunya](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/fr/Valneva-annonce-de-nouveaux-r%C3%A9sultats-positifs-chez-les-adolescents-pour-l-%C3%A9tude-pivot-de-Phase-3-de-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya.html) (GlobeNewswire)
-
-- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)
