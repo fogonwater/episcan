@@ -1,8 +1,388 @@
 {
-  "last_updated": "2024-06-29 07:06",
-  "count_articles_total": 1510,
-  "count_articles_new": 7,
+  "last_updated": "2024-06-29 19:05",
+  "count_articles_total": 1522,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 10594,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "New study shows pasteurization process kills bird flu in milk, FDA says",
+      "description": "The FDA said its study better simulated how commercial milk processing kills H5N1.",
+      "url": "https://www.cbsnews.com/news/pasteurization-bird-flu-milk-fda-study/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/06/e095d337-841e-4ac7-8dff-84d8c0504dea/thumbnail/1200x630g9/b421489eeda1725edf0546b7debc636b/gettyimages-1227710472.jpg?v=a23cb4bdf4fa7f3cb72e5118085577f9",
+      "publishedAt": "2024-06-28 18:22:15",
+      "content": "A pasteurization approach widely used in the dairy industry proved to be effective at killing bird flu in milk after all, the Food and Drug Administration announced Friday, after an earlier federal l\u2026 [+2349 chars]",
+      "retrievedAt": "2024-06-29 19:05:18.456827",
+      "internal_id": "ee387c1dc3be44716cc5bf87a0b03c405c8bc397309089eb36c2b83d2e73a550",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10611,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Congo aprova vacina\u00e7\u00e3o contra mpox para conter surto",
+      "description": "Com mais de 20 mil casos de mpox, a Rep\u00fablica Democr\u00e1tica do Congo liberou o uso de duas vacinas contra doen\u00e7a; imunizantes ainda n\u00e3o chegaram",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-06-28/congo-aprova-vacinacao-contra-mpox-para-conter-surto.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ej/1y/2u/ej1y2u4yj9si0v5szb4xl7qha.jpg",
+      "publishedAt": "2024-06-28 17:42:31",
+      "content": "Em meio a um surto de mpox , a Rep\u00fablica Democr\u00e1tica do Congo aprovou o uso de duas vacinas contra a doen\u00e7a conhecida pelas erup\u00e7\u00f5es cut\u00e2neas, incluindo o imunizante Jynneos . Recentemente, a Organ\u2026 [+2781 chars]",
+      "retrievedAt": "2024-06-29 19:05:22.277890",
+      "internal_id": "10983f38fb00cbd49ea120afbdb411f12a28e2835aba4e898da2f0cc58af511e",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10607,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Chikungunya-Viren: EU l\u00e4sst Impfstoff gegen gef\u00e4hrliches Tropenvirus zu",
+      "description": "Von M\u00fccken \u00fcbertragene Krankheiten k\u00f6nnen sich durch den voranschreitenden Klimawandel in Europa st\u00e4rker ausbreiten, auch in Deutschland. Die EU-Kommission hat nun einen neuen Impfstoff zugelassen.",
+      "url": "https://www.tagesspiegel.de/wissen/chikungunya-viren-eu-lasst-impfstoff-gegen-gefahrliches-tropenvirus-zu-11924924.html",
+      "urlToImage": "https://www.tagesspiegel.de/wissen/images/tigermucke4/alternates/BASE_16_9_W1400/tigermuecke.jpeg",
+      "publishedAt": "2024-06-28 16:46:55",
+      "content": "Die EU-Kommission l\u00e4sst den ersten Impfstoff gegen von M\u00fccken \u00fcbertragene Chikungunya-Viren zu. Nationale Beh\u00f6rden m\u00fcssten nun entscheiden, wer Zugang zu dem Impfstoff bekommen soll, teilte die Br\u00fcss\u2026 [+1551 chars]",
+      "retrievedAt": "2024-06-29 19:05:21.551780",
+      "internal_id": "0e9edf6acb2145e5b62f5e2861da0107df02ff037336689b40983bd18bb366b0",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10605,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Chikungunya-Viren: EU l\u00e4sst Impfstoff gegen gef\u00e4hrliches Tropenvirus zu",
+      "description": "Von M\u00fccken \u00fcbertragene Krankheiten k\u00f6nnen sich durch den voranschreitenden Klimawandel in Europa st\u00e4rker ausbreiten, auch in Deutschland. Die EU-Kommission hat nun einen neuen Impfstoff zugelassen.",
+      "url": "https://www.stern.de/panorama/wissen/chikungunya-viren--eu-laesst-impfstoff-gegen-gefaehrliches-tropenvirus-zu-34838428.html",
+      "urlToImage": "https://image.stern.de/34838430/t/kw/v1/w1440/r1.7778/-/28--urnnewsmldpacom2009010124062899569369v2w800h600l287t232r1663b1156jpeg---0bbc77ad84fef189.jpg",
+      "publishedAt": "2024-06-28 16:45:18",
+      "content": "Von M\u00fccken \u00fcbertragene Krankheiten k\u00f6nnen sich durch den voranschreitenden Klimawandel in Europa st\u00e4rker ausbreiten, auch in Deutschland. Die EU-Kommission hat nun einen neuen Impfstoff zugelassen. \u2026 [+1663 chars]",
+      "retrievedAt": "2024-06-29 19:05:21.527718",
+      "internal_id": "2401cafe5354f0b152f59565497d0e39fc6f51904ec77a57bd2fef1e2f28f530",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10597,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Justin Tyopuusu",
+      "title": "NGO decries lack of funding for primary health centres",
+      "description": "The Association of Civil Society in Malaria Control, Immunisation, and Nutrition on Friday identified funding and poor advocacy as major factors hindering the effective operations of primary health centres in Taraba state. At a press conference in Jalingo, th\u2026",
+      "url": "https://punchng.com/ngo-decries-lack-of-funding-for-primary-health-centres/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/06/28191321/images.png",
+      "publishedAt": "2024-06-28 16:19:09",
+      "content": "The Association of Civil Society in Malaria Control, Immunisation, and Nutrition on Friday identified funding and poor advocacy as major factors hindering the effective operations of primary health c\u2026 [+1668 chars]",
+      "retrievedAt": "2024-06-29 19:05:20.497560",
+      "internal_id": "f6ef47adee09e7a9055047d90af9aa47057434c13390fbb6955f0b97587b6908",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10609,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Owen Dyer",
+      "title": "Mpox: Virus behind new DRC outbreak is most dangerous strain yet, experts warn",
+      "description": "A deadlier strain of the mpox virus is being transmitted directly between humans for the first time in the east of the Democratic Republic of Congo (DRC), experts have warned. Trudie Lang, professor of global health research at the University of Oxford, told\u2026",
+      "url": "https://www.bmj.com/content/385/bmj.q1454",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/385/8434.cover-source.jpg",
+      "publishedAt": "2024-06-28 15:46:33",
+      "content": "A deadlier strain of the mpox virus is being transmitted directly between humans for the first time in the east of the Democratic Republic of Congo (DRC), experts have warned. Trudie Lang, professor\u2026 [+799 chars]",
+      "retrievedAt": "2024-06-29 19:05:22.229879",
+      "internal_id": "c2fbee0bfdb43860449730c9ecdbc374c66e466b0c349fccbbfbfec57fe410f6",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10608,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Bruselas autoriza la primera vacuna contra el virus chikungunya, que se transmite por mosquitos",
+      "description": "La Comisi\u00f3n Europea ha autorizado este viernes la primera vacuna para pacientes mayores de 18 a\u00f1os contra el virus de chikungunya, una enfermedad transmitida por mosquitos que puede causar dolor debilitante en las articulaciones durante meses o a\u00f1os. Tras el \u2026",
+      "url": "https://www.abc.es/sociedad/bruselas-autoriza-primera-vacuna-virus-chikungunya-transmite-20240628174155-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2024/06/28/Fumigadorr-kGtB--1024x512@diario_abc.jpg",
+      "publishedAt": "2024-06-28 15:41:55",
+      "content": "La Comisi\u00f3n Europea ha autorizado este viernes la primera vacuna para pacientes mayores de 18 a\u00f1os contra el virus de chikungunya, una enfermedad transmitida por mosquitos que puede causar dolor debi\u2026 [+1301 chars]",
+      "retrievedAt": "2024-06-29 19:05:21.557533",
+      "internal_id": "625e33d618935efae958a6b4a6bfebb364c293195a302437b562a6d5784e8d8b",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10604,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Cristina Sava",
+      "title": "UE a autorizat primul vaccin \u00eempotriva unui virus transmis de \u021b\u00e2ntarul tigru. Specia este din ce \u00een ce mai prezent\u0103 \u00een Europa",
+      "description": "Comisia European\u0103 a autorizat vineri primul vaccin \u00eempotriva chikungunya, un virus transmis \u00een principal de \u0163\u00e2n\u0163arul tigru. Specia are o prezen\u021b\u0103 crescut\u0103 \u00een Europa, al\u0103turi de alte tipuri de \u021b\u00e2n\u021bari care r\u0103sp\u00e2ndesc boli, ca efect al schimb\u0103rilor climatice.",
+      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/ue-a-autorizat-primul-vaccin-impotriva-unui-virus-transmis-de-tantarul-tigru-specia-este-din-ce-in-ce-mai-prezenta-in-europa-2842779",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNiUyRjI4JTJGMjAxMjU3NV8yMDEy/NTc1X3RhbnRhcnVsLXRpZ3J1LmpwZyZ3/PTEyMDAmaD02MzAmemM9MSZoYXNoPTQ2/NmMyNTlmZGY4NmUwZmQ3NzFkMGY2ODYzMGFhOGFj.thumb.jpg",
+      "publishedAt": "2024-06-28 15:05:51",
+      "content": "Comisia European a autorizat vineri primul vaccin \u00eempotriva chikungunya, un virus transmis \u00een principal de \u00e2narul tigru. Specia are o prezen crescut \u00een Europa, alturi de alte tipuri de \u00e2nari care rsp\u2026 [+1692 chars]",
+      "retrievedAt": "2024-06-29 19:05:21.521968",
+      "internal_id": "0724fd707cf97f297af8025c78e2512fb287f31d6d2a1ef6868ed4dd162af653",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10602,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Dialogos.com.cy",
+      "author": "\u0386\u03bd\u03b4\u03c1\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5",
+      "title": "\u03a0\u03b9\u03bb\u03bf\u03c4\u03b9\u03ba\u03cc \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03b5\u03be\u03ac\u03bb\u03b5\u03b9\u03c8\u03b7 \u03ba\u03bf\u03c5\u03bd\u03bf\u03c5\u03c0\u03b9\u03bf\u03cd \u2013 \u03c4\u03af\u03b3\u03c1\u03b7\u03c2 \u03c3\u03c4\u03b7\u03bd \u039a\u03cd\u03c0\u03c1\u03bf \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03b7 \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03af\u03b4\u03bf\u03c5",
+      "description": "\u03a0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03bb\u03b5\u03b9\u03c8\u03b7 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u039a\u03cd\u03c0\u03c1\u03bf\u03c5 \u03c4\u03c9\u03bd \u03ba\u03bf\u03c5\u03bd\u03bf\u03c5\u03c0\u03b9\u03ce\u03bd \u03c4\u03bf\u03c5 \u03b5\u03af\u03b4\u03bf\u03c5\u03c2 Aedes aegypti, \u03b3\u03bd\u03c9\u03c3\u03c4\u03bf\u03cd \u03ba\u03b1\u03b9 \u03c9\u03c2 \u03ba\u03bf\u03c5\u03bd\u03bf\u03c5\u03c0\u03b9\u03bf\u03cd \u03c4\u03af\u03b3\u03c1\u03b7\u03c2, \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03c3\u03c5\u03bc\u03b2\u03ac\u03bb\u03bb\u03b5\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c3\u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b9\u03ce\u03bd Chikungunya \u03ba\u03b1\u03b9 Zika, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b4\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03ba\u03af\u03c4\u03c1\u03b9\u03bd\u03bf\u03c5 \u03c0\u03c5\u03c1\u03b5\u03c4\u03bf\u03cd, \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u2026",
+      "url": "https://dialogos.com.cy/pilotiko-programma-exaleipsi-koynoypioy-tigris-stin-kypro-anakoinose-kyriakidoy/",
+      "urlToImage": null,
+      "publishedAt": "2024-06-28 14:33:25",
+      "content": "\u00a9 Dialogos Media Group - , , , / , , , , ( ) , , , , , .",
+      "retrievedAt": "2024-06-29 19:05:21.263180",
+      "internal_id": "fd811a3761c3d7f6a9efd2d83184741aae548f44a87398906cc1b32b6dff4833",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10610,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Joins Global Efforts to Fight Mpox Outbreak in Africa",
+      "description": "COPENHAGEN, Denmark, June 28, 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced an extended commitment to help fight the current mpox outbreak in Africa. The Company\u2019s MVA-BN vaccine, the only FDA and EMA-approved mpox vaccine, which served as an importa\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/06/28/2905952/0/en/Bavarian-Nordic-Joins-Global-Efforts-to-Fight-Mpox-Outbreak-in-Africa.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-06-28 14:27:00",
+      "content": "Bavarian Nordic is committed to support global efforts to address the mpox situation in Africa through a donation of 15,000 doses of mpox vaccineEmergency Use Authorization for the M\u2026 [+6354 chars]",
+      "retrievedAt": "2024-06-29 19:05:22.258966",
+      "internal_id": "d422d0d857e1fa5d76d2e4361edb57ad733be8885559203801265176dc9dcced",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10600,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0397 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd Chikungunya",
+      "description": "\u0397 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd Chikungunya \u03b1\u03c6\u03bf\u03c1\u03ac \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c3\u03b5 \u03b5\u03bd\u03ae\u03bb\u03b9\u03ba\u03b5\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 \u03ac\u03bd\u03c9 \u03c4\u03c9\u03bd 18 \u03b5\u03c4\u03ce\u03bd.",
+      "url": "https://www.skai.gr/news/world/i-epitropi-egkrinei-to-emvolio-kata-tou-iou-chikungunya",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2022-06/euranet1.jpg?itok=EVeVknzg",
+      "publishedAt": "2024-06-28 14:11:25",
+      "content": "Chikungunya 18 . , Chikungunya, . Chikungunya , . (ECDC) Aedes albopictus 13 / Aedes aegypti , Chikungunya Zika, . Chikungunya 18 . , (EMA). , . , , 500.000 EU4Health Aedes aegypti , . . \u2026 [+58 chars]",
+      "retrievedAt": "2024-06-29 19:05:21.215869",
+      "internal_id": "833880361f0cbe3df2c901716a0b854e4dcfe46c9febbbca0980abcfc1d6592f",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10612,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sabcnews.com",
+      "author": "The Conversation",
+      "title": "Mpox: What to watch out for, treatment and what to worry about",
+      "description": "Mpox: What to watch out for, treatment and what to worry aboutsabcnews.com",
+      "url": "https://www.sabcnews.com/sabcnews/mpox-what-to-watch-out-for-treatment-and-what-to-worry-about/",
+      "urlToImage": "https://www.sabcnews.com/sabcnews/wp-content/uploads/2024/06/Lab.jpg",
+      "publishedAt": "2024-06-28 14:05:51",
+      "content": "The new strain of the mpox virus is spreading quickly along the eastern border of the Democratic Republic of Congo and is the most dangerous yet, says the World Health Organization. The current outbr\u2026 [+6195 chars]",
+      "retrievedAt": "2024-06-29 19:05:22.311311",
+      "internal_id": "78dae716e9b1d2f4d41849398ab73cb8ce4b97b7f3ae7d31a6db4e175550d00a",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10599,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Feng Lu, Jiahui Xu, Yaobao Liu, Zhenyu Ren, Junhu Chen, Weijuan Gong, Yi Yin, Yinyue Li, Li Qian, Xinlong He, Xiu Han, Zhijie Lin, Jingyuan Lu, Wenwen Zhang, Jiali Liu, Didier Menard, Eun-Taek Han, Jun Cao",
+      "title": "Plasmodium vivax serological exposure markers: PvMSP1-42-induced humoral and memory B-cell response generates long-lived antibodies",
+      "description": "Author summary P. vivax serological exposure markers (SEMs) that reflect exposure to blood-stage P. vivax parasites, could play an important role in assessing progress towards malaria elimination. Serological surveillance can be a useful tool for identifying \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012334",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012334.g007&size=inline",
+      "publishedAt": "2024-06-28 14:00:00",
+      "content": "Citation: Lu F, Xu J, Liu Y, Ren Z, Chen J, Gong W, et al. (2024) Plasmodium vivax serological exposure markers: PvMSP1-42-induced humoral and memory B-cell response generates long-lived antibodies. \u2026 [+49829 chars]",
+      "retrievedAt": "2024-06-29 19:05:20.525706",
+      "internal_id": "e03bbbc653ef46b397e2b9d9c55bb58417e9e4ecc90b03b4c1c57d29a99fd0b4",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10606,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. L\u2019UE autorise le premier vaccin contre un virus transmis par le moustique tigre",
+      "description": "La Commission europ\u00e9enne a autoris\u00e9 vendredi le premier vaccin contre le chikungunya, un virus principalement transmis par le moustique tigre.",
+      "url": "https://www.ledauphine.com/sante/2024/06/28/l-ue-autorise-le-premier-vaccin-contre-un-virus-transmis-par-le-moustique-tigre",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/651A9591-3FBA-49A7-B0BF-22C07C7C6208/FB1200/photo-1719581108.jpg",
+      "publishedAt": "2024-06-28 13:31:00",
+      "content": "L\u2019Europe se pr\u00e9pare \u00e0 combattre le moustique tigre, dont la propagation pourrait \u00eatre favoris\u00e9e par le d\u00e9r\u00e8glement climatique. La Commission europ\u00e9enne a autoris\u00e9 vendredi le premier vaccin contre le\u2026 [+1799 chars]",
+      "retrievedAt": "2024-06-29 19:05:21.536030",
+      "internal_id": "293ad2721af44e4dd26dcc0499a19c08bc884039a6dc8b7d16b6d2f02ab2ce3b",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10603,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "\u00daj olt\u00e1s j\u00f6n Eur\u00f3p\u00e1ban, sz\u00fanyogok terjesztik a k\u00f3rt",
+      "description": "Az Eur\u00f3pai Bizotts\u00e1g enged\u00e9lyezte a Ixchiq nev\u0171, a chikungunya-l\u00e1z elleni olt\u00f3anyag alkalmaz\u00e1s\u00e1t az Eur\u00f3pai Uni\u00f3ban; az Ixchiq az els\u0151 olyan olt\u00f3anyag lehet az EU-ban, amely v\u00e9delmet ny\u00fajt a 18 \u00e9ves \u00e9s ann\u00e1l id\u0151sebb feln\u0151tteknek a betegs\u00e9g ellen - jelentette \u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20240628/uj-oltas-jon-europaban-szunyogok-terjesztik-a-kort-695481",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/v/a/k/vakcina-oltas-koroavirus-497006.jpg",
+      "publishedAt": "2024-06-28 12:31:00",
+      "content": "Az Eur\u00f3pai Uni\u00f3 gy\u00f3gyszerfel\u00fcgyeleti hat\u00f3s\u00e1g\u00e1nak szerep\u00e9t bet\u00f6lt, amszterdami sz\u00e9khely Eur\u00f3pai Gy\u00f3gyszer\u00fcgyn\u00f6ks\u00e9g (EMA) m\u00e1jus v\u00e9g\u00e9n javasolta az olt\u00f3anyag uni\u00f3s haszn\u00e1lat\u00e1ra vonatkoz\u00f3 enged\u00e9ly megad\u00e1\u2026 [+1066 chars]",
+      "retrievedAt": "2024-06-29 19:05:21.516529",
+      "internal_id": "160d772db7b18f56410c684cbddf25a720a12696a1e674592384ea691725c470",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10593,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Callan JMB Inc.",
+      "title": "Callan JMB Inc. Supports Chicago Department of Public Health in Containing Measles Outbreak through Comprehensive Vaccine Management Plan",
+      "description": "Comprehensive plan ensured the quick, safe and reliable delivery of critical vaccines across the city to contain and ultimately declare the outbreak over ...",
+      "url": "https://www.globenewswire.com/news-release/2024/06/28/2905827/0/en/Callan-JMB-Inc-Supports-Chicago-Department-of-Public-Health-in-Containing-Measles-Outbreak-through-Comprehensive-Vaccine-Management-Plan.html",
+      "urlToImage": null,
+      "publishedAt": "2024-06-28 12:30:00",
+      "content": "Comprehensive plan ensured the quick, safe and reliable delivery of critical vaccines across the city to contain and ultimately declare the outbreak over SPRING BRANCH, Texas, June 28, 2024 (GLOBE N\u2026 [+3603 chars]",
+      "retrievedAt": "2024-06-29 19:05:17.759652",
+      "internal_id": "915b5d0a6d1a12662ea38d77c30d241ca58891c6d024949371ce5efd9d8ad3a0",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10598,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Monsoon Maladies: Malaria is more prevalent in the rainy season, 5 ways to stay safe",
+      "description": "During the monsoon season, heavy rainfall and increased humidity create ideal environments for mosquito breeding, especially among Anopheles mosquitoes, notorious for transmitting malaria.",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/monsoon-maladies-malaria-is-more-prevalent-in-the-rainy-season-5-ways-to-stay-safe/articleshow/111343719.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111343714,width-1200,height-630,imgsize-26480,overlay-etpanache/photo.jpg",
+      "publishedAt": "2024-06-28 12:20:27",
+      "content": "The arrival of the monsoon season is often welcomed by Indians, as it signifies a respite from the sweltering heat and unbearable humidity. However, the season of the rains comes with its own set of \u2026 [+2588 chars]",
+      "retrievedAt": "2024-06-29 19:05:20.509644",
+      "internal_id": "8050866b1482f2e161c828366832ff13cb6a79a6cb73372cdebfc881d83efe6c",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10595,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditorsuk@futurenet.com (Chas Newkey-Burden, The Week UK)",
+      "title": "How prepared are we for human bird flu?",
+      "description": "Government stocks up on vaccines as risk of new pandemic is 'plausible and imminent'",
+      "url": "https://theweek.com/health/how-prepared-are-we-for-human-bird-flu",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aN7vgbMfy4ggJvBiQRje6Y-1200-80.jpg",
+      "publishedAt": "2024-06-28 11:23:37",
+      "content": "The UK government has ordered tens of thousands of doses of a bird flu vaccine to boost immunity against the deadly H5N1 virus. This comes after the European Commission signed a deal for 40 million \u2026 [+3511 chars]",
+      "retrievedAt": "2024-06-29 19:05:18.477014",
+      "internal_id": "33c27f6eb058ff06a6ff9dad51843dc92a67674013a1f83f90c77dcc015235f6",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10601,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "AP",
+      "title": "Jason Day set to finally play Olympic golf for Australia at Paris Games",
+      "description": "Jason Day will finally make it to an Olympics while a brother-and-sister combination are two of the other three golfers set to play for Australia at the Paris Games. Day was ranked world No. 1 in 2016 when he decided not to play at the Rio Olympics, saying he\u2026",
+      "url": "https://www.business-standard.com/sports/olympics/jason-day-set-to-finally-play-olympic-golf-for-australia-at-paris-games-124062800179_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-10/12/thumb/fitandfill/400X400/1697094286-2014.jpeg",
+      "publishedAt": "2024-06-28 10:38:33",
+      "content": "Jason Day was ranked world No. 1 in 2016 when he decided not to play at the Rio Olympics, saying he was concerned about going to Brazil with the Zika virus spreading while his wife was pregnant The \u2026 [+2225 chars]",
+      "retrievedAt": "2024-06-29 19:05:21.243700",
+      "internal_id": "d21d99de738b501e85308fc2d7ed274e22efd842eb0ccbf2daaa12c3e04f8edf",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10592,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Pertussis: the green book, chapter 24",
+      "description": "Pertussis (whooping cough) immunisation information for public health professionals, including updates.",
+      "url": "https://www.gov.uk/government/publications/pertussis-the-green-book-chapter-24",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-06-28 09:29:43",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2024-06-29 19:05:16.809066",
+      "internal_id": "57c9bdb061f459c1bef4f580ad040e88cd89778972944996093ca2c7c6bf5a24",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10596,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Economictimes.com",
+      "author": "ET Online",
+      "title": "7 ways to keep dengue mosquitoes at bay",
+      "description": "Dengue mosquitoes breed in standing water. Regularly empty and clean containers like flower pots, birdbaths, and buckets to prevent mosquito breeding sites. Here are other ways to \u200bkeep dengue mosquitoes at bay:\u200b",
+      "url": "https://m.economictimes.com/news/web-stories/7-ways-to-keep-dengue-mosquitoes-at-bay/slideshow/111336521.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111336865,width-900,height-460,resizemode-4.cms",
+      "publishedAt": "2024-06-28 08:16:56",
+      "content": "Regularly clean and dispose of garbage properly. Remove any items that can collect water, such as old tires, cans, and plastic containers, to reduce mosquito breeding sites.",
+      "retrievedAt": "2024-06-29 19:05:19.217271",
+      "internal_id": "ded7a947831cda255e66f885d2d585e7ec12e2b681c06f948e57e8b6b662112b",
+      "publishedAtLabel": "Jun 28"
+    },
     {
       "id": 10585,
       "query": [
@@ -27104,169 +27484,6 @@
       "retrievedAt": "2024-05-14 07:06:39.254296",
       "internal_id": "00046bd772f85527639d1ae5775f0ac5006b23f97d33b3b0c839dde336b25bce",
       "publishedAtLabel": "May 13"
-    },
-    {
-      "id": 9090,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Jungewelt.de",
-      "author": "Gerrit Hoekman",
-      "title": "Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]",
-      "description": "Laut britischen Forschern k\u00f6nnte sich das Verbreitungsgebiet der Krankheit durch Wasserknappheit in Afrika verlagern.",
-      "url": "https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html",
-      "urlToImage": "https://www.jungewelt.de/img/1100/194842.jpg",
-      "publishedAt": "2024-05-12 17:37:53",
-      "content": "Uneingeschr\u00e4nkter Zugriff auf alle Inhalte: Erleben Sie die Tageszeitung junge Welt in gedruckter oder digitaler Form oder beides kombiniert. Nachrichtenauswahl und -aufbereitung erfordern finanziel\u2026 [+458 chars]",
-      "retrievedAt": "2024-05-13 19:05:19.009623",
-      "internal_id": "9b89f04b0191c98b004061d5552b21c33276071be45d33faaa916e9e2d7c562b",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9087,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Ag\u00eancia Fapesp",
-      "title": "Monitoramento mostra que \u00e9 poss\u00edvel prever epidemias de chikungunya por meio de vigil\u00e2ncia",
-      "description": "Estudo realizado em S\u00e3o Jos\u00e9 do Rio Preto descobriu que o v\u00edrus conhecido por provocar epidemias massivas tamb\u00e9m pode circular silenciosamente por uma comunidade, provocando poucas infec\u00e7\u00f5es durante anos. Novo perfil do chikungunya refor\u00e7a a import\u00e2ncia de fa\u2026",
-      "url": "https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/05/chikungunya-fapesp.jpg",
-      "publishedAt": "2024-05-12 15:07:47",
-      "content": "Texto: Maria Fernanda Ziegler | Ag\u00eancia FAPESP Conhecido por provocar epidemias massivas at\u00e9 mais impactantes que as de dengue , o v\u00edrus do chikungunya pode tamb\u00e9m apresentar um perfil menos intenso\u2026 [+4913 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.940074",
-      "internal_id": "f88230cf667e1df9939474f657a44e390412cd9c9e5b8f552c90558f548fbede",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9084,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Kevinmd.com",
-      "author": "Dr. Roxanne Becker",
-      "title": "Eating our way to the next pandemic",
-      "description": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic could be around the corner, and the food we choose to purchase \u2026",
-      "url": "https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html",
-      "urlToImage": "https://www.kevinmd.com/wp-content/uploads/shutterstock_2169452695.jpg",
-      "publishedAt": "2024-05-12 15:00:45",
-      "content": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic cou\u2026 [+5251 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.348008",
-      "internal_id": "02a1befaf085db5997a8e6a23b16dfc87efdab2ac46bbc11db65fca5749c2c10",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9083,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Futura",
-      "author": "Diana Bell, Professeur de biologie de la conservation, University of East Anglia \u2013 The Conversation",
-      "title": "Les animaux vivent d\u00e9j\u00e0 la prochaine pand\u00e9mie",
-      "description": "Ces derni\u00e8res ann\u00e9es, la grippe aviaire H5N1 a provoqu\u00e9 la mort de millions de volailles et d'oiseaux mais aussi de nombreux mammif\u00e8res. Ce virus qui semble s'affranchir de toutes les barri\u00e8res deviendra-t-il une menace pand\u00e9mique pour la biodiversit\u00e9 dans so\u2026",
-      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/",
-      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/f/7/cf74a6d59a_50215931_mouette-tridactyle.jpg",
-      "publishedAt": "2024-05-12 12:54:56",
-      "content": "Quelle sera la prochaine pand\u00e9mie ? Je suis une biologiste de la conservation et j'\u00e9tudie les maladies infectieuses \u00e9mergentes. Quand on me demande quelle sera la prochaine pand\u00e9mie, je r\u00e9ponds souve\u2026 [+7162 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.339476",
-      "internal_id": "a84ea503fedd7f1ac3b05f99f4c90265ee8a11e65f8c256aff70e956131ed8b4",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9089,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Zhaki Abdullah",
-      "title": "High worldwide dengue numbers may not impact Singapore: Experts",
-      "description": "Low visitor traffic from South America and diversity of strains in Singapore are among factors cited. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts",
-      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/05/12/2024022590212087gin8446.jpg?VersionId=vvNZ9EWHqfSrd4iFniVTnjtTGI9KcvCY",
-      "publishedAt": "2024-05-12 12:44:29",
-      "content": "SINGAPORE Even as dengue numbers soar worldwide, experts say it remains to be seen how the record figures elsewhere will impact the number of infections in Singapore. To date, there have been more \u2026 [+2599 chars]",
-      "retrievedAt": "2024-05-13 19:05:18.003818",
-      "internal_id": "727876864f7933c46fcd96e0bc2e83db0b17f44df127f56e13aa909da894ab26",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9088,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension",
-      "description": "The authorities first got suspicious last November when health officials were denied entry to her home for dengue-prevention measures.",
-      "url": "https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391",
-      "urlToImage": "https://c.ndtvimg.com/2023-04/bvih5i2g_crime-scene_625x300_03_April_23.jpg",
-      "publishedAt": "2024-05-12 11:19:06",
-      "content": "Upon investigation, police found that the man had been dead for a long time. A woman in Taiwan has been accused of hiding her dead father's body in her home for years to claim his military pension. \u2026 [+2159 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.955426",
-      "internal_id": "5248731708cdfd7954e9181bfde30335b8537f7c3ec9a9248bfc362b58fc6e45",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9085,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Adevarul.ro",
-      "author": "Afrodita Cicovschi",
-      "title": "Gripa aviar\u0103 la fermele de vaci. Cum \u00eencearc\u0103 SUA s\u0103 limiteze r\u0103sp\u00e2ndirea virusului",
-      "description": "Administra\u021bia Biden \u00eencearc\u0103 din r\u0103sputeri s\u0103 limiteze r\u0103sp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijor\u0103rile legate de infec\u021biile umane cu virusul H5N1, scrie Reuters.",
-      "url": "https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html",
-      "urlToImage": "https://cdn.adh.reperio.news/image-c/ca1a7021-d283-4761-bda8-95aff2d28406/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-      "publishedAt": "2024-05-12 10:55:08",
-      "content": "Administraia Biden \u00eencearc din rsputeri s limiteze rsp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijorrile legate de infeciile umane cu virusul H5N1, scrie Reuters. Administraia \u2026 [+2783 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.361888",
-      "internal_id": "cb6c5efd69cd8e0d5f36f551f55c7ae3eac7e45080a542c7cbb079419e3f5ab2",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9086,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Almayadeen.net",
-      "author": "\u0627\u0644\u0645\u064a\u0627\u062f\u064a\u0646 \u0646\u062a",
-      "title": "\u0627\u0644\u0623\u0628\u0642\u0627\u0631 \u0642\u062f \u062a\u0646\u0642\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0627\u0644\u0628\u0634\u0631.. \u0643\u064a\u0641\u061f",
-      "description": "\u062f\u0631\u0627\u0633\u0629 \u062c\u062f\u064a\u062f\u0629 \u0644\u0639\u0644\u0645\u0627\u0621 \u0641\u064a \u0627\u0644\u0635\u062d\u0629 \u062a\u0638\u0647\u0631 \u0623\u0646\u0651 \u0623\u0643\u064a\u0627\u0633 \u0636\u0631\u0639 \u0627\u0644\u0628\u0642\u0631 \u0627\u0644\u062b\u062f\u064a\u064a\u0629 \u0642\u062f \u062a\u0635\u0628\u062d \"\u0623\u0648\u0639\u064a\u0629 \u062e\u0644\u0637\" \u0645\u062d\u0645\u0651\u0644\u0629 \u0628\u0645\u0633\u062a\u0642\u0628\u0644\u0627\u062a \u0627\u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0627\u0644\u0637\u064a\u0648\u0631 \u0648\u062a\u0633\u0627\u0639\u062f \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u0639\u0644\u0649 \u0627\u0644\u0627\u0646\u062a\u0634\u0627\u0631 \u0628\u064a\u0646 \u0627\u0644\u0628\u0634\u0631 \u0645\u062b\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 (H5N1).. \u0648\u0627\u0644\u062c\u062f\u0644 \u064a\u062a\u0648\u0627\u0635\u0644 \u062d\u0648\u0644 \u0635\u062d\u0629 \u0627\u0644\u0623\u0644\u0628\u0627\u0646!",
-      "url": "https://www.almayadeen.net/health/\u0627\u0644\u0623\u0628\u0642\u0627\u0631-\u0642\u062f-\u062a\u0646\u0642\u0644-\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627-\u0627\u0644\u0637\u064a\u0648\u0631-\u0625\u0644\u0649-\u0627\u0644\u0628\u0634\u0631---\u0643\u064a\u0641",
-      "urlToImage": "https://alpha-ar-media.almayadeen.net/media/image/2024/5/12/d06f4808-ce20-4113-a8ab-c110693c3f94.png?v=2&width=1000",
-      "publishedAt": "2024-05-12 08:54:54",
-      "content": "\" \" (H5N1) \"\" \" \" \"BioRxiv\" \"WEb Med\". . (H5N1). . . Many people are wondering how we can monitor this H5N1 situation. We sequence the whole virome from wastewater, and, well, H5N1 starte\u2026 [+574 chars]",
-      "retrievedAt": "2024-05-13 19:05:17.408221",
-      "internal_id": "0bfb1e1b5f252d6082d222066eba0fbfd5c00f340cce4de7fb8d558713f0feb9",
-      "publishedAtLabel": "May 12"
-    },
-    {
-      "id": 9082,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Dogs entering US must be 6 months old, microchipped to prevent rabies spread",
-      "description": "New York \u2014 All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new rules require vaccination for dogs that have be\u2026",
-      "url": "https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html",
-      "urlToImage": "https://gdb.voanews.com/6633B470-639B-4589-882A-3066C2D759A1.jpg",
-      "publishedAt": "2024-05-12 07:07:40",
-      "content": "New York All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday\u2026 [+3079 chars]",
-      "retrievedAt": "2024-05-13 19:05:15.872833",
-      "internal_id": "d8312d1a3a146431fe86ca9d38efa3dc47fa299be6919e26fd1c609f7279b62c",
-      "publishedAtLabel": "May 12"
     }
   ]
 }

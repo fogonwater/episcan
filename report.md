@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-06-29 07:06
-- **Most recent article:** 2024-06-28 04:00:00
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-06-29 19:05
+- **Most recent article:** 2024-06-28 18:22:15
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 87 | 58 | 61 | 64 | 115 | 62 | 82 | 529 |
-| h5n1 | 60 | 95 | 65 | 78 | 55 | 29 | 22 | 404 |
-| malaria | 13 | 17 | 25 | 21 | 37 | 20 | 17 | 150 |
-| mpox | 10 | 9 | 16 | 8 | 26 | 14 | 41 | 124 |
-| measles | 29 | 15 | 16 | 11 | 7 | 11 | 1 | 90 |
-| chikungunya | 12 | 3 | 18 | 5 | 14 | 5 | 8 | 65 |
-| rabies | 10 | 8 | 15 | 9 | 2 | 5 | 7 | 56 |
-| pertussis | 5 | 6 | 6 | 9 | 11 | 11 | 0 | 48 |
-| zika | 6 | 3 | 3 | 0 | 12 | 3 | 12 | 39 |
+| dengue | 84 | 58 | 61 | 64 | 115 | 62 | 83 | 527 |
+| h5n1 | 56 | 95 | 65 | 78 | 55 | 29 | 24 | 402 |
+| malaria | 12 | 17 | 25 | 21 | 37 | 20 | 20 | 152 |
+| mpox | 10 | 9 | 16 | 8 | 26 | 14 | 45 | 128 |
+| measles | 29 | 15 | 16 | 11 | 7 | 11 | 2 | 91 |
+| chikungunya | 11 | 3 | 18 | 5 | 14 | 5 | 16 | 72 |
+| rabies | 9 | 8 | 15 | 9 | 2 | 5 | 7 | 55 |
+| pertussis | 5 | 6 | 6 | 9 | 11 | 11 | 1 | 49 |
+| zika | 6 | 3 | 3 | 0 | 12 | 3 | 15 | 42 |
 | hpai | 3 | 7 | 12 | 2 | 4 | 4 | 3 | 35 |
 | meningitis | 9 | 4 | 1 | 6 | 3 | 1 | 1 | 25 |
 | leptospirosis | 3 | 0 | 5 | 1 | 1 | 1 | 2 | 13 |
@@ -33,6 +33,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-26 (zika)
+
+- [Πιλοτικό πρόγραμμα για εξάλειψη κουνουπιού – τίγρης στην Κύπρο ανακοίνωσε η Κυριακίδου](https://dialogos.com.cy/pilotiko-programma-exaleipsi-koynoypioy-tigris-stin-kypro-anakoinose-kyriakidoy/) (Dialogos.com.cy)
+
+- [Η Επιτροπή εγκρίνει το εμβόλιο κατά του ιού Chikungunya](https://www.skai.gr/news/world/i-epitropi-egkrinei-to-emvolio-kata-tou-iou-chikungunya) (Skai.gr)
+
+- [Jason Day set to finally play Olympic golf for Australia at Paris Games](https://www.business-standard.com/sports/olympics/jason-day-set-to-finally-play-olympic-golf-for-australia-at-paris-games-124062800179_1.html) (Business Standard)
 
 - [The NS2B-PP1α-eIF2α axis: Inhibiting stress granule formation and Boosting Zika virus replication](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012355) (Plos.org)
 
@@ -86,7 +92,19 @@ Source: [News API](https://newsapi.org/)
 
 - [AstriVax enters clinical phase with its novel vaccine platform technology](https://www.globenewswire.com/news-release/2024/06/24/2902721/0/en/AstriVax-enters-clinical-phase-with-its-novel-vaccine-platform-technology.html) (GlobeNewswire)
 
+## 24-26 (pertussis)
+
+- [Guidance: Pertussis: the green book, chapter 24](https://www.gov.uk/government/publications/pertussis-the-green-book-chapter-24) (Www.gov.uk)
+
 ## 24-26 (mpox)
+
+- [Congo aprova vacinação contra mpox para conter surto](https://tecnologia.ig.com.br/parceiros/canaltech/2024-06-28/congo-aprova-vacinacao-contra-mpox-para-conter-surto.html) (Ig.com.br)
+
+- [Mpox: Virus behind new DRC outbreak is most dangerous strain yet, experts warn](https://www.bmj.com/content/385/bmj.q1454) (The BMJ)
+
+- [Bavarian Nordic Joins Global Efforts to Fight Mpox Outbreak in Africa](https://www.globenewswire.com/news-release/2024/06/28/2905952/0/en/Bavarian-Nordic-Joins-Global-Efforts-to-Fight-Mpox-Outbreak-in-Africa.html) (GlobeNewswire)
+
+- [Mpox: What to watch out for, treatment and what to worry about](https://www.sabcnews.com/sabcnews/mpox-what-to-watch-out-for-treatment-and-what-to-worry-about/) (Sabcnews.com)
 
 - [Mpox: what to watch out for, treatment and what to worry about](https://theconversation.com/mpox-what-to-watch-out-for-treatment-and-what-to-worry-about-233466) (The Conversation Africa)
 
@@ -176,9 +194,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (measles)
 
+- [Callan JMB Inc. Supports Chicago Department of Public Health in Containing Measles Outbreak through Comprehensive Vaccine Management Plan](https://www.globenewswire.com/news-release/2024/06/28/2905827/0/en/Callan-JMB-Inc-Supports-Chicago-Department-of-Public-Health-in-Containing-Measles-Outbreak-through-Comprehensive-Vaccine-Management-Plan.html) (GlobeNewswire)
+
 - [The implementation of a new measles vaccine mandate in Germany: A qualitative study in local health departments](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306003) (Plos.org)
 
 ## 24-26 (malaria)
+
+- [NGO decries lack of funding for primary health centres](https://punchng.com/ngo-decries-lack-of-funding-for-primary-health-centres/) (The Punch)
+
+- [Plasmodium vivax serological exposure markers: PvMSP1-42-induced humoral and memory B-cell response generates long-lived antibodies](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012334) (Plos.org)
+
+- [Monsoon Maladies: Malaria is more prevalent in the rainy season, 5 ways to stay safe](https://economictimes.indiatimes.com/magazines/panache/monsoon-maladies-malaria-is-more-prevalent-in-the-rainy-season-5-ways-to-stay-safe/articleshow/111343719.cms) (The Times of India)
 
 - [A new landscape for malaria vaccine development](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012309) (Plos.org)
 
@@ -230,6 +256,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (h5n1)
 
+- [New study shows pasteurization process kills bird flu in milk, FDA says](https://www.cbsnews.com/news/pasteurization-bird-flu-milk-fda-study/) (CBS News)
+
+- [How prepared are we for human bird flu?](https://theweek.com/health/how-prepared-are-we-for-human-bird-flu) (The Week Magazine)
+
 - [Highly Pathogenic Avian Influenza Virus A(H5N1) Clade 2.3.4.4b Infection in Free-Ranging Polar Bear, Alaska, USA](https://wwwnc.cdc.gov/eid/article/30/8/24-0481_article) (Cdc.gov)
 
 - [Bird flu stays stable on milking equipment for at least one hour](https://www.sciencedaily.com/releases/2024/06/240627172039.htm) (Science Daily)
@@ -275,6 +305,8 @@ Source: [News API](https://newsapi.org/)
 - [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
+
+- [7 ways to keep dengue mosquitoes at bay](https://m.economictimes.com/news/web-stories/7-ways-to-keep-dengue-mosquitoes-at-bay/slideshow/111336521.cms) (Economictimes.com)
 
 - [CDC issues dengue fever alert as hundreds of cases confirmed in Florida...](https://www.the-express.com/news/health/141551/cdc-dengue-fever-alert-cases-florida-puerto-rico) (The-express.com)
 
@@ -441,6 +473,22 @@ Source: [News API](https://newsapi.org/)
 - [Ministério da Saúde amplia faixa etária para vacina da dengue em doses prestes a vencer; veja regras](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-amplia-faixa-etaria-para-vacina-da-dengue-em-doses-prestes-a-vencer-veja-regras,d8a927124262198f72703decbd358b98mgwk9ov5.html) (Terra.com.br)
 
 ## 24-26 (chikungunya)
+
+- [Chikungunya-Viren: EU lässt Impfstoff gegen gefährliches Tropenvirus zu](https://www.tagesspiegel.de/wissen/chikungunya-viren-eu-lasst-impfstoff-gegen-gefahrliches-tropenvirus-zu-11924924.html) (Der Tagesspiegel)
+
+- [Chikungunya-Viren: EU lässt Impfstoff gegen gefährliches Tropenvirus zu](https://www.stern.de/panorama/wissen/chikungunya-viren--eu-laesst-impfstoff-gegen-gefaehrliches-tropenvirus-zu-34838428.html) (STERN.de)
+
+- [Bruselas autoriza la primera vacuna contra el virus chikungunya, que se transmite por mosquitos](https://www.abc.es/sociedad/bruselas-autoriza-primera-vacuna-virus-chikungunya-transmite-20240628174155-nt.html) (Www.abc.es)
+
+- [UE a autorizat primul vaccin împotriva unui virus transmis de țântarul tigru. Specia este din ce în ce mai prezentă în Europa](https://www.digi24.ro/stiri/actualitate/sanatate/ue-a-autorizat-primul-vaccin-impotriva-unui-virus-transmis-de-tantarul-tigru-specia-este-din-ce-in-ce-mai-prezenta-in-europa-2842779) (Digi24.ro)
+
+- [Πιλοτικό πρόγραμμα για εξάλειψη κουνουπιού – τίγρης στην Κύπρο ανακοίνωσε η Κυριακίδου](https://dialogos.com.cy/pilotiko-programma-exaleipsi-koynoypioy-tigris-stin-kypro-anakoinose-kyriakidoy/) (Dialogos.com.cy)
+
+- [Η Επιτροπή εγκρίνει το εμβόλιο κατά του ιού Chikungunya](https://www.skai.gr/news/world/i-epitropi-egkrinei-to-emvolio-kata-tou-iou-chikungunya) (Skai.gr)
+
+- [Santé. L’UE autorise le premier vaccin contre un virus transmis par le moustique tigre](https://www.ledauphine.com/sante/2024/06/28/l-ue-autorise-le-premier-vaccin-contre-un-virus-transmis-par-le-moustique-tigre) (Le Dauphiné Libéré)
+
+- [Új oltás jön Európában, szúnyogok terjesztik a kórt](https://www.portfolio.hu/gazdasag/20240628/uj-oltas-jon-europaban-szunyogok-terjesztik-a-kort-695481) (Portfolio.hu)
 
 - [Bavarian Nordic Submits Marketing Authorization Application for its Chikungunya Vaccine Candidate to EMA](https://www.investing.com/news/press-releases/bavarian-nordic-submits-marketing-authorization-application-for-its-chikungunya-vaccine-candidate-to-ema-93CH-3496897) (Investing.com)
 
@@ -2916,8 +2964,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies alert: BSF Meghalaya steps up prevention efforts in Muktapur](https://www.syllad.com/rabies-alert-bsf-meghalaya-steps-up-prevention-efforts-in-muktapur/) (Syllad.com)
 
-- [Dogs entering US must be 6 months old, microchipped to prevent rabies spread](https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html) (VOA News)
-
 ## 24-20 (pertussis)
 
 - [Health Department confirms 6 whooping cough cases in Lexington: What to look out for?](https://www.wkyt.com/2024/05/17/health-department-confirms-6-whooping-cough-cases-lexington-what-look-out/) (WKYT)
@@ -3058,8 +3104,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Distribution and dynamics of Anopheles gambiae s.l. larval habitats in three Senegalese cities with high urban malaria incidence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303473) (Plos.org)
 
-- [Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]](https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html) (Jungewelt.de)
-
 ## 24-20 (leptospirosis)
 
 - [Factors associated with differential seropositivity to Leptospira interrogans and Leptospira kirschneri in a high transmission urban setting for leptospirosis in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011292) (Plos.org)
@@ -3189,14 +3233,6 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, il virus rilevato nelle acque reflue in nove città del Texas. Attesa per il monitoraggio dei Cdc Usa](https://www.ilfattoquotidiano.it/2024/05/13/aviaria-il-virus-rilevato-nelle-acque-reflue-in-nove-citta-del-texas-attesa-per-il-monitoraggio-dei-cdc-usa/7546403/) (Ilfattoquotidiano.it)
 
 - [CDC wastewater surveillance dashboard to track bird flu hotspots](https://www.statnews.com/2024/05/13/cdc-wastewater-surveillance-dashboard-bird-flu-outbreak-monitor/) (STAT)
-
-- [Eating our way to the next pandemic](https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html) (Kevinmd.com)
-
-- [Les animaux vivent déjà la prochaine pandémie](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/) (Futura)
-
-- [Gripa aviară la fermele de vaci. Cum încearcă SUA să limiteze răspândirea virusului](https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html) (Adevarul.ro)
-
-- [الأبقار قد تنقل إنفلونزا الطيور إلى البشر.. كيف؟](https://www.almayadeen.net/health/الأبقار-قد-تنقل-إنفلونزا-الطيور-إلى-البشر---كيف) (Almayadeen.net)
 
 ## 24-20 (dengue)
 
@@ -3368,12 +3404,6 @@ Source: [News API](https://newsapi.org/)
 
 - [What should I look out for when choosing a mosquito repellent?](https://www.straitstimes.com/singapore/health/what-should-i-look-out-for-when-choosing-a-mosquito-repellent) (The Straits Times)
 
-- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)
-
-- [High worldwide dengue numbers may not impact Singapore: Experts](https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts) (The Straits Times)
-
-- [Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension](https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391) (NDTV News)
-
 ## 24-20 (chikungunya)
 
 - [Gov't issues alert to schools on possible health risks due to flooding](https://www.citizen.digital/news/govt-issues-alert-to-schools-on-possible-health-risks-due-to-flooding-n342359) (Citizen.digital)
@@ -3397,5 +3427,3 @@ Source: [News API](https://newsapi.org/)
 - [Valneva Reports Further Positive Pivotal Phase 3 Data in Adolescents for its Single-Shot Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/en/Valneva-Reports-Further-Positive-Pivotal-Phase-3-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-Vaccine.html) (GlobeNewswire)
 
 - [Valneva annonce de nouveaux résultats positifs chez les adolescents pour l’étude pivot de Phase 3 de son vaccin à dose unique contre le chikungunya](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/fr/Valneva-annonce-de-nouveaux-r%C3%A9sultats-positifs-chez-les-adolescents-pour-l-%C3%A9tude-pivot-de-Phase-3-de-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya.html) (GlobeNewswire)
-
-- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)
