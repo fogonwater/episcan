@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2024-06-28 19:05
-- **Most recent article:** 2024-06-27 18:35:04
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-06-29 07:06
+- **Most recent article:** 2024-06-28 04:00:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-20 | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 84 | 58 | 61 | 64 | 115 | 62 | 78 | 522 |
-| h5n1 | 56 | 95 | 65 | 78 | 55 | 29 | 19 | 397 |
-| malaria | 12 | 17 | 25 | 21 | 37 | 20 | 17 | 149 |
+| dengue | 87 | 58 | 61 | 64 | 115 | 62 | 82 | 529 |
+| h5n1 | 60 | 95 | 65 | 78 | 55 | 29 | 22 | 404 |
+| malaria | 13 | 17 | 25 | 21 | 37 | 20 | 17 | 150 |
 | mpox | 10 | 9 | 16 | 8 | 26 | 14 | 41 | 124 |
 | measles | 29 | 15 | 16 | 11 | 7 | 11 | 1 | 90 |
-| chikungunya | 11 | 3 | 18 | 5 | 14 | 5 | 8 | 64 |
-| rabies | 9 | 8 | 15 | 9 | 2 | 5 | 7 | 55 |
+| chikungunya | 12 | 3 | 18 | 5 | 14 | 5 | 8 | 65 |
+| rabies | 10 | 8 | 15 | 9 | 2 | 5 | 7 | 56 |
 | pertussis | 5 | 6 | 6 | 9 | 11 | 11 | 0 | 48 |
 | zika | 6 | 3 | 3 | 0 | 12 | 3 | 12 | 39 |
-| hpai | 3 | 7 | 12 | 2 | 4 | 4 | 2 | 34 |
+| hpai | 3 | 7 | 12 | 2 | 4 | 4 | 3 | 35 |
 | meningitis | 9 | 4 | 1 | 6 | 3 | 1 | 1 | 25 |
 | leptospirosis | 3 | 0 | 5 | 1 | 1 | 1 | 2 | 13 |
 | typhoid | 2 | 0 | 0 | 1 | 1 | 2 | 3 | 9 |
@@ -222,11 +222,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (hpai)
 
+- [Highly Pathogenic Avian Influenza Virus A(H5N1) Clade 2.3.4.4b Infection in Free-Ranging Polar Bear, Alaska, USA](https://wwwnc.cdc.gov/eid/article/30/8/24-0481_article) (Cdc.gov)
+
 - [Research: Avian influenza (bird flu) in Australia](https://www.gov.uk/government/publications/avian-influenza-bird-flu-in-australia) (Www.gov.uk)
 
 - [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
 
 ## 24-26 (h5n1)
+
+- [Highly Pathogenic Avian Influenza Virus A(H5N1) Clade 2.3.4.4b Infection in Free-Ranging Polar Bear, Alaska, USA](https://wwwnc.cdc.gov/eid/article/30/8/24-0481_article) (Cdc.gov)
+
+- [Bird flu stays stable on milking equipment for at least one hour](https://www.sciencedaily.com/releases/2024/06/240627172039.htm) (Science Daily)
+
+- [Canada Monitors Milk For H5N1 Amid Outbreaks In U.S. Dairy Herds](https://www.forbes.com/sites/victoriaforster/2024/06/27/canada-monitors-milk-for-h5n1-amid-outbreaks-in-us-dairy-herds/) (Forbes)
 
 - [H5N1 bird flu can remain infectious in raw milk for at least an hour, study finds](https://www.livescience.com/health/flu/h5n1-bird-flu-can-remain-infectious-in-raw-milk-for-at-least-an-hour-study-finds) (Live Science)
 
@@ -268,6 +276,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (dengue)
 
+- [CDC issues dengue fever alert as hundreds of cases confirmed in Florida...](https://www.the-express.com/news/health/141551/cdc-dengue-fever-alert-cases-florida-puerto-rico) (The-express.com)
+
+- [OMS alerta que el dengue se ha disparado a niveles históricos: Así van los contagios en México](https://www.elfinanciero.com.mx/salud/2024/06/27/casos-de-dengue-en-mexico-junio-2024-que-es-y-como-se-contagia-alerta-la-oms-por-infecciones/) (El Financiero)
+
 - [Bebê nasce e morre no mesmo dia vítima da dengue no Paraná. Entenda](https://www.metropoles.com/saude/dengue-mata-bebe-horas-apos-parto) (Metropoles.com)
 
 - [Dengue—Known As Breakbone Fever—Is Having A Record Breaking Year](https://www.forbes.com/sites/matthewbinnicker/2024/06/27/dengue---known-as-breakbone-fever---is-having-a-record-breaking-year/) (Forbes)
@@ -299,6 +311,10 @@ Source: [News API](https://newsapi.org/)
 - [Americans face a higher risk of dengue this year, CDC warns](https://www.livescience.com/health/viruses-infections-disease/americans-face-a-higher-risk-of-dengue-this-year-cdc-warns) (Live Science)
 
 - [Dengue virus fever in USA: Over 9.7 million cases reported. Check symptoms, treatment](https://economictimes.indiatimes.com/news/international/us/dengue-virus-fever-in-usa-over-9-7-million-cases-reported-check-symptoms-treatment/articleshow/111293787.cms) (The Times of India)
+
+- [CDC warns of mosquito-driven virus as cases spike](https://www.foxnews.com/health/cdc-warns-mosquito-driven-virus-cases-spike) (Fox News)
+
+- [The Symptoms Can Be 'Dreadful,' and It's Spreading](https://www.newser.com/story/352175/cdc-risk-of-dengue-in-us-just-went-up.html) (Newser)
 
 - [Wednesday, June 26, 2024](https://kffhealthnews.org/morning-briefing/wednesday-june-26-2024/) (Kffhealthnews.org)
 
@@ -2900,6 +2916,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies alert: BSF Meghalaya steps up prevention efforts in Muktapur](https://www.syllad.com/rabies-alert-bsf-meghalaya-steps-up-prevention-efforts-in-muktapur/) (Syllad.com)
 
+- [Dogs entering US must be 6 months old, microchipped to prevent rabies spread](https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html) (VOA News)
+
 ## 24-20 (pertussis)
 
 - [Health Department confirms 6 whooping cough cases in Lexington: What to look out for?](https://www.wkyt.com/2024/05/17/health-department-confirms-6-whooping-cough-cases-lexington-what-look-out/) (WKYT)
@@ -3040,6 +3058,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Distribution and dynamics of Anopheles gambiae s.l. larval habitats in three Senegalese cities with high urban malaria incidence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303473) (Plos.org)
 
+- [Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]](https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html) (Jungewelt.de)
+
 ## 24-20 (leptospirosis)
 
 - [Factors associated with differential seropositivity to Leptospira interrogans and Leptospira kirschneri in a high transmission urban setting for leptospirosis in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011292) (Plos.org)
@@ -3169,6 +3189,14 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria, il virus rilevato nelle acque reflue in nove città del Texas. Attesa per il monitoraggio dei Cdc Usa](https://www.ilfattoquotidiano.it/2024/05/13/aviaria-il-virus-rilevato-nelle-acque-reflue-in-nove-citta-del-texas-attesa-per-il-monitoraggio-dei-cdc-usa/7546403/) (Ilfattoquotidiano.it)
 
 - [CDC wastewater surveillance dashboard to track bird flu hotspots](https://www.statnews.com/2024/05/13/cdc-wastewater-surveillance-dashboard-bird-flu-outbreak-monitor/) (STAT)
+
+- [Eating our way to the next pandemic](https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html) (Kevinmd.com)
+
+- [Les animaux vivent déjà la prochaine pandémie](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/) (Futura)
+
+- [Gripa aviară la fermele de vaci. Cum încearcă SUA să limiteze răspândirea virusului](https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html) (Adevarul.ro)
+
+- [الأبقار قد تنقل إنفلونزا الطيور إلى البشر.. كيف؟](https://www.almayadeen.net/health/الأبقار-قد-تنقل-إنفلونزا-الطيور-إلى-البشر---كيف) (Almayadeen.net)
 
 ## 24-20 (dengue)
 
@@ -3340,6 +3368,12 @@ Source: [News API](https://newsapi.org/)
 
 - [What should I look out for when choosing a mosquito repellent?](https://www.straitstimes.com/singapore/health/what-should-i-look-out-for-when-choosing-a-mosquito-repellent) (The Straits Times)
 
+- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)
+
+- [High worldwide dengue numbers may not impact Singapore: Experts](https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts) (The Straits Times)
+
+- [Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension](https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391) (NDTV News)
+
 ## 24-20 (chikungunya)
 
 - [Gov't issues alert to schools on possible health risks due to flooding](https://www.citizen.digital/news/govt-issues-alert-to-schools-on-possible-health-risks-due-to-flooding-n342359) (Citizen.digital)
@@ -3363,3 +3397,5 @@ Source: [News API](https://newsapi.org/)
 - [Valneva Reports Further Positive Pivotal Phase 3 Data in Adolescents for its Single-Shot Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/en/Valneva-Reports-Further-Positive-Pivotal-Phase-3-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-Vaccine.html) (GlobeNewswire)
 
 - [Valneva annonce de nouveaux résultats positifs chez les adolescents pour l’étude pivot de Phase 3 de son vaccin à dose unique contre le chikungunya](https://www.globenewswire.com/news-release/2024/05/13/2880069/0/fr/Valneva-annonce-de-nouveaux-r%C3%A9sultats-positifs-chez-les-adolescents-pour-l-%C3%A9tude-pivot-de-Phase-3-de-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya.html) (GlobeNewswire)
+
+- [Monitoramento mostra que é possível prever epidemias de chikungunya por meio de vigilância](https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/) (Uol.com.br)

@@ -1,8 +1,99 @@
 {
-  "last_updated": "2024-06-28 19:05",
-  "count_articles_total": 1494,
-  "count_articles_new": 23,
+  "last_updated": "2024-06-29 07:06",
+  "count_articles_total": 1510,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 10585,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Highly Pathogenic Avian Influenza Virus A(H5N1) Clade 2.3.4.4b Infection in Free-Ranging Polar Bear, Alaska, USA",
+      "description": "Avian Influenza Virus in Polar Bear, Alaska, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/8/24-0481_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-06-28 04:00:00",
+      "content": "Since its emergence in Europe during October 2020, highly pathogenic avian influenza (HPAI) A(H5N1) clade 2.3.4.4b virus has frequently spilled over into diverse mammal hosts globally. In North Ameri\u2026 [+8915 chars]",
+      "retrievedAt": "2024-06-29 07:06:03.083588",
+      "internal_id": "bead1def7925188056ea916f2bd23f4a64facfff85936c86a367eb4397e02324",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10588,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The-express.com",
+      "author": "daily express us",
+      "title": "CDC issues dengue fever alert as hundreds of cases confirmed in Florida...",
+      "description": "Florida has the most reported cases in the continental US, with most of those cases in Miami-Dade County and Palm Beach County.",
+      "url": "https://www.the-express.com/news/health/141551/cdc-dengue-fever-alert-cases-florida-puerto-rico",
+      "urlToImage": "https://cdn-images.the-express.com/img/dynamic/19/1200x630/212705.jpg",
+      "publishedAt": "2024-06-28 00:00:02",
+      "content": "Health officials issued a warning on Tuesday alerting authorities, health care providers, and the public of the increased risk of dengue fever infections in the US. The virus, which is spread by mos\u2026 [+2036 chars]",
+      "retrievedAt": "2024-06-29 07:06:03.661222",
+      "internal_id": "d2701399732c21af0b2e7c26036cc459030ed83e68185c9c115ab2a7d21c04da",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10589,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Redacci\u00f3n",
+      "title": "OMS alerta que el dengue se ha disparado a niveles hist\u00f3ricos: As\u00ed van los contagios en M\u00e9xico",
+      "description": "La OMS alert\u00f3 por el incremento de contagios de dengue en Am\u00e9rica principalmente.",
+      "url": "https://www.elfinanciero.com.mx/salud/2024/06/27/casos-de-dengue-en-mexico-junio-2024-que-es-y-como-se-contagia-alerta-la-oms-por-infecciones/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/fVIP9-sP4bw0BQTUMwBZ34-p4wU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/V4AVI4ZMQNBB5GUWTBLBB47CSI.jpg",
+      "publishedAt": "2024-06-27 23:47:44",
+      "content": "Los casos de dengue est\u00e1n llegando a cifras alarmantes a nivel mundial, seg\u00fan dijeron los Centros para el Control y Prevenci\u00f3n de Enfermedades (CDC) de Estados Unidos, siendo Am\u00e9rica el continente co\u2026 [+3957 chars]",
+      "retrievedAt": "2024-06-29 07:06:03.701531",
+      "internal_id": "a8542cfd11ecb667f645951123da97cf5007974ac654b1db4a3638eed7577f3e",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 10587,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Bird flu stays stable on milking equipment for at least one hour",
+      "description": "H5N1 virus in unpasteurized milk is stable on metal and rubber components of commercial milking equipment for at least one hour, increasing its potential to infect people and other animals.",
+      "url": "https://www.sciencedaily.com/releases/2024/06/240627172039.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-06-27 21:20:39",
+      "content": "Bird flu, or H5N1 virus, in unpasteurized milk is stable on metal and rubber components of commercial milking equipment for at least one hour, increasing its potential to infect people and other anim\u2026 [+2782 chars]",
+      "retrievedAt": "2024-06-29 07:06:03.323756",
+      "internal_id": "4476d79d06be42ed00948170f55b4db062ef0eb97b1f9f242ded9ff3bab58707",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 10586,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Victoria Forster, Contributor, \n Victoria Forster, Contributor\n https://www.forbes.com/sites/victoriaforster/",
+      "title": "Canada Monitors Milk For H5N1 Amid Outbreaks In U.S. Dairy Herds",
+      "description": "Canadian scientists are monitoring milk samples for signs of H5N1 avian influenza in dairy cows, with no positive results detected yet.",
+      "url": "https://www.forbes.com/sites/victoriaforster/2024/06/27/canada-monitors-milk-for-h5n1-amid-outbreaks-in-us-dairy-herds/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/667dc6cd98c88a889510f6f4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-27 20:22:47",
+      "content": "A herd of dairy cattle stand in a cowshed on a rural farm in Canada. Photographer: James ... [+] MacDonald/Bloomberg getty Labs in Canada have begun testing milk samples for the H5N1 avian influenz\u2026 [+2752 chars]",
+      "retrievedAt": "2024-06-29 07:06:03.302992",
+      "internal_id": "cb1d75f91222a854f4de7e42fbc1ff9a953f403cb26426418da8ba558e1bc625",
+      "publishedAtLabel": "Jun 27"
+    },
     {
       "id": 10563,
       "query": [
@@ -901,6 +992,42 @@
       "content": "A dangerous new strain of mpox thats particularly lethal in children is spreading in the Democratic Republic of Congo and could spread internationally, health experts and the World Health Organizatio\u2026 [+5389 chars]",
       "retrievedAt": "2024-06-27 19:06:30.282111",
       "internal_id": "0fec79340be6a0de05e0abe95dd9bb7c6b068f909b7af1846713583a9c9c4e95",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10591,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Greg Norman",
+      "title": "CDC warns of mosquito-driven virus as cases spike",
+      "description": "The CDC has released a fresh health advisory warning about the spread of the mosquito-born dengue virus as infections are soaring around the globe.",
+      "url": "https://www.foxnews.com/health/cdc-warns-mosquito-driven-virus-cases-spike",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/mosquito-on-skin.jpg",
+      "publishedAt": "2024-06-26 13:06:37",
+      "content": "The Centers for Disease Control and Prevention has issued a fresh warning about an increased risk of dengue virus infections as a \"record-breaking number\" of cases are being reported in the Americas.\u2026 [+2224 chars]",
+      "retrievedAt": "2024-06-29 07:06:03.786621",
+      "internal_id": "0deaea01d866831c77e588e947c6d7259843b467ef1b432b6d2609bf7172232e",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 10590,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Jenn Gidman",
+      "title": "The Symptoms Can Be 'Dreadful,' and It's Spreading",
+      "description": "It's been reported that a \"summer wave\" of COVID has arrived , but that's not the only infectious disease making the rounds. The New York Times reports the mosquito-borne virus dengue is seeing a global surge, with an increased risk of contracting it even in \u2026",
+      "url": "https://www.newser.com/story/352175/cdc-risk-of-dengue-in-us-just-went-up.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1542814-12-20240626081601.jpeg",
+      "publishedAt": "2024-06-26 13:05:00",
+      "content": "It's been reported that a \"summer wave\" of COVID has arrived, but that's not the only infectious disease making the rounds. The New York Times reports the mosquito-borne virus dengue is seeing a glob\u2026 [+1580 chars]",
+      "retrievedAt": "2024-06-29 07:06:03.780238",
+      "internal_id": "f738ada616e944fb9278f12c6fe654452ea8a0db567d46d006bb83d6539c0b36",
       "publishedAtLabel": "Jun 26"
     },
     {
@@ -26977,6 +27104,169 @@
       "retrievedAt": "2024-05-14 07:06:39.254296",
       "internal_id": "00046bd772f85527639d1ae5775f0ac5006b23f97d33b3b0c839dde336b25bce",
       "publishedAtLabel": "May 13"
+    },
+    {
+      "id": 9090,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Jungewelt.de",
+      "author": "Gerrit Hoekman",
+      "title": "Verbreitung von Malaria: Malaria bald wieder in Europa [Online-Abo]",
+      "description": "Laut britischen Forschern k\u00f6nnte sich das Verbreitungsgebiet der Krankheit durch Wasserknappheit in Afrika verlagern.",
+      "url": "https://www.jungewelt.de/artikel/475196.verbreitung-von-malaria-malaria-bald-wieder-in-europa.html",
+      "urlToImage": "https://www.jungewelt.de/img/1100/194842.jpg",
+      "publishedAt": "2024-05-12 17:37:53",
+      "content": "Uneingeschr\u00e4nkter Zugriff auf alle Inhalte: Erleben Sie die Tageszeitung junge Welt in gedruckter oder digitaler Form oder beides kombiniert. Nachrichtenauswahl und -aufbereitung erfordern finanziel\u2026 [+458 chars]",
+      "retrievedAt": "2024-05-13 19:05:19.009623",
+      "internal_id": "9b89f04b0191c98b004061d5552b21c33276071be45d33faaa916e9e2d7c562b",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9087,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Ag\u00eancia Fapesp",
+      "title": "Monitoramento mostra que \u00e9 poss\u00edvel prever epidemias de chikungunya por meio de vigil\u00e2ncia",
+      "description": "Estudo realizado em S\u00e3o Jos\u00e9 do Rio Preto descobriu que o v\u00edrus conhecido por provocar epidemias massivas tamb\u00e9m pode circular silenciosamente por uma comunidade, provocando poucas infec\u00e7\u00f5es durante anos. Novo perfil do chikungunya refor\u00e7a a import\u00e2ncia de fa\u2026",
+      "url": "https://gizmodo.uol.com.br/monitoramento-mostra-que-e-possivel-prever-epidemias-de-chikungunya-por-meio-de-vigilancia/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/05/chikungunya-fapesp.jpg",
+      "publishedAt": "2024-05-12 15:07:47",
+      "content": "Texto: Maria Fernanda Ziegler | Ag\u00eancia FAPESP Conhecido por provocar epidemias massivas at\u00e9 mais impactantes que as de dengue , o v\u00edrus do chikungunya pode tamb\u00e9m apresentar um perfil menos intenso\u2026 [+4913 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.940074",
+      "internal_id": "f88230cf667e1df9939474f657a44e390412cd9c9e5b8f552c90558f548fbede",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9084,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kevinmd.com",
+      "author": "Dr. Roxanne Becker",
+      "title": "Eating our way to the next pandemic",
+      "description": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic could be around the corner, and the food we choose to purchase \u2026",
+      "url": "https://www.kevinmd.com/2024/05/eating-our-way-to-the-next-pandemic.html",
+      "urlToImage": "https://www.kevinmd.com/wp-content/uploads/shutterstock_2169452695.jpg",
+      "publishedAt": "2024-05-12 15:00:45",
+      "content": "The Texas Department of State Health Services reported the first case of H5N1 avian influenza in a human who contracted the virus not from a bird but from an infected dairy cow. The next pandemic cou\u2026 [+5251 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.348008",
+      "internal_id": "02a1befaf085db5997a8e6a23b16dfc87efdab2ac46bbc11db65fca5749c2c10",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9083,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Diana Bell, Professeur de biologie de la conservation, University of East Anglia \u2013 The Conversation",
+      "title": "Les animaux vivent d\u00e9j\u00e0 la prochaine pand\u00e9mie",
+      "description": "Ces derni\u00e8res ann\u00e9es, la grippe aviaire H5N1 a provoqu\u00e9 la mort de millions de volailles et d'oiseaux mais aussi de nombreux mammif\u00e8res. Ce virus qui semble s'affranchir de toutes les barri\u00e8res deviendra-t-il une menace pand\u00e9mique pour la biodiversit\u00e9 dans so\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-animaux-vivent-deja-prochaine-pandemie-113361/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/f/7/cf74a6d59a_50215931_mouette-tridactyle.jpg",
+      "publishedAt": "2024-05-12 12:54:56",
+      "content": "Quelle sera la prochaine pand\u00e9mie ? Je suis une biologiste de la conservation et j'\u00e9tudie les maladies infectieuses \u00e9mergentes. Quand on me demande quelle sera la prochaine pand\u00e9mie, je r\u00e9ponds souve\u2026 [+7162 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.339476",
+      "internal_id": "a84ea503fedd7f1ac3b05f99f4c90265ee8a11e65f8c256aff70e956131ed8b4",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9089,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Zhaki Abdullah",
+      "title": "High worldwide dengue numbers may not impact Singapore: Experts",
+      "description": "Low visitor traffic from South America and diversity of strains in Singapore are among factors cited. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/high-worldwide-dengue-numbers-may-not-impact-singapore-experts",
+      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/05/12/2024022590212087gin8446.jpg?VersionId=vvNZ9EWHqfSrd4iFniVTnjtTGI9KcvCY",
+      "publishedAt": "2024-05-12 12:44:29",
+      "content": "SINGAPORE Even as dengue numbers soar worldwide, experts say it remains to be seen how the record figures elsewhere will impact the number of infections in Singapore. To date, there have been more \u2026 [+2599 chars]",
+      "retrievedAt": "2024-05-13 19:05:18.003818",
+      "internal_id": "727876864f7933c46fcd96e0bc2e83db0b17f44df127f56e13aa909da894ab26",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9088,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Taiwanese Woman Hides Father's Body To Claim Rs 1.2 Lakh Monthly Pension",
+      "description": "The authorities first got suspicious last November when health officials were denied entry to her home for dengue-prevention measures.",
+      "url": "https://www.ndtv.com/world-news/taiwanese-woman-hides-fathers-body-to-claim-his-rs-1-2-lakh-monthly-pension-5646391",
+      "urlToImage": "https://c.ndtvimg.com/2023-04/bvih5i2g_crime-scene_625x300_03_April_23.jpg",
+      "publishedAt": "2024-05-12 11:19:06",
+      "content": "Upon investigation, police found that the man had been dead for a long time. A woman in Taiwan has been accused of hiding her dead father's body in her home for years to claim his military pension. \u2026 [+2159 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.955426",
+      "internal_id": "5248731708cdfd7954e9181bfde30335b8537f7c3ec9a9248bfc362b58fc6e45",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9085,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Afrodita Cicovschi",
+      "title": "Gripa aviar\u0103 la fermele de vaci. Cum \u00eencearc\u0103 SUA s\u0103 limiteze r\u0103sp\u00e2ndirea virusului",
+      "description": "Administra\u021bia Biden \u00eencearc\u0103 din r\u0103sputeri s\u0103 limiteze r\u0103sp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijor\u0103rile legate de infec\u021biile umane cu virusul H5N1, scrie Reuters.",
+      "url": "https://adevarul.ro/economie/gripa-aviara-la-fermele-de-vaci-cum-incearca-sua-2360575.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-c/ca1a7021-d283-4761-bda8-95aff2d28406/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-05-12 10:55:08",
+      "content": "Administraia Biden \u00eencearc din rsputeri s limiteze rsp\u00e2ndirea gripei aviare la fermele de vaci, care au alimentat \u00eengrijorrile legate de infeciile umane cu virusul H5N1, scrie Reuters. Administraia \u2026 [+2783 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.361888",
+      "internal_id": "cb6c5efd69cd8e0d5f36f551f55c7ae3eac7e45080a542c7cbb079419e3f5ab2",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9086,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Almayadeen.net",
+      "author": "\u0627\u0644\u0645\u064a\u0627\u062f\u064a\u0646 \u0646\u062a",
+      "title": "\u0627\u0644\u0623\u0628\u0642\u0627\u0631 \u0642\u062f \u062a\u0646\u0642\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0627\u0644\u0628\u0634\u0631.. \u0643\u064a\u0641\u061f",
+      "description": "\u062f\u0631\u0627\u0633\u0629 \u062c\u062f\u064a\u062f\u0629 \u0644\u0639\u0644\u0645\u0627\u0621 \u0641\u064a \u0627\u0644\u0635\u062d\u0629 \u062a\u0638\u0647\u0631 \u0623\u0646\u0651 \u0623\u0643\u064a\u0627\u0633 \u0636\u0631\u0639 \u0627\u0644\u0628\u0642\u0631 \u0627\u0644\u062b\u062f\u064a\u064a\u0629 \u0642\u062f \u062a\u0635\u0628\u062d \"\u0623\u0648\u0639\u064a\u0629 \u062e\u0644\u0637\" \u0645\u062d\u0645\u0651\u0644\u0629 \u0628\u0645\u0633\u062a\u0642\u0628\u0644\u0627\u062a \u0627\u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0627\u0644\u0637\u064a\u0648\u0631 \u0648\u062a\u0633\u0627\u0639\u062f \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u0639\u0644\u0649 \u0627\u0644\u0627\u0646\u062a\u0634\u0627\u0631 \u0628\u064a\u0646 \u0627\u0644\u0628\u0634\u0631 \u0645\u062b\u0644 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 (H5N1).. \u0648\u0627\u0644\u062c\u062f\u0644 \u064a\u062a\u0648\u0627\u0635\u0644 \u062d\u0648\u0644 \u0635\u062d\u0629 \u0627\u0644\u0623\u0644\u0628\u0627\u0646!",
+      "url": "https://www.almayadeen.net/health/\u0627\u0644\u0623\u0628\u0642\u0627\u0631-\u0642\u062f-\u062a\u0646\u0642\u0644-\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627-\u0627\u0644\u0637\u064a\u0648\u0631-\u0625\u0644\u0649-\u0627\u0644\u0628\u0634\u0631---\u0643\u064a\u0641",
+      "urlToImage": "https://alpha-ar-media.almayadeen.net/media/image/2024/5/12/d06f4808-ce20-4113-a8ab-c110693c3f94.png?v=2&width=1000",
+      "publishedAt": "2024-05-12 08:54:54",
+      "content": "\" \" (H5N1) \"\" \" \" \"BioRxiv\" \"WEb Med\". . (H5N1). . . Many people are wondering how we can monitor this H5N1 situation. We sequence the whole virome from wastewater, and, well, H5N1 starte\u2026 [+574 chars]",
+      "retrievedAt": "2024-05-13 19:05:17.408221",
+      "internal_id": "0bfb1e1b5f252d6082d222066eba0fbfd5c00f340cce4de7fb8d558713f0feb9",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 9082,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Dogs entering US must be 6 months old, microchipped to prevent rabies spread",
+      "description": "New York \u2014 All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday. The new rules require vaccination for dogs that have be\u2026",
+      "url": "https://www.voanews.com/a/dogs-entering-us-must-be-6-months-old-microchipped-to-prevent-rabies-spread/7604032.html",
+      "urlToImage": "https://gdb.voanews.com/6633B470-639B-4589-882A-3066C2D759A1.jpg",
+      "publishedAt": "2024-05-12 07:07:40",
+      "content": "New York All dogs coming into the U.S. from other countries must be at least 6 months old and microchipped to help prevent the spread of rabies, according to new government rules published Wednesday\u2026 [+3079 chars]",
+      "retrievedAt": "2024-05-13 19:05:15.872833",
+      "internal_id": "d8312d1a3a146431fe86ca9d38efa3dc47fa299be6919e26fd1c609f7279b62c",
+      "publishedAtLabel": "May 12"
     }
   ]
 }
