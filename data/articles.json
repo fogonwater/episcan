@@ -1,8 +1,441 @@
 {
-  "last_updated": "2024-06-30 07:05",
-  "count_articles_total": 1301,
-  "count_articles_new": 8,
+  "last_updated": "2024-06-30 19:05",
+  "count_articles_total": 1323,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 10636,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Adam Piore",
+      "title": "Dengue fever cases in Mass. are on pace to break local records, according to CDC data",
+      "description": "Massachusetts has had 50 cases this year, though they were likely in travelers who caught the disease elsewhere.",
+      "url": "https://www.bostonglobe.com/2024/06/29/metro/dengue-fever-massachusetts-cdc-health-alert/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/KWPW0yfM5_a9L4u3_Ao9FYl2mkQ=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/HETUC5GDKKDOR35LFB6QVS4ZSA.jpg",
+      "publishedAt": "2024-06-29 19:04:09",
+      "content": "Experts say this could be a preview of things to come as climate change transforms local ecosystems. Heres what you need to know. Dengue fever is a mosquito-borne viral disease that is endemic in tr\u2026 [+4659 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.772217",
+      "internal_id": "71e132c5f1e8b21728e87c5618ab11101cdd2acd184ebfc22e4ca9d3a3e5f788",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10623,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Shannon Larson",
+      "title": "Mass. public health officials warn of possible measles exposure by international traveler",
+      "description": "The Massachusetts Department of Public Health on Saturday warned of a potential exposure to measles by an infected international visitor who traveled by bus from Hanover, N.H., to Logan Airport in Boston for a flight to Amsterdam on June 22.",
+      "url": "https://www.bostonglobe.com/2024/06/29/metro/massachusetts-measles-exposure/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Brfc_5WDkaVNvRUC-aTNb6OFNYw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/UPW5EKGTVZCJXPHST7QGPNUHEI.JPG",
+      "publishedAt": "2024-06-29 18:52:49",
+      "content": "The Massachusetts Department of Public Health on Saturday warned of a potential exposure to measles by an infected international visitor who traveled by bus from Hanover, N.H., to Logan Airport in Bo\u2026 [+1568 chars]",
+      "retrievedAt": "2024-06-30 19:05:45.617355",
+      "internal_id": "e3dc4fcb64a6b3bab4c85d8dfc1c87538bb2f26876897f6c594f25df9f695574",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10644,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412\u041e\u0417 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u043e 646 \u0441\u043b\u0443\u0447\u0430\u044f\u0445 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u043c\u0438\u0440\u0435 \u0432 \u043c\u0430\u0435",
+      "description": "\u0423\u043c\u0435\u0440\u043b\u0438 15 \u0447\u0435\u043b\u043e\u0432\u0435\u043a, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438",
+      "url": "https://tass.ru/obschestvo/21237757",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21237757?u=2024-06-29T18:22:45.378147",
+      "publishedAt": "2024-06-29 18:22:45",
+      "content": ", 29 . //. 646 mpox ( ) 2024 , 15 . 2022 97,7 ., (). \" 97 745 mpox, 203 , 1 2022 31 2024 116 , \", - . 1 31 26 646 mpox, 2,3% , . - (43,5% ), (21,8%) (20,4%). 15 . mpox (), 377 . 31 2022 (32 961). \u2026 [+176 chars]",
+      "retrievedAt": "2024-06-30 19:05:48.292722",
+      "internal_id": "4656d4d3032837947026f6fc043e3474780390b0e5772ef9d39829f500a94f6e",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10642,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "news24",
+      "title": "News24 | Ivory Coast receives first life-saving malaria vaccines",
+      "description": "Ivory Coast this week received its first vaccines against malaria, a disease that kills four people a day in the country, mostly small children, the government said Saturday.",
+      "url": "https://www.news24.com/news24/africa/news/ivory-coast-receives-first-life-saving-malaria-vaccines-20240629",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11963/525ca66fab4746be86ea48f979bdde3a.jpg",
+      "publishedAt": "2024-06-29 17:53:28",
+      "content": "Ivory Coast this week received its first vaccines against malaria, a disease that kills four people a day in the country, mostly small children, the government said Saturday. A total of 656 600 dos\u2026 [+1078 chars]",
+      "retrievedAt": "2024-06-30 19:05:47.452899",
+      "internal_id": "b00e51020649e1135b051f5d612ec3805d82f69158cf571fad6641931479ffee",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10624,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Chris Van Buskirk",
+      "title": "Health officials warn of potential measles exposure from \u2018international traveler\u2019 in Boston",
+      "description": "Massachusetts health officials warned of potential exposure to measles from an \"international visitor\" who was in Boston on June 22.",
+      "url": "https://www.bostonherald.com/2024/06/29/health-officials-warn-of-potential-measles-exposure-from-international-traveler-in-boston/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2023/07/Earns_Delta_47704.jpg?w=1024&h=682",
+      "publishedAt": "2024-06-29 17:48:03",
+      "content": "An \u201cinternational visitor\u201d who used public transportation to travel through Boston to Amsterdam earlier this month was diagnosed with measles, prompting local public health officials to warn resident\u2026 [+3037 chars]",
+      "retrievedAt": "2024-06-30 19:05:45.624992",
+      "internal_id": "439d3efffdf377107715de9fbe11e8c73b78e34564741488bf3bfec85bd69907",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10632,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Vogelgrippevirus in USA k\u00f6nnte n\u00e4chste Pandemie ausl\u00f6sen",
+      "description": "",
+      "url": "https://orf.at/stories/3362142/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-06-29 16:53:35",
+      "content": "Der Chefvirologe der Berliner Charite, Christian Drosten, hat angesichts der Ausbreitung von H5N1 in den USA das Vogelgrippevirus als m\u00f6glichen Ausl\u00f6ser f\u00fcr eine kommende Pandemie bezeichnet. Der Err\u2026 [+1511 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.265184",
+      "internal_id": "8fe6519498d1c909bdea0a01e3671678749437a86d50a573d63763063365752e",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10626,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston 25 News",
+      "author": "Natalie Khait",
+      "title": "Health officials warn residents about potential exposure to measles in Mass., New Hampshire",
+      "description": "The Massachusetts Department of Public Health (DPH) is alerting residents of a case of measles from an international visitor.",
+      "url": "https://www.boston25news.com/news/local/health-officials-warn-residents-about-potential-exposure-measles-mass-new-hampshire/JCEWV3XA6NHCNFAVYEZHZY3C6I/",
+      "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/viywHiOHuzcXpgEIZu7qSzESo8c=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3ATEEX5ZB7BTCIDPOYPM45MAHY.jpg",
+      "publishedAt": "2024-06-29 15:30:36",
+      "content": "Mass. \u2014 The Massachusetts Department of Public Health (DPH) is alerting residents of a case of measles from an international visitor. According to the DPH, the visitor traveled through Boston to Ams\u2026 [+1712 chars]",
+      "retrievedAt": "2024-06-30 19:05:45.638572",
+      "internal_id": "ed69b51466951df5b83561f85e15d79f21f5c6c943bc5062ac574b5c4e4af9a1",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10638,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Bengaluru Reports First Dengue Death This Year Amid Spike In Cases",
+      "description": "Bengaluru on Saturday reported its first confirmed case of a death due to dengue since January amid a recent spike in cases, a senior official said.",
+      "url": "https://www.ndtv.com/india-news/bengaluru-reports-first-dengue-death-this-year-amid-spike-in-cases-5998110",
+      "urlToImage": "https://c.ndtvimg.com/2024-03/v62pn84_dengue_625x300_05_March_24.jpg",
+      "publishedAt": "2024-06-29 15:23:41",
+      "content": "From January till date, Bengaluru has reported 1,743 cases of dengue (Representational) Bengaluru: Bengaluru on Saturday reported its first confirmed case of a death due to dengue since January amid\u2026 [+1448 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.814299",
+      "internal_id": "90a39ed0874739452c53813b147db1ca2dda39500e23fa36b270da2ea0fb9a15",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10640,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "Lee National Newsroom, The Associated Press",
+      "title": "Summer camps dealing with heat, music diplomacy through YouTube and concerns over dengue | Hot off the Wire podcast",
+      "description": "Get a recap of recent financial, health and general interest stories through this special edition of our Hot off the Wire daily news podcast.",
+      "url": "https://richmond.com/news/nation-world/summer-camps-dealing-with-heat-music-diplomacy-through-youtube-and-concerns-over-dengue-hot-off/article_00f956ae-f5fc-5adc-962a-d35d7dc2a08d.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/0f/00f956ae-f5fc-5adc-962a-d35d7dc2a08d/667ee00333540.preview.jpg?crop=1697%2C891%2C15%2C112&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2024-06-29 14:30:00",
+      "content": "Mirabelle Demske, second from left, uses a portable electric fan to cool off her friends Faith Hamzy, center, and Annie Sayre, second from right, June 20 at YMCA Camp Kern in Oregonia, Ohio.",
+      "retrievedAt": "2024-06-30 19:05:46.875774",
+      "internal_id": "162b715d2beb61c7dd3e174198cbd006240e1b7a0f299c580244e49b043c6068",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10641,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Roanoke Times",
+      "author": "Lee National Newsroom, The Associated Press",
+      "title": "Summer camps dealing with heat, music diplomacy through YouTube and concerns over dengue | Hot off the Wire podcast",
+      "description": "Get a recap of recent financial, health and general interest stories through this special edition of our Hot off the Wire daily news podcast.",
+      "url": "https://roanoke.com/news/nation-world/summer-camps-dealing-with-heat-music-diplomacy-through-youtube-and-concerns-over-dengue-hot-off/article_877a1f12-c17d-5bde-820e-a292f0db10c3.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/8/77/877a1f12-c17d-5bde-820e-a292f0db10c3/667ee0032e6a3.preview.jpg?crop=1697%2C891%2C15%2C112&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2024-06-29 14:30:00",
+      "content": "On this version of Hot off the Wire: Each Saturday Hot off the Wire looks at a variety of stories in business, science, health and more. This week's headlines include: Summer camps are for \u2026 [+2282 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.880787",
+      "internal_id": "e7c4593df7e369add30aa4150da25687bfda592b2a4ea0a71e9eda5df82a8009",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10645,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Muyinteresante.com",
+      "author": "Victor J Cid",
+      "title": "La peste, la gran epidemia que ha acompa\u00f1ado a la humanidad",
+      "description": "La peste nos acompa\u00f1a desde m\u00e1s tiempo del que imagin\u00e1bamos: ya en muestras obtenidas en la Edad de Bronce se ha recuperado el genoma de la bacteria Yersinia pestis, una enfermedad que ha moldeado nuestra gen\u00e9tica.",
+      "url": "https://www.muyinteresante.com/ciencia/65131.html",
+      "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/06/18/667161b2b10bf.jpeg",
+      "publishedAt": "2024-06-29 14:25:34",
+      "content": "Desde 2020, hemos vivido un episodio pand\u00e9mico, con las traum\u00e1ticas consecuencias que conlleva desde el punto de vista socioecon\u00f3mico, sanitario y psicol\u00f3gico para la generaci\u00f3n que nos ha tocado suf\u2026 [+11954 chars]",
+      "retrievedAt": "2024-06-30 19:05:49.095520",
+      "internal_id": "dd50c50502e29a1684b64b1497e1380db06b93cc5a84b30a416bf67626946faf",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10625,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston News, Weather, Sports | WHDH 7News",
+      "author": "Owen Boss",
+      "title": "Health officials alert residents about potential exposure to measles in multiple locations - Boston News, Weather, Sports | WHDH 7News",
+      "description": "The Massachusetts Department of Public Health (DPH) is alerting residents of a case of measles that was diagnosed in an international visitor who traveled through<a class=\"excerpt-read-more\" href=\"https://whdh.com/news/health-officials-alert-residents-about-p\u2026",
+      "url": "https://whdh.com/news/health-officials-alert-residents-about-potential-exposure-to-measles-in-multiple-locations/",
+      "urlToImage": "https://whdh.com/wp-content/uploads/sites/3/2023/04/statehouse.png",
+      "publishedAt": "2024-06-29 14:14:58",
+      "content": "The Massachusetts Department of Public Health (DPH) is alerting residents of a case of measles that was diagnosed in an international visitor who traveled through Boston to Amsterdam using public tra\u2026 [+4148 chars]",
+      "retrievedAt": "2024-06-30 19:05:45.633905",
+      "internal_id": "5dbfe2b2207304db130a37cebfa52aa67b92aa3a9630c53819548364c811f74f",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10627,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sierraloaded.sl",
+      "author": "Amara Rogers",
+      "title": "Pujehun Health Management Team Engages Stakeholders on Measles-Rubella Vaccination",
+      "description": "The Pujehun District Health Management Team (DHMT) organized a one-day stakeholder engagement on Thursday, 27th June 2024, to rally community support for the upcoming Free Measles-Rubella vaccination campaign, scheduled from June 29th to July 5th, 2024. The m\u2026",
+      "url": "https://sierraloaded.sl/local/pujehun-stakeholders-engagement-measles-rubella-vaccination/",
+      "urlToImage": "https://i0.wp.com/sierraloaded.sl/wp-content/uploads/2024/06/Pujehun-District-Health-Management-Team.jpg",
+      "publishedAt": "2024-06-29 11:27:35",
+      "content": "The Pujehun District Health Management Team (DHMT) organized a one-day stakeholder engagement on Thursday, 27th June 2024, to rally community support for the upcoming Free Measles-Rubella vaccination\u2026 [+1358 chars]",
+      "retrievedAt": "2024-06-30 19:05:45.643128",
+      "internal_id": "0d68a369b734ba38198d29d1f0f8bd09ddd9785c9817d8ca34f42a280327964b",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10629,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "\u201eEs kann auch schon der Anlauf zu einer n\u00e4chsten Pandemie sein\u201c",
+      "description": "\u201eSo etwas hat es vorher noch nicht gegeben, solche extrem gro\u00dfen Ausbr\u00fcche bei K\u00fchen\u201c, sagt der Virologe Christian Drosten \u00fcber die Ausbreitung des Vogelgrippevirus in den USA. Erst k\u00fcrzlich hatte ein Expertenbericht kritisiert, dass die Welt nicht f\u00fcr drohen\u2026",
+      "url": "https://www.welt.de/vermischtes/article252264088/Christian-Drosten-Vogelgrippevirus-in-USA-koennte-naechste-Pandemie-ausloesen.html",
+      "urlToImage": "https://img.welt.de/img/vermischtes/mobile252264184/7331358107-ci16x9-w1200/Virologe-Christian-Drosten.jpg",
+      "publishedAt": "2024-06-29 11:15:04",
+      "content": "Der Chef-Virologe der Berliner Charit\u00e9, Christian Drosten, hat angesichts der Ausbreitung von H5N1 in den USA das Vogelgrippevirus als m\u00f6glichen Ausl\u00f6ser f\u00fcr eine kommende Pandemie bezeichnet. Der Er\u2026 [+1495 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.228353",
+      "internal_id": "9f44f8406570a87a066946409c9ea611653f246c6bec07e74432ace9aa12420a",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10637,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Pien Huang",
+      "title": "Travelers beware: It\u2019s a big year for dengue",
+      "description": "The Centers for Disease Control and Prevention warns of an increased risk of dengue infections in the U.S. this summer. The mosquito-borne virus is surging, and human travel is expanding its reach.",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/06/29/g-s1-7214/dengue-risk-vacation-travel",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2725x1533+0+153/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F41%2F735bacc141f085b65032212613f9%2Fcdc-9181.jpg",
+      "publishedAt": "2024-06-29 11:00:00",
+      "content": "Its already a record-breaking year for dengue infections in Central and South America, with almost 10 million cases diagnosed so far. Now, the Centers for Disease Control and Prevention is warning \u2026 [+7845 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.784409",
+      "internal_id": "aa9f6512bab8f472d4e7839885fc311e854fe4c091ad96b3b20a7537e918100a",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10631,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Vogelgrippevirus in USA k\u00f6nnte n\u00e4chste Pandemie ausl\u00f6sen",
+      "description": "H5N1 in den USA j\u00fcngst \u201esogar schon in Milchprodukten im Handel aufgetaucht\u201c, warnt der deutsche Virologe Christian Drosten. \u201eSo etwas hat es vorher noch nicht gegeben.\u201c",
+      "url": "https://www.diepresse.com/18617217/vogelgrippevirus-in-usa-koennte-naechste-pandemie-ausloesen",
+      "urlToImage": "https://img.diepresse.com/public/incoming/2n76xo-imago0150666336h.jpg/alternates/DPR_SOCIAL_NACHRICHTEN/imago0150666336h.jpg",
+      "publishedAt": "2024-06-29 10:57:07",
+      "content": "H5N1 in den USA j\u00fcngst sogar schon in Milchprodukten im Handel aufgetaucht, warnt der deutsche Virologe Christian Drosten. So etwas hat es vorher noch nicht gegeben. Der Chef-Virologe der Berliner \u2026 [+1706 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.259735",
+      "internal_id": "eaa7982d691c66c3d3b1187dc6ac3568b410cc778b2034c96cf981ad2069f314",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10628,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "business-insider",
+      "source_name": "Business Insider",
+      "author": "Morgan McFall-Johnsen",
+      "title": "A new study suggests a culprit in bird flu's rapid spread through US cattle, and how to stop it",
+      "description": "Raw milk is a hazard to cows, workers, and consumers, a new study suggests. There a few things dairy farms can do about that.",
+      "url": "https://www.businessinsider.com/bird-flu-cows-milk-spread-study-suggests-how-to-stop-2024-6",
+      "urlToImage": "https://i.insider.com/667ef719d1c84a0eaca8e49d?width=1200&format=jpeg",
+      "publishedAt": "2024-06-29 10:48:02",
+      "content": "A dairy cow is milked at the South Mountain Creamery farm in Middletown, Maryland.Carlos Barria/Reuters Unpasteurized milk may be spreading the H5N1 bird flu between cows and to humans.\u2026 [+4487 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.219583",
+      "internal_id": "207ca9b73e73ac159121f58b08d866e99b00be7075c0d3e83e64668e8713fbab",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10630,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Virologe Drosten: Vogelgrippevirus in USA k\u00f6nnte n\u00e4chste Pandemie ausl\u00f6sen",
+      "description": "Der Chef-Virologe der Berliner Charit\u00e9, Christian Drosten, hat angesichts der Ausbreitung von H5N1 in den USA das Vogelgrippevirus als m\u00f6glichen Ausl\u00f6ser f\u00fcr eine kommende Pandemie bezeichnet. Der Erreger sei letzter Zeit in Milchviehbest\u00e4nden in den USA aufg\u2026",
+      "url": "https://www.stern.de/news/virologe-drosten--vogelgrippevirus-in-usa-koennte-naechste-pandemie-ausloesen-34839662.html",
+      "urlToImage": "https://image.stern.de/34839664/t/LB/v1/w1440/r1.7778/-/29--virologe-christian-drosten---d70d45698a681a58.jpg",
+      "publishedAt": "2024-06-29 10:41:20",
+      "content": "Der Chef-Virologe der Berliner Charit\u00e9, Christian Drosten, hat angesichts der Ausbreitung von H5N1 in den USA das Vogelgrippevirus als m\u00f6glichen Ausl\u00f6ser f\u00fcr eine kommende Pandemie bezeichnet. Der Er\u2026 [+1544 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.247493",
+      "internal_id": "80584799f0005279fd7aaaa79f0c68c9a04e986cdddcf5b875d811d6c2167138",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10639,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Reinstala la Ssa el Sistema de Gesti\u00f3n de Incidentes por aumento de casos de dengue",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que ante el incremento de casos de dengue en Am\u00e9rica y nuestro pa\u00eds, se reinstal\u00f3 el Sistema de Gesti\u00f3n de Incidentes en Salud P\u00fablica, como instancia responsable de la direcci\u00f3n, control y coordinaci\u00f3n de las acciones de \u2026",
+      "url": "https://www.jornada.com.mx/2024/06/29/politica/013n2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-06-29 08:25:32",
+      "content": "Peri\u00f3dico La JornadaS\u00e1bado 29 de junio de 2024, p. 13 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que ante el incremento de casos de dengue en Am\u00e9rica y nuestro pa\u00eds, se reinstal\u00f3 el Sistema de Gesti\u00f3n de \u2026 [+2416 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.829883",
+      "internal_id": "7e243d52a0289b806efa1936b656318d6467aa8ce385c3d384216068e617c9d7",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10633,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "\u201eDar\u00fcber nachdenken, K\u00fche zu impfen\u201c: Drosten warnt wegen Vogelgrippe-Virus in den USA vor n\u00e4chster Pandemie",
+      "description": "Angesichts des Ausbruchs von \u201eH5N1\u201c in den USA fordert der Virologe ein entschlossenes Vorgehen. Auch bei Corona habe man die Verbreitung zu sp\u00e4t bemerkt. Die damaligen Ma\u00dfnahmen verteidigt Drosten.",
+      "url": "https://www.tagesspiegel.de/wissen/daruber-nachdenken-kuhe-zu-impfen-drosten-warnt-wegen-vogelgrippe-virus-in-den-usa-vor-nachster-pandemie-11925890.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/christian-drosten5/alternates/BASE_16_9_W1400/christian-drosten.jpeg",
+      "publishedAt": "2024-06-29 08:20:44",
+      "content": "Er war in Corona-Zeiten zu einem der f\u00fchrenden Experten Deutschlands geworden, weil er fr\u00fchzeitig vor einer Pandemie durch das Virus gewarnt hatte. Nur hat der Chef-Virologe der Berliner Charit\u00e9, Chr\u2026 [+4406 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.277619",
+      "internal_id": "2b0688a651802b9717d325ababb0dbb3fcf4fe8fff410ec4d49c26f266408813",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10621,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Eastern Ontario Health Unit warns of rise in whooping cough",
+      "description": "The Eastern Ontario Health Unit (EOHU) is reminding the public to ensure they are fully vaccinated against pertussis \u2014 also known as whooping cough \u2014 as cases have gone up in the region. EOHU sent the alert Friday.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/eastern-ontario-health-unit-warns-of-rise-in-whooping-cough-1.7250444",
+      "urlToImage": "https://i.cbc.ca/1.7086607.1705518819!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/shutterstock-medium-file.jpg",
+      "publishedAt": "2024-06-29 08:00:00",
+      "content": "The Eastern Ontario Health Unit (EOHU) is reminding the public to ensure they are fully vaccinated against pertussis also known as whooping cough as cases are on the rise in the region. EOHU sent th\u2026 [+1128 chars]",
+      "retrievedAt": "2024-06-30 19:05:45.212365",
+      "internal_id": "cecb8376401d1640a930bc50aae86ec7bf2c692ed566490672d2bb7a45312dca",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10634,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Drosten-Warnung - \u201eAlle Fachleute besorgt\u201c: Was passiert, wenn ein Mensch an Vogelgrippe erkrankt",
+      "description": "Die Vogelgrippe ist einer der Kandidaten, die eine neue Pandemie ausl\u00f6sen k\u00f6nnten. Das erkl\u00e4rte jetzt Top-Virologe Christian Drosten. Was passiert, wenn sich ein Mensch mit dem Erreger H5N1 ansteckt.",
+      "url": "https://www.focus.de/gesundheit/news/laut-drosten-sind-alle-experten-besorgt-was-passiert-wenn-ein-mensch-vogelgrippe-kriegt_id_260093762.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260093785/gettyimages-1463467315.jpg?im=Crop%3D%280%2C177%2C2120%2C1060%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=5cd2b31a1cda6cdbbf0ea151a0e11b754b1182c2d943e2aa91b1a66589d40ed1",
+      "publishedAt": "2024-06-29 07:44:03",
+      "content": "Die Vogelgrippe ist einer der Kandidaten, die eine neue Pandemie ausl\u00f6sen k\u00f6nnten. Das erkl\u00e4rte jetzt Top-Virologe Christian Drosten. Was passiert, wenn sich ein Mensch mit dem Erreger H5N1 ansteckt.\u2026 [+2738 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.293678",
+      "internal_id": "1b77c1a2e62809ed8a794c0841b7c560ee6494d16b9b8df135f699775cc7f6cd",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10635,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "World Socialist Web Site",
+      "author": null,
+      "title": "Threat posed by H5N1 bird flu deepens, as public health authorities delay action",
+      "description": "A growing number of scientists have sounded the alarm that immediate action to eliminate bird flu is necessary before it develops into a human pandemic.",
+      "url": "https://www.wsws.org/en/articles/2024/06/29/ppxv-j29.html",
+      "urlToImage": "https://www.wsws.org/asset/0535536e-2ff9-40ea-998b-e1993dcef245?rendition=1600x900",
+      "publishedAt": "2024-06-29 07:25:52",
+      "content": "Since the highly pathogenic avian influenza (H5N1 bird flu) was first detected among dairy cows in late March, a total of 132 herds across 12 states have now officially been impacted. In the last 30 \u2026 [+9438 chars]",
+      "retrievedAt": "2024-06-30 19:05:46.302641",
+      "internal_id": "aa4d4facedc9a4b45818051ec0a746041ff009424b953c50b164c0d420750556",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10643,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Moustiques, prot\u00e9gez-vous du \"tigre\" : quels sont les produits les plus efficaces et les moins toxiques",
+      "description": "Il est tout petit, pas plus de cinq millim\u00e8tres, mais il est redoutable. Le moustique tigre gagne du terrain en France en 2016. On le trouvait dans 20 d\u00e9partements. Il en colonise quatre fois plus aujourd'hui. \u00c0 l'approche des vacances, \"60 Millions de consom\u2026",
+      "url": "https://www.francetvinfo.fr/replay-radio/le-conseil-conso/moustiques-protegez-vous-du-tigre-quels-sont-les-produits-les-plus-efficaces-et-les-moins-toxiques_6604689.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/t36kk-fR4i1fvH-5R7evMWqtzsc/1500x843/2024/06/27/gettyimages-1375152090-667d7b60c13b8075678197.jpg",
+      "publishedAt": "2024-06-29 07:24:42",
+      "content": "Le moustique tigre gagne du terrain en France presque 10 ans, et il pique aussi bien le jour que la nuit, et qu'il peut \u00eatre vecteur de maladies comme la dengue, le chikungunya ou le Zika. Donc, mieu\u2026 [+5950 chars]",
+      "retrievedAt": "2024-06-30 19:05:47.810023",
+      "internal_id": "56799540d162e0c9c9bc1a04770d6a27c5a8a06a3de9bf9f2a7a2cb98030d7d7",
+      "publishedAtLabel": "Jun 29"
+    },
     {
       "id": 10618,
       "query": [
@@ -580,6 +1013,24 @@
       "content": "Bird flu, or H5N1 virus, in unpasteurized milk is stable on metal and rubber components of commercial milking equipment for at least one hour, increasing its potential to infect people and other anim\u2026 [+2782 chars]",
       "retrievedAt": "2024-06-29 07:06:03.323756",
       "internal_id": "4476d79d06be42ed00948170f55b4db062ef0eb97b1f9f242ded9ff3bab58707",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 10622,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "A promising weapon against measles",
+      "description": "What happens when measles virus meets a human cell? The viral machinery unfolds in just the right way to reveal key pieces that let it fuse itself into the host cell membrane.",
+      "url": "https://www.sciencedaily.com/releases/2024/06/240627172004.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-06-27 21:20:04",
+      "content": "What happens when measles virus meets a human cell? The viral machinery unfolds in just the right way to reveal key pieces that let it fuse itself into the host cell membrane.Once the fusion process \u2026 [+6207 chars]",
+      "retrievedAt": "2024-06-30 19:05:45.611667",
+      "internal_id": "71136b9ce8f190a53a48ae3303ed4d92574783d0b87b5b3c8255382f4d7b831e",
       "publishedAtLabel": "Jun 27"
     },
     {
@@ -23436,60 +23887,6 @@
       "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
       "retrievedAt": "2024-05-21 07:06:07.864022",
       "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9320,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "ScienceAlert",
-      "author": "Michael Head, The Conversation",
-      "title": "Whooping Cough Is Surging in The UK, And This Could Be Why",
-      "description": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024.",
-      "url": "https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why",
-      "urlToImage": "https://www.sciencealert.com/images/2024/05/WhoopingCoughOnTheRiseInUKWomenCoughing.jpg",
-      "publishedAt": "2024-05-19 11:30:09",
-      "content": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024. There have been 2,793 confirmed cases so far this year. Sadly, five infa\u2026 [+5653 chars]",
-      "retrievedAt": "2024-05-20 19:05:22.412480",
-      "internal_id": "4bec85cd0e2d6cd6b953743ed7b90cfa9eb2c27679ab316857d344b42f3e9270",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9321,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Tive dengue; quando posso me vacinar?",
-      "description": "Imunizante est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada",
-      "url": "https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
-      "publishedAt": "2024-05-19 09:00:02",
-      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada. A faixa et\u00e1ria do p\u00fablico-alvo da unidade de sa\u00fade p\u00fablica, no primeiro momento, \u00e9 para o grupo de 10 a 14 anos\u2026 [+3855 chars]",
-      "retrievedAt": "2024-05-20 19:05:24.128313",
-      "internal_id": "bc8ac58f563e0021fb17ac730746e4bffae42da4a7f284ed88cff59abf98ab2c",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9322,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Mark Smith, Professor of Water Science & Heath, University of Leeds, Chris Thomas, Global Professor in Water & Planetary Health, University of Lincoln",
-      "title": "Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future",
-      "description": "Mosquito populations can respond quickly to changing climate, which means the location of areas at risk of malaria might change.",
-      "url": "https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814",
-      "urlToImage": "https://images.theconversation.com/files/593392/original/file-20240510-22-7peqxh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2024-05-19 08:27:51",
-      "content": "Water bodies such as the Nile River, pictured here running through Juba in South Sudan, are included in the new model. Frontpage The relationship between climate and malaria transmission is complex \u2026 [+6207 chars]",
-      "retrievedAt": "2024-05-20 19:05:24.928793",
-      "internal_id": "358e0bde6a335ba396cd048daac77d6c6816ed0bc5eab02f0c68e4b729c85183",
       "publishedAtLabel": "May 19"
     }
   ]

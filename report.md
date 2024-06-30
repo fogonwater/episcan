@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-06-30 07:05
-- **Most recent article:** 2024-06-29 03:25:00
+- **New articles in last harvest:** 25
+- **Last harvest:** 2024-06-30 19:05
+- **Most recent article:** 2024-06-29 19:04:09
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 55 | 61 | 64 | 115 | 62 | 85 | 442 |
-| h5n1 | 94 | 65 | 78 | 55 | 29 | 27 | 348 |
-| malaria | 17 | 25 | 21 | 37 | 20 | 20 | 140 |
-| mpox | 8 | 16 | 8 | 26 | 14 | 45 | 117 |
-| measles | 15 | 16 | 11 | 7 | 11 | 2 | 62 |
-| chikungunya | 3 | 18 | 5 | 14 | 5 | 16 | 61 |
+| dengue | 54 | 61 | 64 | 115 | 62 | 91 | 447 |
+| h5n1 | 94 | 65 | 78 | 55 | 29 | 35 | 356 |
+| malaria | 16 | 25 | 21 | 37 | 20 | 21 | 140 |
+| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 118 |
+| measles | 15 | 16 | 11 | 7 | 11 | 8 | 68 |
+| chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 62 |
 | rabies | 8 | 15 | 9 | 2 | 5 | 8 | 47 |
-| pertussis | 6 | 6 | 9 | 11 | 11 | 2 | 45 |
-| zika | 3 | 3 | 0 | 12 | 3 | 16 | 37 |
+| pertussis | 5 | 6 | 9 | 11 | 11 | 3 | 45 |
+| zika | 3 | 3 | 0 | 12 | 3 | 17 | 38 |
 | hpai | 7 | 12 | 2 | 4 | 4 | 3 | 32 |
 | meningitis | 4 | 1 | 6 | 3 | 1 | 1 | 16 |
 | leptospirosis | 0 | 5 | 1 | 1 | 1 | 2 | 10 |
-| yersinia | 6 | 0 | 1 | 0 | 0 | 1 | 8 |
+| yersinia | 6 | 0 | 1 | 0 | 0 | 2 | 9 |
 | typhoid | 0 | 0 | 1 | 1 | 2 | 3 | 7 |
 
 
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-26 (zika)
+
+- [Moustiques, protégez-vous du "tigre" : quels sont les produits les plus efficaces et les moins toxiques](https://www.francetvinfo.fr/replay-radio/le-conseil-conso/moustiques-protegez-vous-du-tigre-quels-sont-les-produits-les-plus-efficaces-et-les-moins-toxiques_6604689.html) (Francetvinfo.fr)
 
 - [ChatGPT Has Changed The Way Scientists Write Scientific Papers. Here's How](https://www.discovermagazine.com/technology/chatgpt-has-changed-the-way-scientists-write-scientific-papers-heres-how) (Discover Magazine)
 
@@ -68,6 +70,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (yersinia)
 
+- [La peste, la gran epidemia que ha acompañado a la humanidad](https://www.muyinteresante.com/ciencia/65131.html) (Muyinteresante.com)
+
 - [Review of genotyping methods for Yersinia pestis in Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012252) (Plos.org)
 
 ## 24-26 (typhoid)
@@ -98,11 +102,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (pertussis)
 
+- [Eastern Ontario Health Unit warns of rise in whooping cough](https://www.cbc.ca/news/canada/ottawa/eastern-ontario-health-unit-warns-of-rise-in-whooping-cough-1.7250444) (CBC News)
+
 - [Keuchhusten-Welle in Berlin: „Oma fühlt sich gesund – und zack, ist das Baby angesteckt“](https://www.tagesspiegel.de/berlin/keuchhusten-welle-in-berlin-oma-fuhlt-sich-gesund--und-zack-ist-das-baby-angesteckt-11923424.html) (Der Tagesspiegel)
 
 - [Guidance: Pertussis: the green book, chapter 24](https://www.gov.uk/government/publications/pertussis-the-green-book-chapter-24) (Www.gov.uk)
 
 ## 24-26 (mpox)
+
+- [ВОЗ сообщила о 646 случаях оспы обезьян в мире в мае](https://tass.ru/obschestvo/21237757) (Tass.ru)
 
 - [Congo aprova vacinação contra mpox para conter surto](https://tecnologia.ig.com.br/parceiros/canaltech/2024-06-28/congo-aprova-vacinacao-contra-mpox-para-conter-surto.html) (Ig.com.br)
 
@@ -200,11 +208,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (measles)
 
+- [Mass. public health officials warn of possible measles exposure by international traveler](https://www.bostonglobe.com/2024/06/29/metro/massachusetts-measles-exposure/) (The Boston Globe)
+
+- [Health officials warn of potential measles exposure from ‘international traveler’ in Boston](https://www.bostonherald.com/2024/06/29/health-officials-warn-of-potential-measles-exposure-from-international-traveler-in-boston/) (Boston Herald)
+
+- [Health officials warn residents about potential exposure to measles in Mass., New Hampshire](https://www.boston25news.com/news/local/health-officials-warn-residents-about-potential-exposure-measles-mass-new-hampshire/JCEWV3XA6NHCNFAVYEZHZY3C6I/) (Boston 25 News)
+
+- [Health officials alert residents about potential exposure to measles in multiple locations - Boston News, Weather, Sports | WHDH 7News](https://whdh.com/news/health-officials-alert-residents-about-potential-exposure-to-measles-in-multiple-locations/) (Boston News, Weather, Sports | WHDH 7News)
+
+- [Pujehun Health Management Team Engages Stakeholders on Measles-Rubella Vaccination](https://sierraloaded.sl/local/pujehun-stakeholders-engagement-measles-rubella-vaccination/) (Sierraloaded.sl)
+
 - [Callan JMB Inc. Supports Chicago Department of Public Health in Containing Measles Outbreak through Comprehensive Vaccine Management Plan](https://www.globenewswire.com/news-release/2024/06/28/2905827/0/en/Callan-JMB-Inc-Supports-Chicago-Department-of-Public-Health-in-Containing-Measles-Outbreak-through-Comprehensive-Vaccine-Management-Plan.html) (GlobeNewswire)
+
+- [A promising weapon against measles](https://www.sciencedaily.com/releases/2024/06/240627172004.htm) (Science Daily)
 
 - [The implementation of a new measles vaccine mandate in Germany: A qualitative study in local health departments](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306003) (Plos.org)
 
 ## 24-26 (malaria)
+
+- [News24 | Ivory Coast receives first life-saving malaria vaccines](https://www.news24.com/news24/africa/news/ivory-coast-receives-first-life-saving-malaria-vaccines-20240629) (News24)
 
 - [NGO decries lack of funding for primary health centres](https://punchng.com/ngo-decries-lack-of-funding-for-primary-health-centres/) (The Punch)
 
@@ -262,6 +284,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (h5n1)
 
+- [Vogelgrippevirus in USA könnte nächste Pandemie auslösen](https://orf.at/stories/3362142/) (Orf.at)
+
+- [„Es kann auch schon der Anlauf zu einer nächsten Pandemie sein“](https://www.welt.de/vermischtes/article252264088/Christian-Drosten-Vogelgrippevirus-in-USA-koennte-naechste-Pandemie-ausloesen.html) (DIE WELT)
+
+- [Vogelgrippevirus in USA könnte nächste Pandemie auslösen](https://www.diepresse.com/18617217/vogelgrippevirus-in-usa-koennte-naechste-pandemie-ausloesen) (Diepresse.com)
+
+- [A new study suggests a culprit in bird flu's rapid spread through US cattle, and how to stop it](https://www.businessinsider.com/bird-flu-cows-milk-spread-study-suggests-how-to-stop-2024-6) (Business Insider)
+
+- [Virologe Drosten: Vogelgrippevirus in USA könnte nächste Pandemie auslösen](https://www.stern.de/news/virologe-drosten--vogelgrippevirus-in-usa-koennte-naechste-pandemie-ausloesen-34839662.html) (STERN.de)
+
+- [„Darüber nachdenken, Kühe zu impfen“: Drosten warnt wegen Vogelgrippe-Virus in den USA vor nächster Pandemie](https://www.tagesspiegel.de/wissen/daruber-nachdenken-kuhe-zu-impfen-drosten-warnt-wegen-vogelgrippe-virus-in-den-usa-vor-nachster-pandemie-11925890.html) (Der Tagesspiegel)
+
+- [Drosten-Warnung - „Alle Fachleute besorgt“: Was passiert, wenn ein Mensch an Vogelgrippe erkrankt](https://www.focus.de/gesundheit/news/laut-drosten-sind-alle-experten-besorgt-was-passiert-wenn-ein-mensch-vogelgrippe-kriegt_id_260093762.html) (Focus)
+
+- [Threat posed by H5N1 bird flu deepens, as public health authorities delay action](https://www.wsws.org/en/articles/2024/06/29/ppxv-j29.html) (World Socialist Web Site)
+
 - [Ученые: птичий грипп долго остается на доильном оборудовании, и это опасно](https://www.ferra.ru/news/techlife/uchenye-ptichii-gripp-dolgo-ostaetsya-na-doilnom-oborudovanii-i-eto-opasno-28-06-2024.htm) (Ferra.ru)
 
 - [FDA’s testing of raw milk finds H5N1 bird flu in half of samples but confirms flash pasteurization kills virus](https://www.cnn.com/2024/06/28/health/fda-bird-flu-flash-pasteurization/index.html) (CNN)
@@ -317,6 +355,18 @@ Source: [News API](https://newsapi.org/)
 - [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
+
+- [Dengue fever cases in Mass. are on pace to break local records, according to CDC data](https://www.bostonglobe.com/2024/06/29/metro/dengue-fever-massachusetts-cdc-health-alert/) (The Boston Globe)
+
+- [Bengaluru Reports First Dengue Death This Year Amid Spike In Cases](https://www.ndtv.com/india-news/bengaluru-reports-first-dengue-death-this-year-amid-spike-in-cases-5998110) (NDTV News)
+
+- [Summer camps dealing with heat, music diplomacy through YouTube and concerns over dengue | Hot off the Wire podcast](https://richmond.com/news/nation-world/summer-camps-dealing-with-heat-music-diplomacy-through-youtube-and-concerns-over-dengue-hot-off/article_00f956ae-f5fc-5adc-962a-d35d7dc2a08d.html) (Richmond.com)
+
+- [Summer camps dealing with heat, music diplomacy through YouTube and concerns over dengue | Hot off the Wire podcast](https://roanoke.com/news/nation-world/summer-camps-dealing-with-heat-music-diplomacy-through-youtube-and-concerns-over-dengue-hot-off/article_877a1f12-c17d-5bde-820e-a292f0db10c3.html) (Roanoke Times)
+
+- [Travelers beware: It’s a big year for dengue](https://www.npr.org/sections/shots-health-news/2024/06/29/g-s1-7214/dengue-risk-vacation-travel) (NPR)
+
+- [Reinstala la Ssa el Sistema de Gestión de Incidentes por aumento de casos de dengue](https://www.jornada.com.mx/2024/06/29/politica/013n2pol) (Jornada.com.mx)
 
 - [Dengue cases drop to 2, 438 in 25th epidemiological week, says Health director-general](https://www.thestar.com.my/news/nation/2024/06/29/dengue-cases-drop-to-2-438-in-25th-epidemiological-week-says-health-director-general) (The Star Online)
 
@@ -489,6 +539,8 @@ Source: [News API](https://newsapi.org/)
 - [Ministério da Saúde amplia faixa etária para vacina da dengue em doses prestes a vencer; veja regras](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-amplia-faixa-etaria-para-vacina-da-dengue-em-doses-prestes-a-vencer-veja-regras,d8a927124262198f72703decbd358b98mgwk9ov5.html) (Terra.com.br)
 
 ## 24-26 (chikungunya)
+
+- [Moustiques, protégez-vous du "tigre" : quels sont les produits les plus efficaces et les moins toxiques](https://www.francetvinfo.fr/replay-radio/le-conseil-conso/moustiques-protegez-vous-du-tigre-quels-sont-les-produits-les-plus-efficaces-et-les-moins-toxiques_6604689.html) (Francetvinfo.fr)
 
 - [Chikungunya-Viren: EU lässt Impfstoff gegen gefährliches Tropenvirus zu](https://www.tagesspiegel.de/wissen/chikungunya-viren-eu-lasst-impfstoff-gegen-gefahrliches-tropenvirus-zu-11924924.html) (Der Tagesspiegel)
 
@@ -2506,8 +2558,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
 
-- [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
-
 ## 24-21 (mpox)
 
 - [CDC says vaccination could protect the U.S. from more dangerous mpox virus](https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753) (NBC News)
@@ -2601,8 +2651,6 @@ Source: [News API](https://newsapi.org/)
 - [SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms) (The Times of India)
 
 - [Serum Institute ships first R21/Matrix-M malaria vaccine to Africa](https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece) (BusinessLine)
-
-- [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (hpai)
 
@@ -2919,8 +2967,6 @@ Source: [News API](https://newsapi.org/)
 - [Learning English Podcast - May 20, 2024](https://learningenglish.voanews.com/a/7598921.html) (VOA News)
 
 - [Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos más afectados](https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/) (La Nacion)
-
-- [Tive dengue; quando posso me vacinar?](https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html) (Ig.com.br)
 
 ## 24-21 (chikungunya)
 
