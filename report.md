@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2024-06-30 19:05
-- **Most recent article:** 2024-06-29 19:04:09
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-07-01 07:06
+- **Most recent article:** 2024-06-29 23:16:23
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 54 | 61 | 64 | 115 | 62 | 91 | 447 |
-| h5n1 | 94 | 65 | 78 | 55 | 29 | 35 | 356 |
-| malaria | 16 | 25 | 21 | 37 | 20 | 21 | 140 |
+| dengue | 55 | 61 | 64 | 115 | 62 | 105 | 462 |
+| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 357 |
+| malaria | 17 | 25 | 21 | 37 | 20 | 24 | 144 |
 | mpox | 8 | 16 | 8 | 26 | 14 | 46 | 118 |
 | measles | 15 | 16 | 11 | 7 | 11 | 8 | 68 |
 | chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 62 |
 | rabies | 8 | 15 | 9 | 2 | 5 | 8 | 47 |
-| pertussis | 5 | 6 | 9 | 11 | 11 | 3 | 45 |
+| pertussis | 6 | 6 | 9 | 11 | 11 | 3 | 46 |
 | zika | 3 | 3 | 0 | 12 | 3 | 17 | 38 |
 | hpai | 7 | 12 | 2 | 4 | 4 | 3 | 32 |
 | meningitis | 4 | 1 | 6 | 3 | 1 | 1 | 16 |
@@ -226,6 +226,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (malaria)
 
+- [Celebs help in campaign against mosquitoes](https://timesofindia.indiatimes.com/city/mumbai/celebrities-join-bhaag-machhar-bhag-campaign-to-combat-mosquitoes-in-mumbai/articleshow/111372763.cms) (The Times of India)
+
+- [Malariavaccin till Elfenbenskusten](https://www.svd.se/a/W0RqMG/malariavaccin-till-elfenbenskusten) (Svenska Dagbladet)
+
+- [Malariavaccin till Elfenbenskusten](https://www.aftonbladet.se/nyheter/a/1M57JJ/malariavaccin-till-elfenbenskusten) (Aftonbladet.se)
+
 - [News24 | Ivory Coast receives first life-saving malaria vaccines](https://www.news24.com/news24/africa/news/ivory-coast-receives-first-life-saving-malaria-vaccines-20240629) (News24)
 
 - [NGO decries lack of funding for primary health centres](https://punchng.com/ngo-decries-lack-of-funding-for-primary-health-centres/) (The Punch)
@@ -283,6 +289,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
 
 ## 24-26 (h5n1)
+
+- [Nächste Pandemie? Corona dagegen ein „Spaziergang“](https://www.krone.at/3438425) (Krone.at)
 
 - [Vogelgrippevirus in USA könnte nächste Pandemie auslösen](https://orf.at/stories/3362142/) (Orf.at)
 
@@ -356,7 +364,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-26 (dengue)
 
+- [Celebs help in campaign against mosquitoes](https://timesofindia.indiatimes.com/city/mumbai/celebrities-join-bhaag-machhar-bhag-campaign-to-combat-mosquitoes-in-mumbai/articleshow/111372763.cms) (The Times of India)
+
+- [5-yr-old Rumdamol boy may be dengue’s first casualty of 2024](https://timesofindia.indiatimes.com/city/goa/5-yr-old-rumdamol-boy-may-be-dengues-first-casualty-of-2024/articleshow/111370305.cms) (The Times of India)
+
+- [Gaondongrim reports 70 dengue cases in 35 days](https://timesofindia.indiatimes.com/city/goa/gaondongrim-reports-70-dengue-cases-in-35-days/articleshow/111370044.cms) (The Times of India)
+
+- [What to know about dengue as CDC warns of rising risk in US](https://www.kmbc.com/article/what-to-know-about-dengue-cdc-warns-of-rising-risk-in-us/61460854) (KMBC Kansas City)
+
+- [What to know about dengue as CDC warns of rising risk in US](https://www.wisn.com/article/what-to-know-about-dengue-cdc-warns-of-rising-risk-in-us/61460854) (WISN Milwaukee)
+
 - [Dengue fever cases in Mass. are on pace to break local records, according to CDC data](https://www.bostonglobe.com/2024/06/29/metro/dengue-fever-massachusetts-cdc-health-alert/) (The Boston Globe)
+
+- [What to know about dengue as CDC warns of rising risk in US](https://www.wesh.com/article/what-to-know-about-dengue-cdc-warns-of-rising-risk-in-us/61460854) (WESH Orlando)
 
 - [Bengaluru Reports First Dengue Death This Year Amid Spike In Cases](https://www.ndtv.com/india-news/bengaluru-reports-first-dengue-death-this-year-amid-spike-in-cases-5998110) (NDTV News)
 
@@ -368,9 +388,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Reinstala la Ssa el Sistema de Gestión de Incidentes por aumento de casos de dengue](https://www.jornada.com.mx/2024/06/29/politica/013n2pol) (Jornada.com.mx)
 
+- [Moustiques, protégez-vous du "tigre" : quels sont les produits les plus efficaces et les moins toxiques](https://www.francetvinfo.fr/replay-radio/le-conseil-conso/moustiques-protegez-vous-du-tigre-quels-sont-les-produits-les-plus-efficaces-et-les-moins-toxiques_6604689.html) (Francetvinfo.fr)
+
 - [Dengue cases drop to 2, 438 in 25th epidemiological week, says Health director-general](https://www.thestar.com.my/news/nation/2024/06/29/dengue-cases-drop-to-2-438-in-25th-epidemiological-week-says-health-director-general) (The Star Online)
 
+- [Health alert for Australians heading to Bali as dengue fever cases surge](https://7news.com.au/news/health-alert-for-australians-heading-to-bali-as-dengue-fever-cases-surge-c-15175232) (7NEWS.com.au)
+
 - [7 ways to keep dengue mosquitoes at bay](https://m.economictimes.com/news/web-stories/7-ways-to-keep-dengue-mosquitoes-at-bay/slideshow/111336521.cms) (Economictimes.com)
+
+- [Health alert for Australians heading to Bali as dengue fever cases surge](https://thenightly.com.au/world/health-alert-for-australians-heading-to-bali-as-dengue-fever-cases-surge-c-15175232) (Thenightly.com.au)
+
+- [Health warning for Aussie travellers heading to Bali](https://www.9news.com.au/national/dengue-fever-health-warning-for-aussie-travellers-heading-to-bali/d59e19ba-7374-4128-a699-5bfe372b3adf) (9News)
+
+- [Dengue fever warning issued for West Aussies travelling to Bali, as cases triple compared to last year](https://www.perthnow.com.au/news/bali/dengue-fever-warning-issued-for-west-aussies-travelling-to-bali-as-cases-triple-compared-to-last-year-c-15176734) (PerthNow)
+
+- [WA Health issues warning to travellers heading to Bali after surge in dengue fever cases](https://www.skynews.com.au/lifestyle/health/wa-health-issues-warning-to-travellers-heading-to-bali-after-surge-in-dengue-fever-cases/news-story/aab4f62d3644a12b74e31d21183d9a32) (Sky News Australia)
 
 - [CDC issues dengue fever alert as hundreds of cases confirmed in Florida...](https://www.the-express.com/news/health/141551/cdc-dengue-fever-alert-cases-florida-puerto-rico) (The-express.com)
 
@@ -380,11 +412,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue—Known As Breakbone Fever—Is Having A Record Breaking Year](https://www.forbes.com/sites/matthewbinnicker/2024/06/27/dengue---known-as-breakbone-fever---is-having-a-record-breaking-year/) (Forbes)
 
+- [CDC Warns Of Rising Cases Of Dengue In The U.S.](https://www.huffpost.com/entry/us-dengue-cases-rising-cdc-warns_n_667d631ae4b05521a7f0ef6c) (HuffPost)
+
 - [Maps show dengue fever risk areas as CDC warns of global case surge](https://www.cbsnews.com/news/dengue-fever-map-what-to-know-global-case-surge/) (CBS News)
 
 - [Is the rise in childhood obesity rates leading to an increase in hospitalizations due to dengue?](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012248) (Plos.org)
 
 - [Dengue fever detected across new regions, CDC warns its on the rise around the world](https://www.cbsnews.com/video/cdc-dengue-fever-being-detected-across-new-regions/) (CBS News)
+
+- [Ministry notes shorter intervals in peaks of dengue cases](https://en.antaranews.com/news/317070/ministry-notes-shorter-intervals-in-peaks-of-dengue-cases) (Antaranews.com)
 
 - [सावधान! दिल्ली में बारिश के पीछे-पीछे आ रहा डेंगू, अब तक 232 केस, इस मौसम बिल्कुल रिस्क नहीं लेने का](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-reported-232-dengue-cases-till-now-rainy-season-will-increase-the-numbers/articleshow/111302934.cms) (The Times of India)
 
@@ -2558,6 +2594,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
 
+- [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
+
 ## 24-21 (mpox)
 
 - [CDC says vaccination could protect the U.S. from more dangerous mpox virus](https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753) (NBC News)
@@ -2651,6 +2689,8 @@ Source: [News API](https://newsapi.org/)
 - [SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms) (The Times of India)
 
 - [Serum Institute ships first R21/Matrix-M malaria vaccine to Africa](https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece) (BusinessLine)
+
+- [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (hpai)
 
@@ -2967,6 +3007,8 @@ Source: [News API](https://newsapi.org/)
 - [Learning English Podcast - May 20, 2024](https://learningenglish.voanews.com/a/7598921.html) (VOA News)
 
 - [Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos más afectados](https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/) (La Nacion)
+
+- [Tive dengue; quando posso me vacinar?](https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html) (Ig.com.br)
 
 ## 24-21 (chikungunya)
 

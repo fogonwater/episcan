@@ -1,8 +1,153 @@
 {
-  "last_updated": "2024-06-30 19:05",
-  "count_articles_total": 1323,
-  "count_articles_new": 25,
+  "last_updated": "2024-07-01 07:06",
+  "count_articles_total": 1342,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 10649,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Celebs help in campaign against mosquitoes",
+      "description": "Celebrities from Marathi and Hindi cinemas join BMC's campaign to raise awareness about preventing mosquito-borne diseases like malaria and dengue in Mumbai. Measures include destroying mosquito breeding sites and adopting anti-mosquito practices like not sto\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/celebrities-join-bhaag-machhar-bhag-campaign-to-combat-mosquitoes-in-mumbai/articleshow/111372763.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111372759,width-1070,height-580,imgsize-17706,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-29 23:16:23",
+      "content": "9 vegetables that improve eyesight naturally",
+      "retrievedAt": "2024-07-01 07:06:23.135884",
+      "internal_id": "a4e7745dabccf5f5fdc6c99bcd6971e5bdb3c61e95a7e2683d5f49db5dc210ca",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10661,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "TT-AFP",
+      "title": "Malariavaccin till Elfenbenskusten",
+      "description": "Elfenbenskusten i V\u00e4stafrika har tagit emot landets f\u00f6rsta vaccin mot malaria, en sjukdom som orsakar fyra d\u00f6dsfall per dag i landet. Landet f\u00e5r \u00f6ver 656 000 doser som till att b\u00f6rja med ska g\u00e5 till att \u201dvaccinera 250 000 barn mellan 0 och 23 m\u00e5nader gamla\u201d i\u2026",
+      "url": "https://www.svd.se/a/W0RqMG/malariavaccin-till-elfenbenskusten",
+      "urlToImage": "https://svd.vgc.no/v2/images/83855516-b23c-47b8-b7ef-5e40e5b20460?h=630&q=80&upscale=true&w=1200&s=d46e781f5f6d5b74c0ca2385fd93cdd00e566475",
+      "publishedAt": "2024-06-29 23:09:07",
+      "content": "Elfenbenskusten i V\u00e4stafrika har tagit emot landets f\u00f6rsta vaccin mot malaria, en sjukdom som orsakar fyra d\u00f6dsfall per dag i landet. Landet f\u00e5r \u00f6ver 656 000 doser som till att b\u00f6rja med ska g\u00e5 till\u2026 [+90 chars]",
+      "retrievedAt": "2024-07-01 07:06:23.612898",
+      "internal_id": "813be9a5354628a588aaa413190a35a35b14b4dc9cf49f8fb47abe7ed246dc84",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10660,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Malariavaccin till Elfenbenskusten",
+      "description": "Elfenbenskusten i V\u00e4stafrika har tagit emot landets f\u00f6rsta vaccin mot malaria, en sjukdom som orsakar fyra d\u00f6dsfall per dag i landet.",
+      "url": "https://www.aftonbladet.se/nyheter/a/1M57JJ/malariavaccin-till-elfenbenskusten",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/13707ab3-f1b6-4f78-a627-84ab18935538?fit=crop&format=auto&h=1268&q=50&w=1900&s=b70a6faa6edcfd0aca6a40b8df1cdbd006b644c3",
+      "publishedAt": "2024-06-29 23:09:06",
+      "content": "share-arrow Dela Elfenbenskusten i V\u00e4stafrika har tagit emot landets f\u00f6rsta vaccin mot malaria, en sjukdom som orsakar fyra d\u00f6dsfall per dag i landet. Landet f\u00e5r \u00f6ver 656 000 doser som till att b\u00f6\u2026 [+271 chars]",
+      "retrievedAt": "2024-07-01 07:06:23.607694",
+      "internal_id": "8f1ada3f64a54db5a47d88d9d7d09a25fb527fd4f5bc97d35e24786b636aab02",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10647,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Lisa Monteiro",
+      "title": "5-yr-old Rumdamol boy may be dengue\u2019s first casualty of 2024",
+      "description": "Panaji: A five-year-old boy from Rumdamol, Davorlim, died of suspected dengue at GMC on Friday morning.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/5-yr-old-rumdamol-boy-may-be-dengues-first-casualty-of-2024/articleshow/111370305.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111370305,width-1070,height-580,imgsize-37986,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-29 21:03:02",
+      "content": "9 vegetables that improve eyesight naturally",
+      "retrievedAt": "2024-07-01 07:06:23.100472",
+      "internal_id": "af23e8bb44184d712d5b8b13a0df2a11f42af7e96c8bda2250ed56640207ef4a",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10646,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Krone.at",
+      "author": "Krone.at",
+      "title": "N\u00e4chste Pandemie? Corona dagegen ein \u201eSpaziergang\u201c",
+      "description": "Derzeit breitet sich der Erreger H5N1 in den USA aus. Mittlerweile tritt er sogar bei Milchviehbest\u00e4nden auf, auch in Milchprodukten im Handel wurde ...",
+      "url": "https://www.krone.at/3438425",
+      "urlToImage": "https://imgl.krone.at/scaled/2964868/v2b8e77/og_image.jpg",
+      "publishedAt": "2024-06-29 20:08:58",
+      "content": "F\u00fcr eine genauere Einsch\u00e4tzung fehle auch eine bessere Dateneinsicht, erl\u00e4uterte der Virologe. Wir wissen noch nicht, wie h\u00e4ufig sich Menschen infizieren, die mit diesen infizierten K\u00fchen zu tun habe\u2026 [+299 chars]",
+      "retrievedAt": "2024-07-01 07:06:22.807467",
+      "internal_id": "0571749850746c2c454d826bf8d91e7129ab06a2c0e4c50889165da6e0f8f669",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10648,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times News Network",
+      "title": "Gaondongrim reports 70 dengue cases in 35 days",
+      "description": "Canacona: With dengue cases logging an alarming increase in Canacona, particularly in Gaondongrim and some other parts of the taluka, health officials.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/gaondongrim-reports-70-dengue-cases-in-35-days/articleshow/111370044.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-29 20:03:32",
+      "content": "9 vegetables that improve eyesight naturally",
+      "retrievedAt": "2024-07-01 07:06:23.112437",
+      "internal_id": "c71d61c1cfec6a830e6db540521dc9ab20a637120c394eeedd1c8b9e4446fdae",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10650,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "KMBC Kansas City",
+      "author": "Amanda Musa",
+      "title": "What to know about dengue as CDC warns of rising risk in US",
+      "description": "Global infections in 2024 have been the highest on record, with cases in the Americas already reaching 9.7 million \u2014 exceeding the highest number ever recorded in a single year.",
+      "url": "https://www.kmbc.com/article/what-to-know-about-dengue-cdc-warns-of-rising-risk-in-us/61460854",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbgxmc2vmndgwmdaxm2i2z3nhcxe2bxpk-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nsbgzychuxmjawmhmynm5xy29ka2dyegs-jpg-668056011efe7.jpg?crop=1.00xw:0.846xh;0,0.0457xh&resize=1200:*",
+      "publishedAt": "2024-06-29 19:08:19",
+      "content": "Dengue virus is the most common mosquito-spread virus globally, but generally relatively rare in the continental United States. However, the U.S. Centers for Disease Control and Prevention warned thi\u2026 [+7237 chars]",
+      "retrievedAt": "2024-07-01 07:06:23.148331",
+      "internal_id": "77e41677256e756a77c88db586b490a02ddea83083dd05144dc20325b28afd69",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10652,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Amanda Musa",
+      "title": "What to know about dengue as CDC warns of rising risk in US",
+      "description": "Global infections in 2024 have been the highest on record, with cases in the Americas already reaching 9.7 million \u2014 exceeding the highest number ever recorded in a single year.",
+      "url": "https://www.wisn.com/article/what-to-know-about-dengue-cdc-warns-of-rising-risk-in-us/61460854",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbgxmc2vmndgwmdaxm2i2z3nhcxe2bxpk-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nsbgzychuxmjawmhmynm5xy29ka2dyegs-jpg-668056011efe7.jpg?crop=1.00xw:0.846xh;0,0.0457xh&resize=1200:*",
+      "publishedAt": "2024-06-29 19:07:12",
+      "content": "Dengue virus is the most common mosquito-spread virus globally, but generally relatively rare in the continental United States. However, the U.S. Centers for Disease Control and Prevention warned thi\u2026 [+7237 chars]",
+      "retrievedAt": "2024-07-01 07:06:23.157371",
+      "internal_id": "bb8c3764b96114f3c44c8de5fda9d1cfb201d2a092241fe839254d4254bc4b4a",
+      "publishedAtLabel": "Jun 29"
+    },
     {
       "id": 10636,
       "query": [
@@ -19,6 +164,24 @@
       "content": "Experts say this could be a preview of things to come as climate change transforms local ecosystems. Heres what you need to know. Dengue fever is a mosquito-borne viral disease that is endemic in tr\u2026 [+4659 chars]",
       "retrievedAt": "2024-06-30 19:05:46.772217",
       "internal_id": "71e132c5f1e8b21728e87c5618ab11101cdd2acd184ebfc22e4ca9d3a3e5f788",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 10651,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "WESH Orlando",
+      "author": "Amanda Musa",
+      "title": "What to know about dengue as CDC warns of rising risk in US",
+      "description": "Global infections in 2024 have been the highest on record, with cases in the Americas already reaching 9.7 million \u2014 exceeding the highest number ever recorded in a single year.",
+      "url": "https://www.wesh.com/article/what-to-know-about-dengue-cdc-warns-of-rising-risk-in-us/61460854",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbgxmc2vmndgwmdaxm2i2z3nhcxe2bxpk-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nsbgzychuxmjawmhmynm5xy29ka2dyegs-jpg-668056011efe7.jpg?crop=1.00xw:0.846xh;0,0.0457xh&resize=1200:*",
+      "publishedAt": "2024-06-29 18:56:26",
+      "content": "Dengue virus is the most common mosquito-spread virus globally, but generally relatively rare in the continental United States. However, the U.S. Centers for Disease Control and Prevention warned thi\u2026 [+7237 chars]",
+      "retrievedAt": "2024-07-01 07:06:23.152827",
+      "internal_id": "f05b01c7c5119ef7863a32a9270f3993aa36a42444d8395cb1b5234eda4580f8",
       "publishedAtLabel": "Jun 29"
     },
     {
@@ -421,7 +584,8 @@
       "id": 10643,
       "query": [
         "zika",
-        "chikungunya"
+        "chikungunya",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Francetvinfo.fr",
@@ -907,6 +1071,24 @@
       "publishedAtLabel": "Jun 28"
     },
     {
+      "id": 10654,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "7NEWS.com.au",
+      "author": "Ailish Delaney",
+      "title": "Health alert for Australians heading to Bali as dengue fever cases surge",
+      "description": "Health alert for Australians heading to Bali as dengue fever cases surge7news.com.au",
+      "url": "https://7news.com.au/news/health-alert-for-australians-heading-to-bali-as-dengue-fever-cases-surge-c-15175232",
+      "urlToImage": "https://images.7news.com.au/publication/C-15175232/558ec0aa167da688902a507688a761dde1512e71-16x9-x0y0w2000h1125.png?imwidth=1200",
+      "publishedAt": "2024-06-28 09:54:25",
+      "content": "Australians heading to Bali are being warned over a recent surge in dengue fever cases in the region. Travellers are urged to take precautions against the mosquito-borne disease which can cause seve\u2026 [+1579 chars]",
+      "retrievedAt": "2024-07-01 07:06:23.166727",
+      "internal_id": "3b584a52a126f3065f27831819a8b5fd3e352a45e546d78c1080091837560efa",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
       "id": 10592,
       "query": [
         "pertussis"
@@ -940,6 +1122,78 @@
       "content": "Regularly clean and dispose of garbage properly. Remove any items that can collect water, such as old tires, cans, and plastic containers, to reduce mosquito breeding sites.",
       "retrievedAt": "2024-06-29 19:05:19.217271",
       "internal_id": "ded7a947831cda255e66f885d2d585e7ec12e2b681c06f948e57e8b6b662112b",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10653,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thenightly.com.au",
+      "author": "The Nightly",
+      "title": "Health alert for Australians heading to Bali as dengue fever cases surge",
+      "description": "Health alert for Australians heading to Bali as dengue fever cases surgethenightly.com.au",
+      "url": "https://thenightly.com.au/world/health-alert-for-australians-heading-to-bali-as-dengue-fever-cases-surge-c-15175232",
+      "urlToImage": "https://images.thenightly.com.au/publication/C-15175232/558ec0aa167da688902a507688a761dde1512e71-16x9-x0y0w2000h1125.png?imwidth=1200",
+      "publishedAt": "2024-06-28 08:12:33",
+      "content": "Australians heading to Bali are being warned over a recent surge in dengue fever cases in the region. Travellers are urged to take precautions against the mosquito-borne disease which can cause seve\u2026 [+1740 chars]",
+      "retrievedAt": "2024-07-01 07:06:23.162294",
+      "internal_id": "393f28cf49681886c8548ef45ff90edf8151f1f7d81ff24ab165029ee28b3801",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10658,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "9News",
+      "author": "Allanah Sciberras",
+      "title": "Health warning for Aussie travellers heading to Bali",
+      "description": "Western Australians travelling to Bali over the coming school holidays have been warned to \ufeffremain alert following a surge in dengue fever cases in the region.",
+      "url": "https://www.9news.com.au/national/dengue-fever-health-warning-for-aussie-travellers-heading-to-bali/d59e19ba-7374-4128-a699-5bfe372b3adf",
+      "urlToImage": "https://imageresizer.static9.net.au/1GEh0ymmuoP7A2pPzO2uI2IATEw=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd242a6cd-36f7-46ba-96e9-883f75ac57f9",
+      "publishedAt": "2024-06-28 08:07:58",
+      "content": "Property News: The Australian city where house prices have risen $1000 a day.",
+      "retrievedAt": "2024-07-01 07:06:23.185076",
+      "internal_id": "c660083a6d81920c76b3b7199cc95a6c017d5a71ef8e459fd977249b2eae5849",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10656,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "PerthNow",
+      "author": "Perthnow",
+      "title": "Dengue fever warning issued for West Aussies travelling to Bali, as cases triple compared to last year",
+      "description": "Dengue fever warning issued for West Aussies travelling to Bali, as cases triple compared to last yearperthnow.com.au",
+      "url": "https://www.perthnow.com.au/news/bali/dengue-fever-warning-issued-for-west-aussies-travelling-to-bali-as-cases-triple-compared-to-last-year-c-15176734",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-15176734/2325a8b39ae43a54b16ff882769512b8dcbb8112-16x9-x0y0w1926h1083.jpg?imwidth=1200",
+      "publishedAt": "2024-06-28 07:23:24",
+      "content": "With school holidays approaching, a health warning has been issued for West Aussies travelling to Bali. WA Health urges travellers to be aware of the recent surge of dengue fever cases among West Au\u2026 [+1685 chars]",
+      "retrievedAt": "2024-07-01 07:06:23.175635",
+      "internal_id": "4584aa9492132190f3eaa24953b54b89241a97ea130f56756cb34fa0e96b9590",
+      "publishedAtLabel": "Jun 28"
+    },
+    {
+      "id": 10657,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Bryant Hevesi",
+      "title": "WA Health issues warning to travellers heading to Bali after surge in dengue fever cases",
+      "description": "Health authorities in Western Australia have issued an urgent warning to travellers heading to Bali after a significant increase in dengue fever cases.",
+      "url": "https://www.skynews.com.au/lifestyle/health/wa-health-issues-warning-to-travellers-heading-to-bali-after-surge-in-dengue-fever-cases/news-story/aab4f62d3644a12b74e31d21183d9a32",
+      "urlToImage": "https://content.api.news/v3/images/bin/e891820cd43ee1e1d94737f454e248a2",
+      "publishedAt": "2024-06-28 05:17:55",
+      "content": "Health authorities in Western Australia have issued an urgent warning to travellers heading to Bali after a significant increase in dengue fever cases. WA Health on Friday said dengue fever notifia\u2026 [+1954 chars]",
+      "retrievedAt": "2024-07-01 07:06:23.180426",
+      "internal_id": "22cd1c4d6d51cd37adce9d80bb7aba140ae4cb0955646e5a888f98baff6f70ae",
       "publishedAtLabel": "Jun 28"
     },
     {
@@ -1139,6 +1393,24 @@
       "content": "Easily access major global news with a strong focus on Africa. As well as the main stories of the day, we like to accentuate positive stories about Africa across all genres including Politics, Busine\u2026 [+391 chars]",
       "retrievedAt": "2024-06-28 19:05:37.374930",
       "internal_id": "787bcbe9241cd57bf4ad41a5cc82f9eee620d43cd5647b9bed273fa631936dc9",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 10655,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Nina Golgowski",
+      "title": "CDC Warns Of Rising Cases Of Dengue In The U.S.",
+      "description": "Cases of the mosquito-transmitted disease are expected to increase as global temperatures do.",
+      "url": "https://www.huffpost.com/entry/us-dengue-cases-rising-cdc-warns_n_667d631ae4b05521a7f0ef6c",
+      "urlToImage": "https://img.huffingtonpost.com/asset/667d7c652400005100a744d0.jpeg?ops=1200_630",
+      "publishedAt": "2024-06-27 16:28:34",
+      "content": "Federal health officials are warning that cases of dengue are rising higher than expected this year in the U.S. amid a record number of global cases of the mosquito-borne disease. As of Monday, ther\u2026 [+2672 chars]",
+      "retrievedAt": "2024-07-01 07:06:23.171263",
+      "internal_id": "460e81383130887c3e4b12f03ee7b5705e8bb93765761a1d2aa9580e6bbd6a43",
       "publishedAtLabel": "Jun 27"
     },
     {
@@ -1373,6 +1645,24 @@
       "content": "ANKARA The Turkish parliament, initially set to recess on July 1, has extended its working period after the ruling Justice and Development Party (AKP) proposed a revised calendar. The legislative b\u2026 [+2396 chars]",
       "retrievedAt": "2024-06-28 19:05:34.398298",
       "internal_id": "ff665d3259af2883b725d2335b1f790272098416243a7f99eb5ba3c8c91eabe1",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 10659,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna Ning Prisie",
+      "title": "Ministry notes shorter intervals in peaks of dengue cases",
+      "description": "The Health Ministry highlighted shorter intervals between peaks of dengue cases since first being identified in Indonesia in 1968, from a decade to five years ...",
+      "url": "https://en.antaranews.com/news/317070/ministry-notes-shorter-intervals-in-peaks-of-dengue-cases",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/05/19/Screenshot_20231119_182059_Gallery_1_YjSEa7SC18.jpeg",
+      "publishedAt": "2024-06-27 10:23:05",
+      "content": "Jakarta (ANTARA) - The Health Ministry highlighted shorter intervals between peaks of dengue cases since first being identified in Indonesia in 1968, from a decade to five years and even three years,\u2026 [+2517 chars]",
+      "retrievedAt": "2024-07-01 07:06:23.197533",
+      "internal_id": "7f64d4323b557c58e6b94f1b1b65eda32812a503f524b432b5e34f1dc2c61def",
       "publishedAtLabel": "Jun 27"
     },
     {
@@ -23887,6 +24177,60 @@
       "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
       "retrievedAt": "2024-05-21 07:06:07.864022",
       "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9320,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Michael Head, The Conversation",
+      "title": "Whooping Cough Is Surging in The UK, And This Could Be Why",
+      "description": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024.",
+      "url": "https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why",
+      "urlToImage": "https://www.sciencealert.com/images/2024/05/WhoopingCoughOnTheRiseInUKWomenCoughing.jpg",
+      "publishedAt": "2024-05-19 11:30:09",
+      "content": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024. There have been 2,793 confirmed cases so far this year. Sadly, five infa\u2026 [+5653 chars]",
+      "retrievedAt": "2024-05-20 19:05:22.412480",
+      "internal_id": "4bec85cd0e2d6cd6b953743ed7b90cfa9eb2c27679ab316857d344b42f3e9270",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9321,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Tive dengue; quando posso me vacinar?",
+      "description": "Imunizante est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada",
+      "url": "https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
+      "publishedAt": "2024-05-19 09:00:02",
+      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada. A faixa et\u00e1ria do p\u00fablico-alvo da unidade de sa\u00fade p\u00fablica, no primeiro momento, \u00e9 para o grupo de 10 a 14 anos\u2026 [+3855 chars]",
+      "retrievedAt": "2024-05-20 19:05:24.128313",
+      "internal_id": "bc8ac58f563e0021fb17ac730746e4bffae42da4a7f284ed88cff59abf98ab2c",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9322,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Mark Smith, Professor of Water Science & Heath, University of Leeds, Chris Thomas, Global Professor in Water & Planetary Health, University of Lincoln",
+      "title": "Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future",
+      "description": "Mosquito populations can respond quickly to changing climate, which means the location of areas at risk of malaria might change.",
+      "url": "https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814",
+      "urlToImage": "https://images.theconversation.com/files/593392/original/file-20240510-22-7peqxh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-05-19 08:27:51",
+      "content": "Water bodies such as the Nile River, pictured here running through Juba in South Sudan, are included in the new model. Frontpage The relationship between climate and malaria transmission is complex \u2026 [+6207 chars]",
+      "retrievedAt": "2024-05-20 19:05:24.928793",
+      "internal_id": "358e0bde6a335ba396cd048daac77d6c6816ed0bc5eab02f0c68e4b729c85183",
       "publishedAtLabel": "May 19"
     }
   ]
