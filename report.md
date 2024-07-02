@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-07-02 07:06
-- **Most recent article:** 2024-07-01 07:02:00
+- **New articles in last harvest:** 24
+- **Last harvest:** 2024-07-02 19:06
+- **Most recent article:** 2024-07-01 18:03:41
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 55 | 61 | 64 | 115 | 62 | 105 | 6 | 468 |
-| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 0 | 357 |
-| malaria | 17 | 25 | 21 | 37 | 20 | 24 | 0 | 144 |
-| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 3 | 121 |
+| dengue | 54 | 61 | 64 | 115 | 62 | 105 | 14 | 475 |
+| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 5 | 362 |
+| malaria | 16 | 25 | 21 | 37 | 20 | 24 | 5 | 148 |
+| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 6 | 124 |
 | measles | 15 | 16 | 11 | 7 | 11 | 8 | 1 | 69 |
-| chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 2 | 64 |
+| chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 3 | 65 |
 | rabies | 8 | 15 | 9 | 2 | 5 | 8 | 1 | 48 |
-| pertussis | 6 | 6 | 9 | 11 | 11 | 3 | 0 | 46 |
-| zika | 3 | 3 | 0 | 12 | 3 | 17 | 0 | 38 |
+| pertussis | 5 | 6 | 9 | 11 | 11 | 3 | 0 | 45 |
+| zika | 3 | 3 | 0 | 12 | 3 | 17 | 3 | 41 |
 | hpai | 7 | 12 | 2 | 4 | 4 | 3 | 0 | 32 |
 | meningitis | 4 | 1 | 6 | 3 | 1 | 1 | 0 | 16 |
 | leptospirosis | 0 | 5 | 1 | 1 | 1 | 2 | 0 | 10 |
@@ -32,11 +32,25 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-27 (zika)
+
+- [Six Zika virus infection cases in Pune; two patients are pregnant women](https://statetimes.in/six-zika-virus-infection-cases-in-pune-two-patients-are-pregnant-women/) (Statetimes.in)
+
+- [6 Zika Virus Cases In Pune, 2 Patients Are Pregnant Women](https://www.ndtv.com/india-news/six-zika-virus-infection-cases-in-pune-two-patients-are-pregnant-women-6012467) (NDTV News)
+
+- [Pregnant woman tests positive for Zika virus in India: Know how Zika virus affects foetal growth](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/pregnant-woman-tests-positive-for-zika-virus-in-india-know-how-zika-virus-affects-foetal-growth/articleshow/111398333.cms) (The Times of India)
+
 ## 24-27 (rabies)
 
 - [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
 
 ## 24-27 (mpox)
+
+- [Zorgen om nieuwe stam mpox-virus in Congo](https://www.nrc.nl/nieuws/2024/07/01/zorgen-om-nieuwe-stam-mpox-virus-in-congo-a4858288) (Www.nrc.nl)
+
+- [Advocates urge mpox vaccines with cases on the rise](https://www.cbsnews.com/news/with-mpox-cases-on-the-rise-advocates-urge-vaccinations-to-avoid-potential-resurgence/) (CBS News)
+
+- [Starliner Astronauts Are in Limbo, and Emergency Access to Abortion Is Preserved](https://www.scientificamerican.com/podcast/episode/starliner-astronauts-are-in-limbo-and-emergency-access-to-abortion-is/) (Scientific American)
 
 - [Advocates use end of Pride Month to warn about Mpox](https://www.cbsnews.com/video/advocates-use-end-of-pride-month-to-warn-about-mpox/) (CBS News)
 
@@ -48,7 +62,47 @@ Source: [News API](https://newsapi.org/)
 
 - [Vaccine breakthrough protects the immunocompromised from the unvaxxed](https://newatlas.com/medical/measles-vaccine-discovery/) (New Atlas)
 
+## 24-27 (malaria)
+
+- [FG sets advisory board, ministerial taskforce on malaria elimination](https://punchng.com/fg-sets-advisory-board-ministerial-taskforce-on-malaria-elimination/) (The Punch)
+
+- [Girmay hace historia en el Tour al ser el primer africano en anotarse una etapa](https://www.elmundo.es/deportes/ciclismo/tour-de-francia/2024/07/01/6682b670fdddff01568b4597.html) (El Mundo)
+
+- [Plasmodium gametocyte carriage in humans and sporozoite rate in anopheline mosquitoes in Gondar zuria district, Northwest Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306289) (Plos.org)
+
+- [Larmet: Farliga smittorna på väg till Sverige](https://www.aftonbladet.se/nyheter/a/KMzOMX/farliga-smittor-som-sprids-till-sverige-far-en-massa-nya-sjukdomar) (Aftonbladet.se)
+
+- [„Große Truppenbewegungen spielten eine wichtige Rolle bei der Ausbreitung“](https://www.welt.de/gesundheit/article252281042/Infektionskrankheit-Kriege-Handel-und-die-Seefahrt-foerderten-die-Ausbreitung-der-Malaria.html) (DIE WELT)
+
+## 24-27 (h5n1)
+
+- [What is the H5N1 virus that is growingly rapidly? Here is everything you need to know](https://economictimes.indiatimes.com/news/international/us/what-is-the-h5n1-virus-that-is-growingly-rapidly-here-is-everything-you-need-to-know/articleshow/111412425.cms) (The Times of India)
+
+- [Científicos temen que pandemia por gripe aviar ‘se desarrolle en cámara lenta’](https://www.forbes.com.mx/cientificos-temen-que-pandemia-por-gripe-aviar-se-desarrolle-en-camara-lenta/) (Forbes.com.mx)
+
+- [Warnung vor sich langsam abzeichnender Pandemie](https://science.orf.at/stories/3225674/) (Science.orf.at)
+
+- [Ärmel hoch 2.0](https://www.titanic-magazin.de/news/aermel-hoch-20-14196/) (Titanic-magazin.de)
+
+- [Bird flu snapshot: Dutch expert sees parallels to Q fever outbreaks](https://www.statnews.com/2024/07/01/h5n1-bird-flu-snapshot-q-fever/) (STAT)
+
 ## 24-27 (dengue)
+
+- [Dengue: Brasil tem, em 6 meses, 6,1 milhões de casos e 4,2 mil mortes](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-07-01/dengue--brasil-tem--em-6-meses--6-1-milhoes-de-casos-e-4-2-mil-mortes.html) (Ig.com.br)
+
+- [Understanding Dengue: What is dengue? Symptoms and treatment; Can dengue kill?](https://m.economictimes.com/what-is-dengue/slideshow/111406584.cms) (Economictimes.com)
+
+- [Dengue | Após Europa, infecções se alastram nos EUA](https://tecnologia.ig.com.br/parceiros/canaltech/2024-07-01/dengue---apos-europa--infeccoes-se-alastram-nos-eua.html) (Ig.com.br)
+
+- [Bengaluru witnessing sharp rise in dengue cases: Doctors say situation may worsen, women and children at greater risk](https://economictimes.indiatimes.com/news/bengaluru-news/bengaluru-witnessing-sharp-rise-in-dengue-cases-doctors-say-situation-may-worsen-women-and-children-at-greater-risk/articleshow/111401427.cms) (The Times of India)
+
+- [Starliner Astronauts Are in Limbo, and Emergency Access to Abortion Is Preserved](https://www.scientificamerican.com/podcast/episode/starliner-astronauts-are-in-limbo-and-emergency-access-to-abortion-is/) (Scientific American)
+
+- [Na Slovensku zaznamenali od začiatku roka päť prípadov smrteľnej horúčky](https://spravy.pravda.sk/domace/clanok/715694-na-slovensku-zaznamenali-od-zaciatku-roka-pat-pripadov-smrtelnej-horucky/) (Pravda.sk)
+
+- [Role of doctors in eradicating misinformation in the healthcare sector](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/national-doctors-day-role-of-doctors-in-eradicating-misinformation-in-the-healthcare-sector/articleshow/111399098.cms) (The Times of India)
+
+- [Bolesti, závratě, průjmy. Horečku dengue si vozí z ciziny čím dál víc Čechů](https://www.idnes.cz/zpravy/domaci/horecka-dengue-komari-tropicke-infekce-evropa.A240701_084732_domaci_iles) (Idnes.cz)
 
 - [DF fecha 1º semestre do ano com 416 mortes por dengue e 36 por Covid](https://www.metropoles.com/distrito-federal/df-fecha-1o-semestre-do-ano-com-416-mortes-por-dengue-e-36-por-covid) (Metropoles.com)
 
@@ -63,6 +117,8 @@ Source: [News API](https://newsapi.org/)
 - [«تب استخوان شکن» را جدی بگیریم](https://www.isna.ir/news/1403041006560/تب-استخوان-شکن-را-جدی-بگیریم) (Isna.ir)
 
 ## 24-27 (chikungunya)
+
+- [Valneva obtient le feu vert de l’Europe pour commercialiser son vaccin contre le chikungunya](https://www.lejournaldesentreprises.com/article/valneva-obtient-le-feu-vert-de-leurope-pour-commercialiser-son-vaccin-contre-le-chikungunya-2099417) (Le Journal des Entreprises)
 
 - [Valneva Receives Marketing Authorization in Europe for the World’s First Chikungunya Vaccine, IXCHIQ®](https://www.globenewswire.com/news-release/2024/07/01/2906366/0/en/Valneva-Receives-Marketing-Authorization-in-Europe-for-the-World-s-First-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
 
@@ -2630,8 +2686,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
 
-- [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
-
 ## 24-21 (mpox)
 
 - [CDC says vaccination could protect the U.S. from more dangerous mpox virus](https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753) (NBC News)
@@ -2725,8 +2779,6 @@ Source: [News API](https://newsapi.org/)
 - [SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms) (The Times of India)
 
 - [Serum Institute ships first R21/Matrix-M malaria vaccine to Africa](https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece) (BusinessLine)
-
-- [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (hpai)
 
@@ -3043,8 +3095,6 @@ Source: [News API](https://newsapi.org/)
 - [Learning English Podcast - May 20, 2024](https://learningenglish.voanews.com/a/7598921.html) (VOA News)
 
 - [Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos más afectados](https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/) (La Nacion)
-
-- [Tive dengue; quando posso me vacinar?](https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html) (Ig.com.br)
 
 ## 24-21 (chikungunya)
 

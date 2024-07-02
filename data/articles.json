@@ -1,8 +1,441 @@
 {
-  "last_updated": "2024-07-02 07:06",
-  "count_articles_total": 1355,
-  "count_articles_new": 7,
+  "last_updated": "2024-07-02 19:06",
+  "count_articles_total": 1376,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 10695,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Statetimes.in",
+      "author": "statetimes_editor",
+      "title": "Six Zika virus infection cases in Pune; two patients are pregnant women",
+      "description": "PUNE: Six cases of Zika virus infection have been reported in Pune city, health officials said on Monday. The patients include two pregnant women, they said. \u201cA 28-year-old pregnant woman from the Erandwane area was detected with Zika virus infection. Her rep\u2026",
+      "url": "https://statetimes.in/six-zika-virus-infection-cases-in-pune-two-patients-are-pregnant-women/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2024/07/Zika-virus.jpg",
+      "publishedAt": "2024-07-01 18:03:41",
+      "content": "PUNE: Six cases of Zika virus infection have been reported in Pune city, health officials said on Monday. The patients include two pregnant women, they said. \u201cA 28-year-old pregnant woman from the \u2026 [+1131 chars]",
+      "retrievedAt": "2024-07-02 19:06:54.320506",
+      "internal_id": "6c8af07305189180e207f509d1d0d33ae454e2e98d2704da13c9b3d082038ccd",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10678,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "What is the H5N1 virus that is growingly rapidly? Here is everything you need to know",
+      "description": "H5N1 which is also known as the bird flu is growing rapidly in the US and in other parts of the world. Though there are no human-to-human transmission cases, it is known to infect human beings who are in contact with the infected animals. It causes massive ec\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/what-is-the-h5n1-virus-that-is-growingly-rapidly-here-is-everything-you-need-to-know/articleshow/111412425.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111412525,width-1200,height-630,imgsize-11876,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-01 17:56:37",
+      "content": "(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News\u2026 [+8 chars]",
+      "retrievedAt": "2024-07-02 19:06:53.140692",
+      "internal_id": "cdfd700bb617aa23d882dae2f39d29ab5b0ca7d50bf0429935b0b20344bd8abc",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10694,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "6 Zika Virus Cases In Pune, 2 Patients Are Pregnant Women",
+      "description": "Six cases of Zika virus infection have been reported in Pune city, health officials said on Monday. The patients include two pregnant women, they said.",
+      "url": "https://www.ndtv.com/india-news/six-zika-virus-infection-cases-in-pune-two-patients-are-pregnant-women-6012467",
+      "urlToImage": "https://c.ndtvimg.com/2024-02/l4n7arf_zika-_625x300_08_February_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
+      "publishedAt": "2024-07-01 16:47:18",
+      "content": "The Zika virus disease is transmitted through the bite of an infected Aedes mosquito(Representational) Pune: Six cases of Zika virus infection have been reported in Pune city, health officials said \u2026 [+1333 chars]",
+      "retrievedAt": "2024-07-02 19:06:54.300502",
+      "internal_id": "896ed36733002066f756fb76e88d6fa020178e53f450539e3c288319f48a8f67",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10682,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "GPS Bras\u00edlia, GPS Bras\u00edlia",
+      "title": "Dengue: Brasil tem, em 6 meses, 6,1 milh\u00f5es de casos e 4,2 mil mortes",
+      "description": "O Brasil encerrou o primeiro semestre de 2024 registrando 6.159.160 casos prov\u00e1veis de dengue e...",
+      "url": "https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-07-01/dengue--brasil-tem--em-6-meses--6-1-milhoes-de-casos-e-4-2-mil-mortes.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8r/n6/p7/8rn6p79ehisef0ji2296oubaz.jpg",
+      "publishedAt": "2024-07-01 16:37:00",
+      "content": "O Brasil encerrou o primeiro semestre de 2024 registrando 6.159.160 casos prov\u00e1veis de dengue e 4.250 mortes pela doen\u00e7a. Segundo o painel de monitoramento de arboviroses do Minist\u00e9rio da Sa\u00fade , h\u00e1\u2026 [+1193 chars]",
+      "retrievedAt": "2024-07-02 19:06:53.402030",
+      "internal_id": "fa0c433bee710dd8df3c7ca9c94e840d53e257015e4a72d88fc123147c9a3ee4",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10692,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "FG sets advisory board, ministerial taskforce on malaria elimination",
+      "description": "The Federal Government has established an advisory board on malaria elimination and a ministerial task force on malaria elimination in Nigeria. This was disclosed in a press statement signed by Tashikalmah Hallah, the Senior Adviser, Media and External Relati\u2026",
+      "url": "https://punchng.com/fg-sets-advisory-board-ministerial-taskforce-on-malaria-elimination/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/04/27021705/malaria.jpg",
+      "publishedAt": "2024-07-01 16:30:10",
+      "content": "The Federal Government has established an advisory board on malaria elimination and a ministerial task force on malaria elimination in Nigeria. This was disclosed in a press statement signed by Tash\u2026 [+4262 chars]",
+      "retrievedAt": "2024-07-02 19:06:54.128114",
+      "internal_id": "e9f3a18d0f2c6e6ffe35962984585a841d301514816b16ca19580378c1786c14",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10689,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Pablo de la Calle",
+      "title": "Girmay hace historia en el Tour al ser el primer africano en anotarse una etapa",
+      "description": "En el hospital de Tortone falleci\u00f3 el Campionissimo consumido por la malaria. El de 2 de enero de 1960 toda Italia lloraba por el adi\u00f3s de Fausto Coppi. El \u00eddolo muri\u00f3 por una...",
+      "url": "https://www.elmundo.es/deportes/ciclismo/tour-de-francia/2024/07/01/6682b670fdddff01568b4597.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/92ac0c394b34bfe71fc169aa8380b384/crop/0x0/2601x1734/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/01/17198476512020.jpg",
+      "publishedAt": "2024-07-01 15:37:32",
+      "content": "En el hospital de Tortone falleci\u00f3 el Campionissimo consumido por la malaria. El de 2 de enero de 1960 toda Italia lloraba por el adi\u00f3s de Fausto Coppi. El \u00eddolo muri\u00f3 por una infecci\u00f3n contra\u00edda en \u2026 [+3592 chars]",
+      "retrievedAt": "2024-07-02 19:06:54.101259",
+      "internal_id": "052e1ad6a26b1cb4a9f2e08f97d98e31d67010cc65f83ab9d7e9334fdd3f0f7c",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10676,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Cient\u00edficos temen que pandemia por gripe aviar \u2018se desarrolle en c\u00e1mara lenta\u2019",
+      "description": "Forbes M\u00e9xico. Cient\u00edficos temen que pandemia por gripe aviar \u2018se desarrolle en c\u00e1mara lenta\u2019 Cient\u00edficos se encuentran monitoreando la H5N1 en aves migratorias, pero la propagaci\u00f3n del virus a 129 reba\u00f1os lecheros en 12 estados de EU indica un cambio que p\u2026",
+      "url": "https://www.forbes.com.mx/cientificos-temen-que-pandemia-por-gripe-aviar-se-desarrolle-en-camara-lenta/",
+      "urlToImage": "https://cdn.forbes.com.mx/2023/02/gripe-aviar.webp",
+      "publishedAt": "2024-07-01 15:31:30",
+      "content": "Los cient\u00edficos que siguen la propagaci\u00f3n de la gripe aviar est\u00e1n cada vez m\u00e1s preocupados de que las lagunas en la vigilancia puedan mantenerlos varios pasos por detr\u00e1s de una nueva pandemia, seg\u00fan \u2026 [+6832 chars]",
+      "retrievedAt": "2024-07-02 19:06:53.121459",
+      "internal_id": "1a9140cbfa06e0909be04acd3d9b27ff7c3192a21f566eaf382307340dfe6857",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10698,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Niki Korteweg",
+      "title": "Zorgen om nieuwe stam mpox-virus in Congo",
+      "description": "Gezondheidszorg: De WHO slaat alarm over een gevaarlijke variant van mpox die zich snel verspreidt in de Democratische Republiek Congo.",
+      "url": "https://www.nrc.nl/nieuws/2024/07/01/zorgen-om-nieuwe-stam-mpox-virus-in-congo-a4858288",
+      "urlToImage": "https://images.nrc.nl/nGkfZkoYlT3yxEWGWDgAG89oC44=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data117908863-cf9567.jpg",
+      "publishedAt": "2024-07-01 14:58:23",
+      "content": "Een mogelijk gevaarlijke variant van mpox voorheen apenpokken - die in de Democratische Republiek Congo rondgaat, verspreidt zich daar snel en veroorzaakt miskramen en sterfte, vooral onder kinderen.\u2026 [+4302 chars]",
+      "retrievedAt": "2024-07-02 19:06:54.774201",
+      "internal_id": "9af5d40915cd292e848d7ac59f964fd8d3b79addc0a1ff07f8cd4745bb1cbea0",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10691,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Awoke Minwuyelet, Melkam Abiye, Ayalew Jejaw Zeleke, Sisay Getie",
+      "title": "Plasmodium gametocyte carriage in humans and sporozoite rate in anopheline mosquitoes in Gondar zuria district, Northwest Ethiopia",
+      "description": "Although the overall burden of malaria is decreasing in Ethiopia, a recent report of an unpredictable increased incidence may be related to the presence of community-wide gametocyte-carrier individuals and a high proportion of infected vectors. This study aim\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306289",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0306289.t004&size=inline",
+      "publishedAt": "2024-07-01 14:00:00",
+      "content": "Abstract Although the overall burden of malaria is decreasing in Ethiopia, a recent report of an unpredictable increased incidence may be related to the presence of community-wide gametocyte-carrier\u2026 [+58362 chars]",
+      "retrievedAt": "2024-07-02 19:06:54.115737",
+      "internal_id": "746bdf5cd76ed256b049cfd2b3cd6e1f899268411e93db8916a340c333fb24b0",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10697,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dr. C\u00e9line Gounder, Sara Moniuszko",
+      "title": "Advocates urge mpox vaccines with cases on the rise",
+      "description": "Public health officials came armed with a serious message for Pride Month: Get vaccinated against mpox.",
+      "url": "https://www.cbsnews.com/news/with-mpox-cases-on-the-rise-advocates-urge-vaccinations-to-avoid-potential-resurgence/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/30/ac235ef3-e0c7-4557-9dcf-5c4333e570df/thumbnail/1200x630/c29fbf5f95026d37537bfceb30cbba0e/cbsn-fusion-potential-mpox-summer-outbreak-cdc-thumbnail-1982567-640x360.jpg?v=a23cb4bdf4fa7f3cb72e5118085577f9",
+      "publishedAt": "2024-07-01 13:38:00",
+      "content": "More than two years since the initial mpox outbreak, cases are trending up again \u2014 and the word still hasn't gotten out to everyone at risk. During Pride Month, public health officials came armed w\u2026 [+2020 chars]",
+      "retrievedAt": "2024-07-02 19:06:54.765321",
+      "internal_id": "823a6be722e2e51d027104f09ba002d11fe62509f87bd2752f3b827efb4a1684",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10677,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Warnung vor sich langsam abzeichnender Pandemie",
+      "description": "Seit Ende M\u00e4rz wurden in den USA drei Menschen nach Kontakt mit K\u00fchen positiv auf das Vogelgrippevirus H5N1 getestet. Auch aus Mexiko, China, Indien und Australien wurden schon F\u00e4lle bei Menschen gemeldet. Immer mehr Fachleute sind besorgt und warnen vor eine\u2026",
+      "url": "https://science.orf.at/stories/3225674/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2022%2F39%2F03%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F1503569_master_546203_ap22230666465323.jpg%3Fs%3D785fa11cd31f149e912e3ed09190baacb99b17f0",
+      "publishedAt": "2024-07-01 13:02:52",
+      "content": "Die Ausbreitung der Vogelgrippe sch\u00fcrt unter Pandemie-Experten zunehmend Sorgen. Es scheint fast wie eine Pandemie, die sich in Zeitlupe ausbreitet, sagt Scott Hensley, Professor f\u00fcr Mikrobiologie an\u2026 [+4587 chars]",
+      "retrievedAt": "2024-07-02 19:06:53.135034",
+      "internal_id": "602cbbc708683667568d796a14714a64bee063890c16e6ffddb6fefdddc4fbda",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10686,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Economictimes.com",
+      "author": "iStock",
+      "title": "Understanding Dengue: What is dengue? Symptoms and treatment; Can dengue kill?",
+      "description": "Dengue fever is a mosquito-borne viral infection prevalent in tropical and subtropical regions worldwide, including India. The disease is common in the country, especially during monsoon. It is transmitted primarily by the Aedes mosquito. Here are the symptom\u2026",
+      "url": "https://m.economictimes.com/what-is-dengue/slideshow/111406584.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111406584,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-01 11:36:24",
+      "content": "Jul 01, 2024, 05:08:04 PM IST Dengue fever is a mosquito-borne viral infection prevalent in tropical and subtropical regions worldwide, including India. The disease is common in the country, especia\u2026 [+1783 chars]",
+      "retrievedAt": "2024-07-02 19:06:53.447372",
+      "internal_id": "5bca3838744a7ed156affbab3fbd54cab39c1931400eb2040941d0910e60efcd",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10675,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Titanic-magazin.de",
+      "author": "Titanic",
+      "title": "\u00c4rmel hoch 2.0",
+      "description": "In den USA kommt es zur massenhaften Infektion von K\u00fchen mit dem H5N1-Vogelgrippe-Virus. Werbeagenturen fiebern auf einen weiteren Artenschranken-Sprung zum Menschen hin. Denn: Pandemiezeit ist Impfkampagnenzeit! TITANIC kennt bereits die...",
+      "url": "https://www.titanic-magazin.de/news/aermel-hoch-20-14196/",
+      "urlToImage": "https://www.titanic-magazin.de/fileadmin/core/images/social_media_icons/titaniclogo.png",
+      "publishedAt": "2024-07-01 11:29:28",
+      "content": "In einem Instagram-Post zu den hohen Beliebtheitswerten der AfD unter Jugendlichen bringst Du es auf Deine gewohnt reflektierte Art auf den Punkt: \u00bbManche jungen Leute haben sehr viel Angst vor Recht\u2026 [+882 chars]",
+      "retrievedAt": "2024-07-02 19:06:53.083744",
+      "internal_id": "ad3f0c259a0f7202378f1db6c5837e822977c1d5cdd23f0ed2f47c68098aeaa3",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10685,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Dengue | Ap\u00f3s Europa, infec\u00e7\u00f5es se alastram nos EUA",
+      "description": "Mudan\u00e7as clim\u00e1ticas e aquecimento global exportam dengue para outros pa\u00edses, como os EUA, que relataram aumento no n\u00famero de casos, principalmente em Porto Rico",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-07-01/dengue---apos-europa--infeccoes-se-alastram-nos-eua.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ex/4k/ps/ex4kpsdy4iaa0zfbogdhwvgfl.jpg",
+      "publishedAt": "2024-07-01 11:12:00",
+      "content": "A crise clim\u00e1tica exportou a dengue para outros pa\u00edses , e depois de um significativo aumento de casos em pa\u00edses da Europa, agora \u00e9 a vez dos Estados Unidos se depararem com um cen\u00e1rio preocupante d\u2026 [+3399 chars]",
+      "retrievedAt": "2024-07-02 19:06:53.441180",
+      "internal_id": "60921b38eacb79a4e5bd148e7e289830391e1fa402c07e71811e0ff8e6ce341d",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10683,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Bengaluru witnessing sharp rise in dengue cases: Doctors say situation may worsen, women and children at greater risk",
+      "description": "Hospitals in Bengaluru report a sharp rise in dengue cases, especially among women and children, with 60 new cases daily according to BBMP data. Pregnant women face increased risks, including hemorrhagic fever and complications for the fetus. Medical experts \u2026",
+      "url": "https://economictimes.indiatimes.com/news/bengaluru-news/bengaluru-witnessing-sharp-rise-in-dengue-cases-doctors-say-situation-may-worsen-women-and-children-at-greater-risk/articleshow/111401427.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111405549,width-1200,height-630,imgsize-24912,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-01 11:05:35",
+      "content": "Hospitals in Bengaluru are witnessing a sharp rise in dengue cases, particularly among women and children. The city is reporting an average of 60 new dengue cases daily, according to data from Bruhat\u2026 [+2433 chars]",
+      "retrievedAt": "2024-07-02 19:06:53.406692",
+      "internal_id": "993ffb1d1dece8d71b84e0546a569cf17c8ace663c4c177d8b931766031f0f98",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10680,
+      "query": [
+        "dengue",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Rachel Feltman, Anaissa Ruiz Tejada, Fonda Mwangi",
+      "title": "Starliner Astronauts Are in Limbo, and Emergency Access to Abortion Is Preserved",
+      "description": "Emergency access to abortion is preserved\u2014for now. Also, NASA postpones the return of Starliner astronauts, and we\u2019re tracking the spread of bird flu, dengue and mpox.",
+      "url": "https://www.scientificamerican.com/podcast/episode/starliner-astronauts-are-in-limbo-and-emergency-access-to-abortion-is/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/450fc996fe659a91/original/SQ-Monday-EP-Art.png?w=1200",
+      "publishedAt": "2024-07-01 10:00:00",
+      "content": "Rachel Feltman: Happy Monday and Happy first of the month, listeners! How is it already July? That\u2019s a mystery even I can\u2019t solve, but I can fill you in on some of the science news you might have mis\u2026 [+11093 chars]",
+      "retrievedAt": "2024-07-02 19:06:53.366194",
+      "internal_id": "3ed574e9d7be27f50b4cfab7b76b99b7c2af02271dc1c18ff6d00608c5f0c1ba",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10687,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR",
+      "title": "Na Slovensku zaznamenali od za\u010diatku roka p\u00e4\u0165 pr\u00edpadov smrte\u013enej hor\u00fa\u010dky",
+      "description": "Hor\u00fa\u010dka dengue sa \u0161\u00edri u\u0161tipnut\u00edm kom\u00e1ra infikovan\u00e9ho v\u00edrusom dengue.",
+      "url": "https://spravy.pravda.sk/domace/clanok/715694-na-slovensku-zaznamenali-od-zaciatku-roka-pat-pripadov-smrtelnej-horucky/",
+      "urlToImage": "http://ipravda.sk/res/2024/02/29/thumbs/komar-azijsky-tigrovany-clanokW.jpg",
+      "publishedAt": "2024-07-01 09:59:00",
+      "content": "Na Slovensku tento rok zaznamenali p\u00e4 pr\u00edpadov hor\u00faky dengue. Vo vetk\u00fdch pr\u00edpadoch ilo o import zo zahraniia, osoby sa teda nakazili mimo \u00fazemia SR. Vypl\u00fdva to z vyjadrenia Ivana Bakossa zo sekcie ep\u2026 [+1970 chars]",
+      "retrievedAt": "2024-07-02 19:06:53.463377",
+      "internal_id": "c41d387f581d8d159fff13ff16012faec17b37d6618b094c538048071178f3e1",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10690,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "Sigrid Nenander",
+      "title": "Larmet: Farliga smittorna p\u00e5 v\u00e4g till Sverige",
+      "description": "Allt fler invasiva arter sprider sig till Sverige \u2013 och med dem kommer farliga sjukdomar. Malaria, denguefeber, zikavirus och bl\u00f6darfebervirus \u00e4r n\u00e5gra av de smittor som kan f\u00f6lja med de invandrande f\u00e4stingarna, myggen och andra insekter.",
+      "url": "https://www.aftonbladet.se/nyheter/a/KMzOMX/farliga-smittor-som-sprids-till-sverige-far-en-massa-nya-sjukdomar",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/d2eb8b7d-5345-4791-bd06-f3c62ab32012?fit=crop&format=auto&h=785&q=50&w=1500&s=fdf32c3f43a194e5b1a3ebdd1a3d8e07c7678b69",
+      "publishedAt": "2024-07-01 09:55:04",
+      "content": "Allt fler invasiva arter sprider sig till Sverige och med dem kommer farliga sjukdomar. Malaria, denguefeber, zikavirus och bl\u00f6darfebervirus \u00e4r n\u00e5gra av de smittor som kan f\u00f6lja med de invandrande f\u00e4\u2026 [+185 chars]",
+      "retrievedAt": "2024-07-02 19:06:54.110994",
+      "internal_id": "0a575c815bb30676a466308c88963c92859cff4cb30cc73cbc9473c3610d54ea",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10688,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Annett Stein",
+      "title": "\u201eGro\u00dfe Truppenbewegungen spielten eine wichtige Rolle bei der Ausbreitung\u201c",
+      "description": "In Deutschland tritt Malaria nur noch selten auf \u2013 eingeschleppt aus den Tropen. Das war nicht immer so, Forscher k\u00f6nnen jetzt erkl\u00e4ren, wie die Infektionskrankheit die Menschheit pr\u00e4gte. Und was dazu f\u00fchrte, dass die t\u00f6dlichen Erreger Nepal erreichten.",
+      "url": "https://www.welt.de/gesundheit/article252281042/Infektionskrankheit-Kriege-Handel-und-die-Seefahrt-foerderten-die-Ausbreitung-der-Malaria.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile252286216/3361357507-ci16x9-w1200/Anopheles-maculipennis-malaria-mosquito.jpg",
+      "publishedAt": "2024-07-01 09:37:02",
+      "content": "So wie heute unz\u00e4hlige Erreger im Zuge der Globalisierung in neue Gebiete gelangen, verbreitete sich einst die Malaria durch Reisende und Eroberer in der Welt. Und das sehr erfolgreich, wie ein Forsc\u2026 [+9301 chars]",
+      "retrievedAt": "2024-07-02 19:06:54.096054",
+      "internal_id": "54328e10054622033b89f2c7eed8612662fa619d201f3e893923275c5ca10a16",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10696,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Journal des Entreprises",
+      "author": null,
+      "title": "Valneva obtient le feu vert de l\u2019Europe pour commercialiser son vaccin contre le chikungunya",
+      "description": "Valneva peut dor\u00e9navant commercialiser son nouveau vaccin contre le chikungunya en Europe. La biotech a d\u00e9j\u00e0 re\u00e7u le feu vert des autorit\u00e9s am\u00e9ricaines et canadiennes. Il s\u2019agit du premier et seul vaccin au monde contre cette maladie infectieuse.",
+      "url": "https://www.lejournaldesentreprises.com/article/valneva-obtient-le-feu-vert-de-leurope-pour-commercialiser-son-vaccin-contre-le-chikungunya-2099417",
+      "urlToImage": "https://www.lejournaldesentreprises.com/sites/lejournaldesentreprises.com/files/styles/facebook_share/public/2024-07/La-biotech-nantaise-Valneva-vient-dobtenir-l-564682.jpeg?h=8cf40fca&itok=TOte0GaS",
+      "publishedAt": "2024-07-01 09:17:08",
+      "content": "La biotech nantaise Valneva (154 M de CA 2023) obtient le feu vert de lEurope pour commercialiser son vaccin contre le chikungunya. Cette autorisation a \u00e9t\u00e9 approuv\u00e9e \u00e0 la suite dune \u00e9valuation r\u00e9ali\u2026 [+2143 chars]",
+      "retrievedAt": "2024-07-02 19:06:54.592909",
+      "internal_id": "dff7ec0009036ec9f2ff0a57a467cf76815d8fa3cd1fdc899dc61e48f5e2a8dc",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10679,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "Bird flu snapshot: Dutch expert sees parallels to Q fever outbreaks",
+      "description": "As of Friday, the USDA\u2019s count of herds infected with H5N1 bird flu was 133, which did not include the two latest detections in Iowa.",
+      "url": "https://www.statnews.com/2024/07/01/h5n1-bird-flu-snapshot-q-fever/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/06/GettyImages-2150341564-1024x576.jpg",
+      "publishedAt": "2024-07-01 08:36:04",
+      "content": "Bird flu snapshot: This is the latest installment in a series of regular updates on H5N1 avian flu that STAT is publishing on Monday mornings. To read future updates you can also subscribe to STATs M\u2026 [+5762 chars]",
+      "retrievedAt": "2024-07-02 19:06:53.153258",
+      "internal_id": "2c3de14f4dc10f00276390243d7d979f1d6f0a2c949146234cb5afbc865570a0",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10684,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Role of doctors in eradicating misinformation in the healthcare sector",
+      "description": "In the digital age, combating health misinformation is crucial. Initiatives like health literacy programs and expanded telemedicine services play a vital role. Engaging with patients through social media and collaborating with tech companies can help in promo\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/national-doctors-day-role-of-doctors-in-eradicating-misinformation-in-the-healthcare-sector/articleshow/111399098.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111399026,width-1070,height-580,imgsize-846622,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-01 07:52:58",
+      "content": "10 preventive tips against dengue infection",
+      "retrievedAt": "2024-07-02 19:06:53.429180",
+      "internal_id": "1d401be3f9412a7e6a0d11983258e7fdba6630bd8d58b1d4aa0e573aab447862",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10681,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Ivana Leskov\u00e1",
+      "title": "Bolesti, z\u00e1vrat\u011b, pr\u016fjmy. Hore\u010dku dengue si voz\u00ed z ciziny \u010d\u00edm d\u00e1l v\u00edc \u010cech\u016f",
+      "description": "Odborn\u00edci na infek\u010dn\u00ed nemoci varuj\u00ed p\u0159ed rostouc\u00edm rizikem n\u00e1kazy virovou hore\u010dkou dengue p\u0159en\u00e1\u0161enou kom\u00e1ry. Ve sv\u011bt\u011b um\u00edraj\u00ed tis\u00edce lid\u00ed. I v \u010desk\u00fdch nemocnic\u00edch letos skon\u010dily des\u00edtky naka\u017een\u00fdch, mimo jin\u00e9 hudebn\u00edk Kapit\u00e1n Demo \u010di influencer Erik Meldik. L\u00e9\u2026",
+      "url": "https://www.idnes.cz/zpravy/domaci/horecka-dengue-komari-tropicke-infekce-evropa.A240701_084732_domaci_iles",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2018/7/PKA74b7d2_komari.jpg",
+      "publishedAt": "2024-07-01 07:44:00",
+      "content": "Zat\u00edmco v obdob\u00ed covidov\u00e9 pandemie, kter\u00e1 omezila cestov\u00e1n\u00ed, ada infekc\u00ed t\u00e9m vymizela a s horekou dengue se et\u00ed l\u00e9kai setk\u00e1vali jen v\u00fdjimen, loni mli v p\u00e9i 79 nakaen\u00fdch a letos oek\u00e1vaj\u00ed jet vy\u00ed \u00edsla.\u2026 [+3692 chars]",
+      "retrievedAt": "2024-07-02 19:06:53.375448",
+      "internal_id": "b8bcbc4193843004e5ec64685c7a5dc6b241543d81acaef9613c5911a0d7b881",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10693,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Pregnant woman tests positive for Zika virus in India: Know how Zika virus affects foetal growth",
+      "description": "Zika virus poses a significant risk to pregnant women, affecting nutrient flow to the fetus. Early detection is crucial for appropriate medical intervention and care, highlighting the importance of monitoring in areas with active Zika transmission.",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/pregnant-woman-tests-positive-for-zika-virus-in-india-know-how-zika-virus-affects-foetal-growth/articleshow/111398333.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111398288,width-1070,height-580,imgsize-530866,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-01 07:33:32",
+      "content": "Tips to keep your liver healthy during the monsoon",
+      "retrievedAt": "2024-07-02 19:06:54.294946",
+      "internal_id": "96d2df5adf9b0dbb9c54322a9f30e9833928d65d8c8aaeda8652797baf732bf2",
+      "publishedAtLabel": "Jul 1"
+    },
     {
       "id": 10668,
       "query": [
@@ -24411,60 +24844,6 @@
       "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
       "retrievedAt": "2024-05-21 07:06:07.864022",
       "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9320,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "ScienceAlert",
-      "author": "Michael Head, The Conversation",
-      "title": "Whooping Cough Is Surging in The UK, And This Could Be Why",
-      "description": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024.",
-      "url": "https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why",
-      "urlToImage": "https://www.sciencealert.com/images/2024/05/WhoopingCoughOnTheRiseInUKWomenCoughing.jpg",
-      "publishedAt": "2024-05-19 11:30:09",
-      "content": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024. There have been 2,793 confirmed cases so far this year. Sadly, five infa\u2026 [+5653 chars]",
-      "retrievedAt": "2024-05-20 19:05:22.412480",
-      "internal_id": "4bec85cd0e2d6cd6b953743ed7b90cfa9eb2c27679ab316857d344b42f3e9270",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9321,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Tive dengue; quando posso me vacinar?",
-      "description": "Imunizante est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada",
-      "url": "https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
-      "publishedAt": "2024-05-19 09:00:02",
-      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada. A faixa et\u00e1ria do p\u00fablico-alvo da unidade de sa\u00fade p\u00fablica, no primeiro momento, \u00e9 para o grupo de 10 a 14 anos\u2026 [+3855 chars]",
-      "retrievedAt": "2024-05-20 19:05:24.128313",
-      "internal_id": "bc8ac58f563e0021fb17ac730746e4bffae42da4a7f284ed88cff59abf98ab2c",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9322,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Mark Smith, Professor of Water Science & Heath, University of Leeds, Chris Thomas, Global Professor in Water & Planetary Health, University of Lincoln",
-      "title": "Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future",
-      "description": "Mosquito populations can respond quickly to changing climate, which means the location of areas at risk of malaria might change.",
-      "url": "https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814",
-      "urlToImage": "https://images.theconversation.com/files/593392/original/file-20240510-22-7peqxh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2024-05-19 08:27:51",
-      "content": "Water bodies such as the Nile River, pictured here running through Juba in South Sudan, are included in the new model. Frontpage The relationship between climate and malaria transmission is complex \u2026 [+6207 chars]",
-      "retrievedAt": "2024-05-20 19:05:24.928793",
-      "internal_id": "358e0bde6a335ba396cd048daac77d6c6816ed0bc5eab02f0c68e4b729c85183",
       "publishedAtLabel": "May 19"
     }
   ]
