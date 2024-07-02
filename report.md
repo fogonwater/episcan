@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-07-01 19:06
-- **Most recent article:** 2024-06-30 18:55:54
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-07-02 07:06
+- **Most recent article:** 2024-07-01 07:02:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 54 | 61 | 64 | 115 | 62 | 105 | 3 | 464 |
+| dengue | 55 | 61 | 64 | 115 | 62 | 105 | 6 | 468 |
 | h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 0 | 357 |
-| malaria | 16 | 25 | 21 | 37 | 20 | 24 | 0 | 143 |
-| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 2 | 120 |
-| measles | 15 | 16 | 11 | 7 | 11 | 8 | 0 | 68 |
-| chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 0 | 62 |
+| malaria | 17 | 25 | 21 | 37 | 20 | 24 | 0 | 144 |
+| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 3 | 121 |
+| measles | 15 | 16 | 11 | 7 | 11 | 8 | 1 | 69 |
+| chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 2 | 64 |
 | rabies | 8 | 15 | 9 | 2 | 5 | 8 | 1 | 48 |
-| pertussis | 5 | 6 | 9 | 11 | 11 | 3 | 0 | 45 |
+| pertussis | 6 | 6 | 9 | 11 | 11 | 3 | 0 | 46 |
 | zika | 3 | 3 | 0 | 12 | 3 | 17 | 0 | 38 |
 | hpai | 7 | 12 | 2 | 4 | 4 | 3 | 0 | 32 |
 | meningitis | 4 | 1 | 6 | 3 | 1 | 1 | 0 | 16 |
@@ -38,17 +38,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (mpox)
 
+- [Advocates use end of Pride Month to warn about Mpox](https://www.cbsnews.com/video/advocates-use-end-of-pride-month-to-warn-about-mpox/) (CBS News)
+
 - [Eksperci martwią się nowym wariantem ospy. "Wszystkie kraje powinny się przygotować"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html) (Gazeta.pl)
 
 - [Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?](https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html) (Der Tagesspiegel)
 
+## 24-27 (measles)
+
+- [Vaccine breakthrough protects the immunocompromised from the unvaxxed](https://newatlas.com/medical/measles-vaccine-discovery/) (New Atlas)
+
 ## 24-27 (dengue)
+
+- [DF fecha 1º semestre do ano com 416 mortes por dengue e 36 por Covid](https://www.metropoles.com/distrito-federal/df-fecha-1o-semestre-do-ano-com-416-mortes-por-dengue-e-36-por-covid) (Metropoles.com)
+
+- [Surging dengue virus in Bengaluru poses threat to women, kids: Doctors](https://timesofindia.indiatimes.com/city/bengaluru/surging-dengue-virus-in-bengaluru-poses-threat-to-women-kids-doctors/articleshow/111392899.cms) (The Times of India)
+
+- [BBMP audit confirms 1 dengue death, 213 new cases in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-audit-confirms-1-dengue-death-213-new-cases-in-bengaluru/articleshow/111390828.cms) (The Times of India)
 
 - [First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak](https://www.jpost.com/health-and-wellness/article-808379) (The Jerusalem Post)
 
 - [Dengue fever is surging worldwide. A hotter planet will make it worse.](https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/) (The Washington Post)
 
 - [«تب استخوان شکن» را جدی بگیریم](https://www.isna.ir/news/1403041006560/تب-استخوان-شکن-را-جدی-بگیریم) (Isna.ir)
+
+## 24-27 (chikungunya)
+
+- [Valneva Receives Marketing Authorization in Europe for the World’s First Chikungunya Vaccine, IXCHIQ®](https://www.globenewswire.com/news-release/2024/07/01/2906366/0/en/Valneva-Receives-Marketing-Authorization-in-Europe-for-the-World-s-First-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
+
+- [Valneva reçoit une autorisation de mise sur le marché en Europe pour le premier vaccin au monde contre le chikungunya, IXCHIQ®](https://www.globenewswire.com/news-release/2024/07/01/2906366/0/fr/Valneva-re%C3%A7oit-une-autorisation-de-mise-sur-le-march%C3%A9-en-Europe-pour-le-premier-vaccin-au-monde-contre-le-chikungunya-IXCHIQ.html) (GlobeNewswire)
 
 ## 24-26 (zika)
 
@@ -2612,6 +2630,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
 
+- [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
+
 ## 24-21 (mpox)
 
 - [CDC says vaccination could protect the U.S. from more dangerous mpox virus](https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753) (NBC News)
@@ -2705,6 +2725,8 @@ Source: [News API](https://newsapi.org/)
 - [SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms) (The Times of India)
 
 - [Serum Institute ships first R21/Matrix-M malaria vaccine to Africa](https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece) (BusinessLine)
+
+- [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (hpai)
 
@@ -3021,6 +3043,8 @@ Source: [News API](https://newsapi.org/)
 - [Learning English Podcast - May 20, 2024](https://learningenglish.voanews.com/a/7598921.html) (VOA News)
 
 - [Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos más afectados](https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/) (La Nacion)
+
+- [Tive dengue; quando posso me vacinar?](https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html) (Ig.com.br)
 
 ## 24-21 (chikungunya)
 

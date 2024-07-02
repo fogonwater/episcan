@@ -1,8 +1,134 @@
 {
-  "last_updated": "2024-07-01 19:06",
-  "count_articles_total": 1345,
-  "count_articles_new": 6,
+  "last_updated": "2024-07-02 07:06",
+  "count_articles_total": 1355,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 10668,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Atlas",
+      "author": "Paul McClure",
+      "title": "Vaccine breakthrough protects the immunocompromised from the unvaxxed",
+      "description": "Measles was declared eliminated from the US in 2000 because of vaccination. Now, it\u2019s back \u2013 in a big way. According to the Centers for Disease Control and Prevention (CDC), as of June 27, 2024, 159 measles cases had been reported across 23 states. Of those c\u2026",
+      "url": "https://newatlas.com/medical/measles-vaccine-discovery/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/5f6fc39/2147483647/strip/true/crop/1999x1049+0+33/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6b%2F5c%2Ff454d2ac4dd88ad127a965a0c196%2Fdepositphotos-269600590-l.jpg&na.image_optimisation=0",
+      "publishedAt": "2024-07-01 07:02:00",
+      "content": "Measles was declared eliminated from the US in 2000 because of vaccination. Now, its back in a big way. According to the Centers for Disease Control and Prevention (CDC), as of June 27, 2024, 159 mea\u2026 [+4674 chars]",
+      "retrievedAt": "2024-07-02 07:06:45.920124",
+      "internal_id": "3f659ce0168bef6ae6c2022ac8ea836ad012618a1eea178a8b60f7b896330aae",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10671,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "DF fecha 1\u00ba semestre do ano com 416 mortes por dengue e 36 por Covid",
+      "description": "Dados da Secretaria de Sa\u00fade mostram incid\u00eancia das duas doen\u00e7as virais que mais preocuparam o pa\u00eds nos \u00faltimos anos",
+      "url": "https://www.metropoles.com/distrito-federal/df-fecha-1o-semestre-do-ano-com-416-mortes-por-dengue-e-36-por-covid",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/03/15183530/Movimentac%CC%A7a%CC%83o-de-pacientes-no-Hospital-de-Campanha-da-Forc%CC%A7a-Ae%CC%81rea-Brasileira-montado-para-combate-a-dengue-ao-lado-da-UPA-1-de-Ceila%CC%82ndia-14.jpg",
+      "publishedAt": "2024-07-01 05:31:45",
+      "content": "Nos primeiros seis meses do ano, o Distrito Federal atingiu a marca de 416 mortes causadas pela dengue \u00edndice de duas mortes por dia. J\u00e1 em rela\u00e7\u00e3o \u00e0 Covid-19, doen\u00e7a que assolou o pa\u00eds antes do novo\u2026 [+5522 chars]",
+      "retrievedAt": "2024-07-02 07:06:46.912696",
+      "internal_id": "f80878699c13d83b044ebcdcd3236f71e35cc5092986bdf8f0c13ece92235e1e",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10672,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Receives Marketing Authorization in Europe for the World\u2019s First Chikungunya Vaccine, IXCHIQ\u00ae",
+      "description": "Saint Herblain (France), July 1, 2024 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the European Commission (EC) has granted marketing authorization in Europe for Valneva\u2019s single-dose vaccine, IXCHIQ\u00ae, fo\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/07/01/2906366/0/en/Valneva-Receives-Marketing-Authorization-in-Europe-for-the-World-s-First-Chikungunya-Vaccine-IXCHIQ.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2024-07-01 05:00:00",
+      "content": "Saint Herblain (France), July 1, 2024Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the European Commission (EC) has granted marketing authorization\u2026 [+9371 chars]",
+      "retrievedAt": "2024-07-02 07:06:47.875195",
+      "internal_id": "dfe50d2a940324938c0138fa92e3c679a3d70e9eaaa949471136110ea3272438",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10673,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva re\u00e7oit une autorisation de mise sur le march\u00e9 en Europe pour le premier vaccin au monde contre le chikungunya, IXCHIQ\u00ae",
+      "description": "Saint Herblain (France), le 1 juillet 2024 \u2013 Valneva SE (Nasdaq : VALN ; Euronext Paris : VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd\u2019hui que la Commission Europ\u00e9enne a accord\u00e9 une autorisation de mise sur le march\u00e9 \u00e0 IXCHIQ\u00ae, le vaccin \u00e0 do\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/07/01/2906366/0/fr/Valneva-re%C3%A7oit-une-autorisation-de-mise-sur-le-march%C3%A9-en-Europe-pour-le-premier-vaccin-au-monde-contre-le-chikungunya-IXCHIQ.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2024-07-01 05:00:00",
+      "content": "Saint Herblain (France), le 1 juillet 2024Valneva SE (Nasdaq : VALN ; Euronext Paris : VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourdhui que la Commission Europ\u00e9enne a accord\u00e9 une auto\u2026 [+10939 chars]",
+      "retrievedAt": "2024-07-02 07:06:47.879950",
+      "internal_id": "a15db2fb9c3c469e0006418c0d65329d605078e614dc1c7089cde672d9b2db70",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10670,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Yashaswini",
+      "title": "Surging dengue virus in Bengaluru poses threat to women, kids: Doctors",
+      "description": "With dengue spreading its tentacles once again, hospitals are seeing a significant rise in incidence of the vector-borne disease among women and child.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/surging-dengue-virus-in-bengaluru-poses-threat-to-women-kids-doctors/articleshow/111392899.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111392899,width-1070,height-580,imgsize-8040,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-01 04:11:25",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-02 07:06:46.908039",
+      "internal_id": "693dbd1d7c010a05551de3c69f5700b6f5d5c4e5638d862a4cc380ce707a3ed3",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10669,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "BBMP audit confirms 1 dengue death, 213 new cases in Bengaluru",
+      "description": "In Kaggadasapura, a 27-year-old man succumbed to dengue amid a surge of 1,742 cases in June. Pregnant women and children face high risks. Hospitals like SPARSH and Motherhood handle daily dengue cases, emphasizing preventive measures for all.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bbmp-audit-confirms-1-dengue-death-213-new-cases-in-bengaluru/articleshow/111390828.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111390851,width-1070,height-580,imgsize-32836,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-01 01:48:43",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-02 07:06:46.888949",
+      "internal_id": "dbd89510208cb9357ccdc176ddd7a67737ef995462617dd4489658dd7341fe73",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10674,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Advocates use end of Pride Month to warn about Mpox",
+      "description": "Celebrations across the country are marking the end of Pride Month. Advocates are using the opportunity to warn about Mpox in the hopes of avoiding a breakout similar to the one in 2022. Dr. Celine Gounder reports.",
+      "url": "https://www.cbsnews.com/video/advocates-use-end-of-pride-month-to-warn-about-mpox/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/30/ac235ef3-e0c7-4557-9dcf-5c4333e570df/thumbnail/1200x630/c29fbf5f95026d37537bfceb30cbba0e/cbsn-fusion-potential-mpox-summer-outbreak-cdc-thumbnail-1982567-640x360.jpg?v=a23cb4bdf4fa7f3cb72e5118085577f9",
+      "publishedAt": "2024-07-01 00:05:47",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-07-02 07:06:48.077631",
+      "internal_id": "eb269e69585d68dfe518c542b505097473346f8359eb87920d7c6267b46e1572",
+      "publishedAtLabel": "Jul 1"
+    },
     {
       "id": 10662,
       "query": [
@@ -24285,6 +24411,60 @@
       "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
       "retrievedAt": "2024-05-21 07:06:07.864022",
       "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9320,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Michael Head, The Conversation",
+      "title": "Whooping Cough Is Surging in The UK, And This Could Be Why",
+      "description": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024.",
+      "url": "https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why",
+      "urlToImage": "https://www.sciencealert.com/images/2024/05/WhoopingCoughOnTheRiseInUKWomenCoughing.jpg",
+      "publishedAt": "2024-05-19 11:30:09",
+      "content": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024. There have been 2,793 confirmed cases so far this year. Sadly, five infa\u2026 [+5653 chars]",
+      "retrievedAt": "2024-05-20 19:05:22.412480",
+      "internal_id": "4bec85cd0e2d6cd6b953743ed7b90cfa9eb2c27679ab316857d344b42f3e9270",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9321,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Tive dengue; quando posso me vacinar?",
+      "description": "Imunizante est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada",
+      "url": "https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
+      "publishedAt": "2024-05-19 09:00:02",
+      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada. A faixa et\u00e1ria do p\u00fablico-alvo da unidade de sa\u00fade p\u00fablica, no primeiro momento, \u00e9 para o grupo de 10 a 14 anos\u2026 [+3855 chars]",
+      "retrievedAt": "2024-05-20 19:05:24.128313",
+      "internal_id": "bc8ac58f563e0021fb17ac730746e4bffae42da4a7f284ed88cff59abf98ab2c",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9322,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Mark Smith, Professor of Water Science & Heath, University of Leeds, Chris Thomas, Global Professor in Water & Planetary Health, University of Lincoln",
+      "title": "Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future",
+      "description": "Mosquito populations can respond quickly to changing climate, which means the location of areas at risk of malaria might change.",
+      "url": "https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814",
+      "urlToImage": "https://images.theconversation.com/files/593392/original/file-20240510-22-7peqxh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-05-19 08:27:51",
+      "content": "Water bodies such as the Nile River, pictured here running through Juba in South Sudan, are included in the new model. Frontpage The relationship between climate and malaria transmission is complex \u2026 [+6207 chars]",
+      "retrievedAt": "2024-05-20 19:05:24.928793",
+      "internal_id": "358e0bde6a335ba396cd048daac77d6c6816ed0bc5eab02f0c68e4b729c85183",
       "publishedAtLabel": "May 19"
     }
   ]
