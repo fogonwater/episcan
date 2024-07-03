@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-07-02 19:06",
-  "count_articles_total": 1376,
-  "count_articles_new": 24,
+  "last_updated": "2024-07-03 07:05",
+  "count_articles_total": 1388,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 10699,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Thea Petrik",
+      "title": "Vogelgrippevirus H5N1: Pandemische Zeitbombe aus der Massentierhaltung?",
+      "description": "Schlagzeilen \u00fcber Gefahr einer neuen Pandemie h\u00e4ufen sich. Vogelgrippevirus vermehrt sich in Kuheutern in den USA. Was bisher bekannt ist.",
+      "url": "https://www.telepolis.de/features/Vogelgrippevirus-H5N1-Pandemische-Zeitbombe-aus-der-Massentierhaltung-9786116.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/2/5/8/8/1/mask-4934337_1280-5b04c251ea0d73c9.jpeg",
+      "publishedAt": "2024-07-02 07:00:00",
+      "content": "Pandemie-Modus reloaded? Experten sind sich \u00fcber die Wahrscheinlichkeit nicht einig, raten aber zur Vorsicht. Symbolbild: Mario / Pixabay Licence Schlagzeilen \u00fcber Gefahr einer neuen Pandemie h\u00e4ufen\u2026 [+3440 chars]",
+      "retrievedAt": "2024-07-03 07:05:52.779496",
+      "internal_id": "92cc08e11388a6763295d9135cdf4f3671710bc039a29c96af71fa5e62c10952",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10707,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Outbreak of Intermediate Species Leptospira venezuelensis Spread by Rodents to Cows and Humans in L. interrogans\u2013Endemic Region, Venezuela",
+      "description": "Outbreak of Leptospira venezuelensis, Venezuela",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/8/23-1562_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-07-02 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Leptospirosis, one of the \u2026 [+25884 chars]",
+      "retrievedAt": "2024-07-03 07:05:55.344282",
+      "internal_id": "e2946af498b8704c74085eb6731605a07d8b7f5558e9d91113f4c0e914d5b98a",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10702,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Cbs Miami",
+      "title": "Dengue fever alert issued in Florida Keys after confirmed cases",
+      "description": "Health officials have issued an alert in the Florida Keys after two people were confirmed to have dengue fever.",
+      "url": "https://www.cbsnews.com/miami/news/dengue-fever-alert-issued-in-florida-keys-after-confirmed-cases/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2016/09/13/6ae9d5cd-14fd-4ad8-a04f-fed442fd9d4b/thumbnail/1200x630/3ce738b9b76bfc3a3f287e4ed41b74bb/gettyimages-506748226.jpg?v=57e8061b2038d609da26e467de5ddfb8",
+      "publishedAt": "2024-07-02 02:02:41",
+      "content": "MIAMI - Health officials have issued an alert in the Florida Keys after two people were confirmed to have dengue fever. The local alert comes days after the CDC issued a health advisory warning of a\u2026 [+1341 chars]",
+      "retrievedAt": "2024-07-03 07:05:53.239401",
+      "internal_id": "c7e2093e2c868096c27e61ac16baf9d49f2bf90aaad0a29585a1097f36a51e59",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10704,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Zika virus cases reported in Pune, total tally rises to six",
+      "description": "The Zika virus is spreading in Pune, with two more cases reported on Monday, bringing the total to six. Both new cases involve pregnant women in Erandwane. Initial cases included a doctor and his daughter from the same area. Health officials collected 25 samp\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/zika-virus-cases-reported-in-pune-total-tally-rises-to-six/articleshow/111417913.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111417937,width-1200,height-630,imgsize-23506,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-02 01:56:17",
+      "content": "The Zika virus continues to spread in Pune, with two more cases reported on Monday. This has brought the total number of confirmed cases in the city to six, with both new cases involving pregnant wom\u2026 [+1679 chars]",
+      "retrievedAt": "2024-07-03 07:05:54.175482",
+      "internal_id": "50359dc22d69c97db762f6daf651619fe196b0411472b0ef5dccc37cd3668843",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10700,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "UPI.com",
+      "author": "Sheri Walsh",
+      "title": "Florida reports two cases of mosquito-borne dengue fever",
+      "description": "The Florida Department of Health has issued an alert for the Florida Keys after two people were bitten by infected mosquitoes and diagnosed with dengue fever...",
+      "url": "https://www.upi.com/Health_News/2024/07/01/florida-dengue-fever-mosquitoes/1471719876115/",
+      "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/915e2370ee3de84445d5de941d15f6e4",
+      "publishedAt": "2024-07-01 23:36:46",
+      "content": "July 1 (UPI) -- The Florida Department of Health has issued an alert for the Florida Keys after two people were bitten by infected mosquitoes and diagnosed with dengue fever. Monday's alert comes da\u2026 [+2276 chars]",
+      "retrievedAt": "2024-07-03 07:05:53.130856",
+      "internal_id": "4c5dbac08986beec29cda353cb90353b5ad6a2c90148a2f6d1ed4b628a78601a",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10703,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "FG constitutes advisory board on malaria",
+      "description": "The Federal Government has established an advisory board on malaria elimination and a ministerial task force on malaria elimination in Nigeria. This was disclosed in a press statement by Tashikalmah Hallah, the Senior Adviser, Media and External Relations to \u2026",
+      "url": "https://punchng.com/fg-constitutes-advisory-board-on-malaria/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/04/28012043/Muhammad-Pate.jpeg",
+      "publishedAt": "2024-07-01 23:32:23",
+      "content": "The Federal Government has established an advisory board on malaria elimination and a ministerial task force on malaria elimination in Nigeria. This was disclosed in a press statement by Tashikalmah\u2026 [+3373 chars]",
+      "retrievedAt": "2024-07-03 07:05:53.949014",
+      "internal_id": "789a523df0e06c01dc213cf88397caca50358d11c0f125af8e9390a9d82d4108",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10701,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Bengaluru reports highest dengue case count in K\u2019taka",
+      "description": "Bengaluru reports highest number of dengue positive cases in Karnataka with 1563 cases in the first six months of the year. Chikkamagaluru district follows with 491 confirmed cases. Health department takes measures to handle the situation effectively.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-reports-highest-dengue-case-count-in-karnataka/articleshow/111416365.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111416360,width-1070,height-580,imgsize-17236,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-01 23:16:23",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-03 07:05:53.203453",
+      "internal_id": "558c3040eb22b7f2698e2e79464d24cb1b5059863ffb57d7d682d4c551ff190b",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10705,
+      "query": [
+        "zika"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "\u201cEncontramos el tal\u00f3n de Aquiles del virus del zika\u201d: el hallazgo argentino que podr\u00eda derivar en nuevos tratamientos",
+      "description": "Andrea Gamarnik y su equipo lograron describir un mecanismo que usa el pat\u00f3geno para infectar con \u00e9xito las c\u00e9lulas humanas",
+      "url": "https://www.lanacion.com.ar/sociedad/encontramos-el-talon-de-aquiles-del-virus-del-zika-el-hallazgo-argentino-que-podria-derivar-en-nid01072024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-aedes-aegypti-es-el-mosquito-vector-del-virus-KTRY3WSMGVGORMZSTVOI2YE5NY.jpg?auth=a99d2ee5389567cf6c708a8706e3fc6b36d60a45e595df9307ae9395fff6c510&width=768&quality=70&smart=false",
+      "publishedAt": "2024-07-01 19:59:38",
+      "content": "La vir\u00f3loga argentina Andrea Gamarnik y su equipo de la Fundaci\u00f3n Instituto Leloir (FIL) lograron un importante avance en la lucha contra el virus del zika, del que es vector el mosquito Aedes aegypt\u2026 [+6551 chars]",
+      "retrievedAt": "2024-07-03 07:05:54.182035",
+      "internal_id": "9ec18783af4145fe827630846c7985fcef1e47e39ea2d92e70f3445725784794",
+      "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10706,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Zeliha Chaffin",
+      "title": "Valneva obtient le feu vert pour commercialiser son vaccin contre le chikungunya dans l\u2019Union europ\u00e9enne",
+      "description": "L\u2019Ixchiq, d\u00e9velopp\u00e9 par le laboratoire franco-autrichien, est le premier vaccin au monde contre la maladie virale transmise notamment par le moustique tigre.",
+      "url": "https://www.lemonde.fr/economie/article/2024/07/01/valneva-obtient-le-feu-vert-pour-commercialiser-son-vaccin-contre-le-chikungunya-dans-l-union-europeenne_6245900_3234.html",
+      "urlToImage": "https://img.lemde.fr/2024/07/01/0/335/4173/2782/1440/960/60/0/5708713_1719852846317-000-327648y.jpg",
+      "publishedAt": "2024-07-01 19:58:36",
+      "content": "Le directeur g\u00e9n\u00e9ral de Valneva, Thomas Lingelbach, \u00e0 lusine de Livingston (Ecosse) du laboratoire franco-autrichien, le 28 mars 2022. ANDY BUCHANAN / AFP La Commission europ\u00e9enne a donn\u00e9 son feu ve\u2026 [+2775 chars]",
+      "retrievedAt": "2024-07-03 07:05:54.431697",
+      "internal_id": "1b0e469d54a4b4fa47ef4ac2d34fa275cdf96943aff2fec148cf858d7128689a",
+      "publishedAtLabel": "Jul 1"
+    },
     {
       "id": 10695,
       "query": [
@@ -24844,6 +25006,60 @@
       "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
       "retrievedAt": "2024-05-21 07:06:07.864022",
       "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9320,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Michael Head, The Conversation",
+      "title": "Whooping Cough Is Surging in The UK, And This Could Be Why",
+      "description": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024.",
+      "url": "https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why",
+      "urlToImage": "https://www.sciencealert.com/images/2024/05/WhoopingCoughOnTheRiseInUKWomenCoughing.jpg",
+      "publishedAt": "2024-05-19 11:30:09",
+      "content": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024. There have been 2,793 confirmed cases so far this year. Sadly, five infa\u2026 [+5653 chars]",
+      "retrievedAt": "2024-05-20 19:05:22.412480",
+      "internal_id": "4bec85cd0e2d6cd6b953743ed7b90cfa9eb2c27679ab316857d344b42f3e9270",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9321,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Tive dengue; quando posso me vacinar?",
+      "description": "Imunizante est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada",
+      "url": "https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
+      "publishedAt": "2024-05-19 09:00:02",
+      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada. A faixa et\u00e1ria do p\u00fablico-alvo da unidade de sa\u00fade p\u00fablica, no primeiro momento, \u00e9 para o grupo de 10 a 14 anos\u2026 [+3855 chars]",
+      "retrievedAt": "2024-05-20 19:05:24.128313",
+      "internal_id": "bc8ac58f563e0021fb17ac730746e4bffae42da4a7f284ed88cff59abf98ab2c",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9322,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Mark Smith, Professor of Water Science & Heath, University of Leeds, Chris Thomas, Global Professor in Water & Planetary Health, University of Lincoln",
+      "title": "Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future",
+      "description": "Mosquito populations can respond quickly to changing climate, which means the location of areas at risk of malaria might change.",
+      "url": "https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814",
+      "urlToImage": "https://images.theconversation.com/files/593392/original/file-20240510-22-7peqxh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-05-19 08:27:51",
+      "content": "Water bodies such as the Nile River, pictured here running through Juba in South Sudan, are included in the new model. Frontpage The relationship between climate and malaria transmission is complex \u2026 [+6207 chars]",
+      "retrievedAt": "2024-05-20 19:05:24.928793",
+      "internal_id": "358e0bde6a335ba396cd048daac77d6c6816ed0bc5eab02f0c68e4b729c85183",
       "publishedAtLabel": "May 19"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2024-07-02 19:06
-- **Most recent article:** 2024-07-01 18:03:41
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-07-03 07:05
+- **Most recent article:** 2024-07-02 07:00:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 54 | 61 | 64 | 115 | 62 | 105 | 14 | 475 |
-| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 5 | 362 |
-| malaria | 16 | 25 | 21 | 37 | 20 | 24 | 5 | 148 |
+| dengue | 55 | 61 | 64 | 115 | 62 | 105 | 17 | 479 |
+| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 6 | 363 |
+| malaria | 17 | 25 | 21 | 37 | 20 | 24 | 6 | 150 |
 | mpox | 8 | 16 | 8 | 26 | 14 | 46 | 6 | 124 |
 | measles | 15 | 16 | 11 | 7 | 11 | 8 | 1 | 69 |
-| chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 3 | 65 |
+| chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 4 | 66 |
 | rabies | 8 | 15 | 9 | 2 | 5 | 8 | 1 | 48 |
-| pertussis | 5 | 6 | 9 | 11 | 11 | 3 | 0 | 45 |
-| zika | 3 | 3 | 0 | 12 | 3 | 17 | 3 | 41 |
+| pertussis | 6 | 6 | 9 | 11 | 11 | 3 | 0 | 46 |
+| zika | 3 | 3 | 0 | 12 | 3 | 17 | 5 | 43 |
 | hpai | 7 | 12 | 2 | 4 | 4 | 3 | 0 | 32 |
 | meningitis | 4 | 1 | 6 | 3 | 1 | 1 | 0 | 16 |
-| leptospirosis | 0 | 5 | 1 | 1 | 1 | 2 | 0 | 10 |
+| leptospirosis | 0 | 5 | 1 | 1 | 1 | 2 | 1 | 11 |
 | yersinia | 6 | 0 | 1 | 0 | 0 | 2 | 0 | 9 |
 | typhoid | 0 | 0 | 1 | 1 | 2 | 3 | 0 | 7 |
 
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-27 (zika)
+
+- [Zika virus cases reported in Pune, total tally rises to six](https://economictimes.indiatimes.com/news/india/zika-virus-cases-reported-in-pune-total-tally-rises-to-six/articleshow/111417913.cms) (The Times of India)
+
+- [“Encontramos el talón de Aquiles del virus del zika”: el hallazgo argentino que podría derivar en nuevos tratamientos](https://www.lanacion.com.ar/sociedad/encontramos-el-talon-de-aquiles-del-virus-del-zika-el-hallazgo-argentino-que-podria-derivar-en-nid01072024/) (La Nacion)
 
 - [Six Zika virus infection cases in Pune; two patients are pregnant women](https://statetimes.in/six-zika-virus-infection-cases-in-pune-two-patients-are-pregnant-women/) (Statetimes.in)
 
@@ -64,6 +68,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (malaria)
 
+- [FG constitutes advisory board on malaria](https://punchng.com/fg-constitutes-advisory-board-on-malaria/) (The Punch)
+
 - [FG sets advisory board, ministerial taskforce on malaria elimination](https://punchng.com/fg-sets-advisory-board-ministerial-taskforce-on-malaria-elimination/) (The Punch)
 
 - [Girmay hace historia en el Tour al ser el primer africano en anotarse una etapa](https://www.elmundo.es/deportes/ciclismo/tour-de-francia/2024/07/01/6682b670fdddff01568b4597.html) (El Mundo)
@@ -74,7 +80,13 @@ Source: [News API](https://newsapi.org/)
 
 - [„Große Truppenbewegungen spielten eine wichtige Rolle bei der Ausbreitung“](https://www.welt.de/gesundheit/article252281042/Infektionskrankheit-Kriege-Handel-und-die-Seefahrt-foerderten-die-Ausbreitung-der-Malaria.html) (DIE WELT)
 
+## 24-27 (leptospirosis)
+
+- [Outbreak of Intermediate Species Leptospira venezuelensis Spread by Rodents to Cows and Humans in L. interrogans–Endemic Region, Venezuela](https://wwwnc.cdc.gov/eid/article/30/8/23-1562_article) (Cdc.gov)
+
 ## 24-27 (h5n1)
+
+- [Vogelgrippevirus H5N1: Pandemische Zeitbombe aus der Massentierhaltung?](https://www.telepolis.de/features/Vogelgrippevirus-H5N1-Pandemische-Zeitbombe-aus-der-Massentierhaltung-9786116.html) (Telepolis.de)
 
 - [What is the H5N1 virus that is growingly rapidly? Here is everything you need to know](https://economictimes.indiatimes.com/news/international/us/what-is-the-h5n1-virus-that-is-growingly-rapidly-here-is-everything-you-need-to-know/articleshow/111412425.cms) (The Times of India)
 
@@ -87,6 +99,12 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: Dutch expert sees parallels to Q fever outbreaks](https://www.statnews.com/2024/07/01/h5n1-bird-flu-snapshot-q-fever/) (STAT)
 
 ## 24-27 (dengue)
+
+- [Dengue fever alert issued in Florida Keys after confirmed cases](https://www.cbsnews.com/miami/news/dengue-fever-alert-issued-in-florida-keys-after-confirmed-cases/) (CBS News)
+
+- [Florida reports two cases of mosquito-borne dengue fever](https://www.upi.com/Health_News/2024/07/01/florida-dengue-fever-mosquitoes/1471719876115/) (UPI.com)
+
+- [Bengaluru reports highest dengue case count in K’taka](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-reports-highest-dengue-case-count-in-karnataka/articleshow/111416365.cms) (The Times of India)
 
 - [Dengue: Brasil tem, em 6 meses, 6,1 milhões de casos e 4,2 mil mortes](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-07-01/dengue--brasil-tem--em-6-meses--6-1-milhoes-de-casos-e-4-2-mil-mortes.html) (Ig.com.br)
 
@@ -117,6 +135,8 @@ Source: [News API](https://newsapi.org/)
 - [«تب استخوان شکن» را جدی بگیریم](https://www.isna.ir/news/1403041006560/تب-استخوان-شکن-را-جدی-بگیریم) (Isna.ir)
 
 ## 24-27 (chikungunya)
+
+- [Valneva obtient le feu vert pour commercialiser son vaccin contre le chikungunya dans l’Union européenne](https://www.lemonde.fr/economie/article/2024/07/01/valneva-obtient-le-feu-vert-pour-commercialiser-son-vaccin-contre-le-chikungunya-dans-l-union-europeenne_6245900_3234.html) (Le Monde)
 
 - [Valneva obtient le feu vert de l’Europe pour commercialiser son vaccin contre le chikungunya](https://www.lejournaldesentreprises.com/article/valneva-obtient-le-feu-vert-de-leurope-pour-commercialiser-son-vaccin-contre-le-chikungunya-2099417) (Le Journal des Entreprises)
 
@@ -2686,6 +2706,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
 
+- [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
+
 ## 24-21 (mpox)
 
 - [CDC says vaccination could protect the U.S. from more dangerous mpox virus](https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753) (NBC News)
@@ -2779,6 +2801,8 @@ Source: [News API](https://newsapi.org/)
 - [SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms) (The Times of India)
 
 - [Serum Institute ships first R21/Matrix-M malaria vaccine to Africa](https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece) (BusinessLine)
+
+- [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (hpai)
 
@@ -3095,6 +3119,8 @@ Source: [News API](https://newsapi.org/)
 - [Learning English Podcast - May 20, 2024](https://learningenglish.voanews.com/a/7598921.html) (VOA News)
 
 - [Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos más afectados](https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/) (La Nacion)
+
+- [Tive dengue; quando posso me vacinar?](https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html) (Ig.com.br)
 
 ## 24-21 (chikungunya)
 
