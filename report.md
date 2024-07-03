@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-07-03 07:05
-- **Most recent article:** 2024-07-02 07:00:00
+- **New articles in last harvest:** 28
+- **Last harvest:** 2024-07-03 19:05
+- **Most recent article:** 2024-07-02 18:36:09
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 55 | 61 | 64 | 115 | 62 | 105 | 17 | 479 |
-| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 6 | 363 |
-| malaria | 17 | 25 | 21 | 37 | 20 | 24 | 6 | 150 |
-| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 6 | 124 |
-| measles | 15 | 16 | 11 | 7 | 11 | 8 | 1 | 69 |
+| dengue | 54 | 61 | 64 | 115 | 62 | 105 | 21 | 482 |
+| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 20 | 377 |
+| malaria | 16 | 25 | 21 | 37 | 20 | 24 | 8 | 151 |
+| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 7 | 125 |
+| measles | 15 | 16 | 11 | 7 | 11 | 8 | 3 | 71 |
 | chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 4 | 66 |
 | rabies | 8 | 15 | 9 | 2 | 5 | 8 | 1 | 48 |
-| pertussis | 6 | 6 | 9 | 11 | 11 | 3 | 0 | 46 |
-| zika | 3 | 3 | 0 | 12 | 3 | 17 | 5 | 43 |
+| zika | 3 | 3 | 0 | 12 | 3 | 17 | 8 | 46 |
+| pertussis | 5 | 6 | 9 | 11 | 11 | 3 | 0 | 45 |
 | hpai | 7 | 12 | 2 | 4 | 4 | 3 | 0 | 32 |
 | meningitis | 4 | 1 | 6 | 3 | 1 | 1 | 0 | 16 |
 | leptospirosis | 0 | 5 | 1 | 1 | 1 | 2 | 1 | 11 |
+| typhoid | 0 | 0 | 1 | 1 | 2 | 3 | 3 | 10 |
 | yersinia | 6 | 0 | 1 | 0 | 0 | 2 | 0 | 9 |
-| typhoid | 0 | 0 | 1 | 1 | 2 | 3 | 0 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -33,6 +33,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-27 (zika)
+
+- [શું છે આ ઝિકા વાયરસ ? કેવી રીતે ફેલાય છે, જાણો તેના લક્ષણો અને તેનાથી બચવાના ઉપાય](https://tv9gujarati.com/health/what-is-the-zika-virus-how-it-spreads-know-its-symptoms-and-how-to-avoid-it-1051775.html) (Tv9gujarati.com)
+
+- [Kerala gets 14 new Zika Virus cases: Know symptoms, prevention and cure](https://www.business-standard.com/world-news/kerala-gets-14-new-zika-virus-cases-know-symptoms-prevention-and-cure-124070200696_1.html) (Business Standard)
+
+- [Zika virus spreads in Pune: Here's how the virus infects, risks, symptoms, and prevention](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/zika-virus-spreads-in-pune-as-pregnant-women-get-infected-heres-how-the-virus-spreads-risks-symptoms-and-prevention/articleshow/111426779.cms) (The Times of India)
 
 - [Zika virus cases reported in Pune, total tally rises to six](https://economictimes.indiatimes.com/news/india/zika-virus-cases-reported-in-pune-total-tally-rises-to-six/articleshow/111417913.cms) (The Times of India)
 
@@ -44,11 +50,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Pregnant woman tests positive for Zika virus in India: Know how Zika virus affects foetal growth](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/pregnant-woman-tests-positive-for-zika-virus-in-india-know-how-zika-virus-affects-foetal-growth/articleshow/111398333.cms) (The Times of India)
 
+## 24-27 (typhoid)
+
+- [Five students in Kelantan diagnosed with typhoid](https://www.thestar.com.my/news/nation/2024/07/03/five-students-in-kelantan-diagnosed-with-typhoid) (The Star Online)
+
+- [Surge in typhoid, jaundice, and dengue cases in Delhi-NCR: How to stay safe](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/surge-in-typhoid-jaundice-and-dengue-cases-in-delhi-ncr-how-to-stay-safe/articleshow/111431802.cms) (The Times of India)
+
+- [Typhoid breakout in Kota Baru school, five cases confirmed](https://www.thestar.com.my/news/nation/2024/07/02/typhoid-breakout-in-kota-baru-school-five-cases-confirmed) (The Star Online)
+
 ## 24-27 (rabies)
 
 - [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
 
 ## 24-27 (mpox)
+
+- [Affenpocken breiten sich aus – „Wir sind nicht gerüstet“](https://www.morgenpost.de/panorama/article406708061/affenpocken-breiten-sich-aus-wir-sind-nicht-geruestet.html) (Berliner Morgenpost)
 
 - [Zorgen om nieuwe stam mpox-virus in Congo](https://www.nrc.nl/nieuws/2024/07/01/zorgen-om-nieuwe-stam-mpox-virus-in-congo-a4858288) (Www.nrc.nl)
 
@@ -64,9 +80,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (measles)
 
+- [How RFK Jr. Falsely Denied His Connection to a Deadly Measles Outbreak in Samoa (David Corn/Mother Jones)](https://www.memeorandum.com/240702/p38) (Memeorandum.com)
+
+- [How RFK Jr. Falsely Denied His Connection to a Deadly Measles Outbreak in Samoa](https://www.motherjones.com/politics/2024/07/how-rfk-jr-falsely-denied-his-connection-to-a-deadly-measles-outbreak-in-samoa/) (Mother Jones)
+
 - [Vaccine breakthrough protects the immunocompromised from the unvaxxed](https://newatlas.com/medical/measles-vaccine-discovery/) (New Atlas)
 
 ## 24-27 (malaria)
+
+- [How climate change is affecting where species live](https://phys.org/news/2024-07-climate-affecting-species.html) (Phys.Org)
+
+- [Variation and Adaptation in Guppies and Gambusia](https://answersingenesis.org/natural-selection/adaptation/variation-adaptation-guppies-gambusia/) (Answersingenesis.org)
 
 - [FG constitutes advisory board on malaria](https://punchng.com/fg-constitutes-advisory-board-on-malaria/) (The Punch)
 
@@ -86,6 +110,34 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (h5n1)
 
+- [ΗΠΑ: 176 εκατ. δολάρια στη Moderna για την ανάπτυξη εμβολίου κατά της γρίπης των πτηνών](https://www.naftemporiki.gr/health/1703951/ipa-176-ekat-dolaria-sti-moderna-gia-tin-anaptyxi-emvolioy-kata-tis-gripis-ton-ptinon/) (Naftemporiki.gr)
+
+- [„Vogelgrippe nicht unter Kontrolle“: Virologen warnen vor Pandemie, Politiker vor Panikmache](https://www.tagesspiegel.de/wissen/vogelgrippe-nicht-unter-kontrolle-virologen-warnen-vor-pandemie-politiker-vor-panikmache-11944568.html) (Der Tagesspiegel)
+
+- [FDA Finds Infectious H5N1 Bird Flu Virus In 14% Of Raw Milk Samples](https://www.forbes.com/sites/victoriaforster/2024/07/02/fda-finds-infectious-h5n1-bird-flu-virus-in-14-of-raw-milk-samples/) (Forbes)
+
+- [U.S. government will pay Moderna $176 million to develop a bird flu vaccine to stave off dairy cow epidemic](https://fortune.com/2024/07/02/moderna-bird-flu-vaccine-funding-government/) (Fortune)
+
+- [176 millió dolláros fejlesztési támogatást kapott a Moderna, hogy a madárinfluenza-vakcinán dolgozzon](https://hvg.hu/tudomany/20240702_fejlesztesi_tamogatas_moderna_egyesult_allamok) (Hvg.hu)
+
+- [Pasteurization Kills Bird Flu Virus in Milk, New Studies Confirm](https://www.scientificamerican.com/article/pasteurization-kills-bird-flu-virus-in-milk-new-studies-confirm/) (Scientific American)
+
+- [Moderna just got $176 million to develop an mRNA bird flu vaccine](https://qz.com/moderna-bird-flu-vaccine-1851572292) (Quartz India)
+
+- [Vogelgrippevirus H5N1 bei Milchkühen: Wie gefährlich ist es für Menschen? [premium]](https://www.diepresse.com/18627086/vogelgrippevirus-h5n1-bei-milchkuehen-wie-gefaehrlich-ist-es-fuer-menschen) (Diepresse.com)
+
+- [In den USA grassiert das Vogelgrippevirus in Rinderherden: Wie gefährlich ist das für Menschen? [premium]](https://www.diepresse.com/18627086/in-den-usa-grassiert-das-vogelgrippevirus-in-rinderherden-wie-gefaehrlich-ist-das-fuer-menschen) (Diepresse.com)
+
+- [US awards Moderna US$176 million to produce bird flu vaccine](https://www.channelnewsasia.com/world/us-awards-moderna-us176-million-produce-bird-flu-vaccine-4451896) (CNA)
+
+- [Moderna Scores Federal Funding For mRNA Bird Flu Vaccine As Pandemic Fears Grow](https://www.forbes.com/sites/roberthart/2024/07/02/moderna-scores-federal-funding-for-mrna-bird-flu-vaccine-as-pandemic-fears-grow/) (Forbes)
+
+- [H5N1 überlebt auf Zitzenbechern: Melkmaschinen können Vogelgrippe auf Menschen übertragen](https://www.n-tv.de/wissen/Melkmaschinen-koennen-Vogelgrippe-auf-Menschen-uebertragen-article25056937.html) (N-tv.de)
+
+- [Vogelgrippevirus - Milch von infizierten Kühen gefährlich? Was wir über H5N1 wissen und was nicht](https://www.focus.de/gesundheit/news/vogelgrippe-was-wir-ueber-h5n1-wissen-und-was-nicht_id_260097661.html) (Focus)
+
+- [多名卫生专家警告：禽流感或缓慢演变成大规模疫情](https://www.cnbeta.com.tw/articles/tech/1436844.htm) (Cnbeta.com.tw)
+
 - [Vogelgrippevirus H5N1: Pandemische Zeitbombe aus der Massentierhaltung?](https://www.telepolis.de/features/Vogelgrippevirus-H5N1-Pandemische-Zeitbombe-aus-der-Massentierhaltung-9786116.html) (Telepolis.de)
 
 - [What is the H5N1 virus that is growingly rapidly? Here is everything you need to know](https://economictimes.indiatimes.com/news/international/us/what-is-the-h5n1-virus-that-is-growingly-rapidly-here-is-everything-you-need-to-know/articleshow/111412425.cms) (The Times of India)
@@ -99,6 +151,14 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: Dutch expert sees parallels to Q fever outbreaks](https://www.statnews.com/2024/07/01/h5n1-bird-flu-snapshot-q-fever/) (STAT)
 
 ## 24-27 (dengue)
+
+- [El Salvador decreta alerta sanitaria tras la muerte de tres niños por dengue](https://www.forbes.com.mx/el-salvador-decreta-alerta-sanitaria-tras-la-muerte-de-tres-ninos-por-dengue/) (Forbes.com.mx)
+
+- [Dengue Testing - ಖಾಸಗಿ ಆಸ್ಪತ್ರೆಗಳಿಗೂ ದರ ನಿಗದಿಗೆ Health Minister Dinesh Gundurao ಸೂಚನೆ](https://kannada.asianetnews.com/health-life/dengue-testing-issue-health-minister-dinesh-gundurao-instructs-private-hospitals-to-fix-rates-rav-sg06ie) (Asianetnews.com)
+
+- [Health officials in the Florida Keys issue a local dengue fever alert](https://www.nbcnews.com/health/health-news/health-officials-florida-keys-issue-local-dengue-fever-alert-rcna159931) (NBC News)
+
+- [Surge in typhoid, jaundice, and dengue cases in Delhi-NCR: How to stay safe](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/surge-in-typhoid-jaundice-and-dengue-cases-in-delhi-ncr-how-to-stay-safe/articleshow/111431802.cms) (The Times of India)
 
 - [Dengue fever alert issued in Florida Keys after confirmed cases](https://www.cbsnews.com/miami/news/dengue-fever-alert-issued-in-florida-keys-after-confirmed-cases/) (CBS News)
 
@@ -2706,8 +2766,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
 
-- [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
-
 ## 24-21 (mpox)
 
 - [CDC says vaccination could protect the U.S. from more dangerous mpox virus](https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753) (NBC News)
@@ -2801,8 +2859,6 @@ Source: [News API](https://newsapi.org/)
 - [SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms) (The Times of India)
 
 - [Serum Institute ships first R21/Matrix-M malaria vaccine to Africa](https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece) (BusinessLine)
-
-- [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (hpai)
 
@@ -3119,8 +3175,6 @@ Source: [News API](https://newsapi.org/)
 - [Learning English Podcast - May 20, 2024](https://learningenglish.voanews.com/a/7598921.html) (VOA News)
 
 - [Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos más afectados](https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/) (La Nacion)
-
-- [Tive dengue; quando posso me vacinar?](https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html) (Ig.com.br)
 
 ## 24-21 (chikungunya)
 

@@ -1,8 +1,513 @@
 {
-  "last_updated": "2024-07-03 07:05",
-  "count_articles_total": 1388,
-  "count_articles_new": 9,
+  "last_updated": "2024-07-03 19:05",
+  "count_articles_total": 1413,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 10725,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "El Salvador decreta alerta sanitaria tras la muerte de tres ni\u00f1os por dengue",
+      "description": "Forbes M\u00e9xico. El Salvador decreta alerta sanitaria tras la muerte de tres ni\u00f1os por dengue 'Decretamos la alerta epidemiol\u00f3gica por muertes infantiles a causa del dengue', se\u00f1al\u00f3 el ministro de Salud de El Salvador. El Salvador decreta alerta sanitaria tr\u2026",
+      "url": "https://www.forbes.com.mx/el-salvador-decreta-alerta-sanitaria-tras-la-muerte-de-tres-ninos-por-dengue/",
+      "urlToImage": "https://cdn.forbes.com.mx/2021/05/dengue-mosquito-CDC-scaled.jpg",
+      "publishedAt": "2024-07-02 18:36:09",
+      "content": "Las autoridades sanitarias de El Salvador decretaron una alerta epidemiol\u00f3gica tras la muerte de tres ni\u00f1os a causa del dengue, seg\u00fan inform\u00f3 este martes el Ministerio de Salud (Minsal) en su cuenta \u2026 [+1709 chars]",
+      "retrievedAt": "2024-07-03 19:05:47.272355",
+      "internal_id": "6d41b96d35240dcd7fd81e30df807c8f58dcff59f821c1d9ff0533a74bdc73d9",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10728,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "How climate change is affecting where species live",
+      "description": "As the climate warms, many species are on the move, raising new challenges for policy-makers around the world. Shifts in the ranges of mosquitoes and disease-bearing ticks and bats are introducing illnesses such as malaria and Lyme disease into regions where \u2026",
+      "url": "https://phys.org/news/2024-07-climate-affecting-species.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/how-climate-change-is-3.jpg",
+      "publishedAt": "2024-07-02 18:13:28",
+      "content": "As the climate warms, many species are on the move, raising new challenges for policy-makers around the world. Shifts in the ranges of mosquitoes and disease-bearing ticks and bats are introducing il\u2026 [+4098 chars]",
+      "retrievedAt": "2024-07-03 19:05:48.084990",
+      "internal_id": "98394063f5eef7d6824f4c9f3182a6f610b781be91250d45f08dffd36fd1daab",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10722,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u039c\u03b1\u03c1\u03af\u03b1 \u0393\u03b5\u03c9\u03c1\u03b3\u03b1\u03ba\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5",
+      "title": "\u0397\u03a0\u0391: 176 \u03b5\u03ba\u03b1\u03c4. \u03b4\u03bf\u03bb\u03ac\u03c1\u03b9\u03b1 \u03c3\u03c4\u03b7 Moderna \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd",
+      "description": "\u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u0397\u03a0\u0391 \u03ad\u03b4\u03c9\u03c3\u03b5 176 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03b4\u03bf\u03bb\u03ac\u03c1\u03b9\u03b1 \u03c3\u03c4\u03b7 Moderna \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7 \u03b5\u03bd\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03bc\u03b5 \u03b2\u03ac\u03c3\u03b7 \u03c4\u03bf mRNA \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b1 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03ae\u03c3\u03b5\u03b9 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2\u2026 \u0397\u03a0\u0391: 176 \u03b5\u03ba\u03b1\u03c4. \u03b4\u03bf\u03bb\u03ac\u03c1\u03b9\u03b1 \u03c3\u03c4\u03b7 Moderna \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u2026",
+      "url": "https://www.naftemporiki.gr/health/1703951/ipa-176-ekat-dolaria-sti-moderna-gia-tin-anaptyxi-emvolioy-kata-tis-gripis-ton-ptinon/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2021/12/1806020.jpeg",
+      "publishedAt": "2024-07-02 17:08:04",
+      "content": "176 Moderna mRNA . \u00ab \u00bb , Covid. \u00ab \u00bb , . , . mRNA - Covid - . \u00ab \u00bb . Moderna H5N1. , , , . , . , . . , , , , , . Moderna mRNA 2023 . , Moderna. : BBC",
+      "retrievedAt": "2024-07-03 19:05:46.681501",
+      "internal_id": "0b15892e2e743396f59f41af5f8ba656edbbd92dd82c1c71b1c4441d3bbb4b9e",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10721,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Sascha Karberg, Caspar Schwietering, Christopher Ziedler",
+      "title": "\u201eVogelgrippe nicht unter Kontrolle\u201c: Virologen warnen vor Pandemie, Politiker vor Panikmache",
+      "description": "Wissenschaftler sehen mittelfristig die Gefahr einer \u00dcbertragung des H5N1-Virus auf den Menschen, wenn nicht st\u00e4rker gegengesteuert wird. In der Berliner Regierungskoalition will man die Warnung \u201esehr ernst nehmen - ohne freilich in Panik zu verfallen\u201c.",
+      "url": "https://www.tagesspiegel.de/wissen/vogelgrippe-nicht-unter-kontrolle-virologen-warnen-vor-pandemie-politiker-vor-panikmache-11944568.html",
+      "urlToImage": "https://www.tagesspiegel.de/wissen/images/vogelgrippe-bei-milchkuhen1/alternates/BASE_16_9_W1400/vogelgrippe-bei-milchkuehen.jpeg",
+      "publishedAt": "2024-07-02 17:05:10",
+      "content": "Immer mehr Experten warnen davor, dass die Vogelgrippe mittelfristig auf den Menschen \u00fcberspringen k\u00f6nnte. Anlass ist die sich seit einem halben Jahr ausweitende Infektionswelle mit dem Erreger in Mi\u2026 [+4292 chars]",
+      "retrievedAt": "2024-07-03 19:05:46.676492",
+      "internal_id": "9e7da12257d606d6dd314c6303066862435390aaeeb8f496f41b5503d47438cc",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10712,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Victoria Forster, Contributor, \n Victoria Forster, Contributor\n https://www.forbes.com/sites/victoriaforster/",
+      "title": "FDA Finds Infectious H5N1 Bird Flu Virus In 14% Of Raw Milk Samples",
+      "description": "The results come at the same time as a public survey showing Americans underestimate the health risks of consuming raw milk.",
+      "url": "https://www.forbes.com/sites/victoriaforster/2024/07/02/fda-finds-infectious-h5n1-bird-flu-virus-in-14-of-raw-milk-samples/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668430dd9735580e00d954db/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-02 17:03:35",
+      "content": "Raw milk can harbor live bird flu virus, according to the results of a new study. The results come ... [+] amid a survey showing that many Americans underestimate the health risks of consuming raw mi\u2026 [+3387 chars]",
+      "retrievedAt": "2024-07-03 19:05:46.583635",
+      "internal_id": "98bc0b41f955ab7f76bbc1a440224aa77ac02e9137905afcf3cff1896a60f0c9",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10715,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "The Associated Press",
+      "title": "U.S. government will pay Moderna $176 million to develop a bird flu vaccine to stave off dairy cow epidemic",
+      "description": "The H5N1 virus has spread to 135 dairy cow herds across 12 states and infected three people with mild cases.",
+      "url": "https://fortune.com/2024/07/02/moderna-bird-flu-vaccine-funding-government/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-1258268250-e1719935952684.jpg?resize=1200,600",
+      "publishedAt": "2024-07-02 16:59:21",
+      "content": "The U.S. government will pay the vaccine maker Moderna $176 million to develop a pandemic vaccine that could be used to treat bird flu in people as cases in dairy cows continue to mount across the co\u2026 [+877 chars]",
+      "retrievedAt": "2024-07-03 19:05:46.617862",
+      "internal_id": "f875a80a30e53207893bb4f90981bb1c466c061a9f593aa9af04ebb7d7ba55d6",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10708,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "How RFK Jr. Falsely Denied His Connection to a Deadly Measles Outbreak in Samoa (David Corn/Mother Jones)",
+      "description": "David Corn / Mother Jones: How RFK Jr. Falsely Denied His Connection to a Deadly Measles Outbreak in Samoa \u2014 He also championed a Samoan anti-vaxxer tied to the 2019 lethal eruption that killed scores of children. \u2014 Appearing in Shot in the Arm, a 2023 do\u2026",
+      "url": "https://www.memeorandum.com/240702/p38",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2024/06/20240627_rfk-measles_2000px.png?w=1200&h=630&crop=1",
+      "publishedAt": "2024-07-02 16:20:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-07-03 19:05:45.686206",
+      "internal_id": "1798f0a2f96a1282e41ffc08c506ae5de37bff3fd35d7c3ae297e9f7f96f0fec",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10714,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hvg.hu",
+      "author": "hvg@hvg.hu",
+      "title": "176 milli\u00f3 doll\u00e1ros fejleszt\u00e9si t\u00e1mogat\u00e1st kapott a Moderna, hogy a mad\u00e1rinfluenza-vakcin\u00e1n dolgozzon",
+      "description": "Az amerikai d\u00f6nt\u00e9s azut\u00e1n sz\u00fcletett, hogy megjelent a tejel\u0151 teheneket fenyeget\u0151 H5N1 v\u00edrus.",
+      "url": "https://hvg.hu/tudomany/20240702_fejlesztesi_tamogatas_moderna_egyesult_allamok",
+      "urlToImage": "https://img.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/9710a502-6265-444a-82d3-71f21c20df10.jpg",
+      "publishedAt": "2024-07-02 16:14:29",
+      "content": "Az Egyes\u00fclt \u00c1llamok korm\u00e1nya 176 milli\u00f3 doll\u00e1r t\u00e1mogat\u00e1st adott a Moderna biotechnol\u00f3giai v\u00e1llalatnak, hogy tov\u00e1bbfejlessze a mad\u00e1rinfluenza elleni v\u00e9dolt\u00e1s\u00e1t \u00edrta meg a Reuters h\u00edr\u00fcgyn\u00f6ks\u00e9g. Az amer\u2026 [+1238 chars]",
+      "retrievedAt": "2024-07-03 19:05:46.601470",
+      "internal_id": "379803114433e4fdf2ee0af3569793f6df0ccf8fcf05f65b456b653abba3239e",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10710,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Lauren J. Young",
+      "title": "Pasteurization Kills Bird Flu Virus in Milk, New Studies Confirm",
+      "description": "Flash pasteurization destroyed H5N1 viral particles that were highly concentrated in raw milk, confirming that standard techniques can keep dairy products safe from bird flu",
+      "url": "https://www.scientificamerican.com/article/pasteurization-kills-bird-flu-virus-in-milk-new-studies-confirm/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/68c564448a824793/original/GettyImages-1210675780_WEB.jpg?w=1200",
+      "publishedAt": "2024-07-02 16:00:00",
+      "content": "Pasteurization\u2014the process of using high heat to eliminate harmful microbes in foods\u2014effectively kills the H5N1 avian influenza virus that is currently circulating in U.S. cattle. In a new study scie\u2026 [+5143 chars]",
+      "retrievedAt": "2024-07-03 19:05:46.573161",
+      "internal_id": "02898cfffd856aff9dba38fb873c7dce02ebdb0f93955998e294bb8ed7abaeab",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10735,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Five students in Kelantan diagnosed with typhoid",
+      "description": "KOTA BARU: Five students from a cluster of 22 at a secondary school here have been diagnosed with typhoid. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/07/03/five-students-in-kelantan-diagnosed-with-typhoid",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/07/03/2780851.jpg",
+      "publishedAt": "2024-07-02 16:00:00",
+      "content": "KOTA BARU: Five students from a cluster of 22 at a secondary school here have been diagnosed with typhoid. Another 17 students were being screened in isolation rooms at the Tumpat Hospital and Tengk\u2026 [+977 chars]",
+      "retrievedAt": "2024-07-03 19:05:49.517223",
+      "internal_id": "1305ad0a465b28ba53a63ea391c5fe5805d0ba9f867089b0c87604e6150e407b",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10727,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Asianetnews.com",
+      "author": "Ravi Janekal",
+      "title": "Dengue Testing - \u0c96\u0cbe\u0cb8\u0c97\u0cbf \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6\u0c97\u0cb3\u0cbf\u0c97\u0cc2 \u0ca6\u0cb0 \u0ca8\u0cbf\u0c97\u0ca6\u0cbf\u0c97\u0cc6 Health Minister Dinesh Gundurao \u0cb8\u0cc2\u0c9a\u0ca8\u0cc6",
+      "description": "\u0ca1\u0cc6\u0c82\u0c98\u0cc0 \u0c9f\u0cc6\u0cb8\u0ccd\u0c9f\u0cbf\u0c82\u0c97\u0ccd - \u0c96\u0cbe\u0cb8\u0c97\u0cbf \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6\u0c97\u0cb3\u0cbf\u0c97\u0cc2 \u0ca6\u0cb0 \u0ca8\u0cbf\u0c97\u0ca6\u0cbf\u0c97\u0cc6 \u0c86\u0cb0\u0ccb\u0c97\u0ccd\u0caf \u0cb8\u0c9a\u0cbf\u0cb5 \u0ca6\u0cbf\u0ca8\u0cc7\u0cb6\u0ccd \u0c97\u0cc1\u0c82\u0ca1\u0cc2\u0cb0\u0cbe\u0cb5\u0ccd \u0cb8\u0cc2\u0c9a\u0ca8\u0cc6 \u0ca8\u0cc0\u0ca1\u0cbf\u0ca6\u0cb0\u0cc1. \u0c9c\u0cca\u0ca4\u0cc6\u0c97\u0cc6 \u0ca1\u0cc6\u0c82\u0c98\u0cc0 \u0caa\u0ccd\u0cb0\u0c95\u0cb0\u0ca3\u0c97\u0cb3 \u0c95\u0cc1\u0cb0\u0cbf\u0ca4\u0cc1 \u0c96\u0cbe\u0cb8\u0c97\u0cbf \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6\u0c97\u0cb3\u0cc1 \u0c95\u0ca1\u0ccd\u0ca1\u0cbe\u0caf\u0cb5\u0cbe\u0c97\u0cbf \u0cb8\u0cb0\u0ccd\u0c95\u0cbe\u0cb0\u0c95\u0ccd\u0c95\u0cc6 \u0cae\u0cbe\u0cb9\u0cbf\u0ca4\u0cbf \u0ca8\u0cc0\u0ca1\u0cc1\u0cb5\u0c82\u0ca4\u0cc6 \u0cb8\u0cc2\u0c9a\u0cbf\u0cb8\u0cbf\u0ca6\u0cb0\u0cc1.",
+      "url": "https://kannada.asianetnews.com/health-life/dengue-testing-issue-health-minister-dinesh-gundurao-instructs-private-hospitals-to-fix-rates-rav-sg06ie",
+      "urlToImage": "https://static-ai.asianetnews.com/images/01j1t1d9dnx78f6m3whrjg8g7v/1_1200x630xt.jpg",
+      "publishedAt": "2024-07-02 15:49:41",
+      "content": "- . . (.2): . , , . (Dengue positive case) . (Dengue test) 42 . . (Dinesh gundurao) . 254 ; , 6187 , 6 . 0.09 . . , , , , , , . . . . . . . . (BBMP) . . , . 5 ; . . Last Upda\u2026 [+27 chars]",
+      "retrievedAt": "2024-07-03 19:05:47.375765",
+      "internal_id": "328f9c46c400e6e2c7e72b53578c709e3b5322b87ddfa20ca137846035a53353",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10724,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Nicole Acevedo",
+      "title": "Health officials in the Florida Keys issue a local dengue fever alert",
+      "description": "A dengue fever alert has been issued in the Florida Keys following two confirmed cases of the mosquito-borne illness.",
+      "url": "https://www.nbcnews.com/health/health-news/health-officials-florida-keys-issue-local-dengue-fever-alert-rcna159931",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/180427-mosquito-zika-virus-al-1235-93496b.jpg",
+      "publishedAt": "2024-07-02 15:37:43",
+      "content": "A dengue fever alert has been issued in the Florida Keys following two confirmed cases of the mosquito-borne illness. The local warning comes a week after the Centers for Disease Control and Prevent\u2026 [+2505 chars]",
+      "retrievedAt": "2024-07-03 19:05:47.250404",
+      "internal_id": "83af0e4dac54f3c5d2e3ffe754a789741cc9f6e1ffeebf8dc1428b727ecaba4b",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10711,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Quartz India",
+      "author": "Bruce Gil",
+      "title": "Moderna just got $176 million to develop an mRNA bird flu vaccine",
+      "description": "Moderna announced Tuesday that it has received money from the U.S. government to fund a late-stage trial of its mRNA H5N1 bird flu vaccine for humans, as the virus continues to spread rapidly among the nation\u2019s poultry and cattle and has already infected thre\u2026",
+      "url": "https://qz.com/moderna-bird-flu-vaccine-1851572292",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c6c5f43eea83ea4184bf220552875cd6.jpg",
+      "publishedAt": "2024-07-02 15:24:06",
+      "content": "Moderna announced Tuesday that it has received money from the U.S. government to fund a late-stage trial of its mRNA H5N1 bird flu vaccine for humans, as the virus continues to spread rapidly among t\u2026 [+2373 chars]",
+      "retrievedAt": "2024-07-03 19:05:46.578100",
+      "internal_id": "c5119a049a98a0c72b714e59cf3b0fc38b2ea406a3643b69b9a333f959517f9d",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10709,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mother Jones",
+      "author": "David Corn",
+      "title": "How RFK Jr. Falsely Denied His Connection to a Deadly Measles Outbreak in Samoa",
+      "description": "Appearing in Shot in the Arm, a 2023 documentary about vaccine opposition, Robert F. Kennedy Jr. was asked about the deadly measles outbreak that occurred in Samoa in 2019 and claimed the lives of 83 people, mostly children. Kennedy, a leading antivaxxer who \u2026",
+      "url": "https://www.motherjones.com/politics/2024/07/how-rfk-jr-falsely-denied-his-connection-to-a-deadly-measles-outbreak-in-samoa/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2024/06/20240627_rfk-measles_2000px.png?w=1200&h=630&crop=1",
+      "publishedAt": "2024-07-02 14:01:42",
+      "content": "Mother Jones; Michael Brochstein/ZUMA; Cynthia S. Goldsmith/CDC Fight disinformation: Sign up for the free Mother Jones Daily newsletter and follow the news that matters. Appearing in Shot in the A\u2026 [+7622 chars]",
+      "retrievedAt": "2024-07-03 19:05:45.704321",
+      "internal_id": "b4e1a70f9e3c42fd7c276141c2f9720a9d0285e8e9b73003f8190fe9d60786b2",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10717,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Barbara Schechtner",
+      "title": "Vogelgrippevirus H5N1 bei Milchk\u00fchen: Wie gef\u00e4hrlich ist es f\u00fcr Menschen? [premium]",
+      "description": "In den USA breitet sich das Vogelgrippevirus H5N1 derzeit unter Milchk\u00fchen aus und ruft die WHO auf den Plan. Denn vereinzelt haben sich auch schon Menschen angesteckt. Experten warnen gar schon vor einer neuen Pandemie. Wie gef\u00e4hrlich ist die Situation?",
+      "url": "https://www.diepresse.com/18627086/vogelgrippevirus-h5n1-bei-milchkuehen-wie-gefaehrlich-ist-es-fuer-menschen",
+      "urlToImage": "https://img.diepresse.com/public/incoming/pk3rk0-GettyImages-1920702981.jpg/alternates/DPR_SOCIAL_MAGAZIN_PAID/GettyImages-1920702981.jpg",
+      "publishedAt": "2024-07-02 13:34:39",
+      "content": "In den USA breitet sich das Vogelgrippevirus H5N1 derzeit unter Milchk\u00fchen aus und ruft die WHO auf den Plan. Denn vereinzelt haben sich auch schon Menschen angesteckt. Experten warnen gar schon vor \u2026 [+1559 chars]",
+      "retrievedAt": "2024-07-03 19:05:46.628362",
+      "internal_id": "a145fabe81165c2805c22f050e6ef4cbbcacab65e5e9c9765f97257ef6c8e35c",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10718,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Barbara Schechtner",
+      "title": "In den USA grassiert das Vogelgrippevirus in Rinderherden: Wie gef\u00e4hrlich ist das f\u00fcr Menschen? [premium]",
+      "description": "In den USA breitet sich das Vogelgrippevirus H5N1 derzeit unter Milchk\u00fchen aus und ruft die WHO auf den Plan. Denn vereinzelt haben sich auch schon Menschen angesteckt. Experten warnen gar schon vor einer neuen Pandemie. Wie gef\u00e4hrlich ist die Situation?",
+      "url": "https://www.diepresse.com/18627086/in-den-usa-grassiert-das-vogelgrippevirus-in-rinderherden-wie-gefaehrlich-ist-das-fuer-menschen",
+      "urlToImage": "https://img.diepresse.com/public/incoming/pk3rk0-GettyImages-1920702981.jpg/alternates/DPR_SOCIAL_MAGAZIN_PAID/GettyImages-1920702981.jpg",
+      "publishedAt": "2024-07-02 13:34:39",
+      "content": "In den USA breitet sich das Vogelgrippevirus H5N1 derzeit unter Milchk\u00fchen aus und ruft die WHO auf den Plan. Denn vereinzelt haben sich auch schon Menschen angesteckt. Experten warnen gar schon vor \u2026 [+1542 chars]",
+      "retrievedAt": "2024-07-03 19:05:46.634420",
+      "internal_id": "469ef9c9b5c98d25305cce0e42024da4362a0d3224bc455e2892663ec7fcf0c2",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10732,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Tv9gujarati.com",
+      "author": "Tv9 Gujarati",
+      "title": "\u0ab6\u0ac1\u0a82 \u0a9b\u0ac7 \u0a86 \u0a9d\u0abf\u0a95\u0abe \u0ab5\u0abe\u0aaf\u0ab0\u0ab8 ? \u0a95\u0ac7\u0ab5\u0ac0 \u0ab0\u0ac0\u0aa4\u0ac7 \u0aab\u0ac7\u0ab2\u0abe\u0aaf \u0a9b\u0ac7, \u0a9c\u0abe\u0aa3\u0acb \u0aa4\u0ac7\u0aa8\u0abe \u0ab2\u0a95\u0acd\u0ab7\u0aa3\u0acb \u0a85\u0aa8\u0ac7 \u0aa4\u0ac7\u0aa8\u0abe\u0aa5\u0ac0 \u0aac\u0a9a\u0ab5\u0abe\u0aa8\u0abe \u0a89\u0aaa\u0abe\u0aaf",
+      "description": "Zika Virus : \u0aaa\u0ac1\u0aa3\u0ac7\u0aae\u0abe\u0a82 \u0a9d\u0abf\u0a95\u0abe \u0ab5\u0abe\u0aaf\u0ab0\u0ab8\u0aa8\u0abe \u0a95\u0ac7\u0ab8 \u0ab5\u0aa7\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe \u0a9b\u0ac7. \u0a86\u0aa8\u0abe 5 \u0a95\u0ac7\u0ab8 \u0ab8\u0abe\u0aae\u0ac7 \u0a86\u0ab5\u0acd\u0aaf\u0abe \u0a9b\u0ac7. \u0a8f\u0a95 \u0a97\u0ab0\u0acd\u0aad\u0ab5\u0aa4\u0ac0 \u0aae\u0ab9\u0abf\u0ab2\u0abe \u0aaa\u0aa3 \u0a86 \u0ab5\u0abe\u0aaf\u0ab0\u0ab8\u0aa8\u0acb \u0ab6\u0abf\u0a95\u0abe\u0ab0 \u0aac\u0aa8\u0ac0 \u0a9b\u0ac7. \u0a86 \u0aae\u0ab9\u0abf\u0ab2\u0abe \u0ab8\u0a82\u0a95\u0acd\u0ab0\u0aae\u0abf\u0aa4 \u0aa6\u0ab0\u0acd\u0aa6\u0ac0\u0a93\u0aa8\u0abe \u0a98\u0ab0\u0aa8\u0ac0 \u0aa8\u0a9c\u0ac0\u0a95 \u0ab0\u0ab9\u0ac7\u0aa4\u0ac0 \u0ab9\u0aa4\u0ac0. \u0ab8\u0a97\u0ab0\u0acd\u0aad\u0abe \u0aae\u0ab9\u0abf\u0ab2\u0abe\u0aae\u0abe\u0a82 \u0a9d\u0ac0\u0a95\u0abe\u0aa8\u0abe \u0a95\u0ac7\u0ab8 \u0aaa\u0a9b\u0ac0, \u0aac\u0abe\u0ab3\u0a95\u0aae\u0abe\u0a82 \u0ab5\u0abe\u0aaf\u0ab0\u0ab8 \u0aab\u0ac7\u0ab2\u0abe\u0ab5\u0ab5\u0abe\u0aa8\u0ac1\u0a82 \u0a9c\u0acb\u0a96\u0aae \u0aaa\u0aa3 \u0ab5\u0aa7\u0ac0 \u0a97\u0aaf\u0ac1\u0a82 \u0a9b\u0ac7.",
+      "url": "https://tv9gujarati.com/health/what-is-the-zika-virus-how-it-spreads-know-its-symptoms-and-how-to-avoid-it-1051775.html",
+      "urlToImage": "https://images.tv9gujarati.com/wp-content/uploads/2024/07/zika-virus.jpg",
+      "publishedAt": "2024-07-02 13:14:54",
+      "content": "Zika Virus : . 5 . . . , . Devankashi rana | Updated on: Jul 02, 2024 | 5:29 PM . . . , . . , . , . . . . . . . , , , , , . 2 7 . . ? ? . , , . , . , , . . . . . , . g clip-path=\"url(#\u2026 [+18 chars]",
+      "retrievedAt": "2024-07-03 19:05:48.514243",
+      "internal_id": "afdca862281025a0037ab3b80f411b23e6e1355c7437245cd318c670adfdf59c",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10733,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Leonhard Rosenauer",
+      "title": "Affenpocken breiten sich aus \u2013 \u201eWir sind nicht ger\u00fcstet\u201c",
+      "description": "Vor allem Kinder erkranken in der Demokratischen Republik Kongo vermehrt an Mpox. Forscher warnen bereits vor neuen Pandemien.",
+      "url": "https://www.morgenpost.de/panorama/article406708061/affenpocken-breiten-sich-aus-wir-sind-nicht-geruestet.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406707138/406707138_1719924058_v16_9_1600.jpeg",
+      "publishedAt": "2024-07-02 12:40:59",
+      "content": "Berlin. Vor allem Kinder erkranken in der Demokratischen Republik Kongo vermehrt an Mpox. Forscher warnen bereits vor neuen Pandemien. In der Demokratischen Republik Kongo breitet sich zunehmend ein\u2026 [+2622 chars]",
+      "retrievedAt": "2024-07-03 19:05:49.062346",
+      "internal_id": "f489229d7fe23fc64ed4bb505ed68818119ab5be9993a24d56d6a4b58c2e918d",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10716,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "US awards Moderna US$176 million to produce bird flu vaccine",
+      "description": "The US government has awarded US$176 million to Moderna to advance development of its bird flu vaccine, the company said on Tuesday (Jul 2), as concerns rise over a multi-state outbreak of H5N1 virus in",
+      "url": "https://www.channelnewsasia.com/world/us-awards-moderna-us176-million-produce-bird-flu-vaccine-4451896",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--cEmVsXFy--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-07-02t114734z_2_lynxmpek610gv_rtroptp_3_health-birdflu-usa-vaccine.jpg?itok=CHpfSGCP",
+      "publishedAt": "2024-07-02 12:30:00",
+      "content": "The US government has awarded US$176 million to Moderna to advance development of its bird flu vaccine, the company said on Tuesday (Jul 2), as concerns rise over a multi-state outbreak of H5N1 virus\u2026 [+1072 chars]",
+      "retrievedAt": "2024-07-03 19:05:46.622406",
+      "internal_id": "7fd749e87cd2458e4a853f5a3798216267a5a9fc634670402901cf9f45828e08",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10731,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Sudeep Singh Rawat",
+      "title": "Kerala gets 14 new Zika Virus cases: Know symptoms, prevention and cure",
+      "description": "Zika Virus cases: The Kerala health department issued an alert as 14 new cases of Zika virus were identified in the state, including a 24-year-old pregnant woman",
+      "url": "https://www.business-standard.com/world-news/kerala-gets-14-new-zika-virus-cases-know-symptoms-prevention-and-cure-124070200696_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-11/20/thumb/featurecrop/400X400/1479641776-652.jpg",
+      "publishedAt": "2024-07-02 11:31:41",
+      "content": "The Kerala health department issued an alert as 14 new cases of Zika virus were identified in the state, including a 24-year-old pregnant woman Sudeep Singh RawatNew Delhi Kerala government declare\u2026 [+3108 chars]",
+      "retrievedAt": "2024-07-03 19:05:48.504083",
+      "internal_id": "4d135fb52afe281a2564dc24722228ba56afa98265e8202c24da9a57f3e7208d",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10713,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "Moderna Scores Federal Funding For mRNA Bird Flu Vaccine As Pandemic Fears Grow",
+      "description": "Funding from U.S. biodefense agency Barda will support Moderna in developing an mRNA-based pandemic flu vaccine as fears grow the H5N1 outbreak tearing through American dairy herds and poultry farms could soon leap to humans.",
+      "url": "https://www.forbes.com/sites/roberthart/2024/07/02/moderna-scores-federal-funding-for-mrna-bird-flu-vaccine-as-pandemic-fears-grow/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6683e2e8a8fa953cbc156c61/0x0.jpg?format=jpg&crop=3000,1687,x0,y157,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-02 11:30:08",
+      "content": "Moderna has secured $176 million in federal funding to develop mRNA vaccines against a potential bird flu pandemic, the Boston-based company announced Tuesday, a move that could bolster U.S. vaccine \u2026 [+7244 chars]",
+      "retrievedAt": "2024-07-03 19:05:46.592389",
+      "internal_id": "eb9a18d738530cc4c752460a5543a7ce1c4876cbd5f4105578da7f357614c17a",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10720,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "H5N1 \u00fcberlebt auf Zitzenbechern: Melkmaschinen k\u00f6nnen Vogelgrippe auf Menschen \u00fcbertragen",
+      "description": "Eine neue US-Studie zeigt, dass das Vogelgrippe-Virus stundenlang auf Melkmaschinen infekti\u00f6s bleibt. H5N1 kann so nicht nur auf K\u00fche, sondern auch auf Besch\u00e4ftigte in Molkereibetrieben \u00fcbertragen werden. Die Verfasser der Studie raten dringend zu Schutzma\u00dfna\u2026",
+      "url": "https://www.n-tv.de/wissen/Melkmaschinen-koennen-Vogelgrippe-auf-Menschen-uebertragen-article25056937.html",
+      "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop25057227/0861322861-cImg_16_9-w1200/Melkmaschine-02.jpg",
+      "publishedAt": "2024-07-02 11:19:22",
+      "content": "Eine neue US-Studie zeigt, dass das Vogelgrippe-Virus stundenlang auf Melkmaschinen infekti\u00f6s bleibt. H5N1 kann so nicht nur auf K\u00fche, sondern auch auf Besch\u00e4ftigte in Molkereibetrieben \u00fcbertragen we\u2026 [+3024 chars]",
+      "retrievedAt": "2024-07-03 19:05:46.666907",
+      "internal_id": "c6400df60be40a5fd45dece743278641433b5d7c47c4b77472795a599c28324b",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10726,
+      "query": [
+        "dengue",
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Surge in typhoid, jaundice, and dengue cases in Delhi-NCR: How to stay safe",
+      "description": "Prevent stagnant water risks, prioritize jaundice recovery through rest and diet, and prevent liver diseases with hygiene and safe food practices. Seek medical help promptly for monsoon jaundice symptoms to manage infectious causes effectively.",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/surge-in-typhoid-jaundice-and-dengue-cases-in-delhi-ncr-how-to-stay-safe/articleshow/111431802.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111431790,width-1070,height-580,imgsize-1248651,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-02 10:43:45",
+      "content": "hydrating diet tips for healthy skin",
+      "retrievedAt": "2024-07-03 19:05:47.321875",
+      "internal_id": "0600fa0f7e5a38e727dd1a8607fa75f991902ee13e1737e1f9f6cf8fe1b88ebd",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10729,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Answersingenesis.org",
+      "author": "Dr. Alan L. Gillen, Adam Russell, Anna Collins",
+      "title": "Variation and Adaptation in Guppies and Gambusia",
+      "description": "Although small, these fish are known to play an important role in the fight against malaria as they prey on mosquito larvae.",
+      "url": "https://answersingenesis.org/natural-selection/adaptation/variation-adaptation-guppies-gambusia/",
+      "urlToImage": "https://assets.answersingenesis.org/img/cms/content/contentnode/og_image/getty-guppies.jpg",
+      "publishedAt": "2024-07-02 10:00:00",
+      "content": "The guppy fish is considered by many to be a symbol of fertility, renewal, and growth. Gambusia are likely relatives of guppies and are known as mosquito fish because they largely prey on mosquito la\u2026 [+18454 chars]",
+      "retrievedAt": "2024-07-03 19:05:48.102258",
+      "internal_id": "d5e692b7ab55e7d2182b031494f17b5a75e58e5cf15cb5fe31121db93847643f",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10730,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Zika virus spreads in Pune: Here's how the virus infects, risks, symptoms, and prevention",
+      "description": "Pune faces a rising Zika virus threat with six recent cases, including two pregnant women. Health authorities are intensifying surveillance and mosquito control efforts. Zika, transmitted by Aedes mosquitoes, poses significant risks during pregnancy, potentia\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/zika-virus-spreads-in-pune-as-pregnant-women-get-infected-heres-how-the-virus-spreads-risks-symptoms-and-prevention/articleshow/111426779.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111427618,width-1200,height-630,imgsize-16452,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-02 08:48:26",
+      "content": "Six cases of Zika virus infection have been reported in Pune city, as confirmed by health officials on Monday. Among the patients, two are pregnant women. According to officials, \"A 28-year-old pregn\u2026 [+4871 chars]",
+      "retrievedAt": "2024-07-03 19:05:48.498937",
+      "internal_id": "04dd0ddcb568aa3df7152f203faa1593a08e8dc7fb1ed034dddfc38625e6e698",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10734,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Typhoid breakout in Kota Baru school, five cases confirmed",
+      "description": "KOTA BARU: Five students from a secondary school here have been diagnosed with typhoid. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/07/02/typhoid-breakout-in-kota-baru-school-five-cases-confirmed",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/07/02/2779818.jpg",
+      "publishedAt": "2024-07-02 08:37:00",
+      "content": "KOTA BARU: Five students from a secondary school here have been diagnosed with typhoid. Kelantan Health Department director Datuk Dr Zaini Hussin said another 17 students are being screened in isola\u2026 [+1056 chars]",
+      "retrievedAt": "2024-07-03 19:05:49.512016",
+      "internal_id": "df654032c60025bb79beb2dec0b4aaa8b2c1a23c032b5bca72da81c8c8d75008",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10723,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Vogelgrippevirus - Milch von infizierten K\u00fchen gef\u00e4hrlich? Was wir \u00fcber H5N1 wissen und was nicht",
+      "description": "Die Zeit der Coronatests, Masken und Lockdowns ist vorbei. Mit der n\u00e4chsten Pandemie m\u00f6chte sich derzeit noch keiner besch\u00e4ftigen. Doch sie wird kommen, sagen Experten. M\u00f6glicherweise breitet sie sich in den USA bereits aus - und wird fr\u00fcher oder sp\u00e4ter weltw\u2026",
+      "url": "https://www.focus.de/gesundheit/news/vogelgrippe-was-wir-ueber-h5n1-wissen-und-was-nicht_id_260097661.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260101003/gettyimages-1212127408.jpg?im=Crop%3D%280%2C296%2C3463%2C1732%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=520b411216d9c23c4ec263e675dcf855c0c51a53fd6221f51971022d448fa70c",
+      "publishedAt": "2024-07-02 08:36:16",
+      "content": "Die Zeit der Coronatests, Masken und Lockdowns ist vorbei. Mit der n\u00e4chsten Pandemie m\u00f6chte sich derzeit noch keiner besch\u00e4ftigen. Doch sie wird kommen, sagen Experten. M\u00f6glicherweise breitet sie sic\u2026 [+9729 chars]",
+      "retrievedAt": "2024-07-03 19:05:46.686281",
+      "internal_id": "ad7097a1d43d6dce99f5c0f9cd0e9a1a76d3eed1bc0dd42ef937dca4795a20c0",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10719,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cnbeta.com.tw",
+      "author": "ytzong",
+      "title": "\u591a\u540d\u536b\u751f\u4e13\u5bb6\u8b66\u544a\uff1a\u79bd\u6d41\u611f\u6216\u7f13\u6162\u6f14\u53d8\u6210\u5927\u89c4\u6a21\u75ab\u60c5",
+      "description": "\u81ea2020\u5e74\u4ee5\u6765\uff0c\u79bd\u6d41\u611f\u75c5\u6bd2H5N1\u5c31\u5728\u5168\u7403\u6301\u7eed\u4f20\u64ad\uff0c\u76ee\u524d\u5df2\u7ecf\u8513\u5ef6\u81f3\u516d\u5927\u6d32\uff0c\u9664\u5927\u6d0b\u6d32\u4e4b\u5916\uff0c\u5176\u4f59\u5404\u6d32\u90fd\u6709\u53d1\u73b0\u3002\u5c3d\u7ba1\u4e16\u536b\u7ec4\u7ec7\u4e00\u76f4\u5f3a\u8c03\u8be5\u75c5\u6bd2\u5bf9\u4eba\u7c7b\u7684\u98ce\u9669\u8f83\u4f4e\uff0c\u56e0\u4e3a\u8fd8\u6ca1\u6709\u8bc1\u636e\u8bc1\u660e\u5176\u53ef\u4ee5\u5728\u4eba\u9645\u95f4\u4f20\u64ad\uff0c\u4f46\u4e0d\u5c11\u8ffd\u8e2a\u79bd\u6d41\u611f\u4f20\u64ad\u60c5\u51b5\u7684\u9876\u5c16\u75be\u75c5\u4e13\u5bb6\u8868\u793a\uff0c\u4ed6\u4eec\u8d8a\u6765\u8d8a\u62c5\u5fc3\uff0c\u8fd9\u573a\u79bd\u6d41\u611f\u53ef\u80fd\u4f1a\u7f13\u6162\u4f46\u6301\u7eed\u5730\u6f14\u53d8\u6210\u4e00\u573a\u5927\u89c4\u6a21\u7684\u75ab\u60c5\u3002 \u4e13\u5bb6\u4eec\u8fd8\u8b66\u544a\u79f0\uff0c\u7531\u4e8e\u5728\u79bd\u6d41\u611f\u76d1\u63a7\u65b9\u9762\u59cb\u7ec8\u5b58\u5728\u5927\u91cf\u6f0f\u6d1e\uff0c\u79d1\u5b66\u5bb6\u4eec\u53ef\u80fd\u4f1a\u65e0\u6cd5\u7b2c\u4e00\u65f6\u95f4\u76d1\u63a7\u548c\u6291\u5236\u8fd9\u573a\u75ab\u60c5\u7684\u7206\u53d1\u3002\u79bd\u6d41\u611f\u6b63\u7f13\u6162\u6269\u6563\u6210\u5927\u89c4\u6a21\u75ab\u60c5\u81ea2020\u5e74\u4ee5\u6765\uff0c\u5168\u7403\u591a\u56fd\u90fd\u9646\u7eed\u51fa\u73b0\u79bd\u6d41\u611f\u75c5\u6bd2H5N1\u7684\u4f20\u64ad\u75d5\u8ff9\uff0c\u4e0d\u5c11\u79d1\u5b66\u5bb6\u2026",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1436844.htm",
+      "urlToImage": "https://static.cnbetacdn.com/article/2023/1024/6a38e71be2b3292.webp",
+      "publishedAt": "2024-07-02 07:35:33",
+      "content": "0 2024-07-02 15:12:21 2020H5N1H5N1 12129 \u00b7Scott Hensley 2009H1N1 202033H5N1H5 Ron Fouchier CDC CDCJeanne Marrazzo CDC created by ceallan",
+      "retrievedAt": "2024-07-03 19:05:46.662012",
+      "internal_id": "e1c9bc41da191ca6be798efe6d233b646722d091454bcc8c28af54612c03d824",
+      "publishedAtLabel": "Jul 2"
+    },
     {
       "id": 10699,
       "query": [
@@ -25006,60 +25511,6 @@
       "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
       "retrievedAt": "2024-05-21 07:06:07.864022",
       "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9320,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "ScienceAlert",
-      "author": "Michael Head, The Conversation",
-      "title": "Whooping Cough Is Surging in The UK, And This Could Be Why",
-      "description": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024.",
-      "url": "https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why",
-      "urlToImage": "https://www.sciencealert.com/images/2024/05/WhoopingCoughOnTheRiseInUKWomenCoughing.jpg",
-      "publishedAt": "2024-05-19 11:30:09",
-      "content": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024. There have been 2,793 confirmed cases so far this year. Sadly, five infa\u2026 [+5653 chars]",
-      "retrievedAt": "2024-05-20 19:05:22.412480",
-      "internal_id": "4bec85cd0e2d6cd6b953743ed7b90cfa9eb2c27679ab316857d344b42f3e9270",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9321,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Tive dengue; quando posso me vacinar?",
-      "description": "Imunizante est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada",
-      "url": "https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
-      "publishedAt": "2024-05-19 09:00:02",
-      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada. A faixa et\u00e1ria do p\u00fablico-alvo da unidade de sa\u00fade p\u00fablica, no primeiro momento, \u00e9 para o grupo de 10 a 14 anos\u2026 [+3855 chars]",
-      "retrievedAt": "2024-05-20 19:05:24.128313",
-      "internal_id": "bc8ac58f563e0021fb17ac730746e4bffae42da4a7f284ed88cff59abf98ab2c",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9322,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Mark Smith, Professor of Water Science & Heath, University of Leeds, Chris Thomas, Global Professor in Water & Planetary Health, University of Lincoln",
-      "title": "Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future",
-      "description": "Mosquito populations can respond quickly to changing climate, which means the location of areas at risk of malaria might change.",
-      "url": "https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814",
-      "urlToImage": "https://images.theconversation.com/files/593392/original/file-20240510-22-7peqxh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2024-05-19 08:27:51",
-      "content": "Water bodies such as the Nile River, pictured here running through Juba in South Sudan, are included in the new model. Frontpage The relationship between climate and malaria transmission is complex \u2026 [+6207 chars]",
-      "retrievedAt": "2024-05-20 19:05:24.928793",
-      "internal_id": "358e0bde6a335ba396cd048daac77d6c6816ed0bc5eab02f0c68e4b729c85183",
       "publishedAtLabel": "May 19"
     }
   ]
