@@ -1,8 +1,243 @@
 {
-  "last_updated": "2024-07-03 19:05",
-  "count_articles_total": 1413,
-  "count_articles_new": 28,
+  "last_updated": "2024-07-04 07:06",
+  "count_articles_total": 1429,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 10743,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Devika Rao, The Week US)",
+      "title": "The US is at risk for dengue fever",
+      "description": "The buzz surrounding the mosquito-borne illness",
+      "url": "https://theweek.com/health/dengue-fever-growing-usa",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rqBi5Q2zEYVUrj8vn8oEwZ-1200-80.jpg",
+      "publishedAt": "2024-07-03 06:00:07",
+      "content": "As the weather warms, mosquitos are expanding their range. With that, mosquito-borne illnesses are also becoming more commonplace. The newest risk to the U.S. is dengue fever, the instances of which \u2026 [+3763 chars]",
+      "retrievedAt": "2024-07-04 07:06:35.762559",
+      "internal_id": "0366ca50996e2efe33b2dcd7b9b268dcf9863223c852eca177e997c5bddc3c17",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10736,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Bryant Hevesi",
+      "title": "Urgent health alert issued after passenger on Qantas Singapore to Melbourne flight confirmed as Victoria\u2019s latest measles case",
+      "description": "A passenger who flew into Melbourne on a Qantas international flight has been confirmed as Victoria's latest measles case, sparking an urgent health alert.",
+      "url": "https://www.skynews.com.au/lifestyle/health/urgent-health-alert-issued-after-passenger-on-qantas-singapore-to-melbourne-flight-confirmed-as-victorias-latest-measles-case/news-story/ab8938fec183c7f6eb411a16bd2a4b8c",
+      "urlToImage": "https://content.api.news/v3/images/bin/ece7b980fea8eef82759989fec32e4a8",
+      "publishedAt": "2024-07-03 05:45:15",
+      "content": "A passenger who flew into Melbourne on a Qantas international flight has been confirmed as Victoria's latest measles case, sparking an urgent health alert. The returned overseas traveller was on b\u2026 [+2092 chars]",
+      "retrievedAt": "2024-07-04 07:06:34.586355",
+      "internal_id": "a8fa7df327d44c2bf53f0e53a90da7d8ac9a98dff4193bacddff8a9bb278a505",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10744,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Cameron Webb, Clinical Associate Professor and Principal Hospital Scientist, University of Sydney",
+      "title": "Heading to Bali or somewhere tropical these holidays? Here\u2019s what you need to know about dengue fever",
+      "description": "If you\u2019re traveling to a tropical destination to escape the Australian winter, make sure to take steps to protect yourself from mosquito-borne disease such as dengue.",
+      "url": "https://theconversation.com/heading-to-bali-or-somewhere-tropical-these-holidays-heres-what-you-need-to-know-about-dengue-fever-233670",
+      "urlToImage": "https://images.theconversation.com/files/604508/original/file-20240703-17-vcy4fp.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C3216%2C1607&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-07-03 05:23:19",
+      "content": "Eszter Szadeczky-Kardoss/Shutterstock If you\u2019re looking to escape the Australian winter for your next holiday, don\u2019t forget where there\u2019s warmth, there will also be mosquitoes. In turn, tropical de\u2026 [+6050 chars]",
+      "retrievedAt": "2024-07-04 07:06:35.768759",
+      "internal_id": "b7e6407b39965ec98eb5a99bd16cdce5743802d76d8bfa379c24522348e142e0",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10737,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "FDA: Pasteurisierung t\u00f6tet A/H5N1 in Kuhmilch ab",
+      "description": "",
+      "url": "https://orf.at/stories/3362433/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-07-03 04:13:06",
+      "content": "Das potenziell hoch gef\u00e4hrliche H5N1-Vogelgrippevirus wird durch Pasteurisierung von Kuhmilch zuverl\u00e4ssig inaktiviert. Diese erleichternde Botschaft kommt jetzt von der US-Nahrungs- und Arzneimittelb\u2026 [+1760 chars]",
+      "retrievedAt": "2024-07-04 07:06:35.148641",
+      "internal_id": "13d647cdb61dd78486bba0e9256167123fa0a138d178896e85d87e0775b8b52a",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10740,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: Vogelgrippe bei Rindern - \u201eEuter ist f\u00fcr das Virus ein Huhn\u201c",
+      "description": "Viele Jahrzehnte schon sorgt die Vogelgrippe f\u00fcr heftige Erkrankungswellen unter V\u00f6geln. Rinder lie\u00df sie bisher verschont. Das hat sich pl\u00f6tzlich ge\u00e4ndert. Wie gro\u00df ist die Gefahr f\u00fcr Menschen?",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-vogelgrippe-bei-rindern-euter-ist-fur-das-virus-ein-huhn-11948534.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/weideaustrieb-in-der-milchwirtschaft1/alternates/BASE_16_9_W1400/weideaustrieb-in-der-milchwirtschaft.jpeg",
+      "publishedAt": "2024-07-03 02:02:25",
+      "content": "In den USA steigt die Zahl der mit Vogelgrippe infizierten Rinder. Mehr als 130 erfasste H5N1-Infektionen in einem Dutzend US-Bundesstaaten gibt es nach Angaben der US-Gesundheitsbeh\u00f6rde CDC inzwisch\u2026 [+11115 chars]",
+      "retrievedAt": "2024-07-04 07:06:35.183020",
+      "internal_id": "703606c1b5de73fe85d6e2955011758e0c5160eff8606920c8a86743e9c34427",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10741,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: Vogelgrippe bei Rindern - \u00abEuter ist f\u00fcr das Virus ein Huhn\u00bb",
+      "description": "Viele Jahrzehnte schon sorgt die Vogelgrippe f\u00fcr heftige Erkrankungswellen unter V\u00f6geln. Rinder lie\u00df sie bisher verschont. Das hat sich pl\u00f6tzlich ge\u00e4ndert. Wie gro\u00df ist die Gefahr f\u00fcr Menschen?",
+      "url": "https://www.tagesspiegel.de/krankheiten-vogelgrippe-bei-rindern-euter-ist-fur-das-virus-ein-huhn-11948534.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/weideaustrieb-in-der-milchwirtschaft1/alternates/BASE_16_9_W1400/weideaustrieb-in-der-milchwirtschaft.jpeg",
+      "publishedAt": "2024-07-03 02:02:25",
+      "content": "In den USA steigt die Zahl der mit Vogelgrippe infizierten Rinder. Mehr als 130 erfasste H5N1-Infektionen in einem Dutzend US-Bundesstaaten gibt es nach Angaben der US-Gesundheitsbeh\u00f6rde CDC inzwisch\u2026 [+11104 chars]",
+      "retrievedAt": "2024-07-04 07:06:35.188276",
+      "internal_id": "6548c9a18654c6fddffe90f37f0147373af157ce5067b577bb21eaa29a994808",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10748,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: Minas Gerais decreta fim da emerg\u00eancia em sa\u00fade p\u00fablica",
+      "description": "Em mar\u00e7o, o Estado chegou a responder por praticamente um em cada tr\u00eas casos prov\u00e1veis de dengue contabilizados em todo o pa\u00eds, na pior epidemia da doen\u00e7a j\u00e1 registrada no Estado",
+      "url": "https://valor.globo.com/brasil/noticia/2024/07/02/dengue-minas-gerais-decreta-fim-da-emergencia-em-saude-publica.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2024-07-03 01:04:49",
+      "content": "Ap\u00f3s mais de cinco meses da pior epidemia de dengue j\u00e1 registrada no Estado, o governo de Minas Gerais declarou o fim da situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade p\u00fablica provocada por arboviroses. Em mar\u00e7o, o\u2026 [+1645 chars]",
+      "retrievedAt": "2024-07-04 07:06:35.850016",
+      "internal_id": "46935cad8edb2930e091d10f3461bff2dea1fb7073b4a56041f358bb7366c574",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10745,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Have enough kits to determine dengue cases, says BBMP chief",
+      "description": "BBMP chief commissioner Tushar Giri Nath states that Palike has over 6,000 dengue test kits and will receive more from the government. The city has seen a significant increase in confirmed dengue cases this year, with 65 positive results out of 279 tests on J\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bbmp-chief-confirms-sufficient-number-of-ns1-antigen-test-kits-for-early-diagnosis-of-dengue/articleshow/111443784.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-02 23:40:28",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-04 07:06:35.826815",
+      "internal_id": "87fa340d465dca92e0b9f65a38165cfbbe048a188f3f36ce8f402a7a7a7a3db5",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10746,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "H1N1 on the rise in city even as malaria, dengue, lepto dip",
+      "description": "H1N1 cases are on the rise in the city while malaria, dengue, and lepto cases are decreasing. Private doctors report a surge in H1N1 cases, with patients showing high fever and lung involvement. Civic health data shows a drop in malaria, dengue, and lepto cas\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/h1n1-cases-rising-in-city-despite-drop-in-malaria-dengue-and-lepto/articleshow/111443156.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-02 23:08:35",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-04 07:06:35.835972",
+      "internal_id": "160bf3b7d26af447d2f7febad31ba03cee8c9e81153bbf0720c38b7a21e39425",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10738,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Reforma.com",
+      "author": "Grupo REFORMA",
+      "title": "Levanta M\u00e9xico emergencia por influenza aviar",
+      "description": "Luego de no registrar casos de influenza aviar, la Sader, en coordinaci\u00f3n con el Senasica, concluy\u00f3 con la emergencia zoosanitaria.",
+      "url": "https://www.reforma.com/levanta-mexico-emergencia-por-influenza-aviar/ar2834596",
+      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/441/5440445.jpg&wm=1&ang=0",
+      "publishedAt": "2024-07-02 22:50:40",
+      "content": "En el Pa\u00eds se registraron los primeros casos de H5N1 en 2022, y entre 2022 y 2023 afect\u00f3 cerca de 6.5 millones de aves. Cr\u00e9dito: Cortes\u00eda Sader",
+      "retrievedAt": "2024-07-04 07:06:35.157584",
+      "internal_id": "cecccab9a86268f5f6c9d84665ab5de9bd9a62582d26427784216eb604a92e45",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10742,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Reforma.com",
+      "author": "Grupo REFORMA",
+      "title": "Cierra M\u00e9xico emergencia por influenza aviar",
+      "description": "Luego de no registrar casos de influenza aviar, la Sader en coordinaci\u00f3n con el Senasica declar\u00f3 el cierre de emergencia zoosanitaria.",
+      "url": "https://www.reforma.com/cierra-mexico-emergencia-por-influenza-aviar/ar2834596",
+      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/441/5440445.jpg&wm=1&ang=0",
+      "publishedAt": "2024-07-02 22:50:40",
+      "content": "En el Pa\u00eds se registraron los primeros casos de H5N1 en 2022, y entre 2022 y 2023 afect\u00f3 cerca de 6.5 millones de aves. Cr\u00e9dito: Cortes\u00eda Sader",
+      "retrievedAt": "2024-07-04 07:06:35.212004",
+      "internal_id": "b0804de217ee1718ef4b73272ccd2845868f7abe8419fe77418b13e6c271d1b5",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10747,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Minas Gerais decreta fim da emerg\u00eancia em sa\u00fade p\u00fablica",
+      "description": "O decreto de emerg\u00eancia, iniciado em janeiro, permitiu a\u00e7\u00f5es mais r\u00e1pidas e eficientes no combate ao mosquito Aedes aegypti, vetor da dengue",
+      "url": "https://brasil.perfil.com/saude/minas-gerais-decreta-fim-da-emergencia-em-saude-publica.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/07/02/1335524021-abre-perfil-brasil-42-1.jpg",
+      "publishedAt": "2024-07-02 22:27:14",
+      "content": "Depois de enfrentar uma severa epidemia, que primeiro colocou o estado de Minas Gerais como l\u00edder em n\u00famero de casos no pa\u00eds, a not\u00edcia aliviadora veio: o fim da situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade p\u00fabli\u2026 [+2144 chars]",
+      "retrievedAt": "2024-07-04 07:06:35.841243",
+      "internal_id": "cf39c9a2353a81347a4780b38e8c47aa5164ed39db00361ef9d41a9d2dfd7fed",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 10739,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Beth Mole",
+      "title": "US prepares for bird flu pandemic with $176M Moderna vaccine deal",
+      "description": "Phase 3 trial is expected to begin next year.",
+      "url": "https://arstechnica.com/science/2024/07/us-prepares-for-bird-flu-pandemic-with-176m-moderna-vaccine-deal/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2150341585-760x380.jpg",
+      "publishedAt": "2024-07-02 19:14:50",
+      "content": "19 The US government will pay Moderna $176 million to develop an mRNA vaccine against a pandemic influenzaan award given as the highly pathogenic bird flu virus H5N1 continues to spread widely among\u2026 [+5583 chars]",
+      "retrievedAt": "2024-07-04 07:06:35.176991",
+      "internal_id": "957f65cf172095d103c01988c4674fa5d6ee707b4abe18bf3cdf032b970294aa",
+      "publishedAtLabel": "Jul 2"
+    },
     {
       "id": 10725,
       "query": [
@@ -25511,6 +25746,60 @@
       "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
       "retrievedAt": "2024-05-21 07:06:07.864022",
       "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9320,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Michael Head, The Conversation",
+      "title": "Whooping Cough Is Surging in The UK, And This Could Be Why",
+      "description": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024.",
+      "url": "https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why",
+      "urlToImage": "https://www.sciencealert.com/images/2024/05/WhoopingCoughOnTheRiseInUKWomenCoughing.jpg",
+      "publishedAt": "2024-05-19 11:30:09",
+      "content": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024. There have been 2,793 confirmed cases so far this year. Sadly, five infa\u2026 [+5653 chars]",
+      "retrievedAt": "2024-05-20 19:05:22.412480",
+      "internal_id": "4bec85cd0e2d6cd6b953743ed7b90cfa9eb2c27679ab316857d344b42f3e9270",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9321,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Tive dengue; quando posso me vacinar?",
+      "description": "Imunizante est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada",
+      "url": "https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
+      "publishedAt": "2024-05-19 09:00:02",
+      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada. A faixa et\u00e1ria do p\u00fablico-alvo da unidade de sa\u00fade p\u00fablica, no primeiro momento, \u00e9 para o grupo de 10 a 14 anos\u2026 [+3855 chars]",
+      "retrievedAt": "2024-05-20 19:05:24.128313",
+      "internal_id": "bc8ac58f563e0021fb17ac730746e4bffae42da4a7f284ed88cff59abf98ab2c",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9322,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Mark Smith, Professor of Water Science & Heath, University of Leeds, Chris Thomas, Global Professor in Water & Planetary Health, University of Lincoln",
+      "title": "Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future",
+      "description": "Mosquito populations can respond quickly to changing climate, which means the location of areas at risk of malaria might change.",
+      "url": "https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814",
+      "urlToImage": "https://images.theconversation.com/files/593392/original/file-20240510-22-7peqxh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-05-19 08:27:51",
+      "content": "Water bodies such as the Nile River, pictured here running through Juba in South Sudan, are included in the new model. Frontpage The relationship between climate and malaria transmission is complex \u2026 [+6207 chars]",
+      "retrievedAt": "2024-05-20 19:05:24.928793",
+      "internal_id": "358e0bde6a335ba396cd048daac77d6c6816ed0bc5eab02f0c68e4b729c85183",
       "publishedAtLabel": "May 19"
     }
   ]

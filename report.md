@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2024-07-03 19:05
-- **Most recent article:** 2024-07-02 18:36:09
+- **New articles in last harvest:** 13
+- **Last harvest:** 2024-07-04 07:06
+- **Most recent article:** 2024-07-03 06:00:07
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 54 | 61 | 64 | 115 | 62 | 105 | 21 | 482 |
-| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 20 | 377 |
-| malaria | 16 | 25 | 21 | 37 | 20 | 24 | 8 | 151 |
+| dengue | 55 | 61 | 64 | 115 | 62 | 105 | 27 | 489 |
+| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 26 | 383 |
+| malaria | 17 | 25 | 21 | 37 | 20 | 24 | 9 | 153 |
 | mpox | 8 | 16 | 8 | 26 | 14 | 46 | 7 | 125 |
-| measles | 15 | 16 | 11 | 7 | 11 | 8 | 3 | 71 |
+| measles | 15 | 16 | 11 | 7 | 11 | 8 | 4 | 72 |
 | chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 4 | 66 |
 | rabies | 8 | 15 | 9 | 2 | 5 | 8 | 1 | 48 |
 | zika | 3 | 3 | 0 | 12 | 3 | 17 | 8 | 46 |
-| pertussis | 5 | 6 | 9 | 11 | 11 | 3 | 0 | 45 |
+| pertussis | 6 | 6 | 9 | 11 | 11 | 3 | 0 | 46 |
 | hpai | 7 | 12 | 2 | 4 | 4 | 3 | 0 | 32 |
 | meningitis | 4 | 1 | 6 | 3 | 1 | 1 | 0 | 16 |
 | leptospirosis | 0 | 5 | 1 | 1 | 1 | 2 | 1 | 11 |
@@ -80,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (measles)
 
+- [Urgent health alert issued after passenger on Qantas Singapore to Melbourne flight confirmed as Victoria’s latest measles case](https://www.skynews.com.au/lifestyle/health/urgent-health-alert-issued-after-passenger-on-qantas-singapore-to-melbourne-flight-confirmed-as-victorias-latest-measles-case/news-story/ab8938fec183c7f6eb411a16bd2a4b8c) (Sky News Australia)
+
 - [How RFK Jr. Falsely Denied His Connection to a Deadly Measles Outbreak in Samoa (David Corn/Mother Jones)](https://www.memeorandum.com/240702/p38) (Memeorandum.com)
 
 - [How RFK Jr. Falsely Denied His Connection to a Deadly Measles Outbreak in Samoa](https://www.motherjones.com/politics/2024/07/how-rfk-jr-falsely-denied-his-connection-to-a-deadly-measles-outbreak-in-samoa/) (Mother Jones)
@@ -87,6 +89,8 @@ Source: [News API](https://newsapi.org/)
 - [Vaccine breakthrough protects the immunocompromised from the unvaxxed](https://newatlas.com/medical/measles-vaccine-discovery/) (New Atlas)
 
 ## 24-27 (malaria)
+
+- [H1N1 on the rise in city even as malaria, dengue, lepto dip](https://timesofindia.indiatimes.com/city/mumbai/h1n1-cases-rising-in-city-despite-drop-in-malaria-dengue-and-lepto/articleshow/111443156.cms) (The Times of India)
 
 - [How climate change is affecting where species live](https://phys.org/news/2024-07-climate-affecting-species.html) (Phys.Org)
 
@@ -109,6 +113,18 @@ Source: [News API](https://newsapi.org/)
 - [Outbreak of Intermediate Species Leptospira venezuelensis Spread by Rodents to Cows and Humans in L. interrogans–Endemic Region, Venezuela](https://wwwnc.cdc.gov/eid/article/30/8/23-1562_article) (Cdc.gov)
 
 ## 24-27 (h5n1)
+
+- [FDA: Pasteurisierung tötet A/H5N1 in Kuhmilch ab](https://orf.at/stories/3362433/) (Orf.at)
+
+- [Krankheiten: Vogelgrippe bei Rindern - „Euter ist für das Virus ein Huhn“](https://www.tagesspiegel.de/wissen/krankheiten-vogelgrippe-bei-rindern-euter-ist-fur-das-virus-ein-huhn-11948534.html) (Der Tagesspiegel)
+
+- [Krankheiten: Vogelgrippe bei Rindern - «Euter ist für das Virus ein Huhn»](https://www.tagesspiegel.de/krankheiten-vogelgrippe-bei-rindern-euter-ist-fur-das-virus-ein-huhn-11948534.html) (Der Tagesspiegel)
+
+- [Levanta México emergencia por influenza aviar](https://www.reforma.com/levanta-mexico-emergencia-por-influenza-aviar/ar2834596) (Reforma.com)
+
+- [Cierra México emergencia por influenza aviar](https://www.reforma.com/cierra-mexico-emergencia-por-influenza-aviar/ar2834596) (Reforma.com)
+
+- [US prepares for bird flu pandemic with $176M Moderna vaccine deal](https://arstechnica.com/science/2024/07/us-prepares-for-bird-flu-pandemic-with-176m-moderna-vaccine-deal/) (Ars Technica)
 
 - [ΗΠΑ: 176 εκατ. δολάρια στη Moderna για την ανάπτυξη εμβολίου κατά της γρίπης των πτηνών](https://www.naftemporiki.gr/health/1703951/ipa-176-ekat-dolaria-sti-moderna-gia-tin-anaptyxi-emvolioy-kata-tis-gripis-ton-ptinon/) (Naftemporiki.gr)
 
@@ -151,6 +167,18 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: Dutch expert sees parallels to Q fever outbreaks](https://www.statnews.com/2024/07/01/h5n1-bird-flu-snapshot-q-fever/) (STAT)
 
 ## 24-27 (dengue)
+
+- [The US is at risk for dengue fever](https://theweek.com/health/dengue-fever-growing-usa) (The Week Magazine)
+
+- [Heading to Bali or somewhere tropical these holidays? Here’s what you need to know about dengue fever](https://theconversation.com/heading-to-bali-or-somewhere-tropical-these-holidays-heres-what-you-need-to-know-about-dengue-fever-233670) (The Conversation Africa)
+
+- [Dengue: Minas Gerais decreta fim da emergência em saúde pública](https://valor.globo.com/brasil/noticia/2024/07/02/dengue-minas-gerais-decreta-fim-da-emergencia-em-saude-publica.ghtml) (Globo)
+
+- [Have enough kits to determine dengue cases, says BBMP chief](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-chief-confirms-sufficient-number-of-ns1-antigen-test-kits-for-early-diagnosis-of-dengue/articleshow/111443784.cms) (The Times of India)
+
+- [H1N1 on the rise in city even as malaria, dengue, lepto dip](https://timesofindia.indiatimes.com/city/mumbai/h1n1-cases-rising-in-city-despite-drop-in-malaria-dengue-and-lepto/articleshow/111443156.cms) (The Times of India)
+
+- [Minas Gerais decreta fim da emergência em saúde pública](https://brasil.perfil.com/saude/minas-gerais-decreta-fim-da-emergencia-em-saude-publica.phtml) (Perfil.com)
 
 - [El Salvador decreta alerta sanitaria tras la muerte de tres niños por dengue](https://www.forbes.com.mx/el-salvador-decreta-alerta-sanitaria-tras-la-muerte-de-tres-ninos-por-dengue/) (Forbes.com.mx)
 
@@ -2766,6 +2794,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
 
+- [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
+
 ## 24-21 (mpox)
 
 - [CDC says vaccination could protect the U.S. from more dangerous mpox virus](https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753) (NBC News)
@@ -2859,6 +2889,8 @@ Source: [News API](https://newsapi.org/)
 - [SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms) (The Times of India)
 
 - [Serum Institute ships first R21/Matrix-M malaria vaccine to Africa](https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece) (BusinessLine)
+
+- [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (hpai)
 
@@ -3175,6 +3207,8 @@ Source: [News API](https://newsapi.org/)
 - [Learning English Podcast - May 20, 2024](https://learningenglish.voanews.com/a/7598921.html) (VOA News)
 
 - [Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos más afectados](https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/) (La Nacion)
+
+- [Tive dengue; quando posso me vacinar?](https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html) (Ig.com.br)
 
 ## 24-21 (chikungunya)
 
