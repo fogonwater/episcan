@@ -1,8 +1,587 @@
 {
-  "last_updated": "2024-07-04 07:06",
-  "count_articles_total": 1429,
-  "count_articles_new": 13,
+  "last_updated": "2024-07-04 19:05",
+  "count_articles_total": 1458,
+  "count_articles_new": 32,
   "articles": [
+    {
+      "id": 10749,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "CDC Reports Fourth Human Case of H5 Bird Flu Tied to Dairy Cow Outbreak",
+      "description": "A human case of highly pathogenic avian influenza (HPAI) A(H5) (\u201cH5 bird flu\u201d) virus infection in the United States has been identified in the state of Colorado.",
+      "url": "https://www.cdc.gov/media/releases/2024/p-0703-4th-human-case-h5.html",
+      "urlToImage": "https://www.cdc.gov/media/images/releases/about-cdc-fb_pr.jpg",
+      "publishedAt": "2024-07-03 18:56:27",
+      "content": "July 3, 2024 \u2013 A human case of highly pathogenic avian influenza (HPAI) A(H5) (\u201cH5 bird flu\u201d) virus infection in the United States has been identified in the state of Colorado. This is the fourth cas\u2026 [+3514 chars]",
+      "retrievedAt": "2024-07-04 19:05:45.766141",
+      "internal_id": "cadaf68e970c0db5c577a4a6c3009cc2573316c505451aa9267da0f244829e4c",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10771,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Zika cases in Maharashtra: Govt asks states to maintain vigil, focus on screening pregnant women",
+      "description": "NEW DELHI, July 3: In view of some cases of Zika virus reported from parts of Maharashtra, the Union Health Ministry on Wednesday issued an advisory to all states highlighting the need for maintaining a constant vigil over the situation in the country. States\u2026",
+      "url": "https://thehillstimes.in/national/zika-cases-in-maharashtra-govt-asks-states-to-maintain-vigil-focus-on-screening-pregnant-women",
+      "urlToImage": null,
+      "publishedAt": "2024-07-03 18:40:16",
+      "content": "NEW DELHI, July 3: In view of some cases of Zika virus reported from parts of Maharashtra, the Union Health Ministry on Wednesday issued an advisory to all states highlighting the need for maintainin\u2026 [+2858 chars]",
+      "retrievedAt": "2024-07-04 19:05:48.692454",
+      "internal_id": "6f350e62eee84c8e8e8b0cc4a5958cc92cfc9c6e177b106f739d515e8b86d8ee",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10752,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Arianna Johnson, Forbes Staff, \n Arianna Johnson, Forbes Staff\n https://www.forbes.com/sites/ariannajohnson/",
+      "title": "Bird Flu (H5N1) Explained: Second Colorado Person Infected\u20145th U.S. Case",
+      "description": "Bird flu typically spreads among birds, but there have been recent outbreaks among cattle in the U.S., and one Texas man contracted the virus from sick cows. Here\u2019s why so many experts are worried about a possible new pandemic.",
+      "url": "https://www.forbes.com/sites/ariannajohnson/2024/07/03/bird-flu-h5n1-explained-second-colorado-person-infected-5th-us-case/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662a9d6a4635389a14a348ae/0x0.jpg?format=jpg&crop=2812,1581,x0,y128,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-03 18:31:56",
+      "content": "Heres the latest news about a global outbreak of H5N1 bird flu that started in 2020, and recently spread among cattle in U.S. states and marine mammals across the world, which has health officials cl\u2026 [+14292 chars]",
+      "retrievedAt": "2024-07-04 19:05:46.188317",
+      "internal_id": "6904b95afafbb2ceadc62f83902ea9ceab6cb01828e3860abde0cf98ab15a4ad",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10766,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Angelica Stabile",
+      "title": "Local dengue fever cases confirmed in Florida Keys, spread by mosquito bites",
+      "description": "Two locally acquired cases of mosquito-borne dengue fever have been confirmed in the Florida Keys. Officials and experts share prevention efforts as infections hit record highs around the world.",
+      "url": "https://www.foxnews.com/health/local-dengue-fever-cases-confirmed-florida-keys-spread-mosquito-bites",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/mosquito-florida-split.png",
+      "publishedAt": "2024-07-03 17:59:55",
+      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. By entering your email and pushing continue, you are ag\u2026 [+5631 chars]",
+      "retrievedAt": "2024-07-04 19:05:47.259085",
+      "internal_id": "3d508cb4a0ad2ae8a0cf06ad17f7ec7c9059853c3296050c377365852f24b066",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10755,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Pasteurization inactivates highly infectious avian flu in milk, study suggests",
+      "description": "Researchers found no infectious virus in the sampled pasteurized milk products tested for H5N1.",
+      "url": "https://www.sciencedaily.com/releases/2024/07/240703131735.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-07-03 17:17:35",
+      "content": "In March 2024, dairy cows in Texas were found to be infected with highly pathogenic avian flu, or H5N1 bird flu, in the first known case of the virus spreading to cattle. Since then, H5N1 has been fo\u2026 [+2632 chars]",
+      "retrievedAt": "2024-07-04 19:05:46.254337",
+      "internal_id": "3d58affaa7db6951306a281f3c34aa6fcc5b4a655ab5f15359d79e090d917ea9",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10767,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Mobile phone data helps track pathogen spread and evolution of superbugs",
+      "description": "Combining genomic data and human travel patterns over a 14-year period in South Africa reveals key insights into the spread, evolution and resistance patterns of a major bacterium behind pneumonia and meningitis globally.",
+      "url": "https://www.sciencedaily.com/releases/2024/07/240703131714.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-07-03 17:17:14",
+      "content": "A new way to map the spread and evolution of pathogens, and their responses to vaccines and antibiotics, will provide key insights to help predict and prevent future outbreaks. The approach combines \u2026 [+5262 chars]",
+      "retrievedAt": "2024-07-04 19:05:47.442273",
+      "internal_id": "e9253d7a4ba72aa08c15d767c67f2c62070360ccb3435b6984042289a6156b17",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10765,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso Dengue nel Fiorentino, Asl 'disinfestazione entro domani'",
+      "description": "Una persona residente nel Comune di Certaldo (Firenze), in una zona di campagna e con poche abitazioni, ha contratto l'arbovirosi da Dengue in seguito ad un soggiorno all'estero. Lo comunica l'Asl Toscana centro. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2024/07/03/caso-dengue-nel-fiorentino-asl-disinfestazione-entro-domani_68548cb3-6b88-44d2-9b03-574cd57afad9.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/4/10/041557102afbd1e56aa7c817a46827c7.jpg",
+      "publishedAt": "2024-07-03 16:42:09",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-07-04 19:05:47.245226",
+      "internal_id": "d8579797f95ed5d5396fcb3e7d6b91045723cf80b7af481fd9a4c3235f2bd70d",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10777,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Peerzada Arshad Hamid",
+      "title": "India's health ministry issues advisory to states on Zika virus cases from Maharashtra",
+      "description": "NEW DELHI, July 3 (Xinhua) -- India's federal health ministry Wednesday issued an advisory to all states in the South Asian country in view of Zika virus cases being reported from Maharashtra. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/07/04/india039s-health-ministry-issues-advisory-to-states-on-zika-virus-cases-from-maharashtra",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-07-03 16:23:00",
+      "content": "NEW DELHI, July 3 (Xinhua) -- India's federal health ministry Wednesday issued an advisory to all states in the South Asian country in view of Zika virus cases being reported from Maharashtra. The \u2026 [+1221 chars]",
+      "retrievedAt": "2024-07-04 19:05:48.753107",
+      "internal_id": "e4bab6fad6aad48780461aee808dba86f52e555abff5416bcc3aa22036e7267d",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10754,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "\"Da braut sich etwas zusammen\": Virologin Eckerle fordert Vogelgrippe-Pr\u00e4vention",
+      "description": "In den USA breitet sich das Virus H5N1 unter Milchk\u00fchen aus. Isabella Eckerle, Expertin f\u00fcr neuartige Viruserkrankungen, sieht die Entwicklung mit Sorge. Ohne Gegenma\u00dfnahmen, sagt sie, k\u00f6nnte die Lage schnell kritisch werden - und der Erreger den Sprung in de\u2026",
+      "url": "https://www.n-tv.de/infografik/H5N1-Ausbruch-in-den-USA-Virologin-warnt-vor-unkontrollierten-Kuh-Infektionen-article25061055.html",
+      "urlToImage": "https://bilder1.n-tv.de/img/incoming/crop25052744/9011321112-cImg_16_9-w1200/2018-10-25T110725Z-338256960-RC175FEC5500-RTRMADP-3-TRADE-NAFTA-DAIRY.jpg",
+      "publishedAt": "2024-07-03 15:14:47",
+      "content": "In den USA breitet sich das Virus H5N1 unter Milchk\u00fchen aus. Isabella Eckerle, Expertin f\u00fcr neuartige Viruserkrankungen, sieht die Entwicklung mit Sorge. Ohne Gegenma\u00dfnahmen, sagt sie, k\u00f6nnte die Lag\u2026 [+1848 chars]",
+      "retrievedAt": "2024-07-04 19:05:46.209593",
+      "internal_id": "fa32cd9f3a5c76cb8af86c81c0311e88e3156067bdcd9541a659746773a9d8dd",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10758,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Dengue fever alert issued in Florida Keys",
+      "description": "Health officials in the Florida Keys have issued a dengue fever alert after two cases were found to be locally contracted. The Centers for Disease Control and Prevention has warned of a heightened risk of infections in the U.S. More than 240 travel-related ca\u2026",
+      "url": "https://www.cbsnews.com/video/dengue-fever-alert-issued-in-florida-keys/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/03/ceb6031f-95f1-41b6-a8a1-bd2715de14d0/thumbnail/1200x630/e20da3b1f276d6be400d2fbb347a70d2/cbsn-fusion-dengue-fever-alert-issued-in-florida-keys-thumbnail.jpg?v=57e8061b2038d609da26e467de5ddfb8",
+      "publishedAt": "2024-07-03 15:03:00",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-07-04 19:05:47.132952",
+      "internal_id": "18b00f974f9845d5e05d3f4718b042e0fcd0c7c86913a2b1426687c3771074a8",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10775,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Sanket Koul",
+      "title": "Centre issues Zika advisory to states amid detection of cases in Maha",
+      "description": "\"Health facilities must identify a nodal officer to monitor and act to keep the premises free of Aedes mosquitoes,\" the advisory stated",
+      "url": "https://www.business-standard.com/health/centre-issues-zika-advisory-to-states-amid-detection-of-cases-in-maha-124070301045_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/03/thumb/fitandfill/400X400/1720006500-8544.jpg",
+      "publishedAt": "2024-07-03 14:44:33",
+      "content": "\"Health facilities must identify a nodal officer to monitor and act to keep the premises free of Aedes mosquitoes,\" the advisory stated Representative Picture Sanket KoulNew Delhi The central gove\u2026 [+2665 chars]",
+      "retrievedAt": "2024-07-04 19:05:48.738429",
+      "internal_id": "68d48b7eafc1171323e87db1f504e4ccaac429e8ad182a3d405974f2b5c0adb9",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10753,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Thea Petrik",
+      "title": "Vogelgrippe durch H5N1-Virus: Betr\u00e4gt die Todesrate bei Menschen wirklich 52 Prozent?",
+      "description": "WHO und Medien geben schockierende Zahlen an. Was es damit auf sich hat und warum die US-Gesundheitsbeh\u00f6rde mehr Tests empfiehlt.",
+      "url": "https://www.telepolis.de/features/Vogelgrippe-durch-H5N1-Virus-Betraegt-die-Todesrate-bei-Menschen-wirklich-52-Prozent-9788654.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/2/7/2/3/4/cow-7575802_1280-41e9983339a3a0d1.jpeg",
+      "publishedAt": "2024-07-03 14:00:00",
+      "content": "Wie genau das Virus von V\u00f6geln auf K\u00fche \u00fcbersprang, ist nicht bekannt. Symbolbild: Jools Theriault / Pixabay Licence WHO und Medien geben schockierende Zahlen an. Was es damit auf sich hat und warum\u2026 [+2683 chars]",
+      "retrievedAt": "2024-07-04 19:05:46.200861",
+      "internal_id": "b7c103b435ece4f13fb770113da6c774d0477d2109beb36a7e6b19bfc6c9ac1a",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10763,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Hsin-I Shih, Yu-Ping Wang, Chia-Yu Chi, Yu-Wen Chien",
+      "title": "Risks of anxiety disorders, depressive disorders, and sleep disorders in patients with dengue fever: A nationwide, population-based cohort study",
+      "description": "Author summary Dengue fever is a mosquito-borne tropical disease caused by the dengue virus. Several DENV-induced psychiatric disorders such as anxiety and depression have been identified. Most of the previous studies conducted in the acute stage. Whether dee\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012239",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012239.g002&size=inline",
+      "publishedAt": "2024-07-03 14:00:00",
+      "content": "Abstract Background Dengue virus (DENV) infection, a common mosquito-borne disease, has been linked to several mental disorders like depression and anxiety. However, the temporal risk of these diso\u2026 [+37422 chars]",
+      "retrievedAt": "2024-07-04 19:05:47.218461",
+      "internal_id": "2984122e25109bd19b49ce633adaac1f889104064e13ce013b2d55e7246cd319",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10769,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Carol S. Palackdharry, Stephanie Wottrich, Erin Dienes, Mohamad Bydon, Michael P. Steinmetz, Vincent C. Traynelis",
+      "title": "Correction: The leptomeninges as a critical organ for normal CNS development and function: First patient and public involved systematic review of arachnoiditis (chronic meningitis)",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306765",
+      "urlToImage": null,
+      "publishedAt": "2024-07-03 14:00:00",
+      "content": "The first authors name is spelled incorrectly. The correct name is: Carol S. Palackdharry. The correct citation is: Palackdharry CS, Wottrich S, Dienes E, Bydon M, Steinmetz MP, Traynelis VC (2022) T\u2026 [+1205 chars]",
+      "retrievedAt": "2024-07-04 19:05:47.454622",
+      "internal_id": "dc5d6fe4e3ba2215683b6e6c6245cc3c14f45f05ad1813511b90c417b67480ba",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10770,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yubing Hu, Yuling Li, Awtum M. Brashear, Weilin Zeng, Zifang Wu, Lin Wang, Haichao Wei, Myat Thu Soe, Pyae Linn Aung, Jetsumon Sattabongkot, Myat Phone Kyaw, Zhaoqing Yang, Yan Zhao, Liwang Cui, Yaming Cao",
+      "title": "Plasmodium vivax populations in the western Greater Mekong Subregion evaluated using a genetic barcode",
+      "description": "Author summary In the Great Mekong Subregion (GMS), particularly in Myanmar, vivax malaria remains a significant challenge to malaria elimination. To effectively evaluate the impact of ongoing malaria control measures, it is essential to understand the geneti\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012299",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012299.g005&size=inline",
+      "publishedAt": "2024-07-03 14:00:00",
+      "content": "Abstract An improved understanding of the Plasmodium vivax populations in the Great Mekong Subregion (GMS) is needed to monitor the progress of malaria elimination. This study aimed to use a P. viva\u2026 [+52408 chars]",
+      "retrievedAt": "2024-07-04 19:05:48.147634",
+      "internal_id": "317dfc6f533f029e6f8e5f58011f2dc3f372baf0e6b760f225802884659fed50",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10757,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Checkyourfact.com",
+      "author": "Christine Sellers",
+      "title": "FACT CHECK: Instagram Post Makes False Claim About Gates Foundation, H5N1 Bird Flu",
+      "description": "A post shared on Facebook claims the Bill and Melinda Gates Foundation purportedly awarded $9.5 million to the University of Wisconsin-Madison to make the H5N1 bird flu transmissible to humans. View this post on Instagram A post shared by Missmischief09 (\u2026",
+      "url": "https://checkyourfact.com/2024/07/03/fact-check-instagram-post-makes-false-claim-about-gates-foundation-h5n1-bird-flu/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/07/GettyImages-2151909041-e1719927204847.jpg",
+      "publishedAt": "2024-07-03 12:49:21",
+      "content": "A post shared on Facebook claims the Bill and Melinda Gates Foundation purportedly awarded $9.5 million to the University of Wisconsin-Madison to make the H5N1 bird flu transmissible to humans. Verd\u2026 [+2905 chars]",
+      "retrievedAt": "2024-07-04 19:05:46.281478",
+      "internal_id": "ab59a8d0b9e223e903bfa01ae230e6605cfd22c72f95cd03189163797b47e49b",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10773,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Sonika Nitin Nimje",
+      "title": "Zika virus: All you need to know about this mosquito-transmitted disease",
+      "description": "Zika virus cases: The Centre today issued an advisory to all states considering the rising Zika cases in Maharashtra, asking for 'constant vigil and focus on pregnant women who have tested positive for the infection'",
+      "url": "https://www.business-standard.com/india-news/zika-virus-all-you-need-to-know-about-this-mosquito-transmitted-disease-124070300780_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/03/thumb/fitandfill/400X400/1720006500-8544.jpg",
+      "publishedAt": "2024-07-03 12:16:21",
+      "content": "The Centre today issued an advisory to all states considering the rising Zika cases in Maharashtra, asking for 'constant vigil and focus on pregnant women who have tested positive for the infection' \u2026 [+4548 chars]",
+      "retrievedAt": "2024-07-04 19:05:48.724027",
+      "internal_id": "661a5158347ea5815041b0fe25aa9c91a03616cc2f7cb4f844687e2ccdaf796d",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10751,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Cristina G. Lucio, \u00c1lvaro Matilla (Infograf\u00edas)",
+      "title": "La amenaza de la gripe aviar: \"Este virus est\u00e1 avisando de su potencial\"",
+      "description": "El reciente 'salto' al ganado vacuno en EEUU de un pat\u00f3geno que hasta hace poco solo afectaba a las aves preocupa a los expertos, que piden m\u00e1s vigilancia para el H5N1, que \u00absube pelda\u00f1os en la escala de riesgo pand\u00e9mico\u00bb Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/07/03/66841fabfdddfff9848b458b.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/22df739a7ed07b8eeb3758f5435ca36b/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/02/17199445339793.jpg",
+      "publishedAt": "2024-07-03 12:08:20",
+      "content": "\u00abTenemos que llevar a cabo una vigilancia muy estrecha porque este virus est\u00e1 avisando de su potencial y cada vez subimos m\u00e1s pelda\u00f1os en la escala de riesgo\u00bb. Como otros expertos en gripe aviar, Eli\u2026 [+376 chars]",
+      "retrievedAt": "2024-07-04 19:05:46.175776",
+      "internal_id": "b0a32223aeb00a4f56e18a58bc62be79cac8f4e5903eb6bd69e75d76aba51256",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10750,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "taz. die tageszeitung",
+      "title": "Die wichtigsten Antworten zu H5N1: Zahlreiche Infektionen bei Rindern",
+      "description": "Die Vogelgrippe springt vermehrt auch auf S\u00e4ugetiere \u00fcber. K\u00f6nnte sie die n\u00e4chste Pandemie ausl\u00f6sen? Und was ist das verursachende Virus H5N1?",
+      "url": "https://taz.de/Die-wichtigsten-Antworten-zu-H5N1/!6021456/",
+      "urlToImage": "https://taz.de/picture/7098022/948/35719788-1.jpeg",
+      "publishedAt": "2024-07-03 11:56:00",
+      "content": "Die Vogelgrippe springt vermehrt auch auf S\u00e4ugetiere \u00fcber. K\u00f6nnte sie die n\u00e4chste Pandemie ausl\u00f6sen? Und was ist das verursachende Virus H5N1? Der j\u00fcngste Move des Vogelgrippe-Virus: Auch Rinder k\u00f6n\u2026 [+11429 chars]",
+      "retrievedAt": "2024-07-04 19:05:46.170276",
+      "internal_id": "5dd14380acdc83310c8f6ed478e9d8f954579bb84050c01acdf58a58cafc8451",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10776,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Press Trust of India",
+      "title": "Govt asks states to be vigilant after Zika cases rise in Maharashtra",
+      "description": "In view of some cases of Zika virus reported from parts of Maharashtra, the Union Health Ministry on Wednesday issued an advisory to all states highlighting the need for maintaining a constant vigil over the situation in the country. States have been urged to\u2026",
+      "url": "https://www.business-standard.com/india-news/govt-asks-states-to-be-vigilant-after-zika-cases-rise-in-maharashtra-124070300528_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/03/thumb/fitandfill/400X400/1720006500-8544.jpg",
+      "publishedAt": "2024-07-03 11:40:06",
+      "content": "Besides the advisory by Director General of Health Services Dr Atul Goel, the ministry also asked health facilities to identify a nodal officer to monitor and act to keep the premises free of Aedes m\u2026 [+290 chars]",
+      "retrievedAt": "2024-07-04 19:05:48.743443",
+      "internal_id": "10260a7f8a739f7f555c0ba78624c320bf42945c3952e547142cc52e31fc8aed",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10779,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Sascha Karberg",
+      "title": "Nicht vorbereitet auf Vogelgrippe und Mpox : Haben wir aus Corona gelernt? Offensichtlich nicht",
+      "description": "Ob Vogelgrippe oder Mpox-Virus: Ein vermeintlich weit entfernter Ausbruch kann schnell ein globales Ungl\u00fcck werden. Die richtigen Schl\u00fcsse aus der Coronapandemie fehlen noch.",
+      "url": "https://www.tagesspiegel.de/wissen/nicht-vorbereitet-auf-vogelgrippe-und-mpox-haben-wir-aus-corona-gelernt-offensichtlich-nicht-11947178.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/2020-02-07t000000z534550501rc2mve9jjlx5rtrmadp3china-healthjpeg/alternates/BASE_16_9_W1400/2020-02-07t000000z534550501rc2mve9jjlx5rtrmadp3china-healthjpeg.jpeg",
+      "publishedAt": "2024-07-03 11:34:43",
+      "content": "Haben wir eigentlich irgendetwas gelernt aus Corona? Haben wir verstanden, dass Pandemien am besten und billigsten zu bek\u00e4mpfen sind, indem man fr\u00fch dagegen vorgeht?",
+      "retrievedAt": "2024-07-04 19:05:49.229014",
+      "internal_id": "54d63291c5cd14e60734cf66e5f7ea8292c0e570f7c68d88a7fd5267e1c4d010",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10780,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Sascha Karberg",
+      "title": "Nicht vorbereitet auf Vogelgrippe und Mpox : Die Lehren aus der Coronazeit sind noch leer",
+      "description": "Ob die Vogelgrippe in den USA oder das neue Mpox-Virus im Kongo: Vielen scheint nicht klar, dass ein vermeintlich weit entfernter Ausbruch schnell ein globales Ungl\u00fcck werden kann. Die richtigen Schl\u00fcsse aus der Coronapandemie fehlen noch.",
+      "url": "https://www.tagesspiegel.de/wissen/nicht-vorbereitet-auf-vogelgrippe-und-mpox-die-lehren-aus-der-coronazeit-sind-noch-leer-11947178.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/vogel002-vogelgrippe-in-tschechien/alternates/BASE_16_9_W1400/vogel002-vogelgrippe-in-tschechien.jpeg",
+      "publishedAt": "2024-07-03 11:34:43",
+      "content": "Haben wir eigentlich irgendetwas gelernt aus Corona? Haben wir verstanden, dass Pandemien am besten und billigsten zu bek\u00e4mpfen sind, indem man fr\u00fch dagegen vorgeht?",
+      "retrievedAt": "2024-07-04 19:05:49.234328",
+      "internal_id": "f9a63868495a121b6b006e2801b433836793411590d6949e2755c3140b046c82",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10778,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Nicole McCain",
+      "title": "News24 | WHO ships more mpox meds to SA as cases climb",
+      "description": "In response to the mpox outbreak in South Africa, the World Health Organisation (WHO) is in the process of shipping medication for the treatment of an additional 50 people for mpox locally.",
+      "url": "https://www.news24.com/news24/southafrica/news/who-ships-more-mpox-meds-to-sa-as-cases-climb-20240703",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/172/b12a52c54eba41969d1aaa15a51bae85.jpg",
+      "publishedAt": "2024-07-03 11:25:42",
+      "content": "Medication sufficient for the treatment of 50 people for mpox is being shipped to South Africa, according to the WHO.Currently, there is only enough medication for 15 people.<li\u2026 [+2544 chars]",
+      "retrievedAt": "2024-07-04 19:05:49.219999",
+      "internal_id": "e62752be9d90421341715dd6a5b783b5e1300de38933ddad5cb201d43fc9c156",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10772,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Zika Virus Cases From Maharashtra: Centre Issues Advisory To States",
+      "description": "The health facilities and hospitals have been assigned a nodal officer to monitor and act to keep the premises Aedes mosquito-free.",
+      "url": "https://www.ndtv.com/india-news/centre-issues-advisory-to-states-in-view-of-zika-virus-cases-from-maharashtra-6025480",
+      "urlToImage": "https://c.ndtvimg.com/2018-12/1lmjpsgo_zika-virus_625x300_01_December_18.jpg",
+      "publishedAt": "2024-07-03 11:12:12",
+      "content": "Zika virus has been spreading in Pune, with two more cases being reported on Monday. Mumbai: The Union Health Ministry has urged the states to maintain a constant state of vigilance through screenin\u2026 [+2044 chars]",
+      "retrievedAt": "2024-07-04 19:05:48.697997",
+      "internal_id": "7a72482deafe8ce7101aa5255f6cd2b2a6d20d66839e426b171d0b458dc35c8e",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10761,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Vin\u00edcius Nunes",
+      "title": "Fim da epidemia de dengue em MG anima governo, que quer mais",
+      "description": "Minist\u00e9rio da Sa\u00fade constatou queda de casos de dengue em todo o pa\u00eds; outros Estados podem seguir o exemplo",
+      "url": "https://www.metropoles.com/blog-do-noblat/fim-da-epidemia-de-dengue-em-mg-anima-governo-que-quer-mais",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/05/20133115/Dengue-compressed-2.jpg",
+      "publishedAt": "2024-07-03 11:00:32",
+      "content": "A revoga\u00e7\u00e3o do decreto que institu\u00eda situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade p\u00fablica devido \u00e0 epidemia de dengue em Minas Gerais foi muito bem recebida pelo governo Lula (PT). O Minist\u00e9rio da Sa\u00fade j\u00e1 havia \u2026 [+1241 chars]",
+      "retrievedAt": "2024-07-04 19:05:47.186597",
+      "internal_id": "37a19fff35e0ad41a2907e7260bccce8ece0088ac1430ee49ac57a3f65173b0a",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10774,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u0905\u091a\u0932\u0947\u0902\u0926\u094d\u0930 \u0915\u091f\u093f\u092f\u093e\u0930",
+      "title": "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092e\u0947\u0902 \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938 \u0915\u0947 \u0906\u0920 \u092e\u093e\u092e\u0932\u0947, \u0915\u0947\u0902\u0926\u094d\u0930 \u0938\u0930\u0915\u093e\u0930 \u0915\u0947 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f \u0928\u0947 \u091c\u093e\u0930\u0940 \u0915\u0940 \u0939\u0947\u0932\u094d\u0925 \u090f\u0921\u0935\u093e\u0907\u091c\u0930\u0940",
+      "description": "Zika Virus Alert: \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092e\u0947\u0902 \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938 \u0915\u0947 \u0915\u0941\u0932 \u092e\u093e\u092e\u0932\u094b\u0902 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u092c\u095d\u0915\u0930 \u0906\u0920 \u0939\u094b \u0917\u0908 \u0939\u0948\u0964 \u0930\u093e\u091c\u094d\u092f \u0915\u0947 \u092a\u0941\u0923\u0947 \u092e\u0947\u0902 \u0905\u0915\u0947\u0932\u0947 \u0938\u093e\u0924 \u092e\u093e\u092e\u0932\u0947 \u0930\u093f\u092a\u094b\u0930\u094d\u091f \u0939\u094b \u091a\u0941\u0915\u0947 \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926 \u0915\u0947\u0902\u0926\u094d\u0930 \u0938\u0930\u0915\u093e\u0930 \u0915\u0940 \u0924\u0930\u092b \u0938\u0947 \u0939\u0947\u0932\u094d\u0925 \u090f\u0921\u0935\u093e\u0907\u091c\u0930\u0940 \u091c\u093e\u0930\u0940 \u0915\u0940 \u0917\u0908 \u0939\u0948\u0964 \u0907\u0938\u092e\u0947\u0902 \u0915\u0939\u093e \u0917\u092f\u093e \u0939\u0948 \u0915\u093f \u0930\u093e\u091c\u094d\u092f \u0905\u092a\u0928\u0947 \u0938\u094d\u0924\u0930 \u090f\u0921\u0940\u091c \u092e\u091a\u094d\u091b\u0930\u094b\u0902 \u0915\u094b \u0928 \u092a\u0928\u092a\u2026",
+      "url": "https://navbharattimes.indiatimes.com/metro/mumbai/other-news/union-health-ministry-issues-advisory-to-all-states-after-zika-virus-cases-reported-in-maharashtra/articleshow/111457637.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-79780,msid-111457220/navbharat-times.jpg",
+      "publishedAt": "2024-07-03 09:59:21",
+      "content": " ... , ?12990 Laptops! Amazon Sale , 22 1320 ... , Adv: , 50% , , 20 2024 , .. , Live , ... , ? 5\u2026 [+129 chars]",
+      "retrievedAt": "2024-07-04 19:05:48.733023",
+      "internal_id": "73b2c623b79939dcac1312b5ebd52a10d62962800f3dba4a648f6c0b825d0244",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10764,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Zika virus cases in Maharashtra: Govt urges vigilance, focus on pregnant women screening",
+      "description": "Zika is an Aedes mosquito-borne viral disease like dengue and chikungunya. Though non-fatal, Zika is associated with microcephaly (a condition where the head is much smaller than expected) in babies born to affected pregnant women which makes it a cause of ma\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/zika-virus-cases-in-maharashtra-govt-urges-vigilance-focus-on-pregnant-women-screening/articleshow/111456837.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111457064,width-1200,height-630,imgsize-1876426,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-03 09:36:08",
+      "content": "New Delhi: In response to recent Zika virus cases in Maharashtra, the Union Health Ministry issued an advisory on Wednesday, urging states to maintain constant vigilance. The advisory emphasises the \u2026 [+2801 chars]",
+      "retrievedAt": "2024-07-04 19:05:47.223376",
+      "internal_id": "ce681974084d6e9af2abc89965b46e9d061dbe00c160b90b59793bb86cbeab9b",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10759,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Redacci\u00f3n HuffPost",
+      "title": "Vinculan a los viajeros el \"mayor brote de la historia\" de esta enfermedad en Reino Unido",
+      "description": "Seg\u00fan un informe del Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC) sobre las amenazas de las enfermedades transmisibles, desde principios de 2024 se observa una \"continua tendencia al alza\" de los casos de dengue importado\u2026",
+      "url": "https://www.huffingtonpost.es/life/salud/vinculan-viajeros-mayor-brote-historia-enfermedad-reino-unido.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/07/03/mosquito-aedes-aegypti.jpeg",
+      "publishedAt": "2024-07-03 08:07:08",
+      "content": "Seg\u00fan un informe del Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC) sobre las amenazas de las enfermedades transmisibles, desde principios de 2024 se observa una \"continua ten\u2026 [+726 chars]",
+      "retrievedAt": "2024-07-04 19:05:47.146179",
+      "internal_id": "961bd238ee81ebb1c13d38a252131e271881fca1a0b7375a47804bf478176a87",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10768,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Pneumococcal Meningitis Global Clinical Trials Review and Competitive Landscape Report 2024",
+      "description": "Dublin, July 03, 2024 (GLOBE NEWSWIRE) -- The \"Pneumococcal Meningitis - Global Clinical Trials Review, 2024\" clinical trials has been added to ResearchAndMarkets.com's offering.The analyst's clinical trial report provides top line data relating to the clinic\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/07/03/2907967/28124/en/Pneumococcal-Meningitis-Global-Clinical-Trials-Review-and-Competitive-Landscape-Report-2024.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2024-07-03 08:07:00",
+      "content": "Dublin, July 03, 2024 (GLOBE NEWSWIRE) -- The \"Pneumococcal Meningitis - Global Clinical Trials Review, 2024\" clinical trials has been added to ResearchAndMarkets.com's offering. The analyst's clini\u2026 [+4342 chars]",
+      "retrievedAt": "2024-07-04 19:05:47.448101",
+      "internal_id": "b38380c4de3face86eb36d24fbfcf861e6d1c26c929c11b75f4c31aff55ada50",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10760,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Dengue-Fieber: El Salvador l\u00f6st Epidemie-Alarm aus",
+      "description": "In Folge des Klimawandels breitet sich die Gelbfieberm\u00fccke immer st\u00e4rker aus. Allein im ersten Halbjahr 2024 wurden zehn Millionen Infektionen und tausende Tote gez\u00e4hlt.",
+      "url": "https://www.tagesspiegel.de/gesundheit/dengue-fieber-el-salvador-lost-epidemie-alarm-aus-11949017.html",
+      "urlToImage": "https://www.tagesspiegel.de/gesundheit/images/gelbfieber-in-brasilien/alternates/BASE_16_9_W1400/gelbfieber-in-brasilien.jpeg",
+      "publishedAt": "2024-07-03 07:54:53",
+      "content": "Die Gesundheitsbeh\u00f6rden in El Salvador haben wegen zahlreicher schwerer Verl\u00e4ufe von Dengue-Infektionen bei Kindern Epidemie-Alarm ausgel\u00f6st. Die Tagesspiegel-App Aktuelle Nachrichten, Hintergr\u00fcnde \u2026 [+1918 chars]",
+      "retrievedAt": "2024-07-04 19:05:47.169894",
+      "internal_id": "a70f54f173a2028f23931ad0e1c1aed3d1406c0737702e7be30c611f46853bed",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10762,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Monsoon arrives, list of infections and diseases to be careful about",
+      "description": "During the monsoon season in India, several types of infections and disorders become prevalent due to increased humidity, waterlogging, and other environmental factors. Monsoon season in India brings a surge of infections like Dengue, Malaria, Cholera, Typhoi\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/monsoon-arrives-list-of-infections-and-diseases-to-be-careful-about/articleshow/111453175.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111453199,width-1070,height-580,imgsize-519590,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-03 07:50:34",
+      "content": "Why should one not ignore flu? What are the severe risks associated with it?",
+      "retrievedAt": "2024-07-04 19:05:47.209692",
+      "internal_id": "3148628cf786bee0204b47c5e89be35945bded857f9d8825967db09ec14d3741",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10756,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cnbeta.com.tw",
+      "author": "ytzong",
+      "title": "\u7f8e\u653f\u5e9c\u62e8\u6b3e1.76\u4ebf\u7f8e\u5143 \u7528\u4e8eModerna\u79bd\u6d41\u611f\u75ab\u82d7\u5f00\u53d1",
+      "description": "\u81ea3\u6708\u4efd\u4ee5\u6765\uff0c\u7f8e\u56fd\u591a\u4e2a\u5dde\u7684\u517b\u725b\u573a\u4e2d\u7206\u53d1\u4e86\u79bd\u6d41\u611fH5N1\u75c5\u6bd2\u75ab\u60c5\uff0c\u5e76\u6709\u4e09\u540d\u5976\u725b\u573a\u5de5\u4eba\u611f\u67d3\uff0c\u8fd9\u5f15\u8d77\u4e86\u4eba\u4eec\u7684\u62c5\u5fe7\u3002\u7f8e\u4e1c\u65f6\u95f4\u5468\u4e8c\uff0cModerna\u516c\u53f8\u900f\u9732\uff0c\u7f8e\u56fd\u653f\u5e9c\u5df2\u5411Moderna\u516c\u53f8\u62e8\u6b3e1.76\u4ebf\u7f8e\u5143\uff0c\u4ee5\u63a8\u8fdb\u5176\u79bd\u6d41\u611f\u75ab\u82d7\u7684\u7814\u53d1\u3002 \u7f8e\u56fd\u653f\u5e9c\u62e8\u6b3e\u4fc3\u8fdb\u7814\u53d1\u75ab\u82d7\u7f8e\u56fd\u751f\u7269\u533b\u5b66\u9ad8\u7ea7\u7814\u7a76\u4e0e\u5f00\u53d1\u5c40\u5411Moderna\u62e8\u51fa\u4e86\u8fd9\u7b14\u8d44\u91d1\uff0c\u7528\u4e8e\u4ee5mRNA\u4e3a\u57fa\u7840\u7684H5N1\u79bd\u6d41\u611f\u75ab\u82d7\u7684\u540e\u671f\u5f00\u53d1\u548c\u6d4b\u8bd5\u3002\u7f8e\u56fd\u5b98\u5458\u5728\u65b0\u95fb\u7535\u8bdd\u4f1a\u4e0a\u900f\u9732\uff0c\u76ee\u524d\u6b63\u5728\u7b49\u5f85\u8be5\u75ab\u82d7\u7684\u7b2c\u4e00\u9636\u6bb5\u8bd5\u9a8c\u7684\u7ed3\u679c\uff0c\u9884\u8ba1\u5c06\u5728\u672a\u6765\u51e0\u5468\u516c\u5e03\u3002\u6839\u636e\u7b2c\u4e00\u9636\u6bb5\u7684\u8bd5\u9a8c\u7ed3\u679c\uff0c\u516c\u53f8\u8fd8\u5c06\u5f00\u5c55\u540e\u671f\u8bd5\u9a8c\u3002\u540e\u671f\u8bd5\u9a8c\u53ef\u80fd\u2026",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1436963.htm",
+      "urlToImage": "https://static.cnbetacdn.com/thumb/article/2020/1116/ed23e2667358ccc.jpg",
+      "publishedAt": "2024-07-03 07:35:26",
+      "content": "Kioxia BiCS FLASH 2 Tb QLC 2024-07-03 140",
+      "retrievedAt": "2024-07-04 19:05:46.260445",
+      "internal_id": "43780f466485db0e97fa67a5ce838f8d3615b7f0e35aae760ab88eeb54340ba9",
+      "publishedAtLabel": "Jul 3"
+    },
     {
       "id": 10743,
       "query": [
@@ -25746,60 +26325,6 @@
       "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
       "retrievedAt": "2024-05-21 07:06:07.864022",
       "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9320,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "ScienceAlert",
-      "author": "Michael Head, The Conversation",
-      "title": "Whooping Cough Is Surging in The UK, And This Could Be Why",
-      "description": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024.",
-      "url": "https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why",
-      "urlToImage": "https://www.sciencealert.com/images/2024/05/WhoopingCoughOnTheRiseInUKWomenCoughing.jpg",
-      "publishedAt": "2024-05-19 11:30:09",
-      "content": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024. There have been 2,793 confirmed cases so far this year. Sadly, five infa\u2026 [+5653 chars]",
-      "retrievedAt": "2024-05-20 19:05:22.412480",
-      "internal_id": "4bec85cd0e2d6cd6b953743ed7b90cfa9eb2c27679ab316857d344b42f3e9270",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9321,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Tive dengue; quando posso me vacinar?",
-      "description": "Imunizante est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada",
-      "url": "https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
-      "publishedAt": "2024-05-19 09:00:02",
-      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada. A faixa et\u00e1ria do p\u00fablico-alvo da unidade de sa\u00fade p\u00fablica, no primeiro momento, \u00e9 para o grupo de 10 a 14 anos\u2026 [+3855 chars]",
-      "retrievedAt": "2024-05-20 19:05:24.128313",
-      "internal_id": "bc8ac58f563e0021fb17ac730746e4bffae42da4a7f284ed88cff59abf98ab2c",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9322,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Mark Smith, Professor of Water Science & Heath, University of Leeds, Chris Thomas, Global Professor in Water & Planetary Health, University of Lincoln",
-      "title": "Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future",
-      "description": "Mosquito populations can respond quickly to changing climate, which means the location of areas at risk of malaria might change.",
-      "url": "https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814",
-      "urlToImage": "https://images.theconversation.com/files/593392/original/file-20240510-22-7peqxh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2024-05-19 08:27:51",
-      "content": "Water bodies such as the Nile River, pictured here running through Juba in South Sudan, are included in the new model. Frontpage The relationship between climate and malaria transmission is complex \u2026 [+6207 chars]",
-      "retrievedAt": "2024-05-20 19:05:24.928793",
-      "internal_id": "358e0bde6a335ba396cd048daac77d6c6816ed0bc5eab02f0c68e4b729c85183",
       "publishedAtLabel": "May 19"
     }
   ]
