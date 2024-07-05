@@ -1,8 +1,404 @@
 {
-  "last_updated": "2024-07-05 07:05",
-  "count_articles_total": 1473,
-  "count_articles_new": 12,
+  "last_updated": "2024-07-05 19:05",
+  "count_articles_total": 1492,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 10811,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Govt steps up measures against Zika, no cases yet",
+      "description": "Panaji: The health department has not reported any suspected Zika virus cases in Goa.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/govt-steps-up-measures-against-zika-no-cases-yet/articleshow/111495868.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-04 18:56:26",
+      "content": "In pics: Saree Tales by Juliana",
+      "retrievedAt": "2024-07-05 19:05:44.082280",
+      "internal_id": "47b4a4a04d889db609cf6507b2a454b66538e0386453e1b67154af6f7064e340",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10808,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "In Candolim dengue battle, construction sites are targeted",
+      "description": "Calangute: The Candolim primary health centre (PHC) in show cause notices to two construction sites, has sought to know within five days why the const.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/in-candolim-dengue-battle-construction-sites-are-targeted/articleshow/111495859.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111495857,width-1070,height-580,imgsize-24912,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-04 18:53:11",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-05 19:05:43.138137",
+      "internal_id": "590ff12b89507131882d6974d920c2770479c8dccea34f163f0a8d8aff852342",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10793,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times News Network",
+      "title": "Mission Rabies to vaccinate dogs across Tiswadi taluka",
+      "description": "Panaji: After two dogs in Divar tested positive for rabies, Mission Rabies on Thursday said that a plan has been devised to vaccinate all dogs against.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/mission-rabies-to-vaccinate-dogs-across-tiswadi-taluka/articleshow/111495788.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-04 18:38:05",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-05 19:05:42.021791",
+      "internal_id": "5930ab2c29e2b9e63cffa57309662cd293c9689e6cf36e56d839ed79766fe8bb",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10809,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Em 6 meses, Brasil registra mais mortes por dengue do que em 7 anos somados",
+      "description": "O Brasil registrou 4.367 mortes por dengue desde janeiro de 2024, segundo dados do painel de ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/em-6-meses-brasil-registra-mais-mortes-por-dengue-do-que-em-7-anos-somados,807a7557a1bca42eb72b9a80b8b8bb411f2cd1uv.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/18/765946093-dengue-brasil-registra-quase-6-milhoes-de-casos-e-4-mil-mortes.jpg",
+      "publishedAt": "2024-07-04 18:08:27",
+      "content": "O Brasil registrou 4.367 mortes por dengue desde janeiro de 2024, segundo dados do painel de monitoramento do Minist\u00e9rio da Sa\u00fade. Essa quantia \u00e9 maior do que a registrada nos \u00faltimos sete anos somad\u2026 [+1051 chars]",
+      "retrievedAt": "2024-07-05 19:05:43.153687",
+      "internal_id": "0053732b2cc44c496b9e0196616716c120b79eb5785612613fd2763117171887",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10796,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u039c\u03b1\u03c1\u03af\u03b1 \u0393\u03b5\u03c9\u03c1\u03b3\u03b1\u03ba\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5",
+      "title": "\u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1: \u0397 \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b1\u03bd\u03b1\u03b3\u03ba\u03ac\u03b6\u03b5\u03b9 \u03c4\u03b1 McDonald\u2019s \u03bd\u03b1 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03af\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c0\u03c1\u03c9\u03b9\u03bd\u03bf\u03cd",
+      "description": "\u0397 \u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03af\u03b6\u03b5\u03b9 \u03bc\u03b9\u03b1 \u03ba\u03c1\u03af\u03c3\u03b7 \u03b5\u03c6\u03bf\u03b4\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03bc\u03b5 \u03b1\u03c5\u03b3\u03ac \u03c7\u03ac\u03c1\u03b7 \u03c3\u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u2013 \u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03bf\u03b4\u03ae\u03b3\u03b7\u03c3\u03b5 \u03c4\u03b1 McDonald\u2019s \u03bd\u03b1 \u03bc\u03b5\u03b9\u03ce\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c0\u03c1\u03c9\u03b9\u03bd\u03bf\u03cd \u03ba\u03b1\u03c4\u03ac 90 \u03bb\u03b5\u03c0\u03c4\u03ac, \u03cc\u03c0\u03c9\u03c2\u2026 \u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1: \u0397 \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b1\u03bd\u03b1\u03b3\u03ba\u03ac\u03b6\u03b5\u03b9 \u03c4\u03b1 McDonald\u2019s \u03bd\u03b1 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03af\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c0\u03c1\u2026",
+      "url": "https://www.naftemporiki.gr/kosmos/1706149/aystralia-i-gripi-ton-ptinon-anagkazei-ta-mcdonalds-na-periorisoyn-tis-ores-proinoy/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2016/01/1058970.jpeg",
+      "publishedAt": "2024-07-04 17:30:32",
+      "content": "\u2013 McDonald\u2019s 90 , . , 1 , , , . \u00ab \u00bb, McDonald\u2019s 10.30 .. . \u00ab , \u00bb, McDonald\u2019s Facebook , \u00ab \u00bb. , . Coles Woolworths . \u00ab \u00bb, , , . H7 HPAI 11 . ; , Rowan McMonnies, Australian Eggs, . \u00ab 20 \u2026 [+75 chars]",
+      "retrievedAt": "2024-07-05 19:05:42.327510",
+      "internal_id": "8f005f965a275e2b5fee57b32c03b74a664e0652e3f75b59886361d09c625b8e",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10806,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Dengue pode desencadear quadro de depress\u00e3o, afirma estudo",
+      "description": "Pesquisadores do Taiwan descobriram que os pacientes com dengue tinham uma probabilidade maior de desenvolver transtornos como a depress\u00e3o",
+      "url": "https://www.metropoles.com/saude/dengue-associada-risco-depressao-estudo",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/07/04110312/depressao-pos-dengue.jpg",
+      "publishedAt": "2024-07-04 16:29:15",
+      "content": "Uma pesquisa recente feita em Taiwan sugere que pessoas infectadas pelo v\u00edrus da dengue possuem um risco elevado de desenvolver transtornos psiqui\u00e1tricos, incluindo depress\u00e3o e ansiedade, a curto e l\u2026 [+2569 chars]",
+      "retrievedAt": "2024-07-05 19:05:43.113994",
+      "internal_id": "c940acafb1b15c1013542534b8494eb35b6e01b456838940a0f5a864bc27152f",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10794,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "NI records sharp rise in measles cases",
+      "description": "There have been 11 cases of measles in Northern Ireland in 2024 and 68 in the Republic of Ireland.",
+      "url": "https://www.bbc.com/news/articles/cd1rykyrvvlo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4948/live/ebe6d9f0-3a0f-11ef-9345-cb4d3b559a65.jpg",
+      "publishedAt": "2024-07-04 15:30:10",
+      "content": "A skin rash is a common symptom of measles, and appears after a few days of cold-like symptoms There have been 11 cases of measles recorded in Northern Ireland in the past 6 months. In the Republic\u2026 [+3693 chars]",
+      "retrievedAt": "2024-07-05 19:05:42.199737",
+      "internal_id": "075f146d92b55bf063a2b1395a0c1d9cb1ccae8ab1ed3acb9064523f93be75a9",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10812,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Wiktor Piech",
+      "title": "\u201eNajniebezpieczniejszy z dotychczasowych\u201d. Nowy wariant wirusa mpox szaleje",
+      "description": "Jak podaje \u015awiatowa Organizacja Zdrowia, nowy szczep wirusa mpox zaczyna si\u0119 szybko rozprzestrzenia\u0107 wzd\u0142u\u017c wschodniej granicy Demokratycznej Republiki Konga. Organizacja stwierdza, \u017ce nowy wariant jest \u201enajniebezpieczniejszym z dotychczasowych\u201d. Co o nim wia\u2026",
+      "url": "https://geekweek.interia.pl/aktywnosc/zdrowie/news-najniebezpieczniejszy-z-dotychczasowych-nowy-wariant-wirusa-,nId,7624002",
+      "urlToImage": "https://i.iplsc.com/-/000JEYJMDIJ4YK07-C461-F4.jpg",
+      "publishedAt": "2024-07-04 15:25:54",
+      "content": "Mpox, kt\u00f3ry wczeniej znany by jako ospa mapia, jest zakan chorob wirusow atakujc zwierzta i ludzi. Gono zrobio si o niej w 2022 roku, kiedy udokumentowano du liczb nowych przypadk\u00f3w choroby w wielu m\u2026 [+2993 chars]",
+      "retrievedAt": "2024-07-05 19:05:44.524584",
+      "internal_id": "30ad7a70f916d2d71a90cebf9c56efa7016cd4cc52670793423db08c7f2877b9",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10804,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Frank Ochmann",
+      "title": "Fragen und Antworten: Impfen gegen die Vogelgrippe? Was Sie jetzt wissen m\u00fcssen",
+      "description": "Nach Kontakt mit infizierten K\u00fchen steckten sich in den USA bislang vier Menschen mit dem Erreger H5N1 an. Auch die EU beobachtet das Geschehen und beginnt in Finnland ein vorsorgliches Impfprogramm. Warum ausgerechnet dort?",
+      "url": "https://www.stern.de/gesundheit/vogelgrippe-h5n1--warum-in-finnland-menschen-geimpft-werden-34852534.html",
+      "urlToImage": "https://image.stern.de/34854390/t/La/v3/w1440/r1.7778/-/huehner.jpg",
+      "publishedAt": "2024-07-04 15:20:00",
+      "content": "In den USA greift ein besonders gef\u00e4hrliches Vogelgrippe-Virus vom Typ H5N1 immer weiter auf Milchkuhbest\u00e4nde \u00fcber. In wenigen F\u00e4llen ist es dabei auch zu \u00dcbertragungen auf Menschen gekommen. Bei uns\u2026 [+304 chars]",
+      "retrievedAt": "2024-07-05 19:05:42.731313",
+      "internal_id": "2c700c0ee04fa8cc062cc3c19c89a64da52118d696b591c18abddb1b311a3ad1",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10810,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "B M, S., H C, V., Singhal, R., Singh, K., N, S. N., Tripathi, P. K., Singh, P., Eapen, A., Singh, S. P., Sinha, D. P., Malla, W. A., Gupta, S. K., Yadav, C. P., Singh, P., Aggarwal, C. S., P Choudhary, V., Sharma, R., Jain, T., Sharma, A., Anvikar, A. R., Goel, A., Rahi, M.",
+      "title": "Community perspective and healthcare assessment in malaria endemic states of India: a cross-sectional study protocol",
+      "description": "Introduction India\u2019s contribution to the malaria burden was highest in South-East Asia Region in 2021, accounting for 79% of the estimated malaria cases and 83% of malaria-related deaths. Intensified Malaria Control Programme supported by Global Funds to Fi\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/7/e081856",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-07-04 15:08:20",
+      "content": "Introduction The World Malaria Report (2022) estimated 247million malaria cases, accounting for approximately 0.62million deaths from 84 malaria-endemic countries in 2021.1 The WHOs South-East Asia \u2026 [+7113 chars]",
+      "retrievedAt": "2024-07-05 19:05:43.828078",
+      "internal_id": "e031cbc532cbeadd9d176346be1b96d19bfc5fa62bee15334ec8feea8d6c249d",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10798,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Pharmaceutical Technology",
+      "author": "Alex Blair",
+      "title": "Does H5N1 avian influenza have pandemic potential?",
+      "description": "As Finland administers the world\u2019s first avian influenza vaccine for humans, the WHO says H5N1 has \u201cpandemic potential\u201d.",
+      "url": "https://www.pharmaceutical-technology.com/features/does-h5n1-avian-influenza-have-pandemic-potential/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ujwX8rIK1IVuXs3ET6Jlqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/pharmaceutical_technology_376/85cc63b2b8325322a07e954c0abcd82c",
+      "publishedAt": "2024-07-04 14:53:25",
+      "content": "The global medical community is beginning to mobilise in response to the growing threat of pandemic posed by the H5N1 strain of avian influenza. On 2 July, the US government chose Moderna to develop\u2026 [+6987 chars]",
+      "retrievedAt": "2024-07-05 19:05:42.638610",
+      "internal_id": "c7c4da4b29cca9931ed1d99fd1047ac38a08d47cc914566fe91d129c907c8c42",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10799,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ferra.ru",
+      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
+      "title": "\u0423\u0447\u0435\u043d\u044b\u0435 \u0434\u043e\u043a\u0430\u0437\u0430\u043b\u0438 \u043f\u043e\u043b\u0435\u0437\u043d\u043e\u0441\u0442\u044c \u043a\u0438\u043f\u044f\u0447\u0435\u043d\u0438\u044f \u043c\u043e\u043b\u043e\u043a\u0430: \u044d\u0442\u043e \u0443\u0431\u0438\u0432\u0430\u0435\u0442 \u043f\u0442\u0438\u0447\u0438\u0439 \u0433\u0440\u0438\u043f\u043f",
+      "description": "\u0423\u0447\u0435\u043d\u044b\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0438, \u0447\u0442\u043e \u043f\u0430\u0441\u0442\u0435\u0440\u0438\u0437\u0430\u0446\u0438\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e \u0438\u043d\u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442 \u0432\u044b\u0441\u043e\u043a\u043e\u043f\u0430\u0442\u043e\u0433\u0435\u043d\u043d\u044b\u0439 \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0432 \u043c\u043e\u043b\u043e\u043a\u0435. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u044b\u043b\u043e \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u043e \u043f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u0432 \u0421\u0428\u0410 \u0432\u0438\u0440\u0443\u0441 \u0431\u044b\u043b \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d \u0443 \u043a\u043e\u0440\u043e\u0432 \u0432 \u0422\u0435\u0445\u0430\u0441\u0435 \u0432 \u043c\u0430\u0440\u0442\u0435 2024 \u0433\u043e\u0434\u0430. \u0421 \u0442\u0435\u0445 \u043f\u043e\u0440 \u0432\u0438\u0440\u0443\u0441 H5N1 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u2026",
+      "url": "https://www.ferra.ru/news/health/uchenye-dokazali-poleznost-kipyacheniya-moloka-eto-ubivaet-ptichii-gripp-04-07-2024.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2024/07/04/12/6522582/6ffb2d4a8fd9c68583e30e75b0d656eba7259f3d.jpeg",
+      "publishedAt": "2024-07-04 14:01:37",
+      "content": "300 132 , . \" \", - , , . , Journal of Virology, , , . H5N1 , , . . .",
+      "retrievedAt": "2024-07-05 19:05:42.647469",
+      "internal_id": "52875ec6e9e401e0aba53cc029951a25f25685c151e5fc268a3ad9f0a494d160",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10800,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u00ab\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2\u00bb \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b3\u03c1\u03b9\u03c0\u03ae \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd- \u0391\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03c3\u03c7\u03ad\u03b4\u03b9\u03bf \u03b4\u03c1\u03ac\u03c3\u03b7\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0395\u039f\u0394\u03a5",
+      "description": "\u0397 \u03bc\u03b5\u03c4\u03ac\u03b4\u03bf\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b1\u03c0\u03cc \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf \u03c3\u03b5 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf \u03b4\u03b5\u03bd \u03ad\u03c7\u03b5\u03b9 \u03b1\u03bd\u03b1\u03c6\u03b5\u03c1\u03b8\u03b5\u03af \u03c0\u03b1\u03b3\u03ba\u03bf\u03c3\u03bc\u03af\u03c9\u03c2 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae\u03c2",
+      "url": "https://www.skai.gr/news/health/eody-sxedio-drasis-gia-ti-gripi-ton-ptinon",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2022-11/birdflu2911_ap.jpg?itok=_vXmiRcO",
+      "publishedAt": "2024-07-04 14:00:23",
+      "content": "H5N1 . , , . , . , . 51, , , , . 2 2024, , (tabletop exercise) 51, , . , , , . , / . H5N1 . .Skai.gr Google News .",
+      "retrievedAt": "2024-07-05 19:05:42.699815",
+      "internal_id": "5848d8ed8c43f76ce9337a7d11d7ceb47b7816db4e24abb5031142ee84efef03",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10802,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u03a3\u03c0\u03c5\u03c1\u03bf\u03c2 \u03a0\u03bb\u03bf\u03c5\u03bc\u03b9\u03b4\u03b7\u03c2",
+      "title": "\u03a3\u03c7\u03ad\u03b4\u03b9\u03bf \u03b4\u03c1\u03ac\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c0\u03b9\u03b8\u03b1\u03bd\u03ce\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c4\u03b7\u03c2 \u0393\u03c1\u03af\u03bf\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03a0\u03c4\u03b7\u03bd\u03ce\u03bd \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7\u03bd \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1 \u03ad\u03be\u03b1\u03c1\u03c3\u03b7",
+      "description": "\u0397 \u0393\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03a0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03ad\u03be\u03b1\u03c1\u03c3\u03b7 \u03c3\u03b5 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf \u03ba\u03b1\u03b9 \u03bf \u0395\u039f\u0394\u03a5 \u03b5\u03bc\u03c6\u03b1\u03bd\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b1\u03bd\u03ae\u03c3\u03c5\u03c7\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03bd\u03ad\u03b1\u03c2 \u03ba\u03c1\u03af\u03c3\u03b7\u03c2. \u039c\u03ac\u03bb\u03b9\u03c3\u03c4\u03b1 \u03c3\u03c4\u03b1 \u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5 \u03ad\u03b3\u03b9\u03bd\u03b5 \u03ac\u03c3\u03ba\u03b7\u03c3\u03b7 \u03b5\u03c0\u03af \u03c7\u03ac\u03c1\u03c4\u03bf\u03c5 \u03c4\u03b7\u03bd \u03a4\u03c1\u03af\u03c4\u03b7\u03c2 (02/07/2024) \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c0\u03b9\u03b8\u03b1\u03bd\u03ce\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7 \u0393\u03c1\u03af\u03c0\u03b7 \u03c4\u2026",
+      "url": "https://www.newsit.gr/ellada/gripi-ton-ptinon-sxedio-drasis-tou-eody-gia-tin-diaxeirisi-pithanon-krousmaton-meta-tin-pagkosmia-eksarsi/4127081/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2024/07/kotes.jpg",
+      "publishedAt": "2024-07-04 13:59:38",
+      "content": ". (02/07/2024) 51 . , . 51, , , , . (tabletop exercise) 51, , . , , , . , / . H5N1 . H5N1 . , , . , . , : 2006: H5N1 , , .2016-2017: 58, 56, 55 , , , , .2021: H5N8 .2022: H5\u2026 [+83 chars]",
+      "retrievedAt": "2024-07-05 19:05:42.710536",
+      "internal_id": "af44b1cd4448ba9ba3c23e44ecd0b827d26da76e7ed33f7bfc5f82015aee75d0",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10801,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u039a\u03b1\u03bc\u03c0\u03b1\u03bd\u03ac\u03ba\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0395\u039f\u0394\u03a5 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd, \u03bf\u03b9 \u03b4\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2 \u03c0\u03c1\u03cc\u03bb\u03b7\u03c8\u03b7\u03c2",
+      "description": "\u03a4\u03bf \u03c4\u03b5\u03c4\u03c1\u03ac\u03bc\u03b7\u03bd\u03bf \u03b1\u03c0\u03cc \u0394\u03b5\u03ba\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf 2023 \u03ad\u03c9\u03c2 \u039c\u03ac\u03c1\u03c4\u03b9\u03bf 2024 \u03b5\u03c3\u03c4\u03af\u03b5\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03cd\u03c0\u03bf\u03c5 \u0391(H5\u039dx) \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03b5 227 \u03bf\u03b9\u03ba\u03cc\u03c3\u03b9\u03c4\u03b5\u03c2 \u03b5\u03ba\u03c4\u03c1\u03bf\u03c6\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03b5 414 \u03c0\u03b5\u03c1\u03b9\u03c0\u03c4\u03ce\u03c3\u03b5\u03b9\u03c2 \u03ac\u03b3\u03c1\u03b9\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03b5 26 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u03c2 | \u0395\u039f\u0394\u03a5 | \u0393\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd | \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+      "url": "https://www.protothema.gr/greece/article/1516354/kabanaki-apo-ton-eodu-gia-tin-anisuhitiki-auxisi-ton-krousmaton-gripis-ton-ptinon-oi-draseis-prolipsis/",
+      "urlToImage": "https://i1.prth.gr/images/640x360share/files/2024-07-04/chicken-4155959_1280-768x514-1.jpg",
+      "publishedAt": "2024-07-04 12:58:00",
+      "content": ", (avian influenza), , .2022, H5N1 , 131 . 2023, 14 , . (2023-2024) (2021-2022) . , :2006: H5N1 , , . 2016-2017: 58, 56, 55 , , , , . 2021: H5N8 . 2022: H5N1 &amp; , , . . ( 2024), 887 H5N1 462\u2026 [+216 chars]",
+      "retrievedAt": "2024-07-05 19:05:42.705055",
+      "internal_id": "37fba5beb053199e21a865e56aba61235f29cd46d36d43e9d9de49617e5051a3",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10805,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "1pezeshk.com",
+      "author": "\u0639\u0644\u06cc\u0631\u0636\u0627 \u0645\u062c\u06cc\u062f\u06cc",
+      "title": "\u0647\u0645\u0647 \u0686\u06cc\u0632\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0628\u0627\u06cc\u062f \u062f\u0631 \u0645\u0648\u0631\u062f \u0628\u06cc\u0645\u0627\u0631\u06cc \u062a\u0628 \u062f\u0646\u06af\u06cc \u0628\u062f\u0627\u0646\u06cc\u0645",
+      "description": "\u062a\u0627\u0631\u06cc\u062e\u0686\u0647 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062a\u0628 \u062f\u0646\u06af\u06cc (Dengue Fever) \u062a\u0628 \u062f\u0646\u06af\u06cc \u06cc\u06a9\u06cc \u0627\u0632 \u0628\u06cc\u0645\u0627\u0631\u06cc\u200c\u0647\u0627\u06cc \u0648\u06cc\u0631\u0648\u0633\u06cc \u0634\u0646\u0627\u062e\u062a\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0627\u0648\u0644\u06cc\u0646 \u0645\u0648\u0627\u0631\u062f \u06af\u0632\u0627\u0631\u0634 \u0634\u062f\u0647 \u0622\u0646 \u0628\u0647 \u0627\u0648\u0627\u06cc\u0644 \u0642\u0631\u0646 \u06f1\u06f8 \u0645\u06cc\u0644\u0627\u062f\u06cc \u0628\u0631\u0645\u06cc\u200c\u06af\u0631\u062f\u062f. \u0627\u0648\u0644\u06cc\u0646 \u0647\u0645\u0647\u200c\u06af\u06cc\u0631\u06cc\u200c\u0647\u0627\u06cc \u0645\u0633\u062a\u0646\u062f \u0634\u062f\u0647 \u0627\u06cc\u0646 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062f\u0631 \u062f\u0647\u0647\u200c\u0647\u0627\u06cc \u06f1\u06f7\u06f7\u06f0 \u0648 \u06f1\u06f7\u06f8\u06f0 \u062f\u0631 \u0622\u0633\u06cc\u0627\u060c \u0622\u0641\u0631\u06cc\u0642\u0627 \u0648 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc \u0631\u062e \u062f\u0627\u062f\u0647 \u0627\u0633\u062a. \u062f\u0631 \u2026",
+      "url": "https://www.1pezeshk.com/archives/2024/07/dengue-fever-2.html",
+      "urlToImage": "https://www.1pezeshk.com/wp-content/uploads/2024/07/2024-07-04_15-55-46.jpg",
+      "publishedAt": "2024-07-04 12:26:41",
+      "content": "(Dengue Fever) . . . . (Flaviviridae) . . . (Aedes) (Aedes aegypti) (Aedes albopictus) . . . . ( ) . . : : ( DEET (Picaridin) ) .: .: .: .: (Larvi\u2026 [+430 chars]",
+      "retrievedAt": "2024-07-05 19:05:43.071997",
+      "internal_id": "819b238e6eb8c105d4ba4dd794e0d984782e600c376c06fe3a35c2da550263b9",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10814,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Three food handlers identified as source of typhoid outbreak at Kelantan school",
+      "description": "KOTA BARU: The Kelantan Health Department has identified three food handlers as the source of a typhoid outbreak at a school here. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/07/04/three-food-handlers-identified-as-source-of-typhoid-outbreak-at-kelantan-school",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/07/04/2784248.jpg",
+      "publishedAt": "2024-07-04 11:24:00",
+      "content": "KOTA BARU: The Kelantan Health Department has identified three food handlers as the source of a typhoid outbreak at a school here. Its director, Datuk Dr Zaini Hussin (pic), said the food handlers h\u2026 [+801 chars]",
+      "retrievedAt": "2024-07-05 19:05:44.699976",
+      "internal_id": "62a5320000436fa8fc97e1281209e33b1b3b29a6bfc29908af8cc9a4086afeed",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10803,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Matthias Bieder",
+      "title": "H5N1-Virus breitet sich aus - Experten warnen vor Vogelgrippe-Pandemie",
+      "description": "In den USA ist das Vogelgrippe-Virus schon auf Rinder \u00fcbergesprungen. Nun warnen internationale Experten vor einer neuen Pandemie",
+      "url": "https://www.bild.de/leben-wissen/vogelgrippe-breitet-sich-aus-droht-uns-die-naechste-pandemie-66853bba18c33d086d7b959e",
+      "urlToImage": "https://images.bild.de/66853bba18c33d086d7b959e/19c3b2c33fea11fc2ed63e5edbd0faf7,5e1a888c?w=1280",
+      "publishedAt": "2024-07-04 11:10:22",
+      "content": "In den USA ist das Vogelgrippe-Virus H5N1 schon auf Rinder \u00fcbergesprungen, in Niedersachsen mussten tausende V\u00f6gel get\u00f6tet werden. Nun warnen internationale Experten vor dem \u00dcberspringen auf den Men\u2026 [+177 chars]",
+      "retrievedAt": "2024-07-05 19:05:42.715641",
+      "internal_id": "a54f634ed06b35fa85ec5377df4d7add8082c06268052decf7b5b51f7fad4961",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10795,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Diarmuid Pepper",
+      "title": "Sixty-eight measles cases confirmed in Ireland so far this year",
+      "description": "A further 17 possible measles cases are under investigation.",
+      "url": "https://www.thejournal.ie/68-mealses-cases-confirmed-so-far-this-year-6426607-Jul2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6426607/river/?height=400&version=6426617",
+      "publishedAt": "2024-07-04 09:33:44",
+      "content": "SIXTY-EIGHT CASES of measles have been confirmed in Ireland to date this year, according to the latest figures from the Health Protection Surveillance Centre (HPSC). A further 17 possible measles ca\u2026 [+1944 chars]",
+      "retrievedAt": "2024-07-05 19:05:42.204971",
+      "internal_id": "40c280cb4381f27e37d59d74c5fab8d2428f938aa5824b31e2661e00a8db38d4",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10807,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ntv.com.tr",
+      "author": "NTV",
+      "title": "Sivrisineklerden bula\u015f\u0131yor, \u00f6lenler var! Salg\u0131n uyar\u0131s\u0131 yap\u0131ld\u0131, bu belirtilere dikkat",
+      "description": "Dang hummas\u0131, bilimsel olarak dengue ate\u015fi olarak da bilinen bir vir\u00fcs hastal\u0131\u011f\u0131d\u0131r. Sivrisineklerden bula\u015fan bu vir\u00fcs tehlikeli boyutlara ula\u015fabilir. Orta Amerika \u00fclkesi El Salvador'un ba\u015fkenti San Salvador'da, sivrisineklerden bula\u015fan ve baz\u0131 durumlarda \u00f6l\u00fc\u2026",
+      "url": "https://www.ntv.com.tr/galeri/dunya/sivrisineklerden-bulasiyor-olenler-var-salgin-uyarisi-yapildi-bu-belirtilere-dikkat,fv2B0wGPukSrDCubAXWJaA",
+      "urlToImage": "https://cdn1.ntv.com.tr/gorsel/YmoaCsXsXkax3N5HdkRTeA.jpg?width=1080&mode=crop&scale=both",
+      "publishedAt": "2024-07-04 09:25:59",
+      "content": "Dang hummas\u0131, bilimsel olarak dengue ate\u015fi olarak da bilinen bir vir\u00fcs hastal\u0131\u011f\u0131d\u0131r. Sivrisineklerden bula\u015fan bu vir\u00fcs tehlikeli boyutlara ula\u015fabilir. Orta Amerika \u00fclkesi El Salvador'un ba\u015fkenti San \u2026 [+2033 chars]",
+      "retrievedAt": "2024-07-05 19:05:43.129791",
+      "internal_id": "67a3a1ea6e02003a15d0bd40d4babae67fbe9be059d228b80d69bfc1cf155df0",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10797,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Nike Heinen",
+      "title": "Die Milch ist sicher \u2013 doch es reicht nicht, sie zu testen",
+      "description": "Die US-Landwirtschaftsbeh\u00f6rde hat erneut die Milch von K\u00fchen untersucht, die mit Vogelgrippe H5N1 infiziert sind. Wird sie pasteurisiert, finden sich darin keine infekti\u00f6sen Partikel mehr. Forscher zeigen sich dennoch beunruhigt und fordern umfassendere Unter\u2026",
+      "url": "https://www.welt.de/wissenschaft/article252337944/Vogelgrippe-Die-Milch-ist-sicher-doch-es-reicht-nicht-sie-zu-testen.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile252337990/7841353187-ci16x9-w1200/107470766.jpg",
+      "publishedAt": "2024-07-04 09:21:25",
+      "content": "Im M\u00e4rz 2024 wurde bei Milchk\u00fchen in Texas eine Infektion mit der hochpathogenen Vogelgrippe H5N1 festgestellt, dem ersten bekannten Fall, in dem sich das Virus auf Rinder ausbreitete. Seitdem wurde \u2026 [+4224 chars]",
+      "retrievedAt": "2024-07-05 19:05:42.611050",
+      "internal_id": "4f4a5fd5e8d6851f00caa548f08a29469ed48c7fcdf017d750fa72f8f65e85d1",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10813,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Bryant Hevesi",
+      "title": "Victorian health department warns of \u2018increased risk of local transmission\u2019 of mpox after cases of infectious disease rise",
+      "description": "Victorians at-risk of mpox are being urged to ensure they are vaccinated against the infectious disease after health authorities in the state reported a rise in cases.",
+      "url": "https://www.skynews.com.au/lifestyle/health/victorian-health-department-warns-of-increased-risk-of-local-transmission-of-mpox-after-cases-of-infectious-disease-rise/news-story/5ac27f129195fb9601efb46adefd8577",
+      "urlToImage": "https://content.api.news/v3/images/bin/5151cf94b5ce2ac4d27b2b13e518dea0",
+      "publishedAt": "2024-07-04 09:03:40",
+      "content": "Victorians at-risk of mpox are being urged to ensure they are vaccinated against the infectious disease after health authorities in the state reported a rise in cases. The health department on Thur\u2026 [+1771 chars]",
+      "retrievedAt": "2024-07-05 19:05:44.530036",
+      "internal_id": "5d0214311370bbfeaed61f15c6e636112a410dc399ef30d32c46921042b214d7",
+      "publishedAtLabel": "Jul 4"
+    },
     {
       "id": 10785,
       "query": [
@@ -26541,60 +26937,6 @@
       "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
       "retrievedAt": "2024-05-21 07:06:07.864022",
       "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9320,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "ScienceAlert",
-      "author": "Michael Head, The Conversation",
-      "title": "Whooping Cough Is Surging in The UK, And This Could Be Why",
-      "description": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024.",
-      "url": "https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why",
-      "urlToImage": "https://www.sciencealert.com/images/2024/05/WhoopingCoughOnTheRiseInUKWomenCoughing.jpg",
-      "publishedAt": "2024-05-19 11:30:09",
-      "content": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024. There have been 2,793 confirmed cases so far this year. Sadly, five infa\u2026 [+5653 chars]",
-      "retrievedAt": "2024-05-20 19:05:22.412480",
-      "internal_id": "4bec85cd0e2d6cd6b953743ed7b90cfa9eb2c27679ab316857d344b42f3e9270",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9321,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Tive dengue; quando posso me vacinar?",
-      "description": "Imunizante est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada",
-      "url": "https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
-      "publishedAt": "2024-05-19 09:00:02",
-      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada. A faixa et\u00e1ria do p\u00fablico-alvo da unidade de sa\u00fade p\u00fablica, no primeiro momento, \u00e9 para o grupo de 10 a 14 anos\u2026 [+3855 chars]",
-      "retrievedAt": "2024-05-20 19:05:24.128313",
-      "internal_id": "bc8ac58f563e0021fb17ac730746e4bffae42da4a7f284ed88cff59abf98ab2c",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9322,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Mark Smith, Professor of Water Science & Heath, University of Leeds, Chris Thomas, Global Professor in Water & Planetary Health, University of Lincoln",
-      "title": "Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future",
-      "description": "Mosquito populations can respond quickly to changing climate, which means the location of areas at risk of malaria might change.",
-      "url": "https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814",
-      "urlToImage": "https://images.theconversation.com/files/593392/original/file-20240510-22-7peqxh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2024-05-19 08:27:51",
-      "content": "Water bodies such as the Nile River, pictured here running through Juba in South Sudan, are included in the new model. Frontpage The relationship between climate and malaria transmission is complex \u2026 [+6207 chars]",
-      "retrievedAt": "2024-05-20 19:05:24.928793",
-      "internal_id": "358e0bde6a335ba396cd048daac77d6c6816ed0bc5eab02f0c68e4b729c85183",
       "publishedAtLabel": "May 19"
     }
   ]

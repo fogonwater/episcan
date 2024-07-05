@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-07-05 07:05
-- **Most recent article:** 2024-07-04 05:47:54
+- **New articles in last harvest:** 22
+- **Last harvest:** 2024-07-05 19:05
+- **Most recent article:** 2024-07-04 18:56:26
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 55 | 61 | 64 | 115 | 62 | 105 | 38 | 500 |
-| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 38 | 395 |
-| malaria | 17 | 25 | 21 | 37 | 20 | 24 | 11 | 155 |
-| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 13 | 131 |
-| measles | 15 | 16 | 11 | 7 | 11 | 8 | 5 | 73 |
+| dengue | 54 | 61 | 64 | 115 | 62 | 105 | 43 | 504 |
+| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 46 | 403 |
+| malaria | 16 | 25 | 21 | 37 | 20 | 24 | 12 | 155 |
+| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 15 | 133 |
+| measles | 15 | 16 | 11 | 7 | 11 | 8 | 7 | 75 |
 | chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 5 | 67 |
-| zika | 3 | 3 | 0 | 12 | 3 | 17 | 17 | 55 |
-| rabies | 8 | 15 | 9 | 2 | 5 | 8 | 1 | 48 |
-| pertussis | 6 | 6 | 9 | 11 | 11 | 3 | 1 | 47 |
-| hpai | 7 | 12 | 2 | 4 | 4 | 3 | 1 | 33 |
+| zika | 3 | 3 | 0 | 12 | 3 | 17 | 18 | 56 |
+| rabies | 8 | 15 | 9 | 2 | 5 | 8 | 2 | 49 |
+| pertussis | 5 | 6 | 9 | 11 | 11 | 3 | 1 | 46 |
+| hpai | 7 | 12 | 2 | 4 | 4 | 3 | 2 | 34 |
 | meningitis | 4 | 1 | 6 | 3 | 1 | 1 | 3 | 19 |
+| typhoid | 0 | 0 | 1 | 1 | 2 | 3 | 4 | 11 |
 | leptospirosis | 0 | 5 | 1 | 1 | 1 | 2 | 1 | 11 |
-| typhoid | 0 | 0 | 1 | 1 | 2 | 3 | 3 | 10 |
 | yersinia | 6 | 0 | 1 | 0 | 0 | 2 | 0 | 9 |
 
 
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-27 (zika)
+
+- [Govt steps up measures against Zika, no cases yet](https://timesofindia.indiatimes.com/city/goa/govt-steps-up-measures-against-zika-no-cases-yet/articleshow/111495868.cms) (The Times of India)
 
 - [States asked to keep vigil after 8 Zika cases in Maharashtra](https://timesofindia.indiatimes.com/city/delhi/states-asked-to-keep-vigil-after-8-zika-cases-in-maharashtra/articleshow/111475248.cms) (The Times of India)
 
@@ -70,6 +72,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (typhoid)
 
+- [Three food handlers identified as source of typhoid outbreak at Kelantan school](https://www.thestar.com.my/news/nation/2024/07/04/three-food-handlers-identified-as-source-of-typhoid-outbreak-at-kelantan-school) (The Star Online)
+
 - [Five students in Kelantan diagnosed with typhoid](https://www.thestar.com.my/news/nation/2024/07/03/five-students-in-kelantan-diagnosed-with-typhoid) (The Star Online)
 
 - [Surge in typhoid, jaundice, and dengue cases in Delhi-NCR: How to stay safe](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/surge-in-typhoid-jaundice-and-dengue-cases-in-delhi-ncr-how-to-stay-safe/articleshow/111431802.cms) (The Times of India)
@@ -78,6 +82,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (rabies)
 
+- [Mission Rabies to vaccinate dogs across Tiswadi taluka](https://timesofindia.indiatimes.com/city/goa/mission-rabies-to-vaccinate-dogs-across-tiswadi-taluka/articleshow/111495788.cms) (The Times of India)
+
 - [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
 
 ## 24-27 (pertussis)
@@ -85,6 +91,10 @@ Source: [News API](https://newsapi.org/)
 - [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
 
 ## 24-27 (mpox)
+
+- [„Najniebezpieczniejszy z dotychczasowych”. Nowy wariant wirusa mpox szaleje](https://geekweek.interia.pl/aktywnosc/zdrowie/news-najniebezpieczniejszy-z-dotychczasowych-nowy-wariant-wirusa-,nId,7624002) (Interia.pl)
+
+- [Victorian health department warns of ‘increased risk of local transmission’ of mpox after cases of infectious disease rise](https://www.skynews.com.au/lifestyle/health/victorian-health-department-warns-of-increased-risk-of-local-transmission-of-mpox-after-cases-of-infectious-disease-rise/news-story/5ac27f129195fb9601efb46adefd8577) (Sky News Australia)
 
 - [Where and why is mpox disease spreading in the DRC?](https://www.aljazeera.com/news/2024/7/4/where-and-why-is-mpox-disease-spreading-in-the-drc) (Al Jazeera English)
 
@@ -122,6 +132,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (measles)
 
+- [NI records sharp rise in measles cases](https://www.bbc.com/news/articles/cd1rykyrvvlo) (BBC News)
+
+- [Sixty-eight measles cases confirmed in Ireland so far this year](https://www.thejournal.ie/68-mealses-cases-confirmed-so-far-this-year-6426607-Jul2024/) (TheJournal.ie)
+
 - [Possible measles exposure at multiple locations in King County – PUBLIC HEALTH INSIDER](https://publichealthinsider.com/2024/07/03/possible-measles-exposure-at-multiple-locations-in-king-county/) (Publichealthinsider.com)
 
 - [Urgent health alert issued after passenger on Qantas Singapore to Melbourne flight confirmed as Victoria’s latest measles case](https://www.skynews.com.au/lifestyle/health/urgent-health-alert-issued-after-passenger-on-qantas-singapore-to-melbourne-flight-confirmed-as-victorias-latest-measles-case/news-story/ab8938fec183c7f6eb411a16bd2a4b8c) (Sky News Australia)
@@ -133,6 +147,8 @@ Source: [News API](https://newsapi.org/)
 - [Vaccine breakthrough protects the immunocompromised from the unvaxxed](https://newatlas.com/medical/measles-vaccine-discovery/) (New Atlas)
 
 ## 24-27 (malaria)
+
+- [Community perspective and healthcare assessment in malaria endemic states of India: a cross-sectional study protocol](https://bmjopen.bmj.com/content/14/7/e081856) (The BMJ)
 
 - [Plasmodium vivax populations in the western Greater Mekong Subregion evaluated using a genetic barcode](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012299) (Plos.org)
 
@@ -162,9 +178,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (hpai)
 
+- [Αυστραλία: Η γρίπη των πτηνών αναγκάζει τα McDonald’s να περιορίσουν τις ώρες πρωινού](https://www.naftemporiki.gr/kosmos/1706149/aystralia-i-gripi-ton-ptinon-anagkazei-ta-mcdonalds-na-periorisoyn-tis-ores-proinoy/) (Naftemporiki.gr)
+
 - [CDC Reports Fourth Human Case of H5 Bird Flu Tied to Dairy Cow Outbreak](https://www.cdc.gov/media/releases/2024/p-0703-4th-human-case-h5.html) (Cdc.gov)
 
 ## 24-27 (h5n1)
+
+- [Fragen und Antworten: Impfen gegen die Vogelgrippe? Was Sie jetzt wissen müssen](https://www.stern.de/gesundheit/vogelgrippe-h5n1--warum-in-finnland-menschen-geimpft-werden-34852534.html) (STERN.de)
+
+- [Does H5N1 avian influenza have pandemic potential?](https://www.pharmaceutical-technology.com/features/does-h5n1-avian-influenza-have-pandemic-potential/) (Pharmaceutical Technology)
+
+- [Ученые доказали полезность кипячения молока: это убивает птичий грипп](https://www.ferra.ru/news/health/uchenye-dokazali-poleznost-kipyacheniya-moloka-eto-ubivaet-ptichii-gripp-04-07-2024.htm) (Ferra.ru)
+
+- [«Συναγερμός» για τη γριπή των πτηνών- Αυτό είναι το σχέδιο δράσης από τον ΕΟΔΥ](https://www.skai.gr/news/health/eody-sxedio-drasis-gia-ti-gripi-ton-ptinon) (Skai.gr)
+
+- [Σχέδιο δράσης του ΕΟΔΥ για την διαχείριση πιθανών κρουσμάτων της Γρίοπης των Πτηνών μετά την παγκόσμια έξαρση](https://www.newsit.gr/ellada/gripi-ton-ptinon-sxedio-drasis-tou-eody-gia-tin-diaxeirisi-pithanon-krousmaton-meta-tin-pagkosmia-eksarsi/4127081/) (Newsit.gr)
+
+- [Καμπανάκι από τον ΕΟΔΥ για την ανησυχητική αύξηση των κρουσμάτων γρίπης των πτηνών, οι δράσεις πρόληψης](https://www.protothema.gr/greece/article/1516354/kabanaki-apo-ton-eodu-gia-tin-anisuhitiki-auxisi-ton-krousmaton-gripis-ton-ptinon-oi-draseis-prolipsis/) (Protothema.gr)
+
+- [H5N1-Virus breitet sich aus - Experten warnen vor Vogelgrippe-Pandemie](https://www.bild.de/leben-wissen/vogelgrippe-breitet-sich-aus-droht-uns-die-naechste-pandemie-66853bba18c33d086d7b959e) (Bild)
+
+- [Die Milch ist sicher – doch es reicht nicht, sie zu testen](https://www.welt.de/wissenschaft/article252337944/Vogelgrippe-Die-Milch-ist-sicher-doch-es-reicht-nicht-sie-zu-testen.html) (DIE WELT)
 
 - [Vogelgrippe bei Kühen in den USA: "Die Kühe haben absurd hohe Viruslasten in der Milch"](https://www.n-tv.de/wissen/H5N1-Infektionen-bei-Rindern-Das-wuerde-in-Deutschland-nicht-so-laufen-article25051649.html) (N-tv.de)
 
@@ -243,6 +277,16 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: Dutch expert sees parallels to Q fever outbreaks](https://www.statnews.com/2024/07/01/h5n1-bird-flu-snapshot-q-fever/) (STAT)
 
 ## 24-27 (dengue)
+
+- [In Candolim dengue battle, construction sites are targeted](https://timesofindia.indiatimes.com/city/goa/in-candolim-dengue-battle-construction-sites-are-targeted/articleshow/111495859.cms) (The Times of India)
+
+- [Em 6 meses, Brasil registra mais mortes por dengue do que em 7 anos somados](https://www.terra.com.br/vida-e-estilo/saude/em-6-meses-brasil-registra-mais-mortes-por-dengue-do-que-em-7-anos-somados,807a7557a1bca42eb72b9a80b8b8bb411f2cd1uv.html) (Terra.com.br)
+
+- [Dengue pode desencadear quadro de depressão, afirma estudo](https://www.metropoles.com/saude/dengue-associada-risco-depressao-estudo) (Metropoles.com)
+
+- [همه چیزهایی که باید در مورد بیماری تب دنگی بدانیم](https://www.1pezeshk.com/archives/2024/07/dengue-fever-2.html) (1pezeshk.com)
+
+- [Sivrisineklerden bulaşıyor, ölenler var! Salgın uyarısı yapıldı, bu belirtilere dikkat](https://www.ntv.com.tr/galeri/dunya/sivrisineklerden-bulasiyor-olenler-var-salgin-uyarisi-yapildi-bu-belirtilere-dikkat,fv2B0wGPukSrDCubAXWJaA) (Ntv.com.tr)
 
 - [Decretan alerta roja por casos de dengue en El Salvador](https://www.reforma.com/decretan-alerta-roja-por-casos-de-dengue-en-el-salvador/ar2835386) (Reforma.com)
 
@@ -2894,8 +2938,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
 
-- [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
-
 ## 24-21 (mpox)
 
 - [CDC says vaccination could protect the U.S. from more dangerous mpox virus](https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753) (NBC News)
@@ -2989,8 +3031,6 @@ Source: [News API](https://newsapi.org/)
 - [SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms) (The Times of India)
 
 - [Serum Institute ships first R21/Matrix-M malaria vaccine to Africa](https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece) (BusinessLine)
-
-- [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (hpai)
 
@@ -3307,8 +3347,6 @@ Source: [News API](https://newsapi.org/)
 - [Learning English Podcast - May 20, 2024](https://learningenglish.voanews.com/a/7598921.html) (VOA News)
 
 - [Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos más afectados](https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/) (La Nacion)
-
-- [Tive dengue; quando posso me vacinar?](https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html) (Ig.com.br)
 
 ## 24-21 (chikungunya)
 
