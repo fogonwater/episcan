@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 32
-- **Last harvest:** 2024-07-04 19:05
-- **Most recent article:** 2024-07-03 18:56:27
+- **New articles in last harvest:** 12
+- **Last harvest:** 2024-07-05 07:05
+- **Most recent article:** 2024-07-04 05:47:54
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 54 | 61 | 64 | 115 | 62 | 105 | 36 | 497 |
-| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 34 | 391 |
-| malaria | 16 | 25 | 21 | 37 | 20 | 24 | 11 | 154 |
-| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 10 | 128 |
-| measles | 15 | 16 | 11 | 7 | 11 | 8 | 4 | 72 |
+| dengue | 55 | 61 | 64 | 115 | 62 | 105 | 38 | 500 |
+| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 38 | 395 |
+| malaria | 17 | 25 | 21 | 37 | 20 | 24 | 11 | 155 |
+| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 13 | 131 |
+| measles | 15 | 16 | 11 | 7 | 11 | 8 | 5 | 73 |
 | chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 5 | 67 |
-| zika | 3 | 3 | 0 | 12 | 3 | 17 | 16 | 54 |
+| zika | 3 | 3 | 0 | 12 | 3 | 17 | 17 | 55 |
 | rabies | 8 | 15 | 9 | 2 | 5 | 8 | 1 | 48 |
-| pertussis | 5 | 6 | 9 | 11 | 11 | 3 | 0 | 45 |
+| pertussis | 6 | 6 | 9 | 11 | 11 | 3 | 1 | 47 |
 | hpai | 7 | 12 | 2 | 4 | 4 | 3 | 1 | 33 |
 | meningitis | 4 | 1 | 6 | 3 | 1 | 1 | 3 | 19 |
 | leptospirosis | 0 | 5 | 1 | 1 | 1 | 2 | 1 | 11 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-27 (zika)
+
+- [States asked to keep vigil after 8 Zika cases in Maharashtra](https://timesofindia.indiatimes.com/city/delhi/states-asked-to-keep-vigil-after-8-zika-cases-in-maharashtra/articleshow/111475248.cms) (The Times of India)
 
 - [Zika cases in Maharashtra: Govt asks states to maintain vigil, focus on screening pregnant women](https://thehillstimes.in/national/zika-cases-in-maharashtra-govt-asks-states-to-maintain-vigil-focus-on-screening-pregnant-women) (Thehillstimes.in)
 
@@ -78,7 +80,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
 
+## 24-27 (pertussis)
+
+- [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
+
 ## 24-27 (mpox)
+
+- [Where and why is mpox disease spreading in the DRC?](https://www.aljazeera.com/news/2024/7/4/where-and-why-is-mpox-disease-spreading-in-the-drc) (Al Jazeera English)
+
+- [Mpox Has Infected Nearly 100,000 People. Here's What You Need to Know.](https://www.sciencealert.com/mpox-has-infected-nearly-100000-people-heres-what-you-need-to-know) (ScienceAlert)
+
+- [Experts are racing to contain 'the most dangerous' monkeypox virus yet before it causes a global outbreak](https://www.businessinsider.com/new-monkeypox-mpox-virus-global-outbreak-risk-2024-7) (Business Insider)
 
 - [Nicht vorbereitet auf Vogelgrippe und Mpox : Haben wir aus Corona gelernt? Offensichtlich nicht](https://www.tagesspiegel.de/wissen/nicht-vorbereitet-auf-vogelgrippe-und-mpox-haben-wir-aus-corona-gelernt-offensichtlich-nicht-11947178.html) (Der Tagesspiegel)
 
@@ -109,6 +121,8 @@ Source: [News API](https://newsapi.org/)
 - [Pneumococcal Meningitis Global Clinical Trials Review and Competitive Landscape Report 2024](https://www.globenewswire.com/news-release/2024/07/03/2907967/28124/en/Pneumococcal-Meningitis-Global-Clinical-Trials-Review-and-Competitive-Landscape-Report-2024.html) (GlobeNewswire)
 
 ## 24-27 (measles)
+
+- [Possible measles exposure at multiple locations in King County – PUBLIC HEALTH INSIDER](https://publichealthinsider.com/2024/07/03/possible-measles-exposure-at-multiple-locations-in-king-county/) (Publichealthinsider.com)
 
 - [Urgent health alert issued after passenger on Qantas Singapore to Melbourne flight confirmed as Victoria’s latest measles case](https://www.skynews.com.au/lifestyle/health/urgent-health-alert-issued-after-passenger-on-qantas-singapore-to-melbourne-flight-confirmed-as-victorias-latest-measles-case/news-story/ab8938fec183c7f6eb411a16bd2a4b8c) (Sky News Australia)
 
@@ -151,6 +165,14 @@ Source: [News API](https://newsapi.org/)
 - [CDC Reports Fourth Human Case of H5 Bird Flu Tied to Dairy Cow Outbreak](https://www.cdc.gov/media/releases/2024/p-0703-4th-human-case-h5.html) (Cdc.gov)
 
 ## 24-27 (h5n1)
+
+- [Vogelgrippe bei Kühen in den USA: "Die Kühe haben absurd hohe Viruslasten in der Milch"](https://www.n-tv.de/wissen/H5N1-Infektionen-bei-Rindern-Das-wuerde-in-Deutschland-nicht-so-laufen-article25051649.html) (N-tv.de)
+
+- [Colorado Issues Warning as New Human Bird Flu Case Detected](https://www.newsweek.com/colorado-issues-warning-new-human-bird-flu-case-detected-1920948) (Newsweek)
+
+- [H5N1-Virus: USA melden weitere Übertragung von Vogelgrippe von Kühen auf Menschen](https://www.zeit.de/wissen/umwelt/2024-07/vogelgrippe-usa-weiterer-fall-milchkuehe) (Die Zeit)
+
+- [Reportan quinta infección humana de gripe aviar en EU: cronología de los contagios](https://www.forbes.com.mx/reportan-quinta-infeccion-humana-de-gripe-aviar-en-eu-cronologia-de-los-contagios/) (Forbes.com.mx)
 
 - [Bird Flu (H5N1) Explained: Second Colorado Person Infected—5th U.S. Case](https://www.forbes.com/sites/ariannajohnson/2024/07/03/bird-flu-h5n1-explained-second-colorado-person-infected-5th-us-case/) (Forbes)
 
@@ -221,6 +243,10 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: Dutch expert sees parallels to Q fever outbreaks](https://www.statnews.com/2024/07/01/h5n1-bird-flu-snapshot-q-fever/) (STAT)
 
 ## 24-27 (dengue)
+
+- [Decretan alerta roja por casos de dengue en El Salvador](https://www.reforma.com/decretan-alerta-roja-por-casos-de-dengue-en-el-salvador/ar2835386) (Reforma.com)
+
+- [Heading to Bali or somewhere tropical these holidays? Here’s what you need to know about dengue fever](https://www.nzherald.co.nz/travel/heading-to-bali-or-somewhere-tropical-these-holidays-heres-what-you-need-to-know-about-dengue-fever/SQ675FOTOFC5FMCL7KXOX6P2A4/) (New Zealand Herald)
 
 - [Local dengue fever cases confirmed in Florida Keys, spread by mosquito bites](https://www.foxnews.com/health/local-dengue-fever-cases-confirmed-florida-keys-spread-mosquito-bites) (Fox News)
 
@@ -2868,6 +2894,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
 
+- [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
+
 ## 24-21 (mpox)
 
 - [CDC says vaccination could protect the U.S. from more dangerous mpox virus](https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753) (NBC News)
@@ -2961,6 +2989,8 @@ Source: [News API](https://newsapi.org/)
 - [SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms) (The Times of India)
 
 - [Serum Institute ships first R21/Matrix-M malaria vaccine to Africa](https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece) (BusinessLine)
+
+- [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (hpai)
 
@@ -3277,6 +3307,8 @@ Source: [News API](https://newsapi.org/)
 - [Learning English Podcast - May 20, 2024](https://learningenglish.voanews.com/a/7598921.html) (VOA News)
 
 - [Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos más afectados](https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/) (La Nacion)
+
+- [Tive dengue; quando posso me vacinar?](https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html) (Ig.com.br)
 
 ## 24-21 (chikungunya)
 

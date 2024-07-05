@@ -1,8 +1,224 @@
 {
-  "last_updated": "2024-07-04 19:05",
-  "count_articles_total": 1458,
-  "count_articles_new": 32,
+  "last_updated": "2024-07-05 07:05",
+  "count_articles_total": 1473,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 10785,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Vogelgrippe bei K\u00fchen in den USA: \"Die K\u00fche haben absurd hohe Viruslasten in der Milch\"",
+      "description": "Das Vogelgrippe-Virus H5N1 breitet sich in den USA unter K\u00fchen aus. \"Es ist bedenklich, was sich da zusammenbraut\", sagt Virologin Isabella Eckerle im ntv.de Interview. Akute Gefahr sieht sie zwar bisher nicht. Ohne Gegenma\u00dfnahmen k\u00f6nnte die Lage jedoch au\u00dfer\u2026",
+      "url": "https://www.n-tv.de/wissen/H5N1-Infektionen-bei-Rindern-Das-wuerde-in-Deutschland-nicht-so-laufen-article25051649.html",
+      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop25052741/5491322647-cImg_16_9-w1200/125884571.jpg",
+      "publishedAt": "2024-07-04 05:47:54",
+      "content": "Das Vogelgrippe-Virus H5N1 breitet sich in den USA unter Milchk\u00fchen aus. \"Es ist bedenklich, was sich da zusammenbraut\", sagt Virologin Isabella Eckerle, Expertin f\u00fcr neuartige und pandemische Viren \u2026 [+21141 chars]",
+      "retrievedAt": "2024-07-05 07:05:49.023421",
+      "internal_id": "133c1d483ce4abd6c990480222e1a7dbb1b1997ba87919bf56a3f57fe48d87b0",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10791,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Where and why is mpox disease spreading in the DRC?",
+      "description": "A new variant of the virus is spreading through sexual contact and is affecting vulnerable populations, experts say.",
+      "url": "https://www.aljazeera.com/news/2024/7/4/where-and-why-is-mpox-disease-spreading-in-the-drc",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/AP23144753871232-1719575316.jpg?resize=1920%2C1400",
+      "publishedAt": "2024-07-04 05:40:48",
+      "content": "The Democratic Republic of Congo (DRC) is experiencing the biggest outbreak of the viral mpox disease ever recorded, with tens of thousands of people infected as of June. In December 2022, the govern\u2026 [+7519 chars]",
+      "retrievedAt": "2024-07-05 07:05:51.202951",
+      "internal_id": "952c0f3983561667cbf5a8204034ab2a4e03d3460ba203a0fbea98d29ea7f668",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10792,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Cheryl Walter, The Conversation",
+      "title": "Mpox Has Infected Nearly 100,000 People. Here's What You Need to Know.",
+      "description": "The new strain of the mpox virus is spreading quickly along the eastern border of the Democratic Republic of Congo and is \"the most dangerous yet\", says the World Health Organization.",
+      "url": "https://www.sciencealert.com/mpox-has-infected-nearly-100000-people-heres-what-you-need-to-know",
+      "urlToImage": "https://www.sciencealert.com/images/2024/07/mpox_virus_graphic.jpg",
+      "publishedAt": "2024-07-04 04:41:06",
+      "content": "The new strain of the mpox virus is spreading quickly along the eastern border of the Democratic Republic of Congo and is \"the most dangerous yet\", says the World Health Organization. The current out\u2026 [+6317 chars]",
+      "retrievedAt": "2024-07-05 07:05:51.218527",
+      "internal_id": "effe7d4ca79eba6486353d12d7884d86efaa1138c5641d7d40854c952c985392",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10787,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Reforma.com",
+      "author": "AP",
+      "title": "Decretan alerta roja por casos de dengue en El Salvador",
+      "description": "Autoridades de protecci\u00f3n civil de El Salvador decretaron alerta roja ante el aumento de casos de dengue; hay 3 muertos y 27 hospitalizados.",
+      "url": "https://www.reforma.com/decretan-alerta-roja-por-casos-de-dengue-en-el-salvador/ar2835386",
+      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/755/5754793.jpg&wm=1&ang=0",
+      "publishedAt": "2024-07-04 04:39:09",
+      "content": "Un mosquito es visto a trav\u00e9s de un estereoscopio en la Universidad de El Salvador, el 3 de julio de 2024. Cr\u00e9dito: Xinhua",
+      "retrievedAt": "2024-07-05 07:05:49.477714",
+      "internal_id": "ddb96c70eb1dbfd4664bcadf307191355626c72d58bbbf2d9619315fdfeb9181",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10789,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Durgesh Nandan Jha",
+      "title": "States asked to keep vigil after 8 Zika cases in Maharashtra",
+      "description": "On Wednesday, the Centre ordered states to maintain vigilance due to Zika virus spread in Maharashtra, with eight cases reported by July 2: six in Pune, one each in Kolhapur and Sangamner. Spread by Aedes aegypti mosquitoes, Zika usually causes mild symptoms \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/states-asked-to-keep-vigil-after-8-zika-cases-in-maharashtra/articleshow/111475248.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111475260,width-1070,height-580,imgsize-960292,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-04 04:16:13",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-05 07:05:50.407776",
+      "internal_id": "d49e79c7312db951a45da61d8ca8853968a1ddcff6ca1b17fb7feb2afef97f9f",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10784,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Aila Slisco",
+      "title": "Colorado Issues Warning as New Human Bird Flu Case Detected",
+      "description": "A total of five U.S. cases of humans contracting H5N1 avian influenza have been discovered, including four cases this year.",
+      "url": "https://www.newsweek.com/colorado-issues-warning-new-human-bird-flu-case-detected-1920948",
+      "urlToImage": "https://d.newsweek.com/en/full/2422134/colorado-warning-bird-flu-avian-influenza-case.jpg",
+      "publishedAt": "2024-07-04 03:23:37",
+      "content": "Colorado public health officials are warning residents to avoid contact with sick animals after this year's fourth U.S. case of H5N1 bird flu in a human was detected. The Colorado Department of Publ\u2026 [+3509 chars]",
+      "retrievedAt": "2024-07-05 07:05:49.010341",
+      "internal_id": "68845326d7c38019f8e12199ed821e65574bb8aab08eec77c4c2e5251983ec51",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10783,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Umwelt - Isabelle Daniel",
+      "title": "H5N1-Virus: USA melden weitere \u00dcbertragung von Vogelgrippe von K\u00fchen auf Menschen",
+      "description": "Erneut ist in den USA ein Mensch nach Kontakt mit Milchk\u00fchen an Vogelgrippe erkrankt. Es ist der vierte Fall dieser Art binnen weniger Monate.",
+      "url": "https://www.zeit.de/wissen/umwelt/2024-07/vogelgrippe-usa-weiterer-fall-milchkuehe",
+      "urlToImage": "https://img.zeit.de/wissen/umwelt/2024-07/usa-vogelgrippe-weiterer-fall-milchkuehe-bild/wide__1300x731",
+      "publishedAt": "2024-07-04 00:33:27",
+      "content": "Zum vierten Mal innerhalb weniger Monate ist in den USA ein Mensch an Vogelgrippe erkrankt, nachdem er Kontakt mit infizierten Milchk\u00fchen hatte diesmal im Bundesstaat Colorado. Wie bei den bisherigen\u2026 [+2798 chars]",
+      "retrievedAt": "2024-07-05 07:05:48.975442",
+      "internal_id": "bad1f7eeffac722d643ec5e89dcf86aa6fa501a4005bd4d31455c50e73453468",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10782,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Publichealthinsider.com",
+      "author": "Public Health Insider",
+      "title": "Possible measles exposure at multiple locations in King County \u2013 PUBLIC HEALTH INSIDER",
+      "description": "Public Health \u2013 Seattle & King County is investigating a confirmed measles case in an adult with recent international travel. The individual was at multiple locations in Bellevue, Seattle, and Woodinville while infectious. Anyone at certain locations during t\u2026",
+      "url": "https://publichealthinsider.com/2024/07/03/possible-measles-exposure-at-multiple-locations-in-king-county/",
+      "urlToImage": "https://publichealthinsider.com/wp-content/uploads/2024/06/measles-shutterstock_1178059438-1024x576.jpg",
+      "publishedAt": "2024-07-03 23:53:32",
+      "content": "Public Health Seattle &amp; King County is investigating a confirmed measles case in an adult with recent international travel. The individual was at multiple locations in Bellevue, Seattle, and Wood\u2026 [+5378 chars]",
+      "retrievedAt": "2024-07-05 07:05:48.171629",
+      "internal_id": "d86d35964327c1a27924319ee4e36efaec4d0036481ed95205f8506767d5d414",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10788,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Cameron Webb",
+      "title": "Heading to Bali or somewhere tropical these holidays? Here\u2019s what you need to know about dengue fever",
+      "description": "Where there is warmth, there are mosquitos.",
+      "url": "https://www.nzherald.co.nz/travel/heading-to-bali-or-somewhere-tropical-these-holidays-heres-what-you-need-to-know-about-dengue-fever/SQ675FOTOFC5FMCL7KXOX6P2A4/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/ICBVL6XWDJA3NMNSNIRF3GC5TM.jpg?auth=b7b7f0617464f1617f45cca49725b6fb713aa67f3e6b7116b09f483a4bf4b906&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-07-03 21:36:46",
+      "content": "There are four strains of dengue virus. Each has the potential to cause illness that can range from mild to severe and potentially life-threatening. Symptoms typically include rash, fever, chills, h\u2026 [+4684 chars]",
+      "retrievedAt": "2024-07-05 07:05:49.561263",
+      "internal_id": "621c7f44e86036a357837ba6d7bb3e27babfd8c564fa6c08b2f6aa4500c383d7",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10790,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "business-insider",
+      "source_name": "Business Insider",
+      "author": "Morgan McFall-Johnsen",
+      "title": "Experts are racing to contain 'the most dangerous' monkeypox virus yet before it causes a global outbreak",
+      "description": "The new monkeypox strain spreads mpox rash in new ways. \"There's definitely the opportunity for this to get on an airplane,\" one health expert said.",
+      "url": "https://www.businessinsider.com/new-monkeypox-mpox-virus-global-outbreak-risk-2024-7",
+      "urlToImage": "https://i.insider.com/6685b134268f62ba18a76695?width=1200&format=jpeg",
+      "publishedAt": "2024-07-03 21:28:57",
+      "content": "Electron microscope image of various virions (virus particles) of a monkeypox virus taken from human skin.Smith Collection/Gado/Getty Images A new strain of monkeypox virus is \"the most dang\u2026 [+4047 chars]",
+      "retrievedAt": "2024-07-05 07:05:51.193895",
+      "internal_id": "d520604cf79f8d0d2ce15054008dc0e9e60ad7e838835770721b0d1523058cb5",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10781,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "705blackfly.com",
+      "author": "Admin",
+      "title": "North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak",
+      "description": "The North Bay Parry Sound District Health Unit has declared a local whooping cough (pertussis) outbreak affecting residents across the...",
+      "url": "https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/",
+      "urlToImage": "https://705blackfly.com/wp-content/uploads/2024/07/COUGH-PIC.jpg",
+      "publishedAt": "2024-07-03 20:23:05",
+      "content": "The North Bay Parry Sound District Health Unit has declared a local whooping cough (pertussis) outbreak affecting residents across the Health Unit region. Since January 2024, 16 confirmed cases of pe\u2026 [+2309 chars]",
+      "retrievedAt": "2024-07-05 07:05:47.464427",
+      "internal_id": "bc2cf311307c8d395f44778f5d280d755e8cb8c621dbef8528e0d4cfba371129",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 10786,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Arianna Johnson",
+      "title": "Reportan quinta infecci\u00f3n humana de gripe aviar en EU: cronolog\u00eda de los contagios",
+      "description": "Forbes M\u00e9xico. Reportan quinta infecci\u00f3n humana de gripe aviar en EU: cronolog\u00eda de los contagios Esta ma\u00f1ana, los funcionarios de salud de Colorado (EU) confirmaron el segundo caso humano de gripe aviar en el estado, en un trabajador de una granja lechera.\u2026",
+      "url": "https://www.forbes.com.mx/reportan-quinta-infeccion-humana-de-gripe-aviar-en-eu-cronologia-de-los-contagios/",
+      "urlToImage": "https://cdn.forbes.com.mx/2024/07/960x0-1.jpg",
+      "publishedAt": "2024-07-03 19:32:26",
+      "content": "Aqu\u00ed est\u00e1n las \u00faltimas noticias sobre un brote mundial de gripe aviar H5N1 que comenz\u00f3 en 2020 y recientemente se propag\u00f3 entre el ganado en los estados de Estados Unidos y los mam\u00edferos marinos de t\u2026 [+6815 chars]",
+      "retrievedAt": "2024-07-05 07:05:49.048066",
+      "internal_id": "c02960f7684aa9989ae6b3cc195cb8b5741e88a74a6d74a9a4254cc01d5d816d",
+      "publishedAtLabel": "Jul 3"
+    },
     {
       "id": 10749,
       "query": [
@@ -26325,6 +26541,60 @@
       "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
       "retrievedAt": "2024-05-21 07:06:07.864022",
       "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9320,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Michael Head, The Conversation",
+      "title": "Whooping Cough Is Surging in The UK, And This Could Be Why",
+      "description": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024.",
+      "url": "https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why",
+      "urlToImage": "https://www.sciencealert.com/images/2024/05/WhoopingCoughOnTheRiseInUKWomenCoughing.jpg",
+      "publishedAt": "2024-05-19 11:30:09",
+      "content": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024. There have been 2,793 confirmed cases so far this year. Sadly, five infa\u2026 [+5653 chars]",
+      "retrievedAt": "2024-05-20 19:05:22.412480",
+      "internal_id": "4bec85cd0e2d6cd6b953743ed7b90cfa9eb2c27679ab316857d344b42f3e9270",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9321,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Tive dengue; quando posso me vacinar?",
+      "description": "Imunizante est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada",
+      "url": "https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
+      "publishedAt": "2024-05-19 09:00:02",
+      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada. A faixa et\u00e1ria do p\u00fablico-alvo da unidade de sa\u00fade p\u00fablica, no primeiro momento, \u00e9 para o grupo de 10 a 14 anos\u2026 [+3855 chars]",
+      "retrievedAt": "2024-05-20 19:05:24.128313",
+      "internal_id": "bc8ac58f563e0021fb17ac730746e4bffae42da4a7f284ed88cff59abf98ab2c",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9322,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Mark Smith, Professor of Water Science & Heath, University of Leeds, Chris Thomas, Global Professor in Water & Planetary Health, University of Lincoln",
+      "title": "Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future",
+      "description": "Mosquito populations can respond quickly to changing climate, which means the location of areas at risk of malaria might change.",
+      "url": "https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814",
+      "urlToImage": "https://images.theconversation.com/files/593392/original/file-20240510-22-7peqxh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-05-19 08:27:51",
+      "content": "Water bodies such as the Nile River, pictured here running through Juba in South Sudan, are included in the new model. Frontpage The relationship between climate and malaria transmission is complex \u2026 [+6207 chars]",
+      "retrievedAt": "2024-05-20 19:05:24.928793",
+      "internal_id": "358e0bde6a335ba396cd048daac77d6c6816ed0bc5eab02f0c68e4b729c85183",
       "publishedAtLabel": "May 19"
     }
   ]
