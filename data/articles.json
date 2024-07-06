@@ -1,8 +1,80 @@
 {
-  "last_updated": "2024-07-05 19:05",
-  "count_articles_total": 1492,
-  "count_articles_new": 22,
+  "last_updated": "2024-07-06 07:05",
+  "count_articles_total": 1499,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 10817,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "\u9ec3 \u5b3f",
+      "title": "\u7334\u75d8\u75c5\u6bd2\u5728\u975e\u6d32\u7a81\u8b8a\uff0c\u5c08\u5bb6\u6182\u65b0\u75c5\u6bd2\u9072\u65e9\u767b\u4e0a\u98db\u6a5f",
+      "description": "\u524d\u5169\u5e74\u75ab\u60c5\u525b\u7d50\u675f\uff0c\u5168\u7403\u89e3\u5c01\u5f8c\u6b50\u7f8e\u570b\u5bb6\u51fa\u73fe\u7334\u75d8\u5927\u6d41\u884c\uff0c\u81f3\u4eca\u75ab\u60c5\u4e00\u76f4\u90fd\u5728\u8822\u8822\u6b32\u52d5\uff0c\u5728\u975e\u6d32\u570b\u5bb6\u525b\u679c\u6c11\u4e3b\u5171\u548c\u570b\u6700\u8fd1\u51fa\u73fe\u4e00\u7a2e\u65b0\u7684\u7334\u75d8 MPOX \u83cc\u682a\uff0c\u751a\u81f3\u53ef\u4ee5\u5728\u6c92\u6709\u6027\u63a5\u89f8\u7684\u60c5\u6cc1\u4e0b\u50b3\u64ad\u3002\u5c08\u5bb6\u64d4\u5fc3\u9019\u7a2e MPOX \u83cc\u682a\u5206\u679d\u6700\u7d42\u53ef\u80fd\u6703\u767b\u4e0a\u98db\u6a5f\u50b3\u64ad\u4e16\u754c\u5404\u5730\u3002 \u4e00\u7a2e\u8f03\u65e9\u3001\u8f03\u6eab\u548c\u7684\u7334\u75d8\u75c5\u6bd2 II \u578b\u83cc\u682a\u9032\u5316\u679d IIb\uff0c\u65bc ...",
+      "url": "https://technews.tw/2024/07/05/mpox-evolving-in-africa/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2024/02/23121311/john-mcarthur-PrdNTrIrG8w-unsplash.jpg",
+      "publishedAt": "2024-07-05 02:08:46",
+      "content": "MPOX MPOX II IIb 2022 110 32,000 58 (WHO) 2022 8 9,600 400 15 2024 II 1970 I II 10 I 9 I Ib IIb Ib Ib 10% Ib 600 I (Unsplash)",
+      "retrievedAt": "2024-07-06 07:05:46.667898",
+      "internal_id": "24572cf35b3439cf74986ccf92d9fca20eb3c49375188ea40763862425ac7663",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10816,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Of India",
+      "title": "Dengue alert: Keep your premises clean or pay fine, says BBMP",
+      "description": "BBMP in Bengaluru plans to impose fines on property owners failing to prevent dengue breeding. Learn about the penalties and measures to control the spread of dengue.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bbmp-to-fine-property-owners-for-dengue-breeding/articleshow/111498835.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-04 23:05:53",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-06 07:05:45.111354",
+      "internal_id": "9afb3efd0f453be293e75267d83296ff3b08b462b2b5a3a2d8d394ecb75d5d16",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10815,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Pandora Dewan",
+      "title": "Map Shows Florida Dengue Cases After Health Warning",
+      "description": "A mosquito alert has been issued after two new locally acquired cases were reported in Monroe County.",
+      "url": "https://www.newsweek.com/map-floridadengue-cases-health-warning-1921302",
+      "urlToImage": "https://d.newsweek.com/en/full/2422651/dengue-florida-map.png",
+      "publishedAt": "2024-07-04 21:14:14",
+      "content": "Florida health officials have issued a mosquito alert after two locally acquired cases of dengue fever were confirmed in the Florida Keys. The alert comes a week after a national health advisory by \u2026 [+2641 chars]",
+      "retrievedAt": "2024-07-06 07:05:45.054258",
+      "internal_id": "e0975a29a126c8bfb55ac8b18dec866efef22cea9f5923c65a80b23617606ba6",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10818,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Noxolo Sibiya",
+      "title": "News24 | Mpox cases expected to rise as health department intensifies contact tracing",
+      "description": "The health department has said the number of Mpox cases is expected to rise as it intensifies contact tracing of people who have interacted with those who have tested positive for the virus.",
+      "url": "https://www.news24.com/news24/southafrica/news/mpox-cases-expected-to-rise-as-health-department-intensifies-contact-tracing-20240704",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11981/0df39fb6364349e9bd2a966b44979f05.jpg",
+      "publishedAt": "2024-07-04 19:37:19",
+      "content": "Four more cases of Mpox have been recorded in Gauteng and KwaZulu-Natal.The recent cases include two teenage boys and two men from Gauteng and KwaZulu-Natal.Health departmen\u2026 [+2343 chars]",
+      "retrievedAt": "2024-07-06 07:05:46.673727",
+      "internal_id": "9b1b7e60f9b4d17a83c691a7f8ddbdd0d1ef31c5e286c89c5a7ccd3932bb75a4",
+      "publishedAtLabel": "Jul 4"
+    },
     {
       "id": 10811,
       "query": [
@@ -26937,6 +27009,60 @@
       "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
       "retrievedAt": "2024-05-21 07:06:07.864022",
       "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9320,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Michael Head, The Conversation",
+      "title": "Whooping Cough Is Surging in The UK, And This Could Be Why",
+      "description": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024.",
+      "url": "https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why",
+      "urlToImage": "https://www.sciencealert.com/images/2024/05/WhoopingCoughOnTheRiseInUKWomenCoughing.jpg",
+      "publishedAt": "2024-05-19 11:30:09",
+      "content": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024. There have been 2,793 confirmed cases so far this year. Sadly, five infa\u2026 [+5653 chars]",
+      "retrievedAt": "2024-05-20 19:05:22.412480",
+      "internal_id": "4bec85cd0e2d6cd6b953743ed7b90cfa9eb2c27679ab316857d344b42f3e9270",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9321,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Tive dengue; quando posso me vacinar?",
+      "description": "Imunizante est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada",
+      "url": "https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
+      "publishedAt": "2024-05-19 09:00:02",
+      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada. A faixa et\u00e1ria do p\u00fablico-alvo da unidade de sa\u00fade p\u00fablica, no primeiro momento, \u00e9 para o grupo de 10 a 14 anos\u2026 [+3855 chars]",
+      "retrievedAt": "2024-05-20 19:05:24.128313",
+      "internal_id": "bc8ac58f563e0021fb17ac730746e4bffae42da4a7f284ed88cff59abf98ab2c",
+      "publishedAtLabel": "May 19"
+    },
+    {
+      "id": 9322,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Mark Smith, Professor of Water Science & Heath, University of Leeds, Chris Thomas, Global Professor in Water & Planetary Health, University of Lincoln",
+      "title": "Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future",
+      "description": "Mosquito populations can respond quickly to changing climate, which means the location of areas at risk of malaria might change.",
+      "url": "https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814",
+      "urlToImage": "https://images.theconversation.com/files/593392/original/file-20240510-22-7peqxh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-05-19 08:27:51",
+      "content": "Water bodies such as the Nile River, pictured here running through Juba in South Sudan, are included in the new model. Frontpage The relationship between climate and malaria transmission is complex \u2026 [+6207 chars]",
+      "retrievedAt": "2024-05-20 19:05:24.928793",
+      "internal_id": "358e0bde6a335ba396cd048daac77d6c6816ed0bc5eab02f0c68e4b729c85183",
       "publishedAtLabel": "May 19"
     }
   ]

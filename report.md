@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-07-05 19:05
-- **Most recent article:** 2024-07-04 18:56:26
+- **New articles in last harvest:** 4
+- **Last harvest:** 2024-07-06 07:05
+- **Most recent article:** 2024-07-05 02:08:46
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 54 | 61 | 64 | 115 | 62 | 105 | 43 | 504 |
+| dengue | 55 | 61 | 64 | 115 | 62 | 105 | 45 | 507 |
 | h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 46 | 403 |
-| malaria | 16 | 25 | 21 | 37 | 20 | 24 | 12 | 155 |
-| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 15 | 133 |
+| malaria | 17 | 25 | 21 | 37 | 20 | 24 | 12 | 156 |
+| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 17 | 135 |
 | measles | 15 | 16 | 11 | 7 | 11 | 8 | 7 | 75 |
 | chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 5 | 67 |
 | zika | 3 | 3 | 0 | 12 | 3 | 17 | 18 | 56 |
 | rabies | 8 | 15 | 9 | 2 | 5 | 8 | 2 | 49 |
-| pertussis | 5 | 6 | 9 | 11 | 11 | 3 | 1 | 46 |
+| pertussis | 6 | 6 | 9 | 11 | 11 | 3 | 1 | 47 |
 | hpai | 7 | 12 | 2 | 4 | 4 | 3 | 2 | 34 |
 | meningitis | 4 | 1 | 6 | 3 | 1 | 1 | 3 | 19 |
 | typhoid | 0 | 0 | 1 | 1 | 2 | 3 | 4 | 11 |
@@ -91,6 +91,10 @@ Source: [News API](https://newsapi.org/)
 - [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
 
 ## 24-27 (mpox)
+
+- [猴痘病毒在非洲突變，專家憂新病毒遲早登上飛機](https://technews.tw/2024/07/05/mpox-evolving-in-africa/) (Technews.tw)
+
+- [News24 | Mpox cases expected to rise as health department intensifies contact tracing](https://www.news24.com/news24/southafrica/news/mpox-cases-expected-to-rise-as-health-department-intensifies-contact-tracing-20240704) (News24)
 
 - [„Najniebezpieczniejszy z dotychczasowych”. Nowy wariant wirusa mpox szaleje](https://geekweek.interia.pl/aktywnosc/zdrowie/news-najniebezpieczniejszy-z-dotychczasowych-nowy-wariant-wirusa-,nId,7624002) (Interia.pl)
 
@@ -277,6 +281,10 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: Dutch expert sees parallels to Q fever outbreaks](https://www.statnews.com/2024/07/01/h5n1-bird-flu-snapshot-q-fever/) (STAT)
 
 ## 24-27 (dengue)
+
+- [Dengue alert: Keep your premises clean or pay fine, says BBMP](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-to-fine-property-owners-for-dengue-breeding/articleshow/111498835.cms) (The Times of India)
+
+- [Map Shows Florida Dengue Cases After Health Warning](https://www.newsweek.com/map-floridadengue-cases-health-warning-1921302) (Newsweek)
 
 - [In Candolim dengue battle, construction sites are targeted](https://timesofindia.indiatimes.com/city/goa/in-candolim-dengue-battle-construction-sites-are-targeted/articleshow/111495859.cms) (The Times of India)
 
@@ -2938,6 +2946,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
 
+- [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
+
 ## 24-21 (mpox)
 
 - [CDC says vaccination could protect the U.S. from more dangerous mpox virus](https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753) (NBC News)
@@ -3031,6 +3041,8 @@ Source: [News API](https://newsapi.org/)
 - [SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms) (The Times of India)
 
 - [Serum Institute ships first R21/Matrix-M malaria vaccine to Africa](https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece) (BusinessLine)
+
+- [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (hpai)
 
@@ -3347,6 +3359,8 @@ Source: [News API](https://newsapi.org/)
 - [Learning English Podcast - May 20, 2024](https://learningenglish.voanews.com/a/7598921.html) (VOA News)
 
 - [Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos más afectados](https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/) (La Nacion)
+
+- [Tive dengue; quando posso me vacinar?](https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html) (Ig.com.br)
 
 ## 24-21 (chikungunya)
 
