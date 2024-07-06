@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2024-07-06 07:05
-- **Most recent article:** 2024-07-05 02:08:46
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-07-06 19:05
+- **Most recent article:** 2024-07-05 19:05:43
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-21 | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 55 | 61 | 64 | 115 | 62 | 105 | 45 | 507 |
-| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 46 | 403 |
-| malaria | 17 | 25 | 21 | 37 | 20 | 24 | 12 | 156 |
-| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 17 | 135 |
+| dengue | 54 | 61 | 64 | 115 | 62 | 105 | 49 | 510 |
+| h5n1 | 94 | 65 | 78 | 55 | 29 | 36 | 48 | 405 |
+| malaria | 16 | 25 | 21 | 37 | 20 | 24 | 15 | 158 |
+| mpox | 8 | 16 | 8 | 26 | 14 | 46 | 18 | 136 |
 | measles | 15 | 16 | 11 | 7 | 11 | 8 | 7 | 75 |
-| chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 5 | 67 |
-| zika | 3 | 3 | 0 | 12 | 3 | 17 | 18 | 56 |
-| rabies | 8 | 15 | 9 | 2 | 5 | 8 | 2 | 49 |
-| pertussis | 6 | 6 | 9 | 11 | 11 | 3 | 1 | 47 |
-| hpai | 7 | 12 | 2 | 4 | 4 | 3 | 2 | 34 |
+| chikungunya | 3 | 18 | 5 | 14 | 5 | 17 | 6 | 68 |
+| zika | 3 | 3 | 0 | 12 | 3 | 17 | 20 | 58 |
+| rabies | 8 | 15 | 9 | 2 | 5 | 8 | 3 | 50 |
+| pertussis | 5 | 6 | 9 | 11 | 11 | 3 | 1 | 46 |
+| hpai | 7 | 12 | 2 | 4 | 4 | 3 | 3 | 35 |
 | meningitis | 4 | 1 | 6 | 3 | 1 | 1 | 3 | 19 |
 | typhoid | 0 | 0 | 1 | 1 | 2 | 3 | 4 | 11 |
 | leptospirosis | 0 | 5 | 1 | 1 | 1 | 2 | 1 | 11 |
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-27 (zika)
+
+- [Centre directs states to be alert about Zika spread](https://timesofindia.indiatimes.com/city/goa/centre-directs-states-to-be-alert-about-zika-spread/articleshow/111522328.cms) (The Times of India)
+
+- [Replication properties of a contemporary Zika virus from West Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012066) (Plos.org)
 
 - [Govt steps up measures against Zika, no cases yet](https://timesofindia.indiatimes.com/city/goa/govt-steps-up-measures-against-zika-no-cases-yet/articleshow/111495868.cms) (The Times of India)
 
@@ -82,6 +86,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (rabies)
 
+- [News24 | Rabies detected in Cape Fur seals along Western Cape coast, warning issued](https://www.news24.com/news24/community-newspaper/tygerburger/rabies-detected-in-cape-fur-seals-along-western-cape-coast-warning-issued-20240705-2) (News24)
+
 - [Mission Rabies to vaccinate dogs across Tiswadi taluka](https://timesofindia.indiatimes.com/city/goa/mission-rabies-to-vaccinate-dogs-across-tiswadi-taluka/articleshow/111495788.cms) (The Times of India)
 
 - [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
@@ -91,6 +97,8 @@ Source: [News API](https://newsapi.org/)
 - [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
 
 ## 24-27 (mpox)
+
+- [Assessing healthcare workers confidence level in diagnosing and managing emerging infectious virus of human mpox in hospitals in Amhara Region, Northwest Ethiopia: multicentre institution-based cross-sectional study](https://bmjopen.bmj.com/content/14/7/e080791) (The BMJ)
 
 - [猴痘病毒在非洲突變，專家憂新病毒遲早登上飛機](https://technews.tw/2024/07/05/mpox-evolving-in-africa/) (Technews.tw)
 
@@ -152,6 +160,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (malaria)
 
+- [Kwara gov urges mothers to participate in anti-malaria campaign](https://punchng.com/kwara-gov-urges-mothers-to-participate-in-anti-malaria-campaign/) (The Punch)
+
+- [Unveiling the impact of community knowledge in malaria programmes: A scoping review protocol](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306776) (Plos.org)
+
+- [Malaria transmission blocking activity of Anopheles stephensi alanyl aminopeptidase N antigen formulated with MPL, CpG, and QS21 adjuvants](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306664) (Plos.org)
+
 - [Community perspective and healthcare assessment in malaria endemic states of India: a cross-sectional study protocol](https://bmjopen.bmj.com/content/14/7/e081856) (The BMJ)
 
 - [Plasmodium vivax populations in the western Greater Mekong Subregion evaluated using a genetic barcode](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012299) (Plos.org)
@@ -182,11 +196,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (hpai)
 
+- [How Much Do You Really Need to Worry About Bird Flu?](https://modernfarmer.com/2024/07/how-much-do-you-really-need-to-worry-about-bird-flu/) (Modern Farmer)
+
 - [Αυστραλία: Η γρίπη των πτηνών αναγκάζει τα McDonald’s να περιορίσουν τις ώρες πρωινού](https://www.naftemporiki.gr/kosmos/1706149/aystralia-i-gripi-ton-ptinon-anagkazei-ta-mcdonalds-na-periorisoyn-tis-ores-proinoy/) (Naftemporiki.gr)
 
 - [CDC Reports Fourth Human Case of H5 Bird Flu Tied to Dairy Cow Outbreak](https://www.cdc.gov/media/releases/2024/p-0703-4th-human-case-h5.html) (Cdc.gov)
 
 ## 24-27 (h5n1)
+
+- [Does H5N1 avian influenza have pandemic potential?](https://www.hospitalmanagement.net/features/does-h5n1-avian-influenza-have-pandemic-potential/) (Hospitalmanagement.net)
+
+- [Does H5N1 avian influenza have pandemic potential?](https://www.medicaldevice-network.com/features/does-h5n1-avian-influenza-have-pandemic-potential/) (Medical Device Network)
 
 - [Fragen und Antworten: Impfen gegen die Vogelgrippe? Was Sie jetzt wissen müssen](https://www.stern.de/gesundheit/vogelgrippe-h5n1--warum-in-finnland-menschen-geimpft-werden-34852534.html) (STERN.de)
 
@@ -282,6 +302,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-27 (dengue)
 
+- [El mapa que muestra las ciudades de Florida más afectadas por el dengue](https://www.lanacion.com.ar/estados-unidos/florida/el-mapa-que-muestra-las-ciudades-de-florida-mas-afectadas-por-el-dengue-nid05072024/) (La Nacion)
+
+- [Health dept conducts inspection at Rumdamol after dengue death](https://timesofindia.indiatimes.com/city/goa/health-dept-conducts-inspection-at-rumdamol-after-dengue-death/articleshow/111518557.cms) (The Times of India)
+
+- [Moustique tigre : 90 % de la France en forte vigilance, 12 départements en alerte maximale](https://www.lepoint.fr/sante/moustique-tigre-90-de-la-france-en-forte-vigilance-12-departements-en-alerte-maximale-05-07-2024-2564887_40.php) (Le Point)
+
+- [Dengue cases on rise: Children more susceptible, check do's and don'ts](https://www.business-standard.com/india-news/dengue-cases-on-rise-children-more-susceptible-check-do-s-and-don-ts-124070500796_1.html) (Business Standard)
+
 - [Dengue alert: Keep your premises clean or pay fine, says BBMP](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-to-fine-property-owners-for-dengue-breeding/articleshow/111498835.cms) (The Times of India)
 
 - [Map Shows Florida Dengue Cases After Health Warning](https://www.newsweek.com/map-floridadengue-cases-health-warning-1921302) (Newsweek)
@@ -373,6 +401,8 @@ Source: [News API](https://newsapi.org/)
 - [«تب استخوان شکن» را جدی بگیریم](https://www.isna.ir/news/1403041006560/تب-استخوان-شکن-را-جدی-بگیریم) (Isna.ir)
 
 ## 24-27 (chikungunya)
+
+- [Moustique tigre : 90 % de la France en forte vigilance, 12 départements en alerte maximale](https://www.lepoint.fr/sante/moustique-tigre-90-de-la-france-en-forte-vigilance-12-departements-en-alerte-maximale-05-07-2024-2564887_40.php) (Le Point)
 
 - [Zika virus cases in Maharashtra: Govt urges vigilance, focus on pregnant women screening](https://economictimes.indiatimes.com/news/india/zika-virus-cases-in-maharashtra-govt-urges-vigilance-focus-on-pregnant-women-screening/articleshow/111456837.cms) (The Times of India)
 
@@ -2946,8 +2976,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroepidemiology of pertussis in Huzhou: A population-based, cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303508) (Plos.org)
 
-- [Whooping Cough Is Surging in The UK, And This Could Be Why](https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why) (ScienceAlert)
-
 ## 24-21 (mpox)
 
 - [CDC says vaccination could protect the U.S. from more dangerous mpox virus](https://www.nbcnews.com/health/health-news/cdc-says-vaccines-can-protect-us-dangerous-mpox-virus-know-rcna153753) (NBC News)
@@ -3041,8 +3069,6 @@ Source: [News API](https://newsapi.org/)
 - [SII commences shipments of malaria vaccine 'R21/Matrix-M' to Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sii-commences-shipments-of-malaria-vaccine-r21/matrix-m-to-africa/articleshow/110272436.cms) (The Times of India)
 
 - [Serum Institute ships first R21/Matrix-M malaria vaccine to Africa](https://www.thehindubusinessline.com/news/national/serum-institute-ships-first-r21matrix-m-malaria-vaccine-to-africa/article68196040.ece) (BusinessLine)
-
-- [Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future](https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814) (The Conversation Africa)
 
 ## 24-21 (hpai)
 
@@ -3359,8 +3385,6 @@ Source: [News API](https://newsapi.org/)
 - [Learning English Podcast - May 20, 2024](https://learningenglish.voanews.com/a/7598921.html) (VOA News)
 
 - [Por quinta semana desciende el promedio nacional de casos confirmados de dengue: los grupos más afectados](https://www.lanacion.com.ar/sociedad/por-quinta-semana-desciende-el-promedio-nacional-de-casos-confirmados-de-dengue-los-grupos-mas-nid19052024/) (La Nacion)
-
-- [Tive dengue; quando posso me vacinar?](https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html) (Ig.com.br)
 
 ## 24-21 (chikungunya)
 

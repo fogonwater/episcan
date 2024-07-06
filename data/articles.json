@@ -1,8 +1,261 @@
 {
-  "last_updated": "2024-07-06 07:05",
-  "count_articles_total": 1499,
-  "count_articles_new": 4,
+  "last_updated": "2024-07-06 19:05",
+  "count_articles_total": 1510,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 10830,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times News Network",
+      "title": "Centre directs states to be alert about Zika spread",
+      "description": "Panaji: The health department on Friday sent the Union health ministry\u2019s Zika advisory to all health centres, including those in the interiors.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/centre-directs-states-to-be-alert-about-zika-spread/articleshow/111522328.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-05 19:05:43",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-06 19:05:45.840734",
+      "internal_id": "862ea5e6fe4d3511841f3cff0514e0638c44f4b0d46cf24b4e76abc6e992f2e0",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10826,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "El mapa que muestra las ciudades de Florida m\u00e1s afectadas por el dengue",
+      "description": "Miami-Dade es el condado m\u00e1s afectado del estado del sur de EE.UU.; los especialistas explicaron los s\u00edntomas de la enfermedad y brindaron recomendaciones en caso de contagio",
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/el-mapa-que-muestra-las-ciudades-de-florida-mas-afectadas-por-el-dengue-nid05072024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/en-lo-que-va-de-2024-se-recibieron-mas-de-200-2BG6J4AA2JHARGR4T5OE4AOC44.jpg?auth=9b36d8497d598252e552d947759df0c5d51e187d14279292fcf89c1f2296b6ea&width=768&quality=70&smart=false",
+      "publishedAt": "2024-07-05 17:53:16",
+      "content": "En las 26 semanas que lleva 2024 se reportaron m\u00e1s de 200 casos de dengue en Florida, que alcanz\u00f3 un tercio de las estad\u00edsticas de 2023. Miami-Dade es uno de los condados m\u00e1s afectados y acumula un g\u2026 [+1687 chars]",
+      "retrievedAt": "2024-07-06 19:05:44.125408",
+      "internal_id": "c1ed9b081019cc4b7d1b5d1aa80edd9c53a7eb81d09031b9cc89f7ed1806310c",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10827,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Tunde Oyekola",
+      "title": "Kwara gov urges mothers to participate in anti-malaria campaign",
+      "description": "Kwara State governor, Mallam AbdulRahman AbdulRazaq has urged mothers in the state to receive and administer to eligible children the malaria preventive drug to be distributed from house to house in the state. The governor said that malaria preventive strateg\u2026",
+      "url": "https://punchng.com/kwara-gov-urges-mothers-to-participate-in-anti-malaria-campaign/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2020/02/29210017/Life-cycle-of-malaria-in-human-being.jpg",
+      "publishedAt": "2024-07-05 17:49:58",
+      "content": "Kwara State governor, Mallam AbdulRahman AbdulRazaq has urged mothers in the state to receive and administer to eligible children the malaria preventive drug to be distributed from house to house in \u2026 [+2995 chars]",
+      "retrievedAt": "2024-07-06 19:05:45.410850",
+      "internal_id": "1eb9176ef59219441e89f0b5c3122afde8e44f9c80743c58756d4c94d667c625",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10828,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Faizul Akmal Abdul Rahim, Mohd Hatta Abdul Mutalip, Ahmad Mohiddin Mohd Ngesom, Mohd Amierul Fikri Mahmud, Norzawati Yoep",
+      "title": "Unveiling the impact of community knowledge in malaria programmes: A scoping review protocol",
+      "description": "Background Despite significant reductions in recent malaria cases and deaths globally, the persistence of this health concern necessitates a shift from traditional top-down approaches. Consequently, malaria control initiatives increasingly focus on empowering\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306776",
+      "urlToImage": null,
+      "publishedAt": "2024-07-05 14:00:00",
+      "content": "Background Malaria, a vector-borne disease caused by Plasmodium parasites, remains a significant global health challenge. In 2020 alone, it accounted for an estimated 241 million cases and 627,000 d\u2026 [+6612 chars]",
+      "retrievedAt": "2024-07-06 19:05:45.431187",
+      "internal_id": "0c59639a5490ca1c1c99a691ef56c8885f77f3587012ecbb2e0c577b3e1a051f",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10829,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Zeinab Pourhashem, Leila Nourani, Sakineh Pirahmadi, Hemn Yousefi, Jafar J. Sani, Abbasali Raz, Sedigheh Zakeri, Navid Dinparast Djadid, Akram Abouie Mehrizi",
+      "title": "Malaria transmission blocking activity of Anopheles stephensi alanyl aminopeptidase N antigen formulated with MPL, CpG, and QS21 adjuvants",
+      "description": "Backgrounds Malaria, a preventive and treatable disease, is still responsible for annual deaths reported in most tropical regions, principally in sub-Saharan Africa. Subunit recombinant transmission-blocking vaccines (TBVs) have been proposed as promising vac\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306664",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0306664.g007&size=inline",
+      "publishedAt": "2024-07-05 14:00:00",
+      "content": "Citation: Pourhashem Z, Nourani L, Pirahmadi S, Yousefi H, J. Sani J, Raz A, et al. (2024) Malaria transmission blocking activity of Anopheles stephensi alanyl aminopeptidase N antigen formulated wit\u2026 [+47311 chars]",
+      "retrievedAt": "2024-07-06 19:05:45.435861",
+      "internal_id": "d65591b46e40aab4c338ea8fd8c5db4e6940294e3334dd5616562a9c334a657d",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10831,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dana Machmouchi, Marie-Pierre Courageot, Chaker El-Kalamouni, Alain Kohl, Philippe Despr\u00e8s",
+      "title": "Replication properties of a contemporary Zika virus from West Africa",
+      "description": "Author summary Most studies with the objective to understand the biology of Zika virus (ZIKV) were carried out using the epidemic Asian genotype of this pathogen. It is currently being discussed whether ZIKV of African genotype may have epidemic potential ass\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012066",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012066.g010&size=inline",
+      "publishedAt": "2024-07-05 14:00:00",
+      "content": "Abstract Zika virus (ZIKV) has become a global health problem over the past decade due to the extension of the geographic distribution of the Asian/American genotype. Recent epidemics of Asian/Ameri\u2026 [+76404 chars]",
+      "retrievedAt": "2024-07-06 19:05:45.878806",
+      "internal_id": "a63fe594bae6e643929e81d1302fb56751179c6fb7bef18e3007eba4a724f02f",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10823,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times News Network",
+      "title": "Health dept conducts inspection at Rumdamol after dengue death",
+      "description": "Margao: Following the recent death of a five-year-old boy from Rumdamol, Davorlim, suspected to be caused by dengue, a team of the directorate of heal.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/health-dept-conducts-inspection-at-rumdamol-after-dengue-death/articleshow/111518557.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-05 13:57:44",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-06 19:05:44.082320",
+      "internal_id": "2cf6638a4bf507a839cb881d745977c211f75767fbd9b9f8149d0cf39852988a",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10821,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hospitalmanagement.net",
+      "author": "Alex Blair",
+      "title": "Does H5N1 avian influenza have pandemic potential?",
+      "description": "As Finland administers the world\u2019s first avian influenza vaccine for humans, the WHO says H5N1 has \u201cpandemic potential\u201d.",
+      "url": "https://www.hospitalmanagement.net/features/does-h5n1-avian-influenza-have-pandemic-potential/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qYgJfmhxaHCFEKaoGn1RLg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/hospital_management_177/85cc63b2b8325322a07e954c0abcd82c",
+      "publishedAt": "2024-07-05 13:55:35",
+      "content": "The global medical community is beginning to mobilise in response to the growing threat of pandemic posed by the H5N1 strain of avian influenza. On 2 July, the US government chose Moderna to develop\u2026 [+6981 chars]",
+      "retrievedAt": "2024-07-06 19:05:43.267541",
+      "internal_id": "83ac149f32daf0df13b14c5c3e713c8347b289b2cd13a02b30ef114efef4b896",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10822,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Medical Device Network",
+      "author": "Alex Blair",
+      "title": "Does H5N1 avian influenza have pandemic potential?",
+      "description": "As Finland administers the world\u2019s first avian influenza vaccine for humans, the WHO says H5N1 has \u201cpandemic potential\u201d.",
+      "url": "https://www.medicaldevice-network.com/features/does-h5n1-avian-influenza-have-pandemic-potential/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7J.Ymnf.tX1egqpbGQh0ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/medical_device_network_744/85cc63b2b8325322a07e954c0abcd82c",
+      "publishedAt": "2024-07-05 13:53:19",
+      "content": "The global medical community is beginning to mobilise in response to the growing threat of pandemic posed by the H5N1 strain of avian influenza. On 2 July, the US government chose Moderna to develop\u2026 [+6984 chars]",
+      "retrievedAt": "2024-07-06 19:05:43.272166",
+      "internal_id": "20c6c020349f80da090007c9eb3ef4d29f00f2df180a43f0cdb3afd22d4166c7",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10832,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Yeshiwas, A. G., Temesegen, A., Melkie, G., Tsega, T. D., Mola, A., Tesfa, H., Shimels, A., Asmamaw, M., Shiferaw, A., Tsegaye, D., Muchie, E., Tesfaye, D., Yenew, C.",
+      "title": "Assessing healthcare workers confidence level in diagnosing and managing emerging infectious virus of human mpox in hospitals in Amhara Region, Northwest Ethiopia: multicentre institution-based cross-sectional study",
+      "description": "Objective To assess healthcare workers\u2019 (HCWs) confidence level in diagnosing and managing mpox disease and its associated factors in hospitals in the Amhara Region. Design Institution-based cross-sectional study. Setting Hospitals in the Amhara Region, Nor\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/7/e080791",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-07-05 13:17:56",
+      "content": "Introduction Mpox is an illness caused by the mpox virus, a double-stranded DNA virus belonging to the genus Orthopoxvirus within the Poxviridae family, almost similar to variola virus responsible f\u2026 [+11851 chars]",
+      "retrievedAt": "2024-07-06 19:05:46.674382",
+      "internal_id": "8acb4579a209150dd9264eec9919becd47fe417c9354c46c5f3d551c737575e5",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10824,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Martin Pereira",
+      "title": "Moustique tigre : 90 % de la France en forte vigilance, 12 d\u00e9partements en alerte maximale",
+      "description": "Le sud du pays est particulierement surveille, en raison des risques de contaminations de la dengue ou du chikungunya. L'inquietude monte alors que les vacances estivales commencent.",
+      "url": "https://www.lepoint.fr/sante/moustique-tigre-90-de-la-france-en-forte-vigilance-12-departements-en-alerte-maximale-05-07-2024-2564887_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2024/07/05/26703547lpw-26703628-mega-une-jpg_10399159.jpg",
+      "publishedAt": "2024-07-05 13:13:00",
+      "content": "Alerte piq\u00fbre. Le moustique tigre, originaire d'Asie, est d\u00e9sormais sur l'int\u00e9gralit\u00e9 du territoire fran\u00e7ais. Vendredi 5 juillet, le site Vigilance moustiques indique que \u00ab 90 % du territoire [est] e\u2026 [+2151 chars]",
+      "retrievedAt": "2024-07-06 19:05:44.087348",
+      "internal_id": "7f9561f004da5cae123a1a658cb892775b0588701f983c31aa7e732f75c02270",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10825,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Sudeep Singh Rawat",
+      "title": "Dengue cases on rise: Children more susceptible, check do's and don'ts",
+      "description": "Dengue cases rise: Dengue is a viral infection caused by mosquitoes. It is a serious disease especially in children due to their immature immune systems",
+      "url": "https://www.business-standard.com/india-news/dengue-cases-on-rise-children-more-susceptible-check-do-s-and-don-ts-124070500796_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-02/11/thumb/fitandfill/400X400/1707622152-9639.jpg",
+      "publishedAt": "2024-07-05 12:03:10",
+      "content": "Dengue is a viral infection caused by mosquitoes. It is a serious disease especially in children due to their immature immune systems Photo: Unsplash Sudeep Singh RawatNew Delhi Dengue cases are r\u2026 [+3601 chars]",
+      "retrievedAt": "2024-07-06 19:05:44.102527",
+      "internal_id": "33db9009c526c32cb7a13248c636506d3ce19fac45ac530833bbb1a4a7c762d6",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10820,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Modern Farmer",
+      "author": "Emily Baron Cadloff",
+      "title": "How Much Do You Really Need to Worry About Bird Flu?",
+      "description": "This current strain of Highly Pathogenic Avian Influenza (HPAI, more commonly known as bird flu) is causing problems. It\u2019s been detected in nearly 97 million birds in commercial or backyard flocks, with another 9,500 wild birds confirmed infected. In birds, i\u2026",
+      "url": "https://modernfarmer.com/2024/07/how-much-do-you-really-need-to-worry-about-bird-flu/",
+      "urlToImage": "https://modernfarmer.com/wp-content/uploads/2024/07/shutterstock_1104468857-jpg.webp",
+      "publishedAt": "2024-07-05 12:00:40",
+      "content": "This current strain of Highly Pathogenic Avian Influenza (HPAI, more commonly known as bird flu) is causing problems. Its been detected in nearly 97 million birds in commercial or backyard flocks, wi\u2026 [+3511 chars]",
+      "retrievedAt": "2024-07-06 19:05:42.458947",
+      "internal_id": "7937be47e558ed6e4cb39f4016dc68b33f2e31da7c453b96f71b13cbeadce851",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 10819,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Kailin Daniels",
+      "title": "News24 | Rabies detected in Cape Fur seals along Western Cape coast, warning issued",
+      "description": "The National Institute for Communicable Diseases (NICD) sent out an alert last week to make the public aware of the ongoing rabies risk along the Western Cape coast.",
+      "url": "https://www.news24.com/news24/community-newspaper/tygerburger/rabies-detected-in-cape-fur-seals-along-western-cape-coast-warning-issued-20240705-2",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11971/a8c1f992841e4118b416d3d9c17693d1.jpg",
+      "publishedAt": "2024-07-05 11:21:27",
+      "content": "Rabies is a serious and often fatal disease. The rabies virus is spread to humans and other animals through contact with the saliva of infected animals. Humans can be exposed to rabies through bites,\u2026 [+2504 chars]",
+      "retrievedAt": "2024-07-06 19:05:41.527921",
+      "internal_id": "2f63c6ee7c8de895a22999774d3697f073adfbb09f93bf2d4a794d849b898de7",
+      "publishedAtLabel": "Jul 5"
+    },
     {
       "id": 10817,
       "query": [
@@ -27009,60 +27262,6 @@
       "content": "A little barred owl looked up from the crux of Dana Franzen-Klein's elbow, stared the veterinarian in the eye and, in as tough and menacing of a posture as he could muster, clicked his beak. The inju\u2026 [+6183 chars]",
       "retrievedAt": "2024-05-21 07:06:07.864022",
       "internal_id": "b04b7211a9de5f6f281368492b98009fe801847c5946f20c75a602717154f73b",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9320,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "ScienceAlert",
-      "author": "Michael Head, The Conversation",
-      "title": "Whooping Cough Is Surging in The UK, And This Could Be Why",
-      "description": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024.",
-      "url": "https://www.sciencealert.com/whooping-cough-is-surging-in-the-uk-and-this-could-be-why",
-      "urlToImage": "https://www.sciencealert.com/images/2024/05/WhoopingCoughOnTheRiseInUKWomenCoughing.jpg",
-      "publishedAt": "2024-05-19 11:30:09",
-      "content": "A large outbreak of pertussis (more commonly known as whooping cough) has been ongoing in the UK since the beginning of 2024. There have been 2,793 confirmed cases so far this year. Sadly, five infa\u2026 [+5653 chars]",
-      "retrievedAt": "2024-05-20 19:05:22.412480",
-      "internal_id": "4bec85cd0e2d6cd6b953743ed7b90cfa9eb2c27679ab316857d344b42f3e9270",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9321,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Tive dengue; quando posso me vacinar?",
-      "description": "Imunizante est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada",
-      "url": "https://saude.ig.com.br/2024-05-19/tive-dengue--quando-posso-me-vacinar-.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
-      "publishedAt": "2024-05-19 09:00:02",
-      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e na rede privada. A faixa et\u00e1ria do p\u00fablico-alvo da unidade de sa\u00fade p\u00fablica, no primeiro momento, \u00e9 para o grupo de 10 a 14 anos\u2026 [+3855 chars]",
-      "retrievedAt": "2024-05-20 19:05:24.128313",
-      "internal_id": "bc8ac58f563e0021fb17ac730746e4bffae42da4a7f284ed88cff59abf98ab2c",
-      "publishedAtLabel": "May 19"
-    },
-    {
-      "id": 9322,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Mark Smith, Professor of Water Science & Heath, University of Leeds, Chris Thomas, Global Professor in Water & Planetary Health, University of Lincoln",
-      "title": "Mapping malaria in Africa: climate change study predicts where mosquitoes will breed in future",
-      "description": "Mosquito populations can respond quickly to changing climate, which means the location of areas at risk of malaria might change.",
-      "url": "https://theconversation.com/mapping-malaria-in-africa-climate-change-study-predicts-where-mosquitoes-will-breed-in-future-229814",
-      "urlToImage": "https://images.theconversation.com/files/593392/original/file-20240510-22-7peqxh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2024-05-19 08:27:51",
-      "content": "Water bodies such as the Nile River, pictured here running through Juba in South Sudan, are included in the new model. Frontpage The relationship between climate and malaria transmission is complex \u2026 [+6207 chars]",
-      "retrievedAt": "2024-05-20 19:05:24.928793",
-      "internal_id": "358e0bde6a335ba396cd048daac77d6c6816ed0bc5eab02f0c68e4b729c85183",
       "publishedAtLabel": "May 19"
     }
   ]
