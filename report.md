@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-07-07 07:06
-- **Most recent article:** 2024-07-06 04:48:00
+- **New articles in last harvest:** 4
+- **Last harvest:** 2024-07-07 19:05
+- **Most recent article:** 2024-07-06 19:05:03
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 61 | 64 | 115 | 62 | 105 | 50 | 457 |
-| h5n1 | 62 | 78 | 55 | 29 | 36 | 56 | 316 |
-| malaria | 25 | 21 | 37 | 20 | 24 | 15 | 142 |
-| mpox | 16 | 8 | 26 | 14 | 46 | 19 | 129 |
+| dengue | 60 | 64 | 115 | 62 | 105 | 51 | 457 |
+| h5n1 | 58 | 78 | 55 | 29 | 36 | 57 | 313 |
+| malaria | 24 | 21 | 37 | 20 | 24 | 15 | 141 |
+| mpox | 15 | 8 | 26 | 14 | 46 | 21 | 130 |
 | chikungunya | 18 | 5 | 14 | 5 | 17 | 6 | 65 |
 | measles | 16 | 11 | 7 | 11 | 8 | 9 | 62 |
 | zika | 3 | 0 | 12 | 3 | 17 | 20 | 55 |
-| rabies | 15 | 9 | 2 | 5 | 8 | 4 | 43 |
+| rabies | 14 | 9 | 2 | 5 | 8 | 4 | 42 |
 | pertussis | 6 | 9 | 11 | 11 | 3 | 1 | 41 |
 | hpai | 11 | 2 | 4 | 4 | 3 | 3 | 27 |
 | meningitis | 1 | 6 | 3 | 1 | 1 | 3 | 15 |
@@ -99,6 +99,10 @@ Source: [News API](https://newsapi.org/)
 - [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
 
 ## 24-27 (mpox)
+
+- [Faster spreading strain of mpox raises alarm...](https://thehill.com/policy/healthcare/4754825-mpox-strain-spreads-drc/) (The Hill)
+
+- [Jetzt schneller übertragbar - WHO warnt vor aggressiveren Affenpocken](https://www.bild.de/leben-wissen/affenpocken-who-besorgt-wegen-neuer-mpox-mutation-668982f548dff37ebb105b41) (Bild)
 
 - [Vaccinations urged amid mpox spread](https://northern.starweekly.com.au/news/vaccinations-urged-amid-mpox-spread/) (Starweekly.com.au)
 
@@ -211,6 +215,8 @@ Source: [News API](https://newsapi.org/)
 - [CDC Reports Fourth Human Case of H5 Bird Flu Tied to Dairy Cow Outbreak](https://www.cdc.gov/media/releases/2024/p-0703-4th-human-case-h5.html) (Cdc.gov)
 
 ## 24-27 (h5n1)
+
+- [Vogelgrippevirus H5N1: Viren denken nicht, Menschen leider oft zu kurz](https://www.zeit.de/gesundheit/2024-07/vogelgrippevirus-h5n1-rinder-usa-pandemie-gefahr) (Die Zeit)
 
 - [TWiV 1128: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1128/) (Microbe.tv)
 
@@ -325,6 +331,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: Dutch expert sees parallels to Q fever outbreaks](https://www.statnews.com/2024/07/01/h5n1-bird-flu-snapshot-q-fever/) (STAT)
 
 ## 24-27 (dengue)
+
+- [Be proactive to fight dengue, Rane tells public](https://timesofindia.indiatimes.com/city/goa/be-proactive-to-fight-dengue-rane-tells-public/articleshow/111543480.cms) (The Times of India)
 
 - [Com cinco novas confirmações, Campinas dobra número de mortes por dengue do recorde histórico](https://g1.globo.com/sp/campinas-regiao/noticia/2024/07/05/com-cinco-novas-confirmacoes-campinas-dobra-numero-de-mortes-por-dengue-do-recorde-historico.ghtml) (Globo)
 
@@ -2478,8 +2486,6 @@ Source: [News API](https://newsapi.org/)
 
 - [News24 | Cape Town metro probes origins of one confirmed, another suspected case of rabies in two family dogs](https://www.news24.com/news24/southafrica/news/cape-town-metro-probes-origins-of-one-confirmed-another-suspected-case-of-rabies-in-two-family-dogs-20240530) (News24)
 
-- [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
-
 ## 24-22 (pertussis)
 
 - [Whooping cough cases on the rise nationwide](https://www.cbsnews.com/pittsburgh/news/whooping-cough-cases-on-the-rise-nationwide/) (CBS News)
@@ -2525,8 +2531,6 @@ Source: [News API](https://newsapi.org/)
 - [Health department urges screening after 2nd confirmed mpox case](https://www.capetownetc.com/news/health-department-urges-screening-after-2nd-confirmed-mpox-case/) (CapeTown ETC)
 
 - [News24 | SA records second mpox case in less than a month](https://www.news24.com/news24/southafrica/news/sa-records-second-mpox-case-in-less-than-a-month-20240528) (News24)
-
-- [Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie](https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000) (Www.nrc.nl)
 
 ## 24-22 (meningitis)
 
@@ -2615,8 +2619,6 @@ Source: [News API](https://newsapi.org/)
 - [Genetic tests that foretell what might pass from mother to child](https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/genetic-tests-that-foretell-what-might-pass-from-mother-to-child/articleshow/110471563.cms) (The Times of India)
 
 - [Japanese mosquito coils taking bite out of malaria in Kenya](https://japantoday.com/category/business/feature-japanese-mosquito-coils-taking-bite-out-of-malaria-in-kenya) (Japan Today)
-
-- [República Centroafricana, primer país del mundo que recibe una nueva vacuna anti-malaria](https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433) (Montevideo.com.uy)
 
 ## 24-22 (leptospirosis)
 
@@ -2770,14 +2772,6 @@ Source: [News API](https://newsapi.org/)
 
 - [US, European nations consider vaccinating workers exposed to bird flu](https://www.marketscreener.com/quote/stock/CSL-LIMITED-6492492/news/US-European-nations-consider-vaccinating-workers-exposed-to-bird-flu-46829956/) (Marketscreener.com)
 
-- [شرب الحليب الخام.. هل هو مفيد؟](https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a) (Aljazeera.net)
-
-- [شناسایی دومین فرد مبتلا به آنفولانزای پرندگان در آمریکا؛ آشنایی با ویروس H5N1](https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus) (Digiato.com)
-
-- [Вірус пташиного грипу вперше виявили в яловичині](https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/) (Pravda.com.ua)
-
-- [Could Bird Flu Lead To Next Pandemic?](https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982) (NDTV News)
-
 ## 24-22 (dengue)
 
 - [Dengue: taxa de imunização ainda é baixa](https://www.terra.com.br/vida-e-estilo/dengue-taxa-de-imunizacao-ainda-e-baixa,f8d558f601b0a9e7d45b7d7d45088da5t0mr3uax.html) (Terra.com.br)
@@ -2899,8 +2893,6 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: WV dengue death toll now 8, cases almost 3,000](https://rpnradio.com/bacolod-wv-dengue-death-toll-now-8-cases-almost-3000/) (Rpnradio.com)
 
 - [Palike bats for ‘dry day’ to fight mosquitoes](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-intensifies-mosquito-control-spraying-activities-in-bengaluru/articleshow/110446527.cms) (The Times of India)
-
-- [Se quintuplican casos de dengue en un año, alerta Ssa](https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-22 (chikungunya)
 
