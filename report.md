@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-07-08 07:07
-- **Most recent article:** 2024-07-07 04:00:00
+- **New articles in last harvest:** 11
+- **Last harvest:** 2024-07-08 19:05
+- **Most recent article:** 2024-07-07 18:54:45
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 61 | 64 | 115 | 62 | 105 | 52 | 4 | 463 |
-| h5n1 | 62 | 78 | 55 | 29 | 36 | 59 | 0 | 319 |
-| malaria | 25 | 21 | 37 | 20 | 24 | 15 | 2 | 144 |
-| mpox | 16 | 8 | 26 | 14 | 46 | 21 | 0 | 131 |
+| dengue | 60 | 64 | 115 | 62 | 105 | 52 | 11 | 469 |
+| h5n1 | 58 | 78 | 55 | 29 | 36 | 59 | 0 | 315 |
+| malaria | 24 | 21 | 37 | 20 | 24 | 15 | 2 | 143 |
+| mpox | 15 | 8 | 26 | 14 | 46 | 21 | 3 | 133 |
 | chikungunya | 18 | 5 | 14 | 5 | 17 | 6 | 0 | 65 |
-| measles | 16 | 11 | 7 | 11 | 8 | 9 | 1 | 63 |
-| zika | 3 | 0 | 12 | 3 | 17 | 20 | 2 | 57 |
-| rabies | 15 | 9 | 2 | 5 | 8 | 4 | 0 | 43 |
+| measles | 16 | 11 | 7 | 11 | 8 | 9 | 2 | 64 |
+| zika | 3 | 0 | 12 | 3 | 17 | 20 | 3 | 58 |
+| rabies | 14 | 9 | 2 | 5 | 8 | 4 | 0 | 42 |
 | pertussis | 6 | 9 | 11 | 11 | 3 | 1 | 0 | 41 |
 | hpai | 11 | 2 | 4 | 4 | 3 | 3 | 0 | 27 |
 | meningitis | 1 | 6 | 3 | 1 | 1 | 3 | 0 | 15 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-28 (zika)
 
+- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
+
 - [What are the initial signs of Zika and Dengue?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-are-the-initial-signs-of-zika-and-dengue/articleshow/111548187.cms) (The Times of India)
 
 - [Man with Zika virus dies in Karnataka's Shivamogga, one more under treatment at home](https://timesofindia.indiatimes.com/city/bengaluru/man-with-zika-virus-dies-in-karnatakas-shivamogga-one-more-under-treatment-at-home/articleshow/111547459.cms) (The Times of India)
@@ -46,7 +48,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Monsoon Fever vs. Dengue: Doctor’s insights on how to differentiate between the two](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/monsoon-fever-vs-dengue-doctors-insights-on-how-to-differentiate-between-the-two/articleshow/111548437.cms) (The Times of India)
 
+## 24-28 (mpox)
+
+- [Kenya on high alert as Mpox virus is reported in DRC](https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846) (Nation.africa)
+
+- [Sorge vor „Clade I“ - WHO warnt vor gefährlicher Mutation des Affenpocken-Virus](https://www.focus.de/gesundheit/sorge-vor-clade-i-who-warnt-vor-gefaehrlicher-mutation-des-affenpocken-virus_id_260115667.html) (Focus)
+
+- [افزایش موارد ابتلا به آبله میمون در آفریقای جنوبی](https://www.entekhab.ir/fa/news/798563/افزایش-موارد-ابتلا-به-آبله-میمون-در-آفریقای-جنوبی) (Entekhab.ir)
+
 ## 24-28 (measles)
+
+- [Five people who survived measles recount the disease’s horrors](https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/) (The Washington Post)
 
 - [TWiV 1129: You never forget the first time you flu](https://www.microbe.tv/twiv/twiv-1129/) (Microbe.tv)
 
@@ -57,6 +69,20 @@ Source: [News API](https://newsapi.org/)
 - [What are the initial signs of Zika and Dengue?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-are-the-initial-signs-of-zika-and-dengue/articleshow/111548187.cms) (The Times of India)
 
 ## 24-28 (dengue)
+
+- [Opposition demands free dengue tests as cases touch 7.1k in Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/opposition-demands-free-dengue-tests-as-cases-touch-7-1k-in-karnataka/articleshow/111560017.cms) (The Times of India)
+
+- [Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory](https://legalinsurrection.com/2024/07/florida-issues-dengue-fever-alert-cdc-issues-its-own-health-advisory/) (Legalinsurrection.com)
+
+- [Epidemiolog Maďar: Klima stěhuje exotické nemoci do Evropy. Co doporučuje před cestami do zahraničí?](https://www.lidovky.cz/domov/epidemiolog-klima-stehuje-exoticke-nemoci-do-evropy-co-doporucuje-pred-cestami-do-zahranici.A240707_185852_ln_domov_rkj) (Lidovky.cz)
+
+- [Davao: Pag-mugna ug Mosquito-Borne Diseases Task Force sa mga barangay, i-implementar](https://rpnradio.com/davao-pag-mugna-ug-mosquito-borne-diseases-task-force-sa-mga-barangay-i-implementar/) (Rpnradio.com)
+
+- [Cong govt in K'taka mired in competition for CM, Dy CM posts: Union min](https://www.business-standard.com/politics/cong-govt-in-k-taka-mired-in-competition-for-cm-dy-cm-posts-union-min-124070700218_1.html) (Business Standard)
+
+- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
+
+- [Dengue grips India's southern state Karnataka, Delhi too registers 240 cases](http://en.people.cn/n3/2024/0707/c90000-20190779.html) (People.cn)
 
 - [TWiV 1129: You never forget the first time you flu](https://www.microbe.tv/twiv/twiv-1129/) (Microbe.tv)
 
@@ -2526,8 +2552,6 @@ Source: [News API](https://newsapi.org/)
 
 - [News24 | Cape Town metro probes origins of one confirmed, another suspected case of rabies in two family dogs](https://www.news24.com/news24/southafrica/news/cape-town-metro-probes-origins-of-one-confirmed-another-suspected-case-of-rabies-in-two-family-dogs-20240530) (News24)
 
-- [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
-
 ## 24-22 (pertussis)
 
 - [Whooping cough cases on the rise nationwide](https://www.cbsnews.com/pittsburgh/news/whooping-cough-cases-on-the-rise-nationwide/) (CBS News)
@@ -2573,8 +2597,6 @@ Source: [News API](https://newsapi.org/)
 - [Health department urges screening after 2nd confirmed mpox case](https://www.capetownetc.com/news/health-department-urges-screening-after-2nd-confirmed-mpox-case/) (CapeTown ETC)
 
 - [News24 | SA records second mpox case in less than a month](https://www.news24.com/news24/southafrica/news/sa-records-second-mpox-case-in-less-than-a-month-20240528) (News24)
-
-- [Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie](https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000) (Www.nrc.nl)
 
 ## 24-22 (meningitis)
 
@@ -2663,8 +2685,6 @@ Source: [News API](https://newsapi.org/)
 - [Genetic tests that foretell what might pass from mother to child](https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/genetic-tests-that-foretell-what-might-pass-from-mother-to-child/articleshow/110471563.cms) (The Times of India)
 
 - [Japanese mosquito coils taking bite out of malaria in Kenya](https://japantoday.com/category/business/feature-japanese-mosquito-coils-taking-bite-out-of-malaria-in-kenya) (Japan Today)
-
-- [República Centroafricana, primer país del mundo que recibe una nueva vacuna anti-malaria](https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433) (Montevideo.com.uy)
 
 ## 24-22 (leptospirosis)
 
@@ -2818,14 +2838,6 @@ Source: [News API](https://newsapi.org/)
 
 - [US, European nations consider vaccinating workers exposed to bird flu](https://www.marketscreener.com/quote/stock/CSL-LIMITED-6492492/news/US-European-nations-consider-vaccinating-workers-exposed-to-bird-flu-46829956/) (Marketscreener.com)
 
-- [شرب الحليب الخام.. هل هو مفيد؟](https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a) (Aljazeera.net)
-
-- [شناسایی دومین فرد مبتلا به آنفولانزای پرندگان در آمریکا؛ آشنایی با ویروس H5N1](https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus) (Digiato.com)
-
-- [Вірус пташиного грипу вперше виявили в яловичині](https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/) (Pravda.com.ua)
-
-- [Could Bird Flu Lead To Next Pandemic?](https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982) (NDTV News)
-
 ## 24-22 (dengue)
 
 - [Dengue: taxa de imunização ainda é baixa](https://www.terra.com.br/vida-e-estilo/dengue-taxa-de-imunizacao-ainda-e-baixa,f8d558f601b0a9e7d45b7d7d45088da5t0mr3uax.html) (Terra.com.br)
@@ -2947,8 +2959,6 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: WV dengue death toll now 8, cases almost 3,000](https://rpnradio.com/bacolod-wv-dengue-death-toll-now-8-cases-almost-3000/) (Rpnradio.com)
 
 - [Palike bats for ‘dry day’ to fight mosquitoes](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-intensifies-mosquito-control-spraying-activities-in-bengaluru/articleshow/110446527.cms) (The Times of India)
-
-- [Se quintuplican casos de dengue en un año, alerta Ssa](https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-22 (chikungunya)
 
