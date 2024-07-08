@@ -1,8 +1,157 @@
 {
-  "last_updated": "2024-07-07 19:05",
-  "count_articles_total": 1298,
-  "count_articles_new": 4,
+  "last_updated": "2024-07-08 07:07",
+  "count_articles_total": 1315,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 10850,
+      "query": [
+        "measles",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1129: You never forget the first time you flu",
+      "description": "TWiV reviews measles in Kenya, a trial for a intranasal COVID vaccine, dengue in the Florida Keys and in Central/South America, Spain connecting government with scientists, T cell activation and viral RNA fragments persist for up to 2 years after SARS-CoV-2 i\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1129/",
+      "urlToImage": null,
+      "publishedAt": "2024-07-07 04:00:00",
+      "content": "TWiV reviews measles in Kenya, a trial for a intranasal COVID vaccine, dengue in the Florida Keys and in Central/South America, Spain connecting government with scientists, T cell activation and vira\u2026 [+695 chars]",
+      "retrievedAt": "2024-07-08 07:07:01.947637",
+      "internal_id": "7b8c7d23f5dc2663fdd45b452cf85f5b192cc87a430b743649ee2e254f35fd0a",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10854,
+      "query": [
+        "dengue",
+        "malaria",
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Monsoon Fever vs. Dengue: Doctor\u2019s insights on how to differentiate between the two",
+      "description": "The monsoon season brings a rise in diseases like typhoid, viral fever, malaria, and dengue. Prompt medical attention is crucial as symptoms overlap. Lab tests are needed for accurate diagnosis. Take precautions to stay healthy.",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/monsoon-fever-vs-dengue-doctors-insights-on-how-to-differentiate-between-the-two/articleshow/111548437.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111548424,width-1070,height-580,imgsize-601852,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-07 03:55:12",
+      "content": "What to do if someone gets an allergic reaction?",
+      "retrievedAt": "2024-07-08 07:07:03.573950",
+      "internal_id": "4307fd6cbf4d986cf724c21ad851b9aa774b9ceb23b08a08d2829a5dbe81b63e",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10853,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "What are the initial signs of Zika and Dengue?",
+      "description": "Monsoon season increases risks of Zika and Dengue due to stagnant water. Zika from Aedes mosquitoes causes fever, rash, joint pain, and conjunctivitis. Dengue, also spread by Aedes, includes Febrile and Critical phases, symptoms, and bleeding. Awareness of sy\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-are-the-initial-signs-of-zika-and-dengue/articleshow/111548187.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111548173,width-1070,height-580,imgsize-419791,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-07 03:29:38",
+      "content": "How to handle malaria during pregnancy",
+      "retrievedAt": "2024-07-08 07:07:03.561363",
+      "internal_id": "f7f07b8c7b0cc5c0738ccca4394009a2e4f76807678e09cf8e08214150aa8a1a",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10857,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Man with Zika virus dies in Karnataka's Shivamogga, one more under treatment at home",
+      "description": "Elderly man dies in Shivamogga after testing positive for Zika virus. Family discharges him against medical advice. First reported death in Karnataka raises concerns. Health officials urge vigilance for symptoms and early medical attention. Deadly virus claim\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/man-with-zika-virus-dies-in-karnatakas-shivamogga-one-more-under-treatment-at-home/articleshow/111547459.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111547479,width-1070,height-580,imgsize-55326,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-07 01:45:40",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-08 07:07:05.344520",
+      "internal_id": "1cae644f970bae55228ef5a22d0c6dacd73ab034cf8187cb68adfaa903a3919e",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10856,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Dengue battle: Bengaluru homes turn tennis courts",
+      "description": "Families in Bengaluru are arming themselves with multiple mosquito bats to combat the rise in dengue cases. The demand for these electric rackets has surged, with prices going up. Residents feel like tennis stars as they battle smart and aggressive mosquitoes\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-battle-bengaluru-homes-turn-tennis-courts/articleshow/111547325.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111547445,width-1070,height-580,imgsize-191892,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-07 01:13:08",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-08 07:07:03.595038",
+      "internal_id": "168269c0ce69cbaf1f422ec0252dd513675b2848286d4dd0d718216be6eebf58",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10858,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Theepochtimes.com",
+      "author": "Lorenz Duchamps",
+      "title": "Health Officials Confirm Human Case of Plague in Colorado",
+      "description": "Health officials are investigating a human case of the plague in a resident who contracted the infectious disease caused by the bacteria Yersinia pestis.",
+      "url": "https://www.theepochtimes.com/us/health-officials-confirm-human-case-of-plague-in-colorado-5681449",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2024/07/07/id5681551-GettyImages-1206811877-SB_1-1080x720.jpg",
+      "publishedAt": "2024-07-07 00:18:04",
+      "content": "Health officials in Colorado are investigating a human case of the plague in a resident who contracted the infectious disease caused by the bacteria Yersinia pestis. The Pueblo Department of Public \u2026 [+3525 chars]",
+      "retrievedAt": "2024-07-08 07:07:06.969615",
+      "internal_id": "6d2b400f12a18361952e1f0dc43990c10cb5e911e3c8e38024a565660ffa63f6",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10851,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "Editorial Board",
+      "title": "New fair safeguards will protect livestock, public health",
+      "description": "Minnesota is commendably at the forefront of requiring H5N1 testing for lactating dairy cattle headed to fairs.",
+      "url": "https://www.startribune.com/editorial-new-fair-safeguards-will-protect-livestock-public-health/600378885/",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/M6OEKEP4P5B2JFHXV7VTEJA354.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2024-07-06 23:00:00",
+      "content": "Opinion editor's note:Editorials represent the opinions of the Star Tribune Editorial Board, which operates independently from the newsroom. Hanna Gudknecht, 16, is understandably blunt when asked a\u2026 [+6022 chars]",
+      "retrievedAt": "2024-07-08 07:07:02.987303",
+      "internal_id": "1dcea1262adf55cc0a2dcb6d78fa201b7ae5aebcfb7f51a4e4df81c2c962fbba",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 10855,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Make videos, become \u2018Dengue Warrior\u2019",
+      "description": "Participate in the Dengue Warrior contest to create awareness and prevent dengue in Bengaluru. Submit your videos showcasing preventive measures and win rewards. Deadline July 25.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-warrior-contest-spread-awareness-and-prevent-dengue/articleshow/111545613.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111545607,width-1070,height-580,imgsize-22356,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-06 22:45:34",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-08 07:07:03.586077",
+      "internal_id": "4b0ac2b263d28ef41f4b0b2e655cf4f4eaf62afe271097fb7c16b4a4ee68d812",
+      "publishedAtLabel": "Jul 6"
+    },
     {
       "id": 10847,
       "query": [
@@ -848,6 +997,24 @@
       "content": "In den USA ist das Vogelgrippe-Virus H5N1 schon auf Rinder \u00fcbergesprungen, in Niedersachsen mussten tausende V\u00f6gel get\u00f6tet werden. Nun warnen internationale Experten vor dem \u00dcberspringen auf den Men\u2026 [+177 chars]",
       "retrievedAt": "2024-07-05 19:05:42.715641",
       "internal_id": "a54f634ed06b35fa85ec5377df4d7add8082c06268052decf7b5b51f7fad4961",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 10852,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Beth Mole, Ars Technica",
+      "title": "US Government Awards Moderna $176 Million for mRNA Bird Flu Vaccine",
+      "description": "As fears of a pandemic mount, the biotech company\u2019s mRNA vaccine trial is set to release Phase 1/2 results later this year, with a larger Phase 3 trial expected to begin in 2025.",
+      "url": "https://www.wired.com/story/moderna-mrna-vaccine-bird-flu-h5n1/",
+      "urlToImage": "https://media.wired.com/photos/6685bc4d8e2618989e172ed8/191:100/w_1280,c_limit/US-Government-Awards-Moderna-$176-Million-for-mRNA-Bird-Flu-Vaccine-GettyImages-2151865875.jpg",
+      "publishedAt": "2024-07-04 10:08:28",
+      "content": "The US government will pay Moderna $176 million to develop an mRNA vaccine against a pandemic influenzaan award given as the highly pathogenic bird flu virus H5N1 continues to spread widely among US \u2026 [+3617 chars]",
+      "retrievedAt": "2024-07-08 07:07:03.000737",
+      "internal_id": "1318ec109b57f1e34ba5b116c838a0ee4e23042a86a9460cefb65a3fe447b45b",
       "publishedAtLabel": "Jul 4"
     },
     {
@@ -23439,6 +23606,150 @@
       "content": "At a time when chrysanthemum flower production for use in mosquito-repelling incense coils has all but ceased in Japan, the tradition has been picked up in Kenya where thousands of people are killed \u2026 [+4916 chars]",
       "retrievedAt": "2024-05-28 07:06:44.446200",
       "internal_id": "fb224978f9c7c9fec333a0c800974af30b5603518ec8906d67d3c2b01cd635fb",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9541,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Menno Sedee",
+      "title": "Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie",
+      "description": "Infectieziekte: Artsen sloegen in 2022 alarm, maar na enkele maanden was mpox (apenpokken) in Nederland vrijwel bestreden. Het virus ging vooral rond in een kleine groep mannen die onderling veel seks hadden.",
+      "url": "https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000",
+      "urlToImage": "https://images.nrc.nl/4VaOK7kC0WLGCVl56ZExvUemdwA=/1200x627/smart/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/images/gn4/data116001316-e4e098.png",
+      "publishedAt": "2024-05-26 18:16:55",
+      "content": "Waar is het apenpokkenvirus gebleven? Twee jaar geleden werden de eerste infecties in Nederland vastgesteld, en toen waren er nog grote zorgen. In enkele maanden liep het aantal meldingen op tot bove\u2026 [+4799 chars]",
+      "retrievedAt": "2024-05-27 19:05:56.413266",
+      "internal_id": "9cb1f7f2f17b96815c6b353351c4efb1c50017370a23975b3b253be6ac35d140",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9540,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Rep\u00fablica Centroafricana, primer pa\u00eds del mundo que recibe una nueva vacuna anti-malaria",
+      "description": "Unicef entreg\u00f3 m\u00e1s de 43.000 dosis por v\u00eda a\u00e9rea en la capital, Bangui, y m\u00e1s de 120.000 llegar\u00e1n en los pr\u00f3ximos d\u00edas.",
+      "url": "https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201606/_W933_80/569220.png",
+      "publishedAt": "2024-05-26 15:50:00",
+      "content": "La Rep\u00fablica Centroafricana (RCA) se ha convertido en el primer pa\u00eds del mundo en recibir una nueva vacuna contra la malaria, la R21/Matrix-M, aprobada por la Organizaci\u00f3n Mundial de la Salud (OMS\u2026 [+2210 chars]",
+      "retrievedAt": "2024-05-27 19:05:55.446048",
+      "internal_id": "d8e0fdc8f928a6b46633fe5eeb060298473960add5feb0ebc921495efdf9e97a",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9537,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeera.net",
+      "author": "\u062f. \u0623\u0633\u0627\u0645\u0629 \u0623\u0628\u0648 \u0627\u0644\u0631\u064f\u0651\u0628",
+      "title": "\u0634\u0631\u0628 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645.. \u0647\u0644 \u0647\u0648 \u0645\u0641\u064a\u062f\u061f",
+      "description": "\u0623\u0635\u0628\u062d \u062a\u0646\u0627\u0648\u0644 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645 -\u063a\u064a\u0631 \u0627\u0644\u0645\u0628\u0633\u062a\u0631- \u0623\u062d\u062f\u062b \u0635\u0631\u0639\u0629\u060c \u0648\u064a\u0634\u0639\u0631 \u0627\u0644\u062e\u0628\u0631\u0627\u0621 \u0628\u0627\u0644\u0642\u0644\u0642 \u0645\u0646 \u0623\u0646\u0647 \u0642\u062f \u064a\u0624\u062f\u064a \u0625\u0644\u0649 \u0627\u0646\u062a\u0634\u0627\u0631 \u0623\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631.",
+      "url": "https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2024/05/shutterstock_1988599271-1716727547.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-05-26 13:25:09",
+      "content": "- - . . . . . . . (H5N1) . (H5N1) . (H5N1). \" \" . . . - - \" \" . \" \" . : \" .. . \u00bb. (H5N1) . . \" \". . . . . . : \" \". . (FDA). \" \" . . : \" \". \" \". . . . \" \" . . ( \u2026 [+31 chars]",
+      "retrievedAt": "2024-05-27 19:05:54.191914",
+      "internal_id": "fedbe48b01bfbb915bee8ea6c4176b34d2493d2d2648fb2ffd6843560b8f15df",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9535,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet Daily News",
+      "author": "hurriyetdailynews.com",
+      "title": "Stray dog bill favors adoption first, AKP says amid backlash",
+      "description": "A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a risk of rabies.",
+      "url": "https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6653228f6070c51f7ddeb833.jpg",
+      "publishedAt": "2024-05-26 11:52:53",
+      "content": "ANKARA A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a ris\u2026 [+1301 chars]",
+      "retrievedAt": "2024-05-27 19:05:53.196458",
+      "internal_id": "e3f16ed86ed58c1d927a1aa35c817a7d7ca4023f43a192a8441cb2f45f292d48",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9536,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Digiato.com",
+      "author": "\u0631\u0636\u0627 \u0632\u0627\u0631\u0639\u200c\u067e\u0648\u0631",
+      "title": "\u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1",
+      "description": "\u0628\u0627 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627 \u0627\u0632 \u0634\u06cc\u0648\u0639 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0627\u0641\u0632\u0627\u06cc\u0634 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0622\u06cc\u0627 \u0628\u0627\u06cc\u062f \u0646\u06af\u0631\u0627\u0646 \u0628\u0648\u062f\u061f The post \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1 appeared first on \u062f\u06cc\u062c\u06cc\u0627\u062a\u0648.",
+      "url": "https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus",
+      "urlToImage": "https://static.digiato.com/digiato/2024/05/image-38.jpg.webp",
+      "publishedAt": "2024-05-26 11:45:00",
+      "content": "H5N1 . . H5N1 . . . H5N1 . . H5N1 . (CDC) . . H5N1 . . H5N1 . . . CDC . . . . . . CDC . H5N1 . CDC . . H5N1 . H5N1 . . . CDC . CDC . . . . H5N1 . . CDC :",
+      "retrievedAt": "2024-05-27 19:05:54.141051",
+      "internal_id": "c6625a1639808f13ea9f00ea277c7410ada2241e4c9a8ad333fc54381a1a6034",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9552,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.com.ua",
+      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430. \u0416\u0438\u0442\u0442\u044f",
+      "title": "\u0412\u0456\u0440\u0443\u0441 \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443 \u0432\u043f\u0435\u0440\u0448\u0435 \u0432\u0438\u044f\u0432\u0438\u043b\u0438 \u0432 \u044f\u043b\u043e\u0432\u0438\u0447\u0438\u043d\u0456",
+      "description": "",
+      "url": "https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/",
+      "urlToImage": "https://imglife.pravda.com.ua/life/images/doc/3/4/62370/3457395d88ebdd2bebd86486e6aec0e2.jpeg?w=1920&q=90",
+      "publishedAt": "2024-05-26 11:30:00",
+      "content": ". . , , , , ,The New York Times. , , . H5N1 . (, ) . , , 58 ' . \", , \", , Consumer Reports. , . \" , \". , , , - , . . , , , , . \" ' \", . , , , . \" , H5N1 , \", , -. , , , .",
+      "retrievedAt": "2024-05-28 07:06:42.690970",
+      "internal_id": "050e922e59cca24332929e52e0d896c1c66dedf1be888ac65889fc23fcbfc9c1",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9538,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Could Bird Flu Lead To Next Pandemic?",
+      "description": "The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for what could lead to the next pandemic?",
+      "url": "https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982",
+      "urlToImage": "https://c.ndtvimg.com/2021-01/uitchfl8_bird-flu_625x300_08_January_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240506.08",
+      "publishedAt": "2024-05-26 08:59:47",
+      "content": "The detection of a case of the widespread H5N1 strain of bird flu in Australia is a cause for concern. The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for \u2026 [+7090 chars]",
+      "retrievedAt": "2024-05-27 19:05:54.205770",
+      "internal_id": "7cae26cbea7db0ac35f1b696cf61930c1110f1c2256392aefa4ff459d69d6847",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9539,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Se quintuplican casos de dengue en un a\u00f1o, alerta Ssa",
+      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos de dengue, de los cuales 6 mil 629 corresponden a dengue con signos de alarma y grave, y 6 mil 769 a no grave. Cifr\u2026",
+      "url": "https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-05-26 07:37:44",
+      "content": "Peri\u00f3dico La JornadaDomingo 26 de mayo de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos \u2026 [+2222 chars]",
+      "retrievedAt": "2024-05-27 19:05:54.826023",
+      "internal_id": "2bf6a34b7cacad447068eb6fe25f3484685a03ef22f0400636ed9ba6f1a596a0",
       "publishedAtLabel": "May 26"
     }
   ]
