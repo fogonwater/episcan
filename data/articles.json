@@ -1,8 +1,607 @@
 {
-  "last_updated": "2024-07-09 07:06",
-  "count_articles_total": 1336,
-  "count_articles_new": 10,
+  "last_updated": "2024-07-09 19:05",
+  "count_articles_total": 1361,
+  "count_articles_new": 33,
   "articles": [
+    {
+      "id": 10890,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "cocolisto",
+      "title": "Cient\u00edficos de Estados Unidos alertan de que aumenta el \u201cpotencial pand\u00e9mico\u201d de la gripe aviar",
+      "description": "El nuevo virus de la gripe aviar H5N1 altamente patog\u00e9nico puede haber ganado la capacidad de transmitirse entre mam\u00edferos y, por tanto, supone \u201cun mayor riesgo para la salud p\u00fablica\u201d de lo que se pensaba, advierte este lunes un estudio de cient\u00edficos estadou\u2026",
+      "url": "https://www.meneame.net/m/ciencia/cientificos-estados-unidos-alertan-aumenta-potencial-pandemico",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-07-08 18:15:49",
+      "content": "Elisa P\u00e9rez, vir\u00f3loga veterinaria en el Centro de Investigaci\u00f3n en Sanidad Animal del CSIC, que no ha participado en el estudio, opina que los nuevos datos son muy importantes y preocupantes. Estamos\u2026 [+824 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.125541",
+      "internal_id": "8abf8df892c9c99f8a981cae661a7a576af5048d7a60c53550ad6a76f4b40938",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10882,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WCAX",
+      "author": "Wcax News Team",
+      "title": "2nd case of measles confirmed in Vermont",
+      "description": "The Vermont Department of Health has confirmed another case of measles in Vermont.",
+      "url": "https://www.wcax.com/2024/07/08/2nd-case-measles-confirmed-vermont/",
+      "urlToImage": "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/v2/35DZM24Y7JGPVJ3GZ42VLHGMV4.jpg?auth=841e565c71d8b5de9ad5b05b37c0cbfb53a3b732844600253e5c696f5aacd6c2&width=1200&height=600&smart=true",
+      "publishedAt": "2024-07-08 18:08:15",
+      "content": "BURLINGTON, Vt. (WCAX) - The Vermont Department of Health has confirmed another case of measles in Vermont. State health officials say the infected individual was exposed to a person with measles in\u2026 [+764 chars]",
+      "retrievedAt": "2024-07-09 19:05:24.474100",
+      "internal_id": "a6beec84a5e61335deb06f107c2fe0ab75cb9bb1c6904a95e38903d6982e60f5",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10907,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Muyinteresante.com",
+      "author": "Sarah Romero",
+      "title": "ADN de hace m\u00e1s de 5.000 a\u00f1os revela c\u00f3mo se expandi\u00f3 una de las enfermedades m\u00e1s mortales de la historia",
+      "description": "Parece que el colonialismo fue uno de los vectores que facilitaron su dispersi\u00f3n por Eurasia.",
+      "url": "https://www.muyinteresante.com/ciencia/65328.html",
+      "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/07/08/668c01bb3c044.jpeg",
+      "publishedAt": "2024-07-08 18:00:00",
+      "content": "La malaria (paludismo) es uno de los adversarios m\u00e1s implacables de la historia de la humanidad que se transmite a trav\u00e9s de la picadura de mosquitos Anopheles infectados; ha afectado a las civilizac\u2026 [+6628 chars]",
+      "retrievedAt": "2024-07-09 19:05:26.317727",
+      "internal_id": "a7ed64b17339dceba9a61c2ee252da8bf9964144538cfb54cb994e84f288308a",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10899,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Dot",
+      "author": "Stacy Fernandez",
+      "title": "\u2018AVON SKIN SO SOFT WORKS 10000000%\u2019: Woman issues warning about what happens if you don\u2019t use bug spray",
+      "description": "A Southern mom is ringing the alarm on possible Dengue outbreaks after she suspects her kid was infected. And she might have a valid point, according to doctors. Dengue is a viral disease spread to people through mosquito bites. According to data dating bac\u2026",
+      "url": "https://www.dailydot.com/news/bug-spray-warning-dengue-fever/",
+      "urlToImage": "https://uploads.dailydot.com/2024/07/bug-spray-psa.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2024-07-08 17:20:36",
+      "content": "A Southern mom is ringing the alarm on possible Dengue outbreaks after she suspects her kid was infected. And she might have a valid point, according to doctors. Dengue is a viral disease spread to \u2026 [+4025 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.611365",
+      "internal_id": "3e622305a9d370a9c773fd8b6bb3d0f003a731b9faea2c602aa0b461e5b2c32a",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10891,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Virus de la gripe aviar H5N1 se transmite entre mam\u00edferos desde leche de vaca infectada",
+      "description": "Tambi\u00e9n se observ\u00f3 la transmisi\u00f3n del virus de ratones lactantes infectados a sus cr\u00edas.",
+      "url": "https://www.montevideo.com.uy/Salud/Virus-de-la-gripe-aviar-H5N1-se-transmite-entre-mamiferos-desde-leche-de-vaca-infectada-uc893446",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202407/_W933_80/887369.jpg",
+      "publishedAt": "2024-07-08 17:17:00",
+      "content": "El virus de la gripe aviar H5N1 se puede transmitir entre mam\u00edferos desde leche de vaca contaminada y puede llegar a las gl\u00e1ndulas mamarias, seg\u00fan un nuevo estudio. Los resultados, obtenidos a pa\u2026 [+4520 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.130596",
+      "internal_id": "e6899d0229ba13b2e0596f4f2c2dd2678b1c18018c4c64d9b3be4bd83809ca77",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10903,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Tigerm\u00fccken in Frankreich: Experten bef\u00fcrchten Dengue-Ausbr\u00fcche bei Olympia",
+      "description": "In den meisten Regionen Frankreichs ist die Tigerm\u00fccke l\u00e4ngst zu Hause. Das Insekt kann gef\u00e4hrliche Viren wie Dengue oder Zika \u00fcbertragen - die sind in Europa aber noch selten, weshalb es bisher wenig zu \u00fcbertragen gibt. Olympia k\u00f6nnte das nun \u00e4ndern.",
+      "url": "https://www.n-tv.de/wissen/Experten-befuerchten-Dengue-Ausbrueche-bei-Olympia-article25072456.html",
+      "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop25036979/6451329825-cImg_16_9-w1200/398683729.jpg",
+      "publishedAt": "2024-07-08 17:13:40",
+      "content": "In den meisten Regionen Frankreichs ist die Tigerm\u00fccke l\u00e4ngst zu Hause. Das Insekt kann gef\u00e4hrliche Viren wie Dengue oder Zika \u00fcbertragen - die sind in Europa aber noch selten, weshalb es bisher weni\u2026 [+4862 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.697884",
+      "internal_id": "8214baee9a23c11c5e2aa1a446a648473f1f7b05062baeee8b4b6d2ee29ab042",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10893,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "redacci\u00f3n",
+      "title": "Un estudio de Estados Unidos comprueba que el virus de la gripe aviar puede transmitirse entre mam\u00edferos a trav\u00e9s de la leche infectada",
+      "description": "La Organizaci\u00f3n Mundial de la Salud ya hab\u00eda lanzado en abril un mensaje para que se consuman productos l\u00e1cteos pasteurizados tras detectar la variante H5N1 en vacas de varias granjas estadounidenses",
+      "url": "https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2024/07/08/estudio-estados-unidoscomprueba-virus-gripe-aviar-puede-transmitirse-mamiferos-traves-leche-infectada/00031720455888446947170.htm",
+      "urlToImage": "https://img.lavdg.com/sc/62hvWNtJDG8hiluN9Y0dmJqi9hQ=/1280x/2024/07/08/00121720458002124255586/Foto/efe_20240220_163421514.jpg",
+      "publishedAt": "2024-07-08 17:02:00",
+      "content": "El virus de la gripe aviar H5N1 puede transmitirse entre mam\u00edferos a trav\u00e9s de leche infectada. Es lo que indica un estudio liderado por Yoshihiro Kawaoka, de la Universidad de Wisconsin-Madison, pub\u2026 [+4980 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.144252",
+      "internal_id": "8d2d11150ac7dbc8b63d2662be105104508c2747fa6a04be5a16f7b002880f82",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10904,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue, se ci fossero vaccini 65% italiani disposti a farli",
+      "description": "Il 65% degli italiani si dichiara favorevole a vaccinarsi contro la Dengue, se gli venisse data questa possibilit\u00e0, ed il 50% si ritiene bene informato su questa malattia. (ANSA)",
+      "url": "https://www.ansa.it/piemonte/notizie/2024/07/08/dengue-se-ci-fossero-vaccini-65-italiani-disposti-a-farli_fb5af326-22e0-4ab0-adb0-fca050346d54.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/6/4/cd69b5ddebf309d20c939f9246a8cc92.jpg",
+      "publishedAt": "2024-07-08 16:24:53",
+      "content": "Il 65% degli italiani si dichiara favorevole a vaccinarsi contro la Dengue, se gli venisse data questa possibilit\u00e0, ed il 50% si ritiene bene informato su questa malattia. E' quanto risulta dai da\u2026 [+1502 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.703163",
+      "internal_id": "76f5d1e83966957761170350f5e84a8611652dd250b377d1f9d2313575893a56",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10883,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Features of H5N1 influenza viruses in dairy cows may facilitate infection, transmission in mammals",
+      "description": "A series of experiments with highly pathogenic H5N1 avian influenza (HPAI H5N1) viruses circulating in infected U.S. dairy cattle found that viruses derived from lactating dairy cattle induced severe disease in mice and ferrets when administered via intranasa\u2026",
+      "url": "https://phys.org/news/2024-07-features-h5n1-influenza-viruses-dairy.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/features-of-h5n1-influ-1.jpg",
+      "publishedAt": "2024-07-08 16:16:02",
+      "content": "A series of experiments with highly pathogenic H5N1 avian influenza (HPAI H5N1) viruses circulating in infected U.S. dairy cattle found that viruses derived from lactating dairy cattle induced severe\u2026 [+5644 chars]",
+      "retrievedAt": "2024-07-09 19:05:24.812573",
+      "internal_id": "38816c37792448614cc145797af5bb1b2b671ed6b4ef54c4edffa4af6cbf0405",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10894,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "elDiario.es",
+      "title": "El virus de la gripe aviar H5N1 aumenta su capacidad de transmitirse entre mam\u00edferos a trav\u00e9s de la leche",
+      "description": "El virus de la gripe aviar H5N1 ha aumentado su capacidad para transmitirse entre mam\u00edferos a trav\u00e9s de la leche, seg\u00fan un estudio publicado este lunes en la revista Nature. El equipo de investigaci\u00f3n aisl\u00f3 el virus en la leche de una vaca infectada en Nuevo \u2026",
+      "url": "https://www.eldiario.es/sociedad/virus-gripe-aviar-h5n1-aumenta-capacidad-transmitirse-mamiferos-traves-leche_1_11508849.html",
+      "urlToImage": "https://static.eldiario.es/clip/1615f0fd-3342-4d57-8d24-fd424c5c7cdc_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-07-08 15:41:37",
+      "content": "El virus de la gripe aviar H5N1 ha aumentado su capacidad para transmitirse entre mam\u00edferos a trav\u00e9s de la leche, seg\u00fan un estudio publicado este lunes en la revista Nature. El equipo de investigaci\u00f3\u2026 [+4318 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.149689",
+      "internal_id": "2747ffdc0f17fd9593d1e0e3093bd95234236595fa792181106699c804722278",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10900,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Premier cas autochtone de dengue de l'ann\u00e9e en France dans l'H\u00e9rault",
+      "description": "Il s'agit du premier cas enregistr\u00e9 sur une personne \"n'ayant pas voyag\u00e9 r\u00e9cemment dans une zone de circulation du virus\", alors que la pr\u00e9sence du moustique tigre ne cesse de s'accro\u00eetre en France.",
+      "url": "https://www.francetvinfo.fr/sante/premier-cas-autochtone-de-dengue-de-l-annee-en-france-dans-l-herault_6654249.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/mwNSuRcnxS2R8v3U5CE6zeSFNe0/1500x843/2024/07/08/000-33qw2bd-668c07a8366f3880586303.jpg",
+      "publishedAt": "2024-07-08 15:38:09",
+      "content": "C'est le premier enregistr\u00e9 en France depuis le d\u00e9but de l'ann\u00e9e 2024. Un cas autochtone de dengue est signal\u00e9, lundi 8 juillet, dans l'H\u00e9rault, par l'Agence r\u00e9gionale de sant\u00e9 (ARS) d'Occitanie, su\u2026 [+1830 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.624264",
+      "internal_id": "25e1907d65d05d8bbd18c0207d2b77d653c6651dfe9ba8f4cd7d467921ec71c9",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10897,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Valentina Raffio",
+      "title": "Un estudio apunta a que el virus de la gripe aviar se puede transmitir a trav\u00e9s de la leche de vacas infectadas",
+      "description": "El mundo vive un 'boom' sin precedentes de gripe aviar H5N1. Hasta ahora, se sab\u00eda que esta cepa de la gripe A era especialmente virulenta y peligrosa para aves de corral as\u00ed como para otras especies silvestres. Pero en el \u00faltimo a\u00f1o, seg\u00fan advierten los expe\u2026",
+      "url": "https://www.elperiodico.com/es/ciencia/20240708/estudio-apunta-virus-gripe-aviar-105350070",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/d3df3ec7-3100-479e-a355-54c8b0d1ae98_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-07-08 15:15:57",
+      "content": "El mundo vive un 'boom' sin precedentes de gripe aviar H5N1. Hasta ahora, se sab\u00eda que esta cepa de la gripe A era especialmente virulenta y peligrosa para aves de corral as\u00ed como para otras especies\u2026 [+4659 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.173257",
+      "internal_id": "1ca4ada69c33c731b4feec6bb06f5167b7776c5de13c866321aaf7edea9e46e1",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10888,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Anna von Hopffgarten",
+      "title": "Vogelgrippe: M\u00e4use und Frettchen geben H5N1 an Artgenossen weiter",
+      "description": "Das in US-amerikanischen Kuhherden grassierende H5N1-Virus \u00fcbertr\u00e4gt sich auch unter anderen S\u00e4ugetieren. Ein Ansteckungsweg steht dabei besonders im Visier der Fachwelt.",
+      "url": "https://www.spektrum.de/news/vogelgrippe-wie-h5n1-saeugetiere-ansteckt/2222772",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/GettyImages-1855340365.jpg",
+      "publishedAt": "2024-07-08 15:09:51",
+      "content": "Nach wie vor ist r\u00e4tselhaft, wie sich das Vogelgrippevirus H5N1 so schnell so weit unter Milchk\u00fchen in den USA verbreiten konnte. Nachdem im Fr\u00fchjahr 2024 bekannt wurde, dass sich M\u00e4use \u00fcber den Verz\u2026 [+2986 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.107737",
+      "internal_id": "dc290fbe49ed0d6444e8a55573c94614dff5b5cd8d4b19b81554162e98d19373",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10889,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Sascha Karberg",
+      "title": "Beunruhigende Mutationen gesammelt: Das macht das aktuelle Vogelgrippe-Virus so gef\u00e4hrlich",
+      "description": "Virologen haben das H5N1-Virus untersucht, das derzeit in den USA in Milchk\u00fchen grassiert und bereits auf vier Menschen \u00fcbergesprungen ist. Offenbar passt es sich immer mehr an S\u00e4uger, auch Menschen, an.",
+      "url": "https://www.tagesspiegel.de/wissen/beunruhigende-mutationen-gesammelt-das-macht-das-aktuelle-vogelgrippe-virus-so-gefahrlich-11981165.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/forschenaktuell1jpg/alternates/BASE_16_9_W1400/forschenaktuell1jpg.jpeg",
+      "publishedAt": "2024-07-08 15:02:29",
+      "content": "Er gilt seit Jahren als Top-Experte f\u00fcr Influenzaviren, insbesondere die Vogelgrippe H5N1: der Virologe Yoshihiro Kawaoka. Jetzt hat seine Forschungsgruppe von der Universit\u00e4t von Wisconsin-Madison d\u2026 [+7640 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.112958",
+      "internal_id": "0b595466b039bd956dea3496ad03f2afde2387d4144c1ad14d283270311a15f4",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10885,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Directoalpaladar.com",
+      "author": "Liliana Fuchs",
+      "title": "La gripe aviar se transmite entre mam\u00edferos desde leche de vaca contaminada y llega a las gl\u00e1ndulas mamarias",
+      "description": "Un estudio publicado estos d\u00edas en la revista Nature ha comprobado que el virus de la gripe aviar H5N1 se puede contagiar desde leche de vaca contaminada a otros mam\u00edferos, llegando a las gl\u00e1ndulas mamarias y propag\u00e1ndose as\u00ed tambi\u00e9n de hembras lactantes a su\u2026",
+      "url": "https://www.directoalpaladar.com/actualidad-1/gripe-aviar-se-transmite-mamiferos-leche-vaca-contaminada-llega-a-glandulas-mamarias",
+      "urlToImage": "https://i.blogs.es/ed7180/vacas/840_560.jpeg",
+      "publishedAt": "2024-07-08 15:01:29",
+      "content": "Un estudio publicado estos d\u00edas en la revista Nature ha comprobado que el virus de la gripe aviar H5N1 se puede contagiar desde leche de vaca contaminada a otros mam\u00edferos, llegando a las gl\u00e1ndulas m\u2026 [+3957 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.076731",
+      "internal_id": "04fdaf3fcc6389306fd4abe394c285819e9386cc7f3b99347cdf3215795da57c",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10884,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Germany Reports H7N5 Bird Flu Outbreak",
+      "description": "Germany has reported a rare H7N5 avian influenza outbreak near the Dutch border. The outbreak of highly pathogenic H7N5 bird flu (HPAI) on a farm in the western part of the country, near the border with the Netherlands, the World Organisation for Animal Healt\u2026",
+      "url": "https://www.shtfplan.com/headline-news/germany-reports-h7n5-bird-flu-outbreak",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu.jpg",
+      "publishedAt": "2024-07-08 15:00:51",
+      "content": "Germany has reported a rare H7N5 avian influenza outbreak near the Dutch border. The outbreak of highly pathogenic H7N5 bird flu (HPAI) on a farm in the western part of the country, near the border w\u2026 [+1621 chars]",
+      "retrievedAt": "2024-07-09 19:05:24.826982",
+      "internal_id": "d801bfa72444726b4f78f3a79f71db786c8d51464640c22208c52f902a954a39",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10895,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "P. Fava",
+      "title": "Confirman que el virus de la gripe aviar H5N1 se ha adaptado a los mam\u00edferos y se contagia por la leche",
+      "description": "La cepa que se extiende entre las vacas de EEUU habr\u00eda desarrollado capacidades para infectar mejor el tracto respiratorio de los mam\u00edferos.",
+      "url": "https://www.elespanol.com/ciencia/salud/20240708/confirman-virus-gripe-aviar-h5n1-adaptado-mamiferos-contagia-leche/868913245_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/07/08/ciencia/salud/868923348_247607294_1706x960.png",
+      "publishedAt": "2024-07-08 15:00:04",
+      "content": "El virus de la gripe aviar H5N1 que ha pasado de los p\u00e1jaros al ganado bovino en EEUU ha dado el salto zoon\u00f3tico para transmitirse entre mam\u00edferos, confirma un estudio publicado en la revista Nature.\u2026 [+3626 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.159005",
+      "internal_id": "e0c5b58b5297c173cf2b05766a990d701a5cf4e35277864128dfd48e8c9eddf3",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10886,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "El virus de la gripe aviar se transmite entre mam\u00edferos a trav\u00e9s de la leche contaminada",
+      "description": "El virus de la gripe aviar H5N1 se puede transmitir entre mam\u00edferos, seg\u00fan un estudio publicado en ' Nature '. El equipo de investigaci\u00f3n aisl\u00f3 el virus en la leche de una vaca infectada en Nuevo M\u00e9xico (EE.UU.) y comprob\u00f3 que se propaga en ratones y hurones,\u2026",
+      "url": "https://www.abc.es/salud/enfermedades/virus-h5n1-gripe-aviar-transmite-mamiferos-traves-20240708134609-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/07/08/gripe-vaca-U11611378104DMR-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-07-08 15:00:00",
+      "content": "El virus de la gripe aviar H5N1 se puede transmitir entre mam\u00edferos, seg\u00fan un estudio publicado en 'Nature'. El equipo de investigaci\u00f3n aisl\u00f3 el virus en la leche de una vaca infectada en Nuevo M\u00e9xic\u2026 [+4503 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.097428",
+      "internal_id": "db55f99652c4fffe769ae79624e77b1945013566bfa48021a7c7320e3db23413",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10887,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Thomas Moore",
+      "title": "Cow flu virus takes 'dangerous step towards infecting humans through respiration'",
+      "description": "The cow flu virus that has spread through US dairy herds may have taken a \"dangerous\" step towards being able to infect humans through respiratory infections, scientists have warned.",
+      "url": "https://news.sky.com/story/bird-flu-spread-to-cows-takes-dangerous-step-towards-infecting-humans-through-respiration-scientists-warn-13175177",
+      "urlToImage": "https://e3.365dm.com/24/05/1600x900/skynews-dairy-cows-farm_6542024.jpg?20240503174337",
+      "publishedAt": "2024-07-08 15:00:00",
+      "content": "The cow flu virus that has spread through US dairy herds may have taken a \"dangerous\" step towards being able to infect humans through respiratory infections, scientists have warned. The H5N1 virus,\u2026 [+2792 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.102850",
+      "internal_id": "4eb55413ced1839e29bbcd7a040b5642be9e9c136a9aceacdb347246e758d8db",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10911,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "Eleven Connecticut residents diagnosed with mpox in 2024, Hartford Courant says",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id3942348/SIGA-Eleven-Connecticut-residents-diagnosed-with-mpox-in--Hartford-Courant-says",
+      "urlToImage": "https://thefly.com/images/meta/periodicals.jpg",
+      "publishedAt": "2024-07-08 14:23:39",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2024-07-09 19:05:27.485921",
+      "internal_id": "7a4c39756f6b720b676d5f68c30f98c9c85c7b23ee16036e542973ec5b08018f",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10906,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "J.D. avec AFP (20 Minutes)",
+      "title": "Montpellier : Premier cas autochtone de dengue de l\u2019ann\u00e9e en France",
+      "description": "La personne contamin\u00e9e par le virus de la dengue, \u00e0 P\u00e9rols, pr\u00e8s de Montpellier, ne s'est pas rendue r\u00e9cemment dans une zone \u00e0 risque",
+      "url": "https://www.20minutes.fr/sante/4100266-20240708-montpellier-premier-cas-autochtone-dengue-annee-france",
+      "urlToImage": "https://img.20mn.fr/YFaDoGR2Rw6m1rJSaXAhEg/1444x920_moustique-tigre-plein-repas-illustration",
+      "publishedAt": "2024-07-08 14:01:53",
+      "content": "Un cas autochtone de dengue a \u00e9t\u00e9 signal\u00e9, lundi, \u00e0 P\u00e9rols (H\u00e9rault), \u00e0 proximit\u00e9 de Montpellier, par lAgence r\u00e9gionale de sant\u00e9 (ARS) dOccitanie. Il sagit du premier cas en France m\u00e9tropolitaine dep\u2026 [+1798 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.721936",
+      "internal_id": "2209cc4175660cce1414864bfa148245025359d930025a89d09d698d03d6e4cd",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10881,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Alebachew Ferede Zegeye, Enyew Getaneh Mekonen, Berhan Tekeba, Tewodros Getaneh Alemu, Mohammed Seid Ali, Almaz Tefera Gonete, Alemneh Tadesse Kassie, Belayneh Shetie Workneh, Tadesse Tarik Tamir, Mulugeta Wassie",
+      "title": "Spatial distribution and determinants of measles vaccination dropout among under-five children in Ethiopia: A spatial and multilevel analysis of 2019 Ethiopian demographic and health survey",
+      "description": "Background Each year, vaccine-preventable diseases cost the lives of 8.8 million under-five children. Although vaccination prevents 1\u20132 million childhood deaths worldwide, measles vaccination dropouts are not well studied in developing countries, particularly\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305393",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0305393.g007&size=inline",
+      "publishedAt": "2024-07-08 14:00:00",
+      "content": "Citation: Zegeye AF, Mekonen EG, Tekeba B, Alemu TG, Ali MS, Gonete AT, et al. (2024) Spatial distribution and determinants of measles vaccination dropout among under-five children in Ethiopia: A spa\u2026 [+41130 chars]",
+      "retrievedAt": "2024-07-09 19:05:24.464177",
+      "internal_id": "260cd4206d2461efbca5ff8f0d3ad135221d42804cdf3a01013c35f42c8d62f1",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10905,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Meng-Jia Lau, Andr\u00e9s R. Valdez, Matthew J. Jones, Igor Aranson, Ary A. Hoffmann, Elizabeth A. McGraw",
+      "title": "The effect of repeat feeding on dengue virus transmission potential in Wolbachia-infected Aedes aegypti following extended egg quiescence",
+      "description": "Author summary Wolbachia pipientis is a naturally occurring, maternally inherited insect endosymbiont that was artificially introduced into the mosquito, Aedes aegypti, the dominant vector of dengue, Zika, chikungunya, and Yellow Fever viruses globally. This \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012305",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012305.g007&size=inline",
+      "publishedAt": "2024-07-08 14:00:00",
+      "content": "Abstract As Wolbachia pipientis is more widely being released into field populations of Aedes aegypti for disease control, the ability to select the appropriate strain for differing environments is \u2026 [+45197 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.712083",
+      "internal_id": "c437f6f71bfc8194af835ca23f8a2094a70ffb6cd51b2da2e812887b4952360d",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10912,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Craig Brierley",
+      "title": "AI able to identify drug-resistant typhoid-like infection from microscopy images in matter of hours",
+      "description": "Artificial intelligence (AI) could be used to identify drug resistant infections, significantly reducing the time it takes for a correct diagnosis, Cambridge researchers have shown. The team determined that an algorithm could be trained to identify drug-resis\u2026",
+      "url": "https://phys.org/news/2024-07-ai-drug-resistant-typhoid-infection.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/ai-able-to-identify-dr.jpg",
+      "publishedAt": "2024-07-08 13:50:01",
+      "content": "Artificial intelligence (AI) could be used to identify drug resistant infections, significantly reducing the time it takes for a correct diagnosis, Cambridge researchers have shown. The team determin\u2026 [+5712 chars]",
+      "retrievedAt": "2024-07-09 19:05:27.680576",
+      "internal_id": "11ce930911df4df15976c1eddc7694ac017371a828607e340cd6943aa79ee64c",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10901,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Un cas autochtone de dengue signal\u00e9 pour la premi\u00e8re fois de l\u2019ann\u00e9e en France, dans l\u2019H\u00e9rault",
+      "description": "Mi-avril, les autorit\u00e9s sanitaires avaient alert\u00e9 sur une situation \u00ab in\u00e9dite \u00bb en m\u00e9tropole, li\u00e9e \u00e0 une flamb\u00e9e de dengue dans les Am\u00e9riques et les Cara\u00efbes, et appel\u00e9 \u00e0 une vigilance renforc\u00e9e surtout \u00e0 l\u2019horizon des Jeux olympiques.",
+      "url": "https://www.lemonde.fr/planete/article/2024/07/08/un-cas-autochtone-de-dengue-signale-pour-la-premiere-fois-de-l-annee-en-france-dans-l-herault_6247926_3244.html",
+      "urlToImage": "https://img.lemde.fr/2015/05/04/10/0/3500/2333/1440/960/60/0/ill_4627381_f00e_228297.jpg",
+      "publishedAt": "2024-07-08 13:47:31",
+      "content": "Un cas autochtone de dengue a \u00e9t\u00e9 signal\u00e9 lundi 8 juillet dans lH\u00e9rault par lAgence r\u00e9gionale de sant\u00e9 (ARS) dOccitanie, le premier enregistr\u00e9 en France depuis le d\u00e9but de lann\u00e9e 2024, sur une person\u2026 [+1750 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.633342",
+      "internal_id": "c87838cdfde6cdc55e4c6aed0bdb6fa202b3587e5b23a97b9bb63e1dad8e7d6c",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10880,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Sigrid M\u00e4rz",
+      "title": "Pertussis: Warum nehmen die Keuchhustenf\u00e4lle so stark zu?",
+      "description": "Keuchhusten ist vor allem f\u00fcr S\u00e4uglinge und \u00e4ltere Menschen gef\u00e4hrlich. Die au\u00dfergew\u00f6hnliche Zunahme der Keuchhustenf\u00e4lle seit Anfang 2024 l\u00e4sst aufhorchen. Was sind die Ursachen?",
+      "url": "https://www.spektrum.de/news/pertussis-warum-nehmen-keuchhustenfaelle-so-stark-zu/2220677",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/AdobeStock_554269365.jpeg",
+      "publishedAt": "2024-07-08 13:09:23",
+      "content": "Die Meldungen der vergangenen Wochen lassen aufhorchen: Seit Jahresbeginn z\u00e4hlt das Robert Koch-Institut (RKI) deutschlandweit knapp 20 000 Keuchhustenf\u00e4lle*. In ganz Europa haben sich die Krankheits\u2026 [+15046 chars]",
+      "retrievedAt": "2024-07-09 19:05:23.734731",
+      "internal_id": "71669063cea41fc06c82d2ca806d2eb77c64735b56c23f87c6aa0945db575810",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10902,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "H\u00e9rault. Une personne touch\u00e9e par le virus de la dengue sans avoir voyag\u00e9",
+      "description": "Le virus a \u00e9t\u00e9 d\u00e9tect\u00e9 sur une personne n'ayant pas voyag\u00e9 r\u00e9cemment dans une zone de circulation du virus. Cette maladie provoque une forte fi\u00e8vre avec, dans de rares cas, une \u00e9volution vers une forme plus grave provoquant notamment des saignements.",
+      "url": "https://www.ledauphine.com/sante/2024/07/08/une-personne-touchee-par-le-virus-de-la-dengue-sans-avoir-voyage",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/D5E594C0-8344-4E25-BE04-FA001134D7D1/FB1200/photo-1720444088.jpg",
+      "publishedAt": "2024-07-08 13:09:00",
+      "content": "Il s'agit du premier cas autochtone de dengue de l'ann\u00e9e en France, et il a \u00e9t\u00e9 localis\u00e9 dans l'H\u00e9rault, du c\u00f4t\u00e9 des communes de Montpellier et P\u00e9rols. Signal\u00e9 ce lundi par l'Agence r\u00e9gionale de san\u2026 [+1965 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.654390",
+      "internal_id": "2c639a0392f3002100518b3cfdcea136148510a0be18bd6a95ce105f7c531f85",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10910,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Doctorpiter.ru",
+      "author": "\u0410\u043d\u043d\u0430 \u041c\u0430\u0439\u0441\u043a\u0430\u044f",
+      "title": "\u041c\u0435\u0434\u0438\u043a\u0438 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0434\u0438\u043d \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0441\u043f\u0440\u043e\u0432\u043e\u0446\u0438\u0440\u043e\u0432\u0430\u043b \u0432 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u0438 \u0432\u0441\u043f\u044b\u0448\u043a\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d\u044c\u0435\u0439 \u043e\u0441\u043f\u044b",
+      "description": "\u0423\u0447\u0435\u043d\u044b\u0435, \u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u0443\u044f \u0434\u0430\u043d\u043d\u044b\u0435 \u043e \u0432\u0441\u043f\u044b\u0448\u043a\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0432 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u0438 \u043e\u0431\u0435\u0437\u044c\u044f\u043d\u044c\u0435\u0439 \u043e\u0441\u043f\u043e\u0439 \u0432 2022 \u0433\u043e\u0434\u0443, \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u043d\u0435\u043e\u0436\u0438\u0434\u0430\u043d\u043d\u044b\u0439 \u0444\u0430\u043a\u0442. \u041e\u0434\u0438\u043d \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0437\u0430 \u0442\u0440\u0438 \u043d\u0435\u0434\u0435\u043b\u0438 \u0443\u043c\u0443\u0434\u0440\u0438\u043b\u0441\u044f \u0437\u0430\u0440\u0430\u0437\u0438\u0442\u044c 75 \u0447\u0435\u043b\u043e\u0432\u0435\u043a....",
+      "url": "https://doctorpiter.ru/obraz-zhizni/imj-odin-chelovek-zarazil-obezyanei-ospoi-pochti-tret-vsekh-bolnykh-v-irlandii-id5747755/",
+      "urlToImage": "https://n1s1.hsmedia.ru/fe/ab/9f/feab9f4b99ca737b940922d56668dcf1/1200x630_0x06G2v94H_1878798277616794782.jpg",
+      "publishedAt": "2024-07-08 11:53:00",
+      "content": ", 2022 2023 , . . 229 . (IMJ), Irish Mirror. 2022- 2023 , . 16 , 68. 28% -, . 2022 , . . 2022 MPOX . - , - . MPOX, . 2024 240 , . , 5%, . CDC , , . .",
+      "retrievedAt": "2024-07-09 19:05:27.468346",
+      "internal_id": "e0c403a094fae9814a6f1d0fa8fb24268d935ce8704199d5774dcd3f7f5b1975",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10892,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Cehona",
+      "title": "\u00bfPodr\u00eda la gripe aviar A(H5N1) causar una nueva pandemia?",
+      "description": "La gripe aviar es una de las enfermedades animales m\u00e1s devastadoras. Tiene un enorme impacto sanitario y econ\u00f3mico y en algunos casos supone adem\u00e1s un gran riesgo para la salud p\u00fablica. Desde finales de 2020 estamos viviendo la epidemia de gripe aviar m\u00e1s gra\u2026",
+      "url": "https://www.meneame.net/m/actualidad/podria-gripe-aviar-h5n1-causar-nueva-pandemia",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-07-08 09:20:31",
+      "content": "No-noticia \"podr\u00eda\" del d\u00eda.",
+      "retrievedAt": "2024-07-09 19:05:25.135500",
+      "internal_id": "ac6ccbe673268acad17d3674f47f19b39832c7a22540c6aa8df381279a94a146",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10908,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Premature birth: Causes and risk factors",
+      "description": "WHO\u2019s 2023 report states premature birth, occurring before 37 weeks, risks newborn health, causing 900,000 deaths in 2019 and 13.4 million premature births in 2020. Causes: infections, multiple pregnancies, gestational diabetes, chronic conditions, and geneti\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/premature-birth-causes-and-risk-factors/articleshow/111569236.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111569400,width-1070,height-580,imgsize-535554,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-08 08:42:49",
+      "content": "How to handle malaria during pregnancy",
+      "retrievedAt": "2024-07-09 19:05:26.331431",
+      "internal_id": "4c5017c5a53a7c1642b0e10a13e80a60980555e15c7a512c3ebdee096ee033eb",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10896,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Megan Molteni",
+      "title": "Bird flu snapshot: 4th case of human transmission, raw milk worries",
+      "description": "While there have not been any confirmed human cases of bird flu transmission as a result of raw milk consumption, health officials worry it\u2019s just a matter of time.",
+      "url": "https://www.statnews.com/2024/07/08/h5n1-bird-flu-virus-raw-milk-samples-delaware/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/07/AP17107674981785-1024x576.jpg",
+      "publishedAt": "2024-07-08 08:34:36",
+      "content": "Bird flu snapshot: This is the latest installment in a series of regular updates on H5N1 avian flu that STAT is publishing on Monday mornings. To read future updates, you can also subscribe to STATs \u2026 [+5649 chars]",
+      "retrievedAt": "2024-07-09 19:05:25.168081",
+      "internal_id": "8c04b1b7fab08a5843586333bb3c1d869fbab6b67c239d0951b4e20310046d07",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10898,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Hosts",
+      "title": "Mosquitos kill more people than any other creature, the CDC warns",
+      "description": "The CDC considers mosquitoes to be the most dangerous animals on earth because of infectious disease transmission. They spread diseases like malaria, dengue and yellow fever.",
+      "url": "https://www.npr.org/2024/07/08/nx-s1-5026612/mosquitos-kill-more-people-than-any-other-creature-the-cdc-warns",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-07-08 08:04:50",
+      "content": "The CDC considers mosquitoes to be the most dangerous animals on earth because of infectious disease transmission. They spread diseases like malaria, dengue and yellow fever.",
+      "retrievedAt": "2024-07-09 19:05:25.605840",
+      "internal_id": "2f505ef01b5e033198c1502213c74539b539c6bf8d7bce63c53095ae1403f79b",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10909,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Leon Lidigu",
+      "title": "Kenya to release genetically modified mosquitoes to fight malaria",
+      "description": "Kenya to release genetically modified mosquitoes to fight malarianation.africa",
+      "url": "https://nation.africa/kenya/health/kenya-to-release-genetically-modified-mosquitoes-to-fight-malaria--4679332",
+      "urlToImage": "https://nation.africa/resource/image/4679336/landscape_ratio3x2/1200/800/6a461fbc5b7b3f8cb8e6292f4ef698e0/pv/mosq.jpg",
+      "publishedAt": "2024-07-08 07:20:37",
+      "content": "The Kenya Medical Research Institute (Kemri) in collaboration with the Imperial College London will soon be introducing genetically modified (GM) mosquitoes in the country to stop the spread of an in\u2026 [+5295 chars]",
+      "retrievedAt": "2024-07-09 19:05:26.357414",
+      "internal_id": "338bd534dca52478d309331c2ffeb8fc151ba15bbbd193aecbfdcfe786cfbec4",
+      "publishedAtLabel": "Jul 8"
+    },
     {
       "id": 10875,
       "query": [
@@ -23985,150 +24584,6 @@
       "content": "At a time when chrysanthemum flower production for use in mosquito-repelling incense coils has all but ceased in Japan, the tradition has been picked up in Kenya where thousands of people are killed \u2026 [+4916 chars]",
       "retrievedAt": "2024-05-28 07:06:44.446200",
       "internal_id": "fb224978f9c7c9fec333a0c800974af30b5603518ec8906d67d3c2b01cd635fb",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9541,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Www.nrc.nl",
-      "author": "Menno Sedee",
-      "title": "Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie",
-      "description": "Infectieziekte: Artsen sloegen in 2022 alarm, maar na enkele maanden was mpox (apenpokken) in Nederland vrijwel bestreden. Het virus ging vooral rond in een kleine groep mannen die onderling veel seks hadden.",
-      "url": "https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000",
-      "urlToImage": "https://images.nrc.nl/4VaOK7kC0WLGCVl56ZExvUemdwA=/1200x627/smart/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/images/gn4/data116001316-e4e098.png",
-      "publishedAt": "2024-05-26 18:16:55",
-      "content": "Waar is het apenpokkenvirus gebleven? Twee jaar geleden werden de eerste infecties in Nederland vastgesteld, en toen waren er nog grote zorgen. In enkele maanden liep het aantal meldingen op tot bove\u2026 [+4799 chars]",
-      "retrievedAt": "2024-05-27 19:05:56.413266",
-      "internal_id": "9cb1f7f2f17b96815c6b353351c4efb1c50017370a23975b3b253be6ac35d140",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9540,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Rep\u00fablica Centroafricana, primer pa\u00eds del mundo que recibe una nueva vacuna anti-malaria",
-      "description": "Unicef entreg\u00f3 m\u00e1s de 43.000 dosis por v\u00eda a\u00e9rea en la capital, Bangui, y m\u00e1s de 120.000 llegar\u00e1n en los pr\u00f3ximos d\u00edas.",
-      "url": "https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201606/_W933_80/569220.png",
-      "publishedAt": "2024-05-26 15:50:00",
-      "content": "La Rep\u00fablica Centroafricana (RCA) se ha convertido en el primer pa\u00eds del mundo en recibir una nueva vacuna contra la malaria, la R21/Matrix-M, aprobada por la Organizaci\u00f3n Mundial de la Salud (OMS\u2026 [+2210 chars]",
-      "retrievedAt": "2024-05-27 19:05:55.446048",
-      "internal_id": "d8e0fdc8f928a6b46633fe5eeb060298473960add5feb0ebc921495efdf9e97a",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9537,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Aljazeera.net",
-      "author": "\u062f. \u0623\u0633\u0627\u0645\u0629 \u0623\u0628\u0648 \u0627\u0644\u0631\u064f\u0651\u0628",
-      "title": "\u0634\u0631\u0628 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645.. \u0647\u0644 \u0647\u0648 \u0645\u0641\u064a\u062f\u061f",
-      "description": "\u0623\u0635\u0628\u062d \u062a\u0646\u0627\u0648\u0644 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645 -\u063a\u064a\u0631 \u0627\u0644\u0645\u0628\u0633\u062a\u0631- \u0623\u062d\u062f\u062b \u0635\u0631\u0639\u0629\u060c \u0648\u064a\u0634\u0639\u0631 \u0627\u0644\u062e\u0628\u0631\u0627\u0621 \u0628\u0627\u0644\u0642\u0644\u0642 \u0645\u0646 \u0623\u0646\u0647 \u0642\u062f \u064a\u0624\u062f\u064a \u0625\u0644\u0649 \u0627\u0646\u062a\u0634\u0627\u0631 \u0623\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631.",
-      "url": "https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2024/05/shutterstock_1988599271-1716727547.jpg?resize=1920%2C1440",
-      "publishedAt": "2024-05-26 13:25:09",
-      "content": "- - . . . . . . . (H5N1) . (H5N1) . (H5N1). \" \" . . . - - \" \" . \" \" . : \" .. . \u00bb. (H5N1) . . \" \". . . . . . : \" \". . (FDA). \" \" . . : \" \". \" \". . . . \" \" . . ( \u2026 [+31 chars]",
-      "retrievedAt": "2024-05-27 19:05:54.191914",
-      "internal_id": "fedbe48b01bfbb915bee8ea6c4176b34d2493d2d2648fb2ffd6843560b8f15df",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9535,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet Daily News",
-      "author": "hurriyetdailynews.com",
-      "title": "Stray dog bill favors adoption first, AKP says amid backlash",
-      "description": "A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a risk of rabies.",
-      "url": "https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6653228f6070c51f7ddeb833.jpg",
-      "publishedAt": "2024-05-26 11:52:53",
-      "content": "ANKARA A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a ris\u2026 [+1301 chars]",
-      "retrievedAt": "2024-05-27 19:05:53.196458",
-      "internal_id": "e3f16ed86ed58c1d927a1aa35c817a7d7ca4023f43a192a8441cb2f45f292d48",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9536,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Digiato.com",
-      "author": "\u0631\u0636\u0627 \u0632\u0627\u0631\u0639\u200c\u067e\u0648\u0631",
-      "title": "\u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1",
-      "description": "\u0628\u0627 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627 \u0627\u0632 \u0634\u06cc\u0648\u0639 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0627\u0641\u0632\u0627\u06cc\u0634 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0622\u06cc\u0627 \u0628\u0627\u06cc\u062f \u0646\u06af\u0631\u0627\u0646 \u0628\u0648\u062f\u061f The post \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1 appeared first on \u062f\u06cc\u062c\u06cc\u0627\u062a\u0648.",
-      "url": "https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus",
-      "urlToImage": "https://static.digiato.com/digiato/2024/05/image-38.jpg.webp",
-      "publishedAt": "2024-05-26 11:45:00",
-      "content": "H5N1 . . H5N1 . . . H5N1 . . H5N1 . (CDC) . . H5N1 . . H5N1 . . . CDC . . . . . . CDC . H5N1 . CDC . . H5N1 . H5N1 . . . CDC . CDC . . . . H5N1 . . CDC :",
-      "retrievedAt": "2024-05-27 19:05:54.141051",
-      "internal_id": "c6625a1639808f13ea9f00ea277c7410ada2241e4c9a8ad333fc54381a1a6034",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9552,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Pravda.com.ua",
-      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430. \u0416\u0438\u0442\u0442\u044f",
-      "title": "\u0412\u0456\u0440\u0443\u0441 \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443 \u0432\u043f\u0435\u0440\u0448\u0435 \u0432\u0438\u044f\u0432\u0438\u043b\u0438 \u0432 \u044f\u043b\u043e\u0432\u0438\u0447\u0438\u043d\u0456",
-      "description": "",
-      "url": "https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/",
-      "urlToImage": "https://imglife.pravda.com.ua/life/images/doc/3/4/62370/3457395d88ebdd2bebd86486e6aec0e2.jpeg?w=1920&q=90",
-      "publishedAt": "2024-05-26 11:30:00",
-      "content": ". . , , , , ,The New York Times. , , . H5N1 . (, ) . , , 58 ' . \", , \", , Consumer Reports. , . \" , \". , , , - , . . , , , , . \" ' \", . , , , . \" , H5N1 , \", , -. , , , .",
-      "retrievedAt": "2024-05-28 07:06:42.690970",
-      "internal_id": "050e922e59cca24332929e52e0d896c1c66dedf1be888ac65889fc23fcbfc9c1",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9538,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Could Bird Flu Lead To Next Pandemic?",
-      "description": "The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for what could lead to the next pandemic?",
-      "url": "https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982",
-      "urlToImage": "https://c.ndtvimg.com/2021-01/uitchfl8_bird-flu_625x300_08_January_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240506.08",
-      "publishedAt": "2024-05-26 08:59:47",
-      "content": "The detection of a case of the widespread H5N1 strain of bird flu in Australia is a cause for concern. The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for \u2026 [+7090 chars]",
-      "retrievedAt": "2024-05-27 19:05:54.205770",
-      "internal_id": "7cae26cbea7db0ac35f1b696cf61930c1110f1c2256392aefa4ff459d69d6847",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9539,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Se quintuplican casos de dengue en un a\u00f1o, alerta Ssa",
-      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos de dengue, de los cuales 6 mil 629 corresponden a dengue con signos de alarma y grave, y 6 mil 769 a no grave. Cifr\u2026",
-      "url": "https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-05-26 07:37:44",
-      "content": "Peri\u00f3dico La JornadaDomingo 26 de mayo de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos \u2026 [+2222 chars]",
-      "retrievedAt": "2024-05-27 19:05:54.826023",
-      "internal_id": "2bf6a34b7cacad447068eb6fe25f3484685a03ef22f0400636ed9ba6f1a596a0",
       "publishedAtLabel": "May 26"
     }
   ]

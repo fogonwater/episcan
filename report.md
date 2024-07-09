@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-07-09 07:06
-- **Most recent article:** 2024-07-08 05:37:00
+- **New articles in last harvest:** 33
+- **Last harvest:** 2024-07-09 19:05
+- **Most recent article:** 2024-07-08 18:15:49
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 61 | 64 | 115 | 62 | 105 | 52 | 17 | 476 |
-| h5n1 | 62 | 78 | 55 | 29 | 36 | 59 | 1 | 320 |
-| malaria | 25 | 21 | 37 | 20 | 24 | 15 | 4 | 146 |
-| mpox | 16 | 8 | 26 | 14 | 46 | 21 | 3 | 134 |
-| chikungunya | 18 | 5 | 14 | 5 | 17 | 6 | 0 | 65 |
-| measles | 16 | 11 | 7 | 11 | 8 | 9 | 2 | 64 |
-| zika | 3 | 0 | 12 | 3 | 17 | 20 | 4 | 59 |
-| rabies | 15 | 9 | 2 | 5 | 8 | 4 | 0 | 43 |
-| pertussis | 6 | 9 | 11 | 11 | 3 | 1 | 0 | 41 |
-| hpai | 11 | 2 | 4 | 4 | 3 | 3 | 0 | 27 |
+| dengue | 60 | 64 | 115 | 62 | 105 | 52 | 26 | 484 |
+| h5n1 | 58 | 78 | 55 | 29 | 36 | 59 | 15 | 330 |
+| malaria | 24 | 21 | 37 | 20 | 24 | 15 | 8 | 149 |
+| mpox | 15 | 8 | 26 | 14 | 46 | 21 | 5 | 135 |
+| measles | 16 | 11 | 7 | 11 | 8 | 9 | 4 | 66 |
+| chikungunya | 18 | 5 | 14 | 5 | 17 | 6 | 1 | 66 |
+| zika | 3 | 0 | 12 | 3 | 17 | 20 | 6 | 61 |
+| pertussis | 6 | 9 | 11 | 11 | 3 | 1 | 1 | 42 |
+| rabies | 14 | 9 | 2 | 5 | 8 | 4 | 0 | 42 |
+| hpai | 11 | 2 | 4 | 4 | 3 | 3 | 2 | 29 |
 | meningitis | 1 | 6 | 3 | 1 | 1 | 3 | 0 | 15 |
-| typhoid | 0 | 1 | 1 | 2 | 3 | 4 | 1 | 12 |
+| typhoid | 0 | 1 | 1 | 2 | 3 | 4 | 2 | 13 |
 | leptospirosis | 4 | 1 | 1 | 1 | 2 | 1 | 0 | 10 |
 | yersinia | 0 | 1 | 0 | 0 | 2 | 0 | 1 | 4 |
 
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-28 (zika)
+
+- [Tigermücken in Frankreich: Experten befürchten Dengue-Ausbrüche bei Olympia](https://www.n-tv.de/wissen/Experten-befuerchten-Dengue-Ausbrueche-bei-Olympia-article25072456.html) (N-tv.de)
+
+- [The effect of repeat feeding on dengue virus transmission potential in Wolbachia-infected Aedes aegypti following extended egg quiescence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012305) (Plos.org)
 
 - [Zika virus scare: Stay alert, keep mosquitoes at bay](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-prevention-and-treatment-advisory/articleshow/111562086.cms) (The Times of India)
 
@@ -48,9 +52,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-28 (typhoid)
 
+- [AI able to identify drug-resistant typhoid-like infection from microscopy images in matter of hours](https://phys.org/news/2024-07-ai-drug-resistant-typhoid-infection.html) (Phys.Org)
+
 - [Monsoon Fever vs. Dengue: Doctor’s insights on how to differentiate between the two](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/monsoon-fever-vs-dengue-doctors-insights-on-how-to-differentiate-between-the-two/articleshow/111548437.cms) (The Times of India)
 
+## 24-28 (pertussis)
+
+- [Pertussis: Warum nehmen die Keuchhustenfälle so stark zu?](https://www.spektrum.de/news/pertussis-warum-nehmen-keuchhustenfaelle-so-stark-zu/2220677) (Spektrum.de)
+
 ## 24-28 (mpox)
+
+- [Eleven Connecticut residents diagnosed with mpox in 2024, Hartford Courant says](https://thefly.com/permalinks/entry.php/id3942348/SIGA-Eleven-Connecticut-residents-diagnosed-with-mpox-in--Hartford-Courant-says) (Thefly.com)
+
+- [Медики выяснили, как один человек спровоцировал в Ирландии вспышку обезьяньей оспы](https://doctorpiter.ru/obraz-zhizni/imj-odin-chelovek-zarazil-obezyanei-ospoi-pochti-tret-vsekh-bolnykh-v-irlandii-id5747755/) (Doctorpiter.ru)
 
 - [Kenya on high alert as Mpox virus is reported in DRC](https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846) (Nation.africa)
 
@@ -60,11 +74,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-28 (measles)
 
+- [2nd case of measles confirmed in Vermont](https://www.wcax.com/2024/07/08/2nd-case-measles-confirmed-vermont/) (WCAX)
+
+- [Spatial distribution and determinants of measles vaccination dropout among under-five children in Ethiopia: A spatial and multilevel analysis of 2019 Ethiopian demographic and health survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305393) (Plos.org)
+
 - [Five people who survived measles recount the disease’s horrors](https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/) (The Washington Post)
 
 - [TWiV 1129: You never forget the first time you flu](https://www.microbe.tv/twiv/twiv-1129/) (Microbe.tv)
 
 ## 24-28 (malaria)
+
+- [ADN de hace más de 5.000 años revela cómo se expandió una de las enfermedades más mortales de la historia](https://www.muyinteresante.com/ciencia/65328.html) (Muyinteresante.com)
+
+- [Premature birth: Causes and risk factors](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/premature-birth-causes-and-risk-factors/articleshow/111569236.cms) (The Times of India)
+
+- [Mosquitos kill more people than any other creature, the CDC warns](https://www.npr.org/2024/07/08/nx-s1-5026612/mosquitos-kill-more-people-than-any-other-creature-the-cdc-warns) (NPR)
+
+- [Kenya to release genetically modified mosquitoes to fight malaria](https://nation.africa/kenya/health/kenya-to-release-genetically-modified-mosquitoes-to-fight-malaria--4679332) (Nation.africa)
 
 - [Chemoproteomics validates selective targeting of Plasmodium M1 alanyl aminopeptidase as an antimalarial strategy](https://elifesciences.org/articles/92990) (Elifesciences.org)
 
@@ -74,11 +100,63 @@ Source: [News API](https://newsapi.org/)
 
 - [What are the initial signs of Zika and Dengue?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-are-the-initial-signs-of-zika-and-dengue/articleshow/111548187.cms) (The Times of India)
 
+## 24-28 (hpai)
+
+- [Features of H5N1 influenza viruses in dairy cows may facilitate infection, transmission in mammals](https://phys.org/news/2024-07-features-h5n1-influenza-viruses-dairy.html) (Phys.Org)
+
+- [Germany Reports H7N5 Bird Flu Outbreak](https://www.shtfplan.com/headline-news/germany-reports-h7n5-bird-flu-outbreak) (Shtfplan.com)
+
 ## 24-28 (h5n1)
+
+- [Científicos de Estados Unidos alertan de que aumenta el “potencial pandémico” de la gripe aviar](https://www.meneame.net/m/ciencia/cientificos-estados-unidos-alertan-aumenta-potencial-pandemico) (Meneame.net)
+
+- [Virus de la gripe aviar H5N1 se transmite entre mamíferos desde leche de vaca infectada](https://www.montevideo.com.uy/Salud/Virus-de-la-gripe-aviar-H5N1-se-transmite-entre-mamiferos-desde-leche-de-vaca-infectada-uc893446) (Montevideo.com.uy)
+
+- [Un estudio de Estados Unidos comprueba que el virus de la gripe aviar puede transmitirse entre mamíferos a través de la leche infectada](https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2024/07/08/estudio-estados-unidoscomprueba-virus-gripe-aviar-puede-transmitirse-mamiferos-traves-leche-infectada/00031720455888446947170.htm) (Lavozdegalicia.es)
+
+- [Features of H5N1 influenza viruses in dairy cows may facilitate infection, transmission in mammals](https://phys.org/news/2024-07-features-h5n1-influenza-viruses-dairy.html) (Phys.Org)
+
+- [El virus de la gripe aviar H5N1 aumenta su capacidad de transmitirse entre mamíferos a través de la leche](https://www.eldiario.es/sociedad/virus-gripe-aviar-h5n1-aumenta-capacidad-transmitirse-mamiferos-traves-leche_1_11508849.html) (Eldiario.es)
+
+- [Un estudio apunta a que el virus de la gripe aviar se puede transmitir a través de la leche de vacas infectadas](https://www.elperiodico.com/es/ciencia/20240708/estudio-apunta-virus-gripe-aviar-105350070) (Elperiodico.com)
+
+- [Vogelgrippe: Mäuse und Frettchen geben H5N1 an Artgenossen weiter](https://www.spektrum.de/news/vogelgrippe-wie-h5n1-saeugetiere-ansteckt/2222772) (Spektrum.de)
+
+- [Beunruhigende Mutationen gesammelt: Das macht das aktuelle Vogelgrippe-Virus so gefährlich](https://www.tagesspiegel.de/wissen/beunruhigende-mutationen-gesammelt-das-macht-das-aktuelle-vogelgrippe-virus-so-gefahrlich-11981165.html) (Der Tagesspiegel)
+
+- [La gripe aviar se transmite entre mamíferos desde leche de vaca contaminada y llega a las glándulas mamarias](https://www.directoalpaladar.com/actualidad-1/gripe-aviar-se-transmite-mamiferos-leche-vaca-contaminada-llega-a-glandulas-mamarias) (Directoalpaladar.com)
+
+- [Confirman que el virus de la gripe aviar H5N1 se ha adaptado a los mamíferos y se contagia por la leche](https://www.elespanol.com/ciencia/salud/20240708/confirman-virus-gripe-aviar-h5n1-adaptado-mamiferos-contagia-leche/868913245_0.html) (Elespanol.com)
+
+- [El virus de la gripe aviar se transmite entre mamíferos a través de la leche contaminada](https://www.abc.es/salud/enfermedades/virus-h5n1-gripe-aviar-transmite-mamiferos-traves-20240708134609-nt.html) (Www.abc.es)
+
+- [Cow flu virus takes 'dangerous step towards infecting humans through respiration'](https://news.sky.com/story/bird-flu-spread-to-cows-takes-dangerous-step-towards-infecting-humans-through-respiration-scientists-warn-13175177) (Sky.com)
+
+- [¿Podría la gripe aviar A(H5N1) causar una nueva pandemia?](https://www.meneame.net/m/actualidad/podria-gripe-aviar-h5n1-causar-nueva-pandemia) (Meneame.net)
+
+- [Bird flu snapshot: 4th case of human transmission, raw milk worries](https://www.statnews.com/2024/07/08/h5n1-bird-flu-virus-raw-milk-samples-delaware/) (STAT)
 
 - [Vogelgrippe H5N1: „Es muss alles getan werden, um das Virus zu stoppen“](https://www.sueddeutsche.de/gesundheit/usa-deutschland-vogelgrippe-kuehe-lux.DbgizRndYotBTPXMfjYA5f) (Süddeutsche Zeitung)
 
 ## 24-28 (dengue)
+
+- [‘AVON SKIN SO SOFT WORKS 10000000%’: Woman issues warning about what happens if you don’t use bug spray](https://www.dailydot.com/news/bug-spray-warning-dengue-fever/) (The Daily Dot)
+
+- [Tigermücken in Frankreich: Experten befürchten Dengue-Ausbrüche bei Olympia](https://www.n-tv.de/wissen/Experten-befuerchten-Dengue-Ausbrueche-bei-Olympia-article25072456.html) (N-tv.de)
+
+- [Dengue, se ci fossero vaccini 65% italiani disposti a farli](https://www.ansa.it/piemonte/notizie/2024/07/08/dengue-se-ci-fossero-vaccini-65-italiani-disposti-a-farli_fb5af326-22e0-4ab0-adb0-fca050346d54.html) (ANSA.it)
+
+- [Premier cas autochtone de dengue de l'année en France dans l'Hérault](https://www.francetvinfo.fr/sante/premier-cas-autochtone-de-dengue-de-l-annee-en-france-dans-l-herault_6654249.html) (Francetvinfo.fr)
+
+- [Montpellier : Premier cas autochtone de dengue de l’année en France](https://www.20minutes.fr/sante/4100266-20240708-montpellier-premier-cas-autochtone-dengue-annee-france) (20 Minutes)
+
+- [The effect of repeat feeding on dengue virus transmission potential in Wolbachia-infected Aedes aegypti following extended egg quiescence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012305) (Plos.org)
+
+- [Un cas autochtone de dengue signalé pour la première fois de l’année en France, dans l’Hérault](https://www.lemonde.fr/planete/article/2024/07/08/un-cas-autochtone-de-dengue-signale-pour-la-premiere-fois-de-l-annee-en-france-dans-l-herault_6247926_3244.html) (Le Monde)
+
+- [Hérault. Une personne touchée par le virus de la dengue sans avoir voyagé](https://www.ledauphine.com/sante/2024/07/08/une-personne-touchee-par-le-virus-de-la-dengue-sans-avoir-voyage) (Le Dauphiné Libéré)
+
+- [Mosquitos kill more people than any other creature, the CDC warns](https://www.npr.org/2024/07/08/nx-s1-5026612/mosquitos-kill-more-people-than-any-other-creature-the-cdc-warns) (NPR)
 
 - [Johor records 297 new dengue cases, one death in first week of July](https://www.thestar.com.my/news/nation/2024/07/08/johor-records-297-new-dengue-cases-one-death-in-first-week-of-july) (The Star Online)
 
@@ -113,6 +191,10 @@ Source: [News API](https://newsapi.org/)
 - [What are the initial signs of Zika and Dengue?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-are-the-initial-signs-of-zika-and-dengue/articleshow/111548187.cms) (The Times of India)
 
 - [Dengue battle: Bengaluru homes turn tennis courts](https://timesofindia.indiatimes.com/city/bengaluru/dengue-battle-bengaluru-homes-turn-tennis-courts/articleshow/111547325.cms) (The Times of India)
+
+## 24-28 (chikungunya)
+
+- [The effect of repeat feeding on dengue virus transmission potential in Wolbachia-infected Aedes aegypti following extended egg quiescence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012305) (Plos.org)
 
 ## 24-27 (zika)
 
@@ -2574,8 +2656,6 @@ Source: [News API](https://newsapi.org/)
 
 - [News24 | Cape Town metro probes origins of one confirmed, another suspected case of rabies in two family dogs](https://www.news24.com/news24/southafrica/news/cape-town-metro-probes-origins-of-one-confirmed-another-suspected-case-of-rabies-in-two-family-dogs-20240530) (News24)
 
-- [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
-
 ## 24-22 (pertussis)
 
 - [Whooping cough cases on the rise nationwide](https://www.cbsnews.com/pittsburgh/news/whooping-cough-cases-on-the-rise-nationwide/) (CBS News)
@@ -2621,8 +2701,6 @@ Source: [News API](https://newsapi.org/)
 - [Health department urges screening after 2nd confirmed mpox case](https://www.capetownetc.com/news/health-department-urges-screening-after-2nd-confirmed-mpox-case/) (CapeTown ETC)
 
 - [News24 | SA records second mpox case in less than a month](https://www.news24.com/news24/southafrica/news/sa-records-second-mpox-case-in-less-than-a-month-20240528) (News24)
-
-- [Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie](https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000) (Www.nrc.nl)
 
 ## 24-22 (meningitis)
 
@@ -2711,8 +2789,6 @@ Source: [News API](https://newsapi.org/)
 - [Genetic tests that foretell what might pass from mother to child](https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/genetic-tests-that-foretell-what-might-pass-from-mother-to-child/articleshow/110471563.cms) (The Times of India)
 
 - [Japanese mosquito coils taking bite out of malaria in Kenya](https://japantoday.com/category/business/feature-japanese-mosquito-coils-taking-bite-out-of-malaria-in-kenya) (Japan Today)
-
-- [República Centroafricana, primer país del mundo que recibe una nueva vacuna anti-malaria](https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433) (Montevideo.com.uy)
 
 ## 24-22 (leptospirosis)
 
@@ -2866,14 +2942,6 @@ Source: [News API](https://newsapi.org/)
 
 - [US, European nations consider vaccinating workers exposed to bird flu](https://www.marketscreener.com/quote/stock/CSL-LIMITED-6492492/news/US-European-nations-consider-vaccinating-workers-exposed-to-bird-flu-46829956/) (Marketscreener.com)
 
-- [شرب الحليب الخام.. هل هو مفيد؟](https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a) (Aljazeera.net)
-
-- [شناسایی دومین فرد مبتلا به آنفولانزای پرندگان در آمریکا؛ آشنایی با ویروس H5N1](https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus) (Digiato.com)
-
-- [Вірус пташиного грипу вперше виявили в яловичині](https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/) (Pravda.com.ua)
-
-- [Could Bird Flu Lead To Next Pandemic?](https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982) (NDTV News)
-
 ## 24-22 (dengue)
 
 - [Dengue: taxa de imunização ainda é baixa](https://www.terra.com.br/vida-e-estilo/dengue-taxa-de-imunizacao-ainda-e-baixa,f8d558f601b0a9e7d45b7d7d45088da5t0mr3uax.html) (Terra.com.br)
@@ -2995,8 +3063,6 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: WV dengue death toll now 8, cases almost 3,000](https://rpnradio.com/bacolod-wv-dengue-death-toll-now-8-cases-almost-3000/) (Rpnradio.com)
 
 - [Palike bats for ‘dry day’ to fight mosquitoes](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-intensifies-mosquito-control-spraying-activities-in-bengaluru/articleshow/110446527.cms) (The Times of India)
-
-- [Se quintuplican casos de dengue en un año, alerta Ssa](https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-22 (chikungunya)
 
