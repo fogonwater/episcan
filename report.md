@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 33
-- **Last harvest:** 2024-07-09 19:05
-- **Most recent article:** 2024-07-08 18:15:49
+- **New articles in last harvest:** 12
+- **Last harvest:** 2024-07-10 07:06
+- **Most recent article:** 2024-07-09 04:45:22
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 60 | 64 | 115 | 62 | 105 | 52 | 26 | 484 |
-| h5n1 | 58 | 78 | 55 | 29 | 36 | 59 | 15 | 330 |
-| malaria | 24 | 21 | 37 | 20 | 24 | 15 | 8 | 149 |
-| mpox | 15 | 8 | 26 | 14 | 46 | 21 | 5 | 135 |
+| dengue | 61 | 64 | 115 | 62 | 105 | 52 | 33 | 492 |
+| h5n1 | 62 | 78 | 55 | 29 | 36 | 59 | 20 | 339 |
+| malaria | 25 | 21 | 37 | 20 | 24 | 15 | 8 | 150 |
+| mpox | 16 | 8 | 26 | 14 | 46 | 21 | 5 | 136 |
 | measles | 16 | 11 | 7 | 11 | 8 | 9 | 4 | 66 |
 | chikungunya | 18 | 5 | 14 | 5 | 17 | 6 | 1 | 66 |
 | zika | 3 | 0 | 12 | 3 | 17 | 20 | 6 | 61 |
+| rabies | 15 | 9 | 2 | 5 | 8 | 4 | 0 | 43 |
 | pertussis | 6 | 9 | 11 | 11 | 3 | 1 | 1 | 42 |
-| rabies | 14 | 9 | 2 | 5 | 8 | 4 | 0 | 42 |
 | hpai | 11 | 2 | 4 | 4 | 3 | 3 | 2 | 29 |
 | meningitis | 1 | 6 | 3 | 1 | 1 | 3 | 0 | 15 |
 | typhoid | 0 | 1 | 1 | 2 | 3 | 4 | 2 | 13 |
@@ -108,6 +108,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-28 (h5n1)
 
+- [Un nou studiu stârnește frică: gripa aviară răspândită la vaci s-ar fi adaptat pentru a infecta oamenii](https://adevarul.ro/stiri-interne/sanatate/un-nou-studiu-starneste-frica-gripa-aviara-2373910.html) (Adevarul.ro)
+
+- [牛由来の高病原性鳥インフルエンザ ヒトに高い感染力か 東大チーム](https://news.livedoor.com/article/detail/26753951/) (Livedoor.com)
+
+- [米国の乳牛で広がる鳥インフル、ヒトへの感染効率上昇か 東大発表](https://news.livedoor.com/article/detail/26753244/) (Livedoor.com)
+
+- [アメリカの乳牛から検出の鳥インフル“飛まつで感染する性質”](https://www3.nhk.or.jp/news/html/20240709/k10014505651000.html) (Nhk.or.jp)
+
+- [Gripe aviária é diagnosticada em humanos e cientistas alertam para risco de transmissão](https://valor.globo.com/mundo/noticia/2024/07/08/gripe-aviria-diagnosticada-em-humanos-e-cientistas-alertam-para-risco-de-transmisso.ghtml) (Globo)
+
 - [Científicos de Estados Unidos alertan de que aumenta el “potencial pandémico” de la gripe aviar](https://www.meneame.net/m/ciencia/cientificos-estados-unidos-alertan-aumenta-potencial-pandemico) (Meneame.net)
 
 - [Virus de la gripe aviar H5N1 se transmite entre mamíferos desde leche de vaca infectada](https://www.montevideo.com.uy/Salud/Virus-de-la-gripe-aviar-H5N1-se-transmite-entre-mamiferos-desde-leche-de-vaca-infectada-uc893446) (Montevideo.com.uy)
@@ -139,6 +149,20 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe H5N1: „Es muss alles getan werden, um das Virus zu stoppen“](https://www.sueddeutsche.de/gesundheit/usa-deutschland-vogelgrippe-kuehe-lux.DbgizRndYotBTPXMfjYA5f) (Süddeutsche Zeitung)
 
 ## 24-28 (dengue)
+
+- [Congress, BJP spar over limiting dengue spread in Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/congress-bjp-spar-over-limiting-dengue-spread-in-karnataka/articleshow/111594236.cms) (The Times of India)
+
+- [Karnataka CM Siddaramaiah raps officials for inept handling of dengue surge](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-cm-siddaramaiah-raps-officials-for-inept-handling-of-dengue-surge/articleshow/111591990.cms) (The Times of India)
+
+- [Mosquito Breeding Source Reduction Week begins in Dima Hasao](https://thehillstimes.in/assam/mosquito-breeding-source-reduction-week-begins-in-dima-hasao) (Thehillstimes.in)
+
+- [Schools step up preventive measures, advise caution](https://timesofindia.indiatimes.com/city/bengaluru/schools-take-preventive-measures-against-dengue-infections/articleshow/111589626.cms) (The Times of India)
+
+- [BBMP admits to gaps in monitoring cases](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-admits-gaps-in-monitoring-dengue-cases/articleshow/111589486.cms) (The Times of India)
+
+- [Tech hub Mahadevapura drives dengue surge, logs 27% of cases](https://timesofindia.indiatimes.com/city/bengaluru/tech-hub-mahadevapura-drives-dengue-surge-logs-27-of-cases/articleshow/111589474.cms) (The Times of India)
+
+- [Boy without dengue dies; BBMP fears some other virus at work](https://timesofindia.indiatimes.com/city/bengaluru/boy-without-dengue-dies-bbmp-fears-some-other-virus-at-work/articleshow/111589464.cms) (The Times of India)
 
 - [‘AVON SKIN SO SOFT WORKS 10000000%’: Woman issues warning about what happens if you don’t use bug spray](https://www.dailydot.com/news/bug-spray-warning-dengue-fever/) (The Daily Dot)
 
@@ -2656,6 +2680,8 @@ Source: [News API](https://newsapi.org/)
 
 - [News24 | Cape Town metro probes origins of one confirmed, another suspected case of rabies in two family dogs](https://www.news24.com/news24/southafrica/news/cape-town-metro-probes-origins-of-one-confirmed-another-suspected-case-of-rabies-in-two-family-dogs-20240530) (News24)
 
+- [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
+
 ## 24-22 (pertussis)
 
 - [Whooping cough cases on the rise nationwide](https://www.cbsnews.com/pittsburgh/news/whooping-cough-cases-on-the-rise-nationwide/) (CBS News)
@@ -2701,6 +2727,8 @@ Source: [News API](https://newsapi.org/)
 - [Health department urges screening after 2nd confirmed mpox case](https://www.capetownetc.com/news/health-department-urges-screening-after-2nd-confirmed-mpox-case/) (CapeTown ETC)
 
 - [News24 | SA records second mpox case in less than a month](https://www.news24.com/news24/southafrica/news/sa-records-second-mpox-case-in-less-than-a-month-20240528) (News24)
+
+- [Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie](https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000) (Www.nrc.nl)
 
 ## 24-22 (meningitis)
 
@@ -2789,6 +2817,8 @@ Source: [News API](https://newsapi.org/)
 - [Genetic tests that foretell what might pass from mother to child](https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/genetic-tests-that-foretell-what-might-pass-from-mother-to-child/articleshow/110471563.cms) (The Times of India)
 
 - [Japanese mosquito coils taking bite out of malaria in Kenya](https://japantoday.com/category/business/feature-japanese-mosquito-coils-taking-bite-out-of-malaria-in-kenya) (Japan Today)
+
+- [República Centroafricana, primer país del mundo que recibe una nueva vacuna anti-malaria](https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433) (Montevideo.com.uy)
 
 ## 24-22 (leptospirosis)
 
@@ -2942,6 +2972,14 @@ Source: [News API](https://newsapi.org/)
 
 - [US, European nations consider vaccinating workers exposed to bird flu](https://www.marketscreener.com/quote/stock/CSL-LIMITED-6492492/news/US-European-nations-consider-vaccinating-workers-exposed-to-bird-flu-46829956/) (Marketscreener.com)
 
+- [شرب الحليب الخام.. هل هو مفيد؟](https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a) (Aljazeera.net)
+
+- [شناسایی دومین فرد مبتلا به آنفولانزای پرندگان در آمریکا؛ آشنایی با ویروس H5N1](https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus) (Digiato.com)
+
+- [Вірус пташиного грипу вперше виявили в яловичині](https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/) (Pravda.com.ua)
+
+- [Could Bird Flu Lead To Next Pandemic?](https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982) (NDTV News)
+
 ## 24-22 (dengue)
 
 - [Dengue: taxa de imunização ainda é baixa](https://www.terra.com.br/vida-e-estilo/dengue-taxa-de-imunizacao-ainda-e-baixa,f8d558f601b0a9e7d45b7d7d45088da5t0mr3uax.html) (Terra.com.br)
@@ -3063,6 +3101,8 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: WV dengue death toll now 8, cases almost 3,000](https://rpnradio.com/bacolod-wv-dengue-death-toll-now-8-cases-almost-3000/) (Rpnradio.com)
 
 - [Palike bats for ‘dry day’ to fight mosquitoes](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-intensifies-mosquito-control-spraying-activities-in-bengaluru/articleshow/110446527.cms) (The Times of India)
+
+- [Se quintuplican casos de dengue en un año, alerta Ssa](https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-22 (chikungunya)
 

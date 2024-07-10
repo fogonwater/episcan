@@ -1,8 +1,224 @@
 {
-  "last_updated": "2024-07-09 19:05",
-  "count_articles_total": 1361,
-  "count_articles_new": 33,
+  "last_updated": "2024-07-10 07:06",
+  "count_articles_total": 1381,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 10914,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Dana Arambescu",
+      "title": "Un nou studiu st\u00e2rne\u0219te fric\u0103: gripa aviar\u0103 r\u0103sp\u00e2ndit\u0103 la vaci s-ar fi adaptat pentru a infecta oamenii",
+      "description": "Un studiu publicat luni ofer\u0103 noi dovezi conform c\u0103rora virusul H5N1 care provoac\u0103 \u00een prezent o epidemie de grip\u0103 aviar\u0103 la bovinele din SUA ar putea fi adaptat pentru a infecta mai bine oamenii dec\u00e2t alte tulpini de virus aflate \u00een circula\u021bie.",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/un-nou-studiu-starneste-frica-gripa-aviara-2373910.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-c/ca1a7021-d283-4761-bda8-95aff2d28406/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-07-09 04:45:22",
+      "content": "Un studiu publicat luni ofer noi dovezi conform crora virusul H5N1 care provoac \u00een prezent o epidemie de grip aviar la bovinele din SUA ar putea fi adaptat pentru a infecta mai bine oamenii dec\u00e2t alt\u2026 [+2612 chars]",
+      "retrievedAt": "2024-07-10 07:06:08.247487",
+      "internal_id": "d4047c27af6962ee6c7634b81c4757c932d3d18154cd3f33bdd2c4dfce625e3a",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10921,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Congress, BJP spar over limiting dengue spread in Karnataka",
+      "description": "The Congress and BJP in Karnataka are at odds over the response to the dengue outbreak. BJP criticizes the government's handling, calling for a medical emergency declaration, while Congress accuses BJP of spreading misinformation and fear. Both parties exchan\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/congress-bjp-spar-over-limiting-dengue-spread-in-karnataka/articleshow/111594236.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111594315,width-1070,height-580,imgsize-123426,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-09 04:10:47",
+      "content": "How many kms should you ideally walk in the morning for good health?",
+      "retrievedAt": "2024-07-10 07:06:09.149511",
+      "internal_id": "8ad92e76313bd5b990e6cfe7faa0db4b69025c52e6629f6161353593d30dbce5",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10919,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Karnataka CM Siddaramaiah raps officials for inept handling of dengue surge",
+      "description": "CM Siddaramaiah criticized officials and district in-charge secretaries for dengue rise. Karnataka reported 197 new cases, one death in Mysuru, totaling 7,362 cases and seven deaths since January. Health Minister Dinesh Gundu Rao ruled out a medical emergency\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-cm-siddaramaiah-raps-officials-for-inept-handling-of-dengue-surge/articleshow/111591990.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111592039,width-1070,height-580,imgsize-29650,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-09 01:49:15",
+      "content": "How many kms should you ideally walk in the morning for good health?",
+      "retrievedAt": "2024-07-10 07:06:09.122397",
+      "internal_id": "90759c1646f742b225c5e05cd3828bc6b1e82416ffde3cda30863142d0b99a83",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10918,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Mosquito Breeding Source Reduction Week begins in Dima Hasao",
+      "description": "HT Bureau GUWAHATI, July 8: The district authority launched the Mosquito Breeding Source Reduction Week campaign for the prevention and control of dengue in urban areas of Dima Hasao district, organised by NCVBDC, Dima Hasao Haflong, on Monday, at Lal Field, \u2026",
+      "url": "https://thehillstimes.in/assam/mosquito-breeding-source-reduction-week-begins-in-dima-hasao",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2024/07/Mosquito-Breeding-Source-Reduction-Week-begins-in-Dima-Hasao.jpg",
+      "publishedAt": "2024-07-08 23:50:55",
+      "content": "HT Bureau GUWAHATI, July 8: The district authority launched the Mosquito Breeding Source Reduction Week campaign for the prevention and control of dengue in urban areas of Dima Hasao district, organ\u2026 [+1074 chars]",
+      "retrievedAt": "2024-07-10 07:06:09.102928",
+      "internal_id": "0607e7da26267a861be3f2305b24a69e061ed2ce97b424807a96692e6c565f26",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10916,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Livedoor.com",
+      "author": "\u6bce\u65e5\u65b0\u805e",
+      "title": "\u725b\u7531\u6765\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6 \u30d2\u30c8\u306b\u9ad8\u3044\u611f\u67d3\u529b\u304b \u6771\u5927\u30c1\u30fc\u30e0",
+      "description": "\u725b\u306b\u611f\u67d3\u3057\u305fH5N1\u578b\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb\u30b9\u306f\u3001\u30d2\u30c8\u3078\u306e\u611f\u67d3\u52b9\u7387\u304c\u9ce5\u7531\u6765\u306e\u30a6\u30a4\u30eb\u30b9\u3088\u308a\u3082\u9ad8\u3044\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u3001\u6771\u4eac\u5927\u65b0\u4e16\u4ee3\u611f\u67d3\u75c7\u30bb\u30f3\u30bf\u30fc\u306e\u6cb3\u5ca1\u7fa9\u88d5\u6a5f\u69cb\u9577\u3089\u306e\u30c1\u30fc\u30e0\u304c\u767a\u8868\u3057\u305f\u3002\u30de\u30a6\u30b9\u3084\u30d5\u30a7\u30ec\u30c3\u30c8\u306b\u5f37\u3044\u75c5\u539f\u6027\u3092\u793a\u3059\u3053\u3068\u3082\u78ba\u8a8d\u3002\u30a6\u30a4\u30eb\u30b9\u304c\u5909\u5316\u3057\u305f\u53ef\u80fd\u6027\u304c\u3042\u308a\u3001\u30d2\u30c8\u3078\u306e\u611f\u67d3\u62e1\u5927\u304c\u61f8\u5ff5\u3055\u308c\u308b\u3002\u3010\u56f3\u3067\u5206\u304b\u308b\u3011\u9ce5\u30a4\u30f3\u30d5\u30eb\u3001\u6bba\u51e6\u5206\u6570\u306e\u63a8\u79fb\u30c1\u30fc\u30e0\u306f\u30d2\u30c8\u306e\u547c\u5438\u5668\u7d30\u80de\u306e\u53d7\u5bb9\u4f53\u3092\u4f7f\u3044\u3001\u725b\u7531\u6765\u3068\u9ce5\u7531\u6765\u306eH5N1\u578b\u3092\u305d\u308c\u305e\u308c\u53cd\u5fdc\u3055\u305b\u305f\u3002\u3059\u308b\u3068\u3001\u725b\u7531\u6765\u306e\u307b\u3046\u304c\u9ce5\u7531\u6765\u3088\u308a \u5168\u6587\u6bce\u65e5\u65b0\u805e 07\u670809\u65e508\u664223\u5206",
+      "url": "https://news.livedoor.com/article/detail/26753951/",
+      "urlToImage": "https://image.news.livedoor.com/newsimage/stf/a/2/a2bc6_1715_75ffd6ad_de9aeacb.jpg",
+      "publishedAt": "2024-07-08 23:23:47",
+      "content": "H5N1 H5N1 H5N11 H5N1200020283 9https://doi.org/10.1038/s41586-024-07766-6",
+      "retrievedAt": "2024-07-10 07:06:08.291274",
+      "internal_id": "65e0c5bc5b40d8e0fcf143bbfb0840c99b2b1174973199481bc07402ca7112cf",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10924,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Schools step up preventive measures, advise caution",
+      "description": "Schools in Bengaluru are stepping up preventive measures to combat the spread of dengue infections. Measures include fumigation, cleanliness drives, and awareness programs. Parents are advised to keep ill children at home until fully recovered to prevent the \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/schools-take-preventive-measures-against-dengue-infections/articleshow/111589626.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-08 22:49:42",
+      "content": "How many kms should you ideally walk in the morning for good health?",
+      "retrievedAt": "2024-07-10 07:06:09.175836",
+      "internal_id": "5d8ecb98add1a64d53c93337a1d30d10c7f3b6c2e7ac92ac8b785e8330753fdf",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10923,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Nithya Mandyam",
+      "title": "BBMP admits to gaps in monitoring cases",
+      "description": "Read about the gaps in monitoring dengue cases admitted by BBMP in Bengaluru. Learn how the city is handling the current outbreak and the challenges faced in surveillance and patient care.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bbmp-admits-gaps-in-monitoring-dengue-cases/articleshow/111589486.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-08 22:46:52",
+      "content": "How many kms should you ideally walk in the morning for good health?",
+      "retrievedAt": "2024-07-10 07:06:09.163622",
+      "internal_id": "390221add7b0733d3d426ed40ead156a1eff2eb6f2e5ce3d564fa0baf2fad456",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10922,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Nithya Mandyam",
+      "title": "Tech hub Mahadevapura drives dengue surge, logs 27% of cases",
+      "description": "Tech hub Mahadevapura in Bengaluru is driving a surge in dengue cases, accounting for 27% of all cases reported in the city. The area is facing challenges due to stagnant water and lack of hygiene practices, leading to a significant increase in dengue infecti\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/tech-hub-mahadevapura-drives-dengue-surge-logs-27-of-cases/articleshow/111589474.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111589471,width-1070,height-580,imgsize-104276,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-08 22:46:33",
+      "content": "How many kms should you ideally walk in the morning for good health?",
+      "retrievedAt": "2024-07-10 07:06:09.155216",
+      "internal_id": "8654183acb989030a6173b5ff1ebe5da4dc46b1d93aa351e5c130447297b9788",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10920,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Santosh kumar.B",
+      "title": "Boy without dengue dies; BBMP fears some other virus at work",
+      "description": "11-year-old boy dies without dengue, BBMP suspects another virus. Samples sent to NIV for confirmation. Concerns rise in Bengaluru amid spike in dengue cases.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/boy-without-dengue-dies-bbmp-fears-some-other-virus-at-work/articleshow/111589464.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111589459,width-1070,height-580,imgsize-7638,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-08 22:46:25",
+      "content": "How many kms should you ideally walk in the morning for good health?",
+      "retrievedAt": "2024-07-10 07:06:09.135326",
+      "internal_id": "68dfd062b564ab7bfab7edaf4d2acc3ea0739631db1ef8b34df82e1d48ea0055",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10917,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Livedoor.com",
+      "author": "\u671d\u65e5\u65b0\u805e\u30c7\u30b8\u30bf\u30eb",
+      "title": "\u7c73\u56fd\u306e\u4e73\u725b\u3067\u5e83\u304c\u308b\u9ce5\u30a4\u30f3\u30d5\u30eb\u3001\u30d2\u30c8\u3078\u306e\u611f\u67d3\u52b9\u7387\u4e0a\u6607\u304b \u6771\u5927\u767a\u8868",
+      "description": "\u7c73\u56fd\u306e\u8fb2\u5834\u306e\u4e73\u725b\u3067\u611f\u67d3\u304c\u5e83\u304c\u308b\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb\u30b9\uff08H5N1\uff09\u304c\u3001\u5f93\u6765\u306eH5N1\u3088\u308a\u30d2\u30c8\u3078\u306e\u611f\u67d3\u52b9\u7387\u304c\u9ad8\u307e\u3063\u3066\u3044\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3053\u3068\u3092\u6771\u4eac\u5927\u306a\u3069\u306e\u7814\u7a76\u30c1\u30fc\u30e0\u304c\u78ba\u8a8d\u3057\u305f\u30028\u65e5\u4ed8\u306e\u82f1\u79d1\u5b66\u8a8c\u30cd\u30a4\u30c1\u30e3\u30fc\u306b\u767a\u8868\u3057\u305f\uff08https://www.nature.com/articles/s41586-024-07766-6\uff09\u3002H5N1\u306f\u91ce\u751f\u3084\u98fc\u80b2\u4e0b\u306e\u9ce5\u3067\u5e83\u304c\u308a\u3001\u9ad8\u3044\u75c5\u539f\u6027\u3092\u6301\u3064\u3002\u611f\u67d3\u3057\u305f\u9ce5\u306a\u3069\u3068\u63a5\u89e6\u3057\u305f\u30d2\u30c8\u3078\u306e\u611f\u67d3\u304c\u307e\u308c\u306b\u8d77\u304d\u3001\u81f4\u6b7b\u7387\u306f50%\u7a0b\u5ea6\u3068\u3055\u308c\u308b\u3002\u4e00\u65b9\u30012020\u5e74\u5f8c\u534a\u306b\u6b27\u5dde\u3067\u898b\u3064\u304b\u3063\u305fH5N1\u306e\u4e9c\u578b\u30a6\u30a4\u30eb\u30b9\u306f\u3001\u9ce5\u2026",
+      "url": "https://news.livedoor.com/article/detail/26753244/",
+      "urlToImage": "https://image.news.livedoor.com/newsimage/stf/4/d/4d76e_1509_52dc398d_a1dcdbd1.jpg",
+      "publishedAt": "2024-07-08 21:00:00",
+      "content": "H5N1H5N1 8https://www.nature.com/articles/s41586-024-07766-6 H5N150% 2020H5N1 31234 H5N1H1N1H5N1H1N1 H5N1 H1N1H5N141 4H1N14 H5N1 36H5N1 H1N1",
+      "retrievedAt": "2024-07-10 07:06:08.296325",
+      "internal_id": "23aa9579c3d3409a4203ad5b0c621a20f249996e43dd5498a7962945a4d93eb4",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10913,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nhk.or.jp",
+      "author": null,
+      "title": "\u30a2\u30e1\u30ea\u30ab\u306e\u4e73\u725b\u304b\u3089\u691c\u51fa\u306e\u9ce5\u30a4\u30f3\u30d5\u30eb\u201c\u98db\u307e\u3064\u3067\u611f\u67d3\u3059\u308b\u6027\u8cea\u201d",
+      "description": "\u30a2\u30e1\u30ea\u30ab\u3067\u4e73\u725b\u304b\u3089H5N1\u578b\u306e\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb\u30b9\u304c\u691c\u51fa\u3055\u308c\u3066\u3044\u308b\u554f\u984c\u306b\u3064\u3044\u3066\u3001\u6771\u4eac\u5927\u5b66\u306a\u3069\u306e\u30b0\u30eb\u30fc\u30d7\u306f\u3001\u30a4\u30bf\u30c1\u306e\u4ef2\u9593\u306e\u30d5\u30a7\u30ec\u30c3\u30c8\u3092\u4f7f\u3063\u305f\u5b9f\u9a13\u306e\u7d50\u679c\u3001\u3053\u306e\u30a6\u30a4\u30eb\u30b9\u306b\u98db\u307e\u3064\u3067\u611f\u67d3\u3059\u308b\u6027\u8cea\u304c\u3042\u308b\u3053\u3068\u304c\u5206\u304b\u3063\u305f\u3068\u767a\u8868\u3057\u307e\u3057\u305f\u3002",
+      "url": "https://www3.nhk.or.jp/news/html/20240709/k10014505651000.html",
+      "urlToImage": "https://www3.nhk.or.jp/news/html/20240709/K10014505651_2407082126_0709052713_01_02.jpg",
+      "publishedAt": "2024-07-08 20:27:12",
+      "content": "H5N1",
+      "retrievedAt": "2024-07-10 07:06:08.221760",
+      "internal_id": "bc283ce4df72e03c851d08d3a63dd18dffc2d510cd15d3a09ed916a31d8a5332",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 10915,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Gripe avi\u00e1ria \u00e9 diagnosticada em humanos e cientistas alertam para risco de transmiss\u00e3o",
+      "description": "Amostras virais da doen\u00e7a retiradas de vacas foram capazes de se ligar a receptores encontrados em c\u00e9lulas humanas",
+      "url": "https://valor.globo.com/mundo/noticia/2024/07/08/gripe-aviria-diagnosticada-em-humanos-e-cientistas-alertam-para-risco-de-transmisso.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/D5xeeErVOeB3lV0hXHMpq297bdc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/g/e/HW0IGKQFOmYiJX1Y7FWA/foto05agr-201-gripe-b12.jpg",
+      "publishedAt": "2024-07-08 19:29:04",
+      "content": "O v\u00edrus da gripe avi\u00e1ria que j\u00e1 atinge diversos rebanhos nos Estados Unidos foi encontrado em pelo menos quatro pessoas que lidavam com os animais infectados, aumentando os temores de que a H5N1 poss\u2026 [+996 chars]",
+      "retrievedAt": "2024-07-10 07:06:08.282547",
+      "internal_id": "06958839055c1188b6be7d21b94188de54ca95f2a3e19a33b4cc7a6087066cbb",
+      "publishedAtLabel": "Jul 8"
+    },
     {
       "id": 10890,
       "query": [
@@ -24584,6 +24800,150 @@
       "content": "At a time when chrysanthemum flower production for use in mosquito-repelling incense coils has all but ceased in Japan, the tradition has been picked up in Kenya where thousands of people are killed \u2026 [+4916 chars]",
       "retrievedAt": "2024-05-28 07:06:44.446200",
       "internal_id": "fb224978f9c7c9fec333a0c800974af30b5603518ec8906d67d3c2b01cd635fb",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9541,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Menno Sedee",
+      "title": "Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie",
+      "description": "Infectieziekte: Artsen sloegen in 2022 alarm, maar na enkele maanden was mpox (apenpokken) in Nederland vrijwel bestreden. Het virus ging vooral rond in een kleine groep mannen die onderling veel seks hadden.",
+      "url": "https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000",
+      "urlToImage": "https://images.nrc.nl/4VaOK7kC0WLGCVl56ZExvUemdwA=/1200x627/smart/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/images/gn4/data116001316-e4e098.png",
+      "publishedAt": "2024-05-26 18:16:55",
+      "content": "Waar is het apenpokkenvirus gebleven? Twee jaar geleden werden de eerste infecties in Nederland vastgesteld, en toen waren er nog grote zorgen. In enkele maanden liep het aantal meldingen op tot bove\u2026 [+4799 chars]",
+      "retrievedAt": "2024-05-27 19:05:56.413266",
+      "internal_id": "9cb1f7f2f17b96815c6b353351c4efb1c50017370a23975b3b253be6ac35d140",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9540,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Rep\u00fablica Centroafricana, primer pa\u00eds del mundo que recibe una nueva vacuna anti-malaria",
+      "description": "Unicef entreg\u00f3 m\u00e1s de 43.000 dosis por v\u00eda a\u00e9rea en la capital, Bangui, y m\u00e1s de 120.000 llegar\u00e1n en los pr\u00f3ximos d\u00edas.",
+      "url": "https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201606/_W933_80/569220.png",
+      "publishedAt": "2024-05-26 15:50:00",
+      "content": "La Rep\u00fablica Centroafricana (RCA) se ha convertido en el primer pa\u00eds del mundo en recibir una nueva vacuna contra la malaria, la R21/Matrix-M, aprobada por la Organizaci\u00f3n Mundial de la Salud (OMS\u2026 [+2210 chars]",
+      "retrievedAt": "2024-05-27 19:05:55.446048",
+      "internal_id": "d8e0fdc8f928a6b46633fe5eeb060298473960add5feb0ebc921495efdf9e97a",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9537,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeera.net",
+      "author": "\u062f. \u0623\u0633\u0627\u0645\u0629 \u0623\u0628\u0648 \u0627\u0644\u0631\u064f\u0651\u0628",
+      "title": "\u0634\u0631\u0628 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645.. \u0647\u0644 \u0647\u0648 \u0645\u0641\u064a\u062f\u061f",
+      "description": "\u0623\u0635\u0628\u062d \u062a\u0646\u0627\u0648\u0644 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645 -\u063a\u064a\u0631 \u0627\u0644\u0645\u0628\u0633\u062a\u0631- \u0623\u062d\u062f\u062b \u0635\u0631\u0639\u0629\u060c \u0648\u064a\u0634\u0639\u0631 \u0627\u0644\u062e\u0628\u0631\u0627\u0621 \u0628\u0627\u0644\u0642\u0644\u0642 \u0645\u0646 \u0623\u0646\u0647 \u0642\u062f \u064a\u0624\u062f\u064a \u0625\u0644\u0649 \u0627\u0646\u062a\u0634\u0627\u0631 \u0623\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631.",
+      "url": "https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2024/05/shutterstock_1988599271-1716727547.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-05-26 13:25:09",
+      "content": "- - . . . . . . . (H5N1) . (H5N1) . (H5N1). \" \" . . . - - \" \" . \" \" . : \" .. . \u00bb. (H5N1) . . \" \". . . . . . : \" \". . (FDA). \" \" . . : \" \". \" \". . . . \" \" . . ( \u2026 [+31 chars]",
+      "retrievedAt": "2024-05-27 19:05:54.191914",
+      "internal_id": "fedbe48b01bfbb915bee8ea6c4176b34d2493d2d2648fb2ffd6843560b8f15df",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9535,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet Daily News",
+      "author": "hurriyetdailynews.com",
+      "title": "Stray dog bill favors adoption first, AKP says amid backlash",
+      "description": "A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a risk of rabies.",
+      "url": "https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6653228f6070c51f7ddeb833.jpg",
+      "publishedAt": "2024-05-26 11:52:53",
+      "content": "ANKARA A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a ris\u2026 [+1301 chars]",
+      "retrievedAt": "2024-05-27 19:05:53.196458",
+      "internal_id": "e3f16ed86ed58c1d927a1aa35c817a7d7ca4023f43a192a8441cb2f45f292d48",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9536,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Digiato.com",
+      "author": "\u0631\u0636\u0627 \u0632\u0627\u0631\u0639\u200c\u067e\u0648\u0631",
+      "title": "\u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1",
+      "description": "\u0628\u0627 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627 \u0627\u0632 \u0634\u06cc\u0648\u0639 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0627\u0641\u0632\u0627\u06cc\u0634 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0622\u06cc\u0627 \u0628\u0627\u06cc\u062f \u0646\u06af\u0631\u0627\u0646 \u0628\u0648\u062f\u061f The post \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1 appeared first on \u062f\u06cc\u062c\u06cc\u0627\u062a\u0648.",
+      "url": "https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus",
+      "urlToImage": "https://static.digiato.com/digiato/2024/05/image-38.jpg.webp",
+      "publishedAt": "2024-05-26 11:45:00",
+      "content": "H5N1 . . H5N1 . . . H5N1 . . H5N1 . (CDC) . . H5N1 . . H5N1 . . . CDC . . . . . . CDC . H5N1 . CDC . . H5N1 . H5N1 . . . CDC . CDC . . . . H5N1 . . CDC :",
+      "retrievedAt": "2024-05-27 19:05:54.141051",
+      "internal_id": "c6625a1639808f13ea9f00ea277c7410ada2241e4c9a8ad333fc54381a1a6034",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9552,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.com.ua",
+      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430. \u0416\u0438\u0442\u0442\u044f",
+      "title": "\u0412\u0456\u0440\u0443\u0441 \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443 \u0432\u043f\u0435\u0440\u0448\u0435 \u0432\u0438\u044f\u0432\u0438\u043b\u0438 \u0432 \u044f\u043b\u043e\u0432\u0438\u0447\u0438\u043d\u0456",
+      "description": "",
+      "url": "https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/",
+      "urlToImage": "https://imglife.pravda.com.ua/life/images/doc/3/4/62370/3457395d88ebdd2bebd86486e6aec0e2.jpeg?w=1920&q=90",
+      "publishedAt": "2024-05-26 11:30:00",
+      "content": ". . , , , , ,The New York Times. , , . H5N1 . (, ) . , , 58 ' . \", , \", , Consumer Reports. , . \" , \". , , , - , . . , , , , . \" ' \", . , , , . \" , H5N1 , \", , -. , , , .",
+      "retrievedAt": "2024-05-28 07:06:42.690970",
+      "internal_id": "050e922e59cca24332929e52e0d896c1c66dedf1be888ac65889fc23fcbfc9c1",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9538,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Could Bird Flu Lead To Next Pandemic?",
+      "description": "The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for what could lead to the next pandemic?",
+      "url": "https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982",
+      "urlToImage": "https://c.ndtvimg.com/2021-01/uitchfl8_bird-flu_625x300_08_January_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240506.08",
+      "publishedAt": "2024-05-26 08:59:47",
+      "content": "The detection of a case of the widespread H5N1 strain of bird flu in Australia is a cause for concern. The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for \u2026 [+7090 chars]",
+      "retrievedAt": "2024-05-27 19:05:54.205770",
+      "internal_id": "7cae26cbea7db0ac35f1b696cf61930c1110f1c2256392aefa4ff459d69d6847",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9539,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Se quintuplican casos de dengue en un a\u00f1o, alerta Ssa",
+      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos de dengue, de los cuales 6 mil 629 corresponden a dengue con signos de alarma y grave, y 6 mil 769 a no grave. Cifr\u2026",
+      "url": "https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-05-26 07:37:44",
+      "content": "Peri\u00f3dico La JornadaDomingo 26 de mayo de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos \u2026 [+2222 chars]",
+      "retrievedAt": "2024-05-27 19:05:54.826023",
+      "internal_id": "2bf6a34b7cacad447068eb6fe25f3484685a03ef22f0400636ed9ba6f1a596a0",
       "publishedAtLabel": "May 26"
     }
   ]
