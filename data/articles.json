@@ -1,8 +1,386 @@
 {
-  "last_updated": "2024-07-10 07:06",
-  "count_articles_total": 1381,
-  "count_articles_new": 12,
+  "last_updated": "2024-07-10 19:06",
+  "count_articles_total": 1394,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 10936,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Lisa Monteiro",
+      "title": "140% spike in dengue cases in state this June over past year",
+      "description": "Panaji: Goa reported 60 dengue cases this June, a 140% spurt compared to the 25 cases reported during the same month last year.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/140-spike-in-dengue-cases-in-state-this-june-over-past-year/articleshow/111615335.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111615333,width-1070,height-580,imgsize-53670,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-09 19:05:49",
+      "content": "How many kms should you ideally walk in the morning for good health?",
+      "retrievedAt": "2024-07-10 19:06:08.066133",
+      "internal_id": "290ad09abe9b62be34ecd54f28aefee287c6b86523ce7fde15b5a41bee032f9b",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10929,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "Sarah Costes",
+      "title": "Premier cas autochtone de dengue : \u00abLes moustiques tigres \u00e9mergent de plus en plus t\u00f4t dans l\u2019ann\u00e9e\u00bb",
+      "description": "Un premier cas autochtone de dengue a \u00e9t\u00e9 signal\u00e9 lundi dans l\u2019H\u00e9rault. Une \u00e9mergence un peu pr\u00e9coce mais qui n\u2019est pas inhabituelle, analyse Anna-Bella Failloux, de l\u2019Institut Pasteur, en raison de conditions propices au d\u00e9veloppement du moustique tigre.",
+      "url": "https://www.liberation.fr/societe/sante/premier-cas-autochtone-de-dengue-les-moustiques-tigres-emergent-de-plus-en-plus-tot-dans-lannee-20240709_QMBMPJHRX5FVPCLBRERVOLWZ7I/",
+      "urlToImage": "https://www.liberation.fr/resizer/ArN5wOWsBBn8FOfgMXV--YbLgYc=/1200x630/filters:format(jpg):quality(70):focal(1273x935:1283x945)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/CYI3NMEE4ZBEPACRQVHCPVDZM4.jpg",
+      "publishedAt": "2024-07-09 19:01:02",
+      "content": "Cest le premier cas cet \u00e9t\u00e9. Lundi 8 juillet, lAgence r\u00e9gionale de sant\u00e9 dOccitanie a signal\u00e9 un cas autochtone de dengue \u00e0 Montpellier (H\u00e9rault), le premier enregistr\u00e9 en France depuis le d\u00e9but de l\u2026 [+4138 chars]",
+      "retrievedAt": "2024-07-10 19:06:07.988083",
+      "internal_id": "88a2ea040d54e3f1ae7c93c5663d55b349217d660a1a28f6776ebfcc8542e01a",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10928,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Miray Caliskan",
+      "title": "Sind wir bereit f\u00fcr eine neue Pandemie?: \u201eEine der gr\u00f6\u00dften Sorgen ist, dass sich das H5N1-Virus mit Grippeviren vermischt\u201c",
+      "description": "Dass die Vogelgrippe auf Rinder \u00fcbergesprungen ist, bereitet auch dem Charit\u00e9-Infektiologen Leif Erik Sander Sorgen. Doch er betont: Die Welt sei l\u00e4ngst vorbereitet.",
+      "url": "https://www.tagesspiegel.de/wissen/sind-wir-bereit-fur-eine-neue-pandemie-eine-der-grossten-sorgen-ist-dass-sich-das-h5n1-virus-mit-saisonalen-grippeviren-vermischt-11992130.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/100wiss-coronavirus-berlin-pressekonferenz-spahn/alternates/BASE_16_9_W1400/100wiss-coronavirus---berlin-pressekonferenz-spahn.jpeg",
+      "publishedAt": "2024-07-09 17:58:21",
+      "content": "Herr Sander, was ist neu an diesem Vogelgrippe-Ausbruch?Seit 2020 verbreitet sich das hochpathogene H5N1-Vogelgrippevirus rasant in Wildv\u00f6gel-Best\u00e4nden auf der ganzen Erde. In diesem Jahr wurde das V\u2026 [+247 chars]",
+      "retrievedAt": "2024-07-10 19:06:07.307592",
+      "internal_id": "cc9825f811836dc338956f2dbc807c21a9e519d78ad8a82096aeea9d5bd7a681",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10937,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue, scattano misure di profilassi con interventi specifici",
+      "description": "Scattano, da questa sera, a titolo precauzionale, le misure di profilassi e per abbassare - in modo rapido - la densit\u00e0 di zanzara tigre, a seguito della segnalazione da Asl 3 genovese di un caso \"importato\" di dengue, la malattia infettiva trasmessa da un...\u2026",
+      "url": "https://www.ansa.it/liguria/notizie/2024/07/09/dengue-scattano-misure-di-profilassi-con-interventi-specifici_ba917690-6665-4432-b7e4-c161378fe45a.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/4/10/041557102afbd1e56aa7c817a46827c7.jpg",
+      "publishedAt": "2024-07-09 16:39:21",
+      "content": "Scattano, da questa sera, a titolo precauzionale, le misure di profilassi e per abbassare - in modo rapido - la densit\u00e0 di zanzara tigre, a seguito della segnalazione da Asl 3 genovese di un caso \u2026 [+1335 chars]",
+      "retrievedAt": "2024-07-10 19:06:08.138095",
+      "internal_id": "5899b5c3d986678f5cc62b8b8b0936678a10bebe9dfa0f40c3e98d8e1047f477",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10933,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The-express.com",
+      "author": "daily express us",
+      "title": "CDC issues urgent dengue fever warning as 41 travelers in New Jersey infected...",
+      "description": "In the first half of 2024, more than 9.7 million cases have been reported across North, Central, and South America, according to the CDC.",
+      "url": "https://www.the-express.com/news/health/142639/cdc-dengue-fever-warning-new-jersey-travelers-infected",
+      "urlToImage": "https://cdn-images.the-express.com/img/dynamic/19/1200x630/219007.jpg",
+      "publishedAt": "2024-07-09 16:00:03",
+      "content": "In the first half of 2024, more than 9.7 million cases have been reported across North, Central, and South America, according to the CDC.",
+      "retrievedAt": "2024-07-10 19:06:08.030020",
+      "internal_id": "31e36d520e5467a3433b93e89f5bb2bb7430a4d4cba35f8659313a78b12a6575",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10941,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Elodie Smith",
+      "title": "Diversity in typhoid bacteria linked to higher mortality rates",
+      "description": "Worldwide, 20% of the bacterial strains that cause typhoid fever have genetic variations in their external layer, called Vi capsule, that provide higher virulence, higher infectivity and high antibiotic resistance, Cornell researchers have discovered, possibl\u2026",
+      "url": "https://phys.org/news/2024-07-diversity-typhoid-bacteria-linked-higher.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/diversity-in-typhoid-b.jpg",
+      "publishedAt": "2024-07-09 15:17:04",
+      "content": "Worldwide, 20% of the bacterial strains that cause typhoid fever have genetic variations in their external layer, called Vi capsule, that provide higher virulence, higher infectivity and high antibio\u2026 [+4909 chars]",
+      "retrievedAt": "2024-07-10 19:06:10.467304",
+      "internal_id": "a3e70b514babbc92d8f0598df9cb0f0ee9efec98b5f9b9b1524fbc7bf7f78b1e",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10927,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Kai Wiedermann",
+      "title": "Vogelgrippe: \u201eKonsequent auf m\u00f6gliche Pandemie vorbereiten\u201c",
+      "description": "Das Vogelgrippe-Virus H5N1 breitet sich in Kuhherden in den USA aus und infiziert auch Menschen. Infektiologe Leif Erik Sander warnt.",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article406762964/vogelgrippe-konsequent-auf-moegliche-pandemie-vorbereiten.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406763028/406763028_1720537709_v16_9_1600.jpeg",
+      "publishedAt": "2024-07-09 15:08:29",
+      "content": "Berlin. Das Vogelgrippe-Virus H5N1 breitet sich in Kuhherden in den USA aus und infiziert auch Menschen. Infektiologe Leif Erik Sander warnt. Die Welt sollte sich nach Auffassung des Berliner Infekt\u2026 [+2477 chars]",
+      "retrievedAt": "2024-07-10 19:06:07.267903",
+      "internal_id": "83b39634cfe92a70194ab0b617c41fce598a2af3341cbec1b018c18a9a83ec30",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10925,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "Veronika Simon, SWR",
+      "title": "Vogelgrippevirus H5N1 grassiert unter K\u00fchen in den USA",
+      "description": "Das Vogelgrippevirus H5N1 grassiert unter Rindern in den USA - f\u00fcr Fachleute Grund zur Sorge. Eine Studie zeigt: Das Virus kann \u00fcber die Milch auch andere S\u00e4ugetiere infizieren. Von Veronika Simon.",
+      "url": "https://www.tagesschau.de/wissen/vogelgrippe-bei-kuehen-studie-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/25afc7ee-8581-464f-9227-440afa08f853/AAABkJLVZfQ/AAABjwnlFvA/16x9-1280/kuh-im-kuhstalll-100.jpg",
+      "publishedAt": "2024-07-09 14:53:44",
+      "content": "Stand: 09.07.2024 16:53 Uhr Das Vogelgrippevirus H5N1 grassiert unter Rindern in den USA - f\u00fcr Fachleute Grund zur Sorge. Eine Studie zeigt: Das Virus kann \u00fcber die Milch auch andere S\u00e4ugetiere infi\u2026 [+4849 chars]",
+      "retrievedAt": "2024-07-10 19:06:07.222377",
+      "internal_id": "690be764ca40babeea7eca8c4bd67f9cb31f3000e3d1738724f7bb8363de32dc",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10935,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Levif.be",
+      "author": "Olivia Lepropre",
+      "title": "\u00abLe moustique tigre s\u2019adapte tr\u00e8s bien\u00bb: pourquoi la dengue flambe en Europe (et est surveill\u00e9e de pr\u00e8s en Belgique)",
+      "description": "La dengue progresse en Europe, et pas seulement via des cas import\u00e9s d'autres pays. En Belgique, il n'y a toujours pas de cas autochtone, et la surveillance s'accro\u00eet pour l'\u00e9viter le plus longtemps possible. The post \u00abLe moustique tigre s\u2019adapte tr\u00e8s bien\u00bb: \u2026",
+      "url": "https://www.levif.be/societe/sante/le-moustique-tigre-sadapte-tres-bien-pourquoi-la-dengue-flambe-en-europe-et-est-surveillee-de-pres-en-belgique/",
+      "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/f50.00,50.00/6238276/unnamed-file-2-jpg.jpg",
+      "publishedAt": "2024-07-09 14:40:00",
+      "content": "La dengue progresse en Europe, et pas seulement via des cas import\u00e9s d\u2019autres pays. En Belgique, il n\u2019y a toujours pas de cas autochtone, et la surveillance s\u2019accro\u00eet pour l\u2019\u00e9viter le plus longtemps \u2026 [+5417 chars]",
+      "retrievedAt": "2024-07-10 19:06:08.057516",
+      "internal_id": "ed07beb4ba832f2ad02c40a80d042eae9cd66ed3de23f1a736feb0b44cd3c2e9",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10939,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Greta Friar",
+      "title": "A genome-wide screen in live hosts reveals new secrets of parasite infection",
+      "description": "Apicomplexan parasites are a common cause of disease, infecting hundreds of millions of people each year. They are responsible for spreading malaria; cryptosporidiosis\u2014a severe childhood diarrheal disease; and toxoplasmosis\u2014a disease that endangers immune com\u2026",
+      "url": "https://phys.org/news/2024-07-genome-wide-screen-hosts-reveals.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/a-genome-wide-screen-i.jpg",
+      "publishedAt": "2024-07-09 14:29:05",
+      "content": "Apicomplexan parasites are a common cause of disease, infecting hundreds of millions of people each year. They are responsible for spreading malaria; cryptosporidiosisa severe childhood diarrheal dis\u2026 [+9363 chars]",
+      "retrievedAt": "2024-07-10 19:06:08.623554",
+      "internal_id": "4df086a45be0f5b1d8393f4bf865b45d1e44095992c9b116c9515fdef16477b0",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10942,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Kavya actress Sumbul Touqueer diagnosed with Typhoid, shares health update; 'Don't worry Guys, Abhi Better Hoon'",
+      "description": "Actress Sumbul Touqeer informs fans of her typhoid diagnosis while on set. She emphasizes the importance of environmental conservation and shares her love for rain. Despite health challenges, she continues to entertain and inspire her followers.",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/kavya-actress-sumbul-touqueer-diagnosed-with-typhoid-shares-health-update-dont-worry-im-feeling-better-now/articleshow/111611769.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111611763,width-1070,height-580,imgsize-23052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-09 14:27:40",
+      "content": "Kavya On Location - Rising Tensions: Misunderstandings Deepen Rift Between Kavya and Adhiraj",
+      "retrievedAt": "2024-07-10 19:06:10.477446",
+      "internal_id": "6a621cf154129158f3e08e1b5b358f1c103234f12264e03382cb66f79d782a65",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10926,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Tiago Caeiro",
+      "title": "Estirpe de gripe das aves H5N1 \u00e9 transmiss\u00edvel entre mam\u00edferos e pode potenciar o cont\u00e1gio entre humanos",
+      "description": "Estudo publicado na Nature confirma o que se temia: o v\u00edrus H5N1 j\u00e1 se transmite entre mam\u00edferos, o que pode potenciar a transmiss\u00e3o entre humanos. \"Um risco de sa\u00fade p\u00fablica\", alertam os cientistas.",
+      "url": "https://observador.pt/2024/07/09/estirpe-de-gripe-das-aves-h5n1-e-transmissivel-entre-mamiferos-e-pode-potenciar-o-contagio-entre-humanos/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4000%3A2245%3Anowe%3A0%3A244%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F07%2F09112810%2Fgettyimages-1229551165.jpg",
+      "publishedAt": "2024-07-09 14:26:52",
+      "content": "O v\u00edrus H5N1, que durante d\u00e9cadas circulou apenas em aves, j\u00e1 deu o que os cientistas designam como salto zoon\u00f3tico e est\u00e1 agora a ser transmitido tamb\u00e9m entre mam\u00edferos, confirma um estudo publicado\u2026 [+2967 chars]",
+      "retrievedAt": "2024-07-10 19:06:07.258881",
+      "internal_id": "06a7d89267b6e04b15296979aedf81ee1e178382d367dfc22000cfe8c6190a5e",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10940,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412 \u042e\u0410\u0420 \u0437\u0430 \u0434\u0432\u0430 \u043c\u0435\u0441\u044f\u0446\u0430 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 20 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0445 mpox",
+      "description": "\u0418\u0437 \u043d\u0438\u0445 \u0442\u0440\u043e\u0435 \u0443\u043c\u0435\u0440\u043b\u0438, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u0430\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f",
+      "url": "https://tass.ru/obschestvo/21318725",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21318725?u=2024-07-09T14:24:51.621534",
+      "publishedAt": "2024-07-09 14:24:51",
+      "content": ", 9 . //. mpox ( ) 2024 20, 3 . () , . \" , 8 2 2024 20 mpox, 3 , - . - mpox 2022 , . \". , mpox . 16 11 . 15 mpox -. , 1 31 2024 26 646 mpox. - (43,5% ), (21,8%) (20,4%). mpox (), 377 . Mpox -\u2026 [+57 chars]",
+      "retrievedAt": "2024-07-10 19:06:10.223167",
+      "internal_id": "92eb127fa070fab05230ce95898c473ded87ed70aab8868900be4c7917762687",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10934,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Dengue Can Seriously Affect The Brain, Nervous System, Say Doctors",
+      "description": "Although dengue is known to cause mild flu-like symptoms, the mosquito-borne viral illness has profound neurological implications that are often overlooked, said experts today.",
+      "url": "https://www.ndtv.com/india-news/dengue-can-seriously-affect-the-brain-nervous-system-say-doctors-report-6066447",
+      "urlToImage": "https://c.ndtvimg.com/2024-05/824vc2g_national-dengue-day-2024_625x300_16_May_24.jpg",
+      "publishedAt": "2024-07-09 13:51:09",
+      "content": "Dengue is a vector-borne disease transmitted by the bite of an infected Aedes mosquito. New Delhi: Although dengue is known to cause mild flu-like symptoms, the mosquito-borne viral illness has prof\u2026 [+3133 chars]",
+      "retrievedAt": "2024-07-10 19:06:08.043656",
+      "internal_id": "9bd2a2786c48636e491d06bbb0a420506988c8536c3252ba2d1363408400d762",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10943,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "LatestLY",
+      "author": "Team Latestly",
+      "title": "Sumbul Touqeer Khan Shoots for Her Show \u2018Kavya\u2019 Despite Being Down With Typhoid, TV Actress Shares Health Update and Requests Fans Not To Worry",
+      "description": "Taking to her social media handle, actress Sumbul Touqeer Khan casually revealed that she has been down with typhoid. However, what left us stunned is that the actress still continues to shoot for her show &#039;Kavya - Ek Jazbaa, Ek Junoon&#039;.",
+      "url": "https://www.latestly.com/socially/entertainment/tv/sumbul-touqeer-khan-shoots-for-her-show-kavya-despite-being-down-with-typhoid-tv-actress-shares-health-update-and-requests-fans-not-to-worry-6097752.html",
+      "urlToImage": "https://st1.latestly.com/wp-content/uploads/2024/07/58-63-784x441.jpg",
+      "publishedAt": "2024-07-09 12:58:53",
+      "content": "TV actress Sumbul Touqeer Khan, who gained widespread fame for her role in the Star Plus' Imlie, is currently helming Sony TV's Kavya- Ek Jazbaa, Ek Junoon, where she portrays the role of an IAS offi\u2026 [+1100 chars]",
+      "retrievedAt": "2024-07-10 19:06:10.486956",
+      "internal_id": "6e59d8e372bf01fefb5e1d289ef4a8fe1416ef3e3140e93d2a976a1c4c5dc0ba",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10944,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Www.vg.no",
+      "author": "Marius Medby",
+      "title": "Ost tilbakekalles etter funn av bakterier",
+      "description": "Oluf Lorentzen trekker tilbake produktet \u00abBanon\u00bb fra Frankrike. \u00c5rsaken er funn av bakterien Yersinia enterocolitica i geitost distribuert til flere land, blant annet Norge.",
+      "url": "https://www.vg.no/nyheter/innenriks/i/93zJLE/ost-tilbakekalles-etter-funn-av-bakterier",
+      "urlToImage": "https://akamai.vgc.no/v2/images/a2ee99f9-f118-4697-b814-0040704a089e?format=auto&w=720&s=0915ce9ac49e94ec1146c872d505900a60816d21",
+      "publishedAt": "2024-07-09 11:33:20",
+      "content": "Oluf Lorentzen trekker tilbake produktet \u00abBanon\u00bb fra Frankrike. \u00c5rsaken er funn av bakterien Yersinia enterocolitica i geitost distribuert til flere land, blant annet Norge. Produkt omfattet av tilb\u2026 [+346 chars]",
+      "retrievedAt": "2024-07-10 19:06:11.061129",
+      "internal_id": "6e7eeee71b8c4742338825960b2b1ea07122adc3b9d07bce31584f9e8e878644",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "nj.com",
+      "author": "Katie Kausch | Nj Advance Media For Nj.com",
+      "title": "Dengue warning issued by CDC. 41 N.J. travelers are sickened.",
+      "description": "There have been no cases of local transmission of dengue in New Jersey in 2024.",
+      "url": "https://www.nj.com/healthfit/2024/07/dengue-warning-issued-by-cdc-41-nj-travelers-are-sickened.html",
+      "urlToImage": "https://www.nj.com/resizer/v2/5WUEPOR4FNAIPKEVMVKS4SFIMU.jpg?auth=985456d938edc8a739b8b93bd955221afbe0eb024a630de51a3a7b7d12b471c5&width=1280&quality=90",
+      "publishedAt": "2024-07-09 11:16:12",
+      "content": "The CDC has issued new dengue warnings for the Americas as cases have increased nationwide, including 41 travelers in New Jersey who were sickened. Cases of dengue, a mosquito-transmitted virus, are\u2026 [+1853 chars]",
+      "retrievedAt": "2024-07-10 19:06:08.159547",
+      "internal_id": "943e9bce39289eae24eae07fc2a65e048d8acffc76d538f97828ecd1b068e458",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10945,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Von FOCUS-online-Autorin Agnes Wolf",
+      "title": "Schwarze Tod zur\u00fcck? - Beulenpest Behandlung: Ist die Krankheit heilbar?",
+      "description": "Die Beulenpest gilt in Europa als ausgestorben. In den USA erkrankte eine Person jedoch k\u00fcrzlich an dieser Krankheit. Erfahren Sie mehr \u00fcber die Erkrankung und \u00fcber die Heilungsm\u00f6glichkeiten.Von FOCUS-online-Autorin Agnes Wolf",
+      "url": "https://www.focus.de/gesundheit/schwarze-tod-zurueck-beulenpest-behandlung-ist-die-krankheit-heilbar_id_260121462.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260121554/gettyimages-1286021278.jpg?im=Crop%3D%280%2C177%2C2121%2C1060%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=acf72e1ed38a30d040cece28f846830fe1d0fe793340bac52db3be662b04dd2e",
+      "publishedAt": "2024-07-09 09:54:10",
+      "content": "Was ist die Beulenpest und wie wird sie \u00fcbertragen? Die Beulenpest, auch bekannt als schwarzer Tod, ist eine lebensbedrohliche Infektionskrankheit, die durch das Bakterium Yersinia pestis verursacht\u2026 [+2094 chars]",
+      "retrievedAt": "2024-07-10 19:06:11.067032",
+      "internal_id": "2383c6dfa08082d8b664fb64a40d2d299fadcadf339a8654ddd1adeae1c88a57",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10932,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u0632\u0647\u0631\u0627 \u0639\u0633\u06af\u0631\u06cc",
+      "title": "\u200c \u0622\u0646\u0686\u0647 \u0628\u0627\u06cc\u062f \u0627\u0632 \u0627\u0632 \u067e\u0634\u0647 \u0622\u0626\u062f\u0633 \u0648 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062a\u0628 \u062f\u0646\u06af\u06cc \u0628\u062f\u0627\u0646\u06cc\u0645",
+      "description": "\u067e\u0634\u0647 \u00ab\u0622\u0626\u062f\u0633\u00bb \u0645\u0639\u0631\u0648\u0641 \u0628\u0647 \u0628\u0628\u0631 \u0622\u0633\u06cc\u0627\u06cc\u06cc\u060c \u06cc\u06a9\u06cc \u0627\u0632 \u067e\u0634\u0647\u200c\u0647\u0627\u06cc \u0631\u0627\u06cc\u062c \u062f\u0631 \u0645\u0646\u0627\u0637\u0642 \u0627\u0633\u062a\u0648\u0627\u06cc\u06cc \u062c\u0647\u0627\u0646 \u0627\u0633\u062a\u060c \u0628\u0647 \u0648\u06cc\u0698\u0647 \u062f\u0631 \u0645\u0646\u0627\u0637\u0642 \u0622\u0633\u06cc\u0627\u06cc \u062c\u0646\u0648\u0628 \u0634\u0631\u0642\u06cc \u0627\u0632 \u062c\u0645\u0644\u0647 \u0645\u0627\u0644\u0632\u06cc \u0648 \u0633\u0627\u06cc\u0631 \u06a9\u0634\u0648\u0631\u0647\u0627\u06cc \u0627\u06cc\u0646 \u0645\u0646\u0637\u0642\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u067e\u0634\u0647 \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u06cc\u06a9 \u0646\u0627\u0642\u0644 \u0628\u06cc\u0645\u0627\u0631\u06cc\u200c\u0647\u0627\u06cc \u062e\u0637\u0631\u0646\u0627\u06a9 \u0648 \u06a9\u0634\u0646\u062f\u0647 \u0634\u0646\u0627\u062e\u062a\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a.",
+      "url": "https://www.isna.ir/news/1403041913284/\u0622\u0646\u0686\u0647-\u0628\u0627\u06cc\u062f-\u0627\u0632-\u0627\u0632-\u067e\u0634\u0647-\u0622\u0626\u062f\u0633-\u0648-\u0628\u06cc\u0645\u0627\u0631\u06cc-\u062a\u0628-\u062f\u0646\u06af\u06cc-\u0628\u062f\u0627\u0646\u06cc\u0645",
+      "urlToImage": "https://cdn.isna.ir/d/off/ardabil/2024/05/05/4/63017610.jpg?ts=1714901180556",
+      "publishedAt": "2024-07-09 09:51:48",
+      "content": "/ \u00ab\u00bb . . . Dengue Fever)) . . . (Dengue Fever) \u00ab \u00bb \u00ab\u00bb . . . - . - . - . - . - . - . . . : #",
+      "retrievedAt": "2024-07-10 19:06:08.016741",
+      "internal_id": "16a790acfd991b2b7efc857b556c04613fcb5a222385567768e8f1f28143db05",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10930,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases up, five deaths reported in ME26, says Health DG",
+      "description": "PUTRAJAYA: Dengue fever cases rose to 2,788 in the 26th Epidemiological Week (ME26) from June 23 to June 29, compared to 2,438 cases the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/07/09/dengue-cases-up-five-deaths-reported-in-me26-says-health-dg",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/07/09/2791876.jpg",
+      "publishedAt": "2024-07-09 09:18:00",
+      "content": "PUTRAJAYA: Dengue fever cases rose to 2,788 in the 26th Epidemiological Week (ME26) from June 23 to June 29, compared to 2,438 cases the previous week. Health director-general Datuk Dr Muhammad Radz\u2026 [+910 chars]",
+      "retrievedAt": "2024-07-10 19:06:07.999180",
+      "internal_id": "b302658dcbe4ebb8f51558a1897864981b271f8dd7ba74f9b8c283d1d39f5d8d",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 10931,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.se",
+      "author": "Alexander Vickhoff",
+      "title": "Anders leder jakten p\u00e5 invasiva myggor \u2013 f\u00e5r tusentals bett varje \u00e5r",
+      "description": "Invasiva myggarter vandrar norrut och riskerar att sprida virus som dengue och nilfeber. \u2013 Vi f\u00e5r myggor p\u00e5 ett helt nytt s\u00e4tt d\u00e4r vi inte \u00e4r vana att ha det, s\u00e4ger insektsforskaren Anders Lindstr\u00f6m.",
+      "url": "https://www.dn.se/sverige/anders-leder-jakten-pa-invasiva-myggor-far-tusentals-bett-varje-ar/",
+      "urlToImage": "https://static.bonniernews.se/cfcdn-screen9/img/6/b/6bDT_PY8syCrmD5LD2nphw_image/image.jpg?interpolation=lanczos-none&fit=around%7C1024:576&crop=1024:h;center,top&output-quality=80",
+      "publishedAt": "2024-07-09 08:38:10",
+      "content": "Den lilla blodfyllda tigermyggan \u00e4r parad och nu ser hon sig om efter en plats att vila i n\u00e5gon vecka. Hon sl\u00e5r sig ner inne i en husbil som tar henne fr\u00e5n centrala Tyskland till en rastplats i Sk\u00e5ne\u2026 [+7058 chars]",
+      "retrievedAt": "2024-07-10 19:06:08.004142",
+      "internal_id": "c39bcfaff94301276cd630c00d2e510112e675f1eb5dc327011403ffa95a581a",
+      "publishedAtLabel": "Jul 9"
+    },
     {
       "id": 10914,
       "query": [
@@ -24800,150 +25178,6 @@
       "content": "At a time when chrysanthemum flower production for use in mosquito-repelling incense coils has all but ceased in Japan, the tradition has been picked up in Kenya where thousands of people are killed \u2026 [+4916 chars]",
       "retrievedAt": "2024-05-28 07:06:44.446200",
       "internal_id": "fb224978f9c7c9fec333a0c800974af30b5603518ec8906d67d3c2b01cd635fb",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9541,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Www.nrc.nl",
-      "author": "Menno Sedee",
-      "title": "Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie",
-      "description": "Infectieziekte: Artsen sloegen in 2022 alarm, maar na enkele maanden was mpox (apenpokken) in Nederland vrijwel bestreden. Het virus ging vooral rond in een kleine groep mannen die onderling veel seks hadden.",
-      "url": "https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000",
-      "urlToImage": "https://images.nrc.nl/4VaOK7kC0WLGCVl56ZExvUemdwA=/1200x627/smart/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/images/gn4/data116001316-e4e098.png",
-      "publishedAt": "2024-05-26 18:16:55",
-      "content": "Waar is het apenpokkenvirus gebleven? Twee jaar geleden werden de eerste infecties in Nederland vastgesteld, en toen waren er nog grote zorgen. In enkele maanden liep het aantal meldingen op tot bove\u2026 [+4799 chars]",
-      "retrievedAt": "2024-05-27 19:05:56.413266",
-      "internal_id": "9cb1f7f2f17b96815c6b353351c4efb1c50017370a23975b3b253be6ac35d140",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9540,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Rep\u00fablica Centroafricana, primer pa\u00eds del mundo que recibe una nueva vacuna anti-malaria",
-      "description": "Unicef entreg\u00f3 m\u00e1s de 43.000 dosis por v\u00eda a\u00e9rea en la capital, Bangui, y m\u00e1s de 120.000 llegar\u00e1n en los pr\u00f3ximos d\u00edas.",
-      "url": "https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201606/_W933_80/569220.png",
-      "publishedAt": "2024-05-26 15:50:00",
-      "content": "La Rep\u00fablica Centroafricana (RCA) se ha convertido en el primer pa\u00eds del mundo en recibir una nueva vacuna contra la malaria, la R21/Matrix-M, aprobada por la Organizaci\u00f3n Mundial de la Salud (OMS\u2026 [+2210 chars]",
-      "retrievedAt": "2024-05-27 19:05:55.446048",
-      "internal_id": "d8e0fdc8f928a6b46633fe5eeb060298473960add5feb0ebc921495efdf9e97a",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9537,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Aljazeera.net",
-      "author": "\u062f. \u0623\u0633\u0627\u0645\u0629 \u0623\u0628\u0648 \u0627\u0644\u0631\u064f\u0651\u0628",
-      "title": "\u0634\u0631\u0628 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645.. \u0647\u0644 \u0647\u0648 \u0645\u0641\u064a\u062f\u061f",
-      "description": "\u0623\u0635\u0628\u062d \u062a\u0646\u0627\u0648\u0644 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645 -\u063a\u064a\u0631 \u0627\u0644\u0645\u0628\u0633\u062a\u0631- \u0623\u062d\u062f\u062b \u0635\u0631\u0639\u0629\u060c \u0648\u064a\u0634\u0639\u0631 \u0627\u0644\u062e\u0628\u0631\u0627\u0621 \u0628\u0627\u0644\u0642\u0644\u0642 \u0645\u0646 \u0623\u0646\u0647 \u0642\u062f \u064a\u0624\u062f\u064a \u0625\u0644\u0649 \u0627\u0646\u062a\u0634\u0627\u0631 \u0623\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631.",
-      "url": "https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2024/05/shutterstock_1988599271-1716727547.jpg?resize=1920%2C1440",
-      "publishedAt": "2024-05-26 13:25:09",
-      "content": "- - . . . . . . . (H5N1) . (H5N1) . (H5N1). \" \" . . . - - \" \" . \" \" . : \" .. . \u00bb. (H5N1) . . \" \". . . . . . : \" \". . (FDA). \" \" . . : \" \". \" \". . . . \" \" . . ( \u2026 [+31 chars]",
-      "retrievedAt": "2024-05-27 19:05:54.191914",
-      "internal_id": "fedbe48b01bfbb915bee8ea6c4176b34d2493d2d2648fb2ffd6843560b8f15df",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9535,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet Daily News",
-      "author": "hurriyetdailynews.com",
-      "title": "Stray dog bill favors adoption first, AKP says amid backlash",
-      "description": "A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a risk of rabies.",
-      "url": "https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6653228f6070c51f7ddeb833.jpg",
-      "publishedAt": "2024-05-26 11:52:53",
-      "content": "ANKARA A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a ris\u2026 [+1301 chars]",
-      "retrievedAt": "2024-05-27 19:05:53.196458",
-      "internal_id": "e3f16ed86ed58c1d927a1aa35c817a7d7ca4023f43a192a8441cb2f45f292d48",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9536,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Digiato.com",
-      "author": "\u0631\u0636\u0627 \u0632\u0627\u0631\u0639\u200c\u067e\u0648\u0631",
-      "title": "\u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1",
-      "description": "\u0628\u0627 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627 \u0627\u0632 \u0634\u06cc\u0648\u0639 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0627\u0641\u0632\u0627\u06cc\u0634 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0622\u06cc\u0627 \u0628\u0627\u06cc\u062f \u0646\u06af\u0631\u0627\u0646 \u0628\u0648\u062f\u061f The post \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1 appeared first on \u062f\u06cc\u062c\u06cc\u0627\u062a\u0648.",
-      "url": "https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus",
-      "urlToImage": "https://static.digiato.com/digiato/2024/05/image-38.jpg.webp",
-      "publishedAt": "2024-05-26 11:45:00",
-      "content": "H5N1 . . H5N1 . . . H5N1 . . H5N1 . (CDC) . . H5N1 . . H5N1 . . . CDC . . . . . . CDC . H5N1 . CDC . . H5N1 . H5N1 . . . CDC . CDC . . . . H5N1 . . CDC :",
-      "retrievedAt": "2024-05-27 19:05:54.141051",
-      "internal_id": "c6625a1639808f13ea9f00ea277c7410ada2241e4c9a8ad333fc54381a1a6034",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9552,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Pravda.com.ua",
-      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430. \u0416\u0438\u0442\u0442\u044f",
-      "title": "\u0412\u0456\u0440\u0443\u0441 \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443 \u0432\u043f\u0435\u0440\u0448\u0435 \u0432\u0438\u044f\u0432\u0438\u043b\u0438 \u0432 \u044f\u043b\u043e\u0432\u0438\u0447\u0438\u043d\u0456",
-      "description": "",
-      "url": "https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/",
-      "urlToImage": "https://imglife.pravda.com.ua/life/images/doc/3/4/62370/3457395d88ebdd2bebd86486e6aec0e2.jpeg?w=1920&q=90",
-      "publishedAt": "2024-05-26 11:30:00",
-      "content": ". . , , , , ,The New York Times. , , . H5N1 . (, ) . , , 58 ' . \", , \", , Consumer Reports. , . \" , \". , , , - , . . , , , , . \" ' \", . , , , . \" , H5N1 , \", , -. , , , .",
-      "retrievedAt": "2024-05-28 07:06:42.690970",
-      "internal_id": "050e922e59cca24332929e52e0d896c1c66dedf1be888ac65889fc23fcbfc9c1",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9538,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Could Bird Flu Lead To Next Pandemic?",
-      "description": "The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for what could lead to the next pandemic?",
-      "url": "https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982",
-      "urlToImage": "https://c.ndtvimg.com/2021-01/uitchfl8_bird-flu_625x300_08_January_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240506.08",
-      "publishedAt": "2024-05-26 08:59:47",
-      "content": "The detection of a case of the widespread H5N1 strain of bird flu in Australia is a cause for concern. The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for \u2026 [+7090 chars]",
-      "retrievedAt": "2024-05-27 19:05:54.205770",
-      "internal_id": "7cae26cbea7db0ac35f1b696cf61930c1110f1c2256392aefa4ff459d69d6847",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9539,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Se quintuplican casos de dengue en un a\u00f1o, alerta Ssa",
-      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos de dengue, de los cuales 6 mil 629 corresponden a dengue con signos de alarma y grave, y 6 mil 769 a no grave. Cifr\u2026",
-      "url": "https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-05-26 07:37:44",
-      "content": "Peri\u00f3dico La JornadaDomingo 26 de mayo de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos \u2026 [+2222 chars]",
-      "retrievedAt": "2024-05-27 19:05:54.826023",
-      "internal_id": "2bf6a34b7cacad447068eb6fe25f3484685a03ef22f0400636ed9ba6f1a596a0",
       "publishedAtLabel": "May 26"
     }
   ]
