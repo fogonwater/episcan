@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-07-11 07:05
-- **Most recent article:** 2024-07-10 04:49:15
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-07-11 19:05
+- **Most recent article:** 2024-07-10 18:51:15
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 61 | 64 | 115 | 62 | 105 | 52 | 51 | 510 |
-| h5n1 | 62 | 78 | 55 | 29 | 36 | 59 | 29 | 348 |
-| malaria | 25 | 21 | 37 | 20 | 24 | 15 | 10 | 152 |
-| mpox | 16 | 8 | 26 | 14 | 46 | 21 | 6 | 137 |
-| chikungunya | 18 | 5 | 14 | 5 | 17 | 6 | 2 | 67 |
+| dengue | 60 | 64 | 115 | 62 | 105 | 52 | 61 | 519 |
+| h5n1 | 58 | 78 | 55 | 29 | 36 | 59 | 31 | 346 |
+| malaria | 24 | 21 | 37 | 20 | 24 | 15 | 10 | 151 |
+| mpox | 15 | 8 | 26 | 14 | 46 | 21 | 7 | 137 |
+| chikungunya | 18 | 5 | 14 | 5 | 17 | 6 | 3 | 68 |
 | measles | 16 | 11 | 7 | 11 | 8 | 9 | 5 | 67 |
-| zika | 3 | 0 | 12 | 3 | 17 | 20 | 7 | 62 |
-| rabies | 15 | 9 | 2 | 5 | 8 | 4 | 0 | 43 |
-| pertussis | 6 | 9 | 11 | 11 | 3 | 1 | 1 | 42 |
+| zika | 3 | 0 | 12 | 3 | 17 | 20 | 8 | 63 |
+| pertussis | 6 | 9 | 11 | 11 | 3 | 1 | 2 | 43 |
+| rabies | 14 | 9 | 2 | 5 | 8 | 4 | 0 | 42 |
 | hpai | 11 | 2 | 4 | 4 | 3 | 3 | 3 | 30 |
-| meningitis | 1 | 6 | 3 | 1 | 1 | 3 | 2 | 17 |
+| meningitis | 1 | 6 | 3 | 1 | 1 | 3 | 3 | 18 |
 | typhoid | 0 | 1 | 1 | 2 | 3 | 4 | 5 | 16 |
 | leptospirosis | 4 | 1 | 1 | 1 | 2 | 1 | 0 | 10 |
-| yersinia | 0 | 1 | 0 | 0 | 2 | 0 | 3 | 6 |
+| yersinia | 0 | 1 | 0 | 0 | 2 | 0 | 5 | 8 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-28 (zika)
+
+- [Dengue: uso de larvicida no combate ao Aedes vira política nacional](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-07-10/dengue--uso-de-larvicida-no-combate-ao-aedes-vira-politica-nacional.html) (Ig.com.br)
 
 - [Jeux Olympiques de Paris: risques d'épidémie de dengue, Zika et chikungunya en Ile-de-France (Institut Pasteur)](https://www.techno-science.net/actualite/jeux-olympiques-paris-risques-epidemie-dengue-zika-chikungunya-ile-france-institut-pasteur-N25257.html) (Techno-science.net)
 
@@ -49,6 +51,10 @@ Source: [News API](https://newsapi.org/)
 - [Man with Zika virus dies in Karnataka's Shivamogga, one more under treatment at home](https://timesofindia.indiatimes.com/city/bengaluru/man-with-zika-virus-dies-in-karnatakas-shivamogga-one-more-under-treatment-at-home/articleshow/111547459.cms) (The Times of India)
 
 ## 24-28 (yersinia)
+
+- [Международный коллектив ученых выявил следы древней эпидемии чумы](https://vfokuse.mail.ru/article/mezhdunarodnyy-kollektiv-uchenyh-vyyavil-sledy-drevney-epidemii-chumy-61887614/) (Mail.ru)
+
+- [Чумную палочку нашли в 18 из 108 останков скандинавов эпохи неолита](https://nplus1.ru/news/2024/07/10/neolithic-plague) (Nplus1.ru)
 
 - [Ost tilbakekalles etter funn av bakterier](https://www.vg.no/nyheter/innenriks/i/93zJLE/ost-tilbakekalles-etter-funn-av-bakterier) (Www.vg.no)
 
@@ -70,9 +76,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-28 (pertussis)
 
+- [Fond du Lac County Health Department reports 15 cases of pertussis](https://www.wbay.com/2024/07/10/fond-du-lac-county-health-department-reports-15-cases-pertussis/) (WBAY)
+
 - [Pertussis: Warum nehmen die Keuchhustenfälle so stark zu?](https://www.spektrum.de/news/pertussis-warum-nehmen-keuchhustenfaelle-so-stark-zu/2220677) (Spektrum.de)
 
 ## 24-28 (mpox)
+
+- [Mpox: South Africa reports 20 new cases and three deaths](https://www.bmj.com/content/386/bmj.q1529) (The BMJ)
 
 - [В ЮАР за два месяца выявили 20 заболевших mpox](https://tass.ru/obschestvo/21318725) (Tass.ru)
 
@@ -87,6 +97,8 @@ Source: [News API](https://newsapi.org/)
 - [افزایش موارد ابتلا به آبله میمون در آفریقای جنوبی](https://www.entekhab.ir/fa/news/798563/افزایش-موارد-ابتلا-به-آبله-میمون-در-آفریقای-جنوبی) (Entekhab.ir)
 
 ## 24-28 (meningitis)
+
+- [‘Bachelor’ Alum Daisy Kent Recalls Nearly Dying From Meningitis](https://www.usmagazine.com/celebrity-news/news/bachelor-alum-daisy-kent-recalls-nearly-dying-from-meningitis/#article) (Us Weekly)
 
 - [Advancing genomics to track pathogen spread](https://www.digitaljournal.com/tech-science/advancing-genomics-to-track-pathogen-spread/article) (Digital Journal)
 
@@ -135,6 +147,10 @@ Source: [News API](https://newsapi.org/)
 - [Germany Reports H7N5 Bird Flu Outbreak](https://www.shtfplan.com/headline-news/germany-reports-h7n5-bird-flu-outbreak) (Shtfplan.com)
 
 ## 24-28 (h5n1)
+
+- [Vogelgrippe: »Finnland impft bereits – vorbildlich für Deutschland, Frau Addo?«](https://www.spektrum.de/news/vogelgrippe-interview-mit-marylyn-addo-zur-impfung/2222728) (Spektrum.de)
+
+- [H5N1 Bird Flu Infects 2 Children In Cambodia](https://www.shtfplan.com/headline-news/h5n1-bird-flu-infects-2-children-in-cambodia) (Shtfplan.com)
 
 - [Novel Genotypes of Highly Pathogenic Avian Influenza H5N1 Clade 2.3.4.4b Viruses, Germany, November 2023](https://wwwnc.cdc.gov/eid/article/30/8/24-0103_article) (Cdc.gov)
 
@@ -195,6 +211,24 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe H5N1: „Es muss alles getan werden, um das Virus zu stoppen“](https://www.sueddeutsche.de/gesundheit/usa-deutschland-vogelgrippe-kuehe-lux.DbgizRndYotBTPXMfjYA5f) (Süddeutsche Zeitung)
 
 ## 24-28 (dengue)
+
+- [Dengue Virus Linked To Elevated Risk Of Depression & Sleep Disorders](https://www.forbes.com/sites/anuradhavaranasi/2024/07/10/dengue-virus-linked-to-elevated-risk-of-depression--sleep-disorders/) (Forbes)
+
+- [Uma 'biofábrica' de mosquitos na Colômbia luta contra a dengue e a desinformação](https://tecnologia.ig.com.br/afp/2024-07-10/uma-biofabrica-de-mosquitos-na-colombia-luta-contra-a-dengue-e-a-desinformacao.html) (Ig.com.br)
+
+- [Dengue: uso de larvicida no combate ao Aedes vira política nacional](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-07-10/dengue--uso-de-larvicida-no-combate-ao-aedes-vira-politica-nacional.html) (Ig.com.br)
+
+- [Caso di Dengue segnalato a Trento, domani disinfestazione](https://www.ansa.it/trentino/notizie/2024/07/10/caso-di-dengue-segnalato-a-trento-domani-disinfestazione_6eab0d1f-8364-4213-a257-0836ea456023.html) (ANSA.it)
+
+- [Centre asks officials to work with high-burden states for dengue prevention](https://www.business-standard.com/india-news/centre-asks-officials-to-work-with-high-burden-states-for-dengue-prevention-124071000926_1.html) (Business Standard)
+
+- [Dengue Fever: बारसात अपने साथ लेकर आई डेंगु जैसी घातक बीमारी का खतरा, इन बातों का रखेंगे ध्यान, तो कभी नहीं होनो पड़ेगा परेशान](https://hindi.moneycontrol.com/news/health/monsoon-season-rain-dengue-fever-mosquito-danger-of-deadly-disease-symptoms-1912038.html) (Moneycontrol)
+
+- [Colombian mosquito factory fights dengue and disinformation](https://phys.org/news/2024-07-colombian-mosquito-factory-dengue-disinformation.html) (Phys.Org)
+
+- [Moustiques tigre : les bons gestes à adopter contre la dengue](https://www.francetvinfo.fr/sante/moustiques-tigre-les-bons-gestes-a-adopter-contre-la-dengue_6657771.html) (Francetvinfo.fr)
+
+- [Casi sospetti di Dengue in Italia, scattano misure di profilassi con interventi specifici](https://www.ansa.it/sito/photogallery/primopiano/2024/07/10/casi-sospetti-di-dengue-in-italia-scattano-misure-di-profilassi-con-interventi-specifici_6dde906a-7f50-46b2-ac49-6fcf441bc879.html) (ANSA.it)
 
 - [140% spike in dengue cases in state this June over past year in Goa](https://timesofindia.indiatimes.com/city/goa/140-spike-in-dengue-cases-in-state-this-june-over-past-year-in-goa/articleshow/111622586.cms) (The Times of India)
 
@@ -260,6 +294,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Un cas autochtone de dengue signalé pour la première fois de l’année en France, dans l’Hérault](https://www.lemonde.fr/planete/article/2024/07/08/un-cas-autochtone-de-dengue-signale-pour-la-premiere-fois-de-l-annee-en-france-dans-l-herault_6247926_3244.html) (Le Monde)
 
+- [„Riesiges Naturexperiment“ - Olympia als Superspreader-Event für Dengue-Fieber? Forscher untersuchen Infektionsrisiko](https://www.focus.de/gesundheit/news/dengue-fieber-risiko-fuer-olympia-besucher-in-paris_id_260119289.html) (Focus)
+
 - [Hérault. Une personne touchée par le virus de la dengue sans avoir voyagé](https://www.ledauphine.com/sante/2024/07/08/une-personne-touchee-par-le-virus-de-la-dengue-sans-avoir-voyage) (Le Dauphiné Libéré)
 
 - [Mosquitos kill more people than any other creature, the CDC warns](https://www.npr.org/2024/07/08/nx-s1-5026612/mosquitos-kill-more-people-than-any-other-creature-the-cdc-warns) (NPR)
@@ -299,6 +335,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue battle: Bengaluru homes turn tennis courts](https://timesofindia.indiatimes.com/city/bengaluru/dengue-battle-bengaluru-homes-turn-tennis-courts/articleshow/111547325.cms) (The Times of India)
 
 ## 24-28 (chikungunya)
+
+- [Vaccin contre le chikungunya : le ligérien Valneva obtient le feu vert de l’Europe](https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/vaccin-contre-le-chikungunya-le-ligerien-valneva-obtient-le-feu-vert-de-l-europe-1001885.html) (La Tribune.fr)
 
 - [Jeux Olympiques de Paris: risques d'épidémie de dengue, Zika et chikungunya en Ile-de-France (Institut Pasteur)](https://www.techno-science.net/actualite/jeux-olympiques-paris-risques-epidemie-dengue-zika-chikungunya-ile-france-institut-pasteur-N25257.html) (Techno-science.net)
 
@@ -2764,8 +2802,6 @@ Source: [News API](https://newsapi.org/)
 
 - [News24 | Cape Town metro probes origins of one confirmed, another suspected case of rabies in two family dogs](https://www.news24.com/news24/southafrica/news/cape-town-metro-probes-origins-of-one-confirmed-another-suspected-case-of-rabies-in-two-family-dogs-20240530) (News24)
 
-- [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
-
 ## 24-22 (pertussis)
 
 - [Whooping cough cases on the rise nationwide](https://www.cbsnews.com/pittsburgh/news/whooping-cough-cases-on-the-rise-nationwide/) (CBS News)
@@ -2811,8 +2847,6 @@ Source: [News API](https://newsapi.org/)
 - [Health department urges screening after 2nd confirmed mpox case](https://www.capetownetc.com/news/health-department-urges-screening-after-2nd-confirmed-mpox-case/) (CapeTown ETC)
 
 - [News24 | SA records second mpox case in less than a month](https://www.news24.com/news24/southafrica/news/sa-records-second-mpox-case-in-less-than-a-month-20240528) (News24)
-
-- [Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie](https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000) (Www.nrc.nl)
 
 ## 24-22 (meningitis)
 
@@ -2901,8 +2935,6 @@ Source: [News API](https://newsapi.org/)
 - [Genetic tests that foretell what might pass from mother to child](https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/genetic-tests-that-foretell-what-might-pass-from-mother-to-child/articleshow/110471563.cms) (The Times of India)
 
 - [Japanese mosquito coils taking bite out of malaria in Kenya](https://japantoday.com/category/business/feature-japanese-mosquito-coils-taking-bite-out-of-malaria-in-kenya) (Japan Today)
-
-- [República Centroafricana, primer país del mundo que recibe una nueva vacuna anti-malaria](https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433) (Montevideo.com.uy)
 
 ## 24-22 (leptospirosis)
 
@@ -3056,14 +3088,6 @@ Source: [News API](https://newsapi.org/)
 
 - [US, European nations consider vaccinating workers exposed to bird flu](https://www.marketscreener.com/quote/stock/CSL-LIMITED-6492492/news/US-European-nations-consider-vaccinating-workers-exposed-to-bird-flu-46829956/) (Marketscreener.com)
 
-- [شرب الحليب الخام.. هل هو مفيد؟](https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a) (Aljazeera.net)
-
-- [شناسایی دومین فرد مبتلا به آنفولانزای پرندگان در آمریکا؛ آشنایی با ویروس H5N1](https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus) (Digiato.com)
-
-- [Вірус пташиного грипу вперше виявили в яловичині](https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/) (Pravda.com.ua)
-
-- [Could Bird Flu Lead To Next Pandemic?](https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982) (NDTV News)
-
 ## 24-22 (dengue)
 
 - [Dengue: taxa de imunização ainda é baixa](https://www.terra.com.br/vida-e-estilo/dengue-taxa-de-imunizacao-ainda-e-baixa,f8d558f601b0a9e7d45b7d7d45088da5t0mr3uax.html) (Terra.com.br)
@@ -3185,8 +3209,6 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: WV dengue death toll now 8, cases almost 3,000](https://rpnradio.com/bacolod-wv-dengue-death-toll-now-8-cases-almost-3000/) (Rpnradio.com)
 
 - [Palike bats for ‘dry day’ to fight mosquitoes](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-intensifies-mosquito-control-spraying-activities-in-bengaluru/articleshow/110446527.cms) (The Times of India)
-
-- [Se quintuplican casos de dengue en un año, alerta Ssa](https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-22 (chikungunya)
 
