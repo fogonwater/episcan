@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-07-12 07:06
-- **Most recent article:** 2024-07-11 03:56:37
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-07-12 19:05
+- **Most recent article:** 2024-07-11 19:05:30
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 61 | 64 | 115 | 62 | 105 | 52 | 68 | 527 |
-| h5n1 | 62 | 78 | 55 | 29 | 36 | 59 | 35 | 354 |
-| malaria | 25 | 21 | 37 | 20 | 24 | 15 | 10 | 152 |
-| mpox | 16 | 8 | 26 | 14 | 46 | 21 | 8 | 139 |
-| chikungunya | 18 | 5 | 14 | 5 | 17 | 6 | 3 | 68 |
-| measles | 16 | 11 | 7 | 11 | 8 | 9 | 5 | 67 |
-| zika | 3 | 0 | 12 | 3 | 17 | 20 | 8 | 63 |
+| dengue | 60 | 64 | 115 | 62 | 105 | 52 | 76 | 534 |
+| h5n1 | 58 | 78 | 55 | 29 | 36 | 59 | 39 | 354 |
+| malaria | 24 | 21 | 37 | 20 | 24 | 15 | 11 | 152 |
+| mpox | 15 | 8 | 26 | 14 | 46 | 21 | 11 | 141 |
+| chikungunya | 18 | 5 | 14 | 5 | 17 | 6 | 4 | 69 |
+| measles | 16 | 11 | 7 | 11 | 8 | 9 | 6 | 68 |
+| zika | 3 | 0 | 12 | 3 | 17 | 20 | 11 | 66 |
+| rabies | 14 | 9 | 2 | 5 | 8 | 4 | 1 | 43 |
 | pertussis | 6 | 9 | 11 | 11 | 3 | 1 | 2 | 43 |
-| rabies | 15 | 9 | 2 | 5 | 8 | 4 | 0 | 43 |
 | hpai | 11 | 2 | 4 | 4 | 3 | 3 | 3 | 30 |
 | meningitis | 1 | 6 | 3 | 1 | 1 | 3 | 4 | 19 |
 | typhoid | 0 | 1 | 1 | 2 | 3 | 4 | 5 | 16 |
-| leptospirosis | 4 | 1 | 1 | 1 | 2 | 1 | 0 | 10 |
-| yersinia | 0 | 1 | 0 | 0 | 2 | 0 | 5 | 8 |
+| leptospirosis | 4 | 1 | 1 | 1 | 2 | 1 | 1 | 11 |
+| yersinia | 0 | 1 | 0 | 0 | 2 | 0 | 6 | 9 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -33,6 +33,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-28 (zika)
+
+- [Zika Virus: How it spreads and how to protect yourself](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/zika-virus-how-it-spreads-and-how-to-protect-yourself/articleshow/111660408.cms) (The Times of India)
+
+- [What are the neurological symptoms of Zika virus? Know the details](https://www.business-standard.com/lifestyle/what-are-the-neurological-symptoms-of-zika-virus-know-the-details-124071100527_1.html) (Business Standard)
+
+- [Dengue et chikungunya : comment le moustique tigre pourrait transformer les JO en cauchemar sanitaire](https://www.futura-sciences.com/sante/actualites/moustique-dengue-chikungunya-moustique-tigre-pourrait-transformer-jo-cauchemar-sanitaire-114501/) (Futura)
 
 - [Dengue: uso de larvicida no combate ao Aedes vira política nacional](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-07-10/dengue--uso-de-larvicida-no-combate-ao-aedes-vira-politica-nacional.html) (Ig.com.br)
 
@@ -51,6 +57,8 @@ Source: [News API](https://newsapi.org/)
 - [Man with Zika virus dies in Karnataka's Shivamogga, one more under treatment at home](https://timesofindia.indiatimes.com/city/bengaluru/man-with-zika-virus-dies-in-karnatakas-shivamogga-one-more-under-treatment-at-home/articleshow/111547459.cms) (The Times of India)
 
 ## 24-28 (yersinia)
+
+- [Новое исследование ставит известный факт о чуме под сомнение](https://vfokuse.mail.ru/article/novoe-issledovanie-stavit-izvestnyy-fakt-o-chume-pod-somnenie-61896522/) (Mail.ru)
 
 - [Международный коллектив ученых выявил следы древней эпидемии чумы](https://vfokuse.mail.ru/article/mezhdunarodnyy-kollektiv-uchenyh-vyyavil-sledy-drevney-epidemii-chumy-61887614/) (Mail.ru)
 
@@ -74,6 +82,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Monsoon Fever vs. Dengue: Doctor’s insights on how to differentiate between the two](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/monsoon-fever-vs-dengue-doctors-insights-on-how-to-differentiate-between-the-two/articleshow/111548437.cms) (The Times of India)
 
+## 24-28 (rabies)
+
+- [Rabid, Biting Seals Send Swimmers Rushing for Safety in South Africa](https://gizmodo.com/rabid-seals-send-swimmers-surfers-scrambling-2000469396) (Gizmodo.com)
+
 ## 24-28 (pertussis)
 
 - [Fond du Lac County Health Department reports 15 cases of pertussis](https://www.wbay.com/2024/07/10/fond-du-lac-county-health-department-reports-15-cases-pertussis/) (WBAY)
@@ -81,6 +93,12 @@ Source: [News API](https://newsapi.org/)
 - [Pertussis: Warum nehmen die Keuchhustenfälle so stark zu?](https://www.spektrum.de/news/pertussis-warum-nehmen-keuchhustenfaelle-so-stark-zu/2220677) (Spektrum.de)
 
 ## 24-28 (mpox)
+
+- [L'OMS s'inquiète face à "une nouvelle menace pour la santé mondiale"](https://www.dhnet.be/actu/sante/2024/07/11/loms-sinquiete-face-a-une-nouvelle-menace-pour-la-sante-mondiale-OKKMCQMMGJGQNNVRQJSIPQ64IU/) (dh.be)
+
+- [Volvió: 26 países notificaron este mes casos de viruela símica](https://www.montevideo.com.uy/Salud/Volvio-26-paises-notificaron-este-mes-casos-de-viruela-simica-uc893784) (Montevideo.com.uy)
+
+- [OMS advierte sobre la transmisión del mpox, con casos notificados en 26 países este mes](https://www.forbes.com.mx/oms-advierte-sobre-la-transmision-del-mpox-con-casos-notificados-en-26-paises-este-mes/) (Forbes.com.mx)
 
 - [República Democrática do Congo detecta ao menos 25 casos de mpox em Goma, maioria em campos de refugiados](https://www.terra.com.br/noticias/mundo/republica-democratica-do-congo-detecta-ao-menos-25-casos-de-mpox-em-goma-maioria-em-campos-de-refugiados,95cb1462ac873e0384f8c807230ab472se71xmon.html) (Terra.com.br)
 
@@ -110,6 +128,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-28 (measles)
 
+- [Measles Warning Issued to California Flight Passengers](https://www.newsweek.com/potential-measles-outbreak-california-southwest-airlines-1923687) (Newsweek)
+
 - [Santa Clara County health officials warn of possible measles exposure](https://abc7news.com/post/santa-clara-county-health-officials-warn-possible-measles-exposure/15047292/) (KGO-TV)
 
 - [2nd case of measles confirmed in Vermont](https://www.wcax.com/2024/07/08/2nd-case-measles-confirmed-vermont/) (WCAX)
@@ -121,6 +141,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1129: You never forget the first time you flu](https://www.microbe.tv/twiv/twiv-1129/) (Microbe.tv)
 
 ## 24-28 (malaria)
+
+- [Plasmodium vivax genomic surveillance in the Peruvian Amazon with Pv AmpliSeq assay](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011879) (Plos.org)
 
 - [Loop-Mediated Isothermal Amplification Assay to Detect Invasive Malaria Vector Anopheles stephensi Mosquitoes](https://wwwnc.cdc.gov/eid/article/30/9/24-0444_article) (Cdc.gov)
 
@@ -142,6 +164,10 @@ Source: [News API](https://newsapi.org/)
 
 - [What are the initial signs of Zika and Dengue?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-are-the-initial-signs-of-zika-and-dengue/articleshow/111548187.cms) (The Times of India)
 
+## 24-28 (leptospirosis)
+
+- [Human Case of Leptospirosis During a Canine Disease Outbreak — Wyoming, 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7327a1.htm) (Cdc.gov)
+
 ## 24-28 (hpai)
 
 - [Multiplex Dual-Target Reverse Transcription PCR for Subtyping Avian Influenza A(H5) Virus](https://wwwnc.cdc.gov/eid/article/30/8/24-0785_article) (Cdc.gov)
@@ -151,6 +177,14 @@ Source: [News API](https://newsapi.org/)
 - [Germany Reports H7N5 Bird Flu Outbreak](https://www.shtfplan.com/headline-news/germany-reports-h7n5-bird-flu-outbreak) (Shtfplan.com)
 
 ## 24-28 (h5n1)
+
+- [WHO: Limited surveillance hampers bird flu risk assessment](https://www.voanews.com/a/who-limited-surveillance-hampers-bird-flu-risk-assessment-/7694342.html) (VOA News)
+
+- [H5N1 könnte zur Pandemie werden: Wie bereitet sich Europa auf die Vogelgrippe vor?](https://www.tagesspiegel.de/wissen/h5n1-konnte-zur-pandemie-werden-wie-bereitet-sich-europa-auf-die-vogelgrippe-vor-11996909.html) (Der Tagesspiegel)
+
+- [Wie gut Deutschland vor dem neuen Pandemie-Kandidaten geschützt ist](https://www.welt.de/gesundheit/article252467026/Pandemie-Wie-gut-Deutschland-vor-der-Vogelgrippe-geschuetzt-ist.html) (DIE WELT)
+
+- [Infektiologe zur Vogelgrippe: "Ein Szenario, das wir unbedingt verhindern müssen"](https://www.n-tv.de/wissen/Sander-zu-moeglicher-Vogelgrippe-Pandemie-Ein-Szenario-das-wir-unbedingt-verhindern-muessen-article25078036.html) (N-tv.de)
 
 - [Krankheiten: Schutz vor Vogelgrippe: Wie gut ist Deutschland vorbereitet?](https://www.tagesspiegel.de/wissen/krankheiten-schutz-vor-vogelgrippe-wie-gut-ist-deutschland-vorbereitet-12001508.html) (Der Tagesspiegel)
 
@@ -223,6 +257,22 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe H5N1: „Es muss alles getan werden, um das Virus zu stoppen“](https://www.sueddeutsche.de/gesundheit/usa-deutschland-vogelgrippe-kuehe-lux.DbgizRndYotBTPXMfjYA5f) (Süddeutsche Zeitung)
 
 ## 24-28 (dengue)
+
+- [FREE TICKETS THURSDAY: Enter to Win Free Tix to See Dengue Fever, Leo Kottke, Passes to the Out West Music Fest, and MORE!](https://www.portlandmercury.com/music/2024/07/11/47298927/free-tickets-thursday-enter-to-win-free-tix-to-see-dengue-fever-leo-kottke-passes-to-the-out-west-music-fest-and-more) (The Portland Mercury)
+
+- [Sul, Sudeste e Centro-Oeste concentram 93% dos casos de dengue no primeiro semestre de 2024](https://valor.globo.com/brasil/noticia/2024/07/11/sul-sudeste-e-centro-oeste-concentram-93percent-dos-casos-de-dengue-no-primeiro-semestre-de-2024.ghtml) (Globo)
+
+- [Três meses após iniciar vacinação, Campinas confirma falta de doses para aplicar reforço contra dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2024/07/11/tres-meses-apos-iniciar-vacinacao-campinas-confirma-falta-de-doses-para-aplicar-reforco-contra-dengue.ghtml) (Globo)
+
+- [Zika Virus: How it spreads and how to protect yourself](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/zika-virus-how-it-spreads-and-how-to-protect-yourself/articleshow/111660408.cms) (The Times of India)
+
+- [Neurological complications associated with dengue](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/neurological-complications-associated-with-dengue/articleshow/111657703.cms) (The Times of India)
+
+- [تمام واقعیت‌ها در مورد تب دنگی، چطور از آن در امان بمانیم؟](https://www.dw.com/fa-ir/%D8%AA%D9%85%D8%A7%D9%85-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D8%AA%D8%A8-%D8%AF%D9%86%DA%AF%DB%8C-%DA%86%D8%B7%D9%88%D8%B1-%D8%A7%D8%B2-%D8%A2%D9%86-%D8%AF%D8%B1-%D8%A7%D9%85%D8%A7%D9%86-%D8%A8%D9%85%D8%A7%D9%86%DB%8C%D9%85/a-69626924) (DW (English))
+
+- [Dengue et chikungunya : comment le moustique tigre pourrait transformer les JO en cauchemar sanitaire](https://www.futura-sciences.com/sante/actualites/moustique-dengue-chikungunya-moustique-tigre-pourrait-transformer-jo-cauchemar-sanitaire-114501/) (Futura)
+
+- [Karnataka government is not bothered: BJP leader BY Vijayendra on Dengue cases](https://economictimes.indiatimes.com/news/politics-and-nation/karnataka-government-is-not-bothered-bjp-leader-by-vijayendra-on-dengue-cases/articleshow/111655323.cms) (The Times of India)
 
 - [Cases of dengue virus increase, particularly in New Jersey and New York, CDC says](https://6abc.com/post/cases-dengue-virus-increase-new-jersey-new-york/15050243/) (WPVI-TV)
 
@@ -361,6 +411,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue battle: Bengaluru homes turn tennis courts](https://timesofindia.indiatimes.com/city/bengaluru/dengue-battle-bengaluru-homes-turn-tennis-courts/articleshow/111547325.cms) (The Times of India)
 
 ## 24-28 (chikungunya)
+
+- [Dengue et chikungunya : comment le moustique tigre pourrait transformer les JO en cauchemar sanitaire](https://www.futura-sciences.com/sante/actualites/moustique-dengue-chikungunya-moustique-tigre-pourrait-transformer-jo-cauchemar-sanitaire-114501/) (Futura)
 
 - [Vaccin contre le chikungunya : le ligérien Valneva obtient le feu vert de l’Europe](https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/vaccin-contre-le-chikungunya-le-ligerien-valneva-obtient-le-feu-vert-de-l-europe-1001885.html) (La Tribune.fr)
 
@@ -2828,8 +2880,6 @@ Source: [News API](https://newsapi.org/)
 
 - [News24 | Cape Town metro probes origins of one confirmed, another suspected case of rabies in two family dogs](https://www.news24.com/news24/southafrica/news/cape-town-metro-probes-origins-of-one-confirmed-another-suspected-case-of-rabies-in-two-family-dogs-20240530) (News24)
 
-- [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
-
 ## 24-22 (pertussis)
 
 - [Whooping cough cases on the rise nationwide](https://www.cbsnews.com/pittsburgh/news/whooping-cough-cases-on-the-rise-nationwide/) (CBS News)
@@ -2875,8 +2925,6 @@ Source: [News API](https://newsapi.org/)
 - [Health department urges screening after 2nd confirmed mpox case](https://www.capetownetc.com/news/health-department-urges-screening-after-2nd-confirmed-mpox-case/) (CapeTown ETC)
 
 - [News24 | SA records second mpox case in less than a month](https://www.news24.com/news24/southafrica/news/sa-records-second-mpox-case-in-less-than-a-month-20240528) (News24)
-
-- [Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie](https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000) (Www.nrc.nl)
 
 ## 24-22 (meningitis)
 
@@ -2965,8 +3013,6 @@ Source: [News API](https://newsapi.org/)
 - [Genetic tests that foretell what might pass from mother to child](https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/genetic-tests-that-foretell-what-might-pass-from-mother-to-child/articleshow/110471563.cms) (The Times of India)
 
 - [Japanese mosquito coils taking bite out of malaria in Kenya](https://japantoday.com/category/business/feature-japanese-mosquito-coils-taking-bite-out-of-malaria-in-kenya) (Japan Today)
-
-- [República Centroafricana, primer país del mundo que recibe una nueva vacuna anti-malaria](https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433) (Montevideo.com.uy)
 
 ## 24-22 (leptospirosis)
 
@@ -3120,14 +3166,6 @@ Source: [News API](https://newsapi.org/)
 
 - [US, European nations consider vaccinating workers exposed to bird flu](https://www.marketscreener.com/quote/stock/CSL-LIMITED-6492492/news/US-European-nations-consider-vaccinating-workers-exposed-to-bird-flu-46829956/) (Marketscreener.com)
 
-- [شرب الحليب الخام.. هل هو مفيد؟](https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a) (Aljazeera.net)
-
-- [شناسایی دومین فرد مبتلا به آنفولانزای پرندگان در آمریکا؛ آشنایی با ویروس H5N1](https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus) (Digiato.com)
-
-- [Вірус пташиного грипу вперше виявили в яловичині](https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/) (Pravda.com.ua)
-
-- [Could Bird Flu Lead To Next Pandemic?](https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982) (NDTV News)
-
 ## 24-22 (dengue)
 
 - [Dengue: taxa de imunização ainda é baixa](https://www.terra.com.br/vida-e-estilo/dengue-taxa-de-imunizacao-ainda-e-baixa,f8d558f601b0a9e7d45b7d7d45088da5t0mr3uax.html) (Terra.com.br)
@@ -3249,8 +3287,6 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: WV dengue death toll now 8, cases almost 3,000](https://rpnradio.com/bacolod-wv-dengue-death-toll-now-8-cases-almost-3000/) (Rpnradio.com)
 
 - [Palike bats for ‘dry day’ to fight mosquitoes](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-intensifies-mosquito-control-spraying-activities-in-bengaluru/articleshow/110446527.cms) (The Times of India)
-
-- [Se quintuplican casos de dengue en un año, alerta Ssa](https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-22 (chikungunya)
 

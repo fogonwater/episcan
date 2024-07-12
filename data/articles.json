@@ -1,8 +1,389 @@
 {
-  "last_updated": "2024-07-12 07:06",
-  "count_articles_total": 1450,
-  "count_articles_new": 13,
+  "last_updated": "2024-07-12 19:05",
+  "count_articles_total": 1463,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 11011,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Belga Belga",
+      "title": "L'OMS s'inqui\u00e8te face \u00e0 \"une nouvelle menace pour la sant\u00e9 mondiale\"",
+      "description": "L'OMS a indiqu\u00e9 avoir re\u00e7u des signalements de cas de 26 pays au cours du mois \u00e9coul\u00e9. ...",
+      "url": "https://www.dhnet.be/actu/sante/2024/07/11/loms-sinquiete-face-a-une-nouvelle-menace-pour-la-sante-mondiale-OKKMCQMMGJGQNNVRQJSIPQ64IU/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/6QR2GXHI2BEFTCXSN2AQIQE2SI.jpg?auth=7e71427f88c76899f2474d3aba5b889fed2a80729b945482a9548c055b89d1fe&width=1200&height=630&quality=85&focal=1250%2C831&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2024-07-11 19:05:30",
+      "content": "L'OMS a indiqu\u00e9 avoir re\u00e7u des signalements de cas de 26 pays au cours du mois \u00e9coul\u00e9. Le Mpox, \"reste une menace pour la sant\u00e9 mondiale\", a d\u00e9clar\u00e9 le chef de l'OMS Tedros Adhanom Ghebreyesus lors \u2026 [+2204 chars]",
+      "retrievedAt": "2024-07-12 19:05:39.481748",
+      "internal_id": "ff4fdba402e9f0cfaa706ea7ba54964195a2b776e252022e6ba3baf225d3d1b8",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 10997,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (VOA News)",
+      "title": "WHO: Limited surveillance hampers bird flu risk assessment",
+      "description": "The agency calls on nations to strengthen monitoring and report all cases",
+      "url": "https://www.voanews.com/a/who-limited-surveillance-hampers-bird-flu-risk-assessment-/7694342.html",
+      "urlToImage": "https://gdb.voanews.com/ED1CE3D3-0111-4D3A-8EAA-FA4BDF0B6818.jpg",
+      "publishedAt": "2024-07-11 18:45:40",
+      "content": "The World Health Organization said its ability to assess and manage the risk posed by H5N1 avian influenza bird flu cases around the world is hampered by limited surveillance of animal and human case\u2026 [+2392 chars]",
+      "retrievedAt": "2024-07-12 19:05:37.469667",
+      "internal_id": "05145f904d79df348672b768ba9e122eeabd186a08a0e37bd17aed020a1d0434",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11006,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Portland Mercury",
+      "author": "Wm. Steven Humphrey",
+      "title": "FREE TICKETS THURSDAY: Enter to Win Free Tix to See Dengue Fever, Leo Kottke, Passes to the Out West Music Fest, and MORE!",
+      "description": "by Wm. Steven Humphrey Who's ready to have some fun? Well, the Mercury is here to help with FREE TICKETS to see some of Portland's best concerts and events\u2014our way of saying thanks to our great readers and spread the word about some fantastic upcoming \u2026",
+      "url": "https://www.portlandmercury.com/music/2024/07/11/47298927/free-tickets-thursday-enter-to-win-free-tix-to-see-dengue-fever-leo-kottke-passes-to-the-out-west-music-fest-and-more",
+      "urlToImage": "https://media1.fdncms.com/portmerc/imager/u/large/47298988/ticketthursday.jpeg",
+      "publishedAt": "2024-07-11 18:21:00",
+      "content": "Who's ready to have some fun? Well, the Mercury is here to help with FREE TICKETS to see some of Portland's best concerts and eventsour way of saying thanks to our great readers and spread the word a\u2026 [+2852 chars]",
+      "retrievedAt": "2024-07-12 19:05:38.291367",
+      "internal_id": "808c9b240731c72021b995d8067e2b5445f79c99dc748ce5e2c58cbf00d73b37",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11013,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Human Case of Leptospirosis During a Canine Disease Outbreak \u2014 Wyoming, 2023",
+      "description": "This report describes a case of human leptospirosis reported in Wyoming during a a canine outbreak.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7327a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7327a1_HumanLeptospirosis_IMAGE_11July2024__1200x675.png?_=20426",
+      "publishedAt": "2024-07-11 17:24:51",
+      "content": "Data Source WDH staff members reviewed medical records, interviewed the patient, and reviewed reportable conditions data* to monitor for additional cases. The office of the State Animal Health Offic\u2026 [+4006 chars]",
+      "retrievedAt": "2024-07-12 19:05:39.737030",
+      "internal_id": "e802bf0364b189a331caf87ae3630f91bff49aba344d0a62507c997745c466cd",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11007,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Sul, Sudeste e Centro-Oeste concentram 93% dos casos de dengue no primeiro semestre de 2024",
+      "description": "Pa\u00eds registrou 6,1 milh\u00f5es de casos prov\u00e1veis no primeiro semestre, alta de 346% sobre o mesmo per\u00edodo de 2023",
+      "url": "https://valor.globo.com/brasil/noticia/2024/07/11/sul-sudeste-e-centro-oeste-concentram-93percent-dos-casos-de-dengue-no-primeiro-semestre-de-2024.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/0MqOtzSJhymU4n61MByNf9cC4fU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/W/I/9MnIVvSc2utdvDuEISMg/103851421-mosquito-20aedes-20aegypti.jpg",
+      "publishedAt": "2024-07-11 17:08:13",
+      "content": "O Brasil enfrenta, neste ano, a pior epidemia de dengue da sua hist\u00f3ria. Com 6,1 milh\u00f5es de casos prov\u00e1veis no primeiro semestre, os registros da doen\u00e7a superam em 346% aqueles do mesmo per\u00edodo de 20\u2026 [+5061 chars]",
+      "retrievedAt": "2024-07-12 19:05:38.302635",
+      "internal_id": "62139c2c12175aadcf7e77942a927bec575c544f19fa6616583d4681f894171e",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 10994,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "Rabid, Biting Seals Send Swimmers Rushing for Safety in South Africa",
+      "description": "Officials in Cape Town, South Africa, have detected at least nine cases of seal rabies as of late, though the danger to humans is considered low.",
+      "url": "https://gizmodo.com/rabid-seals-send-swimmers-surfers-scrambling-2000469396",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1241211268-e1720714437294.jpg",
+      "publishedAt": "2024-07-11 16:45:22",
+      "content": "Rabid seals are apparently now a problem we have to worry about. Scientists and officials are sounding the alarm after having found at least nine seals infected with the virus in the waters surroundi\u2026 [+3290 chars]",
+      "retrievedAt": "2024-07-12 19:05:36.588414",
+      "internal_id": "fd8619425c2c77bcd6987ff6f6322dd271cb1da012b2b7043654052c4fb920c5",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11012,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Volvi\u00f3: 26 pa\u00edses notificaron este mes casos de viruela s\u00edmica",
+      "description": "La OMS advierte sobre la transmisi\u00f3n de la enfermedad, tambi\u00e9n conocida como viruela del mono.",
+      "url": "https://www.montevideo.com.uy/Salud/Volvio-26-paises-notificaron-este-mes-casos-de-viruela-simica-uc893784",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/811285.jpg",
+      "publishedAt": "2024-07-11 16:26:00",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) alert\u00f3 este jueves de que el virus de mpox (enfermedad antes conocida como viruela del mono) sigue transmiti\u00e9ndose a nivel mundial, con 26 pa\u00edses que han \u2026 [+1692 chars]",
+      "retrievedAt": "2024-07-12 19:05:39.490704",
+      "internal_id": "9b7b7e3c16a305a5c6084185059ee3e99e99e37eee64c6972bf46df591cbc986",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11005,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Tr\u00eas meses ap\u00f3s iniciar vacina\u00e7\u00e3o, Campinas confirma falta de doses para aplicar refor\u00e7o contra dengue",
+      "description": "Intervalo \u00e9 recomendado pelo Minist\u00e9rio da Sa\u00fade para iniciar a segunda dose, mas governo municipal afirmou que n\u00e3o recebeu o imunizante do estado. Governo estadual informou que vai responder quando tiver informa\u00e7\u00f5es da \u00e1rea t\u00e9cnica. Campinas completa tr\u00eas me\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/07/11/tres-meses-apos-iniciar-vacinacao-campinas-confirma-falta-de-doses-para-aplicar-reforco-contra-dengue.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/6nlZBINuUXHZACgMoJysmp2JMCM=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/12749014.jpg",
+      "publishedAt": "2024-07-11 16:14:08",
+      "content": "O governo municipal afirmou que n\u00e3o recebeu as vacinas do estado e, enquanto n\u00e3o chegar a nova remessa, n\u00e3o consegue iniciar a aplica\u00e7\u00e3o da segunda dose. \u00c0 EPTV, afiliada da TV Globo, a Secretaria Es\u2026 [+3040 chars]",
+      "retrievedAt": "2024-07-12 19:05:38.259042",
+      "internal_id": "919b6bb453dd6d4d3e7b6af187a214bac67732706b40f50ea6e7d41be0d0acdb",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11010,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "OMS advierte sobre la transmisi\u00f3n del mpox, con casos notificados en 26 pa\u00edses este mes",
+      "description": "Forbes M\u00e9xico. OMS advierte sobre la transmisi\u00f3n del mpox, con casos notificados en 26 pa\u00edses este mes Para controlar estos brotes de mpox, la OMS ya se encuentra colaborando con las autoridades de los pa\u00edses mediante acciones de vigilancia. OMS advierte so\u2026",
+      "url": "https://www.forbes.com.mx/oms-advierte-sobre-la-transmision-del-mpox-con-casos-notificados-en-26-paises-este-mes/",
+      "urlToImage": "https://cdn.forbes.com.mx/2022/06/viruela-del-mono.jpg",
+      "publishedAt": "2024-07-11 16:11:11",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) alert\u00f3 este jueves de que el virus de mpox (enfermedad antes conocida como viruela del mono) sigue transmiti\u00e9ndose a nivel mundial, con 26 pa\u00edses que han not\u2026 [+1834 chars]",
+      "retrievedAt": "2024-07-12 19:05:39.476709",
+      "internal_id": "1f49c3b7c3f2962908b0085f143b131d57605a8edda40f60846ab7b087d804be",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 10996,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Miray Caliskan",
+      "title": "H5N1 k\u00f6nnte zur Pandemie werden: Wie bereitet sich Europa auf die Vogelgrippe vor?",
+      "description": "Mit der Ausbreitung des H5N1-Virus in den USA w\u00e4chst die Sorge um eine m\u00f6gliche Pandemie. Welche Impfstoffe stehen in Europa bereit und wie effektiv sind sie? Die zwei wichtigsten Beh\u00f6rden geben Einblicke.",
+      "url": "https://www.tagesspiegel.de/wissen/h5n1-konnte-zur-pandemie-werden-wie-bereitet-sich-europa-auf-die-vogelgrippe-vor-11996909.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/montage3/alternates/BASE_16_9_W1400/montage.jpeg",
+      "publishedAt": "2024-07-11 16:04:35",
+      "content": "In den USA bef\u00e4llt seit einem halben Jahr das einst auf V\u00f6gel beschr\u00e4nkte Influenza-Virus H5N1 eine Milchkuhfarm nach der anderen. Vier Hofmitarbeiter haben sich bislang angesteckt und leichte Sympto\u2026 [+1385 chars]",
+      "retrievedAt": "2024-07-12 19:05:37.459633",
+      "internal_id": "e352c0357f6565c30b36db9013ef52527bce321c13287838dd678cc17e16d675",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11008,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Johanna Helena Kattenberg, Luis Cabrera-Sosa, Erick Figueroa-Ildefonso, Mathijs Mutsaers, Pieter Monsieurs, Pieter Guetens, Ber\u00f3nica Infante, Christopher Delgado-Ratto, Dionicia Gamboa, Anna Rosanas-Urgell",
+      "title": "Plasmodium vivax genomic surveillance in the Peruvian Amazon with Pv AmpliSeq assay",
+      "description": "Author summary Latin America is aiming towards malaria elimination. Genomic surveillance is crucial for a country\u2019s malaria strategy, aiding in understanding and stopping the spread of the disease. While widely used for another malaria species (Plasmodium fal\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011879",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011879.g007&size=inline",
+      "publishedAt": "2024-07-11 14:00:00",
+      "content": "Citation: Kattenberg JH, Cabrera-Sosa L, Figueroa-Ildefonso E, Mutsaers M, Monsieurs P, Guetens P, et al. (2024) Plasmodium vivax genomic surveillance in the Peruvian Amazon with Pv AmpliSeq assay. P\u2026 [+49946 chars]",
+      "retrievedAt": "2024-07-12 19:05:38.799642",
+      "internal_id": "9618e00c5db65f2bac80838e095123becc4abc5268b308d1ba39c944ec16a262",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11014,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430 \u041a\u043e\u0440\u0447\u0430\u043d\u043e\u0432\u0430",
+      "title": "\u041d\u043e\u0432\u043e\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0442\u0430\u0432\u0438\u0442 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u0444\u0430\u043a\u0442 \u043e \u0447\u0443\u043c\u0435 \u043f\u043e\u0434 \u0441\u043e\u043c\u043d\u0435\u043d\u0438\u0435",
+      "description": "\u041e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d\u043e, \u0447\u0442\u043e \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043e\u0441\u043e\u0431\u0438 \u0437\u0435\u043c\u043b\u0435\u0434\u0435\u043b\u044c\u0446\u0435\u0432 \u044d\u043f\u043e\u0445\u0438 \u043d\u0435\u043e\u043b\u0438\u0442\u0430, \u0447\u044c\u044f \u043f\u043e\u043f\u0443\u043b\u044f\u0446\u0438\u044f \u0442\u0430\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u0441\u043e\u043a\u0440\u0430\u0442\u0438\u043b\u0430\u0441\u044c 4900\u22125300 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434, \u0431\u044b\u043b\u0438 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u044b \u0447\u0443\u043c\u043e\u0439. \u0422\u043e\u0433\u0434\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u043f\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u043b\u0430\u0441\u044c \u043e\u0442 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043a \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0443.",
+      "url": "https://vfokuse.mail.ru/article/novoe-issledovanie-stavit-izvestnyy-fakt-o-chume-pod-somnenie-61896522/",
+      "urlToImage": "https://resizer.mail.ru/p/25ef46a4-5c78-57a0-9a41-9c10023e84a8/op:40/logo:bottom:vfokuse.png/ot:0J3QvtCy0L7QtSDQuNGB0YHQu9C10LTQvtCy0LDQvdC40LUg0YHRgtCw0LLQuNGCINC40LfQstC10YHRgtC90YvQuSDRhNCw0LrRgiDQviDRh9GD0LzQtSDQv9C-0LQg0YHQvtC80L3QtdC90LjQtQ/AQAGxxFVlD0MwyE86zKCQcLXeSdPsxKgduh7LIGefS1A5bTqGSQ3RF6aMFqUNTEhH_3QZaiX9mgzksBKfWrTL8gxQ4Q.jpg",
+      "publishedAt": "2024-07-11 10:37:25",
+      "content": ", Yersinia pestis \u2014 \u2014 . 18 108 ( 17% ). , .",
+      "retrievedAt": "2024-07-12 19:05:39.895779",
+      "internal_id": "99eb42d139965bab46bba907962f3f609ad67c590d79a8344329cf5760f53cdf",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 10995,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Shannon McDonagh",
+      "title": "Measles Warning Issued to California Flight Passengers",
+      "description": "Alarm raised as infected traveler puts dozens of passengers and staff at risk on a Southwest Airlines flight.",
+      "url": "https://www.newsweek.com/potential-measles-outbreak-california-southwest-airlines-1923687",
+      "urlToImage": "https://d.newsweek.com/en/full/2426056/southwest-airlines-passengers-collect-luggage.jpg",
+      "publishedAt": "2024-07-11 10:30:26",
+      "content": "A passenger traveling on a Southwest Airlines flight may have exposed other people to measles, authorities have warned. Santa Clara County health officials have notified the public that an adult \u2014wh\u2026 [+4269 chars]",
+      "retrievedAt": "2024-07-12 19:05:36.867780",
+      "internal_id": "abf56e74b2ee206811e51a066807d47287dccecc98a8aa1e2ac120c521577e4d",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11004,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Zika Virus: How it spreads and how to protect yourself",
+      "description": "Deadly Zika virus spreading rapidly through mosquito bites! Learn about its origins, transmission, and severe symptoms. No cure available yet, but prevention tips include mosquito bite protection and safe sex practices. Stay informed to stay safe from this da\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/zika-virus-how-it-spreads-and-how-to-protect-yourself/articleshow/111660408.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111660381,width-1070,height-580,imgsize-1621726,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-11 10:21:44",
+      "content": "Dengue: Early signs and preventive measures to stay safe",
+      "retrievedAt": "2024-07-12 19:05:38.168000",
+      "internal_id": "0b62e65d09ef4461f88dde64ded5ccdebfe2d307b62b47ebb84173d29e0b59e9",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11002,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Neurological complications associated with dengue",
+      "description": "Minister J P Nadda stressed dengue prevention. Dengue, transmitted by Aedes mosquitoes, can lead to severe neurological issues. Early detection and treatment are crucial. Preventative measures include avoiding stagnant water, using mosquito repellents, wearin\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/neurological-complications-associated-with-dengue/articleshow/111657703.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111657692,width-1070,height-580,imgsize-656793,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-11 09:08:21",
+      "content": "Dengue: Early signs and preventive measures to stay safe",
+      "retrievedAt": "2024-07-12 19:05:38.138619",
+      "internal_id": "a9f124ade07074ae2cfffddd8964aba8ec73ef5ef5bd5823ce245b6e599ae8a2",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 10999,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Mia Bucher",
+      "title": "Wie gut Deutschland vor dem neuen Pandemie-Kandidaten gesch\u00fctzt ist",
+      "description": "Das Vogelgrippevirus H5N1 k\u00f6nnte eine Pandemie ausl\u00f6sen, bef\u00fcrchten Experten. Seit neue Erregertypen in Rinderherden grassieren, wird die Warnung ernster. Was das f\u00fcr Deutschland bedeutet und warum Experten glauben, dass das Land besser vorbereitet w\u00e4re als b\u2026",
+      "url": "https://www.welt.de/gesundheit/article252467026/Pandemie-Wie-gut-Deutschland-vor-der-Vogelgrippe-geschuetzt-ist.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile252468258/3151358977-ci16x9-w1200/Bird-Flu.jpg",
+      "publishedAt": "2024-07-11 08:58:09",
+      "content": "Sp\u00e4testens seit Corona ist Pandemie zum Reizwort geworden. Entsprechend hoch ist derzeit die Aufmerksamkeit f\u00fcr das gerade kursierende Vogelgrippevirus H5N1, das Virologe Christian Drosten und andere\u2026 [+6150 chars]",
+      "retrievedAt": "2024-07-12 19:05:37.510017",
+      "internal_id": "3cd125bbe4f461a61ecc7c48f011a3c1c38bcb175a0fea39c5f72f22c7198ec1",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11009,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Sudeep Singh Rawat",
+      "title": "What are the neurological symptoms of Zika virus? Know the details",
+      "description": "Zika virus typically results in mild symptoms like fever, rash, and joint pain, however, its neurological complications can be severe and lasting",
+      "url": "https://www.business-standard.com/lifestyle/what-are-the-neurological-symptoms-of-zika-virus-know-the-details-124071100527_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/03/thumb/fitandfill/400X400/1720006500-8544.jpg",
+      "publishedAt": "2024-07-11 08:56:40",
+      "content": "Zika virus typically results in mild symptoms like fever, rash, and joint pain, however, its neurological complications can be severe and lasting Sudeep Singh RawatNew Delhi Monsoon has arrived in \u2026 [+2716 chars]",
+      "retrievedAt": "2024-07-12 19:05:39.052377",
+      "internal_id": "ced85bf8837cf1d2b6c412de91789a369a57880d246231c1c346245c822ddf7d",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11001,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "\u062a\u0645\u0627\u0645 \u0648\u0627\u0642\u0639\u06cc\u062a\u200c\u0647\u0627 \u062f\u0631 \u0645\u0648\u0631\u062f \u062a\u0628 \u062f\u0646\u06af\u06cc\u060c \u0686\u0637\u0648\u0631 \u0627\u0632 \u0622\u0646 \u062f\u0631 \u0627\u0645\u0627\u0646 \u0628\u0645\u0627\u0646\u06cc\u0645\u061f",
+      "description": "\u062a\u0628 \u062f\u0646\u06af\u06cc (Dengue fever) \u06cc\u06a9 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0645\u0646\u062a\u0642\u0644\u0647 \u0627\u0632 \u0637\u0631\u06cc\u0642 \u067e\u0634\u0647\u200c\u0627\u06cc \u0628\u0647 \u0646\u0627\u0645 \"\u0622\u0626\u062f\u0633\" \u0627\u0633\u062a \u06a9\u0647 \u062f\u0631 \u0645\u0646\u0627\u0637\u0642 \u06af\u0631\u0645\u0633\u06cc\u0631\u06cc \u0648 \u0646\u06cc\u0645\u0647 \u06af\u0631\u0645\u0633\u06cc\u0631\u06cc \u062c\u0647\u0627\u0646 \u0631\u062e \u0645\u06cc\u200c\u062f\u0647\u062f. \u0648\u0632\u0627\u0631\u062a \u0628\u0647\u062f\u0627\u0634\u062a \u0627\u06cc\u0631\u0627\u0646 \u0628\u0647 \u062a\u0627\u0632\u06af\u06cc \u0627\u0632 \u0627\u0628\u062a\u0644\u0627\u06cc \u06f1\u06f4\u06f9 \u0646\u0641\u0631 \u0628\u0647 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062a\u0628 \u062f\u0646\u06af\u06cc \u062f\u0631 \u0627\u06cc\u0631\u0627\u0646 \u062e\u0628\u0631 \u062f\u0627\u062f\u0647 \u0627\u0633\u062a.",
+      "url": "https://www.dw.com/fa-ir/%D8%AA%D9%85%D8%A7%D9%85-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D8%AA%D8%A8-%D8%AF%D9%86%DA%AF%DB%8C-%DA%86%D8%B7%D9%88%D8%B1-%D8%A7%D8%B2-%D8%A2%D9%86-%D8%AF%D8%B1-%D8%A7%D9%85%D8%A7%D9%86-%D8%A8%D9%85%D8%A7%D9%86%DB%8C%D9%85/a-69626924",
+      "urlToImage": "https://static.dw.com/image/66697248_6.jpg",
+      "publishedAt": "2024-07-11 08:39:00",
+      "content": " // , (Dengue fever) \"\" . . \" \" . : H. Schmidbauer/blickwinkel/picture alliance \" \" . \" \" () . . . . . . . . . . . . . . . . . . . \u2026 [+121 chars]",
+      "retrievedAt": "2024-07-12 19:05:38.104200",
+      "internal_id": "b93155933eecaa9c9955ca2554c56207e3be5279837605d7b450b31c6e220f8d",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11000,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Destination Sant\u00e9 et Futura",
+      "title": "Dengue et chikungunya : comment le moustique tigre pourrait transformer les JO en cauchemar sanitaire",
+      "description": "Le moustique tigre, vecteur de maladies virales, sera une pr\u00e9occupation sanitaire majeure lors des Jeux olympiques de Paris 2024 en raison de la pr\u00e9sence attendue de centaines de milliers de personnes. Alors qu'un premier cas de dengue autochtone a \u00e9t\u00e9 d\u00e9tect\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/moustique-dengue-chikungunya-moustique-tigre-pourrait-transformer-jo-cauchemar-sanitaire-114501/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/7/9/0/79066b8b93_50218422_moustique-tigre.jpg",
+      "publishedAt": "2024-07-11 08:00:00",
+      "content": "Le moustique tigre est capable de transmettre les virus de la dengue, du chikungunya, de Zika, d'Usutu ou du virus du Nil (West Nile)). Dans la perspective des Jeux olympiques de Paris 2024, alors qu\u2026 [+4662 chars]",
+      "retrievedAt": "2024-07-12 19:05:38.076301",
+      "internal_id": "ef4eebfe7a3bb5f5da131c77f5b5781cae78406fd7ac9783ca2a1097d8c93e98",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 10998,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "Hedviga Nyarsik",
+      "title": "Infektiologe zur Vogelgrippe: \"Ein Szenario, das wir unbedingt verhindern m\u00fcssen\"",
+      "description": "In den USA infizieren sich Milchk\u00fche mit dem H5N1-Virus und stecken wiederum Menschen damit an. Eine besorgniserregende Entwicklung, sagt Charit\u00e9-Infektiologe Sander. Denn wenn sich der Erreger mit anderen Influenzaviren vermischt, k\u00f6nnte das eine neue Pandem\u2026",
+      "url": "https://www.n-tv.de/wissen/Sander-zu-moeglicher-Vogelgrippe-Pandemie-Ein-Szenario-das-wir-unbedingt-verhindern-muessen-article25078036.html",
+      "urlToImage": "https://bilder1.n-tv.de/img/incoming/crop25078148/451132202-cImg_16_9-w1200/470964070.jpg",
+      "publishedAt": "2024-07-11 07:48:30",
+      "content": "In den USA infizieren sich Milchk\u00fche mit dem H5N1-Virus und stecken wiederum Menschen damit an. Eine besorgniserregende Entwicklung, sagt Charit\u00e9-Infektiologe Sander. Denn wenn sich der Erreger mit a\u2026 [+4869 chars]",
+      "retrievedAt": "2024-07-12 19:05:37.504136",
+      "internal_id": "b41c6f2d5d3eadb5cd135e3add707a465430e3d3633745246f72ea34e230d27b",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11003,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Karnataka government is not bothered: BJP leader BY Vijayendra on Dengue cases",
+      "description": "Karnataka Bharatiya Janata Party President BY Vijayendra has criticised the state government for not taking dengue cases seriously and plans to raise the issue in the Assembly. He accused the government of not taking the issue seriously and criticized Deputy \u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/karnataka-government-is-not-bothered-bjp-leader-by-vijayendra-on-dengue-cases/articleshow/111655323.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111655393,width-1200,height-630,imgsize-21676,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-11 07:38:12",
+      "content": "Karnataka Bharatiya Janata Party President BY Vijayendra on Thursday attacked the state government over the Dengue cases in the state and said that the Karnataka government is not \"bothered\", adding \u2026 [+1941 chars]",
+      "retrievedAt": "2024-07-12 19:05:38.147563",
+      "internal_id": "a4d3cc3325a84bfb6bd84e09a36af8e539e6b40ce872c165d0e8709c17b832c5",
+      "publishedAtLabel": "Jul 11"
+    },
     {
       "id": 10991,
       "query": [
@@ -26046,150 +26427,6 @@
       "content": "At a time when chrysanthemum flower production for use in mosquito-repelling incense coils has all but ceased in Japan, the tradition has been picked up in Kenya where thousands of people are killed \u2026 [+4916 chars]",
       "retrievedAt": "2024-05-28 07:06:44.446200",
       "internal_id": "fb224978f9c7c9fec333a0c800974af30b5603518ec8906d67d3c2b01cd635fb",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9541,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Www.nrc.nl",
-      "author": "Menno Sedee",
-      "title": "Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie",
-      "description": "Infectieziekte: Artsen sloegen in 2022 alarm, maar na enkele maanden was mpox (apenpokken) in Nederland vrijwel bestreden. Het virus ging vooral rond in een kleine groep mannen die onderling veel seks hadden.",
-      "url": "https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000",
-      "urlToImage": "https://images.nrc.nl/4VaOK7kC0WLGCVl56ZExvUemdwA=/1200x627/smart/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/images/gn4/data116001316-e4e098.png",
-      "publishedAt": "2024-05-26 18:16:55",
-      "content": "Waar is het apenpokkenvirus gebleven? Twee jaar geleden werden de eerste infecties in Nederland vastgesteld, en toen waren er nog grote zorgen. In enkele maanden liep het aantal meldingen op tot bove\u2026 [+4799 chars]",
-      "retrievedAt": "2024-05-27 19:05:56.413266",
-      "internal_id": "9cb1f7f2f17b96815c6b353351c4efb1c50017370a23975b3b253be6ac35d140",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9540,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Rep\u00fablica Centroafricana, primer pa\u00eds del mundo que recibe una nueva vacuna anti-malaria",
-      "description": "Unicef entreg\u00f3 m\u00e1s de 43.000 dosis por v\u00eda a\u00e9rea en la capital, Bangui, y m\u00e1s de 120.000 llegar\u00e1n en los pr\u00f3ximos d\u00edas.",
-      "url": "https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201606/_W933_80/569220.png",
-      "publishedAt": "2024-05-26 15:50:00",
-      "content": "La Rep\u00fablica Centroafricana (RCA) se ha convertido en el primer pa\u00eds del mundo en recibir una nueva vacuna contra la malaria, la R21/Matrix-M, aprobada por la Organizaci\u00f3n Mundial de la Salud (OMS\u2026 [+2210 chars]",
-      "retrievedAt": "2024-05-27 19:05:55.446048",
-      "internal_id": "d8e0fdc8f928a6b46633fe5eeb060298473960add5feb0ebc921495efdf9e97a",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9537,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Aljazeera.net",
-      "author": "\u062f. \u0623\u0633\u0627\u0645\u0629 \u0623\u0628\u0648 \u0627\u0644\u0631\u064f\u0651\u0628",
-      "title": "\u0634\u0631\u0628 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645.. \u0647\u0644 \u0647\u0648 \u0645\u0641\u064a\u062f\u061f",
-      "description": "\u0623\u0635\u0628\u062d \u062a\u0646\u0627\u0648\u0644 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645 -\u063a\u064a\u0631 \u0627\u0644\u0645\u0628\u0633\u062a\u0631- \u0623\u062d\u062f\u062b \u0635\u0631\u0639\u0629\u060c \u0648\u064a\u0634\u0639\u0631 \u0627\u0644\u062e\u0628\u0631\u0627\u0621 \u0628\u0627\u0644\u0642\u0644\u0642 \u0645\u0646 \u0623\u0646\u0647 \u0642\u062f \u064a\u0624\u062f\u064a \u0625\u0644\u0649 \u0627\u0646\u062a\u0634\u0627\u0631 \u0623\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631.",
-      "url": "https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2024/05/shutterstock_1988599271-1716727547.jpg?resize=1920%2C1440",
-      "publishedAt": "2024-05-26 13:25:09",
-      "content": "- - . . . . . . . (H5N1) . (H5N1) . (H5N1). \" \" . . . - - \" \" . \" \" . : \" .. . \u00bb. (H5N1) . . \" \". . . . . . : \" \". . (FDA). \" \" . . : \" \". \" \". . . . \" \" . . ( \u2026 [+31 chars]",
-      "retrievedAt": "2024-05-27 19:05:54.191914",
-      "internal_id": "fedbe48b01bfbb915bee8ea6c4176b34d2493d2d2648fb2ffd6843560b8f15df",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9535,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet Daily News",
-      "author": "hurriyetdailynews.com",
-      "title": "Stray dog bill favors adoption first, AKP says amid backlash",
-      "description": "A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a risk of rabies.",
-      "url": "https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6653228f6070c51f7ddeb833.jpg",
-      "publishedAt": "2024-05-26 11:52:53",
-      "content": "ANKARA A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a ris\u2026 [+1301 chars]",
-      "retrievedAt": "2024-05-27 19:05:53.196458",
-      "internal_id": "e3f16ed86ed58c1d927a1aa35c817a7d7ca4023f43a192a8441cb2f45f292d48",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9536,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Digiato.com",
-      "author": "\u0631\u0636\u0627 \u0632\u0627\u0631\u0639\u200c\u067e\u0648\u0631",
-      "title": "\u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1",
-      "description": "\u0628\u0627 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627 \u0627\u0632 \u0634\u06cc\u0648\u0639 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0627\u0641\u0632\u0627\u06cc\u0634 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0622\u06cc\u0627 \u0628\u0627\u06cc\u062f \u0646\u06af\u0631\u0627\u0646 \u0628\u0648\u062f\u061f The post \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1 appeared first on \u062f\u06cc\u062c\u06cc\u0627\u062a\u0648.",
-      "url": "https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus",
-      "urlToImage": "https://static.digiato.com/digiato/2024/05/image-38.jpg.webp",
-      "publishedAt": "2024-05-26 11:45:00",
-      "content": "H5N1 . . H5N1 . . . H5N1 . . H5N1 . (CDC) . . H5N1 . . H5N1 . . . CDC . . . . . . CDC . H5N1 . CDC . . H5N1 . H5N1 . . . CDC . CDC . . . . H5N1 . . CDC :",
-      "retrievedAt": "2024-05-27 19:05:54.141051",
-      "internal_id": "c6625a1639808f13ea9f00ea277c7410ada2241e4c9a8ad333fc54381a1a6034",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9552,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Pravda.com.ua",
-      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430. \u0416\u0438\u0442\u0442\u044f",
-      "title": "\u0412\u0456\u0440\u0443\u0441 \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443 \u0432\u043f\u0435\u0440\u0448\u0435 \u0432\u0438\u044f\u0432\u0438\u043b\u0438 \u0432 \u044f\u043b\u043e\u0432\u0438\u0447\u0438\u043d\u0456",
-      "description": "",
-      "url": "https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/",
-      "urlToImage": "https://imglife.pravda.com.ua/life/images/doc/3/4/62370/3457395d88ebdd2bebd86486e6aec0e2.jpeg?w=1920&q=90",
-      "publishedAt": "2024-05-26 11:30:00",
-      "content": ". . , , , , ,The New York Times. , , . H5N1 . (, ) . , , 58 ' . \", , \", , Consumer Reports. , . \" , \". , , , - , . . , , , , . \" ' \", . , , , . \" , H5N1 , \", , -. , , , .",
-      "retrievedAt": "2024-05-28 07:06:42.690970",
-      "internal_id": "050e922e59cca24332929e52e0d896c1c66dedf1be888ac65889fc23fcbfc9c1",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9538,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Could Bird Flu Lead To Next Pandemic?",
-      "description": "The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for what could lead to the next pandemic?",
-      "url": "https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982",
-      "urlToImage": "https://c.ndtvimg.com/2021-01/uitchfl8_bird-flu_625x300_08_January_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240506.08",
-      "publishedAt": "2024-05-26 08:59:47",
-      "content": "The detection of a case of the widespread H5N1 strain of bird flu in Australia is a cause for concern. The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for \u2026 [+7090 chars]",
-      "retrievedAt": "2024-05-27 19:05:54.205770",
-      "internal_id": "7cae26cbea7db0ac35f1b696cf61930c1110f1c2256392aefa4ff459d69d6847",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9539,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Se quintuplican casos de dengue en un a\u00f1o, alerta Ssa",
-      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos de dengue, de los cuales 6 mil 629 corresponden a dengue con signos de alarma y grave, y 6 mil 769 a no grave. Cifr\u2026",
-      "url": "https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-05-26 07:37:44",
-      "content": "Peri\u00f3dico La JornadaDomingo 26 de mayo de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos \u2026 [+2222 chars]",
-      "retrievedAt": "2024-05-27 19:05:54.826023",
-      "internal_id": "2bf6a34b7cacad447068eb6fe25f3484685a03ef22f0400636ed9ba6f1a596a0",
       "publishedAtLabel": "May 26"
     }
   ]
