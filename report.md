@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-07-11 19:05
-- **Most recent article:** 2024-07-10 18:51:15
+- **New articles in last harvest:** 13
+- **Last harvest:** 2024-07-12 07:06
+- **Most recent article:** 2024-07-11 03:56:37
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-22 | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 60 | 64 | 115 | 62 | 105 | 52 | 61 | 519 |
-| h5n1 | 58 | 78 | 55 | 29 | 36 | 59 | 31 | 346 |
-| malaria | 24 | 21 | 37 | 20 | 24 | 15 | 10 | 151 |
-| mpox | 15 | 8 | 26 | 14 | 46 | 21 | 7 | 137 |
+| dengue | 61 | 64 | 115 | 62 | 105 | 52 | 68 | 527 |
+| h5n1 | 62 | 78 | 55 | 29 | 36 | 59 | 35 | 354 |
+| malaria | 25 | 21 | 37 | 20 | 24 | 15 | 10 | 152 |
+| mpox | 16 | 8 | 26 | 14 | 46 | 21 | 8 | 139 |
 | chikungunya | 18 | 5 | 14 | 5 | 17 | 6 | 3 | 68 |
 | measles | 16 | 11 | 7 | 11 | 8 | 9 | 5 | 67 |
 | zika | 3 | 0 | 12 | 3 | 17 | 20 | 8 | 63 |
 | pertussis | 6 | 9 | 11 | 11 | 3 | 1 | 2 | 43 |
-| rabies | 14 | 9 | 2 | 5 | 8 | 4 | 0 | 42 |
+| rabies | 15 | 9 | 2 | 5 | 8 | 4 | 0 | 43 |
 | hpai | 11 | 2 | 4 | 4 | 3 | 3 | 3 | 30 |
-| meningitis | 1 | 6 | 3 | 1 | 1 | 3 | 3 | 18 |
+| meningitis | 1 | 6 | 3 | 1 | 1 | 3 | 4 | 19 |
 | typhoid | 0 | 1 | 1 | 2 | 3 | 4 | 5 | 16 |
 | leptospirosis | 4 | 1 | 1 | 1 | 2 | 1 | 0 | 10 |
 | yersinia | 0 | 1 | 0 | 0 | 2 | 0 | 5 | 8 |
@@ -82,6 +82,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-28 (mpox)
 
+- [República Democrática do Congo detecta ao menos 25 casos de mpox em Goma, maioria em campos de refugiados](https://www.terra.com.br/noticias/mundo/republica-democratica-do-congo-detecta-ao-menos-25-casos-de-mpox-em-goma-maioria-em-campos-de-refugiados,95cb1462ac873e0384f8c807230ab472se71xmon.html) (Terra.com.br)
+
 - [Mpox: South Africa reports 20 new cases and three deaths](https://www.bmj.com/content/386/bmj.q1529) (The BMJ)
 
 - [В ЮАР за два месяца выявили 20 заболевших mpox](https://tass.ru/obschestvo/21318725) (Tass.ru)
@@ -97,6 +99,8 @@ Source: [News API](https://newsapi.org/)
 - [افزایش موارد ابتلا به آبله میمون در آفریقای جنوبی](https://www.entekhab.ir/fa/news/798563/افزایش-موارد-ابتلا-به-آبله-میمون-در-آفریقای-جنوبی) (Entekhab.ir)
 
 ## 24-28 (meningitis)
+
+- [The Bachelor's Daisy Kent Details Near-Fatal Battle With Meningitis](https://www.eonline.com/news/1404794/bachelor-nations-daisy-kent-details-near-fatal-battle-with-meningitis) (Eonline.com)
 
 - [‘Bachelor’ Alum Daisy Kent Recalls Nearly Dying From Meningitis](https://www.usmagazine.com/celebrity-news/news/bachelor-alum-daisy-kent-recalls-nearly-dying-from-meningitis/#article) (Us Weekly)
 
@@ -147,6 +151,14 @@ Source: [News API](https://newsapi.org/)
 - [Germany Reports H7N5 Bird Flu Outbreak](https://www.shtfplan.com/headline-news/germany-reports-h7n5-bird-flu-outbreak) (Shtfplan.com)
 
 ## 24-28 (h5n1)
+
+- [Krankheiten: Schutz vor Vogelgrippe: Wie gut ist Deutschland vorbereitet?](https://www.tagesspiegel.de/wissen/krankheiten-schutz-vor-vogelgrippe-wie-gut-ist-deutschland-vorbereitet-12001508.html) (Der Tagesspiegel)
+
+- [Krankheiten: Schutz vor Vogelgrippe: Wie gut ist Deutschland vorbereitet?](https://www.zeit.de/news/2024-07/11/schutz-vor-vogelgrippe-wie-gut-ist-deutschland-vorbereitet) (Die Zeit)
+
+- [Krankheiten: Schutz vor Vogelgrippe: Wie gut ist Deutschland vorbereitet?](https://www.stern.de/panorama/wissen/krankheiten--schutz-vor-vogelgrippe--wie-gut-ist-deutschland-vorbereitet--34871546.html) (STERN.de)
+
+- [Создано устройство для определения гриппа с помощью смартфона](https://www.ferra.ru/news/techlife/sozdano-ustroistvo-dlya-opredeleniya-grippa-s-pomoshyu-smartfona-10-07-2024.htm) (Ferra.ru)
 
 - [Vogelgrippe: »Finnland impft bereits – vorbildlich für Deutschland, Frau Addo?«](https://www.spektrum.de/news/vogelgrippe-interview-mit-marylyn-addo-zur-impfung/2222728) (Spektrum.de)
 
@@ -211,6 +223,20 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe H5N1: „Es muss alles getan werden, um das Virus zu stoppen“](https://www.sueddeutsche.de/gesundheit/usa-deutschland-vogelgrippe-kuehe-lux.DbgizRndYotBTPXMfjYA5f) (Süddeutsche Zeitung)
 
 ## 24-28 (dengue)
+
+- [Cases of dengue virus increase, particularly in New Jersey and New York, CDC says](https://6abc.com/post/cases-dengue-virus-increase-new-jersey-new-york/15050243/) (WPVI-TV)
+
+- [Karnataka high court takes up suo motu PIL on dengue, seeks government's response](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-high-court-takes-up-suo-motu-pil-on-dengue-seeks-governments-response/articleshow/111647549.cms) (The Times of India)
+
+- [Nearly 200 cases of dengue virus reported in New York and New Jersey: CDC](https://abcnews.go.com/Politics/200-cases-dengue-virus-reported-new-york-new/story?id=111831290) (ABC News)
+
+- [Dengue: el plan del Gobierno para evitar una nueva epidemia el año próximo](https://www.lanacion.com.ar/sociedad/dengue-el-plan-del-gobierno-para-evitar-una-nueva-epidemia-el-ano-proximo-nid10072024/) (La Nacion)
+
+- [Adugodi, HSR Layout among high-risk dengue areas: BBMP](https://timesofindia.indiatimes.com/city/bengaluru/high-risk-dengue-areas-identified-in-bengaluru-adugodi-hsr-layout-and-more/articleshow/111645076.cms) (The Times of India)
+
+- [Upper & middle-class hit the hardest, say officials](https://timesofindia.indiatimes.com/city/bengaluru/dengue-outbreak-hits-upper-middle-class-hard-in-bengaluru/articleshow/111644879.cms) (The Times of India)
+
+- [177 confirmed cases of dengue since Jan in Goa](https://timesofindia.indiatimes.com/city/goa/177-confirmed-cases-of-dengue-since-jan-in-goa/articleshow/111642613.cms) (The Times of India)
 
 - [Dengue Virus Linked To Elevated Risk Of Depression & Sleep Disorders](https://www.forbes.com/sites/anuradhavaranasi/2024/07/10/dengue-virus-linked-to-elevated-risk-of-depression--sleep-disorders/) (Forbes)
 
@@ -2802,6 +2828,8 @@ Source: [News API](https://newsapi.org/)
 
 - [News24 | Cape Town metro probes origins of one confirmed, another suspected case of rabies in two family dogs](https://www.news24.com/news24/southafrica/news/cape-town-metro-probes-origins-of-one-confirmed-another-suspected-case-of-rabies-in-two-family-dogs-20240530) (News24)
 
+- [Stray dog bill favors adoption first, AKP says amid backlash](https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962) (Hurriyet Daily News)
+
 ## 24-22 (pertussis)
 
 - [Whooping cough cases on the rise nationwide](https://www.cbsnews.com/pittsburgh/news/whooping-cough-cases-on-the-rise-nationwide/) (CBS News)
@@ -2847,6 +2875,8 @@ Source: [News API](https://newsapi.org/)
 - [Health department urges screening after 2nd confirmed mpox case](https://www.capetownetc.com/news/health-department-urges-screening-after-2nd-confirmed-mpox-case/) (CapeTown ETC)
 
 - [News24 | SA records second mpox case in less than a month](https://www.news24.com/news24/southafrica/news/sa-records-second-mpox-case-in-less-than-a-month-20240528) (News24)
+
+- [Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie](https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000) (Www.nrc.nl)
 
 ## 24-22 (meningitis)
 
@@ -2935,6 +2965,8 @@ Source: [News API](https://newsapi.org/)
 - [Genetic tests that foretell what might pass from mother to child](https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/genetic-tests-that-foretell-what-might-pass-from-mother-to-child/articleshow/110471563.cms) (The Times of India)
 
 - [Japanese mosquito coils taking bite out of malaria in Kenya](https://japantoday.com/category/business/feature-japanese-mosquito-coils-taking-bite-out-of-malaria-in-kenya) (Japan Today)
+
+- [República Centroafricana, primer país del mundo que recibe una nueva vacuna anti-malaria](https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433) (Montevideo.com.uy)
 
 ## 24-22 (leptospirosis)
 
@@ -3088,6 +3120,14 @@ Source: [News API](https://newsapi.org/)
 
 - [US, European nations consider vaccinating workers exposed to bird flu](https://www.marketscreener.com/quote/stock/CSL-LIMITED-6492492/news/US-European-nations-consider-vaccinating-workers-exposed-to-bird-flu-46829956/) (Marketscreener.com)
 
+- [شرب الحليب الخام.. هل هو مفيد؟](https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a) (Aljazeera.net)
+
+- [شناسایی دومین فرد مبتلا به آنفولانزای پرندگان در آمریکا؛ آشنایی با ویروس H5N1](https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus) (Digiato.com)
+
+- [Вірус пташиного грипу вперше виявили в яловичині](https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/) (Pravda.com.ua)
+
+- [Could Bird Flu Lead To Next Pandemic?](https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982) (NDTV News)
+
 ## 24-22 (dengue)
 
 - [Dengue: taxa de imunização ainda é baixa](https://www.terra.com.br/vida-e-estilo/dengue-taxa-de-imunizacao-ainda-e-baixa,f8d558f601b0a9e7d45b7d7d45088da5t0mr3uax.html) (Terra.com.br)
@@ -3209,6 +3249,8 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: WV dengue death toll now 8, cases almost 3,000](https://rpnradio.com/bacolod-wv-dengue-death-toll-now-8-cases-almost-3000/) (Rpnradio.com)
 
 - [Palike bats for ‘dry day’ to fight mosquitoes](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-intensifies-mosquito-control-spraying-activities-in-bengaluru/articleshow/110446527.cms) (The Times of India)
+
+- [Se quintuplican casos de dengue en un año, alerta Ssa](https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-22 (chikungunya)
 
