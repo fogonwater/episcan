@@ -1,8 +1,368 @@
 {
-  "last_updated": "2024-07-12 19:05",
-  "count_articles_total": 1463,
-  "count_articles_new": 21,
+  "last_updated": "2024-07-13 07:06",
+  "count_articles_total": 1493,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 11035,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Gef\u00e4hrliche Mpox-Variante breitet sich aus",
+      "description": "Noch scheint die Gefahr weit weg. Doch heutzutage sind Erreger letztlich oft nur eine Flugreise entfernt. K\u00f6nnte es eine neue, schlimmere Mpox-Welle geben?",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--gefaehrliche-mpox-variante-breitet-sich-aus-34874876.html",
+      "urlToImage": "https://image.stern.de/34875182/t/5b/v1/w1440/r1.7778/-/12--ybaybqks2ev10axw800h600jpeg---af5d5ed93b24fe0e.jpg",
+      "publishedAt": "2024-07-12 06:55:10",
+      "content": "Noch scheint die Gefahr weit weg. Doch heutzutage sind Erreger letztlich oft nur eine Flugreise entfernt. K\u00f6nnte es eine neue, schlimmere Mpox-Welle geben? Vor zwei Jahren meldeten mehr als 100 L\u00e4nd\u2026 [+4680 chars]",
+      "retrievedAt": "2024-07-13 07:06:15.130770",
+      "internal_id": "ab30b90e3a5c9dad005464ec78a7071a8ed5824dae1a05a40dd5b360f3d37d8e",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11018,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "WHO: Limited surveillance hampers bird flu risk assessment",
+      "description": "The World Health Organization said its ability to assess and manage the risk posed by H5N1 avian influenza \u2014 bird flu \u2014 cases around the world is hampered by limited surveillance of animal and human cases of the disease.",
+      "url": "https://www.globalsecurity.org/security/library/news/2024/07/sec-240711-voa01.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-07-12 06:46:32",
+      "content": "By VOA News July 11, 2024 The World Health Organization said its ability to assess and manage the risk posed by H5N1 avian influenza \u00e2\u0080\u0094 bird flu \u00e2\u0080\u0094 cases around the world is hampered by limited su\u2026 [+2540 chars]",
+      "retrievedAt": "2024-07-13 07:06:12.922406",
+      "internal_id": "20c4e4b8b179aa2b19627c0c0e5e0b2108e9c064c7d80317f1ee1c4957a1f88d",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11020,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Thaipbsworld.com",
+      "author": "Marisa Chimprabha (World)",
+      "title": "Health officials on alert for possible spread of H5N1 bird flu",
+      "description": "Public health officials in provinces bordering Cambodia, Sa Kaeo in particular, have been placed on alert for the possible spread of bird flu, after the Cambodian Public Health Ministry reported seven cases of H5N1 in the country. Thai Public Health Permanent\u2026",
+      "url": "https://www.thaipbsworld.com/health-officials-on-alert-for-possible-spread-of-h5n1-bird-flu/",
+      "urlToImage": null,
+      "publishedAt": "2024-07-12 04:56:29",
+      "content": "Public health officials in provinces bordering Cambodia, Sa Kaeo in particular, have been placed on alert for the possible spread of bird flu, after the Cambodian Public Health Ministry reported seve\u2026 [+1346 chars]",
+      "retrievedAt": "2024-07-13 07:06:12.979699",
+      "internal_id": "dc004c1dc76da5f23d073ca0288593a533369a05749f55551077f3aac9c1683a",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11027,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Sophia Boddenberg",
+      "title": "Infektionskrankheit: WHO besorgt \u00fcber neue Mpox-Variante",
+      "description": "Eine neue Variante des Mpox-Virus zirkuliert in der Demokratischen Republik Kongo und k\u00f6nnte auch Europa erreichen. F\u00fcr Kinder sei die Krankheit lebensgef\u00e4hrlich.",
+      "url": "https://www.zeit.de/gesundheit/2024-07/who-besorgt-ueber-neue-mpox-variante",
+      "urlToImage": "https://img.zeit.de/gesundheit/2024-07/who-besorgt-ueber-neue-mpox-variante-bild/wide__1300x731",
+      "publishedAt": "2024-07-12 04:11:47",
+      "content": "Eine besorgniserregende neue Variante des Mpox-Virus kann nach Einsch\u00e4tzung der Weltgesundheitsorganisation (WHO) auch Europa erreichen. Sie zirkuliert zurzeit in der Demokratischen Republik Kongo. \"\u2026 [+2193 chars]",
+      "retrievedAt": "2024-07-13 07:06:15.071802",
+      "internal_id": "43b15471ba9d38e22e8a45a3eaad69eb6c392aded78c4203f21ceddb55ff1e0a",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11022,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Paris 2024 : Covid-19, infections sexuellement transmissibles, dengue... On vous explique pourquoi ces maladies sont surveill\u00e9es par les autorit\u00e9s",
+      "description": "Avec des millions de visiteurs attendus pendant les Jeux olympiques et paralympiques jusqu'\u00e0 d\u00e9but septembre, les autorit\u00e9s sanitaires scrutent de pr\u00e8s certaines maladies, comme le Covid-19 ou celles transmises par le moustique tigre.",
+      "url": "https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-covid-19-infections-sexuellement-transmissibles-dengue-on-vous-explique-pourquoi-ces-maladies-sont-surveillees-par-les-autorites_6657855.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/739e-NKwJhjb41RZqN3BGRXzNP4/1500x843/2024/07/10/050-only-0497465-668e52a7f071b875111802.jpg",
+      "publishedAt": "2024-07-12 04:04:06",
+      "content": "Un \u00e9v\u00e9nement plan\u00e9taire et des chiffres qui donnent le tournis. Du vendredi 26 juillet au dimanche 11 ao\u00fbt, puis du mercredi 28 ao\u00fbt au dimanche 8 septembre, les Jeux olympiques et paralympiques de P\u2026 [+7713 chars]",
+      "retrievedAt": "2024-07-13 07:06:13.605739",
+      "internal_id": "533a5dcf1a46e1567b88d8d60ea4045231f6e1bea6d2363f995c44e211d39f17",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11030,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "\u201eWir sind sehr besorgt\u201c: WHO warnt vor neuer Mpox-Variante",
+      "description": "Die WHO ist beunruhigt wegen der neuen Affenpocken-Variante Klade Ib. Sie zirkuliert im Kongo und k\u00f6nnte Europa erreichen.",
+      "url": "https://www.tagesspiegel.de/gesundheit/wir-sind-sehr-besorgt-who-warnt-vor-neuer-mpox-variante-12009311.html",
+      "urlToImage": "https://www.tagesspiegel.de/wissen/images/who-besorgt-uber-neue-variante-des-mpox-virus/alternates/BASE_16_9_W1400/who-besorgt-ueber-neue-variante-des-mpox-virus.jpeg",
+      "publishedAt": "2024-07-12 03:02:02",
+      "content": "Eine besorgniserregende neue Variante des Mpox-Virus kann nach Einsch\u00e4tzung der Weltgesundheitsorganisation (WHO) auch Europa erreichen. Sie zirkuliert zurzeit in der Demokratischen Republik Kongo. \u2026 [+2101 chars]",
+      "retrievedAt": "2024-07-13 07:06:15.096801",
+      "internal_id": "244f7d8ba5f66ab36e1537f579a805e3067c25ec6e6b671408aaf579e41bf151",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11031,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Neue Virusvariante: WHO besorgt \u00fcber neue Mpox-Variante",
+      "description": "Vor zwei Jahren meldeten mehr als 100 L\u00e4nder Ausbr\u00fcche der Infektionskrankheit Mpox (Affenpocken). Sie wurden unter Kontrolle gebracht. Jetzt kommen beunruhigende Nachrichten aus Afrika.",
+      "url": "https://www.tagesspiegel.de/wissen/neue-virusvariante-who-besorgt-uber-neue-mpox-variante-12009311.html",
+      "urlToImage": "https://www.tagesspiegel.de/wissen/images/who-besorgt-uber-neue-variante-des-mpox-virus/alternates/BASE_16_9_W1400/who-besorgt-ueber-neue-variante-des-mpox-virus.jpeg",
+      "publishedAt": "2024-07-12 03:02:02",
+      "content": "Eine besorgniserregende neue Variante des Mpox-Virus kann nach Einsch\u00e4tzung der Weltgesundheitsorganisation (WHO) auch Europa erreichen. Sie zirkuliert zurzeit in der Demokratischen Republik Kongo. D\u2026 [+1661 chars]",
+      "retrievedAt": "2024-07-13 07:06:15.101359",
+      "internal_id": "be2fe8a7f669df4b61902e11b3f598cc3b96f159cb8d4b1ad063f7ec9e999953",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11026,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Neue Virusvariante: WHO besorgt \u00fcber neue Mpox-Variante",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eNeue Virusvariante\u201c. Lesen Sie jetzt \u201eWHO besorgt \u00fcber neue Mpox-Variante\u201c.",
+      "url": "https://www.zeit.de/news/2024-07/12/who-besorgt-ueber-neue-mpox-variante",
+      "urlToImage": "https://img.zeit.de/news/2024-07/12/who-besorgt-ueber-neue-mpox-variante-image-group/wide__1300x731",
+      "publishedAt": "2024-07-12 03:00:39",
+      "content": "Eine besorgniserregende neue Variante des Mpox-Virus kann nach Einsch\u00e4tzung der Weltgesundheitsorganisation (WHO) auch Europa erreichen. Sie zirkuliert zurzeit in der Demokratischen Republik Kongo. \u00ab\u2026 [+2233 chars]",
+      "retrievedAt": "2024-07-13 07:06:15.066611",
+      "internal_id": "c1c74f1c9539827be0b491c53249cf240303b09835139f544987cc8b39392146",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11032,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Neue Virusvariante: WHO besorgt \u00fcber neue Mpox-Variante",
+      "description": "Vor zwei Jahren meldeten mehr als 100 L\u00e4nder Ausbr\u00fcche der Infektionskrankheit Mpox (Affenpocken). Sie wurden unter Kontrolle gebracht. Jetzt kommen beunruhigende Nachrichten aus Afrika.",
+      "url": "https://www.stern.de/panorama/wissen/neue-virusvariante--who-besorgt-ueber-neue-mpox-variante-34874876.html",
+      "urlToImage": "https://image.stern.de/34874878/t/Oe/v1/w1440/r1.7778/-/12--iiwwi65imkv12axw800h600jpeg---1e815768d3382fbd.jpg",
+      "publishedAt": "2024-07-12 03:00:39",
+      "content": "Vor zwei Jahren meldeten mehr als 100 L\u00e4nder Ausbr\u00fcche der Infektionskrankheit Mpox (Affenpocken). Sie wurden unter Kontrolle gebracht. Jetzt kommen beunruhigende Nachrichten aus Afrika. Eine besorg\u2026 [+1768 chars]",
+      "retrievedAt": "2024-07-13 07:06:15.105804",
+      "internal_id": "4679b9f200169b402aeec213bf25a72384d260228f27ce27c2978a70a0fbe803",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11017,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "YAP KUO",
+      "title": "\u7f8e\u570b\u653f\u5e9c\u8d85\u524d\u90e8\u7f72\u79bd\u6d41\u611f mRNA \u75ab\u82d7\uff0c\u88dc\u52a9\u83ab\u5fb7\u7d0d\u7814\u767c",
+      "description": "\u83ab\u5fb7\u7d0d\uff08Moderna\uff092 \u65e5\u5ba3\u5e03\uff0c\u7372 1.76 \u5104\u7f8e\u5143\u806f\u90a6\u8cc7\u91d1\uff0c\u958b\u767c\u79bd\u6d41\u611f mRNA \u75ab\u82d7\uff0c\u6709\u52a9\u5f37\u5316\u7f8e\u570b\u9762\u5c0d\u79bd\u6d41\u611f\u7684\u97cc\u6027\u3002\u885b\u751f\u5b98\u54e1\u548c\u50b3\u67d3\u75c5\u5c08\u5bb6\u64d4\u6182\uff0c\u5bb6\u79bd\u53ca\u725b\u96bb\u7267\u5834\u8086\u8650\u7684\u75c5\u6bd2\u682a\u5feb\u8981\u7a81\u8b8a\uff0c\u5c0d\u4eba\u985e\u9020\u6210\u5927\u898f\u6a21\u5f71\u97ff\u3002 \u79bd\u6d41\u611f H5N1 \u75c5\u6bd2\u5728\u5168\u7403\u91ce\u751f\u9ce5\u985e\u50b3\u64ad\u591a\u5e74\uff0c\u6700\u8fd1\u958b\u59cb\u611f\u67d3\u5176\u4ed6\u52d5\u7269\uff0c\u5982\u6d77\u6d0b\u91ce\u751f\u52d5\u7269\u548c\u7267\u5834\u4e73...",
+      "url": "https://finance.technews.tw/2024/07/12/government-taps-moderna-for-pandemic-mrna-shot-amid-mounting-h5n1-fears/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2016/10/27191218/shutterstock_137294837-e1477566751266.jpg",
+      "publishedAt": "2024-07-11 23:50:45",
+      "content": "Moderna2 1.76 mRNA H5N1 COVID-19 mRNA 2020 H5N1 BARDA mRNA Biomedical Advanced Research and Development AuthorityBARDA 2023 mRNA H5 H7 BARDA mRNA 5 Allucent 2,550 COVID-19 6 5.5 COVID-19\u2026 [+70 chars]",
+      "retrievedAt": "2024-07-13 07:06:12.895567",
+      "internal_id": "136534ade22ff4b051b77856da7b076a4aeed5107cf0a082daac0fa4f273394a",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11028,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mpox: OMS preocupada com nova estirpe da \u201cvar\u00edola dos macacos\u201d",
+      "description": "Foram detetados novos casos na \u00c1frica do Sul e no Congo, existindo \"o risco de o v\u00edrus atravessar fronteiras e continuar a circular\". Agora surgiu uma nova estirpe, mais mort\u00edfera do que a de 2022.",
+      "url": "https://observador.pt/2024/07/12/mpox-oms-preocupada-com-nova-estirpe-da-variola-dos-macacos/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1121%3Anowe%3A0%3A174%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F04%2F16115613%2F28644025.jpg",
+      "publishedAt": "2024-07-11 23:26:19",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) alertou esta quinta-feira para a amea\u00e7a que a var\u00edola dos macacos representa para a sa\u00fade mundial, devido ao surto epid\u00e9mico de uma nova estirpe do v\u00edrus, mais mo\u2026 [+2914 chars]",
+      "retrievedAt": "2024-07-13 07:06:15.080056",
+      "internal_id": "3afcae123d53619a98487566cdafdf5954567e1d2b9404448b6e5a51b1bc2018",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11021,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Dengue war room to be set up soon",
+      "description": "Stay informed about the rising cases of dengue in Karnataka and the government's efforts to combat the situation. Learn about the establishment of dengue war rooms and measures taken to control the spread of the virus. Stay updated on the latest developments!",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-outbreak-in-karnataka/articleshow/111671971.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-11 22:50:51",
+      "content": "How many kms should you ideally walk in the morning for good health?",
+      "retrievedAt": "2024-07-13 07:06:13.550025",
+      "internal_id": "9ac0971c4cd11704515a5f82c26e9f06e6f4c9f0c50a3af21fcdd133d0a9c24d",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11016,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Rockymountainvoice.com",
+      "author": "Heidi Ganahl",
+      "title": "Ganahl: Is Colorado Gov. Jared Polis's emergency declaration a public health measure or political maneuver for the White House?",
+      "description": "When Gov. Jared Polis declared a state of disaster in Colorado because of a surge in Highly Pathogenic Avian Influenza (HPAI), known commonly as bird flu, it ignited both a mix of public concern and political debate.",
+      "url": "https://rockymountainvoice.com/2024/07/ganahl-is-colorado-gov-jared-poliss-emergency-declaration-a-public-health-measure-or-political-maneuver-for-the-white-house/",
+      "urlToImage": "https://rockymountainvoice.com/wp-content/uploads/2024/07/King-Jared.jpg",
+      "publishedAt": "2024-07-11 21:48:39",
+      "content": "By HEIDI GANAHL | Commentary, Rocky Mountain Voice When Gov. Jared Polis declared a state of disaster in Colorado because of a surge in Highly Pathogenic Avian Influenza (HPAI), known commonly as bi\u2026 [+7764 chars]",
+      "retrievedAt": "2024-07-13 07:06:12.578361",
+      "internal_id": "f8d261b8b94924489db3cca15a39c64049ba9e3f1683dad6d1df8df0547c031a",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11019,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u03a0\u039f\u03a5: \u0397 Covid-19 \u03b5\u03be\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af \u03bd\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03b5\u03af 1.700 \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5\u03c2 \u03c4\u03b7\u03bd \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1",
+      "description": "\u0391\u03c0\u03cc \u03c4\u03b7\u03bd \u03ad\u03bd\u03b1\u03c1\u03be\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2, \u03b7 Covid-19 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc \u03b5\u03c0\u03c4\u03ac \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5\u03c2 \u03c3\u03b5 \u03cc\u03bb\u03bf\u03bd \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf | \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 | \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 | COVID-19 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1519019/pou-i-covid-19-exakolouthei-na-prokalei-1700-thanatous-tin-evdomada/",
+      "urlToImage": "https://i1.prth.gr/images/640x360share/files/2024-03-14/covid_test.jpg",
+      "publishedAt": "2024-07-11 21:33:18",
+      "content": "\"Even as we continue to study the spread of H5N1, we also continue to study #COVID19, which still kills an average of 1700 people globally every week. However, data show that vaccine coverage has de\u2026 [+136 chars]",
+      "retrievedAt": "2024-07-13 07:06:12.938037",
+      "internal_id": "d4726dc6d0cde6d808c1ace77a0e994e2de15595c6867ac801a1429234c6e108",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11025,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Givewell.org",
+      "author": "GiveWell Staff",
+      "title": "More than a Spoonful of Medicine",
+      "description": "What does it take to prevent malaria? Some of the programs GiveWell recommends might sound straightforward\u2014for example, seasonal malaria chemoprevention (SMC) programs provide antimalarial drugs to young children\u2014but the process of accomplishing this is not s\u2026",
+      "url": "https://blog.givewell.org/2024/07/11/more-than-a-spoonful-of-medicine/",
+      "urlToImage": "https://blog.givewell.org/wp-content/uploads/2024/07/UG-S3-74-1024x683-1.jpg",
+      "publishedAt": "2024-07-11 20:42:19",
+      "content": "What does it take to prevent malaria? Some of the programs GiveWell recommends might sound straightforwardfor example, seasonal malaria chemoprevention (SMC) programs provide antimalarial drugs to yo\u2026 [+9306 chars]",
+      "retrievedAt": "2024-07-13 07:06:14.307952",
+      "internal_id": "d917816a205007e9ce6fa0e334ce6e7c2671ca5664cf493fe3c5f77dd30dd106",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11036,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Insiderpaper.com",
+      "author": "Afp",
+      "title": "WHO warns mpox remains global health threat",
+      "description": "The WHO warned Thursday that mpox remains a global health threat, voicing particular concern at a swelling outbreak of a new deadlier strain of mpox in",
+      "url": "https://insiderpaper.com/who-warns-mpox-remains-global-health-threat/",
+      "urlToImage": "https://insiderpaper.com/wp-content/uploads/2023/02/mpox.jpg",
+      "publishedAt": "2024-07-11 20:06:58",
+      "content": "The WHO warned Thursday that mpox remains a global health threat, voicing particular concern at a swelling outbreak of a new deadlier strain of mpox in the Democratic Republic of Congo. The World He\u2026 [+2330 chars]",
+      "retrievedAt": "2024-07-13 07:06:15.135425",
+      "internal_id": "7ded2bbe3ef93ae434d728f461899022711f7a8850bfaf0cb03bbe4c870a9663",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11029,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Noxolo Sibiya",
+      "title": "News24 | Health department on high alert as Mpox cases rise to 22",
+      "description": "The health department is on high alert for a possible surge of Mpox, with two more laboratory-confirmed cases recorded in KwaZulu-Natal this week.",
+      "url": "https://www.news24.com/news24/southafrica/news/health-department-on-high-alert-as-mpox-cases-rise-to-22-20240711",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12005/52927e9345ee42a398d20300416fbd5e.jpg",
+      "publishedAt": "2024-07-11 20:05:51",
+      "content": "The health department is on high alert for a possible surge of Mpox.Two more laboratory-confirmed cases were recorded in KZN this week.Available scientific data suggests the\u2026 [+1830 chars]",
+      "retrievedAt": "2024-07-13 07:06:15.092112",
+      "internal_id": "a0ec856d0fac0ea1b90019295687f14e039427ce5eab32c6b4fbf0f432647905",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11015,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "PLOS Global Public Health",
+      "title": "Vaccine hesitancy-mediated Secondary Immunodeficiency",
+      "description": "By guest contributors Carlos E. Medina-De la Garza and Mar\u00eda de los \u00c1ngeles Castro-Corona Health conditions causing secondary immunodeficiency (SID) range from\u2026 The post Vaccine hesitancy-mediated Secondary Immunodeficiency appeared first on Speaking of Medic\u2026",
+      "url": "https://speakingofmedicine.plos.org/2024/07/11/vaccine-hesitancy-mediated-secondary-immunodeficiency/",
+      "urlToImage": "https://speakingofmedicine.plos.org/wp-content/uploads/sites/14/2022/08/syringes-5057119_1920.jpg",
+      "publishedAt": "2024-07-11 19:57:32",
+      "content": "By guest contributors Carlos E. Medina-De la Garza and Mar\u00eda de los \u00c1ngeles Castro-Corona Health conditions causing secondary immunodeficiency (SID) range from HIV infection and measles to malnutrit\u2026 [+3767 chars]",
+      "retrievedAt": "2024-07-13 07:06:12.416375",
+      "internal_id": "401059905e42b3d730c83732a190d58f701b157a5051e474504d50ad7acb9e48",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11034,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Belga Belga",
+      "title": "L'OMS pr\u00e9occup\u00e9e par une nouvelle souche de la \"variole du singe\"",
+      "description": "L'Organisation mondiale de la Sant\u00e9 (OMS) a mis en garde jeudi contre la menace pour la sant\u00e9 mondiale que repr\u00e9sente la \"variole du singe\", appel\u00e9e Mpox selon la nouvelle terminologie de l'OMS, exprimant son inqui\u00e9tude concernant une pouss\u00e9e \u00e9pid\u00e9mique d'une\u2026",
+      "url": "https://www.lavenir.net/fil-info/belgiqueetmonde/2024/07/11/loms-preoccupee-par-une-nouvelle-souche-de-la-variole-du-singe-KFTTVRIKDBHSFGRVKVQKBIHUMY/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/6QR2GXHI2BEFTCXSN2AQIQE2SI.jpg?auth=7e71427f88c76899f2474d3aba5b889fed2a80729b945482a9548c055b89d1fe&width=1200&height=630&quality=85&focal=1250%2C831&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2024-07-11 19:42:17",
+      "content": "Le Mpox, \"reste une menace pour la sant\u00e9 mondiale\", a d\u00e9clar\u00e9 le chef de l'OMS Tedros Adhanom Ghebreyesus lors d'une point de presse. L'Afrique du Sud a fait \u00e9tat r\u00e9cemment de 20 cas, dont trois mor\u2026 [+2048 chars]",
+      "retrievedAt": "2024-07-13 07:06:15.118951",
+      "internal_id": "81817a5a2ee5407fbe23533efa6028a8fa47a4722b3a088549f47e802377e058",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11033,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Belga Belga",
+      "title": "L'OMS s'inqui\u00e8te face \u00e0 \"une nouvelle menace pour la sant\u00e9 mondiale\"",
+      "description": "L'OMS a indiqu\u00e9 avoir re\u00e7u des signalements de cas de 26 pays au cours du mois \u00e9coul\u00e9. ...",
+      "url": "https://www.lalibre.be/planete/sante/2024/07/11/loms-sinquiete-face-a-une-nouvelle-menace-pour-la-sante-mondiale-CFRDJBEBPRBT7CLVGAV33IKOAY/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/6QR2GXHI2BEFTCXSN2AQIQE2SI.jpg?auth=7e71427f88c76899f2474d3aba5b889fed2a80729b945482a9548c055b89d1fe&width=1200&height=630&quality=85&focal=1250%2C831&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2024-07-11 19:10:55",
+      "content": "L'OMS a indiqu\u00e9 avoir re\u00e7u des signalements de cas de 26 pays au cours du mois \u00e9coul\u00e9. Le Mpox, \"reste une menace pour la sant\u00e9 mondiale\", a d\u00e9clar\u00e9 le chef de l'OMS Tedros Adhanom Ghebreyesus lors \u2026 [+2204 chars]",
+      "retrievedAt": "2024-07-13 07:06:15.110825",
+      "internal_id": "509fd3bc2315b492dc0bec4d4a947a8ca286dc853912912903f5652cc6d2e849",
+      "publishedAtLabel": "Jul 11"
+    },
     {
       "id": 11011,
       "query": [
@@ -130,6 +490,24 @@
       "publishedAtLabel": "Jul 11"
     },
     {
+      "id": 11024,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tv9gujarati.com",
+      "author": "Tv9 Gujarati",
+      "title": "Dengue: \u0ab5\u0ab0\u0ab8\u0abe\u0aa6\u0aa5\u0ac0 \u0ab5\u0aa7\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0acb \u0a9b\u0ac7 \u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1\u0aa8\u0acb \u0a96\u0aa4\u0ab0\u0acb, \u0aac\u0a9a\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0aae\u0abe\u0aa8\u0acb \u0aa1\u0acb\u0a95\u0acd\u0a9f\u0ab0\u0aa8\u0ac0 \u0a86 \u0ab8\u0ab2\u0abe\u0ab9",
+      "description": "\u0aa6\u0ac7\u0ab6\u0aa8\u0abe \u0a85\u0aa8\u0ac7\u0a95 \u0ab5\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0ab0\u0acb\u0aae\u0abe\u0a82 \u0aaa\u0ac2\u0ab0 \u0a86\u0ab5\u0acd\u0aaf\u0ac1\u0a82 \u0a9b\u0ac7. \u0aaa\u0abe\u0aa3\u0ac0 \u0ab8\u0acd\u0aa5\u0abf\u0ab0 \u0aa5\u0ab5\u0abe\u0aa8\u0ac7 \u0a95\u0abe\u0ab0\u0aa3\u0ac7 \u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1 \u0a9c\u0ac7\u0ab5\u0abe \u0ab0\u0acb\u0a97\u0acb\u0aa8\u0ac1\u0a82 \u0a9c\u0acb\u0a96\u0aae \u0aa8\u0acb\u0a82\u0aa7\u0aaa\u0abe\u0aa4\u0acd\u0ab0 \u0ab0\u0ac0\u0aa4\u0ac7 \u0ab5\u0aa7\u0ac0 \u0a9c\u0abe\u0aaf \u0a9b\u0ac7. \u0a86\u0ab5\u0ac0 \u0ab8\u0acd\u0aa5\u0abf\u0aa4\u0abf\u0aae\u0abe\u0a82 \u0aa4\u0ac7\u0aa8\u0ac0 \u0ab8\u0abe\u0aae\u0ac7 \u0ab0\u0a95\u0acd\u0ab7\u0aa3 \u0a95\u0ab0\u0ab5\u0ac1\u0a82 \u0a9c\u0ab0\u0ac2\u0ab0\u0ac0 \u0a9b\u0ac7. \u0ab2\u0acb\u0a95\u0acb \u0a98\u0aa3\u0ac0\u0ab5\u0abe\u0ab0 \u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1\u0aa8\u0abe \u0ab2\u0a95\u0acd\u0ab7\u0aa3\u0acb \u0ab5\u0abf\u0ab6\u0ac7 \u0aae\u0ac2\u0a82\u0a9d\u0ab5\u0aa3\u0aae\u0abe\u0a82 \u0ab0\u0ab9\u0ac7 \u0a9b\u0ac7. \u0a86 \u0aae\u0abe\u0a9f\u0ac7 \u0a85\u0aae\u0ac7 \u0aa8\u0abf\u0ab7\u0acd\u0aa3\u0abe\u0aa4\u0acb \u0ab8\u0abe\u0aa5\u0ac7 \u0ab5\u0abe\u0aa4 \u0a95\u0ab0\u0ac0 \u0a9b\u0ac7.",
+      "url": "https://tv9gujarati.com/health/danger-of-dengue-is-increasing-due-to-rain-know-if-you-want-to-avoid-it-follow-this-advice-of-doctors-1057127.html",
+      "urlToImage": "https://images.tv9gujarati.com/wp-content/uploads/2024/07/Danger-of-dengue-is-increasing-due-to-rain-know-if-you-want-to-avoid-it-follow-this-advice-of-doctors.jpg",
+      "publishedAt": "2024-07-11 16:14:13",
+      "content": ". . . , . . WHO , , 100-400 . , . . . DENV-1, 2, 3 DENV-4 . , . , 104 . , , . , . ? . , , , , , . IV . . . . . . . . , . : HIV , ?",
+      "retrievedAt": "2024-07-13 07:06:13.622700",
+      "internal_id": "0e7e4f6be40b1334b2f1a8fc103ba3eb6ac71227d093ba41516d866f8efd71cf",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
       "id": 11005,
       "query": [
         "dengue"
@@ -181,6 +559,24 @@
       "content": "In den USA bef\u00e4llt seit einem halben Jahr das einst auf V\u00f6gel beschr\u00e4nkte Influenza-Virus H5N1 eine Milchkuhfarm nach der anderen. Vier Hofmitarbeiter haben sich bislang angesteckt und leichte Sympto\u2026 [+1385 chars]",
       "retrievedAt": "2024-07-12 19:05:37.459633",
       "internal_id": "e352c0357f6565c30b36db9013ef52527bce321c13287838dd678cc17e16d675",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 11023,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "WABC-TV",
+      "author": null,
+      "title": "Dengue fever: Nearly 200 cases of mosquito virus reported in NY and NJ: CDC",
+      "description": "The disease is uncommon in the Tri-State area but is suddenly popping up by the dozen.",
+      "url": "https://abc7ny.com/post/dengue-fever-200-cases-mosquito-virus-reported-ny/15051344/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15051336_071124-wabc-dengue-fever-talkback-10am-vid.jpg?w=1600",
+      "publishedAt": "2024-07-11 15:01:36",
+      "content": "NEW YORK (WABC) -- Nearly 200 people have been infected with dengue in the states of New York and New Jersey so far this year, according to data from the Centers for Disease Control and Prevention. \u2026 [+2463 chars]",
+      "retrievedAt": "2024-07-13 07:06:13.617699",
+      "internal_id": "7b5ac05e96bb5689c681482de6d7016a0545b03d9ede40eaf02aa38d92cfdbd0",
       "publishedAtLabel": "Jul 11"
     },
     {
@@ -26427,6 +26823,150 @@
       "content": "At a time when chrysanthemum flower production for use in mosquito-repelling incense coils has all but ceased in Japan, the tradition has been picked up in Kenya where thousands of people are killed \u2026 [+4916 chars]",
       "retrievedAt": "2024-05-28 07:06:44.446200",
       "internal_id": "fb224978f9c7c9fec333a0c800974af30b5603518ec8906d67d3c2b01cd635fb",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9541,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Menno Sedee",
+      "title": "Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie",
+      "description": "Infectieziekte: Artsen sloegen in 2022 alarm, maar na enkele maanden was mpox (apenpokken) in Nederland vrijwel bestreden. Het virus ging vooral rond in een kleine groep mannen die onderling veel seks hadden.",
+      "url": "https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000",
+      "urlToImage": "https://images.nrc.nl/4VaOK7kC0WLGCVl56ZExvUemdwA=/1200x627/smart/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/images/gn4/data116001316-e4e098.png",
+      "publishedAt": "2024-05-26 18:16:55",
+      "content": "Waar is het apenpokkenvirus gebleven? Twee jaar geleden werden de eerste infecties in Nederland vastgesteld, en toen waren er nog grote zorgen. In enkele maanden liep het aantal meldingen op tot bove\u2026 [+4799 chars]",
+      "retrievedAt": "2024-05-27 19:05:56.413266",
+      "internal_id": "9cb1f7f2f17b96815c6b353351c4efb1c50017370a23975b3b253be6ac35d140",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9540,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Rep\u00fablica Centroafricana, primer pa\u00eds del mundo que recibe una nueva vacuna anti-malaria",
+      "description": "Unicef entreg\u00f3 m\u00e1s de 43.000 dosis por v\u00eda a\u00e9rea en la capital, Bangui, y m\u00e1s de 120.000 llegar\u00e1n en los pr\u00f3ximos d\u00edas.",
+      "url": "https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201606/_W933_80/569220.png",
+      "publishedAt": "2024-05-26 15:50:00",
+      "content": "La Rep\u00fablica Centroafricana (RCA) se ha convertido en el primer pa\u00eds del mundo en recibir una nueva vacuna contra la malaria, la R21/Matrix-M, aprobada por la Organizaci\u00f3n Mundial de la Salud (OMS\u2026 [+2210 chars]",
+      "retrievedAt": "2024-05-27 19:05:55.446048",
+      "internal_id": "d8e0fdc8f928a6b46633fe5eeb060298473960add5feb0ebc921495efdf9e97a",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9537,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeera.net",
+      "author": "\u062f. \u0623\u0633\u0627\u0645\u0629 \u0623\u0628\u0648 \u0627\u0644\u0631\u064f\u0651\u0628",
+      "title": "\u0634\u0631\u0628 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645.. \u0647\u0644 \u0647\u0648 \u0645\u0641\u064a\u062f\u061f",
+      "description": "\u0623\u0635\u0628\u062d \u062a\u0646\u0627\u0648\u0644 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645 -\u063a\u064a\u0631 \u0627\u0644\u0645\u0628\u0633\u062a\u0631- \u0623\u062d\u062f\u062b \u0635\u0631\u0639\u0629\u060c \u0648\u064a\u0634\u0639\u0631 \u0627\u0644\u062e\u0628\u0631\u0627\u0621 \u0628\u0627\u0644\u0642\u0644\u0642 \u0645\u0646 \u0623\u0646\u0647 \u0642\u062f \u064a\u0624\u062f\u064a \u0625\u0644\u0649 \u0627\u0646\u062a\u0634\u0627\u0631 \u0623\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631.",
+      "url": "https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2024/05/shutterstock_1988599271-1716727547.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-05-26 13:25:09",
+      "content": "- - . . . . . . . (H5N1) . (H5N1) . (H5N1). \" \" . . . - - \" \" . \" \" . : \" .. . \u00bb. (H5N1) . . \" \". . . . . . : \" \". . (FDA). \" \" . . : \" \". \" \". . . . \" \" . . ( \u2026 [+31 chars]",
+      "retrievedAt": "2024-05-27 19:05:54.191914",
+      "internal_id": "fedbe48b01bfbb915bee8ea6c4176b34d2493d2d2648fb2ffd6843560b8f15df",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9535,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet Daily News",
+      "author": "hurriyetdailynews.com",
+      "title": "Stray dog bill favors adoption first, AKP says amid backlash",
+      "description": "A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a risk of rabies.",
+      "url": "https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6653228f6070c51f7ddeb833.jpg",
+      "publishedAt": "2024-05-26 11:52:53",
+      "content": "ANKARA A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a ris\u2026 [+1301 chars]",
+      "retrievedAt": "2024-05-27 19:05:53.196458",
+      "internal_id": "e3f16ed86ed58c1d927a1aa35c817a7d7ca4023f43a192a8441cb2f45f292d48",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9536,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Digiato.com",
+      "author": "\u0631\u0636\u0627 \u0632\u0627\u0631\u0639\u200c\u067e\u0648\u0631",
+      "title": "\u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1",
+      "description": "\u0628\u0627 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627 \u0627\u0632 \u0634\u06cc\u0648\u0639 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0627\u0641\u0632\u0627\u06cc\u0634 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0622\u06cc\u0627 \u0628\u0627\u06cc\u062f \u0646\u06af\u0631\u0627\u0646 \u0628\u0648\u062f\u061f The post \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1 appeared first on \u062f\u06cc\u062c\u06cc\u0627\u062a\u0648.",
+      "url": "https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus",
+      "urlToImage": "https://static.digiato.com/digiato/2024/05/image-38.jpg.webp",
+      "publishedAt": "2024-05-26 11:45:00",
+      "content": "H5N1 . . H5N1 . . . H5N1 . . H5N1 . (CDC) . . H5N1 . . H5N1 . . . CDC . . . . . . CDC . H5N1 . CDC . . H5N1 . H5N1 . . . CDC . CDC . . . . H5N1 . . CDC :",
+      "retrievedAt": "2024-05-27 19:05:54.141051",
+      "internal_id": "c6625a1639808f13ea9f00ea277c7410ada2241e4c9a8ad333fc54381a1a6034",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9552,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.com.ua",
+      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430. \u0416\u0438\u0442\u0442\u044f",
+      "title": "\u0412\u0456\u0440\u0443\u0441 \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443 \u0432\u043f\u0435\u0440\u0448\u0435 \u0432\u0438\u044f\u0432\u0438\u043b\u0438 \u0432 \u044f\u043b\u043e\u0432\u0438\u0447\u0438\u043d\u0456",
+      "description": "",
+      "url": "https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/",
+      "urlToImage": "https://imglife.pravda.com.ua/life/images/doc/3/4/62370/3457395d88ebdd2bebd86486e6aec0e2.jpeg?w=1920&q=90",
+      "publishedAt": "2024-05-26 11:30:00",
+      "content": ". . , , , , ,The New York Times. , , . H5N1 . (, ) . , , 58 ' . \", , \", , Consumer Reports. , . \" , \". , , , - , . . , , , , . \" ' \", . , , , . \" , H5N1 , \", , -. , , , .",
+      "retrievedAt": "2024-05-28 07:06:42.690970",
+      "internal_id": "050e922e59cca24332929e52e0d896c1c66dedf1be888ac65889fc23fcbfc9c1",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9538,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Could Bird Flu Lead To Next Pandemic?",
+      "description": "The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for what could lead to the next pandemic?",
+      "url": "https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982",
+      "urlToImage": "https://c.ndtvimg.com/2021-01/uitchfl8_bird-flu_625x300_08_January_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240506.08",
+      "publishedAt": "2024-05-26 08:59:47",
+      "content": "The detection of a case of the widespread H5N1 strain of bird flu in Australia is a cause for concern. The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for \u2026 [+7090 chars]",
+      "retrievedAt": "2024-05-27 19:05:54.205770",
+      "internal_id": "7cae26cbea7db0ac35f1b696cf61930c1110f1c2256392aefa4ff459d69d6847",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 9539,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Se quintuplican casos de dengue en un a\u00f1o, alerta Ssa",
+      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos de dengue, de los cuales 6 mil 629 corresponden a dengue con signos de alarma y grave, y 6 mil 769 a no grave. Cifr\u2026",
+      "url": "https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-05-26 07:37:44",
+      "content": "Peri\u00f3dico La JornadaDomingo 26 de mayo de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos \u2026 [+2222 chars]",
+      "retrievedAt": "2024-05-27 19:05:54.826023",
+      "internal_id": "2bf6a34b7cacad447068eb6fe25f3484685a03ef22f0400636ed9ba6f1a596a0",
       "publishedAtLabel": "May 26"
     }
   ]
