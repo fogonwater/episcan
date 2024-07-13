@@ -1,8 +1,388 @@
 {
-  "last_updated": "2024-07-13 07:06",
-  "count_articles_total": 1493,
-  "count_articles_new": 22,
+  "last_updated": "2024-07-13 19:05",
+  "count_articles_total": 1506,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 11048,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "S\u00e3o Paulo recebe 124 mil novas doses da vacina da dengue; veja quem pode tomar",
+      "description": "Imunizantes s\u00e3o destinados para segunda aplica\u00e7\u00e3o em pessoas que j\u00e1 receberam a primeira; crian\u00e7as de 10 a 14 anos que ainda n\u00e3o tomaram a primeira dose precisar\u00e3o aguardar novas remessas",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/sao-paulo-recebe-124-mil-novas-doses-da-vacina-da-dengue-veja-quem-pode-tomar,4de289d978bba662368846239e20ad9a8jno0ezi.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/07/12/598680498-vgggob62cbbrhamck7lxxnarqm.jpg",
+      "publishedAt": "2024-07-12 18:26:34",
+      "content": "A partir deste s\u00e1bado, 13, quem j\u00e1 tomou a primeira dose da vacina contra dengue na cidade de S\u00e3o Paulo poder\u00e1 completar o esquema vacinal. A Secretaria Municipal da Sa\u00fade (SMS) da capital recebeu 12\u2026 [+1831 chars]",
+      "retrievedAt": "2024-07-13 19:05:47.325110",
+      "internal_id": "ab1347c228868584061fd99e778b4059b9fa4280ca436b40c1c9820465274b73",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11049,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "AFP",
+      "title": "Brote de dengue en Centroam\u00e9rica: M\u00e1s de 100 muertos reportados",
+      "description": "Guatemala registra 50 muertes y m\u00e1s de 43,000 casos. La OMS advierte que el dengue se est\u00e1 expandiendo m\u00e1s all\u00e1 de sus zonas habituales.",
+      "url": "https://www.nacion.com/el-mundo/centroamerica/brote-de-dengue-en-centroamerica-mas-de-100/KIFDYBZPKBHMPKD4JSAEG32B3U/story/",
+      "urlToImage": "https://www.nacion.com/resizer/XqUFisK6fsHgIMNp5x14BSd482c=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/DIQGYZ4B7VFINL72JUC54BH6Z4.jpg",
+      "publishedAt": "2024-07-12 17:41:09",
+      "content": "Ciudad de Guatemala. Un brote de dengue en Centroam\u00e9rica cobr\u00f3 la vida de aproximadamente un centenar de personas este a\u00f1o, siendo Guatemala el pa\u00eds m\u00e1s afectado con la mitad de los fallecimientos, s\u2026 [+1525 chars]",
+      "retrievedAt": "2024-07-13 19:05:47.345041",
+      "internal_id": "055f2c7f4a782957a2e25ccf9aa8e17bc6c2f906739eef0f016859683168e1f4",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11043,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Capital paulista recebe 124 mil novas doses da vacina da dengue; veja quem pode tomar",
+      "description": "Imunizantes s\u00e3o destinados para segunda aplica\u00e7\u00e3o em pessoas que j\u00e1 receberam a primeira; crian\u00e7as de 10 a 14 anos que ainda n\u00e3o tomaram a primeira dose precisar\u00e3o aguardar novas remessas",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/capital-paulista-recebe-124-mil-novas-doses-da-vacina-da-dengue-veja-quem-pode-tomar,4de289d978bba662368846239e20ad9a8jno0ezi.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/07/12/598680498-vgggob62cbbrhamck7lxxnarqm.jpg",
+      "publishedAt": "2024-07-12 17:28:09",
+      "content": "A partir deste s\u00e1bado, 13, quem j\u00e1 tomou a primeira dose da vacina contra dengue na cidade de S\u00e3o Paulo poder\u00e1 completar o esquema vacinal. A Secretaria Municipal da Sa\u00fade (SMS) da capital recebeu 12\u2026 [+1742 chars]",
+      "retrievedAt": "2024-07-13 19:05:47.202606",
+      "internal_id": "a8806579c8ad8dabad8a40414f9cffaebe8ed38e5fae374bd8668293066090e4",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11038,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Kayla Clarke",
+      "title": "New case of measles confirmed in Metro Detroit: View list of exposure sites",
+      "description": "New case of measles confirmed in Metro Detroit: View list of exposure sitesclickondetroit.com",
+      "url": "https://www.clickondetroit.com/health/2024/07/12/new-case-of-measles-confirmed-in-metro-detroit-view-list-of-exposure-sites/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/353X74D4FRE3VM725VMXJ2EM24.jpg?_a=DATAdtfiZAA0",
+      "publishedAt": "2024-07-12 16:51:48",
+      "content": "MACOMB COUNTY, Mich. A child in Macomb County has tested positive for measles. This is Michigans sixth case of measles in 2024. The alert was released Friday and comes from MDHHS and the Macomb Coun\u2026 [+4307 chars]",
+      "retrievedAt": "2024-07-13 19:05:46.017638",
+      "internal_id": "79ae432ccade1224aab6c5522eaf7e9967714e0f5a62d2206354f1f30cc7c4fa",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11039,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 2 Detroit",
+      "author": "Fox 2 Detroit",
+      "title": "2 possible measles exposure locations shared after virus confirmed in Macomb County child",
+      "description": "2 possible measles exposure locations shared after virus confirmed in Macomb County childfox2detroit.com",
+      "url": "https://www.fox2detroit.com/news/2-possible-exposure-locations-shared-after-measles-confirmed-macomb-county-child",
+      "urlToImage": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2019/10/1280/720/Measles20germs20pic_1546020282274.png_6564173_ver1.0_640_360.jpg?ve=1&tl=1",
+      "publishedAt": "2024-07-12 14:56:27",
+      "content": "MACOMB COUNTY, Mich. (FOX 2) - The sixth case of measles in Michigan has been confirmed this year, this time in a Macomb County child. The child, who has no history of international travel, was diag\u2026 [+1944 chars]",
+      "retrievedAt": "2024-07-13 19:05:46.022853",
+      "internal_id": "4f4d82d0ac9eaa9a7cb13788cc3e95624bb7d90ea234bafab109e0fbee6b1627",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11057,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Two men, in flood-ravaged Lakhimpur Kheri, walk home with their sister's body",
+      "description": "Two brothers were forced to carry their deceased 17-year-old sister through flooded fields after being unable to find a vehicle due to road closures caused by floods. The girl, suffering from typhoid fever, passed away as they struggled to transport her for m\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/two-men-in-flood-ravaged-lakhimpur-kheri-walk-home-with-their-sisters-body/articleshow/111694105.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111694104,width-1200,height-630,imgsize-178652,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-12 14:38:43",
+      "content": "Two guys were forced to drag their dead sister's body through flooded fields on their shoulders since they were unable to locate a vehicle to bring the 17-year-old's body to their village.Shivani who\u2026 [+1308 chars]",
+      "retrievedAt": "2024-07-13 19:05:49.133349",
+      "internal_id": "ff46b4fdeb37f5cb8da48c4cbb1e5dc0d054865c328361e27f0fd3a2f5da4c75",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11040,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Alice Park",
+      "title": "Bird Flu May Be Getting Better at Infecting Mammals",
+      "description": "Does that mean it will soon spread more easily among people? There\u2019s reason for concern, say experts.",
+      "url": "https://time.com/6997774/can-bird-flu-infect-people/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/07/GettyImages-1450374430.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-07-12 14:34:29",
+      "content": "H5N1, known as bird flu, is becoming an increasing problem in the U.S. The virus normally only infects poultry and wild birds, but it's becoming more adept at infecting mammals; so far, it's infected\u2026 [+3077 chars]",
+      "retrievedAt": "2024-07-13 19:05:46.807826",
+      "internal_id": "24ffecdb542595e538a4c4b64042297a0874efd6fa2981137af6bb36b1d2dd46",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11041,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "FUNKE Mediengruppe",
+      "title": "Vogelgrippe: Das sind die Symptome beim Menschen",
+      "description": "Seit Monaten kursiert das Vogelgrippe-Virus H5N1 bei K\u00fchen in den USA. Auch Menschen haben sich schon angesteckt. Was waren Symptome?",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article406782837/vogelgrippe-das-sind-die-symptome-beim-menschen.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406782317/406782317_1720794338_v16_9_1600.jpeg",
+      "publishedAt": "2024-07-12 14:25:38",
+      "content": "Berlin. Seit Monaten kursiert das Vogelgrippe-Virus H5N1 bei K\u00fchen in den USA. Auch Menschen haben sich schon angesteckt. Was waren Symptome? Aktuell breitet sich das Vogelgrippe-Virus (H5N1) in US-\u2026 [+3427 chars]",
+      "retrievedAt": "2024-07-13 19:05:46.850897",
+      "internal_id": "c3ede9802281855cadc3853b9177db2da9193b6d6139ba1911484454eb5e42c3",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11050,
+      "query": [
+        "dengue",
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": null,
+      "title": "Alertan de aumento de enfermedades ante cierre de pasos migratorios en el Dari\u00e9n",
+      "description": "Bogot\u00e1, 12 jul (EFE).- Enfermedades end\u00e9micas como la s\u00edfilis cong\u00e9nita, chikungu\u00f1a, dengue y leptospirosis podr\u00edan aumentar en Colombia por el cierre, por parte de las autoridades paname\u00f1as, de pasos migratorios en la peligrosa selva del Dari\u00e9n, por donde pa\u2026",
+      "url": "https://www.eldiario.es/desalambre/alertan-aumento-enfermedades-cierre-pasos-migratorios-darien_1_11520428.html",
+      "urlToImage": "https://static.eldiario.es/clip/10553dfa-2b97-4ddc-b86c-9260c2c7a21c_facebook-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-07-12 13:53:00",
+      "content": "Bogot\u00e1, 12 jul (EFE).- Enfermedades end\u00e9micas como la s\u00edfilis cong\u00e9nita, chikungu\u00f1a, dengue y leptospirosis podr\u00edan aumentar en Colombia por el cierre, por parte de las autoridades paname\u00f1as, de paso\u2026 [+3823 chars]",
+      "retrievedAt": "2024-07-13 19:05:47.350896",
+      "internal_id": "c3580a90c804a35afb48db93d7a18b6ea19b173b970ec0eed9696b0eda13d278",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11042,
+      "query": [
+        "h5n1",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Covid ainda mata 1,7 mil pessoas no mundo todas as semanas, diz OMS",
+      "description": "Diretor-geral da OMS faz alerta sobre a import\u00e2ncia da vacina\u00e7\u00e3o dos grupos priorit\u00e1rios e da vigil\u00e2ncia da Covid e dos v\u00edrus mpox e H5N1",
+      "url": "https://www.metropoles.com/saude/covid-mata-1700-toda-semana-oms",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2021/05/24114554/Design-sem-nome-8-11.jpg",
+      "publishedAt": "2024-07-12 13:34:40",
+      "content": "A Covid-19 ainda mata uma m\u00e9dia de 1,7 mil pessoas no mundo todo a cada semana, afirmou o diretor-geral da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS), Tedros Adhanom Ghebreyesus, nessa quinta-feira (11/7). \u2026 [+4665 chars]",
+      "retrievedAt": "2024-07-13 19:05:46.884021",
+      "internal_id": "d164a2a3ce8087d5e0a540a24af7d71a85618d359fc394fb96e3774046b9f821",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11052,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Sophie Berdugo",
+      "title": "Denisovan DNA may help modern humans adapt to different environments",
+      "description": "Highland and lowland populations in Papua New Guinea have different gene variants derived from Denisovan archaic humans, indicating possible adaptations for lower oxygen levels and higher malaria risk",
+      "url": "https://www.newscientist.com/article/2438941-denisovan-dna-may-help-modern-humans-adapt-to-different-environments/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/07/09171204/SEI_212035652.jpg",
+      "publishedAt": "2024-07-12 12:00:37",
+      "content": "Those living in Papua New Guinea\u2019s highlands may benefit from having Denisovan DNA Michael Runkel/Danita Delimont/Getty Images/Gallo Images ROOTS People living in the highlands and lowlands of Papu\u2026 [+405 chars]",
+      "retrievedAt": "2024-07-13 19:05:47.911477",
+      "internal_id": "4f84ea3c62763ca5b752c76757610c7ace6562cba11cf2504813632efaf9351f",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11047,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Let\u00edcia Perdig\u00e3o",
+      "title": "Bailarina de banda baiana morre com suspeita de dengue hemorr\u00e1gica",
+      "description": "A bailarina fazia parte da equipe do cantor Sinho Ferrary faleceu ap\u00f3s ser internada em um hospital em Itabuna (BA)",
+      "url": "https://www.metropoles.com/celebridades/bailarina-de-banda-baiana-morre-com-suspeita-de-dengue-hemorragica",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/07/12085330/Banda-bailarina-bahia.jpg",
+      "publishedAt": "2024-07-12 11:55:22",
+      "content": "Uma bailarina que fazia parte da equipe do cantor Sinho Ferrary faleceu ap\u00f3s ser internada no Hospital de Base, localizado em Itabuna, no sul da Bahia, com intensas dores corporais e problemas respir\u2026 [+883 chars]",
+      "retrievedAt": "2024-07-13 19:05:47.271662",
+      "internal_id": "5f86d5106b58591b627aac04ac8cd091248d72a2b320cea899b4c3a8f3e27587",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11037,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "Rabies could become a disease of the past. Here's what it would take",
+      "description": "The Americas has made extraordinary progress, mainly by vaccinating canines. Asia and Africa \u2014- where 95% of rabies cases happen \u2014- have two obstacles to progress.",
+      "url": "https://www.npr.org/2024/07/12/nx-s1-5028577/rabies-dogs-vaccine-americas-africa-asia",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F63%2F45b8d18d4fe58241f6c288221b60%2Frabies.jpg",
+      "publishedAt": "2024-07-12 11:17:35",
+      "content": "A few years ago, as a first year doctor in the Philippines, Ricky Dann Marquez had to pin a teenage patients hands to the hospital bed. It was terrible. It was terrible, he says. The worry was that\u2026 [+5331 chars]",
+      "retrievedAt": "2024-07-13 19:05:45.611526",
+      "internal_id": "2eb60285dab4c3d94ea891c24c9238aa61911c5a5eb4dc1f4d16318e95dada0a",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11045,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Scrap vehicles at CHC stoke dengue fears",
+      "description": "Addressing the Gaondongrim dengue outbreak, the Canacona CHC's scrapyard-like compound with abandoned vehicles from the Canacona office complex is now a mosquito breeding site. Resident Natividade D'Sa expressed dismay. Before the monsoon, the Canacona Munici\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/goa/scrap-vehicles-at-chc-stoke-dengue-fears/articleshow/111686805.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111686835,width-1070,height-580,imgsize-91264,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-12 10:16:04",
+      "content": "Birds with peacock-like dance moves",
+      "retrievedAt": "2024-07-13 19:05:47.238918",
+      "internal_id": "4f318416371e6f4de426d091153cd414e3b221f11490761221f51261e8fd5c32",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11051,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases up with five deaths in epidemiological week 27, says Health DG",
+      "description": "PUTRAJAYA: Dengue fever cases rose to 2,805 in the 27th epidemiological week (EW27) from June 30 to July 6, compared to 2,788 cases the previous week, with five deaths due to complications. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/07/12/dengue-cases-up-with-five-deaths-in-epidemiological-week-27-says-health-dg",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/07/12/2797939.jpg",
+      "publishedAt": "2024-07-12 10:04:00",
+      "content": "PUTRAJAYA: Dengue fever cases rose to 2,805 in the 27th epidemiological week (EW27) from June 30 to July 6, compared to 2,788 cases the previous week, with five deaths due to complications. Health d\u2026 [+897 chars]",
+      "retrievedAt": "2024-07-13 19:05:47.359668",
+      "internal_id": "9850fa057d4ac319e1393ba39fab4549e827779b861fbdc901a02595487fb926",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11046,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Rise in dengue cases in the city: Expert shares preventive measures",
+      "description": "India faces a dengue surge during the monsoon due to urbanization, lifestyle changes, and population density. High temperatures and poor waste management elevate mosquito breeding. Symptoms include high fever and headaches. Dr. Malla Devi Vinaya advises using\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/rise-in-dengue-cases-in-the-city-expert-shares-preventive-measures/articleshow/111685808.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111685782,width-1070,height-580,imgsize-419791,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-12 09:43:54",
+      "content": "Mark Zuckerberg, Rihanna, Bill Gates: International icons who attended Anant-Radhika's wedding celebrations",
+      "retrievedAt": "2024-07-13 19:05:47.252079",
+      "internal_id": "73fc9588d0e281462509af4c1d99d944162477bd396936d36520c7303f8f45a7",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11054,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Leonhard Rosenauer",
+      "title": "WHO warnt: Neue Mpox-Variante k\u00f6nnte Europa erreichen",
+      "description": "Ein Ausbruch neuer Affenpocken oder Mpox-Viren kostet im Kongo bereits Menschenleben \u2013 die Variante verbreitet sich diesmal schneller.",
+      "url": "https://www.morgenpost.de/panorama/article406708061/affenpocken-mpox-europa-who-kongo-virus-variante.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406782608/406782608_1720776061_v16_9_1600.jpeg",
+      "publishedAt": "2024-07-12 09:20:00",
+      "content": "Berlin. Ein Ausbruch neuer Affenpocken oder Mpox-Viren kostet im Kongo bereits Menschenleben die Variante verbreitet sich diesmal schneller. Eine neue Mpox-Variante breitet sich aus<li\u2026 [+3406 chars]",
+      "retrievedAt": "2024-07-13 19:05:48.701619",
+      "internal_id": "841b9c75599e9ba0bb28373090e979e7626ff152c7f2cdbbcedb51b8848f423d",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11053,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Shannon McDonagh",
+      "title": "Scientists Surprised by Virus Discovery in Brazil's Amazon",
+      "description": "Deforestation for farmland, illegal mining, and logging has boosted the spread of viruses of all kinds in the Amazon rainforest.",
+      "url": "https://www.newsweek.com/mosquito-virus-discovery-infections-amazon-rainforest-brazil-1924155",
+      "urlToImage": "https://d.newsweek.com/en/full/2426865/multiple-mosquitos-ready-release.jpg",
+      "publishedAt": "2024-07-12 09:07:59",
+      "content": "Researchers in Brazil have discovered that both Mayaro and chikungunya viruses are unexpectedly circulating in the Amazon rainforest at the same time. This discovery overturns the belief that antibo\u2026 [+4844 chars]",
+      "retrievedAt": "2024-07-13 19:05:48.455990",
+      "internal_id": "13a91f2f67bdbb7d2b844fab272c308bf0d94d0ee24bbb0dbe94847467195ad2",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11044,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dagospia.com",
+      "author": null,
+      "title": "ZANZARA, M\u2019HAI PROVOCATO? IO TE DISTRUGGO! \u2013 A LOS ANGELES HANNO MESSO A PUNTO UN PIANO PER STERMINARE I FASTIDIOSI INSETTI: VERRANNO RILASCIATI NELL\u2019AMBIENTE DEGLI ESEMPLARI MASCHI STERILI COS\u00cc CHE POSSANO SODDISFARE LE FEMMINE, MA SENZA RIPRODURSI - L'OBIETTIVO DA ANNIENTARE \u00c8 UNA SPECIE PARTICOLARE, LA \u201cAEDES AEGYPTI\u201d, CHE \u00c8 IL PRINCIPALE VETTORE DI FEBBRE GIALLA E DENGUE\u2026",
+      "description": "Estratto dell'articolo di Cristina Kiran Piotti per \u201cD - La Repubblica\u201d zanzara killer febbre gialla A Los Angeles, per dichiarare guerra alle zanzare, si \u00e8 aggiunta un'ultima arma all'arsenale degli esperti: altre zanzare. Il distretto della contea di Los \u2026",
+      "url": "https://www.dagospia.com/rubrica-29/cronache/zanzara-rsquo-hai-provocato-io-te-distruggo-ndash-los-angeles-hanno-401530.htm",
+      "urlToImage": "https://cdn-static.dagospia.com/img/patch/10-2021/zanzara-coreana-1544499.jpeg",
+      "publishedAt": "2024-07-12 08:42:00",
+      "content": "Estratto dell'articolo di Cristina Kiran Piotti per \u201cD - La Repubblica\u201d zanzara killer febbre gialla A Los Angeles, per dichiarare guerra alle zanzare, si \u00e8 aggiunta un'ultima arma all'arsenale deg\u2026 [+1000 chars]",
+      "retrievedAt": "2024-07-13 19:05:47.226389",
+      "internal_id": "c53e5408ef62784fe495518519e1585abd0913355cfb324e0e9ccc7fb5052729",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11055,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Gef\u00e4hrliche Mpox-Variante breitet sich aus",
+      "description": "Vor zwei Jahren haben mehr als 100 L\u00e4nder Ausbr\u00fcche der Infektionskrankheit Mpox gemeldet. Die Welle der einst Affenpocken genannten Krankheit verlief letztlich glimpflich. Jetzt kursiert eine neue Variante, \u00fcber die sich die Weltgesundheitsorganisation WHO b\u2026",
+      "url": "https://science.orf.at/stories/3225861/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Ftube%2Fscience%2Fimages%2Fog-fallback.jpg%3Fs%3D9468ebfda8d575e29237d4fe069891178635d8e1",
+      "publishedAt": "2024-07-12 08:26:49",
+      "content": "Es ist ohne Zweifel die gef\u00e4hrlichste der bekannten Mpox-Varianten, sagte John Claude Udahemuka, Dozent an der Universit\u00e4t Ruanda, k\u00fcrzlich bei einer Informationsveranstaltung. Die Variante Ib (1 b, \u2026 [+3604 chars]",
+      "retrievedAt": "2024-07-13 19:05:48.732864",
+      "internal_id": "60d0b6b97272055436b003d14bd0045e04569c5e43991d5dbc99706238552b44",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 11056,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Pusteln am ganzen K\u00f6rper: WHO: Neue Mpox-Variante k\u00f6nnte Europa erreichen",
+      "description": "Die Weltgesundheitsorganisation zeigt sich angesichts der Ausbreitung der neuen Mpox-Variante beunruhigt. Eine Ansteckung mit dem Virus, das gerade im Kongo grassiert, verursacht nicht nur schlimmere Symptome als sein Vorg\u00e4nger. Es k\u00f6nnte auch Europa erreiche\u2026",
+      "url": "https://www.n-tv.de/wissen/Ubertragung-auch-bei-normalem-Kontakt-WHO-warnt-vor-weiterer-Ausbreitung-der-neuen-Mpox-Variante-article25082461.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25082450/6661326770-cImg_16_9-w1200/386312804.jpg",
+      "publishedAt": "2024-07-12 07:53:08",
+      "content": "Die Weltgesundheitsorganisation zeigt sich angesichts der Ausbreitung der neuen Mpox-Variante beunruhigt. Eine Ansteckung mit dem Virus, das gerade im Kongo grassiert, verursacht nicht nur schlimmere\u2026 [+1840 chars]",
+      "retrievedAt": "2024-07-13 19:05:48.757851",
+      "internal_id": "85f56b3e37eec756dbb709b3fd74d800aec625dae6c50f068112a0a578ff7693",
+      "publishedAtLabel": "Jul 12"
+    },
     {
       "id": 11035,
       "query": [
@@ -26823,150 +27203,6 @@
       "content": "At a time when chrysanthemum flower production for use in mosquito-repelling incense coils has all but ceased in Japan, the tradition has been picked up in Kenya where thousands of people are killed \u2026 [+4916 chars]",
       "retrievedAt": "2024-05-28 07:06:44.446200",
       "internal_id": "fb224978f9c7c9fec333a0c800974af30b5603518ec8906d67d3c2b01cd635fb",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9541,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Www.nrc.nl",
-      "author": "Menno Sedee",
-      "title": "Het apenpokkenvirus werd geen epidemie door veiliger seks en vaccinatie",
-      "description": "Infectieziekte: Artsen sloegen in 2022 alarm, maar na enkele maanden was mpox (apenpokken) in Nederland vrijwel bestreden. Het virus ging vooral rond in een kleine groep mannen die onderling veel seks hadden.",
-      "url": "https://www.nrc.nl/nieuws/2024/05/26/het-apenpokkenvirus-werd-geen-epidemie-door-veiliger-seks-en-vaccinatie-a4200000",
-      "urlToImage": "https://images.nrc.nl/4VaOK7kC0WLGCVl56ZExvUemdwA=/1200x627/smart/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/images/gn4/data116001316-e4e098.png",
-      "publishedAt": "2024-05-26 18:16:55",
-      "content": "Waar is het apenpokkenvirus gebleven? Twee jaar geleden werden de eerste infecties in Nederland vastgesteld, en toen waren er nog grote zorgen. In enkele maanden liep het aantal meldingen op tot bove\u2026 [+4799 chars]",
-      "retrievedAt": "2024-05-27 19:05:56.413266",
-      "internal_id": "9cb1f7f2f17b96815c6b353351c4efb1c50017370a23975b3b253be6ac35d140",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9540,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Rep\u00fablica Centroafricana, primer pa\u00eds del mundo que recibe una nueva vacuna anti-malaria",
-      "description": "Unicef entreg\u00f3 m\u00e1s de 43.000 dosis por v\u00eda a\u00e9rea en la capital, Bangui, y m\u00e1s de 120.000 llegar\u00e1n en los pr\u00f3ximos d\u00edas.",
-      "url": "https://www.montevideo.com.uy/Salud/Republica-Centroafricana-primer-pais-del-mundo-que-recibe-una-nueva-vacuna-anti-malaria-uc889433",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201606/_W933_80/569220.png",
-      "publishedAt": "2024-05-26 15:50:00",
-      "content": "La Rep\u00fablica Centroafricana (RCA) se ha convertido en el primer pa\u00eds del mundo en recibir una nueva vacuna contra la malaria, la R21/Matrix-M, aprobada por la Organizaci\u00f3n Mundial de la Salud (OMS\u2026 [+2210 chars]",
-      "retrievedAt": "2024-05-27 19:05:55.446048",
-      "internal_id": "d8e0fdc8f928a6b46633fe5eeb060298473960add5feb0ebc921495efdf9e97a",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9537,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Aljazeera.net",
-      "author": "\u062f. \u0623\u0633\u0627\u0645\u0629 \u0623\u0628\u0648 \u0627\u0644\u0631\u064f\u0651\u0628",
-      "title": "\u0634\u0631\u0628 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645.. \u0647\u0644 \u0647\u0648 \u0645\u0641\u064a\u062f\u061f",
-      "description": "\u0623\u0635\u0628\u062d \u062a\u0646\u0627\u0648\u0644 \u0627\u0644\u062d\u0644\u064a\u0628 \u0627\u0644\u062e\u0627\u0645 -\u063a\u064a\u0631 \u0627\u0644\u0645\u0628\u0633\u062a\u0631- \u0623\u062d\u062f\u062b \u0635\u0631\u0639\u0629\u060c \u0648\u064a\u0634\u0639\u0631 \u0627\u0644\u062e\u0628\u0631\u0627\u0621 \u0628\u0627\u0644\u0642\u0644\u0642 \u0645\u0646 \u0623\u0646\u0647 \u0642\u062f \u064a\u0624\u062f\u064a \u0625\u0644\u0649 \u0627\u0646\u062a\u0634\u0627\u0631 \u0623\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631.",
-      "url": "https://www.aljazeera.net/health/2024/5/26/%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%8a",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2024/05/shutterstock_1988599271-1716727547.jpg?resize=1920%2C1440",
-      "publishedAt": "2024-05-26 13:25:09",
-      "content": "- - . . . . . . . (H5N1) . (H5N1) . (H5N1). \" \" . . . - - \" \" . \" \" . : \" .. . \u00bb. (H5N1) . . \" \". . . . . . : \" \". . (FDA). \" \" . . : \" \". \" \". . . . \" \" . . ( \u2026 [+31 chars]",
-      "retrievedAt": "2024-05-27 19:05:54.191914",
-      "internal_id": "fedbe48b01bfbb915bee8ea6c4176b34d2493d2d2648fb2ffd6843560b8f15df",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9535,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet Daily News",
-      "author": "hurriyetdailynews.com",
-      "title": "Stray dog bill favors adoption first, AKP says amid backlash",
-      "description": "A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a risk of rabies.",
-      "url": "https://www.hurriyetdailynews.com/stray-dog-bill-favors-adoption-first-akp-says-amid-backlash-193962",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6653228f6070c51f7ddeb833.jpg",
-      "publishedAt": "2024-05-26 11:52:53",
-      "content": "ANKARA A parliamentary leader from the ruling Justice and Development Party (AKP) has stated that a new draft law concerning stray animals will focus on addressing aggressive animals that pose a ris\u2026 [+1301 chars]",
-      "retrievedAt": "2024-05-27 19:05:53.196458",
-      "internal_id": "e3f16ed86ed58c1d927a1aa35c817a7d7ca4023f43a192a8441cb2f45f292d48",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9536,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Digiato.com",
-      "author": "\u0631\u0636\u0627 \u0632\u0627\u0631\u0639\u200c\u067e\u0648\u0631",
-      "title": "\u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1",
-      "description": "\u0628\u0627 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627 \u0627\u0632 \u0634\u06cc\u0648\u0639 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0627\u0641\u0632\u0627\u06cc\u0634 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0622\u06cc\u0627 \u0628\u0627\u06cc\u062f \u0646\u06af\u0631\u0627\u0646 \u0628\u0648\u062f\u061f The post \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0641\u0631\u062f \u0645\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0622\u0634\u0646\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0631\u0648\u0633 H5N1 appeared first on \u062f\u06cc\u062c\u06cc\u0627\u062a\u0648.",
-      "url": "https://digiato.com/health/second-case-bird-flu-in-us-what-is-h5n1-virus",
-      "urlToImage": "https://static.digiato.com/digiato/2024/05/image-38.jpg.webp",
-      "publishedAt": "2024-05-26 11:45:00",
-      "content": "H5N1 . . H5N1 . . . H5N1 . . H5N1 . (CDC) . . H5N1 . . H5N1 . . . CDC . . . . . . CDC . H5N1 . CDC . . H5N1 . H5N1 . . . CDC . CDC . . . . H5N1 . . CDC :",
-      "retrievedAt": "2024-05-27 19:05:54.141051",
-      "internal_id": "c6625a1639808f13ea9f00ea277c7410ada2241e4c9a8ad333fc54381a1a6034",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9552,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Pravda.com.ua",
-      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430. \u0416\u0438\u0442\u0442\u044f",
-      "title": "\u0412\u0456\u0440\u0443\u0441 \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443 \u0432\u043f\u0435\u0440\u0448\u0435 \u0432\u0438\u044f\u0432\u0438\u043b\u0438 \u0432 \u044f\u043b\u043e\u0432\u0438\u0447\u0438\u043d\u0456",
-      "description": "",
-      "url": "https://life.pravda.com.ua/society/m-yaso-hvoroji-molochnoji-korovi-pokazali-pozitivniy-test-na-ptashiniy-grip-301746/",
-      "urlToImage": "https://imglife.pravda.com.ua/life/images/doc/3/4/62370/3457395d88ebdd2bebd86486e6aec0e2.jpeg?w=1920&q=90",
-      "publishedAt": "2024-05-26 11:30:00",
-      "content": ". . , , , , ,The New York Times. , , . H5N1 . (, ) . , , 58 ' . \", , \", , Consumer Reports. , . \" , \". , , , - , . . , , , , . \" ' \", . , , , . \" , H5N1 , \", , -. , , , .",
-      "retrievedAt": "2024-05-28 07:06:42.690970",
-      "internal_id": "050e922e59cca24332929e52e0d896c1c66dedf1be888ac65889fc23fcbfc9c1",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9538,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Could Bird Flu Lead To Next Pandemic?",
-      "description": "The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for what could lead to the next pandemic?",
-      "url": "https://www.ndtv.com/health/could-bird-flu-lead-to-next-pandemic-5748982",
-      "urlToImage": "https://c.ndtvimg.com/2021-01/uitchfl8_bird-flu_625x300_08_January_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240506.08",
-      "publishedAt": "2024-05-26 08:59:47",
-      "content": "The detection of a case of the widespread H5N1 strain of bird flu in Australia is a cause for concern. The first case of H5N1 bird flu was reported in Australia this week. Is the world prepared for \u2026 [+7090 chars]",
-      "retrievedAt": "2024-05-27 19:05:54.205770",
-      "internal_id": "7cae26cbea7db0ac35f1b696cf61930c1110f1c2256392aefa4ff459d69d6847",
-      "publishedAtLabel": "May 26"
-    },
-    {
-      "id": 9539,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Se quintuplican casos de dengue en un a\u00f1o, alerta Ssa",
-      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos de dengue, de los cuales 6 mil 629 corresponden a dengue con signos de alarma y grave, y 6 mil 769 a no grave. Cifr\u2026",
-      "url": "https://www.jornada.com.mx/2024/05/26/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-05-26 07:37:44",
-      "content": "Peri\u00f3dico La JornadaDomingo 26 de mayo de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado 13 mil 398 casos \u2026 [+2222 chars]",
-      "retrievedAt": "2024-05-27 19:05:54.826023",
-      "internal_id": "2bf6a34b7cacad447068eb6fe25f3484685a03ef22f0400636ed9ba6f1a596a0",
       "publishedAtLabel": "May 26"
     }
   ]
