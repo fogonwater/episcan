@@ -1,8 +1,134 @@
 {
-  "last_updated": "2024-07-14 07:06",
-  "count_articles_total": 1296,
-  "count_articles_new": 11,
+  "last_updated": "2024-07-14 19:05",
+  "count_articles_total": 1298,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 11072,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Nearly 200 NY and NJ Residents Now Diagnosed with Dengue Fever",
+      "description": "Numerous cases have also been seen in Massachusetts, South Carolina, and Illinois...in addition to those previously reported in Florida. The post Nearly 200 NY and NJ Residents Now Diagnosed with Dengue Fever first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/07/nearly-200-ny-and-nj-residents-now-diagnosed-with-dengue-fever/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2016/10/LI-34-Mosquito-e1476243914966.png",
+      "publishedAt": "2024-07-13 18:00:21",
+      "content": "Back in 2016, I reported that cases of dengue fever were being reported in Florida and Hawaii. Dengue (break-bone fever) is a viral infection that spreads from mosquitoes to people and is more common\u2026 [+3147 chars]",
+      "retrievedAt": "2024-07-14 19:05:22.669263",
+      "internal_id": "3cf22c88fa5d38cbb00526b7de70006b1fbc076c28f31eb38a712729f7009565",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 11071,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Arianna Johnson, Forbes Staff, \n Arianna Johnson, Forbes Staff\n https://www.forbes.com/sites/ariannajohnson/",
+      "title": "Bird Flu (H5N1) Explained: U.S. Human Infections Rise To 7",
+      "description": "Bird flu typically spreads among birds, but there have been recent outbreaks among cattle in the U.S., and one Texas man contracted the virus from sick cows. Here\u2019s why so many experts are worried about a possible new pandemic.",
+      "url": "https://www.forbes.com/sites/ariannajohnson/2024/07/13/bird-flu-h5n1-explained-us-human-infections-rise-to-7/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662a9d6a4635389a14a348ae/0x0.jpg?format=jpg&crop=2812,1581,x0,y128,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-13 13:34:16",
+      "content": "Heres the latest news about a global outbreak of H5N1 bird flu that started in 2020, and recently spread among cattle in U.S. states and marine mammals across the world, which has health officials cl\u2026 [+14731 chars]",
+      "retrievedAt": "2024-07-14 19:05:21.647763",
+      "internal_id": "f20ad1ab0bb92fc1b5de0880a678040cf3ac3ee222f30743b7d88018de332b4a",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 11074,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "El conflicto armado y las inundaciones arrastran a RDC a una \"cat\u00e1strofe sanitaria\"",
+      "description": "La OMS avisa de decenas de miles de afectados por c\u00f3lera, sarampi\u00f3n o meningitis, en particular en Kivu Norte, epicentro de combates entre Ej\u00e9rcito y milicias",
+      "url": "https://www.europapress.es/internacional/noticia-conflicto-armado-inundaciones-arrastran-rdc-catastrofe-sanitaria-20240713143246.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240713143246_1200.jpg",
+      "publishedAt": "2024-07-13 12:32:46",
+      "content": "La OMS avisa de decenas de miles de afectados por c\u00f3lera, sarampi\u00f3n o meningitis, en particular en Kivu Norte, epicentro de combates entre Ej\u00e9rcito y milicias MADRID, 13 Jul. (EUROPA PRESS) - El\u2026 [+2131 chars]",
+      "retrievedAt": "2024-07-14 19:05:23.051575",
+      "internal_id": "3543ce068d10c1a3be0a4e37542b78ff10d46fc0971cc7d1da3a8b5809a19825",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 11070,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WABC-TV",
+      "author": "Crystal Cranmore",
+      "title": "Measles cases identified at NYC migrant shelter",
+      "description": "Two measles cases have been identified among people living at one of the city's migrant shelters, New York City health officials said.",
+      "url": "https://abc7ny.com/post/measles-cases-identified-nyc-migrant-shelter-clinton-hill/15056084/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15056145_071324-wabc-measles-outbreak-img.jpg?w=1600",
+      "publishedAt": "2024-07-13 12:31:31",
+      "content": "CLINTON HILL, Brooklyn (WABC) -- Two measles cases have been identified among people living at one of the city's migrant shelters, New York City health officials said. That shelter is the Hall Stree\u2026 [+1422 chars]",
+      "retrievedAt": "2024-07-14 19:05:21.122054",
+      "internal_id": "7fe86a02797ad3c63c2933a873afe339cc6de9181cd0c5df4f89be11ac22b0eb",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 11069,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WABC-TV",
+      "author": "Crystal Cranmore",
+      "title": "Measles cases identified at NYC migrant shelter",
+      "description": "Measles cases identified at NYC migrant shelterabc7ny.com",
+      "url": "https://abc7ny.com/measles-cases-identified-nyc-migrant-shelter-clinton-hill/15056084/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14333491_2024STOCKDevelopingStoryimg.jpg?w=1600",
+      "publishedAt": "2024-07-13 11:42:05",
+      "content": "CLINTON HILL, Brooklyn (WABC) -- Two measles cases have been identified among people living at one of the city's migrant shelters, New York City health officials said. That shelter is the Hall Stree\u2026 [+1423 chars]",
+      "retrievedAt": "2024-07-14 19:05:21.099948",
+      "internal_id": "c4c2fbf226b1d8c91d874fcf30ad3e0d4b7eb209daad95dffb30af8b0eb11e11",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 11073,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "En un a\u00f1o, casos de dengue aumentaron 4.5 veces; los decesos, m\u00e1s de 200%: Ssa",
+      "description": "En lo que va del a\u00f1o se han confirmado 22 mil 211 casos de dengue, de los cuales, 9 mil 778 presentan s\u00edntomas graves o con signos de alarma, revela la Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa).",
+      "url": "https://www.jornada.com.mx/2024/07/13/politica/014n1pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-07-13 07:56:50",
+      "content": "Peri\u00f3dico La JornadaS\u00e1bado 13 de julio de 2024, p. 14 En lo que va del a\u00f1o se han confirmado 22 mil 211 casos de dengue, de los cuales, 9 mil 778 presentan s\u00edntomas graves o con signos de alarma, re\u2026 [+2075 chars]",
+      "retrievedAt": "2024-07-14 19:05:22.696673",
+      "internal_id": "4e2f7572a2218686ec20386b8e4cb77ccc64d4d7dd3e7f37464e0058b35312e5",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 11075,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Okyere, J., Ayebeng, C., Dickson, K. S.",
+      "title": "Burden of non-communicable diseases among women of reproductive age in Kenya: a cross-sectional study",
+      "description": "Objective To examine the burden of non-communicable diseases (NCDs) among women of reproductive age in Kenya, highlighting the prevalence and risk factors. Design Cross-sectional design based on the 2022 Kenya Demographic and Health Survey. Setting Kenya. \u2026",
+      "url": "https://bmjopen.bmj.com/content/14/7/e078666",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-07-13 07:35:50",
+      "content": "Introduction For decades, infectious and communicable diseases, such as HIV, tuberculosis and malaria, have plagued sub-Saharan Africa (SSA) and are noted to contribute significantly to disease burd\u2026 [+10474 chars]",
+      "retrievedAt": "2024-07-14 19:05:23.278487",
+      "internal_id": "1921548d4a627e3590deaa5fa85bb11461dff9aab9fcff324ec8f6bbe7a0bcae",
+      "publishedAtLabel": "Jul 13"
+    },
     {
       "id": 11061,
       "query": [
@@ -23323,96 +23449,6 @@
       "content": "O Brasil, e mais recentemente o mundo, t\u00eam passado por grandes epidemias de dengue nas \u00faltimas d\u00e9cadas. O aumento de casos ano a ano, incluindo as fatalidades, amplifica a necessidade de informa\u00e7\u00f5es \u2026 [+4120 chars]",
       "retrievedAt": "2024-06-04 07:05:53.763516",
       "internal_id": "9cff37cdf516558dc44701a8861b24ecf1b0a4e28e5797f7abe5e5da1f65eb1a",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9775,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Bss",
-      "title": "Govt takes all-out preparedness to prevent dengue diseases: Health minister",
-      "description": "We have asked all relevant organisations to remain alert for taking prompt actions to deal with any possible outbreak of the dengue diseases, he said",
-      "url": "https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_watermark_bkash/public/images/2024/06/02/2024-06-02-12-01-c7995d6e54cafe6b9e51e0ed1ae83c2d.jpg",
-      "publishedAt": "2024-06-02 15:45:06",
-      "content": "The government has taken all-out preparedness on healthcare services to prevent dengue diseases, Health and Family Welfare Minister Dr Samanta Lal said today (2 June). \"We have asked all relevant or\u2026 [+2055 chars]",
-      "retrievedAt": "2024-06-03 19:05:42.722487",
-      "internal_id": "e99daf4b8d9620b17c7f73796a934769d2079347c9d0a5767fb1c7850751c3de",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9777,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Dr. Tal Patalon, MD, LLB, MBA, Contributor, \n Dr. Tal Patalon, MD, LLB, MBA, Contributor\n https://www.forbes.com/sites/talpatalon/",
-      "title": "Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death",
-      "description": "It is unfathomable, and painful to acknowledge, but real; so many of the world\u2019s deaths are potentially avoidable.",
-      "url": "https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6626340d40158b603dc6aa93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-06-02 14:23:16",
-      "content": "'Boy in Boat', 125X150 cm, Oil on Linen, 2020 by Gideon Rubin// He needs a data lake, but also clean ... [+] waters. He is every child. @ Gideon Rubin It is unfathomable, and painful to acknowledge\u2026 [+4703 chars]",
-      "retrievedAt": "2024-06-03 19:05:43.804423",
-      "internal_id": "cb9f38326f5b75ed7f909426ed77202e9c380cc63ecf28bcf58e01fbd70afb5b",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9773,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "Alex Viveros",
-      "title": "To track H5N1, these scientists test wildlife from as far away as Hawaii",
-      "description": "It\u2019s still an open question, experts say, what will happen as the bird flu virus continues to spread.",
-      "url": "https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/wXqakISt59Fi2Wq6F8pKtDlhVo4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SXJHFO7PE5FYPHY3ELG3MALU4I.JPG",
-      "publishedAt": "2024-06-02 10:00:00",
-      "content": "The lab, which tests animal samples from across the country, offers a peek at how scientists are racing to learn more about the virus, which experts are concerned may one day evolve to more easily in\u2026 [+6112 chars]",
-      "retrievedAt": "2024-06-03 19:05:41.902090",
-      "internal_id": "1ab1ba299add997a2ea58ba129b5d5a3feef234c8071f13bc53bf7a6cde71bb3",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9776,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Kathmandu metropolis urges citizens to take preventive measures against Dengue",
-      "description": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local government has cautioned residents about the heightened risk of d\u2026",
-      "url": "https://english.khabarhub.com/2024/02/358993/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-06-02 08:45:26",
-      "content": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local gove\u2026 [+1180 chars]",
-      "retrievedAt": "2024-06-03 19:05:42.737377",
-      "internal_id": "9309a113c5b071213377bb88a0f68393f730ff6bfeae58e2652876d26db892b1",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9774,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
-      "title": "\u0647\u0634\u062f\u0627\u0631 \u062f\u0631\u0628\u0627\u0631\u0647 \u062a\u0628 \u062f\u0627\u0646\u06af \u0648 \u0639\u0644\u0627\u0626\u0645 \u0627\u06cc\u0646 \u0628\u06cc\u0645\u0627\u0631\u06cc",
-      "description": "\u0631\u0626\u06cc\u0633 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0627\u0644\u0628\u0631\u0632 \u0639\u0646\u0648\u0627\u0646 \u06a9\u0631\u062f: \u0645\u0647\u0645\u062a\u0631\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0628\u0631\u0627\u06cc \u062c\u0644\u0648\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u067e\u0634\u0647 \u0646\u0627\u0642\u0644 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062a\u0628 \u062f\u0627\u0646\u06af ( \u067e\u0634\u0647 \u0645\u0647\u0627\u062c\u0645 \u0622\u0626\u062f\u0633 ) \u0628\u0647\u0633\u0627\u0632\u06cc \u0645\u062d\u06cc\u0637 \u0648 \u0627\u0632 \u0628\u06cc\u0646 \u0628\u0631\u062f\u0646 \u0622\u0628\u200c\u0647\u0627\u06cc \u0631\u0627\u06a9\u062f \u06a9\u0647 \u0632\u06cc\u0633\u062a\u06af\u0627\u0647 \u0645\u0646\u0627\u0633\u0628 \u0627\u06cc\u0646 \u067e\u0634\u0647 \u0627\u0633\u062a\u060c \u062f\u0631 \u0645\u062d\u0644 \u0632\u0646\u062f\u06af\u06cc \u0627\u0633\u062a.",
-      "url": "https://www.isna.ir/news/1403031308826/\u0647\u0634\u062f\u0627\u0631-\u062f\u0631\u0628\u0627\u0631\u0647-\u062a\u0628-\u062f\u0627\u0646\u06af-\u0648-\u0639\u0644\u0627\u0626\u0645-\u0627\u06cc\u0646-\u0628\u06cc\u0645\u0627\u0631\u06cc",
-      "urlToImage": "https://cdn.isna.ir/d/2024/06/02/4/63055736.jpg?ts=1717316636429",
-      "publishedAt": "2024-06-02 08:44:28",
-      "content": "/ : ( ) . : . : ( ) . (Dengue fever) . . . : #",
-      "retrievedAt": "2024-06-03 19:05:42.636287",
-      "internal_id": "9351b30c8fabafbc4ad85394eda8931b1f5bc13b9895b014e5159bcc1facdc8c",
       "publishedAtLabel": "Jun 2"
     }
   ]

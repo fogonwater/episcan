@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-07-14 07:06
-- **Most recent article:** 2024-07-13 06:55:43
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-07-14 19:05
+- **Most recent article:** 2024-07-13 18:00:21
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 61 | 115 | 62 | 105 | 52 | 93 | 488 |
-| h5n1 | 77 | 55 | 29 | 36 | 59 | 51 | 307 |
+| dengue | 58 | 115 | 62 | 105 | 52 | 95 | 487 |
+| h5n1 | 76 | 55 | 29 | 36 | 59 | 52 | 307 |
 | mpox | 8 | 26 | 14 | 46 | 21 | 26 | 141 |
-| malaria | 21 | 37 | 20 | 24 | 15 | 13 | 130 |
+| malaria | 20 | 37 | 20 | 24 | 15 | 14 | 130 |
 | zika | 0 | 12 | 3 | 17 | 20 | 12 | 64 |
-| measles | 11 | 7 | 11 | 8 | 9 | 10 | 56 |
+| measles | 11 | 7 | 11 | 8 | 9 | 12 | 58 |
 | chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 53 |
 | pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 37 |
 | rabies | 9 | 2 | 5 | 8 | 4 | 2 | 30 |
 | hpai | 2 | 4 | 4 | 3 | 3 | 5 | 21 |
-| meningitis | 6 | 3 | 1 | 1 | 3 | 4 | 18 |
+| meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 19 |
 | typhoid | 1 | 1 | 2 | 3 | 4 | 6 | 17 |
 | leptospirosis | 1 | 1 | 1 | 2 | 1 | 3 | 9 |
 | yersinia | 1 | 0 | 0 | 2 | 0 | 6 | 9 |
@@ -154,6 +154,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-28 (meningitis)
 
+- [El conflicto armado y las inundaciones arrastran a RDC a una "catástrofe sanitaria"](https://www.europapress.es/internacional/noticia-conflicto-armado-inundaciones-arrastran-rdc-catastrofe-sanitaria-20240713143246.html) (Europapress.es)
+
 - [The Bachelor's Daisy Kent Details Near-Fatal Battle With Meningitis](https://www.eonline.com/news/1404794/bachelor-nations-daisy-kent-details-near-fatal-battle-with-meningitis) (Eonline.com)
 
 - [‘Bachelor’ Alum Daisy Kent Recalls Nearly Dying From Meningitis](https://www.usmagazine.com/celebrity-news/news/bachelor-alum-daisy-kent-recalls-nearly-dying-from-meningitis/#article) (Us Weekly)
@@ -163,6 +165,10 @@ Source: [News API](https://newsapi.org/)
 - [Newly identified enzyme helps pathogenic fungus build protective cell wall](https://phys.org/news/2024-07-newly-enzyme-pathogenic-fungus-cell.html) (Phys.Org)
 
 ## 24-28 (measles)
+
+- [Measles cases identified at NYC migrant shelter](https://abc7ny.com/post/measles-cases-identified-nyc-migrant-shelter-clinton-hill/15056084/) (WABC-TV)
+
+- [Measles cases identified at NYC migrant shelter](https://abc7ny.com/measles-cases-identified-nyc-migrant-shelter-clinton-hill/15056084/) (WABC-TV)
 
 - [NEW: Arlington warns of possible measles exposure at grocery store](https://www.arlnow.com/2024/07/12/new-arlington-warns-of-possible-measles-exposure-at-grocery-store/) (ARLnow)
 
@@ -185,6 +191,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1129: You never forget the first time you flu](https://www.microbe.tv/twiv/twiv-1129/) (Microbe.tv)
 
 ## 24-28 (malaria)
+
+- [Burden of non-communicable diseases among women of reproductive age in Kenya: a cross-sectional study](https://bmjopen.bmj.com/content/14/7/e078666) (The BMJ)
 
 - [Denisovan DNA may help modern humans adapt to different environments](https://www.newscientist.com/article/2438941-denisovan-dna-may-help-modern-humans-adapt-to-different-environments/) (New Scientist)
 
@@ -233,6 +241,8 @@ Source: [News API](https://newsapi.org/)
 - [Germany Reports H7N5 Bird Flu Outbreak](https://www.shtfplan.com/headline-news/germany-reports-h7n5-bird-flu-outbreak) (Shtfplan.com)
 
 ## 24-28 (h5n1)
+
+- [Bird Flu (H5N1) Explained: U.S. Human Infections Rise To 7](https://www.forbes.com/sites/ariannajohnson/2024/07/13/bird-flu-h5n1-explained-us-human-infections-rise-to-7/) (Forbes)
 
 - [Γρίπη των πτηνών: Τρία φερόμενα κρούσματα σε ανθρώπους στις ΗΠΑ](https://www.naftemporiki.gr/health/1713907/gripi-ton-ptinon-tria-feromena-kroysmata-se-anthropoys-stis-ipa/) (Naftemporiki.gr)
 
@@ -337,6 +347,10 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe H5N1: „Es muss alles getan werden, um das Virus zu stoppen“](https://www.sueddeutsche.de/gesundheit/usa-deutschland-vogelgrippe-kuehe-lux.DbgizRndYotBTPXMfjYA5f) (Süddeutsche Zeitung)
 
 ## 24-28 (dengue)
+
+- [Nearly 200 NY and NJ Residents Now Diagnosed with Dengue Fever](https://legalinsurrection.com/2024/07/nearly-200-ny-and-nj-residents-now-diagnosed-with-dengue-fever/) (Legalinsurrection.com)
+
+- [En un año, casos de dengue aumentaron 4.5 veces; los decesos, más de 200%: Ssa](https://www.jornada.com.mx/2024/07/13/politica/014n1pol) (Jornada.com.mx)
 
 - [Vacinação contra dengue em crianças e adolescentes é retomada em SP](https://www.metropoles.com/sao-paulo/vacinacao-dengue-criancas-retomada-sp) (Metropoles.com)
 
@@ -2648,8 +2662,6 @@ Source: [News API](https://newsapi.org/)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
-- [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
-
 ## 24-23 (leptospirosis)
 
 - [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
@@ -2814,8 +2826,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
-- [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
-
 ## 24-23 (dengue)
 
 - [Govt still mulling using costly Qdenga vaccine](https://www.thestar.com.my/news/nation/2024/06/09/govt-still-mulling-using-costly-qdenga-vaccine) (The Star Online)
@@ -2933,12 +2943,6 @@ Source: [News API](https://newsapi.org/)
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.ru/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.ru)
 
 - [5 mitos e 5 verdades sobre a dengue e o mosquito Aedes aegypti](https://olhardigital.com.br/2024/06/02/medicina-e-saude/5-mitos-e-5-verdades-sobre-a-dengue-e-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
-
-- [Govt takes all-out preparedness to prevent dengue diseases: Health minister](https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781) (Tbsnews.net)
-
-- [Kathmandu metropolis urges citizens to take preventive measures against Dengue](https://english.khabarhub.com/2024/02/358993/) (Khabarhub.com)
-
-- [هشدار درباره تب دانگ و علائم این بیماری](https://www.isna.ir/news/1403031308826/هشدار-درباره-تب-دانگ-و-علائم-این-بیماری) (Isna.ir)
 
 ## 24-23 (chikungunya)
 
