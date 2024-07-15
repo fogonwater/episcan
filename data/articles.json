@@ -1,8 +1,99 @@
 {
-  "last_updated": "2024-07-14 19:05",
-  "count_articles_total": 1298,
-  "count_articles_new": 7,
+  "last_updated": "2024-07-15 07:05",
+  "count_articles_total": 1308,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 11079,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Citizen.digital",
+      "author": "Voa",
+      "title": "DR Congo faces catastrophic health, humanitarian crisis",
+      "description": "The World Health Organization warns that millions of people in the Democratic Republic of Congo are facing a health and humanitarian crisis because of escalating conflict and violence, mainly in the eastern part of the country in recent months.",
+      "url": "https://www.citizen.digital/news/dr-congo-faces-catastrophic-health-humanitarian-crisis-n345808",
+      "urlToImage": "https://citizentv.obs.af-south-1.myhuaweicloud.com/128832/conversions/DR-Congo-og_image.webp",
+      "publishedAt": "2024-07-14 04:28:14",
+      "content": "In the first half of this year, the WHO has reported more than 20,000 cases of cholera, including 274 deaths, most in North Kivu province, and 65,415 cases of measles, including 1,523 deaths.",
+      "retrievedAt": "2024-07-15 07:05:53.513170",
+      "internal_id": "8528ccf32a688210db6dfb4e0d54b914a734ed015c29a25d60caa2f8b92789b1",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11078,
+      "query": [
+        "measles",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1131: Mootant influenza H5N1 virus",
+      "description": "TWiV reviews the potential impact on science of the Supreme Court ruling in the Chevron decision, measles in New Hampshire and Vermont, new who proposed terminology for respiratory pathogen transmission, and pathogenicity and transmission of bovine H5N1 influ\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1131/",
+      "urlToImage": null,
+      "publishedAt": "2024-07-14 04:00:00",
+      "content": "TWiV reviews the potential impact on science of the Supreme Court ruling in the Chevron decision, measles in New Hampshire and Vermont, new who proposed terminology for respiratory pathogen transmiss\u2026 [+622 chars]",
+      "retrievedAt": "2024-07-15 07:05:53.492587",
+      "internal_id": "3aa18cd318adb7509d94949003ba7fae54c78fae8aeda3a680bde91479749127",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11076,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "TT",
+      "title": "Rabiess\u00e4lar pl\u00e5gar Sydafrika",
+      "description": "Ett utbrott av rabies bland s\u00e4lar i Sydafrika har f\u00e5tt den sydafrikanska folkh\u00e4lsomyndigheten NICD att utf\u00e4rda en varning. Hittills har nio s\u00e4lar testat positivt f\u00f6r den mycket farliga och d\u00f6dliga sjukdomen. Flera surfare har bitits av s\u00e4lar, rapporterar The \u2026",
+      "url": "https://www.svd.se/a/nyywbo/rabiessalar-plagar-sydafrika",
+      "urlToImage": "https://svd.vgc.no/v2/images/4bcf3f34-502f-4f3e-86e3-ab64f5c3582d?h=630&q=80&upscale=true&w=1200&s=0bc6f6145fa7a6088b37ae50a305a07259a4361e",
+      "publishedAt": "2024-07-14 01:53:40",
+      "content": "Ett utbrott av rabies bland s\u00e4lar i Sydafrika har f\u00e5tt den sydafrikanska folkh\u00e4lsomyndigheten NICD att utf\u00e4rda en varning. Hittills har nio s\u00e4lar testat positivt f\u00f6r den mycket farliga och d\u00f6dliga s\u2026 [+69 chars]",
+      "retrievedAt": "2024-07-15 07:05:53.062880",
+      "internal_id": "70d8706802ae834fff295c2ed6c6e7fe1260fb15d2a033b399aac64396cf3c80",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11077,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Rabiess\u00e4lar pl\u00e5gar Sydafrika",
+      "description": "Ett utbrott av rabies bland s\u00e4lar i Sydafrika har f\u00e5tt den sydafrikanska folkh\u00e4lsomyndigheten NICD att utf\u00e4rda en varning.",
+      "url": "https://www.aftonbladet.se/nyheter/a/LMM1qR/rabiessalar-plagar-sydafrika",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/4fdc9fa0-b448-45a2-aa34-3162646b0eef?fit=crop&format=auto&h=1213&q=50&w=1900&s=3d14da220bc8d1806fbbd98b3cf2a9149e7e9763",
+      "publishedAt": "2024-07-14 01:53:39",
+      "content": "share-arrow Dela Ett utbrott av rabies bland s\u00e4lar i Sydafrika har f\u00e5tt den sydafrikanska folkh\u00e4lsomyndigheten NICD att utf\u00e4rda en varning. Hittills har nio s\u00e4lar testat positivt f\u00f6r den mycket fa\u2026 [+219 chars]",
+      "retrievedAt": "2024-07-15 07:05:53.081636",
+      "internal_id": "3b6d8ea962f4ee62abe9182dbf94e9505f60283ada910546c975834a62c7c123",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11080,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Zerohedge.com",
+      "author": "Tyler Durden",
+      "title": "Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis",
+      "description": "\"Americans had to get Covid shots to go to work or a restaurant, but the 10+ million migrants entering the country have none of the vaccinations that we actually need for public safety. Makes sense.\"",
+      "url": "https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis",
+      "urlToImage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2024-07/2024-07-13_10-34-00.png?h=92cc5e9a&itok=kVqzluAT",
+      "publishedAt": "2024-07-14 00:25:33",
+      "content": "The Biden administration's disastrous open southern border policies have sparked an illegal alien invasion, raising the risk of contagious diseases spreading across the US. For some context, several\u2026 [+2776 chars]",
+      "retrievedAt": "2024-07-15 07:05:53.518129",
+      "internal_id": "d31348b077bc4307c0e3bb3fc4eade5fdc6b2c6b18a0fd5ad8bdce9f1456ac64",
+      "publishedAtLabel": "Jul 14"
+    },
     {
       "id": 11072,
       "query": [
@@ -23449,6 +23540,96 @@
       "content": "O Brasil, e mais recentemente o mundo, t\u00eam passado por grandes epidemias de dengue nas \u00faltimas d\u00e9cadas. O aumento de casos ano a ano, incluindo as fatalidades, amplifica a necessidade de informa\u00e7\u00f5es \u2026 [+4120 chars]",
       "retrievedAt": "2024-06-04 07:05:53.763516",
       "internal_id": "9cff37cdf516558dc44701a8861b24ecf1b0a4e28e5797f7abe5e5da1f65eb1a",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9775,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Bss",
+      "title": "Govt takes all-out preparedness to prevent dengue diseases: Health minister",
+      "description": "We have asked all relevant organisations to remain alert for taking prompt actions to deal with any possible outbreak of the dengue diseases, he said",
+      "url": "https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_watermark_bkash/public/images/2024/06/02/2024-06-02-12-01-c7995d6e54cafe6b9e51e0ed1ae83c2d.jpg",
+      "publishedAt": "2024-06-02 15:45:06",
+      "content": "The government has taken all-out preparedness on healthcare services to prevent dengue diseases, Health and Family Welfare Minister Dr Samanta Lal said today (2 June). \"We have asked all relevant or\u2026 [+2055 chars]",
+      "retrievedAt": "2024-06-03 19:05:42.722487",
+      "internal_id": "e99daf4b8d9620b17c7f73796a934769d2079347c9d0a5767fb1c7850751c3de",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9777,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Dr. Tal Patalon, MD, LLB, MBA, Contributor, \n Dr. Tal Patalon, MD, LLB, MBA, Contributor\n https://www.forbes.com/sites/talpatalon/",
+      "title": "Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death",
+      "description": "It is unfathomable, and painful to acknowledge, but real; so many of the world\u2019s deaths are potentially avoidable.",
+      "url": "https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6626340d40158b603dc6aa93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-02 14:23:16",
+      "content": "'Boy in Boat', 125X150 cm, Oil on Linen, 2020 by Gideon Rubin// He needs a data lake, but also clean ... [+] waters. He is every child. @ Gideon Rubin It is unfathomable, and painful to acknowledge\u2026 [+4703 chars]",
+      "retrievedAt": "2024-06-03 19:05:43.804423",
+      "internal_id": "cb9f38326f5b75ed7f909426ed77202e9c380cc63ecf28bcf58e01fbd70afb5b",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9773,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Alex Viveros",
+      "title": "To track H5N1, these scientists test wildlife from as far away as Hawaii",
+      "description": "It\u2019s still an open question, experts say, what will happen as the bird flu virus continues to spread.",
+      "url": "https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/wXqakISt59Fi2Wq6F8pKtDlhVo4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SXJHFO7PE5FYPHY3ELG3MALU4I.JPG",
+      "publishedAt": "2024-06-02 10:00:00",
+      "content": "The lab, which tests animal samples from across the country, offers a peek at how scientists are racing to learn more about the virus, which experts are concerned may one day evolve to more easily in\u2026 [+6112 chars]",
+      "retrievedAt": "2024-06-03 19:05:41.902090",
+      "internal_id": "1ab1ba299add997a2ea58ba129b5d5a3feef234c8071f13bc53bf7a6cde71bb3",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9776,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Kathmandu metropolis urges citizens to take preventive measures against Dengue",
+      "description": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local government has cautioned residents about the heightened risk of d\u2026",
+      "url": "https://english.khabarhub.com/2024/02/358993/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-06-02 08:45:26",
+      "content": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local gove\u2026 [+1180 chars]",
+      "retrievedAt": "2024-06-03 19:05:42.737377",
+      "internal_id": "9309a113c5b071213377bb88a0f68393f730ff6bfeae58e2652876d26db892b1",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9774,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
+      "title": "\u0647\u0634\u062f\u0627\u0631 \u062f\u0631\u0628\u0627\u0631\u0647 \u062a\u0628 \u062f\u0627\u0646\u06af \u0648 \u0639\u0644\u0627\u0626\u0645 \u0627\u06cc\u0646 \u0628\u06cc\u0645\u0627\u0631\u06cc",
+      "description": "\u0631\u0626\u06cc\u0633 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0627\u0644\u0628\u0631\u0632 \u0639\u0646\u0648\u0627\u0646 \u06a9\u0631\u062f: \u0645\u0647\u0645\u062a\u0631\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0628\u0631\u0627\u06cc \u062c\u0644\u0648\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u067e\u0634\u0647 \u0646\u0627\u0642\u0644 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062a\u0628 \u062f\u0627\u0646\u06af ( \u067e\u0634\u0647 \u0645\u0647\u0627\u062c\u0645 \u0622\u0626\u062f\u0633 ) \u0628\u0647\u0633\u0627\u0632\u06cc \u0645\u062d\u06cc\u0637 \u0648 \u0627\u0632 \u0628\u06cc\u0646 \u0628\u0631\u062f\u0646 \u0622\u0628\u200c\u0647\u0627\u06cc \u0631\u0627\u06a9\u062f \u06a9\u0647 \u0632\u06cc\u0633\u062a\u06af\u0627\u0647 \u0645\u0646\u0627\u0633\u0628 \u0627\u06cc\u0646 \u067e\u0634\u0647 \u0627\u0633\u062a\u060c \u062f\u0631 \u0645\u062d\u0644 \u0632\u0646\u062f\u06af\u06cc \u0627\u0633\u062a.",
+      "url": "https://www.isna.ir/news/1403031308826/\u0647\u0634\u062f\u0627\u0631-\u062f\u0631\u0628\u0627\u0631\u0647-\u062a\u0628-\u062f\u0627\u0646\u06af-\u0648-\u0639\u0644\u0627\u0626\u0645-\u0627\u06cc\u0646-\u0628\u06cc\u0645\u0627\u0631\u06cc",
+      "urlToImage": "https://cdn.isna.ir/d/2024/06/02/4/63055736.jpg?ts=1717316636429",
+      "publishedAt": "2024-06-02 08:44:28",
+      "content": "/ : ( ) . : . : ( ) . (Dengue fever) . . . : #",
+      "retrievedAt": "2024-06-03 19:05:42.636287",
+      "internal_id": "9351b30c8fabafbc4ad85394eda8931b1f5bc13b9895b014e5159bcc1facdc8c",
       "publishedAtLabel": "Jun 2"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-07-14 19:05
-- **Most recent article:** 2024-07-13 18:00:21
+- **New articles in last harvest:** 5
+- **Last harvest:** 2024-07-15 07:05
+- **Most recent article:** 2024-07-14 04:28:14
 
 ---
 
@@ -10,27 +10,45 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 58 | 115 | 62 | 105 | 52 | 95 | 487 |
-| h5n1 | 76 | 55 | 29 | 36 | 59 | 52 | 307 |
-| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 141 |
-| malaria | 20 | 37 | 20 | 24 | 15 | 14 | 130 |
-| zika | 0 | 12 | 3 | 17 | 20 | 12 | 64 |
-| measles | 11 | 7 | 11 | 8 | 9 | 12 | 58 |
-| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 53 |
-| pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 37 |
-| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 30 |
-| hpai | 2 | 4 | 4 | 3 | 3 | 5 | 21 |
-| meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 19 |
-| typhoid | 1 | 1 | 2 | 3 | 4 | 6 | 17 |
-| leptospirosis | 1 | 1 | 1 | 2 | 1 | 3 | 9 |
-| yersinia | 1 | 0 | 0 | 2 | 0 | 6 | 9 |
+| Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 61 | 115 | 62 | 105 | 52 | 95 | 0 | 490 |
+| h5n1 | 77 | 55 | 29 | 36 | 59 | 52 | 1 | 309 |
+| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 0 | 141 |
+| malaria | 21 | 37 | 20 | 24 | 15 | 14 | 0 | 131 |
+| zika | 0 | 12 | 3 | 17 | 20 | 12 | 0 | 64 |
+| measles | 11 | 7 | 11 | 8 | 9 | 12 | 3 | 61 |
+| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 0 | 53 |
+| pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 0 | 37 |
+| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 2 | 32 |
+| hpai | 2 | 4 | 4 | 3 | 3 | 5 | 0 | 21 |
+| meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 0 | 19 |
+| typhoid | 1 | 1 | 2 | 3 | 4 | 6 | 0 | 17 |
+| leptospirosis | 1 | 1 | 1 | 2 | 1 | 3 | 0 | 9 |
+| yersinia | 1 | 0 | 0 | 2 | 0 | 6 | 0 | 9 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-29 (rabies)
+
+- [Rabiessälar plågar Sydafrika](https://www.svd.se/a/nyywbo/rabiessalar-plagar-sydafrika) (Svenska Dagbladet)
+
+- [Rabiessälar plågar Sydafrika](https://www.aftonbladet.se/nyheter/a/LMM1qR/rabiessalar-plagar-sydafrika) (Aftonbladet.se)
+
+## 24-29 (measles)
+
+- [DR Congo faces catastrophic health, humanitarian crisis](https://www.citizen.digital/news/dr-congo-faces-catastrophic-health-humanitarian-crisis-n345808) (Citizen.digital)
+
+- [TWiV 1131: Mootant influenza H5N1 virus](https://www.microbe.tv/twiv/twiv-1131/) (Microbe.tv)
+
+- [Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis](https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis) (Zerohedge.com)
+
+## 24-29 (h5n1)
+
+- [TWiV 1131: Mootant influenza H5N1 virus](https://www.microbe.tv/twiv/twiv-1131/) (Microbe.tv)
 
 ## 24-28 (zika)
 
@@ -2662,6 +2680,8 @@ Source: [News API](https://newsapi.org/)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
+- [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
+
 ## 24-23 (leptospirosis)
 
 - [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
@@ -2826,6 +2846,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
+- [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
+
 ## 24-23 (dengue)
 
 - [Govt still mulling using costly Qdenga vaccine](https://www.thestar.com.my/news/nation/2024/06/09/govt-still-mulling-using-costly-qdenga-vaccine) (The Star Online)
@@ -2943,6 +2965,12 @@ Source: [News API](https://newsapi.org/)
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.ru/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.ru)
 
 - [5 mitos e 5 verdades sobre a dengue e o mosquito Aedes aegypti](https://olhardigital.com.br/2024/06/02/medicina-e-saude/5-mitos-e-5-verdades-sobre-a-dengue-e-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
+
+- [Govt takes all-out preparedness to prevent dengue diseases: Health minister](https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781) (Tbsnews.net)
+
+- [Kathmandu metropolis urges citizens to take preventive measures against Dengue](https://english.khabarhub.com/2024/02/358993/) (Khabarhub.com)
+
+- [هشدار درباره تب دانگ و علائم این بیماری](https://www.isna.ir/news/1403031308826/هشدار-درباره-تب-دانگ-و-علائم-این-بیماری) (Isna.ir)
 
 ## 24-23 (chikungunya)
 
