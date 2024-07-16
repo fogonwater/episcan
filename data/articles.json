@@ -1,8 +1,190 @@
 {
-  "last_updated": "2024-07-15 19:05",
-  "count_articles_total": 1316,
-  "count_articles_new": 13,
+  "last_updated": "2024-07-16 07:06",
+  "count_articles_total": 1331,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 11100,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Existentialcomics.com",
+      "author": "Corey Mohler",
+      "title": "Plato vs Democracy",
+      "description": "A philosophy webcomic about the inevitable anguish of living a brief life in an absurd world. Also Jokes",
+      "url": "https://existentialcomics.com/comic/559",
+      "urlToImage": "https://static.existentialcomics.com/comics/PlatovsDemocracy.png",
+      "publishedAt": "2024-07-15 07:00:00",
+      "content": "Also, my Dad is trying to raise some money for a surgery, I already posted this before and we met the goal, but then he contracted dengue fever so the surgury had to get delayed, so we are trying to \u2026 [+1718 chars]",
+      "retrievedAt": "2024-07-16 07:06:11.355363",
+      "internal_id": "0bc0c212ddd47f94afdd172079ae71543ea479392fcba285149b6b806869dee7",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11097,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "t3n",
+      "source_name": "T3n",
+      "author": "Veronika Szentp\u00e9tery-Kessler",
+      "title": "Vogelgrippe: Welche Impfstoffe in Europa bereit stehen",
+      "description": "Bisher gilt das Pandemierisiko durch Vogelgrippe als gering. Im Ernstfall soll die Impfstoffproduktion schnell gehen. Die EU und USA bestellen bereits Vorr\u00e4te. weiterlesen auf t3n.de",
+      "url": "https://t3n.de/news/vogelgrippe-welche-impfstoffe-in-europa-bereit-stehen-1635241/",
+      "urlToImage": "https://t3n.de/news/wp-content/uploads/2021/05/corona-impftermin.jpg",
+      "publishedAt": "2024-07-15 06:15:17",
+      "content": "Das Vogelgrippevirus z\u00e4hlt zu den Haupt-Pandemiekandidaten. Jetzt decken sich westliche L\u00e4nder mit Impfstoffen ein, die im Pandemiefall und bei lokalen Ausbr\u00fcchen vor dem auch H5N1 genannten Influenz\u2026 [+5622 chars]",
+      "retrievedAt": "2024-07-16 07:06:10.763950",
+      "internal_id": "0bb18305e5ccf08bcd737cceb9fd7a849487b491da8c5db7848235cb7a276b5b",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11096,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Colorado confirms four human bird flu infections, fifth suspected",
+      "description": "Colorado reported four confirmed infections of H5N1 bird flu virus in poultry workers, and is checking on the status of a fifth suspected case, health authorities said on Sunday (Jul 14). Human infections with H5N1 avian flu could cause severe disease and",
+      "url": "https://www.channelnewsasia.com/world/human-bird-flu-infections-united-states-colorado-h5n1-cdc-4480271",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--IEewlAUt--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-07-15t034932z_2_lynxmpek6e02i_rtroptp_3_health-birdflu-testing.jpg?itok=EtoAgACi",
+      "publishedAt": "2024-07-15 04:14:01",
+      "content": "Colorado reported four confirmed infections of H5N1 bird flu virus in poultry workers, and is checking on the status of a fifth suspected case, health authorities said on Sunday (Jul 14). Human infe\u2026 [+723 chars]",
+      "retrievedAt": "2024-07-16 07:06:10.742806",
+      "internal_id": "7e64463564fe1660ef5a56394238d5ec48f398bd1cadf5ea636f6cf5bc147516",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11094,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Geographic Distribution of Rabies Virus and Genomic Sequence Alignment of Wild and Vaccine Strains, Kenya",
+      "description": "Geographic Distribution of Rabies Virus, Kenya",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/8/23-0876_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-07-15 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Rabies, a viral disease th\u2026 [+24541 chars]",
+      "retrievedAt": "2024-07-16 07:06:09.486550",
+      "internal_id": "1fee05fdcdefa20e27bd7f60f89620bf469ad6cce20211f0f73698ee22eaff92",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11098,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "Colorado confirms four human bird flu infections, fifth suspected",
+      "description": "Colorado confirms four human bird flu infections, fifth suspected",
+      "url": "https://www.investing.com/news/world-news/colorado-confirms-four-human-bird-flu-infections-fifth-suspected-3518309",
+      "urlToImage": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+      "publishedAt": "2024-07-15 03:51:54",
+      "content": "(Reuters) - Colorado reported four confirmed infections of H5N1 bird flu virus in poultry workers, and is checking on the status of a fifth suspected case, health authorities said on Sunday. Human \u2026 [+719 chars]",
+      "retrievedAt": "2024-07-16 07:06:10.773052",
+      "internal_id": "08d2f0fcfcfce516b1f406ec25745b29f51fed1f670f96d2902afb7ab195378b",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11101,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor",
+      "description": "The early arrival of the southwest monsoon has raised concerns among healthcare providers about a potential surge in vector-borne diseases like Dengue, Zika, and Malaria. Preventive measures, including screening pregnant women for Zika, are being emphasized t\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111741362,width-1070,height-580,imgsize-419791,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-15 02:16:32",
+      "content": "Times when Neha Shetty put on the fabulous shades of emerald that turn heads",
+      "retrievedAt": "2024-07-16 07:06:11.395705",
+      "internal_id": "e5ef990a63042e8e08e568b99c46f53e29fe1e01cdd3db79f694be111c10081e",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11095,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ThePrint",
+      "author": "Sumi Sukanya Dutta",
+      "title": "India logs third highest number of children not vaccinated against measles after Nigeria and Congo",
+      "description": "India is among 10 countries that account for 55 percent of children without measles vaccination globally, show WHO-UNICEF estimates of national immunisation coverage.",
+      "url": "https://theprint.in/health/india-logs-third-highest-number-of-children-not-vaccinated-against-measles-after-nigeria-and-congo/2174357/",
+      "urlToImage": "https://static.theprint.in/wp-content/uploads/2022/11/Untitled-design-6-5.png",
+      "publishedAt": "2024-07-15 02:08:02",
+      "content": "Measles, a vaccine-preventable viral disease, affects young children the most. It has typical flu-like symptoms with characteristic rashes all over the body. In severe cases, it causes pneumonia and \u2026 [+3798 chars]",
+      "retrievedAt": "2024-07-16 07:06:09.967073",
+      "internal_id": "fc3da8f322ee5b4a5815c268ee16237b7306c18e804a535f2e178a1c125b8d2b",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11103,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Over 30,000 dengue cases, 12 fatalities reported in Sri Lanka this year",
+      "description": "COLOMBO, July 14 (Xinhua) -- Over 30,000 dengue cases have been reported in Sri Lanka so far this ye",
+      "url": "http://en.people.cn/n3/2024/0715/c90000-20193571.html",
+      "urlToImage": null,
+      "publishedAt": "2024-07-15 01:13:27",
+      "content": "COLOMBO, July 14 (Xinhua) -- Over 30,000 dengue cases have been reported in Sri Lanka so far this year, according to the latest update released by the National Dengue Control Unit (NDCU) on Saturday.\u2026 [+383 chars]",
+      "retrievedAt": "2024-07-16 07:06:11.440883",
+      "internal_id": "a49ef66b3225b8ff1b2b3eb7112f94a0cf23eb54a04457efb846d6153fad5b96",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11099,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Chao Huang, Yanni Jiao, Lijun Shao, Wei Li, Shengyong Ding, Dafeng Jiang, Wei Jiang",
+      "title": "Ultrasensitive detection of the H5N1 nucleic acid fragment by ICP-MS using DNA dendrimer-carried silver nanoparticle labeling",
+      "description": "Analyst, 2024, Advance ArticleDOI: 10.1039/D4AN00746H, PaperChao Huang, Yanni Jiao, Lijun Shao, Wei Li, Shengyong Ding, Dafeng Jiang, Wei JiangUltrasensitive detection of the H5N1 nucleic acid fragment by ICP-MS using DNA dendrimer-carried AgNP labeling was d\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2024/an/d4an00746h",
+      "urlToImage": "https://pubs.rsc.org/en/Content/Image/GA/D4AN00746H",
+      "publishedAt": "2024-07-14 23:00:00",
+      "content": "C. Huang, Y. Jiao, L. Shao, W. Li, S. Ding, D. Jiang and W. Jiang, Analyst, 2024, Advance Article , DOI: 10.1039/D4AN00746H To request permission to reproduce material from this article, please g\u2026 [+619 chars]",
+      "retrievedAt": "2024-07-16 07:06:10.782101",
+      "internal_id": "de2077364de21fd63d9a21c22138698a4c51e4829b7a8d56821c14ff35eb1634",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11102,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Dengue count breaches 3k-mark in city",
+      "description": "Read the latest update on the dengue outbreak in Bengaluru city as the number of cases surpasses 3,000. Stay informed about the current situation and preventive measures.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-in-bengaluru-cross-3000-mark/articleshow/111739017.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-14 22:48:06",
+      "content": "Aishwarya Rai Bachchan, Priyanka Chopra, Shah Rukh Khan, Alia: Best dressed celebs at Anant-Radhika wedding",
+      "retrievedAt": "2024-07-16 07:06:11.401323",
+      "internal_id": "e4a613944beecb3969f5cafc7a35e6d7dfac85fb6e0b01482114c57df51caa2d",
+      "publishedAtLabel": "Jul 14"
+    },
     {
       "id": 11087,
       "query": [
@@ -23774,6 +23956,96 @@
       "content": "O Brasil, e mais recentemente o mundo, t\u00eam passado por grandes epidemias de dengue nas \u00faltimas d\u00e9cadas. O aumento de casos ano a ano, incluindo as fatalidades, amplifica a necessidade de informa\u00e7\u00f5es \u2026 [+4120 chars]",
       "retrievedAt": "2024-06-04 07:05:53.763516",
       "internal_id": "9cff37cdf516558dc44701a8861b24ecf1b0a4e28e5797f7abe5e5da1f65eb1a",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9775,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Bss",
+      "title": "Govt takes all-out preparedness to prevent dengue diseases: Health minister",
+      "description": "We have asked all relevant organisations to remain alert for taking prompt actions to deal with any possible outbreak of the dengue diseases, he said",
+      "url": "https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_watermark_bkash/public/images/2024/06/02/2024-06-02-12-01-c7995d6e54cafe6b9e51e0ed1ae83c2d.jpg",
+      "publishedAt": "2024-06-02 15:45:06",
+      "content": "The government has taken all-out preparedness on healthcare services to prevent dengue diseases, Health and Family Welfare Minister Dr Samanta Lal said today (2 June). \"We have asked all relevant or\u2026 [+2055 chars]",
+      "retrievedAt": "2024-06-03 19:05:42.722487",
+      "internal_id": "e99daf4b8d9620b17c7f73796a934769d2079347c9d0a5767fb1c7850751c3de",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9777,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Dr. Tal Patalon, MD, LLB, MBA, Contributor, \n Dr. Tal Patalon, MD, LLB, MBA, Contributor\n https://www.forbes.com/sites/talpatalon/",
+      "title": "Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death",
+      "description": "It is unfathomable, and painful to acknowledge, but real; so many of the world\u2019s deaths are potentially avoidable.",
+      "url": "https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6626340d40158b603dc6aa93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-02 14:23:16",
+      "content": "'Boy in Boat', 125X150 cm, Oil on Linen, 2020 by Gideon Rubin// He needs a data lake, but also clean ... [+] waters. He is every child. @ Gideon Rubin It is unfathomable, and painful to acknowledge\u2026 [+4703 chars]",
+      "retrievedAt": "2024-06-03 19:05:43.804423",
+      "internal_id": "cb9f38326f5b75ed7f909426ed77202e9c380cc63ecf28bcf58e01fbd70afb5b",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9773,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Alex Viveros",
+      "title": "To track H5N1, these scientists test wildlife from as far away as Hawaii",
+      "description": "It\u2019s still an open question, experts say, what will happen as the bird flu virus continues to spread.",
+      "url": "https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/wXqakISt59Fi2Wq6F8pKtDlhVo4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SXJHFO7PE5FYPHY3ELG3MALU4I.JPG",
+      "publishedAt": "2024-06-02 10:00:00",
+      "content": "The lab, which tests animal samples from across the country, offers a peek at how scientists are racing to learn more about the virus, which experts are concerned may one day evolve to more easily in\u2026 [+6112 chars]",
+      "retrievedAt": "2024-06-03 19:05:41.902090",
+      "internal_id": "1ab1ba299add997a2ea58ba129b5d5a3feef234c8071f13bc53bf7a6cde71bb3",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9776,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Kathmandu metropolis urges citizens to take preventive measures against Dengue",
+      "description": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local government has cautioned residents about the heightened risk of d\u2026",
+      "url": "https://english.khabarhub.com/2024/02/358993/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-06-02 08:45:26",
+      "content": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local gove\u2026 [+1180 chars]",
+      "retrievedAt": "2024-06-03 19:05:42.737377",
+      "internal_id": "9309a113c5b071213377bb88a0f68393f730ff6bfeae58e2652876d26db892b1",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 9774,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
+      "title": "\u0647\u0634\u062f\u0627\u0631 \u062f\u0631\u0628\u0627\u0631\u0647 \u062a\u0628 \u062f\u0627\u0646\u06af \u0648 \u0639\u0644\u0627\u0626\u0645 \u0627\u06cc\u0646 \u0628\u06cc\u0645\u0627\u0631\u06cc",
+      "description": "\u0631\u0626\u06cc\u0633 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0627\u0644\u0628\u0631\u0632 \u0639\u0646\u0648\u0627\u0646 \u06a9\u0631\u062f: \u0645\u0647\u0645\u062a\u0631\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0628\u0631\u0627\u06cc \u062c\u0644\u0648\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u067e\u0634\u0647 \u0646\u0627\u0642\u0644 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062a\u0628 \u062f\u0627\u0646\u06af ( \u067e\u0634\u0647 \u0645\u0647\u0627\u062c\u0645 \u0622\u0626\u062f\u0633 ) \u0628\u0647\u0633\u0627\u0632\u06cc \u0645\u062d\u06cc\u0637 \u0648 \u0627\u0632 \u0628\u06cc\u0646 \u0628\u0631\u062f\u0646 \u0622\u0628\u200c\u0647\u0627\u06cc \u0631\u0627\u06a9\u062f \u06a9\u0647 \u0632\u06cc\u0633\u062a\u06af\u0627\u0647 \u0645\u0646\u0627\u0633\u0628 \u0627\u06cc\u0646 \u067e\u0634\u0647 \u0627\u0633\u062a\u060c \u062f\u0631 \u0645\u062d\u0644 \u0632\u0646\u062f\u06af\u06cc \u0627\u0633\u062a.",
+      "url": "https://www.isna.ir/news/1403031308826/\u0647\u0634\u062f\u0627\u0631-\u062f\u0631\u0628\u0627\u0631\u0647-\u062a\u0628-\u062f\u0627\u0646\u06af-\u0648-\u0639\u0644\u0627\u0626\u0645-\u0627\u06cc\u0646-\u0628\u06cc\u0645\u0627\u0631\u06cc",
+      "urlToImage": "https://cdn.isna.ir/d/2024/06/02/4/63055736.jpg?ts=1717316636429",
+      "publishedAt": "2024-06-02 08:44:28",
+      "content": "/ : ( ) . : . : ( ) . (Dengue fever) . . . : #",
+      "retrievedAt": "2024-06-03 19:05:42.636287",
+      "internal_id": "9351b30c8fabafbc4ad85394eda8931b1f5bc13b9895b014e5159bcc1facdc8c",
       "publishedAtLabel": "Jun 2"
     }
   ]

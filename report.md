@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-07-15 19:05
-- **Most recent article:** 2024-07-14 18:27:42
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-07-16 07:06
+- **Most recent article:** 2024-07-15 07:00:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 58 | 115 | 62 | 105 | 52 | 95 | 4 | 491 |
-| h5n1 | 76 | 55 | 29 | 36 | 59 | 52 | 4 | 311 |
+| dengue | 61 | 115 | 62 | 105 | 52 | 95 | 8 | 498 |
+| h5n1 | 77 | 55 | 29 | 36 | 59 | 52 | 8 | 316 |
 | mpox | 8 | 26 | 14 | 46 | 21 | 26 | 2 | 143 |
-| malaria | 20 | 37 | 20 | 24 | 15 | 14 | 1 | 131 |
-| zika | 0 | 12 | 3 | 17 | 20 | 12 | 0 | 64 |
-| measles | 11 | 7 | 11 | 8 | 9 | 12 | 3 | 61 |
+| malaria | 21 | 37 | 20 | 24 | 15 | 14 | 2 | 133 |
+| zika | 0 | 12 | 3 | 17 | 20 | 12 | 1 | 65 |
+| measles | 11 | 7 | 11 | 8 | 9 | 12 | 4 | 62 |
 | chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 0 | 53 |
 | pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 0 | 37 |
-| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 2 | 32 |
+| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 3 | 33 |
 | hpai | 2 | 4 | 4 | 3 | 3 | 5 | 1 | 22 |
 | meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 0 | 19 |
 | typhoid | 1 | 1 | 2 | 3 | 4 | 6 | 0 | 17 |
@@ -32,7 +32,13 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-29 (zika)
+
+- [Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms) (The Times of India)
+
 ## 24-29 (rabies)
+
+- [Geographic Distribution of Rabies Virus and Genomic Sequence Alignment of Wild and Vaccine Strains, Kenya](https://wwwnc.cdc.gov/eid/article/30/8/23-0876_article) (Cdc.gov)
 
 - [Rabiessälar plågar Sydafrika](https://www.svd.se/a/nyywbo/rabiessalar-plagar-sydafrika) (Svenska Dagbladet)
 
@@ -46,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (measles)
 
+- [India logs third highest number of children not vaccinated against measles after Nigeria and Congo](https://theprint.in/health/india-logs-third-highest-number-of-children-not-vaccinated-against-measles-after-nigeria-and-congo/2174357/) (ThePrint)
+
 - [DR Congo faces catastrophic health, humanitarian crisis](https://www.citizen.digital/news/dr-congo-faces-catastrophic-health-humanitarian-crisis-n345808) (Citizen.digital)
 
 - [TWiV 1131: Mootant influenza H5N1 virus](https://www.microbe.tv/twiv/twiv-1131/) (Microbe.tv)
@@ -53,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis](https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis) (Zerohedge.com)
 
 ## 24-29 (malaria)
+
+- [Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms) (The Times of India)
 
 - [El granjero que se enfrenta a la malaria en el corazón de África](https://www.elmundo.es/ciencia-y-salud/salud/2024/07/14/668a7130e4d4d847328b45a6.html) (El Mundo)
 
@@ -68,6 +78,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (h5n1)
 
+- [Vogelgrippe: Welche Impfstoffe in Europa bereit stehen](https://t3n.de/news/vogelgrippe-welche-impfstoffe-in-europa-bereit-stehen-1635241/) (T3n)
+
+- [Colorado confirms four human bird flu infections, fifth suspected](https://www.channelnewsasia.com/world/human-bird-flu-infections-united-states-colorado-h5n1-cdc-4480271) (CNA)
+
+- [Colorado confirms four human bird flu infections, fifth suspected](https://www.investing.com/news/world-news/colorado-confirms-four-human-bird-flu-infections-fifth-suspected-3518309) (Investing.com)
+
+- [Ultrasensitive detection of the H5N1 nucleic acid fragment by ICP-MS using DNA dendrimer-carried silver nanoparticle labeling](https://pubs.rsc.org/en/content/articlelanding/2024/an/d4an00746h) (Royal Society of Chemistry)
+
 - [Vogelgrippe breitet sich aus: Diese Regionen sind betroffen](https://www.morgenpost.de/ratgeber-wissen/article406784003/vogelgrippe-breitet-sich-aus-diese-regionen-sind-betroffen.html) (Berliner Morgenpost)
 
 - [“Un mayor riesgo para la salud pública”: alertan que aumenta el “potencial pandémico” de la gripe aviar](https://www.lanacion.com.ar/sociedad/un-mayor-riesgo-para-la-salud-publica-alertan-que-aumenta-el-potencial-pandemico-de-la-gripe-aviar-nid14072024/) (La Nacion)
@@ -77,6 +95,14 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1131: Mootant influenza H5N1 virus](https://www.microbe.tv/twiv/twiv-1131/) (Microbe.tv)
 
 ## 24-29 (dengue)
+
+- [Plato vs Democracy](https://existentialcomics.com/comic/559) (Existentialcomics.com)
+
+- [Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms) (The Times of India)
+
+- [Over 30,000 dengue cases, 12 fatalities reported in Sri Lanka this year](http://en.people.cn/n3/2024/0715/c90000-20193571.html) (People.cn)
+
+- [Dengue count breaches 3k-mark in city](https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-in-bengaluru-cross-3000-mark/articleshow/111739017.cms) (The Times of India)
 
 - [When is dengue most common in India? How to stay safe](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/when-is-dengue-most-common-in-india-how-to-stay-safe/articleshow/111736414.cms) (The Times of India)
 
@@ -2716,6 +2742,8 @@ Source: [News API](https://newsapi.org/)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
+- [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
+
 ## 24-23 (leptospirosis)
 
 - [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
@@ -2880,6 +2908,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
+- [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
+
 ## 24-23 (dengue)
 
 - [Govt still mulling using costly Qdenga vaccine](https://www.thestar.com.my/news/nation/2024/06/09/govt-still-mulling-using-costly-qdenga-vaccine) (The Star Online)
@@ -2997,6 +3027,12 @@ Source: [News API](https://newsapi.org/)
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.ru/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.ru)
 
 - [5 mitos e 5 verdades sobre a dengue e o mosquito Aedes aegypti](https://olhardigital.com.br/2024/06/02/medicina-e-saude/5-mitos-e-5-verdades-sobre-a-dengue-e-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
+
+- [Govt takes all-out preparedness to prevent dengue diseases: Health minister](https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781) (Tbsnews.net)
+
+- [Kathmandu metropolis urges citizens to take preventive measures against Dengue](https://english.khabarhub.com/2024/02/358993/) (Khabarhub.com)
+
+- [هشدار درباره تب دانگ و علائم این بیماری](https://www.isna.ir/news/1403031308826/هشدار-درباره-تب-دانگ-و-علائم-این-بیماری) (Isna.ir)
 
 ## 24-23 (chikungunya)
 
