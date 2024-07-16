@@ -1,8 +1,568 @@
 {
-  "last_updated": "2024-07-16 07:06",
-  "count_articles_total": 1331,
-  "count_articles_new": 10,
+  "last_updated": "2024-07-16 19:06",
+  "count_articles_total": 1357,
+  "count_articles_new": 31,
   "articles": [
+    {
+      "id": 11128,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "HILAIRE ZON Associated Press",
+      "title": "A 'new era' in malaria control has begun with a vaccination campaign for children in Ivory Coast",
+      "description": "Health workers in Ivory Coast have begun giving children the latest malaria vaccine",
+      "url": "https://abcnews.go.com/Technology/wireStory/new-era-malaria-control-begun-vaccination-campaign-children-111962573",
+      "urlToImage": "https://i.abcnewsfe.com/a/075c057c-c760-4568-a0e8-a5b31135feea/wirestory_9169cc83fa3b491484c001470dcf2b44_16x9.jpg?w=1600",
+      "publishedAt": "2024-07-15 19:02:31",
+      "content": "ABIDJAN, Ivory Coast -- Health workers in Ivory Coast began giving children the latest malaria vaccine on Monday, the beginning of a regional campaign that experts hope might curb the impact of one o\u2026 [+2382 chars]",
+      "retrievedAt": "2024-07-16 19:06:13.282482",
+      "internal_id": "d1b1097686d48dc46e2a062a62223271501d61cb3c7bd97694ccc77fa9f8a91d",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11125,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas inicia aplica\u00e7\u00e3o da 2\u00aa dose contra dengue e distribui vacina de Covid-19 a postos",
+      "description": "Prefeitura havia admitido, na semana passada, que estava sem doses contra a dengue para fazer a segunda aplica\u00e7\u00e3o. Campinas recebe nova remessa de vacina contra a dengue Fernanda Sunega A Secretaria de Sa\u00fade de Campinas (SP) iniciou, nesta segunda-feira (15),\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/07/15/campinas-inicia-aplicacao-da-2a-dose-de-vacina-contra-dengue-e-distribui-imunizante-de-covid-19-a-postos.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/VNv3cAaoLRHxXMpImR43XxhrwUo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/B/WmDPdiSLG3UrupsAs65A/fernanda-sunega-qdenga.jpeg",
+      "publishedAt": "2024-07-15 18:48:23",
+      "content": "Veja, abaixo, os detalhes das imuniza\u00e7\u00f5es para cada doen\u00e7a No caso da vacina contra dengue, os jovens que foram vacinados com a primeira dose devem levar documento de identidade com foto e a carteir\u2026 [+3466 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.897447",
+      "internal_id": "9992d6beeb66998fdd85bb53e9512c8d5988f01be088e2c360087b3039ca887c",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11130,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "HILAIRE ZON Associated Press",
+      "title": "A 'new era' in malaria control has begun with a vaccination campaign for children in Ivory Coast",
+      "description": "Health workers in Ivory Coast have begun giving children the latest malaria vaccine",
+      "url": "https://abcnews.go.com/Health/wireStory/new-era-malaria-control-begun-vaccination-campaign-children-111962571",
+      "urlToImage": "https://i.abcnewsfe.com/a/075c057c-c760-4568-a0e8-a5b31135feea/wirestory_9169cc83fa3b491484c001470dcf2b44_16x9.jpg?w=1600",
+      "publishedAt": "2024-07-15 18:46:53",
+      "content": "ABIDJAN, Ivory Coast -- Health workers in Ivory Coast began giving children the latest malaria vaccine on Monday, the beginning of a regional campaign that experts hope might curb the impact of one o\u2026 [+2382 chars]",
+      "retrievedAt": "2024-07-16 19:06:13.293988",
+      "internal_id": "8162b37462e47bd9ae6bc872bc1b4372117e23f66865e2ecda0f4192d066f89e",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11129,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "HILAIRE ZON Associated Press",
+      "title": "A 'new era' in malaria control has begun with a vaccination campaign for children in Ivory Coast",
+      "description": "Health workers in Ivory Coast have begun giving children the latest malaria vaccine",
+      "url": "https://abcnews.go.com/International/wireStory/new-era-malaria-control-begun-vaccination-campaign-children-111962569",
+      "urlToImage": "https://i.abcnewsfe.com/a/075c057c-c760-4568-a0e8-a5b31135feea/wirestory_9169cc83fa3b491484c001470dcf2b44_16x9.jpg?w=1600",
+      "publishedAt": "2024-07-15 18:46:51",
+      "content": "ABIDJAN, Ivory Coast -- Health workers in Ivory Coast began giving children the latest malaria vaccine on Monday, the beginning of a regional campaign that experts hope might curb the impact of one o\u2026 [+2382 chars]",
+      "retrievedAt": "2024-07-16 19:06:13.288529",
+      "internal_id": "1b53c38c2f7036f1a7747c20984b20eb670bb8510ae2e22fbee57406de213cb5",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11127,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "HILAIRE ZON",
+      "title": "A 'new era' in malaria control has begun with a vaccination campaign for children in Ivory Coast",
+      "description": "Health workers in Ivory Coast began giving children the latest malaria vaccine on Monday, the beginning of a regional campaign that experts hope might curb the impact of one of Africa's top killers.",
+      "url": "https://www.startribune.com/a-new-era-in-malaria-control-has-begun-with-a-vaccination-campaign-for-children-in-ivory-coast/600380895/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1720545114",
+      "publishedAt": "2024-07-15 18:43:00",
+      "content": "ABIDJAN, Ivory Coast Health workers in Ivory Coast began giving children the latest malaria vaccine on Monday, the beginning of a regional campaign that experts hope might curb the impact of one of A\u2026 [+2378 chars]",
+      "retrievedAt": "2024-07-16 19:06:13.276561",
+      "internal_id": "efc222a648b2606ddef4cd1e8a84ae9cd11f9125107cbeb0e6e24492498cfa3b",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11134,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "Second malaria vaccine launched in Ivory Coast marks new milestone",
+      "description": "LONDON \u2014 The world's second vaccine against malaria was launched on Monday as Ivory Coast began a routine vaccine program using shots developed by the University of Oxford and the Serum Institute of India. The introduction of the World Health Organization \u2026",
+      "url": "https://www.voanews.com/a/second-malaria-vaccine-launched-in-ivory-coast-marks-new-milestone/7699056.html",
+      "urlToImage": "https://gdb.voanews.com/BA7BFB1D-D01A-4CC6-AF54-E14437439D51.jpg",
+      "publishedAt": "2024-07-15 18:23:13",
+      "content": "LONDON The world's second vaccine against malaria was launched on Monday as Ivory Coast began a routine vaccine program using shots developed by the University of Oxford and the Serum Institute of I\u2026 [+1989 chars]",
+      "retrievedAt": "2024-07-16 19:06:13.320703",
+      "internal_id": "65a3bab328dfaf64a1af06b9d3e6ced82517755727714550c2de9980a27dfd2c",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11133,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Press Trust of India",
+      "title": "Serum Institute rolls out new high efficacy malaria vaccine in Africa",
+      "description": "A new high efficacy malaria vaccine co-developed by the Serum Institute of India (SII) and the University of Oxford was officially rolled out on Monday when Cote d'Ivoire in West Africa became the first country to begin administering R21/Matrix-M. The vaccine\u2026",
+      "url": "https://www.business-standard.com/companies/news/serum-institute-rolls-out-new-high-efficacy-malaria-vaccine-in-africa-124071501169_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/11/thumb/featurecrop/400X400/1718071837-968.jpg",
+      "publishedAt": "2024-07-15 18:19:12",
+      "content": "Vaccine was granted WHO approval last year, and is said to have undergone a rigorous regulatory process and clinical assessment and was found to be highly effective and affordable R21 is the second \u2026 [+4363 chars]",
+      "retrievedAt": "2024-07-16 19:06:13.315369",
+      "internal_id": "72b58dae8e2bc6b111a7a7ddc0886c2540ebd54021c72a4e81571f93d61e3fea",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11113,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Jungewelt.de",
+      "author": "Michael Kohler",
+      "title": "Zoonose: Vor der n\u00e4chsten Pandemie?",
+      "description": "Das Vogelgrippevirus H5N1 breitet sich explosionsartig aus. In den USA ist es zuerst auf Rinder, wenig sp\u00e4ter auf Menschen \u00fcbergesprungen \u2022 Foto: Dado Ruvic/REUTERS",
+      "url": "https://www.jungewelt.de/artikel/479609.zoonose-vor-der-n\u00e4chsten-pandemie.html",
+      "urlToImage": "https://www.jungewelt.de/img/1100/197333.jpg",
+      "publishedAt": "2024-07-15 17:41:07",
+      "content": "In der nieders\u00e4chsischen Grafschaft Bentheim l\u00e4sst Kreisveterin\u00e4r Hermann Kramer am 29. Juni einen Gefl\u00fcgelbetrieb wegen des Verdachts auf Vogelgrippe schlie\u00dfen. Betroffene Tiere werden sofort zur Un\u2026 [+8366 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.310296",
+      "internal_id": "e15aa169a4f7cc5f796e5d6f49445c1c8c43e5730ee0f632d6d54bfb58f7920a",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11109,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "urielblanco",
+      "title": "Oklahoma se convierte en el estado n\u00famero 13 de EE.UU. en informar un brote de gripe aviar en ganado",
+      "description": "Un reba\u00f1o de ganado lechero de Oklahoma dio positivo en las pruebas de la gripe aviar H5N1, lo que eleva a 13 el n\u00famero de estados que han informado sobre reba\u00f1os afectados. The post Oklahoma se convierte en el estado n\u00famero 13 de EE.UU. en informar un brote \u2026",
+      "url": "https://cnnespanol.cnn.com/2024/07/15/oklahoma-estado-13-brote-gripe-aviar-ganado-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Copia-de-FOTO-PARA-WP-2024-07-15T110422.554.jpg?quality=100&strip=info",
+      "publishedAt": "2024-07-15 17:18:36",
+      "content": "(CNN) -- Un reba\u00f1o de ganado lechero de Oklahoma dio positivo en las pruebas de la gripe aviar H5N1, lo que eleva a 13 el n\u00famero de estados que han informado sobre reba\u00f1os afectados, seg\u00fan anunci\u00f3 el\u2026 [+599 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.255708",
+      "internal_id": "23e56afdc49d6fddca4f6c9ace8851c8467aee734c618a4c0ff29693198670bc",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11117,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "KPTV.com",
+      "author": "Associated Press",
+      "title": "US health officials confirm 4 new bird flu cases in Colorado poultry workers",
+      "description": "Hundreds of commercial poultry flocks in more than 30 states have reported H5N1 or other types of bird flu.",
+      "url": "https://www.kptv.com/2024/07/15/us-health-officials-confirm-4-new-bird-flu-cases-colorado-poultry-workers/",
+      "urlToImage": "https://gray-kptv-prod.cdn.arcpublishing.com/resizer/v2/PWGCBFTR4YLFWOXX2ZRG3IOEOA.jpg?auth=e0b3126a786607203b16eec943fdf3e4e553584337398e43d35a0404cb1a88a4&width=1200&height=600&smart=true",
+      "publishedAt": "2024-07-15 17:00:39",
+      "content": "(AP) - Four poultry workers in Colorado have been diagnosed with bird flu, health officials confirmed Sunday. The new cases bring the U.S. total to nine since the first human case of the current out\u2026 [+2082 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.357349",
+      "internal_id": "321fdb5f915aa9ed7c22f7f4d36cbe48cf612615e8a4898185685dca2f46a1c9",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11105,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Montreal Public Health reports 2nd measles case this month",
+      "description": "A person with measles was on board a flight from Rome that landed in Montreal on July 8, Montreal Public Health has confirmed. It reported another case last Friday.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-case-confirmed-at-montreal-airport-1.7263901",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2024-07-15 17:00:15",
+      "content": "Montreal Public Health is warning of a measles case which has exposed travellers at the Pierre-Eliott-Trudeau International Airport. The infected person was on board an Air Transat flight, TS403, fr\u2026 [+1402 chars]",
+      "retrievedAt": "2024-07-16 19:06:11.598383",
+      "internal_id": "5f204314858f9fe9a524f2ead9779ef141b88f2f5858e217f288a145fbcfa907",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11122,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "En partenariat avec Destination Sant\u00e9",
+      "title": "Sant\u00e9. JO 2024 : en combien de temps le moustique tigre peut-il transmettre une maladie ?",
+      "description": "Le moustique tigre est capable de transmettre les virus de la dengue, du chikungunya, de Zika, d\u2019Usutu ou du West Nile. Dans la perspective des Jeux olympiques de Paris 2024, alors qu'un premier cas de dengue autochtone depuis le d\u00e9but de l'ann\u00e9e vient d'\u00eatre\u2026",
+      "url": "https://www.ledauphine.com/magazine-sante/2024/07/15/jo-2024-en-combien-de-temps-le-moustique-tigre-peut-il-transmettre-une-maladie",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/0D6152C0-CD1C-4E5E-8E3D-84180F3013E8/FB1200/photo-1720531165.jpg",
+      "publishedAt": "2024-07-15 17:00:00",
+      "content": "Les Jeux Olympiques de Paris 2024 se tiendront du vendredi 26 juillet au dimanche 11 ao\u00fbt. A cette occasion, la capitale fran\u00e7aise et les d\u00e9partements qui accueillent des \u00e9preuves, verront affluer de\u2026 [+3873 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.835350",
+      "internal_id": "06463265c66c02da5a5034eb5d981f63fc4b43b0bbd141f75def3cc27af3d1d6",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11126,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Everout.com",
+      "author": "EverOut Staff",
+      "title": "The Top 40 Events in Seattle This Week: July 15\u201321, 2024",
+      "description": "Capitol Hill Block Party, Tasting Notes with Chef J. Kenji Lopez-Alt, and More by EverOut Staff Hey, Seattle! An exciting week lies ahead, and we're here to guide you through it with standout event picks from Capitol Hill Block Party to The Roots an\u2026",
+      "url": "https://everout.com/seattle/articles/the-top-40-events-in-seattle-this-week-july-15-21-2024/c5543/",
+      "urlToImage": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTcyMDkyMTEzMTE5NDc3MS1jaGFwcGVsbDIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogMTIwMCwgImhlaWdodCI6IDYzMH19fQ==",
+      "publishedAt": "2024-07-15 17:00:00",
+      "content": "Jump to: Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | Multi-Day LIVE MUSIC Dengue FeverRemindLikeListLos Angeles-based ensemble Dengue Fever draws inspiration from Cambodi\u2026 [+25499 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.912128",
+      "internal_id": "27cf9d1e53f4d246f1b69fb9ad5801b8bafbecdef91a20114aa46426420b600b",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11114,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Daily Beast",
+      "author": "Christopher Gavin",
+      "title": "Four Confirmed Human Cases of Bird Flu Recorded in Colorado",
+      "description": "Dado Ruvic/Iullstration/Reuters Testing has confirmed four poultry workers in Colorado were infected with the H5N1 bird flu virus, state health officials said Sunday, with results of a fifth presumptive positive case still pending. The U.S. Centers for Disea\u2026",
+      "url": "https://www.thedailybeast.com/four-confirmed-human-cases-of-bird-flu-recorded-in-colorado",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1969,w_3500,x_0,y_429/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1721061361/2024-06-10T171201Z_99087167_RC2H88AXDL11_RTRMADP_3_HEALTH-BIRD-FLU_i4udrn",
+      "publishedAt": "2024-07-15 16:59:19",
+      "content": "Testing has confirmed four poultry workers in Colorado were infected with the H5N1 bird flu virus, state health officials said Sunday, with results of a fifth presumptive positive case still pending.\u2026 [+766 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.323279",
+      "internal_id": "4adc30ea7e561b18b26370382409675948629f891cf4a90251031724bebced03",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11132,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Serum Institute of India's new 'high efficacy' malaria vaccine rolls out in Africa",
+      "description": "The Serum Institute of India (SII) and Oxford University have launched a \"high efficacy\" malaria vaccine, R21/Matrix-M, in Cote d'Ivoire. Approved by the WHO, the vaccine is effective, affordable, and can be mass-produced quickly. SII aims to produce 100 mill\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/serum-institute-of-indias-new-high-efficacy-malaria-vaccine-rolls-out-in-africa/articleshow/111762121.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111762126,width-1200,height-630,imgsize-13540,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-15 16:55:39",
+      "content": "A new \"high efficacy\" malaria vaccine co-developed by the Serum Institute of India (SII) and the University of Oxford was officially rolled out on Monday when Cote d'Ivoire in West Africa became the \u2026 [+3772 chars]",
+      "retrievedAt": "2024-07-16 19:06:13.309334",
+      "internal_id": "408ddb99fec434ea294eabfb02b7e920013604579d38ad8c230878a7a1f885ab",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11131,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Serum Institute's New \"High Efficacy\" Malaria Vaccine Rolls Out In Africa",
+      "description": "A new \"high efficacy\" malaria vaccine co-developed by the Serum Institute of India (SII) and the University of Oxford was officially rolled out on Monday when Cote d'Ivoire in West Africa became the first country to begin administering R21/Matrix-M.",
+      "url": "https://www.ndtv.com/world-news/serum-institute-of-indias-new-high-efficacy-malaria-vaccine-rolls-out-in-africa-6112995",
+      "urlToImage": "https://c.ndtvimg.com/2021-07/op395kok_vaccine-generic_625x300_14_July_21.jpg",
+      "publishedAt": "2024-07-15 16:47:38",
+      "content": "R21 is the second malaria vaccine available in Sub-Saharan Africa following RTS,S London: A new \"high efficacy\" malaria vaccine co-developed by the Serum Institute of India (SII) and the University \u2026 [+3924 chars]",
+      "retrievedAt": "2024-07-16 19:06:13.300210",
+      "internal_id": "1587f7b783b064f6e13c7636419851259fb0d56bb40d87a452abafad0b24ee88",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11104,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Nearly 3 in 4 infants live where low vaccine coverage drives measles outbreaks: UN",
+      "description": "About 14.5 million children failed to get vaccinated in 2023 amid a rise in global conflicts that hindered supplies, according to UN estimates.",
+      "url": "https://www.cbc.ca/news/health/child-vaccination-who-1.7263699",
+      "urlToImage": "https://i.cbc.ca/1.7263830.1721057172!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/health-polio-ukraine.JPG",
+      "publishedAt": "2024-07-15 16:02:38",
+      "content": "More children were left out of critical vaccination drives for diseases such as diphtheria, tetanus and whooping cough last year as a rise in conflicts across the globe hindered the supply of life-sa\u2026 [+2906 chars]",
+      "retrievedAt": "2024-07-16 19:06:11.571828",
+      "internal_id": "5a3f870d10db75f3dc3d735e4aea32bd2cf20cab585872574fd8ab8aec5856c6",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11120,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Alice Park",
+      "title": "Dengue Is Rising in the U.S. Here\u2019s How to Protect Yourself",
+      "description": "Here's what to know about the rise of dengue in the U.S., including how to protect yourself.",
+      "url": "https://time.com/6998072/dengue-mosquitoes-how-to-protect-yourself/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/07/GettyImages-1320270631.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-07-15 15:46:44",
+      "content": "Dengue isn't normally a disease that people in the U.S. are concerned about. But cases in the U.S. this year are already closing in on the total number of cases in all of 2023. More than 9.7 million \u2026 [+7385 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.795611",
+      "internal_id": "5a6ed87f127f9d5a4252570c9e0b3c73dca89744c300e49c864ab234ee316ee3",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11110,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Colorado Disaster Declaration Over 5 Bird Flu Cases",
+      "description": "Colorado\u2019s governor has declared a disaster emergency in response to the first cluster of human H5N1 infections on a single United States farm. On Sunday, the State Department of Health said that the commercial egg operation was impacted by five human H5N1 o\u2026",
+      "url": "https://www.shtfplan.com/member-exclusive/colorado-disaster-declaration-over-5-bird-flu-cases",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/07/birdflu.jpg",
+      "publishedAt": "2024-07-15 15:00:20",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.261104",
+      "internal_id": "533fa1b898fe249b3c6fec89adce69b79f356c559bb08fed0783bbd964307448",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11112,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Saarah Khalid, Stephen Gunther, Padmanabhan Badrinath",
+      "title": "UK food poisoning outbreak: a call to invest in public health",
+      "description": "The UK\u2019s recent E coli outbreak1 has received extensive media coverage.2 There is also a large ongoing outbreak of Salmonella in the US34 and increasing concerns about the highly pathogenic avian influenza H5N1 outbreak there among cattle, which is spreading \u2026",
+      "url": "https://www.bmj.com/content/386/bmj.q1516",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/386/8435.cover-source.jpg",
+      "publishedAt": "2024-07-15 14:46:11",
+      "content": "Saarah Khalid, foundation year 2 trainee, Stephen Gunther, director of public health, Padmanabhan Badrinath, interim consultant in public health medicineDi\u2026 [+531 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.292743",
+      "internal_id": "43c791433f7f1f5f41840d39625ef1f324f4bdd1c5049367d2a119b71f89e379",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11124,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Casos de dengue no inverno de 2024 j\u00e1 superam total registrado no ano passado no RS",
+      "description": "Eventos clim\u00e1ticos, como a enchente de maio, podem estar contribuindo para o aumento at\u00edpico de casos no inverno.",
+      "url": "https://www.terra.com.br/noticias/casos-de-dengue-no-inverno-de-2024-ja-superam-total-registrado-no-ano-passado-no-rs,3863c59d0b488c0a2b14ed45b375aa88l8mrqyej.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/07/15/1025759246-aedes-aegypti-mosquito-close-up-mosquito-sucking-human-blood.jpg",
+      "publishedAt": "2024-07-15 14:17:34",
+      "content": "O Rio Grande do Sul registrou 2.493 casos de dengue nas \u00faltimas quatro semanas epidemiol\u00f3gicas (de domingo a s\u00e1bado), superando os 2.194 casos confirmados durante todas as semanas epidemiol\u00f3gicas do \u2026 [+1747 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.881659",
+      "internal_id": "f26a5410c3e215877a802b87c4f4f112e0d0645d04acf9101032b78a49d359d9",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11119,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Jamie Gumbrecht",
+      "title": "Bird flu: Five human cases identified in Colorado poultry workers",
+      "description": "Five cases of bird flu have been identified among workers culling poultry at a farm in northeast Colorado, the state department of health said on Sunday. The commercial egg operation was impacted by H5N1 outbreaks that have also affected wild birds and dairy \u2026",
+      "url": "https://www.cnn.com/2024/07/15/health/colorado-bird-flu-humans-confirmed/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-151052413-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-07-15 12:57:32",
+      "content": "Five cases of bird flu have been identified among workers culling poultry at a farm in northeast Colorado, the state department of health said on Sunday. The commercial egg operation was impacted by \u2026 [+1830 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.370993",
+      "internal_id": "c5681756b839aa62f7cfac4701ab33dbf0c396eab3e8fa8cca5ee4e3cbf69d0f",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11106,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Monday, July 15, 2024",
+      "description": "Heat health dangers, gun violence and mental health, abortion access, ACOs, doctor pay, immunizations, covid, and more are in the news.",
+      "url": "https://kffhealthnews.org/morning-briefing/monday-july-15-2024/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2024-07-15 12:55:34",
+      "content": "Officials Raise Awareness Over Measles Cases And Exposure In Mich., NYC, N.H. Meanwhile, Colorado reports four new human cases of bird flu, and a national summertime wave of covid appears to grow. \u2026 [+4934 chars]",
+      "retrievedAt": "2024-07-16 19:06:11.604540",
+      "internal_id": "bf2d3f7b4c1d0db5380b32f3746efd2e9754221afe3044be8257b90e4a76dd87",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11121,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": "L\u00e9ane Burtier",
+      "title": "Sympt\u00f4mes d\u2019infection en expatriation : quand s\u2019inqui\u00e9ter ?",
+      "description": "Paludisme, fi\u00e8vre jaune, dengue\u2026 Nombreuses sont les maladies auxquelles nous sommes moins, voire pas du tout, expos\u00e9s en France. Alors, lors d\u2019une expatriation dans un pays o\u00f9 les risques d\u2019infection existent, mieux vaut bien se pr\u00e9parer et se prot\u00e9ger.",
+      "url": "https://www.courrierinternational.com/article/pratique-symptomes-d-infection-en-expatriation-quand-s-inquieter",
+      "urlToImage": "https://focus.courrierinternational.com/2022/04/28/66/0/1800/1200/1200/630/60/0/cabbf8e_259695034-80334eb-817980052-6ddeda6-1644006761764-logoarticle-2-0-10.png",
+      "publishedAt": "2024-07-15 12:30:05",
+      "content": "Lanc\u00e9 en avril 2016 et destin\u00e9 aux expatri\u00e9s fran\u00e7ais et aux candidats \u00e0 lexpatriation, Courrier Expat offre des informations puis\u00e9es dans la presse internationale sur lenvironnement professionnel et\u2026 [+530 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.802449",
+      "internal_id": "61f102bffb0df7766409a533e6bd7dd8956a9e1c3c59e5e1e358076e4dd57311",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11116,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Gemma Crotty",
+      "title": "CSIRO warns highly contagious strain of bird flu H5N1 likely to hit Australia amid current outbreak involving three strains",
+      "description": "CSIRO warns highly contagious strain of bird flu H5N1 likely to hit Australia amid current outbreak involving three strainsskynews.com.au",
+      "url": "https://www.skynews.com.au/lifestyle/health/csiro-warns-highly-contagious-strain-of-bird-flu-h5n1-likely-to-hit-australia-amid-current-outbreak-involving-three-strains/news-story/deb204acdb3aa98d439ae3f983bb26d6",
+      "urlToImage": "https://content.api.news/v3/images/bin/e7c7c93c8eb1f7f24e493554393597ef",
+      "publishedAt": "2024-07-15 11:02:52",
+      "content": "Experts have warned another highly contagious strain of bird flu may hit Australia amid the nation's current outbreak. This comes as there has been three different strains of H7, which is a highly p\u2026 [+2636 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.351936",
+      "internal_id": "63c9989624ad63be47181f4742e56d3f0e005aa3f2c69d559573435898aa3419",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11123,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Expert shares symptoms of the new COVID variants, FLiRT and LB.1",
+      "description": "Dr. Xand van Tulleken highlights symptoms of new COVID variants FLiRT and LB.1, including fever, cough, and loss of taste. Mutations in these variants may affect transmission and vaccine efficacy. Public health measures like vaccination, mask-wearing, and han\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/expert-shares-symptoms-of-the-new-covid-variants-flirt-and-lb-1/articleshow/111753679.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111753560,width-1070,height-580,imgsize-1084779,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-15 10:22:56",
+      "content": "Dengue: Early signs and preventive measures to stay safe",
+      "retrievedAt": "2024-07-16 19:06:12.845208",
+      "internal_id": "a0fcc0251d3304b92d095a553efbecc8c4ae3d1816f4c162353728f8572bec04",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11111,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Carolyn Barber",
+      "title": "Bird flu outbreak at Colorado farm as 5 workers reported positive: Experts warn of \u2018turning point,\u2019 call for urgent action",
+      "description": "Colorado\u2019s governor has declared a disaster emergency in response to the first cluster of human H5N1 infection on a single U.S. farm.",
+      "url": "https://fortune.com/2024/07/15/bird-flu-outbreak-colorado-farm-5-workers-test-positive-experts-warn-turning-point-urgent-action-health/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-1458872534-e1721037606839.jpg?resize=1200,600",
+      "publishedAt": "2024-07-15 10:01:55",
+      "content": "For months, fearing that the current version of bird flu had a much higher chance of spreading to humans than previous iterations, experts have pushed for a more aggressive response from U.S. health \u2026 [+7859 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.275442",
+      "internal_id": "1aa5e2d0079269dbb71cbb5e1912c05bdeda17cbf42640e55489b9b66a6a5e25",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11115,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Nutztiere \u00fcbertragen die meisten Erreger",
+      "description": "Der Vogelgrippe-Erreger ist in den USA auf Rinder \u2013 und von dort auf den Menschen \u00fcbergesprungen. Solche \u00dcbertragungen von Tierkrankheiten passieren auch in \u00d6sterreich. Laut einer Netzwerkanalyse stammen die meisten Erreger von Rindern, H\u00fchnern und Fleischpro\u2026",
+      "url": "https://science.orf.at/stories/3225878/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2022%2F39%2F03%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F1503569_master_546203_ap22230666465323.jpg%3Fs%3D785fa11cd31f149e912e3ed09190baacb99b17f0",
+      "publishedAt": "2024-07-15 10:00:42",
+      "content": "H5N1 hei\u00dft das Vogelgrippevirus offiziell, eine in den USA zirkulierende Variante bereitet Fachleuten zusehends Sorge: Dort breitet sich der urspr\u00fcnglich an V\u00f6gel angepasste Erreger unter Milchk\u00fchen \u2026 [+4590 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.328260",
+      "internal_id": "b03b2116d1915a1ac84ace8de0912bdad3d21254c7e0e95241dbd53fa7c94cf6",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11108,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Sergio Parra, Sergio Parra",
+      "title": "\u00bfC\u00f3mo se prepara el mundo para una posible pandemia de gripe aviar?",
+      "description": "La gripe aviar H5N1 se ha detectado hasta ahora en 145 reba\u00f1os de ganado y 4 trabajadores agr\u00edcolas en una docena de estados de Estados Unidos. Los investigadores creen que probablemente hay muchos m\u00e1s casos no detectados en vacas y personas. Si bien este vir\u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/gripe-aviar-podria-convertirse-proxima-pandemia-y-asi-es-como-nos-estamos-preparando-para-ella_22787",
+      "urlToImage": "https://content.nationalgeographic.com.es/medio/2024/07/15/vacas_15e254b0_1280_240715085431_1200x630.jpg",
+      "publishedAt": "2024-07-15 10:00:00",
+      "content": "La gripe aviar H5N1 se ha detectado hasta ahora en 145 reba\u00f1os de ganado y 4 trabajadores agr\u00edcolas en una docena de estados de Estados Unidos. Los investigadores creen que probablemente hay muchos m\u2026 [+4280 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.249148",
+      "internal_id": "b41e1b68a8823b887dd6e5ed269568eb562bd43fcadf460a364cd5ceb51e47cd",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11107,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Agence France-Presse)",
+      "title": "UN alarmed as childhood immunization levels stall",
+      "description": "Geneva \u2014 Global childhood vaccination levels have stalled, leaving millions more children un- or under-vaccinated than before the pandemic, the U.N. said Monday, warning of dangerous coverage gaps enabling outbreaks of diseases like measles. In 2023, 84% of\u2026",
+      "url": "https://www.voanews.com/a/un-alarmed-as-childhood-immunization-levels-stall/7698410.html",
+      "urlToImage": "https://gdb.voanews.com/516B646F-EEF9-4DCC-B397-700FD120C711.jpg",
+      "publishedAt": "2024-07-15 08:53:44",
+      "content": "Geneva Global childhood vaccination levels have stalled, leaving millions more children un- or under-vaccinated than before the pandemic, the U.N. said Monday, warning of dangerous coverage gaps ena\u2026 [+3758 chars]",
+      "retrievedAt": "2024-07-16 19:06:11.610562",
+      "internal_id": "3054ec5fe695c4d11ba9d0bb0b7ed46ab66892c8afe811534f5379a727b228f8",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 11118,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "Bird flu snapshot: As virus spreads, so too does pessimism about halting spread",
+      "description": "There is a growing sense that H5N1 bird flu isn\u2019t in any hurry to give up on its new hosts \u2014 U.S. cattle.",
+      "url": "https://www.statnews.com/2024/07/15/bird-flu-snapshot-h5n1-infected-herds/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/07/AP24150665352207-1024x576.jpg",
+      "publishedAt": "2024-07-15 08:33:01",
+      "content": "Bird flu snapshot: This is the latest installment in a series of regular updates on the H5N1 flu outbreak in dairy cows that STAT is publishing on Monday mornings. To read future updates, you can als\u2026 [+7558 chars]",
+      "retrievedAt": "2024-07-16 19:06:12.362449",
+      "internal_id": "047664e6a6df15f85e2b0c63abbf960427cdd166940f762097ca886da294a8c8",
+      "publishedAtLabel": "Jul 15"
+    },
     {
       "id": 11100,
       "query": [
@@ -23956,96 +24516,6 @@
       "content": "O Brasil, e mais recentemente o mundo, t\u00eam passado por grandes epidemias de dengue nas \u00faltimas d\u00e9cadas. O aumento de casos ano a ano, incluindo as fatalidades, amplifica a necessidade de informa\u00e7\u00f5es \u2026 [+4120 chars]",
       "retrievedAt": "2024-06-04 07:05:53.763516",
       "internal_id": "9cff37cdf516558dc44701a8861b24ecf1b0a4e28e5797f7abe5e5da1f65eb1a",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9775,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Bss",
-      "title": "Govt takes all-out preparedness to prevent dengue diseases: Health minister",
-      "description": "We have asked all relevant organisations to remain alert for taking prompt actions to deal with any possible outbreak of the dengue diseases, he said",
-      "url": "https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_watermark_bkash/public/images/2024/06/02/2024-06-02-12-01-c7995d6e54cafe6b9e51e0ed1ae83c2d.jpg",
-      "publishedAt": "2024-06-02 15:45:06",
-      "content": "The government has taken all-out preparedness on healthcare services to prevent dengue diseases, Health and Family Welfare Minister Dr Samanta Lal said today (2 June). \"We have asked all relevant or\u2026 [+2055 chars]",
-      "retrievedAt": "2024-06-03 19:05:42.722487",
-      "internal_id": "e99daf4b8d9620b17c7f73796a934769d2079347c9d0a5767fb1c7850751c3de",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9777,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Dr. Tal Patalon, MD, LLB, MBA, Contributor, \n Dr. Tal Patalon, MD, LLB, MBA, Contributor\n https://www.forbes.com/sites/talpatalon/",
-      "title": "Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death",
-      "description": "It is unfathomable, and painful to acknowledge, but real; so many of the world\u2019s deaths are potentially avoidable.",
-      "url": "https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6626340d40158b603dc6aa93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-06-02 14:23:16",
-      "content": "'Boy in Boat', 125X150 cm, Oil on Linen, 2020 by Gideon Rubin// He needs a data lake, but also clean ... [+] waters. He is every child. @ Gideon Rubin It is unfathomable, and painful to acknowledge\u2026 [+4703 chars]",
-      "retrievedAt": "2024-06-03 19:05:43.804423",
-      "internal_id": "cb9f38326f5b75ed7f909426ed77202e9c380cc63ecf28bcf58e01fbd70afb5b",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9773,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "Alex Viveros",
-      "title": "To track H5N1, these scientists test wildlife from as far away as Hawaii",
-      "description": "It\u2019s still an open question, experts say, what will happen as the bird flu virus continues to spread.",
-      "url": "https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/wXqakISt59Fi2Wq6F8pKtDlhVo4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SXJHFO7PE5FYPHY3ELG3MALU4I.JPG",
-      "publishedAt": "2024-06-02 10:00:00",
-      "content": "The lab, which tests animal samples from across the country, offers a peek at how scientists are racing to learn more about the virus, which experts are concerned may one day evolve to more easily in\u2026 [+6112 chars]",
-      "retrievedAt": "2024-06-03 19:05:41.902090",
-      "internal_id": "1ab1ba299add997a2ea58ba129b5d5a3feef234c8071f13bc53bf7a6cde71bb3",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9776,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Kathmandu metropolis urges citizens to take preventive measures against Dengue",
-      "description": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local government has cautioned residents about the heightened risk of d\u2026",
-      "url": "https://english.khabarhub.com/2024/02/358993/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-06-02 08:45:26",
-      "content": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local gove\u2026 [+1180 chars]",
-      "retrievedAt": "2024-06-03 19:05:42.737377",
-      "internal_id": "9309a113c5b071213377bb88a0f68393f730ff6bfeae58e2652876d26db892b1",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9774,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
-      "title": "\u0647\u0634\u062f\u0627\u0631 \u062f\u0631\u0628\u0627\u0631\u0647 \u062a\u0628 \u062f\u0627\u0646\u06af \u0648 \u0639\u0644\u0627\u0626\u0645 \u0627\u06cc\u0646 \u0628\u06cc\u0645\u0627\u0631\u06cc",
-      "description": "\u0631\u0626\u06cc\u0633 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0627\u0644\u0628\u0631\u0632 \u0639\u0646\u0648\u0627\u0646 \u06a9\u0631\u062f: \u0645\u0647\u0645\u062a\u0631\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0628\u0631\u0627\u06cc \u062c\u0644\u0648\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u067e\u0634\u0647 \u0646\u0627\u0642\u0644 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062a\u0628 \u062f\u0627\u0646\u06af ( \u067e\u0634\u0647 \u0645\u0647\u0627\u062c\u0645 \u0622\u0626\u062f\u0633 ) \u0628\u0647\u0633\u0627\u0632\u06cc \u0645\u062d\u06cc\u0637 \u0648 \u0627\u0632 \u0628\u06cc\u0646 \u0628\u0631\u062f\u0646 \u0622\u0628\u200c\u0647\u0627\u06cc \u0631\u0627\u06a9\u062f \u06a9\u0647 \u0632\u06cc\u0633\u062a\u06af\u0627\u0647 \u0645\u0646\u0627\u0633\u0628 \u0627\u06cc\u0646 \u067e\u0634\u0647 \u0627\u0633\u062a\u060c \u062f\u0631 \u0645\u062d\u0644 \u0632\u0646\u062f\u06af\u06cc \u0627\u0633\u062a.",
-      "url": "https://www.isna.ir/news/1403031308826/\u0647\u0634\u062f\u0627\u0631-\u062f\u0631\u0628\u0627\u0631\u0647-\u062a\u0628-\u062f\u0627\u0646\u06af-\u0648-\u0639\u0644\u0627\u0626\u0645-\u0627\u06cc\u0646-\u0628\u06cc\u0645\u0627\u0631\u06cc",
-      "urlToImage": "https://cdn.isna.ir/d/2024/06/02/4/63055736.jpg?ts=1717316636429",
-      "publishedAt": "2024-06-02 08:44:28",
-      "content": "/ : ( ) . : . : ( ) . (Dengue fever) . . . : #",
-      "retrievedAt": "2024-06-03 19:05:42.636287",
-      "internal_id": "9351b30c8fabafbc4ad85394eda8931b1f5bc13b9895b014e5159bcc1facdc8c",
       "publishedAtLabel": "Jun 2"
     }
   ]

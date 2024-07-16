@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-07-16 07:06
-- **Most recent article:** 2024-07-15 07:00:00
+- **New articles in last harvest:** 31
+- **Last harvest:** 2024-07-16 19:06
+- **Most recent article:** 2024-07-15 19:02:31
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 61 | 115 | 62 | 105 | 52 | 95 | 8 | 498 |
-| h5n1 | 77 | 55 | 29 | 36 | 59 | 52 | 8 | 316 |
+| dengue | 58 | 115 | 62 | 105 | 52 | 95 | 15 | 502 |
+| h5n1 | 76 | 55 | 29 | 36 | 59 | 52 | 20 | 327 |
 | mpox | 8 | 26 | 14 | 46 | 21 | 26 | 2 | 143 |
-| malaria | 21 | 37 | 20 | 24 | 15 | 14 | 2 | 133 |
-| zika | 0 | 12 | 3 | 17 | 20 | 12 | 1 | 65 |
-| measles | 11 | 7 | 11 | 8 | 9 | 12 | 4 | 62 |
-| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 0 | 53 |
+| malaria | 20 | 37 | 20 | 24 | 15 | 14 | 10 | 140 |
+| measles | 11 | 7 | 11 | 8 | 9 | 12 | 8 | 66 |
+| zika | 0 | 12 | 3 | 17 | 20 | 12 | 2 | 66 |
+| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 1 | 54 |
 | pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 0 | 37 |
 | rabies | 9 | 2 | 5 | 8 | 4 | 2 | 3 | 33 |
 | hpai | 2 | 4 | 4 | 3 | 3 | 5 | 1 | 22 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-29 (zika)
+
+- [Santé. JO 2024 : en combien de temps le moustique tigre peut-il transmettre une maladie ?](https://www.ledauphine.com/magazine-sante/2024/07/15/jo-2024-en-combien-de-temps-le-moustique-tigre-peut-il-transmettre-une-maladie) (Le Dauphiné Libéré)
 
 - [Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms) (The Times of India)
 
@@ -52,6 +54,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (measles)
 
+- [Montreal Public Health reports 2nd measles case this month](https://www.cbc.ca/news/canada/montreal/measles-case-confirmed-at-montreal-airport-1.7263901) (CBC News)
+
+- [Nearly 3 in 4 infants live where low vaccine coverage drives measles outbreaks: UN](https://www.cbc.ca/news/health/child-vaccination-who-1.7263699) (CBC News)
+
+- [Monday, July 15, 2024](https://kffhealthnews.org/morning-briefing/monday-july-15-2024/) (Kffhealthnews.org)
+
+- [UN alarmed as childhood immunization levels stall](https://www.voanews.com/a/un-alarmed-as-childhood-immunization-levels-stall/7698410.html) (VOA News)
+
 - [India logs third highest number of children not vaccinated against measles after Nigeria and Congo](https://theprint.in/health/india-logs-third-highest-number-of-children-not-vaccinated-against-measles-after-nigeria-and-congo/2174357/) (ThePrint)
 
 - [DR Congo faces catastrophic health, humanitarian crisis](https://www.citizen.digital/news/dr-congo-faces-catastrophic-health-humanitarian-crisis-n345808) (Citizen.digital)
@@ -61,6 +71,22 @@ Source: [News API](https://newsapi.org/)
 - [Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis](https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis) (Zerohedge.com)
 
 ## 24-29 (malaria)
+
+- [A 'new era' in malaria control has begun with a vaccination campaign for children in Ivory Coast](https://abcnews.go.com/Technology/wireStory/new-era-malaria-control-begun-vaccination-campaign-children-111962573) (ABC News)
+
+- [A 'new era' in malaria control has begun with a vaccination campaign for children in Ivory Coast](https://abcnews.go.com/Health/wireStory/new-era-malaria-control-begun-vaccination-campaign-children-111962571) (ABC News)
+
+- [A 'new era' in malaria control has begun with a vaccination campaign for children in Ivory Coast](https://abcnews.go.com/International/wireStory/new-era-malaria-control-begun-vaccination-campaign-children-111962569) (ABC News)
+
+- [A 'new era' in malaria control has begun with a vaccination campaign for children in Ivory Coast](https://www.startribune.com/a-new-era-in-malaria-control-has-begun-with-a-vaccination-campaign-for-children-in-ivory-coast/600380895/) (Minneapolis Star Tribune)
+
+- [Second malaria vaccine launched in Ivory Coast marks new milestone](https://www.voanews.com/a/second-malaria-vaccine-launched-in-ivory-coast-marks-new-milestone/7699056.html) (VOA News)
+
+- [Serum Institute rolls out new high efficacy malaria vaccine in Africa](https://www.business-standard.com/companies/news/serum-institute-rolls-out-new-high-efficacy-malaria-vaccine-in-africa-124071501169_1.html) (Business Standard)
+
+- [Serum Institute of India's new 'high efficacy' malaria vaccine rolls out in Africa](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/serum-institute-of-indias-new-high-efficacy-malaria-vaccine-rolls-out-in-africa/articleshow/111762121.cms) (The Times of India)
+
+- [Serum Institute's New "High Efficacy" Malaria Vaccine Rolls Out In Africa](https://www.ndtv.com/world-news/serum-institute-of-indias-new-high-efficacy-malaria-vaccine-rolls-out-in-africa-6112995) (NDTV News)
 
 - [Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms) (The Times of India)
 
@@ -77,6 +103,30 @@ Source: [News API](https://newsapi.org/)
 - [CDC Confirms Human Cases of H5 Bird Flu Among Colorado Poultry Workers](https://www.cdc.gov/media/releases/2024/p-0715-confirm-h5.html) (Cdc.gov)
 
 ## 24-29 (h5n1)
+
+- [Zoonose: Vor der nächsten Pandemie?](https://www.jungewelt.de/artikel/479609.zoonose-vor-der-nächsten-pandemie.html) (Jungewelt.de)
+
+- [Oklahoma se convierte en el estado número 13 de EE.UU. en informar un brote de gripe aviar en ganado](https://cnnespanol.cnn.com/2024/07/15/oklahoma-estado-13-brote-gripe-aviar-ganado-trax/) (CNN)
+
+- [US health officials confirm 4 new bird flu cases in Colorado poultry workers](https://www.kptv.com/2024/07/15/us-health-officials-confirm-4-new-bird-flu-cases-colorado-poultry-workers/) (KPTV.com)
+
+- [Four Confirmed Human Cases of Bird Flu Recorded in Colorado](https://www.thedailybeast.com/four-confirmed-human-cases-of-bird-flu-recorded-in-colorado) (Daily Beast)
+
+- [Colorado Disaster Declaration Over 5 Bird Flu Cases](https://www.shtfplan.com/member-exclusive/colorado-disaster-declaration-over-5-bird-flu-cases) (Shtfplan.com)
+
+- [UK food poisoning outbreak: a call to invest in public health](https://www.bmj.com/content/386/bmj.q1516) (The BMJ)
+
+- [Bird flu: Five human cases identified in Colorado poultry workers](https://www.cnn.com/2024/07/15/health/colorado-bird-flu-humans-confirmed/index.html) (CNN)
+
+- [CSIRO warns highly contagious strain of bird flu H5N1 likely to hit Australia amid current outbreak involving three strains](https://www.skynews.com.au/lifestyle/health/csiro-warns-highly-contagious-strain-of-bird-flu-h5n1-likely-to-hit-australia-amid-current-outbreak-involving-three-strains/news-story/deb204acdb3aa98d439ae3f983bb26d6) (Sky News Australia)
+
+- [Bird flu outbreak at Colorado farm as 5 workers reported positive: Experts warn of ‘turning point,’ call for urgent action](https://fortune.com/2024/07/15/bird-flu-outbreak-colorado-farm-5-workers-test-positive-experts-warn-turning-point-urgent-action-health/) (Fortune)
+
+- [Nutztiere übertragen die meisten Erreger](https://science.orf.at/stories/3225878/) (Science.orf.at)
+
+- [¿Cómo se prepara el mundo para una posible pandemia de gripe aviar?](https://www.nationalgeographic.com.es/ciencia/gripe-aviar-podria-convertirse-proxima-pandemia-y-asi-es-como-nos-estamos-preparando-para-ella_22787) (Nationalgeographic.com.es)
+
+- [Bird flu snapshot: As virus spreads, so too does pessimism about halting spread](https://www.statnews.com/2024/07/15/bird-flu-snapshot-h5n1-infected-herds/) (STAT)
 
 - [Vogelgrippe: Welche Impfstoffe in Europa bereit stehen](https://t3n.de/news/vogelgrippe-welche-impfstoffe-in-europa-bereit-stehen-1635241/) (T3n)
 
@@ -96,6 +146,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (dengue)
 
+- [Campinas inicia aplicação da 2ª dose contra dengue e distribui vacina de Covid-19 a postos](https://g1.globo.com/sp/campinas-regiao/noticia/2024/07/15/campinas-inicia-aplicacao-da-2a-dose-de-vacina-contra-dengue-e-distribui-imunizante-de-covid-19-a-postos.ghtml) (Globo)
+
+- [Santé. JO 2024 : en combien de temps le moustique tigre peut-il transmettre une maladie ?](https://www.ledauphine.com/magazine-sante/2024/07/15/jo-2024-en-combien-de-temps-le-moustique-tigre-peut-il-transmettre-une-maladie) (Le Dauphiné Libéré)
+
+- [The Top 40 Events in Seattle This Week: July 15–21, 2024](https://everout.com/seattle/articles/the-top-40-events-in-seattle-this-week-july-15-21-2024/c5543/) (Everout.com)
+
+- [Dengue Is Rising in the U.S. Here’s How to Protect Yourself](https://time.com/6998072/dengue-mosquitoes-how-to-protect-yourself/) (Time)
+
+- [Casos de dengue no inverno de 2024 já superam total registrado no ano passado no RS](https://www.terra.com.br/noticias/casos-de-dengue-no-inverno-de-2024-ja-superam-total-registrado-no-ano-passado-no-rs,3863c59d0b488c0a2b14ed45b375aa88l8mrqyej.html) (Terra.com.br)
+
+- [Symptômes d’infection en expatriation : quand s’inquiéter ?](https://www.courrierinternational.com/article/pratique-symptomes-d-infection-en-expatriation-quand-s-inquieter) (Courrier International)
+
+- [Expert shares symptoms of the new COVID variants, FLiRT and LB.1](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/expert-shares-symptoms-of-the-new-covid-variants-flirt-and-lb-1/articleshow/111753679.cms) (The Times of India)
+
 - [Plato vs Democracy](https://existentialcomics.com/comic/559) (Existentialcomics.com)
 
 - [Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms) (The Times of India)
@@ -111,6 +175,10 @@ Source: [News API](https://newsapi.org/)
 - [Ghana records dengue outbreak](https://www.thestar.com.my/news/world/2024/07/15/ghana-records-dengue-outbreak) (The Star Online)
 
 - [Pas op, in die leuke gieter uit Zuid-Frankrijk zit mogelijk een tijgermug](https://www.nrc.nl/nieuws/2024/07/14/als-je-de-leuke-gieter-uit-zuid-frankrijk-in-je-tuin-zet-ben-je-de-sjaak-dan-heb-je-tijgermuggen-waarschuwt-de-nvwa-a4859542) (Www.nrc.nl)
+
+## 24-29 (chikungunya)
+
+- [Santé. JO 2024 : en combien de temps le moustique tigre peut-il transmettre une maladie ?](https://www.ledauphine.com/magazine-sante/2024/07/15/jo-2024-en-combien-de-temps-le-moustique-tigre-peut-il-transmettre-une-maladie) (Le Dauphiné Libéré)
 
 ## 24-28 (zika)
 
@@ -2742,8 +2810,6 @@ Source: [News API](https://newsapi.org/)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
-- [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
-
 ## 24-23 (leptospirosis)
 
 - [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
@@ -2908,8 +2974,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
-- [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
-
 ## 24-23 (dengue)
 
 - [Govt still mulling using costly Qdenga vaccine](https://www.thestar.com.my/news/nation/2024/06/09/govt-still-mulling-using-costly-qdenga-vaccine) (The Star Online)
@@ -3027,12 +3091,6 @@ Source: [News API](https://newsapi.org/)
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.ru/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.ru)
 
 - [5 mitos e 5 verdades sobre a dengue e o mosquito Aedes aegypti](https://olhardigital.com.br/2024/06/02/medicina-e-saude/5-mitos-e-5-verdades-sobre-a-dengue-e-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
-
-- [Govt takes all-out preparedness to prevent dengue diseases: Health minister](https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781) (Tbsnews.net)
-
-- [Kathmandu metropolis urges citizens to take preventive measures against Dengue](https://english.khabarhub.com/2024/02/358993/) (Khabarhub.com)
-
-- [هشدار درباره تب دانگ و علائم این بیماری](https://www.isna.ir/news/1403031308826/هشدار-درباره-تب-دانگ-و-علائم-این-بیماری) (Isna.ir)
 
 ## 24-23 (chikungunya)
 
