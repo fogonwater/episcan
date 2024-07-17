@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 31
-- **Last harvest:** 2024-07-16 19:06
-- **Most recent article:** 2024-07-15 19:02:31
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-07-17 07:05
+- **Most recent article:** 2024-07-16 05:36:19
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 58 | 115 | 62 | 105 | 52 | 95 | 15 | 502 |
-| h5n1 | 76 | 55 | 29 | 36 | 59 | 52 | 20 | 327 |
+| dengue | 61 | 115 | 62 | 105 | 52 | 95 | 18 | 508 |
+| h5n1 | 77 | 55 | 29 | 36 | 59 | 52 | 28 | 336 |
+| malaria | 21 | 37 | 20 | 24 | 15 | 14 | 16 | 147 |
 | mpox | 8 | 26 | 14 | 46 | 21 | 26 | 2 | 143 |
-| malaria | 20 | 37 | 20 | 24 | 15 | 14 | 10 | 140 |
-| measles | 11 | 7 | 11 | 8 | 9 | 12 | 8 | 66 |
+| measles | 11 | 7 | 11 | 8 | 9 | 12 | 9 | 67 |
 | zika | 0 | 12 | 3 | 17 | 20 | 12 | 2 | 66 |
 | chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 1 | 54 |
 | pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 0 | 37 |
 | rabies | 9 | 2 | 5 | 8 | 4 | 2 | 3 | 33 |
-| hpai | 2 | 4 | 4 | 3 | 3 | 5 | 1 | 22 |
+| hpai | 2 | 4 | 4 | 3 | 3 | 5 | 2 | 23 |
 | meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 0 | 19 |
 | typhoid | 1 | 1 | 2 | 3 | 4 | 6 | 0 | 17 |
-| leptospirosis | 1 | 1 | 1 | 2 | 1 | 3 | 2 | 11 |
+| leptospirosis | 1 | 1 | 1 | 2 | 1 | 3 | 3 | 12 |
 | yersinia | 1 | 0 | 0 | 2 | 0 | 6 | 0 | 9 |
 
 
@@ -54,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (measles)
 
+- [After measles is detected at Brooklyn migrant shelter, city health officials quarantining some people there](https://www.cbsnews.com/newyork/news/measles-at-brooklyn-migrant-shelter/) (CBS News)
+
 - [Montreal Public Health reports 2nd measles case this month](https://www.cbc.ca/news/canada/montreal/measles-case-confirmed-at-montreal-airport-1.7263901) (CBC News)
 
 - [Nearly 3 in 4 infants live where low vaccine coverage drives measles outbreaks: UN](https://www.cbc.ca/news/health/child-vaccination-who-1.7263699) (CBC News)
@@ -71,6 +73,18 @@ Source: [News API](https://newsapi.org/)
 - [Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis](https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis) (Zerohedge.com)
 
 ## 24-29 (malaria)
+
+- [ICoast Kicks Off First Vaccination Drive Against Malaria](https://www.ibtimes.com/icoast-kicks-off-first-vaccination-drive-against-malaria-3737023) (International Business Times)
+
+- [ICoast kicks off first vaccination drive against malaria](https://www.digitaljournal.com/world/icoast-kicks-off-first-vaccination-drive-against-malaria/article) (Digital Journal)
+
+- [How Insecticidal Net Shortage Is Affecting Odisha’s Fight Against Malaria](https://www.indiaspend.com/health/how-insecticidal-net-shortage-is-affecting-odishas-fight-against-malaria-916090) (Indiaspend.com)
+
+- [Man wades through flooded Gadchiroli nullahs to reach PHC, save malaria-hit child](https://timesofindia.indiatimes.com/city/nagpur/man-wades-through-flooded-gadchiroli-nullahs-to-reach-phc-save-malaria-hit-child/articleshow/111769615.cms) (The Times of India)
+
+- [Children receive first doses of new malaria vaccine, hailed as major milestone | CNN](https://www.cnn.com/2024/07/15/health/malaria-vaccine-children-ivory-coast-intl-scli/index.html) (CNN)
+
+- [A 'new era' in malaria control has begun with a vaccination campaign for children in Ivory Coast](https://apnews.com/article/malaria-vaccine-africa-children-oxford-r21-9169cc83fa3b491484c001470dcf2b44) (Associated Press)
 
 - [A 'new era' in malaria control has begun with a vaccination campaign for children in Ivory Coast](https://abcnews.go.com/Technology/wireStory/new-era-malaria-control-begun-vaccination-campaign-children-111962573) (ABC News)
 
@@ -94,15 +108,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (leptospirosis)
 
+- [Leptospirosis: Project launched to combat animal-spread disease](https://www.nzherald.co.nz/the-country/news/leptospirosis-project-launched-to-combat-animal-spread-disease/DCKMQZV6WFHELIXMBFTEOX2R7A/) (New Zealand Herald)
+
 - [Rat Fever| Kerala| Prevention|Leptospirosis|സംസ്ഥാനത്ത് എലിപ്പനി പടരുന്നു; പ്രതിരോധ മാര്‍ഗങ്ങളെന്ത്?](https://www.manoramanews.com/health/explainers/2024/07/14/spike-in-leptospirosis-causes-symptoms-treatment.html) (Manoramanews.com)
 
 - [Zamboanga: Oficina de salud ya adverti con el publico contra Leptospirosis](https://rpnradio.com/zamboanga-oficina-de-salud-ya-adverti-con-el-publico-contra-leptospirosis/) (Rpnradio.com)
 
 ## 24-29 (hpai)
 
+- [Bird flu jumps to dairy cows, sparking fears of future pandemics](https://www.wnd.com/2024/07/bird-flu-jumps-to-dairy-cows-sparking-fears-of-future-pandemics/) (Wnd.com)
+
 - [CDC Confirms Human Cases of H5 Bird Flu Among Colorado Poultry Workers](https://www.cdc.gov/media/releases/2024/p-0715-confirm-h5.html) (Cdc.gov)
 
 ## 24-29 (h5n1)
+
+- [Achte bekannte Infizierung mit H5N1-Virus: Vier neue Vogelgrippe-Fälle beim Menschen in den USA](https://www.tagesspiegel.de/wissen/achte-bekannte-infizierung-mit-h5n1-virus-vier-neue-vogelgrippe-falle-beim-menschen-in-den-usa-12030383.html) (Der Tagesspiegel)
+
+- [Εντοπίστηκαν 4 νέα κρούσματα γρίπης των πτηνών σε ανθρώπους στις ΗΠΑ](https://www.newsit.gr/kosmos/gripi-ton-ptinon-entopistikan-4-nea-krousmata-se-anthropous-stis-ipa/4135851/) (Newsit.gr)
+
+- [Γρίπη των πτηνών: 4 νέα κρούσματα σε ανθρώπους στις ΗΠΑ](https://www.naftemporiki.gr/kosmos/1716013/gripi-ton-ptinon-4-nea-kroysmata-se-anthropoys-stis-ipa/) (Naftemporiki.gr)
+
+- [Επιβεβαιώθηκαν 4 νέα κρούσματα της γρίπης των πτηνών σε ανθρώπους στις ΗΠΑ](https://www.skai.gr/news/world/epivevaiothikan-4-nea-krousmata-tis-gripis-ton-ptinon-se-anthropous-stis-ipa) (Skai.gr)
+
+- [US health officials confirm 4 new bird flu cases in Colorado poultry workers](https://www.1011now.com/2024/07/15/us-health-officials-confirm-4-new-bird-flu-cases-colorado-poultry-workers/) (1011now)
+
+- [Bird flu jumps to dairy cows, sparking fears of future pandemics](https://www.wnd.com/2024/07/bird-flu-jumps-to-dairy-cows-sparking-fears-of-future-pandemics/) (Wnd.com)
+
+- [Bird flu cases may be going undetected in US dairy workers](https://www.newscientist.com/article/2439627-bird-flu-cases-may-be-going-undetected-in-us-dairy-workers/) (New Scientist)
+
+- [Almost a dozen people have tested positive for bird flu. What to know about H5N1 disease spread and symptoms](https://fortune.com/well/2024/07/15/h5n1-bird-flu-avian-influenza-human-symptoms/) (Fortune)
 
 - [Zoonose: Vor der nächsten Pandemie?](https://www.jungewelt.de/artikel/479609.zoonose-vor-der-nächsten-pandemie.html) (Jungewelt.de)
 
@@ -145,6 +179,12 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1131: Mootant influenza H5N1 virus](https://www.microbe.tv/twiv/twiv-1131/) (Microbe.tv)
 
 ## 24-29 (dengue)
+
+- [El dengue deja ya cuatro niños muertos en El Salvador](https://www.elperiodico.com/es/internacional/20240716/dengue-deja-cuatro-ninos-muertos-105695754) (Elperiodico.com)
+
+- [Entenda por que o risco de desenvolver dengue grave aumenta quando você é infectado pela segunda vez](https://gizmodo.uol.com.br/entenda-por-que-o-risco-de-desenvolver-dengue-grave-aumenta-quando-voce-e-infectado-pela-segunda-vez/) (Uol.com.br)
+
+- [Dengue Fever Is Rising in the US. Should You Be Concerned About Your Mosquito Bites?](https://www.popsugar.com/health/what-is-dengue-fever-49377675) (POPSUGAR)
 
 - [Campinas inicia aplicação da 2ª dose contra dengue e distribui vacina de Covid-19 a postos](https://g1.globo.com/sp/campinas-regiao/noticia/2024/07/15/campinas-inicia-aplicacao-da-2a-dose-de-vacina-contra-dengue-e-distribui-imunizante-de-covid-19-a-postos.ghtml) (Globo)
 
@@ -2810,6 +2850,8 @@ Source: [News API](https://newsapi.org/)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
+- [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
+
 ## 24-23 (leptospirosis)
 
 - [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
@@ -2974,6 +3016,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
+- [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
+
 ## 24-23 (dengue)
 
 - [Govt still mulling using costly Qdenga vaccine](https://www.thestar.com.my/news/nation/2024/06/09/govt-still-mulling-using-costly-qdenga-vaccine) (The Star Online)
@@ -3091,6 +3135,12 @@ Source: [News API](https://newsapi.org/)
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.ru/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.ru)
 
 - [5 mitos e 5 verdades sobre a dengue e o mosquito Aedes aegypti](https://olhardigital.com.br/2024/06/02/medicina-e-saude/5-mitos-e-5-verdades-sobre-a-dengue-e-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
+
+- [Govt takes all-out preparedness to prevent dengue diseases: Health minister](https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781) (Tbsnews.net)
+
+- [Kathmandu metropolis urges citizens to take preventive measures against Dengue](https://english.khabarhub.com/2024/02/358993/) (Khabarhub.com)
+
+- [هشدار درباره تب دانگ و علائم این بیماری](https://www.isna.ir/news/1403031308826/هشدار-درباره-تب-دانگ-و-علائم-این-بیماری) (Isna.ir)
 
 ## 24-23 (chikungunya)
 
