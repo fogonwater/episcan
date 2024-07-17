@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-07-17 07:05
-- **Most recent article:** 2024-07-16 05:36:19
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-07-17 19:05
+- **Most recent article:** 2024-07-16 18:18:16
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 61 | 115 | 62 | 105 | 52 | 95 | 18 | 508 |
-| h5n1 | 77 | 55 | 29 | 36 | 59 | 52 | 28 | 336 |
-| malaria | 21 | 37 | 20 | 24 | 15 | 14 | 16 | 147 |
-| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 2 | 143 |
-| measles | 11 | 7 | 11 | 8 | 9 | 12 | 9 | 67 |
+| dengue | 58 | 115 | 62 | 105 | 52 | 95 | 22 | 509 |
+| h5n1 | 76 | 55 | 29 | 36 | 59 | 52 | 38 | 345 |
+| malaria | 20 | 37 | 20 | 24 | 15 | 14 | 20 | 150 |
+| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 3 | 144 |
+| measles | 11 | 7 | 11 | 8 | 9 | 12 | 10 | 68 |
 | zika | 0 | 12 | 3 | 17 | 20 | 12 | 2 | 66 |
 | chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 1 | 54 |
+| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 8 | 38 |
 | pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 0 | 37 |
-| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 3 | 33 |
-| hpai | 2 | 4 | 4 | 3 | 3 | 5 | 2 | 23 |
+| hpai | 2 | 4 | 4 | 3 | 3 | 5 | 4 | 25 |
 | meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 0 | 19 |
 | typhoid | 1 | 1 | 2 | 3 | 4 | 6 | 0 | 17 |
 | leptospirosis | 1 | 1 | 1 | 2 | 1 | 3 | 3 | 12 |
@@ -40,6 +40,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (rabies)
 
+- [Rabid seals are attacking people in South Africa](https://www.livescience.com/animals/seals/rabid-seals-are-attacking-people-in-south-africa) (Live Science)
+
+- [Нидерландская компания отозвала регистрацию вакцины в России от бешенства для животных](https://vz.ru/news/2024/7/16/1277807.html) (Vz.ru)
+
+- [Россельхознадзор отменил регистрацию вакцины от бешенства «Нобивак Rabies»](https://www.vedomosti.ru/business/news/2024/07/16/1050361-rosselhoznadzor-otmenil) (Vedomosti.ru)
+
+- [Россельхознадзор сообщил об отмене госрегистрации ветпрепарата "Нобивак Rabies"](https://tass.ru/obschestvo/21376103) (Tass.ru)
+
+- [Rabies vaccination coverage reached 56.57 percent until July 15](https://en.antaranews.com/news/318837/rabies-vaccination-coverage-reached-5657-percent-until-july-15) (Antaranews.com)
+
 - [Geographic Distribution of Rabies Virus and Genomic Sequence Alignment of Wild and Vaccine Strains, Kenya](https://wwwnc.cdc.gov/eid/article/30/8/23-0876_article) (Cdc.gov)
 
 - [Rabiessälar plågar Sydafrika](https://www.svd.se/a/nyywbo/rabiessalar-plagar-sydafrika) (Svenska Dagbladet)
@@ -48,11 +58,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (mpox)
 
+- [Ontario seeing rise in Mpox cases: public health agency](https://toronto.citynews.ca/2024/07/16/ontario-rise-monkeypox-cases/) (Citynews.ca)
+
 - [A New Strain Of Mpox Is Spreading In Congo. Here’s What To Know About The Disease](https://www.forbes.com/sites/omerawan/2024/07/14/a-new-strain-of-mpox-is-spreading-in-congo-heres-what-to-know-about-the-disease/) (Forbes)
 
 - [DR Congo detects at least 25 mpox cases in Goma](https://www.voanews.com/a/dr-congo-detects-at-least-25-mpox-cases-in-goma-mainly-in-displacement-camps-/7695086.html) (VOA News)
 
 ## 24-29 (measles)
+
+- [Measles breaks out at massive NYC migrant shelter](https://www.foxnews.com/health/measles-breaks-out-at-massive-nyc-migrant-shelter) (Fox News)
 
 - [After measles is detected at Brooklyn migrant shelter, city health officials quarantining some people there](https://www.cbsnews.com/newyork/news/measles-at-brooklyn-migrant-shelter/) (CBS News)
 
@@ -73,6 +87,14 @@ Source: [News API](https://newsapi.org/)
 - [Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis](https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis) (Zerohedge.com)
 
 ## 24-29 (malaria)
+
+- [South Sudan rolls out malaria vaccination campaign across six states](https://www.thestar.com.my/news/world/2024/07/17/south-sudan-rolls-out-malaria-vaccination-campaign-across-six-states) (The Star Online)
+
+- [Roll-out of affordable malaria vaccine begins](https://theweek.com/health/malaria-vaccine-roll-out-africa) (The Week Magazine)
+
+- [Malaria vaccine roll-out looks to save thousands of lives](https://www.bbc.com/news/articles/c9r3xxv1n5qo) (BBC News)
+
+- [World's second malaria vaccine launched in Ivory Coast, latest milestone in fight against the disease](https://www.foxnews.com/health/worlds-second-malaria-vaccine-launched-ivory-coast-latest-milestone-fight-against-disease) (Fox News)
 
 - [ICoast Kicks Off First Vaccination Drive Against Malaria](https://www.ibtimes.com/icoast-kicks-off-first-vaccination-drive-against-malaria-3737023) (International Business Times)
 
@@ -116,11 +138,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (hpai)
 
+- [Efficacy of commercial recombinant HVT vaccines against a North American clade 2.3.4.4b H5N1 highly pathogenic avian influenza virus in chickens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307100) (Plos.org)
+
+- [Influenza aviaria, quattro casi umani da polli di allevamento in Usa. I primi segnalati dal 2022](https://www.ilfattoquotidiano.it/2024/07/16/influenza-aviaria-quattro-casi-umani-da-polli-di-allevamento-in-usa-i-primi-casi-dal-2022/7625424/) (Ilfattoquotidiano.it)
+
 - [Bird flu jumps to dairy cows, sparking fears of future pandemics](https://www.wnd.com/2024/07/bird-flu-jumps-to-dairy-cows-sparking-fears-of-future-pandemics/) (Wnd.com)
 
 - [CDC Confirms Human Cases of H5 Bird Flu Among Colorado Poultry Workers](https://www.cdc.gov/media/releases/2024/p-0715-confirm-h5.html) (Cdc.gov)
 
 ## 24-29 (h5n1)
+
+- [U.S. bird flu response builds on lessons learned from COVID](https://www.hsph.harvard.edu/news/features/u-s-bird-flu-response-builds-on-lessons-learned-from-covid/) (Harvard School of Engineering and Applied Sciences)
+
+- [Gripe Aviar: el virus podría mutar y convertirse en una amenaza global, ¿es la próxima pandemia?](https://www.mundodeportivo.com/vidae/salud/20240716/1002282941/gripe-aviar-proxima-pandemia-esto-alertan-expertos.html) (Mundodeportivo.com)
+
+- [Bird flu virus in cows can still be eliminated, USDA says](https://www.statnews.com/2024/07/16/bird-flu-h5n1-dairy-cows-virus-elimination/) (STAT)
+
+- [Efficacy of commercial recombinant HVT vaccines against a North American clade 2.3.4.4b H5N1 highly pathogenic avian influenza virus in chickens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307100) (Plos.org)
+
+- [Bird Flu (H5N1) Explained: U.S. Human Infections Rise To 9](https://www.forbes.com/sites/ariannajohnson/2024/07/16/bird-flu-h5n1-explained-us-human-infections-rise-to-9/) (Forbes)
+
+- [Neue Fälle in den USA: Farmarbeiter stecken sich mit Vogelgrippe an](https://www.n-tv.de/wissen/Farmarbeiter-in-den-USA-stecken-sich-mit-Vogelgrippe-an-article25091984.html) (N-tv.de)
+
+- [H5N1-Virus bei Menschen: USA: Geflügelfarm-Arbeiter infizieren sich mit Vogelgrippe](https://www.tagesspiegel.de/wissen/h5n1-virus-bei-menschen-usa-geflugelfarm-arbeiter-infizieren-sich-mit-vogelgrippe-12032039.html) (Der Tagesspiegel)
+
+- [H5N1-Virus bei Menschen: USA: Geflügelfarm-Arbeiter infizieren sich mit Vogelgrippe](https://www.zeit.de/news/2024-07/16/usa-gefluegelfarm-arbeiter-infizieren-sich-mit-vogelgrippe) (Die Zeit)
+
+- [H5N1-Virus bei Menschen: USA: Geflügelfarm-Arbeiter infizieren sich mit Vogelgrippe](https://www.stern.de/panorama/wissen/h5n1-virus-bei-menschen--usa--gefluegelfarm-arbeiter-infizieren-sich-mit-vogelgrippe-34886748.html) (STERN.de)
+
+- [Vacas com gripe aviária podem transmitir a doença pelo leite – alerta estudo](https://olhardigital.com.br/2024/07/16/medicina-e-saude/vacas-com-gripe-aviaria-podem-transmitir-a-doenca-pelo-leite-alerta-estudo/) (Olhardigital.com.br)
 
 - [Achte bekannte Infizierung mit H5N1-Virus: Vier neue Vogelgrippe-Fälle beim Menschen in den USA](https://www.tagesspiegel.de/wissen/achte-bekannte-infizierung-mit-h5n1-virus-vier-neue-vogelgrippe-falle-beim-menschen-in-den-usa-12030383.html) (Der Tagesspiegel)
 
@@ -179,6 +225,14 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1131: Mootant influenza H5N1 virus](https://www.microbe.tv/twiv/twiv-1131/) (Microbe.tv)
 
 ## 24-29 (dengue)
+
+- [تجربه یک کاربر فضای مجازی از تب دنگی](https://www.tabnak.ir/fa/news/1248399/تجربه-یک-کاربر-فضای-مجازی-از-تب-دنگی) (Tabnak.ir)
+
+- [Rise in dengue case in Karnataka: TN deploys medical teams at border check posts](https://timesofindia.indiatimes.com/city/chennai/rise-in-dengue-case-in-karnataka-tn-deploys-medical-teams-at-border-check-posts/articleshow/111785915.cms) (The Times of India)
+
+- [JO 2024 : surveillance renforcée pour le moustique tigre et la dengue !](https://theconversation.com/jo-2024-surveillance-renforcee-pour-le-moustique-tigre-et-la-dengue-229520) (The Conversation Africa)
+
+- [Carla Benedito, líder da Takeda em Portugal: “Há o risco de termos dengue e outras doenças que não havia, devido às alterações climáticas”](https://expresso.pt/podcasts/o-futuro-do-futuro/2024-07-16-carla-benedito-lider-da-takeda-em-portugal-ha-o-risco-de-termos-dengue-e-outras-doencas-que-nao-havia-devido-as-alteracoes-climaticas-58a1809c) (Expresso.pt)
 
 - [El dengue deja ya cuatro niños muertos en El Salvador](https://www.elperiodico.com/es/internacional/20240716/dengue-deja-cuatro-ninos-muertos-105695754) (Elperiodico.com)
 
@@ -2850,8 +2904,6 @@ Source: [News API](https://newsapi.org/)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
-- [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
-
 ## 24-23 (leptospirosis)
 
 - [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
@@ -3016,8 +3068,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
-- [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
-
 ## 24-23 (dengue)
 
 - [Govt still mulling using costly Qdenga vaccine](https://www.thestar.com.my/news/nation/2024/06/09/govt-still-mulling-using-costly-qdenga-vaccine) (The Star Online)
@@ -3135,12 +3185,6 @@ Source: [News API](https://newsapi.org/)
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.ru/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.ru)
 
 - [5 mitos e 5 verdades sobre a dengue e o mosquito Aedes aegypti](https://olhardigital.com.br/2024/06/02/medicina-e-saude/5-mitos-e-5-verdades-sobre-a-dengue-e-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
-
-- [Govt takes all-out preparedness to prevent dengue diseases: Health minister](https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781) (Tbsnews.net)
-
-- [Kathmandu metropolis urges citizens to take preventive measures against Dengue](https://english.khabarhub.com/2024/02/358993/) (Khabarhub.com)
-
-- [هشدار درباره تب دانگ و علائم این بیماری](https://www.isna.ir/news/1403031308826/هشدار-درباره-تب-دانگ-و-علائم-این-بیماری) (Isna.ir)
 
 ## 24-23 (chikungunya)
 
