@@ -1,8 +1,409 @@
 {
-  "last_updated": "2024-07-18 07:06",
-  "count_articles_total": 1422,
-  "count_articles_new": 15,
+  "last_updated": "2024-07-18 19:05",
+  "count_articles_total": 1439,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 11207,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Un caso di Dengue nel Pratese, scatta subito disinfestazione",
+      "description": "Un caso di Dengue \u00e8 stato rilevato nel paese di Oste di Montemurlo, vicino a Prato, e il sindaco Simone Calamai ha ordinato la disinfestazione urgente. Il caso \u00e8 importato ed \u00e8 stato segnalato all'Igiene Pubblica della Asl Toscana Centro. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2024/07/17/un-caso-di-dengue-nel-pratese-scatta-subito-disinfestazione_539edd70-71c6-46a5-9bb7-c8fe49638ad5.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/30/eed15edca9a3fd846b89774e299fe68f.jpg",
+      "publishedAt": "2024-07-17 18:42:12",
+      "content": "Un caso di Dengue \u00e8 stato rilevato nel paese di Oste di Montemurlo, vicino a Prato, e il sindaco Simone Calamai ha ordinato la disinfestazione urgente. Il caso \u00e8 importato ed \u00e8 stato segnalato all\u2026 [+1685 chars]",
+      "retrievedAt": "2024-07-18 19:05:45.063650",
+      "internal_id": "aceca26db730872186febdae09db40c05a659ad07cee59430f0c7254d3a2fdae",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11210,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Un caso di Dengue nel Pratese, scatta subito disinfestazione",
+      "description": "Un caso di Dengue \u00e8 stato rilevato nel paese di Oste di Montemurlo, vicino a Prato, e il sindaco Simone Calamai ha ordinato la disinfestazione urgente. Il caso \u00e8 importato ed \u00e8 stato segnalato all'Igiene Pubblica della Asl Toscana Centro. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2024/07/17/un-caso-di-dengue-nel-pratese-scatta-subito-disinfestazione_418d32bc-13cf-428f-8e40-7356a08edaef.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/30/eed15edca9a3fd846b89774e299fe68f.jpg",
+      "publishedAt": "2024-07-17 18:42:10",
+      "content": "Un caso di Dengue \u00e8 stato rilevato nel paese di Oste di Montemurlo, vicino a Prato, e il sindaco Simone Calamai ha ordinato la disinfestazione urgente. Il caso \u00e8 importato ed \u00e8 stato segnalato all\u2026 [+1685 chars]",
+      "retrievedAt": "2024-07-18 19:05:45.097965",
+      "internal_id": "9091aefab20572053a0e27e6f0fa524cf2f976393d61bf72460923b5f4ebd466",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11199,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Beth Mole",
+      "title": "Five people infected as bird flu appears to go from cows to chickens to humans",
+      "description": "High temperatures made it hard for workers to use protective gear during culling.",
+      "url": "https://arstechnica.com/science/2024/07/five-people-infected-as-bird-flu-appears-to-go-from-cows-to-chickens-to-humans/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1404569444-760x380.jpg",
+      "publishedAt": "2024-07-17 17:04:30",
+      "content": "12 The highly pathogenic avian influenza H5N1 virus that spilled from wild birds into US dairy cows late last year may have recently seeped from a dairy farm in Colorado to a nearby poultry farm, wh\u2026 [+4947 chars]",
+      "retrievedAt": "2024-07-18 19:05:44.149979",
+      "internal_id": "7cf3420d89fe1e08fcc14ecf0d062c34a7cdab3e78542e8dca808dedb25c746c",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11205,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Vacina contra dengue volta para rede privada. Veja quem pode tomar",
+      "description": "Distribui\u00e7\u00e3o da vacina contra dengue ficou suspensa por 5 meses na rede privada. Imunizante volta a ser vendido para p\u00fablico geral",
+      "url": "https://www.metropoles.com/saude/vacina-dengue-volta-rede-privada",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/08161628/vacina-dengue-qdenga-2.jpeg",
+      "publishedAt": "2024-07-17 16:00:14",
+      "content": "A vacina contra a dengue produzida pela Takeda voltou a ser oferecida nas cl\u00ednicas particulares do pa\u00eds. Limita\u00e7\u00f5es na capacidade de produ\u00e7\u00e3o da farmac\u00eautica fizeram com que a distribui\u00e7\u00e3o das doses \u2026 [+5666 chars]",
+      "retrievedAt": "2024-07-18 19:05:45.023282",
+      "internal_id": "8d1e6a5d17b3f755db80afc4ebf2d7c0c723f8c446bd77a6bc7923419b2895fe",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11197,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Portland Mercury",
+      "author": "Taylor Griggs",
+      "title": "Good Morning, News: Red Flag Warning, Measles in MultCo, and Pangea-Era Dino Bones Found",
+      "description": "by Taylor Griggs The Mercury provides news and fun every single day\u2014but your help is essential. If you believe Portland benefits from smart, local journalism and arts coverage, please consider making a small monthly contribution, because without you, t\u2026",
+      "url": "https://www.portlandmercury.com/good-morning-news/2024/07/17/47306999/good-morning-news-red-flag-warning-measles-in-multco-and-pangea-era-dino-bones-found",
+      "urlToImage": "https://media2.fdncms.com/portmerc/imager/u/large/47307570/gettyimages-1228445220-2.jpg",
+      "publishedAt": "2024-07-17 15:45:00",
+      "content": "The Mercury provides news and fun every single daybut your help is essential. If you believe Portland benefits from smart, local journalism and arts coverage, please consider making a small monthly c\u2026 [+6667 chars]",
+      "retrievedAt": "2024-07-18 19:05:43.140915",
+      "internal_id": "244c6f96e21ad041b4fe541f5c3ec51d93d118e4825cecd22359fcb549a8c344",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11204,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Como v\u00edrus da dengue ganhou seu nome",
+      "description": "Os v\u00edrus s\u00e3o tradicionalmente nomeados de acordo com os lugares ou animais onde foram descobertos \u2014 agora os cientistas est\u00e3o tentando colocar ordem no caos da nomenclatura dos v\u00edrus.",
+      "url": "https://www.bbc.com/portuguese/articles/c25lepy4r1do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/e58a/live/90db5cf0-3f7a-11ef-a854-a7321699d697.jpg",
+      "publishedAt": "2024-07-17 14:04:09",
+      "content": "Cr\u00e9dito, Getty Images Legenda da foto, Cientistas tentam organizar como definir os nomes dos in\u00fameros v\u00edrus sendo descobertos nos \u00faltimos anos Article informationAuthor, Sarah Pitt\u2026 [+21373 chars]",
+      "retrievedAt": "2024-07-18 19:05:44.995429",
+      "internal_id": "d0896b7c0475c832db4e4ca4ee0ccaa193fb593a2d09d130d902ac1f2e31e1b0",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11209,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Porto Alegre registra 9.888 casos de dengue neste ano",
+      "description": "O total de ocorr\u00eancias suspeitas notificadas \u00e0 Equipe de Vigil\u00e2ncia de Doen\u00e7as Transmiss\u00edveis da Secretaria Municipal de Sa\u00fade (SMS) soma 35.837",
+      "url": "https://www.terra.com.br/noticias/porto-alegre-registra-9888-casos-de-dengue-neste-ano,19b3f583271eaefa98ecd9c3a6329597b6v5n6ag.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/07/17/131745629-mosquito-dengue.jpg",
+      "publishedAt": "2024-07-17 13:28:54",
+      "content": "Porto Alegre tem 9.888 casos confirmados de dengue em 2024 at\u00e9 13 de julho. Do total, 9.188 foram contra\u00eddos na cidade (aut\u00f3ctones), 392 s\u00e3o importados (infec\u00e7\u00e3o fora da cidade) e 308 t\u00eam local de in\u2026 [+1439 chars]",
+      "retrievedAt": "2024-07-18 19:05:45.088857",
+      "internal_id": "15482c6ae01d7006ee1ecc759796f07ebde4d2b1348c7e865a22f6e97314afd6",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11203,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Giuliana Lomazzi",
+      "title": "\u201cLe Olimpiadi di Parigi rischiano di diventare un focolaio di chikungunya, Zika, dengue, virus del Nilo e Usutu\u201d: lo studio",
+      "description": "A favorire la diffusione, la presenza di milioni di persone e di temperature oltre 28\u00b0 C, secondo un recente studio condotto nel dipartimento dell\u2019\u00cele-de-France, dove si trova appunto Parigi L'articolo \u201cLe Olimpiadi di Parigi rischiano di diventare un focolai\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/07/17/le-olimpiadi-di-parigi-rischiano-di-diventare-un-focolaio-di-chikungunya-zika-dengue-virus-del-nilo-e-usutu-lo-studio/7626421/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/07/16/olimpiadi-parigi-2024-1-1200x630.jpg",
+      "publishedAt": "2024-07-17 12:47:46",
+      "content": "Secondo Sant\u00e9 Publique France, ai Giochi Olimpici ci sarebbero le condizioni ideali per la trasmissione di malattie portate dalla zanzara tigre, tra cui in primis la dengue. A favorire la diffusione,\u2026 [+4467 chars]",
+      "retrievedAt": "2024-07-18 19:05:44.989962",
+      "internal_id": "c1048590e8574af9936780a1ace66501ea8a021ade72cb818a7849086af15124",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11208,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Sudeep Singh Rawat",
+      "title": "Preventing mosquito bites: Here's how to protect yourself and your family",
+      "description": "Mosquito bites are a responsible for causing many life-threatening diseases such as malaria, dengue, chikungunya, and Zika, so it becomes imperative to safeguard yourself and others around you",
+      "url": "https://www.business-standard.com/health/preventing-mosquito-bites-here-s-how-to-protect-yourself-and-your-family-124071700706_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-11/20/thumb/fitandfill/400X400/1479641776-652.jpg",
+      "publishedAt": "2024-07-17 12:37:21",
+      "content": "Mosquito bites are a responsible for causing many life-threatening diseases such as malaria, dengue, chikungunya, and Zika, so it becomes imperative to safeguard yourself and others around you Sudee\u2026 [+2600 chars]",
+      "retrievedAt": "2024-07-18 19:05:45.076531",
+      "internal_id": "4d28689e0823925c05b62960752a451189963d0155bdacce462710bcd3b15210",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11195,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0420\u043e\u0441\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u043d\u0430\u0434\u0437\u043e\u0440 \u0437\u0430\u044f\u0432\u0438\u043b, \u0447\u0442\u043e \u0432 \u0420\u0424 \u0435\u0441\u0442\u044c \u0430\u043d\u0430\u043b\u043e\u0433 \u0432\u0435\u0442\u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u0430 \"\u041d\u043e\u0431\u0438\u0432\u0430\u043a Rabies\"",
+      "description": "\u0420\u044b\u043d\u043e\u043a \u043d\u0430 100% \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d \u0432\u0435\u0442\u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u0430\u043c\u0438 \u043f\u0440\u043e\u0442\u0438\u0432 \u043e\u0441\u043e\u0431\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u0431\u043e\u043b\u0435\u0437\u043d\u0435\u0439 \u043a\u043e\u0448\u0435\u043a \u0438 \u0441\u043e\u0431\u0430\u043a, \u043e\u0442\u043c\u0435\u0442\u0438\u043b\u0438 \u0432 \u0432\u0435\u0434\u043e\u043c\u0441\u0442\u0432\u0435",
+      "url": "https://tass.ru/ekonomika/21385403",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/ekonomika/21385403?u=2024-07-17T12:30:20.104582",
+      "publishedAt": "2024-07-17 12:30:20",
+      "content": ", 17 . //. \" Rabies\" , 100% . - . , \" Rabies\" . \" \" Rabies\" - \"\" \" \". , , 100%, \", - . , 100%.",
+      "retrievedAt": "2024-07-18 19:05:42.760468",
+      "internal_id": "32b3bfa11ba7a6de6cd167b46e98195bf13aac9e79d228a7ab9d4c645d96a126",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11214,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Former Prime Minister Chand admitted to Bir Hospital",
+      "description": "KATHMANDU: Former Prime Minister Lokendra Bahadur Chand has been admitted to Bir Hospital. He has been diagnosed with dengue fever. Chand was admitted to the hospital on Wednesday afternoon due to high fever and body aches, according to hospital director Dr. \u2026",
+      "url": "https://english.khabarhub.com/2024/17/365921/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/10/lokendra-bahadur-chand.jpg",
+      "publishedAt": "2024-07-17 12:15:57",
+      "content": "KATHMANDU: Former Prime Minister Lokendra Bahadur Chand has been admitted to Bir Hospital. He has been diagnosed with dengue fever. Chand was admitted to the hospital on Wednesday afternoon due to \u2026 [+220 chars]",
+      "retrievedAt": "2024-07-18 19:05:45.148504",
+      "internal_id": "a6d23891212b6cee90ca2b1636ea466939e54a59e0ea579553813cd73c204a5d",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11211,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Entenda os principais motivos por tr\u00e1s da queda repentina de cabelo",
+      "description": "Per\u00edodos de perda de cabelo intensa e repentinas podem corresponder a quadro conhecido como Efl\u00favio Tel\u00f3geno, suscitando preocupa\u00e7\u00e3o em muitas pessoas, dadas suas m\u00faltiplas origens",
+      "url": "https://www.terra.com.br/noticias/entenda-os-principais-motivos-por-tras-da-queda-repentina-de-cabelo,4c74d6a647b928b74c11bfd589ca29784wp9sds8.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/07/17/1481838948-queda-de-cabelo.jpg",
+      "publishedAt": "2024-07-17 12:08:40",
+      "content": "Diversos fatores podem desencadear a perda de fios, como o p\u00f3s-parto, a perda s\u00fabita de peso, cirurgia bari\u00e1trica, quadros febris como os associados \u00e0 Covid-19 e dengue, al\u00e9m de infec\u00e7\u00f5es como pneumo\u2026 [+1714 chars]",
+      "retrievedAt": "2024-07-18 19:05:45.116687",
+      "internal_id": "aee0ec2781a79e7a1d2245c40030f221e8584f832c1f0703d603d47a44d8a151",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11198,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Government holds high-level meet on avian flu threat, experts call for enhanced surveillance",
+      "description": "Specialists at a high-level meeting urged for increased surveillance and better coordination to tackle avian influenza. They emphasised the urgency of addressing the threat highlighted by recent outbreaks like the HPAI incident in the USA. Recommendations inc\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/government-holds-high-level-meet-on-avian-flu-threat-experts-call-for-enhanced-surveillance/articleshow/111811128.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111811299,width-1200,height-630,imgsize-34092,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-17 12:04:35",
+      "content": "Experts pitched for intensified surveillance and improved coordination to combat avian influenza at a high-level meeting convened by the Department of Animal Husbandry and Dairying on Tuesday. The br\u2026 [+1372 chars]",
+      "retrievedAt": "2024-07-18 19:05:43.546529",
+      "internal_id": "966682db315b6be98bb11c70ea7f4900a6f28c8bf374503f23368547cf3b4272",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11213,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kasapafmonline.com",
+      "author": "Kasapafmonline.com",
+      "title": "Illegal mining areas vulnerable to dengue fever - Health Director \u2014 Kasapa102.5FM",
+      "description": "The Eastern Regional Director of Ghana Health Service, Dr. Winfred Ofosu, has issued a warning that mining communities are at a heightened risk of dengue",
+      "url": "https://kasapafmonline.com/?p=300206",
+      "urlToImage": "https://kasapafmonline.com/wp-content/uploads/2017/05/Galamsey.jpg",
+      "publishedAt": "2024-07-17 11:32:26",
+      "content": "The Eastern Regional Director of Ghana Health Service, Dr. Winfred Ofosu, has issued a warning that mining communities are at a heightened risk of dengue fever due to stagnant water in abandoned pits\u2026 [+2780 chars]",
+      "retrievedAt": "2024-07-18 19:05:45.142793",
+      "internal_id": "46f4e45e4e8be29b5b7f63e476704b390c48039a713c4e93bdf1c6f6c5a51738",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11202,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gbnews.com",
+      "author": "Adam Chapman",
+      "title": "Bird flu sparking pandemic fears over 'mutation change'",
+      "description": "The multistate outbreak of bird flu in cows across the US is raising the spectre of a new pandemic as four human cases are confirmed.",
+      "url": "https://www.gbnews.com/health/bird-flu-pandemic-symptoms-2024",
+      "urlToImage": "https://www.gbnews.com/media-library/composite-image-of-a-man-studying-a-lab-sample-and-a-person-wearing-a-face-mask.png?id=52820554&width=1200&height=600&coordinates=0%2C71%2C0%2C111",
+      "publishedAt": "2024-07-17 11:23:16",
+      "content": "The multistate outbreak of bird flu in dairy cows could trigger a new pandemic, experts fear. Avian influenza A (H5N1), or bird flu, has killed millions of wild birds and caused sporadic outbreaks \u2026 [+4613 chars]",
+      "retrievedAt": "2024-07-18 19:05:44.324443",
+      "internal_id": "8a6044453d8d056994996ab1bfbdad67be89e1ca964a5e5fb6e6d03f36af96ac",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11215,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Melody Schreiber",
+      "title": "Mpox did not fade away. Africa faces two alarming outbreaks --- and lacks vaccines",
+      "description": "The Global North has moved on from the mpox scare of 2022. The Global South is seeing outbreaks \u2014 and lacks the tools to address stem the virus.",
+      "url": "https://www.npr.org/sections/goats-and-soda/2024/07/17/nx-s1-5036441/mpox-vaccines-south-africa-democratic-republic-of-congo",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2Fd4%2F40da43d549eab5525d649355a325%2Fmpox-2.jpg",
+      "publishedAt": "2024-07-17 10:59:02",
+      "content": "Two outbreaks of mpox in sub-Saharan Africa are raising concerns about the continued spread of the virus globally - and the surge of a deadlier strain than the one that began circling the globe in 20\u2026 [+7263 chars]",
+      "retrievedAt": "2024-07-18 19:05:47.439651",
+      "internal_id": "4b5d9cb0763d039d79bae1d6a69e15369218c9b98106537530c73e66661df25f",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11212,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "3news.com",
+      "author": "Laud Nartey",
+      "title": "Ghana Health Service highlights ongoing activities to fight Dengue outbreak | 3News",
+      "description": "The Ghana Health Service (GHS) has highlighted the ongoing activities to tackle the Dengue outbreak after confirming 36 cases from both Eastern and Central Regions. The 36 cases were detected in the communities by healthcare workers using an appropriate Case \u2026",
+      "url": "https://3news.com/news/ghana-health-service-highlights-ongoing-activities-to-fight-dengue-outbreak/",
+      "urlToImage": "https://3news.com/wp-content/uploads/2024/07/Dengue-fever.jpeg",
+      "publishedAt": "2024-07-17 09:32:12",
+      "content": "The Ghana Health Service (GHS) has highlighted the ongoing activities to tackle the Dengue outbreak after confirming 36 cases from both Eastern and Central Regions. The 36 cases were detected in the\u2026 [+2433 chars]",
+      "retrievedAt": "2024-07-18 19:05:45.137968",
+      "internal_id": "1a161d9113285268e372fd014ae84b49327edb2fda9cb060dd13d7820708567d",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11196,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "Zero-Dose Kids: \u0926\u0947\u0936 \u092e\u0947\u0902 16 \u0932\u093e\u0916 \u0910\u0938\u0947 \u092c\u091a\u094d\u091a\u0947, \u091c\u093f\u0928\u094d\u0939\u0947\u0902 \u0928\u0939\u0940\u0902 \u0932\u0917\u0940 \u0915\u094b\u0908 \u0935\u0948\u0915\u094d\u0938\u0940\u0928",
+      "description": "WHO \u0914\u0930 WUENIC \u0921\u0947\u091f\u093e \u092e\u0947\u0902, \u092d\u093e\u0930\u0924 \u0915\u0947 \u092c\u093e\u0926 \u0905\u0928\u094d\u092f \u0926\u0947\u0936\u094b\u0902 \u092e\u0947\u0902 \u0932\u093f\u0938\u094d\u091f \u092e\u0947\u0902 \u0907\u0925\u093f\u092f\u094b\u092a\u093f\u092f\u093e, \u0915\u093e\u0902\u0917\u094b, \u0938\u0942\u0921\u093e\u0928, \u0907\u0902\u0921\u094b\u0928\u0947\u0936\u093f\u092f\u093e, \u092f\u092e\u0928, \u0905\u092b\u0917\u093e\u0928\u093f\u0938\u094d\u0924\u093e\u0928, \u0905\u0902\u0917\u094b\u0932\u093e, \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928, \u0938\u094b\u092e\u093e\u0932\u093f\u092f\u093e, \u0935\u093f\u092f\u0924\u0928\u093e\u092e, \u092e\u0947\u0921\u093e\u0917\u093e\u0938\u094d\u0915\u0930, \u092e\u0948\u0915\u094d\u0938\u093f\u0915\u094b, \u0926\u0915\u094d\u0937\u093f\u0923 \u0905\u092b\u094d\u0930\u0940\u0915\u093e, \u092e\u093e\u0932\u0940, \u0921\u0940\u092a\u0940\u0906\u0930\u0915\u0947, \u091a\u0940\u0928, \u0917\u093f\u0928\u0940 \u0914\u0930 \u092e\u094d\u092f\u093e\u0902\u092e\u093e\u0930 \u091c\u0948\u0938\u0947 \u0926\u0947\u0936\u094b\u0902 \u0915\u093e \u0928\u093e\u092e \u0939\u0948.",
+      "url": "https://www.aajtak.in/india/news/story/zero-dose-kids-comparison-flawed-as-indias-population-not-considered-in-who-unicef-data-says-sources-ntc-1986580-2024-07-17",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202407/669780e23d4b4-zero-done-kids-vaccination-17292179-16x9.jpeg",
+      "publishedAt": "2024-07-17 08:41:20",
+      "content": ". 2023 16 . , WHO (WUENIC) 19 , . , . , \" , 0.11 .\" WUENIC , 16 2023 . . , 2023 21 . : - , ! .\" WUENIC 2021 , 27.3 . 1 (-- ) 93 89 . , \" 4 .\" 3 91 84 . 7 . , 1 (Measles Zero Dose\u2026 [+190 chars]",
+      "retrievedAt": "2024-07-18 19:05:43.123551",
+      "internal_id": "f9d364f274dede44f386c030dfef517d2573dd2078d7b932f1c9f926d52ca0e0",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11201,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Kai Wiedermann",
+      "title": "Vogelgrippe: Weitere Menschen in den USA sind infiziert",
+      "description": "Die US-Beh\u00f6rden melden weitere Infektionen von Landarbeitern mit der Vogelgrippe. Diesmal waren sie nicht in Viehbetrieben besch\u00e4ftigt.",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article406808372/vogelgrippe-weitere-menschen-in-den-usa-sind-infiziert.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406808306/406808306_1721203119_v16_9_1600.jpeg",
+      "publishedAt": "2024-07-17 07:58:40",
+      "content": "Berlin. Die US-Beh\u00f6rden melden weitere Infektionen von Landarbeitern mit der Vogelgrippe. Diesmal waren sie nicht in Viehbetrieben besch\u00e4ftigt. Die Zahl der mit dem Vogelgrippe-Virus H5N1 infizierte\u2026 [+1627 chars]",
+      "retrievedAt": "2024-07-18 19:05:44.221169",
+      "internal_id": "d5e8232aa9e46bc0a5570f4763436ccba1496f822141cd500c268ec3183dbcf9",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11200,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0411\u0435\u0440\u043a\u043e\u0432\u0438\u0446",
+      "title": "\"\u041d\u043e\u0432\u0430\u044f \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u044f \u043d\u0435 \u0437\u0430 \u0433\u043e\u0440\u0430\u043c\u0438\": \u0413\u043b\u0430\u0432\u0430 \u0412\u041e\u0417 \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0434\u0438\u043b \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u043e \u043e \u0433\u043b\u0430\u0432\u043d\u043e\u043c",
+      "description": "\u041d\u043e\u0432\u0430\u044f \u043e\u043f\u0430\u0441\u043d\u0430\u044f \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u044f \u043c\u043e\u0436\u0435\u0442 \u0440\u0430\u0437\u0440\u0430\u0437\u0438\u0442\u044c\u0441\u044f \u0432 \u043c\u0438\u0440\u0435 \u0432 \u043b\u044e\u0431\u043e\u0439 \u043c\u043e\u043c\u0435\u043d\u0442. \u0422\u0430\u043a\u0438\u043c\u0438 \u043e\u043f\u0430\u0441\u0435\u043d\u0438\u044f\u043c\u0438 \u043f\u043e\u0434\u0435\u043b\u0438\u043b\u0441\u044f \u0433\u0435\u043d\u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417) \u0422\u0435\u0434\u0440\u043e\u0441 \u0410\u0434\u0445\u0430\u043d\u043e\u043c \u0413\u0435\u0431\u0440\u0435\u0439\u0435\u0441\u0443\u0441, \u0432\u044b\u0441\u0442\u0443\u043f\u0430\u044f \u043d\u0430 \u0437\u0430\u0441\u0435\u0434\u0430\u043d\u0438\u0438 \u0432 \u0416\u0435\u043d\u0435\u0432\u0435. \u0427\u0438\u0442\u0430\u0442\u044c \u0434\u0430\u043b\u0435\u0435...",
+      "url": "https://life.ru/p/1672916",
+      "urlToImage": "https://static.life.ru/publications/2024/7/17/1078937644613.4628.webp",
+      "publishedAt": "2024-07-17 07:28:46",
+      "content": ". () , . , H5N1 , - . \" \", . , , H5N1, . , . H5N1 . , \" \", , , 20 . , . , \"\" .",
+      "retrievedAt": "2024-07-18 19:05:44.186268",
+      "internal_id": "3cb1eaea6ac18cb2bc191d2d0450427aca5fa17c8bcce2e83c6332cb1148b955",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11216,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Von FOCUS-online-Redakteurin Anika Jonas",
+      "title": "Zwei Jahre nach der Infektion - \u201eRiesige Narbe mitten im Gesicht\u201c: Wie Mpox-Patient noch heute leidet",
+      "description": "Mark ist ein offener, selbstbewusster junger Mann. Bis er sich 2022 mit Mpox-Viren infiziert. Heute lebt er zur\u00fcckgezogen, schl\u00e4ft schlecht, hat einen Waschzwang entwickelt. Die schmerzhafte Infektion ist \u00fcberstanden, doch die Narben an K\u00f6rper und Seele bleib\u2026",
+      "url": "https://www.focus.de/gesundheit/ratgeber/hat-mein-leben-stark-veraendert-schmerzender-stuhlgang-entstelltes-gesicht-wie-betroffene-von-affenpocken-noch-heute-leiden_id_260101845.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260129458/gettyimages-1467820758.jpg?im=Crop%3D%280%2C248%2C3533%2C1766%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=e240b3b3e2aa8c9dd6dfe89744cacd2d6ff1152598adb398a6783934f2a50cea",
+      "publishedAt": "2024-07-17 07:16:14",
+      "content": "Mark ist ein offener, selbstbewusster junger Mann. Bis er sich 2022 mit Mpox-Viren infiziert. Heute lebt er zur\u00fcckgezogen, schl\u00e4ft schlecht, hat einen Waschzwang entwickelt. Die schmerzhafte Infektio\u2026 [+6870 chars]",
+      "retrievedAt": "2024-07-18 19:05:47.449646",
+      "internal_id": "183b4760b5bda65f0ba2d6f0a9173105a95a413b0a99cc798b635944c3bbedbb",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 11206,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Serena Williams' husband, Reddit co-founder Alexis Ohanian, diagnosed with Lyme disease: Know all about the disease",
+      "description": "Alexis Ohanian, husband of Serena Williams, announced on X his Lyme disease diagnosis without prior wilderness exposure. He'll use antibiotics and faces low cholesterol. Lyme, from deer ticks (Borrelia burgdorferi, 1975), can lead to joint pain, cardiac issue\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/serena-williams-husband-reddit-co-founder-alexis-ohanian-diagnosed-with-lyme-disease-know-all-about-the-disease/articleshow/111802271.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111802331,width-1070,height-580,imgsize-512589,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-17 07:11:16",
+      "content": "Dengue: Early signs and preventive measures to stay safe",
+      "retrievedAt": "2024-07-18 19:05:45.028730",
+      "internal_id": "5bd726dc64c3ffe934d0b90cbefc45d252b012f8e843f782c3b1f40e1e85d643",
+      "publishedAtLabel": "Jul 17"
+    },
     {
       "id": 11188,
       "query": [
@@ -25598,96 +25999,6 @@
       "content": "O Brasil, e mais recentemente o mundo, t\u00eam passado por grandes epidemias de dengue nas \u00faltimas d\u00e9cadas. O aumento de casos ano a ano, incluindo as fatalidades, amplifica a necessidade de informa\u00e7\u00f5es \u2026 [+4120 chars]",
       "retrievedAt": "2024-06-04 07:05:53.763516",
       "internal_id": "9cff37cdf516558dc44701a8861b24ecf1b0a4e28e5797f7abe5e5da1f65eb1a",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9775,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Bss",
-      "title": "Govt takes all-out preparedness to prevent dengue diseases: Health minister",
-      "description": "We have asked all relevant organisations to remain alert for taking prompt actions to deal with any possible outbreak of the dengue diseases, he said",
-      "url": "https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_watermark_bkash/public/images/2024/06/02/2024-06-02-12-01-c7995d6e54cafe6b9e51e0ed1ae83c2d.jpg",
-      "publishedAt": "2024-06-02 15:45:06",
-      "content": "The government has taken all-out preparedness on healthcare services to prevent dengue diseases, Health and Family Welfare Minister Dr Samanta Lal said today (2 June). \"We have asked all relevant or\u2026 [+2055 chars]",
-      "retrievedAt": "2024-06-03 19:05:42.722487",
-      "internal_id": "e99daf4b8d9620b17c7f73796a934769d2079347c9d0a5767fb1c7850751c3de",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9777,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Dr. Tal Patalon, MD, LLB, MBA, Contributor, \n Dr. Tal Patalon, MD, LLB, MBA, Contributor\n https://www.forbes.com/sites/talpatalon/",
-      "title": "Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death",
-      "description": "It is unfathomable, and painful to acknowledge, but real; so many of the world\u2019s deaths are potentially avoidable.",
-      "url": "https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6626340d40158b603dc6aa93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-06-02 14:23:16",
-      "content": "'Boy in Boat', 125X150 cm, Oil on Linen, 2020 by Gideon Rubin// He needs a data lake, but also clean ... [+] waters. He is every child. @ Gideon Rubin It is unfathomable, and painful to acknowledge\u2026 [+4703 chars]",
-      "retrievedAt": "2024-06-03 19:05:43.804423",
-      "internal_id": "cb9f38326f5b75ed7f909426ed77202e9c380cc63ecf28bcf58e01fbd70afb5b",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9773,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "Alex Viveros",
-      "title": "To track H5N1, these scientists test wildlife from as far away as Hawaii",
-      "description": "It\u2019s still an open question, experts say, what will happen as the bird flu virus continues to spread.",
-      "url": "https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/wXqakISt59Fi2Wq6F8pKtDlhVo4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SXJHFO7PE5FYPHY3ELG3MALU4I.JPG",
-      "publishedAt": "2024-06-02 10:00:00",
-      "content": "The lab, which tests animal samples from across the country, offers a peek at how scientists are racing to learn more about the virus, which experts are concerned may one day evolve to more easily in\u2026 [+6112 chars]",
-      "retrievedAt": "2024-06-03 19:05:41.902090",
-      "internal_id": "1ab1ba299add997a2ea58ba129b5d5a3feef234c8071f13bc53bf7a6cde71bb3",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9776,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Kathmandu metropolis urges citizens to take preventive measures against Dengue",
-      "description": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local government has cautioned residents about the heightened risk of d\u2026",
-      "url": "https://english.khabarhub.com/2024/02/358993/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-06-02 08:45:26",
-      "content": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local gove\u2026 [+1180 chars]",
-      "retrievedAt": "2024-06-03 19:05:42.737377",
-      "internal_id": "9309a113c5b071213377bb88a0f68393f730ff6bfeae58e2652876d26db892b1",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9774,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
-      "title": "\u0647\u0634\u062f\u0627\u0631 \u062f\u0631\u0628\u0627\u0631\u0647 \u062a\u0628 \u062f\u0627\u0646\u06af \u0648 \u0639\u0644\u0627\u0626\u0645 \u0627\u06cc\u0646 \u0628\u06cc\u0645\u0627\u0631\u06cc",
-      "description": "\u0631\u0626\u06cc\u0633 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0627\u0644\u0628\u0631\u0632 \u0639\u0646\u0648\u0627\u0646 \u06a9\u0631\u062f: \u0645\u0647\u0645\u062a\u0631\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0628\u0631\u0627\u06cc \u062c\u0644\u0648\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u067e\u0634\u0647 \u0646\u0627\u0642\u0644 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062a\u0628 \u062f\u0627\u0646\u06af ( \u067e\u0634\u0647 \u0645\u0647\u0627\u062c\u0645 \u0622\u0626\u062f\u0633 ) \u0628\u0647\u0633\u0627\u0632\u06cc \u0645\u062d\u06cc\u0637 \u0648 \u0627\u0632 \u0628\u06cc\u0646 \u0628\u0631\u062f\u0646 \u0622\u0628\u200c\u0647\u0627\u06cc \u0631\u0627\u06a9\u062f \u06a9\u0647 \u0632\u06cc\u0633\u062a\u06af\u0627\u0647 \u0645\u0646\u0627\u0633\u0628 \u0627\u06cc\u0646 \u067e\u0634\u0647 \u0627\u0633\u062a\u060c \u062f\u0631 \u0645\u062d\u0644 \u0632\u0646\u062f\u06af\u06cc \u0627\u0633\u062a.",
-      "url": "https://www.isna.ir/news/1403031308826/\u0647\u0634\u062f\u0627\u0631-\u062f\u0631\u0628\u0627\u0631\u0647-\u062a\u0628-\u062f\u0627\u0646\u06af-\u0648-\u0639\u0644\u0627\u0626\u0645-\u0627\u06cc\u0646-\u0628\u06cc\u0645\u0627\u0631\u06cc",
-      "urlToImage": "https://cdn.isna.ir/d/2024/06/02/4/63055736.jpg?ts=1717316636429",
-      "publishedAt": "2024-06-02 08:44:28",
-      "content": "/ : ( ) . : . : ( ) . (Dengue fever) . . . : #",
-      "retrievedAt": "2024-06-03 19:05:42.636287",
-      "internal_id": "9351b30c8fabafbc4ad85394eda8931b1f5bc13b9895b014e5159bcc1facdc8c",
       "publishedAtLabel": "Jun 2"
     }
   ]

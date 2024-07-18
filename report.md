@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2024-07-18 07:06
-- **Most recent article:** 2024-07-17 06:51:00
+- **New articles in last harvest:** 22
+- **Last harvest:** 2024-07-18 19:05
+- **Most recent article:** 2024-07-17 18:42:12
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 61 | 115 | 62 | 105 | 52 | 95 | 28 | 518 |
-| h5n1 | 77 | 55 | 29 | 36 | 59 | 52 | 43 | 351 |
-| malaria | 21 | 37 | 20 | 24 | 15 | 14 | 21 | 152 |
-| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 4 | 145 |
-| measles | 11 | 7 | 11 | 8 | 9 | 12 | 11 | 69 |
-| zika | 0 | 12 | 3 | 17 | 20 | 12 | 2 | 66 |
-| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 1 | 54 |
-| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 9 | 39 |
+| dengue | 58 | 115 | 62 | 105 | 52 | 95 | 40 | 527 |
+| h5n1 | 76 | 55 | 29 | 36 | 59 | 52 | 47 | 354 |
+| malaria | 20 | 37 | 20 | 24 | 15 | 14 | 22 | 152 |
+| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 6 | 147 |
+| measles | 11 | 7 | 11 | 8 | 9 | 12 | 13 | 71 |
+| zika | 0 | 12 | 3 | 17 | 20 | 12 | 4 | 68 |
+| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 3 | 56 |
+| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 10 | 40 |
 | pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 0 | 37 |
-| hpai | 2 | 4 | 4 | 3 | 3 | 5 | 4 | 25 |
+| hpai | 2 | 4 | 4 | 3 | 3 | 5 | 5 | 26 |
 | meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 0 | 19 |
 | typhoid | 1 | 1 | 2 | 3 | 4 | 6 | 0 | 17 |
 | leptospirosis | 1 | 1 | 1 | 2 | 1 | 3 | 3 | 12 |
@@ -34,11 +34,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (zika)
 
+- [“Le Olimpiadi di Parigi rischiano di diventare un focolaio di chikungunya, Zika, dengue, virus del Nilo e Usutu”: lo studio](https://www.ilfattoquotidiano.it/2024/07/17/le-olimpiadi-di-parigi-rischiano-di-diventare-un-focolaio-di-chikungunya-zika-dengue-virus-del-nilo-e-usutu-lo-studio/7626421/) (Ilfattoquotidiano.it)
+
+- [Preventing mosquito bites: Here's how to protect yourself and your family](https://www.business-standard.com/health/preventing-mosquito-bites-here-s-how-to-protect-yourself-and-your-family-124071700706_1.html) (Business Standard)
+
 - [Santé. JO 2024 : en combien de temps le moustique tigre peut-il transmettre une maladie ?](https://www.ledauphine.com/magazine-sante/2024/07/15/jo-2024-en-combien-de-temps-le-moustique-tigre-peut-il-transmettre-une-maladie) (Le Dauphiné Libéré)
 
 - [Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms) (The Times of India)
 
 ## 24-29 (rabies)
+
+- [Россельхознадзор заявил, что в РФ есть аналог ветпрепарата "Нобивак Rabies"](https://tass.ru/ekonomika/21385403) (Tass.ru)
 
 - [IIL donates anti-rabies vaccine to Vietnam](https://www.thehindubusinessline.com/news/iil-donates-anti-rabies-vaccine-to-vietnam/article68410605.ece) (BusinessLine)
 
@@ -60,6 +66,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (mpox)
 
+- [Mpox did not fade away. Africa faces two alarming outbreaks --- and lacks vaccines](https://www.npr.org/sections/goats-and-soda/2024/07/17/nx-s1-5036441/mpox-vaccines-south-africa-democratic-republic-of-congo) (NPR)
+
+- [Zwei Jahre nach der Infektion - „Riesige Narbe mitten im Gesicht“: Wie Mpox-Patient noch heute leidet](https://www.focus.de/gesundheit/ratgeber/hat-mein-leben-stark-veraendert-schmerzender-stuhlgang-entstelltes-gesicht-wie-betroffene-von-affenpocken-noch-heute-leiden_id_260101845.html) (Focus)
+
 - [أونتاريو تعلن ارتفاع إصابات مرض الجدري](https://www.ahram-canada.com/230159/) (Ahram-canada.com)
 
 - [Ontario seeing rise in Mpox cases: public health agency](https://toronto.citynews.ca/2024/07/16/ontario-rise-monkeypox-cases/) (Citynews.ca)
@@ -69,6 +79,10 @@ Source: [News API](https://newsapi.org/)
 - [DR Congo detects at least 25 mpox cases in Goma](https://www.voanews.com/a/dr-congo-detects-at-least-25-mpox-cases-in-goma-mainly-in-displacement-camps-/7695086.html) (VOA News)
 
 ## 24-29 (measles)
+
+- [Good Morning, News: Red Flag Warning, Measles in MultCo, and Pangea-Era Dino Bones Found](https://www.portlandmercury.com/good-morning-news/2024/07/17/47306999/good-morning-news-red-flag-warning-measles-in-multco-and-pangea-era-dino-bones-found) (The Portland Mercury)
+
+- [Zero-Dose Kids: देश में 16 लाख ऐसे बच्चे, जिन्हें नहीं लगी कोई वैक्सीन](https://www.aajtak.in/india/news/story/zero-dose-kids-comparison-flawed-as-indias-population-not-considered-in-who-unicef-data-says-sources-ntc-1986580-2024-07-17) (Aajtak.in)
 
 - [Measles Cases Reported at New York City Illegal Alien Shelter](https://legalinsurrection.com/2024/07/measles-cases-reported-at-new-york-city-illegal-alien-shelter/) (Legalinsurrection.com)
 
@@ -93,6 +107,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis](https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis) (Zerohedge.com)
 
 ## 24-29 (malaria)
+
+- [Preventing mosquito bites: Here's how to protect yourself and your family](https://www.business-standard.com/health/preventing-mosquito-bites-here-s-how-to-protect-yourself-and-your-family-124071700706_1.html) (Business Standard)
 
 - [Ministry releases list of counties with high prevalence of malaria](https://nation.africa/kenya/health/ministry-releases-list-of-counties-with-high-prevalence-of-malaria-4692064) (Nation.africa)
 
@@ -146,6 +162,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (hpai)
 
+- [Government holds high-level meet on avian flu threat, experts call for enhanced surveillance](https://economictimes.indiatimes.com/news/india/government-holds-high-level-meet-on-avian-flu-threat-experts-call-for-enhanced-surveillance/articleshow/111811128.cms) (The Times of India)
+
 - [Efficacy of commercial recombinant HVT vaccines against a North American clade 2.3.4.4b H5N1 highly pathogenic avian influenza virus in chickens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307100) (Plos.org)
 
 - [Influenza aviaria, quattro casi umani da polli di allevamento in Usa. I primi segnalati dal 2022](https://www.ilfattoquotidiano.it/2024/07/16/influenza-aviaria-quattro-casi-umani-da-polli-di-allevamento-in-usa-i-primi-casi-dal-2022/7625424/) (Ilfattoquotidiano.it)
@@ -155,6 +173,14 @@ Source: [News API](https://newsapi.org/)
 - [CDC Confirms Human Cases of H5 Bird Flu Among Colorado Poultry Workers](https://www.cdc.gov/media/releases/2024/p-0715-confirm-h5.html) (Cdc.gov)
 
 ## 24-29 (h5n1)
+
+- [Five people infected as bird flu appears to go from cows to chickens to humans](https://arstechnica.com/science/2024/07/five-people-infected-as-bird-flu-appears-to-go-from-cows-to-chickens-to-humans/) (Ars Technica)
+
+- [Bird flu sparking pandemic fears over 'mutation change'](https://www.gbnews.com/health/bird-flu-pandemic-symptoms-2024) (Gbnews.com)
+
+- [Vogelgrippe: Weitere Menschen in den USA sind infiziert](https://www.morgenpost.de/ratgeber-wissen/article406808372/vogelgrippe-weitere-menschen-in-den-usa-sind-infiziert.html) (Berliner Morgenpost)
+
+- ["Новая пандемия не за горами": Глава ВОЗ предупредил человечество о главном](https://life.ru/p/1672916) (Life.ru)
 
 - [Глава ВОЗ допустил возникновение новой пандемии](https://tass.ru/obschestvo/21379839) (Tass.ru)
 
@@ -244,6 +270,30 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (dengue)
 
+- [Un caso di Dengue nel Pratese, scatta subito disinfestazione](https://www.ansa.it/sito/notizie/cronaca/2024/07/17/un-caso-di-dengue-nel-pratese-scatta-subito-disinfestazione_539edd70-71c6-46a5-9bb7-c8fe49638ad5.html) (ANSA.it)
+
+- [Un caso di Dengue nel Pratese, scatta subito disinfestazione](https://www.ansa.it/toscana/notizie/2024/07/17/un-caso-di-dengue-nel-pratese-scatta-subito-disinfestazione_418d32bc-13cf-428f-8e40-7356a08edaef.html) (ANSA.it)
+
+- [Vacina contra dengue volta para rede privada. Veja quem pode tomar](https://www.metropoles.com/saude/vacina-dengue-volta-rede-privada) (Metropoles.com)
+
+- [Como vírus da dengue ganhou seu nome](https://www.bbc.com/portuguese/articles/c25lepy4r1do) (BBC News)
+
+- [Porto Alegre registra 9.888 casos de dengue neste ano](https://www.terra.com.br/noticias/porto-alegre-registra-9888-casos-de-dengue-neste-ano,19b3f583271eaefa98ecd9c3a6329597b6v5n6ag.html) (Terra.com.br)
+
+- [“Le Olimpiadi di Parigi rischiano di diventare un focolaio di chikungunya, Zika, dengue, virus del Nilo e Usutu”: lo studio](https://www.ilfattoquotidiano.it/2024/07/17/le-olimpiadi-di-parigi-rischiano-di-diventare-un-focolaio-di-chikungunya-zika-dengue-virus-del-nilo-e-usutu-lo-studio/7626421/) (Ilfattoquotidiano.it)
+
+- [Preventing mosquito bites: Here's how to protect yourself and your family](https://www.business-standard.com/health/preventing-mosquito-bites-here-s-how-to-protect-yourself-and-your-family-124071700706_1.html) (Business Standard)
+
+- [Former Prime Minister Chand admitted to Bir Hospital](https://english.khabarhub.com/2024/17/365921/) (Khabarhub.com)
+
+- [Entenda os principais motivos por trás da queda repentina de cabelo](https://www.terra.com.br/noticias/entenda-os-principais-motivos-por-tras-da-queda-repentina-de-cabelo,4c74d6a647b928b74c11bfd589ca29784wp9sds8.html) (Terra.com.br)
+
+- [Illegal mining areas vulnerable to dengue fever - Health Director — Kasapa102.5FM](https://kasapafmonline.com/?p=300206) (Kasapafmonline.com)
+
+- [Ghana Health Service highlights ongoing activities to fight Dengue outbreak | 3News](https://3news.com/news/ghana-health-service-highlights-ongoing-activities-to-fight-dengue-outbreak/) (3news.com)
+
+- [Serena Williams' husband, Reddit co-founder Alexis Ohanian, diagnosed with Lyme disease: Know all about the disease](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/serena-williams-husband-reddit-co-founder-alexis-ohanian-diagnosed-with-lyme-disease-know-all-about-the-disease/articleshow/111802271.cms) (The Times of India)
+
 - [95 milliards de dollars en 45 ans : les coûts économiques gigantesques des moustiques](https://objectif-languedoc-roussillon.latribune.fr/economie/recherche/2024-07-17/95-milliards-de-dollars-en-45-ans-les-couts-economiques-gigantesques-des-moustiques-1002474.html) (La Tribune.fr)
 
 - [94,7 milliards de dollars en 45 ans : pourquoi les coûts économiques induits par les moustiques explosent](https://objectif-languedoc-roussillon.latribune.fr/economie/recherche/2024-07-17/94-7-milliards-de-dollars-en-45-ans-pourquoi-les-couts-economiques-induits-par-les-moustiques-explosent-1002474.html) (La Tribune.fr)
@@ -301,6 +351,10 @@ Source: [News API](https://newsapi.org/)
 - [Pas op, in die leuke gieter uit Zuid-Frankrijk zit mogelijk een tijgermug](https://www.nrc.nl/nieuws/2024/07/14/als-je-de-leuke-gieter-uit-zuid-frankrijk-in-je-tuin-zet-ben-je-de-sjaak-dan-heb-je-tijgermuggen-waarschuwt-de-nvwa-a4859542) (Www.nrc.nl)
 
 ## 24-29 (chikungunya)
+
+- [“Le Olimpiadi di Parigi rischiano di diventare un focolaio di chikungunya, Zika, dengue, virus del Nilo e Usutu”: lo studio](https://www.ilfattoquotidiano.it/2024/07/17/le-olimpiadi-di-parigi-rischiano-di-diventare-un-focolaio-di-chikungunya-zika-dengue-virus-del-nilo-e-usutu-lo-studio/7626421/) (Ilfattoquotidiano.it)
+
+- [Preventing mosquito bites: Here's how to protect yourself and your family](https://www.business-standard.com/health/preventing-mosquito-bites-here-s-how-to-protect-yourself-and-your-family-124071700706_1.html) (Business Standard)
 
 - [Santé. JO 2024 : en combien de temps le moustique tigre peut-il transmettre une maladie ?](https://www.ledauphine.com/magazine-sante/2024/07/15/jo-2024-en-combien-de-temps-le-moustique-tigre-peut-il-transmettre-une-maladie) (Le Dauphiné Libéré)
 
@@ -2934,8 +2988,6 @@ Source: [News API](https://newsapi.org/)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
-- [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
-
 ## 24-23 (leptospirosis)
 
 - [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
@@ -3100,8 +3152,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
-- [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
-
 ## 24-23 (dengue)
 
 - [Govt still mulling using costly Qdenga vaccine](https://www.thestar.com.my/news/nation/2024/06/09/govt-still-mulling-using-costly-qdenga-vaccine) (The Star Online)
@@ -3219,12 +3269,6 @@ Source: [News API](https://newsapi.org/)
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.ru/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.ru)
 
 - [5 mitos e 5 verdades sobre a dengue e o mosquito Aedes aegypti](https://olhardigital.com.br/2024/06/02/medicina-e-saude/5-mitos-e-5-verdades-sobre-a-dengue-e-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
-
-- [Govt takes all-out preparedness to prevent dengue diseases: Health minister](https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781) (Tbsnews.net)
-
-- [Kathmandu metropolis urges citizens to take preventive measures against Dengue](https://english.khabarhub.com/2024/02/358993/) (Khabarhub.com)
-
-- [هشدار درباره تب دانگ و علائم این بیماری](https://www.isna.ir/news/1403031308826/هشدار-درباره-تب-دانگ-و-علائم-این-بیماری) (Isna.ir)
 
 ## 24-23 (chikungunya)
 
