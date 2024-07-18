@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2024-07-17 19:05
-- **Most recent article:** 2024-07-16 18:18:16
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-07-18 07:06
+- **Most recent article:** 2024-07-17 06:51:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 58 | 115 | 62 | 105 | 52 | 95 | 22 | 509 |
-| h5n1 | 76 | 55 | 29 | 36 | 59 | 52 | 38 | 345 |
-| malaria | 20 | 37 | 20 | 24 | 15 | 14 | 20 | 150 |
-| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 3 | 144 |
-| measles | 11 | 7 | 11 | 8 | 9 | 12 | 10 | 68 |
+| dengue | 61 | 115 | 62 | 105 | 52 | 95 | 28 | 518 |
+| h5n1 | 77 | 55 | 29 | 36 | 59 | 52 | 43 | 351 |
+| malaria | 21 | 37 | 20 | 24 | 15 | 14 | 21 | 152 |
+| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 4 | 145 |
+| measles | 11 | 7 | 11 | 8 | 9 | 12 | 11 | 69 |
 | zika | 0 | 12 | 3 | 17 | 20 | 12 | 2 | 66 |
 | chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 1 | 54 |
-| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 8 | 38 |
+| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 9 | 39 |
 | pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 0 | 37 |
 | hpai | 2 | 4 | 4 | 3 | 3 | 5 | 4 | 25 |
 | meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 0 | 19 |
@@ -40,6 +40,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (rabies)
 
+- [IIL donates anti-rabies vaccine to Vietnam](https://www.thehindubusinessline.com/news/iil-donates-anti-rabies-vaccine-to-vietnam/article68410605.ece) (BusinessLine)
+
 - [Rabid seals are attacking people in South Africa](https://www.livescience.com/animals/seals/rabid-seals-are-attacking-people-in-south-africa) (Live Science)
 
 - [Нидерландская компания отозвала регистрацию вакцины в России от бешенства для животных](https://vz.ru/news/2024/7/16/1277807.html) (Vz.ru)
@@ -58,6 +60,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (mpox)
 
+- [أونتاريو تعلن ارتفاع إصابات مرض الجدري](https://www.ahram-canada.com/230159/) (Ahram-canada.com)
+
 - [Ontario seeing rise in Mpox cases: public health agency](https://toronto.citynews.ca/2024/07/16/ontario-rise-monkeypox-cases/) (Citynews.ca)
 
 - [A New Strain Of Mpox Is Spreading In Congo. Here’s What To Know About The Disease](https://www.forbes.com/sites/omerawan/2024/07/14/a-new-strain-of-mpox-is-spreading-in-congo-heres-what-to-know-about-the-disease/) (Forbes)
@@ -65,6 +69,8 @@ Source: [News API](https://newsapi.org/)
 - [DR Congo detects at least 25 mpox cases in Goma](https://www.voanews.com/a/dr-congo-detects-at-least-25-mpox-cases-in-goma-mainly-in-displacement-camps-/7695086.html) (VOA News)
 
 ## 24-29 (measles)
+
+- [Measles Cases Reported at New York City Illegal Alien Shelter](https://legalinsurrection.com/2024/07/measles-cases-reported-at-new-york-city-illegal-alien-shelter/) (Legalinsurrection.com)
 
 - [Measles breaks out at massive NYC migrant shelter](https://www.foxnews.com/health/measles-breaks-out-at-massive-nyc-migrant-shelter) (Fox News)
 
@@ -87,6 +93,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis](https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis) (Zerohedge.com)
 
 ## 24-29 (malaria)
+
+- [Ministry releases list of counties with high prevalence of malaria](https://nation.africa/kenya/health/ministry-releases-list-of-counties-with-high-prevalence-of-malaria-4692064) (Nation.africa)
 
 - [South Sudan rolls out malaria vaccination campaign across six states](https://www.thestar.com.my/news/world/2024/07/17/south-sudan-rolls-out-malaria-vaccination-campaign-across-six-states) (The Star Online)
 
@@ -147,6 +155,16 @@ Source: [News API](https://newsapi.org/)
 - [CDC Confirms Human Cases of H5 Bird Flu Among Colorado Poultry Workers](https://www.cdc.gov/media/releases/2024/p-0715-confirm-h5.html) (Cdc.gov)
 
 ## 24-29 (h5n1)
+
+- [Глава ВОЗ допустил возникновение новой пандемии](https://tass.ru/obschestvo/21379839) (Tass.ru)
+
+- [美国已有13个州现禽流感疫情](https://www.cnbeta.com.tw/articles/tech/1438541.htm) (Cnbeta.com.tw)
+
+- [Colorado bird flu cases suggest extreme heat may be complicating efforts to control the virus | CNN](https://www.cnn.com/2024/07/16/health/bird-flu-cases-extreme-heat/index.html) (CNN)
+
+- [Surto de gripe aviária nos Estados Unidos: entenda o cenário e se há risco de epidemia entre humanos](https://www.terra.com.br/vida-e-estilo/saude/surto-de-gripe-aviaria-nos-estados-unidos-entenda-o-cenario-e-se-ha-risco-de-epidemia-entre-humanos,cab2d4870bf9d727fa753975b0470f6b26yfaf6h.html) (Terra.com.br)
+
+- [Six Colorado workers contracted bird flu, the most human cases in a state](https://www.washingtonpost.com/health/2024/07/16/bird-flu-colorado-poultry-cow/) (The Washington Post)
 
 - [U.S. bird flu response builds on lessons learned from COVID](https://www.hsph.harvard.edu/news/features/u-s-bird-flu-response-builds-on-lessons-learned-from-covid/) (Harvard School of Engineering and Applied Sciences)
 
@@ -225,6 +243,18 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1131: Mootant influenza H5N1 virus](https://www.microbe.tv/twiv/twiv-1131/) (Microbe.tv)
 
 ## 24-29 (dengue)
+
+- [95 milliards de dollars en 45 ans : les coûts économiques gigantesques des moustiques](https://objectif-languedoc-roussillon.latribune.fr/economie/recherche/2024-07-17/95-milliards-de-dollars-en-45-ans-les-couts-economiques-gigantesques-des-moustiques-1002474.html) (La Tribune.fr)
+
+- [94,7 milliards de dollars en 45 ans : pourquoi les coûts économiques induits par les moustiques explosent](https://objectif-languedoc-roussillon.latribune.fr/economie/recherche/2024-07-17/94-7-milliards-de-dollars-en-45-ans-pourquoi-les-couts-economiques-induits-par-les-moustiques-explosent-1002474.html) (La Tribune.fr)
+
+- [Farmácias e clínicas particulares voltam a oferecer vacina contra a dengue](https://www.terra.com.br/vida-e-estilo/saude/farmacias-e-clinicas-particulares-voltam-a-oferecer-vacina-contra-a-dengue,e95fc3d3dfc8bbcc03c46e76263ebe73itpccjtx.html) (Terra.com.br)
+
+- [Vacina da dengue volta a ser aplicada em laboratórios particulares](https://valor.globo.com/brasil/noticia/2024/07/16/vacina-da-dengue-volta-a-ser-aplicada-em-laboratorios-particulares.ghtml) (Globo)
+
+- [Dengue, H1N1, lepto...city sees rise in monsoon ailments amid July rainfall](https://timesofindia.indiatimes.com/city/mumbai/rise-in-monsoon-ailments-in-mumbai-amid-july-rainfall/articleshow/111793080.cms) (The Times of India)
+
+- [Dengue suma ya 15.000 casos en Costa Rica este año; 329% más que para la misma época de 2023](https://www.nacion.com/ciencia/salud/dengue-suma-ya-15000-casos-en-costa-rica-este-ano/VB6YS7CYYVAWDC36MQSILICOEE/story/) (Nacion.com)
 
 - [تجربه یک کاربر فضای مجازی از تب دنگی](https://www.tabnak.ir/fa/news/1248399/تجربه-یک-کاربر-فضای-مجازی-از-تب-دنگی) (Tabnak.ir)
 
@@ -2904,6 +2934,8 @@ Source: [News API](https://newsapi.org/)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
+- [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
+
 ## 24-23 (leptospirosis)
 
 - [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
@@ -3068,6 +3100,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
+- [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
+
 ## 24-23 (dengue)
 
 - [Govt still mulling using costly Qdenga vaccine](https://www.thestar.com.my/news/nation/2024/06/09/govt-still-mulling-using-costly-qdenga-vaccine) (The Star Online)
@@ -3185,6 +3219,12 @@ Source: [News API](https://newsapi.org/)
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.ru/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.ru)
 
 - [5 mitos e 5 verdades sobre a dengue e o mosquito Aedes aegypti](https://olhardigital.com.br/2024/06/02/medicina-e-saude/5-mitos-e-5-verdades-sobre-a-dengue-e-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
+
+- [Govt takes all-out preparedness to prevent dengue diseases: Health minister](https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781) (Tbsnews.net)
+
+- [Kathmandu metropolis urges citizens to take preventive measures against Dengue](https://english.khabarhub.com/2024/02/358993/) (Khabarhub.com)
+
+- [هشدار درباره تب دانگ و علائم این بیماری](https://www.isna.ir/news/1403031308826/هشدار-درباره-تب-دانگ-و-علائم-این-بیماری) (Isna.ir)
 
 ## 24-23 (chikungunya)
 
