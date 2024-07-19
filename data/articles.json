@@ -1,8 +1,477 @@
 {
-  "last_updated": "2024-07-19 07:07",
-  "count_articles_total": 1451,
-  "count_articles_new": 7,
+  "last_updated": "2024-07-19 19:05",
+  "count_articles_total": 1472,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 11245,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "James Gallagher",
+      "title": "Urgent action needed as malaria evolves resistance to key drug",
+      "description": "Malaria parasites that can shrug off the effects of artemisinin are now well-established in East Africa.",
+      "url": "https://www.bbc.co.uk/news/articles/cxe25v5d8l9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2869/live/1ca142c0-4469-11ef-a959-6902b6903fc8.jpg",
+      "publishedAt": "2024-07-18 18:26:31",
+      "content": "A similar story has happened before. The parasite became resistant to a previous drug - chloroquine - in East Africa in the 1970s, and resistance reached the west coast by the 1980s. Malaria deaths\u2026 [+1604 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.858266",
+      "internal_id": "b1bc1641ea31c862025363fe91a9eb9a101d80ae09954e545743af21ea9f7b17",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11243,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Urgent action needed as malaria resists key drug",
+      "description": "Malaria parasites that can shrug off the effects of artemisinin are now well-established in East Africa.",
+      "url": "https://www.bbc.com/news/articles/cxe25v5d8l9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2869/live/1ca142c0-4469-11ef-a959-6902b6903fc8.jpg",
+      "publishedAt": "2024-07-18 18:08:41",
+      "content": "A swarm of mosquitoes, the insects that spread malaria when they drink blood Millions of lives are at risk unless urgent and radical action is taken to stop drug-resistant malaria spreading in Afric\u2026 [+3542 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.769723",
+      "internal_id": "0be652a940d1a662e3ec1e9332f948eec00890be403da3b6b2f061ea6d49e472",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11244,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Alexandra Ferguson",
+      "title": "\u00bfEst\u00e1s pensando en hacerte un tatuaje? Una nueva investigaci\u00f3n podr\u00eda hacerte cambiar de opini\u00f3n",
+      "description": "Un nuevo estudio de la Administraci\u00f3n de Alimentos y Medicamentos de EE.UU. revel\u00f3 que algunos frascos sellados de tinta para tatuajes y maquillaje permanente, incluidos algunos marcados como est\u00e9riles, conten\u00edan millones de bacterias potencialmente peligrosa\u2026",
+      "url": "https://cnnespanol.cnn.com/2024/07/18/tatuaje-investigacion-bacterias-tinta-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1168964424.jpg?quality=100&strip=info",
+      "publishedAt": "2024-07-18 17:51:44",
+      "content": "Superbacterias, un mal m\u00e1s letal que el VIH y la malaria 0:54 (CNN) -- Un nuevo estudio de la Administraci\u00f3n de Alimentos y Medicamentos de EE.UU. revel\u00f3 que algunos frascos sellados de tinta para t\u2026 [+8580 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.821040",
+      "internal_id": "ad536313829b433e5b266aec62a89264376103e814f9972acc7aab81d31e551a",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11234,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Dengue tiene a 10 personas hospitalizadas en Costa Rica, entre ellas un ni\u00f1o",
+      "description": "En lo que va del a\u00f1o, se han dado seis casos de dengue grave en el pa\u00eds, pero ninguno ha fallecido, inform\u00f3 el Ministerio de Salud",
+      "url": "https://www.nacion.com/ciencia/salud/dengue-tiene-a-10-personas-hospitalizadas-en-costa/EEKRRYPCSBEO7LLO4VIN4ZYSWE/story/",
+      "urlToImage": "https://www.nacion.com/resizer/PiATf3lWvk3ueCCDZT1C1-o3WmE=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/U5XOPZMSYRCBTK6C32OILYZUBQ.jpg",
+      "publishedAt": "2024-07-18 17:22:00",
+      "content": "El dengue no cede en Costa Rica. Los casos no solo son 329% m\u00e1s de los vistos para la misma \u00e9poca de 2023, sino que tambi\u00e9n las hospitalizaciones van en aumento. El Ministerio de Salud confirm\u00f3 la ma\u2026 [+9003 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.019804",
+      "internal_id": "7d799f18386e17bffb714ca83d036fd0c854b108c61c3f886dcdd81480864169",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11236,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Scoperto caso di Dengue vicino a Carrara, disinfestazione",
+      "description": "Un caso di febbre Dengue \u00e8 stato trovato a Carrara (Massa Carrara) e riguarda una persona tornata da un paese tropicale che poi ha soggiornato nella frazione di Avenza, in via Covetta, all'altezza dei campi sportivi. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2024/07/18/scoperto-caso-di-dengue-vicino-a-carrara-disinfestazione_0b01e154-fefe-4caa-a325-6a1af63866fc.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/30/eed15edca9a3fd846b89774e299fe68f.jpg",
+      "publishedAt": "2024-07-18 17:14:12",
+      "content": "Un caso di febbre Dengue \u00e8 stato trovato a Carrara (Massa Carrara) e riguarda una persona tornata da un paese tropicale che poi ha soggiornato nella frazione di Avenza, in via Covetta, all'altezza\u2026 [+1162 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.097492",
+      "internal_id": "434e50a0f9c5f644fd34264a3dcdd1a141ba7fd8d658dd990c068d5707cf21e1",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11228,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Usda.gov",
+      "author": "ljf",
+      "title": "Confirmation of Highly Pathogenic Avian Influenza in Commercial& Backyard Flocks",
+      "description": "Article URL: https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/commercial-backyard-flocks Comments URL: https://news.ycombinator.com/item?id=40996696 Points: 3 # Comments: 0",
+      "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/commercial-backyard-flocks",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18 15:40:38",
+      "content": "Detections are higher in the fall and spring, because we continue to see wild birds spreading virus as they migrate to their seasonal homes. APHIS continues to work closely with State animal health o\u2026 [+631 chars]",
+      "retrievedAt": "2024-07-19 19:05:39.126603",
+      "internal_id": "8fe6b6c9d6cc66056caeacf75109af8357b1f03efa374f7bf5ea901c867e50b9",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11224,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Adam Piore",
+      "title": "State officials report first measles case in Mass. since 2020",
+      "description": "Department of Public Health Officials urged residents to make sure they are up to date on vaccinations.",
+      "url": "https://www.bostonglobe.com/2024/07/18/metro/measles-massachusetts-vaccinated-outbreak/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/vGnT6crwA4UcIAAoWTKhQ0MrpHQ=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/LMSOIGLMF7PH6GFRO6K2IZWGQY.jpg",
+      "publishedAt": "2024-07-18 15:38:51",
+      "content": "The case was diagnosed in early July in an adult resident from Worcester County who recently traveled internationally. Measles cases have been surging across parts of Europe all year, prompting inte\u2026 [+2341 chars]",
+      "retrievedAt": "2024-07-19 19:05:38.690250",
+      "internal_id": "949ee3f380e2182021f59aa411ecd0b60ccf0a08022e26eb754461743bf5b507",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11225,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Grace Zokovitch",
+      "title": "Massachusetts reports first confirmed case of measles in four years",
+      "description": "An adult resident from Worcester County who recently traveled internationally has been diagnosed with measles, the first confirmed case in a Massachusetts resident since 2020, the Massachusetts Department of Public Health reported.",
+      "url": "https://www.bostonherald.com/2024/07/18/massachusetts-reports-first-confirmed-case-of-measles-in-four-years/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/03/Q3MNIARCFFETRCBVLZNLS6YY2A.jpg?w=1024&h=683",
+      "publishedAt": "2024-07-18 15:17:25",
+      "content": "An adult resident from Worcester County who recently traveled internationally has been diagnosed with measles, the first confirmed case in a Massachusetts resident since 2020, the Massachusetts Depar\u2026 [+1718 chars]",
+      "retrievedAt": "2024-07-19 19:05:38.713996",
+      "internal_id": "44352e84d91bced0259e228d8d72d45e31c6a41207d51055aec1545dfa8e0b4f",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11227,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston 25 News",
+      "author": "Frank O'laughlin",
+      "title": "Health officials announce 1st confirmed measles case in Mass. resident since 2020",
+      "description": "Anyone who doesn\u2019t know their measles immunization status is urged to contact their healthcare provider to get vaccinated.",
+      "url": "https://www.boston25news.com/news/local/health-officials-announce-1st-confirmed-measles-case-mass-resident-since-2020/4KMBF7G6GFEEHCE4VQGRJZSUEM/",
+      "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/Y5ZCUKUTyqAAEHNvvixIqWv9PyQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/AXULX4S2DNBPZPMDBYKS7ORHOQ.jpeg",
+      "publishedAt": "2024-07-18 14:26:39",
+      "content": "WORCESTER, Mass. \u2014 The Massachusetts Department of Public Health on Thursday announced the states first confirmed case of measles since 2020. An adult resident from Worcester County who recently tra\u2026 [+1546 chars]",
+      "retrievedAt": "2024-07-19 19:05:38.752084",
+      "internal_id": "fef1f3aa623979d7b7428ee7332a293fcb88d8fa0d6493106b9fff23ecf70202",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11231,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Corina Sl\u0103mnoiu",
+      "title": "Gripa aviar\u0103 ar putea provoca viitoare pandemie global\u0103. Cinci muncitori s-au infectat cu gripa aviar\u0103 la o ferm\u0103 din Colorado",
+      "description": "Cinci angaja\u021bi ai unei ferme din Colorado au fost infecta\u021bi cu grip\u0103 aviar\u0103, H5N1, virus extrem de contagios cu poten\u021bial pandemic. Cele cinci cazuri au ap\u0103rut ca urmare a unui focar izbucnit la o ferm\u0103 de p\u0103s\u0103ri din apropiere, despre care se presupune c\u0103 a f\u2026",
+      "url": "https://adevarul.ro/stiri-externe/sua/gripa-aviara-ar-putea-provoca-viitoare-pandemie-2376110.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-e/e866bee7-f8a0-4320-ab1b-d471c8c0ad4d/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-07-18 14:26:19",
+      "content": "Cinci angajai ai unei ferme din Colorado au fost infectai cu grip aviar, H5N1, virus extrem de contagios cu potenial pandemic. Cele cinci cazuri au aprut ca urmare a unui focar izbucnit la o ferm de \u2026 [+3155 chars]",
+      "retrievedAt": "2024-07-19 19:05:39.549988",
+      "internal_id": "bfc935b5b0894e82b42b4d42e095e0771558538098657816170dcf01785951e5",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11238,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Portal EdiCase",
+      "title": "10 mitos e verdades sobre a dengue",
+      "description": "No Brasil, o primeiro semestre de 2024 registrou alarmantes 6.159.160 casos prov\u00e1veis de dengue, ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/10-mitos-e-verdades-sobre-a-dengue,ff4b0b689a8401ccdbcb72168aa6885be50izawp.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/07/18/1342802464-dengue.jpg",
+      "publishedAt": "2024-07-18 14:01:29",
+      "content": "No Brasil, o primeiro semestre de 2024 registrou alarmantes 6.159.160 casos prov\u00e1veis de dengue, 4.250 mortes confirmadas e 2.730 \u00f3bitos ainda em investiga\u00e7\u00e3o, segundo dados do painel de monitorament\u2026 [+4434 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.130354",
+      "internal_id": "60365ff20793bc4a2efe130e8550b32439249336ed5c41f14ef0cfe28b0e7444",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11241,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yanqin Shen, Yuyang Ling, Guocan Yu, Xiaoxia Zhang",
+      "title": "The value of nanopore sequencing as a diagnostic tool in tuberculous meningitis: A protocol of systematic review and meta-analysis",
+      "description": "Background Rapid diagnosis of tuberculous meningitis (TBM) remains very difficult. Nanopore sequencing is gaining ground in the field of rapid tuberculosis (TB) diagnostics. The purpose of this study was to complete a protocol to guide the conduct of a system\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307389",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18 14:00:00",
+      "content": "Citation: Shen Y, Ling Y, Yu G, Zhang X (2024) The value of nanopore sequencing as a diagnostic tool in tuberculous meningitis: A protocol of systematic review and meta-analysis. PLoS ONE 19(7): e0\u2026 [+12143 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.519627",
+      "internal_id": "7e0b71069d8c6c7bc0a0edee5bb079b8dc2ce9b7832a02db80fe084c1aabc378",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11232,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Rocco Auriemma",
+      "title": "L'influenza aviaria non ha intenzione di mollare la presa, nuovi casi in Colorado",
+      "description": "Un focolaio di influenza aviaria H5N1 in Colorado ha infettato lavoratori umani, sollevando preoccupazioni per la salute pubblica e l'agricoltura.Recentemente, un focolaio di influenza aviaria H5N1 ha sollevato preoccupazioni significative negli Stati Uniti. \u2026",
+      "url": "https://tech.everyeye.it/notizie/influenza-aviaria-non-intenzione-mollare-presa-casi-colorado-730618.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/l-influenza-aviaria-non-intenzione-mollare-presa-casi-colorado-v4-730618.jpg",
+      "publishedAt": "2024-07-18 13:00:00",
+      "content": "Recentemente, un focolaio di influenza aviaria H5N1 ha sollevato preoccupazioni significative negli Stati Uniti. Il virus, noto per la sua alta infettivit\u00e0 e potenziale pandemico, sembra essersi diff\u2026 [+3209 chars]",
+      "retrievedAt": "2024-07-19 19:05:39.608778",
+      "internal_id": "21a8f66dc39451ccf364b65e9bf41945ea85f145690193960d1e25f5120484b4",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11237,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thechronicle.com.gh",
+      "author": "ISAAC AKWETEY-OKUNOR",
+      "title": "E/R records 103 suspected cases of dengue fever",
+      "description": "The Ghana Health Service (GHS) office in Koforidua has confirmed approximately 103 suspected cases of the Dengue fever across the region whilst 57 more samples are being processed and 11 confirmed cases. The cases, which are mainly centered in Achiase, Akyema\u2026",
+      "url": "https://thechronicle.com.gh/e-r-records-103-suspected-cases-of-dengue-fever/",
+      "urlToImage": "https://bunny-wp-pullzone-vufvp0bs6b.b-cdn.net/wp-content/uploads/2024/07/Dengue.jpg",
+      "publishedAt": "2024-07-18 12:31:35",
+      "content": "The Ghana Health Service (GHS) office in Koforidua has confirmed approximately 103 suspected cases of the Dengue fever across the region whilst 57 more samples are being processed and 11 confirmed ca\u2026 [+2450 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.121632",
+      "internal_id": "77afdb3f12434748cf91d32e071e2d6342c24b5f6a109193a132c6b5bc7c24ce",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11230,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Freitag.de",
+      "author": "Regina Bartel",
+      "title": "Gesundheit | Die Vogelgrippe breitet sich aus: Diese Symptome weisen infizierte Menschen auf",
+      "description": "Der H5N1-Virus breitet sich in der Tierwelt rasant aus, ganze Arten sind vom Aussterben bedroht. Und auch Menschen k\u00f6nnen daran erkranken. Welche Symptome weisen infizierte Menschen auf? Und droht uns jetzt eine neue Pandemie? Zirka 25 Jahre nach seinem erste\u2026",
+      "url": "https://www.freitag.de/autoren/regina-bartel/vogelgrippe-breitet-sich-aus-diese-symptome-weisen-infizierte-menschen-auf",
+      "urlToImage": "https://www.freitag.de/autoren/regina-bartel/vogelgrippe-breitet-sich-aus-diese-symptome-weisen-infizierte-menschen-auf/@@images/social_image",
+      "publishedAt": "2024-07-18 12:00:00",
+      "content": "Zirka 25 Jahre nach seinem ersten Auftreten in S\u00fcdostasien hat das Avi\u00e4re Influenzavirus H5N1 Anfang der 2020er Jahre das Upgrade zur Panzootie geschafft. Eine Panzootie ist eine Pandemie im Tierreic\u2026 [+508 chars]",
+      "retrievedAt": "2024-07-19 19:05:39.525942",
+      "internal_id": "7aac744aae5a1c57b63cd5128b588271153cfda14925920b09437276c2883143",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11229,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "L\u2019aviaria endemica",
+      "description": "Il virus dell\u2019influenza aviaria H5N1 del ceppo 2.3.4.4b potrebbe diventare endemico negli allevamenti di bovini degli Stati Uniti. In tal caso gli allevatori dovrebbero\u2026 Leggi",
+      "url": "https://www.internazionale.it/magazine/2024/07/18/l-aviaria-endemica",
+      "urlToImage": "https://static.internazionale.it/assets/img/internazionale-icon.png",
+      "publishedAt": "2024-07-18 11:01:24",
+      "content": "Il virus dellinfluenza aviaria H5N1 del ceppo 2.3.4.4b potrebbe diventare endemico negli allevamenti di bovini degli Stati Uniti. In tal caso gli allevatori dovrebbero preoccuparsi ogni anno di event\u2026 [+464 chars]",
+      "retrievedAt": "2024-07-19 19:05:39.490644",
+      "internal_id": "507e7032d6ea6baa9a5aed1d1dec2e4830e98e19536fb3e247a803b59dea78ae",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11233,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Ssa: cunde el dengue en el pa\u00eds por falta de inversi\u00f3n de entidades",
+      "description": "La falta de inversi\u00f3n de los gobiernos de los estados en maquinaria, insumos y contrataci\u00f3n de personal para prevenir, vigilar y controlar el mosquito transmisor del dengue, as\u00ed como para la detecci\u00f3n temprana de los afectados, es la causa del crecimiento exp\u2026",
+      "url": "https://www.jornada.com.mx/2024/07/18/politica/012n1pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-07-18 09:42:35",
+      "content": "Peri\u00f3dico La JornadaJueves 18 de julio de 2024, p. 12 La falta de inversi\u00f3n de los gobiernos de los estados en maquinaria, insumos y contrataci\u00f3n de personal para prevenir, vigilar y controlar el mo\u2026 [+4190 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.014314",
+      "internal_id": "5580b78dc2d2e5ce767ceb55b6f00464de7b70025d107dd333c96543471c4bdd",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11249,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Leptospirosis cases on the rise in Melaka",
+      "description": "MELAKA: The number of leptospirosis cases in Melaka increased to 80 between Jan 1 and July 6 compared to 28 last year. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/07/18/leptospirosis-cases-on-the-rise-in-melaka",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/07/18/2808944.jpg",
+      "publishedAt": "2024-07-18 09:09:00",
+      "content": "MELAKA: The number of leptospirosis cases in Melaka increased to 80 between Jan 1 and July 6 compared to 28 last year. State Rural Development, Agriculture and Food Security Committee chairman Dr Mu\u2026 [+1786 chars]",
+      "retrievedAt": "2024-07-19 19:05:42.099874",
+      "internal_id": "7a0215fa6b7a271f1e146ea19e52ae51f566856a57152c1f0238a221ec2acaea",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11248,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Prega Govender",
+      "title": "News24 | Mpox: First case at a school reported in Hammanskraal, Gauteng",
+      "description": "The first monkeypox case at a school has been reported at Iketleng Primary School in Hammanskraal, outside Pretoria.",
+      "url": "https://www.news24.com/news24/southafrica/news/mpox-first-case-at-a-school-reported-in-hammanskraal-gauteng-20240718",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/172/b12a52c54eba41969d1aaa15a51bae85.jpg",
+      "publishedAt": "2024-07-18 08:56:11",
+      "content": "A Grade 1 pupil from Iketleng Primary School in Hammanskraal was admitted to hospital on Monday.She had visited relatives over the weekend where some of them allegedly displayed symp\u2026 [+2384 chars]",
+      "retrievedAt": "2024-07-19 19:05:41.735749",
+      "internal_id": "5accc67a78ee09f87d17525af5c41ddd972e7c08d48efd39f7f9df08a2af02e7",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11226,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Gourdan, P., Colanic, I., Blanc, S., Fina, A., Baque-Juston, M., Solla, F., Giordano, A., Hubiche, T., Rohrlich, P., Barlogis, V., Bustamante, J., Boisson-Dupuis, S., Giovannini-Chami, L.",
+      "title": "Multifocal tuberculosis: a phenotype of Mendelian susceptibility to mycobacterial disease",
+      "description": "A just over 1-year-old girl presented with a history of multifocal tuberculosis. The patient was born at full-term in Madagascar. She was not BCG vaccinated. At 8 months old, she had measles complicated by pneumonia, with a persistent cough treated with prolo\u2026",
+      "url": "https://adc.bmj.com/content/109/8/673",
+      "urlToImage": "https://adc.bmj.com/sites/default/files/highwire/archdischild/109/8.cover-source.jpg",
+      "publishedAt": "2024-07-18 08:25:25",
+      "content": "Contributors PG, IC and LG-C drafted the initial manuscript, participated in the conceptualisation of the case report, performed a complete review of the current literature, critically revised the ma\u2026 [+356 chars]",
+      "retrievedAt": "2024-07-19 19:05:38.731675",
+      "internal_id": "9a274ff67e99b9a6982dca70b19ae37be847b8ff0019ba7529d3a3221ddebbca",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11239,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Starrfm.com.gh",
+      "author": "Starrfm.com.gh",
+      "title": "E/R: Health worker, 44 others infected with dengue fever as suspected cases hit 229 in many districts - Starr Fm",
+      "description": "Dengue fever cases continue to rise in parts of Eastern Region with confirmed cases now reaching 45 across five districts as of July 17, 2024. The affected districts with confirmed cases include Birim Central, Achiase, Akyemansa, Birim South, and Birim North.\u2026",
+      "url": "https://starrfm.com.gh/2024/07/e-r-health-worker-44-others-infected-with-dengue-fever-as-suspected-cases-hit-229-in-many-districts/",
+      "urlToImage": "https://starrfm.com.gh/wp-content/uploads/2024/07/dengue.jpg",
+      "publishedAt": "2024-07-18 08:18:37",
+      "content": "Dengue fever cases continue to rise in parts of Eastern Region with confirmed cases now reaching 45 across five districts as of July 17, 2024. The affected districts with confirmed cases include Bir\u2026 [+2124 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.153992",
+      "internal_id": "9317394c5b762da06da6ed9fab08e3071a72d9a4f62757089623a09822a0bded",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11235,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Sonika Nitin Nimje",
+      "title": "Rising cases of mosquito-borne diseases alarms authorities in Maharashtra",
+      "description": "Chikungunya cases have more than doubled since last year in Maharashtra, and the number of dengue cases has shot up to 3736 since the beginning of this year",
+      "url": "https://www.business-standard.com/health/rising-cases-of-mosquito-borne-diseases-alarms-authorities-in-maharashtra-124071800518_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2015-08/31/thumb/featurecrop/400X400/1441011666-2627.jpg",
+      "publishedAt": "2024-07-18 08:02:09",
+      "content": "Chikungunya cases have more than doubled since last year in Maharashtra, and the number of dengue cases has shot up to 3736 since the beginning of this year Rising cases of mosquito borne diseases \u2026 [+4386 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.073780",
+      "internal_id": "d13fbd2e8bb5d0f5ea46b01ddf665cdf36b988184b05ebe5023c448ade3b701d",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11242,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna Ning Prisie",
+      "title": "Ministry makes meningitis vaccine mandatory for Umrah pilgrims",
+      "description": "The Health Ministry issued circular number HK.02.02/A/3717/2024 that outlines meningitis vaccination for Hajj and Umrah pilgrims being made mandatory for ...",
+      "url": "https://en.antaranews.com/news/319098/ministry-makes-meningitis-vaccine-mandatory-for-umrah-pilgrims",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/04/19/antarafoto-vaksinasi-meningitis-petugas-haji-2024-190424-irp-7.jpg",
+      "publishedAt": "2024-07-18 08:00:44",
+      "content": "Jakarta (ANTARA) - The Health Ministry issued circular number HK.02.02/A/3717/2024 that outlines meningitis vaccination for Hajj and Umrah pilgrims being made mandatory for those seeking to perform p\u2026 [+2098 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.526274",
+      "internal_id": "131249785d5036ff9918b32a4710689f72951c34db0c6a9ad8109995d06ebd5e",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11240,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "KMC calls citizens for contacting 1180 in suspected case of dengue",
+      "description": "KATHMANDU: The Kathmandu Metropolitan City (KMC) Office has urged citizens to promptly dial 1180 in case of suspected dengue infection and get required advice. In response to the heightened risk of rapid breeding of dengue transmitting mosquitoes posed by ong\u2026",
+      "url": "https://english.khabarhub.com/2024/18/366015/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/02/KMC.jpg",
+      "publishedAt": "2024-07-18 08:00:36",
+      "content": "KATHMANDU: The Kathmandu Metropolitan City (KMC) Office has urged citizens to promptly dial 1180 in case of suspected dengue infection and get required advice. In response to the heightened risk of \u2026 [+770 chars]",
+      "retrievedAt": "2024-07-19 19:05:40.163243",
+      "internal_id": "684ba9761037d9bf5e53d7e4cfd7246877db17fa88affb6b7748a8fe1f28c094",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11246,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Receives EMA Filing Acceptance and Validation of the MAA for its Chikungunya Vaccine",
+      "description": "COPENHAGEN, Denmark, July 18, 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced that the European Medicines Agency (EMA) has validated the marketing authorization application (MAA), which was submitted in June 2024 for CHIKV VLP, the Company\u2019s vaccine ca\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/07/18/2915056/0/en/Bavarian-Nordic-Receives-EMA-Filing-Acceptance-and-Validation-of-the-MAA-for-its-Chikungunya-Vaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-07-18 07:15:00",
+      "content": "EMA will now initiate its centralized review procedure under accelerated assessment for Bavarian Nordics chikungunya vaccineCOPENHAGEN, Denmark, July 18, 2024 Bavarian Nordic A/S (O\u2026 [+4940 chars]",
+      "retrievedAt": "2024-07-19 19:05:41.381431",
+      "internal_id": "b16b789d5b488b3df3201dbddeca0b548d61ef8aa3eecb7a67273f3d81b8a7c8",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 11247,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic modtager accept fra de europ\u00e6iske l\u00e6gemiddelmyndigheder af registreringsans\u00f8gningen for chikungunyavaccine",
+      "description": "K\u00d8BENHAVN, Danmark, 18. juli 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at de europ\u00e6iske l\u00e6gemiddelmyndigheder, European Medicines Agency (EMA), har valideret registreringsans\u00f8gningen for selskabets vaccinekandidat til forebyggende immunisering mo\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/07/18/2915056/0/da/Bavarian-Nordic-modtager-accept-fra-de-europ%C3%A6iske-l%C3%A6gemiddelmyndigheder-af-registreringsans%C3%B8gningen-for-chikungunyavaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-07-18 07:15:00",
+      "content": "EMA p\u00e5begynder nu den fremskyndede vurdering af Bavarian Nordics chikungunyavaccine under den centraliserede procedureK\u00d8BENHAVN, Danmark, 18. juli 2024 Bavarian Nordic A/S (OMX: BAV\u2026 [+5091 chars]",
+      "retrievedAt": "2024-07-19 19:05:41.387014",
+      "internal_id": "8c40dbde92c06cc6bc5b4cc8133d1cef0d0c354944572c493de73db46e6af70e",
+      "publishedAtLabel": "Jul 18"
+    },
     {
       "id": 11222,
       "query": [
@@ -26125,96 +26594,6 @@
       "content": "O Brasil, e mais recentemente o mundo, t\u00eam passado por grandes epidemias de dengue nas \u00faltimas d\u00e9cadas. O aumento de casos ano a ano, incluindo as fatalidades, amplifica a necessidade de informa\u00e7\u00f5es \u2026 [+4120 chars]",
       "retrievedAt": "2024-06-04 07:05:53.763516",
       "internal_id": "9cff37cdf516558dc44701a8861b24ecf1b0a4e28e5797f7abe5e5da1f65eb1a",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9775,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Bss",
-      "title": "Govt takes all-out preparedness to prevent dengue diseases: Health minister",
-      "description": "We have asked all relevant organisations to remain alert for taking prompt actions to deal with any possible outbreak of the dengue diseases, he said",
-      "url": "https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_watermark_bkash/public/images/2024/06/02/2024-06-02-12-01-c7995d6e54cafe6b9e51e0ed1ae83c2d.jpg",
-      "publishedAt": "2024-06-02 15:45:06",
-      "content": "The government has taken all-out preparedness on healthcare services to prevent dengue diseases, Health and Family Welfare Minister Dr Samanta Lal said today (2 June). \"We have asked all relevant or\u2026 [+2055 chars]",
-      "retrievedAt": "2024-06-03 19:05:42.722487",
-      "internal_id": "e99daf4b8d9620b17c7f73796a934769d2079347c9d0a5767fb1c7850751c3de",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9777,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Dr. Tal Patalon, MD, LLB, MBA, Contributor, \n Dr. Tal Patalon, MD, LLB, MBA, Contributor\n https://www.forbes.com/sites/talpatalon/",
-      "title": "Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death",
-      "description": "It is unfathomable, and painful to acknowledge, but real; so many of the world\u2019s deaths are potentially avoidable.",
-      "url": "https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6626340d40158b603dc6aa93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-06-02 14:23:16",
-      "content": "'Boy in Boat', 125X150 cm, Oil on Linen, 2020 by Gideon Rubin// He needs a data lake, but also clean ... [+] waters. He is every child. @ Gideon Rubin It is unfathomable, and painful to acknowledge\u2026 [+4703 chars]",
-      "retrievedAt": "2024-06-03 19:05:43.804423",
-      "internal_id": "cb9f38326f5b75ed7f909426ed77202e9c380cc63ecf28bcf58e01fbd70afb5b",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9773,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "Alex Viveros",
-      "title": "To track H5N1, these scientists test wildlife from as far away as Hawaii",
-      "description": "It\u2019s still an open question, experts say, what will happen as the bird flu virus continues to spread.",
-      "url": "https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/wXqakISt59Fi2Wq6F8pKtDlhVo4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SXJHFO7PE5FYPHY3ELG3MALU4I.JPG",
-      "publishedAt": "2024-06-02 10:00:00",
-      "content": "The lab, which tests animal samples from across the country, offers a peek at how scientists are racing to learn more about the virus, which experts are concerned may one day evolve to more easily in\u2026 [+6112 chars]",
-      "retrievedAt": "2024-06-03 19:05:41.902090",
-      "internal_id": "1ab1ba299add997a2ea58ba129b5d5a3feef234c8071f13bc53bf7a6cde71bb3",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9776,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Kathmandu metropolis urges citizens to take preventive measures against Dengue",
-      "description": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local government has cautioned residents about the heightened risk of d\u2026",
-      "url": "https://english.khabarhub.com/2024/02/358993/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-06-02 08:45:26",
-      "content": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local gove\u2026 [+1180 chars]",
-      "retrievedAt": "2024-06-03 19:05:42.737377",
-      "internal_id": "9309a113c5b071213377bb88a0f68393f730ff6bfeae58e2652876d26db892b1",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9774,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
-      "title": "\u0647\u0634\u062f\u0627\u0631 \u062f\u0631\u0628\u0627\u0631\u0647 \u062a\u0628 \u062f\u0627\u0646\u06af \u0648 \u0639\u0644\u0627\u0626\u0645 \u0627\u06cc\u0646 \u0628\u06cc\u0645\u0627\u0631\u06cc",
-      "description": "\u0631\u0626\u06cc\u0633 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0627\u0644\u0628\u0631\u0632 \u0639\u0646\u0648\u0627\u0646 \u06a9\u0631\u062f: \u0645\u0647\u0645\u062a\u0631\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0628\u0631\u0627\u06cc \u062c\u0644\u0648\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u067e\u0634\u0647 \u0646\u0627\u0642\u0644 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062a\u0628 \u062f\u0627\u0646\u06af ( \u067e\u0634\u0647 \u0645\u0647\u0627\u062c\u0645 \u0622\u0626\u062f\u0633 ) \u0628\u0647\u0633\u0627\u0632\u06cc \u0645\u062d\u06cc\u0637 \u0648 \u0627\u0632 \u0628\u06cc\u0646 \u0628\u0631\u062f\u0646 \u0622\u0628\u200c\u0647\u0627\u06cc \u0631\u0627\u06a9\u062f \u06a9\u0647 \u0632\u06cc\u0633\u062a\u06af\u0627\u0647 \u0645\u0646\u0627\u0633\u0628 \u0627\u06cc\u0646 \u067e\u0634\u0647 \u0627\u0633\u062a\u060c \u062f\u0631 \u0645\u062d\u0644 \u0632\u0646\u062f\u06af\u06cc \u0627\u0633\u062a.",
-      "url": "https://www.isna.ir/news/1403031308826/\u0647\u0634\u062f\u0627\u0631-\u062f\u0631\u0628\u0627\u0631\u0647-\u062a\u0628-\u062f\u0627\u0646\u06af-\u0648-\u0639\u0644\u0627\u0626\u0645-\u0627\u06cc\u0646-\u0628\u06cc\u0645\u0627\u0631\u06cc",
-      "urlToImage": "https://cdn.isna.ir/d/2024/06/02/4/63055736.jpg?ts=1717316636429",
-      "publishedAt": "2024-06-02 08:44:28",
-      "content": "/ : ( ) . : . : ( ) . (Dengue fever) . . . : #",
-      "retrievedAt": "2024-06-03 19:05:42.636287",
-      "internal_id": "9351b30c8fabafbc4ad85394eda8931b1f5bc13b9895b014e5159bcc1facdc8c",
       "publishedAtLabel": "Jun 2"
     }
   ]

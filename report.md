@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-07-19 07:07
-- **Most recent article:** 2024-07-18 07:03:20
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-07-19 19:05
+- **Most recent article:** 2024-07-18 18:26:31
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 61 | 115 | 62 | 105 | 52 | 95 | 42 | 532 |
-| h5n1 | 77 | 55 | 29 | 36 | 59 | 52 | 49 | 357 |
-| malaria | 21 | 37 | 20 | 24 | 15 | 14 | 23 | 154 |
-| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 7 | 148 |
-| measles | 11 | 7 | 11 | 8 | 9 | 12 | 13 | 71 |
+| dengue | 58 | 115 | 62 | 105 | 52 | 95 | 50 | 537 |
+| h5n1 | 76 | 55 | 29 | 36 | 59 | 52 | 53 | 360 |
+| malaria | 20 | 37 | 20 | 24 | 15 | 14 | 26 | 156 |
+| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 8 | 149 |
+| measles | 11 | 7 | 11 | 8 | 9 | 12 | 17 | 75 |
 | zika | 0 | 12 | 3 | 17 | 20 | 12 | 4 | 68 |
-| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 4 | 57 |
+| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 7 | 60 |
 | rabies | 9 | 2 | 5 | 8 | 4 | 2 | 10 | 40 |
 | pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 0 | 37 |
-| hpai | 2 | 4 | 4 | 3 | 3 | 5 | 5 | 26 |
-| meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 0 | 19 |
+| hpai | 2 | 4 | 4 | 3 | 3 | 5 | 6 | 27 |
+| meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 2 | 21 |
 | typhoid | 1 | 1 | 2 | 3 | 4 | 6 | 0 | 17 |
-| leptospirosis | 1 | 1 | 1 | 2 | 1 | 3 | 3 | 12 |
+| leptospirosis | 1 | 1 | 1 | 2 | 1 | 3 | 4 | 13 |
 | yersinia | 1 | 0 | 0 | 2 | 0 | 6 | 0 | 9 |
 
 
@@ -66,6 +66,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (mpox)
 
+- [News24 | Mpox: First case at a school reported in Hammanskraal, Gauteng](https://www.news24.com/news24/southafrica/news/mpox-first-case-at-a-school-reported-in-hammanskraal-gauteng-20240718) (News24)
+
 - [As Pride week begins, San Diego County health officials recommend mpox vaccines](https://www.kpbs.org/news/health/2024/07/17/as-pride-week-begins-san-diego-county-health-officials-recommend-mpox-vaccines) (KPBS)
 
 - [Mpox did not fade away. Africa faces two alarming outbreaks --- and lacks vaccines](https://www.npr.org/sections/goats-and-soda/2024/07/17/nx-s1-5036441/mpox-vaccines-south-africa-democratic-republic-of-congo) (NPR)
@@ -80,7 +82,21 @@ Source: [News API](https://newsapi.org/)
 
 - [DR Congo detects at least 25 mpox cases in Goma](https://www.voanews.com/a/dr-congo-detects-at-least-25-mpox-cases-in-goma-mainly-in-displacement-camps-/7695086.html) (VOA News)
 
+## 24-29 (meningitis)
+
+- [The value of nanopore sequencing as a diagnostic tool in tuberculous meningitis: A protocol of systematic review and meta-analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307389) (Plos.org)
+
+- [Ministry makes meningitis vaccine mandatory for Umrah pilgrims](https://en.antaranews.com/news/319098/ministry-makes-meningitis-vaccine-mandatory-for-umrah-pilgrims) (Antaranews.com)
+
 ## 24-29 (measles)
+
+- [State officials report first measles case in Mass. since 2020](https://www.bostonglobe.com/2024/07/18/metro/measles-massachusetts-vaccinated-outbreak/) (The Boston Globe)
+
+- [Massachusetts reports first confirmed case of measles in four years](https://www.bostonherald.com/2024/07/18/massachusetts-reports-first-confirmed-case-of-measles-in-four-years/) (Boston Herald)
+
+- [Health officials announce 1st confirmed measles case in Mass. resident since 2020](https://www.boston25news.com/news/local/health-officials-announce-1st-confirmed-measles-case-mass-resident-since-2020/4KMBF7G6GFEEHCE4VQGRJZSUEM/) (Boston 25 News)
+
+- [Multifocal tuberculosis: a phenotype of Mendelian susceptibility to mycobacterial disease](https://adc.bmj.com/content/109/8/673) (The BMJ)
 
 - [Good Morning, News: Red Flag Warning, Measles in MultCo, and Pangea-Era Dino Bones Found](https://www.portlandmercury.com/good-morning-news/2024/07/17/47306999/good-morning-news-red-flag-warning-measles-in-multco-and-pangea-era-dino-bones-found) (The Portland Mercury)
 
@@ -109,6 +125,12 @@ Source: [News API](https://newsapi.org/)
 - [Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis](https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis) (Zerohedge.com)
 
 ## 24-29 (malaria)
+
+- [Urgent action needed as malaria evolves resistance to key drug](https://www.bbc.co.uk/news/articles/cxe25v5d8l9o) (BBC News)
+
+- [Urgent action needed as malaria resists key drug](https://www.bbc.com/news/articles/cxe25v5d8l9o) (BBC News)
+
+- [¿Estás pensando en hacerte un tatuaje? Una nueva investigación podría hacerte cambiar de opinión](https://cnnespanol.cnn.com/2024/07/18/tatuaje-investigacion-bacterias-tinta-trax/) (CNN)
 
 - [Malaria: Too much talk, no action](https://punchng.com/malaria-too-much-talk-no-action/) (The Punch)
 
@@ -158,6 +180,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (leptospirosis)
 
+- [Leptospirosis cases on the rise in Melaka](https://www.thestar.com.my/news/nation/2024/07/18/leptospirosis-cases-on-the-rise-in-melaka) (The Star Online)
+
 - [Leptospirosis: Project launched to combat animal-spread disease](https://www.nzherald.co.nz/the-country/news/leptospirosis-project-launched-to-combat-animal-spread-disease/DCKMQZV6WFHELIXMBFTEOX2R7A/) (New Zealand Herald)
 
 - [Rat Fever| Kerala| Prevention|Leptospirosis|സംസ്ഥാനത്ത് എലിപ്പനി പടരുന്നു; പ്രതിരോധ മാര്‍ഗങ്ങളെന്ത്?](https://www.manoramanews.com/health/explainers/2024/07/14/spike-in-leptospirosis-causes-symptoms-treatment.html) (Manoramanews.com)
@@ -165,6 +189,8 @@ Source: [News API](https://newsapi.org/)
 - [Zamboanga: Oficina de salud ya adverti con el publico contra Leptospirosis](https://rpnradio.com/zamboanga-oficina-de-salud-ya-adverti-con-el-publico-contra-leptospirosis/) (Rpnradio.com)
 
 ## 24-29 (hpai)
+
+- [Confirmation of Highly Pathogenic Avian Influenza in Commercial& Backyard Flocks](https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/commercial-backyard-flocks) (Usda.gov)
 
 - [Government holds high-level meet on avian flu threat, experts call for enhanced surveillance](https://economictimes.indiatimes.com/news/india/government-holds-high-level-meet-on-avian-flu-threat-experts-call-for-enhanced-surveillance/articleshow/111811128.cms) (The Times of India)
 
@@ -177,6 +203,14 @@ Source: [News API](https://newsapi.org/)
 - [CDC Confirms Human Cases of H5 Bird Flu Among Colorado Poultry Workers](https://www.cdc.gov/media/releases/2024/p-0715-confirm-h5.html) (Cdc.gov)
 
 ## 24-29 (h5n1)
+
+- [Gripa aviară ar putea provoca viitoare pandemie globală. Cinci muncitori s-au infectat cu gripa aviară la o fermă din Colorado](https://adevarul.ro/stiri-externe/sua/gripa-aviara-ar-putea-provoca-viitoare-pandemie-2376110.html) (Adevarul.ro)
+
+- [L'influenza aviaria non ha intenzione di mollare la presa, nuovi casi in Colorado](https://tech.everyeye.it/notizie/influenza-aviaria-non-intenzione-mollare-presa-casi-colorado-730618.html) (Everyeye.it)
+
+- [Gesundheit | Die Vogelgrippe breitet sich aus: Diese Symptome weisen infizierte Menschen auf](https://www.freitag.de/autoren/regina-bartel/vogelgrippe-breitet-sich-aus-diese-symptome-weisen-infizierte-menschen-auf) (Freitag.de)
+
+- [L’aviaria endemica](https://www.internazionale.it/magazine/2024/07/18/l-aviaria-endemica) (Internazionale.it)
 
 - [संयुक्त राष्ट्र की चेतावनी... 5-6 साल में फैल सकती है नई महामारी](https://www.aajtak.in/science/story/new-pandemic-could-break-out-by-2030-united-nations-warned-in-a-new-report-1987208-2024-07-18) (Aajtak.in)
 
@@ -278,6 +312,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (dengue)
 
+- [Dengue tiene a 10 personas hospitalizadas en Costa Rica, entre ellas un niño](https://www.nacion.com/ciencia/salud/dengue-tiene-a-10-personas-hospitalizadas-en-costa/EEKRRYPCSBEO7LLO4VIN4ZYSWE/story/) (Nacion.com)
+
+- [Scoperto caso di Dengue vicino a Carrara, disinfestazione](https://www.ansa.it/toscana/notizie/2024/07/18/scoperto-caso-di-dengue-vicino-a-carrara-disinfestazione_0b01e154-fefe-4caa-a325-6a1af63866fc.html) (ANSA.it)
+
+- [10 mitos e verdades sobre a dengue](https://www.terra.com.br/vida-e-estilo/saude/10-mitos-e-verdades-sobre-a-dengue,ff4b0b689a8401ccdbcb72168aa6885be50izawp.html) (Terra.com.br)
+
+- [E/R records 103 suspected cases of dengue fever](https://thechronicle.com.gh/e-r-records-103-suspected-cases-of-dengue-fever/) (Thechronicle.com.gh)
+
+- [Ssa: cunde el dengue en el país por falta de inversión de entidades](https://www.jornada.com.mx/2024/07/18/politica/012n1pol) (Jornada.com.mx)
+
+- [E/R: Health worker, 44 others infected with dengue fever as suspected cases hit 229 in many districts - Starr Fm](https://starrfm.com.gh/2024/07/e-r-health-worker-44-others-infected-with-dengue-fever-as-suspected-cases-hit-229-in-many-districts/) (Starrfm.com.gh)
+
+- [Rising cases of mosquito-borne diseases alarms authorities in Maharashtra](https://www.business-standard.com/health/rising-cases-of-mosquito-borne-diseases-alarms-authorities-in-maharashtra-124071800518_1.html) (Business Standard)
+
+- [KMC calls citizens for contacting 1180 in suspected case of dengue](https://english.khabarhub.com/2024/18/366015/) (Khabarhub.com)
+
 - [BMC launches 'Bhag Machchar Bhag' campaign to battle dengue, details here](https://www.business-standard.com/india-news/bmc-launches-bhag-machchar-bhag-campaign-to-battle-dengue-details-here-124071800307_1.html) (Business Standard)
 
 - [Ministra da Saúde diz que não há indicação política na distribuição de vacinas contra dengue](https://www.terra.com.br/noticias/brasil/politica/ministra-da-saude-diz-que-nao-ha-indicacao-politica-na-distribuicao-de-vacinas-contra-dengue,8cd406659a471dda8c970b55aeef5661kyr9wjj2.html) (Terra.com.br)
@@ -363,6 +413,12 @@ Source: [News API](https://newsapi.org/)
 - [Pas op, in die leuke gieter uit Zuid-Frankrijk zit mogelijk een tijgermug](https://www.nrc.nl/nieuws/2024/07/14/als-je-de-leuke-gieter-uit-zuid-frankrijk-in-je-tuin-zet-ben-je-de-sjaak-dan-heb-je-tijgermuggen-waarschuwt-de-nvwa-a4859542) (Www.nrc.nl)
 
 ## 24-29 (chikungunya)
+
+- [Rising cases of mosquito-borne diseases alarms authorities in Maharashtra](https://www.business-standard.com/health/rising-cases-of-mosquito-borne-diseases-alarms-authorities-in-maharashtra-124071800518_1.html) (Business Standard)
+
+- [Bavarian Nordic Receives EMA Filing Acceptance and Validation of the MAA for its Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/07/18/2915056/0/en/Bavarian-Nordic-Receives-EMA-Filing-Acceptance-and-Validation-of-the-MAA-for-its-Chikungunya-Vaccine.html) (GlobeNewswire)
+
+- [Bavarian Nordic modtager accept fra de europæiske lægemiddelmyndigheder af registreringsansøgningen for chikungunyavaccine](https://www.globenewswire.com/news-release/2024/07/18/2915056/0/da/Bavarian-Nordic-modtager-accept-fra-de-europ%C3%A6iske-l%C3%A6gemiddelmyndigheder-af-registreringsans%C3%B8gningen-for-chikungunyavaccine.html) (GlobeNewswire)
 
 - [HS Prannoy Aims To Keep Mental Struggles Behind Ahead Of Paris 2024](https://sports.ndtv.com/olympics-2024/hs-prannoy-aims-to-keep-mental-struggles-behind-ahead-of-paris-olympics-2024-6131182) (NDTV News)
 
@@ -3002,8 +3058,6 @@ Source: [News API](https://newsapi.org/)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
-- [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
-
 ## 24-23 (leptospirosis)
 
 - [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
@@ -3168,8 +3222,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
-- [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
-
 ## 24-23 (dengue)
 
 - [Govt still mulling using costly Qdenga vaccine](https://www.thestar.com.my/news/nation/2024/06/09/govt-still-mulling-using-costly-qdenga-vaccine) (The Star Online)
@@ -3287,12 +3339,6 @@ Source: [News API](https://newsapi.org/)
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.ru/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.ru)
 
 - [5 mitos e 5 verdades sobre a dengue e o mosquito Aedes aegypti](https://olhardigital.com.br/2024/06/02/medicina-e-saude/5-mitos-e-5-verdades-sobre-a-dengue-e-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
-
-- [Govt takes all-out preparedness to prevent dengue diseases: Health minister](https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781) (Tbsnews.net)
-
-- [Kathmandu metropolis urges citizens to take preventive measures against Dengue](https://english.khabarhub.com/2024/02/358993/) (Khabarhub.com)
-
-- [هشدار درباره تب دانگ و علائم این بیماری](https://www.isna.ir/news/1403031308826/هشدار-درباره-تب-دانگ-و-علائم-این-بیماری) (Isna.ir)
 
 ## 24-23 (chikungunya)
 
