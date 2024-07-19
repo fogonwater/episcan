@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-07-18 19:05
-- **Most recent article:** 2024-07-17 18:42:12
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-07-19 07:07
+- **Most recent article:** 2024-07-18 07:03:20
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 58 | 115 | 62 | 105 | 52 | 95 | 40 | 527 |
-| h5n1 | 76 | 55 | 29 | 36 | 59 | 52 | 47 | 354 |
-| malaria | 20 | 37 | 20 | 24 | 15 | 14 | 22 | 152 |
-| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 6 | 147 |
+| dengue | 61 | 115 | 62 | 105 | 52 | 95 | 42 | 532 |
+| h5n1 | 77 | 55 | 29 | 36 | 59 | 52 | 49 | 357 |
+| malaria | 21 | 37 | 20 | 24 | 15 | 14 | 23 | 154 |
+| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 7 | 148 |
 | measles | 11 | 7 | 11 | 8 | 9 | 12 | 13 | 71 |
 | zika | 0 | 12 | 3 | 17 | 20 | 12 | 4 | 68 |
-| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 3 | 56 |
+| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 4 | 57 |
 | rabies | 9 | 2 | 5 | 8 | 4 | 2 | 10 | 40 |
 | pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 0 | 37 |
 | hpai | 2 | 4 | 4 | 3 | 3 | 5 | 5 | 26 |
@@ -66,6 +66,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (mpox)
 
+- [As Pride week begins, San Diego County health officials recommend mpox vaccines](https://www.kpbs.org/news/health/2024/07/17/as-pride-week-begins-san-diego-county-health-officials-recommend-mpox-vaccines) (KPBS)
+
 - [Mpox did not fade away. Africa faces two alarming outbreaks --- and lacks vaccines](https://www.npr.org/sections/goats-and-soda/2024/07/17/nx-s1-5036441/mpox-vaccines-south-africa-democratic-republic-of-congo) (NPR)
 
 - [Zwei Jahre nach der Infektion - „Riesige Narbe mitten im Gesicht“: Wie Mpox-Patient noch heute leidet](https://www.focus.de/gesundheit/ratgeber/hat-mein-leben-stark-veraendert-schmerzender-stuhlgang-entstelltes-gesicht-wie-betroffene-von-affenpocken-noch-heute-leiden_id_260101845.html) (Focus)
@@ -107,6 +109,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis](https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis) (Zerohedge.com)
 
 ## 24-29 (malaria)
+
+- [Malaria: Too much talk, no action](https://punchng.com/malaria-too-much-talk-no-action/) (The Punch)
 
 - [Preventing mosquito bites: Here's how to protect yourself and your family](https://www.business-standard.com/health/preventing-mosquito-bites-here-s-how-to-protect-yourself-and-your-family-124071700706_1.html) (Business Standard)
 
@@ -173,6 +177,10 @@ Source: [News API](https://newsapi.org/)
 - [CDC Confirms Human Cases of H5 Bird Flu Among Colorado Poultry Workers](https://www.cdc.gov/media/releases/2024/p-0715-confirm-h5.html) (Cdc.gov)
 
 ## 24-29 (h5n1)
+
+- [संयुक्त राष्ट्र की चेतावनी... 5-6 साल में फैल सकती है नई महामारी](https://www.aajtak.in/science/story/new-pandemic-could-break-out-by-2030-united-nations-warned-in-a-new-report-1987208-2024-07-18) (Aajtak.in)
+
+- [Заслуженный врач успокоил россиян, что новой пандемии ковида не будет](https://life.ru/p/1673069) (Life.ru)
 
 - [Five people infected as bird flu appears to go from cows to chickens to humans](https://arstechnica.com/science/2024/07/five-people-infected-as-bird-flu-appears-to-go-from-cows-to-chickens-to-humans/) (Ars Technica)
 
@@ -270,6 +278,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (dengue)
 
+- [BMC launches 'Bhag Machchar Bhag' campaign to battle dengue, details here](https://www.business-standard.com/india-news/bmc-launches-bhag-machchar-bhag-campaign-to-battle-dengue-details-here-124071800307_1.html) (Business Standard)
+
+- [Ministra da Saúde diz que não há indicação política na distribuição de vacinas contra dengue](https://www.terra.com.br/noticias/brasil/politica/ministra-da-saude-diz-que-nao-ha-indicacao-politica-na-distribuicao-de-vacinas-contra-dengue,8cd406659a471dda8c970b55aeef5661kyr9wjj2.html) (Terra.com.br)
+
 - [Un caso di Dengue nel Pratese, scatta subito disinfestazione](https://www.ansa.it/sito/notizie/cronaca/2024/07/17/un-caso-di-dengue-nel-pratese-scatta-subito-disinfestazione_539edd70-71c6-46a5-9bb7-c8fe49638ad5.html) (ANSA.it)
 
 - [Un caso di Dengue nel Pratese, scatta subito disinfestazione](https://www.ansa.it/toscana/notizie/2024/07/17/un-caso-di-dengue-nel-pratese-scatta-subito-disinfestazione_418d32bc-13cf-428f-8e40-7356a08edaef.html) (ANSA.it)
@@ -351,6 +363,8 @@ Source: [News API](https://newsapi.org/)
 - [Pas op, in die leuke gieter uit Zuid-Frankrijk zit mogelijk een tijgermug](https://www.nrc.nl/nieuws/2024/07/14/als-je-de-leuke-gieter-uit-zuid-frankrijk-in-je-tuin-zet-ben-je-de-sjaak-dan-heb-je-tijgermuggen-waarschuwt-de-nvwa-a4859542) (Www.nrc.nl)
 
 ## 24-29 (chikungunya)
+
+- [HS Prannoy Aims To Keep Mental Struggles Behind Ahead Of Paris 2024](https://sports.ndtv.com/olympics-2024/hs-prannoy-aims-to-keep-mental-struggles-behind-ahead-of-paris-olympics-2024-6131182) (NDTV News)
 
 - [“Le Olimpiadi di Parigi rischiano di diventare un focolaio di chikungunya, Zika, dengue, virus del Nilo e Usutu”: lo studio](https://www.ilfattoquotidiano.it/2024/07/17/le-olimpiadi-di-parigi-rischiano-di-diventare-un-focolaio-di-chikungunya-zika-dengue-virus-del-nilo-e-usutu-lo-studio/7626421/) (Ilfattoquotidiano.it)
 
@@ -2988,6 +3002,8 @@ Source: [News API](https://newsapi.org/)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
+- [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
+
 ## 24-23 (leptospirosis)
 
 - [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
@@ -3152,6 +3168,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
+- [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
+
 ## 24-23 (dengue)
 
 - [Govt still mulling using costly Qdenga vaccine](https://www.thestar.com.my/news/nation/2024/06/09/govt-still-mulling-using-costly-qdenga-vaccine) (The Star Online)
@@ -3269,6 +3287,12 @@ Source: [News API](https://newsapi.org/)
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.ru/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.ru)
 
 - [5 mitos e 5 verdades sobre a dengue e o mosquito Aedes aegypti](https://olhardigital.com.br/2024/06/02/medicina-e-saude/5-mitos-e-5-verdades-sobre-a-dengue-e-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
+
+- [Govt takes all-out preparedness to prevent dengue diseases: Health minister](https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781) (Tbsnews.net)
+
+- [Kathmandu metropolis urges citizens to take preventive measures against Dengue](https://english.khabarhub.com/2024/02/358993/) (Khabarhub.com)
+
+- [هشدار درباره تب دانگ و علائم این بیماری](https://www.isna.ir/news/1403031308826/هشدار-درباره-تب-دانگ-و-علائم-این-بیماری) (Isna.ir)
 
 ## 24-23 (chikungunya)
 
