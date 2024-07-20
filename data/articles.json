@@ -1,8 +1,279 @@
 {
-  "last_updated": "2024-07-20 07:06",
-  "count_articles_total": 1485,
-  "count_articles_new": 8,
+  "last_updated": "2024-07-20 19:05",
+  "count_articles_total": 1495,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 11263,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Desarrollan prometedor enfoque para alcanzar vacuna universal contra la gripe aviar",
+      "description": "Forbes M\u00e9xico. Desarrollan prometedor enfoque para alcanzar vacuna universal contra la gripe aviar La investigaci\u00f3n indica que la vacuna gener\u00f3 una s\u00f3lida respuesta inmunitaria al exponer primates al virus H5N1 de la gripe aviar. Desarrollan prometedor enfo\u2026",
+      "url": "https://www.forbes.com.mx/desarrollan-prometedor-enfoque-para-alcanzar-vacuna-universal-contra-la-gripe-aviar/",
+      "urlToImage": "https://cdn.forbes.com.mx/2023/05/Vacuna-experiental-cancer-de-pancreas.webp",
+      "publishedAt": "2024-07-19 16:25:04",
+      "content": "Un nuevo enfoque prometedor para desarrollar una vacuna universal contra la gripe, que da inmunidad de por vida, fue creado por un equipo de investigadores que validaron su teor\u00eda usando el virus de \u2026 [+3453 chars]",
+      "retrievedAt": "2024-07-20 19:05:16.278966",
+      "internal_id": "28f507d8a8f75ccbc26cbd8ffdd301274f93a6dd671bf10c591c200c1793001f",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11260,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Aviaria, l\u2019ipotesi che il contagio tra le mucche sia avvenuto per via aerea. Ma la prima \u201ccausa\u201d resta il latte",
+      "description": "Il contagio da virus dell\u2019influenza aviaria ad alta patogenicit\u00e0 H5N1 fra le mucche negli allevamenti Usa potrebbe essere avvenuto per via respiratoria. Uno starnuto in una stalla. \u00c8 questa l\u2019ipotesi avanzata da uno studio disponibile in versione preprint sul\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/07/19/aviaria-lipotesi-che-il-contagio-tra-le-mucche-sia-avvenuto-per-via-aerea-ma-la-prima-causa-resta-il-latte/7629675/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/05/27/Influenza-aviaria-mucche-1200x630.jpg",
+      "publishedAt": "2024-07-19 16:02:25",
+      "content": "Il contagio da virus dell\u2019influenza aviaria ad alta patogenicit\u00e0 H5N1 fra le mucche negli allevamenti Usa potrebbe essere avvenuto per via respiratoria. Uno starnuto in una stalla. \u00c8 questa l\u2019ipotesi\u2026 [+2433 chars]",
+      "retrievedAt": "2024-07-20 19:05:16.216281",
+      "internal_id": "cd0e30d3524d2811786a4d0d9df7fd93ae679029b71b001d13707a9fe06dd339",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11266,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Shine Jacob, Sohini Das",
+      "title": "Monsoon brings fever season to India; Kerala, Karnataka see Dengue spike",
+      "description": "More than 10,000 cases of dengue, including eight fatal cases, have been reported so far this year in the adjacent state of Karnataka",
+      "url": "https://www.business-standard.com/india-news/monsoon-brings-fever-season-to-india-kerala-karnataka-see-dengue-spike-124071901139_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-11/06/thumb/fitandfill/400X400/1667753838-8526.jpg",
+      "publishedAt": "2024-07-19 14:10:52",
+      "content": "More than 10,000 cases of dengue, including eight fatal cases, have been reported so far this year in the adjacent state of Karnataka Shine JacobSohini DasChennai/Mumbai This monsoon, diseases like\u2026 [+3516 chars]",
+      "retrievedAt": "2024-07-20 19:05:16.744086",
+      "internal_id": "e4f54270784287e8983ebc391715bc0f169fc6147d82b17a31884db9626a3f3b",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11258,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Philip P. Mshelbwala, Kinley Wangdi, Joseph A. Bunting-Graden, Saidu Bamayange, Andrew M. Adamu, Suman D. Gupta, Rowland Suluku, Cornelius S. Adamu, J. Scott Weese, Charles E. Rupprecht, Nicholas J. Clark",
+      "title": "Insights into canine rabies vaccination Disparities in Sierra Leone: A cross-sectional household study",
+      "description": "Author summary Canine vaccination plays a vital role in rabies prevention and control efforts; however, significant variability exists in vaccination rates across Sierra Leone. To address this issue, we conducted a cross-sectional study involving 2,558 dog-ow\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012332",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012332.g003&size=inline",
+      "publishedAt": "2024-07-19 14:00:00",
+      "content": "Abstract Annually, Sierra Leone records an estimated 301 human fatalities due to rabies. Canine vaccination is crucial for rabies prevention and control efforts. However, considerable variability ex\u2026 [+41031 chars]",
+      "retrievedAt": "2024-07-20 19:05:15.243377",
+      "internal_id": "4d2f69ab309a8942d4d059f53f1bbdcf89eb8e300a27931b1a6d83b6fd277973",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11271,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "jdw//am",
+      "title": "Malaria odporna na leki. Naukowcy o \u015bmiertelnym zagro\u017ceniu dla milion\u00f3w os\u00f3b",
+      "description": "Je\u015bli pilnie nie zostan\u0105 wdro\u017cone odpowiednie dzia\u0142ania, w wyniku rozprzestrzeniania si\u0119 odpornych na leki paso\u017cyt\u00f3w wywo\u0142uj\u0105cych malari\u0119 zagro\u017cone b\u0119d\u0105 miliony istnie\u0144 ludzkich - przestrzegaj\u0105 naukowcy w opublikowanym w czwartek w \"Science\" artykule.",
+      "url": "https://tvn24.pl/swiat/zdrowie-malaria-odporna-na-leki-naukowcy-o-zagrozeniu-dla-milionow-osob-st8010492",
+      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-vo8hw-komar-widliszek-z-gatunku-anopheles-gambiae-zdj-ilustracyjne-7135651/alternates/LANDSCAPE_1280",
+      "publishedAt": "2024-07-19 13:01:02",
+      "content": "Jeli pilnie nie zostan wdroone odpowiednie dziaania, w wyniku rozprzestrzeniania si odpornych na leki pasoyt\u00f3w wywoujcych malari zagroone bd miliony istnie ludzkich - przestrzegaj naukowcy w opubliko\u2026 [+2774 chars]",
+      "retrievedAt": "2024-07-20 19:05:17.681596",
+      "internal_id": "88a202eae778b254c6766673d66d170266f8f9b69a0934ff3d2cd411ab433dc2",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11269,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Asianetnews.com",
+      "author": "Sathish Kumar Kh",
+      "title": "Bengaluru dengue toll free number \u0ca1\u0cc6\u0c82\u0c98\u0cc0 \u0c9a\u0cbf\u0c95\u0cbf\u0ca4\u0ccd\u0cb8\u0cc6\u0c97\u0cc6 \u0c89\u0c9a\u0cbf\u0ca4 \u0cb8\u0cb9\u0cbe\u0caf\u0cb5\u0cbe\u0ca3\u0cbf \u0c86\u0cb0\u0c82\u0cad\u0cbf\u0cb8\u0cbf\u0ca6 Health department",
+      "description": "\u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cbf\u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0ca1\u0cc6\u0c82\u0c98\u0cc0 \u0c9c\u0ccd\u0cb5\u0cb0\u0c95\u0ccd\u0c95\u0cc6 \u0cb8\u0cc2\u0c95\u0ccd\u0ca4 \u0c9a\u0cbf\u0c95\u0cbf\u0ca4\u0ccd\u0cb8\u0cc6 \u0caa\u0ca1\u0cc6\u0caf\u0cb2\u0cc1 \u0c85\u0ca8\u0cc1\u0c95\u0cc2\u0cb2 \u0c86\u0c97\u0cc1\u0cb5\u0c82\u0ca4\u0cc6 \u0c86\u0cb0\u0ccb\u0c97\u0ccd\u0caf \u0c87\u0cb2\u0cbe\u0c96\u0cc6\u0caf\u0cbf\u0c82\u0ca6 \u0c89\u0c9a\u0cbf\u0ca4 \u0cb8\u0cb9\u0cbe\u0caf\u0cb5\u0cbe\u0ca3\u0cbf 1800 425 8330\u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0c86\u0cb0\u0c82\u0cad\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6.",
+      "url": "https://kannada.asianetnews.com/state/karnataka-health-department-set-up-toll-free-number-to-dengue-fever-control-and-treatment-in-bengaluru-sat-sgvfrb",
+      "urlToImage": "https://static-ai.asianetnews.com/images/01j35grrp2ffy3e5fjz1f4aa38/bengaluru-dengue-toll-free-number_1200x630xt.jpg",
+      "publishedAt": "2024-07-19 12:54:35",
+      "content": "1800 425 8330 . (.19): . . , , . 11 , 8 . . . 11 . . . , , , , . , 1800 425 8330 . 19 4,300 , 165 . . , . , . : 9 1500 , ..! 1800 425 8330 . , . Last Updated Jul 19, 2024, 6:22 PM I\u2026 [+1 chars]",
+      "retrievedAt": "2024-07-20 19:05:16.827476",
+      "internal_id": "7a4e8199a24430d2fb40df0f9dc56b0fb6e4d925e4a88b0628549b576b0ac85d",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11264,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Polaris Market Research & Consulting LLP",
+      "title": "Global Mosquito Repellent Market is Projected to Grow US$ 11,474.5 Million by 2032, at a 6.0% CAGR from 2024 to 2032 | Polaris Market Research (PMR)",
+      "description": "Growing instances of contagious illnesses such as zika, dengue, and yellow fever due to mosquito are pushing the market growth. Growing instances of contagious illnesses such as zika, dengue, and yellow fever due to mosquito are pushing the market growth.",
+      "url": "https://www.globenewswire.com/news-release/2024/07/19/2915852/0/en/Global-Mosquito-Repellent-Market-is-Projected-to-Grow-US-11-474-5-Million-by-2032-at-a-6-0-CAGR-from-2024-to-2032-Polaris-Market-Research-PMR.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/cf0a808d-3703-43f4-9b34-ec72345f8585",
+      "publishedAt": "2024-07-19 12:14:00",
+      "content": "New York, USA, July 19, 2024 (GLOBE NEWSWIRE) -- Market Overview: The Mosquito Repellent Market was estimated at USD 6,992.9 million in 2023. The market valuation is expected to be USD 11,474.5 mi\u2026 [+6808 chars]",
+      "retrievedAt": "2024-07-20 19:05:16.705670",
+      "internal_id": "aa357e5adb40ad40310307c2181554afa38ad5d4d4636eeb519df21a6f5eda1f",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11272,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u03a3\u03bf\u03c6\u03b9\u03b1 \u0392\u03b1\u03bb\u03c3\u03b1\u03bc\u03b7",
+      "title": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u0394\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c5 \u03c0\u03c5\u03c1\u03b5\u03c4\u03bf\u03cd \u03c3\u03c4\u03b7 \u0393\u03b1\u03bb\u03bb\u03af\u03b1 - \u03a6\u03cc\u03b2\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03bf\u03cd\u03c2 \u0391\u03b3\u03ce\u03bd\u03b5\u03c2",
+      "description": "\u039f \u0394\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c2 \u03c0\u03c5\u03c1\u03b5\u03c4\u03cc\u03c2 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u0395\u039f\u0394\u03a5 \u03bd\u03b1 \u03c3\u03c5\u03c3\u03c4\u03ae\u03bd\u03b5\u03b9 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7 \u03c0\u03c1\u03bf\u03c3\u03bf\u03c7\u03ae \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03ae\u03c1\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03ce\u03c4\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c3\u03ba\u03ad\u03c0\u03c4\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b7\u03bd \u0393\u03b1\u03bb\u03bb\u03af\u03b1. \u039f \u0395\u039f\u0394\u03a5 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03c4\u03b7\u03bd \u03a0\u03ad\u03bc\u03c0\u03c4\u03b7 (18.07.2024) \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u0394\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c5 \u03c0\u03c5\u03c1\u03b5\u03c4\u03bf\u03cd \u03b3\u03b9\u03b1 \u2026",
+      "url": "https://www.newsit.gr/ellada/dagkeios-pyretos-synagermos-gia-to-proto-krousma-sti-gallia-fovoi-gia-tous-olympiakous-agones/4138809/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2024/07/iStock-1326300602.jpg",
+      "publishedAt": "2024-07-19 12:06:11",
+      "content": ". (18.07.2024) 2024 . , , . , 8 . (). , (27/5) , , (), . - - , 2024 250% , , , . Chikungunya, . , 2.666 . Aedes albopictus (\u00ab \u00bb). 2024, , 10 5.000 . PAHO (/ / , , , ), . 8 2024, .\u2026 [+151 chars]",
+      "retrievedAt": "2024-07-20 19:05:18.190767",
+      "internal_id": "4f3f4d42198400b4cf41993ab3b88a783fe2fdd6e895d2fecab4e807c7f6041d",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11259,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WFTV Orlando",
+      "author": "Gene Saladna",
+      "title": "Infected cat prompts rabies alert in Brevard County neighborhood",
+      "description": "Health officials said they are monitoring wild animals in the area and want to get the message out to residents and visitors.",
+      "url": "https://www.wftv.com/news/local/infected-cat-prompts-rabies-alert-brevard-county-neighborhood/N5VSIQF6V5CRJAHY2JGLRN333Y/",
+      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/tbB9_--GpOSGIylMgS43yTbKyPU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/TMULJIIIIIH6DZAGVWDDHHCUT4.jpg",
+      "publishedAt": "2024-07-19 11:45:31",
+      "content": "BREVARD COUNTY, Fla. \u2014 Brevard County health officials have issued a rabies alert for some Melbourne-area residents. A stray cat that was killed near Lynn Avenue and Laurie Street tested positive fo\u2026 [+1200 chars]",
+      "retrievedAt": "2024-07-20 19:05:15.265181",
+      "internal_id": "fdc9e2938ab80347a63f55a4002b65ac5692d8896167bb4f3640ea9e33a74d7f",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11268,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "L'Obs",
+      "author": "S\u00e9bastien Billard",
+      "title": "Dengue : avec les JO, \u00ab tous les ingr\u00e9dients sont r\u00e9unis pour que le nombre de cas augmente \u00bb",
+      "description": "Autrefois cantonn\u00e9e aux r\u00e9gions tropicales, la dengue progresse de mani\u00e8re spectaculaire en France m\u00e9tropolitaine. A l\u2019approche des Jeux olympiques, la circulation de ce virus transmis par le moustique-tigre est \u00e9troitement surveill\u00e9e. Reportage \u00e0 l\u2019institut \u2026",
+      "url": "https://www.nouvelobs.com/societe/20240719.OBS91326/dengue-avec-les-jo-tous-les-ingredients-sont-reunis-pour-que-le-nombre-de-cas-augmente.html",
+      "urlToImage": "https://focus.nouvelobs.com/2024/07/18/269/127/3766/2511/1200/800/0/0/e547322_1721312001304-sans-titre-1.jpg",
+      "publishedAt": "2024-07-19 10:00:07",
+      "content": "Le 8 juillet \u00e0 Paris, dans le laboratoire de l'insectarium de lInstitut Pasteur, o\u00f9 des moustiques-tigres sont \u00e9lev\u00e9s pour \u00e9tudier la propagation du virus de la dengue. ARTHUR GAU POUR \u00ab LE NOUVEL OB\u2026 [+2138 chars]",
+      "retrievedAt": "2024-07-20 19:05:16.822322",
+      "internal_id": "df7cf6e12e6129073ab66ea1eea5e29f2d63510797fc2b0896a6b686b9c1a9bb",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11261,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hi-news.ru",
+      "author": "\u0410\u0440\u0442\u0435\u043c \u0421\u0443\u0442\u044f\u0433\u0438\u043d",
+      "title": "\u0412\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u043e\u0440\u0430\u0437\u0438\u043b \u0442\u044b\u0441\u044f\u0447\u0438 \u043a\u043e\u0440\u043e\u0432 \u0432 \u0421\u0428\u0410. \u041e\u043f\u0430\u0441\u043d\u043e \u043b\u0438 \u044d\u0442\u043e \u0434\u043b\u044f \u043d\u0430\u0441 \u0438 \u043f\u043e\u0447\u0435\u043c\u0443 \u0442\u0430\u043a \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c",
+      "description": "\u041a\u043e\u0440\u043e\u0432\u044b \u043d\u0430\u0447\u0430\u043b\u0438 \u0431\u043e\u043b\u0435\u0442\u044c \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c! \u041e\u043d \u043f\u0435\u0440\u0435\u0434\u0430\u0435\u0442\u0441\u044f \u043f\u0440\u0438 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0435 \u0441 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u043c \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435\u043c. \u041f\u043e\u043a\u0430 \u0432 \u0437\u043e\u043d\u0435 \u0440\u0438\u0441\u043a\u0430 \u0442\u043e\u043b\u044c\u043a\u043e \u043a\u043e\u0440\u043e\u0432\u044b \u0438 \u0434\u043e\u044f\u0440\u043a\u0438, \u043d\u043e \u0447\u0435\u0440\u0435\u0437 \u043c\u043e\u043b\u043e\u043a\u043e \u0432\u0438\u0440\u0443\u0441 \u043c\u043e\u0436\u0435\u0442 \u0443\u0439\u0442\u0438 \u0434\u0430\u043b\u044c\u0448\u0435. \u0412\u043f\u0440\u043e\u0447\u0435\u043c, \u043d\u0435 \u0432\u0441\u0435 \u043c\u043e\u043b\u043e\u043a\u043e \u043e\u043f\u0430\u0441\u043d\u043e.",
+      "url": "https://hi-news.ru/eto-interesno/virus-ptichego-grippa-porazil-tysyachi-korov-v-ssha-opasno-li-eto-dlya-nas-i-pochemu-tak-poluchilos.html",
+      "urlToImage": "https://hi-news.ru/wp-content/uploads/2024/07/H1N1_korovi_02-1000x526.png",
+      "publishedAt": "2024-07-19 10:00:02",
+      "content": ": H5N1 . , , . - , . , , , . . , ? ? , . : , . 1953 , . 2009 , . , , , . H5N1 135 12 . , , . . , . , . , . , ! , , . , , . , , . , , , , , . . . : Milknews , . , , . , . , . Telegram\u2026 [+200 chars]",
+      "retrievedAt": "2024-07-20 19:05:16.225423",
+      "internal_id": "25f340cce2babc7b9f078ddb609efa1526de9106985f28a2e18ee2f03a9a090b",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11270,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Post-secondary students urged to get free meningitis B vaccine before the fall",
+      "description": "Ahead of the new school year, P.E.I's Chief Public Health Office is reminding post-secondary students to get a free meningitis B vaccine.",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-cpho-meningitis-b-vaccine-1.7267885",
+      "urlToImage": "https://i.cbc.ca/1.7268136.1721328186!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/heather-morrison.jpg",
+      "publishedAt": "2024-07-19 09:00:00",
+      "content": "Ahead of the new school year, P.E.I's Chief Public Health Office is reminding post-secondary students to get a free meningitis B vaccine. The provincial program administered 1,900 doses of the vacc\u2026 [+2117 chars]",
+      "retrievedAt": "2024-07-20 19:05:17.249658",
+      "internal_id": "5394a100e4cc71f0022f666faa3faf3a2bf5cbcf9d3dfde8ff3ac40a89ab3664",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11265,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "H1N1, dengue alerts issued in Pathanamthitta",
+      "description": "KOTTAYAM: Alert has been issued in Pathanamthitta district for H1N1 and dengue.",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/h1n1-dengue-alerts-issued-in-pathanamthitta/articleshow/111858356.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111858372,width-1070,height-580,imgsize-35686,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-19 08:53:42",
+      "content": "8 plants that can be grown inside a bathroom",
+      "retrievedAt": "2024-07-20 19:05:16.711900",
+      "internal_id": "5e089dc224c3f1fbbd263398ff99fb73365eb8490ec00bfd09a88b652bb0959d",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11267,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Riesgos de vacunas contra el dengue frenan su uso",
+      "description": "Durante m\u00e1s de 50 a\u00f1os se han realizado investigaciones para tener una vacuna contra el dengue y en la \u00faltima d\u00e9cada ha habido resultados, pero limitados. Existen dos biol\u00f3gicos: uno, del laboratorio farmac\u00e9utico Sanofi, obtuvo el registro sanitario en 2015, \u2026",
+      "url": "https://www.jornada.com.mx/2024/07/19/sociedad/035n2soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-07-19 08:33:12",
+      "content": "Peri\u00f3dico La JornadaViernes 19 de julio de 2024, p. 35 Durante m\u00e1s de 50 a\u00f1os se han realizado investigaciones para tener una vacuna contra el dengue y en la \u00faltima d\u00e9cada ha habido resultados, pero\u2026 [+2773 chars]",
+      "retrievedAt": "2024-07-20 19:05:16.761204",
+      "internal_id": "6b1f1fd1e6a278b452ff7832b6f534cefd25691338f477d4f84b8b1d9de31fe1",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 11262,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Atlantico.fr",
+      "author": "Antoine Flahault",
+      "title": "H5N1 : des millions d\u2019oiseaux sont morts. Comment \u00e9viter que ce soit le cas pour des millions d\u2019humains ?",
+      "description": "La grippe aviaire (H5N1) circule avec une intensit\u00e9 accrue depuis deux ans chez les oiseaux sauvages. Des cas d'infection chez l'homme ont \u00e9t\u00e9 d\u00e9tect\u00e9s aux Etats-Unis.",
+      "url": "https://atlantico.fr/decryptage/h5n1-des-millions-doiseaux-sont-morts-comment-eviter-que-ce-soit-le-cas-pour-des-millions-dhumains-Antoine-Flahault",
+      "urlToImage": "https://atlantico.codexcdn.net/assets/as4epffCSWhS0k4IC.jpg?width=650&height=500",
+      "publishedAt": "2024-07-19 08:06:10",
+      "content": "Antoine Flahault, est m\u00e9decin, \u00e9pid\u00e9miologiste, professeur de sant\u00e9 publique, directeur de l\u2019Institut de Sant\u00e9 Globale, \u00e0 la Facult\u00e9 de M\u00e9decine de l\u2019Universit\u00e9 de Gen\u00e8ve. Il a fond\u00e9 et dirig\u00e9 l\u2019Ecol\u2026 [+232 chars]",
+      "retrievedAt": "2024-07-20 19:05:16.250801",
+      "internal_id": "1f531ca4fdfcc5b6df5e20de3757d41fb9eca48230012fb6b609042f8d6a7374",
+      "publishedAtLabel": "Jul 19"
+    },
     {
       "id": 11254,
       "query": [
@@ -26738,96 +27009,6 @@
       "content": "O Brasil, e mais recentemente o mundo, t\u00eam passado por grandes epidemias de dengue nas \u00faltimas d\u00e9cadas. O aumento de casos ano a ano, incluindo as fatalidades, amplifica a necessidade de informa\u00e7\u00f5es \u2026 [+4120 chars]",
       "retrievedAt": "2024-06-04 07:05:53.763516",
       "internal_id": "9cff37cdf516558dc44701a8861b24ecf1b0a4e28e5797f7abe5e5da1f65eb1a",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9775,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Bss",
-      "title": "Govt takes all-out preparedness to prevent dengue diseases: Health minister",
-      "description": "We have asked all relevant organisations to remain alert for taking prompt actions to deal with any possible outbreak of the dengue diseases, he said",
-      "url": "https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_watermark_bkash/public/images/2024/06/02/2024-06-02-12-01-c7995d6e54cafe6b9e51e0ed1ae83c2d.jpg",
-      "publishedAt": "2024-06-02 15:45:06",
-      "content": "The government has taken all-out preparedness on healthcare services to prevent dengue diseases, Health and Family Welfare Minister Dr Samanta Lal said today (2 June). \"We have asked all relevant or\u2026 [+2055 chars]",
-      "retrievedAt": "2024-06-03 19:05:42.722487",
-      "internal_id": "e99daf4b8d9620b17c7f73796a934769d2079347c9d0a5767fb1c7850751c3de",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9777,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Dr. Tal Patalon, MD, LLB, MBA, Contributor, \n Dr. Tal Patalon, MD, LLB, MBA, Contributor\n https://www.forbes.com/sites/talpatalon/",
-      "title": "Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death",
-      "description": "It is unfathomable, and painful to acknowledge, but real; so many of the world\u2019s deaths are potentially avoidable.",
-      "url": "https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6626340d40158b603dc6aa93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-06-02 14:23:16",
-      "content": "'Boy in Boat', 125X150 cm, Oil on Linen, 2020 by Gideon Rubin// He needs a data lake, but also clean ... [+] waters. He is every child. @ Gideon Rubin It is unfathomable, and painful to acknowledge\u2026 [+4703 chars]",
-      "retrievedAt": "2024-06-03 19:05:43.804423",
-      "internal_id": "cb9f38326f5b75ed7f909426ed77202e9c380cc63ecf28bcf58e01fbd70afb5b",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9773,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "Alex Viveros",
-      "title": "To track H5N1, these scientists test wildlife from as far away as Hawaii",
-      "description": "It\u2019s still an open question, experts say, what will happen as the bird flu virus continues to spread.",
-      "url": "https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/wXqakISt59Fi2Wq6F8pKtDlhVo4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SXJHFO7PE5FYPHY3ELG3MALU4I.JPG",
-      "publishedAt": "2024-06-02 10:00:00",
-      "content": "The lab, which tests animal samples from across the country, offers a peek at how scientists are racing to learn more about the virus, which experts are concerned may one day evolve to more easily in\u2026 [+6112 chars]",
-      "retrievedAt": "2024-06-03 19:05:41.902090",
-      "internal_id": "1ab1ba299add997a2ea58ba129b5d5a3feef234c8071f13bc53bf7a6cde71bb3",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9776,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Kathmandu metropolis urges citizens to take preventive measures against Dengue",
-      "description": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local government has cautioned residents about the heightened risk of d\u2026",
-      "url": "https://english.khabarhub.com/2024/02/358993/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-06-02 08:45:26",
-      "content": "KATHMANDU: The Kathmandu Metropolitan City (KMC) has advised citizens to take precautionary measures against dengue fever. With temperatures rising and the monsoon season approaching, the local gove\u2026 [+1180 chars]",
-      "retrievedAt": "2024-06-03 19:05:42.737377",
-      "internal_id": "9309a113c5b071213377bb88a0f68393f730ff6bfeae58e2652876d26db892b1",
-      "publishedAtLabel": "Jun 2"
-    },
-    {
-      "id": 9774,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
-      "title": "\u0647\u0634\u062f\u0627\u0631 \u062f\u0631\u0628\u0627\u0631\u0647 \u062a\u0628 \u062f\u0627\u0646\u06af \u0648 \u0639\u0644\u0627\u0626\u0645 \u0627\u06cc\u0646 \u0628\u06cc\u0645\u0627\u0631\u06cc",
-      "description": "\u0631\u0626\u06cc\u0633 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0627\u0644\u0628\u0631\u0632 \u0639\u0646\u0648\u0627\u0646 \u06a9\u0631\u062f: \u0645\u0647\u0645\u062a\u0631\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0628\u0631\u0627\u06cc \u062c\u0644\u0648\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u067e\u0634\u0647 \u0646\u0627\u0642\u0644 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062a\u0628 \u062f\u0627\u0646\u06af ( \u067e\u0634\u0647 \u0645\u0647\u0627\u062c\u0645 \u0622\u0626\u062f\u0633 ) \u0628\u0647\u0633\u0627\u0632\u06cc \u0645\u062d\u06cc\u0637 \u0648 \u0627\u0632 \u0628\u06cc\u0646 \u0628\u0631\u062f\u0646 \u0622\u0628\u200c\u0647\u0627\u06cc \u0631\u0627\u06a9\u062f \u06a9\u0647 \u0632\u06cc\u0633\u062a\u06af\u0627\u0647 \u0645\u0646\u0627\u0633\u0628 \u0627\u06cc\u0646 \u067e\u0634\u0647 \u0627\u0633\u062a\u060c \u062f\u0631 \u0645\u062d\u0644 \u0632\u0646\u062f\u06af\u06cc \u0627\u0633\u062a.",
-      "url": "https://www.isna.ir/news/1403031308826/\u0647\u0634\u062f\u0627\u0631-\u062f\u0631\u0628\u0627\u0631\u0647-\u062a\u0628-\u062f\u0627\u0646\u06af-\u0648-\u0639\u0644\u0627\u0626\u0645-\u0627\u06cc\u0646-\u0628\u06cc\u0645\u0627\u0631\u06cc",
-      "urlToImage": "https://cdn.isna.ir/d/2024/06/02/4/63055736.jpg?ts=1717316636429",
-      "publishedAt": "2024-06-02 08:44:28",
-      "content": "/ : ( ) . : . : ( ) . (Dengue fever) . . . : #",
-      "retrievedAt": "2024-06-03 19:05:42.636287",
-      "internal_id": "9351b30c8fabafbc4ad85394eda8931b1f5bc13b9895b014e5159bcc1facdc8c",
       "publishedAtLabel": "Jun 2"
     }
   ]

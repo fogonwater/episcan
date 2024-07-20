@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-07-20 07:06
-- **Most recent article:** 2024-07-19 07:00:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-07-20 19:05
+- **Most recent article:** 2024-07-19 16:25:04
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 61 | 115 | 62 | 105 | 52 | 95 | 51 | 541 |
-| h5n1 | 77 | 55 | 29 | 36 | 59 | 52 | 53 | 361 |
-| malaria | 21 | 37 | 20 | 24 | 15 | 14 | 27 | 158 |
+| dengue | 58 | 115 | 62 | 105 | 52 | 95 | 57 | 544 |
+| h5n1 | 76 | 55 | 29 | 36 | 59 | 52 | 57 | 364 |
+| malaria | 20 | 37 | 20 | 24 | 15 | 14 | 28 | 158 |
 | mpox | 8 | 26 | 14 | 46 | 21 | 26 | 9 | 150 |
 | measles | 11 | 7 | 11 | 8 | 9 | 12 | 19 | 77 |
-| zika | 0 | 12 | 3 | 17 | 20 | 12 | 5 | 69 |
-| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 8 | 61 |
-| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 11 | 41 |
+| zika | 0 | 12 | 3 | 17 | 20 | 12 | 6 | 70 |
+| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 9 | 62 |
+| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 13 | 43 |
 | pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 0 | 37 |
 | hpai | 2 | 4 | 4 | 3 | 3 | 5 | 6 | 27 |
-| meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 2 | 21 |
+| meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 3 | 22 |
 | typhoid | 1 | 1 | 2 | 3 | 4 | 6 | 0 | 17 |
 | leptospirosis | 1 | 1 | 1 | 2 | 1 | 3 | 4 | 13 |
 | yersinia | 1 | 0 | 0 | 2 | 0 | 6 | 0 | 9 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-29 (zika)
+
+- [Global Mosquito Repellent Market is Projected to Grow US$ 11,474.5 Million by 2032, at a 6.0% CAGR from 2024 to 2032 | Polaris Market Research (PMR)](https://www.globenewswire.com/news-release/2024/07/19/2915852/0/en/Global-Mosquito-Repellent-Market-is-Projected-to-Grow-US-11-474-5-Million-by-2032-at-a-6-0-CAGR-from-2024-to-2032-Polaris-Market-Research-PMR.html) (GlobeNewswire)
 
 - [Decoding Zika virus: Awareness key to stop transmission](https://timesofindia.indiatimes.com/city/pune/decoding-zika-virus-awareness-key-to-stop-transmission/articleshow/111851453.cms) (The Times of India)
 
@@ -45,6 +47,10 @@ Source: [News API](https://newsapi.org/)
 - [Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms) (The Times of India)
 
 ## 24-29 (rabies)
+
+- [Insights into canine rabies vaccination Disparities in Sierra Leone: A cross-sectional household study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012332) (Plos.org)
+
+- [Infected cat prompts rabies alert in Brevard County neighborhood](https://www.wftv.com/news/local/infected-cat-prompts-rabies-alert-brevard-county-neighborhood/N5VSIQF6V5CRJAHY2JGLRN333Y/) (WFTV Orlando)
 
 - [Health alert: Stray cat in Brevard County tests positive for rabies](https://www.clickorlando.com/news/local/2024/07/19/health-alert-stray-cat-in-brevard-county-tests-positive-for-rabies/) (WKMG News 6 & ClickOrlando)
 
@@ -89,6 +95,8 @@ Source: [News API](https://newsapi.org/)
 - [DR Congo detects at least 25 mpox cases in Goma](https://www.voanews.com/a/dr-congo-detects-at-least-25-mpox-cases-in-goma-mainly-in-displacement-camps-/7695086.html) (VOA News)
 
 ## 24-29 (meningitis)
+
+- [Post-secondary students urged to get free meningitis B vaccine before the fall](https://www.cbc.ca/news/canada/prince-edward-island/pei-cpho-meningitis-b-vaccine-1.7267885) (CBC News)
 
 - [The value of nanopore sequencing as a diagnostic tool in tuberculous meningitis: A protocol of systematic review and meta-analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307389) (Plos.org)
 
@@ -135,6 +143,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis](https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis) (Zerohedge.com)
 
 ## 24-29 (malaria)
+
+- [Malaria odporna na leki. Naukowcy o śmiertelnym zagrożeniu dla milionów osób](https://tvn24.pl/swiat/zdrowie-malaria-odporna-na-leki-naukowcy-o-zagrozeniu-dla-milionow-osob-st8010492) (Tvn24.pl)
 
 - [Stechmücken bringen tropische Krankheiten nach Europa: Was hilft gegen Malaria-Zeitbombe?](https://www.telepolis.de/features/Stechmuecken-bringen-tropische-Krankheiten-mit-Stoppt-Gentechnik-die-Malaria-Zeitbombe-9806286.html) (Telepolis.de)
 
@@ -215,6 +225,14 @@ Source: [News API](https://newsapi.org/)
 - [CDC Confirms Human Cases of H5 Bird Flu Among Colorado Poultry Workers](https://www.cdc.gov/media/releases/2024/p-0715-confirm-h5.html) (Cdc.gov)
 
 ## 24-29 (h5n1)
+
+- [Desarrollan prometedor enfoque para alcanzar vacuna universal contra la gripe aviar](https://www.forbes.com.mx/desarrollan-prometedor-enfoque-para-alcanzar-vacuna-universal-contra-la-gripe-aviar/) (Forbes.com.mx)
+
+- [Aviaria, l’ipotesi che il contagio tra le mucche sia avvenuto per via aerea. Ma la prima “causa” resta il latte](https://www.ilfattoquotidiano.it/2024/07/19/aviaria-lipotesi-che-il-contagio-tra-le-mucche-sia-avvenuto-per-via-aerea-ma-la-prima-causa-resta-il-latte/7629675/) (Ilfattoquotidiano.it)
+
+- [Вирус птичьего гриппа поразил тысячи коров в США. Опасно ли это для нас и почему так получилось](https://hi-news.ru/eto-interesno/virus-ptichego-grippa-porazil-tysyachi-korov-v-ssha-opasno-li-eto-dlya-nas-i-pochemu-tak-poluchilos.html) (Hi-news.ru)
+
+- [H5N1 : des millions d’oiseaux sont morts. Comment éviter que ce soit le cas pour des millions d’humains ?](https://atlantico.fr/decryptage/h5n1-des-millions-doiseaux-sont-morts-comment-eviter-que-ce-soit-le-cas-pour-des-millions-dhumains-Antoine-Flahault) (Atlantico.fr)
 
 - [Gripa aviară ar putea provoca viitoare pandemie globală. Cinci muncitori s-au infectat cu gripa aviară la o fermă din Colorado](https://adevarul.ro/stiri-externe/sua/gripa-aviara-ar-putea-provoca-viitoare-pandemie-2376110.html) (Adevarul.ro)
 
@@ -324,6 +342,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (dengue)
 
+- [Monsoon brings fever season to India; Kerala, Karnataka see Dengue spike](https://www.business-standard.com/india-news/monsoon-brings-fever-season-to-india-kerala-karnataka-see-dengue-spike-124071901139_1.html) (Business Standard)
+
+- [Bengaluru dengue toll free number ಡೆಂಘೀ ಚಿಕಿತ್ಸೆಗೆ ಉಚಿತ ಸಹಾಯವಾಣಿ ಆರಂಭಿಸಿದ Health department](https://kannada.asianetnews.com/state/karnataka-health-department-set-up-toll-free-number-to-dengue-fever-control-and-treatment-in-bengaluru-sat-sgvfrb) (Asianetnews.com)
+
+- [Global Mosquito Repellent Market is Projected to Grow US$ 11,474.5 Million by 2032, at a 6.0% CAGR from 2024 to 2032 | Polaris Market Research (PMR)](https://www.globenewswire.com/news-release/2024/07/19/2915852/0/en/Global-Mosquito-Repellent-Market-is-Projected-to-Grow-US-11-474-5-Million-by-2032-at-a-6-0-CAGR-from-2024-to-2032-Polaris-Market-Research-PMR.html) (GlobeNewswire)
+
+- [Dengue : avec les JO, « tous les ingrédients sont réunis pour que le nombre de cas augmente »](https://www.nouvelobs.com/societe/20240719.OBS91326/dengue-avec-les-jo-tous-les-ingredients-sont-reunis-pour-que-le-nombre-de-cas-augmente.html) (L'Obs)
+
+- [H1N1, dengue alerts issued in Pathanamthitta](https://timesofindia.indiatimes.com/city/kochi/h1n1-dengue-alerts-issued-in-pathanamthitta/articleshow/111858356.cms) (The Times of India)
+
+- [Riesgos de vacunas contra el dengue frenan su uso](https://www.jornada.com.mx/2024/07/19/sociedad/035n2soc) (Jornada.com.mx)
+
 - [Dengue: Campinas chega a 48 mortes, e epidemia de 2024 supera soma de óbitos pela doença dos últimos 12 anos](https://g1.globo.com/sp/campinas-regiao/noticia/2024/07/18/dengue-campinas-chega-a-48-mortes-e-epidemia-de-2024-supera-soma-de-obitos-pela-doenca-dos-ultimos-12-anos.ghtml) (Globo)
 
 - [Dengue tiene a 10 personas hospitalizadas en Costa Rica, entre ellas un niño](https://www.nacion.com/ciencia/salud/dengue-tiene-a-10-personas-hospitalizadas-en-costa/EEKRRYPCSBEO7LLO4VIN4ZYSWE/story/) (Nacion.com)
@@ -427,6 +457,8 @@ Source: [News API](https://newsapi.org/)
 - [Pas op, in die leuke gieter uit Zuid-Frankrijk zit mogelijk een tijgermug](https://www.nrc.nl/nieuws/2024/07/14/als-je-de-leuke-gieter-uit-zuid-frankrijk-in-je-tuin-zet-ben-je-de-sjaak-dan-heb-je-tijgermuggen-waarschuwt-de-nvwa-a4859542) (Www.nrc.nl)
 
 ## 24-29 (chikungunya)
+
+- [Συναγερμός για το πρώτο κρούσμα Δάγκειου πυρετού στη Γαλλία - Φόβοι για τους Ολυμπιακούς Αγώνες](https://www.newsit.gr/ellada/dagkeios-pyretos-synagermos-gia-to-proto-krousma-sti-gallia-fovoi-gia-tous-olympiakous-agones/4138809/) (Newsit.gr)
 
 - [Ravaged but resolute H S Prannoy focussed on increasing speed ahead of Paris Olympics](https://thehillstimes.in/sports/ravaged-but-resolute-h-s-prannoy-focussed-on-increasing-speed-ahead-of-paris-olympics) (Thehillstimes.in)
 
@@ -3074,8 +3106,6 @@ Source: [News API](https://newsapi.org/)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
-- [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
-
 ## 24-23 (leptospirosis)
 
 - [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
@@ -3240,8 +3270,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
-- [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
-
 ## 24-23 (dengue)
 
 - [Govt still mulling using costly Qdenga vaccine](https://www.thestar.com.my/news/nation/2024/06/09/govt-still-mulling-using-costly-qdenga-vaccine) (The Star Online)
@@ -3359,12 +3387,6 @@ Source: [News API](https://newsapi.org/)
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.ru/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.ru)
 
 - [5 mitos e 5 verdades sobre a dengue e o mosquito Aedes aegypti](https://olhardigital.com.br/2024/06/02/medicina-e-saude/5-mitos-e-5-verdades-sobre-a-dengue-e-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
-
-- [Govt takes all-out preparedness to prevent dengue diseases: Health minister](https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781) (Tbsnews.net)
-
-- [Kathmandu metropolis urges citizens to take preventive measures against Dengue](https://english.khabarhub.com/2024/02/358993/) (Khabarhub.com)
-
-- [هشدار درباره تب دانگ و علائم این بیماری](https://www.isna.ir/news/1403031308826/هشدار-درباره-تب-دانگ-و-علائم-این-بیماری) (Isna.ir)
 
 ## 24-23 (chikungunya)
 
