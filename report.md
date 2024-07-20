@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2024-07-19 19:05
-- **Most recent article:** 2024-07-18 18:26:31
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-07-20 07:06
+- **Most recent article:** 2024-07-19 07:00:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-23 | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 58 | 115 | 62 | 105 | 52 | 95 | 50 | 537 |
-| h5n1 | 76 | 55 | 29 | 36 | 59 | 52 | 53 | 360 |
-| malaria | 20 | 37 | 20 | 24 | 15 | 14 | 26 | 156 |
-| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 8 | 149 |
-| measles | 11 | 7 | 11 | 8 | 9 | 12 | 17 | 75 |
-| zika | 0 | 12 | 3 | 17 | 20 | 12 | 4 | 68 |
-| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 7 | 60 |
-| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 10 | 40 |
+| dengue | 61 | 115 | 62 | 105 | 52 | 95 | 51 | 541 |
+| h5n1 | 77 | 55 | 29 | 36 | 59 | 52 | 53 | 361 |
+| malaria | 21 | 37 | 20 | 24 | 15 | 14 | 27 | 158 |
+| mpox | 8 | 26 | 14 | 46 | 21 | 26 | 9 | 150 |
+| measles | 11 | 7 | 11 | 8 | 9 | 12 | 19 | 77 |
+| zika | 0 | 12 | 3 | 17 | 20 | 12 | 5 | 69 |
+| chikungunya | 5 | 14 | 5 | 17 | 6 | 6 | 8 | 61 |
+| rabies | 9 | 2 | 5 | 8 | 4 | 2 | 11 | 41 |
 | pertussis | 9 | 11 | 11 | 3 | 1 | 2 | 0 | 37 |
 | hpai | 2 | 4 | 4 | 3 | 3 | 5 | 6 | 27 |
 | meningitis | 6 | 3 | 1 | 1 | 3 | 5 | 2 | 21 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (zika)
 
+- [Decoding Zika virus: Awareness key to stop transmission](https://timesofindia.indiatimes.com/city/pune/decoding-zika-virus-awareness-key-to-stop-transmission/articleshow/111851453.cms) (The Times of India)
+
 - [“Le Olimpiadi di Parigi rischiano di diventare un focolaio di chikungunya, Zika, dengue, virus del Nilo e Usutu”: lo studio](https://www.ilfattoquotidiano.it/2024/07/17/le-olimpiadi-di-parigi-rischiano-di-diventare-un-focolaio-di-chikungunya-zika-dengue-virus-del-nilo-e-usutu-lo-studio/7626421/) (Ilfattoquotidiano.it)
 
 - [Preventing mosquito bites: Here's how to protect yourself and your family](https://www.business-standard.com/health/preventing-mosquito-bites-here-s-how-to-protect-yourself-and-your-family-124071700706_1.html) (Business Standard)
@@ -43,6 +45,8 @@ Source: [News API](https://newsapi.org/)
 - [Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms) (The Times of India)
 
 ## 24-29 (rabies)
+
+- [Health alert: Stray cat in Brevard County tests positive for rabies](https://www.clickorlando.com/news/local/2024/07/19/health-alert-stray-cat-in-brevard-county-tests-positive-for-rabies/) (WKMG News 6 & ClickOrlando)
 
 - [Россельхознадзор заявил, что в РФ есть аналог ветпрепарата "Нобивак Rabies"](https://tass.ru/ekonomika/21385403) (Tass.ru)
 
@@ -65,6 +69,8 @@ Source: [News API](https://newsapi.org/)
 - [Rabiessälar plågar Sydafrika](https://www.aftonbladet.se/nyheter/a/LMM1qR/rabiessalar-plagar-sydafrika) (Aftonbladet.se)
 
 ## 24-29 (mpox)
+
+- [Health Dept says current Mpox outbreak remains under control](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJalnUcfD2o4) (YouTube)
 
 - [News24 | Mpox: First case at a school reported in Hammanskraal, Gauteng](https://www.news24.com/news24/southafrica/news/mpox-first-case-at-a-school-reported-in-hammanskraal-gauteng-20240718) (News24)
 
@@ -89,6 +95,10 @@ Source: [News API](https://newsapi.org/)
 - [Ministry makes meningitis vaccine mandatory for Umrah pilgrims](https://en.antaranews.com/news/319098/ministry-makes-meningitis-vaccine-mandatory-for-umrah-pilgrims) (Antaranews.com)
 
 ## 24-29 (measles)
+
+- [Multi-state measles outbreak prompts alert of possible exposure at three more N.H. sites](https://www.bostonglobe.com/2024/07/18/metro/measles-outbreak-nh-vt/) (The Boston Globe)
+
+- [Case of measles confirmed in Mass. for first time since 2020](https://www.boston.com/news/health/2024/07/18/case-of-measles-confirmed-in-mass-for-first-time-since-2020-officials-say/) (Boston.com)
 
 - [State officials report first measles case in Mass. since 2020](https://www.bostonglobe.com/2024/07/18/metro/measles-massachusetts-vaccinated-outbreak/) (The Boston Globe)
 
@@ -125,6 +135,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis](https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis) (Zerohedge.com)
 
 ## 24-29 (malaria)
+
+- [Stechmücken bringen tropische Krankheiten nach Europa: Was hilft gegen Malaria-Zeitbombe?](https://www.telepolis.de/features/Stechmuecken-bringen-tropische-Krankheiten-mit-Stoppt-Gentechnik-die-Malaria-Zeitbombe-9806286.html) (Telepolis.de)
 
 - [Urgent action needed as malaria evolves resistance to key drug](https://www.bbc.co.uk/news/articles/cxe25v5d8l9o) (BBC News)
 
@@ -312,6 +324,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (dengue)
 
+- [Dengue: Campinas chega a 48 mortes, e epidemia de 2024 supera soma de óbitos pela doença dos últimos 12 anos](https://g1.globo.com/sp/campinas-regiao/noticia/2024/07/18/dengue-campinas-chega-a-48-mortes-e-epidemia-de-2024-supera-soma-de-obitos-pela-doenca-dos-ultimos-12-anos.ghtml) (Globo)
+
 - [Dengue tiene a 10 personas hospitalizadas en Costa Rica, entre ellas un niño](https://www.nacion.com/ciencia/salud/dengue-tiene-a-10-personas-hospitalizadas-en-costa/EEKRRYPCSBEO7LLO4VIN4ZYSWE/story/) (Nacion.com)
 
 - [Scoperto caso di Dengue vicino a Carrara, disinfestazione](https://www.ansa.it/toscana/notizie/2024/07/18/scoperto-caso-di-dengue-vicino-a-carrara-disinfestazione_0b01e154-fefe-4caa-a325-6a1af63866fc.html) (ANSA.it)
@@ -413,6 +427,8 @@ Source: [News API](https://newsapi.org/)
 - [Pas op, in die leuke gieter uit Zuid-Frankrijk zit mogelijk een tijgermug](https://www.nrc.nl/nieuws/2024/07/14/als-je-de-leuke-gieter-uit-zuid-frankrijk-in-je-tuin-zet-ben-je-de-sjaak-dan-heb-je-tijgermuggen-waarschuwt-de-nvwa-a4859542) (Www.nrc.nl)
 
 ## 24-29 (chikungunya)
+
+- [Ravaged but resolute H S Prannoy focussed on increasing speed ahead of Paris Olympics](https://thehillstimes.in/sports/ravaged-but-resolute-h-s-prannoy-focussed-on-increasing-speed-ahead-of-paris-olympics) (Thehillstimes.in)
 
 - [Rising cases of mosquito-borne diseases alarms authorities in Maharashtra](https://www.business-standard.com/health/rising-cases-of-mosquito-borne-diseases-alarms-authorities-in-maharashtra-124071800518_1.html) (Business Standard)
 
@@ -3058,6 +3074,8 @@ Source: [News API](https://newsapi.org/)
 
 - [ATTG 2027: Johnny Ebola and the Malaria Five - Ticketmaster Breach, Podcasting, iPad's](https://twit.tv/shows/ask-the-tech-guys/episodes/2027) (Twit.tv)
 
+- [Genetically Engineered Mosquitos Are Released To Fight Malaria, But AI And Tech Are Still Far Away From Overcoming Preventable Death](https://www.forbes.com/sites/talpatalon/2024/06/02/genetically-engineered-mosquitos-are-released-to-fight-malaria-but-ai-and-tech-are-still-far-away-from-overcoming-preventable-death/) (Forbes)
+
 ## 24-23 (leptospirosis)
 
 - [Brasil registra 13 fallecidos por leptospirosis en el sur del país después de las inundaciones](https://www.elperiodico.com/es/internacional/20240605/brasil-registra-13-fallecidos-leptospirosis-103360111) (Elperiodico.com)
@@ -3222,6 +3240,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Vogelgrippevirus in Kuh-Rohmilch: Können sich Menschen anstecken?](https://t3n.de/news/vogelgrippevirus-in-kuh-rohmilch-koennen-sich-menschen-anstecken-1627672/) (T3n)
 
+- [To track H5N1, these scientists test wildlife from as far away as Hawaii](https://www.bostonglobe.com/2024/06/02/metro/bird-flu-tufts-cows-cats-seals/) (The Boston Globe)
+
 ## 24-23 (dengue)
 
 - [Govt still mulling using costly Qdenga vaccine](https://www.thestar.com.my/news/nation/2024/06/09/govt-still-mulling-using-costly-qdenga-vaccine) (The Star Online)
@@ -3339,6 +3359,12 @@ Source: [News API](https://newsapi.org/)
 - [Expedition From Hell The Lost Tapes S01E05 1080p WEB h264-FREQUENCY](https://rlsbb.ru/expedition-from-hell-the-lost-tapes-s01e05-1080p-web-h264-frequency/) (Rlsbb.ru)
 
 - [5 mitos e 5 verdades sobre a dengue e o mosquito Aedes aegypti](https://olhardigital.com.br/2024/06/02/medicina-e-saude/5-mitos-e-5-verdades-sobre-a-dengue-e-o-mosquito-aedes-aegypti/) (Olhardigital.com.br)
+
+- [Govt takes all-out preparedness to prevent dengue diseases: Health minister](https://www.tbsnews.net/bangladesh/govt-takes-all-out-preparedness-prevent-dengue-diseases-health-minister-866781) (Tbsnews.net)
+
+- [Kathmandu metropolis urges citizens to take preventive measures against Dengue](https://english.khabarhub.com/2024/02/358993/) (Khabarhub.com)
+
+- [هشدار درباره تب دانگ و علائم این بیماری](https://www.isna.ir/news/1403031308826/هشدار-درباره-تب-دانگ-و-علائم-این-بیماری) (Isna.ir)
 
 ## 24-23 (chikungunya)
 
