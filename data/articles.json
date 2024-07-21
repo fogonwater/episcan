@@ -1,8 +1,244 @@
 {
-  "last_updated": "2024-07-21 07:05",
-  "count_articles_total": 1294,
-  "count_articles_new": 10,
+  "last_updated": "2024-07-21 19:05",
+  "count_articles_total": 1304,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 11289,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "\u201eLandwirten gehen L\u00f6sungen aus\u201c - Roboter j\u00e4ten Unkraut und sorgen f\u00fcr weniger Pestizide auf den Feldern",
+      "description": "In der Demokratischen Republik Kongo gibt es einen \u201eexponentiellen Anstieg\u201c der F\u00e4lle von Mpox-Infektionen. 420 Menschen sind gestorben.",
+      "url": "https://www.focus.de/finanzen/landwirten-gehen-loesungen-aus-roboter-jaeten-unkraut-und-sorgen-fuer-weniger-pestizide-auf-den-feldern_id_260155387.html",
+      "urlToImage": "https://p6.focus.de/img/regional/stuttgart/id_259835467/jaeten-roboter-kuenftig-unkraut-symbolbild-.jpg?im=Crop%3D%280%2C60%2C1920%2C960%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=357bb7e7bccc4bbe0814338deb92e803cf44f9552506bd3b6184a1a4966c6596",
+      "publishedAt": "2024-07-20 18:11:12",
+      "content": "In Kansas setzen Landwirte Roboter zur Unkrautbek\u00e4mpfung ein und reduzieren so den Einsatz von Chemikalien. Revolutioniert das die Landwirtschaft? Im hei\u00dfen Kansas (USA) beobachten Landwirte, wie Rob\u2026 [+980 chars]",
+      "retrievedAt": "2024-07-21 19:05:26.671659",
+      "internal_id": "759085f27ccd4850e3a9f144e5ad3789be63476835a49ff22ca1132a1a24c80a",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11293,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "gva.be",
+      "title": "\u201cExponenti\u00eble\u201d stijging van aantal gevallen van apenpokken in Congo",
+      "description": "In Congo is er een \u201cexponenti\u00eble stijging\u201d van het aantal gevallen van mpox, of de apenpokken. Dat meldt de Congolese ministerraad.",
+      "url": "https://www.gva.be/cnt/dmf20240720_96382025",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/07/20/31f966e9-a5e4-48bd-99f7-3960068c7b94.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-07-20 17:43:29",
+      "content": "In Congo is er een exponenti\u00eble stijging van het aantal gevallen van mpox, of de apenpokken. Dat meldt de Congolese ministerraad.Tot nu toe zijn er 11.166 verdachte gevallen, waaronder 450 sterfgeval\u2026 [+1223 chars]",
+      "retrievedAt": "2024-07-21 19:05:26.696411",
+      "internal_id": "1c50df70859357bf2d3a9df638895df0c3fb8fe5e4d24c84a2aa249b81aae50a",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11288,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Westafricaweekly.com",
+      "author": "Joy Chukwu",
+      "title": "Enugu health director cautions against abuse of anti-malaria drugs",
+      "description": "Dr Uchechukwu Okenwa, Director of Public Health and Disease Control at the Enugu State Ministry of Health, has advised Nigerians to stop taking anti-malaria dru",
+      "url": "https://westafricaweekly.com/enugu-health-director-cautions-against-unnecessary-use-of-anti-malaria-drugs/",
+      "urlToImage": "https://westafricaweekly.com/wp-content/uploads/2024/07/C0486124-Antimalarial_drugs.webp",
+      "publishedAt": "2024-07-20 17:32:33",
+      "content": "Dr Uchechukwu Okenwa, Director of Public Health and Disease Control at the Enugu State Ministry of Health, has advised Nigerians to stop taking anti-malaria drugs whenever they have a fever. Okenwa \u2026 [+1750 chars]",
+      "retrievedAt": "2024-07-21 19:05:25.771810",
+      "internal_id": "fd37d81445be6ed1c381faea3991d8262957c1c569ba46ba4c6f6aa7105bbdce",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11295,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "AFP",
+      "title": "WHO befr\u00fcchtet Ausbreitung - Im Kongo steigt die Zahl der Affenpockeninfektionen \u201esprunghaft\u201c an",
+      "description": "In der Demokratischen Republik Kongo gibt es einen \u201eexponentiellen Anstieg\u201c der F\u00e4lle von Mpox-Infektionen. 420 Menschen sind gestorben.",
+      "url": "https://www.focus.de/panorama/welt/who-befruechtet-ausbreitung-im-kongo-steigt-die-zahl-der-affenpockeninfektionen-sprunghaft-an_id_260155343.html",
+      "urlToImage": "https://p6.focus.de/img/regional/berlin/id_182771902/kolorierte-mikroskopische-aufnahme-von-kultivierten-und-gereinigten-affenpockenvirus-partikeln-gelb-..jpg?im=Crop%3D%280%2C338%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=536a9ba7c28412fcae524b5e3db639057005c02c6164cb63f4c00ed6b1042250",
+      "publishedAt": "2024-07-20 17:27:06",
+      "content": "In der Demokratischen Republik Kongo gibt es einen exponentiellen Anstieg der F\u00e4lle von Mpox-Infektionen. 420 Menschen sind gestorben. Es gebe inzwischen mehr als 11.000 Verdachtsf\u00e4lle auf die jahrel\u2026 [+1404 chars]",
+      "retrievedAt": "2024-07-21 19:05:26.714629",
+      "internal_id": "bbf6009710ac526a447a9038f8ec7802f1c6dff383ae9af67e9fd69f7b8be7ae",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11291,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412 \u0414\u0420 \u041a\u043e\u043d\u0433\u043e \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u0447\u0438\u0441\u043b\u043e \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0445 \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u041c\u0438\u043d\u0438\u0441\u0442\u0440 \u0441\u0432\u044f\u0437\u0438 \u0438 \u043f\u043e \u0434\u0435\u043b\u0430\u043c \u0421\u041c\u0418 \u0414\u0420\u041a \u041f\u0430\u0442\u0440\u0438\u043a \u041c\u0443\u0439\u044f\u0439\u044f \u041a\u0430\u0442\u0435\u043c\u0431\u0432\u0435 \u0441\u043e\u043e\u0431\u0449\u0438\u043b, \u0447\u0442\u043e \u044d\u043f\u0438\u0446\u0435\u043d\u0442\u0440 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f mpox \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u0437\u0430\u043f\u0430\u0434\u0435 \u0441\u0442\u0440\u0430\u043d\u044b, \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0438 \u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f",
+      "url": "https://tass.ru/obschestvo/21411021",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21411021?u=2024-07-20T16:22:24.823335",
+      "publishedAt": "2024-07-20 16:22:24",
+      "content": ", 20 . //. mpox (\"\", ) () , 450 . . \" , , mpox , - AFP. - 11 166, 450\". , mpox , . , mpox . mpox, , 2022 , 100 . , , Clade 1b, . 11 mpox. , Clade 1b . 5%. Mpox - , , . 1970 . , , , . mpox 1% 10\u2026 [+3 chars]",
+      "retrievedAt": "2024-07-21 19:05:26.686548",
+      "internal_id": "3276afbe06ba5938a4931c7c9f619af9d00369507c3aa47abba050c5632fd712",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11292,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "nieuwsblad.be",
+      "title": "\u201cExponenti\u00eble\u201d stijging van aantal gevallen van apenpokken in Congo",
+      "description": "In Congo is er een \u201cexponenti\u00eble stijging\u201d van het aantal gevallen van mpox, of de apenpokken. Dat meldt de Congolese ministerraad.",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20240720_95797740",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/07/20/31f966e9-a5e4-48bd-99f7-3960068c7b94.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-07-20 16:05:21",
+      "content": "In Congo is er een exponenti\u00eble stijging van het aantal gevallen van mpox, of de apenpokken. Dat meldt de Congolese ministerraad.Tot nu toe zijn er 11.166 verdachte gevallen, waaronder 450 sterfgeval\u2026 [+1223 chars]",
+      "retrievedAt": "2024-07-21 19:05:26.691565",
+      "internal_id": "589fa2df27ef6dc74cab43883765535a4616fac3160bc029bd536bd789e6c006",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11284,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "EUA confirmam mais 2 casos de gripe avi\u00e1ria em humanos",
+      "description": "Os dois casos de gripe avi\u00e1ria foram confirmados no Colorado. Os pacientes tiveram contato com aves doentes durante o abate em uma granja",
+      "url": "https://www.metropoles.com/saude/eua-mais-2-casos-gripe-aviaria",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/03/24115905/Exportacao-de-frango.jpg",
+      "publishedAt": "2024-07-20 15:28:39",
+      "content": "Dois novos casos de gripe avi\u00e1ria H5N1 em humanos foram confirmados pelo Centro de Controle e Preven\u00e7\u00e3o de Doen\u00e7as (CDC) dos Estados Unidos nessa sexta-feira (19/7), no Colorado. Ao todo o estado j\u00e1 \u2026 [+1102 chars]",
+      "retrievedAt": "2024-07-21 19:05:24.524180",
+      "internal_id": "51d24b891b633ccb2342c3a4a4fe03c0ea9c52daf753278a12fe2b24493a3279",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11290,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "WHO bef\u00fcrchtet Ausbreitung von Mpox-Infektionen",
+      "description": "",
+      "url": "https://orf.at/stories/3364116/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-07-20 15:04:52",
+      "content": "In der Demokratischen Republik Kongo gibt es einen sprunghaften Anstieg der F\u00e4lle von Mpox-Infektionen. Wie die Regierung heute mitteilte, wurde das Kabinett am Vortag \u00fcber einen exponentiellen Ansti\u2026 [+1454 chars]",
+      "retrievedAt": "2024-07-21 19:05:26.677612",
+      "internal_id": "f2ab5ecac3b658242c1a18c57766c13f974b2523d622b011b020db9bff4f74ca",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11294,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Sprunghafter Anstieg der Mpox-Infektionen im Kongo - WHO bef\u00fcrchtet Ausbreitung",
+      "description": "In der Demokratischen Republik Kongo gibt es einen sprunghaften Anstieg der F\u00e4lle von Mpox-Infektionen. Wie die Regierung am Samstag mitteilte, wurde das Kabinett am Vortag \u00fcber einen \"exponentiellen Anstieg\" der Erkrankungen informiert. Es gebe inzwischen me\u2026",
+      "url": "https://www.stern.de/news/sprunghafter-anstieg-der-mpox-infektionen-im-kongo---who-befuerchtet-ausbreitung-34900370.html",
+      "urlToImage": "https://image.stern.de/34900372/t/vV/v1/w1440/r1.7778/-/20--mpoxviren---d9cc542ff3f36137.jpg",
+      "publishedAt": "2024-07-20 15:00:13",
+      "content": "In der Demokratischen Republik Kongo gibt es einen sprunghaften Anstieg der F\u00e4lle von Mpox-Infektionen. Wie die Regierung am Samstag mitteilte, wurde das Kabinett am Vortag \u00fcber einen \"exponentiellen\u2026 [+1476 chars]",
+      "retrievedAt": "2024-07-21 19:05:26.708953",
+      "internal_id": "5eda827efbe20082889fe5bf4b7dbfcaa444beeca3d4852921db40b60873a6df",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11283,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Thea Petrik",
+      "title": "Vogelgrippe-Ausbruch: Befeuert der Klimawandel die n\u00e4chste Pandemie?",
+      "description": "Bei 40 Grad tr\u00e4gt sich Schutzausr\u00fcstung schwer und b\u00fc\u00dft wom\u00f6glich Wirkung ein. Erneut Arbeiter in Massentierhaltung mit H5N1 infiziert. Wie US-Beh\u00f6rden reagieren.",
+      "url": "https://www.telepolis.de/features/Vogelgrippe-Ausbruch-Befeuert-der-Klimawandel-die-naechste-Pandemie-9808030.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/3/7/3/0/0/laying-hens-4133954_1280-ff75766a0e68b681.jpeg",
+      "publishedAt": "2024-07-20 12:00:00",
+      "content": "Viele Tiere auf engem Raum kombiniert mit Hitze: Eine Zeitbombe? Symbolbild: Wolfgang Ehrecke / Pixabay Licence Bei 40 Grad tr\u00e4gt sich Schutzausr\u00fcstung schwer und b\u00fc\u00dft wom\u00f6glich Wirkung ein. Erneut \u2026 [+4795 chars]",
+      "retrievedAt": "2024-07-21 19:05:24.465851",
+      "internal_id": "ff258f833e2f4d8eeecc3a17d8053d8859bb6874f046841a82dc58e590a93b8d",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11285,
+      "query": [
+        "dengue",
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Rapid rise in typhoid cases: How to know if your fever is typhoid",
+      "description": "Monsoon increases typhoid in Telangana with 800 OP cases daily at Government Fever Hospital. Dr. Shankar notes rising seasonal diseases like dengue. Typhoid from Salmonella typhi begins gradually, causing high fever, weakness, GI issues, rash, and possible co\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/rapid-rise-in-typhoid-cases-how-to-know-if-your-fever-is-typhoid/articleshow/111883087.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111883071,width-1070,height-580,imgsize-550916,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-20 09:39:41",
+      "content": "What to do if someone gets an allergic reaction?",
+      "retrievedAt": "2024-07-21 19:05:25.008491",
+      "internal_id": "975d0e65481d208f81e066d268fe82daf768bf04cde24a4ad461e3fc2c6d92b6",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11286,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Un estudio descarta la presencia de covid-19 en artr\u00f3podos vectores como garrapatas y mosquitos en la Regi\u00f3n",
+      "description": "Tampoco se ha encontrado dengue, chikungunya, virus de la de la fiebre del Nilo occidental o virus de las fiebres hemorr\u00e1gicas de Crimea-Congo",
+      "url": "https://www.europapress.es/murcia/noticia-estudio-descarta-presencia-covid-19-artropodos-vectores-garrapatas-mosquitos-region-20240720103705.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240720103705_1200.jpg",
+      "publishedAt": "2024-07-20 08:37:05",
+      "content": "Tampoco se ha encontrado dengue, chikungunya, virus de la de la fiebre del Nilo occidental o virus de las fiebres hemorr\u00e1gicas de Crimea-Congo MURCIA, 20 Jul. (EUROPA PRESS) - Declaraciones de l\u2026 [+2254 chars]",
+      "retrievedAt": "2024-07-21 19:05:25.052031",
+      "internal_id": "2e4839702dcaa580d9c6f747f84e4ba1751d202107fbc3f53098c21b119d9cce",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11287,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Dwayne Oxford",
+      "title": "How is new malaria vaccine drive working in West Africa?",
+      "description": "How does the new R21/Matrix-M vaccine work and where is it being administered?",
+      "url": "https://www.aljazeera.com/news/2024/7/20/how-is-new-malaria-vaccine-drive-working-in-west-africa",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/07/2024-07-15T161650Z_204103713_RC2NV8ALC5G2_RTRMADP_3_HEALTH-MALARIA-IVORYCOAST-1721382639.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-07-20 08:13:50",
+      "content": "The Ivory Coast has received the first doses of malaria vaccine from the worlds largest vaccine maker, the Serum Institute of India, in collaboration with the University of Oxford, and began rolling \u2026 [+5801 chars]",
+      "retrievedAt": "2024-07-21 19:05:25.742903",
+      "internal_id": "e35a1036b880295cd9c42b4c7a68ed3828e828ffdac9e798fd554f8a3bb2661f",
+      "publishedAtLabel": "Jul 20"
+    },
     {
       "id": 11277,
       "query": [
@@ -23335,60 +23571,6 @@
       "content": "Malaria is one of the worlds deadliest diseases. Across Africa, it kills nearly half a million children younger than 5 each year. A new vaccine, only the second of its kind, holds the promise of savi\u2026 [+176 chars]",
       "retrievedAt": "2024-06-11 07:05:51.137587",
       "internal_id": "f4315756e3e4c6c36890f03a069abb6d7f34c3bf2e3b69a301eb1ef851c629ca",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9980,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "\u092a\u094d\u0930\u093f\u092f\u0947\u0936 \u092e\u093f\u0936\u094d\u0930",
-      "title": "H5N2 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0907\u0902\u0938\u093e\u0928 \u0915\u0940 \u092e\u094c\u0924, \u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a",
-      "description": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 59 \u0935\u0930\u094d\u0937\u0940\u092f \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u0938\u092c-\u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092e\u0943\u0924\u094d\u092f\u0941 \u0939\u0941\u0908 \u0939\u0948\u0964 \u0907\u0938\u0947 H5N2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0947 \u0915\u093f\u0938\u0940 \u092e\u0928\u0941\u0937\u094d\u092f \u0915\u094b \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0928\u0947 \u0915\u093e \u092a\u0939\u0932\u093e \u091c\u094d\u091e\u093e\u0924 \u092e\u093e\u092e\u0932\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 1996 \u0938\u0947 H5N1 \u0928\u093e\u092e\u0915 \u090f\u0915 \u0905\u0928\u094d\u092f \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0915\u0947 \u0932\u0917\u092d\u0917 900 \u092e\u093e\u0928\u0935 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902, \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u0906\u0927\u0947 \u0938\u0947\u2026",
-      "url": "https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-39062,msid-110853100/navbharat-times.jpg",
-      "publishedAt": "2024-06-09 18:01:24",
-      "content": ": 59 H5N2 1996 H5N1 900 WHO H5 , - ? , 59 (WHO) , , , , \" , (52) \" 51 52 - , , \" , \" '' \" \" 51 : , Adv: 6-16 , 65% 3.0 - , LiveIND vs PAK: , 120 <\u2026 [+223 chars]",
-      "retrievedAt": "2024-06-11 07:05:50.004275",
-      "internal_id": "b4d989dd1da56f6bc0439c6bef6423c07b5918dabfc8d7753194ed1ae156fcb6",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9986,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.pl",
-      "author": "Anna Kurek",
-      "title": "Naukowcy szykuj\u0105 now\u0105 szczepionk\u0119. Ma zapobiec kolejnej pandemii",
-      "description": "\u015awiat zaczyna si\u0119 powa\u017cnie niepokoi\u0107 ptasi\u0105 gryp\u0105. Istnieje niebezpiecze\u0144stwo, \u017ce mutuj\u0105cy wirus, a szczeg\u00f3lnie typy H5N1, H7N9 i H9N2, mog\u0105 zagrozi\u0107 ludziom i przynie\u015b\u0107 kolejn\u0105 pandemi\u0119. Kilka laboratori\u00f3w na \u015bwiecie pracuje ju\u017c nad szczepionkami, kt\u00f3re mia\u0142\u2026",
-      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html",
-      "urlToImage": "https://bi.im-g.pl/im/40/9b/1d/z31044160IER,Szczepionka-na-ptasia-grype.jpg",
-      "publishedAt": "2024-06-09 10:25:00",
-      "content": "Ostatnie doniesienia na temat ptasiej grypy s bardzo niepokojce. Znaleziono dowody na pierwsze zakaenia wr\u00f3d ludzi. Oznacza to, e istnieje niebezpieczestwo, e mutujcy wirus stanie si zdolny do masowe\u2026 [+2508 chars]",
-      "retrievedAt": "2024-06-11 07:05:50.031940",
-      "internal_id": "a3f3bac77995c0bd9cacca967c87d17581f6d56f2f2ad172156b1c423478a475",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9974,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "2chblog.jp",
-      "author": "ko_jo",
-      "title": "\u3010\u60b2\u5831\u3011\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u3001\u5973\u5150\u304c\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306b\u611f\u67d3\u3057\u305f\u3068\u767a\u8868",
-      "description": "1\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:14:10.36ID:eMXCByJm0 8\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:17:52.63ID:vU7IJfVJ0.net \u9ce5\u30a4\u30f3\u30d5\u30eb\u6b7b\u306c\u53ef\u80fd\u6027\u3069\u306e\u304f\u3089\u3044\uff1f\uff1f 22\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:22:25.45ID:IpCz3VXT0.net >>8 H5N1\u4e9c\u578b\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb...",
-      "url": "https://news.2chblog.jp/archives/52044998.html",
-      "urlToImage": null,
-      "publishedAt": "2024-06-09 09:18:06",
-      "content": "1 2024/06/09() 09:14:10.36ID:eMXCByJm0 8 2024/06/09() 09:17:52.63ID:vU7IJfVJ0.net 22 2024/06/09() 09:22:25.45ID:IpCz3VXT0.net 77 2024/06/09() 09:41:46.02ID:AdyMwMaM0.net 208 2024/06/09() 10:46:\u2026 [+998 chars]",
-      "retrievedAt": "2024-06-10 19:05:35.748105",
-      "internal_id": "856e0d9de9b997cd78131c7245c3b234a6d641efeff8c1e801851545f67854bb",
       "publishedAtLabel": "Jun 9"
     }
   ]

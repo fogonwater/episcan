@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-07-21 07:05
-- **Most recent article:** 2024-07-20 06:58:43
+- **New articles in last harvest:** 13
+- **Last harvest:** 2024-07-21 19:05
+- **Most recent article:** 2024-07-20 18:11:12
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 114 | 62 | 105 | 52 | 95 | 59 | 487 |
-| h5n1 | 51 | 29 | 36 | 59 | 52 | 60 | 287 |
-| mpox | 26 | 14 | 46 | 21 | 26 | 9 | 142 |
-| malaria | 37 | 20 | 24 | 15 | 14 | 29 | 139 |
+| dengue | 114 | 62 | 105 | 52 | 95 | 61 | 489 |
+| h5n1 | 48 | 29 | 36 | 59 | 52 | 62 | 286 |
+| mpox | 26 | 14 | 46 | 21 | 26 | 16 | 149 |
+| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 141 |
 | zika | 12 | 3 | 17 | 20 | 12 | 6 | 70 |
 | measles | 6 | 11 | 8 | 9 | 12 | 19 | 65 |
-| chikungunya | 14 | 5 | 17 | 6 | 6 | 9 | 57 |
+| chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 58 |
 | rabies | 2 | 5 | 8 | 4 | 2 | 17 | 38 |
 | pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 28 |
 | hpai | 4 | 4 | 3 | 3 | 5 | 6 | 25 |
+| typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 17 |
 | meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 16 |
-| typhoid | 1 | 2 | 3 | 4 | 6 | 0 | 16 |
 | leptospirosis | 1 | 1 | 2 | 1 | 3 | 4 | 12 |
 | yersinia | 0 | 0 | 2 | 0 | 6 | 0 | 8 |
 
@@ -45,6 +45,10 @@ Source: [News API](https://newsapi.org/)
 - [Santé. JO 2024 : en combien de temps le moustique tigre peut-il transmettre une maladie ?](https://www.ledauphine.com/magazine-sante/2024/07/15/jo-2024-en-combien-de-temps-le-moustique-tigre-peut-il-transmettre-une-maladie) (Le Dauphiné Libéré)
 
 - [Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms) (The Times of India)
+
+## 24-29 (typhoid)
+
+- [Rapid rise in typhoid cases: How to know if your fever is typhoid](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/rapid-rise-in-typhoid-cases-how-to-know-if-your-fever-is-typhoid/articleshow/111883087.cms) (The Times of India)
 
 ## 24-29 (rabies)
 
@@ -83,6 +87,20 @@ Source: [News API](https://newsapi.org/)
 - [Rabiessälar plågar Sydafrika](https://www.aftonbladet.se/nyheter/a/LMM1qR/rabiessalar-plagar-sydafrika) (Aftonbladet.se)
 
 ## 24-29 (mpox)
+
+- [„Landwirten gehen Lösungen aus“ - Roboter jäten Unkraut und sorgen für weniger Pestizide auf den Feldern](https://www.focus.de/finanzen/landwirten-gehen-loesungen-aus-roboter-jaeten-unkraut-und-sorgen-fuer-weniger-pestizide-auf-den-feldern_id_260155387.html) (Focus)
+
+- [“Exponentiële” stijging van aantal gevallen van apenpokken in Congo](https://www.gva.be/cnt/dmf20240720_96382025) (Www.gva.be)
+
+- [WHO befrüchtet Ausbreitung - Im Kongo steigt die Zahl der Affenpockeninfektionen „sprunghaft“ an](https://www.focus.de/panorama/welt/who-befruechtet-ausbreitung-im-kongo-steigt-die-zahl-der-affenpockeninfektionen-sprunghaft-an_id_260155343.html) (Focus)
+
+- [В ДР Конго выросло число заболевших оспой обезьян](https://tass.ru/obschestvo/21411021) (Tass.ru)
+
+- [“Exponentiële” stijging van aantal gevallen van apenpokken in Congo](https://www.nieuwsblad.be/cnt/dmf20240720_95797740) (Nieuwsblad.be)
+
+- [WHO befürchtet Ausbreitung von Mpox-Infektionen](https://orf.at/stories/3364116/) (Orf.at)
+
+- [Sprunghafter Anstieg der Mpox-Infektionen im Kongo - WHO befürchtet Ausbreitung](https://www.stern.de/news/sprunghafter-anstieg-der-mpox-infektionen-im-kongo---who-befuerchtet-ausbreitung-34900370.html) (STERN.de)
 
 - [Health Dept says current Mpox outbreak remains under control](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJalnUcfD2o4) (YouTube)
 
@@ -151,6 +169,10 @@ Source: [News API](https://newsapi.org/)
 - [Measles Detected At NYC Migrant Shelter As Biden's Border Crisis Morphs Into Public Health Crisis](https://www.zerohedge.com/medical/measles-detected-nyc-migrant-shelter-bidens-border-crisis-morphs-public-health-crisis) (Zerohedge.com)
 
 ## 24-29 (malaria)
+
+- [Enugu health director cautions against abuse of anti-malaria drugs](https://westafricaweekly.com/enugu-health-director-cautions-against-unnecessary-use-of-anti-malaria-drugs/) (Westafricaweekly.com)
+
+- [How is new malaria vaccine drive working in West Africa?](https://www.aljazeera.com/news/2024/7/20/how-is-new-malaria-vaccine-drive-working-in-west-africa) (Al Jazeera English)
 
 - [Atasi Malaria dan Cegah Stunting, Freeport Kolaborasi Dengan Pemerintah](https://www.papuatoday.com/2024/07/20/atasi-malaria-dan-cegah-stunting-freeport-kolaborasi-dengan-pemerintah/) (Papuatoday.com)
 
@@ -235,6 +257,10 @@ Source: [News API](https://newsapi.org/)
 - [CDC Confirms Human Cases of H5 Bird Flu Among Colorado Poultry Workers](https://www.cdc.gov/media/releases/2024/p-0715-confirm-h5.html) (Cdc.gov)
 
 ## 24-29 (h5n1)
+
+- [EUA confirmam mais 2 casos de gripe aviária em humanos](https://www.metropoles.com/saude/eua-mais-2-casos-gripe-aviaria) (Metropoles.com)
+
+- [Vogelgrippe-Ausbruch: Befeuert der Klimawandel die nächste Pandemie?](https://www.telepolis.de/features/Vogelgrippe-Ausbruch-Befeuert-der-Klimawandel-die-naechste-Pandemie-9808030.html) (Telepolis.de)
 
 - [US-Gesundheitsbehörde meldet zwei weitere Fälle von Vogelgrippe](https://www.diepresse.com/18685903/us-gesundheitsbehoerde-meldet-zwei-weitere-faelle-von-vogelgrippe) (Diepresse.com)
 
@@ -358,6 +384,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-29 (dengue)
 
+- [Rapid rise in typhoid cases: How to know if your fever is typhoid](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/rapid-rise-in-typhoid-cases-how-to-know-if-your-fever-is-typhoid/articleshow/111883087.cms) (The Times of India)
+
+- [Un estudio descarta la presencia de covid-19 en artrópodos vectores como garrapatas y mosquitos en la Región](https://www.europapress.es/murcia/noticia-estudio-descarta-presencia-covid-19-artropodos-vectores-garrapatas-mosquitos-region-20240720103705.html) (Europapress.es)
+
 - [Dengue causou prejuízos de R$ 28 bilhões ao Brasil somente este ano](https://www.metropoles.com/brasil/dengue-causou-prejuizos-de-r-28-bilhoes-ao-brasil-somente-este-ano) (Metropoles.com)
 
 - [8 lakh households vulnerable](https://timesofindia.indiatimes.com/city/bengaluru/8-lakh-households-vulnerable-to-dengue-in-bengaluru/articleshow/111872693.cms) (The Times of India)
@@ -477,6 +507,8 @@ Source: [News API](https://newsapi.org/)
 - [Pas op, in die leuke gieter uit Zuid-Frankrijk zit mogelijk een tijgermug](https://www.nrc.nl/nieuws/2024/07/14/als-je-de-leuke-gieter-uit-zuid-frankrijk-in-je-tuin-zet-ben-je-de-sjaak-dan-heb-je-tijgermuggen-waarschuwt-de-nvwa-a4859542) (Www.nrc.nl)
 
 ## 24-29 (chikungunya)
+
+- [Un estudio descarta la presencia de covid-19 en artrópodos vectores como garrapatas y mosquitos en la Región](https://www.europapress.es/murcia/noticia-estudio-descarta-presencia-covid-19-artropodos-vectores-garrapatas-mosquitos-region-20240720103705.html) (Europapress.es)
 
 - [Συναγερμός για το πρώτο κρούσμα Δάγκειου πυρετού στη Γαλλία - Φόβοι για τους Ολυμπιακούς Αγώνες](https://www.newsit.gr/ellada/dagkeios-pyretos-synagermos-gia-to-proto-krousma-sti-gallia-fovoi-gia-tous-olympiakous-agones/4138809/) (Newsit.gr)
 
@@ -2701,12 +2733,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
 
 - [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
-
-- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
-
-- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
-
-- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 ## 24-24 (dengue)
 
