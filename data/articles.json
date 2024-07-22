@@ -1,8 +1,118 @@
 {
-  "last_updated": "2024-07-21 19:05",
-  "count_articles_total": 1304,
-  "count_articles_new": 13,
+  "last_updated": "2024-07-22 07:06",
+  "count_articles_total": 1313,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 11297,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u041a\u0438\u0440\u0438\u043b\u043b \u0421\u043e\u0441\u043d\u043e\u0432\u0441\u043a\u0438\u0445",
+      "title": "\u041f\u043e \u0437\u0430\u043f\u0430\u0434\u0443 \u0418\u043d\u0434\u0438\u0438 \u0430\u043a\u0442\u0438\u0432\u043d\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u043c\u0430\u043b\u043e\u0438\u0437\u0443\u0447\u0435\u043d\u043d\u044b\u0439 \u0438 \u0441\u043c\u0435\u0440\u0442\u043e\u043d\u043e\u0441\u043d\u044b\u0439 \u0432\u0438\u0440\u0443\u0441",
+      "description": "\u0412 \u0437\u0430\u043f\u0430\u0434\u043d\u043e\u043c \u0438\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u043c \u0448\u0442\u0430\u0442\u0435 \u0413\u0443\u0434\u0436\u0430\u0440\u0430\u0442 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u043f\u043e \u043c\u0435\u043d\u044c\u0448\u0435\u0439 \u043c\u0435\u0440\u0435 16 \u0441\u043c\u0435\u0440\u0442\u0435\u0439 \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u0432\u0438\u0440\u0443\u0441\u0430 \u0427\u0430\u043d\u0434\u0438\u043f\u0443\u0440\u0430. \u041f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0420\u0430\u0448\u0438\u043a\u0435\u0448\u0430 \u041f\u0430\u0442\u0435\u043b\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u043b \u0442\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b NDTV, \u0432\u0441\u0435\u0433\u043e \u0432 \u0448\u0442\u0430\u0442\u0435 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043e 50 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f. \u0427\u2026",
+      "url": "https://life.ru/p/1673847",
+      "urlToImage": "https://static.life.ru/publications/2024/7/21/1185145844500.015.webp",
+      "publishedAt": "2024-07-21 04:15:00",
+      "content": "16 . , NDTV, 50 . \" , 50 [], 16 \", . , 1965 , , , . . . 20032004 56% 75%. , , H5N1 . , .",
+      "retrievedAt": "2024-07-22 07:06:01.454782",
+      "internal_id": "8de0f8aa337d8e7e4b21bc664929811c992ef0ad18b396596f8fef8814de1be9",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 11296,
+      "query": [
+        "measles",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1133: Gain of function makes us safer",
+      "description": "TWiV reviews cases of measles in Brooklyn NY and Washington DC, stalling of global childhood vaccination, licenses H5N1 vaccines protect against circulating strains, viruses traveling without passports. OC43 SARS-CoV- 2 spike replacement virus as an improved \u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1133/",
+      "urlToImage": null,
+      "publishedAt": "2024-07-21 04:00:00",
+      "content": "TWiV reviews cases of measles in Brooklyn NY and Washington DC, stalling of global childhood vaccination, licenses H5N1 vaccines protect against circulating strains, viruses traveling without passpor\u2026 [+999 chars]",
+      "retrievedAt": "2024-07-22 07:06:00.567752",
+      "internal_id": "a6544824dc961f5ff31e398719dad6dddc21d0496b66b5e1ae6e879cb7a365e3",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 11298,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases drop last week, no deaths reported",
+      "description": "PUTRAJAYA: The number of dengue fever cases dropped to 2,373 in the 28th Epidemiological Week (ME28) from July 7 to 13 compared to 2,805 cases the previous week, with no fatalities reported. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/07/21/dengue-cases-drop-last-week-no-deaths-reported",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/07/21/2813954.jpg",
+      "publishedAt": "2024-07-21 02:35:00",
+      "content": "PUTRAJAYA: The number of dengue fever cases dropped to 2,373 in the 28th Epidemiological Week (ME28) from July 7 to 13 compared to 2,805 cases the previous week, with no fatalities reported. Health \u2026 [+941 chars]",
+      "retrievedAt": "2024-07-22 07:06:02.058207",
+      "internal_id": "6fc6e2724b6218afa46bdc86c8e650b3388cc29bb789c72ba94bd6f39c25733c",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 11299,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Japanese Encephalitis claims life in Morigaon",
+      "description": "HT Correspondent MORIGAON, July 20: The outbreak of Japanese Encephalitis (JE), dengue, and malaria has caused serious concern in the district. A 7-year-old girl from Gagalmari area of Mayang in Morigaon district succumbed to the virus while undergoing treatm\u2026",
+      "url": "https://thehillstimes.in/assam/japanese-encephalitis-claims-life-in-morigaon",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2024/07/New-Project7-10.jpg",
+      "publishedAt": "2024-07-21 00:50:00",
+      "content": "HT Correspondent MORIGAON, July 20: The outbreak of Japanese Encephalitis (JE), dengue, and malaria has caused serious concern in the district. A 7-year-old girl from Gagalmari area of Mayang in Mor\u2026 [+577 chars]",
+      "retrievedAt": "2024-07-22 07:06:02.084227",
+      "internal_id": "bdd4275d57a9cee437806113fed35f1ac726b2974e4e14a787189ff4e5bfded4",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 11300,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "KHQ Right Now",
+      "author": "Daniel Fortin",
+      "title": "Dengue Fever cases on the rise in Washington state",
+      "description": "OLYMPIA, Wash. - The Washington Department of Health has reported an uptick in Dengue Fever cases across the state.",
+      "url": "https://www.khq.com/news/dengue-fever-cases-on-the-rise-in-washington-state/article_d02aab2a-46f2-11ef-8950-4befbea1022d.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/khq.com/content/tncms/assets/v3/editorial/8/75/875a8355-e92b-5bab-ac10-76469e2acf88/667c1f8c73931.image.jpg?crop=1200%2C630%2C0%2C85&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2024-07-20 23:55:03",
+      "content": "OLYMPIA, Wash. - The Washington Department of Health has reported an uptick in Dengue Fever cases across the state. According to the Department, the disease has spread internationally, particularly \u2026 [+755 chars]",
+      "retrievedAt": "2024-07-22 07:06:02.130800",
+      "internal_id": "8d72fa360f3bc4434368478a48efec3375d3e556ba2e2ad915e35ff11fccaad2",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 11301,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Utbrudd av mpox i Kongo",
+      "description": "Kongo st\u00e5r midt i et utbrudd av virussykdommen mpox, og myndighetene sier at smitten er eksponentiell. Viruset, som tidligere hadde navnet apekopper, har rammet over 11.000 personer, if\u00f8lge talsperson Patrick Muyaya. Tallet inkluderer 450 personer som har d\u00f8d\u2026",
+      "url": "https://www.nrk.no/nyheter/utbrudd-av-mpox-i-kongo-1.16972207",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.508/common/img/default.jpg",
+      "publishedAt": "2024-07-20 20:46:47",
+      "content": "20. juli2024kl.22:46Kongo st\u00e5r midt i et utbrudd av virussykdommen mpox, og myndighetene sier at smitten er eksponentiell. Viruset, som tidligere hadde navnet apekopper, har rammet over 11.000 perso\u2026 [+201 chars]",
+      "retrievedAt": "2024-07-22 07:06:04.370187",
+      "internal_id": "ae204272af90f5e1a2c5a38f36f75e6d1a2256a1e429563a6adcb1788292b055",
+      "publishedAtLabel": "Jul 20"
+    },
     {
       "id": 11289,
       "query": [
@@ -23571,6 +23681,60 @@
       "content": "Malaria is one of the worlds deadliest diseases. Across Africa, it kills nearly half a million children younger than 5 each year. A new vaccine, only the second of its kind, holds the promise of savi\u2026 [+176 chars]",
       "retrievedAt": "2024-06-11 07:05:51.137587",
       "internal_id": "f4315756e3e4c6c36890f03a069abb6d7f34c3bf2e3b69a301eb1ef851c629ca",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9980,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u092a\u094d\u0930\u093f\u092f\u0947\u0936 \u092e\u093f\u0936\u094d\u0930",
+      "title": "H5N2 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0907\u0902\u0938\u093e\u0928 \u0915\u0940 \u092e\u094c\u0924, \u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a",
+      "description": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 59 \u0935\u0930\u094d\u0937\u0940\u092f \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u0938\u092c-\u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092e\u0943\u0924\u094d\u092f\u0941 \u0939\u0941\u0908 \u0939\u0948\u0964 \u0907\u0938\u0947 H5N2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0947 \u0915\u093f\u0938\u0940 \u092e\u0928\u0941\u0937\u094d\u092f \u0915\u094b \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0928\u0947 \u0915\u093e \u092a\u0939\u0932\u093e \u091c\u094d\u091e\u093e\u0924 \u092e\u093e\u092e\u0932\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 1996 \u0938\u0947 H5N1 \u0928\u093e\u092e\u0915 \u090f\u0915 \u0905\u0928\u094d\u092f \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0915\u0947 \u0932\u0917\u092d\u0917 900 \u092e\u093e\u0928\u0935 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902, \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u0906\u0927\u0947 \u0938\u0947\u2026",
+      "url": "https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-39062,msid-110853100/navbharat-times.jpg",
+      "publishedAt": "2024-06-09 18:01:24",
+      "content": ": 59 H5N2 1996 H5N1 900 WHO H5 , - ? , 59 (WHO) , , , , \" , (52) \" 51 52 - , , \" , \" '' \" \" 51 : , Adv: 6-16 , 65% 3.0 - , LiveIND vs PAK: , 120 <\u2026 [+223 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.004275",
+      "internal_id": "b4d989dd1da56f6bc0439c6bef6423c07b5918dabfc8d7753194ed1ae156fcb6",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9986,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Anna Kurek",
+      "title": "Naukowcy szykuj\u0105 now\u0105 szczepionk\u0119. Ma zapobiec kolejnej pandemii",
+      "description": "\u015awiat zaczyna si\u0119 powa\u017cnie niepokoi\u0107 ptasi\u0105 gryp\u0105. Istnieje niebezpiecze\u0144stwo, \u017ce mutuj\u0105cy wirus, a szczeg\u00f3lnie typy H5N1, H7N9 i H9N2, mog\u0105 zagrozi\u0107 ludziom i przynie\u015b\u0107 kolejn\u0105 pandemi\u0119. Kilka laboratori\u00f3w na \u015bwiecie pracuje ju\u017c nad szczepionkami, kt\u00f3re mia\u0142\u2026",
+      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html",
+      "urlToImage": "https://bi.im-g.pl/im/40/9b/1d/z31044160IER,Szczepionka-na-ptasia-grype.jpg",
+      "publishedAt": "2024-06-09 10:25:00",
+      "content": "Ostatnie doniesienia na temat ptasiej grypy s bardzo niepokojce. Znaleziono dowody na pierwsze zakaenia wr\u00f3d ludzi. Oznacza to, e istnieje niebezpieczestwo, e mutujcy wirus stanie si zdolny do masowe\u2026 [+2508 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.031940",
+      "internal_id": "a3f3bac77995c0bd9cacca967c87d17581f6d56f2f2ad172156b1c423478a475",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9974,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "2chblog.jp",
+      "author": "ko_jo",
+      "title": "\u3010\u60b2\u5831\u3011\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u3001\u5973\u5150\u304c\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306b\u611f\u67d3\u3057\u305f\u3068\u767a\u8868",
+      "description": "1\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:14:10.36ID:eMXCByJm0 8\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:17:52.63ID:vU7IJfVJ0.net \u9ce5\u30a4\u30f3\u30d5\u30eb\u6b7b\u306c\u53ef\u80fd\u6027\u3069\u306e\u304f\u3089\u3044\uff1f\uff1f 22\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:22:25.45ID:IpCz3VXT0.net >>8 H5N1\u4e9c\u578b\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb...",
+      "url": "https://news.2chblog.jp/archives/52044998.html",
+      "urlToImage": null,
+      "publishedAt": "2024-06-09 09:18:06",
+      "content": "1 2024/06/09() 09:14:10.36ID:eMXCByJm0 8 2024/06/09() 09:17:52.63ID:vU7IJfVJ0.net 22 2024/06/09() 09:22:25.45ID:IpCz3VXT0.net 77 2024/06/09() 09:41:46.02ID:AdyMwMaM0.net 208 2024/06/09() 10:46:\u2026 [+998 chars]",
+      "retrievedAt": "2024-06-10 19:05:35.748105",
+      "internal_id": "856e0d9de9b997cd78131c7245c3b234a6d641efeff8c1e801851545f67854bb",
       "publishedAtLabel": "Jun 9"
     }
   ]

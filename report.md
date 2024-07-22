@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-07-21 19:05
-- **Most recent article:** 2024-07-20 18:11:12
+- **New articles in last harvest:** 6
+- **Last harvest:** 2024-07-22 07:06
+- **Most recent article:** 2024-07-21 04:15:00
 
 ---
 
@@ -10,27 +10,47 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 114 | 62 | 105 | 52 | 95 | 61 | 489 |
-| h5n1 | 48 | 29 | 36 | 59 | 52 | 62 | 286 |
-| mpox | 26 | 14 | 46 | 21 | 26 | 16 | 149 |
-| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 141 |
-| zika | 12 | 3 | 17 | 20 | 12 | 6 | 70 |
-| measles | 6 | 11 | 8 | 9 | 12 | 19 | 65 |
-| chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 58 |
-| rabies | 2 | 5 | 8 | 4 | 2 | 17 | 38 |
-| pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 28 |
-| hpai | 4 | 4 | 3 | 3 | 5 | 6 | 25 |
-| typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 17 |
-| meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 16 |
-| leptospirosis | 1 | 1 | 2 | 1 | 3 | 4 | 12 |
-| yersinia | 0 | 0 | 2 | 0 | 6 | 0 | 8 |
+| Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 2 | 492 |
+| h5n1 | 51 | 29 | 36 | 59 | 52 | 62 | 2 | 291 |
+| mpox | 26 | 14 | 46 | 21 | 26 | 17 | 0 | 150 |
+| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 1 | 142 |
+| zika | 12 | 3 | 17 | 20 | 12 | 6 | 0 | 70 |
+| measles | 6 | 11 | 8 | 9 | 12 | 19 | 1 | 66 |
+| chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 0 | 58 |
+| rabies | 2 | 5 | 8 | 4 | 2 | 17 | 0 | 38 |
+| pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 0 | 28 |
+| hpai | 4 | 4 | 3 | 3 | 5 | 6 | 0 | 25 |
+| typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 0 | 17 |
+| meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 0 | 16 |
+| leptospirosis | 1 | 1 | 2 | 1 | 3 | 4 | 0 | 12 |
+| yersinia | 0 | 0 | 2 | 0 | 6 | 0 | 0 | 8 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-30 (measles)
+
+- [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
+
+## 24-30 (malaria)
+
+- [Japanese Encephalitis claims life in Morigaon](https://thehillstimes.in/assam/japanese-encephalitis-claims-life-in-morigaon) (Thehillstimes.in)
+
+## 24-30 (h5n1)
+
+- [По западу Индии активно распространяется малоизученный и смертоносный вирус](https://life.ru/p/1673847) (Life.ru)
+
+- [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
+
+## 24-30 (dengue)
+
+- [Dengue cases drop last week, no deaths reported](https://www.thestar.com.my/news/nation/2024/07/21/dengue-cases-drop-last-week-no-deaths-reported) (The Star Online)
+
+- [Japanese Encephalitis claims life in Morigaon](https://thehillstimes.in/assam/japanese-encephalitis-claims-life-in-morigaon) (Thehillstimes.in)
 
 ## 24-29 (zika)
 
@@ -87,6 +107,8 @@ Source: [News API](https://newsapi.org/)
 - [Rabiessälar plågar Sydafrika](https://www.aftonbladet.se/nyheter/a/LMM1qR/rabiessalar-plagar-sydafrika) (Aftonbladet.se)
 
 ## 24-29 (mpox)
+
+- [Utbrudd av mpox i Kongo](https://www.nrk.no/nyheter/utbrudd-av-mpox-i-kongo-1.16972207) (NRK)
 
 - [„Landwirten gehen Lösungen aus“ - Roboter jäten Unkraut und sorgen für weniger Pestizide auf den Feldern](https://www.focus.de/finanzen/landwirten-gehen-loesungen-aus-roboter-jaeten-unkraut-und-sorgen-fuer-weniger-pestizide-auf-den-feldern_id_260155387.html) (Focus)
 
@@ -383,6 +405,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1131: Mootant influenza H5N1 virus](https://www.microbe.tv/twiv/twiv-1131/) (Microbe.tv)
 
 ## 24-29 (dengue)
+
+- [Dengue Fever cases on the rise in Washington state](https://www.khq.com/news/dengue-fever-cases-on-the-rise-in-washington-state/article_d02aab2a-46f2-11ef-8950-4befbea1022d.html) (KHQ Right Now)
 
 - [Rapid rise in typhoid cases: How to know if your fever is typhoid](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/rapid-rise-in-typhoid-cases-how-to-know-if-your-fever-is-typhoid/articleshow/111883087.cms) (The Times of India)
 
@@ -2733,6 +2757,12 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
 
 - [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
+
+- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
+
+- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
+
+- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 ## 24-24 (dengue)
 
