@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-07-22 19:05
-- **Most recent article:** 2024-07-21 18:39:07
+- **New articles in last harvest:** 6
+- **Last harvest:** 2024-07-23 07:06
+- **Most recent article:** 2024-07-22 05:00:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 7 | 497 |
-| h5n1 | 48 | 29 | 36 | 59 | 52 | 62 | 5 | 291 |
+| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 9 | 499 |
+| h5n1 | 51 | 29 | 36 | 59 | 52 | 62 | 5 | 294 |
 | mpox | 26 | 14 | 46 | 21 | 26 | 17 | 3 | 153 |
-| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 2 | 143 |
-| zika | 12 | 3 | 17 | 20 | 12 | 6 | 2 | 72 |
+| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 3 | 144 |
+| zika | 12 | 3 | 17 | 20 | 12 | 6 | 3 | 73 |
 | measles | 6 | 11 | 8 | 9 | 12 | 19 | 1 | 66 |
-| chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 1 | 59 |
+| chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 3 | 61 |
 | rabies | 2 | 5 | 8 | 4 | 2 | 17 | 0 | 38 |
 | pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 0 | 28 |
 | hpai | 4 | 4 | 3 | 3 | 5 | 6 | 0 | 25 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-30 (zika)
+
+- [Discovery and structure–activity relationship study of novel isoxazole-based small molecules targeting Zika virus infections](https://pubs.rsc.org/en/content/articlelanding/2024/md/d4md00240g) (Royal Society of Chemistry)
 
 - [Nipah claims one life in Kerala; Maharashtra reports 28 Zika cases in 2024](https://www.business-standard.com/health/nipah-claims-one-life-in-kerala-maharashtra-reports-28-zika-cases-in-2024-124072100406_1.html) (Business Standard)
 
@@ -52,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (malaria)
 
+- [Today’s top TV and streaming choices: Bishop Casey's Buried Secrets and Cillian Murphy in Anthropoid](https://www.independent.ie/entertainment/television/todays-top-tv-and-streaming-choices-bishop-caseys-buried-secrets-and-cillian-murphy-in-anthropoid/a1875837950.html) (Independent.ie)
+
 - [Health authorities concerned over imported malaria cases in Terengganu](https://www.thestar.com.my/news/nation/2024/07/21/health-authorities-concerned-over-imported-malaria-cases-in-terengganu) (The Star Online)
 
 - [Japanese Encephalitis claims life in Morigaon](https://thehillstimes.in/assam/japanese-encephalitis-claims-life-in-morigaon) (Thehillstimes.in)
@@ -70,7 +74,11 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (dengue)
 
+- [Bacolod: Dengue cases up 17.7% in NegOcc, 3 deaths](https://rpnradio.com/bacolod-dengue-cases-up-17-7-in-negocc-3-deaths/) (Rpnradio.com)
+
 - [Use fogging sparingly to kill mosquitoes: Health services](https://timesofindia.indiatimes.com/city/goa/use-fogging-sparingly-to-kill-mosquitoes-health-services/articleshow/111908878.cms) (The Times of India)
+
+- [Comment les JO vont favoriser l’arrivée du moustique tigre en France](https://www.numerama.com/sciences/1774916-comment-les-jo-vont-favoriser-larrivee-du-moustique-tigre.html) (Numerama)
 
 - [Con acciones firmes e integrales Evelyn Salgado fortalece el combate al Dengue en Guerrero](https://www.elfinanciero.com.mx/estados/2024/07/21/con-acciones-firmes-e-integrales-evelyn-salgado-fortalece-el-combate-al-dengue-en-guerrero/) (El Financiero)
 
@@ -85,6 +93,10 @@ Source: [News API](https://newsapi.org/)
 - [Japanese Encephalitis claims life in Morigaon](https://thehillstimes.in/assam/japanese-encephalitis-claims-life-in-morigaon) (Thehillstimes.in)
 
 ## 24-30 (chikungunya)
+
+- [CEPI Expands Partnership with Valneva with a $41.3 Million Grant to Support Broader Access to the World’s First Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/07/22/2916253/0/en/CEPI-Expands-Partnership-with-Valneva-with-a-41-3-Million-Grant-to-Support-Broader-Access-to-the-World-s-First-Chikungunya-Vaccine.html) (GlobeNewswire)
+
+- [CEPI renforce son partenariat avec Valneva en lui octroyant un nouveau financement de $41,3 millions visant à accroître l’accessibilité du premier vaccin au monde contre le chikungunya](https://www.globenewswire.com/news-release/2024/07/22/2916253/0/fr/CEPI-renforce-son-partenariat-avec-Valneva-en-lui-octroyant-un-nouveau-financement-de-41-3-millions-visant-%C3%A0-accro%C3%AEtre-l-accessibilit%C3%A9-du-premier-vaccin-au-monde-contre-le-chikungu.html) (GlobeNewswire)
 
 - [Halálos csípések, hatalmas egészségügyi kiadások - a szúnyogok nem csak idegesítőek](https://www.origo.hu/gazdasag/2024/07/halalos-csipesek-egeszsegugyi-kiadasok-szunyogok-virusok-korokozok) (Origo.hu)
 
@@ -2793,6 +2805,12 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
 
 - [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
+
+- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
+
+- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
+
+- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 ## 24-24 (dengue)
 
