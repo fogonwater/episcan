@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-07-23 07:06
-- **Most recent article:** 2024-07-22 05:00:00
+- **New articles in last harvest:** 11
+- **Last harvest:** 2024-07-23 19:05
+- **Most recent article:** 2024-07-22 17:41:20
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 9 | 499 |
-| h5n1 | 51 | 29 | 36 | 59 | 52 | 62 | 5 | 294 |
+| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 13 | 503 |
+| h5n1 | 48 | 29 | 36 | 59 | 52 | 62 | 5 | 291 |
 | mpox | 26 | 14 | 46 | 21 | 26 | 17 | 3 | 153 |
-| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 3 | 144 |
-| zika | 12 | 3 | 17 | 20 | 12 | 6 | 3 | 73 |
+| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 4 | 145 |
+| zika | 12 | 3 | 17 | 20 | 12 | 6 | 5 | 75 |
 | measles | 6 | 11 | 8 | 9 | 12 | 19 | 1 | 66 |
-| chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 3 | 61 |
-| rabies | 2 | 5 | 8 | 4 | 2 | 17 | 0 | 38 |
+| chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 4 | 62 |
+| rabies | 2 | 5 | 8 | 4 | 2 | 17 | 1 | 39 |
 | pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 0 | 28 |
-| hpai | 4 | 4 | 3 | 3 | 5 | 6 | 0 | 25 |
+| hpai | 4 | 4 | 3 | 3 | 5 | 6 | 1 | 26 |
 | typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 0 | 17 |
 | meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 0 | 16 |
 | leptospirosis | 1 | 1 | 2 | 1 | 3 | 4 | 0 | 12 |
-| yersinia | 0 | 0 | 2 | 0 | 6 | 0 | 0 | 8 |
+| yersinia | 0 | 0 | 2 | 0 | 6 | 0 | 2 | 10 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -34,11 +34,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (zika)
 
+- [c-FLIP facilitates ZIKV infection by mediating caspase-8/3-dependent apoptosis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012408) (Plos.org)
+
+- [Nipah virus death: If we want to curb human diseases, we must monitor animal diseases, Soumya Swaminathan says](https://timesofindia.indiatimes.com/city/chennai/nipah-virus-death-if-we-want-to-curb-human-diseases-we-must-monitor-animal-diseases-soumya-swaminathan-says/articleshow/111932641.cms) (The Times of India)
+
 - [Discovery and structure–activity relationship study of novel isoxazole-based small molecules targeting Zika virus infections](https://pubs.rsc.org/en/content/articlelanding/2024/md/d4md00240g) (Royal Society of Chemistry)
 
 - [Nipah claims one life in Kerala; Maharashtra reports 28 Zika cases in 2024](https://www.business-standard.com/health/nipah-claims-one-life-in-kerala-maharashtra-reports-28-zika-cases-in-2024-124072100406_1.html) (Business Standard)
 
 - [Halálos csípések, hatalmas egészségügyi kiadások - a szúnyogok nem csak idegesítőek](https://www.origo.hu/gazdasag/2024/07/halalos-csipesek-egeszsegugyi-kiadasok-szunyogok-virusok-korokozok) (Origo.hu)
+
+## 24-30 (yersinia)
+
+- [Эксперты: человек никогда не сможет искоренить чуму](https://hi-tech.mail.ru/news/112616-chelovek-nikogda-ne-smozhet-iskorenit-chumu/) (Mail.ru)
+
+- [Hallazgo histórico en Cataluña: encontrado un esqueleto de una víctima de la peste negra del siglo XIV en el castillo de Besora](https://www.meneame.net/m/actualidad/hallazgo-historico-cataluna-encontrado-esqueleto-victima-peste) (Meneame.net)
+
+## 24-30 (rabies)
+
+- [CDC Updates Dog Importation Process](https://www.cdc.gov/media/releases/2024/s0722-dog-importation.html) (Cdc.gov)
 
 ## 24-30 (mpox)
 
@@ -54,11 +68,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (malaria)
 
+- [Establishment of a multisite umbrella cohort study protocol to describe the epidemiology and aetiologies of acute undifferentiated febrile illness in Latin America](https://bmjopen.bmj.com/content/14/7/e083560) (The BMJ)
+
 - [Today’s top TV and streaming choices: Bishop Casey's Buried Secrets and Cillian Murphy in Anthropoid](https://www.independent.ie/entertainment/television/todays-top-tv-and-streaming-choices-bishop-caseys-buried-secrets-and-cillian-murphy-in-anthropoid/a1875837950.html) (Independent.ie)
 
 - [Health authorities concerned over imported malaria cases in Terengganu](https://www.thestar.com.my/news/nation/2024/07/21/health-authorities-concerned-over-imported-malaria-cases-in-terengganu) (The Star Online)
 
 - [Japanese Encephalitis claims life in Morigaon](https://thehillstimes.in/assam/japanese-encephalitis-claims-life-in-morigaon) (Thehillstimes.in)
+
+## 24-30 (hpai)
+
+- [Colorado Human Bird Flu Cases Being Tied to Heat Wave](https://legalinsurrection.com/2024/07/colorado-human-bird-flu-cases-being-tied-to-heat-wave/) (Legalinsurrection.com)
 
 ## 24-30 (h5n1)
 
@@ -73,6 +93,14 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (dengue)
+
+- [Il vaccino contro la Dengue è efficace e sicuro: la conferma della prima meta-analisi a livello mondiale](https://www.lescienze.it/news/2024/07/22/news/vaccino_dengue_efficace_sicuro-16519071/) (Lescienze.it)
+
+- [Dengue, il vaccino può dimezzare il rischio di ammalarsi](https://www.ansa.it/emiliaromagna/notizie/2024/07/22/dengue-il-vaccino-puo-dimezzare-il-rischio-di-ammalarsi_7b3b7912-0e64-4dc7-beb9-c1cd3d545c4c.html) (ANSA.it)
+
+- [Scientists uncover fundamental rules for how dengue virus infects its mosquito and human hosts](https://phys.org/news/2024-07-scientists-uncover-fundamental-dengue-virus.html) (Phys.Org)
+
+- [Un estudio descarta la presencia de covid-19 en artrópodos vectores como garrapatas y mosquitos en Murcia](https://www.infosalus.com/salud-investigacion/noticia-estudio-descarta-presencia-covid-19-artropodos-vectores-garrapatas-mosquitos-murcia-20240722091350.html) (Infosalus.com)
 
 - [Bacolod: Dengue cases up 17.7% in NegOcc, 3 deaths](https://rpnradio.com/bacolod-dengue-cases-up-17-7-in-negocc-3-deaths/) (Rpnradio.com)
 
@@ -93,6 +121,8 @@ Source: [News API](https://newsapi.org/)
 - [Japanese Encephalitis claims life in Morigaon](https://thehillstimes.in/assam/japanese-encephalitis-claims-life-in-morigaon) (Thehillstimes.in)
 
 ## 24-30 (chikungunya)
+
+- [Un estudio descarta la presencia de covid-19 en artrópodos vectores como garrapatas y mosquitos en Murcia](https://www.infosalus.com/salud-investigacion/noticia-estudio-descarta-presencia-covid-19-artropodos-vectores-garrapatas-mosquitos-murcia-20240722091350.html) (Infosalus.com)
 
 - [CEPI Expands Partnership with Valneva with a $41.3 Million Grant to Support Broader Access to the World’s First Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/07/22/2916253/0/en/CEPI-Expands-Partnership-with-Valneva-with-a-41-3-Million-Grant-to-Support-Broader-Access-to-the-World-s-First-Chikungunya-Vaccine.html) (GlobeNewswire)
 
@@ -2805,12 +2835,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
 
 - [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
-
-- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
-
-- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
-
-- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 ## 24-24 (dengue)
 

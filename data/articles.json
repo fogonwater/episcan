@@ -1,8 +1,207 @@
 {
-  "last_updated": "2024-07-23 07:06",
-  "count_articles_total": 1332,
-  "count_articles_new": 6,
+  "last_updated": "2024-07-23 19:05",
+  "count_articles_total": 1340,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 11321,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "CDC Updates Dog Importation Process",
+      "description": "CDC has clarified and simplified the process for bringing dogs into the United States from rabies-free and low risk dog rabies countries. CDC aims to protect the health of U.S. communities and animals and prevent the re-introduction of dog rabies to the Unite\u2026",
+      "url": "https://www.cdc.gov/media/releases/2024/s0722-dog-importation.html",
+      "urlToImage": "https://www.cdc.gov/importation/media/images/2024/07/GettyImages-1445770180.jpg",
+      "publishedAt": "2024-07-22 17:41:20",
+      "content": "CDC has clarified and simplified the process for bringing dogs into the United States from rabies-free and low risk dog rabies countries. CDC aims to protect the health of U.S. communities and animal\u2026 [+1307 chars]",
+      "retrievedAt": "2024-07-23 19:05:32.408972",
+      "internal_id": "b86b772773a2208ea370ff4e58862b0b5393b60b15b7a731af2ed33bb8747739",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11327,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Cabada, M. M., Aguilar, P. V., Rodas, J. D., Hidalgo, M., Mozo, K., Gonzalez-Diaz, E. S., Jimenez-Coello, M., Diaz, F. J., Dacso, M. M., Ortega-Pacheco, A., Arboleda, M., Walker, D. H., Weaver, S. C., Melby, P. C.",
+      "title": "Establishment of a multisite umbrella cohort study protocol to describe the epidemiology and aetiologies of acute undifferentiated febrile illness in Latin America",
+      "description": "Introduction Acute undifferentiated febrile illnesses (AUFIs) impose a large burden in the tropics. Understanding of AUFI\u2019s epidemiology is limited. Insufficient diagnostic capacity hinders the detection of outbreaks. The lack of interconnection in healthcare\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/7/e083560",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-07-22 15:42:23",
+      "content": "Introduction Non-malarial acute undifferentiated febrile illnesses (AUFIs) are defined as systemic illnesses with fever (&gt;38\u00b0C) of less than 8 (or occasionally &lt;14) days duration without evide\u2026 [+6643 chars]",
+      "retrievedAt": "2024-07-23 19:05:34.491534",
+      "internal_id": "25ca3ab57f4b02d5ac094560368ef45db37e58da3541a90f805ab0652efa47d3",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11330,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0418\u0432\u0430\u043d \u0413\u0432\u043e\u0437\u0434\u044c",
+      "title": "\u042d\u043a\u0441\u043f\u0435\u0440\u0442\u044b: \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0441\u043c\u043e\u0436\u0435\u0442 \u0438\u0441\u043a\u043e\u0440\u0435\u043d\u0438\u0442\u044c \u0447\u0443\u043c\u0443",
+      "description": "\u0412\u0438\u0440\u0443\u0441 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u0447\u0435\u0440\u0435\u0437 \u043c\u0435\u043b\u043a\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0438\u0437-\u0437\u0430 \u0447\u0435\u0433\u043e \u0435\u0433\u043e \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0441\u043b\u043e\u0436\u043d\u043e \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c \u0438 \u0442\u0435\u043c \u0431\u043e\u043b\u0435\u0435 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c. \u0423\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0435 \u0441\u0430\u043d\u0438\u0442\u0430\u0440\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u0439 \u043e\u0442\u0434\u0430\u043b\u0438\u043b\u043e \u043d\u0430\u0441 \u043e\u0442 \u0431\u0443\u0431\u043e\u043d\u043d\u043e\u0439 \u0447\u0443\u043c\u044b, \u043d\u043e \u043e\u043d\u0430 \u0432\u0441\u0435 \u0435\u0449\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u043e\u0442\u0434\u0430\u043b\u0435\u043d\u043d\u044b\u0445 \u0443\u0433\u043e\u043b\u043a\u0430\u0445 \u043f\u043b\u0430\u043d\u0435\u0442\u044b. \u0412\u0441\u044e \u0438\u0441\u0442\u043e\u0440\u0438\u044e \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0430 \u0440\u0430\u0437\u043b\u0438\u2026",
+      "url": "https://hi-tech.mail.ru/news/112616-chelovek-nikogda-ne-smozhet-iskorenit-chumu/",
+      "urlToImage": "https://resizer.mail.ru/p/bf0a57a0-359f-5014-bd35-277471ceaebc/AQAKTVrTPl7wgFVtcv7BzapC6R7yM18ImOSF8KXZAR7erNX12ogDjuFRODXrcdYMO7tGbTDPJtSbQ-rMd2uW9JApP7A.jpg",
+      "publishedAt": "2024-07-22 14:53:59",
+      "content": "\u00ab \u00bb . 100 , . - , . , , . . , 1500 . \u2014 V VII , 15 , . XIV , 50 , 50% . XIX XX . , 30 . 1960 , - . . Yersinia pestis ( ) . , , \u2026 [+67 chars]",
+      "retrievedAt": "2024-07-23 19:05:36.091585",
+      "internal_id": "2e0e31741a5627fad3990697c2762266de6b8eaf7ec108ec07c90fe1b25a56d7",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11323,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lescienze.it",
+      "author": "redazione@lescienze.it (Redazione Le Scienze Italia)",
+      "title": "Il vaccino contro la Dengue \u00e8 efficace e sicuro: la conferma della prima meta-analisi a livello mondiale",
+      "description": "Realizzato incrociando i dati di 19 studi scientifici, per un totale di oltre 20.000 individui coinvolti, lo studio mostra un\u2019efficacia superiore al 50 per cento nel ridurre i casi di malattia, con un effetto duraturo e un elevato profilo di sicurezza",
+      "url": "https://www.lescienze.it/news/2024/07/22/news/vaccino_dengue_efficace_sicuro-16519071/",
+      "urlToImage": "https://www.lescienze.it/images/2024/07/22/142214027-f290ff79-3119-40a6-af4a-a6a02fd91112.jpg",
+      "publishedAt": "2024-07-22 14:25:17",
+      "content": "Il vaccino contro la Dengue ha unefficacia superiore al 50 per cento nel ridurre i casi di malattia, con un effetto duraturo e un profilo di sicurezza molto buono. A confermarlo \u00e8 la prima meta-anali\u2026 [+3690 chars]",
+      "retrievedAt": "2024-07-23 19:05:33.689505",
+      "internal_id": "52db0a99c1cab18b5421a1bb6500f9b3e1f43607039aaab181a77569dd19ca7d",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11331,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "pcmaster",
+      "title": "Hallazgo hist\u00f3rico en Catalu\u00f1a: encontrado un esqueleto de una v\u00edctima de la peste negra del siglo XIV en el castillo de Besora",
+      "description": "Un equipo de investigaci\u00f3n de la UAB y la empresa ATICS ha identificado la bacteria de la peste negra en un individuo enterrado en el siglo XIV en el cementerio del castillo de Besora (Osona). El hallazgo confirma que la epidemia que asol\u00f3 Europa en la Edad M\u2026",
+      "url": "https://www.meneame.net/m/actualidad/hallazgo-historico-cataluna-encontrado-esqueleto-victima-peste",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-07-22 14:11:13",
+      "content": "\u00bfNos quedan muchas vacunas de Haffkine? Vaya ser que se escape alguna Yersinia pestis.",
+      "retrievedAt": "2024-07-23 19:05:36.097891",
+      "internal_id": "d7ba4164b94ff4fe96b2c051bc0e1069bb6d698fa2db6a417f51c1144c4b201b",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11329,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Shengze Zhang, Nina Li, Shu Wu, Ting Xie, Qiqi Chen, Jiani Wu, Shike Zeng, Lin Zhu, Shaohui Bai, Haolu Zha, Weijian Tian, Nan Wu, Xuan Zou, Shisong Fang, Chuming Luo, Mang Shi, Caijun Sun, Yuelong Shu, Huanle Luo",
+      "title": "c-FLIP facilitates ZIKV infection by mediating caspase-8/3-dependent apoptosis",
+      "description": "Author summary Zika virus (ZIKV) infection in pregnant women can lead to the development of Congenital Zika Syndrome (CZS) in infants, resulting in complications such as microcephaly, intrauterine growth restriction (IUGR), and miscarriages. Although the mech\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012408",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012408.g008&size=inline",
+      "publishedAt": "2024-07-22 14:00:00",
+      "content": "Abstract c-FLIP functions as a dual regulator of apoptosis and inflammation, yet its implications in Zika virus (ZIKV) infection remain partially understood, especially in the context of ZIKV-induce\u2026 [+68228 chars]",
+      "retrievedAt": "2024-07-23 19:05:34.692430",
+      "internal_id": "2892e661b3ea3b60b69d0f2f59eecd3215370314144d7fcb5c34f2c540a4d4c4",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11328,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "A Ragu Raman",
+      "title": "Nipah virus death: If we want to curb human diseases, we must monitor animal diseases, Soumya Swaminathan says",
+      "description": "CHENNAI: Keeping surveillance on animal diseases is very important in view of Nipah and Zika virus cases reported in Kerala and Pune respectively, WHO.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/nipah-virus-death-if-we-want-to-curb-human-diseases-we-must-monitor-animal-diseases-soumya-swaminathan-says/articleshow/111932641.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111932645,width-1070,height-580,imgsize-1292544,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-22 13:15:40",
+      "content": "10 evening snacks made with oats",
+      "retrievedAt": "2024-07-23 19:05:34.675378",
+      "internal_id": "5adbbf6e1cd379cf740e03102de8ac25a8d7385fdd4604422b60c55d320ee1d6",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11322,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Colorado Human Bird Flu Cases Being Tied to Heat Wave",
+      "description": "5 workers were stricken after culling an infected flock without proper personal protection. Meanwhile, the virus has been detected in Oklahoma dairy herd. The post Colorado Human Bird Flu Cases Being Tied to Heat Wave first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/07/colorado-human-bird-flu-cases-being-tied-to-heat-wave/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2021/06/LI-76-Chickens.png",
+      "publishedAt": "2024-07-22 13:00:32",
+      "content": "The last time we checked on the highly pathogenic avian influenza (HPAI), otherwise known as \u201cbird flu\u201d, a couple of dairy workers had contacted a disease and the \u201chuman fatality\u201d case turned out to \u2026 [+3099 chars]",
+      "retrievedAt": "2024-07-23 19:05:32.826248",
+      "internal_id": "e07289e397440dddb3a19f9f3e7497a06f0359ae36e9e0659c3937b0e3f91033",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11325,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue, il vaccino pu\u00f2 dimezzare il rischio di ammalarsi",
+      "description": "Il vaccino contro la febbre Dengue \u00e8 efficace e sicuro, pu\u00f2 dimezzare il rischio di contrarre l'infezione: \u00e8 quanto emerge dalla prima meta-analisi a livello mondiale pubblicata sulla rivista Vaccines. (ANSA)",
+      "url": "https://www.ansa.it/emiliaromagna/notizie/2024/07/22/dengue-il-vaccino-puo-dimezzare-il-rischio-di-ammalarsi_7b3b7912-0e64-4dc7-beb9-c1cd3d545c4c.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/4/10/041557102afbd1e56aa7c817a46827c7.jpg",
+      "publishedAt": "2024-07-22 09:55:34",
+      "content": "Il vaccino contro la febbre Dengue \u00e8 efficace e sicuro, pu\u00f2 dimezzare il rischio di contrarre l'infezione: \u00e8 quanto emerge dalla prima meta-analisi a livello mondiale pubblicata sulla rivista Vacc\u2026 [+2240 chars]",
+      "retrievedAt": "2024-07-23 19:05:33.752383",
+      "internal_id": "526a8510c9834d0e482fd90fd868b645ffad6ecb1ef1a5a722941338c2c3f52b",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11324,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Scientists uncover fundamental rules for how dengue virus infects its mosquito and human hosts",
+      "description": "Mosquito-borne viral infections once confined to tropical regions are spreading. Dengue virus infects up to 400 million people worldwide each year according to World Health Organization estimates, and no available treatments exist for this disease.",
+      "url": "https://phys.org/news/2024-07-scientists-uncover-fundamental-dengue-virus.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/exposing-dengues-invas.jpg",
+      "publishedAt": "2024-07-22 09:00:01",
+      "content": "Mosquito-borne viral infections once confined to tropical regions are spreading. Dengue virus infects up to 400 million people worldwide each year according to World Health Organization estimates, an\u2026 [+5978 chars]",
+      "retrievedAt": "2024-07-23 19:05:33.728440",
+      "internal_id": "2468fe7a4c83a7e4dba84e27a63e35b658aa1309a256d71b7c5ed57b474356f8",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11326,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Un estudio descarta la presencia de covid-19 en artr\u00f3podos vectores como garrapatas y mosquitos en Murcia",
+      "description": "Tampoco se ha encontrado dengue, chikungunya, virus de la de la fiebre del Nilo occidental o virus de las fiebres hemorr\u00e1gicas de Crimea-Congo",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-estudio-descarta-presencia-covid-19-artropodos-vectores-garrapatas-mosquitos-murcia-20240722091350.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240722091350_1200.jpg",
+      "publishedAt": "2024-07-22 07:13:50",
+      "content": "Tampoco se ha encontrado dengue, chikungunya, virus de la de la fiebre del Nilo occidental o virus de las fiebres hemorr\u00e1gicas de Crimea-Congo MURCIA, 22 Jul. (EUROPA PRESS) - El covid no est\u00e1 \u2026 [+1945 chars]",
+      "retrievedAt": "2024-07-23 19:05:33.761280",
+      "internal_id": "23a5f0e81e2d476a60fa7c88931394aee25baeb92096e632092a18fb1cfb0ba8",
+      "publishedAtLabel": "Jul 22"
+    },
     {
       "id": 11319,
       "query": [
@@ -24025,60 +24224,6 @@
       "content": "Malaria is one of the worlds deadliest diseases. Across Africa, it kills nearly half a million children younger than 5 each year. A new vaccine, only the second of its kind, holds the promise of savi\u2026 [+176 chars]",
       "retrievedAt": "2024-06-11 07:05:51.137587",
       "internal_id": "f4315756e3e4c6c36890f03a069abb6d7f34c3bf2e3b69a301eb1ef851c629ca",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9980,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "\u092a\u094d\u0930\u093f\u092f\u0947\u0936 \u092e\u093f\u0936\u094d\u0930",
-      "title": "H5N2 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0907\u0902\u0938\u093e\u0928 \u0915\u0940 \u092e\u094c\u0924, \u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a",
-      "description": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 59 \u0935\u0930\u094d\u0937\u0940\u092f \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u0938\u092c-\u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092e\u0943\u0924\u094d\u092f\u0941 \u0939\u0941\u0908 \u0939\u0948\u0964 \u0907\u0938\u0947 H5N2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0947 \u0915\u093f\u0938\u0940 \u092e\u0928\u0941\u0937\u094d\u092f \u0915\u094b \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0928\u0947 \u0915\u093e \u092a\u0939\u0932\u093e \u091c\u094d\u091e\u093e\u0924 \u092e\u093e\u092e\u0932\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 1996 \u0938\u0947 H5N1 \u0928\u093e\u092e\u0915 \u090f\u0915 \u0905\u0928\u094d\u092f \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0915\u0947 \u0932\u0917\u092d\u0917 900 \u092e\u093e\u0928\u0935 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902, \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u0906\u0927\u0947 \u0938\u0947\u2026",
-      "url": "https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-39062,msid-110853100/navbharat-times.jpg",
-      "publishedAt": "2024-06-09 18:01:24",
-      "content": ": 59 H5N2 1996 H5N1 900 WHO H5 , - ? , 59 (WHO) , , , , \" , (52) \" 51 52 - , , \" , \" '' \" \" 51 : , Adv: 6-16 , 65% 3.0 - , LiveIND vs PAK: , 120 <\u2026 [+223 chars]",
-      "retrievedAt": "2024-06-11 07:05:50.004275",
-      "internal_id": "b4d989dd1da56f6bc0439c6bef6423c07b5918dabfc8d7753194ed1ae156fcb6",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9986,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.pl",
-      "author": "Anna Kurek",
-      "title": "Naukowcy szykuj\u0105 now\u0105 szczepionk\u0119. Ma zapobiec kolejnej pandemii",
-      "description": "\u015awiat zaczyna si\u0119 powa\u017cnie niepokoi\u0107 ptasi\u0105 gryp\u0105. Istnieje niebezpiecze\u0144stwo, \u017ce mutuj\u0105cy wirus, a szczeg\u00f3lnie typy H5N1, H7N9 i H9N2, mog\u0105 zagrozi\u0107 ludziom i przynie\u015b\u0107 kolejn\u0105 pandemi\u0119. Kilka laboratori\u00f3w na \u015bwiecie pracuje ju\u017c nad szczepionkami, kt\u00f3re mia\u0142\u2026",
-      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html",
-      "urlToImage": "https://bi.im-g.pl/im/40/9b/1d/z31044160IER,Szczepionka-na-ptasia-grype.jpg",
-      "publishedAt": "2024-06-09 10:25:00",
-      "content": "Ostatnie doniesienia na temat ptasiej grypy s bardzo niepokojce. Znaleziono dowody na pierwsze zakaenia wr\u00f3d ludzi. Oznacza to, e istnieje niebezpieczestwo, e mutujcy wirus stanie si zdolny do masowe\u2026 [+2508 chars]",
-      "retrievedAt": "2024-06-11 07:05:50.031940",
-      "internal_id": "a3f3bac77995c0bd9cacca967c87d17581f6d56f2f2ad172156b1c423478a475",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9974,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "2chblog.jp",
-      "author": "ko_jo",
-      "title": "\u3010\u60b2\u5831\u3011\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u3001\u5973\u5150\u304c\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306b\u611f\u67d3\u3057\u305f\u3068\u767a\u8868",
-      "description": "1\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:14:10.36ID:eMXCByJm0 8\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:17:52.63ID:vU7IJfVJ0.net \u9ce5\u30a4\u30f3\u30d5\u30eb\u6b7b\u306c\u53ef\u80fd\u6027\u3069\u306e\u304f\u3089\u3044\uff1f\uff1f 22\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:22:25.45ID:IpCz3VXT0.net >>8 H5N1\u4e9c\u578b\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb...",
-      "url": "https://news.2chblog.jp/archives/52044998.html",
-      "urlToImage": null,
-      "publishedAt": "2024-06-09 09:18:06",
-      "content": "1 2024/06/09() 09:14:10.36ID:eMXCByJm0 8 2024/06/09() 09:17:52.63ID:vU7IJfVJ0.net 22 2024/06/09() 09:22:25.45ID:IpCz3VXT0.net 77 2024/06/09() 09:41:46.02ID:AdyMwMaM0.net 208 2024/06/09() 10:46:\u2026 [+998 chars]",
-      "retrievedAt": "2024-06-10 19:05:35.748105",
-      "internal_id": "856e0d9de9b997cd78131c7245c3b234a6d641efeff8c1e801851545f67854bb",
       "publishedAtLabel": "Jun 9"
     }
   ]
