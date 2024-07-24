@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-07-23 19:05
-- **Most recent article:** 2024-07-22 17:41:20
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-07-24 07:06
+- **Most recent article:** 2024-07-23 07:05:07
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 13 | 503 |
-| h5n1 | 48 | 29 | 36 | 59 | 52 | 62 | 5 | 291 |
-| mpox | 26 | 14 | 46 | 21 | 26 | 17 | 3 | 153 |
-| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 4 | 145 |
+| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 15 | 505 |
+| h5n1 | 51 | 29 | 36 | 59 | 52 | 62 | 7 | 296 |
+| mpox | 26 | 14 | 46 | 21 | 26 | 17 | 5 | 155 |
+| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 5 | 146 |
 | zika | 12 | 3 | 17 | 20 | 12 | 6 | 5 | 75 |
-| measles | 6 | 11 | 8 | 9 | 12 | 19 | 1 | 66 |
+| measles | 6 | 11 | 8 | 9 | 12 | 19 | 4 | 69 |
 | chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 4 | 62 |
-| rabies | 2 | 5 | 8 | 4 | 2 | 17 | 1 | 39 |
-| pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 0 | 28 |
+| rabies | 2 | 5 | 8 | 4 | 2 | 17 | 3 | 41 |
+| pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 2 | 30 |
 | hpai | 4 | 4 | 3 | 3 | 5 | 6 | 1 | 26 |
-| typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 0 | 17 |
-| meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 0 | 16 |
+| typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 1 | 18 |
+| meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 1 | 17 |
 | leptospirosis | 1 | 1 | 2 | 1 | 3 | 4 | 0 | 12 |
 | yersinia | 0 | 0 | 2 | 0 | 6 | 0 | 2 | 10 |
 
@@ -50,11 +50,29 @@ Source: [News API](https://newsapi.org/)
 
 - [Hallazgo histórico en Cataluña: encontrado un esqueleto de una víctima de la peste negra del siglo XIV en el castillo de Besora](https://www.meneame.net/m/actualidad/hallazgo-historico-cataluna-encontrado-esqueleto-victima-peste) (Meneame.net)
 
+## 24-30 (typhoid)
+
+- [Commentary: What you flush could give clues to help stop the next pandemic](https://www.channelnewsasia.com/commentary/pandemic-wastewater-testing-detect-pathogen-virus-disease-covid-bird-flu-zika-4495676) (CNA)
+
 ## 24-30 (rabies)
+
+- [Three bats in Boulder County test positive for rabies](https://www.denverpost.com/2024/07/22/three-bats-in-boulder-county-test-positive-for-rabies/) (The Denver Post)
+
+- [U.S. drops rules for dogs entering from rabies-free countries](https://www.cbc.ca/news/politics/dogs-rabies-canada-border-1.7271508) (CBC News)
 
 - [CDC Updates Dog Importation Process](https://www.cdc.gov/media/releases/2024/s0722-dog-importation.html) (Cdc.gov)
 
+## 24-30 (pertussis)
+
+- [Fontos dologra hívta fel a várandós anyák figyelmét az NNGYK](https://index.hu/belfold/2024/07/23/egeszsegugy-szamarkohoges-varandossag-jarvany-bakterium-cseppfertozes/) (Index.hu)
+
+- [Újult erővel támad a fertőzés, ami Magyarországon is halálozással járt - Már a hazai járványhatóság is figyelmeztet](https://www.portfolio.hu/gazdasag/20240723/ujult-erovel-tamad-a-fertozes-ami-magyarorszagon-is-halalozassal-jart-mar-a-hazai-jarvanyhatosag-is-figyelmeztet-699875) (Portfolio.hu)
+
 ## 24-30 (mpox)
+
+- [Aantal gevallen van apenpokken stijgt exponentieel in Congo, "maar niet meteen gevaar voor een wereldwijde pandemie"](https://www.vrt.be/vrtnws/nl/2024/07/23/apenpokken-stijging-gevallen-congolese-stad/) (Www.vrt.be)
+
+- [Man with mpox symptoms breached quarantine, gets jail](https://www.channelnewsasia.com/singapore/monkeypox-mpox-symptoms-man-breach-quarantine-jail-4498066) (CNA)
 
 - [RDC: hausse "exponentielle" de cas de variole du singe](https://fr.sputniknews.africa/20240721/rdc-hausse-exponentielle-de-cas-de-variole-du-singe-1067584154.html) (Sputniknews.africa)
 
@@ -62,11 +80,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Huge rise in Mpox cases in DR Congo: govt](https://medicalxpress.com/news/2024-07-huge-mpox-cases-dr-congo.html) (Medical Xpress)
 
+## 24-30 (meningitis)
+
+- [Dos víctimas y un lío de competencias: alarma por el mosquito del Nilo en Sevilla](https://www.elconfidencial.com/espana/andalucia/2024-07-23/victimas-competencias-alarma-mosquito-nilo-sevilla_3929699/) (Elconfidencial.com)
+
 ## 24-30 (measles)
+
+- [The Battle To Beat Malaria review: Science meets compassion in the quest to find a vaccine](https://www.independent.ie/entertainment/television/tv-reviews/the-battle-to-beat-malaria-review-science-meets-compassion-in-the-quest-to-find-a-vaccine/a300904546.html) (Independent.ie)
+
+- [Paediatricians insist overcrowding, incomplete vaccination fuelling measles outbreaks](https://punchng.com/paediatricians-insist-overcrowding-incomplete-vaccination-fuelling-measles-outbreaks/) (The Punch)
+
+- [Commentary: What you flush could give clues to help stop the next pandemic](https://www.channelnewsasia.com/commentary/pandemic-wastewater-testing-detect-pathogen-virus-disease-covid-bird-flu-zika-4495676) (CNA)
 
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (malaria)
+
+- [The Battle To Beat Malaria review: Science meets compassion in the quest to find a vaccine](https://www.independent.ie/entertainment/television/tv-reviews/the-battle-to-beat-malaria-review-science-meets-compassion-in-the-quest-to-find-a-vaccine/a300904546.html) (Independent.ie)
 
 - [Establishment of a multisite umbrella cohort study protocol to describe the epidemiology and aetiologies of acute undifferentiated febrile illness in Latin America](https://bmjopen.bmj.com/content/14/7/e083560) (The BMJ)
 
@@ -82,6 +112,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (h5n1)
 
+- [Разработана универсальная вакцина против гриппа](https://lenta.ru/news/2024/07/23/vaccine/) (Lenta)
+
+- [Testing transmission and infection of H5N1 from cows](https://www.nih.gov/news-events/nih-research-matters/testing-transmission-infection-h5n1-cows) (National Institutes of Health)
+
 - [Has the next pandemic already started?](https://www.aljazeera.com/opinions/2024/7/21/has-the-next-pandemic-already-started) (Al Jazeera English)
 
 - [Малоизученный и смертельный вирус распространяется по Индии, погибших уже 16](https://life.ru/p/1673935) (Life.ru)
@@ -93,6 +127,10 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (dengue)
+
+- [Dengue outbreak spreads to Nepal’s 73 districts](https://english.khabarhub.com/2024/23/366680/) (Khabarhub.com)
+
+- [Create dengue reels, win rewards: BBMP](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-dengue-warrior-reels-contest-win-cash-prizes/articleshow/111939604.cms) (The Times of India)
 
 - [Il vaccino contro la Dengue è efficace e sicuro: la conferma della prima meta-analisi a livello mondiale](https://www.lescienze.it/news/2024/07/22/news/vaccino_dengue_efficace_sicuro-16519071/) (Lescienze.it)
 
@@ -2835,6 +2873,12 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
 
 - [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
+
+- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
+
+- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
+
+- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 ## 24-24 (dengue)
 

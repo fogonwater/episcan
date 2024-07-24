@@ -1,8 +1,262 @@
 {
-  "last_updated": "2024-07-23 19:05",
-  "count_articles_total": 1340,
-  "count_articles_new": 11,
+  "last_updated": "2024-07-24 07:06",
+  "count_articles_total": 1357,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 11340,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0415\u043d\u0438\u043a\u0435\u0435\u0432",
+      "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u0430 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u0430\u044f \u0432\u0430\u043a\u0446\u0438\u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432 \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0423\u0447\u0435\u043d\u044b\u0435 \u041e\u0440\u0435\u0433\u043e\u043d\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0438 \u043d\u0430\u0443\u043a\u0438 (OHSU) \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0438 \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u043f\u043e\u0434\u0445\u043e\u0434 \u043a \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e\u0439 \u0432\u0430\u043a\u0446\u0438\u043d\u044b \u043f\u0440\u043e\u0442\u0438\u0432 \u0433\u0440\u0438\u043f\u043f\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0435\u0442 \u043f\u043e\u0436\u0438\u0437\u043d\u0435\u043d\u043d\u044b\u0439 \u0438\u043c\u043c\u0443\u043d\u0438\u0442\u0435\u0442. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u044b\u043b\u043e \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043e \u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Nature Communications",
+      "url": "https://lenta.ru/news/2024/07/23/vaccine/",
+      "urlToImage": "https://icdn.lenta.ru/images/2024/07/22/17/20240722175738950/share_2fc85e22e8be17224e624bf851792fb2.jpg",
+      "publishedAt": "2024-07-23 07:05:07",
+      "content": "(OHSU) , . Nature Communications. H5N1. 1918 , , \u00ab\u00bb. , , , . , -. , , . - , , , . 11 H5N1, . , , . , , SARS-CoV-2. , , , , .",
+      "retrievedAt": "2024-07-24 07:06:05.217338",
+      "internal_id": "ec46cf509cba98568eff4b474d5b0f79afdb5bd3601da00f30e1863233dc68fd",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11345,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": null,
+      "title": "Aantal gevallen van apenpokken stijgt exponentieel in Congo, \"maar niet meteen gevaar voor een wereldwijde pandemie\"",
+      "description": "In de Democratische Republiek Congo is het aantal gevallen van mpox, beter bekend als apenpokken, \"exponentieel\" toegenomen. Dat zegt de Congolese ministerraad. Begin mei dook in het land een nieuwe subvariant van het virus op, die ook seksueel overdraagbaar \u2026",
+      "url": "https://www.vrt.be/vrtnws/nl/2024/07/23/apenpokken-stijging-gevallen-congolese-stad/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/07/23/accc05b3-48bf-11ef-92ff-02b7b76bf47f.jpg",
+      "publishedAt": "2024-07-23 06:53:36",
+      "content": "\"Die Centraal-Afrikaanse variant is zelfs nog nooit buiten Afrika gedetecteerd, dus in Europa moeten we ons geen grote zorgen maken\", zegt hij. \"De West-Afrikaanse variant (die ook seksueel overdraag\u2026 [+633 chars]",
+      "retrievedAt": "2024-07-24 07:06:07.214732",
+      "internal_id": "a144575ec309f9100b8e570dca92d8131287beb7dfeb93ec0d2d8b35d2fea3db",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11344,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Man with mpox symptoms breached quarantine, gets jail",
+      "description": "During quarantine, the man had four visitors within about 14 hours.",
+      "url": "https://www.channelnewsasia.com/singapore/monkeypox-mpox-symptoms-man-breach-quarantine-jail-4498066",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--Ko3N2Bdm--/c_crop,h_900,w_1600,x_0,y_150/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/03/12/jem_0163.jpg?itok=qhExb2TD",
+      "publishedAt": "2024-07-23 04:56:00",
+      "content": "SINGAPORE: Despite being placed under quarantine for being a close contact of a mpox case, a man breached the terms of his quarantine by having four men over separately for intimate relations within \u2026 [+8045 chars]",
+      "retrievedAt": "2024-07-24 07:06:07.182898",
+      "internal_id": "cc3ef78f59f4bba8a7f714e86b809dd1e0e3b7b68cf898ae48558b2e771dd41e",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11332,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "D\u00f3zsa Gerg\u0151 Gy\u00f6rgy",
+      "title": "Fontos dologra h\u00edvta fel a v\u00e1rand\u00f3s any\u00e1k figyelm\u00e9t az NNGYK",
+      "description": "Fontos dologra h\u00edvta fel a v\u00e1rand\u00f3s any\u00e1k figyelm\u00e9t az NNGYK - Olt\u00e1sra nekik is sz\u00fcks\u00e9g\u00fck van.",
+      "url": "https://index.hu/belfold/2024/07/23/egeszsegugy-szamarkohoges-varandossag-jarvany-bakterium-cseppfertozes/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/5739/57390/573903/57390381_4244859_1813dc5bf4e6bc97e2716ce3d748196e_wm.jpg",
+      "publishedAt": "2024-07-23 04:27:00",
+      "content": "Eur\u00f3pa n\u00e9h\u00e1ny orsz\u00e1g\u00e1ban \u00edgy Ausztri\u00e1ban, D\u00e1ni\u00e1ban \u00e9s Norv\u00e9gi\u00e1ban m\u00e1r 2023-ban megkezdd\u00f6tt a szam\u00e1rk\u00f6h\u00f6g\u00e9ses (pertussis) esetek sz\u00e1m\u00e1nak emelked\u00e9se, m\u00edg sz\u00e1mos tov\u00e1bbi orsz\u00e1gban csak 2023 v\u00e9g\u00e9n vag\u2026 [+2131 chars]",
+      "retrievedAt": "2024-07-24 07:06:04.003020",
+      "internal_id": "1c53f251cae97b263faf1a02892003a9fc11ab087252e67ef1c71942f89d4d50",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11333,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "\u00dajult er\u0151vel t\u00e1mad a fert\u0151z\u00e9s, ami Magyarorsz\u00e1gon is hal\u00e1loz\u00e1ssal j\u00e1rt - M\u00e1r a hazai j\u00e1rv\u00e1nyhat\u00f3s\u00e1g is figyelmeztet",
+      "description": "A 28. h\u00e9ten 21 \u00faj szam\u00e1rk\u00f6h\u00f6g\u00e9s-gyan\u00fas esetet azonos\u00edtottak Magyarorsz\u00e1gon, ami \u00faj heti rekordnak felel meg. A fert\u0151z\u00e9s terjed\u00e9si sebess\u00e9ge teh\u00e1t nem csillapodik m\u00e9g j\u00falius k\u00f6zep\u00e9n sem, \u00e9s ami a legaggaszt\u00f3bb, hogy eddig m\u00e9g nem l\u00e1tott sz\u00e1mban azonos\u00edtott\u00e1k a\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20240723/ujult-erovel-tamad-a-fertozes-ami-magyarorszagon-is-halalozassal-jart-mar-a-hazai-jarvanyhatosag-is-figyelmeztet-699875",
+      "urlToImage": "https://pcdn.hu/articles/images-md/e/g/e/egeszseggazdasag-egeszsegugy-betegseg-jarvany-fertozes-nemzeti-nepegeszsegugyi-es-gy-690543.jpg",
+      "publishedAt": "2024-07-23 04:10:00",
+      "content": "Nyilv\u00e1noss\u00e1gra hozta az NNGYK a heti jelent\u00e9s\u00e9t a j\u00e1rv\u00e1ny\u00fcgyi helyzetrl, amely r\u00e9szletes adatokat k\u00f6z\u00fcl bizonyos fertz\u00e9sekrl a j\u00falius 8. \u00e9s 14. k\u00f6z\u00f6tti idszakr\u00f3l. Ezek szerint 21 pertussis-gyan\u00fas ese\u2026 [+9786 chars]",
+      "retrievedAt": "2024-07-24 07:06:04.025534",
+      "internal_id": "ac2a7e993f6c461726b3773bed19c6416168d56992d0fdf2d7265fd0632e6111",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11343,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencial.com",
+      "author": "Carlos Rocha. Sevilla",
+      "title": "Dos v\u00edctimas y un l\u00edo de competencias: alarma por el mosquito del Nilo en Sevilla",
+      "description": "La Junta y la Diputaci\u00f3n de Sevilla llegan a un acuerdo para que la organizaci\u00f3n provincial financie las fumigaciones de emergencia despu\u00e9s del fallecimiento de una mujer en La Puebla del R\u00edo",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2024-07-23/victimas-competencias-alarma-mosquito-nilo-sevilla_3929699/",
+      "urlToImage": "https://images.ecestaticos.com/wymtgs1CiTPOqEi7VOpqxVmPT3Y=/0x0:2272x1556/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/733/14b/b68/73314bb68b0505167ff514c95c87e2e6.jpg",
+      "publishedAt": "2024-07-23 03:00:00",
+      "content": "El padre de Antonio Tom\u00e1s Pineda sufri\u00f3 en 2016 una meningitis que encaja con todos los s\u00edntomas del virus del Nilo, pero entonces esta enfermedad no estaba en el radar en el Bajo Guadalquivir. Ocho \u2026 [+6326 chars]",
+      "retrievedAt": "2024-07-24 07:06:06.042336",
+      "internal_id": "94aff6b01aa7cecf9462c2365d734c496b46d0826071d4a39d0b5a507bf5844d",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11342,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue outbreak spreads to Nepal\u2019s 73 districts",
+      "description": "KATHMANDU: Dengue infection has spread widely across Nepal, affecting 73 districts, according to the Epidemiology and Disease Control Division. Since the beginning of 2024, a total of 1,657 cases have been reported from January 1 to July 18. Notably, Mustang,\u2026",
+      "url": "https://english.khabarhub.com/2024/23/366680/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-07-23 01:50:14",
+      "content": "KATHMANDU: Dengue infection has spread widely across Nepal, affecting 73 districts, according to the Epidemiology and Disease Control Division. Since the beginning of 2024, a total of 1,657 cases ha\u2026 [+1173 chars]",
+      "retrievedAt": "2024-07-24 07:06:05.627152",
+      "internal_id": "606717015871ee850b9f54eb3e06beef44a1b8c32517b2ab8fef15dabdf2f6e0",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11338,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Pat Stacey",
+      "title": "The Battle To Beat Malaria review: Science meets compassion in the quest to find a vaccine",
+      "description": "Vaccines work. Vaccines save lives. It was vaccines that eradicated smallpox in the 1970s and wiped out two of the three known strains of poliovirus.",
+      "url": "https://www.independent.ie/entertainment/television/tv-reviews/the-battle-to-beat-malaria-review-science-meets-compassion-in-the-quest-to-find-a-vaccine/a300904546.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/kRBxn4YMCzy7zf86_l1csBplEhk=/275x0:3249x1983/629x0/prod-mh-ireland/76e605a1-1c04-471b-9dbd-d7e7b9c7fd53/408c822b-03f0-427d-b8d2-23fd21c1212c/ifally.jpg",
+      "publishedAt": "2024-07-23 01:30:00",
+      "content": "Vaccines work. Vaccines save lives. It was vaccines that eradicated smallpox in the 1970s and wiped out two of the three known strains of poliovirus.It was vaccines that brought measles and Covid-19 \u2026 [+3990 chars]",
+      "retrievedAt": "2024-07-24 07:06:04.550673",
+      "internal_id": "f81335d207b1c93742e7b627af3b30f72f45e8443faddb97e50ed5455e89c7eb",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11336,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Janet Ogundepo",
+      "title": "Paediatricians insist overcrowding, incomplete vaccination fuelling measles outbreaks",
+      "description": "Paediatricians have warned that children who are unvaccinated, malnourished, and live in crowded environments are at a higher risk of measles. The experts also noted that children living in overcrowded areas were at increased risk of spreading and contracting\u2026",
+      "url": "https://punchng.com/paediatricians-insist-overcrowding-incomplete-vaccination-fuelling-measles-outbreaks/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/07/22194833/MohammadYilgwan.jpg",
+      "publishedAt": "2024-07-23 00:44:55",
+      "content": "Paediatricians have warned that children who are unvaccinated, malnourished, and live in crowded environments are at a higher risk of measles. The experts also noted that children living in overcrow\u2026 [+6867 chars]",
+      "retrievedAt": "2024-07-24 07:06:04.534921",
+      "internal_id": "6f8c80f9cf443118c884b862a570d15abf925ef6e78655cd873ca81d75d2ef11",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11339,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "National Institutes of Health",
+      "author": null,
+      "title": "Testing transmission and infection of H5N1 from cows",
+      "description": "Researchers found that an H5N1 flu virus from cows could infect mice and ferrets, but airborne transmission wasn\u2019t very efficient.",
+      "url": "https://www.nih.gov/news-events/nih-research-matters/testing-transmission-infection-h5n1-cows",
+      "urlToImage": "https://www.nih.gov/sites/default/files/news-events/news-releases/2024/AdobeStock_751006536.jpeg",
+      "publishedAt": "2024-07-23 00:00:00",
+      "content": "At a Glance Researchers found that an H5N1 flu virus from cows could infect mice and ferrets, but airborne transmission wasnt very efficient.The findings increase our understanding \u2026 [+3858 chars]",
+      "retrievedAt": "2024-07-24 07:06:05.210488",
+      "internal_id": "c7cc3cb79e9d1870de4398391693cbe8d55f021f0b35118630c60ed86d22f496",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11335,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Nicole Dorfman",
+      "title": "Three bats in Boulder County test positive for rabies",
+      "description": "According to a release, the bats were found in separate locations across the county and were submitted for rabies testing by Boulder County Public Health after being discovered by residents.",
+      "url": "https://www.denverpost.com/2024/07/22/three-bats-in-boulder-county-test-positive-for-rabies/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/07/20181017_18DCABATw-1.jpg?w=654&h=496",
+      "publishedAt": "2024-07-22 23:56:08",
+      "content": "Three bats found in Boulder County have recently tested positive for rabies, according to Boulder County Public Health. According to a release, the bats were found in separate locations across the c\u2026 [+2244 chars]",
+      "retrievedAt": "2024-07-24 07:06:04.336433",
+      "internal_id": "42940222dcbb9a83e58e61dbfc81e249cae0ef0a4dc2d402bb9d411a6a22b4eb",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11341,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Create dengue reels, win rewards: BBMP",
+      "description": "Participate in BBMP's Dengue Warrior Reels Contest to spread awareness about dengue prevention efforts. Win cash prizes by creating short videos showcasing preventive measures at home and in the community.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bbmp-dengue-warrior-reels-contest-win-cash-prizes/articleshow/111939604.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-22 22:41:29",
+      "content": "10 evening snacks made with oats",
+      "retrievedAt": "2024-07-24 07:06:05.593481",
+      "internal_id": "01ccdef3c9d05c91658fdcada9bcc1ac6bb4b6360ef026d8523bef4511e44a5e",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11337,
+      "query": [
+        "measles",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Commentary: What you flush could give clues to help stop the next pandemic",
+      "description": "Every time you flush the toilet, your waste carries valuable pathogen information that can help health authorities detect the spread of diseases early, says Duke-NUS Medical School\u2019s Vincent Pang.",
+      "url": "https://www.channelnewsasia.com/commentary/pandemic-wastewater-testing-detect-pathogen-virus-disease-covid-bird-flu-zika-4495676",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--Ifj9pXcc--/c_crop,h_675,w_1200,x_0,y_534/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/nea-wastewater-sampling-manhole-data.jpg?itok=UXvwyvWj",
+      "publishedAt": "2024-07-22 22:00:00",
+      "content": "Beyond pandemic management, wastewater surveillance can be used to identify and prevent the spread of diseases such as measles, cholera, typhoid, and polio, especially in low- and middle-income count\u2026 [+1592 chars]",
+      "retrievedAt": "2024-07-24 07:06:04.540813",
+      "internal_id": "b279771cd422d2c959ee1b58856ffdafa64fc1e3843f98a3361d7f63a52734a3",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 11334,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "U.S. drops rules for dogs entering from rabies-free countries",
+      "description": "The U.S. Centers for Disease Control will not require Canadians to fill out long forms before crossing the border from Canada with their dogs this summer.",
+      "url": "https://www.cbc.ca/news/politics/dogs-rabies-canada-border-1.7271508",
+      "urlToImage": "https://i.cbc.ca/1.7271516.1721679083!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/dog-u-s-border.jpg",
+      "publishedAt": "2024-07-22 20:04:33",
+      "content": "The U.S. Centers for Disease Control will not require Canadians to fill out long forms before crossing the border from Canada with their dogs this summer. The agency had announced new rules in May t\u2026 [+805 chars]",
+      "retrievedAt": "2024-07-24 07:06:04.321780",
+      "internal_id": "33bbbc4ae1ca280a0a3fb41e8f3df180344afa82217101e48c66ac9bdd6200e2",
+      "publishedAtLabel": "Jul 22"
+    },
     {
       "id": 11321,
       "query": [
@@ -24224,6 +24478,60 @@
       "content": "Malaria is one of the worlds deadliest diseases. Across Africa, it kills nearly half a million children younger than 5 each year. A new vaccine, only the second of its kind, holds the promise of savi\u2026 [+176 chars]",
       "retrievedAt": "2024-06-11 07:05:51.137587",
       "internal_id": "f4315756e3e4c6c36890f03a069abb6d7f34c3bf2e3b69a301eb1ef851c629ca",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9980,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u092a\u094d\u0930\u093f\u092f\u0947\u0936 \u092e\u093f\u0936\u094d\u0930",
+      "title": "H5N2 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0907\u0902\u0938\u093e\u0928 \u0915\u0940 \u092e\u094c\u0924, \u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a",
+      "description": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 59 \u0935\u0930\u094d\u0937\u0940\u092f \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u0938\u092c-\u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092e\u0943\u0924\u094d\u092f\u0941 \u0939\u0941\u0908 \u0939\u0948\u0964 \u0907\u0938\u0947 H5N2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0947 \u0915\u093f\u0938\u0940 \u092e\u0928\u0941\u0937\u094d\u092f \u0915\u094b \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0928\u0947 \u0915\u093e \u092a\u0939\u0932\u093e \u091c\u094d\u091e\u093e\u0924 \u092e\u093e\u092e\u0932\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 1996 \u0938\u0947 H5N1 \u0928\u093e\u092e\u0915 \u090f\u0915 \u0905\u0928\u094d\u092f \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0915\u0947 \u0932\u0917\u092d\u0917 900 \u092e\u093e\u0928\u0935 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902, \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u0906\u0927\u0947 \u0938\u0947\u2026",
+      "url": "https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-39062,msid-110853100/navbharat-times.jpg",
+      "publishedAt": "2024-06-09 18:01:24",
+      "content": ": 59 H5N2 1996 H5N1 900 WHO H5 , - ? , 59 (WHO) , , , , \" , (52) \" 51 52 - , , \" , \" '' \" \" 51 : , Adv: 6-16 , 65% 3.0 - , LiveIND vs PAK: , 120 <\u2026 [+223 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.004275",
+      "internal_id": "b4d989dd1da56f6bc0439c6bef6423c07b5918dabfc8d7753194ed1ae156fcb6",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9986,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Anna Kurek",
+      "title": "Naukowcy szykuj\u0105 now\u0105 szczepionk\u0119. Ma zapobiec kolejnej pandemii",
+      "description": "\u015awiat zaczyna si\u0119 powa\u017cnie niepokoi\u0107 ptasi\u0105 gryp\u0105. Istnieje niebezpiecze\u0144stwo, \u017ce mutuj\u0105cy wirus, a szczeg\u00f3lnie typy H5N1, H7N9 i H9N2, mog\u0105 zagrozi\u0107 ludziom i przynie\u015b\u0107 kolejn\u0105 pandemi\u0119. Kilka laboratori\u00f3w na \u015bwiecie pracuje ju\u017c nad szczepionkami, kt\u00f3re mia\u0142\u2026",
+      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html",
+      "urlToImage": "https://bi.im-g.pl/im/40/9b/1d/z31044160IER,Szczepionka-na-ptasia-grype.jpg",
+      "publishedAt": "2024-06-09 10:25:00",
+      "content": "Ostatnie doniesienia na temat ptasiej grypy s bardzo niepokojce. Znaleziono dowody na pierwsze zakaenia wr\u00f3d ludzi. Oznacza to, e istnieje niebezpieczestwo, e mutujcy wirus stanie si zdolny do masowe\u2026 [+2508 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.031940",
+      "internal_id": "a3f3bac77995c0bd9cacca967c87d17581f6d56f2f2ad172156b1c423478a475",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9974,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "2chblog.jp",
+      "author": "ko_jo",
+      "title": "\u3010\u60b2\u5831\u3011\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u3001\u5973\u5150\u304c\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306b\u611f\u67d3\u3057\u305f\u3068\u767a\u8868",
+      "description": "1\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:14:10.36ID:eMXCByJm0 8\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:17:52.63ID:vU7IJfVJ0.net \u9ce5\u30a4\u30f3\u30d5\u30eb\u6b7b\u306c\u53ef\u80fd\u6027\u3069\u306e\u304f\u3089\u3044\uff1f\uff1f 22\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:22:25.45ID:IpCz3VXT0.net >>8 H5N1\u4e9c\u578b\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb...",
+      "url": "https://news.2chblog.jp/archives/52044998.html",
+      "urlToImage": null,
+      "publishedAt": "2024-06-09 09:18:06",
+      "content": "1 2024/06/09() 09:14:10.36ID:eMXCByJm0 8 2024/06/09() 09:17:52.63ID:vU7IJfVJ0.net 22 2024/06/09() 09:22:25.45ID:IpCz3VXT0.net 77 2024/06/09() 09:41:46.02ID:AdyMwMaM0.net 208 2024/06/09() 10:46:\u2026 [+998 chars]",
+      "retrievedAt": "2024-06-10 19:05:35.748105",
+      "internal_id": "856e0d9de9b997cd78131c7245c3b234a6d641efeff8c1e801851545f67854bb",
       "publishedAtLabel": "Jun 9"
     }
   ]
