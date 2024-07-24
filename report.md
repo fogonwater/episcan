@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-07-24 07:06
-- **Most recent article:** 2024-07-23 07:05:07
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-07-24 19:05
+- **Most recent article:** 2024-07-23 18:45:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 15 | 505 |
-| h5n1 | 51 | 29 | 36 | 59 | 52 | 62 | 7 | 296 |
+| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 22 | 512 |
+| h5n1 | 48 | 29 | 36 | 59 | 52 | 62 | 9 | 295 |
 | mpox | 26 | 14 | 46 | 21 | 26 | 17 | 5 | 155 |
-| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 5 | 146 |
+| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 6 | 147 |
 | zika | 12 | 3 | 17 | 20 | 12 | 6 | 5 | 75 |
-| measles | 6 | 11 | 8 | 9 | 12 | 19 | 4 | 69 |
-| chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 4 | 62 |
-| rabies | 2 | 5 | 8 | 4 | 2 | 17 | 3 | 41 |
-| pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 2 | 30 |
+| measles | 6 | 11 | 8 | 9 | 12 | 19 | 7 | 72 |
+| chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 6 | 64 |
+| rabies | 2 | 5 | 8 | 4 | 2 | 17 | 5 | 43 |
+| pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 4 | 32 |
 | hpai | 4 | 4 | 3 | 3 | 5 | 6 | 1 | 26 |
 | typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 1 | 18 |
 | meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 1 | 17 |
@@ -56,6 +56,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (rabies)
 
+- [Officials: Hanover cat tested positive for rabies](https://richmond.com/news/local/rabies-case-hanover-cat-mechanicsville/article_e30c9de6-491f-11ef-9e12-4bac1c7416a3.html) (Richmond.com)
+
+- [Ночной визит летучей мыши обернулся для россиянки больницей](https://life.ru/p/1674445) (Life.ru)
+
 - [Three bats in Boulder County test positive for rabies](https://www.denverpost.com/2024/07/22/three-bats-in-boulder-county-test-positive-for-rabies/) (The Denver Post)
 
 - [U.S. drops rules for dogs entering from rabies-free countries](https://www.cbc.ca/news/politics/dogs-rabies-canada-border-1.7271508) (CBC News)
@@ -63,6 +67,10 @@ Source: [News API](https://newsapi.org/)
 - [CDC Updates Dog Importation Process](https://www.cdc.gov/media/releases/2024/s0722-dog-importation.html) (Cdc.gov)
 
 ## 24-30 (pertussis)
+
+- [Whooping cough on the rise across Dane County](https://www.wkow.com/news/health/whooping-cough-on-the-rise-across-dane-county/article_6cf7b5fa-4906-11ef-b8c2-4f35f4f3dfb3.html) (WKOW)
+
+- [גל שעלת: התחלואה התפשטה מירושלים לעוד אזורים בארץ](https://www.ynet.co.il/health/article/bywtwftoa) (Ynet)
 
 - [Fontos dologra hívta fel a várandós anyák figyelmét az NNGYK](https://index.hu/belfold/2024/07/23/egeszsegugy-szamarkohoges-varandossag-jarvany-bakterium-cseppfertozes/) (Index.hu)
 
@@ -86,6 +94,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (measles)
 
+- [‘Could have prevented that illness;’ Health leaders urging parents to get kids vaccinated](https://www.whio.com/news/local/could-have-prevented-that-that-illness-health-leaders-urging-parents-get-kids-vaccinated/HGKP4OJDHVCA7LKG7OGLEKTKY4/) (WHIO)
+
+- [UN agencies urge Bosnia to vaccinate kids after two die in measles outbreak](https://timesofindia.indiatimes.com/world/rest-of-world/un-agencies-urge-bosnia-to-vaccinate-kids-after-two-die-in-measles-outbreak/articleshow/111968478.cms) (The Times of India)
+
+- [Swimming In The Seine Isn’t The Only Health Risk For Paris Olympians And Fans](https://www.forbes.com/sites/judystone/2024/07/23/swimming-in-the-seine-isnt-the-only-health-risk-for-paris-olympians-and-fans/) (Forbes)
+
 - [The Battle To Beat Malaria review: Science meets compassion in the quest to find a vaccine](https://www.independent.ie/entertainment/television/tv-reviews/the-battle-to-beat-malaria-review-science-meets-compassion-in-the-quest-to-find-a-vaccine/a300904546.html) (Independent.ie)
 
 - [Paediatricians insist overcrowding, incomplete vaccination fuelling measles outbreaks](https://punchng.com/paediatricians-insist-overcrowding-incomplete-vaccination-fuelling-measles-outbreaks/) (The Punch)
@@ -95,6 +109,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (malaria)
+
+- [Have we defeated malaria?](https://theweek.com/health/have-we-defeated-malaria) (The Week Magazine)
 
 - [The Battle To Beat Malaria review: Science meets compassion in the quest to find a vaccine](https://www.independent.ie/entertainment/television/tv-reviews/the-battle-to-beat-malaria-review-science-meets-compassion-in-the-quest-to-find-a-vaccine/a300904546.html) (Independent.ie)
 
@@ -112,6 +128,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (h5n1)
 
+- [Another Poultry Worker In Colorado Contracts Bird Flu](https://www.shtfplan.com/headline-news/another-poultry-worker-in-colorado-contracts-bird-flu) (Shtfplan.com)
+
+- [IsGlobal estima que "estamos a tiempo" de prepararnos para otra pandemia pero pide un acuerdo mundial "urgente"](https://www.infosalus.com/salud-investigacion/noticia-isglobal-estima-estamos-tiempo-prepararnos-otra-pandemia-pide-acuerdo-mundial-urgente-20240723141251.html) (Infosalus.com)
+
 - [Разработана универсальная вакцина против гриппа](https://lenta.ru/news/2024/07/23/vaccine/) (Lenta)
 
 - [Testing transmission and infection of H5N1 from cows](https://www.nih.gov/news-events/nih-research-matters/testing-transmission-infection-h5n1-cows) (National Institutes of Health)
@@ -127,6 +147,20 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (dengue)
+
+- [Swimming In The Seine Isn’t The Only Health Risk For Paris Olympians And Fans](https://www.forbes.com/sites/judystone/2024/07/23/swimming-in-the-seine-isnt-the-only-health-risk-for-paris-olympians-and-fans/) (Forbes)
+
+- [Alerta por Dengue en México: Van 4 veces más casos que en 2023 y viene lo más difícil](https://www.sopitas.com/noticias/alerta-casos-dengue-mexico-4-veces-mas-2023-peor-epoca-dificil/) (Sopitas.com)
+
+- [Leishmaniasis: this neglected tropical disease is spreading fast, and Europe is nowhere near prepared](https://theconversation.com/leishmaniasis-this-neglected-tropical-disease-is-spreading-fast-and-europe-is-nowhere-near-prepared-235031) (The Conversation Africa)
+
+- [Dengue fever is -- unfortunately -- having a banner year. Can it be quelled?](https://www.npr.org/sections/goats-and-soda/2024/07/23/g-s1-12674/dengue-mosquitoes-climate-virus-americas) (NPR)
+
+- [Current and lagged associations of meteorological variables and Aedes mosquito indices with dengue incidence in the Philippines](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011603) (Plos.org)
+
+- [Singapore dengue cases surpass 2023 total with five months to go in the year](https://www.channelnewsasia.com/singapore/dengue-cases-2024-surge-national-environment-agency-4499176) (CNA)
+
+- [Fallece por dengue hemorrágico una niña de 4 años en Matamoros](https://www.jornada.com.mx/2024/07/23/estados/030n2est) (Jornada.com.mx)
 
 - [Dengue outbreak spreads to Nepal’s 73 districts](https://english.khabarhub.com/2024/23/366680/) (Khabarhub.com)
 
@@ -159,6 +193,10 @@ Source: [News API](https://newsapi.org/)
 - [Japanese Encephalitis claims life in Morigaon](https://thehillstimes.in/assam/japanese-encephalitis-claims-life-in-morigaon) (Thehillstimes.in)
 
 ## 24-30 (chikungunya)
+
+- [Αύξηση των επιδημιών διεθνώς – Καμπανάκι κινδύνου για τους ταξιδιώτες](https://www.naftemporiki.gr/health/1722750/ayxisi-ton-epidimion-diethnos-kampanaki-kindynoy-gia-toys-taxidiotes/) (Naftemporiki.gr)
+
+- [Ιλαρά, κοκκύτης, διφθερίτιδα: Αυξάνονται διεθνώς οι επιδημίες – Καμπανάκι κινδύνου για τους ταξιδιώτες](https://www.naftemporiki.gr/health/1722750/ilara-kokkytis-diftheritida-ayxanontai-diethnos-oi-epidimies-kampanaki-kindynoy-gia-toys-taxidiotes/) (Naftemporiki.gr)
 
 - [Un estudio descarta la presencia de covid-19 en artrópodos vectores como garrapatas y mosquitos en Murcia](https://www.infosalus.com/salud-investigacion/noticia-estudio-descarta-presencia-covid-19-artropodos-vectores-garrapatas-mosquitos-murcia-20240722091350.html) (Infosalus.com)
 
@@ -2873,12 +2911,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
 
 - [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
-
-- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
-
-- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
-
-- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 ## 24-24 (dengue)
 

@@ -1,8 +1,333 @@
 {
-  "last_updated": "2024-07-24 07:06",
-  "count_articles_total": 1357,
-  "count_articles_new": 14,
+  "last_updated": "2024-07-24 19:05",
+  "count_articles_total": 1372,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 11349,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "From staff reports",
+      "title": "Officials: Hanover cat tested positive for rabies",
+      "description": "A spokesperson for the Chickahominy Health District \u2014 which covers Charles City, Goochland, Hanover and New Kent counties \u2014 said a cat in Hanover had tested positive for rabies.",
+      "url": "https://richmond.com/news/local/rabies-case-hanover-cat-mechanicsville/article_e30c9de6-491f-11ef-9e12-4bac1c7416a3.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/30/e30c9de6-491f-11ef-9e12-4bac1c7416a3/669ffc17885f3.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2024-07-23 18:45:00",
+      "content": "Now-Sept. 21: Dogwood Dell Festival of the Arts brings performances, plays, concerts and more for free. Stand-out performances include SPARCs presentation of Youre a Good Man Charlie Brown Aug. 16-1\u2026 [+194 chars]",
+      "retrievedAt": "2024-07-24 19:05:44.532597",
+      "internal_id": "ef67e2385924060563fc231f4513feafceaf2733aac8b2ded1bc906933615e56",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11352,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WHIO",
+      "author": "Whio Staff",
+      "title": "\u2018Could have prevented that illness;\u2019 Health leaders urging parents to get kids vaccinated",
+      "description": "With back-to-school season coming up, state health leaders are urging parents to get their kids vaccinated.",
+      "url": "https://www.whio.com/news/local/could-have-prevented-that-that-illness-health-leaders-urging-parents-get-kids-vaccinated/HGKP4OJDHVCA7LKG7OGLEKTKY4/",
+      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/t4WM0KGFK_HlH5vg32RQDcVDChk=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/HTNVE2A255BPDOQ4M3GJMARXNA.jpg",
+      "publishedAt": "2024-07-23 18:30:34",
+      "content": "OHIO \u2014 With back-to-school season coming up, state health leaders are urging parents to get their kids vaccinated. As reported on News Center 7 at 5:00 p.m., preventable viruses like measles and who\u2026 [+2045 chars]",
+      "retrievedAt": "2024-07-24 19:05:44.839333",
+      "internal_id": "930c8c140f9cf713f4e9fb33b60321156bb8e64c32475918c13cec4368025de8",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11351,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "UN agencies urge Bosnia to vaccinate kids after two die in measles outbreak",
+      "description": "Rest of World News: SARAJEVO: The World Health Organization (WHO) and UNICEF on Tuesday urged Bosnia's authorities to raise the measles vaccination rate among children af.",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/un-agencies-urge-bosnia-to-vaccinate-kids-after-two-die-in-measles-outbreak/articleshow/111968478.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111968475,width-1070,height-580,imgsize-253062,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-23 17:22:26",
+      "content": "10 evening snacks made with oats",
+      "retrievedAt": "2024-07-24 19:05:44.826383",
+      "internal_id": "a3e7c9e1e21c52b4ce5d7a9b6131294fdba0583952de401ad04aa31975d4b360",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11347,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WKOW",
+      "author": "Enjoyiana Nururdin",
+      "title": "Whooping cough on the rise across Dane County",
+      "description": "In the last eight weeks, there have been 43 cases of whooping cough in Dane County.",
+      "url": "https://www.wkow.com/news/health/whooping-cough-on-the-rise-across-dane-county/article_6cf7b5fa-4906-11ef-b8c2-4f35f4f3dfb3.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/c/d0/cd0ee3a8-1c54-11ee-8997-37d7e8941eaa/64a74e3eaae5d.image.png?crop=719%2C377%2C0%2C13&resize=719%2C377&order=crop%2Cresize",
+      "publishedAt": "2024-07-23 17:20:25",
+      "content": "MADISON (WKOW) -- There has been an increase in cases of pertussis, or whooping cough, across southern Wisconsin, Public Health Madison &amp; Dane County said in a release Tuesday. In the last eigh\u2026 [+1914 chars]",
+      "retrievedAt": "2024-07-24 19:05:44.186073",
+      "internal_id": "63dcbffc958d5e5d175756ec9581ccfea724b0152fbda25f201bb0a0afceee49",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11350,
+      "query": [
+        "measles",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Judy Stone, Senior Contributor, \n Judy Stone, Senior Contributor\n https://www.forbes.com/sites/judystone/",
+      "title": "Swimming In The Seine Isn\u2019t The Only Health Risk For Paris Olympians And Fans",
+      "description": "There are many risks to Paris visitors, including Covid, air pollution, dengue, whooping cough and measles, among other.",
+      "url": "https://www.forbes.com/sites/judystone/2024/07/23/swimming-in-the-seine-isnt-the-only-health-risk-for-paris-olympians-and-fans/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/669e7eec70d0675af7577b84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-23 15:51:09",
+      "content": "Triathlon athletes dive in the Seine river with The Eiffel Tower in the background during a Test ... [+] Event for the women's triathlon for the upcoming 2024 Olympic Games in Paris, on August 17, 20\u2026 [+8084 chars]",
+      "retrievedAt": "2024-07-24 19:05:44.812257",
+      "internal_id": "a2982529e007c5e36121db3baccaf6c53c5c82205a91ed2f2f13002c3933ce9a",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11348,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u0410\u0444\u043e\u043d\u0438\u043d\u0430",
+      "title": "\u041d\u043e\u0447\u043d\u043e\u0439 \u0432\u0438\u0437\u0438\u0442 \u043b\u0435\u0442\u0443\u0447\u0435\u0439 \u043c\u044b\u0448\u0438 \u043e\u0431\u0435\u0440\u043d\u0443\u043b\u0441\u044f \u0434\u043b\u044f \u0440\u043e\u0441\u0441\u0438\u044f\u043d\u043a\u0438 \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u0435\u0439",
+      "description": "\u0416\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0435 \u041b\u0435\u043d\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0433\u043e \u043e\u043a\u0440\u0443\u0433\u0430 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043f\u0440\u0438\u0448\u043b\u043e\u0441\u044c \u043e\u0431\u0440\u0430\u0442\u0438\u0442\u044c\u0441\u044f \u043a \u0432\u0440\u0430\u0447\u0430\u043c \u043f\u043e\u0441\u043b\u0435 \u043d\u043e\u0447\u043d\u043e\u0433\u043e \u0432\u0438\u0437\u0438\u0442\u0430 \u043b\u0435\u0442\u0443\u0447\u0435\u0439 \u043c\u044b\u0448\u0438. 46-\u043b\u0435\u0442\u043d\u044f\u044f \u0436\u0435\u043d\u0449\u0438\u043d\u0430 \u0441\u0440\u0430\u0437\u0443 \u0436\u0435 \u043f\u043e\u0448\u043b\u0430 \u0432 \u0412\u0438\u0434\u043d\u043e\u0432\u0441\u043a\u0443\u044e \u043a\u043b\u0438\u043d\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u0443. \u0415\u0439 \u043f\u0440\u0438\u0448\u043b\u043e\u0441\u044c \u0434\u0435\u043b\u0430\u0442\u044c \u043f\u0440\u0438\u0432\u0438\u0432\u043a\u0443 \u043e\u0442 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u0430, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u043f\u0440\u0435\u0441\u0441-\u0441\u043b\u0443\u0436\u0431\u0430 \u0430\u0434\u043c\u0438\u2026",
+      "url": "https://life.ru/p/1674445",
+      "urlToImage": "https://static.life.ru/publications/2024/7/23/1165323020344.1821.webp",
+      "publishedAt": "2024-07-23 15:19:39",
+      "content": ". 46- . , - . \" , . , , \", . , Rabies virus. . \" , . , . , \", . , , - . , . . Life.ru , , . , . .",
+      "retrievedAt": "2024-07-24 19:05:44.515053",
+      "internal_id": "ef9e5058bb55a8bd37e33b23329ca6a61f48ee948cb7d97c8b691896c40168ad",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11353,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Another Poultry Worker In Colorado Contracts Bird Flu",
+      "description": "The Colorado Department of Public Health and Environment (CDPHE) reported that another poultry worker responsible for culling birds over avian influenza has tested positive for H5N1 bird flu in preliminary tests. This worker was employed at a separate large l\u2026",
+      "url": "https://www.shtfplan.com/headline-news/another-poultry-worker-in-colorado-contracts-bird-flu",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/02/birdflu2.jpg",
+      "publishedAt": "2024-07-23 15:00:41",
+      "content": "The Colorado Department of Public Health and Environment (CDPHE) reported that another poultry worker responsible for culling birds over avian influenza has tested positive for H5N1 bird flu in preli\u2026 [+1976 chars]",
+      "retrievedAt": "2024-07-24 19:05:45.310978",
+      "internal_id": "adf80e73f5a38fce95af223a5a262901a5f594bda33007d7297e42b307904d2e",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11355,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sopitas.com",
+      "author": "Max Carranza",
+      "title": "Alerta por Dengue en M\u00e9xico: Van 4 veces m\u00e1s casos que en 2023 y viene lo m\u00e1s dif\u00edcil",
+      "description": "No salimos de una cuando empieza la otra y es que ahora las alertas de Salud empiezan a encenderse con el aumento de casos de Dengue... The post Alerta por Dengue en M\u00e9xico: Van 4 veces m\u00e1s casos que en 2023 y viene lo m\u00e1s dif\u00edcil appeared first on Sopitas.co\u2026",
+      "url": "https://www.sopitas.com/noticias/alerta-casos-dengue-mexico-4-veces-mas-2023-peor-epoca-dificil/",
+      "urlToImage": "https://www.sopitas.com/wp-content/uploads/2024/07/alerta-casos-dengue-mexico-4-veces-mas-2023-peor-epoca-3.png",
+      "publishedAt": "2024-07-23 14:27:33",
+      "content": "Lo que necesitas saber: Los casos de Dengue en M\u00e9xico est\u00e1n llegando a un punto preocupante. Se han registrado 4 veces m\u00e1s casos que en 2023 pero en oto\u00f1o es el pico de infecciones. No salimos de u\u2026 [+2445 chars]",
+      "retrievedAt": "2024-07-24 19:05:45.629443",
+      "internal_id": "6f3359480514c6170a1ccd1699d185f3a8e4eb0dc93b79c4cbca9936c6036afd",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11358,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Francisco Javier Moreno Nuncio, Investigador Cient\u00edfico del Centro Nacional de Microbiolog\u00eda, Jefe del Centro Colaborador de la OMS para Leishmaniasis. , Instituto de Salud Carlos III, Christopher Fernandez-Prada, Associate Professor at Universit\u00e9 de Montr\u00e9al (Faculty of Veterinary Sciences); Head of the animal parasitology diagnostic laboratory of UdeM; Adjunct professor McGill University (Faculty of Medicine) and Laval University (Faculty of Sciences)., Universit\u00e9 de Montr\u00e9al",
+      "title": "Leishmaniasis: this neglected tropical disease is spreading fast, and Europe is nowhere near prepared",
+      "description": "Climate change is causing this disease to spread in Southern Europe, but governments are doing little to prevent it.",
+      "url": "https://theconversation.com/leishmaniasis-this-neglected-tropical-disease-is-spreading-fast-and-europe-is-nowhere-near-prepared-235031",
+      "urlToImage": "https://images.theconversation.com/files/607826/original/file-20240619-19-zn3n43.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-07-23 14:15:18",
+      "content": "3D illustration of the parasites that cause leishmaniasis. Kateryna Kon / Shutterstock In recent decades, Europe has seen a worrying increase in cases of vector-borne tropical diseases like dengue, \u2026 [+6530 chars]",
+      "retrievedAt": "2024-07-24 19:05:45.665024",
+      "internal_id": "c3aff94650d47f92cbbf90422568a42188f868c11f004a50c95af1ea27682bb8",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11357,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Jill Langlois",
+      "title": "Dengue fever is -- unfortunately -- having a banner year. Can it be quelled?",
+      "description": "Case counts are skyrocketing in countries like Brazil and Peru and the virus is popping up in new turf, from Florida to Iran. What's the cause? And what's the solution?",
+      "url": "https://www.npr.org/sections/goats-and-soda/2024/07/23/g-s1-12674/dengue-mosquitoes-climate-virus-americas",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+375/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F46%2F57%2Ffb1f4de043158076d2f0e096f5dd%2Fdengue.jpg",
+      "publishedAt": "2024-07-23 14:03:30",
+      "content": "In the Americas alone, almost 10.4 million suspected cases of dengue, a mosquito-borne viral disease, were reported to the World Health Organization in 2024 as of the first week of July, an increase \u2026 [+9389 chars]",
+      "retrievedAt": "2024-07-24 19:05:45.639458",
+      "internal_id": "f672ff37d3daef665e095f7b687791f92133d94e0ba11cba9929116ace12ccb9",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11359,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Estrella I. Cruz, Ferdinand V. Salazar, Ariza Minelle A. Aguila, Mary Vinessa Villaruel-Jagmis, Jennifer Ramos, Richard E. Paul",
+      "title": "Current and lagged associations of meteorological variables and Aedes mosquito indices with dengue incidence in the Philippines",
+      "description": "Author summary Dengue is a widespread mosquito-borne disease. Mosquitoes are sensitive to temperature and rainfall and hence there have been efforts to identify such variables for predicting dengue outbreaks. Several mosquito indices are measured routinely by\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011603",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011603.g010&size=inline",
+      "publishedAt": "2024-07-23 14:00:00",
+      "content": "Citation: Cruz EI, Salazar FV, Aguila AMA, Villaruel-Jagmis MV, Ramos J, Paul RE (2024) Current and lagged associations of meteorological variables and Aedes mosquito indices with dengue incidence in\u2026 [+42889 chars]",
+      "retrievedAt": "2024-07-24 19:05:45.670571",
+      "internal_id": "54f43540fcb27fd9c668a08f03a8587eef62dce086028ce192a9e1d2bc76553f",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11356,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Singapore dengue cases surpass 2023 total with five months to go in the year",
+      "description": "As of Jul 22, the total number of reported dengue cases stood at 10,141 for 2024.",
+      "url": "https://www.channelnewsasia.com/singapore/dengue-cases-2024-surge-national-environment-agency-4499176",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--K9UvDtMW--/c_crop,h_843,w_1500,x_0,y_79/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/09/02/istock-912054822.jpg?itok=yAcp52x9",
+      "publishedAt": "2024-07-23 13:52:00",
+      "content": "The agency's latest update (as of Jul 22) showed that there are 70 active dengue clusters in Singapore. Ten are considered red-alert clusters, which indicate high-risk areas with 10 or more cases eac\u2026 [+841 chars]",
+      "retrievedAt": "2024-07-24 19:05:45.634383",
+      "internal_id": "73e8fb9c96a3900b9b79e1ba4e157f1f5c4a75d377358f153eff7f37fc67d326",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11362,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2 \u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03ae\u03c2",
+      "title": "\u0391\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03b9\u03ce\u03bd \u03b4\u03b9\u03b5\u03b8\u03bd\u03ce\u03c2 \u2013 \u039a\u03b1\u03bc\u03c0\u03b1\u03bd\u03ac\u03ba\u03b9 \u03ba\u03b9\u03bd\u03b4\u03cd\u03bd\u03bf\u03c5 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03ce\u03c4\u03b5\u03c2",
+      "description": "\u0397 \u03ba\u03bb\u03b9\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03ba\u03b1\u03b9 \u03b7 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b8\u03b5\u03c1\u03bc\u03bf\u03ba\u03c1\u03b1\u03c3\u03af\u03b1\u03c2, \u03c3\u03b5 \u03c3\u03c5\u03bd\u03b4\u03c5\u03b1\u03c3\u03bc\u03cc \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b5\u03c2 \u03bc\u03b5\u03c4\u03b1\u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03b9\u03c2, \u03ad\u03c7\u03bf\u03c5\u03bd \u03b5\u03c0\u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03c3\u03c4\u03bf \u03c0\u03c1\u03bf\u03c3\u03ba\u03ae\u03bd\u03b9\u03bf \u03c3\u03bf\u03b2\u03b1\u03c1\u03ad\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b5\u03c2. \u038c\u03c0\u03c9\u03c2 \u03b1\u03bd\u03ad\u03c6\u03b5\u03c1\u03b5 \u03bf \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u0395\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1\u03c2 \u039b\u03bf\u03b9\u03bc\u03ce\u03be\u03b5\u03c9\u03bd, \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2\u2026 \u0391\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03b9\u03ce\u03bd \u03b4\u03b9\u03b5\u03b8\u03bd\u03ce\u03c2 \u2013 \u039a\u03b1\u03bc\u2026",
+      "url": "https://www.naftemporiki.gr/health/1722750/ayxisi-ton-epidimion-diethnos-kampanaki-kindynoy-gia-toys-taxidiotes/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2010/08/459427-e1721741050953.jpeg",
+      "publishedAt": "2024-07-23 13:22:30",
+      "content": ", , . , , , , . , 2024 . 10 5.000 . / / , , &amp; . , 320.000 Chikungunya (CHIKVD) . 10 3 . , . 15 -10 23 . (3.267), (27), (186) (59) (63). 2024 7 19 , . , 15 1 . . 2024 32.000 (, , \u2026 [+171 chars]",
+      "retrievedAt": "2024-07-24 19:05:47.104953",
+      "internal_id": "5b4e15137826f4d2a87294242a085850a18e589efc208d7be6dad92cb0f6831d",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11363,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2 \u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03ae\u03c2",
+      "title": "\u0399\u03bb\u03b1\u03c1\u03ac, \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7\u03c2, \u03b4\u03b9\u03c6\u03b8\u03b5\u03c1\u03af\u03c4\u03b9\u03b4\u03b1: \u0391\u03c5\u03be\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ce\u03c2 \u03bf\u03b9 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b5\u03c2 \u2013 \u039a\u03b1\u03bc\u03c0\u03b1\u03bd\u03ac\u03ba\u03b9 \u03ba\u03b9\u03bd\u03b4\u03cd\u03bd\u03bf\u03c5 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03ce\u03c4\u03b5\u03c2",
+      "description": "\u0397 \u03ba\u03bb\u03b9\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03ba\u03b1\u03b9 \u03b7 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b8\u03b5\u03c1\u03bc\u03bf\u03ba\u03c1\u03b1\u03c3\u03af\u03b1\u03c2, \u03c3\u03b5 \u03c3\u03c5\u03bd\u03b4\u03c5\u03b1\u03c3\u03bc\u03cc \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b5\u03c2 \u03bc\u03b5\u03c4\u03b1\u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03b9\u03c2, \u03ad\u03c7\u03bf\u03c5\u03bd \u03b5\u03c0\u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03c3\u03c4\u03bf \u03c0\u03c1\u03bf\u03c3\u03ba\u03ae\u03bd\u03b9\u03bf \u03c3\u03bf\u03b2\u03b1\u03c1\u03ad\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b5\u03c2. \u038c\u03c0\u03c9\u03c2 \u03b1\u03bd\u03ad\u03c6\u03b5\u03c1\u03b5 \u03bf \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u0395\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1\u03c2 \u039b\u03bf\u03b9\u03bc\u03ce\u03be\u03b5\u03c9\u03bd, \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2\u2026 \u0399\u03bb\u03b1\u03c1\u03ac, \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7\u03c2, \u03b4\u03b9\u03c6\u03b8\u03b5\u03c1\u03af\u03c4\u03b9\u03b4\u03b1: \u0391\u03c5\u03be\u03ac\u2026",
+      "url": "https://www.naftemporiki.gr/health/1722750/ilara-kokkytis-diftheritida-ayxanontai-diethnos-oi-epidimies-kampanaki-kindynoy-gia-toys-taxidiotes/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2010/08/459427-e1721741050953.jpeg",
+      "publishedAt": "2024-07-23 13:22:30",
+      "content": ", , . , , , , . , 2024 . 10 5.000 . / / , , &amp; . , 320.000 Chikungunya (CHIKVD) . 10 3 . , . 15 -10 23 . (3.267), (27), (186) (59) (63). 2024 7 19 , . , 15 1 . . 2024 32.000 (, \u2026 [+173 chars]",
+      "retrievedAt": "2024-07-24 19:05:47.123039",
+      "internal_id": "00affca898cfe5740ba8721f6c9b7aca3a9642523a10614e56781788b6f6d3f0",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11354,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "IsGlobal estima que \"estamos a tiempo\" de prepararnos para otra pandemia pero pide un acuerdo mundial \"urgente\"",
+      "description": "A pesar de la amenaza que supone que el virus de la gripe aviar H5N1, muy patog\u00e9nico, pueda haber ganado la capacidad de transmitirse entre mam\u00edferos, investigadores del Instituto de Salud Global de Barcelona (ISGlobal) consideran que aun \"estamos a tiempo\" d\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-isglobal-estima-estamos-tiempo-prepararnos-otra-pandemia-pide-acuerdo-mundial-urgente-20240723141251.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240723141251_1200.jpg",
+      "publishedAt": "2024-07-23 12:12:51",
+      "content": "MADRID, 23 Jul. (EUROPA PRESS) - A pesar de la amenaza que supone que el virus de la gripe aviar H5N1, muy patog\u00e9nico, pueda haber ganado la capacidad de transmitirse entre mam\u00edferos, investigador\u2026 [+5489 chars]",
+      "retrievedAt": "2024-07-24 19:05:45.328451",
+      "internal_id": "0f795ee0b5e43540aa8ee5d5b052a51336eae0fe03d3836d998a5f8a7e23dfdc",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11346,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05d0\u05d5\u05e8\u05df \u05e8\u05d9\u05d9\u05e1",
+      "title": "\u05d2\u05dc \u05e9\u05e2\u05dc\u05ea: \u05d4\u05ea\u05d7\u05dc\u05d5\u05d0\u05d4 \u05d4\u05ea\u05e4\u05e9\u05d8\u05d4 \u05de\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05dc\u05e2\u05d5\u05d3 \u05d0\u05d6\u05d5\u05e8\u05d9\u05dd \u05d1\u05d0\u05e8\u05e5",
+      "description": "\u05d7\u05d8\u05d9\u05d1\u05ea \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d4\u05e6\u05d9\u05d1\u05d5\u05e8 \u05d1\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05de\u05e1\u05e4\u05e7\u05ea \u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05de\u05d3\u05d0\u05d9\u05d2\u05d9\u05dd \u05e2\u05dc \u05ea\u05d7\u05dc\u05d5\u05d0\u05ea \u05d4\u05e9\u05e2\u05dc\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d9\u05d5\u05ea\u05e8 \u05de-2,480 \u05d7\u05d5\u05dc\u05d9\u05dd \u05d1\u05d7\u05e6\u05d9 \u05d4\u05e9\u05e0\u05d4 \u05d4\u05e8\u05d0\u05e9\u05d5\u05e0\u05d4, \u05dc\u05e2\u05d5\u05de\u05ea 1,792 \u05d1\u05e9\u05e0\u05ea 2023 \u05db\u05d5\u05dc\u05d4. \u05d1\u05e0\u05d9\u05d2\u05d5\u05d3 \u05dc\u05e9\u05e0\u05d4 \u05e9\u05e2\u05d1\u05e8\u05d4 \u05e9\u05d1\u05d4 \u05d4\u05ea\u05de\u05e7\u05d3\u05d4 \u05d4\u05ea\u05d7\u05dc\u05d5\u05d0\u05d4 \u05d1\u05d0\u05d6\u05d5\u05e8 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05d4\u05e9\u05e0\u05d4 \u05d4\u05ea\u05e4\u05e9\u05d8\u05d4 \u05d4\u05ea\u05d7\u05dc\u05d5\u05d0\u05d4 \u05dc\u05d0\u05d6\u05d5\u05e8\u05d9\u05dd \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd",
+      "url": "https://www.ynet.co.il/health/article/bywtwftoa",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2023/06/22/BJboUoWdh/BJboUoWdh_0_0_1000_563_0_large.jpg",
+      "publishedAt": "2024-07-23 11:59:45",
+      "content": "2015 -2,480 , 1,792 2023 , 600 . , , - . (Bordetella Pertussis). . . . -200 - -450 , 614 -500 . 2023 . 2023 , . . 19-0 -85% 2023 . , \"\" . , , , B, . , ' , , . , , , , , , , .",
+      "retrievedAt": "2024-07-24 19:05:44.167769",
+      "internal_id": "b72a1ad8c591bbc14d503fce221d29f2f09024da6d5afa8d509b9f36915c621a",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11360,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Fallece por dengue hemorr\u00e1gico una ni\u00f1a de 4 a\u00f1os en Matamoros",
+      "description": "Una ni\u00f1a de 4 a\u00f1os muri\u00f3 por dengue hemorr\u00e1gico en el Hospital General Alfredo Pumarejo, en Matamoros, Tamaulipas, luego de permanecer varios d\u00edas internada.",
+      "url": "https://www.jornada.com.mx/2024/07/23/estados/030n2est",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-07-23 08:49:47",
+      "content": "Peri\u00f3dico La JornadaMartes 23 de julio de 2024, p. 30 Una ni\u00f1a de 4 a\u00f1os muri\u00f3 por dengue hemorr\u00e1gico en el Hospital General Alfredo Pumarejo, en Matamoros, Tamaulipas, luego de permanecer varios d\u00ed\u2026 [+1412 chars]",
+      "retrievedAt": "2024-07-24 19:05:45.695088",
+      "internal_id": "4ef876f8ba4092106f25ecbc4227fdf873f2dfb03bbbab9d421ce47f5ed46507",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11361,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditorsuk@futurenet.com (The Week UK)",
+      "title": "Have we defeated malaria?",
+      "description": "Roll-out of low-cost vaccine means a world free from disease that claims 600,000 lives a year 'finally within sight'",
+      "url": "https://theweek.com/health/have-we-defeated-malaria",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gge7VRrcfrK3JWXgyZrRbK-1200-80.jpg",
+      "publishedAt": "2024-07-23 08:44:23",
+      "content": "The roll-out of a new affordable vaccine, combined with breakthroughs in the genetic modification of mosquitos, means that a world free of malaria is \"finally within sight,\" Adar Poonawalla, chief ex\u2026 [+5092 chars]",
+      "retrievedAt": "2024-07-24 19:05:46.370610",
+      "internal_id": "2829c5bc6ffc6730c90829b9b9f5fd9b2aea4b60516dc544de1565862a55eab2",
+      "publishedAtLabel": "Jul 23"
+    },
     {
       "id": 11340,
       "query": [
@@ -24478,60 +24803,6 @@
       "content": "Malaria is one of the worlds deadliest diseases. Across Africa, it kills nearly half a million children younger than 5 each year. A new vaccine, only the second of its kind, holds the promise of savi\u2026 [+176 chars]",
       "retrievedAt": "2024-06-11 07:05:51.137587",
       "internal_id": "f4315756e3e4c6c36890f03a069abb6d7f34c3bf2e3b69a301eb1ef851c629ca",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9980,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "\u092a\u094d\u0930\u093f\u092f\u0947\u0936 \u092e\u093f\u0936\u094d\u0930",
-      "title": "H5N2 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0907\u0902\u0938\u093e\u0928 \u0915\u0940 \u092e\u094c\u0924, \u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a",
-      "description": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 59 \u0935\u0930\u094d\u0937\u0940\u092f \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u0938\u092c-\u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092e\u0943\u0924\u094d\u092f\u0941 \u0939\u0941\u0908 \u0939\u0948\u0964 \u0907\u0938\u0947 H5N2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0947 \u0915\u093f\u0938\u0940 \u092e\u0928\u0941\u0937\u094d\u092f \u0915\u094b \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0928\u0947 \u0915\u093e \u092a\u0939\u0932\u093e \u091c\u094d\u091e\u093e\u0924 \u092e\u093e\u092e\u0932\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 1996 \u0938\u0947 H5N1 \u0928\u093e\u092e\u0915 \u090f\u0915 \u0905\u0928\u094d\u092f \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0915\u0947 \u0932\u0917\u092d\u0917 900 \u092e\u093e\u0928\u0935 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902, \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u0906\u0927\u0947 \u0938\u0947\u2026",
-      "url": "https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-39062,msid-110853100/navbharat-times.jpg",
-      "publishedAt": "2024-06-09 18:01:24",
-      "content": ": 59 H5N2 1996 H5N1 900 WHO H5 , - ? , 59 (WHO) , , , , \" , (52) \" 51 52 - , , \" , \" '' \" \" 51 : , Adv: 6-16 , 65% 3.0 - , LiveIND vs PAK: , 120 <\u2026 [+223 chars]",
-      "retrievedAt": "2024-06-11 07:05:50.004275",
-      "internal_id": "b4d989dd1da56f6bc0439c6bef6423c07b5918dabfc8d7753194ed1ae156fcb6",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9986,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.pl",
-      "author": "Anna Kurek",
-      "title": "Naukowcy szykuj\u0105 now\u0105 szczepionk\u0119. Ma zapobiec kolejnej pandemii",
-      "description": "\u015awiat zaczyna si\u0119 powa\u017cnie niepokoi\u0107 ptasi\u0105 gryp\u0105. Istnieje niebezpiecze\u0144stwo, \u017ce mutuj\u0105cy wirus, a szczeg\u00f3lnie typy H5N1, H7N9 i H9N2, mog\u0105 zagrozi\u0107 ludziom i przynie\u015b\u0107 kolejn\u0105 pandemi\u0119. Kilka laboratori\u00f3w na \u015bwiecie pracuje ju\u017c nad szczepionkami, kt\u00f3re mia\u0142\u2026",
-      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html",
-      "urlToImage": "https://bi.im-g.pl/im/40/9b/1d/z31044160IER,Szczepionka-na-ptasia-grype.jpg",
-      "publishedAt": "2024-06-09 10:25:00",
-      "content": "Ostatnie doniesienia na temat ptasiej grypy s bardzo niepokojce. Znaleziono dowody na pierwsze zakaenia wr\u00f3d ludzi. Oznacza to, e istnieje niebezpieczestwo, e mutujcy wirus stanie si zdolny do masowe\u2026 [+2508 chars]",
-      "retrievedAt": "2024-06-11 07:05:50.031940",
-      "internal_id": "a3f3bac77995c0bd9cacca967c87d17581f6d56f2f2ad172156b1c423478a475",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9974,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "2chblog.jp",
-      "author": "ko_jo",
-      "title": "\u3010\u60b2\u5831\u3011\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u3001\u5973\u5150\u304c\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306b\u611f\u67d3\u3057\u305f\u3068\u767a\u8868",
-      "description": "1\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:14:10.36ID:eMXCByJm0 8\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:17:52.63ID:vU7IJfVJ0.net \u9ce5\u30a4\u30f3\u30d5\u30eb\u6b7b\u306c\u53ef\u80fd\u6027\u3069\u306e\u304f\u3089\u3044\uff1f\uff1f 22\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:22:25.45ID:IpCz3VXT0.net >>8 H5N1\u4e9c\u578b\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb...",
-      "url": "https://news.2chblog.jp/archives/52044998.html",
-      "urlToImage": null,
-      "publishedAt": "2024-06-09 09:18:06",
-      "content": "1 2024/06/09() 09:14:10.36ID:eMXCByJm0 8 2024/06/09() 09:17:52.63ID:vU7IJfVJ0.net 22 2024/06/09() 09:22:25.45ID:IpCz3VXT0.net 77 2024/06/09() 09:41:46.02ID:AdyMwMaM0.net 208 2024/06/09() 10:46:\u2026 [+998 chars]",
-      "retrievedAt": "2024-06-10 19:05:35.748105",
-      "internal_id": "856e0d9de9b997cd78131c7245c3b234a6d641efeff8c1e801851545f67854bb",
       "publishedAtLabel": "Jun 9"
     }
   ]
