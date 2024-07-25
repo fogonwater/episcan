@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-07-24 19:05
-- **Most recent article:** 2024-07-23 18:45:00
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-07-25 07:06
+- **Most recent article:** 2024-07-24 06:18:12
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 22 | 512 |
-| h5n1 | 48 | 29 | 36 | 59 | 52 | 62 | 9 | 295 |
+| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 24 | 514 |
+| h5n1 | 51 | 29 | 36 | 59 | 52 | 62 | 10 | 299 |
 | mpox | 26 | 14 | 46 | 21 | 26 | 17 | 5 | 155 |
-| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 6 | 147 |
+| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 9 | 150 |
 | zika | 12 | 3 | 17 | 20 | 12 | 6 | 5 | 75 |
-| measles | 6 | 11 | 8 | 9 | 12 | 19 | 7 | 72 |
+| measles | 6 | 11 | 8 | 9 | 12 | 19 | 9 | 74 |
 | chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 6 | 64 |
 | rabies | 2 | 5 | 8 | 4 | 2 | 17 | 5 | 43 |
 | pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 4 | 32 |
 | hpai | 4 | 4 | 3 | 3 | 5 | 6 | 1 | 26 |
 | typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 1 | 18 |
 | meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 1 | 17 |
-| leptospirosis | 1 | 1 | 2 | 1 | 3 | 4 | 0 | 12 |
+| leptospirosis | 1 | 1 | 2 | 1 | 3 | 4 | 1 | 13 |
 | yersinia | 0 | 0 | 2 | 0 | 6 | 0 | 2 | 10 |
 
 
@@ -94,6 +94,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (measles)
 
+- [UN agencies urge Bosnia to vaccinate children after two die in measles outbreak](https://www.euractiv.com/section/health-consumers/news/un-agencies-urge-bosnia-to-vaccinate-children-after-two-die-in-measles-outbreak/) (EURACTIV)
+
+- [Glycan-shielded homodimer structure and dynamical features of the canine distemper virus hemagglutinin relevant for viral entry and efficient vaccination](https://elifesciences.org/articles/88929) (Elifesciences.org)
+
 - [‘Could have prevented that illness;’ Health leaders urging parents to get kids vaccinated](https://www.whio.com/news/local/could-have-prevented-that-that-illness-health-leaders-urging-parents-get-kids-vaccinated/HGKP4OJDHVCA7LKG7OGLEKTKY4/) (WHIO)
 
 - [UN agencies urge Bosnia to vaccinate kids after two die in measles outbreak](https://timesofindia.indiatimes.com/world/rest-of-world/un-agencies-urge-bosnia-to-vaccinate-kids-after-two-die-in-measles-outbreak/articleshow/111968478.cms) (The Times of India)
@@ -110,6 +114,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (malaria)
 
+- [The unintended consequences of success against malaria](https://www.sciencedaily.com/releases/2024/07/240723204737.htm) (Science Daily)
+
+- [The unintended consequences of success against malaria](https://phys.org/news/2024-07-unintended-consequences-success-malaria.html) (Phys.Org)
+
+- [Research team develops new antimalarial agent for combating drug-resistant parasites](https://phys.org/news/2024-07-team-antimalarial-agent-combating-drug.html) (Phys.Org)
+
 - [Have we defeated malaria?](https://theweek.com/health/have-we-defeated-malaria) (The Week Magazine)
 
 - [The Battle To Beat Malaria review: Science meets compassion in the quest to find a vaccine](https://www.independent.ie/entertainment/television/tv-reviews/the-battle-to-beat-malaria-review-science-meets-compassion-in-the-quest-to-find-a-vaccine/a300904546.html) (Independent.ie)
@@ -122,11 +132,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Japanese Encephalitis claims life in Morigaon](https://thehillstimes.in/assam/japanese-encephalitis-claims-life-in-morigaon) (Thehillstimes.in)
 
+## 24-30 (leptospirosis)
+
+- [The silent spreader: Reassessing the role of mice in leptospirosis risk](https://phys.org/news/2024-07-silent-spreader-reassessing-role-mice.html) (Phys.Org)
+
 ## 24-30 (hpai)
 
 - [Colorado Human Bird Flu Cases Being Tied to Heat Wave](https://legalinsurrection.com/2024/07/colorado-human-bird-flu-cases-being-tied-to-heat-wave/) (Legalinsurrection.com)
 
 ## 24-30 (h5n1)
+
+- [Hierzulande nicht vorgesehen - Warum Finnland jetzt gegen Vogelgrippe impft, Deutschland aber nicht](https://www.focus.de/gesundheit/news/finnland-impft-jetzt-gegen-vogelgrippe-deutschland-nicht-das-hat-zwei-gruende_id_260161715.html) (Focus)
 
 - [Another Poultry Worker In Colorado Contracts Bird Flu](https://www.shtfplan.com/headline-news/another-poultry-worker-in-colorado-contracts-bird-flu) (Shtfplan.com)
 
@@ -147,6 +163,10 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (dengue)
+
+- [Gurgaon records 17 dengue cases in 6 weeks, 5 areas emerge as hotspots](https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-records-17-dengue-cases-in-6-weeks-5-areas-emerge-as-hotspots/articleshow/111973811.cms) (The Times of India)
+
+- [Surge in dengue cases in Bengal, health dept says situation ‘not alarming’](https://thehillstimes.in/national/surge-in-dengue-cases-in-bengal-health-dept-says-situation-not-alarming) (Thehillstimes.in)
 
 - [Swimming In The Seine Isn’t The Only Health Risk For Paris Olympians And Fans](https://www.forbes.com/sites/judystone/2024/07/23/swimming-in-the-seine-isnt-the-only-health-risk-for-paris-olympians-and-fans/) (Forbes)
 
@@ -2911,6 +2931,12 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
 
 - [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
+
+- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
+
+- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
+
+- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 ## 24-24 (dengue)
 

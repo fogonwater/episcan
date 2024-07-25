@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-07-24 19:05",
-  "count_articles_total": 1372,
-  "count_articles_new": 18,
+  "last_updated": "2024-07-25 07:06",
+  "count_articles_total": 1384,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 11366,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Hierzulande nicht vorgesehen - Warum Finnland jetzt gegen Vogelgrippe impft, Deutschland aber nicht",
+      "description": "Vogelgrippe bef\u00e4llt l\u00e4ngst nicht mehr nur Gefl\u00fcgel. In den USA grassiert das H5N1-Virus derzeit unter Milchk\u00fchen, in Finnland waren vergangenes Jahr besonders Nerze betroffen. Das Land will nun aktiv Infektionen bei Menschen vorbeugen und bietet Impfungen an.\u2026",
+      "url": "https://www.focus.de/gesundheit/news/finnland-impft-jetzt-gegen-vogelgrippe-deutschland-nicht-das-hat-zwei-gruende_id_260161715.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260142728/gettyimages-926359250.jpg?im=Crop%3D%280%2C177%2C2119%2C1059%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=fae2c2670705f86776c1a89fc060469723e6174d560c9b54aa4eaa2e7eb116f6",
+      "publishedAt": "2024-07-24 06:18:12",
+      "content": "Vogelgrippe bef\u00e4llt l\u00e4ngst nicht mehr nur Gefl\u00fcgel. In den USA grassiert das H5N1-Virus derzeit unter Milchk\u00fchen, in Finnland waren vergangenes Jahr besonders Nerze betroffen. Das Land will nun aktiv\u2026 [+4682 chars]",
+      "retrievedAt": "2024-07-25 07:06:04.885065",
+      "internal_id": "d604171e0fdc0c967a579a18dd9880aa25357b90c202b7a69028cb25ca837862",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11364,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "EURACTIV",
+      "author": "Georgi Gotev",
+      "title": "UN agencies urge Bosnia to vaccinate children after two die in measles outbreak",
+      "description": "The World Health Organization (WHO) and UNICEF on Tuesday (23 July) urged Bosnia's authorities to raise the measles vaccination rate among children after two adolescents in the Balkan country died in an outbreak of the highly infectious respiratory illness.",
+      "url": "https://www.euractiv.com/section/health-consumers/news/un-agencies-urge-bosnia-to-vaccinate-children-after-two-die-in-measles-outbreak/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2024/07/Measles-vaccination-Afghanistan-800x450.jpg",
+      "publishedAt": "2024-07-24 04:42:21",
+      "content": "The World Health Organization (WHO) and UNICEF on Tuesday (23 July) urged Bosnia and Herzegovina\u2019s authorities to raise the measles vaccination rate among children after two adolescents in the Balkan\u2026 [+1800 chars]",
+      "retrievedAt": "2024-07-25 07:06:04.390006",
+      "internal_id": "924e1daeff0f895dbcee88916e3d2c6775aa5eabe97dc03b6e933d1ade903134",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11368,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Ipsita Pati",
+      "title": "Gurgaon records 17 dengue cases in 6 weeks, 5 areas emerge as hotspots",
+      "description": "Gurgaon reports 17 dengue cases since June; hotspots include Wazirabad, Bhangrola, Nakhrola, Badshapur, Bhondsi. Humid weather likely to increase cases. Symptoms: fever, headache, pain, rash. Health officials advise water management, repellents, clothing. Ong\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-records-17-dengue-cases-in-6-weeks-5-areas-emerge-as-hotspots/articleshow/111973811.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111973839,width-1070,height-580,imgsize-718784,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-24 01:59:40",
+      "content": "10 evening snacks made with oats",
+      "retrievedAt": "2024-07-25 07:06:05.276796",
+      "internal_id": "d6778f9e232a6eedfb37dcebcfba0cc0b5d547c29a8cfe7e1127c563684a3fa4",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11369,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "The unintended consequences of success against malaria",
+      "description": "The insecticide-treated bed nets and insecticide sprays that were so effective in preventing mosquito bites -- and therefore malaria -- are increasingly viewed as the causes of household pest resurgence after pests became resistant to pesticides, according to\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/07/240723204737.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-07-24 00:47:37",
+      "content": "For decades, insecticide-treated bed nets and indoor insecticide spraying regimens have been important -- and widely successful -- treatments against mosquitoes that transmit malaria, a dangerous glo\u2026 [+3553 chars]",
+      "retrievedAt": "2024-07-25 07:06:05.783989",
+      "internal_id": "ca7d53233ab8b8af47b72011f07abaab4a1dc40ce3c816491924dcb07fabe1ec",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11365,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "h-fukuhara@czc.hokudai.ac.jp (Chihiro Kitatsuji), h-fukuhara@czc.hokudai.ac.jp (Hideo Fukuhara), h-fukuhara@czc.hokudai.ac.jp (Jiaqi Wang), h-fukuhara@czc.hokudai.ac.jp (Jun Kamishikiryo), h-fukuhara@czc.hokudai.ac.jp (Katsumi Maenaka), h-fukuhara@czc.hokudai.ac.jp (Kimiko Kuroki), h-fukuhara@czc.hokudai.ac.jp (Kohei Yumoto), h-fukuhara@czc.hokudai.ac.jp (Makoto Takeda), h-fukuhara@czc.hokudai.ac.jp (Mei Yoda), h-fukuhara@czc.hokudai.ac.jp (Mihiro Kawamura), h-fukuhara@czc.hokudai.ac.jp (Miyuki Sako), h-fukuhara@czc.hokudai.ac.jp (Mizuho Kajikawa), h-fukuhara@czc.hokudai.ac.jp (Mwila Mwaba), h-fukuhara@czc.hokudai.ac.jp (Nobuo Maita), h-fukuhara@czc.hokudai.ac.jp (Shin Takeda), h-fukuhara@czc.hokudai.ac.jp (Surui Chen), h-fukuhara@czc.hokudai.ac.jp (Takao Hashiguchi), h-fukuhara@czc.hokudai.ac.jp (Toyoyuki Ose), h-fukuhara@czc.hokudai.ac.jp (Yuri Ito)",
+      "title": "Glycan-shielded homodimer structure and dynamical features of the canine distemper virus hemagglutinin relevant for viral entry and efficient vaccination",
+      "description": "Canine distemper virus (CDV) belongs to morbillivirus, including measles virus (MeV) and rinderpest virus, which causes serious immunological and neurological disorders in carnivores, including dogs and rhesus monkeys, as recently reported, but their vaccines\u2026",
+      "url": "https://elifesciences.org/articles/88929",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-07-24 00:00:00",
+      "content": "In this study, we determined the crystal structure of the vaccine strain CDV-H head domain with a connector domain. The overall structure of the head domain shows a folding similar to that of MeV-H (\u2026 [+9804 chars]",
+      "retrievedAt": "2024-07-25 07:06:04.420138",
+      "internal_id": "60602a5da4eb9cd92d06fadb3b341e35f698559977cbacf9dd6d3327db470834",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11370,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "The unintended consequences of success against malaria",
+      "description": "For decades, insecticide-treated bed nets and indoor insecticide spraying regimens have been important\u2014and widely successful\u2014treatments against mosquitoes that transmit malaria, a dangerous global disease. Yet for a time, these treatments also suppressed unde\u2026",
+      "url": "https://phys.org/news/2024-07-unintended-consequences-success-malaria.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/the-unintended-consequ.jpg",
+      "publishedAt": "2024-07-23 23:00:01",
+      "content": "For decades, insecticide-treated bed nets and indoor insecticide spraying regimens have been importantand widely successfultreatments against mosquitoes that transmit malaria, a dangerous global dise\u2026 [+3921 chars]",
+      "retrievedAt": "2024-07-25 07:06:05.789886",
+      "internal_id": "16cae6ac8ff674e54cf5443b8ae6d4fc99a58d58514fb9db6642169e32ed7403",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11372,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "The silent spreader: Reassessing the role of mice in leptospirosis risk",
+      "description": "Emerging research highlights mice as a critical yet underestimated source of leptospirosis, emphasizing the need for improved strategies to control the spread of the infectious disease.",
+      "url": "https://phys.org/news/2024-07-silent-spreader-reassessing-role-mice.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/the-silent-spreader-re.jpg",
+      "publishedAt": "2024-07-23 20:19:25",
+      "content": "Emerging research highlights mice as a critical yet underestimated source of leptospirosis, emphasizing the need for improved strategies to control the spread of the infectious disease. Led by resea\u2026 [+4513 chars]",
+      "retrievedAt": "2024-07-25 07:06:07.109297",
+      "internal_id": "3491503fb3457536ffca0b3640c1d71f5d24d3c79acf3e43bc9ce8e9f3e762d0",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11371,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Research team develops new antimalarial agent for combating drug-resistant parasites",
+      "description": "Malaria remains a serious health issue globally, especially in Africa. The disease is caused by protozoan parasites in the Plasmodium genus. In 2021, there were 247 million cases of malaria and 619,000 deaths reported worldwide.",
+      "url": "https://phys.org/news/2024-07-team-antimalarial-agent-combating-drug.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/dif-13-combating-drug.jpg",
+      "publishedAt": "2024-07-23 20:19:16",
+      "content": "Malaria remains a serious health issue globally, especially in Africa. The disease is caused by protozoan parasites in the Plasmodium genus. In 2021, there were 247 million cases of malaria and 619,0\u2026 [+4563 chars]",
+      "retrievedAt": "2024-07-25 07:06:05.803524",
+      "internal_id": "f4241197ac7aca0b5263bff09ed766c41b848ba4c9796ef00cdc89c1adc79a09",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11367,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Surge in dengue cases in Bengal, health dept says situation \u2018not alarming\u2019",
+      "description": "KOLKATA, July 23: At least five districts in southern West Bengal have witnessed a surge in dengue cases with each having reported more than 100 vector-borne infections till July 20, an official said on Tuesday. He, however, claimed that the situation was not\u2026",
+      "url": "https://thehillstimes.in/national/surge-in-dengue-cases-in-bengal-health-dept-says-situation-not-alarming",
+      "urlToImage": null,
+      "publishedAt": "2024-07-23 19:15:00",
+      "content": "KOLKATA, July 23: At least five districts in southern West Bengal have witnessed a surge in dengue cases with each having reported more than 100 vector-borne infections till July 20, an official said\u2026 [+1785 chars]",
+      "retrievedAt": "2024-07-25 07:06:05.270547",
+      "internal_id": "f93d7168122d4bcf0da3eb2f2b4dfba3e4d0aa6c42c6fea9c93618fcd06f9b17",
+      "publishedAtLabel": "Jul 23"
+    },
     {
       "id": 11349,
       "query": [
@@ -24803,6 +24965,60 @@
       "content": "Malaria is one of the worlds deadliest diseases. Across Africa, it kills nearly half a million children younger than 5 each year. A new vaccine, only the second of its kind, holds the promise of savi\u2026 [+176 chars]",
       "retrievedAt": "2024-06-11 07:05:51.137587",
       "internal_id": "f4315756e3e4c6c36890f03a069abb6d7f34c3bf2e3b69a301eb1ef851c629ca",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9980,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u092a\u094d\u0930\u093f\u092f\u0947\u0936 \u092e\u093f\u0936\u094d\u0930",
+      "title": "H5N2 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0907\u0902\u0938\u093e\u0928 \u0915\u0940 \u092e\u094c\u0924, \u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a",
+      "description": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 59 \u0935\u0930\u094d\u0937\u0940\u092f \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u0938\u092c-\u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092e\u0943\u0924\u094d\u092f\u0941 \u0939\u0941\u0908 \u0939\u0948\u0964 \u0907\u0938\u0947 H5N2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0947 \u0915\u093f\u0938\u0940 \u092e\u0928\u0941\u0937\u094d\u092f \u0915\u094b \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0928\u0947 \u0915\u093e \u092a\u0939\u0932\u093e \u091c\u094d\u091e\u093e\u0924 \u092e\u093e\u092e\u0932\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 1996 \u0938\u0947 H5N1 \u0928\u093e\u092e\u0915 \u090f\u0915 \u0905\u0928\u094d\u092f \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0915\u0947 \u0932\u0917\u092d\u0917 900 \u092e\u093e\u0928\u0935 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902, \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u0906\u0927\u0947 \u0938\u0947\u2026",
+      "url": "https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-39062,msid-110853100/navbharat-times.jpg",
+      "publishedAt": "2024-06-09 18:01:24",
+      "content": ": 59 H5N2 1996 H5N1 900 WHO H5 , - ? , 59 (WHO) , , , , \" , (52) \" 51 52 - , , \" , \" '' \" \" 51 : , Adv: 6-16 , 65% 3.0 - , LiveIND vs PAK: , 120 <\u2026 [+223 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.004275",
+      "internal_id": "b4d989dd1da56f6bc0439c6bef6423c07b5918dabfc8d7753194ed1ae156fcb6",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9986,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Anna Kurek",
+      "title": "Naukowcy szykuj\u0105 now\u0105 szczepionk\u0119. Ma zapobiec kolejnej pandemii",
+      "description": "\u015awiat zaczyna si\u0119 powa\u017cnie niepokoi\u0107 ptasi\u0105 gryp\u0105. Istnieje niebezpiecze\u0144stwo, \u017ce mutuj\u0105cy wirus, a szczeg\u00f3lnie typy H5N1, H7N9 i H9N2, mog\u0105 zagrozi\u0107 ludziom i przynie\u015b\u0107 kolejn\u0105 pandemi\u0119. Kilka laboratori\u00f3w na \u015bwiecie pracuje ju\u017c nad szczepionkami, kt\u00f3re mia\u0142\u2026",
+      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html",
+      "urlToImage": "https://bi.im-g.pl/im/40/9b/1d/z31044160IER,Szczepionka-na-ptasia-grype.jpg",
+      "publishedAt": "2024-06-09 10:25:00",
+      "content": "Ostatnie doniesienia na temat ptasiej grypy s bardzo niepokojce. Znaleziono dowody na pierwsze zakaenia wr\u00f3d ludzi. Oznacza to, e istnieje niebezpieczestwo, e mutujcy wirus stanie si zdolny do masowe\u2026 [+2508 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.031940",
+      "internal_id": "a3f3bac77995c0bd9cacca967c87d17581f6d56f2f2ad172156b1c423478a475",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9974,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "2chblog.jp",
+      "author": "ko_jo",
+      "title": "\u3010\u60b2\u5831\u3011\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u3001\u5973\u5150\u304c\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306b\u611f\u67d3\u3057\u305f\u3068\u767a\u8868",
+      "description": "1\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:14:10.36ID:eMXCByJm0 8\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:17:52.63ID:vU7IJfVJ0.net \u9ce5\u30a4\u30f3\u30d5\u30eb\u6b7b\u306c\u53ef\u80fd\u6027\u3069\u306e\u304f\u3089\u3044\uff1f\uff1f 22\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:22:25.45ID:IpCz3VXT0.net >>8 H5N1\u4e9c\u578b\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb...",
+      "url": "https://news.2chblog.jp/archives/52044998.html",
+      "urlToImage": null,
+      "publishedAt": "2024-06-09 09:18:06",
+      "content": "1 2024/06/09() 09:14:10.36ID:eMXCByJm0 8 2024/06/09() 09:17:52.63ID:vU7IJfVJ0.net 22 2024/06/09() 09:22:25.45ID:IpCz3VXT0.net 77 2024/06/09() 09:41:46.02ID:AdyMwMaM0.net 208 2024/06/09() 10:46:\u2026 [+998 chars]",
+      "retrievedAt": "2024-06-10 19:05:35.748105",
+      "internal_id": "856e0d9de9b997cd78131c7245c3b234a6d641efeff8c1e801851545f67854bb",
       "publishedAtLabel": "Jun 9"
     }
   ]
