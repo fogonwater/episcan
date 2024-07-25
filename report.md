@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-07-25 07:06
-- **Most recent article:** 2024-07-24 06:18:12
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-07-25 19:05
+- **Most recent article:** 2024-07-24 17:51:55
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 24 | 514 |
-| h5n1 | 51 | 29 | 36 | 59 | 52 | 62 | 10 | 299 |
-| mpox | 26 | 14 | 46 | 21 | 26 | 17 | 5 | 155 |
-| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 9 | 150 |
-| zika | 12 | 3 | 17 | 20 | 12 | 6 | 5 | 75 |
+| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 32 | 522 |
+| h5n1 | 48 | 29 | 36 | 59 | 52 | 62 | 13 | 299 |
+| mpox | 26 | 14 | 46 | 21 | 26 | 17 | 6 | 156 |
+| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 10 | 151 |
+| zika | 12 | 3 | 17 | 20 | 12 | 6 | 6 | 76 |
 | measles | 6 | 11 | 8 | 9 | 12 | 19 | 9 | 74 |
 | chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 6 | 64 |
-| rabies | 2 | 5 | 8 | 4 | 2 | 17 | 5 | 43 |
+| rabies | 2 | 5 | 8 | 4 | 2 | 17 | 6 | 44 |
 | pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 4 | 32 |
 | hpai | 4 | 4 | 3 | 3 | 5 | 6 | 1 | 26 |
-| typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 1 | 18 |
+| typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 2 | 19 |
 | meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 1 | 17 |
 | leptospirosis | 1 | 1 | 2 | 1 | 3 | 4 | 1 | 13 |
 | yersinia | 0 | 0 | 2 | 0 | 6 | 0 | 2 | 10 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-30 (zika)
+
+- [El mosquito del dengue y zika llegó a España: en qué zonas ya se encuentra](https://www.mundodeportivo.com/vidae/salud/20240724/1002286836/mosquito-contagia-dengue-zika-llego-espana-como-tratar-enfermedades.html) (Mundodeportivo.com)
 
 - [c-FLIP facilitates ZIKV infection by mediating caspase-8/3-dependent apoptosis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012408) (Plos.org)
 
@@ -52,9 +54,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (typhoid)
 
+- [10 Riveting Nonfiction Books on History’s Greatest Medical Mysteries](https://www.mentalfloss.com/posts/best-nonfiction-books-medical-mysteries) (Mental Floss)
+
 - [Commentary: What you flush could give clues to help stop the next pandemic](https://www.channelnewsasia.com/commentary/pandemic-wastewater-testing-detect-pathogen-virus-disease-covid-bird-flu-zika-4495676) (CNA)
 
 ## 24-30 (rabies)
+
+- [53 domestic dogs vaccinated against rabies in Kyaikto after rabies virus found in Thayetkone village](https://www.gnlm.com.mm/53-domestic-dogs-vaccinated-against-rabies-in-kyaikto-after-rabies-virus-found-in-thayetkone-village/) (Gnlm.com.mm)
 
 - [Officials: Hanover cat tested positive for rabies](https://richmond.com/news/local/rabies-case-hanover-cat-mechanicsville/article_e30c9de6-491f-11ef-9e12-4bac1c7416a3.html) (Richmond.com)
 
@@ -77,6 +83,8 @@ Source: [News API](https://newsapi.org/)
 - [Újult erővel támad a fertőzés, ami Magyarországon is halálozással járt - Már a hazai járványhatóság is figyelmeztet](https://www.portfolio.hu/gazdasag/20240723/ujult-erovel-tamad-a-fertozes-ami-magyarorszagon-is-halalozassal-jart-mar-a-hazai-jarvanyhatosag-is-figyelmeztet-699875) (Portfolio.hu)
 
 ## 24-30 (mpox)
+
+- [Telaşlandıran yeni salgın! Hızla yayılıyor: Yüzlerce ölü, binlerce vaka var](https://www.haber7.com/foto-galeri/86832-telaslandiran-yeni-salgin-hizla-yayiliyor-yuzlerce-olu-binlerce-vaka-var) (Haber7.com)
 
 - [Aantal gevallen van apenpokken stijgt exponentieel in Congo, "maar niet meteen gevaar voor een wereldwijde pandemie"](https://www.vrt.be/vrtnws/nl/2024/07/23/apenpokken-stijging-gevallen-congolese-stad/) (Www.vrt.be)
 
@@ -114,6 +122,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (malaria)
 
+- [Se avessi la possibilità di eliminare tutte le zanzare del mondo con facilità, lo faresti?](https://tech.everyeye.it/notizie/possibilita-eliminare-zanzare-mondo-facilita-faresti-731872.html) (Everyeye.it)
+
 - [The unintended consequences of success against malaria](https://www.sciencedaily.com/releases/2024/07/240723204737.htm) (Science Daily)
 
 - [The unintended consequences of success against malaria](https://phys.org/news/2024-07-unintended-consequences-success-malaria.html) (Phys.Org)
@@ -142,6 +152,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (h5n1)
 
+- [Гинцбург призвал создать в РФ "консервы" вакцин на случай новой пандемии](https://tass.ru/obschestvo/21443107) (Tass.ru)
+
+- [Scientists Show How Bird Flu Spreads Between Mammals — As H5N1 Pandemic Fears Grow](https://www.forbes.com/sites/roberthart/2024/07/24/scientists-show-how-bird-flu-spreads-between-mammals---as-h5n1-pandemic-fears-grow/) (Forbes)
+
+- [Bird flu sparks 2024 pandemic warning](https://www.gbnews.com/health/bird-flu-symptoms-pandemic-2024-vaccine) (Gbnews.com)
+
 - [Hierzulande nicht vorgesehen - Warum Finnland jetzt gegen Vogelgrippe impft, Deutschland aber nicht](https://www.focus.de/gesundheit/news/finnland-impft-jetzt-gegen-vogelgrippe-deutschland-nicht-das-hat-zwei-gruende_id_260161715.html) (Focus)
 
 - [Another Poultry Worker In Colorado Contracts Bird Flu](https://www.shtfplan.com/headline-news/another-poultry-worker-in-colorado-contracts-bird-flu) (Shtfplan.com)
@@ -163,6 +179,22 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (dengue)
+
+- [Dengue surges in UAE after record-breaking rainfall leaves ideal conditions for mosquitoes](https://www.foxnews.com/health/dengue-surges-uae-after-record-breaking-rainfall-makes-homes-mosquitoes) (Fox News)
+
+- [Porto Alegre registra mais de 10 mil casos de dengue](https://www.terra.com.br/noticias/porto-alegre-registra-mais-de-10-mil-casos-de-dengue,46c15739cbba23fe7811b9acc4b5b310f7bwv31d.html) (Terra.com.br)
+
+- [El mosquito del dengue y zika llegó a España: en qué zonas ya se encuentra](https://www.mundodeportivo.com/vidae/salud/20240724/1002286836/mosquito-contagia-dengue-zika-llego-espana-como-tratar-enfermedades.html) (Mundodeportivo.com)
+
+- [Floods and climate change blamed for surge in dengue in the Emirates as WHO warns of global spike](https://abcnews.go.com/Technology/wireStory/floods-climate-change-blamed-surge-dengue-emirates-warns-112230150) (ABC News)
+
+- [Floods and climate change blamed for surge in dengue in the Emirates as WHO warns of global spike](https://abcnews.go.com/International/wireStory/floods-climate-change-blamed-surge-dengue-emirates-warns-112230148) (ABC News)
+
+- [Floods and climate change blamed for surge in dengue in the Emirates as WHO warns of global spike](https://www.startribune.com/floods-and-climate-change-blamed-for-surge-in-dengue-in-the-emirates-as-who-warns-of-global-spike/600384674/) (Minneapolis Star Tribune)
+
+- [Fortalecer a produção de diagnósticos: Uma oportunidade indispensável para o Brasil](https://valor.globo.com/opiniao/coluna/fortalecer-a-producao-de-diagnosticos-uma-oportunidade-indispensavel-para-o-brasil.ghtml) (Globo)
+
+- [13 dengue deaths in first half of 2024, more than double last year's total](https://www.channelnewsasia.com/singapore/dengue-deaths-first-half-2024-double-last-year-total-4501351) (CNA)
 
 - [Gurgaon records 17 dengue cases in 6 weeks, 5 areas emerge as hotspots](https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-records-17-dengue-cases-in-6-weeks-5-areas-emerge-as-hotspots/articleshow/111973811.cms) (The Times of India)
 
@@ -2931,12 +2963,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
 
 - [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
-
-- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
-
-- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
-
-- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 ## 24-24 (dengue)
 

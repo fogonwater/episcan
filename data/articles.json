@@ -1,8 +1,279 @@
 {
-  "last_updated": "2024-07-25 07:06",
-  "count_articles_total": 1384,
-  "count_articles_new": 9,
+  "last_updated": "2024-07-25 19:05",
+  "count_articles_total": 1396,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 11384,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Associated Press",
+      "title": "Dengue surges in UAE after record-breaking rainfall leaves ideal conditions for mosquitoes",
+      "description": "The United Arab Emirates have issued many warnings about dengue. Mosquitoes spread dengue and have flourished in the UAE after it experienced record-setting rainfall.",
+      "url": "https://www.foxnews.com/health/dengue-surges-uae-after-record-breaking-rainfall-makes-homes-mosquitoes",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Emirates-Dengue.jpg",
+      "publishedAt": "2024-07-24 17:51:55",
+      "content": "Dengue has spiked worldwide. The World Health Organization declared it an emergency in December as cases have globally increased tenfold over the last generation.The United Arab Emir\u2026 [+6001 chars]",
+      "retrievedAt": "2024-07-25 19:05:38.112657",
+      "internal_id": "a0caa87bcef91fd251ba695d4ae8b9ac06d44b97059040753c2df5e3122a5451",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11382,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Porto Alegre registra mais de 10 mil casos de dengue",
+      "description": "A capital ga\u00facha registra um surto de dengue, com mais de 10 mil casos confirmados at\u00e9 20 de ...",
+      "url": "https://www.terra.com.br/noticias/porto-alegre-registra-mais-de-10-mil-casos-de-dengue,46c15739cbba23fe7811b9acc4b5b310f7bwv31d.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/07/24/131745629-mosquito-dengue.jpg",
+      "publishedAt": "2024-07-24 17:04:34",
+      "content": "A capital ga\u00facha registra um surto de dengue, com mais de 10 mil casos confirmados at\u00e9 20 de julho. A maioria dos casos (9.506) foi contra\u00edda dentro da pr\u00f3pria cidade, enquanto os demais s\u00e3o importad\u2026 [+1323 chars]",
+      "retrievedAt": "2024-07-25 19:05:38.083244",
+      "internal_id": "bdbd3a03dda76266a2e11d744b24b049bbb2e4444f6ee6ad01b9c7081dc4ada6",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11378,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Andrea Reyes",
+      "title": "El mosquito del dengue y zika lleg\u00f3 a Espa\u00f1a: en qu\u00e9 zonas ya se encuentra",
+      "description": "El mosquito tigre ('Aedes albopictus') infectado es el responsable de contagiar el dengue y el zika a los humanos. El zika y el dengue son afecciones virales que",
+      "url": "https://www.mundodeportivo.com/vidae/salud/20240724/1002286836/mosquito-contagia-dengue-zika-llego-espana-como-tratar-enfermedades.html",
+      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2023/02/20/63f338faa83ba.jpeg",
+      "publishedAt": "2024-07-24 16:48:44",
+      "content": "El mosquito tigre ('Aedes albopictus') infectado es el responsable de contagiar el dengue y el zika a los humanos. El zika y el dengue son afecciones virales que presentan distintos s\u00edntomas. El zik\u2026 [+4204 chars]",
+      "retrievedAt": "2024-07-25 19:05:38.014916",
+      "internal_id": "a24605a948dfecc76857b24f643766be1f6a2bb090368bba8aa9bfd387d211f8",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11385,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Rocco Auriemma",
+      "title": "Se avessi la possibilit\u00e0 di eliminare tutte le zanzare del mondo con facilit\u00e0, lo faresti?",
+      "description": "Le zanzare sono vettori di malattie mortali come malaria e dengue. Eliminare tutte le zanzare potrebbe avere implicazioni ecologiche ed etiche complesse.Se c'\u00e8 una forma di vita sulla Terra che quasi tutti concordano nel voler eliminare, \u00e8 la zanzara. Anche l\u2026",
+      "url": "https://tech.everyeye.it/notizie/possibilita-eliminare-zanzare-mondo-facilita-faresti-731872.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/se-possibilitA-eliminare-zanzare-mondo-facilitA-faresti-v3-731872.jpg",
+      "publishedAt": "2024-07-24 16:30:00",
+      "content": "Se c'\u00e8 una forma di vita sulla Terra che quasi tutti concordano nel voler eliminare, \u00e8 la zanzara. Anche la persona pi\u00f9 sensibile potrebbe scatenare una furia incontrollata su una zanzara se questa s\u2026 [+2547 chars]",
+      "retrievedAt": "2024-07-25 19:05:38.807546",
+      "internal_id": "d5e1d060396a10e392bc8fb4dddbb6d64069c5c199d690993040bc19ff098831",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11375,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0413\u0438\u043d\u0446\u0431\u0443\u0440\u0433 \u043f\u0440\u0438\u0437\u0432\u0430\u043b \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0432 \u0420\u0424 \"\u043a\u043e\u043d\u0441\u0435\u0440\u0432\u044b\" \u0432\u0430\u043a\u0446\u0438\u043d \u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u0439 \u043d\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438",
+      "description": "\u0412 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0440\u0430\u0431\u043e\u0442\u044b \u043f\u043e \u043f\u0440\u043e\u0444\u0438\u043b\u0430\u043a\u0442\u0438\u043a\u0435 \u0438 \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433\u0443 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438 \u043d\u043e\u0432\u043e\u0439 \u043d\u043e\u0432\u043e\u0439 \u0441\u043b\u043e\u0436\u0438\u043b\u043e\u0441\u044c \u0447\u0435\u0442\u043a\u043e\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043e \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043c\u0430\u0440\u043a\u0435\u0440\u0430\u0445, \u0434\u043e\u0431\u0430\u0432\u0438\u043b \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u041d\u0418\u0426\u042d\u041c \u0438\u043c\u0435\u043d\u0438 \u041d. \u0424. \u0413\u0430\u043c\u0430\u043b\u0435\u0438",
+      "url": "https://tass.ru/obschestvo/21443107",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21443107?u=2024-07-24T16:29:50.518364",
+      "publishedAt": "2024-07-24 16:29:50",
+      "content": ", 24 . //. \"\" 15 - 20 . () . . . \" , 2019 , , , , H5N1, . &lt;...&gt; , 15 - 20 , , 15 - 20 , 2-3 , \", - \" \". , , , , , , , . \" - 15 - 20, , \", - . \" , , , . \", - .",
+      "retrievedAt": "2024-07-25 19:05:37.672690",
+      "internal_id": "01f17f6a4ff3d61cabf26964f4a44ec3c7759e2c7951a9b396011c54398ea500",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11374,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "Scientists Show How Bird Flu Spreads Between Mammals \u2014 As H5N1 Pandemic Fears Grow",
+      "description": "Cows from Texas likely infected healthy cows in Ohio and probably spread the virus to cats, a racoon and wild birds on farms through their milk, scientists said, raising fears the virus may be changing to better infect mammals like humans.",
+      "url": "https://www.forbes.com/sites/roberthart/2024/07/24/scientists-show-how-bird-flu-spreads-between-mammals---as-h5n1-pandemic-fears-grow/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66a0fae39333ea0c02292102/0x0.jpg?format=jpg&crop=2999,1686,x0,y140,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-24 15:15:10",
+      "content": "Scientists have proven how cows have spread H5N1 bird flu across the country and infected other cows, wild birds and even mammals like cats and raccoons, according to research published in Nature Wed\u2026 [+7013 chars]",
+      "retrievedAt": "2024-07-25 19:05:37.651916",
+      "internal_id": "b84c41a61a9df2b5486c52c8ba80f227fe000bfe9722fe5aa00c5dee62ca9b83",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11380,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MICHAEL WAKIN Associated Press",
+      "title": "Floods and climate change blamed for surge in dengue in the Emirates as WHO warns of global spike",
+      "description": "Since the United Arab Emirates witnessed its heaviest recorded rainfall ever three months ago, the desert nation has issued a multitude of warnings about dengue",
+      "url": "https://abcnews.go.com/Technology/wireStory/floods-climate-change-blamed-surge-dengue-emirates-warns-112230150",
+      "urlToImage": "https://i.abcnewsfe.com/a/709db7d9-e27d-4e6b-ba7b-12cf30a97391/wirestory_4457db75f034718632c381eec73a69e9_16x9.jpg?w=1600",
+      "publishedAt": "2024-07-24 14:30:54",
+      "content": "DUBAI, United Arab Emirates -- Since the United Arab Emirates witnessed its heaviest recorded rainfall ever three months ago, the desert nation has issued a multitude of warnings about dengue which, \u2026 [+5488 chars]",
+      "retrievedAt": "2024-07-25 19:05:38.041864",
+      "internal_id": "839eecc0c0350b3b956423cfe23f730f639aef6daeded9be4b164dba1d4cab0d",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11381,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MICHAEL WAKIN Associated Press",
+      "title": "Floods and climate change blamed for surge in dengue in the Emirates as WHO warns of global spike",
+      "description": "Since the United Arab Emirates witnessed its heaviest recorded rainfall ever three months ago, the desert nation has issued a multitude of warnings about dengue",
+      "url": "https://abcnews.go.com/International/wireStory/floods-climate-change-blamed-surge-dengue-emirates-warns-112230148",
+      "urlToImage": "https://i.abcnewsfe.com/a/709db7d9-e27d-4e6b-ba7b-12cf30a97391/wirestory_4457db75f034718632c381eec73a69e9_16x9.jpg?w=1600",
+      "publishedAt": "2024-07-24 14:30:52",
+      "content": "DUBAI, United Arab Emirates -- Since the United Arab Emirates witnessed its heaviest recorded rainfall ever three months ago, the desert nation has issued a multitude of warnings about dengue which, \u2026 [+5488 chars]",
+      "retrievedAt": "2024-07-25 19:05:38.047107",
+      "internal_id": "1af556393d0e8df7ba3219eb2d08ce9690afe25277095055e49b0b50d0002d3a",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11376,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gbnews.com",
+      "author": "Adam Chapman",
+      "title": "Bird flu sparks 2024 pandemic warning",
+      "description": "Bird flu is spreading in mammals and a small number of humans have become infected. As the world pivots to a pandemic footing, GB News asks: Are countries ready?",
+      "url": "https://www.gbnews.com/health/bird-flu-symptoms-pandemic-2024-vaccine",
+      "urlToImage": "https://www.gbnews.com/media-library/woman-separated-from-child-in-lockdown.png?id=52966519&width=1200&height=600&coordinates=0%2C168%2C0%2C168",
+      "publishedAt": "2024-07-24 14:29:16",
+      "content": "For decades, highly pathogenic avian influenza H5N1 has infected birds and a small number of humans. The deadly strain of bird flu was first detected In 1996 in wild geese in southeast China. The f\u2026 [+15586 chars]",
+      "retrievedAt": "2024-07-25 19:05:37.696504",
+      "internal_id": "0daa12e2c827e61692b049a97c8f27147c4b1f7be602b2b1be25970e2d72beea",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11379,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "MICHAEL WAKIN",
+      "title": "Floods and climate change blamed for surge in dengue in the Emirates as WHO warns of global spike",
+      "description": "Since the United Arab Emirates witnessed its heaviest recorded rainfall ever three months ago, the desert nation has issued a multitude of warnings about dengue which, activists say, has surged and struck hardest among the vast populations of laborers.",
+      "url": "https://www.startribune.com/floods-and-climate-change-blamed-for-surge-in-dengue-in-the-emirates-as-who-warns-of-global-spike/600384674/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1721422093",
+      "publishedAt": "2024-07-24 14:27:03",
+      "content": "DUBAI, United Arab Emirates Since the United Arab Emirates witnessed its heaviest recorded rainfall ever three months ago, the desert nation has issued a multitude of warnings about dengue which, act\u2026 [+5519 chars]",
+      "retrievedAt": "2024-07-25 19:05:38.031480",
+      "internal_id": "066142b200678de4906b5ba34185754af56c0b34b3620fef16d576d16c733b77",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11387,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Mental Floss",
+      "author": "Marla Mackoul",
+      "title": "10 Riveting Nonfiction Books on History\u2019s Greatest Medical Mysteries",
+      "description": "These gory yet fascinating reads delve into the weirdest chapters of medical history, from the dancing plague of 1518 to the bizarre saga of Typhoid Mary.",
+      "url": "https://www.mentalfloss.com/posts/best-nonfiction-books-medical-mysteries",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2666,h_1499,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01j3dmdwaabqa4w4bwwm.jpg",
+      "publishedAt": "2024-07-24 12:03:00",
+      "content": "Without a doubt, current medical treatments are more effective and less painful than ever before. But its been a long and sometimes unusual road to get where we are now. From strange illnesses and th\u2026 [+10502 chars]",
+      "retrievedAt": "2024-07-25 19:05:39.789634",
+      "internal_id": "d72c7d7e56db0e1e90402ae05015569ed7fda7549a6c648056c31a624f22fe70",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11373,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Gnlm.com.mm",
+      "author": "Global New Light of Myanmar",
+      "title": "53 domestic dogs vaccinated against rabies in Kyaikto after rabies virus found in Thayetkone village",
+      "description": "53 domestic dogs were vaccinated against rabies on 23 July in Kyaikto township, Mon state, after rabies virus was found [\u2026]",
+      "url": "https://www.gnlm.com.mm/53-domestic-dogs-vaccinated-against-rabies-in-kyaikto-after-rabies-virus-found-in-thayetkone-village/",
+      "urlToImage": "https://cdn.myanmarwebdesigner.com/file/client-cdn/gnlm/wp-content/uploads/2024/07/photo_2024-07-24_15-38-50-2.jpg",
+      "publishedAt": "2024-07-24 09:15:55",
+      "content": "53 domestic dogs were vaccinated against rabies on 23 July in Kyaikto township, Mon state, after rabies virus was found in Thayetkone village, according to the Township Health Department, the Ministr\u2026 [+981 chars]",
+      "retrievedAt": "2024-07-25 19:05:37.035529",
+      "internal_id": "18ef572c3783d3d5027f646f34c364fb77b39ae5c83b3f0c6b3a027ed59e192f",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11383,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Fortalecer a produ\u00e7\u00e3o de diagn\u00f3sticos: Uma oportunidade indispens\u00e1vel para o Brasil",
+      "description": "O aumento dos casos de dengue \u00e9 o alerta mais recente que destaca a necessidade urgente de inova\u00e7\u00e3o e acesso a tecnologias de sa\u00fade para o combate a epidemias",
+      "url": "https://valor.globo.com/opiniao/coluna/fortalecer-a-producao-de-diagnosticos-uma-oportunidade-indispensavel-para-o-brasil.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/PgPgyM-f2TDvuF3iBWE25i2li0E=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/B/L/vSLQ6LSYazsUgEdYZM8A/covid-gaaf13161e-1920.jpg",
+      "publishedAt": "2024-07-24 09:00:56",
+      "content": "H\u00e1 cerca de um m\u00eas, o Centro de Controle e Preven\u00e7\u00e3o de Doen\u00e7as dos EUA emitiu um alerta para dengue \u00e0 medida que os casos aumentavam acima dos n\u00edveis normais. Isso reflete um padr\u00e3o nas Am\u00e9ricas. At\u2026 [+303 chars]",
+      "retrievedAt": "2024-07-25 19:05:38.107028",
+      "internal_id": "ef10d3b8b53ac76309e389b3f7137703ab539798c0d2cdded416830c549f1404",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11377,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "13 dengue deaths in first half of 2024, more than double last year's total",
+      "description": "SINGAPORE: A total of 13 people died from dengue in the first half of 2024, more than double the total for last year. Figures from the National Environment Agency's (NEA) latest dengue surveillance data, published on Wednesday (Jul 24), showed that six peopl\u2026",
+      "url": "https://www.channelnewsasia.com/singapore/dengue-deaths-first-half-2024-double-last-year-total-4501351",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--7WNgxmum--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/03/31/dengue_fever_mosquito.jpg?itok=RuLa1HEu",
+      "publishedAt": "2024-07-24 07:44:28",
+      "content": "SINGAPORE: A total of 13 people died from dengue in the first half of 2024, more than double the total for last year. Figures from the National Environment Agency's (NEA) latest dengue surveillance\u2026 [+247 chars]",
+      "retrievedAt": "2024-07-25 19:05:38.005115",
+      "internal_id": "7e15e738c1ae90d73e0044cb1310790d6f35d6f722f430bcdc17fb802e93d104",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11386,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": null,
+      "title": "Tela\u015fland\u0131ran yeni salg\u0131n! H\u0131zla yay\u0131l\u0131yor: Y\u00fczlerce \u00f6l\u00fc, binlerce vaka var",
+      "description": "Kongo Demokratik Cumhuriyeti\u2019nde (KDC) h\u0131zla yay\u0131lan M \u00e7i\u00e7e\u011fi (Mpox) salg\u0131n\u0131n\u0131n b\u00f6lgesel yay\u0131lma riski oldu\u011fu duyuruldu.... - Sayfa 1",
+      "url": "https://www.haber7.com/foto-galeri/86832-telaslandiran-yeni-salgin-hizla-yayiliyor-yuzlerce-olu-binlerce-vaka-var",
+      "urlToImage": "https://i20.haber7.net/resize/1280x720//fotogaleri/haber7/album/2024/30/CZL4p_1721805223_4511_w719_h401.jpg",
+      "publishedAt": "2024-07-24 07:11:00",
+      "content": "Kongo Demokratik Cumhuriyeti (KDC) H\u00fck\u00fcmet S\u00f6zc\u00fcs\u00fc Patrick Muyaya, ylbandan bu yana M \u00e7i\u00e7ei salgn sebebiyle 450 kiinin hayatn kaybettiini, 11 bin 166 kiide M \u00e7i\u00e7ei tespit edildiini a\u00e7klad.",
+      "retrievedAt": "2024-07-25 19:05:39.669795",
+      "internal_id": "ca09a710013ebf320a7146ee58fceec5da46bdaa10bd3331507856b4e440f1e8",
+      "publishedAtLabel": "Jul 24"
+    },
     {
       "id": 11366,
       "query": [
@@ -24965,60 +25236,6 @@
       "content": "Malaria is one of the worlds deadliest diseases. Across Africa, it kills nearly half a million children younger than 5 each year. A new vaccine, only the second of its kind, holds the promise of savi\u2026 [+176 chars]",
       "retrievedAt": "2024-06-11 07:05:51.137587",
       "internal_id": "f4315756e3e4c6c36890f03a069abb6d7f34c3bf2e3b69a301eb1ef851c629ca",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9980,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "\u092a\u094d\u0930\u093f\u092f\u0947\u0936 \u092e\u093f\u0936\u094d\u0930",
-      "title": "H5N2 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0907\u0902\u0938\u093e\u0928 \u0915\u0940 \u092e\u094c\u0924, \u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a",
-      "description": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 59 \u0935\u0930\u094d\u0937\u0940\u092f \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u0938\u092c-\u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092e\u0943\u0924\u094d\u092f\u0941 \u0939\u0941\u0908 \u0939\u0948\u0964 \u0907\u0938\u0947 H5N2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0947 \u0915\u093f\u0938\u0940 \u092e\u0928\u0941\u0937\u094d\u092f \u0915\u094b \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0928\u0947 \u0915\u093e \u092a\u0939\u0932\u093e \u091c\u094d\u091e\u093e\u0924 \u092e\u093e\u092e\u0932\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 1996 \u0938\u0947 H5N1 \u0928\u093e\u092e\u0915 \u090f\u0915 \u0905\u0928\u094d\u092f \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0915\u0947 \u0932\u0917\u092d\u0917 900 \u092e\u093e\u0928\u0935 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902, \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u0906\u0927\u0947 \u0938\u0947\u2026",
-      "url": "https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-39062,msid-110853100/navbharat-times.jpg",
-      "publishedAt": "2024-06-09 18:01:24",
-      "content": ": 59 H5N2 1996 H5N1 900 WHO H5 , - ? , 59 (WHO) , , , , \" , (52) \" 51 52 - , , \" , \" '' \" \" 51 : , Adv: 6-16 , 65% 3.0 - , LiveIND vs PAK: , 120 <\u2026 [+223 chars]",
-      "retrievedAt": "2024-06-11 07:05:50.004275",
-      "internal_id": "b4d989dd1da56f6bc0439c6bef6423c07b5918dabfc8d7753194ed1ae156fcb6",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9986,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.pl",
-      "author": "Anna Kurek",
-      "title": "Naukowcy szykuj\u0105 now\u0105 szczepionk\u0119. Ma zapobiec kolejnej pandemii",
-      "description": "\u015awiat zaczyna si\u0119 powa\u017cnie niepokoi\u0107 ptasi\u0105 gryp\u0105. Istnieje niebezpiecze\u0144stwo, \u017ce mutuj\u0105cy wirus, a szczeg\u00f3lnie typy H5N1, H7N9 i H9N2, mog\u0105 zagrozi\u0107 ludziom i przynie\u015b\u0107 kolejn\u0105 pandemi\u0119. Kilka laboratori\u00f3w na \u015bwiecie pracuje ju\u017c nad szczepionkami, kt\u00f3re mia\u0142\u2026",
-      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html",
-      "urlToImage": "https://bi.im-g.pl/im/40/9b/1d/z31044160IER,Szczepionka-na-ptasia-grype.jpg",
-      "publishedAt": "2024-06-09 10:25:00",
-      "content": "Ostatnie doniesienia na temat ptasiej grypy s bardzo niepokojce. Znaleziono dowody na pierwsze zakaenia wr\u00f3d ludzi. Oznacza to, e istnieje niebezpieczestwo, e mutujcy wirus stanie si zdolny do masowe\u2026 [+2508 chars]",
-      "retrievedAt": "2024-06-11 07:05:50.031940",
-      "internal_id": "a3f3bac77995c0bd9cacca967c87d17581f6d56f2f2ad172156b1c423478a475",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9974,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "2chblog.jp",
-      "author": "ko_jo",
-      "title": "\u3010\u60b2\u5831\u3011\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u3001\u5973\u5150\u304c\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306b\u611f\u67d3\u3057\u305f\u3068\u767a\u8868",
-      "description": "1\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:14:10.36ID:eMXCByJm0 8\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:17:52.63ID:vU7IJfVJ0.net \u9ce5\u30a4\u30f3\u30d5\u30eb\u6b7b\u306c\u53ef\u80fd\u6027\u3069\u306e\u304f\u3089\u3044\uff1f\uff1f 22\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:22:25.45ID:IpCz3VXT0.net >>8 H5N1\u4e9c\u578b\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb...",
-      "url": "https://news.2chblog.jp/archives/52044998.html",
-      "urlToImage": null,
-      "publishedAt": "2024-06-09 09:18:06",
-      "content": "1 2024/06/09() 09:14:10.36ID:eMXCByJm0 8 2024/06/09() 09:17:52.63ID:vU7IJfVJ0.net 22 2024/06/09() 09:22:25.45ID:IpCz3VXT0.net 77 2024/06/09() 09:41:46.02ID:AdyMwMaM0.net 208 2024/06/09() 10:46:\u2026 [+998 chars]",
-      "retrievedAt": "2024-06-10 19:05:35.748105",
-      "internal_id": "856e0d9de9b997cd78131c7245c3b234a6d641efeff8c1e801851545f67854bb",
       "publishedAtLabel": "Jun 9"
     }
   ]
