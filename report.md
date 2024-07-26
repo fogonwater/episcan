@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2024-07-25 19:05
-- **Most recent article:** 2024-07-24 17:51:55
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-07-26 07:05
+- **Most recent article:** 2024-07-25 07:00:50
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 32 | 522 |
-| h5n1 | 48 | 29 | 36 | 59 | 52 | 62 | 13 | 299 |
+| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 41 | 531 |
+| h5n1 | 51 | 29 | 36 | 59 | 52 | 62 | 20 | 309 |
 | mpox | 26 | 14 | 46 | 21 | 26 | 17 | 6 | 156 |
-| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 10 | 151 |
+| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 11 | 152 |
 | zika | 12 | 3 | 17 | 20 | 12 | 6 | 6 | 76 |
-| measles | 6 | 11 | 8 | 9 | 12 | 19 | 9 | 74 |
+| measles | 6 | 11 | 8 | 9 | 12 | 19 | 10 | 75 |
 | chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 6 | 64 |
 | rabies | 2 | 5 | 8 | 4 | 2 | 17 | 6 | 44 |
-| pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 4 | 32 |
+| pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 5 | 33 |
 | hpai | 4 | 4 | 3 | 3 | 5 | 6 | 1 | 26 |
 | typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 2 | 19 |
 | meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 1 | 17 |
@@ -74,6 +74,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (pertussis)
 
+- [Sweetwater Public Health reports 2 recent cases of whooping cough](https://wyo4news.com/news/sweetwater-public-health-reports-2-recent-cases-of-whooping-cough/) (Wyo4news.com)
+
 - [Whooping cough on the rise across Dane County](https://www.wkow.com/news/health/whooping-cough-on-the-rise-across-dane-county/article_6cf7b5fa-4906-11ef-b8c2-4f35f4f3dfb3.html) (WKOW)
 
 - [גל שעלת: התחלואה התפשטה מירושלים לעוד אזורים בארץ](https://www.ynet.co.il/health/article/bywtwftoa) (Ynet)
@@ -102,6 +104,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (measles)
 
+- [Marion County reports rising cases of measles throughout summer](https://www.kgw.com/article/news/health/marion-county-measles-adult-children-unvaccinated/283-74fc7017-1d16-4da8-9d24-17e04284073b) (KGW.com)
+
 - [UN agencies urge Bosnia to vaccinate children after two die in measles outbreak](https://www.euractiv.com/section/health-consumers/news/un-agencies-urge-bosnia-to-vaccinate-children-after-two-die-in-measles-outbreak/) (EURACTIV)
 
 - [Glycan-shielded homodimer structure and dynamical features of the canine distemper virus hemagglutinin relevant for viral entry and efficient vaccination](https://elifesciences.org/articles/88929) (Elifesciences.org)
@@ -121,6 +125,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (malaria)
+
+- [The Battle to Beat Malaria 2024 1080p HDTV H264-DARKFLiX](https://rlsbb.cc/the-battle-to-beat-malaria-2024-1080p-hdtv-h264-darkflix/) (Rlsbb.cc)
 
 - [Se avessi la possibilità di eliminare tutte le zanzare del mondo con facilità, lo faresti?](https://tech.everyeye.it/notizie/possibilita-eliminare-zanzare-mondo-facilita-faresti-731872.html) (Everyeye.it)
 
@@ -152,6 +158,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (h5n1)
 
+- [Vogelgrippevirus springt von Kuh auf Katze](https://science.orf.at/stories/3226059/) (Science.orf.at)
+
+- [Weiterer Beweis für Artensprung: Vogelgrippevirus geht von Kühen auf Katzen über](https://www.n-tv.de/wissen/Ubertragung-zwischen-den-Arten-Auch-Katzen-und-Waschbaeren-werden-von-Kuehen-mit-H5N1-angesteckt-article25113015.html) (N-tv.de)
+
+- [Vogelgrippe: Studie: Vogelgrippevirus springt von Kuh auf Katze](https://www.tagesspiegel.de/wissen/vogelgrippe-studie-vogelgrippevirus-springt-von-kuh-auf-katze-12082025.html) (Der Tagesspiegel)
+
+- [Vogelgrippe: Studie: Vogelgrippevirus springt von Kuh auf Katze](https://www.zeit.de/news/2024-07/25/studie-vogelgrippevirus-springt-von-kuh-auf-katze) (Die Zeit)
+
+- [Vogelgrippe: Studie: Vogelgrippevirus springt von Kuh auf Katze](https://www.stern.de/panorama/wissen/vogelgrippe--studie--vogelgrippevirus-springt-von-kuh-auf-katze-34912228.html) (STERN.de)
+
+- [Nuovi casi di influenza aviaria riportati in Colorado: non molla...](https://tech.everyeye.it/notizie/nuovi-casi-influenza-aviaria-riportati-colorado-non-molla-730618.html) (Everyeye.it)
+
+- [Using AI, bird flu study shows greater antibody evasion in newer H5N1 strains](https://phys.org/news/2024-07-ai-bird-flu-greater-antibody.html) (Phys.Org)
+
 - [Гинцбург призвал создать в РФ "консервы" вакцин на случай новой пандемии](https://tass.ru/obschestvo/21443107) (Tass.ru)
 
 - [Scientists Show How Bird Flu Spreads Between Mammals — As H5N1 Pandemic Fears Grow](https://www.forbes.com/sites/roberthart/2024/07/24/scientists-show-how-bird-flu-spreads-between-mammals---as-h5n1-pandemic-fears-grow/) (Forbes)
@@ -180,11 +200,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (dengue)
 
+- [Intensified Fogging Operations Launched in Guwahati to Combat Dengue Spread](https://thehillstimes.in/guwahati/intensified-fogging-operations-launched-in-guwahati-to-combat-dengue-spread) (Thehillstimes.in)
+
+- [کنترل انتشار ویروس تب دنگی به‌ علت شمار فراوان موارد بدون علامت دشوار است](https://www.isna.ir/news/1403050302220/کنترل-انتشار-ویروس-تب-دنگی-به-علت-شمار-فراوان-موارد-بدون-علامت) (Isna.ir)
+
+- [Shaping a dengue-free future for the next generation](https://www.channelnewsasia.com/advertorial/shaping-dengue-free-future-next-generation-4467326) (CNA)
+
+- [Dengue: 2 hosps get notices over death error](https://timesofindia.indiatimes.com/city/bengaluru/private-hospitals-issued-notices-for-misreporting-dengue-deaths/articleshow/111999988.cms) (The Times of India)
+
+- [Zé Neto, dupla com Cristiano, cancela shows após diagnóstico de pneumonia](https://www.terra.com.br/diversao/gente/ze-neto-dupla-com-cristiano-cancela-shows-apos-diagnostico-de-pneumonia,bfca5435af6bb7ec290db2f9a2875fa4ho25nyhl.html) (Terra.com.br)
+
 - [Dengue surges in UAE after record-breaking rainfall leaves ideal conditions for mosquitoes](https://www.foxnews.com/health/dengue-surges-uae-after-record-breaking-rainfall-makes-homes-mosquitoes) (Fox News)
 
 - [Porto Alegre registra mais de 10 mil casos de dengue](https://www.terra.com.br/noticias/porto-alegre-registra-mais-de-10-mil-casos-de-dengue,46c15739cbba23fe7811b9acc4b5b310f7bwv31d.html) (Terra.com.br)
 
 - [El mosquito del dengue y zika llegó a España: en qué zonas ya se encuentra](https://www.mundodeportivo.com/vidae/salud/20240724/1002286836/mosquito-contagia-dengue-zika-llego-espana-como-tratar-enfermedades.html) (Mundodeportivo.com)
+
+- [Se avessi la possibilità di eliminare tutte le zanzare del mondo con facilità, lo faresti?](https://tech.everyeye.it/notizie/possibilita-eliminare-zanzare-mondo-facilita-faresti-731872.html) (Everyeye.it)
 
 - [Floods and climate change blamed for surge in dengue in the Emirates as WHO warns of global spike](https://abcnews.go.com/Technology/wireStory/floods-climate-change-blamed-surge-dengue-emirates-warns-112230150) (ABC News)
 
@@ -197,6 +229,8 @@ Source: [News API](https://newsapi.org/)
 - [13 dengue deaths in first half of 2024, more than double last year's total](https://www.channelnewsasia.com/singapore/dengue-deaths-first-half-2024-double-last-year-total-4501351) (CNA)
 
 - [Gurgaon records 17 dengue cases in 6 weeks, 5 areas emerge as hotspots](https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-records-17-dengue-cases-in-6-weeks-5-areas-emerge-as-hotspots/articleshow/111973811.cms) (The Times of India)
+
+- [Health Ministry allocates Rs 80 million to stem dengue outbreak at local levels](https://english.khabarhub.com/2024/24/366826/) (Khabarhub.com)
 
 - [Surge in dengue cases in Bengal, health dept says situation ‘not alarming’](https://thehillstimes.in/national/surge-in-dengue-cases-in-bengal-health-dept-says-situation-not-alarming) (Thehillstimes.in)
 
@@ -214,7 +248,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Fallece por dengue hemorrágico una niña de 4 años en Matamoros](https://www.jornada.com.mx/2024/07/23/estados/030n2est) (Jornada.com.mx)
 
+- [Over 10,000 dengue cases so far in 2024, exceeding total number of cases in 2023](https://www.straitstimes.com/singapore/health/over-10000-dengue-cases-so-far-in-2024-exceeding-total-number-of-cases-in-2023) (The Straits Times)
+
 - [Dengue outbreak spreads to Nepal’s 73 districts](https://english.khabarhub.com/2024/23/366680/) (Khabarhub.com)
+
+- [Preparedness Measures For Dengue](https://statetimes.in/preparedness-measures-for-dengue/) (Statetimes.in)
 
 - [Create dengue reels, win rewards: BBMP](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-dengue-warrior-reels-contest-win-cash-prizes/articleshow/111939604.cms) (The Times of India)
 
@@ -2963,6 +3001,12 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
 
 - [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
+
+- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
+
+- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
+
+- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 ## 24-24 (dengue)
 

@@ -1,8 +1,278 @@
 {
-  "last_updated": "2024-07-25 19:05",
-  "count_articles_total": 1396,
-  "count_articles_new": 15,
+  "last_updated": "2024-07-26 07:05",
+  "count_articles_total": 1417,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 11394,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Vogelgrippevirus springt von Kuh auf Katze",
+      "description": "Das Vogelgrippevirus H5N1 wird Forschenden zufolge h\u00f6chstwahrscheinlich von K\u00fchen auch auf Katzen und Waschb\u00e4ren \u00fcbertragen. Sie geben mit ihrer nun im Fachjournal \u201eNature\u201c erschienen Studie weitere Belege f\u00fcr die \u00dcbertragung der Viren von einer S\u00e4ugetierart \u2026",
+      "url": "https://science.orf.at/stories/3226059/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Ftube%2Fscience%2Fimages%2Fog-fallback.jpg%3Fs%3D9468ebfda8d575e29237d4fe069891178635d8e1",
+      "publishedAt": "2024-07-25 07:00:50",
+      "content": "Dies ist eines der ersten Male, dass wir Beweise f\u00fcr eine effiziente und anhaltende \u00dcbertragung der hochpathogenen Vogelgrippe H5N1 von S\u00e4ugetier zu S\u00e4ugetier sehen, so Diego Diel von der Cornell Uni\u2026 [+3317 chars]",
+      "retrievedAt": "2024-07-26 07:05:53.800850",
+      "internal_id": "1ceda450758f21f896ada199c71027a43221f5b7e7266f5dfde9b5d440f4e34f",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11395,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Weiterer Beweis f\u00fcr Artensprung: Vogelgrippevirus geht von K\u00fchen auf Katzen \u00fcber",
+      "description": "Seit Monaten breitet sich das Vogelgrippevirus in Kuhherden und H\u00fchnerfarmen in den USA aus. Nun testet ein Forschungsteam andere S\u00e4ugetiere, die auf diesen H\u00f6fen leben und stellt fest, dass auch Katzen und Waschb\u00e4ren mit H5N1 infiziert sind.",
+      "url": "https://www.n-tv.de/wissen/Ubertragung-zwischen-den-Arten-Auch-Katzen-und-Waschbaeren-werden-von-Kuehen-mit-H5N1-angesteckt-article25113015.html",
+      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop25112953/5791327749-cImg_16_9-w1200/Vogelgrippe-Symbolbild-.jpg",
+      "publishedAt": "2024-07-25 06:44:28",
+      "content": "Seit Monaten breitet sich das Vogelgrippevirus in Kuhherden und H\u00fchnerfarmen in den USA aus. Nun testet ein Forschungsteam andere S\u00e4ugetiere, die auf diesen H\u00f6fen leben und stellt fest, dass auch Kat\u2026 [+4012 chars]",
+      "retrievedAt": "2024-07-26 07:05:53.817959",
+      "internal_id": "5ed451d62a124660b7e97997ca2ecf9451cc26ee69550744641c1e2e88b7cf48",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Intensified Fogging Operations Launched in Guwahati to Combat Dengue Spread",
+      "description": "HT Digital July 25, Thursday: In response to the rising cases of dengue, Guwahati municipal authorities have intensified fogging operations across the city to combat the spread of the disease. The comprehensive effort aims to eliminate mosquito breeding groun\u2026",
+      "url": "https://thehillstimes.in/guwahati/intensified-fogging-operations-launched-in-guwahati-to-combat-dengue-spread",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2024/07/1763421.jpg",
+      "publishedAt": "2024-07-25 06:33:36",
+      "content": "HT Digital July 25, Thursday: In response to the rising cases of dengue, Guwahati municipal authorities have intensified fogging operations across the city to combat the spread of the disease. The c\u2026 [+3134 chars]",
+      "retrievedAt": "2024-07-26 07:05:54.234014",
+      "internal_id": "46ce389b9a3d54f6f35c02fc6e90bfcc4c9d319fc73b16d89db74d83ac6a3922",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11392,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Vogelgrippe: Studie: Vogelgrippevirus springt von Kuh auf Katze",
+      "description": "Das Vogelgrippevirus verbreitet sich in den USA unter Rindern. Von dort soll es nun auf weitere S\u00e4ugetiere gelangt sein.",
+      "url": "https://www.tagesspiegel.de/wissen/vogelgrippe-studie-vogelgrippevirus-springt-von-kuh-auf-katze-12082025.html",
+      "urlToImage": "https://www.tagesspiegel.de/wissen/images/jungbulle-und-katze/alternates/BASE_16_9_W1400/jungbulle-und-katze.jpeg",
+      "publishedAt": "2024-07-25 05:26:54",
+      "content": "Das Vogelgrippevirus H5N1 wird Forschern zufolge h\u00f6chstwahrscheinlich von K\u00fchen auch auf Katzen und Waschb\u00e4ren \u00fcbertragen. Sie geben mit ihrer Studie weitere Belege f\u00fcr die \u00dcbertragung der Viren von \u2026 [+3861 chars]",
+      "retrievedAt": "2024-07-26 07:05:53.790209",
+      "internal_id": "24f5e84c2d923bdeeabc282304ce3fd7f55d86e5cec9619e4465c03b640d1b40",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11390,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Vogelgrippe: Studie: Vogelgrippevirus springt von Kuh auf Katze",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eVogelgrippe\u201c. Lesen Sie jetzt \u201eStudie: Vogelgrippevirus springt von Kuh auf Katze\u201c.",
+      "url": "https://www.zeit.de/news/2024-07/25/studie-vogelgrippevirus-springt-von-kuh-auf-katze",
+      "urlToImage": "https://img.zeit.de/news/2024-07/25/studie-vogelgrippevirus-springt-von-kuh-auf-katze-image-group/wide__1300x731",
+      "publishedAt": "2024-07-25 05:25:36",
+      "content": "Das Vogelgrippevirus H5N1 wird Forschern zufolge h\u00f6chstwahrscheinlich von K\u00fchen auch auf Katzen und Waschb\u00e4ren \u00fcbertragen. Sie geben mit ihrer Studie weitere Belege f\u00fcr die \u00dcbertragung der Viren von \u2026 [+4666 chars]",
+      "retrievedAt": "2024-07-26 07:05:53.767302",
+      "internal_id": "529a5cb23213a85cc55057451aa3e880dc013477922487bb4af5aad713f942d8",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11393,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Vogelgrippe: Studie: Vogelgrippevirus springt von Kuh auf Katze",
+      "description": "Ithaca - Das Vogelgrippevirus H5N1 wird Forschern zufolge h\u00f6chstwahrscheinlich von K\u00fchen auch auf Katzen und Waschb\u00e4ren \u00fcbertragen. Sie geben mit ihrer",
+      "url": "https://www.stern.de/panorama/wissen/vogelgrippe--studie--vogelgrippevirus-springt-von-kuh-auf-katze-34912228.html",
+      "urlToImage": "https://image.stern.de/34912230/t/Tl/v1/w1440/r1.7778/-/25--cjscjvtjvjv30axw800h600jpeg---ec39a7e44cbd9e03.jpg",
+      "publishedAt": "2024-07-25 05:25:36",
+      "content": "Das Vogelgrippevirus verbreitet sich in den USA unter Rindern. Von dort soll es nun auf weitere S\u00e4ugetiere gelangt sein. Das Vogelgrippevirus H5N1 wird Forschern zufolge h\u00f6chstwahrscheinlich von K\u00fch\u2026 [+3904 chars]",
+      "retrievedAt": "2024-07-26 07:05:53.795852",
+      "internal_id": "8cb973a8e6c6c91599bf770809ba7ed9d49f0c4f8864de3fd0094a0b720359f4",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11399,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
+      "title": "\u06a9\u0646\u062a\u0631\u0644 \u0627\u0646\u062a\u0634\u0627\u0631 \u0648\u06cc\u0631\u0648\u0633 \u062a\u0628 \u062f\u0646\u06af\u06cc \u0628\u0647\u200c \u0639\u0644\u062a \u0634\u0645\u0627\u0631 \u0641\u0631\u0627\u0648\u0627\u0646 \u0645\u0648\u0627\u0631\u062f \u0628\u062f\u0648\u0646 \u0639\u0644\u0627\u0645\u062a \u062f\u0634\u0648\u0627\u0631 \u0627\u0633\u062a",
+      "description": "\u0639\u0636\u0648 \u0647\u06cc\u0623\u062a \u0639\u0644\u0645\u06cc \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647 \u0645\u0631\u062c\u0639 \u06a9\u0634\u0648\u0631\u06cc \u0627\u0646\u0633\u062a\u06cc\u062a\u0648 \u067e\u0627\u0633\u062a\u0648\u0631 \u0627\u06cc\u0631\u0627\u0646\u060c \u0628\u0627 \u0628\u06cc\u0627\u0646 \u0627\u06cc\u0646\u06a9\u0647 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062f\u0646\u06af\u06cc \u062f\u0631 \u0628\u06cc\u0634 \u0627\u0632 \u06f1\u06f0\u06f0 \u06a9\u0634\u0648\u0631 \u062c\u0647\u0627\u0646 \u0627\u0646\u062f\u0645\u06cc\u06a9 \u0627\u0633\u062a\u060c \u06af\u0641\u062a: \u062f\u0631 \u0627\u06a9\u062b\u0631 \u0645\u0648\u0627\u0631\u062f \u0639\u0641\u0648\u0646\u062a \u0648 \u0628\u0647\u200c\u0639\u0628\u0627\u0631\u062a\u06cc \u06f7\u06f5 \u062a\u0627 \u06f8\u06f0 \u062f\u0631\u0635\u062f\u060c \u0628\u06cc\u0645\u0627\u0631\u06cc \u0628\u062f\u0648\u0646 \u0639\u0644\u0627\u0645\u062a \u0628\u0627\u0644\u06cc\u0646\u06cc \u0627\u0633\u062a\u061b \u0627\u0632 \u0627\u06cc\u0646\u200c\u0631\u0648 \u06a9\u0646\u062a\u0631\u0644 \u0627\u0646\u062a\u0634\u0627\u0631 \u0648\u06cc\u0631\u0648\u0633 \u0639\u0627\u0645\u0644 \u062a\u0628 \u062f\u0646\u06af\u06cc \u0628\u0647\u200c\u0639\u0644\u062a \u0634\u0645\u0627\u0631 \u0641\u0631\u0627\u0648\u2026",
+      "url": "https://www.isna.ir/news/1403050302220/\u06a9\u0646\u062a\u0631\u0644-\u0627\u0646\u062a\u0634\u0627\u0631-\u0648\u06cc\u0631\u0648\u0633-\u062a\u0628-\u062f\u0646\u06af\u06cc-\u0628\u0647-\u0639\u0644\u062a-\u0634\u0645\u0627\u0631-\u0641\u0631\u0627\u0648\u0627\u0646-\u0645\u0648\u0627\u0631\u062f-\u0628\u062f\u0648\u0646-\u0639\u0644\u0627\u0645\u062a",
+      "urlToImage": "https://cdn.isna.ir/d/2024/06/18/4/63071922.jpg?ts=1718711720616",
+      "publishedAt": "2024-07-25 04:45:00",
+      "content": ": . : . . : ( ) . * (Dengue virus) : RNA (Flaviviridae) (Flavivirus) . : (Lineage) . * ( homotypic) : . : . : Heterotypic antibody dependent enhancement (ADE) . * : ( ) . \u2026 [+88 chars]",
+      "retrievedAt": "2024-07-26 07:05:54.217106",
+      "internal_id": "31605b8e5ff79b88b579d02f052f8a8e76be1c0c3590f66b64e766268224e5ee",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11398,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Shaping a dengue-free future for the next generation",
+      "description": "Kao Corporation leverages strategic collaborations and innovative products to mitigate the impact of this dangerous mosquito-borne disease.",
+      "url": "https://www.channelnewsasia.com/advertorial/shaping-dengue-free-future-next-generation-4467326",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--FAkpVscd--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/07/09/bstudio_kao_guard_our_future_outreach_programme_in_school_2.jpg?itok=AMWLkqT2",
+      "publishedAt": "2024-07-25 00:28:49",
+      "content": "The Japanese word kirei, embodying the concepts of health, beauty and cleanliness, has been associated with Kao Corporation for decades. Though some may think it only applies to the companys personal\u2026 [+1821 chars]",
+      "retrievedAt": "2024-07-26 07:05:54.203703",
+      "internal_id": "8712bfa426d12576d0b283d769b1deda91c4e35e0822a4ab4c72979f65bf59bf",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11405,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Rlsbb.cc",
+      "author": "saamaan1@yahoo.com (Master), Master",
+      "title": "The Battle to Beat Malaria 2024 1080p HDTV H264-DARKFLiX",
+      "description": "Scientists and researchers race to complete a vaccine that could eradicate malaria, a disease that still ravages millions of people every year. Links: HOMEPAGE \u2013 TVGUiDEThe.Battle.To.Beat.Malaria.2024.1080p.HDTV.H264-DARKFLiXMKV | AAC | 1.49GBNFO - Subtitles \u2026",
+      "url": "https://rlsbb.cc/the-battle-to-beat-malaria-2024-1080p-hdtv-h264-darkflix/",
+      "urlToImage": null,
+      "publishedAt": "2024-07-25 00:21:05",
+      "content": "Scientists and researchers race to complete a vaccine that could eradicate malaria, a disease that still ravages millions of people every year. Links:HOMEPAGE TVGUiDE The.Battle.To.Beat.Malaria.202\u2026 [+356 chars]",
+      "retrievedAt": "2024-07-26 07:05:54.835221",
+      "internal_id": "9371c3afaaf5e5b136945661a239d150058adb115fdf4c8f3b2a4c82bc24138d",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11389,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KGW.com",
+      "author": "Alex Jensen",
+      "title": "Marion County reports rising cases of measles throughout summer",
+      "description": "There is no known connection between any of the confirmed cases and no known public exposures, officials said.",
+      "url": "https://www.kgw.com/article/news/health/marion-county-measles-adult-children-unvaccinated/283-74fc7017-1d16-4da8-9d24-17e04284073b",
+      "urlToImage": "https://media.kgw.com/assets/KGW/images/f50cfa5d-27e8-47ba-9a1f-ef45873b9f67/20240617T194223/f50cfa5d-27e8-47ba-9a1f-ef45873b9f67_1140x641.jpg",
+      "publishedAt": "2024-07-25 00:11:40",
+      "content": "PORTLAND, Oregon Marion County reported its 8th measles case since the beginning of June on Wednesday. Officials said another unvaccinated child was diagnosed on Tuesday, along with a presumptive m\u2026 [+1484 chars]",
+      "retrievedAt": "2024-07-26 07:05:53.278163",
+      "internal_id": "0da25ce7e08e555580ab36b5b1b06eff781e24877aa4fcdc4aff31bd8be2401f",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Dengue: 2 hosps get notices over death error",
+      "description": "BBMP issues notices to two private hospitals for falsely reporting dengue-related deaths. Dengue outbreak updates and preventive measures in Bengaluru and other districts.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/private-hospitals-issued-notices-for-misreporting-dengue-deaths/articleshow/111999988.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-24 23:10:41",
+      "content": "10 evening snacks made with oats",
+      "retrievedAt": "2024-07-26 07:05:54.254456",
+      "internal_id": "73cc07ea2fee08019930068ee161fa06300bc62075401415e44f7d8cb3e1c7dc",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11388,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Wyo4news.com",
+      "author": "Michael Berry",
+      "title": "Sweetwater Public Health reports 2 recent cases of whooping cough",
+      "description": "July 24, 2024 \u2014 Wyo4News Press Release from Sweetwater County Public Health The last time pertussis, commonly known as whooping cough, was seen in Sweetwater County was a single case in 2019. This summer, there have been two confirmed cases of pertussis in lo\u2026",
+      "url": "https://wyo4news.com/news/sweetwater-public-health-reports-2-recent-cases-of-whooping-cough/",
+      "urlToImage": "https://wyo4news.com/wp-content/uploads/2024/07/Sweetwater-County-Public-Health-Logo.jpg",
+      "publishedAt": "2024-07-24 21:28:53",
+      "content": "July 24, 2024 \u2014 Wyo4News Press Release from Sweetwater County Public Health The last time pertussis, commonly known as whooping cough, was seen in Sweetwater County was a single case in 2019. This \u2026 [+2011 chars]",
+      "retrievedAt": "2024-07-26 07:05:52.744294",
+      "internal_id": "9a4cb65a579a886bbbf5a8ff86ed4e82d66884301e6352961661d473b7f42922",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11396,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Rocco Auriemma",
+      "title": "Nuovi casi di influenza aviaria riportati in Colorado: non molla...",
+      "description": "Un focolaio di influenza aviaria H5N1 in Colorado ha infettato lavoratori umani, sollevando preoccupazioni per la salute pubblica e l'agricoltura.Recentemente, un focolaio di influenza aviaria H5N1 ha sollevato preoccupazioni significative negli Stati Uniti. \u2026",
+      "url": "https://tech.everyeye.it/notizie/nuovi-casi-influenza-aviaria-riportati-colorado-non-molla-730618.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/nuovi-casi-influenza-aviaria-riportati-colorado-non-molla-v5-730618.jpg",
+      "publishedAt": "2024-07-24 20:42:00",
+      "content": "Recentemente, un focolaio di influenza aviaria H5N1 ha sollevato preoccupazioni significative negli Stati Uniti. Il virus, noto per la sua alta infettivit\u00e0 e potenziale pandemico, sembra essersi diff\u2026 [+3234 chars]",
+      "retrievedAt": "2024-07-26 07:05:53.827507",
+      "internal_id": "8f27181ac2e1ce04ffb85f98fb2033c6af397abc1747c17981a4fcc2bc4532a9",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11397,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Z\u00e9 Neto, dupla com Cristiano, cancela shows ap\u00f3s diagn\u00f3stico de pneumonia",
+      "description": "Sertanejo perder\u00e1 novas datas de shows ap\u00f3s quadro de pneumonia bacteriana. Infec\u00e7\u00e3o vem meses depois de perder outras datas da turn\u00ea ao ser infectado pelo v\u00edrus da dengue",
+      "url": "https://www.terra.com.br/diversao/gente/ze-neto-dupla-com-cristiano-cancela-shows-apos-diagnostico-de-pneumonia,bfca5435af6bb7ec290db2f9a2875fa4ho25nyhl.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/07/24/1324795133-bfybxbtwufct3julix3e6qrktq.jpg",
+      "publishedAt": "2024-07-24 20:12:25",
+      "content": "Z\u00e9 Neto, da dupla sertaneja com Cristiano, cancelou shows no Paran\u00e1, Minas Gerais e Goi\u00e1s ap\u00f3s o an\u00fancio de um diagn\u00f3stico de pneumonia nesta ter\u00e7a, 23. Z\u00e9 Neto ficar\u00e1 em repouso durante uma semana, \u2026 [+1645 chars]",
+      "retrievedAt": "2024-07-26 07:05:54.190779",
+      "internal_id": "29c8ec06efeb3e7b73b5e14f55f5f16e879e153884cd540c7dc8a86105ba6143",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11391,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Using AI, bird flu study shows greater antibody evasion in newer H5N1 strains",
+      "description": "In a new study led by UNC Charlotte researchers from the Center for Computational Intelligence to Predict Health and Environmental Risks (CIPHER) and the North Carolina Research Campus at Kannapolis, University scholars have found evidence that the latest var\u2026",
+      "url": "https://phys.org/news/2024-07-ai-bird-flu-greater-antibody.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/using-ai-cipher-bird-f.jpg",
+      "publishedAt": "2024-07-24 19:40:04",
+      "content": "In a new study led by UNC Charlotte researchers from the Center for Computational Intelligence to Predict Health and Environmental Risks (CIPHER) and the North Carolina Research Campus at Kannapolis,\u2026 [+4766 chars]",
+      "retrievedAt": "2024-07-26 07:05:53.772923",
+      "internal_id": "7d83715cb8e40ef812745978668d795f812d5907d62874ff3ca9d378c5d83cfa",
+      "publishedAtLabel": "Jul 24"
+    },
     {
       "id": 11384,
       "query": [
@@ -61,7 +331,8 @@
     {
       "id": 11385,
       "query": [
-        "malaria"
+        "malaria",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Everyeye.it",
@@ -344,6 +615,24 @@
       "content": "For decades, insecticide-treated bed nets and indoor insecticide spraying regimens have been important -- and widely successful -- treatments against mosquitoes that transmit malaria, a dangerous glo\u2026 [+3553 chars]",
       "retrievedAt": "2024-07-25 07:06:05.783989",
       "internal_id": "ca7d53233ab8b8af47b72011f07abaab4a1dc40ce3c816491924dcb07fabe1ec",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 11404,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Health Ministry allocates Rs 80 million to stem dengue outbreak at local levels",
+      "description": "KATHMANDU: Minister for Health and Population, Pradip Poudel, has assured that the Ministry is actively engaged in preventing and controlling the dengue virus. Minister Poudel outlined the government\u2019s strategy, highlighting efforts to locate and eliminate mo\u2026",
+      "url": "https://english.khabarhub.com/2024/24/366826/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/08/Nepal-Ministry-Of-Health-And-Population02.jpg",
+      "publishedAt": "2024-07-24 00:15:20",
+      "content": "KATHMANDU: Minister for Health and Population, Pradip Poudel, has assured that the Ministry is actively engaged in preventing and controlling the dengue virus. Minister Poudel outlined the governmen\u2026 [+806 chars]",
+      "retrievedAt": "2024-07-26 07:05:54.314740",
+      "internal_id": "eed738c55d6b280e3571f89b67dc926e4b10b5a6bb5da56b7625a57f3cfa563f",
       "publishedAtLabel": "Jul 24"
     },
     {
@@ -762,6 +1051,24 @@
       "publishedAtLabel": "Jul 23"
     },
     {
+      "id": 11402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Ang Qing",
+      "title": "Over 10,000 dengue cases so far in 2024, exceeding total number of cases in 2023",
+      "description": "Over 10,000 dengue cases so far in 2024, exceeding total number of cases in 2023straitstimes.com",
+      "url": "https://www.straitstimes.com/singapore/health/over-10000-dengue-cases-so-far-in-2024-exceeding-total-number-of-cases-in-2023",
+      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/07/23/aidengue230724.JPG?VersionId=8n.DDcmEXG5_vyriDn.xrmNN2jT_FbEZ",
+      "publishedAt": "2024-07-23 08:00:00",
+      "content": "SINGAPORE Dengue case numbers in 2024 have crossed the 10,000 mark, surpassing the number of cases logged for the whole of 2023. According to latest figures by the National Environment Agency (NEA),\u2026 [+2304 chars]",
+      "retrievedAt": "2024-07-26 07:05:54.295964",
+      "internal_id": "6e3a5fcc7f56b743aaf76a77c3c6c445a67227b56e804bd6f4090e3692f467b7",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
       "id": 11340,
       "query": [
         "h5n1"
@@ -904,6 +1211,24 @@
       "content": "Vaccines work. Vaccines save lives. It was vaccines that eradicated smallpox in the 1970s and wiped out two of the three known strains of poliovirus.It was vaccines that brought measles and Covid-19 \u2026 [+3990 chars]",
       "retrievedAt": "2024-07-24 07:06:04.550673",
       "internal_id": "f81335d207b1c93742e7b627af3b30f72f45e8443faddb97e50ed5455e89c7eb",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 11403,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Statetimes.in",
+      "author": "statetimes_editor",
+      "title": "Preparedness Measures For Dengue",
+      "description": "In recent years, Jammu and Kashmir has faced increasing challenges related to dengue fever, a mosquito-borne viral infection transmitted primarily by the Aedes mosquitoes. As the region experiences changing climate patterns and urbanization, the risk of dengu\u2026",
+      "url": "https://statetimes.in/preparedness-measures-for-dengue/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2023/03/319526318_5727891263973556_9016205861254904172_n-1024x1024.jpg",
+      "publishedAt": "2024-07-23 00:53:13",
+      "content": "In recent years, Jammu and Kashmir has faced increasing challenges related to dengue fever, a mosquito-borne viral infection transmitted primarily by the Aedes mosquitoes. As the region experiences c\u2026 [+1971 chars]",
+      "retrievedAt": "2024-07-26 07:05:54.302040",
+      "internal_id": "a9e9f7611cf7ecba86b580e0ed6e6c13f2497a0c4ba2f03401afbc30007df4ac",
       "publishedAtLabel": "Jul 23"
     },
     {
@@ -25236,6 +25561,60 @@
       "content": "Malaria is one of the worlds deadliest diseases. Across Africa, it kills nearly half a million children younger than 5 each year. A new vaccine, only the second of its kind, holds the promise of savi\u2026 [+176 chars]",
       "retrievedAt": "2024-06-11 07:05:51.137587",
       "internal_id": "f4315756e3e4c6c36890f03a069abb6d7f34c3bf2e3b69a301eb1ef851c629ca",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9980,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u092a\u094d\u0930\u093f\u092f\u0947\u0936 \u092e\u093f\u0936\u094d\u0930",
+      "title": "H5N2 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0907\u0902\u0938\u093e\u0928 \u0915\u0940 \u092e\u094c\u0924, \u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a",
+      "description": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 59 \u0935\u0930\u094d\u0937\u0940\u092f \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u0938\u092c-\u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092e\u0943\u0924\u094d\u092f\u0941 \u0939\u0941\u0908 \u0939\u0948\u0964 \u0907\u0938\u0947 H5N2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0947 \u0915\u093f\u0938\u0940 \u092e\u0928\u0941\u0937\u094d\u092f \u0915\u094b \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0928\u0947 \u0915\u093e \u092a\u0939\u0932\u093e \u091c\u094d\u091e\u093e\u0924 \u092e\u093e\u092e\u0932\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 1996 \u0938\u0947 H5N1 \u0928\u093e\u092e\u0915 \u090f\u0915 \u0905\u0928\u094d\u092f \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0915\u0947 \u0932\u0917\u092d\u0917 900 \u092e\u093e\u0928\u0935 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902, \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u0906\u0927\u0947 \u0938\u0947\u2026",
+      "url": "https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-39062,msid-110853100/navbharat-times.jpg",
+      "publishedAt": "2024-06-09 18:01:24",
+      "content": ": 59 H5N2 1996 H5N1 900 WHO H5 , - ? , 59 (WHO) , , , , \" , (52) \" 51 52 - , , \" , \" '' \" \" 51 : , Adv: 6-16 , 65% 3.0 - , LiveIND vs PAK: , 120 <\u2026 [+223 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.004275",
+      "internal_id": "b4d989dd1da56f6bc0439c6bef6423c07b5918dabfc8d7753194ed1ae156fcb6",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9986,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Anna Kurek",
+      "title": "Naukowcy szykuj\u0105 now\u0105 szczepionk\u0119. Ma zapobiec kolejnej pandemii",
+      "description": "\u015awiat zaczyna si\u0119 powa\u017cnie niepokoi\u0107 ptasi\u0105 gryp\u0105. Istnieje niebezpiecze\u0144stwo, \u017ce mutuj\u0105cy wirus, a szczeg\u00f3lnie typy H5N1, H7N9 i H9N2, mog\u0105 zagrozi\u0107 ludziom i przynie\u015b\u0107 kolejn\u0105 pandemi\u0119. Kilka laboratori\u00f3w na \u015bwiecie pracuje ju\u017c nad szczepionkami, kt\u00f3re mia\u0142\u2026",
+      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html",
+      "urlToImage": "https://bi.im-g.pl/im/40/9b/1d/z31044160IER,Szczepionka-na-ptasia-grype.jpg",
+      "publishedAt": "2024-06-09 10:25:00",
+      "content": "Ostatnie doniesienia na temat ptasiej grypy s bardzo niepokojce. Znaleziono dowody na pierwsze zakaenia wr\u00f3d ludzi. Oznacza to, e istnieje niebezpieczestwo, e mutujcy wirus stanie si zdolny do masowe\u2026 [+2508 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.031940",
+      "internal_id": "a3f3bac77995c0bd9cacca967c87d17581f6d56f2f2ad172156b1c423478a475",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9974,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "2chblog.jp",
+      "author": "ko_jo",
+      "title": "\u3010\u60b2\u5831\u3011\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u3001\u5973\u5150\u304c\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306b\u611f\u67d3\u3057\u305f\u3068\u767a\u8868",
+      "description": "1\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:14:10.36ID:eMXCByJm0 8\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:17:52.63ID:vU7IJfVJ0.net \u9ce5\u30a4\u30f3\u30d5\u30eb\u6b7b\u306c\u53ef\u80fd\u6027\u3069\u306e\u304f\u3089\u3044\uff1f\uff1f 22\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:22:25.45ID:IpCz3VXT0.net >>8 H5N1\u4e9c\u578b\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb...",
+      "url": "https://news.2chblog.jp/archives/52044998.html",
+      "urlToImage": null,
+      "publishedAt": "2024-06-09 09:18:06",
+      "content": "1 2024/06/09() 09:14:10.36ID:eMXCByJm0 8 2024/06/09() 09:17:52.63ID:vU7IJfVJ0.net 22 2024/06/09() 09:22:25.45ID:IpCz3VXT0.net 77 2024/06/09() 09:41:46.02ID:AdyMwMaM0.net 208 2024/06/09() 10:46:\u2026 [+998 chars]",
+      "retrievedAt": "2024-06-10 19:05:35.748105",
+      "internal_id": "856e0d9de9b997cd78131c7245c3b234a6d641efeff8c1e801851545f67854bb",
       "publishedAtLabel": "Jun 9"
     }
   ]
