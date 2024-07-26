@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-07-26 07:05
-- **Most recent article:** 2024-07-25 07:00:50
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-07-26 19:06
+- **Most recent article:** 2024-07-25 19:00:47
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 41 | 531 |
-| h5n1 | 51 | 29 | 36 | 59 | 52 | 62 | 20 | 309 |
+| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 47 | 537 |
+| h5n1 | 48 | 29 | 36 | 59 | 52 | 62 | 35 | 321 |
 | mpox | 26 | 14 | 46 | 21 | 26 | 17 | 6 | 156 |
-| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 11 | 152 |
+| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 12 | 153 |
 | zika | 12 | 3 | 17 | 20 | 12 | 6 | 6 | 76 |
 | measles | 6 | 11 | 8 | 9 | 12 | 19 | 10 | 75 |
 | chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 6 | 64 |
 | rabies | 2 | 5 | 8 | 4 | 2 | 17 | 6 | 44 |
 | pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 5 | 33 |
-| hpai | 4 | 4 | 3 | 3 | 5 | 6 | 1 | 26 |
+| hpai | 4 | 4 | 3 | 3 | 5 | 6 | 2 | 27 |
 | typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 2 | 19 |
-| meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 1 | 17 |
+| meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 2 | 18 |
 | leptospirosis | 1 | 1 | 2 | 1 | 3 | 4 | 1 | 13 |
 | yersinia | 0 | 0 | 2 | 0 | 6 | 0 | 2 | 10 |
 
@@ -100,6 +100,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (meningitis)
 
+- [കണ്ണൂര്‍ സ്വദേശിയായ മൂന്നര വയസുകാരന് അമീബിക് മസ്തിഷ്‌ക ജ്വരം സ്ഥിരീകരിച്ചു, amoebic encephalitis, amoebic meningitis, health, brain eating amoeba](https://www.mathrubhumi.com/health/news/a-three-and-half-year-old-boy-from-kannur-was-diagnosed-with-amoebic-encephalitis-1.9757347) (Mathrubhumi.com)
+
 - [Dos víctimas y un lío de competencias: alarma por el mosquito del Nilo en Sevilla](https://www.elconfidencial.com/espana/andalucia/2024-07-23/victimas-competencias-alarma-mosquito-nilo-sevilla_3929699/) (Elconfidencial.com)
 
 ## 24-30 (measles)
@@ -125,6 +127,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (malaria)
+
+- [10 GFATM states attend three-day-long RRM at Ziro](https://www.syllad.com/10-gfatm-states-attend-three-day-long-rrm-at-ziro/) (Syllad.com)
 
 - [The Battle to Beat Malaria 2024 1080p HDTV H264-DARKFLiX](https://rlsbb.cc/the-battle-to-beat-malaria-2024-1080p-hdtv-h264-darkflix/) (Rlsbb.cc)
 
@@ -154,9 +158,41 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (hpai)
 
+- [US bird flu outbreak: Interspecies transmission confirmed](https://www.dw.com/en/us-bird-flu-outbreak-interspecies-transmission-confirmed/a-69094487) (DW (English))
+
 - [Colorado Human Bird Flu Cases Being Tied to Heat Wave](https://legalinsurrection.com/2024/07/colorado-human-bird-flu-cases-being-tied-to-heat-wave/) (Legalinsurrection.com)
 
 ## 24-30 (h5n1)
+
+- [H5N1: gripe aviária está sendo transmitida entre mamíferos, confirma estudo](https://super.abril.com.br/saude/h5n1-gripe-aviaria-esta-sendo-transmitida-entre-mamiferos-confirma-estudo) (Abril.com.br)
+
+- [Colorado Demands Dairies Test Milk Samples For Bird Flu As Mammal Spread Increases](https://www.shtfplan.com/headline-news/colorado-demands-dairies-test-milk-samples-for-bird-flu-as-mammal-spread-increases) (Shtfplan.com)
+
+- [Notes from the Field: Health Monitoring, Testing, and Case Identification Among Persons Exposed to Influenza A(H5N1) — Michigan, 2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7329a4.htm) (Cdc.gov)
+
+- [Suspected Counterfeit M-30 Oxycodone Pill Exposures and Acute Withdrawals Reported from a Single Hospital - Toxicology Investigators Consortium Core Registry, U.S. Census Bureau Western Region, 2017-2022](https://www.cdc.gov/mmwr/volumes/73/wr/mm7329a2.htm) (Cdc.gov)
+
+- [H5N1: ‘Game-changer’ for northland poultry and egg producers](https://www.nzherald.co.nz/northern-advocate/news/h5n1-a-game-changer-for-poultry-and-egg-producers/S3BBBPAG6ZCK7F4XGDM6NW6UIY/) (New Zealand Herald)
+
+- [Così il virus dell'aviaria ha fatto il salto di specie](https://www.ansa.it/canale_scienza/notizie/biotech/2024/07/25/cosi-il-virus-dellaviaria-ha-fatto-il-salto-di-specie-_abad58ef-6a73-4400-a484-cb74b4d1e8d6.html) (ANSA.it)
+
+- [Agência da ONU pede resposta ao aumento “alarmante” da gripe aviária na Ásia-Pacífico](https://www.infomoney.com.br/economia/agencia-da-onu-pede-resposta-ao-aumento-alarmante-da-gripe-aviaria-na-asia-pacifico/) (InfoMoney)
+
+- [Estudo confirma propagação da gripe aviária H5N1 entre mamíferos](https://www.metropoles.com/saude/gripe-aviaria-entre-mamiferos) (Metropoles.com)
+
+- [US bird flu outbreak: Interspecies transmission confirmed](https://www.dw.com/en/us-bird-flu-outbreak-interspecies-transmission-confirmed/a-69094487) (DW (English))
+
+- [US Bird Flu Outbreak Shows ‘Sustained’ Spread Within Mammals, Study Says](https://dailycaller.com/2024/07/25/bird-flu-outbreak-h5n1-scientists-issue-warning-genome-sequencing-mutations-adaptation/) (The Daily Caller)
+
+- [Thursday, July 25, 2024](https://kffhealthnews.org/morning-briefing/thursday-july-25-2024/) (Kffhealthnews.org)
+
+- [„Wir sehen Beweise für eine effiziente Übertragung von Säugetier zu Säugetier“](https://www.welt.de/wissenschaft/article252685398/Vogelgrippe-H5N1-springt-von-Kuh-auf-Katze-und-Waschbaer.html) (DIE WELT)
+
+- [Transparency data: Precautionary-SAGE: Influenza A (H5N1) virus in domestic livestock in the USA](https://www.gov.uk/government/publications/precautionary-sage-influenza-a-h5n1-virus-in-domestic-livestock-in-the-usa) (Www.gov.uk)
+
+- [Human H5N1 cases in the U.S. are rising. That's bad timing with flu season, bird migrations just months away](https://www.cbc.ca/news/health/human-h5n1-us-cases-1.7272781) (CBC News)
+
+- [Mutationen von H5N1: Vogelgrippevirus springt von Kuh auf Katze](https://www.tagesspiegel.de/wissen/mutationen-von-h5n1-vogelgrippevirus-springt-von-kuh-auf-katze-12082721.html) (Der Tagesspiegel)
 
 - [Vogelgrippevirus springt von Kuh auf Katze](https://science.orf.at/stories/3226059/) (Science.orf.at)
 
@@ -199,6 +235,18 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (dengue)
+
+- [Contrarreloj, el Gobierno negocia la compra de 160.000 vacunas contra el dengue para aplicar en áreas de alto riesgo](https://www.lanacion.com.ar/sociedad/contrarreloj-el-gobierno-negocia-la-compra-de-160000-vacunas-contra-el-dengue-para-aplicar-en-areas-nid25072024/) (La Nacion)
+
+- [CDC reports 20 cases of dengue in Georgia, spread across 10 metro Atlanta counties](https://www.wsbtv.com/news/local/atlanta/cdc-reports-20-cases-dengue-georgia-spread-across-10-metro-atlanta-counties/ISXIAR7SBRGQVGGFG7ECHVFUKI/) (WSB Atlanta)
+
+- [India may have dengue vaccine by 2026; Takeda initiates clinical trials](https://www.business-standard.com/health/india-may-have-dengue-vaccine-by-2026-takeda-initiates-clinical-trials-124072501161_1.html) (Business Standard)
+
+- [Paris Olympics: Concern Over Dengue Fever as Cases Soar](https://www.newsweek.com/paris-olympics-dengue-fever-cases-outbreak-super-spreader-1930096) (Newsweek)
+
+- [NEA reports 13 dengue deaths in first half of 2024, more than double 2023’s total](https://www.theonlinecitizen.com/2024/07/25/nea-reports-13-dengue-deaths-in-first-half-of-2024-more-than-double-2023s-total/) (The Online Citizen)
+
+- [Khandbari Hospital overwhelmed by surge in dengue and viral cases](https://english.khabarhub.com/2024/25/367065/) (Khabarhub.com)
 
 - [Intensified Fogging Operations Launched in Guwahati to Combat Dengue Spread](https://thehillstimes.in/guwahati/intensified-fogging-operations-launched-in-guwahati-to-combat-dengue-spread) (Thehillstimes.in)
 
@@ -3001,12 +3049,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
 
 - [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
-
-- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
-
-- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
-
-- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 ## 24-24 (dengue)
 
