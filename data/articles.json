@@ -1,8 +1,279 @@
 {
-  "last_updated": "2024-07-27 07:06",
-  "count_articles_total": 1458,
-  "count_articles_new": 18,
+  "last_updated": "2024-07-27 19:05",
+  "count_articles_total": 1470,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 11461,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Stephanie Pappas",
+      "title": "7 scary diseases you can get from the water",
+      "description": "Many deadly infections are transmitted via water, including cholera, typhoid and brain-eating amoebas.",
+      "url": "https://www.livescience.com/health/7-scary-diseases-you-can-get-from-the-water",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vSBpW2f6mMVNtL3nREENZE-1200-80.jpg",
+      "publishedAt": "2024-07-26 16:32:00",
+      "content": "Water is life. But it can also be the vehicle for bacteria, parasites and other microorganisms that can make people very, very sick. Unfortunately, researchers expect waterborne illnesses to become m\u2026 [+8906 chars]",
+      "retrievedAt": "2024-07-27 19:05:49.726224",
+      "internal_id": "f5e1a483d90d948d987e634a72615cf29b1a824a3df2d3ecb002a9bfe3e5dd91",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11450,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Brasil registra las primeras muertes por el virus de oropouche en el mundo",
+      "description": "La enfermedad es transmitida por el mosquito com\u00fan y provoca un cuadro similar al dengue.",
+      "url": "https://www.montevideo.com.uy/Salud/Brasil-registra-las-primeras-muertes-por-el-virus-de-oropouche-en-el-mundo-uc895239",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201405/_W933_80/447251.jpg",
+      "publishedAt": "2024-07-26 16:06:00",
+      "content": "El Ministerio de Salud de Brasil confirm\u00f3 este jueves las primeras muertes en el mundo relacionadas con el virus de oropouche, con dos casos registrados en el estado de Bah\u00eda, en el noreste del pa\u00ed\u2026 [+2091 chars]",
+      "retrievedAt": "2024-07-27 19:05:46.607550",
+      "internal_id": "48525447cc17d2c9df054a6b7353d20a2b2d82cef3aad752a5649d0ae3c4848f",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11456,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Deutsche Welle",
+      "title": "Zika: 9 anos depois, crian\u00e7as sofrem redu\u00e7\u00e3o de tratamentos",
+      "description": "Crian\u00e7as com s\u00edndrome cong\u00eanita do zika est\u00e3o com acesso reduzido a tratamentos terap\u00eauticos e ...",
+      "url": "https://www.terra.com.br/noticias/zika-9-anos-depois-criancas-sofrem-reducao-de-tratamentos,43a1ca6500ed38f7784b1bc886da8f49xt43p5v0.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/07/26/164537422-69778247354.jpg",
+      "publishedAt": "2024-07-26 15:58:22",
+      "content": "Crian\u00e7as com s\u00edndrome cong\u00eanita do zika est\u00e3o com acesso reduzido a tratamentos terap\u00eauticos e privadas de cirurgias importantes.Por volta das cinco da manh\u00e3, Vera Silva terminou de organizar a filha\u2026 [+9656 chars]",
+      "retrievedAt": "2024-07-27 19:05:48.406492",
+      "internal_id": "d506a6c3e793d5a8e7a0a21516ba97db3a1ed9785fc7c087ade15596b420feb6",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11455,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Alice de Souza",
+      "title": "Zika: 9 anos depois, crian\u00e7as sofrem redu\u00e7\u00e3o de tratamentos",
+      "description": "Crian\u00e7as com s\u00edndrome cong\u00eanita do zika est\u00e3o com acesso reduzido a tratamentos terap\u00eauticos e privadas de cirurgias importantes.",
+      "url": "https://www.dw.com/pt-br/zika-9-anos-depois-crian%C3%A7as-sofrem-redu%C3%A7%C3%A3o-de-tratamentos/a-69775074",
+      "urlToImage": "https://static.dw.com/image/69778247_6.jpg",
+      "publishedAt": "2024-07-26 15:36:00",
+      "content": "Por volta das cinco da manh\u00e3, Vera Silva terminou de organizar a filha, Sophia Valentina, para ir ao Recife. S\u00e3o cerca de 60 quil\u00f4metros entre Escada, onde vivem, e a capital pernambucana. Esse camin\u2026 [+10004 chars]",
+      "retrievedAt": "2024-07-27 19:05:48.401165",
+      "internal_id": "71dd04c4a317a0626337ec863b22baba797c51d12c5a78859aad4bfebd494961",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11457,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Janina Krambrich, Filip Mihali\u010d, Michael W. Gaunt, Jon Bohlin, Jenny C. Hesson, \u00c5ke Lundkvist, Xavier de Lamballerie, Cixiu Li, Weifeng Shi, John H.-O. Pettersson",
+      "title": "The evolutionary and molecular history of a chikungunya virus outbreak lineage",
+      "description": "Author summary We investigated the evolutionary and molecular history of the East/Central/South African (ECSA) genotype to determine the origins of the 2018\u20132019 chikungunya virus (CHIKV) outbreak in Thailand. We used newly sequenced clinical samples from tra\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012349",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012349.g004&size=inline",
+      "publishedAt": "2024-07-26 14:00:00",
+      "content": "Citation: Krambrich J, Mihali F, Gaunt MW, Bohlin J, Hesson JC, Lundkvist \u00c5, et al. (2024) The evolutionary and molecular history of a chikungunya virus outbreak lineage. PLoS Negl Trop Dis 18(7): \u2026 [+49697 chars]",
+      "retrievedAt": "2024-07-27 19:05:48.946041",
+      "internal_id": "1a2040e1b44cfb4b334d0562373a65b7aca47723474c7bcca2a185b55b0cbe03",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11459,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Max Carlos Ram\u00edrez-Soto, Hugo Arroyo-Hern\u00e1ndez",
+      "title": "High Global Health Security Index is a determinant of early detection and response to monkeypox: A cross-sectional study",
+      "description": "Introduction Recent outbreaks of monkeypox (Mpox) have occurred in countries outside of Africa, with large numbers of cases spreading rapidly to almost every continent. We aimed to analyze the correlation between the Global Health Security (GHS) Index (catego\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307503",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0307503.g005&size=inline",
+      "publishedAt": "2024-07-26 14:00:00",
+      "content": "Citation: Ram\u00edrez-Soto MC, Arroyo-Hern\u00e1ndez H (2024) High Global Health Security Index is a determinant of early detection and response to monkeypox: A cross-sectional study. PLoS ONE 19(7): e03075\u2026 [+28416 chars]",
+      "retrievedAt": "2024-07-27 19:05:49.155099",
+      "internal_id": "998315c1f2d567c8375cc7c28a6b89329d1233c00efc4d420dda5c3d5ae7b097",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11453,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Mick Kulikowski-NC State",
+      "title": "There\u2019s a downside to success in the fight against malaria",
+      "description": "Though bed nets and insecticides help protect against malaria, some people blame these measures for a return of other pests, like bed bugs.",
+      "url": "https://www.futurity.org/bed-bugs-malaria-insecticides-mosquitoes-3241302/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/07/malaria-nets-bed-bugs-1600.jpg",
+      "publishedAt": "2024-07-26 13:47:46",
+      "content": "New research finds that bed nets and insecticides that are so effective in preventing mosquito bitesand therefore malariaare increasingly viewed as the causes of the resurgence of household pests lik\u2026 [+3345 chars]",
+      "retrievedAt": "2024-07-27 19:05:47.828104",
+      "internal_id": "2f834a74968860097dce049f523bc63cf824146c32a45aa82d231bc88f73ef6c",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11447,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Ern\u0151fy N\u00f3ra",
+      "title": "El\u0151sz\u00f6r okozta ember hal\u00e1l\u00e1t a brazil v\u00edrus",
+      "description": "El\u0151sz\u00f6r okozta ember hal\u00e1l\u00e1t a brazil v\u00edrus - A k\u00f3rokoz\u00f3t a Zik\u00e1hoz hasonl\u00f3an sz\u00fanyogok terjesztik, \u00e9s szint\u00e9n vesz\u00e9lyes lehet a magzatra.",
+      "url": "https://index.hu/kulfold/2024/07/26/szunyog-virus-brazilia-halal/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/5747/57476/574768/57476803_4251131_4d09e8494657489e2888f9a3dc306df7_wm.jpg",
+      "publishedAt": "2024-07-26 13:39:00",
+      "content": "Az \u00e9szaki Bahia sz\u00f6vets\u00e9gi \u00e1llamb\u00f3l sz\u00e1rmaz\u00f3 nk a dengue l\u00e1zhoz hasonl\u00f3 s\u00falyos t\u00fcneteket produk\u00e1ltak tudatta k\u00f6zlem\u00e9ny\u00e9ben az eg\u00e9szs\u00e9g\u00fcgyi t\u00e1rca. Ez id\u00e1ig nem l\u00e9tezett olyan tudom\u00e1nyos jelent\u00e9s, ame\u2026 [+1028 chars]",
+      "retrievedAt": "2024-07-27 19:05:46.539197",
+      "internal_id": "d7e959841a999c842d9d6eb0bfa3a98232a1d8d0b953c28200f1869e023138cf",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11451,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "MTI",
+      "title": "El\u0151sz\u00f6r halt bele ember egy ritka betegs\u00e9gbe",
+      "description": "A brazil eg\u00e9szs\u00e9g\u00fcgyi hat\u00f3s\u00e1gok cs\u00fct\u00f6rt\u00f6k\u00f6n jelentett\u00e9k, hogy az orsz\u00e1gban \u00e9s a vil\u00e1gon el\u0151sz\u00f6r Oropouche-l\u00e1z okozta k\u00e9t ember hal\u00e1l\u00e1t.",
+      "url": "https://www.origo.hu/nagyvilag/2024/07/halalos-aldozat-oporuche-laz-brazilia",
+      "urlToImage": "https://cdn.origo.hu/2024/07/rvGperfOylzQ_bzrbHIPSZ2tPJtlQ8Uwpnw1M8EhlTc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI0ZDk5NjEyM2Y2OTRkNjU5MTYwOTY4MDg2NGEyMjZj.webp",
+      "publishedAt": "2024-07-26 12:00:34",
+      "content": "Az \u00e1ldozat k\u00e9t 30 \u00e9v alatti bahiai n volt, akik semmilyen egy\u00e9b betegs\u00e9gben nem szenvedtek. A betegs\u00e9g a s\u00falyos dengue-l\u00e1zhoz hasonl\u00f3 t\u00fcneteket okoz. Ez id\u00e1ig nem l\u00e9tezett olyan tudom\u00e1nyos jelent\u00e9s,\u2026 [+1368 chars]",
+      "retrievedAt": "2024-07-27 19:05:46.637022",
+      "internal_id": "28b485d00623735e9ee6968393d06f9134d367be6a11c95d9c27334a18766215",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11449,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Hal\u00e1los k\u00f3r terjed, el\u0151sz\u00f6r k\u00f6vetelt ember\u00e9letet",
+      "description": "El\u0151sz\u00f6r okozta ember hal\u00e1l\u00e1t a Zika-v\u00edrushoz hasonl\u00f3 elv\u00e1ltoz\u00e1sokkal j\u00e1r\u00f3 Oropouche-l\u00e1z \u2013 jelentette be a brazil eg\u00e9szs\u00e9g\u00fcgyi miniszt\u00e9rium cs\u00fct\u00f6rt\u00f6k\u00f6n k\u00e9t \u00e9szak-braz\u00edliai n\u0151 hal\u00e1l\u00e1ra hivatkozva.",
+      "url": "https://www.portfolio.hu/gazdasag/20240726/halalos-kor-terjed-eloszor-kovetelt-embereletet-700789",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/s/z/u/szunyog-szunyogcsipes-692971.jpg",
+      "publishedAt": "2024-07-26 11:29:00",
+      "content": "Az \u00e9szaki Bahia sz\u00f6vets\u00e9gi \u00e1llamb\u00f3l sz\u00e1rmaz\u00f3 nk a Dengue-l\u00e1zhoz hasonl\u00f3 s\u00falyos t\u00fcneteket produk\u00e1ltak tudatta k\u00f6zlem\u00e9ny\u00e9ben az eg\u00e9szs\u00e9g\u00fcgyi t\u00e1rca. Mindk\u00e9t n 30 \u00e9v alatti volt, m\u00e1s s\u00falyos betegs\u00e9g\u00fck ne\u2026 [+1273 chars]",
+      "retrievedAt": "2024-07-27 19:05:46.598199",
+      "internal_id": "47d9dd982b52d37b2fe090ec82171f2e1572a5b6b6a328711c3a73a6cd5e6cb5",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11452,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Brasil registra primeiras mortes por febre do Oropouche no mundo",
+      "description": "O Brasil registrou as primeiras duas mortes no mundo provocadas pela febre do Oropouche, doen\u00e7a ...",
+      "url": "https://www.terra.com.br/noticias/brasil/brasil-registra-primeiras-mortes-por-febre-do-oropouche-no-mundo,68c62081ce2cf4186d2a86bfd2128edan4gl1eoz.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-07-26 11:07:13",
+      "content": "O Brasil registrou as primeiras duas mortes no mundo provocadas pela febre do Oropouche, doen\u00e7a similar \u00e0 dengue causada por um v\u00edrus transmitido pela picada de um mosquito. Segundo a Secretar\u2026 [+1429 chars]",
+      "retrievedAt": "2024-07-27 19:05:46.662903",
+      "internal_id": "1a628c1b6223030dad256948b546c96a06e62fab3fbafca4652da72f800395bc",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11460,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Crweworld.com",
+      "author": null,
+      "title": "Bavarian Nordic Receives Positive CHMP Opinion for Including Mpox Real-world Effectiveness Data in European Marketing Authorization for Smallpox and Mpox Vaccine",
+      "description": "Real-world data demonstrating vaccine effectiveness against mpox of up to 90% after two MVA-BN doses and a significant reduction of the risk of mpox-related hospitalizations COPENHAGEN, Denmark, July 26, 2024 \u2013 Bavarian Nordic A/S (OMX:",
+      "url": "https://www.crweworld.com/article/news-provided-by-globenewswire/3440834/bavarian-nordic-receives-positive-chmp-opinion-for-including-mpox-real-world-effectiveness-data-in-european-marketing-authorization-for-smallpox-and-mpox-vaccine",
+      "urlToImage": "",
+      "publishedAt": "2024-07-26 09:23:51",
+      "content": "Real-world data demonstrating vaccine effectiveness against mpox of up to 90% after two MVA-BN doses and a significant reduction of the risk of mpox-related hospitalizationsCOPENHAG\u2026 [+5505 chars]",
+      "retrievedAt": "2024-07-27 19:05:49.164823",
+      "internal_id": "78b4f260bdfe09b65aeb5e2b5fa2698c71afc037703113c75f19960da43dfb06",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11454,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El mosquito tigre no supone un riesgo en la transmisi\u00f3n de la malaria aviar, seg\u00fan el CSIC",
+      "description": "Un estudio liderado por el Consejo Superior de Investigaciones Cient\u00edficas (CSIC) ha demostrado que el mosquito tigre no supone un riesgo en la transmisi\u00f3n de par\u00e1sitos de la malaria aviar, a pesar de su \"relevante papel\" en la transmisi\u00f3n de enfermedades a h\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-mosquito-tigre-no-supone-riesgo-transmision-malaria-aviar-csic-20240726100748.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240726100748_1200.jpg",
+      "publishedAt": "2024-07-26 08:07:48",
+      "content": "SEVILLA, 26 Jul. (EUROPA PRESS) - Un estudio liderado por el Consejo Superior de Investigaciones Cient\u00edficas (CSIC) ha demostrado que el mosquito tigre no supone un riesgo en la transmisi\u00f3n de par\u2026 [+3261 chars]",
+      "retrievedAt": "2024-07-27 19:05:47.850962",
+      "internal_id": "00154672786569b41ca17bdd8f5a35f7425198a1d6426bd90e0562beec21f3e4",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11448,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Federico Giuliani)",
+      "title": "Primi due morti per il virus Oropouche: che cos'\u00e8 e come si trasmette",
+      "description": "Registrati in Brasile i primi due morti al mondo per il virus Oropouche: manifestavano sintomi simili a una grave febbre dengue",
+      "url": "https://www.ilgiornale.it/news/cronaca-internazionale/brasile-due-morti-i-primi-mondo-virus-oropouche-che-cos-e-si-2350998.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2023/10/14/1697280337-zanzara.jpg?_=1697280337",
+      "publishedAt": "2024-07-26 07:44:03",
+      "content": "In Brasile sono stati registrati i primi due morti al mondo per il virus Oropouche, un'infezione virale tropicale che si contrae attraverso la puntura di alcuni insetti. Il ministro della Salute bras\u2026 [+3231 chars]",
+      "retrievedAt": "2024-07-27 19:05:46.565486",
+      "internal_id": "264faf22bd7d1dad7d359357f44c5bbe69127505f73ce606e820ecf3c4ecdca3",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11458,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412 \u0411\u0443\u0440\u0443\u043d\u0434\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0442\u0440\u0438 \u0441\u043b\u0443\u0447\u0430\u044f \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0413\u043b\u0430\u0432\u0430 \u041c\u0438\u043d\u0437\u0434\u0440\u0430\u0432\u0430 \u0441\u0442\u0440\u0430\u043d\u044b \u041b\u0438\u0434\u0432\u0438\u043d \u0411\u0430\u0440\u0430\u0434\u0430\u0445\u0430\u043d\u0430 \u043e\u0442\u043c\u0435\u0442\u0438\u043b\u0430, \u0447\u0442\u043e \u043f\u0440\u0438\u043d\u044f\u0442\u044b \u0432\u0441\u0435 \u043c\u0435\u0440\u044b \u0434\u043b\u044f \u0431\u043e\u0440\u044c\u0431\u044b \u0441 \u0431\u043e\u043b\u0435\u0437\u043d\u044c\u044e",
+      "url": "https://tass.ru/obschestvo/21455551",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21455551?u=2024-07-26T07:16:26.766093",
+      "publishedAt": "2024-07-26 07:16:26",
+      "content": ", 26 . //. mpox (\"\", ) . . , , , Reuters. \" . , \", - . , . Mpox - , , . 1970 . , , , . mpox 1% 10%. .",
+      "retrievedAt": "2024-07-27 19:05:49.125425",
+      "internal_id": "0df480e7993627142f1ffe968251f8ccaf9d14555bc853c9cb535460ef4cb650",
+      "publishedAtLabel": "Jul 26"
+    },
     {
       "id": 11430,
       "query": [
@@ -26300,60 +26571,6 @@
       "content": "Malaria is one of the worlds deadliest diseases. Across Africa, it kills nearly half a million children younger than 5 each year. A new vaccine, only the second of its kind, holds the promise of savi\u2026 [+176 chars]",
       "retrievedAt": "2024-06-11 07:05:51.137587",
       "internal_id": "f4315756e3e4c6c36890f03a069abb6d7f34c3bf2e3b69a301eb1ef851c629ca",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9980,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "\u092a\u094d\u0930\u093f\u092f\u0947\u0936 \u092e\u093f\u0936\u094d\u0930",
-      "title": "H5N2 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0907\u0902\u0938\u093e\u0928 \u0915\u0940 \u092e\u094c\u0924, \u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a",
-      "description": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 59 \u0935\u0930\u094d\u0937\u0940\u092f \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u0938\u092c-\u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092e\u0943\u0924\u094d\u092f\u0941 \u0939\u0941\u0908 \u0939\u0948\u0964 \u0907\u0938\u0947 H5N2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0947 \u0915\u093f\u0938\u0940 \u092e\u0928\u0941\u0937\u094d\u092f \u0915\u094b \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0928\u0947 \u0915\u093e \u092a\u0939\u0932\u093e \u091c\u094d\u091e\u093e\u0924 \u092e\u093e\u092e\u0932\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 1996 \u0938\u0947 H5N1 \u0928\u093e\u092e\u0915 \u090f\u0915 \u0905\u0928\u094d\u092f \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0915\u0947 \u0932\u0917\u092d\u0917 900 \u092e\u093e\u0928\u0935 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902, \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u0906\u0927\u0947 \u0938\u0947\u2026",
-      "url": "https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-39062,msid-110853100/navbharat-times.jpg",
-      "publishedAt": "2024-06-09 18:01:24",
-      "content": ": 59 H5N2 1996 H5N1 900 WHO H5 , - ? , 59 (WHO) , , , , \" , (52) \" 51 52 - , , \" , \" '' \" \" 51 : , Adv: 6-16 , 65% 3.0 - , LiveIND vs PAK: , 120 <\u2026 [+223 chars]",
-      "retrievedAt": "2024-06-11 07:05:50.004275",
-      "internal_id": "b4d989dd1da56f6bc0439c6bef6423c07b5918dabfc8d7753194ed1ae156fcb6",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9986,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.pl",
-      "author": "Anna Kurek",
-      "title": "Naukowcy szykuj\u0105 now\u0105 szczepionk\u0119. Ma zapobiec kolejnej pandemii",
-      "description": "\u015awiat zaczyna si\u0119 powa\u017cnie niepokoi\u0107 ptasi\u0105 gryp\u0105. Istnieje niebezpiecze\u0144stwo, \u017ce mutuj\u0105cy wirus, a szczeg\u00f3lnie typy H5N1, H7N9 i H9N2, mog\u0105 zagrozi\u0107 ludziom i przynie\u015b\u0107 kolejn\u0105 pandemi\u0119. Kilka laboratori\u00f3w na \u015bwiecie pracuje ju\u017c nad szczepionkami, kt\u00f3re mia\u0142\u2026",
-      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html",
-      "urlToImage": "https://bi.im-g.pl/im/40/9b/1d/z31044160IER,Szczepionka-na-ptasia-grype.jpg",
-      "publishedAt": "2024-06-09 10:25:00",
-      "content": "Ostatnie doniesienia na temat ptasiej grypy s bardzo niepokojce. Znaleziono dowody na pierwsze zakaenia wr\u00f3d ludzi. Oznacza to, e istnieje niebezpieczestwo, e mutujcy wirus stanie si zdolny do masowe\u2026 [+2508 chars]",
-      "retrievedAt": "2024-06-11 07:05:50.031940",
-      "internal_id": "a3f3bac77995c0bd9cacca967c87d17581f6d56f2f2ad172156b1c423478a475",
-      "publishedAtLabel": "Jun 9"
-    },
-    {
-      "id": 9974,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "2chblog.jp",
-      "author": "ko_jo",
-      "title": "\u3010\u60b2\u5831\u3011\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u3001\u5973\u5150\u304c\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306b\u611f\u67d3\u3057\u305f\u3068\u767a\u8868",
-      "description": "1\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:14:10.36ID:eMXCByJm0 8\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:17:52.63ID:vU7IJfVJ0.net \u9ce5\u30a4\u30f3\u30d5\u30eb\u6b7b\u306c\u53ef\u80fd\u6027\u3069\u306e\u304f\u3089\u3044\uff1f\uff1f 22\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:22:25.45ID:IpCz3VXT0.net >>8 H5N1\u4e9c\u578b\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb...",
-      "url": "https://news.2chblog.jp/archives/52044998.html",
-      "urlToImage": null,
-      "publishedAt": "2024-06-09 09:18:06",
-      "content": "1 2024/06/09() 09:14:10.36ID:eMXCByJm0 8 2024/06/09() 09:17:52.63ID:vU7IJfVJ0.net 22 2024/06/09() 09:22:25.45ID:IpCz3VXT0.net 77 2024/06/09() 09:41:46.02ID:AdyMwMaM0.net 208 2024/06/09() 10:46:\u2026 [+998 chars]",
-      "retrievedAt": "2024-06-10 19:05:35.748105",
-      "internal_id": "856e0d9de9b997cd78131c7245c3b234a6d641efeff8c1e801851545f67854bb",
       "publishedAtLabel": "Jun 9"
     }
   ]

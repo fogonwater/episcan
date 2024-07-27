@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-07-27 07:06
-- **Most recent article:** 2024-07-26 07:06:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-07-27 19:05
+- **Most recent article:** 2024-07-26 16:32:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 51 | 541 |
-| h5n1 | 51 | 29 | 36 | 59 | 52 | 62 | 36 | 325 |
-| mpox | 26 | 14 | 46 | 21 | 26 | 17 | 12 | 162 |
-| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 12 | 153 |
+| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 57 | 547 |
+| h5n1 | 48 | 29 | 36 | 59 | 52 | 62 | 36 | 322 |
+| mpox | 26 | 14 | 46 | 21 | 26 | 17 | 15 | 165 |
+| malaria | 37 | 20 | 24 | 15 | 14 | 31 | 14 | 155 |
 | measles | 6 | 11 | 8 | 9 | 12 | 19 | 15 | 80 |
-| zika | 12 | 3 | 17 | 20 | 12 | 6 | 6 | 76 |
-| chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 6 | 64 |
+| zika | 12 | 3 | 17 | 20 | 12 | 6 | 9 | 79 |
+| chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 7 | 65 |
 | rabies | 2 | 5 | 8 | 4 | 2 | 17 | 7 | 45 |
 | pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 5 | 33 |
 | hpai | 4 | 4 | 3 | 3 | 5 | 6 | 3 | 28 |
-| typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 2 | 19 |
+| typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 3 | 20 |
 | meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 2 | 18 |
 | leptospirosis | 1 | 1 | 2 | 1 | 3 | 4 | 1 | 13 |
 | yersinia | 0 | 0 | 2 | 0 | 6 | 0 | 2 | 10 |
@@ -33,6 +33,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-30 (zika)
+
+- [Zika: 9 anos depois, crianças sofrem redução de tratamentos](https://www.terra.com.br/noticias/zika-9-anos-depois-criancas-sofrem-reducao-de-tratamentos,43a1ca6500ed38f7784b1bc886da8f49xt43p5v0.html) (Terra.com.br)
+
+- [Zika: 9 anos depois, crianças sofrem redução de tratamentos](https://www.dw.com/pt-br/zika-9-anos-depois-crian%C3%A7as-sofrem-redu%C3%A7%C3%A3o-de-tratamentos/a-69775074) (DW (English))
+
+- [Halálos kór terjed, először követelt emberéletet](https://www.portfolio.hu/gazdasag/20240726/halalos-kor-terjed-eloszor-kovetelt-embereletet-700789) (Portfolio.hu)
 
 - [El mosquito del dengue y zika llegó a España: en qué zonas ya se encuentra](https://www.mundodeportivo.com/vidae/salud/20240724/1002286836/mosquito-contagia-dengue-zika-llego-espana-como-tratar-enfermedades.html) (Mundodeportivo.com)
 
@@ -53,6 +59,8 @@ Source: [News API](https://newsapi.org/)
 - [Hallazgo histórico en Cataluña: encontrado un esqueleto de una víctima de la peste negra del siglo XIV en el castillo de Besora](https://www.meneame.net/m/actualidad/hallazgo-historico-cataluna-encontrado-esqueleto-victima-peste) (Meneame.net)
 
 ## 24-30 (typhoid)
+
+- [7 scary diseases you can get from the water](https://www.livescience.com/health/7-scary-diseases-you-can-get-from-the-water) (Live Science)
 
 - [10 Riveting Nonfiction Books on History’s Greatest Medical Mysteries](https://www.mentalfloss.com/posts/best-nonfiction-books-medical-mysteries) (Mental Floss)
 
@@ -87,6 +95,12 @@ Source: [News API](https://newsapi.org/)
 - [Újult erővel támad a fertőzés, ami Magyarországon is halálozással járt - Már a hazai járványhatóság is figyelmeztet](https://www.portfolio.hu/gazdasag/20240723/ujult-erovel-tamad-a-fertozes-ami-magyarorszagon-is-halalozassal-jart-mar-a-hazai-jarvanyhatosag-is-figyelmeztet-699875) (Portfolio.hu)
 
 ## 24-30 (mpox)
+
+- [High Global Health Security Index is a determinant of early detection and response to monkeypox: A cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307503) (Plos.org)
+
+- [Bavarian Nordic Receives Positive CHMP Opinion for Including Mpox Real-world Effectiveness Data in European Marketing Authorization for Smallpox and Mpox Vaccine](https://www.crweworld.com/article/news-provided-by-globenewswire/3440834/bavarian-nordic-receives-positive-chmp-opinion-for-including-mpox-real-world-effectiveness-data-in-european-marketing-authorization-for-smallpox-and-mpox-vaccine) (Crweworld.com)
+
+- [В Бурунди зафиксировали три случая заражения оспой обезьян](https://tass.ru/obschestvo/21455551) (Tass.ru)
 
 - [‘Limit Sexual Partners’ To Reduce Mpox Transmission, Says Chief Health Officer](https://www.starobserver.com.au/news/national-news/victoria-news/limit-sexual-partners-mpox/232207) (Starobserver.com.au)
 
@@ -151,6 +165,10 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (malaria)
+
+- [There’s a downside to success in the fight against malaria](https://www.futurity.org/bed-bugs-malaria-insecticides-mosquitoes-3241302/) (Futurity: Research News)
+
+- [El mosquito tigre no supone un riesgo en la transmisión de la malaria aviar, según el CSIC](https://www.infosalus.com/salud-investigacion/noticia-mosquito-tigre-no-supone-riesgo-transmision-malaria-aviar-csic-20240726100748.html) (Infosalus.com)
 
 - [10 GFATM states attend three-day-long RRM at Ziro](https://www.syllad.com/10-gfatm-states-attend-three-day-long-rrm-at-ziro/) (Syllad.com)
 
@@ -264,6 +282,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (dengue)
 
+- [Brasil registra las primeras muertes por el virus de oropouche en el mundo](https://www.montevideo.com.uy/Salud/Brasil-registra-las-primeras-muertes-por-el-virus-de-oropouche-en-el-mundo-uc895239) (Montevideo.com.uy)
+
+- [Először okozta ember halálát a brazil vírus](https://index.hu/kulfold/2024/07/26/szunyog-virus-brazilia-halal/) (Index.hu)
+
+- [Először halt bele ember egy ritka betegségbe](https://www.origo.hu/nagyvilag/2024/07/halalos-aldozat-oporuche-laz-brazilia) (Origo.hu)
+
+- [Halálos kór terjed, először követelt emberéletet](https://www.portfolio.hu/gazdasag/20240726/halalos-kor-terjed-eloszor-kovetelt-embereletet-700789) (Portfolio.hu)
+
+- [Brasil registra primeiras mortes por febre do Oropouche no mundo](https://www.terra.com.br/noticias/brasil/brasil-registra-primeiras-mortes-por-febre-do-oropouche-no-mundo,68c62081ce2cf4186d2a86bfd2128edan4gl1eoz.html) (Terra.com.br)
+
+- [Primi due morti per il virus Oropouche: che cos'è e come si trasmette](https://www.ilgiornale.it/news/cronaca-internazionale/brasile-due-morti-i-primi-mondo-virus-oropouche-che-cos-e-si-2350998.html) (Ilgiornale.it)
+
 - [Obesity Raises Hospitalizations From Dengue In Children: Study](https://www.medicaldaily.com/obesity-raises-hospitalizations-dengue-children-study-472024) (Medical Daily)
 
 - [Qu'est-ce qu'est cette "fièvre d'Oropouche", qui vient de faire ses premiers décès ?](https://www.dhnet.be/actu/sante/2024/07/26/quest-ce-quest-cette-fievre-doropouche-qui-vient-de-faire-ses-premiers-deces-A6ZZCZHR5BFTNPI7PQWNQAEOKM/) (dh.be)
@@ -367,6 +397,8 @@ Source: [News API](https://newsapi.org/)
 - [Japanese Encephalitis claims life in Morigaon](https://thehillstimes.in/assam/japanese-encephalitis-claims-life-in-morigaon) (Thehillstimes.in)
 
 ## 24-30 (chikungunya)
+
+- [The evolutionary and molecular history of a chikungunya virus outbreak lineage](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012349) (Plos.org)
 
 - [Αύξηση των επιδημιών διεθνώς – Καμπανάκι κινδύνου για τους ταξιδιώτες](https://www.naftemporiki.gr/health/1722750/ayxisi-ton-epidimion-diethnos-kampanaki-kindynoy-gia-toys-taxidiotes/) (Naftemporiki.gr)
 
@@ -3085,12 +3117,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
 
 - [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
-
-- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
-
-- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
-
-- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 ## 24-24 (dengue)
 
