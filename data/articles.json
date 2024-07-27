@@ -1,8 +1,332 @@
 {
-  "last_updated": "2024-07-26 19:06",
-  "count_articles_total": 1437,
-  "count_articles_new": 23,
+  "last_updated": "2024-07-27 07:06",
+  "count_articles_total": 1458,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 11430,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Jonathan Howard",
+      "title": "Making Up Reasons to Let Unvaccinated Kids Get COVID: Pediatricians Will Run Out of Time and Measles Will Return",
+      "description": "Doctors who claimed that only enormous RCTs for every variant could demonstrate the COVID vaccine's benefits, were fine just casually inventing reasons not to use it. The post Making Up Reasons to Let Unvaccinated Kids Get COVID: Pediatricians Will Run Out of\u2026",
+      "url": "https://sciencebasedmedicine.org/time/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2024/07/image-28.png",
+      "publishedAt": "2024-07-26 07:06:00",
+      "content": "Kids are less likely to acquire SARS-CoV-2. Most kids already had COVID-19. Dr. Vinay Prasad is very good at coming up with very bad reasons as to why unvaccinated children should contract COVID. In\u2026 [+9386 chars]",
+      "retrievedAt": "2024-07-27 07:06:06.704537",
+      "internal_id": "1a55b8788176c5f26e533ab3e303ddbc17570d661ea11bbc39585e6ae7ed13cf",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11446,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Starobserver.com.au",
+      "author": "Dr Antimony Deor",
+      "title": "\u2018Limit Sexual Partners\u2019 To Reduce Mpox Transmission, Says Chief Health Officer",
+      "description": "Mpox numbers continue to rise across Australia, with 152 cases recorded this year so far \u2013 and Chief Health Officer of Victoria, Dr Clare Looker, has advised keeping records of ... The post \u2018Limit Sexual Partners\u2019 To Reduce Mpox Transmission, Says Chief Healt\u2026",
+      "url": "https://www.starobserver.com.au/news/national-news/victoria-news/limit-sexual-partners-mpox/232207",
+      "urlToImage": "https://www.starobserver.com.au/wp-content/uploads/2024/07/mpox2.jpg",
+      "publishedAt": "2024-07-26 06:56:07",
+      "content": "Mpox numbers continue to rise across Australia, with 152 cases recorded this year so far and Chief Health Officer of Victoria, Dr Clare Looker, has advised keeping records of sexual partners for cont\u2026 [+3580 chars]",
+      "retrievedAt": "2024-07-27 07:06:09.370495",
+      "internal_id": "5166adcd4e94a45f434016b10e2614d8f4efb76ab33c5803056245ef8defd846",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11437,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "Obesity Raises Hospitalizations From Dengue In Children: Study",
+      "description": "Researchers have uncovered a significant link between obesity in children and increased likelihood of hospitalization due to dengue in a large-scale study.",
+      "url": "https://www.medicaldaily.com/obesity-raises-hospitalizations-dengue-children-study-472024",
+      "urlToImage": "https://d.medicaldaily.com/en/full/472878/dengue.jpg",
+      "publishedAt": "2024-07-26 06:13:58",
+      "content": "Can a person's body mass index influence the severity of dengue infection? Researchers have uncovered a significant link between obesity in children and increased likelihood of hospitalization due to\u2026 [+2243 chars]",
+      "retrievedAt": "2024-07-27 07:06:07.816936",
+      "internal_id": "fe521bb0c0466838394b2106a8ab64a121ce42f890c436442a868b2333990e7f",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11443,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic modtager anbefaling fra det Europ\u00e6iske L\u00e6gemiddelagentur om opdatering af markedsf\u00f8ringstilladelse for koppe- og mpox-vaccine til at inkludere data for brugen af vaccinen mod mpox fra den virkelige verden",
+      "description": "K\u00d8BENHAVN, Danmark, 26. juli 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at Udvalget for Humanmedicinske L\u00e6gemidler (CHMP) under Det Europ\u00e6iske L\u00e6gemiddelagentur (EMA), har anbefalet godkendelse af en type II variation for IMVANEX\u00ae (MVA-BN) koppe- \u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/07/26/2919370/0/da/Bavarian-Nordic-modtager-anbefaling-fra-det-Europ%C3%A6iske-L%C3%A6gemiddelagentur-om-opdatering-af-markedsf%C3%B8ringstilladelse-for-koppe-og-mpox-vaccine-til-at-inkludere-data-for-brugen-af-vac.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-07-26 06:00:00",
+      "content": "Data fra brugen af vaccinen fra den virkelige verden viser effektivitet p\u00e5 op mod 90% mod mpox efter vaccination med to doser MVA-BN samt at vaccinen reducerer risikoen for indl\u00e6ggelse markan\u2026 [+5400 chars]",
+      "retrievedAt": "2024-07-27 07:06:09.351776",
+      "internal_id": "80f80d1f60372350d2970e92f75ab0f0453f58e3cb9e10a0d81491b1bbfbdcf6",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11444,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Receives Positive CHMP Opinion for Including Mpox Real-world Effectiveness Data in European Marketing Authorization for Smallpox and Mpox Vaccine",
+      "description": "COPENHAGEN, Denmark, July 26, 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced that the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) has recommended the approval of a type II variation for IMVANEX\u00ae (MVA-BN\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/07/26/2919370/0/en/Bavarian-Nordic-Receives-Positive-CHMP-Opinion-for-Including-Mpox-Real-world-Effectiveness-Data-in-European-Marketing-Authorization-for-Smallpox-and-Mpox-Vaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-07-26 06:00:00",
+      "content": "Real-world data demonstrating vaccine effectiveness against mpox of up to 90% after two MVA-BN doses and a significant reduction of the risk of mpox-related hospitalizationsCOPENHAG\u2026 [+5458 chars]",
+      "retrievedAt": "2024-07-27 07:06:09.356887",
+      "internal_id": "5b37ed9ceec0d19d5426c533140c29d24c99ea5d783525accda20f278f693f25",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11438,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "AFP -",
+      "title": "Qu'est-ce qu'est cette \"fi\u00e8vre d'Oropouche\", qui vient de faire ses premiers d\u00e9c\u00e8s ?",
+      "description": "La fi\u00e8vre d'Oropouche a caus\u00e9 la mort de deux personnes au Br\u00e9sil, les premiers d\u00e9c\u00e8s jamais constat\u00e9s dans le monde dus \u00e0 cette maladie, a annonc\u00e9 jeudi le minist\u00e8re de la Sant\u00e9 du pays sud-am\u00e9ricain. ...",
+      "url": "https://www.dhnet.be/actu/sante/2024/07/26/quest-ce-quest-cette-fievre-doropouche-qui-vient-de-faire-ses-premiers-deces-A6ZZCZHR5BFTNPI7PQWNQAEOKM/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/AJNRG2A7GZHUPNW6TKJE4N26B4.jpg?auth=3a8f6722a433774f3509ec4f8fc4cc670a503182f6462bd2cd47213965ce099e&width=1200&height=630&quality=85&focal=1388%2C925&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2024-07-26 05:27:19",
+      "content": "\u00c9pid\u00e9mies, m\u00e9t\u00e9o, Jeux Olympiques : Vers un \u00e9t\u00e9 de \"dengue\" avec une grande quantit\u00e9 de mouches et moustiquesLes autorit\u00e9s disent par ailleurs enqu\u00eater sur un autre d\u00e9c\u00e8s, pour lequel on suspecte aus\u2026 [+862 chars]",
+      "retrievedAt": "2024-07-27 07:06:07.832921",
+      "internal_id": "f97b5007d41a129371f7d3a1dfc6b1aea48e44857492076715f0352040650ec7",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11432,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Newsbreak",
+      "title": "Oregon health officials declare a measles outbreak",
+      "description": "Oregon health officials declare a measles outbreaknewsbreak.com",
+      "url": "https://www.newsbreak.com/marion-county-or/3540654728301-oregon-health-officials-declare-a-measles-outbreak",
+      "urlToImage": "https://img.particlenews.com/img/id/1hwKJ1_0udeDr0C00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-07-26 03:05:12",
+      "content": "Welcome to NewsBreak, an open platform where diverse perspectives converge. Most of our content comes from established publications and journalists, as well as from our extensive network of tens of t\u2026 [+531 chars]",
+      "retrievedAt": "2024-07-27 07:06:06.730593",
+      "internal_id": "93ee9b1f9d01a93438ac7aa154626d677988782a92339def1e2a1d7fbe6d47db",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11440,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "WSB Atlanta",
+      "author": "Scott Flynn",
+      "title": "Health officials raise concerns after 20 cases of dengue fever confirmed in Georgia",
+      "description": "The Atlanta-based Centers for Disease Control and Prevention has issued a warning to healthcare providers to be vigilant for the virus.",
+      "url": "https://www.wsbtv.com/news/local/atlanta/health-officials-raise-concerns-after-20-cases-dengue-fever-confirmed-georgia/YUNTL665RVG3NORFKN5GV432WA/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/GUnMzpXboQaUX9VrhbwlKZ9Dg30=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/AVHNCYK3OFASRC4P4NU7TSI5PQ.jpg",
+      "publishedAt": "2024-07-26 02:56:28",
+      "content": "ATLANTA \u2014 Health officials are raising concerns about a significant increase in cases of dengue fever. Here in Georgia, there are currently 20 reported cases, with most of them in metro Atlanta. Th\u2026 [+1878 chars]",
+      "retrievedAt": "2024-07-27 07:06:07.888437",
+      "internal_id": "eee8b9bc546e653f76cd414309580042951099717736e3c1e066354eb784b9fc",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11439,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BFMTV",
+      "author": null,
+      "title": "La fi\u00e8vre d'Oropouche a caus\u00e9 la mort de deux personnes au Br\u00e9sil, une premi\u00e8re dans le monde",
+      "description": "\"Jusqu'\u00e0 pr\u00e9sent, aucun d\u00e9c\u00e8s\" li\u00e9 \u00e0 cette maladie, qui pr\u00e9sente des sympt\u00f4mes similaires \u00e0 ceux de la dengue, n'avait \"\u00e9t\u00e9 signal\u00e9 dans la litt\u00e9rature scientifique mondiale\", annonce ce jeudi 25 juillet le minist\u00e8re br\u00e9silien de la Sant\u00e9.",
+      "url": "https://www.bfmtv.com/international/amerique-latine/bresil/la-fievre-d-oropouche-a-cause-la-mort-de-deux-personnes-au-bresil-une-premiere-dans-le-monde_AD-202407260058.html",
+      "urlToImage": "https://images.bfmtv.com/T606d-2LefwS6equmqyXa0glVTc=/0x100:1920x1180/1920x0/images/Drapeau-Bresil-1760233.jpg",
+      "publishedAt": "2024-07-26 00:38:02",
+      "content": "\"Jusqu'\u00e0 pr\u00e9sent, aucun d\u00e9c\u00e8s\" li\u00e9 \u00e0 cette maladie, qui pr\u00e9sente des sympt\u00f4mes similaires \u00e0 ceux de la dengue, n'avait \"\u00e9t\u00e9 signal\u00e9 dans la litt\u00e9rature scientifique mondiale\", annonce ce jeudi 25 jui\u2026 [+1582 chars]",
+      "retrievedAt": "2024-07-27 07:06:07.837853",
+      "internal_id": "10f5e4382256984dc830be1804344efe97bd05712000a89efdeb4c730f286c43",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 11445,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Tasnima Alam Asa, Young Jun Seo",
+      "title": "I-motif sensor for the fluorometric detection of Monkeypox",
+      "description": "Analyst, 2024, Accepted ManuscriptDOI: 10.1039/D4AN00947A, PaperTasnima Alam Asa, Young Jun SeoIn this study, we developed an isothermal fluorometric diagnostic method for DNA virus-generating disorders such as Mpox. Our results showed that the release of a l\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2024/an/d4an00947a",
+      "urlToImage": null,
+      "publishedAt": "2024-07-25 23:00:00",
+      "content": "T. A. Asa and Y. J. Seo, Analyst, 2024, Accepted Manuscript , DOI: 10.1039/D4AN00947A To request permission to reproduce material from this article, please go to the Copyright Clearance Center\u2026 [+581 chars]",
+      "retrievedAt": "2024-07-27 07:06:09.365703",
+      "internal_id": "5b00c7eb5bcb651b57ec13298fb79ef95b7b7c2b6b6a5cccfd9bdd60d9340bcc",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11436,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "Christopher Vondracek",
+      "title": "Minnesota State Fair will prohibit dairy cows at Miracle of Birth over bird flu risk",
+      "description": "The spread in cattle herds of H5N1, often called bird flu, has ramped up biosecurity measures for livestock as Minnesota's county and state fair season begins.",
+      "url": "https://www.startribune.com/minnesota-state-fair-no-dairy-cow-calf-miracle-birth-bird-flu/600386149/",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/3C76S2U2HMVQN6ISJZ7WVY7VSE.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2024-07-25 22:19:45",
+      "content": "The Miracle of Birth Center offering Minnesota State Fair-goers an annual fix of cute baby farm animals and their proud mothers will go ahead without birthing cows this year as fears of bird flu in t\u2026 [+5234 chars]",
+      "retrievedAt": "2024-07-27 07:06:07.428008",
+      "internal_id": "9284f89e821accd1ef75bc8af6762262f128e3384fa69e6f9cd9ddf82b51090e",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11429,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WJBC News",
+      "author": "Wmbd-tv Tazewell",
+      "title": "Bat tests positive for rabies, Tazewell County health officials say",
+      "description": "Report any bites to animal control, and wash the injury thoroughly before seeking medical attention. (WJBC file photo) By WMBD-TV TAZEWELL COUNTY - The Tazewell County Health Department announced Wednesday that it found and tested a bat for rabies in th\u2026",
+      "url": "https://www.wjbc.com/2024/07/25/bat-tests-positive-for-rabies-tazewell-county-health-officials-say/",
+      "urlToImage": "https://www.wjbc.com/wp-content/uploads/sites/389/2016/06/Bat-aleksandra-630x420.jpg",
+      "publishedAt": "2024-07-25 22:00:37",
+      "content": "Report any bites to animal control, and wash the injury thoroughly before seeking medical attention. (WJBC file photo) By WMBD-TV TAZEWELL COUNTY \u2013 The Tazewell County Health Department announced W\u2026 [+1054 chars]",
+      "retrievedAt": "2024-07-27 07:06:06.290316",
+      "internal_id": "7479bdaf5d44a9b34657ddba4d0c80778c758abd68d0d3d2896a8f286cda9721",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11441,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Annika Burgess",
+      "title": "Calls to limit sexual partners as mpox makes a resurgence in Australia",
+      "description": "Australia is experiencing a resurgence of mpox, prompting alerts from state health departments as clusters of the virus continue to grow.",
+      "url": "https://www.abc.net.au/news/2024-07-26/mpox-cases-outbreak-australia-victoria-spike-infections/104119360",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7bc6fdc5903b88d2ab3a7ac8a662cbb5?impolicy=wcms_watermark_news&cropH=530&cropW=942&xPos=114&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-07-25 21:03:20",
+      "content": "Australia is experiencing a resurgence of mpox, with infections this year surpassing the 2022 outbreak. So far, 152 cases have been recorded across the country, prompting alerts from state health d\u2026 [+6561 chars]",
+      "retrievedAt": "2024-07-27 07:06:09.337700",
+      "internal_id": "55887aa1a9e055be4d7bd8170241b8dcee4bde6b7eeebda29e84f9d86de180a6",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11434,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 9",
+      "author": "Howard Thompson",
+      "title": "3 new cases of measles detected in MN: What we know",
+      "description": "The Minnesota Department of Health says three new measles cases have been detected this week in Anoka, Hennepin, and Ramsey County.",
+      "url": "https://www.fox9.com/news/3-new-cases-measles-detected-mn-what-we-know",
+      "urlToImage": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/07/1280/720/measles-generic.jpg?ve=1&tl=1",
+      "publishedAt": "2024-07-25 21:02:58",
+      "content": "(FOX 9) - The Minnesota Department of Health (MDH) says three new measles cases have been detected this week in Anoka, Hennepin, and Ramsey counties. One case was detected on Monday and the other tw\u2026 [+2036 chars]",
+      "retrievedAt": "2024-07-27 07:06:06.743968",
+      "internal_id": "115c36eefbd9eaabb88269b10f5cb7ada73f85765dd84b65648d06f626bb0f8b",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11431,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "Jeremy Olson",
+      "title": "Measles threat detected in Twin Cities, concerning public health officials",
+      "description": "Public health officials say unvaccinated people are at risk after three unrelated cases diagnosed.",
+      "url": "https://www.startribune.com/measles-cases-diagnosed-minnesota-unvaccinated-at-risk/600386109/",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/NVTXL3P25NEH5LSX24BAO3PR6I.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2024-07-25 20:47:48",
+      "content": "Three unrelated measles cases in the Twin Cities this month have state health officials concerned that the viral infection is circulating locally and presenting a threat to anyone who isn't vaccinate\u2026 [+1959 chars]",
+      "retrievedAt": "2024-07-27 07:06:06.714291",
+      "internal_id": "cdd8cd157e108689e600c37919ca74d95f26db575b9892da451c2699e4f6022f",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11442,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "Burundi records first three mpox cases",
+      "description": "Burundi has detected its first three cases of mpox, the health ministry announced Thursday, raising fears that a new, deadlier strain of the virus had crossed the border. Formerly known as monkeypox, mpox is an infectious disease caused by a virus transmitted\u2026",
+      "url": "https://punchng.com/burundi-records-first-three-mpox-cases/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2024-07-25 20:24:38",
+      "content": "Burundi has detected its first three cases of mpox, the health ministry announced Thursday, raising fears that a new, deadlier strain of the virus had crossed the border. Formerly known as monkeypox\u2026 [+2247 chars]",
+      "retrievedAt": "2024-07-27 07:06:09.342840",
+      "internal_id": "ba05c3ea66ae3584043ee51038cee086ef11e82c45956cdd635c3b9bf8316e0a",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11433,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Anthony Bettin",
+      "title": "Measles confirmed in 3 unvaccinated Twin Cities children, health department says",
+      "description": "Three children in the Twin Cities were confirmed to have measles this week, and two of them required hospitalization, health officials said.",
+      "url": "https://www.cbsnews.com/minnesota/news/measles-confirmed-in-3-unvaccinated-twin-cities-children/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2021/03/30/3f8acc07-f4b3-4b14-9efc-9bc2c180f147/thumbnail/1200x630/8bb793a2b1bc8997fca90753782b55c3/en-0130-measles-338750-640x360.jpg?v=5501038cbc281520ff9fdc308faab7dc",
+      "publishedAt": "2024-07-25 20:15:37",
+      "content": "MINNEAPOLIS \u2014 Three children in the Twin Cities were confirmed to have measles this week, and two of them required hospitalization, health officials said. The cases occurred in Anoka, Hennepin and R\u2026 [+1629 chars]",
+      "retrievedAt": "2024-07-27 07:06:06.739319",
+      "internal_id": "2d7e4dcac4c0a09c5174d3c0f9a94348dab50c863aaa6bc67d80682ea568822c",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 11435,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "CDC Confirms Three Human Cases of H5 Bird Flu Among Colorado Poultry Workers",
+      "description": "Media Statement - Three additional human cases of highly pathogenic avian influenza (HPAI) A(H5) (\u201cH5 bird flu\u201d) virus infection have been confirmed by the Centers for Disease Control and Prevention (CDC) in association with a second poultry farm in Northeast\u2026",
+      "url": "https://www.cdc.gov/media/releases/2024/s0725-three-human-cases-of-h5-bird-flu.html",
+      "urlToImage": "https://www.cdc.gov/media/images/releases/iconic-images/outbreaks/dairy-cows.jpg?_=76663",
+      "publishedAt": "2024-07-25 20:08:44",
+      "content": "July 25, 2024 \u2013 Three additional human cases of highly pathogenic avian influenza (HPAI) A(H5) (\u201cH5 bird flu\u201d) virus infection have been confirmed by the Centers for Disease Control and Prevention (C\u2026 [+3579 chars]",
+      "retrievedAt": "2024-07-27 07:06:06.922284",
+      "internal_id": "f05397879da678f42837382d025068f3f2df3d68bf69a90be660b63e3f0a2b09",
+      "publishedAtLabel": "Jul 25"
+    },
     {
       "id": 11416,
       "query": [
@@ -25976,6 +26300,60 @@
       "content": "Malaria is one of the worlds deadliest diseases. Across Africa, it kills nearly half a million children younger than 5 each year. A new vaccine, only the second of its kind, holds the promise of savi\u2026 [+176 chars]",
       "retrievedAt": "2024-06-11 07:05:51.137587",
       "internal_id": "f4315756e3e4c6c36890f03a069abb6d7f34c3bf2e3b69a301eb1ef851c629ca",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9980,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u092a\u094d\u0930\u093f\u092f\u0947\u0936 \u092e\u093f\u0936\u094d\u0930",
+      "title": "H5N2 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0907\u0902\u0938\u093e\u0928 \u0915\u0940 \u092e\u094c\u0924, \u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a",
+      "description": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u092e\u0947\u0902 59 \u0935\u0930\u094d\u0937\u0940\u092f \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u0938\u092c-\u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092e\u0943\u0924\u094d\u092f\u0941 \u0939\u0941\u0908 \u0939\u0948\u0964 \u0907\u0938\u0947 H5N2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0947 \u0915\u093f\u0938\u0940 \u092e\u0928\u0941\u0937\u094d\u092f \u0915\u094b \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0928\u0947 \u0915\u093e \u092a\u0939\u0932\u093e \u091c\u094d\u091e\u093e\u0924 \u092e\u093e\u092e\u0932\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 1996 \u0938\u0947 H5N1 \u0928\u093e\u092e\u0915 \u090f\u0915 \u0905\u0928\u094d\u092f \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0915\u0947 \u0932\u0917\u092d\u0917 900 \u092e\u093e\u0928\u0935 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902, \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u0906\u0927\u0947 \u0938\u0947\u2026",
+      "url": "https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-39062,msid-110853100/navbharat-times.jpg",
+      "publishedAt": "2024-06-09 18:01:24",
+      "content": ": 59 H5N2 1996 H5N1 900 WHO H5 , - ? , 59 (WHO) , , , , \" , (52) \" 51 52 - , , \" , \" '' \" \" 51 : , Adv: 6-16 , 65% 3.0 - , LiveIND vs PAK: , 120 <\u2026 [+223 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.004275",
+      "internal_id": "b4d989dd1da56f6bc0439c6bef6423c07b5918dabfc8d7753194ed1ae156fcb6",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9986,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Anna Kurek",
+      "title": "Naukowcy szykuj\u0105 now\u0105 szczepionk\u0119. Ma zapobiec kolejnej pandemii",
+      "description": "\u015awiat zaczyna si\u0119 powa\u017cnie niepokoi\u0107 ptasi\u0105 gryp\u0105. Istnieje niebezpiecze\u0144stwo, \u017ce mutuj\u0105cy wirus, a szczeg\u00f3lnie typy H5N1, H7N9 i H9N2, mog\u0105 zagrozi\u0107 ludziom i przynie\u015b\u0107 kolejn\u0105 pandemi\u0119. Kilka laboratori\u00f3w na \u015bwiecie pracuje ju\u017c nad szczepionkami, kt\u00f3re mia\u0142\u2026",
+      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html",
+      "urlToImage": "https://bi.im-g.pl/im/40/9b/1d/z31044160IER,Szczepionka-na-ptasia-grype.jpg",
+      "publishedAt": "2024-06-09 10:25:00",
+      "content": "Ostatnie doniesienia na temat ptasiej grypy s bardzo niepokojce. Znaleziono dowody na pierwsze zakaenia wr\u00f3d ludzi. Oznacza to, e istnieje niebezpieczestwo, e mutujcy wirus stanie si zdolny do masowe\u2026 [+2508 chars]",
+      "retrievedAt": "2024-06-11 07:05:50.031940",
+      "internal_id": "a3f3bac77995c0bd9cacca967c87d17581f6d56f2f2ad172156b1c423478a475",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 9974,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "2chblog.jp",
+      "author": "ko_jo",
+      "title": "\u3010\u60b2\u5831\u3011\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u3001\u5973\u5150\u304c\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306b\u611f\u67d3\u3057\u305f\u3068\u767a\u8868",
+      "description": "1\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:14:10.36ID:eMXCByJm0 8\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:17:52.63ID:vU7IJfVJ0.net \u9ce5\u30a4\u30f3\u30d5\u30eb\u6b7b\u306c\u53ef\u80fd\u6027\u3069\u306e\u304f\u3089\u3044\uff1f\uff1f 22\uff1a\u306a\u306a\u3057\uff1a 2024/06/09(\u65e5) 09:22:25.45ID:IpCz3VXT0.net >>8 H5N1\u4e9c\u578b\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb...",
+      "url": "https://news.2chblog.jp/archives/52044998.html",
+      "urlToImage": null,
+      "publishedAt": "2024-06-09 09:18:06",
+      "content": "1 2024/06/09() 09:14:10.36ID:eMXCByJm0 8 2024/06/09() 09:17:52.63ID:vU7IJfVJ0.net 22 2024/06/09() 09:22:25.45ID:IpCz3VXT0.net 77 2024/06/09() 09:41:46.02ID:AdyMwMaM0.net 208 2024/06/09() 10:46:\u2026 [+998 chars]",
+      "retrievedAt": "2024-06-10 19:05:35.748105",
+      "internal_id": "856e0d9de9b997cd78131c7245c3b234a6d641efeff8c1e801851545f67854bb",
       "publishedAtLabel": "Jun 9"
     }
   ]

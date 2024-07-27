@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2024-07-26 19:06
-- **Most recent article:** 2024-07-25 19:00:47
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-07-27 07:06
+- **Most recent article:** 2024-07-26 07:06:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-24 | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 47 | 537 |
-| h5n1 | 48 | 29 | 36 | 59 | 52 | 62 | 35 | 321 |
-| mpox | 26 | 14 | 46 | 21 | 26 | 17 | 6 | 156 |
+| dengue | 114 | 62 | 105 | 52 | 95 | 62 | 51 | 541 |
+| h5n1 | 51 | 29 | 36 | 59 | 52 | 62 | 36 | 325 |
+| mpox | 26 | 14 | 46 | 21 | 26 | 17 | 12 | 162 |
 | malaria | 37 | 20 | 24 | 15 | 14 | 31 | 12 | 153 |
+| measles | 6 | 11 | 8 | 9 | 12 | 19 | 15 | 80 |
 | zika | 12 | 3 | 17 | 20 | 12 | 6 | 6 | 76 |
-| measles | 6 | 11 | 8 | 9 | 12 | 19 | 10 | 75 |
 | chikungunya | 14 | 5 | 17 | 6 | 6 | 10 | 6 | 64 |
-| rabies | 2 | 5 | 8 | 4 | 2 | 17 | 6 | 44 |
+| rabies | 2 | 5 | 8 | 4 | 2 | 17 | 7 | 45 |
 | pertussis | 11 | 11 | 3 | 1 | 2 | 0 | 5 | 33 |
-| hpai | 4 | 4 | 3 | 3 | 5 | 6 | 2 | 27 |
+| hpai | 4 | 4 | 3 | 3 | 5 | 6 | 3 | 28 |
 | typhoid | 1 | 2 | 3 | 4 | 6 | 1 | 2 | 19 |
 | meningitis | 3 | 1 | 1 | 3 | 5 | 3 | 2 | 18 |
 | leptospirosis | 1 | 1 | 2 | 1 | 3 | 4 | 1 | 13 |
@@ -60,6 +60,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (rabies)
 
+- [Bat tests positive for rabies, Tazewell County health officials say](https://www.wjbc.com/2024/07/25/bat-tests-positive-for-rabies-tazewell-county-health-officials-say/) (WJBC News)
+
 - [53 domestic dogs vaccinated against rabies in Kyaikto after rabies virus found in Thayetkone village](https://www.gnlm.com.mm/53-domestic-dogs-vaccinated-against-rabies-in-kyaikto-after-rabies-virus-found-in-thayetkone-village/) (Gnlm.com.mm)
 
 - [Officials: Hanover cat tested positive for rabies](https://richmond.com/news/local/rabies-case-hanover-cat-mechanicsville/article_e30c9de6-491f-11ef-9e12-4bac1c7416a3.html) (Richmond.com)
@@ -86,6 +88,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (mpox)
 
+- [‘Limit Sexual Partners’ To Reduce Mpox Transmission, Says Chief Health Officer](https://www.starobserver.com.au/news/national-news/victoria-news/limit-sexual-partners-mpox/232207) (Starobserver.com.au)
+
+- [Bavarian Nordic modtager anbefaling fra det Europæiske Lægemiddelagentur om opdatering af markedsføringstilladelse for koppe- og mpox-vaccine til at inkludere data for brugen af vaccinen mod mpox fra den virkelige verden](https://www.globenewswire.com/news-release/2024/07/26/2919370/0/da/Bavarian-Nordic-modtager-anbefaling-fra-det-Europ%C3%A6iske-L%C3%A6gemiddelagentur-om-opdatering-af-markedsf%C3%B8ringstilladelse-for-koppe-og-mpox-vaccine-til-at-inkludere-data-for-brugen-af-vac.html) (GlobeNewswire)
+
+- [Bavarian Nordic Receives Positive CHMP Opinion for Including Mpox Real-world Effectiveness Data in European Marketing Authorization for Smallpox and Mpox Vaccine](https://www.globenewswire.com/news-release/2024/07/26/2919370/0/en/Bavarian-Nordic-Receives-Positive-CHMP-Opinion-for-Including-Mpox-Real-world-Effectiveness-Data-in-European-Marketing-Authorization-for-Smallpox-and-Mpox-Vaccine.html) (GlobeNewswire)
+
+- [I-motif sensor for the fluorometric detection of Monkeypox](https://pubs.rsc.org/en/content/articlelanding/2024/an/d4an00947a) (Royal Society of Chemistry)
+
+- [Calls to limit sexual partners as mpox makes a resurgence in Australia](https://www.abc.net.au/news/2024-07-26/mpox-cases-outbreak-australia-victoria-spike-infections/104119360) (ABC News (AU))
+
+- [Burundi records first three mpox cases](https://punchng.com/burundi-records-first-three-mpox-cases/) (The Punch)
+
 - [Telaşlandıran yeni salgın! Hızla yayılıyor: Yüzlerce ölü, binlerce vaka var](https://www.haber7.com/foto-galeri/86832-telaslandiran-yeni-salgin-hizla-yayiliyor-yuzlerce-olu-binlerce-vaka-var) (Haber7.com)
 
 - [Aantal gevallen van apenpokken stijgt exponentieel in Congo, "maar niet meteen gevaar voor een wereldwijde pandemie"](https://www.vrt.be/vrtnws/nl/2024/07/23/apenpokken-stijging-gevallen-congolese-stad/) (Www.vrt.be)
@@ -105,6 +119,16 @@ Source: [News API](https://newsapi.org/)
 - [Dos víctimas y un lío de competencias: alarma por el mosquito del Nilo en Sevilla](https://www.elconfidencial.com/espana/andalucia/2024-07-23/victimas-competencias-alarma-mosquito-nilo-sevilla_3929699/) (Elconfidencial.com)
 
 ## 24-30 (measles)
+
+- [Making Up Reasons to Let Unvaccinated Kids Get COVID: Pediatricians Will Run Out of Time and Measles Will Return](https://sciencebasedmedicine.org/time/) (Sciencebasedmedicine.org)
+
+- [Oregon health officials declare a measles outbreak](https://www.newsbreak.com/marion-county-or/3540654728301-oregon-health-officials-declare-a-measles-outbreak) (Newsbreak.com)
+
+- [3 new cases of measles detected in MN: What we know](https://www.fox9.com/news/3-new-cases-measles-detected-mn-what-we-know) (FOX 9)
+
+- [Measles threat detected in Twin Cities, concerning public health officials](https://www.startribune.com/measles-cases-diagnosed-minnesota-unvaccinated-at-risk/600386109/) (Minneapolis Star Tribune)
+
+- [Measles confirmed in 3 unvaccinated Twin Cities children, health department says](https://www.cbsnews.com/minnesota/news/measles-confirmed-in-3-unvaccinated-twin-cities-children/) (CBS News)
 
 - [Marion County reports rising cases of measles throughout summer](https://www.kgw.com/article/news/health/marion-county-measles-adult-children-unvaccinated/283-74fc7017-1d16-4da8-9d24-17e04284073b) (KGW.com)
 
@@ -158,11 +182,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (hpai)
 
+- [CDC Confirms Three Human Cases of H5 Bird Flu Among Colorado Poultry Workers](https://www.cdc.gov/media/releases/2024/s0725-three-human-cases-of-h5-bird-flu.html) (Cdc.gov)
+
 - [US bird flu outbreak: Interspecies transmission confirmed](https://www.dw.com/en/us-bird-flu-outbreak-interspecies-transmission-confirmed/a-69094487) (DW (English))
 
 - [Colorado Human Bird Flu Cases Being Tied to Heat Wave](https://legalinsurrection.com/2024/07/colorado-human-bird-flu-cases-being-tied-to-heat-wave/) (Legalinsurrection.com)
 
 ## 24-30 (h5n1)
+
+- [Minnesota State Fair will prohibit dairy cows at Miracle of Birth over bird flu risk](https://www.startribune.com/minnesota-state-fair-no-dairy-cow-calf-miracle-birth-bird-flu/600386149/) (Minneapolis Star Tribune)
 
 - [H5N1: gripe aviária está sendo transmitida entre mamíferos, confirma estudo](https://super.abril.com.br/saude/h5n1-gripe-aviaria-esta-sendo-transmitida-entre-mamiferos-confirma-estudo) (Abril.com.br)
 
@@ -235,6 +263,14 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (dengue)
+
+- [Obesity Raises Hospitalizations From Dengue In Children: Study](https://www.medicaldaily.com/obesity-raises-hospitalizations-dengue-children-study-472024) (Medical Daily)
+
+- [Qu'est-ce qu'est cette "fièvre d'Oropouche", qui vient de faire ses premiers décès ?](https://www.dhnet.be/actu/sante/2024/07/26/quest-ce-quest-cette-fievre-doropouche-qui-vient-de-faire-ses-premiers-deces-A6ZZCZHR5BFTNPI7PQWNQAEOKM/) (dh.be)
+
+- [Health officials raise concerns after 20 cases of dengue fever confirmed in Georgia](https://www.wsbtv.com/news/local/atlanta/health-officials-raise-concerns-after-20-cases-dengue-fever-confirmed-georgia/YUNTL665RVG3NORFKN5GV432WA/) (WSB Atlanta)
+
+- [La fièvre d'Oropouche a causé la mort de deux personnes au Brésil, une première dans le monde](https://www.bfmtv.com/international/amerique-latine/bresil/la-fievre-d-oropouche-a-cause-la-mort-de-deux-personnes-au-bresil-une-premiere-dans-le-monde_AD-202407260058.html) (BFMTV)
 
 - [Contrarreloj, el Gobierno negocia la compra de 160.000 vacunas contra el dengue para aplicar en áreas de alto riesgo](https://www.lanacion.com.ar/sociedad/contrarreloj-el-gobierno-negocia-la-compra-de-160000-vacunas-contra-el-dengue-para-aplicar-en-areas-nid25072024/) (La Nacion)
 
@@ -3049,6 +3085,12 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu: Australia records first human case of H5N1](https://www.bmj.com/content/385/bmj.q1281) (The BMJ)
 
 - [Now That Someone Has Dropped Dead, Fear Of H5N2 Is Already Starting To Ripple All Over The Globe](https://www.shtfplan.com/headline-news/now-that-someone-has-dropped-dead-fear-of-h5n2-is-already-starting-to-ripple-all-over-the-globe) (Shtfplan.com)
+
+- [H5N2 बर्ड फ्लू से पहली बार इंसान की मौत, मेक्सिको में मचा हड़कंप](https://navbharattimes.indiatimes.com/world/science-news/man-dies-in-mexico-from-first-known-human-case-of-h5n2-bird-flu/articleshow/110853053.cms) (The Times of India)
+
+- [Naukowcy szykują nową szczepionkę. Ma zapobiec kolejnej pandemii](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31040970,naukowcy-szykuja-nowa-szczepionke-ma-zapobiec-kolejnej-pandemii.html) (Gazeta.pl)
+
+- [【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表](https://news.2chblog.jp/archives/52044998.html) (2chblog.jp)
 
 ## 24-24 (dengue)
 
