@@ -1,8 +1,98 @@
 {
-  "last_updated": "2024-07-28 07:06",
-  "count_articles_total": 1228,
-  "count_articles_new": 9,
+  "last_updated": "2024-07-28 19:05",
+  "count_articles_total": 1227,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 11475,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Seznam.cz",
+      "author": null,
+      "title": "Hlavn\u00ed hygieni\u010dka: Tropick\u00fdch nemoc\u00ed p\u0159ib\u00fdv\u00e1 i kv\u016fli bat\u016f\u017ek\u00e1\u0159\u016fm",
+      "description": "V \u010cesku p\u0159ib\u00fdv\u00e1 lid\u00ed s mal\u00e1ri\u00ed, hore\u010dkou dengue i kl\u00ed\u0161\u0165ov\u00fdmi infekcemi, kter\u00e9 se objevovaly je\u0161t\u011b doned\u00e1vna sp\u00ed\u0161 v ji\u017en\u011bji polo\u017een\u00fdch st\u00e1tech. S glob\u00e1ln\u00edm oteplov\u00e1n\u00edm se to ale m\u011bn\u00ed. Podle hlavn\u00ed hygieni\u010dky Barbory Mackov\u00e9 si budou \u010ce\u0161i muset zvykat na klimat\u2026",
+      "url": "https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https%3A%2F%2Fwww.novinky.cz%2Fclanek%2Fdomaci%2Dhlavni%2Dhygienicka%2Dtropickych%2Dnemoci%2Dpribyva%2Di%2Dkvuli%2Dbatuzkarum%2D40480872%3Fcwreturn%3D1&service=bcr&cwtime=1722098414466",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27 16:26:13",
+      "content": "Dolo k chyb pi na\u00edt\u00e1n\u00ed skriptu na t\u00e9to str\u00e1nce. Tato chyba me b\u00fdt zpsobena pouit\u00edm roz\u00eden\u00ed prohl\u00edee nebo blok\u00e1tor, kter\u00e9 mohou ovlivnit na\u00edt\u00e1n\u00ed str\u00e1nky. Pro spr\u00e1vnou funknost str\u00e1nky pros\u00edme, deakti\u2026 [+275 chars]",
+      "retrievedAt": "2024-07-28 19:05:39.445905",
+      "internal_id": "224ca9f04ccec4b6ed3bec580a39734ac8a992830bdf687e7b1ec39c19a76efd",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 11473,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Timothy Nerozzi",
+      "title": "Measles cases surge to triple last year's \u2014 with 5 months to go",
+      "description": "Measles infections are more than triple the rate of 2023 with five months still to go, according to statistics from the Centers for Disease Control and Prevention.",
+      "url": "https://www.foxnews.com/health/measles-cases-surge-triple-last-years-with-5-months-go",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/measles-virus.jpg",
+      "publishedAt": "2024-07-27 16:24:12",
+      "content": "The United States' rate of measles infections in 2024 is more than triple that of 2023, despite almost half the year still remaining. There have been 188 reported cases of measles in the U.S. this y\u2026 [+1803 chars]",
+      "retrievedAt": "2024-07-28 19:05:38.335507",
+      "internal_id": "082af42186a7f5bf72af054eee31d83d3c35ead1d3780719b904b38a76d038c2",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 11472,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Timothy Nerozzi",
+      "title": "Measles cases surge to triple last year's \u2014 with 5 months to go",
+      "description": "Measles infections are more than triple the rate of 2023 with five months still to go, according to statistics from the Centers for Disease Control and Prevention.",
+      "url": "https://www.foxnews.com/politics/measles-cases-surge-triple-last-years-with-5-months-go",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/measles-virus.jpg",
+      "publishedAt": "2024-07-27 14:17:45",
+      "content": "The United States' rate of measles infections in 2024 is more than triple that of 2023, despite almost half the year still remaining. There have been 188 reported cases of measles in the U.S. this y\u2026 [+1803 chars]",
+      "retrievedAt": "2024-07-28 19:05:38.329238",
+      "internal_id": "16682f98c0e891c2a3ac4875be33713c2c85d13d220482f20ff06afa68d51435",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 11474,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Kr\u00e1ll Bernarda",
+      "title": "Eur\u00f3p\u00e1ra v\u00e1ratlanul lecsaphat az \u00faj tr\u00f3pusi betegs\u00e9g",
+      "description": "Eur\u00f3p\u00e1ra v\u00e1ratlanul lecsaphat az \u00faj tr\u00f3pusi betegs\u00e9g - Vigy\u00e1z\u00f3 szemeink a tengerparti kuty\u00e1kra vess\u00fck!",
+      "url": "https://index.hu/tudomany/2024/07/27/tropusi-betegseg-parazita-leishmaniasis-mediterran-globalis-felmelegedes/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/5745/57454/574546/57454639_4249497_7174c789614f093a43d065357ddd2d8e_wm.jpg",
+      "publishedAt": "2024-07-27 13:50:00",
+      "content": "Az elm\u00falt \u00e9vtizedekben Eur\u00f3p\u00e1ban egyre t\u00f6bb tr\u00f3pusi betegs\u00e9g \u00fct\u00f6tte fel a fej\u00e9t, p\u00e9ld\u00e1ul a dengue-l\u00e1z vagy a mal\u00e1ria. Az \u00e9ghajlatnak ebben domin\u00e1ns szerepe van, a meleg, p\u00e1rad\u00fas leveg kedvez a k\u00f3roko\u2026 [+3677 chars]",
+      "retrievedAt": "2024-07-28 19:05:39.399864",
+      "internal_id": "98002302bf2909664d0ebb9231aebda4296baae96fed1eabc5b6e9ef38d15089",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 11471,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles case confirmed in Moncton area after possible exposure on flight from Montreal to Fredericton",
+      "description": "A measles case has been confirmed in New Brunswick after possible exposure on an Air Canada flight between Montreal and Fredericton on July 20 and other locations.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-case-confirmed-in-moncton-area-after-possible-exposure-on-flight-from-montreal-to-fredericton-1.7277583",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1714000801!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2024-07-27 11:52:00",
+      "content": "A case of the measles has been confirmed in New Brunswick. The Office of the Chief Medical Officer is warning about potential exposure to a case of the contagious respiratory disease in the Moncton \u2026 [+702 chars]",
+      "retrievedAt": "2024-07-28 19:05:38.302687",
+      "internal_id": "73453ef21c251e46d546a793902b62714cce4c4dc4531bc3d8cd7bf80494b4e1",
+      "publishedAtLabel": "Jul 27"
+    },
     {
       "id": 11465,
       "query": [
@@ -22079,115 +22169,6 @@
       "content": "Surtos de tosse convulsa est\u00e3o se expandindo por pa\u00edses da Europa desde dezembro do ano passado. A tosse convulsa \u00e9 uma doen\u00e7a contagiosa causada pela bact\u00e9ria Bordetella pertussis, sendo mais perigo\u2026 [+1660 chars]",
       "retrievedAt": "2024-06-18 07:05:55.587098",
       "internal_id": "988626a53785c9f7ffb9ca7cde5b7ed7d6b6ea3f07016835a68e812b851c99b0",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10238,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "F\u00e1bio Andrighetto",
-      "title": "Surto de coqueluche alerta para import\u00e2ncia da vacina\u00e7\u00e3o",
-      "description": "A coqueluche, causada pela bact\u00e9ria Bordetella pertussis e popularmente conhecida como tosse comprida, \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria que afeta pessoas em",
-      "url": "https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/04/vacina-todos-os-virus.jpg",
-      "publishedAt": "2024-06-16 17:35:53",
-      "content": "A coqueluche, causada pela bact\u00e9ria Bordetella pertussis e popularmente conhecida como tosse comprida, \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria que afeta pessoas em todo o mundo. Suas principais caracter\u00edsticas s\u2026 [+2434 chars]",
-      "retrievedAt": "2024-06-17 19:05:15.607136",
-      "internal_id": "6fa8324d7573031b2cbbfe4bc488016aa7cccd2a709c249424bc03142aa21674",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10240,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
-      "title": "\u0648\u06cc\u0631\u0648\u0633 \u0641\u0648\u0642 \u062d\u0627\u062f \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u062f\u0631 \u0634\u06cc\u0631 \u062e\u0627\u0645 \u06a9\u0627\u0647\u0634 \u06cc\u0627\u0641\u062a",
-      "description": "\u0628\u0631 \u0627\u0633\u0627\u0633 \u0622\u0632\u0645\u0627\u06cc\u0634\u06cc \u06a9\u0647 \u0646\u062a\u0627\u06cc\u062c \u0622\u0646 \u0628\u0647 \u062a\u0627\u0632\u06af\u06cc \u062f\u0631 \u0645\u062c\u0644\u0647 \u067e\u0632\u0634\u06a9\u06cc New England \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a\u060c \u0645\u0634\u062e\u0635 \u0634\u062f \u06a9\u0647 \u0633\u0637\u062d \u0648\u06cc\u0631\u0648\u0633 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u062f\u0631 \u0634\u06cc\u0631 \u062e\u0627\u0645\u060c \u0628\u0627 \u0639\u0645\u0644\u06cc\u0627\u062a \u062d\u0631\u0627\u0631\u062a\u06cc \u0628\u0647 \u0633\u0631\u0639\u062a \u06a9\u0627\u0647\u0634 \u0645\u06cc\u200c\u06cc\u0627\u0628\u062f.",
-      "url": "https://www.isna.ir/news/1403032718613/\u0648\u06cc\u0631\u0648\u0633-\u0641\u0648\u0642-\u062d\u0627\u062f-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-H5N1-\u062f\u0631-\u0634\u06cc\u0631-\u062e\u0627\u0645-\u06a9\u0627\u0647\u0634-\u06cc\u0627\u0641\u062a",
-      "urlToImage": "https://cdn.isna.ir/d/off/isfahan/2024/06/16/4/63069912.jpg?ts=1718538853770",
-      "publishedAt": "2024-06-16 12:28:45",
-      "content": "New England H5N1 . H5N1 . (. ) -- . . HPAI H5N1 . . . . NIAID HN (. ) ( ) . HPAI HN . . . ( ) H5N1 . . ( ) : H5N1 . New England . : #",
-      "retrievedAt": "2024-06-17 19:05:16.623672",
-      "internal_id": "f8a356926c6e12ee2fcada4c2e2e45124b031d711ee2b3df3f41e61be3c98ff3",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10243,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Briefly.co.za",
-      "author": "Zingisa Chirwa",
-      "title": "Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance",
-      "description": "The Health Department has urged citizens on medication to stick to their regimen to reduce the risk of Mpox infection after the disease claimed a seventh victim.",
-      "url": "https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/",
-      "urlToImage": "https://netstorage-briefly.akamaized.net/images/8630d18d9a64985c.jpg?imwidth=1200",
-      "publishedAt": "2024-06-16 11:13:15",
-      "content": "The Health Department has advised those on chronic medication to stick to their regimen to reduce the risk of contracting MpoxThe department issued the warning after a man in Cape To\u2026 [+2625 chars]",
-      "retrievedAt": "2024-06-17 19:05:19.955086",
-      "internal_id": "d33ffe1426bbb240d759f06bd17c8d48b8f7cc46baeb5baba5396354bf8fdabd",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10242,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study",
-      "description": "Researchers stumbled upon a potential breakthrough while studying fat cells in mice.",
-      "url": "https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640",
-      "urlToImage": "https://c.ndtvimg.com/2024-02/0u5i71bo_pcos_625x300_19_February_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
-      "publishedAt": "2024-06-16 08:33:37",
-      "content": "PCOS disrupts hormone production, leading to irregular periods, infertility, and other symptoms An existing malaria drug, artemisinin, shows promise in treating Polycystic Ovary Syndrome (PCOS) symp\u2026 [+1850 chars]",
-      "retrievedAt": "2024-06-17 19:05:18.566430",
-      "internal_id": "97d1289c9eff27bd05d1d6b354237debfff7d5ca31a9d2259479c5b6b9ee1d1f",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10241,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Simone Cordeiro",
-      "title": "Como diferenciar sintomas da dengue e leptospirose?",
-      "description": "Sintomas semelhantes podem aparecer em ambas as doen\u00e7as, mas alguns ind\u00edcios podem ser determinantes para o diagn\u00f3stico correto. O post Como diferenciar sintomas da dengue e leptospirose? apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/",
-      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/06/Medica-examinando-paciente-scaled.jpg",
-      "publishedAt": "2024-06-16 08:20:00",
-      "content": "Em situa\u00e7\u00f5es de calamidade, como as chuvas que devastaram o Rio Grande do Sul, a coexist\u00eancia da dengue e da leptospirose pode acontecer. Dessa forma, uma pessoa pode apresentar sintomas de dengue e \u2026 [+2532 chars]",
-      "retrievedAt": "2024-06-17 19:05:17.453454",
-      "internal_id": "eea602e598efddbef22da04bc02ae911aad3f8ef317e05820e84019c6b97fbec",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10239,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
-      "title": "O que \u00e9 coqueluche? Entenda a doen\u00e7a que est\u00e1 em ascens\u00e3o no Brasil",
-      "description": "A coqueluche, tamb\u00e9m conhecida como tosse convulsiva, \u00e9 uma doen\u00e7a respirat\u00f3ria altamente ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/14/gettyimages-1345955042-qhqmnzplxrhh.jpg",
-      "publishedAt": "2024-06-16 08:00:14",
-      "content": "A coqueluche, tamb\u00e9m conhecida como tosse convulsiva, \u00e9 uma doen\u00e7a respirat\u00f3ria altamente contagiosa causada pela bact\u00e9ria Bordetella pertussis. Apesar de ser preven\u00edvel por meio da vacina\u00e7\u00e3o, a coqu\u2026 [+2767 chars]",
-      "retrievedAt": "2024-06-17 19:05:15.634294",
-      "internal_id": "7fafafb2aba1a77d6df102a5ab6b58759f47aed4245a62e9f857735e7154e406",
       "publishedAtLabel": "Jun 16"
     }
   ]

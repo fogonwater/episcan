@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-07-28 07:06
-- **Most recent article:** 2024-07-27 06:15:48
+- **New articles in last harvest:** 5
+- **Last harvest:** 2024-07-28 19:05
+- **Most recent article:** 2024-07-27 16:26:13
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 62 | 105 | 52 | 95 | 62 | 60 | 436 |
-| h5n1 | 29 | 36 | 59 | 52 | 62 | 37 | 275 |
-| mpox | 14 | 46 | 21 | 26 | 17 | 16 | 140 |
-| malaria | 20 | 24 | 15 | 14 | 31 | 15 | 119 |
-| measles | 11 | 8 | 9 | 12 | 19 | 19 | 78 |
+| dengue | 61 | 105 | 52 | 95 | 62 | 62 | 437 |
+| h5n1 | 28 | 36 | 59 | 52 | 62 | 37 | 274 |
+| mpox | 13 | 46 | 21 | 26 | 17 | 16 | 139 |
+| malaria | 19 | 24 | 15 | 14 | 31 | 15 | 118 |
+| measles | 11 | 8 | 9 | 12 | 19 | 22 | 81 |
 | zika | 3 | 17 | 20 | 12 | 6 | 10 | 68 |
 | chikungunya | 5 | 17 | 6 | 6 | 10 | 7 | 51 |
 | rabies | 5 | 8 | 4 | 2 | 17 | 7 | 43 |
-| hpai | 4 | 3 | 3 | 5 | 6 | 3 | 24 |
-| pertussis | 11 | 3 | 1 | 2 | 0 | 5 | 22 |
+| hpai | 3 | 3 | 3 | 5 | 6 | 3 | 23 |
+| pertussis | 9 | 3 | 1 | 2 | 0 | 5 | 20 |
 | typhoid | 2 | 3 | 4 | 6 | 1 | 3 | 19 |
 | meningitis | 0 | 1 | 3 | 5 | 3 | 2 | 14 |
 | leptospirosis | 1 | 2 | 1 | 3 | 4 | 1 | 12 |
@@ -137,6 +137,12 @@ Source: [News API](https://newsapi.org/)
 - [Dos víctimas y un lío de competencias: alarma por el mosquito del Nilo en Sevilla](https://www.elconfidencial.com/espana/andalucia/2024-07-23/victimas-competencias-alarma-mosquito-nilo-sevilla_3929699/) (Elconfidencial.com)
 
 ## 24-30 (measles)
+
+- [Measles cases surge to triple last year's — with 5 months to go](https://www.foxnews.com/health/measles-cases-surge-triple-last-years-with-5-months-go) (Fox News)
+
+- [Measles cases surge to triple last year's — with 5 months to go](https://www.foxnews.com/politics/measles-cases-surge-triple-last-years-with-5-months-go) (Fox News)
+
+- [Measles case confirmed in Moncton area after possible exposure on flight from Montreal to Fredericton](https://www.cbc.ca/news/canada/montreal/measles-case-confirmed-in-moncton-area-after-possible-exposure-on-flight-from-montreal-to-fredericton-1.7277583) (CBC News)
 
 - [Two children diagnosed with Measles in Shuklaphanta Municipality](https://english.khabarhub.com/2024/27/367398/) (Khabarhub.com)
 
@@ -297,6 +303,10 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (dengue)
+
+- [Hlavní hygienička: Tropických nemocí přibývá i kvůli batůžkářům](https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https%3A%2F%2Fwww.novinky.cz%2Fclanek%2Fdomaci%2Dhlavni%2Dhygienicka%2Dtropickych%2Dnemoci%2Dpribyva%2Di%2Dkvuli%2Dbatuzkarum%2D40480872%3Fcwreturn%3D1&service=bcr&cwtime=1722098414466) (Seznam.cz)
+
+- [Európára váratlanul lecsaphat az új trópusi betegség](https://index.hu/tudomany/2024/07/27/tropusi-betegseg-parazita-leishmaniasis-mediterran-globalis-felmelegedes/) (Index.hu)
 
 - [El dengue ‘se adueña’ de Guerrero: Ya suman 9 muertes y 4 mil 48 casos probables](https://www.elfinanciero.com.mx/estados/2024/07/26/el-dengue-se-aduena-de-guerrero-ya-suman-9-muertes-y-4-mil-48-casos-probables/) (El Financiero)
 
@@ -2500,10 +2510,6 @@ Source: [News API](https://newsapi.org/)
 
 - [O que é a tosse convulsa que está preocupando países da Europa?](https://gizmodo.uol.com.br/o-que-e-a-tosse-convulsa-que-esta-preocupando-paises-da-europa/) (Uol.com.br)
 
-- [Surto de coqueluche alerta para importância da vacinação](https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/) (Catracalivre.com.br)
-
-- [O que é coqueluche? Entenda a doença que está em ascensão no Brasil](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html) (Terra.com.br)
-
 ## 24-25 (mpox)
 
 - [Mpox cases detected in New South Wales, prompting vaccination alert](https://7news.com.au/news/mpox-cases-detected-in-new-south-wales-prompting-vaccination-alert-c-15104974) (7NEWS.com.au)
@@ -2531,8 +2537,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox cases increase in LA County; health officials advise at-risk residents to take precautions](https://abc7.com/post/mpox-cases-increase-la-county-health-officials-advise/14967262/) (KABC-TV)
 
 - [Reemergence of Clade IIb–Associated Mpox, Germany, July–December 2023](https://wwwnc.cdc.gov/eid/article/30/7/24-0092_article) (Cdc.gov)
-
-- [Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance](https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/) (Briefly.co.za)
 
 ## 24-25 (measles)
 
@@ -2598,8 +2602,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Noul Participates in a Malaria Project Initiated by U.S. CDC with Kenya Medical Research Institute](https://www.investing.com/news/press-releases/noul-participates-in-a-malaria-project-initiated-by-us-cdc-with-kenya-medical-research-institute-93CH-3486734) (Investing.com)
 
-- [Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study](https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640) (NDTV News)
-
 ## 24-25 (leptospirosis)
 
 - [Terengganu Health Dept denies 16 leptospirosis cases claims](https://www.thestar.com.my/news/nation/2024/06/22/terengganu-health-dept-denies-16-leptospirosis-cases-claims) (The Star Online)
@@ -2611,8 +2613,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu detected on poultry farm in New South Wales](https://www.abc.net.au/news/2024-06-19/bird-flu-detected-on-new-south-wales-poultry-egg-farm/103997490) (ABC News (AU))
 
 - [Птичий грипп "просочился" из лаборатории Минсельхоза США](https://www.news2.ru/story/684610/) (News2.ru)
-
-- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (h5n1)
 
@@ -2671,8 +2671,6 @@ Source: [News API](https://newsapi.org/)
 - [Eksperci obawiają się kolejnej pandemii. "Niepokój większy niż kiedykolwiek"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31067412,eksperci-obawiaja-sie-kolejnej-pandemii-niepokoj-wiekszy-niz.html) (Gazeta.pl)
 
 - [Bird flu snapshot: A critic of the U.S. response speaks out](https://www.statnews.com/2024/06/17/bird-flu-snapshot-seth-berkley-usda-tom-vilsack/) (STAT)
-
-- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
 
@@ -2797,8 +2795,6 @@ Source: [News API](https://newsapi.org/)
 - [Nyaralók, figyelem: egzotikus és rejtélyes betegségre érkezett most védőoltás](https://index.hu/belfold/2024/06/17/vedooltas-oltokozpont-utazas-nyaralas-oltas/) (Index.hu)
 
 - [BMA, businesses join hands in dengue war](https://www.bangkokpost.com/thailand/general/2812004/bma-businesses-join-hands-in-dengue-war) (Bangkok Post)
-
-- [Como diferenciar sintomas da dengue e leptospirose?](https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/) (Olhardigital.com.br)
 
 ## 24-25 (chikungunya)
 
