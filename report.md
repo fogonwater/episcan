@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2024-07-28 19:05
-- **Most recent article:** 2024-07-27 16:26:13
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-07-29 07:06
+- **Most recent article:** 2024-07-28 05:25:22
 
 ---
 
@@ -10,27 +10,45 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 61 | 105 | 52 | 95 | 62 | 62 | 437 |
-| h5n1 | 28 | 36 | 59 | 52 | 62 | 37 | 274 |
-| mpox | 13 | 46 | 21 | 26 | 17 | 16 | 139 |
-| malaria | 19 | 24 | 15 | 14 | 31 | 15 | 118 |
-| measles | 11 | 8 | 9 | 12 | 19 | 22 | 81 |
-| zika | 3 | 17 | 20 | 12 | 6 | 10 | 68 |
-| chikungunya | 5 | 17 | 6 | 6 | 10 | 7 | 51 |
-| rabies | 5 | 8 | 4 | 2 | 17 | 7 | 43 |
-| hpai | 3 | 3 | 3 | 5 | 6 | 3 | 23 |
-| pertussis | 9 | 3 | 1 | 2 | 0 | 5 | 20 |
-| typhoid | 2 | 3 | 4 | 6 | 1 | 3 | 19 |
-| meningitis | 0 | 1 | 3 | 5 | 3 | 2 | 14 |
-| leptospirosis | 1 | 2 | 1 | 3 | 4 | 1 | 12 |
-| yersinia | 0 | 2 | 0 | 6 | 0 | 2 | 10 |
+| Disease | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 62 | 105 | 52 | 95 | 62 | 63 | 2 | 441 |
+| h5n1 | 29 | 36 | 59 | 52 | 62 | 38 | 0 | 276 |
+| mpox | 14 | 46 | 21 | 26 | 17 | 16 | 0 | 140 |
+| malaria | 20 | 24 | 15 | 14 | 31 | 16 | 0 | 120 |
+| measles | 11 | 8 | 9 | 12 | 19 | 22 | 1 | 82 |
+| zika | 3 | 17 | 20 | 12 | 6 | 10 | 0 | 68 |
+| chikungunya | 5 | 17 | 6 | 6 | 10 | 7 | 1 | 52 |
+| rabies | 5 | 8 | 4 | 2 | 17 | 8 | 0 | 44 |
+| hpai | 4 | 3 | 3 | 5 | 6 | 3 | 0 | 24 |
+| pertussis | 11 | 3 | 1 | 2 | 0 | 5 | 0 | 22 |
+| typhoid | 2 | 3 | 4 | 6 | 1 | 3 | 0 | 19 |
+| meningitis | 0 | 1 | 3 | 5 | 3 | 2 | 0 | 14 |
+| leptospirosis | 1 | 2 | 1 | 3 | 4 | 1 | 1 | 13 |
+| yersinia | 0 | 2 | 0 | 6 | 0 | 2 | 0 | 10 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-31 (measles)
+
+- [TWiV 1135: Resistance is not always futile](https://www.microbe.tv/twiv/twiv-1135/) (Microbe.tv)
+
+## 24-31 (leptospirosis)
+
+- [SP to brgy heads: Intensify campaign vs leptospirosis](https://rpnradio.com/sp-to-brgy-heads-intensify-campaign-vs-leptospirosis/) (Rpnradio.com)
+
+## 24-31 (dengue)
+
+- [Infektionskrankheiten: Behörden rechnen mit Ausbreitung von Tigermücke im Norden](https://www.stern.de/gesellschaft/regional/hamburg-schleswig-holstein/infektionskrankheiten--behoerden-rechnen-mit-ausbreitung-von-tigermuecke-im-norden-34922626.html) (STERN.de)
+
+- [Dengue: four deaths, 317 new cases reported](https://www.thestar.com.my/news/nation/2024/07/28/dengue-four-deaths-317-new-cases-reported) (The Star Online)
+
+## 24-31 (chikungunya)
+
+- [Ο Δάγκειος πυρετός προβληματίζει τους διοργανωτές των Ολυμπιακών Αγώνων – Τοποθετήθηκαν 526 παγίδες κουνουπιών στο Παρίσι](https://www.newsit.gr/kosmos/o-dagkeios-pyretos-provlimatizei-tous-diorganotes-ton-olympiakon-agonon-topothetithikan-526-pagides-kounoupion-sto-parisi/4144240/) (Newsit.gr)
 
 ## 24-30 (zika)
 
@@ -69,6 +87,8 @@ Source: [News API](https://newsapi.org/)
 - [Commentary: What you flush could give clues to help stop the next pandemic](https://www.channelnewsasia.com/commentary/pandemic-wastewater-testing-detect-pathogen-virus-disease-covid-bird-flu-zika-4495676) (CNA)
 
 ## 24-30 (rabies)
+
+- [53 dogs vaccinated against rabies in Kyaikto after virus found in Thayetgon](https://www.gnlm.com.mm/53-dogs-vaccinated-against-rabies-in-kyaikto-after-virus-found-in-thayetgon/) (Gnlm.com.mm)
 
 - [Bat tests positive for rabies, Tazewell County health officials say](https://www.wjbc.com/2024/07/25/bat-tests-positive-for-rabies-tazewell-county-health-officials-say/) (WJBC News)
 
@@ -184,6 +204,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-30 (malaria)
 
+- [Febra Dengue. Cum să îți salvezi viața și să previi infecția severă: semnele timpurii](https://adevarul.ro/stiri-interne/sanatate/febra-dengue-cum-sa-iti-salvezi-viata-si-sa-2377974.html) (Adevarul.ro)
+
 - [Incomplete malaria treatment on the rise — Pharmacists](https://punchng.com/incomplete-malaria-treatment-on-the-rise-pharmacists/) (The Punch)
 
 - [There’s a downside to success in the fight against malaria](https://www.futurity.org/bed-bugs-malaria-insecticides-mosquitoes-3241302/) (Futurity: Research News)
@@ -227,6 +249,8 @@ Source: [News API](https://newsapi.org/)
 - [Colorado Human Bird Flu Cases Being Tied to Heat Wave](https://legalinsurrection.com/2024/07/colorado-human-bird-flu-cases-being-tied-to-heat-wave/) (Legalinsurrection.com)
 
 ## 24-30 (h5n1)
+
+- [From farm to pandemic: the urgent need for dietary changes [PODCAST]](https://www.kevinmd.com/2024/07/from-farm-to-pandemic-the-urgent-need-for-dietary-changes-podcast.html) (Kevinmd.com)
 
 - [Bird Flu's Alarming Jump To Cats, Raccoons - Videos from The Weather Channel](https://weather.com/health/cold-flu/video/bird-flu-spreads-beyond-cows-in-concerning-first) (The Weather Channel)
 
@@ -303,6 +327,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1133: Gain of function makes us safer](https://www.microbe.tv/twiv/twiv-1133/) (Microbe.tv)
 
 ## 24-30 (dengue)
+
+- [Febra Dengue. Cum să îți salvezi viața și să previi infecția severă: semnele timpurii](https://adevarul.ro/stiri-interne/sanatate/febra-dengue-cum-sa-iti-salvezi-viata-si-sa-2377974.html) (Adevarul.ro)
 
 - [Hlavní hygienička: Tropických nemocí přibývá i kvůli batůžkářům](https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https%3A%2F%2Fwww.novinky.cz%2Fclanek%2Fdomaci%2Dhlavni%2Dhygienicka%2Dtropickych%2Dnemoci%2Dpribyva%2Di%2Dkvuli%2Dbatuzkarum%2D40480872%3Fcwreturn%3D1&service=bcr&cwtime=1722098414466) (Seznam.cz)
 
@@ -2510,6 +2536,10 @@ Source: [News API](https://newsapi.org/)
 
 - [O que é a tosse convulsa que está preocupando países da Europa?](https://gizmodo.uol.com.br/o-que-e-a-tosse-convulsa-que-esta-preocupando-paises-da-europa/) (Uol.com.br)
 
+- [Surto de coqueluche alerta para importância da vacinação](https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/) (Catracalivre.com.br)
+
+- [O que é coqueluche? Entenda a doença que está em ascensão no Brasil](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html) (Terra.com.br)
+
 ## 24-25 (mpox)
 
 - [Mpox cases detected in New South Wales, prompting vaccination alert](https://7news.com.au/news/mpox-cases-detected-in-new-south-wales-prompting-vaccination-alert-c-15104974) (7NEWS.com.au)
@@ -2537,6 +2567,8 @@ Source: [News API](https://newsapi.org/)
 - [Mpox cases increase in LA County; health officials advise at-risk residents to take precautions](https://abc7.com/post/mpox-cases-increase-la-county-health-officials-advise/14967262/) (KABC-TV)
 
 - [Reemergence of Clade IIb–Associated Mpox, Germany, July–December 2023](https://wwwnc.cdc.gov/eid/article/30/7/24-0092_article) (Cdc.gov)
+
+- [Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance](https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/) (Briefly.co.za)
 
 ## 24-25 (measles)
 
@@ -2602,6 +2634,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Noul Participates in a Malaria Project Initiated by U.S. CDC with Kenya Medical Research Institute](https://www.investing.com/news/press-releases/noul-participates-in-a-malaria-project-initiated-by-us-cdc-with-kenya-medical-research-institute-93CH-3486734) (Investing.com)
 
+- [Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study](https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640) (NDTV News)
+
 ## 24-25 (leptospirosis)
 
 - [Terengganu Health Dept denies 16 leptospirosis cases claims](https://www.thestar.com.my/news/nation/2024/06/22/terengganu-health-dept-denies-16-leptospirosis-cases-claims) (The Star Online)
@@ -2613,6 +2647,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu detected on poultry farm in New South Wales](https://www.abc.net.au/news/2024-06-19/bird-flu-detected-on-new-south-wales-poultry-egg-farm/103997490) (ABC News (AU))
 
 - [Птичий грипп "просочился" из лаборатории Минсельхоза США](https://www.news2.ru/story/684610/) (News2.ru)
+
+- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (h5n1)
 
@@ -2671,6 +2707,8 @@ Source: [News API](https://newsapi.org/)
 - [Eksperci obawiają się kolejnej pandemii. "Niepokój większy niż kiedykolwiek"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31067412,eksperci-obawiaja-sie-kolejnej-pandemii-niepokoj-wiekszy-niz.html) (Gazeta.pl)
 
 - [Bird flu snapshot: A critic of the U.S. response speaks out](https://www.statnews.com/2024/06/17/bird-flu-snapshot-seth-berkley-usda-tom-vilsack/) (STAT)
+
+- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
 
@@ -2795,6 +2833,8 @@ Source: [News API](https://newsapi.org/)
 - [Nyaralók, figyelem: egzotikus és rejtélyes betegségre érkezett most védőoltás](https://index.hu/belfold/2024/06/17/vedooltas-oltokozpont-utazas-nyaralas-oltas/) (Index.hu)
 
 - [BMA, businesses join hands in dengue war](https://www.bangkokpost.com/thailand/general/2812004/bma-businesses-join-hands-in-dengue-war) (Bangkok Post)
+
+- [Como diferenciar sintomas da dengue e leptospirose?](https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/) (Olhardigital.com.br)
 
 ## 24-25 (chikungunya)
 
