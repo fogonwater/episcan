@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-07-29 07:06
-- **Most recent article:** 2024-07-28 05:25:22
+- **New articles in last harvest:** 2
+- **Last harvest:** 2024-07-29 19:05
+- **Most recent article:** 2024-07-28 13:38:40
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 62 | 105 | 52 | 95 | 62 | 63 | 2 | 441 |
-| h5n1 | 29 | 36 | 59 | 52 | 62 | 38 | 0 | 276 |
-| mpox | 14 | 46 | 21 | 26 | 17 | 16 | 0 | 140 |
-| malaria | 20 | 24 | 15 | 14 | 31 | 16 | 0 | 120 |
+| dengue | 61 | 105 | 52 | 95 | 62 | 63 | 3 | 441 |
+| h5n1 | 28 | 36 | 59 | 52 | 62 | 38 | 0 | 275 |
+| mpox | 13 | 46 | 21 | 26 | 17 | 16 | 0 | 139 |
+| malaria | 19 | 24 | 15 | 14 | 31 | 16 | 0 | 119 |
 | measles | 11 | 8 | 9 | 12 | 19 | 22 | 1 | 82 |
 | zika | 3 | 17 | 20 | 12 | 6 | 10 | 0 | 68 |
 | chikungunya | 5 | 17 | 6 | 6 | 10 | 7 | 1 | 52 |
-| rabies | 5 | 8 | 4 | 2 | 17 | 8 | 0 | 44 |
-| hpai | 4 | 3 | 3 | 5 | 6 | 3 | 0 | 24 |
-| pertussis | 11 | 3 | 1 | 2 | 0 | 5 | 0 | 22 |
+| rabies | 5 | 8 | 4 | 2 | 17 | 8 | 1 | 45 |
+| hpai | 3 | 3 | 3 | 5 | 6 | 3 | 0 | 23 |
+| pertussis | 9 | 3 | 1 | 2 | 0 | 5 | 0 | 20 |
 | typhoid | 2 | 3 | 4 | 6 | 1 | 3 | 0 | 19 |
 | meningitis | 0 | 1 | 3 | 5 | 3 | 2 | 0 | 14 |
 | leptospirosis | 1 | 2 | 1 | 3 | 4 | 1 | 1 | 13 |
@@ -32,6 +32,10 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-31 (rabies)
+
+- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
+
 ## 24-31 (measles)
 
 - [TWiV 1135: Resistance is not always futile](https://www.microbe.tv/twiv/twiv-1135/) (Microbe.tv)
@@ -41,6 +45,8 @@ Source: [News API](https://newsapi.org/)
 - [SP to brgy heads: Intensify campaign vs leptospirosis](https://rpnradio.com/sp-to-brgy-heads-intensify-campaign-vs-leptospirosis/) (Rpnradio.com)
 
 ## 24-31 (dengue)
+
+- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 - [Infektionskrankheiten: Behörden rechnen mit Ausbreitung von Tigermücke im Norden](https://www.stern.de/gesellschaft/regional/hamburg-schleswig-holstein/infektionskrankheiten--behoerden-rechnen-mit-ausbreitung-von-tigermuecke-im-norden-34922626.html) (STERN.de)
 
@@ -2536,10 +2542,6 @@ Source: [News API](https://newsapi.org/)
 
 - [O que é a tosse convulsa que está preocupando países da Europa?](https://gizmodo.uol.com.br/o-que-e-a-tosse-convulsa-que-esta-preocupando-paises-da-europa/) (Uol.com.br)
 
-- [Surto de coqueluche alerta para importância da vacinação](https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/) (Catracalivre.com.br)
-
-- [O que é coqueluche? Entenda a doença que está em ascensão no Brasil](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html) (Terra.com.br)
-
 ## 24-25 (mpox)
 
 - [Mpox cases detected in New South Wales, prompting vaccination alert](https://7news.com.au/news/mpox-cases-detected-in-new-south-wales-prompting-vaccination-alert-c-15104974) (7NEWS.com.au)
@@ -2567,8 +2569,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox cases increase in LA County; health officials advise at-risk residents to take precautions](https://abc7.com/post/mpox-cases-increase-la-county-health-officials-advise/14967262/) (KABC-TV)
 
 - [Reemergence of Clade IIb–Associated Mpox, Germany, July–December 2023](https://wwwnc.cdc.gov/eid/article/30/7/24-0092_article) (Cdc.gov)
-
-- [Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance](https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/) (Briefly.co.za)
 
 ## 24-25 (measles)
 
@@ -2634,8 +2634,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Noul Participates in a Malaria Project Initiated by U.S. CDC with Kenya Medical Research Institute](https://www.investing.com/news/press-releases/noul-participates-in-a-malaria-project-initiated-by-us-cdc-with-kenya-medical-research-institute-93CH-3486734) (Investing.com)
 
-- [Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study](https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640) (NDTV News)
-
 ## 24-25 (leptospirosis)
 
 - [Terengganu Health Dept denies 16 leptospirosis cases claims](https://www.thestar.com.my/news/nation/2024/06/22/terengganu-health-dept-denies-16-leptospirosis-cases-claims) (The Star Online)
@@ -2647,8 +2645,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu detected on poultry farm in New South Wales](https://www.abc.net.au/news/2024-06-19/bird-flu-detected-on-new-south-wales-poultry-egg-farm/103997490) (ABC News (AU))
 
 - [Птичий грипп "просочился" из лаборатории Минсельхоза США](https://www.news2.ru/story/684610/) (News2.ru)
-
-- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (h5n1)
 
@@ -2707,8 +2703,6 @@ Source: [News API](https://newsapi.org/)
 - [Eksperci obawiają się kolejnej pandemii. "Niepokój większy niż kiedykolwiek"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31067412,eksperci-obawiaja-sie-kolejnej-pandemii-niepokoj-wiekszy-niz.html) (Gazeta.pl)
 
 - [Bird flu snapshot: A critic of the U.S. response speaks out](https://www.statnews.com/2024/06/17/bird-flu-snapshot-seth-berkley-usda-tom-vilsack/) (STAT)
-
-- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
 
@@ -2833,8 +2827,6 @@ Source: [News API](https://newsapi.org/)
 - [Nyaralók, figyelem: egzotikus és rejtélyes betegségre érkezett most védőoltás](https://index.hu/belfold/2024/06/17/vedooltas-oltokozpont-utazas-nyaralas-oltas/) (Index.hu)
 
 - [BMA, businesses join hands in dengue war](https://www.bangkokpost.com/thailand/general/2812004/bma-businesses-join-hands-in-dengue-war) (Bangkok Post)
-
-- [Como diferenciar sintomas da dengue e leptospirose?](https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/) (Olhardigital.com.br)
 
 ## 24-25 (chikungunya)
 
