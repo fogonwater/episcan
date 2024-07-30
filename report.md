@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2024-07-30 07:06
-- **Most recent article:** 2024-07-29 07:00:00
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-07-30 19:05
+- **Most recent article:** 2024-07-29 17:34:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 62 | 105 | 52 | 95 | 62 | 63 | 3 | 442 |
-| h5n1 | 29 | 36 | 59 | 52 | 62 | 38 | 1 | 277 |
-| mpox | 14 | 46 | 21 | 26 | 17 | 16 | 0 | 140 |
-| malaria | 20 | 24 | 15 | 14 | 31 | 16 | 0 | 120 |
+| dengue | 61 | 105 | 52 | 95 | 62 | 63 | 9 | 447 |
+| h5n1 | 28 | 36 | 59 | 52 | 62 | 38 | 12 | 287 |
+| mpox | 13 | 46 | 21 | 26 | 17 | 16 | 3 | 142 |
+| malaria | 19 | 24 | 15 | 14 | 31 | 16 | 3 | 122 |
 | measles | 11 | 8 | 9 | 12 | 19 | 22 | 2 | 83 |
 | zika | 3 | 17 | 20 | 12 | 6 | 10 | 0 | 68 |
 | chikungunya | 5 | 17 | 6 | 6 | 10 | 7 | 1 | 52 |
 | rabies | 5 | 8 | 4 | 2 | 17 | 8 | 3 | 47 |
-| hpai | 4 | 3 | 3 | 5 | 6 | 3 | 0 | 24 |
-| pertussis | 11 | 3 | 1 | 2 | 0 | 5 | 1 | 23 |
+| pertussis | 9 | 3 | 1 | 2 | 0 | 5 | 3 | 23 |
+| hpai | 3 | 3 | 3 | 5 | 6 | 3 | 0 | 23 |
 | typhoid | 2 | 3 | 4 | 6 | 1 | 3 | 1 | 20 |
-| meningitis | 0 | 1 | 3 | 5 | 3 | 2 | 0 | 14 |
+| meningitis | 0 | 1 | 3 | 5 | 3 | 2 | 1 | 15 |
 | leptospirosis | 1 | 2 | 1 | 3 | 4 | 1 | 1 | 13 |
 | yersinia | 0 | 2 | 0 | 6 | 0 | 2 | 0 | 10 |
 
@@ -46,7 +46,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-31 (pertussis)
 
+- [Number of new whooping cough cases stagnates in Czech Republic](https://www.thestar.com.my/news/world/2024/07/30/number-of-new-whooping-cough-cases-stagnates-in-czech-republic) (The Star Online)
+
+- [Új rekord: gyorsulva terjed Magyarországon a fertőzés, ami halálesetekkel is járt](https://www.portfolio.hu/gazdasag/20240729/uj-rekord-gyorsulva-terjed-magyarorszagon-a-fertozes-ami-halalesetekkel-is-jart-701145) (Portfolio.hu)
+
 - [That’s a cunning way to defund education and kill a lot of children](https://freethoughtblogs.com/pharyngula/2024/07/28/thats-a-cunning-way-to-defund-education-and-kill-a-lot-of-children/) (Freethoughtblogs.com)
+
+## 24-31 (mpox)
+
+- [Regional block EAC issues alert over spread of Mpox](https://www.thestar.com.my/news/world/2024/07/30/regional-block-eac-issues-alert-over-spread-of-mpox) (The Star Online)
+
+- [Mpox: Wie gefährlich die neue Affenpocken-Variante wirklich ist](https://www.spektrum.de/news/wie-gefaehrlich-die-neue-affenpocken-variante-wirklich-ist/2226444) (Spektrum.de)
+
+- [El ECDC asegura que el riesgo de que llegue la nueva variante de mpox a Europa es "muy bajo"](https://www.infosalus.com/salud-investigacion/noticia-ecdc-asegura-riesgo-llegue-nueva-variante-mpox-europa-muy-20240729183622.html) (Infosalus.com)
+
+## 24-31 (meningitis)
+
+- [Luis Canut, marido de Patricia Pérez, celebra que ha recibido el alta médica](https://www.hola.com/actualidad/20240729709652/luis-canut-recibe-alta-medica/) (Hola)
 
 ## 24-31 (measles)
 
@@ -54,15 +70,57 @@ Source: [News API](https://newsapi.org/)
 
 - [TWiV 1135: Resistance is not always futile](https://www.microbe.tv/twiv/twiv-1135/) (Microbe.tv)
 
+## 24-31 (malaria)
+
+- [Urgent action needed to stop spread of drug-resistant malaria, scientists warn](https://www.voanews.com/a/urgent-action-needed-to-stop-spread-of-drug-resistant-malaria-scientists-warn/7716915.html) (VOA News)
+
+- [Association of a rapidly selected 4.3kb transposon-containing structural variation with a P450-based resistance to pyrethroids in the African malaria vector Anopheles funestus](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011344) (Plos.org)
+
+- [Cost-effectiveness of sentinel screening of endemic diseases alongside malaria diagnosis: A case study in schistosomiasis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012339) (Plos.org)
+
 ## 24-31 (leptospirosis)
 
 - [SP to brgy heads: Intensify campaign vs leptospirosis](https://rpnradio.com/sp-to-brgy-heads-intensify-campaign-vs-leptospirosis/) (Rpnradio.com)
 
 ## 24-31 (h5n1)
 
+- [Pandemiegefahr: Forscher über Vogelgrippe: "Der Geist ist aus der Flasche entkommen"](https://www.stern.de/panorama/wissen/forscher-ueber-vogelgrippe---der-geist-ist-aus-der-flasche-entkommen--34925940.html) (STERN.de)
+
+- [La OMS impulsa una iniciativa para avanzar en el desarrollo de vacunas de ARNm contra la gripe aviar humana](https://www.infosalus.com/actualidad/noticia-oms-impulsa-iniciativa-avanzar-desarrollo-vacunas-arnm-contra-gripe-aviar-humana-20240729180521.html) (Infosalus.com)
+
+- [WHO launches initiative to fast-track mRNA vaccine innovation for human health](https://www.premiumtimesng.com/health/health-news/718435-who-launches-initiative-to-fast-track-mrna-vaccine-innovation-for-human-health.html) (Premium Times)
+
+- [Vogelgrippe: Argentinische Firma entwickelt mRNA-Vogelgrippe-Impfstoff](https://www.tagesspiegel.de/wissen/vogelgrippe-argentinische-firma-entwickelt-mrna-vogelgrippe-impfstoff-12108764.html) (Der Tagesspiegel)
+
+- [Vogelgrippe: Argentinische Firma entwickelt mRNA-Vogelgrippe-Impfstoff](https://www.zeit.de/news/2024-07/29/argentinische-firma-entwickelt-mrna-vogelgrippe-impfstoff) (Die Zeit)
+
+- [Bird flu: Human cases in US rise to 13 following poultry farm outbreak](https://www.bmj.com/content/386/bmj.q1691) (The BMJ)
+
+- [Kuş gribi aşısı geliştirmeyi hızlandıracak çalışma başlatıldı](https://www.haberturk.com/kus-gribine-karsi-asi-gelistirmeyi-hizlandiracak-calisma-baslatti-haberler-3706686) (Haberturk.com)
+
+- [La OMS busca desarrollar vacunas ARNm contra la gripe aviar, la «potencial» futura pandemia](https://www.abc.es/sociedad/oms-busca-desarrollar-vacunas-arnm-gripe-aviar-20240729121854-nt.html) (Www.abc.es)
+
+- [DSÖ'nün de yer aldığı oluşum, kuş gribine karşı aşı geliştirmeyi hızlandıracak çalışma başlattı](https://www.aa.com.tr/tr/saglik/dsonun-de-yer-aldigi-olusum-kus-gribine-karsi-asi-gelistirmeyi-hizlandiracak-calisma-baslatti/3288247) (Anadolu Agency)
+
+- [Bird flu snapshot: H5N1 vaccine work starts in Argentina](https://www.statnews.com/2024/07/29/bird-flu-snapshot-h5n1-vaccine-mrna-argentina-who/) (STAT)
+
+- [New initiative launched to advance mRNA vaccine development against human avian influenza (H5N1)](https://www.who.int/news/item/29-07-2024-new-initiative-launched-to-advance-mrna-vaccine-development-against-human-avian-influenza-(h5n1)) (World Health Organization)
+
 - [To help prevent another pandemic, we must protect US farmworkers from avian flu](https://www.bostonglobe.com/2024/07/29/opinion/avian-flu-birds-cows-farmworkers/) (The Boston Globe)
 
 ## 24-31 (dengue)
+
+- [Avoid Dengue Fever, West Nile Virus This Summer: 4 Tips to Help Repel Mosquitos](https://www.cnet.com/health/personal-care/avoid-dengue-fever-west-nile-virus-this-summer-4-tips-to-help-repel-mosquitos/) (CNET)
+
+- [Could prophylactic antivirals reduce dengue incidence in a high-prevalence endemic area?](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012334) (Plos.org)
+
+- [Drohende Epidemie: Olympischer Mückenschreck](https://taz.de/Drohende-Epidemie/!6023758/) (taz.de)
+
+- [Forscher fürchten Epidemie: Warnung vor Superspreader Olympia](https://taz.de/Forscher-fuerchten-Epidemie/!6023758/) (taz.de)
+
+- [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
+
+- [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
 
 - [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
@@ -2560,10 +2618,6 @@ Source: [News API](https://newsapi.org/)
 
 - [O que é a tosse convulsa que está preocupando países da Europa?](https://gizmodo.uol.com.br/o-que-e-a-tosse-convulsa-que-esta-preocupando-paises-da-europa/) (Uol.com.br)
 
-- [Surto de coqueluche alerta para importância da vacinação](https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/) (Catracalivre.com.br)
-
-- [O que é coqueluche? Entenda a doença que está em ascensão no Brasil](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html) (Terra.com.br)
-
 ## 24-25 (mpox)
 
 - [Mpox cases detected in New South Wales, prompting vaccination alert](https://7news.com.au/news/mpox-cases-detected-in-new-south-wales-prompting-vaccination-alert-c-15104974) (7NEWS.com.au)
@@ -2591,8 +2645,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox cases increase in LA County; health officials advise at-risk residents to take precautions](https://abc7.com/post/mpox-cases-increase-la-county-health-officials-advise/14967262/) (KABC-TV)
 
 - [Reemergence of Clade IIb–Associated Mpox, Germany, July–December 2023](https://wwwnc.cdc.gov/eid/article/30/7/24-0092_article) (Cdc.gov)
-
-- [Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance](https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/) (Briefly.co.za)
 
 ## 24-25 (measles)
 
@@ -2658,8 +2710,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Noul Participates in a Malaria Project Initiated by U.S. CDC with Kenya Medical Research Institute](https://www.investing.com/news/press-releases/noul-participates-in-a-malaria-project-initiated-by-us-cdc-with-kenya-medical-research-institute-93CH-3486734) (Investing.com)
 
-- [Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study](https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640) (NDTV News)
-
 ## 24-25 (leptospirosis)
 
 - [Terengganu Health Dept denies 16 leptospirosis cases claims](https://www.thestar.com.my/news/nation/2024/06/22/terengganu-health-dept-denies-16-leptospirosis-cases-claims) (The Star Online)
@@ -2671,8 +2721,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu detected on poultry farm in New South Wales](https://www.abc.net.au/news/2024-06-19/bird-flu-detected-on-new-south-wales-poultry-egg-farm/103997490) (ABC News (AU))
 
 - [Птичий грипп "просочился" из лаборатории Минсельхоза США](https://www.news2.ru/story/684610/) (News2.ru)
-
-- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (h5n1)
 
@@ -2731,8 +2779,6 @@ Source: [News API](https://newsapi.org/)
 - [Eksperci obawiają się kolejnej pandemii. "Niepokój większy niż kiedykolwiek"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31067412,eksperci-obawiaja-sie-kolejnej-pandemii-niepokoj-wiekszy-niz.html) (Gazeta.pl)
 
 - [Bird flu snapshot: A critic of the U.S. response speaks out](https://www.statnews.com/2024/06/17/bird-flu-snapshot-seth-berkley-usda-tom-vilsack/) (STAT)
-
-- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
 
@@ -2857,8 +2903,6 @@ Source: [News API](https://newsapi.org/)
 - [Nyaralók, figyelem: egzotikus és rejtélyes betegségre érkezett most védőoltás](https://index.hu/belfold/2024/06/17/vedooltas-oltokozpont-utazas-nyaralas-oltas/) (Index.hu)
 
 - [BMA, businesses join hands in dengue war](https://www.bangkokpost.com/thailand/general/2812004/bma-businesses-join-hands-in-dengue-war) (Bangkok Post)
-
-- [Como diferenciar sintomas da dengue e leptospirose?](https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/) (Olhardigital.com.br)
 
 ## 24-25 (chikungunya)
 
