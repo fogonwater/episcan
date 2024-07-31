@@ -1,8 +1,224 @@
 {
-  "last_updated": "2024-07-31 07:05",
-  "count_articles_total": 1280,
-  "count_articles_new": 6,
+  "last_updated": "2024-07-31 19:05",
+  "count_articles_total": 1286,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 11528,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Everyday Health",
+      "author": "Lisa Rapaport",
+      "title": "COVID-19 and Dengue Fever Are Paris Olympics Threats",
+      "description": "Experts warn about health risks both athletes and fans are facing at the Paris Olympics, including infectious diseases and mosquito-borne illnesses.",
+      "url": "https://www.everydayhealth.com/infectious-diseases/paris-olympic-games-pose-health-risks-to-athletes-and-fans-alike/",
+      "urlToImage": "https://images.everydayhealth.com/images/news/health-risk-for-paris-olympians-and-fans-1440x810.jpg?sfvrsn=bcc2dacd_1",
+      "publishedAt": "2024-07-30 18:24:16",
+      "content": "If you followed the run-up to the Paris Olympics, you may be familiar with the debate over whether its safe for triathletes to swim in the notoriously contaminated Seine. The naysayers may have been \u2026 [+5146 chars]",
+      "retrievedAt": "2024-07-31 19:05:38.695222",
+      "internal_id": "d2bd8dd385757b3a90528544e71a61c50a36d4d5017617de2a6ed668ebd86fdf",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 11527,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jungewelt.de",
+      "author": "Thomas Berger",
+      "title": "Pharmaindustrie: Wachstumsmotor Generika [Online-Abo]",
+      "description": "Die Ausfuhren der indischen Pharmaindustrie liegen auf Rekordniveau. Besonders gro\u00df sind die Marktanteile in den USA und bei Impfstoffen. 2026 k\u00f6nnte einer gegen das Dengue-Fieber zugelassen werden.",
+      "url": "https://www.jungewelt.de/artikel/480631.pharmaindustrie-wachstumsmotor-generika.html",
+      "urlToImage": "https://www.jungewelt.de/img/1100/197938.jpg",
+      "publishedAt": "2024-07-30 17:54:45",
+      "content": "Fr\u00fcher wurde die BRD als \u00bbApotheke der Welt\u00ab bezeichnet, heute ist es Indien. Im Gesch\u00e4ftsjahr 2023/2024, das am 31. M\u00e4rz endete, hat das bev\u00f6lkerungsreichste Land der Erde Medikamente im Wert von 27\u2026 [+273 chars]",
+      "retrievedAt": "2024-07-31 19:05:38.660862",
+      "internal_id": "a00d752c384d5be450e14897173f1cefc41b0a781a09fe5deff7eb9dd5a0109b",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 11531,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Donna di 70 anni morta dopo puntura di zanzara tigre. Ipotesi caso di Chikungunya",
+      "description": "Una donna di 70 anni di Spinea (Venezia), ricoverata in terapia intensiva dopo essere stata punta da una zanzara tigre, \u00e8 morta oggi all\u2019ospedale All\u2019Angelo di Mestre. Il sospetto \u00e8 che possa aver contratto la Chikungunya. Sono in corso accertamenti in corso \u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/07/30/donna-di-70-anni-morta-dopo-puntura-di-zanzara-tigre-ipotesi-caso-di-chikungunya/7642174/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/07/30/Chikungunya-1200x630.jpg",
+      "publishedAt": "2024-07-30 17:12:00",
+      "content": "(Adnkronos/Dpa/Europa Press) - Il partito politico di opposizione venezuelano Voluntad Popular ha denunciato che il suo leader, Freddy Superlano, \u00e8 stato \"rapito\" dalle forze venezuelane dopo essere \u2026 [+1405 chars]",
+      "retrievedAt": "2024-07-31 19:05:40.201970",
+      "internal_id": "c0fb730f563e0c61837770a2971d5f7853c0a21f6334ffac12a8f4623af5accd",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 11532,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Central African Republic latest to declare mpox outbreak",
+      "description": "Infections have spread to the capital, Bangui, after being restricted to rural areas, the health minister says.",
+      "url": "https://www.bbc.com/news/articles/cm52rk2el81o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1b82/live/8921b700-4e90-11ef-b2d2-cdb23d5d7c5b.jpg",
+      "publishedAt": "2024-07-30 17:10:02",
+      "content": "The Central African Republic has become the latest country in the region to declare an outbreak of the mpox virus. Infections have spread to the capital, Bangui, after being restricted to rural are\u2026 [+1398 chars]",
+      "retrievedAt": "2024-07-31 19:05:40.446953",
+      "internal_id": "7270bbebd8cac1505543fcbbba371999e178c289845346ab70cc3e919b287ca2",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 11529,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "DOUG FERGUSON",
+      "title": "Jason Day regrets missing the 2016 Olympics and refers to burnout",
+      "description": "Jason Day still regrets skipping the Olympics when golf returned to the program in 2016 in Rio de Janeiro. Day was the No. 1 player in the world at the time and cited concerns over the Zika virus.",
+      "url": "https://www.startribune.com/jason-day-regrets-missing-the-2016-olympics-and-refers-to-burnout/600387584/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1721939393",
+      "publishedAt": "2024-07-30 15:38:01",
+      "content": "SAINT-QUENTIN-EN-YVELINES, France Jason Day still regrets skipping the Olympics when golf returned to the program in 2016 in Rio de Janeiro. Day was the No. 1 player in the world at the time and cite\u2026 [+6559 chars]",
+      "retrievedAt": "2024-07-31 19:05:39.827768",
+      "internal_id": "fa514f415f3d480e20625c424bd0992bae5b64f8add8a44fc6dc6391b2fd3fe2",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 11524,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Bernhard Albrecht",
+      "title": "Gilead: Wie der habgierigste Pharmakonzern der Welt den Kampf gegen Aids blockiert",
+      "description": "Zwei Spritzen pro Jahr sch\u00fctzen zu hundert Prozent vor HIV\u2013 besser als eine Impfung. Ein Durchbruch im Kampf gegen Aids. Doch wer nun Hoffnung bekommt, bei\u00dft auf Granit.",
+      "url": "https://www.stern.de/panorama/wissen/aids--wie-gilead-den-kampf-gegen-die-krankheit-verhindert-34929414.html",
+      "urlToImage": "https://image.stern.de/34929886/t/d7/v1/w1440/r1.7778/-/aids-5---demo-in-muenchen.jpg",
+      "publishedAt": "2024-07-30 14:29:00",
+      "content": "Viele erinnern sich noch an den Hype um das Antiviren-Mittel Tamiflu. Einst war es der Hoffnungstr\u00e4ger im Kampf gegen eine bef\u00fcrchtete schwere Grippeepidemie mit einem neuartigen H5N1-Virus. Die Bund\u2026 [+252 chars]",
+      "retrievedAt": "2024-07-31 19:05:38.073081",
+      "internal_id": "9b9effeb296b8d86bbb5bcf1c4c109157b6b61493661dbe62c72f8d4ab02a18d",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 11526,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zive.cz",
+      "author": "Jaroslav Petr",
+      "title": "Pta\u010d\u00ed ch\u0159ipka se v USA \u0161\u00ed\u0159\u00ed mezi savci. Co \u010dek\u00e1 lidi?",
+      "description": "Virus pta\u010d\u00ed ch\u0159ipky H5N1 se roz\u0161\u00ed\u0159il po cel\u00e9m sv\u011bt\u011b \u2022 V posledn\u00ed dob\u011b p\u0159esedlal z pt\u00e1k\u016f na savce. \u2022 Ameri\u010dt\u00ed v\u011bdci vyhl\u00ed\u017eej\u00ed evolu\u010dn\u00ed osudy viru se znepokojen\u00edm.",
+      "url": "https://vtm.zive.cz/clanky/ptaci-chripka-se-v-usa-siri-mezi-savci-co-ceka-lidi/sc-870-a-229389/default.aspx",
+      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=499257393",
+      "publishedAt": "2024-07-30 13:45:00",
+      "content": "Ped dvaceti lety zachv\u00e1tila svt panika z pta\u00ed chipky. Choroba \u00e1dila v Honkongu, \u00edn a dal\u00edch v\u00fdchodoasijsk\u00fdch zem\u00edch. V p\u00edprav na niivou pandemii st\u00e1ty po cel\u00e9m svt nakupovaly ve velk\u00e9m antivirotika, \u2026 [+3405 chars]",
+      "retrievedAt": "2024-07-31 19:05:38.133436",
+      "internal_id": "1451e93fa56e25e1efb81258a0a0af9ab3a12401523832e47924926d8d7d7cd8",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 11523,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Press Trust of India",
+      "title": "Nearly 3 mn dog bite cases reported in 2023, 286 persons died: Govt",
+      "description": "Nearly 30.5 lakh cases of dog bites were reported during 2023 leading to death of 286 persons, the government informed Parliament on Tuesday. \"As per the data captured in the Integrated Disease Surveillance Programme (IDSP) implemented by the Ministry of Heal\u2026",
+      "url": "https://www.business-standard.com/india-news/nearly-3-mn-dog-bite-cases-reported-in-2023-286-persons-died-govt-124073001233_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-07/12/thumb/fitandfill/400X400/1689146707-3367.jpeg",
+      "publishedAt": "2024-07-30 13:43:41",
+      "content": "The number of anti-rabies shots for dog bite cases during the year 2023 was 46,54,398 as reported by National Centre for Disease Control The Animal Welfare Board of India has issued various advisori\u2026 [+1984 chars]",
+      "retrievedAt": "2024-07-31 19:05:37.249556",
+      "internal_id": "209a36569a94a222fb42a8b1f10e91a36202f3042061e5e7bed2915c564f8aaa",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 11530,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "13 cases of Zika virus infection till Jul 22 this year: MoS Anupriya Patel",
+      "description": "Thirteen cases of Zika virus were reported in India by July 22, 2023, with 3 from Karnataka and 10 from Maharashtra. Minister of State for Health Anupriya Patel stated that the Centre has an 'Action Plan for managing Zika Virus Disease' and provides states wi\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/13-cases-of-zika-virus-infection-till-jul-22-this-year-mos-anupriya-patel/articleshow/112139504.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-112139585,width-1200,height-630,imgsize-187660,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-30 12:03:05",
+      "content": "NEW DELHI: Thirteen cases of Zika virus -- 3 from Karnataka and 10 from Maharashtra -- were reported till July 22 this year, Minister of State for Health Anupriya Patel told the Rajya Sabha on Tuesda\u2026 [+1613 chars]",
+      "retrievedAt": "2024-07-31 19:05:39.833601",
+      "internal_id": "34510e8398a0aadacdc1f80d53e1cd0b2d6817c1c6b356d798082efb9c335225",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 11533,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Chris Baraniuk",
+      "title": "Mpox: two years on",
+      "description": "Two years on from the global \u201cmonkeypox\u201d epidemic, the disease now called mpox remains dangerous, reports Chris Baraniuk A picture of the patient\u2019s lesions came through on WhatsApp. Doctors in Kamituga, a mining town in the Democratic Republic of the Congo \u2026",
+      "url": "https://www.bmj.com/content/386/bmj.q1554",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/386/8437.cover-source.jpg",
+      "publishedAt": "2024-07-30 11:46:13",
+      "content": "Chris Baraniuk, freelance journalistBelfast chrisbaraniuk{at}gmail.com Two years on from the global monkeypox epidemic, the disease now called \u2026 [+1670 chars]",
+      "retrievedAt": "2024-07-31 19:05:40.452487",
+      "internal_id": "0e3f0b9d77d10f20682030842ccf0ef7f75b0ef36c3446a76dd0c63a8f4075f5",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 11534,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0434\u0438\u043b\u043e \u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0438 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438 \u0440\u0430\u043d\u0435\u0435 \u043d\u0430\u0447\u0430\u043b\u0430\u0441\u044c \u0432 \u0411\u0443\u0440\u0443\u043d\u0434\u0438 \u0438 \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u041a\u043e\u043d\u0433\u043e",
+      "url": "https://tass.ru/obschestvo/21485171",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21485171?u=2024-07-30T10:04:44.387445",
+      "publishedAt": "2024-07-30 10:04:44",
+      "content": ", 30 . //. () - mpox ( ). . () (). . , 2022 21 . mpox 1 000 . \" - AC \", - . , , , , , , , . Mpox - , , . 1970 . , , , . mpox 1% 10%. .",
+      "retrievedAt": "2024-07-31 19:05:40.457456",
+      "internal_id": "e79055818f1f87ac7d8c26c1c9b0e225c1e4332459f420387adba6869acdbcd4",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 11525,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Kai Wiedermann",
+      "title": "Vogelgrippe: \u201eWir haben Impfstoffe, die zugelassen sind\u201c",
+      "description": "Experten warnen vor einer m\u00f6glichen Pandemie mit H5N1. Anders als bei Corona gibt es schon Impfstoffe \u2013 und neue sind in der Entwicklung.",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article406885887/vogelgrippe-wir-haben-impfstoffe-die-zugelassen-sind.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406898904/406898904_1722332952_v16_9_1600.jpeg",
+      "publishedAt": "2024-07-30 09:49:13",
+      "content": "Berlin. Experten warnen vor einer m\u00f6glichen Pandemie mit H5N1. Anders als bei Corona gibt es schon Impfstoffe und neue sind in der Entwicklung. In den USA haben sich drei weitere Farmarbeiter mit de\u2026 [+3850 chars]",
+      "retrievedAt": "2024-07-31 19:05:38.094985",
+      "internal_id": "493722da729fe5557772540812b7fe0e93e7f432e86dc7df8b3857e7e36ecb1b",
+      "publishedAtLabel": "Jul 30"
+    },
     {
       "id": 11517,
       "query": [
@@ -23017,115 +23233,6 @@
       "content": "Surtos de tosse convulsa est\u00e3o se expandindo por pa\u00edses da Europa desde dezembro do ano passado. A tosse convulsa \u00e9 uma doen\u00e7a contagiosa causada pela bact\u00e9ria Bordetella pertussis, sendo mais perigo\u2026 [+1660 chars]",
       "retrievedAt": "2024-06-18 07:05:55.587098",
       "internal_id": "988626a53785c9f7ffb9ca7cde5b7ed7d6b6ea3f07016835a68e812b851c99b0",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10238,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "F\u00e1bio Andrighetto",
-      "title": "Surto de coqueluche alerta para import\u00e2ncia da vacina\u00e7\u00e3o",
-      "description": "A coqueluche, causada pela bact\u00e9ria Bordetella pertussis e popularmente conhecida como tosse comprida, \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria que afeta pessoas em",
-      "url": "https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/04/vacina-todos-os-virus.jpg",
-      "publishedAt": "2024-06-16 17:35:53",
-      "content": "A coqueluche, causada pela bact\u00e9ria Bordetella pertussis e popularmente conhecida como tosse comprida, \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria que afeta pessoas em todo o mundo. Suas principais caracter\u00edsticas s\u2026 [+2434 chars]",
-      "retrievedAt": "2024-06-17 19:05:15.607136",
-      "internal_id": "6fa8324d7573031b2cbbfe4bc488016aa7cccd2a709c249424bc03142aa21674",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10240,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
-      "title": "\u0648\u06cc\u0631\u0648\u0633 \u0641\u0648\u0642 \u062d\u0627\u062f \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u062f\u0631 \u0634\u06cc\u0631 \u062e\u0627\u0645 \u06a9\u0627\u0647\u0634 \u06cc\u0627\u0641\u062a",
-      "description": "\u0628\u0631 \u0627\u0633\u0627\u0633 \u0622\u0632\u0645\u0627\u06cc\u0634\u06cc \u06a9\u0647 \u0646\u062a\u0627\u06cc\u062c \u0622\u0646 \u0628\u0647 \u062a\u0627\u0632\u06af\u06cc \u062f\u0631 \u0645\u062c\u0644\u0647 \u067e\u0632\u0634\u06a9\u06cc New England \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a\u060c \u0645\u0634\u062e\u0635 \u0634\u062f \u06a9\u0647 \u0633\u0637\u062d \u0648\u06cc\u0631\u0648\u0633 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u062f\u0631 \u0634\u06cc\u0631 \u062e\u0627\u0645\u060c \u0628\u0627 \u0639\u0645\u0644\u06cc\u0627\u062a \u062d\u0631\u0627\u0631\u062a\u06cc \u0628\u0647 \u0633\u0631\u0639\u062a \u06a9\u0627\u0647\u0634 \u0645\u06cc\u200c\u06cc\u0627\u0628\u062f.",
-      "url": "https://www.isna.ir/news/1403032718613/\u0648\u06cc\u0631\u0648\u0633-\u0641\u0648\u0642-\u062d\u0627\u062f-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-H5N1-\u062f\u0631-\u0634\u06cc\u0631-\u062e\u0627\u0645-\u06a9\u0627\u0647\u0634-\u06cc\u0627\u0641\u062a",
-      "urlToImage": "https://cdn.isna.ir/d/off/isfahan/2024/06/16/4/63069912.jpg?ts=1718538853770",
-      "publishedAt": "2024-06-16 12:28:45",
-      "content": "New England H5N1 . H5N1 . (. ) -- . . HPAI H5N1 . . . . NIAID HN (. ) ( ) . HPAI HN . . . ( ) H5N1 . . ( ) : H5N1 . New England . : #",
-      "retrievedAt": "2024-06-17 19:05:16.623672",
-      "internal_id": "f8a356926c6e12ee2fcada4c2e2e45124b031d711ee2b3df3f41e61be3c98ff3",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10243,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Briefly.co.za",
-      "author": "Zingisa Chirwa",
-      "title": "Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance",
-      "description": "The Health Department has urged citizens on medication to stick to their regimen to reduce the risk of Mpox infection after the disease claimed a seventh victim.",
-      "url": "https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/",
-      "urlToImage": "https://netstorage-briefly.akamaized.net/images/8630d18d9a64985c.jpg?imwidth=1200",
-      "publishedAt": "2024-06-16 11:13:15",
-      "content": "The Health Department has advised those on chronic medication to stick to their regimen to reduce the risk of contracting MpoxThe department issued the warning after a man in Cape To\u2026 [+2625 chars]",
-      "retrievedAt": "2024-06-17 19:05:19.955086",
-      "internal_id": "d33ffe1426bbb240d759f06bd17c8d48b8f7cc46baeb5baba5396354bf8fdabd",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10242,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study",
-      "description": "Researchers stumbled upon a potential breakthrough while studying fat cells in mice.",
-      "url": "https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640",
-      "urlToImage": "https://c.ndtvimg.com/2024-02/0u5i71bo_pcos_625x300_19_February_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
-      "publishedAt": "2024-06-16 08:33:37",
-      "content": "PCOS disrupts hormone production, leading to irregular periods, infertility, and other symptoms An existing malaria drug, artemisinin, shows promise in treating Polycystic Ovary Syndrome (PCOS) symp\u2026 [+1850 chars]",
-      "retrievedAt": "2024-06-17 19:05:18.566430",
-      "internal_id": "97d1289c9eff27bd05d1d6b354237debfff7d5ca31a9d2259479c5b6b9ee1d1f",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10241,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Simone Cordeiro",
-      "title": "Como diferenciar sintomas da dengue e leptospirose?",
-      "description": "Sintomas semelhantes podem aparecer em ambas as doen\u00e7as, mas alguns ind\u00edcios podem ser determinantes para o diagn\u00f3stico correto. O post Como diferenciar sintomas da dengue e leptospirose? apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/",
-      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/06/Medica-examinando-paciente-scaled.jpg",
-      "publishedAt": "2024-06-16 08:20:00",
-      "content": "Em situa\u00e7\u00f5es de calamidade, como as chuvas que devastaram o Rio Grande do Sul, a coexist\u00eancia da dengue e da leptospirose pode acontecer. Dessa forma, uma pessoa pode apresentar sintomas de dengue e \u2026 [+2532 chars]",
-      "retrievedAt": "2024-06-17 19:05:17.453454",
-      "internal_id": "eea602e598efddbef22da04bc02ae911aad3f8ef317e05820e84019c6b97fbec",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10239,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
-      "title": "O que \u00e9 coqueluche? Entenda a doen\u00e7a que est\u00e1 em ascens\u00e3o no Brasil",
-      "description": "A coqueluche, tamb\u00e9m conhecida como tosse convulsiva, \u00e9 uma doen\u00e7a respirat\u00f3ria altamente ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/14/gettyimages-1345955042-qhqmnzplxrhh.jpg",
-      "publishedAt": "2024-06-16 08:00:14",
-      "content": "A coqueluche, tamb\u00e9m conhecida como tosse convulsiva, \u00e9 uma doen\u00e7a respirat\u00f3ria altamente contagiosa causada pela bact\u00e9ria Bordetella pertussis. Apesar de ser preven\u00edvel por meio da vacina\u00e7\u00e3o, a coqu\u2026 [+2767 chars]",
-      "retrievedAt": "2024-06-17 19:05:15.634294",
-      "internal_id": "7fafafb2aba1a77d6df102a5ab6b58759f47aed4245a62e9f857735e7154e406",
       "publishedAtLabel": "Jun 16"
     }
   ]
