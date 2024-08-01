@@ -1,8 +1,281 @@
 {
-  "last_updated": "2024-08-01 07:05",
-  "count_articles_total": 1297,
-  "count_articles_new": 5,
+  "last_updated": "2024-08-01 19:05",
+  "count_articles_total": 1306,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 11545,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Reuters",
+      "title": "Aster DM Healthcare Q1FY25 results: Net profit rises 81.3% to Rs 81 cr",
+      "description": "Analysts expect hospital chains in the region to benefit from the acute flu season that, apart from coinciding with the June quarter, is known to bring diseases such as dengue and malaria",
+      "url": "https://www.business-standard.com/companies/results/aster-dm-healthcare-q1fy25-results-net-profit-rises-81-3-to-rs-81-cr-124073101564_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-12/01/thumb/fitandfill/400X400/1701451118-2503.jpg",
+      "publishedAt": "2024-07-31 17:48:18",
+      "content": "Analysts expect hospital chains in the region to benefit from the acute flu season that, apart from coinciding with the June quarter, is known to bring diseases such as dengue and malaria Revenue fr\u2026 [+1434 chars]",
+      "retrievedAt": "2024-08-01 19:05:31.078697",
+      "internal_id": "00a30ece8ad0cb412e873de9db8917c4a59a4927016735cf935bba0018fe8014",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11548,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Christopher Price",
+      "title": "After a harrowing year of health issues, Patriots\u2019 Calvin Anderson feels \u2018refreshed\u2019 in training camp",
+      "description": "The veteran offensive lineman dealt with malaria and a heart issue in 2023 but now declares himself 'healthy, strong, prepared, and driven.'",
+      "url": "https://www.bostonglobe.com/2024/07/31/sports/patriots-calvin-anderson-bill-belichick/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/QdXv-sYC2hEMS7_zjzBaufAu6-Y=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/Q4QWKFEJUTYSVRBNWX7H27ISCI.jpg",
+      "publishedAt": "2024-07-31 17:08:36",
+      "content": "I feel refreshed, and obviously healthy, strong, prepared, and driven. Anderson, who was signed to a two-year deal prior to last season, figured to slot in as one of the starting tackles. But before\u2026 [+3148 chars]",
+      "retrievedAt": "2024-08-01 19:05:31.988543",
+      "internal_id": "4f1879d72b4eccbedffe5c9e0e10697148f06aef765e17fbb71ac566b3fc7c28",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11541,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "S.Africa to trial vaccination of seals after first rabies outbreak",
+      "description": "Cape fur seals with rabies have infected at least seven people in South Africa and vaccinations will be trialed to try to contain what is the first documented outbreak of the disease in a marine mammal population, a coastal management official said Wednesday.",
+      "url": "https://phys.org/news/2024-07-safrica-trial-vaccination-rabies-outbreak.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/cape-fur-seals.jpg",
+      "publishedAt": "2024-07-31 16:10:40",
+      "content": "Cape fur seals with rabies have infected at least seven people in South Africa and vaccinations will be trialed to try to contain what is the first documented outbreak of the disease in a marine mamm\u2026 [+2452 chars]",
+      "retrievedAt": "2024-08-01 19:05:29.156878",
+      "internal_id": "6d187e5bb1180ed228c5d599f8d1d3273f7c77d39e37acc5b1f9eaad1ff3a707",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11547,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Over 2,000 dengue cases reported nationwide",
+      "description": "KATHMANDU: More than 2,000 cases of dengue have been reported across Nepal. According to Dr. Gokarna Prasad Dahal, Chief of Vector Control Disease at the Epidemiology and Disease Control Division under the Health Ministry, 2,061 people in 73 districts have be\u2026",
+      "url": "https://english.khabarhub.com/2024/31/368135/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-07-31 16:03:31",
+      "content": "KATHMANDU: More than 2,000 cases of dengue have been reported across Nepal. According to Dr. Gokarna Prasad Dahal, Chief of Vector Control Disease at the Epidemiology and Disease Control Division un\u2026 [+644 chars]",
+      "retrievedAt": "2024-08-01 19:05:31.100834",
+      "internal_id": "8d6d7358bf741b24dde42086cdf0e15d0a6a77b121ba581d07de707fd72a1cfc",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11542,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Measles case travelled on Tallinn ferry",
+      "description": "The patient travelled from Tallinn last Friday.",
+      "url": "https://yle.fi/a/74-20102463",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_508,w_5601,h_3151/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1722436521/39-411888595112ce3b948",
+      "publishedAt": "2024-07-31 14:36:55",
+      "content": "A passenger on a ferry from Tallinn last Friday has been diagnosed with measles, and may have infected other passengers on the vessel, according to the Finnish Institute for Health and Welfare (THL).\u2026 [+751 chars]",
+      "retrievedAt": "2024-08-01 19:05:29.641008",
+      "internal_id": "9c6e7738886246cd101576f9fa8b04242f93bf4b431b566b59ab85087637d7af",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11553,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Citizen.digital",
+      "author": "Bashir Mbuthia",
+      "title": "Ministry of Health confirms first Mpox case at Taita Taveta border",
+      "description": "The Ministry of Health has confirmed the first case of Mpox, formerly known as Monkeypox, at the Taita Taveta one-stop border point in Kenya.",
+      "url": "https://www.citizen.digital/news/ministry-of-health-confirms-first-mpox-case-at-taita-taveta-border-n346911",
+      "urlToImage": "https://citizentv.obs.af-south-1.myhuaweicloud.com/130442/conversions/Mary-Muthoni-og_image.webp",
+      "publishedAt": "2024-07-31 13:46:26",
+      "content": "The Ministry of Health has confirmed the first case of Mpox, formerly known as Monkeypox, at the Taita Taveta one-stop border point in Kenya. Mpox, the World Health Organisation (WHO) says, is an \u2026 [+2584 chars]",
+      "retrievedAt": "2024-08-01 19:05:33.541435",
+      "internal_id": "03547290de27f52590a38070c14ebaaf1ae8578d5b1dc723678901e5c00e8a03",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11544,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Magnus Heier",
+      "title": "Ungewolltes medizinisches Experiment : Das Dengue-Virus und die Tigerm\u00fccke treffen sich in Paris",
+      "description": "Millionen Menschen aus aller Welt wollen die Olympischen Spiele vor Ort erleben. Kann so auch das Dengue-Fieber in Europa heimisch werden?",
+      "url": "https://www.tagesspiegel.de/gesundheit/ungewolltes-medizinisches-experiment-das-dengue-virus-und-die-tigermucke-treffen-sich-in-paris-12112439.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/11521859/alternates/BASE_16_9_W1400/1713248548000/asiatische-tigermucke.jpeg",
+      "publishedAt": "2024-07-31 13:03:50",
+      "content": "Die Welt schaut auf Paris. Die medizinische Fachwelt auch. Denn dort versammeln sich nicht nur \u00fcber 10.000 Olympioniken. Auch etwa 15 Millionen Fans sollen sich in diesen Wochen in Paris und Umgebung\u2026 [+65 chars]",
+      "retrievedAt": "2024-08-01 19:05:31.039525",
+      "internal_id": "ae6f7a3cb67d319606381f37acb42140c26a9f78f32861a2f854b9a26531f9ba",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11549,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Zika virus testing can now be done at AIIMS Rajkot; results to be available in 24 hours",
+      "description": "AIIMS Rajkot has been recognized as a Zika virus screening center, reducing the need to send samples to Pune for testing. According to Professor Ashwini Agarwal, testing will start next week, providing results within 24 hours. A biosafety level 3 lab has also\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/zika-virus-testing-can-now-be-done-at-aiims-rajkot-results-to-be-available-in-24-hours/articleshow/112171102.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-112171127,width-1200,height-630,imgsize-718784,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-31 12:55:25",
+      "content": "Rajkot: The All India Institute of Medical Sciences (AIIMS) in Gujarat's Rajkot has been recognised as a facility for the screening of Zika virus, cutting down on the need for swab samples to be sent\u2026 [+2100 chars]",
+      "retrievedAt": "2024-08-01 19:05:32.550566",
+      "internal_id": "bd33ac5e3599aa9bc7fffc0523cd8cd9f7e04c391c04f27a01ce2fef8d954aa8",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11554,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tv47.digital",
+      "author": "Dianarose Wambui",
+      "title": "Ministry of Health confirms Mpox outbreak in Kenya",
+      "description": "The Ministry of Health has raised an alarm over a confirmed case of monkeypox (recently renamed Mpox) at Taita-Taveta one-stop border point.",
+      "url": "https://www.tv47.digital/ministry-of-health-confirms-mpox-outbreak-in-kenya-65370/",
+      "urlToImage": "https://www.tv47.digital/wp-content/uploads/2024/07/mpox.png",
+      "publishedAt": "2024-07-31 12:50:38",
+      "content": "The Kenyan Ministry of Health on Wednesday July 31, 2024 raised an alarm over a confirmed case of monkeypox (recently renamed Mpox) at the Taita-Taveta one-stop border point. The infected individua\u2026 [+2070 chars]",
+      "retrievedAt": "2024-08-01 19:05:33.546657",
+      "internal_id": "e40e3d95883fd4374ddeeea51592ee2ec517f06197cd3ad4bb70ac8a06156033",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11552,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Kenyans.co.ke",
+      "author": "Hellen Njoroge",
+      "title": "Ministry of Health Confirms Mpox Outbreak in Taita",
+      "description": "The Ministry of Health issued an advisory for Kenyans on how to proceed in light of the development.",
+      "url": "https://www.kenyans.co.ke/news/103305-kenya-confirms-outbreak-deadly-mpox",
+      "urlToImage": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/inside_an_icu_ward_at_a_hospital_in_kisii_county.jpg?itok=jxBWE5BX",
+      "publishedAt": "2024-07-31 12:25:32",
+      "content": "The Ministry of Health on Wednesday warned of an outbreak of the deadly Mpox following the confirmation of the first case of the disease. According to the ministry, the government confirmed the outb\u2026 [+2027 chars]",
+      "retrievedAt": "2024-08-01 19:05:33.535887",
+      "internal_id": "c9919f3389b23cfa6855dae05a35da7f554300cfd24e99ed55a844b8c1d6a996",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11551,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Nation Reporter",
+      "title": "Kenya confirms first Mpox case",
+      "description": "The individual was travelling from Uganda to Rwanda through Kenya.",
+      "url": "https://nation.africa/kenya/health/kenya-confirms-first-mpox-case-4708722",
+      "urlToImage": "https://nation.africa/resource/image/4708726/landscape_ratio3x2/1200/800/db567cf8fe63056da4bfa9746a997576/Pa/mpox-photo.jpg",
+      "publishedAt": "2024-07-31 12:12:07",
+      "content": "Kenya has confirmed its first Mpox case at a Taita Taveta border point with Tanzania. The virus was detected in an individual who was travelling from Uganda to Rwanda through Kenya. The infection, w\u2026 [+1238 chars]",
+      "retrievedAt": "2024-08-01 19:05:33.530243",
+      "internal_id": "2ee2a4ee35368114d95dffb1bfd5cf5f73c9617187f67337da8d17b3fda7d179",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11550,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Belga Belga",
+      "title": "Une entreprise li\u00e9geoise a d\u00e9velopp\u00e9 un test rapide de d\u00e9tection de la variole du singe",
+      "description": "L'entreprise wallonne Contipharma a d\u00e9velopp\u00e9 un test rapide de d\u00e9tection de la variole du singe. Il allie les qualit\u00e9s d'un test PCR classique et la rapidit\u00e9 d'un test antig\u00e9nique. ...",
+      "url": "https://www.lavenir.net/actu/belgique/2024/07/31/une-entreprise-liegeoise-a-developpe-un-test-rapide-de-detection-de-la-variole-du-singe-ZNEHPWLBTJCFBCSRRLAZKCBI5M/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/6QR2GXHI2BEFTCXSN2AQIQE2SI.jpg?auth=7e71427f88c76899f2474d3aba5b889fed2a80729b945482a9548c055b89d1fe&width=1200&height=630&quality=85&focal=1250%2C831&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2024-07-31 11:29:59",
+      "content": "La variole du singe, \u00e9galement appel\u00e9e Mpox, est une maladie infectieuse caus\u00e9e par le virus du m\u00eame nom. End\u00e9mique dans les r\u00e9gions du nord et du centre de la R\u00e9publique d\u00e9mocratique du Congo, le no\u2026 [+1603 chars]",
+      "retrievedAt": "2024-08-01 19:05:33.520832",
+      "internal_id": "5aa2a832772d1734ccb4fce9fdf6a3dfc37072ece116436c9731e614a4bc73f1",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11540,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Jacquelyn Lebel",
+      "title": "\u2018Highly contagious\u2019 whooping cough subject of summer surge across Ontario | Globalnews.ca",
+      "description": "Provincial data isn't available for June or July yet but health units across Ontario are reporting a surge in cases of pertussis, or whooping cough.",
+      "url": "https://globalnews.ca/news/10653121/whooping-cough-pertussis-surge-ontario-2024/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2021/08/GettyImages-482145391.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2024-07-31 10:03:20",
+      "content": "New data from Public Health Ontario shows the number of confirmed cases of pertussis, known commonly as whooping cough, began rising across the province in May and several area health units say the s\u2026 [+5986 chars]",
+      "retrievedAt": "2024-08-01 19:05:28.898669",
+      "internal_id": "89d620f1446289c1add203a6b6866e1f351cb6ad9f2f1b07d83aad6d56e1cd4b",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11546,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Engineered microbes found to repel mosquitoes",
+      "description": "Genetically-engineered human skin bacteria can make mice less attractive to mosquitoes for 11 days. Mosquitoes transmit a host of deadly diseases, including malaria, West Nile, dengue, yellow fever, and Zika. Female mosquitoes on the hunt for a blood meal tun\u2026",
+      "url": "https://phys.org/news/2024-07-microbes-repel-mosquitoes.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/mosquito.jpg",
+      "publishedAt": "2024-07-31 09:50:19",
+      "content": "Genetically-engineered human skin bacteria can make mice less attractive to mosquitoes for 11 days. Mosquitoes transmit a host of deadly diseases, including malaria, West Nile, dengue, yellow fever, \u2026 [+1899 chars]",
+      "retrievedAt": "2024-08-01 19:05:31.090538",
+      "internal_id": "f6d21ace6f1beeb553d39f1e10b3f20045e9e3c93d6282ab7700a0efc26c2518",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11543,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "\u0130smail SARI",
+      "title": "Vir\u00fcs tehlikesi kap\u0131m\u0131za dayand\u0131! \u0130ran\u2019da vaka say\u0131s\u0131 12\u2019ye y\u00fckseldi\u2026 \u2018Bu t\u00fcr\u00fcn yay\u0131l\u0131m\u0131 artarsa bizde de benzer durumlar g\u00f6r\u00fclebilir!",
+      "description": "Dang hummas\u0131, sivrisineklerle bula\u015fan ciddi bir hastal\u0131k olarak biliniyor. 2024 y\u0131l\u0131 ise dang hummas\u0131 a\u00e7\u0131s\u0131ndan en k\u00f6t\u00fc y\u0131l olarak kaydedildi. D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc, 176 \u00fclkede 11 milyon \u015f\u00fcpheli vaka bildirildi\u011fini a\u00e7\u0131klad\u0131. Tehlike kom\u015fumuz \u0130ran\u2019a da s\u0131\u00e7rad\u0131; \u2026",
+      "url": "https://www.hurriyet.com.tr/aile/virus-tehlikesi-kapimiza-dayandi-iranda-vaka-sayisi-12ye-yukseldi-bu-turun-yayilimi-artarsa-bizde-de-benzer-durumlar-gorulebilir-42497066",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/0x0/66a9f4c57d74d1bfb71b5ef0.jpg",
+      "publishedAt": "2024-07-31 08:37:07",
+      "content": "p&gt;Dang hummas, daha \u00e7ok G\u00fcneydou Asyada yaygn g\u00f6r\u00fclen dang ateinin (dengue fever) iddetli bir formu olarak biliniyor. Dengue vir\u00fcs\u00fc tarafndan tetiklenen bu hastalk, sivrisineklerin insanlara vir\u00fcs\u2026 [+6524 chars]",
+      "retrievedAt": "2024-08-01 19:05:31.029377",
+      "internal_id": "b6e7337b965d0f6056f5deb4c78f9ad91ac90a250b072d5693612f75d4759556",
+      "publishedAtLabel": "Jul 31"
+    },
     {
       "id": 11539,
       "query": [
@@ -23323,115 +23596,6 @@
       "content": "Surtos de tosse convulsa est\u00e3o se expandindo por pa\u00edses da Europa desde dezembro do ano passado. A tosse convulsa \u00e9 uma doen\u00e7a contagiosa causada pela bact\u00e9ria Bordetella pertussis, sendo mais perigo\u2026 [+1660 chars]",
       "retrievedAt": "2024-06-18 07:05:55.587098",
       "internal_id": "988626a53785c9f7ffb9ca7cde5b7ed7d6b6ea3f07016835a68e812b851c99b0",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10238,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "F\u00e1bio Andrighetto",
-      "title": "Surto de coqueluche alerta para import\u00e2ncia da vacina\u00e7\u00e3o",
-      "description": "A coqueluche, causada pela bact\u00e9ria Bordetella pertussis e popularmente conhecida como tosse comprida, \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria que afeta pessoas em",
-      "url": "https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/04/vacina-todos-os-virus.jpg",
-      "publishedAt": "2024-06-16 17:35:53",
-      "content": "A coqueluche, causada pela bact\u00e9ria Bordetella pertussis e popularmente conhecida como tosse comprida, \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria que afeta pessoas em todo o mundo. Suas principais caracter\u00edsticas s\u2026 [+2434 chars]",
-      "retrievedAt": "2024-06-17 19:05:15.607136",
-      "internal_id": "6fa8324d7573031b2cbbfe4bc488016aa7cccd2a709c249424bc03142aa21674",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10240,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
-      "title": "\u0648\u06cc\u0631\u0648\u0633 \u0641\u0648\u0642 \u062d\u0627\u062f \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u062f\u0631 \u0634\u06cc\u0631 \u062e\u0627\u0645 \u06a9\u0627\u0647\u0634 \u06cc\u0627\u0641\u062a",
-      "description": "\u0628\u0631 \u0627\u0633\u0627\u0633 \u0622\u0632\u0645\u0627\u06cc\u0634\u06cc \u06a9\u0647 \u0646\u062a\u0627\u06cc\u062c \u0622\u0646 \u0628\u0647 \u062a\u0627\u0632\u06af\u06cc \u062f\u0631 \u0645\u062c\u0644\u0647 \u067e\u0632\u0634\u06a9\u06cc New England \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a\u060c \u0645\u0634\u062e\u0635 \u0634\u062f \u06a9\u0647 \u0633\u0637\u062d \u0648\u06cc\u0631\u0648\u0633 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u062f\u0631 \u0634\u06cc\u0631 \u062e\u0627\u0645\u060c \u0628\u0627 \u0639\u0645\u0644\u06cc\u0627\u062a \u062d\u0631\u0627\u0631\u062a\u06cc \u0628\u0647 \u0633\u0631\u0639\u062a \u06a9\u0627\u0647\u0634 \u0645\u06cc\u200c\u06cc\u0627\u0628\u062f.",
-      "url": "https://www.isna.ir/news/1403032718613/\u0648\u06cc\u0631\u0648\u0633-\u0641\u0648\u0642-\u062d\u0627\u062f-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-H5N1-\u062f\u0631-\u0634\u06cc\u0631-\u062e\u0627\u0645-\u06a9\u0627\u0647\u0634-\u06cc\u0627\u0641\u062a",
-      "urlToImage": "https://cdn.isna.ir/d/off/isfahan/2024/06/16/4/63069912.jpg?ts=1718538853770",
-      "publishedAt": "2024-06-16 12:28:45",
-      "content": "New England H5N1 . H5N1 . (. ) -- . . HPAI H5N1 . . . . NIAID HN (. ) ( ) . HPAI HN . . . ( ) H5N1 . . ( ) : H5N1 . New England . : #",
-      "retrievedAt": "2024-06-17 19:05:16.623672",
-      "internal_id": "f8a356926c6e12ee2fcada4c2e2e45124b031d711ee2b3df3f41e61be3c98ff3",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10243,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Briefly.co.za",
-      "author": "Zingisa Chirwa",
-      "title": "Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance",
-      "description": "The Health Department has urged citizens on medication to stick to their regimen to reduce the risk of Mpox infection after the disease claimed a seventh victim.",
-      "url": "https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/",
-      "urlToImage": "https://netstorage-briefly.akamaized.net/images/8630d18d9a64985c.jpg?imwidth=1200",
-      "publishedAt": "2024-06-16 11:13:15",
-      "content": "The Health Department has advised those on chronic medication to stick to their regimen to reduce the risk of contracting MpoxThe department issued the warning after a man in Cape To\u2026 [+2625 chars]",
-      "retrievedAt": "2024-06-17 19:05:19.955086",
-      "internal_id": "d33ffe1426bbb240d759f06bd17c8d48b8f7cc46baeb5baba5396354bf8fdabd",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10242,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study",
-      "description": "Researchers stumbled upon a potential breakthrough while studying fat cells in mice.",
-      "url": "https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640",
-      "urlToImage": "https://c.ndtvimg.com/2024-02/0u5i71bo_pcos_625x300_19_February_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
-      "publishedAt": "2024-06-16 08:33:37",
-      "content": "PCOS disrupts hormone production, leading to irregular periods, infertility, and other symptoms An existing malaria drug, artemisinin, shows promise in treating Polycystic Ovary Syndrome (PCOS) symp\u2026 [+1850 chars]",
-      "retrievedAt": "2024-06-17 19:05:18.566430",
-      "internal_id": "97d1289c9eff27bd05d1d6b354237debfff7d5ca31a9d2259479c5b6b9ee1d1f",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10241,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Simone Cordeiro",
-      "title": "Como diferenciar sintomas da dengue e leptospirose?",
-      "description": "Sintomas semelhantes podem aparecer em ambas as doen\u00e7as, mas alguns ind\u00edcios podem ser determinantes para o diagn\u00f3stico correto. O post Como diferenciar sintomas da dengue e leptospirose? apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/",
-      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/06/Medica-examinando-paciente-scaled.jpg",
-      "publishedAt": "2024-06-16 08:20:00",
-      "content": "Em situa\u00e7\u00f5es de calamidade, como as chuvas que devastaram o Rio Grande do Sul, a coexist\u00eancia da dengue e da leptospirose pode acontecer. Dessa forma, uma pessoa pode apresentar sintomas de dengue e \u2026 [+2532 chars]",
-      "retrievedAt": "2024-06-17 19:05:17.453454",
-      "internal_id": "eea602e598efddbef22da04bc02ae911aad3f8ef317e05820e84019c6b97fbec",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10239,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
-      "title": "O que \u00e9 coqueluche? Entenda a doen\u00e7a que est\u00e1 em ascens\u00e3o no Brasil",
-      "description": "A coqueluche, tamb\u00e9m conhecida como tosse convulsiva, \u00e9 uma doen\u00e7a respirat\u00f3ria altamente ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/14/gettyimages-1345955042-qhqmnzplxrhh.jpg",
-      "publishedAt": "2024-06-16 08:00:14",
-      "content": "A coqueluche, tamb\u00e9m conhecida como tosse convulsiva, \u00e9 uma doen\u00e7a respirat\u00f3ria altamente contagiosa causada pela bact\u00e9ria Bordetella pertussis. Apesar de ser preven\u00edvel por meio da vacina\u00e7\u00e3o, a coqu\u2026 [+2767 chars]",
-      "retrievedAt": "2024-06-17 19:05:15.634294",
-      "internal_id": "7fafafb2aba1a77d6df102a5ab6b58759f47aed4245a62e9f857735e7154e406",
       "publishedAtLabel": "Jun 16"
     }
   ]

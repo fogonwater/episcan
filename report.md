@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2024-08-01 07:05
-- **Most recent article:** 2024-07-31 06:36:49
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-08-01 19:05
+- **Most recent article:** 2024-07-31 17:48:18
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 62 | 105 | 52 | 95 | 62 | 63 | 14 | 453 |
-| h5n1 | 29 | 36 | 59 | 52 | 62 | 38 | 17 | 293 |
-| mpox | 14 | 46 | 21 | 26 | 17 | 16 | 6 | 146 |
-| malaria | 20 | 24 | 15 | 14 | 31 | 16 | 5 | 125 |
-| measles | 11 | 8 | 9 | 12 | 19 | 22 | 3 | 84 |
-| zika | 3 | 17 | 20 | 12 | 6 | 10 | 2 | 70 |
+| dengue | 61 | 105 | 52 | 95 | 62 | 63 | 19 | 457 |
+| h5n1 | 28 | 36 | 59 | 52 | 62 | 38 | 17 | 292 |
+| mpox | 13 | 46 | 21 | 26 | 17 | 16 | 11 | 150 |
+| malaria | 19 | 24 | 15 | 14 | 31 | 16 | 8 | 127 |
+| measles | 11 | 8 | 9 | 12 | 19 | 22 | 4 | 85 |
+| zika | 3 | 17 | 20 | 12 | 6 | 10 | 4 | 72 |
 | chikungunya | 5 | 17 | 6 | 6 | 10 | 7 | 2 | 53 |
-| rabies | 5 | 8 | 4 | 2 | 17 | 8 | 5 | 49 |
-| hpai | 4 | 3 | 3 | 5 | 6 | 3 | 1 | 25 |
-| pertussis | 11 | 3 | 1 | 2 | 0 | 5 | 3 | 25 |
+| rabies | 5 | 8 | 4 | 2 | 17 | 8 | 6 | 50 |
+| pertussis | 9 | 3 | 1 | 2 | 0 | 5 | 4 | 24 |
+| hpai | 3 | 3 | 3 | 5 | 6 | 3 | 1 | 24 |
 | typhoid | 2 | 3 | 4 | 6 | 1 | 3 | 1 | 20 |
 | meningitis | 0 | 1 | 3 | 5 | 3 | 2 | 2 | 16 |
 | leptospirosis | 1 | 2 | 1 | 3 | 4 | 1 | 1 | 13 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-31 (zika)
 
+- [Zika virus testing can now be done at AIIMS Rajkot; results to be available in 24 hours](https://economictimes.indiatimes.com/news/india/zika-virus-testing-can-now-be-done-at-aiims-rajkot-results-to-be-available-in-24-hours/articleshow/112171102.cms) (The Times of India)
+
+- [Engineered microbes found to repel mosquitoes](https://phys.org/news/2024-07-microbes-repel-mosquitoes.html) (Phys.Org)
+
 - [Jason Day regrets missing the 2016 Olympics and refers to burnout](https://www.startribune.com/jason-day-regrets-missing-the-2016-olympics-and-refers-to-burnout/600387584/) (Minneapolis Star Tribune)
 
 - [13 cases of Zika virus infection till Jul 22 this year: MoS Anupriya Patel](https://economictimes.indiatimes.com/news/india/13-cases-of-zika-virus-infection-till-jul-22-this-year-mos-anupriya-patel/articleshow/112139504.cms) (The Times of India)
@@ -43,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 - [Hot & humid weather causes uptick in flu, typhoid, eye infection cases: Doctors](https://timesofindia.indiatimes.com/city/gurgaon/hot-humid-weather-causes-uptick-in-flu-typhoid-eye-infection-cases-doctors/articleshow/112093307.cms) (The Times of India)
 
 ## 24-31 (rabies)
+
+- [S.Africa to trial vaccination of seals after first rabies outbreak](https://phys.org/news/2024-07-safrica-trial-vaccination-rabies-outbreak.html) (Phys.Org)
 
 - [30.5 lakh dog bite cases in 2023 led to death of 286](https://timesofindia.indiatimes.com/india/305l-dog-bite-cases-in-2023-led-to-death-of-286/articleshow/112149120.cms) (The Times of India)
 
@@ -56,6 +62,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-31 (pertussis)
 
+- [‘Highly contagious’ whooping cough subject of summer surge across Ontario | Globalnews.ca](https://globalnews.ca/news/10653121/whooping-cough-pertussis-surge-ontario-2024/) (Global News)
+
 - [Number of new whooping cough cases stagnates in Czech Republic](https://www.thestar.com.my/news/world/2024/07/30/number-of-new-whooping-cough-cases-stagnates-in-czech-republic) (The Star Online)
 
 - [Új rekord: gyorsulva terjed Magyarországon a fertőzés, ami halálesetekkel is járt](https://www.portfolio.hu/gazdasag/20240729/uj-rekord-gyorsulva-terjed-magyarorszagon-a-fertozes-ami-halalesetekkel-is-jart-701145) (Portfolio.hu)
@@ -63,6 +71,16 @@ Source: [News API](https://newsapi.org/)
 - [That’s a cunning way to defund education and kill a lot of children](https://freethoughtblogs.com/pharyngula/2024/07/28/thats-a-cunning-way-to-defund-education-and-kill-a-lot-of-children/) (Freethoughtblogs.com)
 
 ## 24-31 (mpox)
+
+- [Ministry of Health confirms first Mpox case at Taita Taveta border](https://www.citizen.digital/news/ministry-of-health-confirms-first-mpox-case-at-taita-taveta-border-n346911) (Citizen.digital)
+
+- [Ministry of Health confirms Mpox outbreak in Kenya](https://www.tv47.digital/ministry-of-health-confirms-mpox-outbreak-in-kenya-65370/) (Tv47.digital)
+
+- [Ministry of Health Confirms Mpox Outbreak in Taita](https://www.kenyans.co.ke/news/103305-kenya-confirms-outbreak-deadly-mpox) (Kenyans.co.ke)
+
+- [Kenya confirms first Mpox case](https://nation.africa/kenya/health/kenya-confirms-first-mpox-case-4708722) (Nation.africa)
+
+- [Une entreprise liégeoise a développé un test rapide de détection de la variole du singe](https://www.lavenir.net/actu/belgique/2024/07/31/une-entreprise-liegeoise-a-developpe-un-test-rapide-de-detection-de-la-variole-du-singe-ZNEHPWLBTJCFBCSRRLAZKCBI5M/) (Lavenir.net)
 
 - [Central African Republic latest to declare mpox outbreak](https://www.bbc.com/news/articles/cm52rk2el81o) (BBC News)
 
@@ -84,6 +102,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-31 (measles)
 
+- [Measles case travelled on Tallinn ferry](https://yle.fi/a/74-20102463) (YLE News)
+
 - [MDH urges patients to vaccinate children for measles](https://www.fox9.com/news/mdh-urges-patients-vaccinate-children-measles) (FOX 9)
 
 - [That’s a cunning way to defund education and kill a lot of children](https://freethoughtblogs.com/pharyngula/2024/07/28/thats-a-cunning-way-to-defund-education-and-kill-a-lot-of-children/) (Freethoughtblogs.com)
@@ -91,6 +111,12 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1135: Resistance is not always futile](https://www.microbe.tv/twiv/twiv-1135/) (Microbe.tv)
 
 ## 24-31 (malaria)
+
+- [Aster DM Healthcare Q1FY25 results: Net profit rises 81.3% to Rs 81 cr](https://www.business-standard.com/companies/results/aster-dm-healthcare-q1fy25-results-net-profit-rises-81-3-to-rs-81-cr-124073101564_1.html) (Business Standard)
+
+- [After a harrowing year of health issues, Patriots’ Calvin Anderson feels ‘refreshed’ in training camp](https://www.bostonglobe.com/2024/07/31/sports/patriots-calvin-anderson-bill-belichick/) (The Boston Globe)
+
+- [Engineered microbes found to repel mosquitoes](https://phys.org/news/2024-07-microbes-repel-mosquitoes.html) (Phys.Org)
 
 - [Avoid poor treatment of malaria, may cause kidney damage – Specialists](https://punchng.com/avoid-poor-treatment-of-malaria-may-cause-kidney-damage-specialists/) (The Punch)
 
@@ -147,6 +173,16 @@ Source: [News API](https://newsapi.org/)
 - [To help prevent another pandemic, we must protect US farmworkers from avian flu](https://www.bostonglobe.com/2024/07/29/opinion/avian-flu-birds-cows-farmworkers/) (The Boston Globe)
 
 ## 24-31 (dengue)
+
+- [Aster DM Healthcare Q1FY25 results: Net profit rises 81.3% to Rs 81 cr](https://www.business-standard.com/companies/results/aster-dm-healthcare-q1fy25-results-net-profit-rises-81-3-to-rs-81-cr-124073101564_1.html) (Business Standard)
+
+- [Over 2,000 dengue cases reported nationwide](https://english.khabarhub.com/2024/31/368135/) (Khabarhub.com)
+
+- [Ungewolltes medizinisches Experiment : Das Dengue-Virus und die Tigermücke treffen sich in Paris](https://www.tagesspiegel.de/gesundheit/ungewolltes-medizinisches-experiment-das-dengue-virus-und-die-tigermucke-treffen-sich-in-paris-12112439.html) (Der Tagesspiegel)
+
+- [Engineered microbes found to repel mosquitoes](https://phys.org/news/2024-07-microbes-repel-mosquitoes.html) (Phys.Org)
+
+- [Virüs tehlikesi kapımıza dayandı! İran’da vaka sayısı 12’ye yükseldi… ‘Bu türün yayılımı artarsa bizde de benzer durumlar görülebilir!](https://www.hurriyet.com.tr/aile/virus-tehlikesi-kapimiza-dayandi-iranda-vaka-sayisi-12ye-yukseldi-bu-turun-yayilimi-artarsa-bizde-de-benzer-durumlar-gorulebilir-42497066) (Hurriyet.com.tr)
 
 - [Mortes por dengue aumentam 1.726%, mas faltam 4 mil agentes de saúde](https://www.metropoles.com/distrito-federal/mortes-por-dengue-aumentam-1-726-mas-faltam-4-mil-agentes-de-saude) (Metropoles.com)
 
@@ -2668,10 +2704,6 @@ Source: [News API](https://newsapi.org/)
 
 - [O que é a tosse convulsa que está preocupando países da Europa?](https://gizmodo.uol.com.br/o-que-e-a-tosse-convulsa-que-esta-preocupando-paises-da-europa/) (Uol.com.br)
 
-- [Surto de coqueluche alerta para importância da vacinação](https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/) (Catracalivre.com.br)
-
-- [O que é coqueluche? Entenda a doença que está em ascensão no Brasil](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html) (Terra.com.br)
-
 ## 24-25 (mpox)
 
 - [Mpox cases detected in New South Wales, prompting vaccination alert](https://7news.com.au/news/mpox-cases-detected-in-new-south-wales-prompting-vaccination-alert-c-15104974) (7NEWS.com.au)
@@ -2699,8 +2731,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox cases increase in LA County; health officials advise at-risk residents to take precautions](https://abc7.com/post/mpox-cases-increase-la-county-health-officials-advise/14967262/) (KABC-TV)
 
 - [Reemergence of Clade IIb–Associated Mpox, Germany, July–December 2023](https://wwwnc.cdc.gov/eid/article/30/7/24-0092_article) (Cdc.gov)
-
-- [Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance](https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/) (Briefly.co.za)
 
 ## 24-25 (measles)
 
@@ -2766,8 +2796,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Noul Participates in a Malaria Project Initiated by U.S. CDC with Kenya Medical Research Institute](https://www.investing.com/news/press-releases/noul-participates-in-a-malaria-project-initiated-by-us-cdc-with-kenya-medical-research-institute-93CH-3486734) (Investing.com)
 
-- [Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study](https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640) (NDTV News)
-
 ## 24-25 (leptospirosis)
 
 - [Terengganu Health Dept denies 16 leptospirosis cases claims](https://www.thestar.com.my/news/nation/2024/06/22/terengganu-health-dept-denies-16-leptospirosis-cases-claims) (The Star Online)
@@ -2779,8 +2807,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu detected on poultry farm in New South Wales](https://www.abc.net.au/news/2024-06-19/bird-flu-detected-on-new-south-wales-poultry-egg-farm/103997490) (ABC News (AU))
 
 - [Птичий грипп "просочился" из лаборатории Минсельхоза США](https://www.news2.ru/story/684610/) (News2.ru)
-
-- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (h5n1)
 
@@ -2839,8 +2865,6 @@ Source: [News API](https://newsapi.org/)
 - [Eksperci obawiają się kolejnej pandemii. "Niepokój większy niż kiedykolwiek"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31067412,eksperci-obawiaja-sie-kolejnej-pandemii-niepokoj-wiekszy-niz.html) (Gazeta.pl)
 
 - [Bird flu snapshot: A critic of the U.S. response speaks out](https://www.statnews.com/2024/06/17/bird-flu-snapshot-seth-berkley-usda-tom-vilsack/) (STAT)
-
-- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
 
@@ -2965,8 +2989,6 @@ Source: [News API](https://newsapi.org/)
 - [Nyaralók, figyelem: egzotikus és rejtélyes betegségre érkezett most védőoltás](https://index.hu/belfold/2024/06/17/vedooltas-oltokozpont-utazas-nyaralas-oltas/) (Index.hu)
 
 - [BMA, businesses join hands in dengue war](https://www.bangkokpost.com/thailand/general/2812004/bma-businesses-join-hands-in-dengue-war) (Bangkok Post)
-
-- [Como diferenciar sintomas da dengue e leptospirose?](https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/) (Olhardigital.com.br)
 
 ## 24-25 (chikungunya)
 
