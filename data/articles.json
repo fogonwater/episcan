@@ -1,8 +1,210 @@
 {
-  "last_updated": "2024-08-01 19:05",
-  "count_articles_total": 1306,
-  "count_articles_new": 15,
+  "last_updated": "2024-08-02 07:06",
+  "count_articles_total": 1323,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 11563,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Charlotte Van Breusegem",
+      "title": "Faut-il craindre la nouvelle souche de la variole du singe ? \u201cCela demande une vigilance continue\u201d pour Steven Van Gucht",
+      "description": "Les cas de variole du singe, aussi appel\u00e9e MPOX, augmentent de mani\u00e8re exponentielle en R\u00e9publique d\u00e9mocratique du Congo. Faut-il craindre une propagation \u00e0 l\u2019international ? On fait le point avec Steven Van Gucht. ...",
+      "url": "https://www.lavenir.net/actu/belgique/2024/08/01/faut-il-craindre-la-nouvelle-souche-de-la-variole-du-singe-cela-demande-une-vigilance-continue-pour-steven-van-gucht-MPWPP7DSTZGZHMSIF7EEE46HQU/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/TSH4XOPTIRDJJJTLJL6E7U3XGM.jpg?auth=e78233097667eaa1fdc6212d39abfeac934035eeeab6afddd3e6a4181d0a1c38&width=1200&height=630&quality=85&focal=373%2C249&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2024-08-01 07:00:00",
+      "content": "Variole du singe: le tableau se pr\u00e9cise sur les sympt\u00f4mes et la transmissionMais l'\u00e9pid\u00e9mie actuelle pr\u00e9sente de nouvelles caract\u00e9ristiques et notamment en R\u00e9publique d\u00e9mocratique du Congo, o\u00f9 la nou\u2026 [+1074 chars]",
+      "retrievedAt": "2024-08-02 07:06:37.336402",
+      "internal_id": "7b7b098ef599fcc74a7b1d474344e84b6deed0b4710b3539f07479dc526c62a3",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 11555,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Cian \u00d3 Broin",
+      "title": "Measles cases rise to 81 so far this year with four outbreaks in past five weeks",
+      "description": "The number of measles cases has risen to 81 so far this year, as official figures showed there were four outbreaks of the highly contagious disease in just over a month across the country.",
+      "url": "https://www.independent.ie/irish-news/measles-cases-rise-to-81-so-far-this-year-with-four-outbreaks-in-past-five-weeks/a918013937.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/6WTTVg1BhVEASdLj9aVFI8difwg=/629x460/smart/prod-mh-ireland/19ea93d4-e12b-4924-83e5-94b3ba256c9d/668fc77d-09c9-4531-8b48-3c4a342d408c/19ea93d4-e12b-4924-83e5-94b3ba256c9d.jpg",
+      "publishedAt": "2024-08-01 01:30:00",
+      "content": "Concerns that fall in vaccination rate causing outbreaks The number of measles cases has risen to 81 so far this year, as official figures showed there were four outbreaks of the highly contagious d\u2026 [+321 chars]",
+      "retrievedAt": "2024-08-02 07:06:33.221142",
+      "internal_id": "f1aeccc182b91e46ac03e9d4a00fbee9508b912c63a0eeff4c98ca9501e31117",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 11560,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Conor McKeon",
+      "title": "Leona Maguire and Rory McIlroy well placed to fly flag in golf\u2019s awkward Olympic marriage",
+      "description": "The Zika virus. Remember that?",
+      "url": "https://www.independent.ie/sport/olympics/leona-maguire-and-rory-mcilroy-well-placed-to-fly-flag-in-golfs-awkward-olympic-marriage/a1656624814.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/3CbWtneKG4HnZnm7Oqx5LN56jX8=/106x0:3111x2003/629x0/prod-mh-ireland/3fdf12b5-72f7-4a66-874e-ed6336fcbccb/d23b132a-2a2d-4e53-9c8f-643ae2d1ac70/3fdf12b5-72f7-4a66-874e-ed6336fcbccb.jpg",
+      "publishedAt": "2024-08-01 01:30:00",
+      "content": "The Zika virus. Remember that? The masked villain in the farce that was golfs reintroduction to the Olympics at the Rio games in 2016. An infection spread by a particular species of mosquito, transm\u2026 [+69 chars]",
+      "retrievedAt": "2024-08-02 07:06:36.497876",
+      "internal_id": "170c9f668209a99876ada8932d4bf68c9d0b97fa835a7dcecaf769abdb426e6f",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 11558,
+      "query": [
+        "dengue",
+        "malaria",
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Press Trust of India",
+      "title": "Mumbai sees uptick in malaria, H1N1 cases in July, drop in dengue",
+      "description": "Mumbai has recorded a \"slight increase\" in malaria and H1N1 (flu) cases in July 2024 at 797 and 161, respectively, as compared to the same month last year, the city civic body said on Wednesday. In its report on \"Monsoon-related diseases\", the Brihanmumbai Mu\u2026",
+      "url": "https://www.business-standard.com/india-news/mumbai-sees-uptick-in-malaria-h1n1-cases-in-july-drop-in-dengue-124073101741_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-08/20/thumb/featurecrop/400X400/1534752006-5306.jpg",
+      "publishedAt": "2024-08-01 01:16:56",
+      "content": "In its report on \"Monsoon-related diseases\", the Brihanmumbai Municipal Corporation (BMC) said as compared to July 2023, the data for July 2024 showed a decline in cases of dengue, leptospirosis and \u2026 [+1468 chars]",
+      "retrievedAt": "2024-08-02 07:06:35.062626",
+      "internal_id": "c150410f2e2a6067f38a1752b711e9e16eea3573fca1029e9eceb2d0c4ffa6c1",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 11556,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 11 Los Angeles",
+      "author": "Fox 11 Digital Team",
+      "title": "Measles confirmed in LAX traveler who went to Orange County",
+      "description": "Health officials said the tourist was at LAX on July 26 and arrived on Norse Atlantic Airways flight Z0711.",
+      "url": "https://www.foxla.com/news/measles-confirmed-lax-orange-county",
+      "urlToImage": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/07/1280/720/GettyImages-634338692.jpg?ve=1&tl=1",
+      "publishedAt": "2024-07-31 23:12:21",
+      "content": "LOS ANGELES - A measles case has been confirmed in a person who traveled to Los Angeles International Airport and Orange County while infectious, according to the Los Angeles County Department of Pub\u2026 [+2041 chars]",
+      "retrievedAt": "2024-08-02 07:06:33.246669",
+      "internal_id": "1074adfc581753fe6b9eda2cba9894e5dea1b80e16aa33c913153d2bda141f00",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11565,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "associated-press",
+      "source_name": "Associated Press",
+      "author": "Chinedu Asadu",
+      "title": "Mpox outbreaks declared in Kenya and Central African Republic. The race is on to contain the spread",
+      "description": "Kenya and the Central African Republic have declared new outbreaks of mpox as Africa's health officials are racing to contain the spread of the disease in a region lacking vaccines. Kenya's health ministry confirmed an outbreak on Wednesday, after a case was \u2026",
+      "url": "https://apnews.com/article/mpox-kenya-central-african-republic-outbreak-disease-7da16b2ccad88b7580318322bb0798ed",
+      "urlToImage": "https://dims.apnews.com/dims4/default/768dd5d/2147483647/strip/true/crop/2100x1181+0+311/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B-%2F12%2F4%2C%20119%2C%2042%2C%2083%2C%20-58%2C%20-77%2C%2026%2C%20-41%2C%20-19%2C%2095%2C%2027%2C%20-97%2C%20-26%2C%20-94%2C%2058%2C%20-104%2C%20-61%2C%20-110%2C%2032%2C%2046%2C%2062%2C%2045%2C%20-114%2C%20-19%2C%20-118%2C%20-103%2C%20-108%2C%20-96%5D%2Fb34e889c422d4d0ba273b74bb690c55a",
+      "publishedAt": "2024-07-31 22:57:06",
+      "content": "ABUJA, Nigeria (AP) Kenya and the Central African Republic have declared new outbreaks of mpox as Africas health officials race to contain the spread of the disease in a region lacking vaccines. Nai\u2026 [+2145 chars]",
+      "retrievedAt": "2024-08-02 07:06:37.361126",
+      "internal_id": "761b6021d799a075a51cc4a8469f076f9497b54af5320f86021ca78e6d540e77",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11559,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Dengue, malaria, H1N1 flu cases double in 2nd fortnight of July",
+      "description": "Cases of dengue, malaria, and H1N1 flu doubled in the second fortnight of July in Mumbai due to monsoon ailments. Learn more about the rise in mosquito-borne diseases and flu cases in the city.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/increase-in-dengue-malaria-and-h1n1-flu-cases-in-mumbai-during-july/articleshow/112178941.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-31 22:52:08",
+      "content": "7 days, 7 hill stations in South India to explore",
+      "retrievedAt": "2024-08-02 07:06:35.067799",
+      "internal_id": "2f6af7a884e4f507f057241552e79ce84f416b0e9c2f96d13b1a18661d7b7518",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11557,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Activistpost.com",
+      "author": "Activist Post",
+      "title": "Bird Flu BS",
+      "description": "By Rosanne Lindsay, Naturopath In 2024, the Avian \u201cBird Flu\u201d has flown the coop to infect dairy cows! Or, so says the CDC: A multistate... Bird Flu BS",
+      "url": "https://www.activistpost.com/2024/07/bird-flu-bs.html",
+      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2024/07/bird-flu-bs-1024x639-1.jpg",
+      "publishedAt": "2024-07-31 21:44:03",
+      "content": "By Rosanne Lindsay, Naturopath In 2024, the Avian Bird Flu has flown the coop to infect dairy cows! Or, so says the CDC: A multistate outbreak of HPAI A(H5N1) bird flu in dairy cows was first rep\u2026 [+7604 chars]",
+      "retrievedAt": "2024-08-02 07:06:33.693246",
+      "internal_id": "e3a19ec414c7fbf66734b7c802e3b85b1e37556bb12c5076b9e69cce8219a146",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11562,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "CHINEDU ASADU Associated Press",
+      "title": "Mpox outbreaks declared in Kenya and Central African Republic. The race is on to contain the spread",
+      "description": "Kenya and the Central African Republic have declared new outbreaks of mpox as Africa's health officials are racing to contain the spread of the disease in a region lacking vaccines",
+      "url": "https://abcnews.go.com/Health/wireStory/mpox-outbreaks-declared-kenya-central-african-republic-race-112457952",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-07-31 21:34:03",
+      "content": "ABUJA, Nigeria -- Kenya and the Central African Republic have declared new outbreaks of mpox as Africas health officials race to contain the spread of the disease in a region lacking vaccines. Nairo\u2026 [+2085 chars]",
+      "retrievedAt": "2024-08-02 07:06:37.323989",
+      "internal_id": "2f7af6899362e2c14cd56c1c11d8390fb245293b9f6bfc8ba213629374b03993",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11561,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "CHINEDU ASADU Associated Press",
+      "title": "Mpox outbreaks declared in Kenya and Central African Republic. The race is on to contain the spread",
+      "description": "Kenya and the Central African Republic have declared new outbreaks of mpox as Africa's health officials are racing to contain the spread of the disease in a region lacking vaccines",
+      "url": "https://abcnews.go.com/International/wireStory/mpox-outbreaks-declared-kenya-central-african-republic-race-112457833",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-07-31 21:33:59",
+      "content": "ABUJA, Nigeria -- Kenya and the Central African Republic have declared new outbreaks of mpox as Africas health officials race to contain the spread of the disease in a region lacking vaccines. Nairo\u2026 [+2085 chars]",
+      "retrievedAt": "2024-08-02 07:06:37.314516",
+      "internal_id": "e9fb908f86cbecbddc033db0dd1314464008d757b7fe5c3b95911a6d74f77dc7",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 11564,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Moki Edwin Kindzeka)",
+      "title": "Central African Republic declares mpox outbreak, works to stop spread",
+      "description": "Yaounde, Cameroon \u2014 Central African Republic officials say they are meeting with the governments of neighboring countries in an effort to stop the spread of mpox, formerly known as monkeypox. An outbreak of the mpox virus has been confirmed in several Centr\u2026",
+      "url": "https://www.voanews.com/a/central-african-republic-declares-mpox-outbreak-works-to-stop-spread/7724863.html",
+      "urlToImage": "https://gdb.voanews.com/E3BB7AC2-3F43-46B5-B538-3C70852CA726.jpg",
+      "publishedAt": "2024-07-31 21:02:11",
+      "content": "Yaounde, Cameroon Central African Republic officials say they are meeting with the governments of neighboring countries in an effort to stop the spread of mpox, formerly known as monkeypox. An outb\u2026 [+2477 chars]",
+      "retrievedAt": "2024-08-02 07:06:37.345028",
+      "internal_id": "a40daf8721b13c14bce118dc684340abf8febb313b342dd5aeb186b9edb9475d",
+      "publishedAtLabel": "Jul 31"
+    },
     {
       "id": 11545,
       "query": [
@@ -23596,6 +23798,115 @@
       "content": "Surtos de tosse convulsa est\u00e3o se expandindo por pa\u00edses da Europa desde dezembro do ano passado. A tosse convulsa \u00e9 uma doen\u00e7a contagiosa causada pela bact\u00e9ria Bordetella pertussis, sendo mais perigo\u2026 [+1660 chars]",
       "retrievedAt": "2024-06-18 07:05:55.587098",
       "internal_id": "988626a53785c9f7ffb9ca7cde5b7ed7d6b6ea3f07016835a68e812b851c99b0",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10238,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "F\u00e1bio Andrighetto",
+      "title": "Surto de coqueluche alerta para import\u00e2ncia da vacina\u00e7\u00e3o",
+      "description": "A coqueluche, causada pela bact\u00e9ria Bordetella pertussis e popularmente conhecida como tosse comprida, \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria que afeta pessoas em",
+      "url": "https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/04/vacina-todos-os-virus.jpg",
+      "publishedAt": "2024-06-16 17:35:53",
+      "content": "A coqueluche, causada pela bact\u00e9ria Bordetella pertussis e popularmente conhecida como tosse comprida, \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria que afeta pessoas em todo o mundo. Suas principais caracter\u00edsticas s\u2026 [+2434 chars]",
+      "retrievedAt": "2024-06-17 19:05:15.607136",
+      "internal_id": "6fa8324d7573031b2cbbfe4bc488016aa7cccd2a709c249424bc03142aa21674",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10240,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
+      "title": "\u0648\u06cc\u0631\u0648\u0633 \u0641\u0648\u0642 \u062d\u0627\u062f \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u062f\u0631 \u0634\u06cc\u0631 \u062e\u0627\u0645 \u06a9\u0627\u0647\u0634 \u06cc\u0627\u0641\u062a",
+      "description": "\u0628\u0631 \u0627\u0633\u0627\u0633 \u0622\u0632\u0645\u0627\u06cc\u0634\u06cc \u06a9\u0647 \u0646\u062a\u0627\u06cc\u062c \u0622\u0646 \u0628\u0647 \u062a\u0627\u0632\u06af\u06cc \u062f\u0631 \u0645\u062c\u0644\u0647 \u067e\u0632\u0634\u06a9\u06cc New England \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a\u060c \u0645\u0634\u062e\u0635 \u0634\u062f \u06a9\u0647 \u0633\u0637\u062d \u0648\u06cc\u0631\u0648\u0633 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u062f\u0631 \u0634\u06cc\u0631 \u062e\u0627\u0645\u060c \u0628\u0627 \u0639\u0645\u0644\u06cc\u0627\u062a \u062d\u0631\u0627\u0631\u062a\u06cc \u0628\u0647 \u0633\u0631\u0639\u062a \u06a9\u0627\u0647\u0634 \u0645\u06cc\u200c\u06cc\u0627\u0628\u062f.",
+      "url": "https://www.isna.ir/news/1403032718613/\u0648\u06cc\u0631\u0648\u0633-\u0641\u0648\u0642-\u062d\u0627\u062f-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-H5N1-\u062f\u0631-\u0634\u06cc\u0631-\u062e\u0627\u0645-\u06a9\u0627\u0647\u0634-\u06cc\u0627\u0641\u062a",
+      "urlToImage": "https://cdn.isna.ir/d/off/isfahan/2024/06/16/4/63069912.jpg?ts=1718538853770",
+      "publishedAt": "2024-06-16 12:28:45",
+      "content": "New England H5N1 . H5N1 . (. ) -- . . HPAI H5N1 . . . . NIAID HN (. ) ( ) . HPAI HN . . . ( ) H5N1 . . ( ) : H5N1 . New England . : #",
+      "retrievedAt": "2024-06-17 19:05:16.623672",
+      "internal_id": "f8a356926c6e12ee2fcada4c2e2e45124b031d711ee2b3df3f41e61be3c98ff3",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10243,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Briefly.co.za",
+      "author": "Zingisa Chirwa",
+      "title": "Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance",
+      "description": "The Health Department has urged citizens on medication to stick to their regimen to reduce the risk of Mpox infection after the disease claimed a seventh victim.",
+      "url": "https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/",
+      "urlToImage": "https://netstorage-briefly.akamaized.net/images/8630d18d9a64985c.jpg?imwidth=1200",
+      "publishedAt": "2024-06-16 11:13:15",
+      "content": "The Health Department has advised those on chronic medication to stick to their regimen to reduce the risk of contracting MpoxThe department issued the warning after a man in Cape To\u2026 [+2625 chars]",
+      "retrievedAt": "2024-06-17 19:05:19.955086",
+      "internal_id": "d33ffe1426bbb240d759f06bd17c8d48b8f7cc46baeb5baba5396354bf8fdabd",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10242,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study",
+      "description": "Researchers stumbled upon a potential breakthrough while studying fat cells in mice.",
+      "url": "https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640",
+      "urlToImage": "https://c.ndtvimg.com/2024-02/0u5i71bo_pcos_625x300_19_February_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
+      "publishedAt": "2024-06-16 08:33:37",
+      "content": "PCOS disrupts hormone production, leading to irregular periods, infertility, and other symptoms An existing malaria drug, artemisinin, shows promise in treating Polycystic Ovary Syndrome (PCOS) symp\u2026 [+1850 chars]",
+      "retrievedAt": "2024-06-17 19:05:18.566430",
+      "internal_id": "97d1289c9eff27bd05d1d6b354237debfff7d5ca31a9d2259479c5b6b9ee1d1f",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10241,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Simone Cordeiro",
+      "title": "Como diferenciar sintomas da dengue e leptospirose?",
+      "description": "Sintomas semelhantes podem aparecer em ambas as doen\u00e7as, mas alguns ind\u00edcios podem ser determinantes para o diagn\u00f3stico correto. O post Como diferenciar sintomas da dengue e leptospirose? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/06/Medica-examinando-paciente-scaled.jpg",
+      "publishedAt": "2024-06-16 08:20:00",
+      "content": "Em situa\u00e7\u00f5es de calamidade, como as chuvas que devastaram o Rio Grande do Sul, a coexist\u00eancia da dengue e da leptospirose pode acontecer. Dessa forma, uma pessoa pode apresentar sintomas de dengue e \u2026 [+2532 chars]",
+      "retrievedAt": "2024-06-17 19:05:17.453454",
+      "internal_id": "eea602e598efddbef22da04bc02ae911aad3f8ef317e05820e84019c6b97fbec",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10239,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "O que \u00e9 coqueluche? Entenda a doen\u00e7a que est\u00e1 em ascens\u00e3o no Brasil",
+      "description": "A coqueluche, tamb\u00e9m conhecida como tosse convulsiva, \u00e9 uma doen\u00e7a respirat\u00f3ria altamente ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/14/gettyimages-1345955042-qhqmnzplxrhh.jpg",
+      "publishedAt": "2024-06-16 08:00:14",
+      "content": "A coqueluche, tamb\u00e9m conhecida como tosse convulsiva, \u00e9 uma doen\u00e7a respirat\u00f3ria altamente contagiosa causada pela bact\u00e9ria Bordetella pertussis. Apesar de ser preven\u00edvel por meio da vacina\u00e7\u00e3o, a coqu\u2026 [+2767 chars]",
+      "retrievedAt": "2024-06-17 19:05:15.634294",
+      "internal_id": "7fafafb2aba1a77d6df102a5ab6b58759f47aed4245a62e9f857735e7154e406",
       "publishedAtLabel": "Jun 16"
     }
   ]
