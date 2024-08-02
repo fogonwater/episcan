@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-08-02 07:06
-- **Most recent article:** 2024-08-01 07:00:00
+- **New articles in last harvest:** 22
+- **Last harvest:** 2024-08-02 19:05
+- **Most recent article:** 2024-08-01 17:18:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 62 | 105 | 52 | 95 | 62 | 63 | 21 | 460 |
-| h5n1 | 29 | 36 | 59 | 52 | 62 | 38 | 18 | 294 |
-| mpox | 14 | 46 | 21 | 26 | 17 | 16 | 16 | 156 |
-| malaria | 20 | 24 | 15 | 14 | 31 | 16 | 10 | 130 |
+| dengue | 61 | 105 | 52 | 95 | 62 | 63 | 37 | 475 |
+| h5n1 | 28 | 36 | 59 | 52 | 62 | 38 | 18 | 293 |
+| mpox | 13 | 46 | 21 | 26 | 17 | 16 | 20 | 159 |
+| malaria | 19 | 24 | 15 | 14 | 31 | 16 | 10 | 129 |
 | measles | 11 | 8 | 9 | 12 | 19 | 22 | 6 | 87 |
-| zika | 3 | 17 | 20 | 12 | 6 | 10 | 5 | 73 |
-| chikungunya | 5 | 17 | 6 | 6 | 10 | 7 | 2 | 53 |
-| rabies | 5 | 8 | 4 | 2 | 17 | 8 | 6 | 50 |
-| hpai | 4 | 3 | 3 | 5 | 6 | 3 | 2 | 26 |
-| pertussis | 11 | 3 | 1 | 2 | 0 | 5 | 4 | 26 |
+| zika | 3 | 17 | 20 | 12 | 6 | 10 | 10 | 78 |
+| chikungunya | 5 | 17 | 6 | 6 | 10 | 7 | 5 | 56 |
+| rabies | 5 | 8 | 4 | 2 | 17 | 8 | 7 | 51 |
+| hpai | 3 | 3 | 3 | 5 | 6 | 3 | 2 | 25 |
+| pertussis | 9 | 3 | 1 | 2 | 0 | 5 | 4 | 24 |
 | typhoid | 2 | 3 | 4 | 6 | 1 | 3 | 1 | 20 |
-| meningitis | 0 | 1 | 3 | 5 | 3 | 2 | 2 | 16 |
+| meningitis | 0 | 1 | 3 | 5 | 3 | 2 | 3 | 17 |
 | leptospirosis | 1 | 2 | 1 | 3 | 4 | 1 | 2 | 14 |
 | yersinia | 0 | 2 | 0 | 6 | 0 | 2 | 0 | 10 |
 
@@ -33,6 +33,16 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-31 (zika)
+
+- [Mosquitos que transmitem dengue e zika levam DGS a lançar apelos](https://ionline.sapo.pt/2024/08/01/mosquitos-que-transmitem-dengue-e-zika-levam-dgs-a-lancar-apelos/) (Sapo.pt)
+
+- [Mosquito que transmite dengue e zika encontrado em Cascais e Pombal. DGS recomenda medidas de proteção](https://observador.pt/2024/08/01/mosquito-que-transmite-dengue-e-zika-encontrado-em-cascais-e-pombal-dgs-recomenda-medidas-de-protecao/) (Observador.pt)
+
+- [DGS recomenda prevenção e controlo de mosquitos que transmitem dengue e zika](https://expresso.pt/sociedade/saude/2024-08-01-dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika-dc730a2e) (Expresso.pt)
+
+- [Collecting, Storing, and Hatching Aedes aegypti Eggs](https://cshprotocols.cshlp.org/content/2024/8/pdb.prot108183.full?rss=1) (Cshlp.org)
+
+- [DGS recomenda prevenção e controlo de mosquitos que transmitem dengue e zika](https://observador.pt/2024/08/01/dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika/) (Observador.pt)
 
 - [Leona Maguire and Rory McIlroy well placed to fly flag in golf’s awkward Olympic marriage](https://www.independent.ie/sport/olympics/leona-maguire-and-rory-mcilroy-well-placed-to-fly-flag-in-golfs-awkward-olympic-marriage/a1656624814.html) (Independent.ie)
 
@@ -49,6 +59,8 @@ Source: [News API](https://newsapi.org/)
 - [Hot & humid weather causes uptick in flu, typhoid, eye infection cases: Doctors](https://timesofindia.indiatimes.com/city/gurgaon/hot-humid-weather-causes-uptick-in-flu-typhoid-eye-infection-cases-doctors/articleshow/112093307.cms) (The Times of India)
 
 ## 24-31 (rabies)
+
+- [Virginia Department of Health confirms case of rabies in Roanoke cat](https://www.wdbj7.com/2024/08/01/virginia-department-health-confirms-case-rabies-roanoke-cat/) (WDBJ7)
 
 - [S.Africa to trial vaccination of seals after first rabies outbreak](https://phys.org/news/2024-07-safrica-trial-vaccination-rabies-outbreak.html) (Phys.Org)
 
@@ -73,6 +85,14 @@ Source: [News API](https://newsapi.org/)
 - [That’s a cunning way to defund education and kill a lot of children](https://freethoughtblogs.com/pharyngula/2024/07/28/thats-a-cunning-way-to-defund-education-and-kill-a-lot-of-children/) (Freethoughtblogs.com)
 
 ## 24-31 (mpox)
+
+- [Mpox cases reported in Africa up 160 percent: Africa CDC](https://www.thestar.com.my/news/world/2024/08/02/mpox-cases-reported-in-africa-up-160-percent-africa-cdc) (The Star Online)
+
+- [В Кении и ЦАР зафиксировали первые случаи заболевания оспой обезьян](https://tass.ru/obschestvo/21511427) (Tass.ru)
+
+- [Mpox cases have surged by 160% in Africa in the last year, but few treatments and vaccines available](https://abcnews.go.com/Health/wireStory/mpox-cases-surged-160-africa-year-treatments-vaccines-112468610) (ABC News)
+
+- [Mpox cases have surged by 160% in Africa in the last year, but few treatments and vaccines available](https://abcnews.go.com/International/wireStory/mpox-cases-surged-160-africa-year-treatments-vaccines-112468609) (ABC News)
 
 - [Faut-il craindre la nouvelle souche de la variole du singe ? “Cela demande une vigilance continue” pour Steven Van Gucht](https://www.lavenir.net/actu/belgique/2024/08/01/faut-il-craindre-la-nouvelle-souche-de-la-variole-du-singe-cela-demande-une-vigilance-continue-pour-steven-van-gucht-MPWPP7DSTZGZHMSIF7EEE46HQU/) (Lavenir.net)
 
@@ -107,6 +127,8 @@ Source: [News API](https://newsapi.org/)
 - [El ECDC asegura que el riesgo de que llegue la nueva variante de mpox a Europa es "muy bajo"](https://www.infosalus.com/salud-investigacion/noticia-ecdc-asegura-riesgo-llegue-nueva-variante-mpox-europa-muy-20240729183622.html) (Infosalus.com)
 
 ## 24-31 (meningitis)
+
+- [Healthcare Workers Are Revealing The Scariest Moments Of Their Entire Career](https://www.buzzfeed.com/carleysuthers/medical-professionals-reveal-scary-moments) (Buzzfeed)
 
 - [¿Las meningitis son frecuentes? Estos son los signos de infeccion en un niño](https://www.infosalus.com/salud-investigacion/noticia-meningitis-son-frecuentes-son-signos-infeccion-nino-20240731083649.html) (Infosalus.com)
 
@@ -200,6 +222,38 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-31 (dengue)
 
+- [Arranca el plan de un laboratorio español para combatir el mosquito más peligroso para Europa](https://www.huffingtonpost.es/sociedad/arranca-plan-laboratorio-espanol-combatir-mosquito-mas-peligroso-europa.html) (Huffingtonpost.es)
+
+- [Mosquitos que transmitem dengue e zika levam DGS a lançar apelos](https://ionline.sapo.pt/2024/08/01/mosquitos-que-transmitem-dengue-e-zika-levam-dgs-a-lancar-apelos/) (Sapo.pt)
+
+- [Mosquito que transmite dengue e zika encontrado em Cascais e Pombal. DGS recomenda medidas de proteção](https://observador.pt/2024/08/01/mosquito-que-transmite-dengue-e-zika-encontrado-em-cascais-e-pombal-dgs-recomenda-medidas-de-protecao/) (Observador.pt)
+
+- [DGS recomenda prevenção e controlo de mosquitos que transmitem dengue e zika](https://expresso.pt/sociedade/saude/2024-08-01-dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika-dc730a2e) (Expresso.pt)
+
+- [Collecting, Storing, and Hatching Aedes aegypti Eggs](https://cshprotocols.cshlp.org/content/2024/8/pdb.prot108183.full?rss=1) (Cshlp.org)
+
+- [V španielskom laboratóriu sterilizujú komáre. Vedci tým chcú zabrániť šíreniu chorôb](https://vat.pravda.sk/zem/clanok/719276-v-laboratoriu-vo-valencii-sterilizuju-komare-aby-zabranili-sireniu-chorob/) (Pravda.sk)
+
+- [Klimawandel bringt „exotische“ Krankheiten](https://ooe.orf.at/stories/3267153/) (Ooe.orf.at)
+
+- [DGS recomenda prevenção e controlo de mosquitos que transmitem dengue e zika](https://observador.pt/2024/08/01/dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika/) (Observador.pt)
+
+- [Socioeconomic and environmental factors associated with dengue fever incidence in Guatemala: Rising temperatures increase dengue risk](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308271) (Plos.org)
+
+- [Sterilizarea țânțarilor, soluție inedită pentru limitarea unei boli tropicale care se întinde și în Europa](http://hotnews.ro/sterilizarea-tantarilor-solutie-inedita-pentru-limitarea-unei-boli-tropicale-care-se-intinde-si-in-europa-1762486) (Hotnews.ro)
+
+- [Spanish lab sterilises mosquitoes as climate change fuels spread of dengue fever](https://www.channelnewsasia.com/business/spanish-lab-sterilises-mosquitoes-climate-change-fuels-spread-dengue-fever-4520336) (CNA)
+
+- [Dropping infected mosquitoes from a drone is now a thing](https://newatlas.com/drones/infected-mosquitoes-drone-delivery/) (New Atlas)
+
+- [Dengue Fever Is a Health Threat at the Paris Olympics and in the US. Here's How to Stay Safe](https://www.cnet.com/health/medical/dengue-fever-health-threat-paris-olympics-us-how-to-stay-safe/) (CNET)
+
+- [OPS: casos de dengue se duplican cada década](https://www.jornada.com.mx/2024/08/01/politica/016n2pol) (Jornada.com.mx)
+
+- [Repelente natural feito de bactérias afasta mosquitos por dias (até o da dengue)](https://olhardigital.com.br/2024/08/01/medicina-e-saude/repelente-natural-feito-de-bacterias-afasta-mosquitos-por-dias-ate-o-da-dengue/) (Olhardigital.com.br)
+
+- [Governo Lula já discute fim da epidemia de dengue](https://www.metropoles.com/blog-do-noblat/governo-lula-ja-discute-fim-da-epidemia-de-dengue) (Metropoles.com)
+
 - [Mumbai sees uptick in malaria, H1N1 cases in July, drop in dengue](https://www.business-standard.com/india-news/mumbai-sees-uptick-in-malaria-h1n1-cases-in-july-drop-in-dengue-124073101741_1.html) (Business Standard)
 
 - [Dengue, malaria, H1N1 flu cases double in 2nd fortnight of July](https://timesofindia.indiatimes.com/city/mumbai/increase-in-dengue-malaria-and-h1n1-flu-cases-in-mumbai-during-july/articleshow/112178941.cms) (The Times of India)
@@ -243,6 +297,12 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: four deaths, 317 new cases reported](https://www.thestar.com.my/news/nation/2024/07/28/dengue-four-deaths-317-new-cases-reported) (The Star Online)
 
 ## 24-31 (chikungunya)
+
+- [Mosquito que transmite dengue e zika encontrado em Cascais e Pombal. DGS recomenda medidas de proteção](https://observador.pt/2024/08/01/mosquito-que-transmite-dengue-e-zika-encontrado-em-cascais-e-pombal-dgs-recomenda-medidas-de-protecao/) (Observador.pt)
+
+- [Collecting, Storing, and Hatching Aedes aegypti Eggs](https://cshprotocols.cshlp.org/content/2024/8/pdb.prot108183.full?rss=1) (Cshlp.org)
+
+- [Klimawandel bringt „exotische“ Krankheiten](https://ooe.orf.at/stories/3267153/) (Ooe.orf.at)
 
 - [Donna di 70 anni morta dopo puntura di zanzara tigre. Ipotesi caso di Chikungunya](https://www.ilfattoquotidiano.it/2024/07/30/donna-di-70-anni-morta-dopo-puntura-di-zanzara-tigre-ipotesi-caso-di-chikungunya/7642174/) (Ilfattoquotidiano.it)
 
@@ -2734,10 +2794,6 @@ Source: [News API](https://newsapi.org/)
 
 - [O que é a tosse convulsa que está preocupando países da Europa?](https://gizmodo.uol.com.br/o-que-e-a-tosse-convulsa-que-esta-preocupando-paises-da-europa/) (Uol.com.br)
 
-- [Surto de coqueluche alerta para importância da vacinação](https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/) (Catracalivre.com.br)
-
-- [O que é coqueluche? Entenda a doença que está em ascensão no Brasil](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html) (Terra.com.br)
-
 ## 24-25 (mpox)
 
 - [Mpox cases detected in New South Wales, prompting vaccination alert](https://7news.com.au/news/mpox-cases-detected-in-new-south-wales-prompting-vaccination-alert-c-15104974) (7NEWS.com.au)
@@ -2765,8 +2821,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox cases increase in LA County; health officials advise at-risk residents to take precautions](https://abc7.com/post/mpox-cases-increase-la-county-health-officials-advise/14967262/) (KABC-TV)
 
 - [Reemergence of Clade IIb–Associated Mpox, Germany, July–December 2023](https://wwwnc.cdc.gov/eid/article/30/7/24-0092_article) (Cdc.gov)
-
-- [Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance](https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/) (Briefly.co.za)
 
 ## 24-25 (measles)
 
@@ -2832,8 +2886,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Noul Participates in a Malaria Project Initiated by U.S. CDC with Kenya Medical Research Institute](https://www.investing.com/news/press-releases/noul-participates-in-a-malaria-project-initiated-by-us-cdc-with-kenya-medical-research-institute-93CH-3486734) (Investing.com)
 
-- [Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study](https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640) (NDTV News)
-
 ## 24-25 (leptospirosis)
 
 - [Terengganu Health Dept denies 16 leptospirosis cases claims](https://www.thestar.com.my/news/nation/2024/06/22/terengganu-health-dept-denies-16-leptospirosis-cases-claims) (The Star Online)
@@ -2845,8 +2897,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu detected on poultry farm in New South Wales](https://www.abc.net.au/news/2024-06-19/bird-flu-detected-on-new-south-wales-poultry-egg-farm/103997490) (ABC News (AU))
 
 - [Птичий грипп "просочился" из лаборатории Минсельхоза США](https://www.news2.ru/story/684610/) (News2.ru)
-
-- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (h5n1)
 
@@ -2905,8 +2955,6 @@ Source: [News API](https://newsapi.org/)
 - [Eksperci obawiają się kolejnej pandemii. "Niepokój większy niż kiedykolwiek"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31067412,eksperci-obawiaja-sie-kolejnej-pandemii-niepokoj-wiekszy-niz.html) (Gazeta.pl)
 
 - [Bird flu snapshot: A critic of the U.S. response speaks out](https://www.statnews.com/2024/06/17/bird-flu-snapshot-seth-berkley-usda-tom-vilsack/) (STAT)
-
-- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
 
@@ -3031,8 +3079,6 @@ Source: [News API](https://newsapi.org/)
 - [Nyaralók, figyelem: egzotikus és rejtélyes betegségre érkezett most védőoltás](https://index.hu/belfold/2024/06/17/vedooltas-oltokozpont-utazas-nyaralas-oltas/) (Index.hu)
 
 - [BMA, businesses join hands in dengue war](https://www.bangkokpost.com/thailand/general/2812004/bma-businesses-join-hands-in-dengue-war) (Bangkok Post)
-
-- [Como diferenciar sintomas da dengue e leptospirose?](https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/) (Olhardigital.com.br)
 
 ## 24-25 (chikungunya)
 
