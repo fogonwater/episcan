@@ -1,8 +1,135 @@
 {
-  "last_updated": "2024-08-02 19:05",
-  "count_articles_total": 1339,
-  "count_articles_new": 22,
+  "last_updated": "2024-08-03 07:05",
+  "count_articles_total": 1352,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 11589,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Presse-citron",
+      "author": "Camille Coirault",
+      "title": "Les moustiques n\u2019ont qu\u2019\u00e0 bien se tenir : un r\u00e9pulsif efficace pendant plus d\u2019une semaine vient d\u2019\u00eatre d\u00e9couvert",
+      "description": "Le plus fort, c'est qu'il ne contient aucune substance toxique.",
+      "url": "https://www.presse-citron.net/les-moustiques-nont-qua-bien-se-tenir-un-repulsif-efficace-pendant-plus-dune-semaine-vient-detre-decouvert/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2024/08/cameron-webb-iuJgEBVSRIo-unsplash-1.jpg",
+      "publishedAt": "2024-08-02 07:04:56",
+      "content": "Les moustiques, ces redoutables vecteurs de maladies telles que la dengue, le paludisme et le virus Zika, constituent depuis longtemps une menace pr\u00e9occupante pour la sant\u00e9 publique \u00e0 l\u2019\u00e9chelle mondi\u2026 [+3076 chars]",
+      "retrievedAt": "2024-08-03 07:05:51.793022",
+      "internal_id": "98a1dea390603d6cc2c702319dce8696c39024d87a5c09fbc6719b5f8c46b4be",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11594,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Nelly Bosire",
+      "title": "Training lens on Mpox: The viruses are at it again",
+      "description": "Training lens on Mpox: The viruses are at it againnation.africa",
+      "url": "https://nation.africa/kenya/health/training-lens-on-mpox-the-viruses-are-at-it-again-4710266",
+      "urlToImage": "https://nation.africahttps://www.businessdailyafrica.com/resource/image/4709274/landscape_ratio3x2/1200/800/88ef09d6c01652e2783fd1cae91784c2/Fm/mpoxhands.jpg",
+      "publishedAt": "2024-08-02 03:10:58",
+      "content": "Early this week, the Ministry of Health confirmed the diagnosis of Mpox in a man travelling from Uganda to Rwanda. Let us not even try to imagine what his route map looked like, as he was at the Tait\u2026 [+6014 chars]",
+      "retrievedAt": "2024-08-03 07:05:53.243771",
+      "internal_id": "6bb95c033d4425b9314ec54bf87625d23876d51d4deabec47d33a6cb88844564",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11591,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Venturesquare.net",
+      "author": "\uc624\ud6a8\uc9c4",
+      "title": "\ub178\uc744, \uc544\uc2dc\uc544\u2219\uc544\ud504\ub9ac\uce74 \uace0\uc704\uae09 \uc778\uc0ac \ucd08\uccad\ud574 \uc758\ub8ccAI \uae30\uc220 \uc2dc\uc5f0",
+      "description": "#\ub178\uc744\uc740 \uc774\uc885\uc6b1 \ud3a0\ub85c\uc6b0\uc2ed \ud504\ub85c\uadf8\ub7a8 \uc77c\ud658\uc73c\ub85c #\uc544\uc2dc\uc544\u2219\uc544\ud504\ub9ac\uce74 6\uac1c\uad6d \uace0\uc704\uae09 \uc778\uc0ac\ub4e4\uc744 \ucd08\uccad\ud574 #\uc758\ub8ccAI \uc9c4\ub2e8 \uae30\uc220\uc744 \uc2dc\uc5f0\ud558\uace0 #\ud611\ub825 \uac00\ub2a5\uc131\uc744 \ubaa8\uc0c9\ud588\ub2e4. The post \ub178\uc744, \uc544\uc2dc\uc544\u2219\uc544\ud504\ub9ac\uce74 \uace0\uc704\uae09 \uc778\uc0ac \ucd08\uccad\ud574 \uc758\ub8ccAI \uae30\uc220 \uc2dc\uc5f0 appeared first on \ubca4\ucc98\uc2a4\ud018\uc5b4.",
+      "url": "https://www.venturesquare.net/934851",
+      "urlToImage": "https://www.venturesquare.net/wp-content/uploads/2024/08/noel.jpg",
+      "publishedAt": "2024-08-02 01:43:04",
+      "content": "( , ) 1 6 . , , , , , 22 AI , . , . 6 AI , . (Nataliya Georgiyevna Kan) HPV , PCR . , , . (Bernard Nii Akrashie Attoh) , . . . (WHO) (Dgital Malaria Microscopy) . 4 WHO 2030 (Deliverable) (Digi\u2026 [+56 chars]",
+      "retrievedAt": "2024-08-03 07:05:52.356774",
+      "internal_id": "d79a2e0c17fbc5380d200fb17512cd850c53fc36d0815ad0f66c6489e1c810d9",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11590,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "national-geographic",
+      "source_name": "National Geographic",
+      "author": "Kate Leahy",
+      "title": "What you should know about Asian tiger mosquitos arriving in Europe",
+      "description": "Carrying dengue fever and other diseases, the insects have arrived in Europe from Asia thanks to rising temperatures\u2014here\u2019s what travellers should know.",
+      "url": "https://www.nationalgeographic.com/travel/article/asian-tiger-mosquitos-in-europe",
+      "urlToImage": "https://i.natgeofe.com/n/bdf8bd03-337f-4a00-b208-6410b4e07d3e/tigermosquitoshottopic_16x9.jpg?w=1200",
+      "publishedAt": "2024-08-02 00:00:00",
+      "content": "This article was produced by National Geographic Traveller (UK). Due to warming temperatures, disease-carrying species of mosquito are spreading across Europe from Southeast Asia and Africa. Its the\u2026 [+4277 chars]",
+      "retrievedAt": "2024-08-03 07:05:51.841372",
+      "internal_id": "1aa2bfada87adce7293a4a38d7c1604d7a278bd3fb85aaf5da754300a385081d",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11588,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Beth Mole",
+      "title": "Troubling bird flu study suggests human cases are going undetected",
+      "description": "A small sample of farm workers is enough to confirm fears about H5N1 outbreak.",
+      "url": "https://arstechnica.com/science/2024/08/troubling-bird-flu-study-suggests-human-cases-are-going-undetected/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-157204335-760x380.jpg",
+      "publishedAt": "2024-08-01 23:17:45",
+      "content": "10 A small study in Texas suggests that human bird flu cases are being missed on dairy farms where the H5N1 virus has taken off in cows, sparking an unprecedented nationwide outbreak. The finding a\u2026 [+4588 chars]",
+      "retrievedAt": "2024-08-03 07:05:51.535729",
+      "internal_id": "50a023451bc1ea1bb2641ef303261d651c70deb84e95c22b60d3fd44d05548b6",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 11592,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "Dr. Tim Sandle",
+      "title": "Mpox in DR Congo: Who, what, when, where, and why",
+      "description": "Mpox is a disease caused by the monkeypox virus. It is transmitted by close contact between individuals or with infected animals. The post Mpox in DR Congo: Who, what, when, where, and why appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/tech-science/mpox-in-dr-congo-who-what-when-where-and-why/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2022/08/cc1e3367269d61b39251a1d981cfa89be8a2aae8.jpg",
+      "publishedAt": "2024-08-01 20:56:51",
+      "content": "A doctor checks on a patient with sores caused by the monkeypox infection - Copyright AFP/File Yasuyoshi CHIBA Mpox, formerly known as monkeypox, is on the rise in the Democratic Republic of the Con\u2026 [+3991 chars]",
+      "retrievedAt": "2024-08-03 07:05:53.210197",
+      "internal_id": "c744e9a6ae75a9cbfdd04abbb7c98c6c98de9db54786136396d67f03b8d40888",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 11593,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "The Associated Press",
+      "title": "Mpox outbreaks declared in Kenya and Central African Republic. The race is on to contain the spread.",
+      "description": "Kenya and the Central African Republic have declared new outbreaks of mpox as Africa\u2019s health officials race to contain the spread of the disease in a region lacking vaccines.",
+      "url": "https://www.nbcnews.com/health/health-news/mpox-outbreaks-declared-kenya-central-african-republic-race-contain-sp-rcna164762",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240801-mpox-outbreaks-wm-1218p-b0bc7a.jpg",
+      "publishedAt": "2024-08-01 19:53:04",
+      "content": "Kenya and the Central African Republic have declared new outbreaks of mpox as Africas health officials race to contain the spread of the disease in a region lacking vaccines. Nairobi announced the o\u2026 [+2103 chars]",
+      "retrievedAt": "2024-08-03 07:05:53.227050",
+      "internal_id": "1a7513704a6d991bc249331e96639930160b533ea8588e2cd7b7538f933bef89",
+      "publishedAtLabel": "Aug 1"
+    },
     {
       "id": 11587,
       "query": [
@@ -24202,6 +24329,115 @@
       "content": "Surtos de tosse convulsa est\u00e3o se expandindo por pa\u00edses da Europa desde dezembro do ano passado. A tosse convulsa \u00e9 uma doen\u00e7a contagiosa causada pela bact\u00e9ria Bordetella pertussis, sendo mais perigo\u2026 [+1660 chars]",
       "retrievedAt": "2024-06-18 07:05:55.587098",
       "internal_id": "988626a53785c9f7ffb9ca7cde5b7ed7d6b6ea3f07016835a68e812b851c99b0",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10238,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "F\u00e1bio Andrighetto",
+      "title": "Surto de coqueluche alerta para import\u00e2ncia da vacina\u00e7\u00e3o",
+      "description": "A coqueluche, causada pela bact\u00e9ria Bordetella pertussis e popularmente conhecida como tosse comprida, \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria que afeta pessoas em",
+      "url": "https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/04/vacina-todos-os-virus.jpg",
+      "publishedAt": "2024-06-16 17:35:53",
+      "content": "A coqueluche, causada pela bact\u00e9ria Bordetella pertussis e popularmente conhecida como tosse comprida, \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria que afeta pessoas em todo o mundo. Suas principais caracter\u00edsticas s\u2026 [+2434 chars]",
+      "retrievedAt": "2024-06-17 19:05:15.607136",
+      "internal_id": "6fa8324d7573031b2cbbfe4bc488016aa7cccd2a709c249424bc03142aa21674",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10240,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
+      "title": "\u0648\u06cc\u0631\u0648\u0633 \u0641\u0648\u0642 \u062d\u0627\u062f \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u062f\u0631 \u0634\u06cc\u0631 \u062e\u0627\u0645 \u06a9\u0627\u0647\u0634 \u06cc\u0627\u0641\u062a",
+      "description": "\u0628\u0631 \u0627\u0633\u0627\u0633 \u0622\u0632\u0645\u0627\u06cc\u0634\u06cc \u06a9\u0647 \u0646\u062a\u0627\u06cc\u062c \u0622\u0646 \u0628\u0647 \u062a\u0627\u0632\u06af\u06cc \u062f\u0631 \u0645\u062c\u0644\u0647 \u067e\u0632\u0634\u06a9\u06cc New England \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a\u060c \u0645\u0634\u062e\u0635 \u0634\u062f \u06a9\u0647 \u0633\u0637\u062d \u0648\u06cc\u0631\u0648\u0633 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u062f\u0631 \u0634\u06cc\u0631 \u062e\u0627\u0645\u060c \u0628\u0627 \u0639\u0645\u0644\u06cc\u0627\u062a \u062d\u0631\u0627\u0631\u062a\u06cc \u0628\u0647 \u0633\u0631\u0639\u062a \u06a9\u0627\u0647\u0634 \u0645\u06cc\u200c\u06cc\u0627\u0628\u062f.",
+      "url": "https://www.isna.ir/news/1403032718613/\u0648\u06cc\u0631\u0648\u0633-\u0641\u0648\u0642-\u062d\u0627\u062f-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-H5N1-\u062f\u0631-\u0634\u06cc\u0631-\u062e\u0627\u0645-\u06a9\u0627\u0647\u0634-\u06cc\u0627\u0641\u062a",
+      "urlToImage": "https://cdn.isna.ir/d/off/isfahan/2024/06/16/4/63069912.jpg?ts=1718538853770",
+      "publishedAt": "2024-06-16 12:28:45",
+      "content": "New England H5N1 . H5N1 . (. ) -- . . HPAI H5N1 . . . . NIAID HN (. ) ( ) . HPAI HN . . . ( ) H5N1 . . ( ) : H5N1 . New England . : #",
+      "retrievedAt": "2024-06-17 19:05:16.623672",
+      "internal_id": "f8a356926c6e12ee2fcada4c2e2e45124b031d711ee2b3df3f41e61be3c98ff3",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10243,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Briefly.co.za",
+      "author": "Zingisa Chirwa",
+      "title": "Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance",
+      "description": "The Health Department has urged citizens on medication to stick to their regimen to reduce the risk of Mpox infection after the disease claimed a seventh victim.",
+      "url": "https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/",
+      "urlToImage": "https://netstorage-briefly.akamaized.net/images/8630d18d9a64985c.jpg?imwidth=1200",
+      "publishedAt": "2024-06-16 11:13:15",
+      "content": "The Health Department has advised those on chronic medication to stick to their regimen to reduce the risk of contracting MpoxThe department issued the warning after a man in Cape To\u2026 [+2625 chars]",
+      "retrievedAt": "2024-06-17 19:05:19.955086",
+      "internal_id": "d33ffe1426bbb240d759f06bd17c8d48b8f7cc46baeb5baba5396354bf8fdabd",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10242,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study",
+      "description": "Researchers stumbled upon a potential breakthrough while studying fat cells in mice.",
+      "url": "https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640",
+      "urlToImage": "https://c.ndtvimg.com/2024-02/0u5i71bo_pcos_625x300_19_February_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
+      "publishedAt": "2024-06-16 08:33:37",
+      "content": "PCOS disrupts hormone production, leading to irregular periods, infertility, and other symptoms An existing malaria drug, artemisinin, shows promise in treating Polycystic Ovary Syndrome (PCOS) symp\u2026 [+1850 chars]",
+      "retrievedAt": "2024-06-17 19:05:18.566430",
+      "internal_id": "97d1289c9eff27bd05d1d6b354237debfff7d5ca31a9d2259479c5b6b9ee1d1f",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10241,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Simone Cordeiro",
+      "title": "Como diferenciar sintomas da dengue e leptospirose?",
+      "description": "Sintomas semelhantes podem aparecer em ambas as doen\u00e7as, mas alguns ind\u00edcios podem ser determinantes para o diagn\u00f3stico correto. O post Como diferenciar sintomas da dengue e leptospirose? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/06/Medica-examinando-paciente-scaled.jpg",
+      "publishedAt": "2024-06-16 08:20:00",
+      "content": "Em situa\u00e7\u00f5es de calamidade, como as chuvas que devastaram o Rio Grande do Sul, a coexist\u00eancia da dengue e da leptospirose pode acontecer. Dessa forma, uma pessoa pode apresentar sintomas de dengue e \u2026 [+2532 chars]",
+      "retrievedAt": "2024-06-17 19:05:17.453454",
+      "internal_id": "eea602e598efddbef22da04bc02ae911aad3f8ef317e05820e84019c6b97fbec",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 10239,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "O que \u00e9 coqueluche? Entenda a doen\u00e7a que est\u00e1 em ascens\u00e3o no Brasil",
+      "description": "A coqueluche, tamb\u00e9m conhecida como tosse convulsiva, \u00e9 uma doen\u00e7a respirat\u00f3ria altamente ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/14/gettyimages-1345955042-qhqmnzplxrhh.jpg",
+      "publishedAt": "2024-06-16 08:00:14",
+      "content": "A coqueluche, tamb\u00e9m conhecida como tosse convulsiva, \u00e9 uma doen\u00e7a respirat\u00f3ria altamente contagiosa causada pela bact\u00e9ria Bordetella pertussis. Apesar de ser preven\u00edvel por meio da vacina\u00e7\u00e3o, a coqu\u2026 [+2767 chars]",
+      "retrievedAt": "2024-06-17 19:05:15.634294",
+      "internal_id": "7fafafb2aba1a77d6df102a5ab6b58759f47aed4245a62e9f857735e7154e406",
       "publishedAtLabel": "Jun 16"
     }
   ]
