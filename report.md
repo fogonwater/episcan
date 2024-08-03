@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-08-03 07:05
-- **Most recent article:** 2024-08-02 07:04:56
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-08-03 19:05
+- **Most recent article:** 2024-08-02 18:42:28
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-25 | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 62 | 105 | 52 | 95 | 62 | 63 | 39 | 478 |
-| h5n1 | 29 | 36 | 59 | 52 | 62 | 38 | 19 | 295 |
-| mpox | 14 | 46 | 21 | 26 | 17 | 16 | 23 | 163 |
-| malaria | 20 | 24 | 15 | 14 | 31 | 16 | 11 | 131 |
-| measles | 11 | 8 | 9 | 12 | 19 | 22 | 6 | 87 |
-| zika | 3 | 17 | 20 | 12 | 6 | 10 | 11 | 79 |
-| chikungunya | 5 | 17 | 6 | 6 | 10 | 7 | 5 | 56 |
-| rabies | 5 | 8 | 4 | 2 | 17 | 8 | 7 | 51 |
-| hpai | 4 | 3 | 3 | 5 | 6 | 3 | 2 | 26 |
-| pertussis | 11 | 3 | 1 | 2 | 0 | 5 | 4 | 26 |
+| dengue | 61 | 105 | 52 | 95 | 62 | 63 | 43 | 481 |
+| h5n1 | 28 | 36 | 59 | 52 | 62 | 38 | 21 | 296 |
+| mpox | 13 | 46 | 21 | 26 | 17 | 16 | 24 | 163 |
+| malaria | 19 | 24 | 15 | 14 | 31 | 16 | 12 | 131 |
+| measles | 11 | 8 | 9 | 12 | 19 | 22 | 7 | 88 |
+| zika | 3 | 17 | 20 | 12 | 6 | 10 | 12 | 80 |
+| chikungunya | 5 | 17 | 6 | 6 | 10 | 7 | 6 | 57 |
+| rabies | 5 | 8 | 4 | 2 | 17 | 8 | 10 | 54 |
+| hpai | 3 | 3 | 3 | 5 | 6 | 3 | 3 | 26 |
+| pertussis | 9 | 3 | 1 | 2 | 0 | 5 | 4 | 24 |
 | typhoid | 2 | 3 | 4 | 6 | 1 | 3 | 1 | 20 |
 | meningitis | 0 | 1 | 3 | 5 | 3 | 2 | 3 | 17 |
 | leptospirosis | 1 | 2 | 1 | 3 | 4 | 1 | 2 | 14 |
-| yersinia | 0 | 2 | 0 | 6 | 0 | 2 | 0 | 10 |
+| yersinia | 0 | 2 | 0 | 6 | 0 | 2 | 1 | 11 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-31 (zika)
+
+- [DGS recomenda prevenção e controlo de mosquitos que transmitem dengue e zika](https://greensavers.sapo.pt/dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika/) (Sapo.pt)
 
 - [Les moustiques n’ont qu’à bien se tenir : un répulsif efficace pendant plus d’une semaine vient d’être découvert](https://www.presse-citron.net/les-moustiques-nont-qua-bien-se-tenir-un-repulsif-efficace-pendant-plus-dune-semaine-vient-detre-decouvert/) (Presse-citron)
 
@@ -56,11 +58,21 @@ Source: [News API](https://newsapi.org/)
 
 - [13 cases of Zika virus infection till Jul 22 this year: MoS Anupriya Patel](https://economictimes.indiatimes.com/news/india/13-cases-of-zika-virus-infection-till-jul-22-this-year-mos-anupriya-patel/articleshow/112139504.cms) (The Times of India)
 
+## 24-31 (yersinia)
+
+- [فکت‌های جالب در مورد بیماری طاعون یا مرگ سیاه و تغییراتی که در سطح اجتماعی و سیاسی و فرهنگی ایجاد کرد!](https://www.1pezeshk.com/archives/2024/08/interesting-facts-about-the-plague-or-the-black-death.html) (1pezeshk.com)
+
 ## 24-31 (typhoid)
 
 - [Hot & humid weather causes uptick in flu, typhoid, eye infection cases: Doctors](https://timesofindia.indiatimes.com/city/gurgaon/hot-humid-weather-causes-uptick-in-flu-typhoid-eye-infection-cases-doctors/articleshow/112093307.cms) (The Times of India)
 
 ## 24-31 (rabies)
+
+- [Skunks to blame for boom in Minnesota rabies cases, animal health board says](https://www.cbsnews.com/minnesota/news/minnesota-rabies-cases-rise-skunks/) (CBS News)
+
+- [These Are the CDC’s New Rules for Flying With Your Dog](https://time.com/7007042/cdc-new-rules-flying-with-your-dog/) (Time)
+
+- [The Entire Village Will Be Given Rabies Vaccine Health Department Team Arrived In Kanker](https://www.amarujala.com/chhattisgarh/kanker/the-entire-village-will-be-given-rabies-vaccine-health-department-team-arrived-in-kanker-2024-08-02) (Amarujala.com)
 
 - [Virginia Department of Health confirms case of rabies in Roanoke cat](https://www.wdbj7.com/2024/08/01/virginia-department-health-confirms-case-rabies-roanoke-cat/) (WDBJ7)
 
@@ -87,6 +99,8 @@ Source: [News API](https://newsapi.org/)
 - [That’s a cunning way to defund education and kill a lot of children](https://freethoughtblogs.com/pharyngula/2024/07/28/thats-a-cunning-way-to-defund-education-and-kill-a-lot-of-children/) (Freethoughtblogs.com)
 
 ## 24-31 (mpox)
+
+- [Kenya on alert after case of mpox confirmed](https://www.voanews.com/a/kenya-on-alert-after-case-of-mpox-confirmed/7727576.html) (VOA News)
 
 - [Training lens on Mpox: The viruses are at it again](https://nation.africa/kenya/health/training-lens-on-mpox-the-viruses-are-at-it-again-4710266) (Nation.africa)
 
@@ -144,6 +158,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-31 (measles)
 
+- [Measles 2024: ‘Merica, are you okay?](https://sciencebasedmedicine.org/measles-2024-merica-are-you-okay/) (Sciencebasedmedicine.org)
+
 - [Measles cases rise to 81 so far this year with four outbreaks in past five weeks](https://www.independent.ie/irish-news/measles-cases-rise-to-81-so-far-this-year-with-four-outbreaks-in-past-five-weeks/a918013937.html) (Independent.ie)
 
 - [Measles confirmed in LAX traveler who went to Orange County](https://www.foxla.com/news/measles-confirmed-lax-orange-county) (FOX 11 Los Angeles)
@@ -157,6 +173,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1135: Resistance is not always futile](https://www.microbe.tv/twiv/twiv-1135/) (Microbe.tv)
 
 ## 24-31 (malaria)
+
+- [Ansatz für neue Therapien: Schwachstelle des Malariaerregers entdeckt](https://www.faz.net/aktuell/rhein-main/region-und-hessen/giessener-forscher-haben-schwachstelle-des-malariaerregers-entdeckt-19886437.html) (Faz.net)
 
 - [노을, 아시아∙아프리카 고위급 인사 초청해 의료AI 기술 시연](https://www.venturesquare.net/934851) (Venturesquare.net)
 
@@ -188,11 +206,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-31 (hpai)
 
+- [HPAI H5N1 virus could pose significant threat to Georgia's poultry farms, warns expert](https://phys.org/news/2024-08-hpai-h5n1-virus-pose-significant.html) (Phys.Org)
+
 - [Bird Flu BS](https://www.activistpost.com/2024/07/bird-flu-bs.html) (Activistpost.com)
 
 - [Colorado Reports Its 10th Human Bird Flu Case](https://legalinsurrection.com/2024/07/colorado-reports-its-10th-human-bird-flu-case/) (Legalinsurrection.com)
 
 ## 24-31 (h5n1)
+
+- [HPAI H5N1 virus could pose significant threat to Georgia's poultry farms, warns expert](https://phys.org/news/2024-08-hpai-h5n1-virus-pose-significant.html) (Phys.Org)
+
+- [Bird flu pandemic fears as new route of transmission found](https://www.gbnews.com/health/bird-flu-uk-pandemic-symptoms) (Gbnews.com)
 
 - [Troubling bird flu study suggests human cases are going undetected](https://arstechnica.com/science/2024/08/troubling-bird-flu-study-suggests-human-cases-are-going-undetected/) (Ars Technica)
 
@@ -233,6 +257,14 @@ Source: [News API](https://newsapi.org/)
 - [To help prevent another pandemic, we must protect US farmworkers from avian flu](https://www.bostonglobe.com/2024/07/29/opinion/avian-flu-birds-cows-farmworkers/) (The Boston Globe)
 
 ## 24-31 (dengue)
+
+- [21% dengue tests return positive as case count surpasses 8.5k in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/21-dengue-tests-return-positive-as-case-count-surpasses-8-5k-in-bengaluru/articleshow/112232390.cms) (The Times of India)
+
+- [Premier cas autochtone de dengue détecté en Provence-Alpes Côte d'Azur cet été](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/premier-cas-autochtone-de-dengue-detecte-en-provence-alpes-cote-d-azur-cet-ete-3013493.html) (Francetvinfo.fr)
+
+- [Erste Fälle: Oropouche-Fieber in Deutschland – wie gefährlich ist das Tropenvirus?](https://www.stern.de/gesundheit/tropenvirus--oropouche-fieber-in-deutschland-entdeckt---was-ist-das--34823574.html) (STERN.de)
+
+- [DGS recomenda prevenção e controlo de mosquitos que transmitem dengue e zika](https://greensavers.sapo.pt/dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika/) (Sapo.pt)
 
 - [Les moustiques n’ont qu’à bien se tenir : un répulsif efficace pendant plus d’une semaine vient d’être découvert](https://www.presse-citron.net/les-moustiques-nont-qua-bien-se-tenir-un-repulsif-efficace-pendant-plus-dune-semaine-vient-detre-decouvert/) (Presse-citron)
 
@@ -313,6 +345,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: four deaths, 317 new cases reported](https://www.thestar.com.my/news/nation/2024/07/28/dengue-four-deaths-317-new-cases-reported) (The Star Online)
 
 ## 24-31 (chikungunya)
+
+- [Ile-de-France : Le premier cas autochtone de chikungunya de l’année détecté](https://www.20minutes.fr/sante/4104228-20240802-ile-france-premier-cas-autochtone-chikungunya-annee-detecte) (20 Minutes)
 
 - [Mosquito que transmite dengue e zika encontrado em Cascais e Pombal. DGS recomenda medidas de proteção](https://observador.pt/2024/08/01/mosquito-que-transmite-dengue-e-zika-encontrado-em-cascais-e-pombal-dgs-recomenda-medidas-de-protecao/) (Observador.pt)
 
@@ -2810,10 +2844,6 @@ Source: [News API](https://newsapi.org/)
 
 - [O que é a tosse convulsa que está preocupando países da Europa?](https://gizmodo.uol.com.br/o-que-e-a-tosse-convulsa-que-esta-preocupando-paises-da-europa/) (Uol.com.br)
 
-- [Surto de coqueluche alerta para importância da vacinação](https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/) (Catracalivre.com.br)
-
-- [O que é coqueluche? Entenda a doença que está em ascensão no Brasil](https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html) (Terra.com.br)
-
 ## 24-25 (mpox)
 
 - [Mpox cases detected in New South Wales, prompting vaccination alert](https://7news.com.au/news/mpox-cases-detected-in-new-south-wales-prompting-vaccination-alert-c-15104974) (7NEWS.com.au)
@@ -2841,8 +2871,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox cases increase in LA County; health officials advise at-risk residents to take precautions](https://abc7.com/post/mpox-cases-increase-la-county-health-officials-advise/14967262/) (KABC-TV)
 
 - [Reemergence of Clade IIb–Associated Mpox, Germany, July–December 2023](https://wwwnc.cdc.gov/eid/article/30/7/24-0092_article) (Cdc.gov)
-
-- [Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance](https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/) (Briefly.co.za)
 
 ## 24-25 (measles)
 
@@ -2908,8 +2936,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Noul Participates in a Malaria Project Initiated by U.S. CDC with Kenya Medical Research Institute](https://www.investing.com/news/press-releases/noul-participates-in-a-malaria-project-initiated-by-us-cdc-with-kenya-medical-research-institute-93CH-3486734) (Investing.com)
 
-- [Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study](https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640) (NDTV News)
-
 ## 24-25 (leptospirosis)
 
 - [Terengganu Health Dept denies 16 leptospirosis cases claims](https://www.thestar.com.my/news/nation/2024/06/22/terengganu-health-dept-denies-16-leptospirosis-cases-claims) (The Star Online)
@@ -2921,8 +2947,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu detected on poultry farm in New South Wales](https://www.abc.net.au/news/2024-06-19/bird-flu-detected-on-new-south-wales-poultry-egg-farm/103997490) (ABC News (AU))
 
 - [Птичий грипп "просочился" из лаборатории Минсельхоза США](https://www.news2.ru/story/684610/) (News2.ru)
-
-- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (h5n1)
 
@@ -2981,8 +3005,6 @@ Source: [News API](https://newsapi.org/)
 - [Eksperci obawiają się kolejnej pandemii. "Niepokój większy niż kiedykolwiek"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31067412,eksperci-obawiaja-sie-kolejnej-pandemii-niepokoj-wiekszy-niz.html) (Gazeta.pl)
 
 - [Bird flu snapshot: A critic of the U.S. response speaks out](https://www.statnews.com/2024/06/17/bird-flu-snapshot-seth-berkley-usda-tom-vilsack/) (STAT)
-
-- [ویروس فوق حاد آنفلوانزای پرندگان H5N1 در شیر خام کاهش یافت](https://www.isna.ir/news/1403032718613/ویروس-فوق-حاد-آنفلوانزای-پرندگان-H5N1-در-شیر-خام-کاهش-یافت) (Isna.ir)
 
 ## 24-25 (dengue)
 
@@ -3107,8 +3129,6 @@ Source: [News API](https://newsapi.org/)
 - [Nyaralók, figyelem: egzotikus és rejtélyes betegségre érkezett most védőoltás](https://index.hu/belfold/2024/06/17/vedooltas-oltokozpont-utazas-nyaralas-oltas/) (Index.hu)
 
 - [BMA, businesses join hands in dengue war](https://www.bangkokpost.com/thailand/general/2812004/bma-businesses-join-hands-in-dengue-war) (Bangkok Post)
-
-- [Como diferenciar sintomas da dengue e leptospirose?](https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/) (Olhardigital.com.br)
 
 ## 24-25 (chikungunya)
 

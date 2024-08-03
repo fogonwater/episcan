@@ -1,8 +1,262 @@
 {
-  "last_updated": "2024-08-03 07:05",
-  "count_articles_total": 1352,
-  "count_articles_new": 7,
+  "last_updated": "2024-08-03 19:05",
+  "count_articles_total": 1360,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 11603,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Hamsaveni N",
+      "title": "21% dengue tests return positive as case count surpasses 8.5k in Bengaluru",
+      "description": "BENGALURU: One out of every five dengue tests is returning positive this year in the city.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/21-dengue-tests-return-positive-as-case-count-surpasses-8-5k-in-bengaluru/articleshow/112232390.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112232417,width-1070,height-580,imgsize-7266,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-02 18:42:28",
+      "content": "8 flowers and plants that will attract birds to your garden",
+      "retrievedAt": "2024-08-03 19:05:25.762097",
+      "internal_id": "0ed24baf8cb0aab3f5653afd3dc5ed867c0e2aae0607bd8ed6a2b86873c33665",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11596,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "August 2",
+      "title": "Skunks to blame for boom in Minnesota rabies cases, animal health board says",
+      "description": "Minnesota health officials are warning that rabid skunks are infecting animals and driving up rabies cases in parts of the state.",
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-rabies-cases-rise-skunks/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2018/07/31/89a5a8ea-0e3a-4b83-bf7c-a53bdd52b632/thumbnail/1200x630/be41569daec1b01f21350b208d0a46e9/gettyimages-145523233.jpg?v=d7dedd293aad546f97f947149642d369",
+      "publishedAt": "2024-08-02 18:07:20",
+      "content": "Cattle in Minnesota are keeling over and dying \u2014 a phenomenon that health officials warn has been caused by rabid skunks infecting animals and driving up rabies cases in parts of the state. Minnesot\u2026 [+1456 chars]",
+      "retrievedAt": "2024-08-03 19:05:24.678395",
+      "internal_id": "955ed24a363d2ce31b59234df25a1db24327ab5b5b29a1fc13d077141581d7cc",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11595,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Simmone Shah",
+      "title": "These Are the CDC\u2019s New Rules for Flying With Your Dog",
+      "description": "The CDC recently announced new rules for pet-owners planning on flying with their dogs.",
+      "url": "https://time.com/7007042/cdc-new-rules-flying-with-your-dog/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/08/pet-flying.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2024-08-02 16:06:05",
+      "content": "The CDC recently announced new rules for pet-owners planning on flying with their dogs, a change they say will simplify the process for those arriving to the U.S. from countries that are dog rabies-f\u2026 [+1579 chars]",
+      "retrievedAt": "2024-08-03 19:05:24.642843",
+      "internal_id": "3b8f376af7da56522e2767c2a1932e24c1dc441b1f9864f9c9f60c6180106000",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11607,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Mohammed Yusuf)",
+      "title": "Kenya on alert after case of mpox confirmed",
+      "description": "Nairobi \u2014 The Kenyan Health Ministry has dispatched health care workers to Taita-Taveta County, where a case of mpox was detected Wednesday. Authorities say the person who tested positive for the virus traveled through the county along the Kenyan-Tanzanian\u2026",
+      "url": "https://www.voanews.com/a/kenya-on-alert-after-case-of-mpox-confirmed/7727576.html",
+      "urlToImage": "https://gdb.voanews.com/E3A2EF97-F6F2-4CDC-8CCD-00FF45AB8DAD.jpg",
+      "publishedAt": "2024-08-02 15:56:37",
+      "content": "Nairobi The Kenyan Health Ministry has dispatched health care workers to Taita-Taveta County, where a case of mpox was detected Wednesday. Authorities say the person who tested positive for the vi\u2026 [+2490 chars]",
+      "retrievedAt": "2024-08-03 19:05:27.313524",
+      "internal_id": "70e1ae894217b4d211c31664033a4f84604b0363e244df5c5f8a848dfcba3f7e",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11602,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": "Emma Arnau",
+      "title": "Premier cas autochtone de dengue d\u00e9tect\u00e9 en Provence-Alpes C\u00f4te d'Azur cet \u00e9t\u00e9",
+      "description": "L'agence R\u00e9gional de Sant\u00e9 annonce ce 2 ao\u00fbt qu'un cas de dengue a \u00e9t\u00e9 d\u00e9tect\u00e9 chez une personne r\u00e9sidant \u00e0 la Colle-sur-Loup. C'est le premier cas autochtone dans la r\u00e9gion cette ann\u00e9e. Une d\u00e9moustication et une surveillance renforc\u00e9e vont \u00eatre mises en place",
+      "url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/premier-cas-autochtone-de-dengue-detecte-en-provence-alpes-cote-d-azur-cet-ete-3013493.html",
+      "urlToImage": "https://france3-regions.francetvinfo.fr/image/j1I436UiOW_TbrrWaE-LLGIKgvo/930x620/regions/2024/05/17/maxmatinnews291106-6647749cc1d88807166289.jpg",
+      "publishedAt": "2024-08-02 15:30:04",
+      "content": "L'agence R\u00e9gional de Sant\u00e9 annonce ce 2 ao\u00fbt qu'un cas de dengue a \u00e9t\u00e9 d\u00e9tect\u00e9 chez une personne r\u00e9sidant \u00e0 la Colle-sur-Loup. C'est le premier cas autochtone dans la r\u00e9gion cette ann\u00e9e. Une d\u00e9mousti\u2026 [+1801 chars]",
+      "retrievedAt": "2024-08-03 19:05:25.748315",
+      "internal_id": "b68b7584eb89bc091b3ce8acd165fc43e986f24264ba8a02a876e276a64b8035",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11608,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "1pezeshk.com",
+      "author": "\u0639\u0644\u06cc\u0631\u0636\u0627 \u0645\u062c\u06cc\u062f\u06cc",
+      "title": "\u0641\u06a9\u062a\u200c\u0647\u0627\u06cc \u062c\u0627\u0644\u0628 \u062f\u0631 \u0645\u0648\u0631\u062f \u0628\u06cc\u0645\u0627\u0631\u06cc \u0637\u0627\u0639\u0648\u0646 \u06cc\u0627 \u0645\u0631\u06af \u0633\u06cc\u0627\u0647 \u0648 \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a\u06cc \u06a9\u0647 \u062f\u0631 \u0633\u0637\u062d \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0648 \u0633\u06cc\u0627\u0633\u06cc \u0648 \u0641\u0631\u0647\u0646\u06af\u06cc \u0627\u06cc\u062c\u0627\u062f \u06a9\u0631\u062f!",
+      "description": "\u0637\u0627\u0639\u0648\u0646 \u06cc\u0627 \u0645\u0631\u06af \u0633\u06cc\u0627\u0647 (Plague \u06cc\u0627 The Black Death) \u06cc\u06a9\u06cc \u0627\u0632 \u06a9\u0634\u0646\u062f\u0647\u200c\u062a\u0631\u06cc\u0646 \u0628\u06cc\u0645\u0627\u0631\u06cc\u200c\u0647\u0627\u06cc \u0647\u0645\u0647\u200c\u06af\u06cc\u0631 (pandemics) \u062a\u0627\u0631\u06cc\u062e \u0628\u0634\u0631 \u0628\u0648\u062f\u0647 \u06a9\u0647 \u062f\u0631 \u0642\u0631\u0646 14 \u0645\u06cc\u0644\u0627\u062f\u06cc (14th century) \u0627\u0631\u0648\u067e\u0627 \u0631\u0627 \u0628\u0647 \u0634\u062f\u062a \u062a\u062d\u062a \u062a\u0623\u062b\u06cc\u0631 \u0642\u0631\u0627\u0631 \u062f\u0627\u062f. \u0627\u06cc\u0646 \u0628\u06cc\u0645\u0627\u0631\u06cc \u06a9\u0647 \u062a\u0648\u0633\u0637 \u0628\u0627\u06a9\u062a\u0631\u06cc \u06cc\u0631\u0633\u06cc\u0646\u06cc\u0627 \u067e\u0633\u062a\u06cc\u0633 (Yersinia pestis) \u0627\u06cc\u062c\u0627\u062f \u0645\u06cc\u200c\u0634\u062f\u060c \u0627\u0632 \u0637\u0631\u06cc\u0642\u2026",
+      "url": "https://www.1pezeshk.com/archives/2024/08/interesting-facts-about-the-plague-or-the-black-death.html",
+      "urlToImage": "https://www.1pezeshk.com/wp-content/uploads/2024/08/12-05-1403-06-15-47-\u0628-\u0638.jpg",
+      "publishedAt": "2024-08-02 14:46:35",
+      "content": "(Plague The Black Death) (pandemics) 14 (14th century) . (Yersinia pestis) (fleas) (rodents) . . 48 . (Mortality Rate) (Flea Transmission) (Yersinia \u2026 [+2928 chars]",
+      "retrievedAt": "2024-08-03 19:05:27.794755",
+      "internal_id": "80bc2e052d9a8caa2198499d4e830e3f3cca2c7b43e90c76008386c24950ae9c",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11599,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Siobhan Rodriguez",
+      "title": "HPAI H5N1 virus could pose significant threat to Georgia's poultry farms, warns expert",
+      "description": "The recent outbreak of the highly pathogenic avian influenza (HPAI H5N1) virus has raised concerns among poultry producers and food safety experts. The virus is highly contagious among birds and poses a significant risk despite stringent biosecurity measures,\u2026",
+      "url": "https://phys.org/news/2024-08-hpai-h5n1-virus-pose-significant.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/poultry-farm.jpg",
+      "publishedAt": "2024-08-02 14:00:01",
+      "content": "The recent outbreak of the highly pathogenic avian influenza (HPAI H5N1) virus has raised concerns among poultry producers and food safety experts. The virus is highly contagious among birds and pose\u2026 [+3762 chars]",
+      "retrievedAt": "2024-08-03 19:05:25.036525",
+      "internal_id": "7e4001159b1e8a4aa2efa7d8a48bf049011cbfd653b4dcc92884987fd6b41426",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11606,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Ile-de-France : Le premier cas autochtone de chikungunya de l\u2019ann\u00e9e d\u00e9tect\u00e9",
+      "description": "Un cas autochtone de chikungunya, le premier de l'ann\u00e9e en France, a \u00e9t\u00e9 enregistr\u00e9 en Ile-de-France",
+      "url": "https://www.20minutes.fr/sante/4104228-20240802-ile-france-premier-cas-autochtone-chikungunya-annee-detecte",
+      "urlToImage": "https://img.20mn.fr/3NNEVI0dTkuKlyD-JzkzESk/1444x920_illustration-moustique-tigre-aedes-albopictus-credit-lodi-franck-sipa-1506161743",
+      "publishedAt": "2024-08-02 11:04:04",
+      "content": "Cest lune des \u00e9pid\u00e9mies qui menacent la France. Avec la prolif\u00e9ration du moustique tigre sur le territoire depuis vingt ans, le risque de diffusion de cas autochtones du chikungunya saccentue. Le pre\u2026 [+1672 chars]",
+      "retrievedAt": "2024-08-03 19:05:27.080874",
+      "internal_id": "e2f89edc4a1e563e8c710dad3f027559ddbc4c2f19de1989648113233fed6abf",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11598,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Clay Jones",
+      "title": "Measles 2024: \u2018Merica, are you okay?",
+      "description": "Measles cases are increasing. Kids and even many adults are at risk of injury and death from this vaccine-preventable illness that should be a historical footnote. The post Measles 2024: \u2018Merica, are you okay? first appeared on Science-Based Medicine.",
+      "url": "https://sciencebasedmedicine.org/measles-2024-merica-are-you-okay/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2019/05/measlesvaccinate.jpg",
+      "publishedAt": "2024-08-02 11:00:00",
+      "content": "In January, I discussed the first measles outbreak of 2024 here in the United States, specifically in Philadelphia. That outbreak was officially over in late February and ended up involving six child\u2026 [+4915 chars]",
+      "retrievedAt": "2024-08-03 19:05:24.833764",
+      "internal_id": "7f098fb6793812c53bd040b3ebcee0496809c9008c5f15d1e70e50b88cb052d6",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11600,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gbnews.com",
+      "author": "Adam Chapman",
+      "title": "Bird flu pandemic fears as new route of transmission found",
+      "description": "Bird flu has been raising fears of a new human pandemic ever since it made the jump from cows to humans in March but it has now found a new vector.",
+      "url": "https://www.gbnews.com/health/bird-flu-uk-pandemic-symptoms",
+      "urlToImage": "https://www.gbnews.com/media-library/man-in-a-hazmat-suit-looking-up-at-flies.png?id=53081440&width=1200&height=600&coordinates=0%2C134%2C0%2C591",
+      "publishedAt": "2024-08-02 10:21:50",
+      "content": "Scientists are sounding the alarm after discovering a new route of transmission for bird flu.Virologists were already nervous after avian influenza A (H5N1) jumped to cows for the first time in March\u2026 [+4888 chars]",
+      "retrievedAt": "2024-08-03 19:05:25.432937",
+      "internal_id": "39ac274a8ffd29ec5d51a464abd2fc2c64316e6770ea4766db1f8ad1d525a3dc",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11601,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Tina Pokern",
+      "title": "Erste F\u00e4lle: Oropouche-Fieber in Deutschland \u2013 wie gef\u00e4hrlich ist das Tropenvirus?",
+      "description": "Nach ersten F\u00e4llen in Italien und Spanien hat es das Oropouche-Fieber nun auch nach Deutschland geschafft. Das Robert-Koch-Institut warnt schon l\u00e4nger vor einer Ausbreitung des Tropenvirus.",
+      "url": "https://www.stern.de/gesundheit/tropenvirus--oropouche-fieber-in-deutschland-entdeckt---was-ist-das--34823574.html",
+      "urlToImage": "https://image.stern.de/34823912/t/_p/v4/w1440/r1.7778/-/tropenvirus--erster-fall-von-oropouche-fieber.jpg",
+      "publishedAt": "2024-08-02 10:03:00",
+      "content": "Tropenkrankheiten sind in Europa auf dem Vormarsch. Nachdem sich zuletzt vor allem das Dengue-Fieber ausgebreitet hatte, ist nun von einem neuen Tropenvirus die Rede dem Oropouche-Virus. Das breitet \u2026 [+5009 chars]",
+      "retrievedAt": "2024-08-03 19:05:25.724367",
+      "internal_id": "ddeb58e167c07891e82cc52207d20f4d6786c927bab519827a3e9ea962319c7b",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11597,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Amarujala.com",
+      "author": "Amar Ujala Digital Team",
+      "title": "The Entire Village Will Be Given Rabies Vaccine Health Department Team Arrived In Kanker",
+      "description": "\u0905\u092c \u0924\u0915 \u0932\u0917\u092d\u0917 150 \u0938\u0947 \u0905\u0927\u093f\u0915 \u0917\u094d\u0930\u093e\u092e\u0940\u0923\u094b\u0902 \u0915\u094b \u0930\u0947\u092c\u0940\u0938 \u0915\u093e \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0932\u0917\u093e\u092f\u093e \u091c\u093e \u091a\u0941\u0915\u093e \u0939\u0948\u0964 \u0938\u093e\u0925 \u0939\u0940 \u0917\u094d\u0930\u093e\u092e\u0940\u0923\u094b\u0902 \u0938\u0947 \u0909\u0938 \u0938\u0924\u094d\u092f\u0928\u093e\u0930\u093e\u092f\u0923 \u092a\u0942\u091c\u093e \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932 \u0939\u094b\u0928\u0947 \u0935\u093e\u0932\u0947 \u0924\u092e\u093e\u092e \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u0939\u093f\u0938\u094d\u091f\u094d\u0930\u0940 \u0916\u0902\u0917\u093e\u0932\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948\u0964",
+      "url": "https://www.amarujala.com/chhattisgarh/kanker/the-entire-village-will-be-given-rabies-vaccine-health-department-team-arrived-in-kanker-2024-08-02",
+      "urlToImage": "https://staticimg.amarujala.com/assets/images/2024/08/02/vakasana-lgata-narasa_7021687c3f90438da69198fa9cb020dd.jpeg?w=750&dpr=1.0",
+      "publishedAt": "2024-08-02 08:49:48",
+      "content": "{\"_id\":\"66ac9d95421e8aa4e90d27cf\",\"slug\":\"the-entire-village-will-be-given-rabies-vaccine-health-department-team-arrived-in-kanker-2024-08-02\",\"type\":\"story\",\"status\":\"publish\",\"title_hn\":\"Kanker: , \u2026 [+379 chars]",
+      "retrievedAt": "2024-08-03 19:05:24.683311",
+      "internal_id": "5106191f92b5219ec4cb16b723c7802d0c36d1722e60245f5aa24f39a26409b5",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11604,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Green Savers com Lusa",
+      "title": "DGS recomenda preven\u00e7\u00e3o e controlo de mosquitos que transmitem dengue e zika",
+      "description": "Autarquias, empreendimentos tur\u00edsticos e entidades do sector agr\u00edcola, industrial, entre outras, devem adotar medidas de preven\u00e7\u00e3o e controlo do mosquito que transmite o zika e o dengue, que j\u00e1 foi detetado em Portugal, recomenda a DGS.",
+      "url": "https://greensavers.sapo.pt/dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika/",
+      "urlToImage": "https://greensavers.sapo.pt/wp-content/uploads/2023/06/Mosquito-da-dengue-1024x555.jpg",
+      "publishedAt": "2024-08-02 08:00:39",
+      "content": "Autarquias, empreendimentos tur\u00edsticos e entidades do sector agr\u00edcola, industrial, entre outras, devem adotar medidas de preven\u00e7\u00e3o e controlo do mosquito que transmite o zika e o dengue, que j\u00e1 foi d\u2026 [+3536 chars]",
+      "retrievedAt": "2024-08-03 19:05:25.801670",
+      "internal_id": "88fc1d6c536b4cb1312e002cd0dc66c9b74bbab39e53010957880d6adb9ba725",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 11605,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "zos.",
+      "title": "Ansatz f\u00fcr neue Therapien: Schwachstelle des Malariaerregers entdeckt",
+      "description": "Die Erreger der Malaria und der Rinderseuche Theileriose sind auf bestimmte Enzyme ihrer Wirte angewiesen. Gie\u00dfener Forscher schlagen vor, dies f\u00fcr neue Therapien zu nutzen.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/giessener-forscher-haben-schwachstelle-des-malariaerregers-entdeckt-19886437.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/2712849187/1.9886436/facebook_teaser/gefaehrliche-schmarotzer.jpg",
+      "publishedAt": "2024-08-02 07:06:49",
+      "content": "Forscher der Liebig-Universit\u00e4t Gie\u00dfen haben zusammen mit internationalen Kollegen eine Schwachstelle entdeckt, die zwei gef\u00e4hrliche Parasiten gemeinsam haben. Der Malaria-Erreger Plasmodium falcipar\u2026 [+195 chars]",
+      "retrievedAt": "2024-08-03 19:05:26.426555",
+      "internal_id": "612b025a604b12f63d878018cf303f7380967aad110256c4710fd814531452ce",
+      "publishedAtLabel": "Aug 2"
+    },
     {
       "id": 11589,
       "query": [
@@ -24329,115 +24583,6 @@
       "content": "Surtos de tosse convulsa est\u00e3o se expandindo por pa\u00edses da Europa desde dezembro do ano passado. A tosse convulsa \u00e9 uma doen\u00e7a contagiosa causada pela bact\u00e9ria Bordetella pertussis, sendo mais perigo\u2026 [+1660 chars]",
       "retrievedAt": "2024-06-18 07:05:55.587098",
       "internal_id": "988626a53785c9f7ffb9ca7cde5b7ed7d6b6ea3f07016835a68e812b851c99b0",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10238,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "F\u00e1bio Andrighetto",
-      "title": "Surto de coqueluche alerta para import\u00e2ncia da vacina\u00e7\u00e3o",
-      "description": "A coqueluche, causada pela bact\u00e9ria Bordetella pertussis e popularmente conhecida como tosse comprida, \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria que afeta pessoas em",
-      "url": "https://catracalivre.com.br/saude-bem-estar/surto-de-coqueluche-alerta-para-importancia-da-vacinacao/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/04/vacina-todos-os-virus.jpg",
-      "publishedAt": "2024-06-16 17:35:53",
-      "content": "A coqueluche, causada pela bact\u00e9ria Bordetella pertussis e popularmente conhecida como tosse comprida, \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria que afeta pessoas em todo o mundo. Suas principais caracter\u00edsticas s\u2026 [+2434 chars]",
-      "retrievedAt": "2024-06-17 19:05:15.607136",
-      "internal_id": "6fa8324d7573031b2cbbfe4bc488016aa7cccd2a709c249424bc03142aa21674",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10240,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
-      "title": "\u0648\u06cc\u0631\u0648\u0633 \u0641\u0648\u0642 \u062d\u0627\u062f \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u062f\u0631 \u0634\u06cc\u0631 \u062e\u0627\u0645 \u06a9\u0627\u0647\u0634 \u06cc\u0627\u0641\u062a",
-      "description": "\u0628\u0631 \u0627\u0633\u0627\u0633 \u0622\u0632\u0645\u0627\u06cc\u0634\u06cc \u06a9\u0647 \u0646\u062a\u0627\u06cc\u062c \u0622\u0646 \u0628\u0647 \u062a\u0627\u0632\u06af\u06cc \u062f\u0631 \u0645\u062c\u0644\u0647 \u067e\u0632\u0634\u06a9\u06cc New England \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a\u060c \u0645\u0634\u062e\u0635 \u0634\u062f \u06a9\u0647 \u0633\u0637\u062d \u0648\u06cc\u0631\u0648\u0633 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N1 \u062f\u0631 \u0634\u06cc\u0631 \u062e\u0627\u0645\u060c \u0628\u0627 \u0639\u0645\u0644\u06cc\u0627\u062a \u062d\u0631\u0627\u0631\u062a\u06cc \u0628\u0647 \u0633\u0631\u0639\u062a \u06a9\u0627\u0647\u0634 \u0645\u06cc\u200c\u06cc\u0627\u0628\u062f.",
-      "url": "https://www.isna.ir/news/1403032718613/\u0648\u06cc\u0631\u0648\u0633-\u0641\u0648\u0642-\u062d\u0627\u062f-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-H5N1-\u062f\u0631-\u0634\u06cc\u0631-\u062e\u0627\u0645-\u06a9\u0627\u0647\u0634-\u06cc\u0627\u0641\u062a",
-      "urlToImage": "https://cdn.isna.ir/d/off/isfahan/2024/06/16/4/63069912.jpg?ts=1718538853770",
-      "publishedAt": "2024-06-16 12:28:45",
-      "content": "New England H5N1 . H5N1 . (. ) -- . . HPAI H5N1 . . . . NIAID HN (. ) ( ) . HPAI HN . . . ( ) H5N1 . . ( ) : H5N1 . New England . : #",
-      "retrievedAt": "2024-06-17 19:05:16.623672",
-      "internal_id": "f8a356926c6e12ee2fcada4c2e2e45124b031d711ee2b3df3f41e61be3c98ff3",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10243,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Briefly.co.za",
-      "author": "Zingisa Chirwa",
-      "title": "Mpox Cases Surge in South Africa: Health Department Urges Medication Compliance",
-      "description": "The Health Department has urged citizens on medication to stick to their regimen to reduce the risk of Mpox infection after the disease claimed a seventh victim.",
-      "url": "https://briefly.co.za/south-africa/189504-mpox-cases-surge-south-africa-health-department-urges-medication-compliance/",
-      "urlToImage": "https://netstorage-briefly.akamaized.net/images/8630d18d9a64985c.jpg?imwidth=1200",
-      "publishedAt": "2024-06-16 11:13:15",
-      "content": "The Health Department has advised those on chronic medication to stick to their regimen to reduce the risk of contracting MpoxThe department issued the warning after a man in Cape To\u2026 [+2625 chars]",
-      "retrievedAt": "2024-06-17 19:05:19.955086",
-      "internal_id": "d33ffe1426bbb240d759f06bd17c8d48b8f7cc46baeb5baba5396354bf8fdabd",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10242,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Anti-Malaria Drug May Help Treat Polycystic Ovary Syndrome: Study",
-      "description": "Researchers stumbled upon a potential breakthrough while studying fat cells in mice.",
-      "url": "https://www.ndtv.com/feature/anti-malaria-drug-may-help-treat-polycystic-ovary-syndrome-study-5901640",
-      "urlToImage": "https://c.ndtvimg.com/2024-02/0u5i71bo_pcos_625x300_19_February_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
-      "publishedAt": "2024-06-16 08:33:37",
-      "content": "PCOS disrupts hormone production, leading to irregular periods, infertility, and other symptoms An existing malaria drug, artemisinin, shows promise in treating Polycystic Ovary Syndrome (PCOS) symp\u2026 [+1850 chars]",
-      "retrievedAt": "2024-06-17 19:05:18.566430",
-      "internal_id": "97d1289c9eff27bd05d1d6b354237debfff7d5ca31a9d2259479c5b6b9ee1d1f",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10241,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Simone Cordeiro",
-      "title": "Como diferenciar sintomas da dengue e leptospirose?",
-      "description": "Sintomas semelhantes podem aparecer em ambas as doen\u00e7as, mas alguns ind\u00edcios podem ser determinantes para o diagn\u00f3stico correto. O post Como diferenciar sintomas da dengue e leptospirose? apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/06/16/medicina-e-saude/como-diferenciar-sintomas-da-dengue-e-leptospirose/",
-      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/06/Medica-examinando-paciente-scaled.jpg",
-      "publishedAt": "2024-06-16 08:20:00",
-      "content": "Em situa\u00e7\u00f5es de calamidade, como as chuvas que devastaram o Rio Grande do Sul, a coexist\u00eancia da dengue e da leptospirose pode acontecer. Dessa forma, uma pessoa pode apresentar sintomas de dengue e \u2026 [+2532 chars]",
-      "retrievedAt": "2024-06-17 19:05:17.453454",
-      "internal_id": "eea602e598efddbef22da04bc02ae911aad3f8ef317e05820e84019c6b97fbec",
-      "publishedAtLabel": "Jun 16"
-    },
-    {
-      "id": 10239,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
-      "title": "O que \u00e9 coqueluche? Entenda a doen\u00e7a que est\u00e1 em ascens\u00e3o no Brasil",
-      "description": "A coqueluche, tamb\u00e9m conhecida como tosse convulsiva, \u00e9 uma doen\u00e7a respirat\u00f3ria altamente ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/o-que-e-coqueluche-entenda-a-doenca-que-esta-em-ascensao-no-brasil,4fcecab433b672a21551a6b63be627fdnixk7hbn.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/14/gettyimages-1345955042-qhqmnzplxrhh.jpg",
-      "publishedAt": "2024-06-16 08:00:14",
-      "content": "A coqueluche, tamb\u00e9m conhecida como tosse convulsiva, \u00e9 uma doen\u00e7a respirat\u00f3ria altamente contagiosa causada pela bact\u00e9ria Bordetella pertussis. Apesar de ser preven\u00edvel por meio da vacina\u00e7\u00e3o, a coqu\u2026 [+2767 chars]",
-      "retrievedAt": "2024-06-17 19:05:15.634294",
-      "internal_id": "7fafafb2aba1a77d6df102a5ab6b58759f47aed4245a62e9f857735e7154e406",
       "publishedAtLabel": "Jun 16"
     }
   ]
