@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-08-04 07:06
-- **Most recent article:** 2024-08-03 03:44:40
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-08-04 19:06
+- **Most recent article:** 2024-08-03 15:00:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 100 | 52 | 95 | 62 | 63 | 48 | 420 |
-| h5n1 | 36 | 59 | 52 | 62 | 38 | 21 | 268 |
-| mpox | 46 | 21 | 26 | 17 | 16 | 24 | 150 |
-| malaria | 24 | 15 | 14 | 31 | 16 | 13 | 113 |
+| dengue | 92 | 52 | 95 | 62 | 63 | 51 | 415 |
+| h5n1 | 35 | 59 | 52 | 62 | 38 | 21 | 267 |
+| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 152 |
+| malaria | 24 | 15 | 14 | 31 | 16 | 15 | 115 |
 | measles | 8 | 9 | 12 | 19 | 22 | 7 | 77 |
 | zika | 17 | 20 | 12 | 6 | 10 | 12 | 77 |
 | chikungunya | 17 | 6 | 6 | 10 | 7 | 6 | 52 |
-| rabies | 8 | 4 | 2 | 17 | 8 | 10 | 49 |
-| hpai | 3 | 3 | 5 | 6 | 3 | 4 | 24 |
+| rabies | 8 | 4 | 2 | 17 | 8 | 12 | 51 |
+| hpai | 2 | 3 | 5 | 6 | 3 | 4 | 23 |
 | typhoid | 3 | 4 | 6 | 1 | 3 | 1 | 18 |
 | meningitis | 1 | 3 | 5 | 3 | 2 | 3 | 17 |
-| pertussis | 3 | 1 | 2 | 0 | 5 | 4 | 15 |
+| pertussis | 3 | 1 | 2 | 0 | 5 | 5 | 16 |
 | leptospirosis | 2 | 1 | 3 | 4 | 1 | 2 | 13 |
 | yersinia | 2 | 0 | 6 | 0 | 2 | 1 | 11 |
 
@@ -68,6 +68,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-31 (rabies)
 
+- [Kitten confirmed to have rabies in Roanoke County](https://roanoke.com/news/local/kitten-confirmed-to-have-rabies-in-roanoke-county/article_b6b3bd8e-51a7-11ef-a3c2-1711a632fd09.html) (Roanoke Times)
+
+- [Sterilising free-roaming dogs nationwide reduces public health risks](https://kuenselonline.com/sterilising-free-roaming-dogs-nationwide-reduces-public-health-risks/) (Kuensel, Buhutan's National Newspaper)
+
 - [Skunks to blame for boom in Minnesota rabies cases, animal health board says](https://www.cbsnews.com/minnesota/news/minnesota-rabies-cases-rise-skunks/) (CBS News)
 
 - [These Are the CDC’s New Rules for Flying With Your Dog](https://time.com/7007042/cdc-new-rules-flying-with-your-dog/) (Time)
@@ -90,6 +94,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-31 (pertussis)
 
+- [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
+
 - [‘Highly contagious’ whooping cough subject of summer surge across Ontario | Globalnews.ca](https://globalnews.ca/news/10653121/whooping-cough-pertussis-surge-ontario-2024/) (Global News)
 
 - [Number of new whooping cough cases stagnates in Czech Republic](https://www.thestar.com.my/news/world/2024/07/30/number-of-new-whooping-cough-cases-stagnates-in-czech-republic) (The Star Online)
@@ -99,6 +105,10 @@ Source: [News API](https://newsapi.org/)
 - [That’s a cunning way to defund education and kill a lot of children](https://freethoughtblogs.com/pharyngula/2024/07/28/thats-a-cunning-way-to-defund-education-and-kill-a-lot-of-children/) (Freethoughtblogs.com)
 
 ## 24-31 (mpox)
+
+- [Health Ministry Tracks Mpox Contacts Following Truck Driver's Return to Kenya](https://www.kenyans.co.ke/news/103376-health-ministry-tracks-mpox-contacts-following-truck-drivers-return-kenya) (Kenyans.co.ke)
+
+- [AU allocates $10.4m to Africa CDC for Mpox response](https://punchng.com/au-allocates-10-4m-to-africa-cdc-for-mpox-response/) (The Punch)
 
 - [Kenya on alert after case of mpox confirmed](https://www.voanews.com/a/kenya-on-alert-after-case-of-mpox-confirmed/7727576.html) (VOA News)
 
@@ -173,6 +183,10 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1135: Resistance is not always futile](https://www.microbe.tv/twiv/twiv-1135/) (Microbe.tv)
 
 ## 24-31 (malaria)
+
+- [I have almost departed](https://whyevolutionistrue.com/2024/08/03/i-have-almost-departed/) (Whyevolutionistrue.com)
+
+- [With over 2000 cases, malaria grips villages in Bijapur district now](https://timesofindia.indiatimes.com/city/raipur/with-over-2000-cases-malaria-grips-villages-in-bijapur-district-now/articleshow/112245586.cms) (The Times of India)
 
 - [I caught malaria in a medical trial to fund my Edinburgh Fringe show](https://www.bbc.com/news/articles/c0jqxe44g7go) (BBC News)
 
@@ -261,6 +275,12 @@ Source: [News API](https://newsapi.org/)
 - [To help prevent another pandemic, we must protect US farmworkers from avian flu](https://www.bostonglobe.com/2024/07/29/opinion/avian-flu-birds-cows-farmworkers/) (The Boston Globe)
 
 ## 24-31 (dengue)
+
+- [Lulu Santos é internado em clínica no Rio e cancela show em festival](https://www.terra.com.br/diversao/musica/lulu-santos-e-internado-em-clinica-no-rio-e-cancela-show-em-festival,4e0f085d5788e4042102453fb157cb142w8q82k6.html) (Terra.com.br)
+
+- [Dengue cases drop to 2,609 last week, four deaths reported](https://www.thestar.com.my/news/nation/2024/08/03/dengue-cases-drop-to-2609-last-week-four-deaths-reported) (The Star Online)
+
+- [Drones estão liberando mosquitos pelo planeta — e isso é ótimo!](https://olhardigital.com.br/2024/08/03/medicina-e-saude/drones-estao-liberando-mosquitos-pelo-planeta-e-isso-e-otimo/) (Olhardigital.com.br)
 
 - [Albopictus, mosquito that caused dengue surges in 1950s, back in Kolkata](https://timesofindia.indiatimes.com/city/kolkata/albopictus-mosquito-that-caused-dengue-surges-in-1950s-back-in-kolkata/articleshow/112238126.cms) (The Times of India)
 
@@ -2488,8 +2508,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Research: Avian influenza (bird flu) in Australia](https://www.gov.uk/government/publications/avian-influenza-bird-flu-in-australia) (Www.gov.uk)
 
-- [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
-
 ## 24-26 (h5n1)
 
 - [Nächste Pandemie? Corona dagegen ein „Spaziergang“](https://www.krone.at/3438425) (Krone.at)
@@ -2561,8 +2579,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: USDA secretary urges farmers to take protective measures](https://www.statnews.com/2024/06/24/bird-flu-snapshot-usda-secretary/) (STAT)
 
 - [Persistence of Influenza H5N1 and H1N1 Viruses in Unpasteurized Milk on Milking Unit Surfaces](https://wwwnc.cdc.gov/eid/article/30/8/24-0775_article) (Cdc.gov)
-
-- [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
 
@@ -2749,22 +2765,6 @@ Source: [News API](https://newsapi.org/)
 - [Governo anuncia “estratégia temporária” para vacinas da dengue próximas de vencer](https://olhardigital.com.br/2024/06/23/medicina-e-saude/governo-anuncia-estrategia-temporaria-para-vacinas-da-dengue-proximas-de-vencer/) (Olhardigital.com.br)
 
 - [47 suspected dengue cases in Canacona, officials fear more](https://timesofindia.indiatimes.com/city/goa/47-suspected-dengue-cases-in-canacona-officials-fear-more/articleshow/111212769.cms) (The Times of India)
-
-- [Madrid, en alerta por dengue tras registrar el doble de casos que en 2023](https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html) (Www.abc.es)
-
-- [El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de año, el doble respecto a 2023](https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html) (El Mundo)
-
-- [DF manterá faixa etária de vacinação contra dengue. Veja público-alvo](https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo) (Metropoles.com)
-
-- [Vigilance key to successful dengue handling in children: Ministry](https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry) (Antaranews.com)
-
-- [El dengue aumenta en la Comunidad: 76 casos en lo que va de año, el doble respecto a 2023](https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html) (Europapress.es)
-
-- [Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para público de 4 a 59 anos](https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html) (Terra.com.br)
-
-- [Florida dept of health confirms local human case of dengue fever](https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever) (Newsbreak.com)
-
-- [Auch Urlaubsorte betroffen: Italien kämpft mit doppelter Dengue-Belastung](https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html) (N-tv.de)
 
 ## 24-26 (chikungunya)
 
