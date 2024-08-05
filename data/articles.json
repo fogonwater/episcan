@@ -1,8 +1,152 @@
 {
-  "last_updated": "2024-08-04 19:06",
-  "count_articles_total": 1211,
-  "count_articles_new": 10,
+  "last_updated": "2024-08-05 07:06",
+  "count_articles_total": 1230,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 11634,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "As mpox cases surge in Africa, few treatments and vaccines available",
+      "description": "BANGUI, Central African Republic \u2014 African health officials said mpox cases have spiked by 160% so far this year, warning the risk of further spread is high given the lack of effective treatments or vaccines on the continent. The Africa Centers for Disease \u2026",
+      "url": "https://www.voanews.com/a/as-mpox-cases-surge-in-africa-few-treatments-and-vaccines-available-/7727013.html",
+      "urlToImage": "https://gdb.voanews.com/ED90A05E-47E3-4FBA-8659-6AECDF8561D8.jpg",
+      "publishedAt": "2024-08-04 06:50:00",
+      "content": "BANGUI, Central African Republic African health officials said mpox cases have spiked by 160% so far this year, warning the risk of further spread is high given the lack of effective treatments or v\u2026 [+3356 chars]",
+      "retrievedAt": "2024-08-05 07:06:33.643758",
+      "internal_id": "ff298bf41a9ebf4372868e8889e36e9e374d0b31f18dadb0c3b8b6034574a5cd",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11633,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Hola",
+      "author": "M\u00f3nica Garz\u00f3n Le\u00f3n",
+      "title": "As\u00ed es la vida de Patricia P\u00e9rez y Luis Canut despu\u00e9s de la enfermedad que les cambi\u00f3 la vida para siempre",
+      "description": "Al marido de la presentadora le diagnosticaban una meningitis criptoc\u00f3cica hace un a\u00f1o y medio y a\u00fan no ha recibido el alta",
+      "url": "https://www.hola.com/actualidad/20240804708918/la-vida-de-patricia-perez-y-luis-canut-despues-de-la-enfermedad-que-les-cambio-la-vida-para-siempre/",
+      "urlToImage": "https://www.hola.com/horizon/landscape/6b315b755323-foto-1-gtres-dlu379143012.jpg?im=Resize=(1200)",
+      "publishedAt": "2024-08-04 06:42:01",
+      "content": "Al marido de Patricia P\u00e9rez, Luis Canut, le diagnosticaron una meningitis criptoc\u00f3cica (infecci\u00f3n en el cerebro por una levadura) en marzo del a\u00f1o 2023, que le llev\u00f3 a estar ingresado durante cuatro \u2026 [+1359 chars]",
+      "retrievedAt": "2024-08-05 07:06:31.183170",
+      "internal_id": "37dceabd1474eb1c87bc2ec5af55b083df7c33367ba250b40b66bb92b084e4f5",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11629,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "How do I know if my fever is flu, COVID, or dengue?",
+      "description": "Monsoon often brings an increase in illnesses like flu, COVID, and dengue. Although these diseases share symptoms like fever, they also have distinct signs. Experts advise seeking early medical consultation, considering travel history, and possible exposure t\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/how-do-i-know-if-my-fever-is-flu-covid-or-dengue/articleshow/112259742.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112259702,width-1070,height-580,imgsize-601852,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-04 05:51:57",
+      "content": "Tips to keep your liver healthy during the monsoon",
+      "retrievedAt": "2024-08-05 07:06:30.885574",
+      "internal_id": "c7ba6fe8ac7813dea80dcc18b24702b7de2a28b560eda13fc358047f63186092",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11631,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1137: Dengue is not BANAL",
+      "description": "TWiV discusses a twice-yearly antiviral for prevention of AIDS, the WHO pandemic plan, West Nile resurgence in the US, the BANAL SARS-CoV-2 related viruses reproduce in human cells but do not transmit among animal hosts, and an amino acid change in dengue vir\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1137/",
+      "urlToImage": null,
+      "publishedAt": "2024-08-04 04:00:00",
+      "content": "TWiV discusses a twice-yearly antiviral for prevention of AIDS, the WHO pandemic plan, West Nile resurgence in the US, the BANAL SARS-CoV-2 related viruses reproduce in human cells but do not transmi\u2026 [+763 chars]",
+      "retrievedAt": "2024-08-05 07:06:30.934953",
+      "internal_id": "2ec90a9e6ba98f3458da1969564e03bbfdb45d4521e74f17d4ef65e8b0dd9767",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11626,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Adam Duxter",
+      "title": "As Measles cases climb, experts urge shots before schools return",
+      "description": "Measles cases continue to climb in Minnesota. Health officials are urging parents to get their kids vaccinated before returning to the classroom this fall.",
+      "url": "https://www.cbsnews.com/minnesota/news/as-measles-cases-climb-experts-urge-shots-before-schools-return/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/08/03/3a8105d4-4874-4fb0-9b6a-9f5fe4ccdcf3/thumbnail/1200x630/5ca4b22c2b2b66ba25fd5ccd39c399f9/raw-sat-measles-vaccine-broll-duxter-schwab-00-00-4329.jpg?v=d7dedd293aad546f97f947149642d369",
+      "publishedAt": "2024-08-03 23:00:51",
+      "content": "MINNEAPOLIS, Minn. \u2014 As confirmed measles cases continue to climb in Minnesota, public health officials are urging for children to get vaccinated before returning to the classroom this fall. As of\u2026 [+1724 chars]",
+      "retrievedAt": "2024-08-05 07:06:29.297481",
+      "internal_id": "6625ff4e722f3e04ebfaa598ab0b675b2ee810e7adee5c5a07e5c3612cc5ccc6",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 11627,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Teodoro Renter\u00eda Villa",
+      "title": "Morelos reporta 13 muertes por dengue: \u00bfCu\u00e1les son las precauciones para evitar contagios?",
+      "description": "Estas son las recomendaciones para evitar contagios de dengue.",
+      "url": "https://www.elfinanciero.com.mx/estados/2024/08/03/morelos-reporta-13-muertes-por-dengue-cuales-son-las-precauciones-para-evitar-contagios/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/kfn-Skph6O_iNZBZ92P4XjvfoSo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OMFBOO5MFBDJJO7S5SQ3BZ2FMQ.jpg",
+      "publishedAt": "2024-08-03 21:52:39",
+      "content": "La Secretar\u00eda de Salud del estado de Morelos report\u00f3 la muerte de 13 personas por dengue; se tienen dos mil 228 casos acumulados, de los cuales 890 est\u00e1n clasificados como no complicados y mil 338 co\u2026 [+1923 chars]",
+      "retrievedAt": "2024-08-05 07:06:30.855783",
+      "internal_id": "486d823a5a59bf464966c3dac1d4e7af0749b5e4323eeb82c4292bbf6ace27d1",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 11630,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Maharashtra: Dengue cases in Jan-July double of 7 months of 2023",
+      "description": "MUMBAI: Cases of mosquito-borne dengue fever peak around Oct every year, but public health officials are already worried about it because of the sudde.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-dengue-cases-in-jan-july-double-of-7-months-of-2023/articleshow/112253268.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112253284,width-1070,height-580,imgsize-954790,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-03 19:44:15",
+      "content": "8 flowers and plants that will attract birds to your garden",
+      "retrievedAt": "2024-08-05 07:06:30.914119",
+      "internal_id": "c4df27438d572b3e96a1c01967f89c2b4845561ac8f3fe377789fff65ee64640",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 11628,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times News Network",
+      "title": "Highest no. of dengue cases reported from Mapusa since Jan",
+      "description": "Panaji: The highest dengue cases this year have been reported from Mapusa.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/highest-no-of-dengue-cases-reported-from-mapusa-since-jan/articleshow/112253248.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-03 19:41:07",
+      "content": "8 flowers and plants that will attract birds to your garden",
+      "retrievedAt": "2024-08-05 07:06:30.865320",
+      "internal_id": "9219f4584b938b3268be1b99ef3fda387804e5eb45c161438af92babb4305b33",
+      "publishedAtLabel": "Aug 3"
+    },
     {
       "id": 11617,
       "query": [
@@ -91,6 +235,24 @@
       "content": "Lulu Santos, de 71 anos, foi internado no hospital S\u00e3o Vicente, no Rio de Janeiro, na tarde de sexta-feira, 2. De acordo com um comunicado publicado nas redes sociais do cantor, ele est\u00e1 com um quadr\u2026 [+1186 chars]",
       "retrievedAt": "2024-08-04 19:05:58.949228",
       "internal_id": "3cbca0ec4af16e6ddbc14ae402160d250802969dae6eab6a5c0cf9d253ed411a",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 11632,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Galkot Municipality alarmed over rising dengue, scrub typhus cases",
+      "description": "GALKOT: Twenty-six cases of dengue infection have been confirmed in Baglung district since July 16 this year, with 24 cases reported in Galkot municipality alone. Public Health Inspector at the District Health Office, Dev Prakash Ghimire, stated that Galkot i\u2026",
+      "url": "https://english.khabarhub.com/2024/03/368539/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-08-03 11:25:53",
+      "content": "GALKOT: Twenty-six cases of dengue infection have been confirmed in Baglung district since July 16 this year, with 24 cases reported in Galkot municipality alone. Public Health Inspector at the Dist\u2026 [+889 chars]",
+      "retrievedAt": "2024-08-05 07:06:30.944203",
+      "internal_id": "f9f2f3f673c092deb69d833407e766a503965225d5f8082b286719eea71de5f5",
       "publishedAtLabel": "Aug 3"
     },
     {
@@ -21892,6 +22054,186 @@
       "content": "10 beautiful fishes to keep in home aquariums for beginners",
       "retrievedAt": "2024-06-25 07:05:46.009156",
       "internal_id": "cf7eb9252f3e7f2a71d9cbbcd50f2add209aeccc78def5a53e63e09918c4c646",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10412,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Madrid, en alerta por dengue tras registrar el doble de casos que en 2023",
+      "description": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid ha duplicado en lo que llevamos de a\u00f1o los casos registrado\u2026",
+      "url": "https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2024/06/23/combo-mosquitotigre-U18720438030ZoL-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-06-23 17:48:28",
+      "content": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid\u2026 [+3708 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.292033",
+      "internal_id": "27eb8ba316639c8071ede24a550604bbbd2540ba2a2585772c56a18c5fb51433",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10409,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Europa Press",
+      "title": "El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
+      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los...",
+      "url": "https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/23e291a4bf337d48bf4a4d4223dfac48/crop/5x0/700x463/f/webp/assets/multimedia/imagenes/2024/06/23/17191631760710.jpg",
+      "publishedAt": "2024-06-23 17:26:45",
+      "content": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo perio\u2026 [+3892 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.238678",
+      "internal_id": "8db81fb0a134209d91cad20a2d9d397f9c8f8f987bee4bb69ffa34ff1ee58b10",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10408,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nath\u00e1lia Cardim",
+      "title": "DF manter\u00e1 faixa et\u00e1ria de vacina\u00e7\u00e3o contra dengue. Veja p\u00fablico-alvo",
+      "description": "Minist\u00e9rio da Sa\u00fade ampliou p\u00fablico-alvo em estados e munic\u00edpios com doses prestes a vencer. No DF, por\u00e9m, imunizantes s\u00f3 expiram em 2025",
+      "url": "https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/11141151/vacinacao-dengue-cruzeiro-criancas-10-11-anos-2.jpeg",
+      "publishedAt": "2024-06-23 17:11:57",
+      "content": "A Secretaria de Sa\u00fade do Distrito Federal (SES-DF) informou neste domingo (23/6) que n\u00e3o haver\u00e1 mudan\u00e7a na estrat\u00e9gia adotada pela pasta com rela\u00e7\u00e3o ao p\u00fablico-alvo da vacina\u00e7\u00e3o contra a dengue na ca\u2026 [+5109 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.211358",
+      "internal_id": "320658297cf021b4f5b323bfff0db2b5023606f8b81cb2272fe0a7d2e9ab8514",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10414,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Livia Kristianti, Raka Adji",
+      "title": "Vigilance key to successful dengue handling in children: Ministry",
+      "description": "Parents&#39; vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control ...",
+      "url": "https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/06/23/IMG-20240623-WA0101.jpg",
+      "publishedAt": "2024-06-23 15:21:55",
+      "content": "Jakarta (ANTARA) - Parents' vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control at the Ministry of Health\u2026 [+1870 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.327407",
+      "internal_id": "2496b9087671152e17309e85fe29b32971052ede992151afd8b149dbf10ca946",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10407,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Resilience",
+      "author": "Kurt Cobb",
+      "title": "What the H5N1 scare tells us about ourselves and our society",
+      "description": "I don't know whether there is an H5N1 \"bird flu\" pandemic in our future. We humans think we can build moats around our modern way of life that protect us from the natural world. All the while we have actually been building the equivalent of superhighways into\u2026",
+      "url": "https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/",
+      "urlToImage": "https://www.resilience.org/wp-content/uploads/2024/06/H5N1_Bird_Flu.jpg",
+      "publishedAt": "2024-06-23 15:03:03",
+      "content": "I don\u2019t know whether there is an H5N1 \u201cbird flu\u201d pandemic in our future. H5N1 seems to be very dangerous to humans. Half of the 900 people known to have contracted it worldwide since 2003 have died. \u2026 [+5039 chars]",
+      "retrievedAt": "2024-06-24 19:05:44.883629",
+      "internal_id": "62238520b3c315e4084be41b5b077c7cd990335ee2c4bd8c1fb74aeb434e6e9e",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10411,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "El dengue aumenta en la Comunidad: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
+      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo periodo del a\u00f1o 2023, seg\u00fan los \u00faltimos datos del \u00c1rea de Vigilan\u2026",
+      "url": "https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240623132950_1200.jpg",
+      "publishedAt": "2024-06-23 11:29:50",
+      "content": "MADRID, 23 Jun. (EUROPA PRESS) - Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplic\u2026 [+5875 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.283012",
+      "internal_id": "b56c770f8270b84a00b07c240e8722daf132d7a3d4b10e71900a9cdbb5f56902",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10410,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para p\u00fablico de 4 a 59 anos",
+      "description": "Minist\u00e9rio da Sa\u00fade diz que, preferencialmente, as doses devem ser remanejadas para cidades n\u00e3o contempladas, mas, em caso de necessidade, a faixa et\u00e1ria atendida pode ser ampliada",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/23/110087725-ycmfxt5i7rdo5hsujaog5fblou.png",
+      "publishedAt": "2024-06-23 10:24:33",
+      "content": "O Minist\u00e9rio da Sa\u00fade informou que as doses da vacina da dengue com o prazo pr\u00f3ximo ao vencimento entre junho e julho devem ser remanejadas para cidades ou usadas para ampliar a faixa et\u00e1ria atendida\u2026 [+1596 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.277233",
+      "internal_id": "bc310198810c439c113360287caf4bc652c190f5b4ef0ac3f27ad4221f1dba31",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10413,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Ginny Reese",
+      "title": "Florida dept of health confirms local human case of dengue fever",
+      "description": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever.",
+      "url": "https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever",
+      "urlToImage": "https://img.particlenews.com/img/id/3RZR15_0u0aR5p700?type=thumbnail_1600x1200",
+      "publishedAt": "2024-06-23 10:02:31",
+      "content": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever. DOH-Hillsborough and Hillsborough County Mosquito Control ar\u2026 [+1307 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.311734",
+      "internal_id": "2699b7e0152fddd6e1b132528b2520bd5dc07d5aa79c7c0f2e2d271f9a14fbf3",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10406,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Jesse Hyland",
+      "title": "Bird flu found at second poultry farm in Hawkesbury area \u2014 just kilometres away from site of initial outbreak",
+      "description": "An outbreak of bird flu has been detected on a second farm in Sydney's north-west, with more than 86,000 chickens to be culled.",
+      "url": "https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d5d6a00e59b4a6fcc93dc7a56632bb8b?impolicy=wcms_watermark_news&cropH=913&cropW=1623&xPos=133&yPos=167&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-06-23 07:52:57",
+      "content": "In short: A second farm in the Hawkesbury region has been confirmed to have the HPAI H7N8 strain of avian influenza.The chicken meat farm is within the restricted biosecurity zone se\u2026 [+3610 chars]",
+      "retrievedAt": "2024-06-24 19:05:44.432602",
+      "internal_id": "4e996e79db6da56a5397a593b33cf52eaed5958e91ce81243db7ca33a1bb1518",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Auch Urlaubsorte betroffen: Italien k\u00e4mpft mit doppelter Dengue-Belastung",
+      "description": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die F\u00e4lle, die durch Tigerm\u00fccken in Italien verursacht werden. \u2026",
+      "url": "https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25029658/8121325893-cImg_16_9-w1200/220432705.jpg",
+      "publishedAt": "2024-06-23 07:06:44",
+      "content": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die\u2026 [+5656 chars]",
+      "retrievedAt": "2024-06-24 07:07:00.243495",
+      "internal_id": "df75e123d194d7a022ad7278ab605fb63631805af05d41b3b6827e05b28ec592",
       "publishedAtLabel": "Jun 23"
     }
   ]

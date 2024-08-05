@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-08-04 19:06
-- **Most recent article:** 2024-08-03 15:00:00
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-08-05 07:06
+- **Most recent article:** 2024-08-04 06:50:00
 
 ---
 
@@ -10,27 +10,41 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 92 | 52 | 95 | 62 | 63 | 51 | 415 |
-| h5n1 | 35 | 59 | 52 | 62 | 38 | 21 | 267 |
-| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 152 |
-| malaria | 24 | 15 | 14 | 31 | 16 | 15 | 115 |
-| measles | 8 | 9 | 12 | 19 | 22 | 7 | 77 |
-| zika | 17 | 20 | 12 | 6 | 10 | 12 | 77 |
-| chikungunya | 17 | 6 | 6 | 10 | 7 | 6 | 52 |
-| rabies | 8 | 4 | 2 | 17 | 8 | 12 | 51 |
-| hpai | 2 | 3 | 5 | 6 | 3 | 4 | 23 |
-| typhoid | 3 | 4 | 6 | 1 | 3 | 1 | 18 |
-| meningitis | 1 | 3 | 5 | 3 | 2 | 3 | 17 |
-| pertussis | 3 | 1 | 2 | 0 | 5 | 5 | 16 |
-| leptospirosis | 2 | 1 | 3 | 4 | 1 | 2 | 13 |
-| yersinia | 2 | 0 | 6 | 0 | 2 | 1 | 11 |
+| Disease | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 100 | 52 | 95 | 62 | 63 | 55 | 2 | 429 |
+| h5n1 | 36 | 59 | 52 | 62 | 38 | 21 | 0 | 268 |
+| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 1 | 153 |
+| malaria | 24 | 15 | 14 | 31 | 16 | 15 | 0 | 115 |
+| measles | 8 | 9 | 12 | 19 | 22 | 8 | 0 | 78 |
+| zika | 17 | 20 | 12 | 6 | 10 | 12 | 0 | 77 |
+| chikungunya | 17 | 6 | 6 | 10 | 7 | 6 | 0 | 52 |
+| rabies | 8 | 4 | 2 | 17 | 8 | 12 | 0 | 51 |
+| hpai | 3 | 3 | 5 | 6 | 3 | 4 | 0 | 24 |
+| meningitis | 1 | 3 | 5 | 3 | 2 | 3 | 1 | 18 |
+| typhoid | 3 | 4 | 6 | 1 | 3 | 1 | 0 | 18 |
+| pertussis | 3 | 1 | 2 | 0 | 5 | 5 | 0 | 16 |
+| leptospirosis | 2 | 1 | 3 | 4 | 1 | 2 | 0 | 13 |
+| yersinia | 2 | 0 | 6 | 0 | 2 | 1 | 0 | 11 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-32 (mpox)
+
+- [As mpox cases surge in Africa, few treatments and vaccines available](https://www.voanews.com/a/as-mpox-cases-surge-in-africa-few-treatments-and-vaccines-available-/7727013.html) (VOA News)
+
+## 24-32 (meningitis)
+
+- [Así es la vida de Patricia Pérez y Luis Canut después de la enfermedad que les cambió la vida para siempre](https://www.hola.com/actualidad/20240804708918/la-vida-de-patricia-perez-y-luis-canut-despues-de-la-enfermedad-que-les-cambio-la-vida-para-siempre/) (Hola)
+
+## 24-32 (dengue)
+
+- [How do I know if my fever is flu, COVID, or dengue?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/how-do-i-know-if-my-fever-is-flu-covid-or-dengue/articleshow/112259742.cms) (The Times of India)
+
+- [TWiV 1137: Dengue is not BANAL](https://www.microbe.tv/twiv/twiv-1137/) (Microbe.tv)
 
 ## 24-31 (zika)
 
@@ -168,6 +182,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-31 (measles)
 
+- [As Measles cases climb, experts urge shots before schools return](https://www.cbsnews.com/minnesota/news/as-measles-cases-climb-experts-urge-shots-before-schools-return/) (CBS News)
+
 - [Measles 2024: ‘Merica, are you okay?](https://sciencebasedmedicine.org/measles-2024-merica-are-you-okay/) (Sciencebasedmedicine.org)
 
 - [Measles cases rise to 81 so far this year with four outbreaks in past five weeks](https://www.independent.ie/irish-news/measles-cases-rise-to-81-so-far-this-year-with-four-outbreaks-in-past-five-weeks/a918013937.html) (Independent.ie)
@@ -276,7 +292,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-31 (dengue)
 
+- [Morelos reporta 13 muertes por dengue: ¿Cuáles son las precauciones para evitar contagios?](https://www.elfinanciero.com.mx/estados/2024/08/03/morelos-reporta-13-muertes-por-dengue-cuales-son-las-precauciones-para-evitar-contagios/) (El Financiero)
+
+- [Maharashtra: Dengue cases in Jan-July double of 7 months of 2023](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-dengue-cases-in-jan-july-double-of-7-months-of-2023/articleshow/112253268.cms) (The Times of India)
+
+- [Highest no. of dengue cases reported from Mapusa since Jan](https://timesofindia.indiatimes.com/city/goa/highest-no-of-dengue-cases-reported-from-mapusa-since-jan/articleshow/112253248.cms) (The Times of India)
+
 - [Lulu Santos é internado em clínica no Rio e cancela show em festival](https://www.terra.com.br/diversao/musica/lulu-santos-e-internado-em-clinica-no-rio-e-cancela-show-em-festival,4e0f085d5788e4042102453fb157cb142w8q82k6.html) (Terra.com.br)
+
+- [Galkot Municipality alarmed over rising dengue, scrub typhus cases](https://english.khabarhub.com/2024/03/368539/) (Khabarhub.com)
 
 - [Dengue cases drop to 2,609 last week, four deaths reported](https://www.thestar.com.my/news/nation/2024/08/03/dengue-cases-drop-to-2609-last-week-four-deaths-reported) (The Star Online)
 
@@ -2508,6 +2532,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Research: Avian influenza (bird flu) in Australia](https://www.gov.uk/government/publications/avian-influenza-bird-flu-in-australia) (Www.gov.uk)
 
+- [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
+
 ## 24-26 (h5n1)
 
 - [Nächste Pandemie? Corona dagegen ein „Spaziergang“](https://www.krone.at/3438425) (Krone.at)
@@ -2579,6 +2605,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: USDA secretary urges farmers to take protective measures](https://www.statnews.com/2024/06/24/bird-flu-snapshot-usda-secretary/) (STAT)
 
 - [Persistence of Influenza H5N1 and H1N1 Viruses in Unpasteurized Milk on Milking Unit Surfaces](https://wwwnc.cdc.gov/eid/article/30/8/24-0775_article) (Cdc.gov)
+
+- [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
 
@@ -2765,6 +2793,22 @@ Source: [News API](https://newsapi.org/)
 - [Governo anuncia “estratégia temporária” para vacinas da dengue próximas de vencer](https://olhardigital.com.br/2024/06/23/medicina-e-saude/governo-anuncia-estrategia-temporaria-para-vacinas-da-dengue-proximas-de-vencer/) (Olhardigital.com.br)
 
 - [47 suspected dengue cases in Canacona, officials fear more](https://timesofindia.indiatimes.com/city/goa/47-suspected-dengue-cases-in-canacona-officials-fear-more/articleshow/111212769.cms) (The Times of India)
+
+- [Madrid, en alerta por dengue tras registrar el doble de casos que en 2023](https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html) (Www.abc.es)
+
+- [El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de año, el doble respecto a 2023](https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html) (El Mundo)
+
+- [DF manterá faixa etária de vacinação contra dengue. Veja público-alvo](https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo) (Metropoles.com)
+
+- [Vigilance key to successful dengue handling in children: Ministry](https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry) (Antaranews.com)
+
+- [El dengue aumenta en la Comunidad: 76 casos en lo que va de año, el doble respecto a 2023](https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html) (Europapress.es)
+
+- [Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para público de 4 a 59 anos](https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html) (Terra.com.br)
+
+- [Florida dept of health confirms local human case of dengue fever](https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever) (Newsbreak.com)
+
+- [Auch Urlaubsorte betroffen: Italien kämpft mit doppelter Dengue-Belastung](https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html) (N-tv.de)
 
 ## 24-26 (chikungunya)
 
