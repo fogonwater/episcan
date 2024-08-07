@@ -1,8 +1,116 @@
 {
-  "last_updated": "2024-08-06 19:05",
-  "count_articles_total": 1255,
-  "count_articles_new": 18,
+  "last_updated": "2024-08-07 07:06",
+  "count_articles_total": 1271,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 11671,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Cocirculation of Genetically Distinct Highly Pathogenic Avian Influenza H5N5 and H5N1 Viruses in Crows, Hokkaido, Japan",
+      "description": "Avian Influenza H5N5 and H5N1 Viruses, Japan",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/9/24-0356_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-08-06 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.H5 highly pathogenic avian\u2026 [+10025 chars]",
+      "retrievedAt": "2024-08-07 07:06:07.123445",
+      "internal_id": "c98130146ea2d08e252e569c94a0f06dc36269d43a13f58cd477e98162ea83e0",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11674,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Mpox Epidemiology and Risk Factors, Nigeria, 2022",
+      "description": "Mpox Epidemiology and Risk Factors, Nigeria, 2022",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/9/24-0135_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-08-06 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Human mpox is a zoonotic d\u2026 [+22254 chars]",
+      "retrievedAt": "2024-08-07 07:06:10.301364",
+      "internal_id": "cbe18ee036ebee78a08d05080606b30badf8eebfe2b67bdc5fb74e6f98fffee0",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11670,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WXYZ",
+      "author": "Natalia Escalante",
+      "title": "Bat tests positive for rabies in Livingston County, health officials say",
+      "description": "The bat was found in Brighton and is the first rabies-positive animal detected in the county this year, the Livingston County Health Department said.",
+      "url": "https://www.wxyz.com/news/bat-tests-positive-for-rabies-in-livingston-county-health-officials-say",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/72a04c5/2147483647/strip/true/crop/2800x1470+0+59/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd6%2F40%2F9340307349fe9572517018866c8d%2Fbats.png",
+      "publishedAt": "2024-08-05 22:17:25",
+      "content": "HOWELL, Mich. (WXYZ) A bat tested positive for rabies in Livingston County, health officials said on Monday. The bat was found in Brighton and is the first rabies-positive animal detected in the cou\u2026 [+968 chars]",
+      "retrievedAt": "2024-08-07 07:06:05.889748",
+      "internal_id": "cd28c96e9f92f4c1d7a67ffdafc77fd322c48d4a68f99026ce9044f46e6661db",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 11675,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "Marlerblog.com",
+      "author": "Bill Marler",
+      "title": "What you need to know About Shigella during an Outbreak",
+      "description": "Shigellosis, also known as bacillary dysentery, is the infectious disease caused by the Shigella bacteria. Most who are infected with Shigella develop diarrhea, fever, and stomach cramps starting a day or two after exposure. The diarrhea is often bloody. Shig\u2026",
+      "url": "https://www.marlerblog.com/case-news/what-you-need-to-know-about-shigella-during-an-outbreak/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/061/199/048/w0gWbdEPaYa8ym3kQrVklOA5j/1786bbed728897c393dd6fe345531a44e4d68bde.png",
+      "publishedAt": "2024-08-05 20:36:05",
+      "content": "Shigellosis, also known as bacillary dysentery, is the infectious disease caused by the Shigella bacteria. Most who are infected with Shigella develop diarrhea, fever, and stomach cramps starting a d\u2026 [+5071 chars]",
+      "retrievedAt": "2024-08-07 07:06:11.398923",
+      "internal_id": "d3a9050ceb135eaec8736e9bff317e706b28967d7e9e978e642ced3ab534a787",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 11672,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Dengue: el Gobierno compr\u00f3 vacunas para evitar una nueva epidemia de la enfermedad",
+      "description": "La operaci\u00f3n se realiz\u00f3 a trav\u00e9s del laboratorio Takeda, que produce las dosis; la campa\u00f1a de inmunizaci\u00f3n ser\u00e1 para la poblaci\u00f3n de entre 15 y 39 a\u00f1os de las provincias con mayor amenaza de brotes",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-el-gobierno-compro-vacunas-para-evitar-una-nueva-epidemia-de-la-enfermedad-nid05082024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/vacuna-qdenga-contra-el-dengue-del-laboratorio-XKUXVASGHJEXTEWO2RM2D4RQDI.jpeg?auth=9738955d199269a3203d02ed1defa17d0944323b5cea0c314a74ede3059ed500&width=768&quality=70&smart=false",
+      "publishedAt": "2024-08-05 19:33:43",
+      "content": "El Gobierno formaliz\u00f3 la adquisici\u00f3n de dosis de la vacuna contra el dengue destinadas al plan acordado con las provincias para evitar que se repita una nueva epidemia este verano. Desde el Ministeri\u2026 [+1901 chars]",
+      "retrievedAt": "2024-08-07 07:06:07.768012",
+      "internal_id": "3cca8a45d1bcaa1438eab15fa7f425cdbbab6f3aff6b4b6ab534b972a053e82c",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 11673,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "CDC, WHO mull stronger mpox warnings as deadlier strain continues to spread",
+      "description": "A deadlier form of mpox has spread beyond the borders of the Democratic Republic of Congo in Africa and the CDC is poised to warn to doctors in the U.S.",
+      "url": "https://www.nbcnews.com/health/health-news/mpox-strain-spreads-cdc-who-stronger-warnings-rcna165155",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240805-mpox-vl-1139p-c6dfb5.jpg",
+      "publishedAt": "2024-08-05 19:29:36",
+      "content": "Now that a deadlier form of mpox has spread beyond the borders of the Democratic Republic of Congo in Africa, the Centers for Disease Control and Prevention is poised to warn doctors in the United St\u2026 [+2841 chars]",
+      "retrievedAt": "2024-08-07 07:06:10.272017",
+      "internal_id": "3912d9487e67e7bc3fa0ff90179c2979f52408ef10bb46adb7b2b7e587358813",
+      "publishedAtLabel": "Aug 5"
+    },
     {
       "id": 11659,
       "query": [
@@ -22685,6 +22793,186 @@
       "content": "10 beautiful fishes to keep in home aquariums for beginners",
       "retrievedAt": "2024-06-25 07:05:46.009156",
       "internal_id": "cf7eb9252f3e7f2a71d9cbbcd50f2add209aeccc78def5a53e63e09918c4c646",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10412,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Madrid, en alerta por dengue tras registrar el doble de casos que en 2023",
+      "description": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid ha duplicado en lo que llevamos de a\u00f1o los casos registrado\u2026",
+      "url": "https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2024/06/23/combo-mosquitotigre-U18720438030ZoL-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-06-23 17:48:28",
+      "content": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid\u2026 [+3708 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.292033",
+      "internal_id": "27eb8ba316639c8071ede24a550604bbbd2540ba2a2585772c56a18c5fb51433",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10409,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Europa Press",
+      "title": "El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
+      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los...",
+      "url": "https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/23e291a4bf337d48bf4a4d4223dfac48/crop/5x0/700x463/f/webp/assets/multimedia/imagenes/2024/06/23/17191631760710.jpg",
+      "publishedAt": "2024-06-23 17:26:45",
+      "content": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo perio\u2026 [+3892 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.238678",
+      "internal_id": "8db81fb0a134209d91cad20a2d9d397f9c8f8f987bee4bb69ffa34ff1ee58b10",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10408,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nath\u00e1lia Cardim",
+      "title": "DF manter\u00e1 faixa et\u00e1ria de vacina\u00e7\u00e3o contra dengue. Veja p\u00fablico-alvo",
+      "description": "Minist\u00e9rio da Sa\u00fade ampliou p\u00fablico-alvo em estados e munic\u00edpios com doses prestes a vencer. No DF, por\u00e9m, imunizantes s\u00f3 expiram em 2025",
+      "url": "https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/11141151/vacinacao-dengue-cruzeiro-criancas-10-11-anos-2.jpeg",
+      "publishedAt": "2024-06-23 17:11:57",
+      "content": "A Secretaria de Sa\u00fade do Distrito Federal (SES-DF) informou neste domingo (23/6) que n\u00e3o haver\u00e1 mudan\u00e7a na estrat\u00e9gia adotada pela pasta com rela\u00e7\u00e3o ao p\u00fablico-alvo da vacina\u00e7\u00e3o contra a dengue na ca\u2026 [+5109 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.211358",
+      "internal_id": "320658297cf021b4f5b323bfff0db2b5023606f8b81cb2272fe0a7d2e9ab8514",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10414,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Livia Kristianti, Raka Adji",
+      "title": "Vigilance key to successful dengue handling in children: Ministry",
+      "description": "Parents&#39; vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control ...",
+      "url": "https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/06/23/IMG-20240623-WA0101.jpg",
+      "publishedAt": "2024-06-23 15:21:55",
+      "content": "Jakarta (ANTARA) - Parents' vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control at the Ministry of Health\u2026 [+1870 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.327407",
+      "internal_id": "2496b9087671152e17309e85fe29b32971052ede992151afd8b149dbf10ca946",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10407,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Resilience",
+      "author": "Kurt Cobb",
+      "title": "What the H5N1 scare tells us about ourselves and our society",
+      "description": "I don't know whether there is an H5N1 \"bird flu\" pandemic in our future. We humans think we can build moats around our modern way of life that protect us from the natural world. All the while we have actually been building the equivalent of superhighways into\u2026",
+      "url": "https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/",
+      "urlToImage": "https://www.resilience.org/wp-content/uploads/2024/06/H5N1_Bird_Flu.jpg",
+      "publishedAt": "2024-06-23 15:03:03",
+      "content": "I don\u2019t know whether there is an H5N1 \u201cbird flu\u201d pandemic in our future. H5N1 seems to be very dangerous to humans. Half of the 900 people known to have contracted it worldwide since 2003 have died. \u2026 [+5039 chars]",
+      "retrievedAt": "2024-06-24 19:05:44.883629",
+      "internal_id": "62238520b3c315e4084be41b5b077c7cd990335ee2c4bd8c1fb74aeb434e6e9e",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10411,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "El dengue aumenta en la Comunidad: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
+      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo periodo del a\u00f1o 2023, seg\u00fan los \u00faltimos datos del \u00c1rea de Vigilan\u2026",
+      "url": "https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240623132950_1200.jpg",
+      "publishedAt": "2024-06-23 11:29:50",
+      "content": "MADRID, 23 Jun. (EUROPA PRESS) - Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplic\u2026 [+5875 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.283012",
+      "internal_id": "b56c770f8270b84a00b07c240e8722daf132d7a3d4b10e71900a9cdbb5f56902",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10410,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para p\u00fablico de 4 a 59 anos",
+      "description": "Minist\u00e9rio da Sa\u00fade diz que, preferencialmente, as doses devem ser remanejadas para cidades n\u00e3o contempladas, mas, em caso de necessidade, a faixa et\u00e1ria atendida pode ser ampliada",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/23/110087725-ycmfxt5i7rdo5hsujaog5fblou.png",
+      "publishedAt": "2024-06-23 10:24:33",
+      "content": "O Minist\u00e9rio da Sa\u00fade informou que as doses da vacina da dengue com o prazo pr\u00f3ximo ao vencimento entre junho e julho devem ser remanejadas para cidades ou usadas para ampliar a faixa et\u00e1ria atendida\u2026 [+1596 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.277233",
+      "internal_id": "bc310198810c439c113360287caf4bc652c190f5b4ef0ac3f27ad4221f1dba31",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10413,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Ginny Reese",
+      "title": "Florida dept of health confirms local human case of dengue fever",
+      "description": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever.",
+      "url": "https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever",
+      "urlToImage": "https://img.particlenews.com/img/id/3RZR15_0u0aR5p700?type=thumbnail_1600x1200",
+      "publishedAt": "2024-06-23 10:02:31",
+      "content": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever. DOH-Hillsborough and Hillsborough County Mosquito Control ar\u2026 [+1307 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.311734",
+      "internal_id": "2699b7e0152fddd6e1b132528b2520bd5dc07d5aa79c7c0f2e2d271f9a14fbf3",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10406,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Jesse Hyland",
+      "title": "Bird flu found at second poultry farm in Hawkesbury area \u2014 just kilometres away from site of initial outbreak",
+      "description": "An outbreak of bird flu has been detected on a second farm in Sydney's north-west, with more than 86,000 chickens to be culled.",
+      "url": "https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d5d6a00e59b4a6fcc93dc7a56632bb8b?impolicy=wcms_watermark_news&cropH=913&cropW=1623&xPos=133&yPos=167&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-06-23 07:52:57",
+      "content": "In short: A second farm in the Hawkesbury region has been confirmed to have the HPAI H7N8 strain of avian influenza.The chicken meat farm is within the restricted biosecurity zone se\u2026 [+3610 chars]",
+      "retrievedAt": "2024-06-24 19:05:44.432602",
+      "internal_id": "4e996e79db6da56a5397a593b33cf52eaed5958e91ce81243db7ca33a1bb1518",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Auch Urlaubsorte betroffen: Italien k\u00e4mpft mit doppelter Dengue-Belastung",
+      "description": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die F\u00e4lle, die durch Tigerm\u00fccken in Italien verursacht werden. \u2026",
+      "url": "https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25029658/8121325893-cImg_16_9-w1200/220432705.jpg",
+      "publishedAt": "2024-06-23 07:06:44",
+      "content": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die\u2026 [+5656 chars]",
+      "retrievedAt": "2024-06-24 07:07:00.243495",
+      "internal_id": "df75e123d194d7a022ad7278ab605fb63631805af05d41b3b6827e05b28ec592",
       "publishedAtLabel": "Jun 23"
     }
   ]

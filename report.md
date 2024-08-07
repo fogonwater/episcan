@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-08-06 19:05
-- **Most recent article:** 2024-08-05 16:06:54
+- **New articles in last harvest:** 6
+- **Last harvest:** 2024-08-07 07:06
+- **Most recent article:** 2024-08-06 04:00:00
 
 ---
 
@@ -12,20 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 92 | 52 | 95 | 62 | 63 | 55 | 11 | 430 |
-| h5n1 | 35 | 59 | 52 | 62 | 38 | 21 | 1 | 268 |
-| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 17 | 169 |
+| dengue | 100 | 52 | 95 | 62 | 63 | 55 | 12 | 439 |
+| h5n1 | 36 | 59 | 52 | 62 | 38 | 21 | 2 | 270 |
+| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 19 | 171 |
 | malaria | 24 | 15 | 14 | 31 | 16 | 15 | 4 | 119 |
 | zika | 17 | 20 | 12 | 6 | 10 | 12 | 1 | 78 |
 | measles | 8 | 9 | 12 | 19 | 22 | 8 | 0 | 78 |
-| rabies | 8 | 4 | 2 | 17 | 8 | 12 | 2 | 53 |
+| rabies | 8 | 4 | 2 | 17 | 8 | 12 | 3 | 54 |
 | chikungunya | 17 | 6 | 6 | 10 | 7 | 6 | 1 | 53 |
-| hpai | 2 | 3 | 5 | 6 | 3 | 4 | 0 | 23 |
+| hpai | 3 | 3 | 5 | 6 | 3 | 4 | 0 | 24 |
 | pertussis | 3 | 1 | 2 | 0 | 5 | 5 | 2 | 18 |
 | meningitis | 1 | 3 | 5 | 3 | 2 | 3 | 1 | 18 |
 | typhoid | 3 | 4 | 6 | 1 | 3 | 1 | 0 | 18 |
 | leptospirosis | 2 | 1 | 3 | 4 | 1 | 2 | 0 | 13 |
 | yersinia | 2 | 0 | 6 | 0 | 2 | 1 | 0 | 11 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -36,7 +37,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Klimawandel | Olympia als „Superspreading-Event“: Infiziert die Tigermücke in Paris Tausende Besucher?](https://www.freitag.de/autoren/nick-reimer/wissenschaftler-warnen-vor-denge-fieber-epidemie-durch-asiatische-tigermuecke) (Freitag.de)
 
+## 24-32 (shigellosis)
+
+- [What you need to know About Shigella during an Outbreak](https://www.marlerblog.com/case-news/what-you-need-to-know-about-shigella-during-an-outbreak/) (Marlerblog.com)
+
 ## 24-32 (rabies)
+
+- [Bat tests positive for rabies in Livingston County, health officials say](https://www.wxyz.com/news/bat-tests-positive-for-rabies-in-livingston-county-health-officials-say) (WXYZ)
 
 - [Factors associated with the spatiotemporal distribution of dog rabies in Tunisia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012296) (Plos.org)
 
@@ -49,6 +56,10 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough can be deadly for young babies. Vaccination is our best defence](https://theconversation.com/whooping-cough-can-be-deadly-for-young-babies-vaccination-is-our-best-defence-235527) (The Conversation Africa)
 
 ## 24-32 (mpox)
+
+- [Mpox Epidemiology and Risk Factors, Nigeria, 2022](https://wwwnc.cdc.gov/eid/article/30/9/24-0135_article) (Cdc.gov)
+
+- [CDC, WHO mull stronger mpox warnings as deadlier strain continues to spread](https://www.nbcnews.com/health/health-news/mpox-strain-spreads-cdc-who-stronger-warnings-rcna165155) (NBC News)
 
 - [Mpox se espalha na África e OMS volta a cogitar emergência de saúde](https://www.metropoles.com/saude/mpox-africa-oms-emergencia-saude) (Metropoles.com)
 
@@ -100,9 +111,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (h5n1)
 
+- [Cocirculation of Genetically Distinct Highly Pathogenic Avian Influenza H5N5 and H5N1 Viruses in Crows, Hokkaido, Japan](https://wwwnc.cdc.gov/eid/article/30/9/24-0356_article) (Cdc.gov)
+
 - [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
+
+- [Dengue: el Gobierno compró vacunas para evitar una nueva epidemia de la enfermedad](https://www.lanacion.com.ar/sociedad/dengue-el-gobierno-compro-vacunas-para-evitar-una-nueva-epidemia-de-la-enfermedad-nid05082024/) (La Nacion)
 
 - [Un estado de EE. UU. confirma el primer caso del año de un virus que se propaga por todo el mundo: "La gente desarrollará una enfermedad grave"](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/12938648/08/24/un-estado-de-ee-uu-confirma-el-primer-caso-del-ano-de-un-virus-que-se-propaga-por-todo-el-mundo-la-gente-desarrollara-una-enfermedad-grave.html) (Eleconomista.es)
 
@@ -2616,6 +2631,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Research: Avian influenza (bird flu) in Australia](https://www.gov.uk/government/publications/avian-influenza-bird-flu-in-australia) (Www.gov.uk)
 
+- [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
+
 ## 24-26 (h5n1)
 
 - [Nächste Pandemie? Corona dagegen ein „Spaziergang“](https://www.krone.at/3438425) (Krone.at)
@@ -2687,6 +2704,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: USDA secretary urges farmers to take protective measures](https://www.statnews.com/2024/06/24/bird-flu-snapshot-usda-secretary/) (STAT)
 
 - [Persistence of Influenza H5N1 and H1N1 Viruses in Unpasteurized Milk on Milking Unit Surfaces](https://wwwnc.cdc.gov/eid/article/30/8/24-0775_article) (Cdc.gov)
+
+- [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
 
@@ -2873,6 +2892,22 @@ Source: [News API](https://newsapi.org/)
 - [Governo anuncia “estratégia temporária” para vacinas da dengue próximas de vencer](https://olhardigital.com.br/2024/06/23/medicina-e-saude/governo-anuncia-estrategia-temporaria-para-vacinas-da-dengue-proximas-de-vencer/) (Olhardigital.com.br)
 
 - [47 suspected dengue cases in Canacona, officials fear more](https://timesofindia.indiatimes.com/city/goa/47-suspected-dengue-cases-in-canacona-officials-fear-more/articleshow/111212769.cms) (The Times of India)
+
+- [Madrid, en alerta por dengue tras registrar el doble de casos que en 2023](https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html) (Www.abc.es)
+
+- [El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de año, el doble respecto a 2023](https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html) (El Mundo)
+
+- [DF manterá faixa etária de vacinação contra dengue. Veja público-alvo](https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo) (Metropoles.com)
+
+- [Vigilance key to successful dengue handling in children: Ministry](https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry) (Antaranews.com)
+
+- [El dengue aumenta en la Comunidad: 76 casos en lo que va de año, el doble respecto a 2023](https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html) (Europapress.es)
+
+- [Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para público de 4 a 59 anos](https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html) (Terra.com.br)
+
+- [Florida dept of health confirms local human case of dengue fever](https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever) (Newsbreak.com)
+
+- [Auch Urlaubsorte betroffen: Italien kämpft mit doppelter Dengue-Belastung](https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html) (N-tv.de)
 
 ## 24-26 (chikungunya)
 
