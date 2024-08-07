@@ -1,8 +1,387 @@
 {
-  "last_updated": "2024-08-07 07:06",
-  "count_articles_total": 1271,
-  "count_articles_new": 6,
+  "last_updated": "2024-08-07 19:05",
+  "count_articles_total": 1282,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 11695,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Lilys Njeru",
+      "title": "WHO calls for support to end Mpox as disease spreads to 17 African countries",
+      "description": "Africa Centre of Diseases Control data shows that the Mpox spread has resulted in 461 deaths.",
+      "url": "https://nation.africa/kenya/health/who-calls-for-support-to-end-mpox-as-disease-spreads-to-17-african-countries-4716626",
+      "urlToImage": "https://nation.africa/resource/image/4708726/landscape_ratio3x2/1200/800/db567cf8fe63056da4bfa9746a997576/Pa/mpox-photo.jpg",
+      "publishedAt": "2024-08-06 18:50:33",
+      "content": "This year alone, the number of Mpox cases reported in parts of Africa has cumulatively increased by more than 160 per cent compared to last year. Data released by the Africa Centre of Diseases Contr\u2026 [+4180 chars]",
+      "retrievedAt": "2024-08-07 19:05:44.065539",
+      "internal_id": "d268804c45775199e4789d93080f42d027c2b15f805eb66491de3076b399cc32",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11696,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Lucy Mkanyika",
+      "title": "Kenya's first Mpox patient is now healed, says Ministry",
+      "description": "The patient is a long-distance truck driver who was headed to Rwanda.",
+      "url": "https://nation.africa/kenya/health/kenya-s-first-mpox-patient-is-now-healed-says-ministry--4716540",
+      "urlToImage": "https://nation.africa/resource/image/4708726/landscape_ratio3x2/1200/800/db567cf8fe63056da4bfa9746a997576/Pa/mpox-photo.jpg",
+      "publishedAt": "2024-08-06 18:31:00",
+      "content": "The Ministry of Health has stated that the index patient who was diagnosed with Mpox at the Taita Taveta border last week has recovered, even as contact tracing is underway. The Ministry says the pa\u2026 [+814 chars]",
+      "retrievedAt": "2024-08-07 19:05:44.081871",
+      "internal_id": "45f9bf82f15c78ec976f88d351cb44dd687613746cc602e35e400718f8ba314f",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11687,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "OMS eval\u00faa la posibilidad de convocar un comit\u00e9 de emergencias por brotes de virus mpox",
+      "description": "Forbes M\u00e9xico. OMS eval\u00faa la posibilidad de convocar un comit\u00e9 de emergencias por brotes de virus mpox Ante el aumento de casos de mpox en Africa en meses recientes, el Comit\u00e9 examinar\u00eda los contagios para determinar su gravedad e impacto. OMS eval\u00faa la pos\u2026",
+      "url": "https://www.forbes.com.mx/oms-evalua-la-posibilidad-de-convocar-un-comite-de-emergencias-por-brotes-de-virus-mpox/",
+      "urlToImage": "https://cdn.forbes.com.mx/2022/05/9aacff9a315fb0a9ac98889cdbcb68662d7a3f76-e1653587515380.jpg",
+      "publishedAt": "2024-08-06 17:54:57",
+      "content": "El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, est\u00e1 reflexionando sobre la posibilidad de convocar a una reuni\u00f3n del Comit\u00e9 de Emergencias en relaci\u00f3n c\u2026 [+2366 chars]",
+      "retrievedAt": "2024-08-07 19:05:43.987215",
+      "internal_id": "2b1e5ce5d17fb81d5ec1a27fd4bf1ba4e794c6f9f7f627a4b2d102a690af8151",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11678,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Siva G",
+      "title": "Malaria, dengue cases on the rise in tribal areas of north Andhra",
+      "description": "SRIKAKULAM: Several tribal areas in north Andhra are grappling with a surge in malaria and dengue cases, leading to overcrowding in hospitals across P.",
+      "url": "https://timesofindia.indiatimes.com/city/amaravati/malaria-dengue-cases-on-the-rise-in-tribal-areas-of-north-andhra/articleshow/112326538.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112326570,width-1070,height-580,imgsize-490056,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-06 17:31:44",
+      "content": "8 flowers and plants that will attract birds to your garden",
+      "retrievedAt": "2024-08-07 19:05:42.416628",
+      "internal_id": "f2e7ac54f7eeb451f22c0718a02d5d8913e8c85f71ba3270ec7d6918f920a741",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11685,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Dinheirama.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Entenda o surto de mpox na \u00c1frica que preocupa a OMS",
+      "description": "Os casos de mpox na Rep\u00fablica Democr\u00e1tica do Congo (RDC) est\u00e3o em ascens\u00e3o h\u00e1 mais de 2 anos. O cen\u00e1rio, de acordo com a organiza\u00e7\u00e3o\u2026 ------ Este artigo foi escrito por Ag\u00eancia Brasil. Este artigo apareceu originalmente no site Dinheirama.A reprodu\u00e7\u00e3o deste t\u2026",
+      "url": "https://dinheirama.com/entenda-o-surto-de-mpox-na-africa-que-preocupa-a-oms/",
+      "urlToImage": "https://media.dinheirama.com/medias/uploads/2024/08/20240806-monkeypox-jpg.webp",
+      "publishedAt": "2024-08-06 16:35:22",
+      "content": "9Os casos de mpox na Rep\u00fablica Democr\u00e1tica do Congo (RDC) est\u00e3o em ascens\u00e3o h\u00e1 mais de 2 anos. O cen\u00e1rio, de acordo com a organiza\u00e7\u00e3o humanit\u00e1ria M\u00e9dicos Sem Fronteiras (MSF), se agravou ao longo dos\u2026 [+8198 chars]",
+      "retrievedAt": "2024-08-07 19:05:43.966500",
+      "internal_id": "2eb05c24024adb34c45522254fd4c3cee435e8e40526308dde42d94a98ddd274",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11689,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "RFI",
+      "title": "Variante mais mortal da mpox atinge pa\u00edses africanos",
+      "description": "Diretor-geral da OMS pretende reunir comit\u00ea de especialistas para decidir se a situa\u00e7\u00e3o \u00e9 emerg\u00eancia de sa\u00fade internacional",
+      "url": "https://www.metropoles.com/mundo/variante-mais-mortal-da-mpox-atinge-paises-africanos",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/08/06123847/variola-dos-macacos-mpox.jpg",
+      "publishedAt": "2024-08-06 15:46:48",
+      "content": "Os casos de mpox, ou var\u00edola dos macacos, est\u00e3o aumentando na \u00c1frica, especialmente em torno de uma nova variante do v\u00edrus, mais mortal e mais transmiss\u00edvel, que se espalha na Rep\u00fablica Democr\u00e1tica d\u2026 [+2639 chars]",
+      "retrievedAt": "2024-08-07 19:05:44.012695",
+      "internal_id": "459b97455053dce97bce34e63abe447fb3f49971b9e97f9c082b7e88d0705a53",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11694,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nairobileo.co.ke",
+      "author": "Ezra Nyakundi",
+      "title": "Ministry Of Health Issues Update On Mpox Outbreak",
+      "description": "\"Results from the National Public Health Laboratories detected Mpox on 29th July 2024.\"",
+      "url": "https://www.nairobileo.co.ke/news/article/16744/ministry-of-health-issues-update-on-mpox-outbreak",
+      "urlToImage": "https://nairobileo.co.ke/storage/uploads/2024/08/GT6RUmEXIAEEcnM-1722953131.jpeg",
+      "publishedAt": "2024-08-06 14:14:28",
+      "content": "The Ministry of Health (MoH) has announced that no new Mpox cases have been reported in the country. In a statement on Tuesday, August 6, the ministry said the patient who was reported having sympt\u2026 [+1860 chars]",
+      "retrievedAt": "2024-08-07 19:05:44.060685",
+      "internal_id": "8d80785de22b85ca0dae225f8fb7123e970012af9da2912a60af6f7fb29236d3",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11693,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Kenyans.co.ke",
+      "author": "Samuel Mwanawanjuguna",
+      "title": "Kenya Declares Mpox-Free Status Amidst Regional Health Crisis",
+      "description": "The first case of Mpox was reported late last month, and contact tracing is still ongoing.",
+      "url": "https://www.kenyans.co.ke/news/103437-kenya-declares-mpox-free-status-amidst-regional-health-crisis",
+      "urlToImage": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/mpox%20%281%29.jpg?itok=xk-WxtF5",
+      "publishedAt": "2024-08-06 14:03:30",
+      "content": "Kenya is now officially free of Mpox, the Ministry of Health announced, with the country reporting no new cases following the recovery of its sole patient. This development comes as a relief amid the\u2026 [+3197 chars]",
+      "retrievedAt": "2024-08-07 19:05:44.055981",
+      "internal_id": "ea40e7f5afbd71b78276ba3e28d3cad09fcf6cb02f4132b4cb23b45901b0d951",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11686,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412\u0441\u043f\u044b\u0448\u043a\u0430 mpox \u0432 \u0414\u0420 \u041a\u043e\u043d\u0433\u043e \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0431\u044b\u0441\u0442\u0440\u044b\u043c \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435\u043c \u0432\u0438\u0440\u0443\u0441\u0430-\u043c\u0443\u0442\u0430\u043d\u0442\u0430",
+      "description": "\u041d\u043e\u0432\u044b\u0439 \u0448\u0442\u0430\u043c\u043c \u0432\u0438\u0440\u0443\u0441\u0430 \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u043e \u043f\u0435\u0440\u0435\u0434\u0430\u0435\u0442\u0441\u044f \u043c\u0435\u0436\u0434\u0443 \u043b\u044e\u0434\u044c\u043c\u0438 \u0443\u0436\u0435 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u043c\u0435\u0441\u044f\u0446\u0435\u0432",
+      "url": "https://tass.ru/proisshestviya/21542923",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/proisshestviya/21542923?u=2024-08-06T13:22:06.521351",
+      "publishedAt": "2024-08-06 13:22:06",
+      "content": ", 6 . //. mpox (\"\", ), (), , . \" \" (MSF), . 2024 mpox, , MSF Okapi. mpox . , mpox , . MSF mpox, . (), mpox, , 2022 , 100 . , , Clade 1b, . 11 mpox. , Clade 1b . 5%. MSF, mpox 12 300 80% 2023 . \u2026 [+55 chars]",
+      "retrievedAt": "2024-08-07 19:05:43.971207",
+      "internal_id": "fa3cbcb2053606c0c23111576de01897c2160b293512a9655bf0b8cfca4bc98e",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11690,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Birgit Herden",
+      "title": "Mpox breitet sich in Zentrafrika aus: WHO erw\u00e4gt, den internationalen Notfall auszurufen",
+      "description": "Eine neue Variante der Mpox-Viren verbreitet sich \u00fcber die L\u00e4ndergrenzen hinweg: Sie ist t\u00f6dlicher und betrifft nun auch viele Frauen und Kinder.",
+      "url": "https://www.tagesspiegel.de/wissen/mpox-breitet-sich-in-zentrafrika-aus-who-erwagt-den-internationalen-notfall-auszurufen-12148064.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12151796/alternates/BASE_16_9_W1400/1722949788000/children-at-risk-as-mpox-variant-hits-congo-displacement-camps.jpeg",
+      "publishedAt": "2024-08-06 13:08:37",
+      "content": "Fachleute hatten damit gerechnet, nun ist es eingetreten: Eine neue, gef\u00e4hrlichere Variante der Mpox-Viren breitet sich \u00fcber die L\u00e4ndergrenzen hinweg in Zentralafrika aus. In den vergangenen Monaten \u2026 [+315 chars]",
+      "retrievedAt": "2024-08-07 19:05:44.032726",
+      "internal_id": "6fcc4704ae038d27b525cd018229f5046797428bcb935a31bfe4b224ee1c2ef8",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11679,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "Megjelent a dengue-v\u00edrus \u00e9s nyugat-n\u00edlusi l\u00e1z Magyarorsz\u00e1gon",
+      "description": "A Nemzeti N\u00e9peg\u00e9szs\u00e9g\u00fcgyi \u00e9s Gy\u00f3gyszer\u00e9szeti K\u00f6zpont t\u00e1j\u00e9koztat\u00e1sa alapj\u00e1n t\u00f6bb nyugat-n\u00edlusi l\u00e1zzal fert\u0151z\u00f6tt beteget is diagnosztiz\u00e1ltak haz\u00e1nkban, de a rettegett dengue-v\u00edrust is kimutatt\u00e1k m\u00e1r id\u00e9n az orvosok itthon.",
+      "url": "https://www.origo.hu/itthon/2024/08/dengue-virus-nyugat-nilusi-laz-magyarorszag",
+      "urlToImage": "https://cdn.origo.hu/2024/08/Kh0ZhrMZ1d5k95ZlHdpU1uN3EM5JRc6yAIPppp_hxw8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QwNTEzMTdmMzgyMzQwZDg5YzZlYjU1NmIxNmJkMWNi.webp",
+      "publishedAt": "2024-08-06 12:35:18",
+      "content": "T\u00f6bb nyugat-n\u00edlusi l\u00e1zzal fertz\u00f6tt beteget is diagnosztiz\u00e1ltak nemr\u00e9g haz\u00e1nkban t\u00e1j\u00e9koztatott a Nemzeti N\u00e9peg\u00e9szs\u00e9g\u00fcgyi \u00e9s Gy\u00f3gyszer\u00e9szeti K\u00f6zpont. A rendelkez\u00e9sre \u00e1ll\u00f3 inform\u00e1ci\u00f3k alapj\u00e1n egy 51 \u00e9ve\u2026 [+1979 chars]",
+      "retrievedAt": "2024-08-07 19:05:42.437764",
+      "internal_id": "d77b6e4fe323587171dd45ef92a7ad3dade848be872d3d228e8be459aede910b",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11683,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "66 cases of Zika virus infection found in Pune city since June",
+      "description": "Pune has recorded 66 cases of Zika virus infections within the last two months, with four reported deaths due to comorbidities. Notably, 26 pregnant women were among the infected, yet are mostly in good health. The first case emerged on June 20 when a 46-year\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/66-cases-of-zika-virus-infection-found-in-pune-city-since-june/articleshow/112320607.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-112320728,width-1200,height-630,imgsize-718784,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-08-06 12:17:11",
+      "content": "At least 66 cases of Zika virus infection have been reported in Pune city in the last two months, civic officials said on Tuesday. Four of these patients died, but the cause in each case was not the \u2026 [+1543 chars]",
+      "retrievedAt": "2024-08-07 19:05:43.404770",
+      "internal_id": "d1d77eb3791e63d67d76de6c37ba1e73febebf2792e2ee11fff1bca7d9b22e2d",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11681,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": null,
+      "title": "KU Leuven waarschuwt voor opkomst tropische parasiet in Zuid-Europa: risico op infectieziekte voor zwemmers in zoetwater",
+      "description": "Door de opkomst van een parasitaire platworm zal het risico op de tropische infectieziekte schistosomiase in de loop van de eeuw sterk stijgen. Dat blijkt uit onderzoek van de KU Leuven. Oorzaak is de klimaatverandering: daardoor kunnen zoetwaterslakken, die \u2026",
+      "url": "https://www.vrt.be/vrtnws/nl/2024/08/06/tropische-parasiet-rukt-op-in-zuid-europa-en-brengt-infectieziek/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/08/06/345c326f-53e8-11ef-92ff-02b7b76bf47f.jpg",
+      "publishedAt": "2024-08-06 11:47:49",
+      "content": "Schistosomiase is een tropische ziekte die veroorzaakt wordt door parasitaire platwormen, die worden overgedragen door zoetwaterslakken. Het is na malaria de meest voorkomende infectieziekte, met jaa\u2026 [+1679 chars]",
+      "retrievedAt": "2024-08-07 19:05:43.163945",
+      "internal_id": "c6c949b460c967118e8873e1e8777cdc678d47f818e0f7adbac2839757463599",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11691,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Karina Jaworska",
+      "title": "Zwi\u0119ksza si\u0119 ryzyko wybuchu nowej pandemii? WHO o gro\u017anych patogenach",
+      "description": "WHO ostrzega przed rozprzestrzenieniem si\u0119 gro\u017anych wirus\u00f3w. Szczeg\u00f3ln\u0105 uwag\u0119 \u015awiatowej Organizacji Zdrowia przyku\u0142 wirus odpowiedzialny za ma\u0142pi\u0105 osp\u0119. Dyrektor organizacji chce powo\u0142a\u0107 specjaln\u0105 komisj\u0119, kt\u00f3ra oceni czy wybuch epidemii mpoxu w Afryce powini\u2026",
+      "url": "https://wydarzenia.interia.pl/zagranica/news-zwieksza-sie-ryzyko-wybuchu-nowej-pandemii-who-o-groznych-pa,nId,7751614",
+      "urlToImage": "https://i.iplsc.com/-/000JKWE617URB9E9-C461-F4.jpg",
+      "publishedAt": "2024-08-06 11:37:08",
+      "content": "COVID-19 zatrzyma wiat. Teraz wiatowa Organizacja Zdrowia alarmuje, e dokadnie to samo mog zrobi inne grone patogeny, kt\u00f3rych jest coraz wicej. Na licie wirus\u00f3w, kt\u00f3re wymagaj szczeg\u00f3lnej uwagi znala\u2026 [+2697 chars]",
+      "retrievedAt": "2024-08-07 19:05:44.041361",
+      "internal_id": "23da6bbcf300c19b2445514e49bcc861ed7b54086782bdf98d99f79c737e8acd",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11692,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Karina Jaworska",
+      "title": "Ro\u015bnie ryzyko wybuchu nowej pandemii? WHO o gro\u017anych patogenach",
+      "description": "WHO ostrzega przed rozprzestrzenieniem si\u0119 gro\u017anych wirus\u00f3w. Szczeg\u00f3ln\u0105 uwag\u0119 \u015awiatowej Organizacji Zdrowia przyku\u0142 wirus odpowiedzialny za ma\u0142pi\u0105 osp\u0119. Dyrektor organizacji chce powo\u0142a\u0107 specjaln\u0105 komisj\u0119, kt\u00f3ra oceni czy wybuch epidemii mpoxu w Afryce powini\u2026",
+      "url": "https://wydarzenia.interia.pl/zagranica/news-rosnie-ryzyko-wybuchu-nowej-pandemii-who-o-groznych-patogena,nId,7751614",
+      "urlToImage": "https://i.iplsc.com/-/000JKWE617URB9E9-C461-F4.jpg",
+      "publishedAt": "2024-08-06 11:37:08",
+      "content": "COVID-19 zatrzyma wiat. Teraz wiatowa Organizacja Zdrowia alarmuje, e dokadnie to samo mog zrobi inne grone patogeny, kt\u00f3rych jest coraz wicej. Na licie wirus\u00f3w, kt\u00f3re wymagaj szczeg\u00f3lnej uwagi znala\u2026 [+2697 chars]",
+      "retrievedAt": "2024-08-07 19:05:44.046609",
+      "internal_id": "4e3d3d36ad9398d83b465819e9f7556d2fa6409091b6a58e5e1ab4130a0d81d5",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11676,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "M\u00e9dicos e autoridades da sa\u00fade alertam para o aumento dos casos de coqueluche",
+      "description": "A vacina\u00e7\u00e3o contra a doen\u00e7a \u00e9 a principal medida preventiva. Saiba como ocorre a transmiss\u00e3o da coqueluche",
+      "url": "https://www.terra.com.br/noticias/medicos-e-autoridades-da-saude-alertam-para-o-aumento-dos-casos-de-coqueluche,d76f737e56a4f02f041768bf8c9a54afdw13zdxs.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/08/06/279165750-crianca-hospital.jpg",
+      "publishedAt": "2024-08-06 11:07:32",
+      "content": "A coqueluche \u00e9 uma infec\u00e7\u00e3o respirat\u00f3ria causada pela bact\u00e9ria Bordetella pertussis, trazendo grandes riscos \u00e0 sa\u00fade se n\u00e3o tratada adequadamente. Sua principal caracter\u00edstica s\u00e3o as crises de tosse \u2026 [+1686 chars]",
+      "retrievedAt": "2024-08-07 19:05:40.955547",
+      "internal_id": "d9a0a5fcaf4ce210ad8ec512def90787eaba07d61c627293d6b5c44188eaabc1",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11684,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Elizabeth Robinson and Kaylah Jackson and Olivia Palombo",
+      "title": "Harris to announce VP pick and Google loses antitrust case: Morning Rundown",
+      "description": "Kamala Harris running mate, Simone Biles, Jordan Chiles appeal, Rebeca Andrade, as-Asad airbase attack, Google monopoly, Cori Bush, Clarence Thomas, mpox",
+      "url": "https://www.nbcnews.com/news/harris-announce-vp-pick-google-loses-antitrust-case-morning-rundown-rcna165307",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240731-google-ch-1504-18256a.jpg",
+      "publishedAt": "2024-08-06 11:05:26",
+      "content": "Kamala Harris and her soon-to-be-named running mate will appear at their first rally together. A federal U.S. judge rules Google has an illegal monopoly. And the womens Olympic gymnastics team ends w\u2026 [+10368 chars]",
+      "retrievedAt": "2024-08-07 19:05:43.957333",
+      "internal_id": "8088a11ed882d1f444ae8cdd73a892f283d317b522f03b96898d8993898c7a96",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11682,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNET",
+      "author": null,
+      "title": "\u8fd1\u757f\u5927\u5b66\u30de\u30e9\u30ea\u30a2\u3092\u5a92\u4ecb\u3059\u308b\u868a\u3078\u306e\u30cd\u30aa\u30cb\u30b3\u30c1\u30ce\u30a4\u30c9\u7cfb\u6bba\u866b\u5264\u306e\u4f5c\u7528\u6a5f\u69cb\u3092\u89e3\u6790 \u6709\u52b9\u306a\u6bba\u866b\u5264\u306e\u958b\u767a\u306b\u3088\u308b\u3001\u30de\u30e9\u30ea\u30a2\u30fb\u30c7\u30f3\u30b0\u71b1\u306e\u611f\u67d3\u6291\u5236\u306b\u671f\u5f85",
+      "description": "\u8fd1\u757f\u5927\u5b66\u8fb2\u5b66\u90e8\uff08\u5948\u826f\u770c\u5948\u826f\u5e02\uff09\u5fdc\u7528\u751f\u547d\u5316\u5b66\u79d1\u6559\u6388\u30fb\u8fd1\u757f\u5927\u5b66\u30a2\u30b0\u30ea\u6280\u8853\u9769\u65b0\u7814\u7a76\u6240\u6240\u9577 \u677e\u7530\u4e00\u5f66\u3089\u306e\u7814\u7a76\u30b0\u30eb\u30fc\u30d7\u306f\u3001\u5927\u962a\u5927\u5b66\u7523\u696d\u79d1\u5b66\u7814\u7a76\u6240\uff08\u5927\u962a\u5e9c\u8328\u6728\u5e02\uff09\u3001\u5ca1\u5c71\u5927\u5b66\u85ac\u5b66\u90e8\uff08\u5ca1\u5c71\u770c\u5ca1\u5c71\u5e02\uff09\u3001\u30ed\u30f3\u30c9\u30f3\u5927\u5b66\u3001\u30ea\u30d0\u30d7\u30fc\u30eb\u71b1\u5e2f\u533b\u5b66\u6821\u3068\u5171\u540c\u3067\u3001\u30de\u30e9\u30ea\u30a2\u3092\u5a92\u4ecb\u3059\u308b\u30ac\u30f3\u30d3\u30a8\u30cf\u30de\u30c0\u30e9\u30ab\u203b1 \u306b\u5bfe\u3059\u308b\u3001\u30cd\u30aa\u30cb\u30b3\u30c1\u30ce\u30a4\u30c9\u7cfb\u6bba...",
+      "url": "https://japan.cnet.com/release/31009233/",
+      "urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
+      "publishedAt": "2024-08-06 11:05:09",
+      "content": "1 2 62024724\"Open Biology \" 260 3 220204 135 661 Open Biology4.5@2023 Unravelling nicotinic receptor and ligand features underlying neonicotinoid knockdown actions on the malaria vector mosquito \u2026 [+208 chars]",
+      "retrievedAt": "2024-08-07 19:05:43.168957",
+      "internal_id": "c318d2a7cc08a8a623136b6bd51b11f0973ff7ae0bf09d7cfc41fd1f96041121",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11677,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Bryce Covert",
+      "title": "Why Isn\u2019t the Government Protecting Farm Workers From the Bird Flu?",
+      "description": "In early July, a dairy farm worker in Colorado tested positive for H5N1, the current strain of avian flu that\u2019s ripping through dairy cows. It marked the fourth human case contracted on a dairy farm; a worker tested positive in Texas in April, and then two ot\u2026",
+      "url": "https://newrepublic.com/article/184589/bird-flu-dairy-farm-workers-government-regulations",
+      "urlToImage": "https://images.newrepublic.com/fe8602fbf697418110350a653b960bfb7f4e5354.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2024-08-06 10:00:00",
+      "content": "Without a federal mandate, dairy farm owners are being asked to voluntarily institute difficult, costly measures, and many are resisting, which is what happens when theres not any threat of enforce\u2026 [+1391 chars]",
+      "retrievedAt": "2024-08-07 19:05:42.022663",
+      "internal_id": "6299f56c7c8bddd9d2e3c3cad55d0553a1162785cd517d6cec06821522404d57",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11688,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Hal\u00e1los \u00e9s mut\u00e1l\u00f3dott majomhiml\u0151 terjed nagy sebess\u00e9ggel, nemzetk\u00f6zi k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi v\u00e9szhelyzetet hirdethet a WHO",
+      "description": "A k\u00f6z\u00e9p-afrikai orsz\u00e1gok egyre nagyobb er\u0151fesz\u00edt\u00e9seket tesznek, hogy meg\u00e1ll\u00edts\u00e1k a mut\u00e1l\u00f3dott mpox-t\u00f6rzs (majomhiml\u0151) terjed\u00e9s\u00e9t, amely janu\u00e1r \u00f3ta csak a Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1gban (KDK) k\u00f6zel 500 ember \u00e9let\u00e9t k\u00f6vetelte. A v\u00edrus gyorsan terjed, \u00e9s 202\u2026",
+      "url": "https://www.portfolio.hu/global/20240806/halalos-es-mutalodott-majomhimlo-terjed-nagy-sebesseggel-nemzetkozi-kozegeszsegugyi-veszhelyzetet-hirdethet-a-who-702703",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/a/f/r/afrika-getty-stock-423088.jpg",
+      "publishedAt": "2024-08-06 08:51:00",
+      "content": "A k\u00f6zelm\u00faltban Elef\u00e1ntcsontparton, Keny\u00e1ban \u00e9s legal\u00e1bb h\u00e1rom m\u00e1sik afrikai orsz\u00e1gban is felbukkantak megbeteged\u00e9sek. Ez felveti annak vesz\u00e9ly\u00e9t, hogy a fertz\u00e9s robban\u00e1sszeren elterjedhet az \u00fajonnan \u2026 [+2022 chars]",
+      "retrievedAt": "2024-08-07 19:05:44.003654",
+      "internal_id": "92d694c0b5ac7f26ed89fb5811f137ba9db33b5e54d13f068598f0a706b59fb0",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11680,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue claims one life; Cholera confirmed in 30 individuals",
+      "description": "KATHMANDU: The incidence of vector-borne and waterborne diseases is rising across the country. According to the Epidemiology and Disease Control Division (EDCD) under the Department of Health Services, one person has died from dengue. Over the past seven and \u2026",
+      "url": "https://english.khabarhub.com/2024/06/369898/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-08-06 07:45:55",
+      "content": "KATHMANDU: The incidence of vector-borne and waterborne diseases is rising across the country. According to the Epidemiology and Disease Control Division (EDCD) under the Department of Health Servic\u2026 [+752 chars]",
+      "retrievedAt": "2024-08-07 19:05:42.474712",
+      "internal_id": "af204b29aee3829eb68943511ea90a913051649590d90b0034b27de70a3f8306",
+      "publishedAtLabel": "Aug 6"
+    },
     {
       "id": 11671,
       "query": [
@@ -22793,186 +23172,6 @@
       "content": "10 beautiful fishes to keep in home aquariums for beginners",
       "retrievedAt": "2024-06-25 07:05:46.009156",
       "internal_id": "cf7eb9252f3e7f2a71d9cbbcd50f2add209aeccc78def5a53e63e09918c4c646",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10412,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Madrid, en alerta por dengue tras registrar el doble de casos que en 2023",
-      "description": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid ha duplicado en lo que llevamos de a\u00f1o los casos registrado\u2026",
-      "url": "https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html",
-      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2024/06/23/combo-mosquitotigre-U18720438030ZoL-1024x512@diario_abc.jpg",
-      "publishedAt": "2024-06-23 17:48:28",
-      "content": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid\u2026 [+3708 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.292033",
-      "internal_id": "27eb8ba316639c8071ede24a550604bbbd2540ba2a2585772c56a18c5fb51433",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10409,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "el-mundo",
-      "source_name": "El Mundo",
-      "author": "Europa Press",
-      "title": "El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
-      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los...",
-      "url": "https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html",
-      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/23e291a4bf337d48bf4a4d4223dfac48/crop/5x0/700x463/f/webp/assets/multimedia/imagenes/2024/06/23/17191631760710.jpg",
-      "publishedAt": "2024-06-23 17:26:45",
-      "content": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo perio\u2026 [+3892 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.238678",
-      "internal_id": "8db81fb0a134209d91cad20a2d9d397f9c8f8f987bee4bb69ffa34ff1ee58b10",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10408,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Nath\u00e1lia Cardim",
-      "title": "DF manter\u00e1 faixa et\u00e1ria de vacina\u00e7\u00e3o contra dengue. Veja p\u00fablico-alvo",
-      "description": "Minist\u00e9rio da Sa\u00fade ampliou p\u00fablico-alvo em estados e munic\u00edpios com doses prestes a vencer. No DF, por\u00e9m, imunizantes s\u00f3 expiram em 2025",
-      "url": "https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/11141151/vacinacao-dengue-cruzeiro-criancas-10-11-anos-2.jpeg",
-      "publishedAt": "2024-06-23 17:11:57",
-      "content": "A Secretaria de Sa\u00fade do Distrito Federal (SES-DF) informou neste domingo (23/6) que n\u00e3o haver\u00e1 mudan\u00e7a na estrat\u00e9gia adotada pela pasta com rela\u00e7\u00e3o ao p\u00fablico-alvo da vacina\u00e7\u00e3o contra a dengue na ca\u2026 [+5109 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.211358",
-      "internal_id": "320658297cf021b4f5b323bfff0db2b5023606f8b81cb2272fe0a7d2e9ab8514",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10414,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Livia Kristianti, Raka Adji",
-      "title": "Vigilance key to successful dengue handling in children: Ministry",
-      "description": "Parents&#39; vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control ...",
-      "url": "https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/06/23/IMG-20240623-WA0101.jpg",
-      "publishedAt": "2024-06-23 15:21:55",
-      "content": "Jakarta (ANTARA) - Parents' vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control at the Ministry of Health\u2026 [+1870 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.327407",
-      "internal_id": "2496b9087671152e17309e85fe29b32971052ede992151afd8b149dbf10ca946",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10407,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Resilience",
-      "author": "Kurt Cobb",
-      "title": "What the H5N1 scare tells us about ourselves and our society",
-      "description": "I don't know whether there is an H5N1 \"bird flu\" pandemic in our future. We humans think we can build moats around our modern way of life that protect us from the natural world. All the while we have actually been building the equivalent of superhighways into\u2026",
-      "url": "https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/",
-      "urlToImage": "https://www.resilience.org/wp-content/uploads/2024/06/H5N1_Bird_Flu.jpg",
-      "publishedAt": "2024-06-23 15:03:03",
-      "content": "I don\u2019t know whether there is an H5N1 \u201cbird flu\u201d pandemic in our future. H5N1 seems to be very dangerous to humans. Half of the 900 people known to have contracted it worldwide since 2003 have died. \u2026 [+5039 chars]",
-      "retrievedAt": "2024-06-24 19:05:44.883629",
-      "internal_id": "62238520b3c315e4084be41b5b077c7cd990335ee2c4bd8c1fb74aeb434e6e9e",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10411,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "El dengue aumenta en la Comunidad: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
-      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo periodo del a\u00f1o 2023, seg\u00fan los \u00faltimos datos del \u00c1rea de Vigilan\u2026",
-      "url": "https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240623132950_1200.jpg",
-      "publishedAt": "2024-06-23 11:29:50",
-      "content": "MADRID, 23 Jun. (EUROPA PRESS) - Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplic\u2026 [+5875 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.283012",
-      "internal_id": "b56c770f8270b84a00b07c240e8722daf132d7a3d4b10e71900a9cdbb5f56902",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10410,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para p\u00fablico de 4 a 59 anos",
-      "description": "Minist\u00e9rio da Sa\u00fade diz que, preferencialmente, as doses devem ser remanejadas para cidades n\u00e3o contempladas, mas, em caso de necessidade, a faixa et\u00e1ria atendida pode ser ampliada",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/23/110087725-ycmfxt5i7rdo5hsujaog5fblou.png",
-      "publishedAt": "2024-06-23 10:24:33",
-      "content": "O Minist\u00e9rio da Sa\u00fade informou que as doses da vacina da dengue com o prazo pr\u00f3ximo ao vencimento entre junho e julho devem ser remanejadas para cidades ou usadas para ampliar a faixa et\u00e1ria atendida\u2026 [+1596 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.277233",
-      "internal_id": "bc310198810c439c113360287caf4bc652c190f5b4ef0ac3f27ad4221f1dba31",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10413,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Ginny Reese",
-      "title": "Florida dept of health confirms local human case of dengue fever",
-      "description": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever.",
-      "url": "https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever",
-      "urlToImage": "https://img.particlenews.com/img/id/3RZR15_0u0aR5p700?type=thumbnail_1600x1200",
-      "publishedAt": "2024-06-23 10:02:31",
-      "content": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever. DOH-Hillsborough and Hillsborough County Mosquito Control ar\u2026 [+1307 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.311734",
-      "internal_id": "2699b7e0152fddd6e1b132528b2520bd5dc07d5aa79c7c0f2e2d271f9a14fbf3",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10406,
-      "query": [
-        "hpai"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Jesse Hyland",
-      "title": "Bird flu found at second poultry farm in Hawkesbury area \u2014 just kilometres away from site of initial outbreak",
-      "description": "An outbreak of bird flu has been detected on a second farm in Sydney's north-west, with more than 86,000 chickens to be culled.",
-      "url": "https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d5d6a00e59b4a6fcc93dc7a56632bb8b?impolicy=wcms_watermark_news&cropH=913&cropW=1623&xPos=133&yPos=167&width=862&height=485&imformat=generic",
-      "publishedAt": "2024-06-23 07:52:57",
-      "content": "In short: A second farm in the Hawkesbury region has been confirmed to have the HPAI H7N8 strain of avian influenza.The chicken meat farm is within the restricted biosecurity zone se\u2026 [+3610 chars]",
-      "retrievedAt": "2024-06-24 19:05:44.432602",
-      "internal_id": "4e996e79db6da56a5397a593b33cf52eaed5958e91ce81243db7ca33a1bb1518",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10400,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Auch Urlaubsorte betroffen: Italien k\u00e4mpft mit doppelter Dengue-Belastung",
-      "description": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die F\u00e4lle, die durch Tigerm\u00fccken in Italien verursacht werden. \u2026",
-      "url": "https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html",
-      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25029658/8121325893-cImg_16_9-w1200/220432705.jpg",
-      "publishedAt": "2024-06-23 07:06:44",
-      "content": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die\u2026 [+5656 chars]",
-      "retrievedAt": "2024-06-24 07:07:00.243495",
-      "internal_id": "df75e123d194d7a022ad7278ab605fb63631805af05d41b3b6827e05b28ec592",
       "publishedAtLabel": "Jun 23"
     }
   ]
