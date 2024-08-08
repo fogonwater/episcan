@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-08-07 19:05",
-  "count_articles_total": 1282,
-  "count_articles_new": 21,
+  "last_updated": "2024-08-08 07:06",
+  "count_articles_total": 1301,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 11698,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "TCDF defende retorno de 532 servidores \u00e0 Uni\u00e3o e pede novas nomea\u00e7\u00f5es",
+      "description": "Epidemia de dengue matou mais de 400 pessoas no DF em 2024. E, apesar disso, a rede p\u00fablica ainda sofre com o d\u00e9ficit de 4 mil agentes",
+      "url": "https://www.metropoles.com/distrito-federal/tcdf-defende-retorno-de-532-servidores-a-uniao-e-pede-novas-nomeacoes",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/08/06120402/dengue-sem-nomeacoes-servidores-longe-ruas.jpg",
+      "publishedAt": "2024-08-07 06:15:32",
+      "content": "Em meio a uma epidemia de dengue, o Distrito Federal tem de lidar com a falta de pessoal para atuar no combate ao aedes aegypti. Pelo menos 930 novos agentes deixaram de ser nomeados para atuar contr\u2026 [+3945 chars]",
+      "retrievedAt": "2024-08-08 07:05:59.387710",
+      "internal_id": "3376cab4b20b790ea5949cef00648f839c387901294ebd817a85751c6cb37aa5",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11700,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "10-bed dengue ward set up in GP Koirala Hospital",
+      "description": "TANAHU: A 10-bed dengue ward ahs been set up at the GP Koirala National Respiratory Treatment Centre in Shuklagandaki municipality. Hospital\u2019s Executive Director Dr Ram Kumar Shrestha said a separate ward has been set up at the hospital as the number of dengu\u2026",
+      "url": "https://english.khabarhub.com/2024/07/370619/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-08-07 05:30:51",
+      "content": "TANAHU: A 10-bed dengue ward ahs been set up at the GP Koirala National Respiratory Treatment Centre in Shuklagandaki municipality. Hospital\u2019s Executive Director Dr Ram Kumar Shrestha said a separat\u2026 [+513 chars]",
+      "retrievedAt": "2024-08-08 07:05:59.437608",
+      "internal_id": "2d04bb5c3e7fcbca1b759393696c25c47a7f392b0d2a92117c92c56d1971d230",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11705,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "World Socialist Web Site",
+      "author": null,
+      "title": "WHO considers declaring public health emergency of international concern due to outbreak of deadlier Mpox strain",
+      "description": "The deadlier strain of Mpox that emerged last year in the Democratic Republic of the Congo has spread unchecked to Uganda, Kenya and the capital city of Goma, raising the dangers of another pandemic.",
+      "url": "https://www.wsws.org/en/articles/2024/08/07/kwpw-a07.html",
+      "urlToImage": "https://www.wsws.org/asset/74ddb480-336c-47ce-bf68-a8238636cea0?rendition=1600x900",
+      "publishedAt": "2024-08-07 04:47:47",
+      "content": "On Sunday, World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus posted on Twitter/X that he is considering convening an advisory committee to determine if the public health age\u2026 [+8691 chars]",
+      "retrievedAt": "2024-08-08 07:06:01.883178",
+      "internal_id": "d7e26ba0adc1d44f882eb43f621e73602574542b31473bd3481836494f84aec0",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11703,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Clade I Mpox in the Democratic Republic of the Congo and Neighboring Countries",
+      "description": "There is an outbreak of clade I mpox in the Democratic Republic of the Congo (DRC). Countries sharing borders with DRC are considered at risk for spread. Country List : Burundi, Central African Republic, Democratic Republic of the Congo, Republic o\u2026",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/mpox-drc-neighboring-countries",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2024-08-07 04:00:00",
+      "content": "Mpox is a disease caused by infection with Monkeypox virus. Mpox is endemic in forested areas of Central and West Africa. There are two types of Monkeypox virus. Historically, clade I has been assoc\u2026 [+701 chars]",
+      "retrievedAt": "2024-08-08 07:06:01.838084",
+      "internal_id": "20f76338156105059f77abb3d631d5760d53b80f32c5acb66ee9edb5c24d4cca",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11701,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Sunday Nwakanma",
+      "title": "Pan Africare, Abia begin anti-malaria campaign in 292 health centres",
+      "description": "Pan Africare, in collaboration with the Abia State government, has flagged off the distribution of anti-malaria materials to 292 ward health centres in Abia State, aimed at promoting the uptake of malaria prevention and treatment services in the state. The ma\u2026",
+      "url": "https://punchng.com/pan-africare-abia-begin-anti-malaria-campaign-in-292-health-centres/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/10/06223130/Abuja-primary-health-care-centres.jpg",
+      "publishedAt": "2024-08-07 00:19:01",
+      "content": "Pan Africare, in collaboration with the Abia State government, has flagged off the distribution of anti-malaria materials to 292 ward health centres in Abia State, aimed at promoting the uptake of ma\u2026 [+3316 chars]",
+      "retrievedAt": "2024-08-08 07:06:00.365598",
+      "internal_id": "b0e89dbc25befe08f52281ec5923dc887809e0211fdfb55a9065f162b14c4fbb",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11697,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Daniela Santos",
+      "title": "Bolsonaro ironiza avan\u00e7o da dengue: \u201cMosquitos unidos pela democracia\u201d",
+      "description": "O ex-presidente Jair Bolsonaro fez uma cr\u00edtica ao governo Lula em raz\u00e3o da alta de mortes pela dengue em 2024",
+      "url": "https://www.metropoles.com/brasil/bolsonaro-ironiza-avanco-da-dengue-mosquitos-unidos-pela-democracia",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/02104317/Jair-Bolsonaro-21.jpg",
+      "publishedAt": "2024-08-06 21:06:37",
+      "content": "O ex-presidente Jair Bolsonaro (PL) publicou nas redes sociais uma cr\u00edtica ao governo Luiz In\u00e1cio Lula da Silva (PT) pela alta nos casos de dengue no Brasil. Em uma postagem no Instagram, nesta ter\u00e7\u2026 [+871 chars]",
+      "retrievedAt": "2024-08-08 07:05:59.366898",
+      "internal_id": "3d157844aad69e23c048ead89d156d6cccc662233c69ffd5c601bd49fc284e52",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11699,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas confirma mais 6 mortes por dengue e chega a 54 \u00f3bitos pela doen\u00e7a em 2024",
+      "description": "De acordo com a Secretaria de Sa\u00fade, v\u00edtimas, que tinham entre 60 e 88 anos, vieram a \u00f3bito em maio. Cidade vive pior epidemia de dengue, com 117,3 mil casos confirmados. Mosquito Aedes aegypti, transmissor da dengue Reprodu\u00e7\u00e3o/RBS TV Com seis novas mortes co\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/08/06/campinas-confirma-mais-6-mortes-por-dengue-e-chega-a-54-obitos-pela-doenca-em-2024.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/c7onUgnkNAAG-fgAcrt7JR1ZIP4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/5/O/ypMtM4SSGfqB5hJxPGMA/dengue-1-.png",
+      "publishedAt": "2024-08-06 19:56:21",
+      "content": "Segundo a pasta, todas as v\u00edtimas, cinco do sexo feminino e uma do masculino, com idades entre 60 e 88 anos, apresentavam comorbidades - veja os detalhes: Sexo masculino, 60 anos, com comorb\u2026 [+5560 chars]",
+      "retrievedAt": "2024-08-08 07:05:59.423855",
+      "internal_id": "4dd927003902d32d07ddb7cbdfa1409dc319fc5c81b6f029b6844ef8a8e60949",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11704,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Theepochtimes.com",
+      "author": "Jack Phillips",
+      "title": "WHO Director Considers Declaring Public Health Emergency Over Mpox Virus Outbreak",
+      "description": "Mpox, also known as monkeypox, has reached outbreak levels in some African countries, officials warn.",
+      "url": "https://www.theepochtimes.com/health/who-director-considers-declaring-public-health-emergency-over-mpox-virus-outbreak-5700640",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2023/03/01/GettyImages-1245605859-700x420.jpg",
+      "publishedAt": "2024-08-06 19:48:33",
+      "content": "The World Health Organizations director-general said the United Nations health body is considering declaring an emergency for mpox, also known as monkeypox, amid an outbreak in Africa. But more fund\u2026 [+4091 chars]",
+      "retrievedAt": "2024-08-08 07:06:01.862905",
+      "internal_id": "0ac8a32361a2037fd3b9f03c7920b1f38acf6bca7c3e512eb2e9de1fc71fafa1",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 11702,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "66 Zika Virus Cases Reported In Pune Since June",
+      "description": "At least 66 confirmed cases of Zika Virus have come out in Pune city of Maharashtra, civic officials said on Tuesday.",
+      "url": "https://www.ndtv.com/india-news/zika-virus-66-cases-reported-in-pune-since-june-including-26-pregnant-women-6279568",
+      "urlToImage": "https://c.ndtvimg.com/2018-12/1lmjpsgo_zika-virus_625x300_01_December_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-08-06 19:18:21",
+      "content": "The first case of Zika virus infection in Pune this year was reported on June 20. (Representational) Pune: At least 66 confirmed cases of Zika Virus have come out in Pune city of Maharashtra, civic \u2026 [+1374 chars]",
+      "retrievedAt": "2024-08-08 07:06:01.027619",
+      "internal_id": "5ce902963e94feed4f2cb8e81a8cd40c7421b90c4e92f60b63bc9f4a98f1784e",
+      "publishedAtLabel": "Aug 6"
+    },
     {
       "id": 11695,
       "query": [
@@ -23172,6 +23334,186 @@
       "content": "10 beautiful fishes to keep in home aquariums for beginners",
       "retrievedAt": "2024-06-25 07:05:46.009156",
       "internal_id": "cf7eb9252f3e7f2a71d9cbbcd50f2add209aeccc78def5a53e63e09918c4c646",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10412,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Madrid, en alerta por dengue tras registrar el doble de casos que en 2023",
+      "description": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid ha duplicado en lo que llevamos de a\u00f1o los casos registrado\u2026",
+      "url": "https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2024/06/23/combo-mosquitotigre-U18720438030ZoL-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-06-23 17:48:28",
+      "content": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid\u2026 [+3708 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.292033",
+      "internal_id": "27eb8ba316639c8071ede24a550604bbbd2540ba2a2585772c56a18c5fb51433",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10409,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Europa Press",
+      "title": "El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
+      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los...",
+      "url": "https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/23e291a4bf337d48bf4a4d4223dfac48/crop/5x0/700x463/f/webp/assets/multimedia/imagenes/2024/06/23/17191631760710.jpg",
+      "publishedAt": "2024-06-23 17:26:45",
+      "content": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo perio\u2026 [+3892 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.238678",
+      "internal_id": "8db81fb0a134209d91cad20a2d9d397f9c8f8f987bee4bb69ffa34ff1ee58b10",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10408,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nath\u00e1lia Cardim",
+      "title": "DF manter\u00e1 faixa et\u00e1ria de vacina\u00e7\u00e3o contra dengue. Veja p\u00fablico-alvo",
+      "description": "Minist\u00e9rio da Sa\u00fade ampliou p\u00fablico-alvo em estados e munic\u00edpios com doses prestes a vencer. No DF, por\u00e9m, imunizantes s\u00f3 expiram em 2025",
+      "url": "https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/11141151/vacinacao-dengue-cruzeiro-criancas-10-11-anos-2.jpeg",
+      "publishedAt": "2024-06-23 17:11:57",
+      "content": "A Secretaria de Sa\u00fade do Distrito Federal (SES-DF) informou neste domingo (23/6) que n\u00e3o haver\u00e1 mudan\u00e7a na estrat\u00e9gia adotada pela pasta com rela\u00e7\u00e3o ao p\u00fablico-alvo da vacina\u00e7\u00e3o contra a dengue na ca\u2026 [+5109 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.211358",
+      "internal_id": "320658297cf021b4f5b323bfff0db2b5023606f8b81cb2272fe0a7d2e9ab8514",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10414,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Livia Kristianti, Raka Adji",
+      "title": "Vigilance key to successful dengue handling in children: Ministry",
+      "description": "Parents&#39; vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control ...",
+      "url": "https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/06/23/IMG-20240623-WA0101.jpg",
+      "publishedAt": "2024-06-23 15:21:55",
+      "content": "Jakarta (ANTARA) - Parents' vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control at the Ministry of Health\u2026 [+1870 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.327407",
+      "internal_id": "2496b9087671152e17309e85fe29b32971052ede992151afd8b149dbf10ca946",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10407,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Resilience",
+      "author": "Kurt Cobb",
+      "title": "What the H5N1 scare tells us about ourselves and our society",
+      "description": "I don't know whether there is an H5N1 \"bird flu\" pandemic in our future. We humans think we can build moats around our modern way of life that protect us from the natural world. All the while we have actually been building the equivalent of superhighways into\u2026",
+      "url": "https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/",
+      "urlToImage": "https://www.resilience.org/wp-content/uploads/2024/06/H5N1_Bird_Flu.jpg",
+      "publishedAt": "2024-06-23 15:03:03",
+      "content": "I don\u2019t know whether there is an H5N1 \u201cbird flu\u201d pandemic in our future. H5N1 seems to be very dangerous to humans. Half of the 900 people known to have contracted it worldwide since 2003 have died. \u2026 [+5039 chars]",
+      "retrievedAt": "2024-06-24 19:05:44.883629",
+      "internal_id": "62238520b3c315e4084be41b5b077c7cd990335ee2c4bd8c1fb74aeb434e6e9e",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10411,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "El dengue aumenta en la Comunidad: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
+      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo periodo del a\u00f1o 2023, seg\u00fan los \u00faltimos datos del \u00c1rea de Vigilan\u2026",
+      "url": "https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240623132950_1200.jpg",
+      "publishedAt": "2024-06-23 11:29:50",
+      "content": "MADRID, 23 Jun. (EUROPA PRESS) - Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplic\u2026 [+5875 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.283012",
+      "internal_id": "b56c770f8270b84a00b07c240e8722daf132d7a3d4b10e71900a9cdbb5f56902",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10410,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para p\u00fablico de 4 a 59 anos",
+      "description": "Minist\u00e9rio da Sa\u00fade diz que, preferencialmente, as doses devem ser remanejadas para cidades n\u00e3o contempladas, mas, em caso de necessidade, a faixa et\u00e1ria atendida pode ser ampliada",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/23/110087725-ycmfxt5i7rdo5hsujaog5fblou.png",
+      "publishedAt": "2024-06-23 10:24:33",
+      "content": "O Minist\u00e9rio da Sa\u00fade informou que as doses da vacina da dengue com o prazo pr\u00f3ximo ao vencimento entre junho e julho devem ser remanejadas para cidades ou usadas para ampliar a faixa et\u00e1ria atendida\u2026 [+1596 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.277233",
+      "internal_id": "bc310198810c439c113360287caf4bc652c190f5b4ef0ac3f27ad4221f1dba31",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10413,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Ginny Reese",
+      "title": "Florida dept of health confirms local human case of dengue fever",
+      "description": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever.",
+      "url": "https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever",
+      "urlToImage": "https://img.particlenews.com/img/id/3RZR15_0u0aR5p700?type=thumbnail_1600x1200",
+      "publishedAt": "2024-06-23 10:02:31",
+      "content": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever. DOH-Hillsborough and Hillsborough County Mosquito Control ar\u2026 [+1307 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.311734",
+      "internal_id": "2699b7e0152fddd6e1b132528b2520bd5dc07d5aa79c7c0f2e2d271f9a14fbf3",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10406,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Jesse Hyland",
+      "title": "Bird flu found at second poultry farm in Hawkesbury area \u2014 just kilometres away from site of initial outbreak",
+      "description": "An outbreak of bird flu has been detected on a second farm in Sydney's north-west, with more than 86,000 chickens to be culled.",
+      "url": "https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d5d6a00e59b4a6fcc93dc7a56632bb8b?impolicy=wcms_watermark_news&cropH=913&cropW=1623&xPos=133&yPos=167&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-06-23 07:52:57",
+      "content": "In short: A second farm in the Hawkesbury region has been confirmed to have the HPAI H7N8 strain of avian influenza.The chicken meat farm is within the restricted biosecurity zone se\u2026 [+3610 chars]",
+      "retrievedAt": "2024-06-24 19:05:44.432602",
+      "internal_id": "4e996e79db6da56a5397a593b33cf52eaed5958e91ce81243db7ca33a1bb1518",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Auch Urlaubsorte betroffen: Italien k\u00e4mpft mit doppelter Dengue-Belastung",
+      "description": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die F\u00e4lle, die durch Tigerm\u00fccken in Italien verursacht werden. \u2026",
+      "url": "https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25029658/8121325893-cImg_16_9-w1200/220432705.jpg",
+      "publishedAt": "2024-06-23 07:06:44",
+      "content": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die\u2026 [+5656 chars]",
+      "retrievedAt": "2024-06-24 07:07:00.243495",
+      "internal_id": "df75e123d194d7a022ad7278ab605fb63631805af05d41b3b6827e05b28ec592",
       "publishedAtLabel": "Jun 23"
     }
   ]
