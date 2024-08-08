@@ -1,8 +1,784 @@
 {
-  "last_updated": "2024-08-08 07:06",
-  "count_articles_total": 1301,
-  "count_articles_new": 9,
+  "last_updated": "2024-08-08 19:05",
+  "count_articles_total": 1334,
+  "count_articles_new": 43,
   "articles": [
+    {
+      "id": 11720,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Oprydning efter kemikalieuheld i Roskilde afsluttet",
+      "description": "Myndighederne er nu blevet f\u00e6rdige med med at rydde op efter et uheld i en industribygning p\u00e5 Maglebyvej i Roskilde. Det skriver Midt- og Vestsj\u00e6llands Politi p\u00e5 det sociale medie X.",
+      "url": "https://www.dr.dk/nyheder/seneste/oprydning-efter-kemikalieuheld-i-roskilde-afsluttet",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-07 18:48:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.505632",
+      "internal_id": "44469ee040913542cf4d64f95ff7dfae9d98494a69ea21df33a0826ffc9981c0",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11719,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "To strandede astronauter p\u00e5 ISS kan m\u00e5ske f\u00f8rst komme hjem til n\u00e6ste \u00e5r",
+      "description": "To NASA-astronauter, som i starten af juni blev sendt op til Den Internationale Rumstation, ISS, skulle oprindeligt kun have v\u00e6ret af sted i otte til ti dage med Boeings rumfart\u00f8j Starliner.",
+      "url": "https://www.dr.dk/nyheder/seneste/strandede-astronauter-paa-iss-kan-maaske-foerst-komme-hjem-til-naeste-aar",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2024%2F08%2F07%2F20240702-193831-3-1920x1279we.jpg&w=700",
+      "publishedAt": "2024-08-07 18:45:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.500839",
+      "internal_id": "8e8ee10f58fae963c15d03b3d73de2aaa2299dea3b3496e18f44a44cee0321db",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11745,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "OMS vai convocar comit\u00ea de emerg\u00eancia para avaliar risco internacional de surto de Mpox",
+      "description": "O chefe da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) disse nesta quarta-feira que ser\u00e1 convocado um ...",
+      "url": "https://www.terra.com.br/noticias/mundo/oms-vai-convocar-comite-de-emergencia-para-avaliar-risco-internacional-de-surto-de-mpox,a4749e8c41d0b4ca42210811764043a6utpsc7sc.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/08/07/58797.jpg",
+      "publishedAt": "2024-08-07 18:38:01",
+      "content": "O chefe da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) disse nesta quarta-feira que ser\u00e1 convocado um comit\u00ea de emerg\u00eancia para discutir se o atual surto de Mpox na Rep\u00fablica Democr\u00e1tica do Congo representa u\u2026 [+2362 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.686287",
+      "internal_id": "48a56f986862d6338d6625e416aa4e3b2fcaff228e4867dcf526eb9d95f055e4",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11726,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Rachel Dobkin",
+      "title": "WHO Considers Declaring Mpox in Africa a Global Emergency",
+      "description": "WHO Director-General Tedros Adhanom Ghebreyesus said on Wednesday that he will soon convene an emergency committee on mpox.",
+      "url": "https://www.newsweek.com/who-mpox-africa-global-emergency-1936053",
+      "urlToImage": "https://d.newsweek.com/en/full/2445279/tedros-adhanom-ghebreyesus.jpg",
+      "publishedAt": "2024-08-07 18:11:48",
+      "content": "The head of the World Health Organization (WHO) announced on Wednesday that an independent expert group will be convened to determine if the increasing spread of the mpox virus in Africa should be de\u2026 [+3621 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.546934",
+      "internal_id": "41df33154238a01d49a4e5e3a74a90efc4996944e33edb21cc7dcb951e914d0d",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11718,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "To anholdte i \u00d8strig mist\u00e6nkes for terrorplaner mod Taylor Swift-koncert",
+      "description": "To personer er anholdt i \u00d8strig mist\u00e6nkt for blandt andet at planl\u00e6gge et terroranslag mod en koncert med den amerikanske verdensstjerne Taylor Swift i Wien.",
+      "url": "https://www.dr.dk/nyheder/seneste/anholdte-i-oestrig-mistaenkes-terrorplaner-mod-taylor-swift-koncert",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-07 17:38:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.495593",
+      "internal_id": "84033b0139f8df280d48399b9e6792b986579b6480b1ad92643f211718e5acaf",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11746,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "WHO calls emergency meeting on mpox spread",
+      "description": "GENEVA: World Health Organization chief Tedros Adhanom Ghebreyesus on Wednesday (Aug 7) called an \"emergency\" meeting of international experts amidst growing worries over the mpox virus. With mpox spreading outside of the Democratic Republic of Congo, Tedros \u2026",
+      "url": "https://www.channelnewsasia.com/world/who-calls-emergency-meeting-mpox-spread-4533586",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--RuohC3Jc--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-07-24t085256z_1_lynxmpek6n0c9_rtroptp_3_health-mpox-congo.jpg?itok=1t3N5x-5",
+      "publishedAt": "2024-08-07 17:38:00",
+      "content": "Since September 2023, a different strain of mpox, the Clade Ib subclade, has been surging in DR Congo.On Jul 11, Tedros said more than 11,000 cases and 445 deaths had been reported in the giant Afric\u2026 [+247 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.695197",
+      "internal_id": "7d6b1bdcb14092091f4eaae70bc23f2195b314df9d38d0fcb978d0bd834905a1",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11728,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "SvD",
+      "title": "Larm om ny skottlossning norr om Stockholm",
+      "description": "Polis har larmats om ytterligare en skottlossning i Stockholmsomr\u00e5det.",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=42424",
+      "urlToImage": "https://static.svd.se/assets/assets/images/logo-sharing-backup.png",
+      "publishedAt": "2024-08-07 17:36:14",
+      "content": "V\u00e4rldsh\u00e4lsoorganisationen WHO kallar till krism\u00f6te efter nya larmrapporter om spridning av mpox, tidigare k\u00e4nt som apkoppsvirus. Utbrott av mpox uppt\u00e4cktes i Kongo-Kinshasa, men verkar ha spridits u\u2026 [+627 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.557892",
+      "internal_id": "66701b41237e33e7a97b947ffa4b39f1b0303a01e9f678803503b145383b9aa6",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11721,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Politiet: Den ulovlige bande LTF er del af en voldelig konflikt",
+      "description": "De seneste m\u00e5neder har banden Loyal to Familia (LTF), som en h\u00f8jesteretsdom i 2021 kendte ulovlig, ligget i voldelig konflikt med en anden unavngiven kriminel gruppe.",
+      "url": "https://www.dr.dk/nyheder/seneste/politiet-den-ulovlige-bande-ltf-er-del-af-en-voldelig-konflikt",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-07 17:20:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.510600",
+      "internal_id": "a8938ab40123a9a496b29bd5ae3db3350ee030a95cae1ec7b9c6239d4caaf594",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11734,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i",
+      "title": "Mpox. OMS re\u00fane comit\u00e9 de emerg\u00eancia devido aumento de casos",
+      "description": "Motivo da convoca\u00e7\u00e3o do do comit\u00e9 de emerg\u00eancia da OMS prende-se com a propaga\u00e7\u00e3o da infe\u00e7\u00e3o da Rep\u00fablica Democr\u00e1tica do Congo (RDC), onde foi detetada a nova estirpe, O conte\u00fado Mpox. OMS re\u00fane comit\u00e9 de emerg\u00eancia devido aumento de casos aparece primeiro em\u2026",
+      "url": "https://ionline.sapo.pt/2024/08/07/mpox-oms-reune-comite-de-emergencia-devido-aumento-de-casos/",
+      "urlToImage": "https://ionline.sapo.pt/wp-content/uploads/2024/08/dreamstime_m_264061818.jpg",
+      "publishedAt": "2024-08-07 17:16:56",
+      "content": "Motivo da convoca\u00e7\u00e3o do do comit\u00e9 de emerg\u00eancia da OMS prende-se com a propaga\u00e7\u00e3o da infe\u00e7\u00e3o da Rep\u00fablica Democr\u00e1tica do Congo (RDC), onde foi detetada a nova estirpe, A Organiza\u00e7\u00e3o Mundial da Sa\u00fade \u2026 [+743 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.623632",
+      "internal_id": "05ed7176118af6c03029485993ca844f53f5d1ec7da8d757f4befe9f7a543cfa",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11741,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La OMS revisar\u00e1 si la infecciosa mpox vuelve a ser una emergencia sanitaria internacional",
+      "description": "Actualmente el riesgo es considerado alto en Congo y moderado en la regi\u00f3n circundante a ese inmenso pa\u00eds.",
+      "url": "https://www.montevideo.com.uy/Salud/La-OMS-revisara-si-la-infecciosa-mpox-vuelve-a-ser-una-emergencia-sanitaria-internacional-uc896458",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/811285.jpg",
+      "publishedAt": "2024-08-07 17:16:00",
+      "content": "El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, confirm\u00f3 este mi\u00e9rcoles que el Comit\u00e9 de Emergencia que le asesora sobre los brotes epid\u00e9micos que pued\u2026 [+2454 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.666204",
+      "internal_id": "eb604447c5ce894f5258696427468211073406b2199e31ecdc8fa6bc92ed098d",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11717,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "WHO indkalder til krisem\u00f8de efter nye tilf\u00e6lde af mpox",
+      "description": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de.",
+      "url": "https://www.dr.dk/nyheder/seneste/who-indkalder-til-krisemoede-efter-nye-tilfaelde-af-mpox",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-07 17:04:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.490828",
+      "internal_id": "15a0f1c087e715836d0e9b5a078027dad703036df6b1906753fd0aaecc058cf6",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11722,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Mpox: WHO beruft Notfallausschuss ein",
+      "description": "",
+      "url": "https://orf.at/stories/3365947/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-08-07 17:02:11",
+      "content": "Angesichts einer besorgniserregenden Variante des Mpox-Virus in Afrika soll in K\u00fcrze der Notfallausschuss der Weltgesundheitsorganisation (WHO) tagen. Das gab WHO-Generaldirektor Tedros Adhanom Ghebr\u2026 [+1594 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.523055",
+      "internal_id": "1e467cecd4152cabd55ebcc442fd029cd871c103829cc52125f36f1a8fdca03a",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11723,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Agence France-Presse)",
+      "title": "WHO calls emergency meeting on mpox spread",
+      "description": "Geneva \u2014 World Health Organization chief Tedros Adhanom Ghebreyesus on Wednesday called an \"emergency\" meeting of international experts amidst growing worries over the mpox virus. With mpox spreading outside of the Democratic Republic of Congo, Tedros said \u2026",
+      "url": "https://www.voanews.com/a/who-calls-emergency-meeting-on-mpox-spread/7733472.html",
+      "urlToImage": "https://gdb.voanews.com/2A4F3118-89B9-4E00-87BE-4AACABB53D34.jpg",
+      "publishedAt": "2024-08-07 16:48:43",
+      "content": "Geneva World Health Organization chief Tedros Adhanom Ghebreyesus on Wednesday called an \"emergency\" meeting of international experts amidst growing worries over the mpox virus. With mpox spreading\u2026 [+1457 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.527995",
+      "internal_id": "ddade3753d8211829e802f597e9d81664cda2c03428ee156da50578e28bd9643",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11737,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "fdb",
+      "title": "WHO roept noodcomit\u00e9 samen in internationale strijd tegen apenpokken",
+      "description": "De Wereldgezondheidsorganisatie (WHO) wil \u201czo snel mogelijk\u201d het noodcomit\u00e9 samenroepen om de internationale verspreiding van het apenpokkenvirus (mpox) te evalueren. Het comit\u00e9 met experten moet bepalen of het hoogste alarmniveau (de gezondheidsnoodtoestand)\u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20240807_95985875",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/08/07/fbebb6c4-9a2d-4888-b1b3-de72b9481456.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-08-07 16:36:54",
+      "content": "De Wereldgezondheidsorganisatie (WHO) wil zo snel mogelijk het noodcomit\u00e9 samenroepen om de internationale verspreiding van het apenpokkenvirus (mpox) te evalueren. Het comit\u00e9 met experten moet bepal\u2026 [+1359 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.642591",
+      "internal_id": "47136f275651183615b8820ae27d9dcf34c75d0a2984590489bf47f02bfa0bcf",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11729,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "SvD",
+      "title": "Skottlossning i s\u00f6dra Stockholm",
+      "description": "En skottlossning har intr\u00e4ffat i n\u00e4rheten av tunnelbanestationen i Bagarmossen i s\u00f6dra Stockholm, rapporterar TV4.",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=42422",
+      "urlToImage": "https://static.svd.se/assets/assets/images/logo-sharing-backup.png",
+      "publishedAt": "2024-08-07 16:27:12",
+      "content": "V\u00e4rldsh\u00e4lsoorganisationen WHO kallar till krism\u00f6te efter nya larmrapporter om spridning av mpox, tidigare k\u00e4nt som apkoppsvirus. Utbrott av mpox uppt\u00e4cktes i Kongo-Kinshasa, men verkar ha spridits u\u2026 [+627 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.563105",
+      "internal_id": "f8d52ab60ffb353547f8cce5cb0cdc66b8ec2ad921c0befa50b64b6bad06979e",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11738,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "fdb",
+      "title": "WHO roept noodcomit\u00e9 samen in internationale strijd tegen apenpokken",
+      "description": "De Wereldgezondheidsorganisatie (WHO) wil \u201czo snel mogelijk\u201d het noodcomit\u00e9 samenroepen om de internationale verspreiding van het apenpokkenvirus (mpox) te evalueren. Het comit\u00e9 met experten moet bepalen of het hoogste alarmniveau, de gezondheidsnoodtoestand,\u2026",
+      "url": "https://www.gva.be/cnt/dmf20240807_95913563",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/08/07/fbebb6c4-9a2d-4888-b1b3-de72b9481456.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-08-07 16:25:29",
+      "content": "De Wereldgezondheidsorganisatie (WHO) wil zo snel mogelijk het noodcomit\u00e9 samenroepen om de internationale verspreiding van het apenpokkenvirus (mpox) te evalueren. Het comit\u00e9 met experten moet bepal\u2026 [+1567 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.651177",
+      "internal_id": "e854f4a5d146759d3f8ab3b2ed41fd339142e018e32aa860fcf8b5794772fc68",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11740,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": null,
+      "title": "WHO roept noodcomit\u00e9 samen in internationale strijd tegen apenpokken",
+      "description": "De Wereldgezondheidsorganisatie (WHO) wil \"zo snel mogelijk\" het noodcomit\u00e9 samenroepen om de internationale verspreiding van het apenpokkenvirus (mpox) te evalueren. Het comit\u00e9 met experten moet bepalen of het hoogste alarmniveau (de gezondheidsnoodtoestand)\u2026",
+      "url": "https://www.vrt.be/vrtnws/nl/2024/08/07/who-apenpokken-noodcomite/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/08/07/d79770da-54d8-11ef-92ff-02b7b76bf47f.jpg",
+      "publishedAt": "2024-08-07 16:23:09",
+      "content": "In Congo woedt het apenpokkenvirus al sinds begin dit jaar. In het Afrikaanse land werden al meer dan 14.000 verdachte gevallen en zeker 511 dodelijke slachtoffers gemeld. De Wereldgezondheidsorganis\u2026 [+898 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.660956",
+      "internal_id": "f8dd40e40baa177149be2bf621ab9011b41cb07dc63ec0e55d4bd9a9d5f55c1a",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11736,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "fdb",
+      "title": "WHO roept noodcomit\u00e9 samen in internationale strijd tegen apenpokken",
+      "description": "De Wereldgezondheidsorganisatie (WHO) wil \u201czo snel mogelijk\u201d het noodcomit\u00e9 samenroepen om de internationale verspreiding van het apenpokkenvirus (mpox) te evalueren. Het comit\u00e9 met experten moet bepalen of het hoogste alarmniveau (de gezondheidsnoodtoestand)\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20240807_95875760",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/08/07/fbebb6c4-9a2d-4888-b1b3-de72b9481456.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-08-07 16:19:10",
+      "content": "De Wereldgezondheidsorganisatie (WHO) wil zo snel mogelijk het noodcomit\u00e9 samenroepen om de internationale verspreiding van het apenpokkenvirus (mpox) te evalueren. Het comit\u00e9 met experten moet bepal\u2026 [+1359 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.637442",
+      "internal_id": "687c8b9acf861ebd9dac1ab870103a450df4ca7120eb1ae1f140dc30c6d6f762",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11731,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "UN health agency convening experts meeting to decide if mpox outbreak in Africa is global emergency",
+      "description": "The head of the World Health Organization says he will convene an expert group to determine if the increasing spread of the mpox virus in Africa warrants being declared a global emergency",
+      "url": "https://abcnews.go.com/International/wireStory/health-agency-convening-experts-meeting-decide-mpox-outbreak-112646011",
+      "urlToImage": "https://i.abcnewsfe.com/a/685f6fd6-3cb8-4b17-8a45-ab796600b5c1/wirestory_6fbd377ba1a9f3b2e344673978ff47c7_16x9.jpg?w=1600",
+      "publishedAt": "2024-08-07 16:06:46",
+      "content": "GENEVA -- The head of the World Health Organization said Wednesday he will convene an expert group to determine if the increasing spread of the mpox virus in Africa warrants being declared a global e\u2026 [+2204 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.588651",
+      "internal_id": "76d91a43b175b0d65633b6b34f09a5712171f4264f8598caeca724ebb6eaa56c",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11739,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Espa\u00f1a es el pa\u00eds con m\u00e1s casos de mpox desde 2022, seguido por Francia y Reino Unido",
+      "description": "Espa\u00f1a ha registrado un total de 8.084 casos de mpox desde 2022, siendo el pa\u00eds europeo con m\u00e1s incidencia, seguido por Francia (4.272) y Reino Unido (3.866), seg\u00fan el \u00faltimo informe del Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC, po\u2026",
+      "url": "https://www.infosalus.com/actualidad/noticia-espana-pais-mas-casos-mpox-2022-seguido-francia-reino-unido-20240807180552.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240807180552_1200.jpg",
+      "publishedAt": "2024-08-07 16:05:52",
+      "content": "MADRID, 7 Ago. (EUROPA PRESS) - Espa\u00f1a ha registrado un total de 8.084 casos de mpox desde 2022, siendo el pa\u00eds europeo con m\u00e1s incidencia, seguido por Francia (4.272) y Reino Unido (3.866), seg\u00fan\u2026 [+4121 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.655944",
+      "internal_id": "e0710bdf900d264cf5d39d4a12595344e1836ebee77dc93a33357406e0146715",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11743,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "WHO kallar till krism\u00f6te om mpox",
+      "description": "\u25b8 V\u00e4rldsh\u00e4lsoorganisationen WHO kallar till krism\u00f6te efter nya larmrapporter om spridning av mpox, tidigare k\u00e4nt som\u2026",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1280484",
+      "urlToImage": "https://imbo.vgc.no/users/bt/images/9dbddc839fdaa9f67af49532ecf19517?t%5B%5D=maxSize%3Awidth%3D1200&publicKey=bt-w&accessToken=b6fcdb1f156dc2a34b6791f67a8cf54909e413fbed9e9bf28ab647f49662b4ea",
+      "publishedAt": "2024-08-07 16:02:16",
+      "content": "TRE NYHETER DU INTE F\u00c5R MISSA: WHO kallar till krism\u00f6te om mpox Tidigare vaccinering mot en typ av mpox. Arkivbild. Foto: Jeenah Moon/AP/TT V\u00e4rldsh\u00e4lsoorganisationen WHO kallar till krism\u00f6\u2026 [+15207 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.676018",
+      "internal_id": "7b423712a16b7a37646b8faee8f41375f5eb5d826e4aa0a90b55103a1093e422",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11724,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "redaktionen@expressen.se (TT)",
+      "title": "WHO kallar till krism\u00f6te om mpox",
+      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO kallar till krism\u00f6te efter nya larmrapporter om spridning av mpox, tidigare k\u00e4nt som apkoppsvirus.",
+      "url": "https://www.expressen.se/nyheter/varlden/who-kallar-till-krismote-om-mpox/",
+      "urlToImage": "https://www.expressen.se/images/logotype-for-sharing.png",
+      "publishedAt": "2024-08-07 16:00:59",
+      "content": "Utbrott av mpox uppt\u00e4cktes i Kongo-Kinshasa, men verkar ha spridits utanf\u00f6r de f\u00f6rsta smittomr\u00e5dena och till fler l\u00e4nder. WHO:s generalsekreterare Tedros Adhanom Ghebreyesus sade att WHO:s kriskommi\u2026 [+497 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.533394",
+      "internal_id": "566e1f3e75eb7d803f15878e4667a6c966ea8d7fec5f8b3b7eb81630f8598d87",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11744,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "WHO kallar till krism\u00f6te om mpox",
+      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO kallar till krism\u00f6te efter nya larmrapporter om spridning av mpox, tidigare k\u00e4nt som apkoppsvirus.",
+      "url": "https://www.aftonbladet.se/nyheter/a/zAOaMb/who-kallar-till-krismote-om-mpox",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/f3043964-7081-4847-ba35-f660c6c0e6c5?fit=crop&format=auto&h=1267&q=50&w=1900&s=40460dfe8df06397e05b29ab539e3e72bb4d38d0",
+      "publishedAt": "2024-08-07 16:00:01",
+      "content": "share-arrow Dela V\u00e4rldsh\u00e4lsoorganisationen WHO kallar till krism\u00f6te efter nya larmrapporter om spridning av mpox, tidigare k\u00e4nt som apkoppsvirus. Utbrott av mpox uppt\u00e4cktes i Kongo-Kinshasa, men v\u2026 [+646 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.681077",
+      "internal_id": "197f028fa3430442c301d7ac5bfe565f50a6c292ee1a0570f540e7dc0ee1c8c2",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11747,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: WHO-Chef beruft Notfallausschuss wegen Mpox ein",
+      "description": "Die Krankheit Mpox hat 2022 die Welt aufgeschreckt, wurde aber schnell unter Kontrolle gebracht. Jetzt gibt es eine neue, gef\u00e4hrliche Variante.",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-who-chef-beruft-notfallausschuss-wegen-mpox-ein-12162722.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12162719/alternates/BASE_16_9_W1400/1723045952000/eine-gefahrliche-mpox-variante-alarmiert-fachleute.jpeg",
+      "publishedAt": "2024-08-07 15:52:32",
+      "content": "Angesichts einer besorgniserregenden Variante der gef\u00e4hrlichen Krankheit Mpox in Afrika soll in K\u00fcrze der Notfallausschuss der Weltgesundheitsorganisation (WHO) tagen. Das gab WHO-Generaldirektor Ted\u2026 [+2486 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.707943",
+      "internal_id": "8d228a84e1d1cfb16bb47e4df14f391bff6c1e4b768b1f261f9112aed9e14d39",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11715,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: WHO-Chef beruft Notfallausschuss wegen Mpox ein",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eWHO-Chef beruft Notfallausschuss wegen Mpox ein\u201c.",
+      "url": "https://www.zeit.de/news/2024-08/07/who-chef-beruft-notfallausschuss-wegen-mpox-ein",
+      "urlToImage": "https://img.zeit.de/news/2024-08/07/who-chef-beruft-notfallausschuss-wegen-mpox-ein-image-group/wide__1300x731",
+      "publishedAt": "2024-08-07 15:51:38",
+      "content": "Angesichts einer besorgniserregenden Variante der gef\u00e4hrlichen Krankheit Mpox in Afrika soll in K\u00fcrze der Notfallausschuss der Weltgesundheitsorganisation (WHO) tagen. Das gab WHO-Generaldirektor Ted\u2026 [+2775 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.460095",
+      "internal_id": "e32b7d44f4192aab92963fa1f542990b3d5294358c97af6d49c3eda317c49687",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11716,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: WHO-Chef beruft Notfallausschuss wegen Mpox ein",
+      "description": "Die Krankheit Mpox hat 2022 die Welt aufgeschreckt, wurde aber schnell unter Kontrolle gebracht. Jetzt gibt es eine neue, gef\u00e4hrliche Variante.",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--who-chef-beruft-notfallausschuss-wegen-mpox-ein-34959906.html",
+      "urlToImage": "https://image.stern.de/34959908/t/Lr/v1/w1440/r1.7778/-/07--enhwzro3u3v13axw800h600jpeg---d00b84e52ad91352.jpg",
+      "publishedAt": "2024-08-07 15:51:38",
+      "content": "Die Krankheit Mpox hat 2022 die Welt aufgeschreckt, wurde aber schnell unter Kontrolle gebracht. Jetzt gibt es eine neue, gef\u00e4hrliche Variante. Angesichts einer besorgniserregenden Variante der gef\u00e4\u2026 [+1880 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.485588",
+      "internal_id": "f710c3ddb6563be7bee554ec471f175b5533ef37b2676d8675b75286672f7ec3",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11732,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Belga Belga",
+      "title": "Variole du singe: l'OMS va convoquer une r\u00e9union du comit\u00e9 d'urgence face \u00e0 l'\u00e9pid\u00e9mie",
+      "description": "L'Organisation mondiale de la sant\u00e9 (OMS) a confirm\u00e9 la prochaine convocation d'une r\u00e9union de son comit\u00e9 d'urgence autour de l'\u00e9pid\u00e9mie de mpox, aussi appel\u00e9 \"variole du singe\". Le Dr Tedros Adhanom Ghebreyesus, directeur g\u00e9n\u00e9ral de l'OMS, a confirm\u00e9 l'infor\u2026",
+      "url": "https://www.lalibre.be/planete/sante/2024/08/07/variole-du-singe-loms-va-convoquer-une-reunion-du-comite-durgence-face-a-lepidemie-JDIVJ7YWAFF3RF3T4QOAR5EUAA/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/6QR2GXHI2BEFTCXSN2AQIQE2SI.jpg?auth=7e71427f88c76899f2474d3aba5b889fed2a80729b945482a9548c055b89d1fe&width=1200&height=630&quality=85&focal=1250%2C831&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2024-08-07 15:27:47",
+      "content": "Les premi\u00e8res alertes autour de la variole du singe ont \u00e9merg\u00e9 d\u00e9but juillet en R\u00e9publique d\u00e9mocratique du Congo, et plus pr\u00e9cis\u00e9ment dans la r\u00e9gion du Sud-Kivu. Depuis, le Burundi, la C\u00f4te d'Ivoire,\u2026 [+951 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.597711",
+      "internal_id": "2de8caff37a7a9c40cafc7e6e53ae7dccbd381b7dea784f6d6a258a0d4327c43",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11730,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Activistpost.com",
+      "author": "Activist Post",
+      "title": "WHO Director Considers Declaring Public Health Emergency Over Mpox Virus Outbreak",
+      "description": "Authored by Jack Phillips via The Epoch Times, The World Health Organization\u2019s director-general said the United Nations health body is considering declaring an emergency for... WHO Director Considers Declaring Public Health Emergency Over Mpox Virus Outbreak",
+      "url": "https://www.activistpost.com/2024/08/who-director-considers-declaring-public-health-emergency-over-mpox-virus-outbreak.html",
+      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2024/08/tedros-tlav-1024x603-1.png",
+      "publishedAt": "2024-08-07 15:11:55",
+      "content": "Authored by Jack Phillips via The Epoch Times, The World Health Organizations director-general said the United Nations health body is considering declaring an emergency for mpox, also known as monke\u2026 [+4408 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.583458",
+      "internal_id": "62e0f9414b3427bd8cac498d83eb532e9498810b779866b3e0fe4863f804819e",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11733,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "WHO kaller inn til krisem\u00f8te om mpox",
+      "description": "Den siste m\u00e5neden er det p\u00e5vist 50 bekreftede tilfeller av mpox i Burundi, Kenya, Rwanda og Uganda. I tillegg er det oppdaget flere ubekreftede tilfeller av viruset. Det opplyser leder i Verdens helseorganisasjon (WHO) Tedros Adhanom Ghebreyesus onsdag, if\u00f8lg\u2026",
+      "url": "https://www.nrk.no/nyheter/who-kaller-inn-til-krisemote-om-mpox-1.16994037",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.508/common/img/default.jpg",
+      "publishedAt": "2024-08-07 15:00:18",
+      "content": "7. august2024kl.17:00Den siste m\u00e5neden er det p\u00e5vist 50 bekreftede tilfeller av mpox i Burundi, Kenya, Rwanda og Uganda. I tillegg er det oppdaget flere ubekreftede tilfeller av viruset. Det opplyse\u2026 [+547 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.614855",
+      "internal_id": "f6e86dc7f6dc2a6c3c31e3f15cfc15cfa58ed7ae7ff56bad6579e572db0fb3c1",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11710,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Dagospia.com",
+      "author": null,
+      "title": "DENGUE? ARIDANGHE \u2013 DALL\u2019INIZIO DELL\u2019ANNO SONO STATI CONFERMATI 324 CASI DI DENGUE: LA MET\u00c0 DI ESSI \u00c8 IN VENETO, LOMBARDIA E LAZIO, E TUTTI SONO STATI CONTRATTI ALL\u2019ESTERO \u2013 FORTUNATAMENTE NESSUNO \u00c8 STATO LETALE \u2013 I DATI DEL SISTEMA NAZIONALE DI SORVEGLIANZA DELL\u2019ISTITUTO SUPERIORE DI SANIT\u00c0: CI SONO STATI 8 CASI DI CHIKUNGUNYA, 4 DI ZIKA E\u2026",
+      "description": "Zanzara tigre (ANSA) - Dall'inizio dell'anno al 5 agosto in Italia sono stati confermati 324 casi di Dengue, circa la met\u00e0 in sole tre Regioni (Veneto, Lombardia e Lazio). Tutti erano associati a viaggi all'estero. Nessuno \u00e8 stato letale. Sono alcuni dei d\u2026",
+      "url": "https://www.dagospia.com/rubrica-29/cronache/dengue-aridanghe-ndash-dall-rsquo-inizio-dell-rsquo-anno-sono-stati-404225.htm",
+      "urlToImage": "https://cdn-static.dagospia.com/img/patch/11-2023/dengue-1917336.jpg",
+      "publishedAt": "2024-08-07 14:51:00",
+      "content": "Zanzara tigre (ANSA) - Dall'inizio dell'anno al 5 agosto in Italia sono stati confermati 324 casi di Dengue, circa la met\u00e0 in sole tre Regioni (Veneto, Lombardia e Lazio). Tutti erano associati a v\u2026 [+1747 chars]",
+      "retrievedAt": "2024-08-08 19:05:41.122026",
+      "internal_id": "5063363ed7b9f610ded2e12eb059c058b41ffa0e3f237ffffca772e881777893",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11709,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Frederik J\u00f6tten",
+      "title": "Wie gef\u00e4hrlich ist die Vogelgrippe?: \u201eDer Erreger kann den Menschen nicht sehr gut infizieren\u201c",
+      "description": "Die Forscherin Marylyn Addo \u00fcber den heiligen Gral der Impfstoffforschung und dar\u00fcber, warum man Menschen, die jetzt gegen H5N1 geimpft werden wollen, die Gegenfrage stellen sollte: Sind Sie gegen die saisonale Grippe geimpft?",
+      "url": "https://www.tagesspiegel.de/gesundheit/wie-gefahrlich-ist-die-vogelgrippe-der-erreger-kann-den-menschen-nicht-sehr-gut-infizieren-12133223.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12154319/alternates/BASE_16_9_W1400/1723040436000/vogelgrippe006-tierseuchenubung-in-hattingen.jpeg",
+      "publishedAt": "2024-08-07 14:21:38",
+      "content": "Frau Addo, die Furcht, dass sich die sogenannte Vogelgrippe (H5N1) zu einer Pandemie unter Menschen entwickeln k\u00f6nnte, bleibt pr\u00e4sent. W\u00e4ren wir in Deutschland mit Impfstoffen gut vorbereitet auf ein\u2026 [+1166 chars]",
+      "retrievedAt": "2024-08-08 19:05:40.450811",
+      "internal_id": "68866fa75cc715629948e118aa4c3f4429ba9b22fff4910b2a67ba57be4236a3",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11711,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "S\u00falyos tanulm\u00e1ny jelent meg: ezek a v\u00edrusok okozhatj\u00e1k a k\u00f6vetkez\u0151 nagy j\u00e1rv\u00e1nyt",
+      "description": "Az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet (WHO) legfrissebb jelent\u00e9s\u00e9ben t\u00f6bb mint 30 olyan k\u00f3rokoz\u00f3t azonos\u00edtottak, amelyek potenci\u00e1lisan egy k\u00f6vetkez\u0151 vil\u00e1gj\u00e1rv\u00e1nyt okozhatnak. A list\u00e1n szerepl\u0151 v\u00edrusok \u00e9s bakt\u00e9riumok k\u00f6z\u00e9 tartozik az influenza A v\u00edrus, a dengue v\u00edrus\u2026",
+      "url": "https://www.portfolio.hu/global/20240807/sulyos-tanulmany-jelent-meg-ezek-a-virusok-okozhatjak-a-kovetkezo-nagy-jarvanyt-703001",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/v/i/l/vilagjarvany-koronavirus-jarvany-influenza-covid-who-695589.jpg",
+      "publishedAt": "2024-08-07 14:15:00",
+      "content": "A WHO j\u00falius 30-\u00e1n k\u00f6zz\u00e9tett jelent\u00e9s\u00e9ben szerepl k\u00f3rokoz\u00f3kat fertzk\u00e9pess\u00e9g\u00fck, \u00e9s az \u00e1ltaluk okozott betegs\u00e9gek s\u00falyoss\u00e1ga szerint, v\u00e1lasztott\u00e1k ki. Ezeken k\u00edv\u00fcl a vakcin\u00e1k \u00e9s kezel\u00e9sek el\u00e9rhets\u00e9g\u00e9t \u2026 [+1617 chars]",
+      "retrievedAt": "2024-08-08 19:05:41.131610",
+      "internal_id": "3b0ac6afd722245cd8fa6dc52019044e7556955ff6e31b45f2c59d355f00b812",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11712,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "GPS Bras\u00edlia, GPS Bras\u00edlia",
+      "title": "Brasil ultrapassa marca de 5 mil mortes por dengue",
+      "description": "O Brasil j\u00e1 contabiliza 5.008 mortes por dengue em 2024. O n\u00famero \u00e9 mais de...",
+      "url": "https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-08-07/brasil-ultrapassa-marca-de-5-mil-mortes-por-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/4s/iu/xu/4siuxumf9wi400g9sme6rg7gv.jpg",
+      "publishedAt": "2024-08-07 13:03:04",
+      "content": "O Brasil j\u00e1 contabiliza 5.008 mortes por dengue em 2024. O n\u00famero \u00e9 mais de quatro vezes superior ao registrado ao longo de todo o ano anterior, quando foram notificados 1.179 \u00f3bitos pela doen\u00e7a. H\u00e1\u2026 [+1392 chars]",
+      "retrievedAt": "2024-08-08 19:05:41.136845",
+      "internal_id": "934778917bfa305204e9d0a0bd44386bbe028ba5d96dca16905afff05d119140",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11735,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Nieves Salinas",
+      "title": "Los dermat\u00f3logos, sobre la nueva alerta por la propagaci\u00f3n de la viruela del mono: \"Hay que estar atentos\"",
+      "description": "La infecci\u00f3n por MPOX (antes denominada viruela del mono) vuelve a inquietar a la Organizaci\u00f3n Mundial de la Salud (OMS) ante la aparici\u00f3n de una cepa m\u00e1s letal del virus que se propaga por \u00c1frica. En Espa\u00f1a, se siguen registrando casos, pero muchos menos que\u2026",
+      "url": "https://www.elperiodico.com/es/sociedad/20240807/dermatologos-alerta-propagacion-viruela-mono-106691744",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/04bcd435-53ff-4f71-9b85-d42bad91313c_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-08-07 12:55:47",
+      "content": "La infecci\u00f3n por MPOX (antes denominada viruela del mono) vuelve a inquietar a la Organizaci\u00f3n Mundial de la Salud (OMS) ante la aparici\u00f3n de una cepa m\u00e1s letal del virus que se propaga por \u00c1frica. E\u2026 [+8570 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.632259",
+      "internal_id": "74a02934c570639c92ba0a1b0897b39c237cf0198a9289441abb43c90716e830",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11708,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Natasha Bezuidenhout",
+      "title": "News24 | Experts link Cape Fur Seal aggression to rabies in Western Cape",
+      "description": "A scientific workshop, to determine the cause of unusual and unprovoked Cape Fur Seal bites and aggression in the Western Cape, found rabies to be considered endemic and well-established in the seal population.",
+      "url": "https://www.news24.com/news24/community-newspaper/peoples-post/experts-link-cape-fur-seal-aggression-to-rabies-in-western-cape-20240807",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12076/6650385a780e439ca9cae91708756341.jpg",
+      "publishedAt": "2024-08-07 12:53:00",
+      "content": "A scientific workshop determined that the unusual and unprovoked aggression of Cape Fur Seals in the Western Cape is due to the rabies virus. The virus is now considered endemic in t\u2026 [+5306 chars]",
+      "retrievedAt": "2024-08-08 19:05:39.792601",
+      "internal_id": "c481fcd2ab9ac9bcf51e1a892143fc26550b987b57e7d8c43cc5d8cc9601f909",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11748,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "WHO chief convenes expert meeting on mpox spread",
+      "description": "The head of the World Health Organization (WHO) called for an emergency meeting on mpox following its spread outside the Democratic Republic of the Congo (DRC). Read Full Story on UN News The post WHO chief convenes expert meeting on mpox spread appeared fir\u2026",
+      "url": "https://news.un.org/en/story/2024/08/1152931",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/15-12-2023_NIAID_mpox.jpg/image770x420cropped.jpg",
+      "publishedAt": "2024-08-07 12:00:00",
+      "content": "In light of the situation, and the potential for further international spread within and outside Africa, WHO Director-General Tedros Adhanom Ghebreyesus convened an Emergency Committee to advise him \u2026 [+3533 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.716926",
+      "internal_id": "3331e36df755331e61c22ea2a5415849386d8419acb85616493e65236f1b747b",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11707,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Laura Macavei",
+      "title": "Avertismentul dur al unui epidemiolog: \u201eTusea convulsiv\u0103 ne sufoc\u0103 bebelu\u0219ii\u201d. Cum ne protej\u0103m copiii",
+      "description": "\u00cen Rom\u00e2nia a crescut num\u0103rul de cazuri de tuse convulsiv\u0103, iar cei mai mul\u021bi pacien\u021bi sunt bebelu\u0219ii p\u00e2n\u0103-n dou\u0103 luni. Vorbim despre o boal\u0103 contagioas\u0103 care poate fi prevenit\u0103 prin vaccinare.",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/avertismentul-dur-al-unui-epidemiolog-tusea-2380238.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-6/6af4274e-c675-4336-9899-4f6e828297e1/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-08-07 11:46:44",
+      "content": "\u00cen Rom\u00e2nia a crescut numrul de cazuri de tuse mgreasc -pertussis sau tusea convulsiv - o boal contagioas care poate fi \u00eens prevenit prin vaccinare. Este semnalul de alarm pe care \u00eel trage epidemiolog\u2026 [+3940 chars]",
+      "retrievedAt": "2024-08-08 19:05:39.245369",
+      "internal_id": "bf1a5652cb36300376191d9cd64a16060444990c66184e6249e1a3ee1d5f68b0",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11742,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Sonika Nitin Nimje",
+      "title": "Mpox outbreak in many African countries: Know symptoms, treatment and more",
+      "description": "Mpox Outbreak in Africa: Mpox, also known as monkeypox, is a viral disease that causes painful skin boils as well as fever, headache, and muscle aches. It is spread by close contact between people",
+      "url": "https://www.business-standard.com/health/mpox-outbreak-in-many-african-countries-know-symptoms-treatment-and-more-124080701019_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/21/thumb/fitandfill/400X400/1653134895-5819.jpg",
+      "publishedAt": "2024-08-07 11:14:50",
+      "content": "Mpox, also known as monkeypox, is a viral disease that causes painful skin boils as well as fever, headache, and muscle aches. It is spread by close contact between people Monkeypox Sonika Nitin Ni\u2026 [+3273 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.671186",
+      "internal_id": "50ce1557bff736343665b571c199902fb96aa439bddad90517ec62684c223e5d",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11727,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet Daily News",
+      "author": "hurriyetdailynews.com",
+      "title": "Africa mpox resurgence fuels alarm",
+      "description": "Two years after a global outbreak, fears are rife that a new strain of mpox, previously known as monkeypox, identified in DR Congo and now also in several neighboring countries could further spread.",
+      "url": "https://www.hurriyetdailynews.com/africa-mpox-resurgence-fuels-alarm-199265",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/66b349994c0ad0978a8c22e8.jpg",
+      "publishedAt": "2024-08-07 10:17:01",
+      "content": "KINSHASA Two years after a global outbreak, fears are rife that a new strain of mpox, previously known as monkeypox, identified in DR Congo and now also in several neighboring countries could furthe\u2026 [+1747 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.551823",
+      "internal_id": "26bab27214b8260ac5349a8ca95f20f20a7944507d461507bcf6ec057aecbffd",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11725,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Redacci\u00f3n HuffPost",
+      "title": "Espa\u00f1a, pa\u00eds europeo con m\u00e1s casos de viruela del mono en 2024",
+      "description": "Espa\u00f1a es el pa\u00eds europeo con m\u00e1s notificaciones de mpox (antes denominada viruela del mono) desde que estallara el brote en abril de 2022, con un total de 8.101 casos, de los que 260 se han confirmado en lo que va de a\u00f1o, casi la mitad en Madrid,\u2026",
+      "url": "https://www.huffingtonpost.es/sociedad/espana-pais-europeo-mas-casos-viruela-mono-2024br.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2023/01/15/63c346804c348.jpeg",
+      "publishedAt": "2024-08-07 09:29:47",
+      "content": "Espa\u00f1a es el pa\u00eds europeo con m\u00e1s notificaciones de mpox (antes denominada viruela del mono) desde que estallara el brote en abril de 2022, con un total de 8.101 casos, de los que 260 se han confirma\u2026 [+2565 chars]",
+      "retrievedAt": "2024-08-08 19:05:43.538279",
+      "internal_id": "2ed196a32e680788ef160a06c09b2b4d247f7872bb451836d60e05512f16e811",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11714,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di Chikungunya, Lucca ordina disinfestazione zanzara tigre",
+      "description": "Per il sospetto caso di un paziente affetto da Chikungunya il Comune di Lucca ha ordinato in via precauzionale la disinfestazione di un'area nella zona di via di Sant'Alessio e nelle vie traverse laterali, comprese caditoie stradali, pozzetti, aree ver... (AN\u2026",
+      "url": "https://www.ansa.it/toscana/notizie/2024/08/07/caso-di-chikungunya-lucca-ordina-disinfestazione-zanzara-tigre_c68e7671-9a15-4631-b023-45970876b313.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2016/5/6/dd27846256e4842ba42d8d5dae477379.jpg",
+      "publishedAt": "2024-08-07 09:24:35",
+      "content": "Per il sospetto caso di un paziente affetto da Chikungunya il Comune di Lucca ha ordinato in via precauzionale la disinfestazione di un'area nella zona di via di Sant'Alessio e nelle vie traverse \u2026 [+855 chars]",
+      "retrievedAt": "2024-08-08 19:05:42.832657",
+      "internal_id": "303201fa56ac48842a9b869ce0add277b3496caff2c7a8e2298a461ec9382efb",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11706,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Peter Selley",
+      "title": "Vaccine manufacturers should produce a pertussis only vaccine for use in pregnancy",
+      "description": "In their article on increasing maternal vaccination rates against whooping cough, Razai and colleagues say, \u201c\u2018Vaccine hesitancy\u2019 is defined as the \u2018delay in acceptance or refusal of safe vaccines despite the availability of vaccine services.\u2019 It stems from co\u2026",
+      "url": "https://www.bmj.com/content/386/bmj.q1669",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/386/8437.cover-source.jpg",
+      "publishedAt": "2024-08-07 08:26:15",
+      "content": "Peter Selley, retired GPCrediton, UK peterjselley{at}gmail.com In their article on increasing maternal vaccination rates against whooping cough\u2026 [+208 chars]",
+      "retrievedAt": "2024-08-08 19:05:39.227788",
+      "internal_id": "bdbe520ed09ba51895ba66afa773a5b72cd7caf14b4df5257fb6ad6ac75c4364",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11713,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "66 Cases Of Zika Virus Infection Found In Pune City Since June",
+      "description": "At least 66 cases of Zika virus infection have been reported in Pune city in the last two months, civic officials said today.",
+      "url": "https://www.ndtv.com/pune-news/66-cases-of-zika-virus-infection-found-in-pune-city-since-june-6276561",
+      "urlToImage": "https://c.ndtvimg.com/2018-12/1lmjpsgo_zika-virus_625x300_01_December_18.jpg",
+      "publishedAt": "2024-08-07 08:24:01",
+      "content": "At least 66 cases of Zika virus infection have been reported in Pune city in the last two months. Pune: At least 66 cases of Zika virus infection have been reported in Pune city in the last two mont\u2026 [+1728 chars]",
+      "retrievedAt": "2024-08-08 19:05:42.647214",
+      "internal_id": "3b9e96816078d7b30c18723e4d997b1e3653bda2132254104868c49f03e60c33",
+      "publishedAtLabel": "Aug 7"
+    },
     {
       "id": 11698,
       "query": [
@@ -23334,186 +24110,6 @@
       "content": "10 beautiful fishes to keep in home aquariums for beginners",
       "retrievedAt": "2024-06-25 07:05:46.009156",
       "internal_id": "cf7eb9252f3e7f2a71d9cbbcd50f2add209aeccc78def5a53e63e09918c4c646",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10412,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Madrid, en alerta por dengue tras registrar el doble de casos que en 2023",
-      "description": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid ha duplicado en lo que llevamos de a\u00f1o los casos registrado\u2026",
-      "url": "https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html",
-      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2024/06/23/combo-mosquitotigre-U18720438030ZoL-1024x512@diario_abc.jpg",
-      "publishedAt": "2024-06-23 17:48:28",
-      "content": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid\u2026 [+3708 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.292033",
-      "internal_id": "27eb8ba316639c8071ede24a550604bbbd2540ba2a2585772c56a18c5fb51433",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10409,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "el-mundo",
-      "source_name": "El Mundo",
-      "author": "Europa Press",
-      "title": "El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
-      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los...",
-      "url": "https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html",
-      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/23e291a4bf337d48bf4a4d4223dfac48/crop/5x0/700x463/f/webp/assets/multimedia/imagenes/2024/06/23/17191631760710.jpg",
-      "publishedAt": "2024-06-23 17:26:45",
-      "content": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo perio\u2026 [+3892 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.238678",
-      "internal_id": "8db81fb0a134209d91cad20a2d9d397f9c8f8f987bee4bb69ffa34ff1ee58b10",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10408,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Nath\u00e1lia Cardim",
-      "title": "DF manter\u00e1 faixa et\u00e1ria de vacina\u00e7\u00e3o contra dengue. Veja p\u00fablico-alvo",
-      "description": "Minist\u00e9rio da Sa\u00fade ampliou p\u00fablico-alvo em estados e munic\u00edpios com doses prestes a vencer. No DF, por\u00e9m, imunizantes s\u00f3 expiram em 2025",
-      "url": "https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/11141151/vacinacao-dengue-cruzeiro-criancas-10-11-anos-2.jpeg",
-      "publishedAt": "2024-06-23 17:11:57",
-      "content": "A Secretaria de Sa\u00fade do Distrito Federal (SES-DF) informou neste domingo (23/6) que n\u00e3o haver\u00e1 mudan\u00e7a na estrat\u00e9gia adotada pela pasta com rela\u00e7\u00e3o ao p\u00fablico-alvo da vacina\u00e7\u00e3o contra a dengue na ca\u2026 [+5109 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.211358",
-      "internal_id": "320658297cf021b4f5b323bfff0db2b5023606f8b81cb2272fe0a7d2e9ab8514",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10414,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Livia Kristianti, Raka Adji",
-      "title": "Vigilance key to successful dengue handling in children: Ministry",
-      "description": "Parents&#39; vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control ...",
-      "url": "https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/06/23/IMG-20240623-WA0101.jpg",
-      "publishedAt": "2024-06-23 15:21:55",
-      "content": "Jakarta (ANTARA) - Parents' vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control at the Ministry of Health\u2026 [+1870 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.327407",
-      "internal_id": "2496b9087671152e17309e85fe29b32971052ede992151afd8b149dbf10ca946",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10407,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Resilience",
-      "author": "Kurt Cobb",
-      "title": "What the H5N1 scare tells us about ourselves and our society",
-      "description": "I don't know whether there is an H5N1 \"bird flu\" pandemic in our future. We humans think we can build moats around our modern way of life that protect us from the natural world. All the while we have actually been building the equivalent of superhighways into\u2026",
-      "url": "https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/",
-      "urlToImage": "https://www.resilience.org/wp-content/uploads/2024/06/H5N1_Bird_Flu.jpg",
-      "publishedAt": "2024-06-23 15:03:03",
-      "content": "I don\u2019t know whether there is an H5N1 \u201cbird flu\u201d pandemic in our future. H5N1 seems to be very dangerous to humans. Half of the 900 people known to have contracted it worldwide since 2003 have died. \u2026 [+5039 chars]",
-      "retrievedAt": "2024-06-24 19:05:44.883629",
-      "internal_id": "62238520b3c315e4084be41b5b077c7cd990335ee2c4bd8c1fb74aeb434e6e9e",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10411,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "El dengue aumenta en la Comunidad: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
-      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo periodo del a\u00f1o 2023, seg\u00fan los \u00faltimos datos del \u00c1rea de Vigilan\u2026",
-      "url": "https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240623132950_1200.jpg",
-      "publishedAt": "2024-06-23 11:29:50",
-      "content": "MADRID, 23 Jun. (EUROPA PRESS) - Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplic\u2026 [+5875 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.283012",
-      "internal_id": "b56c770f8270b84a00b07c240e8722daf132d7a3d4b10e71900a9cdbb5f56902",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10410,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para p\u00fablico de 4 a 59 anos",
-      "description": "Minist\u00e9rio da Sa\u00fade diz que, preferencialmente, as doses devem ser remanejadas para cidades n\u00e3o contempladas, mas, em caso de necessidade, a faixa et\u00e1ria atendida pode ser ampliada",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/23/110087725-ycmfxt5i7rdo5hsujaog5fblou.png",
-      "publishedAt": "2024-06-23 10:24:33",
-      "content": "O Minist\u00e9rio da Sa\u00fade informou que as doses da vacina da dengue com o prazo pr\u00f3ximo ao vencimento entre junho e julho devem ser remanejadas para cidades ou usadas para ampliar a faixa et\u00e1ria atendida\u2026 [+1596 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.277233",
-      "internal_id": "bc310198810c439c113360287caf4bc652c190f5b4ef0ac3f27ad4221f1dba31",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10413,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Ginny Reese",
-      "title": "Florida dept of health confirms local human case of dengue fever",
-      "description": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever.",
-      "url": "https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever",
-      "urlToImage": "https://img.particlenews.com/img/id/3RZR15_0u0aR5p700?type=thumbnail_1600x1200",
-      "publishedAt": "2024-06-23 10:02:31",
-      "content": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever. DOH-Hillsborough and Hillsborough County Mosquito Control ar\u2026 [+1307 chars]",
-      "retrievedAt": "2024-06-24 19:05:45.311734",
-      "internal_id": "2699b7e0152fddd6e1b132528b2520bd5dc07d5aa79c7c0f2e2d271f9a14fbf3",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10406,
-      "query": [
-        "hpai"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Jesse Hyland",
-      "title": "Bird flu found at second poultry farm in Hawkesbury area \u2014 just kilometres away from site of initial outbreak",
-      "description": "An outbreak of bird flu has been detected on a second farm in Sydney's north-west, with more than 86,000 chickens to be culled.",
-      "url": "https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d5d6a00e59b4a6fcc93dc7a56632bb8b?impolicy=wcms_watermark_news&cropH=913&cropW=1623&xPos=133&yPos=167&width=862&height=485&imformat=generic",
-      "publishedAt": "2024-06-23 07:52:57",
-      "content": "In short: A second farm in the Hawkesbury region has been confirmed to have the HPAI H7N8 strain of avian influenza.The chicken meat farm is within the restricted biosecurity zone se\u2026 [+3610 chars]",
-      "retrievedAt": "2024-06-24 19:05:44.432602",
-      "internal_id": "4e996e79db6da56a5397a593b33cf52eaed5958e91ce81243db7ca33a1bb1518",
-      "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 10400,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Auch Urlaubsorte betroffen: Italien k\u00e4mpft mit doppelter Dengue-Belastung",
-      "description": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die F\u00e4lle, die durch Tigerm\u00fccken in Italien verursacht werden. \u2026",
-      "url": "https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html",
-      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25029658/8121325893-cImg_16_9-w1200/220432705.jpg",
-      "publishedAt": "2024-06-23 07:06:44",
-      "content": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die\u2026 [+5656 chars]",
-      "retrievedAt": "2024-06-24 07:07:00.243495",
-      "internal_id": "df75e123d194d7a022ad7278ab605fb63631805af05d41b3b6827e05b28ec592",
       "publishedAtLabel": "Jun 23"
     }
   ]

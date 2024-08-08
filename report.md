@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-08-08 07:06
-- **Most recent article:** 2024-08-07 06:15:32
+- **New articles in last harvest:** 43
+- **Last harvest:** 2024-08-08 19:05
+- **Most recent article:** 2024-08-07 18:48:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 100 | 52 | 95 | 62 | 63 | 55 | 19 | 446 |
-| h5n1 | 36 | 59 | 52 | 62 | 38 | 21 | 3 | 271 |
-| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 35 | 187 |
+| dengue | 92 | 52 | 95 | 62 | 63 | 55 | 22 | 441 |
+| h5n1 | 35 | 59 | 52 | 62 | 38 | 21 | 4 | 271 |
+| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 69 | 221 |
 | malaria | 24 | 15 | 14 | 31 | 16 | 15 | 8 | 123 |
-| zika | 17 | 20 | 12 | 6 | 10 | 12 | 3 | 80 |
+| zika | 17 | 20 | 12 | 6 | 10 | 12 | 5 | 82 |
 | measles | 8 | 9 | 12 | 19 | 22 | 8 | 0 | 78 |
-| rabies | 8 | 4 | 2 | 17 | 8 | 12 | 3 | 54 |
-| chikungunya | 17 | 6 | 6 | 10 | 7 | 6 | 1 | 53 |
-| hpai | 3 | 3 | 5 | 6 | 3 | 4 | 0 | 24 |
-| pertussis | 3 | 1 | 2 | 0 | 5 | 5 | 3 | 19 |
+| chikungunya | 17 | 6 | 6 | 10 | 7 | 6 | 3 | 55 |
+| rabies | 8 | 4 | 2 | 17 | 8 | 12 | 4 | 55 |
+| hpai | 2 | 3 | 5 | 6 | 3 | 4 | 0 | 23 |
+| pertussis | 3 | 1 | 2 | 0 | 5 | 5 | 5 | 21 |
 | meningitis | 1 | 3 | 5 | 3 | 2 | 3 | 1 | 18 |
 | typhoid | 3 | 4 | 6 | 1 | 3 | 1 | 0 | 18 |
 | leptospirosis | 2 | 1 | 3 | 4 | 1 | 2 | 0 | 13 |
@@ -35,6 +35,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (zika)
 
+- [DENGUE? ARIDANGHE – DALL’INIZIO DELL’ANNO SONO STATI CONFERMATI 324 CASI DI DENGUE: LA METÀ DI ESSI È IN VENETO, LOMBARDIA E LAZIO, E TUTTI SONO STATI CONTRATTI ALL’ESTERO – FORTUNATAMENTE NESSUNO È STATO LETALE – I DATI DEL SISTEMA NAZIONALE DI SORVEGLIANZA DELL’ISTITUTO SUPERIORE DI SANITÀ: CI SONO STATI 8 CASI DI CHIKUNGUNYA, 4 DI ZIKA E…](https://www.dagospia.com/rubrica-29/cronache/dengue-aridanghe-ndash-dall-rsquo-inizio-dell-rsquo-anno-sono-stati-404225.htm) (Dagospia.com)
+
+- [66 Cases Of Zika Virus Infection Found In Pune City Since June](https://www.ndtv.com/pune-news/66-cases-of-zika-virus-infection-found-in-pune-city-since-june-6276561) (NDTV News)
+
 - [66 Zika Virus Cases Reported In Pune Since June](https://www.ndtv.com/india-news/zika-virus-66-cases-reported-in-pune-since-june-including-26-pregnant-women-6279568) (NDTV News)
 
 - [66 cases of Zika virus infection found in Pune city since June](https://economictimes.indiatimes.com/news/india/66-cases-of-zika-virus-infection-found-in-pune-city-since-june/articleshow/112320607.cms) (The Times of India)
@@ -47,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (rabies)
 
+- [News24 | Experts link Cape Fur Seal aggression to rabies in Western Cape](https://www.news24.com/news24/community-newspaper/peoples-post/experts-link-cape-fur-seal-aggression-to-rabies-in-western-cape-20240807) (News24)
+
 - [Bat tests positive for rabies in Livingston County, health officials say](https://www.wxyz.com/news/bat-tests-positive-for-rabies-in-livingston-county-health-officials-say) (WXYZ)
 
 - [Factors associated with the spatiotemporal distribution of dog rabies in Tunisia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012296) (Plos.org)
@@ -55,6 +61,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (pertussis)
 
+- [Avertismentul dur al unui epidemiolog: „Tusea convulsivă ne sufocă bebelușii”. Cum ne protejăm copiii](https://adevarul.ro/stiri-interne/sanatate/avertismentul-dur-al-unui-epidemiolog-tusea-2380238.html) (Adevarul.ro)
+
+- [Vaccine manufacturers should produce a pertussis only vaccine for use in pregnancy](https://www.bmj.com/content/386/bmj.q1669) (The BMJ)
+
 - [Médicos e autoridades da saúde alertam para o aumento dos casos de coqueluche](https://www.terra.com.br/noticias/medicos-e-autoridades-da-saude-alertam-para-o-aumento-dos-casos-de-coqueluche,d76f737e56a4f02f041768bf8c9a54afdw13zdxs.html) (Terra.com.br)
 
 - [Szamárköhögés: súlyos adatok érkeztek a járványról](https://www.portfolio.hu/gazdasag/20240805/szamarkohoges-sulyos-adatok-erkeztek-a-jarvanyrol-702527) (Portfolio.hu)
@@ -62,6 +72,74 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough can be deadly for young babies. Vaccination is our best defence](https://theconversation.com/whooping-cough-can-be-deadly-for-young-babies-vaccination-is-our-best-defence-235527) (The Conversation Africa)
 
 ## 24-32 (mpox)
+
+- [Oprydning efter kemikalieuheld i Roskilde afsluttet](https://www.dr.dk/nyheder/seneste/oprydning-efter-kemikalieuheld-i-roskilde-afsluttet) (Www.dr.dk)
+
+- [To strandede astronauter på ISS kan måske først komme hjem til næste år](https://www.dr.dk/nyheder/seneste/strandede-astronauter-paa-iss-kan-maaske-foerst-komme-hjem-til-naeste-aar) (Www.dr.dk)
+
+- [OMS vai convocar comitê de emergência para avaliar risco internacional de surto de Mpox](https://www.terra.com.br/noticias/mundo/oms-vai-convocar-comite-de-emergencia-para-avaliar-risco-internacional-de-surto-de-mpox,a4749e8c41d0b4ca42210811764043a6utpsc7sc.html) (Terra.com.br)
+
+- [WHO Considers Declaring Mpox in Africa a Global Emergency](https://www.newsweek.com/who-mpox-africa-global-emergency-1936053) (Newsweek)
+
+- [To anholdte i Østrig mistænkes for terrorplaner mod Taylor Swift-koncert](https://www.dr.dk/nyheder/seneste/anholdte-i-oestrig-mistaenkes-terrorplaner-mod-taylor-swift-koncert) (Www.dr.dk)
+
+- [WHO calls emergency meeting on mpox spread](https://www.channelnewsasia.com/world/who-calls-emergency-meeting-mpox-spread-4533586) (CNA)
+
+- [Larm om ny skottlossning norr om Stockholm](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=42424) (Svenska Dagbladet)
+
+- [Politiet: Den ulovlige bande LTF er del af en voldelig konflikt](https://www.dr.dk/nyheder/seneste/politiet-den-ulovlige-bande-ltf-er-del-af-en-voldelig-konflikt) (Www.dr.dk)
+
+- [Mpox. OMS reúne comité de emergência devido aumento de casos](https://ionline.sapo.pt/2024/08/07/mpox-oms-reune-comite-de-emergencia-devido-aumento-de-casos/) (Sapo.pt)
+
+- [La OMS revisará si la infecciosa mpox vuelve a ser una emergencia sanitaria internacional](https://www.montevideo.com.uy/Salud/La-OMS-revisara-si-la-infecciosa-mpox-vuelve-a-ser-una-emergencia-sanitaria-internacional-uc896458) (Montevideo.com.uy)
+
+- [WHO indkalder til krisemøde efter nye tilfælde af mpox](https://www.dr.dk/nyheder/seneste/who-indkalder-til-krisemoede-efter-nye-tilfaelde-af-mpox) (Www.dr.dk)
+
+- [Mpox: WHO beruft Notfallausschuss ein](https://orf.at/stories/3365947/) (Orf.at)
+
+- [WHO calls emergency meeting on mpox spread](https://www.voanews.com/a/who-calls-emergency-meeting-on-mpox-spread/7733472.html) (VOA News)
+
+- [WHO roept noodcomité samen in internationale strijd tegen apenpokken](https://www.hbvl.be/cnt/dmf20240807_95985875) (Hbvl.be)
+
+- [Skottlossning i södra Stockholm](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=42422) (Svenska Dagbladet)
+
+- [WHO roept noodcomité samen in internationale strijd tegen apenpokken](https://www.gva.be/cnt/dmf20240807_95913563) (Www.gva.be)
+
+- [WHO roept noodcomité samen in internationale strijd tegen apenpokken](https://www.vrt.be/vrtnws/nl/2024/08/07/who-apenpokken-noodcomite/) (Www.vrt.be)
+
+- [WHO roept noodcomité samen in internationale strijd tegen apenpokken](https://www.nieuwsblad.be/cnt/dmf20240807_95875760) (Nieuwsblad.be)
+
+- [UN health agency convening experts meeting to decide if mpox outbreak in Africa is global emergency](https://abcnews.go.com/International/wireStory/health-agency-convening-experts-meeting-decide-mpox-outbreak-112646011) (ABC News)
+
+- [España es el país con más casos de mpox desde 2022, seguido por Francia y Reino Unido](https://www.infosalus.com/actualidad/noticia-espana-pais-mas-casos-mpox-2022-seguido-francia-reino-unido-20240807180552.html) (Infosalus.com)
+
+- [WHO kallar till krismöte om mpox](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1280484) (Aftonbladet.se)
+
+- [WHO kallar till krismöte om mpox](https://www.expressen.se/nyheter/varlden/who-kallar-till-krismote-om-mpox/) (Expressen.se)
+
+- [WHO kallar till krismöte om mpox](https://www.aftonbladet.se/nyheter/a/zAOaMb/who-kallar-till-krismote-om-mpox) (Aftonbladet.se)
+
+- [Krankheiten: WHO-Chef beruft Notfallausschuss wegen Mpox ein](https://www.tagesspiegel.de/wissen/krankheiten-who-chef-beruft-notfallausschuss-wegen-mpox-ein-12162722.html) (Der Tagesspiegel)
+
+- [Krankheiten: WHO-Chef beruft Notfallausschuss wegen Mpox ein](https://www.zeit.de/news/2024-08/07/who-chef-beruft-notfallausschuss-wegen-mpox-ein) (Die Zeit)
+
+- [Krankheiten: WHO-Chef beruft Notfallausschuss wegen Mpox ein](https://www.stern.de/panorama/wissen/krankheiten--who-chef-beruft-notfallausschuss-wegen-mpox-ein-34959906.html) (STERN.de)
+
+- [Variole du singe: l'OMS va convoquer une réunion du comité d'urgence face à l'épidémie](https://www.lalibre.be/planete/sante/2024/08/07/variole-du-singe-loms-va-convoquer-une-reunion-du-comite-durgence-face-a-lepidemie-JDIVJ7YWAFF3RF3T4QOAR5EUAA/) (Lalibre.be)
+
+- [WHO Director Considers Declaring Public Health Emergency Over Mpox Virus Outbreak](https://www.activistpost.com/2024/08/who-director-considers-declaring-public-health-emergency-over-mpox-virus-outbreak.html) (Activistpost.com)
+
+- [WHO kaller inn til krisemøte om mpox](https://www.nrk.no/nyheter/who-kaller-inn-til-krisemote-om-mpox-1.16994037) (NRK)
+
+- [Los dermatólogos, sobre la nueva alerta por la propagación de la viruela del mono: "Hay que estar atentos"](https://www.elperiodico.com/es/sociedad/20240807/dermatologos-alerta-propagacion-viruela-mono-106691744) (Elperiodico.com)
+
+- [WHO chief convenes expert meeting on mpox spread](https://news.un.org/en/story/2024/08/1152931) (UN News)
+
+- [Mpox outbreak in many African countries: Know symptoms, treatment and more](https://www.business-standard.com/health/mpox-outbreak-in-many-african-countries-know-symptoms-treatment-and-more-124080701019_1.html) (Business Standard)
+
+- [Africa mpox resurgence fuels alarm](https://www.hurriyetdailynews.com/africa-mpox-resurgence-fuels-alarm-199265) (Hurriyet Daily News)
+
+- [España, país europeo con más casos de viruela del mono en 2024](https://www.huffingtonpost.es/sociedad/espana-pais-europeo-mas-casos-viruela-mono-2024br.html) (Huffingtonpost.es)
 
 - [WHO considers declaring public health emergency of international concern due to outbreak of deadlier Mpox strain](https://www.wsws.org/en/articles/2024/08/07/kwpw-a07.html) (World Socialist Web Site)
 
@@ -157,6 +235,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (h5n1)
 
+- [Wie gefährlich ist die Vogelgrippe?: „Der Erreger kann den Menschen nicht sehr gut infizieren“](https://www.tagesspiegel.de/gesundheit/wie-gefahrlich-ist-die-vogelgrippe-der-erreger-kann-den-menschen-nicht-sehr-gut-infizieren-12133223.html) (Der Tagesspiegel)
+
 - [Why Isn’t the Government Protecting Farm Workers From the Bird Flu?](https://newrepublic.com/article/184589/bird-flu-dairy-farm-workers-government-regulations) (The New Republic)
 
 - [Cocirculation of Genetically Distinct Highly Pathogenic Avian Influenza H5N5 and H5N1 Viruses in Crows, Hokkaido, Japan](https://wwwnc.cdc.gov/eid/article/30/9/24-0356_article) (Cdc.gov)
@@ -164,6 +244,12 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
+
+- [DENGUE? ARIDANGHE – DALL’INIZIO DELL’ANNO SONO STATI CONFERMATI 324 CASI DI DENGUE: LA METÀ DI ESSI È IN VENETO, LOMBARDIA E LAZIO, E TUTTI SONO STATI CONTRATTI ALL’ESTERO – FORTUNATAMENTE NESSUNO È STATO LETALE – I DATI DEL SISTEMA NAZIONALE DI SORVEGLIANZA DELL’ISTITUTO SUPERIORE DI SANITÀ: CI SONO STATI 8 CASI DI CHIKUNGUNYA, 4 DI ZIKA E…](https://www.dagospia.com/rubrica-29/cronache/dengue-aridanghe-ndash-dall-rsquo-inizio-dell-rsquo-anno-sono-stati-404225.htm) (Dagospia.com)
+
+- [Súlyos tanulmány jelent meg: ezek a vírusok okozhatják a következő nagy járványt](https://www.portfolio.hu/global/20240807/sulyos-tanulmany-jelent-meg-ezek-a-virusok-okozhatjak-a-kovetkezo-nagy-jarvanyt-703001) (Portfolio.hu)
+
+- [Brasil ultrapassa marca de 5 mil mortes por dengue](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-08-07/brasil-ultrapassa-marca-de-5-mil-mortes-por-dengue.html) (Ig.com.br)
 
 - [TCDF defende retorno de 532 servidores à União e pede novas nomeações](https://www.metropoles.com/distrito-federal/tcdf-defende-retorno-de-532-servidores-a-uniao-e-pede-novas-nomeacoes) (Metropoles.com)
 
@@ -204,6 +290,10 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1137: Dengue is not BANAL](https://www.microbe.tv/twiv/twiv-1137/) (Microbe.tv)
 
 ## 24-32 (chikungunya)
+
+- [DENGUE? ARIDANGHE – DALL’INIZIO DELL’ANNO SONO STATI CONFERMATI 324 CASI DI DENGUE: LA METÀ DI ESSI È IN VENETO, LOMBARDIA E LAZIO, E TUTTI SONO STATI CONTRATTI ALL’ESTERO – FORTUNATAMENTE NESSUNO È STATO LETALE – I DATI DEL SISTEMA NAZIONALE DI SORVEGLIANZA DELL’ISTITUTO SUPERIORE DI SANITÀ: CI SONO STATI 8 CASI DI CHIKUNGUNYA, 4 DI ZIKA E…](https://www.dagospia.com/rubrica-29/cronache/dengue-aridanghe-ndash-dall-rsquo-inizio-dell-rsquo-anno-sono-stati-404225.htm) (Dagospia.com)
+
+- [Caso di Chikungunya, Lucca ordina disinfestazione zanzara tigre](https://www.ansa.it/toscana/notizie/2024/08/07/caso-di-chikungunya-lucca-ordina-disinfestazione-zanzara-tigre_c68e7671-9a15-4631-b023-45970876b313.html) (ANSA.it)
 
 - [The risk and risk factors of chikungunya virus infection and rheumatological sequelae in a cohort of U.S. Military Health System beneficiaries: Implications for the vaccine era](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011810) (Plos.org)
 
@@ -2693,8 +2783,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Research: Avian influenza (bird flu) in Australia](https://www.gov.uk/government/publications/avian-influenza-bird-flu-in-australia) (Www.gov.uk)
 
-- [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
-
 ## 24-26 (h5n1)
 
 - [Nächste Pandemie? Corona dagegen ein „Spaziergang“](https://www.krone.at/3438425) (Krone.at)
@@ -2766,8 +2854,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: USDA secretary urges farmers to take protective measures](https://www.statnews.com/2024/06/24/bird-flu-snapshot-usda-secretary/) (STAT)
 
 - [Persistence of Influenza H5N1 and H1N1 Viruses in Unpasteurized Milk on Milking Unit Surfaces](https://wwwnc.cdc.gov/eid/article/30/8/24-0775_article) (Cdc.gov)
-
-- [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
 
@@ -2954,22 +3040,6 @@ Source: [News API](https://newsapi.org/)
 - [Governo anuncia “estratégia temporária” para vacinas da dengue próximas de vencer](https://olhardigital.com.br/2024/06/23/medicina-e-saude/governo-anuncia-estrategia-temporaria-para-vacinas-da-dengue-proximas-de-vencer/) (Olhardigital.com.br)
 
 - [47 suspected dengue cases in Canacona, officials fear more](https://timesofindia.indiatimes.com/city/goa/47-suspected-dengue-cases-in-canacona-officials-fear-more/articleshow/111212769.cms) (The Times of India)
-
-- [Madrid, en alerta por dengue tras registrar el doble de casos que en 2023](https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html) (Www.abc.es)
-
-- [El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de año, el doble respecto a 2023](https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html) (El Mundo)
-
-- [DF manterá faixa etária de vacinação contra dengue. Veja público-alvo](https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo) (Metropoles.com)
-
-- [Vigilance key to successful dengue handling in children: Ministry](https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry) (Antaranews.com)
-
-- [El dengue aumenta en la Comunidad: 76 casos en lo que va de año, el doble respecto a 2023](https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html) (Europapress.es)
-
-- [Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para público de 4 a 59 anos](https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html) (Terra.com.br)
-
-- [Florida dept of health confirms local human case of dengue fever](https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever) (Newsbreak.com)
-
-- [Auch Urlaubsorte betroffen: Italien kämpft mit doppelter Dengue-Belastung](https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html) (N-tv.de)
 
 ## 24-26 (chikungunya)
 
