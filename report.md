@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 34
-- **Last harvest:** 2024-08-09 07:06
-- **Most recent article:** 2024-08-08 06:23:41
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-08-09 19:05
+- **Most recent article:** 2024-08-08 18:21:35
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 100 | 52 | 95 | 62 | 63 | 55 | 28 | 455 |
-| h5n1 | 36 | 59 | 52 | 62 | 38 | 21 | 4 | 272 |
-| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 93 | 245 |
-| malaria | 24 | 15 | 14 | 31 | 16 | 15 | 8 | 123 |
-| zika | 17 | 20 | 12 | 6 | 10 | 12 | 6 | 83 |
-| measles | 8 | 9 | 12 | 19 | 22 | 8 | 0 | 78 |
+| dengue | 92 | 52 | 95 | 62 | 63 | 55 | 30 | 449 |
+| h5n1 | 35 | 59 | 52 | 62 | 38 | 21 | 4 | 271 |
+| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 105 | 257 |
+| malaria | 24 | 15 | 14 | 31 | 16 | 15 | 9 | 124 |
+| zika | 17 | 20 | 12 | 6 | 10 | 12 | 7 | 84 |
+| measles | 8 | 9 | 12 | 19 | 22 | 8 | 1 | 79 |
 | rabies | 8 | 4 | 2 | 17 | 8 | 12 | 6 | 57 |
 | chikungunya | 17 | 6 | 6 | 10 | 7 | 6 | 4 | 56 |
-| hpai | 3 | 3 | 5 | 6 | 3 | 4 | 0 | 24 |
+| hpai | 2 | 3 | 5 | 6 | 3 | 4 | 0 | 23 |
 | pertussis | 3 | 1 | 2 | 0 | 5 | 5 | 5 | 21 |
 | meningitis | 1 | 3 | 5 | 3 | 2 | 3 | 3 | 20 |
 | typhoid | 3 | 4 | 6 | 1 | 3 | 1 | 0 | 18 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-32 (zika)
+
+- [Zika virus cases rising: Here's how it spreads, symptoms, prevention, and treatment](https://economictimes.indiatimes.com/news/new-updates/zika-virus-cases-rising-heres-how-it-spreads-symptoms-prevention-and-treatment/articleshow/112377544.cms) (The Times of India)
 
 - [Ces maladies qui vont déferler dans une France plus chaude](https://www.alternatives-economiques.fr/maladies-deferler-une-france-plus-chaude/00111974) (Alternatives-economiques.fr)
 
@@ -78,6 +80,30 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough can be deadly for young babies. Vaccination is our best defence](https://theconversation.com/whooping-cough-can-be-deadly-for-young-babies-vaccination-is-our-best-defence-235527) (The Conversation Africa)
 
 ## 24-32 (mpox)
+
+- [Mpox: União Africana vai “provavelmente” declarar emergência de saúde pública na próxima semana](https://observador.pt/2024/08/08/mpox-uniao-africana-vai-provavelmente-declarar-emergencia-de-saude-publica-na-proxima-semana/) (Observador.pt)
+
+- [Mpox en RDC : l’OMS convoque un comité d’urgence face à l’ampleur de l’épidémie](https://www.lemonde.fr/planete/article/2024/08/08/mpox-en-rdc-l-oms-convoque-un-comite-d-urgence-face-a-l-ampleur-de-l-epidemie_6273597_3244.html) (Le Monde)
+
+- [Alarm over ultra-deadly Mpox strain crossing borders as WHO ready to declare health emergency...](https://www.the-sun.com/health/12143953/mpox-cross-boarders-international-public-health-emergency-who/) (The-sun.com)
+
+- [WHO roept noodcomité bijeen om internationaal risico van pokkenuitbraak te beoordelen](https://businessam.be/who-pokkenuitbraak-noodsituatie-wereldwijd/) (Businessam.be)
+
+- [Variole du singe : pourquoi l'OMS s'inquiète-t-elle de la recrudescence de cas de mpox en Afrique ?](https://www.francetvinfo.fr/sante/maladie/variole-du-singe/variole-du-singe-pourquoi-l-oms-s-inquiete-t-elle-de-la-recrudescence-de-cas-de-mpox-en-afrique_6714141.html) (Francetvinfo.fr)
+
+- [Larm om mpox i Afrika – stor ökning](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1281817) (Aftonbladet.se)
+
+- [Deadlier Strain Of Mpox Causes World Health Organization To Convene Emergency Committee](https://brobible.com/culture/article/deadlier-strain-mpox-world-health-organization-emergency/) (BroBible)
+
+- [Le continent africain craint une nouvelle épidémie de variole du singe](https://www.ouest-france.fr/sante/virus/variole-du-singe/le-continent-africain-craint-une-nouvelle-epidemie-de-variole-du-singe-b06d6c28-556b-11ef-a1d5-0ad40f45dcb0) (Ouest-France)
+
+- [Central Africa's high-risk mpox clade 1b outbreak sparks alarm](https://www.dw.com/en/monkeypox-clade-1b-outbreak-in-central-africa-is-high-risk/a-69880008) (DW (English))
+
+- [Mpox clade 1b outbreak in Central Africa is 'high risk'](https://www.dw.com/en/mpox-clade-1b-outbreak-in-central-africa-is-high-risk/a-69880008) (DW (English))
+
+- [WHO to convene International Health Regulations Emergency Committee on new Mpox variant](https://www.euractiv.com/section/health-consumers/news/who-to-convene-international-health-regulations-emergency-committee-on-new-mpox-variant/) (EURACTIV)
+
+- [Una nueva cepa más letal de la viruela del mono pone en alerta a la OMS](https://www.nationalgeographic.com.es/ciencia/emergencia-salud-publica-preocupacion-internacional-debido-a-nueva-cepa-viruela-mono_22979) (Nationalgeographic.com.es)
 
 - [Bavarian Nordic Receives USD 156.8 Million from the U.S. Government for Additional Smallpox/Mpox Vaccine Production](https://www.investing.com/news/press-releases/bavarian-nordic-receives-usd-1568-million-from-the-us-government-for-additional-smallpoxmpox-vaccine-production-93CH-3561265) (Investing.com)
 
@@ -273,7 +299,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Así es la vida de Patricia Pérez y Luis Canut después de la enfermedad que les cambió la vida para siempre](https://www.hola.com/actualidad/20240804708918/la-vida-de-patricia-perez-y-luis-canut-despues-de-la-enfermedad-que-les-cambio-la-vida-para-siempre/) (Hola)
 
+## 24-32 (measles)
+
+- [Measles: 81 cases and 13 outbreaks confirmed in Ireland so far this year](https://www.thejournal.ie/how-many-measles-cases-are-there-in-ireland-3-6458245-Aug2024/) (TheJournal.ie)
+
 ## 24-32 (malaria)
+
+- [Avec son arsenal de vaccins en “rix”, le géant de la pharma GSK a placé Rixensart sur la carte du monde](https://www.lalibre.be/economie/entreprises-startup/2024/08/08/avec-son-arsenal-de-vaccins-en-rix-le-geant-de-la-pharma-gsk-a-place-rixensart-sur-la-carte-du-monde-FGSZODCHZ5BTNCV26D4FNLNDAM/) (Lalibre.be)
 
 - [Pan Africare, Abia begin anti-malaria campaign in 292 health centres](https://punchng.com/pan-africare-abia-begin-anti-malaria-campaign-in-292-health-centres/) (The Punch)
 
@@ -306,6 +338,10 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
+
+- [Deux nouveaux cas de dengue autochtones détectés en Occitanie, pour un total de 6 cas en France hexagonale cette année](https://www.francetvinfo.fr/sante/maladie/dengue-deux-nouveaux-cas-autochtones-detectes-en-occitanie-pour-un-total-de-6-cas-en-france-hexagonale-cette-annee_6714717.html) (Francetvinfo.fr)
+
+- [Notes from the Field: Prevalence of Previous Dengue Virus Infection Among Children and Adolescents Aged 7-16 Years - American Samoa, September-October 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7331a3.htm) (Cdc.gov)
 
 - [Ces maladies qui vont déferler dans une France plus chaude](https://www.alternatives-economiques.fr/maladies-deferler-une-france-plus-chaude/00111974) (Alternatives-economiques.fr)
 
@@ -2859,8 +2895,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Research: Avian influenza (bird flu) in Australia](https://www.gov.uk/government/publications/avian-influenza-bird-flu-in-australia) (Www.gov.uk)
 
-- [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
-
 ## 24-26 (h5n1)
 
 - [Nächste Pandemie? Corona dagegen ein „Spaziergang“](https://www.krone.at/3438425) (Krone.at)
@@ -2932,8 +2966,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: USDA secretary urges farmers to take protective measures](https://www.statnews.com/2024/06/24/bird-flu-snapshot-usda-secretary/) (STAT)
 
 - [Persistence of Influenza H5N1 and H1N1 Viruses in Unpasteurized Milk on Milking Unit Surfaces](https://wwwnc.cdc.gov/eid/article/30/8/24-0775_article) (Cdc.gov)
-
-- [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
 
@@ -3120,22 +3152,6 @@ Source: [News API](https://newsapi.org/)
 - [Governo anuncia “estratégia temporária” para vacinas da dengue próximas de vencer](https://olhardigital.com.br/2024/06/23/medicina-e-saude/governo-anuncia-estrategia-temporaria-para-vacinas-da-dengue-proximas-de-vencer/) (Olhardigital.com.br)
 
 - [47 suspected dengue cases in Canacona, officials fear more](https://timesofindia.indiatimes.com/city/goa/47-suspected-dengue-cases-in-canacona-officials-fear-more/articleshow/111212769.cms) (The Times of India)
-
-- [Madrid, en alerta por dengue tras registrar el doble de casos que en 2023](https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html) (Www.abc.es)
-
-- [El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de año, el doble respecto a 2023](https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html) (El Mundo)
-
-- [DF manterá faixa etária de vacinação contra dengue. Veja público-alvo](https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo) (Metropoles.com)
-
-- [Vigilance key to successful dengue handling in children: Ministry](https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry) (Antaranews.com)
-
-- [El dengue aumenta en la Comunidad: 76 casos en lo que va de año, el doble respecto a 2023](https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html) (Europapress.es)
-
-- [Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para público de 4 a 59 anos](https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html) (Terra.com.br)
-
-- [Florida dept of health confirms local human case of dengue fever](https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever) (Newsbreak.com)
-
-- [Auch Urlaubsorte betroffen: Italien kämpft mit doppelter Dengue-Belastung](https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html) (N-tv.de)
 
 ## 24-26 (chikungunya)
 
