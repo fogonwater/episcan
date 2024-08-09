@@ -1,8 +1,623 @@
 {
-  "last_updated": "2024-08-08 19:05",
-  "count_articles_total": 1334,
-  "count_articles_new": 43,
+  "last_updated": "2024-08-09 07:06",
+  "count_articles_total": 1378,
+  "count_articles_new": 34,
   "articles": [
+    {
+      "id": 11758,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Groeneveld, N. S., Bijlsma, M. W., van Zeggeren, I. E., Staal, S. L., Tanck, M. W. T., van de Beek, D., Brouwer, M. C.",
+      "title": "Diagnostic prediction models for bacterial meningitis in children with a suspected central nervous system infection: a systematic review and prospective validation study",
+      "description": "Objectives Diagnostic prediction models exist to assess the probability of bacterial meningitis (BM) in paediatric patients with suspected meningitis. To evaluate the diagnostic accuracy of these models in a broad population of children suspected of a central\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/8/e081172",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-08-08 06:23:41",
+      "content": "Introduction Bacterial meningitis (BM) in children is lethal and debilitating, with mortality rates between 4% and 21% and neurological sequelae occurring in up to one-third of survivors.13 Early st\u2026 [+8642 chars]",
+      "retrievedAt": "2024-08-09 07:05:58.194463",
+      "internal_id": "511c5b77aa1511de415519d4cc5533bcc7e42be9ab0740c39b46055d7931da52",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11777,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Investing.com",
+      "title": "Bavarian Nordic Receives USD 156.8 Million from the U.S. Government for Additional Smallpox/Mpox Vaccine Production",
+      "description": "Bavarian Nordic Receives USD 156.8 Million from the U.S. Government for Additional Smallpox/Mpox Vaccine Production",
+      "url": "https://www.investing.com/news/press-releases/bavarian-nordic-receives-usd-1568-million-from-the-us-government-for-additional-smallpoxmpox-vaccine-production-93CH-3561265",
+      "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+      "publishedAt": "2024-08-08 05:36:07",
+      "content": "The contract will help replenish inventory of bulk vaccine required for future manufacturing and supply of freeze-dried vaccines.COPENHAGEN, Denmark, August 8, 2024 Bavarian Nordic \u2026 [+6438 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.544341",
+      "internal_id": "36d37929dd6bb7bdc51bbe39faa31bde3b65d5b35f241bad7086f7b54418875e",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11752,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Alternatives-economiques.fr",
+      "author": "Matthieu Jublin",
+      "title": "Ces maladies qui vont d\u00e9ferler dans une France plus chaude",
+      "description": "[L\u2019urgence de l\u2019adaptation] Chikungunya, Zika, dengue ou fi\u00e8vre jaune vont gagner du terrain en France, car le r\u00e9chauffement climatique favorise l\u2019installation des moustiques vecteurs de ces maladies.",
+      "url": "https://www.alternatives-economiques.fr/maladies-deferler-une-france-plus-chaude/00111974",
+      "urlToImage": "https://www.alternatives-economiques.fr/sites/default/files/public/styles/for_social_networks/public/field/image/rea5279130.jpg?itok=uJwg__D-",
+      "publishedAt": "2024-08-08 05:00:00",
+      "content": "Venu des lointaines for\u00eats tropicales dAsie, le moustique tigre \u00e9tait un quasi-inconnu en France avant son arriv\u00e9e, en 2004, dans les Alpes maritimes. Depuis, linsecte a pris ses aises et est d\u00e9sorma\u2026 [+2492 chars]",
+      "retrievedAt": "2024-08-09 07:05:57.836845",
+      "internal_id": "382da7d1644ef4d06939811300f5873705b718334f789b8f46a4b6050ef17386",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11779,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Receives USD 156.8 Million from the U.S. Government for Additional Smallpox/Mpox Vaccine Production",
+      "description": "COPENHAGEN, Denmark, August 8, 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced that it has received a new order valued at USD 156.8 million from the Biomedical Advanced Research and Development Authority (BARDA), part of the Administration for Strategi\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/08/08/2926556/0/en/Bavarian-Nordic-Receives-USD-156-8-Million-from-the-U-S-Government-for-Additional-Smallpox-Mpox-Vaccine-Production.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-08-08 04:49:00",
+      "content": "The contract will help replenish inventory of bulk vaccine required for future manufacturing and supply of freeze-dried vaccines.COPENHAGEN, Denmark, August 8, 2024 Bavarian Nordic \u2026 [+6405 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.566847",
+      "internal_id": "f3efeb112817b23c20e32dfbe8b2ef397952690dd1a29627cc63867b41e9cd9a",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11780,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic modtager USD 156,8 mio. fra den amerikanske regering for produktion af yderligere koppe- og mpoxvacciner",
+      "description": "K\u00d8BENHAVN, Danmark, 8. august 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at selskabet har modtaget en ny ordre p\u00e5 USD 156,8 mio. fra Biomedical Advanced Research and Development Authority (BARDA), en del af Administration for Strategic Preparednes\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/08/08/2926556/0/da/Bavarian-Nordic-modtager-USD-156-8-mio-fra-den-amerikanske-regering-for-produktion-af-yderligere-koppe-og-mpoxvacciner.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-08-08 04:49:00",
+      "content": "Kontrakten underst\u00f8tter produktion af ny r\u00e5vaccine til delvis genopfyldning af lageret til fremtidig produktion og levering af fryset\u00f8rrede vaccinerK\u00d8BENHAVN, Danmark, 8. august 202\u2026 [+6443 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.572760",
+      "internal_id": "92f9b849b91350e641f5f5635474fd7eefe73040f83a054db081d39ca6003b6e",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11761,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Alexandra Co\u0219lea",
+      "title": "Comitet de urgen\u021b\u0103 convocat de \u0219eful OMS pentru a evalua riscul interna\u0163ional al epidemiei de mpox",
+      "description": "\u015eeful Organiza\u0163iei Mondiale a S\u0103n\u0103t\u0103\u0163ii a declarat, miercuri, c\u0103 va fi convocat un comitet de urgen\u0163\u0103 pentru a discuta dac\u0103 actuala epidemie de mpox, o boal\u0103 cunoscut\u0103 \u015fi sub denumirea de \u201evariola maimu\u0163ei\u201d, din Republica\u2026",
+      "url": "http://hotnews.ro/comitet-de-urgenta-convocat-de-seful-oms-pentru-a-evalua-riscul-international-al-epidemiei-de-mpox-1766971",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/08/Laborator.jpg",
+      "publishedAt": "2024-08-08 04:46:41",
+      "content": "eful Organizaiei Mondiale a Sntii a declarat, miercuri, c va fi convocat un comitet de urgen pentru a discuta dac actuala epidemie de mpox, o boal cunoscut i sub denumirea de variola maimuei, din Rep\u2026 [+2441 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.357167",
+      "internal_id": "3ad2e7732f7fd8ddd1a465908fc625b451d86861d5f1ad32c62185187768bd59",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11753,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Press Trust of India",
+      "title": "Dengue cases rising in West Bengal, govt says situation under control",
+      "description": "The number of dengue cases in West Bengal is rising, as around 500 people, mostly in rural areas, were down with the mosquito-borne viral disease in the last week of July, a health department official said on Thursday. The official, however, said that the sit\u2026",
+      "url": "https://www.business-standard.com/india-news/dengue-cases-rising-in-west-bengal-govt-says-situation-under-control-124080800235_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-02/11/thumb/featurecrop/400X400/1707622152-9639.jpg",
+      "publishedAt": "2024-08-08 04:36:01",
+      "content": "Since January, at least 2,640 people have been diagnosed with the disease in the state Between July 24 and 31, West Bengal reported around 500 dengue cases. Photo: Unsplash Press Trust of IndiaKolk\u2026 [+2156 chars]",
+      "retrievedAt": "2024-08-09 07:05:57.883889",
+      "internal_id": "26930bc83d59f370eab25b97d3f7d15126bd1465bba832acf0ef62b24e04662a",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11767,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "En torsdag med sol og byger",
+      "description": "Dagens vejr byder p\u00e5 nogen sol, men i perioder vil der v\u00e6re mere skyet og med enkelte byger.",
+      "url": "https://www.dr.dk/nyheder/seneste/en-torsdag-med-sol-og-byger",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-08 04:28:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.398011",
+      "internal_id": "ce9ea4f998df3552b67547df4992c82671eaad9667689eb90ceef021e6419367",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11764,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "13-\u00e5rig pige efterlyst i Nordjylland",
+      "description": "En 13-\u00e5rig pige fra Aalborg er her til morgen blevet efterlyst af Nordjyllands Politi.",
+      "url": "https://www.dr.dk/nyheder/seneste/13-aarig-pige-efterlyst-i-nordjylland",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-08 04:18:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.373473",
+      "internal_id": "7738daf52b13ee81486e84e6d0cfa88f3d3eab8b5b5c445500d4f8b8054c12a6",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11763,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "2024 kan blive det varmeste \u00e5r nogensinde",
+      "description": "13 m\u00e5neder i streg er der blevet sl\u00e5et varmerekord hver m\u00e5ned. Alts\u00e5 har m\u00e5nederne v\u00e6ret den varmeste m\u00e5lt nogensinde. Men det sluttede med juli, der kun er overg\u00e5et af varmen juli 2023.",
+      "url": "https://www.dr.dk/nyheder/seneste/2024-kan-blive-det-varmeste-aar-nogensinde",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2024%2F08%2F08%2Fscanpix-20240807-190655-4.jpg&w=700",
+      "publishedAt": "2024-08-08 03:48:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.368047",
+      "internal_id": "67861d7408a8a987d70560dd7dd9d5dab7d062e43bbe53f899367add09ed754f",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11782,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "AP",
+      "title": "UN convenes experts to determine if mpox in Africa is global emergency",
+      "description": "The head of the World Health Organization said Wednesday he will convene an expert group to determine if the increasing spread of the mpox virus in Africa warrants being declared a global emergency. At a press briefing in Geneva, WHO Director-General Tedros A\u2026",
+      "url": "https://www.business-standard.com/world-news/un-convenes-experts-to-determine-if-mpox-in-africa-is-global-emergency-124080800072_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/30/thumb/fitandfill/400X400/1717065407-9638.JPG",
+      "publishedAt": "2024-08-08 03:02:42",
+      "content": "Officials at the Africa CDC said nearly 70% of cases in Congo are in children younger than 15, who also accounted for 85% of deaths WHO's Tedros said the agency has released $1 million from its emer\u2026 [+2587 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.637269",
+      "internal_id": "6bf446b608e9a318dbd9ba6009a3244b3215e790341a0be6af0f4396dbbaff23",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11756,
+      "query": [
+        "dengue",
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod: CHO: Two suspected dengue, leptospirosis deaths in Bacolod",
+      "description": "BACOLOD CITY \u2013 The City Health Office (CHO) reported two fatalities from suspected dengue and leptospirosis. Dr. Grace Tan, head of the CHO Environment and Sanitation Division, stated that an 18-year-old girl from Barangay Estefania was the first fatality lin\u2026",
+      "url": "https://rpnradio.com/bacolod-cho-two-suspected-dengue-leptospirosis-deaths-in-bacolod/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/08/RPN-Website-Feat-Pic-34.jpg",
+      "publishedAt": "2024-08-08 02:27:25",
+      "content": "BACOLOD CITY The City Health Office (CHO) reported two fatalities from suspected dengue and leptospirosis. Dr. Grace Tan, head of the CHO Environment and Sanitation Division, stated that an 18-year-\u2026 [+1505 chars]",
+      "retrievedAt": "2024-08-09 07:05:57.925155",
+      "internal_id": "916c6967754a340c2896e3bfc99bfb32035b30003faf3f006bd0eb8801fffa7a",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11773,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Tusinder samlet til moddemonstrationer i England",
+      "description": "Onsdag aften samlede tusindvis af demonstranter sig i flere britiske byer for at demonstrere mod de flere steder voldelige protester, der har fundet sted den seneste uge.",
+      "url": "https://www.dr.dk/nyheder/seneste/tusinder-samlet-til-moddemonstrationer-i-england",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-08 02:20:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.431511",
+      "internal_id": "b847ed20eff4a09e21635dfb73d2024c1c2220315ea776586924ef9a96ed8c21",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11776,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "UN health agency convening experts to determine if the mpox outbreak in Africa is a global emergency",
+      "description": "The head of the World Health Organization says he will convene an expert group to determine if the increasing spread of the mpox virus in Africa warrants being declared a global emergency",
+      "url": "https://abcnews.go.com/Health/wireStory/health-agency-convening-experts-determine-mpox-outbreak-africa-112663755",
+      "urlToImage": "https://i.abcnewsfe.com/a/685f6fd6-3cb8-4b17-8a45-ab796600b5c1/wirestory_6fbd377ba1a9f3b2e344673978ff47c7_16x9.jpg?w=1600",
+      "publishedAt": "2024-08-08 01:02:27",
+      "content": "GENEVA -- The head of the World Health Organization said Wednesday he will convene an expert group to determine if the increasing spread of the mpox virus in Africa warrants being declared a global e\u2026 [+2204 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.530706",
+      "internal_id": "790fe05b08c8537edecb2ad9bf21620dd1ccd6ec34a19472589452f5fb41426f",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11772,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "N\u00f8dhj\u00e6lpsarbejder fra World Central Kitchen dr\u00e6bt i Gaza",
+      "description": "En medarbejder hos n\u00f8dhj\u00e6lpsorganisationen World Central Kitchen er onsdag blevet dr\u00e6bt i Gaza.",
+      "url": "https://www.dr.dk/nyheder/seneste/noedhjaelpsarbejder-fra-world-central-kitchen-draebt-i-gaza",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-08 00:55:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.425969",
+      "internal_id": "90fedbfd5d92297fd2fbca0010a24da6b29b563ba3fd85c5f5a5b63e8bf799fa",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 11781,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Viktor Axelsen er landet i Danmark: Modtaget af spontane klapsalver i lufthavnen",
+      "description": "En tr\u00e6t Viktor Axelsens landede omkring midnat i K\u00f8benhavns Lufthavn efter at have genvundet OL-guldet i badminton i Paris.",
+      "url": "https://www.dr.dk/nyheder/seneste/viktor-axelsen-er-landet-i-danmark-modtaget-af-spontane-klapsalver-i-lufthavnen",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-07 23:41:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.607004",
+      "internal_id": "c08ae14f32dc36059c8ba441b0ed6db2fdb2e9a5b0a150b46f8e8fd4ce0e0b9f",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11765,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Biden frygter uro hvis Trump taber valget",
+      "description": "Den amerikanske pr\u00e6sident, Joe Biden, f\u00f8ler sig langt fra sikker p\u00e5, at overdragelsen af pr\u00e6sidentembedet i USA kommer til at forl\u00f8be fredeligt.",
+      "url": "https://www.dr.dk/nyheder/seneste/biden-frygter-uro-hvis-trump-taber-valget",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-07 23:17:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.378721",
+      "internal_id": "2bce0f99a18c007dc95ffd18859a7eabf97637376ca0a6a0868ea92a3e321162",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11775,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "b\u00fcn/AFP",
+      "title": "WHO alarmiert: Gef\u00e4hrliche Mpox-Variante breitet sich aus",
+      "description": "Die Infektionen mit der neuen Mpox-Variante, bekannt auch als Affenpocken, nehmen zu. Der WHO-Chef erw\u00e4gt, die h\u00f6chste Warstufe auszurufen.",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article406971920/who-alarmiert-gefaehrliche-mpox-variante-breitet-sich-aus.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406971902/406971902_1723071786_v16_9_1600.jpeg",
+      "publishedAt": "2024-08-07 23:03:06",
+      "content": "Die Infektionen mit der neuen Mpox-Variante, bekannt auch als Affenpocken, nehmen zu. Der WHO-Chef erw\u00e4gt, die h\u00f6chste Warstufe auszurufen. Wegen der Ausbreitung von Mpox-Viren, fr\u00fcher bekannt als A\u2026 [+2656 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.508462",
+      "internal_id": "a8d6e32d5267ae78030e7af7d280b3c795f4985923a17a5910d3b1996f5a101a",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11754,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Court to BBMP: What have you done to prevent accumulation of solid waste?",
+      "description": "Court questions BBMP on steps taken to prevent accumulation of solid waste and curb dengue spread in Bengaluru. Read more to find out the details of the court's concerns and the preventive measures needed to combat dengue effectively.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/preventing-dengue-spread-court-questions-bbmps-solid-waste-management/articleshow/112357998.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112357995,width-1070,height-580,imgsize-296584,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-07 22:55:20",
+      "content": "8 flowers and plants that will attract birds to your garden",
+      "retrievedAt": "2024-08-09 07:05:57.893279",
+      "internal_id": "ba6f7c7431357a87ee0295e7f6029043cb84d4e0cb32dcf15a7e2bb723f8e944",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11766,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Ny trafikaftale i Aarhus: Flere busser og mere letbane skal g\u00f8re byen gr\u00f8n",
+      "description": "Et bredt flertal i Aarhus Byr\u00e5d er her til aften blevet enige om en gr\u00f8n mobilitetsplan.",
+      "url": "https://www.dr.dk/nyheder/seneste/ny-trafikaftale-i-aarhus-flere-busser-og-mere-letbane-skal-goere-byen-groen",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-07 22:34:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.392524",
+      "internal_id": "1616092cee48c6a41778117c230e37286297d767885c33e4144d3939970e0437",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11751,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Brasil ultrapassa marca de 5 mil mortes por dengue",
+      "description": "S\u00e3o Paulo concentra a maior parte dos casos prov\u00e1veis da doen\u00e7a The post Brasil ultrapassa marca de 5 mil mortes por dengue appeared first on Giz Brasil.",
+      "url": "https://gizmodo.uol.com.br/brasil-ultrapassa-marca-de-5-mil-mortes-por-dengue/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/08/dengue-agencia-brasil.webp",
+      "publishedAt": "2024-08-07 22:11:12",
+      "content": "Texto: Paula Laboissi\u00e8re/Ag\u00eancia Brasil O Brasil j\u00e1 contabiliza 5.008 mortes por dengue em 2024. O n\u00famero \u00e9 mais de quatro vezes superior ao registrado ao longo de todo o ano anterior, quando foram \u2026 [+1306 chars]",
+      "retrievedAt": "2024-08-09 07:05:57.831193",
+      "internal_id": "4c4391846bb34d483530b80ccf17ae243bb38b884898df3683eadc050504833f",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11757,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Lawsuit launched by family of Mi'kmaw woman in N.S. claims negligence in her death",
+      "description": "Destiny Rennie, 22, died in hospital a year ago with fungal meningitis. Her family alleges she was mistreated by doctors who thought she was an illicit drug user.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/lawsuit-ns-health-mikmaq-woman-death-fungal-meningitis-1.7287879",
+      "urlToImage": "https://i.cbc.ca/1.7287904.1723062095!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/destiny-rennie.jpg",
+      "publishedAt": "2024-08-07 22:06:18",
+      "content": "The mother of an Indigenous woman who died in hospital with fungal meningitis says her daughter's race may have played a role in the allegedly negligent medical treatment she received. In response t\u2026 [+4994 chars]",
+      "retrievedAt": "2024-08-09 07:05:58.188809",
+      "internal_id": "b32bbbb64ddb551b4104959341b481190a292dd4e270d1095079db77503993be",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11759,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Beth Mole",
+      "title": "New mpox outbreak raises alarm; WHO considers declaring international emergency",
+      "description": "A different clade of mpox than the previous outbreak is spilling out of the DRC.",
+      "url": "https://arstechnica.com/science/2024/08/new-mpox-outbreak-raises-alarm-who-considers-declaring-international-emergency/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-151056898-760x380.jpeg",
+      "publishedAt": "2024-08-07 21:52:54",
+      "content": "Enlarge/ A 2003 photo of the arms and legs of a 4-year-old girl infected with mpox in Liberia. 3 A deadly outbreak of mpox (previously called monkeypox) is spilling out of the Democratic Republic \u2026 [+2711 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.316337",
+      "internal_id": "7f82e086495fbf9449bc8614cb8a306f1c51ecf890983831543533e5c0f8999b",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11771,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Fodboldtilh\u00e6ngere kastede cykler mod politiet efter kamp i Parken",
+      "description": "Der opstod uroligheder og opt\u00f8jer efter en fodboldkamp mellem danske FC K\u00f8benhavn og tjekkiske Banik Ostrava onsdag aften i Parken i K\u00f8benhavn.",
+      "url": "https://www.dr.dk/nyheder/seneste/fodboldtilhaengere-kastede-cykler-mod-politiet-efter-kamp-i-parken",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-07 21:45:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.420597",
+      "internal_id": "40ba767916041c52c69f1b9e6e223ef3f333663f963f952df7cd177fab5d8ee7",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11760,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "WHO calls emergency meeting to discuss jump in mpox cases from DRC",
+      "description": "Nearly 27,000 cases of mpox have been found in the Democratic Republic of Congo, with about 1,100 deaths.",
+      "url": "https://www.aljazeera.com/news/2024/8/7/who-calls-emergency-meeting-to-discuss-jump-in-mpox-cases-from-drc",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/04/2022-05-25T210712Z_910061344_RC2IEU96HIKI_RTRMADP_3_HEALTH-MONKEYPOX-VACCINES-1682498483.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-08-07 20:45:03",
+      "content": "The World Health Organization (WHO) has called an emergency meeting to discuss a jump in mpox cases spreading from the Democratic Republic of Congo (DRC). WHO Director-General Tedros Adhanom Ghebrey\u2026 [+2838 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.330763",
+      "internal_id": "6584de4bdc0cae29b2a740f7a7aae875a469fba254aa679072d5ffb223c43a82",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11749,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WDBJ7",
+      "author": "Kaitlyn Dillon",
+      "title": "Bland County cow tests positive for rabies, Virginia Department of Health warns",
+      "description": "A cow located in Bland County has tested positive for rabies, according to the Virginia Department of Health",
+      "url": "https://www.wdbj7.com/2024/08/07/bland-county-cow-tests-positive-rabies-virginia-department-health-warns/",
+      "urlToImage": "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/v2/AEVGSMSUVFHRRE6KVVWN277Q6A.png?auth=941b09644cf07a99b05238834096c530dfa16ac383a4938ec8b663d96a28cd50&width=1200&height=600&smart=true",
+      "publishedAt": "2024-08-07 20:43:50",
+      "content": "BLAND COUNTY, Va. (WDBJ) - A cow located in Bland County has tested positive for rabies, according to the Virginia Department of Health Mount Rogers Health District. On August 1, a cow was seen droo\u2026 [+914 chars]",
+      "retrievedAt": "2024-08-09 07:05:56.944770",
+      "internal_id": "dc52e141bd0eac1aea009712880962121370c60088ddeb173f8537e8002886fb",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11762,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Taylor Swift aflyser alle koncerter i Wien efter mistanke om terrorplaner",
+      "description": "De tre koncerter, som verdensstjernen Taylor Swift skulle have holdt i Wien i torsdag, fredag og l\u00f8rdag, er blevet aflyst.",
+      "url": "https://www.dr.dk/nyheder/seneste/taylor-swift-aflyser-alle-koncerter-i-wien-efter-mistanke-om-terrorplaner",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-07 20:39:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.362589",
+      "internal_id": "89874fa84c8bd97bd89e633a77c9e89d244abff850ec02100dada055a85c405e",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11778,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "EFE",
+      "title": "\u00bfPeligro por Mpox? OMS revisar\u00e1 si viruela del mono es emergencia internacional otra vez",
+      "description": "La OMS est\u00e1 vigilando los casos de Mpox variante 1 y 2 en varias naciones de \u00c1frica.",
+      "url": "https://www.elfinanciero.com.mx/salud/2024/08/07/peligro-por-mpox-oms-revisara-si-viruela-del-mono-es-emergencia-internacional-otra-vez/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/MvxzFYyfHGun5U_wpF8SS1zxK_M=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TRQZHDTGLVE5LKXRHV45V56RFM.jpeg",
+      "publishedAt": "2024-08-07 19:59:48",
+      "content": "El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, confirm\u00f3 este mi\u00e9rcoles que el Comit\u00e9 de Emergencia que le asesora sobre los brotes epid\u00e9micos que pueden\u2026 [+2407 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.553440",
+      "internal_id": "6f66873142e58c12c49851b24b41906770ec70c5732d8228de45bea54493914c",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11750,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WSAZ-TV",
+      "author": "Alyssa Hannahs",
+      "title": "Public Health Alert issued after bat tests positive for rabies",
+      "description": "Health officials are warning neighbors to never pet, feed, or house stray animals or bats.",
+      "url": "https://www.wsaz.com/2024/08/07/public-health-alert-issued-after-bat-tests-positive-rabies/",
+      "urlToImage": "https://gray-wsaz-prod.cdn.arcpublishing.com/resizer/v2/5GZ7KBIRPVEYPFZEJA4KICZCKE.png?auth=8673dae8ac688c45c059435f04b6cfaa44e865e641b473f697ec6a56ef1fcfa5&width=1200&height=600&smart=true",
+      "publishedAt": "2024-08-07 19:56:50",
+      "content": "RALEIGH COUNTY, W.Va. (WSAZ) -- The Beckley Raleigh County Health Department has been notified of a positive rabies test result from a bat from the Bolt area of Raleigh County. The Health Department\u2026 [+604 chars]",
+      "retrievedAt": "2024-08-09 07:05:56.972713",
+      "internal_id": "c35ca1d01c49c39187bb617e92734a86b2cf88813d301fb57912a5c18a97d711",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11770,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Br\u00e6ndende lastbil sp\u00e6rrer Vestmotorvejen mod Fyn ved Svenstrup",
+      "description": "En lastbil er brudt i brand p\u00e5 Vestmotorvejen ved Svenstrup. Det betyder, at motorvejen er sp\u00e6rret i retning mod Fyn fra afk\u00f8rsel 41. Det skriver Sydsj\u00e6llands og Lolland-Falsters Politi p\u00e5 det sociale medie X.",
+      "url": "https://www.dr.dk/nyheder/seneste/braendende-lastbil-spaerrer-vestmotorvejen-mod-fyn-ved-svenstrup",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-07 19:49:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.414623",
+      "internal_id": "8a238892b46d47c85b6e1e33ff4039973c41fb8e13410b238c8539c8bc0d5d71",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11768,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards and Sara G. Miller",
+      "title": "CDC alerts doctors to watch for strain of mpox that's spreading in Africa",
+      "description": "The Centers for Disease Control and Prevention issued an alert Wednesday for doctors to watch for signs of a more severe strain of mpox that's currently spreading widely in parts of Africa.",
+      "url": "https://www.nbcnews.com/health/health-news/cdc-alerts-doctors-watch-strain-mpox-spreading-africa-rcna165424",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240806-mpox-ch-1653-4742a3.jpg",
+      "publishedAt": "2024-08-07 19:42:13",
+      "content": "The Centers for Disease Control and Prevention issued an alert Wednesday for doctors to watch for signs of a more severe strain of mpox that's currently spreading widely in parts of Africa. The age\u2026 [+2442 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.403254",
+      "internal_id": "91add9fa7db5f65ecaad34ce8115ccbf0ecaa14283ec561fc22c853cd4fd032b",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11769,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Rusland erkl\u00e6rer undtagelsestilstand i Kursk-regionen",
+      "description": "Der er blevet erkl\u00e6ret undtagelsestilstand i Ruslands Kursk-region midt i en ukrainsk offensiv, siger den lokale guvern\u00f8r, Aleksej Smirnov, p\u00e5 beskedtjenesten Telegram.",
+      "url": "https://www.dr.dk/nyheder/seneste/rusland-erklaerer-undtagelsestilstand-i-kursk-regionen",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-08-07 19:41:00",
+      "content": "Efter mere end 50 nye tilf\u00e6lde af mpox i Den Demokratiske Republik Congo har verdenssundhedsorganisationen, WHO, indkaldt til et krisem\u00f8de. Udover DR Congo, s\u00e5 er der ogs\u00e5 tegn p\u00e5 flere mpox-tilf\u00e6ld\u2026 [+467 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.409041",
+      "internal_id": "dd140734988c092f0fd1e1d80a597f8c1de37ff00f847d0e268ca59b5f9bf9f5",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11774,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "SvD",
+      "title": "Skottlossning i S\u00f6dert\u00e4lje \u2013 en person skadad",
+      "description": "En skottlossning har intr\u00e4ffat i S\u00f6dert\u00e4lje, rapporterar TV4.",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=42432",
+      "urlToImage": "https://static.svd.se/assets/assets/images/logo-sharing-backup.png",
+      "publishedAt": "2024-08-07 19:34:56",
+      "content": "V\u00e4rldsh\u00e4lsoorganisationen WHO kallar till krism\u00f6te efter nya larmrapporter om spridning av mpox, tidigare k\u00e4nt som apkoppsvirus. Utbrott av mpox uppt\u00e4cktes i Kongo-Kinshasa, men verkar ha spridits u\u2026 [+627 chars]",
+      "retrievedAt": "2024-08-09 07:05:59.486538",
+      "internal_id": "69eeebf242513e58289f8bea4d34a1ea962e5e625f4c2a052b8a3193c27e1baf",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 11755,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "OMS atualiza lista de micro-organismos com potencial de causar pandemias",
+      "description": "Documento ser\u00e1 guia para novas pesquisas na \u00e1rea, a fim de ampliar a capacidade de resposta caso surjam amea\u00e7as",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/oms-atualiza-lista-de-micro-organismos-com-potencial-de-causar-pandemias,1381fec98b54112b644d9caf2c9b5f32m0iu9fuf.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-08-07 19:24:25",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) divulgou uma nova lista de pat\u00f3genos com potencial de causar pandemias. Entre os v\u00edrus e bact\u00e9rias elencados, est\u00e3o aqueles respons\u00e1veis pela dengue, monkeypox, v\u2026 [+5202 chars]",
+      "retrievedAt": "2024-08-09 07:05:57.907026",
+      "internal_id": "6fd5a1ef86810fd0a616ae88345ebeafa855077fa15e6d68d3c79feb66016bee",
+      "publishedAtLabel": "Aug 7"
+    },
     {
       "id": 11720,
       "query": [
@@ -24110,6 +24725,186 @@
       "content": "10 beautiful fishes to keep in home aquariums for beginners",
       "retrievedAt": "2024-06-25 07:05:46.009156",
       "internal_id": "cf7eb9252f3e7f2a71d9cbbcd50f2add209aeccc78def5a53e63e09918c4c646",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10412,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Madrid, en alerta por dengue tras registrar el doble de casos que en 2023",
+      "description": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid ha duplicado en lo que llevamos de a\u00f1o los casos registrado\u2026",
+      "url": "https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2024/06/23/combo-mosquitotigre-U18720438030ZoL-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-06-23 17:48:28",
+      "content": "El dengue es hoy una de las enfermedades emergentes con mayor potencial de riesgo en todo el mundo, principalmente por la globalizaci\u00f3n, el cambio clim\u00e1tico y las inundaciones. La Comunidad de Madrid\u2026 [+3708 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.292033",
+      "internal_id": "27eb8ba316639c8071ede24a550604bbbd2540ba2a2585772c56a18c5fb51433",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10409,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Europa Press",
+      "title": "El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
+      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los...",
+      "url": "https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/23e291a4bf337d48bf4a4d4223dfac48/crop/5x0/700x463/f/webp/assets/multimedia/imagenes/2024/06/23/17191631760710.jpg",
+      "publishedAt": "2024-06-23 17:26:45",
+      "content": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo perio\u2026 [+3892 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.238678",
+      "internal_id": "8db81fb0a134209d91cad20a2d9d397f9c8f8f987bee4bb69ffa34ff1ee58b10",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10408,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nath\u00e1lia Cardim",
+      "title": "DF manter\u00e1 faixa et\u00e1ria de vacina\u00e7\u00e3o contra dengue. Veja p\u00fablico-alvo",
+      "description": "Minist\u00e9rio da Sa\u00fade ampliou p\u00fablico-alvo em estados e munic\u00edpios com doses prestes a vencer. No DF, por\u00e9m, imunizantes s\u00f3 expiram em 2025",
+      "url": "https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/11141151/vacinacao-dengue-cruzeiro-criancas-10-11-anos-2.jpeg",
+      "publishedAt": "2024-06-23 17:11:57",
+      "content": "A Secretaria de Sa\u00fade do Distrito Federal (SES-DF) informou neste domingo (23/6) que n\u00e3o haver\u00e1 mudan\u00e7a na estrat\u00e9gia adotada pela pasta com rela\u00e7\u00e3o ao p\u00fablico-alvo da vacina\u00e7\u00e3o contra a dengue na ca\u2026 [+5109 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.211358",
+      "internal_id": "320658297cf021b4f5b323bfff0db2b5023606f8b81cb2272fe0a7d2e9ab8514",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10414,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Livia Kristianti, Raka Adji",
+      "title": "Vigilance key to successful dengue handling in children: Ministry",
+      "description": "Parents&#39; vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control ...",
+      "url": "https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/06/23/IMG-20240623-WA0101.jpg",
+      "publishedAt": "2024-06-23 15:21:55",
+      "content": "Jakarta (ANTARA) - Parents' vigilance is key to the successful handling of dengue fever in children, according to the Director of Communicable Disease Prevention and Control at the Ministry of Health\u2026 [+1870 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.327407",
+      "internal_id": "2496b9087671152e17309e85fe29b32971052ede992151afd8b149dbf10ca946",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10407,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Resilience",
+      "author": "Kurt Cobb",
+      "title": "What the H5N1 scare tells us about ourselves and our society",
+      "description": "I don't know whether there is an H5N1 \"bird flu\" pandemic in our future. We humans think we can build moats around our modern way of life that protect us from the natural world. All the while we have actually been building the equivalent of superhighways into\u2026",
+      "url": "https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/",
+      "urlToImage": "https://www.resilience.org/wp-content/uploads/2024/06/H5N1_Bird_Flu.jpg",
+      "publishedAt": "2024-06-23 15:03:03",
+      "content": "I don\u2019t know whether there is an H5N1 \u201cbird flu\u201d pandemic in our future. H5N1 seems to be very dangerous to humans. Half of the 900 people known to have contracted it worldwide since 2003 have died. \u2026 [+5039 chars]",
+      "retrievedAt": "2024-06-24 19:05:44.883629",
+      "internal_id": "62238520b3c315e4084be41b5b077c7cd990335ee2c4bd8c1fb74aeb434e6e9e",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10411,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "El dengue aumenta en la Comunidad: 76 casos en lo que va de a\u00f1o, el doble respecto a 2023",
+      "description": "Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplicar los notificados en el mismo periodo del a\u00f1o 2023, seg\u00fan los \u00faltimos datos del \u00c1rea de Vigilan\u2026",
+      "url": "https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240623132950_1200.jpg",
+      "publishedAt": "2024-06-23 11:29:50",
+      "content": "MADRID, 23 Jun. (EUROPA PRESS) - Los casos de dengue registrados en la Comunidad de Madrid en lo que llevamos de 2024 se han incrementado hasta los 76, todos ellos importados, lo que supone duplic\u2026 [+5875 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.283012",
+      "internal_id": "b56c770f8270b84a00b07c240e8722daf132d7a3d4b10e71900a9cdbb5f56902",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10410,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para p\u00fablico de 4 a 59 anos",
+      "description": "Minist\u00e9rio da Sa\u00fade diz que, preferencialmente, as doses devem ser remanejadas para cidades n\u00e3o contempladas, mas, em caso de necessidade, a faixa et\u00e1ria atendida pode ser ampliada",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/06/23/110087725-ycmfxt5i7rdo5hsujaog5fblou.png",
+      "publishedAt": "2024-06-23 10:24:33",
+      "content": "O Minist\u00e9rio da Sa\u00fade informou que as doses da vacina da dengue com o prazo pr\u00f3ximo ao vencimento entre junho e julho devem ser remanejadas para cidades ou usadas para ampliar a faixa et\u00e1ria atendida\u2026 [+1596 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.277233",
+      "internal_id": "bc310198810c439c113360287caf4bc652c190f5b4ef0ac3f27ad4221f1dba31",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10413,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Ginny Reese",
+      "title": "Florida dept of health confirms local human case of dengue fever",
+      "description": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever.",
+      "url": "https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever",
+      "urlToImage": "https://img.particlenews.com/img/id/3RZR15_0u0aR5p700?type=thumbnail_1600x1200",
+      "publishedAt": "2024-06-23 10:02:31",
+      "content": "The Florida Department of Health in Hillsborough County (DOH-Hillsborough) has confirmed a human case of locally-acquired dengue fever. DOH-Hillsborough and Hillsborough County Mosquito Control ar\u2026 [+1307 chars]",
+      "retrievedAt": "2024-06-24 19:05:45.311734",
+      "internal_id": "2699b7e0152fddd6e1b132528b2520bd5dc07d5aa79c7c0f2e2d271f9a14fbf3",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10406,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Jesse Hyland",
+      "title": "Bird flu found at second poultry farm in Hawkesbury area \u2014 just kilometres away from site of initial outbreak",
+      "description": "An outbreak of bird flu has been detected on a second farm in Sydney's north-west, with more than 86,000 chickens to be culled.",
+      "url": "https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d5d6a00e59b4a6fcc93dc7a56632bb8b?impolicy=wcms_watermark_news&cropH=913&cropW=1623&xPos=133&yPos=167&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-06-23 07:52:57",
+      "content": "In short: A second farm in the Hawkesbury region has been confirmed to have the HPAI H7N8 strain of avian influenza.The chicken meat farm is within the restricted biosecurity zone se\u2026 [+3610 chars]",
+      "retrievedAt": "2024-06-24 19:05:44.432602",
+      "internal_id": "4e996e79db6da56a5397a593b33cf52eaed5958e91ce81243db7ca33a1bb1518",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 10400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Auch Urlaubsorte betroffen: Italien k\u00e4mpft mit doppelter Dengue-Belastung",
+      "description": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die F\u00e4lle, die durch Tigerm\u00fccken in Italien verursacht werden. \u2026",
+      "url": "https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25029658/8121325893-cImg_16_9-w1200/220432705.jpg",
+      "publishedAt": "2024-06-23 07:06:44",
+      "content": "Die Urlaubssaison steht an. Doch gerade jetzt nehmen in Italien die Infektionen mit dem Dengue-Fieber zu. Viele infizieren sich im Ausland und schleppen die Krankheit ein. Allerdings steigen auch die\u2026 [+5656 chars]",
+      "retrievedAt": "2024-06-24 07:07:00.243495",
+      "internal_id": "df75e123d194d7a022ad7278ab605fb63631805af05d41b3b6827e05b28ec592",
       "publishedAtLabel": "Jun 23"
     }
   ]

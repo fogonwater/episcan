@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 43
-- **Last harvest:** 2024-08-08 19:05
-- **Most recent article:** 2024-08-07 18:48:00
+- **New articles in last harvest:** 34
+- **Last harvest:** 2024-08-09 07:06
+- **Most recent article:** 2024-08-08 06:23:41
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 92 | 52 | 95 | 62 | 63 | 55 | 22 | 441 |
-| h5n1 | 35 | 59 | 52 | 62 | 38 | 21 | 4 | 271 |
-| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 69 | 221 |
+| dengue | 100 | 52 | 95 | 62 | 63 | 55 | 28 | 455 |
+| h5n1 | 36 | 59 | 52 | 62 | 38 | 21 | 4 | 272 |
+| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 93 | 245 |
 | malaria | 24 | 15 | 14 | 31 | 16 | 15 | 8 | 123 |
-| zika | 17 | 20 | 12 | 6 | 10 | 12 | 5 | 82 |
+| zika | 17 | 20 | 12 | 6 | 10 | 12 | 6 | 83 |
 | measles | 8 | 9 | 12 | 19 | 22 | 8 | 0 | 78 |
-| chikungunya | 17 | 6 | 6 | 10 | 7 | 6 | 3 | 55 |
-| rabies | 8 | 4 | 2 | 17 | 8 | 12 | 4 | 55 |
-| hpai | 2 | 3 | 5 | 6 | 3 | 4 | 0 | 23 |
+| rabies | 8 | 4 | 2 | 17 | 8 | 12 | 6 | 57 |
+| chikungunya | 17 | 6 | 6 | 10 | 7 | 6 | 4 | 56 |
+| hpai | 3 | 3 | 5 | 6 | 3 | 4 | 0 | 24 |
 | pertussis | 3 | 1 | 2 | 0 | 5 | 5 | 5 | 21 |
-| meningitis | 1 | 3 | 5 | 3 | 2 | 3 | 1 | 18 |
+| meningitis | 1 | 3 | 5 | 3 | 2 | 3 | 3 | 20 |
 | typhoid | 3 | 4 | 6 | 1 | 3 | 1 | 0 | 18 |
-| leptospirosis | 2 | 1 | 3 | 4 | 1 | 2 | 0 | 13 |
+| leptospirosis | 2 | 1 | 3 | 4 | 1 | 2 | 1 | 14 |
 | yersinia | 2 | 0 | 6 | 0 | 2 | 1 | 0 | 11 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-32 (zika)
+
+- [Ces maladies qui vont déferler dans une France plus chaude](https://www.alternatives-economiques.fr/maladies-deferler-une-france-plus-chaude/00111974) (Alternatives-economiques.fr)
 
 - [DENGUE? ARIDANGHE – DALL’INIZIO DELL’ANNO SONO STATI CONFERMATI 324 CASI DI DENGUE: LA METÀ DI ESSI È IN VENETO, LOMBARDIA E LAZIO, E TUTTI SONO STATI CONTRATTI ALL’ESTERO – FORTUNATAMENTE NESSUNO È STATO LETALE – I DATI DEL SISTEMA NAZIONALE DI SORVEGLIANZA DELL’ISTITUTO SUPERIORE DI SANITÀ: CI SONO STATI 8 CASI DI CHIKUNGUNYA, 4 DI ZIKA E…](https://www.dagospia.com/rubrica-29/cronache/dengue-aridanghe-ndash-dall-rsquo-inizio-dell-rsquo-anno-sono-stati-404225.htm) (Dagospia.com)
 
@@ -50,6 +52,10 @@ Source: [News API](https://newsapi.org/)
 - [What you need to know About Shigella during an Outbreak](https://www.marlerblog.com/case-news/what-you-need-to-know-about-shigella-during-an-outbreak/) (Marlerblog.com)
 
 ## 24-32 (rabies)
+
+- [Bland County cow tests positive for rabies, Virginia Department of Health warns](https://www.wdbj7.com/2024/08/07/bland-county-cow-tests-positive-rabies-virginia-department-health-warns/) (WDBJ7)
+
+- [Public Health Alert issued after bat tests positive for rabies](https://www.wsaz.com/2024/08/07/public-health-alert-issued-after-bat-tests-positive-rabies/) (WSAZ-TV)
 
 - [News24 | Experts link Cape Fur Seal aggression to rabies in Western Cape](https://www.news24.com/news24/community-newspaper/peoples-post/experts-link-cape-fur-seal-aggression-to-rabies-in-western-cape-20240807) (News24)
 
@@ -72,6 +78,54 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough can be deadly for young babies. Vaccination is our best defence](https://theconversation.com/whooping-cough-can-be-deadly-for-young-babies-vaccination-is-our-best-defence-235527) (The Conversation Africa)
 
 ## 24-32 (mpox)
+
+- [Bavarian Nordic Receives USD 156.8 Million from the U.S. Government for Additional Smallpox/Mpox Vaccine Production](https://www.investing.com/news/press-releases/bavarian-nordic-receives-usd-1568-million-from-the-us-government-for-additional-smallpoxmpox-vaccine-production-93CH-3561265) (Investing.com)
+
+- [Bavarian Nordic Receives USD 156.8 Million from the U.S. Government for Additional Smallpox/Mpox Vaccine Production](https://www.globenewswire.com/news-release/2024/08/08/2926556/0/en/Bavarian-Nordic-Receives-USD-156-8-Million-from-the-U-S-Government-for-Additional-Smallpox-Mpox-Vaccine-Production.html) (GlobeNewswire)
+
+- [Bavarian Nordic modtager USD 156,8 mio. fra den amerikanske regering for produktion af yderligere koppe- og mpoxvacciner](https://www.globenewswire.com/news-release/2024/08/08/2926556/0/da/Bavarian-Nordic-modtager-USD-156-8-mio-fra-den-amerikanske-regering-for-produktion-af-yderligere-koppe-og-mpoxvacciner.html) (GlobeNewswire)
+
+- [Comitet de urgență convocat de șeful OMS pentru a evalua riscul internaţional al epidemiei de mpox](http://hotnews.ro/comitet-de-urgenta-convocat-de-seful-oms-pentru-a-evalua-riscul-international-al-epidemiei-de-mpox-1766971) (Hotnews.ro)
+
+- [En torsdag med sol og byger](https://www.dr.dk/nyheder/seneste/en-torsdag-med-sol-og-byger) (Www.dr.dk)
+
+- [13-årig pige efterlyst i Nordjylland](https://www.dr.dk/nyheder/seneste/13-aarig-pige-efterlyst-i-nordjylland) (Www.dr.dk)
+
+- [2024 kan blive det varmeste år nogensinde](https://www.dr.dk/nyheder/seneste/2024-kan-blive-det-varmeste-aar-nogensinde) (Www.dr.dk)
+
+- [UN convenes experts to determine if mpox in Africa is global emergency](https://www.business-standard.com/world-news/un-convenes-experts-to-determine-if-mpox-in-africa-is-global-emergency-124080800072_1.html) (Business Standard)
+
+- [Tusinder samlet til moddemonstrationer i England](https://www.dr.dk/nyheder/seneste/tusinder-samlet-til-moddemonstrationer-i-england) (Www.dr.dk)
+
+- [UN health agency convening experts to determine if the mpox outbreak in Africa is a global emergency](https://abcnews.go.com/Health/wireStory/health-agency-convening-experts-determine-mpox-outbreak-africa-112663755) (ABC News)
+
+- [Nødhjælpsarbejder fra World Central Kitchen dræbt i Gaza](https://www.dr.dk/nyheder/seneste/noedhjaelpsarbejder-fra-world-central-kitchen-draebt-i-gaza) (Www.dr.dk)
+
+- [Viktor Axelsen er landet i Danmark: Modtaget af spontane klapsalver i lufthavnen](https://www.dr.dk/nyheder/seneste/viktor-axelsen-er-landet-i-danmark-modtaget-af-spontane-klapsalver-i-lufthavnen) (Www.dr.dk)
+
+- [Biden frygter uro hvis Trump taber valget](https://www.dr.dk/nyheder/seneste/biden-frygter-uro-hvis-trump-taber-valget) (Www.dr.dk)
+
+- [WHO alarmiert: Gefährliche Mpox-Variante breitet sich aus](https://www.morgenpost.de/ratgeber-wissen/article406971920/who-alarmiert-gefaehrliche-mpox-variante-breitet-sich-aus.html) (Berliner Morgenpost)
+
+- [Ny trafikaftale i Aarhus: Flere busser og mere letbane skal gøre byen grøn](https://www.dr.dk/nyheder/seneste/ny-trafikaftale-i-aarhus-flere-busser-og-mere-letbane-skal-goere-byen-groen) (Www.dr.dk)
+
+- [New mpox outbreak raises alarm; WHO considers declaring international emergency](https://arstechnica.com/science/2024/08/new-mpox-outbreak-raises-alarm-who-considers-declaring-international-emergency/) (Ars Technica)
+
+- [Fodboldtilhængere kastede cykler mod politiet efter kamp i Parken](https://www.dr.dk/nyheder/seneste/fodboldtilhaengere-kastede-cykler-mod-politiet-efter-kamp-i-parken) (Www.dr.dk)
+
+- [WHO calls emergency meeting to discuss jump in mpox cases from DRC](https://www.aljazeera.com/news/2024/8/7/who-calls-emergency-meeting-to-discuss-jump-in-mpox-cases-from-drc) (Al Jazeera English)
+
+- [Taylor Swift aflyser alle koncerter i Wien efter mistanke om terrorplaner](https://www.dr.dk/nyheder/seneste/taylor-swift-aflyser-alle-koncerter-i-wien-efter-mistanke-om-terrorplaner) (Www.dr.dk)
+
+- [¿Peligro por Mpox? OMS revisará si viruela del mono es emergencia internacional otra vez](https://www.elfinanciero.com.mx/salud/2024/08/07/peligro-por-mpox-oms-revisara-si-viruela-del-mono-es-emergencia-internacional-otra-vez/) (El Financiero)
+
+- [Brændende lastbil spærrer Vestmotorvejen mod Fyn ved Svenstrup](https://www.dr.dk/nyheder/seneste/braendende-lastbil-spaerrer-vestmotorvejen-mod-fyn-ved-svenstrup) (Www.dr.dk)
+
+- [CDC alerts doctors to watch for strain of mpox that's spreading in Africa](https://www.nbcnews.com/health/health-news/cdc-alerts-doctors-watch-strain-mpox-spreading-africa-rcna165424) (NBC News)
+
+- [Rusland erklærer undtagelsestilstand i Kursk-regionen](https://www.dr.dk/nyheder/seneste/rusland-erklaerer-undtagelsestilstand-i-kursk-regionen) (Www.dr.dk)
+
+- [Skottlossning i Södertälje – en person skadad](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=42432) (Svenska Dagbladet)
 
 - [Oprydning efter kemikalieuheld i Roskilde afsluttet](https://www.dr.dk/nyheder/seneste/oprydning-efter-kemikalieuheld-i-roskilde-afsluttet) (Www.dr.dk)
 
@@ -213,6 +267,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (meningitis)
 
+- [Diagnostic prediction models for bacterial meningitis in children with a suspected central nervous system infection: a systematic review and prospective validation study](https://bmjopen.bmj.com/content/14/8/e081172) (The BMJ)
+
+- [Lawsuit launched by family of Mi'kmaw woman in N.S. claims negligence in her death](https://www.cbc.ca/news/canada/nova-scotia/lawsuit-ns-health-mikmaq-woman-death-fungal-meningitis-1.7287879) (CBC News)
+
 - [Así es la vida de Patricia Pérez y Luis Canut después de la enfermedad que les cambió la vida para siempre](https://www.hola.com/actualidad/20240804708918/la-vida-de-patricia-perez-y-luis-canut-despues-de-la-enfermedad-que-les-cambio-la-vida-para-siempre/) (Hola)
 
 ## 24-32 (malaria)
@@ -233,6 +291,10 @@ Source: [News API](https://newsapi.org/)
 
 - [A transfer learning approach to identify Plasmodium in microscopic images](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012327) (Plos.org)
 
+## 24-32 (leptospirosis)
+
+- [Bacolod: CHO: Two suspected dengue, leptospirosis deaths in Bacolod](https://rpnradio.com/bacolod-cho-two-suspected-dengue-leptospirosis-deaths-in-bacolod/) (Rpnradio.com)
+
 ## 24-32 (h5n1)
 
 - [Wie gefährlich ist die Vogelgrippe?: „Der Erreger kann den Menschen nicht sehr gut infizieren“](https://www.tagesspiegel.de/gesundheit/wie-gefahrlich-ist-die-vogelgrippe-der-erreger-kann-den-menschen-nicht-sehr-gut-infizieren-12133223.html) (Der Tagesspiegel)
@@ -244,6 +306,18 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
+
+- [Ces maladies qui vont déferler dans une France plus chaude](https://www.alternatives-economiques.fr/maladies-deferler-une-france-plus-chaude/00111974) (Alternatives-economiques.fr)
+
+- [Dengue cases rising in West Bengal, govt says situation under control](https://www.business-standard.com/india-news/dengue-cases-rising-in-west-bengal-govt-says-situation-under-control-124080800235_1.html) (Business Standard)
+
+- [Bacolod: CHO: Two suspected dengue, leptospirosis deaths in Bacolod](https://rpnradio.com/bacolod-cho-two-suspected-dengue-leptospirosis-deaths-in-bacolod/) (Rpnradio.com)
+
+- [Court to BBMP: What have you done to prevent accumulation of solid waste?](https://timesofindia.indiatimes.com/city/bengaluru/preventing-dengue-spread-court-questions-bbmps-solid-waste-management/articleshow/112357998.cms) (The Times of India)
+
+- [Brasil ultrapassa marca de 5 mil mortes por dengue](https://gizmodo.uol.com.br/brasil-ultrapassa-marca-de-5-mil-mortes-por-dengue/) (Uol.com.br)
+
+- [OMS atualiza lista de micro-organismos com potencial de causar pandemias](https://www.terra.com.br/vida-e-estilo/saude/oms-atualiza-lista-de-micro-organismos-com-potencial-de-causar-pandemias,1381fec98b54112b644d9caf2c9b5f32m0iu9fuf.html) (Terra.com.br)
 
 - [DENGUE? ARIDANGHE – DALL’INIZIO DELL’ANNO SONO STATI CONFERMATI 324 CASI DI DENGUE: LA METÀ DI ESSI È IN VENETO, LOMBARDIA E LAZIO, E TUTTI SONO STATI CONTRATTI ALL’ESTERO – FORTUNATAMENTE NESSUNO È STATO LETALE – I DATI DEL SISTEMA NAZIONALE DI SORVEGLIANZA DELL’ISTITUTO SUPERIORE DI SANITÀ: CI SONO STATI 8 CASI DI CHIKUNGUNYA, 4 DI ZIKA E…](https://www.dagospia.com/rubrica-29/cronache/dengue-aridanghe-ndash-dall-rsquo-inizio-dell-rsquo-anno-sono-stati-404225.htm) (Dagospia.com)
 
@@ -290,6 +364,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1137: Dengue is not BANAL](https://www.microbe.tv/twiv/twiv-1137/) (Microbe.tv)
 
 ## 24-32 (chikungunya)
+
+- [Ces maladies qui vont déferler dans une France plus chaude](https://www.alternatives-economiques.fr/maladies-deferler-une-france-plus-chaude/00111974) (Alternatives-economiques.fr)
 
 - [DENGUE? ARIDANGHE – DALL’INIZIO DELL’ANNO SONO STATI CONFERMATI 324 CASI DI DENGUE: LA METÀ DI ESSI È IN VENETO, LOMBARDIA E LAZIO, E TUTTI SONO STATI CONTRATTI ALL’ESTERO – FORTUNATAMENTE NESSUNO È STATO LETALE – I DATI DEL SISTEMA NAZIONALE DI SORVEGLIANZA DELL’ISTITUTO SUPERIORE DI SANITÀ: CI SONO STATI 8 CASI DI CHIKUNGUNYA, 4 DI ZIKA E…](https://www.dagospia.com/rubrica-29/cronache/dengue-aridanghe-ndash-dall-rsquo-inizio-dell-rsquo-anno-sono-stati-404225.htm) (Dagospia.com)
 
@@ -2783,6 +2859,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Research: Avian influenza (bird flu) in Australia](https://www.gov.uk/government/publications/avian-influenza-bird-flu-in-australia) (Www.gov.uk)
 
+- [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
+
 ## 24-26 (h5n1)
 
 - [Nächste Pandemie? Corona dagegen ein „Spaziergang“](https://www.krone.at/3438425) (Krone.at)
@@ -2854,6 +2932,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: USDA secretary urges farmers to take protective measures](https://www.statnews.com/2024/06/24/bird-flu-snapshot-usda-secretary/) (STAT)
 
 - [Persistence of Influenza H5N1 and H1N1 Viruses in Unpasteurized Milk on Milking Unit Surfaces](https://wwwnc.cdc.gov/eid/article/30/8/24-0775_article) (Cdc.gov)
+
+- [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
 
@@ -3040,6 +3120,22 @@ Source: [News API](https://newsapi.org/)
 - [Governo anuncia “estratégia temporária” para vacinas da dengue próximas de vencer](https://olhardigital.com.br/2024/06/23/medicina-e-saude/governo-anuncia-estrategia-temporaria-para-vacinas-da-dengue-proximas-de-vencer/) (Olhardigital.com.br)
 
 - [47 suspected dengue cases in Canacona, officials fear more](https://timesofindia.indiatimes.com/city/goa/47-suspected-dengue-cases-in-canacona-officials-fear-more/articleshow/111212769.cms) (The Times of India)
+
+- [Madrid, en alerta por dengue tras registrar el doble de casos que en 2023](https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html) (Www.abc.es)
+
+- [El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de año, el doble respecto a 2023](https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html) (El Mundo)
+
+- [DF manterá faixa etária de vacinação contra dengue. Veja público-alvo](https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo) (Metropoles.com)
+
+- [Vigilance key to successful dengue handling in children: Ministry](https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry) (Antaranews.com)
+
+- [El dengue aumenta en la Comunidad: 76 casos en lo que va de año, el doble respecto a 2023](https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html) (Europapress.es)
+
+- [Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para público de 4 a 59 anos](https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html) (Terra.com.br)
+
+- [Florida dept of health confirms local human case of dengue fever](https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever) (Newsbreak.com)
+
+- [Auch Urlaubsorte betroffen: Italien kämpft mit doppelter Dengue-Belastung](https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html) (N-tv.de)
 
 ## 24-26 (chikungunya)
 
