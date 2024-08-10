@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 17
-- **Last harvest:** 2024-08-09 19:05
-- **Most recent article:** 2024-08-08 18:21:35
+- **Last harvest:** 2024-08-10 07:05
+- **Most recent article:** 2024-08-09 06:30:58
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 92 | 52 | 95 | 62 | 63 | 55 | 30 | 449 |
-| h5n1 | 35 | 59 | 52 | 62 | 38 | 21 | 4 | 271 |
-| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 105 | 257 |
-| malaria | 24 | 15 | 14 | 31 | 16 | 15 | 9 | 124 |
+| dengue | 100 | 52 | 95 | 62 | 63 | 55 | 33 | 460 |
+| h5n1 | 36 | 59 | 52 | 62 | 38 | 21 | 4 | 272 |
+| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 111 | 263 |
+| malaria | 24 | 15 | 14 | 31 | 16 | 15 | 13 | 128 |
 | zika | 17 | 20 | 12 | 6 | 10 | 12 | 7 | 84 |
-| measles | 8 | 9 | 12 | 19 | 22 | 8 | 1 | 79 |
-| rabies | 8 | 4 | 2 | 17 | 8 | 12 | 6 | 57 |
+| measles | 8 | 9 | 12 | 19 | 22 | 8 | 2 | 80 |
+| rabies | 8 | 4 | 2 | 17 | 8 | 12 | 7 | 58 |
 | chikungunya | 17 | 6 | 6 | 10 | 7 | 6 | 4 | 56 |
-| hpai | 2 | 3 | 5 | 6 | 3 | 4 | 0 | 23 |
-| pertussis | 3 | 1 | 2 | 0 | 5 | 5 | 5 | 21 |
-| meningitis | 1 | 3 | 5 | 3 | 2 | 3 | 3 | 20 |
+| hpai | 3 | 3 | 5 | 6 | 3 | 4 | 0 | 24 |
+| pertussis | 3 | 1 | 2 | 0 | 5 | 5 | 6 | 22 |
+| meningitis | 1 | 3 | 5 | 3 | 2 | 3 | 4 | 21 |
 | typhoid | 3 | 4 | 6 | 1 | 3 | 1 | 0 | 18 |
 | leptospirosis | 2 | 1 | 3 | 4 | 1 | 2 | 1 | 14 |
 | yersinia | 2 | 0 | 6 | 0 | 2 | 1 | 0 | 11 |
@@ -55,6 +55,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (rabies)
 
+- [Whidbey Island bat tests positive for rabies, public health advisory issued](https://www.kiro7.com/news/local/whidbey-island-bat-tests-positive-rabies-public-health-advisory-issued/UXBQBNM7WNH5FGYIHIPSPNCGTI/) (KIRO Seattle)
+
 - [Bland County cow tests positive for rabies, Virginia Department of Health warns](https://www.wdbj7.com/2024/08/07/bland-county-cow-tests-positive-rabies-virginia-department-health-warns/) (WDBJ7)
 
 - [Public Health Alert issued after bat tests positive for rabies](https://www.wsaz.com/2024/08/07/public-health-alert-issued-after-bat-tests-positive-rabies/) (WSAZ-TV)
@@ -69,6 +71,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (pertussis)
 
+- [State issues public health alert over rising rates of whooping cough](https://www.alaskasnewssource.com/2024/08/08/state-issues-public-health-alert-over-rising-rates-whooping-cough/) (Alaskasnewssource.com)
+
 - [Avertismentul dur al unui epidemiolog: „Tusea convulsivă ne sufocă bebelușii”. Cum ne protejăm copiii](https://adevarul.ro/stiri-interne/sanatate/avertismentul-dur-al-unui-epidemiolog-tusea-2380238.html) (Adevarul.ro)
 
 - [Vaccine manufacturers should produce a pertussis only vaccine for use in pregnancy](https://www.bmj.com/content/386/bmj.q1669) (The BMJ)
@@ -81,6 +85,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (mpox)
 
+- [DSÖ mpox için acil durum komitesi kurmayı planlıyor](https://www.haberturk.com/dso-baskani-mpox-icin-acil-durum-komitesi-kurmayi-dusundugunu-acikladi-3709981) (Haberturk.com)
+
+- [L'OMS s'inquiète d'une hausse sans précédent des cas de mpox en Afrique](https://fr.sputniknews.africa/20240809/loms-sinquiete-dune-hausse-sans-precedent-des-cas-de-mpox-en-afrique-1067785693.html) (Sputniknews.africa)
+
+- [Retrospective Seroprevalence of Orthopoxvirus Antibodies among Key Populations, Kenya](https://wwwnc.cdc.gov/eid/article/30/9/24-0510_article) (Cdc.gov)
+
+- [OMS convoca reunião de emergência para tratar de epidemia](https://catracalivre.com.br/saude-bem-estar/oms-convoca-reuniao-de-emergencia-para-tratar-de-epidemia/) (Catracalivre.com.br)
+
 - [Mpox: União Africana vai “provavelmente” declarar emergência de saúde pública na próxima semana](https://observador.pt/2024/08/08/mpox-uniao-africana-vai-provavelmente-declarar-emergencia-de-saude-publica-na-proxima-semana/) (Observador.pt)
 
 - [Mpox en RDC : l’OMS convoque un comité d’urgence face à l’ampleur de l’épidémie](https://www.lemonde.fr/planete/article/2024/08/08/mpox-en-rdc-l-oms-convoque-un-comite-d-urgence-face-a-l-ampleur-de-l-epidemie_6273597_3244.html) (Le Monde)
@@ -89,9 +101,13 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO roept noodcomité bijeen om internationaal risico van pokkenuitbraak te beoordelen](https://businessam.be/who-pokkenuitbraak-noodsituatie-wereldwijd/) (Businessam.be)
 
+- [Vidéo. Qu'est que le virus mpox, aussi appelé variole du singe ?](https://www.ledauphine.com/sante/2024/08/08/qu-est-que-le-virus-mpox-aussi-appele-variole-du-singe) (Le Dauphiné Libéré)
+
 - [Variole du singe : pourquoi l'OMS s'inquiète-t-elle de la recrudescence de cas de mpox en Afrique ?](https://www.francetvinfo.fr/sante/maladie/variole-du-singe/variole-du-singe-pourquoi-l-oms-s-inquiete-t-elle-de-la-recrudescence-de-cas-de-mpox-en-afrique_6714141.html) (Francetvinfo.fr)
 
 - [Larm om mpox i Afrika – stor ökning](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1281817) (Aftonbladet.se)
+
+- [Santé. Épidémie de "mpox" : l’Europe doit-elle s’inquiéter de l’alerte de l’OMS ?](https://www.ledauphine.com/sante/2024/08/08/epidemie-de-mpox-l-europe-doit-elle-s-inquieter-de-l-alerte-de-l-oms) (Le Dauphiné Libéré)
 
 - [Deadlier Strain Of Mpox Causes World Health Organization To Convene Emergency Committee](https://brobible.com/culture/article/deadlier-strain-mpox-world-health-organization-emergency/) (BroBible)
 
@@ -293,6 +309,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (meningitis)
 
+- [Bishop Johanna: Wife of Viral Akorino Pastor Discloses Cause of Death](https://www.tuko.co.ke/entertainment/celebrities/558102-bishop-johanna-wife-viral-akorino-pastor-discloses-death/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
+
 - [Diagnostic prediction models for bacterial meningitis in children with a suspected central nervous system infection: a systematic review and prospective validation study](https://bmjopen.bmj.com/content/14/8/e081172) (The BMJ)
 
 - [Lawsuit launched by family of Mi'kmaw woman in N.S. claims negligence in her death](https://www.cbc.ca/news/canada/nova-scotia/lawsuit-ns-health-mikmaq-woman-death-fungal-meningitis-1.7287879) (CBC News)
@@ -301,9 +319,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (measles)
 
+- [Onward Virus Transmission after Measles Secondary Vaccination Failure](https://wwwnc.cdc.gov/eid/article/30/9/24-0150_article) (Cdc.gov)
+
 - [Measles: 81 cases and 13 outbreaks confirmed in Ireland so far this year](https://www.thejournal.ie/how-many-measles-cases-are-there-in-ireland-3-6458245-Aug2024/) (TheJournal.ie)
 
 ## 24-32 (malaria)
+
+- [Crombez wil zones 30 afbouwen in Oostende - Twee gevallen van malaria in ons land](https://www.standaard.be/cnt/dmf20240809_91864928) (Standaard.be)
+
+- [Luchthavenpersoneel moet extra alert zijn voor muggen na twee gevallen van malaria in ons land](https://www.standaard.be/cnt/dmf20240809_91843780) (Standaard.be)
+
+- [Twee personen ín België besmet geraakt met malaria: “We hebben al zo’n mug gevangen”](https://www.nieuwsblad.be/cnt/dmf20240808_96476362) (Nieuwsblad.be)
+
+- [Twee personen ín België besmet geraakt met malaria: “We hebben al zo’n mug gevangen”](https://www.gva.be/cnt/dmf20240808_97472708) (Www.gva.be)
 
 - [Avec son arsenal de vaccins en “rix”, le géant de la pharma GSK a placé Rixensart sur la carte du monde](https://www.lalibre.be/economie/entreprises-startup/2024/08/08/avec-son-arsenal-de-vaccins-en-rix-le-geant-de-la-pharma-gsk-a-place-rixensart-sur-la-carte-du-monde-FGSZODCHZ5BTNCV26D4FNLNDAM/) (Lalibre.be)
 
@@ -338,6 +366,12 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
+
+- [Dengue cases surge in Kaski](https://english.khabarhub.com/2024/09/372579/) (Khabarhub.com)
+
+- [Vacina contra dengue do Butantan mantém eficácia por 3,7 anos](https://www.metropoles.com/saude/vacina-dengue-butantan-eficacia-por-3-anos) (Metropoles.com)
+
+- [Depressions on plastic sheets over roofs also breeding ground for dengue cases, finds DHS](https://timesofindia.indiatimes.com/city/goa/depressions-on-plastic-sheets-over-roofs-also-breeding-ground-for-dengue-cases-finds-dhs/articleshow/112384974.cms) (The Times of India)
 
 - [Deux nouveaux cas de dengue autochtones détectés en Occitanie, pour un total de 6 cas en France hexagonale cette année](https://www.francetvinfo.fr/sante/maladie/dengue-deux-nouveaux-cas-autochtones-detectes-en-occitanie-pour-un-total-de-6-cas-en-france-hexagonale-cette-annee_6714717.html) (Francetvinfo.fr)
 
@@ -2895,6 +2929,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Research: Avian influenza (bird flu) in Australia](https://www.gov.uk/government/publications/avian-influenza-bird-flu-in-australia) (Www.gov.uk)
 
+- [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
+
 ## 24-26 (h5n1)
 
 - [Nächste Pandemie? Corona dagegen ein „Spaziergang“](https://www.krone.at/3438425) (Krone.at)
@@ -2966,6 +3002,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: USDA secretary urges farmers to take protective measures](https://www.statnews.com/2024/06/24/bird-flu-snapshot-usda-secretary/) (STAT)
 
 - [Persistence of Influenza H5N1 and H1N1 Viruses in Unpasteurized Milk on Milking Unit Surfaces](https://wwwnc.cdc.gov/eid/article/30/8/24-0775_article) (Cdc.gov)
+
+- [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
 
@@ -3152,6 +3190,22 @@ Source: [News API](https://newsapi.org/)
 - [Governo anuncia “estratégia temporária” para vacinas da dengue próximas de vencer](https://olhardigital.com.br/2024/06/23/medicina-e-saude/governo-anuncia-estrategia-temporaria-para-vacinas-da-dengue-proximas-de-vencer/) (Olhardigital.com.br)
 
 - [47 suspected dengue cases in Canacona, officials fear more](https://timesofindia.indiatimes.com/city/goa/47-suspected-dengue-cases-in-canacona-officials-fear-more/articleshow/111212769.cms) (The Times of India)
+
+- [Madrid, en alerta por dengue tras registrar el doble de casos que en 2023](https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html) (Www.abc.es)
+
+- [El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de año, el doble respecto a 2023](https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html) (El Mundo)
+
+- [DF manterá faixa etária de vacinação contra dengue. Veja público-alvo](https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo) (Metropoles.com)
+
+- [Vigilance key to successful dengue handling in children: Ministry](https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry) (Antaranews.com)
+
+- [El dengue aumenta en la Comunidad: 76 casos en lo que va de año, el doble respecto a 2023](https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html) (Europapress.es)
+
+- [Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para público de 4 a 59 anos](https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html) (Terra.com.br)
+
+- [Florida dept of health confirms local human case of dengue fever](https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever) (Newsbreak.com)
+
+- [Auch Urlaubsorte betroffen: Italien kämpft mit doppelter Dengue-Belastung](https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html) (N-tv.de)
 
 ## 24-26 (chikungunya)
 
