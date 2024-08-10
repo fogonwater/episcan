@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-08-10 07:05
-- **Most recent article:** 2024-08-09 06:30:58
+- **New articles in last harvest:** 22
+- **Last harvest:** 2024-08-10 19:05
+- **Most recent article:** 2024-08-09 18:28:04
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-26 | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 100 | 52 | 95 | 62 | 63 | 55 | 33 | 460 |
-| h5n1 | 36 | 59 | 52 | 62 | 38 | 21 | 4 | 272 |
-| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 111 | 263 |
+| dengue | 92 | 52 | 95 | 62 | 63 | 55 | 40 | 459 |
+| h5n1 | 35 | 59 | 52 | 62 | 38 | 21 | 4 | 271 |
+| mpox | 46 | 21 | 26 | 17 | 16 | 26 | 118 | 270 |
 | malaria | 24 | 15 | 14 | 31 | 16 | 15 | 13 | 128 |
-| zika | 17 | 20 | 12 | 6 | 10 | 12 | 7 | 84 |
-| measles | 8 | 9 | 12 | 19 | 22 | 8 | 2 | 80 |
+| zika | 17 | 20 | 12 | 6 | 10 | 12 | 9 | 86 |
+| measles | 8 | 9 | 12 | 19 | 22 | 8 | 4 | 82 |
 | rabies | 8 | 4 | 2 | 17 | 8 | 12 | 7 | 58 |
 | chikungunya | 17 | 6 | 6 | 10 | 7 | 6 | 4 | 56 |
-| hpai | 3 | 3 | 5 | 6 | 3 | 4 | 0 | 24 |
+| hpai | 2 | 3 | 5 | 6 | 3 | 4 | 1 | 24 |
+| meningitis | 1 | 3 | 5 | 3 | 2 | 3 | 6 | 23 |
 | pertussis | 3 | 1 | 2 | 0 | 5 | 5 | 6 | 22 |
-| meningitis | 1 | 3 | 5 | 3 | 2 | 3 | 4 | 21 |
 | typhoid | 3 | 4 | 6 | 1 | 3 | 1 | 0 | 18 |
 | leptospirosis | 2 | 1 | 3 | 4 | 1 | 2 | 1 | 14 |
-| yersinia | 2 | 0 | 6 | 0 | 2 | 1 | 0 | 11 |
+| yersinia | 2 | 0 | 6 | 0 | 2 | 1 | 1 | 12 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-32 (zika)
+
+- [Oropouche pode levar a novo surto de microcefalia no Brasil?](https://www.dw.com/pt-br/oropouche-pode-levar-a-novo-surto-de-microcefalia-no-brasil/a-69899499) (DW (English))
+
+- [First imported cases of Zika-like virus detected in Europe](https://www.politico.eu/article/first-imported-case-oropouche-zika-virus-detected-europe/) (POLITICO.eu)
 
 - [Zika virus cases rising: Here's how it spreads, symptoms, prevention, and treatment](https://economictimes.indiatimes.com/news/new-updates/zika-virus-cases-rising-heres-how-it-spreads-symptoms-prevention-and-treatment/articleshow/112377544.cms) (The Times of India)
 
@@ -48,6 +52,10 @@ Source: [News API](https://newsapi.org/)
 - [66 cases of Zika virus infection found in Pune city since June](https://economictimes.indiatimes.com/news/india/66-cases-of-zika-virus-infection-found-in-pune-city-since-june/articleshow/112320607.cms) (The Times of India)
 
 - [Klimawandel | Olympia als „Superspreading-Event“: Infiziert die Tigermücke in Paris Tausende Besucher?](https://www.freitag.de/autoren/nick-reimer/wissenschaftler-warnen-vor-denge-fieber-epidemie-durch-asiatische-tigermuecke) (Freitag.de)
+
+## 24-32 (yersinia)
+
+- [Retraction: HSP70 Domain II of Mycobacterium tuberculosis Modulates Immune Response and Protective Potential of F1 and LcrV Antigens of Yersinia pestis in a Mouse Model](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012406) (Plos.org)
 
 ## 24-32 (shigellosis)
 
@@ -84,6 +92,20 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough can be deadly for young babies. Vaccination is our best defence](https://theconversation.com/whooping-cough-can-be-deadly-for-young-babies-vaccination-is-our-best-defence-235527) (The Conversation Africa)
 
 ## 24-32 (mpox)
+
+- [WHO invites mpox vaccine manufacturers to submit dossiers for emergency evaluation](https://punchng.com/who-invites-mpox-vaccine-manufacturers-to-submit-dossiers-for-emergency-evaluation/) (The Punch)
+
+- [Africa CDC to Declare First-Ever Continental Health Emergency as Mpox Surges](https://healthpolicy-watch.news/africa-cdc-to-declare-first-ever-continental-health-emergency-as-mpox-surges/) (Healthpolicy-watch.news)
+
+- [Mpox: Warum der Welt ein neuer Gesundheitsnotfall droht](https://www.zeit.de/gesundheit/2024-08/mpox-affenpocken-virus-who-kongo) (Die Zeit)
+
+- [Alarmed by mpox surge, Africa CDC is poised to declare a 'continental emergency'](https://www.npr.org/sections/goats-and-soda/2024/08/09/nx-s1-5068572/mpox-virus-emergency-africa) (NPR)
+
+- [Knowledge and attitude towards mpox: Systematic review and meta-analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308478) (Plos.org)
+
+- [Kabus geri döndü! DSÖ alarmda: İşte Türkiye’deki son durum](https://www.haber7.com/saglik/haber/3449508-kabus-geri-dondu-dso-alarmda-iste-turkiyedeki-son-durum) (Haber7.com)
+
+- [Africa to declare public health emergency over Mpox](https://punchng.com/africa-to-declare-public-health-emergency-over-mpox/) (The Punch)
 
 - [DSÖ mpox için acil durum komitesi kurmayı planlıyor](https://www.haberturk.com/dso-baskani-mpox-icin-acil-durum-komitesi-kurmayi-dusundugunu-acikladi-3709981) (Haberturk.com)
 
@@ -309,6 +331,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (meningitis)
 
+- [Burden and bacterial etiology of neonatal meningitis at Hawassa University Comprehensive Specialized Hospital, Hawassa, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308523) (Plos.org)
+
+- [Video of Late Pastor Johanna Preaching While on Crutches Warms Hearts](https://www.tuko.co.ke/entertainment/celebrities/558110-video-late-pastor-johanna-preaching-crutches-warms-hearts-quote/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
+
 - [Bishop Johanna: Wife of Viral Akorino Pastor Discloses Cause of Death](https://www.tuko.co.ke/entertainment/celebrities/558102-bishop-johanna-wife-viral-akorino-pastor-discloses-death/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 - [Diagnostic prediction models for bacterial meningitis in children with a suspected central nervous system infection: a systematic review and prospective validation study](https://bmjopen.bmj.com/content/14/8/e081172) (The BMJ)
@@ -318,6 +344,10 @@ Source: [News API](https://newsapi.org/)
 - [Así es la vida de Patricia Pérez y Luis Canut después de la enfermedad que les cambió la vida para siempre](https://www.hola.com/actualidad/20240804708918/la-vida-de-patricia-perez-y-luis-canut-despues-de-la-enfermedad-que-les-cambio-la-vida-para-siempre/) (Hola)
 
 ## 24-32 (measles)
+
+- [Health officials urge parents to vaccinate their kids before they go back to school](https://www.cbsnews.com/video/health-officials-urge-parents-to-vaccinate-their-kids-before-they-go-back-to-school/) (CBS News)
+
+- [How to help protect your kids from measles as school starts](https://www.cbsnews.com/news/measles-protect-your-kids-before-school/) (CBS News)
 
 - [Onward Virus Transmission after Measles Secondary Vaccination Failure](https://wwwnc.cdc.gov/eid/article/30/9/24-0150_article) (Cdc.gov)
 
@@ -355,6 +385,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: CHO: Two suspected dengue, leptospirosis deaths in Bacolod](https://rpnradio.com/bacolod-cho-two-suspected-dengue-leptospirosis-deaths-in-bacolod/) (Rpnradio.com)
 
+## 24-32 (hpai)
+
+- [編集部がAI PCで対決！ 手に汗握るバトル形式のライブコマース配信やります](https://www.gizmodo.jp/2024/08/intel-hp-livecommerce-info.html) (Gizmodo.jp)
+
 ## 24-32 (h5n1)
 
 - [Wie gefährlich ist die Vogelgrippe?: „Der Erreger kann den Menschen nicht sehr gut infizieren“](https://www.tagesspiegel.de/gesundheit/wie-gefahrlich-ist-die-vogelgrippe-der-erreger-kann-den-menschen-nicht-sehr-gut-infizieren-12133223.html) (Der Tagesspiegel)
@@ -366,6 +400,20 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
+
+- [Lulu Santos atualiza estado de saúde após internação: 'Mais um sustinho para a conta'](https://www.terra.com.br/diversao/gente/lulu-santos-atualiza-estado-de-saude-apos-internacao-mais-um-sustinho-para-a-conta,e9052e3d0234d74e8352d506b3043c6duuc0r8xp.html) (Terra.com.br)
+
+- [Retour de la Dengue : Plus de 3.000 cas importés en France métropolitaine depuis le début de l’année, un nouveau record](https://www.20minutes.fr/sante/4105232-20240809-retour-dengue-plus-3-000-cas-importes-france-metropolitaine-depuis-debut-annee-nouveau-record) (20 Minutes)
+
+- [Plus de 3 000 cas de dengue ont été recensés en métropole depuis le début de l’année](https://www.ouest-france.fr/sante/maladies/plus-de-3-000-cas-de-dengue-ont-ete-recenses-en-metropole-depuis-le-debut-de-lannee-aa82424c-5648-11ef-9261-54448a3d7417) (Ouest-France)
+
+- [Dengue : plus de 3 000 cas de dengue détectés en France métropolitaine depuis le début de l'année](https://www.francetvinfo.fr/sante/maladie/dengue-plus-de-3-000-cas-de-dengue-detectes-en-france-metropolitaine-depuis-le-debut-de-l-annee_6716199.html) (Francetvinfo.fr)
+
+- [Santé. Plus de 3 000 cas de dengue en métropole depuis le début de l'année](https://www.ledauphine.com/sante/2024/08/09/plus-de-3-000-cas-de-dengue-en-metropole-depuis-le-debut-de-l-annee) (Le Dauphiné Libéré)
+
+- [Dengue cases reported in Solukhumbu among locals without travel history](https://english.khabarhub.com/2024/09/373039/) (Khabarhub.com)
+
+- [Quais as diferenças entre dengue e febre oropouche?](https://olhardigital.com.br/2024/08/09/medicina-e-saude/quais-as-diferencas-entre-dengue-e-febre-oropouche/) (Olhardigital.com.br)
 
 - [Dengue cases surge in Kaski](https://english.khabarhub.com/2024/09/372579/) (Khabarhub.com)
 
@@ -2929,8 +2977,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Research: Avian influenza (bird flu) in Australia](https://www.gov.uk/government/publications/avian-influenza-bird-flu-in-australia) (Www.gov.uk)
 
-- [Bird flu found at second poultry farm in Hawkesbury area — just kilometres away from site of initial outbreak](https://www.abc.net.au/news/2024-06-23/nsw-second-chicken-farm-in-hawkesbury-area-confirmed-bird-flu/104012728) (ABC News (AU))
-
 ## 24-26 (h5n1)
 
 - [Nächste Pandemie? Corona dagegen ein „Spaziergang“](https://www.krone.at/3438425) (Krone.at)
@@ -3002,8 +3048,6 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu snapshot: USDA secretary urges farmers to take protective measures](https://www.statnews.com/2024/06/24/bird-flu-snapshot-usda-secretary/) (STAT)
 
 - [Persistence of Influenza H5N1 and H1N1 Viruses in Unpasteurized Milk on Milking Unit Surfaces](https://wwwnc.cdc.gov/eid/article/30/8/24-0775_article) (Cdc.gov)
-
-- [What the H5N1 scare tells us about ourselves and our society](https://www.resilience.org/stories/2024-06-23/what-the-h5n1-scare-tells-us-about-ourselves-and-our-society/) (Resilience)
 
 ## 24-26 (dengue)
 
@@ -3190,22 +3234,6 @@ Source: [News API](https://newsapi.org/)
 - [Governo anuncia “estratégia temporária” para vacinas da dengue próximas de vencer](https://olhardigital.com.br/2024/06/23/medicina-e-saude/governo-anuncia-estrategia-temporaria-para-vacinas-da-dengue-proximas-de-vencer/) (Olhardigital.com.br)
 
 - [47 suspected dengue cases in Canacona, officials fear more](https://timesofindia.indiatimes.com/city/goa/47-suspected-dengue-cases-in-canacona-officials-fear-more/articleshow/111212769.cms) (The Times of India)
-
-- [Madrid, en alerta por dengue tras registrar el doble de casos que en 2023](https://www.abc.es/espana/madrid/madrid-alerta-dengue-tras-registrar-doble-casos-20240623190823-nt.html) (Www.abc.es)
-
-- [El dengue aumenta en la Comunidad de Madrid: 76 casos en lo que va de año, el doble respecto a 2023](https://www.elmundo.es/madrid/2024/06/23/66785854e4d4d8fb2b8b4576.html) (El Mundo)
-
-- [DF manterá faixa etária de vacinação contra dengue. Veja público-alvo](https://www.metropoles.com/distrito-federal/df-mantera-faixa-etaria-de-vacinacao-contra-dengue-veja-publico-alvo) (Metropoles.com)
-
-- [Vigilance key to successful dengue handling in children: Ministry](https://en.antaranews.com/news/316731/vigilance-key-to-successful-dengue-handling-in-children-ministry) (Antaranews.com)
-
-- [El dengue aumenta en la Comunidad: 76 casos en lo que va de año, el doble respecto a 2023](https://www.europapress.es/madrid/noticia-dengue-aumenta-comunidad-76-casos-va-ano-doble-respecto-2023-20240623132950.html) (Europapress.es)
-
-- [Dengue: Vacinas a vencer devem ser mandadas a outras cidades ou dadas para público de 4 a 59 anos](https://www.terra.com.br/vida-e-estilo/saude/dengue-vacinas-a-vencer-devem-ser-mandadas-a-outras-cidades-ou-dadas-para-publico-de-4-a-59-anos,c2c49eb3d884c9776d56c5af049db77a6kmupila.html) (Terra.com.br)
-
-- [Florida dept of health confirms local human case of dengue fever](https://www.newsbreak.com/hillsborough-county-fl/3501890004634-florida-dept-of-health-confirms-local-human-case-of-dengue-fever) (Newsbreak.com)
-
-- [Auch Urlaubsorte betroffen: Italien kämpft mit doppelter Dengue-Belastung](https://www.n-tv.de/wissen/Sperrungen-und-Desinfektion-Wie-Italien-die-Ausbreitung-von-Denuge-Fieber-vermeiden-will-article25029204.html) (N-tv.de)
 
 ## 24-26 (chikungunya)
 
