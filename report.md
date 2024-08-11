@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-08-11 07:06
-- **Most recent article:** 2024-08-10 06:06:00
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-08-11 19:06
+- **Most recent article:** 2024-08-10 17:35:26
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 52 | 95 | 62 | 63 | 55 | 44 | 371 |
+| dengue | 49 | 95 | 62 | 63 | 55 | 46 | 370 |
 | h5n1 | 59 | 52 | 62 | 38 | 21 | 6 | 238 |
-| mpox | 21 | 26 | 17 | 16 | 26 | 120 | 226 |
-| malaria | 15 | 14 | 31 | 16 | 15 | 14 | 105 |
+| mpox | 19 | 26 | 17 | 16 | 26 | 123 | 227 |
+| malaria | 15 | 14 | 31 | 16 | 15 | 15 | 106 |
 | measles | 9 | 12 | 19 | 22 | 8 | 6 | 76 |
-| zika | 20 | 12 | 6 | 10 | 12 | 9 | 69 |
-| rabies | 4 | 2 | 17 | 8 | 12 | 8 | 51 |
+| zika | 20 | 12 | 6 | 10 | 12 | 11 | 71 |
+| rabies | 3 | 2 | 17 | 8 | 12 | 8 | 50 |
 | chikungunya | 6 | 6 | 10 | 7 | 6 | 4 | 39 |
 | meningitis | 3 | 5 | 3 | 2 | 3 | 6 | 22 |
 | hpai | 3 | 5 | 6 | 3 | 4 | 1 | 22 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-32 (zika)
+
+- [Oropouche pode levar a novo surto de microcefalia no Brasil?](https://www.metropoles.com/saude/oropouche-novo-surto-microcefalia-brasil) (Metropoles.com)
+
+- [Virusul Oropouche, asemănător Zika, a ajuns în Europa. Cât de periculos este și ce recomandă autoritățile](https://adevarul.ro/stiri-interne/sanatate/virusul-oropouche-asemanator-zika-a-ajuns-in-2380883.html) (Adevarul.ro)
 
 - [Oropouche pode levar a novo surto de microcefalia no Brasil?](https://www.dw.com/pt-br/oropouche-pode-levar-a-novo-surto-de-microcefalia-no-brasil/a-69899499) (DW (English))
 
@@ -94,6 +98,12 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough can be deadly for young babies. Vaccination is our best defence](https://theconversation.com/whooping-cough-can-be-deadly-for-young-babies-vaccination-is-our-best-defence-235527) (The Conversation Africa)
 
 ## 24-32 (mpox)
+
+- [OMS reúne comité de emergência na quarta-feira para avaliar epidemia de mpox](https://observador.pt/2024/08/10/oms-reune-comite-de-emergencia-na-quarta-feira-para-avaliar-epidemia-de-mpox/) (Observador.pt)
+
+- [Organização Mundial da Saúde reúne de emergência para avaliar se ressurgimento da epidemia Monkeypox merece alerta internacional](https://expresso.pt/sociedade/saude/2024-08-10-organizacao-mundial-da-saude-reune-de-emergencia-para-avaliar-se-ressurgimento-da-epidemia-monkeypox-merece-alerta-internacional-f6c1e71d) (Expresso.pt)
+
+- [Mpox já teve 709 casos no Brasil este ano, e Saúde chama reunião](https://www.metropoles.com/colunas/guilherme-amado/mpox-ja-teve-709-casos-no-brasil-este-ano-e-saude-chama-reuniao) (Metropoles.com)
 
 - ["Affenpocken" Mpox: Neuer Pockenalarm in Afrika – mit weltweiten Folgen?](https://www.stern.de/gesundheit/-affenpocken--mpox--ruft-die-who-den-gesundheitsnotstand-aus--34967462.html) (STERN.de)
 
@@ -365,6 +375,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-32 (malaria)
 
+- [Seasonal infections take a toll on health insurance claims](https://economictimes.indiatimes.com/industry/banking/finance/insure/seasonal-infections-take-a-toll-on-health-insurance-claims/articleshow/112423622.cms) (The Times of India)
+
 - [Mosquitoes bite into health insurance claims](https://timesofindia.indiatimes.com/business/india-business/mosquitoes-bite-into-health-insurance-claims/articleshow/112415785.cms) (The Times of India)
 
 - [Crombez wil zones 30 afbouwen in Oostende - Twee gevallen van malaria in ons land](https://www.standaard.be/cnt/dmf20240809_91864928) (Standaard.be)
@@ -418,6 +430,10 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
+
+- [Surge in dengue and cholera cases across Nepal](https://english.khabarhub.com/2024/10/374251/) (Khabarhub.com)
+
+- [Seasonal infections take a toll on health insurance claims](https://economictimes.indiatimes.com/industry/banking/finance/insure/seasonal-infections-take-a-toll-on-health-insurance-claims/articleshow/112423622.cms) (The Times of India)
 
 - [Conheça lista de doenças com potencial epidêmico divulgada pela OMS](https://valor.globo.com/brasil/noticia/2024/08/10/conhea-lista-de-doenas-com-potencial-epidmico-divulgada-pela-oms.ghtml) (Globo)
 
@@ -2387,8 +2403,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mission Rabies to vaccinate dogs across Tiswadi taluka](https://timesofindia.indiatimes.com/city/goa/mission-rabies-to-vaccinate-dogs-across-tiswadi-taluka/articleshow/111495788.cms) (The Times of India)
 
-- [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
-
 ## 24-27 (pertussis)
 
 - [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
@@ -2432,10 +2446,6 @@ Source: [News API](https://newsapi.org/)
 - [Starliner Astronauts Are in Limbo, and Emergency Access to Abortion Is Preserved](https://www.scientificamerican.com/podcast/episode/starliner-astronauts-are-in-limbo-and-emergency-access-to-abortion-is/) (Scientific American)
 
 - [Advocates use end of Pride Month to warn about Mpox](https://www.cbsnews.com/video/advocates-use-end-of-pride-month-to-warn-about-mpox/) (CBS News)
-
-- [Eksperci martwią się nowym wariantem ospy. "Wszystkie kraje powinny się przygotować"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html) (Gazeta.pl)
-
-- [Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?](https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html) (Der Tagesspiegel)
 
 ## 24-27 (meningitis)
 
@@ -2728,12 +2738,6 @@ Source: [News API](https://newsapi.org/)
 - [Surging dengue virus in Bengaluru poses threat to women, kids: Doctors](https://timesofindia.indiatimes.com/city/bengaluru/surging-dengue-virus-in-bengaluru-poses-threat-to-women-kids-doctors/articleshow/111392899.cms) (The Times of India)
 
 - [BBMP audit confirms 1 dengue death, 213 new cases in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-audit-confirms-1-dengue-death-213-new-cases-in-bengaluru/articleshow/111390828.cms) (The Times of India)
-
-- [First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak](https://www.jpost.com/health-and-wellness/article-808379) (The Jerusalem Post)
-
-- [Dengue fever is surging worldwide. A hotter planet will make it worse.](https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/) (The Washington Post)
-
-- [«تب استخوان شکن» را جدی بگیریم](https://www.isna.ir/news/1403041006560/تب-استخوان-شکن-را-جدی-بگیریم) (Isna.ir)
 
 ## 24-27 (chikungunya)
 
