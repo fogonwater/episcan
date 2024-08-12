@@ -1,8 +1,98 @@
 {
-  "last_updated": "2024-08-12 07:06",
-  "count_articles_total": 1216,
-  "count_articles_new": 20,
+  "last_updated": "2024-08-12 19:06",
+  "count_articles_total": 1215,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 11882,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Claudia Br\u00f6ll",
+      "title": "Sorge wegen Ausbreitung des Mpox-Virus in Afrika",
+      "description": "Eine neue Variante des Mpox-Virus breitet sich in Afrika aus. Mehr als 15.000 F\u00e4lle wurden seit Jahresbeginn registriert. Beh\u00f6rden sehen eine \u201ealarmierende Entwicklung\u201c, die WHO beruft einen Notfallausschuss ein.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/gesellschaft/805874728/1.9913288/facebook_teaser/eine-krankenschwester.jpg",
+      "publishedAt": "2024-08-11 18:54:32",
+      "content": "Einen Tag zuvor hatte die Weltgesundheitsorganisation wegen der weiteren Ausbreitung innerhalb und au\u00dferhalb Afrikas einen Notfallausschuss einberufen. Er solle pr\u00fcfen, ob der Ausbruch eine gesundhei\u2026 [+3470 chars]",
+      "retrievedAt": "2024-08-12 19:06:08.676886",
+      "internal_id": "0599adcff99139707421aeae9c960be048397ae165f7ba2a5be3e2c6faecae74",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11879,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Unb",
+      "title": "One dies of dengue; 202 hospitalised in 24hrs",
+      "description": "One death was reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 65 this year. During the period, 202 more patients were hospitalised with viral fever, according to the Direc\u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/13/dengue-rajib-dhar.jpg",
+      "publishedAt": "2024-08-11 16:30:41",
+      "content": "One death was reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 65 this year. During the period, 202 more patien\u2026 [+433 chars]",
+      "retrievedAt": "2024-08-12 19:06:07.168514",
+      "internal_id": "37f7c12f867094cc1a16e3d59c506550898ea9a60433c1c8aa866ca050c80c98",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11878,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Christina Sticht, Philipp Znidar",
+      "title": "Oropouche-Ausbruch weitet sich aus",
+      "description": "Brasilien meldet fast 7500 F\u00e4lle \u2013 und die ersten Todesopfer. W\u00e4hrend das Land zugleich gegen Dengue-Fieber k\u00e4mpfen muss, wird nun untersucht, welches Risiko f\u00fcr Schwangere durch Oropouche besteht. Ein Experte erkl\u00e4rt, ob sich das Virus auch in Deutschland ve\u2026",
+      "url": "https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile252950602/6217936867-ci16x9-w1200/Fumace-Alberto-Torre.jpg",
+      "publishedAt": "2024-08-11 15:08:07",
+      "content": "Brasilien meldet fast 7500 F\u00e4lle und die ersten Todesopfer. W\u00e4hrend das Land zugleich gegen Dengue-Fieber k\u00e4mpfen muss, wird nun untersucht, welches Risiko f\u00fcr Schwangere durch Oropouche besteht. Ein\u2026 [+6484 chars]",
+      "retrievedAt": "2024-08-12 19:06:07.079239",
+      "internal_id": "ce8eb764efff712d7a622b489b1873a03b3e8d8098b3653e186668fcb3b2e7d0",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11880,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Maria Isopescu",
+      "title": "Epidemia de \u201evariola maimu\u021bei\u201d se r\u0103sp\u00e2nde\u0219te \u00een mai multe \u021b\u0103ri africane. OMS convoac\u0103 un comitet de urgen\u021b\u0103",
+      "description": "Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS) convoac\u0103 un comitet de urgen\u0163\u0103 pe tema mpox - cunoscut\u0103 \u015fi sub denumirea de ''variola maimu\u0163ei'' \u2013 pentru 14 august, pentru a evalua necesitatea decret\u0103rii celui mai \u00eenalt nivel de alert\u0103 \u00een fa\u0163a actualei epidemii din ma\u2026",
+      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA1dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwNSUyRjIxJTJGMTUxMzIxNl8xNTEz/MjE2X3ZhcmlvbGEtbWFpbXV0ZWktcHJv/ZmltZWRpYS0xLmpwZyZ3PTEyMDAmaD02/MzAmemM9MSZoYXNoPWFkMzI1ZGNkYmRhOTI5ZjhhNjgxODcyZGNhMWFhODQ3.thumb.jpg",
+      "publishedAt": "2024-08-11 08:39:07",
+      "content": "Organizaia Mondial a Sntii (OMS) convoac un comitet de urgen pe tema mpox - cunoscut i sub denumirea de ''variola maimuei'' pentru 14 august, pentru a evalua necesitatea decretrii celui mai \u00eenalt niv\u2026 [+2452 chars]",
+      "retrievedAt": "2024-08-12 19:06:08.583653",
+      "internal_id": "5ac2f3f9b68c5e4620042b101959245bf9f874a3a72a6e135db969c98891fb73",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11881,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "Victor Garcia",
+      "title": "Nouvelle \u00e9pid\u00e9mie de Mpox : \"On sait ce qu\u2019est une pand\u00e9mie, et on n\u2019en veut pas\"",
+      "description": "Une nouvelle souche de la variole du singe, qui pourrait \u00eatre plus transmissible et plus l\u00e9tale, inqui\u00e8te l\u2019OMS, qui devrait rehausser son alerte d\u2019ici quelques jours.",
+      "url": "https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/3BLCYWTIM5DVFAXCSHB6JYYGCQ.jpg?auth=73a3f28297ce361e6afab5c58e26ba7607687405803332bdeef8d8eab18fd0e1&width=1200&height=630&quality=85&smart=true",
+      "publishedAt": "2024-08-11 08:30:00",
+      "content": "Faut-il sinqui\u00e9ter de l\u00e9pid\u00e9mie du nouveau variant de Mpox, aussi appel\u00e9 \"variole du singe\" ? D\u00e9tect\u00e9e en R\u00e9publique d\u00e9mocratique du Congo (RDC) en septembre 2023, la maladie se propage depuis dans p\u2026 [+9165 chars]",
+      "retrievedAt": "2024-08-12 19:06:08.644131",
+      "internal_id": "0dfa34437a537e8a5cbdc57d532f591befba6cc39776b010ecea1850110e83f7",
+      "publishedAtLabel": "Aug 11"
+    },
     {
       "id": 11858,
       "query": [
@@ -21871,114 +21961,6 @@
       "retrievedAt": "2024-07-02 07:06:48.077631",
       "internal_id": "eb269e69585d68dfe518c542b505097473346f8359eb87920d7c6267b46e1572",
       "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 10662,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Times News Network",
-      "title": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
-      "description": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
-      "url": "https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-06-30 18:55:54",
-      "content": "Unforgettable train journeys across Indias best landscape",
-      "retrievedAt": "2024-07-01 19:06:27.850727",
-      "internal_id": "8e5ccf841780d17f0e928a4e5489025e0527981bb917e8ea39cfab18fffcdd41",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10664,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "BY DR. ITAY GAL",
-      "title": "First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak",
-      "description": "An expert explained to Maariv that a mosquito subspecies that can transmit the disease is already present in Israel, and climate change will bring the spread of fever closer",
-      "url": "https://www.jpost.com/health-and-wellness/article-808379",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/607075",
-      "publishedAt": "2024-06-30 18:10:43",
-      "content": "Israel has received its first warning of the deadly dengue fever approaching the region from the Far East and South America, now that the Health Ministry has announced 7 cases of infection with the d\u2026 [+4566 chars]",
-      "retrievedAt": "2024-07-01 19:06:30.007312",
-      "internal_id": "f696471ffdcf720ec6041eaa59ea3bdff84ae060a8c9e02e5cad73903d856551",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10667,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.pl",
-      "author": "Anna Kurek",
-      "title": "Eksperci martwi\u0105 si\u0119 nowym wariantem ospy. \"Wszystkie kraje powinny si\u0119 przygotowa\u0107\"",
-      "description": "Od czasu globalnej epidemii ospy ma\u0142piej w 2022 r. wirus nie znikn\u0105\u0142. Nadal stosunkowo szybko mutuje i coraz lepiej przystosowuje si\u0119 do ludzkiego \u015brodowiska.",
-      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html",
-      "urlToImage": "https://bi.im-g.pl/im/b8/84/1b/z28855224IER,W-Teksasie-zmarl-pierwszy-zakazony-wirusem-malpiej.jpg",
-      "publishedAt": "2024-06-30 15:28:00",
-      "content": "Mpox (dawna nazwa choroby - ospa mapia) to choroba zakana wywoywana przez wirusa MPXV. To dwuniciowy wirus DNA, kt\u00f3ry moe zakaa zwierzta i ludzi. Ten wirus jest powizany z wirusem ospy prawdziwej, os\u2026 [+4722 chars]",
-      "retrievedAt": "2024-07-01 19:06:32.471069",
-      "internal_id": "3f57cb6795f86b906367160cbb7ec6b7f97ab4628db96bc6084e999f99c65e47",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10666,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Trudie Lang, L\u00e9andre Murhula  Masirika, Jean Claude Udahemuka, Sascha Karberg",
-      "title": "Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?",
-      "description": "Ein Mpox-Stamm hat es bereits nach Europa und Amerika geschafft, mit glimpflichen Folgen. Doch eine neue Variante macht Virologen gro\u00dfe Sorgen. Die Nachbarl\u00e4nder der Republik Kongo sind bereits betroffen.",
-      "url": "https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/pocken03-affenpockenvirus2/alternates/BASE_16_9_W1400/pocken03-affenpockenvirus.jpeg",
-      "publishedAt": "2024-06-30 14:06:42",
-      "content": "Eine neue, deutlich aggressivere Variante des Pockenvirus Mpox (ehemals Monkeypox/Affenpocken genannt) hat an der Grenze der Demokratischen Republik Kongo (DRC) zu Uganda, Burundi und Ruanda einen si\u2026 [+180 chars]",
-      "retrievedAt": "2024-07-01 19:06:32.465695",
-      "internal_id": "b22aeec5d2b3d03786c50980f11086c786e4170a8111564d040b8e93e66ca1be",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10665,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-washington-post",
-      "source_name": "The Washington Post",
-      "author": "Lena H. Sun, Sarah Kaplan",
-      "title": "Dengue fever is surging worldwide. A hotter planet will make it worse.",
-      "description": "Climate change helped fuel an explosion of dengue cases in the Americas, including Puerto Rico, as mosquitoes multiply in warmer, wetter weather.",
-      "url": "https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYCGCBYE4YSDRHV6JYIJ7VUUB4.JPG&w=1440",
-      "publishedAt": "2024-06-30 13:00:36",
-      "content": "SAN JUAN, Puerto Rico The curly-haired girl came to theemergency roomwith fever, aches and signs of dehydration,common indications of many childhood illnesses.But the 9-year-old pale and listless ben\u2026 [+15886 chars]",
-      "retrievedAt": "2024-07-01 19:06:30.033250",
-      "internal_id": "1db6632ce959c23f1a08cc59e6a74815d7cb7bf3b9e821a2864a4fbcd1c576d3",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10663,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
-      "title": "\u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0631\u0627 \u062c\u062f\u06cc \u0628\u06af\u06cc\u0631\u06cc\u0645",
-      "description": "\u0645\u0639\u0627\u0648\u0646 \u0628\u0647\u062f\u0627\u0634\u062a \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0645\u0634\u0647\u062f \u06af\u0641\u062a: \u062a\u0628 \u062f\u0646\u06af\u06cc \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0646\u06cc\u0632 \u0634\u0646\u0627\u062e\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f\u061b \u0686\u0631\u0627\u06a9\u0647 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u062f\u0631\u062f \u0634\u062f\u06cc\u062f \u062d\u0627\u0635\u0644 \u0627\u0632 \u0622\u0646 \u0628\u06cc\u0645\u0627\u0631 \u062a\u0635\u0648\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0627\u0633\u062a\u062e\u0648\u0627\u0646\u200c\u0647\u0627\u06cc\u0634 \u062f\u0631 \u062d\u0627\u0644 \u0634\u06a9\u0633\u062a\u0646 \u0627\u0633\u062a.",
-      "url": "https://www.isna.ir/news/1403041006560/\u062a\u0628-\u0627\u0633\u062a\u062e\u0648\u0627\u0646-\u0634\u06a9\u0646-\u0631\u0627-\u062c\u062f\u06cc-\u0628\u06af\u06cc\u0631\u06cc\u0645",
-      "urlToImage": "https://cdn.isna.ir/d/2022/09/13/4/62379201.jpg?ts=1663057108264",
-      "publishedAt": "2024-06-30 09:36:56",
-      "content": "/ : \u00ab \u00bb . : (Dengue fever) . : . : . : \u00ab \u00bb . : . : . : . : . : . : . : #",
-      "retrievedAt": "2024-07-01 19:06:30.001513",
-      "internal_id": "62958486975b7ce354cab8c73e564ae10f145bbfb70fc1440c1c9a2d41e90cb0",
-      "publishedAtLabel": "Jun 30"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-08-12 07:06
-- **Most recent article:** 2024-08-11 06:08:41
+- **New articles in last harvest:** 5
+- **Last harvest:** 2024-08-12 19:06
+- **Most recent article:** 2024-08-11 18:54:32
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 52 | 95 | 62 | 63 | 55 | 46 | 2 | 375 |
-| mpox | 21 | 26 | 17 | 16 | 26 | 135 | 3 | 244 |
+| dengue | 49 | 95 | 62 | 63 | 55 | 46 | 4 | 374 |
+| mpox | 19 | 26 | 17 | 16 | 26 | 135 | 6 | 245 |
 | h5n1 | 59 | 52 | 62 | 38 | 21 | 6 | 0 | 238 |
 | malaria | 15 | 14 | 31 | 16 | 15 | 16 | 1 | 108 |
 | measles | 9 | 12 | 19 | 22 | 8 | 6 | 0 | 76 |
 | zika | 20 | 12 | 6 | 10 | 12 | 11 | 0 | 71 |
-| rabies | 4 | 2 | 17 | 8 | 12 | 8 | 0 | 51 |
+| rabies | 3 | 2 | 17 | 8 | 12 | 8 | 0 | 50 |
 | chikungunya | 6 | 6 | 10 | 7 | 6 | 4 | 0 | 39 |
 | meningitis | 3 | 5 | 3 | 2 | 3 | 6 | 0 | 22 |
 | hpai | 3 | 5 | 6 | 3 | 4 | 1 | 0 | 22 |
@@ -35,6 +35,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-33 (mpox)
 
+- [Sorge wegen Ausbreitung des Mpox-Virus in Afrika](https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html) (Faz.net)
+
+- [Epidemia de „variola maimuței” se răspândește în mai multe țări africane. OMS convoacă un comitet de urgență](https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979) (Digi24.ro)
+
+- [Nouvelle épidémie de Mpox : "On sait ce qu’est une pandémie, et on n’en veut pas"](https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/) (L'Express)
+
 - [Συναγερμός στον ΠΟΥ για τον ιό mpox - Αυξάνονται τα κρούσματα «ευλογίας των πιθήκων»](https://www.newsit.gr/ygeia/Mpox-synagermos-ston-pou-gia-tin-eylogia-ton-pithikon-ayksanontai-ta-krousmata/4154115/) (Newsit.gr)
 
 - [ΠΟΥ: Συγκαλεί συνεδρίαση της επιτροπής αντιμετώπισης υγειονομικών κρίσεων την Τετάρτη](https://www.protothema.gr/ugeia/article/1529029/pou-sugalei-sunedriasi-tis-epitropis-adimetopisis-ugeionomikon-kriseon-tin-tetarti/) (Protothema.gr)
@@ -50,6 +56,10 @@ Source: [News API](https://newsapi.org/)
 - [Department of Health, nagpasalig nga masarangan ang pag-atinder sang nagasaka nga kaso sang leptospirosis](https://bacolod.bomboradyo.com/department-of-health-nagpasalig-nga-masarangan-ang-pag-atinder-sang-nagasaka-nga-kaso-sang-leptospirosis/) (Bomboradyo.com)
 
 ## 24-33 (dengue)
+
+- [One dies of dengue; 202 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511) (Tbsnews.net)
+
+- [Oropouche-Ausbruch weitet sich aus](https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html) (DIE WELT)
 
 - [Infektionskrankheiten: Oropouche-Virus breitet sich in Lateinamerika aus](https://www.tagesspiegel.de/wissen/infektionskrankheiten-oropouche-virus-breitet-sich-in-lateinamerika-aus-12180026.html) (Der Tagesspiegel)
 
@@ -2451,8 +2461,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mission Rabies to vaccinate dogs across Tiswadi taluka](https://timesofindia.indiatimes.com/city/goa/mission-rabies-to-vaccinate-dogs-across-tiswadi-taluka/articleshow/111495788.cms) (The Times of India)
 
-- [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
-
 ## 24-27 (pertussis)
 
 - [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
@@ -2496,10 +2504,6 @@ Source: [News API](https://newsapi.org/)
 - [Starliner Astronauts Are in Limbo, and Emergency Access to Abortion Is Preserved](https://www.scientificamerican.com/podcast/episode/starliner-astronauts-are-in-limbo-and-emergency-access-to-abortion-is/) (Scientific American)
 
 - [Advocates use end of Pride Month to warn about Mpox](https://www.cbsnews.com/video/advocates-use-end-of-pride-month-to-warn-about-mpox/) (CBS News)
-
-- [Eksperci martwią się nowym wariantem ospy. "Wszystkie kraje powinny się przygotować"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html) (Gazeta.pl)
-
-- [Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?](https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html) (Der Tagesspiegel)
 
 ## 24-27 (meningitis)
 
@@ -2792,12 +2796,6 @@ Source: [News API](https://newsapi.org/)
 - [Surging dengue virus in Bengaluru poses threat to women, kids: Doctors](https://timesofindia.indiatimes.com/city/bengaluru/surging-dengue-virus-in-bengaluru-poses-threat-to-women-kids-doctors/articleshow/111392899.cms) (The Times of India)
 
 - [BBMP audit confirms 1 dengue death, 213 new cases in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-audit-confirms-1-dengue-death-213-new-cases-in-bengaluru/articleshow/111390828.cms) (The Times of India)
-
-- [First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak](https://www.jpost.com/health-and-wellness/article-808379) (The Jerusalem Post)
-
-- [Dengue fever is surging worldwide. A hotter planet will make it worse.](https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/) (The Washington Post)
-
-- [«تب استخوان شکن» را جدی بگیریم](https://www.isna.ir/news/1403041006560/تب-استخوان-شکن-را-جدی-بگیریم) (Isna.ir)
 
 ## 24-27 (chikungunya)
 
