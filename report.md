@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-08-13 07:06
-- **Most recent article:** 2024-08-12 06:54:05
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-08-13 19:06
+- **Most recent article:** 2024-08-12 19:05:20
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 52 | 95 | 62 | 63 | 55 | 46 | 9 | 382 |
-| mpox | 21 | 26 | 17 | 16 | 26 | 138 | 9 | 253 |
-| h5n1 | 59 | 52 | 62 | 38 | 21 | 6 | 0 | 238 |
-| malaria | 15 | 14 | 31 | 16 | 15 | 16 | 2 | 109 |
+| dengue | 49 | 95 | 62 | 63 | 55 | 46 | 12 | 382 |
+| mpox | 19 | 26 | 17 | 16 | 26 | 139 | 19 | 262 |
+| h5n1 | 59 | 52 | 62 | 38 | 21 | 6 | 1 | 239 |
+| malaria | 15 | 14 | 31 | 16 | 15 | 16 | 4 | 111 |
 | measles | 9 | 12 | 19 | 22 | 8 | 6 | 0 | 76 |
-| zika | 20 | 12 | 6 | 10 | 12 | 11 | 0 | 71 |
-| rabies | 4 | 2 | 17 | 8 | 12 | 8 | 1 | 52 |
-| chikungunya | 6 | 6 | 10 | 7 | 6 | 4 | 1 | 40 |
+| zika | 20 | 12 | 6 | 10 | 12 | 11 | 2 | 73 |
+| rabies | 3 | 2 | 17 | 8 | 12 | 8 | 2 | 52 |
+| chikungunya | 6 | 6 | 10 | 7 | 6 | 4 | 2 | 41 |
 | meningitis | 3 | 5 | 3 | 2 | 3 | 6 | 0 | 22 |
 | hpai | 3 | 5 | 6 | 3 | 4 | 1 | 0 | 22 |
-| pertussis | 1 | 2 | 0 | 5 | 5 | 6 | 0 | 19 |
+| pertussis | 1 | 2 | 0 | 5 | 5 | 6 | 1 | 20 |
 | typhoid | 4 | 6 | 1 | 3 | 1 | 0 | 0 | 15 |
 | leptospirosis | 1 | 3 | 4 | 1 | 2 | 2 | 1 | 14 |
 | yersinia | 0 | 6 | 0 | 2 | 1 | 1 | 0 | 10 |
@@ -33,11 +33,43 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-33 (zika)
+
+- [Protein in mosquito saliva inhibits host immune response](https://medicine.yale.edu/news-article/protein-in-mosquito-saliva-inhibits-host-immune-response/) (Yale.edu)
+
+- [Setkání s nepatrnými tvory může mít vážné následky, někteří člověka zabijí sami, jiní mají mikroskopické spojence](https://www.lidovky.cz/relax/komar-tygrovany-nebezpecny-hmyz-vsi-mor-tyfus-sklipkanec.A240809_090652_ln_magazin_lchme) (Lidovky.cz)
+
 ## 24-33 (rabies)
+
+- [В Ярославской области ежи покусали 9 человек. И это очень опасно](https://vfokuse.mail.ru/article/v-yaroslavskoy-oblasti-ezhi-pokusali-9-chelovek-i-eto-ochen-opasno-62333753/) (Mail.ru)
 
 - [11 puppies to be euthanized after rabies exposure during Sheridan adoption event; owners left heartbroken](https://www.denverpost.com/2024/08/11/puppies-euthanized-rabies-exposure-sheridan/) (The Denver Post)
 
+## 24-33 (pertussis)
+
+- [Gyorsulva terjed Magyarországon a fertőzés, ami halálos is lehet](https://www.portfolio.hu/gazdasag/20240812/gyorsulva-terjed-magyarorszagon-a-fertozes-ami-halalos-is-lehet-703695) (Portfolio.hu)
+
 ## 24-33 (mpox)
+
+- [Multi-country outbreak of mpox, External situation report#35- 12 August 2024](https://www.who.int/publications/m/item/multi-country-outbreak-of-mpox--external-situation-report-35--12-august-2024) (World Health Organization)
+
+- [Com 709 casos de mpox no Brasil, ministério convoca reunião](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-08-12/com-709-casos-de-mpox-no-brasil--ministerio-convoca-reuniao.html) (Ig.com.br)
+
+- [Deadlier Mpox threat makes troubling return to USA...](https://www.the-sun.com/health/12177964/deadlier-mpox-threat-makes-return-to-us/) (The-sun.com)
+
+- [Vers un état d’urgence sanitaire international ? La nouvelle souche de la variole du singe inquiète l’OMS](https://www.futura-sciences.com/sante/actualites/variole-singe-vers-etat-urgence-sanitaire-international-nouvelle-souche-variole-singe-inquiete-oms-115199/) (Futura)
+
+- [Novo vírus da Mpox é mais letal e pode gerar emergência global; veja o que se sabe](https://saude.ig.com.br/2024-08-12/mpox-epidemia-sintomas-doenca.html) (Ig.com.br)
+
+- [Új halálos vírus terjed, a WHO globális egészségügyi vészhelyzet kihirdetésére készül](https://www.portfolio.hu/gazdasag/20240812/uj-halalos-virus-terjed-a-who-globalis-egeszsegugyi-veszhelyzet-kihirdetesere-keszul-703739) (Portfolio.hu)
+
+- [La OMS decide este miércoles si declara la viruela del mono emergencia sanitaria internacional](https://www.abc.es/sociedad/oms-reunira-evaluar-rebrote-viruela-mono-emergencia-20240812132146-nt.html) (Www.abc.es)
+
+- [WHO to decide this week if mpox Africa outbreak is a global emergency](https://www.politico.eu/article/who-to-decide-this-week-if-mpox-africa-outbreak-is-a-global-emergency/) (POLITICO.eu)
+
+- [La OMS decide este miércoles si declara el mpox emergencia sanitaria internacional](https://www.infosalus.com/actualidad/noticia-oms-decide-miercoles-si-declara-mpox-emergencia-sanitaria-internacional-20240812104612.html) (Infosalus.com)
+
+- [Türkiye'de maymun çiçeği vakası var mı?](https://www.haberturk.com/turkiye-de-maymun-cicegi-vakasi-var-mi-haberler-3710726) (Haberturk.com)
 
 - [The threat of mpox has returned, but public knowledge about it has declined](https://www.sciencedaily.com/releases/2024/08/240811233340.htm) (Science Daily)
 
@@ -59,6 +91,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-33 (malaria)
 
+- [The impact of soil transmitted helminth on malaria clinical presentation and treatment outcome: A case control study among children in Bagamoyo district, coastal region of Tanzania](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012412) (Plos.org)
+
+- [60 Degrees Pharma Provides University of Kentucky with Right of Reference to ARAKODA® NDA in Support of SJ733 Phase IIb Study](https://www.globenewswire.com/news-release/2024/08/12/2928485/0/en/60-Degrees-Pharma-Provides-University-of-Kentucky-with-Right-of-Reference-to-ARAKODA-NDA-in-Support-of-SJ733-Phase-IIb-Study.html) (GlobeNewswire)
+
 - [As monsoon takes hold, anti-infective, respiratory drugs' demand surges](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/as-monsoon-takes-hold-anti-infective-respiratory-drugs-demand-surges/articleshow/112449431.cms) (The Times of India)
 
 - [1.2 million Kogi children received malaria drugs in 2023 - SMC](https://guardian.ng/features/health/1-2-million-kogi-children-received-malaria-drugs-in-2023-smc-ibrahim-obansa-lokoja/) (Guardian Nigeria)
@@ -67,7 +103,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Department of Health, nagpasalig nga masarangan ang pag-atinder sang nagasaka nga kaso sang leptospirosis](https://bacolod.bomboradyo.com/department-of-health-nagpasalig-nga-masarangan-ang-pag-atinder-sang-nagasaka-nga-kaso-sang-leptospirosis/) (Bomboradyo.com)
 
+## 24-33 (h5n1)
+
+- [Confirmado: la gripe aviar se está extendiendo entre los mamíferos](https://www.muyinteresante.com/ciencia/65707.html) (Muyinteresante.com)
+
 ## 24-33 (dengue)
+
+- [Protein in mosquito saliva inhibits host immune response](https://medicine.yale.edu/news-article/protein-in-mosquito-saliva-inhibits-host-immune-response/) (Yale.edu)
+
+- [Setkání s nepatrnými tvory může mít vážné následky, někteří člověka zabijí sami, jiní mají mikroskopické spojence](https://www.lidovky.cz/relax/komar-tygrovany-nebezpecny-hmyz-vsi-mor-tyfus-sklipkanec.A240809_090652_ln_magazin_lchme) (Lidovky.cz)
+
+- [Why are dengue cases on the rise in India, even during non-peak seasons?](https://www.channelnewsasia.com/asia/dengue-fever-cases-increase-india-south-asia-monsoon-season-4541621) (CNA)
 
 - [Dengue, chikungunya cases rising: Notice these minute details in your house to stay safe](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/dengue-chikungunya-cases-rising-notice-these-minute-details-in-your-house-to-stay-safe/articleshow/112459979.cms) (The Times of India)
 
@@ -88,6 +134,8 @@ Source: [News API](https://newsapi.org/)
 - [Infektionskrankheiten: Oropouche-Virus breitet sich in Lateinamerika aus](https://www.stern.de/panorama/wissen/infektionskrankheiten--oropouche-virus-breitet-sich-in-lateinamerika-aus-34971470.html) (STERN.de)
 
 ## 24-33 (chikungunya)
+
+- [Protein in mosquito saliva inhibits host immune response](https://medicine.yale.edu/news-article/protein-in-mosquito-saliva-inhibits-host-immune-response/) (Yale.edu)
 
 - [Dengue, chikungunya cases rising: Notice these minute details in your house to stay safe](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/dengue-chikungunya-cases-rising-notice-these-minute-details-in-your-house-to-stay-safe/articleshow/112459979.cms) (The Times of India)
 
@@ -166,6 +214,8 @@ Source: [News API](https://newsapi.org/)
 - [Variole du singe : face à l'emballement des contaminations, l'OMS envisage un état d'urgence maximale](https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/variole-du-singe-face-a-l-emballement-des-contaminations-l-oms-envisage-un-etat-d-urgence-maximale-1003972.html) (La Tribune.fr)
 
 - [Mpox já teve 709 casos no Brasil este ano, e Saúde chama reunião](https://www.metropoles.com/colunas/guilherme-amado/mpox-ja-teve-709-casos-no-brasil-este-ano-e-saude-chama-reuniao) (Metropoles.com)
+
+- [España lidera en Europa con los casos de viruela del mono: síntomas y complicaciones](https://www.mundodeportivo.com/vidae/20240810/1002295217/espana-lidera-europa-mayor-numero-casos-viruela-mono.html) (Mundodeportivo.com)
 
 - [OMS avalia declaração de emergência global para epidemia de Mpox na África](https://saude.ig.com.br/2024-08-10/oms-alerta-mpox-emergencia.html) (Ig.com.br)
 
@@ -2493,8 +2543,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mission Rabies to vaccinate dogs across Tiswadi taluka](https://timesofindia.indiatimes.com/city/goa/mission-rabies-to-vaccinate-dogs-across-tiswadi-taluka/articleshow/111495788.cms) (The Times of India)
 
-- [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
-
 ## 24-27 (pertussis)
 
 - [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
@@ -2538,10 +2586,6 @@ Source: [News API](https://newsapi.org/)
 - [Starliner Astronauts Are in Limbo, and Emergency Access to Abortion Is Preserved](https://www.scientificamerican.com/podcast/episode/starliner-astronauts-are-in-limbo-and-emergency-access-to-abortion-is/) (Scientific American)
 
 - [Advocates use end of Pride Month to warn about Mpox](https://www.cbsnews.com/video/advocates-use-end-of-pride-month-to-warn-about-mpox/) (CBS News)
-
-- [Eksperci martwią się nowym wariantem ospy. "Wszystkie kraje powinny się przygotować"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html) (Gazeta.pl)
-
-- [Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?](https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html) (Der Tagesspiegel)
 
 ## 24-27 (meningitis)
 
@@ -2834,12 +2878,6 @@ Source: [News API](https://newsapi.org/)
 - [Surging dengue virus in Bengaluru poses threat to women, kids: Doctors](https://timesofindia.indiatimes.com/city/bengaluru/surging-dengue-virus-in-bengaluru-poses-threat-to-women-kids-doctors/articleshow/111392899.cms) (The Times of India)
 
 - [BBMP audit confirms 1 dengue death, 213 new cases in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-audit-confirms-1-dengue-death-213-new-cases-in-bengaluru/articleshow/111390828.cms) (The Times of India)
-
-- [First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak](https://www.jpost.com/health-and-wellness/article-808379) (The Jerusalem Post)
-
-- [Dengue fever is surging worldwide. A hotter planet will make it worse.](https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/) (The Washington Post)
-
-- [«تب استخوان شکن» را جدی بگیریم](https://www.isna.ir/news/1403041006560/تب-استخوان-شکن-را-جدی-بگیریم) (Isna.ir)
 
 ## 24-27 (chikungunya)
 

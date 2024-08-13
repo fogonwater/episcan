@@ -1,8 +1,335 @@
 {
-  "last_updated": "2024-08-13 07:06",
-  "count_articles_total": 1234,
-  "count_articles_new": 13,
+  "last_updated": "2024-08-13 19:06",
+  "count_articles_total": 1247,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 11914,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": null,
+      "title": "Multi-country outbreak of mpox, External situation report#35- 12 August 2024",
+      "description": "Multi-country outbreak of mpox, External situation report#35- 12 August 2024who.int",
+      "url": "https://www.who.int/publications/m/item/multi-country-outbreak-of-mpox--external-situation-report-35--12-august-2024",
+      "urlToImage": "https://www.who.int/images/default-source/departments/ntd-library/yaws/covers-thumbnails/mpox-35.tmb-479v.jpg?Culture=en&sfvrsn=63fcb05b_1",
+      "publishedAt": "2024-08-12 19:05:20",
+      "content": "Overview This is the 35th situation report for the multi-country outbreak of mpox, which provides details on the latest epidemiological trends, including an update on the geographic expansion of mp\u2026 [+52 chars]",
+      "retrievedAt": "2024-08-13 19:06:11.894332",
+      "internal_id": "ece0c69d943c5d2601e75c57d717f4bd89d889ed0e0237d185e0f1e09f79fe5e",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11910,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "GPS Bras\u00edlia, GPS Bras\u00edlia",
+      "title": "Com 709 casos de mpox no Brasil, minist\u00e9rio convoca reuni\u00e3o",
+      "description": "Em meio ao aumento de casos de mpox e \u00e0 circula\u00e7\u00e3o de uma nova variante...",
+      "url": "https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-08-12/com-709-casos-de-mpox-no-brasil--ministerio-convoca-reuniao.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/bd/ki/du/bdkiduz7z0nzy2rqacakqqyu1.jpg",
+      "publishedAt": "2024-08-12 19:04:23",
+      "content": "Em meio ao aumento de casos de mpox e \u00e0 circula\u00e7\u00e3o de uma nova variante do v\u00edrus no continente africano, o Minist\u00e9rio da Sa\u00fade convocou para esta ter\u00e7a-feira (13) uma reuni\u00e3o para tratar da doen\u00e7a.\u2026 [+5486 chars]",
+      "retrievedAt": "2024-08-13 19:06:11.796813",
+      "internal_id": "86f067626fc830125d151f63aa3766075c6e8c9b09f12b6b3b4c8f0a4a199b36",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11900,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Yale.edu",
+      "author": "news@yale.edu (Yale News)",
+      "title": "Protein in mosquito saliva inhibits host immune response",
+      "description": "Mosquito saliva is known to play a significant role in the transmission of viruses such as yellow fever, Zika, dengue, and chikungunya, yet many of its functions remain to be understood. In a new study, researchers revealed that a mosquito salivary protein bi\u2026",
+      "url": "https://medicine.yale.edu/news-article/protein-in-mosquito-saliva-inhibits-host-immune-response/",
+      "urlToImage": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/b85009b9-11c7-4d3e-b02f-dd04c0b0e03f",
+      "publishedAt": "2024-08-12 17:10:12",
+      "content": "Mosquito saliva is known to play a significant role in the transmission of viruses such as yellow fever, Zika, dengue, and chikungunya, yet many of its functions remain to be understood. In a new stu\u2026 [+2416 chars]",
+      "retrievedAt": "2024-08-13 19:06:10.160601",
+      "internal_id": "402252bdf03042c363cb976389066726c88e53bba511f6799b06412c91d18a8b",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11907,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The-sun.com",
+      "author": "the us sun",
+      "title": "Deadlier Mpox threat makes troubling return to USA...",
+      "description": "SCIENTISTS fear Americans are not being vigilant about the current uptick in Monkeypox cases. A study conducted in July revealed that many American citizens have forgotten about monkeypox, which sa\u2026",
+      "url": "https://www.the-sun.com/health/12177964/deadlier-mpox-threat-makes-return-to-us/",
+      "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2024/08/MF-DEADLIER-MPOX-OFFPLAT_fe6439.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2024-08-12 17:00:03",
+      "content": "SCIENTISTS fear Americans are not being vigilant about the current uptick in Monkeypox cases. A study conducted in July revealed that many American citizens have forgotten about monkeypox, which sa\u2026 [+5381 chars]",
+      "retrievedAt": "2024-08-13 19:06:11.745545",
+      "internal_id": "87e211551a3ac51f61e700e0f3dad9e7ea2f7c00a99717b2388f2ccc45af916e",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11905,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "L\u00e9a Picon, Journaliste scientifique",
+      "title": "Vers un \u00e9tat d\u2019urgence sanitaire international ? La nouvelle souche de la variole du singe inqui\u00e8te l\u2019OMS",
+      "description": "L\u2019Organisation mondiale de la sant\u00e9 (OMS) va r\u00e9unir ce mercredi un comit\u00e9 d\u2019urgence, suite \u00e0 une hausse de cas de variole du singe en R\u00e9publique d\u00e9mocratique du Congo (RDC). La nouvelle souche du virus \u00e9tant plus contagieuse et plus dangereuse, les autorit\u00e9s \u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/variole-singe-vers-etat-urgence-sanitaire-international-nouvelle-souche-variole-singe-inquiete-oms-115199/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/9/9/4/994f33c3fb_50219514_monkeypox-halfpoint.jpg",
+      "publishedAt": "2024-08-12 16:01:48",
+      "content": "Actuellement, la R\u00e9publique d\u00e9mocratique du Congo (RDC) est le centre d'une flamb\u00e9e \u00e9pid\u00e9mique sans pr\u00e9c\u00e9dent. Le virus en cause : la variole du singe ou Monkeypox, d\u00e9nomm\u00e9e MPox, une maladie infecti\u2026 [+1701 chars]",
+      "retrievedAt": "2024-08-13 19:06:11.719509",
+      "internal_id": "412b6bd3bb66b06b421aecf82908781109ee8553b700ef2e3aae9ea95db69eb1",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11897,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0414\u0435\u043d\u0438\u0441 \u0416\u043e\u0445\u043e\u0432",
+      "title": "\u0412 \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0435\u0436\u0438 \u043f\u043e\u043a\u0443\u0441\u0430\u043b\u0438 9 \u0447\u0435\u043b\u043e\u0432\u0435\u043a. \u0418 \u044d\u0442\u043e \u043e\u0447\u0435\u043d\u044c \u043e\u043f\u0430\u0441\u043d\u043e",
+      "description": "\u0416\u0438\u0432\u043e\u0442\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0447\u0438\u043a\u0430\u043c\u0438 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430.",
+      "url": "https://vfokuse.mail.ru/article/v-yaroslavskoy-oblasti-ezhi-pokusali-9-chelovek-i-eto-ochen-opasno-62333753/",
+      "urlToImage": "https://resizer.mail.ru/p/d7be1e2e-f204-539d-81b2-b531386b0efc/op:40/logo:bottom:vfokuse.png/ot:0JIg0K_RgNC-0YHQu9Cw0LLRgdC60L7QuSDQvtCx0LvQsNGB0YLQuCDQtdC20Lgg0L_QvtC60YPRgdCw0LvQuCA5INGH0LXQu9C-0LLQtdC6LiDQmCDRjdGC0L4g0L7Rh9C10L3RjCDQvtC_0LDRgdC90L4/AQAGpT974kBut6BtvI-L-L74PA6FWg9eq9o7cYppen7VN_Esu8qPiC8Oa7CAbcefsb9gdXM6Ty3t5mRLw0wwd8B0W84.png",
+      "publishedAt": "2024-08-12 15:38:13",
+      "content": ", (Rabies virus). , (, ), \u2014 . , . \u00ab , , . , , (, ), , , \u00bb, \u2014 . . . , . ( 15 ) . , . 70% 5% . \u00ab- (). . - , , , \u00bb, \u2014 , . . .",
+      "retrievedAt": "2024-08-13 19:06:08.655648",
+      "internal_id": "f11f666237d08d00d1a355560d6087f5a9dedf95d70ecd8f24a50aff84ca6621",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11903,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nahya Salim Masoud, Stefanie Knopp, Nicole Lenz, Omar Lweno, Ummi Abdul Kibondo, Ali Mohamed, Tobias Schindler, Julian Rothen, John Masimba, Alisa S. Mohammed, Fabrice Althaus, Salim Abdulla, Marcel Tanner, Claudia Daubenberger, Blaise Genton",
+      "title": "The impact of soil transmitted helminth on malaria clinical presentation and treatment outcome: A case control study among children in Bagamoyo district, coastal region of Tanzania",
+      "description": "Author summary Contradictory results have been published on the impact of intestinal worm infections on malaria and there is an ongoing debate on whether general anti-helminthic treatment is desirable. For the first time, we provide highlights for the case of\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012412",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012412.g002&size=inline",
+      "publishedAt": "2024-08-12 14:00:00",
+      "content": "Abstract Background Parasitic infectious agents rarely occur in isolation. Epidemiological evidence is mostly lacking, and little is known on how the two common parasites Plasmodium and soil transm\u2026 [+46918 chars]",
+      "retrievedAt": "2024-08-13 19:06:10.849992",
+      "internal_id": "2d23a0a739a827a82b6560e4a94b262f2d5c4723f439f9c1806aaf06bfd99671",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11912,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Novo v\u00edrus da Mpox \u00e9 mais letal e pode gerar emerg\u00eancia global; veja o que se sabe",
+      "description": "Tedros Adhanom anunciou reuni\u00e3o urgente sobre a alta de casos e a potencial propaga\u00e7\u00e3o internacional de uma variante mais mortal do v\u00edrus Mpox",
+      "url": "https://saude.ig.com.br/2024-08-12/mpox-epidemia-sintomas-doenca.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0w/zn/20/0wzn20tnr3jv8s5xjqurkgztg.jpg",
+      "publishedAt": "2024-08-12 13:33:58",
+      "content": "Na semana passada, Tedros Adhanom, diretor-geral da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS), revelou que a OMS convocar\u00e1 uma reuni\u00e3o o mais breve poss\u00edvel para determinar se o recente aumento nos casos \u2026 [+3862 chars]",
+      "retrievedAt": "2024-08-13 19:06:11.830894",
+      "internal_id": "b83ba048f5feaf8b7f62865b0d70abb008a259d4e43e66bd21d160ec7c47b5f2",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11902,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Sixty Degrees Pharmaceuticals",
+      "title": "60 Degrees Pharma Provides University of Kentucky with Right of Reference to ARAKODA\u00ae NDA in Support of SJ733 Phase IIb Study",
+      "description": "60 Degrees Pharma grants U of Kentucky a right of reference to ARAKODA\u00ae NDA for a Phase IIb trial combining SJ733 with tafenoquine to treat vivax malaria.",
+      "url": "https://www.globenewswire.com/news-release/2024/08/12/2928485/0/en/60-Degrees-Pharma-Provides-University-of-Kentucky-with-Right-of-Reference-to-ARAKODA-NDA-in-Support-of-SJ733-Phase-IIb-Study.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/c950cab5-27b1-476f-befc-4d92a7389fdd",
+      "publishedAt": "2024-08-12 13:12:00",
+      "content": "University of Kentucky will commence a Phase IIb clinical study of drug development candidate SJ733 for treatment of vivax malaria.SJ733 will be combined with a single dose of tafeno\u2026 [+13633 chars]",
+      "retrievedAt": "2024-08-13 19:06:10.831934",
+      "internal_id": "f088e036e94a434f7f14557548f6891600daabd725298edd789a601ed8f29969",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11908,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "\u00daj hal\u00e1los v\u00edrus terjed, a WHO glob\u00e1lis eg\u00e9szs\u00e9g\u00fcgyi v\u00e9szhelyzet kihirdet\u00e9s\u00e9re k\u00e9sz\u00fcl",
+      "description": "J\u00e1rv\u00e1nyszer\u0171en terjed az egyre hal\u00e1losabb\u00e1 v\u00e1l\u00f3 mpox-j\u00e1rv\u00e1ny. Az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet (WHO) szak\u00e9rt\u0151i szerd\u00e1n d\u00f6nthetnek arr\u00f3l, hogy glob\u00e1lis k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi v\u00e9szhelyzetet hirdetnek. A fert\u0151z\u00e9sek sz\u00e1ma n\u00f6vekszik \u00e9s az Afrikai J\u00e1rv\u00e1nybetegs\u00e9gek Elleni \u00e9\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20240812/uj-halalos-virus-terjed-a-who-globalis-egeszsegugyi-veszhelyzet-kihirdetesere-keszul-703739",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/j/majomhimlo-elnevezese-who-majomhimlo-virus-majomhimlo-terjedese-majomhimlo-tunetei-majomhimlo-kezele-548621.jpg",
+      "publishedAt": "2024-08-12 12:53:00",
+      "content": "Az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet (WHO) \u00e1ltal kinevezett f\u00fcggetlen szak\u00e9rtk szerdai virtu\u00e1lis \u00fcl\u00e9sen d\u00f6ntenek arr\u00f3l, hogy az mpox-j\u00e1rv\u00e1ny Afrik\u00e1ban glob\u00e1lis k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi v\u00e9szhelyzetet jelent-e. A biz\u2026 [+2709 chars]",
+      "retrievedAt": "2024-08-13 19:06:11.770617",
+      "internal_id": "3c1f5d034ecee03608c3fc6b7544d53ea7cf4d4bf70786384ac7a09b1b5daebd",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11898,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Muyinteresante.com",
+      "author": "Sarah Romero Periodista cient\u00edfica",
+      "title": "Confirmado: la gripe aviar se est\u00e1 extendiendo entre los mam\u00edferos",
+      "description": "Cuanto m\u00e1s se propague sin control el virus entre los mam\u00edferos, mayor ser\u00e1 la probabilidad de que evolucione y se transmita a los humanos.",
+      "url": "https://www.muyinteresante.com/ciencia/65707.html",
+      "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/08/12/66b9eeb760406.jpeg",
+      "publishedAt": "2024-08-12 12:00:00",
+      "content": "El mundo est\u00e1 viviendo actualmente el brote m\u00e1s grande y de mayor propagaci\u00f3n de H5N1, una cepa de influenza aviar altamente contagiosa y mortal. El H5N1 ya ha afectado al menos a 485 especies de ave\u2026 [+6191 chars]",
+      "retrievedAt": "2024-08-13 19:06:09.680823",
+      "internal_id": "b0becabb12585a14b67065318b03525a025833fb139cb666b072267129350d7e",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11913,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "La OMS decide este mi\u00e9rcoles si declara la viruela del mono emergencia sanitaria internacional",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) se reunir\u00e1 el pr\u00f3ximo mi\u00e9rcoles con un grupo de expertos para evaluar si declara el nuevo brote de viruela del mono (mpox) una emergencia de salud p\u00fablica a nivel internacional. El encuentro est\u00e1 previsto para las 12:\u2026",
+      "url": "https://www.abc.es/sociedad/oms-reunira-evaluar-rebrote-viruela-mono-emergencia-20240812132146-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/sociedad/2024/08/12/mujerenfermerampox-U66048368870AqW-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-08-12 11:57:45",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) se reunir\u00e1 el pr\u00f3ximo mi\u00e9rcoles con un grupo de expertos para evaluar si declara el nuevo brote de viruela del mono (mpox) una emergencia de salud p\u00fablica a \u2026 [+1908 chars]",
+      "retrievedAt": "2024-08-13 19:06:11.876331",
+      "internal_id": "5e7bbe0c87b655fe272d2f814448a229582ede5653a6a7b4e849e097c9380d24",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11911,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Rory O\u2019Neill",
+      "title": "WHO to decide this week if mpox Africa outbreak is a global emergency",
+      "description": "Concern is growing over the spread of a more deadly strain of the virus.",
+      "url": "https://www.politico.eu/article/who-to-decide-this-week-if-mpox-africa-outbreak-is-a-global-emergency/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/08/12/GettyImages-1414094459-scaled.jpg",
+      "publishedAt": "2024-08-12 09:43:00",
+      "content": "In June, Bavarian Nordic sent 15,000 doses of its vaccine to the Democratic Republic of the Congo (DRC), where the majority of cases have been detected. The Africa Centres for Disease Control and P\u2026 [+683 chars]",
+      "retrievedAt": "2024-08-13 19:06:11.809850",
+      "internal_id": "6a00575bbdc9a9cd2f9eafdb6635723d1d352d781b958829b836a7721bbc581d",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11896,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Gyorsulva terjed Magyarorsz\u00e1gon a fert\u0151z\u00e9s, ami hal\u00e1los is lehet",
+      "description": "Tov\u00e1bbra is gyorsulva terjed a szam\u00e1rk\u00f6h\u00f6g\u00e9s Magyarorsz\u00e1gon. A 31. h\u00e9t hivatalos jelent\u00e9se szerint 72 \u00faj gyan\u00fas esetet regisztr\u00e1ltak, ami ism\u00e9t \u00faj heti rekordnak sz\u00e1m\u00edt. Az \u00e9v eg\u00e9sz\u00e9ben a gyan\u00fas esetsz\u00e1m m\u00e1r 298 f\u0151n\u00e9l j\u00e1r.",
+      "url": "https://www.portfolio.hu/gazdasag/20240812/gyorsulva-terjed-magyarorszagon-a-fertozes-ami-halalos-is-lehet-703695",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/t/e/r/terhes-no-oltas-szamarkohoges-fertozes-jarvany-csecsemo-696345.jpg",
+      "publishedAt": "2024-08-12 09:39:00",
+      "content": "A Nemzeti N\u00e9peg\u00e9szs\u00e9g\u00fcgyi \u00e9s Gy\u00f3gyszer\u00e9szeti K\u00f6zpont h\u00e9tfn k\u00f6zz\u00e9tett adatai a j\u00falius 29. \u00e9s augusztus 4. k\u00f6z\u00f6tti idszakra vonatkoznak. Ezek szerint 72 \u00faj pertussis-gyan\u00fas beteget azonos\u00edtottak, ilyen\u2026 [+2233 chars]",
+      "retrievedAt": "2024-08-13 19:06:08.321462",
+      "internal_id": "68282644934fbf5aa00de8e382c79b3b879654ce420ca50ccfe367c2d918c111",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11909,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS decide este mi\u00e9rcoles si declara el mpox emergencia sanitaria internacional",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha programado para el pr\u00f3ximo mi\u00e9rcoles a las 12.00 horas la reuni\u00f3n en la que se decidir\u00e1 si declara el rebrote de mpox (antes conocido como viruela del mono) como emergencia sanitaria internacional.",
+      "url": "https://www.infosalus.com/actualidad/noticia-oms-decide-miercoles-si-declara-mpox-emergencia-sanitaria-internacional-20240812104612.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240812104612_1200.jpg",
+      "publishedAt": "2024-08-12 08:46:12",
+      "content": "MADRID, 12 Ago. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha programado para el pr\u00f3ximo mi\u00e9rcoles a las 12.00 horas la reuni\u00f3n en la que se decidir\u00e1 si declara el rebrote de mpox \u2026 [+1926 chars]",
+      "retrievedAt": "2024-08-13 19:06:11.779568",
+      "internal_id": "63c1c293affaf6376b1073b1a75f5e9bfb3d2fb3a9da4af398a8204840eefe05",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11901,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Lidovky.cz",
+      "author": "Jaroslav  Petr",
+      "title": "Setk\u00e1n\u00ed s nepatrn\u00fdmi tvory m\u016f\u017ee m\u00edt v\u00e1\u017en\u00e9 n\u00e1sledky, n\u011bkte\u0159\u00ed \u010dlov\u011bka zabij\u00ed sami, jin\u00ed maj\u00ed mikroskopick\u00e9 spojence",
+      "description": "Organiz\u00e1tor\u016fm pa\u0159\u00ed\u017esk\u00e9 olympi\u00e1dy ned\u011blaly vr\u00e1sky jen terorist\u00e9 p\u0159ipravuj\u00edc\u00ed \u00fatoky na sportovce a div\u00e1ky. Ob\u00e1vali se i mnohem men\u0161\u00edch vet\u0159elc\u016f s exotick\u00fdmi jm\u00e9ny \u010dikungunja, usutu, zika \u010di dengue. Tak se jmenuj\u00ed viry p\u0159en\u00e1\u0161en\u00e9 kom\u00e1rem tygrovan\u00fdm.",
+      "url": "https://www.lidovky.cz/relax/komar-tygrovany-nebezpecny-hmyz-vsi-mor-tyfus-sklipkanec.A240809_090652_ln_magazin_lchme",
+      "urlToImage": "https://1gr.cz/fotky/lidovky/24/081/cl8/LCH4e444a1ae4_shutterstock_195161381.jpg",
+      "publishedAt": "2024-08-12 08:30:00",
+      "content": "Tento hmyz\u00ed up\u00edr je doma v jihov\u00fdchodn\u00ed Asii, ale piinn\u00edm lovka se u roz\u00edil na vechny kontinenty s v\u00fdjimkou Antarktidy. Francouzi maj\u00ed k obav\u00e1m v\u00e1n\u00e9 dvody. V prvn\u00edch ms\u00edc\u00edch leton\u00edho roku zaznamenali\u2026 [+963 chars]",
+      "retrievedAt": "2024-08-13 19:06:10.170305",
+      "internal_id": "679292d5f384ede9f98edc98166e6aff20f7ba6a60b83acdc2890a3c9ee726b6",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11904,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "T\u00fcrkiye'de maymun \u00e7i\u00e7e\u011fi vakas\u0131 var m\u0131?",
+      "description": "Afrika'da ortaya \u00e7\u0131kan maymun \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fc vakalar\u0131nda h\u0131zl\u0131 art\u0131\u015f g\u00f6zleniyor. D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (DS\u00d6) Afrika'da yay\u0131lan mpox varyant\u0131 nedeniyle uluslararas\u0131 acil durum ilan\u0131 konusunu g\u00fcndeme getirdi.",
+      "url": "https://www.haberturk.com/turkiye-de-maymun-cicegi-vakasi-var-mi-haberler-3710726",
+      "urlToImage": "https://im.haberturk.com/l/2024/08/12/ver1723448275/3710726/jpg/1200x628",
+      "publishedAt": "2024-08-12 07:38:06",
+      "content": "DS\u00d6 Afrika B\u00f6lgesi'nin yapt paylamda Afrika'da mpox vakalarnda \u00f6nemli bir art yaand belirtildi. \u00e7erikte \"mpox olduunuzu d\u00fc\u00fcn\u00fcyorsanz, kendinizi izole edin ve derhal bir salk \u00e7alanyla iletiime ge\u00e7in\" \u2026 [+1691 chars]",
+      "retrievedAt": "2024-08-13 19:06:11.714372",
+      "internal_id": "370b5b18ce2c560e8bb188188a9a00f681e91dbee4097fb8e14d6370dc48357a",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11899,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Why are dengue cases on the rise in India, even during non-peak seasons?",
+      "description": "What used to be a viral disease limited to the monsoon months is now a year-round problem, with some experts warning that dengue could become a global pandemic threat.",
+      "url": "https://www.channelnewsasia.com/asia/dengue-fever-cases-increase-india-south-asia-monsoon-season-4541621",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--Xjn3-830--/c_crop,h_799,w_1422,x_0,y_32/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/08/12/screenshot_2024-08-12_144103.png?itok=cMDIdT17",
+      "publishedAt": "2024-08-12 07:12:15",
+      "content": "Dengue cases in India have been steadily rising since 2020. The number of cases in the first half of 2024 more than 32,000 are nearly double of what was reported in the same period last year. The co\u2026 [+1374 chars]",
+      "retrievedAt": "2024-08-13 19:06:10.114828",
+      "internal_id": "64ad3bfe1947a6eb7962382f0ee7d82bc1f330dc907e39590ad59397a94d1b15",
+      "publishedAtLabel": "Aug 12"
+    },
     {
       "id": 11885,
       "query": [
@@ -524,6 +851,24 @@
       "content": "Quase uma d\u00e9cada depois de uma explos\u00e3o nos casos de microcefalia no Brasil devido ao zikav\u00edrus, o pa\u00eds vive uma nova amea\u00e7a. Especialistas temem que a febre oropouche possa aumentar, novamente, os c\u2026 [+8502 chars]",
       "retrievedAt": "2024-08-11 19:06:08.577173",
       "internal_id": "0d66444856ef777e12a3e93381c940e5ee391bbb4fda08357b76e6312befc398",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 11906,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Daniel Ballesteros",
+      "title": "Espa\u00f1a lidera en Europa con los casos de viruela del mono: s\u00edntomas y complicaciones",
+      "description": "Espa\u00f1a se encuentra a la cabeza de Europa en cuanto al n\u00famero de casos de viruela del mono (mpox), acumulando un total de 8.101 infecciones desde el inicio del brote en abril de 2022.",
+      "url": "https://www.mundodeportivo.com/vidae/20240810/1002295217/espana-lidera-europa-mayor-numero-casos-viruela-mono.html",
+      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2022/08/02/62e913283e98a.r_d.2437-1650-0.jpeg",
+      "publishedAt": "2024-08-10 15:00:00",
+      "content": "Espa\u00f1a se encuentra a la cabeza de Europa en cuanto al n\u00famero de casos de viruela del mono(mpox), acumulando un total de 8.101 infecciones desde el inicio del brote en abril de 2022. Este a\u00f1o, se ha\u2026 [+2857 chars]",
+      "retrievedAt": "2024-08-13 19:06:11.732657",
+      "internal_id": "d7271d0a20b980fc45564fce38056d52363b43082edecd6205ae7e4f7682179a",
       "publishedAtLabel": "Aug 10"
     },
     {
@@ -22196,114 +22541,6 @@
       "retrievedAt": "2024-07-02 07:06:48.077631",
       "internal_id": "eb269e69585d68dfe518c542b505097473346f8359eb87920d7c6267b46e1572",
       "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 10662,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Times News Network",
-      "title": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
-      "description": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
-      "url": "https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-06-30 18:55:54",
-      "content": "Unforgettable train journeys across Indias best landscape",
-      "retrievedAt": "2024-07-01 19:06:27.850727",
-      "internal_id": "8e5ccf841780d17f0e928a4e5489025e0527981bb917e8ea39cfab18fffcdd41",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10664,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "BY DR. ITAY GAL",
-      "title": "First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak",
-      "description": "An expert explained to Maariv that a mosquito subspecies that can transmit the disease is already present in Israel, and climate change will bring the spread of fever closer",
-      "url": "https://www.jpost.com/health-and-wellness/article-808379",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/607075",
-      "publishedAt": "2024-06-30 18:10:43",
-      "content": "Israel has received its first warning of the deadly dengue fever approaching the region from the Far East and South America, now that the Health Ministry has announced 7 cases of infection with the d\u2026 [+4566 chars]",
-      "retrievedAt": "2024-07-01 19:06:30.007312",
-      "internal_id": "f696471ffdcf720ec6041eaa59ea3bdff84ae060a8c9e02e5cad73903d856551",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10667,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.pl",
-      "author": "Anna Kurek",
-      "title": "Eksperci martwi\u0105 si\u0119 nowym wariantem ospy. \"Wszystkie kraje powinny si\u0119 przygotowa\u0107\"",
-      "description": "Od czasu globalnej epidemii ospy ma\u0142piej w 2022 r. wirus nie znikn\u0105\u0142. Nadal stosunkowo szybko mutuje i coraz lepiej przystosowuje si\u0119 do ludzkiego \u015brodowiska.",
-      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html",
-      "urlToImage": "https://bi.im-g.pl/im/b8/84/1b/z28855224IER,W-Teksasie-zmarl-pierwszy-zakazony-wirusem-malpiej.jpg",
-      "publishedAt": "2024-06-30 15:28:00",
-      "content": "Mpox (dawna nazwa choroby - ospa mapia) to choroba zakana wywoywana przez wirusa MPXV. To dwuniciowy wirus DNA, kt\u00f3ry moe zakaa zwierzta i ludzi. Ten wirus jest powizany z wirusem ospy prawdziwej, os\u2026 [+4722 chars]",
-      "retrievedAt": "2024-07-01 19:06:32.471069",
-      "internal_id": "3f57cb6795f86b906367160cbb7ec6b7f97ab4628db96bc6084e999f99c65e47",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10666,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Trudie Lang, L\u00e9andre Murhula  Masirika, Jean Claude Udahemuka, Sascha Karberg",
-      "title": "Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?",
-      "description": "Ein Mpox-Stamm hat es bereits nach Europa und Amerika geschafft, mit glimpflichen Folgen. Doch eine neue Variante macht Virologen gro\u00dfe Sorgen. Die Nachbarl\u00e4nder der Republik Kongo sind bereits betroffen.",
-      "url": "https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/pocken03-affenpockenvirus2/alternates/BASE_16_9_W1400/pocken03-affenpockenvirus.jpeg",
-      "publishedAt": "2024-06-30 14:06:42",
-      "content": "Eine neue, deutlich aggressivere Variante des Pockenvirus Mpox (ehemals Monkeypox/Affenpocken genannt) hat an der Grenze der Demokratischen Republik Kongo (DRC) zu Uganda, Burundi und Ruanda einen si\u2026 [+180 chars]",
-      "retrievedAt": "2024-07-01 19:06:32.465695",
-      "internal_id": "b22aeec5d2b3d03786c50980f11086c786e4170a8111564d040b8e93e66ca1be",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10665,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-washington-post",
-      "source_name": "The Washington Post",
-      "author": "Lena H. Sun, Sarah Kaplan",
-      "title": "Dengue fever is surging worldwide. A hotter planet will make it worse.",
-      "description": "Climate change helped fuel an explosion of dengue cases in the Americas, including Puerto Rico, as mosquitoes multiply in warmer, wetter weather.",
-      "url": "https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYCGCBYE4YSDRHV6JYIJ7VUUB4.JPG&w=1440",
-      "publishedAt": "2024-06-30 13:00:36",
-      "content": "SAN JUAN, Puerto Rico The curly-haired girl came to theemergency roomwith fever, aches and signs of dehydration,common indications of many childhood illnesses.But the 9-year-old pale and listless ben\u2026 [+15886 chars]",
-      "retrievedAt": "2024-07-01 19:06:30.033250",
-      "internal_id": "1db6632ce959c23f1a08cc59e6a74815d7cb7bf3b9e821a2864a4fbcd1c576d3",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10663,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
-      "title": "\u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0631\u0627 \u062c\u062f\u06cc \u0628\u06af\u06cc\u0631\u06cc\u0645",
-      "description": "\u0645\u0639\u0627\u0648\u0646 \u0628\u0647\u062f\u0627\u0634\u062a \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0645\u0634\u0647\u062f \u06af\u0641\u062a: \u062a\u0628 \u062f\u0646\u06af\u06cc \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0646\u06cc\u0632 \u0634\u0646\u0627\u062e\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f\u061b \u0686\u0631\u0627\u06a9\u0647 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u062f\u0631\u062f \u0634\u062f\u06cc\u062f \u062d\u0627\u0635\u0644 \u0627\u0632 \u0622\u0646 \u0628\u06cc\u0645\u0627\u0631 \u062a\u0635\u0648\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0627\u0633\u062a\u062e\u0648\u0627\u0646\u200c\u0647\u0627\u06cc\u0634 \u062f\u0631 \u062d\u0627\u0644 \u0634\u06a9\u0633\u062a\u0646 \u0627\u0633\u062a.",
-      "url": "https://www.isna.ir/news/1403041006560/\u062a\u0628-\u0627\u0633\u062a\u062e\u0648\u0627\u0646-\u0634\u06a9\u0646-\u0631\u0627-\u062c\u062f\u06cc-\u0628\u06af\u06cc\u0631\u06cc\u0645",
-      "urlToImage": "https://cdn.isna.ir/d/2022/09/13/4/62379201.jpg?ts=1663057108264",
-      "publishedAt": "2024-06-30 09:36:56",
-      "content": "/ : \u00ab \u00bb . : (Dengue fever) . : . : . : \u00ab \u00bb . : . : . : . : . : . : . : #",
-      "retrievedAt": "2024-07-01 19:06:30.001513",
-      "internal_id": "62958486975b7ce354cab8c73e564ae10f145bbfb70fc1440c1c9a2d41e90cb0",
-      "publishedAtLabel": "Jun 30"
     }
   ]
 }
