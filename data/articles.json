@@ -1,8 +1,171 @@
 {
-  "last_updated": "2024-08-12 19:06",
-  "count_articles_total": 1215,
-  "count_articles_new": 5,
+  "last_updated": "2024-08-13 07:06",
+  "count_articles_total": 1234,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 11885,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Dengue, chikungunya cases rising: Notice these minute details in your house to stay safe",
+      "description": "Cases of dengue and chikungunya had risen in Nagpur, reporting 54 new chikungunya cases within eight days in August. With stagnant water playing a significant role in mosquito breeding, preventive measures included eliminating water collection points around h\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/dengue-chikungunya-cases-rising-notice-these-minute-details-in-your-house-to-stay-safe/articleshow/112459979.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112459901,width-1070,height-580,imgsize-419791,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-12 06:54:05",
+      "content": "Dengue: Early signs and preventive measures to stay safe",
+      "retrievedAt": "2024-08-13 07:06:53.221084",
+      "internal_id": "702366533fe956999edbdf49f5aebbb77ac552f318fdfe0bd8bc950d0699b43e",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11888,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Suaraindonesia-news.com",
+      "author": "admin",
+      "title": "Cegah DBD, Babinsa Desa Jambringin Bersama Puskesmas Penaguan Lakukan Fogging",
+      "description": "PAMEKASAN, Senin (12/08) suaraindonesia-news.com - Dalam upaya pencegahan penyebaran Demam Berdarah Dengue (DBD), Babinsa Desa Jambringin, Serda Nurrahman bersama tim dari Puskesmas Penaguan melakukan kegiatan fogging di lingkungan rumah warga yang ada di Dus\u2026",
+      "url": "https://suaraindonesia-news.com/cegah-dbd-babinsa-desa-jambringin-bersama-puskesmas-penaguan-lakukan-fogging/",
+      "urlToImage": "https://suaraindonesia-news.com/wp-content/uploads/2024/08/IMG_20240812_124845.jpg",
+      "publishedAt": "2024-08-12 05:54:23",
+      "content": "PAMEKASAN, Senin (12/08) suaraindonesia-news.com \u2013 Dalam upaya pencegahan penyebaran Demam Berdarah Dengue (DBD), Babinsa Desa Jambringin, Serda Nurrahman bersama tim dari Puskesmas Penaguan melakuka\u2026 [+1700 chars]",
+      "retrievedAt": "2024-08-13 07:06:53.288025",
+      "internal_id": "7cf2af30d09e7bd3d066c4d5c6d976aae38290a3b1ec000e2fad4f328dba1442",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11890,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "The threat of mpox has returned, but public knowledge about it has declined",
+      "description": "As the threat of mpox returns, a survey finds that U.S. adults no longer know as much about the disease as they did during the outbreak of 2022.",
+      "url": "https://www.sciencedaily.com/releases/2024/08/240811233340.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-08-12 03:33:40",
+      "content": "It has been two years since the World Health Organization declared a global health emergency over an outbreak of mpox, a disease endemic to Africa that had spread to scores of countries. Now, in the \u2026 [+5981 chars]",
+      "retrievedAt": "2024-08-13 07:06:54.292060",
+      "internal_id": "2414aa8d97f56b2453fde3d15a6b95ab4b6bad306fc4ea63059d1a3c5adbf6a3",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11887,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Two people succumb to dengue in Jhapa and Tanahu",
+      "description": "KATHMANDU: Two persons have died from dengue infection in Jhapa and Tanahu. According to the Department of Epidemiology and Disease Control, a woman in Jhapa and a man in Tanahu succumbed to the disease. Dr. Yadu Chandra Ghimire, Director of the Department, s\u2026",
+      "url": "https://english.khabarhub.com/2024/12/377377/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-08-12 03:30:30",
+      "content": "KATHMANDU: Two persons have died from dengue infection in Jhapa and Tanahu. According to the Department of Epidemiology and Disease Control, a woman in Jhapa and a man in Tanahu succumbed to the dis\u2026 [+485 chars]",
+      "retrievedAt": "2024-08-13 07:06:53.278607",
+      "internal_id": "510898fef4e89c831047769e27a2be53e9109080550e0dfd0c23ebdd6fc62c76",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11886,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue confirmed in 1,369 people in Gandaki",
+      "description": "POKHARA: The dengue outbreak in Gandaki Province is escalating, with 1,369 confirmed cases reported, according to the Provincial Health Directorate. Navaraj Sharma, Information Officer at the Directorate, revealed that Tanahun is the most affected area, with \u2026",
+      "url": "https://english.khabarhub.com/2024/12/376904/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-08-12 00:15:42",
+      "content": "POKHARA: The dengue outbreak in Gandaki Province is escalating, with 1,369 confirmed cases reported, according to the Provincial Health Directorate. Navaraj Sharma, Information Officer at the Direct\u2026 [+1488 chars]",
+      "retrievedAt": "2024-08-13 07:06:53.272496",
+      "internal_id": "3dc9e9bbab7527470e8fdd6247e24d0baaa900b10f5ae1db6eca3fb12b06fac3",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11883,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Maggy Wolanske",
+      "title": "11 puppies to be euthanized after rabies exposure during Sheridan adoption event; owners left heartbroken",
+      "description": "Owners are left heartbroken after a litter of puppies exposed to a rabies-positive puppy during a Sheridan adoption event last month were told to surrender their dogs to be put down.",
+      "url": "https://www.denverpost.com/2024/08/11/puppies-euthanized-rabies-exposure-sheridan/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/08/dog-adoption.jpg?w=1024&h=576",
+      "publishedAt": "2024-08-11 23:25:43",
+      "content": "SHERIDAN \u2014 Owners are left heartbroken after a litter of puppies exposed to a rabies-positive puppy during a Sheridan adoption event last month were told to surrender their dogs to be put down. The \u2026 [+777 chars]",
+      "retrievedAt": "2024-08-13 07:06:52.548946",
+      "internal_id": "2994f16d513e48fe999290231b1dca2129a9f60f30b429310e3357888f783a5d",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11893,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Theepochtimes.com",
+      "author": "Jack Phillips",
+      "title": "WHO Schedules Emergency Meeting Over Mpox Outbreak",
+      "description": "The meeting will be held to see if the virus is \u2018a public health emergency of international concern,\u2019 the WHO said.",
+      "url": "https://www.theepochtimes.com/health/who-schedules-emergency-meeting-over-mpox-outbreak-5703755",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2022/05/20/Monkeypox-700x420.jpg",
+      "publishedAt": "2024-08-11 22:36:58",
+      "content": "The World Health Organization (WHO) confirmed it will hold an emergency meeting on mpox and whether to declare the virus as a public health emergency of international concern, its director-general co\u2026 [+3548 chars]",
+      "retrievedAt": "2024-08-13 07:06:54.424511",
+      "internal_id": "68da002ec5babb2fa672bdabf1782488a8a432e2b5186aed7b9a44f403b72d86",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11884,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Santosh kumar.B",
+      "title": "Eco-friendly mosquito killer to help control dengue spread in Bengaluru",
+      "description": "BENGALURU: In a bid to mitigate dengue cases in the city, BBMP has decided to utilise an eco-friendly method to trap and kill mosquitoes.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/eco-friendly-mosquito-killer-to-help-control-dengue-spread-in-bengaluru/articleshow/112449641.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112449644,width-1070,height-580,imgsize-8378,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-11 20:15:02",
+      "content": "8 flowers and plants that will attract birds to your garden",
+      "retrievedAt": "2024-08-13 07:06:53.211174",
+      "internal_id": "4abcb963d49d594153614dad5a4917cb9fb0a7b003645f2ed49e5d8b23f0add2",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11889,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Teena Thacker",
+      "title": "As monsoon takes hold, anti-infective, respiratory drugs' demand surges",
+      "description": "Monsoon led to a surge in demand for respiratory, anti-infective, and anti-malarial products. The respiratory market saw a notable increase in Poractant Alfa usage. Anti-malaria medicines experienced significant growth, driven by seasonal patterns. Core thera\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/as-monsoon-takes-hold-anti-infective-respiratory-drugs-demand-surges/articleshow/112449431.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-112449438,width-1200,height-630,imgsize-54502,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-08-11 19:25:27",
+      "content": "New Delhi: As monsoon sets in, a surge in demand for seasonal products within the respiratory, anti-infective, and anti-malarial therapeutic categories have been seen. According to market research fi\u2026 [+2057 chars]",
+      "retrievedAt": "2024-08-13 07:06:53.668946",
+      "internal_id": "788082dfad686671baa5d198494d28d10cd1324336e7c378c20a4ca94df63381",
+      "publishedAtLabel": "Aug 11"
+    },
     {
       "id": 11882,
       "query": [
@@ -91,6 +254,24 @@
       "content": "Faut-il sinqui\u00e9ter de l\u00e9pid\u00e9mie du nouveau variant de Mpox, aussi appel\u00e9 \"variole du singe\" ? D\u00e9tect\u00e9e en R\u00e9publique d\u00e9mocratique du Congo (RDC) en septembre 2023, la maladie se propage depuis dans p\u2026 [+9165 chars]",
       "retrievedAt": "2024-08-12 19:06:08.644131",
       "internal_id": "0dfa34437a537e8a5cbdc57d532f591befba6cc39776b010ecea1850110e83f7",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11891,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Dialogos.com.cy",
+      "author": "\u0386\u03bd\u03b4\u03c1\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5",
+      "title": "\u03a3\u03c5\u03bd\u03b5\u03b4\u03c1\u03b9\u03ac\u03b6\u03b5\u03b9 \u03bf \u03a0\u039f\u03a5 \u03b3\u03b9\u03b1 \u03b1\u03be\u03b9\u03bf\u03bb\u03cc\u03b3\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 mpox \u2013 \u0395\u03be\u03b1\u03c0\u03bb\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03c4\u03b7\u03c2 \u0391\u03c6\u03c1\u03b9\u03ba\u03ae\u03c2",
+      "description": "\u039f \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 (\u03a0\u039f\u03a5) \u03c3\u03c5\u03b3\u03ba\u03ac\u03bb\u03b5\u03c3\u03b5 \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03b1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03ba\u03c1\u03af\u03c3\u03b5\u03c9\u03bd \u03b4\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1\u03c2 \u03c5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03b7\u03bd \u03b5\u03c1\u03c7\u03cc\u03bc\u03b5\u03bd\u03b7 \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7, \u03b3\u03b9\u03b1 \u03b1\u03be\u03b9\u03bf\u03bb\u03cc\u03b3\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 mpox. \u03a3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b1 \u03b8\u03b1 \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03b9\u03c3\u03c4\u03b5\u03af \u03b1\u03bd \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ba\u03b7\u03c1\u03c5\u03c7\u03b8\u03b5\u03af \u03ae \u03cc\u03c7\u03b9 \u03c4\u03bf \u03c5\u03c8\u03b7\u03bb\u03cc\u03c4\u03b5\u03c1\u03bf\u2026",
+      "url": "https://dialogos.com.cy/synedriazei-o-poy-axiologisi-tis-katastasis-tin-astheneia-mpox-exaplonetai/",
+      "urlToImage": null,
+      "publishedAt": "2024-08-11 07:00:23",
+      "content": "() , mpox. , . . \u00ab , , \u00bb, . . , . , , , , . mpox, \u00abclade 1b\u00bb (\u00ab 1\u00bb) 2023 , , . , 1 \u00ab 2\u00bb. . 3 , 14.479 455 . , 3%, . mpox, 1970 , , , , , , ... . , , - . 2022 2 , . 2022, . , 2023. \u2026 [+13 chars]",
+      "retrievedAt": "2024-08-13 07:06:54.412601",
+      "internal_id": "ad79a6abce637ed854ad139442b62deb2aa204e231f11cb81633aad65b73e7ab",
       "publishedAtLabel": "Aug 11"
     },
     {
@@ -618,6 +799,24 @@
       "publishedAtLabel": "Aug 9"
     },
     {
+      "id": 11894,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "YouTube",
+      "author": null,
+      "title": "1-HR AGO\u2026 W.H.O. MPOX NOTICE: U.S. Reacts After CDC Alert (Risk of Global Public Health Emergency)",
+      "description": "1-HR AGO\u2026 W.H.O. MPOX NOTICE: U.S. Reacts After CDC Alert (Risk of Global Public Health Emergency)youtube.com",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCVNlmIS3kuk",
+      "urlToImage": null,
+      "publishedAt": "2024-08-09 19:36:21",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
+      "retrievedAt": "2024-08-13 07:06:54.430498",
+      "internal_id": "3df6ca0cb8559f694e2c63dd2a60d5688567ed9a9c63b177ddf03f31461811f9",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
       "id": 11844,
       "query": [
         "dengue"
@@ -669,6 +868,24 @@
       "content": "The World Health Organisation has invited manufacturers of mpox vaccines to submit an expression of interest for Emergency Use Listing. The WHO disclosed this in a statement on Friday. The WHO Dire\u2026 [+3335 chars]",
       "retrievedAt": "2024-08-10 19:05:29.495285",
       "internal_id": "ccd5b4b89011dbc0ea5cadba00c5c14ffedca63e3e1eea9ccab9ea3a56589228",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 11895,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": "World Health Organization: WHO",
+      "title": "WHO invites mpox vaccine manufacturers to submit dossiers for emergency evaluation",
+      "description": "WHO has today issued an <a href=\"https://extranet.who.int/prequal/sites/default/files/document_files/call-fo\u2026",
+      "url": "https://www.who.int/news/item/09-08-2024-who-invites-mpox-vaccine-manufacturers-to-submit-dossiers-for-emergency-evaluations",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/headquarters/teams/access-to-medicines-and-health-products-(mhp)/regulation-and-prequalification-(rpq)/prequalification-(pqt)/sharing-information-on-mpox.tmb-1200v.jpg?sfvrsn=e2d83a8d_1",
+      "publishedAt": "2024-08-09 17:43:12",
+      "content": "WHO has today issued aninvitation for manufacturers of mpox vaccines to submit an Expression of Interest for Emergency Use Listing (EUL). The WHO Director-Generalannounced on 7 August 2024 that he h\u2026 [+1454 chars]",
+      "retrievedAt": "2024-08-13 07:06:54.436423",
+      "internal_id": "69e7dc8ad6acdfd34ddf840d300da27586cd942831e9befff3992934363163dd",
       "publishedAtLabel": "Aug 9"
     },
     {
@@ -1173,6 +1390,24 @@
       "content": "Ge\u00e7tiimiz Eyl\u00fcl ayndan bu yana Kongo Demokratik Cumhuriyetinde, civarndaki Afrika \u00fclkelerinde virusun yakn zamanda tespit edilen bir usu nedeniyle vakalar artmt. D\u00fcnya Salk \u00d6rg\u00fct\u00fc (DS\u00d6) bakan Tedros\u2026 [+663 chars]",
       "retrievedAt": "2024-08-10 07:05:36.598451",
       "internal_id": "01afed8cc430fe0736dfedc1a35fb4c73304774c1f3d190ee3ecc7f842fd1805",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 11892,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Adriana Mageros",
+      "title": "WHO Chief calls urgent committee meeting amid fears mpox outbreak in Africa could trigger global public health emergency",
+      "description": "The World Health Organisation has called a snap meeting over fears of the current mpox outbreak in Africa could lead to a global health emergency.",
+      "url": "https://www.skynews.com.au/lifestyle/health/who-chief-calls-urgent-committee-meeting-amid-fears-mpox-outbreak-in-africa-could-trigger-global-public-health-emergency/news-story/deac0008f8b32651142e15470e72cfc8",
+      "urlToImage": "https://content.api.news/v3/images/bin/9b4dff9a45d7704e65aee7c1eeef3671",
+      "publishedAt": "2024-08-09 06:27:13",
+      "content": "The World Health Organisation has called a snap meeting over fears of the current mpox outbreak in Africa could lead to a global health emergency. Mpox, also known as monkeypox, is an infectious vi\u2026 [+3227 chars]",
+      "retrievedAt": "2024-08-13 07:06:54.418881",
+      "internal_id": "8fd6b90cfdd74cf3a04b1580b98f776b3717287c83740032a6e742e124e29221",
       "publishedAtLabel": "Aug 9"
     },
     {
@@ -21961,6 +22196,114 @@
       "retrievedAt": "2024-07-02 07:06:48.077631",
       "internal_id": "eb269e69585d68dfe518c542b505097473346f8359eb87920d7c6267b46e1572",
       "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10662,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times News Network",
+      "title": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
+      "description": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
+      "url": "https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-30 18:55:54",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-01 19:06:27.850727",
+      "internal_id": "8e5ccf841780d17f0e928a4e5489025e0527981bb917e8ea39cfab18fffcdd41",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10664,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY DR. ITAY GAL",
+      "title": "First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak",
+      "description": "An expert explained to Maariv that a mosquito subspecies that can transmit the disease is already present in Israel, and climate change will bring the spread of fever closer",
+      "url": "https://www.jpost.com/health-and-wellness/article-808379",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/607075",
+      "publishedAt": "2024-06-30 18:10:43",
+      "content": "Israel has received its first warning of the deadly dengue fever approaching the region from the Far East and South America, now that the Health Ministry has announced 7 cases of infection with the d\u2026 [+4566 chars]",
+      "retrievedAt": "2024-07-01 19:06:30.007312",
+      "internal_id": "f696471ffdcf720ec6041eaa59ea3bdff84ae060a8c9e02e5cad73903d856551",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10667,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Anna Kurek",
+      "title": "Eksperci martwi\u0105 si\u0119 nowym wariantem ospy. \"Wszystkie kraje powinny si\u0119 przygotowa\u0107\"",
+      "description": "Od czasu globalnej epidemii ospy ma\u0142piej w 2022 r. wirus nie znikn\u0105\u0142. Nadal stosunkowo szybko mutuje i coraz lepiej przystosowuje si\u0119 do ludzkiego \u015brodowiska.",
+      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html",
+      "urlToImage": "https://bi.im-g.pl/im/b8/84/1b/z28855224IER,W-Teksasie-zmarl-pierwszy-zakazony-wirusem-malpiej.jpg",
+      "publishedAt": "2024-06-30 15:28:00",
+      "content": "Mpox (dawna nazwa choroby - ospa mapia) to choroba zakana wywoywana przez wirusa MPXV. To dwuniciowy wirus DNA, kt\u00f3ry moe zakaa zwierzta i ludzi. Ten wirus jest powizany z wirusem ospy prawdziwej, os\u2026 [+4722 chars]",
+      "retrievedAt": "2024-07-01 19:06:32.471069",
+      "internal_id": "3f57cb6795f86b906367160cbb7ec6b7f97ab4628db96bc6084e999f99c65e47",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10666,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Trudie Lang, L\u00e9andre Murhula  Masirika, Jean Claude Udahemuka, Sascha Karberg",
+      "title": "Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?",
+      "description": "Ein Mpox-Stamm hat es bereits nach Europa und Amerika geschafft, mit glimpflichen Folgen. Doch eine neue Variante macht Virologen gro\u00dfe Sorgen. Die Nachbarl\u00e4nder der Republik Kongo sind bereits betroffen.",
+      "url": "https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/pocken03-affenpockenvirus2/alternates/BASE_16_9_W1400/pocken03-affenpockenvirus.jpeg",
+      "publishedAt": "2024-06-30 14:06:42",
+      "content": "Eine neue, deutlich aggressivere Variante des Pockenvirus Mpox (ehemals Monkeypox/Affenpocken genannt) hat an der Grenze der Demokratischen Republik Kongo (DRC) zu Uganda, Burundi und Ruanda einen si\u2026 [+180 chars]",
+      "retrievedAt": "2024-07-01 19:06:32.465695",
+      "internal_id": "b22aeec5d2b3d03786c50980f11086c786e4170a8111564d040b8e93e66ca1be",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10665,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-washington-post",
+      "source_name": "The Washington Post",
+      "author": "Lena H. Sun, Sarah Kaplan",
+      "title": "Dengue fever is surging worldwide. A hotter planet will make it worse.",
+      "description": "Climate change helped fuel an explosion of dengue cases in the Americas, including Puerto Rico, as mosquitoes multiply in warmer, wetter weather.",
+      "url": "https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYCGCBYE4YSDRHV6JYIJ7VUUB4.JPG&w=1440",
+      "publishedAt": "2024-06-30 13:00:36",
+      "content": "SAN JUAN, Puerto Rico The curly-haired girl came to theemergency roomwith fever, aches and signs of dehydration,common indications of many childhood illnesses.But the 9-year-old pale and listless ben\u2026 [+15886 chars]",
+      "retrievedAt": "2024-07-01 19:06:30.033250",
+      "internal_id": "1db6632ce959c23f1a08cc59e6a74815d7cb7bf3b9e821a2864a4fbcd1c576d3",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10663,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
+      "title": "\u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0631\u0627 \u062c\u062f\u06cc \u0628\u06af\u06cc\u0631\u06cc\u0645",
+      "description": "\u0645\u0639\u0627\u0648\u0646 \u0628\u0647\u062f\u0627\u0634\u062a \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0645\u0634\u0647\u062f \u06af\u0641\u062a: \u062a\u0628 \u062f\u0646\u06af\u06cc \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0646\u06cc\u0632 \u0634\u0646\u0627\u062e\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f\u061b \u0686\u0631\u0627\u06a9\u0647 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u062f\u0631\u062f \u0634\u062f\u06cc\u062f \u062d\u0627\u0635\u0644 \u0627\u0632 \u0622\u0646 \u0628\u06cc\u0645\u0627\u0631 \u062a\u0635\u0648\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0627\u0633\u062a\u062e\u0648\u0627\u0646\u200c\u0647\u0627\u06cc\u0634 \u062f\u0631 \u062d\u0627\u0644 \u0634\u06a9\u0633\u062a\u0646 \u0627\u0633\u062a.",
+      "url": "https://www.isna.ir/news/1403041006560/\u062a\u0628-\u0627\u0633\u062a\u062e\u0648\u0627\u0646-\u0634\u06a9\u0646-\u0631\u0627-\u062c\u062f\u06cc-\u0628\u06af\u06cc\u0631\u06cc\u0645",
+      "urlToImage": "https://cdn.isna.ir/d/2022/09/13/4/62379201.jpg?ts=1663057108264",
+      "publishedAt": "2024-06-30 09:36:56",
+      "content": "/ : \u00ab \u00bb . : (Dengue fever) . : . : . : \u00ab \u00bb . : . : . : . : . : . : . : #",
+      "retrievedAt": "2024-07-01 19:06:30.001513",
+      "internal_id": "62958486975b7ce354cab8c73e564ae10f145bbfb70fc1440c1c9a2d41e90cb0",
+      "publishedAtLabel": "Jun 30"
     }
   ]
 }
