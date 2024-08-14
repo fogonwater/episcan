@@ -1,8 +1,135 @@
 {
-  "last_updated": "2024-08-13 19:06",
-  "count_articles_total": 1247,
-  "count_articles_new": 19,
+  "last_updated": "2024-08-14 07:06",
+  "count_articles_total": 1260,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 11916,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Ingo Bach, Laura Jung, Jonas Schmidt-Chanasit",
+      "title": "M\u00fcckenplage in Deutschland : Steigt das Risiko, sich mit Dengue-Fieber anzustecken?",
+      "description": "In diesem Jahr scheinen es besonders viele M\u00fccken auf unser Blut abgesehen zu haben. W\u00e4chst mit der Anzahl der Stiche auch das Risiko, dass dadurch Krankheitserreger \u00fcbertragen werden?",
+      "url": "https://www.tagesspiegel.de/gesundheit/muckenplage-in-deutschland-steigt-das-risiko-sich-mit-dengue-fieber-anzustecken-12185513.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12185924/alternates/BASE_16_9_W1400/1723470130000/aedes-aegypti-mosquito-close-up-a-mosquito-new-born.jpeg",
+      "publishedAt": "2024-08-13 06:53:07",
+      "content": "Ihr nervt\u00f6tendes Sirren raubt den Schlaf ebenso wie die mitunter heftig juckenden Quaddeln, nachdem die Stechm\u00fccke in Ruhe ihren Blutdurst stillen konnte. Das Jahr 2024, dessen Fr\u00fchjahr und Sommer zw\u2026 [+398 chars]",
+      "retrievedAt": "2024-08-14 07:05:57.772775",
+      "internal_id": "eee10d30f80c6e3dd150dcbffe094f61b099d4f4beda8e1a9f648a5c2fa4ed36",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 11915,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Colorado Public Radio",
+      "author": "John Daley",
+      "title": "Bird flu cases now detected in domestic cats in Colorado",
+      "description": "Six feline cases have been detected in in the state, with at least five of those cases in Northern Colorado.",
+      "url": "https://www.cpr.org/2024/08/12/bird-flu-cases-detected-in-domestic-cats-colorado/",
+      "urlToImage": "https://wp-cpr.s3.amazonaws.com/uploads/2024/08/211217-FERAL-CATS-DUSTIN-HAMILTON-COMMERCE-CITY-ANIMALS-KEVINJBEATY-11.jpg",
+      "publishedAt": "2024-08-13 00:57:43",
+      "content": "Colorados outbreak of H5 bird flu is now showing up in another animal species: cats. Six feline cases of Influenza A (also known as HPAI, Highly Pathogenic Avian Flu H5N1) have been diagnosed in dom\u2026 [+6557 chars]",
+      "retrievedAt": "2024-08-14 07:05:57.267289",
+      "internal_id": "b5a9ba6349e6c7cfa19a30c848a019af5a9d8ede695d605792849e9ef36a56e5",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 11918,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY TOM LIVNE",
+      "title": "76 years of hope: Reflecting on Israel's journey from pioneers to modern unity",
+      "description": "For 76 years, something has been whispering in our hearts. But what is it?",
+      "url": "https://www.jpost.com/opinion/article-814451",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/615219",
+      "publishedAt": "2024-08-13 00:03:49",
+      "content": "\u2018When the Biluim pioneers arrived full of hope, they planted stakes in the land of their ancestors. They fell ill with malaria and suffered from the heat waves, but something whispered in their heart\u2026 [+4441 chars]",
+      "retrievedAt": "2024-08-14 07:05:58.331584",
+      "internal_id": "866300a8542f3faf9faba71fa7c48c2e05d05839e832aff1d9c16ad017e57758",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 11920,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "Mpox outbreak grows in Africa",
+      "description": "On Tuesday, it's expected that Africa CDC will announce that Mpox is a health emergency of \"continental\" concern. An outbreak in the DRC has spread to four countries that have never had Mpox.",
+      "url": "https://www.npr.org/2024/08/12/nx-s1-5072543/mpox-outbreak-grows-in-africa",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-08-12 23:23:10",
+      "content": "On Tuesday, it's expected that Africa CDC will announce that Mpox is a health emergency of \"continental\" concern. An outbreak in the DRC has spread to four countries that have never had Mpox.",
+      "retrievedAt": "2024-08-14 07:05:59.296599",
+      "internal_id": "9f7df99531b6b36e6b980617b15315871eab2ddd53086d61e3640705d9d11271",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11921,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Publico.es",
+      "author": "Europa Press",
+      "title": "La OMS decide este mi\u00e9rcoles si declara el mpox emergencia sanitaria internacional",
+      "description": "El organismo internacional alerta de un aumento de casos \"sin precedentes\" en \u00c1frica, especialmente en la Rep\u00fablica Democr\u00e1tica del Congo (RDC), donde en seis meses se han notificado tanto casos como en todo el a\u00f1o pasado.",
+      "url": "https://www.publico.es/sociedad/oms-decide-miercoles-declara-mpox-emergencia-sanitaria-internacional-2.html",
+      "urlToImage": "https://www.publico.es/uploads/2024/08/12/66ba6c2ca8457.jpeg",
+      "publishedAt": "2024-08-12 21:05:00",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha programado para el pr\u00f3ximo mi\u00e9rcoles a las 12.00 horas la reuni\u00f3n en la que se decidir\u00e1 si declara el rebrote de mpox (antes conocido como viruela del mon\u2026 [+1882 chars]",
+      "retrievedAt": "2024-08-14 07:05:59.334553",
+      "internal_id": "c00fe50d9a0088e7591fb64449b2d049f96a0f2a02d739e9d9bac81a44d0f13f",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11917,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mental Floss",
+      "author": "Liz Langley",
+      "title": "6 of the World\u2019s Oldest Diseases",
+      "description": "Ailments as diverse as tooth decay and malaria have caused suffering for thousands, even millions, of years\u2014and they\u2019re not done with us yet.",
+      "url": "https://www.mentalfloss.com/posts/oldest-diseases",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_800,h_450,x_0,y_31/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01j4w0xjbde5tj0canm9.jpg",
+      "publishedAt": "2024-08-12 20:04:00",
+      "content": "The emergence of the COVID-19 pandemic in late 2019 was pretty awfulbut it also presented a rare moment when a completely new disease came to light. Other illnesses have been with us for hundreds or \u2026 [+8628 chars]",
+      "retrievedAt": "2024-08-14 07:05:58.304020",
+      "internal_id": "a2f6329cc6a84b62b520b0adff9bd6cb20f170483dafe9bf1ab3877f06ac319b",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 11919,
+      "query": [
+        "zika"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "'Zika-like' mosquito-borne virus has spread into Europe, health officials warn",
+      "description": "Cases of the Oropouche virus (OROV) emerging in Europe have health officials on high alert. As of the end of July, 19 cases had been reported in several countries.",
+      "url": "https://www.foxnews.com/health/zika-like-mosquito-borne-virus-has-spread-europe-health-officials-warn",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/08/three-toed-sloth.jpg",
+      "publishedAt": "2024-08-12 19:42:26",
+      "content": "Cases of the Oropouche virus (OROV) emerging in Europe have health officials on high alert. As of the end of July, 19 cases had been reported with 12 in Spain, five in Italy and two in Germany, per \u2026 [+4407 chars]",
+      "retrievedAt": "2024-08-14 07:05:58.744591",
+      "internal_id": "246555a808a6aa1b135d58dea281ab4870f168f8f9fe98eecb9eb95a00937a21",
+      "publishedAtLabel": "Aug 12"
+    },
     {
       "id": 11914,
       "query": [
@@ -22541,6 +22668,114 @@
       "retrievedAt": "2024-07-02 07:06:48.077631",
       "internal_id": "eb269e69585d68dfe518c542b505097473346f8359eb87920d7c6267b46e1572",
       "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10662,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times News Network",
+      "title": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
+      "description": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
+      "url": "https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-30 18:55:54",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-01 19:06:27.850727",
+      "internal_id": "8e5ccf841780d17f0e928a4e5489025e0527981bb917e8ea39cfab18fffcdd41",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10664,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY DR. ITAY GAL",
+      "title": "First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak",
+      "description": "An expert explained to Maariv that a mosquito subspecies that can transmit the disease is already present in Israel, and climate change will bring the spread of fever closer",
+      "url": "https://www.jpost.com/health-and-wellness/article-808379",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/607075",
+      "publishedAt": "2024-06-30 18:10:43",
+      "content": "Israel has received its first warning of the deadly dengue fever approaching the region from the Far East and South America, now that the Health Ministry has announced 7 cases of infection with the d\u2026 [+4566 chars]",
+      "retrievedAt": "2024-07-01 19:06:30.007312",
+      "internal_id": "f696471ffdcf720ec6041eaa59ea3bdff84ae060a8c9e02e5cad73903d856551",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10667,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Anna Kurek",
+      "title": "Eksperci martwi\u0105 si\u0119 nowym wariantem ospy. \"Wszystkie kraje powinny si\u0119 przygotowa\u0107\"",
+      "description": "Od czasu globalnej epidemii ospy ma\u0142piej w 2022 r. wirus nie znikn\u0105\u0142. Nadal stosunkowo szybko mutuje i coraz lepiej przystosowuje si\u0119 do ludzkiego \u015brodowiska.",
+      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html",
+      "urlToImage": "https://bi.im-g.pl/im/b8/84/1b/z28855224IER,W-Teksasie-zmarl-pierwszy-zakazony-wirusem-malpiej.jpg",
+      "publishedAt": "2024-06-30 15:28:00",
+      "content": "Mpox (dawna nazwa choroby - ospa mapia) to choroba zakana wywoywana przez wirusa MPXV. To dwuniciowy wirus DNA, kt\u00f3ry moe zakaa zwierzta i ludzi. Ten wirus jest powizany z wirusem ospy prawdziwej, os\u2026 [+4722 chars]",
+      "retrievedAt": "2024-07-01 19:06:32.471069",
+      "internal_id": "3f57cb6795f86b906367160cbb7ec6b7f97ab4628db96bc6084e999f99c65e47",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10666,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Trudie Lang, L\u00e9andre Murhula  Masirika, Jean Claude Udahemuka, Sascha Karberg",
+      "title": "Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?",
+      "description": "Ein Mpox-Stamm hat es bereits nach Europa und Amerika geschafft, mit glimpflichen Folgen. Doch eine neue Variante macht Virologen gro\u00dfe Sorgen. Die Nachbarl\u00e4nder der Republik Kongo sind bereits betroffen.",
+      "url": "https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/pocken03-affenpockenvirus2/alternates/BASE_16_9_W1400/pocken03-affenpockenvirus.jpeg",
+      "publishedAt": "2024-06-30 14:06:42",
+      "content": "Eine neue, deutlich aggressivere Variante des Pockenvirus Mpox (ehemals Monkeypox/Affenpocken genannt) hat an der Grenze der Demokratischen Republik Kongo (DRC) zu Uganda, Burundi und Ruanda einen si\u2026 [+180 chars]",
+      "retrievedAt": "2024-07-01 19:06:32.465695",
+      "internal_id": "b22aeec5d2b3d03786c50980f11086c786e4170a8111564d040b8e93e66ca1be",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10665,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-washington-post",
+      "source_name": "The Washington Post",
+      "author": "Lena H. Sun, Sarah Kaplan",
+      "title": "Dengue fever is surging worldwide. A hotter planet will make it worse.",
+      "description": "Climate change helped fuel an explosion of dengue cases in the Americas, including Puerto Rico, as mosquitoes multiply in warmer, wetter weather.",
+      "url": "https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYCGCBYE4YSDRHV6JYIJ7VUUB4.JPG&w=1440",
+      "publishedAt": "2024-06-30 13:00:36",
+      "content": "SAN JUAN, Puerto Rico The curly-haired girl came to theemergency roomwith fever, aches and signs of dehydration,common indications of many childhood illnesses.But the 9-year-old pale and listless ben\u2026 [+15886 chars]",
+      "retrievedAt": "2024-07-01 19:06:30.033250",
+      "internal_id": "1db6632ce959c23f1a08cc59e6a74815d7cb7bf3b9e821a2864a4fbcd1c576d3",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10663,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
+      "title": "\u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0631\u0627 \u062c\u062f\u06cc \u0628\u06af\u06cc\u0631\u06cc\u0645",
+      "description": "\u0645\u0639\u0627\u0648\u0646 \u0628\u0647\u062f\u0627\u0634\u062a \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0645\u0634\u0647\u062f \u06af\u0641\u062a: \u062a\u0628 \u062f\u0646\u06af\u06cc \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0646\u06cc\u0632 \u0634\u0646\u0627\u062e\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f\u061b \u0686\u0631\u0627\u06a9\u0647 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u062f\u0631\u062f \u0634\u062f\u06cc\u062f \u062d\u0627\u0635\u0644 \u0627\u0632 \u0622\u0646 \u0628\u06cc\u0645\u0627\u0631 \u062a\u0635\u0648\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0627\u0633\u062a\u062e\u0648\u0627\u0646\u200c\u0647\u0627\u06cc\u0634 \u062f\u0631 \u062d\u0627\u0644 \u0634\u06a9\u0633\u062a\u0646 \u0627\u0633\u062a.",
+      "url": "https://www.isna.ir/news/1403041006560/\u062a\u0628-\u0627\u0633\u062a\u062e\u0648\u0627\u0646-\u0634\u06a9\u0646-\u0631\u0627-\u062c\u062f\u06cc-\u0628\u06af\u06cc\u0631\u06cc\u0645",
+      "urlToImage": "https://cdn.isna.ir/d/2022/09/13/4/62379201.jpg?ts=1663057108264",
+      "publishedAt": "2024-06-30 09:36:56",
+      "content": "/ : \u00ab \u00bb . : (Dengue fever) . : . : . : \u00ab \u00bb . : . : . : . : . : . : . : #",
+      "retrievedAt": "2024-07-01 19:06:30.001513",
+      "internal_id": "62958486975b7ce354cab8c73e564ae10f145bbfb70fc1440c1c9a2d41e90cb0",
+      "publishedAtLabel": "Jun 30"
     }
   ]
 }

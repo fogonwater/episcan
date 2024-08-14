@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-08-13 19:06
-- **Most recent article:** 2024-08-12 19:05:20
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-08-14 07:06
+- **Most recent article:** 2024-08-13 06:53:07
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 49 | 95 | 62 | 63 | 55 | 46 | 12 | 382 |
-| mpox | 19 | 26 | 17 | 16 | 26 | 139 | 19 | 262 |
-| h5n1 | 59 | 52 | 62 | 38 | 21 | 6 | 1 | 239 |
-| malaria | 15 | 14 | 31 | 16 | 15 | 16 | 4 | 111 |
+| dengue | 52 | 95 | 62 | 63 | 55 | 46 | 13 | 386 |
+| mpox | 21 | 26 | 17 | 16 | 26 | 139 | 21 | 266 |
+| h5n1 | 59 | 52 | 62 | 38 | 21 | 6 | 2 | 240 |
+| malaria | 15 | 14 | 31 | 16 | 15 | 16 | 6 | 113 |
 | measles | 9 | 12 | 19 | 22 | 8 | 6 | 0 | 76 |
-| zika | 20 | 12 | 6 | 10 | 12 | 11 | 2 | 73 |
-| rabies | 3 | 2 | 17 | 8 | 12 | 8 | 2 | 52 |
+| zika | 20 | 12 | 6 | 10 | 12 | 11 | 3 | 74 |
+| rabies | 4 | 2 | 17 | 8 | 12 | 8 | 2 | 53 |
 | chikungunya | 6 | 6 | 10 | 7 | 6 | 4 | 2 | 41 |
+| hpai | 3 | 5 | 6 | 3 | 4 | 1 | 1 | 23 |
 | meningitis | 3 | 5 | 3 | 2 | 3 | 6 | 0 | 22 |
-| hpai | 3 | 5 | 6 | 3 | 4 | 1 | 0 | 22 |
 | pertussis | 1 | 2 | 0 | 5 | 5 | 6 | 1 | 20 |
 | typhoid | 4 | 6 | 1 | 3 | 1 | 0 | 0 | 15 |
 | leptospirosis | 1 | 3 | 4 | 1 | 2 | 2 | 1 | 14 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-33 (zika)
+
+- ['Zika-like' mosquito-borne virus has spread into Europe, health officials warn](https://www.foxnews.com/health/zika-like-mosquito-borne-virus-has-spread-europe-health-officials-warn) (Fox News)
 
 - [Protein in mosquito saliva inhibits host immune response](https://medicine.yale.edu/news-article/protein-in-mosquito-saliva-inhibits-host-immune-response/) (Yale.edu)
 
@@ -50,6 +52,10 @@ Source: [News API](https://newsapi.org/)
 - [Gyorsulva terjed Magyarországon a fertőzés, ami halálos is lehet](https://www.portfolio.hu/gazdasag/20240812/gyorsulva-terjed-magyarorszagon-a-fertozes-ami-halalos-is-lehet-703695) (Portfolio.hu)
 
 ## 24-33 (mpox)
+
+- [Mpox outbreak grows in Africa](https://www.npr.org/2024/08/12/nx-s1-5072543/mpox-outbreak-grows-in-africa) (NPR)
+
+- [La OMS decide este miércoles si declara el mpox emergencia sanitaria internacional](https://www.publico.es/sociedad/oms-decide-miercoles-declara-mpox-emergencia-sanitaria-internacional-2.html) (Publico.es)
 
 - [Multi-country outbreak of mpox, External situation report#35- 12 August 2024](https://www.who.int/publications/m/item/multi-country-outbreak-of-mpox--external-situation-report-35--12-august-2024) (World Health Organization)
 
@@ -91,6 +97,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-33 (malaria)
 
+- [76 years of hope: Reflecting on Israel's journey from pioneers to modern unity](https://www.jpost.com/opinion/article-814451) (The Jerusalem Post)
+
+- [6 of the World’s Oldest Diseases](https://www.mentalfloss.com/posts/oldest-diseases) (Mental Floss)
+
 - [The impact of soil transmitted helminth on malaria clinical presentation and treatment outcome: A case control study among children in Bagamoyo district, coastal region of Tanzania](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012412) (Plos.org)
 
 - [60 Degrees Pharma Provides University of Kentucky with Right of Reference to ARAKODA® NDA in Support of SJ733 Phase IIb Study](https://www.globenewswire.com/news-release/2024/08/12/2928485/0/en/60-Degrees-Pharma-Provides-University-of-Kentucky-with-Right-of-Reference-to-ARAKODA-NDA-in-Support-of-SJ733-Phase-IIb-Study.html) (GlobeNewswire)
@@ -103,11 +113,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Department of Health, nagpasalig nga masarangan ang pag-atinder sang nagasaka nga kaso sang leptospirosis](https://bacolod.bomboradyo.com/department-of-health-nagpasalig-nga-masarangan-ang-pag-atinder-sang-nagasaka-nga-kaso-sang-leptospirosis/) (Bomboradyo.com)
 
+## 24-33 (hpai)
+
+- [Bird flu cases now detected in domestic cats in Colorado](https://www.cpr.org/2024/08/12/bird-flu-cases-detected-in-domestic-cats-colorado/) (Colorado Public Radio)
+
 ## 24-33 (h5n1)
+
+- [Bird flu cases now detected in domestic cats in Colorado](https://www.cpr.org/2024/08/12/bird-flu-cases-detected-in-domestic-cats-colorado/) (Colorado Public Radio)
 
 - [Confirmado: la gripe aviar se está extendiendo entre los mamíferos](https://www.muyinteresante.com/ciencia/65707.html) (Muyinteresante.com)
 
 ## 24-33 (dengue)
+
+- [Mückenplage in Deutschland : Steigt das Risiko, sich mit Dengue-Fieber anzustecken?](https://www.tagesspiegel.de/gesundheit/muckenplage-in-deutschland-steigt-das-risiko-sich-mit-dengue-fieber-anzustecken-12185513.html) (Der Tagesspiegel)
 
 - [Protein in mosquito saliva inhibits host immune response](https://medicine.yale.edu/news-article/protein-in-mosquito-saliva-inhibits-host-immune-response/) (Yale.edu)
 
@@ -2543,6 +2561,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mission Rabies to vaccinate dogs across Tiswadi taluka](https://timesofindia.indiatimes.com/city/goa/mission-rabies-to-vaccinate-dogs-across-tiswadi-taluka/articleshow/111495788.cms) (The Times of India)
 
+- [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
+
 ## 24-27 (pertussis)
 
 - [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
@@ -2586,6 +2606,10 @@ Source: [News API](https://newsapi.org/)
 - [Starliner Astronauts Are in Limbo, and Emergency Access to Abortion Is Preserved](https://www.scientificamerican.com/podcast/episode/starliner-astronauts-are-in-limbo-and-emergency-access-to-abortion-is/) (Scientific American)
 
 - [Advocates use end of Pride Month to warn about Mpox](https://www.cbsnews.com/video/advocates-use-end-of-pride-month-to-warn-about-mpox/) (CBS News)
+
+- [Eksperci martwią się nowym wariantem ospy. "Wszystkie kraje powinny się przygotować"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html) (Gazeta.pl)
+
+- [Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?](https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html) (Der Tagesspiegel)
 
 ## 24-27 (meningitis)
 
@@ -2878,6 +2902,12 @@ Source: [News API](https://newsapi.org/)
 - [Surging dengue virus in Bengaluru poses threat to women, kids: Doctors](https://timesofindia.indiatimes.com/city/bengaluru/surging-dengue-virus-in-bengaluru-poses-threat-to-women-kids-doctors/articleshow/111392899.cms) (The Times of India)
 
 - [BBMP audit confirms 1 dengue death, 213 new cases in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-audit-confirms-1-dengue-death-213-new-cases-in-bengaluru/articleshow/111390828.cms) (The Times of India)
+
+- [First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak](https://www.jpost.com/health-and-wellness/article-808379) (The Jerusalem Post)
+
+- [Dengue fever is surging worldwide. A hotter planet will make it worse.](https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/) (The Washington Post)
+
+- [«تب استخوان شکن» را جدی بگیریم](https://www.isna.ir/news/1403041006560/تب-استخوان-شکن-را-جدی-بگیریم) (Isna.ir)
 
 ## 24-27 (chikungunya)
 
