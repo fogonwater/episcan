@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 78
-- **Last harvest:** 2024-08-14 19:05
-- **Most recent article:** 2024-08-13 18:54:00
+- **New articles in last harvest:** 30
+- **Last harvest:** 2024-08-15 07:06
+- **Most recent article:** 2024-08-14 07:00:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 49 | 95 | 62 | 63 | 55 | 46 | 19 | 389 |
-| mpox | 19 | 26 | 17 | 16 | 26 | 139 | 84 | 327 |
+| dengue | 52 | 95 | 62 | 63 | 55 | 46 | 22 | 395 |
+| mpox | 21 | 26 | 17 | 16 | 26 | 139 | 105 | 350 |
 | h5n1 | 59 | 52 | 62 | 38 | 21 | 6 | 3 | 241 |
-| malaria | 15 | 14 | 31 | 16 | 15 | 16 | 7 | 114 |
+| malaria | 15 | 14 | 31 | 16 | 15 | 16 | 9 | 116 |
+| zika | 20 | 12 | 6 | 10 | 12 | 11 | 6 | 77 |
 | measles | 9 | 12 | 19 | 22 | 8 | 6 | 1 | 77 |
-| zika | 20 | 12 | 6 | 10 | 12 | 11 | 4 | 75 |
-| rabies | 3 | 2 | 17 | 8 | 12 | 8 | 2 | 52 |
+| rabies | 4 | 2 | 17 | 8 | 12 | 8 | 4 | 55 |
 | chikungunya | 6 | 6 | 10 | 7 | 6 | 4 | 6 | 45 |
 | hpai | 3 | 5 | 6 | 3 | 4 | 1 | 1 | 23 |
 | meningitis | 3 | 5 | 3 | 2 | 3 | 6 | 0 | 22 |
@@ -35,6 +35,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-33 (zika)
 
+- [Comissão do Senado aprova indenização e pensão para crianças afetadas pelo vírus Zika](https://www.terra.com.br/noticias/brasil/politica/comissao-do-senado-aprova-indenizacao-e-pensao-para-criancas-afetadas-pelo-virus-zika,522f17e92ad614f42ed0ce646ffcf7e21nbagrmv.html) (Terra.com.br)
+
+- ['Sloth virus' reported in Europe for 1st time — but what is it?](https://www.livescience.com/health/viruses-infections-disease/sloth-virus-reported-in-europe-for-1st-time-but-what-is-it) (Live Science)
+
 - [Comissão aprova pensão para quem tem deficiência causada por zika](https://www.metropoles.com/brasil/comissao-aprova-pensao-para-quem-tem-deficiencia-causada-por-zika) (Metropoles.com)
 
 - ['Zika-like' mosquito-borne virus has spread into Europe, health officials warn](https://www.foxnews.com/health/zika-like-mosquito-borne-virus-has-spread-europe-health-officials-warn) (Fox News)
@@ -44,6 +48,10 @@ Source: [News API](https://newsapi.org/)
 - [Setkání s nepatrnými tvory může mít vážné následky, někteří člověka zabijí sami, jiní mají mikroskopické spojence](https://www.lidovky.cz/relax/komar-tygrovany-nebezpecny-hmyz-vsi-mor-tyfus-sklipkanec.A240809_090652_ln_magazin_lchme) (Lidovky.cz)
 
 ## 24-33 (rabies)
+
+- [Euthanized puppy tests negative for rabies following health warning after Colorado adoption event](https://www.cbsnews.com/colorado/news/euthanized-puppy-tests-negative-rabies-following-health-warning/) (CBS News)
+
+- [Death by rabies](https://timesofindia.indiatimes.com/city/chennai/death-by-rabies/articleshow/112504633.cms) (The Times of India)
 
 - [В Ярославской области ежи покусали 9 человек. И это очень опасно](https://vfokuse.mail.ru/article/v-yaroslavskoy-oblasti-ezhi-pokusali-9-chelovek-i-eto-ochen-opasno-62333753/) (Mail.ru)
 
@@ -56,6 +64,46 @@ Source: [News API](https://newsapi.org/)
 - [Gyorsulva terjed Magyarországon a fertőzés, ami halálos is lehet](https://www.portfolio.hu/gazdasag/20240812/gyorsulva-terjed-magyarorszagon-a-fertozes-ami-halalos-is-lehet-703695) (Portfolio.hu)
 
 ## 24-33 (mpox)
+
+- [La OMS toma hoy su decisión crucial sobre la emergencia por brote de mpox](https://www.nationalgeographic.com.es/ciencia/oms-toma-hoy-su-decision-crucial-sobre-emergencia-por-brote-mpox_23009) (Nationalgeographic.com.es)
+
+- [Afrika Birliği, M çiçeği salgınına karşı acil durum ilan etti](https://www.haberturk.com/afrika-birligi-m-cicegi-salginina-karsi-kita-genelinde-acil-durum-ilan-etti-haberler-3711329) (Haberturk.com)
+
+- [OMS reúne esta quarta-feira comité de urgência para avaliar epidemia do vírus Mpox em África](https://observador.pt/2024/08/14/oms-reune-esta-quarta-feira-comite-de-urgencia-para-avaliar-epidemia-do-virus-mpox-em-africa/) (Observador.pt)
+
+- [Mpox: OMS reúne comité de urgência para avaliar epidemia em África esta quarta-feira](https://expresso.pt/sociedade/saude/2024-08-14-mpox-oms-reune-comite-de-urgencia-para-avaliar-epidemia-em-africa-esta-quarta-feira-ffd7190e) (Expresso.pt)
+
+- [African Union declares mpox health emergency](https://www.hurriyetdailynews.com/african-union-declares-mpox-health-emergency-199481) (Hurriyet Daily News)
+
+- [Yeni virüs riski: 13 ülkeye yayıldı](https://www.odatv.com/dunya/yeni-virus-riski-13-ulkeye-yayildi-m-cicegi-mpox-hastaligi-nedir-120058477) (Odatv.com)
+
+- [Fast-spreading mpox outbreak is declared emergency on African continent](https://www.independent.ie/world-news/africa/fast-spreading-mpox-outbreak-is-declared-emergency-on-african-continent/a1969886544.html) (Independent.ie)
+
+- [Mpox outbreak declared a public health emergency in Africa](https://www.dw.com/en/mpox-outbreak-declared-a-public-health-emergency-in-africa/a-69933271) (DW (English))
+
+- [The mpox outbreak never ended in Africa. Now a deadlier strain is spreading.](https://www.vox.com/future-perfect/366903/mpox-monkeypox-africa-continental-emergency-drc-who-clade) (Vox)
+
+- [Hälsonödläge i Afrika – stort utbrott av mpox](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1285280) (Aftonbladet.se)
+
+- [Brasil tem média de 40 a 50 novos casos de mpox por mês](https://www.infomoney.com.br/mundo/brasil-tem-media-de-40-a-50-novos-casos-de-mpox-por-mes/) (InfoMoney)
+
+- [Mpox Declared A Public Health Emergency In Africa: Why That’s A Concern For Other Nations](https://www.forbes.com/sites/matthewbinnicker/2024/08/13/mpox-declared-a-public-health-emergency-in-africa-why-thats-a-concern-for-other-nations/) (Forbes)
+
+- [Brasil tem média de 40 a 50 novos casos de mpox por mês](https://dinheirama.com/brasil-tem-media-de-40-a-50-novos-casos-de-mpox-por-mes/) (Dinheirama.com)
+
+- [What you should know about new mpox outbreak in Africa](https://punchng.com/what-you-should-know-about-new-mpox-outbreak-in-africa/) (The Punch)
+
+- [Statsepidemiolog om mpox: ”Kan komma till Sverige”](https://www.expressen.se/nyheter/varlden/statsepidemiolog-om-mpox--kan-komma-till-sverige/) (Expressen.se)
+
+- [Brasil é o 2º país do mundo com mais casos de mpox](https://olhardigital.com.br/2024/08/13/medicina-e-saude/brasil-e-o-2o-pais-do-mundo-com-mais-casos-de-mpox/) (Olhardigital.com.br)
+
+- [Mpox Is Officially a Health Emergency in Africa](https://time.com/7010665/mpox-health-emergency-africa/) (Time)
+
+- [O que é mpox e como ela é transmitida?](https://www.bbc.com/portuguese/articles/c2l10q895zyo) (BBC News)
+
+- [Growing mpox 'crisis' prompts Africa to declare first-ever public health emergency](https://www.cbc.ca/news/health/mpox-emergency-africa-1.7293476) (CBC News)
+
+- [WHO names mpox a global health emergency for second time as virus surges in Africa](https://www.cbc.ca/news/health/who-names-mpox-a-global-health-emergency-for-second-time-as-virus-surges-in-africa-1.7294434) (CBC News)
 
 - [Africa public health body declares mpox emergency](https://www.channelnewsasia.com/world/africa-public-health-body-declares-mpox-emergency-4544566) (CNA)
 
@@ -110,6 +158,8 @@ Source: [News API](https://newsapi.org/)
 - [Virusul Mpox, declarat de autorităţile medicale o urgenţă de sănătate publică în Africa](https://www.mediafax.ro/sanatate/virusul-mpox-declarat-de-autoritatile-medicale-o-urgenta-de-sanatate-publica-in-africa-22460555) (Mediafax.ro)
 
 - [Pacientes sin vacunar y relaciones sexuales de riesgo: por qué la OMS se toma tan en serio la viruela del mono](https://www.alimente.elconfidencial.com/bienestar/2024-08-13/viruela-mono-mpox-contagios-emergencia-sanitaria-oms_3942372/) (Elconfidencial.com)
+
+- [La OMS detecta 934 casos de viruela del mono en junio, casi un 50% más que en mayo](https://www.elperiodico.com/es/sociedad/20240813/viruela-mono-oms-934-casos-junio-106959963) (Elperiodico.com)
 
 - [Crecen los casos en España | Viruela del mono: ¿cuál es la vía de contagio más probable?](https://www.mundodeportivo.com/vidae/salud/20240813/1002298020/viruela-mono-cual-contagio-mas-probable.html) (Mundodeportivo.com)
 
@@ -231,6 +281,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-33 (malaria)
 
+- [Nuevos datos de la eficiencia de un anticuerpo monoclonal experimental contra la malaria en niños](https://www.infosalus.com/salud-investigacion/noticia-nuevos-datos-eficiencia-anticuerpo-monoclonal-experimental-contra-malaria-ninos-20240814071247.html) (Infosalus.com)
+
+- [Lower Microscopy Sensitivity with Decreasing Malaria Prevalence in the Urban Amazon Region, Brazil, 2018–2021](https://wwwnc.cdc.gov/eid/article/30/9/24-0378_article) (Cdc.gov)
+
 - [University of Kentucky to conduct phase IIb malaria drug study](https://www.investing.com/news/company-news/university-of-kentucky-to-conduct-phase-iib-malaria-drug-study-93CH-3568284) (Investing.com)
 
 - [76 years of hope: Reflecting on Israel's journey from pioneers to modern unity](https://www.jpost.com/opinion/article-814451) (The Jerusalem Post)
@@ -262,6 +316,12 @@ Source: [News API](https://newsapi.org/)
 - [Confirmado: la gripe aviar se está extendiendo entre los mamíferos](https://www.muyinteresante.com/ciencia/65707.html) (Muyinteresante.com)
 
 ## 24-33 (dengue)
+
+- [Baguio: Lungsod ng Baguio nakapagtala ng pitong patay dahil sa Dengue](https://rpnradio.com/baguio-lungsod-ng-baguio-nakapagtala-ng-pitong-patay-dahil-sa-dengue/) (Rpnradio.com)
+
+- [Preguntas y respuestas sobre el virus Oropouche](https://www.nacion.com/ciencia/salud/preguntas-y-respuestas-sobre-el-virus-oropouche/XZFALU6Y3JBXVK4XSVIXFFUNTU/story/) (Nacion.com)
+
+- [Em novo estudo, vacina do Butantan mostra 89% de proteção contra dengue grave e com sinais de alarme](https://gizmodo.uol.com.br/em-novo-estudo-vacina-do-butantan-mostra-89-de-protecao-contra-dengue-grave-e-com-sinais-de-alarme/) (Uol.com.br)
 
 - [Estimation of population age structure, daily survival rates, and potential to support dengue virus transmission for Florida Keys Aedes aegypti via transcriptional profiling](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012350) (Plos.org)
 
@@ -2719,6 +2779,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mission Rabies to vaccinate dogs across Tiswadi taluka](https://timesofindia.indiatimes.com/city/goa/mission-rabies-to-vaccinate-dogs-across-tiswadi-taluka/articleshow/111495788.cms) (The Times of India)
 
+- [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
+
 ## 24-27 (pertussis)
 
 - [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
@@ -2762,6 +2824,10 @@ Source: [News API](https://newsapi.org/)
 - [Starliner Astronauts Are in Limbo, and Emergency Access to Abortion Is Preserved](https://www.scientificamerican.com/podcast/episode/starliner-astronauts-are-in-limbo-and-emergency-access-to-abortion-is/) (Scientific American)
 
 - [Advocates use end of Pride Month to warn about Mpox](https://www.cbsnews.com/video/advocates-use-end-of-pride-month-to-warn-about-mpox/) (CBS News)
+
+- [Eksperci martwią się nowym wariantem ospy. "Wszystkie kraje powinny się przygotować"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html) (Gazeta.pl)
+
+- [Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?](https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html) (Der Tagesspiegel)
 
 ## 24-27 (meningitis)
 
@@ -3054,6 +3120,12 @@ Source: [News API](https://newsapi.org/)
 - [Surging dengue virus in Bengaluru poses threat to women, kids: Doctors](https://timesofindia.indiatimes.com/city/bengaluru/surging-dengue-virus-in-bengaluru-poses-threat-to-women-kids-doctors/articleshow/111392899.cms) (The Times of India)
 
 - [BBMP audit confirms 1 dengue death, 213 new cases in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-audit-confirms-1-dengue-death-213-new-cases-in-bengaluru/articleshow/111390828.cms) (The Times of India)
+
+- [First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak](https://www.jpost.com/health-and-wellness/article-808379) (The Jerusalem Post)
+
+- [Dengue fever is surging worldwide. A hotter planet will make it worse.](https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/) (The Washington Post)
+
+- [«تب استخوان شکن» را جدی بگیریم](https://www.isna.ir/news/1403041006560/تب-استخوان-شکن-را-جدی-بگیریم) (Isna.ir)
 
 ## 24-27 (chikungunya)
 
