@@ -1,8 +1,602 @@
 {
-  "last_updated": "2024-08-15 19:05",
-  "count_articles_total": 1424,
-  "count_articles_new": 62,
+  "last_updated": "2024-08-16 07:06",
+  "count_articles_total": 1464,
+  "count_articles_new": 34,
   "articles": [
+    {
+      "id": 12111,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "R. SEKARAN",
+      "title": "Malaysia recorded nine monkeypox cases to date, all in 2023, says Health Ministry",
+      "description": "PETALING JAYA: Malaysia has recorded nine monkeypox (mpox) cases to date since the first case was detected on July 26, 2023, with the last one in November the same year. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/08/15/malaysia-recorded-nine-monkeypox-cases-to-date-all-in-2023-says-health-ministry",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/08/15/2859551.jpg",
+      "publishedAt": "2024-08-15 07:06:00",
+      "content": "PETALING JAYA: Malaysia has recorded nine monkeypox (mpox) cases to date since the first case was detected on July 26, 2023, with the last one in November the same year. The Health Ministry said all\u2026 [+1216 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.229682",
+      "internal_id": "2b6e53ad115275a3ab9927d811d250fada8928100fdd1a07b691539a6ac0bd48",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12113,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "- hl -",
+      "title": "Majomhiml\u00f3: a WHO kihirdette az eg\u00e9szs\u00e9g\u00fcgyi v\u00e9szhelyzetet",
+      "description": "Majomhiml\u0151: a WHO kihirdette az eg\u00e9szs\u00e9g\u00fcgyi v\u00e9szhelyzetet - T\u00f6bb sz\u00e1z hal\u00e1lesetet jelentettek eddig.",
+      "url": "https://index.hu/kulfold/2024/08/15/who-mpox-majomhimlo-jarvany-vilagjarvany-afrika/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/5782/57824/578244/57824421_4278209_9219d978c017f3d8f7a18274d442159e_wm.jpg",
+      "publishedAt": "2024-08-15 04:34:00",
+      "content": "A glob\u00e1lis eg\u00e9szs\u00e9g\u00fcgyi hat\u00f3s\u00e1gok j\u00faliusban riad\u00f3t f\u00fajtak a Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1g keleti hat\u00e1r\u00e1n\u00e1l terjed Mpox-v\u00edrust\u00f6rzs vagyis k\u00f6zismertebb nev\u00e9n a majomhiml mut\u00e1ci\u00f3ja miatt. A WHO a h\u00e9te\u2026 [+2075 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.249430",
+      "internal_id": "3a123b3b09db0d6faa875b63c500561df7eb829ab7199e95269efc63fad161ac",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12112,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "Mort de Gena Rowlands, Columbia, Mpox, Stonehenge : les informations de la nuit",
+      "description": "L\u2019actrice Gena Rowlands est morte. La star am\u00e9ricaine est d\u00e9c\u00e9d\u00e9e \u00e0 l\u2019\u00e2ge de 94 ans, rapporte mercredi le magazine Entertainment Weekly, citant le fils de l\u2019actrice, Nick Cassavetes. L\u2019actrice, notamment connue pour ses r\u00f4les dans les films \u201cGloria\u201d et \u201cUne f\u2026",
+      "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-mort-de-gena-rowlands-columbia-mpox-stonehenge-les-informations-de-la-nuit_221214",
+      "urlToImage": "https://focus.courrierinternational.com/2024/08/15/0/4/4920/3280/1200/630/60/0/ff9fadc_afp-36e39mp.jpg",
+      "publishedAt": "2024-08-15 04:01:07",
+      "content": "Lactrice Gena Rowlands est morte. La star am\u00e9ricaine est d\u00e9c\u00e9d\u00e9e \u00e0 l\u00e2ge de 94 ans, rapporte mercredi le magazine Entertainment Weekly, citant le fils de lactrice, Nick Cassavetes. Lactrice, notamment\u2026 [+3659 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.243735",
+      "internal_id": "b0e6478ffe88f171c5f6331fae9138237fa8bfb5fd77e97e51a94a1a7a0ac55c",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12099,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: Weltweite Notlage wegen Mpox - nicht gen\u00fcgend Impfstoff",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eWeltweite Notlage wegen Mpox - nicht gen\u00fcgend Impfstoff\u201c.",
+      "url": "https://www.zeit.de/news/2024-08/15/weltweite-notlage-wegen-mpox-nicht-genuegend-impfstoff",
+      "urlToImage": "https://img.zeit.de/news/2024-08/15/weltweite-notlage-wegen-mpox-nicht-genuegend-impfstoff-image-group/wide__1300x731",
+      "publishedAt": "2024-08-15 00:30:36",
+      "content": "Mehrere Mpox-Ausbr\u00fcche in Afrika und eine neue wom\u00f6glich gef\u00e4hrliche Variante bedrohen die \u00f6ffentliche Gesundheit weltweit. Die Weltgesundheitsorganisation (WHO) hat deshalb die h\u00f6chste Alarmstufe au\u2026 [+4559 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.046479",
+      "internal_id": "91526a3020023ff9aff156916d300823e8727cf5147ec89b2f5f770229592df3",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12096,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "YAP KUO",
+      "title": "\u4e0d\u53ea\u767b\u9769\u71b1\uff0c\u868a\u5b50\u9084\u6703\u50b3\u64ad\u6162\u6027\u95dc\u7bc0\u708e\u75c5\u6bd2",
+      "description": "\u868a\u5b50\u9664\u4e86\u50b3\u64ad\u767b\u9769\u71b1\uff0c\u9084\u80fd\u50b3\u64ad\u591a\u7a2e\u75be\u75c5\uff0c\u5982\u7627\u75be\u3001\u9ec3\u71b1\u75c5\u53ca\u8332\u5361\u75c5\u6bd2\u7b49\u3002\u7627\u75be\u6703\u5f15\u8d77\u9ad8\u71d2\uff0c\u808c\u8089\u3001\u95dc\u7bc0\u75db\u53ca\u5641\u5fc3\u5614\u5410\uff1b\u5b55\u5a66\u5982\u679c\u611f\u67d3\u8332\u5361\u75c5\u6bd2\uff0c\u53ef\u80fd\u5c0e\u81f4\u80ce\u5152\u8166\u90e8\u767c\u80b2\u7570\u5e38\u4f7f\u65b0\u751f\u5152\u5f97\u5c0f\u8166\u75c7\u3002\u868a\u5b50\u9084\u6703\u50b3\u64ad\u300c\u5c48\u516c\u75c5\u6bd2\u300d\uff08Chikungunya virus\uff09\u75c5\u539f\uff0c\u53d7\u5f71\u97ff\u8005\u53ef\u80fd\u8b8a\u6210\u300c\u6162\u6027\u95dc\u7bc0\u708e\u300d\u9577\u671f\u53d7\u82e6\u3002 \u5c48\u516c\u75c5\u6bd2\u5f15\u8d77\u6025\u6027\u50b3\u67d3...",
+      "url": "https://technews.tw/2024/08/15/is-chikungunya-more-dangerous-than-you-think/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2023/05/10135326/mosquito-719613_1920.jpg",
+      "publishedAt": "2024-08-15 00:20:09",
+      "content": "\u00a9 2013-2024 TechNews Inc. All rights reserved. | | | |",
+      "retrievedAt": "2024-08-16 07:06:57.569213",
+      "internal_id": "fa16b6e82796a05bc5aeddee68b9a9819dbddcdf58383fccc4047789de97eab3",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12105,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Pilar P\u00e9rez",
+      "title": "Radiograf\u00eda de los casos de viruela del mono en Espa\u00f1a: \"Las nuevas infecciones de mpox son personas sin vacunar\"",
+      "description": "Nuestro pa\u00eds concentra el mayor n\u00famero de casos de la UE y es donde m\u00e1s crecen las infecciones. Sanidad recuerda que se deben completar la pauta vacunal, las dos dosis, para protegerse Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/08/15/66bc80a8fc6c8342038b45a8.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/0b5381e9f63b1d220b9211b4b2936f3e/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/14/17236302167734.jpg",
+      "publishedAt": "2024-08-15 00:13:46",
+      "content": "Espa\u00f1a tiene una de las cifras de contagios de mpox, viruela del mono, m\u00e1s elevadas de Europa en 2024. Antes de la reciente declaraci\u00f3n de la emergencia de salud p\u00fablica internacional, la Organizaci\u00f3\u2026 [+5965 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.145762",
+      "internal_id": "63dfd27a44a08947a869a1e077bcb2e30ca876ed144359a46731aa868a45ff9a",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12095,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Candidate malaria vaccine provides lasting protection in NIH-sponsored trials",
+      "description": "Recent trials of an experimental malaria vaccine in healthy Malian adults found that all three tested regimens were safe. One of the trials enrolled 300 healthy women ages 18 to 38 years who anticipated becoming pregnant soon after immunization. That trial be\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/08/240814185758.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-08-14 22:57:58",
+      "content": "Two National Institutes of Health (NIH)-supported trials of an experimental malaria vaccine in healthy Malian adults found that all three tested regimens were safe. One of the trials enrolled 300 hea\u2026 [+3733 chars]",
+      "retrievedAt": "2024-08-16 07:06:56.800364",
+      "internal_id": "d10505b65e953f0080b8fc847384d9c0413e05f5e6f93becd4437dec23f2449a",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12125,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Apoorva Mandavilli",
+      "title": "WHO declares global emergency over new mpox outbreak",
+      "description": "This is the second time in three years that the WHO has designated an mpox epidemic as a global emergency. It previously did so in July 2022.",
+      "url": "https://www.bostonglobe.com/2024/08/14/world/who-declares-global-emergency-over-new-mpox-outbreak/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Hnam-kOOfrt6Gs5gNlVOjvAMdBc=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/QGRKTXBRTH3U7FTUVC35K2GNOU.jpg",
+      "publishedAt": "2024-08-14 22:49:52",
+      "content": "The detection and rapid spread of a new clade of mpox in eastern DRC, its detection in neighboring countries that had not previously reported mpox, and the potential for further spread within Africa \u2026 [+4641 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.371116",
+      "internal_id": "4fb2e9c99ebc00c935a3098299ca1d5859638a92ab3e4a4ee4ebc005caa668c9",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12114,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Silvia Melo",
+      "title": "OMS decreta emerg\u00eancia internacional ap\u00f3s surtos de mpox",
+      "description": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) declarou nesta quarta-feira, 14, que o surto de mpox em pa\u00edses da \u00c1frica como uma emerg\u00eancia sanit\u00e1ria global. Esta \u00e9",
+      "url": "https://catracalivre.com.br/saude-bem-estar/oms-decreta-emergencia-internacional-apos-surtos-de-mpox/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/08/mpox.jpg",
+      "publishedAt": "2024-08-14 22:34:33",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) declarou nesta quarta-feira, 14, que o surto de mpox em pa\u00edses da \u00c1frica como uma emerg\u00eancia sanit\u00e1ria global. Esta \u00e9 a segunda vez em tr\u00eas anos que a OMS design\u2026 [+1995 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.263932",
+      "internal_id": "10c602bdd2654c86797e1c2ccd6869fb39a69600ab8992788441b8247443829b",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12122,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Alexandra Ferguson",
+      "title": "Esto es lo que hay que saber sobre la viruela del mono",
+      "description": "Tras un reciente aumento de los casos, la OMS declar\u00f3 el brote de viruela del mono (mpox) como emergencia de salud p\u00fablica de inter\u00e9s internacional. The post Esto es lo que hay que saber sobre la viruela del mono appeared first on CNN.",
+      "url": "https://cnnespanol.cnn.com/2024/08/14/brote-viruela-del-mono-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2022/07/viruela-del-mono-monkeypox-handout-full-169.jpeg?quality=100&strip=info",
+      "publishedAt": "2024-08-14 22:27:25",
+      "content": "\u00bfC\u00f3mo saber si tengo viruela del mono? 1:38 (CNN) -- Tras un reciente aumento de los casos, la Organizaci\u00f3n Mundial de la Salud (OMS) declar\u00f3 el brote de viruela del mono (mpox) como emergencia de s\u2026 [+9040 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.333161",
+      "internal_id": "c6a3e40245c3e5e24b57c8cff4c91e14909a6055b215be62fa0acb460e914d34",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12093,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Jano Gibson",
+      "title": "'Hard to know how grim it's going to be': Scientists wargame for bird flu spread to Australia's Antarctic territory",
+      "description": "Millions of birds and mammals have already died across the world but the deadly H5N1 strain of bird flu is yet to reach Australia or its Antarctic territories. A team is preparing for when, not if, that happens.",
+      "url": "https://www.abc.net.au/news/2024-08-15/team-preparing-for-bird-flu-outbreak-on-macquarie-island/104223138",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/26a41035e2951f0bbdbed9fbd89043a7?impolicy=wcms_watermark_news&cropH=1361&cropW=2420&xPos=0&yPos=227&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-08-14 21:59:08",
+      "content": "Inside the headquarters of the Australian Antarctic Division (AAD), dozens of experts have gathered for a simulated emergency. They're here to wargame their response to an outbreak of avian influenz\u2026 [+4671 chars]",
+      "retrievedAt": "2024-08-16 07:06:55.833684",
+      "internal_id": "c598682b070706f55a6d0aecfbe42662ae8b6eddf219d8edfe5bab6d18332164",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12109,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "Mpox outbreaks in Africa declared a global health emergency",
+      "description": "Earlier this week, the Africa Centers for Disease Control and Prevention announced that the mpox outbreaks were a public health emergency, with more than 500 deaths.",
+      "url": "https://www.abc.net.au/news/2024-08-15/who-declares-mpox-outbreaks-in-africa-a-global-health-emergency-/104227028",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6d0106d1141f856e892a4fa569696e3c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=207&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-08-14 21:33:30",
+      "content": "The World Health Organisation declared the mpox outbreaks in Congo and elsewhere in Africa a global emergency on Wednesday. Cases have been confirmed among children and adults in more than a dozen c\u2026 [+5656 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.197025",
+      "internal_id": "ba56763129343a4616e62a2da045b4b18ecb4fb9db477521401500825377e90e",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12119,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Mpox: doen\u00e7a pode causar novo surto no Brasil?",
+      "description": "OMS declarou emerg\u00eancia de sa\u00fade de interesse internacional para mpox nesta quarta-feira, 14; entenda o que isso significa para o Pa\u00eds",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/mpox-doenca-pode-causar-novo-surto-no-brasil,f316581ed9d599952ad2408dc72b2f2fd124r5a8.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-08-14 21:33:25",
+      "content": "Em reuni\u00e3o com o Comit\u00ea de Emerg\u00eancia do Regulamento Sanit\u00e1rio Internacional nesta quarta-feira, 14, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) declarou a mpox como emerg\u00eancia de sa\u00fade de interesse interna\u2026 [+5546 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.308508",
+      "internal_id": "5ab77ff34935270cc0545844de491446a862391a27b4fc2afdcb77c7e4b10b07",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12094,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Phase-3 clinical trial of dengue vaccine starts",
+      "description": "The phase 3 clinical trial of India's first dengue vaccine, DengiAll, began in Rohtak, Haryana. Developed by Panacea Biotec and supported by ICMR, the trial involves 10,335 participants across 19 sites. This marks a significant step in combating dengue, as In\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/phase-3-clinical-trial-of-dengue-vaccine-starts/articleshow/112533895.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112533906,width-1070,height-580,imgsize-18530,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-14 21:27:13",
+      "content": "In pictures: 10 national parks in North India to see the Big Cats",
+      "retrievedAt": "2024-08-16 07:06:56.102049",
+      "internal_id": "cf53536595a98ad5f51a9f74a2d4341782765bc5c1f845b62228e49e2dc5c956",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12101,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Isabela Oliveira",
+      "title": "OMS declara Mpox na \u00c1frica emerg\u00eancia internacional e surto j\u00e1 lembra in\u00edcio do HIV",
+      "description": "O surto de Mpox na \u00c1frica foi declarado emerg\u00eancia de sa\u00fade p\u00fablica pela OMS (Organiza\u00e7\u00e3o Mundial da Sa\u00fade) The post OMS declara Mpox na \u00c1frica emerg\u00eancia internacional e surto j\u00e1 lembra in\u00edcio do HIV appeared first on Giz Brasil.",
+      "url": "https://gizmodo.uol.com.br/oms-declara-mpox-na-africa-emergencia-internacional-e-surto-ja-lembra-inicio-do-hiv/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/04/surto-virus-da-variola-dos-macacos-mpox.jpeg",
+      "publishedAt": "2024-08-14 21:21:50",
+      "content": "Declarada emerg\u00eancia de sa\u00fade p\u00fablica pela OMS (Organiza\u00e7\u00e3o Mundial da Sa\u00fade), a dissemina\u00e7\u00e3o de Mpox (ou var\u00edola dos macacos) na \u00c1frica j\u00e1 lembra o in\u00edcio do HIV. De acordo com Trudie Lang, professo\u2026 [+2990 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.070939",
+      "internal_id": "43c3a8142b549a6e5d2592e3b9b2d06f896daf2f5c0ebb809fe2a3d53c9d72a9",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12116,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "MARIA CHENG",
+      "title": "A new global health emergency: What is mpox, where are the outbreaks and what is the WHO doing?",
+      "description": "The World Health Organization has declared the increasing spread of mpox in Africa a global health emergency, warning the virus might ultimately spill across international borders.",
+      "url": "https://www.bostonglobe.com/2024/08/14/world/what-is-mpox-health-emergency/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ByQsU754dJv1__cXbrmiwKBkN6o=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/VBIXPEQ4FBCUWEV2XCV2YZSZTY.jpg",
+      "publishedAt": "2024-08-14 21:17:17",
+      "content": "So far, more than 96% of all cases and deaths are in a single country Congo. Scientists are concerned by the spread of a new version of the disease there that might be more easily transmitted among p\u2026 [+4868 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.287038",
+      "internal_id": "b81a9b22cb48045d93ea5d3b847183371ea37464debaddc5158ddddea4b455f5",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12103,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Mpox: cu\u00e1les son los s\u00edntomas y c\u00f3mo se propaga la viruela por la que la OMS declar\u00f3 emergencia internacional",
+      "description": "Tras la decisi\u00f3n de la OMS de declarar emergencia internacional sanitaria por el brote actual de mpox, respondemos a las preguntas m\u00e1s habituales sobre la antes conocida como viruela del mono.",
+      "url": "https://www.bbc.com/mundo/articles/cqjldgd2k9ko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5e75/live/31b992d0-5a7a-11ef-9b3b-8f013e5207e6.jpg",
+      "publishedAt": "2024-08-14 21:16:25",
+      "content": "Fuente de la imagen, SPL Pie de foto, As\u00ed es el virus que causa la mpox visto en el microscopio. Informaci\u00f3n del art\u00edculoAutor, Redacci\u00f3nT\u00edtulo del autor, BBC News Mundo</\u2026 [+6457 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.110652",
+      "internal_id": "cfddc57f8e8ac55be50460b7e00c6551d93cedace2d42c7a96f584ffdf812ed2",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12107,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Lucas H.",
+      "title": "Viruela del mono: una emergencia de salud global, tal como se tem\u00eda",
+      "description": "Una nueva variante, m\u00e1s mortal, de esta enfermedad viral se est\u00e1 propagando por el mundo, advierte la OMS.",
+      "url": "https://es.gizmodo.com/viruela-del-mono-una-emergencia-de-salud-global-tal-como-se-temia-2000125925",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2024/08/Diseno-sin-titulo-2024-08-14T175534.577.jpg",
+      "publishedAt": "2024-08-14 20:56:16",
+      "content": "La viruela del mono, enfermedad viral tambi\u00e9n conocida como Mpox, vuelve a ser una amenaza mundial. El mi\u00e9rcoles por la tarde la OMS declar\u00f3 la emergencia de salud p\u00fablica de alcance internacional de\u2026 [+2214 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.161470",
+      "internal_id": "cbefe95326564d77a79d38be9819702f7e7462f946277d5a30aaa0655059c925",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12123,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "WHO declares mpox outbreaks in Africa a global health emergency as a new form of the virus spreads",
+      "description": "The World Health Organization has declared the mpox outbreaks in Congo and elsewhere in Africa a global emergency, with cases confirmed among children and adults in more than a dozen countries and a new form of the virus spreading. Few vaccine doses are avail\u2026",
+      "url": "https://japantoday.com/category/world/who-declares-mpox-outbreaks-in-africa-a-global-health-emergency-as-a-new-form-of-the-virus-spreads",
+      "urlToImage": null,
+      "publishedAt": "2024-08-14 20:54:13",
+      "content": "The World Health Organization has declared the mpox outbreaks in Congo and elsewhere in Africa a global emergency, with cases confirmed among children and adults in more than a dozen countries and a \u2026 [+5694 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.343197",
+      "internal_id": "579d1bbd869d3ae35f605e7481c461105af9d3a892983344bced14c03f9a51a1",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12124,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "Julianna Frieman",
+      "title": "WHO Declares Virus Outbreak A Global Health Emergency",
+      "description": "The World Health Organization (WHO) declared monkeypox, now referred to as mpox, a global health emergency on Wednesday.",
+      "url": "https://dailycaller.com/2024/08/14/who-declares-monkeypox-virus-outbreak-global-health-emergency-congo-africa-children/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/08/GettyImages-1232766338-scaled-e1723664583107.jpg",
+      "publishedAt": "2024-08-14 20:47:11",
+      "content": "Readers, Instead of sucking up to the political and corporate powers that dominate America, The Daily Caller is fighting for you our readers. We humbly ask you to consider joining us in this fight. \u2026 [+3541 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.353299",
+      "internal_id": "520d22c15705af77f9cd9576d2ec9160c7a8be75ee8397f67adf4b2a832b2911",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12100,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Areesha Lodhi",
+      "title": "What is mpox and why has WHO declared it a global health emergency?",
+      "description": "The WHO has issued its highest level of alert for the viral disease as it spreads rapidly in Africa.",
+      "url": "https://www.aljazeera.com/news/2024/8/14/what-is-mpox-and-why-has-who-declared-it-global-health-emergency",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/AP24213819022428-1723659146.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-08-14 20:39:22",
+      "content": "For the second time since 2022, mpox has been declared a global health emergency as the virus spreads rapidly across the African continent and risks entering other continents. The World Health Organ\u2026 [+6556 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.061273",
+      "internal_id": "2d37bdc886909625f9f11adee21fabec90a6d7ce7e5f0dd917dc686ffd4151b0",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12115,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hvg.hu",
+      "author": "hvg@hvg.hu",
+      "title": "Hamarosan Eur\u00f3p\u00e1ra is \u00e1tterjedhet a majomhiml\u0151, de v\u00e9d\u0151olt\u00e1ssal megel\u0151zhet\u0151",
+      "description": "A betegs\u00e9g els\u0151 t\u00fcnetei az izomf\u00e1jdalom, gyenges\u00e9g, fejf\u00e1j\u00e1s \u00e9s a ki\u00fct\u00e9sek lehetnek.",
+      "url": "https://hvg.hu/vilag/20240814_majomhimlo-Mpox-Europa-Boldogkoi-Zsolt-vedoltas-virologus-jarvany",
+      "urlToImage": "https://img.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/7db1f8cc-e985-45fe-ae9a-24c27c453670.jpg",
+      "publishedAt": "2024-08-14 20:36:20",
+      "content": "A majomhimlk\u00e9nt is ismert Mpox v\u00edrusra nincs gy\u00f3gym\u00f3d, ha valaki megfertzdik vele, csak a t\u00fcnetek enyh\u00edthetk, ugyanakkor nem biztos, hogy minden esetben s\u00falyos betegs\u00e9ghez vezet mondta az RTL KlubH\u00edr\u2026 [+1276 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.277428",
+      "internal_id": "5520db15ff7f92cd53c269466c014da0f4a8b80bb8bbfb90228781a2ce226ab7",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12118,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "akr/kg",
+      "title": "Mpox globalnym zagro\u017ceniem dla zdrowia. WHO og\u0142asza najwy\u017cszy poziom alarmu",
+      "description": "\u015awiatowa Organizacja Zdrowia og\u0142osi\u0142a w \u015brod\u0119 mpox (dawniej ma\u0142pia ospa) globalnym zagro\u017ceniem dla zdrowia publicznego. Choroba zyska\u0142a status PHEIC, co jest najwy\u017cszym stopniem alertu zdrowotnego na poziomie mi\u0119dzynarodowym. - Skoordynowana mi\u0119dzynarodowa re\u2026",
+      "url": "https://tvn24.pl/swiat/mpox-malpia-ospa-jest-globalnym-zagrozeniem-dla-zdrowia-who-oglasza-najwyzszy-poziom-alarmu-st8043568",
+      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-rmdssj-mpox-malpia-ospa-7544281/alternates/LANDSCAPE_1280",
+      "publishedAt": "2024-08-14 20:34:19",
+      "content": "wiatowa Organizacja Zdrowia ogosia w rod mpox (dawniej mapia ospa) globalnym zagroeniem dla zdrowia publicznego. Choroba zyskaa status PHEIC, co jest najwyszym stopniem alertu zdrowotnego na poziomie\u2026 [+2131 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.298569",
+      "internal_id": "8f85e80ba2d20cf1adcf7451c7427a540f40a9164db6de847d9a6e4d7a008283",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12098,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "CNET",
+      "author": "Jessica Rendall",
+      "title": "If You Think You Have Mpox, Here's What You Should Do",
+      "description": "If you think you have mpox (formerly monkeypox), learn when to isolate and what to do if you live with other people or pets.",
+      "url": "https://www.cnet.com/health/medical/what-you-should-do-if-you-have-mpox/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/f254c4c962de37573f037b5140259cf9d596b4b9/hub/2024/08/14/78cccdc7-249c-436f-bd01-14f4f43d9699/mpox-virus-illustration.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-08-14 20:11:00",
+      "content": "The World Health Organization has declared a global emergency over the mpox (formerly monkeypox) epidemic in African countries such as the Democratic Republic of Congo, where the outbreak is centered\u2026 [+10148 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.020513",
+      "internal_id": "7ea65c0cbf7b7d557897f0f7450c05f3c79417c41c1ffff15e6c56357ccb29c6",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12097,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "As Feared, Mpox Is Now Officially a Global Health Emergency",
+      "description": "A new, deadlier variant of the viral disease is spreading widely again, WHO officials warn.",
+      "url": "https://gizmodo.com/mpox-is-a-global-health-emergency-who-declares-2000487158",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Mpox-virus_20240814_150714_0000-1.jpg",
+      "publishedAt": "2024-08-14 20:00:50",
+      "content": "The viral disease mpox, formerly known as monkeypox, has become a worldwide threat once again. On Wednesday afternoon, the World Health Organization declared a public health emergency of internationa\u2026 [+2120 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.013977",
+      "internal_id": "7fb64f0ffdb09fa9dd77ea59beaaa76793cf962e4f5573fd75cd24105bf44152",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12106,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "BREAKING: WHO declares mpox outbreak in Africa an international emergency",
+      "description": "The World Health Organization says the ongoing mpox outbreak in Africa requires a coordinated international effort to subdue.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/breaking-who-declares-mpox-outbreak-in-africa-an-international-emergency",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rCCqY6rXELhYuTwXpeZ9BP-1200-80.jpg",
+      "publishedAt": "2024-08-14 19:48:12",
+      "content": "The mounting mpox outbreak in Africa constitutes a public health emergency of international concern, the World Health Organization (WHO) declared Wednesday (Aug. 14). The declaration hinged on advic\u2026 [+5587 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.152009",
+      "internal_id": "979b450e1eab0e6cdd5ae071f06e450625ea5d15ddc26d5fc24d5a7e498d9237",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12102,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Mpox : Pourquoi l\u2019OMS d\u00e9clenche son plus haut niveau d\u2019alerte sur la variole du singe",
+      "description": "Le mpox, plus connu comme variole du singe, se propage de l\u2019animal \u00e0 l\u2019homme mais qui se transmet aussi par contact physique \u00e9troit avec une personne infect\u00e9e par le virus",
+      "url": "https://www.20minutes.fr/monde/4105898-20240814-mpox-pourquoi-oms-declenche-plus-haut-niveau-alerte-variole-singe",
+      "urlToImage": "https://img.20mn.fr/jaOHN6HkQougWM5w9LdZVyk/1444x920_variole-singe-provoque-notamment-eruptions-cutanees-tres-douloureuses-illustration",
+      "publishedAt": "2024-08-14 19:31:19",
+      "content": "LOrganisation mondiale de la sant\u00e9 a d\u00e9clench\u00e9 mercredi son plus haut niveau dalerte sanitaire au niveau international face \u00e0 la r\u00e9surgence des cas de mpox, virus connu sous le nom de variole du sing\u2026 [+2072 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.097069",
+      "internal_id": "682cb85032053a92ce1c0d74407af2e9702599c99ac47bffa59246ca6bf20714",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12120,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Adrian Ilie",
+      "title": "Variola maimu\u021bei provoac\u0103 din nou \u00eengrijorare. OMS a declarat noul val al epidemiei drept \u201eurgen\u021b\u0103 de s\u0103n\u0103tate de interes interna\u021bional\u201d",
+      "description": "Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS) a declarat miercuri epidemia de mpox, boal\u0103 cunoscut\u0103 anterior drept variola maimu\u0163ei, o urgen\u0163\u0103 de s\u0103n\u0103tate public\u0103 de interes interna\u0163ional, cel mai ridicat nivel de alert\u0103, pentru a doua oar\u0103\u2026",
+      "url": "http://hotnews.ro/variola-maimutei-provoaca-din-nou-ingrijorare-oms-a-declarat-noul-val-al-epidemiei-drept-urgenta-de-sanatate-de-interes-international-1771375",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/08/profimedia-0876868700.jpg",
+      "publishedAt": "2024-08-14 19:24:08",
+      "content": "Organizaia Mondial a Sntii (OMS) a declarat miercuri epidemia de mpox, boal cunoscut anterior drept variola maimuei, o urgen de sntate public de interes internaional, cel mai ridicat nivel de alert, \u2026 [+1225 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.318007",
+      "internal_id": "feb803cd77caef42988d5d66aceae8c372f0615248f8f4ff15cfa1d77fd987be",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12121,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Ver\u00f3nica Ojeda",
+      "title": "\u00bfQu\u00e9 s\u00edntomas causa la mpox o viruela del mono, c\u00f3mo se contagia y qu\u00e9 sabemos de ella?",
+      "description": "La viruela del mono, end\u00e9mica en \u00c1frica Central y Occidental, es una enfermedad viral con s\u00edtomas similares a la viruela, pero cl\u00ednicamente menos grave. Te explicamos qu\u00e9 es la viruela del mono y cu\u00e1les son sus s\u00edntomas. The post \u00bfQu\u00e9 s\u00edntomas causa la mpox o\u2026",
+      "url": "https://cnnespanol.cnn.com/2024/08/14/viruela-mono-sintomas-que-es-como-se-contagia-hay-vacuna-tratamiento-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2022/05/210719200608-pba-monkeypox-super-169.jpg?quality=100&strip=info",
+      "publishedAt": "2024-08-14 19:19:50",
+      "content": "Lo que debes saber de la viruela del mono: \u00bfc\u00f3mo se propaga? 4:11 (CNN) -- La Organizaci\u00f3n Mundial de la Salud (OMS) declar\u00f3 a la denominada \"viruela del mono\" o \"viruela s\u00edmica\" monkeypox en ingl\u00e9s\u2026 [+5687 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.327580",
+      "internal_id": "e067cd12a26d76d94110b1e25a261e50c35ff261e36dbc7f97b1ae675d460dcb",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12108,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "Mpox outbreaks in Africa are a global health emergency, WHO declares",
+      "description": "The World Health Organization declared Wednesday that the mpox outbreaks in Africa are a global emergency\u200b, with cases confirmed among children and adults in more than a dozen countries.",
+      "url": "https://www.cbsnews.com/news/mpox-africa-global-health-emergency-who/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/08/14/0c94231d-0997-4d3e-96a5-41e5b0a56746/thumbnail/1200x630/ed81a362be22f6d1a6c8a878c2ad1352/ap23047476583415.jpg?v=d8f7565ef3e8b72561ee316b5993cbf9",
+      "publishedAt": "2024-08-14 19:19:36",
+      "content": "The mpox outbreaks in Africa are a global emergency, with cases confirmed among children and adults in more than a dozen countries, the World Health Organization declared Wednesday. The declaration \u2026 [+3314 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.187074",
+      "internal_id": "167da2a3eed62456d9a2309d3280fdecce414bef8eb8598b72caa420fb8d82a7",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12092,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "Whooping cough is spreading nationwide. Here's what to know.",
+      "description": "Officials have been warning of a return to the pre-pandemic trends of pertussis, also known as whooping cough.",
+      "url": "https://www.cbsnews.com/news/whooping-cough-pertussis-cases-cdc-symptoms/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/08/14/bace9ca4-845a-474c-9039-5d01808eea2c/thumbnail/1200x630/4f0a8cc16ffdb332538b0b7bbf53ab4a/gettyimages-1197856264.jpg?v=d8f7565ef3e8b72561ee316b5993cbf9",
+      "publishedAt": "2024-08-14 19:16:28",
+      "content": "South Jersey family shares scary experience with whooping cough South Jersey family shares scary experience with whooping cough02:12 A wave of whooping cough infections is continuing to worsen nat\u2026 [+5526 chars]",
+      "retrievedAt": "2024-08-16 07:06:54.785856",
+      "internal_id": "230bb39b808ab213955b066af139d2baaddd2c25ec2db1ccf0825fc5c7c9ee72",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12110,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "WHO declares Mpox global health emergency",
+      "description": "Scientists are alarmed at the high fatality rate and rapid spread of a new variant of the virus.",
+      "url": "https://www.bbc.com/news/articles/cvg35w27gzno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b413/live/d368ae10-5a6e-11ef-997c-711b7066309d.jpg",
+      "publishedAt": "2024-08-14 19:16:13",
+      "content": "The World Health Organization (WHO) has declared the highly infectious disease Mpox a global health emergency, for the second time in two years. The disease - formerly known as monkeypox - has kille\u2026 [+2013 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.215964",
+      "internal_id": "be31b70de2da24186bf547e20ad16c14685e88727707723fb188aa677f75085a",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12117,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "OMS declara mpox emerg\u00eancia de sa\u00fade p\u00fablica global pela segunda vez em dois anos",
+      "description": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade declarou a mpox uma emerg\u00eancia de sa\u00fade p\u00fablica global pela ...",
+      "url": "https://www.terra.com.br/noticias/mundo/oms-declara-mpox-emergencia-de-saude-publica-global-pela-segunda-vez-em-dois-anos,aa46fced62de27ea19ecba32bf608040pigzi130.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/08/14/89856.jpg",
+      "publishedAt": "2024-08-14 19:13:54",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade declarou a mpox uma emerg\u00eancia de sa\u00fade p\u00fablica global pela segunda vez em dois anos, depois que um surto da infec\u00e7\u00e3o viral na Rep\u00fablica Democr\u00e1tica do Congo se espalho\u2026 [+1745 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.292745",
+      "internal_id": "9045ac53a19a90bc9da16d7d48822d5e970ed30f70087d13e684ce084e61a0cf",
+      "publishedAtLabel": "Aug 14"
+    },
     {
       "id": 12043,
       "query": [
@@ -1621,6 +2215,24 @@
       "content": "The World Health Organization (WHO) has named mpox a public health emergency of international concern for the second time, on the heels of a continental emergency declaration from African health offi\u2026 [+321 chars]",
       "retrievedAt": "2024-08-15 07:06:03.688993",
       "internal_id": "9946f785de4ddddab478d757f74016f7ccc396f6fa7d7b72682ac413a93e7ab9",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 12104,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Mpox is a global emergency again. How deadly is it? What are 'clades'? What you need to know",
+      "description": "A global outbreak of mpox cooled down, but the virus never went away. Now a new form is transmitting throughout parts of Africa, stoking fears of broader spread and raising alarms among top scientists. So what's different now? And how deadly is this strain of\u2026",
+      "url": "https://www.cbc.ca/news/health/mpox-global-emergency-explainer-1.7295609",
+      "urlToImage": "https://i.cbc.ca/1.7295652.1723757004!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/congo-drc-mpox-child.JPG",
+      "publishedAt": "2024-08-13 19:21:11",
+      "content": "Mpox first made global headlines in 2022 when the virus suddenly exploded around the world, spreading rapidly through sexual networks into dozens of new countries outside Africa. The World Health Or\u2026 [+8257 chars]",
+      "retrievedAt": "2024-08-16 07:06:58.119861",
+      "internal_id": "94443a2afa4e5d6d2810f05396de8d641b44cf9fbb555dbd20277c3542e6e6d7",
       "publishedAtLabel": "Aug 13"
     },
     {
@@ -25728,6 +26340,114 @@
       "retrievedAt": "2024-07-02 07:06:48.077631",
       "internal_id": "eb269e69585d68dfe518c542b505097473346f8359eb87920d7c6267b46e1572",
       "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10662,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times News Network",
+      "title": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
+      "description": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
+      "url": "https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-30 18:55:54",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-01 19:06:27.850727",
+      "internal_id": "8e5ccf841780d17f0e928a4e5489025e0527981bb917e8ea39cfab18fffcdd41",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10664,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY DR. ITAY GAL",
+      "title": "First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak",
+      "description": "An expert explained to Maariv that a mosquito subspecies that can transmit the disease is already present in Israel, and climate change will bring the spread of fever closer",
+      "url": "https://www.jpost.com/health-and-wellness/article-808379",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/607075",
+      "publishedAt": "2024-06-30 18:10:43",
+      "content": "Israel has received its first warning of the deadly dengue fever approaching the region from the Far East and South America, now that the Health Ministry has announced 7 cases of infection with the d\u2026 [+4566 chars]",
+      "retrievedAt": "2024-07-01 19:06:30.007312",
+      "internal_id": "f696471ffdcf720ec6041eaa59ea3bdff84ae060a8c9e02e5cad73903d856551",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10667,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Anna Kurek",
+      "title": "Eksperci martwi\u0105 si\u0119 nowym wariantem ospy. \"Wszystkie kraje powinny si\u0119 przygotowa\u0107\"",
+      "description": "Od czasu globalnej epidemii ospy ma\u0142piej w 2022 r. wirus nie znikn\u0105\u0142. Nadal stosunkowo szybko mutuje i coraz lepiej przystosowuje si\u0119 do ludzkiego \u015brodowiska.",
+      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html",
+      "urlToImage": "https://bi.im-g.pl/im/b8/84/1b/z28855224IER,W-Teksasie-zmarl-pierwszy-zakazony-wirusem-malpiej.jpg",
+      "publishedAt": "2024-06-30 15:28:00",
+      "content": "Mpox (dawna nazwa choroby - ospa mapia) to choroba zakana wywoywana przez wirusa MPXV. To dwuniciowy wirus DNA, kt\u00f3ry moe zakaa zwierzta i ludzi. Ten wirus jest powizany z wirusem ospy prawdziwej, os\u2026 [+4722 chars]",
+      "retrievedAt": "2024-07-01 19:06:32.471069",
+      "internal_id": "3f57cb6795f86b906367160cbb7ec6b7f97ab4628db96bc6084e999f99c65e47",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10666,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Trudie Lang, L\u00e9andre Murhula  Masirika, Jean Claude Udahemuka, Sascha Karberg",
+      "title": "Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?",
+      "description": "Ein Mpox-Stamm hat es bereits nach Europa und Amerika geschafft, mit glimpflichen Folgen. Doch eine neue Variante macht Virologen gro\u00dfe Sorgen. Die Nachbarl\u00e4nder der Republik Kongo sind bereits betroffen.",
+      "url": "https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/pocken03-affenpockenvirus2/alternates/BASE_16_9_W1400/pocken03-affenpockenvirus.jpeg",
+      "publishedAt": "2024-06-30 14:06:42",
+      "content": "Eine neue, deutlich aggressivere Variante des Pockenvirus Mpox (ehemals Monkeypox/Affenpocken genannt) hat an der Grenze der Demokratischen Republik Kongo (DRC) zu Uganda, Burundi und Ruanda einen si\u2026 [+180 chars]",
+      "retrievedAt": "2024-07-01 19:06:32.465695",
+      "internal_id": "b22aeec5d2b3d03786c50980f11086c786e4170a8111564d040b8e93e66ca1be",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10665,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-washington-post",
+      "source_name": "The Washington Post",
+      "author": "Lena H. Sun, Sarah Kaplan",
+      "title": "Dengue fever is surging worldwide. A hotter planet will make it worse.",
+      "description": "Climate change helped fuel an explosion of dengue cases in the Americas, including Puerto Rico, as mosquitoes multiply in warmer, wetter weather.",
+      "url": "https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYCGCBYE4YSDRHV6JYIJ7VUUB4.JPG&w=1440",
+      "publishedAt": "2024-06-30 13:00:36",
+      "content": "SAN JUAN, Puerto Rico The curly-haired girl came to theemergency roomwith fever, aches and signs of dehydration,common indications of many childhood illnesses.But the 9-year-old pale and listless ben\u2026 [+15886 chars]",
+      "retrievedAt": "2024-07-01 19:06:30.033250",
+      "internal_id": "1db6632ce959c23f1a08cc59e6a74815d7cb7bf3b9e821a2864a4fbcd1c576d3",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10663,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
+      "title": "\u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0631\u0627 \u062c\u062f\u06cc \u0628\u06af\u06cc\u0631\u06cc\u0645",
+      "description": "\u0645\u0639\u0627\u0648\u0646 \u0628\u0647\u062f\u0627\u0634\u062a \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0645\u0634\u0647\u062f \u06af\u0641\u062a: \u062a\u0628 \u062f\u0646\u06af\u06cc \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0646\u06cc\u0632 \u0634\u0646\u0627\u062e\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f\u061b \u0686\u0631\u0627\u06a9\u0647 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u062f\u0631\u062f \u0634\u062f\u06cc\u062f \u062d\u0627\u0635\u0644 \u0627\u0632 \u0622\u0646 \u0628\u06cc\u0645\u0627\u0631 \u062a\u0635\u0648\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0627\u0633\u062a\u062e\u0648\u0627\u0646\u200c\u0647\u0627\u06cc\u0634 \u062f\u0631 \u062d\u0627\u0644 \u0634\u06a9\u0633\u062a\u0646 \u0627\u0633\u062a.",
+      "url": "https://www.isna.ir/news/1403041006560/\u062a\u0628-\u0627\u0633\u062a\u062e\u0648\u0627\u0646-\u0634\u06a9\u0646-\u0631\u0627-\u062c\u062f\u06cc-\u0628\u06af\u06cc\u0631\u06cc\u0645",
+      "urlToImage": "https://cdn.isna.ir/d/2022/09/13/4/62379201.jpg?ts=1663057108264",
+      "publishedAt": "2024-06-30 09:36:56",
+      "content": "/ : \u00ab \u00bb . : (Dengue fever) . : . : . : \u00ab \u00bb . : . : . : . : . : . : . : #",
+      "retrievedAt": "2024-07-01 19:06:30.001513",
+      "internal_id": "62958486975b7ce354cab8c73e564ae10f145bbfb70fc1440c1c9a2d41e90cb0",
+      "publishedAtLabel": "Jun 30"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 62
-- **Last harvest:** 2024-08-15 19:05
-- **Most recent article:** 2024-08-14 19:05:00
+- **New articles in last harvest:** 34
+- **Last harvest:** 2024-08-16 07:06
+- **Most recent article:** 2024-08-15 07:06:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 49 | 95 | 62 | 63 | 55 | 46 | 32 | 402 |
-| mpox | 19 | 26 | 17 | 16 | 26 | 139 | 149 | 392 |
-| h5n1 | 59 | 52 | 62 | 38 | 21 | 6 | 6 | 244 |
-| malaria | 15 | 14 | 31 | 16 | 15 | 16 | 11 | 118 |
+| mpox | 21 | 26 | 17 | 16 | 26 | 139 | 178 | 423 |
+| dengue | 52 | 95 | 62 | 63 | 55 | 46 | 33 | 406 |
+| h5n1 | 59 | 52 | 62 | 38 | 21 | 6 | 7 | 245 |
+| malaria | 15 | 14 | 31 | 16 | 15 | 16 | 12 | 119 |
 | zika | 20 | 12 | 6 | 10 | 12 | 11 | 6 | 77 |
 | measles | 9 | 12 | 19 | 22 | 8 | 6 | 1 | 77 |
-| rabies | 3 | 2 | 17 | 8 | 12 | 8 | 6 | 56 |
-| chikungunya | 6 | 6 | 10 | 7 | 6 | 4 | 6 | 45 |
+| rabies | 4 | 2 | 17 | 8 | 12 | 8 | 6 | 57 |
+| chikungunya | 6 | 6 | 10 | 7 | 6 | 4 | 7 | 46 |
 | hpai | 3 | 5 | 6 | 3 | 4 | 1 | 1 | 23 |
+| pertussis | 1 | 2 | 0 | 5 | 5 | 6 | 3 | 22 |
 | meningitis | 3 | 5 | 3 | 2 | 3 | 6 | 0 | 22 |
-| pertussis | 1 | 2 | 0 | 5 | 5 | 6 | 2 | 21 |
 | leptospirosis | 1 | 3 | 4 | 1 | 2 | 2 | 2 | 15 |
 | typhoid | 4 | 6 | 1 | 3 | 1 | 0 | 0 | 15 |
 | yersinia | 0 | 6 | 0 | 2 | 1 | 1 | 0 | 10 |
@@ -63,11 +63,69 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-33 (pertussis)
 
+- [Whooping cough is spreading nationwide. Here's what to know.](https://www.cbsnews.com/news/whooping-cough-pertussis-cases-cdc-symptoms/) (CBS News)
+
 - [Az NNGYK bejelentést tett a szamárköhögés elleni vakcinákról](https://index.hu/belfold/2024/08/13/szamarkohoges-vedooltas-vakcina-oltoanyag-nngyk-jarvany-oltas/) (Index.hu)
 
 - [Gyorsulva terjed Magyarországon a fertőzés, ami halálos is lehet](https://www.portfolio.hu/gazdasag/20240812/gyorsulva-terjed-magyarorszagon-a-fertozes-ami-halalos-is-lehet-703695) (Portfolio.hu)
 
 ## 24-33 (mpox)
+
+- [Malaysia recorded nine monkeypox cases to date, all in 2023, says Health Ministry](https://www.thestar.com.my/news/nation/2024/08/15/malaysia-recorded-nine-monkeypox-cases-to-date-all-in-2023-says-health-ministry) (The Star Online)
+
+- [Majomhimló: a WHO kihirdette az egészségügyi vészhelyzetet](https://index.hu/kulfold/2024/08/15/who-mpox-majomhimlo-jarvany-vilagjarvany-afrika/) (Index.hu)
+
+- [Mort de Gena Rowlands, Columbia, Mpox, Stonehenge : les informations de la nuit](https://www.courrierinternational.com/article/pendant-que-vous-dormiez-mort-de-gena-rowlands-columbia-mpox-stonehenge-les-informations-de-la-nuit_221214) (Courrier International)
+
+- [Krankheiten: Weltweite Notlage wegen Mpox - nicht genügend Impfstoff](https://www.zeit.de/news/2024-08/15/weltweite-notlage-wegen-mpox-nicht-genuegend-impfstoff) (Die Zeit)
+
+- [Radiografía de los casos de viruela del mono en España: "Las nuevas infecciones de mpox son personas sin vacunar"](https://www.elmundo.es/ciencia-y-salud/salud/2024/08/15/66bc80a8fc6c8342038b45a8.html) (El Mundo)
+
+- [WHO declares global emergency over new mpox outbreak](https://www.bostonglobe.com/2024/08/14/world/who-declares-global-emergency-over-new-mpox-outbreak/) (The Boston Globe)
+
+- [OMS decreta emergência internacional após surtos de mpox](https://catracalivre.com.br/saude-bem-estar/oms-decreta-emergencia-internacional-apos-surtos-de-mpox/) (Catracalivre.com.br)
+
+- [Esto es lo que hay que saber sobre la viruela del mono](https://cnnespanol.cnn.com/2024/08/14/brote-viruela-del-mono-trax/) (CNN)
+
+- [Mpox outbreaks in Africa declared a global health emergency](https://www.abc.net.au/news/2024-08-15/who-declares-mpox-outbreaks-in-africa-a-global-health-emergency-/104227028) (ABC News (AU))
+
+- [Mpox: doença pode causar novo surto no Brasil?](https://www.terra.com.br/vida-e-estilo/saude/mpox-doenca-pode-causar-novo-surto-no-brasil,f316581ed9d599952ad2408dc72b2f2fd124r5a8.html) (Terra.com.br)
+
+- [OMS declara Mpox na África emergência internacional e surto já lembra início do HIV](https://gizmodo.uol.com.br/oms-declara-mpox-na-africa-emergencia-internacional-e-surto-ja-lembra-inicio-do-hiv/) (Uol.com.br)
+
+- [A new global health emergency: What is mpox, where are the outbreaks and what is the WHO doing?](https://www.bostonglobe.com/2024/08/14/world/what-is-mpox-health-emergency/) (The Boston Globe)
+
+- [Mpox: cuáles son los síntomas y cómo se propaga la viruela por la que la OMS declaró emergencia internacional](https://www.bbc.com/mundo/articles/cqjldgd2k9ko) (BBC News)
+
+- [Viruela del mono: una emergencia de salud global, tal como se temía](https://es.gizmodo.com/viruela-del-mono-una-emergencia-de-salud-global-tal-como-se-temia-2000125925) (Gizmodo.com)
+
+- [WHO declares mpox outbreaks in Africa a global health emergency as a new form of the virus spreads](https://japantoday.com/category/world/who-declares-mpox-outbreaks-in-africa-a-global-health-emergency-as-a-new-form-of-the-virus-spreads) (Japan Today)
+
+- [WHO Declares Virus Outbreak A Global Health Emergency](https://dailycaller.com/2024/08/14/who-declares-monkeypox-virus-outbreak-global-health-emergency-congo-africa-children/) (The Daily Caller)
+
+- [What is mpox and why has WHO declared it a global health emergency?](https://www.aljazeera.com/news/2024/8/14/what-is-mpox-and-why-has-who-declared-it-global-health-emergency) (Al Jazeera English)
+
+- [Hamarosan Európára is átterjedhet a majomhimlő, de védőoltással megelőzhető](https://hvg.hu/vilag/20240814_majomhimlo-Mpox-Europa-Boldogkoi-Zsolt-vedoltas-virologus-jarvany) (Hvg.hu)
+
+- [Mpox globalnym zagrożeniem dla zdrowia. WHO ogłasza najwyższy poziom alarmu](https://tvn24.pl/swiat/mpox-malpia-ospa-jest-globalnym-zagrozeniem-dla-zdrowia-who-oglasza-najwyzszy-poziom-alarmu-st8043568) (Tvn24.pl)
+
+- [If You Think You Have Mpox, Here's What You Should Do](https://www.cnet.com/health/medical/what-you-should-do-if-you-have-mpox/) (CNET)
+
+- [As Feared, Mpox Is Now Officially a Global Health Emergency](https://gizmodo.com/mpox-is-a-global-health-emergency-who-declares-2000487158) (Gizmodo.com)
+
+- [BREAKING: WHO declares mpox outbreak in Africa an international emergency](https://www.livescience.com/health/viruses-infections-disease/breaking-who-declares-mpox-outbreak-in-africa-an-international-emergency) (Live Science)
+
+- [Mpox : Pourquoi l’OMS déclenche son plus haut niveau d’alerte sur la variole du singe](https://www.20minutes.fr/monde/4105898-20240814-mpox-pourquoi-oms-declenche-plus-haut-niveau-alerte-variole-singe) (20 Minutes)
+
+- [Variola maimuței provoacă din nou îngrijorare. OMS a declarat noul val al epidemiei drept „urgență de sănătate de interes internațional”](http://hotnews.ro/variola-maimutei-provoaca-din-nou-ingrijorare-oms-a-declarat-noul-val-al-epidemiei-drept-urgenta-de-sanatate-de-interes-international-1771375) (Hotnews.ro)
+
+- [¿Qué síntomas causa la mpox o viruela del mono, cómo se contagia y qué sabemos de ella?](https://cnnespanol.cnn.com/2024/08/14/viruela-mono-sintomas-que-es-como-se-contagia-hay-vacuna-tratamiento-trax/) (CNN)
+
+- [Mpox outbreaks in Africa are a global health emergency, WHO declares](https://www.cbsnews.com/news/mpox-africa-global-health-emergency-who/) (CBS News)
+
+- [WHO declares Mpox global health emergency](https://www.bbc.com/news/articles/cvg35w27gzno) (BBC News)
+
+- [OMS declara mpox emergência de saúde pública global pela segunda vez em dois anos](https://www.terra.com.br/noticias/mundo/oms-declara-mpox-emergencia-de-saude-publica-global-pela-segunda-vez-em-dois-anos,aa46fced62de27ea19ecba32bf608040pigzi130.html) (Terra.com.br)
 
 - [WHO declares mpox a global public health emergency for second time in two years](https://www.channelnewsasia.com/world/mpox-global-public-emergency-who-drc-4546706) (CNA)
 
@@ -196,6 +254,8 @@ Source: [News API](https://newsapi.org/)
 - [Growing mpox 'crisis' prompts Africa to declare first-ever public health emergency](https://www.cbc.ca/news/health/mpox-emergency-africa-1.7293476) (CBC News)
 
 - [WHO names mpox a global health emergency for second time as virus surges in Africa](https://www.cbc.ca/news/health/who-names-mpox-a-global-health-emergency-for-second-time-as-virus-surges-in-africa-1.7294434) (CBC News)
+
+- [Mpox is a global emergency again. How deadly is it? What are 'clades'? What you need to know](https://www.cbc.ca/news/health/mpox-global-emergency-explainer-1.7295609) (CBC News)
 
 - [Africa public health body declares mpox emergency](https://www.channelnewsasia.com/world/africa-public-health-body-declares-mpox-emergency-4544566) (CNA)
 
@@ -373,6 +433,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-33 (malaria)
 
+- [Candidate malaria vaccine provides lasting protection in NIH-sponsored trials](https://www.sciencedaily.com/releases/2024/08/240814185758.htm) (Science Daily)
+
 - [Trojan horse method gives malaria parasites a taste of their own medicine](https://phys.org/news/2024-08-trojan-horse-method-malaria-parasites.html) (Phys.Org)
 
 - [Air pollution in South Africa: affordable new devices use AI to monitor hotspots in real time](https://theconversation.com/air-pollution-in-south-africa-affordable-new-devices-use-ai-to-monitor-hotspots-in-real-time-235897) (The Conversation Africa)
@@ -407,6 +469,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-33 (h5n1)
 
+- ['Hard to know how grim it's going to be': Scientists wargame for bird flu spread to Australia's Antarctic territory](https://www.abc.net.au/news/2024-08-15/team-preparing-for-bird-flu-outbreak-on-macquarie-island/104223138) (ABC News (AU))
+
 - [Gripe das aves detetada em gaivotas em Aveiro e Leiria. Há perigo para humanos?](https://observador.pt/2024/08/14/gripe-das-aves-detetada-em-gaivotas-em-aveiro-e-leiria-ha-perigo-para-humanos/) (Observador.pt)
 
 - [Avian Flu Spreads to 23 Mammal Species: Cats Emerging as Major Concern](https://www.downtoearth.org.in/health/avian-flu-spreads-to-23-mammal-species-cats-become-major-concern) (Down To Earth Magazine)
@@ -420,6 +484,8 @@ Source: [News API](https://newsapi.org/)
 - [Confirmado: la gripe aviar se está extendiendo entre los mamíferos](https://www.muyinteresante.com/ciencia/65707.html) (Muyinteresante.com)
 
 ## 24-33 (dengue)
+
+- [Phase-3 clinical trial of dengue vaccine starts](https://timesofindia.indiatimes.com/city/delhi/phase-3-clinical-trial-of-dengue-vaccine-starts/articleshow/112533895.cms) (The Times of India)
 
 - [Por qué siempre me pican a mí los mosquitos](https://www.elconfidencial.com/alma-corazon-vida/2024-08-14/mosquitos-picaduras-factores-1qrt_3943384/) (Elconfidencial.com)
 
@@ -486,6 +552,8 @@ Source: [News API](https://newsapi.org/)
 - [Infektionskrankheiten: Oropouche-Virus breitet sich in Lateinamerika aus](https://www.stern.de/panorama/wissen/infektionskrankheiten--oropouche-virus-breitet-sich-in-lateinamerika-aus-34971470.html) (STERN.de)
 
 ## 24-33 (chikungunya)
+
+- [不只登革熱，蚊子還會傳播慢性關節炎病毒](https://technews.tw/2024/08/15/is-chikungunya-more-dangerous-than-you-think/) (Technews.tw)
 
 - [Bavarian Nordic Announces FDA Acceptance and Priority Review of the BLA for its Chikungunya Vaccine](https://www.investing.com/news/press-releases/bavarian-nordic-announces-fda-acceptance-and-priority-review-of-the-bla-for-its-chikungunya-vaccine-93CH-3569739) (Investing.com)
 
@@ -2903,6 +2971,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mission Rabies to vaccinate dogs across Tiswadi taluka](https://timesofindia.indiatimes.com/city/goa/mission-rabies-to-vaccinate-dogs-across-tiswadi-taluka/articleshow/111495788.cms) (The Times of India)
 
+- [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
+
 ## 24-27 (pertussis)
 
 - [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
@@ -2946,6 +3016,10 @@ Source: [News API](https://newsapi.org/)
 - [Starliner Astronauts Are in Limbo, and Emergency Access to Abortion Is Preserved](https://www.scientificamerican.com/podcast/episode/starliner-astronauts-are-in-limbo-and-emergency-access-to-abortion-is/) (Scientific American)
 
 - [Advocates use end of Pride Month to warn about Mpox](https://www.cbsnews.com/video/advocates-use-end-of-pride-month-to-warn-about-mpox/) (CBS News)
+
+- [Eksperci martwią się nowym wariantem ospy. "Wszystkie kraje powinny się przygotować"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html) (Gazeta.pl)
+
+- [Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?](https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html) (Der Tagesspiegel)
 
 ## 24-27 (meningitis)
 
@@ -3238,6 +3312,12 @@ Source: [News API](https://newsapi.org/)
 - [Surging dengue virus in Bengaluru poses threat to women, kids: Doctors](https://timesofindia.indiatimes.com/city/bengaluru/surging-dengue-virus-in-bengaluru-poses-threat-to-women-kids-doctors/articleshow/111392899.cms) (The Times of India)
 
 - [BBMP audit confirms 1 dengue death, 213 new cases in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-audit-confirms-1-dengue-death-213-new-cases-in-bengaluru/articleshow/111390828.cms) (The Times of India)
+
+- [First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak](https://www.jpost.com/health-and-wellness/article-808379) (The Jerusalem Post)
+
+- [Dengue fever is surging worldwide. A hotter planet will make it worse.](https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/) (The Washington Post)
+
+- [«تب استخوان شکن» را جدی بگیریم](https://www.isna.ir/news/1403041006560/تب-استخوان-شکن-را-جدی-بگیریم) (Isna.ir)
 
 ## 24-27 (chikungunya)
 
