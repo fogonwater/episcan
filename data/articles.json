@@ -1,8 +1,837 @@
 {
-  "last_updated": "2024-08-16 07:06",
-  "count_articles_total": 1464,
-  "count_articles_new": 34,
+  "last_updated": "2024-08-16 19:06",
+  "count_articles_total": 1504,
+  "count_articles_new": 46,
   "articles": [
+    {
+      "id": 12160,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "Sweden reports 1st case of deadlier mpox outside Africa",
+      "description": "Following the WHO's declaration that the mpox outbreak in Africa is a global health emergency, Sweden reported its first case of a deadlier clade of the virus.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/tk-sweden-mpox",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QTMRj2otXFXyKGuzJDCSWn-1200-80.jpg",
+      "publishedAt": "2024-08-15 18:41:31",
+      "content": "Sweden has just announced the country's first case of clade 1 mpox, a deadlier version of mpox that previously had been reported only in Africa. Mpox, formerly known as monkeypox , is caused by a g\u2026 [+3608 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.872324",
+      "internal_id": "de37e4a9e6a45455d01a531c70bf1344e776391047780ca0b680dd50d2313347",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12157,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Tanja Tricarico",
+      "title": "WHO ruft Notstand wegen Mpox aus: Wo ist die globale Solidarit\u00e4t?",
+      "description": "Aus der Corona-Pandemie wurden nicht ausreichend Konsequenzen gezogen. Das k\u00f6nnte uns mit dem Ausbruch von Mpox nun einholen.",
+      "url": "https://taz.de/WHO-ruft-Notstand-wegen-Mpox-aus/!6027094/",
+      "urlToImage": "https://taz.de/picture/7185650/948/36187879-1.jpeg",
+      "publishedAt": "2024-08-15 18:00:00",
+      "content": "Aus der Corona-Pandemie wurden nicht ausreichend Konsequenzen gezogen. Das k\u00f6nnte uns mit dem Ausbruch von Mpox nun einholen. Mikroskopaufnahme von mpox-Partikeln (rot) in einer infizierten Zelle Fo\u2026 [+2629 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.850122",
+      "internal_id": "305fdfc256a716ded47c09fc282e8aae2c76fe7166a5ab1c3271e0cd33f54f18",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12143,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "Daniela Remus, NDR",
+      "title": "FAQ: Wie gef\u00e4hrlich ist das Mpox-Virus?",
+      "description": "Die WHO hat mit dem Ausrufen der h\u00f6chsten Alarmstufe bei Mpox f\u00fcr Beunruhigung gesorgt. Aber wie gef\u00e4hrlich ist das Virus wirklich? Und warum l\u00e4sst sich die Situation nicht mit der Corona-Pandemie vergleichen? Von Daniela Remus.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/mpox-who-faq-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/f8cab1a1-1119-4cd7-9b13-56f1aec18458/AAABkVcwROo/AAABkUqnCZ0/16x9-1280/mpox-106.jpg",
+      "publishedAt": "2024-08-15 17:57:47",
+      "content": "Stand: 15.08.2024 19:57 Uhr Die WHO hat mit dem Ausrufen der h\u00f6chsten Alarmstufe bei Mpox f\u00fcr Beunruhigung gesorgt. Aber wie gef\u00e4hrlich ist das Virus wirklich? Und warum l\u00e4sst sich die Situation nic\u2026 [+5674 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.686642",
+      "internal_id": "3365e039eeb971747696a37a1a1e87f37ef69d5286bc4bfe9c4c89e3c028e18d",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12142,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "tagesschau.de",
+      "title": "Schweden meldet ersten Mpox-Fall au\u00dferhalb Afrikas",
+      "description": "Gerade erst rief die Weltgesundheitsorganisation wegen einer neuen Variante der Viruskrankheit Mpox die h\u00f6chste Alarmstufe aus. Jetzt meldet Schweden einen Infizierten in der Region Stockholm.",
+      "url": "https://www.tagesschau.de/ausland/europa/mpox-schweden-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/a0cc5c6a-928b-4bfa-888d-a33dfff7c6c6/AAABkVcdW4w/AAABkUqnCZ0/16x9-1280/mpox-108.jpg",
+      "publishedAt": "2024-08-15 17:53:38",
+      "content": "Stand: 15.08.2024 19:53 Uhr Gerade erst rief die Weltgesundheitsorganisation wegen einer neuen Variante der Viruskrankheit Mpox die h\u00f6chste Alarmstufe aus. Jetzt meldet Schweden einen Infizierten in\u2026 [+1774 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.679582",
+      "internal_id": "2419f1a5c106ca986f06ae5be2d0f7fc2e602012c441ce2d3f192d8ec2cedc7f",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12145,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Quartz India",
+      "author": "Bruce Gil",
+      "title": "Health stocks are surging after the WHO declared monkeypox a global emergency",
+      "description": "The stocks of two vaccine makers surged on Thursday after the World Health Organization (WHO) upgraded a Mpox (formerly known as monkeypox) outbreak in the Democratic Republic of Congo (DRC) to a public health emergency of international concern.Read more...",
+      "url": "https://qz.com/mpox-vaccine-stock-who-emergency-1851623295",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/46d9b9eaf6587573d51dbdbb44762c1a.jpg",
+      "publishedAt": "2024-08-15 17:45:00",
+      "content": "In This Story The stocks of two vaccine makers surged on Thursday after the World Health Organization (WHO) upgraded a Mpox (formerly known as monkeypox) outbreak in the Democratic Republic of Congo\u2026 [+1836 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.702254",
+      "internal_id": "45ba95d9d51a41ac28c5f9324dc34c795f053dc78ddea575251ce5ededce36d5",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12156,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Detectan el primer caso de la nueva variante m\u00e1s peligrosa de mpox fuera de \u00c1frica",
+      "description": "Autoridades sanitarias de Suecia informaron del primer paciente infectado con la nueva variante de mpox, cuyo brote ha generado una alerta mundial por parte de la OMS.",
+      "url": "https://www.bbc.com/mundo/articles/cy9ev43le9po",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/67bc/live/6bde5930-5b2b-11ef-8fdc-fdf15b626720.png",
+      "publishedAt": "2024-08-15 17:34:03",
+      "content": "Fuente de la imagen, Reuters Pie de foto, El nuevo brote de mpox surgi\u00f3 en \u00c1frica. Informaci\u00f3n del art\u00edculoAutor, Paul Kirby y Smitha MundasadT\u00edtulo del autor, BBC News</l\u2026 [+3689 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.844626",
+      "internal_id": "a7e6d1d7718d281384529e55cf5889dcb987ecbdfb39cd3c6781dc860c24c01b",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12167,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "\u00c1ngela Reyes Haczek",
+      "title": "Suecia confirma el primer caso de viruela del mono",
+      "description": "Suecia confirm\u00f3 el jueves su primer caso de viruela del mono o mpox, que es tambi\u00e9n el primero fuera de \u00c1frica, un d\u00eda despu\u00e9s de que la OMS declarara a la enfermedad como emergencia de salud p\u00fablica mundial por segunda vez en dos a\u00f1os. The post Suecia confir\u2026",
+      "url": "https://cnnespanol.cnn.com/2024/08/15/suecia-primer-caso-viruela-del-mono-mpox-reux/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/mpox-viruela-del-mono.webp",
+      "publishedAt": "2024-08-15 17:30:10",
+      "content": "OMS declara el brote de mpox una emergencia de salud p\u00fablica 0:59 (Reuters) -- Suecia confirm\u00f3 el jueves su primer caso de viruela del mono o mpox, que es tambi\u00e9n el primero fuera de \u00c1frica, un d\u00eda \u2026 [+1164 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.948634",
+      "internal_id": "e256502e11ea46e4fb6d137d7d6f44d381c57540391bb5d50dcf2e9b21c8d487",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12155,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Mpox risk low but UK medics on alert",
+      "description": "The UK Health Security Agency says it will ensure medics know how to spot and test for the virus.",
+      "url": "https://www.bbc.com/news/articles/cy8xqxpjqxdo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dc85/live/f7bc80c0-5b1d-11ef-8f0f-0577398c3339.jpg",
+      "publishedAt": "2024-08-15 17:16:03",
+      "content": "UK health chiefs say they are making plans in case a new type of mpox virus is detected in the country - but they emphasise the risk is low. It comes as the World Health Organization (WHO) declared\u2026 [+2716 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.838328",
+      "internal_id": "cc87589f1fa4a550d2bf16a9eb06493a52da8a7fa291d5cb8a7afd2123d25612",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12144,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "dpa",
+      "title": "Neue Mpox-Variante: Erster Affenpocken-Fall in Europa",
+      "description": "Die neue Virusvariante, die sich in Afrika verbreitet, ist erstmals in Schweden aufgetreten. Die WHO hat wegen der wom\u00f6glich ansteckenderen Variante die h\u00f6chste Alarmstufe ausgerufen.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/neue-mpox-variante-erster-affenpocken-fall-in-europa-19922625.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/3724687370/1.9922637/facebook_teaser/eine-kolorierte.jpg",
+      "publishedAt": "2024-08-15 17:15:07",
+      "content": "Die Weltgesundheitsorganisation (WHO) hatte wegen mehrerer Mpox-Ausbr\u00fcche in Afrika und der neuen wom\u00f6glich gef\u00e4hrlichen Variante die h\u00f6chste Alarmstufe ausgerufen. Nach Beobachtung von Experten d\u00fcrf\u2026 [+1002 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.696698",
+      "internal_id": "d3d58f968a6144b7ae74aa1130dd52910d3b0adf258ed482204a91ee06f59406",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12151,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Molly Bohannon, Forbes Staff, \n Molly Bohannon, Forbes Staff\n https://www.forbes.com/sites/mollybohannon/",
+      "title": "Sweden Reports Mpox Case\u2014First Non-African Country With New Variant",
+      "description": "The infected person is believed to have contracted mpox during a stay in Africa, the Public Health Agency of Sweden said.",
+      "url": "https://www.forbes.com/sites/mollybohannon/2024/08/15/sweden-reports-mpox-case-first-non-african-country-with-new-variant/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66be34da9cee181d80ea5b2a/0x0.jpg?format=jpg&crop=3638,2045,x0,y199,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-08-15 17:06:39",
+      "content": "Sweden confirmed it had its first case of mpox, a disease formerly known as monkeypox, shortly after the World Health Organization declared an international health emergency over Africas escalating m\u2026 [+3391 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.758816",
+      "internal_id": "9642b1a42bc054c688d6b671c41ef901f29ba540305c21539f841597d08fea38",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12169,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "La Su\u00e8de fait \u00e9tat d\u2019un premier cas d\u2019infection par le variant l\u00e9tal du mpox",
+      "description": "Anciennement appel\u00e9 monkeypox, \u00ab variole du singe \u00bb en fran\u00e7ais, ce variant de la maladie virale n\u2019\u00e9tait jusqu\u2019ici pr\u00e9sent que dans quelques pays d\u2019Afrique de l\u2019Ouest et du centre.",
+      "url": "https://www.lemonde.fr/sante/article/2024/08/15/la-suede-fait-etat-d-un-premier-cas-d-infection-par-le-variant-letal-du-mpox_6282464_1651302.html",
+      "urlToImage": "https://img.lemde.fr/2022/11/28/5/0/2100/1400/1440/960/60/0/ffcf467_4cbb0e579a2245d5965ea89e8f284ff6-0-fff227c7f7d24f48b49f696bc3849783.jpg",
+      "publishedAt": "2024-08-15 17:04:01",
+      "content": "Des particules de mpox, captur\u00e9es par lInstitut national des allergies et des maladies infectieuses (NIAID). AP Au lendemain de lannonce par lOrganisation mondiale de la sant\u00e9 (OMS) dune \u00ab urgence d\u2026 [+2393 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.960220",
+      "internal_id": "072063c4c96240d658a55c37b6f12fd6470e1a60cbe1f884de3bd3cb02159256",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12166,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Meduza",
+      "author": null,
+      "title": "\u0412 \u0428\u0432\u0435\u0446\u0438\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d\u044c\u0435\u0439 \u043e\u0441\u043f\u044b \u0437\u0430 \u043f\u0440\u0435\u0434\u0435\u043b\u0430\u043c\u0438 \u0410\u0444\u0440\u0438\u043a\u0438. \u041d\u0430\u043a\u0430\u043d\u0443\u043d\u0435 \u0412\u041e\u0417 \u043e\u0431\u044a\u044f\u0432\u0438\u043b\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c \u0447\u0440\u0435\u0437\u0432\u044b\u0447\u0430\u0439\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0435\u0439 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f",
+      "description": "\u0412\u043b\u0430\u0441\u0442\u0438 \u0428\u0432\u0435\u0446\u0438\u0438 \u0437\u0430\u044f\u0432\u0438\u043b\u0438, \u0447\u0442\u043e \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0435 \u043e\u0431\u0435\u0437\u044c\u044f\u043d\u044c\u0435\u0439 \u043e\u0441\u043f\u043e\u0439 (mpox) \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0441\u0442\u0440\u0430\u043d\u044b. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 BBC News.",
+      "url": "https://meduza.io/news/2024/08/15/v-shvetsii-zafiksirovan-pervyy-sluchay-obezyaniey-ospy-za-predelami-afriki-nakanune-voz-ob-yavil-bolezn-chrezvychaynoy-situatsiey-mezhdunarodnogo-znacheniya",
+      "urlToImage": "https://meduza.io/imgly/share/1723741565/news/2024/08/15/v-shvetsii-zafiksirovan-pervyy-sluchay-obezyaniey-ospy-za-predelami-afriki-nakanune-voz-ob-yavil-bolezn-chrezvychaynoy-situatsiey-mezhdunarodnogo-znacheniya",
+      "publishedAt": "2024-08-15 17:01:20",
+      "content": "\u00ab\u00bb \u2014 - \u00ab\u00bb. , . reCAPTCHA. . \u00ab\u00bb",
+      "retrievedAt": "2024-08-16 19:06:33.934172",
+      "internal_id": "3a96d922d17b7c34237e3b36679a0eb7c04643c560b1cef9f0bc2d503a88093e",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12165,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Agencias",
+      "title": "Detectado en Suecia el primer caso fuera de \u00c1frica de la nueva variante de la viruela del mono, m\u00e1s contagiosa y peligrosa",
+      "description": "La nueva variante puede contagiarse f\u00e1cilmente con un contacto estrecho entre dos personas, sin que sea necesario un contacto sexual, y est\u00e1 considerada m\u00e1s peligrosa que la variante de 2022. Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/08/15/66be322a21efa04a0b8b45b4.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/1386229e81a3f49650e238499fabc4ef/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/15/17237411120197.jpg",
+      "publishedAt": "2024-08-15 17:01:07",
+      "content": "El primer caso fuera de \u00c1frica en el actual brote de mpox (antes conocido como viruela del mono) fue detectado este jueves en Suecia, inform\u00f3 el ministro de Asuntos Sociales sueco, Jakob Forssmed. E\u2026 [+1919 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.912937",
+      "internal_id": "6739dc3c98d5eb72672162e083efdff60279861166a99b65f30d03e6a57e62f3",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12168,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Samuel Misteli (smi)",
+      "title": "Wenige Jahre nach Covid stellt Mpox Afrikas Gesundheitssysteme erneut vor grosse Herausforderungen",
+      "description": "Afrika br\u00e4uchte mehrere Millionen Impfdosen um den Ausbruch des Affenpockenvirus einzud\u00e4mmen. Das Virus ist ausgerechnet in einem Land am st\u00e4rksten, in dem ein Krieg die Bek\u00e4mpfung zus\u00e4tzlich erschwert.",
+      "url": "https://www.nzz.ch/international/mpox-in-afrika-krieg-und-mangel-erschweren-bekaempfung-ld.1843906",
+      "urlToImage": "https://img.nzz.ch/2024/08/15/58850ef3-5c2c-467c-97d9-0c945221a5e0.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y574&wmark=nzz",
+      "publishedAt": "2024-08-15 17:00:07",
+      "content": "Zwei Drittel der Todesopfer sind Kinder: Ein Arzt in Munigi im Ostkongo untersucht einen Jungen, der an Mpox erkrankt ist. Nachdem die Weltgesundheitsorganisation (WHO) am Mittwoch wegen einer neuen\u2026 [+5360 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.954197",
+      "internal_id": "2b5cbd5e1ba9394d622ff6352065b4f9d8375f70889f06679fe36136ae854413",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12127,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: Heightened Precautions for Imported Dogs Vaccinated with Potentially Ineffective Rabies Vaccine - United States, August 2021\u2212April 2024",
+      "description": "This report describes the potentially ineffective rabies vaccination of 132 dogs imported into the U.S. from high-risk countries.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7332a3.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7332a3_-RabiesVaccine_IMAGE_15August2024_1200x675.png?_=45480",
+      "publishedAt": "2024-08-15 17:00:00",
+      "content": "Summary What is already known about this topic? Prearrival rabies vaccination is required for dogs imported into the United States from countries at high risk for dog-maintained rabies virus varian\u2026 [+8253 chars]",
+      "retrievedAt": "2024-08-16 19:06:30.901651",
+      "internal_id": "a56859bd594cf49077fad4d1afb860500000c11b65e8ec4dcb4266dc967fbc3e",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12130,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Azaria Howell",
+      "title": "Ministry of Education warns NZ at high risk of measles outbreak due to childhood immunisation rates",
+      "description": "'Local childhood immunisation rates are declining,' the ministry said.",
+      "url": "https://www.nzherald.co.nz/nz/ministry-of-education-warns-nz-at-high-risk-of-measles-outbreak-due-to-childhood-immunisation-rates/WOLBR6AE2VA6XFV5AMUGCPQRME/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/IYEUA6NQO5G3HFKYKC3FDYCK2I.jpg?auth=fe82d0e91d0ba5df355994652e88f7abd8d3f237c79ccf756b150c3fe1ee4848&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-08-15 17:00:00",
+      "content": "Health New Zealand states that high immunisation coverage protects individuals and communities. The ministry alert says being immune is important for everyones safety, as people can be infectious be\u2026 [+1313 chars]",
+      "retrievedAt": "2024-08-16 19:06:31.268808",
+      "internal_id": "9223fad46d998956e34dbaffa115b7443c030d3a8687284254073195767f7112",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12139,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Carissa Wong",
+      "title": "Why is mpox a global emergency again so soon?",
+      "description": "Mpox was made a public health emergency of international concern for the first time in July 2022, with this being declared over the following May. Just 15 months on, the World Health Organization has sounded the alarm again",
+      "url": "https://www.newscientist.com/article/2444102-why-is-mpox-a-global-emergency-again-so-soon/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/08/15155900/SEI_217474952.jpg",
+      "publishedAt": "2024-08-15 16:30:06",
+      "content": "Transmission electron micrograph of mpox virus particles (green) found within cells (blue) NIAID Just over a year after the last mpox outbreak was deemed to no longer be a global emergency, the Wor\u2026 [+411 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.640789",
+      "internal_id": "975430741aeea274e4115ba1f1ac7ab0547f9aa673e42f79ec0c1e5c9ecf866e",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12147,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Barron's",
+      "author": null,
+      "title": "Vaccine Maker Ready To Produce 10 Million Doses...",
+      "description": "Vaccine Maker Ready To Produce 10 Million Doses... (First column, 3rd story, link) Related stories:OUT OF AFRICA: Sweden confirms first case of monkey pox... New strain spreads... Drudge Report Feed needs your support! Beco\u2026",
+      "url": "https://www.barrons.com/articles/shares-soar-in-mpox-vaccine-maker-bavarian-nordic-d6cbd8e6",
+      "urlToImage": "https://www.barrons.com/asset/external-media/afp/AFP1036219003522228081338287596556164265574---1.jpg",
+      "publishedAt": "2024-08-15 16:28:36",
+      "content": "Danish drugmaker Bavarian Nordic said Thursday it was ready to produce up to 10 million doses of its vaccine targeting mpox by 2025 after the World Health Organization declared a surge in the virus i\u2026 [+1675 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.730539",
+      "internal_id": "7e689f14d8bdc204a7e2eeb100fd99bfa7bacacc9e309593601e9358501cd610",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12164,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Mpox, la Svezia conferma primo caso i Ue di vaiolo delle scimmie di clade 1 che \u00e8 pi\u00f9 contagioso e letale",
+      "description": "Un caso confermato di Mpox (vaiolo delle scimmie) \u00e8 stato annunciato dalle autorit\u00e0 svedesi. Si tratta del primo caso di clade 1, quello pi\u00f9 contagioso e con un tasso di letalit\u00e0 dell\u201911% in Ue. Il ministro della Salute, Jakob Forssmed, come riportano i media\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/08/15/mpox-la-svezia-conferma-primo-caso-di-vaiolo-delle-scimmie-di-clade-1-che-e-piu-contagioso-e-letale/7659742/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/05/19/vaiolo-delle-scimmie-1200x630.jpg",
+      "publishedAt": "2024-08-15 16:27:44",
+      "content": "Roma, 15 ago. (Adnkronos) - Calano del 62,36% i migranti sbarcati in Italia da inizio 2024 al 31 luglio, che sono in totale 33.480: nello stesso periodo del 2023 gli arrivi erano stati 88.939. Sono i\u2026 [+3461 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.902896",
+      "internal_id": "961e6c432c39097c329a1c1b5e9edf644352972dc1bc6acb8423b400e2605209",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12146,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Sweden confirms first case of mpox strain outside Africa",
+      "description": "Swedish officials say they have registered the first case outside Africa of the more dangerous variant of mpox.",
+      "url": "https://www.aljazeera.com/news/2024/8/15/sweden-confirms-first-case-of-mpox-strain-outside-africa",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/2024-08-15T090212Z_2036482310_RC2ZX8A6NUZZ_RTRMADP_3_HEALTH-MPOX-TREATMENT-1723737636.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-08-15 16:02:04",
+      "content": "Sweden says it has confirmed a first case of mpox, a viral infection that spreads through close contact and is a more dangerous variant of the disease. We have now also during the afternoon had conf\u2026 [+494 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.720677",
+      "internal_id": "094091fac8dc3a18800b35d4e829b8f6971508432c69459c6b1c3d46307f30e6",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12138,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Sweden announces first case of more contagious mpox found outside Africa",
+      "description": "Sweden's public health agency records what it says is the first case of a contagious new variant of mpox outside the African continent.",
+      "url": "https://www.bbc.com/news/articles/c4gqr5lrpwxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "publishedAt": "2024-08-15 15:54:07",
+      "content": "Sweden's public health agency has recorded what it says is the first case of a contagious new variant of mpox outside the African continent. The person became infected during a stay in an area of Af\u2026 [+1181 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.621926",
+      "internal_id": "50e94fa38860456f9faace76553f5320a57cf700589eb29dbb147c8131c16f27",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12158,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": null,
+      "title": "\u201eDer Ausbruch einer neuen Variante ist sehr beunruhigend\u201c, sagt der WHO-Chef",
+      "description": "Die WHO hat wegen neuer Mpox-Ausbr\u00fcche eine globale Notlage ausgerufen. In mehreren afrikanischen L\u00e4ndern wurden inzwischen F\u00e4lle nachgewiesen. WHO-Generaldirektor Tedros Adhanom Ghebreyesus sagt: \u201eEs werden Schritte zur Eind\u00e4mmung eingeleitet, damit wir Lebe\u2026",
+      "url": "https://www.welt.de/wissenschaft/video253028936/Mpox-Virus-in-Afrika-Der-Ausbruch-einer-neuen-Variante-ist-sehr-beunruhigend-warnt-der-WHO-Praesident.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile253029218/0171352387-ci16x9-w1200/MAZ-Mpox-Do-1400-ONL-1461-jpg.jpg",
+      "publishedAt": "2024-08-15 15:50:57",
+      "content": "Die WELT als ePaper: Die vollst\u00e4ndige Ausgabe steht Ihnen bereits am Vorabend zur Verf\u00fcgung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link die\u2026 [+49 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.855928",
+      "internal_id": "bb37aee54510b85440bbecbeb01b42e8fcc6b7699e014af44db70dcabc4d913f",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12163,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le HuffPost",
+      "author": "Le HuffPost",
+      "title": "\u00c9pid\u00e9mie de \u00ab mpox \u00bb 2024 en Afrique : pourquoi les scientifiques la jugent plus pr\u00e9occupante que celle de 2022",
+      "description": "Contrairement \u00e0 l\u2019Europe, o\u00f9 l\u2019\u00e9pid\u00e9mie s\u2019\u00e9tait propag\u00e9e en 2022, le continent africain ne b\u00e9n\u00e9ficie pas de syst\u00e8mes de sant\u00e9 performants, ni de suffisamment de vaccins.",
+      "url": "https://www.huffingtonpost.fr/international/article/epidemie-de-mpox-2024-en-afrique-pourquoi-les-scientifiques-la-jugent-plus-preoccupante-que-celle-de-2022_238424.html",
+      "urlToImage": "https://huffpost-focus.sirius.press/2024/08/15/0/0/5500/3093/1820/1023/75/0/548dd89_1723733315569-2024-08-15t090212z-2036482310-rc2zx8a6nuzz-rtrmadp-3-health-mpox-treatment.JPG",
+      "publishedAt": "2024-08-15 15:48:42",
+      "content": "SANT\u00c9 - Des signaux (rouge vif) \u00e0 ne pas prendre \u00e0 la l\u00e9g\u00e8re. LOrganisation mondiale de la sant\u00e9 a d\u00e9clench\u00e9 mercredi 14 ao\u00fbt son plus haut niveau dalerte sanitaire au niveau mondial face \u00e0 la propag\u2026 [+5620 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.897306",
+      "internal_id": "a092227e4fb8ae3e7d383b2040072bdd331f8fb97c74c76c7b819fb31be2fa0e",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12136,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tech Xplore",
+      "author": "Bruce Mellado",
+      "title": "Air pollution in South Africa: Affordable new devices use AI to monitor hotspots in real time",
+      "description": "Air quality has become one of the most important public health issues in Africa. Poor air quality kills more people globally every year than HIV, TB and malaria combined. And that's just the tip of the iceberg. Air pollution makes people less productive becau\u2026",
+      "url": "https://techxplore.com/news/2024-08-air-pollution-south-africa-devices.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/air-pollution-in-south-1.jpg",
+      "publishedAt": "2024-08-15 15:43:05",
+      "content": "Air quality has become one of the most important public health issues in Africa. Poor air quality kills more people globally every year than HIV, TB and malaria combined. And that's just the tip of t\u2026 [+6487 chars]",
+      "retrievedAt": "2024-08-16 19:06:32.751907",
+      "internal_id": "64480812182f57863692f141064d0ddaef31ab1a06b51bddf8eaf25c5e1d13e2",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12129,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Colorado Sun",
+      "author": "John Ingold",
+      "title": "No human cases of rabies as second Colorado puppy tests positive",
+      "description": "More than 35 people have been referred for rabies post-exposure treatment after a puppy adoption event in Sheridan, Colorado.",
+      "url": "http://coloradosun.com/2024/08/15/rabies-puppy-adoption-colorado-human-cases/",
+      "urlToImage": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2020/03/1HC_2984.jpg",
+      "publishedAt": "2024-08-15 15:41:09",
+      "content": "More than 35 people have been referred for rabies post-exposure treatment following last weeks announcement about a rabid puppy at a rescue adoption event. But Colorado has so far identified no human\u2026 [+6901 chars]",
+      "retrievedAt": "2024-08-16 19:06:30.931115",
+      "internal_id": "f5d45645536ebf64b61c07020e13e0598f2c0f2e3edbc7fe79049fca366525a7",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12148,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Minist\u00e9rio da Sa\u00fade vai instituir comit\u00ea de emerg\u00eancia para mpox",
+      "description": "Ministra N\u00edsia Trindade diz que n\u00e3o h\u00e1 motivo de alarme, mas de alerta The post Minist\u00e9rio da Sa\u00fade vai instituir comit\u00ea de emerg\u00eancia para mpox appeared first on Giz Brasil.",
+      "url": "https://gizmodo.uol.com.br/ministerio-da-saude-vai-instituir-comite-de-emergencia-para-mpox/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/08/mpox-agencia-brasil.webp",
+      "publishedAt": "2024-08-15 15:20:13",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, disse nesta quarta-feira (14) que a pasta vai criar um Comit\u00ea de Opera\u00e7\u00e3o de Emerg\u00eancia para adotar medidas de enfrentamento \u00e0 dissemina\u00e7\u00e3o da mpox, que vem preoc\u2026 [+2872 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.736302",
+      "internal_id": "65201e4279b1afebac73bb8b29cf76866dc165b84595ddbfc3ef46daa51fe0f9",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12152,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Sonja Kastilan",
+      "title": "Wir d\u00fcrfen vor Mpox nicht die Augen verschlie\u00dfen",
+      "description": "Der Ausbruch der Viruserkrankung Mpox in Afrika mag im Moment zwar weit weg sein \u2013 das kann sich aber schnell \u00e4ndern, wie ein Blick auf \u00e4hnliche F\u00e4lle zeigt. Deshalb muss der Westen mit der WHO an der Spitze z\u00fcgig handeln.",
+      "url": "https://www.welt.de/debatte/kommentare/article253026664/Infektionskrankheit-Wir-duerfen-vor-Mpox-nicht-die-Augen-verschliessen.html",
+      "urlToImage": "https://img.welt.de/img/debatte/kommentare/mobile253026772/1307937647-ci16x9-w1200/Kombo-Kastilian-Monkeypox.jpg",
+      "publishedAt": "2024-08-15 15:13:34",
+      "content": "Der Ausbruch der Viruserkrankung Mpox in Afrika mag im Moment zwar weit weg sein das kann sich aber schnell \u00e4ndern, wie ein Blick auf \u00e4hnliche F\u00e4lle zeigt. Deshalb muss der Westen mit der WHO an der \u2026 [+2223 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.788300",
+      "internal_id": "29500af82f198f35f86298d8c8916db9ac35c7dd08390586a23dc98d40129e89",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12133,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "DINO",
+      "title": "Manter a febre sob controle \u00e9 fundamental em casos de Dengue",
+      "description": "Tr\u00eas raz\u00f5es para dar aten\u00e7\u00e3o especial ao acompanhamento da temperatura corporal durante o per\u00edodo de infec\u00e7\u00e3o",
+      "url": "https://www.terra.com.br/noticias/manter-a-febre-sob-controle-e-fundamental-em-casos-de-dengue,23481267719ae242ac88bb8e9d53c7b2szmwe2wj.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/08/15/476637551-19a198ef-21b3-47db-bf55-736dbf6a2f98.jpg",
+      "publishedAt": "2024-08-15 14:55:54",
+      "content": "Com mais de 6,4 milh\u00f5es de casos de dengue registrados em 2024, o Brasil atingiu um recorde hist\u00f3rico, registrando o maior n\u00famero de infec\u00e7\u00f5es pela doen\u00e7a em um \u00fanico ano. End\u00eamico em \u00e1reas tropicai\u2026 [+2404 chars]",
+      "retrievedAt": "2024-08-16 19:06:32.117065",
+      "internal_id": "ca97f8539f54501e7683742a8d036bdd2327bd57f3decfb836f2f501eb79dfdb",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12150,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "mit dpa",
+      "title": "\u201eWenn wir jetzt nicht handeln, explodiert die Lage\u201c - Afrikanischer Experte warnt vor Mpox in Europa - was Deutschland bevorsteht",
+      "description": "Am Mittwoch hat die Weltgesundheitsorganisation wegen neuer Mpox-Ausbr\u00fcche die h\u00f6chste Alarmstufe ausgerufen. Insbesondere der afrikanische Kontinent ist derzeit von einer neuen Variante betroffen. Was das f\u00fcr Deutschland bedeutet.",
+      "url": "https://www.focus.de/gesundheit/news/wenn-wir-jetzt-nicht-handeln-explodiert-die-lage-afrikanischer-experte-warnt-vor-mpox-in-europa-was-deutschland-bevorsteht_id_260227059.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260227107/mpox.jpg?im=Crop%3D%280%2C85%2C1024%2C512%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=5d142c552f55283c237e97356527b1dcbe2dab388094cb7bfecadb305d1d648b",
+      "publishedAt": "2024-08-15 14:23:12",
+      "content": "Am Mittwoch hat die Weltgesundheitsorganisation wegen neuer Mpox-Ausbr\u00fcche die h\u00f6chste Alarmstufe ausgerufen. Insbesondere der afrikanische Kontinent ist derzeit von einer neuen Variante betroffen. W\u2026 [+4615 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.753333",
+      "internal_id": "3c3ad6631c1f03859cf83742dbec3053c9fcb25fa41a06d27dbb93380b425fa8",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12154,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Dominic Johnson",
+      "title": "WHO ruft Gesundheitsnotstand aus: Die Angst vor Mpox",
+      "description": "\u00dcber 500 Menschen sind in der DR Kongo dieses Jahr bereits an \u201eAffenpocken\u201c gestorben. Kern des Ausbruchs liegt in einem Goldgr\u00e4bergebiet im Osten.",
+      "url": "https://taz.de/WHO-ruft-Gesundheitsnotstand-aus/!6027182/",
+      "urlToImage": "https://taz.de/picture/7185476/948/36191333-1.jpeg",
+      "publishedAt": "2024-08-15 14:22:00",
+      "content": "\u00dcber 500 Menschen sind in der DR Kongo dieses Jahr bereits an Affenpocken gestorben. Kern des Ausbruchs liegt in einem Goldgr\u00e4bergebiet im Osten. Munigi bei Goma im Osten der DR Kongo: Ein Arzt unte\u2026 [+7071 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.821075",
+      "internal_id": "ff07edfb31907a2c29b04fd1b6260650dc6ee08f688c958b8fd116a2f6254c3b",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12128,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Scott L. Nuismer, Andrew J. Basinski, Courtney L. Schreiner, Evan A. Eskew, Elisabeth Fichet-Calvet, Christopher H. Remien",
+      "title": "Quantifying the risk of spillover reduction programs for human health",
+      "description": "Author summary Many pathogens, such as rabies, coronaviruses, and hantaviruses primarily circulate within wild animals but can infect humans when the opportunity arises. This pervasive challenge to public health has motivated the development of new methods de\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012358",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012358.g007&size=inline",
+      "publishedAt": "2024-08-15 14:00:00",
+      "content": "Abstract Reducing spillover of zoonotic pathogens is an appealing approach to preventing human disease and minimizing the risk of future epidemics and pandemics. Although the immediate human health \u2026 [+47922 chars]",
+      "retrievedAt": "2024-08-16 19:06:30.925531",
+      "internal_id": "2847f8aec71f2d4f77cf2a534d45b6961519eba4f507e66963ea8dcc6f2e60c7",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12134,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Luisa Consuelo Rubiano, Dayana Montoya, Catalina Urrego, Santiago Alberto Morales, Paola Astrid R\u00edos-Tapias, Katherine Monsalve, Margarita Arboleda",
+      "title": "Practice determinants for adherence to the Guide for the Comprehensive Clinical Care of Dengue Patients, Urab\u00e1 (Colombia). A multifaceted approach to implementation research",
+      "description": "Author summary Dengue is a significant public health issue in the Urab\u00e1, this region reported around 40% of morbidity and mortality for the disease in the department of Antioquia (Colombia) in 2018. Clinical Practice Guidelines are tools intended for medical \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012361",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012361.g001&size=inline",
+      "publishedAt": "2024-08-15 14:00:00",
+      "content": "Abstract Introduction Dengue is a significant public health issue in the Urab\u00e1 region, accounting for 37.5% of morbidity and 41.7% of mortality resulting from dengue in the department of Antioquia \u2026 [+49110 chars]",
+      "retrievedAt": "2024-08-16 19:06:32.130582",
+      "internal_id": "11c61dcf70d2f48107fab4138011a052c4e8e5388ebb641e3c6e4ada0eac25b6",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12135,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Si\u00e9 Hermann Pooda, Domonbabele Fran\u00e7ois de Salle Hien, Souma\u00efla Pagabeleguem, Andre Patrick Heinrich, Ang\u00e9lique Porciani, Andr\u00e9 Barembaye Sagna, Lamidi Zela, Lassane Percoma, Thierry Lef\u00e8vre, Roch Kounbobr Dabir\u00e9, Amnan Alphonsine Koffi, Rolf-Alexander D\u00fcring, C\u00e9dric Pennetier, Nicolas Moiroux, Karine Mouline",
+      "title": "Impact of blood meals taken on ivermectin-treated livestock on survival and egg production of the malaria vector Anopheles coluzzii under laboratory conditions",
+      "description": "Treatment of livestock with endectocides such as ivermectin is viewed as a complementary vector control approach to address residual transmission of malaria. However, efficacy of this treatment may vary between animal species. Hence, our purpose was to invest\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308293",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0308293.g004&size=inline",
+      "publishedAt": "2024-08-15 14:00:00",
+      "content": "Abstract Treatment of livestock with endectocides such as ivermectin is viewed as a complementary vector control approach to address residual transmission of malaria. However, efficacy of this treat\u2026 [+52167 chars]",
+      "retrievedAt": "2024-08-16 19:06:32.735913",
+      "internal_id": "b1e7814009ca04db71b8fd7a94078aa8b81628da4f60bbfda74c79fe2f967eaa",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12137,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yumi Itoh, Yoichi Miyamoto, Makoto Tokunaga, Tatsuya Suzuki, Akira Takada, Akinori Ninomiya, Tomomi Hishinuma, Mami Matsuda, Yoshihiro Yoneda, Masahiro Oka, Ryosuke Suzuki, Yoshiharu Matsuura, Toru Okamoto",
+      "title": "Importin-7-dependent nuclear translocation of the Flavivirus core protein is required for infectious virus production",
+      "description": "Author summary The Flaviviridae family, which includes Japanese encephalitis virus (JEV), dengue virus (DENV), Zika virus (ZIKV), and West Nile virus (WNV), possesses a single-stranded positive-sense RNA and conducts viral RNA replication, translation, and pa\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012409",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012409.g007&size=inline",
+      "publishedAt": "2024-08-15 14:00:00",
+      "content": "Citation: Itoh Y, Miyamoto Y, Tokunaga M, Suzuki T, Takada A, Ninomiya A, et al. (2024) Importin-7-dependent nuclear translocation of the Flavivirus core protein is required for infectious virus prod\u2026 [+53447 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.069867",
+      "internal_id": "9f40f761bec89b1e67d83756c01ff5ace07b548c19a2bd95cd324d2a7fda2903",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12126,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Christopher Gavin",
+      "title": "A rabid bobcat attacked R.I. family\u2019s dog, police say",
+      "description": "Authorities are warning pet owners to \u201cexercise extreme caution\u201d in the area of Slavin Path in Glocester, R.I.",
+      "url": "https://www.bostonglobe.com/2024/08/15/metro/rabid-bobcat-ri-dog-attack/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/TlEomKEk6K3brJ5DJR0JHQkMOcg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/6UJW76RYVEI6VEESX3J35UQMDM.jpg",
+      "publishedAt": "2024-08-15 13:42:44",
+      "content": "Officials captured the bobcat, which was later confirmed to have rabies, according to police, who did not provide additional details of the incident in their statement. It was not immediately clear \u2026 [+1548 chars]",
+      "retrievedAt": "2024-08-16 19:06:30.880179",
+      "internal_id": "61474e4ccd42d3060a006f2e7ca63e215e21b0ab77386542e83049a42b145df6",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12171,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Advocate.com",
+      "author": "Christopher Wiggins",
+      "title": "Health officials say risk of more fatal mpox outbreak remains \u2018very low\u2019 despite public health emergency",
+      "description": "In response to the World Health Organization\u2019s Wednesday declaration that the mpox virus is once again a global public health emergency of international concern, the U.S. Department of Health and Human Services has issued a statement affirming the nation\u2019\u2026",
+      "url": "https://www.advocate.com/health/cdc-mpox-outbreak-risk-low",
+      "urlToImage": "https://www.advocate.com/media-library/mpox-emergency-hhs-update-vaccines-available-risk-low-usa.jpg?id=53178524&width=1200&height=600&coordinates=0%2C0%2C0%2C78",
+      "publishedAt": "2024-08-15 13:04:56",
+      "content": "In response to the World Health Organizations Wednesdaydeclaration that thempox virus is once again a global public health emergency of international concern, the U.S. Department of Health and Hu\u2026 [+8224 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.992898",
+      "internal_id": "67b09eed93c5e290a3743b0471aad4ba22a7b1e5433f2bb4ae153ef71533af7b",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12161,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tecmundo.com.br",
+      "author": "Andr\u00e9 Luiz Dias Gon\u00e7alves",
+      "title": "OMS volta a declarar mpox como 'emerg\u00eancia de sa\u00fade global': Brasil corre risco?",
+      "description": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) informou ontem (14) que a situa\u00e7\u00e3o atual da mpox voltou a ser tratada por especialistas como emerg\u00eancia de sa\u00fade p\u00fablica global. O mais alto n\u00edvel de alerta para o surto da doen\u00e7a foi declarado pela \u00faltima vez em julho de \u2026",
+      "url": "https://www.tecmundo.com.br/ciencia/288265-oms-volta-declarar-mpox-emergencia-saude-publica-global-brasil-corre-risco.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2024/08/15/15093934574030.jpg?ims=1200xorig",
+      "publishedAt": "2024-08-15 12:40:33",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) informou ontem (14) que a situa\u00e7\u00e3o atual da mpox voltou a ser tratada por especialistas como emerg\u00eancia de sa\u00fade p\u00fablica global. O mais alto n\u00edvel de alerta para \u2026 [+2360 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.885526",
+      "internal_id": "d40065ce0a9014dd0d8236bd75567d6b93524090d84a78f9d0802fcf03b0e1d4",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12140,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: Landesgesundheitsamt: Geringe Gef\u00e4hrdung durch Mpox",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eLandesgesundheitsamt: Geringe Gef\u00e4hrdung durch Mpox\u201c.",
+      "url": "https://www.zeit.de/news/2024-08/15/landesgesundheitsamt-geringe-gefaehrdung-durch-mpox",
+      "urlToImage": "https://img.zeit.de/news/2024-08/15/landesgesundheitsamt-geringe-gefaehrdung-durch-mpox-image-group/wide__1300x731",
+      "publishedAt": "2024-08-15 11:34:34",
+      "content": "Die Weltgesundheitsorganisation (WHO) hat wegen einer neuen Variante der Mpox-Viren in Afrika ihre h\u00f6chste Alarmstufe aktiviert, das Landesgesundheitsamt geht aber nur von einer geringen Gefahr f\u00fcr N\u2026 [+3206 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.654573",
+      "internal_id": "443eec3f15581f58366ff7047078405b46e31157d7118bacd0f4134a724d1465",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12170,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Landesgesundheitsamt: Geringe Gef\u00e4hrdung durch Mpox",
+      "description": "2022 wurden die Mpox-Ausbr\u00fcche weltweit gut unter Kontrolle gebracht. Jetzt gibt es eine besorgniserregende Variante. Das Landesgesundheitsamt geht von einer geringen Gefahr f\u00fcr Niedersachsen aus.",
+      "url": "https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/krankheiten--landesgesundheitsamt--geringe-gefaehrdung-durch-mpox-34983070.html",
+      "urlToImage": "https://image.stern.de/34983072/t/9b/v1/w1440/r1.7778/-/15--jxcorf5ebrv8axw800h600jpeg---61d10b7d47a0fafa.jpg",
+      "publishedAt": "2024-08-15 11:34:34",
+      "content": "2022 wurden die Mpox-Ausbr\u00fcche weltweit gut unter Kontrolle gebracht. Jetzt gibt es eine besorgniserregende Variante. Das Landesgesundheitsamt geht von einer geringen Gefahr f\u00fcr Niedersachsen aus. D\u2026 [+2489 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.982384",
+      "internal_id": "a20869dd7e5f644c52248d117e23f22127f92138fdafa363120e90d4079cf965",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12153,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "Vaccine Maker Shares Soar After WHO Declares Health Emergency Over Africa Mpox Outbreak",
+      "description": "Danish firm Bavarian Nordic, which manufactures the preferred vaccine for use against mpox, has said it can meet booming demand for its shot after the WHO declared an emergency.",
+      "url": "https://www.forbes.com/sites/roberthart/2024/08/15/vaccine-maker-shares-soar-after-who-declares-health-emergency-over-africa-mpox-outbreak/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66bde41b958449d30e8f1ff8/0x0.jpg?format=jpg&crop=3638,2046,x0,y251,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-08-15 11:20:51",
+      "content": "Shares of mpox vaccine makers like Bavarian Nordic soared on Thursday after the World Health Organization declared a public health emergency over an escalating outbreak of the disease in Africa, as n\u2026 [+5741 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.810264",
+      "internal_id": "b7c4441db5c2d3670b03914a22ac534d1bd7065b7872c460bdfdbf5d5a333d48",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12159,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": null,
+      "title": "WHO ruft h\u00f6chste Alarmstufe aus \u2013 \u201eWeltgemeinschaft sollte vorbereitet sein\u201c",
+      "description": "Die Weltgesundheitsorganisation (WHO) ruft wegen der Ausbreitung des ehemals als \u201eAffenpocken\u201c bekannten Mpox-Virus in Afrika die h\u00f6chste Alarmstufe aus. Es handle sich um einen Gesundheitsnotstand von internationaler Tragweite. Virologe Klaus St\u00f6hr ordnet di\u2026",
+      "url": "https://www.welt.de/wissenschaft/video253019846/WHO-ruft-wegen-Mpox-Virus-in-Afrika-hoechste-Alarmstufe-aus-Weltgemeinschaft-sollte-vorbereitet-sein.html",
+      "urlToImage": "https://img.welt.de/img/videos/mobile243116717/4861357157-ci16x9-w1200/290379608-Kopie-jpg.jpg",
+      "publishedAt": "2024-08-15 10:45:02",
+      "content": "Die WELT als ePaper: Die vollst\u00e4ndige Ausgabe steht Ihnen bereits am Vorabend zur Verf\u00fcgung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link die\u2026 [+49 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.862672",
+      "internal_id": "985ddbe4ca88cedb27eb8e666f62437faf68ee895155ecfb2d6cef8d8eab7e92",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12162,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Vitoria Lopes Gomez",
+      "title": "O que \u00e9 mpox e por que ela est\u00e1 se espalhando t\u00e3o r\u00e1pido?",
+      "description": "OMS apontou que o Brasil \u00e9 o segundo pa\u00eds com mais casos da doen\u00e7a nos \u00faltimos anos, atr\u00e1s apenas dos Estados Unidos O post O que \u00e9 mpox e por que ela est\u00e1 se espalhando t\u00e3o r\u00e1pido? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/08/15/medicina-e-saude/o-que-e-mpox-e-por-que-ela-esta-se-espalhando-tao-rapido/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/08/shutterstock_2453168263-scaled.jpg",
+      "publishedAt": "2024-08-15 09:50:00",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) chamou aten\u00e7\u00e3o para dados preocupantes nesta semana: foram quase 100 mil casos contabilizados de mpox em 116 pa\u00edses entre janeiro de 2022 e junho de 2024, com mai\u2026 [+6300 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.890918",
+      "internal_id": "431401ca9169c0ff605583bf616d36b2f4f4e5c34e652262c5b846e1893a68c7",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12132,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "In a medical breakthrough, first phase-3 dengue vaccine trial begins in India",
+      "description": "India started its inaugural phase 3 clinical trial for the DengiAll dengue vaccine, developed by Panacea Biotec. The trial will include 10,335 healthy adults at 19 sites across various states, supported by the Indian Council of Medical Research. Health Minist\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/in-a-medical-breakthrough-first-phase-3-dengue-vaccine-trial-begins-in-india/articleshow/112543294.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-112544404,width-1200,height-630,imgsize-41614,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-08-15 08:56:45",
+      "content": "On Wednesday, India began its first-ever phase 3 clinical trial for a dengue vaccine. The first person to receive the vaccine, called DengiAll, was administered the dose in Rohtak, Haryana.DengiAll i\u2026 [+1463 chars]",
+      "retrievedAt": "2024-08-16 19:06:32.098448",
+      "internal_id": "69a17fd0a9a51f2ae27ab0a939b25430e7d636382ca0327da0647a1269991345",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12131,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Oropouche Virus Kills 2 In Brazil: All About The Rare Disease",
+      "description": "Currently, there is no vaccine available for the virus, which belongs to the same family of diseases as Zika virus and Dengue fever.",
+      "url": "https://www.ndtv.com/world-news/oropouche-virus-kills-2-in-brazil-all-about-the-rare-disease-6342789",
+      "urlToImage": "https://c.ndtvimg.com/2024-08/q7fje41_oropouche-virus-_625x300_15_August_24.jpeg",
+      "publishedAt": "2024-08-15 08:02:15",
+      "content": "The symptoms of the disease can last up to seven days. An insect-borne virus has emerged in South America and two deaths were reported in two young Brazilian women due to the same. The women had no \u2026 [+2411 chars]",
+      "retrievedAt": "2024-08-16 19:06:32.081908",
+      "internal_id": "9dbfa47ff2824f7d48e04218936ec0fa4fb7d4f15022832c9f6951ec66f35f01",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12141,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Presse-citron",
+      "author": "Camille Coirault",
+      "title": "L\u2019OMS lance son plus grand niveau d\u2019alerte \u00e0 cause de cette nouvelle \u00e9pid\u00e9mie internationale",
+      "description": "Face \u00e0 une r\u00e9surgence alarmante du Mpox en Afrique, l'OMS d\u00e9clenche son plus haut niveau d'alerte mondiale.",
+      "url": "https://www.presse-citron.net/loms-lance-son-plus-grand-niveau-dalerte-a-cause-de-cette-nouvelle-epidemie-internationale/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2024/08/pexels-polina-tankilevitch-3873188.jpg",
+      "publishedAt": "2024-08-15 07:44:11",
+      "content": "Les craintes de l\u2019OMS semblent se confirmer. Apr\u00e8s avoir actualis\u00e9 sa liste de pathog\u00e8nes dangereux il y a moins de 10 jours en y incluant, entre autres, la Mpox (ou variole du singe), l\u2019agence passe\u2026 [+4456 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.664097",
+      "internal_id": "fd667f1ffbc20c5f4ad5907bd93bad5cad4a760f5a40931592190799b8c445c1",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12149,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Oliver Tapia, Oliver Tapia",
+      "title": "3 cosas que debes saber sobre mpox, declarada emergencia de salud internacional",
+      "description": "La Organizaci\u00f3n Mundial de la Salud ha declarado, por segunda vez en dos a\u00f1os, al mpox como una emergencia de salud p\u00fablica de importancia internacional.\u00bfQu\u00e9 es mpox?Mpox, antes conocida como viruela del mono o viruela s\u00edmica, es una zoonosis viral causada po\u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/cosas-que-debes-saber-sobre-mpox-declarada-emergencia-salud-internacional-por-segunda-vez-dos-anos_23021",
+      "urlToImage": "https://content.nationalgeographic.com.es/medio/2024/08/14/shutterstock-2159713933_f58e2e24_240814203015_1200x630.jpg",
+      "publishedAt": "2024-08-15 07:35:00",
+      "content": "La Organizaci\u00f3n Mundial de la Salud ha declarado, por segunda vez en dos a\u00f1os, al mpox como una emergencia de salud p\u00fablica de importancia internacional. Oliver Tapia \u00bfQu\u00e9 es mpox? Mpox, antes con\u2026 [+3256 chars]",
+      "retrievedAt": "2024-08-16 19:06:33.742255",
+      "internal_id": "7778a93640bcbac3b460aca1b38b41f6c3577e1980a20b79e9bc9743184687bc",
+      "publishedAtLabel": "Aug 15"
+    },
     {
       "id": 12111,
       "query": [
@@ -26340,114 +27169,6 @@
       "retrievedAt": "2024-07-02 07:06:48.077631",
       "internal_id": "eb269e69585d68dfe518c542b505097473346f8359eb87920d7c6267b46e1572",
       "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 10662,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Times News Network",
-      "title": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
-      "description": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
-      "url": "https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-06-30 18:55:54",
-      "content": "Unforgettable train journeys across Indias best landscape",
-      "retrievedAt": "2024-07-01 19:06:27.850727",
-      "internal_id": "8e5ccf841780d17f0e928a4e5489025e0527981bb917e8ea39cfab18fffcdd41",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10664,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "BY DR. ITAY GAL",
-      "title": "First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak",
-      "description": "An expert explained to Maariv that a mosquito subspecies that can transmit the disease is already present in Israel, and climate change will bring the spread of fever closer",
-      "url": "https://www.jpost.com/health-and-wellness/article-808379",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/607075",
-      "publishedAt": "2024-06-30 18:10:43",
-      "content": "Israel has received its first warning of the deadly dengue fever approaching the region from the Far East and South America, now that the Health Ministry has announced 7 cases of infection with the d\u2026 [+4566 chars]",
-      "retrievedAt": "2024-07-01 19:06:30.007312",
-      "internal_id": "f696471ffdcf720ec6041eaa59ea3bdff84ae060a8c9e02e5cad73903d856551",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10667,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.pl",
-      "author": "Anna Kurek",
-      "title": "Eksperci martwi\u0105 si\u0119 nowym wariantem ospy. \"Wszystkie kraje powinny si\u0119 przygotowa\u0107\"",
-      "description": "Od czasu globalnej epidemii ospy ma\u0142piej w 2022 r. wirus nie znikn\u0105\u0142. Nadal stosunkowo szybko mutuje i coraz lepiej przystosowuje si\u0119 do ludzkiego \u015brodowiska.",
-      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html",
-      "urlToImage": "https://bi.im-g.pl/im/b8/84/1b/z28855224IER,W-Teksasie-zmarl-pierwszy-zakazony-wirusem-malpiej.jpg",
-      "publishedAt": "2024-06-30 15:28:00",
-      "content": "Mpox (dawna nazwa choroby - ospa mapia) to choroba zakana wywoywana przez wirusa MPXV. To dwuniciowy wirus DNA, kt\u00f3ry moe zakaa zwierzta i ludzi. Ten wirus jest powizany z wirusem ospy prawdziwej, os\u2026 [+4722 chars]",
-      "retrievedAt": "2024-07-01 19:06:32.471069",
-      "internal_id": "3f57cb6795f86b906367160cbb7ec6b7f97ab4628db96bc6084e999f99c65e47",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10666,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Trudie Lang, L\u00e9andre Murhula  Masirika, Jean Claude Udahemuka, Sascha Karberg",
-      "title": "Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?",
-      "description": "Ein Mpox-Stamm hat es bereits nach Europa und Amerika geschafft, mit glimpflichen Folgen. Doch eine neue Variante macht Virologen gro\u00dfe Sorgen. Die Nachbarl\u00e4nder der Republik Kongo sind bereits betroffen.",
-      "url": "https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/pocken03-affenpockenvirus2/alternates/BASE_16_9_W1400/pocken03-affenpockenvirus.jpeg",
-      "publishedAt": "2024-06-30 14:06:42",
-      "content": "Eine neue, deutlich aggressivere Variante des Pockenvirus Mpox (ehemals Monkeypox/Affenpocken genannt) hat an der Grenze der Demokratischen Republik Kongo (DRC) zu Uganda, Burundi und Ruanda einen si\u2026 [+180 chars]",
-      "retrievedAt": "2024-07-01 19:06:32.465695",
-      "internal_id": "b22aeec5d2b3d03786c50980f11086c786e4170a8111564d040b8e93e66ca1be",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10665,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-washington-post",
-      "source_name": "The Washington Post",
-      "author": "Lena H. Sun, Sarah Kaplan",
-      "title": "Dengue fever is surging worldwide. A hotter planet will make it worse.",
-      "description": "Climate change helped fuel an explosion of dengue cases in the Americas, including Puerto Rico, as mosquitoes multiply in warmer, wetter weather.",
-      "url": "https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYCGCBYE4YSDRHV6JYIJ7VUUB4.JPG&w=1440",
-      "publishedAt": "2024-06-30 13:00:36",
-      "content": "SAN JUAN, Puerto Rico The curly-haired girl came to theemergency roomwith fever, aches and signs of dehydration,common indications of many childhood illnesses.But the 9-year-old pale and listless ben\u2026 [+15886 chars]",
-      "retrievedAt": "2024-07-01 19:06:30.033250",
-      "internal_id": "1db6632ce959c23f1a08cc59e6a74815d7cb7bf3b9e821a2864a4fbcd1c576d3",
-      "publishedAtLabel": "Jun 30"
-    },
-    {
-      "id": 10663,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
-      "title": "\u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0631\u0627 \u062c\u062f\u06cc \u0628\u06af\u06cc\u0631\u06cc\u0645",
-      "description": "\u0645\u0639\u0627\u0648\u0646 \u0628\u0647\u062f\u0627\u0634\u062a \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0645\u0634\u0647\u062f \u06af\u0641\u062a: \u062a\u0628 \u062f\u0646\u06af\u06cc \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0646\u06cc\u0632 \u0634\u0646\u0627\u062e\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f\u061b \u0686\u0631\u0627\u06a9\u0647 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u062f\u0631\u062f \u0634\u062f\u06cc\u062f \u062d\u0627\u0635\u0644 \u0627\u0632 \u0622\u0646 \u0628\u06cc\u0645\u0627\u0631 \u062a\u0635\u0648\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0627\u0633\u062a\u062e\u0648\u0627\u0646\u200c\u0647\u0627\u06cc\u0634 \u062f\u0631 \u062d\u0627\u0644 \u0634\u06a9\u0633\u062a\u0646 \u0627\u0633\u062a.",
-      "url": "https://www.isna.ir/news/1403041006560/\u062a\u0628-\u0627\u0633\u062a\u062e\u0648\u0627\u0646-\u0634\u06a9\u0646-\u0631\u0627-\u062c\u062f\u06cc-\u0628\u06af\u06cc\u0631\u06cc\u0645",
-      "urlToImage": "https://cdn.isna.ir/d/2022/09/13/4/62379201.jpg?ts=1663057108264",
-      "publishedAt": "2024-06-30 09:36:56",
-      "content": "/ : \u00ab \u00bb . : (Dengue fever) . : . : . : \u00ab \u00bb . : . : . : . : . : . : . : #",
-      "retrievedAt": "2024-07-01 19:06:30.001513",
-      "internal_id": "62958486975b7ce354cab8c73e564ae10f145bbfb70fc1440c1c9a2d41e90cb0",
-      "publishedAtLabel": "Jun 30"
     }
   ]
 }
