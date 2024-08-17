@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-08-17 07:05
-- **Most recent article:** 2024-08-16 06:59:00
+- **New articles in last harvest:** 34
+- **Last harvest:** 2024-08-17 19:05
+- **Most recent article:** 2024-08-16 18:32:13
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 21 | 26 | 17 | 16 | 26 | 139 | 225 | 470 |
-| dengue | 52 | 95 | 62 | 63 | 55 | 46 | 41 | 414 |
-| h5n1 | 59 | 52 | 62 | 38 | 21 | 6 | 7 | 245 |
-| malaria | 15 | 14 | 31 | 16 | 15 | 16 | 15 | 122 |
-| zika | 20 | 12 | 6 | 10 | 12 | 11 | 8 | 79 |
-| measles | 9 | 12 | 19 | 22 | 8 | 6 | 2 | 78 |
-| rabies | 4 | 2 | 17 | 8 | 12 | 8 | 10 | 61 |
-| chikungunya | 6 | 6 | 10 | 7 | 6 | 4 | 7 | 46 |
+| mpox | 19 | 26 | 17 | 16 | 26 | 139 | 248 | 491 |
+| dengue | 49 | 95 | 62 | 63 | 55 | 46 | 46 | 416 |
+| h5n1 | 59 | 52 | 62 | 38 | 21 | 6 | 8 | 246 |
+| malaria | 15 | 14 | 31 | 16 | 15 | 16 | 17 | 124 |
+| zika | 20 | 12 | 6 | 10 | 12 | 11 | 10 | 81 |
+| measles | 9 | 12 | 19 | 22 | 8 | 6 | 3 | 79 |
+| rabies | 3 | 2 | 17 | 8 | 12 | 8 | 10 | 60 |
+| chikungunya | 6 | 6 | 10 | 7 | 6 | 4 | 8 | 47 |
+| meningitis | 3 | 5 | 3 | 2 | 3 | 6 | 3 | 25 |
 | hpai | 3 | 5 | 6 | 3 | 4 | 1 | 1 | 23 |
 | pertussis | 1 | 2 | 0 | 5 | 5 | 6 | 3 | 22 |
-| meningitis | 3 | 5 | 3 | 2 | 3 | 6 | 0 | 22 |
 | leptospirosis | 1 | 3 | 4 | 1 | 2 | 2 | 2 | 15 |
 | typhoid | 4 | 6 | 1 | 3 | 1 | 0 | 0 | 15 |
 | yersinia | 0 | 6 | 0 | 2 | 1 | 1 | 0 | 10 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-33 (zika)
+
+- [Newly discovered mechanism for propagation of flaviviruses reveals potential therapeutic target](https://phys.org/news/2024-08-newly-mechanism-propagation-flaviviruses-reveals.html) (Phys.Org)
+
+- [Zika, Dengue, Chikungunya, West Nile e e gli altri arbovirus – Lo studio Genesis e i meccanismi non ancora del tutto compresi](https://www.ilfattoquotidiano.it/2024/08/16/zika-dengue-chikungunya-west-nile-e-le-altre-arbovirosi-lo-studio-genesis-per-capire-alcuni-meccanismi-non-ancora-del-tutto-compresi/7660154/) (Ilfattoquotidiano.it)
 
 - [Importin-7-dependent nuclear translocation of the Flavivirus core protein is required for infectious virus production](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012409) (Plos.org)
 
@@ -82,6 +86,52 @@ Source: [News API](https://newsapi.org/)
 - [Gyorsulva terjed Magyarországon a fertőzés, ami halálos is lehet](https://www.portfolio.hu/gazdasag/20240812/gyorsulva-terjed-magyarorszagon-a-fertozes-ami-halalos-is-lehet-703695) (Portfolio.hu)
 
 ## 24-33 (mpox)
+
+- [Face au virus mpox, la France « en état de vigilance maximale », annonce Attal](https://www.huffingtonpost.fr/france/article/face-au-virus-mpox-la-france-en-etat-de-vigilance-maximale-annonce-attal_238468.html) (Le HuffPost)
+
+- [Crash d’un avion au Lavandou, Mpox, attaque mortelle en Cisjordanie… L’actu de ce 16 août](https://www.liberation.fr/international/europe/crash-dun-avion-au-lavandou-mpox-attaque-mortelle-en-cisjordanie-lactu-de-ce-16-aout-20240816_JDYSH2TMFFBUVKUPSAGTY4ZB6E/) (Libération)
+
+- [Mpox: «Il faut adopter une véritable politique de prévention» des épidémies](https://www.mediapart.fr/journal/international/160824/mpox-il-faut-adopter-une-veritable-politique-de-prevention-des-epidemies) (Mediapart)
+
+- [Mpox cases confirmed in Europe, Asia amid global ‘public health emergency’](https://www.aljazeera.com/program/newsfeed/2024/8/16/mpox-cases-confirmed-in-europe-asia-amid-global-public-health) (Al Jazeera English)
+
+- [Casi el 50% de quienes que se vacunaron contra la viruela del mono no completaron su pauta. Sanidad acaba de enviar un recordatorio](https://www.xataka.com/medicina-y-salud/casi-50-quienes-que-se-vacunaron-viruela-mono-no-completaron-su-pauta-sanidad-acaba-enviar-recordatorio) (Xataka.com)
+
+- [The WHO Declared Mpox a Global Health Emergency. Here's Where the Virus Is Spreading and What Vaccines and Treatments Exist](https://www.scientificamerican.com/article/the-who-declared-mpox-a-global-health-emergency-heres-where-the-virus-is/) (Scientific American)
+
+- [Lauterbach sieht keine große Mpox-Gefahr für Bevölkerung](https://www.tagesschau.de/inland/innenpolitik/lauterbach-mpox-einschaetzung-100.html) (tagesschau.de)
+
+- [Mpox, Explained: What To Know About Variants, Vaccines And Where Outbreaks Are After WHO Sounds Alarm](https://www.forbes.com/sites/roberthart/2024/08/16/mpox-explained-what-to-know-about-variants-vaccines-and-where-outbreaks-are-after-who-sounds-alarm/) (Forbes)
+
+- [WHO Declares Mpox A Public Health Emergency—Here’s What To Know](https://www.forbes.com/sites/roberthart/2024/08/16/who-declares-mpox-a-public-health-emergency-heres-what-to-know/) (Forbes)
+
+- [La nouvelle épidémie de mpox (variole du singe) a été repérée en Europe](https://www.numerama.com/sciences/1791788-la-nouvelle-epidemie-de-mpox-variole-du-singe-a-ete-reperee-en-europe.html) (Numerama)
+
+- [Vacunas contra la mpox o viruela del mono: cuántas y cuáles son](https://www.nationalgeographic.com.es/ciencia/vacunas-contra-viruela-mpox-respuesta-emergente-ante-crisis-global_23025) (Nationalgeographic.com.es)
+
+- ["Decolonize Global Health": WHO Declares Mpox Public Health Emergency as Africa Awaits Vaccines](https://www.democracynow.org/2024/8/16/mpox_vaccine_africa_s_wait_continues) (Democracy Now!)
+
+- [Forbes Daily: Walmart’s Record Results Lift Investors’ Spirits](https://www.forbes.com/sites/daniellechemtob/2024/08/16/forbes-daily-walmarts-record-results-lift-investors-spirits/) (Forbes)
+
+- [Krankheiten: Höchste Alarmstufe wegen Mpox - was bedeutet das?](https://www.zeit.de/news/2024-08/16/hoechste-alarmstufe-wegen-mpox-was-bedeutet-das) (Die Zeit)
+
+- [Pakistan says at least one case of mpox virus detected](https://www.aljazeera.com/news/2024/8/16/pakistan-says-at-least-one-case-of-mpox-virus-detected) (Al Jazeera English)
+
+- [Mpox, l’Oms teme altri casi della forma più letale del vaiolo delle scimmie in Europa. L’Italia rafforza sorveglianza. L’alleanza dei vaccini: “Prepariamo scorta globale”](https://www.ilfattoquotidiano.it/2024/08/16/mpox-loms-teme-altri-casi-della-forma-piu-letale-del-vaiolo-delle-scimmie-in-europa-litalia-rafforza-sorveglianza-lalleanza-dei-vaccini-prepariamo-scorta-globale/7660093/) (Ilfattoquotidiano.it)
+
+- [Travellers advised to consider mpox vaccine](https://www.bbc.com/news/articles/c4gd2p04405o) (BBC News)
+
+- [Nach Ausruf von Warnstufe: Behörde erwartet mehr eingeführte Mpox-Fälle in Europa](https://www.zeit.de/news/2024-08/16/behoerde-erwartet-mehr-eingefuehrte-mpox-faelle-in-europa) (Die Zeit)
+
+- [Los principales síntomas de la viruela del mono por los que deberíamos ir rápido al hospital](https://www.marca.com/bienestar/salud/2024/08/16/66bf1bf346163ff36c8b4589.html) (Marca)
+
+- [La variole du singe (mpox) est arrivée en Europe](https://www.presse-citron.net/la-variole-du-singe-mpox-est-arrivee-en-europe/) (Presse-citron)
+
+- [Auch Pakistan meldet ersten Mpox-Fall](https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-ausbrueche-pakistan-meldet-ersten-infektionsfall-19923044.html) (Faz.net)
+
+- [China verschärft wegen Mpox-Ausbreitung Kontrollen bei Einreise](https://www.tagesschau.de/ausland/asien/mpox-china-einreisekontrollen-100.html) (tagesschau.de)
+
+- [Mpox en Europe, typhon au Japon, «pogrom» en Cisjordanie… L’actu de ce vendredi 16 août matin](https://www.liberation.fr/international/europe/mpox-en-europe-typhon-au-japon-pogrom-en-cisjordanie-lactu-de-ce-vendredi-16-aout-matin-20240816_HUVB7O2A6RHRLICNT7OKUHHPGQ/) (Libération)
 
 - [Erster Fall in Europa: Mpox in Schweden diagnostiziert](https://taz.de/Erster-Fall-in-Europa/!6030523/) (taz.de)
 
@@ -533,13 +583,27 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox: Σε συναγερμό ο ΠΟΥ για την ευλογιά των πιθήκων](https://www.skai.gr/news/health/mpox-pou-synedriazei-i-epitropi-antimetopisis-kriseon-gia-tin-eylogia-ton-pithikon) (Skai.gr)
 
+## 24-33 (meningitis)
+
+- [Friday, August 16, 2024](https://kffhealthnews.org/morning-briefing/friday-august-16-2024/) (Kffhealthnews.org)
+
+- [WHO reports 300 cholera deaths in Sudan, warns dengue and meningitis rising](https://www.aljazeera.com/news/2024/8/16/who-reports-300-cholera-deaths-in-sudan-warns-dengue-and-meningitis-rising) (Al Jazeera English)
+
+- [Indemnización de 125.000 euros a los padres de un niño fallecido tras la "mala praxis" del hospital La Fe de València](https://www.meneame.net/m/actualidad/indemnizacion-125-000-euros-padres-nino-fallecido-tras-mala-fe) (Meneame.net)
+
 ## 24-33 (measles)
+
+- [The Viral Paleontologist Who Unearths Pathogens’ Deep Histories](https://www.quantamagazine.org/the-viral-paleontologist-who-unearths-pathogens-deep-histories-20240816/) (Quanta Magazine)
 
 - [Ministry of Education warns NZ at high risk of measles outbreak due to childhood immunisation rates](https://www.nzherald.co.nz/nz/ministry-of-education-warns-nz-at-high-risk-of-measles-outbreak-due-to-childhood-immunisation-rates/WOLBR6AE2VA6XFV5AMUGCPQRME/) (New Zealand Herald)
 
 - [Measles: 87 confirmed cases in Ireland so far this year](https://www.thejournal.ie/measles-87-confirmed-cases-in-ireland-so-far-this-year-6462707-Aug2024/) (TheJournal.ie)
 
 ## 24-33 (malaria)
+
+- [Neutrophil activation, acute lung injury and disease severity in Plasmodium knowlesi malaria](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012424) (Plos.org)
+
+- [Una vacuna candidata contra la malaria demuestra una protección duradera en los ensayos](https://www.infosalus.com/salud-investigacion/noticia-vacuna-candidata-contra-malaria-demuestra-proteccion-duradera-ensayos-20240816151145.html) (Infosalus.com)
 
 - [Air pollution in South Africa: Affordable new devices use AI to monitor hotspots in real time](https://techxplore.com/news/2024-08-air-pollution-south-africa-devices.html) (Tech Xplore)
 
@@ -583,6 +647,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-33 (h5n1)
 
+- [Megállíthatatlanul terjed a járvány: már a házi macskák között is felütötte a fejét](https://www.portfolio.hu/global/20240816/megallithatatlanul-terjed-a-jarvany-mar-a-hazi-macskak-kozott-is-felutotte-a-fejet-704447) (Portfolio.hu)
+
 - ['Hard to know how grim it's going to be': Scientists wargame for bird flu spread to Australia's Antarctic territory](https://www.abc.net.au/news/2024-08-15/team-preparing-for-bird-flu-outbreak-on-macquarie-island/104223138) (ABC News (AU))
 
 - [Gripe das aves detetada em gaivotas em Aveiro e Leiria. Há perigo para humanos?](https://observador.pt/2024/08/14/gripe-das-aves-detetada-em-gaivotas-em-aveiro-e-leiria-ha-perigo-para-humanos/) (Observador.pt)
@@ -598,6 +664,16 @@ Source: [News API](https://newsapi.org/)
 - [Confirmado: la gripe aviar se está extendiendo entre los mamíferos](https://www.muyinteresante.com/ciencia/65707.html) (Muyinteresante.com)
 
 ## 24-33 (dengue)
+
+- [Ponda logs 1st dengue death](https://timesofindia.indiatimes.com/city/goa/ponda-logs-1st-dengue-death/articleshow/112575166.cms) (The Times of India)
+
+- [Recovering From Dengue, Pacer Umran Reveals Future Plans To Improve Skills](https://sports.ndtv.com/cricket/recovering-from-dengue-pacer-umran-malik-reveals-future-plans-to-improve-skills-6334167) (NDTV News)
+
+- [Newly discovered mechanism for propagation of flaviviruses reveals potential therapeutic target](https://phys.org/news/2024-08-newly-mechanism-propagation-flaviviruses-reveals.html) (Phys.Org)
+
+- [WHO reports 300 cholera deaths in Sudan, warns dengue and meningitis rising](https://www.aljazeera.com/news/2024/8/16/who-reports-300-cholera-deaths-in-sudan-warns-dengue-and-meningitis-rising) (Al Jazeera English)
+
+- [Zika, Dengue, Chikungunya, West Nile e e gli altri arbovirus – Lo studio Genesis e i meccanismi non ancora del tutto compresi](https://www.ilfattoquotidiano.it/2024/08/16/zika-dengue-chikungunya-west-nile-e-le-altre-arbovirosi-lo-studio-genesis-per-capire-alcuni-meccanismi-non-ancora-del-tutto-compresi/7660154/) (Ilfattoquotidiano.it)
 
 - [Dengue cases cross 10k mark](https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-in-bengaluru-cross-10000-mark/articleshow/112553648.cms) (The Times of India)
 
@@ -682,6 +758,8 @@ Source: [News API](https://newsapi.org/)
 - [Infektionskrankheiten: Oropouche-Virus breitet sich in Lateinamerika aus](https://www.stern.de/panorama/wissen/infektionskrankheiten--oropouche-virus-breitet-sich-in-lateinamerika-aus-34971470.html) (STERN.de)
 
 ## 24-33 (chikungunya)
+
+- [Zika, Dengue, Chikungunya, West Nile e e gli altri arbovirus – Lo studio Genesis e i meccanismi non ancora del tutto compresi](https://www.ilfattoquotidiano.it/2024/08/16/zika-dengue-chikungunya-west-nile-e-le-altre-arbovirosi-lo-studio-genesis-per-capire-alcuni-meccanismi-non-ancora-del-tutto-compresi/7660154/) (Ilfattoquotidiano.it)
 
 - [不只登革熱，蚊子還會傳播慢性關節炎病毒](https://technews.tw/2024/08/15/is-chikungunya-more-dangerous-than-you-think/) (Technews.tw)
 
@@ -3101,8 +3179,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mission Rabies to vaccinate dogs across Tiswadi taluka](https://timesofindia.indiatimes.com/city/goa/mission-rabies-to-vaccinate-dogs-across-tiswadi-taluka/articleshow/111495788.cms) (The Times of India)
 
-- [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
-
 ## 24-27 (pertussis)
 
 - [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
@@ -3146,10 +3222,6 @@ Source: [News API](https://newsapi.org/)
 - [Starliner Astronauts Are in Limbo, and Emergency Access to Abortion Is Preserved](https://www.scientificamerican.com/podcast/episode/starliner-astronauts-are-in-limbo-and-emergency-access-to-abortion-is/) (Scientific American)
 
 - [Advocates use end of Pride Month to warn about Mpox](https://www.cbsnews.com/video/advocates-use-end-of-pride-month-to-warn-about-mpox/) (CBS News)
-
-- [Eksperci martwią się nowym wariantem ospy. "Wszystkie kraje powinny się przygotować"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html) (Gazeta.pl)
-
-- [Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?](https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html) (Der Tagesspiegel)
 
 ## 24-27 (meningitis)
 
@@ -3442,12 +3514,6 @@ Source: [News API](https://newsapi.org/)
 - [Surging dengue virus in Bengaluru poses threat to women, kids: Doctors](https://timesofindia.indiatimes.com/city/bengaluru/surging-dengue-virus-in-bengaluru-poses-threat-to-women-kids-doctors/articleshow/111392899.cms) (The Times of India)
 
 - [BBMP audit confirms 1 dengue death, 213 new cases in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-audit-confirms-1-dengue-death-213-new-cases-in-bengaluru/articleshow/111390828.cms) (The Times of India)
-
-- [First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak](https://www.jpost.com/health-and-wellness/article-808379) (The Jerusalem Post)
-
-- [Dengue fever is surging worldwide. A hotter planet will make it worse.](https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/) (The Washington Post)
-
-- [«تب استخوان شکن» را جدی بگیریم](https://www.isna.ir/news/1403041006560/تب-استخوان-شکن-را-جدی-بگیریم) (Isna.ir)
 
 ## 24-27 (chikungunya)
 
