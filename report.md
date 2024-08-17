@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 46
-- **Last harvest:** 2024-08-16 19:06
-- **Most recent article:** 2024-08-15 18:41:31
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-08-17 07:05
+- **Most recent article:** 2024-08-16 06:59:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-27 | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 19 | 26 | 17 | 16 | 26 | 139 | 212 | 455 |
-| dengue | 49 | 95 | 62 | 63 | 55 | 46 | 37 | 407 |
+| mpox | 21 | 26 | 17 | 16 | 26 | 139 | 225 | 470 |
+| dengue | 52 | 95 | 62 | 63 | 55 | 46 | 41 | 414 |
 | h5n1 | 59 | 52 | 62 | 38 | 21 | 6 | 7 | 245 |
-| malaria | 15 | 14 | 31 | 16 | 15 | 16 | 14 | 121 |
+| malaria | 15 | 14 | 31 | 16 | 15 | 16 | 15 | 122 |
 | zika | 20 | 12 | 6 | 10 | 12 | 11 | 8 | 79 |
 | measles | 9 | 12 | 19 | 22 | 8 | 6 | 2 | 78 |
-| rabies | 3 | 2 | 17 | 8 | 12 | 8 | 10 | 60 |
+| rabies | 4 | 2 | 17 | 8 | 12 | 8 | 10 | 61 |
 | chikungunya | 6 | 6 | 10 | 7 | 6 | 4 | 7 | 46 |
 | hpai | 3 | 5 | 6 | 3 | 4 | 1 | 1 | 23 |
 | pertussis | 1 | 2 | 0 | 5 | 5 | 6 | 3 | 22 |
@@ -82,6 +82,32 @@ Source: [News API](https://newsapi.org/)
 - [Gyorsulva terjed Magyarországon a fertőzés, ami halálos is lehet](https://www.portfolio.hu/gazdasag/20240812/gyorsulva-terjed-magyarorszagon-a-fertozes-ami-halalos-is-lehet-703695) (Portfolio.hu)
 
 ## 24-33 (mpox)
+
+- [Erster Fall in Europa: Mpox in Schweden diagnostiziert](https://taz.de/Erster-Fall-in-Europa/!6030523/) (taz.de)
+
+- [Schwede infiziert – Neue Mpox-Variante erstmals in Europa nachgewiesen](https://www.welt.de/vermischtes/video253031330/Affenpocken-Schwede-infiziert-Neue-Mpox-Variante-erstmals-in-Europa-nachgewiesen.html) (DIE WELT)
+
+- [China erschwert Einreise für Menschen aus Mpox-Gebieten](https://www.faz.net/aktuell/gesellschaft/gesundheit/china-erschwert-einreise-fuer-menschen-aus-mpox-gebieten-19923044.html) (Faz.net)
+
+- [Cổ phiếu nhiều hãng dược tăng cao sau khi WHO tuyên bố tình trạng khẩn cấp về mpox (đậu mùa khỉ)](https://tinhte.vn/thread/co-phieu-nhieu-hang-duoc-tang-cao-sau-khi-who-tuyen-bo-tinh-trang-khan-cap-ve-mpox-dau-mua-khi.3817305/) (Tinhte.vn)
+
+- [Ukraine, Mpox, Matthew Perry, États-Unis, Groenland : les informations de la nuit](https://www.courrierinternational.com/article/pendant-que-vous-dormiez-ukraine-mpox-matthew-perry-etats-unis-groenland-les-informations-de-la-nuit_221219) (Courrier International)
+
+- [Viruserkrankung Mpox: Das nächste große Virus](https://www.zeit.de/politik/2024-08/viruserkrankung-mpox-who-nachrichtenpodcast) (Die Zeit)
+
+- [Virusausbruch in Afrika: China erschwert Einreise für Menschen aus Mpox-Gebieten](https://www.zeit.de/news/2024-08/16/china-erschwert-einreise-fuer-menschen-aus-mpox-gebieten) (Die Zeit)
+
+- [OUT OF AFRICA: WHO warns more monkey pox to come in Europe after case in Sweden...](https://www.barrons.com/articles/mpox-killed-548-people-in-dr-congo-since-start-of-2024-cd9df3e4) (Barron's)
+
+- [Curves, crowns and a calabash: Africa's top shots](https://www.bbc.com/news/articles/cvg3wyk471go) (BBC News)
+
+- [¿Qué es la viruela del mono o mpox y por qué es preocupante el brote actual?](https://cnnespanol.cnn.com/2024/08/15/que-es-la-viruela-del-mono-o-mpox-y-por-que-es-preocupante-el-brote-actual/) (CNN)
+
+- [В Швеции диагностировали первый случай заражения оспой обезьян](https://lenta.ru/news/2024/08/16/v-shvetsii-diagnostirovali-pervyy-sluchay-zarazheniya-ospoy-obezyan/) (Lenta)
+
+- [This Mpox Outbreak Isn't Like the Last One](https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/) (Wired)
+
+- [Neue Mpox-Variante in Europa – China erschwert Einreise aus betroffenen Gebieten](https://www.welt.de/vermischtes/weltgeschehen/article253030424/Affenpocken-Erster-Fall-von-neuer-Mpox-Variante-in-Europa-nachgewiesen-China-erschwert-Einreise.html) (DIE WELT)
 
 - [Sweden reports 1st case of deadlier mpox outside Africa](https://www.livescience.com/health/viruses-infections-disease/tk-sweden-mpox) (Live Science)
 
@@ -521,6 +547,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Candidate malaria vaccine provides lasting protection in NIH-sponsored trials](https://www.sciencedaily.com/releases/2024/08/240814185758.htm) (Science Daily)
 
+- [Trojan horse method gives malaria parasites a taste of their own medicine](https://www.sciencedaily.com/releases/2024/08/240814124633.htm) (Science Daily)
+
 - [Trojan horse method gives malaria parasites a taste of their own medicine](https://phys.org/news/2024-08-trojan-horse-method-malaria-parasites.html) (Phys.Org)
 
 - [Air pollution in South Africa: affordable new devices use AI to monitor hotspots in real time](https://theconversation.com/air-pollution-in-south-africa-affordable-new-devices-use-ai-to-monitor-hotspots-in-real-time-235897) (The Conversation Africa)
@@ -571,9 +599,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-33 (dengue)
 
+- [Dengue cases cross 10k mark](https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-in-bengaluru-cross-10000-mark/articleshow/112553648.cms) (The Times of India)
+
+- [Fiebre de oropouche, la enfermedad infecciosa que crece en Brasil y generó una alerta regional](https://www.lanacion.com.ar/sociedad/fiebre-de-oropouche-la-enfermedad-infecciosa-que-crece-en-brasil-y-genero-una-alerta-regional-nid15082024/) (La Nacion)
+
 - [Manter a febre sob controle é fundamental em casos de Dengue](https://www.terra.com.br/noticias/manter-a-febre-sob-controle-e-fundamental-em-casos-de-dengue,23481267719ae242ac88bb8e9d53c7b2szmwe2wj.html) (Terra.com.br)
 
 - [Practice determinants for adherence to the Guide for the Comprehensive Clinical Care of Dengue Patients, Urabá (Colombia). A multifaceted approach to implementation research](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012361) (Plos.org)
+
+- [Importin-7-dependent nuclear translocation of the Flavivirus core protein is required for infectious virus production](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012409) (Plos.org)
+
+- [Manter a febre sob controle é fundamental em casos de Dengue](https://www.dino.com.br/releases/manter-a-febre-sob-controle-e-fundamental-em-casos-de-dengue-dino890306661131) (Dino.com.br)
 
 - [In a medical breakthrough, first phase-3 dengue vaccine trial begins in India](https://economictimes.indiatimes.com/industry/healthcare/biotech/in-a-medical-breakthrough-first-phase-3-dengue-vaccine-trial-begins-in-india/articleshow/112543294.cms) (The Times of India)
 
@@ -3065,6 +3101,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mission Rabies to vaccinate dogs across Tiswadi taluka](https://timesofindia.indiatimes.com/city/goa/mission-rabies-to-vaccinate-dogs-across-tiswadi-taluka/articleshow/111495788.cms) (The Times of India)
 
+- [Pet dog & stray canine test positive for rabies at Divar, vaccine drive on](https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms) (The Times of India)
+
 ## 24-27 (pertussis)
 
 - [North Bay Parry Sound District Health Unit Declares Whooping Cough Outbreak](https://705blackfly.com/north-bay-parry-sound-district-health-unit-declares-whooping-cough-outbreak/) (705blackfly.com)
@@ -3108,6 +3146,10 @@ Source: [News API](https://newsapi.org/)
 - [Starliner Astronauts Are in Limbo, and Emergency Access to Abortion Is Preserved](https://www.scientificamerican.com/podcast/episode/starliner-astronauts-are-in-limbo-and-emergency-access-to-abortion-is/) (Scientific American)
 
 - [Advocates use end of Pride Month to warn about Mpox](https://www.cbsnews.com/video/advocates-use-end-of-pride-month-to-warn-about-mpox/) (CBS News)
+
+- [Eksperci martwią się nowym wariantem ospy. "Wszystkie kraje powinny się przygotować"](https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html) (Gazeta.pl)
+
+- [Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?](https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html) (Der Tagesspiegel)
 
 ## 24-27 (meningitis)
 
@@ -3400,6 +3442,12 @@ Source: [News API](https://newsapi.org/)
 - [Surging dengue virus in Bengaluru poses threat to women, kids: Doctors](https://timesofindia.indiatimes.com/city/bengaluru/surging-dengue-virus-in-bengaluru-poses-threat-to-women-kids-doctors/articleshow/111392899.cms) (The Times of India)
 
 - [BBMP audit confirms 1 dengue death, 213 new cases in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/bbmp-audit-confirms-1-dengue-death-213-new-cases-in-bengaluru/articleshow/111390828.cms) (The Times of India)
+
+- [First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak](https://www.jpost.com/health-and-wellness/article-808379) (The Jerusalem Post)
+
+- [Dengue fever is surging worldwide. A hotter planet will make it worse.](https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/) (The Washington Post)
+
+- [«تب استخوان شکن» را جدی بگیریم](https://www.isna.ir/news/1403041006560/تب-استخوان-شکن-را-جدی-بگیریم) (Isna.ir)
 
 ## 24-27 (chikungunya)
 

@@ -1,8 +1,278 @@
 {
-  "last_updated": "2024-08-16 19:06",
-  "count_articles_total": 1504,
-  "count_articles_new": 46,
+  "last_updated": "2024-08-17 07:05",
+  "count_articles_total": 1527,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 12185,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "taz. die tageszeitung",
+      "title": "Erster Fall in Europa: Mpox in Schweden diagnostiziert",
+      "description": "In Schweden wurde ein Reiser\u00fcckkehrer mit einer Mpox-Infektion diagnostiziert. China versch\u00e4rft wegen des zirkulierenden Virus die Einreisekontrollen.",
+      "url": "https://taz.de/Erster-Fall-in-Europa/!6030523/",
+      "urlToImage": "https://taz.de/picture/7186356/948/36195785-1.jpeg",
+      "publishedAt": "2024-08-16 06:59:00",
+      "content": "In Schweden wurde ein Reiser\u00fcckkehrer mit einer Mpox-Infektion diagnostiziert. China versch\u00e4rft wegen des zirkulierenden Virus die Einreisekontrollen. Am Mittwoch hat die Weltgesundheitsorganisation\u2026 [+4705 chars]",
+      "retrievedAt": "2024-08-17 07:05:58.518908",
+      "internal_id": "42cd3eac4f61e54e716b15273b62bbc7e85777a2c4bec6a656da3b933c3b2a03",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 12184,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": null,
+      "title": "Schwede infiziert \u2013 Neue Mpox-Variante erstmals in Europa nachgewiesen",
+      "description": "Zum ersten Mal ist ein Fall der neuen Variante der Affenpocken au\u00dferhalb Afrikas best\u00e4tigt worden. Bei einem in Schweden lebenden Mann ist Mpox nachgewiesen worden. Er soll sich zuvor in Afrika aufgehalten haben.",
+      "url": "https://www.welt.de/vermischtes/video253031330/Affenpocken-Schwede-infiziert-Neue-Mpox-Variante-erstmals-in-Europa-nachgewiesen.html",
+      "urlToImage": "https://img.welt.de/img/incoming/mobile253031294/1371352827-ci16x9-w1200/308706422-jpg.jpg",
+      "publishedAt": "2024-08-16 06:40:08",
+      "content": "Die WELT als ePaper: Die vollst\u00e4ndige Ausgabe steht Ihnen bereits am Vorabend zur Verf\u00fcgung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link die\u2026 [+49 chars]",
+      "retrievedAt": "2024-08-17 07:05:58.453083",
+      "internal_id": "b841cc1f6df942890ea3314fbf1090b3f6edb4db2f480b48d3637fab5a643355",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 12180,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "dpa/kjma.",
+      "title": "China erschwert Einreise f\u00fcr Menschen aus Mpox-Gebieten",
+      "description": "Wegen der j\u00fcngsten Ausbr\u00fcche von Mpox in Afrika versch\u00e4rft China seine Einreisebestimmungen. Auch der Frachtverkehr ist von den neuen Regeln betroffen, die zun\u00e4chst f\u00fcr sechs Monate gelten.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/china-erschwert-einreise-fuer-menschen-aus-mpox-gebieten-19923044.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/1673941444/1.9923069/facebook_teaser/mpox-hiessen-frueher.jpg",
+      "publishedAt": "2024-08-16 06:29:54",
+      "content": "Dies gelte von sofort an und f\u00fcr sechs Monate f\u00fcr die Einreisen \u00fcber internationale See- und Flugh\u00e4fen, hie\u00df es. Auch der Frachtverkehr sei betroffen. Welche Gebiete als betroffen gelten, richtet sic\u2026 [+1160 chars]",
+      "retrievedAt": "2024-08-17 07:05:58.346502",
+      "internal_id": "7a297d07fc71eecb85eb4a44b58bb98965cd0b0811b38737f63b5343dfb12905",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 12186,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tinhte.vn",
+      "author": "no-reply@tinhte.vn (Hassler), Hassler",
+      "title": "C\u1ed5 phi\u1ebfu nhi\u1ec1u h\u00e3ng d\u01b0\u1ee3c t\u0103ng cao sau khi WHO tuy\u00ean b\u1ed1 t\u00ecnh tr\u1ea1ng kh\u1ea9n c\u1ea5p v\u1ec1 mpox (\u0111\u1eadu m\u00f9a kh\u1ec9)",
+      "description": "G\u1ea7n nh\u01b0 ngay l\u1eadp t\u1ee9c sau khi WHO tuy\u00ean b\u1ed1 mpox l\u1ea1i trong t\u00ecnh tr\u1ea1ng kh\u1ea9n c\u1ea5p v\u1ec1 s\u1ee9c kh\u1ecfe c\u1ed9ng \u0111\u1ed3ng g\u00e2y quan ng\u1ea1i qu\u1ed1c t\u1ebf, public health emergency of international concern, PHEIC, th\u00ec c\u1ed5 phi\u1ebfu c\u00e1c h\u00e3ng d\u01b0\u1ee3c ph\u1ea9m c\u00f3 li\u00ean quan \u0111\u1ebfn vi\u1ec7c x\u00e9t nghi\u1ec7m v\u00e0\u2026",
+      "url": "https://tinhte.vn/thread/co-phieu-nhieu-hang-duoc-tang-cao-sau-khi-who-tuyen-bo-tinh-trang-khan-cap-ve-mpox-dau-mua-khi.3817305/",
+      "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8423655_cover-mpox.jpg",
+      "publishedAt": "2024-08-16 04:20:45",
+      "content": "Gn nh ngay lp tc sau khi WHO tuy\u00ean b mpox li trong t\u00ecnh trng khn cp v sc khe cng ng g\u00e2y quan ngi quc t, public health emergency of international concern, PHEIC, th\u00ec c phiu c\u00e1c h\u00e3ng dc phm c\u00f3 li\u00ean qua\u2026 [+2627 chars]",
+      "retrievedAt": "2024-08-17 07:05:58.593870",
+      "internal_id": "47d30cfaff26eeb58ac3f5e367b68519a5be1ab4cb8b953f93c9bcf454c5c9ed",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 12188,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "Ukraine, Mpox, Matthew Perry, \u00c9tats-Unis, Groenland : les informations de la nuit",
+      "description": "Kiev dit progresser en Russie. L\u2019Ukraine a d\u00e9clar\u00e9 jeudi qu\u2019elle avait r\u00e9alis\u00e9 de nouvelles avanc\u00e9es au neuvi\u00e8me jour de son offensive en territoire russe dans la r\u00e9gion de Koursk. Le commandant de l\u2019arm\u00e9e ukrainienne Oleksandre Syrsky a revendiqu\u00e9 une progre\u2026",
+      "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-ukraine-mpox-matthew-perry-etats-unis-groenland-les-informations-de-la-nuit_221219",
+      "urlToImage": "https://focus.courrierinternational.com/2024/08/15/0/0/3300/2200/1200/630/60/0/bdbc2b1_ukraine-offensive-strategy-1.JPG",
+      "publishedAt": "2024-08-16 04:05:53",
+      "content": "Kiev dit progresser en Russie. LUkraine a d\u00e9clar\u00e9 jeudi quelle avait r\u00e9alis\u00e9 de nouvelles avanc\u00e9es au neuvi\u00e8me jour de son offensive en territoire russe dans la r\u00e9gion de Koursk. Le commandant de lar\u2026 [+4594 chars]",
+      "retrievedAt": "2024-08-17 07:05:58.608515",
+      "internal_id": "a63079dd225ea0590de68ab3d15e71c706f1d484bf4e7c028251e5a2d00a2c31",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 12179,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Politik - Helena Schmidt",
+      "title": "Viruserkrankung Mpox: Das n\u00e4chste gro\u00dfe Virus",
+      "description": "Die WHO ruft wegen einer neuen Mpox-Variante ihre h\u00f6chste Warnstufe aus. Und: In Frankreich gibt es auch einen Monat nach den Parlamentswahlen noch keine neue Regierung.",
+      "url": "https://www.zeit.de/politik/2024-08/viruserkrankung-mpox-who-nachrichtenpodcast",
+      "urlToImage": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__8ed8a6__1300x731",
+      "publishedAt": "2024-08-16 04:00:06",
+      "content": "Es ist das sch\u00e4rfste Schwert der Organisation, das sie nur in \u00e4u\u00dferst seltenen F\u00e4llen nutzt, um Regierungen zum Handeln zu bewegen: Die Weltgesundheitsorganisation (WHO) hat wegen einer neuen Variant\u2026 [+2926 chars]",
+      "retrievedAt": "2024-08-17 07:05:58.316513",
+      "internal_id": "6266792103666b66f799fc31b5eadb3362320a523c745887801105e918973673",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 12178,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Virusausbruch in Afrika: China erschwert Einreise f\u00fcr Menschen aus Mpox-Gebieten",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eVirusausbruch in Afrika\u201c. Lesen Sie jetzt \u201eChina erschwert Einreise f\u00fcr Menschen aus Mpox-Gebieten\u201c.",
+      "url": "https://www.zeit.de/news/2024-08/16/china-erschwert-einreise-fuer-menschen-aus-mpox-gebieten",
+      "urlToImage": "https://img.zeit.de/news/2024-08/16/china-erschwert-einreise-fuer-menschen-aus-mpox-gebieten-image-group/wide__1300x731",
+      "publishedAt": "2024-08-16 03:01:20",
+      "content": "China versch\u00e4rft wegen Mpox-Ausbr\u00fcchen in Afrika Einreisekontrollen f\u00fcr Menschen aus betroffenen L\u00e4ndern. Wer aus Staaten mit Virusf\u00e4llen einreise, mit Mpox in Ber\u00fchrung gekommen sei oder entsprechen\u2026 [+2070 chars]",
+      "retrievedAt": "2024-08-17 07:05:58.307517",
+      "internal_id": "0984ac75f3f6dc50a20d1dc769eb590558b438f62672b59c0d3fc72c46295bd5",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 12182,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Barron's",
+      "author": null,
+      "title": "OUT OF AFRICA: WHO warns more monkey pox to come in Europe after case in Sweden...",
+      "description": "OUT OF AFRICA: WHO warns more monkey pox to come in Europe after case in Sweden... (First column, 4th story, link) Related stories:New strain spreads... High fatality rate? Vaccine Maker Ready To Produce 10 Million Doses...",
+      "url": "https://www.barrons.com/articles/mpox-killed-548-people-in-dr-congo-since-start-of-2024-cd9df3e4",
+      "urlToImage": "https://www.barrons.com/asset/external-media/afp/AFP4082179373022080323853999836639296427513---1.jpg",
+      "publishedAt": "2024-08-16 00:04:37",
+      "content": "The WHO on Thursday warned further imported cases of the new, more dangerous mpox strain in Europe were likely, after Sweden announced the first such infection outside Africa in an outbreak that has \u2026 [+3758 chars]",
+      "retrievedAt": "2024-08-17 07:05:58.397763",
+      "internal_id": "154a9f934d8827c9592ad56f5998dca0ad1056d6b77757f1a98366d87d63b7c2",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 12177,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Curves, crowns and a calabash: Africa's top shots",
+      "description": "A selection of the week's best photos from across the African continent.",
+      "url": "https://www.bbc.com/news/articles/cvg3wyk471go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c50/live/a436f7e0-5b28-11ef-8f0f-0577398c3339.jpg",
+      "publishedAt": "2024-08-15 23:07:57",
+      "content": "Mpox, which used to be called monkeypox, is declared a global public health emergency.",
+      "retrievedAt": "2024-08-17 07:05:58.298270",
+      "internal_id": "bfb183b3fb4de29449945d83f8bc6ca28d867731b87618803a8bbdf75a8fd8a5",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12172,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Of India",
+      "title": "Dengue cases cross 10k mark",
+      "description": "Read about the alarming rise in dengue cases in Bengaluru as reported by BBMP and Bengaluru Urban district. Stay informed about the latest developments and preventive measures against dengue.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-in-bengaluru-cross-10000-mark/articleshow/112553648.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-15 22:48:07",
+      "content": "Sandeepa Dhar glows with flawless skin",
+      "retrievedAt": "2024-08-17 07:05:56.461517",
+      "internal_id": "c0d3086c7adef31f7c138a92d0d810f747cde797e0d9dd0d6215df81c821489c",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12187,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Alexandra Ferguson",
+      "title": "\u00bfQu\u00e9 es la viruela del mono o mpox y por qu\u00e9 es preocupante el brote actual?",
+      "description": "La Organizaci\u00f3n Mundial de la Salud declar\u00f3 el mi\u00e9rcoles que el brote de viruela del mono o mpox que se est\u00e1 produciendo en \u00c1frica es una emergencia sanitaria mundial, el nivel m\u00e1s alto de alarma seg\u00fan la legislaci\u00f3n sanitaria internacional. The post \u00bfQu\u00e9 es \u2026",
+      "url": "https://cnnespanol.cnn.com/2024/08/15/que-es-la-viruela-del-mono-o-mpox-y-por-que-es-preocupante-el-brote-actual/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/2024-07-24t083650z-1356287560-rc2yx8a2e0vg-rtrmadp-3-health-mpox-congo.jpeg?quality=100&strip=info",
+      "publishedAt": "2024-08-15 22:39:02",
+      "content": "Conoce el nuevo nombre de la viruela del mono 0:42 (CNN) -- La Organizaci\u00f3n Mundial de la Salud declar\u00f3 el mi\u00e9rcoles que el brote de viruela del mono o mpox que se est\u00e1 produciendo en \u00c1frica es una \u2026 [+7895 chars]",
+      "retrievedAt": "2024-08-17 07:05:58.599043",
+      "internal_id": "b8d69888b0bf48187301071918c1893f42a8bc85a2218645db129052470c2597",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12181,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u041c\u0430\u0440\u0438\u043d\u0430 \u0421\u043e\u0432\u0438\u043d\u0430",
+      "title": "\u0412 \u0428\u0432\u0435\u0446\u0438\u0438 \u0434\u0438\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0412 \u0428\u0432\u0435\u0446\u0438\u0438 \u0434\u0438\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u0438\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0449\u0430\u044f \u043e\u0431\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u0433\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0430 \u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0428\u0432\u0435\u0446\u0438\u0438 \u041e\u043b\u0438\u0432\u0438\u044f \u0412\u0438\u0433\u0437\u0435\u043b\u043b, \u043f\u0438\u0448\u0435\u0442 \u0422\u0410\u0421\u0421",
+      "url": "https://lenta.ru/news/2024/08/16/v-shvetsii-diagnostirovali-pervyy-sluchay-zarazheniya-ospoy-obezyan/",
+      "urlToImage": "https://icdn.lenta.ru/images/2024/08/16/01/20240816010907578/share_53267d7f1f397d5b1b3c70d7ac42ae21.jpg",
+      "publishedAt": "2024-08-15 22:03:00",
+      "content": ":: / . , . \u00ab , MPOX\u00bb, . , , . . , MPOX. () . , 2024 14 .",
+      "retrievedAt": "2024-08-17 07:05:58.368021",
+      "internal_id": "fe519d65ea43926d9895b937f3a7ea4c171e2c317fdef4226dee0db803de334f",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12176,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "David Cox",
+      "title": "This Mpox Outbreak Isn't Like the Last One",
+      "description": "The strain of mpox behind the current global health emergency is believed to be up to 10 times deadlier than the one that swept the globe in 2022.",
+      "url": "https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/",
+      "urlToImage": "https://media.wired.com/photos/66bd39e7cf6232ff4521bd75/191:100/w_1280,c_limit/Science_mpox_Alamy_2J9AN2H.jpg",
+      "publishedAt": "2024-08-15 21:52:11",
+      "content": "In May 2023, the World Health Organization released a statement declaring the end of mpoxformerly known as monkeypoxas a public health emergency. Just over a year later, the agency has been forced to\u2026 [+3160 chars]",
+      "retrievedAt": "2024-08-17 07:05:58.275783",
+      "internal_id": "91372937dfaab77676cbfa86e25b4cef55c3e71f57ecefbe7369c4def5c3964d",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12183,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Neue Mpox-Variante in Europa \u2013 China erschwert Einreise aus betroffenen Gebieten",
+      "description": "Die neue Variante der Affenpocken hat Europa erreicht: In Schweden haben die Beh\u00f6rden das Virus bei einem Mann festgestellt, der aus Afrika zur\u00fcckgereist war. Wegen der j\u00fcngsten Ausbr\u00fcche von Mpox in Afrika versch\u00e4rft China seine Einreisebestimmungen.",
+      "url": "https://www.welt.de/vermischtes/weltgeschehen/article253030424/Affenpocken-Erster-Fall-von-neuer-Mpox-Variante-in-Europa-nachgewiesen-China-erschwert-Einreise.html",
+      "urlToImage": "https://img.welt.de/img/vermischtes/weltgeschehen/mobile253030422/2787931517-ci16x9-w1200/.jpg",
+      "publishedAt": "2024-08-15 20:37:52",
+      "content": "Die neue Variante der Affenpocken hat Europa erreicht: In Schweden haben die Beh\u00f6rden das Virus bei einem Mann festgestellt, der aus Afrika zur\u00fcckgereist war. Wegen der j\u00fcngsten Ausbr\u00fcche von Mpox in\u2026 [+4015 chars]",
+      "retrievedAt": "2024-08-17 07:05:58.419032",
+      "internal_id": "42423d14a96f88da9e26c4967e77b626a5629f866e11238bc39138fd972816d9",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12173,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Fiebre de oropouche, la enfermedad infecciosa que crece en Brasil y gener\u00f3 una alerta regional",
+      "description": "En la Argentina, el Ministerio de Salud consign\u00f3 hoy que no hay circulaci\u00f3n del virus hasta el momento",
+      "url": "https://www.lanacion.com.ar/sociedad/fiebre-de-oropouche-la-enfermedad-infecciosa-que-crece-en-brasil-y-genero-una-alerta-regional-nid15082024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/un-jejen-culicoides-paraensis-el-mas-pequeno-en-T7BB3RU5KBEU5LL75FRXIZ5NWA.jpg?auth=1354a3b04df297645aca91436a429aac07f98117d9d8a1f2abb23645c18e2556&width=768&quality=70&smart=false",
+      "publishedAt": "2024-08-15 19:09:25",
+      "content": "Su aparici\u00f3n en lugares donde ni siquiera se la hab\u00eda escuchado nombrar activ\u00f3 alarmas de salud p\u00fablica a la par de la epidemia de dengue en 2023-2024. Con los mismos s\u00edntomas y m\u00e1s de 8000 casos con\u2026 [+7997 chars]",
+      "retrievedAt": "2024-08-17 07:05:56.517225",
+      "internal_id": "f0a37ba515842fe0ebc8798b5be028870279b553c22552447bd14c252be07d11",
+      "publishedAtLabel": "Aug 15"
+    },
     {
       "id": 12160,
       "query": [
@@ -600,7 +870,8 @@
     {
       "id": 12137,
       "query": [
-        "zika"
+        "zika",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Plos.org",
@@ -667,6 +938,24 @@
       "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) informou ontem (14) que a situa\u00e7\u00e3o atual da mpox voltou a ser tratada por especialistas como emerg\u00eancia de sa\u00fade p\u00fablica global. O mais alto n\u00edvel de alerta para \u2026 [+2360 chars]",
       "retrievedAt": "2024-08-16 19:06:33.885526",
       "internal_id": "d40065ce0a9014dd0d8236bd75567d6b93524090d84a78f9d0802fcf03b0e1d4",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 12174,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dino.com.br",
+      "author": null,
+      "title": "Manter a febre sob controle \u00e9 fundamental em casos de Dengue",
+      "description": "Tr\u00eas raz\u00f5es para dar aten\u00e7\u00e3o especial ao acompanhamento da temperatura corporal durante o per\u00edodo de infec\u00e7\u00e3o",
+      "url": "https://www.dino.com.br/releases/manter-a-febre-sob-controle-e-fundamental-em-casos-de-dengue-dino890306661131",
+      "urlToImage": "https://s2-valor.glbimg.com/HXD0s1FB9vKHLPwUaLIczr8K7ec=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/a/D/Aa3v3sQRCCkmwK3aAOXA/19a198ef-21b3-47db-bf55-736dbf6a2f98.jpg",
+      "publishedAt": "2024-08-15 11:45:12",
+      "content": "Com mais de 6,4 milh\u00f5es de casos de dengue registrados em 2024, o Brasil atingiu um recorde hist\u00f3rico, registrando o maior n\u00famero de infec\u00e7\u00f5es pela doen\u00e7a em um \u00fanico ano. End\u00eamico em \u00e1reas tropicais\u2026 [+2377 chars]",
+      "retrievedAt": "2024-08-17 07:05:56.536088",
+      "internal_id": "0f4e56ce3d5293bd59a592e70186dabe220c4f2025dd8cd735a6d866dec98951",
       "publishedAtLabel": "Aug 15"
     },
     {
@@ -2144,6 +2433,24 @@
       "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha declarado de nuevo la enfermedad infecciosa de mpox, antes denominada viruela del mono, una emergencia de salud p\u00fablica. El n\u00famero de casos en el continen\u2026 [+10516 chars]",
       "retrievedAt": "2024-08-15 19:05:36.518407",
       "internal_id": "034c8769d39bae287821d6b4ea762e2d1e5b050eeddc629e1b54688b47080335",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 12175,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Trojan horse method gives malaria parasites a taste of their own medicine",
+      "description": "More than a quarter of Australians over the age of 50 take cholesterol-lowering drugs to prevent heart disease and strokes, but our bodies also need cholesterol to survive. Now, scientists say its role as a basic building block of life holds the key to treati\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/08/240814124633.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-08-14 16:46:33",
+      "content": "More than a quarter of Australians over the age of 50 take cholesterol-lowering drugs to prevent heart disease and strokes, but our bodies also need cholesterol to survive. Now, scientists from The A\u2026 [+3277 chars]",
+      "retrievedAt": "2024-08-17 07:05:57.107349",
+      "internal_id": "47faf38297f28c3db173719f15ae7367f7c48b35571ef67533817fddea10f56f",
       "publishedAtLabel": "Aug 14"
     },
     {
@@ -27169,6 +27476,114 @@
       "retrievedAt": "2024-07-02 07:06:48.077631",
       "internal_id": "eb269e69585d68dfe518c542b505097473346f8359eb87920d7c6267b46e1572",
       "publishedAtLabel": "Jul 1"
+    },
+    {
+      "id": 10662,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times News Network",
+      "title": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
+      "description": "Pet dog & stray canine test positive for rabies at Divar, vaccine drive on",
+      "url": "https://timesofindia.indiatimes.com/city/goa/pet-dog-stray-canine-test-positive-for-rabies-at-divar-vaccine-drive-on/articleshow/111386985.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-30 18:55:54",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-01 19:06:27.850727",
+      "internal_id": "8e5ccf841780d17f0e928a4e5489025e0527981bb917e8ea39cfab18fffcdd41",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10664,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY DR. ITAY GAL",
+      "title": "First West Nile virus, now Dengue fever plagues Israel in second mosquito-borne outbreak",
+      "description": "An expert explained to Maariv that a mosquito subspecies that can transmit the disease is already present in Israel, and climate change will bring the spread of fever closer",
+      "url": "https://www.jpost.com/health-and-wellness/article-808379",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/607075",
+      "publishedAt": "2024-06-30 18:10:43",
+      "content": "Israel has received its first warning of the deadly dengue fever approaching the region from the Far East and South America, now that the Health Ministry has announced 7 cases of infection with the d\u2026 [+4566 chars]",
+      "retrievedAt": "2024-07-01 19:06:30.007312",
+      "internal_id": "f696471ffdcf720ec6041eaa59ea3bdff84ae060a8c9e02e5cad73903d856551",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10667,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Anna Kurek",
+      "title": "Eksperci martwi\u0105 si\u0119 nowym wariantem ospy. \"Wszystkie kraje powinny si\u0119 przygotowa\u0107\"",
+      "description": "Od czasu globalnej epidemii ospy ma\u0142piej w 2022 r. wirus nie znikn\u0105\u0142. Nadal stosunkowo szybko mutuje i coraz lepiej przystosowuje si\u0119 do ludzkiego \u015brodowiska.",
+      "url": "https://zdrowie.gazeta.pl/Zdrowie/7,101580,31104608,eksperci-martwia-sie-nowym-wariantem-ospy-wszystkie-kraje.html",
+      "urlToImage": "https://bi.im-g.pl/im/b8/84/1b/z28855224IER,W-Teksasie-zmarl-pierwszy-zakazony-wirusem-malpiej.jpg",
+      "publishedAt": "2024-06-30 15:28:00",
+      "content": "Mpox (dawna nazwa choroby - ospa mapia) to choroba zakana wywoywana przez wirusa MPXV. To dwuniciowy wirus DNA, kt\u00f3ry moe zakaa zwierzta i ludzi. Ten wirus jest powizany z wirusem ospy prawdziwej, os\u2026 [+4722 chars]",
+      "retrievedAt": "2024-07-01 19:06:32.471069",
+      "internal_id": "3f57cb6795f86b906367160cbb7ec6b7f97ab4628db96bc6084e999f99c65e47",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10666,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Trudie Lang, L\u00e9andre Murhula  Masirika, Jean Claude Udahemuka, Sascha Karberg",
+      "title": "Aggressive Mpox-Variante im Kongo: Hat das neue Pocken-Virus Pandemiepotenzial?",
+      "description": "Ein Mpox-Stamm hat es bereits nach Europa und Amerika geschafft, mit glimpflichen Folgen. Doch eine neue Variante macht Virologen gro\u00dfe Sorgen. Die Nachbarl\u00e4nder der Republik Kongo sind bereits betroffen.",
+      "url": "https://www.tagesspiegel.de/wissen/aggressive-mpox-variante-im-kongo-hat-das-neue-pocken-virus-pandemiepotenzial-11925155.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/pocken03-affenpockenvirus2/alternates/BASE_16_9_W1400/pocken03-affenpockenvirus.jpeg",
+      "publishedAt": "2024-06-30 14:06:42",
+      "content": "Eine neue, deutlich aggressivere Variante des Pockenvirus Mpox (ehemals Monkeypox/Affenpocken genannt) hat an der Grenze der Demokratischen Republik Kongo (DRC) zu Uganda, Burundi und Ruanda einen si\u2026 [+180 chars]",
+      "retrievedAt": "2024-07-01 19:06:32.465695",
+      "internal_id": "b22aeec5d2b3d03786c50980f11086c786e4170a8111564d040b8e93e66ca1be",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10665,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-washington-post",
+      "source_name": "The Washington Post",
+      "author": "Lena H. Sun, Sarah Kaplan",
+      "title": "Dengue fever is surging worldwide. A hotter planet will make it worse.",
+      "description": "Climate change helped fuel an explosion of dengue cases in the Americas, including Puerto Rico, as mosquitoes multiply in warmer, wetter weather.",
+      "url": "https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYCGCBYE4YSDRHV6JYIJ7VUUB4.JPG&w=1440",
+      "publishedAt": "2024-06-30 13:00:36",
+      "content": "SAN JUAN, Puerto Rico The curly-haired girl came to theemergency roomwith fever, aches and signs of dehydration,common indications of many childhood illnesses.But the 9-year-old pale and listless ben\u2026 [+15886 chars]",
+      "retrievedAt": "2024-07-01 19:06:30.033250",
+      "internal_id": "1db6632ce959c23f1a08cc59e6a74815d7cb7bf3b9e821a2864a4fbcd1c576d3",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 10663,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u06cc\u0633\u0646\u0627 | \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc |  ISNA News Agency",
+      "title": "\u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0631\u0627 \u062c\u062f\u06cc \u0628\u06af\u06cc\u0631\u06cc\u0645",
+      "description": "\u0645\u0639\u0627\u0648\u0646 \u0628\u0647\u062f\u0627\u0634\u062a \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0645\u0634\u0647\u062f \u06af\u0641\u062a: \u062a\u0628 \u062f\u0646\u06af\u06cc \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u00ab\u062a\u0628 \u0627\u0633\u062a\u062e\u0648\u0627\u0646 \u0634\u06a9\u0646\u00bb \u0646\u06cc\u0632 \u0634\u0646\u0627\u062e\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f\u061b \u0686\u0631\u0627\u06a9\u0647 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u062f\u0631\u062f \u0634\u062f\u06cc\u062f \u062d\u0627\u0635\u0644 \u0627\u0632 \u0622\u0646 \u0628\u06cc\u0645\u0627\u0631 \u062a\u0635\u0648\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0627\u0633\u062a\u062e\u0648\u0627\u0646\u200c\u0647\u0627\u06cc\u0634 \u062f\u0631 \u062d\u0627\u0644 \u0634\u06a9\u0633\u062a\u0646 \u0627\u0633\u062a.",
+      "url": "https://www.isna.ir/news/1403041006560/\u062a\u0628-\u0627\u0633\u062a\u062e\u0648\u0627\u0646-\u0634\u06a9\u0646-\u0631\u0627-\u062c\u062f\u06cc-\u0628\u06af\u06cc\u0631\u06cc\u0645",
+      "urlToImage": "https://cdn.isna.ir/d/2022/09/13/4/62379201.jpg?ts=1663057108264",
+      "publishedAt": "2024-06-30 09:36:56",
+      "content": "/ : \u00ab \u00bb . : (Dengue fever) . : . : . : \u00ab \u00bb . : . : . : . : . : . : . : #",
+      "retrievedAt": "2024-07-01 19:06:30.001513",
+      "internal_id": "62958486975b7ce354cab8c73e564ae10f145bbfb70fc1440c1c9a2d41e90cb0",
+      "publishedAtLabel": "Jun 30"
     }
   ]
 }
