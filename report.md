@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-08-18 07:05
-- **Most recent article:** 2024-08-17 06:59:00
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-08-18 19:05
+- **Most recent article:** 2024-08-17 18:30:40
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | Total |
 |--|-|-|-|-|-|-|-|
-| mpox | 26 | 17 | 16 | 26 | 139 | 256 | 480 |
-| dengue | 91 | 62 | 63 | 55 | 46 | 49 | 366 |
+| mpox | 23 | 17 | 16 | 26 | 139 | 260 | 481 |
+| dengue | 84 | 62 | 63 | 55 | 46 | 51 | 361 |
 | h5n1 | 52 | 62 | 38 | 21 | 6 | 8 | 187 |
-| malaria | 12 | 31 | 16 | 15 | 16 | 18 | 108 |
-| measles | 11 | 19 | 22 | 8 | 6 | 3 | 69 |
-| zika | 10 | 6 | 10 | 12 | 11 | 10 | 59 |
-| rabies | 2 | 17 | 8 | 12 | 8 | 11 | 58 |
+| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 109 |
+| measles | 10 | 19 | 22 | 8 | 6 | 3 | 68 |
+| rabies | 2 | 17 | 8 | 12 | 8 | 12 | 59 |
+| zika | 9 | 6 | 10 | 12 | 11 | 10 | 58 |
 | chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 41 |
-| meningitis | 5 | 3 | 2 | 3 | 6 | 7 | 26 |
+| meningitis | 5 | 3 | 2 | 3 | 6 | 8 | 27 |
 | pertussis | 2 | 0 | 5 | 5 | 6 | 3 | 21 |
 | hpai | 5 | 6 | 3 | 4 | 1 | 1 | 20 |
 | leptospirosis | 3 | 4 | 1 | 2 | 2 | 2 | 14 |
@@ -61,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-33 (rabies)
 
+- [Fox tests positive for rabies after fighting dog in Spalding County, health department says](https://www.atlantanewsfirst.com/2024/08/17/fox-tests-positive-rabies-after-attacking-dog-spalding-county-health-department-says/) (Atlantanewsfirst.com)
+
 - [Bat with rabies identified in Fenton, health department says](https://midmichigannow.com/news/local/bat-with-rabies-identified-in-fenton-health-department-says) (Midmichigannow.com)
 
 - [Notes from the Field: Heightened Precautions for Imported Dogs Vaccinated with Potentially Ineffective Rabies Vaccine - United States, August 2021−April 2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7332a3.htm) (Cdc.gov)
@@ -92,6 +94,14 @@ Source: [News API](https://newsapi.org/)
 - [Gyorsulva terjed Magyarországon a fertőzés, ami halálos is lehet](https://www.portfolio.hu/gazdasag/20240812/gyorsulva-terjed-magyarorszagon-a-fertozes-ami-halalos-is-lehet-703695) (Portfolio.hu)
 
 ## 24-33 (mpox)
+
+- [Infektionswelle: Philippi drängt auf schnelle Impfstoff-Hilfen gegen Mpox](https://www.zeit.de/news/2024-08/17/philippi-draengt-auf-schnelle-impfstoff-hilfen-gegen-mpox) (Die Zeit)
+
+- [Mpox: Mpox-Virus breitet sich in Afrika weiter aus](https://www.zeit.de/gesundheit/2024-08/mpox-afrika-ausbreitung-who) (Die Zeit)
+
+- [Virus du mpox : où le nouveau variant a-t-il été détecté, et pourquoi cela inquiète ?](https://www.huffingtonpost.fr/international/article/virus-du-mpox-ou-le-nouveau-variant-a-t-il-ete-detecte-et-pourquoi-cela-inquiete_238474.html) (Le HuffPost)
+
+- [WHO: Produktion von Mpox-Impfstoffen ausweiten](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/who-fordert-ausweitung-der-produktion-von-mpox-impfstoffen-19925635.html) (Faz.net)
 
 - [WHO fordert Mpox-Impfstoffe für Afrika](https://www.tagesschau.de/wissen/gesundheit/mpox-impfstoffe-100.html) (tagesschau.de)
 
@@ -607,6 +617,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-33 (meningitis)
 
+- [Local pharmacist blamed for deaths in U.S. meningitis outbreak will plead no contest in Michigan case](https://www.boston.com/news/local-news/2024/08/17/pharmacist-blamed-for-deaths-in-u-s-meningitis-outbreak-will-plead-no-contest-in-michigan-case/) (Boston.com)
+
 - [Pharmacist blamed for deaths in US meningitis outbreak will plead no contest in Michigan case](https://abcnews.go.com/Health/wireStory/pharmacist-blamed-deaths-us-meningitis-outbreak-plead-contest-112907384) (ABC News)
 
 - [Pharmacist blamed for deaths in US meningitis outbreak will plead no contest in Michigan case](https://apnews.com/article/michigan-meningitis-deaths-plea-deal-f81b6ee9c9be2997467ea5ad7b4dfda9) (Associated Press)
@@ -630,6 +642,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles: 87 confirmed cases in Ireland so far this year](https://www.thejournal.ie/measles-87-confirmed-cases-in-ireland-so-far-this-year-6462707-Aug2024/) (TheJournal.ie)
 
 ## 24-33 (malaria)
+
+- [Uncle Cafe Marketing](https://unclecafemarketing.wordpress.com/2024/08/17/png-health-status/) (Wordpress.com)
 
 - [Wir haben mehr Blutgruppen, als wir meinen. Und sie bestimmen mit, wie gesund wir sind](https://www.nzz.ch/wissenschaft/wir-haben-mehr-blutgruppen-als-wir-meinen-und-sie-bestimmen-mit-wie-gesund-wir-sind-ld.1840819) (Www.nzz.ch)
 
@@ -696,6 +710,10 @@ Source: [News API](https://newsapi.org/)
 - [Confirmado: la gripe aviar se está extendiendo entre los mamíferos](https://www.muyinteresante.com/ciencia/65707.html) (Muyinteresante.com)
 
 ## 24-33 (dengue)
+
+- [Sainte-Cécile-les-Vignes. Une épidémie de dengue frappe de nouveau ce village vauclusien](https://www.ledauphine.com/sante/2024/08/17/cet-ete-l-epidemie-de-dengue-touche-une-nouvelle-fois-le-village) (Le Dauphiné Libéré)
+
+- [Dalla dengue al vaiolo delle scimmie e il ‘patogeno X’: “Ecco i 32 virus e batteri che potrebbero provocare nuove pandemie. Sono bombe a orologeria”](https://www.ilfattoquotidiano.it/2024/08/17/dalla-dengue-al-vaiolo-delle-scimmie-e-il-patogeno-x-ecco-i-32-virus-e-batteri-che-potrebbero-provocare-nuove-pandemie-sono-bombe-a-orologeria/7658865/) (Ilfattoquotidiano.it)
 
 - [Hospital devuelve cuerpo de niña en Tepic, pero la familia enfrenta deuda millonaria](https://aristeguinoticias.com/1608/mexico/hospital-devuelve-cuerpo-de-nina-en-tepic-pero-la-familia-enfrenta-deuda-millonaria/) (Aristeguinoticias.com)
 
@@ -2657,8 +2675,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Zika virus scare: Stay alert, keep mosquitoes at bay](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-prevention-and-treatment-advisory/articleshow/111562086.cms) (The Times of India)
 
-- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
-
 ## 24-28 (yersinia)
 
 - [Новое исследование ставит известный факт о чуме под сомнение](https://vfokuse.mail.ru/article/novoe-issledovanie-stavit-izvestnyy-fakt-o-chume-pod-somnenie-61896522/) (Mail.ru)
@@ -2743,12 +2759,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Медики выяснили, как один человек спровоцировал в Ирландии вспышку обезьяньей оспы](https://doctorpiter.ru/obraz-zhizni/imj-odin-chelovek-zarazil-obezyanei-ospoi-pochti-tret-vsekh-bolnykh-v-irlandii-id5747755/) (Doctorpiter.ru)
 
-- [Kenya on high alert as Mpox virus is reported in DRC](https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846) (Nation.africa)
-
-- [Sorge vor „Clade I“ - WHO warnt vor gefährlicher Mutation des Affenpocken-Virus](https://www.focus.de/gesundheit/sorge-vor-clade-i-who-warnt-vor-gefaehrlicher-mutation-des-affenpocken-virus_id_260115667.html) (Focus)
-
-- [افزایش موارد ابتلا به آبله میمون در آفریقای جنوبی](https://www.entekhab.ir/fa/news/798563/افزایش-موارد-ابتلا-به-آبله-میمون-در-آفریقای-جنوبی) (Entekhab.ir)
-
 ## 24-28 (meningitis)
 
 - [El conflicto armado y las inundaciones arrastran a RDC a una "catástrofe sanitaria"](https://www.europapress.es/internacional/noticia-conflicto-armado-inundaciones-arrastran-rdc-catastrofe-sanitaria-20240713143246.html) (Europapress.es)
@@ -2782,8 +2792,6 @@ Source: [News API](https://newsapi.org/)
 - [2nd case of measles confirmed in Vermont](https://www.wcax.com/2024/07/08/2nd-case-measles-confirmed-vermont/) (WCAX)
 
 - [Spatial distribution and determinants of measles vaccination dropout among under-five children in Ethiopia: A spatial and multilevel analysis of 2019 Ethiopian demographic and health survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305393) (Plos.org)
-
-- [Five people who survived measles recount the disease’s horrors](https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/) (The Washington Post)
 
 ## 24-28 (malaria)
 
@@ -3106,20 +3114,6 @@ Source: [News API](https://newsapi.org/)
 - [Karnataka records two dengue deaths in a day](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-records-two-dengue-deaths-in-a-day/articleshow/111564588.cms) (The Times of India)
 
 - [Is Florida Headed Toward a Dengue Fever Outbreak?](https://articles.mercola.com/sites/articles/archive/2024/07/08/florida-dengue-fever-outbreak.aspx) (Mercola.com)
-
-- [Opposition demands free dengue tests as cases touch 7.1k in Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/opposition-demands-free-dengue-tests-as-cases-touch-7-1k-in-karnataka/articleshow/111560017.cms) (The Times of India)
-
-- [Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory](https://legalinsurrection.com/2024/07/florida-issues-dengue-fever-alert-cdc-issues-its-own-health-advisory/) (Legalinsurrection.com)
-
-- [Epidemiolog Maďar: Klima stěhuje exotické nemoci do Evropy. Co doporučuje před cestami do zahraničí?](https://www.lidovky.cz/domov/epidemiolog-klima-stehuje-exoticke-nemoci-do-evropy-co-doporucuje-pred-cestami-do-zahranici.A240707_185852_ln_domov_rkj) (Lidovky.cz)
-
-- [Davao: Pag-mugna ug Mosquito-Borne Diseases Task Force sa mga barangay, i-implementar](https://rpnradio.com/davao-pag-mugna-ug-mosquito-borne-diseases-task-force-sa-mga-barangay-i-implementar/) (Rpnradio.com)
-
-- [Cong govt in K'taka mired in competition for CM, Dy CM posts: Union min](https://www.business-standard.com/politics/cong-govt-in-k-taka-mired-in-competition-for-cm-dy-cm-posts-union-min-124070700218_1.html) (Business Standard)
-
-- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
-
-- [Dengue grips India's southern state Karnataka, Delhi too registers 240 cases](http://en.people.cn/n3/2024/0707/c90000-20190779.html) (People.cn)
 
 ## 24-28 (chikungunya)
 
