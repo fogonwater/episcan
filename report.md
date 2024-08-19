@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-08-18 19:05
-- **Most recent article:** 2024-08-17 18:30:40
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-08-19 07:07
+- **Most recent article:** 2024-08-18 05:17:00
 
 ---
 
@@ -10,28 +10,36 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | Total |
-|--|-|-|-|-|-|-|-|
-| mpox | 23 | 17 | 16 | 26 | 139 | 260 | 481 |
-| dengue | 84 | 62 | 63 | 55 | 46 | 51 | 361 |
-| h5n1 | 52 | 62 | 38 | 21 | 6 | 8 | 187 |
-| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 109 |
-| measles | 10 | 19 | 22 | 8 | 6 | 3 | 68 |
-| rabies | 2 | 17 | 8 | 12 | 8 | 12 | 59 |
-| zika | 9 | 6 | 10 | 12 | 11 | 10 | 58 |
-| chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 41 |
-| meningitis | 5 | 3 | 2 | 3 | 6 | 8 | 27 |
-| pertussis | 2 | 0 | 5 | 5 | 6 | 3 | 21 |
-| hpai | 5 | 6 | 3 | 4 | 1 | 1 | 20 |
-| leptospirosis | 3 | 4 | 1 | 2 | 2 | 2 | 14 |
-| typhoid | 5 | 1 | 3 | 1 | 0 | 1 | 11 |
-| yersinia | 5 | 0 | 2 | 1 | 1 | 0 | 9 |
-| shigellosis | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
+| Disease | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | 24-34 | Total |
+|--|-|-|-|-|-|-|-|-|
+| mpox | 26 | 17 | 16 | 26 | 139 | 267 | 0 | 491 |
+| dengue | 91 | 62 | 63 | 55 | 46 | 52 | 1 | 370 |
+| h5n1 | 52 | 62 | 38 | 21 | 6 | 8 | 0 | 187 |
+| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 0 | 109 |
+| measles | 11 | 19 | 22 | 8 | 6 | 3 | 0 | 69 |
+| rabies | 2 | 17 | 8 | 12 | 8 | 12 | 1 | 60 |
+| zika | 10 | 6 | 10 | 12 | 11 | 10 | 0 | 59 |
+| chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 0 | 41 |
+| meningitis | 5 | 3 | 2 | 3 | 6 | 8 | 0 | 27 |
+| pertussis | 2 | 0 | 5 | 5 | 6 | 3 | 0 | 21 |
+| hpai | 5 | 6 | 3 | 4 | 1 | 1 | 0 | 20 |
+| leptospirosis | 3 | 4 | 1 | 2 | 2 | 2 | 0 | 14 |
+| typhoid | 5 | 1 | 3 | 1 | 0 | 1 | 0 | 11 |
+| yersinia | 5 | 0 | 2 | 1 | 1 | 0 | 0 | 9 |
+| shigellosis | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-34 (rabies)
+
+- [Social pressure on farmers effects whether they vaccinate their dairy cattle, study finds](https://www.jpost.com/science/article-815110) (The Jerusalem Post)
+
+## 24-34 (dengue)
+
+- [La Matinale. Pas de tsunami après le séisme en Russie ; Des "cas sporadiques" de variole du singe attendus en France ; Épidémie de dengue dans un village... L'essentiel de ce dimanche 18 août](https://www.ledauphine.com/societe/2024/08/18/pas-de-tsunami-apres-le-seisme-en-russie-des-cas-sporadiques-de-variole-du-singe-attendus-en-france-epidemie-de-dengue-dans-un-village-l-essentiel-de-ce-dimanche-18-aout) (Le Dauphiné Libéré)
 
 ## 24-33 (zika)
 
@@ -97,6 +105,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Infektionswelle: Philippi drängt auf schnelle Impfstoff-Hilfen gegen Mpox](https://www.zeit.de/news/2024-08/17/philippi-draengt-auf-schnelle-impfstoff-hilfen-gegen-mpox) (Die Zeit)
 
+- [Vaiolo delle scimmie, in Africa si contano 1200 casi di mpox in una settimana](https://www.ilfattoquotidiano.it/2024/08/17/vaiolo-delle-scimmie-in-africa-si-contano-1200-casi-di-mpox-in-una-settimana/7660988/) (Ilfattoquotidiano.it)
+
+- [Comment éviter une pandémie mondiale de Mpox (ex-variole du singe) ?](https://www.numerama.com/sciences/1791596-comment-eviter-une-pandemie-mondiale-de-mpox-ex-variole-du-singe.html) (Numerama)
+
 - [Mpox: Mpox-Virus breitet sich in Afrika weiter aus](https://www.zeit.de/gesundheit/2024-08/mpox-afrika-ausbreitung-who) (Die Zeit)
 
 - [Virus du mpox : où le nouveau variant a-t-il été détecté, et pourquoi cela inquiète ?](https://www.huffingtonpost.fr/international/article/virus-du-mpox-ou-le-nouveau-variant-a-t-il-ete-detecte-et-pourquoi-cela-inquiete_238474.html) (Le HuffPost)
@@ -127,6 +139,10 @@ Source: [News API](https://newsapi.org/)
 
 - [The WHO Declared Mpox a Global Health Emergency. Here's Where the Virus Is Spreading and What Vaccines and Treatments Exist](https://www.scientificamerican.com/article/the-who-declared-mpox-a-global-health-emergency-heres-where-the-virus-is/) (Scientific American)
 
+- [Mpox (vaiolo delle scimmie), il focus dell’Istituto superiore di sanità: cosa c’è da sapere e qual è la situazione](https://www.ilfattoquotidiano.it/2024/08/16/mpox-vaiolo-delle-scimmie-il-focus-dellistituto-superiore-di-sanita-cosa-ce-da-sapere-e-qual-e-la-situazione/7660373/) (Ilfattoquotidiano.it)
+
+- [Virus de la mpox : pourquoi les autorités s’inquiètent](https://www.courrierinternational.com/article/sante-virus-de-la-mpox-pourquoi-les-autorites-s-inquietent_221242) (Courrier International)
+
 - [Lauterbach sieht keine große Mpox-Gefahr für Bevölkerung](https://www.tagesschau.de/inland/innenpolitik/lauterbach-mpox-einschaetzung-100.html) (tagesschau.de)
 
 - [Mpox, Explained: What To Know About Variants, Vaccines And Where Outbreaks Are After WHO Sounds Alarm](https://www.forbes.com/sites/roberthart/2024/08/16/mpox-explained-what-to-know-about-variants-vaccines-and-where-outbreaks-are-after-who-sounds-alarm/) (Forbes)
@@ -145,6 +161,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Krankheiten: Höchste Alarmstufe wegen Mpox - was bedeutet das?](https://www.zeit.de/news/2024-08/16/hoechste-alarmstufe-wegen-mpox-was-bedeutet-das) (Die Zeit)
 
+- [Ecdc: 'Molto probabile che ci siano casi di vaiolo delle scimmie importati in Ue'](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/08/16/ecdc-molto-probabile-che-ci-siano-casi-di-vaiolo-delle-scimmie-importati_5281236a-cec3-4093-a842-98fb6715637c.html) (ANSA.it)
+
 - [Pakistan says at least one case of mpox virus detected](https://www.aljazeera.com/news/2024/8/16/pakistan-says-at-least-one-case-of-mpox-virus-detected) (Al Jazeera English)
 
 - [Mpox, l’Oms teme altri casi della forma più letale del vaiolo delle scimmie in Europa. L’Italia rafforza sorveglianza. L’alleanza dei vaccini: “Prepariamo scorta globale”](https://www.ilfattoquotidiano.it/2024/08/16/mpox-loms-teme-altri-casi-della-forma-piu-letale-del-vaiolo-delle-scimmie-in-europa-litalia-rafforza-sorveglianza-lalleanza-dei-vaccini-prepariamo-scorta-globale/7660093/) (Ilfattoquotidiano.it)
@@ -153,6 +171,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Nach Ausruf von Warnstufe: Behörde erwartet mehr eingeführte Mpox-Fälle in Europa](https://www.zeit.de/news/2024-08/16/behoerde-erwartet-mehr-eingefuehrte-mpox-faelle-in-europa) (Die Zeit)
 
+- [Mpox, cos’è il vaiolo delle scimmie: sintomi, rischi e vaccini. Il primo caso segnalato nel 1970](https://www.ilfattoquotidiano.it/2024/08/16/mpox-cose-il-vaiolo-delle-scimmie-sintomi-rischi-cure-e-vaccini/7660014/) (Ilfattoquotidiano.it)
+
 - [Los principales síntomas de la viruela del mono por los que deberíamos ir rápido al hospital](https://www.marca.com/bienestar/salud/2024/08/16/66bf1bf346163ff36c8b4589.html) (Marca)
 
 - [La variole du singe (mpox) est arrivée en Europe](https://www.presse-citron.net/la-variole-du-singe-mpox-est-arrivee-en-europe/) (Presse-citron)
@@ -160,6 +180,8 @@ Source: [News API](https://newsapi.org/)
 - [Auch Pakistan meldet ersten Mpox-Fall](https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-ausbrueche-pakistan-meldet-ersten-infektionsfall-19923044.html) (Faz.net)
 
 - [Alerta Mpox: OMS declarou emergência sanitária mundial](https://pplware.sapo.pt/informacao/alerta-mpox-oms-declarou-emergencia-sanitaria-mundial/) (Sapo.pt)
+
+- [Nouvelle souche du virus Mpox : ce qui inquiète le plus l’OMS qui a déclaré l’état d’urgence mondiale](https://www.futura-sciences.com/sante/actualites/variole-singe-nouvelle-souche-virus-mpox-ce-inquiete-plus-oms-declare-etat-urgence-mondiale-115280/) (Futura)
 
 - [China verschärft wegen Mpox-Ausbreitung Kontrollen bei Einreise](https://www.tagesschau.de/ausland/asien/mpox-china-einreisekontrollen-100.html) (tagesschau.de)
 
@@ -710,6 +732,8 @@ Source: [News API](https://newsapi.org/)
 - [Confirmado: la gripe aviar se está extendiendo entre los mamíferos](https://www.muyinteresante.com/ciencia/65707.html) (Muyinteresante.com)
 
 ## 24-33 (dengue)
+
+- [Edu dept releases advisory on dengue prevention](https://timesofindia.indiatimes.com/city/bengaluru/edu-dept-advisory-on-dengue-prevention/articleshow/112597737.cms) (The Times of India)
 
 - [Sainte-Cécile-les-Vignes. Une épidémie de dengue frappe de nouveau ce village vauclusien](https://www.ledauphine.com/sante/2024/08/17/cet-ete-l-epidemie-de-dengue-touche-une-nouvelle-fois-le-village) (Le Dauphiné Libéré)
 
@@ -2675,6 +2699,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Zika virus scare: Stay alert, keep mosquitoes at bay](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-prevention-and-treatment-advisory/articleshow/111562086.cms) (The Times of India)
 
+- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
+
 ## 24-28 (yersinia)
 
 - [Новое исследование ставит известный факт о чуме под сомнение](https://vfokuse.mail.ru/article/novoe-issledovanie-stavit-izvestnyy-fakt-o-chume-pod-somnenie-61896522/) (Mail.ru)
@@ -2759,6 +2785,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Медики выяснили, как один человек спровоцировал в Ирландии вспышку обезьяньей оспы](https://doctorpiter.ru/obraz-zhizni/imj-odin-chelovek-zarazil-obezyanei-ospoi-pochti-tret-vsekh-bolnykh-v-irlandii-id5747755/) (Doctorpiter.ru)
 
+- [Kenya on high alert as Mpox virus is reported in DRC](https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846) (Nation.africa)
+
+- [Sorge vor „Clade I“ - WHO warnt vor gefährlicher Mutation des Affenpocken-Virus](https://www.focus.de/gesundheit/sorge-vor-clade-i-who-warnt-vor-gefaehrlicher-mutation-des-affenpocken-virus_id_260115667.html) (Focus)
+
+- [افزایش موارد ابتلا به آبله میمون در آفریقای جنوبی](https://www.entekhab.ir/fa/news/798563/افزایش-موارد-ابتلا-به-آبله-میمون-در-آفریقای-جنوبی) (Entekhab.ir)
+
 ## 24-28 (meningitis)
 
 - [El conflicto armado y las inundaciones arrastran a RDC a una "catástrofe sanitaria"](https://www.europapress.es/internacional/noticia-conflicto-armado-inundaciones-arrastran-rdc-catastrofe-sanitaria-20240713143246.html) (Europapress.es)
@@ -2792,6 +2824,8 @@ Source: [News API](https://newsapi.org/)
 - [2nd case of measles confirmed in Vermont](https://www.wcax.com/2024/07/08/2nd-case-measles-confirmed-vermont/) (WCAX)
 
 - [Spatial distribution and determinants of measles vaccination dropout among under-five children in Ethiopia: A spatial and multilevel analysis of 2019 Ethiopian demographic and health survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305393) (Plos.org)
+
+- [Five people who survived measles recount the disease’s horrors](https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/) (The Washington Post)
 
 ## 24-28 (malaria)
 
@@ -3114,6 +3148,20 @@ Source: [News API](https://newsapi.org/)
 - [Karnataka records two dengue deaths in a day](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-records-two-dengue-deaths-in-a-day/articleshow/111564588.cms) (The Times of India)
 
 - [Is Florida Headed Toward a Dengue Fever Outbreak?](https://articles.mercola.com/sites/articles/archive/2024/07/08/florida-dengue-fever-outbreak.aspx) (Mercola.com)
+
+- [Opposition demands free dengue tests as cases touch 7.1k in Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/opposition-demands-free-dengue-tests-as-cases-touch-7-1k-in-karnataka/articleshow/111560017.cms) (The Times of India)
+
+- [Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory](https://legalinsurrection.com/2024/07/florida-issues-dengue-fever-alert-cdc-issues-its-own-health-advisory/) (Legalinsurrection.com)
+
+- [Epidemiolog Maďar: Klima stěhuje exotické nemoci do Evropy. Co doporučuje před cestami do zahraničí?](https://www.lidovky.cz/domov/epidemiolog-klima-stehuje-exoticke-nemoci-do-evropy-co-doporucuje-pred-cestami-do-zahranici.A240707_185852_ln_domov_rkj) (Lidovky.cz)
+
+- [Davao: Pag-mugna ug Mosquito-Borne Diseases Task Force sa mga barangay, i-implementar](https://rpnradio.com/davao-pag-mugna-ug-mosquito-borne-diseases-task-force-sa-mga-barangay-i-implementar/) (Rpnradio.com)
+
+- [Cong govt in K'taka mired in competition for CM, Dy CM posts: Union min](https://www.business-standard.com/politics/cong-govt-in-k-taka-mired-in-competition-for-cm-dy-cm-posts-union-min-124070700218_1.html) (Business Standard)
+
+- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
+
+- [Dengue grips India's southern state Karnataka, Delhi too registers 240 cases](http://en.people.cn/n3/2024/0707/c90000-20190779.html) (People.cn)
 
 ## 24-28 (chikungunya)
 
