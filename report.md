@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-08-19 19:05
-- **Most recent article:** 2024-08-18 18:12:01
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-08-20 07:06
+- **Most recent article:** 2024-08-19 06:21:54
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | 24-34 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 23 | 17 | 16 | 26 | 139 | 267 | 5 | 493 |
-| dengue | 84 | 62 | 63 | 55 | 46 | 52 | 8 | 370 |
+| mpox | 26 | 17 | 16 | 26 | 139 | 276 | 7 | 507 |
+| dengue | 91 | 62 | 63 | 55 | 46 | 52 | 12 | 381 |
 | h5n1 | 52 | 62 | 38 | 21 | 6 | 8 | 0 | 187 |
-| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 2 | 111 |
-| measles | 10 | 19 | 22 | 8 | 6 | 3 | 0 | 68 |
-| zika | 9 | 6 | 10 | 12 | 11 | 10 | 6 | 64 |
+| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 5 | 114 |
+| measles | 11 | 19 | 22 | 8 | 6 | 3 | 0 | 69 |
+| zika | 10 | 6 | 10 | 12 | 11 | 10 | 9 | 68 |
 | rabies | 2 | 17 | 8 | 12 | 8 | 12 | 1 | 60 |
-| chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 1 | 42 |
+| chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 2 | 43 |
 | meningitis | 5 | 3 | 2 | 3 | 6 | 8 | 1 | 28 |
+| hpai | 5 | 6 | 3 | 4 | 1 | 1 | 1 | 21 |
 | pertussis | 2 | 0 | 5 | 5 | 6 | 3 | 0 | 21 |
-| hpai | 5 | 6 | 3 | 4 | 1 | 1 | 0 | 20 |
 | leptospirosis | 3 | 4 | 1 | 2 | 2 | 2 | 0 | 14 |
 | typhoid | 5 | 1 | 3 | 1 | 0 | 1 | 0 | 11 |
 | yersinia | 5 | 0 | 2 | 1 | 1 | 0 | 0 | 9 |
@@ -34,6 +34,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-34 (zika)
+
+- [„Febra leneșului” a ajuns în Europa. Cum se manifestă boala tropicală](https://www.digi24.ro/stiri/externe/febra-lenesului-a-ajuns-in-europa-cum-se-manifesta-boala-tropicala-2899453) (Digi24.ro)
+
+- [Febre oropouche pode provocar sintomas nos olhos. Saiba quais](https://www.metropoles.com/saude/febre-oropouche-sintoma-nos-olhos) (Metropoles.com)
+
+- [2 pregnant women, 4 others test positive for Zika in B’luru](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-cases-in-bengaluru/articleshow/112614294.cms) (The Times of India)
 
 - [Paris organizers aim to emulate success of London 2012 as 'normalcy' returns to Paralympics](https://www.cbc.ca/sports/paralympics/paris-paralympics-preview-aug-18-1.7292995) (CBC News)
 
@@ -53,6 +59,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-34 (mpox)
 
+- [ERKLÄRT - In Zentralafrika grassiert eine neue Mpox-Variante, nun ist der erste Fall in Europa entdeckt worden. Die wichtigsten Fakten zu diesen Viren](https://www.nzz.ch/wissenschaft/erste-mpox-infektion-mit-neuer-variante-die-wichtigsten-fakten-zu-affenpocken-ld.1844081) (Www.nzz.ch)
+
+- [Mpox, l’infettivologo Cauda (Gemelli): “Vaiolo delle scimmie? Non siamo alla vigilia del Covid, la trasmissione è diversa e c’è un vaccino”](https://www.ilfattoquotidiano.it/2024/08/18/mpox-linfettivologo-cauda-gemelli-vaiolo-delle-scimmie-non-siamo-alla-vigilia-del-covid-la-trasmissione-e-diversa-e-ce-un-vaccino/7661627/) (Ilfattoquotidiano.it)
+
 - [Mpox : un risque d’infection «faible» pour la France](https://www.liberation.fr/societe/sante/mpox-un-risque-dinfection-faible-pour-la-france-20240818_3OWZ7QYGAVDYHH56R42MHSOWAU/) (Libération)
 
 - [„Es gibt eigentlich zwei Ausbrüche“](https://www.welt.de/wissenschaft/plus253044222/Mpox-Es-gibt-eigentlich-zwei-Ausbrueche.html) (DIE WELT)
@@ -69,11 +79,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-34 (malaria)
 
+- [Great news for mosquito haters](https://www.gatesnotes.com/Great-news-for-mosquito-haters) (Gatesnotes.com)
+
+- [The newest weapon against mosquitoes: computer vision](https://www.gatesnotes.com/Computer-vision-is-helping-fight-malaria) (Gatesnotes.com)
+
+- [Australian 'Trojan horse' trial uses cholesterol to trick malaria parasites into consuming fatal drugs](https://www.abc.net.au/news/2024-08-19/university-research-cholesterol-targets-malaria-parasites/104239214) (ABC News (AU))
+
 - [UN and partners report acute malnutrition surge in Government-controlled areas of Yemen](https://news.un.org/en/story/2024/08/1153316) (UN News)
 
 - [To år gamle Kia er blant dei første i verda som får dødsviktig vaksine](https://www.nrk.no/urix/babyar-i-kamerun-forst-ut-med-vaksine-som-kan-redde-millionar-av-liv-1.16965469) (NRK)
 
+## 24-34 (hpai)
+
+- [Cattle Ranchers and Dairy Farmers Refuse “Bird Flu” Testing](https://legalinsurrection.com/2024/08/cattle-ranchers-and-dairy-farmers-refuse-bird-flu-testing/) (Legalinsurrection.com)
+
 ## 24-34 (dengue)
+
+- [La Anmat prohibió la venta de un repelente contra el mosquito que transmite el dengue](https://www.lanacion.com.ar/sociedad/la-anmat-prohibio-la-venta-de-un-repelente-contra-el-mosquito-que-transmite-el-dengue-nid19082024/) (La Nacion)
+
+- [Union minister Jual Oram's wife dies of dengue](https://timesofindia.indiatimes.com/city/bhubaneswar/union-minister-jual-orams-wife-dies-of-dengue/articleshow/112620269.cms) (The Times of India)
+
+- [Febre oropouche pode provocar sintomas nos olhos. Saiba quais](https://www.metropoles.com/saude/febre-oropouche-sintoma-nos-olhos) (Metropoles.com)
+
+- [Bacolod: Dengue cases in Negros Occidental up 94%](https://rpnradio.com/bacolod-dengue-cases-in-negros-occidental-up-94/) (Rpnradio.com)
 
 - [Sepultan en Nayarit a Aylin Milagros, la niña de 8 años cuyo cuerpo fue retenido por un hospital](https://www.elfinanciero.com.mx/estados/2024/08/18/sepultan-en-nayarit-a-aylin-milagros-la-nina-de-8-anos-cuyo-cuerpo-fue-retenido-por-un-hospital/) (El Financiero)
 
@@ -92,6 +120,8 @@ Source: [News API](https://newsapi.org/)
 - [La Matinale. Pas de tsunami après le séisme en Russie ; Des "cas sporadiques" de variole du singe attendus en France ; Épidémie de dengue dans un village... L'essentiel de ce dimanche 18 août](https://www.ledauphine.com/societe/2024/08/18/pas-de-tsunami-apres-le-seisme-en-russie-des-cas-sporadiques-de-variole-du-singe-attendus-en-france-epidemie-de-dengue-dans-un-village-l-essentiel-de-ce-dimanche-18-aout) (Le Dauphiné Libéré)
 
 ## 24-34 (chikungunya)
+
+- [Febre oropouche pode provocar sintomas nos olhos. Saiba quais](https://www.metropoles.com/saude/febre-oropouche-sintoma-nos-olhos) (Metropoles.com)
 
 - [World Mosquito Day](https://www.thehindubusinessline.com/specials/pulse/world-mosquito-day/article68539346.ece) (BusinessLine)
 
@@ -171,6 +201,8 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO fordert Mpox-Impfstoffe für Afrika](https://www.tagesschau.de/wissen/gesundheit/mpox-impfstoffe-100.html) (tagesschau.de)
 
+- [WHO fordert mehr Impfstoffe: Ärzte ohne Grenzen: "Alarmierend schnelle Verbreitung von Mpox"](https://www.stern.de/gesundheit/mpox-virus--aerzte-ohne-grenzen-sehen-alarmierend-schnelle-verbreitung-34987418.html) (STERN.de)
+
 - [How far has mpox spread and how can you protect yourself?](https://www.aljazeera.com/news/2024/8/17/how-far-has-mpox-spread-and-how-can-you-protect-yourself) (Al Jazeera English)
 
 - [Ciencia y vacunas ante la nueva emergencia de salud internacional](https://www.nationalgeographic.com.es/ciencia/ciencia-y-vacunas-ante-mpox-nueva-emergencia-salud-internacional_23024) (Nationalgeographic.com.es)
@@ -197,11 +229,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Virus de la mpox : pourquoi les autorités s’inquiètent](https://www.courrierinternational.com/article/sante-virus-de-la-mpox-pourquoi-les-autorites-s-inquietent_221242) (Courrier International)
 
+- [Il primo caso di vaiolo delle scimmie in Pakistan accresce i timori di una diffusione globale](https://www.internazionale.it/ultime-notizie/2024/08/16/vaiolo-delle-scimmie-mpox-caso-pakistan) (Internazionale.it)
+
 - [Lauterbach sieht keine große Mpox-Gefahr für Bevölkerung](https://www.tagesschau.de/inland/innenpolitik/lauterbach-mpox-einschaetzung-100.html) (tagesschau.de)
 
 - [Mpox, Explained: What To Know About Variants, Vaccines And Where Outbreaks Are After WHO Sounds Alarm](https://www.forbes.com/sites/roberthart/2024/08/16/mpox-explained-what-to-know-about-variants-vaccines-and-where-outbreaks-are-after-who-sounds-alarm/) (Forbes)
 
 - [WHO Declares Mpox A Public Health Emergency—Here’s What To Know](https://www.forbes.com/sites/roberthart/2024/08/16/who-declares-mpox-a-public-health-emergency-heres-what-to-know/) (Forbes)
+
+- [Infektionswelle: Behörde: Mehr Mpox-Fälle in Europa zu erwarten](https://www.stern.de/panorama/wissen/infektionswelle--behoerde--mehr-mpox-faelle-in-europa-zu-erwarten-34985666.html) (STERN.de)
 
 - [La nouvelle épidémie de mpox (variole du singe) a été repérée en Europe](https://www.numerama.com/sciences/1791788-la-nouvelle-epidemie-de-mpox-variole-du-singe-a-ete-reperee-en-europe.html) (Numerama)
 
@@ -225,6 +261,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Nach Ausruf von Warnstufe: Behörde erwartet mehr eingeführte Mpox-Fälle in Europa](https://www.zeit.de/news/2024-08/16/behoerde-erwartet-mehr-eingefuehrte-mpox-faelle-in-europa) (Die Zeit)
 
+- [Nach Ausruf von Warnstufe: Behörde erwartet mehr eingeführte Mpox-Fälle in Europa](https://www.stern.de/panorama/wissen/nach-ausruf-von-warnstufe--behoerde-erwartet-mehr-eingefuehrte-mpox-faelle-in-europa-34985666.html) (STERN.de)
+
+- [Mpox Vaccine Maker’s Shares Continue Rising As Concern Over Virus Outbreak Grows](https://www.forbes.com/sites/roberthart/2024/08/16/mpox-vaccine-makers-shares-continue-rising-as-concern-over-virus-outbreak-grows/) (Forbes)
+
+- [First Case Of More Virulent Strain Of Mpox Detected In Sweden](https://www.forbes.com/sites/joshuacohen/2024/08/16/first-case-of-more-virulent-strain-of-mpox-detected-in-sweden/) (Forbes)
+
 - [Mpox, cos’è il vaiolo delle scimmie: sintomi, rischi e vaccini. Il primo caso segnalato nel 1970](https://www.ilfattoquotidiano.it/2024/08/16/mpox-cose-il-vaiolo-delle-scimmie-sintomi-rischi-cure-e-vaccini/7660014/) (Ilfattoquotidiano.it)
 
 - [Los principales síntomas de la viruela del mono por los que deberíamos ir rápido al hospital](https://www.marca.com/bienestar/salud/2024/08/16/66bf1bf346163ff36c8b4589.html) (Marca)
@@ -236,6 +278,8 @@ Source: [News API](https://newsapi.org/)
 - [Alerta Mpox: OMS declarou emergência sanitária mundial](https://pplware.sapo.pt/informacao/alerta-mpox-oms-declarou-emergencia-sanitaria-mundial/) (Sapo.pt)
 
 - [Nouvelle souche du virus Mpox : ce qui inquiète le plus l’OMS qui a déclaré l’état d’urgence mondiale](https://www.futura-sciences.com/sante/actualites/variole-singe-nouvelle-souche-virus-mpox-ce-inquiete-plus-oms-declare-etat-urgence-mondiale-115280/) (Futura)
+
+- [Pakistán detecta el primer caso de mpox este año](https://cnnespanol.cnn.com/2024/08/16/pakistan-primer-caso-mpox-este-ano-trax/) (CNN)
 
 - [China verschärft wegen Mpox-Ausbreitung Kontrollen bei Einreise](https://www.tagesschau.de/ausland/asien/mpox-china-einreisekontrollen-100.html) (tagesschau.de)
 
@@ -253,7 +297,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Viruserkrankung Mpox: Das nächste große Virus](https://www.zeit.de/politik/2024-08/viruserkrankung-mpox-who-nachrichtenpodcast) (Die Zeit)
 
+- [Kina skärper mpox-kontroller](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1285485) (Aftonbladet.se)
+
 - [Virusausbruch in Afrika: China erschwert Einreise für Menschen aus Mpox-Gebieten](https://www.zeit.de/news/2024-08/16/china-erschwert-einreise-fuer-menschen-aus-mpox-gebieten) (Die Zeit)
+
+- [Virusausbruch in Afrika: China erschwert Einreise für Menschen aus Mpox-Gebieten](https://www.stern.de/panorama/wissen/virusausbruch-in-afrika--china-erschwert-einreise-fuer-menschen-aus-mpox-gebieten-34984446.html) (STERN.de)
 
 - [OUT OF AFRICA: WHO warns more monkey pox to come in Europe after case in Sweden...](https://www.barrons.com/articles/mpox-killed-548-people-in-dr-congo-since-start-of-2024-cd9df3e4) (Barron's)
 
@@ -2753,6 +2801,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Zika virus scare: Stay alert, keep mosquitoes at bay](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-prevention-and-treatment-advisory/articleshow/111562086.cms) (The Times of India)
 
+- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
+
 ## 24-28 (yersinia)
 
 - [Новое исследование ставит известный факт о чуме под сомнение](https://vfokuse.mail.ru/article/novoe-issledovanie-stavit-izvestnyy-fakt-o-chume-pod-somnenie-61896522/) (Mail.ru)
@@ -2837,6 +2887,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Медики выяснили, как один человек спровоцировал в Ирландии вспышку обезьяньей оспы](https://doctorpiter.ru/obraz-zhizni/imj-odin-chelovek-zarazil-obezyanei-ospoi-pochti-tret-vsekh-bolnykh-v-irlandii-id5747755/) (Doctorpiter.ru)
 
+- [Kenya on high alert as Mpox virus is reported in DRC](https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846) (Nation.africa)
+
+- [Sorge vor „Clade I“ - WHO warnt vor gefährlicher Mutation des Affenpocken-Virus](https://www.focus.de/gesundheit/sorge-vor-clade-i-who-warnt-vor-gefaehrlicher-mutation-des-affenpocken-virus_id_260115667.html) (Focus)
+
+- [افزایش موارد ابتلا به آبله میمون در آفریقای جنوبی](https://www.entekhab.ir/fa/news/798563/افزایش-موارد-ابتلا-به-آبله-میمون-در-آفریقای-جنوبی) (Entekhab.ir)
+
 ## 24-28 (meningitis)
 
 - [El conflicto armado y las inundaciones arrastran a RDC a una "catástrofe sanitaria"](https://www.europapress.es/internacional/noticia-conflicto-armado-inundaciones-arrastran-rdc-catastrofe-sanitaria-20240713143246.html) (Europapress.es)
@@ -2870,6 +2926,8 @@ Source: [News API](https://newsapi.org/)
 - [2nd case of measles confirmed in Vermont](https://www.wcax.com/2024/07/08/2nd-case-measles-confirmed-vermont/) (WCAX)
 
 - [Spatial distribution and determinants of measles vaccination dropout among under-five children in Ethiopia: A spatial and multilevel analysis of 2019 Ethiopian demographic and health survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305393) (Plos.org)
+
+- [Five people who survived measles recount the disease’s horrors](https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/) (The Washington Post)
 
 ## 24-28 (malaria)
 
@@ -3192,6 +3250,20 @@ Source: [News API](https://newsapi.org/)
 - [Karnataka records two dengue deaths in a day](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-records-two-dengue-deaths-in-a-day/articleshow/111564588.cms) (The Times of India)
 
 - [Is Florida Headed Toward a Dengue Fever Outbreak?](https://articles.mercola.com/sites/articles/archive/2024/07/08/florida-dengue-fever-outbreak.aspx) (Mercola.com)
+
+- [Opposition demands free dengue tests as cases touch 7.1k in Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/opposition-demands-free-dengue-tests-as-cases-touch-7-1k-in-karnataka/articleshow/111560017.cms) (The Times of India)
+
+- [Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory](https://legalinsurrection.com/2024/07/florida-issues-dengue-fever-alert-cdc-issues-its-own-health-advisory/) (Legalinsurrection.com)
+
+- [Epidemiolog Maďar: Klima stěhuje exotické nemoci do Evropy. Co doporučuje před cestami do zahraničí?](https://www.lidovky.cz/domov/epidemiolog-klima-stehuje-exoticke-nemoci-do-evropy-co-doporucuje-pred-cestami-do-zahranici.A240707_185852_ln_domov_rkj) (Lidovky.cz)
+
+- [Davao: Pag-mugna ug Mosquito-Borne Diseases Task Force sa mga barangay, i-implementar](https://rpnradio.com/davao-pag-mugna-ug-mosquito-borne-diseases-task-force-sa-mga-barangay-i-implementar/) (Rpnradio.com)
+
+- [Cong govt in K'taka mired in competition for CM, Dy CM posts: Union min](https://www.business-standard.com/politics/cong-govt-in-k-taka-mired-in-competition-for-cm-dy-cm-posts-union-min-124070700218_1.html) (Business Standard)
+
+- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
+
+- [Dengue grips India's southern state Karnataka, Delhi too registers 240 cases](http://en.people.cn/n3/2024/0707/c90000-20190779.html) (People.cn)
 
 ## 24-28 (chikungunya)
 
