@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 45
-- **Last harvest:** 2024-08-21 07:06
-- **Most recent article:** 2024-08-20 06:45:41
+- **New articles in last harvest:** 37
+- **Last harvest:** 2024-08-21 19:06
+- **Most recent article:** 2024-08-20 19:03:22
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | 24-34 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 17 | 16 | 26 | 139 | 292 | 49 | 565 |
-| dengue | 91 | 62 | 63 | 55 | 46 | 52 | 18 | 387 |
-| h5n1 | 52 | 62 | 38 | 21 | 6 | 8 | 1 | 188 |
-| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 11 | 120 |
-| zika | 10 | 6 | 10 | 12 | 11 | 10 | 11 | 70 |
-| measles | 11 | 19 | 22 | 8 | 6 | 3 | 0 | 69 |
+| mpox | 23 | 17 | 16 | 26 | 139 | 292 | 75 | 588 |
+| dengue | 84 | 62 | 63 | 55 | 46 | 52 | 21 | 383 |
+| h5n1 | 52 | 62 | 38 | 21 | 6 | 8 | 2 | 189 |
+| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 18 | 127 |
+| zika | 9 | 6 | 10 | 12 | 11 | 10 | 11 | 69 |
+| measles | 10 | 19 | 22 | 8 | 6 | 3 | 0 | 68 |
 | rabies | 2 | 17 | 8 | 12 | 8 | 12 | 2 | 61 |
-| chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 3 | 44 |
+| chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 4 | 45 |
 | meningitis | 5 | 3 | 2 | 3 | 6 | 8 | 1 | 28 |
 | pertussis | 2 | 0 | 5 | 5 | 6 | 3 | 1 | 22 |
 | hpai | 5 | 6 | 3 | 4 | 1 | 1 | 1 | 21 |
-| leptospirosis | 3 | 4 | 1 | 2 | 2 | 2 | 0 | 14 |
+| leptospirosis | 3 | 4 | 1 | 2 | 2 | 2 | 1 | 15 |
 | typhoid | 5 | 1 | 3 | 1 | 0 | 1 | 0 | 11 |
 | yersinia | 5 | 0 | 2 | 1 | 1 | 0 | 1 | 10 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
@@ -72,6 +72,58 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough cases high in Georgia compared to previous year, CDC data shows](https://www.wsbtv.com/news/local/atlanta/whooping-cough-cases-high-georgia-compared-previous-year-cdc-data-shows/WWU5IPLWC5ANVL3GVQN43B6A7A/) (WSB Atlanta)
 
 ## 24-34 (mpox)
+
+- [Entenda como funciona a vacinação contra a mpox](https://catracalivre.com.br/saude-bem-estar/entenda-como-funciona-a-vacinacao-contra-a-mpox/) (Catracalivre.com.br)
+
+- [A WHO szerint itt a majomhimlő, de pánikra semmi ok, ez nem egy újabb Covid](https://hvg.hu/vilag/20240820_A-WHO-szerint-itt-a-majomhimlo-de-panikra-semmi-ok-ez-nem-egy-ujabb-Covid) (Hvg.hu)
+
+- [Mpox: não há indícios de que variante mais contagiosa circula no Brasil](https://olhardigital.com.br/2024/08/20/medicina-e-saude/mpox-nao-ha-indicios-de-que-variante-mais-contagiosa-circula-no-brasil/) (Olhardigital.com.br)
+
+- [Mpox não é uma nova Covid-19, diz OMS](https://olhardigital.com.br/2024/08/20/medicina-e-saude/mpox-nao-e-uma-nova-covid-19-diz-oms/) (Olhardigital.com.br)
+
+- [Viruserkrankung: WHO hält Mpox-Ausbruch für weniger gravierend als Corona](https://www.zeit.de/gesundheit/2024-08/who-mpox-uebertragung-afrika-corona) (Die Zeit)
+
+- [Mpox não é ‘a nova covid’, afirma diretor regional da OMS](https://dinheirama.com/mpox-nao-e-a-nova-covid-afirma-diretor-regional-da-oms/) (Dinheirama.com)
+
+- [Mpox não é 'nova covid' e pode ser contida, diz especialista da OMS](https://www.bbc.com/portuguese/articles/c8er4z8pljno) (BBC News)
+
+- [Wie sich Südafrika auf das Mpox-Virus vorbereitet](https://www.tagesschau.de/ausland/afrika/mpox-130.html) (tagesschau.de)
+
+- [WHO: Mpox är inte ett ”nytt covid-19”](https://www.dn.se/varlden/who-mpox-ar-inte-ett-nytt-covid-19/) (Www.dn.se)
+
+- [Ausbreitung von Mpox: Fast 1.400 neue Mpox-Fälle innerhalb einer Woche in Afrika](https://www.zeit.de/news/2024-08/20/fast-1-400-neue-mpox-faelle-innerhalb-einer-woche-in-afrika) (Die Zeit)
+
+- [Mpox not the new COVID, says WHO](https://www.aljazeera.com/news/2024/8/20/mpox-not-the-new-covid-says-who) (Al Jazeera English)
+
+- [Russia is in denial about mpox because of homophobic 'traditional values'](https://www.advocate.com/health/russia-mpox-traditional-values) (Advocate.com)
+
+- [El PP pide la comparecencia de Mónica García por "inacción" ante la mpox un día después de coordinar medidas con la UE](https://www.huffingtonpost.es/politica/el-pp-pide-comparecencia-monica-garcia-inaccion-mpox-dia-coordinar-medidas-ue.html) (Huffingtonpost.es)
+
+- [Mpox is "not the new COVID," World Health Organization says](https://www.cbsnews.com/news/mpox-not-new-covid-world-health-organization-says-after-declaring-health-emergency-africa/) (CBS News)
+
+- [Dans l’est de la RDC, les médecins en ordre de bataille face à la flambée de mpox](https://www.courrierinternational.com/article/reportage-dans-l-est-de-la-rdc-les-medecins-en-ordre-de-bataille-face-a-la-flambee-de-mpox_221310) (Courrier International)
+
+- [Mpox not new Covid and can be stopped, expert says](https://www.bbc.com/news/articles/cvg34y37jqgo) (BBC News)
+
+- [Mpox: how dangerous is new health emergency?](https://theweek.com/health/mpox-how-dangerous-new-health-emergency) (The Week Magazine)
+
+- [Links 8/20/2024](https://www.nakedcapitalism.com/2024/08/links-8-20-2024.html) (Nakedcapitalism.com)
+
+- [“Mpox non è il nuovo Covid”, Kluge (Oms): “Cento casi al mese in Europa, ma sappiamo come controllarlo”](https://www.ilfattoquotidiano.it/2024/08/20/mpox-non-e-il-nuovo-covid-kluge-oms-cento-casi-al-mese-in-europa-ma-sappiamo-come-controllarlo/7663603/) (Ilfattoquotidiano.it)
+
+- [Mpox nu este noul COVID, asigură OMS Europa](http://hotnews.ro/boala-mpox-nu-este-noua-covid-asigura-oms-europa-1774553) (Hotnews.ro)
+
+- [WHO: Mpox er ikke det nye covid](https://www.dr.dk/nyheder/seneste/who-mpox-er-ikke-det-nye-covid) (Www.dr.dk)
+
+- [No cause for concern over mpox - health chiefs](https://www.bbc.com/news/articles/c8xlvnq7w5xo) (BBC News)
+
+- [Mpox : les 4 questions essentielles que tout le monde se pose](https://www.futura-sciences.com/sante/actualites/variole-singe-mpox-4-questions-essentielles-tout-monde-pose-115349/) (Futura)
+
+- [La UE considera bajo el riesgo de transmisión de mpox y descarta controles fronterizos](https://www.expansion.com/directivos/estilo-vida/salud/2024/08/20/66c45bdc468aeb322a8b45ab.html) (Expansion.com)
+
+- [Is there a vaccine for mpox? Who can get the shot and where? How to find it in Florida](https://www.miamiherald.com/news/health-care/article291187400.html) (Miami Herald)
+
+- [菲律賓今年首例M痘患者無境外旅遊史，東南亞多國加緊邊境管控防新毒株](https://www.thenewslens.com/article/206835) (Thenewslens.com)
 
 - [M 痘新病毒株擴散，GeoVax 股價進攻 5 天噴 229%](https://finance.technews.tw/2024/08/20/geovax-labs/) (Technews.tw)
 
@@ -177,6 +229,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-34 (malaria)
 
+- [Dr. Reddy's and Aurigene in MoU with US-based Kainomyx for malaria treatment](https://thefly.com/permalinks/entry.php/id3972032/RDY-Dr-Reddys-and-Aurigene-in-MoU-with-USbased--Kainomyx-for-malaria-treatment) (Thefly.com)
+
+- [Aptive Environmental and United To Beat Malaria Unite in the Fight Against Malaria on World Mosquito Day](https://www.globenewswire.com/news-release/2024/08/20/2933095/0/en/Aptive-Environmental-and-United-To-Beat-Malaria-Unite-in-the-Fight-Against-Malaria-on-World-Mosquito-Day.html) (GlobeNewswire)
+
+- [Mosquitoes use gut bacteria to fight the malaria they transmit—scientists are exploring how to use this](https://phys.org/news/2024-08-mosquitoes-gut-bacteria-malaria-transmit.html) (Phys.Org)
+
+- [How to end malaria once and for all | Abdoulaye Diabaté](https://www.ted.com/talks/abdoulaye_diabate_how_to_end_malaria_once_and_for_all) (Ted.com)
+
+- [First spatial map of malaria infection in the liver opens new possibilities for more effective treatments](https://phys.org/news/2024-08-spatial-malaria-infection-liver-possibilities.html) (Phys.Org)
+
+- [World Mosquito Day 2024: Date, theme, history, significance and more](https://www.business-standard.com/health/world-mosquito-day-2024-date-theme-history-significance-and-more-124082000912_1.html) (Business Standard)
+
+- [Mangalam Drugs expands anti-malaria portfolio with WHO-approved API](https://www.thehindubusinessline.com/markets/mangalam-drugs-expands-anti-malaria-portfolio-with-who-approved-api/article68545913.ece) (BusinessLine)
+
 - [Arno Geiger erfindet in seinem Roman einen heroischen Tod für Kaiser Karl V. – er stürzt ihn ins Meer](https://www.nzz.ch/feuilleton/arno-geiger-dichtet-fuer-kaiser-karl-v-einen-heroischen-tod-im-meer-ld.1843560) (Www.nzz.ch)
 
 - [World Mosquito Day: Date, Theme, History And Significance](https://www.ndtv.com/offbeat/world-mosquito-day-date-theme-history-and-significance-6374914) (NDTV News)
@@ -199,15 +265,27 @@ Source: [News API](https://newsapi.org/)
 
 - [To år gamle Kia er blant dei første i verda som får dødsviktig vaksine](https://www.nrk.no/urix/babyar-i-kamerun-forst-ut-med-vaksine-som-kan-redde-millionar-av-liv-1.16965469) (NRK)
 
+## 24-34 (leptospirosis)
+
+- [Guidance: Leptospirosis](https://www.gov.uk/guidance/leptospirosis) (Www.gov.uk)
+
 ## 24-34 (hpai)
 
 - [Cattle Ranchers and Dairy Farmers Refuse “Bird Flu” Testing](https://legalinsurrection.com/2024/08/cattle-ranchers-and-dairy-farmers-refuse-bird-flu-testing/) (Legalinsurrection.com)
 
 ## 24-34 (h5n1)
 
+- [Bird Flu Is Infecting Domestic Cats](https://www.shtfplan.com/headline-news/bird-flu-is-infecting-domestic-cats) (Shtfplan.com)
+
 - [Bird Flu Is Infecting Pet Cats. Here’s What You Need to Know](https://www.scientificamerican.com/article/bird-flu-is-infecting-pet-cats-heres-what-you-need-to-know/) (Scientific American)
 
 ## 24-34 (dengue)
+
+- [چک افراد مشکوک ابتلا به تب دنگی در ورودی‌های شیراز](https://www.isna.ir/news/1403053021084/چک-افراد-مشکوک-ابتلا-به-تب-دنگی-در-ورودی-های-شیراز) (Isna.ir)
+
+- [“Desquiciante”: Kreplak explicó su frase sobre el posible brote de dengue que habrá en la Argentina](https://www.lanacion.com.ar/politica/desquiciante-kreplak-explico-su-frase-sobre-el-posible-brote-de-dengue-que-habra-en-la-argentina-nid20082024/) (La Nacion)
+
+- [World Mosquito Day 2024: Date, theme, history, significance and more](https://www.business-standard.com/health/world-mosquito-day-2024-date-theme-history-significance-and-more-124082000912_1.html) (Business Standard)
 
 - [World Mosquito Day: Date, Theme, History And Significance](https://www.ndtv.com/offbeat/world-mosquito-day-date-theme-history-and-significance-6374914) (NDTV News)
 
@@ -246,6 +324,8 @@ Source: [News API](https://newsapi.org/)
 - [La Matinale. Pas de tsunami après le séisme en Russie ; Des "cas sporadiques" de variole du singe attendus en France ; Épidémie de dengue dans un village... L'essentiel de ce dimanche 18 août](https://www.ledauphine.com/societe/2024/08/18/pas-de-tsunami-apres-le-seisme-en-russie-des-cas-sporadiques-de-variole-du-singe-attendus-en-france-epidemie-de-dengue-dans-un-village-l-essentiel-de-ce-dimanche-18-aout) (Le Dauphiné Libéré)
 
 ## 24-34 (chikungunya)
+
+- [World Mosquito Day 2024: Date, theme, history, significance and more](https://www.business-standard.com/health/world-mosquito-day-2024-date-theme-history-significance-and-more-124082000912_1.html) (Business Standard)
 
 - [World Mosquito Day: Date, Theme, History And Significance](https://www.ndtv.com/offbeat/world-mosquito-day-date-theme-history-and-significance-6374914) (NDTV News)
 
@@ -2961,8 +3041,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Zika virus scare: Stay alert, keep mosquitoes at bay](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-prevention-and-treatment-advisory/articleshow/111562086.cms) (The Times of India)
 
-- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
-
 ## 24-28 (yersinia)
 
 - [Новое исследование ставит известный факт о чуме под сомнение](https://vfokuse.mail.ru/article/novoe-issledovanie-stavit-izvestnyy-fakt-o-chume-pod-somnenie-61896522/) (Mail.ru)
@@ -3047,12 +3125,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Медики выяснили, как один человек спровоцировал в Ирландии вспышку обезьяньей оспы](https://doctorpiter.ru/obraz-zhizni/imj-odin-chelovek-zarazil-obezyanei-ospoi-pochti-tret-vsekh-bolnykh-v-irlandii-id5747755/) (Doctorpiter.ru)
 
-- [Kenya on high alert as Mpox virus is reported in DRC](https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846) (Nation.africa)
-
-- [Sorge vor „Clade I“ - WHO warnt vor gefährlicher Mutation des Affenpocken-Virus](https://www.focus.de/gesundheit/sorge-vor-clade-i-who-warnt-vor-gefaehrlicher-mutation-des-affenpocken-virus_id_260115667.html) (Focus)
-
-- [افزایش موارد ابتلا به آبله میمون در آفریقای جنوبی](https://www.entekhab.ir/fa/news/798563/افزایش-موارد-ابتلا-به-آبله-میمون-در-آفریقای-جنوبی) (Entekhab.ir)
-
 ## 24-28 (meningitis)
 
 - [El conflicto armado y las inundaciones arrastran a RDC a una "catástrofe sanitaria"](https://www.europapress.es/internacional/noticia-conflicto-armado-inundaciones-arrastran-rdc-catastrofe-sanitaria-20240713143246.html) (Europapress.es)
@@ -3086,8 +3158,6 @@ Source: [News API](https://newsapi.org/)
 - [2nd case of measles confirmed in Vermont](https://www.wcax.com/2024/07/08/2nd-case-measles-confirmed-vermont/) (WCAX)
 
 - [Spatial distribution and determinants of measles vaccination dropout among under-five children in Ethiopia: A spatial and multilevel analysis of 2019 Ethiopian demographic and health survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305393) (Plos.org)
-
-- [Five people who survived measles recount the disease’s horrors](https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/) (The Washington Post)
 
 ## 24-28 (malaria)
 
@@ -3410,20 +3480,6 @@ Source: [News API](https://newsapi.org/)
 - [Karnataka records two dengue deaths in a day](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-records-two-dengue-deaths-in-a-day/articleshow/111564588.cms) (The Times of India)
 
 - [Is Florida Headed Toward a Dengue Fever Outbreak?](https://articles.mercola.com/sites/articles/archive/2024/07/08/florida-dengue-fever-outbreak.aspx) (Mercola.com)
-
-- [Opposition demands free dengue tests as cases touch 7.1k in Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/opposition-demands-free-dengue-tests-as-cases-touch-7-1k-in-karnataka/articleshow/111560017.cms) (The Times of India)
-
-- [Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory](https://legalinsurrection.com/2024/07/florida-issues-dengue-fever-alert-cdc-issues-its-own-health-advisory/) (Legalinsurrection.com)
-
-- [Epidemiolog Maďar: Klima stěhuje exotické nemoci do Evropy. Co doporučuje před cestami do zahraničí?](https://www.lidovky.cz/domov/epidemiolog-klima-stehuje-exoticke-nemoci-do-evropy-co-doporucuje-pred-cestami-do-zahranici.A240707_185852_ln_domov_rkj) (Lidovky.cz)
-
-- [Davao: Pag-mugna ug Mosquito-Borne Diseases Task Force sa mga barangay, i-implementar](https://rpnradio.com/davao-pag-mugna-ug-mosquito-borne-diseases-task-force-sa-mga-barangay-i-implementar/) (Rpnradio.com)
-
-- [Cong govt in K'taka mired in competition for CM, Dy CM posts: Union min](https://www.business-standard.com/politics/cong-govt-in-k-taka-mired-in-competition-for-cm-dy-cm-posts-union-min-124070700218_1.html) (Business Standard)
-
-- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
-
-- [Dengue grips India's southern state Karnataka, Delhi too registers 240 cases](http://en.people.cn/n3/2024/0707/c90000-20190779.html) (People.cn)
 
 ## 24-28 (chikungunya)
 
