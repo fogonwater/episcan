@@ -1,8 +1,642 @@
 {
-  "last_updated": "2024-08-22 07:07",
-  "count_articles_total": 1569,
-  "count_articles_new": 17,
+  "last_updated": "2024-08-22 19:06",
+  "count_articles_total": 1593,
+  "count_articles_new": 35,
   "articles": [
+    {
+      "id": 12431,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Colin Gleeson",
+      "title": "HSE issues warning after case of measles on bus from Dublin to Clonmel",
+      "description": "Signs and symptoms of measles include cold-like symptoms such as a runny nose, sneezing and a cough",
+      "url": "https://www.irishtimes.com/health/2024/08/21/hse-issues-warning-after-case-of-measles-on-bus-from-dublin-to-clonmel/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/SX7H3G4KNJA73A77QGLXHRMHSQ.jpg?smart=true&auth=8a57ed9b125e61c963e156a9af9a6125178e35fe250586f2fb4d81dd3a4c65a4&width=1200&height=630",
+      "publishedAt": "2024-08-21 18:55:49",
+      "content": "The Health Service Executive has issued a health warning to passengers who travelled on a bus from Dublin Airport to Clonmel, Co Tipperary, on Saturday following the discovery that a passenger on boa\u2026 [+2876 chars]",
+      "retrievedAt": "2024-08-22 19:06:06.430068",
+      "internal_id": "33ad896b5ddf9b0d0b610ecd94c5218e5382b8da011f288334c1fa9115d601c6",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12461,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Silvia Melo",
+      "title": "Conhe\u00e7a as formas de transmiss\u00e3o de mpox",
+      "description": "A mpox voltou a ser motivo de preocupa\u00e7\u00e3o no mundo ap\u00f3s a identifica\u00e7\u00e3o de surtos de uma nova cepa mais transmiss\u00edvel e letal na \u00c1frica. Em meio a esse",
+      "url": "https://catracalivre.com.br/saude-bem-estar/conheca-as-formas-de-transmissao-de-mpox/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/08/mpox-transmissao.jpg",
+      "publishedAt": "2024-08-21 18:31:57",
+      "content": "A mpox voltou a ser motivo de preocupa\u00e7\u00e3o no mundo ap\u00f3s a identifica\u00e7\u00e3o de surtos de uma nova cepa mais transmiss\u00edvel e letal na \u00c1frica. Em meio a esse cen\u00e1rio, \u00e9 importante saber as formas transmiss\u2026 [+2889 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.875774",
+      "internal_id": "dc41c642d19237a5a699a99d7618cc409bdfed8daa1ab73142afcd60e0c50460",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12444,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "FCTA pledges to curb malaria deaths in under-five children",
+      "description": "The Federal Capital Territory Administration on Wednesday pledged its commitment to reducing malaria mortality among children under five years of age. The FCTA also introduced a new policy prohibiting certain categories of health workers from wearing civilian\u2026",
+      "url": "https://punchng.com/fcta-pledges-to-curb-malaria-deaths-in-under-five-children/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/04/27021705/malaria.jpg",
+      "publishedAt": "2024-08-21 18:22:55",
+      "content": "The Federal Capital Territory Administration on Wednesday pledged its commitment to reducing malaria mortality among children under five years of age. The FCTA also introduced a new policy prohibiti\u2026 [+4486 chars]",
+      "retrievedAt": "2024-08-22 19:06:07.713657",
+      "internal_id": "f15f02afab1ddd09141a444f7dc6e7e9f62e01bd1e4dc1d839e1545d1b8b64a6",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12432,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Case of measles in passenger who travelled on bus from Dublin Airport confirmed as HSE issues alert",
+      "description": "An alert has been issued to passengers who travelled on a bus from Dublin Airport to Tipperary following the discovery that a person on board had measles.",
+      "url": "https://www.independent.ie/irish-news/health/case-of-measles-in-passenger-who-travelled-on-bus-from-dublin-airport-confirmed-as-hse-issues-alert/a565107748.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/6WTTVg1BhVEASdLj9aVFI8difwg=/629x460/smart/prod-mh-ireland/19ea93d4-e12b-4924-83e5-94b3ba256c9d/668fc77d-09c9-4531-8b48-3c4a342d408c/19ea93d4-e12b-4924-83e5-94b3ba256c9d.jpg",
+      "publishedAt": "2024-08-21 17:52:53",
+      "content": "An alert has been issued to passengers who travelled on a bus from Dublin Airport to Tipperary following the discovery that a person on board had measles.The alert from the HSE is for people who trav\u2026 [+2635 chars]",
+      "retrievedAt": "2024-08-22 19:06:06.436938",
+      "internal_id": "369da74562b092bd7ece15667ecb80acbc30518f01c9988475649fcbf9ddd7ec",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12436,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Arnab Lall Seal",
+      "title": "India\u2019s medal prospect Bapi Hansda misses Asian U20 Athletics Championships due to dengue",
+      "description": "Despite impressive performances on the track, Bapi Hansda faced setbacks, missing the Asian U20 Athletics Championships due to visa issues and the U20 World Athletics Championships due to dengue. The Odisha athlete excelled last year in national and internati\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/indias-medal-prospect-bapi-hansda-misses-asian-u20-athletics-championships-due-to-dengue/articleshow/112690000.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112690038,width-1070,height-580,imgsize-36874,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-21 17:19:09",
+      "content": "Retired T20I legends who could feature in IPL 2025",
+      "retrievedAt": "2024-08-22 19:06:07.176898",
+      "internal_id": "e61d4bee578144fc686f65a517d1b8f14fcebd7763819343c4d70c0a1ca343d9",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12433,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dublin Live",
+      "author": "Https://www.dublinlive.ie/authors/laura-lyne/",
+      "title": "Dublin Airport bus passenger alert as measles case confirmed",
+      "description": "Those on board are being urged to keep an eye out for symptoms and contact a GP if necessary",
+      "url": "https://www.dublinlive.ie/news/dublin-news/dublin-airport-bus-passenger-alert-29785680",
+      "urlToImage": "https://i2-prod.dublinlive.ie/incoming/article28590319.ece/ALTERNATES/s1200/0_GettyImages-1196157315.jpg",
+      "publishedAt": "2024-08-21 17:01:00",
+      "content": "A measles alert has been issued after a case was confirmed on a bus travelling from Dublin Airport over the weekend. Passengers on JJ Kavanagh bus number 717 from Dublin Airport to Clonmel departin\u2026 [+1812 chars]",
+      "retrievedAt": "2024-08-22 19:06:06.442546",
+      "internal_id": "e41a0b151b270b68080a9d361a50cb410d080d664f56e74b14d55316eb47c932",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12428,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Noe.orf.at",
+      "author": "ORF.at",
+      "title": "Keuchhustenf\u00e4lle steigen weiterhin rasant an",
+      "description": "F\u00e4lle von Pertussis, also Keuchhusten, werden \u00f6sterreichweit immer mehr verzeichnet. Der Anstieg in Nieder\u00f6sterreich ist exponentiell. Allein seit Juni hat sich die hohe Zahl von 655 F\u00e4llen noch einmal verdoppelt. Der Grund daf\u00fcr ist die niedrige Durchimpfu\u2026",
+      "url": "https://noe.orf.at/stories/3269965/",
+      "urlToImage": "https://ibs.orf.at/noe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2024%2F05%2F72%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F2088000_master_788572_704745_colourbox32268285.jpg%3Fs%3D7532894630f4241ad40e9b8eece1894c1d993da5",
+      "publishedAt": "2024-08-21 16:46:57",
+      "content": "Vor zehn Jahren schien es, als seien Krankheiten wie Keuchhusten von der medizinischen Bildfl\u00e4che praktisch verschwunden. Dieses Bild wandelte sich in den vergangenen Monaten grundlegend. Zu Jahresbe\u2026 [+1906 chars]",
+      "retrievedAt": "2024-08-22 19:06:05.908004",
+      "internal_id": "3e5b6516551ff116a776e04e05a8c25b3f49b450d074186ea67cbb7633e1936c",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12458,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Balatarin.com",
+      "author": "seyedrasoul",
+      "title": "\u0622\u0646\u0686\u0647 \u06a9\u0647 \u062f\u0631\u0628\u0627\u0631\u0647 \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646\u06cc \u0628\u0627\u06cc\u062f \u0628\u062f\u0627\u0646\u06cc\u062f",
+      "description": "\u062f\u06a9\u062a\u0631 \u0633\u06cc\u062f\u0631\u0636\u0627 \u0628\u0646\u06cc\u200c\u0647\u0627\u0634\u0645\u06cc \u0648\u0627\u06a9\u0633\u06cc\u0646\u0648\u0644\u0648\u0698\u06cc\u0633\u062a \u0627\u0646\u0633\u062a\u06cc\u062a\u0648 \u0631\u0627\u0632\u06cc \u0646\u0648\u0634\u062a: \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646\u06cc\u060c \u06cc\u06a9 \u0639\u0641\u0648\u0646\u062a \u0648\u06cc\u0631\u0648\u0633\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062f\u0631 \u062f\u0631\u062c\u0647 \u0627\u0648\u0644 \u0627\u0646\u0633\u0627\u0646 \u0648 \u062d\u06cc\u0648\u0627\u0646\u0627\u062a \u0631\u0627 \u062a\u062d\u062a \u062a\u0627\u062b\u06cc\u0631 \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f. \u0627\u06cc\u0646 \u0648\u06cc\u0631\u0648\u0633 \u0645\u062a\u0639\u0644\u0642 \u0628\u0647 \u06af\u0631\u0648\u0647\u06cc \u0627\u0632 \u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627\u06cc \u0637\u0628\u0642\u0647\u200c\u0628\u0646\u062f\u06cc \u0634\u062f\u0647 \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u201c\u062c\u0646\u0633 Orthopoxvirus\u201d \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627 \u0645\u0639\u0645\u0648\u0644\u0627\u064b \u0628\u0627\u0639\u062b \u0628\u06cc\u2026",
+      "url": "https://www.balatarin.com/permlink/2024/8/21/6209125",
+      "urlToImage": "https://s3.amazonaws.com/bala.static/links/47d1255a-9f9c-4b0a-a281-aaa5d794c321-permlink.jpg",
+      "publishedAt": "2024-08-21 16:36:14",
+      "content": ": . Orthopoxvirus . . .mpox . .:...( ) .. . .. . .Mpox .WHO mpox (PHEIC) mpox .CDC mpox . .. .I .mpox .tecovirimat (TPOXX) mpox .JYNNEOS ( Imvamune Imvanex ) mpox . . . . .:- - ..",
+      "retrievedAt": "2024-08-22 19:06:08.813327",
+      "internal_id": "e8f2e4c8d9eba47cec0d3aeb16af69d0e384547e1a8281244b3b01289482077f",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12437,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "S\u00e9bastien Fite",
+      "title": "Dr\u00f4me. Apr\u00e8s le cas de dengue signal\u00e9 \u00e0 Mont\u00e9limar : \u00ab On ne sait pas o\u00f9 exactement la d\u00e9moustication aura lieu \u00bb",
+      "description": "Une d\u00e9moustication est pr\u00e9vue dans le quartier de l\u2019Hippodrome \u00e0 Mont\u00e9limar ce jeudi 22 ao\u00fbt tr\u00e8s t\u00f4t le matin. Cette op\u00e9ration concernera \u00ab les lieux fr\u00e9quent\u00e9s par la personne malade \u00bb de la dengue, selon l\u2019Agence r\u00e9gionale de sant\u00e9 (ARS). Ce mercredi, les \u2026",
+      "url": "https://www.ledauphine.com/sante/2024/08/21/apres-le-cas-de-dengue-signale-a-montelimar-on-ne-sait-pas-ou-exactement-la-demoustication-aura-lieu",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/24E066D6-2A82-4351-B821-2E7345E06F9A/FB1200/photo-1724257620.jpg",
+      "publishedAt": "2024-08-21 16:32:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2024-08-22 19:06:07.182897",
+      "internal_id": "a13ee6b9eb280c6ecf34eeec4a142a78051637d88376573f7b8f80c9fbd4045a",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12452,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Nave bloccata in Argentina, non \u00e8 vaiolo delle scimmie",
+      "description": "I risultati del test scartano l'ipotesi del virus Mpox (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/08/21/argentina-resta-isolata-la-nave-a-rischio-vaiolo-delle-scimmie_28e10adc-dae1-4c93-ad02-6a558b00c020.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/8/21/0ed301bc3b063c52007c60ee2f1b476c.jpg",
+      "publishedAt": "2024-08-21 16:19:05",
+      "content": "BUENOS AIRES - \u00c8 risultato negativo il test di laboratorio sul membro dell'equipaggio della nave bloccata alla rada sul Rio della Plata dalle autorit\u00e0 sanitarie argentine per un caso sospetto di vaio\u2026 [+759 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.698527",
+      "internal_id": "90607da8a0f0809316275489040850115f67eaf0c392891dbdcaeb4ad4e23eae",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12462,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Silvia Melo",
+      "title": "Como identificar as erup\u00e7\u00f5es cut\u00e2neas de mpox",
+      "description": "\u00c0 medida que os casos de mpox aumentam no mundo, \u00e9 necess\u00e1rio saber identificar aos sinais e sintomas. O mais caracter\u00edstico da doen\u00e7a \u00e9 o aparecimento de",
+      "url": "https://catracalivre.com.br/saude-bem-estar/como-identificar-as-erupcoes-cutaneas-de-mpox/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/08/erupcoes-mpox.png",
+      "publishedAt": "2024-08-21 15:26:59",
+      "content": "\u00c0 medida que os casos de mpox aumentam no mundo, \u00e9 necess\u00e1rio saber identificar aos sinais e sintomas. O mais caracter\u00edstico da doen\u00e7a \u00e9 o aparecimento de erup\u00e7\u00f5es cut\u00e2neas em diferentes partes do co\u2026 [+3371 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.885634",
+      "internal_id": "d8be7e900dd0c023c3f8814f741e0be98efe944f872337f1de8e13f3a96b5b98",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12429,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Tirol.orf.at",
+      "author": "ORF.at",
+      "title": "Tirol mit den meisten Keuchhustenf\u00e4llen",
+      "description": "Die Keuchhustenf\u00e4lle(Pertussis) sind heuer offenbar wegen fehlender Impfungen in der Bev\u00f6lkerung regelrecht explodiert. Im gesamten Vorjahr gab es mit der f\u00fcr S\u00e4uglinge lebensbedrohlichen Infektion allein in Tirol 2.460 F\u00e4lle, meldete die \u00c4rztekammer.",
+      "url": "https://tirol.orf.at/stories/3269943/",
+      "urlToImage": "https://ibs.orf.at/tir?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2024%2F24%2F86%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F2243887_master_852386_husten1.jpg%3Fs%3D398ff343107aeeb60b6a01ad4a43a54b20c40570",
+      "publishedAt": "2024-08-21 14:57:51",
+      "content": "Die gro\u00dfen Impfl\u00fccken sind f\u00fcr den erschreckenden Anstieg an Keuchhustenf\u00e4llen in ganz \u00d6sterreich verantwortlich und m\u00fcssen rasch geschlossen werden. Denn Keuchhusten ist eine ernst zu nehmende Erkra\u2026 [+2272 chars]",
+      "retrievedAt": "2024-08-22 19:06:05.928929",
+      "internal_id": "40d21bafb53afe4159ad7cfc00f9a916bfabe6fcb49fc790c149225b65ccc6bf",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12448,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Vacina brasileira contra a mpox est\u00e1 sendo desenvolvida",
+      "description": "A esperan\u00e7a \u00e9 que a vacina combata o poss\u00edvel avan\u00e7o da mpox, classificada recentemente como uma nova emerg\u00eancia global pela OMS O post Vacina brasileira contra a mpox est\u00e1 sendo desenvolvida apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/08/21/medicina-e-saude/vacina-brasileira-contra-a-mpox-esta-sendo-desenvolvida/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/08/vacina-mpox-1.jpg",
+      "publishedAt": "2024-08-21 14:47:52",
+      "content": "Classificada recentemente pala Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) como uma nova emerg\u00eancia global, a mpox tem atra\u00eddo a aten\u00e7\u00e3o de cientistas. O objetivo \u00e9 criar formas de impedir a r\u00e1pida propaga\u00e7\u00e3o\u2026 [+2736 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.628129",
+      "internal_id": "a56c2ef5cb8ecf61bb3ad7721d6a6d8b630ff517411975514c83d52dce915a61",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12445,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Julian Sadeghi",
+      "title": "Mpox: Deutschland hat knapp 120.000 Mpox-Impfdosen vorr\u00e4tig",
+      "description": "Die Mpox-Impfdosen sind laut Bundesgesundheitsministerium seit 2022 im Bestand der Bundeswehr. Eine weitere zentrale Beschaffung sei nicht geplant.",
+      "url": "https://www.zeit.de/gesundheit/2024-08/mpox-virus-impfstoffe-vorrat",
+      "urlToImage": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/mpox-impfdosen-bild/wide__1300x731",
+      "publishedAt": "2024-08-21 14:38:55",
+      "content": "Der Bund hat nach Angaben des Bundesgesundheitsministeriums derzeit 117.000 Impfstoffdosen gegen die Krankheit Mpox auf Lager. Diese seien 2022 beschafft worden und l\u00e4gen in Best\u00e4nden der Bundesweh\u2026 [+787 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.563482",
+      "internal_id": "2cb9f1218b4fdf14a0e5b563abf3f9833cb4419ea5d150816cfdff0e37139e7d",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12449,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Pilar P\u00e9rez, C. Ruiz",
+      "title": "Sanidad estudia los grupos concretos de viajeros a los que se ofrecer\u00e1 la vacuna de la Mpox",
+      "description": "De momento, no se vacunar\u00e1 al 100% de los personas que acudan a pa\u00edses con brotes declarados y se personalizar\u00e1 cada caso. Espa\u00f1a acumula desde el inicio de a\u00f1o 267 contagios de la variante mayoritaria en 2022 Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/08/21/66c5d486e85eceea748b457b.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/7d93a9cc34e042630293a24cf14c3852/crop/0x0/3071x2047/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/21/17242494181564.jpg",
+      "publishedAt": "2024-08-21 14:19:35",
+      "content": "Esta ma\u00f1ana se ha reunido la Comisi\u00f3n de Salud P\u00fablica (CSP) de Sanidad para analizar la situaci\u00f3n del Mpox (viruela del mono) en Espa\u00f1a. Los representantes auton\u00f3micos han acordado una serie de acci\u2026 [+6198 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.642511",
+      "internal_id": "47f0c114c46ae07819a221d6328a1fbb681e64820de9f4737e66c8db2c253cc0",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12430,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Sun Chronicle",
+      "author": "By David Linton dlinton@thesunchronicle.com",
+      "title": "Bat caught inside Norfolk home tests positive for rabies, occupants were not exposed to virus",
+      "description": "NORFOLK -- A bat captured inside a home on Mountain Rock Lane two days ago has tested positive for rabies but the residents and a pet dog were not exposed to the virus, Norfolk Animal Control Officer Hilary Cohen said\u2026",
+      "url": "https://www.thesunchronicle.com/news/local_news/bat-caught-inside-norfolk-home-tests-positive-for-rabies-occupants-were-not-exposed-to-virus/article_c5ff6082-5fc5-11ef-a505-d3a0209f4f94.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/c/d8/cd8aaa24-fcc2-11e5-bc93-d3d6ff66708d/57065d84dcabf.image.jpg?crop=1062%2C558%2C0%2C135&resize=1062%2C558&order=crop%2Cresize",
+      "publishedAt": "2024-08-21 14:00:00",
+      "content": "NORFOLK -- A bat captured inside a home on Mountain Rock Lane two days ago has tested positive for rabies but the residents and a pet dog were not exposed to the virus, Norfolk Animal Control Officer\u2026 [+1271 chars]",
+      "retrievedAt": "2024-08-22 19:06:06.216996",
+      "internal_id": "75e953f1291dd82b5a6ddc8b2a5a46b571fd215b5cc978af79bb1c92b5c23612",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12456,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hvg.hu",
+      "author": "hvg@hvg.hu",
+      "title": "A majomhiml\u0151 nem az \u00faj Covid, \u00e9s meg\u00e1ll\u00edthat\u00f3 \u2013 \u00e1ll\u00edtja a szak\u00e9rt\u0151",
+      "description": "A majomhiml\u0151 \u00faj v\u00e1ltozata, a Klade Ib k\u00f6nnyebben terjed, mint a kor\u00e1bbi v\u00e1ltozatok, \u00e9s nagyobb val\u00f3sz\u00edn\u0171s\u00e9ggel vezethet s\u00falyos megbeteged\u00e9sekhez. Ennek a v\u00e1ltozatnak az els\u0151 Afrik\u00e1n k\u00edv\u00fcli felbukkan\u00e1s\u00e1t a m\u00falt h\u00e9ten Sv\u00e9dorsz\u00e1gban igazolt\u00e1k.",
+      "url": "https://hvg.hu/tudomany/20240821_A-majomhimlo-nem-uj-Covid-es-megallithato-allitja-a-szakerto",
+      "urlToImage": "https://img.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/97ded1f1-7c43-4a16-b56d-e750e93213bb.jpg",
+      "publishedAt": "2024-08-21 13:54:36",
+      "content": "A majomhiml (mpox) nem az \u00faj Covid, mert a hat\u00f3s\u00e1gok egy\u00e9rtelmen tudj\u00e1k, hogyan kell megf\u00e9kezni a terjed\u00e9s\u00e9t id\u00e9zte az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet (WHO) egyik vezet szak\u00e9rtj\u00e9t a BBC. A v\u00edrus \u00faj v\u00e1lto\u2026 [+3973 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.796067",
+      "internal_id": "3b61dddb7fc97b75ec410b2eed75402fe1577d2f262060974870f6e2fc982111",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12460,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Silvia Melo",
+      "title": "Mpox: entenda como a doen\u00e7a pode causar a morte",
+      "description": "A nova variante da mpox j\u00e1 causou a morte de mais de 500 pessoas na Rep\u00fablica Democr\u00e1tica do Congo, desde o in\u00edcio do ano at\u00e9 agora. Mas o que faz essa",
+      "url": "https://catracalivre.com.br/saude-bem-estar/mpox-entenda-como-a-doenca-pode-causar-a-morte/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/08/mpox-morte.jpg",
+      "publishedAt": "2024-08-21 13:32:20",
+      "content": "A nova variante da mpox j\u00e1 causou a morte de mais de 500 pessoas na Rep\u00fablica Democr\u00e1tica do Congo, desde o in\u00edcio do ano at\u00e9 agora. Mas o que faz essa nova cepa ser t\u00e3o mortal? Existem duas cepas p\u2026 [+3386 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.869901",
+      "internal_id": "62a478aa33eab45540fdb1ba146d32a13b5280c4400eaf690fb3ee99d4a529dc",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12439,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "La ciudad de Buenos Aires pone en marcha su plan contra el dengue para los pr\u00f3ximos meses",
+      "description": "El plan considera cuatro escenarios de riesgo local, de acuerdo con la presencia del mosquito transmisor, si hay o no circulaci\u00f3n del virus, la aparici\u00f3n de los casos aut\u00f3ctonos y las semanas de mayor aumento de casos y tensi\u00f3n del sistema sanitario",
+      "url": "https://www.lanacion.com.ar/sociedad/la-ciudad-de-buenos-aires-pone-en-marcha-su-plan-contra-el-dengue-para-los-proximos-meses-nid21082024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/uno-de-los-principales-objetivos-del-plan-es-LEBMWTEDWFHL5MURVGIPNZRGXE.jpg?auth=9f807804cab8b892fb8b996cfccbfb998172079fdcf81345b9d860531abace1a&width=768&quality=70&smart=false",
+      "publishedAt": "2024-08-21 13:24:56",
+      "content": "La ciudad de Buenos Aires est\u00e1 entre las jurisdicciones que empiezan a activarse para evitar otra epidemia de dengue este verano y ma\u00f1ana arranca con la primera de cuatro etapas que tendr\u00e1 el plan de\u2026 [+8827 chars]",
+      "retrievedAt": "2024-08-22 19:06:07.215610",
+      "internal_id": "d9f89e392c1e394730828a0dc2b8b7f9f7a93d6704dbadc782f8140d6c96c1ce",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12450,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": null,
+      "title": "Mpox-\u00dcbertragung \u2013 \u201eMan muss schon in direkten Kontakt mit der Person kommen\u201c",
+      "description": "In Afrika breitet sich das Mpox-Virus weiter mit gro\u00dfer Geschwindigkeit aus. \u201eEs gibt Berichte, dass sie eine etwas h\u00f6here Sterblichkeitsrate hat\u201c, sagt Prof. Hendrik Streeck, Virologe am Universit\u00e4tsklinikum Bonn.",
+      "url": "https://www.welt.de/gesundheit/video253114510/Uebertragung-des-Mpox-Erreger-Muss-in-direkten-Kontakt-kommen.html",
+      "urlToImage": "https://img.welt.de/img/debatte/kommentare/mobile243781339/5001359877-ci16x9-w1200/268846249.jpg",
+      "publishedAt": "2024-08-21 13:12:09",
+      "content": "Die WELT als ePaper: Die vollst\u00e4ndige Ausgabe steht Ihnen bereits am Vorabend zur Verf\u00fcgung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link die\u2026 [+49 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.678840",
+      "internal_id": "9168e9bcea64354856eb501d6f25f938f8484f2b0f948c1ba7f7c737b42b6369",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12455,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Diplomat",
+      "author": "Catherine Putz",
+      "title": "Could Mpox Become Established in the Indo-Pacific?",
+      "description": "While the Indo-Pacific has been one of the regions least affected by mpox in the past, that could change if the virus spreads unchecked.",
+      "url": "https://thediplomat.com/2024/08/could-mpox-become-established-in-the-indo-pacific/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2024/08/sizes/td-story-s-2/thediplomat_2024-08-21-123106.jpg",
+      "publishedAt": "2024-08-21 12:40:16",
+      "content": "Once thought to be mainly contained to Africa, cases of mpox (previously known as monkeypox) have been detected in Sweden, Pakistan, and the Philippines over the last few days. This follows the Worl\u2026 [+14752 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.781759",
+      "internal_id": "3c7871feee8a1502adf2f7ccea6dfdba9b534df287bc41dad6cb9f86de9bf522",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12438,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Porto Alegre registra mais de 10,5 mil casos de dengue em 2024",
+      "description": "Porto Alegre tem 10.596 casos confirmados de dengue em 2024 at\u00e9 17 de agosto. Do total, 9.759 ...",
+      "url": "https://www.terra.com.br/noticias/porto-alegre-registra-mais-de-105-mil-casos-de-dengue-em-2024,bcd1f8fc99987514add298f57c8dbd11hqlwsoie.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/08/21/131745629-mosquito-dengue.jpg",
+      "publishedAt": "2024-08-21 12:34:40",
+      "content": "Porto Alegre tem 10.596 casos confirmados de dengue em 2024 at\u00e9 17 de agosto. Do total, 9.759 foram contra\u00eddos na cidade, 354 s\u00e3o importados (infec\u00e7\u00e3o fora da cidade) e 483 t\u00eam local de infec\u00e7\u00e3o inde\u2026 [+1029 chars]",
+      "retrievedAt": "2024-08-22 19:06:07.201627",
+      "internal_id": "0694bd68ad4e3b1cc082eed0fd7d4d41e40c3d325d17024cc91397603b8e04da",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12453,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Links 8/21/2024",
+      "description": "Our fanciful daily links: student nuclear reactor, WHO reassurance on mpox (?!?!), Middle East heat records, China housing support doubts, 25% of Brits plan not to heat this winter, Hezbollah excalating? Putin rejects negotiation, Kamala $500 million fund rai\u2026",
+      "url": "https://www.nakedcapitalism.com/2024/08/links-8-21-2024.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/08/00-sandhilll-crane.jpg",
+      "publishedAt": "2024-08-21 10:55:31",
+      "content": "Father and daughter dance on their walk pic.twitter.com/3VGiv1m79q \u2014 Science girl (@gunsnrosesgirl3) August 20, 2024 An Intoxicating 500-Year-Old Mystery Atlantic (Anthony L) Teen Builds His Own N\u2026 [+7645 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.734440",
+      "internal_id": "7d0ad172ca5f7dff71c1ddf857295a1963e1d119f14f02e1f54c164a08b39d93",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12451,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Mpox no es una nueva covid y puede ser contenida, dice la OMS",
+      "description": "El mundo debe actuar ahora para garantizar que las vacunas lleguen a las zonas m\u00e1s necesitadas, afirm\u00f3 el doctor Hans Kluge, director para Europa de la OMS.",
+      "url": "https://www.bbc.com/mundo/articles/c3ejzznkd8jo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e9f4/live/0f820830-5fa4-11ef-8c32-f3c2bc7494c6.jpg",
+      "publishedAt": "2024-08-21 10:51:58",
+      "content": "Fuente de la imagen, Reuters Informaci\u00f3n del art\u00edculoAutor, Michelle RobertsT\u00edtulo del autor, Editora de salud, BBC News La mpox \"no es la nueva covid\", porque l\u2026 [+4186 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.688790",
+      "internal_id": "ba6b0a8a5082b315d272baa157013cbc5ae4faaca9536f2391197c0dd3547a7d",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12443,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Press release: Students urged to protect themselves from deadly meningitis",
+      "description": "The UK Health Security Agency is encouraging students to make the healthiest start to their studies possible.",
+      "url": "https://www.gov.uk/government/news/students-urged-to-protect-themselves-from-deadly-meningitis",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/66c5c42481850effa1b18dff/s960_Students.png",
+      "publishedAt": "2024-08-21 10:47:57",
+      "content": "The UK Health Security Agency (UKHSA) is reminding all higher education and university students freshers and returning students to make sure they are up to date with their free NHS childhood and adol\u2026 [+3671 chars]",
+      "retrievedAt": "2024-08-22 19:06:07.455447",
+      "internal_id": "b785e8cd7486fcbaeb57206a8b4ffdb757d6b22b055c9c0d1ed00a83d1568777",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12441,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Dengue : un nouveau cas autochtone d\u00e9tect\u00e9 dans la Dr\u00f4me",
+      "description": "Au total, sept cas autochtones ont \u00e9t\u00e9 d\u00e9clar\u00e9s en France hexagonale cette ann\u00e9e.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/dengue-un-nouveau-cas-autochtone-detecte-dans-la-drome_6736014.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/2Vh5_8_vsSAdK6IVi6Ti5xdllxY/0x261:5000x3074/1500x843/2024/08/21/mooustique-66c5c17307b48013962388.jpg",
+      "publishedAt": "2024-08-21 10:30:46",
+      "content": "Un cas autochtone de dengue \u00e0 Mont\u00e9limar, dans la Dr\u00f4me, a \u00e9t\u00e9 officialis\u00e9. C'est l'Agence r\u00e9gionale de sant\u00e9 (ARS) Auvergne-Rh\u00f4ne-Alpes qui a effectu\u00e9 la d\u00e9marche, a appris France Bleu Dr\u00f4me Ard\u00e8che\u2026 [+2200 chars]",
+      "retrievedAt": "2024-08-22 19:06:07.239964",
+      "internal_id": "2ab5f94d53894292efa630e34db9d2850d75d89e10ef97f082490302968ba5f7",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12440,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Centro de Transfusi\u00f3n de La Rioja implanta nueva t\u00e9cnica que permite detectar cuatro virus transmitidos por mosquitos",
+      "description": "El Centro de Transfusi\u00f3n de La Rioja acaba de implantar una nueva determinaci\u00f3n anal\u00edtica que permite la detecci\u00f3n de carga viral de cuatro arbovirus (virus transmitidos por mosquitos): virus del Nilo Occidental, dengue, zika y chikungunya.",
+      "url": "https://www.europapress.es/la-rioja/noticia-centro-transfusion-rioja-implanta-nueva-tecnica-permite-detectar-cuatro-virus-transmitidos-mosquitos-20240821121943.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240821121943_1200.jpg",
+      "publishedAt": "2024-08-21 10:19:43",
+      "content": "LOGRO\u00d1O, 21 Ago. (EUROPA PRESS) - El Centro de Transfusi\u00f3n de La Rioja acaba de implantar una nueva determinaci\u00f3n anal\u00edtica que permite la detecci\u00f3n de carga viral de cuatro arbovirus (virus tra\u2026 [+2950 chars]",
+      "retrievedAt": "2024-08-22 19:06:07.234569",
+      "internal_id": "768186866cb1e8c36cf294c6facada2f2ba8ca9cef009597757e1d6ccc8e48db",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12442,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": "Dolores Mazzola",
+      "title": "Un cas de dengue autochtone signal\u00e9 \u00e0 Mont\u00e9limar : le patient est gu\u00e9ri",
+      "description": "Dans un communiqu\u00e9 de presse diffus\u00e9 ce mercredi 21 ao\u00fbt, l\u2019Agence r\u00e9gionale de sant\u00e9 Auvergne Rh\u00f4ne-Alpes informe qu\u2019une op\u00e9ration de d\u00e9moustication est programm\u00e9e ce jeudi 22 ao\u00fbt dans le secteur de Mont\u00e9limar apr\u00e8s le signalement d'un cas de dengue autocht\u2026",
+      "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/drome/valence/un-cas-de-dengue-autochtone-signale-a-montelimar-le-patient-est-gueri-3020447.html",
+      "urlToImage": "https://france3-regions.francetvinfo.fr/image/VS370nkd9gm9_mwNev5vGkh-Alk/930x620/regions/2024/08/21/maxmatinnews291106-66c5bbe48f201274741673.jpg",
+      "publishedAt": "2024-08-21 10:16:17",
+      "content": "Dans un communiqu\u00e9 de presse diffus\u00e9 ce mercredi 21 ao\u00fbt, lAgence r\u00e9gionale de sant\u00e9 Auvergne Rh\u00f4ne-Alpes informe quune op\u00e9ration de d\u00e9moustication est programm\u00e9e ce jeudi 22 ao\u00fbt dans le secteur de \u2026 [+3166 chars]",
+      "retrievedAt": "2024-08-22 19:06:07.245076",
+      "internal_id": "40701ca51cd4136d1cca7f25517e4e84eb782d370fcb82ac1dc4710fe66825fd",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12459,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Vicky Hristova",
+      "title": "What is mpox? How it spreads, can be prevented and treated",
+      "description": "The WHO has declared mpox a global health emergency, the highest level of alert for an infectious disease. DW answers your questions.",
+      "url": "https://www.dw.com/en/what-is-mpox-how-it-spreads-can-be-prevented-and-treated/a-69951261",
+      "urlToImage": "https://static.dw.com/image/69945412_6.jpg",
+      "publishedAt": "2024-08-21 10:12:00",
+      "content": "A new version of the mpox virus has emerged in Central Africa, spreading among children and adults in the Democratic Republic of the Congo and neighboring countries. Infection with mpox causes a pu\u2026 [+7641 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.864250",
+      "internal_id": "15ad8d7c1ffd08a9724ce5266e0ecd713536f412c726a4265dbcc92ecf3385e4",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12457,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Sof\u00eda Barruti",
+      "title": "Agencia de salud de \u00c1frica dice que las vacunas contra el mpox podr\u00edan llegar \"en unos d\u00edas\"",
+      "description": "(CNN) -- La principal agencia de salud p\u00fablica de \u00c1frica declar\u00f3 que las vacunas contra el mpox podr\u00edan empezar a llegar en los pr\u00f3ximos d\u00edas a la Rep\u00fablica Democr\u00e1tica del Congo (RDC) y otros pa\u00edses africanos, mientras la agencia trabaja para almacenar sumin\u2026",
+      "url": "https://cnnespanol.cnn.com/2024/08/21/africa-cdc-dicen-que-las-vacunas-contra-el-mpox-podrian-llegar-dias-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/mpox-viruela-del-mono.webp",
+      "publishedAt": "2024-08-21 09:47:58",
+      "content": "Estos son los s\u00edntomas de la viruela del mono 5:43 (CNN) -- La principal agencia de salud p\u00fablica de \u00c1frica declar\u00f3 que las vacunas contra el mpox podr\u00edan empezar a llegar en los pr\u00f3ximos d\u00edas a la \u2026 [+2637 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.803178",
+      "internal_id": "539c959c445068f4d7f5a0e9b8c28459a35c6b4d54a632297ba41afd52447eca",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12447,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Thailand says mpox detected in European who travelled from Africa",
+      "description": "The 66-year-old male arrived in the country on August 14 and is being quarantined in a hospital.",
+      "url": "https://www.aljazeera.com/news/2024/8/21/thailand-says-mpox-detected-in-european-who-travelled-from-africa",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/AP22346671309023-1723796762.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-08-21 09:47:06",
+      "content": "Thailand has detected an mpox case in a European man who arrived from Africa last week and is awaiting test results to determine the strain, health officials said. Thongchai Keeratihattayakorn, head\u2026 [+2393 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.604882",
+      "internal_id": "90dff149fe495fd5b166104147fa1d4474adf71dd216f1b11b50ff16477d5ce4",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12446,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "Wulf Rohwedder",
+      "title": "Nach WHO-Notstand: Neue und alte Ger\u00fcchte zu Mpox",
+      "description": "Wie bereits beim ersten Ausbruch vor zwei Jahren werden aktuell wieder Fehlinformationen zum Mpox-Virus verbreitet. Insbesondere die Ausrufung des gesundheitlichen Notstands durch die WHO hat Ger\u00fcchte ausgel\u00f6st. Von W. Rohwedder.",
+      "url": "https://www.tagesschau.de/faktenfinder/mpox-affenpocken-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/d276c9f6-43e2-4e04-800d-d27681395c05/AAABkXQ2EKk/AAABkUqnCZ0/16x9-1280/mpox-aufklaerung-100.jpg",
+      "publishedAt": "2024-08-21 09:13:08",
+      "content": "Stand: 21.08.2024 11:13 Uhr Wie bereits beim ersten Ausbruch vor zwei Jahren werden aktuell wieder Fehlinformationen zum Mpox-Virus verbreitet. Insbesondere die Ausrufung des gesundheitlichen Notsta\u2026 [+6050 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.577905",
+      "internal_id": "d5370b040125cae7bd90fbfc0b57c838353e40d7aceb3a4495e861391e197ec9",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12435,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "title": "Dr\u00f4me. Un cas de dengue autochtone d\u00e9tect\u00e9 \u00e0 Mont\u00e9limar, une premi\u00e8re dans la r\u00e9gion cette ann\u00e9e",
+      "description": "Dans un communiqu\u00e9 de presse, l\u2019ARS informe qu\u2019une op\u00e9ration de d\u00e9moustication est programm\u00e9e ce jeudi 22 ao\u00fbt au matin.",
+      "url": "https://www.ledauphine.com/sante/2024/08/21/un-cas-de-dengue-autochtone-detecte-a-montelimar-une-premiere-dans-la-region-cette-annee",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/D0A384A8-13EC-4AB7-81B4-2C98652C518B/FB1200/photo-1724230143.jpg",
+      "publishedAt": "2024-08-21 08:48:00",
+      "content": "Ce mercredi 21 ao\u00fbt, l\u2019Agence r\u00e9gionale de sant\u00e9 (ARS) d'Auvergne-Rh\u00f4ne-Alpes a indiqu\u00e9 qu\u2019un cas de dengue avait \u00e9t\u00e9 d\u00e9tect\u00e9 dans la Dr\u00f4me, \u00e0 Mont\u00e9limar. C\u2019est un cas autochtone \u2013 c\u2019est-\u00e0-dire que \u2026 [+905 chars]",
+      "retrievedAt": "2024-08-22 19:06:07.162593",
+      "internal_id": "464475d5376780faf3bcdd28456557ed4ac358b3b2106e879530107deee47599",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12454,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "Mpox, Explained: Key Details On Latest Virus Outbreak",
+      "description": "The WHO declared mpox a public health emergency of international concern in August amid an escalating outbreak of a worrying new variant in central Africa",
+      "url": "https://www.forbes.com/sites/roberthart/2024/08/21/mpox-explained-key-details-on-latest-virus-outbreak/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66c59f8d6b952b6547c47136/0x0.jpg?format=jpg&crop=3000,1687,x0,y216,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-08-21 08:05:12",
+      "content": "Officials in Thailand on Wednesday said they have detected a new case of mpox in the country and are investigating to see whether the variant is the same linked to a growing outbreak in central Afric\u2026 [+7949 chars]",
+      "retrievedAt": "2024-08-22 19:06:08.761816",
+      "internal_id": "c96e4ba3f69ab3aaa3cbb880d61306bb6ce7ee412b977020b9ec2f110e8f305c",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12434,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "345 dengue, 35 chikungunya cases in August in Ahmedabad",
+      "description": "Ahmedabad faced rising health crises with 345 dengue, 110 malaria, 35 chikungunya, and 35,391 viral fever cases reported between Aug 1 and 17. Cholera persisted, with 193 cases in 2024 exceeding previous years. An official cited intermittent monsoon rains as \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/345-dengue-35-chikungunya-cases-in-august-in-ahmedabad/articleshow/112675301.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112675448,width-1070,height-580,imgsize-32476,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-21 07:41:24",
+      "content": "Mollywood beauties gear up for Onam 2024",
+      "retrievedAt": "2024-08-22 19:06:07.144470",
+      "internal_id": "656df9194df8fe61a6bc1cbd448908dc82750f92aeccc7c7c3af2f16b4d2736f",
+      "publishedAtLabel": "Aug 21"
+    },
     {
       "id": 12413,
       "query": [
@@ -28142,205 +28776,6 @@
       "content": "New Delhi: The onset of monsoon boosted sales of drugs for respiratory, anti-infective, anti-malaria and gastrointestinal therapies in June.According to market researcher Pharmarack, these therapies \u2026 [+1464 chars]",
       "retrievedAt": "2024-07-09 07:06:01.964468",
       "internal_id": "dce090d88618498155b7d5ad7f5f6e50473b4df00c2a2c2b43557a547e22c355",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10862,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Opposition demands free dengue tests as cases touch 7.1k in Karnataka",
-      "description": "Opposition leader criticizes health centres for charging Rs 1,000 for dengue tests, calls for free testing. Karnataka records 7,165 dengue cases since January, with BBMP area most affected. Minister instructs gram panchayats to take preventive actions. Concer\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/opposition-demands-free-dengue-tests-as-cases-touch-7-1k-in-karnataka/articleshow/111560017.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-111560062,width-1070,height-580,imgsize-41852,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-07-07 18:54:45",
-      "content": "Unforgettable train journeys across Indias best landscape",
-      "retrievedAt": "2024-07-08 19:05:30.175029",
-      "internal_id": "6cdc8208663ae4383f8d5947a77e7ca757d8e639c77859c930bc7b5acf081029",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10860,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Leslie Eastman",
-      "title": "Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory",
-      "description": "\"Experts\" are tying the rise in dengue fever infections to \"climate change\" The post Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2024/07/florida-issues-dengue-fever-alert-cdc-issues-its-own-health-advisory/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2016/10/LI-34-Mosquito-e1476243914966.png",
-      "publishedAt": "2024-07-07 18:00:03",
-      "content": "Back in 2016, I reported that cases of dengue fever were being reported in Florida and Hawaii. Dengue (break-bone fever) is a viral infection that spreads from mosquitoes to people and is more common\u2026 [+4714 chars]",
-      "retrievedAt": "2024-07-08 19:05:30.150685",
-      "internal_id": "249d56c5124711c2521b14729570f49f688e862c567d596d4d662648a721dabe",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10861,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Lidovky.cz",
-      "author": "Mat\u011bj Ku\u010dera",
-      "title": "Epidemiolog Ma\u010far: Klima st\u011bhuje exotick\u00e9 nemoci do Evropy. Co doporu\u010duje p\u0159ed cestami do zahrani\u010d\u00ed?",
-      "description": "Projevuje se n\u00e1hlou vysokou hore\u010dkou, bolestmi kloub\u016f, sval\u016f, vlastn\u011b cel\u00e9ho t\u011bla. Obrazn\u011b \u0159e\u010deno \u201el\u00e1me kosti\u201c. Krv\u00e1cen\u00ed ohro\u017euje pacienta i na \u017eivot\u011b. Hore\u010dka dengue pat\u0159\u00ed k ob\u00e1van\u011bj\u0161\u00edm nemocem dovolenk\u00e1\u0159\u016f.",
-      "url": "https://www.lidovky.cz/domov/epidemiolog-klima-stehuje-exoticke-nemoci-do-evropy-co-doporucuje-pred-cestami-do-zahranici.A240707_185852_ln_domov_rkj",
-      "urlToImage": "https://1gr.cz/fotky/lidovky/21/032/cl8/LRO8a28ee_21_83545479.jpg",
-      "publishedAt": "2024-07-07 17:03:00",
-      "content": "Proti chorob, kterou na lovka pen\u00e1\u00ed kom\u00e1i, se d\u00e1 okovat. Epidemiolog Rastislav Maar v rozhovoru pro Lidovky.cz \u00edk\u00e1, e zat\u00edm to nevid\u00ed jako nezbytn nutn\u00e9, ale ostraitost je nam\u00edst. Loni se podle Maara\u2026 [+518 chars]",
-      "retrievedAt": "2024-07-08 19:05:30.161772",
-      "internal_id": "adcdbc10636604e5569f711cb58471446776c0fd975739744329dce9a18e7aa1",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10869,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Nation.africa",
-      "author": "Hellen Aura",
-      "title": "Kenya on high alert as Mpox virus is reported in DRC",
-      "description": "Kenyans told to exercise high levels of hygiene since the virus can be spread through physical contact with an infected person.",
-      "url": "https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846",
-      "urlToImage": "https://nation.africa/resource/image/4682860/landscape_ratio3x2/1200/800/283a402bf2b4dcc2557b69f3ff13f92f/Ov/drc-mpox.jpg",
-      "publishedAt": "2024-07-07 15:02:34",
-      "content": "Kenya has issued a travel advisory to all counties and border entry points, highlighting the critical importance of early detection of smallpox cases. Ms Mary Muthoni Muriuki, Principal Secretary (P\u2026 [+5131 chars]",
-      "retrievedAt": "2024-07-08 19:05:32.428829",
-      "internal_id": "dce732c5a7b66dcfe6344ff8e2e1dfb75bd8ee6fb2585d27c2ca64c284f0220c",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10866,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Davao: Pag-mugna ug Mosquito-Borne Diseases Task Force sa mga barangay, i-implementar",
-      "description": "Davao City \u2013 Gimanduan sa lokal nga paggamhan subay sa gipagula nga memorandum ni Davao City Mayor Sebastian \u2018Baste\u2019 Duterte nga magmugna ang mga barangay ug Mosquito-Borne Diseases Task Force. Tumong niini nga makontrola ang pagsaka sa ihap sa kaso sa dengue\u2026",
-      "url": "https://rpnradio.com/davao-pag-mugna-ug-mosquito-borne-diseases-task-force-sa-mga-barangay-i-implementar/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/11/feat-davao.png",
-      "publishedAt": "2024-07-07 11:47:49",
-      "content": "Davao City Gimanduan sa lokal nga paggamhan subay sa gipagula nga memorandum ni Davao City Mayor Sebastian \u2018Baste\u2019 Duterte nga magmugna ang mga barangay ug Mosquito-Borne Diseases Task Force. Tumong\u2026 [+446 chars]",
-      "retrievedAt": "2024-07-08 19:05:30.257427",
-      "internal_id": "5bfd5f3c0071263f2015b00749a7e92944fd887691043991c8f77625838d7f92",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10864,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Business Standard",
-      "author": "Press Trust of India",
-      "title": "Cong govt in K'taka mired in competition for CM, Dy CM posts: Union min",
-      "description": "Accusing the Congress government in Karnataka of being in deep slumber and mired in competition for Chief Minister and Deputy Chief Minister posts and internal rifts, Union Minister Shobha Karandlaje on Sunday urged the CM Siddaramaiah and his administration \u2026",
-      "url": "https://www.business-standard.com/politics/cong-govt-in-k-taka-mired-in-competition-for-cm-dy-cm-posts-union-min-124070700218_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/02/thumb/featurecrop/400X400/1719895768-2989.jpg",
-      "publishedAt": "2024-07-07 09:26:46",
-      "content": "Though the government has fixed a rate for dengue tests, no one is following it, she said, \"there are reports about deaths due to dengue in Bengaluru, the government system has collapsed, the health \u2026 [+844 chars]",
-      "retrievedAt": "2024-07-08 19:05:30.230040",
-      "internal_id": "8cc88deaf3d2dacc8476df54b289643f923a1e3b928200c82f8742e7c38e4e46",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10859,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-washington-post",
-      "source_name": "The Washington Post",
-      "author": "Lena H. Sun",
-      "title": "Five people who survived measles recount the disease\u2019s horrors",
-      "description": "Measles is back, after vaccination largely eliminated it from the United States. Survivors describe having one of the most contagious diseases on Earth.",
-      "url": "https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PTNMVNTBUZFNPHNCEDHIYJDRVM.png&w=1200",
-      "publishedAt": "2024-07-07 09:06:09",
-      "content": "July 7, 2024 at 5:00 a.m. Lena H. Sun, a Washington Post national health reporter, has been reporting on rising measles outbreaks in the United States in recent years amid falling vaccination rates.\u2026 [+11832 chars]",
-      "retrievedAt": "2024-07-08 19:05:28.309565",
-      "internal_id": "827b7a4d86fdb6abd46a7b4c8d8771b34b87da4aa2b579b62aa0e8964ab2f02f",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10863,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje",
-      "description": "Shobha Karandlaje criticized Karnataka\u2019s Congress government\u2019s neglect of dengue and Zika cases, stalled projects, and law and order. As Bangalore North MP, she cited deaths, poor health department, BWSS, and non-functioning BBMP. Internal rifts blamed for ne\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-111553532,width-1200,height-630,imgsize-6528,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-07-07 08:59:38",
-      "content": "Accusing the Congress government in Karnataka of being in deep slumber and mired in competition for Chief Minister and Deputy Chief Minister posts and internal rifts, Union Minister Shobha Karandlaje\u2026 [+2779 chars]",
-      "retrievedAt": "2024-07-08 19:05:30.212426",
-      "internal_id": "2b3eaedb04ba02aca6ebf69abe61d3e1090e9549edfd7b1d0a53ef209d730fc2",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10868,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "focus",
-      "source_name": "Focus",
-      "author": "FOCUS online",
-      "title": "Sorge vor \u201eClade I\u201c - WHO warnt vor gef\u00e4hrlicher Mutation des Affenpocken-Virus",
-      "description": "Die Weltgesundheitsorganisation WHO ist alarmiert. In der Demokratischen Republik Kongo breitet sich eine Mutation des gef\u00e4hrlichen Affenpockenvirus (Mpox) massiv aus. Erstmals dokumentieren Experten eine beschleunigte \u00dcbertragung - ohne Geschlechtsverkehr.",
-      "url": "https://www.focus.de/gesundheit/sorge-vor-clade-i-who-warnt-vor-gefaehrlicher-mutation-des-affenpocken-virus_id_260115667.html",
-      "urlToImage": "https://p6.focus.de/img/regional/berlin/id_181671659/eine-kolorierte-mikroskopische-aufnahme-des-affenpockenvirus-gruen-auf-infizierten-vero-zellen..jpg?im=Crop%3D%280%2C371%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=95fa9420243d61072b5e445066bf142ca19f815b9f04878bd20514e8eae2223f",
-      "publishedAt": "2024-07-07 08:54:45",
-      "content": "Die Weltgesundheitsorganisation WHO ist alarmiert. In der Demokratischen Republik Kongo breitet sich eine Mutation des gef\u00e4hrlichen Affenpockenvirus (Mpox) massiv aus. Erstmals dokumentieren Experten\u2026 [+3070 chars]",
-      "retrievedAt": "2024-07-08 19:05:32.410979",
-      "internal_id": "3f3454e8c20af6c825a0d92d0fce0fd033d10a3eab9088f076aa5e942d5f0adf",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10867,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Entekhab.ir",
-      "author": "info@entekhab.ir",
-      "title": "\u0627\u0641\u0632\u0627\u06cc\u0634 \u0645\u0648\u0627\u0631\u062f \u0627\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646 \u062f\u0631 \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc",
-      "description": "\u0648\u0632\u0627\u0631\u062a \u0628\u0647\u062f\u0627\u0634\u062a \u0645\u0644\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u062a\u0627\u06cc\u06cc\u062f \u06a9\u0631\u062f \u06a9\u0647 \u062a\u0639\u062f\u0627\u062f \u06a9\u0644 \u0645\u0648\u0627\u0631\u062f \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646 \u0628\u0647 \u06f2\u06f0 \u0645\u0648\u0631\u062f \u0631\u0633\u06cc\u062f\u0647 \u0627\u0633\u062a.",
-      "url": "https://www.entekhab.ir/fa/news/798563/\u0627\u0641\u0632\u0627\u06cc\u0634-\u0645\u0648\u0627\u0631\u062f-\u0627\u0628\u062a\u0644\u0627-\u0628\u0647-\u0622\u0628\u0644\u0647-\u0645\u06cc\u0645\u0648\u0646-\u062f\u0631-\u0622\u0641\u0631\u06cc\u0642\u0627\u06cc-\u062c\u0646\u0648\u0628\u06cc",
-      "urlToImage": "https://cdn.entekhab.ir/files/fa/news/1403/4/17/1726050_991.jpeg",
-      "publishedAt": "2024-07-07 08:39:12",
-      "content": "(Entekhab.ir) : : .\u00ab \u00bb : \u00ab mpox Tecovirimat .\u00bb . HIV . . Mpox . .",
-      "retrievedAt": "2024-07-08 19:05:32.405609",
-      "internal_id": "0fd176ab2eecffe34a67ab34d195eeccb301b012f0c21ce2433f18cee17dd36a",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10865,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Dengue grips India's southern state Karnataka, Delhi too registers 240 cases",
-      "description": "NEW DELHI, July 7 (Xinhua) -- Dengue has gripped several parts of India's southern state of Karnatak",
-      "url": "http://en.people.cn/n3/2024/0707/c90000-20190779.html",
-      "urlToImage": null,
-      "publishedAt": "2024-07-07 07:27:05",
-      "content": "NEW DELHI, July 7 (Xinhua) -- Dengue has gripped several parts of India's southern state of Karnataka, even as nearly seven persons were suspected to have died due to the viral disease and over 7,000\u2026 [+1098 chars]",
-      "retrievedAt": "2024-07-08 19:05:30.250033",
-      "internal_id": "5bb258edde9a3dcd7dec881b4a6d38865dbe71e54a515669dc66ed633255149e",
       "publishedAtLabel": "Jul 7"
     }
   ]

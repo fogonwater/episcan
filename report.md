@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-08-22 07:07
-- **Most recent article:** 2024-08-21 05:35:23
+- **New articles in last harvest:** 35
+- **Last harvest:** 2024-08-22 19:06
+- **Most recent article:** 2024-08-21 18:55:49
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | 24-34 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 17 | 16 | 26 | 139 | 292 | 87 | 603 |
-| dengue | 91 | 62 | 63 | 55 | 46 | 52 | 22 | 391 |
+| mpox | 23 | 17 | 16 | 26 | 139 | 292 | 105 | 618 |
+| dengue | 84 | 62 | 63 | 55 | 46 | 52 | 31 | 393 |
 | h5n1 | 52 | 62 | 38 | 21 | 6 | 8 | 3 | 190 |
-| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 20 | 129 |
-| zika | 10 | 6 | 10 | 12 | 11 | 10 | 11 | 70 |
-| measles | 11 | 19 | 22 | 8 | 6 | 3 | 0 | 69 |
-| rabies | 2 | 17 | 8 | 12 | 8 | 12 | 2 | 61 |
-| chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 4 | 45 |
-| meningitis | 5 | 3 | 2 | 3 | 6 | 8 | 1 | 28 |
-| pertussis | 2 | 0 | 5 | 5 | 6 | 3 | 1 | 22 |
+| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 22 | 131 |
+| measles | 10 | 19 | 22 | 8 | 6 | 3 | 3 | 71 |
+| zika | 9 | 6 | 10 | 12 | 11 | 10 | 12 | 70 |
+| rabies | 2 | 17 | 8 | 12 | 8 | 12 | 3 | 62 |
+| chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 6 | 47 |
+| meningitis | 5 | 3 | 2 | 3 | 6 | 8 | 2 | 29 |
+| pertussis | 2 | 0 | 5 | 5 | 6 | 3 | 3 | 24 |
 | hpai | 5 | 6 | 3 | 4 | 1 | 1 | 1 | 21 |
 | leptospirosis | 3 | 4 | 1 | 2 | 2 | 2 | 2 | 16 |
 | typhoid | 5 | 1 | 3 | 1 | 0 | 1 | 0 | 11 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-34 (zika)
+
+- [Centro de Transfusión de La Rioja implanta nueva técnica que permite detectar cuatro virus transmitidos por mosquitos](https://www.europapress.es/la-rioja/noticia-centro-transfusion-rioja-implanta-nueva-tecnica-permite-detectar-cuatro-virus-transmitidos-mosquitos-20240821121943.html) (Europapress.es)
 
 - [Protein in mosquito saliva helps viruses spread to humans](https://news.yale.edu/2024/08/19/protein-mosquito-saliva-helps-viruses-spread-humans) (Yale.edu)
 
@@ -63,15 +65,57 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-34 (rabies)
 
+- [Bat caught inside Norfolk home tests positive for rabies, occupants were not exposed to virus](https://www.thesunchronicle.com/news/local_news/bat-caught-inside-norfolk-home-tests-positive-for-rabies-occupants-were-not-exposed-to-virus/article_c5ff6082-5fc5-11ef-a505-d3a0209f4f94.html) (The Sun Chronicle)
+
 - [Form: Live animals (not pet dogs, cats, ferrets): import licence application](https://www.gov.uk/government/publications/live-animals-not-pet-dogs-cats-ferrets-application-for-import-licence) (Www.gov.uk)
 
 - [Social pressure on farmers effects whether they vaccinate their dairy cattle, study finds](https://www.jpost.com/science/article-815110) (The Jerusalem Post)
 
 ## 24-34 (pertussis)
 
+- [Keuchhustenfälle steigen weiterhin rasant an](https://noe.orf.at/stories/3269965/) (Noe.orf.at)
+
+- [Tirol mit den meisten Keuchhustenfällen](https://tirol.orf.at/stories/3269943/) (Tirol.orf.at)
+
 - [Whooping cough cases high in Georgia compared to previous year, CDC data shows](https://www.wsbtv.com/news/local/atlanta/whooping-cough-cases-high-georgia-compared-previous-year-cdc-data-shows/WWU5IPLWC5ANVL3GVQN43B6A7A/) (WSB Atlanta)
 
 ## 24-34 (mpox)
+
+- [Conheça as formas de transmissão de mpox](https://catracalivre.com.br/saude-bem-estar/conheca-as-formas-de-transmissao-de-mpox/) (Catracalivre.com.br)
+
+- [آنچه که درباره آبله میمونی باید بدانید](https://www.balatarin.com/permlink/2024/8/21/6209125) (Balatarin.com)
+
+- [Nave bloccata in Argentina, non è vaiolo delle scimmie](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/08/21/argentina-resta-isolata-la-nave-a-rischio-vaiolo-delle-scimmie_28e10adc-dae1-4c93-ad02-6a558b00c020.html) (ANSA.it)
+
+- [Como identificar as erupções cutâneas de mpox](https://catracalivre.com.br/saude-bem-estar/como-identificar-as-erupcoes-cutaneas-de-mpox/) (Catracalivre.com.br)
+
+- [Vacina brasileira contra a mpox está sendo desenvolvida](https://olhardigital.com.br/2024/08/21/medicina-e-saude/vacina-brasileira-contra-a-mpox-esta-sendo-desenvolvida/) (Olhardigital.com.br)
+
+- [Mpox: Deutschland hat knapp 120.000 Mpox-Impfdosen vorrätig](https://www.zeit.de/gesundheit/2024-08/mpox-virus-impfstoffe-vorrat) (Die Zeit)
+
+- [Sanidad estudia los grupos concretos de viajeros a los que se ofrecerá la vacuna de la Mpox](https://www.elmundo.es/ciencia-y-salud/salud/2024/08/21/66c5d486e85eceea748b457b.html) (El Mundo)
+
+- [A majomhimlő nem az új Covid, és megállítható – állítja a szakértő](https://hvg.hu/tudomany/20240821_A-majomhimlo-nem-uj-Covid-es-megallithato-allitja-a-szakerto) (Hvg.hu)
+
+- [Mpox: entenda como a doença pode causar a morte](https://catracalivre.com.br/saude-bem-estar/mpox-entenda-como-a-doenca-pode-causar-a-morte/) (Catracalivre.com.br)
+
+- [Mpox-Übertragung – „Man muss schon in direkten Kontakt mit der Person kommen“](https://www.welt.de/gesundheit/video253114510/Uebertragung-des-Mpox-Erreger-Muss-in-direkten-Kontakt-kommen.html) (DIE WELT)
+
+- [Could Mpox Become Established in the Indo-Pacific?](https://thediplomat.com/2024/08/could-mpox-become-established-in-the-indo-pacific/) (The Diplomat)
+
+- [Links 8/21/2024](https://www.nakedcapitalism.com/2024/08/links-8-21-2024.html) (Nakedcapitalism.com)
+
+- [Mpox no es una nueva covid y puede ser contenida, dice la OMS](https://www.bbc.com/mundo/articles/c3ejzznkd8jo) (BBC News)
+
+- [What is mpox? How it spreads, can be prevented and treated](https://www.dw.com/en/what-is-mpox-how-it-spreads-can-be-prevented-and-treated/a-69951261) (DW (English))
+
+- [Agencia de salud de África dice que las vacunas contra el mpox podrían llegar "en unos días"](https://cnnespanol.cnn.com/2024/08/21/africa-cdc-dicen-que-las-vacunas-contra-el-mpox-podrian-llegar-dias-trax/) (CNN)
+
+- [Thailand says mpox detected in European who travelled from Africa](https://www.aljazeera.com/news/2024/8/21/thailand-says-mpox-detected-in-european-who-travelled-from-africa) (Al Jazeera English)
+
+- [Nach WHO-Notstand: Neue und alte Gerüchte zu Mpox](https://www.tagesschau.de/faktenfinder/mpox-affenpocken-100.html) (tagesschau.de)
+
+- [Mpox, Explained: Key Details On Latest Virus Outbreak](https://www.forbes.com/sites/roberthart/2024/08/21/mpox-explained-key-details-on-latest-virus-outbreak/) (Forbes)
 
 - [La viruela del mono "no es el nuevo covid-19", según la OMS](https://cnnespanol.cnn.com/2024/08/21/viruela-mono-mpox-covid-19-trax/) (CNN)
 
@@ -249,9 +293,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-34 (meningitis)
 
+- [Press release: Students urged to protect themselves from deadly meningitis](https://www.gov.uk/government/news/students-urged-to-protect-themselves-from-deadly-meningitis) (Www.gov.uk)
+
 - [Meningitis B: Only 2 provinces cover vaccine for students](https://www.ctvnews.ca/health/provinces-urged-to-offer-students-free-vaccines-for-rare-but-deadly-meningitis-strain-1.7004139) (Ctvnews.ca)
 
+## 24-34 (measles)
+
+- [HSE issues warning after case of measles on bus from Dublin to Clonmel](https://www.irishtimes.com/health/2024/08/21/hse-issues-warning-after-case-of-measles-on-bus-from-dublin-to-clonmel/) (The Irish Times)
+
+- [Case of measles in passenger who travelled on bus from Dublin Airport confirmed as HSE issues alert](https://www.independent.ie/irish-news/health/case-of-measles-in-passenger-who-travelled-on-bus-from-dublin-airport-confirmed-as-hse-issues-alert/a565107748.html) (Independent.ie)
+
+- [Dublin Airport bus passenger alert as measles case confirmed](https://www.dublinlive.ie/news/dublin-news/dublin-airport-bus-passenger-alert-29785680) (Dublin Live)
+
 ## 24-34 (malaria)
+
+- [FCTA pledges to curb malaria deaths in under-five children](https://punchng.com/fcta-pledges-to-curb-malaria-deaths-in-under-five-children/) (The Punch)
+
+- [345 dengue, 35 chikungunya cases in August in Ahmedabad](https://timesofindia.indiatimes.com/city/ahmedabad/345-dengue-35-chikungunya-cases-in-august-in-ahmedabad/articleshow/112675301.cms) (The Times of India)
 
 - [Dr Reddy's Labs hits record high on pact with Kainomyx for malaria drug](https://www.business-standard.com/markets/news/dr-reddy-s-labs-hits-record-high-on-pact-with-kainomyx-for-malaria-drug-124082100236_1.html) (Business Standard)
 
@@ -313,6 +371,24 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-34 (dengue)
 
+- [India’s medal prospect Bapi Hansda misses Asian U20 Athletics Championships due to dengue](https://timesofindia.indiatimes.com/sports/more-sports/athletics/indias-medal-prospect-bapi-hansda-misses-asian-u20-athletics-championships-due-to-dengue/articleshow/112690000.cms) (The Times of India)
+
+- [Drôme. Après le cas de dengue signalé à Montélimar : « On ne sait pas où exactement la démoustication aura lieu »](https://www.ledauphine.com/sante/2024/08/21/apres-le-cas-de-dengue-signale-a-montelimar-on-ne-sait-pas-ou-exactement-la-demoustication-aura-lieu) (Le Dauphiné Libéré)
+
+- [La ciudad de Buenos Aires pone en marcha su plan contra el dengue para los próximos meses](https://www.lanacion.com.ar/sociedad/la-ciudad-de-buenos-aires-pone-en-marcha-su-plan-contra-el-dengue-para-los-proximos-meses-nid21082024/) (La Nacion)
+
+- [Porto Alegre registra mais de 10,5 mil casos de dengue em 2024](https://www.terra.com.br/noticias/porto-alegre-registra-mais-de-105-mil-casos-de-dengue-em-2024,bcd1f8fc99987514add298f57c8dbd11hqlwsoie.html) (Terra.com.br)
+
+- [Dengue : un nouveau cas autochtone détecté dans la Drôme](https://www.francetvinfo.fr/sante/maladie/dengue-un-nouveau-cas-autochtone-detecte-dans-la-drome_6736014.html) (Francetvinfo.fr)
+
+- [Centro de Transfusión de La Rioja implanta nueva técnica que permite detectar cuatro virus transmitidos por mosquitos](https://www.europapress.es/la-rioja/noticia-centro-transfusion-rioja-implanta-nueva-tecnica-permite-detectar-cuatro-virus-transmitidos-mosquitos-20240821121943.html) (Europapress.es)
+
+- [Un cas de dengue autochtone signalé à Montélimar : le patient est guéri](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/drome/valence/un-cas-de-dengue-autochtone-signale-a-montelimar-le-patient-est-gueri-3020447.html) (Francetvinfo.fr)
+
+- [Drôme. Un cas de dengue autochtone détecté à Montélimar, une première dans la région cette année](https://www.ledauphine.com/sante/2024/08/21/un-cas-de-dengue-autochtone-detecte-a-montelimar-une-premiere-dans-la-region-cette-annee) (Le Dauphiné Libéré)
+
+- [345 dengue, 35 chikungunya cases in August in Ahmedabad](https://timesofindia.indiatimes.com/city/ahmedabad/345-dengue-35-chikungunya-cases-in-august-in-ahmedabad/articleshow/112675301.cms) (The Times of India)
+
 - [Dengue: los detalles del operativo puerta a puerta para saber cuántos porteños tuvieron la infección](https://www.lanacion.com.ar/sociedad/dengue-los-detalles-del-operativo-puerta-a-puerta-para-saber-cuantos-portenos-tuvieron-la-infeccion-nid20082024/) (La Nacion)
 
 - [چک افراد مشکوک ابتلا به تب دنگی در ورودی‌های شیراز](https://www.isna.ir/news/1403053021084/چک-افراد-مشکوک-ابتلا-به-تب-دنگی-در-ورودی-های-شیراز) (Isna.ir)
@@ -358,6 +434,10 @@ Source: [News API](https://newsapi.org/)
 - [La Matinale. Pas de tsunami après le séisme en Russie ; Des "cas sporadiques" de variole du singe attendus en France ; Épidémie de dengue dans un village... L'essentiel de ce dimanche 18 août](https://www.ledauphine.com/societe/2024/08/18/pas-de-tsunami-apres-le-seisme-en-russie-des-cas-sporadiques-de-variole-du-singe-attendus-en-france-epidemie-de-dengue-dans-un-village-l-essentiel-de-ce-dimanche-18-aout) (Le Dauphiné Libéré)
 
 ## 24-34 (chikungunya)
+
+- [Centro de Transfusión de La Rioja implanta nueva técnica que permite detectar cuatro virus transmitidos por mosquitos](https://www.europapress.es/la-rioja/noticia-centro-transfusion-rioja-implanta-nueva-tecnica-permite-detectar-cuatro-virus-transmitidos-mosquitos-20240821121943.html) (Europapress.es)
+
+- [345 dengue, 35 chikungunya cases in August in Ahmedabad](https://timesofindia.indiatimes.com/city/ahmedabad/345-dengue-35-chikungunya-cases-in-august-in-ahmedabad/articleshow/112675301.cms) (The Times of India)
 
 - [World Mosquito Day 2024: Date, theme, history, significance and more](https://www.business-standard.com/health/world-mosquito-day-2024-date-theme-history-significance-and-more-124082000912_1.html) (Business Standard)
 
@@ -3075,8 +3155,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Zika virus scare: Stay alert, keep mosquitoes at bay](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-prevention-and-treatment-advisory/articleshow/111562086.cms) (The Times of India)
 
-- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
-
 ## 24-28 (yersinia)
 
 - [Новое исследование ставит известный факт о чуме под сомнение](https://vfokuse.mail.ru/article/novoe-issledovanie-stavit-izvestnyy-fakt-o-chume-pod-somnenie-61896522/) (Mail.ru)
@@ -3161,12 +3239,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Медики выяснили, как один человек спровоцировал в Ирландии вспышку обезьяньей оспы](https://doctorpiter.ru/obraz-zhizni/imj-odin-chelovek-zarazil-obezyanei-ospoi-pochti-tret-vsekh-bolnykh-v-irlandii-id5747755/) (Doctorpiter.ru)
 
-- [Kenya on high alert as Mpox virus is reported in DRC](https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846) (Nation.africa)
-
-- [Sorge vor „Clade I“ - WHO warnt vor gefährlicher Mutation des Affenpocken-Virus](https://www.focus.de/gesundheit/sorge-vor-clade-i-who-warnt-vor-gefaehrlicher-mutation-des-affenpocken-virus_id_260115667.html) (Focus)
-
-- [افزایش موارد ابتلا به آبله میمون در آفریقای جنوبی](https://www.entekhab.ir/fa/news/798563/افزایش-موارد-ابتلا-به-آبله-میمون-در-آفریقای-جنوبی) (Entekhab.ir)
-
 ## 24-28 (meningitis)
 
 - [El conflicto armado y las inundaciones arrastran a RDC a una "catástrofe sanitaria"](https://www.europapress.es/internacional/noticia-conflicto-armado-inundaciones-arrastran-rdc-catastrofe-sanitaria-20240713143246.html) (Europapress.es)
@@ -3200,8 +3272,6 @@ Source: [News API](https://newsapi.org/)
 - [2nd case of measles confirmed in Vermont](https://www.wcax.com/2024/07/08/2nd-case-measles-confirmed-vermont/) (WCAX)
 
 - [Spatial distribution and determinants of measles vaccination dropout among under-five children in Ethiopia: A spatial and multilevel analysis of 2019 Ethiopian demographic and health survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305393) (Plos.org)
-
-- [Five people who survived measles recount the disease’s horrors](https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/) (The Washington Post)
 
 ## 24-28 (malaria)
 
@@ -3524,20 +3594,6 @@ Source: [News API](https://newsapi.org/)
 - [Karnataka records two dengue deaths in a day](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-records-two-dengue-deaths-in-a-day/articleshow/111564588.cms) (The Times of India)
 
 - [Is Florida Headed Toward a Dengue Fever Outbreak?](https://articles.mercola.com/sites/articles/archive/2024/07/08/florida-dengue-fever-outbreak.aspx) (Mercola.com)
-
-- [Opposition demands free dengue tests as cases touch 7.1k in Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/opposition-demands-free-dengue-tests-as-cases-touch-7-1k-in-karnataka/articleshow/111560017.cms) (The Times of India)
-
-- [Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory](https://legalinsurrection.com/2024/07/florida-issues-dengue-fever-alert-cdc-issues-its-own-health-advisory/) (Legalinsurrection.com)
-
-- [Epidemiolog Maďar: Klima stěhuje exotické nemoci do Evropy. Co doporučuje před cestami do zahraničí?](https://www.lidovky.cz/domov/epidemiolog-klima-stehuje-exoticke-nemoci-do-evropy-co-doporucuje-pred-cestami-do-zahranici.A240707_185852_ln_domov_rkj) (Lidovky.cz)
-
-- [Davao: Pag-mugna ug Mosquito-Borne Diseases Task Force sa mga barangay, i-implementar](https://rpnradio.com/davao-pag-mugna-ug-mosquito-borne-diseases-task-force-sa-mga-barangay-i-implementar/) (Rpnradio.com)
-
-- [Cong govt in K'taka mired in competition for CM, Dy CM posts: Union min](https://www.business-standard.com/politics/cong-govt-in-k-taka-mired-in-competition-for-cm-dy-cm-posts-union-min-124070700218_1.html) (Business Standard)
-
-- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
-
-- [Dengue grips India's southern state Karnataka, Delhi too registers 240 cases](http://en.people.cn/n3/2024/0707/c90000-20190779.html) (People.cn)
 
 ## 24-28 (chikungunya)
 
