@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 35
-- **Last harvest:** 2024-08-22 19:06
-- **Most recent article:** 2024-08-21 18:55:49
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-08-23 07:06
+- **Most recent article:** 2024-08-22 06:48:00
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | 24-34 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 23 | 17 | 16 | 26 | 139 | 292 | 105 | 618 |
-| dengue | 84 | 62 | 63 | 55 | 46 | 52 | 31 | 393 |
+| mpox | 26 | 17 | 16 | 26 | 139 | 292 | 108 | 624 |
+| dengue | 91 | 62 | 63 | 55 | 46 | 52 | 35 | 404 |
 | h5n1 | 52 | 62 | 38 | 21 | 6 | 8 | 3 | 190 |
 | malaria | 12 | 31 | 16 | 15 | 16 | 19 | 22 | 131 |
-| measles | 10 | 19 | 22 | 8 | 6 | 3 | 3 | 71 |
-| zika | 9 | 6 | 10 | 12 | 11 | 10 | 12 | 70 |
+| measles | 11 | 19 | 22 | 8 | 6 | 3 | 4 | 73 |
+| zika | 10 | 6 | 10 | 12 | 11 | 10 | 13 | 72 |
 | rabies | 2 | 17 | 8 | 12 | 8 | 12 | 3 | 62 |
 | chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 6 | 47 |
 | meningitis | 5 | 3 | 2 | 3 | 6 | 8 | 2 | 29 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-34 (zika)
+
+- [Level 2 - Zika in the state of Maharashtra, India](https://wwwnc.cdc.gov/travel/notices/level2/zika-maharashtra-india) (Cdc.gov)
 
 - [Centro de Transfusión de La Rioja implanta nueva técnica que permite detectar cuatro virus transmitidos por mosquitos](https://www.europapress.es/la-rioja/noticia-centro-transfusion-rioja-implanta-nueva-tecnica-permite-detectar-cuatro-virus-transmitidos-mosquitos-20240821121943.html) (Europapress.es)
 
@@ -80,6 +82,12 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough cases high in Georgia compared to previous year, CDC data shows](https://www.wsbtv.com/news/local/atlanta/whooping-cough-cases-high-georgia-compared-previous-year-cdc-data-shows/WWU5IPLWC5ANVL3GVQN43B6A7A/) (WSB Atlanta)
 
 ## 24-34 (mpox)
+
+- [Mpox Risks Heighten With Complex Mosaic of Infection Patterns...](https://www.bloomberg.com/news/articles/2024-08-21/mpox-risks-heighten-with-complex-mosaic-of-infection-patterns/) (Bloomberg)
+
+- [How worried should we be about mpox?](https://www.bbc.com/news/articles/c4glqzerw3no) (BBC News)
+
+- [Dänisch-deutscher Pharmakonzern erhält Auftrag für 440.000 Mpox-Impfdosen](https://www.welt.de/wirtschaft/article253122734/Bavarian-Nordic-Daenisch-deutscher-Pharmakonzern-erhaelt-Auftrag-fuer-440-000-Mpox-Impfdosen.html) (DIE WELT)
 
 - [Conheça as formas de transmissão de mpox](https://catracalivre.com.br/saude-bem-estar/conheca-as-formas-de-transmissao-de-mpox/) (Catracalivre.com.br)
 
@@ -299,6 +307,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-34 (measles)
 
+- [HSE issues measles warning to passengers on board bus from Dublin Airport and flight from Naples](https://www.thejournal.ie/hse-measles-alert-dublin-airport-6468549-Aug2024/) (TheJournal.ie)
+
 - [HSE issues warning after case of measles on bus from Dublin to Clonmel](https://www.irishtimes.com/health/2024/08/21/hse-issues-warning-after-case-of-measles-on-bus-from-dublin-to-clonmel/) (The Irish Times)
 
 - [Case of measles in passenger who travelled on bus from Dublin Airport confirmed as HSE issues alert](https://www.independent.ie/irish-news/health/case-of-measles-in-passenger-who-travelled-on-bus-from-dublin-airport-confirmed-as-hse-issues-alert/a565107748.html) (Independent.ie)
@@ -370,6 +380,14 @@ Source: [News API](https://newsapi.org/)
 - [Bird Flu Is Infecting Pet Cats. Here’s What You Need to Know](https://www.scientificamerican.com/article/bird-flu-is-infecting-pet-cats-heres-what-you-need-to-know/) (Scientific American)
 
 ## 24-34 (dengue)
+
+- [Haute-Savoie. Un cas de dengue à Annecy : opération de démoustication ce vendredi](https://www.ledauphine.com/sante/2024/08/22/un-cas-de-dengue-a-annecy-operation-de-demoustication-ce-vendredi) (Le Dauphiné Libéré)
+
+- [Dengue : du bon usage de la guerre bactériologique contre les moustiques, par le Pr Alain Fischer](https://www.lexpress.fr/sciences-sante/dengue-du-bon-usage-de-la-guerre-bacteriologique-contre-les-moustiques-par-le-pr-alain-fischer-LTN3RSUQHBDXZNESORX2LJ55IE/) (L'Express)
+
+- [4-year-old dies of dengue in Telangana's Warangal, third fatality this month](https://timesofindia.indiatimes.com/city/hyderabad/4-year-old-dies-of-dengue-in-telanganas-warangal-third-fatality-this-month/articleshow/112696159.cms) (The Times of India)
+
+- [Dengue, malárie, opičí neštovice. V Česku přibývá tropických infekcí](https://www.idnes.cz/zpravy/domaci/tropicke-infekce-ockovani-komari-dengue-malarie-mpox.A240821_183722_domaci_kori) (Idnes.cz)
 
 - [India’s medal prospect Bapi Hansda misses Asian U20 Athletics Championships due to dengue](https://timesofindia.indiatimes.com/sports/more-sports/athletics/indias-medal-prospect-bapi-hansda-misses-asian-u20-athletics-championships-due-to-dengue/articleshow/112690000.cms) (The Times of India)
 
@@ -3155,6 +3173,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Zika virus scare: Stay alert, keep mosquitoes at bay](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-prevention-and-treatment-advisory/articleshow/111562086.cms) (The Times of India)
 
+- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
+
 ## 24-28 (yersinia)
 
 - [Новое исследование ставит известный факт о чуме под сомнение](https://vfokuse.mail.ru/article/novoe-issledovanie-stavit-izvestnyy-fakt-o-chume-pod-somnenie-61896522/) (Mail.ru)
@@ -3239,6 +3259,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Медики выяснили, как один человек спровоцировал в Ирландии вспышку обезьяньей оспы](https://doctorpiter.ru/obraz-zhizni/imj-odin-chelovek-zarazil-obezyanei-ospoi-pochti-tret-vsekh-bolnykh-v-irlandii-id5747755/) (Doctorpiter.ru)
 
+- [Kenya on high alert as Mpox virus is reported in DRC](https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846) (Nation.africa)
+
+- [Sorge vor „Clade I“ - WHO warnt vor gefährlicher Mutation des Affenpocken-Virus](https://www.focus.de/gesundheit/sorge-vor-clade-i-who-warnt-vor-gefaehrlicher-mutation-des-affenpocken-virus_id_260115667.html) (Focus)
+
+- [افزایش موارد ابتلا به آبله میمون در آفریقای جنوبی](https://www.entekhab.ir/fa/news/798563/افزایش-موارد-ابتلا-به-آبله-میمون-در-آفریقای-جنوبی) (Entekhab.ir)
+
 ## 24-28 (meningitis)
 
 - [El conflicto armado y las inundaciones arrastran a RDC a una "catástrofe sanitaria"](https://www.europapress.es/internacional/noticia-conflicto-armado-inundaciones-arrastran-rdc-catastrofe-sanitaria-20240713143246.html) (Europapress.es)
@@ -3272,6 +3298,8 @@ Source: [News API](https://newsapi.org/)
 - [2nd case of measles confirmed in Vermont](https://www.wcax.com/2024/07/08/2nd-case-measles-confirmed-vermont/) (WCAX)
 
 - [Spatial distribution and determinants of measles vaccination dropout among under-five children in Ethiopia: A spatial and multilevel analysis of 2019 Ethiopian demographic and health survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305393) (Plos.org)
+
+- [Five people who survived measles recount the disease’s horrors](https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/) (The Washington Post)
 
 ## 24-28 (malaria)
 
@@ -3594,6 +3622,20 @@ Source: [News API](https://newsapi.org/)
 - [Karnataka records two dengue deaths in a day](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-records-two-dengue-deaths-in-a-day/articleshow/111564588.cms) (The Times of India)
 
 - [Is Florida Headed Toward a Dengue Fever Outbreak?](https://articles.mercola.com/sites/articles/archive/2024/07/08/florida-dengue-fever-outbreak.aspx) (Mercola.com)
+
+- [Opposition demands free dengue tests as cases touch 7.1k in Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/opposition-demands-free-dengue-tests-as-cases-touch-7-1k-in-karnataka/articleshow/111560017.cms) (The Times of India)
+
+- [Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory](https://legalinsurrection.com/2024/07/florida-issues-dengue-fever-alert-cdc-issues-its-own-health-advisory/) (Legalinsurrection.com)
+
+- [Epidemiolog Maďar: Klima stěhuje exotické nemoci do Evropy. Co doporučuje před cestami do zahraničí?](https://www.lidovky.cz/domov/epidemiolog-klima-stehuje-exoticke-nemoci-do-evropy-co-doporucuje-pred-cestami-do-zahranici.A240707_185852_ln_domov_rkj) (Lidovky.cz)
+
+- [Davao: Pag-mugna ug Mosquito-Borne Diseases Task Force sa mga barangay, i-implementar](https://rpnradio.com/davao-pag-mugna-ug-mosquito-borne-diseases-task-force-sa-mga-barangay-i-implementar/) (Rpnradio.com)
+
+- [Cong govt in K'taka mired in competition for CM, Dy CM posts: Union min](https://www.business-standard.com/politics/cong-govt-in-k-taka-mired-in-competition-for-cm-dy-cm-posts-union-min-124070700218_1.html) (Business Standard)
+
+- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
+
+- [Dengue grips India's southern state Karnataka, Delhi too registers 240 cases](http://en.people.cn/n3/2024/0707/c90000-20190779.html) (People.cn)
 
 ## 24-28 (chikungunya)
 

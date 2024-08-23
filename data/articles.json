@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-08-22 19:06",
-  "count_articles_total": 1593,
-  "count_articles_new": 35,
+  "last_updated": "2024-08-23 07:06",
+  "count_articles_total": 1613,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 12466,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "title": "Haute-Savoie. Un cas de dengue \u00e0 Annecy : op\u00e9ration de d\u00e9moustication ce vendredi",
+      "description": "Cons\u00e9quence, une importante op\u00e9ration de d\u00e9moustication sera men\u00e9e dans la nuit du jeudi 22 au vendredi 23 ao\u00fbt, entre 2 et 4 hures du matin, dans le secteur de l'avenue de Gen\u00e8ve.",
+      "url": "https://www.ledauphine.com/sante/2024/08/22/un-cas-de-dengue-a-annecy-operation-de-demoustication-ce-vendredi",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/ACEEE51C-1300-45C3-BD33-A6853537CA8E/FB1200/photo-1724309328.jpg",
+      "publishedAt": "2024-08-22 06:48:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2024-08-23 07:06:47.772334",
+      "internal_id": "5ade7004c425fbadb008a7142ad377b356fe0809d32e0e2da227d604ffead13a",
+      "publishedAtLabel": "Aug 22"
+    },
+    {
+      "id": 12467,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "Alain Fischer",
+      "title": "Dengue : du bon usage de la guerre bact\u00e9riologique contre les moustiques, par le Pr Alain Fischer",
+      "description": "Des scientifiques ont d\u00e9couvert comment d\u00e9tourner des bact\u00e9ries pour freiner la propagation des virus transmis par ces insectes. Une intervention prometteuse et\u2026 \u00e9cologique !",
+      "url": "https://www.lexpress.fr/sciences-sante/dengue-du-bon-usage-de-la-guerre-bacteriologique-contre-les-moustiques-par-le-pr-alain-fischer-LTN3RSUQHBDXZNESORX2LJ55IE/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/U3SEIV35EBC5REDWB722X77QMA.jpg?auth=c5918efa837009576f017a7508c25bf65d038d4f77d35fa63b58ae80da7f7646&width=1200&height=630&quality=85&focal=1029%2C708",
+      "publishedAt": "2024-08-22 06:00:00",
+      "content": "La dengue est une maladie virale - une arbovirose - provoqu\u00e9e par un virus \u00e0 ARN (flavivirus) transmis par les piq\u00fbres de moustique : moustiques tigre et Aegypti. Le nombre de cas dans le monde ne ce\u2026 [+4129 chars]",
+      "retrievedAt": "2024-08-23 07:06:47.810820",
+      "internal_id": "265245e16316e0f19a4781868eb2b8b59f65ad7104a211484cbab2d353ad4a07",
+      "publishedAtLabel": "Aug 22"
+    },
+    {
+      "id": 12468,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Zika in the state of Maharashtra, India",
+      "description": "There is an outbreak of Zika in the state of Maharashtra, India. All travelers to Maharashtra should take steps to prevent mosquito bites and sexual transmission of Zika virus during and after travel.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/zika-maharashtra-india",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2024-08-22 04:00:00",
+      "content": "Zika is a disease caused by infection with Zika virus and typically occurs in tropical and subtropical areas in parts of Africa, the Americas, Asia, and the Western Pacific. Zika virus is most commo\u2026 [+551 chars]",
+      "retrievedAt": "2024-08-23 07:06:49.387548",
+      "internal_id": "5a2feed8224fa3dc219b78479e402c61f95a18976c82ddee74e0fde4302653fc",
+      "publishedAtLabel": "Aug 22"
+    },
+    {
+      "id": 12470,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "author": "Jason Gale, Janice Kew",
+      "title": "Mpox Risks Heighten With Complex Mosaic of Infection Patterns...",
+      "description": "As disease detectives rush to central Africa to quell a mushrooming mpox contagion, they\u2019re finding a complex mosaic of infection patterns involving different viral strains and vastly different routes of infection.",
+      "url": "https://www.bloomberg.com/news/articles/2024-08-21/mpox-risks-heighten-with-complex-mosaic-of-infection-patterns/",
+      "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/AED5VLWB3VAYHHA3A2ZWFJ5U4M.jpg?smart=true&auth=515e98c7c2a0d0df28ec55a91dcebf3f6095a7799bd74dbe88eadaa015ff8c07&width=1200&height=630",
+      "publishedAt": "2024-08-22 03:43:37",
+      "content": "(Bloomberg) -- As disease detectives rush to central Africa to quell a mushrooming mpox contagion, theyre finding a complex mosaic of infection patterns involving different viral strains and vastly d\u2026 [+4257 chars]",
+      "retrievedAt": "2024-08-23 07:06:50.658082",
+      "internal_id": "feb9f42d44e0772ab6e385b06d299ac720c779ede619c8537d86cc1b011b2042",
+      "publishedAtLabel": "Aug 22"
+    },
+    {
+      "id": 12465,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Shiva Kumar Pinna",
+      "title": "4-year-old dies of dengue in Telangana's Warangal, third fatality this month",
+      "description": "Telangana witnessed its third dengue death this month as a four-year-old girl succumbed at Warangal's MGM hospital. Initial treatment was given at a private facility in Hanumakonda. All three deaths occurred in the Warangal region. The state health officials \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/4-year-old-dies-of-dengue-in-telanganas-warangal-third-fatality-this-month/articleshow/112696159.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112696533,width-1070,height-580,imgsize-25398,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-22 02:23:47",
+      "content": "8 happiness mantras for working professionals",
+      "retrievedAt": "2024-08-23 07:06:47.742656",
+      "internal_id": "1082ad5b15c4a0ec10c4b8c5c375248b69cc951491cf11becda3b2fd80d6b974",
+      "publishedAtLabel": "Aug 22"
+    },
+    {
+      "id": 12469,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "How worried should we be about mpox?",
+      "description": "As a global emergency is declared over mpox, our health and science correspondent assesses the threat.",
+      "url": "https://www.bbc.com/news/articles/c4glqzerw3no",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6579/live/d45a5410-5fdf-11ef-902a-330a124f07ab.jpg",
+      "publishedAt": "2024-08-22 01:23:31",
+      "content": "Medication being applied to the face of a child with mpox The rapid spread of mpox what used to be called monkeypox in Africa has been declared a global emergency. A new form of the virus is at the\u2026 [+8016 chars]",
+      "retrievedAt": "2024-08-23 07:06:50.603427",
+      "internal_id": "1c328bb3eec63a7ec250ff4bac3bfe87abafbcb3f6e13041715a31842e9e6cfe",
+      "publishedAtLabel": "Aug 22"
+    },
+    {
+      "id": 12471,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "D\u00e4nisch-deutscher Pharmakonzern erh\u00e4lt Auftrag f\u00fcr 440.000 Mpox-Impfdosen",
+      "description": "Ein europ\u00e4isches Land ordert bei dem d\u00e4nisch-deutschen Pharmakonzern Bavarian Nordic eine gro\u00dfe Lieferung Impfdosen gegen das Mpox-Virus. Der Auftrag hat aber keinen Einfluss auf die Bew\u00e4ltigung der internationalen Notlage. Die WHO fordert eine Ausweitung der\u2026",
+      "url": "https://www.welt.de/wirtschaft/article253122734/Bavarian-Nordic-Daenisch-deutscher-Pharmakonzern-erhaelt-Auftrag-fuer-440-000-Mpox-Impfdosen.html",
+      "urlToImage": "https://img.welt.de/img/wirtschaft/mobile253122736/9527930087-ci16x9-w1200/.jpg",
+      "publishedAt": "2024-08-21 23:46:20",
+      "content": "Der d\u00e4nisch-deutsche Pharmakonzern Bavarian Nordic hat einen Auftrag \u00fcber die Lieferung von 440.000 Dosen seines Mpox-Impfstoffs an ein nicht genanntes europ\u00e4isches Land erhalten. Der Auftrag sei erw\u2026 [+1135 chars]",
+      "retrievedAt": "2024-08-23 07:06:50.667269",
+      "internal_id": "3965d334fb4d7072120184d297480af9dcdda349014d7566aefe3b48449d8663",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12464,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Ivana Leskov\u00e1",
+      "title": "Dengue, mal\u00e1rie, opi\u010d\u00ed ne\u0161tovice. V \u010cesku p\u0159ib\u00fdv\u00e1 tropick\u00fdch infekc\u00ed",
+      "description": "Afriku stra\u0161\u00ed opi\u010d\u00ed ne\u0161tovice, Braz\u00edlii hore\u010dka oropouche, jin\u00e9 zem\u011b hore\u010dka dengue, mal\u00e1rie \u010di jin\u00e9 naka\u017eliv\u00e9 tropick\u00e9 nemoci, kter\u00e9 mohou i zab\u00edjet. Kdy\u017e l\u00e9ka\u0159i varuj\u00ed p\u0159ed jejich \u0161\u00ed\u0159en\u00edm a vyb\u00edzej\u00ed turisty k o\u010dkov\u00e1n\u00ed \u010di ochran\u011b proti kom\u00e1r\u016fm, kte\u0159\u00ed \u0159adu ne\u2026",
+      "url": "https://www.idnes.cz/zpravy/domaci/tropicke-infekce-ockovani-komari-dengue-malarie-mpox.A240821_183722_domaci_kori",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2023/6/premium/IHA61cfcac3a2_shutterstock_171286448.jpg",
+      "publishedAt": "2024-08-21 22:00:00",
+      "content": "Pomineme-li cestovatelsk\u00e9 prjmy, kter\u00fdch b\u00fdv\u00e1 nejv\u00edc, z trop lid\u00e9 dov\u00e1ej\u00ed do eska nejastji horenat\u00e1 onemocnn\u00ed dengue a mal\u00e1rii, kter\u00e1 pen\u00e1ej\u00ed kom\u00e1i. Tet\u00ed nejastj\u00ed infekc\u00ed s pvodem v tropech je letos\u2026 [+497 chars]",
+      "retrievedAt": "2024-08-23 07:06:47.727306",
+      "internal_id": "2efc80f061759a77c1ca76f71db19fc172a878015cafd4aaeb3fbedf880cc7c1",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 12463,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Diarmuid Pepper",
+      "title": "HSE issues measles warning to passengers on board bus from Dublin Airport and flight from Naples",
+      "description": "The alert is for passengers who travelled on a JJ Kavanagh bus and an Aer Lingus flight from Naples last Saturday.",
+      "url": "https://www.thejournal.ie/hse-measles-alert-dublin-airport-6468549-Aug2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6468549/river/?height=400&version=6468550",
+      "publishedAt": "2024-08-21 19:39:00",
+      "content": "LAST UPDATE|16 mins ago THE HSE HAS issued an urgent alert to people who were on board a bus from Dublin Airport to Clonmel in Co Tipperary last Saturday, as well as to passengers on board an Aer Li\u2026 [+2538 chars]",
+      "retrievedAt": "2024-08-23 07:06:46.691842",
+      "internal_id": "6902247d1dba491c5b8dd41dec3d3192750ecf08aeb6103b34affa12784fd955",
+      "publishedAtLabel": "Aug 21"
+    },
     {
       "id": 12431,
       "query": [
@@ -28776,6 +28938,205 @@
       "content": "New Delhi: The onset of monsoon boosted sales of drugs for respiratory, anti-infective, anti-malaria and gastrointestinal therapies in June.According to market researcher Pharmarack, these therapies \u2026 [+1464 chars]",
       "retrievedAt": "2024-07-09 07:06:01.964468",
       "internal_id": "dce090d88618498155b7d5ad7f5f6e50473b4df00c2a2c2b43557a547e22c355",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10862,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Opposition demands free dengue tests as cases touch 7.1k in Karnataka",
+      "description": "Opposition leader criticizes health centres for charging Rs 1,000 for dengue tests, calls for free testing. Karnataka records 7,165 dengue cases since January, with BBMP area most affected. Minister instructs gram panchayats to take preventive actions. Concer\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/opposition-demands-free-dengue-tests-as-cases-touch-7-1k-in-karnataka/articleshow/111560017.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111560062,width-1070,height-580,imgsize-41852,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-07 18:54:45",
+      "content": "Unforgettable train journeys across Indias best landscape",
+      "retrievedAt": "2024-07-08 19:05:30.175029",
+      "internal_id": "6cdc8208663ae4383f8d5947a77e7ca757d8e639c77859c930bc7b5acf081029",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10860,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory",
+      "description": "\"Experts\" are tying the rise in dengue fever infections to \"climate change\" The post Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/07/florida-issues-dengue-fever-alert-cdc-issues-its-own-health-advisory/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2016/10/LI-34-Mosquito-e1476243914966.png",
+      "publishedAt": "2024-07-07 18:00:03",
+      "content": "Back in 2016, I reported that cases of dengue fever were being reported in Florida and Hawaii. Dengue (break-bone fever) is a viral infection that spreads from mosquitoes to people and is more common\u2026 [+4714 chars]",
+      "retrievedAt": "2024-07-08 19:05:30.150685",
+      "internal_id": "249d56c5124711c2521b14729570f49f688e862c567d596d4d662648a721dabe",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10861,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lidovky.cz",
+      "author": "Mat\u011bj Ku\u010dera",
+      "title": "Epidemiolog Ma\u010far: Klima st\u011bhuje exotick\u00e9 nemoci do Evropy. Co doporu\u010duje p\u0159ed cestami do zahrani\u010d\u00ed?",
+      "description": "Projevuje se n\u00e1hlou vysokou hore\u010dkou, bolestmi kloub\u016f, sval\u016f, vlastn\u011b cel\u00e9ho t\u011bla. Obrazn\u011b \u0159e\u010deno \u201el\u00e1me kosti\u201c. Krv\u00e1cen\u00ed ohro\u017euje pacienta i na \u017eivot\u011b. Hore\u010dka dengue pat\u0159\u00ed k ob\u00e1van\u011bj\u0161\u00edm nemocem dovolenk\u00e1\u0159\u016f.",
+      "url": "https://www.lidovky.cz/domov/epidemiolog-klima-stehuje-exoticke-nemoci-do-evropy-co-doporucuje-pred-cestami-do-zahranici.A240707_185852_ln_domov_rkj",
+      "urlToImage": "https://1gr.cz/fotky/lidovky/21/032/cl8/LRO8a28ee_21_83545479.jpg",
+      "publishedAt": "2024-07-07 17:03:00",
+      "content": "Proti chorob, kterou na lovka pen\u00e1\u00ed kom\u00e1i, se d\u00e1 okovat. Epidemiolog Rastislav Maar v rozhovoru pro Lidovky.cz \u00edk\u00e1, e zat\u00edm to nevid\u00ed jako nezbytn nutn\u00e9, ale ostraitost je nam\u00edst. Loni se podle Maara\u2026 [+518 chars]",
+      "retrievedAt": "2024-07-08 19:05:30.161772",
+      "internal_id": "adcdbc10636604e5569f711cb58471446776c0fd975739744329dce9a18e7aa1",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10869,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Hellen Aura",
+      "title": "Kenya on high alert as Mpox virus is reported in DRC",
+      "description": "Kenyans told to exercise high levels of hygiene since the virus can be spread through physical contact with an infected person.",
+      "url": "https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846",
+      "urlToImage": "https://nation.africa/resource/image/4682860/landscape_ratio3x2/1200/800/283a402bf2b4dcc2557b69f3ff13f92f/Ov/drc-mpox.jpg",
+      "publishedAt": "2024-07-07 15:02:34",
+      "content": "Kenya has issued a travel advisory to all counties and border entry points, highlighting the critical importance of early detection of smallpox cases. Ms Mary Muthoni Muriuki, Principal Secretary (P\u2026 [+5131 chars]",
+      "retrievedAt": "2024-07-08 19:05:32.428829",
+      "internal_id": "dce732c5a7b66dcfe6344ff8e2e1dfb75bd8ee6fb2585d27c2ca64c284f0220c",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10866,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Davao: Pag-mugna ug Mosquito-Borne Diseases Task Force sa mga barangay, i-implementar",
+      "description": "Davao City \u2013 Gimanduan sa lokal nga paggamhan subay sa gipagula nga memorandum ni Davao City Mayor Sebastian \u2018Baste\u2019 Duterte nga magmugna ang mga barangay ug Mosquito-Borne Diseases Task Force. Tumong niini nga makontrola ang pagsaka sa ihap sa kaso sa dengue\u2026",
+      "url": "https://rpnradio.com/davao-pag-mugna-ug-mosquito-borne-diseases-task-force-sa-mga-barangay-i-implementar/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/11/feat-davao.png",
+      "publishedAt": "2024-07-07 11:47:49",
+      "content": "Davao City Gimanduan sa lokal nga paggamhan subay sa gipagula nga memorandum ni Davao City Mayor Sebastian \u2018Baste\u2019 Duterte nga magmugna ang mga barangay ug Mosquito-Borne Diseases Task Force. Tumong\u2026 [+446 chars]",
+      "retrievedAt": "2024-07-08 19:05:30.257427",
+      "internal_id": "5bfd5f3c0071263f2015b00749a7e92944fd887691043991c8f77625838d7f92",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10864,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Press Trust of India",
+      "title": "Cong govt in K'taka mired in competition for CM, Dy CM posts: Union min",
+      "description": "Accusing the Congress government in Karnataka of being in deep slumber and mired in competition for Chief Minister and Deputy Chief Minister posts and internal rifts, Union Minister Shobha Karandlaje on Sunday urged the CM Siddaramaiah and his administration \u2026",
+      "url": "https://www.business-standard.com/politics/cong-govt-in-k-taka-mired-in-competition-for-cm-dy-cm-posts-union-min-124070700218_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/02/thumb/featurecrop/400X400/1719895768-2989.jpg",
+      "publishedAt": "2024-07-07 09:26:46",
+      "content": "Though the government has fixed a rate for dengue tests, no one is following it, she said, \"there are reports about deaths due to dengue in Bengaluru, the government system has collapsed, the health \u2026 [+844 chars]",
+      "retrievedAt": "2024-07-08 19:05:30.230040",
+      "internal_id": "8cc88deaf3d2dacc8476df54b289643f923a1e3b928200c82f8742e7c38e4e46",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10859,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-washington-post",
+      "source_name": "The Washington Post",
+      "author": "Lena H. Sun",
+      "title": "Five people who survived measles recount the disease\u2019s horrors",
+      "description": "Measles is back, after vaccination largely eliminated it from the United States. Survivors describe having one of the most contagious diseases on Earth.",
+      "url": "https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PTNMVNTBUZFNPHNCEDHIYJDRVM.png&w=1200",
+      "publishedAt": "2024-07-07 09:06:09",
+      "content": "July 7, 2024 at 5:00 a.m. Lena H. Sun, a Washington Post national health reporter, has been reporting on rising measles outbreaks in the United States in recent years amid falling vaccination rates.\u2026 [+11832 chars]",
+      "retrievedAt": "2024-07-08 19:05:28.309565",
+      "internal_id": "827b7a4d86fdb6abd46a7b4c8d8771b34b87da4aa2b579b62aa0e8964ab2f02f",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10863,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje",
+      "description": "Shobha Karandlaje criticized Karnataka\u2019s Congress government\u2019s neglect of dengue and Zika cases, stalled projects, and law and order. As Bangalore North MP, she cited deaths, poor health department, BWSS, and non-functioning BBMP. Internal rifts blamed for ne\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111553532,width-1200,height-630,imgsize-6528,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-07 08:59:38",
+      "content": "Accusing the Congress government in Karnataka of being in deep slumber and mired in competition for Chief Minister and Deputy Chief Minister posts and internal rifts, Union Minister Shobha Karandlaje\u2026 [+2779 chars]",
+      "retrievedAt": "2024-07-08 19:05:30.212426",
+      "internal_id": "2b3eaedb04ba02aca6ebf69abe61d3e1090e9549edfd7b1d0a53ef209d730fc2",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10868,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Sorge vor \u201eClade I\u201c - WHO warnt vor gef\u00e4hrlicher Mutation des Affenpocken-Virus",
+      "description": "Die Weltgesundheitsorganisation WHO ist alarmiert. In der Demokratischen Republik Kongo breitet sich eine Mutation des gef\u00e4hrlichen Affenpockenvirus (Mpox) massiv aus. Erstmals dokumentieren Experten eine beschleunigte \u00dcbertragung - ohne Geschlechtsverkehr.",
+      "url": "https://www.focus.de/gesundheit/sorge-vor-clade-i-who-warnt-vor-gefaehrlicher-mutation-des-affenpocken-virus_id_260115667.html",
+      "urlToImage": "https://p6.focus.de/img/regional/berlin/id_181671659/eine-kolorierte-mikroskopische-aufnahme-des-affenpockenvirus-gruen-auf-infizierten-vero-zellen..jpg?im=Crop%3D%280%2C371%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=95fa9420243d61072b5e445066bf142ca19f815b9f04878bd20514e8eae2223f",
+      "publishedAt": "2024-07-07 08:54:45",
+      "content": "Die Weltgesundheitsorganisation WHO ist alarmiert. In der Demokratischen Republik Kongo breitet sich eine Mutation des gef\u00e4hrlichen Affenpockenvirus (Mpox) massiv aus. Erstmals dokumentieren Experten\u2026 [+3070 chars]",
+      "retrievedAt": "2024-07-08 19:05:32.410979",
+      "internal_id": "3f3454e8c20af6c825a0d92d0fce0fd033d10a3eab9088f076aa5e942d5f0adf",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10867,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Entekhab.ir",
+      "author": "info@entekhab.ir",
+      "title": "\u0627\u0641\u0632\u0627\u06cc\u0634 \u0645\u0648\u0627\u0631\u062f \u0627\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646 \u062f\u0631 \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc",
+      "description": "\u0648\u0632\u0627\u0631\u062a \u0628\u0647\u062f\u0627\u0634\u062a \u0645\u0644\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u062a\u0627\u06cc\u06cc\u062f \u06a9\u0631\u062f \u06a9\u0647 \u062a\u0639\u062f\u0627\u062f \u06a9\u0644 \u0645\u0648\u0627\u0631\u062f \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646 \u0628\u0647 \u06f2\u06f0 \u0645\u0648\u0631\u062f \u0631\u0633\u06cc\u062f\u0647 \u0627\u0633\u062a.",
+      "url": "https://www.entekhab.ir/fa/news/798563/\u0627\u0641\u0632\u0627\u06cc\u0634-\u0645\u0648\u0627\u0631\u062f-\u0627\u0628\u062a\u0644\u0627-\u0628\u0647-\u0622\u0628\u0644\u0647-\u0645\u06cc\u0645\u0648\u0646-\u062f\u0631-\u0622\u0641\u0631\u06cc\u0642\u0627\u06cc-\u062c\u0646\u0648\u0628\u06cc",
+      "urlToImage": "https://cdn.entekhab.ir/files/fa/news/1403/4/17/1726050_991.jpeg",
+      "publishedAt": "2024-07-07 08:39:12",
+      "content": "(Entekhab.ir) : : .\u00ab \u00bb : \u00ab mpox Tecovirimat .\u00bb . HIV . . Mpox . .",
+      "retrievedAt": "2024-07-08 19:05:32.405609",
+      "internal_id": "0fd176ab2eecffe34a67ab34d195eeccb301b012f0c21ce2433f18cee17dd36a",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 10865,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Dengue grips India's southern state Karnataka, Delhi too registers 240 cases",
+      "description": "NEW DELHI, July 7 (Xinhua) -- Dengue has gripped several parts of India's southern state of Karnatak",
+      "url": "http://en.people.cn/n3/2024/0707/c90000-20190779.html",
+      "urlToImage": null,
+      "publishedAt": "2024-07-07 07:27:05",
+      "content": "NEW DELHI, July 7 (Xinhua) -- Dengue has gripped several parts of India's southern state of Karnataka, even as nearly seven persons were suspected to have died due to the viral disease and over 7,000\u2026 [+1098 chars]",
+      "retrievedAt": "2024-07-08 19:05:30.250033",
+      "internal_id": "5bb258edde9a3dcd7dec881b4a6d38865dbe71e54a515669dc66ed633255149e",
       "publishedAtLabel": "Jul 7"
     }
   ]
