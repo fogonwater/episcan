@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 29
-- **Last harvest:** 2024-08-23 19:05
-- **Most recent article:** 2024-08-22 19:03:30
+- **New articles in last harvest:** 28
+- **Last harvest:** 2024-08-24 07:05
+- **Most recent article:** 2024-08-23 06:45:43
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | 24-34 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 23 | 17 | 16 | 26 | 139 | 292 | 121 | 634 |
-| dengue | 84 | 62 | 63 | 55 | 46 | 52 | 43 | 405 |
+| mpox | 26 | 17 | 16 | 26 | 139 | 292 | 133 | 649 |
+| dengue | 91 | 62 | 63 | 55 | 46 | 52 | 51 | 420 |
 | h5n1 | 52 | 62 | 38 | 21 | 6 | 8 | 4 | 191 |
-| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 24 | 133 |
-| zika | 9 | 6 | 10 | 12 | 11 | 10 | 14 | 72 |
-| measles | 10 | 19 | 22 | 8 | 6 | 3 | 4 | 72 |
+| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 25 | 134 |
+| zika | 10 | 6 | 10 | 12 | 11 | 10 | 17 | 76 |
+| measles | 11 | 19 | 22 | 8 | 6 | 3 | 4 | 73 |
 | rabies | 2 | 17 | 8 | 12 | 8 | 12 | 5 | 64 |
 | chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 7 | 48 |
-| meningitis | 5 | 3 | 2 | 3 | 6 | 8 | 5 | 32 |
+| meningitis | 5 | 3 | 2 | 3 | 6 | 8 | 11 | 38 |
 | pertussis | 2 | 0 | 5 | 5 | 6 | 3 | 3 | 24 |
 | hpai | 5 | 6 | 3 | 4 | 1 | 1 | 1 | 21 |
-| leptospirosis | 3 | 4 | 1 | 2 | 2 | 2 | 2 | 16 |
+| leptospirosis | 3 | 4 | 1 | 2 | 2 | 2 | 3 | 17 |
 | typhoid | 5 | 1 | 3 | 1 | 0 | 1 | 0 | 11 |
 | yersinia | 5 | 0 | 2 | 1 | 1 | 0 | 1 | 10 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
@@ -34,6 +34,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-34 (zika)
+
+- [Inhibitors of the small membrane (M) protein viroporin prevent Zika virus infection](https://elifesciences.org/articles/68404) (Elifesciences.org)
+
+- [Mosquitoes sense infrared from body heat to help track humans down](https://www.sciencedaily.com/releases/2024/08/240822181042.htm) (Science Daily)
+
+- [Mosquitoes sense infrared from body heat to help track humans down, study shows](https://phys.org/news/2024-08-mosquitoes-infrared-body-track-humans.html) (Phys.Org)
 
 - [Assessing pyrethroid resistance in Aedes aegypti from Cordoba Colombia: Implications of kdr mutations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309201) (Plos.org)
 
@@ -89,9 +95,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-34 (mpox)
 
+- [E Mpox noul Covid? Cât de justificate sunt temerile legate de variola maimuței și de o nouă pandemie](http://hotnews.ro/e-mpox-noul-covid-cat-de-justificate-sunt-temerile-legate-de-variola-maimutei-si-de-o-noua-pandemie-1776803) (Hotnews.ro)
+
+- [Vacina brasileira contra a mpox está próxima dos testes em humanos](https://gizmodo.uol.com.br/vacina-brasileira-contra-a-mpox-esta-proxima-dos-testes-em-humanos/) (Uol.com.br)
+
+- [Mpox: riscos da doença ainda são difíceis de avaliar](https://olhardigital.com.br/2024/08/22/medicina-e-saude/mpox-riscos-da-doenca-ainda-sao-dificeis-de-avaliar/) (Olhardigital.com.br)
+
+- [Quanto devemos nos preocupar com a mpox?](https://www.bbc.com/portuguese/articles/czjyv9vzrwwo) (BBC News)
+
+- [Mpox: os primeiros sinais da infecção para se observar](https://catracalivre.com.br/saude-bem-estar/mpox-os-primeiros-sinais-da-infeccao-para-se-observar/) (Catracalivre.com.br)
+
 - [Mpox: quais os sintomas e como a doença é transmitida](https://gizmodo.uol.com.br/mpox-quais-os-sintomas-e-como-a-doenca-e-transmitida/) (Uol.com.br)
 
 - [Ausbreitung in Afrika: „Mpox ist nicht das neue Covid“](https://www.faz.net/aktuell/gesellschaft/gesundheit/who-beschwichtigt-mpox-ist-nicht-das-neue-covid-19935422.html) (Faz.net)
+
+- [El fabricante de la vacuna de la viruela del mono bate previsiones y vuela en Bolsa](https://www.expansion.com/empresas/industria/2024/08/22/66c76505468aeb7d3b8b4599.html) (Expansion.com)
 
 - [Virus du mpox : voici où le nouveau variant a été détecté, et pourquoi cela inquiète](https://www.huffingtonpost.fr/international/article/virus-du-mpox-voici-ou-le-nouveau-variant-a-ete-detecte-et-pourquoi-cela-inquiete-clx1_238474.html) (Le HuffPost)
 
@@ -101,9 +119,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Mapped: Which countries have reported mpox cases so far?](https://www.aljazeera.com/news/2024/8/22/mapped-which-countries-have-reported-mpox-cases-so-far) (Al Jazeera English)
 
+- [Thailanda, prima țară din Asia care a depistat o infecție cu tulpina mai periculoasă a mpox](http://hotnews.ro/thailanda-prima-tara-din-asia-care-a-depistat-o-infectie-cu-tulpina-mai-periculoasa-a-mpox-1776522) (Hotnews.ro)
+
 - [Mpox: Erste Infektion mit neuer Mpox-Variante in Asien festgestellt](https://www.zeit.de/gesundheit/2024-08/mpox-klade-ib-thailand-virus) (Die Zeit)
 
+- [Möjligt fall av mpox i Belgien](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1286518) (Aftonbladet.se)
+
+- [Cepa mais mortal de mpox é detectada em mais um país fora da África](https://catracalivre.com.br/saude-bem-estar/cepa-mais-mortal-de-mpox-e-detectada-em-mais-um-pais-fora-da-africa/) (Catracalivre.com.br)
+
 - [Thailand confirms Asia’s first known case of new mpox strain](https://www.aljazeera.com/news/2024/8/22/thailand-confirms-asias-first-known-case-of-new-mpox-strain) (Al Jazeera English)
+
+- [Eerste besmettingsgeval nieuwe mpox-variant in Thailand](https://www.nrc.nl/nieuws/2024/08/22/eerste-besmettingsgeval-nieuwe-mpox-variant-in-thailand-a4863448) (Www.nrc.nl)
 
 - [Thailand confirms first Asian case of new Mpox strain](https://www.bbc.com/news/articles/czrgpg127zgo) (BBC News)
 
@@ -113,7 +139,11 @@ Source: [News API](https://newsapi.org/)
 
 - [La Thailandia conferma il primo caso di Mpox in Asia](https://www.ansa.it/sito/notizie/mondo/asia/2024/08/22/la-thailandia-conferma-il-primo-caso-di-mpox-in-asia_c83adc67-5d3e-4834-a292-0f5744a5c340.html) (ANSA.it)
 
+- [Första fallet av mpox i Thailand](https://www.aftonbladet.se/nyheter/a/Avb6W3/mpox-i-thailand) (Aftonbladet.se)
+
 - [La guerra aggrava l’epidemia di mpox](https://www.internazionale.it/magazine/prosper-heri-ngorora/2024/08/22/la-guerra-aggrava-l-epidemia-di-mpox) (Internazionale.it)
+
+- [Países que confirmaram casos da nova cepa mais letal de mpox](https://catracalivre.com.br/saude-bem-estar/paises-que-confirmaram-casos-da-nova-cepa-mais-letal-de-mpox/) (Catracalivre.com.br)
 
 - [Mpox Risks Heighten With Complex Mosaic of Infection Patterns...](https://www.bloomberg.com/news/articles/2024-08-21/mpox-risks-heighten-with-complex-mosaic-of-infection-patterns/) (Bloomberg)
 
@@ -333,6 +363,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-34 (meningitis)
 
+- [Pharmacist pleads no contest to involuntary manslaughter in Michigan deaths from meningitis outbreak](https://abcnews.go.com/Business/wireStory/pharmacist-pleads-contest-involuntary-manslaughter-michigan-deaths-meningitis-113072407) (ABC News)
+
+- [Pharmacist pleads no contest to involuntary manslaughter in Michigan deaths from meningitis outbreak](https://financialpost.com/pmn/pharmacist-pleads-no-contest-to-involuntary-manslaughter-in-michigan-deaths-from-meningitis-outbreak) (Financial Post)
+
+- [Pharmacist pleads no contest to involuntary manslaughter in 11 Michigan deaths linked to 2012 US meningitis outbreak](https://abcnews.go.com/Business/wireStory/pharmacist-pleads-contest-involuntary-manslaughter-11-michigan-deaths-113072177) (ABC News)
+
+- [Pharmacist pleads no contest to involuntary manslaughter in 11 Michigan deaths linked to 2012 US meningitis outbreak](https://abcnews.go.com/US/wireStory/pharmacist-pleads-contest-involuntary-manslaughter-11-michigan-deaths-113072172) (ABC News)
+
+- [Pharmacist pleads no contest to involuntary manslaughter in 11 Michigan deaths linked to 2012 US meningitis outbreak](https://abcnews.go.com/Health/wireStory/pharmacist-pleads-contest-involuntary-manslaughter-11-michigan-deaths-113072176) (ABC News)
+
+- [Massachusetts pharmacist pleads no contest to involuntary manslaughter in 11 Michigan deaths linked to meningitis outbreak](https://www.bostonherald.com/2024/08/22/pharmacist-pleads-no-contest-to-involuntary-manslaughter-in-11-michigan-deaths-linked-to-2012-us-meningitis-outbreak/) (Boston Herald)
+
 - [Pharmacist blamed for deaths in US meningitis outbreak expected to plead no contest in Michigan case](https://apnews.com/article/michigan-meningitis-deaths-plea-deal-cf0191643c528e20c011fd4288186426) (Associated Press)
 
 - [Pharmacist blamed for deaths in US meningitis outbreak expected to plead no contest in Michigan case](https://abcnews.go.com/Health/wireStory/pharmacist-blamed-deaths-us-meningitis-outbreak-expected-plead-113059674) (ABC News)
@@ -354,6 +396,8 @@ Source: [News API](https://newsapi.org/)
 - [Dublin Airport bus passenger alert as measles case confirmed](https://www.dublinlive.ie/news/dublin-news/dublin-airport-bus-passenger-alert-29785680) (Dublin Live)
 
 ## 24-34 (malaria)
+
+- [リポート、フィリピンのマラリアまん延地帯を行く](https://bio.nikkeibp.co.jp/atcl/report/16/082400017/082100083/) (Nikkeibp.co.jp)
 
 - [Bill Gates snackar om hur vi kan utrota malaria](https://feber.se/samhalle/bill-gates-snackar-om-hur-vi-kan-utrota-malaria/470936/) (Feber.se)
 
@@ -405,6 +449,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-34 (leptospirosis)
 
+- [Marcos tells LGUs: Use technology to promote public health](https://mb.com.ph/2024/8/20/marcos-tells-lg-us-use-technology-to-promote-public-health) (Mb.com.ph)
+
 - [Baguio: Department of Health Cordillera nagbabala laban sa paglusong sa tubig baha dahil sa patuloy na pagtaas na bilang ng kaso ng Leptospirosis](https://rpnradio.com/baguio-department-of-health-cordillera-nagbabala-laban-sa-paglusong-sa-tubig-baha-dahil-sa-patuloy-na-pagtaas-na-bilang-ng-kaso-ng-leptospirosis/) (Rpnradio.com)
 
 - [Guidance: Leptospirosis](https://www.gov.uk/guidance/leptospirosis) (Www.gov.uk)
@@ -424,6 +470,22 @@ Source: [News API](https://newsapi.org/)
 - [Bird Flu Is Infecting Pet Cats. Here’s What You Need to Know](https://www.scientificamerican.com/article/bird-flu-is-infecting-pet-cats-heres-what-you-need-to-know/) (Scientific American)
 
 ## 24-34 (dengue)
+
+- [Forgotten India Pacer Handed Duleep Trophy Lifeline After Dengue Scare](https://sports.ndtv.com/cricket/forgotten-india-pacer-umran-malik-handed-duleep-trophy-lifeline-after-dengue-scare-6398407) (NDTV News)
+
+- [Marcos tells LGUs: Use technology to promote public health](https://mb.com.ph/2024/8/20/marcos-tells-lg-us-use-technology-to-promote-public-health) (Mb.com.ph)
+
+- [El dengue deja ya al menos 137 muertos en Honduras](https://www.elperiodico.com/es/internacional/20240823/dengue-deja-137-muertos-honduras-107271857) (Elperiodico.com)
+
+- [Mosquitoes sense infrared from body heat to help track humans down](https://www.sciencedaily.com/releases/2024/08/240822181042.htm) (Science Daily)
+
+- [Salud investiga tres posibles muertes por dengue](https://www.nacion.com/ciencia/salud/salud-investiga-tres-posibles-muertes-por-dengue/OZA2BM7UWNFYRNT6UWC7WGZ5BA/story/) (Nacion.com)
+
+- [What is dengue fever?](https://www.clickorlando.com/health/2024/08/22/what-is-dengue-fever/) (WKMG News 6 & ClickOrlando)
+
+- [Mosquitoes sense infrared from body heat to help track humans down, study shows](https://phys.org/news/2024-08-mosquitoes-infrared-body-track-humans.html) (Phys.Org)
+
+- [El virus oropouche, una amenaza emergente en la región](https://cnnespanol.cnn.com/2024/08/22/virus-oropouche-amenaza-orix/) (CNN)
 
 - [TikTok’s “Dancing Engineer” Dead at 34 After Contracting Dengue Fever](https://www.eonline.com/news/1406402/tiktoks-dancing-engineer-dead-at-34-after-contracting-dengue-fever) (Eonline.com)
 
@@ -3235,6 +3297,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Zika virus scare: Stay alert, keep mosquitoes at bay](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-prevention-and-treatment-advisory/articleshow/111562086.cms) (The Times of India)
 
+- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
+
 ## 24-28 (yersinia)
 
 - [Новое исследование ставит известный факт о чуме под сомнение](https://vfokuse.mail.ru/article/novoe-issledovanie-stavit-izvestnyy-fakt-o-chume-pod-somnenie-61896522/) (Mail.ru)
@@ -3319,6 +3383,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Медики выяснили, как один человек спровоцировал в Ирландии вспышку обезьяньей оспы](https://doctorpiter.ru/obraz-zhizni/imj-odin-chelovek-zarazil-obezyanei-ospoi-pochti-tret-vsekh-bolnykh-v-irlandii-id5747755/) (Doctorpiter.ru)
 
+- [Kenya on high alert as Mpox virus is reported in DRC](https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846) (Nation.africa)
+
+- [Sorge vor „Clade I“ - WHO warnt vor gefährlicher Mutation des Affenpocken-Virus](https://www.focus.de/gesundheit/sorge-vor-clade-i-who-warnt-vor-gefaehrlicher-mutation-des-affenpocken-virus_id_260115667.html) (Focus)
+
+- [افزایش موارد ابتلا به آبله میمون در آفریقای جنوبی](https://www.entekhab.ir/fa/news/798563/افزایش-موارد-ابتلا-به-آبله-میمون-در-آفریقای-جنوبی) (Entekhab.ir)
+
 ## 24-28 (meningitis)
 
 - [El conflicto armado y las inundaciones arrastran a RDC a una "catástrofe sanitaria"](https://www.europapress.es/internacional/noticia-conflicto-armado-inundaciones-arrastran-rdc-catastrofe-sanitaria-20240713143246.html) (Europapress.es)
@@ -3352,6 +3422,8 @@ Source: [News API](https://newsapi.org/)
 - [2nd case of measles confirmed in Vermont](https://www.wcax.com/2024/07/08/2nd-case-measles-confirmed-vermont/) (WCAX)
 
 - [Spatial distribution and determinants of measles vaccination dropout among under-five children in Ethiopia: A spatial and multilevel analysis of 2019 Ethiopian demographic and health survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305393) (Plos.org)
+
+- [Five people who survived measles recount the disease’s horrors](https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/) (The Washington Post)
 
 ## 24-28 (malaria)
 
@@ -3674,6 +3746,20 @@ Source: [News API](https://newsapi.org/)
 - [Karnataka records two dengue deaths in a day](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-records-two-dengue-deaths-in-a-day/articleshow/111564588.cms) (The Times of India)
 
 - [Is Florida Headed Toward a Dengue Fever Outbreak?](https://articles.mercola.com/sites/articles/archive/2024/07/08/florida-dengue-fever-outbreak.aspx) (Mercola.com)
+
+- [Opposition demands free dengue tests as cases touch 7.1k in Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/opposition-demands-free-dengue-tests-as-cases-touch-7-1k-in-karnataka/articleshow/111560017.cms) (The Times of India)
+
+- [Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory](https://legalinsurrection.com/2024/07/florida-issues-dengue-fever-alert-cdc-issues-its-own-health-advisory/) (Legalinsurrection.com)
+
+- [Epidemiolog Maďar: Klima stěhuje exotické nemoci do Evropy. Co doporučuje před cestami do zahraničí?](https://www.lidovky.cz/domov/epidemiolog-klima-stehuje-exoticke-nemoci-do-evropy-co-doporucuje-pred-cestami-do-zahranici.A240707_185852_ln_domov_rkj) (Lidovky.cz)
+
+- [Davao: Pag-mugna ug Mosquito-Borne Diseases Task Force sa mga barangay, i-implementar](https://rpnradio.com/davao-pag-mugna-ug-mosquito-borne-diseases-task-force-sa-mga-barangay-i-implementar/) (Rpnradio.com)
+
+- [Cong govt in K'taka mired in competition for CM, Dy CM posts: Union min](https://www.business-standard.com/politics/cong-govt-in-k-taka-mired-in-competition-for-cm-dy-cm-posts-union-min-124070700218_1.html) (Business Standard)
+
+- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
+
+- [Dengue grips India's southern state Karnataka, Delhi too registers 240 cases](http://en.people.cn/n3/2024/0707/c90000-20190779.html) (People.cn)
 
 ## 24-28 (chikungunya)
 
