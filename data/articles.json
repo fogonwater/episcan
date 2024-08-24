@@ -1,8 +1,410 @@
 {
-  "last_updated": "2024-08-24 07:05",
-  "count_articles_total": 1670,
-  "count_articles_new": 28,
+  "last_updated": "2024-08-24 19:05",
+  "count_articles_total": 1681,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 12539,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "Dangote, Otedola, Elumelu to lead govt\u2019s malaria eradication drive",
+      "description": "As part of the drive to eradicate malaria in Nigeria, the Federal Government has enlisted the support of prominent business leaders. The government said Aliko Dangote, Chairman of Dangote Group, Tony Elumelu, Chairman of Heirs Holdings, and Femi Otedola, Chai\u2026",
+      "url": "https://punchng.com/dangote-otedola-elumelu-to-lead-govts-malaria-eradication-drive/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/04/27021705/malaria.jpg",
+      "publishedAt": "2024-08-23 18:39:46",
+      "content": "As part of the drive to eradicate malaria in Nigeria, the Federal Government has enlisted the support of prominent business leaders. The government said Aliko Dangote, Chairman of Dangote Group, Ton\u2026 [+5313 chars]",
+      "retrievedAt": "2024-08-24 19:05:44.797693",
+      "internal_id": "1dbcc30c0f19bcac538e2ed68ffd2256eea77b3ab416f0239ef54a6c75cd3ce7",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12543,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Carissa Wong",
+      "title": "How deadly is mpox and what treatments are available?",
+      "description": "When the fever, pains and pus-filled lesions of an mpox infection strike, how dangerous is it and how can it be treated?",
+      "url": "https://www.newscientist.com/article/2445213-how-deadly-is-mpox-and-what-treatments-are-available/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/08/23163424/SEI_218339152.jpg",
+      "publishedAt": "2024-08-23 18:10:54",
+      "content": "A health worker assesses a suspected case of mpox in North Kivu, Democratic Republic of the Congo Arlette Bashizi/Bloomberg via Getty Images Mpox, formerly known as monkeypox, is driving an ongoing\u2026 [+4082 chars]",
+      "retrievedAt": "2024-08-24 19:05:45.791369",
+      "internal_id": "5aabc078cb865242d9b56719e7809637fa52f682ff1996c49030e8db94c68a7e",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12550,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Southasiaviews.com",
+      "author": "Editor",
+      "title": "CM Conrad Sangma hospitalized for treatment of Scrub Thphus & Typhoid",
+      "description": "Shillong (Meghalaya), Aug 23: Chief Minister Conrad K Sangma was today admitted to Shillong Civil Hospital with high temperature and severe illness. Initially, he was treated at home. However, after blood tests it was identified as Scrub Typhus and Typhoid. A\u2026",
+      "url": "https://southasiaviews.com/featured/cm-conrad-sangma-hospitalized-for-treatment-of-scrub-thphus-typhoid/",
+      "urlToImage": "https://southasiaviews.com/wp-content/uploads/2024/05/conrad-.-climate-change.jpeg",
+      "publishedAt": "2024-08-23 17:51:53",
+      "content": "Shillong (Meghalaya), Aug 23: Chief Minister Conrad K Sangma was today admitted to Shillong Civil Hospital with high temperature and severe illness. Initially, he was treated at home. However, after\u2026 [+505 chars]",
+      "retrievedAt": "2024-08-24 19:05:46.291140",
+      "internal_id": "4ac3c1e949a10efc6740a887865d2fb636e4089b614e25d8ddd57d4525ce17a4",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12542,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Sandrine Berthaud-Clair",
+      "title": "Mpox en R\u00e9publique d\u00e9mocratique du Congo : la riposte se r\u00e9organise",
+      "description": "Pour enrayer l\u2019\u00e9pid\u00e9mie qui a gagn\u00e9 ses voisins, la RDC doit rassembler 10 millions de doses d\u2019ici \u00e0 2025 afin d\u2019adapter son programme de vaccination pr\u00e9vu pour octobre dans l\u2019est du pays.",
+      "url": "https://www.lemonde.fr/afrique/article/2024/08/23/mpox-en-republique-democratique-du-congo-la-riposte-se-reorganise_6292130_3212.html",
+      "urlToImage": "https://img.lemde.fr/2024/08/22/1/0/7760/5173/1440/960/60/0/61df294_1724332478391-alima-rdc-monkeypox-2023-guerchomndebo-photos-1.jpg",
+      "publishedAt": "2024-08-23 17:47:12",
+      "content": "Dans le Centre de sant\u00e9 de r\u00e9f\u00e9rence de Katako, dans la province de Maniema, dans lest de la R\u00e9publique d\u00e9mocratique du Congo (RDC), en novembre 2023. GUERCHOM NDEBO/ALIMA La riposte sorganise en R\u00e9\u2026 [+2854 chars]",
+      "retrievedAt": "2024-08-24 19:05:45.786031",
+      "internal_id": "0d7242bb30c180de43d85724b385d2b38ad79f739d2dfdbb83b69406649e945e",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12537,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "WFTV Orlando",
+      "author": "Gene Saladna",
+      "title": "2 confirmed Dengue fever cases prompt mosquito spraying in Orange County",
+      "description": "2 confirmed Dengue fever cases prompt mosquito spraying in Orange Countywftv.com",
+      "url": "https://www.wftv.com/news/local/2-confirmed-dengue-fever-cases-prompt-mosquito-spraying-orange-county/XMVRJTLJ4RHFDC2USEW24H2FEI/",
+      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/-oNplHWQisXdCz5NgG5eweigc_o=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/OWBDMGZDSNWKC75MDBO37C6HVQ.png",
+      "publishedAt": "2024-08-23 17:30:34",
+      "content": "ORANGE COUNTY, Fla. \u2014 Orange County Mosquito Control crews will be spraying some neighborhoods after state health officials recently confirmed two cases of Dengue fever. Florida Department of Health\u2026 [+1221 chars]",
+      "retrievedAt": "2024-08-24 19:05:44.064595",
+      "internal_id": "2fb1321b1eddf89d06706ba1a5cacc254dede907136c248ab96f03bb29219eca",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12549,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Syllad.com",
+      "author": "Syllad | The Rising Meghalaya",
+      "title": "Meghalaya CM admitted in Shillong Civil Hospital after tested positive for Scrub Typhus",
+      "description": "Chief Minister of Meghalaya Conrad K Sangma felt unwell on 22nd of August with high temperature and severe illness. He was treated at home. However after blood tests it was identified as Scrub Typhus and Typhoid. Due to persistent high fever, the Chirf Minist\u2026",
+      "url": "https://www.syllad.com/meghalaya-cm-admitted-in-shillong-civil-hospital-after-tested-positive-for-scrub-typhus/",
+      "urlToImage": "https://www.syllad.com/wp-content/uploads/2024/05/Cm-Conrad-jpg.webp",
+      "publishedAt": "2024-08-23 17:13:00",
+      "content": "Syllad The Rising Meghalaya Container Box with Title and Links JHADC announces eligible candidates for Assistant Forest Officer Exam - Click MPSC announces screening test for Ac\u2026 [+323 chars]",
+      "retrievedAt": "2024-08-24 19:05:46.285452",
+      "internal_id": "598eee5e71d2b90637c08247617fa3330a898ba6be3f1c73fc826be94e1f4cd0",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12535,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Descubren que el mosquito Aedes aegypti utiliza el infrarrojo para detectar objetivos humanos",
+      "description": "El mosquito Aedes aegypti es el principal trasmisor de virus como el dengue, el zika o la fiebre amarilla. El nuevo estudio podr\u00eda contribuir en el dise\u00f1o de nuevas trampas m\u00e1s eficaces para los mosquitos. Un grupo de investigadores ha descubierto que el mosq\u2026",
+      "url": "https://www.dw.com/es/descubren-que-el-mosquito-aedes-aegypti-utiliza-el-infrarrojo-para-detectar-objetivos-humanos/a-70036755",
+      "urlToImage": "https://static.dw.com/image/65378216_6.jpg",
+      "publishedAt": "2024-08-23 17:04:00",
+      "content": "Un grupo de investigadores ha descubierto que el mosquito Aedes aegypti utiliza el infrarrojo para detectar y alcanzar su objetivo de picar a seres humanos, seg\u00fan un estudio publicado el mi\u00e9rcoles (2\u2026 [+2288 chars]",
+      "retrievedAt": "2024-08-24 19:05:43.973341",
+      "internal_id": "d907495edd09c3a7def0676962818eecd1cf5377a73b5a43aa581687d0a6c804",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12541,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Slate Magazine",
+      "author": "Maddie Bender",
+      "title": "TikTok Conspiracy Theorists Are Convinced That Mpox Will Lead to a \u201cSecond Lockdown\u201d",
+      "description": "Mpox is a serious global health issue. But it\u2019s nothing like the coronavirus.",
+      "url": "https://slate.com/technology/2024/08/mpox-covid-pandemic-lockdown-tiktok-conspiracy-theory.html",
+      "urlToImage": "https://compote.slate.com/images/b0836b19-25da-4ade-b077-30d4fe0f766f.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2024-08-23 16:47:37",
+      "content": "This article was republished from Sequencerand has been lightly edited for Slate. A new public health rumor is making the rounds on TikTok. Peopleareapparently worriedthat a second lockdown is immi\u2026 [+6829 chars]",
+      "retrievedAt": "2024-08-24 19:05:45.771729",
+      "internal_id": "ffd2a5955c6f641efd4112be47b786af76a9cd6712397eed20caabb23ee30293",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12530,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Fox11online.com",
+      "author": "Ashley Kaster",
+      "title": "Whooping cough cases on the rise in Shawano County, health officials warn",
+      "description": "Whopping cough can affect people of all ages however, it can be very serious, even deadly, for babies less than one year old.",
+      "url": "https://fox11online.com/news/local/whooping-cough-cases-on-the-rise-in-shawano-county-health-officials-warn-menominee-wisconsin-disease-fever-runny-nose-cold-antibiotics-vaccine-pertussis",
+      "urlToImage": "https://fox11online.com/resources/media/f457bc32-091d-4199-bbbf-06d0f856bff3-large16x9_VALLEYVAX_frame_2452.jpeg?1628705859024",
+      "publishedAt": "2024-08-23 16:23:47",
+      "content": "(WLUK) -- Health officials say cases ofpertussis (whooping cough) are circulating Shawano County The Shawano-Menominee Counties Health Department says whooping cough is caused by a bacteria and easi\u2026 [+845 chars]",
+      "retrievedAt": "2024-08-24 19:05:42.105821",
+      "internal_id": "5dbacea6a11fc7b87633e0729f12886d482f4c4bcf4c82f1f25cdec32d003c2e",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12538,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "WKMG News 6 & ClickOrlando",
+      "author": "Brenda Argueta",
+      "title": "What is DEET? What to know about this ingredient in bug repellents",
+      "description": "What is DEET? What to know about this ingredient in bug repellentsclickorlando.com",
+      "url": "https://www.clickorlando.com/news/local/2024/08/23/what-is-deet-what-to-know-about-this-ingredient-in-bug-repellents/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/A2ENIFXCCJGMJJRCAEIXPMYWI4.jpg?_a=DATAfRfiZAA0",
+      "publishedAt": "2024-08-23 15:45:28",
+      "content": "ORANGE COUNTY, Fla. In Florida, mosquitoes can seem like a constant problem. Recently, the Florida Department of Health confirmed two cases of dengue in Orange County. DEET is an active ingredient \u2026 [+1560 chars]",
+      "retrievedAt": "2024-08-24 19:05:44.078485",
+      "internal_id": "e9df5b2a2363d2db1b065698be291fb60ca81350f6e8c1953c31702f690544a0",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12547,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Pedro Pinto",
+      "title": "Primeiro caso de febre hemorr\u00e1gica da Crimeia-Congo em Portugal",
+      "description": "Depois de uma pandemia por COVID-19, voltam a soar os alarmes por causa da mpox e agora por causa da febre hemorr\u00e1gica Crimeia-Congo. Recentemente foi confirmado o primeiro caso de Febre Hemorr\u00e1gica da Crimeia-Congo...",
+      "url": "https://pplware.sapo.pt/ciencia/primeiro-caso-de-febre-hemorragica-da-crimeia-congo-em-portugal/",
+      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2024/08/carrac\u0327a_00.jpg",
+      "publishedAt": "2024-08-23 14:40:14",
+      "content": "Depois de uma pandemia por COVID-19, voltam a soar os alarmes por causa da mpox e agora por causa da febre hemorr\u00e1gica Crimeia-Congo. Recentemente foi confirmado o primeiro caso de Febre Hemorr\u00e1gica \u2026 [+1183 chars]",
+      "retrievedAt": "2024-08-24 19:05:46.005289",
+      "internal_id": "b5414b11063be68f9b9c9d3189c3b768a0e2bd59c0ed46aff5f3d94bb8799488",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12533,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mohammed Seid, Esayas Aklilu, Abebe Animut",
+      "title": "Susceptibility status of Aedes aegypti (Diptera: Culicidae) to public health insecticides in Southern Afar Region, Ethiopia",
+      "description": "Mosquito-borne viral diseases such as dengue fever, chikungunya, and yellow fever have been documented in Ethiopia since the 1960s. However, the efficacy of public health insecticides against Aedes aegypti that transmits these viruses remains poorly understoo\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309335",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0309335.g004&size=inline",
+      "publishedAt": "2024-08-23 14:00:00",
+      "content": "Abstract Mosquito-borne viral diseases such as dengue fever, chikungunya, and yellow fever have been documented in Ethiopia since the 1960s. However, the efficacy of public health insecticides again\u2026 [+34574 chars]",
+      "retrievedAt": "2024-08-24 19:05:43.929129",
+      "internal_id": "6f6f1a2466bf650b615b9105ef0dae01cb6ffbc9dc59e592ad558c370522e79e",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12540,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dana Machmouchi, Marie-Pierre Courageot, Eva Ogire, Lars Redecke, Alain Kohl, Philippe Despr\u00e8s, Marjolaine Roche",
+      "title": "The NS1 protein of contemporary West African Zika virus potentiates viral replication and reduces innate immune activation",
+      "description": "Author summary Mosquito-borne Zika virus (ZIKV) of African lineage has the potential to cause epidemics alongside a high risk of fetal pathogenicity. Improved surveillance has enabled a deeper understanding of the molecular characteristics of currently circul\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012146",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012146.g008&size=inline",
+      "publishedAt": "2024-08-23 14:00:00",
+      "content": "Expression of NS1CWA protein The sequence comparison between NS1CWA and NS1MR766 proteins identified seven amino acid substitutions (Table 1). Mutations were distributed between the hydrophobic -rol\u2026 [+21078 chars]",
+      "retrievedAt": "2024-08-24 19:05:45.221666",
+      "internal_id": "be2e88e59b2d688625f1447eca668092867724234cf930e0fd506bf4fe0dff01",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12531,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Un cousin du moustique-tigre s\u2019aide de l\u2019infrarouge \u00e9mis par le corps humain pour piquer sa cible",
+      "description": "Aedes aegypti, cousin du moustique tigre et vecteur de virus comme la dengue, utilise le rayonnement infrarouge, en plus de l\u2019odeur et du CO2, pour s\u2019orienter jusqu\u2019\u00e0 sa cible et boire son sang, selon une \u00e9tude parue dans \u00abNature\u00bb.",
+      "url": "https://www.liberation.fr/sciences/biologie/un-cousin-du-moustique-tigre-saide-de-linfrarouge-emis-par-le-corps-humain-pour-piquer-sa-cible-20240823_LK5A6OPHERGZBD2JAZ4FTRZQSI/",
+      "urlToImage": "https://www.liberation.fr/resizer/WqA4Ir0e4OCMMbXDjur_VO6gVxs=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/3AKWMBNPRBGRNMS7Z5OHAKUFZ4.jpg",
+      "publishedAt": "2024-08-23 13:06:30",
+      "content": "Une preuve de plus qu\u00e9teindre la lumi\u00e8re n\u00e9vite pas de se faire r\u00e9veiller par le sifflement dun moustique au creux de son oreille. Dans une \u00e9tude publi\u00e9e le 21 ao\u00fbt dans Nature, des chercheurs de lun\u2026 [+3420 chars]",
+      "retrievedAt": "2024-08-24 19:05:43.895926",
+      "internal_id": "6b58acafec82737e30938d2329e00a86b82a7d6b7a2a4cd1979f0cbd5187ca69",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12529,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "Whooping cough cases, fueled by school outbreaks, triple in Colorado from last year",
+      "description": "The Centers for Disease Control and Prevention reported Colorado had 333 cases of pertussis, the formal name for whooping cough, as of Aug. 3.",
+      "url": "https://www.denverpost.com/2024/08/23/colorado-whooping-cough-pertussis-cases-2024/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2016/04/20120901__20120902_B1_CD30WHOOPINGp1.jpg?w=600&h=416",
+      "publishedAt": "2024-08-23 12:00:10",
+      "content": "Whooping cough cases in Colorado have tripled so far this year, and schools are experiencing clusters of the preventable respiratory disease, according to the state health department. The Centers fo\u2026 [+2501 chars]",
+      "retrievedAt": "2024-08-24 19:05:42.085427",
+      "internal_id": "7ceefbaf8f57138e67e35c6125a9920d10e270de803d21d4e2b3d32abc596f29",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12546,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "Second Non-African Country Confirms Case Of Deadlier Mpox Strain",
+      "description": "Thailand confirmed Asia\u2019s only known case of the newer and deadlier clade Ib mpox variant, though several countries have reported clade II infections\u2014which drove the 2022 global outbreak\u2014in the last week.",
+      "url": "https://www.forbes.com/sites/roberthart/2024/08/23/second-non-african-country-confirms-case-of-deadlier-mpox-strain/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66bde41b958449d30e8f1ff8/0x0.jpg?format=jpg&crop=3638,2046,x0,y254,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-08-23 11:35:21",
+      "content": "Thailand on Thursday confirmed an mpox case reported earlier this week was the new clade Ib strain, marking only the second time the deadlier variant has been identified outside of Africa as governme\u2026 [+3722 chars]",
+      "retrievedAt": "2024-08-24 19:05:45.986930",
+      "internal_id": "3e3133754850ca66eb8d79e36157e496f7e55f94d58de27134de8547ccdd03ce",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12532,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le HuffPost",
+      "author": "Sofiane Hama\u00efdi, avec AFP",
+      "title": "Le moustique Aedes aegypti d\u00e9tecte les humains gr\u00e2ce \u00e0 une \u00ab vision nocturne \u00bb infrarouge",
+      "description": "Une \u00e9tude de l\u2019universit\u00e9 de Californie r\u00e9v\u00e8le comment cette capacit\u00e9, similaire \u00e0 celle des serpents \u00e0 sonnettes, pourrait ouvrir la voie \u00e0 des pi\u00e8ges plus efficaces.",
+      "url": "https://www.huffingtonpost.fr/environnement/article/le-moustique-aedes-aegypti-detecte-les-humains-grace-a-une-vision-nocturne-infrarouge_238681.html",
+      "urlToImage": "https://huffpost-focus.sirius.press/2024/08/23/53/0/1024/576/1820/1023/75/0/632c3b8_1724397621670-000-34mf82v.jpg",
+      "publishedAt": "2024-08-23 11:15:11",
+      "content": "INSECTES - Ces moustiques peuvent nous traquer m\u00eame la nuit Le moustique Aedes aegypti principal vecteur de maladies telles que la dengue, la fi\u00e8vre jaune, le zika ou le chikungunya poss\u00e8de un arsena\u2026 [+3696 chars]",
+      "retrievedAt": "2024-08-24 19:05:43.919006",
+      "internal_id": "14938561709fa7865d12662a8f09f8f1503bd7867cfc879f25c5dec46834e267",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12548,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "La Tha\u00eflande confirme un premier cas du nouveau variant de la mpox, l\u2019\u201cAsie en \u00e9tat d\u2019alerte\u201d",
+      "description": "Le jeudi 22 ao\u00fbt, les autorit\u00e9s sanitaires tha\u00eflandaises ont annonc\u00e9 qu\u2019un Europ\u00e9en \u00e9tait porteur du clade 1b de la mpox. Il s\u2019agit du premier cas confirm\u00e9 en Asie de ce nouveau variant potentiellement plus dangereux et contagieux.",
+      "url": "https://www.courrierinternational.com/article/sante-la-thailande-confirme-un-premier-cas-du-nouveau-variant-de-la-mpox-l-asie-en-etat-d-alerte_221425",
+      "urlToImage": "https://focus.courrierinternational.com/2024/08/20/13/0/3460/2306/1200/630/60/0/4073918_2024-08-20t140044z-752299133-rc2pj9ave31b-rtrmadp-3-health-mpox.JPG",
+      "publishedAt": "2024-08-23 10:49:36",
+      "content": "Un Europ\u00e9en de 66 ans est arriv\u00e9 \u00e0 Bangkok le 14 ao\u00fbt en provenance dun pays africain dont lidentit\u00e9 na pas, jusqu\u00e0 maintenant, \u00e9t\u00e9 pr\u00e9cis\u00e9e. Le lendemain, il a commenc\u00e9 \u00e0 pr\u00e9senter des sympt\u00f4mes de \u2026 [+2927 chars]",
+      "retrievedAt": "2024-08-24 19:05:46.036305",
+      "internal_id": "b59512409c78c91d4a5fda3b7d3b580f10b6d8165e79c67529683331b3ae9799",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12536,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Un caso di Dengue a Firenze, effettuata la disinfestazione",
+      "description": "Un caso di Dengue importato \u00e8 stato segnalato all'igiene pubblica di Firenze. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2024/08/23/un-caso-di-dengue-a-firenze-effettuata-la-disinfestazione_81153283-c768-4951-92da-1ef338ba8bd4.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/3/16/e0cd91afdf14b3b3fd89a995b8a13391.jpg",
+      "publishedAt": "2024-08-23 10:30:51",
+      "content": "Un caso di Dengue importato \u00e8 stato segnalato all'igiene pubblica di Firenze. Lo rende noto la Asl Toscana centro spiegando che la persona ha contratto l'arbovirosi da Dengue in seguito al soggior\u2026 [+1883 chars]",
+      "retrievedAt": "2024-08-24 19:05:44.012811",
+      "internal_id": "497f04b5028fc5eb330f3de50adc3a76a7f37e19bff22c93acfeeede78dd802f",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12534,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Publico.es",
+      "author": "Adaya Gonz\u00e1lez (EFE)",
+      "title": "La crisis clim\u00e1tica dispara las infecciones por picaduras",
+      "description": "El oropouche es la \u00faltima de las infecciones contagiadas por insectos y par\u00e1sitos \u2013como mosquitos, flebotomos, garrapatas, pulgas o piojos\u2013. El zika, el chikungunya o el dengue son otros virus que se est\u00e1n contagiando.",
+      "url": "https://www.publico.es/sociedad/crisis-climatica-dispara-infecciones-picaduras.html",
+      "urlToImage": "https://www.publico.es/uploads/2024/08/23/66c84ba65075c.jpeg",
+      "publishedAt": "2024-08-23 09:18:00",
+      "content": "La crisis clim\u00e1tica ha disparado las enfermedades transmitidas por vectores en Espa\u00f1a, donde ya deber\u00edamos preocuparnos por picaduras de insectos y par\u00e1sitos en las que antes ni repar\u00e1bamos y dejar d\u2026 [+5063 chars]",
+      "retrievedAt": "2024-08-24 19:05:43.938516",
+      "internal_id": "86d881708e85ab6f5fbefc8dd27a89d1790fdbee63119e46585005bb72f2f83d",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12544,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Nike Heinen",
+      "title": "\u201eEs sterben drei von 100 Kranken, 85 Prozent der Toten sind Kinder\u201c",
+      "description": "Das Mpox-Virus kursiert in mindestens einem halben Dutzend afrikanischer L\u00e4nder. Der deutsche Virologe Wolfgang Preiser forscht in S\u00fcdafrika. Er erkl\u00e4rt, wie Prostituierte und Minenarbeiter die Seuche weiter verbreiteten und welche Krankheit die Menschen noch\u2026",
+      "url": "https://www.welt.de/wissenschaft/plus253134362/Virologe-ueber-Mpox-Ausbruch-Wie-viele-der-Verdachtsfaelle-sind-eigentlich-etwas-ganz-anderes.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile253145404/4561355327-ci16x9-w1200-fnov-fpotl-fpi157750653/BURUNDI-HEALTH-VIRUS-MPOX-2.jpg",
+      "publishedAt": "2024-08-23 09:07:56",
+      "content": "Die WELT als ePaper: Die vollst\u00e4ndige Ausgabe steht Ihnen bereits am Vorabend zur Verf\u00fcgung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link die\u2026 [+49 chars]",
+      "retrievedAt": "2024-08-24 19:05:45.899150",
+      "internal_id": "927585f67aeb96b3715ac8226aad03155c75c65164d519a552cf10d1e11413cb",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 12545,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "CNA Explains: Mpox has a new, deadlier and more transmissible variant - just how dangerous is it?",
+      "description": "What is the new mpox strain clade 1b? Is it as contagious as COVID-19, and how likely is it to reach Singapore?",
+      "url": "https://www.channelnewsasia.com/singapore/mpox-strain-clade-1b-deadly-dangerous-virus-world-health-organization-4563366",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--oiYhSKQk--/c_crop,h_450,w_800,x_0,y_55/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-08-16t164957z_1_lynxmpek7f0ig_rtroptp_3_health-mpox.jpg?itok=GPYPod28",
+      "publishedAt": "2024-08-23 08:57:44",
+      "content": "What are the precautions, symptoms and treatments? To protect against the spread of mpox, one should maintain a high standard of personal hygiene and avoid direct contact with the skin lesions of th\u2026 [+1566 chars]",
+      "retrievedAt": "2024-08-24 19:05:45.917913",
+      "internal_id": "e1a8d32585a3fa1e82fc8ad3953c9763961a2246d4afa9dc557062e29d4f02e9",
+      "publishedAtLabel": "Aug 23"
+    },
     {
       "id": 12505,
       "query": [
@@ -29969,205 +30371,6 @@
       "content": "New Delhi: The onset of monsoon boosted sales of drugs for respiratory, anti-infective, anti-malaria and gastrointestinal therapies in June.According to market researcher Pharmarack, these therapies \u2026 [+1464 chars]",
       "retrievedAt": "2024-07-09 07:06:01.964468",
       "internal_id": "dce090d88618498155b7d5ad7f5f6e50473b4df00c2a2c2b43557a547e22c355",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10862,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Opposition demands free dengue tests as cases touch 7.1k in Karnataka",
-      "description": "Opposition leader criticizes health centres for charging Rs 1,000 for dengue tests, calls for free testing. Karnataka records 7,165 dengue cases since January, with BBMP area most affected. Minister instructs gram panchayats to take preventive actions. Concer\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/opposition-demands-free-dengue-tests-as-cases-touch-7-1k-in-karnataka/articleshow/111560017.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-111560062,width-1070,height-580,imgsize-41852,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-07-07 18:54:45",
-      "content": "Unforgettable train journeys across Indias best landscape",
-      "retrievedAt": "2024-07-08 19:05:30.175029",
-      "internal_id": "6cdc8208663ae4383f8d5947a77e7ca757d8e639c77859c930bc7b5acf081029",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10860,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Leslie Eastman",
-      "title": "Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory",
-      "description": "\"Experts\" are tying the rise in dengue fever infections to \"climate change\" The post Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2024/07/florida-issues-dengue-fever-alert-cdc-issues-its-own-health-advisory/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2016/10/LI-34-Mosquito-e1476243914966.png",
-      "publishedAt": "2024-07-07 18:00:03",
-      "content": "Back in 2016, I reported that cases of dengue fever were being reported in Florida and Hawaii. Dengue (break-bone fever) is a viral infection that spreads from mosquitoes to people and is more common\u2026 [+4714 chars]",
-      "retrievedAt": "2024-07-08 19:05:30.150685",
-      "internal_id": "249d56c5124711c2521b14729570f49f688e862c567d596d4d662648a721dabe",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10861,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Lidovky.cz",
-      "author": "Mat\u011bj Ku\u010dera",
-      "title": "Epidemiolog Ma\u010far: Klima st\u011bhuje exotick\u00e9 nemoci do Evropy. Co doporu\u010duje p\u0159ed cestami do zahrani\u010d\u00ed?",
-      "description": "Projevuje se n\u00e1hlou vysokou hore\u010dkou, bolestmi kloub\u016f, sval\u016f, vlastn\u011b cel\u00e9ho t\u011bla. Obrazn\u011b \u0159e\u010deno \u201el\u00e1me kosti\u201c. Krv\u00e1cen\u00ed ohro\u017euje pacienta i na \u017eivot\u011b. Hore\u010dka dengue pat\u0159\u00ed k ob\u00e1van\u011bj\u0161\u00edm nemocem dovolenk\u00e1\u0159\u016f.",
-      "url": "https://www.lidovky.cz/domov/epidemiolog-klima-stehuje-exoticke-nemoci-do-evropy-co-doporucuje-pred-cestami-do-zahranici.A240707_185852_ln_domov_rkj",
-      "urlToImage": "https://1gr.cz/fotky/lidovky/21/032/cl8/LRO8a28ee_21_83545479.jpg",
-      "publishedAt": "2024-07-07 17:03:00",
-      "content": "Proti chorob, kterou na lovka pen\u00e1\u00ed kom\u00e1i, se d\u00e1 okovat. Epidemiolog Rastislav Maar v rozhovoru pro Lidovky.cz \u00edk\u00e1, e zat\u00edm to nevid\u00ed jako nezbytn nutn\u00e9, ale ostraitost je nam\u00edst. Loni se podle Maara\u2026 [+518 chars]",
-      "retrievedAt": "2024-07-08 19:05:30.161772",
-      "internal_id": "adcdbc10636604e5569f711cb58471446776c0fd975739744329dce9a18e7aa1",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10869,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Nation.africa",
-      "author": "Hellen Aura",
-      "title": "Kenya on high alert as Mpox virus is reported in DRC",
-      "description": "Kenyans told to exercise high levels of hygiene since the virus can be spread through physical contact with an infected person.",
-      "url": "https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846",
-      "urlToImage": "https://nation.africa/resource/image/4682860/landscape_ratio3x2/1200/800/283a402bf2b4dcc2557b69f3ff13f92f/Ov/drc-mpox.jpg",
-      "publishedAt": "2024-07-07 15:02:34",
-      "content": "Kenya has issued a travel advisory to all counties and border entry points, highlighting the critical importance of early detection of smallpox cases. Ms Mary Muthoni Muriuki, Principal Secretary (P\u2026 [+5131 chars]",
-      "retrievedAt": "2024-07-08 19:05:32.428829",
-      "internal_id": "dce732c5a7b66dcfe6344ff8e2e1dfb75bd8ee6fb2585d27c2ca64c284f0220c",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10866,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Davao: Pag-mugna ug Mosquito-Borne Diseases Task Force sa mga barangay, i-implementar",
-      "description": "Davao City \u2013 Gimanduan sa lokal nga paggamhan subay sa gipagula nga memorandum ni Davao City Mayor Sebastian \u2018Baste\u2019 Duterte nga magmugna ang mga barangay ug Mosquito-Borne Diseases Task Force. Tumong niini nga makontrola ang pagsaka sa ihap sa kaso sa dengue\u2026",
-      "url": "https://rpnradio.com/davao-pag-mugna-ug-mosquito-borne-diseases-task-force-sa-mga-barangay-i-implementar/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/11/feat-davao.png",
-      "publishedAt": "2024-07-07 11:47:49",
-      "content": "Davao City Gimanduan sa lokal nga paggamhan subay sa gipagula nga memorandum ni Davao City Mayor Sebastian \u2018Baste\u2019 Duterte nga magmugna ang mga barangay ug Mosquito-Borne Diseases Task Force. Tumong\u2026 [+446 chars]",
-      "retrievedAt": "2024-07-08 19:05:30.257427",
-      "internal_id": "5bfd5f3c0071263f2015b00749a7e92944fd887691043991c8f77625838d7f92",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10864,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Business Standard",
-      "author": "Press Trust of India",
-      "title": "Cong govt in K'taka mired in competition for CM, Dy CM posts: Union min",
-      "description": "Accusing the Congress government in Karnataka of being in deep slumber and mired in competition for Chief Minister and Deputy Chief Minister posts and internal rifts, Union Minister Shobha Karandlaje on Sunday urged the CM Siddaramaiah and his administration \u2026",
-      "url": "https://www.business-standard.com/politics/cong-govt-in-k-taka-mired-in-competition-for-cm-dy-cm-posts-union-min-124070700218_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/02/thumb/featurecrop/400X400/1719895768-2989.jpg",
-      "publishedAt": "2024-07-07 09:26:46",
-      "content": "Though the government has fixed a rate for dengue tests, no one is following it, she said, \"there are reports about deaths due to dengue in Bengaluru, the government system has collapsed, the health \u2026 [+844 chars]",
-      "retrievedAt": "2024-07-08 19:05:30.230040",
-      "internal_id": "8cc88deaf3d2dacc8476df54b289643f923a1e3b928200c82f8742e7c38e4e46",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10859,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-washington-post",
-      "source_name": "The Washington Post",
-      "author": "Lena H. Sun",
-      "title": "Five people who survived measles recount the disease\u2019s horrors",
-      "description": "Measles is back, after vaccination largely eliminated it from the United States. Survivors describe having one of the most contagious diseases on Earth.",
-      "url": "https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PTNMVNTBUZFNPHNCEDHIYJDRVM.png&w=1200",
-      "publishedAt": "2024-07-07 09:06:09",
-      "content": "July 7, 2024 at 5:00 a.m. Lena H. Sun, a Washington Post national health reporter, has been reporting on rising measles outbreaks in the United States in recent years amid falling vaccination rates.\u2026 [+11832 chars]",
-      "retrievedAt": "2024-07-08 19:05:28.309565",
-      "internal_id": "827b7a4d86fdb6abd46a7b4c8d8771b34b87da4aa2b579b62aa0e8964ab2f02f",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10863,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje",
-      "description": "Shobha Karandlaje criticized Karnataka\u2019s Congress government\u2019s neglect of dengue and Zika cases, stalled projects, and law and order. As Bangalore North MP, she cited deaths, poor health department, BWSS, and non-functioning BBMP. Internal rifts blamed for ne\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-111553532,width-1200,height-630,imgsize-6528,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-07-07 08:59:38",
-      "content": "Accusing the Congress government in Karnataka of being in deep slumber and mired in competition for Chief Minister and Deputy Chief Minister posts and internal rifts, Union Minister Shobha Karandlaje\u2026 [+2779 chars]",
-      "retrievedAt": "2024-07-08 19:05:30.212426",
-      "internal_id": "2b3eaedb04ba02aca6ebf69abe61d3e1090e9549edfd7b1d0a53ef209d730fc2",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10868,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "focus",
-      "source_name": "Focus",
-      "author": "FOCUS online",
-      "title": "Sorge vor \u201eClade I\u201c - WHO warnt vor gef\u00e4hrlicher Mutation des Affenpocken-Virus",
-      "description": "Die Weltgesundheitsorganisation WHO ist alarmiert. In der Demokratischen Republik Kongo breitet sich eine Mutation des gef\u00e4hrlichen Affenpockenvirus (Mpox) massiv aus. Erstmals dokumentieren Experten eine beschleunigte \u00dcbertragung - ohne Geschlechtsverkehr.",
-      "url": "https://www.focus.de/gesundheit/sorge-vor-clade-i-who-warnt-vor-gefaehrlicher-mutation-des-affenpocken-virus_id_260115667.html",
-      "urlToImage": "https://p6.focus.de/img/regional/berlin/id_181671659/eine-kolorierte-mikroskopische-aufnahme-des-affenpockenvirus-gruen-auf-infizierten-vero-zellen..jpg?im=Crop%3D%280%2C371%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=95fa9420243d61072b5e445066bf142ca19f815b9f04878bd20514e8eae2223f",
-      "publishedAt": "2024-07-07 08:54:45",
-      "content": "Die Weltgesundheitsorganisation WHO ist alarmiert. In der Demokratischen Republik Kongo breitet sich eine Mutation des gef\u00e4hrlichen Affenpockenvirus (Mpox) massiv aus. Erstmals dokumentieren Experten\u2026 [+3070 chars]",
-      "retrievedAt": "2024-07-08 19:05:32.410979",
-      "internal_id": "3f3454e8c20af6c825a0d92d0fce0fd033d10a3eab9088f076aa5e942d5f0adf",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10867,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Entekhab.ir",
-      "author": "info@entekhab.ir",
-      "title": "\u0627\u0641\u0632\u0627\u06cc\u0634 \u0645\u0648\u0627\u0631\u062f \u0627\u0628\u062a\u0644\u0627 \u0628\u0647 \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646 \u062f\u0631 \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc",
-      "description": "\u0648\u0632\u0627\u0631\u062a \u0628\u0647\u062f\u0627\u0634\u062a \u0645\u0644\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u062a\u0627\u06cc\u06cc\u062f \u06a9\u0631\u062f \u06a9\u0647 \u062a\u0639\u062f\u0627\u062f \u06a9\u0644 \u0645\u0648\u0627\u0631\u062f \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646 \u0628\u0647 \u06f2\u06f0 \u0645\u0648\u0631\u062f \u0631\u0633\u06cc\u062f\u0647 \u0627\u0633\u062a.",
-      "url": "https://www.entekhab.ir/fa/news/798563/\u0627\u0641\u0632\u0627\u06cc\u0634-\u0645\u0648\u0627\u0631\u062f-\u0627\u0628\u062a\u0644\u0627-\u0628\u0647-\u0622\u0628\u0644\u0647-\u0645\u06cc\u0645\u0648\u0646-\u062f\u0631-\u0622\u0641\u0631\u06cc\u0642\u0627\u06cc-\u062c\u0646\u0648\u0628\u06cc",
-      "urlToImage": "https://cdn.entekhab.ir/files/fa/news/1403/4/17/1726050_991.jpeg",
-      "publishedAt": "2024-07-07 08:39:12",
-      "content": "(Entekhab.ir) : : .\u00ab \u00bb : \u00ab mpox Tecovirimat .\u00bb . HIV . . Mpox . .",
-      "retrievedAt": "2024-07-08 19:05:32.405609",
-      "internal_id": "0fd176ab2eecffe34a67ab34d195eeccb301b012f0c21ce2433f18cee17dd36a",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 10865,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Dengue grips India's southern state Karnataka, Delhi too registers 240 cases",
-      "description": "NEW DELHI, July 7 (Xinhua) -- Dengue has gripped several parts of India's southern state of Karnatak",
-      "url": "http://en.people.cn/n3/2024/0707/c90000-20190779.html",
-      "urlToImage": null,
-      "publishedAt": "2024-07-07 07:27:05",
-      "content": "NEW DELHI, July 7 (Xinhua) -- Dengue has gripped several parts of India's southern state of Karnataka, even as nearly seven persons were suspected to have died due to the viral disease and over 7,000\u2026 [+1098 chars]",
-      "retrievedAt": "2024-07-08 19:05:30.250033",
-      "internal_id": "5bb258edde9a3dcd7dec881b4a6d38865dbe71e54a515669dc66ed633255149e",
       "publishedAtLabel": "Jul 7"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2024-08-24 07:05
-- **Most recent article:** 2024-08-23 06:45:43
+- **New articles in last harvest:** 22
+- **Last harvest:** 2024-08-24 19:05
+- **Most recent article:** 2024-08-23 18:39:46
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-28 | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | 24-34 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 17 | 16 | 26 | 139 | 292 | 133 | 649 |
-| dengue | 91 | 62 | 63 | 55 | 46 | 52 | 51 | 420 |
+| mpox | 23 | 17 | 16 | 26 | 139 | 292 | 141 | 654 |
+| dengue | 84 | 62 | 63 | 55 | 46 | 52 | 59 | 421 |
 | h5n1 | 52 | 62 | 38 | 21 | 6 | 8 | 4 | 191 |
-| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 25 | 134 |
-| zika | 10 | 6 | 10 | 12 | 11 | 10 | 17 | 76 |
-| measles | 11 | 19 | 22 | 8 | 6 | 3 | 4 | 73 |
+| malaria | 12 | 31 | 16 | 15 | 16 | 19 | 26 | 135 |
+| zika | 9 | 6 | 10 | 12 | 11 | 10 | 21 | 79 |
+| measles | 10 | 19 | 22 | 8 | 6 | 3 | 4 | 72 |
 | rabies | 2 | 17 | 8 | 12 | 8 | 12 | 5 | 64 |
-| chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 7 | 48 |
+| chikungunya | 6 | 10 | 7 | 6 | 4 | 8 | 10 | 51 |
 | meningitis | 5 | 3 | 2 | 3 | 6 | 8 | 11 | 38 |
-| pertussis | 2 | 0 | 5 | 5 | 6 | 3 | 3 | 24 |
+| pertussis | 2 | 0 | 5 | 5 | 6 | 3 | 5 | 26 |
 | hpai | 5 | 6 | 3 | 4 | 1 | 1 | 1 | 21 |
 | leptospirosis | 3 | 4 | 1 | 2 | 2 | 2 | 3 | 17 |
-| typhoid | 5 | 1 | 3 | 1 | 0 | 1 | 0 | 11 |
+| typhoid | 5 | 1 | 3 | 1 | 0 | 1 | 2 | 13 |
 | yersinia | 5 | 0 | 2 | 1 | 1 | 0 | 1 | 10 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
 
@@ -34,6 +34,14 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-34 (zika)
+
+- [Descubren que el mosquito Aedes aegypti utiliza el infrarrojo para detectar objetivos humanos](https://www.dw.com/es/descubren-que-el-mosquito-aedes-aegypti-utiliza-el-infrarrojo-para-detectar-objetivos-humanos/a-70036755) (DW (English))
+
+- [The NS1 protein of contemporary West African Zika virus potentiates viral replication and reduces innate immune activation](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012146) (Plos.org)
+
+- [Le moustique Aedes aegypti détecte les humains grâce à une « vision nocturne » infrarouge](https://www.huffingtonpost.fr/environnement/article/le-moustique-aedes-aegypti-detecte-les-humains-grace-a-une-vision-nocturne-infrarouge_238681.html) (Le HuffPost)
+
+- [La crisis climática dispara las infecciones por picaduras](https://www.publico.es/sociedad/crisis-climatica-dispara-infecciones-picaduras.html) (Publico.es)
 
 - [Inhibitors of the small membrane (M) protein viroporin prevent Zika virus infection](https://elifesciences.org/articles/68404) (Elifesciences.org)
 
@@ -73,6 +81,12 @@ Source: [News API](https://newsapi.org/)
 
 - [RNase-mediated reprogramming of Yersinia virulence](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011965) (Plos.org)
 
+## 24-34 (typhoid)
+
+- [CM Conrad Sangma hospitalized for treatment of Scrub Thphus & Typhoid](https://southasiaviews.com/featured/cm-conrad-sangma-hospitalized-for-treatment-of-scrub-thphus-typhoid/) (Southasiaviews.com)
+
+- [Meghalaya CM admitted in Shillong Civil Hospital after tested positive for Scrub Typhus](https://www.syllad.com/meghalaya-cm-admitted-in-shillong-civil-hospital-after-tested-positive-for-scrub-typhus/) (Syllad.com)
+
 ## 24-34 (rabies)
 
 - [Metro health department says rabid bat found in St. Matthews](https://www.wave3.com/2024/08/22/metro-health-department-says-rabid-bat-found-st-matthews/) (WAVE 3)
@@ -87,6 +101,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-34 (pertussis)
 
+- [Whooping cough cases on the rise in Shawano County, health officials warn](https://fox11online.com/news/local/whooping-cough-cases-on-the-rise-in-shawano-county-health-officials-warn-menominee-wisconsin-disease-fever-runny-nose-cold-antibiotics-vaccine-pertussis) (Fox11online.com)
+
+- [Whooping cough cases, fueled by school outbreaks, triple in Colorado from last year](https://www.denverpost.com/2024/08/23/colorado-whooping-cough-pertussis-cases-2024/) (The Denver Post)
+
 - [Keuchhustenfälle steigen weiterhin rasant an](https://noe.orf.at/stories/3269965/) (Noe.orf.at)
 
 - [Tirol mit den meisten Keuchhustenfällen](https://tirol.orf.at/stories/3269943/) (Tirol.orf.at)
@@ -94,6 +112,22 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough cases high in Georgia compared to previous year, CDC data shows](https://www.wsbtv.com/news/local/atlanta/whooping-cough-cases-high-georgia-compared-previous-year-cdc-data-shows/WWU5IPLWC5ANVL3GVQN43B6A7A/) (WSB Atlanta)
 
 ## 24-34 (mpox)
+
+- [How deadly is mpox and what treatments are available?](https://www.newscientist.com/article/2445213-how-deadly-is-mpox-and-what-treatments-are-available/) (New Scientist)
+
+- [Mpox en République démocratique du Congo : la riposte se réorganise](https://www.lemonde.fr/afrique/article/2024/08/23/mpox-en-republique-democratique-du-congo-la-riposte-se-reorganise_6292130_3212.html) (Le Monde)
+
+- [TikTok Conspiracy Theorists Are Convinced That Mpox Will Lead to a “Second Lockdown”](https://slate.com/technology/2024/08/mpox-covid-pandemic-lockdown-tiktok-conspiracy-theory.html) (Slate Magazine)
+
+- [Primeiro caso de febre hemorrágica da Crimeia-Congo em Portugal](https://pplware.sapo.pt/ciencia/primeiro-caso-de-febre-hemorragica-da-crimeia-congo-em-portugal/) (Sapo.pt)
+
+- [Second Non-African Country Confirms Case Of Deadlier Mpox Strain](https://www.forbes.com/sites/roberthart/2024/08/23/second-non-african-country-confirms-case-of-deadlier-mpox-strain/) (Forbes)
+
+- [La Thaïlande confirme un premier cas du nouveau variant de la mpox, l’“Asie en état d’alerte”](https://www.courrierinternational.com/article/sante-la-thailande-confirme-un-premier-cas-du-nouveau-variant-de-la-mpox-l-asie-en-etat-d-alerte_221425) (Courrier International)
+
+- [„Es sterben drei von 100 Kranken, 85 Prozent der Toten sind Kinder“](https://www.welt.de/wissenschaft/plus253134362/Virologe-ueber-Mpox-Ausbruch-Wie-viele-der-Verdachtsfaelle-sind-eigentlich-etwas-ganz-anderes.html) (DIE WELT)
+
+- [CNA Explains: Mpox has a new, deadlier and more transmissible variant - just how dangerous is it?](https://www.channelnewsasia.com/singapore/mpox-strain-clade-1b-deadly-dangerous-virus-world-health-organization-4563366) (CNA)
 
 - [E Mpox noul Covid? Cât de justificate sunt temerile legate de variola maimuței și de o nouă pandemie](http://hotnews.ro/e-mpox-noul-covid-cat-de-justificate-sunt-temerile-legate-de-variola-maimutei-si-de-o-noua-pandemie-1776803) (Hotnews.ro)
 
@@ -397,6 +431,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-34 (malaria)
 
+- [Dangote, Otedola, Elumelu to lead govt’s malaria eradication drive](https://punchng.com/dangote-otedola-elumelu-to-lead-govts-malaria-eradication-drive/) (The Punch)
+
 - [リポート、フィリピンのマラリアまん延地帯を行く](https://bio.nikkeibp.co.jp/atcl/report/16/082400017/082100083/) (Nikkeibp.co.jp)
 
 - [Bill Gates snackar om hur vi kan utrota malaria](https://feber.se/samhalle/bill-gates-snackar-om-hur-vi-kan-utrota-malaria/470936/) (Feber.se)
@@ -470,6 +506,22 @@ Source: [News API](https://newsapi.org/)
 - [Bird Flu Is Infecting Pet Cats. Here’s What You Need to Know](https://www.scientificamerican.com/article/bird-flu-is-infecting-pet-cats-heres-what-you-need-to-know/) (Scientific American)
 
 ## 24-34 (dengue)
+
+- [2 confirmed Dengue fever cases prompt mosquito spraying in Orange County](https://www.wftv.com/news/local/2-confirmed-dengue-fever-cases-prompt-mosquito-spraying-orange-county/XMVRJTLJ4RHFDC2USEW24H2FEI/) (WFTV Orlando)
+
+- [Descubren que el mosquito Aedes aegypti utiliza el infrarrojo para detectar objetivos humanos](https://www.dw.com/es/descubren-que-el-mosquito-aedes-aegypti-utiliza-el-infrarrojo-para-detectar-objetivos-humanos/a-70036755) (DW (English))
+
+- [What is DEET? What to know about this ingredient in bug repellents](https://www.clickorlando.com/news/local/2024/08/23/what-is-deet-what-to-know-about-this-ingredient-in-bug-repellents/) (WKMG News 6 & ClickOrlando)
+
+- [Susceptibility status of Aedes aegypti (Diptera: Culicidae) to public health insecticides in Southern Afar Region, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309335) (Plos.org)
+
+- [Un cousin du moustique-tigre s’aide de l’infrarouge émis par le corps humain pour piquer sa cible](https://www.liberation.fr/sciences/biologie/un-cousin-du-moustique-tigre-saide-de-linfrarouge-emis-par-le-corps-humain-pour-piquer-sa-cible-20240823_LK5A6OPHERGZBD2JAZ4FTRZQSI/) (Libération)
+
+- [Le moustique Aedes aegypti détecte les humains grâce à une « vision nocturne » infrarouge](https://www.huffingtonpost.fr/environnement/article/le-moustique-aedes-aegypti-detecte-les-humains-grace-a-une-vision-nocturne-infrarouge_238681.html) (Le HuffPost)
+
+- [Un caso di Dengue a Firenze, effettuata la disinfestazione](https://www.ansa.it/toscana/notizie/2024/08/23/un-caso-di-dengue-a-firenze-effettuata-la-disinfestazione_81153283-c768-4951-92da-1ef338ba8bd4.html) (ANSA.it)
+
+- [La crisis climática dispara las infecciones por picaduras](https://www.publico.es/sociedad/crisis-climatica-dispara-infecciones-picaduras.html) (Publico.es)
 
 - [Forgotten India Pacer Handed Duleep Trophy Lifeline After Dengue Scare](https://sports.ndtv.com/cricket/forgotten-india-pacer-umran-malik-handed-duleep-trophy-lifeline-after-dengue-scare-6398407) (NDTV News)
 
@@ -574,6 +626,12 @@ Source: [News API](https://newsapi.org/)
 - [La Matinale. Pas de tsunami après le séisme en Russie ; Des "cas sporadiques" de variole du singe attendus en France ; Épidémie de dengue dans un village... L'essentiel de ce dimanche 18 août](https://www.ledauphine.com/societe/2024/08/18/pas-de-tsunami-apres-le-seisme-en-russie-des-cas-sporadiques-de-variole-du-singe-attendus-en-france-epidemie-de-dengue-dans-un-village-l-essentiel-de-ce-dimanche-18-aout) (Le Dauphiné Libéré)
 
 ## 24-34 (chikungunya)
+
+- [Susceptibility status of Aedes aegypti (Diptera: Culicidae) to public health insecticides in Southern Afar Region, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309335) (Plos.org)
+
+- [Le moustique Aedes aegypti détecte les humains grâce à une « vision nocturne » infrarouge](https://www.huffingtonpost.fr/environnement/article/le-moustique-aedes-aegypti-detecte-les-humains-grace-a-une-vision-nocturne-infrarouge_238681.html) (Le HuffPost)
+
+- [La crisis climática dispara las infecciones por picaduras](https://www.publico.es/sociedad/crisis-climatica-dispara-infecciones-picaduras.html) (Publico.es)
 
 - [Assessing pyrethroid resistance in Aedes aegypti from Cordoba Colombia: Implications of kdr mutations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309201) (Plos.org)
 
@@ -3297,8 +3355,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Zika virus scare: Stay alert, keep mosquitoes at bay](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-prevention-and-treatment-advisory/articleshow/111562086.cms) (The Times of India)
 
-- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
-
 ## 24-28 (yersinia)
 
 - [Новое исследование ставит известный факт о чуме под сомнение](https://vfokuse.mail.ru/article/novoe-issledovanie-stavit-izvestnyy-fakt-o-chume-pod-somnenie-61896522/) (Mail.ru)
@@ -3383,12 +3439,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Медики выяснили, как один человек спровоцировал в Ирландии вспышку обезьяньей оспы](https://doctorpiter.ru/obraz-zhizni/imj-odin-chelovek-zarazil-obezyanei-ospoi-pochti-tret-vsekh-bolnykh-v-irlandii-id5747755/) (Doctorpiter.ru)
 
-- [Kenya on high alert as Mpox virus is reported in DRC](https://nation.africa/kenya/health/kenya-on-high-alert-as-mpox-virus-is-reported-in-drc-4682846) (Nation.africa)
-
-- [Sorge vor „Clade I“ - WHO warnt vor gefährlicher Mutation des Affenpocken-Virus](https://www.focus.de/gesundheit/sorge-vor-clade-i-who-warnt-vor-gefaehrlicher-mutation-des-affenpocken-virus_id_260115667.html) (Focus)
-
-- [افزایش موارد ابتلا به آبله میمون در آفریقای جنوبی](https://www.entekhab.ir/fa/news/798563/افزایش-موارد-ابتلا-به-آبله-میمون-در-آفریقای-جنوبی) (Entekhab.ir)
-
 ## 24-28 (meningitis)
 
 - [El conflicto armado y las inundaciones arrastran a RDC a una "catástrofe sanitaria"](https://www.europapress.es/internacional/noticia-conflicto-armado-inundaciones-arrastran-rdc-catastrofe-sanitaria-20240713143246.html) (Europapress.es)
@@ -3422,8 +3472,6 @@ Source: [News API](https://newsapi.org/)
 - [2nd case of measles confirmed in Vermont](https://www.wcax.com/2024/07/08/2nd-case-measles-confirmed-vermont/) (WCAX)
 
 - [Spatial distribution and determinants of measles vaccination dropout among under-five children in Ethiopia: A spatial and multilevel analysis of 2019 Ethiopian demographic and health survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305393) (Plos.org)
-
-- [Five people who survived measles recount the disease’s horrors](https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/) (The Washington Post)
 
 ## 24-28 (malaria)
 
@@ -3746,20 +3794,6 @@ Source: [News API](https://newsapi.org/)
 - [Karnataka records two dengue deaths in a day](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-records-two-dengue-deaths-in-a-day/articleshow/111564588.cms) (The Times of India)
 
 - [Is Florida Headed Toward a Dengue Fever Outbreak?](https://articles.mercola.com/sites/articles/archive/2024/07/08/florida-dengue-fever-outbreak.aspx) (Mercola.com)
-
-- [Opposition demands free dengue tests as cases touch 7.1k in Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/opposition-demands-free-dengue-tests-as-cases-touch-7-1k-in-karnataka/articleshow/111560017.cms) (The Times of India)
-
-- [Florida Issues Dengue Fever Alert; CDC Issues Its Own Health Advisory](https://legalinsurrection.com/2024/07/florida-issues-dengue-fever-alert-cdc-issues-its-own-health-advisory/) (Legalinsurrection.com)
-
-- [Epidemiolog Maďar: Klima stěhuje exotické nemoci do Evropy. Co doporučuje před cestami do zahraničí?](https://www.lidovky.cz/domov/epidemiolog-klima-stehuje-exoticke-nemoci-do-evropy-co-doporucuje-pred-cestami-do-zahranici.A240707_185852_ln_domov_rkj) (Lidovky.cz)
-
-- [Davao: Pag-mugna ug Mosquito-Borne Diseases Task Force sa mga barangay, i-implementar](https://rpnradio.com/davao-pag-mugna-ug-mosquito-borne-diseases-task-force-sa-mga-barangay-i-implementar/) (Rpnradio.com)
-
-- [Cong govt in K'taka mired in competition for CM, Dy CM posts: Union min](https://www.business-standard.com/politics/cong-govt-in-k-taka-mired-in-competition-for-cm-dy-cm-posts-union-min-124070700218_1.html) (Business Standard)
-
-- [Congress govt in Karnataka mired in competition for CM, Dy CM posts and internal rifts: Karandlaje](https://economictimes.indiatimes.com/news/politics-and-nation/congress-govt-in-karnataka-mired-in-competition-for-cm-dy-cm-posts-and-internal-rifts-karandlaje/articleshow/111553153.cms) (The Times of India)
-
-- [Dengue grips India's southern state Karnataka, Delhi too registers 240 cases](http://en.people.cn/n3/2024/0707/c90000-20190779.html) (People.cn)
 
 ## 24-28 (chikungunya)
 
