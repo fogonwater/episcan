@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2024-08-29 19:06
-- **Most recent article:** 2024-08-28 18:40:03
+- **New articles in last harvest:** 13
+- **Last harvest:** 2024-08-30 07:06
+- **Most recent article:** 2024-08-29 05:35:58
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 15 | 16 | 26 | 139 | 292 | 208 | 102 | 798 |
-| dengue | 58 | 63 | 55 | 46 | 52 | 64 | 26 | 364 |
-| h5n1 | 58 | 38 | 21 | 6 | 8 | 5 | 5 | 141 |
-| malaria | 30 | 16 | 15 | 16 | 19 | 27 | 18 | 141 |
+| mpox | 17 | 16 | 26 | 139 | 292 | 208 | 109 | 807 |
+| dengue | 62 | 63 | 55 | 46 | 52 | 64 | 28 | 370 |
+| h5n1 | 61 | 38 | 21 | 6 | 8 | 5 | 5 | 144 |
+| malaria | 31 | 16 | 15 | 16 | 19 | 27 | 19 | 143 |
 | zika | 6 | 10 | 12 | 11 | 10 | 21 | 2 | 72 |
-| measles | 16 | 22 | 8 | 6 | 3 | 7 | 6 | 68 |
+| measles | 16 | 22 | 8 | 6 | 3 | 7 | 8 | 70 |
 | rabies | 15 | 8 | 12 | 8 | 12 | 6 | 2 | 63 |
 | chikungunya | 10 | 7 | 6 | 4 | 8 | 10 | 1 | 46 |
-| meningitis | 3 | 2 | 3 | 6 | 8 | 11 | 3 | 36 |
+| meningitis | 3 | 2 | 3 | 6 | 8 | 11 | 4 | 37 |
 | pertussis | 0 | 5 | 5 | 6 | 3 | 5 | 1 | 25 |
-| hpai | 5 | 3 | 4 | 1 | 1 | 1 | 0 | 15 |
-| leptospirosis | 2 | 1 | 2 | 2 | 2 | 4 | 0 | 13 |
+| hpai | 6 | 3 | 4 | 1 | 1 | 1 | 0 | 16 |
+| leptospirosis | 4 | 1 | 2 | 2 | 2 | 4 | 0 | 15 |
 | typhoid | 1 | 3 | 1 | 0 | 1 | 2 | 1 | 9 |
 | yersinia | 0 | 2 | 1 | 1 | 0 | 1 | 1 | 6 |
 | shigellosis | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
@@ -59,6 +59,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-35 (mpox)
 
+- [Verschwiegen und intransparent – die Wiederholung des Corona-Fehlers](https://www.welt.de/wirtschaft/plus253235166/Mpox-Impfstoffe-Die-EU-wiederholt-den-Corona-Fehler.html) (DIE WELT)
+
+- [Estado de São Paulo concentra mais da metade dos casos de mpox no Brasil](https://dinheirama.com/estado-de-sao-paulo-concentra-mais-da-metade-dos-casos-de-mpox-no-brasil/) (Dinheirama.com)
+
+- [Nigeria becomes first in Africa to receive mpox vaccines: WHO](https://www.globalsecurity.org/security/library/news/2024/08/sec-240828-unnews01.htm) (Globalsecurity.org)
+
+- [Africa to secure nearly a million mpox vaccines: health watchdog](https://japantoday.com/category/world/africa-to-secure-nearly-a-million-mpox-vaccines-health-watchdog) (Japan Today)
+
+- [Nigeria receives 10,000 mpox vaccine doses from USAID](https://www.voanews.com/a/nigeria-receives-10-000-mpox-vaccine-doses-from-usaid/7762886.html) (VOA News)
+
+- [Africa to secure nearly a million mpox vaccines: health watchdog](https://www.channelnewsasia.com/world/africa-secure-nearly-million-mpox-vaccines-health-watchdog-4573116) (CNA)
+
 - [Mpox measures ramped up](https://www.thestar.com.my/news/nation/2024/08/29/mpox-measures-ramped-up) (The Star Online)
 
 - [Ministry: 13 labs equipped to test for virus](https://www.thestar.com.my/news/nation/2024/08/29/ministry-13-labs-equipped-to-test-for-virus) (The Star Online)
@@ -68,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 - [África vai receber cerca de um milhão de doses de vacina contra a Mpox](https://observador.pt/2024/08/28/africa-vai-receber-cerca-de-um-milhao-de-doses-de-vacina-contra-a-mpox/) (Observador.pt)
 
 - [UN Is “Concerned” About Monkeypox Outbreak In Africa](https://www.shtfplan.com/headline-news/un-is-concerned-about-monkeypox-outbreak-in-africa) (Shtfplan.com)
+
+- [Mpox Update: WHO Says $87 Million 'Critical' for Containing Outbreak](https://www.newsweek.com/mpox-update-who-critical-containing-outbreak-vaccines-1945451) (Newsweek)
 
 - [Pourquoi la vaccination contre la mpox tarde à démarrer en Afrique](https://www.courrierinternational.com/article/sante-pourquoi-la-vaccination-contre-la-mpox-tarde-a-demarrer-en-afrique_221570) (Courrier International)
 
@@ -265,6 +279,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-35 (meningitis)
 
+- [Israeli baby diagnosed with meningitis, Health Ministry confirms](https://www.jpost.com/health-and-wellness/article-816862) (The Jerusalem Post)
+
 - [‘I’m just a guy turning up for work’ – the amputee Paralympian racing for gold](https://www.jewishnews.co.uk/im-just-a-guy-turning-up-for-work-the-amputee-paralympian-racing-for-gold/) (Jewishnews.co.uk)
 
 - [Risk factors associated with meningitis outbreak in the Upper West Region of Ghana: A matched case-control study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305416) (Plos.org)
@@ -272,6 +288,10 @@ Source: [News API](https://newsapi.org/)
 - [Students urged to top up vaccines before term time](https://www.bbc.com/news/articles/cx2n3ld7g9no) (BBC News)
 
 ## 24-35 (measles)
+
+- [Parents warned of back-to-school measles surge](https://www.bbc.co.uk/news/articles/c9wjx781ngzo) (BBC News)
+
+- [Parents warned of back-to-school measles surge](https://www.bbc.com/news/articles/c9wjx781ngzo) (BBC News)
 
 - ['I had no idea measles could make babies so ill': Parents urged to vaccinate children before start of school year](https://news.sky.com/story/mum-urges-parents-to-vaccinate-children-after-baby-left-struggling-to-breath-with-measles-13204874) (Sky.com)
 
@@ -286,6 +306,8 @@ Source: [News API](https://newsapi.org/)
 - [HSE warns of possible serious respiratory infections, measles and Covid outbreaks this winter](https://www.irishtimes.com/health/2024/08/26/hse-warns-of-possible-serious-respiratory-infections-measles-and-covid-outbreaks-this-winter/) (The Irish Times)
 
 ## 24-35 (malaria)
+
+- [Umweltkatastrophe: Massenhaft tote Fische in griechischer Hafenstadt angeschwemmt](https://www.faz.net/aktuell/gesellschaft/umweltkatastrophe-tote-fische-in-griechischer-stadt-volos-angeschwemmt-19948796.html) (Faz.net)
 
 - [Kampf gegen Stechmücken: Roboter sortieren Insekten, Drohnen setzen sie aus](https://www.heise.de/hintergrund/Kampf-gegen-Stechmuecken-Roboter-sortieren-Insekten-Drohnen-setzen-sie-aus-9816150.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag) (heise online)
 
@@ -336,6 +358,10 @@ Source: [News API](https://newsapi.org/)
 - [Odisha culls birds after Avian flu outbreak](https://economictimes.indiatimes.com/news/india/odisha-culls-birds-after-avian-flu-outbreak/articleshow/112782110.cms) (The Times of India)
 
 ## 24-35 (dengue)
+
+- [‘It could be a health threat’: Officials warn about dengue, sloth fever in Orange County](https://www.wftv.com/news/local/it-could-be-health-threat-officials-warn-about-dengue-sloth-fever-orange-county/7UFLIBASZRFTBMXRIDBQY3POKI/) (WFTV Orlando)
+
+- [Mosquito-borne illnesses are spiking across the world](https://www.newscientist.com/article/2445495-mosquito-borne-illnesses-are-spiking-across-the-world/) (New Scientist)
 
 - [Dengue: ampliação do público-alvo da vacina será definida em setembro](https://www.metropoles.com/saude/dengue-ampliacao-do-publico-alvo-da-vacina-sera-definida-em-setembro) (Metropoles.com)
 
@@ -3435,6 +3461,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Ontario seeing rise in Mpox cases: public health agency](https://toronto.citynews.ca/2024/07/16/ontario-rise-monkeypox-cases/) (Citynews.ca)
 
+- [A New Strain Of Mpox Is Spreading In Congo. Here’s What To Know About The Disease](https://www.forbes.com/sites/omerawan/2024/07/14/a-new-strain-of-mpox-is-spreading-in-congo-heres-what-to-know-about-the-disease/) (Forbes)
+
+- [DR Congo detects at least 25 mpox cases in Goma](https://www.voanews.com/a/dr-congo-detects-at-least-25-mpox-cases-in-goma-mainly-in-displacement-camps-/7695086.html) (VOA News)
+
 ## 24-29 (meningitis)
 
 - [Post-secondary students urged to get free meningitis B vaccine before the fall](https://www.cbc.ca/news/canada/prince-edward-island/pei-cpho-meningitis-b-vaccine-1.7267885) (CBC News)
@@ -3539,11 +3569,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms) (The Times of India)
 
+- [El granjero que se enfrenta a la malaria en el corazón de África](https://www.elmundo.es/ciencia-y-salud/salud/2024/07/14/668a7130e4d4d847328b45a6.html) (El Mundo)
+
 ## 24-29 (leptospirosis)
 
 - [Leptospirosis cases on the rise in Melaka](https://www.thestar.com.my/news/nation/2024/07/18/leptospirosis-cases-on-the-rise-in-melaka) (The Star Online)
 
 - [Leptospirosis: Project launched to combat animal-spread disease](https://www.nzherald.co.nz/the-country/news/leptospirosis-project-launched-to-combat-animal-spread-disease/DCKMQZV6WFHELIXMBFTEOX2R7A/) (New Zealand Herald)
+
+- [Rat Fever| Kerala| Prevention|Leptospirosis|സംസ്ഥാനത്ത് എലിപ്പനി പടരുന്നു; പ്രതിരോധ മാര്‍ഗങ്ങളെന്ത്?](https://www.manoramanews.com/health/explainers/2024/07/14/spike-in-leptospirosis-causes-symptoms-treatment.html) (Manoramanews.com)
+
+- [Zamboanga: Oficina de salud ya adverti con el publico contra Leptospirosis](https://rpnradio.com/zamboanga-oficina-de-salud-ya-adverti-con-el-publico-contra-leptospirosis/) (Rpnradio.com)
 
 ## 24-29 (hpai)
 
@@ -3556,6 +3592,8 @@ Source: [News API](https://newsapi.org/)
 - [Influenza aviaria, quattro casi umani da polli di allevamento in Usa. I primi segnalati dal 2022](https://www.ilfattoquotidiano.it/2024/07/16/influenza-aviaria-quattro-casi-umani-da-polli-di-allevamento-in-usa-i-primi-casi-dal-2022/7625424/) (Ilfattoquotidiano.it)
 
 - [Bird flu jumps to dairy cows, sparking fears of future pandemics](https://www.wnd.com/2024/07/bird-flu-jumps-to-dairy-cows-sparking-fears-of-future-pandemics/) (Wnd.com)
+
+- [CDC Confirms Human Cases of H5 Bird Flu Among Colorado Poultry Workers](https://www.cdc.gov/media/releases/2024/p-0715-confirm-h5.html) (Cdc.gov)
 
 ## 24-29 (h5n1)
 
@@ -3675,6 +3713,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Ultrasensitive detection of the H5N1 nucleic acid fragment by ICP-MS using DNA dendrimer-carried silver nanoparticle labeling](https://pubs.rsc.org/en/content/articlelanding/2024/an/d4an00746h) (Royal Society of Chemistry)
 
+- [Vogelgrippe breitet sich aus: Diese Regionen sind betroffen](https://www.morgenpost.de/ratgeber-wissen/article406784003/vogelgrippe-breitet-sich-aus-diese-regionen-sind-betroffen.html) (Berliner Morgenpost)
+
+- [“Un mayor riesgo para la salud pública”: alertan que aumenta el “potencial pandémico” de la gripe aviar](https://www.lanacion.com.ar/sociedad/un-mayor-riesgo-para-la-salud-publica-alertan-que-aumenta-el-potencial-pandemico-de-la-gripe-aviar-nid14072024/) (La Nacion)
+
+- [感染牛群的禽流感向潜在大流行迈进？](https://www.dw.com/zh/%E6%84%9F%E6%9F%93%E7%89%9B%E7%BE%A4%E7%9A%84%E7%A6%BD%E6%B5%81%E6%84%9F%E5%90%91%E6%BD%9C%E5%9C%A8%E5%A4%A7%E6%B5%81%E8%A1%8C%E8%BF%88%E8%BF%9B/a-69616178) (DW (English))
+
 ## 24-29 (dengue)
 
 - [Dengue Fever cases on the rise in Washington state](https://www.khq.com/news/dengue-fever-cases-on-the-rise-in-washington-state/article_d02aab2a-46f2-11ef-8950-4befbea1022d.html) (KHQ Right Now)
@@ -3792,6 +3836,14 @@ Source: [News API](https://newsapi.org/)
 - [Over 30,000 dengue cases, 12 fatalities reported in Sri Lanka this year](http://en.people.cn/n3/2024/0715/c90000-20193571.html) (People.cn)
 
 - [Dengue count breaches 3k-mark in city](https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-in-bengaluru-cross-3000-mark/articleshow/111739017.cms) (The Times of India)
+
+- [When is dengue most common in India? How to stay safe](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/when-is-dengue-most-common-in-india-how-to-stay-safe/articleshow/111736414.cms) (The Times of India)
+
+- [Can dengue fever during pregnancy cause low birth weights in newborns](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/can-dengue-fever-during-pregnancy-cause-low-birth-weights-in-newborns/articleshow/111736401.cms) (The Times of India)
+
+- [Ghana records dengue outbreak](https://www.thestar.com.my/news/world/2024/07/15/ghana-records-dengue-outbreak) (The Star Online)
+
+- [Pas op, in die leuke gieter uit Zuid-Frankrijk zit mogelijk een tijgermug](https://www.nrc.nl/nieuws/2024/07/14/als-je-de-leuke-gieter-uit-zuid-frankrijk-in-je-tuin-zet-ben-je-de-sjaak-dan-heb-je-tijgermuggen-waarschuwt-de-nvwa-a4859542) (Www.nrc.nl)
 
 ## 24-29 (chikungunya)
 
