@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-08-30 07:06
-- **Most recent article:** 2024-08-29 05:35:58
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-08-30 19:05
+- **Most recent article:** 2024-08-29 18:34:49
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-29 | 24-30 | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 17 | 16 | 26 | 139 | 292 | 208 | 109 | 807 |
-| dengue | 62 | 63 | 55 | 46 | 52 | 64 | 28 | 370 |
-| h5n1 | 61 | 38 | 21 | 6 | 8 | 5 | 5 | 144 |
-| malaria | 31 | 16 | 15 | 16 | 19 | 27 | 19 | 143 |
+| mpox | 15 | 16 | 26 | 139 | 292 | 208 | 115 | 811 |
+| dengue | 58 | 63 | 55 | 46 | 52 | 64 | 36 | 374 |
+| malaria | 30 | 16 | 15 | 16 | 19 | 27 | 21 | 144 |
+| h5n1 | 58 | 38 | 21 | 6 | 8 | 5 | 6 | 142 |
+| measles | 16 | 22 | 8 | 6 | 3 | 7 | 10 | 72 |
 | zika | 6 | 10 | 12 | 11 | 10 | 21 | 2 | 72 |
-| measles | 16 | 22 | 8 | 6 | 3 | 7 | 8 | 70 |
-| rabies | 15 | 8 | 12 | 8 | 12 | 6 | 2 | 63 |
+| rabies | 15 | 8 | 12 | 8 | 12 | 6 | 3 | 64 |
 | chikungunya | 10 | 7 | 6 | 4 | 8 | 10 | 1 | 46 |
 | meningitis | 3 | 2 | 3 | 6 | 8 | 11 | 4 | 37 |
-| pertussis | 0 | 5 | 5 | 6 | 3 | 5 | 1 | 25 |
-| hpai | 6 | 3 | 4 | 1 | 1 | 1 | 0 | 16 |
-| leptospirosis | 4 | 1 | 2 | 2 | 2 | 4 | 0 | 15 |
+| pertussis | 0 | 5 | 5 | 6 | 3 | 5 | 2 | 26 |
+| hpai | 5 | 3 | 4 | 1 | 1 | 1 | 0 | 15 |
+| leptospirosis | 2 | 1 | 2 | 2 | 2 | 4 | 0 | 13 |
 | typhoid | 1 | 3 | 1 | 0 | 1 | 2 | 1 | 9 |
 | yersinia | 0 | 2 | 1 | 1 | 0 | 1 | 1 | 6 |
 | shigellosis | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
@@ -49,15 +49,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-35 (rabies)
 
+- [2 bats test positive for rabies in Peel Region: health agency](https://www.cbc.ca/news/canada/toronto/peel-region-bats-rabies-1.7308435) (CBC News)
+
 - [If You’re Worried About Vaccinating Your Dog, Please Reread ‘Old Yeller’](https://www.texasmonthly.com/news-politics/dog-vaccine-hesitancy-rabies-texas/) (Texas Monthly)
 
 - [Second fox tests positive for rabies in metro Atlanta, officials warn caution](https://www.wsbtv.com/news/local/spalding-county/second-fox-tests-positive-rabies-metro-atlanta-officials-warn-caution/M3LXCUXC6RETHOUTCTJEIYY2VY/) (WSB Atlanta)
 
 ## 24-35 (pertussis)
 
+- [Whooping cough: Why have vaccination rates plummeted in pregnant women?](https://www.bmj.com/content/386/bmj.q1900) (The BMJ)
+
 - [Highly contagious whooping cough detected in Eau Claire County](https://www.news8000.com/lifestyle/health/highly-contagious-whooping-cough-detected-in-eau-claire-county/article_009cc90a-655c-11ef-a1d9-cb08810f677c.html) (News8000.com - WKBT)
 
 ## 24-35 (mpox)
+
+- [Statens Serum Institut vil overvåge mpox i spildevandet](https://www.dr.dk/nyheder/seneste/statens-serum-institut-vil-overvaage-mpox-i-spildevandet) (Www.dr.dk)
+
+- [Deel vaccins, was dat niet de les uit de coronacrisis?](https://www.nrc.nl/nieuws/2024/08/29/deel-vaccins-was-dat-niet-de-les-uit-de-coronacrisis-a4864105) (Www.nrc.nl)
+
+- [Sverige köper inte fler doser av vaccin mot mpox](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1287585) (Aftonbladet.se)
+
+- [Mpox: Cabo Verde cria equipa de intervenção rápida para orientar medidas de prevenção](https://observador.pt/2024/08/29/mpox-cabo-verde-cria-equipa-de-intervencao-rapida-para-orientar-medidas-de-prevencao/) (Observador.pt)
+
+- [‘We are afraid’: East Africa struggles as mpox spreads amid vaccine delays](https://www.aljazeera.com/features/2024/8/29/we-are-afraid-east-africa-struggles-as-mpox-spreads-amid-vaccine-delays) (Al Jazeera English)
+
+- [Mpox test kits not for public, says MDA](https://www.thestar.com.my/news/nation/2024/08/29/mpox-test-kits-not-for-public-says-mda) (The Star Online)
 
 - [Verschwiegen und intransparent – die Wiederholung des Corona-Fehlers](https://www.welt.de/wirtschaft/plus253235166/Mpox-Impfstoffe-Die-EU-wiederholt-den-Corona-Fehler.html) (DIE WELT)
 
@@ -289,6 +305,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-35 (measles)
 
+- [Research: Evaluation of vaccine uptake during the 2023 to 2024 MMR catch-up campaigns in England](https://www.gov.uk/government/publications/evaluation-of-vaccine-uptake-during-the-2023-to-2024-mmr-catch-up-campaigns-in-england) (Www.gov.uk)
+
+- [More Michigan students are waiving required vaccines. Check out your school’s rate.](https://www.mlive.com/public-interest/2024/08/more-michigan-students-are-waiving-required-vaccines-check-out-your-schools-rate.html) (mlive.com)
+
 - [Parents warned of back-to-school measles surge](https://www.bbc.co.uk/news/articles/c9wjx781ngzo) (BBC News)
 
 - [Parents warned of back-to-school measles surge](https://www.bbc.com/news/articles/c9wjx781ngzo) (BBC News)
@@ -306,6 +326,10 @@ Source: [News API](https://newsapi.org/)
 - [HSE warns of possible serious respiratory infections, measles and Covid outbreaks this winter](https://www.irishtimes.com/health/2024/08/26/hse-warns-of-possible-serious-respiratory-infections-measles-and-covid-outbreaks-this-winter/) (The Irish Times)
 
 ## 24-35 (malaria)
+
+- [What Is Sloth Fever? Here’s What to Know About the Virus Impacting US Travelers](https://www.popsugar.com/travel/oropouche-virus-sloth-fever-49389804) (POPSUGAR)
+
+- [Laboratory evaluation of the regeneration time, efficacy and wash-resistance of PermaNet Dual (a deltamethrin-chlorfenapyr net) against susceptible and pyrethroid-resistant strains of Anopheles gambiae sensu lato](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298513) (Plos.org)
 
 - [Umweltkatastrophe: Massenhaft tote Fische in griechischer Hafenstadt angeschwemmt](https://www.faz.net/aktuell/gesellschaft/umweltkatastrophe-tote-fische-in-griechischer-stadt-volos-angeschwemmt-19948796.html) (Faz.net)
 
@@ -347,6 +371,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-35 (h5n1)
 
+- [Avian flu has infected dairy cows in more than a dozen states—a microbiologist explains how the virus is spreading](https://phys.org/news/2024-08-avian-flu-infected-dairy-cows.html) (Phys.Org)
+
 - [Avian flu has infected dairy cows in more than a dozen states – a microbiologist explains how the virus is spreading](https://theconversation.com/avian-flu-has-infected-dairy-cows-in-more-than-a-dozen-states-a-microbiologist-explains-how-the-virus-is-spreading-235526) (The Conversation Africa)
 
 - [Odisha to cull 20,000 birds in response to avian flu outbreak](https://timesofindia.indiatimes.com/india/odisha-to-cull-20000-birds-in-response-to-avian-flu-outbreak/articleshow/112823703.cms) (The Times of India)
@@ -358,6 +384,22 @@ Source: [News API](https://newsapi.org/)
 - [Odisha culls birds after Avian flu outbreak](https://economictimes.indiatimes.com/news/india/odisha-culls-birds-after-avian-flu-outbreak/articleshow/112782110.cms) (The Times of India)
 
 ## 24-35 (dengue)
+
+- [Dengue](https://www.futura-sciences.com/sante/definitions/medecine-dengue-8078/) (Futura)
+
+- [Casos de dengue suben un 239% en México y las muertes se multiplican por nueve](https://www.forbes.com.mx/casos-de-dengue-suben-un-239-en-mexico-y-las-muertes-se-multiplican-por-nueve/) (Forbes.com.mx)
+
+- [Dengue en México | Guerrero, Morelos y Tabasco encabezan la lista de estados más afectados](https://aristeguinoticias.com/2908/mexico/dengue-en-mexico-guerrero-morelos-y-tabasco-encabezan-la-lista-de-estados-mas-afectados/) (Aristeguinoticias.com)
+
+- [Mosquitos del dengue desarrollan resistencia a insecticidas: una mutación genética complica la lucha contra la enfermedad](https://es.gizmodo.com/mosquitos-del-dengue-desarrollan-resistencia-a-insecticidas-una-mutacion-genetica-complica-la-lucha-contra-la-enfermedad-2000127098) (Gizmodo.com)
+
+- [Cabo Verde decreta situação de alerta devido a aumento de casos de dengue](https://observador.pt/2024/08/29/cabo-verde-decreta-situacao-de-alerta-devido-a-aumento-de-casos-de-dengue/) (Observador.pt)
+
+- [Nuovo caso di virus Dengue, 30enne era rientrata da Cuba](https://www.ansa.it/veneto/notizie/2024/08/29/nuovo-caso-di-virus-dengue-30enne-era-rientrata-da-cuba_4a85b6de-c0f4-41d4-abbf-a7b8c4a8781a.html) (ANSA.it)
+
+- [Tentativa de focar em agricultura sustentável](https://valor.globo.com/brasil/coluna/tentativa-de-focar-em-agricultura-sustentavel.ghtml) (Globo)
+
+- [Nísia vê ‘retrocesso’ em relação entre Anvisa e governo](https://valor.globo.com/brasil/noticia/2024/08/29/nisia-ve-retrocesso-em-relacao-entre-anvisa-e-governo.ghtml) (Globo)
 
 - [‘It could be a health threat’: Officials warn about dengue, sloth fever in Orange County](https://www.wftv.com/news/local/it-could-be-health-threat-officials-warn-about-dengue-sloth-fever-orange-county/7UFLIBASZRFTBMXRIDBQY3POKI/) (WFTV Orlando)
 
@@ -3461,10 +3503,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Ontario seeing rise in Mpox cases: public health agency](https://toronto.citynews.ca/2024/07/16/ontario-rise-monkeypox-cases/) (Citynews.ca)
 
-- [A New Strain Of Mpox Is Spreading In Congo. Here’s What To Know About The Disease](https://www.forbes.com/sites/omerawan/2024/07/14/a-new-strain-of-mpox-is-spreading-in-congo-heres-what-to-know-about-the-disease/) (Forbes)
-
-- [DR Congo detects at least 25 mpox cases in Goma](https://www.voanews.com/a/dr-congo-detects-at-least-25-mpox-cases-in-goma-mainly-in-displacement-camps-/7695086.html) (VOA News)
-
 ## 24-29 (meningitis)
 
 - [Post-secondary students urged to get free meningitis B vaccine before the fall](https://www.cbc.ca/news/canada/prince-edward-island/pei-cpho-meningitis-b-vaccine-1.7267885) (CBC News)
@@ -3569,17 +3607,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Early onset of monsoon calls for awareness, prevention against vector-borne diseases: Doctor](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/early-onset-of-monsoon-calls-for-awareness-prevention-against-vector-borne-diseases-doctor/articleshow/111741371.cms) (The Times of India)
 
-- [El granjero que se enfrenta a la malaria en el corazón de África](https://www.elmundo.es/ciencia-y-salud/salud/2024/07/14/668a7130e4d4d847328b45a6.html) (El Mundo)
-
 ## 24-29 (leptospirosis)
 
 - [Leptospirosis cases on the rise in Melaka](https://www.thestar.com.my/news/nation/2024/07/18/leptospirosis-cases-on-the-rise-in-melaka) (The Star Online)
 
 - [Leptospirosis: Project launched to combat animal-spread disease](https://www.nzherald.co.nz/the-country/news/leptospirosis-project-launched-to-combat-animal-spread-disease/DCKMQZV6WFHELIXMBFTEOX2R7A/) (New Zealand Herald)
-
-- [Rat Fever| Kerala| Prevention|Leptospirosis|സംസ്ഥാനത്ത് എലിപ്പനി പടരുന്നു; പ്രതിരോധ മാര്‍ഗങ്ങളെന്ത്?](https://www.manoramanews.com/health/explainers/2024/07/14/spike-in-leptospirosis-causes-symptoms-treatment.html) (Manoramanews.com)
-
-- [Zamboanga: Oficina de salud ya adverti con el publico contra Leptospirosis](https://rpnradio.com/zamboanga-oficina-de-salud-ya-adverti-con-el-publico-contra-leptospirosis/) (Rpnradio.com)
 
 ## 24-29 (hpai)
 
@@ -3592,8 +3624,6 @@ Source: [News API](https://newsapi.org/)
 - [Influenza aviaria, quattro casi umani da polli di allevamento in Usa. I primi segnalati dal 2022](https://www.ilfattoquotidiano.it/2024/07/16/influenza-aviaria-quattro-casi-umani-da-polli-di-allevamento-in-usa-i-primi-casi-dal-2022/7625424/) (Ilfattoquotidiano.it)
 
 - [Bird flu jumps to dairy cows, sparking fears of future pandemics](https://www.wnd.com/2024/07/bird-flu-jumps-to-dairy-cows-sparking-fears-of-future-pandemics/) (Wnd.com)
-
-- [CDC Confirms Human Cases of H5 Bird Flu Among Colorado Poultry Workers](https://www.cdc.gov/media/releases/2024/p-0715-confirm-h5.html) (Cdc.gov)
 
 ## 24-29 (h5n1)
 
@@ -3713,12 +3743,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Ultrasensitive detection of the H5N1 nucleic acid fragment by ICP-MS using DNA dendrimer-carried silver nanoparticle labeling](https://pubs.rsc.org/en/content/articlelanding/2024/an/d4an00746h) (Royal Society of Chemistry)
 
-- [Vogelgrippe breitet sich aus: Diese Regionen sind betroffen](https://www.morgenpost.de/ratgeber-wissen/article406784003/vogelgrippe-breitet-sich-aus-diese-regionen-sind-betroffen.html) (Berliner Morgenpost)
-
-- [“Un mayor riesgo para la salud pública”: alertan que aumenta el “potencial pandémico” de la gripe aviar](https://www.lanacion.com.ar/sociedad/un-mayor-riesgo-para-la-salud-publica-alertan-que-aumenta-el-potencial-pandemico-de-la-gripe-aviar-nid14072024/) (La Nacion)
-
-- [感染牛群的禽流感向潜在大流行迈进？](https://www.dw.com/zh/%E6%84%9F%E6%9F%93%E7%89%9B%E7%BE%A4%E7%9A%84%E7%A6%BD%E6%B5%81%E6%84%9F%E5%90%91%E6%BD%9C%E5%9C%A8%E5%A4%A7%E6%B5%81%E8%A1%8C%E8%BF%88%E8%BF%9B/a-69616178) (DW (English))
-
 ## 24-29 (dengue)
 
 - [Dengue Fever cases on the rise in Washington state](https://www.khq.com/news/dengue-fever-cases-on-the-rise-in-washington-state/article_d02aab2a-46f2-11ef-8950-4befbea1022d.html) (KHQ Right Now)
@@ -3836,14 +3860,6 @@ Source: [News API](https://newsapi.org/)
 - [Over 30,000 dengue cases, 12 fatalities reported in Sri Lanka this year](http://en.people.cn/n3/2024/0715/c90000-20193571.html) (People.cn)
 
 - [Dengue count breaches 3k-mark in city](https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-in-bengaluru-cross-3000-mark/articleshow/111739017.cms) (The Times of India)
-
-- [When is dengue most common in India? How to stay safe](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/when-is-dengue-most-common-in-india-how-to-stay-safe/articleshow/111736414.cms) (The Times of India)
-
-- [Can dengue fever during pregnancy cause low birth weights in newborns](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/can-dengue-fever-during-pregnancy-cause-low-birth-weights-in-newborns/articleshow/111736401.cms) (The Times of India)
-
-- [Ghana records dengue outbreak](https://www.thestar.com.my/news/world/2024/07/15/ghana-records-dengue-outbreak) (The Star Online)
-
-- [Pas op, in die leuke gieter uit Zuid-Frankrijk zit mogelijk een tijgermug](https://www.nrc.nl/nieuws/2024/07/14/als-je-de-leuke-gieter-uit-zuid-frankrijk-in-je-tuin-zet-ben-je-de-sjaak-dan-heb-je-tijgermuggen-waarschuwt-de-nvwa-a4859542) (Www.nrc.nl)
 
 ## 24-29 (chikungunya)
 
