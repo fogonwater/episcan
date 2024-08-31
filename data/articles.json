@@ -1,8 +1,152 @@
 {
-  "last_updated": "2024-08-30 19:05",
-  "count_articles_total": 1734,
-  "count_articles_new": 21,
+  "last_updated": "2024-08-31 07:06",
+  "count_articles_total": 1776,
+  "count_articles_new": 29,
   "articles": [
+    {
+      "id": 12833,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: Gesundheitsminister \u00fcber Mpox: \u00abSind gut aufgestellt\u00bb",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eGesundheitsminister \u00fcber Mpox: \"Sind gut aufgestellt\"\u201c.",
+      "url": "https://www.zeit.de/news/2024-08/30/gesundheitsminister-ueber-mpox-sind-gut-aufgestellt",
+      "urlToImage": "https://img.zeit.de/news/2024-08/30/gesundheitsminister-ueber-mpox-sind-gut-aufgestellt-image-group/wide__1300x731",
+      "publishedAt": "2024-08-30 04:30:36",
+      "content": "F\u00fcr einen m\u00f6glichen ersten Fall einer Mpox-Erkrankung ist Niedersachsen laut Gesundheitsminister Andreas Philippi gewappnet. \u00abWir sind gut aufgestellt\u00bb, sagte der SPD-Politiker der Deutschen Presse-A\u2026 [+2844 chars]",
+      "retrievedAt": "2024-08-31 07:05:58.730857",
+      "internal_id": "c116d75cbf002659b9ad26704d1517a08357dc194cdbf20f43d23be9ed6a448c",
+      "publishedAtLabel": "Aug 30"
+    },
+    {
+      "id": 12834,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Gesundheitsminister \u00fcber Mpox: \"Sind gut aufgestellt\"",
+      "description": "Eine neue, gef\u00e4hrlichere Variante des Mpox-Virus breitet sich in Afrika aus. Die Gefahr in Niedersachsen ist laut Gesundheitsminister Philippi gering, doch f\u00fcr den Ernstfall sei man vorbereitet.",
+      "url": "https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/krankheiten--gesundheitsminister-ueber-mpox---sind-gut-aufgestellt--35021830.html",
+      "urlToImage": "https://image.stern.de/35021832/t/Dj/v1/w1440/r1.7778/-/30--4ednxso72gv12axw800h600jpeg---00bb392d3162b39f.jpg",
+      "publishedAt": "2024-08-30 04:30:36",
+      "content": "Eine neue, gef\u00e4hrlichere Variante des Mpox-Virus breitet sich in Afrika aus. Die Gefahr in Niedersachsen ist laut Gesundheitsminister Philippi gering, doch f\u00fcr den Ernstfall sei man vorbereitet. F\u00fcr\u2026 [+2274 chars]",
+      "retrievedAt": "2024-08-31 07:05:58.760954",
+      "internal_id": "93756432bcb65eb3f41d3c127c0cc59c0dd57958b63344a26fdbe58835ed1ea0",
+      "publishedAtLabel": "Aug 30"
+    },
+    {
+      "id": 12832,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Htike, W., Win Han Oo, , Aye Tun, N., Khamlome, B., Vilay, P., Banouvong, V., Chindavongsa, K., Lynn, T., Vathanakoune, S., Oo, M. C., Htwe, E. P., Zaw, A. K., Thu, K. M., Galau, N. H., Khant, K. M., Cutts, J. C., Agius, P. A., Kearney, E., OFlaherty, K., Fowkes, F. J. I.",
+      "title": "Comprehensive evaluation of malaria reactive surveillance and response strategies in Lao Peoples Democratic Republic: a mixed-methods study",
+      "description": "Objectives To achieve malaria elimination by 2030, the Lao People\u2019s Democratic Republic (PDR) adopted a reactive surveillance and response (RASR) strategy of malaria case notification within 1 day, case investigation and classification within 3 days and foci \u2026",
+      "url": "https://bmjopen.bmj.com/content/14/8/e083060",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-08-30 01:16:55",
+      "content": "Introduction Over the last decade, the Lao Peoples Democratic Republic (Lao PDR), a country in the Greater Mekong Subregion (GMS), has made a significant reduction in its malaria burden. Between 201\u2026 [+11339 chars]",
+      "retrievedAt": "2024-08-31 07:05:56.793788",
+      "internal_id": "ad122a676055bff603e5c46d8a1dff29dc822b73c2ba7d1d2e78e539586319ae",
+      "publishedAtLabel": "Aug 30"
+    },
+    {
+      "id": 12830,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "WFTV Orlando",
+      "author": "Brittany Caldwell",
+      "title": "9 things to know about Dengue viruses",
+      "description": "Health officials are warning the community about the spread of viruses through mosquitoes.",
+      "url": "https://www.wftv.com/news/local/9-things-know-about-dengue-viruses/SSDPBNVLQFD7HLBCPBE6J36XWI/",
+      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/XO9i-hoJPM_vYt1v0KRSWY-rgus=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/ABQVEZF5VJCC5D5YFRQMEAFS4Q.jpeg",
+      "publishedAt": "2024-08-30 01:01:03",
+      "content": "ORANGE COUNTY, Fla. \u2014 Health officials are warning the community about the spread of viruses through mosquitoes. One of those is the Dengue fever. Data from the State Health Department shows 29 cas\u2026 [+1556 chars]",
+      "retrievedAt": "2024-08-31 07:05:55.618794",
+      "internal_id": "9f6689282e5babec075832b2e1fab5fc1bb71462f950aaa65885436aba3896dd",
+      "publishedAtLabel": "Aug 30"
+    },
+    {
+      "id": 12835,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Politiken.dk",
+      "author": null,
+      "title": "SSI vil overv\u00e5ge mpox i dansk spildevand",
+      "description": "Statens Serum Institut vil fremover bruge spildevandsoverv\u00e5gning til at overv\u00e5ge mpox.",
+      "url": "https://politiken.dk/danmark/sundhed/art10045380/SSI-vil-overv%C3%A5ge-mpox-i-dansk-spildevand",
+      "urlToImage": null,
+      "publishedAt": "2024-08-29 20:53:22",
+      "content": "Der er ikke opl\u00e6sning af denne artikel, s\u00e5 den opl\u00e6ses derfor med maskinstemme. Kontakt os gerne p\u00e5 automatiskoplaesning@pol.dk, hvis du h\u00f8rer ord, hvis udtale kan forbedres. Statens Serum Institut \u2026 [+1946 chars]",
+      "retrievedAt": "2024-08-31 07:05:58.835363",
+      "internal_id": "ea2954a9f657f08e7b0fd39a52de1b743b120b6ede58dcfa5c66657ce2d7e4a4",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 12828,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Arianna Johnson, Forbes Staff, \n Arianna Johnson, Forbes Staff\n https://www.forbes.com/sites/ariannajohnson/",
+      "title": "Bird Flu (H5N1) Explained: Colorado Facilities Detect First Human Cluster Of Bird Flu Cases, CDC Says",
+      "description": "Bird flu typically spreads among birds, but there have been recent outbreaks among cattle in the U.S., and one Texas man contracted the virus from sick cows. Here\u2019s why so many experts are worried about a possible new pandemic.",
+      "url": "https://www.forbes.com/sites/ariannajohnson/2024/08/29/bird-flu-h5n1-explained-colorado-facilities-detect-first-human-cluster-of-bird-flu-cases-cdc-says/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66316aed5dec431d4eb80a7f/0x0.jpg?format=jpg&crop=3000,1687,x0,y155,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-08-29 20:40:28",
+      "content": "Heres the latest news about a global outbreak of H5N1 bird flu that started in 2020, and recently spread among cattle in U.S. states and marine mammals across the world, which health officials are cl\u2026 [+15906 chars]",
+      "retrievedAt": "2024-08-31 07:05:54.742908",
+      "internal_id": "cef34bc48f4fda752809144ca8f1520d945e7cfbaacecf67b9d14d506bf6f48a",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 12829,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "EFE",
+      "title": "Casos de dengue empeoran en M\u00e9xico: \u00bfCu\u00e1l es el estado m\u00e1s afectado?",
+      "description": "Autoridades intentan frenar el esparcimiento de mosquitos que transmiten el dengue.",
+      "url": "https://www.elfinanciero.com.mx/salud/2024/08/29/casos-de-dengue-empeoran-en-mexico-cual-es-el-estado-mas-afectado/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/y3rjF2BLi0LGIblLGwwBw11RyXk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DHMF7Y4MP5F4TOAER656AOYL7U.jpg",
+      "publishedAt": "2024-08-29 20:12:49",
+      "content": "Los casos de dengue en M\u00e9xico se han disparado 239 por ciento en lo que va del a\u00f1o, mientras que las muertes se han multiplicado por nueve, un fen\u00f3meno que se ha agudizado por el verano y las lluvias\u2026 [+3226 chars]",
+      "retrievedAt": "2024-08-31 07:05:55.535171",
+      "internal_id": "2b32dff64d30da98163ffac822c7d9a9395b8c03700829e738ca8203d879e638",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 12836,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mpox: Portugal vai doar vacinas a pa\u00edses africanos",
+      "description": "\"Portugal tem atualmente um stock de vacinas contra o v\u00edrus mpox e est\u00e1 na disposi\u00e7\u00e3o de ceder entre 10% a 15% deste stock de vacinas\", revelou o Minist\u00e9rio da Sa\u00fade.",
+      "url": "https://observador.pt/2024/08/29/mpox-portugal-vai-doar-vacinas-a-paises-africanos/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1050%3A592%3Anowe%3A0%3A266%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F07%2F17183621%2Fvacinas-obs.jpeg",
+      "publishedAt": "2024-08-29 19:22:03",
+      "content": "Portugal vai doar a pa\u00edses africanos vacinas contra a mpox, anunciou esta quinta-feira o Minist\u00e9rio da Sa\u00fade, depois de Fran\u00e7a, Alemanha e Espanha terem comunicado o mesmo compromisso esta semana. E\u2026 [+1607 chars]",
+      "retrievedAt": "2024-08-31 07:05:58.929768",
+      "internal_id": "5b596f3c6587e88a0d8f6a64dc364dda557575738c80d24db6f7ddf31d5f6d5a",
+      "publishedAtLabel": "Aug 29"
+    },
     {
       "id": 12808,
       "query": [
@@ -73,6 +217,24 @@
       "content": "Los casos de dengue en M\u00e9xico se han disparado un 239% en lo que va del a\u00f1o, mientras que las muertes se multiplicaron por nueve, un fen\u00f3meno que se ha agudizado por el verano y las lluvias, y que se\u2026 [+3330 chars]",
       "retrievedAt": "2024-08-30 19:05:34.624791",
       "internal_id": "b5326745efb700ba56fbd2ae7cde2395106fe2b198e63c50bc7bf53d5e176356",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 12837,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Erik Nilsson",
+      "title": "Sverige s\u00e4ger nej \u2013 efter rapport fr\u00e5n FHM",
+      "description": "Sverige har f\u00e5tt fr\u00e5gan om att donera vaccin f\u00f6r hejda spridningen av mpox i Afrika. Men regeringens svar \u00e4r nej \u2013 efter en rapport fr\u00e5n Folkh\u00e4lsomyndigheten.",
+      "url": "https://www.svd.se/a/wgdXRP/sverige-sager-nej-till-mpox-vaccin-till-afrika",
+      "urlToImage": "https://svd.vgc.no/v2/images/248c0a53-aea7-451f-ba37-06616c95e305?h=630&q=80&upscale=true&w=1200&s=94950c2b01969bbe9ba85ec94ed6f4bf78f07be9",
+      "publishedAt": "2024-08-29 16:50:30",
+      "content": "I mitten av augusti utlyste WHO internationellt h\u00e4lson\u00f6dl\u00e4ge med anledning av smittspridningen av mpox, som tidigare kallades f\u00f6r apkoppor. En ny och farligare variant hade b\u00f6rjat sprida sig i Kongo-\u2026 [+143 chars]",
+      "retrievedAt": "2024-08-31 07:05:58.980890",
+      "internal_id": "06bf8769b2b2687b20ae42bbeb0e19e19361d0e2227447d1486977a0791df65a",
       "publishedAtLabel": "Aug 29"
     },
     {
@@ -256,6 +418,42 @@
       "publishedAtLabel": "Aug 29"
     },
     {
+      "id": 12854,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Jamie Ducharme",
+      "title": "What to Know About Mpox in 2024",
+      "description": "The WHO recently declared mpox a public health emergency again. Here's what to know about the mpox outbreak in 2024.",
+      "url": "https://time.com/7015699/mpox-outbreak-2024/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/08/DRC-mpox-outbreak.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2024-08-29 13:55:51",
+      "content": "For the second time in two years, the World Health Organization (WHO) has declared mpox a public health emergency of international concern. Mpox didnt disappear in between the two outbreaks, but the \u2026 [+6278 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.090053",
+      "internal_id": "a72909f51aa9f510a2c4ec408148a01b0ab2dc637e22147915d96315f27c7e74",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 12856,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "Les \u00e9tudes pr\u00e9cliniques du vaccin russe contre la mpox dureront 3 \u00e0 5 mois",
+      "description": "L'Institut de recherche Gamale\u00efa pourrait mener des \u00e9tudes pr\u00e9cliniques et cliniques pour tester un vaccin contre la mpox pendant plusieurs mois, a d\u00e9clar\u00e9 \u00e0 Sputnik Alexandre Guinzbourg, directeur de la structure russe.",
+      "url": "https://fr.sputniknews.africa/20240829/les-etudes-precliniques-du-vaccin-russe-contre-la-mpox-dureront-3-a-5-mois-1068055146.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1068055146.jpg?10459054021724939059",
+      "publishedAt": "2024-08-29 13:44:18",
+      "content": "https://fr.sputniknews.africa/20240829/les-etudes-precliniques-du-vaccin-russe-contre-la-mpox-dureront-3-a-5-mois-1068055146.html Les \u00e9tudes pr\u00e9cliniques du vaccin russe contre la mpox dureront 3 \u00e0 \u2026 [+1874 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.101036",
+      "internal_id": "2d3f15dbde972511c3c435e3d553ce70fb59ae7b4e800047a797f8586785fb77",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
       "id": 12827,
       "query": [
         "mpox"
@@ -292,6 +490,24 @@
       "publishedAtLabel": "Aug 29"
     },
     {
+      "id": 12844,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Like Taylor",
+      "title": "First mpox vaccines arrive in Africa as officials work \u201cblindly\u201d to contain outbreaks",
+      "description": "Nigeria became the first country in Africa to receive mpox vaccines on 27 August with the arrival of 10 000 doses intended to help contain the viral disease which is rapidly spreading across the continent. These and the shipments that are expected to follow \u2026",
+      "url": "https://www.bmj.com/content/386/bmj.q1897",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/386/8439.cover-source.jpg",
+      "publishedAt": "2024-08-29 11:12:08",
+      "content": "Nigeria became the first country in Africa to receive mpox vaccines on 27 August with the arrival of 10000 doses intended to help contain the viral disease which is rapidly spreading across the conti\u2026 [+1077 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.027986",
+      "internal_id": "0cf9392c93e97dbce1f2347055b67e9c93db958cab5a221362a12bce8fa2baf9",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
       "id": 12822,
       "query": [
         "mpox"
@@ -325,6 +541,24 @@
       "content": "PETALING JAYA: Mpox test kits are not for public use, says Medical Device Authority (MDA) chief executive officer Dr P Muralitharan. He said that only authorised professionals are allowed to handle \u2026 [+1326 chars]",
       "retrievedAt": "2024-08-30 19:05:36.598183",
       "internal_id": "3b87761bc3c820e9830648735a7691e2dcc29183af96b633d154209dc1c7345d",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 12841,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Anna-Lise Williamson, Professor in Vaccinology, Institute of Infectious Disease and Molecular Medicine, University of Cape Town",
+      "title": "Mpox vaccines: where they come from and what stands in the way of distributing them in Africa",
+      "description": "New generation vaccines effective against mpox have a better safety profile. The biggest obstacle for Africa now is availability and cost.",
+      "url": "https://theconversation.com/mpox-vaccines-where-they-come-from-and-what-stands-in-the-way-of-distributing-them-in-africa-237047",
+      "urlToImage": "https://images.theconversation.com/files/614784/original/file-20240821-16-j4l1hj.jpg?ixlib=rb-4.1.0&rect=306%2C729%2C5700%2C2845&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-08-29 09:55:11",
+      "content": "The Africa Centres for Disease Control and Prevention and the World Health Organization (WHO) have declared the latest outbreak of mpox in Africa a health emergency. An epidemic in the Democratic Rep\u2026 [+4130 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.006507",
+      "internal_id": "bc588797def0caa0ac44fd408cdd0dfc5938ccf8c9b8ddea7da4b637a2ee19f9",
       "publishedAtLabel": "Aug 29"
     },
     {
@@ -382,6 +616,24 @@
       "publishedAtLabel": "Aug 29"
     },
     {
+      "id": 12839,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "Why is taking so long to get mpox vaccines to the epicenter of the crisis?",
+      "description": "The U.S. and Europe have access to mpox vaccines, but the epicenter of the current mpox crisis in the Democratic Republic of the Congo has no doses yet.",
+      "url": "https://www.npr.org/2024/08/29/nx-s1-5090198/why-is-taking-so-long-to-get-mpox-vaccines-to-the-epicenter-of-the-crisis",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-08-29 07:37:34",
+      "content": "The U.S. and Europe have access to mpox vaccines, but the epicenter of the current mpox crisis in the Democratic Republic of the Congo has no doses yet.",
+      "retrievedAt": "2024-08-31 07:05:58.992684",
+      "internal_id": "e7cf5f19028f8e038c4370fd19edb3a1f1e1ddfda277d8805f6fc3b9e8b9267e",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
       "id": 12800,
       "query": [
         "mpox"
@@ -418,6 +670,24 @@
       "publishedAtLabel": "Aug 29"
     },
     {
+      "id": 12840,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Vaccine shortage hinders mpox inoculation in Africa",
+      "description": "The Africa Centers for Disease Control and Prevention said the continent needs 10 million doses of mpox vaccines to stop the spread of the disease, which it recently declared a public health emergency.",
+      "url": "https://www.globalsecurity.org/security/library/news/2024/08/sec-240827-voa01.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-08-29 03:56:46",
+      "content": "By Juma Majanga August 27, 2024 The Africa Centers for Disease Control and Prevention said the continent needs 10 million doses of mpox vaccines to stop the spread of the disease, which it recently \u2026 [+3337 chars]",
+      "retrievedAt": "2024-08-31 07:05:58.998437",
+      "internal_id": "12ef3a170e8d9960d4bc640b17f8782784a7b26c0de9d27fbf77d0e2b3a9aa3d",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
       "id": 12806,
       "query": [
         "mpox"
@@ -433,6 +703,24 @@
       "content": "28 August 2024 - Nigeria received 10,000 doses of mpox vaccines on Tuesday, becoming the first African country to obtain vaccines aimed at combating the spread of the new strain of mpox virus. On 14\u2026 [+2628 chars]",
       "retrievedAt": "2024-08-30 07:06:01.793065",
       "internal_id": "22cb1da93c5d1b8f947277898827571a9ab8cf8ba95371805cfd50fe3ad2442d",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 12843,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Nigeria receives 10,000 mpox vaccine doses from USAID",
+      "description": "Nigeria has received its first shipment of mpox vaccines, donated by the United States, to combat the ongoing outbreak of the disease. This comes amid a sharp rise in cases across Africa with the Democratic Republic of Congo and East African nations reporting\u2026",
+      "url": "https://www.globalsecurity.org/security/library/news/2024/08/sec-240828-voa02.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-08-29 03:56:25",
+      "content": "By Gibson Emeka August 28, 2024 Nigeria has received its first shipment of mpox vaccines, donated by the United States, to combat the ongoing outbreak of the disease. This comes amid a sharp rise in\u2026 [+2283 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.022636",
+      "internal_id": "7159e576324c2a8405b8f0ec81f8bcecd63d56df0c4b468207c12d44170e760b",
       "publishedAtLabel": "Aug 29"
     },
     {
@@ -508,6 +796,24 @@
       "publishedAtLabel": "Aug 29"
     },
     {
+      "id": 12831,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Theindependent.sg",
+      "author": "Jewel Stolarchuk",
+      "title": "Study reveals dengue survivors face higher risk of long-term health complications compared to COVID-19 patients \u00bb Singapore News",
+      "description": "Study reveals dengue survivors face higher risk of long-term health complications compared to COVID-19 patients \u00bb Singapore Newstheindependent.sg",
+      "url": "https://theindependent.sg/study-reveals-dengue-survivors-face-higher-risk-of-long-term-health-complications-compared-to-covid-19-patients/",
+      "urlToImage": "https://media.theindependent.sg/wp-content/uploads/2024/08/mosquito-scaled-e1724821650110.jpg",
+      "publishedAt": "2024-08-28 23:51:16",
+      "content": "SINGAPORE: A nationwide study led by NTU Singapore has revealed that individuals who recovered from dengue are significantly more likely to experience long-term health complications than those who re\u2026 [+2136 chars]",
+      "retrievedAt": "2024-08-31 07:05:55.624715",
+      "internal_id": "8a97255fd8069d26f4d7c6c10acc5a6c91c4d490003292efaaff37e1b418f6b6",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
       "id": 12797,
       "query": [
         "dengue"
@@ -580,6 +886,24 @@
       "publishedAtLabel": "Aug 28"
     },
     {
+      "id": 12838,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mpox: sem capacidade de testar Guin\u00e9-Bissau prepara plano de conting\u00eancia",
+      "description": "Pa\u00eds n\u00e3o tem atualmente a capacidade para diagnosticar a doen\u00e7a. Governo j\u00e1 come\u00e7ou reuni\u00f5es em ordem a ativar o plano de conting\u00eancia, que dever\u00e1 ser anunciado nos pr\u00f3ximos dias.",
+      "url": "https://observador.pt/2024/08/28/mpox-sem-capacidade-de-testar-guine-bissau-prepara-plano-de-contingencia/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A103%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F08%2F28183455%2F43427344.jpg",
+      "publishedAt": "2024-08-28 18:41:42",
+      "content": "A Guin\u00e9-Bissau est\u00e1 a preparar um plano de conting\u00eancia para lidar com eventuais casos de monkeypox (mpox), que atualmente n\u00e3o tem capacidade para diagnosticar, disse, esta quarta-feira, Pl\u00e1cido Card\u2026 [+2234 chars]",
+      "retrievedAt": "2024-08-31 07:05:58.986405",
+      "internal_id": "f1520c14e2c8d3efedd027a8c2ca379d93fd69ade25984e19eacff8f3fcdec4d",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
       "id": 12777,
       "query": [
         "dengue"
@@ -613,6 +937,24 @@
       "content": "Burundi, Rwanda, Kenya and Uganda have also been affected.Kaseya said that there were 22,863 suspected cases and 622 deaths as of August 27 linked to the various mpox strains on the continent. The d\u2026 [+340 chars]",
       "retrievedAt": "2024-08-30 07:06:01.775090",
       "internal_id": "51522d8eddf0074e2a4260c994a51095bd1b45dbcff0012064116fdbfd16411b",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 12849,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Taiwo Bankole",
+      "title": "Ogun records 151 suspected Mpox cases",
+      "description": "The Ogun State Commissioner for Health, Dr Tomi Coker, announced on Wednesday that the state has not recorded any confirmed cases of Mpox across its twenty local government areas. Coker reported that, as of August 18, the state had recorded 151 suspected case\u2026",
+      "url": "https://punchng.com/ogun-records-151-suspected-mpox-cases/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2024-08-28 18:05:13",
+      "content": "The Ogun State Commissioner for Health, Dr Tomi Coker, announced on Wednesday that the state has not recorded any confirmed cases of Mpox across its twenty local government areas. Coker reported tha\u2026 [+2366 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.062424",
+      "internal_id": "878992d4e529f86911fe5d6b1b73d0efaaad7719793a32c2f720c064c89fa9ca",
       "publishedAtLabel": "Aug 28"
     },
     {
@@ -1030,6 +1372,24 @@
       "publishedAtLabel": "Aug 28"
     },
     {
+      "id": 12845,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b1 \u039a\u03b1\u03c1\u03bb\u03b1\u03c4\u03ae\u03c1\u03b1",
+      "title": "\u03a3\u03b5 \u03b5\u03c0\u03b9\u03c6\u03c5\u03bb\u03b1\u03ba\u03ae \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03bd\u03ad\u03b1 \u03b5\u03c0\u03b9\u03b4\u03c1\u03bf\u03bc\u03ae \u03c4\u03b7\u03c2 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd - \u03a0\u03ce\u03c2 \u03bc\u03b5\u03c4\u03b1\u03b4\u03af\u03b4\u03b5\u03c4\u03b1\u03b9, \u03c4\u03b9 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03b5\u03af \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ac \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1",
+      "description": "\u03a4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03b9 \u03b7 \u03c7\u03ce\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03bd\u03ad\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c4\u03b9\u03ba\u03ae \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae, \u03c0\u03bf\u03b9\u03bf\u03b9 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03ce\u03c4\u03b7 \u03b3\u03c1\u03b1\u03bc\u03bc\u03ae \u03c4\u03bf\u03c5 \u03ba\u03b9\u03bd\u03b4\u03cd\u03bd\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03ac\u03bc\u03b5\u03c3\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf | \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd | \u0395\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1 | \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 | \u0396\u03c9\u03ae",
+      "url": "https://www.protothema.gr/ugeia/article/1533537/se-epifulaki-gia-ti-nea-epidromi-tis-eulogias-ton-pithikon/",
+      "urlToImage": "https://i1.prth.gr/images/640x360share/files/2024-08-26/monkeypox_xr.jpg",
+      "publishedAt": "2024-08-28 05:59:00",
+      "content": ", , (mpox Clade Ib), , , .2022 2023 88 , 15 , 238. , \u00ab \u00bb, \u00ab , , , , , . , , . 1 5 \u00bb.95% . , . , , , , , , mpox, .\u00ab , 2022, , . , , , . . , \u00bb, \u00ab\u00bb (), .. . () ( mpox ) , mpox . , ( 22.000 ). , E (\u2026 [+147 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.034468",
+      "internal_id": "66ff1262081de3e16efad45a5683565818cde2942e1a8d4c4c384cb74a5ced9e",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
       "id": 12772,
       "query": [
         "mpox"
@@ -1045,6 +1405,42 @@
       "content": "Afrika Birlii Hastalk Kontrol ve \u00d6nleme Merkezi (Africa CDC) Genel M\u00fcd\u00fcr\u00fc Jean Kaseya, d\u00fczenledii basn toplantsnda M \u00e7i\u00e7ei salgnyla ilgili gelimeleri aktard. M \u00e7i\u00e7ei salgnn sadece Afrika'nn salk sor\u2026 [+1402 chars]",
       "retrievedAt": "2024-08-29 07:06:59.404380",
       "internal_id": "b44fc56d465c4799065e82cd83550d1a9cd0947ddace24f3a9beee2bb2fcbded",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 12850,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Africa: Refugees and displaced face heightened threat from mpox outbreak",
+      "description": "The UN refugee agency (UNHCR) warned on Tuesday that the mpox outbreak could have devastating effects on refugees and displaced families in the Democratic Republic of the Congo (DRC) and other affected African countries if urgent support is not forthcoming.",
+      "url": "https://www.globalsecurity.org/security/library/news/2024/08/sec-240827-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-08-28 05:14:55",
+      "content": "27 August 2024 - The UN refugee agency (UNHCR) warned on Tuesday that the mpox outbreak could have devastating effects on refugees and displaced families in the Democratic Republic of the Congo (DRC)\u2026 [+3009 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.067877",
+      "internal_id": "e03000c773d355f941e4e02c446691420db12c2a8e2d698a110caefd6ff1e85a",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 12847,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Mpox outbreak in Africa poses risks for refugees, displaced communities",
+      "description": "U.N. agencies warn that refugees and displaced communities in the Democratic Republic of Congo and other African countries infected with mpox are at particular risk of illness and death because of conditions under which they are forced to live.",
+      "url": "https://www.globalsecurity.org/military/library/news/2024/08/mil-240827-voa03.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-08-28 05:14:50",
+      "content": "By Lisa Schlein August 27, 2024 U.N. agencies warn that refugees and displaced communities in the Democratic Republic of Congo and other African countries infected with mpox are at particular risk o\u2026 [+5036 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.050583",
+      "internal_id": "36628aa413a2ca95d3637c295c5746a10265e8e1fc816cf4e16e62d693dff0db",
       "publishedAtLabel": "Aug 28"
     },
     {
@@ -1099,6 +1495,24 @@
       "content": "There are two subtypes of mpox: Clade 1, endemic in the Congo Basin in central Africa; and Clade 2, endemic in West Africa. The surge in the DR Congo is being driven by surges of two different Clade\u2026 [+1482 chars]",
       "retrievedAt": "2024-08-29 07:06:59.327291",
       "internal_id": "6e8a0503807db62f8a0021b2f17ae16c4b11699c3943e3175a79740eacacc5d0",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 12852,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "FG hails US 10,000 Mpox vaccine doses donation",
+      "description": "The government of the United States of America, on Tuesday, donated 10,000 doses of Jynneos Monkeypox vaccine to Nigeria. Jynneos is a vaccine approved by the Food and Drug Administration for the prevention of smallpox and Mpox in adults 18 years of age and o\u2026",
+      "url": "https://punchng.com/fg-hails-us-10000-mpox-vaccine-doses-donation/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/08/27154809/The-official-handover-of-the-vaccine-1152x630.jpg",
+      "publishedAt": "2024-08-28 00:10:22",
+      "content": "The government of the United States of America, on Tuesday, donated 10,000 doses of Jynneos Monkeypox vaccine to Nigeria. Jynneos is a vaccine approved by the Food and Drug Administration for the pr\u2026 [+6486 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.078661",
+      "internal_id": "e5d06bb9992a291bdc0d2462b4b078c1ef6ce339b8f9b778fc48296cc925ec89",
       "publishedAtLabel": "Aug 28"
     },
     {
@@ -1210,6 +1624,42 @@
       "publishedAtLabel": "Aug 27"
     },
     {
+      "id": 12846,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Teodora Marinescu",
+      "title": "Alert\u0103 sanitar\u0103. \u201eVariola maimu\u021bei\u201d ar putea fi transmis\u0103 prin pic\u0103turile respiratorii, avertizeaz\u0103 OMS",
+      "description": "Pic\u0103turile respiratorii reprezint\u0103 o cale de transmitere \u201eminor\u0103\u201d a maladiei mpox, a declarat mar\u0163i un purt\u0103tor de cuv\u00e2nt al Organiza\u0163iei Mondiale a S\u0103n\u0103t\u0103\u0163ii (OMS), insist\u00e2nd asupra faptului c\u0103 studii suplimentare sunt necesare pentru a \u00een\u0163elege mai bine \u201edi\u2026",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/alerta-sanitara-variola-maimutei-ar-putea-fi-2384254.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-b/bf558236-b195-49d6-a116-465b8fafca72/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-08-27 18:07:17",
+      "content": "Picturile respiratorii reprezint o cale de transmitere minor a maladiei mpox, a declarat mari un purttor de cuv\u00e2nt al Organizaiei Mondiale a Sntii (OMS), insist\u00e2nd asupra faptului c studii suplimenta\u2026 [+1798 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.044725",
+      "internal_id": "66f228deb57a4ab097394ccde15e1420fc7ffea3ba1a1448991a3b6f7760a9d5",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 12853,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "\u00c1frica alcanza los 622 muertos por la mpox mientras espera la llegada de vacunas",
+      "description": "Forbes M\u00e9xico. \u00c1frica alcanza los 622 muertos por la mpox mientras espera la llegada de vacunas Seg\u00fan autoridades africanas, m\u00e1s de 22,800 casos y al menos 622 muertes por la mpox se han registrado desde el pasado enero en trece pa\u00edses del continente. \u00c1fri\u2026",
+      "url": "https://www.forbes.com.mx/africa-alcanza-los-622-muertos-por-la-mpox-mientras-espera-la-llegada-de-vacunas/",
+      "urlToImage": "https://cdn.forbes.com.mx/2022/05/99C9A1D0-D344-4727-8B26-99F93D5B8A73.jpeg",
+      "publishedAt": "2024-08-27 17:52:31",
+      "content": "M\u00e1s de 22,800 casos y al menos 622 muertes por la mpox se han registrado desde el pasado enero en trece pa\u00edses de \u00c1frica, confirm\u00f3 este martes la agencia de salud p\u00fablica de la Uni\u00f3n Africana (UA), a\u2026 [+4174 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.084514",
+      "internal_id": "498cc567aabf97d5531b335e9477743c422ddc1cff69e33f6bba9fe9e18defc9",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
       "id": 12735,
       "query": [
         "dengue"
@@ -1264,6 +1714,24 @@
       "publishedAtLabel": "Aug 27"
     },
     {
+      "id": 12842,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "ACNUR adverte para risco do surto de mpox se tornar \u201cdesvastador\u201d sem apoio urgente",
+      "description": "Sem \"apoio adicional e urgente\", o surto de mpox que assola \u00c1frica \"pode tornar-se devastador\" para refugiados e comunidades deslocadas na Rep\u00fablica Democr\u00e1tica do Congo, alerta a ACNUR.",
+      "url": "https://observador.pt/2024/08/27/acnur-adverte-para-risco-do-surto-de-mpox-se-tornar-desvastador-sem-apoio-urgente/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1126%3Anowe%3A0%3A11%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F08%2F27134351%2F43430595.jpg",
+      "publishedAt": "2024-08-27 16:30:28",
+      "content": "O surto de mpox em \u00c1frica \u201cpode tornar-se devastador\u201d para os refugiados e comunidades deslocadas na Rep\u00fablica Democr\u00e1tica do Congo (RDCongo) e em outros pa\u00edses africanos, se n\u00e3o receber \u201capoio adici\u2026 [+2617 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.016943",
+      "internal_id": "df356e7117b4c2442a89a624d47af5bd72c932f8df558a138b8d4ec93814c638",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
       "id": 12754,
       "query": [
         "mpox"
@@ -1279,6 +1747,24 @@
       "content": "Circula nas redes sociais uma publica\u00e7\u00e3o que alega que existe uma rela\u00e7\u00e3o entre a administra\u00e7\u00e3o de vacinas e o recente aumento do n\u00famero de casos de monkeypox (Mpox). A vacina ativando a doen\u00e7a do ma\u2026 [+4686 chars]",
       "retrievedAt": "2024-08-28 19:05:43.526164",
       "internal_id": "98c2b93e299f65c9aa5f279325841b8aea361a29c9de35791d2284f3d6e2f4f2",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 12855,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Majomhiml\u0151: akkora a baj, hogy az afrikai orsz\u00e1g m\u00e1r k\u00fclf\u00f6ldi seg\u00edts\u00e9get k\u00e9r",
+      "description": "Az afrikai kontinens \u00fajabb eg\u00e9szs\u00e9g\u00fcgyi kih\u00edv\u00e1ssal n\u00e9z szembe, miut\u00e1n a majomhiml\u0151 (mpox) j\u00e1rv\u00e1ny terjed\u00e9se aggaszt\u00f3 m\u00e9reteket \u00f6lt\u00f6tt. A Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1g korm\u00e1nya Jap\u00e1nhoz fordult seg\u00edts\u00e9g\u00e9rt, legal\u00e1bb 2 milli\u00f3 adag mpox elleni vakcina adom\u00e1nyo\u2026",
+      "url": "https://www.portfolio.hu/global/20240827/majomhimlo-akkora-a-baj-hogy-az-afrikai-orszag-mar-kulfoldi-segitseget-ker-706105",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/j/majomhimlo-virus-majomhimlo-terjedese-majomhimlo-tunetei-majomhimlo-kezelese-majomhimlo-magyarorszag-535435.jpg",
+      "publishedAt": "2024-08-27 16:02:00",
+      "content": "Ngashi Ngongo, az Afrikai Betegs\u00e9gellenrz\u00e9si \u00e9s Megelz\u00e9si K\u00f6zpontok (Africa CDC) munkat\u00e1rsa egy t\u00e1j\u00e9koztat\u00f3n besz\u00e9lt arr\u00f3l, hogy a Jap\u00e1nnal folytatott t\u00e1rgyal\u00e1sok \"el\u00e9gg\u00e9 elrehaladottak\". A vakcin\u00e1ra\u2026 [+1095 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.095697",
+      "internal_id": "785e8e23e07bd00094c562a5c8a6ba2be588799b489bc03639aa04e01c97a1af",
       "publishedAtLabel": "Aug 27"
     },
     {
@@ -1369,6 +1855,24 @@
       "content": ", 27 . //. mpox ( ) () , . () . \" , , , mpox , - Reuters. - , \". , 42 mpox. 2 . , , 7 . - , \" 23 \". . , 18 . , 615 . - , , . 1970 .",
       "retrievedAt": "2024-08-28 19:05:43.545229",
       "internal_id": "4fbe7e8f292902d1b5163ba2908a331b4a89172a8334fefc51d4178ffd24f4be",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 12848,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "\u201eEs wird fast \u00fcberall F\u00e4lle geben\u201c: Mpox-Impfstoff f\u00fcr Afrika reicht nicht aus",
+      "description": "Mindestens zehn Millionen Dosen des Impfstoffs w\u00fcrden ben\u00f6tigt, rechnet ein Experte in der DR Kongo vor. Als gesichert gilt bisher nur die Lieferung von etwa 500.000 - auch hier ist der Zeitpunkt noch offen. Das Virus breitet sich immer weiter aus in Afrika.",
+      "url": "https://www.diepresse.com/18800292/es-wird-fast-ueberall-faelle-geben-mpox-impfstoff-fuer-afrika-reicht-nicht-aus",
+      "urlToImage": "https://img.diepresse.com/public/incoming/bqfjiw-DRCONGO-HEALTH-VIRUS-MPOX/alternates/DPR_SOCIAL_NACHRICHTEN/DRCONGO-HEALTH-VIRUS-MPOX",
+      "publishedAt": "2024-08-27 14:21:07",
+      "content": "Mindestens zehn Millionen Dosen des Impfstoffs w\u00fcrden ben\u00f6tigt, rechnet ein Experte in der DR Kongo vor. Als gesichert gilt bisher nur die Lieferung von etwa 500.000 - auch hier ist der Zeitpunkt noc\u2026 [+2704 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.056058",
+      "internal_id": "2d389b66a9956b08d7dabfe37949a6f25ad0faadc5bcb96af90bf88588df1f46",
       "publishedAtLabel": "Aug 27"
     },
     {
@@ -1477,6 +1981,24 @@
       "content": "mpox, , ' , , . , , , , . mpox, , 1970, 2022, . 10 . , clade 1b, , . clade 1, mpox . mpox , . 18.000 mpox clade 1 clade 1b 615 , . 222 clade 1b , , . \u00ab \u00bb, . , , mpox. 2017 mpox, . \u00ab , , ,\u2026 [+72 chars]",
       "retrievedAt": "2024-08-28 19:05:43.570175",
       "internal_id": "02e93c9cd812672abb790caf1b2b2cb49c91941235a318e90ca3f4e522523679",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 12851,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u03a7\u03c1\u03c5\u03c3\u03b1 \u03a0\u03b1\u03bd\u03bf\u03c5\u03c3\u03b7",
+      "title": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd: \u00ab\u03a4\u03bf Clade 1b \u03b1\u03bb\u03bb\u03ac\u03b6\u03b5\u03b9 \u03b3\u03c1\u03ae\u03b3\u03bf\u03c1\u03b1, \u03bf \u03b9\u03cc\u03c2 \u03c0\u03b1\u03c1\u03ac\u03b3\u03b5\u03b9 \u03b4\u03b9\u03b1\u03c1\u03ba\u03ce\u03c2 \u03bd\u03ad\u03b1 \u03c3\u03c4\u03b5\u03bb\u03ad\u03c7\u03b7\u00bb",
+      "description": "\u039d\u03ad\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03c6\u03ad\u03c1\u03bd\u03b5\u03b9 \u03b7 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd (mpox). T\u03bf \u03bd\u03ad\u03bf \u03c3\u03c4\u03ad\u03bb\u03b5\u03c7\u03bf\u03c2 \u00abClade 1b\u00bb \u03b1\u03bb\u03bb\u03ac\u03b6\u03b5\u03b9 \u03c0\u03bf\u03bb\u03cd \u03c0\u03b9\u03bf \u03b3\u03c1\u03ae\u03b3\u03bf\u03c1\u03b1 \u03b1\u03c0\u03cc \u03cc\u03c4\u03b9 \u03c0\u03b5\u03c1\u03af\u03bc\u03b5\u03bd\u03b1\u03bd \u03bf\u03b9 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2, \u03b5\u03b9\u03b4\u03b9\u03ba\u03ac \u03c3\u03c4\u03b9\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03c7\u03c1\u03b7\u03bc\u03b1\u03c4\u03bf\u03b4\u03cc\u03c4\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b5\u03be\u03bf\u03c0\u03bb\u03b9\u03c3\u03bc\u03cc. \u03a4\u03b1 \u03bd\u03ad\u03b1 \u03c3\u03c4\u03b5\u03bb\u03ad\u03c7\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd \u03c0\u03bf\u03c5 \u03c0\u03bb\u03ad\u03bf\u03bd \u03ad\u03c7\u03bf\u03c5\u03bd \u2026",
+      "url": "https://www.newsit.gr/kosmos/eylogia-ton-pithikon-oi-epistimones-douleyoun-sta-tyfla-to-neo-stelexos-allazei-grigora/4165066/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2024/08/mpox-r-1.jpg",
+      "publishedAt": "2024-08-27 12:57:30",
+      "content": "(mpox). T \u00abClade 1b\u00bb , . , \u00ab\u00bb . , \u00ab\u00bb , , . \u00ab \u00bb, , . 2017 . , . \u00ab . , , , \u00bb, . \u00ab \u00bb, . clade 2b 5 , 2022. clade 1b . 18.000 mpox \u00abClade 1\u00bb \u00abClade 1b\u00bb 615 , . 222 Clade 1b . . . mpox,\u2026 [+73 chars]",
+      "retrievedAt": "2024-08-31 07:05:59.073161",
+      "internal_id": "8ff667da27778ae1727a84c287ce2bca3b143f848b7b8e45c29f12d6d34ebd2c",
       "publishedAtLabel": "Aug 27"
     },
     {
@@ -31311,6 +31833,240 @@
       "content": "Aishwarya Rai Bachchan, Priyanka Chopra, Shah Rukh Khan, Alia: Best dressed celebs at Anant-Radhika wedding",
       "retrievedAt": "2024-07-16 07:06:11.401323",
       "internal_id": "e4a613944beecb3969f5cafc7a35e6d7dfac85fb6e0b01482114c57df51caa2d",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11087,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "When is dengue most common in India? How to stay safe",
+      "description": "Dengue peaks in India July-November, with Aedes mosquitoes breeding in monsoon-stagnant water. Prevent by removing standing water, using repellents, wearing protective clothing, and screened windows. Early diagnosis and treatment of symptoms like fever, heada\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/when-is-dengue-most-common-in-india-how-to-stay-safe/articleshow/111736414.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111736409,width-1070,height-580,imgsize-530866,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-14 18:27:42",
+      "content": "Anant-Radhika Wedding: 11 dishes Bengaluru's Rameshwaram Cafe served at the wedding",
+      "retrievedAt": "2024-07-15 19:05:28.714529",
+      "internal_id": "8772f25a228219b44859ae4e627205d9bbd5526e5c3f71cce8168f9fd66c4921",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11086,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Can dengue fever during pregnancy cause low birth weights in newborns",
+      "description": "Pregnancy-related dengue increases risks of hemorrhaging, preterm birth, low birth weight, and first-trimester abortion. Vertical transmission risks fluctuate. The illness affects fetal growth due to maternal physiological changes. Monitoring and managing are\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/can-dengue-fever-during-pregnancy-cause-low-birth-weights-in-newborns/articleshow/111736401.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111736400,width-1070,height-580,imgsize-419791,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-14 18:25:32",
+      "content": "Anant-Radhika Wedding: 11 dishes Bengaluru's Rameshwaram Cafe served at the wedding",
+      "retrievedAt": "2024-07-15 19:05:28.709248",
+      "internal_id": "ad65e23d80d411d22dafaacaade1665d67803202ae857a37b9fa387f95aea793",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11089,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Naiara Brocal",
+      "title": "El granjero que se enfrenta a la malaria en el coraz\u00f3n de \u00c1frica",
+      "description": "Pascal Mbanzagukeba diagnostica y trata el paludismo entre los vecinos de su aldea del sur de Ruanda. Es uno de los 58.000 agentes comunitarios de salud, trabajadores voluntarios, desplegados por el pa\u00eds, que proveen de servicios sanitarios b\u00e1sicos en comunid\u2026",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/07/14/668a7130e4d4d847328b45a6.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/c2466fa356c9a82a26cbc1e1d85fcb9a/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/07/17203490463142.jpg",
+      "publishedAt": "2024-07-14 17:21:20",
+      "content": "El granjero Pascal Mbanzagukeba, de 33 a\u00f1os, resuelve en su casa problemas de salud frecuentes de sus vecinos de la aldea de Kimikamba, en el sur de Ruanda. La malaria ocupa gran parte de su tiempo d\u2026 [+8715 chars]",
+      "retrievedAt": "2024-07-15 19:05:29.313748",
+      "internal_id": "bd2a1ba26e9b0e7209b7e1de491e716c61a786ef8b4436402c131a191daa58e8",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11088,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Justice",
+      "title": "Ghana records dengue outbreak",
+      "description": "ACCRA, July 14 (Xinhua) -- Ghanaian health authorities said on Sunday that they have confirmed nine cases of dengue in the Eastern Region. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/07/15/ghana-records-dengue-outbreak",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-07-14 16:50:00",
+      "content": "ACCRA, July 14 (Xinhua) -- Ghanaian health authorities said on Sunday that they have confirmed nine cases of dengue in the Eastern Region. The Ghana Health Service (GHS) said in a statement that it\u2026 [+798 chars]",
+      "retrievedAt": "2024-07-15 19:05:28.758092",
+      "internal_id": "0d28fe6f021a7403709ff02edf9fd5249ca5892051d767ed07682f94e32750ab",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11082,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Leonhard Rosenauer",
+      "title": "Vogelgrippe breitet sich aus: Diese Regionen sind betroffen",
+      "description": "Das H5N1-Virus l\u00e4sst Tiere qualvoll verenden. Manche L\u00e4nder sind derzeit st\u00e4rker betroffen, auch in Deutschland gab es F\u00e4lle.",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article406784003/vogelgrippe-breitet-sich-aus-diese-regionen-sind-betroffen.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406783368/406783368_1720974306_v16_9_1600.jpeg",
+      "publishedAt": "2024-07-14 16:25:06",
+      "content": "Berlin. Das H5N1-Virus l\u00e4sst Tiere qualvoll verenden. Manche L\u00e4nder sind derzeit st\u00e4rker betroffen, auch in Deutschland gab es F\u00e4lle. Die Vogelgrippe hat in den vergangenen zwei Jahren zahlreiche V\u00f6\u2026 [+4557 chars]",
+      "retrievedAt": "2024-07-15 19:05:28.331745",
+      "internal_id": "885f7cfdc16a8796b9325096e2449e5c64e6e26345c33258cbf381a72487aecd",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11081,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "CDC Confirms Human Cases of H5 Bird Flu Among Colorado Poultry Workers",
+      "description": "Four human cases of highly pathogenic avian influenza (HPAI) A(H5) (\u201cH5 bird flu\u201d) virus infection in the state of Colorado have been confirmed by the Centers for Disease Control and Prevention (CDC).",
+      "url": "https://www.cdc.gov/media/releases/2024/p-0715-confirm-h5.html",
+      "urlToImage": "https://www.cdc.gov/media/images/releases/about-cdc-fb_pr.jpg",
+      "publishedAt": "2024-07-14 15:44:00",
+      "content": "July 14, 2024 \u2013 Four human cases of highly pathogenic avian influenza (HPAI) A(H5) (\u201cH5 bird flu\u201d) virus infection in the state of Colorado have been confirmed by the Centers for Disease Control and \u2026 [+2900 chars]",
+      "retrievedAt": "2024-07-15 19:05:28.034144",
+      "internal_id": "8b9a1cc8686aae174bc96dba6d2e56ae97406e600a1495d5dd781713b908f306",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11092,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Manoramanews.com",
+      "author": "\u0d38\u0d4d\u0d35\u0d28\u0d4d\u0d24\u0d02 \u0d32\u0d47\u0d16\u0d15\u0d7b",
+      "title": "Rat Fever| Kerala| Prevention|Leptospirosis|\u0d38\u0d02\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d4d \u0d0e\u0d32\u0d3f\u0d2a\u0d4d\u0d2a\u0d28\u0d3f \u0d2a\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41; \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d2e\u0d3e\u0d30\u0d4d\u200d\u0d17\u0d19\u0d4d\u0d19\u0d33\u0d46\u0d28\u0d4d\u0d24\u0d4d?",
+      "description": "\u0d38\u0d02\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d4d \u0d35\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d02 \u0d0e\u0d32\u0d3f\u0d2a\u0d4d\u0d2a\u0d28\u0d3f \u0d2a\u0d1f\u0d30\u0d41\u0d15\u0d2f\u0d3e\u0d23\u0d4d. \u0d08 \u0d35\u0d30\u0d4d\u200d\u0d37\u0d02 \u0d07\u0d24\u0d41\u0d35\u0d30\u0d46 2381 \u0d2a\u0d47\u0d30\u0d3e\u0d23\u0d4d \u0d1a\u0d3f\u0d15\u0d3f\u0d32\u0d4d\u200d\u0d38 \u0d24\u0d47\u0d1f\u0d3f\u0d2f\u0d24\u0d4d. 144 \u0d2a\u0d47\u0d30\u0d4d\u200d \u0d2e\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d41. \u0d15\u0d43\u0d24\u0d4d\u0d2f\u0d2e\u0d3e\u0d2f \u0d1a\u0d3f\u0d15\u0d3f\u0d32\u0d4d\u200d\u0d38\u0d2f\u0d3f\u0d32\u0d42\u0d1f\u0d46\u0d2f\u0d41\u0d02 \u0d2e\u0d41\u0d7b\u0d15\u0d30\u0d41\u0d24\u0d32\u0d41\u0d15\u0d7e \u0d0e\u0d1f\u0d41\u0d24\u0d4d\u0d24\u0d41\u0d02 \u0d0e\u0d32\u0d3f\u0d2a\u0d4d\u0d2a\u0d28\u0d3f\u0d2f\u0d46 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d02. \u0d0e\u0d32\u0d3f\u0d2a\u0d4d\u0d2a\u0d28\u0d3f \u0d2a\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d46\u0d19\u0d4d\u0d19\u0d28\u0d46? \u0d32\u0d46\u0d2a\u0d4d\u200c\u0d31\u0d4d\u0d31\u0d4b\u0d38\u0d4d\u200c\u0d2a\u0d48\u0d31 \u0d35\u0d3f\u0d2d\u0d3e\u0d17\u0d24\u0d4d\u0d24\u0d3f\u0d7d\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d4d\u0d1f 260\u0d7d\u0d2a\u0d4d\u0d2a\u0d30\u0d02 \u0d2c\u0d3e\u0d15\u0d4d\u0d1f\u0d40\u0d30\u2026",
+      "url": "https://www.manoramanews.com/health/explainers/2024/07/14/spike-in-leptospirosis-causes-symptoms-treatment.html",
+      "urlToImage": "https://img.manoramanews.com/content/dam/mm/mnews/health/explainers/images/2024/7/14/leptospirosis.jpg",
+      "publishedAt": "2024-07-14 14:14:31",
+      "content": ". 2381 . 144 . . ? 260 . . . . . , , , , . , , , , . . . . . . . . . . . , , , , . . . . . . . Kerala reports 2381 leptospirosis cases. Causes, symptoms and treatment.",
+      "retrievedAt": "2024-07-15 19:05:30.343794",
+      "internal_id": "1f07dca87bf56878e01359c30923f478e1578117a02f8c3631d68f131736844d",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11084,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "El Pa\u00eds",
+      "title": "\u201cUn mayor riesgo para la salud p\u00fablica\u201d: alertan que aumenta el \u201cpotencial pand\u00e9mico\u201d de la gripe aviar",
+      "description": "El virus se transmite entre mam\u00edferos y pasa de madres a cr\u00edas a trav\u00e9s de la leche, advierteun estudio con modelos animales",
+      "url": "https://www.lanacion.com.ar/sociedad/un-mayor-riesgo-para-la-salud-publica-alertan-que-aumenta-el-potencial-pandemico-de-la-gripe-aviar-nid14072024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-mundo-esta-viviendo-la-peor-crisis-de-gripe-LP6KBNCU5RBEDAKOAYNALU3HEQ.jpg?auth=6542ab12e38c2605d75abf261fcf7ea23cf929d5486105553f369977a905ffe9&width=768&quality=70&smart=false",
+      "publishedAt": "2024-07-14 14:07:55",
+      "content": "MADRID.- El nuevo virus de la gripe aviar H5N1 altamente patog\u00e9nico puede haber ganado la capacidad de transmitirse entre mam\u00edferos y, por tanto, supone un mayor riesgo para la salud p\u00fablica de lo qu\u2026 [+7512 chars]",
+      "retrievedAt": "2024-07-15 19:05:28.384492",
+      "internal_id": "77dab41f0a7ec7045f8e1ff741568aaa3573d1af16555f6e0de6bbcbf46423c2",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11085,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Roos Liefting",
+      "title": "Pas op, in die leuke gieter uit Zuid-Frankrijk zit mogelijk een tijgermug",
+      "description": "Tweevleugeligen: In Nederland is de Aziatische tijgermug in opkomst. Het insect, dat dengue kan verspreiden en lastig is te bestrijden, lift mee uit andere delen van Europa. Of legt eitjes in bloempotten of gieters. \u201eOp termijn is het een risico voor de volks\u2026",
+      "url": "https://www.nrc.nl/nieuws/2024/07/14/als-je-de-leuke-gieter-uit-zuid-frankrijk-in-je-tuin-zet-ben-je-de-sjaak-dan-heb-je-tijgermuggen-waarschuwt-de-nvwa-a4859542",
+      "urlToImage": "https://images.nrc.nl/Y4ozITGs0i6HLHAYH_4mFGgTEQY=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2024/07/12144639/data118268870-d7058c.jpg",
+      "publishedAt": "2024-07-14 14:00:00",
+      "content": "Kijk, dit is een ideale plek voor de eitjes van tijgermuggen. Raldi Bakker, co\u00f6rdinator bestrijding exotische muggen van de Nederlandse Voedsel- en Warenautoriteit (NVWA), wijst op emmers waarin een \u2026 [+7553 chars]",
+      "retrievedAt": "2024-07-15 19:05:28.658161",
+      "internal_id": "909bb84d6533984406a6d7e6322d80dc91f9a5fe739b14efa39b174b9000b475",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11090,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Omer Awan, Contributor, \n Omer Awan, Contributor\n https://www.forbes.com/sites/omerawan-1/",
+      "title": "A New Strain Of Mpox Is Spreading In Congo. Here\u2019s What To Know About The Disease",
+      "description": "Mpox, is a rare disease caused by a virus similar to Smallpox. Although found mostly in Africa, outbreaks have occurred on other continents.",
+      "url": "https://www.forbes.com/sites/omerawan/2024/07/14/a-new-strain-of-mpox-is-spreading-in-congo-heres-what-to-know-about-the-disease/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66840b28c42ea9703e00eca5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-14 12:44:13",
+      "content": "UNDATED ? JUNE 5: In this Centers for Disease Control and Prevention handout graphic, symptoms of ... [+] one of the first known cases of the monkeypox virus are shown on a patient?s hand June 5, 200\u2026 [+3989 chars]",
+      "retrievedAt": "2024-07-15 19:05:29.943926",
+      "internal_id": "82fe6f14f5e9bce2e1cfb1fd36776a5478d912704b2fc8a0a95796cdc47d6aa7",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11093,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Zamboanga: Oficina de salud ya adverti con el publico contra Leptospirosis",
+      "description": "El Oficina de Salud del Ciudad o City Health office (CHO) ta adverti con el publico contra Leptospirosis, un enfermedad que recio ocuri durante el tiempo de aguasero y avenida. El CHO ya conseja del Domningo con aquellos quien exponido na agua de avenida para\u2026",
+      "url": "https://rpnradio.com/zamboanga-oficina-de-salud-ya-adverti-con-el-publico-contra-leptospirosis/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/07/Oficina-de-salud-ya-adverti-con-el-publico-contra-Leptospirosis.jpg",
+      "publishedAt": "2024-07-14 10:53:02",
+      "content": "El Oficina de Salud del Ciudad o City Health office (CHO) ta adverti con el publico contra Leptospirosis, un enfermedad que recio ocuri durante el tiempo de aguasero y avenida. El CHO ya conseja del\u2026 [+746 chars]",
+      "retrievedAt": "2024-07-15 19:05:30.349313",
+      "internal_id": "95c7636b1073f43c7d73ae9e911ffdef5c1197b20475f5eeb64e2619f500f433",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11091,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "DR Congo detects at least 25 mpox cases in Goma",
+      "description": "PARIS \u2014 At least 25 cases of a dangerous new strain of mpox spreading through the Democratic Republic of Congo have been detected in the eastern city of Goma, mostly in camps housing people fleeing a surrounding conflict, health authorities said Wednesday. \u2026",
+      "url": "https://www.voanews.com/a/dr-congo-detects-at-least-25-mpox-cases-in-goma-mainly-in-displacement-camps-/7695086.html",
+      "urlToImage": "https://gdb.voanews.com/03370000-0aff-0242-df48-08dad1c3cf73_w1200_r1.jpg",
+      "publishedAt": "2024-07-14 08:09:22",
+      "content": "PARIS At least 25 cases of a dangerous new strain of mpox spreading through the Democratic Republic of Congo have been detected in the eastern city of Goma, mostly in camps housing people fleeing a \u2026 [+2141 chars]",
+      "retrievedAt": "2024-07-15 19:05:30.006225",
+      "internal_id": "9b9a00a415d2d7bfd13ac8a358fe7348f47af157ea62e8b0a3acf383061af5ce",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 11083,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "\u611f\u67d3\u725b\u7fa4\u7684\u79bd\u6d41\u611f\u5411\u6f5c\u5728\u5927\u6d41\u884c\u8fc8\u8fdb\uff1f",
+      "description": "H5N1\u79bd\u6d41\u611f\u75c5\u6bd2\u5728\u7f8e\u56fd\u5976\u725b\u4e2d\u4f20\u64ad\uff0c\u5f15\u8d77\u5e7f\u6cdb\u5173\u6ce8\u3002\u4e00\u9879\u6700\u65b0\u7814\u7a76\u8868\u660e\uff0c\u8be5\u75c5\u6bd2\u53ef\u4ee5\u901a\u8fc7\u725b\u5976\u611f\u67d3\u5176\u4ed6\u54fa\u4e73\u52a8\u7269\uff0c\u540c\u65f6\u5177\u6709\u6709\u9650\u7684\u7a7a\u6c14\u4f20\u64ad\u80fd\u529b\u3002",
+      "url": "https://www.dw.com/zh/%E6%84%9F%E6%9F%93%E7%89%9B%E7%BE%A4%E7%9A%84%E7%A6%BD%E6%B5%81%E6%84%9F%E5%90%91%E6%BD%9C%E5%9C%A8%E5%A4%A7%E6%B5%81%E8%A1%8C%E8%BF%88%E8%BF%9B/a-69616178",
+      "urlToImage": "https://static.dw.com/image/69161110_6.jpg",
+      "publishedAt": "2024-07-14 07:25:00",
+      "content": "H5N1 Stephan LudwigSWR : JoNel Aleccia/AP/picture alliance H5N1 University of Wisconsin-MadisonH5N1 Yoshihiro Kawaoka H5N1: Carlos Garcia Granthon/ZUMAPRESS.com/picture alliance Martin Schwem\u2026 [+102 chars]",
+      "retrievedAt": "2024-07-15 19:05:28.363197",
+      "internal_id": "eb31cbbb1e0903170496f954342b0136a5ecfdadab2c465666ba3231404e2496",
       "publishedAtLabel": "Jul 14"
     }
   ]
