@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-09-01 19:05
-- **Most recent article:** 2024-08-31 18:15:00
+- **New articles in last harvest:** 24
+- **Last harvest:** 2024-09-02 07:06
+- **Most recent article:** 2024-09-01 06:08:27
 
 ---
 
@@ -10,28 +10,60 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-30 | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | Total |
-|--|-|-|-|-|-|-|-|
-| mpox | 13 | 26 | 139 | 292 | 208 | 171 | 849 |
-| dengue | 55 | 55 | 46 | 52 | 64 | 45 | 317 |
-| malaria | 14 | 15 | 16 | 19 | 27 | 28 | 119 |
-| h5n1 | 33 | 21 | 6 | 8 | 5 | 10 | 83 |
-| zika | 8 | 12 | 11 | 10 | 21 | 2 | 64 |
-| measles | 21 | 8 | 6 | 3 | 7 | 11 | 56 |
-| rabies | 8 | 12 | 8 | 12 | 6 | 3 | 49 |
-| meningitis | 2 | 3 | 6 | 8 | 11 | 5 | 35 |
-| chikungunya | 6 | 6 | 4 | 8 | 10 | 1 | 35 |
-| pertussis | 5 | 5 | 6 | 3 | 5 | 2 | 26 |
-| leptospirosis | 1 | 2 | 2 | 2 | 4 | 0 | 11 |
-| hpai | 3 | 4 | 1 | 1 | 1 | 0 | 10 |
-| typhoid | 3 | 1 | 0 | 1 | 2 | 1 | 8 |
-| yersinia | 2 | 1 | 1 | 0 | 1 | 1 | 6 |
-| shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
+| Disease | 24-30 | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | Total |
+|--|-|-|-|-|-|-|-|-|
+| mpox | 16 | 26 | 139 | 292 | 208 | 186 | 6 | 873 |
+| dengue | 61 | 55 | 46 | 52 | 64 | 45 | 2 | 325 |
+| malaria | 15 | 15 | 16 | 19 | 27 | 28 | 1 | 121 |
+| h5n1 | 36 | 21 | 6 | 8 | 5 | 10 | 0 | 86 |
+| zika | 10 | 12 | 11 | 10 | 21 | 2 | 0 | 66 |
+| measles | 21 | 8 | 6 | 3 | 7 | 11 | 1 | 57 |
+| rabies | 8 | 12 | 8 | 12 | 6 | 3 | 0 | 49 |
+| chikungunya | 7 | 6 | 4 | 8 | 10 | 1 | 1 | 37 |
+| meningitis | 2 | 3 | 6 | 8 | 11 | 5 | 0 | 35 |
+| pertussis | 5 | 5 | 6 | 3 | 5 | 2 | 0 | 26 |
+| leptospirosis | 1 | 2 | 2 | 2 | 4 | 0 | 0 | 11 |
+| hpai | 3 | 4 | 1 | 1 | 1 | 0 | 0 | 10 |
+| typhoid | 3 | 1 | 0 | 1 | 2 | 1 | 0 | 8 |
+| yersinia | 2 | 1 | 1 | 0 | 1 | 1 | 0 | 6 |
+| shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-36 (mpox)
+
+- [L'Unicef lance un appel d'offres pour obtenir des vaccins contre le mpox](https://fr.sputniknews.africa/20240901/lunicef-lance-un-appel-doffres-pour-obtenir-des-vaccins-contre-le-mpox-1068095931.html) (Sputniknews.africa)
+
+- [В США будут применять вакцину против натуральной оспы для защиты от оспы обезьян](https://rg.ru/2024/09/01/v-ssha-budut-primeniat-vakcinu-protiv-naturalnoj-ospy-dlia-zashchity-ot-ospy-obezian.html) (Rg.ru)
+
+- [COVID-19, maymun çiçeği virüsü, Batı Nil ateşi ve Kırım Kongo kanamalı ateşi... ‘Korkmaktan çok, önlem alınmalı’](https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/covid-19-maymun-cicegi-virusu-bati-nil-atesi-ve-kirim-kongo-kanamali-atesi-korkmaktan-cok-onlem-alinmali-42516876) (Hurriyet.com.tr)
+
+- [Burundi family's ordeal highlights Africa's Mpox vaccine shortage](https://www.bangkokpost.com/video/world/2857447) (Bangkok Post)
+
+- [UNICEF issues emergency tender to secure mpox vaccines](https://www.voanews.com/a/7767065.html) (VOA News)
+
+- [Unicef startet Notfallausschreibung für Mpox-Impfstoff](https://www.welt.de/vermischtes/article253295148/Affenpocken-Unicef-startet-Notfallausschreibung-fuer-Mpox-Impfstoff.html) (DIE WELT)
+
+## 24-36 (measles)
+
+- [TWiV 1145: Heartbeats and hoofbeats](https://www.microbe.tv/twiv/twiv-1145/) (Microbe.tv)
+
+## 24-36 (malaria)
+
+- [Spurt in dengue, malaria & chikungunya cases seen in Mumbai over last fortnight](https://timesofindia.indiatimes.com/city/mumbai/spurt-in-dengue-malaria-chikungunya-cases-seen-in-mumbai-over-last-fortnightt/articleshow/112961759.cms) (The Times of India)
+
+## 24-36 (dengue)
+
+- [Jugador del Cartaginés lidia con los padecimientos del dengue](https://www.nacion.com/puro-deporte/futbol-nacional/jugador-del-cartagines-lidia-con-los-padecimientos/WIKD5B44LJB3XCQJUAJYUQ4QTM/story/) (Nacion.com)
+
+- [Spurt in dengue, malaria & chikungunya cases seen in Mumbai over last fortnight](https://timesofindia.indiatimes.com/city/mumbai/spurt-in-dengue-malaria-chikungunya-cases-seen-in-mumbai-over-last-fortnightt/articleshow/112961759.cms) (The Times of India)
+
+## 24-36 (chikungunya)
+
+- [Spurt in dengue, malaria & chikungunya cases seen in Mumbai over last fortnight](https://timesofindia.indiatimes.com/city/mumbai/spurt-in-dengue-malaria-chikungunya-cases-seen-in-mumbai-over-last-fortnightt/articleshow/112961759.cms) (The Times of India)
 
 ## 24-35 (zika)
 
@@ -63,17 +95,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-35 (mpox)
 
+- [UNICEF issues emergency tender to secure mpox vaccines](https://japantoday.com/category/world/unicef-issues-emergency-tender-to-secure-mpox-vaccines) (Japan Today)
+
+- [Unicef udsteder nødudbud for at sikre vacciner mod mpox til ramte lande](https://www.dr.dk/nyheder/seneste/unicef-udsteder-noedudbud-sikre-vacciner-mod-mpox-til-ramte-lande) (Www.dr.dk)
+
+- [Habitantes de la frontera sur de México piden filtros sanitarios ante el riesgo de mpox](https://www.forbes.com.mx/habitantes-de-la-frontera-sur-de-mexico-piden-filtros-sanitarios-ante-el-riesgo-de-mpox/) (Forbes.com.mx)
+
+- [L'institut sud-africain Biovac se dit en mesure de produire un vaccin contre le mpox](https://fr.sputniknews.africa/20240831/linstitut-sud-africain-biovac-se-dit-en-mesure-de-produire-un-vaccin-contre-le-mpox-1068095233.html) (Sputniknews.africa)
+
 - [Links 8/31/2024](https://www.nakedcapitalism.com/2024/08/links-8-31-2024.html) (Nakedcapitalism.com)
 
 - [Mpox: FG to begin vaccination October 8](https://punchng.com/mpox-fg-to-begin-vaccination-october-8/) (The Punch)
 
+- [Mpox-Ausbruch in Afrika: Ein Experte erklärt, was jetzt wichtig ist](https://t3n.de/news/mpox-ausbruch-in-afrika-1641289/) (T3n)
+
 - [سرعت جهش ژنی «آبله میمونی 1b»/ تفاوت این بیماری با کرونا](https://www.isna.ir/news/1403061005553/سرعت-جهش-ژنی-آبله-میمونی-1b-تفاوت-این-بیماری-با-کرونا) (Isna.ir)
+
+- [Mpox outbreaks in Africa could be ended in 6 months, WHO chief says](https://www.thehindubusinessline.com/news/world/mpox-outbreaks-in-africa-could-be-ended-in-6-months-who-chief-says/article68588368.ece) (BusinessLine)
 
 - [Nijerya'da M çiçeği vaka sayısı artıyor](https://www.haber7.com/dunya/haber/3455725-nijeryada-m-cicegi-vaka-sayisi-artiyor) (Haber7.com)
 
 - [Infektionskrankheiten: Nachfrage für Mpox-Impfstoff in Berlin stark gestiegen](https://www.tagesspiegel.de/berlin/infektionskrankheiten-nachfrage-fur-mpox-impfstoff-in-berlin-stark-gestiegen-12290453.html) (Der Tagesspiegel)
 
 - [Infektionskrankheiten: Nachfrage für Mpox-Impfstoff in Berlin stark gestiegen](https://www.zeit.de/news/2024-08/31/nachfrage-fuer-mpox-impfstoff-in-berlin-stark-gestiegen) (Die Zeit)
+
+- [Infektionskrankheiten: Nachfrage für Mpox-Impfstoff in Berlin stark gestiegen](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/infektionskrankheiten--nachfrage-fuer-mpox-impfstoff-in-berlin-stark-gestiegen-35025136.html) (STERN.de)
 
 - [Mpox cases rise to 48 in 19 states, FCT](https://punchng.com/mpox-cases-rise-to-48-in-19-states-fct/) (The Punch)
 
@@ -83,7 +129,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox outbreaks could be stopped in the next six months - WHO](https://www.thejournal.ie/mpox-outbreaks-could-be-stopped-in-the-next-six-months-with-vaccination-who-6475860-Aug2024/) (TheJournal.ie)
 
+- [Mpox: OMS já confirmou 258 casos de nova variante fora do Congo](https://www.infomoney.com.br/mercados/mpox-oms-ja-confirmou-258-casos-de-nova-variante-fora-do-congo/) (InfoMoney)
+
+- [Hamarosan megérkezhet az első szállítmány a majomhimlő elleni vakcinából Kongóba](https://www.portfolio.hu/gazdasag/20240830/hamarosan-megerkezhet-az-elso-szallitmany-a-majomhimlo-elleni-vakcinabol-kongoba-706869) (Portfolio.hu)
+
 - [Does mpox cause lingering symptoms like long covid?](https://www.newscientist.com/article/2445695-does-mpox-cause-lingering-symptoms-like-long-covid/) (New Scientist)
+
+- [‘Con liderazgo de los gobiernos, el brote de mpox puede terminar en 6 meses’: OMS](https://www.forbes.com.mx/con-liderazgo-de-los-gobiernos-el-brote-de-mpox-puede-terminar-en-6-meses-oms/) (Forbes.com.mx)
 
 - [Ευλογιά των πιθήκων: Φτάνουν τα πρώτα εμβόλια στο Κονγκό λέει ο Παγκόσμιος Οργανισμός Υγείας](https://www.newsit.gr/kosmos/eylogia-ton-pithikon-ftanoun-ta-prota-emvolia-sto-kongko-leei-o-pagkosmios-organismos-ygeias/4167707/) (Newsit.gr)
 
@@ -129,6 +181,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Statens Serum Institut vil overvåge mpox i spildevandet](https://www.dr.dk/nyheder/seneste/statens-serum-institut-vil-overvaage-mpox-i-spildevandet) (Www.dr.dk)
 
+- [Gesundheitskarte genügt: In Berlin gibt es die Mpox-Impfung ab September kostenlos beim Hausarzt](https://www.tagesspiegel.de/berlin/berliner-wirtschaft/gesundheitskarte-genugt-in-berlin-gibt-es-die-mpox-impfung-ab-september-kostenlos-beim-hausarzt-12281783.html) (Der Tagesspiegel)
+
 - [Sverige säger nej – efter rapport från FHM](https://www.svd.se/a/wgdXRP/sverige-sager-nej-till-mpox-vaccin-till-afrika) (Svenska Dagbladet)
 
 - [Deel vaccins, was dat niet de les uit de coronacrisis?](https://www.nrc.nl/nieuws/2024/08/29/deel-vaccins-was-dat-niet-de-les-uit-de-coronacrisis-a4864105) (Www.nrc.nl)
@@ -143,15 +197,23 @@ Source: [News API](https://newsapi.org/)
 
 - [First mpox vaccines arrive in Africa as officials work “blindly” to contain outbreaks](https://www.bmj.com/content/386/bmj.q1897) (The BMJ)
 
+- [Itt a nagy vakcinabiznisz: ez a tőzsdei cég lehet a nagy nyertes](https://www.portfolio.hu/uzlet/20240829/itt-a-nagy-vakcinabiznisz-ez-a-tozsdei-ceg-lehet-a-nagy-nyertes-706315) (Portfolio.hu)
+
 - [‘We are afraid’: East Africa struggles as mpox spreads amid vaccine delays](https://www.aljazeera.com/features/2024/8/29/we-are-afraid-east-africa-struggles-as-mpox-spreads-amid-vaccine-delays) (Al Jazeera English)
 
 - [Mpox test kits not for public, says MDA](https://www.thestar.com.my/news/nation/2024/08/29/mpox-test-kits-not-for-public-says-mda) (The Star Online)
+
+- [Virusausbruch: Wird sich Mpox weltweit ausbreiten?](https://www.tagesspiegel.de/gesundheit/virusausbruch-wird-sich-mpox-weltweit-ausbreiten-12272780.html) (Der Tagesspiegel)
 
 - [Mpox vaccines: where they come from and what stands in the way of distributing them in Africa](https://theconversation.com/mpox-vaccines-where-they-come-from-and-what-stands-in-the-way-of-distributing-them-in-africa-237047) (The Conversation Africa)
 
 - [Why is taking so long to get mpox vaccines to the epicenter of the crisis?](https://www.npr.org/2024/08/29/nx-s1-5090198/why-is-taking-so-long-to-get-mpox-vaccines-to-the-epicenter-of-the-crisis) (NPR)
 
+- [Mpox en Afrique: près d'un million de doses de vaccin attendues](https://fr.sputniknews.africa/20240829/mpox-en-afrique-pres-dun-million-de-doses-de-vaccin-attendues-1068046753.html) (Sputniknews.africa)
+
 - [Verschwiegen und intransparent – die Wiederholung des Corona-Fehlers](https://www.welt.de/wirtschaft/plus253235166/Mpox-Impfstoffe-Die-EU-wiederholt-den-Corona-Fehler.html) (DIE WELT)
+
+- [ENTRETIEN. « La gravité du mpox dépend d’où vous vivez »](https://www.ouest-france.fr/sante/virus/variole-du-singe/entretien-la-gravite-du-mpox-depend-dou-vous-vivez-c599f210-646b-11ef-8a04-77892ecaedb4) (Ouest-France)
 
 - [Mpox: WHO urges Gavi, UNICEF to procure vaccines](https://punchng.com/mpox-who-urges-gavi-unicef-to-procure-vaccines/) (The Punch)
 
@@ -3175,6 +3237,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Discovery and structure–activity relationship study of novel isoxazole-based small molecules targeting Zika virus infections](https://pubs.rsc.org/en/content/articlelanding/2024/md/d4md00240g) (Royal Society of Chemistry)
 
+- [Nipah claims one life in Kerala; Maharashtra reports 28 Zika cases in 2024](https://www.business-standard.com/health/nipah-claims-one-life-in-kerala-maharashtra-reports-28-zika-cases-in-2024-124072100406_1.html) (Business Standard)
+
+- [Halálos csípések, hatalmas egészségügyi kiadások - a szúnyogok nem csak idegesítőek](https://www.origo.hu/gazdasag/2024/07/halalos-csipesek-egeszsegugyi-kiadasok-szunyogok-virusok-korokozok) (Origo.hu)
+
 ## 24-30 (yersinia)
 
 - [Эксперты: человек никогда не сможет искоренить чуму](https://hi-tech.mail.ru/news/112616-chelovek-nikogda-ne-smozhet-iskorenit-chumu/) (Mail.ru)
@@ -3246,6 +3312,12 @@ Source: [News API](https://newsapi.org/)
 - [Aantal gevallen van apenpokken stijgt exponentieel in Congo, "maar niet meteen gevaar voor een wereldwijde pandemie"](https://www.vrt.be/vrtnws/nl/2024/07/23/apenpokken-stijging-gevallen-congolese-stad/) (Www.vrt.be)
 
 - [Man with mpox symptoms breached quarantine, gets jail](https://www.channelnewsasia.com/singapore/monkeypox-mpox-symptoms-man-breach-quarantine-jail-4498066) (CNA)
+
+- [RDC: hausse "exponentielle" de cas de variole du singe](https://fr.sputniknews.africa/20240721/rdc-hausse-exponentielle-de-cas-de-variole-du-singe-1067584154.html) (Sputniknews.africa)
+
+- [News24 | Hammanskraal pupil tests negative for mpox, Dept of Health confirms](https://www.news24.com/news24/southafrica/news/hammanskraal-pupil-tests-negative-for-mpox-dept-of-health-confirms-20240721) (News24)
+
+- [Huge rise in Mpox cases in DR Congo: govt](https://medicalxpress.com/news/2024-07-huge-mpox-cases-dr-congo.html) (Medical Xpress)
 
 ## 24-30 (meningitis)
 
@@ -3327,6 +3399,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Today’s top TV and streaming choices: Bishop Casey's Buried Secrets and Cillian Murphy in Anthropoid](https://www.independent.ie/entertainment/television/todays-top-tv-and-streaming-choices-bishop-caseys-buried-secrets-and-cillian-murphy-in-anthropoid/a1875837950.html) (Independent.ie)
 
+- [Health authorities concerned over imported malaria cases in Terengganu](https://www.thestar.com.my/news/nation/2024/07/21/health-authorities-concerned-over-imported-malaria-cases-in-terengganu) (The Star Online)
+
 ## 24-30 (leptospirosis)
 
 - [The silent spreader: Reassessing the role of mice in leptospirosis risk](https://phys.org/news/2024-07-silent-spreader-reassessing-role-mice.html) (Phys.Org)
@@ -3406,6 +3480,12 @@ Source: [News API](https://newsapi.org/)
 - [Разработана универсальная вакцина против гриппа](https://lenta.ru/news/2024/07/23/vaccine/) (Lenta)
 
 - [Testing transmission and infection of H5N1 from cows](https://www.nih.gov/news-events/nih-research-matters/testing-transmission-infection-h5n1-cows) (National Institutes of Health)
+
+- [Has the next pandemic already started?](https://www.aljazeera.com/opinions/2024/7/21/has-the-next-pandemic-already-started) (Al Jazeera English)
+
+- [Малоизученный и смертельный вирус распространяется по Индии, погибших уже 16](https://life.ru/p/1673935) (Life.ru)
+
+- [Универсальная вакцина против гриппа показала свою эффективность](https://www.ferra.ru/news/health/universalnaya-vakcina-protiv-grippa-pokazala-svoyu-effektivnost-20-07-2024.htm) (Ferra.ru)
 
 ## 24-30 (dengue)
 
@@ -3519,6 +3599,18 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Dengue cases up 17.7% in NegOcc, 3 deaths](https://rpnradio.com/bacolod-dengue-cases-up-17-7-in-negocc-3-deaths/) (Rpnradio.com)
 
+- [Use fogging sparingly to kill mosquitoes: Health services](https://timesofindia.indiatimes.com/city/goa/use-fogging-sparingly-to-kill-mosquitoes-health-services/articleshow/111908878.cms) (The Times of India)
+
+- [Comment les JO vont favoriser l’arrivée du moustique tigre en France](https://www.numerama.com/sciences/1774916-comment-les-jo-vont-favoriser-larrivee-du-moustique-tigre.html) (Numerama)
+
+- [Con acciones firmes e integrales Evelyn Salgado fortalece el combate al Dengue en Guerrero](https://www.elfinanciero.com.mx/estados/2024/07/21/con-acciones-firmes-e-integrales-evelyn-salgado-fortalece-el-combate-al-dengue-en-guerrero/) (El Financiero)
+
+- [Halálos csípések, hatalmas egészségügyi kiadások - a szúnyogok nem csak idegesítőek](https://www.origo.hu/gazdasag/2024/07/halalos-csipesek-egeszsegugyi-kiadasok-szunyogok-virusok-korokozok) (Origo.hu)
+
+- [Mosquitos: quién les atrae más, por qué y consejos para defenderse de forma eficaz](https://www.elmundo.es/ciencia-y-salud/salud/2024/07/21/669ce0d3fdddffd7838b4587.html) (El Mundo)
+
+- [Lombardei - Noch eine Tropenkrankheit in Italien! Mücken übertragen Oropouche-Virus](https://www.focus.de/gesundheit/ratgeber/lombardei-noch-eine-tropenkrankheit-in-italien-muecken-uebertragen-oropouche-virus_id_260156275.html) (Focus)
+
 ## 24-30 (chikungunya)
 
 - [The evolutionary and molecular history of a chikungunya virus outbreak lineage](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012349) (Plos.org)
@@ -3532,3 +3624,5 @@ Source: [News API](https://newsapi.org/)
 - [CEPI Expands Partnership with Valneva with a $41.3 Million Grant to Support Broader Access to the World’s First Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/07/22/2916253/0/en/CEPI-Expands-Partnership-with-Valneva-with-a-41-3-Million-Grant-to-Support-Broader-Access-to-the-World-s-First-Chikungunya-Vaccine.html) (GlobeNewswire)
 
 - [CEPI renforce son partenariat avec Valneva en lui octroyant un nouveau financement de $41,3 millions visant à accroître l’accessibilité du premier vaccin au monde contre le chikungunya](https://www.globenewswire.com/news-release/2024/07/22/2916253/0/fr/CEPI-renforce-son-partenariat-avec-Valneva-en-lui-octroyant-un-nouveau-financement-de-41-3-millions-visant-%C3%A0-accro%C3%AEtre-l-accessibilit%C3%A9-du-premier-vaccin-au-monde-contre-le-chikungu.html) (GlobeNewswire)
+
+- [Halálos csípések, hatalmas egészségügyi kiadások - a szúnyogok nem csak idegesítőek](https://www.origo.hu/gazdasag/2024/07/halalos-csipesek-egeszsegugyi-kiadasok-szunyogok-virusok-korokozok) (Origo.hu)
