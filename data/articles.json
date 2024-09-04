@@ -1,8 +1,620 @@
 {
-  "last_updated": "2024-09-04 07:06",
-  "count_articles_total": 1705,
-  "count_articles_new": 29,
+  "last_updated": "2024-09-04 19:05",
+  "count_articles_total": 1725,
+  "count_articles_new": 34,
   "articles": [
+    {
+      "id": 13016,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times News Network",
+      "title": "Eight trawler workers test positive for dengue",
+      "description": "Panaji: Eight trawler workers at Cutbona jetty have \ue814tested positive on the rapid test for dengue, the deputy \ue814director of health services and the in .",
+      "url": "https://timesofindia.indiatimes.com/city/goa/eight-trawler-workers-test-positive-for-dengue/articleshow/113039735.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-03 18:53:05",
+      "content": "8 morning habits that can help sharpen memory",
+      "retrievedAt": "2024-09-04 19:05:44.933757",
+      "internal_id": "102033edd8b0c9e81c50e0fad44666d5ff462083b24c543894ace095a6da37dc",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13012,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Nicole Hei\u00dfmann",
+      "title": "Pinguine bedroht: Die Vogelgrippe w\u00fctet in der Antarktis. Wie kam das Virus dorthin?",
+      "description": "Eine neue Studie rekonstruiert den Weg der Vogelgrippe Richtung S\u00fcdpol. Das Virus nutzte \"Trittsteine\" und reiste mit Tieren. Experten f\u00fcrchten nun um die gro\u00dfen Pinguin-Kolonien.",
+      "url": "https://www.stern.de/panorama/wissen/die-vogelgrippe-wuetet-in-der-antarktis--wie-kam-das-virus-dorthin--35034676.html",
+      "urlToImage": "https://image.stern.de/35034680/t/3w/v3/w1440/r1.7778/-/vogelgrippe-pinguine-antarktis-adelie-pinguin.jpg",
+      "publishedAt": "2024-09-03 18:43:00",
+      "content": "Bis vor wenigen Monaten galt die Antarktis noch als frei von der neuen Vogelgrippe: Zwar zirkuliert auch dort immer wieder Grippeviren allerdings nicht die aggressive und erst seit 2020 bekannte H5N1\u2026 [+6346 chars]",
+      "retrievedAt": "2024-09-04 19:05:44.534112",
+      "internal_id": "0ee4e18409c236d403f6d54385a4fda73d845d7fd9ecf2260755a7fc54afec36",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13032,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Publico.es",
+      "author": "eldiariocantabria.es",
+      "title": "Baja el ritmo de contagios de la viruela del mono sin que se registren casos de la nueva variante en la \u00faltima semana",
+      "description": "El Ministerio de Sanidad ha publicado este martes la actualizaci\u00f3n de la situaci\u00f3n epidemiol\u00f3gica de los casos de infecci\u00f3n por viruela del mono o mpox donde se registran 15 nuevos casos en esta semana, desde el 26 de agosto , lo que indica una...",
+      "url": "https://eldiariocantabria.publico.es/articulo/sanidad/baja-ritmo-contagios-viruela-mono-que-registren-casos-nueva-variante-ultima-semana/20240903203845162792.html",
+      "urlToImage": "https://eldiariocantabria.publico.es/media/eldiariocantabria/images/2022/07/23/2022072317122020934.png",
+      "publishedAt": "2024-09-03 18:38:45",
+      "content": "El Ministerio de Sanidad ha publicado este martes la actualizaci\u00f3n de la situaci\u00f3n epidemiol\u00f3gica de los casos de infecci\u00f3n por viruela del mono o mpox donde se registran 15 nuevos casos en esta sema\u2026 [+3660 chars]",
+      "retrievedAt": "2024-09-04 19:05:47.974995",
+      "internal_id": "445606178cc09ad8dca9323de7e0016a4ad3ede64a476df82609df81803116d2",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13009,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Gripe aviar se expande hasta la regi\u00f3n ant\u00e1rtica con casos en la fauna de las Islas Malvinas",
+      "description": "Forbes M\u00e9xico. Gripe aviar se expande hasta la regi\u00f3n ant\u00e1rtica con casos en la fauna de las Islas Malvinas Investigadores detectaron la presencia del virus de la gripe aviar en especies de aves y mam\u00edferos de las Islas Malvinas y Georgias del Sur. Gripe av\u2026",
+      "url": "https://www.forbes.com.mx/gripe-aviar-se-expande-hasta-la-region-antartica-con-casos-en-la-fauna-de-las-islas-malvinas/",
+      "urlToImage": "https://cdn.forbes.com.mx/2020/02/pinguinos-antartida-cambio-climatico-2.jpg",
+      "publishedAt": "2024-09-03 17:18:52",
+      "content": "La gripe aviar sigue expandi\u00e9ndose: un estudio recogido este martes en la revista Nature Communications informa de la detecci\u00f3n del virus H5N1 en varias especies de aves y mam\u00edferos de las regiones a\u2026 [+2986 chars]",
+      "retrievedAt": "2024-09-04 19:05:44.506642",
+      "internal_id": "112e0773105fe73bd877d0cd51cbb16ffbdd20ad2c6092f1053744577085c224",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13013,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bela Lobato",
+      "title": "Gripe avi\u00e1ria j\u00e1 \u00e9 detectada em animais na Ant\u00e1rtida",
+      "description": "Vindo da migra\u00e7\u00e3o de aves da Am\u00e9rica do Sul, o H5N1 se espalha rapidamente por ilhas ant\u00e1rticas, e representa \u2018medo de desastre ecol\u00f3gico\u2019. Entenda.",
+      "url": "https://super.abril.com.br/ciencia/gripe-aviaria-ja-e-detectada-em-animais-na-antartida",
+      "urlToImage": null,
+      "publishedAt": "2024-09-03 17:05:14",
+      "content": "Clique e Assine SUPER por R$ 9,90/m\u00easContinua ap\u00f3s publicidade Por Bela Lobato 3 set 2024, 14h05 A Ant\u00e1rtida, conhecida por seus ecossistemas \u00fanicos, passou muito tempo isolada de doen\u00e7as infecc\u2026 [+3331 chars]",
+      "retrievedAt": "2024-09-04 19:05:44.540323",
+      "internal_id": "160bdce34b16308b8bed2bae61bfa8aecbc01bac343ec34d90c6dffb5bc872ef",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13034,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "El Peri\u00f3dico",
+      "title": "Baja el ritmo de contagios de la viruela del mono: Espa\u00f1a registra solo 15 casos en la \u00faltima semana y ninguno de la nueva variante",
+      "description": "El Ministerio de Sanidad ha publicado este martes la actualizaci\u00f3n de la situaci\u00f3n epidemiol\u00f3gica de los casos de infecci\u00f3n por viruela del mono o mpox donde se registran 15 nuevos casos en esta semana, desde el 26 de agosto, lo que indica una bajada en el ri\u2026",
+      "url": "https://www.elperiodico.com/es/sociedad/20240903/baja-ritmo-contagios-mpox-viruela-mono-espana-107716606",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/8a48ee61-b012-4c65-9a6a-57041616f943_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-09-03 16:25:14",
+      "content": "ElMinisterio de Sanidadha publicado este martes la actualizaci\u00f3n de la situaci\u00f3n epidemiol\u00f3gica de los casos de infecci\u00f3n porviruela del mono o mpoxdonde se registran 15 nuevos casos en esta semana, \u2026 [+3656 chars]",
+      "retrievedAt": "2024-09-04 19:05:48.018408",
+      "internal_id": "449327d68af82231bb25fb639b700acb442ae76d5485ec1f96035767cef9d29b",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13022,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Disinfestazione a Venezia per caso di infezione virus Dengue",
+      "description": "Da domani, mercoled\u00ec 4 settembre, saranno effettuati dalla ditta specializzata incaricata del servizio di disinfestazione da parte dell'Ulss 3 \"Serenissima\" alcuni interventi di disinfestazione straordinaria a Venezia. (ANSA)",
+      "url": "https://www.ansa.it/veneto/notizie/2024/09/03/disinfestazione-a-venezia-per-caso-di-infezione-virus-dengue_87ac37fe-2dc8-4abe-a439-214873b04bf7.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/4/10/0a82144e4d21d015c63b8321f284948d.jpg",
+      "publishedAt": "2024-09-03 16:21:19",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-09-04 19:05:45.002891",
+      "internal_id": "6161d8c57d142328275ca9602990369e1b450d63ee90c4b83412be1f6887136a",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13036,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "EURACTIV",
+      "author": "Clara Bauer-Babef",
+      "title": "France updates mpox\u2019s vaccination strategy",
+      "description": "France has updated its vaccination recommendations in the face of a rise in mpox cases in Central Africa linked to the clade I and clade Ib variants, despite the low risk of the virus being introduced into the country.",
+      "url": "https://www.euractiv.com/section/health-consumers/news/france-updates-mpoxs-vaccination-strategy/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2024/09/shutterstock_2502895175-800x450.jpg",
+      "publishedAt": "2024-09-03 16:15:04",
+      "content": "France has updated its vaccination recommendations in the face of a rise in mpox cases in Central Africa linked to the clade I and clade Ib variants, despite the low risk of the virus being introduce\u2026 [+2213 chars]",
+      "retrievedAt": "2024-09-04 19:05:48.084006",
+      "internal_id": "fda2198a134cc7d7401580c01e4861776f3b4bac84e3a8501bb7c02625e561fb",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13011,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La gripe aviar se extiende a la regi\u00f3n ant\u00e1rtica: detectan fauna infectada en las Malvinas",
+      "description": "La zona ha permanecido aislada de muchas enfermedades que afectan a animales salvajes, pero el H5N1 parece haber roto ese aislamiento.",
+      "url": "https://www.montevideo.com.uy/Salud/La-gripe-aviar-se-extiende-a-la-region-antartica-detectan-fauna-infectada-en-las-Malvinas-uc899010",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202409/_W933_80/893565.jpg",
+      "publishedAt": "2024-09-03 15:56:00",
+      "content": "La gripe aviar sigue expandi\u00e9ndose. Un estudio recogido este martes en la revista Nature Communications informa de la detecci\u00f3n del virus H5N1 en varias especies de aves y mam\u00edferos de las regiones a\u2026 [+2803 chars]",
+      "retrievedAt": "2024-09-04 19:05:44.523492",
+      "internal_id": "745ed516dd14430a722d343008cf38d8d6d3d123a13a9b29d9cd90146f8f3344",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13038,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Baja el ritmo de contagios de la mpox, Sanidad registra solo 15 casos en la \u00faltima semana, ninguno de la nueva variante",
+      "description": "El Ministerio de Sanidad ha publicado este martes la actualizaci\u00f3n de la situaci\u00f3n epidemiol\u00f3gica de los casos de infecci\u00f3n por viruela del mono o mpox donde se registran 15 nuevos casos en esta semana, desde el 26 de agosto, lo que indica una bajada en el ri\u2026",
+      "url": "https://www.infosalus.com/actualidad/noticia-baja-ritmo-contagios-mpox-sanidad-registra-solo-15-casos-ultima-semana-ninguno-nueva-variante-20240903174611.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240903174611_1200.jpg",
+      "publishedAt": "2024-09-03 15:46:11",
+      "content": "MADRID, 3 Sep. (EUROPA PRESS) - El Ministerio de Sanidad ha publicado este martes la actualizaci\u00f3n de la situaci\u00f3n epidemiol\u00f3gica de los casos de infecci\u00f3n por viruela del mono o mpox donde se reg\u2026 [+3703 chars]",
+      "retrievedAt": "2024-09-04 19:05:48.109322",
+      "internal_id": "6e62dfa869f440b4261bbfb84a2cabf4f36137d8c4bb962da0a0441d4bc2cf23",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13010,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Annett Stein",
+      "title": "Vogelgrippe-Welle bedroht Tierwelt der Antarktis",
+      "description": "Es wurde seit Langem bef\u00fcrchtet, jetzt best\u00e4tigt es sich: Das H5N1-Virus hat die Antarktis erreicht. Dort sind die gro\u00dfen Vogel-Kolonien jetzt extrem gef\u00e4hrdet. Die Erreger der Vogelgrippe verbreiten sich dort schnell \u2013 und profitieren von der K\u00e4lte.",
+      "url": "https://www.welt.de/wissenschaft/article253332534/Bedrohte-Arten-Vogelgrippe-Welle-hat-die-Antarktis-erreicht-was-das-fuer-die-Pinguine-bedeutet.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile253337554/8857930937-ci16x9-w1200/Amazing-Crowd-of-King-Penguins-in-their-Nesting-Colony-on-East-Fa.jpg",
+      "publishedAt": "2024-09-03 15:34:25",
+      "content": "Es wurde seit Langem bef\u00fcrchtet, jetzt best\u00e4tigt es sich: Das H5N1-Virus hat die Antarktis erreicht. Dort sind die gro\u00dfen Vogel-Kolonien jetzt extrem gef\u00e4hrdet. Die Erreger der Vogelgrippe verbreiten\u2026 [+5007 chars]",
+      "retrievedAt": "2024-09-04 19:05:44.512624",
+      "internal_id": "1b6dbc1c3529c63b4c9db058bee6a24c3eea37a539dea160aeea568879bbdf3c",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13014,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Genanalyse weist Weg nach: Wie die Vogelgrippe in die Antarktis gelangte",
+      "description": "Die Vogelgrippe breitet sich immer weiter aus und gelangt sogar in die entlegensten Ecken der Erde. Somit war es nur eine Frage der Zeit, bis die verheerende Welle an Virus-Ausbr\u00fcchen auch die Antarktis erreicht. Forschende zeichnen nun den Weg von H5N1 nach \u2026",
+      "url": "https://www.n-tv.de/wissen/Wie-die-Vogelgrippe-in-die-Antarktis-gelangte-article25201846.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25201914/2661321500-cImg_16_9-w1200/235748266.jpg",
+      "publishedAt": "2024-09-03 15:10:48",
+      "content": "Die Vogelgrippe breitet sich immer weiter aus und gelangt sogar in die entlegensten Ecken der Erde. Somit war es nur eine Frage der Zeit, bis die verheerende Welle an Virus-Ausbr\u00fcchen auch die Antark\u2026 [+5021 chars]",
+      "retrievedAt": "2024-09-04 19:05:44.548461",
+      "internal_id": "f718f4fb7c89d52b7d9a629596c81629ad443fd8b524eaf9f8e36bae423b677c",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13035,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruna Sales",
+      "title": "Cidade de S\u00e3o Paulo registra 35 novos casos de mpox em uma semana",
+      "description": "Capital paulista chegou a 298 casos confirmados de mpox, segundo a Secretaria da Sa\u00fade. O balan\u00e7o considera o per\u00edodo at\u00e9 o dia 29 de agosto",
+      "url": "https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-registra-35-novos-casos-de-mpox-em-uma-semana",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/08/28102323/Feridas-da-mpox.jpg",
+      "publishedAt": "2024-09-03 15:07:27",
+      "content": "S\u00e3o Paulo A cidade de S\u00e3o Paulo registrou 298 casos confirmados de mpox de janeiro a 29 de agosto de 2024, de acordo com o \u00faltimo boletim epidemiol\u00f3gico da Secretaria Municipal da Sa\u00fade, divulgado ne\u2026 [+3186 chars]",
+      "retrievedAt": "2024-09-04 19:05:48.064366",
+      "internal_id": "11cf7a0d2b7ffafdfc368c10b1ddf50fdcec5d5b0ef8ef915f144101a99e89c3",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13030,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Mpox Detected In Iowa Correctional Facility",
+      "description": "Mpox, the virus formerly known as monkeypox, has been detected in an Iowa correctional facility. The virus can spread between both humans and animals via skin to skin contact according to the Centers for Disease Control and Prevention.",
+      "url": "https://www.shtfplan.com/headline-news/mpox-detected-in-iowa-correctional-facility",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2022/05/monkeypox.png",
+      "publishedAt": "2024-09-03 15:00:37",
+      "content": "Mpox, the virus formerly known as monkeypox, has been detected in an Iowa correctional facility. The virus can spread between both humans and animals via skin to skin contact according to the Centers\u2026 [+1812 chars]",
+      "retrievedAt": "2024-09-04 19:05:47.869583",
+      "internal_id": "14748a9ea2a76817cf7745c6f5f412d0d5ed36ec43681c750c6948ab8bba6c34",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13029,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Oscar Vermeer",
+      "title": "Minister Agema weigert mpox-vaccins naar Afrika te sturen, Kamer steunt spoeddebat",
+      "description": "Vaccins mpox-virus: Minister Agema (Volksgezondheid) wil geen vaccins naar Afrika sturen, tot frustratie van een deel van de Kamer. Dit is een \u201eeigen-vaccin-eerst-mentaliteit\u201d.",
+      "url": "https://www.nrc.nl/nieuws/2024/09/03/minister-agema-weigert-mpox-vaccins-naar-afrika-te-sturen-kamer-steunt-spoeddebat-a4864496",
+      "urlToImage": "https://images.nrc.nl/QMupf9RXiEy4GSJIvd8spHUecso=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data121220199-7c9765.jpg",
+      "publishedAt": "2024-09-03 15:00:24",
+      "content": "Internationaal samenwerken is de beste manier om de gezondheid van \u00e1lle Nederlanders te beschermen als het gaat om de uitbraak van een besmettelijke ziekte, zei D66-kamerlid Wieke Paulusma dinsdagmid\u2026 [+4341 chars]",
+      "retrievedAt": "2024-09-04 19:05:47.863592",
+      "internal_id": "0293745534005e5bb8d0486adef1cd122ece15916c35ca1cf502240541d2411f",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13021,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "Sanjana B & Aishwarya  Kumar",
+      "title": "Karnataka declares dengue as epidemic with cases crossing 25,000 mark",
+      "description": "Among all districts, Bengaluru recorded the highest number of dengue cases at 11,590, and three deaths, as of September 2",
+      "url": "https://www.thehindubusinessline.com/news/karnataka-declares-dengue-as-epidemic-with-cases-crossing-25000-mark/article68601774.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/s0p7s7/article68601926.ece/alternates/LANDSCAPE_1200/18_mn%20Fogging.jpg",
+      "publishedAt": "2024-09-03 14:59:35",
+      "content": "The Karnataka government has declared dengue fever an epidemic as the State recorded a total of 25,408 cases so far. A gazette notification circulated by the State Health and Family Welfare Departmen\u2026 [+1473 chars]",
+      "retrievedAt": "2024-09-04 19:05:44.996910",
+      "internal_id": "bc5a8773948fd7980c4ed1f989bd1cf0098f8e326f3655266719d9909ad6de66",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13039,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "J.C.",
+      "title": "D\u00e9cryptage. Mpox : pourquoi les recommandations sanitaires \u00e9voluent peu face \u00e0 la menace",
+      "description": "Face \u00e0 la flamb\u00e9e \u00e9pid\u00e9mique de mpox (auparavant appel\u00e9 \u00ab variole du singe \u00bb), la Haute Autorit\u00e9 de sant\u00e9 (HAS) n\u2019a que l\u00e9g\u00e8rement durci lundi ses recommandations sanitaires, sans \u00e9largir la population cible. La direction g\u00e9n\u00e9rale de la Sant\u00e9 a d\u00e9taill\u00e9 pourq\u2026",
+      "url": "https://www.ledauphine.com/sante/2024/09/03/mpox-pourquoi-les-recommandations-sanitaires-evoluent-peu-face-a-la-menace",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/18EACA5A-6B54-492A-98B2-69DCF3731F51/FB1200/photo-1725372851.jpg",
+      "publishedAt": "2024-09-03 14:35:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2024-09-04 19:05:48.115733",
+      "internal_id": "d03f8f17bb49fb77fcd23458fddb5450271cb9a4c8a8308be1cfb4745049ecfd",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13015,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Dengue : 11 cas autochtones dans le Var, pour un total de 29 cas en France hexagonale cette ann\u00e9e",
+      "description": "Les nouvaeaux cas se sont d\u00e9clar\u00e9s \u00e0 La Crau o\u00f9 une op\u00e9ration de \"d\u00e9moustication\" est en cours.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/dengue-11-cas-autochtones-dans-le-var-pour-un-total-de-29-cas-en-france-hexagonale-cette-annee_6760876.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/F1hvLw-lhiH86YzCbxFEAQ33RN8/260x530:4932x3161/1500x843/2024/08/22/maxnewsspecial859469-66c7481e5ae0c553406821.jpg",
+      "publishedAt": "2024-09-03 14:25:04",
+      "content": "Onze cas de dengue ont \u00e9t\u00e9 d\u00e9tect\u00e9s sur la commune de La Crau, dans le Var, a appris France Bleu Provence mardi 3 septembre, aupr\u00e8s de l'Agence r\u00e9gionale de sant\u00e9 de Provence-Alpes-C\u00f4te d'Azur (ARS P\u2026 [+1494 chars]",
+      "retrievedAt": "2024-09-04 19:05:44.927165",
+      "internal_id": "bba64a13e17a108a1d536f66195af8aeba1d7725a7d92ad53ec7e41bd2702ea8",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13033,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "Les \u00c9mirats arabes unis remettront des vaccins contre le mpox \u00e0 cinq pays africains",
+      "description": "Plusieurs avions transportant des vaccins ont \u00e9t\u00e9 envoy\u00e9s vers ces pays, selon un communiqu\u00e9 diffus\u00e9 par Abou Dabi. Le nombre des vaccins reste inconnu.",
+      "url": "https://fr.sputniknews.africa/20240903/les-emirats-arabes-unis-remettront-des-vaccins-contre-le-mpox-a-cinq-pays-africains-1068131542.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1068131542.jpg?10637837971725372988",
+      "publishedAt": "2024-09-03 14:16:28",
+      "content": "https://fr.sputniknews.africa/20240903/les-emirats-arabes-unis-remettront-des-vaccins-contre-le-mpox-a-cinq-pays-africains-1068131542.html Les \u00c9mirats arabes unis remettront des vaccins contre le mp\u2026 [+1856 chars]",
+      "retrievedAt": "2024-09-04 19:05:48.012237",
+      "internal_id": "9f02587cee1875c94abb86829cfbe35c2ef61dd8a360e1e0644fc043c8bba114",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13008,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Rabies Veterinary Vaccines Market Research Report 2024",
+      "description": "Dublin, Sept. 03, 2024 (GLOBE NEWSWIRE) -- The \"Rabies Veterinary Vaccines Market - Global Industry Size, Share, Trends, Opportunity & Forecast, 2019-2029F\" report has been added to ResearchAndMarkets.com's offering.Global Rabies Veterinary Vaccines Market wa\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/09/03/2939871/28124/en/Rabies-Veterinary-Vaccines-Market-Research-Report-2024.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2024-09-03 14:14:00",
+      "content": "Dublin, Sept. 03, 2024 (GLOBE NEWSWIRE) -- The \"Rabies Veterinary Vaccines Market - Global Industry Size, Share, Trends, Opportunity &amp; Forecast, 2019-2029F\" report has been added to ResearchAndMa\u2026 [+7016 chars]",
+      "retrievedAt": "2024-09-04 19:05:43.207948",
+      "internal_id": "af15c342b852461e9a39532e335096dd05958ee84f909bd5a130bc65eab69cc3",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13024,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Temesgen Ashine, Yehenew Asmamaw Ebstie, Rayyan Ibrahim, Adrienne Epstein, John Bradley, Mujahid Nouredayem, Mikiyas G. Michael, Amani Sidiahmed, Nigatu Negash, Abena Kochora, Jihad Eltaher Sulieman, Alison M. Reynolds, Eba Alemayehu, Endalew Zemene, Adane Eyasu, Alemayehu Dagne, Elifaged Hailemeskel, Fatou Jaiteh, Dereje Geleta, Ephrem Lejore, David Weetman, Ahmed Mahmoud Hussien, Fadwa Saad, Gudissa Assefa, Hiwot Solomon, Abdelgadir Bashir, Fekadu Massebo, Koen Peeters, Delenasaw Yewhalaw, Hmooda Toto Kafy, Martin J. Donnelly, Endalamaw Gadisa, Elfatih M. Malik, Anne L. Wilson",
+      "title": "Investigating the association between household exposure to Anopheles stephensi and malaria in Sudan and Ethiopia: A case-control study protocol",
+      "description": "Background Endemic African malaria vectors are poorly adapted to typical urban ecologies. However, Anopheles stephensi, an urban malaria vector formerly confined to South Asia and the Persian Gulf, was recently detected in Africa and may change the epidemiolo\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309058",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0309058.g001&size=inline",
+      "publishedAt": "2024-09-03 14:00:00",
+      "content": "Abstract Background Endemic African malaria vectors are poorly adapted to typical urban ecologies. However, Anopheles stephensi, an urban malaria vector formerly confined to South Asia and the Pers\u2026 [+37625 chars]",
+      "retrievedAt": "2024-09-04 19:05:46.135817",
+      "internal_id": "8bd5c2123bca6febdb073efb1ae5cd4add24c45a70a3a6a02ce2d4e6bc9ca118",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13027,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Maryanne Murray Buechner, UNICEF USA, \n Maryanne Murray Buechner, UNICEF USA\n https://www.forbes.com/sites/unicefusa/people/maryannebuechner/",
+      "title": "Mpox Threat Intensifies For Children In Africa",
+      "description": "UNICEF acts to protect vulnerable children and communities as the deadly, contagious viral disease continues to spread.",
+      "url": "https://www.forbes.com/sites/unicefusa/2024/09/03/mpox-threat-intensifies-for-children-in-africa/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66d71487f63abf259e5a3df1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-03 13:59:47",
+      "content": "UNICEF acts to protect vulnerable children and communities as the deadly, contagious viral disease continues to spread. Innocent Murula, a UNICEF-supported community outreach worker, works to raise \u2026 [+5868 chars]",
+      "retrievedAt": "2024-09-04 19:05:47.829967",
+      "internal_id": "6cee9397a4892b2f48981b4a663738a10cca7beb88c494ccdc5b12b4f1a2407d",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13031,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u0645\u0631\u06cc\u0645 \u0633\u0644\u0637\u0627\u0646\u06cc",
+      "title": "\u062a\u0634\u062f\u06cc\u062f \u0646\u0638\u0627\u0631\u062a \u062f\u0631 \u0645\u0631\u0632\u0647\u0627\u06cc \u0634\u0631\u0642\u06cc\u060c \u0628\u0631\u0627\u06cc \u062c\u0644\u0648\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0648\u0631\u0648\u062f \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646\u06cc \u0628\u0647 \u06a9\u0634\u0648\u0631",
+      "description": "\u0631\u0626\u06cc\u0633 \u06af\u0631\u0648\u0647 \u0628\u06cc\u0645\u0627\u0631\u06cc\u0647\u0627\u06cc \u0648\u0627\u06af\u06cc\u0631\u062f\u0627\u0631 \u0645\u0639\u0627\u0648\u0646\u062a \u0628\u0647\u062f\u0627\u0634\u062a \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u0645\u0634\u0647\u062f \u06af\u0641\u062a: \u067e\u0633 \u0627\u0632 \u0627\u0639\u0644\u0627\u0645 \u0648\u062c\u0648\u062f \u0628\u06cc\u0645\u0627\u0631\u06cc \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646\u06cc \u062f\u0631 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u060c \u062a\u0634\u062f\u06cc\u062f \u0645\u0631\u0627\u0642\u0628\u062a\u200c\u0647\u0627 \u062f\u0631 \u0645\u0631\u0632\u0647\u0627\u06cc \u06a9\u0634\u0648\u0631 \u0628\u0647 \u062e\u0635\u0648\u0635 \u0645\u0631\u0632\u0647\u0627\u06cc \u0634\u0631\u0642\u06cc\u060c \u062f\u0631 \u062f\u0633\u062a\u0648\u0631 \u06a9\u0627\u0631 \u0642\u0631\u0627\u0631 \u06af\u0631\u0641\u062a\u0647 \u0627\u0633\u062a.",
+      "url": "https://www.isna.ir/news/1403061308120/\u062a\u0634\u062f\u06cc\u062f-\u0646\u0638\u0627\u0631\u062a-\u062f\u0631-\u0645\u0631\u0632\u0647\u0627\u06cc-\u0634\u0631\u0642\u06cc-\u0628\u0631\u0627\u06cc-\u062c\u0644\u0648\u06af\u06cc\u0631\u06cc-\u0627\u0632-\u0648\u0631\u0648\u062f-\u0622\u0628\u0644\u0647-\u0645\u06cc\u0645\u0648\u0646\u06cc",
+      "urlToImage": "https://cdn.isna.ir/d/2024/08/17/4/63139001.jpg?ts=1723875733366",
+      "publishedAt": "2024-09-03 13:04:58",
+      "content": "/ : . : . : . : . . : . : . : (MPOX) () . . : . . : (DNA virus) . : . : . . : . : . . . : . . : . : . : #",
+      "retrievedAt": "2024-09-04 19:05:47.911363",
+      "internal_id": "a69b4332853d23f370bc889c9ed08347950b067b66522df36147838953f6b67d",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13025,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": null,
+      "title": "Inside an mpox outbreak",
+      "description": "Conflict is really impacting mpox struggle.",
+      "url": "https://www.aljazeera.com/program/between-us/2024/9/3/inside-an-mpox-outbreak",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/Mpox-OutbreakBus-16x9-copy-1725368170.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2024-09-03 12:59:29",
+      "content": "Between Us Read moreA new strain of the mpox virus is spreading rapidly within Africa and has been discovered in Asia and Europe. The World Health Organization has declared it a global health emerge\u2026 [+97 chars]",
+      "retrievedAt": "2024-09-04 19:05:47.812988",
+      "internal_id": "b768cc0250d8f98c8bd4123332a475bb9bf43ec9fe9582e67376fc1d77f93304",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13020,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Karnataka declares Dengue epidemic; Check fever symptoms, preventions and other details",
+      "description": "The Karnataka government has declared dengue an epidemic disease, implementing regulations to penalize those who fail to prevent mosquito breeding. The state has amended its Epidemic Diseases Regulation, 2020, to contain the spread. Preventive measures and ea\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/karnataka-declares-dengue-epidemic-check-fever-symptoms-preventions-and-other-details/articleshow/113028608.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113029050,width-1200,height-630,imgsize-48954,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-03 12:54:45",
+      "content": "Amid surge in case, the Karnataka government has notified dengue as an 'epidemic disease' and introduced regulations, which allow authorities to penalise those who disobey its orders or fail to take \u2026 [+2874 chars]",
+      "retrievedAt": "2024-09-04 19:05:44.981623",
+      "internal_id": "b10c532292ebd82056c5035cfa91a320fe2f7030c957b1a926670e641bb876a0",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13018,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Karnataka govt notifies dengue as 'epidemic disease'",
+      "description": "The Karnataka government has declared dengue as an epidemic disease and introduced regulations to curb its spread. Penalties have been set for households, commercial areas, and construction sites that fail to prevent mosquito breeding. The regulations mandate\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/karnataka-govt-notifies-dengue-as-epidemic-disease/articleshow/113028119.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113028416,width-1200,height-630,imgsize-718784,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-03 12:24:14",
+      "content": "The Karnataka government has notified dengue as an 'epidemic disease' and introduced regulations, which allow authorities to penalise those who disobey its orders or fail to take measures to stop bre\u2026 [+2680 chars]",
+      "retrievedAt": "2024-09-04 19:05:44.965087",
+      "internal_id": "2f1d1c582d32610454c01657e1a4001e9dc8a97591b92a092066eae4d14a535c",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13017,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Karnataka Declares Dengue An Epidemic, To Fine House, Shop Owners",
+      "description": "Karnataka, which is witnessing its worst dengue outbreak in a decade, has declared the disease an epidemic. As part of the measures, the state will levy penalties if rules meant for the curtailment of mosquito breeding sites are not followed.",
+      "url": "https://www.ndtv.com/india-news/karnataka-declares-dengue-an-epidemic-to-fine-house-shop-owners-6481079",
+      "urlToImage": "https://c.ndtvimg.com/2024-07/dsnbf6c8_lookout-for-these-symptoms-of-dengue_625x300_12_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-09-03 10:51:25",
+      "content": "The fines range from Rs 400 to Rs 2,000. Bengaluru: Karnataka, which is witnessing its worst dengue outbreak in a decade, has declared the disease an epidemic. As part of the measures, the state gov\u2026 [+2325 chars]",
+      "retrievedAt": "2024-09-04 19:05:44.954424",
+      "internal_id": "804e94c7540c66cc8d9988b8114fa61742d7ba8c5fb92542ec496937ad1a0eac",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13019,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Karnataka declares dengue an epidemic: Here are key guidelines and penalties you should know",
+      "description": "The Karnataka government has declared dengue an epidemic following a significant rise in cases. With 7,362 cases and seven deaths reported from January to July, the government has issued guidelines for prevention and penalties for non-compliance. Measures inc\u2026",
+      "url": "https://economictimes.indiatimes.com/news/bengaluru-news/karnataka-declares-dengue-an-epidemic-here-are-key-guidelines-and-penalties-you-should-know/articleshow/113020757.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113021698,width-1200,height-630,imgsize-48954,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-03 10:08:31",
+      "content": "The Karnataka government has officially declared dengue as an epidemic disease following a sharp increase in cases across the state. According to the Health Department, a total of 7,362 dengue cases \u2026 [+3126 chars]",
+      "retrievedAt": "2024-09-04 19:05:44.971263",
+      "internal_id": "acb9f36731fc705ce4bfc0e1658b5cdab4c02155004389097d7abb9fdaac894d",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13023,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "U Tejonmayam",
+      "title": "Higher temperatures lead to faster malaria transmission: Study",
+      "description": "A recent study indicates that climate change is shortening the incubation period of malaria parasites. Conducted in Chennai, the research found that increased indoor and outdoor temperatures, especially in asbestos-roofed structures, accelerate parasite devel\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/higher-temperatures-lead-to-faster-malaria-transmission-study/articleshow/113020562.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113021053,width-1070,height-580,imgsize-40876,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-03 09:56:23",
+      "content": "8 morning habits that can help sharpen memory",
+      "retrievedAt": "2024-09-04 19:05:46.119258",
+      "internal_id": "0408cde5fd20f1f877ed2c58233cbb9e7e42a2683d348fb7aece34da11aba3e4",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13007,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Feber.se",
+      "author": "Wille Wilhelmsson",
+      "title": "S\u00e4lar g\u00e5r till attack mot m\u00e4nniskor i Sydafrika",
+      "description": "Misst\u00e4nks bero p\u00e5 rabiesutbrott I Sydafrika har s\u00e4lar attackerat m\u00e4nniskor och varandra vid flera tillf\u00e4llen de senaste \u00e5ren. Det h\u00e4r h\u00f6r inte till s\u00e4larnas naturliga beteende och forskare misst\u00e4nker att attackerna beror p\u00e5 att s\u00e4larna har smittat\u2026",
+      "url": "https://feber.se/samhalle/salar-gar-till-attack-mot-manniskor-i-sydafrika/471343/",
+      "urlToImage": "https://static.feber.se/article_images/59/76/23/597623.jpg",
+      "publishedAt": "2024-09-03 09:00:00",
+      "content": "+ L\u00e4s artiklar f\u00f6re alla andra Kommentera f\u00f6re alla andra V\u00e4lj periodJu l\u00e4ngre period, desto b\u00e4ttre pris. Du best\u00e4mmer! M\u00e5nad 39 kr/m\u00e5n Kvartal 33 kr/m\u00e5n \u00c5r 25 kr/m\u00e5n V\u00e4lj hur du vill beta\u2026 [+39900 chars]",
+      "retrievedAt": "2024-09-04 19:05:43.182324",
+      "internal_id": "f285650f95e7e04fd24ce32732505a8ea5b7536de4c054809d785282cc7c6964",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13040,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041c\u0438\u0445\u0430\u0438\u043b \u041f\u043e\u0434\u0440\u0435\u0437\u043e\u0432",
+      "title": "\u0421\u043e\u0431\u0430\u043a\u0430 \u0441 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u0413\u043e\u0442\u043b\u0430\u043d\u0434 \u043f\u043e\u0434\u0445\u0432\u0430\u0442\u0438\u043b\u0430 \u0447\u0443\u043c\u043d\u0443\u044e \u043f\u0430\u043b\u043e\u0447\u043a\u0443 \u0431\u043e\u043b\u044c\u0448\u0435 4500 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434",
+      "description": "\u041d\u0435\u043c\u0435\u0446\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0435\u0449\u0435 \u0434\u0432\u0443\u0445 \u043b\u044e\u0434\u0435\u0439 \u044d\u043f\u043e\u0445\u0438 \u043f\u043e\u0437\u0434\u043d\u0435\u0433\u043e \u043d\u0435\u043e\u043b\u0438\u0442\u0430, \u0438\u043d\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0447\u0443\u043c\u043d\u043e\u0439 \u043f\u0430\u043b\u043e\u0447\u043a\u043e\u0439. \u0414\u041d\u041a \u043f\u0430\u0442\u043e\u0433\u0435\u043d\u0430 \u043e\u043d\u0438 \u043d\u0430\u0448\u043b\u0438 \u0432 \u043e\u0441\u0442\u0430\u043d\u043a\u0430\u0445 \u0434\u0432\u0443\u0445 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0435\u0439 \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0412\u0430\u0440\u0442\u0431\u0435\u0440\u0433, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0436\u0438\u043b\u0438 \u043e\u043a\u043e\u043b\u043e 5300\u20134900 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434. \u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u0441\u0442\u0430\u0442\u044c\u0435\u2026",
+      "url": "https://nplus1.ru/news/2024/09/03/yersinia-pestis-in-dog-remains",
+      "urlToImage": "https://minio.nplus1.ru/app-images/949375/66d5827e8761e_cover_share.jpeg",
+      "publishedAt": "2024-09-03 08:36:00",
+      "content": ", . , 53004900 . , , Communications Biology, , 49004500 . , (Yersinia pestis) . , . , , , 57005300 , . , , , . , -, 53005050 . , . , , . \u2026 [+308 chars]",
+      "retrievedAt": "2024-09-04 19:05:49.049471",
+      "internal_id": "2ca0fd61bd94b12d049dfe4388b4449627a14e19075797aa97b8a4bf9e3c042d",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13028,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Sarah Kartono, Niki Korteweg",
+      "title": "Hoe het mpox-virus Congo en buurlanden teistert",
+      "description": "In dertien Afrikaanse landen grijpt het mpox-virus om zich heen. Al meer dan vijfhonderd mensen zijn eraan overleden. Voor mensen met een slechte weerstand, zoals ouderen, zwangeren, kinderen en mensen met hiv, kan een infectie dodelijk zijn.",
+      "url": "https://www.nrc.nl/nieuws/2024/09/03/hoe-het-mpox-virus-congo-en-buurlanden-teistert-a4864350",
+      "urlToImage": "https://images.nrc.nl/CHvmTuyPLdL5C-6G95VO_MZm5yc=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2024/09/02105231/0209IBN_Mpox12.jpg",
+      "publishedAt": "2024-09-03 08:19:32",
+      "content": "Een nieuwe, besmettelijkere variant van het mpox-virus voorheen bekend als apenpokken wint in steeds meer delen van Afrika terrein. Deze stam, clade 1b, brak uit in een mijnregio in de Democratische \u2026 [+3622 chars]",
+      "retrievedAt": "2024-09-04 19:05:47.857711",
+      "internal_id": "5b818a2cde00e8d3125643328d101bcc030e27fb83282c16e6b27f2ffd65e196",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13026,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Shola Lawal",
+      "title": "Virus hunters: The scientists tracking deadly diseases in tough conditions",
+      "description": "Amid threats from mpox and new unknown viruses, how do epidemiologists track pathogens before a health crisis begins?",
+      "url": "https://www.aljazeera.com/features/2024/9/3/virus-hunters-the-scientists-tracking-deadly-diseases-in-tough-conditions",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/AP24232649230110-1-1725351285.jpg?resize=1200%2C630",
+      "publishedAt": "2024-09-03 07:45:22",
+      "content": "It was September 2017 at a teaching hospital in Nigerias southern state of Bayelsa. An 11-year-old boy came into the clinic with a fever, rash and lesions on his body. Infectious disease scientist a\u2026 [+15446 chars]",
+      "retrievedAt": "2024-09-04 19:05:47.819311",
+      "internal_id": "0e3ffafb1f88001363f699b4deb962bf6ed50ffbc7d72bad9bb0c4be24cdb306",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 13037,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Delphine Roucaute",
+      "title": "Mpox : le risque de constitution d\u2019un r\u00e9servoir animal hors d\u2019Afrique reste limit\u00e9",
+      "description": "Le danger d\u2019un passage du virus \u00e0 la faune domestique ou sauvage hors d\u2019Afrique, pris au s\u00e9rieux par les autorit\u00e9s sanitaires, est jug\u00e9 assez faible. M\u00eame si des cas de contamination de l\u2019homme vers l\u2019animal ont \u00e9t\u00e9 document\u00e9s.",
+      "url": "https://www.lemonde.fr/planete/article/2024/09/03/mpox-le-risque-de-constitution-d-un-reservoir-animal-hors-d-afrique-reste-limite_6302754_3244.html",
+      "urlToImage": "https://img.lemde.fr/2024/08/16/363/0/1088/725/1440/960/60/0/8897b95_2024-08-16t161848z-1352290507-rc22lv9s3z0f-rtrmadp-3-health-mpox.JPG",
+      "publishedAt": "2024-09-03 07:17:08",
+      "content": "La mpox est une zoonose : issue du monde animal, elle se transmet aux humains au d\u00e9tour de contacts sporadiques dans la brousse dans les pays africains, o\u00f9 elle est end\u00e9mique. Mais se pourrait-il que\u2026 [+2683 chars]",
+      "retrievedAt": "2024-09-04 19:05:48.089787",
+      "internal_id": "c8b56c0c70caa79f55bb07d38e82910f225207dc3b7b0d3648c64a08c41199cb",
+      "publishedAtLabel": "Sep 3"
+    },
     {
       "id": 13003,
       "query": [
@@ -30524,260 +31136,6 @@
       "content": "B. S. Girmay, S. A. Ayele, S. A. Abbas, S. S. Jang, E. Jung, J. S. Shin, S. B. Han and H. Kim, RSC Med. Chem., 2024, Advance Article , DOI: 10.1039/D4MD00240G To request permission to reproduce m\u2026 [+654 chars]",
       "retrievedAt": "2024-07-23 07:06:03.909418",
       "internal_id": "4b6746d9a21eb1ceb77f98b9d48e12e9fc346990fe50e7c5f2ca284b62a17eab",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11307,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Use fogging sparingly to kill mosquitoes: Health services",
-      "description": "Panaji: Fogging is not the solution to tackle dengue, deputy director of health services in charge of vector borne disease control, Dr Kalpana Mahatme.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/use-fogging-sparingly-to-kill-mosquitoes-health-services/articleshow/111908878.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-111908877,width-1070,height-580,imgsize-86334,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-07-21 18:39:07",
-      "content": "10 evening snacks made with oats",
-      "retrievedAt": "2024-07-22 19:05:49.521935",
-      "internal_id": "2aaf09e5697c876ae48ceb554f2e2f1cf9a00a2cc3398b94cee3b9d2a6c25d35",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11315,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Numerama",
-      "author": "\u00c9lodie Herv\u00e9",
-      "title": "Comment les JO vont favoriser l\u2019arriv\u00e9e du moustique tigre en France",
-      "description": "Alors que des touristes du monde entier sont attendus pour les Jeux olympiques organis\u00e9s \u00e0 Paris et Marseille, les autorit\u00e9s alertent sur les risques de dengue associ\u00e9s au moustique tigre. Ces derni\u00e8res semaines, le contexte politique aurait presque fait oubl\u2026",
-      "url": "https://www.numerama.com/sciences/1774916-comment-les-jo-vont-favoriser-larrivee-du-moustique-tigre.html",
-      "urlToImage": "https://www.numerama.com/wp-content/uploads/2024/07/moustique-tigre.jpg",
-      "publishedAt": "2024-07-21 18:35:00",
-      "content": "Alors que des touristes du monde entier sont attendus pour les Jeux olympiques organis\u00e9s \u00e0 Paris et Marseille, les autorit\u00e9s alertent sur les risques de dengue associ\u00e9s au moustique tigre. Ces derni\u2026 [+5758 chars]",
-      "retrievedAt": "2024-07-23 07:06:03.390343",
-      "internal_id": "5a0de76832e378fcc2f6bfa8a4ad06f86eb2c23d52fd0c314e94013de31d65b3",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11306,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": null,
-      "title": "Con acciones firmes e integrales Evelyn Salgado fortalece el combate al Dengue en Guerrero",
-      "description": "",
-      "url": "https://www.elfinanciero.com.mx/estados/2024/07/21/con-acciones-firmes-e-integrales-evelyn-salgado-fortalece-el-combate-al-dengue-en-guerrero/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/bU8zVXrIWqsnvlnw4j2bEIuU7ic=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/J3MLBBTXSVAYNNMM52C7VGDLY4.jpeg",
-      "publishedAt": "2024-07-21 15:55:29",
-      "content": "Con una inversi\u00f3n superior a los 54 millones de pesos, la gobernadora Evelyn Salgado Pineda dio el banderazo de salida a las nuevas brigadas de fumigaci\u00f3n por nebulizaci\u00f3n y termonebulizaci\u00f3n para fo\u2026 [+2588 chars]",
-      "retrievedAt": "2024-07-22 19:05:49.515846",
-      "internal_id": "c49359957e232f741b9ffe6b46ff269f684d8ed588aacd7d50616f9e1b3e6330",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11302,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "al-jazeera-english",
-      "source_name": "Al Jazeera English",
-      "author": "Ayoade Alakija",
-      "title": "Has the next pandemic already started?",
-      "description": "New cases of avian flu are raising alarm of a possible new pandemic. The world urgently needs to prepare.",
-      "url": "https://www.aljazeera.com/opinions/2024/7/21/has-the-next-pandemic-already-started",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/07/2024-07-13T024500Z_2058622535_RC21U8AV75SV_RTRMADP_3_HEALTH-BIRD-FLU-COLORADO-1721570069.jpg?resize=1920%2C1440",
-      "publishedAt": "2024-07-21 14:28:19",
-      "content": "In mid-July, the US state of Colorado reported six cases of avian flu or H5N1 in samples taken from poultry workers. This brought the national total to 10 cases confirmed by the US Centers for Diseas\u2026 [+5793 chars]",
-      "retrievedAt": "2024-07-22 19:05:48.967392",
-      "internal_id": "ecca42848c3daabbec5805f49ea90a99098cbd4fbefd5372fd5875540a62de61",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11313,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sputniknews.africa",
-      "author": "Maghreb Arabe Presse",
-      "title": "RDC: hausse \"exponentielle\" de cas de variole du singe",
-      "description": "Le nombre de cas de \"variole du singe\" (monkeypox, ou Mpox) enregistre \"une augmentation exponentielle\" en R\u00e9publique d\u00e9mocratique du Congo, a-t-on indiqu\u00e9 de source officielle \u00e0 Kinshasa.",
-      "url": "https://fr.sputniknews.africa/20240721/rdc-hausse-exponentielle-de-cas-de-variole-du-singe-1067584154.html",
-      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1067584154.jpg?10434704381721564945",
-      "publishedAt": "2024-07-21 12:29:04",
-      "content": "https://fr.sputniknews.africa/20240721/rdc-hausse-exponentielle-de-cas-de-variole-du-singe-1067584154.html RDC: hausse \"exponentielle\" de cas de variole du singe RDC: hausse \"exponentielle\" de cas \u2026 [+4043 chars]",
-      "retrievedAt": "2024-07-22 19:05:51.825380",
-      "internal_id": "1b35bc782cd18889d54f1cebc63c026424b8710849d21a1c5e913510f1e19b04",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11312,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "news24",
-      "source_name": "News24",
-      "author": "Cebelihle Mthethwa",
-      "title": "News24 | Hammanskraal pupil tests negative for mpox, Dept of Health confirms",
-      "description": "The Department of Health has confirmed that the Grade 1 pupil from Hammanskraal who was tested for mpox, has tested negative for the viral disease.",
-      "url": "https://www.news24.com/news24/southafrica/news/hammanskraal-pupil-tests-negative-for-mpox-dept-of-health-confirms-20240721",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11937/3f51c2c3ce7b424b9338ba253cd9e8a0.jpg",
-      "publishedAt": "2024-07-21 12:22:34",
-      "content": "The Grade One pupil from Hammanskraal has tested negative for mpox.The Gauteng Education Department last week confirmed that a pupil had been tested for mpox after displaying symptom\u2026 [+1866 chars]",
-      "retrievedAt": "2024-07-22 19:05:51.820078",
-      "internal_id": "2ca48dc961621ad3a7a257add5c82049a69a28f77691adb6317f1964f64f5b2c",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11311,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Business Standard",
-      "author": "Shine Jacob, Sohini Das",
-      "title": "Nipah claims one life in Kerala; Maharashtra reports 28 Zika cases in 2024",
-      "description": "On Sunday, the Union Health Ministry confirmed that a case of the Nipah virus has been detected in Malappuram district of Kerala",
-      "url": "https://www.business-standard.com/health/nipah-claims-one-life-in-kerala-maharashtra-reports-28-zika-cases-in-2024-124072100406_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/03/thumb/fitandfill/400X400/1717437881-6223.jpg",
-      "publishedAt": "2024-07-21 12:20:10",
-      "content": "On Sunday, the Union Health Ministry confirmed that a case of the Nipah virus has been detected in Malappuram district of Kerala Photo: Reuters Shine JacobSohini DasChennai/Mumbai Following the fi\u2026 [+5947 chars]",
-      "retrievedAt": "2024-07-22 19:05:50.788609",
-      "internal_id": "f028f83b5d533cae80e255c002f6353f8696ea014858e6e7377483163fd73cee",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11304,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Life.ru",
-      "author": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u0410\u0444\u043e\u043d\u0438\u043d\u0430",
-      "title": "\u041c\u0430\u043b\u043e\u0438\u0437\u0443\u0447\u0435\u043d\u043d\u044b\u0439 \u0438 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0432\u0438\u0440\u0443\u0441 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u043f\u043e \u0418\u043d\u0434\u0438\u0438, \u043f\u043e\u0433\u0438\u0431\u0448\u0438\u0445 \u0443\u0436\u0435 16",
-      "description": "\u041d\u043e\u0432\u0430\u044f \u0432\u0441\u043f\u044b\u0448\u043a\u0430 \u043c\u0430\u043b\u043e\u0438\u0437\u0443\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u0427\u0430\u043d\u0434\u0438\u043f\u0443\u0440\u0430 \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u0432 \u0448\u0442\u0430\u0442\u0435 \u0413\u0443\u0434\u0436\u0430\u0440\u0430\u0442 \u043d\u0430 \u0437\u0430\u043f\u0430\u0434\u0435 \u0418\u043d\u0434\u0438\u0438. \u0422\u0430\u043c \u0443\u0436\u0435 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 50 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f, \u0430 16 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u043f\u043e\u0433\u0438\u0431\u043b\u0438. \u041e\u0431 \u044d\u0442\u043e\u043c \u0437\u0430\u044f\u0432\u0438\u043b \u043c\u0438\u043d\u0438\u0441\u0442\u0440 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0448\u0442\u0430\u0442\u0430 \u0420\u0430\u0448\u0438\u043a\u0435\u0448 \u041f\u0430\u0442\u0435\u043b\u044c. \u0415\u0433\u043e \u0441\u043b\u043e\u0432\u0430 \u043f\u0440\u0438\u0432\u043e\u0434\u0438\u0442 \u0442\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b NDTV.\u0427\u0438\u0442\u0430\u0442\u044c \u0434\u2026",
-      "url": "https://life.ru/p/1673935",
-      "urlToImage": "https://static.life.ru/publications/2024/7/21/1483687598987.4995.webp",
-      "publishedAt": "2024-07-21 12:18:40",
-      "content": ". 50 , 16 . . NDTV. \" . [] 50 , 16 \", . 1965 . . , 2003 329 , 183 . . , , . . . , . . , , H5N1 . , .",
-      "retrievedAt": "2024-07-22 19:05:49.018443",
-      "internal_id": "806daba9a4d77ec36e4a566f232a6da421147a132f7852074c3794738d770ad3",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11314,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Medical Xpress",
-      "author": "Science X",
-      "title": "Huge rise in Mpox cases in DR Congo: govt",
-      "description": "The Democratic Republic of Congo is suffering an \"exponential rise\" in the number of monkeypox cases, the government said Saturday.",
-      "url": "https://medicalxpress.com/news/2024-07-huge-mpox-cases-dr-congo.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/monkeypox.jpg",
-      "publishedAt": "2024-07-21 11:56:21",
-      "content": "The Democratic Republic of Congo is suffering an \"exponential rise\" in the number of monkeypox cases, the government said Saturday. Government spokesperson Patrick Muyaya said the cumulative number \u2026 [+2086 chars]",
-      "retrievedAt": "2024-07-22 19:05:51.860559",
-      "internal_id": "8c91ea4cf5a3ff5455b3751a7bbe020e7aa2f25d68789bd5220e0fe005a5e4f7",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11309,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Origo.hu",
-      "author": "Origo",
-      "title": "Hal\u00e1los cs\u00edp\u00e9sek, hatalmas eg\u00e9szs\u00e9g\u00fcgyi kiad\u00e1sok - a sz\u00fanyogok nem csak ideges\u00edt\u0151ek",
-      "description": "A vil\u00e1g szinte minden r\u00e9sz\u00e9n jelen vannak sz\u00fanyogok, de az igaz\u00e1n aggaszt\u00f3, hogy egyre t\u00f6bb helyen bukkannak fel a vesz\u00e9lyes k\u00f3rokoz\u00f3kat terjeszt\u0151 fajok. Nemr\u00e9g megjelent egy olyan \u00e1tfog\u00f3 tanulm\u00e1ny, amilyen kor\u00e1bban m\u00e9g soha nem k\u00e9sz\u00fclt: sokkol\u00f3 sz\u00e1mok mutatj\u2026",
-      "url": "https://www.origo.hu/gazdasag/2024/07/halalos-csipesek-egeszsegugyi-kiadasok-szunyogok-virusok-korokozok",
-      "urlToImage": "https://cdn.origo.hu/2024/06/oEw-XnRAkye0-VmTfUBmrVcPYvb-0HIvFGn-ebLNcCg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y3ZDJhNTM0NTU1YjRiMGJhNGY4M2NkMWRhOTI3MjNi.webp",
-      "publishedAt": "2024-07-21 11:51:13",
-      "content": "Zika-v\u00edrus, mal\u00e1ria, chikungunya-, valamint dengue-l\u00e1z: veszedelmes k\u00f3rokoz\u00f3k illetve az azoknak k\u00f6sz\u00f6nhet betegs\u00e9gek, melyek megpr\u00f3b\u00e1ltat\u00e1st, st hal\u00e1lt okoznak a vil\u00e1g sz\u00e1mos pontj\u00e1n. A fertz\u00e9sek te\u2026 [+1989 chars]",
-      "retrievedAt": "2024-07-22 19:05:49.559785",
-      "internal_id": "9f3cd04fbe8e231d6d8ae5b971e1b7d78c4e33ad59f8375c9dbc1b1a361ef509",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11305,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "el-mundo",
-      "source_name": "El Mundo",
-      "author": "Elena Meli (Corriere della Sera)",
-      "title": "Mosquitos: qui\u00e9n les atrae m\u00e1s, por qu\u00e9 y consejos para defenderse de forma eficaz",
-      "description": "El cambio clim\u00e1tico y la globalizaci\u00f3n hacen que cada vez los mosquitos transmitan m\u00e1s enfermedades en Europa. Ejemplo de ello es el incremento de casos de dengue.",
-      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/07/21/669ce0d3fdddffd7838b4587.html",
-      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/b880987c5ab81a50927df6ebc42adc1d/crop/0x0/2776x1851/resize/1200/f/webp/assets/multimedia/imagenes/2024/03/14/17104076565160.jpg",
-      "publishedAt": "2024-07-21 10:58:23",
-      "content": "El cambio clim\u00e1tico y la globalizaci\u00f3n hacen que cada vez los mosquitos transmitan m\u00e1s enfermedades en Europa. Ejemplo de ello es el incremento de casos de dengue. Adem\u00e1s de preocuparnos por posibl\u2026 [+5878 chars]",
-      "retrievedAt": "2024-07-22 19:05:49.485113",
-      "internal_id": "f4aaf717c6f1f0f297f5dea9002230b8efbc747a2f4609aa1506afb4a81f3a6f",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11303,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Ferra.ru",
-      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
-      "title": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u0430\u044f \u0432\u0430\u043a\u0446\u0438\u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432 \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0430 \u0441\u0432\u043e\u044e \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c",
-      "description": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435, \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u043d\u043e\u0435 \u043f\u043e\u0434 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e\u043c \u041e\u0440\u0435\u0433\u043e\u043d\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0438 \u043d\u0430\u0443\u043a\u0438 (OHSU), \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u043e \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u043e\u0433\u0440\u0435\u0441\u0441 \u0432 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0438 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e\u0439 \u0432\u0430\u043a\u0446\u0438\u043d\u044b \u043f\u0440\u043e\u0442\u0438\u0432 \u0433\u0440\u0438\u043f\u043f\u0430, \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0439 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0442\u044c \u043f\u043e\u0436\u0438\u0437\u043d\u0435\u043d\u043d\u0443\u044e \u0437\u0430\u0449\u0438\u0442\u0443 \u043e\u0442 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e \u044d\u0432\u043e\u043b\u044e\u0446\u0438\u043e\u043d\u0438\u0440\u0443\u044e\u0449\u0435\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430.",
-      "url": "https://www.ferra.ru/news/health/universalnaya-vakcina-protiv-grippa-pokazala-svoyu-effektivnost-20-07-2024.htm",
-      "urlToImage": "https://www.ferra.ru/imgs/2024/07/20/11/6538517/85548b6f88d0d1e0f2552f057dee864f7abe8f4d.jpeg",
-      "publishedAt": "2024-07-21 10:30:26",
-      "content": ", , . OHSU , 1918 . , CMV, , , H5N1. , . , , , -. \u00ab - \u00bb. . .",
-      "retrievedAt": "2024-07-22 19:05:49.001639",
-      "internal_id": "4023743563e11e993b21ba3033fb4c95c158935a3e79aefd997461cd87593602",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11308,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "focus",
-      "source_name": "Focus",
-      "author": "FOCUS online",
-      "title": "Lombardei - Noch eine Tropenkrankheit in Italien! M\u00fccken \u00fcbertragen Oropouche-Virus",
-      "description": "Erst meldeten Beh\u00f6rden F\u00e4lle von Denguefieber am Gardasee, jetzt ist eine neue Tropenkrankheit in der Lombardei aufgetaucht. Seit Juni wurden mehrere F\u00e4lle des Oropouche-Virus in Italien gemeldet. \u00dcbertragen wird das Virus durch M\u00fccken. Was wir bisher \u00fcber da\u2026",
-      "url": "https://www.focus.de/gesundheit/ratgeber/lombardei-noch-eine-tropenkrankheit-in-italien-muecken-uebertragen-oropouche-virus_id_260156275.html",
-      "urlToImage": "https://p6.focus.de/img/regional/berlin/id_259844340/eine-muecke-saugt-blut-aus-dem-arm-eines-mannes..jpg?im=Crop%3D%280%2C208%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=8f7848051da06ba8c1eace2dc8c3b9e3d42a02d39e3b7e1682fdce518491c9a7",
-      "publishedAt": "2024-07-21 09:51:45",
-      "content": "Erst meldeten Beh\u00f6rden F\u00e4lle von Denguefieber am Gardasee, jetzt ist eine neue Tropenkrankheit in der Lombardei aufgetaucht. Seit Juni wurden mehrere F\u00e4lle des Oropouche-Virus in Italien gemeldet. \u00dcb\u2026 [+3028 chars]",
-      "retrievedAt": "2024-07-22 19:05:49.554541",
-      "internal_id": "da18ae131adf4caa03910a220b1833c6fb13d47b723c27a979af3d92e411c4c2",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11310,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Health authorities concerned over imported malaria cases in Terengganu",
-      "description": "JERTIH: The spread of malaria through imported cases in Terengganu is causing concern, with 24 cases recorded since the beginning of this year. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/07/21/health-authorities-concerned-over-imported-malaria-cases-in-terengganu",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/07/21/2814328.JPG",
-      "publishedAt": "2024-07-21 09:45:00",
-      "content": "JERTIH: The spread of malaria through imported cases in Terengganu is causing concern, with 24 cases recorded since the beginning of this year. Terengganu health director Datuk Dr Kasemani Embong sa\u2026 [+1496 chars]",
-      "retrievedAt": "2024-07-22 19:05:50.295760",
-      "internal_id": "5acdcc1fd871783742d0ad8529519d390f2d7e0ddc82dfc34ce32a86836b9406",
       "publishedAtLabel": "Jul 21"
     }
   ]
