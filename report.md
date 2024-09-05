@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 34
-- **Last harvest:** 2024-09-04 19:05
-- **Most recent article:** 2024-09-03 18:53:05
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-09-05 07:06
+- **Most recent article:** 2024-09-04 06:30:20
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-30 | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 13 | 26 | 139 | 292 | 208 | 207 | 56 | 941 |
-| dengue | 55 | 55 | 46 | 52 | 64 | 45 | 24 | 341 |
-| malaria | 14 | 15 | 16 | 19 | 27 | 28 | 5 | 124 |
-| h5n1 | 33 | 21 | 6 | 8 | 5 | 10 | 6 | 89 |
-| zika | 8 | 12 | 11 | 10 | 21 | 2 | 2 | 66 |
+| mpox | 16 | 26 | 139 | 292 | 208 | 207 | 67 | 955 |
+| dengue | 61 | 55 | 46 | 52 | 64 | 45 | 28 | 351 |
+| malaria | 15 | 15 | 16 | 19 | 27 | 28 | 7 | 127 |
+| h5n1 | 36 | 21 | 6 | 8 | 5 | 10 | 9 | 95 |
+| zika | 10 | 12 | 11 | 10 | 21 | 2 | 3 | 69 |
 | measles | 21 | 8 | 6 | 3 | 7 | 11 | 3 | 59 |
 | rabies | 8 | 12 | 8 | 12 | 6 | 3 | 3 | 52 |
-| chikungunya | 6 | 6 | 4 | 8 | 10 | 1 | 2 | 37 |
-| meningitis | 2 | 3 | 6 | 8 | 11 | 5 | 2 | 37 |
-| pertussis | 5 | 5 | 6 | 3 | 5 | 2 | 0 | 26 |
+| meningitis | 2 | 3 | 6 | 8 | 11 | 5 | 3 | 38 |
+| chikungunya | 7 | 6 | 4 | 8 | 10 | 1 | 2 | 38 |
+| pertussis | 5 | 5 | 6 | 3 | 5 | 2 | 1 | 27 |
 | hpai | 3 | 4 | 1 | 1 | 1 | 0 | 1 | 11 |
 | leptospirosis | 1 | 2 | 2 | 2 | 4 | 0 | 0 | 11 |
 | typhoid | 3 | 1 | 0 | 1 | 2 | 1 | 0 | 8 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-36 (zika)
+
+- [Natural Mosquito Repellents: 5 Kitchen Oils To Keep The Bugs Away](https://food.ndtv.com/food-drinks/natural-mosquito-repellents-6-kitchen-oils-to-keep-the-bugs-away-6486865) (NDTV News)
 
 - [Asiatische Tigermücke: Amtsarzt macht Tigermücken-Prävention](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/asiatische-tigermuecke--amtsarzt-macht-tigermuecken-praevention-35031188.html) (STERN.de)
 
@@ -51,7 +53,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabiesutbrott bland sälar i Sydafrika – attackerar människor](https://www.svt.se/nyheter/utrikes/rabiesutbrott-bland-salar-i-sydafrika-attackerar-manniskor) (Www.svt.se)
 
+## 24-36 (pertussis)
+
+- [‘Public health concern’: Significant rise in whooping cough cases prompts Victorian authorities to issue urgent alert to residents](https://www.skynews.com.au/lifestyle/health/public-health-concern-significant-rise-in-whooping-cough-cases-prompts-victorian-authorities-to-issue-urgent-alert-to-residents/news-story/a6f0b076d27c5186c2d168a865e6c60e) (Sky News Australia)
+
 ## 24-36 (mpox)
+
+- [Singapore to offer Mpox vaccine to high-risk healthcare workers and close contacts](https://www.theonlinecitizen.com/2024/09/04/singapore-to-offer-mpox-vaccine-to-high-risk-healthcare-workers-and-close-contacts/) (The Online Citizen)
+
+- [Mpox vaccine to be offered to healthcare workers at highest risk and close contacts of confirmed cases](https://www.channelnewsasia.com/singapore/mpox-vaccine-healthcare-workers-close-contacts-no-mask-wearing-4573951) (CNA)
+
+- [Ingresan a Cofepris trámite de registro para vacuna contra mpox](https://aristeguinoticias.com/0309/mexico/ingresan-a-cofepris-tramite-de-registro-para-vacuna-contra-mpox/) (Aristeguinoticias.com)
+
+- [More awareness needed on mpox](https://www.thestar.com.my/news/nation/2024/09/04/more-awareness-needed-on-mpox) (The Star Online)
+
+- [Fallece en México joven argentino a causa de mpox](https://aristeguinoticias.com/0309/mexico/fallece-en-mexico-joven-argentino-a-causa-de-mpox/) (Aristeguinoticias.com)
+
+- [Mpox : la vaccination n'est pas « nécessaire » pour les voyageurs](https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/mpox-la-vaccination-n-est-pas-necessaire-pour-les-voyageurs-1005511.html) (La Tribune.fr)
 
 - [Baja el ritmo de contagios de la viruela del mono sin que se registren casos de la nueva variante en la última semana](https://eldiariocantabria.publico.es/articulo/sanidad/baja-ritmo-contagios-viruela-mono-que-registren-casos-nueva-variante-ultima-semana/20240903203845162792.html) (Publico.es)
 
@@ -60,6 +78,10 @@ Source: [News API](https://newsapi.org/)
 - [France updates mpox’s vaccination strategy](https://www.euractiv.com/section/health-consumers/news/france-updates-mpoxs-vaccination-strategy/) (EURACTIV)
 
 - [Baja el ritmo de contagios de la mpox, Sanidad registra solo 15 casos en la última semana, ninguno de la nueva variante](https://www.infosalus.com/actualidad/noticia-baja-ritmo-contagios-mpox-sanidad-registra-solo-15-casos-ultima-semana-ninguno-nueva-variante-20240903174611.html) (Infosalus.com)
+
+- [Virus Mpox : Le vaccin n’est pas recommandé pour voyager dans les pays à risque](https://www.20minutes.fr/sante/4108194-20240903-virus-mpox-vaccin-recommande-voyager-pays-risque) (20 Minutes)
+
+- [SP lidera casos de mpox no país: como identificar se uma lesão pode ser sintoma?](https://www.terra.com.br/vida-e-estilo/saude/sp-lidera-casos-de-mpox-no-pais-como-identificar-se-uma-lesao-pode-ser-sintoma,4f0b8dfe771b6fa86cfa9a1f9c647b13dcq1gmgf.html) (Terra.com.br)
 
 - [Cidade de São Paulo registra 35 novos casos de mpox em uma semana](https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-registra-35-novos-casos-de-mpox-em-uma-semana) (Metropoles.com)
 
@@ -71,11 +93,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Les Émirats arabes unis remettront des vaccins contre le mpox à cinq pays africains](https://fr.sputniknews.africa/20240903/les-emirats-arabes-unis-remettront-des-vaccins-contre-le-mpox-a-cinq-pays-africains-1068131542.html) (Sputniknews.africa)
 
+- [Vaccin contre le mpox : « L’urgence est d’augmenter les capacités de production »](https://theconversation.com/vaccin-contre-le-mpox-lurgence-est-daugmenter-les-capacites-de-production-237784) (The Conversation Africa)
+
 - [Mpox Threat Intensifies For Children In Africa](https://www.forbes.com/sites/unicefusa/2024/09/03/mpox-threat-intensifies-for-children-in-africa/) (Forbes)
 
 - [تشدید نظارت در مرزهای شرقی، برای جلوگیری از ورود آبله میمونی به کشور](https://www.isna.ir/news/1403061308120/تشدید-نظارت-در-مرزهای-شرقی-برای-جلوگیری-از-ورود-آبله-میمونی) (Isna.ir)
 
 - [Inside an mpox outbreak](https://www.aljazeera.com/program/between-us/2024/9/3/inside-an-mpox-outbreak) (Al Jazeera English)
+
+- [Tuesday, September 3, 2024](https://kffhealthnews.org/morning-briefing/tuesday-september-3-2024/) (Kffhealthnews.org)
+
+- [FOTO: Opičí neštovice v Kongu. Pacienti si propichují puchýřky, aby ulevili bolesti](https://www.novinky.cz/clanek/zahranicni-svet-foto-opici-nestovice-v-kongu-pacienti-si-propichuji-puchyrky-aby-ulevili-bolesti-40486532) (Novinky.cz)
 
 - [Hoe het mpox-virus Congo en buurlanden teistert](https://www.nrc.nl/nieuws/2024/09/03/hoe-het-mpox-virus-congo-en-buurlanden-teistert-a4864350) (Www.nrc.nl)
 
@@ -167,6 +195,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-36 (meningitis)
 
+- [Luis Canut, marido de Patricia Pérez, se afilia a la ONCE y muestra las secuelas de su enfermedad: 'Ciego, feliz y orgulloso'](https://www.hola.com/actualidad/20240903716225/luis-canut-once-ciego-feliz-patricia-perez/) (Hola)
+
 - [Perú confirma un caso de meningitis y otros posibles afectados en Amazonía](https://elmercurio.com.ec/2024/09/01/ministerio-salud-caso-meningitis-peru-region-amazonica-loreto-enfermedad-brote/) (Elmercurio.com.ec)
 
 - [Perú confirma un caso de meningitis y seguimiento de otros posibles afectados en Amazonía](https://www.montevideo.com.uy/Salud/Peru-confirma-un-caso-de-meningitis-y-seguimiento-de-otros-posibles-afectados-en-Amazonia-uc898845) (Montevideo.com.uy)
@@ -180,6 +210,10 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1145: Heartbeats and hoofbeats](https://www.microbe.tv/twiv/twiv-1145/) (Microbe.tv)
 
 ## 24-36 (malaria)
+
+- [Binance CEO Calls Out ‘Inhumane Treatment’ Of Gambaryan After Alarming New Video](https://bitcoinist.com/binance-ceo-calls-out-inhumane-treatment-of-exe/) (Bitcoinist)
+
+- [Natural Mosquito Repellents: 5 Kitchen Oils To Keep The Bugs Away](https://food.ndtv.com/food-drinks/natural-mosquito-repellents-6-kitchen-oils-to-keep-the-bugs-away-6486865) (NDTV News)
 
 - [Investigating the association between household exposure to Anopheles stephensi and malaria in Sudan and Ethiopia: A case-control study protocol](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309058) (Plos.org)
 
@@ -197,6 +231,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-36 (h5n1)
 
+- [Die Vogelgrippe breitet sich aus: Millionen von Vögeln sind bedroht](https://taz.de/Die-Vogelgrippe-breitet-sich-aus/!6031174/) (taz.de)
+
+- [Bird flu reaches cows in California, the country’s largest milk producer](https://arstechnica.com/science/2024/09/bird-flu-reaches-cows-in-california-the-countrys-largest-milk-producer/) (Ars Technica)
+
+- [H5N1 bird flu is spreading across Antarctica, posing new threat to Australia](https://www.9news.com.au/world/bird-flu-antarctica/735be217-a970-4a58-996a-34bcf0c872c4) (9News)
+
 - [Pinguine bedroht: Die Vogelgrippe wütet in der Antarktis. Wie kam das Virus dorthin?](https://www.stern.de/panorama/wissen/die-vogelgrippe-wuetet-in-der-antarktis--wie-kam-das-virus-dorthin--35034676.html) (STERN.de)
 
 - [Gripe aviar se expande hasta la región antártica con casos en la fauna de las Islas Malvinas](https://www.forbes.com.mx/gripe-aviar-se-expande-hasta-la-region-antartica-con-casos-en-la-fauna-de-las-islas-malvinas/) (Forbes.com.mx)
@@ -210,6 +250,14 @@ Source: [News API](https://newsapi.org/)
 - [Genanalyse weist Weg nach: Wie die Vogelgrippe in die Antarktis gelangte](https://www.n-tv.de/wissen/Wie-die-Vogelgrippe-in-die-Antarktis-gelangte-article25201846.html) (N-tv.de)
 
 ## 24-36 (dengue)
+
+- [Natural Mosquito Repellents: 5 Kitchen Oils To Keep The Bugs Away](https://food.ndtv.com/food-drinks/natural-mosquito-repellents-6-kitchen-oils-to-keep-the-bugs-away-6486865) (NDTV News)
+
+- [Cebu: DUGANG DUHA KA KINABUHI NAKALAS SA DAKBAYAN SA MANDAUE TUNGOD SA DENGUE](https://rpnradio.com/cebu-dugang-duha-ka-kinabuhi-nakalas-sa-dakbayan-sa-mandaue-tungod-sa-dengue/) (Rpnradio.com)
+
+- [Karnataka declares dengue epidemic; fines for mosquito breeding spots at homes, shops](https://timesofindia.indiatimes.com/city/bengaluru/mosquito-breeding-spots-in-bengaluru-can-draw-fine-up-to-rs-2k/articleshow/113047078.cms) (The Times of India)
+
+- [As mosquito-borne illnesses spread, here's how to tell West Nile, dengue and EEE apart](https://abcnews.go.com/Health/mosquito-borne-illnesses-spread-west-nile-dengue-eee/story?id=113344406) (ABC News)
 
 - [Eight trawler workers test positive for dengue](https://timesofindia.indiatimes.com/city/goa/eight-trawler-workers-test-positive-for-dengue/articleshow/113039735.cms) (The Times of India)
 
@@ -3479,6 +3527,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Discovery and structure–activity relationship study of novel isoxazole-based small molecules targeting Zika virus infections](https://pubs.rsc.org/en/content/articlelanding/2024/md/d4md00240g) (Royal Society of Chemistry)
 
+- [Nipah claims one life in Kerala; Maharashtra reports 28 Zika cases in 2024](https://www.business-standard.com/health/nipah-claims-one-life-in-kerala-maharashtra-reports-28-zika-cases-in-2024-124072100406_1.html) (Business Standard)
+
+- [Halálos csípések, hatalmas egészségügyi kiadások - a szúnyogok nem csak idegesítőek](https://www.origo.hu/gazdasag/2024/07/halalos-csipesek-egeszsegugyi-kiadasok-szunyogok-virusok-korokozok) (Origo.hu)
+
 ## 24-30 (yersinia)
 
 - [Эксперты: человек никогда не сможет искоренить чуму](https://hi-tech.mail.ru/news/112616-chelovek-nikogda-ne-smozhet-iskorenit-chumu/) (Mail.ru)
@@ -3550,6 +3602,12 @@ Source: [News API](https://newsapi.org/)
 - [Aantal gevallen van apenpokken stijgt exponentieel in Congo, "maar niet meteen gevaar voor een wereldwijde pandemie"](https://www.vrt.be/vrtnws/nl/2024/07/23/apenpokken-stijging-gevallen-congolese-stad/) (Www.vrt.be)
 
 - [Man with mpox symptoms breached quarantine, gets jail](https://www.channelnewsasia.com/singapore/monkeypox-mpox-symptoms-man-breach-quarantine-jail-4498066) (CNA)
+
+- [RDC: hausse "exponentielle" de cas de variole du singe](https://fr.sputniknews.africa/20240721/rdc-hausse-exponentielle-de-cas-de-variole-du-singe-1067584154.html) (Sputniknews.africa)
+
+- [News24 | Hammanskraal pupil tests negative for mpox, Dept of Health confirms](https://www.news24.com/news24/southafrica/news/hammanskraal-pupil-tests-negative-for-mpox-dept-of-health-confirms-20240721) (News24)
+
+- [Huge rise in Mpox cases in DR Congo: govt](https://medicalxpress.com/news/2024-07-huge-mpox-cases-dr-congo.html) (Medical Xpress)
 
 ## 24-30 (meningitis)
 
@@ -3631,6 +3689,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Today’s top TV and streaming choices: Bishop Casey's Buried Secrets and Cillian Murphy in Anthropoid](https://www.independent.ie/entertainment/television/todays-top-tv-and-streaming-choices-bishop-caseys-buried-secrets-and-cillian-murphy-in-anthropoid/a1875837950.html) (Independent.ie)
 
+- [Health authorities concerned over imported malaria cases in Terengganu](https://www.thestar.com.my/news/nation/2024/07/21/health-authorities-concerned-over-imported-malaria-cases-in-terengganu) (The Star Online)
+
 ## 24-30 (leptospirosis)
 
 - [The silent spreader: Reassessing the role of mice in leptospirosis risk](https://phys.org/news/2024-07-silent-spreader-reassessing-role-mice.html) (Phys.Org)
@@ -3710,6 +3770,12 @@ Source: [News API](https://newsapi.org/)
 - [Разработана универсальная вакцина против гриппа](https://lenta.ru/news/2024/07/23/vaccine/) (Lenta)
 
 - [Testing transmission and infection of H5N1 from cows](https://www.nih.gov/news-events/nih-research-matters/testing-transmission-infection-h5n1-cows) (National Institutes of Health)
+
+- [Has the next pandemic already started?](https://www.aljazeera.com/opinions/2024/7/21/has-the-next-pandemic-already-started) (Al Jazeera English)
+
+- [Малоизученный и смертельный вирус распространяется по Индии, погибших уже 16](https://life.ru/p/1673935) (Life.ru)
+
+- [Универсальная вакцина против гриппа показала свою эффективность](https://www.ferra.ru/news/health/universalnaya-vakcina-protiv-grippa-pokazala-svoyu-effektivnost-20-07-2024.htm) (Ferra.ru)
 
 ## 24-30 (dengue)
 
@@ -3823,6 +3889,18 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Dengue cases up 17.7% in NegOcc, 3 deaths](https://rpnradio.com/bacolod-dengue-cases-up-17-7-in-negocc-3-deaths/) (Rpnradio.com)
 
+- [Use fogging sparingly to kill mosquitoes: Health services](https://timesofindia.indiatimes.com/city/goa/use-fogging-sparingly-to-kill-mosquitoes-health-services/articleshow/111908878.cms) (The Times of India)
+
+- [Comment les JO vont favoriser l’arrivée du moustique tigre en France](https://www.numerama.com/sciences/1774916-comment-les-jo-vont-favoriser-larrivee-du-moustique-tigre.html) (Numerama)
+
+- [Con acciones firmes e integrales Evelyn Salgado fortalece el combate al Dengue en Guerrero](https://www.elfinanciero.com.mx/estados/2024/07/21/con-acciones-firmes-e-integrales-evelyn-salgado-fortalece-el-combate-al-dengue-en-guerrero/) (El Financiero)
+
+- [Halálos csípések, hatalmas egészségügyi kiadások - a szúnyogok nem csak idegesítőek](https://www.origo.hu/gazdasag/2024/07/halalos-csipesek-egeszsegugyi-kiadasok-szunyogok-virusok-korokozok) (Origo.hu)
+
+- [Mosquitos: quién les atrae más, por qué y consejos para defenderse de forma eficaz](https://www.elmundo.es/ciencia-y-salud/salud/2024/07/21/669ce0d3fdddffd7838b4587.html) (El Mundo)
+
+- [Lombardei - Noch eine Tropenkrankheit in Italien! Mücken übertragen Oropouche-Virus](https://www.focus.de/gesundheit/ratgeber/lombardei-noch-eine-tropenkrankheit-in-italien-muecken-uebertragen-oropouche-virus_id_260156275.html) (Focus)
+
 ## 24-30 (chikungunya)
 
 - [The evolutionary and molecular history of a chikungunya virus outbreak lineage](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012349) (Plos.org)
@@ -3836,3 +3914,5 @@ Source: [News API](https://newsapi.org/)
 - [CEPI Expands Partnership with Valneva with a $41.3 Million Grant to Support Broader Access to the World’s First Chikungunya Vaccine](https://www.globenewswire.com/news-release/2024/07/22/2916253/0/en/CEPI-Expands-Partnership-with-Valneva-with-a-41-3-Million-Grant-to-Support-Broader-Access-to-the-World-s-First-Chikungunya-Vaccine.html) (GlobeNewswire)
 
 - [CEPI renforce son partenariat avec Valneva en lui octroyant un nouveau financement de $41,3 millions visant à accroître l’accessibilité du premier vaccin au monde contre le chikungunya](https://www.globenewswire.com/news-release/2024/07/22/2916253/0/fr/CEPI-renforce-son-partenariat-avec-Valneva-en-lui-octroyant-un-nouveau-financement-de-41-3-millions-visant-%C3%A0-accro%C3%AEtre-l-accessibilit%C3%A9-du-premier-vaccin-au-monde-contre-le-chikungu.html) (GlobeNewswire)
+
+- [Halálos csípések, hatalmas egészségügyi kiadások - a szúnyogok nem csak idegesítőek](https://www.origo.hu/gazdasag/2024/07/halalos-csipesek-egeszsegugyi-kiadasok-szunyogok-virusok-korokozok) (Origo.hu)
