@@ -1,8 +1,444 @@
 {
-  "last_updated": "2024-09-07 07:06",
-  "count_articles_total": 1866,
-  "count_articles_new": 15,
+  "last_updated": "2024-09-07 19:05",
+  "count_articles_total": 1876,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 13174,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "\u09b8\u09cc\u09b0\u09ad \u09b9\u09cb\u09b8\u09c7\u09a8 \u09b8\u09bf\u09df\u09be\u09ae",
+      "title": "\u0986\u0997\u09cd\u09a8\u09c7\u09df\u09be\u09b8\u09cd\u09a4\u09cd\u09b0 \u099c\u09ae\u09be \u09a6\u09c7\u09a8\u09a8\u09bf \u09b6\u09be\u09ae\u09c0\u09ae \u0993\u09b8\u09ae\u09be\u09a8 \u0993 \u09a4\u09be\u09b0 \u09aa\u09b0\u09bf\u09ac\u09be\u09b0\u09c7\u09b0 \u09b8\u09a6\u09b8\u09cd\u09af\u09b0\u09be",
+      "description": "\u0997\u09a4 \u09e7\u09ef \u099c\u09c1\u09b2\u09be\u0987 \u09a8\u09be\u09b0\u09be\u09df\u09a3\u0997\u099e\u09cd\u099c \u09b6\u09b9\u09b0\u09c7\u09b0 \u09ac\u0999\u09cd\u0997\u09ac\u09a8\u09cd\u09a7\u09c1 \u09b8\u09dc\u0995\u09c7 \u0995\u09cb\u099f\u09be \u09b8\u0982\u09b8\u09cd\u0995\u09be\u09b0\u09c7\u09b0 \u09a6\u09be\u09ac\u09bf\u09a4\u09c7 \u0986\u09a8\u09cd\u09a6\u09cb\u09b2\u09a8\u0995\u09be\u09b0\u09c0 \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09b0\u09cd\u09a5\u09c0\u09a6\u09c7\u09b0 \u0993\u09aa\u09b0 \u0997\u09c1\u09b2\u09bf \u099a\u09be\u09b2\u09bf\u09df\u09c7\u099b\u09bf\u09b2\u09c7\u09a8 \u09b6\u09be\u09ae\u09c0\u09ae \u0993\u09b8\u09ae\u09be\u09a8 \u0993 \u09a4\u09be\u09b0 \u09ac\u09be\u09b9\u09bf\u09a8\u09c0\u0964",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/news-612141",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/08/24/shameem_osman.jpg",
+      "publishedAt": "2024-09-06 19:03:28",
+      "content": "Amid a dearth of local government representatives, anti-mosquito campaigns have become irregular which according to experts may lead to a deadly dengue outbreak very soon.",
+      "retrievedAt": "2024-09-07 19:05:25.049301",
+      "internal_id": "a105a906492035a941e4d404097ec2b1285608c80269fc8d23f0bebb667e493c",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13186,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / RDG",
+      "title": "Sector Salud inicia capacitaci\u00f3n sobre detecci\u00f3n y atenci\u00f3n de mpox",
+      "description": "La Secretar\u00eda de Salud recomend\u00f3 a la poblaci\u00f3n adoptar medidas preventivas como lavarse las manos frecuentemente, cubrir nariz y boca al estornudar o toser, evitar compartir utensilios, usar mascarilla m\u00e9dica, y limpiar y desinfectar los espacios en los que \u2026",
+      "url": "https://aristeguinoticias.com/0609/mexico/sector-salud-inicia-capacitacion-sobre-deteccion-y-atencion-de-mpox/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/mpox-viruela-mono-salud-virs-variante-oms-suecia-rdc-150824.jpg",
+      "publishedAt": "2024-09-06 18:49:41",
+      "content": "[S\u00edguenos ahora tambi\u00e9n en WhatsApp. Da clic aqu\u00ed] La Secretar\u00eda de Salud inform\u00f3 que inici\u00f3 un curso de capacitaci\u00f3n virtual sobre mpox, dirigido a mil 600 profesionales de la salud en todo el pa\u00eds\u2026 [+2833 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.866543",
+      "internal_id": "20cc688926a1193ad459fb6a39e70a91f3f305adbeeb1022217c7155e58897ae",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13191,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Neolithic bones reveal isolated Yersinia pestis infections, not pandemics",
+      "description": "Since the catastrophic pandemics of the Middle Ages, one disease has almost proverbially symbolized contagion and death: the plague. It is now known that the plague bacterium Yersinia pestis has been present in Central and Northern Europe for more than 5,000 \u2026",
+      "url": "https://phys.org/news/2024-09-neolithic-bones-reveal-isolated-yersinia.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/study-shows-possible-i.jpg",
+      "publishedAt": "2024-09-06 17:38:04",
+      "content": "Since the catastrophic pandemics of the Middle Ages, one disease has almost proverbially symbolized contagion and death: the plague. It is now known that the plague bacterium Yersinia pestis has been\u2026 [+4022 chars]",
+      "retrievedAt": "2024-09-07 19:05:27.604785",
+      "internal_id": "238e511542aedfd055b762ce1e896f3560fbd4196789e26a3029d02d770b5f75",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13187,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Jennifer Furin, Nesar Hamraz and Eddy Jonas",
+      "title": "What It\u2019s Like to Respond to Mpox in Africa Right Now",
+      "description": "Mpox patients in Burundi need more support, write doctors Jennifer Furin, Nesar Hamraz, and Eddy Jonas.",
+      "url": "https://time.com/7017631/mpox-outbreak-africa-burundi-doctors-essay/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/09/mpox-africa-doctor-patients-line.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-09-06 17:23:19",
+      "content": "It was early morning in Burundi when one of our patients set out for the hospital, her baby strapped to her back and her sick four-year-old son cradled in her arms. When her little boys itchy sores s\u2026 [+7580 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.964221",
+      "internal_id": "915a063125aeab2a4385f638d898f0ff150691ac3da589911ec7219f2ed54c82",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13170,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "Pkarp/ToL",
+      "title": "Chiny wstrzymuj\u0105 import polskiego drobiu",
+      "description": "W zwi\u0105zku z wyst\u0105pieniem ogniska wysoce zjadliwej odmiany ptasiej grypy H5N1 w Polsce chi\u0144ska Generalna Administracja Celna i Ministerstwo Rolnictwa i Rozwoju Wsi podj\u0119\u0142y decyzj\u0119 o wprowadzeniu zakazu importu produkt\u00f3w drobiowych. Poprzednie embargo zosta\u0142o z\u2026",
+      "url": "https://tvn24.pl/biznes/z-kraju/chiny-wstrzymuja-import-polskiego-drobiu-st8075277",
+      "urlToImage": "https://tvn24.pl/biznes/najnowsze/cdn-zdjecie6f33457b5abdf6e607cb124a07e7597e-z-polski-na-wegry-przyjechalo-10-7-tys-ton-miesa-drobiowego-4403615/alternates/LANDSCAPE_1280",
+      "publishedAt": "2024-09-06 17:16:57",
+      "content": "W zwizku z wystpieniem ogniska wysoce zjadliwej odmiany ptasiej grypy H5N1 w Polsce chiska Generalna Administracja Celna i Ministerstwo Rolnictwa i Rozwoju Wsi podjy decyzj o wprowadzeniu zakazu impo\u2026 [+5299 chars]",
+      "retrievedAt": "2024-09-07 19:05:24.467625",
+      "internal_id": "bd695ec47e6e4fe36661a5e2d72525527fea6cb2a9c55f47d46828a46c568551",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13185,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mpox: autoridades de sa\u00fade lan\u00e7am plano para \u00c1frica de 541 milh\u00f5es de euros at\u00e9 fevereiro",
+      "description": "\"O \u00c1frica CDC e a OMS lan\u00e7aram esta sexta-feira um plano continental de resposta em \u00c1frica, para apoiar os esfor\u00e7os dos pa\u00edses na conten\u00e7\u00e3o do cont\u00e1gio do v\u00edrus, e para proteger e salvar vidas\".",
+      "url": "https://observador.pt/2024/09/06/mpox-autoridades-de-saude-lancam-plano-para-africa-de-541-milhoes-de-euros-ate-fevereiro/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1127%3Anowe%3A0%3A204%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F09%2F06174359%2F43509681.jpg",
+      "publishedAt": "2024-09-06 17:14:03",
+      "content": "O Centro Africano para o Controlo e Preven\u00e7\u00e3o de Doen\u00e7as (Africa CDC) e a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) criaram um plano continental de resposta \u00e0 monkeypox (mpox), no valor de 600 milh\u00f5es de d\u00f3\u2026 [+2524 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.860131",
+      "internal_id": "2449fb5baadab3c9a4f47a059c20eea40edc9d0e97373257bb87bd2aa17f7863",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13171,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Monique Steele and Sally Murphy",
+      "title": "Bird flu eradication in NZ unlikely if it arrives, MPI says - focus is on \u2018reducing impact\u2019",
+      "description": "MPI says it is focused on mitigating the impact of any H5N1 outbreak.",
+      "url": "https://www.nzherald.co.nz/the-country/news/bird-flu-mpi-says-eradication-unlikely-focus-on-reducing-impact-if-it-arrives-in-nz/OTEZG4I5N5H2JCFMF4C4TFOJGQ/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/TMAIFFKUDJDRVFVLUZETJRAKMY.jpg?auth=abd8490b79806791a7cd61b0beeae050966d5d85e4b71d31478d1b79b3b9189c&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-09-06 17:00:00",
+      "content": "New genetic research confirmed that wild birds migrating from South America first brought the H5N1 strain to an island off mainland Antarctica - and to the Falkland Islands - which then rapidly sprea\u2026 [+2405 chars]",
+      "retrievedAt": "2024-09-07 19:05:24.496814",
+      "internal_id": "648c76c05b81822eb1e6f5454904c23a16e628cfced02336bc7b3b95ee9683c8",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13168,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Businessinsider.com.pl",
+      "author": null,
+      "title": "Chiny zn\u00f3w zakaza\u0142y importu drobiu z Polski. Przez ptasi\u0105 gryp\u0119",
+      "description": "W zwi\u0105zku z wyst\u0105pieniem ogniska wysoce zjadliwej odmiany ptasiej grypy H5N1 w Polsce chi\u0144ska Generalna Administracja Celna i Ministerstwo Rolnictwa i Rozwoju Wsi podj\u0119\u0142y decyzj\u0119 o wprowadzeniu zakazu importu produkt\u00f3w drobiowych \u2014 poinformowa\u0142 w pi\u0105tek porta\u2026",
+      "url": "https://businessinsider.com.pl/gospodarka/chiny-znow-zakazaly-importu-drobiu-z-polski-przez-ptasia-grype/tjnpqkd",
+      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/LLjk9kpTURBXy9kYjU5MGE5N2Q5OTQyMWY0YWVjYWFhYWMxYmU4MTNmMi5qcGeSlQMAPs0H0M0EZZMFzQSwzQJ23gABoTAB",
+      "publishedAt": "2024-09-06 16:47:22",
+      "content": "Chiskie suby poinformoway w komunikacie, e 23 sierpnia 2024 r. Polska zgosia wiatowej Organizacji Zdrowia Zwierzt wystpienie ogniska wysoce zjadliwej grypy ptak\u00f3w (HPAI) podtypu H5N1 w wojew\u00f3dztwie l\u2026 [+1055 chars]",
+      "retrievedAt": "2024-09-07 19:05:24.172550",
+      "internal_id": "90278c08e35f4293ec7e857fd53c947a3267ad084a6d453559bf5fbafe7d3842",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13169,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Bankier.pl",
+      "author": "Redaktor Bankier.pl",
+      "title": "Chiny zakaza\u0142y importu drobiu z Polski. Powodem ptasia grypa",
+      "description": "W zwi\u0105zku z wyst\u0105pieniem ogniska wysoce zjadliwej odmiany ptasiej grypy H5N1 w Polsce chi\u0144ska Generalna Administracja Celna i Ministerstwo Rolnictwa i Rozwoju Wsi podj\u0119\u0142y decyzj\u0119 o wprowadzeniu zakazu importu produkt\u00f3w drobiowych - poinformowa\u0142 w pi\u0105tek porta\u2026",
+      "url": "https://www.bankier.pl/wiadomosc/Chiny-zakazaly-importu-drobiu-z-Polski-Powodem-ptasia-grypa-8808140.html",
+      "urlToImage": "https://galeria.bankier.pl/p/8/8/5dd90310d84e50-948-568-0-67-1000-600.jpg",
+      "publishedAt": "2024-09-06 16:40:09",
+      "content": "W zwizku z wystpieniem ogniska wysoce zjadliwej odmiany ptasiej grypy H5N1 w Polsce chiska Generalna Administracja Celna i Ministerstwo Rolnictwa i Rozwoju Wsi podjy decyzj o wprowadzeniu zakazu impo\u2026 [+1458 chars]",
+      "retrievedAt": "2024-09-07 19:05:24.401441",
+      "internal_id": "bdc86a0a719c5751986e9e52a6b99c6cdf347e4f6c1e69058f15046666c9053d",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13188,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MONIKA PRONCZUK Associated Press",
+      "title": "WHO and Africa CDC launch a response plan to the mpox outbreak",
+      "description": "The Africa Center for Disease Control and Prevention and the World Health Organization have launched a continent-wide response plan to the outbreak of mpox",
+      "url": "https://abcnews.go.com/International/wireStory/africa-cdc-launch-response-plan-mpox-outbreak-113461376",
+      "urlToImage": "https://i.abcnewsfe.com/a/2a1d4469-c7b3-4399-8b34-44ddccf95f7d/wirestory_3cc38727dc1f546f43d80b72b0277c6d_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-06 16:22:30",
+      "content": "DAKAR, Senegal -- The Africa Center for Disease Control and Prevention and the World Health Organization launched on Friday a continent-wide response plan to the outbreak of mpox, three weeks after W\u2026 [+2912 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.988460",
+      "internal_id": "8877221cb14c3e981ed103cccbdfad87191cf2bb948604999b9e0c94b2ee92ce",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13181,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "MOHD FARHAAN SHAH",
+      "title": "Mass screening for mpox",
+      "description": "JOHOR BARU: Some 5.2 million travellers have been screened for monkeypox (mpox) at international entry points nationwide since Aug 16, said Datuk Seri Dr Dzulkefly Ahmad. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/09/07/mass-screening-for-mpox",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/09/07/2900245.JPG",
+      "publishedAt": "2024-09-06 16:00:00",
+      "content": "JOHOR BARU: Some 5.2 million travellers have been screened for monkeypox (mpox) at international entry points nationwide since Aug 16, said Datuk Seri Dr Dzulkefly Ahmad. Some 46 cases of suspected \u2026 [+1273 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.724071",
+      "internal_id": "a31ed0add78bb46874e532a0cfad03891a3b6de6e431d50ef3e0ffd9f8dc54fd",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13189,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Tombol a hal\u00e1los j\u00e1rv\u00e1ny: g\u00e1l\u00e1ns aj\u00e1nd\u00e9k \u00e9rkezett",
+      "description": "A Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1g cs\u00fct\u00f6rt\u00f6k\u00f6n megkapta az els\u0151 mpox vakcinasz\u00e1ll\u00edtm\u00e1nyt, amely v\u00e1rhat\u00f3an seg\u00edt megf\u00e9kezni a j\u00e1rv\u00e1ny terjed\u00e9s\u00e9t. Az ENSZ kor\u00e1bban glob\u00e1lis k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi v\u00e9szhelyzetet hirdetett a hal\u00e1los betegs\u00e9g miatt.",
+      "url": "https://www.portfolio.hu/global/20240906/tombol-a-halalos-jarvany-galans-ajandek-erkezett-708275",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/j/a/r/jarvany-virus-vakcina-majomhimlo-egeszseg-oltas-pandemia-699171.jpg",
+      "publishedAt": "2024-09-06 15:34:00",
+      "content": "A Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1g a j\u00e1rv\u00e1ny epicentruma, ahonnan a k\u00f3r \u00e1tterjedt a szomsz\u00e9dos orsz\u00e1gokra \u00e9s m\u00e1s r\u00e9gi\u00f3kra is. Az afrikai olt\u00f3anyaghi\u00e1ny azonban eddig akad\u00e1lyozta a j\u00e1rv\u00e1ny meg\u00e1ll\u00edt\u00e1s\u00e1r\u2026 [+1880 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.994340",
+      "internal_id": "bb1572698f860138abc4f38f956710bddc252dfd155265d9e74e39f9e990bd95",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13177,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Ag\u00eancia Fapesp",
+      "title": "Neuroinflama\u00e7\u00e3o gerada pelo v\u00edrus zika aumenta risco de crian\u00e7a ter transtorno do espectro autista",
+      "description": "Por meio de testes em animais e experimentos com minic\u00e9rebros, pesquisadores da USP e do Instituto Pasteur investigaram como a infec\u00e7\u00e3o pode alterar o funcionamento do sistema nervoso em forma\u00e7\u00e3o The post Neuroinflama\u00e7\u00e3o gerada pelo v\u00edrus zika aumenta risco d\u2026",
+      "url": "https://gizmodo.uol.com.br/neuroinflamacao-gerada-pelo-virus-zika-aumenta-risco-de-crianca-ter-transtorno-do-espectro-autista/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/09/zika-fapesp-0.jpg",
+      "publishedAt": "2024-09-06 15:26:40",
+      "content": "Texto: Ag\u00eancia FAPESP Estudo conduzido por pesquisadores do Instituto de Ci\u00eancias Biom\u00e9dicas da Universidade de S\u00e3o Paulo (ICB-USP) e do Institut Pasteur de S\u00e3o Paulo (IPSP) mostrou, pela primeira v\u2026 [+3669 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.050382",
+      "internal_id": "a5404897e56376de3a927faa87d567bc48b3fefeac509d0e04682fc0c789e378",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13175,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Antibody-like molecule shows promise for broad-spectrum malaria therapy",
+      "description": "Scientists at La Trobe University have discovered a new antibody-like molecule that could be used in therapy to prevent infection from multiple malaria parasite species.",
+      "url": "https://phys.org/news/2024-09-antibody-molecule-broad-spectrum-malaria.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/breakthrough-for-broad.jpg",
+      "publishedAt": "2024-09-06 15:02:16",
+      "content": "Scientists at La Trobe University have discovered a new antibody-like molecule that could be used in therapy to prevent infection from multiple malaria parasite species. The research, recently publi\u2026 [+4238 chars]",
+      "retrievedAt": "2024-09-07 19:05:25.770922",
+      "internal_id": "a3f209d1071609ce8abbb53d49d86d1a1f6ebc67b41b3aa967d86e7a020dc362",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13178,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Roll Call",
+      "author": "Ariel Cohen",
+      "title": "Health agencies scramble to prepare for new mpox strain...",
+      "description": "A new strain of mpox has public health officials preparing for the possibility of its spread in the United States.",
+      "url": "https://rollcall.com/2024/09/05/health-agencies-scramble-to-prepare-for-new-mpox-strain/",
+      "urlToImage": "https://rollcall.com/app/uploads/2024/09/crop222-1-2.jpeg",
+      "publishedAt": "2024-09-06 14:46:37",
+      "content": "State and federal health agencies are gearing up to respond to a new strain of mpox the virus formerly known as monkeypox if the new strain spreads to the United States. But this time, they are d\u2026 [+5050 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.683192",
+      "internal_id": "da6d387fe2dab6ba401b70c2de4599f36fb8d76fb7c7b0c74e9dcbf2f560f638",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13176,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Michaela S. Bulloch, Long K. Huynh, Kit Kennedy, Julie E. Ralton, Malcolm J. McConville, Stuart A. Ralph",
+      "title": "Apicoplast-derived isoprenoids are essential for biosynthesis of GPI protein anchors, and consequently for egress and invasion in Plasmodium falciparum",
+      "description": "Author summary The plastid apicoplast organelle of the malaria parasite Plasmodium falciparum has long been recognised as a drug target. However, the downstream metabolic pathways have not been fully elucidated. In this study we inhibited apicoplast function \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012484",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012484.g007&size=inline",
+      "publishedAt": "2024-09-06 14:00:00",
+      "content": "Citation: Bulloch MS, Huynh LK, Kennedy K, Ralton JE, McConville MJ, Ralph SA (2024) Apicoplast-derived isoprenoids are essential for biosynthesis of GPI protein anchors, and consequently for egress \u2026 [+63008 chars]",
+      "retrievedAt": "2024-09-07 19:05:25.787196",
+      "internal_id": "e4b1cdde958aeb885d554e1d5a992dc51636f9cda57bb1b960031e2e41fc9898",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13184,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Apinya Wipatayotin",
+      "title": "B21 million approved for mpox vaccines",
+      "description": "The Department of Disease Control (DDC) has allocated a budget of 21 million baht to purchase 3,000 doses of mpox vaccine.",
+      "url": "https://www.bangkokpost.com/thailand/general/2860827/b21-million-approved-for-mpox-vaccines",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20240906/c1_2860827_240906202935_700.jpg",
+      "publishedAt": "2024-09-06 13:30:00",
+      "content": "The Department of Disease Control (DDC) has allocated a budget of 21 million baht to purchase 3,000 doses of mpox vaccine. The MVA-BN vaccine from Denmark is expected to arrive in four months and wi\u2026 [+1760 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.818807",
+      "internal_id": "4e75f818fd9417e7c0d60eead18c3a83765b7dcf157db1c6bb385e8182fd0386",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13173,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Techtarget.com",
+      "author": "Veronica Salib",
+      "title": "Understanding significant mosquito-borne diseases",
+      "description": "Common mosquito-borne illnesses, such as Zika virus, West Nile virus, Chikungunya virus, dengue, and malaria, pose public health threats for various communities.",
+      "url": "https://www.techtarget.com/pharmalifesciences/feature/Understanding-significant-mosquito-borne-diseases",
+      "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/pharma_g1418835107.jpg",
+      "publishedAt": "2024-09-06 13:03:00",
+      "content": "As several West Nile and dengue cases emerge across the United States, more patients are being impacted by mosquito-borne diseases. Despite being some of the smallest animals, mosquitos and the illne\u2026 [+7807 chars]",
+      "retrievedAt": "2024-09-07 19:05:25.009472",
+      "internal_id": "2943e6bde4190c8aba9fb0eae5dea792932ffa9b450548dc6316bb954f9e1a38",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13179,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Project Syndicate",
+      "author": "Gordon Brown",
+      "title": "The High Cost of the Netherlands\u2019 Mpox Vaccine Hoarding",
+      "description": "Despite the World Health Organization\u2019s urgent plea for Western countries to send unused mpox vaccines to combat the outbreak in Africa, Geert Wilders\u2019s far-right party, now in government, has refused to release the country\u2019s stockpile. This ugly and destruct\u2026",
+      "url": "https://www.project-syndicate.org/commentary/netherlands-vaccine-hoarding-undermines-global-mpox-response-by-gordon-brown-2024-09",
+      "urlToImage": "https://webapi.project-syndicate.org/library/b97acf4523b3f4a6330a82035c9c2b46.2-1-super.1.jpg",
+      "publishedAt": "2024-09-06 12:35:47",
+      "content": "Despite the World Health Organizations urgent plea for Western countries to send unused mpox vaccines to combat the outbreak in Africa, Geert Wilderss far-right party, now in government, has refused \u2026 [+6644 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.702871",
+      "internal_id": "1cf8b2a04867c43924232f8cc788c97ee2348d970ed33671c46491e9cc5185dc",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13190,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Nieves Salinas",
+      "title": "Viruela del mono: los m\u00e9dicos actualizan el diagn\u00f3stico de las lesiones en la piel para adaptarlo a la nueva variante",
+      "description": "La Federaci\u00f3n de Asociaciones Cient\u00edfico M\u00e9dicas Espa\u00f1olas (FACME) ha actualizado el documento 'Diagn\u00f3stico diferencial de las lesiones cut\u00e1neas de mpox' para adaptarlo a la nueva variante del virus. Una gu\u00eda que est\u00e1 dirigida espec\u00edficamente a los m\u00e9dicos pa\u2026",
+      "url": "https://www.elperiodico.com/es/sociedad/20240906/viruela-mono-medicos-actualizan-diagnostico-107825002",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/cacdbccc-affb-4e39-b306-91c8b1caed07_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-09-06 11:33:20",
+      "content": "La Federaci\u00f3n de Asociaciones Cient\u00edfico M\u00e9dicas Espa\u00f1olas (FACME) ha actualizado el documento 'Diagn\u00f3stico diferencial de las lesiones cut\u00e1neas de mpox' para adaptarlo a la nueva variante del virus.\u2026 [+3725 chars]",
+      "retrievedAt": "2024-09-07 19:05:27.000453",
+      "internal_id": "c3c3b205bc5018ba4454ec56ea6c57c7ee7d47d5a0bdf3983afee465b1c6ab30",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13182,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Pharmaceutical Technology",
+      "author": "Eve Thomas",
+      "title": "As mpox spreads, \u2018national governments have a moral responsibility to help\u2019",
+      "description": "Representatives of the WHO and the IFRC called for international cooperation to tackle the current mpox outbreak.",
+      "url": "https://www.pharmaceutical-technology.com/news/as-mpox-spreads-national-governments-have-a-moral-responsibility-to-help/",
+      "urlToImage": "https://media.zenfs.com/en/pharmaceutical_technology_376/8b407e00733629611dadc7aab4dfaa22",
+      "publishedAt": "2024-09-06 09:52:34",
+      "content": "As the number of mpox-related deaths in the Democratic Republic of Congo (DRC) and neighbouring countries continues to climb, international cooperation is needed to recognise the global risk posed by\u2026 [+3388 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.734294",
+      "internal_id": "ee666851b872bdb53270c9de3cebdabc5e0b3ebf798e5a7e040d098a9f856d4c",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13172,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Pushpa Narayan",
+      "title": "Chennai genome sequencing facility to analyse dengue virus: Health minister",
+      "description": "Chennai's whole genome sequencing facility, initially set up for Covid-19 analysis, will now focus on the dengue virus. Health Minister Ma Subramanian announced that the lab is equipped and ready to start work next week. Tamil Nadu has seen a rise in dengue c\u2026",
+      "url": "https://timesofindia.indiatimes.com/chennai/chennai-genome-sequencing-facility-to-analyse-dengue-virus-health-minister/articleshow/113121613.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113122562,width-1070,height-580,imgsize-582369,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-06 09:27:36",
+      "content": "Laung benefits: Healthy reasons to eat 1 clove everyday",
+      "retrievedAt": "2024-09-07 19:05:24.962215",
+      "internal_id": "7707a385ef83f560e81fc741f745ddae2dca9b665ba147f47d9538ccc0301ad7",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13183,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Thenation.com",
+      "author": "Gregg Gonsalves",
+      "title": "The Mpox Outbreak Is a Damning Indictment of the Global Health System",
+      "description": "Gregg Gonsalves The inequalities and injustices in our medical infrastructure have made the outbreak so much worse than it could have been. The post The Mpox Outbreak Is a Damning Indictment of the Global Health System appeared first on The Nation.",
+      "url": "https://www.thenation.com/article/world/mpox-outbreak-2024-explainer/",
+      "urlToImage": "https://www.thenation.com/wp-content/uploads/2024/09/GettyImages-2169643545.jpg",
+      "publishedAt": "2024-09-06 09:00:00",
+      "content": "World / September 6, 2024 The inequalities and injustices in our medical infrastructure have made the outbreak so much worse than it could have been. Ad Policy A mother holds her son as he receive\u2026 [+7018 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.762175",
+      "internal_id": "ebf3f510cbe004ddc4e63f327f5bc059bbaab9cefcbc734346dc8308cfc0ba28",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13180,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Parliament to discuss Mobile Guardian breach, extremist preacher and mpox",
+      "description": "MPs have also filed questions on the revamped Gifted Education Programme.",
+      "url": "https://www.channelnewsasia.com/singapore/parliament-order-paper-sep-9-mobile-guardian-mpox-gep-extremist-preacher-4590736",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--spjFzsYE--/c_crop,h_840,w_1494,x_5,y_139/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/03/sya_7027.jpg?itok=P3p-OXIz",
+      "publishedAt": "2024-09-06 07:09:50",
+      "content": "SINGAPORE: Members of Parliament will discuss the Mobile Guardian cybersecurity breach at the next sitting on Monday (Sep 9), as well as issues relating to the extremist preacher from Bangladesh who \u2026 [+5239 chars]",
+      "retrievedAt": "2024-09-07 19:05:26.717680",
+      "internal_id": "ba5e4aa89b92a1d8bb59664a155bfd9b4b57acf6478a1420e30c501dbe0d2254",
+      "publishedAtLabel": "Sep 6"
+    },
     {
       "id": 13153,
       "query": [
@@ -33426,260 +33862,6 @@
       "content": "B. S. Girmay, S. A. Ayele, S. A. Abbas, S. S. Jang, E. Jung, J. S. Shin, S. B. Han and H. Kim, RSC Med. Chem., 2024, Advance Article , DOI: 10.1039/D4MD00240G To request permission to reproduce m\u2026 [+654 chars]",
       "retrievedAt": "2024-07-23 07:06:03.909418",
       "internal_id": "4b6746d9a21eb1ceb77f98b9d48e12e9fc346990fe50e7c5f2ca284b62a17eab",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11307,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Use fogging sparingly to kill mosquitoes: Health services",
-      "description": "Panaji: Fogging is not the solution to tackle dengue, deputy director of health services in charge of vector borne disease control, Dr Kalpana Mahatme.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/use-fogging-sparingly-to-kill-mosquitoes-health-services/articleshow/111908878.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-111908877,width-1070,height-580,imgsize-86334,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-07-21 18:39:07",
-      "content": "10 evening snacks made with oats",
-      "retrievedAt": "2024-07-22 19:05:49.521935",
-      "internal_id": "2aaf09e5697c876ae48ceb554f2e2f1cf9a00a2cc3398b94cee3b9d2a6c25d35",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11315,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Numerama",
-      "author": "\u00c9lodie Herv\u00e9",
-      "title": "Comment les JO vont favoriser l\u2019arriv\u00e9e du moustique tigre en France",
-      "description": "Alors que des touristes du monde entier sont attendus pour les Jeux olympiques organis\u00e9s \u00e0 Paris et Marseille, les autorit\u00e9s alertent sur les risques de dengue associ\u00e9s au moustique tigre. Ces derni\u00e8res semaines, le contexte politique aurait presque fait oubl\u2026",
-      "url": "https://www.numerama.com/sciences/1774916-comment-les-jo-vont-favoriser-larrivee-du-moustique-tigre.html",
-      "urlToImage": "https://www.numerama.com/wp-content/uploads/2024/07/moustique-tigre.jpg",
-      "publishedAt": "2024-07-21 18:35:00",
-      "content": "Alors que des touristes du monde entier sont attendus pour les Jeux olympiques organis\u00e9s \u00e0 Paris et Marseille, les autorit\u00e9s alertent sur les risques de dengue associ\u00e9s au moustique tigre. Ces derni\u2026 [+5758 chars]",
-      "retrievedAt": "2024-07-23 07:06:03.390343",
-      "internal_id": "5a0de76832e378fcc2f6bfa8a4ad06f86eb2c23d52fd0c314e94013de31d65b3",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11306,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": null,
-      "title": "Con acciones firmes e integrales Evelyn Salgado fortalece el combate al Dengue en Guerrero",
-      "description": "",
-      "url": "https://www.elfinanciero.com.mx/estados/2024/07/21/con-acciones-firmes-e-integrales-evelyn-salgado-fortalece-el-combate-al-dengue-en-guerrero/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/bU8zVXrIWqsnvlnw4j2bEIuU7ic=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/J3MLBBTXSVAYNNMM52C7VGDLY4.jpeg",
-      "publishedAt": "2024-07-21 15:55:29",
-      "content": "Con una inversi\u00f3n superior a los 54 millones de pesos, la gobernadora Evelyn Salgado Pineda dio el banderazo de salida a las nuevas brigadas de fumigaci\u00f3n por nebulizaci\u00f3n y termonebulizaci\u00f3n para fo\u2026 [+2588 chars]",
-      "retrievedAt": "2024-07-22 19:05:49.515846",
-      "internal_id": "c49359957e232f741b9ffe6b46ff269f684d8ed588aacd7d50616f9e1b3e6330",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11302,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "al-jazeera-english",
-      "source_name": "Al Jazeera English",
-      "author": "Ayoade Alakija",
-      "title": "Has the next pandemic already started?",
-      "description": "New cases of avian flu are raising alarm of a possible new pandemic. The world urgently needs to prepare.",
-      "url": "https://www.aljazeera.com/opinions/2024/7/21/has-the-next-pandemic-already-started",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/07/2024-07-13T024500Z_2058622535_RC21U8AV75SV_RTRMADP_3_HEALTH-BIRD-FLU-COLORADO-1721570069.jpg?resize=1920%2C1440",
-      "publishedAt": "2024-07-21 14:28:19",
-      "content": "In mid-July, the US state of Colorado reported six cases of avian flu or H5N1 in samples taken from poultry workers. This brought the national total to 10 cases confirmed by the US Centers for Diseas\u2026 [+5793 chars]",
-      "retrievedAt": "2024-07-22 19:05:48.967392",
-      "internal_id": "ecca42848c3daabbec5805f49ea90a99098cbd4fbefd5372fd5875540a62de61",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11313,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sputniknews.africa",
-      "author": "Maghreb Arabe Presse",
-      "title": "RDC: hausse \"exponentielle\" de cas de variole du singe",
-      "description": "Le nombre de cas de \"variole du singe\" (monkeypox, ou Mpox) enregistre \"une augmentation exponentielle\" en R\u00e9publique d\u00e9mocratique du Congo, a-t-on indiqu\u00e9 de source officielle \u00e0 Kinshasa.",
-      "url": "https://fr.sputniknews.africa/20240721/rdc-hausse-exponentielle-de-cas-de-variole-du-singe-1067584154.html",
-      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1067584154.jpg?10434704381721564945",
-      "publishedAt": "2024-07-21 12:29:04",
-      "content": "https://fr.sputniknews.africa/20240721/rdc-hausse-exponentielle-de-cas-de-variole-du-singe-1067584154.html RDC: hausse \"exponentielle\" de cas de variole du singe RDC: hausse \"exponentielle\" de cas \u2026 [+4043 chars]",
-      "retrievedAt": "2024-07-22 19:05:51.825380",
-      "internal_id": "1b35bc782cd18889d54f1cebc63c026424b8710849d21a1c5e913510f1e19b04",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11312,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "news24",
-      "source_name": "News24",
-      "author": "Cebelihle Mthethwa",
-      "title": "News24 | Hammanskraal pupil tests negative for mpox, Dept of Health confirms",
-      "description": "The Department of Health has confirmed that the Grade 1 pupil from Hammanskraal who was tested for mpox, has tested negative for the viral disease.",
-      "url": "https://www.news24.com/news24/southafrica/news/hammanskraal-pupil-tests-negative-for-mpox-dept-of-health-confirms-20240721",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11937/3f51c2c3ce7b424b9338ba253cd9e8a0.jpg",
-      "publishedAt": "2024-07-21 12:22:34",
-      "content": "The Grade One pupil from Hammanskraal has tested negative for mpox.The Gauteng Education Department last week confirmed that a pupil had been tested for mpox after displaying symptom\u2026 [+1866 chars]",
-      "retrievedAt": "2024-07-22 19:05:51.820078",
-      "internal_id": "2ca48dc961621ad3a7a257add5c82049a69a28f77691adb6317f1964f64f5b2c",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11311,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Business Standard",
-      "author": "Shine Jacob, Sohini Das",
-      "title": "Nipah claims one life in Kerala; Maharashtra reports 28 Zika cases in 2024",
-      "description": "On Sunday, the Union Health Ministry confirmed that a case of the Nipah virus has been detected in Malappuram district of Kerala",
-      "url": "https://www.business-standard.com/health/nipah-claims-one-life-in-kerala-maharashtra-reports-28-zika-cases-in-2024-124072100406_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/03/thumb/fitandfill/400X400/1717437881-6223.jpg",
-      "publishedAt": "2024-07-21 12:20:10",
-      "content": "On Sunday, the Union Health Ministry confirmed that a case of the Nipah virus has been detected in Malappuram district of Kerala Photo: Reuters Shine JacobSohini DasChennai/Mumbai Following the fi\u2026 [+5947 chars]",
-      "retrievedAt": "2024-07-22 19:05:50.788609",
-      "internal_id": "f028f83b5d533cae80e255c002f6353f8696ea014858e6e7377483163fd73cee",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11304,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Life.ru",
-      "author": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u0410\u0444\u043e\u043d\u0438\u043d\u0430",
-      "title": "\u041c\u0430\u043b\u043e\u0438\u0437\u0443\u0447\u0435\u043d\u043d\u044b\u0439 \u0438 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0432\u0438\u0440\u0443\u0441 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u043f\u043e \u0418\u043d\u0434\u0438\u0438, \u043f\u043e\u0433\u0438\u0431\u0448\u0438\u0445 \u0443\u0436\u0435 16",
-      "description": "\u041d\u043e\u0432\u0430\u044f \u0432\u0441\u043f\u044b\u0448\u043a\u0430 \u043c\u0430\u043b\u043e\u0438\u0437\u0443\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u0427\u0430\u043d\u0434\u0438\u043f\u0443\u0440\u0430 \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u0432 \u0448\u0442\u0430\u0442\u0435 \u0413\u0443\u0434\u0436\u0430\u0440\u0430\u0442 \u043d\u0430 \u0437\u0430\u043f\u0430\u0434\u0435 \u0418\u043d\u0434\u0438\u0438. \u0422\u0430\u043c \u0443\u0436\u0435 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 50 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f, \u0430 16 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u043f\u043e\u0433\u0438\u0431\u043b\u0438. \u041e\u0431 \u044d\u0442\u043e\u043c \u0437\u0430\u044f\u0432\u0438\u043b \u043c\u0438\u043d\u0438\u0441\u0442\u0440 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0448\u0442\u0430\u0442\u0430 \u0420\u0430\u0448\u0438\u043a\u0435\u0448 \u041f\u0430\u0442\u0435\u043b\u044c. \u0415\u0433\u043e \u0441\u043b\u043e\u0432\u0430 \u043f\u0440\u0438\u0432\u043e\u0434\u0438\u0442 \u0442\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b NDTV.\u0427\u0438\u0442\u0430\u0442\u044c \u0434\u2026",
-      "url": "https://life.ru/p/1673935",
-      "urlToImage": "https://static.life.ru/publications/2024/7/21/1483687598987.4995.webp",
-      "publishedAt": "2024-07-21 12:18:40",
-      "content": ". 50 , 16 . . NDTV. \" . [] 50 , 16 \", . 1965 . . , 2003 329 , 183 . . , , . . . , . . , , H5N1 . , .",
-      "retrievedAt": "2024-07-22 19:05:49.018443",
-      "internal_id": "806daba9a4d77ec36e4a566f232a6da421147a132f7852074c3794738d770ad3",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11314,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Medical Xpress",
-      "author": "Science X",
-      "title": "Huge rise in Mpox cases in DR Congo: govt",
-      "description": "The Democratic Republic of Congo is suffering an \"exponential rise\" in the number of monkeypox cases, the government said Saturday.",
-      "url": "https://medicalxpress.com/news/2024-07-huge-mpox-cases-dr-congo.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/monkeypox.jpg",
-      "publishedAt": "2024-07-21 11:56:21",
-      "content": "The Democratic Republic of Congo is suffering an \"exponential rise\" in the number of monkeypox cases, the government said Saturday. Government spokesperson Patrick Muyaya said the cumulative number \u2026 [+2086 chars]",
-      "retrievedAt": "2024-07-22 19:05:51.860559",
-      "internal_id": "8c91ea4cf5a3ff5455b3751a7bbe020e7aa2f25d68789bd5220e0fe005a5e4f7",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11309,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Origo.hu",
-      "author": "Origo",
-      "title": "Hal\u00e1los cs\u00edp\u00e9sek, hatalmas eg\u00e9szs\u00e9g\u00fcgyi kiad\u00e1sok - a sz\u00fanyogok nem csak ideges\u00edt\u0151ek",
-      "description": "A vil\u00e1g szinte minden r\u00e9sz\u00e9n jelen vannak sz\u00fanyogok, de az igaz\u00e1n aggaszt\u00f3, hogy egyre t\u00f6bb helyen bukkannak fel a vesz\u00e9lyes k\u00f3rokoz\u00f3kat terjeszt\u0151 fajok. Nemr\u00e9g megjelent egy olyan \u00e1tfog\u00f3 tanulm\u00e1ny, amilyen kor\u00e1bban m\u00e9g soha nem k\u00e9sz\u00fclt: sokkol\u00f3 sz\u00e1mok mutatj\u2026",
-      "url": "https://www.origo.hu/gazdasag/2024/07/halalos-csipesek-egeszsegugyi-kiadasok-szunyogok-virusok-korokozok",
-      "urlToImage": "https://cdn.origo.hu/2024/06/oEw-XnRAkye0-VmTfUBmrVcPYvb-0HIvFGn-ebLNcCg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y3ZDJhNTM0NTU1YjRiMGJhNGY4M2NkMWRhOTI3MjNi.webp",
-      "publishedAt": "2024-07-21 11:51:13",
-      "content": "Zika-v\u00edrus, mal\u00e1ria, chikungunya-, valamint dengue-l\u00e1z: veszedelmes k\u00f3rokoz\u00f3k illetve az azoknak k\u00f6sz\u00f6nhet betegs\u00e9gek, melyek megpr\u00f3b\u00e1ltat\u00e1st, st hal\u00e1lt okoznak a vil\u00e1g sz\u00e1mos pontj\u00e1n. A fertz\u00e9sek te\u2026 [+1989 chars]",
-      "retrievedAt": "2024-07-22 19:05:49.559785",
-      "internal_id": "9f3cd04fbe8e231d6d8ae5b971e1b7d78c4e33ad59f8375c9dbc1b1a361ef509",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11305,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "el-mundo",
-      "source_name": "El Mundo",
-      "author": "Elena Meli (Corriere della Sera)",
-      "title": "Mosquitos: qui\u00e9n les atrae m\u00e1s, por qu\u00e9 y consejos para defenderse de forma eficaz",
-      "description": "El cambio clim\u00e1tico y la globalizaci\u00f3n hacen que cada vez los mosquitos transmitan m\u00e1s enfermedades en Europa. Ejemplo de ello es el incremento de casos de dengue.",
-      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/07/21/669ce0d3fdddffd7838b4587.html",
-      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/b880987c5ab81a50927df6ebc42adc1d/crop/0x0/2776x1851/resize/1200/f/webp/assets/multimedia/imagenes/2024/03/14/17104076565160.jpg",
-      "publishedAt": "2024-07-21 10:58:23",
-      "content": "El cambio clim\u00e1tico y la globalizaci\u00f3n hacen que cada vez los mosquitos transmitan m\u00e1s enfermedades en Europa. Ejemplo de ello es el incremento de casos de dengue. Adem\u00e1s de preocuparnos por posibl\u2026 [+5878 chars]",
-      "retrievedAt": "2024-07-22 19:05:49.485113",
-      "internal_id": "f4aaf717c6f1f0f297f5dea9002230b8efbc747a2f4609aa1506afb4a81f3a6f",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11303,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Ferra.ru",
-      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
-      "title": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u0430\u044f \u0432\u0430\u043a\u0446\u0438\u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432 \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0430 \u0441\u0432\u043e\u044e \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c",
-      "description": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435, \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u043d\u043e\u0435 \u043f\u043e\u0434 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e\u043c \u041e\u0440\u0435\u0433\u043e\u043d\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0438 \u043d\u0430\u0443\u043a\u0438 (OHSU), \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u043e \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u043e\u0433\u0440\u0435\u0441\u0441 \u0432 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0438 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e\u0439 \u0432\u0430\u043a\u0446\u0438\u043d\u044b \u043f\u0440\u043e\u0442\u0438\u0432 \u0433\u0440\u0438\u043f\u043f\u0430, \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0439 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0442\u044c \u043f\u043e\u0436\u0438\u0437\u043d\u0435\u043d\u043d\u0443\u044e \u0437\u0430\u0449\u0438\u0442\u0443 \u043e\u0442 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e \u044d\u0432\u043e\u043b\u044e\u0446\u0438\u043e\u043d\u0438\u0440\u0443\u044e\u0449\u0435\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430.",
-      "url": "https://www.ferra.ru/news/health/universalnaya-vakcina-protiv-grippa-pokazala-svoyu-effektivnost-20-07-2024.htm",
-      "urlToImage": "https://www.ferra.ru/imgs/2024/07/20/11/6538517/85548b6f88d0d1e0f2552f057dee864f7abe8f4d.jpeg",
-      "publishedAt": "2024-07-21 10:30:26",
-      "content": ", , . OHSU , 1918 . , CMV, , , H5N1. , . , , , -. \u00ab - \u00bb. . .",
-      "retrievedAt": "2024-07-22 19:05:49.001639",
-      "internal_id": "4023743563e11e993b21ba3033fb4c95c158935a3e79aefd997461cd87593602",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11308,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "focus",
-      "source_name": "Focus",
-      "author": "FOCUS online",
-      "title": "Lombardei - Noch eine Tropenkrankheit in Italien! M\u00fccken \u00fcbertragen Oropouche-Virus",
-      "description": "Erst meldeten Beh\u00f6rden F\u00e4lle von Denguefieber am Gardasee, jetzt ist eine neue Tropenkrankheit in der Lombardei aufgetaucht. Seit Juni wurden mehrere F\u00e4lle des Oropouche-Virus in Italien gemeldet. \u00dcbertragen wird das Virus durch M\u00fccken. Was wir bisher \u00fcber da\u2026",
-      "url": "https://www.focus.de/gesundheit/ratgeber/lombardei-noch-eine-tropenkrankheit-in-italien-muecken-uebertragen-oropouche-virus_id_260156275.html",
-      "urlToImage": "https://p6.focus.de/img/regional/berlin/id_259844340/eine-muecke-saugt-blut-aus-dem-arm-eines-mannes..jpg?im=Crop%3D%280%2C208%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=8f7848051da06ba8c1eace2dc8c3b9e3d42a02d39e3b7e1682fdce518491c9a7",
-      "publishedAt": "2024-07-21 09:51:45",
-      "content": "Erst meldeten Beh\u00f6rden F\u00e4lle von Denguefieber am Gardasee, jetzt ist eine neue Tropenkrankheit in der Lombardei aufgetaucht. Seit Juni wurden mehrere F\u00e4lle des Oropouche-Virus in Italien gemeldet. \u00dcb\u2026 [+3028 chars]",
-      "retrievedAt": "2024-07-22 19:05:49.554541",
-      "internal_id": "da18ae131adf4caa03910a220b1833c6fb13d47b723c27a979af3d92e411c4c2",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 11310,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Health authorities concerned over imported malaria cases in Terengganu",
-      "description": "JERTIH: The spread of malaria through imported cases in Terengganu is causing concern, with 24 cases recorded since the beginning of this year. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/07/21/health-authorities-concerned-over-imported-malaria-cases-in-terengganu",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/07/21/2814328.JPG",
-      "publishedAt": "2024-07-21 09:45:00",
-      "content": "JERTIH: The spread of malaria through imported cases in Terengganu is causing concern, with 24 cases recorded since the beginning of this year. Terengganu health director Datuk Dr Kasemani Embong sa\u2026 [+1496 chars]",
-      "retrievedAt": "2024-07-22 19:05:50.295760",
-      "internal_id": "5acdcc1fd871783742d0ad8529519d390f2d7e0ddc82dfc34ce32a86836b9406",
       "publishedAtLabel": "Jul 21"
     }
   ]
