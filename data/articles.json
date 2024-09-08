@@ -1,8 +1,242 @@
 {
-  "last_updated": "2024-09-08 07:06",
-  "count_articles_total": 1724,
-  "count_articles_new": 16,
+  "last_updated": "2024-09-08 19:05",
+  "count_articles_total": 1735,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 13209,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KIRO Seattle",
+      "author": "Lexi Herda",
+      "title": "Bat in Whatcom County tests positive for rabies, health officials warn",
+      "description": "The health department says rabies in humans is 100% preventable if a vaccine is given quickly after a bite or scratch.",
+      "url": "https://www.kiro7.com/news/local/bat-whatcom-county-tests-positive-rabies-health-officials-warn/OA4HYLLRVJEUPGFTFS2JNNUYAM/",
+      "urlToImage": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/lNLMBS6Jk8M2KTHv_GmV1kyOUEU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/R2ODOS5RK5HSLI5Y6NRVMSEFRU.jpg",
+      "publishedAt": "2024-09-07 17:15:29",
+      "content": "WHATCOM COUNTY, Wash. \u2014 For the first time this year, a bat has tested positive for rabies in Whatcom County. The Whatcom County Health and Community Services Department sent out an alert Wednesday \u2026 [+619 chars]",
+      "retrievedAt": "2024-09-08 19:05:38.870064",
+      "internal_id": "2a13a7aee26aa6757036919a1385a25253da5ff5d03292c8aee6f19bd221e4ce",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13217,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / JGE",
+      "title": "\u00bfPor qu\u00e9 las vacunas contra la mpox est\u00e1n tardando tanto en llegar a \u00c1frica?",
+      "description": "Cuatro a\u00f1os despu\u00e9s de que la pandemia de Covid-19 golpeara al planeta, la OMS declar\u00f3 el pasado 14 de agosto por segunda vez desde 2022 el estado de alerta sanitaria a nivel internacional por la mpox.",
+      "url": "https://aristeguinoticias.com/0709/mundo/por-que-las-vacunas-contra-la-mpox-estan-tardando-tanto-en-llegar-a-africa/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/mpox-viruela-mono-salud-virs-variante-oms-suecia-rdc-150824.jpg",
+      "publishedAt": "2024-09-07 16:17:56",
+      "content": "[S\u00edguenos ahora tambi\u00e9n en Whatsapp. Da clic aqu\u00ed] Si uno no se fija bien, puede pensar que est\u00e1 viviendo un \u2018d\u00e9j\u00e0 vu\u2019: una enfermedad infecciosa, mpox (antes conocida como viruela del mono), provoc\u2026 [+5228 chars]",
+      "retrievedAt": "2024-09-08 19:05:41.336800",
+      "internal_id": "b0b1c05358f7ae5991ee3993c322e371cd1eb39bcafa653a85ac65fd08fc4d46",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13220,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Philippe RICHARD",
+      "title": "Virus mpox : 10 questions pos\u00e9es par les quatre \u00e9pid\u00e9mies de cette maladie",
+      "description": "De nouveau class\u00e9e urgence sanitaire de niveau international, la maladie mpox \u2013 anciennement variole du singe \u2013 pose de nombreuses questions de sant\u00e9 publique et scientifiques. Des sp\u00e9cialistes r\u00e9pondent (ou non) \u00e0 dix questions.",
+      "url": "https://www.ouest-france.fr/sante/virus/variole-du-singe/sante-dix-questions-posees-par-les-quatre-epidemies-de-mpox-958dc90e-6ba3-11ef-87ff-6b83746dd621",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNDA5MzljYzBlYjNmMTg2YWUxOTViNDRhM2E3YzhiMmYwMjU?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=c2685751dc96f023ecbc94d7b0f05283d103d62b349feddd3db288dfc151a001",
+      "publishedAt": "2024-09-07 14:59:16",
+      "content": "La mpox (anciennement appel\u00e9e variole du singe) est sortie des pays africains o\u00f9 elle \u00e9tait end\u00e9mique en 2022. Une autre variante du virus, elles aussi surtout transmise par voie sexuelle, pourrait s\u2026 [+9777 chars]",
+      "retrievedAt": "2024-09-08 19:05:41.465045",
+      "internal_id": "c099d1a50caf09fb8a081148bed2d81f570d4141fb2ef23cbc3fbf10e28d2200",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13211,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-hill",
+      "source_name": "The Hill",
+      "author": "Lauren Irwin",
+      "title": "First case of bird flu without known animal contact detected in Missouri...",
+      "description": "The first person without known contact with an animal has been infected with the the H5N1 virus, commonly known as bird or avian flu, the Centers for Disease Control and Prevention (CDC) confirmed Friday. The case, detected in Missouri, was identified through\u2026",
+      "url": "https://thehill.com/policy/healthcare/4867374-cdc-bird-flu-missouri-case-no-animal-contact/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/CDC-1.png?w=1280",
+      "publishedAt": "2024-09-07 14:43:40",
+      "content": "Skip to content The first person without known contact with an animal has been infected with the the H5N1 virus, commonly known as bird or avian flu, the Centers for Disease Control and Prevention (\u2026 [+1534 chars]",
+      "retrievedAt": "2024-09-08 19:05:39.563128",
+      "internal_id": "5cb1ae3ca83e268855afd70133321f5d9340daf96bb013a67080269162716edf",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13210,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Apinya Wipatayotin",
+      "title": "Measles jab drive launched in South",
+      "description": "Health authorities have launched an intensive vaccination campaign following the deaths of five people in the latest outbreak of measles in Thailand&rsquo;s three southernmost provinces.",
+      "url": "https://www.bangkokpost.com/thailand/general/2861228/measles-jab-drive-launched-in-south",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20240907/c1_2861228_240907205007_700.jpg",
+      "publishedAt": "2024-09-07 14:01:00",
+      "content": "Health authorities have launched an intensive vaccination campaign following the deaths of five people in the latest outbreak of measles in Thailand\u2019s three southernmost provinces. Three of the five\u2026 [+2454 chars]",
+      "retrievedAt": "2024-09-08 19:05:39.200267",
+      "internal_id": "a16895692adf5e345772508e3d54a3d472ef0c72855073ad5919c995f647972c",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13212,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "title": "\u0643\u064a\u0641 \u064a\u0642\u0644\u0651\u0644 \u0627\u0644\u0623\u0647\u0644 \u0645\u0646 \u0627\u062d\u062a\u0645\u0627\u0644 \u0625\u0635\u0627\u0628\u0629 \u0623\u0637\u0641\u0627\u0644\u0647\u0645 \u0628\u0627\u0644\u0645\u0631\u0636 \u0648\u0627\u0644\u062a\u063a\u064a\u0628 \u0627\u0644\u0645\u062f\u0631\u0633\u064a\u061f",
+      "description": "\u0645\u0639 \u0639\u0648\u062f\u0629 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0637\u0644\u0627\u0628 \u0625\u0644\u0649 \u0627\u0644\u0645\u062f\u0627\u0631\u0633\u060c \u0648\u0628\u0627\u0644\u062a\u0627\u0644\u064a \u0627\u0644\u062a\u062c\u0645\u0639 \u0641\u064a \u0623\u0645\u0627\u0643\u0646 \u0636\u064a\u0642\u0629\u060c \u0633\u064a\u062a\u0634\u0627\u0631\u0643\u0648\u0646 \u0627\u0644\u0639\u0644\u0645 \u0648\u0627\u0644\u0641\u064a\u0631\u0648\u0633\u0627\u062a. \u0644\u0643\u0646 \u0645\u0627 \u0647\u064a \u0627\u0644\u062a\u062f\u0627\u0628\u064a\u0631 \u0627\u0644\u0648\u0642\u0627\u0626\u064a\u0629 \u0627\u0644\u062a\u064a \u064a\u0641\u062a\u0631\u0636 \u0628\u0627\u0644\u0623\u0647\u0644 \u0627\u062a\u062e\u0627\u0630\u0647\u0627 \u0643\u064a \u064a\u062d\u0645\u0648\u0627 \u0623\u0637\u0641\u0627\u0644\u0647\u0645 \u0645\u0646 \u0627\u0644\u0641\u064a\u0631\u0648\u0633\u0627\u062a \u0627\u0644\u0645\u062d\u062a\u0645\u0644\u0629\u061f",
+      "url": "https://arabic.cnn.com/science-and-health/article/2024/09/07/back-to-school-virus-risks-wellness",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_4993,h_2808,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/09/06/images/276916.jpg",
+      "publishedAt": "2024-09-07 11:45:58",
+      "content": "(CNN) -- . . CNN . . CNN: : . \"-19\" . . (RSV) . . CNN: (EEE) . : . 2024 ( 3 / ) 377 . . : CNN: : (CDC) H5N1 . . 13 2024 . . CNN: \"-19\" (FDA) : (CDC) KP.2 6 . . 65 . CN\u2026 [+99 chars]",
+      "retrievedAt": "2024-09-08 19:05:39.591220",
+      "internal_id": "29171c40e90485808ed7240480b7d3d2e2ed67bde41d1673a04f77627e94dbf5",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13216,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Nick Dearden",
+      "title": "Mpox and the dangers of treating some lives as disposable",
+      "description": "Deaths from mpox can be prevented, if only profit would not stand in the way of saving lives.",
+      "url": "https://www.aljazeera.com/opinions/2024/9/7/mpox-and-the-dangers-of-treating-some-lives-as",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/2024-08-21T162052Z_1751771349_RC2GCV9HYZ79_RTRMADP_3_HEALTH-MPOX-VACCINES-1725707899.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-09-07 11:22:10",
+      "content": "It has been a year since the first outbreak of a new more deadly variant of the mpox virus was first reported in central Africa. Since the start of the year, more than 20,000 cases and well over 500 \u2026 [+6957 chars]",
+      "retrievedAt": "2024-09-08 19:05:41.159896",
+      "internal_id": "1803f026e39e2e8f6c35e80a4342f5501ae1e9546e1866b4e23bddc4f3b76c55",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13219,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Publico.es",
+      "author": "Luc\u00eda Blanco Gracia (EFE)",
+      "title": "\u00bfPor qu\u00e9 las vacunas contra la mpox est\u00e1n tardando tanto en llegar a \u00c1frica?",
+      "description": "Adem\u00e1s de las dificultades financieras, el continente africano debe hacer frente al complejo mecanismo regulatorio de la Organizaci\u00f3n Mundial de la Salud (OMS), del que dependen los pa\u00edses del sur global para aprobar vacunas.",
+      "url": "https://www.publico.es/sociedad/vacunas-mpox-tardando-llegar-africa.html",
+      "urlToImage": "https://www.publico.es/uploads/2024/09/07/66dc2c5e2c519.jpeg",
+      "publishedAt": "2024-09-07 10:44:00",
+      "content": "Si uno no se fija bien, puede pensar que est\u00e1 sufriendo un d\u00e9j\u00e0 vu: una enfermedad infecciosa, la mpox (antes conocida como viruela del mono), provoca una crisis sanitaria internacional, pero en un c\u2026 [+5400 chars]",
+      "retrievedAt": "2024-09-08 19:05:41.428120",
+      "internal_id": "e754ee39a8ba57f56ab50efb994889d5a6d92cfff2f51c4b600623b45bc3d1e9",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13215,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Bekia.es",
+      "author": "Paula Lima",
+      "title": "Luis Canut lanza un emotivo mensaje a Patricia P\u00e9rez por ser su mayor apoyo ante su enfermedad: 'Me salv\u00f3 la vida'",
+      "description": "El guionista ha agradecido el esfuerzo de su mujer por ejercer de cuidadora durante todo el proceso de su enfermedad. La vida de Luis Canut ha cambiado por completo en cuesti\u00f3n de un a\u00f1o. En marzo de 2023, al director y guionista de televisi\u00f3n le diagnosticar\u2026",
+      "url": "https://www.bekia.es/celebrities/noticias/luis-canut-lanza-emotivo-mensaje-patricia-perez-apoyo/",
+      "urlToImage": "https://img.bekia.es/articulos/portada/135000/135087.jpg",
+      "publishedAt": "2024-09-07 10:32:27",
+      "content": "La vida de Luis Canut ha cambiado por completo en cuesti\u00f3n de un a\u00f1o. En marzo de 2023, al director y guionista de televisi\u00f3n le diagnosticaron una meningitis criptoc\u00f3cica, una infecci\u00f3n cerebral pro\u2026 [+2704 chars]",
+      "retrievedAt": "2024-09-08 19:05:40.164079",
+      "internal_id": "1c3843a6addd49615d881db9e0facf2a1ade461b8039c9abe5288e931bcca139",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13208,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Nick Dall",
+      "title": "Why are Cape fur seals in South Africa getting infected with rabies?",
+      "description": "It\u2019s the world\u2019s first significant rabies infection in marine mammals. And it has scientists - and beachgoers - worried.",
+      "url": "https://www.aljazeera.com/features/2024/9/7/why-are-cape-fur-seals-in-south-africa-getting-infected-with-rabies",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/rabid-seals-20190215_6D_IMG_0037_WVB-Nanuuq-MLaubscher-1723992368.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-09-07 10:31:51",
+      "content": "In May this year, a seal at a popular beach in Cape Town, South Africa, bit five surfers in a matter of minutes. The surfers laughed it off with characteristic nonchalance, but seal experts were conc\u2026 [+8611 chars]",
+      "retrievedAt": "2024-09-08 19:05:38.840232",
+      "internal_id": "a4be035fc30615f6c4bd17ede30a1a549bc6bca4bcecd86fa410d2fdf61d1a8d",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13214,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Fran\u00e7ois Frualdo",
+      "title": "Sant\u00e9. Dengue : il va falloir apprendre \u00e0 vivre avec la menace du virus",
+      "description": "Dr\u00f4me, Is\u00e8re, Vaucluse, Haute-Savoie\u2026 Tout l\u2019\u00e9t\u00e9, des cas de dengue ont \u00e9t\u00e9 signal\u00e9s dans nos d\u00e9partements. La faute \u00e0 la propagation du moustique tigre qui permet au virus de s\u2019installer en France m\u00e9tropolitaine. Ici en particulier.",
+      "url": "https://www.ledauphine.com/environnement/2024/09/07/dengue-il-va-falloir-apprendre-a-vivre-avec-la-menace-du-virus",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/E3B1FE68-31AA-4699-8BFD-5E68C44DCEF6/FB1200/photo-1725698391.jpg",
+      "publishedAt": "2024-09-07 10:09:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2024-09-08 19:05:39.912479",
+      "internal_id": "a9520cbf449510e4a33fe8f5322bea0f7751949be2971d87f97d43963393280a",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13213,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Negli Usa il primo caso di aviaria senza il contatto con animali infetti: l\u2019annuncio del Center for Disease",
+      "description": "Un primo caso di influenza aviaria senza contatto diretto con animali malati \u00e8 stato segnalato nel Missouri. Il Center for Disease Control (CDC) ha confermato che si tratta del 14esimo caso di infezione nell\u2019uomo di H5N1 negli Stati Uniti nel 2024, ma il prim\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/09/07/negli-usa-il-primo-caso-di-aviaria-senza-il-contatto-con-animali-infetti-lannuncio-del-center-for-disease/7684582/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/05/30/aviaria_1200-1200x630.jpg",
+      "publishedAt": "2024-09-07 09:10:53",
+      "content": "Un primo caso di influenza aviaria senza contatto diretto con animali malati \u00e8 stato segnalato nel Missouri. Il Center for Disease Control (CDC) ha confermato che si tratta del 14esimo caso di infezi\u2026 [+2171 chars]",
+      "retrievedAt": "2024-09-08 19:05:39.632763",
+      "internal_id": "db0fe0f2da1ad8037d1fc5b7e4a2afc0c7556657e1fc1415e9d7490c6d77c702",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13218,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "L\u2019Ouganda re\u00e7oit ses premi\u00e8res doses de vaccin contre la mpox",
+      "description": "L\u2019annonce sur la livraison de 2.000 doses a \u00e9t\u00e9 faite le 6 septembre par la ministre ougandaise de la Sant\u00e9.",
+      "url": "https://fr.sputniknews.africa/20240907/louganda-recoit-ses-premieres-doses-de-vaccin-contre-la-mpox-1068184128.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1068184128.jpg?10631869721725698896",
+      "publishedAt": "2024-09-07 08:48:15",
+      "content": "https://fr.sputniknews.africa/20240907/louganda-recoit-ses-premieres-doses-de-vaccin-contre-la-mpox-1068184128.html LOuganda re\u00e7oit ses premi\u00e8res doses de vaccin contre la mpox LOuganda re\u00e7oit ses \u2026 [+1774 chars]",
+      "retrievedAt": "2024-09-08 19:05:41.396296",
+      "internal_id": "5bb7513aafd60d8e03ebbcfa1e1959bb3d52890893f9900de77c2f76188357e1",
+      "publishedAtLabel": "Sep 7"
+    },
     {
       "id": 13198,
       "query": [
@@ -31079,42 +31313,6 @@
       "content": "Awards 1 win &amp; 4 nominations See more awards \u00bb Plot: Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town. Genre: Horror | ThrillerIMDB Rating\u2026 [+689 chars]",
       "retrievedAt": "2024-07-30 07:06:53.092573",
       "internal_id": "eb985370d41891a9164d7ad115f336d1d206efd512127ea072b51f1c01762421",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 11484,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Fontanka.ru",
-      "author": null,
-      "title": "\u0427\u0435\u0445\u0438 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443 \u0440\u0435\u0448\u0430\u044e\u0442. \u0427\u0442\u043e \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0438\u0437 \u043f\u0440\u0438\u0432\u0438\u0432\u043e\u043a, \u0447\u0442\u043e\u0431\u044b \u043f\u0443\u0441\u0442\u0438\u043b\u0438 \u0441 \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u043c \u0437\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0443",
-      "description": "\u041d\u0430 \u043c\u0438\u043d\u0443\u0432\u0448\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0435 \u0420\u043e\u0441\u0441\u0438\u044f \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a\u0430 \u0432\u0430\u043a\u0446\u0438\u043d \u043e\u0442 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u00ab\u041d\u043e\u0431\u0438\u0432\u0430\u043a Rabies\u00bb \u2014 \u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0446\u044b \u043e\u0442\u043a\u0430\u0437\u0430\u043b\u0438\u0441\u044c \u0438\u0433\u0440\u0430\u0442\u044c \u043f\u043e \u043f\u0440\u0430\u0432\u0438\u043b\u0430\u043c \u0420\u043e\u0441\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u043d\u0430\u0434\u0437\u043e\u0440\u0430.",
-      "url": "https://www.fontanka.ru/2024/07/28/73843271/",
-      "urlToImage": "https://cdn.iportal.ru/news/articles/social/54d9438f84b26481c36faf79e4ca4fa0.png",
-      "publishedAt": "2024-07-28 13:38:40",
-      "content": "\u00ab Rabies\u00bb . . \u00ab\u00bb , , . \u00ab 15 \u00ab\u00ae Rabies\u00bb \u00abIntervet International B.V.\u00bb () . , 1 2024 , \u00bb, , . 2022 - . . GMP, . GMP-? -GMP , . 1 2023 , GMP (Good manufacturing practice ). , , . \u00ab GMP, , GMP \u00bb,\u2026 [+480 chars]",
-      "retrievedAt": "2024-07-29 19:05:40.879632",
-      "internal_id": "ad2f0bf0aecd9f472859b865cafea547aec2b3c26327c57e12c30ee8b694a118",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 11485,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Business Standard",
-      "author": "BS Reporter",
-      "title": "USAID, Takeda Biopharma launch dengue prevention programme across India",
-      "description": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil",
-      "url": "https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/28/thumb/featurecrop/400X400/1722161975-1545.jpeg",
-      "publishedAt": "2024-07-28 10:20:31",
-      "content": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil Image credit: USAID's X accou\u2026 [+2271 chars]",
-      "retrievedAt": "2024-07-29 19:05:42.044678",
-      "internal_id": "8a4a356d3b19bab889eca92053315491650758fe12185c61d9eb80446b6c2360",
       "publishedAtLabel": "Jul 28"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-09-08 07:06
-- **Most recent article:** 2024-09-07 05:04:04
+- **New articles in last harvest:** 13
+- **Last harvest:** 2024-09-08 19:05
+- **Most recent article:** 2024-09-07 17:15:29
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | Total |
 |--|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 156 | 1028 |
-| dengue | 53 | 46 | 52 | 64 | 45 | 48 | 308 |
+| mpox | 26 | 139 | 292 | 208 | 207 | 161 | 1033 |
+| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 308 |
 | malaria | 15 | 16 | 19 | 27 | 28 | 14 | 119 |
-| h5n1 | 21 | 6 | 8 | 5 | 10 | 25 | 75 |
+| h5n1 | 21 | 6 | 8 | 5 | 10 | 28 | 78 |
 | zika | 12 | 11 | 10 | 21 | 2 | 6 | 62 |
-| rabies | 12 | 8 | 12 | 6 | 3 | 5 | 46 |
-| measles | 7 | 6 | 3 | 7 | 11 | 8 | 42 |
-| meningitis | 3 | 6 | 8 | 11 | 5 | 5 | 38 |
+| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 47 |
+| measles | 7 | 6 | 3 | 7 | 11 | 9 | 43 |
+| meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 39 |
 | chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 33 |
 | pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 22 |
 | hpai | 4 | 1 | 1 | 1 | 0 | 3 | 10 |
@@ -59,6 +59,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-36 (rabies)
 
+- [Bat in Whatcom County tests positive for rabies, health officials warn](https://www.kiro7.com/news/local/bat-whatcom-county-tests-positive-rabies-health-officials-warn/OA4HYLLRVJEUPGFTFS2JNNUYAM/) (KIRO Seattle)
+
+- [Why are Cape fur seals in South Africa getting infected with rabies?](https://www.aljazeera.com/features/2024/9/7/why-are-cape-fur-seals-in-south-africa-getting-infected-with-rabies) (Al Jazeera English)
+
 - [First human rabies case reported in Ontario after almost 60 years | Globalnews.ca](https://globalnews.ca/news/10737729/ontario-rabies-reported-hospital/) (Global News)
 
 - [1st human case of rabies in Ontario since 1967 confirmed in Brantford-Brant resident](https://www.cbc.ca/news/canada/hamilton/first-case-human-rabies-in-ontario-1967-brantford-brant-1.7315972) (CBC News)
@@ -74,6 +78,16 @@ Source: [News API](https://newsapi.org/)
 - [‘Public health concern’: Significant rise in whooping cough cases prompts Victorian authorities to issue urgent alert to residents](https://www.skynews.com.au/lifestyle/health/public-health-concern-significant-rise-in-whooping-cough-cases-prompts-victorian-authorities-to-issue-urgent-alert-to-residents/news-story/a6f0b076d27c5186c2d168a865e6c60e) (Sky News Australia)
 
 ## 24-36 (mpox)
+
+- [¿Por qué las vacunas contra la mpox están tardando tanto en llegar a África?](https://aristeguinoticias.com/0709/mundo/por-que-las-vacunas-contra-la-mpox-estan-tardando-tanto-en-llegar-a-africa/) (Aristeguinoticias.com)
+
+- [Virus mpox : 10 questions posées par les quatre épidémies de cette maladie](https://www.ouest-france.fr/sante/virus/variole-du-singe/sante-dix-questions-posees-par-les-quatre-epidemies-de-mpox-958dc90e-6ba3-11ef-87ff-6b83746dd621) (Ouest-France)
+
+- [Mpox and the dangers of treating some lives as disposable](https://www.aljazeera.com/opinions/2024/9/7/mpox-and-the-dangers-of-treating-some-lives-as) (Al Jazeera English)
+
+- [¿Por qué las vacunas contra la mpox están tardando tanto en llegar a África?](https://www.publico.es/sociedad/vacunas-mpox-tardando-llegar-africa.html) (Publico.es)
+
+- [L’Ouganda reçoit ses premières doses de vaccin contre la mpox](https://fr.sputniknews.africa/20240907/louganda-recoit-ses-premieres-doses-de-vaccin-contre-la-mpox-1068184128.html) (Sputniknews.africa)
 
 - [M痘疫情》巴西病例累計近千，逾半都在聖保羅](https://www.storm.mg/article/5234758) (Storm.mg)
 
@@ -389,6 +403,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-36 (meningitis)
 
+- [Luis Canut lanza un emotivo mensaje a Patricia Pérez por ser su mayor apoyo ante su enfermedad: 'Me salvó la vida'](https://www.bekia.es/celebrities/noticias/luis-canut-lanza-emotivo-mensaje-patricia-perez-apoyo/) (Bekia.es)
+
 - [Guidance: Haemophilus influenzae type b (Hib): revised recommendations for the prevention of secondary cases](https://www.gov.uk/government/publications/haemophilus-influenzae-type-b-hib-revised-recommendations-for-the-prevention-of-secondary-cases) (Www.gov.uk)
 
 - [Luis Canut, marido de Patricia Pérez, desvela su ceguera tras su enfermedad: 'Ciego, feliz y orgulloso'](https://www.bekia.es/celebrities/noticias/luis-canut-marido-patricia-perez-orgulloso-ceguera-secuela/) (Bekia.es)
@@ -400,6 +416,8 @@ Source: [News API](https://newsapi.org/)
 - [Perú confirma un caso de meningitis y seguimiento de otros posibles afectados en Amazonía](https://www.montevideo.com.uy/Salud/Peru-confirma-un-caso-de-meningitis-y-seguimiento-de-otros-posibles-afectados-en-Amazonia-uc898845) (Montevideo.com.uy)
 
 ## 24-36 (measles)
+
+- [Measles jab drive launched in South](https://www.bangkokpost.com/thailand/general/2861228/measles-jab-drive-launched-in-south) (Bangkok Post)
 
 - [Minnesota facing growing number of measles cases](https://www.cbsnews.com/minnesota/news/minnesota-health-measles-outbreak/) (CBS News)
 
@@ -461,6 +479,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-36 (h5n1)
 
+- [First case of bird flu without known animal contact detected in Missouri...](https://thehill.com/policy/healthcare/4867374-cdc-bird-flu-missouri-case-no-animal-contact/) (The Hill)
+
+- [كيف يقلّل الأهل من احتمال إصابة أطفالهم بالمرض والتغيب المدرسي؟](https://arabic.cnn.com/science-and-health/article/2024/09/07/back-to-school-virus-risks-wellness) (CNN)
+
+- [Negli Usa il primo caso di aviaria senza il contatto con animali infetti: l’annuncio del Center for Disease](https://www.ilfattoquotidiano.it/2024/09/07/negli-usa-il-primo-caso-di-aviaria-senza-il-contatto-con-animali-infetti-lannuncio-del-center-for-disease/7684582/) (Ilfattoquotidiano.it)
+
 - [Bird Flu Map Update as US Cases Rise to 14](https://www.newsweek.com/bird-flu-map-update-us-cases-rise-14-1950227) (Newsweek)
 
 - [First person tests positive for bird flu without clear exposure to sick animals](https://www.usatoday.com/story/news/health/2024/09/06/missouri-patient-infected-bird-flu/75109758007/) (USA Today)
@@ -512,6 +536,8 @@ Source: [News API](https://newsapi.org/)
 - [Genanalyse weist Weg nach: Wie die Vogelgrippe in die Antarktis gelangte](https://www.n-tv.de/wissen/Wie-die-Vogelgrippe-in-die-Antarktis-gelangte-article25201846.html) (N-tv.de)
 
 ## 24-36 (dengue)
+
+- [Santé. Dengue : il va falloir apprendre à vivre avec la menace du virus](https://www.ledauphine.com/environnement/2024/09/07/dengue-il-va-falloir-apprendre-a-vivre-avec-la-menace-du-virus) (Le Dauphiné Libéré)
 
 - [অনিয়মিত মশক নিধন কর্মসূচি, বাড়ছে ডেঙ্গু প্রাদুর্ভাবের ঝুঁকি](https://bangla.thedailystar.net/health/disease/news-612166) (The Daily Star)
 
@@ -3505,8 +3531,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
 
-- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
-
 ## 24-31 (pertussis)
 
 - [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
@@ -3792,8 +3816,6 @@ Source: [News API](https://newsapi.org/)
 - [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
 
 - [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
-
-- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 ## 24-31 (chikungunya)
 
