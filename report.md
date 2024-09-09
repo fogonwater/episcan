@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-09-09 07:06
-- **Most recent article:** 2024-09-08 04:38:00
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-09-09 19:05
+- **Most recent article:** 2024-09-08 17:43:19
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 177 | 0 | 1049 |
-| dengue | 53 | 46 | 52 | 64 | 45 | 49 | 2 | 311 |
+| mpox | 26 | 139 | 292 | 208 | 207 | 177 | 6 | 1055 |
+| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 3 | 311 |
 | malaria | 15 | 16 | 19 | 27 | 28 | 14 | 1 | 120 |
 | h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 0 | 81 |
 | zika | 12 | 11 | 10 | 21 | 2 | 6 | 0 | 62 |
-| rabies | 12 | 8 | 12 | 6 | 3 | 7 | 0 | 48 |
+| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 1 | 48 |
 | measles | 7 | 6 | 3 | 7 | 11 | 9 | 0 | 43 |
 | meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 0 | 39 |
 | chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 0 | 33 |
@@ -33,11 +33,31 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-37 (rabies)
+
+- [Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials](https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms) (The Times of India)
+
+## 24-37 (mpox)
+
+- [В Индии зафиксировали пациента с подозрением на оспу обезьян](https://tass.ru/obschestvo/21807789) (Tass.ru)
+
+- [India records first suspected mpox case, male patient in isolation](https://www.aljazeera.com/news/2024/9/8/india-records-first-suspected-mpox-case-male-patient-in-isolation) (Al Jazeera English)
+
+- [Amid Steep Rise In Mpox Cases, Vaccination Drive In Africa Becomes More Urgent](https://www.forbes.com/sites/joshuacohen/2024/09/08/amid-steep-rise-in-mpox-cases-vaccination-drive-in-africa-becomes-more-urgent/) (Forbes)
+
+- [Suspected Mpox case under probe, no cause for alarm, says Govt](https://www.thehindubusinessline.com/news/suspected-mpox-case-under-probe-no-cause-for-alarm-says-govt/article68618549.ece) (BusinessLine)
+
+- [Мнения: У оспы обезьян есть одна неприятная для биотеха особенность](https://vz.ru/opinions/2024/9/8/1286142.html) (Vz.ru)
+
+- [India's 1st Mpox Case? Centre Says Man Isolated, No Cause For Alarm](https://www.ndtv.com/india-news/indias-1st-mpox-case-centre-says-man-isolated-no-cause-for-alarm-6518374) (NDTV News)
+
 ## 24-37 (malaria)
 
 - [Communities in Baringo fight back against malaria with local solutions and mosquito nets](https://nation.africa/kenya/health/communities-in-baringo-fight-back-against-malaria-with-local-solutions-and-mosquito-nets-4752364) (Nation.africa)
 
 ## 24-37 (dengue)
+
+- [Laughter Chefs' Rahul Vaidya updates fans about having 104 degrees of fever; reveals dengue spoiled his Ganesh Chaturthi celebration](https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-fans-about-having-104-degrees-of-fever-reveals-dengue-spoiled-his-ganesh-chaturthi-celebration/articleshow/113164874.cms) (The Times of India)
 
 - [Dengue cases decline in ME35, four deaths reported](https://www.thestar.com.my/news/nation/2024/09/08/dengue-cases-decline-in-me35-four-deaths-reported) (The Star Online)
 
@@ -3579,8 +3599,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
 
-- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
-
 ## 24-31 (pertussis)
 
 - [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
@@ -3866,8 +3884,6 @@ Source: [News API](https://newsapi.org/)
 - [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
 
 - [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
-
-- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 ## 24-31 (chikungunya)
 
