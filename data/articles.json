@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-09-08 19:05",
-  "count_articles_total": 1735,
-  "count_articles_new": 13,
+  "last_updated": "2024-09-09 07:06",
+  "count_articles_total": 1759,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 13224,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases decline in ME35, four deaths reported",
+      "description": "PUTRAJAYA: The number of dengue fever cases fell to 1,765 in the 35th Epidemiological Week (ME35) from Aug 25 to 31, compared to 1,980 cases the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/09/08/dengue-cases-decline-in-me35-four-deaths-reported",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/09/08/2901630.jpg",
+      "publishedAt": "2024-09-08 04:38:00",
+      "content": "PUTRAJAYA: The number of dengue fever cases fell to 1,765 in the 35th Epidemiological Week (ME35) from Aug 25 to 31, compared to 1,980 cases the previous week. Health director-general Datuk Dr Muham\u2026 [+1379 chars]",
+      "retrievedAt": "2024-09-09 07:06:28.743909",
+      "internal_id": "5de82ede3aff8179b0bf7937227ac78461761b3a3aac31d47527557ac00f3e4c",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13226,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Kennedy Kimanthi",
+      "title": "Communities in Baringo fight back against malaria with local solutions and mosquito nets",
+      "description": "Communities in Baringo fight back against malaria with local solutions and mosquito netsnation.africa",
+      "url": "https://nation.africa/kenya/health/communities-in-baringo-fight-back-against-malaria-with-local-solutions-and-mosquito-nets-4752364",
+      "urlToImage": "https://nation.africa/resource/image/4752378/landscape_ratio3x2/1200/800/1e8652bdcd9147077184c797165878ab/av/iven.jpg",
+      "publishedAt": "2024-09-08 03:48:30",
+      "content": "Nestled at the foot of Kiplombe Hills in Muserechi, Baringo County, Iven Yagans home is surrounded by the serene beauty of nature. Yet, the lush landscape hides a deadly secret, stagnant waters that \u2026 [+9200 chars]",
+      "retrievedAt": "2024-09-09 07:06:29.396007",
+      "internal_id": "e7ee3365572e33e181c0481ba2fd5d21a450f78e0c37e462614d2ac657315f66",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13225,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Cebu: Public emergency gitun-an sa dakbayan sa Sugbo tungod sa nagsaka nga kaso sa dengue",
+      "description": "Segon sa Cebu City PIO nga gitun-an karon ni Acting Mayor Raymond Alvin Garcia ang kahigayonan nga modeklarar og public emergency tungod sa nagkasaka nga mga kaso sa dengue dinhi sa dakbayan sa Sugbo. Makigkita pa hinuon siya og balik sa City Health Departmen\u2026",
+      "url": "https://rpnradio.com/cebu-public-emergency-gitun-an-sa-dakbayan-sa-sugbo-tungod-sa-nagsaka-nga-kaso-sa-dengue/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/09/Public-emergency-gitun-an-sa-dakbayan-sa-Sugbo-tungod-sa-nagsaka-nga-kaso-sa-dengue.jpg",
+      "publishedAt": "2024-09-08 02:43:20",
+      "content": "Segon sa Cebu City PIO nga gitun-an karon ni Acting Mayor Raymond Alvin Garcia ang kahigayonan nga modeklarar og public emergency tungod sa nagkasaka nga mga kaso sa dengue dinhi sa dakbayan sa Sugbo\u2026 [+1889 chars]",
+      "retrievedAt": "2024-09-09 07:06:28.759459",
+      "internal_id": "7336e85b30e59f3a66a26063653bb43e49003df76a77da9149793bf78923f28c",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13227,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Vaccinations against mpox in Congo will begin next month, authorities say",
+      "description": "A vaccination campaign against mpox in Congo will begin Oct. 2, authorities said Saturday, with workers focusing on the three most affected provinces first. Adults in Equateur, South Kivu and Sankuru provinces will be vaccinated first, Cris Kacita Osako, coo\u2026",
+      "url": "https://japantoday.com/category/world/vaccinations-against-mpox-in-congo-will-begin-next-month-authorities-say",
+      "urlToImage": null,
+      "publishedAt": "2024-09-07 21:23:51",
+      "content": "A vaccination campaign against mpox in Congo will begin Oct. 2, authorities said Saturday, with workers focusing on the three most affected provinces first. Adults in Equateur, South Kivu and Sanku\u2026 [+2182 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.125751",
+      "internal_id": "77f4ee36fdee3cb00b37f58f32bc8e1273517a3a56e25e3db0b3e12530668e56",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13222,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "H5N1-Infektion in USA ohne nachweislichen Tierkontakt",
+      "description": "",
+      "url": "https://orf.at/stories/3368876/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-09-07 20:45:20",
+      "content": "In den USA ist bei einem weiteren Menschen das Vogelgrippevirus festgestellt worden. Anders als bei den anderen 13 F\u00e4llen in diesem Jahr in den Vereinigten Staaten hatte diese Person nach Angaben der\u2026 [+1191 chars]",
+      "retrievedAt": "2024-09-09 07:06:28.450118",
+      "internal_id": "522f5d8dc7818e84cee1731eafa192eddade17d5a09f5af37b6211ba7ad77670",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13221,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "H5N1: Vogelgrippe-Fall bei Person in den USA gibt R\u00e4tsel auf",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eH5N1\u201c. Lesen Sie jetzt \u201eVogelgrippe-Fall bei Person in den USA gibt R\u00e4tsel auf\u201c.",
+      "url": "https://www.zeit.de/news/2024-09/07/vogelgrippe-fall-bei-person-in-den-usa-gibt-raetsel-auf",
+      "urlToImage": "https://img.zeit.de/news/2024-09/07/vogelgrippe-fall-bei-person-in-den-usa-gibt-raetsel-auf-image-group/wide__1300x731",
+      "publishedAt": "2024-09-07 20:37:04",
+      "content": "In den USA ist bei einem weiteren Menschen das Vogelgrippe-Virus festgestellt worden. Anders als bei den anderen 13 F\u00e4llen in diesem Jahr in den Vereinigten Staaten hatte diese Person nach Angaben de\u2026 [+1273 chars]",
+      "retrievedAt": "2024-09-09 07:06:28.414032",
+      "internal_id": "a49e16603f0403f6b88f818e3359e850b8535bcdbcde1403b1b78bc2b3f2dae8",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13223,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "H5N1: Vogelgrippe-Fall bei Person in den USA gibt R\u00e4tsel auf",
+      "description": "Washington - In den USA ist bei einem weiteren Menschen das Vogelgrippe-Virus festgestellt worden. Anders als bei den anderen 13 F\u00e4llen in diesem Jahr",
+      "url": "https://www.stern.de/panorama/h5n1--vogelgrippe-fall-bei-person-in-den-usa-gibt-raetsel-auf-35046170.html",
+      "urlToImage": "https://image.stern.de/6681672/t/31/v5/w1440/r1.7778/-/video-fallback-image.jpg",
+      "publishedAt": "2024-09-07 20:37:04",
+      "content": "Bislang hatten die meisten infizierten Menschen zuvor engen Kontakt mit Tieren. Doch ein Fall in Missouri ist anders gelagert. In den USA ist bei einem weiteren Menschen das Vogelgrippe-Virus festge\u2026 [+1370 chars]",
+      "retrievedAt": "2024-09-09 07:06:28.501853",
+      "internal_id": "be6ccc982f65c4a332a58d8588134ba34e3d7649f4ae08b9dcde441eee7fbe71",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13233,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JEAN-YVES KAMALE Associated Press",
+      "title": "Vaccinations against mpox in Congo will begin next month, authorities say",
+      "description": "Authorities say a vaccination campaign against mpox in Congo will begin Oct. 2, with workers focusing on the three most affected provinces first",
+      "url": "https://abcnews.go.com/Health/wireStory/vaccinations-mpox-congo-begin-month-authorities-113487079",
+      "urlToImage": "https://i.abcnewsfe.com/a/dbdf6451-4639-40fc-bb09-91dceb1d34bd/wirestory_aad5574f20dc0e612373c820c68b482a_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-07 19:50:19",
+      "content": "KINSHASA, Congo -- A vaccination campaign against mpox in Congo will begin Oct. 2, authorities said Saturday, with workers focusing on the three most affected provinces first. Adults in Equateur, S\u2026 [+2046 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.325226",
+      "internal_id": "3cd45eaa4113f30150864d8bf223f2ffc1f6873f90347e322a45700960f12938",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 13228,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JEAN-YVES KAMALE Associated Press",
+      "title": "Vaccinations against mpox in Congo will begin next month, authorities say",
+      "description": "Authorities say a vaccination campaign against mpox in Congo will begin Oct. 2, with workers focusing on the three most affected provinces first",
+      "url": "https://abcnews.go.com/International/wireStory/vaccinations-mpox-congo-begin-month-authorities-113487078",
+      "urlToImage": "https://i.abcnewsfe.com/a/dbdf6451-4639-40fc-bb09-91dceb1d34bd/wirestory_aad5574f20dc0e612373c820c68b482a_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-07 19:50:17",
+      "content": "KINSHASA, Congo -- A vaccination campaign against mpox in Congo will begin Oct. 2, authorities said Saturday, with workers focusing on the three most affected provinces first. Adults in Equateur, S\u2026 [+2046 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.239800",
+      "internal_id": "860bc111764ad266ff41121fb4c38f13277c9e23f1efcfe629d6f82746ef7da7",
+      "publishedAtLabel": "Sep 7"
+    },
     {
       "id": 13209,
       "query": [
@@ -544,6 +706,24 @@
       "publishedAtLabel": "Sep 6"
     },
     {
+      "id": 13238,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Berkeley Lovelace Jr.",
+      "title": "U.S. prepares for possible arrival of more severe strain of mpox",
+      "description": "Senior Biden administration officials said the U.S. is preparing for the arrival of a more severe version of mpox. Clade 1 has caused more than 600 deaths in Africa.",
+      "url": "https://www.nbcnews.com/health/health-news/us-prepares-possible-arrival-severe-strain-mpox-rcna169926",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-09/240906-jynneos-vaccine-ch-1019-fafd17.jpg",
+      "publishedAt": "2024-09-06 18:17:34",
+      "content": "Senior Biden administration officials said Friday that the United States is preparing for the possible arrival of a more severe version of mpox, which has taken off in the Democratic Republic of Cong\u2026 [+3166 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.364108",
+      "internal_id": "3e81d683f54f470719253c3690608c2ae383ec394c26cdfe20265d4e1e6c73cb",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
       "id": 13191,
       "query": [
         "yersinia"
@@ -671,6 +851,60 @@
       "publishedAtLabel": "Sep 6"
     },
     {
+      "id": 13242,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MONIKA PRONCZUK Associated Press",
+      "title": "WHO and Africa CDC launch a response plan to the mpox outbreak",
+      "description": "The Africa Center for Disease Control and Prevention and the World Health Organization have launched a continent-wide response plan to the outbreak of mpox",
+      "url": "https://abcnews.go.com/Business/wireStory/africa-cdc-launch-response-plan-mpox-outbreak-113461378",
+      "urlToImage": "https://i.abcnewsfe.com/a/2a1d4469-c7b3-4399-8b34-44ddccf95f7d/wirestory_3cc38727dc1f546f43d80b72b0277c6d_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-06 16:38:33",
+      "content": "DAKAR, Senegal -- The Africa Center for Disease Control and Prevention and the World Health Organization launched on Friday a continent-wide response plan to the outbreak of mpox, three weeks after W\u2026 [+2912 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.386948",
+      "internal_id": "21cbbf8a2fe1e76a2dfd843e1d565d396edc39cce84bd577164ac1cd4340b6d3",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13231,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "US is beefing up mpox testing, vaccine access against new strain, officials say",
+      "description": "US is beefing up mpox testing, vaccine access against new strain, officials say",
+      "url": "https://www.investing.com/news/world-news/us-is-beefing-up-mpox-testing-vaccine-access-against-new-strain-officials-say-3605727",
+      "urlToImage": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+      "publishedAt": "2024-09-06 16:30:46",
+      "content": "By Julie Steenhuysen CHICAGO (Reuters) - The United States has beefed up testing and surveillance for a new strain of mpox and has ensured that vaccines are readily available at local pharmacies and\u2026 [+2481 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.309719",
+      "internal_id": "7a91735e6f24c5ada0b9874eb4862f6ac81c8143cea5f252ee7b597afbd1a9fb",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13234,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MONIKA PRONCZUK Associated Press",
+      "title": "WHO and Africa CDC launch a response plan to the mpox outbreak",
+      "description": "The Africa Center for Disease Control and Prevention and the World Health Organization have launched a continent-wide response plan to the outbreak of mpox",
+      "url": "https://abcnews.go.com/Health/wireStory/africa-cdc-launch-response-plan-mpox-outbreak-113461377",
+      "urlToImage": "https://i.abcnewsfe.com/a/2a1d4469-c7b3-4399-8b34-44ddccf95f7d/wirestory_3cc38727dc1f546f43d80b72b0277c6d_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-06 16:22:31",
+      "content": "DAKAR, Senegal -- The Africa Center for Disease Control and Prevention and the World Health Organization launched on Friday a continent-wide response plan to the outbreak of mpox, three weeks after W\u2026 [+2912 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.335814",
+      "internal_id": "3ee289188cf6613a4b0e3831342989db97c282dbfedd960bff0b273837d1c702",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
       "id": 13188,
       "query": [
         "mpox"
@@ -686,6 +920,24 @@
       "content": "DAKAR, Senegal -- The Africa Center for Disease Control and Prevention and the World Health Organization launched on Friday a continent-wide response plan to the outbreak of mpox, three weeks after W\u2026 [+2912 chars]",
       "retrievedAt": "2024-09-07 19:05:26.988460",
       "internal_id": "8877221cb14c3e981ed103cccbdfad87191cf2bb948604999b9e0c94b2ee92ce",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13236,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "The Associated Press",
+      "title": "WHO and Africa CDC launch a response plan to the mpox outbreak",
+      "description": "DAKAR, Senegal (AP) \u2014 The Africa Center for Disease Control and Prevention and the World Health Organization launched on Friday a continent-wide response plan to the outbreak of mpox, three weeks after WHO declared outbreaks in 12 African countries a global e\u2026",
+      "url": "https://financialpost.com/pmn/who-and-africa-cdc-launch-a-response-plan-to-the-mpox-outbreak",
+      "urlToImage": null,
+      "publishedAt": "2024-09-06 16:10:45",
+      "content": "DAKAR, Senegal (AP) The Africa Center for Disease Control and Prevention and the World Health Organization launched on Friday a continent-wide response plan to the outbreak of mpox, three weeks after\u2026 [+2911 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.352190",
+      "internal_id": "af935190db67617c3baba859142378ecc933d9d46703db4a3d35f581541f5a11",
       "publishedAtLabel": "Sep 6"
     },
     {
@@ -797,6 +1049,24 @@
       "publishedAtLabel": "Sep 6"
     },
     {
+      "id": 13229,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "2nd mpox vaccine dose still needed by Canadians at risk: public health",
+      "description": "Public health agencies are encouraging people who received a first dose of mpox vaccine over the last two years to make sure they get a second dose.",
+      "url": "https://www.cbc.ca/news/health/mpox-vaccine-canadian-cities-1.7315278",
+      "urlToImage": "https://i.cbc.ca/1.7315285.1725628733!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/health-mpox-vaccines.JPG",
+      "publishedAt": "2024-09-06 13:45:10",
+      "content": "Public health agencies are encouraging people who received a first dose of mpox vaccine over the last two years to make sure they get a second dose. Many people at risk for mpox exposure got vaccina\u2026 [+4460 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.298256",
+      "internal_id": "47ded06216067891bb260077eebb0baa4d7e27465c256cd7d821cbe219f279bb",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
       "id": 13184,
       "query": [
         "mpox"
@@ -836,6 +1106,24 @@
       "publishedAtLabel": "Sep 6"
     },
     {
+      "id": 13235,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "RTBF",
+      "author": "la r\u00e9daction avec Belga",
+      "title": "Mpox : la Belgique fait don de 20.000 vaccins \u00e0 la RDC",
+      "description": "Le gouvernement f\u00e9d\u00e9ral en affaires courantes a d\u00e9cid\u00e9 vendredi de faire don de 20.000 vaccins contre le Mpox \u00e0 la...",
+      "url": "https://www.rtbf.be/article/mpox-la-belgique-fait-don-de-20-000-vaccins-a-la-rdc-11430671",
+      "urlToImage": "https://ds.static.rtbf.be/article/image/1920x1080/7/6/3/b7892fb3c2f009c65f686f6355c895b5-1725626798.jpg",
+      "publishedAt": "2024-09-06 12:48:34",
+      "content": "Le gouvernement f\u00e9d\u00e9ral en affaires courantes a d\u00e9cid\u00e9 vendredi de faire don de 20.000 vaccins contre le Mpox \u00e0 la R\u00e9publique d\u00e9mocratique du Congo (RDC), le pays le plus touch\u00e9 par cette \u00e9pid\u00e9mie, a\u2026 [+1233 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.346516",
+      "internal_id": "031f6b29b5110c9ab95900177b9b4898c97d806383082a6e6e0d035b7ef45738",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
       "id": 13179,
       "query": [
         "mpox"
@@ -854,6 +1142,24 @@
       "publishedAtLabel": "Sep 6"
     },
     {
+      "id": 13230,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "mtm",
+      "title": "Belgi\u00eb doneert 20.000 mpox-vaccins aan Congo",
+      "description": "Belgi\u00eb doneert 20.000 mpox-vaccins aan de Democratische Republiek Congo (DRC), het land dat momenteel het zwaarst getroffen wordt door de mpox-epidemie. Dat heeft de federale ministerraad vrijdag beslist op voorstel van minister van Volksgezondheid Frank Vand\u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20240906_94421957",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/08/23/a12fde6d-8772-4b11-8f7a-f4ffc8dbc89d.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-09-06 12:16:45",
+      "content": "Belgi\u00eb doneert 20.000 mpox-vaccins aan de Democratische Republiek Congo (DRC), het land dat momenteel het zwaarst getroffen wordt door de mpox-epidemie. Dat heeft de federale ministerraad vrijdag bes\u2026 [+1586 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.304073",
+      "internal_id": "39ab1b6425af0ea0b1e4f562b8c8e817a059b4a440b3006ba26894e345aa440e",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
       "id": 13207,
       "query": [
         "mpox"
@@ -869,6 +1175,24 @@
       "content": "Belgi\u00eb doneert 20.000 mpox-vaccins aan de Democratische Republiek Congo (DRC), het land dat momenteel het zwaarst getroffen wordt door de mpox-epidemie. Dat heeft de federale ministerraad vrijdag bes\u2026 [+1707 chars]",
       "retrievedAt": "2024-09-08 07:06:07.096811",
       "internal_id": "b4fb0515ff16632dd3c6c9ea1cf4b17bb6f2557488785c526ba5b1923631765a",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13232,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "mtm",
+      "title": "Belgi\u00eb doneert 20.000 mpox-vaccins aan Congo",
+      "description": "Belgi\u00eb doneert 20.000 mpox-vaccins aan de Democratische Republiek Congo (DRC), het land dat momenteel het zwaarst getroffen wordt door de mpox-epidemie. Dat heeft de federale ministerraad vrijdag beslist op voorstel van minister van Volksgezondheid Frank Vand\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20240906_94333943",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/08/23/a12fde6d-8772-4b11-8f7a-f4ffc8dbc89d.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-09-06 11:57:31",
+      "content": "Belgi\u00eb doneert 20.000 mpox-vaccins aan de Democratische Republiek Congo (DRC), het land dat momenteel het zwaarst getroffen wordt door de mpox-epidemie. Dat heeft de federale ministerraad vrijdag bes\u2026 [+1586 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.315433",
+      "internal_id": "2eae9a20a31b416e5a45d1ae204a6a0b2e057792f214ba727e1bb3d0daac6ff2",
       "publishedAtLabel": "Sep 6"
     },
     {
@@ -977,6 +1301,24 @@
       "content": "MINNEAPOLIS, Minn. \u2014 Measles is much more than a rash. It can lead to deafness, brain damage and death. The Minnesota Department of Health has reported 46 cases of measles in the state so far this \u2026 [+1919 chars]",
       "retrievedAt": "2024-09-07 07:06:27.143235",
       "internal_id": "5a6f9f3c9a8f5776d8d894fc4095fbefb0520c5c388ae5edbd4b1c8103409b85",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 13241,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La vacuna de ARNm mpox en investigaci\u00f3n reduce la gravedad de la enfermedad en primates",
+      "description": "La vacuna mpox, que se utiliza con m\u00e1s frecuencia, proporciona inmunidad parcial a la enfermedad, pero no siempre es capaz de prevenir los s\u00edntomas graves o la transmisi\u00f3n de la enfermedad.",
+      "url": "https://www.infosalus.com/farmacia/noticia-vacuna-arnm-mpox-investigacion-reduce-gravedad-enfermedad-primates-20240906071348.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240906071348_1200.jpg",
+      "publishedAt": "2024-09-06 05:13:48",
+      "content": "MADRID, 6 Sep. (EUROPA PRESS) - La vacuna mpox, que se utiliza con m\u00e1s frecuencia, proporciona inmunidad parcial a la enfermedad, pero no siempre es capaz de prevenir los s\u00edntomas graves o la tran\u2026 [+5523 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.380826",
+      "internal_id": "211c473fa193655c8557fe784d3ceb37ecfc84f26511e073dcee5613e16f13e6",
       "publishedAtLabel": "Sep 6"
     },
     {
@@ -1430,6 +1772,24 @@
       "publishedAtLabel": "Sep 5"
     },
     {
+      "id": 13240,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "First Batch Of Mpox Vaccine Doses Arrives In Congo, Epicentre Of Outbreak",
+      "description": "Democratic Republic of Congo received its first batch of mpox vaccines on Thursday, which health authorities hope will help curb an outbreak that has prompted the U.N. to declare a global public health emergency.",
+      "url": "https://www.ndtv.com/world-news/mpox-news-first-batch-of-mpox-vaccine-doses-arrives-in-congo-epicentre-of-outbreak-6498500",
+      "urlToImage": "https://c.ndtvimg.com/2024-09/cisp0o4g_mpox-vaccine_625x300_05_September_24.jpeg",
+      "publishedAt": "2024-09-05 14:03:01",
+      "content": "This first delivery amounts to 99,000 doses. (Representational) Kinshasa: Democratic Republic of Congo received its first batch of mpox vaccines on Thursday, which health authorities hope will help \u2026 [+2164 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.375153",
+      "internal_id": "739f680177814a6e16a48948edf498998f85c271c8bd58654214a4aa54874842",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
       "id": 13132,
       "query": [
         "malaria"
@@ -1556,6 +1916,24 @@
       "publishedAtLabel": "Sep 5"
     },
     {
+      "id": 13239,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i",
+      "title": "Mpox. Congo recebe primeiras 100 mil vacinas da UE",
+      "description": "Espera-se que cheguem mais 100 mil nos pr\u00f3ximos dias O conte\u00fado Mpox. Congo recebe primeiras 100 mil vacinas da UE aparece primeiro em Jornal i.",
+      "url": "https://ionline.sapo.pt/2024/09/05/mpox-congo-recebe-primeiras-100-mil-vacinas-da-ue/",
+      "urlToImage": "https://ionline.sapo.pt/wp-content/uploads/2024/09/Mpox_vacina_dreamstime-2.jpg",
+      "publishedAt": "2024-09-05 13:02:41",
+      "content": "A Comiss\u00e3o Europeia (CE) anunciou, esta quinta-feira, que a Rep\u00fablica Democr\u00e1tica do Congo j\u00e1 recebeu 100 mil vacinas disponibilizadas pela Uni\u00e3o Europeia (UE), para combater a mpox. Em comunicado, \u2026 [+382 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.369665",
+      "internal_id": "abaf86145ceaa595fb9637004fcedf6f67be1e468e53badeae223191867ff5cc",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
       "id": 13127,
       "query": [
         "h5n1"
@@ -1661,6 +2039,24 @@
       "content": "Peri\u00f3dico La JornadaJueves 5 de septiembre de 2024, p. 15 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 41 mil 923 casos de dengue en el pa\u00eds, de los cuales 18 mil \u2026 [+2498 chars]",
       "retrievedAt": "2024-09-06 19:05:40.428902",
       "internal_id": "48176971038acab6cd9bc469e19b822bd8e1b7ac2a23c545ce95ca2daea9a182",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 13237,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Sudinfo avec Belga",
+      "title": "La RDC re\u00e7oit les premi\u00e8res doses de vaccin contre le mpox fournies par l\u2019UE",
+      "description": "La R\u00e9publique d\u00e9mocratique du Cong\u00e9 re\u00e7oit jeudi quelque 100.000 doses de vaccin contre le mpox fournis par l\u2019Union europ\u00e9enne, annonce la Commission.",
+      "url": "https://www.sudinfo.be/id876907/article/2024-09-05/la-rdc-recoit-les-premieres-doses-de-vaccin-contre-le-mpox-fournies-par-lue",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/05/node_876907/55842085/public/2024/09/05/25174904.jpeg?itok=eJUc1Sf71725534164",
+      "publishedAt": "2024-09-05 11:00:27",
+      "content": "Bient\u00f4t un vaccin contre le mpox ? \u00ab Ce que nous avons vu sest r\u00e9v\u00e9l\u00e9 tr\u00e8s surprenant et enthousiasmant \u00bb Un vaccin exp\u00e9rimental du laboratoire Moderna contre le mpox a fait preuve dune plus grande \u2026 [+3434 chars]",
+      "retrievedAt": "2024-09-09 07:06:30.357827",
+      "internal_id": "5ebc8f7c8a521960cfebd66ac0f7d000a4f33c46507f7eb375c063c5bd34944f",
       "publishedAtLabel": "Sep 5"
     },
     {
@@ -31313,6 +31709,42 @@
       "content": "Awards 1 win &amp; 4 nominations See more awards \u00bb Plot: Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town. Genre: Horror | ThrillerIMDB Rating\u2026 [+689 chars]",
       "retrievedAt": "2024-07-30 07:06:53.092573",
       "internal_id": "eb985370d41891a9164d7ad115f336d1d206efd512127ea072b51f1c01762421",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 11484,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Fontanka.ru",
+      "author": null,
+      "title": "\u0427\u0435\u0445\u0438 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443 \u0440\u0435\u0448\u0430\u044e\u0442. \u0427\u0442\u043e \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0438\u0437 \u043f\u0440\u0438\u0432\u0438\u0432\u043e\u043a, \u0447\u0442\u043e\u0431\u044b \u043f\u0443\u0441\u0442\u0438\u043b\u0438 \u0441 \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u043c \u0437\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0443",
+      "description": "\u041d\u0430 \u043c\u0438\u043d\u0443\u0432\u0448\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0435 \u0420\u043e\u0441\u0441\u0438\u044f \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a\u0430 \u0432\u0430\u043a\u0446\u0438\u043d \u043e\u0442 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u00ab\u041d\u043e\u0431\u0438\u0432\u0430\u043a Rabies\u00bb \u2014 \u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0446\u044b \u043e\u0442\u043a\u0430\u0437\u0430\u043b\u0438\u0441\u044c \u0438\u0433\u0440\u0430\u0442\u044c \u043f\u043e \u043f\u0440\u0430\u0432\u0438\u043b\u0430\u043c \u0420\u043e\u0441\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u043d\u0430\u0434\u0437\u043e\u0440\u0430.",
+      "url": "https://www.fontanka.ru/2024/07/28/73843271/",
+      "urlToImage": "https://cdn.iportal.ru/news/articles/social/54d9438f84b26481c36faf79e4ca4fa0.png",
+      "publishedAt": "2024-07-28 13:38:40",
+      "content": "\u00ab Rabies\u00bb . . \u00ab\u00bb , , . \u00ab 15 \u00ab\u00ae Rabies\u00bb \u00abIntervet International B.V.\u00bb () . , 1 2024 , \u00bb, , . 2022 - . . GMP, . GMP-? -GMP , . 1 2023 , GMP (Good manufacturing practice ). , , . \u00ab GMP, , GMP \u00bb,\u2026 [+480 chars]",
+      "retrievedAt": "2024-07-29 19:05:40.879632",
+      "internal_id": "ad2f0bf0aecd9f472859b865cafea547aec2b3c26327c57e12c30ee8b694a118",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 11485,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "BS Reporter",
+      "title": "USAID, Takeda Biopharma launch dengue prevention programme across India",
+      "description": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil",
+      "url": "https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/28/thumb/featurecrop/400X400/1722161975-1545.jpeg",
+      "publishedAt": "2024-07-28 10:20:31",
+      "content": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil Image credit: USAID's X accou\u2026 [+2271 chars]",
+      "retrievedAt": "2024-07-29 19:05:42.044678",
+      "internal_id": "8a4a356d3b19bab889eca92053315491650758fe12185c61d9eb80446b6c2360",
       "publishedAtLabel": "Jul 28"
     }
   ]

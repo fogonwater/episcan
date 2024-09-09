@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-09-08 19:05
-- **Most recent article:** 2024-09-07 17:15:29
+- **New articles in last harvest:** 22
+- **Last harvest:** 2024-09-09 07:06
+- **Most recent article:** 2024-09-08 04:38:00
 
 ---
 
@@ -10,28 +10,38 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | Total |
-|--|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 161 | 1033 |
-| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 308 |
-| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 119 |
-| h5n1 | 21 | 6 | 8 | 5 | 10 | 28 | 78 |
-| zika | 12 | 11 | 10 | 21 | 2 | 6 | 62 |
-| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 47 |
-| measles | 7 | 6 | 3 | 7 | 11 | 9 | 43 |
-| meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 39 |
-| chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 33 |
-| pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 22 |
-| hpai | 4 | 1 | 1 | 1 | 0 | 3 | 10 |
-| leptospirosis | 1 | 2 | 2 | 4 | 0 | 1 | 10 |
-| yersinia | 1 | 1 | 0 | 1 | 1 | 2 | 6 |
-| typhoid | 1 | 0 | 1 | 2 | 1 | 1 | 6 |
-| shigellosis | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
+|--|-|-|-|-|-|-|-|-|
+| mpox | 26 | 139 | 292 | 208 | 207 | 177 | 0 | 1049 |
+| dengue | 53 | 46 | 52 | 64 | 45 | 49 | 2 | 311 |
+| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 1 | 120 |
+| h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 0 | 81 |
+| zika | 12 | 11 | 10 | 21 | 2 | 6 | 0 | 62 |
+| rabies | 12 | 8 | 12 | 6 | 3 | 7 | 0 | 48 |
+| measles | 7 | 6 | 3 | 7 | 11 | 9 | 0 | 43 |
+| meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 0 | 39 |
+| chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 0 | 33 |
+| pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 0 | 22 |
+| hpai | 4 | 1 | 1 | 1 | 0 | 3 | 0 | 10 |
+| leptospirosis | 1 | 2 | 2 | 4 | 0 | 1 | 0 | 10 |
+| yersinia | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 6 |
+| typhoid | 1 | 0 | 1 | 2 | 1 | 1 | 0 | 6 |
+| shigellosis | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-37 (malaria)
+
+- [Communities in Baringo fight back against malaria with local solutions and mosquito nets](https://nation.africa/kenya/health/communities-in-baringo-fight-back-against-malaria-with-local-solutions-and-mosquito-nets-4752364) (Nation.africa)
+
+## 24-37 (dengue)
+
+- [Dengue cases decline in ME35, four deaths reported](https://www.thestar.com.my/news/nation/2024/09/08/dengue-cases-decline-in-me35-four-deaths-reported) (The Star Online)
+
+- [Cebu: Public emergency gitun-an sa dakbayan sa Sugbo tungod sa nagsaka nga kaso sa dengue](https://rpnradio.com/cebu-public-emergency-gitun-an-sa-dakbayan-sa-sugbo-tungod-sa-nagsaka-nga-kaso-sa-dengue/) (Rpnradio.com)
 
 ## 24-36 (zika)
 
@@ -79,6 +89,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-36 (mpox)
 
+- [Vaccinations against mpox in Congo will begin next month, authorities say](https://japantoday.com/category/world/vaccinations-against-mpox-in-congo-will-begin-next-month-authorities-say) (Japan Today)
+
+- [Vaccinations against mpox in Congo will begin next month, authorities say](https://abcnews.go.com/Health/wireStory/vaccinations-mpox-congo-begin-month-authorities-113487079) (ABC News)
+
+- [Vaccinations against mpox in Congo will begin next month, authorities say](https://abcnews.go.com/International/wireStory/vaccinations-mpox-congo-begin-month-authorities-113487078) (ABC News)
+
 - [¿Por qué las vacunas contra la mpox están tardando tanto en llegar a África?](https://aristeguinoticias.com/0709/mundo/por-que-las-vacunas-contra-la-mpox-estan-tardando-tanto-en-llegar-a-africa/) (Aristeguinoticias.com)
 
 - [Virus mpox : 10 questions posées par les quatre épidémies de cette maladie](https://www.ouest-france.fr/sante/virus/variole-du-singe/sante-dix-questions-posees-par-les-quatre-epidemies-de-mpox-958dc90e-6ba3-11ef-87ff-6b83746dd621) (Ouest-France)
@@ -107,11 +123,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Sector Salud inicia capacitación sobre detección y atención de mpox](https://aristeguinoticias.com/0609/mexico/sector-salud-inicia-capacitacion-sobre-deteccion-y-atencion-de-mpox/) (Aristeguinoticias.com)
 
+- [U.S. prepares for possible arrival of more severe strain of mpox](https://www.nbcnews.com/health/health-news/us-prepares-possible-arrival-severe-strain-mpox-rcna169926) (NBC News)
+
 - [What It’s Like to Respond to Mpox in Africa Right Now](https://time.com/7017631/mpox-outbreak-africa-burundi-doctors-essay/) (Time)
 
 - [Mpox: autoridades de saúde lançam plano para África de 541 milhões de euros até fevereiro](https://observador.pt/2024/09/06/mpox-autoridades-de-saude-lancam-plano-para-africa-de-541-milhoes-de-euros-ate-fevereiro/) (Observador.pt)
 
+- [WHO and Africa CDC launch a response plan to the mpox outbreak](https://abcnews.go.com/Business/wireStory/africa-cdc-launch-response-plan-mpox-outbreak-113461378) (ABC News)
+
+- [US is beefing up mpox testing, vaccine access against new strain, officials say](https://www.investing.com/news/world-news/us-is-beefing-up-mpox-testing-vaccine-access-against-new-strain-officials-say-3605727) (Investing.com)
+
+- [WHO and Africa CDC launch a response plan to the mpox outbreak](https://abcnews.go.com/Health/wireStory/africa-cdc-launch-response-plan-mpox-outbreak-113461377) (ABC News)
+
 - [WHO and Africa CDC launch a response plan to the mpox outbreak](https://abcnews.go.com/International/wireStory/africa-cdc-launch-response-plan-mpox-outbreak-113461376) (ABC News)
+
+- [WHO and Africa CDC launch a response plan to the mpox outbreak](https://financialpost.com/pmn/who-and-africa-cdc-launch-a-response-plan-to-the-mpox-outbreak) (Financial Post)
 
 - [Mass screening for mpox](https://www.thestar.com.my/news/nation/2024/09/07/mass-screening-for-mpox) (The Star Online)
 
@@ -119,11 +145,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Health agencies scramble to prepare for new mpox strain...](https://rollcall.com/2024/09/05/health-agencies-scramble-to-prepare-for-new-mpox-strain/) (Roll Call)
 
+- [2nd mpox vaccine dose still needed by Canadians at risk: public health](https://www.cbc.ca/news/health/mpox-vaccine-canadian-cities-1.7315278) (CBC News)
+
 - [B21 million approved for mpox vaccines](https://www.bangkokpost.com/thailand/general/2860827/b21-million-approved-for-mpox-vaccines) (Bangkok Post)
+
+- [Mpox : la Belgique fait don de 20.000 vaccins à la RDC](https://www.rtbf.be/article/mpox-la-belgique-fait-don-de-20-000-vaccins-a-la-rdc-11430671) (RTBF)
 
 - [The High Cost of the Netherlands’ Mpox Vaccine Hoarding](https://www.project-syndicate.org/commentary/netherlands-vaccine-hoarding-undermines-global-mpox-response-by-gordon-brown-2024-09) (Project Syndicate)
 
+- [België doneert 20.000 mpox-vaccins aan Congo](https://www.hbvl.be/cnt/dmf20240906_94421957) (Hbvl.be)
+
 - [België doneert 20.000 mpox-vaccins aan Congo](https://www.gva.be/cnt/dmf20240906_94361711) (Www.gva.be)
+
+- [België doneert 20.000 mpox-vaccins aan Congo](https://www.nieuwsblad.be/cnt/dmf20240906_94333943) (Nieuwsblad.be)
 
 - [Viruela del mono: los médicos actualizan el diagnóstico de las lesiones en la piel para adaptarlo a la nueva variante](https://www.elperiodico.com/es/sociedad/20240906/viruela-mono-medicos-actualizan-diagnostico-107825002) (Elperiodico.com)
 
@@ -132,6 +166,8 @@ Source: [News API](https://newsapi.org/)
 - [The Mpox Outbreak Is a Damning Indictment of the Global Health System](https://www.thenation.com/article/world/mpox-outbreak-2024-explainer/) (Thenation.com)
 
 - [Parliament to discuss Mobile Guardian breach, extremist preacher and mpox](https://www.channelnewsasia.com/singapore/parliament-order-paper-sep-9-mobile-guardian-mpox-gep-extremist-preacher-4590736) (CNA)
+
+- [La vacuna de ARNm mpox en investigación reduce la gravedad de la enfermedad en primates](https://www.infosalus.com/farmacia/noticia-vacuna-arnm-mpox-investigacion-reduce-gravedad-enfermedad-primates-20240906071348.html) (Infosalus.com)
 
 - [Reinforced skin for amputees, and could E.T. be an AI?](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/reinforced-skin-amputees-and-could-et-be-ai) (The Naked Scientists)
 
@@ -163,6 +199,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Congo received its first 100,000 mpox vaccine doses—now it just needs 2.9 million more to end the outbreak](https://fortune.com/2024/09/05/congo-mpox-vaccine-doses-who-unicef/) (Fortune)
 
+- [First Batch Of Mpox Vaccine Doses Arrives In Congo, Epicentre Of Outbreak](https://www.ndtv.com/world-news/mpox-news-first-batch-of-mpox-vaccine-doses-arrives-in-congo-epicentre-of-outbreak-6498500) (NDTV News)
+
 - [The first 100,000 doses of mpox vaccine reach Congo. But it's a fraction of what is needed](https://abcnews.go.com/International/wireStory/100000-doses-mpox-vaccine-reach-congo-fraction-needed-113415201) (ABC News)
 
 - [The first 100,000 doses of mpox vaccine reach Congo. But it's a fraction of what is needed](https://abcnews.go.com/International/wireStory/100000-doses-mpox-vaccine-reach-congo-fraction-needed-113414506) (ABC News)
@@ -173,11 +211,15 @@ Source: [News API](https://newsapi.org/)
 
 - [The first batch of mpox vaccine arrives in Congo's capital three weeks after WHO declares the virus a global emergency.](https://abcnews.go.com/US/wireStory/batch-mpox-vaccine-arrives-congos-capital-weeks-after-113414217) (ABC News)
 
+- [Mpox. Congo recebe primeiras 100 mil vacinas da UE](https://ionline.sapo.pt/2024/09/05/mpox-congo-recebe-primeiras-100-mil-vacinas-da-ue/) (Sapo.pt)
+
 - [Mpox epicentre DRC set to receive first vaccines to contain outbreak](https://www.digitaljournal.com/life/mpox-epicentre-drc-set-to-receive-first-vaccines-to-contain-outbreak/article) (Digital Journal)
 
 - [Mpox Epicentre DRC Set To Receive First Vaccines To Contain Outbreak](https://www.ibtimes.com/mpox-epicentre-drc-set-receive-first-vaccines-contain-outbreak-3742020) (International Business Times)
 
 - [Første doser af mpox-vaccine landet i DR Congo](https://www.dr.dk/nyheder/seneste/foerste-doser-af-mpox-vaccine-landet-i-dr-congo) (Www.dr.dk)
+
+- [La RDC reçoit les premières doses de vaccin contre le mpox fournies par l’UE](https://www.sudinfo.be/id876907/article/2024-09-05/la-rdc-recoit-les-premieres-doses-de-vaccin-contre-le-mpox-fournies-par-lue) (Sudinfo.be)
 
 - [Doctors warn cases of new mpox strain likely inevitable in Alberta](https://www.cbc.ca/news/canada/calgary/doctors-warn-cases-new-mpox-strain-alberta-1.7313433) (CBC News)
 
@@ -478,6 +520,12 @@ Source: [News API](https://newsapi.org/)
 - [Bird Flu Has Now Spread to California’s Dairy Cows](https://legalinsurrection.com/2024/09/bird-flu-has-now-spread-to-californias-dairy-cows/) (Legalinsurrection.com)
 
 ## 24-36 (h5n1)
+
+- [H5N1-Infektion in USA ohne nachweislichen Tierkontakt](https://orf.at/stories/3368876/) (Orf.at)
+
+- [H5N1: Vogelgrippe-Fall bei Person in den USA gibt Rätsel auf](https://www.zeit.de/news/2024-09/07/vogelgrippe-fall-bei-person-in-den-usa-gibt-raetsel-auf) (Die Zeit)
+
+- [H5N1: Vogelgrippe-Fall bei Person in den USA gibt Rätsel auf](https://www.stern.de/panorama/h5n1--vogelgrippe-fall-bei-person-in-den-usa-gibt-raetsel-auf-35046170.html) (STERN.de)
 
 - [First case of bird flu without known animal contact detected in Missouri...](https://thehill.com/policy/healthcare/4867374-cdc-bird-flu-missouri-case-no-animal-contact/) (The Hill)
 
@@ -3531,6 +3579,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
 
+- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
+
 ## 24-31 (pertussis)
 
 - [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
@@ -3816,6 +3866,8 @@ Source: [News API](https://newsapi.org/)
 - [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
 
 - [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
+
+- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 ## 24-31 (chikungunya)
 
