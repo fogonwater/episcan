@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2024-09-10 07:07
-- **Most recent article:** 2024-09-09 03:45:12
+- **New articles in last harvest:** 27
+- **Last harvest:** 2024-09-10 19:05
+- **Most recent article:** 2024-09-09 18:59:04
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 183 | 18 | 1073 |
-| dengue | 53 | 46 | 52 | 64 | 45 | 49 | 8 | 317 |
-| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 2 | 121 |
-| h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 0 | 81 |
+| mpox | 26 | 139 | 292 | 208 | 207 | 183 | 37 | 1092 |
+| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 13 | 321 |
+| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 3 | 122 |
+| h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 1 | 82 |
 | zika | 12 | 11 | 10 | 21 | 2 | 6 | 0 | 62 |
-| rabies | 12 | 8 | 12 | 6 | 3 | 7 | 1 | 49 |
-| measles | 7 | 6 | 3 | 7 | 11 | 9 | 0 | 43 |
+| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 1 | 48 |
+| measles | 7 | 6 | 3 | 7 | 11 | 9 | 1 | 44 |
 | meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 0 | 39 |
 | chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 0 | 33 |
 | pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 0 | 22 |
@@ -38,6 +38,44 @@ Source: [News API](https://newsapi.org/)
 - [Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials](https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms) (The Times of India)
 
 ## 24-37 (mpox)
+
+- [Rating agencies and Africa: The absence of people on the ground contributes to bias against the continent](https://phys.org/news/2024-09-agencies-africa-absence-people-ground.html) (Phys.Org)
+
+- [Mpox: Centre asks state to review protocols](https://timesofindia.indiatimes.com/city/goa/mpox-centre-asks-state-to-review-protocols/articleshow/113204505.cms) (The Times of India)
+
+- [Kabinet wil toch mpox-virus in Afrika helpen bestrijden: minister Klever trekt 3 miljoen euro uit](https://www.nrc.nl/nieuws/2024/09/09/kabinet-wil-toch-mpox-virus-in-afrika-helpen-bestrijden-minister-klever-trekt-3-miljoen-euro-uit-a4865051) (Www.nrc.nl)
+
+- [मंकीपॉक्स के खौफ में भारत, पहला केस मिलने के बाद स्वास्थ्य मंत्रालय ने जारी की एडवाइजरी, दी ये खास सलाह](https://navbharattimes.indiatimes.com/india/monkeypox-alert-in-india-health-ministry-issued-advisory-after-first-case-found/articleshow/113203186.cms) (The Times of India)
+
+- [L’épidémie de Mpox continue de se propager dans le monde : l’Inde confirme un cas sur son territoire, bien que d’un variant peu dangereux](https://www.sudinfo.be/id878780/article/2024-09-09/lepidemie-de-mpox-continue-de-se-propager-dans-le-monde-linde-confirme-un-cas) (Sudinfo.be)
+
+- [Seegene Expands mpox RUO Product Lineups with Enhanced Detection Assays for Clade 1](https://www.prnewswire.co.uk/news-releases/seegene-expands-mpox-ruo-product-lineups-with-enhanced-detection-assays-for-clade-1-302242213.html) (PR Newswire UK)
+
+- [Mpox vaccination to begin in Congo next month](https://www.nbcnews.com/health/health-news/mpox-vaccination-begin-congo-month-rcna170195) (NBC News)
+
+- [Mpox: Portugal identificou três surtos desde 2022 com 1.206 casos confirmados](https://observador.pt/2024/09/09/mpox-portugal-identificou-tres-surtos-desde-2022-com-1-206-casos-confirmados/) (Observador.pt)
+
+- [India confirms isolated Mpox case, Health Ministry urges vigilance and preparedness](https://www.thehindubusinessline.com/news/india-confirms-isolated-mpox-case-health-ministry-urges-vigilance-and-preparedness/article68622659.ece) (BusinessLine)
+
+- [Portugal identificou três surtos de Mpox desde 2022, com 1.206 casos confirmados](https://expresso.pt/sociedade/saude/2024-09-09-portugal-identificou-tres-surtos-de-mpox-desde-2022-com-1.206-casos-confirmados-ace4dadf) (Expresso.pt)
+
+- [Rating agencies and Africa: the absence of people on the ground contributes to bias against the continent – analyst](https://theconversation.com/rating-agencies-and-africa-the-absence-of-people-on-the-ground-contributes-to-bias-against-the-continent-analyst-237778) (The Conversation Africa)
+
+- [Seegene Expands mpox RUO Product Lineups with Enhanced Detection Assays for Clade 1](https://www.investing.com/news/press-releases/seegene-expands-mpox-ruo-product-lineups-with-enhanced-detection-assays-for-clade-1-93CH-3607347) (Investing.com)
+
+- [В Индии прокомментировали зафиксированный случай оспы обезьян](https://tass.ru/obschestvo/21816707) (Tass.ru)
+
+- [Isolated Mpox Case In India, But Not Part Of WHO Public Health Emergency](https://www.ndtv.com/india-news/isolated-mpox-case-in-india-but-not-part-of-who-public-health-emergency-6526278) (NDTV News)
+
+- [Tonix reports promising mpox vaccine preclinical data](https://www.investing.com/news/company-news/tonix-reports-promising-mpox-vaccine-preclinical-data-93CH-3606855) (Investing.com)
+
+- [В Индии усилили медосмотр пассажиров в аэропортах из-за вспышки оспы обезьян](https://tass.ru/obschestvo/21813653) (Tass.ru)
+
+- [Centre Issues Directive Over Mpox Outbreak: What Are The Symptoms](https://www.ndtv.com/india-news/centres-directive-over-mpox-outbreak-what-are-the-symptoms-6524472) (NDTV News)
+
+- [Understanding monkeypox: Myths and misinformation to ignore about the disease](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/understanding-monkeypox-debunking-myths-and-misinformation/articleshow/113183887.cms) (The Times of India)
+
+- ["Screening And Testing, Contact Tracing": Centre's Mpox Advisory To States](https://www.ndtv.com/india-news/screening-and-testing-contact-tracing-centres-mpox-advisory-to-states-6523921) (NDTV News)
 
 - [Should you worry about mpox when travelling?](https://www.nationalgeographic.com/travel/article/should-you-worry-about-mpox-monkeypox-when-travelling) (National Geographic)
 
@@ -75,13 +113,33 @@ Source: [News API](https://newsapi.org/)
 
 - [Suspected mpox case under probe in India, no cause for alarm, says Govt](https://economictimes.indiatimes.com/news/india/suspected-mpox-case-under-probe-no-cause-for-alarm-govt/articleshow/113167893.cms) (The Times of India)
 
+## 24-37 (measles)
+
+- [Invasive Jellyfish Clones Overrunning British Columbian Lakes; Measles Cases Increasing in Oregon](https://www.scientificamerican.com/podcast/episode/invasive-jellyfish-clones-overrunning-british-columbian-lakes-measles-cases/) (Scientific American)
+
 ## 24-37 (malaria)
+
+- [Niger launches campaign to reduce mosquito propagation](https://www.thestar.com.my/news/world/2024/09/10/niger-launches-campaign-to-reduce-mosquito-propagation) (The Star Online)
 
 - [After two kids die, kin & villagers vow to end superstition in Maharashtra](https://timesofindia.indiatimes.com/city/nagpur/two-children-die-due-to-superstition-in-yeragadda-village/articleshow/113175525.cms) (The Times of India)
 
 - [Communities in Baringo fight back against malaria with local solutions and mosquito nets](https://nation.africa/kenya/health/communities-in-baringo-fight-back-against-malaria-with-local-solutions-and-mosquito-nets-4752364) (Nation.africa)
 
+## 24-37 (h5n1)
+
+- [EE.UU. detecta el primer caso de gripe aviar en una persona que no tuvo contacto conocido con animales](https://www.meneame.net/m/actualidad/ee-uu-detecta-primer-caso-gripe-aviar-persona-no-tuvo-contacto) (Meneame.net)
+
 ## 24-37 (dengue)
+
+- [Detectado un brote de dengue autóctono en Tarragona](https://www.abc.es/espana/cataluna/detectado-brote-dengue-autoctono-tarragona-20240909182959-nt.html) (Www.abc.es)
+
+- [Detectan un brote con tres casos de dengue autóctono en Cataluña](https://www.elmundo.es/ciencia-y-salud/salud/2024/09/09/66df0479e85ecef2678b45b6.html) (El Mundo)
+
+- [Laughter Chefs' Rahul Vaidya updates about wife Disha Parmar's dengue diagnosis; writes 'Welcome to the sick club'](https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-about-wife-disha-parmars-dengue-diagnosis-writes-welcome-to-the-sick-club/articleshow/113195894.cms) (The Times of India)
+
+- [Probabile caso Dengue a Ortona, scattano le misure sanitarie](https://www.ansa.it/abruzzo/notizie/2024/09/09/probabile-caso-dengue-a-ortona-scattano-le-misure-sanitarie_ca961557-0105-4071-9031-bc6bf3cc5b1f.html) (ANSA.it)
+
+- [After Rahul Vaidya, Disha Parmar Dignosed With Dengue. See Post](https://www.ndtv.com/entertainment/after-rahul-vaidya-disha-parmar-dignosed-with-dengue-welcome-to-the-sick-club-6523869) (NDTV News)
 
 - [Two succumb to dengue in Jhapa](https://english.khabarhub.com/2024/09/395644/) (Khabarhub.com)
 
@@ -3647,8 +3705,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
 
-- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
-
 ## 24-31 (pertussis)
 
 - [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
@@ -3934,8 +3990,6 @@ Source: [News API](https://newsapi.org/)
 - [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
 
 - [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
-
-- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 ## 24-31 (chikungunya)
 
