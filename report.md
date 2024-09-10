@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-09-09 19:05
-- **Most recent article:** 2024-09-08 17:43:19
+- **New articles in last harvest:** 24
+- **Last harvest:** 2024-09-10 07:07
+- **Most recent article:** 2024-09-09 03:45:12
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 177 | 6 | 1055 |
-| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 3 | 311 |
-| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 1 | 120 |
+| mpox | 26 | 139 | 292 | 208 | 207 | 183 | 18 | 1073 |
+| dengue | 53 | 46 | 52 | 64 | 45 | 49 | 8 | 317 |
+| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 2 | 121 |
 | h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 0 | 81 |
 | zika | 12 | 11 | 10 | 21 | 2 | 6 | 0 | 62 |
-| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 1 | 48 |
+| rabies | 12 | 8 | 12 | 6 | 3 | 7 | 1 | 49 |
 | measles | 7 | 6 | 3 | 7 | 11 | 9 | 0 | 43 |
 | meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 0 | 39 |
 | chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 0 | 33 |
@@ -39,7 +39,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (mpox)
 
+- [Should you worry about mpox when travelling?](https://www.nationalgeographic.com/travel/article/should-you-worry-about-mpox-monkeypox-when-travelling) (National Geographic)
+
+- [India isolates 'suspected mpox case'](https://www.voanews.com/a/india-isolates-suspected-mpox-case/7776214.html) (VOA News)
+
+- [Mpox suspected, man isolated: Government](https://timesofindia.indiatimes.com/india/mpox-suspected-man-isolated-government/articleshow/113173957.cms) (The Times of India)
+
+- [Africa desperately needs mpox vaccines. But donations from rich countries won’t fix this or the next health emergency](https://theconversation.com/africa-desperately-needs-mpox-vaccines-but-donations-from-rich-countries-wont-fix-this-or-the-next-health-emergency-237747) (The Conversation Africa)
+
+- [Mpox-vaccins sturen naar Afrika is ook in Nederlands belang](https://www.nrc.nl/nieuws/2024/09/08/mpox-vaccins-sturen-naar-afrika-is-ook-in-nederlands-belang-a4864952) (Www.nrc.nl)
+
+- [India detects 1st suspected mpox case](https://www.dw.com/en/india-detects-1st-suspected-mpox-case/a-70166401) (DW (English))
+
 - [В Индии зафиксировали пациента с подозрением на оспу обезьян](https://tass.ru/obschestvo/21807789) (Tass.ru)
+
+- [La India examina primer caso sospechoso de viruela del mono durante la emergencia global](https://www.montevideo.com.uy/Salud/La-India-examina-primer-caso-sospechoso-de-viruela-del-mono-durante-la-emergencia-global-uc899570) (Montevideo.com.uy)
 
 - [India records first suspected mpox case, male patient in isolation](https://www.aljazeera.com/news/2024/9/8/india-records-first-suspected-mpox-case-male-patient-in-isolation) (Al Jazeera English)
 
@@ -47,15 +61,37 @@ Source: [News API](https://newsapi.org/)
 
 - [Suspected Mpox case under probe, no cause for alarm, says Govt](https://www.thehindubusinessline.com/news/suspected-mpox-case-under-probe-no-cause-for-alarm-says-govt/article68618549.ece) (BusinessLine)
 
+- [India reports case of mpox in traveller from affected country](https://www.thestar.com.my/news/world/2024/09/08/india-reports-case-of-mpox-in-traveller-from-affected-country) (The Star Online)
+
 - [Мнения: У оспы обезьян есть одна неприятная для биотеха особенность](https://vz.ru/opinions/2024/9/8/1286142.html) (Vz.ru)
+
+- [Health ministry reports first suspected case of mpox virus in India](https://www.business-standard.com/health/health-ministry-reports-first-suspected-case-of-mpox-virus-in-india-124090800399_1.html) (Business Standard)
+
+- [Misstänkt mpox-fall i nytt land](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1289283) (Aftonbladet.se)
+
+- [India reports first suspected case of Mpox: Symptoms, prevention, transmission and WHO norms on vaccination](https://economictimes.indiatimes.com/magazines/panache/india-reports-first-suspected-case-of-mpox-monkeypox-symptoms-prevention-transmission-and-who-norms-on-vaccination/articleshow/113168254.cms) (The Times of India)
 
 - [India's 1st Mpox Case? Centre Says Man Isolated, No Cause For Alarm](https://www.ndtv.com/india-news/indias-1st-mpox-case-centre-says-man-isolated-no-cause-for-alarm-6518374) (NDTV News)
 
+- [Suspected mpox case under probe in India, no cause for alarm, says Govt](https://economictimes.indiatimes.com/news/india/suspected-mpox-case-under-probe-no-cause-for-alarm-govt/articleshow/113167893.cms) (The Times of India)
+
 ## 24-37 (malaria)
+
+- [After two kids die, kin & villagers vow to end superstition in Maharashtra](https://timesofindia.indiatimes.com/city/nagpur/two-children-die-due-to-superstition-in-yeragadda-village/articleshow/113175525.cms) (The Times of India)
 
 - [Communities in Baringo fight back against malaria with local solutions and mosquito nets](https://nation.africa/kenya/health/communities-in-baringo-fight-back-against-malaria-with-local-solutions-and-mosquito-nets-4752364) (Nation.africa)
 
 ## 24-37 (dengue)
+
+- [Two succumb to dengue in Jhapa](https://english.khabarhub.com/2024/09/395644/) (Khabarhub.com)
+
+- [Jangan Salah Kaprah, Orang yang Sudah Terkena Demam Berdarah Dengue Belum Kebal dan Bisa Terjangkit Lagi Maka Pentingnya Vaksin](https://www.fimela.com/health/read/5697036/jangan-salah-kaprah-orang-yang-sudah-terkena-demam-berdarah-dengue-belum-kebal-dan-bisa-terjangkit-lagi-maka-pentingnya-vaksin) (Fimela.com)
+
+- [Dengue cases down, four deaths reported](https://www.thestar.com.my/news/nation/2024/09/09/dengue-cases-down-four-deaths-reported) (The Star Online)
+
+- [Estudo desvenda como os mosquitos da dengue acham vítimas no escuro](https://gizmodo.uol.com.br/estudo-desvenda-como-os-mosquitos-da-dengue-acham-vitimas-no-escuro/) (Uol.com.br)
+
+- [Puerta a puerta: así es el operativo en 6947 domicilios para conocer cuántos porteños ya tuvieron dengue](https://www.lanacion.com.ar/sociedad/puerta-a-puerta-asi-es-el-operativo-en-6947-domicilios-para-conocer-cuantos-portenos-ya-tuvieron-nid08092024/) (La Nacion)
 
 - [Laughter Chefs' Rahul Vaidya updates fans about having 104 degrees of fever; reveals dengue spoiled his Ganesh Chaturthi celebration](https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-fans-about-having-104-degrees-of-fever-reveals-dengue-spoiled-his-ganesh-chaturthi-celebration/articleshow/113164874.cms) (The Times of India)
 
@@ -109,6 +145,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-36 (mpox)
 
+- [Viruela del mono en México: Investigan en Oaxaca posible caso; envían muestra al Indre](https://www.elfinanciero.com.mx/salud/2024/09/07/viruela-del-mono-en-mexico-investigan-en-oaxaca-posible-caso-envian-muestra-al-indre/) (El Financiero)
+
 - [Vaccinations against mpox in Congo will begin next month, authorities say](https://japantoday.com/category/world/vaccinations-against-mpox-in-congo-will-begin-next-month-authorities-say) (Japan Today)
 
 - [Vaccinations against mpox in Congo will begin next month, authorities say](https://abcnews.go.com/Health/wireStory/vaccinations-mpox-congo-begin-month-authorities-113487079) (ABC News)
@@ -118,6 +156,8 @@ Source: [News API](https://newsapi.org/)
 - [¿Por qué las vacunas contra la mpox están tardando tanto en llegar a África?](https://aristeguinoticias.com/0709/mundo/por-que-las-vacunas-contra-la-mpox-estan-tardando-tanto-en-llegar-a-africa/) (Aristeguinoticias.com)
 
 - [Virus mpox : 10 questions posées par les quatre épidémies de cette maladie](https://www.ouest-france.fr/sante/virus/variole-du-singe/sante-dix-questions-posees-par-les-quatre-epidemies-de-mpox-958dc90e-6ba3-11ef-87ff-6b83746dd621) (Ouest-France)
+
+- [¿Por qué las vacunas contra la mpox están tardando tanto en llegar a África?](https://www.montevideo.com.uy/Salud/-Por-que-las-vacunas-contra-la-mpox-estan-tardando-tanto-en-llegar-a-Africa--uc899481) (Montevideo.com.uy)
 
 - [Mpox and the dangers of treating some lives as disposable](https://www.aljazeera.com/opinions/2024/9/7/mpox-and-the-dangers-of-treating-some-lives-as) (Al Jazeera English)
 
@@ -145,6 +185,8 @@ Source: [News API](https://newsapi.org/)
 
 - [U.S. prepares for possible arrival of more severe strain of mpox](https://www.nbcnews.com/health/health-news/us-prepares-possible-arrival-severe-strain-mpox-rcna169926) (NBC News)
 
+- [Épidémie de Mpox : la propagation du virus en Afrique centrale s’accélère](https://www.sudinfo.be/id877649/article/2024-09-06/epidemie-de-mpox-la-propagation-du-virus-en-afrique-centrale-saccelere) (Sudinfo.be)
+
 - [What It’s Like to Respond to Mpox in Africa Right Now](https://time.com/7017631/mpox-outbreak-africa-burundi-doctors-essay/) (Time)
 
 - [Mpox: autoridades de saúde lançam plano para África de 541 milhões de euros até fevereiro](https://observador.pt/2024/09/06/mpox-autoridades-de-saude-lancam-plano-para-africa-de-541-milhoes-de-euros-ate-fevereiro/) (Observador.pt)
@@ -165,6 +207,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Health agencies scramble to prepare for new mpox strain...](https://rollcall.com/2024/09/05/health-agencies-scramble-to-prepare-for-new-mpox-strain/) (Roll Call)
 
+- [DRC receives first batch of 100,000 doses of mpox vaccine](https://www.bbc.co.uk/programmes/w172zb91kl272sn) (BBC News)
+
 - [2nd mpox vaccine dose still needed by Canadians at risk: public health](https://www.cbc.ca/news/health/mpox-vaccine-canadian-cities-1.7315278) (CBC News)
 
 - [B21 million approved for mpox vaccines](https://www.bangkokpost.com/thailand/general/2860827/b21-million-approved-for-mpox-vaccines) (Bangkok Post)
@@ -172,6 +216,8 @@ Source: [News API](https://newsapi.org/)
 - [Mpox : la Belgique fait don de 20.000 vaccins à la RDC](https://www.rtbf.be/article/mpox-la-belgique-fait-don-de-20-000-vaccins-a-la-rdc-11430671) (RTBF)
 
 - [The High Cost of the Netherlands’ Mpox Vaccine Hoarding](https://www.project-syndicate.org/commentary/netherlands-vaccine-hoarding-undermines-global-mpox-response-by-gordon-brown-2024-09) (Project Syndicate)
+
+- [Mpox: la Belgique fait don de 20.000 vaccins à la République démocratique du Congo](https://www.sudinfo.be/id877428/article/2024-09-06/mpox-la-belgique-fait-don-de-20000-vaccins-la-republique-democratique-du-congo) (Sudinfo.be)
 
 - [België doneert 20.000 mpox-vaccins aan Congo](https://www.hbvl.be/cnt/dmf20240906_94421957) (Hbvl.be)
 
@@ -190,6 +236,8 @@ Source: [News API](https://newsapi.org/)
 - [La vacuna de ARNm mpox en investigación reduce la gravedad de la enfermedad en primates](https://www.infosalus.com/farmacia/noticia-vacuna-arnm-mpox-investigacion-reduce-gravedad-enfermedad-primates-20240906071348.html) (Infosalus.com)
 
 - [Reinforced skin for amputees, and could E.T. be an AI?](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/reinforced-skin-amputees-and-could-et-be-ai) (The Naked Scientists)
+
+- [Fast-spreading mpox variant detected in Congo's densely populated capital](https://www.business-standard.com/world-news/fast-spreading-mpox-variant-detected-in-congo-s-densely-populated-capital-124090600072_1.html) (Business Standard)
 
 - [Academy calls for task force on Mpox](https://punchng.com/academy-calls-for-task-force-on-mpox/) (The Punch)
 
@@ -3599,6 +3647,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
 
+- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
+
 ## 24-31 (pertussis)
 
 - [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
@@ -3884,6 +3934,8 @@ Source: [News API](https://newsapi.org/)
 - [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
 
 - [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
+
+- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 ## 24-31 (chikungunya)
 
