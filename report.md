@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 27
-- **Last harvest:** 2024-09-10 19:05
-- **Most recent article:** 2024-09-09 18:59:04
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-09-11 07:06
+- **Most recent article:** 2024-09-10 05:53:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 183 | 37 | 1092 |
-| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 13 | 321 |
+| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 52 | 1108 |
+| dengue | 53 | 46 | 52 | 64 | 45 | 49 | 16 | 325 |
 | malaria | 15 | 16 | 19 | 27 | 28 | 14 | 3 | 122 |
 | h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 1 | 82 |
 | zika | 12 | 11 | 10 | 21 | 2 | 6 | 0 | 62 |
-| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 1 | 48 |
-| measles | 7 | 6 | 3 | 7 | 11 | 9 | 1 | 44 |
+| rabies | 12 | 8 | 12 | 6 | 3 | 7 | 1 | 49 |
+| measles | 7 | 6 | 3 | 7 | 11 | 9 | 2 | 45 |
 | meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 0 | 39 |
 | chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 0 | 33 |
 | pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 0 | 22 |
@@ -39,9 +39,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (mpox)
 
+- [No mpox lockdowns, says Dzulkefly](https://www.thestar.com.my/news/nation/2024/09/10/no-mpox-lockdowns-says-dzulkefly) (The Star Online)
+
+- [India reports first Mpox case: Symptoms, transmission, WHO norms and more](https://www.business-standard.com/india-news/india-reports-first-mpox-case-symptoms-transmission-who-norms-and-more-124091000290_1.html) (Business Standard)
+
+- [Mpox first case confirmed in India: How can standard health insurance provide financial immunity?](https://www.livemint.com/money/personal-finance/mpox-first-case-confirmed-in-india-how-can-standard-health-insurance-provide-financial-immunity-11725872036359.html) (Livemint)
+
+- [Centre advises states to screen, test all suspect mpox cases](https://thehillstimes.in/national/centre-advises-states-to-screen-test-all-suspect-mpox-cases) (Thehillstimes.in)
+
+- [Centre confirms mpox case, but says it's a different strain](https://timesofindia.indiatimes.com/india/centre-confirms-mpox-case-but-says-its-a-different-strain/articleshow/113208009.cms) (The Times of India)
+
 - [Rating agencies and Africa: The absence of people on the ground contributes to bias against the continent](https://phys.org/news/2024-09-agencies-africa-absence-people-ground.html) (Phys.Org)
 
 - [Mpox: Centre asks state to review protocols](https://timesofindia.indiatimes.com/city/goa/mpox-centre-asks-state-to-review-protocols/articleshow/113204505.cms) (The Times of India)
+
+- [Centre confirms first Mpox case in India, says no widespread risk](https://economictimes.indiatimes.com/news/india/centre-confirms-first-mpox-case-in-india-says-no-widespread-risk/articleshow/113204281.cms) (The Times of India)
 
 - [Kabinet wil toch mpox-virus in Afrika helpen bestrijden: minister Klever trekt 3 miljoen euro uit](https://www.nrc.nl/nieuws/2024/09/09/kabinet-wil-toch-mpox-virus-in-afrika-helpen-bestrijden-minister-klever-trekt-3-miljoen-euro-uit-a4865051) (Www.nrc.nl)
 
@@ -49,11 +61,17 @@ Source: [News API](https://newsapi.org/)
 
 - [L’épidémie de Mpox continue de se propager dans le monde : l’Inde confirme un cas sur son territoire, bien que d’un variant peu dangereux](https://www.sudinfo.be/id878780/article/2024-09-09/lepidemie-de-mpox-continue-de-se-propager-dans-le-monde-linde-confirme-un-cas) (Sudinfo.be)
 
+- [Detectados três surtos de mpox em Portugal desde 2022](https://ionline.sapo.pt/2024/09/09/detectados-tres-surtos-de-mpox-em-portugal-desde-2022/) (Sapo.pt)
+
 - [Seegene Expands mpox RUO Product Lineups with Enhanced Detection Assays for Clade 1](https://www.prnewswire.co.uk/news-releases/seegene-expands-mpox-ruo-product-lineups-with-enhanced-detection-assays-for-clade-1-302242213.html) (PR Newswire UK)
+
+- [Mpox case confirmed, strain not part of WHO's health emergency: Govt](https://www.business-standard.com/india-news/mpox-case-confirmed-strain-not-part-of-who-s-health-emergency-govt-124090901171_1.html) (Business Standard)
 
 - [Mpox vaccination to begin in Congo next month](https://www.nbcnews.com/health/health-news/mpox-vaccination-begin-congo-month-rcna170195) (NBC News)
 
 - [Mpox: Portugal identificou três surtos desde 2022 com 1.206 casos confirmados](https://observador.pt/2024/09/09/mpox-portugal-identificou-tres-surtos-desde-2022-com-1-206-casos-confirmados/) (Observador.pt)
+
+- [India's mpox case 'isolated', not caused by new strain](https://economictimes.indiatimes.com/news/india/indias-mpox-case-isolated-not-caused-by-new-strain/articleshow/113200134.cms) (The Times of India)
 
 - [India confirms isolated Mpox case, Health Ministry urges vigilance and preparedness](https://www.thehindubusinessline.com/news/india-confirms-isolated-mpox-case-health-ministry-urges-vigilance-and-preparedness/article68622659.ece) (BusinessLine)
 
@@ -67,15 +85,27 @@ Source: [News API](https://newsapi.org/)
 
 - [Isolated Mpox Case In India, But Not Part Of WHO Public Health Emergency](https://www.ndtv.com/india-news/isolated-mpox-case-in-india-but-not-part-of-who-public-health-emergency-6526278) (NDTV News)
 
+- [Amid mpox scare, Centre steps up screening efforts: How to detect infection](https://www.business-standard.com/india-news/amid-mpox-scare-centre-steps-up-screening-efforts-how-to-detect-infection-124090900656_1.html) (Business Standard)
+
 - [Tonix reports promising mpox vaccine preclinical data](https://www.investing.com/news/company-news/tonix-reports-promising-mpox-vaccine-preclinical-data-93CH-3606855) (Investing.com)
 
+- [Health ministry issues advisory to states, UTs on measures against 'Mpox'](https://www.business-standard.com/india-news/health-ministry-issues-advisory-to-states-uts-on-measures-against-mpox-124090900554_1.html) (Business Standard)
+
 - [В Индии усилили медосмотр пассажиров в аэропортах из-за вспышки оспы обезьян](https://tass.ru/obschestvo/21813653) (Tass.ru)
+
+- [Centre asks states to review preparedness, screen suspects amid Mpox scare](https://www.business-standard.com/health/centre-asks-states-to-review-preparedness-screen-suspects-amid-mpox-scare-124090900579_1.html) (Business Standard)
 
 - [Centre Issues Directive Over Mpox Outbreak: What Are The Symptoms](https://www.ndtv.com/india-news/centres-directive-over-mpox-outbreak-what-are-the-symptoms-6524472) (NDTV News)
 
 - [Understanding monkeypox: Myths and misinformation to ignore about the disease](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/understanding-monkeypox-debunking-myths-and-misinformation/articleshow/113183887.cms) (The Times of India)
 
+- [Centre Advises States To Screen, Test All Suspect Mpox Cases](https://www.ndtv.com/india-news/mpox-cases-in-india-centre-advises-states-to-screen-test-all-suspect-mpox-cases-6524189) (NDTV News)
+
+- [Mpox Alert: Health Ministry advisory asks states to intensify screening and contact tracing to prevent outbreak](https://economictimes.indiatimes.com/news/india/mpox-alert-health-ministry-advisory-asks-states-to-intensify-screening-and-contact-tracing-to-prevent-outbreak/articleshow/113187621.cms) (The Times of India)
+
 - ["Screening And Testing, Contact Tracing": Centre's Mpox Advisory To States](https://www.ndtv.com/india-news/screening-and-testing-contact-tracing-centres-mpox-advisory-to-states-6523921) (NDTV News)
+
+- [Higher price of mpox vaccine to pose key hurdle in Africa order talks](https://www.business-standard.com/world-news/higher-price-of-mpox-vaccine-to-pose-key-hurdle-in-africa-order-talks-124090900062_1.html) (Business Standard)
 
 - [Should you worry about mpox when travelling?](https://www.nationalgeographic.com/travel/article/should-you-worry-about-mpox-monkeypox-when-travelling) (National Geographic)
 
@@ -115,6 +145,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (measles)
 
+- [1st measles case in state since 2018 confirmed in Mecklenburg County](https://www.wsoctv.com/news/local/1st-measles-case-state-since-2018-confirmed-mecklenburg-county/WEMWVR3NBFAGHGY3GEWMOZY47E/) (WSOC Charlotte)
+
 - [Invasive Jellyfish Clones Overrunning British Columbian Lakes; Measles Cases Increasing in Oregon](https://www.scientificamerican.com/podcast/episode/invasive-jellyfish-clones-overrunning-british-columbian-lakes-measles-cases/) (Scientific American)
 
 ## 24-37 (malaria)
@@ -130,6 +162,12 @@ Source: [News API](https://newsapi.org/)
 - [EE.UU. detecta el primer caso de gripe aviar en una persona que no tuvo contacto conocido con animales](https://www.meneame.net/m/actualidad/ee-uu-detecta-primer-caso-gripe-aviar-persona-no-tuvo-contacto) (Meneame.net)
 
 ## 24-37 (dengue)
+
+- [A hora de prevenir é agora: ações contra a dengue fazem a diferença](https://www.metropoles.com/conteudo-especial/dengue-prevenir) (Metropoles.com)
+
+- [Napřed žlutá zimnice, teď horečka dengue. Prostějovští lékaři mají další primát](https://www.idnes.cz/olomouc/zpravy/prostejov-infekcni-krvaciva-horecka-dengue-prujmy-zloutenka.A240909_817101_olomouc-zpravy_stk) (Idnes.cz)
+
+- [Dengue. La Ciudad empezará a vacunar contra la infección: qué grupos serán los primeros](https://www.lanacion.com.ar/sociedad/dengue-la-ciudad-empezara-a-vacunar-contra-la-infeccion-que-grupos-seran-los-primeros-nid09092024/) (La Nacion)
 
 - [Detectado un brote de dengue autóctono en Tarragona](https://www.abc.es/espana/cataluna/detectado-brote-dengue-autoctono-tarragona-20240909182959-nt.html) (Www.abc.es)
 
@@ -222,6 +260,8 @@ Source: [News API](https://newsapi.org/)
 - [¿Por qué las vacunas contra la mpox están tardando tanto en llegar a África?](https://www.publico.es/sociedad/vacunas-mpox-tardando-llegar-africa.html) (Publico.es)
 
 - [L’Ouganda reçoit ses premières doses de vaccin contre la mpox](https://fr.sputniknews.africa/20240907/louganda-recoit-ses-premieres-doses-de-vaccin-contre-la-mpox-1068184128.html) (Sputniknews.africa)
+
+- [Epidémie de Mpox : les vraies raisons de s’inquiéter, par le Pr Gilles Pialoux](https://www.lexpress.fr/sciences-sante/epidemie-de-mpox-les-vraies-raisons-de-sinquieter-par-le-pr-gilles-pialoux-NXOXZT7AZRC6BIZ4ZVQLUIIOW4/) (L'Express)
 
 - [M痘疫情》巴西病例累計近千，逾半都在聖保羅](https://www.storm.mg/article/5234758) (Storm.mg)
 
@@ -3705,6 +3745,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
 
+- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
+
 ## 24-31 (pertussis)
 
 - [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
@@ -3990,6 +4032,8 @@ Source: [News API](https://newsapi.org/)
 - [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
 
 - [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
+
+- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 ## 24-31 (chikungunya)
 
