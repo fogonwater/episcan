@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-09-11 07:06
-- **Most recent article:** 2024-09-10 05:53:00
+- **New articles in last harvest:** 30
+- **Last harvest:** 2024-09-11 19:05
+- **Most recent article:** 2024-09-10 18:19:04
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 52 | 1108 |
-| dengue | 53 | 46 | 52 | 64 | 45 | 49 | 16 | 325 |
-| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 3 | 122 |
-| h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 1 | 82 |
-| zika | 12 | 11 | 10 | 21 | 2 | 6 | 0 | 62 |
-| rabies | 12 | 8 | 12 | 6 | 3 | 7 | 1 | 49 |
+| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 65 | 1121 |
+| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 26 | 334 |
+| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 6 | 125 |
+| h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 3 | 84 |
+| zika | 12 | 11 | 10 | 21 | 2 | 6 | 1 | 63 |
+| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 1 | 48 |
 | measles | 7 | 6 | 3 | 7 | 11 | 9 | 2 | 45 |
 | meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 0 | 39 |
-| chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 0 | 33 |
-| pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 0 | 22 |
+| chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 1 | 34 |
+| pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 2 | 24 |
 | hpai | 4 | 1 | 1 | 1 | 0 | 3 | 0 | 10 |
 | leptospirosis | 1 | 2 | 2 | 4 | 0 | 1 | 0 | 10 |
 | yersinia | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 6 |
@@ -33,11 +33,47 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-37 (zika)
+
+- [Larval crowding enhances dengue virus loads in Aedes aegypti, a relationship that might increase transmission in urban environments](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012482) (Plos.org)
+
 ## 24-37 (rabies)
 
 - [Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials](https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms) (The Times of India)
 
+## 24-37 (pertussis)
+
+- [Waning immunity behind whooping cough outbreak in N.L., top doctor says](https://www.cbc.ca/news/canada/newfoundland-labrador/pertussis-outbreak-nl-1.7318905) (CBC News)
+
+- [Whooping Cough Cases Rise In U.S. Following Pattern Seen Worldwide](https://www.forbes.com/sites/joshuacohen/2024/09/10/whooping-cough-cases-rise-in-us-following-pattern-seen-worldwide/) (Forbes)
+
 ## 24-37 (mpox)
+
+- [Notificados 47 nuevos casos de viruela del mono en la última semana](https://eldiariocantabria.publico.es/articulo/espanha/notificados-47-nuevos-casos-viruela-mono-ultima-semana/20240910200834163133.html) (Publico.es)
+
+- [Mpox: cidade de São Paulo registra 33 novos casos em sete dias](https://www.metropoles.com/sao-paulo/mpox-sao-paulo-casos) (Metropoles.com)
+
+- [Mpox : nouvelles arrivées de vaccins en RDC, foyer de l’épidémie](https://www.sudinfo.be/id879282/article/2024-09-10/mpox-nouvelles-arrivees-de-vaccins-en-rdc-foyer-de-lepidemie) (Sudinfo.be)
+
+- [News24 | No mpox jabs for SA yet... but WHO and Africa CDC will help us to fight the outbreak](https://www.news24.com/news24/southafrica/news/no-mpox-jabs-for-sa-yet-but-who-and-africa-cdc-will-help-us-to-fight-the-outbreak-20240910) (News24)
+
+- [Congo Receives First Doses of Mpox Vaccine From US](https://www.newsweek.com/congo-receives-first-doses-mpox-vaccine-united-states-1951545) (Newsweek)
+
+- [L’OMS a livré 14 tonnes d’équipements médicaux à la RDC pour lutter contre la mpox](https://fr.sputniknews.africa/20240910/loms-a-livre-14-tonnes-dequipements-medicaux-a-la-rdc-pour-lutter-contre-la-mpox-1068225748.html) (Sputniknews.africa)
+
+- [Mpox Patient At Delhi Hospital Stable, No Need To Panic: AAP Minister](https://www.ndtv.com/india-news/mpox-patient-at-delhi-hospital-stable-no-need-to-panic-aap-minister-6534432) (NDTV News)
+
+- [First doses of mpox vaccine from the United States arrive in Congo](https://abcnews.go.com/Business/wireStory/doses-mpox-vaccine-united-states-arrive-congo-113548659) (ABC News)
+
+- [First doses of mpox vaccine from the United States arrive in Congo](https://abcnews.go.com/Health/wireStory/doses-mpox-vaccine-united-states-arrive-congo-113548658) (ABC News)
+
+- [First doses of mpox vaccine from the United States arrive in Congo](https://abcnews.go.com/International/wireStory/doses-mpox-vaccine-united-states-arrive-congo-113548657) (ABC News)
+
+- [First doses of mpox vaccine from the United States arrive in Congo](https://financialpost.com/pmn/first-doses-of-mpox-vaccine-from-the-united-states-arrive-in-congo) (Financial Post)
+
+- [Mpox patient at LNJP hospital stable, no need to panic: Delhi Minister Saurabh Bharadwaj](https://economictimes.indiatimes.com/news/india/mpox-patient-at-lnjp-hospital-stable-no-need-to-panic-delhi-minister-saurabh-bharadwaj/articleshow/113220817.cms) (The Times of India)
+
+- [China approves first domestic mpox vaccine for clinical trials](https://www.channelnewsasia.com/east-asia/china-first-mpox-vaccine-clinical-trial-4598216) (CNA)
 
 - [No mpox lockdowns, says Dzulkefly](https://www.thestar.com.my/news/nation/2024/09/10/no-mpox-lockdowns-says-dzulkefly) (The Star Online)
 
@@ -151,6 +187,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (malaria)
 
+- [Plasmodium NEK1 coordinates MTOC organisation and kinetochore attachment during rapid mitosis in male gamete formation](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002802) (Plos.org)
+
+- [Development of new real-time PCR assays for detection and species differentiation of Plasmodium ovale](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011759) (Plos.org)
+
+- [Monitorear la calidad del aire como corresponde](https://www.project-syndicate.org/commentary/world-needs-more-regular-better-air-pollution-monitoring-by-soumya-swaminathan-and-christa-hasenkopf-2024-09/spanish) (Project Syndicate)
+
 - [Niger launches campaign to reduce mosquito propagation](https://www.thestar.com.my/news/world/2024/09/10/niger-launches-campaign-to-reduce-mosquito-propagation) (The Star Online)
 
 - [After two kids die, kin & villagers vow to end superstition in Maharashtra](https://timesofindia.indiatimes.com/city/nagpur/two-children-die-due-to-superstition-in-yeragadda-village/articleshow/113175525.cms) (The Times of India)
@@ -159,9 +201,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (h5n1)
 
+- [Detectan gripe aviar en cuatro gaviotas alojadas en el Centro de Recuperación de Fauna Silvestre de Oleiros](https://www.lavozdegalicia.es/noticia/coruna/2024/09/10/detectan-gripe-aviar-cuatro-gaviotas-alojadas-centro-recuperacion-fauna-silvestre-oleiros/00031725988614524711383.htm) (Lavozdegalicia.es)
+
+- [Detectan gripe aviar en cuatro gaviotas alojadas en el Centro de Recuperación de Fauna Silvestre de Oleiros](https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2024/09/10/detectan-gripe-aviar-cuatro-gaviotas-alojadas-centro-recuperacion-fauna-silvestre-oleiros/00031725988614524711383.htm) (Lavozdegalicia.es)
+
 - [EE.UU. detecta el primer caso de gripe aviar en una persona que no tuvo contacto conocido con animales](https://www.meneame.net/m/actualidad/ee-uu-detecta-primer-caso-gripe-aviar-persona-no-tuvo-contacto) (Meneame.net)
 
 ## 24-37 (dengue)
+
+- [Study identifies areas of Europe at risk from dengue fever due to spread of Asian tiger mosquito](https://phys.org/news/2024-09-areas-europe-dengue-fever-due.html) (Phys.Org)
+
+- [Study identifies areas of Europe at risk from dengue fever due to spread of Asian tiger mosquito](https://www.sciencedaily.com/releases/2024/09/240910121007.htm) (Science Daily)
+
+- [Cómo saber dónde vacunarse contra el dengue gratis](https://www.lanacion.com.ar/sociedad/donde-vacunarse-contra-el-dengue-gratis-nid10092024/) (La Nacion)
+
+- [Larval crowding enhances dengue virus loads in Aedes aegypti, a relationship that might increase transmission in urban environments](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012482) (Plos.org)
+
+- [Jorge Macri se sumará al protocolo de Bullrich en la movilización contra el veto a la reforma jubilatoria](https://www.lanacion.com.ar/politica/jorge-macri-se-sumara-al-protocolo-de-bullrich-en-la-movilizacion-contra-el-veto-a-la-reforma-nid10092024/) (La Nacion)
+
+- [Fernán Quirós explicó las características del insecto que transmite dengue y marcó las claves para evitar su propagación](https://www.lanacion.com.ar/sociedad/fernan-quiros-explico-las-caracteristicas-del-insecto-que-transmite-dengue-y-marco-las-claves-para-nid10092024/) (La Nacion)
+
+- [Popular European holiday hotspots at risk of being hit by tropical disease, warn UK scientists](https://news.sky.com/story/dengue-fever-popular-european-holiday-hotspots-at-risk-of-being-hit-by-tropical-disease-warn-uk-scientists-13212298) (Sky.com)
+
+- [Disha Parmar shares a health update with fans as she suffers pain due to dengue, writes 'Excruciating pain, 103 fever at all times'](https://timesofindia.indiatimes.com/tv/news/hindi/disha-parmar-shares-a-health-update-with-fans-as-she-suffers-pain-due-to-dengue-writes-excruciating-pain-103-fever-at-all-times/articleshow/113225545.cms) (The Times of India)
+
+- [Ahmedabad faces shortage of insect collectors amidst rising dengue cases](https://timesofindia.indiatimes.com/ahmedabad/ahmedabad-faces-shortage-of-insect-collectors-amidst-rising-dengue-cases/articleshow/113223637.cms) (The Times of India)
+
+- [Mpox patient at LNJP hospital stable, no need to panic: Delhi minister](https://www.business-standard.com/pti-stories/national/mpox-patient-at-lnjp-hospital-stable-no-need-to-panic-delhi-minister-saurabh-bharadwaj-124091000572_1.html) (Business Standard)
 
 - [A hora de prevenir é agora: ações contra a dengue fazem a diferença](https://www.metropoles.com/conteudo-especial/dengue-prevenir) (Metropoles.com)
 
@@ -194,6 +260,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases decline in ME35, four deaths reported](https://www.thestar.com.my/news/nation/2024/09/08/dengue-cases-decline-in-me35-four-deaths-reported) (The Star Online)
 
 - [Cebu: Public emergency gitun-an sa dakbayan sa Sugbo tungod sa nagsaka nga kaso sa dengue](https://rpnradio.com/cebu-public-emergency-gitun-an-sa-dakbayan-sa-sugbo-tungod-sa-nagsaka-nga-kaso-sa-dengue/) (Rpnradio.com)
+
+## 24-37 (chikungunya)
+
+- [Larval crowding enhances dengue virus loads in Aedes aegypti, a relationship that might increase transmission in urban environments](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012482) (Plos.org)
 
 ## 24-36 (zika)
 
@@ -3745,8 +3815,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
 
-- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
-
 ## 24-31 (pertussis)
 
 - [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
@@ -4032,8 +4100,6 @@ Source: [News API](https://newsapi.org/)
 - [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
 
 - [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
-
-- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 ## 24-31 (chikungunya)
 

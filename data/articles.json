@@ -1,8 +1,550 @@
 {
-  "last_updated": "2024-09-11 07:06",
-  "count_articles_total": 1838,
-  "count_articles_new": 20,
+  "last_updated": "2024-09-11 19:05",
+  "count_articles_total": 1866,
+  "count_articles_new": 30,
   "articles": [
+    {
+      "id": 13327,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Study identifies areas of Europe at risk from dengue fever due to spread of Asian tiger mosquito",
+      "description": "As Europe grapples with the growing threat of tropical diseases brought by the Asian tiger mosquito, a research breakthrough led by the UK Centre for Ecology & Hydrology (UKCEH) is enabling scientists to accurately predict towns across the continent where the\u2026",
+      "url": "https://phys.org/news/2024-09-areas-europe-dengue-fever-due.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/study-identifies-areas-1.jpg",
+      "publishedAt": "2024-09-10 18:19:04",
+      "content": "As Europe grapples with the growing threat of tropical diseases brought by the Asian tiger mosquito, a research breakthrough led by the UK Centre for Ecology &amp; Hydrology (UKCEH) is enabling scien\u2026 [+5267 chars]",
+      "retrievedAt": "2024-09-11 19:05:39.074826",
+      "internal_id": "0426877fba91c1b222afe74fe97c7f33687c9f7f56b2dba32184e7d8cb5586aa",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13343,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Publico.es",
+      "author": "eldiariocantabria.es",
+      "title": "Notificados 47 nuevos casos de viruela del mono en la \u00faltima semana",
+      "description": "El Ministerio de Sanidad ha publicado este martes la actualizaci\u00f3n de la situaci\u00f3n epidemiol\u00f3gica de los casos de infecci\u00f3n por viruela del mono o mpox, donde se registran 47 nuevos casos en esta semana, lo que indica una nueva subida en el...",
+      "url": "https://eldiariocantabria.publico.es/articulo/espanha/notificados-47-nuevos-casos-viruela-mono-ultima-semana/20240910200834163133.html",
+      "urlToImage": "https://eldiariocantabria.publico.es/media/eldiariocantabria/images/2022/07/30/2022073010095313697.jpg",
+      "publishedAt": "2024-09-10 18:08:34",
+      "content": "El Ministerio de Sanidad ha publicado este martes la actualizaci\u00f3n de la situaci\u00f3n epidemiol\u00f3gica de los casos de infecci\u00f3n por viruela del mono o mpox, donde se registran 47 nuevos casos en esta sem\u2026 [+3793 chars]",
+      "retrievedAt": "2024-09-11 19:05:42.236612",
+      "internal_id": "f5679f52f895550384fb7446ec76b9d7995fd95bc99f5f4d41e54fc0d0a57148",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13348,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isabela Thurmann",
+      "title": "Mpox: cidade de S\u00e3o Paulo registra 33 novos casos em sete dias",
+      "description": "Total acumulado de casos confirmados no Estado, segundo a Secretaria da Sa\u00fade, \u00e9 de 533 de janeiro at\u00e9 essa segunda-feira (9/9)",
+      "url": "https://www.metropoles.com/sao-paulo/mpox-sao-paulo-casos",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/09/10131524/Mpox-cidade-de-Sao-Paulo-confirma-registro-de-X-casos.jpg",
+      "publishedAt": "2024-09-10 17:44:44",
+      "content": "S\u00e3o Paulo Em sete dias, a cidade de S\u00e3o Paulo registrou 33 novos casos de mpox. Os dados, divulgados no boletim epidemiol\u00f3gico da Secretaria Municipal da Sa\u00fade (SMS), por meio da Coordenadoria de Vig\u2026 [+2395 chars]",
+      "retrievedAt": "2024-09-11 19:05:42.342475",
+      "internal_id": "01417e0aae013d7d7cb42342b1c9324fe968cf922c7be075116e335842161de6",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13323,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Waning immunity behind whooping cough outbreak in N.L., top doctor says",
+      "description": "Newfoundland and Labrador is grappling with an outbreak of pertussis, with 230 cases so far this year \u2014 a sharp rise from the handful of whooping cough cases the province normally sees.",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/pertussis-outbreak-nl-1.7318905",
+      "urlToImage": "https://i.cbc.ca/1.7318954.1725989366!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/janice-fitzgerald.jpg",
+      "publishedAt": "2024-09-10 17:30:05",
+      "content": "An outbreak of pertussis otherwise known as whooping cough is percolating in Newfoundland and Labrador, health officials say. In a news conference Tuesday, the province's top doctor said the Depar\u2026 [+2292 chars]",
+      "retrievedAt": "2024-09-11 19:05:37.067218",
+      "internal_id": "ccc8cabdfbdb1bd933289316dfb2d1208ca08d3f60052c2e58ec4f1704091376",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13324,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz",
+      "title": "Detectan gripe aviar en cuatro gaviotas alojadas en el Centro de Recuperaci\u00f3n de Fauna Silvestre de Oleiros",
+      "description": "La instalaci\u00f3n implement\u00f3 las medidas sanitarias y el foco se da por controlado",
+      "url": "https://www.lavozdegalicia.es/noticia/coruna/2024/09/10/detectan-gripe-aviar-cuatro-gaviotas-alojadas-centro-recuperacion-fauna-silvestre-oleiros/00031725988614524711383.htm",
+      "urlToImage": "https://img.lavdg.com/sc/1AzbDbJHbNSbjkMADDpVy7pSQZw=/1280x/2024/09/10/00121725989161669204778/Foto/H09N8040.jpg",
+      "publishedAt": "2024-09-10 17:26:01",
+      "content": "La Conseller\u00eda do Medio Rural ha comunicado al Ministerio de Agricultura, Pesca y Alimentaci\u00f3n la detecci\u00f3n del virus de influenza aviar de alta patogenicidad (IAAP) H5N1, en cuatro aves silvestres a\u2026 [+2193 chars]",
+      "retrievedAt": "2024-09-11 19:05:38.452223",
+      "internal_id": "11b6ee7580c89a9c20d049710b3e431b00a78cf9310b4c5d6cef85f4f0b21ba3",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13325,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz",
+      "title": "Detectan gripe aviar en cuatro gaviotas alojadas en el Centro de Recuperaci\u00f3n de Fauna Silvestre de Oleiros",
+      "description": "La instalaci\u00f3n implement\u00f3 las medidas sanitarias y el foco se da por controlado",
+      "url": "https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2024/09/10/detectan-gripe-aviar-cuatro-gaviotas-alojadas-centro-recuperacion-fauna-silvestre-oleiros/00031725988614524711383.htm",
+      "urlToImage": "https://img.lavdg.com/sc/1AzbDbJHbNSbjkMADDpVy7pSQZw=/1280x/2024/09/10/00121725989161669204778/Foto/H09N8040.jpg",
+      "publishedAt": "2024-09-10 17:26:00",
+      "content": "La Conseller\u00eda do Medio Rural ha comunicado al Ministerio de Agricultura, Pesca y Alimentaci\u00f3n la detecci\u00f3n del virus de \u00abinfluenza aviar de alta patogenicidade (IAAP) H5N1\u00bb, en cuatro aves silvestre\u2026 [+2196 chars]",
+      "retrievedAt": "2024-09-11 19:05:38.458621",
+      "internal_id": "23816868249dc4b44688ef0aa6dbc9987d535e8d99ebeb4b7f437c07f9c6aa62",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13346,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Sudinfo avec Belga",
+      "title": "Mpox : nouvelles arriv\u00e9es de vaccins en RDC, foyer de l\u2019\u00e9pid\u00e9mie",
+      "description": "Les vaccins contre le mpox arrivent au compte-gouttes en R\u00e9publique d\u00e9mocratique du Congo (RDC), foyer de l\u2019\u00e9pid\u00e9mie : 50.000 doses donn\u00e9es par les \u00c9tats-Unis ont atterri mardi \u00e0 Kinshasa, apr\u00e8s 200.000 doses de l\u2019Union europ\u00e9enne arriv\u00e9es la semaine derni\u00e8re\u2026",
+      "url": "https://www.sudinfo.be/id879282/article/2024-09-10/mpox-nouvelles-arrivees-de-vaccins-en-rdc-foyer-de-lepidemie",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/10/node_879282/55857376/public/2024/09/10/25514674.jpeg?itok=lasRGxJW1725988637",
+      "publishedAt": "2024-09-10 17:16:54",
+      "content": "Les vaccins contre le mpox arrivent au compte-gouttes en R\u00e9publique d\u00e9mocratique du Congo (RDC), foyer de l\u00e9pid\u00e9mie : 50.000 doses donn\u00e9es par les \u00c9tats-Unis ont atterri mardi \u00e0 Kinshasa, apr\u00e8s 200.0\u2026 [+2586 chars]",
+      "retrievedAt": "2024-09-11 19:05:42.317292",
+      "internal_id": "1469e94e493cd9d374bf0982a42b6690fabe5d9641cf524a8f74d8dd67e3a269",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13344,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Mia Malan",
+      "title": "News24 | No mpox jabs for SA yet... but WHO and Africa CDC will help us to fight the outbreak",
+      "description": "South Africa is one of 14 countries that will be financially supported by the Africa CDC and WHO from this month until February 2025 to draw up and roll out plans, including vaccination strategies, to fight mpox.",
+      "url": "https://www.news24.com/news24/southafrica/news/no-mpox-jabs-for-sa-yet-but-who-and-africa-cdc-will-help-us-to-fight-the-outbreak-20240910",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11901/8c27295d74f140adb419bb9d0550a113.jpg",
+      "publishedAt": "2024-09-10 16:54:46",
+      "content": "Mpox is caused by the monkeypox virus and there are two known clades: clade 1 and clade 2. Mpox starts off with a fever, muscle aches and a sore throat, followed by blister-like bumps on the skin on \u2026 [+4458 chars]",
+      "retrievedAt": "2024-09-11 19:05:42.246797",
+      "internal_id": "2a770fc9ac795ca6712ff9849dd87065951b7b267f1ce30f9bbff7def4b37362",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13326,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Study identifies areas of Europe at risk from dengue fever due to spread of Asian tiger mosquito",
+      "description": "As Europe grapples with the growing threat of tropical diseases brought by the Asian tiger mosquito, new research is enabling scientists to accurately predict towns across the continent where there is a high risk of dengue fever.",
+      "url": "https://www.sciencedaily.com/releases/2024/09/240910121007.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-09-10 16:10:07",
+      "content": "As Europe grapples with the growing threat of tropical diseases brought by the Asian tiger mosquito, a research breakthrough led by the UK Centre for Ecology &amp; Hydrology (UKCEH) is enabling scien\u2026 [+6840 chars]",
+      "retrievedAt": "2024-09-11 19:05:39.063666",
+      "internal_id": "eed362c6898dce13670847a4f99a960c71c89318e9924682d05203a8ee05e0e7",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13339,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Natalie Venegas",
+      "title": "Congo Receives First Doses of Mpox Vaccine From US",
+      "description": "50,000 doses of the mpox vaccine arrived in Congo from the United States as vaccinations are expected to begin on October 2.",
+      "url": "https://www.newsweek.com/congo-receives-first-doses-mpox-vaccine-united-states-1951545",
+      "urlToImage": "https://d.newsweek.com/en/full/2468080/mpox-africa.jpg",
+      "publishedAt": "2024-09-10 15:17:33",
+      "content": "Amid a global health emergency over mpox, Congo has received 50,000 doses of the mpox vaccine from the United States on Tuesday. Speaking to The Associated Press, Cris Kacita Osako, coordinator of C\u2026 [+3606 chars]",
+      "retrievedAt": "2024-09-11 19:05:42.170903",
+      "internal_id": "b6ab2b1aed6957d1641f83f17a65a533a3a658b0635d7dde542db7932684298e",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13334,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "C\u00f3mo saber d\u00f3nde vacunarse contra el dengue gratis",
+      "description": "Se anunci\u00f3 que el gobierno de CABA iniciar\u00e1 una campa\u00f1a de vacunaci\u00f3n contra esta enfermedad en los pr\u00f3ximos d\u00edas; \u00bfqui\u00e9nes pueden recibir la vacuna en la provincia de Buenos Aires?",
+      "url": "https://www.lanacion.com.ar/sociedad/donde-vacunarse-contra-el-dengue-gratis-nid10092024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/vacun-4NNKGHSLWBGNXPFWYNUEJQNFUU.jpeg?auth=758fb0b9f57cc793a5bc3f8bb1a0197e0d2072539847bf755722ba2e65f76992&width=768&quality=70&smart=false",
+      "publishedAt": "2024-09-10 14:46:14",
+      "content": "Ante la llegada de las estaciones del a\u00f1o m\u00e1s c\u00e1lidas, muchos est\u00e1n a la expectativa del avance del dengue, una enfermedad que se transmite por medio de mosquitos. Durante el \u00faltimo verano hubo r\u00e9cor\u2026 [+3373 chars]",
+      "retrievedAt": "2024-09-11 19:05:39.161544",
+      "internal_id": "9ed73b906584afb43d6656f8db2ca841ba6d274fc69d406a45e9458ba03e4850",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13342,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "L\u2019OMS a livr\u00e9 14 tonnes d\u2019\u00e9quipements m\u00e9dicaux \u00e0 la RDC pour lutter contre la mpox",
+      "description": "Il s'agit de mat\u00e9riel de pr\u00e9vention et de traitement des infections destin\u00e9 \u00e0 soutenir la r\u00e9ponse \u00e0 l\u2019\u00e9pid\u00e9mie de variole. Il peut fournir des soins \u00e0 16.800 personnes pendant trois mois, pr\u00e9cise l'Organisation mondiale de la sant\u00e9.",
+      "url": "https://fr.sputniknews.africa/20240910/loms-a-livre-14-tonnes-dequipements-medicaux-a-la-rdc-pour-lutter-contre-la-mpox-1068225748.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1068225748.jpg?10545682231725977688",
+      "publishedAt": "2024-09-10 14:14:47",
+      "content": "https://fr.sputniknews.africa/20240910/loms-a-livre-14-tonnes-dequipements-medicaux-a-la-rdc-pour-lutter-contre-la-mpox-1068225748.html LOMS a livr\u00e9 14 tonnes d\u00e9quipements m\u00e9dicaux \u00e0 la RDC pour lut\u2026 [+2334 chars]",
+      "retrievedAt": "2024-09-11 19:05:42.230898",
+      "internal_id": "834f0c29ec637b829ac85b1d51e5da9200ba683646deac97343a460b6ca86583",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13322,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua P. Cohen, Senior Contributor, \n Joshua P. Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Whooping Cough Cases Rise In U.S. Following Pattern Seen Worldwide",
+      "description": "Public health experts are sounding the alarm as whooping cough cases increase nationwide. Numbers of cases of the vaccine-preventable disease have quadrupled this year.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2024/09/10/whooping-cough-cases-rise-in-us-following-pattern-seen-worldwide/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66202a9ba327ba1c2044d296/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-10 14:07:24",
+      "content": "Bonn, Germany: A child is getting a TDaP (tetanus, diphtheria, pertussis) vaccination. (Photo by Ute ... [+] Grabowsky/Photothek via Getty Images) Photothek via Getty Images Public health experts a\u2026 [+4784 chars]",
+      "retrievedAt": "2024-09-11 19:05:37.045341",
+      "internal_id": "4bbc1dbeaae57185991245e9be582d7104edb58923b983aada338d05f3e9bc1c",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13332,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Heverton L. C. Dutra, Dustin J. Marshall, Belinda Comerford, Brianna P. McNulty, Anastacia M. Diaz, Matthew J. Jones, Austin J. Mejia, Ottar N. Bjornstad, Elizabeth A. McGraw",
+      "title": "Larval crowding enhances dengue virus loads in Aedes aegypti, a relationship that might increase transmission in urban environments",
+      "description": "Author summary The mosquito Aedes aegypti is responsible for transmitting several viruses to humans, including Zika, yellow fever, chikungunya, and dengue. The geographic distribution of this tropical, anthropophilic mosquito vector continues to expand global\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012482",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012482.g004&size=inline",
+      "publishedAt": "2024-09-10 14:00:00",
+      "content": "Abstract Background Climate change and urbanization will alter the global distribution of disease vectors, changing the disease burden in yet unpredictable ways. Aedes aegypti is a mosquito respons\u2026 [+48882 chars]",
+      "retrievedAt": "2024-09-11 19:05:39.149951",
+      "internal_id": "cab9888342facf6089b6a9ad1ad313c77791168094989ee2f6c3891cad592204",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13336,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mohammad Zeeshan, Ravish Rashpa, David J. Ferguson, George Mckeown, Raushan Nugmanova, Amit K. Subudhi, Raphael Beyeler, Sarah L. Pashley, Robert Markus, Declan Brady, Magali Roques, Andrew R. Bottrill, Andrew M. Fry, Arnab Pain, Sue Vaughan, Anthony A. Holder, Eelco C. Tromer, Mathieu Brochet, Rita Tewari",
+      "title": "Plasmodium NEK1 coordinates MTOC organisation and kinetochore attachment during rapid mitosis in male gamete formation",
+      "description": "Mitosis is an important process in the cell cycle required for cells to divide. Never in mitosis (NIMA)-like kinases (NEKs) are regulators of mitotic functions in diverse organisms. Plasmodium spp., the causative agent of malaria is a divergent unicellular ha\u2026",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002802",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002802.g006&size=inline",
+      "publishedAt": "2024-09-10 14:00:00",
+      "content": "Abstract Mitosis is an important process in the cell cycle required for cells to divide. Never in mitosis (NIMA)-like kinases (NEKs) are regulators of mitotic functions in diverse organisms. Plasmod\u2026 [+120602 chars]",
+      "retrievedAt": "2024-09-11 19:05:40.403135",
+      "internal_id": "6e99ce25617de25a120a3e2a6c693c73e9fe3126068ef8b7825f938de97008f8",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13337,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Wenqiao He, Rachel Sendor, Varun R. Potlapalli, Melchior M. Kashamuka, Antoinette K. Tshefu, Fernandine Phanzu, Albert Kalonji, Billy Ngasala, Kyaw Lay Thwai, Jonathan J. Juliano, Jessica T. Lin, Jonathan B. Parr",
+      "title": "Development of new real-time PCR assays for detection and species differentiation of Plasmodium ovale",
+      "description": "Author summary Non-falciparum malaria appears to be on the rise, especially in settings where P. falciparum transmission is declining. Plasmodium ovalecurtisi and Plasmodium ovalewallikeri are neglected parasites that can cause relapsing malaria and are thoug\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011759",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011759.g003&size=inline",
+      "publishedAt": "2024-09-10 14:00:00",
+      "content": "Abstract Background The parasite species formerly known as Plasmodium ovale, Plasmodium ovalecurtisi (P. ovalecurtisi) and Plasmodium ovalewallikeri (P. ovalewallikeri), are endemic across multiple\u2026 [+43724 chars]",
+      "retrievedAt": "2024-09-11 19:05:40.420280",
+      "internal_id": "feb73bf9f5eb51426e1c7c74204ad0a5b7334bc14a153221e28ffe44d216f231",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13351,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Mpox Patient At Delhi Hospital Stable, No Need To Panic: AAP Minister",
+      "description": "The mpox patient admitted to the LNJP Hospital here is in stable condition, Delhi Health Minister Saurabh Bharadwaj said on Tuesday.",
+      "url": "https://www.ndtv.com/india-news/mpox-patient-at-delhi-hospital-stable-no-need-to-panic-aap-minister-6534432",
+      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg",
+      "publishedAt": "2024-09-10 13:52:22",
+      "content": "The patient has only genital ulcers and skin rashes but no fever (Representational) New Delhi: The mpox patient admitted to the LNJP Hospital here is in stable condition, Delhi Health Minister Saura\u2026 [+2738 chars]",
+      "retrievedAt": "2024-09-11 19:05:42.402574",
+      "internal_id": "7f3ddac5912857b9c7f3d17e559291f91cd7ba502f1b2e3f88ee4d460be3a7b2",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13350,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JEAN-YVES KAMALE Associated Press",
+      "title": "First doses of mpox vaccine from the United States arrive in Congo",
+      "description": "Authorities in Congo say 50,000 doses of the mpox vaccine from the United States have arrived in the country",
+      "url": "https://abcnews.go.com/Business/wireStory/doses-mpox-vaccine-united-states-arrive-congo-113548659",
+      "urlToImage": "https://i.abcnewsfe.com/a/63bbf7b6-1169-4304-bbb9-17742daa4007/wirestory_d4f276d1bde33529a7e0783ee0aa5dce_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-10 13:50:25",
+      "content": "KINSHASA, Congo -- Authorities in Congo said that 50,000 doses of mpox vaccine from the United States arrived in the country on Tuesday, a week after the first batch arrived from the European Union. \u2026 [+2274 chars]",
+      "retrievedAt": "2024-09-11 19:05:42.391827",
+      "internal_id": "d63766271028e166a85d5868948d14100de2c258bac07fe224743d39e326611e",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13345,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JEAN-YVES KAMALE Associated Press",
+      "title": "First doses of mpox vaccine from the United States arrive in Congo",
+      "description": "Authorities in Congo say 50,000 doses of the mpox vaccine from the United States have arrived in the country",
+      "url": "https://abcnews.go.com/Health/wireStory/doses-mpox-vaccine-united-states-arrive-congo-113548658",
+      "urlToImage": "https://i.abcnewsfe.com/a/63bbf7b6-1169-4304-bbb9-17742daa4007/wirestory_d4f276d1bde33529a7e0783ee0aa5dce_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-10 13:50:23",
+      "content": "KINSHASA, Congo -- Authorities in Congo said that 50,000 doses of mpox vaccine from the United States arrived in the country on Tuesday, a week after the first batch arrived from the European Union. \u2026 [+2274 chars]",
+      "retrievedAt": "2024-09-11 19:05:42.293613",
+      "internal_id": "66086e48b6a5b208fd40f849b35e828c495dc951713329101cc0d705072764a4",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13341,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JEAN-YVES KAMALE Associated Press",
+      "title": "First doses of mpox vaccine from the United States arrive in Congo",
+      "description": "Authorities in Congo say 50,000 doses of the mpox vaccine from the United States have arrived in the country",
+      "url": "https://abcnews.go.com/International/wireStory/doses-mpox-vaccine-united-states-arrive-congo-113548657",
+      "urlToImage": "https://i.abcnewsfe.com/a/63bbf7b6-1169-4304-bbb9-17742daa4007/wirestory_d4f276d1bde33529a7e0783ee0aa5dce_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-10 13:50:22",
+      "content": "KINSHASA, Congo -- Authorities in Congo said that 50,000 doses of mpox vaccine from the United States arrived in the country on Tuesday, a week after the first batch arrived from the European Union. \u2026 [+2274 chars]",
+      "retrievedAt": "2024-09-11 19:05:42.225195",
+      "internal_id": "2070451e2f1607744fb7e45b6dd6de07a99a5635a55e2de1571390889600bc51",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13347,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "The Associated Press",
+      "title": "First doses of mpox vaccine from the United States arrive in Congo",
+      "description": "KINSHASA, Congo (AP) \u2014 Authorities in Congo said that 50,000 doses of mpox vaccine from the United States arrived in the country on Tuesday, a week after the first batch arrived from the European Union. Adults in Equateur, South Kivu and Sankuru, the three mo\u2026",
+      "url": "https://financialpost.com/pmn/first-doses-of-mpox-vaccine-from-the-united-states-arrive-in-congo",
+      "urlToImage": null,
+      "publishedAt": "2024-09-10 13:27:52",
+      "content": "KINSHASA, Congo (AP) Authorities in Congo said that 50,000 doses of mpox vaccine from the United States arrived in the country on Tuesday, a week after the first batch arrived from the European Union\u2026 [+2274 chars]",
+      "retrievedAt": "2024-09-11 19:05:42.332189",
+      "internal_id": "160ce652db4827f620700bbb065a232971c89b49f25b4a2f7866d62d45ab24ca",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13331,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Jorge Macri se sumar\u00e1 al protocolo de Bullrich en la movilizaci\u00f3n contra el veto a la reforma jubilatoria",
+      "description": "Lo anunci\u00f3 durante la conferencia de prensa del inicio de la campa\u00f1a de prevenci\u00f3n y vacunaci\u00f3n contra el dengue; \u201cLa discusi\u00f3n de leyes tiene que darse en el \u00e1mbito legislativo y no se debe imponer desde afuera por parte de grupos agresivos\u201d, sentenci\u00f3",
+      "url": "https://www.lanacion.com.ar/politica/jorge-macri-se-sumara-al-protocolo-de-bullrich-en-la-movilizacion-contra-el-veto-a-la-reforma-nid10092024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/jorge-macri-garantizo-la-seguridad-y-el-orden-en-IMAXJC5LYRHVHGIJB3S3S3VYPI.jpg?auth=0e3631e7d79ad1ac9fcf233a7a00101d4c97bc66b4b81a52447c823505190d9d&width=768&quality=70&smart=false",
+      "publishedAt": "2024-09-10 13:15:26",
+      "content": "Jorge Macri dijo este martes que la ciudad de Buenos Aires se sumar\u00e1 al protocolo de Naci\u00f3n durante la movilizaci\u00f3n prevista contra el veto a la reforma jubilatoriade la que tambi\u00e9n participar\u00e1 -adem\u2026 [+1138 chars]",
+      "retrievedAt": "2024-09-11 19:05:39.144184",
+      "internal_id": "43169126193f5fca2b638ba8843573c895c357befe9d7e0250123dab817a34db",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13338,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Project Syndicate",
+      "author": "Soumya Swaminathan",
+      "title": "Monitorear la calidad del aire como corresponde",
+      "description": "Project Syndicate - The World\u2019s Opinion Page",
+      "url": "https://www.project-syndicate.org/commentary/world-needs-more-regular-better-air-pollution-monitoring-by-soumya-swaminathan-and-christa-hasenkopf-2024-09/spanish",
+      "urlToImage": "https://webapi.project-syndicate.org/library/e455234fc90defd33775b8baeab5cc9b.2-1-super.1.jpg",
+      "publishedAt": "2024-09-10 12:56:04",
+      "content": "CHENNAI/M\u00daNICH Todos los a\u00f1os, la Organizaci\u00f3n Mundial de la Salud resume el progreso global del control de la malaria. Detalla la cantidad de casos en los pa\u00edses afectados, muestra los cambios inter\u2026 [+6213 chars]",
+      "retrievedAt": "2024-09-11 19:05:40.426483",
+      "internal_id": "be8a3bf2f1b06a9b9e97d0a7bf64e6c5c777807d74ae835fa76ae065afd31788",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13335,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Fern\u00e1n Quir\u00f3s explic\u00f3 las caracter\u00edsticas del insecto que transmite dengue y marc\u00f3 las claves para evitar su propagaci\u00f3n",
+      "description": "El ministro de Salud de la ciudad de Buenos Aires brind\u00f3 una conferencia de prensa junto con Jorge Macri en el marco del inicio de la campa\u00f1a de prevenci\u00f3n y vacunaci\u00f3n",
+      "url": "https://www.lanacion.com.ar/sociedad/fernan-quiros-explico-las-caracteristicas-del-insecto-que-transmite-dengue-y-marco-las-claves-para-nid10092024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-ministro-de-salud-de-la-ciudad-de-buenos-aires-K22HXNNIHVAXPBZMCFEAP4P3QY.JPG?auth=db0ab7c5467d1d9aec8a347e09c32f661907097e920786fa86173d83f1e0d669&width=768&quality=70&smart=false",
+      "publishedAt": "2024-09-10 12:08:03",
+      "content": "El ministro de Salud de la ciudad de Buenos Aires, Fern\u00e1n Quir\u00f3s, explic\u00f3 las caracter\u00edsticas del insecto que transmite la enfermedad del dengue en el marco del inicio de la campa\u00f1a de prevenci\u00f3n y v\u2026 [+790 chars]",
+      "retrievedAt": "2024-09-11 19:05:39.176378",
+      "internal_id": "0cbce120b1c5c0e74ee6603086688a0b50f6a925850093376103cc0f1d5e03f7",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13330,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Mickey Carroll, science and technology reporter",
+      "title": "Popular European holiday hotspots at risk of being hit by tropical disease, warn UK scientists",
+      "description": "Scientists tracking the spread of dengue fever have named popular European holiday destinations they say are at risk from future outbreaks.",
+      "url": "https://news.sky.com/story/dengue-fever-popular-european-holiday-hotspots-at-risk-of-being-hit-by-tropical-disease-warn-uk-scientists-13212298",
+      "urlToImage": "https://e3.365dm.com/24/09/1600x900/skynews-sicily-istock_6681092.jpg?20240910123513",
+      "publishedAt": "2024-09-10 10:44:00",
+      "content": "Scientists tracking the spread of dengue fever have named popular European holiday destinations they say are at risk from future outbreaks. The disease is carried by Asian tiger mosquitos, which are\u2026 [+3418 chars]",
+      "retrievedAt": "2024-09-11 19:05:39.138416",
+      "internal_id": "2c89674d63ae395dd0c3ee78d3b420355e02f0ca6a1f2e3c3ba05708e7fd1e42",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13329,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Disha Parmar shares a health update with fans as she suffers pain due to dengue, writes 'Excruciating pain, 103 fever at all times'",
+      "description": "Disha Parmar and Rahul Vaidya contracted Dengue during Ganesh Chaturthi celebrations. Both are experiencing severe symptoms and focusing on recovery. The couple recently welcomed their daughter Navya and have shared updates on social media. Rahul has taken a \u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/disha-parmar-shares-a-health-update-with-fans-as-she-suffers-pain-due-to-dengue-writes-excruciating-pain-103-fever-at-all-times/articleshow/113225545.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113225470,width-1070,height-580,imgsize-1200716,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-10 10:08:58",
+      "content": "Disha Parmar, Rahul Vaidya host baby naming ceremony, give their daughter a beautiful name",
+      "retrievedAt": "2024-09-11 19:05:39.118886",
+      "internal_id": "cd98ee9ddc4139a0e0c870ce8c12512ee44fdc856f0bfb94ec4b7bf0a5e9b9d1",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13328,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Jignesh Parmar",
+      "title": "Ahmedabad faces shortage of insect collectors amidst rising dengue cases",
+      "description": "The Ahmedabad Municipal Corporation is facing a rise in dengue cases while also dealing with past viral infections. The AMC has had four vacant insect collector positions for a decade and is now establishing new recruitment rules to fill these roles, aiming t\u2026",
+      "url": "https://timesofindia.indiatimes.com/ahmedabad/ahmedabad-faces-shortage-of-insect-collectors-amidst-rising-dengue-cases/articleshow/113223637.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113223591,width-1070,height-580,imgsize-74924,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-10 09:35:07",
+      "content": "15 high protein breakfast dishes made without eggs",
+      "retrievedAt": "2024-09-11 19:05:39.099024",
+      "internal_id": "7b70bd5d5246d3c8c023f1a930a550df65bdc4c04d02a24ffe0f6387f85efab7",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13333,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Press Trust of India",
+      "title": "Mpox patient at LNJP hospital stable, no need to panic: Delhi minister",
+      "description": "The mpox patient admitted at LNJP Hospital here is in a stable condition, Delhi Health Minister Saurabh Bharadwaj said on Tuesday. Bharadwaj conducted a surprise inspection of the hospital to assess preparations for dealing with mpox and dengue. \"There is one\u2026",
+      "url": "https://www.business-standard.com/pti-stories/national/mpox-patient-at-lnjp-hospital-stable-no-need-to-panic-delhi-minister-saurabh-bharadwaj-124091000572_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/06/thumb/fitandfill/400X400/1725587742-6507.jpg",
+      "publishedAt": "2024-09-10 08:59:07",
+      "content": "Saurabh Bharadwaj conducted a surprise inspection of the hospital to assess preparations for dealing with mpox and dengue The patient was admitted at the Delhi government-run LNJP Hospital on Saturd\u2026 [+2174 chars]",
+      "retrievedAt": "2024-09-11 19:05:39.156019",
+      "internal_id": "ef8f50ce656bdecdee7d9390f5d3944d0d4b90b1ba7ebfa33d154544a98c3ad1",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13349,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Mpox patient at LNJP hospital stable, no need to panic: Delhi Minister Saurabh Bharadwaj",
+      "description": "Delhi Health Minister Saurabh Bharadwaj confirmed that the mpox patient at LNJP Hospital is stable. The 26-year-old, with a travel history, has been isolated and shows only genital ulcers and skin rashes. Bharadwaj assured there is no need to panic as mpox sp\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/mpox-patient-at-lnjp-hospital-stable-no-need-to-panic-delhi-minister-saurabh-bharadwaj/articleshow/113220817.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113221299,width-1200,height-630,imgsize-30812,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-10 08:07:08",
+      "content": "Finance Financial Literacy - TDS, Budget, Income Tax Act, GST, Indirect tax By - CA Rahul Gupta, CA with 10+ years of domain experience, trainer View Program",
+      "retrievedAt": "2024-09-11 19:05:42.358199",
+      "internal_id": "b99b9e5cc7f9eeff9e4e3bb695b786cb4fea2763b6cd44a7d525c6d59bf117de",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13340,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "China approves first domestic mpox vaccine for clinical trials",
+      "description": "The vaccine developed by Sinopharm shows good immunity protection against the virus, says the Chinese company.",
+      "url": "https://www.channelnewsasia.com/east-asia/china-first-mpox-vaccine-clinical-trial-4598216",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--LDUtjzeX--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/09/10/mpox_vaccine.png?itok=oI-0FydS",
+      "publishedAt": "2024-09-10 07:22:33",
+      "content": "SINGAPORE: The first Chinese mpox vaccine has been approved for clinical trials across China starting on Monday (Sep 9), with the company behind it saying that early studies show promising results an\u2026 [+2012 chars]",
+      "retrievedAt": "2024-09-11 19:05:42.205124",
+      "internal_id": "6f14329049722277063b1ce67e7f40e411f2c4d5134e151fc3889ca4520596ab",
+      "publishedAtLabel": "Sep 10"
+    },
     {
       "id": 13306,
       "query": [
@@ -33131,42 +33673,6 @@
       "content": "Awards 1 win &amp; 4 nominations See more awards \u00bb Plot: Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town. Genre: Horror | ThrillerIMDB Rating\u2026 [+689 chars]",
       "retrievedAt": "2024-07-30 07:06:53.092573",
       "internal_id": "eb985370d41891a9164d7ad115f336d1d206efd512127ea072b51f1c01762421",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 11484,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Fontanka.ru",
-      "author": null,
-      "title": "\u0427\u0435\u0445\u0438 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443 \u0440\u0435\u0448\u0430\u044e\u0442. \u0427\u0442\u043e \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0438\u0437 \u043f\u0440\u0438\u0432\u0438\u0432\u043e\u043a, \u0447\u0442\u043e\u0431\u044b \u043f\u0443\u0441\u0442\u0438\u043b\u0438 \u0441 \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u043c \u0437\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0443",
-      "description": "\u041d\u0430 \u043c\u0438\u043d\u0443\u0432\u0448\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0435 \u0420\u043e\u0441\u0441\u0438\u044f \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a\u0430 \u0432\u0430\u043a\u0446\u0438\u043d \u043e\u0442 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u00ab\u041d\u043e\u0431\u0438\u0432\u0430\u043a Rabies\u00bb \u2014 \u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0446\u044b \u043e\u0442\u043a\u0430\u0437\u0430\u043b\u0438\u0441\u044c \u0438\u0433\u0440\u0430\u0442\u044c \u043f\u043e \u043f\u0440\u0430\u0432\u0438\u043b\u0430\u043c \u0420\u043e\u0441\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u043d\u0430\u0434\u0437\u043e\u0440\u0430.",
-      "url": "https://www.fontanka.ru/2024/07/28/73843271/",
-      "urlToImage": "https://cdn.iportal.ru/news/articles/social/54d9438f84b26481c36faf79e4ca4fa0.png",
-      "publishedAt": "2024-07-28 13:38:40",
-      "content": "\u00ab Rabies\u00bb . . \u00ab\u00bb , , . \u00ab 15 \u00ab\u00ae Rabies\u00bb \u00abIntervet International B.V.\u00bb () . , 1 2024 , \u00bb, , . 2022 - . . GMP, . GMP-? -GMP , . 1 2023 , GMP (Good manufacturing practice ). , , . \u00ab GMP, , GMP \u00bb,\u2026 [+480 chars]",
-      "retrievedAt": "2024-07-29 19:05:40.879632",
-      "internal_id": "ad2f0bf0aecd9f472859b865cafea547aec2b3c26327c57e12c30ee8b694a118",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 11485,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Business Standard",
-      "author": "BS Reporter",
-      "title": "USAID, Takeda Biopharma launch dengue prevention programme across India",
-      "description": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil",
-      "url": "https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/28/thumb/featurecrop/400X400/1722161975-1545.jpeg",
-      "publishedAt": "2024-07-28 10:20:31",
-      "content": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil Image credit: USAID's X accou\u2026 [+2271 chars]",
-      "retrievedAt": "2024-07-29 19:05:42.044678",
-      "internal_id": "8a4a356d3b19bab889eca92053315491650758fe12185c61d9eb80446b6c2360",
       "publishedAtLabel": "Jul 28"
     }
   ]
