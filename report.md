@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 30
-- **Last harvest:** 2024-09-11 19:05
-- **Most recent article:** 2024-09-10 18:19:04
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-09-12 07:06
+- **Most recent article:** 2024-09-11 07:00:49
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 65 | 1121 |
-| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 26 | 334 |
-| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 6 | 125 |
-| h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 3 | 84 |
+| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 76 | 1132 |
+| dengue | 53 | 46 | 52 | 64 | 45 | 49 | 29 | 338 |
+| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 7 | 126 |
+| h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 5 | 86 |
 | zika | 12 | 11 | 10 | 21 | 2 | 6 | 1 | 63 |
-| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 1 | 48 |
-| measles | 7 | 6 | 3 | 7 | 11 | 9 | 2 | 45 |
+| rabies | 12 | 8 | 12 | 6 | 3 | 7 | 1 | 49 |
+| measles | 7 | 6 | 3 | 7 | 11 | 9 | 4 | 47 |
 | meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 0 | 39 |
-| chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 1 | 34 |
+| chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 2 | 35 |
 | pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 2 | 24 |
 | hpai | 4 | 1 | 1 | 1 | 0 | 3 | 0 | 10 |
 | leptospirosis | 1 | 2 | 2 | 4 | 0 | 1 | 0 | 10 |
@@ -48,6 +48,28 @@ Source: [News API](https://newsapi.org/)
 - [Whooping Cough Cases Rise In U.S. Following Pattern Seen Worldwide](https://www.forbes.com/sites/joshuacohen/2024/09/10/whooping-cough-cases-rise-in-us-following-pattern-seen-worldwide/) (Forbes)
 
 ## 24-37 (mpox)
+
+- [Rode Kruis-Vlaanderen stuurt operationeel manager naar Centraal-Afrikaanse republiek na grote toename mpox-besmettingen](https://www.gva.be/cnt/dmf20240911_92525715) (Www.gva.be)
+
+- [Hyundai Bioscience announces XAFTY ®, a groundbreaking broad-spectrum antiviral capable of treating COVID-19, mpox, and dengue](https://www.investing.com/news/press-releases/hyundai-bioscience-announces-xafty--a-groundbreaking-broadspectrum-antiviral-capable-of-treating-covid19-mpox-and-dengue-93CH-3610791) (Investing.com)
+
+- [Rode Kruis-Vlaanderen stuurt operationeel manager naar Centraal-Afrikaanse republiek na grote toename mpox-besmettingen](https://www.nieuwsblad.be/cnt/dmf20240911_92362875) (Nieuwsblad.be)
+
+- [Farshid Jalalvand: Vi kan stoppa en pandemi – men väljer vi att göra det?](https://www.dn.se/sverige/farshid-jalalvand-vi-kan-stoppa-en-pandemi-men-valjer-vi-att-gora-det/) (Www.dn.se)
+
+- [Mpox Virus Clade-2 Confirmed in Isolated Case in India, Health Ministry Activates Identification Protocols](https://www.gadgets360.com/science/news/mpox-virus-clade-2-confirmed-in-india-6531466) (Gadgets360.com)
+
+- [Medics plead for vaccines in DR Congo's mpox battleground](https://www.bbc.com/news/articles/c4gen21ln7go) (BBC News)
+
+- [First doses of mpox vaccine from the United States arrive in Congo](https://japantoday.com/category/world/first-doses-of-mpox-vaccine-from-the-united-states-arrive-in-congo) (Japan Today)
+
+- [Calor pode aumentar casos de mpox? Especialista responde](https://olhardigital.com.br/2024/09/10/medicina-e-saude/calor-pode-aumentar-casos-de-mpox-especialista-responde/) (Olhardigital.com.br)
+
+- [DR Congo gets 50,000 mpox vaccine delivery from US](https://www.channelnewsasia.com/world/dr-congo-gets-50000-mpox-vaccine-delivery-us-4599781) (CNA)
+
+- [Desnutrición aumenta el riesgo de mpox en niños y embarazadas en el Congo: Save the Children](https://www.forbes.com.mx/desnutricion-aumenta-el-riesgo-de-mpox-en-ninos-y-embarazadas-en-el-congo-save-the-children/) (Forbes.com.mx)
+
+- [Congo: la desnutrición aumenta el riesgo de mpox en niños y embarazadas](https://www.montevideo.com.uy/Salud/Congo-la-desnutricion-aumenta-el-riesgo-de-mpox-en-ninos-y-embarazadas-uc899801) (Montevideo.com.uy)
 
 - [Notificados 47 nuevos casos de viruela del mono en la última semana](https://eldiariocantabria.publico.es/articulo/espanha/notificados-47-nuevos-casos-viruela-mono-ultima-semana/20240910200834163133.html) (Publico.es)
 
@@ -181,11 +203,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (measles)
 
+- [Kentucky health officials confirm measles case in WKU student from Tennessee](https://www.wdrb.com/news/kentucky-health-officials-confirm-measles-case-in-wku-student-from-tennessee/article_8ae05ae0-6fc6-11ef-9612-b3d53b0f5e0f.html) (WDRB)
+
+- [Ky. health officials announce measles case at WKU, work to identify those exposed](https://www.wpsdlocal6.com/health/ky-health-officials-announce-measles-case-at-wku-work-to-identify-those-exposed/article_38f1b704-6fbe-11ef-8f95-5fe2ffa57147.html) (WPSD Local 6)
+
 - [1st measles case in state since 2018 confirmed in Mecklenburg County](https://www.wsoctv.com/news/local/1st-measles-case-state-since-2018-confirmed-mecklenburg-county/WEMWVR3NBFAGHGY3GEWMOZY47E/) (WSOC Charlotte)
 
 - [Invasive Jellyfish Clones Overrunning British Columbian Lakes; Measles Cases Increasing in Oregon](https://www.scientificamerican.com/podcast/episode/invasive-jellyfish-clones-overrunning-british-columbian-lakes-measles-cases/) (Scientific American)
 
 ## 24-37 (malaria)
+
+- [Evaluating the impact of malaria rapid diagnostic tests on patient-important outcomes in sub-Saharan Africa: a systematic review of study methods to guide effective implementation](https://bmjopen.bmj.com/content/14/9/e077361) (The BMJ)
 
 - [Plasmodium NEK1 coordinates MTOC organisation and kinetochore attachment during rapid mitosis in male gamete formation](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002802) (Plos.org)
 
@@ -201,6 +229,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (h5n1)
 
+- [La sombra de Wuhan se cierne sobre Nueva York: la gripe aviar irrumpe en sus mercados de animales](https://www.elespanol.com/ciencia/salud/20240911/sombra-wuhan-cierne-nueva-york-gripe-aviar-irrumpe-mercados-animales/884911996_0.html) (Elespanol.com)
+
+- [Bird Flu Is Quietly Getting Scarier](https://www.theatlantic.com/health/archive/2024/09/bird-flu-scary-awkward-phase/679770/) (The Atlantic)
+
 - [Detectan gripe aviar en cuatro gaviotas alojadas en el Centro de Recuperación de Fauna Silvestre de Oleiros](https://www.lavozdegalicia.es/noticia/coruna/2024/09/10/detectan-gripe-aviar-cuatro-gaviotas-alojadas-centro-recuperacion-fauna-silvestre-oleiros/00031725988614524711383.htm) (Lavozdegalicia.es)
 
 - [Detectan gripe aviar en cuatro gaviotas alojadas en el Centro de Recuperación de Fauna Silvestre de Oleiros](https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2024/09/10/detectan-gripe-aviar-cuatro-gaviotas-alojadas-centro-recuperacion-fauna-silvestre-oleiros/00031725988614524711383.htm) (Lavozdegalicia.es)
@@ -208,6 +240,12 @@ Source: [News API](https://newsapi.org/)
 - [EE.UU. detecta el primer caso de gripe aviar en una persona que no tuvo contacto conocido con animales](https://www.meneame.net/m/actualidad/ee-uu-detecta-primer-caso-gripe-aviar-persona-no-tuvo-contacto) (Meneame.net)
 
 ## 24-37 (dengue)
+
+- [Quand on part en vacances dans le Gard, on risque de développer la dengue](https://www.lavenir.net/actu/societe/2024/09/11/quand-on-part-en-vacances-dans-le-gard-on-risque-de-developper-la-dengue-TV335HY23ZDPRC6SEPTJQIRYQA/) (Lavenir.net)
+
+- [Hyundai Bioscience announces XAFTY ®, a groundbreaking broad-spectrum antiviral capable of treating COVID-19, mpox, and dengue](https://www.investing.com/news/press-releases/hyundai-bioscience-announces-xafty--a-groundbreaking-broadspectrum-antiviral-capable-of-treating-covid19-mpox-and-dengue-93CH-3610791) (Investing.com)
+
+- [Rahul Vaidya and Disha Parmar share health update amid dengue diagnosis as they get spotted at the airport; see video](https://timesofindia.indiatimes.com/tv/news/hindi/rahul-vaidya-and-disha-parmar-share-health-update-amid-dengue-diagnosis-as-they-get-spotted-at-the-airport-see-video/articleshow/113250169.cms) (The Times of India)
 
 - [Study identifies areas of Europe at risk from dengue fever due to spread of Asian tiger mosquito](https://phys.org/news/2024-09-areas-europe-dengue-fever-due.html) (Phys.Org)
 
@@ -262,6 +300,8 @@ Source: [News API](https://newsapi.org/)
 - [Cebu: Public emergency gitun-an sa dakbayan sa Sugbo tungod sa nagsaka nga kaso sa dengue](https://rpnradio.com/cebu-public-emergency-gitun-an-sa-dakbayan-sa-sugbo-tungod-sa-nagsaka-nga-kaso-sa-dengue/) (Rpnradio.com)
 
 ## 24-37 (chikungunya)
+
+- [HS Prannoy to take a break from game](https://timesofindia.indiatimes.com/sports/badminton/hs-prannoy-to-take-a-break-from-game/articleshow/113246705.cms) (The Times of India)
 
 - [Larval crowding enhances dengue virus loads in Aedes aegypti, a relationship that might increase transmission in urban environments](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012482) (Plos.org)
 
@@ -3815,6 +3855,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
 
+- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
+
 ## 24-31 (pertussis)
 
 - [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
@@ -4100,6 +4142,8 @@ Source: [News API](https://newsapi.org/)
 - [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
 
 - [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
+
+- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 ## 24-31 (chikungunya)
 
