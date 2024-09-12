@@ -1,8 +1,404 @@
 {
-  "last_updated": "2024-09-12 07:06",
-  "count_articles_total": 1887,
-  "count_articles_new": 19,
+  "last_updated": "2024-09-12 19:05",
+  "count_articles_total": 1907,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 13371,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Stlouis-mo.gov",
+      "author": "Email September",
+      "title": "First human case of Avian Flu (H5N1) confirmed in Missouri",
+      "description": "Missouri department of Health and Senior Services confirms first human case of H5N1 avian flu",
+      "url": "https://www.stlouis-mo.gov/government/departments/health/news/first-human-bird-flu-case-missouri.cfm",
+      "urlToImage": "https://www.stlouis-mo.gov/images/700px-Saint_Louis-_Missouri_flag.jpg",
+      "publishedAt": "2024-09-11 19:00:31",
+      "content": "With the recent confirmation of Missouris first human case of H5N1 Avian Flu confirmed by the Department of Health and Senior Services, the City of St. Louis Department of Health is encouraging extra\u2026 [+1926 chars]",
+      "retrievedAt": "2024-09-12 19:05:40.533769",
+      "internal_id": "4c59bf409f09b4cfbed0736d89fc1c7b67e24e0d7280cb5ce08e3d819aa17cec",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13384,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Dinheirama.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Brasil supera marca de mil casos de mpox em 2024",
+      "description": "De janeiro at\u00e9 a primeira semana de setembro deste ano, o Brasil registrou 1.015 casos confirmados ou prov\u00e1veis de mpox. O n\u00famero supera o total\u2026 ------ Este artigo foi escrito por Ag\u00eancia Brasil. Este artigo apareceu originalmente no site Dinheirama.A reprod\u2026",
+      "url": "https://dinheirama.com/brasil-supera-marca-de-mil-casos-de-mpox-em-2024/",
+      "urlToImage": "https://media.dinheirama.com/medias/uploads/2023/09/20230907-vacinas.jpg",
+      "publishedAt": "2024-09-11 18:15:45",
+      "content": "0De janeiro at\u00e9 a primeira semana de setembro deste ano, o Brasil registrou 1.015 casos confirmados ou prov\u00e1veis de mpox. O n\u00famero supera o total de casos notificados ao longo de todo o ano passado, \u2026 [+1899 chars]",
+      "retrievedAt": "2024-09-12 19:05:42.728192",
+      "internal_id": "087294efd0430c89340998d9a173403c829a3da5f7e3c85bf7269d31f7304830",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13375,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Yashaswini",
+      "title": "Dengue-like illnesses in kids rising & worrisome, say doctors",
+      "description": "Bengaluru: City hospitals are witnessing a worrying rise in cases of dengue-like illnesses (DLI) among children, leaving both doctors and parents sear.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-like-illnesses-in-kids-rising-worrisome-say-doctors/articleshow/113269429.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-11 18:13:04",
+      "content": "Shanaya Kapoor radiates regal elegance in a pink tissue silk saree",
+      "retrievedAt": "2024-09-12 19:05:41.097909",
+      "internal_id": "4596db38b08a9f9f147d1726057ce62e6d208bb88ad091ebecf849101fcbb25f",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13376,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Students\u2019 awareness videos get 35L views",
+      "description": "Bengaluru: The BBMP health wing has decided to award 10 of 450 schoolchildren who participated in a dengue-awareness programme by making videos, posti.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/students-awareness-videos-get-35l-views/articleshow/113269423.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-11 18:12:56",
+      "content": "Shanaya Kapoor radiates regal elegance in a pink tissue silk saree",
+      "retrievedAt": "2024-09-12 19:05:41.109115",
+      "internal_id": "5b034b68ab21571ba248e2367ea873b67a381be6f38267505563db553e77eb31",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13392,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "Eastern DR Congo receives sanitary equipment for mpox",
+      "description": "Eastern Democratic Republic of Congo has received its initial shipment of sanitary supplies to address the mpox outbreak. North Kivu is significantly impacted by a concerning variant. The country has reported over 21,500 cases and 700 deaths. Vaccine donation\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/eastern-dr-congo-receives-sanitary-equipment-for-mpox/articleshow/113269014.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113269025,width-1070,height-580,imgsize-68504,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-11 17:41:07",
+      "content": "Shanaya Kapoor radiates regal elegance in a pink tissue silk saree",
+      "retrievedAt": "2024-09-12 19:05:42.991145",
+      "internal_id": "bbc3e381c75341aee969071fa31f9e16f05acbc1ce445530113d389a0eff13ad",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13391,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "Mpox kills two, six other confirmed cases in Cameroon: Government",
+      "description": "Cameroon has seen two deaths and six confirmed cases of the mpox virus since April, along with 40 suspected cases. The health ministry confirmed that this outbreak is not linked to the more virulent Clade 1b strain. Authorities have enhanced surveillance, vac\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/mpox-kills-two-six-other-confirmed-cases-in-cameroon-government/articleshow/113268958.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113268966,width-1070,height-580,imgsize-1925130,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-11 17:37:19",
+      "content": "Shanaya Kapoor radiates regal elegance in a pink tissue silk saree",
+      "retrievedAt": "2024-09-12 19:05:42.985232",
+      "internal_id": "922aea672b90110960cae192091874aada4b6ef03eb070ffdaccbf1c59550987",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13379,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Lia Wanadriani, Raka Adji",
+      "title": "Jakarta to extend Wolbachia releases if target not met",
+      "description": "To curb dengue, the Jakarta provincial government is planning to extend the releases of mosquitos with Wolbachia to longer than six months in case the ...",
+      "url": "https://en.antaranews.com/news/325599/jakarta-to-extend-wolbachia-releases-if-target-not-met",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/08/15/1723695941176_copy_2160x1440.jpg",
+      "publishedAt": "2024-09-11 16:35:38",
+      "content": "The six-month period may be increased to eight or increased by two more months. Jakarta (ANTARA) - To curb dengue, the Jakarta provincial government is planning to extend the releases of mosquitos\u2026 [+1909 chars]",
+      "retrievedAt": "2024-09-12 19:05:41.180226",
+      "internal_id": "745cc299b4b7c6964f677b552f132309c9208ad2a96e4b4d45d3d44a86fe487b",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13383,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Oscar Vermeer",
+      "title": "\u2018Geheime voorraad\u2019 vaccins zorgt opnieuw voor irritatie in Kamerdebat over mpox",
+      "description": "Mpox-vaccins: Minister Agema botste woensdag opnieuw met de Tweede Kamer over het doneren van vaccins aan Afrika. \u201eDe minister komt telkens met nieuwe informatie en nieuwe afwegingen.\u201d",
+      "url": "https://www.nrc.nl/nieuws/2024/09/11/geheime-voorraad-vaccins-zorgt-opnieuw-voor-irritatie-in-kamerdebat-over-mpox-a4865364",
+      "urlToImage": "https://images.nrc.nl/cMeFdMAtHs2yUmY5yHY6MczyP8k=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data121597800-066861.jpg",
+      "publishedAt": "2024-09-11 14:43:19",
+      "content": "Ergens in Nederland ligt nog een voorraad oude vaccins tegen mpox. Onduidelijk is hoeveel vaccins er precies zijn, of ze nog bruikbaar zijn en of de houdbaarheidsdatum nog niet is verstreken. Daar he\u2026 [+3415 chars]",
+      "retrievedAt": "2024-09-12 19:05:42.717276",
+      "internal_id": "dbe73c01693d42660a5cb0229be21cdf84112d8b1ac8ae72015c4d9919d093d9",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13372,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Dengue, primo caso autoctono in Italia identificato a Brescia. Bassetti: \u201cCe ne sono altri misconosciuti?\u201d",
+      "description": "\u00c8 ufficialmente il primo caso autoctono di Dengue rilevato in Italia quello segnalato dall\u2019Ats di Brescia. Non era mai successo prima o non era stato individuato. Fatto sta che l\u2019Agenzia di tutela della salute ha spiegato che il \u201c10 settembre 2024 \u00e8 stato con\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/09/11/dengue-primo-caso-autoctono-in-italia-identificato-a-brescia-bassetti-ce-ne-sono-altri-misconosciuti/7689583/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/08/07/zanzare-1200x630.jpg",
+      "publishedAt": "2024-09-11 14:24:45",
+      "content": "Roma, 11 set. (Adnkronos) - La sostenibilit\u00e0 si \u00e8 data appuntamento nei padiglioni del Piacenza Expo, dove oggi ha aperto i battenti la 3\u00aa edizione di Hydrogen expo, la pi\u00f9 grande mostra-convegno ita\u2026 [+6897 chars]",
+      "retrievedAt": "2024-09-12 19:05:41.026484",
+      "internal_id": "cd3992f0101d10ea21e4e45dd63c5aa700a2563119e30c901e2cdc452ddc8d81",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13378,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Anamul Haque Sajib, Sabina Akter, Goutam Saha, Zakir Hossain",
+      "title": "Demographic-environmental effect on dengue outbreaks in 11 countries",
+      "description": "Background Dengue outbreaks are common in tropical or temperate countries, and climate change can exacerbate the problem by creating conditions conducive to the spread of mosquitoes and prolonging the transmission season. Warmer temperatures can allow mosquit\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305854",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0305854.g004&size=inline",
+      "publishedAt": "2024-09-11 14:00:00",
+      "content": "Abstract Background Dengue outbreaks are common in tropical or temperate countries, and climate change can exacerbate the problem by creating conditions conducive to the spread of mosquitoes and pr\u2026 [+51822 chars]",
+      "retrievedAt": "2024-09-12 19:05:41.143250",
+      "internal_id": "7a98a64a4a3fd37514e5533a5115e50a729b017a606434fe69db0b72f1581edd",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13382,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Diana P. Iyaloo, Sarah Zohdy, Ryan M. Carney, Varina Ramdonee Mosawa, Khouaildi B. Elahee, Nabiihah Munglee, Nilesh Latchooman, Surendra Puryag, Ambicadutt Bheecarry, Hemant Bhoobun, Harena Rasamoelina-Andriamanivo, Sa\u00efd Ahmed Bedja, Joseph Spear, Thierry Baldet, Tamar E. Carter",
+      "title": "A regional One Health approach to the risk of invasion by Anopheles stephensi in Mauritius",
+      "description": "Author summary The malaria mosquito, Anopheles stephensi, is an invasive species in Africa where it threatens to put an additional 126 million people at risk of malaria if it continues to spread throughout the continent. The island nation of Mauritius is high\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011827",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011827.g005&size=inline",
+      "publishedAt": "2024-09-11 14:00:00",
+      "content": "Citation: Iyaloo DP, Zohdy S, Carney RM, Mosawa VR, Elahee KB, Munglee N, et al. (2024) A regional One Health approach to the risk of invasion by Anopheles stephensi in Mauritius. PLoS Negl Trop Dis \u2026 [+53545 chars]",
+      "retrievedAt": "2024-09-12 19:05:41.844186",
+      "internal_id": "27301069fd241e6282ed16e82be83642c8940b5d62d485af078aefd8fe057735",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13387,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Odatv.com",
+      "author": "Odatv",
+      "title": "Beyo\u011flu'nda maymun \u00e7i\u00e7e\u011fi pani\u011fine a\u00e7\u0131klama geldi",
+      "description": "\u0130stanbul \u0130l Sa\u011fl\u0131k M\u00fcd\u00fcrl\u00fc\u011f\u00fc, sosyal medyada dola\u015fan Beyo\u011flu'nda bir yabanc\u0131 uyruklu ki\u015fide Mpox (maymun \u00e7i\u00e7e\u011fi) vir\u00fcs\u00fc bulundu\u011funa dair iddialar\u0131n as\u0131ls\u0131z oldu\u011funu a\u00e7\u0131klad\u0131.",
+      "url": "https://www.odatv.com/guncel/beyoglunda-maymun-cicegi-panigine-aciklama-geldi-120062940",
+      "urlToImage": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2024/09/11/beyoglunda-maymun-cicegi-panigine-aciklama-geldi-skpz.jpg",
+      "publishedAt": "2024-09-11 14:00:00",
+      "content": "stanbul l Salk M\u00fcd\u00fcrl\u00fc\u00fc, sosyal medyada yaylan Beyolu'nda yabanc uyruklu bir kiinin M \u00e7i\u00e7ei vir\u00fcs\u00fc (mpox) tad y\u00f6n\u00fcndeki iddialarn ger\u00e7ei yanstmadn duyurdu. M\u00fcd\u00fcrl\u00fckten yaplan a\u00e7klamada, Beyolunda bi\u2026 [+452 chars]",
+      "retrievedAt": "2024-09-12 19:05:42.821650",
+      "internal_id": "4afea9e2b1e14a9e21a955ca434aa8c81481bd9a7f456d3e76db4bcc4b0b4186",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13388,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Investing.com",
+      "title": "Applied DNA expands testing for Mpox virus clades",
+      "description": "Applied DNA expands testing for Mpox virus clades",
+      "url": "https://www.investing.com/news/company-news/applied-dna-expands-testing-for-mpox-virus-clades-93CH-3611502",
+      "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+      "publishedAt": "2024-09-11 13:09:33",
+      "content": "STONY BROOK, NY - Applied DNA Sciences, Inc. (NASDAQ:APDN), a company specializing in PCR-based DNA technologies, announced today that its subsidiary, Applied DNA Clinical Labs, LLC (ADCL), has broad\u2026 [+5402 chars]",
+      "retrievedAt": "2024-09-12 19:05:42.863960",
+      "internal_id": "77c6a7993bf6efd62104e384b0aa31751c1e8e7c35ad3dc8b90f2dd1345ff650",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13380,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Nigeria records 4,915 suspected meningitis cases, 361 deaths",
+      "description": "The Nigeria Centre for Disease Control and Prevention said the country has recorded a total of 4,915 suspected cases of cerebrospinal meningitis from 24 states in the 2023 and 2024 seasons. The Director General of the NCDC, Dr. Jide Idris, who disclosed this \u2026",
+      "url": "https://punchng.com/nigeria-records-4915-suspected-meningitis-cases-361-deaths/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/04/11123350/650x350_meningitis_what_is_it_ref_guide.jpg",
+      "publishedAt": "2024-09-11 12:38:12",
+      "content": "The Nigeria Centre for Disease Control and Prevention said the country has recorded a total of 4,915 suspected cases of cerebrospinal meningitis from 24 states in the 2023 and 2024 seasons. The Dire\u2026 [+1106 chars]",
+      "retrievedAt": "2024-09-12 19:05:41.335733",
+      "internal_id": "5d8b9f365762d5dcaab0c4325ad14caef3ede7c19fce25b2184a0a8af5f7a66b",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13374,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "ansiet",
+      "title": "Detectan un brote de dengue en Catalu\u00f1a: c\u00f3mo se trasmite y cu\u00e1les son sus s\u00edntomas",
+      "description": "Estudian dos casos que fueron ingresados en el Hospital Joan XXIII, un tercero sintom\u00e1tico que no requiri\u00f3 ingreso y otros dos que fueron asintom\u00e1ticosetiquetas: brote de dengue, transmision, deteccion en catalu\u00f1a\u00bb noticia original (www.alimente.elconfidencia\u2026",
+      "url": "https://www.meneame.net/m/actualidad/detectan-brote-dengue-cataluna-como-trasmite-cuales-son-sintomas",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-09-11 12:29:56",
+      "content": "El principal s\u00edntoma es que los afectados hablan en valenciano con un acento como si tuviesen una polla en la boca.Hay muchos casos ya. Ejemplo:",
+      "retrievedAt": "2024-09-12 19:05:41.069464",
+      "internal_id": "81b39f55f65d59f0f645534abc91708e670872dc78951bf2b34e13e654bc9075",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13377,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Un caso di dengue autoctono a Brescia",
+      "description": "Caso di febbre Dengue autoctono a Brescia. Secondo quanto riferito da Ats \u00e8 risultata infettata una persona che non ha effettuato alcun viaggio all'estero. (ANSA)",
+      "url": "https://www.ansa.it/lombardia/notizie/2024/09/11/un-caso-di-dengue-autoctono-a-brescia_e1ed3c74-f518-43a0-a951-2d0af1970b3e.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/6/4/cd69b5ddebf309d20c939f9246a8cc92.jpg",
+      "publishedAt": "2024-09-11 11:59:31",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-09-12 19:05:41.132955",
+      "internal_id": "abfae554bedef2557d5c66cf956862c228d50b6cd8179e89ba64eff9b6f6b9a7",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13386,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "NCDC records 67 confirmed cases of mpox in 23 states",
+      "description": "Nigeria has recorded 67 confirmed cases of Mpox from 1,031 suspected cases in 23 states and the Federal Capital Territory, the Nigeria Centre for Disease Control and Prevention has said. This was disclosed at a presented briefing held in Abuja on Wednesday. T\u2026",
+      "url": "https://punchng.com/ncdc-records-67-confirmed-cases-of-mpox-in-23-states/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2024-09-11 11:35:10",
+      "content": "Nigeria has recorded 67 confirmed cases of Mpox from 1,031 suspected cases in 23 states and the Federal Capital Territory, the Nigeria Centre for Disease Control and Prevention has said. This was di\u2026 [+1854 chars]",
+      "retrievedAt": "2024-09-12 19:05:42.801373",
+      "internal_id": "f7e9073dc3e83504f06e5e060964cc1cdf9bcfd335f3d8678ead76424dc95582",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13373,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "FUNKE Mediengruppe",
+      "title": "Gef\u00e4hrliche Tigerm\u00fccken f\u00fchlt sich jetzt auch in diesem Bezirk heimisch",
+      "description": "Die Asiatische Tigerm\u00fccke kann Krankheiten wie Dengue \u00fcbertragen. Nun wurde sie auch auf einem Friedhof nachgewiesen.",
+      "url": "https://www.morgenpost.de/bezirke/pankow/article407229165/gefaehrliche-tigermuecken-fuehlt-sich-jetzt-auch-in-diesem-bezirk-heimisch.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406211491/406211491_1721918501_v16_9_1600.jpeg",
+      "publishedAt": "2024-09-11 11:15:41",
+      "content": "Berlin. Die Asiatische Tigerm\u00fccke kann Krankheiten wie Dengue \u00fcbertragen. Nun wurde sie auch auf einem Friedhof nachgewiesen. Die Asiatische Tigerm\u00fccke (Aedes albopicts) breitet sich in Berlin immer\u2026 [+2850 chars]",
+      "retrievedAt": "2024-09-12 19:05:41.037037",
+      "internal_id": "ab4ecc95b7f4e3da25ff16a2e300cde3fc24e35b8e4a8456e98a551141ebfdac",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13381,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "La nueva vida de Luis Canut, marido de Patricia P\u00e9rez, tras conocerse su ceguera",
+      "description": "Luis Canut, guionista y director de televisi\u00f3n, ha comenzado una nueva etapa en su vida tras superar una dura batalla contra la meningitis criptoc\u00f3cica . El valenciano estuvo hospitalizado durante m\u00e1s de cinco meses, y su recuperaci\u00f3n ha sido larga y compleja\u2026",
+      "url": "https://www.abc.es/gente/nueva-vida-luis-canut-marido-patricia-perez-20240911125256-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/09/11/luis-canut-portada-U14378541105LYs-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-09-11 10:52:57",
+      "content": "Luis Canut, guionista y director de televisi\u00f3n, ha comenzado una nueva etapa en su vida tras superar una dura batalla contra la meningitis criptoc\u00f3cica. El valenciano estuvo hospitalizado durante m\u00e1s\u2026 [+3163 chars]",
+      "retrievedAt": "2024-09-12 19:05:41.342214",
+      "internal_id": "21b3d7325e2b657170e1b3b4d1237f1378d04633b05b195938cc7bc7850c30ff",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13389,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Foreign Policy",
+      "author": "Nosmot Gbadamosi",
+      "title": "Starvation Threatens Sudan",
+      "description": "The war has left 25 million people hungry, and 2 million of them could die before the end of the year.",
+      "url": "https://foreignpolicy.com/2024/09/11/sudan-rsf-hemeti-burhan-famine-hunger-starvation/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2024/09/famine-starvation-sudan-GettyImages-2150182270.jpg?w=1000",
+      "publishedAt": "2024-09-11 10:28:18",
+      "content": "Welcome to Foreign Policys Africa Brief.Welcome to Foreign Policys Africa Brief. The highlights this week: China seeks de-dollarization in Africa deals, mpox vaccines arrive in Congo, and the U.S. l\u2026 [+10682 chars]",
+      "retrievedAt": "2024-09-12 19:05:42.960211",
+      "internal_id": "fe9a3b334c32a9b29d93a300b0234bfb483db51c0a35e88ae36bfc56ecf01ee8",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13385,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "Maymun \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc T\u00fcrkiye\u2019de g\u00f6r\u00fcld\u00fc m\u00fc?",
+      "description": "Maymun \u00e7i\u00e7e\u011finin \u00fclkemizde var olup olmad\u0131\u011f\u0131 merak konusu olmaya devam ediyor. Bilindi\u011fi gibi, Afrika Hastal\u0131k Kontrol ve \u00d6nleme Merkezleri (Africa CDC) Maymun \u00e7i\u00e7e\u011fi (Mpox) vir\u00fcs\u00fcn\u00fcn k\u0131ta genelinde yay\u0131lmas\u0131 nedeniyle halk sa\u011fl\u0131\u011f\u0131 a\u00e7\u0131s\u0131ndan acil durum ilan e\u2026",
+      "url": "https://www.haberturk.com/maymun-cicegi-virusu-turkiyede-goruldu-mu-resmi-aciklama-geldi-3719013",
+      "urlToImage": "https://im.haberturk.com/l/2024/09/11/ver1726047043/3719013/jpg/1200x628",
+      "publishedAt": "2024-09-11 09:31:11",
+      "content": "Gerekli inceleme, tetkik ve test sonucu neticesinde kii de maymun \u00e7i\u00e7ei hastal olmad tespit edilmitir. Bulac hastalklarn takip ve kontrol\u00fcn\u00fc yapacak gerekli donanm ve kabiliyetlere sahip g\u00fc\u00e7l\u00fc salk \u2026 [+998 chars]",
+      "retrievedAt": "2024-09-12 19:05:42.762753",
+      "internal_id": "10c6a2dee2806ba8ca7849b8e8a2fb59e64f8d76826d91d57d9681b55ede72c7",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13390,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "gjs",
+      "title": "Rode Kruis-Vlaanderen stuurt operationeel manager naar Centraal-Afrikaanse republiek na grote toename mpox-besmettingen",
+      "description": "Rode Kruis-Vlaanderen intensifieert haar humanitaire hulp in Centraal- en Oost-Afrika na de enorme toename van besmettingen met mpox. Naast een bijkomende financi\u00eble injectie uit het Noodhulpfonds wordt ook een operationeel manager naar de regio gestuurd die \u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20240911_92706697",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/09/11/8275faff-42ef-49c4-956a-e9a305847bcb.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-09-11 07:30:49",
+      "content": "Rode Kruis-Vlaanderen intensifieert haar humanitaire hulp in Centraal- en Oost-Afrika na de enorme toename van besmettingen met mpox. Naast een bijkomende financi\u00eble injectie uit het Noodhulpfonds wo\u2026 [+1731 chars]",
+      "retrievedAt": "2024-09-12 19:05:42.970668",
+      "internal_id": "0cb3fd5bb0d7749797e9104dcd8680da802cda3a985d412399a4b11da3239336",
+      "publishedAtLabel": "Sep 11"
+    },
     {
       "id": 13368,
       "query": [
@@ -34016,42 +34412,6 @@
       "content": "Awards 1 win &amp; 4 nominations See more awards \u00bb Plot: Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town. Genre: Horror | ThrillerIMDB Rating\u2026 [+689 chars]",
       "retrievedAt": "2024-07-30 07:06:53.092573",
       "internal_id": "eb985370d41891a9164d7ad115f336d1d206efd512127ea072b51f1c01762421",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 11484,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Fontanka.ru",
-      "author": null,
-      "title": "\u0427\u0435\u0445\u0438 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443 \u0440\u0435\u0448\u0430\u044e\u0442. \u0427\u0442\u043e \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0438\u0437 \u043f\u0440\u0438\u0432\u0438\u0432\u043e\u043a, \u0447\u0442\u043e\u0431\u044b \u043f\u0443\u0441\u0442\u0438\u043b\u0438 \u0441 \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u043c \u0437\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0443",
-      "description": "\u041d\u0430 \u043c\u0438\u043d\u0443\u0432\u0448\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0435 \u0420\u043e\u0441\u0441\u0438\u044f \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a\u0430 \u0432\u0430\u043a\u0446\u0438\u043d \u043e\u0442 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u00ab\u041d\u043e\u0431\u0438\u0432\u0430\u043a Rabies\u00bb \u2014 \u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0446\u044b \u043e\u0442\u043a\u0430\u0437\u0430\u043b\u0438\u0441\u044c \u0438\u0433\u0440\u0430\u0442\u044c \u043f\u043e \u043f\u0440\u0430\u0432\u0438\u043b\u0430\u043c \u0420\u043e\u0441\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u043d\u0430\u0434\u0437\u043e\u0440\u0430.",
-      "url": "https://www.fontanka.ru/2024/07/28/73843271/",
-      "urlToImage": "https://cdn.iportal.ru/news/articles/social/54d9438f84b26481c36faf79e4ca4fa0.png",
-      "publishedAt": "2024-07-28 13:38:40",
-      "content": "\u00ab Rabies\u00bb . . \u00ab\u00bb , , . \u00ab 15 \u00ab\u00ae Rabies\u00bb \u00abIntervet International B.V.\u00bb () . , 1 2024 , \u00bb, , . 2022 - . . GMP, . GMP-? -GMP , . 1 2023 , GMP (Good manufacturing practice ). , , . \u00ab GMP, , GMP \u00bb,\u2026 [+480 chars]",
-      "retrievedAt": "2024-07-29 19:05:40.879632",
-      "internal_id": "ad2f0bf0aecd9f472859b865cafea547aec2b3c26327c57e12c30ee8b694a118",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 11485,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Business Standard",
-      "author": "BS Reporter",
-      "title": "USAID, Takeda Biopharma launch dengue prevention programme across India",
-      "description": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil",
-      "url": "https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/28/thumb/featurecrop/400X400/1722161975-1545.jpeg",
-      "publishedAt": "2024-07-28 10:20:31",
-      "content": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil Image credit: USAID's X accou\u2026 [+2271 chars]",
-      "retrievedAt": "2024-07-29 19:05:42.044678",
-      "internal_id": "8a4a356d3b19bab889eca92053315491650758fe12185c61d9eb80446b6c2360",
       "publishedAtLabel": "Jul 28"
     }
   ]

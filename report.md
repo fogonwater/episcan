@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-09-12 07:06
-- **Most recent article:** 2024-09-11 07:00:49
+- **New articles in last harvest:** 22
+- **Last harvest:** 2024-09-12 19:05
+- **Most recent article:** 2024-09-11 19:00:31
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 76 | 1132 |
-| dengue | 53 | 46 | 52 | 64 | 45 | 49 | 29 | 338 |
-| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 7 | 126 |
-| h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 5 | 86 |
+| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 86 | 1142 |
+| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 37 | 345 |
+| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 8 | 127 |
+| h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 6 | 87 |
 | zika | 12 | 11 | 10 | 21 | 2 | 6 | 1 | 63 |
-| rabies | 12 | 8 | 12 | 6 | 3 | 7 | 1 | 49 |
+| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 1 | 48 |
 | measles | 7 | 6 | 3 | 7 | 11 | 9 | 4 | 47 |
-| meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 0 | 39 |
+| meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 2 | 41 |
 | chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 2 | 35 |
 | pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 2 | 24 |
 | hpai | 4 | 1 | 1 | 1 | 0 | 3 | 0 | 10 |
@@ -48,6 +48,26 @@ Source: [News API](https://newsapi.org/)
 - [Whooping Cough Cases Rise In U.S. Following Pattern Seen Worldwide](https://www.forbes.com/sites/joshuacohen/2024/09/10/whooping-cough-cases-rise-in-us-following-pattern-seen-worldwide/) (Forbes)
 
 ## 24-37 (mpox)
+
+- [Brasil supera marca de mil casos de mpox em 2024](https://dinheirama.com/brasil-supera-marca-de-mil-casos-de-mpox-em-2024/) (Dinheirama.com)
+
+- [Eastern DR Congo receives sanitary equipment for mpox](https://timesofindia.indiatimes.com/world/rest-of-world/eastern-dr-congo-receives-sanitary-equipment-for-mpox/articleshow/113269014.cms) (The Times of India)
+
+- [Mpox kills two, six other confirmed cases in Cameroon: Government](https://timesofindia.indiatimes.com/world/rest-of-world/mpox-kills-two-six-other-confirmed-cases-in-cameroon-government/articleshow/113268958.cms) (The Times of India)
+
+- [‘Geheime voorraad’ vaccins zorgt opnieuw voor irritatie in Kamerdebat over mpox](https://www.nrc.nl/nieuws/2024/09/11/geheime-voorraad-vaccins-zorgt-opnieuw-voor-irritatie-in-kamerdebat-over-mpox-a4865364) (Www.nrc.nl)
+
+- [Beyoğlu'nda maymun çiçeği paniğine açıklama geldi](https://www.odatv.com/guncel/beyoglunda-maymun-cicegi-panigine-aciklama-geldi-120062940) (Odatv.com)
+
+- [Applied DNA expands testing for Mpox virus clades](https://www.investing.com/news/company-news/applied-dna-expands-testing-for-mpox-virus-clades-93CH-3611502) (Investing.com)
+
+- [NCDC records 67 confirmed cases of mpox in 23 states](https://punchng.com/ncdc-records-67-confirmed-cases-of-mpox-in-23-states/) (The Punch)
+
+- [Starvation Threatens Sudan](https://foreignpolicy.com/2024/09/11/sudan-rsf-hemeti-burhan-famine-hunger-starvation/) (Foreign Policy)
+
+- [Maymun çiçeği virüsü Türkiye’de görüldü mü?](https://www.haberturk.com/maymun-cicegi-virusu-turkiyede-goruldu-mu-resmi-aciklama-geldi-3719013) (Haberturk.com)
+
+- [Rode Kruis-Vlaanderen stuurt operationeel manager naar Centraal-Afrikaanse republiek na grote toename mpox-besmettingen](https://www.hbvl.be/cnt/dmf20240911_92706697) (Hbvl.be)
 
 - [Rode Kruis-Vlaanderen stuurt operationeel manager naar Centraal-Afrikaanse republiek na grote toename mpox-besmettingen](https://www.gva.be/cnt/dmf20240911_92525715) (Www.gva.be)
 
@@ -201,6 +221,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Suspected mpox case under probe in India, no cause for alarm, says Govt](https://economictimes.indiatimes.com/news/india/suspected-mpox-case-under-probe-no-cause-for-alarm-govt/articleshow/113167893.cms) (The Times of India)
 
+## 24-37 (meningitis)
+
+- [Nigeria records 4,915 suspected meningitis cases, 361 deaths](https://punchng.com/nigeria-records-4915-suspected-meningitis-cases-361-deaths/) (The Punch)
+
+- [La nueva vida de Luis Canut, marido de Patricia Pérez, tras conocerse su ceguera](https://www.abc.es/gente/nueva-vida-luis-canut-marido-patricia-perez-20240911125256-nt.html) (Www.abc.es)
+
 ## 24-37 (measles)
 
 - [Kentucky health officials confirm measles case in WKU student from Tennessee](https://www.wdrb.com/news/kentucky-health-officials-confirm-measles-case-in-wku-student-from-tennessee/article_8ae05ae0-6fc6-11ef-9612-b3d53b0f5e0f.html) (WDRB)
@@ -212,6 +238,8 @@ Source: [News API](https://newsapi.org/)
 - [Invasive Jellyfish Clones Overrunning British Columbian Lakes; Measles Cases Increasing in Oregon](https://www.scientificamerican.com/podcast/episode/invasive-jellyfish-clones-overrunning-british-columbian-lakes-measles-cases/) (Scientific American)
 
 ## 24-37 (malaria)
+
+- [A regional One Health approach to the risk of invasion by Anopheles stephensi in Mauritius](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011827) (Plos.org)
 
 - [Evaluating the impact of malaria rapid diagnostic tests on patient-important outcomes in sub-Saharan Africa: a systematic review of study methods to guide effective implementation](https://bmjopen.bmj.com/content/14/9/e077361) (The BMJ)
 
@@ -229,6 +257,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (h5n1)
 
+- [First human case of Avian Flu (H5N1) confirmed in Missouri](https://www.stlouis-mo.gov/government/departments/health/news/first-human-bird-flu-case-missouri.cfm) (Stlouis-mo.gov)
+
 - [La sombra de Wuhan se cierne sobre Nueva York: la gripe aviar irrumpe en sus mercados de animales](https://www.elespanol.com/ciencia/salud/20240911/sombra-wuhan-cierne-nueva-york-gripe-aviar-irrumpe-mercados-animales/884911996_0.html) (Elespanol.com)
 
 - [Bird Flu Is Quietly Getting Scarier](https://www.theatlantic.com/health/archive/2024/09/bird-flu-scary-awkward-phase/679770/) (The Atlantic)
@@ -240,6 +270,22 @@ Source: [News API](https://newsapi.org/)
 - [EE.UU. detecta el primer caso de gripe aviar en una persona que no tuvo contacto conocido con animales](https://www.meneame.net/m/actualidad/ee-uu-detecta-primer-caso-gripe-aviar-persona-no-tuvo-contacto) (Meneame.net)
 
 ## 24-37 (dengue)
+
+- [Dengue-like illnesses in kids rising & worrisome, say doctors](https://timesofindia.indiatimes.com/city/bengaluru/dengue-like-illnesses-in-kids-rising-worrisome-say-doctors/articleshow/113269429.cms) (The Times of India)
+
+- [Students’ awareness videos get 35L views](https://timesofindia.indiatimes.com/city/bengaluru/students-awareness-videos-get-35l-views/articleshow/113269423.cms) (The Times of India)
+
+- [Jakarta to extend Wolbachia releases if target not met](https://en.antaranews.com/news/325599/jakarta-to-extend-wolbachia-releases-if-target-not-met) (Antaranews.com)
+
+- [Dengue, primo caso autoctono in Italia identificato a Brescia. Bassetti: “Ce ne sono altri misconosciuti?”](https://www.ilfattoquotidiano.it/2024/09/11/dengue-primo-caso-autoctono-in-italia-identificato-a-brescia-bassetti-ce-ne-sono-altri-misconosciuti/7689583/) (Ilfattoquotidiano.it)
+
+- [Demographic-environmental effect on dengue outbreaks in 11 countries](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305854) (Plos.org)
+
+- [Detectan un brote de dengue en Cataluña: cómo se trasmite y cuáles son sus síntomas](https://www.meneame.net/m/actualidad/detectan-brote-dengue-cataluna-como-trasmite-cuales-son-sintomas) (Meneame.net)
+
+- [Un caso di dengue autoctono a Brescia](https://www.ansa.it/lombardia/notizie/2024/09/11/un-caso-di-dengue-autoctono-a-brescia_e1ed3c74-f518-43a0-a951-2d0af1970b3e.html) (ANSA.it)
+
+- [Gefährliche Tigermücken fühlt sich jetzt auch in diesem Bezirk heimisch](https://www.morgenpost.de/bezirke/pankow/article407229165/gefaehrliche-tigermuecken-fuehlt-sich-jetzt-auch-in-diesem-bezirk-heimisch.html) (Berliner Morgenpost)
 
 - [Quand on part en vacances dans le Gard, on risque de développer la dengue](https://www.lavenir.net/actu/societe/2024/09/11/quand-on-part-en-vacances-dans-le-gard-on-risque-de-developper-la-dengue-TV335HY23ZDPRC6SEPTJQIRYQA/) (Lavenir.net)
 
@@ -3855,8 +3901,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
 
-- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
-
 ## 24-31 (pertussis)
 
 - [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
@@ -4142,8 +4186,6 @@ Source: [News API](https://newsapi.org/)
 - [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
 
 - [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
-
-- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 ## 24-31 (chikungunya)
 
