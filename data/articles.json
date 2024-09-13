@@ -1,8 +1,296 @@
 {
-  "last_updated": "2024-09-12 19:05",
-  "count_articles_total": 1907,
-  "count_articles_new": 22,
+  "last_updated": "2024-09-13 07:06",
+  "count_articles_total": 1926,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 13397,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Press Trust of India",
+      "title": "Death of fishing labourers: Dengue, cholera rising at Goa jetty, says Rane",
+      "description": "Goa Health Minister Vishwajit Rane on Thursday said there has been a rise in cases of dengue and cholera at a jetty in Cutbona village, where six fish workers died of dehydration earlier this week, and asked authorities to monitor and control the situation. T\u2026",
+      "url": "https://www.business-standard.com/india-news/death-of-fishing-labourers-dengue-cholera-rising-at-goa-jetty-says-rane-124091200246_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/22/thumb/fitandfill/400X400/1716360399-9827.jpg",
+      "publishedAt": "2024-09-12 06:12:52",
+      "content": "Rane said there has been a \"rise in cases of dengue and cholera reported from the Cutbona jetty.\"The Directorate of Municipal Administration has been asked to cooperate with the health department in \u2026 [+280 chars]",
+      "retrievedAt": "2024-09-13 07:06:05.198537",
+      "internal_id": "920d7c0ae44d5a7da8f1e474d6e9752ca7a5adbc2f2c975d40de8c4514b26091",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13409,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Pakistan\u2019da maymun \u00e7i\u00e7e\u011fi vakas\u0131 tespit edildi",
+      "description": "Pakistan Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131, yak\u0131n zamanda bir Orta Do\u011fu \u00fclkesinden d\u00f6nen ki\u015fide maymun \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fcn\u00fcn tespit edildi\u011fini duyurdu. \u00dclkedeki vaka say\u0131s\u0131 6'ya y\u00fckseldi.",
+      "url": "https://anlatilaninotesi.com.tr/20240912/pakistanda-maymun-cicegi-vakasi-tespit-edildi-1087928853.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1087928853.jpg?10868575851726119928",
+      "publishedAt": "2024-09-12 05:45:27",
+      "content": "Rusya, ABD, Avrupa ve Ortadou bata olmak \u00fczere d\u00fcnyann d\u00f6rt bir yanndan son dakika haberleri, analizler ve \u00f6zel dosyalar. https://anlatilaninotesi.com.tr/20240912/pakistanda-maymun-cicegi-vakasi-tes\u2026 [+1916 chars]",
+      "retrievedAt": "2024-09-13 07:06:07.152714",
+      "internal_id": "738ae90f90cac1f922b40ac966db5fdc0e62037741b7b8ee9863531438b876b2",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13401,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Christoph Jehle",
+      "title": "Mpox-Panik: Alte Verschw\u00f6rungsmythen in neuem Gewand",
+      "description": "Mpox weckt Erinnerungen an Corona. Obwohl beide wenig gemeinsam haben, machen \u00e4hnliche Verschw\u00f6rungsmythen die Runde. Droht die n\u00e4chste Pandemie?",
+      "url": "https://www.telepolis.de/features/Mpox-Panik-Alte-Verschwoerungsmythen-in-neuem-Gewand-9862088.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/6/6/0/5/3/mpox-bfaef91022289bd5.png",
+      "publishedAt": "2024-09-12 05:00:00",
+      "content": "Mpox weckt Erinnerungen an Corona. Obwohl beide wenig gemeinsam haben, machen \u00e4hnliche Verschw\u00f6rungsmythen die Runde. Droht die n\u00e4chste Pandemie? Lockdowns, Massen-Impfungen und Ausgangssperren? Sol\u2026 [+5573 chars]",
+      "retrievedAt": "2024-09-13 07:06:06.843500",
+      "internal_id": "b0bbdb57e3fa0c06554b6359f4e0de9f9480e3e0cc52b1e619582ea32858cfbc",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13394,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Measles cases rise to 112, compared with just four last year",
+      "description": "The number of measles cases diagnosed in Ireland so far this year has reached 112, which is 28 times higher than last year.",
+      "url": "https://www.independent.ie/irish-news/health/measles-cases-rise-to-112-compared-with-just-four-last-year/a357542864.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/OPtAq6H5T6oBGzhy1_CIAXLu8Bo=/0x0:3238x2158/629x0/prod-mh-ireland/1cf2858c-daf8-4fc3-98b7-bb086a42a2c2/005eef1a-ee9e-4f08-b904-42b6e0275647/1cf2858c-daf8-4fc3-98b7-bb086a42a2c2.jpg",
+      "publishedAt": "2024-09-12 01:30:00",
+      "content": "The number of measles cases diagnosed in Ireland so far this year has reached 112, which is 28 times higher than last year.The total this year \u00adcompares with four in 2023 and two in 2022, with no inf\u2026 [+2038 chars]",
+      "retrievedAt": "2024-09-13 07:06:04.235748",
+      "internal_id": "c8131918f42e6a86f1da00289b9c6576610616abb9cd5ec31f3278bad68f2fc2",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13393,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Alaskasnewssource.com",
+      "author": "Lauren Maxwell",
+      "title": "Alaska records 1st infant death from whooping cough, state health officials confirm",
+      "description": "Alaska\u2019s state health department confirmed that an infant has died from the ongoing pertussis \u2014 or whooping cough \u2014 epidemic that is currently sweeping Alaska.",
+      "url": "https://www.alaskasnewssource.com/2024/09/12/alaskan-records-1st-infant-death-whooping-cough-state-health-officials-confirm/",
+      "urlToImage": "https://gray-ktuu-prod.cdn.arcpublishing.com/resizer/v2/P5IVAVG73VC5LPS2OMU4GIDIJQ.jpg?auth=75ecab22892b18a512e9fa638157aa9dca9c5d2425f4c3b568f973419d550224&width=1200&height=600&smart=true",
+      "publishedAt": "2024-09-12 01:23:23",
+      "content": "ANCHORAGE, Alaska (KTUU) - Alaskas state health department confirmed that an infant has died from the ongoing pertussis or whooping cough epidemic that is currently sweeping Alaska. Details about th\u2026 [+2712 chars]",
+      "retrievedAt": "2024-09-13 07:06:03.567954",
+      "internal_id": "b803736289d9876adc7f333bc9199f96b5637a3cbf20bfffd55e8a5961bfdede",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13399,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Baccolod: NegOcc, Bacolod log 13 dengue related deaths",
+      "description": "Negros Occidental has recorded 10 deaths, while the highly urbanized city of Bacolod recorded three fatalities, all related to dengue, from January 1 to August 31, according to the Department of Health Western Visayas Center for Health and Development virtual\u2026",
+      "url": "https://rpnradio.com/baccolod-negocc-bacolod-log-13-dengue-related-deaths/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/09/negocc-bc-dengue.jpg",
+      "publishedAt": "2024-09-12 01:09:53",
+      "content": "Negros Occidental has recorded 10 deaths, while the highly urbanized city of Bacolod recorded three fatalities, all related to dengue, from January 1 to August 31, according to the Department of Heal\u2026 [+1834 chars]",
+      "retrievedAt": "2024-09-13 07:06:05.268749",
+      "internal_id": "e247031163b75021e3f468823fb34b73e83b0fde8162b6a4da0e066c6a263a81",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13400,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Christa Lest\u00e9-Lasserre",
+      "title": "One dose of a smallpox vaccine still gives good protection for mpox",
+      "description": "A single dose of a smallpox vaccine seems to lower the risk of catching mpox by around 60 per cent, and two doses would probably be even better",
+      "url": "https://www.newscientist.com/article/2447548-one-dose-of-a-smallpox-vaccine-still-gives-good-protection-for-mpox/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/09/11170710/SEI_2211153901.jpg",
+      "publishedAt": "2024-09-11 23:30:21",
+      "content": "There is little good-quality research into smallpox vaccines\u2019 effectiveness against mpox Emmanuele Contini/NurPhoto via Getty Images Receiving a single dose of one type of smallpox vaccine seems to\u2026 [+3064 chars]",
+      "retrievedAt": "2024-09-13 07:06:06.837561",
+      "internal_id": "62bbe9c8018a2c160d4c191c8314b4d664f186065b2c2149350ca5d3982accb7",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13407,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "Bloomberg News",
+      "title": "One Bavarian Nordic Shot 58% Effective Against Mpox, Study Shows",
+      "description": "Bavarian Nordic A/S\u2019s smallpox vaccine was moderately effective in preventing mpox infection after a single dose, according to a study in Ontario, Canada, where the shot probably helped curb a 2022 outbreak.",
+      "url": "https://financialpost.com/pmn/business-pmn/one-bavarian-nordic-shot-58-effective-against-mpox-study-shows",
+      "urlToImage": null,
+      "publishedAt": "2024-09-11 22:52:19",
+      "content": "(Bloomberg) Bavarian Nordic A/Ss smallpox vaccine was moderately effective in preventing mpox infection after a single dose, according to a study in Ontario, Canada, where the shot probably helped cu\u2026 [+1932 chars]",
+      "retrievedAt": "2024-09-13 07:06:07.082255",
+      "internal_id": "edb606fc2d1f0bc95f9bf831a086861fb372941043dcb31b5cfa8901109ba150",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13406,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Christine Navarro, Cindy Lau, Sarah A Buchan, Ann N Burchell, Sharifa Nasreen, Lindsay Friedman, Evaezi Okpokoro, Peter C Austin, Darrell H S Tan, Jonathan B Gubbay, Jeffrey C Kwong, Sharmistha Mishra",
+      "title": "Effectiveness of modified vaccinia Ankara-Bavarian Nordic vaccine against mpox infection: emulation of a target trial",
+      "description": "Objective To estimate the real world effectiveness of modified vaccinia Ankara-Bavarian Nordic (MVA-BN) vaccine against mpox infection. Design Emulation of a target trial. Setting Linked databases in Ontario, Canada. Participants 9803 men aged \u226518 years wi\u2026",
+      "url": "https://www.bmj.com/content/386/bmj-2023-078243",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/386/8440.cover-source.jpg",
+      "publishedAt": "2024-09-11 22:30:37",
+      "content": "Christine Navarro, public health physician123, Cindy Lau, senior research analyst4, Sarah A Buchan, scientist1234, Ann N Burchell, scientist2456, Sharifa N\u2026 [+16369 chars]",
+      "retrievedAt": "2024-09-13 07:06:06.920896",
+      "internal_id": "09516bcf500833b54fc4f3915076b495af1f839b99e3890548a3300d47583d4d",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13395,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Avian flu found in wastewater of 10 Texas cities through virome sequencing",
+      "description": "Avian influenza A(H5N1) virus, which spread to cattle and infected 14 people this year, was detected using virome sequencing in the wastewater of 10 Texas cities.",
+      "url": "https://www.sciencedaily.com/releases/2024/09/240911180009.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-09-11 22:00:09",
+      "content": "Avian influenza A(H5N1) virus, which spread to cattle and infected 14 people this year, was detected using virome sequencing in the wastewater of 10 Texas cities by researchers at UTHealth Houston an\u2026 [+2754 chars]",
+      "retrievedAt": "2024-09-13 07:06:04.776156",
+      "internal_id": "ab5f6ff4337a43d2765e40992928d82a208af5e96a991c45a21ac3c7ee496d37",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13405,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0421\u0440\u0435\u0434\u0438 \u0431\u0435\u0436\u0435\u043d\u0446\u0435\u0432 \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u043d\u0435 \u043c\u0435\u043d\u0435\u0435 88 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0418\u0437 \u043d\u0438\u0445 68 \u0432 \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u041a\u043e\u043d\u0433\u043e, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u043e \u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0432\u0435\u0440\u0445\u043e\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u043c\u0438\u0441\u0441\u0430\u0440\u0430 \u041e\u041e\u041d \u043f\u043e \u0434\u0435\u043b\u0430\u043c \u0431\u0435\u0436\u0435\u043d\u0446\u0435\u0432",
+      "url": "https://tass.ru/obschestvo/21841981",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21841981?u=2024-09-11T21:51:01.831218",
+      "publishedAt": "2024-09-11 21:51:01",
+      "content": ", 12 . //. 88 (mpox), 68 (). (), 2024 $21,4 9,9 35 . \" 88 mpox , 68 - , . \", - . \" $21,4 , , mpox\", - . \" 9,9 35 \". 2024 20 . . \" mpox , , \", - , . , . , , \" mpox\". , \" \". Mpox - , , . 1970 . .",
+      "retrievedAt": "2024-09-13 07:06:06.897583",
+      "internal_id": "deafeddaec645b77c43a279efb8cbec4db58d611126495386de9ec1942582037",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13403,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Congo brings forward launch of mpox vaccine drive to Oct 2",
+      "description": "Democratic Republic of Congo will start its mpox vaccination campaign on Oct 2, nearly a week earlier than previously planned, the head of its outbreak response said on Wednesday. Congo is the epicentre of the ongoing mpox outbreak that the World Health Organ\u2026",
+      "url": "https://japantoday.com/category/world/congo-brings-forward-launch-of-mpox-vaccine-drive-to-oct-2",
+      "urlToImage": null,
+      "publishedAt": "2024-09-11 21:37:49",
+      "content": "Democratic Republic of Congo will start its mpox vaccination campaign on Oct 2, nearly a week earlier than previously planned, the head of its outbreak response said on Wednesday. Congo is the epice\u2026 [+1653 chars]",
+      "retrievedAt": "2024-09-13 07:06:06.876985",
+      "internal_id": "c4231c665cc641405cb8da2f2968604e8e9074ae6a6f0c40a672a303ca013e90",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13398,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Vaucluse : l'\u00e9radication du moustique tigre, un enjeu dans l'un des principaux foyers de dengue en France",
+      "description": "Dans le Vaucluse, le moustique tigre r\u00e9pand la dengue comme une tra\u00een\u00e9e de poudre. Des \u00e9quipes sont \u00e0 l'\u0153uvre dans le deuxi\u00e8me plus gros cluster de France pour en venir \u00e0 bout.",
+      "url": "https://www.francetvinfo.fr/replay-jt/france-2/20-heures/vaucluse-l-eradication-du-moustique-tigre-un-enjeu-dans-l-un-des-principaux-foyers-de-dengue-en-france_6776179.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/O7n4TU125cjGkjHyAYAZyGrFsTE/0x8:1624x922/1500x843/2024/09/11/vaucluse-l-eradication-du-moustique-tigre-un-enjeu-dans-l-un-des-principaux-foyers-de-dengue-en-france-66e203774f0ef480066587.jpg",
+      "publishedAt": "2024-09-11 20:56:09",
+      "content": "\u00c0 Sainte-C\u00e9cile-les-Vignes, dans le Vaucluse, des sp\u00e9cialistes des moustiques sont sur le pied de guerre. Ils pr\u00e9parent leur quatri\u00e8me op\u00e9ration de d\u00e9moustication en 15 jours seulement. Leur op\u00e9ratio\u2026 [+807 chars]",
+      "retrievedAt": "2024-09-13 07:06:05.258234",
+      "internal_id": "e46a790b47605b2bb1765eabaa89dc0567bf7bfdd8ab6e9ff9a5fc7c7b4732ff",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13396,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Dengue, virus respiratorios y diarreas acechan en este momento",
+      "description": "Todos los costarricenses est\u00e1n expuestos en mayor o menor medida a dengue, virus respiratorios, diarreas y gusano barrenador. Repasamos el estatus de ellas y c\u00f3mo cuidarnos",
+      "url": "https://www.nacion.com/ciencia/salud/dengue-virus-respiratorios-y-diarreas-acechan-en/GMBESPLRJNHQ7I44XBQNUQMJGA/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/AHUFD35C35DIBHNMVOVQS2V3WI.jpg?smart=true&auth=a84b151dae6b45070831e79196e15c2ff52009806c74250db759c6f878340f8e&width=1440",
+      "publishedAt": "2024-09-11 20:46:58",
+      "content": "En las \u00faltimas semanas, las autoridades de salud han advertido de cuatro condiciones a las que los costarricenses est\u00e1n expuestos en mayor o menor medida. Este es el caso del dengue, los virus respir\u2026 [+9056 chars]",
+      "retrievedAt": "2024-09-13 07:06:05.147867",
+      "internal_id": "33db88bca1e9fc5372c8914081329fa15a686dae0cf1ac3e8758ef7b14454784",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13404,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Monkeypox Fear Mongering Ramps Up",
+      "description": "In addition to the bird flu, eastern equine encephalitis, and sloth fever, the media's fear-mongering campaign surrounding the mpox, formerly monkeypox virus is ramping up. Mainstream media outlets state that in their opinion, Western nations should be respo\u2026",
+      "url": "https://www.shtfplan.com/headline-news/monkeypox-fear-mongering-ramps-up",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2020/03/medicalmartiallaw.jpg",
+      "publishedAt": "2024-09-11 20:00:56",
+      "content": "In addition to the bird flu, eastern equine encephalitis, and sloth fever, the media\u2019s fear-mongering campaign surrounding the mpox, formerly monkeypox virus is ramping up. Mainstream media outlets \u2026 [+2466 chars]",
+      "retrievedAt": "2024-09-13 07:06:06.887052",
+      "internal_id": "a115e716c92a96517f209469e869c502370687c75b1ec36f0cf3cd352dbd26d9",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 13402,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "DR Congo starter vaccination mod mpox 2. oktober",
+      "description": "DR Congo forventer at igangs\u00e6tte landets vaccinationskampagne mod mpox den 2. oktober. Det er n\u00e6sten en uge tidligere end den hidtidige melding, skriver Reuters.",
+      "url": "https://www.dr.dk/nyheder/seneste/dr-congo-starter-vaccination-mod-mpox-2-oktober",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-09-11 19:27:00",
+      "content": "Donald Trump og Kamala Harris skal stoppe med at tr\u00e6kke Vladimir Putin ind i deres politiske kamp om at erobre Det Hvide Hus, siger Putins talsperson, Dmitrij Peskov, til journalister efter debatten \u2026 [+780 chars]",
+      "retrievedAt": "2024-09-13 07:06:06.871543",
+      "internal_id": "0b3b9425827a15fa24a7903c7a9007ddd0a608d3baa29da52fefff03df31c31d",
+      "publishedAtLabel": "Sep 11"
+    },
     {
       "id": 13371,
       "query": [
@@ -1102,6 +1390,24 @@
       "content": "KINSHASA, Congo -- Authorities in Congo said that 50,000 doses of mpox vaccine from the United States arrived in the country on Tuesday, a week after the first batch arrived from the European Union. \u2026 [+2274 chars]",
       "retrievedAt": "2024-09-11 19:05:42.225195",
       "internal_id": "2070451e2f1607744fb7e45b6dd6de07a99a5635a55e2de1571390889600bc51",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 13408,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Jeune Afrique",
+      "author": "Matthieu MillecampsMa\u00fflis Dudouet",
+      "title": "Mpox : cinq questions pour comprendre comment l\u2019Afrique lutte contre l\u2019\u00e9pid\u00e9mie",
+      "description": "LE D\u00c9CRYPTAGE DE JA \u2013 Si la variole du singe fait moins la une des m\u00e9dias, elle poursuit pourtant son implacable propagation. La \u00ab strat\u00e9gie unifi\u00e9e \u00bb mise en place par l\u2019OMS et l\u2019Africa CDC sera-t-elle efficace ?",
+      "url": "https://www.jeuneafrique.com/1606987/politique/mpox-cinq-questions-pour-comprendre-comment-lafrique-lutte-contre-lepidemie/",
+      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover/https://prod.cdn-medias.jeuneafrique.com/medias/2024/09/10/jad20240910-decryptage-mpox-acces-aux-vaccins.jpg",
+      "publishedAt": "2024-09-10 13:35:57",
+      "content": "Cette fois, le \u00ab plan de riposte \u00bb est connu. Il faut 600 millions deuros, sur une p\u00e9riode de six mois, pour venir \u00e0 bout de lanouvelle \u00e9pid\u00e9mie de Mpox, qui continue de se propager sur lensemble du \u2026 [+224 chars]",
+      "retrievedAt": "2024-09-13 07:06:07.146556",
+      "internal_id": "289d8197de76a15e2faaa47bbdf63a9413b2dfdf359385a63549f4e57da2626b",
       "publishedAtLabel": "Sep 10"
     },
     {
@@ -34412,6 +34718,42 @@
       "content": "Awards 1 win &amp; 4 nominations See more awards \u00bb Plot: Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town. Genre: Horror | ThrillerIMDB Rating\u2026 [+689 chars]",
       "retrievedAt": "2024-07-30 07:06:53.092573",
       "internal_id": "eb985370d41891a9164d7ad115f336d1d206efd512127ea072b51f1c01762421",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 11484,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Fontanka.ru",
+      "author": null,
+      "title": "\u0427\u0435\u0445\u0438 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443 \u0440\u0435\u0448\u0430\u044e\u0442. \u0427\u0442\u043e \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0438\u0437 \u043f\u0440\u0438\u0432\u0438\u0432\u043e\u043a, \u0447\u0442\u043e\u0431\u044b \u043f\u0443\u0441\u0442\u0438\u043b\u0438 \u0441 \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u043c \u0437\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0443",
+      "description": "\u041d\u0430 \u043c\u0438\u043d\u0443\u0432\u0448\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0435 \u0420\u043e\u0441\u0441\u0438\u044f \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a\u0430 \u0432\u0430\u043a\u0446\u0438\u043d \u043e\u0442 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u00ab\u041d\u043e\u0431\u0438\u0432\u0430\u043a Rabies\u00bb \u2014 \u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0446\u044b \u043e\u0442\u043a\u0430\u0437\u0430\u043b\u0438\u0441\u044c \u0438\u0433\u0440\u0430\u0442\u044c \u043f\u043e \u043f\u0440\u0430\u0432\u0438\u043b\u0430\u043c \u0420\u043e\u0441\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u043d\u0430\u0434\u0437\u043e\u0440\u0430.",
+      "url": "https://www.fontanka.ru/2024/07/28/73843271/",
+      "urlToImage": "https://cdn.iportal.ru/news/articles/social/54d9438f84b26481c36faf79e4ca4fa0.png",
+      "publishedAt": "2024-07-28 13:38:40",
+      "content": "\u00ab Rabies\u00bb . . \u00ab\u00bb , , . \u00ab 15 \u00ab\u00ae Rabies\u00bb \u00abIntervet International B.V.\u00bb () . , 1 2024 , \u00bb, , . 2022 - . . GMP, . GMP-? -GMP , . 1 2023 , GMP (Good manufacturing practice ). , , . \u00ab GMP, , GMP \u00bb,\u2026 [+480 chars]",
+      "retrievedAt": "2024-07-29 19:05:40.879632",
+      "internal_id": "ad2f0bf0aecd9f472859b865cafea547aec2b3c26327c57e12c30ee8b694a118",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 11485,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "BS Reporter",
+      "title": "USAID, Takeda Biopharma launch dengue prevention programme across India",
+      "description": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil",
+      "url": "https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/28/thumb/featurecrop/400X400/1722161975-1545.jpeg",
+      "publishedAt": "2024-07-28 10:20:31",
+      "content": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil Image credit: USAID's X accou\u2026 [+2271 chars]",
+      "retrievedAt": "2024-07-29 19:05:42.044678",
+      "internal_id": "8a4a356d3b19bab889eca92053315491650758fe12185c61d9eb80446b6c2360",
       "publishedAtLabel": "Jul 28"
     }
   ]

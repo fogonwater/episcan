@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-09-12 19:05
-- **Most recent article:** 2024-09-11 19:00:31
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-09-13 07:06
+- **Most recent article:** 2024-09-12 06:12:52
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 86 | 1142 |
-| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 37 | 345 |
+| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 96 | 1152 |
+| dengue | 53 | 46 | 52 | 64 | 45 | 49 | 41 | 350 |
 | malaria | 15 | 16 | 19 | 27 | 28 | 14 | 8 | 127 |
-| h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 6 | 87 |
+| h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 7 | 88 |
 | zika | 12 | 11 | 10 | 21 | 2 | 6 | 1 | 63 |
-| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 1 | 48 |
-| measles | 7 | 6 | 3 | 7 | 11 | 9 | 4 | 47 |
+| rabies | 12 | 8 | 12 | 6 | 3 | 7 | 1 | 49 |
+| measles | 7 | 6 | 3 | 7 | 11 | 9 | 5 | 48 |
 | meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 2 | 41 |
 | chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 2 | 35 |
-| pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 2 | 24 |
+| pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 3 | 25 |
 | hpai | 4 | 1 | 1 | 1 | 0 | 3 | 0 | 10 |
 | leptospirosis | 1 | 2 | 2 | 4 | 0 | 1 | 0 | 10 |
 | yersinia | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 6 |
@@ -43,11 +43,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (pertussis)
 
+- [Alaska records 1st infant death from whooping cough, state health officials confirm](https://www.alaskasnewssource.com/2024/09/12/alaskan-records-1st-infant-death-whooping-cough-state-health-officials-confirm/) (Alaskasnewssource.com)
+
 - [Waning immunity behind whooping cough outbreak in N.L., top doctor says](https://www.cbc.ca/news/canada/newfoundland-labrador/pertussis-outbreak-nl-1.7318905) (CBC News)
 
 - [Whooping Cough Cases Rise In U.S. Following Pattern Seen Worldwide](https://www.forbes.com/sites/joshuacohen/2024/09/10/whooping-cough-cases-rise-in-us-following-pattern-seen-worldwide/) (Forbes)
 
 ## 24-37 (mpox)
+
+- [Pakistan’da maymun çiçeği vakası tespit edildi](https://anlatilaninotesi.com.tr/20240912/pakistanda-maymun-cicegi-vakasi-tespit-edildi-1087928853.html) (Anlatilaninotesi.com.tr)
+
+- [Mpox-Panik: Alte Verschwörungsmythen in neuem Gewand](https://www.telepolis.de/features/Mpox-Panik-Alte-Verschwoerungsmythen-in-neuem-Gewand-9862088.html) (Telepolis.de)
+
+- [One dose of a smallpox vaccine still gives good protection for mpox](https://www.newscientist.com/article/2447548-one-dose-of-a-smallpox-vaccine-still-gives-good-protection-for-mpox/) (New Scientist)
+
+- [One Bavarian Nordic Shot 58% Effective Against Mpox, Study Shows](https://financialpost.com/pmn/business-pmn/one-bavarian-nordic-shot-58-effective-against-mpox-study-shows) (Financial Post)
+
+- [Effectiveness of modified vaccinia Ankara-Bavarian Nordic vaccine against mpox infection: emulation of a target trial](https://www.bmj.com/content/386/bmj-2023-078243) (The BMJ)
+
+- [Среди беженцев в Африке выявили не менее 88 случаев заболевания оспой обезьян](https://tass.ru/obschestvo/21841981) (Tass.ru)
+
+- [Congo brings forward launch of mpox vaccine drive to Oct 2](https://japantoday.com/category/world/congo-brings-forward-launch-of-mpox-vaccine-drive-to-oct-2) (Japan Today)
+
+- [Monkeypox Fear Mongering Ramps Up](https://www.shtfplan.com/headline-news/monkeypox-fear-mongering-ramps-up) (Shtfplan.com)
+
+- [DR Congo starter vaccination mod mpox 2. oktober](https://www.dr.dk/nyheder/seneste/dr-congo-starter-vaccination-mod-mpox-2-oktober) (Www.dr.dk)
 
 - [Brasil supera marca de mil casos de mpox em 2024](https://dinheirama.com/brasil-supera-marca-de-mil-casos-de-mpox-em-2024/) (Dinheirama.com)
 
@@ -110,6 +130,8 @@ Source: [News API](https://newsapi.org/)
 - [First doses of mpox vaccine from the United States arrive in Congo](https://abcnews.go.com/Health/wireStory/doses-mpox-vaccine-united-states-arrive-congo-113548658) (ABC News)
 
 - [First doses of mpox vaccine from the United States arrive in Congo](https://abcnews.go.com/International/wireStory/doses-mpox-vaccine-united-states-arrive-congo-113548657) (ABC News)
+
+- [Mpox : cinq questions pour comprendre comment l’Afrique lutte contre l’épidémie](https://www.jeuneafrique.com/1606987/politique/mpox-cinq-questions-pour-comprendre-comment-lafrique-lutte-contre-lepidemie/) (Jeune Afrique)
 
 - [First doses of mpox vaccine from the United States arrive in Congo](https://financialpost.com/pmn/first-doses-of-mpox-vaccine-from-the-united-states-arrive-in-congo) (Financial Post)
 
@@ -229,6 +251,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (measles)
 
+- [Measles cases rise to 112, compared with just four last year](https://www.independent.ie/irish-news/health/measles-cases-rise-to-112-compared-with-just-four-last-year/a357542864.html) (Independent.ie)
+
 - [Kentucky health officials confirm measles case in WKU student from Tennessee](https://www.wdrb.com/news/kentucky-health-officials-confirm-measles-case-in-wku-student-from-tennessee/article_8ae05ae0-6fc6-11ef-9612-b3d53b0f5e0f.html) (WDRB)
 
 - [Ky. health officials announce measles case at WKU, work to identify those exposed](https://www.wpsdlocal6.com/health/ky-health-officials-announce-measles-case-at-wku-work-to-identify-those-exposed/article_38f1b704-6fbe-11ef-8f95-5fe2ffa57147.html) (WPSD Local 6)
@@ -257,6 +281,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (h5n1)
 
+- [Avian flu found in wastewater of 10 Texas cities through virome sequencing](https://www.sciencedaily.com/releases/2024/09/240911180009.htm) (Science Daily)
+
 - [First human case of Avian Flu (H5N1) confirmed in Missouri](https://www.stlouis-mo.gov/government/departments/health/news/first-human-bird-flu-case-missouri.cfm) (Stlouis-mo.gov)
 
 - [La sombra de Wuhan se cierne sobre Nueva York: la gripe aviar irrumpe en sus mercados de animales](https://www.elespanol.com/ciencia/salud/20240911/sombra-wuhan-cierne-nueva-york-gripe-aviar-irrumpe-mercados-animales/884911996_0.html) (Elespanol.com)
@@ -270,6 +296,14 @@ Source: [News API](https://newsapi.org/)
 - [EE.UU. detecta el primer caso de gripe aviar en una persona que no tuvo contacto conocido con animales](https://www.meneame.net/m/actualidad/ee-uu-detecta-primer-caso-gripe-aviar-persona-no-tuvo-contacto) (Meneame.net)
 
 ## 24-37 (dengue)
+
+- [Death of fishing labourers: Dengue, cholera rising at Goa jetty, says Rane](https://www.business-standard.com/india-news/death-of-fishing-labourers-dengue-cholera-rising-at-goa-jetty-says-rane-124091200246_1.html) (Business Standard)
+
+- [Baccolod: NegOcc, Bacolod log 13 dengue related deaths](https://rpnradio.com/baccolod-negocc-bacolod-log-13-dengue-related-deaths/) (Rpnradio.com)
+
+- [Vaucluse : l'éradication du moustique tigre, un enjeu dans l'un des principaux foyers de dengue en France](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/vaucluse-l-eradication-du-moustique-tigre-un-enjeu-dans-l-un-des-principaux-foyers-de-dengue-en-france_6776179.html) (Francetvinfo.fr)
+
+- [Dengue, virus respiratorios y diarreas acechan en este momento](https://www.nacion.com/ciencia/salud/dengue-virus-respiratorios-y-diarreas-acechan-en/GMBESPLRJNHQ7I44XBQNUQMJGA/story/) (Nacion.com)
 
 - [Dengue-like illnesses in kids rising & worrisome, say doctors](https://timesofindia.indiatimes.com/city/bengaluru/dengue-like-illnesses-in-kids-rising-worrisome-say-doctors/articleshow/113269429.cms) (The Times of India)
 
@@ -3901,6 +3935,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
 
+- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
+
 ## 24-31 (pertussis)
 
 - [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
@@ -4186,6 +4222,8 @@ Source: [News API](https://newsapi.org/)
 - [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
 
 - [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
+
+- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 ## 24-31 (chikungunya)
 
