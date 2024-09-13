@@ -1,8 +1,440 @@
 {
-  "last_updated": "2024-09-13 07:06",
-  "count_articles_total": 1926,
-  "count_articles_new": 17,
+  "last_updated": "2024-09-13 19:06",
+  "count_articles_total": 1948,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 13411,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "The US is entering a riskier season for spread of H5N1 bird flu. Here\u2019s why experts are worried | CNN",
+      "description": "With the approach of fall and cooler weather across the United States, officials say the risk posed by the H5N1 bird flu virus could rise \u2014 and they\u2019re taking steps to prevent the creation of a hybrid flu virus that could more easily infect humans.",
+      "url": "https://www.cnn.com/2024/09/12/health/bird-flu-h5n1-fall/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2153339140-2.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-09-12 19:01:18",
+      "content": "With the approach of fall and cooler weather across the United States, officials say the risk posed by the H5N1 bird flu virus could rise and theyre taking steps to prevent the creation of a hybrid f\u2026 [+13465 chars]",
+      "retrievedAt": "2024-09-13 19:06:10.519315",
+      "internal_id": "aeab7792c9625725340fdb4d047c61eee96850d167dcfd09eda75fb828032bf0",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13422,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Africa CDC urges Western countries to boost funding for mpox response",
+      "description": "Health agency reports 107 deaths and 3,160 new cases over the last week, says toll 'not acceptable'.",
+      "url": "https://www.aljazeera.com/news/2024/9/12/africa-cdc-urges-western-countries-to-boost-funding-for-mpox-response",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/congo-1726161074.jpg?resize=1200%2C675",
+      "publishedAt": "2024-09-12 18:44:15",
+      "content": "The head of the African Unions health agency has called on Western countries to learn from the COVID-19 pandemic and not abandon Africa amid an ongoing mpox outbreak. Dr Jean Kaseya, director-genera\u2026 [+3179 chars]",
+      "retrievedAt": "2024-09-13 19:06:13.795783",
+      "internal_id": "c981f63d7822cbdb9887114f870b6b8a8cada8dfbded5b3d9048901aac432a6a",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13431,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Sudinfo avec AFP",
+      "title": "Epid\u00e9mie de mpox : l\u2019Occident ne doit pas abandonner l\u2019Afrique, souligne l\u2019agence de l\u2019Union africaine, \u00ab il est temps que les pays occidentaux montrent qu\u2019ils ont tir\u00e9 les le\u00e7ons du Covid \u00bb",
+      "description": "Le chef de l\u2019organe de surveillance sanitaire de l\u2019Union africaine a estim\u00e9 jeudi que l\u2019Occident devait tirer les le\u00e7ons de la pand\u00e9mie de Covid et appel\u00e9 \u00e0 ne pas abandonner l\u2019Afrique face \u00e0 l\u2019\u00e9pid\u00e9mie de mpox.",
+      "url": "https://www.sudinfo.be/id880174/article/2024-09-12/epidemie-de-mpox-loccident-ne-doit-pas-abandonner-lafrique-souligne-lagence-de",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/12/node_880174/55861756/public/2024/09/12/25641855.jpeg?itok=z_ub8P_91726164424",
+      "publishedAt": "2024-09-12 18:06:39",
+      "content": "Le chef de lorgane de surveillance sanitaire de lUnion africaine a estim\u00e9 jeudi que lOccident devait tirer les le\u00e7ons de la pand\u00e9mie de Covid et appel\u00e9 \u00e0 ne pas abandonner lAfrique face \u00e0 l\u00e9pid\u00e9mie d\u2026 [+1856 chars]",
+      "retrievedAt": "2024-09-13 19:06:14.073675",
+      "internal_id": "a6f5a7ab6145c1bc660ffba832f6cc56903a69b5a0539f455433b87764aef35a",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13419,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Instituto Butantan",
+      "title": "Butantan publica estudo de fase 3 da vacina da chikungunya; prote\u00e7\u00e3o chegou a 100% em adolescentes",
+      "description": "Pesquisa conduzida entre adolescentes de 12 a 17 anos foi publicada na The Lancet Infectious Diseases; Anvisa avalia pedido de aprova\u00e7\u00e3o The post Butantan publica estudo de fase 3 da vacina da chikungunya; prote\u00e7\u00e3o chegou a 100% em adolescentes appeared firs\u2026",
+      "url": "https://gizmodo.uol.com.br/butantan-publica-estudo-de-fase-3-da-vacina-da-chikungunya-protecao-chegou-a-100-em-adolescentes/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/09/vacina-de-chikungunya.jpg",
+      "publishedAt": "2024-09-12 18:01:06",
+      "content": "O ensaio cl\u00ednico vem sendo conduzido pelo Butantan desde 2022 com 750 adolescentes de 12 a 17 anos residentes de \u00e1reas end\u00eamicas, ou seja, onde h\u00e1 grande circula\u00e7\u00e3o do v\u00edrus. Participaram jovens das \u2026 [+2147 chars]",
+      "retrievedAt": "2024-09-13 19:06:13.381999",
+      "internal_id": "5d018a3230804617838916d4ae6c92fec5174427ff2401972098a93a8393e6ac",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13418,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Crypto Briefing",
+      "author": "Diego Almada Lopez",
+      "title": "US demands Nigeria to release Binance executive as health worsens",
+      "description": "The US-Nigeria diplomatic tensions over the detained Binance staffer could strain bilateral relations and impact future cooperation. The post US demands Nigeria to release Binance executive as health worsens appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/binance-employee-release-nigeria/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2024/09/12131209/Federal-High-Court.jpg",
+      "publishedAt": "2024-09-12 17:18:33",
+      "content": "Key Takeaways Mr. Gambaryan, detained since February, suffers from severe health issues including malaria.High-level US-Nigeria talks have occurred, focusing on the humanitarian rel\u2026 [+1870 chars]",
+      "retrievedAt": "2024-09-13 19:06:12.501704",
+      "internal_id": "103561f2da094d9f41caee303064293377d9d2e5daeaf2bd46b0a2e0629d4c6f",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13425,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u039c\u03b1\u03c1\u03cc\u03ba\u03bf: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 mpox",
+      "description": "\u0397 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd \u03ad\u03c6\u03c4\u03b1\u03c3\u03b5 \u03c3\u03c4\u03bf \u039c\u03b1\u03c1\u03cc\u03ba\u03bf - \u039a\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bd \u03b5\u03bd\u03c4\u03bf\u03c0\u03b9\u03c3\u03c4\u03b5\u03af \u03c3\u03c4\u03b7 \u039b\u03b1\u03ca\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc, \u03c3\u03c4\u03b7\u03bd \u0399\u03bf\u03c1\u03b4\u03b1\u03bd\u03af\u03b1 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03a4\u03b1\u03ca\u03bb\u03ac\u03bd\u03b4\u03b7",
+      "url": "https://www.skai.gr/news/health/maroko-entopistike-to-proto-krousma-mpox",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-09/ap-mpox.jpg?itok=A4eteB1X",
+      "publishedAt": "2024-09-12 16:56:30",
+      "content": "- , mpox- , Reuters. . . . mpox, , , 200.000 . . .Skai.gr Google News . \u00a9 2024 skai.gr - All Rights Reserved",
+      "retrievedAt": "2024-09-13 19:06:13.889361",
+      "internal_id": "de39940f942a5b8d7b6f427c1edfa87fdad0ce6edb8eb34fcfbc3a8f37a73400",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13427,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "John Charles",
+      "title": "Benue records four confirmed, 20 suspected mpox cases",
+      "description": "Benue State has recorded four confirmed cases of monkey pox The State Epidemiologist, Dr. Asema Msuega, who disclosed this to journalists on Thursday in a telephone chat said there were 20 unconfirmed cases of the disease as of the last record. Msuega said th\u2026",
+      "url": "https://punchng.com/benue-records-four-confirmed-20-suspected-mpox-cases/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2024-09-12 16:53:55",
+      "content": "Benue State has recorded four confirmed cases of monkey pox The State Epidemiologist, Dr. Asema Msuega, who disclosed this to journalists on Thursday in a telephone chat said there were 20 unconfirm\u2026 [+1902 chars]",
+      "retrievedAt": "2024-09-13 19:06:13.956424",
+      "internal_id": "85966bee2793e85e5e0096d0c244429d6a3cbc88232745cd274d1222ba11d592",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13433,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "EVELYNE MUSAMBI Associated Press",
+      "title": "Mpox deaths rise by 107 in a week as Africa CDC calls the toll unacceptable",
+      "description": "The Africa Center for Disease Control and Prevention has recorded more than 100 mpox-related deaths in a week, a toll the agency's director-general described as \u201cnot acceptable.\u201d",
+      "url": "https://abcnews.go.com/Health/wireStory/mpox-deaths-rise-107-week-africa-cdc-calls-113629410",
+      "urlToImage": "https://i.abcnewsfe.com/a/737c97cc-3e8b-4c49-a749-ec8f5ef21744/wirestory_31e714fbc528feab3a58d0c36e2a847f_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-12 16:46:19",
+      "content": "NAIROBI, Kenya -- African countries recorded more than 100 mpox-related deaths in the past week, the continental health body said Thursday as it described the rising toll as not acceptable. Dr. Jea\u2026 [+2631 chars]",
+      "retrievedAt": "2024-09-13 19:06:14.125544",
+      "internal_id": "8cd92273101ae906e00937fb9ad73caa9b394ec320fb9e6b8361cba311289ff8",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13428,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "EVELYNE MUSAMBI Associated Press",
+      "title": "Mpox deaths rise by 107 in a week as Africa CDC calls the toll unacceptable",
+      "description": "The Africa Center for Disease Control and Prevention has recorded more than 100 mpox-related deaths in a week, a toll the agency's director-general described as \u201cnot acceptable.\u201d",
+      "url": "https://abcnews.go.com/International/wireStory/mpox-deaths-rise-107-week-africa-cdc-calls-113629408",
+      "urlToImage": "https://i.abcnewsfe.com/a/737c97cc-3e8b-4c49-a749-ec8f5ef21744/wirestory_31e714fbc528feab3a58d0c36e2a847f_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-12 16:46:17",
+      "content": "NAIROBI, Kenya -- African countries recorded more than 100 mpox-related deaths in the past week, the continental health body said Thursday as it described the rising toll as not acceptable. Dr. Jea\u2026 [+2631 chars]",
+      "retrievedAt": "2024-09-13 19:06:13.971342",
+      "internal_id": "e4fe64f9cf8edf2500c7cfa5066ae934a3c239cf5c8221f2beb114395c1016b2",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13416,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Casi di febbre dengue a Fano, disinfestazioni notturne",
+      "description": "Dopo il caso di febbre dengue verificatosi ieri a Fano nella zona di Centinarola, oggi si sono registrati altri probabili casi in altre zone della citt\u00e0 come Vallato e Viale Buozzi. (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2024/09/12/casi-di-febbre-dengue-a-fano-disinfestazioni-notturne_7201882e-8d4e-41cd-aba3-11555403ce63.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/6/4/cd69b5ddebf309d20c939f9246a8cc92.jpg",
+      "publishedAt": "2024-09-12 16:12:40",
+      "content": "Dopo il caso di febbre dengue verificatosi ieri a Fano nella zona di Centinarola, oggi si sono registrati altri probabili casi in altre zone della citt\u00e0 come Vallato e Viale Buozzi. In questo cont\u2026 [+1420 chars]",
+      "retrievedAt": "2024-09-13 19:06:11.391675",
+      "internal_id": "d34377d4f63eaaf86b00f8a020aa72d3ac87a938f97aced2774476295cb8dc2e",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13423,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "As mpox vaccines arrive, how will DR Congo keep them cold?",
+      "description": "The BBC\u2019s Ian Wafula reports from a cold storage facility in Kinshasa as vaccines start arriving in the country.",
+      "url": "https://www.bbc.com/news/videos/czxlx0y4lkro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1de7/live/ba187710-7107-11ef-8c1a-df523ba43a9a.jpg",
+      "publishedAt": "2024-09-12 15:20:23",
+      "content": "As mpox cases continue to increase in parts of Africa, questions are being asked about how countries, if they can even get vaccines, are able store and distribute them. Few facilities are up to the\u2026 [+388 chars]",
+      "retrievedAt": "2024-09-13 19:06:13.824559",
+      "internal_id": "620e16a00e1e41938edb3fd53b172ff3221f5443e3ebf4de64cc40e42c345c65",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13412,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Dengue, salgono a due i casi autoctoni sui 412 rilevati in Italia. I casi importati soprattutto dal Brasile",
+      "description": "Salgono a 412 i casi di Dengue confermati in Italia dal 1 gennaio al 10 settembre 2024, di cui 410 associati a viaggi all\u2019estero e due autoctoni, uno in provincia di Brescia, l\u2019altro a Reggio Emilia, come riporta l\u2019Istituto superiore di sanit\u00e0, nell\u2019ultimo bo\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/09/12/dengue-salgono-a-due-i-casi-autoctoni-sui-412-rilevati-in-italia-i-casi-importati-soprattutto-dal-brasile/7691188/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/12/dengue-1200x630.jpg",
+      "publishedAt": "2024-09-12 15:04:23",
+      "content": "Salgono a 412 i casi di Dengue confermati in Italia dal 1 gennaio al 10 settembre 2024, di cui 410 associati a viaggi allestero e due autoctoni, uno in provincia di Brescia, l\u2019altro a Reggio Emilia, \u2026 [+2696 chars]",
+      "retrievedAt": "2024-09-13 19:06:11.251073",
+      "internal_id": "0c69c21e3582c1065ae12f1cc3ae4a916bafffc25da2c479280f35aeba4d60d7",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13414,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Monica Pirani, Camila Lorenz, Thiago Salom\u00e3o de Azevedo, Gerson Laurindo Barbosa, Marta Blangiardo, Francisco Chiaravalloti-Neto",
+      "title": "Effects of the El Ni\u00f1o-Southern Oscillation and seasonal weather conditions on Aedes aegypti infestation in the State of S\u00e3o Paulo (Brazil): A Bayesian spatio-temporal study",
+      "description": "Author summary Dengue fever is a dramatically expanding disease transmitted by mosquitoes. Earlier research has demonstrated the susceptibility of dengue-carrying mosquitoes to weather conditions, with rainfall and temperature significantly impacting dengue t\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012397",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012397.g006&size=inline",
+      "publishedAt": "2024-09-12 14:00:00",
+      "content": "Abstract Background Seasonal fluctuations in weather are recognized as factors that affect both Aedes (Ae.) aegypti mosquitoes and the diseases they carry, such as dengue fever. The El Ni\u00f1o-Souther\u2026 [+55217 chars]",
+      "retrievedAt": "2024-09-13 19:06:11.327310",
+      "internal_id": "e8ee3b9419123450d4ccb3085e504e6398322aee31949c41032fe7e28d14d5f5",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13420,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Jennifer Lotito, Contributor, \n Jennifer Lotito, Contributor\n https://www.forbes.com/sites/jenniferlotito/",
+      "title": "Mpox Reveals Global Health Vulnerabilities",
+      "description": "Is mpox the next Covid-19? One thing is already clear: the outbreak has exposed many global health vulnerabilities and is a powerful reminder of the importance of global health leadership.",
+      "url": "https://www.forbes.com/sites/jenniferlotito/2024/09/12/mpox-reveals-global-health-vulnerabilities/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66e068a1287bd57024ee0e29/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-12 14:00:00",
+      "content": "TOPSHOT - Patients listen to a doctor outside the consultation room of the Mpox treatment centre at ... [+] Nyiragongo General Referral Hospital, north of Goma on August 17, 2024. With around 16,000 \u2026 [+7611 chars]",
+      "retrievedAt": "2024-09-13 19:06:13.781985",
+      "internal_id": "086b691ed269d7a1c0a7ee1254d0995ba70281af95f34415fa6f76b256569e2d",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13429,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Sara Reardon",
+      "title": "Affenpocken: Die wichtigsten offenen Fragen zu Mpox und wie Fachleute versuchen, sie zu beantworten",
+      "description": "Ist die neue Affenpocken-Variante t\u00f6dlicher? Wie gut helfen Impfstoffe? Die wichtigsten offenen Fragen zu Mpox und wie Fachleute versuchen, sie zu beantworten.",
+      "url": "https://www.spektrum.de/news/mpox-was-sie-ueber-die-neue-affenpocken-variante-wissen-sollten/2230626",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/480678604_pa.jpg",
+      "publishedAt": "2024-09-12 13:36:43",
+      "content": "Exklusive \u00dcbersetzung aus Die Weltgesundheitsorganisation (WHO) hat Anfang August 2024 wegen Mpox eine Notlage ausgerufen. Hintergrund ist eine besonders gef\u00e4hrliche Form des Virus, die sich in mehr\u2026 [+10002 chars]",
+      "retrievedAt": "2024-09-13 19:06:13.977975",
+      "internal_id": "5d814a03051bb94195eb79610fbb7a85453a3c19c71e36eeed41d47bc03a4264",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13432,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Mpox outbreak: Rich nations have millions of shots as Africa's outbreak spreads; will they share?",
+      "description": "Rich countries have hundreds of millions of vaccine doses that could help combat an mpox outbreak in Africa, where donated shots are insufficient. The Democratic Republic of Congo and neighboring countries face the largest outbreak on record, with only a frac\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/mpox-outbreak-rich-nations-have-millions-of-shots-as-africas-outbreak-spreads-will-they-share/articleshow/113294327.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113295146,width-1200,height-630,imgsize-156170,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-12 12:18:45",
+      "content": "Rich countries have several hundred million doses of vaccines that could help fight an mpox outbreak in Africa, where donated shots fall far short of what is needed, according to a Reuters tally of p\u2026 [+5375 chars]",
+      "retrievedAt": "2024-09-13 19:06:14.080137",
+      "internal_id": "30cccc66ecbe72a0b4ce6370ab08be08c429a20037ee57a18f6a050a4230ba36",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13413,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Madhumanti Pait Chowdhury",
+      "title": "Rahul Vaidya, Suffering From Dengue, Performs 2 Hours Non-Stop In Jaipur",
+      "description": "Rahul shared an in-flight picture with wife Disha Parmar",
+      "url": "https://www.ndtv.com/entertainment/rahul-vaidya-suffering-from-dengue-performs-2-hours-non-stop-in-jaipur-6549036",
+      "urlToImage": "https://c.ndtvimg.com/2024-09/sbtmjmg_rahul-_625x300_12_September_24.jpeg",
+      "publishedAt": "2024-09-12 11:14:12",
+      "content": "New Delhi: Rahul Vaidya, diagnosed with dengue a couple of days ago, performed non-stop for two hours in a Jaipur concert. Re-sharing a fan's video on his Instagram stories, Rahul wrote, \"It's only m\u2026 [+1541 chars]",
+      "retrievedAt": "2024-09-13 19:06:11.289521",
+      "internal_id": "d37f03ba87e1e6f71755e3f9e65ad4c42c75e11cbef57e166c2b51b7f9558b48",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13415,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Luj\u00e1n Berardi",
+      "title": "Crecen las consultas: la recomendaci\u00f3n de los especialistas sobre si conviene vacunarse contra el dengue y cu\u00e1ndo hacerlo",
+      "description": "La inoculaci\u00f3n est\u00e1 recomendada a partir de los 4 a\u00f1os, sin l\u00edmite m\u00e1ximo de edad; el consejo principal es consultar previamente con un especialista para descartar contraindicaciones",
+      "url": "https://www.lanacion.com.ar/sociedad/crecen-las-consultas-la-recomendacion-de-los-especialistas-sobre-si-conviene-vacunarse-contra-el-nid12092024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/los-especialistas-aconsejan-realizar-una-consulta-O462LEZ5CFEG5KF2BFXTFMLRPM.jpg?auth=4a5493de0136b4da0928c93072dd6b2b1da7c63a4639d6d7550b4bb3adee1af2&width=768&quality=70&smart=false",
+      "publishedAt": "2024-09-12 10:00:00",
+      "content": "Luego de que el pa\u00eds registrara la epidemia de dengue m\u00e1s grande de los \u00faltimos 15 a\u00f1os entre agosto de 2023 y agosto de 2024, de cara a la nueva temporada que comienza ahora empezaron los planes gub\u2026 [+8930 chars]",
+      "retrievedAt": "2024-09-13 19:06:11.383261",
+      "internal_id": "448c2f6f409b412480c7397aca8777e42f6ad0beaa866b1d7638d08ad6162e42",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13424,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Bavarian Nordic uds\u00e6tter andre ordrer for at kunne levere mpox-vacciner",
+      "description": "Andre ordrer m\u00e5 vige til fordel for en stor m\u00e6ngde mpox-vacciner, som Bavarian Nordic skal producere og levere, inden \u00e5ret er omme.",
+      "url": "https://www.dr.dk/nyheder/seneste/bavarian-nordic-udsaetter-andre-ordrer-kunne-levere-mpox-vacciner",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-09-12 09:52:00",
+      "content": "Den ophedede debat mellem de to pr\u00e6sidentkandidater i USA, Donald Trump og Kamala Harris, blev set af 67,1 millioner tv-seere. Det viser data fra analysevirksomheden Nielsen, skriver Ritzau. Det er\u2026 [+585 chars]",
+      "retrievedAt": "2024-09-13 19:06:13.839228",
+      "internal_id": "14dcbfd83913e72b8ddc2ab2c2df400823b0b99d33d6a9f4e1002cd25d35d991",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13426,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Sharmistha Mishra, Christine Navarro, Jeffrey C Kwong",
+      "title": "Measures of how well a vaccine works",
+      "description": "This article discusses definitions of the effect of vaccines across outcomes of interest, from individual level to contacts of vaccinated people to population level. The focus is on the outcome evaluated in an observational study on the effectiveness of mpox \u2026",
+      "url": "https://www.bmj.com/content/386/bmj.q1982",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/386/8440.cover-source.jpg",
+      "publishedAt": "2024-09-12 09:25:39",
+      "content": "Sharmistha Mishra, scientist123456, Christine Navarro, public health physician278, Jeffrey C Kwong, senior scientist245789101Department of Medicine, Temert\u2026 [+7903 chars]",
+      "retrievedAt": "2024-09-13 19:06:13.904641",
+      "internal_id": "e00f57de97ae4e5af3af0f868ecfcb67b54ffe098f237a98cc91a0075a263a58",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13430,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Provides Update on the Mpox Vaccine Supply Situation",
+      "description": "COPENHAGEN, Denmark, September 12, 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA), the vaccine manufacturer of MVA-BN\u00ae, the only approved non-replicating smallpox and mpox vaccine (marketed as JYNNEOS\u00ae, IMVAMUNE\u00ae and IMVANEX\u00ae) today provided an update of its supply a\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/09/12/2944974/0/da/Bavarian-Nordic-Provides-Update-on-the-Mpox-Vaccine-Supply-Situation.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-09-12 08:54:00",
+      "content": "COPENHAGEN, Denmark, September 12, 2024 Bavarian Nordic A/S (OMX: BAVA), the vaccine manufacturer of MVA-BN\u00ae, the only approved non-replicating smallpox and mpox vaccine (marketed as JYNNEOS\u00ae, IMVAMU\u2026 [+5603 chars]",
+      "retrievedAt": "2024-09-13 19:06:14.049130",
+      "internal_id": "249910bc63b6b197800799c8cdff4c02ed3346d74e649aa5b446ab39427eb576",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13421,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Shola Lawal",
+      "title": "Mpox crisis: Why do African countries struggle to make or buy vaccines?",
+      "description": "African countries produce less than 2 percent of the vaccines the continent needs, experts say.",
+      "url": "https://www.aljazeera.com/news/2024/9/12/why-african-countries-struggle-to-produce-vaccines",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/2024-08-24T005957Z_1558731807_RC2MTD98Q2IL_RTRMADP_3_HEALTH-MPOX-BAVARIAN-NORDIC-1725512297.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-09-12 08:32:46",
+      "content": "After months of delay due to logistics, the first sets of mpox vaccines have finally begun arriving in Democratic Republic of the Congo, donated by Western countries. The Central African nation is t\u2026 [+11467 chars]",
+      "retrievedAt": "2024-09-13 19:06:13.788801",
+      "internal_id": "4b36cda1191177c25a0c66a83d1c0b1aaf7c81e75b08c44802e1da11e19af8e2",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13417,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "In provincia di Brescia \u00e8 stato registrato un caso di trasmissione di dengue in Italia, il primo del 2024",
+      "description": "",
+      "url": "https://www.ilpost.it/2024/09/12/brescia-contagio-autoctono-dengue/",
+      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2024/09/12/1726124755-dengue-zanzare.jpg",
+      "publishedAt": "2024-09-12 07:19:15",
+      "content": "A Ospitaletto, in provincia di Brescia, \u00e8 stato registrato un caso di contagio di febbre dengue: \u00e8 il primo avvenuto in Italia nel 2024, finora gli altri casi della malattia noti erano dovuti a infez\u2026 [+1883 chars]",
+      "retrievedAt": "2024-09-13 19:06:11.403338",
+      "internal_id": "36cb40b08992cb3d9e223116ba5c583eb13b75479726e6a6b2a1fb6ab5c543d8",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 13410,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u043c\u0430\u044f \u0432 \u0420\u0424 \u0434\u043e\u043b\u0433\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0432\u0430\u043a\u0446\u0438\u043d\u0430 \u043e\u0442 \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442 \u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u044f",
+      "description": "\u041e\u043d\u0430 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u0434\u043e\u043a\u043b\u0438\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u044f\u0445",
+      "url": "https://tass.ru/obschestvo/21843775",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21843775?u=2024-09-12T07:12:24.636983",
+      "publishedAt": "2024-09-12 07:12:24",
+      "content": ", 12 . //. , . , . \" , . \", - . , . . , . , . , , , (H1N1) , , (H5N1).",
+      "retrievedAt": "2024-09-13 19:06:10.473745",
+      "internal_id": "e4eda72872f3da462481ac50dfc12892cf19d991800722434097c21ef31c9071",
+      "publishedAtLabel": "Sep 12"
+    },
     {
       "id": 13397,
       "query": [
@@ -34718,42 +35150,6 @@
       "content": "Awards 1 win &amp; 4 nominations See more awards \u00bb Plot: Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town. Genre: Horror | ThrillerIMDB Rating\u2026 [+689 chars]",
       "retrievedAt": "2024-07-30 07:06:53.092573",
       "internal_id": "eb985370d41891a9164d7ad115f336d1d206efd512127ea072b51f1c01762421",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 11484,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Fontanka.ru",
-      "author": null,
-      "title": "\u0427\u0435\u0445\u0438 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443 \u0440\u0435\u0448\u0430\u044e\u0442. \u0427\u0442\u043e \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0438\u0437 \u043f\u0440\u0438\u0432\u0438\u0432\u043e\u043a, \u0447\u0442\u043e\u0431\u044b \u043f\u0443\u0441\u0442\u0438\u043b\u0438 \u0441 \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u043c \u0437\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0443",
-      "description": "\u041d\u0430 \u043c\u0438\u043d\u0443\u0432\u0448\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0435 \u0420\u043e\u0441\u0441\u0438\u044f \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a\u0430 \u0432\u0430\u043a\u0446\u0438\u043d \u043e\u0442 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u00ab\u041d\u043e\u0431\u0438\u0432\u0430\u043a Rabies\u00bb \u2014 \u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0446\u044b \u043e\u0442\u043a\u0430\u0437\u0430\u043b\u0438\u0441\u044c \u0438\u0433\u0440\u0430\u0442\u044c \u043f\u043e \u043f\u0440\u0430\u0432\u0438\u043b\u0430\u043c \u0420\u043e\u0441\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u043d\u0430\u0434\u0437\u043e\u0440\u0430.",
-      "url": "https://www.fontanka.ru/2024/07/28/73843271/",
-      "urlToImage": "https://cdn.iportal.ru/news/articles/social/54d9438f84b26481c36faf79e4ca4fa0.png",
-      "publishedAt": "2024-07-28 13:38:40",
-      "content": "\u00ab Rabies\u00bb . . \u00ab\u00bb , , . \u00ab 15 \u00ab\u00ae Rabies\u00bb \u00abIntervet International B.V.\u00bb () . , 1 2024 , \u00bb, , . 2022 - . . GMP, . GMP-? -GMP , . 1 2023 , GMP (Good manufacturing practice ). , , . \u00ab GMP, , GMP \u00bb,\u2026 [+480 chars]",
-      "retrievedAt": "2024-07-29 19:05:40.879632",
-      "internal_id": "ad2f0bf0aecd9f472859b865cafea547aec2b3c26327c57e12c30ee8b694a118",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 11485,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Business Standard",
-      "author": "BS Reporter",
-      "title": "USAID, Takeda Biopharma launch dengue prevention programme across India",
-      "description": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil",
-      "url": "https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/28/thumb/featurecrop/400X400/1722161975-1545.jpeg",
-      "publishedAt": "2024-07-28 10:20:31",
-      "content": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil Image credit: USAID's X accou\u2026 [+2271 chars]",
-      "retrievedAt": "2024-07-29 19:05:42.044678",
-      "internal_id": "8a4a356d3b19bab889eca92053315491650758fe12185c61d9eb80446b6c2360",
       "publishedAtLabel": "Jul 28"
     }
   ]
