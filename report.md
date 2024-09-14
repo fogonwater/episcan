@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2024-09-13 19:06
-- **Most recent article:** 2024-09-12 19:01:18
+- **New articles in last harvest:** 25
+- **Last harvest:** 2024-09-14 07:06
+- **Most recent article:** 2024-09-13 06:58:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 110 | 1166 |
-| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 47 | 355 |
-| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 9 | 128 |
+| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 127 | 1183 |
+| dengue | 53 | 46 | 52 | 64 | 45 | 49 | 54 | 363 |
+| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 11 | 130 |
 | h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 9 | 90 |
 | zika | 12 | 11 | 10 | 21 | 2 | 6 | 1 | 63 |
+| rabies | 12 | 8 | 12 | 6 | 3 | 7 | 1 | 49 |
 | measles | 7 | 6 | 3 | 7 | 11 | 9 | 5 | 48 |
-| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 1 | 48 |
-| meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 2 | 41 |
+| meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 3 | 42 |
 | chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 3 | 36 |
 | pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 3 | 25 |
 | hpai | 4 | 1 | 1 | 1 | 0 | 3 | 0 | 10 |
@@ -51,13 +51,43 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (mpox)
 
+- [Cofepris ha autorizado el registro sanitario de la vacuna contra la viruela del mono (mpox)](https://www.record.com.mx/contra/cofepris-ha-autorizado-el-registro-sanitario-de-la-vacuna-contra-la-viruela-del-mono-mpox) (Record.com.mx)
+
+- [Marruecos confirma su primer caso de mpox](https://aristeguinoticias.com/1209/mundo/marruecos-confirma-su-primer-caso-de-mpox/) (Aristeguinoticias.com)
+
+- [¿Qué sabemos de Jynneos, la vacuna contra Mpox aprobada por Cofepris?](https://www.elfinanciero.com.mx/nacional/2024/09/12/que-sabemos-de-jynneos-la-vacuna-contra-mpox-aprobada-por-cofepris/) (El Financiero)
+
+- [Cofepris aprueba vacuna ‘Jynneos’ contra viruela del mono: ¿quiénes se la pueden aplicar?](https://www.elfinanciero.com.mx/salud/2024/09/12/cofepris-aprueba-vacuna-jynneos-contra-viruela-del-mono-quienes-se-la-pueden-aplicar/) (El Financiero)
+
+- [Cofepris aprueba vacuna de Bavarian Nordic contra la viruela del mono](https://www.forbes.com.mx/cofepris-aprueba-vacuna-de-bavarian-nordic-contra-la-viruela-del-mono/) (Forbes.com.mx)
+
+- [México otorga registro sanitario a vacuna contra viruela del mono](https://cnnespanol.cnn.com/2024/09/12/mexico-otorga-registro-vacuna-viruela-del-mono-orix) (CNN)
+
+- [Vaiolo delle scimmie, primo caso annunciato in Marocco](https://www.ansa.it/sito/notizie/topnews/2024/09/13/vaiolo-delle-scimmie-primo-caso-annunciato-in-marocco_fb6135ea-af12-4321-ba47-eaac5dd70176.html) (ANSA.it)
+
+- [Viruela del mono en África: Investigan casos en mujeres embarazadas que transmiten mpox a sus bebés](https://www.elfinanciero.com.mx/mundo/2024/09/12/viruela-del-mono-en-africa-investigan-casos-en-mujeres-embarazadas-que-transmiten-mpox-a-sus-bebes/) (El Financiero)
+
+- [Mpox patient at Delhi recovering well: Medical director](https://thehillstimes.in/national/mpox-patient-at-delhi-recovering-well-medical-director) (Thehillstimes.in)
+
+- [África regista 26.543 casos e 724 mortes devido à Mpox desde o início do ano](https://observador.pt/2024/09/12/africa-regista-26-543-casos-e-724-mortes-devido-a-mpox-desde-o-inicio-do-ano/) (Observador.pt)
+
+- [Morocco confirms first mpox case in current outbreak](https://www.bbc.com/news/articles/c0rwr7rxrj5o) (BBC News)
+
+- [Africa CDC urges West to 'rebuild trust' with mpox response](https://www.dw.com/en/africa-cdc-urges-west-to-rebuild-trust-with-mpox-response/a-70203862) (DW (English))
+
 - [Africa CDC urges Western countries to boost funding for mpox response](https://www.aljazeera.com/news/2024/9/12/africa-cdc-urges-western-countries-to-boost-funding-for-mpox-response) (Al Jazeera English)
+
+- [Understanding the resurgence of mpox](https://scopeblog.stanford.edu/2024/09/12/mpox-new-form-global-emergency/) (Stanford.edu)
+
+- [Morocco confirms mpox case in Marrakech](https://www.thestar.com.my/news/world/2024/09/13/morocco-confirms-mpox-case-in-marrakech) (The Star Online)
 
 - [Epidémie de mpox : l’Occident ne doit pas abandonner l’Afrique, souligne l’agence de l’Union africaine, « il est temps que les pays occidentaux montrent qu’ils ont tiré les leçons du Covid »](https://www.sudinfo.be/id880174/article/2024-09-12/epidemie-de-mpox-loccident-ne-doit-pas-abandonner-lafrique-souligne-lagence-de) (Sudinfo.be)
 
 - [Μαρόκο: Εντοπίστηκε το πρώτο κρούσμα mpox](https://www.skai.gr/news/health/maroko-entopistike-to-proto-krousma-mpox) (Skai.gr)
 
 - [Benue records four confirmed, 20 suspected mpox cases](https://punchng.com/benue-records-four-confirmed-20-suspected-mpox-cases/) (The Punch)
+
+- [Morocco reports first Mpox case](https://www.thestar.com.my/news/world/2024/09/13/morocco-reports-first-mpox-case) (The Star Online)
 
 - [Mpox deaths rise by 107 in a week as Africa CDC calls the toll unacceptable](https://abcnews.go.com/Health/wireStory/mpox-deaths-rise-107-week-africa-cdc-calls-113629410) (ABC News)
 
@@ -70,6 +100,10 @@ Source: [News API](https://newsapi.org/)
 - [Affenpocken: Die wichtigsten offenen Fragen zu Mpox und wie Fachleute versuchen, sie zu beantworten](https://www.spektrum.de/news/mpox-was-sie-ueber-die-neue-affenpocken-variante-wissen-sollten/2230626) (Spektrum.de)
 
 - [Mpox outbreak: Rich nations have millions of shots as Africa's outbreak spreads; will they share?](https://economictimes.indiatimes.com/news/international/world-news/mpox-outbreak-rich-nations-have-millions-of-shots-as-africas-outbreak-spreads-will-they-share/articleshow/113294327.cms) (The Times of India)
+
+- [Mpox patient at Delhi's LNJP Hospital recovering well, no need to panic, says medical director](https://economictimes.indiatimes.com/news/india/mpox-patient-at-delhis-lnjp-hospital-recovering-well-no-need-to-panic-says-medical-director/articleshow/113293350.cms) (The Times of India)
+
+- [Bavarian udskyder andre ordrer for at producere flere mpox-vacciner](https://politiken.dk/danmark/sundhed/art10066181/Bavarian-udskyder-andre-ordrer-for-at-producere-flere-mpox-vacciner) (Politiken.dk)
 
 - [Bavarian Nordic udsætter andre ordrer for at kunne levere mpox-vacciner](https://www.dr.dk/nyheder/seneste/bavarian-nordic-udsaetter-andre-ordrer-kunne-levere-mpox-vacciner) (Www.dr.dk)
 
@@ -273,6 +307,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (meningitis)
 
+- [Family of Aoife Johnston call for report into her death at UHL to be published immediately](https://www.irishtimes.com/health/2024/09/12/family-of-aoife-johnston-call-for-report-into-her-death-at-uhl-to-be-published-immediately/) (The Irish Times)
+
 - [Nigeria records 4,915 suspected meningitis cases, 361 deaths](https://punchng.com/nigeria-records-4915-suspected-meningitis-cases-361-deaths/) (The Punch)
 
 - [La nueva vida de Luis Canut, marido de Patricia Pérez, tras conocerse su ceguera](https://www.abc.es/gente/nueva-vida-luis-canut-marido-patricia-perez-20240911125256-nt.html) (Www.abc.es)
@@ -290,6 +326,10 @@ Source: [News API](https://newsapi.org/)
 - [Invasive Jellyfish Clones Overrunning British Columbian Lakes; Measles Cases Increasing in Oregon](https://www.scientificamerican.com/podcast/episode/invasive-jellyfish-clones-overrunning-british-columbian-lakes-measles-cases/) (Scientific American)
 
 ## 24-37 (malaria)
+
+- [QIAGEN und Bio-Manguinhos/Fiocruz verbessern Nachweis von Malaria und Dengue-Fieber in Brasiliens nationalem Screening-Programm](https://www.globenewswire.com/news-release/2024/09/12/2945576/0/de/QIAGEN-und-Bio-Manguinhos-Fiocruz-verbessern-Nachweis-von-Malaria-und-Dengue-Fieber-in-Brasiliens-nationalem-Screening-Programm.html) (GlobeNewswire)
+
+- [QIAGEN and Bio-Manguinhos/Fiocruz collaborate to enhance malaria and dengue detection in Brazil’s national screening programs](https://www.globenewswire.com/news-release/2024/09/12/2945577/8690/en/QIAGEN-and-Bio-Manguinhos-Fiocruz-collaborate-to-enhance-malaria-and-dengue-detection-in-Brazil-s-national-screening-programs.html) (GlobeNewswire)
 
 - [US demands Nigeria to release Binance executive as health worsens](https://cryptobriefing.com/binance-employee-release-nigeria/) (Crypto Briefing)
 
@@ -330,6 +370,20 @@ Source: [News API](https://newsapi.org/)
 - [EE.UU. detecta el primer caso de gripe aviar en una persona que no tuvo contacto conocido con animales](https://www.meneame.net/m/actualidad/ee-uu-detecta-primer-caso-gripe-aviar-persona-no-tuvo-contacto) (Meneame.net)
 
 ## 24-37 (dengue)
+
+- [Dengue cases increase in ME36, one death reported](https://www.thestar.com.my/news/nation/2024/09/13/dengue-cases-increase-in-me36-one-death-reported) (The Star Online)
+
+- [NICHT im Ausland angesteckt - Italien meldet erste lokale Dengue-Fälle](https://www.bild.de/leben-wissen/medizin/dengue-fieber-italien-meldet-erste-lokale-faelle-dieses-jahr-66e3ca68cb180e1cf92070ad) (Bild)
+
+- [Eerste twee lokale gevallen van dengue in Italië dit jaar](https://www.nieuwsblad.be/cnt/dmf20240912_98105669) (Nieuwsblad.be)
+
+- [VIDEO. Alerte aux moustiques tigres](https://www.francetvinfo.fr/replay-magazine/france-2/envoye-special/video-alerte-aux-moustiques-tigres_6771604.html) (Francetvinfo.fr)
+
+- [Taliansko hlásil prvé tohtoročné prípady nákazy horúčkou dengue. Infikovaní necestovali mimo Talianska](https://spravy.pravda.sk/svet/clanok/723684-rim-ohlasil-prvy-tohtorocny-pripad-nakazy-horuckou-dengue-priamo-v-taliansku/) (Pravda.sk)
+
+- [QIAGEN und Bio-Manguinhos/Fiocruz verbessern Nachweis von Malaria und Dengue-Fieber in Brasiliens nationalem Screening-Programm](https://www.globenewswire.com/news-release/2024/09/12/2945576/0/de/QIAGEN-und-Bio-Manguinhos-Fiocruz-verbessern-Nachweis-von-Malaria-und-Dengue-Fieber-in-Brasiliens-nationalem-Screening-Programm.html) (GlobeNewswire)
+
+- [QIAGEN and Bio-Manguinhos/Fiocruz collaborate to enhance malaria and dengue detection in Brazil’s national screening programs](https://www.globenewswire.com/news-release/2024/09/12/2945577/8690/en/QIAGEN-and-Bio-Manguinhos-Fiocruz-collaborate-to-enhance-malaria-and-dengue-detection-in-Brazil-s-national-screening-programs.html) (GlobeNewswire)
 
 - [Casi di febbre dengue a Fano, disinfestazioni notturne](https://www.ansa.it/marche/notizie/2024/09/12/casi-di-febbre-dengue-a-fano-disinfestazioni-notturne_7201882e-8d4e-41cd-aba3-11555403ce63.html) (ANSA.it)
 
@@ -3983,6 +4037,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
 
+- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
+
 ## 24-31 (pertussis)
 
 - [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
@@ -4268,6 +4324,8 @@ Source: [News API](https://newsapi.org/)
 - [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
 
 - [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
+
+- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 ## 24-31 (chikungunya)
 
