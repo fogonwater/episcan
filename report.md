@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2024-09-14 07:06
-- **Most recent article:** 2024-09-13 06:58:00
+- **New articles in last harvest:** 50
+- **Last harvest:** 2024-09-14 19:05
+- **Most recent article:** 2024-09-13 18:34:11
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 127 | 1183 |
-| dengue | 53 | 46 | 52 | 64 | 45 | 49 | 54 | 363 |
-| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 11 | 130 |
+| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 155 | 1211 |
+| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 72 | 380 |
+| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 12 | 131 |
 | h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 9 | 90 |
-| zika | 12 | 11 | 10 | 21 | 2 | 6 | 1 | 63 |
-| rabies | 12 | 8 | 12 | 6 | 3 | 7 | 1 | 49 |
+| zika | 12 | 11 | 10 | 21 | 2 | 6 | 8 | 70 |
+| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 3 | 50 |
 | measles | 7 | 6 | 3 | 7 | 11 | 9 | 5 | 48 |
+| chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 13 | 46 |
 | meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 3 | 42 |
-| chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 3 | 36 |
 | pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 3 | 25 |
 | hpai | 4 | 1 | 1 | 1 | 0 | 3 | 0 | 10 |
 | leptospirosis | 1 | 2 | 2 | 4 | 0 | 1 | 0 | 10 |
@@ -35,9 +35,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (zika)
 
+- [Moustique tigre : le risque d’épidémies dans les cinq prochaines années est «assez élevé», avertit l’Anses](https://www.liberation.fr/societe/sante/moustique-tigre-le-risque-depidemies-dans-les-cinq-prochaines-annees-est-assez-eleve-avertit-lanses-20240913_ZVWD7UR2ABCODHWG4TGR5NCZ3M/) (Libération)
+
+- [Moustique tigre en France : la menace qui plane sur les cinq prochaines années](https://www.lexpress.fr/sciences-sante/sante/moustique-tigre-en-france-la-menace-qui-plane-sur-les-cinq-prochaines-annees-47LFNMEU6ZHNRFPU5PXX2TDE5A/) (L'Express)
+
+- [Dengue, chikungunya, Zika ... un risque « assez élevé » d’épidémies liées au moustique tigre en France](https://www.lesoir.be/622492/article/2024-09-13/dengue-chikungunya-zika-un-risque-assez-eleve-depidemies-liees-au-moustique) (Le Soir)
+
+- [Risque « assez élevé » d’épidémies liées au moustique tigre en France](https://www.sudinfo.be/id880437/article/2024-09-13/risque-assez-eleve-depidemies-liees-au-moustique-tigre-en-france) (Sudinfo.be)
+
+- [Moustique tigre : La probabilité d’une épidémie de dengue ou de chikungunya en France est désormais « assez élevée »](https://www.20minutes.fr/sante/4109950-20240913-moustique-tigre-probabilite-epidemie-dengue-chikungunya-france-desormais-assez-elevee) (20 Minutes)
+
+- [Moustique tigre: "risque assez élevé" d'épidémies dans l'Hexagone dans les cinq prochaines années](https://www.francetvinfo.fr/sante/maladie/chikungunya/moustique-tigre-risque-assez-eleve-d-epidemies-dans-l-hexagone-dans-les-cinq-prochaines-annees_6779455.html) (Francetvinfo.fr)
+
+- [Santé. Moustique tigre : l'Anses pointe un risque d'épidémie dans les prochaines années](https://www.ledauphine.com/sante/2024/09/13/moustique-tigre-l-anses-pointe-un-risque-d-epidemie-dans-les-prochaines-annees) (Le Dauphiné Libéré)
+
 - [Larval crowding enhances dengue virus loads in Aedes aegypti, a relationship that might increase transmission in urban environments](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012482) (Plos.org)
 
 ## 24-37 (rabies)
+
+- [Skunk tests positive for rabies in Lincoln County](https://www.wsoctv.com/news/local/skunk-tests-positive-rabies-lincoln-county/YN3P4GD5ARCOLCAA5PGJUMSE24/) (WSOC Charlotte)
+
+- [75 die of monsoon ailments, 12 due to rabies in Maharashtra this year](https://timesofindia.indiatimes.com/city/mumbai/75-die-of-monsoon-ailments-12-due-to-rabies-in-maharashtra-this-year/articleshow/113332688.cms) (The Times of India)
 
 - [Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials](https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms) (The Times of India)
 
@@ -50,6 +68,62 @@ Source: [News API](https://newsapi.org/)
 - [Whooping Cough Cases Rise In U.S. Following Pattern Seen Worldwide](https://www.forbes.com/sites/joshuacohen/2024/09/10/whooping-cough-cases-rise-in-us-following-pattern-seen-worldwide/) (Forbes)
 
 ## 24-37 (mpox)
+
+- [Casos de mpox aumentan un 50% en el último mes en Europa](https://aristeguinoticias.com/1309/mundo/casos-de-mpox-aumentan-un-50-en-el-ultimo-mes-en-europa/) (Aristeguinoticias.com)
+
+- [Для борьбы с оспой обезьян выделили более 3,6 млн доз вакцины](https://tass.ru/obschestvo/21861259) (Tass.ru)
+
+- [Mpox vaccines arriving at epicenter of outbreak, but not fast enough](https://www.cbsnews.com/news/mpox-vaccines-outbreak-congo-cases-death-toll-rising-fast/) (CBS News)
+
+- [WHO clears Bavarian Nordic's vaccine for mpox, sets up access plan](https://www.voanews.com/a/who-clears-bavarian-nordic-s-vaccine-for-mpox-sets-up-access-plan/7783399.html) (VOA News)
+
+- [Mpox: OMS pré-qualifica primeira vacina contra a doença](https://olhardigital.com.br/2024/09/13/medicina-e-saude/mpox-oms-pre-qualifica-primeira-vacina-contra-a-doenca/) (Olhardigital.com.br)
+
+- [Dansk mpox-vaccine blåstemplet af WHO](https://www.dr.dk/nyheder/seneste/dansk-mpox-vaccine-blaastemplet-af-who) (Www.dr.dk)
+
+- [Weltgesundheitsorganisation genehmigt ersten Mpox-Impfstoff](https://www.tagesschau.de/ausland/afrika/mpox-who-impfung-100.html) (tagesschau.de)
+
+- [Mpox: OMS da luz verde a la vacuna de Bavarian Nordic](https://aristeguinoticias.com/1309/mundo/mpox-oms-da-luz-verde-a-la-vacuna-de-bavarian-nordic/) (Aristeguinoticias.com)
+
+- [WHO segnet erstmals Mpox-Impfstoff ab](https://www.diepresse.com/18859433/who-segnet-erstmals-mpox-impfstoff-ab) (Diepresse.com)
+
+- [Épidémie de Mpox : premier cas au Maroc et pour l’Afrique du nord, « le patient testé positif est un homme de 32 ans »](https://www.sudinfo.be/id880489/article/2024-09-13/epidemie-de-mpox-premier-cas-au-maroc-et-pour-lafrique-du-nord-le-patient-teste) (Sudinfo.be)
+
+- [WHO gab erstmals grünes Licht für Mpox-Impfstoff](https://orf.at/stories/3369499/) (Orf.at)
+
+- [DSÖ, M çiçeği virüsüne karşı ilk aşıyı onayladı](https://www.haberturk.com/dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi-haberler-3719678) (Haberturk.com)
+
+- [Mpox: WHO erteilt erste Zulassung für Impfstoff gegen Mpox](https://www.zeit.de/gesundheit/2024-09/mpox-who-zulassung-impfstoff-unicef) (Die Zeit)
+
+- [Mpox Vaccine Update Issued by WHO](https://www.newsweek.com/mpox-vaccine-who-update-1953397) (Newsweek)
+
+- [ВОЗ провела преквалификацию вакцины против mpox](https://tass.ru/obschestvo/21857455) (Tass.ru)
+
+- [World Health Organization approves first vaccine against mpox, clearing the way for developing countries](https://www.abc.net.au/news/2024-09-13/bavarian-nordic-mva-bn-vaccine-mpox-who/104350818) (ABC News (AU))
+
+- [OMS a aprobat primul vaccin împotriva mpox](https://www.mediafax.ro/sanatate/oms-a-aprobat-primul-vaccin-impotriva-mpox-22485584) (Mediafax.ro)
+
+- [Mpox : le feu vert de l'OMS au vaccin va permettre d'accélerer sa diffusion](https://www.lalibre.be/planete/sante/2024/09/13/mpox-le-feu-vert-de-loms-au-vaccin-va-permettre-daccelerer-sa-diffusion-VN7N4AJ355CATKKFOYOI5UHV7I/) (Lalibre.be)
+
+- [WHO approves Bavarian Nordic’s mpox vaccine](https://www.politico.eu/article/who-approves-bavarian-nordics-mpox-vaccine/) (POLITICO.eu)
+
+- [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.aa.com.tr/tr/saglik/dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi/3329420) (Anadolu Agency)
+
+- [WHO grants first mpox vaccine approval to ramp up response to disease in Africa and beyond](https://abcnews.go.com/International/wireStory/grants-mpox-vaccine-approval-ramp-response-disease-africa-113655332) (ABC News)
+
+- [WHO grants first mpox vaccine approval to ramp up response to disease in Africa](https://www.bostonherald.com/2024/09/13/who-grants-first-mpox-vaccine-approval-to-ramp-up-response-to-disease-in-africa/) (Boston Herald)
+
+- [WHO clears Bavarian Nordic's vaccine for mpox](https://www.investing.com/news/stock-market-news/who-clears-bavarian-nordics-vaccine-for-mpox-3615006) (Investing.com)
+
+- [Bavarian Nordics mpox vaccine opnår prækvalifikation hos WHO](https://www.globenewswire.com/news-release/2024/09/13/2945779/0/da/Bavarian-Nordics-mpox-vaccine-opn%C3%A5r-pr%C3%A6kvalifikation-hos-WHO.html) (GlobeNewswire)
+
+- [WHO har annonsert vaksine mot mpox](https://www.vg.no/nyheter/i/aljwld/who-har-godkjent-vaksine-mot-mpox) (Www.vg.no)
+
+- [Havuzdan maymun çiçeği virüsü bulaşır mı?](https://www.hurriyet.com.tr/aile/galeri-havuzdan-maymun-cicegi-virusu-bulasir-mi-42523616) (Hurriyet.com.tr)
+
+- [Un cas confirmé de la variole du singe enregistré au Maroc](https://fr.sputniknews.africa/20240913/un-cas-confirme-de-la-variole-du-singe-enregistre-au-maroc-1068261411.html) (Sputniknews.africa)
+
+- [World News in Brief: UNICEF mpox response in DR Congo, 'unprecedented' threat to Sudan's heritage, call to suspend Cambodia journalism charter](https://www.globalsecurity.org/military/library/news/2024/09/mil-240912-unnews04.htm) (Globalsecurity.org)
 
 - [Cofepris ha autorizado el registro sanitario de la vacuna contra la viruela del mono (mpox)](https://www.record.com.mx/contra/cofepris-ha-autorizado-el-registro-sanitario-de-la-vacuna-contra-la-viruela-del-mono-mpox) (Record.com.mx)
 
@@ -327,6 +401,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (malaria)
 
+- [AnophelesModel: An R package to interface mosquito bionomics, human exposure and intervention effects with models of malaria intervention impact](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011609) (Plos.org)
+
 - [QIAGEN und Bio-Manguinhos/Fiocruz verbessern Nachweis von Malaria und Dengue-Fieber in Brasiliens nationalem Screening-Programm](https://www.globenewswire.com/news-release/2024/09/12/2945576/0/de/QIAGEN-und-Bio-Manguinhos-Fiocruz-verbessern-Nachweis-von-Malaria-und-Dengue-Fieber-in-Brasiliens-nationalem-Screening-Programm.html) (GlobeNewswire)
 
 - [QIAGEN and Bio-Manguinhos/Fiocruz collaborate to enhance malaria and dengue detection in Brazil’s national screening programs](https://www.globenewswire.com/news-release/2024/09/12/2945577/8690/en/QIAGEN-and-Bio-Manguinhos-Fiocruz-collaborate-to-enhance-malaria-and-dengue-detection-in-Brazil-s-national-screening-programs.html) (GlobeNewswire)
@@ -370,6 +446,42 @@ Source: [News API](https://newsapi.org/)
 - [EE.UU. detecta el primer caso de gripe aviar en una persona que no tuvo contacto conocido con animales](https://www.meneame.net/m/actualidad/ee-uu-detecta-primer-caso-gripe-aviar-persona-no-tuvo-contacto) (Meneame.net)
 
 ## 24-37 (dengue)
+
+- [Epidemia de dengue: ¿Por qué el cambio climático y el fenómeno El Niño son señalados como los responsables?](https://www.nacion.com/ciencia/salud/epidemia-de-dengue-por-que-el-cambio-climatico-y/VHC7DW46NRG2FPO7ILVMWLRGHU/story/) (Nacion.com)
+
+- [Moustique tigre : le risque d’épidémies dans les cinq prochaines années est «assez élevé», avertit l’Anses](https://www.liberation.fr/societe/sante/moustique-tigre-le-risque-depidemies-dans-les-cinq-prochaines-annees-est-assez-eleve-avertit-lanses-20240913_ZVWD7UR2ABCODHWG4TGR5NCZ3M/) (Libération)
+
+- [1,870 dengue fever cases reported in week 36](https://www.thestar.com.my/news/nation/2024/09/14/1870-dengue-fever-cases-reported-in-week-36) (The Star Online)
+
+- [Due segnalazioni di casi Dengue in provincia di Terni](https://www.ansa.it/umbria/notizie/2024/09/13/due-segnalazioni-di-casi-dengue-in-provincia-di-terni_14597bb8-56e9-47ab-92ee-33c3adb5d225.html) (ANSA.it)
+
+- [Vaucluse : « J'ai cru mourir »... L’éradication du moustique tigre devient une priorité pour éviter une crise sanitaire](https://www.20minutes.fr/sante/4110026-20240913-vaucluse-cru-mourir-eradication-moustique-tigre-devient-priorite-eviter-crise-sanitaire) (20 Minutes)
+
+- [Cómo la IA puede ayudar a prevenir brotes de dengue](https://noticias.perfil.com/noticias/medicina/como-la-ia-puede-ayudar-a-prevenir-brotes-de-dengue.phtml) (Perfil.com)
+
+- [Moustique tigre en France : la menace qui plane sur les cinq prochaines années](https://www.lexpress.fr/sciences-sante/sante/moustique-tigre-en-france-la-menace-qui-plane-sur-les-cinq-prochaines-annees-47LFNMEU6ZHNRFPU5PXX2TDE5A/) (L'Express)
+
+- [Dengue, chikungunya, Zika ... un risque « assez élevé » d’épidémies liées au moustique tigre en France](https://www.lesoir.be/622492/article/2024-09-13/dengue-chikungunya-zika-un-risque-assez-eleve-depidemies-liees-au-moustique) (Le Soir)
+
+- [Risque « assez élevé » d’épidémies liées au moustique tigre en France](https://www.sudinfo.be/id880437/article/2024-09-13/risque-assez-eleve-depidemies-liees-au-moustique-tigre-en-france) (Sudinfo.be)
+
+- [Moustique tigre : La probabilité d’une épidémie de dengue ou de chikungunya en France est désormais « assez élevée »](https://www.20minutes.fr/sante/4109950-20240913-moustique-tigre-probabilite-epidemie-dengue-chikungunya-france-desormais-assez-elevee) (20 Minutes)
+
+- [Nelle Marche 11 casi di Dengue in provincia di Pesaro Urbino](https://www.ansa.it/marche/notizie/2024/09/13/nelle-marche-11-casi-di-dengue-in-provincia-di-pesaro-urbino_b7ff154c-55b5-4686-8076-a1d1973c6bec.html) (ANSA.it)
+
+- [Risque d'épidémies "assez élevé" : les dégâts du moustique tigre en France](https://www.dhnet.be/actu/belgique/2024/09/13/risque-depidemies-assez-eleve-les-degats-du-moustique-tigre-en-france-F4KUFPHYKJEUZKKIJ6DIAJ64K4/) (dh.be)
+
+- [Risque d'épidémies "assez élevé" : les dégâts du moustique tigre en France](https://www.dhnet.be/actu/belgique/2024/09/13/risque-depidemies-assez-eleve-les-degats-du-moustique-tigre-en-france-BLMM7P7UPFDR5LSMQ47ME3PN34/) (dh.be)
+
+- [Nelle Marche 11 casi di Dengue in provincia di Pesaro Urbino](https://www.ansa.it/sito/notizie/cronaca/2024/09/13/nelle-marche-11-casi-di-dengue-in-provincia-di-pesaro-urbino_743a13e4-e973-4d37-8309-788756156e0d.html) (ANSA.it)
+
+- [Moustique tigre: "risque assez élevé" d'épidémies dans l'Hexagone dans les cinq prochaines années](https://www.francetvinfo.fr/sante/maladie/chikungunya/moustique-tigre-risque-assez-eleve-d-epidemies-dans-l-hexagone-dans-les-cinq-prochaines-annees_6779455.html) (Francetvinfo.fr)
+
+- [Santé. Moustique tigre : l'Anses pointe un risque d'épidémie dans les prochaines années](https://www.ledauphine.com/sante/2024/09/13/moustique-tigre-l-anses-pointe-un-risque-d-epidemie-dans-les-prochaines-annees) (Le Dauphiné Libéré)
+
+- [Knokkelkoorts rukt op: Europese vakantiebestemmingen steeds meer bedreigd](https://newsmonkey.be/knokkelkoorts-rukt-op-europese-vakantiebestemmingen-steeds-meer-bedreigd/) (Newsmonkey.be)
+
+- [Von Mücken übertragen - Kann lebensgefährlich sein: Italien meldet erste Dengue-Fälle](https://www.focus.de/gesundheit/news/von-muecken-uebertragen-kann-lebensgefaehrlich-sein-italien-meldet-erste-dengue-faelle_id_260307712.html) (Focus)
 
 - [Dengue cases increase in ME36, one death reported](https://www.thestar.com.my/news/nation/2024/09/13/dengue-cases-increase-in-me36-one-death-reported) (The Star Online)
 
@@ -480,6 +592,26 @@ Source: [News API](https://newsapi.org/)
 - [Cebu: Public emergency gitun-an sa dakbayan sa Sugbo tungod sa nagsaka nga kaso sa dengue](https://rpnradio.com/cebu-public-emergency-gitun-an-sa-dakbayan-sa-sugbo-tungod-sa-nagsaka-nga-kaso-sa-dengue/) (Rpnradio.com)
 
 ## 24-37 (chikungunya)
+
+- [Moustique tigre : le risque d’épidémies dans les cinq prochaines années est «assez élevé», avertit l’Anses](https://www.liberation.fr/societe/sante/moustique-tigre-le-risque-depidemies-dans-les-cinq-prochaines-annees-est-assez-eleve-avertit-lanses-20240913_ZVWD7UR2ABCODHWG4TGR5NCZ3M/) (Libération)
+
+- ["Le risque épidémique n'est plus à écarter" à La Réunion, où un sixième cas de chikungunya a été détecté, alerte l'ARS](https://la1ere.francetvinfo.fr/reunion/un-sixieme-cas-de-chikungunya-a-la-reunion-le-risque-epidemique-n-est-plus-a-ecarter-previent-l-ars-1521383.html) (Francetvinfo.fr)
+
+- [Moustique tigre en France : la menace qui plane sur les cinq prochaines années](https://www.lexpress.fr/sciences-sante/sante/moustique-tigre-en-france-la-menace-qui-plane-sur-les-cinq-prochaines-annees-47LFNMEU6ZHNRFPU5PXX2TDE5A/) (L'Express)
+
+- [Dengue, chikungunya, Zika ... un risque « assez élevé » d’épidémies liées au moustique tigre en France](https://www.lesoir.be/622492/article/2024-09-13/dengue-chikungunya-zika-un-risque-assez-eleve-depidemies-liees-au-moustique) (Le Soir)
+
+- [Risque « assez élevé » d’épidémies liées au moustique tigre en France](https://www.sudinfo.be/id880437/article/2024-09-13/risque-assez-eleve-depidemies-liees-au-moustique-tigre-en-france) (Sudinfo.be)
+
+- [Moustique tigre : La probabilité d’une épidémie de dengue ou de chikungunya en France est désormais « assez élevée »](https://www.20minutes.fr/sante/4109950-20240913-moustique-tigre-probabilite-epidemie-dengue-chikungunya-france-desormais-assez-elevee) (20 Minutes)
+
+- [Risque d'épidémies "assez élevé" : les dégâts du moustique tigre en France](https://www.dhnet.be/actu/belgique/2024/09/13/risque-depidemies-assez-eleve-les-degats-du-moustique-tigre-en-france-F4KUFPHYKJEUZKKIJ6DIAJ64K4/) (dh.be)
+
+- [Risque d'épidémies "assez élevé" : les dégâts du moustique tigre en France](https://www.dhnet.be/actu/belgique/2024/09/13/risque-depidemies-assez-eleve-les-degats-du-moustique-tigre-en-france-BLMM7P7UPFDR5LSMQ47ME3PN34/) (dh.be)
+
+- [Moustique tigre: "risque assez élevé" d'épidémies dans l'Hexagone dans les cinq prochaines années](https://www.francetvinfo.fr/sante/maladie/chikungunya/moustique-tigre-risque-assez-eleve-d-epidemies-dans-l-hexagone-dans-les-cinq-prochaines-annees_6779455.html) (Francetvinfo.fr)
+
+- [Santé. Moustique tigre : l'Anses pointe un risque d'épidémie dans les prochaines années](https://www.ledauphine.com/sante/2024/09/13/moustique-tigre-l-anses-pointe-un-risque-d-epidemie-dans-les-prochaines-annees) (Le Dauphiné Libéré)
 
 - [Butantan publica estudo de fase 3 da vacina da chikungunya; proteção chegou a 100% em adolescentes](https://gizmodo.uol.com.br/butantan-publica-estudo-de-fase-3-da-vacina-da-chikungunya-protecao-chegou-a-100-em-adolescentes/) (Uol.com.br)
 
@@ -4037,8 +4169,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
 
-- [Чехи проблему решают. Что осталось из прививок, чтобы пустили с питомцем за границу](https://www.fontanka.ru/2024/07/28/73843271/) (Fontanka.ru)
-
 ## 24-31 (pertussis)
 
 - [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
@@ -4324,8 +4454,6 @@ Source: [News API](https://newsapi.org/)
 - [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
 
 - [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
-
-- [USAID, Takeda Biopharma launch dengue prevention programme across India](https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html) (Business Standard)
 
 ## 24-31 (chikungunya)
 

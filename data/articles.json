@@ -1,8 +1,924 @@
 {
-  "last_updated": "2024-09-14 07:06",
-  "count_articles_total": 1975,
-  "count_articles_new": 25,
+  "last_updated": "2024-09-14 19:05",
+  "count_articles_total": 2023,
+  "count_articles_new": 50,
   "articles": [
+    {
+      "id": 13460,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WSOC Charlotte",
+      "author": "Wsoctv.com News Staff",
+      "title": "Skunk tests positive for rabies in Lincoln County",
+      "description": "A second case of rabies has been reported in Lincoln County in 2024, according to animal services.",
+      "url": "https://www.wsoctv.com/news/local/skunk-tests-positive-rabies-lincoln-county/YN3P4GD5ARCOLCAA5PGJUMSE24/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/quI__YDkVkpm3SoiaGIJ5v1hjHU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/J63VJNITBRD7PMJ47MKDPTC7AE.jpg",
+      "publishedAt": "2024-09-13 18:34:11",
+      "content": "LINCOLN COUNTY, N.C. \u2014 A second case of rabies has been reported in Lincoln County in 2024, according to animal services. On Sep. 9, a skunk was observed having potential signs of neurological issu\u2026 [+1088 chars]",
+      "retrievedAt": "2024-09-14 19:05:29.280183",
+      "internal_id": "f60a84df29e63524331be9e45976fd266fd15a662af800d1ed163b7199bf40bc",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13492,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / JGE",
+      "title": "Casos de mpox aumentan un 50% en el \u00faltimo mes en Europa",
+      "description": "Solo se ha notificado un caso de mpox debido al clado Ib del MPXV en la UE/EEE --la nueva variante surgida en Rep\u00fablica Democr\u00e1tica del Congo--.",
+      "url": "https://aristeguinoticias.com/1309/mundo/casos-de-mpox-aumentan-un-50-en-el-ultimo-mes-en-europa/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/09/viruela-del-mono-cofepris-vacuna-jynneos-mpox-bavarian-nordic-3-12092024.jpeg",
+      "publishedAt": "2024-09-13 18:20:44",
+      "content": "[S\u00edguenos ahora tambi\u00e9n en Whatsapp. Da clic aqu\u00ed] El Centro Europeo de Control y Prevenci\u00f3n de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) notific\u00f3 un aumento del 50.6 por ciento de los casos not\u2026 [+3744 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.894915",
+      "internal_id": "0aa92f72c7817ec4eae1c3c5a32a363ba6a3c27cbdcbbd322c92b5c5b28ac130",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13472,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Epidemia de dengue: \u00bfPor qu\u00e9 el cambio clim\u00e1tico y el fen\u00f3meno El Ni\u00f1o son se\u00f1alados como los responsables?",
+      "description": "Al igual que Latinoam\u00e9rica, Costa Rica enfrenta una epidemia de dengue en los \u00faltimos dos a\u00f1os. Cient\u00edfica que trabaja con NASA explica c\u00f3mo inciden los factores climatol\u00f3gicos en proliferaci\u00f3n de la enfermedad.",
+      "url": "https://www.nacion.com/ciencia/salud/epidemia-de-dengue-por-que-el-cambio-climatico-y/VHC7DW46NRG2FPO7ILVMWLRGHU/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/IMNWOBQPPZANBBB5UUQHJXPVVU.jpeg?smart=true&auth=b5471d6bbd0d244e1e7636d8579c24796ca68c8b2ea286b66849d0a227863c1f&width=1440",
+      "publishedAt": "2024-09-13 18:15:13",
+      "content": "Al igual que el resto de Am\u00e9rica Latina, Costa Rica enfrenta desde el 2023 una de las peores epidemias de dengue. De hecho, el pa\u00eds acumul\u00f3 el a\u00f1o pasado el mayor n\u00famero de casos en una d\u00e9cada lo que\u2026 [+5817 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.388117",
+      "internal_id": "e53512bdd0bb3fb608b2e944ce20ecee56122ebc154e989d9f4f96e73e90a8c0",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13499,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0414\u043b\u044f \u0431\u043e\u0440\u044c\u0431\u044b \u0441 \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432\u044b\u0434\u0435\u043b\u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 3,6 \u043c\u043b\u043d \u0434\u043e\u0437 \u0432\u0430\u043a\u0446\u0438\u043d\u044b",
+      "description": "\u042d\u0442\u043e \u0447\u0438\u0441\u043b\u043e \u0432\u043a\u043b\u044e\u0447\u0430\u0435\u0442 620 \u0442\u044b\u0441. \u0434\u043e\u0437, \u043e\u0431\u0435\u0449\u0430\u043d\u043d\u044b\u0445 \u043a \u043f\u043e\u0441\u0442\u0430\u0432\u043a\u0435 \u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u043e\u0439 \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u0435\u0439, \u0421\u0428\u0410, \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u043c\u0438 \u0441\u0442\u0440\u0430\u043d\u0430\u043c\u0438 \u0415\u0421, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u043c \u0432\u0430\u043a\u0446\u0438\u043d Bavarian Nordic, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432\u043e \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f",
+      "url": "https://tass.ru/obschestvo/21861259",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21861259?u=2024-09-13T18:09:38.070847",
+      "publishedAt": "2024-09-13 18:09:38",
+      "content": ", 13 . //. (mpox) 3,6 . , (). , 620 . , , , , Bavarian Nordic. - 3 - . \" \" (Access and Allocation Mechanism, AAM) , . , - , , GAVI, . AAM , , . , COVID-19. Mpox - , , . 1970 . .",
+      "retrievedAt": "2024-09-14 19:05:33.956234",
+      "internal_id": "49e9bbd6cf9685673100583078e8568a77c0a82ee35e30cc602617750db14eca",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13485,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sarah Carter",
+      "title": "Mpox vaccines arriving at epicenter of outbreak, but not fast enough",
+      "description": "Officials grappling with spiraling mpox cases in Congo have moved forward the launch of a first vaccination campaign, but they say much more is needed.",
+      "url": "https://www.cbsnews.com/news/mpox-vaccines-outbreak-congo-cases-death-toll-rising-fast/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/13/7945e674-dea7-4cd5-ab25-1974a39422e0/thumbnail/1200x630/592aba735b1c0d8badd4fd18f46ca499/congo-mpox-isolation-uvira.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
+      "publishedAt": "2024-09-13 17:57:07",
+      "content": "Johannesburg \u2014 Health officials in the Democratic Republic of Congo said Thursday they would start administering mpox vaccinations on Oct. 2, about a week sooner than initially planned, in a bid to c\u2026 [+9609 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.801946",
+      "internal_id": "e7d56fa51ee6a089ff60b366b40385e92a579cb11bd3fa680d9276f5eb412d7c",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13491,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "WHO clears Bavarian Nordic's vaccine for mpox, sets up access plan",
+      "description": "Steps come as new type of the virus spreads across African nations",
+      "url": "https://www.voanews.com/a/who-clears-bavarian-nordic-s-vaccine-for-mpox-sets-up-access-plan/7783399.html",
+      "urlToImage": "https://gdb.voanews.com/C2A6F167-2A71-4C9E-8563-32720B3F6A9C.jpg",
+      "publishedAt": "2024-09-13 17:42:30",
+      "content": "The World Health Organization and partners on Friday set up a plan to help bring mpox vaccines, tests and treatments to the most vulnerable people in the worlds poorest countries, similar to efforts \u2026 [+3198 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.885049",
+      "internal_id": "eeb30043d34c0447c3de8cfeb8d059a3c6a59321b2d7a36411f78fd7c1ea2955",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13459,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "75 die of monsoon ailments, 12 due to rabies in Maharashtra this year",
+      "description": "Mumbai: Infectious monsoon diseases claimed 75 lives this year, according to the state health update, which also highlighted 12 deaths due to rabies.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/75-die-of-monsoon-ailments-12-due-to-rabies-in-maharashtra-this-year/articleshow/113332688.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113332685,width-1070,height-580,imgsize-47002,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-13 17:24:58",
+      "content": "9 most unique and rare birds in the world",
+      "retrievedAt": "2024-09-14 19:05:29.258674",
+      "internal_id": "43b17b0d7b36543b021b3e87ae2aba54c08d495e665d263651fbd28b6ae8ad6e",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13482,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Mpox: OMS pr\u00e9-qualifica primeira vacina contra a doen\u00e7a",
+      "description": "A decis\u00e3o permite que a vacina produzida pela Bavarian Nordic seja distribu\u00edda em pa\u00edses de baixa renda e que enfrentam surtos de mpox O post Mpox: OMS pr\u00e9-qualifica primeira vacina contra a doen\u00e7a apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/09/13/medicina-e-saude/mpox-oms-pre-qualifica-primeira-vacina-contra-a-doenca/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/08/vacina-mpox-1.jpg",
+      "publishedAt": "2024-09-13 16:58:56",
+      "content": "Em um importante passo para combater o avan\u00e7o da mpox, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) anunciou nesta sexta-feira (13) que pr\u00e9-qualificou a primeira vacina contra a doen\u00e7a. O imunizante \u00e9 produz\u2026 [+2812 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.771687",
+      "internal_id": "5e4011b2c7aa6807759d85350e4669da131c7e18a5b39e0aafb0405eb8ccbd8e",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13461,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Moustique tigre : le risque d\u2019\u00e9pid\u00e9mies dans les cinq prochaines ann\u00e9es est \u00abassez \u00e9lev\u00e9\u00bb, avertit l\u2019Anses",
+      "description": "Dengue, chikungunya, Zika : la France m\u00e9tropolitaine est de plus en plus expos\u00e9e aux virus transmis par piq\u00fbres de moustique tigre. Dans une expertise rendue ce vendredi 13 septembre, l\u2019agence sanitaire alerte en outre des risques de saturation de la lutte et\u2026",
+      "url": "https://www.liberation.fr/societe/sante/moustique-tigre-le-risque-depidemies-dans-les-cinq-prochaines-annees-est-assez-eleve-avertit-lanses-20240913_ZVWD7UR2ABCODHWG4TGR5NCZ3M/",
+      "urlToImage": "https://www.liberation.fr/resizer/UhszfgT6rxVTFLahWEeyG-GvGt8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/QHKBOG5GRVD3JFD3UJX4DWBV3A.jpg",
+      "publishedAt": "2024-09-13 16:49:26",
+      "content": "Les craintes commencent \u00e0 se confirmer. Au fil de linstallation du moustique tigre en France m\u00e9tropolitaine, les autorit\u00e9s et agences sanitaires sinqui\u00e8tent de limpact des arboviroses, maladies quils\u2026 [+4303 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.251523",
+      "internal_id": "58bb199768461e9efa22a1b537473b464ba41b0e5c187260db2c5ed01a4f05e3",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13487,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Dansk mpox-vaccine bl\u00e5stemplet af WHO",
+      "description": "Bavarian Nordics vaccine mod mpox er blevet det, der hedder pr\u00e6kvalificeret, af verdenssundhedsorganisationen WHO.",
+      "url": "https://www.dr.dk/nyheder/seneste/dansk-mpox-vaccine-blaastemplet-af-who",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-09-13 16:19:00",
+      "content": "Landbrugsstyrelsen udskyder en af de ordninger, der ellers er helt afg\u00f8rende i regeringens planer om at mindske landbrugets udledning af drivhusgasser. Den tilskudsordning, der skal f\u00e5 landm\u00e6nd til \u2026 [+706 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.831397",
+      "internal_id": "8019a1711355a483bdbf781d5e6932f58f3f43b3b357a33ac668dc17f6c4b54a",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13462,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "1,870 dengue fever cases reported in week 36",
+      "description": "KUALA LUMPUR: The number of dengue fever cases reported in the Epidemiological Week (EW) 36 from Sept 1-7 increased to 1,870 compared with 1,765 in the previous week, says the Health Ministry. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/09/14/1870-dengue-fever-cases-reported-in-week-36",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/09/14/2912244.jpg",
+      "publishedAt": "2024-09-13 16:00:00",
+      "content": "KUALA LUMPUR: The number of dengue fever cases reported in the Epidemiological Week (EW) 36 from Sept 1-7 increased to 1,870 compared with 1,765 in the previous week, says the Health Ministry. Healt\u2026 [+742 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.262979",
+      "internal_id": "ab0186fd914b6ebdf5493d7386f9865c0bf3385f0b201ca7dfc30e0de720c240",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13473,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Due segnalazioni di casi Dengue in provincia di Terni",
+      "description": "Due segnalazione relative a casi di Dengue hanno coinvolto in altrettanti centri della provincia di Terni. Dagli elementi forniti dall'Usl Umbria due non appaiono comunque in alcun modo collegati. (ANSA)",
+      "url": "https://www.ansa.it/umbria/notizie/2024/09/13/due-segnalazioni-di-casi-dengue-in-provincia-di-terni_14597bb8-56e9-47ab-92ee-33c3adb5d225.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/9/6/7da25770a7084473c74b527a55e3a9e5.jpg",
+      "publishedAt": "2024-09-13 15:42:34",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.446857",
+      "internal_id": "92588191ea3629887db8d4fcd2a96dd750612d9c2d51dd56c8837da2379eafec",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13481,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "tagesschau.de",
+      "title": "Weltgesundheitsorganisation genehmigt ersten Mpox-Impfstoff",
+      "description": "In mehreren afrikanischen L\u00e4ndern breitet sich das Mpox-Virus weiter aus. Die Weltgesundheitsorganisation hat nun erstmals einen Impfstoff zugelassen. Das k\u00f6nnte Impfungen beschleunigen, aber das Mittel bleibt knapp.",
+      "url": "https://www.tagesschau.de/ausland/afrika/mpox-who-impfung-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/ca91276a-d5db-4709-8014-b64b6387c5c6/AAABkeusiyI/AAABkZLhkrw/16x9-1280/mpox-impfung-100.jpg",
+      "publishedAt": "2024-09-13 15:12:47",
+      "content": "Stand: 13.09.2024 17:12 Uhr In mehreren L\u00e4ndern in Afrika breitet sich das Mpox-Virus weiter aus. Die Weltgesundheitsorganisation hat nun erstmals einen Impfstoff zugelassen. Das k\u00f6nnte Impfungen be\u2026 [+3065 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.751715",
+      "internal_id": "cd6d8d6d5f3272824cdf18facb49378ea147a3dd488db39153a7223c489de4f7",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13475,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "Herv\u00e9 Vila pour 20 Minutes (20 Minutes)",
+      "title": "Vaucluse : \u00ab J'ai cru mourir \u00bb... L\u2019\u00e9radication du moustique tigre devient une priorit\u00e9 pour \u00e9viter une crise sanitaire",
+      "description": "La d\u00e9moustication est en cours, alors que 17 cas de dengue ont \u00e9t\u00e9 d\u00e9tect\u00e9s cet \u00e9t\u00e9, dans la commune de Saint-C\u00e9cile-les-Vignes, devenue un cluster",
+      "url": "https://www.20minutes.fr/sante/4110026-20240913-vaucluse-cru-mourir-eradication-moustique-tigre-devient-priorite-eviter-crise-sanitaire",
+      "urlToImage": "https://img.20mn.fr/V9F23JQRTs6Q6OYnaIlmgik/1444x920_sainte-cecile-les-vignes-dans-le-vaucluse-devient-un-cluster-de-dengue-a-cause-de-la-proliferation-du-moustique-tigre",
+      "publishedAt": "2024-09-13 15:11:24",
+      "content": "Depuis la fin du mois dao\u00fbt, des sp\u00e9cialistes des moustiques encha\u00eenent les op\u00e9rations afin d\u00e9radiquer la dengue. Selon francetvinfo.fr, cette maladie tropicale, transmise par les moustiques tigres, \u2026 [+1051 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.462840",
+      "internal_id": "19fb25df2f44dc35b476e811b78f2bb7280478772243f571470aa708fa6fed82",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13502,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / SH",
+      "title": "Mpox: OMS da luz verde a la vacuna de Bavarian Nordic",
+      "description": "El brote actual comenz\u00f3 a principios de 2023 en Rep\u00fablica Democr\u00e1tica de Congo, donde se han producido la mayor\u00eda de las 37.500 infecciones y 1.451 muertes hasta el 28 de julio.",
+      "url": "https://aristeguinoticias.com/1309/mundo/mpox-oms-da-luz-verde-a-la-vacuna-de-bavarian-nordic/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/09/Bavarian-Nordic-vacuna-mpox-2-13092024.jpg",
+      "publishedAt": "2024-09-13 14:51:31",
+      "content": "[S\u00edguenos ahora tambi\u00e9n en WhatsApp. Da clic aqu\u00ed] La Organizaci\u00f3n Mundial de la Salud (OMS) inform\u00f3 este viernes que hab\u00eda dado el visto bueno a la vacuna contra la viruela s\u00edmica de Bavarian Nordi\u2026 [+2105 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.985902",
+      "internal_id": "ce5192ef7ee7fda521c5249fcb7af2c95a698a72f4b8f79976ce1cf504b861d0",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13474,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Gustavo Winkler",
+      "title": "C\u00f3mo la IA puede ayudar a prevenir brotes de dengue",
+      "description": "La Universidad Nacional de San Mart\u00edn y el gobierno bonaerense trabajan con Inteligencia Artificial para predecir los casos. Leer m\u00e1s",
+      "url": "https://noticias.perfil.com/noticias/medicina/como-la-ia-puede-ayudar-a-prevenir-brotes-de-dengue.phtml",
+      "urlToImage": "https://fotos.perfil.com/2024/09/13/trim/1280/720/dengue-1872397.jpg",
+      "publishedAt": "2024-09-13 14:12:29",
+      "content": "En una epidemia, como en cualquier otro sistema hay muchos procesos ocurriendo al mismo tiempo. Unos dependen de otros, algunos afectan a unos o a otros. En este caso, solo se pueden observar determi\u2026 [+4532 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.452416",
+      "internal_id": "088391060caaa00fc05da479c1d5735d4478bec19a2b7315ae20a20f2c1f228d",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13479,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Monica Golumbeanu, Olivier Bri\u00ebt, Clara Champagne, Jeanne Lemant, Munir Winkel, Barnabas Zogo, Maximilian Gerhards, Marianne Sinka, Nakul Chitnis, Melissa Penny, Emilie Pothin, Tom Smith",
+      "title": "AnophelesModel: An R package to interface mosquito bionomics, human exposure and intervention effects with models of malaria intervention impact",
+      "description": "In recent decades, field and semi-field studies of malaria transmission have gathered geographic-specific information about mosquito ecology, behaviour and their sensitivity to interventions. Mathematical models of malaria transmission can incorporate such da\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011609",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1011609.g004&size=inline",
+      "publishedAt": "2024-09-13 14:00:00",
+      "content": "Abstract In recent decades, field and semi-field studies of malaria transmission have gathered geographic-specific information about mosquito ecology, behaviour and their sensitivity to intervention\u2026 [+42901 chars]",
+      "retrievedAt": "2024-09-14 19:05:32.376298",
+      "internal_id": "7a7e2801920e6c589759f50c2cb53e5e1f47044ff3a833f2e3ba636b3ff2dd52",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13480,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": "Laura Philippon",
+      "title": "\"Le risque \u00e9pid\u00e9mique n'est plus \u00e0 \u00e9carter\" \u00e0 La R\u00e9union, o\u00f9 un sixi\u00e8me cas de chikungunya a \u00e9t\u00e9 d\u00e9tect\u00e9, alerte l'ARS",
+      "description": "Ce vendredi 13 septembre, un sixi\u00e8me cas de chikungunya a \u00e9t\u00e9 identifi\u00e9 \u00e0 \u00e0 La R\u00e9union. Il s\u2019agit d\u2019une personne qui r\u00e9side dans le m\u00eame quartier de Saint-Gilles-les-Bains que les quatre premiers cas. \"Le risque \u00e9pid\u00e9mique n\u2019est plus \u00e0 \u00e9carter\", pr\u00e9vient l\u2019AR\u2026",
+      "url": "https://la1ere.francetvinfo.fr/reunion/un-sixieme-cas-de-chikungunya-a-la-reunion-le-risque-epidemique-n-est-plus-a-ecarter-previent-l-ars-1521383.html",
+      "urlToImage": "https://la1ere.francetvinfo.fr/image/YKifXUY4ZgwQLM1XEEbo6HCynp8/930x620/outremer/2019/10/03/5d9655bbacdc4_chik-1037648.jpg",
+      "publishedAt": "2024-09-13 13:59:14",
+      "content": "LAgence R\u00e9gionale de Sant\u00e9 de La R\u00e9union annonce quun sixi\u00e8me cas autochtone de chikungunya a \u00e9t\u00e9 identifi\u00e9 dans l\u00eele, ce vendredi 13 septembre. Il sagit dune personne r\u00e9sidant dans le m\u00eame quartier\u2026 [+2325 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.226495",
+      "internal_id": "cb22ab8dd77390b576b331804308b9f552ba2d52bf19d7506125284cd1871277",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13493,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "WHO segnet erstmals Mpox-Impfstoff ab",
+      "description": "UN-Organisationen k\u00f6nnen den Impfstoff des d\u00e4nisch-deutschen Unternehmens Bavarian Nordic nun beschaffen. Die WHO hatte wegen Mpox-Ausbr\u00fcchen in Afrika h\u00f6chste Alarmstufe ausgerufen.",
+      "url": "https://www.diepresse.com/18859433/who-segnet-erstmals-mpox-impfstoff-ab",
+      "urlToImage": "https://img.diepresse.com/public/incoming/vflm2u-HEALTH-MPOXBAVARIAN-NORDIC-VACCINE/alternates/DPR_SOCIAL_NACHRICHTEN/HEALTH-MPOXBAVARIAN%20NORDIC-VACCINE",
+      "publishedAt": "2024-09-13 13:53:02",
+      "content": "UN-Organisationen k\u00f6nnen den Impfstoff des d\u00e4nisch-deutschen Unternehmens Bavarian Nordic nun beschaffen. Die WHO hatte wegen Mpox-Ausbr\u00fcchen in Afrika h\u00f6chste Alarmstufe ausgerufen. Die Weltgesundh\u2026 [+1997 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.900334",
+      "internal_id": "6f50ff8afcbeb95883a16725851c8db7ed6441d6ffe6ba88736f8207a6a1881d",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13508,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Sudinfo avec Belga",
+      "title": "\u00c9pid\u00e9mie de Mpox : premier cas au Maroc et pour l\u2019Afrique du nord, \u00ab le patient test\u00e9 positif est un homme de 32 ans \u00bb",
+      "description": "Le Maroc a recens\u00e9 un cas du nouveau variant de mpox dans la ville touristique de Marrakech, premier cas en Afrique du nord depuis l\u2019annonce d\u2019une alerte de sant\u00e9 publique par l\u2019OMS en ao\u00fbt, a annonc\u00e9 vendredi le Centre pour le contr\u00f4le des maladies (CDC) pou\u2026",
+      "url": "https://www.sudinfo.be/id880489/article/2024-09-13/epidemie-de-mpox-premier-cas-au-maroc-et-pour-lafrique-du-nord-le-patient-teste",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/13/node_880489/55863404/public/2024/09/13/25682361.jpeg?itok=j7jEwNr31726234713",
+      "publishedAt": "2024-09-13 13:38:16",
+      "content": "Le chef de lorgane de surveillance sanitaire de lUnion africaine a estim\u00e9 jeudi que lOccident devait tirer les le\u00e7ons de la pand\u00e9mie de Covid et appel\u00e9 \u00e0 ne pas abandonner lAfrique face \u00e0 l\u00e9pid\u00e9mie d\u2026 [+2116 chars]",
+      "retrievedAt": "2024-09-14 19:05:34.099712",
+      "internal_id": "7dfc2b2746ae46252d07f77c5d366304968591daec27360d25eed33323578829",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13494,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "WHO gab erstmals gr\u00fcnes Licht f\u00fcr Mpox-Impfstoff",
+      "description": "",
+      "url": "https://orf.at/stories/3369499/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-09-13 13:23:49",
+      "content": "Die Weltgesundheitsorganisation (WHO) hat erstmals einem Mpox-Impfstoff gr\u00fcnes Licht gegeben. Dank dieser Pr\u00e4qualifikation k\u00f6nnen UNO-Organisationen den Impfstoff nun beschaffen und verteilen. Es geh\u2026 [+914 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.905848",
+      "internal_id": "4dc13d1785d63c7ce36f47355d89d32703e00a55f9a084b56121c40ac2470fa0",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13471,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "L\u2019Express",
+      "title": "Moustique tigre en France : la menace qui plane sur les cinq prochaines ann\u00e9es",
+      "description": "L'Agence nationale de s\u00e9curit\u00e9 sanitaire de l'alimentation met en garde contre un \"risque assez \u00e9lev\u00e9\" d'\u00e9pid\u00e9mies dans l'Hexagone dans les cinq prochaines ann\u00e9es.",
+      "url": "https://www.lexpress.fr/sciences-sante/sante/moustique-tigre-en-france-la-menace-qui-plane-sur-les-cinq-prochaines-annees-47LFNMEU6ZHNRFPU5PXX2TDE5A/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/AN3DCRPICJCP7JMERTRXJINJEU.jpg?auth=508f4694d5f68b7ef72562caea37478ee200032bb6530302d3514d196e17fa4e&width=1200&height=630&quality=85&focal=1057%2C651",
+      "publishedAt": "2024-09-13 12:53:58",
+      "content": "Dengue, chikungunya, Zika : la France m\u00e9tropolitaine est expos\u00e9e \u00e0 \"un risque assez \u00e9lev\u00e9\" d\u00e9pid\u00e9mies li\u00e9es au moustique tigre dans les cinq prochaines ann\u00e9es, estime l'Anses ce vendredi 13 septembre\u2026 [+2685 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.382823",
+      "internal_id": "07a666e07e1a4bea5f384498b63f0eea2cbf39ff6c50f22456b6bce834c27504",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13463,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Soir",
+      "author": "Par Belga",
+      "title": "Dengue, chikungunya, Zika ... un risque \u00ab assez \u00e9lev\u00e9 \u00bb d\u2019\u00e9pid\u00e9mies li\u00e9es au moustique tigre en France",
+      "description": "Ces derni\u00e8res ann\u00e9es, les cas de dengue et de chikungunya ont augment\u00e9 dans l\u2019Hexagone, avec notamment une cinquantaine de cas autochtones de dengue en 2023, infect\u00e9s sur place, apr\u00e8s un record de 66 en 2022.",
+      "url": "https://www.lesoir.be/622492/article/2024-09-13/dengue-chikungunya-zika-un-risque-assez-eleve-depidemies-liees-au-moustique",
+      "urlToImage": "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2024/07/10/node_622492/31312686/public/2024/07/10/21265741.jpeg?itok=yyAskZ6F1726231073",
+      "publishedAt": "2024-09-13 12:35:18",
+      "content": "Dengue, chikungunya, Zika : la France m\u00e9tropolitaine est expos\u00e9e \u00e0 \u00ab un risque assez \u00e9lev\u00e9 \u00bb d\u00e9pid\u00e9mies li\u00e9es au moustique tigre dans les cinq prochaines ann\u00e9es, a estim\u00e9 vendredi lAgence nationale d\u2026 [+1911 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.287561",
+      "internal_id": "dc750352a35ea47bde8602e56592ca556d1b013e37bc9023a678af9fc59cb9f7",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13465,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Sudinfo avec Belga",
+      "title": "Risque \u00ab assez \u00e9lev\u00e9 \u00bb d\u2019\u00e9pid\u00e9mies li\u00e9es au moustique tigre en France",
+      "description": "Dengue, chikungunya, Zika : la France m\u00e9tropolitaine est expos\u00e9e \u00e0 \u00ab un risque assez \u00e9lev\u00e9 \u00bb d\u2019\u00e9pid\u00e9mies li\u00e9es au moustique tigre dans les cinq prochaines ann\u00e9es, a estim\u00e9 vendredi l\u2019Agence nationale de s\u00e9curit\u00e9 sanitaire de l\u2019alimentation (Anses).",
+      "url": "https://www.sudinfo.be/id880437/article/2024-09-13/risque-assez-eleve-depidemies-liees-au-moustique-tigre-en-france",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/13/node_880437/55863180/public/2024/09/13/25677532.jpeg?itok=gmgugzak1726229964",
+      "publishedAt": "2024-09-13 12:19:00",
+      "content": "Dengue, chikungunya, Zika : la France m\u00e9tropolitaine est expos\u00e9e \u00e0 \u00ab un risque assez \u00e9lev\u00e9 \u00bb d\u00e9pid\u00e9mies li\u00e9es au moustique tigre dans les cinq prochaines ann\u00e9es, a estim\u00e9 vendredi lAgence nationale d\u2026 [+1873 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.325793",
+      "internal_id": "0c3c2be54c3d111fd359bfeeab32f94cb5ebc40b0348d14fe01b4c3ced62ba65",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13478,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "Micka\u00ebl Bosredon (20 Minutes)",
+      "title": "Moustique tigre : La probabilit\u00e9 d\u2019une \u00e9pid\u00e9mie de dengue ou de chikungunya en France est d\u00e9sormais \u00ab assez \u00e9lev\u00e9e \u00bb",
+      "description": "Un rapport de l\u2019Anses publi\u00e9 ce vendredi estime que l\u2019apparition d\u2019une \u00e9pid\u00e9mie d\u2019arbovirose, maladie due \u00e0 un virus transmis par le moustique tigre, a une probabilit\u00e9 \u00ab assez \u00e9lev\u00e9e \u00bb d\u2019appara\u00eetre dans les cinq prochaines ann\u00e9es en France hexagonale",
+      "url": "https://www.20minutes.fr/sante/4109950-20240913-moustique-tigre-probabilite-epidemie-dengue-chikungunya-france-desormais-assez-elevee",
+      "urlToImage": "https://img.20mn.fr/3zqe0BDXRWyTptF3VAbBoik/1444x920_operations-de-demoustication-anti-larvaires-organise-par-la-mairie-de-cannes-insecticide-biologique-traitement-des-espaces-publics-susceptibles-de-servir-de-gites-aux-moustiques-notamment-le-moustique-tigre-vecteur-d-agents-infectieux-dont-la-dengue-le-chikungunya-le-zika-square-leo-callandry-cannes-france-11-07-2023-syspeo-sys-b010-credit-syspeo-sipa-2307160803",
+      "publishedAt": "2024-09-13 12:03:28",
+      "content": "La probabilit\u00e9 dapparition en France hexagonale dune \u00e9pid\u00e9mie de dengue, de chikungunya et de Zika est d\u00e9sormais \u00ab assez \u00e9lev\u00e9e \u00bb. Cest la conclusion dun rapport de lAnses (Agence nationale de s\u00e9curi\u2026 [+2950 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.506481",
+      "internal_id": "5ab10b2b572a9974e8f39bb42e7970dbdd6d74b8d36ce570d76a4b24186bf125",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13488,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "DS\u00d6, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 ilk a\u015f\u0131y\u0131 onaylad\u0131",
+      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (DS\u00d6), M \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fcne kar\u015f\u0131 \u00f6n yeterlilik alan ilk a\u015f\u0131n\u0131n \"MVA-BN\" oldu\u011funu duyurdu.",
+      "url": "https://www.haberturk.com/dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi-haberler-3719678",
+      "urlToImage": "https://im.haberturk.com/l/2024/09/13/ver1726228755/3719678/jpg/1200x628",
+      "publishedAt": "2024-09-13 12:01:40",
+      "content": "DS\u00d6'den yaplan yazl a\u00e7klamada, Bavarian Nordic'in \u00fcrettii \"MVA-BN asnn, DS\u00d6'n\u00fcn M \u00e7i\u00e7ei vir\u00fcs\u00fcne kar \u00f6n yeterlilik alan a listesine eklendii bildirildi. A\u00e7klamada, \u00f6n yeterlilik onaynn, acil ihtiya\u00e7\u2026 [+1932 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.841428",
+      "internal_id": "ce669b1fc694959c87868573f72059ab8057f3d6427a74487dc1207230da8de1",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13484,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Jona Spreter",
+      "title": "Mpox: WHO erteilt erste Zulassung f\u00fcr Impfstoff gegen Mpox",
+      "description": "Im Kampf gegen Mpox erh\u00e4lt der Impfstoff von Bavarian Nordic A/S eine vorl\u00e4ufige Zulassung. Unter anderem Unicef kann das Vakzin nun kaufen.",
+      "url": "https://www.zeit.de/gesundheit/2024-09/mpox-who-zulassung-impfstoff-unicef",
+      "urlToImage": "https://img.zeit.de/administratives/sharing/fallback-image/wide__1300x731",
+      "publishedAt": "2024-09-13 11:53:44",
+      "content": "Die Weltgesundheitsorganisation (WHO) hat eine erste Genehmigung f\u00fcr einen Impfstoff gegen Mpox bei Erwachsenen erteilt. In bestimmten F\u00e4llen k\u00f6nne das Mittel des Herstellers von Bavarian Nordic A/S \u2026 [+432 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.796399",
+      "internal_id": "5bd66b61a90fa5285f61f8ed6e90369aa8718ac0218fb0b373aa2a400e7a71d0",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13476,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Nelle Marche 11 casi di Dengue in provincia di Pesaro Urbino",
+      "description": "Sono 11 i casi di Dengue accertati nelle Marche in particolare nella zona di Fano e uno a San Costanzo, sempre in provincia di Pesaro Urbino: una persona infettata presenta una storia di viaggio in area endemica e un'altra, a Fano, \u00e8 una mamma in stato di ...\u2026",
+      "url": "https://www.ansa.it/marche/notizie/2024/09/13/nelle-marche-11-casi-di-dengue-in-provincia-di-pesaro-urbino_b7ff154c-55b5-4686-8076-a1d1973c6bec.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2018/6/22/ded9844ee752cd4669ab5a84f8f7412f.jpg",
+      "publishedAt": "2024-09-13 11:52:51",
+      "content": "Sono 11 i casi di Dengue accertati nelle Marche in particolare nella zona di Fano e uno a San Costanzo, sempre in provincia di Pesaro Urbino: una persona infettata presenta una storia di viaggio in a\u2026 [+3461 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.472751",
+      "internal_id": "9895876cf57f7ba644cdf43feec296b7b1599cb5529dce3d78df16ef519771d4",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13467,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Belga Belga",
+      "title": "Risque d'\u00e9pid\u00e9mies \"assez \u00e9lev\u00e9\" : les d\u00e9g\u00e2ts du moustique tigre en France",
+      "description": "La France m\u00e9tropolitaine est expos\u00e9e \u00e0 \"un risque assez \u00e9lev\u00e9\" d'\u00e9pid\u00e9mies li\u00e9es au moustique tigre dans les cinq prochaines ann\u00e9es, a estim\u00e9 vendredi l'Agence nationale de s\u00e9curit\u00e9 sanitaire de l'alimentation (Anses). ...",
+      "url": "https://www.dhnet.be/actu/belgique/2024/09/13/risque-depidemies-assez-eleve-les-degats-du-moustique-tigre-en-france-F4KUFPHYKJEUZKKIJ6DIAJ64K4/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/JMR5UJKW4RFABGMEYXGHOJKPYY.jpg?auth=489c06f15d3e505634e87969aaf42cd8d0ce245b9d161f2269ce40920ecbed94&width=1200&height=630&quality=85&focal=1516%2C1004&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2024-09-13 11:50:55",
+      "content": "Ces derni\u00e8res ann\u00e9es, les cas de dengue et de chikungunya ont augment\u00e9 dans l'Hexagone, avec notamment une cinquantaine de cas autochtones de dengue en 2023, infect\u00e9s sur place, apr\u00e8s un record de 66\u2026 [+1550 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.341466",
+      "internal_id": "6b7a7a77251e98331a72740622b8e5e4d2f0d4430498bc938bb29bfb65847140",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13468,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Belga Belga",
+      "title": "Risque d'\u00e9pid\u00e9mies \"assez \u00e9lev\u00e9\" : les d\u00e9g\u00e2ts du moustique tigre en France",
+      "description": "La France m\u00e9tropolitaine est expos\u00e9e \u00e0 \"un risque assez \u00e9lev\u00e9\" d'\u00e9pid\u00e9mies li\u00e9es au moustique tigre dans les cinq prochaines ann\u00e9es, a estim\u00e9 vendredi l'Agence nationale de s\u00e9curit\u00e9 sanitaire de l'alimentation (Anses). ...",
+      "url": "https://www.dhnet.be/actu/belgique/2024/09/13/risque-depidemies-assez-eleve-les-degats-du-moustique-tigre-en-france-BLMM7P7UPFDR5LSMQ47ME3PN34/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/JMR5UJKW4RFABGMEYXGHOJKPYY.jpg?auth=489c06f15d3e505634e87969aaf42cd8d0ce245b9d161f2269ce40920ecbed94&width=1200&height=630&quality=85&focal=1516%2C1004&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2024-09-13 11:40:10",
+      "content": "Ces derni\u00e8res ann\u00e9es, les cas de dengue et de chikungunya ont augment\u00e9 dans l'Hexagone, avec notamment une cinquantaine de cas autochtones de dengue en 2023, infect\u00e9s sur place, apr\u00e8s un record de 66\u2026 [+1579 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.351605",
+      "internal_id": "754480db4e95f60d521b56eab19adb24911228a251783937b45d129474596d48",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13497,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Pandora Dewan",
+      "title": "Mpox Vaccine Update Issued by WHO",
+      "description": "The announcement marks the first mpox vaccine to be added to the WHO's prequalification list, to facilitate timely access and stop the spread of the virus.",
+      "url": "https://www.newsweek.com/mpox-vaccine-who-update-1953397",
+      "urlToImage": "https://d.newsweek.com/en/full/2470681/mpox-vaccine.jpg",
+      "publishedAt": "2024-09-13 11:35:23",
+      "content": "The mpox vaccine used in the U.S. has been added to the World Health Organization's (WHO) prequalification list, the first time one has received this approval. The WHO declared mpox to be a \"public \u2026 [+3662 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.931403",
+      "internal_id": "6cc0b2d4da21fcc49199c67303c00dcc870591b951b9fe927e9900ee4d4f01f8",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13469,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Nelle Marche 11 casi di Dengue in provincia di Pesaro Urbino",
+      "description": "Sono 11 i casi di Dengue accertati nelle Marche in particolare nella zona di Fano e uno a San Costanzo, sempre in provincia di Pesaro Urbino: una persona infettata presenta una storia di viaggio in area endemica e un'altra, a Fano, \u00e8 una mamma in stato di ...\u2026",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2024/09/13/nelle-marche-11-casi-di-dengue-in-provincia-di-pesaro-urbino_743a13e4-e973-4d37-8309-788756156e0d.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2018/6/22/ded9844ee752cd4669ab5a84f8f7412f.jpg",
+      "publishedAt": "2024-09-13 11:33:05",
+      "content": "Sono 11 i casi di Dengue accertati nelle Marche in particolare nella zona di Fano e uno a San Costanzo, sempre in provincia di Pesaro Urbino: una persona infettata presenta una storia di viaggio i\u2026 [+1488 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.370443",
+      "internal_id": "00a41cd37ea1c9492366e9e2c10a568c99c9124e2a29dc2d6995dd5fb33fd75f",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13498,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412\u041e\u0417 \u043f\u0440\u043e\u0432\u0435\u043b\u0430 \u043f\u0440\u0435\u043a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044e \u0432\u0430\u043a\u0446\u0438\u043d\u044b \u043f\u0440\u043e\u0442\u0438\u0432 mpox",
+      "description": "\u0412 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u043e\u0436\u0438\u0434\u0430\u044e\u0442, \u0447\u0442\u043e \u043f\u0440\u0438\u043d\u044f\u0442\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \"\u043e\u0431\u043b\u0435\u0433\u0447\u0438\u0442 \u0441\u0432\u043e\u0435\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u0438 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f\" \u043a \u043d\u0435\u0439",
+      "url": "https://tass.ru/obschestvo/21857455",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21857455?u=2024-09-13T11:29:55.278331",
+      "publishedAt": "2024-09-13 11:29:55",
+      "content": ", 13 . //. () (mpox) - MVA-BN. , - . \"MVA-BN mpox, \", - . , \" \" , \" \" . , , , - Bavarian Nordic A/S. , , . \" mpox , , \", - . \" , , , , \", - . MVA-BN 18 . 2 8 . MVA-BN , (), . Mpox - , , . 1970\u2026 [+3 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.941336",
+      "internal_id": "a995a1faac36ae74bd04f686dd69fb9d0d1da44fa1c25e63c0582b3e1194efc4",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13486,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "World Health Organization approves first vaccine against mpox, clearing the way for developing countries",
+      "description": "The World Health Organization says it has cleared Bavarian Nordic's mpox vaccine, the first such vaccine to be approved by the agency for containing the spread of the disease in badly hit African countries.",
+      "url": "https://www.abc.net.au/news/2024-09-13/bavarian-nordic-mva-bn-vaccine-mpox-who/104350818",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/77f6eab821030689f90538675aab7993?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=134&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-09-13 11:20:12",
+      "content": "The World Health Organization says it has cleared Bavarian Nordic's mpox vaccine, the first such vaccine to be approved by the agency for containing the spread of the disease in badly hit African cou\u2026 [+1593 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.816865",
+      "internal_id": "0d9b6da4b58d30d772d73a2a45add9c38f0a78a3618a6902b5ae00061acd5c1c",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13490,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Petru Mazilu",
+      "title": "OMS a aprobat primul vaccin \u00eempotriva mpox",
+      "description": "Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii a anun\u0163at vineri c\u0103 a aprobat vaccinul \u00eempotriva mpox al Bavarian Nordic (BAVA.CO).",
+      "url": "https://www.mediafax.ro/sanatate/oms-a-aprobat-primul-vaccin-impotriva-mpox-22485584",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/38026/22485584/1/vaiolo.jpg?width=640",
+      "publishedAt": "2024-09-13 11:13:11",
+      "content": "Aprobarea, cunoscut sub numele de precalificare, deschide calea rilor \u00een curs de dezvoltare, dintre care multe nu au tehnologia i resursele necesare pentru a face verificri riguroase ale siguranei i \u2026 [+1021 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.874586",
+      "internal_id": "367bcb460b96a6a77b5fa331580841cca95d5f263051e37ff6be54f28aba7769",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13501,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "AFP -",
+      "title": "Mpox : le feu vert de l'OMS au vaccin va permettre d'acc\u00e9lerer sa diffusion",
+      "description": "L'Organisation mondiale de la sant\u00e9 (OMS) a pr\u00e9qualifi\u00e9 le vaccin MVA-BN destin\u00e9 \u00e0 lutter contre l'\u00e9pid\u00e9mie de mpox qui frappe actuellement une partie du continent africain, a annonc\u00e9 l'agence onusienne vendredi. ...",
+      "url": "https://www.lalibre.be/planete/sante/2024/09/13/mpox-le-feu-vert-de-loms-au-vaccin-va-permettre-daccelerer-sa-diffusion-VN7N4AJ355CATKKFOYOI5UHV7I/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/4HWT3JL3AVFCNLWJZQRWJTUMK4.jpg?auth=dd0dcc27cdda8087cbe87e4c5919e005e081c6a9102339be0dfccd60395d1514&width=1200&height=630&quality=85&focal=2250%2C1500&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2024-09-13 11:12:32",
+      "content": "La pr\u00e9qualification de ce s\u00e9rum par l'OMS permet aux agences sp\u00e9cialis\u00e9es de l'ONU, comme l'Alliance du vaccin et l'agence pour l'enfance Unicef, mais aussi des gouvernements d'acc\u00e9l\u00e9rer les commande\u2026 [+2094 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.976131",
+      "internal_id": "be72db03e02fec35d086eee936d76be69f470ef1ecfda4c0987cc92724712f47",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13477,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Moustique tigre: \"risque assez \u00e9lev\u00e9\" d'\u00e9pid\u00e9mies dans l'Hexagone dans les cinq prochaines ann\u00e9es",
+      "description": "Le moustique tigre est d\u00e9sormais pr\u00e9sent dans 78 d\u00e9partements m\u00e9tropolitains.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/moustique-tigre-risque-assez-eleve-d-epidemies-dans-l-hexagone-dans-les-cinq-prochaines-annees_6779455.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/mGj_kQxE_LyVHvOq5Sa8osbUSWA/0x261:5000x3074/1500x843/2024/09/13/maxnewsspecial859471-1-66e419c72929b439598324.jpg",
+      "publishedAt": "2024-09-13 11:06:12",
+      "content": "Dengue, chikungunya, Zika... La France m\u00e9tropolitaine est expos\u00e9e \u00e0 \"un risque assez \u00e9lev\u00e9\"d'\u00e9pid\u00e9mies li\u00e9es au moustique tigre dans les cinq prochaines ann\u00e9es, a estim\u00e9 l'Agence nationale de s\u00e9curit\u2026 [+1316 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.496325",
+      "internal_id": "65d3f4bf6beb8f29ab57bfcf1655a2c6d4e6d8efdc75c87f25c846450c155c29",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13464,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Moustique tigre : l'Anses pointe un risque d'\u00e9pid\u00e9mie dans les prochaines ann\u00e9es",
+      "description": "L'Anses redoute un \u00ab risque assez \u00e9lev\u00e9 \u00bb d'\u00e9pid\u00e9mies en lien avec le moustique tigre en France d'ici \u00e0 cinq ans.",
+      "url": "https://www.ledauphine.com/sante/2024/09/13/moustique-tigre-l-anses-pointe-un-risque-d-epidemie-dans-les-prochaines-annees",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/C0D53124-ED7C-4A4A-A60F-08B35DB2D7FC/FB1200/photo-1726225095.jpg",
+      "publishedAt": "2024-09-13 10:58:00",
+      "content": "Dengue, chikungunya, Zika : la France m\u00e9tropolitaine est expos\u00e9e \u00e0 \u00ab un risque assez \u00e9lev\u00e9 \u00bb d\u2019\u00e9pid\u00e9mies li\u00e9es au moustique tigre dans les cinq prochaines ann\u00e9es, estime l'Anses vendredi. \u00ab Une \u00e9pid\u2026 [+2590 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.320214",
+      "internal_id": "d138ecf7cc5e60c3e800f590bb548dedecf90e97465c21956b795bc69c8ac909",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13500,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Rory O\u2019Neill, Helen Collis",
+      "title": "WHO approves Bavarian Nordic\u2019s mpox vaccine",
+      "description": "Manufacturer Bavarian Nordic said it could produce another 50 million doses with new manufacturing processes and partners.",
+      "url": "https://www.politico.eu/article/who-approves-bavarian-nordics-mpox-vaccine/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/09/13/GettyImages-1242407759-scaled.jpg",
+      "publishedAt": "2024-09-13 10:53:02",
+      "content": "Bavarian Nordic said Thursday it could deliver another 50 million doses over the next 12-18 months, pending regulatory approvals and demand on top of the 13 million doses it announced previously, thr\u2026 [+755 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.970711",
+      "internal_id": "ca7eac8ebb7699a99d943737ee5cea3c428de168eb03d91843d4bfd3c3175cf2",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13495,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 ilk a\u015f\u0131ya onay verdi",
+      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (DS\u00d6), M \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fcne kar\u015f\u0131 \u00f6n yeterlilik alan ilk a\u015f\u0131n\u0131n \"MVA-BN\" oldu\u011funu duyurdu. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/saglik/dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi/3329420",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/09/13/thumbs_b_c_8ca4e95690205f7583f385440d26de11.jpg?v=135333",
+      "publishedAt": "2024-09-13 10:50:59",
+      "content": "DS\u00d6'den yaplan yazl a\u00e7klamada, Bavarian Nordic'in \u00fcrettii \"MVA-BN\u201d asnn, DS\u00d6'n\u00fcn M \u00e7i\u00e7ei vir\u00fcs\u00fcne kar \u00f6n yeterlilik alan a listesine eklendii bildirildi. A\u00e7klamada, \u00f6n yeterlilik onaynn, acil ihtiya\u2026 [+2111 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.911376",
+      "internal_id": "40bbb43e3267a5e749e2680ca877c9868c8b3556df60ab6e3244f27741875562",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13503,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "WHO grants first mpox vaccine approval to ramp up response to disease in Africa and beyond",
+      "description": "The World Health Organization says it has granted its first authorization for use of a vaccine against mpox in adults, calling it an important step toward fighting against the disease in Africa and beyond",
+      "url": "https://abcnews.go.com/International/wireStory/grants-mpox-vaccine-approval-ramp-response-disease-africa-113655332",
+      "urlToImage": "https://i.abcnewsfe.com/a/aaca8d84-6eab-4f0f-832e-964bd37263d5/wirestory_90ea5574c7ef83d448ee9f5a38d6949e_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-13 10:46:19",
+      "content": "GENEVA -- The World Health Organization said Friday it has granted its first authorization for use of a vaccine against mpox in adults, calling it an important step toward fighting the disease in Afr\u2026 [+1577 chars]",
+      "retrievedAt": "2024-09-14 19:05:34.027139",
+      "internal_id": "c8d89c067fb331d6ae1157e628dce454f3c6dbb55c807df7ab044b6b2da8d955",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13496,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "WHO grants first mpox vaccine approval to ramp up response to disease in Africa",
+      "description": "By JAMEY KEATEN GENEVA (AP) \u2014 The World Health Organization said Friday it has granted its first authorization for use of a vaccine against mpox in adults, calling it an important step toward fighting the disease in Africa. The approval of the vaccine made by\u2026",
+      "url": "https://www.bostonherald.com/2024/09/13/who-grants-first-mpox-vaccine-approval-to-ramp-up-response-to-disease-in-africa/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/09/Congo_Mpox_07074_6853dc.jpg?w=1024&h=682",
+      "publishedAt": "2024-09-13 10:32:12",
+      "content": "By JAMEY KEATEN GENEVA (AP) \u2014 The World Health Organization said Friday it has granted its first authorization for use of a vaccine against mpox in adults, calling it an important step toward fighti\u2026 [+2443 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.917136",
+      "internal_id": "9de27da412f09a0bab5692da88599aa0f3d3e1fa17b6460f6c0596fdb10bbcc3",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13506,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "WHO clears Bavarian Nordic's vaccine for mpox",
+      "description": "WHO clears Bavarian Nordic's vaccine for mpox",
+      "url": "https://www.investing.com/news/stock-market-news/who-clears-bavarian-nordics-vaccine-for-mpox-3615006",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_L.jpg",
+      "publishedAt": "2024-09-13 10:00:37",
+      "content": "(Reuters) - The World Health Organization on Friday cleared Bavarian Nordic's MVA-BN vaccine as the first shot against mpox.",
+      "retrievedAt": "2024-09-14 19:05:34.065913",
+      "internal_id": "9d5d7186593ce2087d9a3ad4ead771d9b319f04e39f1b2cbd30bd24c45dda231",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13507,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordics mpox vaccine opn\u00e5r pr\u00e6kvalifikation hos WHO",
+      "description": "K\u00d8BENHAVN, Danmark, 13. september 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at selskabets mpox-vaccine, IMVANEX\u00ae (MVA-BN\u00ae) har modtaget pr\u00e6kvalifikation af Verdenssundhedsorganisationen, WHO, som den f\u00f8rste mpox-vaccine, der nu tilf\u00f8jes listen ov\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/09/13/2945779/0/da/Bavarian-Nordics-mpox-vaccine-opn%C3%A5r-pr%C3%A6kvalifikation-hos-WHO.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-09-13 09:57:00",
+      "content": "F\u00f8rste mpox-vaccine, der opn\u00e5r pr\u00e6kvalifikation hos WHOGodkendelsen vil hj\u00e6lpe med at fremskynde adgangen til vaccinen i alle afrikanske landeK\u00d8BENHAVN, Danmark, 13. septem\u2026 [+5111 chars]",
+      "retrievedAt": "2024-09-14 19:05:34.071572",
+      "internal_id": "b569beee2f7e841c2d1b71bc2b63d651b79c564432e78834b9f5e24dae5392d0",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13489,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.vg.no",
+      "author": "Emma Fondenes \u00d8vreb\u00f8",
+      "title": "WHO har annonsert vaksine mot mpox",
+      "description": "Vaksinen kan bli brukt i n\u00f8dstilfelle ved et mpox-utbrudd.",
+      "url": "https://www.vg.no/nyheter/i/aljwld/who-har-godkjent-vaksine-mot-mpox",
+      "urlToImage": "https://www.vg.no/vgc/cdn/vgno/assets/logo.png",
+      "publishedAt": "2024-09-13 09:41:19",
+      "content": "Vaksinen kan bli brukt i n\u00f8dstilfelle ved et mpox-utbrudd. WHO har erkl\u00e6rt mpox for en internasjonal krise. N\u00e5 har WHO godkjent bruken av en vaksine kan brukes i n\u00f8dstilfelle ved et utbrudd. De har\u2026 [+408 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.869041",
+      "internal_id": "d4bef3d350c7281472b64417eb6f093ef2498ae1a471da3812a805a8dee3d777",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13483,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "Havuzdan maymun \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc bula\u015f\u0131r m\u0131?",
+      "description": "Maymun \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fcn\u00fcn, enfekte bir ki\u015finin deri lezyonlar\u0131, v\u00fccut s\u0131v\u0131lar\u0131 veya uzun s\u00fcreli solunum damlac\u0131klar\u0131na maruz kalma yoluyla bula\u015ft\u0131\u011f\u0131n\u0131 belirten uzmanlar belirti g\u00f6steren ki\u015filerle yak\u0131n temastan ka\u00e7\u0131n\u0131lmas\u0131n\u0131 \u00f6neriyor. Do\u00e7. Dr. Kaan Y\u0131lan\u2026",
+      "url": "https://www.hurriyet.com.tr/aile/galeri-havuzdan-maymun-cicegi-virusu-bulasir-mi-42523616",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/0x0/66dbfb2a4f063a9b8326ab0e.jpg",
+      "publishedAt": "2024-09-13 09:32:12",
+      "content": "Maymun \u00e7i\u00e7ei (mpox) vir\u00fcs\u00fcn\u00fcn, esas olarak enfekte bir kiinin deri lezyonlar, v\u00fccut svlar veya uzun s\u00fcreli solunum damlacklarna maruz kalma yoluyla bulatn hatrlatan Do\u00e7. Dr. Kaan Ylancolu, \u201cVir\u00fcs\u00fcn a\u2026 [+205 chars]",
+      "retrievedAt": "2024-09-14 19:05:33.786477",
+      "internal_id": "7597a7899ce2681532b4b6ca66636c1ed00dff78102353abadabe6c3317d3542",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13504,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Maghreb Arabe Presse",
+      "title": "Un cas confirm\u00e9 de la variole du singe enregistr\u00e9 au Maroc",
+      "description": "Le minist\u00e8re de la Sant\u00e9 et de la Protection sociale a annonc\u00e9 la d\u00e9tection, le 12 septembre, d\u2019un cas confirm\u00e9 de la variole du singe (Mpox) au Maroc, dans le cadre du dispositif national de veille et de surveillance \u00e9pid\u00e9miologique.",
+      "url": "https://fr.sputniknews.africa/20240913/un-cas-confirme-de-la-variole-du-singe-enregistre-au-maroc-1068261411.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1068261411.jpg?10678835911726217255",
+      "publishedAt": "2024-09-13 08:47:34",
+      "content": "https://fr.sputniknews.africa/20240913/un-cas-confirme-de-la-variole-du-singe-enregistre-au-maroc-1068261411.html Un cas confirm\u00e9 de la variole du singe enregistr\u00e9 au Maroc Un cas confirm\u00e9 de la va\u2026 [+4670 chars]",
+      "retrievedAt": "2024-09-14 19:05:34.037507",
+      "internal_id": "0d1092852bfeb63d759cd77e52f00ef81455a092ba2395517baf73dbe2ef5f52",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13470,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsmonkey.be",
+      "author": "Redactie",
+      "title": "Knokkelkoorts rukt op: Europese vakantiebestemmingen steeds meer bedreigd",
+      "description": "Knokkelkoorts of dengue, een tropische ziekte die wordt overgebracht door de Aziatische tijgermug, vormt een groeiend gevaar voor populaire Europese vakantiebestemmingen. Dankzij een nieuw voorspellingssysteem kunnen uitbraken nu tot op 10 kilometer nauwkeuri\u2026",
+      "url": "https://newsmonkey.be/knokkelkoorts-rukt-op-europese-vakantiebestemmingen-steeds-meer-bedreigd/",
+      "urlToImage": "https://media.newsmonkey.be/2024/09/Aziatische-tijgermug-dengue-knokkelkoorts.jpg",
+      "publishedAt": "2024-09-13 07:34:33",
+      "content": "Knokkelkoorts of dengue, een tropische ziekte die wordt overgebracht door de Aziatische tijgermug, vormt een groeiend gevaar voor populaire Europese vakantiebestemmingen. Dankzij een nieuw voorspelli\u2026 [+1456 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.375994",
+      "internal_id": "b90b950a40526f71a6ea45574f322619e2ebadd2aee6a9132ad2d37a0b10807e",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13466,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "dpa",
+      "title": "Von M\u00fccken \u00fcbertragen - Kann lebensgef\u00e4hrlich sein: Italien meldet erste Dengue-F\u00e4lle",
+      "description": "Das Dengue-Virus ist weltweit auf dem Vormarsch. In Italien sind nun die ersten beiden lokalen F\u00e4lle in diesem Jahr festgestellt worden. Die Infizierten waren zuvor nicht im Ausland.",
+      "url": "https://www.focus.de/gesundheit/news/von-muecken-uebertragen-kann-lebensgefaehrlich-sein-italien-meldet-erste-dengue-faelle_id_260307712.html",
+      "urlToImage": "https://p6.focus.de/img/panorama/welt/id_197987829/eine-asiatische-tigermuecke.-infektionskrankheiten-werden-aus-sicht-von-infektiologen-allein-durch-die-klimakrise-in-den-kommenden-jahrzehnten-deutlich-zunehmen..jpg?im=Crop%3D%280%2C171%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=85c8d9622a8820c34447569471866018b008199b945725a576aaec892cb3d145",
+      "publishedAt": "2024-09-13 07:19:29",
+      "content": "Das Dengue-Virus ist weltweit auf dem Vormarsch. In Italien sind nun die ersten beiden lokalen F\u00e4lle in diesem Jahr festgestellt worden. Die Infizierten waren zuvor nicht im Ausland.Immer wieder habe\u2026 [+4030 chars]",
+      "retrievedAt": "2024-09-14 19:05:31.335964",
+      "internal_id": "2ee0394cf7e8dc9c904edc93bdc21a0405b9d5a5524e8f57fa0dda7114dbe95e",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13505,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "World News in Brief: UNICEF mpox response in DR Congo, 'unprecedented' threat to Sudan's heritage, call to suspend Cambodia journalism charter",
+      "description": "The UN Children's Fund (UNICEF) is stepping up lifesaving support to the Congolese Government to protect children under 15 from mpox, who account for around 60 per cent of suspected cases and 80 per cent of deaths in the African nation so far this year.",
+      "url": "https://www.globalsecurity.org/military/library/news/2024/09/mil-240912-unnews04.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-09-13 07:14:32",
+      "content": "12 September 2024 - The UN Children's Fund (UNICEF) is stepping up lifesaving support to the Congolese Government to protect children under 15 from mpox, who account for around 60 per cent of suspect\u2026 [+4425 chars]",
+      "retrievedAt": "2024-09-14 19:05:34.042820",
+      "internal_id": "90d939d3855b7ec82e630b152efd0e81e3e0e6c1094a865ea8883f3d40913306",
+      "publishedAtLabel": "Sep 13"
+    },
     {
       "id": 13438,
       "query": [
@@ -35602,42 +36518,6 @@
       "content": "Awards 1 win &amp; 4 nominations See more awards \u00bb Plot: Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town. Genre: Horror | ThrillerIMDB Rating\u2026 [+689 chars]",
       "retrievedAt": "2024-07-30 07:06:53.092573",
       "internal_id": "eb985370d41891a9164d7ad115f336d1d206efd512127ea072b51f1c01762421",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 11484,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Fontanka.ru",
-      "author": null,
-      "title": "\u0427\u0435\u0445\u0438 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443 \u0440\u0435\u0448\u0430\u044e\u0442. \u0427\u0442\u043e \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0438\u0437 \u043f\u0440\u0438\u0432\u0438\u0432\u043e\u043a, \u0447\u0442\u043e\u0431\u044b \u043f\u0443\u0441\u0442\u0438\u043b\u0438 \u0441 \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u043c \u0437\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0443",
-      "description": "\u041d\u0430 \u043c\u0438\u043d\u0443\u0432\u0448\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0435 \u0420\u043e\u0441\u0441\u0438\u044f \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a\u0430 \u0432\u0430\u043a\u0446\u0438\u043d \u043e\u0442 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u00ab\u041d\u043e\u0431\u0438\u0432\u0430\u043a Rabies\u00bb \u2014 \u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0446\u044b \u043e\u0442\u043a\u0430\u0437\u0430\u043b\u0438\u0441\u044c \u0438\u0433\u0440\u0430\u0442\u044c \u043f\u043e \u043f\u0440\u0430\u0432\u0438\u043b\u0430\u043c \u0420\u043e\u0441\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u043d\u0430\u0434\u0437\u043e\u0440\u0430.",
-      "url": "https://www.fontanka.ru/2024/07/28/73843271/",
-      "urlToImage": "https://cdn.iportal.ru/news/articles/social/54d9438f84b26481c36faf79e4ca4fa0.png",
-      "publishedAt": "2024-07-28 13:38:40",
-      "content": "\u00ab Rabies\u00bb . . \u00ab\u00bb , , . \u00ab 15 \u00ab\u00ae Rabies\u00bb \u00abIntervet International B.V.\u00bb () . , 1 2024 , \u00bb, , . 2022 - . . GMP, . GMP-? -GMP , . 1 2023 , GMP (Good manufacturing practice ). , , . \u00ab GMP, , GMP \u00bb,\u2026 [+480 chars]",
-      "retrievedAt": "2024-07-29 19:05:40.879632",
-      "internal_id": "ad2f0bf0aecd9f472859b865cafea547aec2b3c26327c57e12c30ee8b694a118",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 11485,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Business Standard",
-      "author": "BS Reporter",
-      "title": "USAID, Takeda Biopharma launch dengue prevention programme across India",
-      "description": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil",
-      "url": "https://www.business-standard.com/companies/news/usaid-takeda-biopharma-launch-dengue-prevention-programme-across-india-124072800303_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/28/thumb/featurecrop/400X400/1722161975-1545.jpeg",
-      "publishedAt": "2024-07-28 10:20:31",
-      "content": "The vaccine is already available for children and adults in the private market in Europe, Indonesia, and Thailand, and in some public programmes in Argentina and Brazil Image credit: USAID's X accou\u2026 [+2271 chars]",
-      "retrievedAt": "2024-07-29 19:05:42.044678",
-      "internal_id": "8a4a356d3b19bab889eca92053315491650758fe12185c61d9eb80446b6c2360",
       "publishedAtLabel": "Jul 28"
     }
   ]
