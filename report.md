@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 50
-- **Last harvest:** 2024-09-14 19:05
-- **Most recent article:** 2024-09-13 18:34:11
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-09-15 07:05
+- **Most recent article:** 2024-09-14 06:49:00
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-31 | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
-|--|-|-|-|-|-|-|-|-|
-| mpox | 26 | 139 | 292 | 208 | 207 | 184 | 155 | 1211 |
-| dengue | 52 | 46 | 52 | 64 | 45 | 49 | 72 | 380 |
-| malaria | 15 | 16 | 19 | 27 | 28 | 14 | 12 | 131 |
-| h5n1 | 21 | 6 | 8 | 5 | 10 | 31 | 9 | 90 |
-| zika | 12 | 11 | 10 | 21 | 2 | 6 | 8 | 70 |
-| rabies | 11 | 8 | 12 | 6 | 3 | 7 | 3 | 50 |
-| measles | 7 | 6 | 3 | 7 | 11 | 9 | 5 | 48 |
-| chikungunya | 5 | 4 | 8 | 10 | 1 | 5 | 13 | 46 |
-| meningitis | 3 | 6 | 8 | 11 | 5 | 6 | 3 | 42 |
-| pertussis | 5 | 6 | 3 | 5 | 2 | 1 | 3 | 25 |
-| hpai | 4 | 1 | 1 | 1 | 0 | 3 | 0 | 10 |
-| leptospirosis | 1 | 2 | 2 | 4 | 0 | 1 | 0 | 10 |
-| yersinia | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 6 |
-| typhoid | 1 | 0 | 1 | 2 | 1 | 1 | 0 | 6 |
-| shigellosis | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Disease | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
+|--|-|-|-|-|-|-|-|
+| mpox | 138 | 292 | 208 | 207 | 184 | 164 | 1193 |
+| dengue | 44 | 52 | 64 | 45 | 49 | 74 | 328 |
+| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 116 |
+| h5n1 | 6 | 8 | 5 | 10 | 31 | 10 | 70 |
+| zika | 11 | 10 | 21 | 2 | 6 | 8 | 58 |
+| rabies | 8 | 12 | 6 | 3 | 7 | 5 | 41 |
+| chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 41 |
+| measles | 6 | 3 | 7 | 11 | 9 | 5 | 41 |
+| meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 38 |
+| pertussis | 6 | 3 | 5 | 2 | 1 | 3 | 20 |
+| leptospirosis | 2 | 2 | 4 | 0 | 1 | 0 | 9 |
+| hpai | 1 | 1 | 1 | 0 | 3 | 1 | 7 |
+| yersinia | 1 | 0 | 1 | 1 | 2 | 0 | 5 |
+| typhoid | 0 | 1 | 2 | 1 | 1 | 0 | 5 |
+| shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -53,6 +53,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (rabies)
 
+- [Bat with rabies found in Plano](https://www.fox4news.com/news/bat-rabies-plano) (FOX 4 News)
+
+- [Cat found in East Hills of Pittsburgh tests positive for rabies](https://www.wpxi.com/news/local/cat-found-east-hills-pittsburgh-tests-positive-rabies/4CPVRFS36FGBRPANZDZ2U72B6Q/) (WPXI Pittsburgh)
+
 - [Skunk tests positive for rabies in Lincoln County](https://www.wsoctv.com/news/local/skunk-tests-positive-rabies-lincoln-county/YN3P4GD5ARCOLCAA5PGJUMSE24/) (WSOC Charlotte)
 
 - [75 die of monsoon ailments, 12 due to rabies in Maharashtra this year](https://timesofindia.indiatimes.com/city/mumbai/75-die-of-monsoon-ailments-12-due-to-rabies-in-maharashtra-this-year/articleshow/113332688.cms) (The Times of India)
@@ -69,6 +73,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (mpox)
 
+- [Мировые страны выделили более 3,6 млн доз вакцины против оспы обезьян](https://life.ru/p/1687440) (Life.ru)
+
+- [Africa CDC postpones conference due to mpox outbreak](https://punchng.com/africa-cdc-postpones-conference-due-to-mpox-outbreak/) (The Punch)
+
 - [Casos de mpox aumentan un 50% en el último mes en Europa](https://aristeguinoticias.com/1309/mundo/casos-de-mpox-aumentan-un-50-en-el-ultimo-mes-en-europa/) (Aristeguinoticias.com)
 
 - [Для борьбы с оспой обезьян выделили более 3,6 млн доз вакцины](https://tass.ru/obschestvo/21861259) (Tass.ru)
@@ -79,9 +87,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox: OMS pré-qualifica primeira vacina contra a doença](https://olhardigital.com.br/2024/09/13/medicina-e-saude/mpox-oms-pre-qualifica-primeira-vacina-contra-a-doenca/) (Olhardigital.com.br)
 
+- [Europa experimenta un aumento del 50% de los casos de mpox en agosto en comparación con julio](https://www.infosalus.com/actualidad/noticia-europa-experimenta-aumento-50-casos-mpox-agosto-comparacion-julio-20240913183311.html) (Infosalus.com)
+
 - [Dansk mpox-vaccine blåstemplet af WHO](https://www.dr.dk/nyheder/seneste/dansk-mpox-vaccine-blaastemplet-af-who) (Www.dr.dk)
 
 - [Weltgesundheitsorganisation genehmigt ersten Mpox-Impfstoff](https://www.tagesschau.de/ausland/afrika/mpox-who-impfung-100.html) (tagesschau.de)
+
+- [OMS pré-qualifica primeira vacina contra mpox. Entenda o que significa](https://www.metropoles.com/saude/oms-aprova-vacina-contra-mpox) (Metropoles.com)
+
+- [Morocco Records First Mpox Case In Marrakesh Since WHO Emergency Alert](https://www.ndtv.com/world-news/morocco-records-first-mpox-case-in-marrakesh-since-who-emergency-alert-6558874) (NDTV News)
 
 - [Mpox: OMS da luz verde a la vacuna de Bavarian Nordic](https://aristeguinoticias.com/1309/mundo/mpox-oms-da-luz-verde-a-la-vacuna-de-bavarian-nordic/) (Aristeguinoticias.com)
 
@@ -101,11 +115,17 @@ Source: [News API](https://newsapi.org/)
 
 - [World Health Organization approves first vaccine against mpox, clearing the way for developing countries](https://www.abc.net.au/news/2024-09-13/bavarian-nordic-mva-bn-vaccine-mpox-who/104350818) (ABC News (AU))
 
+- [Le feu vert de l’OMS au vaccin Mpox va permettre d’accélérer sa diffusion](https://www.sudinfo.be/id880397/article/2024-09-13/le-feu-vert-de-loms-au-vaccin-mpox-va-permettre-daccelerer-sa-diffusion) (Sudinfo.be)
+
 - [OMS a aprobat primul vaccin împotriva mpox](https://www.mediafax.ro/sanatate/oms-a-aprobat-primul-vaccin-impotriva-mpox-22485584) (Mediafax.ro)
 
 - [Mpox : le feu vert de l'OMS au vaccin va permettre d'accélerer sa diffusion](https://www.lalibre.be/planete/sante/2024/09/13/mpox-le-feu-vert-de-loms-au-vaccin-va-permettre-daccelerer-sa-diffusion-VN7N4AJ355CATKKFOYOI5UHV7I/) (Lalibre.be)
 
+- [Mpox : le feu vert de l'OMS au vaccin va permettre d'accélerer sa diffusion](https://www.dhnet.be/actu/sante/2024/09/13/mpox-le-feu-vert-de-loms-au-vaccin-va-permettre-daccelerer-sa-diffusion-NXSPPK2ZWZE5DAENBOMTOLZBB4/) (dh.be)
+
 - [WHO approves Bavarian Nordic’s mpox vaccine](https://www.politico.eu/article/who-approves-bavarian-nordics-mpox-vaccine/) (POLITICO.eu)
+
+- [WHO grants first mpox vaccine approval to ramp up response to disease](https://abcnews.go.com/Health/wireStory/grants-mpox-vaccine-approval-ramp-response-disease-africa-113655333) (ABC News)
 
 - [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.aa.com.tr/tr/saglik/dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi/3329420) (Anadolu Agency)
 
@@ -116,6 +136,8 @@ Source: [News API](https://newsapi.org/)
 - [WHO clears Bavarian Nordic's vaccine for mpox](https://www.investing.com/news/stock-market-news/who-clears-bavarian-nordics-vaccine-for-mpox-3615006) (Investing.com)
 
 - [Bavarian Nordics mpox vaccine opnår prækvalifikation hos WHO](https://www.globenewswire.com/news-release/2024/09/13/2945779/0/da/Bavarian-Nordics-mpox-vaccine-opn%C3%A5r-pr%C3%A6kvalifikation-hos-WHO.html) (GlobeNewswire)
+
+- [Bavarian Nordic Receives WHO Prequalification for Mpox Vaccine](https://www.globenewswire.com/news-release/2024/09/13/2945779/0/en/Bavarian-Nordic-Receives-WHO-Prequalification-for-Mpox-Vaccine.html) (GlobeNewswire)
 
 - [WHO har annonsert vaksine mot mpox](https://www.vg.no/nyheter/i/aljwld/who-har-godkjent-vaksine-mot-mpox) (Www.vg.no)
 
@@ -425,7 +447,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Communities in Baringo fight back against malaria with local solutions and mosquito nets](https://nation.africa/kenya/health/communities-in-baringo-fight-back-against-malaria-with-local-solutions-and-mosquito-nets-4752364) (Nation.africa)
 
+## 24-37 (hpai)
+
+- [CDC Reports First Case of Human Bird Flu Contracted Without Exposure to Cows or Poultry](https://legalinsurrection.com/2024/09/cdc-reports-first-case-of-human-bird-flu-contracted-without-exposure-to-cows-or-poultry/) (Legalinsurrection.com)
+
 ## 24-37 (h5n1)
+
+- [Mysterious bird flu case in Missouri was similar to strain circulating in cattle, CDC says | CNN](https://www.cnn.com/2024/09/13/health/missouri-bird-flu-h5n1/index.html) (CNN)
 
 - [The US is entering a riskier season for spread of H5N1 bird flu. Here’s why experts are worried | CNN](https://www.cnn.com/2024/09/12/health/bird-flu-h5n1-fall/index.html) (CNN)
 
@@ -447,6 +475,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (dengue)
 
+- [Upravení komáři vypouštění z dronů pomáhají při boji s nakažlivými nemocemi](https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https%3A%2F%2Fwww.novinky.cz%2Fclanek%2Fveda-skoly-upraveni-komari-vypousteni-z-dronu-pomahaji-pri-boji-s-nakazlivymi-nemocemi-40487692%3Fcwreturn%3D1&service=bcr&cwtime=1726296915646) (Seznam.cz)
+
 - [Epidemia de dengue: ¿Por qué el cambio climático y el fenómeno El Niño son señalados como los responsables?](https://www.nacion.com/ciencia/salud/epidemia-de-dengue-por-que-el-cambio-climatico-y/VHC7DW46NRG2FPO7ILVMWLRGHU/story/) (Nacion.com)
 
 - [Moustique tigre : le risque d’épidémies dans les cinq prochaines années est «assez élevé», avertit l’Anses](https://www.liberation.fr/societe/sante/moustique-tigre-le-risque-depidemies-dans-les-cinq-prochaines-annees-est-assez-eleve-avertit-lanses-20240913_ZVWD7UR2ABCODHWG4TGR5NCZ3M/) (Libération)
@@ -458,6 +488,8 @@ Source: [News API](https://newsapi.org/)
 - [Vaucluse : « J'ai cru mourir »... L’éradication du moustique tigre devient une priorité pour éviter une crise sanitaire](https://www.20minutes.fr/sante/4110026-20240913-vaucluse-cru-mourir-eradication-moustique-tigre-devient-priorite-eviter-crise-sanitaire) (20 Minutes)
 
 - [Cómo la IA puede ayudar a prevenir brotes de dengue](https://noticias.perfil.com/noticias/medicina/como-la-ia-puede-ayudar-a-prevenir-brotes-de-dengue.phtml) (Perfil.com)
+
+- [Dengue cases on the rise in Parbat](https://english.khabarhub.com/2024/13/396927/) (Khabarhub.com)
 
 - [Moustique tigre en France : la menace qui plane sur les cinq prochaines années](https://www.lexpress.fr/sciences-sante/sante/moustique-tigre-en-france-la-menace-qui-plane-sur-les-cinq-prochaines-annees-47LFNMEU6ZHNRFPU5PXX2TDE5A/) (L'Express)
 
@@ -3919,8 +3951,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус оспы обезьян атаковал новую страну](https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml) (Gazeta.ru)
 
-- [As mpox cases surge in Africa, few treatments and vaccines available](https://www.voanews.com/a/as-mpox-cases-surge-in-africa-few-treatments-and-vaccines-available-/7727013.html) (VOA News)
-
 ## 24-32 (meningitis)
 
 - [Burden and bacterial etiology of neonatal meningitis at Hawassa University Comprehensive Specialized Hospital, Hawassa, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308523) (Plos.org)
@@ -3932,8 +3962,6 @@ Source: [News API](https://newsapi.org/)
 - [Diagnostic prediction models for bacterial meningitis in children with a suspected central nervous system infection: a systematic review and prospective validation study](https://bmjopen.bmj.com/content/14/8/e081172) (The BMJ)
 
 - [Lawsuit launched by family of Mi'kmaw woman in N.S. claims negligence in her death](https://www.cbc.ca/news/canada/nova-scotia/lawsuit-ns-health-mikmaq-woman-death-fungal-meningitis-1.7287879) (CBC News)
-
-- [Así es la vida de Patricia Pérez y Luis Canut después de la enfermedad que les cambió la vida para siempre](https://www.hola.com/actualidad/20240804708918/la-vida-de-patricia-perez-y-luis-canut-despues-de-la-enfermedad-que-les-cambio-la-vida-para-siempre/) (Hola)
 
 ## 24-32 (measles)
 
@@ -4097,10 +4125,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Alarmante alza de contagios de dengue: OPS](https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc) (Jornada.com.mx)
 
-- [How do I know if my fever is flu, COVID, or dengue?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/how-do-i-know-if-my-fever-is-flu-covid-or-dengue/articleshow/112259742.cms) (The Times of India)
-
-- [TWiV 1137: Dengue is not BANAL](https://www.microbe.tv/twiv/twiv-1137/) (Microbe.tv)
-
 ## 24-32 (chikungunya)
 
 - [Ces maladies qui vont déferler dans une France plus chaude](https://www.alternatives-economiques.fr/maladies-deferler-une-france-plus-chaude/00111974) (Alternatives-economiques.fr)
@@ -4110,359 +4134,3 @@ Source: [News API](https://newsapi.org/)
 - [Caso di Chikungunya, Lucca ordina disinfestazione zanzara tigre](https://www.ansa.it/toscana/notizie/2024/08/07/caso-di-chikungunya-lucca-ordina-disinfestazione-zanzara-tigre_c68e7671-9a15-4631-b023-45970876b313.html) (ANSA.it)
 
 - [The risk and risk factors of chikungunya virus infection and rheumatological sequelae in a cohort of U.S. Military Health System beneficiaries: Implications for the vaccine era](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011810) (Plos.org)
-
-## 24-31 (zika)
-
-- [DGS recomenda prevenção e controlo de mosquitos que transmitem dengue e zika](https://greensavers.sapo.pt/dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika/) (Sapo.pt)
-
-- [Les moustiques n’ont qu’à bien se tenir : un répulsif efficace pendant plus d’une semaine vient d’être découvert](https://www.presse-citron.net/les-moustiques-nont-qua-bien-se-tenir-un-repulsif-efficace-pendant-plus-dune-semaine-vient-detre-decouvert/) (Presse-citron)
-
-- [Mosquitos que transmitem dengue e zika levam DGS a lançar apelos](https://ionline.sapo.pt/2024/08/01/mosquitos-que-transmitem-dengue-e-zika-levam-dgs-a-lancar-apelos/) (Sapo.pt)
-
-- [Mosquito que transmite dengue e zika encontrado em Cascais e Pombal. DGS recomenda medidas de proteção](https://observador.pt/2024/08/01/mosquito-que-transmite-dengue-e-zika-encontrado-em-cascais-e-pombal-dgs-recomenda-medidas-de-protecao/) (Observador.pt)
-
-- [DGS recomenda prevenção e controlo de mosquitos que transmitem dengue e zika](https://expresso.pt/sociedade/saude/2024-08-01-dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika-dc730a2e) (Expresso.pt)
-
-- [Collecting, Storing, and Hatching Aedes aegypti Eggs](https://cshprotocols.cshlp.org/content/2024/8/pdb.prot108183.full?rss=1) (Cshlp.org)
-
-- [DGS recomenda prevenção e controlo de mosquitos que transmitem dengue e zika](https://observador.pt/2024/08/01/dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika/) (Observador.pt)
-
-- [Leona Maguire and Rory McIlroy well placed to fly flag in golf’s awkward Olympic marriage](https://www.independent.ie/sport/olympics/leona-maguire-and-rory-mcilroy-well-placed-to-fly-flag-in-golfs-awkward-olympic-marriage/a1656624814.html) (Independent.ie)
-
-- [Zika virus testing can now be done at AIIMS Rajkot; results to be available in 24 hours](https://economictimes.indiatimes.com/news/india/zika-virus-testing-can-now-be-done-at-aiims-rajkot-results-to-be-available-in-24-hours/articleshow/112171102.cms) (The Times of India)
-
-- [Engineered microbes found to repel mosquitoes](https://phys.org/news/2024-07-microbes-repel-mosquitoes.html) (Phys.Org)
-
-- [Jason Day regrets missing the 2016 Olympics and refers to burnout](https://www.startribune.com/jason-day-regrets-missing-the-2016-olympics-and-refers-to-burnout/600387584/) (Minneapolis Star Tribune)
-
-- [13 cases of Zika virus infection till Jul 22 this year: MoS Anupriya Patel](https://economictimes.indiatimes.com/news/india/13-cases-of-zika-virus-infection-till-jul-22-this-year-mos-anupriya-patel/articleshow/112139504.cms) (The Times of India)
-
-## 24-31 (yersinia)
-
-- [فکت‌های جالب در مورد بیماری طاعون یا مرگ سیاه و تغییراتی که در سطح اجتماعی و سیاسی و فرهنگی ایجاد کرد!](https://www.1pezeshk.com/archives/2024/08/interesting-facts-about-the-plague-or-the-black-death.html) (1pezeshk.com)
-
-## 24-31 (typhoid)
-
-- [Hot & humid weather causes uptick in flu, typhoid, eye infection cases: Doctors](https://timesofindia.indiatimes.com/city/gurgaon/hot-humid-weather-causes-uptick-in-flu-typhoid-eye-infection-cases-doctors/articleshow/112093307.cms) (The Times of India)
-
-## 24-31 (rabies)
-
-- [Kitten confirmed to have rabies in Roanoke County](https://roanoke.com/news/local/kitten-confirmed-to-have-rabies-in-roanoke-county/article_b6b3bd8e-51a7-11ef-a3c2-1711a632fd09.html) (Roanoke Times)
-
-- [Sterilising free-roaming dogs nationwide reduces public health risks](https://kuenselonline.com/sterilising-free-roaming-dogs-nationwide-reduces-public-health-risks/) (Kuensel, Buhutan's National Newspaper)
-
-- [Skunks to blame for boom in Minnesota rabies cases, animal health board says](https://www.cbsnews.com/minnesota/news/minnesota-rabies-cases-rise-skunks/) (CBS News)
-
-- [These Are the CDC’s New Rules for Flying With Your Dog](https://time.com/7007042/cdc-new-rules-flying-with-your-dog/) (Time)
-
-- [The Entire Village Will Be Given Rabies Vaccine Health Department Team Arrived In Kanker](https://www.amarujala.com/chhattisgarh/kanker/the-entire-village-will-be-given-rabies-vaccine-health-department-team-arrived-in-kanker-2024-08-02) (Amarujala.com)
-
-- [Virginia Department of Health confirms case of rabies in Roanoke cat](https://www.wdbj7.com/2024/08/01/virginia-department-health-confirms-case-rabies-roanoke-cat/) (WDBJ7)
-
-- [S.Africa to trial vaccination of seals after first rabies outbreak](https://phys.org/news/2024-07-safrica-trial-vaccination-rabies-outbreak.html) (Phys.Org)
-
-- [30.5 lakh dog bite cases in 2023 led to death of 286](https://timesofindia.indiatimes.com/india/305l-dog-bite-cases-in-2023-led-to-death-of-286/articleshow/112149120.cms) (The Times of India)
-
-- [Nearly 3 mn dog bite cases reported in 2023, 286 persons died: Govt](https://www.business-standard.com/india-news/nearly-3-mn-dog-bite-cases-reported-in-2023-286-persons-died-govt-124073001233_1.html) (Business Standard)
-
-- [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.cc/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.cc)
-
-- [Cujo 1983 2160p UHD BluRay H265-MALUS](https://rlsbb.ru/cujo-1983-2160p-uhd-bluray-h265-malus/) (Rlsbb.ru)
-
-## 24-31 (pertussis)
-
-- [Szamárköhögés kisokos: ezt kell tudni a halállal fenyegető betegségről, amely járványosan terjed Magyarországon](https://www.portfolio.hu/gazdasag/20240803/szamarkohoges-kisokos-ezt-kell-tudni-a-halallal-fenyegeto-betegsegrol-amely-jarvanyosan-terjed-magyarorszagon-702191) (Portfolio.hu)
-
-- [‘Highly contagious’ whooping cough subject of summer surge across Ontario | Globalnews.ca](https://globalnews.ca/news/10653121/whooping-cough-pertussis-surge-ontario-2024/) (Global News)
-
-- [Number of new whooping cough cases stagnates in Czech Republic](https://www.thestar.com.my/news/world/2024/07/30/number-of-new-whooping-cough-cases-stagnates-in-czech-republic) (The Star Online)
-
-- [Új rekord: gyorsulva terjed Magyarországon a fertőzés, ami halálesetekkel is járt](https://www.portfolio.hu/gazdasag/20240729/uj-rekord-gyorsulva-terjed-magyarorszagon-a-fertozes-ami-halalesetekkel-is-jart-701145) (Portfolio.hu)
-
-- [That’s a cunning way to defund education and kill a lot of children](https://freethoughtblogs.com/pharyngula/2024/07/28/thats-a-cunning-way-to-defund-education-and-kill-a-lot-of-children/) (Freethoughtblogs.com)
-
-## 24-31 (mpox)
-
-- [Health Ministry Tracks Mpox Contacts Following Truck Driver's Return to Kenya](https://www.kenyans.co.ke/news/103376-health-ministry-tracks-mpox-contacts-following-truck-drivers-return-kenya) (Kenyans.co.ke)
-
-- [AU allocates $10.4m to Africa CDC for Mpox response](https://punchng.com/au-allocates-10-4m-to-africa-cdc-for-mpox-response/) (The Punch)
-
-- [Kenya on alert after case of mpox confirmed](https://www.voanews.com/a/kenya-on-alert-after-case-of-mpox-confirmed/7727576.html) (VOA News)
-
-- [Training lens on Mpox: The viruses are at it again](https://nation.africa/kenya/health/training-lens-on-mpox-the-viruses-are-at-it-again-4710266) (Nation.africa)
-
-- [Mpox in DR Congo: Who, what, when, where, and why](https://www.digitaljournal.com/tech-science/mpox-in-dr-congo-who-what-when-where-and-why/article) (Digital Journal)
-
-- [Mpox outbreaks declared in Kenya and Central African Republic. The race is on to contain the spread.](https://www.nbcnews.com/health/health-news/mpox-outbreaks-declared-kenya-central-african-republic-race-contain-sp-rcna164762) (NBC News)
-
-- [Mpox cases reported in Africa up 160 percent: Africa CDC](https://www.thestar.com.my/news/world/2024/08/02/mpox-cases-reported-in-africa-up-160-percent-africa-cdc) (The Star Online)
-
-- [В Кении и ЦАР зафиксировали первые случаи заболевания оспой обезьян](https://tass.ru/obschestvo/21511427) (Tass.ru)
-
-- [Mpox cases have surged by 160% in Africa in the last year, but few treatments and vaccines available](https://abcnews.go.com/Health/wireStory/mpox-cases-surged-160-africa-year-treatments-vaccines-112468610) (ABC News)
-
-- [Mpox cases have surged by 160% in Africa in the last year, but few treatments and vaccines available](https://abcnews.go.com/International/wireStory/mpox-cases-surged-160-africa-year-treatments-vaccines-112468609) (ABC News)
-
-- [Faut-il craindre la nouvelle souche de la variole du singe ? “Cela demande une vigilance continue” pour Steven Van Gucht](https://www.lavenir.net/actu/belgique/2024/08/01/faut-il-craindre-la-nouvelle-souche-de-la-variole-du-singe-cela-demande-une-vigilance-continue-pour-steven-van-gucht-MPWPP7DSTZGZHMSIF7EEE46HQU/) (Lavenir.net)
-
-- [Mpox outbreaks declared in Kenya and Central African Republic. The race is on to contain the spread](https://apnews.com/article/mpox-kenya-central-african-republic-outbreak-disease-7da16b2ccad88b7580318322bb0798ed) (Associated Press)
-
-- [Mpox outbreaks declared in Kenya and Central African Republic. The race is on to contain the spread](https://abcnews.go.com/Health/wireStory/mpox-outbreaks-declared-kenya-central-african-republic-race-112457952) (ABC News)
-
-- [Mpox outbreaks declared in Kenya and Central African Republic. The race is on to contain the spread](https://abcnews.go.com/International/wireStory/mpox-outbreaks-declared-kenya-central-african-republic-race-112457833) (ABC News)
-
-- [Central African Republic declares mpox outbreak, works to stop spread](https://www.voanews.com/a/central-african-republic-declares-mpox-outbreak-works-to-stop-spread/7724863.html) (VOA News)
-
-- [Ministry of Health confirms first Mpox case at Taita Taveta border](https://www.citizen.digital/news/ministry-of-health-confirms-first-mpox-case-at-taita-taveta-border-n346911) (Citizen.digital)
-
-- [Ministry of Health confirms Mpox outbreak in Kenya](https://www.tv47.digital/ministry-of-health-confirms-mpox-outbreak-in-kenya-65370/) (Tv47.digital)
-
-- [Ministry of Health Confirms Mpox Outbreak in Taita](https://www.kenyans.co.ke/news/103305-kenya-confirms-outbreak-deadly-mpox) (Kenyans.co.ke)
-
-- [Kenya confirms first Mpox case](https://nation.africa/kenya/health/kenya-confirms-first-mpox-case-4708722) (Nation.africa)
-
-- [Une entreprise liégeoise a développé un test rapide de détection de la variole du singe](https://www.lavenir.net/actu/belgique/2024/07/31/une-entreprise-liegeoise-a-developpe-un-test-rapide-de-detection-de-la-variole-du-singe-ZNEHPWLBTJCFBCSRRLAZKCBI5M/) (Lavenir.net)
-
-- [Central African Republic latest to declare mpox outbreak](https://www.bbc.com/news/articles/cm52rk2el81o) (BBC News)
-
-- [Mpox: two years on](https://www.bmj.com/content/386/bmj.q1554) (The BMJ)
-
-- [Восточноафриканское сообщество предупредило о распространении оспы обезьян](https://tass.ru/obschestvo/21485171) (Tass.ru)
-
-- [Regional block EAC issues alert over spread of Mpox](https://www.thestar.com.my/news/world/2024/07/30/regional-block-eac-issues-alert-over-spread-of-mpox) (The Star Online)
-
-- [Mpox: Wie gefährlich die neue Affenpocken-Variante wirklich ist](https://www.spektrum.de/news/wie-gefaehrlich-die-neue-affenpocken-variante-wirklich-ist/2226444) (Spektrum.de)
-
-- [El ECDC asegura que el riesgo de que llegue la nueva variante de mpox a Europa es "muy bajo"](https://www.infosalus.com/salud-investigacion/noticia-ecdc-asegura-riesgo-llegue-nueva-variante-mpox-europa-muy-20240729183622.html) (Infosalus.com)
-
-## 24-31 (meningitis)
-
-- [Healthcare Workers Are Revealing The Scariest Moments Of Their Entire Career](https://www.buzzfeed.com/carleysuthers/medical-professionals-reveal-scary-moments) (Buzzfeed)
-
-- [¿Las meningitis son frecuentes? Estos son los signos de infeccion en un niño](https://www.infosalus.com/salud-investigacion/noticia-meningitis-son-frecuentes-son-signos-infeccion-nino-20240731083649.html) (Infosalus.com)
-
-- [Luis Canut, marido de Patricia Pérez, celebra que ha recibido el alta médica](https://www.hola.com/actualidad/20240729709652/luis-canut-recibe-alta-medica/) (Hola)
-
-## 24-31 (measles)
-
-- [As Measles cases climb, experts urge shots before schools return](https://www.cbsnews.com/minnesota/news/as-measles-cases-climb-experts-urge-shots-before-schools-return/) (CBS News)
-
-- [Measles 2024: ‘Merica, are you okay?](https://sciencebasedmedicine.org/measles-2024-merica-are-you-okay/) (Sciencebasedmedicine.org)
-
-- [Measles cases rise to 81 so far this year with four outbreaks in past five weeks](https://www.independent.ie/irish-news/measles-cases-rise-to-81-so-far-this-year-with-four-outbreaks-in-past-five-weeks/a918013937.html) (Independent.ie)
-
-- [Measles confirmed in LAX traveler who went to Orange County](https://www.foxla.com/news/measles-confirmed-lax-orange-county) (FOX 11 Los Angeles)
-
-- [Measles case travelled on Tallinn ferry](https://yle.fi/a/74-20102463) (YLE News)
-
-- [MDH urges patients to vaccinate children for measles](https://www.fox9.com/news/mdh-urges-patients-vaccinate-children-measles) (FOX 9)
-
-- [That’s a cunning way to defund education and kill a lot of children](https://freethoughtblogs.com/pharyngula/2024/07/28/thats-a-cunning-way-to-defund-education-and-kill-a-lot-of-children/) (Freethoughtblogs.com)
-
-## 24-31 (malaria)
-
-- [I have almost departed](https://whyevolutionistrue.com/2024/08/03/i-have-almost-departed/) (Whyevolutionistrue.com)
-
-- [With over 2000 cases, malaria grips villages in Bijapur district now](https://timesofindia.indiatimes.com/city/raipur/with-over-2000-cases-malaria-grips-villages-in-bijapur-district-now/articleshow/112245586.cms) (The Times of India)
-
-- [I caught malaria in a medical trial to fund my Edinburgh Fringe show](https://www.bbc.com/news/articles/c0jqxe44g7go) (BBC News)
-
-- [Ansatz für neue Therapien: Schwachstelle des Malariaerregers entdeckt](https://www.faz.net/aktuell/rhein-main/region-und-hessen/giessener-forscher-haben-schwachstelle-des-malariaerregers-entdeckt-19886437.html) (Faz.net)
-
-- [노을, 아시아∙아프리카 고위급 인사 초청해 의료AI 기술 시연](https://www.venturesquare.net/934851) (Venturesquare.net)
-
-- [Mumbai sees uptick in malaria, H1N1 cases in July, drop in dengue](https://www.business-standard.com/india-news/mumbai-sees-uptick-in-malaria-h1n1-cases-in-july-drop-in-dengue-124073101741_1.html) (Business Standard)
-
-- [Dengue, malaria, H1N1 flu cases double in 2nd fortnight of July](https://timesofindia.indiatimes.com/city/mumbai/increase-in-dengue-malaria-and-h1n1-flu-cases-in-mumbai-during-july/articleshow/112178941.cms) (The Times of India)
-
-- [Aster DM Healthcare Q1FY25 results: Net profit rises 81.3% to Rs 81 cr](https://www.business-standard.com/companies/results/aster-dm-healthcare-q1fy25-results-net-profit-rises-81-3-to-rs-81-cr-124073101564_1.html) (Business Standard)
-
-- [After a harrowing year of health issues, Patriots’ Calvin Anderson feels ‘refreshed’ in training camp](https://www.bostonglobe.com/2024/07/31/sports/patriots-calvin-anderson-bill-belichick/) (The Boston Globe)
-
-- [Engineered microbes found to repel mosquitoes](https://phys.org/news/2024-07-microbes-repel-mosquitoes.html) (Phys.Org)
-
-- [Avoid poor treatment of malaria, may cause kidney damage – Specialists](https://punchng.com/avoid-poor-treatment-of-malaria-may-cause-kidney-damage-specialists/) (The Punch)
-
-- [三大感染症に取り組むグローバルファンドの調達部門責任者に聞く、日本企業への期待](https://bio.nikkeibp.co.jp/atcl/news/p1/24/07/26/12188/) (Nikkeibp.co.jp)
-
-- [Urgent action needed to stop spread of drug-resistant malaria, scientists warn](https://www.voanews.com/a/urgent-action-needed-to-stop-spread-of-drug-resistant-malaria-scientists-warn/7716915.html) (VOA News)
-
-- [Association of a rapidly selected 4.3kb transposon-containing structural variation with a P450-based resistance to pyrethroids in the African malaria vector Anopheles funestus](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011344) (Plos.org)
-
-- [Cost-effectiveness of sentinel screening of endemic diseases alongside malaria diagnosis: A case study in schistosomiasis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012339) (Plos.org)
-
-## 24-31 (leptospirosis)
-
-- [Mumbai sees uptick in malaria, H1N1 cases in July, drop in dengue](https://www.business-standard.com/india-news/mumbai-sees-uptick-in-malaria-h1n1-cases-in-july-drop-in-dengue-124073101741_1.html) (Business Standard)
-
-## 24-31 (hpai)
-
-- [Helport AI Limited and Tristar Acquisition I Corp. Announce Closing of Business Combination and listing on Nasdaq](https://www.globenewswire.com/news-release/2024/08/02/2923840/0/en/Helport-AI-Limited-and-Tristar-Acquisition-I-Corp-Announce-Closing-of-Business-Combination-and-listing-on-Nasdaq.html) (GlobeNewswire)
-
-- [HPAI H5N1 virus could pose significant threat to Georgia's poultry farms, warns expert](https://phys.org/news/2024-08-hpai-h5n1-virus-pose-significant.html) (Phys.Org)
-
-- [Bird Flu BS](https://www.activistpost.com/2024/07/bird-flu-bs.html) (Activistpost.com)
-
-- [Colorado Reports Its 10th Human Bird Flu Case](https://legalinsurrection.com/2024/07/colorado-reports-its-10th-human-bird-flu-case/) (Legalinsurrection.com)
-
-## 24-31 (h5n1)
-
-- [HPAI H5N1 virus could pose significant threat to Georgia's poultry farms, warns expert](https://phys.org/news/2024-08-hpai-h5n1-virus-pose-significant.html) (Phys.Org)
-
-- [Bird flu pandemic fears as new route of transmission found](https://www.gbnews.com/health/bird-flu-uk-pandemic-symptoms) (Gbnews.com)
-
-- [Troubling bird flu study suggests human cases are going undetected](https://arstechnica.com/science/2024/08/troubling-bird-flu-study-suggests-human-cases-are-going-undetected/) (Ars Technica)
-
-- [Bird Flu BS](https://www.activistpost.com/2024/07/bird-flu-bs.html) (Activistpost.com)
-
-- [Gilead: Wie der habgierigste Pharmakonzern der Welt den Kampf gegen Aids blockiert](https://www.stern.de/panorama/wissen/aids--wie-gilead-den-kampf-gegen-die-krankheit-verhindert-34929414.html) (STERN.de)
-
-- [Ptačí chřipka se v USA šíří mezi savci. Co čeká lidi?](https://vtm.zive.cz/clanky/ptaci-chripka-se-v-usa-siri-mezi-savci-co-ceka-lidi/sc-870-a-229389/default.aspx) (Zive.cz)
-
-- [Vogelgrippe: „Wir haben Impfstoffe, die zugelassen sind“](https://www.morgenpost.de/ratgeber-wissen/article406885887/vogelgrippe-wir-haben-impfstoffe-die-zugelassen-sind.html) (Berliner Morgenpost)
-
-- [Cow challenge study should help turn tables on H5N1 in dairy herds](https://phys.org/news/2024-07-cow-tables-h5n1-dairy-herds.html) (Phys.Org)
-
-- [The Bird Flu Threat Keeps Growing](https://www.wired.com/story/bird-flu-human-transmission-colorado-farms-poultry-usa/) (Wired)
-
-- [Pandemiegefahr: Forscher über Vogelgrippe: "Der Geist ist aus der Flasche entkommen"](https://www.stern.de/panorama/wissen/forscher-ueber-vogelgrippe---der-geist-ist-aus-der-flasche-entkommen--34925940.html) (STERN.de)
-
-- [La OMS impulsa una iniciativa para avanzar en el desarrollo de vacunas de ARNm contra la gripe aviar humana](https://www.infosalus.com/actualidad/noticia-oms-impulsa-iniciativa-avanzar-desarrollo-vacunas-arnm-contra-gripe-aviar-humana-20240729180521.html) (Infosalus.com)
-
-- [WHO launches initiative to fast-track mRNA vaccine innovation for human health](https://www.premiumtimesng.com/health/health-news/718435-who-launches-initiative-to-fast-track-mrna-vaccine-innovation-for-human-health.html) (Premium Times)
-
-- [Vogelgrippe: Argentinische Firma entwickelt mRNA-Vogelgrippe-Impfstoff](https://www.tagesspiegel.de/wissen/vogelgrippe-argentinische-firma-entwickelt-mrna-vogelgrippe-impfstoff-12108764.html) (Der Tagesspiegel)
-
-- [Vogelgrippe: Argentinische Firma entwickelt mRNA-Vogelgrippe-Impfstoff](https://www.zeit.de/news/2024-07/29/argentinische-firma-entwickelt-mrna-vogelgrippe-impfstoff) (Die Zeit)
-
-- [Bird flu: Human cases in US rise to 13 following poultry farm outbreak](https://www.bmj.com/content/386/bmj.q1691) (The BMJ)
-
-- [Kuş gribi aşısı geliştirmeyi hızlandıracak çalışma başlatıldı](https://www.haberturk.com/kus-gribine-karsi-asi-gelistirmeyi-hizlandiracak-calisma-baslatti-haberler-3706686) (Haberturk.com)
-
-- [La OMS busca desarrollar vacunas ARNm contra la gripe aviar, la «potencial» futura pandemia](https://www.abc.es/sociedad/oms-busca-desarrollar-vacunas-arnm-gripe-aviar-20240729121854-nt.html) (Www.abc.es)
-
-- [DSÖ'nün de yer aldığı oluşum, kuş gribine karşı aşı geliştirmeyi hızlandıracak çalışma başlattı](https://www.aa.com.tr/tr/saglik/dsonun-de-yer-aldigi-olusum-kus-gribine-karsi-asi-gelistirmeyi-hizlandiracak-calisma-baslatti/3288247) (Anadolu Agency)
-
-- [Bird flu snapshot: H5N1 vaccine work starts in Argentina](https://www.statnews.com/2024/07/29/bird-flu-snapshot-h5n1-vaccine-mrna-argentina-who/) (STAT)
-
-- [New initiative launched to advance mRNA vaccine development against human avian influenza (H5N1)](https://www.who.int/news/item/29-07-2024-new-initiative-launched-to-advance-mrna-vaccine-development-against-human-avian-influenza-(h5n1)) (World Health Organization)
-
-- [To help prevent another pandemic, we must protect US farmworkers from avian flu](https://www.bostonglobe.com/2024/07/29/opinion/avian-flu-birds-cows-farmworkers/) (The Boston Globe)
-
-## 24-31 (dengue)
-
-- [Morelos reporta 13 muertes por dengue: ¿Cuáles son las precauciones para evitar contagios?](https://www.elfinanciero.com.mx/estados/2024/08/03/morelos-reporta-13-muertes-por-dengue-cuales-son-las-precauciones-para-evitar-contagios/) (El Financiero)
-
-- [Maharashtra: Dengue cases in Jan-July double of 7 months of 2023](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-dengue-cases-in-jan-july-double-of-7-months-of-2023/articleshow/112253268.cms) (The Times of India)
-
-- [Highest no. of dengue cases reported from Mapusa since Jan](https://timesofindia.indiatimes.com/city/goa/highest-no-of-dengue-cases-reported-from-mapusa-since-jan/articleshow/112253248.cms) (The Times of India)
-
-- [Lulu Santos é internado em clínica no Rio e cancela show em festival](https://www.terra.com.br/diversao/musica/lulu-santos-e-internado-em-clinica-no-rio-e-cancela-show-em-festival,4e0f085d5788e4042102453fb157cb142w8q82k6.html) (Terra.com.br)
-
-- [Galkot Municipality alarmed over rising dengue, scrub typhus cases](https://english.khabarhub.com/2024/03/368539/) (Khabarhub.com)
-
-- [Dengue cases drop to 2,609 last week, four deaths reported](https://www.thestar.com.my/news/nation/2024/08/03/dengue-cases-drop-to-2609-last-week-four-deaths-reported) (The Star Online)
-
-- [Drones estão liberando mosquitos pelo planeta — e isso é ótimo!](https://olhardigital.com.br/2024/08/03/medicina-e-saude/drones-estao-liberando-mosquitos-pelo-planeta-e-isso-e-otimo/) (Olhardigital.com.br)
-
-- [Albopictus, mosquito that caused dengue surges in 1950s, back in Kolkata](https://timesofindia.indiatimes.com/city/kolkata/albopictus-mosquito-that-caused-dengue-surges-in-1950s-back-in-kolkata/articleshow/112238126.cms) (The Times of India)
-
-- [Lulu Santos é internado com suspeita de dengue](https://www.terra.com.br/diversao/musica/lulu-santos-e-internado-com-suspeita-de-dengue,920bdedee90f47eed2bbc6bee9b402c1snxrqrcd.html) (Terra.com.br)
-
-- [Aos 71 anos, Lulu Santos é internado no Rio de Janeiro e cancela show](https://www.terra.com.br/diversao/gente/aos-71-anos-lulu-santos-e-internado-no-rio-de-janeiro-e-cancela-show,a81b6f4772e66b1a7de580ef8884e533rkoq987y.html) (Terra.com.br)
-
-- [Aos 71 anos, Lulu Santos é internado no Rio de Janeiro](https://www.terra.com.br/diversao/gente/aos-71-anos-lulu-santos-e-internado-no-rio-de-janeiro,a81b6f4772e66b1a7de580ef8884e533rkoq987y.html) (Terra.com.br)
-
-- [Over half of Maharashtra's dengue cases this year reported in July](https://timesofindia.indiatimes.com/city/mumbai/over-half-of-maharashtras-dengue-cases-this-year-reported-in-july/articleshow/112233068.cms) (The Times of India)
-
-- [21% dengue tests return positive as case count surpasses 8.5k in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/21-dengue-tests-return-positive-as-case-count-surpasses-8-5k-in-bengaluru/articleshow/112232390.cms) (The Times of India)
-
-- [Premier cas autochtone de dengue détecté en Provence-Alpes Côte d'Azur cet été](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/premier-cas-autochtone-de-dengue-detecte-en-provence-alpes-cote-d-azur-cet-ete-3013493.html) (Francetvinfo.fr)
-
-- [Erste Fälle: Oropouche-Fieber in Deutschland – wie gefährlich ist das Tropenvirus?](https://www.stern.de/gesundheit/tropenvirus--oropouche-fieber-in-deutschland-entdeckt---was-ist-das--34823574.html) (STERN.de)
-
-- [DGS recomenda prevenção e controlo de mosquitos que transmitem dengue e zika](https://greensavers.sapo.pt/dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika/) (Sapo.pt)
-
-- [Les moustiques n’ont qu’à bien se tenir : un répulsif efficace pendant plus d’une semaine vient d’être découvert](https://www.presse-citron.net/les-moustiques-nont-qua-bien-se-tenir-un-repulsif-efficace-pendant-plus-dune-semaine-vient-detre-decouvert/) (Presse-citron)
-
-- [What you should know about Asian tiger mosquitos arriving in Europe](https://www.nationalgeographic.com/travel/article/asian-tiger-mosquitos-in-europe) (National Geographic)
-
-- [Arranca el plan de un laboratorio español para combatir el mosquito más peligroso para Europa](https://www.huffingtonpost.es/sociedad/arranca-plan-laboratorio-espanol-combatir-mosquito-mas-peligroso-europa.html) (Huffingtonpost.es)
-
-- [Mosquitos que transmitem dengue e zika levam DGS a lançar apelos](https://ionline.sapo.pt/2024/08/01/mosquitos-que-transmitem-dengue-e-zika-levam-dgs-a-lancar-apelos/) (Sapo.pt)
-
-- [Mosquito que transmite dengue e zika encontrado em Cascais e Pombal. DGS recomenda medidas de proteção](https://observador.pt/2024/08/01/mosquito-que-transmite-dengue-e-zika-encontrado-em-cascais-e-pombal-dgs-recomenda-medidas-de-protecao/) (Observador.pt)
-
-- [DGS recomenda prevenção e controlo de mosquitos que transmitem dengue e zika](https://expresso.pt/sociedade/saude/2024-08-01-dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika-dc730a2e) (Expresso.pt)
-
-- [Collecting, Storing, and Hatching Aedes aegypti Eggs](https://cshprotocols.cshlp.org/content/2024/8/pdb.prot108183.full?rss=1) (Cshlp.org)
-
-- [V španielskom laboratóriu sterilizujú komáre. Vedci tým chcú zabrániť šíreniu chorôb](https://vat.pravda.sk/zem/clanok/719276-v-laboratoriu-vo-valencii-sterilizuju-komare-aby-zabranili-sireniu-chorob/) (Pravda.sk)
-
-- [Klimawandel bringt „exotische“ Krankheiten](https://ooe.orf.at/stories/3267153/) (Ooe.orf.at)
-
-- [DGS recomenda prevenção e controlo de mosquitos que transmitem dengue e zika](https://observador.pt/2024/08/01/dgs-recomenda-prevencao-e-controlo-de-mosquitos-que-transmitem-dengue-e-zika/) (Observador.pt)
-
-- [Socioeconomic and environmental factors associated with dengue fever incidence in Guatemala: Rising temperatures increase dengue risk](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308271) (Plos.org)
-
-- [Sterilizarea țânțarilor, soluție inedită pentru limitarea unei boli tropicale care se întinde și în Europa](http://hotnews.ro/sterilizarea-tantarilor-solutie-inedita-pentru-limitarea-unei-boli-tropicale-care-se-intinde-si-in-europa-1762486) (Hotnews.ro)
-
-- [Spanish lab sterilises mosquitoes as climate change fuels spread of dengue fever](https://www.channelnewsasia.com/business/spanish-lab-sterilises-mosquitoes-climate-change-fuels-spread-dengue-fever-4520336) (CNA)
-
-- [Dropping infected mosquitoes from a drone is now a thing](https://newatlas.com/drones/infected-mosquitoes-drone-delivery/) (New Atlas)
-
-- [Dengue Fever Is a Health Threat at the Paris Olympics and in the US. Here's How to Stay Safe](https://www.cnet.com/health/medical/dengue-fever-health-threat-paris-olympics-us-how-to-stay-safe/) (CNET)
-
-- [OPS: casos de dengue se duplican cada década](https://www.jornada.com.mx/2024/08/01/politica/016n2pol) (Jornada.com.mx)
-
-- [Repelente natural feito de bactérias afasta mosquitos por dias (até o da dengue)](https://olhardigital.com.br/2024/08/01/medicina-e-saude/repelente-natural-feito-de-bacterias-afasta-mosquitos-por-dias-ate-o-da-dengue/) (Olhardigital.com.br)
-
-- [Governo Lula já discute fim da epidemia de dengue](https://www.metropoles.com/blog-do-noblat/governo-lula-ja-discute-fim-da-epidemia-de-dengue) (Metropoles.com)
-
-- [Mumbai sees uptick in malaria, H1N1 cases in July, drop in dengue](https://www.business-standard.com/india-news/mumbai-sees-uptick-in-malaria-h1n1-cases-in-july-drop-in-dengue-124073101741_1.html) (Business Standard)
-
-- [Dengue, malaria, H1N1 flu cases double in 2nd fortnight of July](https://timesofindia.indiatimes.com/city/mumbai/increase-in-dengue-malaria-and-h1n1-flu-cases-in-mumbai-during-july/articleshow/112178941.cms) (The Times of India)
-
-- [Aster DM Healthcare Q1FY25 results: Net profit rises 81.3% to Rs 81 cr](https://www.business-standard.com/companies/results/aster-dm-healthcare-q1fy25-results-net-profit-rises-81-3-to-rs-81-cr-124073101564_1.html) (Business Standard)
-
-- [Over 2,000 dengue cases reported nationwide](https://english.khabarhub.com/2024/31/368135/) (Khabarhub.com)
-
-- [Ungewolltes medizinisches Experiment : Das Dengue-Virus und die Tigermücke treffen sich in Paris](https://www.tagesspiegel.de/gesundheit/ungewolltes-medizinisches-experiment-das-dengue-virus-und-die-tigermucke-treffen-sich-in-paris-12112439.html) (Der Tagesspiegel)
-
-- [Engineered microbes found to repel mosquitoes](https://phys.org/news/2024-07-microbes-repel-mosquitoes.html) (Phys.Org)
-
-- [Virüs tehlikesi kapımıza dayandı! İran’da vaka sayısı 12’ye yükseldi… ‘Bu türün yayılımı artarsa bizde de benzer durumlar görülebilir!](https://www.hurriyet.com.tr/aile/virus-tehlikesi-kapimiza-dayandi-iranda-vaka-sayisi-12ye-yukseldi-bu-turun-yayilimi-artarsa-bizde-de-benzer-durumlar-gorulebilir-42497066) (Hurriyet.com.tr)
-
-- [Mortes por dengue aumentam 1.726%, mas faltam 4 mil agentes de saúde](https://www.metropoles.com/distrito-federal/mortes-por-dengue-aumentam-1-726-mas-faltam-4-mil-agentes-de-saude) (Metropoles.com)
-
-- [Oropouche: casos aumentam e possível interação com Aedes preocupa](https://www.metropoles.com/saude/oropouche-casos-aumentam-e-possivel-interacao-com-aedes-preocupa) (Metropoles.com)
-
-- [COVID-19 and Dengue Fever Are Paris Olympics Threats](https://www.everydayhealth.com/infectious-diseases/paris-olympic-games-pose-health-risks-to-athletes-and-fans-alike/) (Everyday Health)
-
-- [Pharmaindustrie: Wachstumsmotor Generika [Online-Abo]](https://www.jungewelt.de/artikel/480631.pharmaindustrie-wachstumsmotor-generika.html) (Jungewelt.de)
-
-- [Dengue: Campinas tem menor nº de novos casos no ano, mas Saúde reforça importância de medidas da prevenção: 'Para ser feitas sempre'](https://g1.globo.com/sp/campinas-regiao/noticia/2024/07/29/dengue-campinas-tem-menor-no-de-novos-casos-no-ano-mas-saude-reforca-importancia-de-medidas-da-prevencao-para-ser-feitas-sempre.ghtml) (Globo)
-
-- [Avoid Dengue Fever, West Nile Virus This Summer: 4 Tips to Help Repel Mosquitos](https://www.cnet.com/health/personal-care/avoid-dengue-fever-west-nile-virus-this-summer-4-tips-to-help-repel-mosquitos/) (CNET)
-
-- [Could prophylactic antivirals reduce dengue incidence in a high-prevalence endemic area?](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012334) (Plos.org)
-
-- [Drohende Epidemie: Olympischer Mückenschreck](https://taz.de/Drohende-Epidemie/!6023758/) (taz.de)
-
-- [Forscher fürchten Epidemie: Warnung vor Superspreader Olympia](https://taz.de/Forscher-fuerchten-Epidemie/!6023758/) (taz.de)
-
-- [Brazil deaths: What is Oropouche fever? Symptoms and causes](https://www.dw.com/en/brazil-deaths-what-is-oropouche-fever-symptoms-and-causes/a-69466634) (DW (English))
-
-- [Death in Brazil: What is Oropouche fever?](https://www.dw.com/en/death-in-brazil-what-is-oropouche-fever/a-69466634) (DW (English))
-
-## 24-31 (chikungunya)
-
-- [Ile-de-France : Le premier cas autochtone de chikungunya de l’année détecté](https://www.20minutes.fr/sante/4104228-20240802-ile-france-premier-cas-autochtone-chikungunya-annee-detecte) (20 Minutes)
-
-- [Mosquito que transmite dengue e zika encontrado em Cascais e Pombal. DGS recomenda medidas de proteção](https://observador.pt/2024/08/01/mosquito-que-transmite-dengue-e-zika-encontrado-em-cascais-e-pombal-dgs-recomenda-medidas-de-protecao/) (Observador.pt)
-
-- [Collecting, Storing, and Hatching Aedes aegypti Eggs](https://cshprotocols.cshlp.org/content/2024/8/pdb.prot108183.full?rss=1) (Cshlp.org)
-
-- [Klimawandel bringt „exotische“ Krankheiten](https://ooe.orf.at/stories/3267153/) (Ooe.orf.at)
-
-- [Donna di 70 anni morta dopo puntura di zanzara tigre. Ipotesi caso di Chikungunya](https://www.ilfattoquotidiano.it/2024/07/30/donna-di-70-anni-morta-dopo-puntura-di-zanzara-tigre-ipotesi-caso-di-chikungunya/7642174/) (Ilfattoquotidiano.it)
