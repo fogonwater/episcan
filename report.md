@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-09-15 19:05
-- **Most recent article:** 2024-09-14 18:46:57
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-09-16 07:06
+- **Most recent article:** 2024-09-15 07:01:01
 
 ---
 
@@ -10,28 +10,36 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | Total |
-|--|-|-|-|-|-|-|-|
-| mpox | 134 | 292 | 208 | 207 | 184 | 170 | 1195 |
-| dengue | 41 | 52 | 64 | 45 | 49 | 76 | 327 |
-| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 116 |
-| h5n1 | 5 | 8 | 5 | 10 | 31 | 10 | 69 |
-| zika | 11 | 10 | 21 | 2 | 6 | 10 | 60 |
-| chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 41 |
-| measles | 6 | 3 | 7 | 11 | 9 | 5 | 41 |
-| rabies | 7 | 12 | 6 | 3 | 7 | 5 | 40 |
-| meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 38 |
-| pertussis | 6 | 3 | 5 | 2 | 1 | 4 | 21 |
-| leptospirosis | 2 | 2 | 4 | 0 | 1 | 0 | 9 |
-| hpai | 1 | 1 | 1 | 0 | 3 | 1 | 7 |
-| yersinia | 1 | 0 | 1 | 1 | 2 | 0 | 5 |
-| typhoid | 0 | 1 | 2 | 1 | 1 | 0 | 5 |
-| shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Disease | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | Total |
+|--|-|-|-|-|-|-|-|-|
+| mpox | 138 | 292 | 208 | 207 | 184 | 175 | 1 | 1205 |
+| dengue | 44 | 52 | 64 | 45 | 49 | 76 | 0 | 330 |
+| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 0 | 116 |
+| h5n1 | 6 | 8 | 5 | 10 | 31 | 10 | 0 | 70 |
+| zika | 11 | 10 | 21 | 2 | 6 | 10 | 0 | 60 |
+| rabies | 8 | 12 | 6 | 3 | 7 | 5 | 1 | 42 |
+| chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 0 | 41 |
+| measles | 6 | 3 | 7 | 11 | 9 | 5 | 0 | 41 |
+| meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 0 | 38 |
+| pertussis | 6 | 3 | 5 | 2 | 1 | 5 | 0 | 22 |
+| leptospirosis | 2 | 2 | 4 | 0 | 1 | 0 | 0 | 9 |
+| hpai | 1 | 1 | 1 | 0 | 3 | 1 | 0 | 7 |
+| yersinia | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 5 |
+| typhoid | 0 | 1 | 2 | 1 | 1 | 0 | 0 | 5 |
+| shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-38 (rabies)
+
+- [When our furry friends turn rabid due to rabies](https://www.thestar.com.my/lifestyle/health/know-your-medicines/2024/09/15/when-our-furry-friends-turn-rabid-due-to-rabies) (The Star Online)
+
+## 24-38 (mpox)
+
+- [Pakistan: Another case of mpox reported at Karachi Airport](https://economictimes.indiatimes.com/news/international/world-news/pakistan-another-case-of-mpox-reported-at-karachi-airport/articleshow/113360010.cms) (The Times of India)
 
 ## 24-37 (zika)
 
@@ -69,6 +77,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (pertussis)
 
+- [Coyotes football game at Portland State called off due to illness](https://www.mitchellrepublic.com/sports/college/coyotes-football-game-at-portland-state-called-off-due-to-illness) (Mitchellrepublic.com)
+
 - [College Football Game Canceled Less Than Three Hours Before Kickoff Due To 450-Year-Old Illness](https://brobible.com/sports/article/college-football-whooping-cough-portland-state-south-dakota-cancelled/) (BroBible)
 
 - [Alaska records 1st infant death from whooping cough, state health officials confirm](https://www.alaskasnewssource.com/2024/09/12/alaskan-records-1st-infant-death-whooping-cough-state-health-officials-confirm/) (Alaskasnewssource.com)
@@ -78,6 +88,12 @@ Source: [News API](https://newsapi.org/)
 - [Whooping Cough Cases Rise In U.S. Following Pattern Seen Worldwide](https://www.forbes.com/sites/joshuacohen/2024/09/10/whooping-cough-cases-rise-in-us-following-pattern-seen-worldwide/) (Forbes)
 
 ## 24-37 (mpox)
+
+- [O MPox ou Varíola M](https://observador.pt/opiniao/o-mpox-ou-variola-m/) (Observador.pt)
+
+- [اثربخشی ۵۸ درصدی واکسن باوارین نوردیک علیه mpox](https://www.balatarin.com:443/permlink/2024/9/13/6221613) (Balatarin.com)
+
+- [Cross River confirms two Mpox cases](https://punchng.com/cross-river-confirms-two-mpox-cases/) (The Punch)
 
 - [Δέκα κρούσματα της ευλογιάς των πιθήκων από πιο μεταδοτικό στέλεχος ανακοίνωσε η Ουγκάντα](https://www.newsit.gr/kosmos/eylogia-ton-pithikon-deka-krousmata-apo-pio-metadotiko-stelexos-anakoinose-i-ougkanta/4179837/) (Newsit.gr)
 
@@ -139,6 +155,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox : le feu vert de l'OMS au vaccin va permettre d'accélerer sa diffusion](https://www.lalibre.be/planete/sante/2024/09/13/mpox-le-feu-vert-de-loms-au-vaccin-va-permettre-daccelerer-sa-diffusion-VN7N4AJ355CATKKFOYOI5UHV7I/) (Lalibre.be)
 
+- [Dünya Sağlık Örgütü, M Çiçeği virüsüne karşı ilk aşıya onay verdi](https://anlatilaninotesi.com.tr/20240913/dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi-1087986627.html) (Anlatilaninotesi.com.tr)
+
 - [Mpox : le feu vert de l'OMS au vaccin va permettre d'accélerer sa diffusion](https://www.dhnet.be/actu/sante/2024/09/13/mpox-le-feu-vert-de-loms-au-vaccin-va-permettre-daccelerer-sa-diffusion-NXSPPK2ZWZE5DAENBOMTOLZBB4/) (dh.be)
 
 - [WHO approves Bavarian Nordic’s mpox vaccine](https://www.politico.eu/article/who-approves-bavarian-nordics-mpox-vaccine/) (POLITICO.eu)
@@ -148,6 +166,8 @@ Source: [News API](https://newsapi.org/)
 - [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.aa.com.tr/tr/saglik/dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi/3329420) (Anadolu Agency)
 
 - [WHO grants first mpox vaccine approval to ramp up response to disease in Africa and beyond](https://abcnews.go.com/International/wireStory/grants-mpox-vaccine-approval-ramp-response-disease-africa-113655332) (ABC News)
+
+- [WHO clears Bavarian Nordic's vaccine as first shot against mpox](https://economictimes.indiatimes.com/news/international/world-news/who-clears-bavarian-nordics-vaccine-as-first-shot-against-mpox/articleshow/113323359.cms) (The Times of India)
 
 - [WHO grants first mpox vaccine approval to ramp up response to disease in Africa](https://www.bostonherald.com/2024/09/13/who-grants-first-mpox-vaccine-approval-to-ramp-up-response-to-disease-in-africa/) (Boston Herald)
 
@@ -3679,6 +3699,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Factors associated with the spatiotemporal distribution of dog rabies in Tunisia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012296) (Plos.org)
 
+- [Stephen King minns inte att han skrivit boken](https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken) (Svenska Dagbladet)
+
 ## 24-32 (pertussis)
 
 - [State issues public health alert over rising rates of whooping cough](https://www.alaskasnewssource.com/2024/08/08/state-issues-public-health-alert-over-rising-rates-whooping-cough/) (Alaskasnewssource.com)
@@ -3963,6 +3985,14 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO considers convening emergency committee on mpox](https://punchng.com/who-considers-convening-emergency-committee-on-mpox/) (The Punch)
 
+- [News24 | Gauteng man who returned from Peru one of two new positive Mpox cases](https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804) (News24)
+
+- [Tanzania steps up border surveillance as mpox cases reported in neighboring countries](https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries) (The Star Online)
+
+- [Mpox latest: Department of Health calls for vigilance as cases re-emerge](https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/) (The South African)
+
+- [Вирус оспы обезьян атаковал новую страну](https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml) (Gazeta.ru)
+
 ## 24-32 (meningitis)
 
 - [Burden and bacterial etiology of neonatal meningitis at Hawassa University Comprehensive Specialized Hospital, Hawassa, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308523) (Plos.org)
@@ -4044,6 +4074,8 @@ Source: [News API](https://newsapi.org/)
 - [Why Isn’t the Government Protecting Farm Workers From the Bird Flu?](https://newrepublic.com/article/184589/bird-flu-dairy-farm-workers-government-regulations) (The New Republic)
 
 - [Cocirculation of Genetically Distinct Highly Pathogenic Avian Influenza H5N5 and H5N1 Viruses in Crows, Hokkaido, Japan](https://wwwnc.cdc.gov/eid/article/30/9/24-0356_article) (Cdc.gov)
+
+- [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
 
@@ -4128,6 +4160,12 @@ Source: [News API](https://newsapi.org/)
 - [La preocupante lista de la OMS con los patógenos que podrían disparar la próxima pandemia](https://www.nationalgeographic.com.es/ciencia/amenaza-invisible-oms-actualiza-lista-patogenos-pandemicos_22960) (Nationalgeographic.com.es)
 
 - [Brasil se aproxima de 5 mil mortes por dengue em 2024](https://saude.ig.com.br/2024-08-04/brasil-se-aproxima-de-5-mil-mortes-por-dengue-em-2024.html) (Ig.com.br)
+
+- [Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms) (The Times of India)
+
+- [Batac: Ilocos Norte ups measures vs. dengue after 2 deaths](https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/) (Rpnradio.com)
+
+- [Alarmante alza de contagios de dengue: OPS](https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-32 (chikungunya)
 

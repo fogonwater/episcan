@@ -1,8 +1,116 @@
 {
-  "last_updated": "2024-09-15 19:05",
-  "count_articles_total": 1891,
-  "count_articles_new": 11,
+  "last_updated": "2024-09-16 07:06",
+  "count_articles_total": 1908,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 13536,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Umi Kalthum Mohd Isa",
+      "title": "When our furry friends turn rabid due to rabies",
+      "description": "Rabies is a potentially fatal infection that is usually transmitted through the bite of an infected animal.",
+      "url": "https://www.thestar.com.my/lifestyle/health/know-your-medicines/2024/09/15/when-our-furry-friends-turn-rabid-due-to-rabies",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/09/13/2911178.jpg",
+      "publishedAt": "2024-09-15 07:01:01",
+      "content": "Rabies is a disease transmitted from animals to humans. The World Health Organization (WHO) estimates that rabies causes over 59,000 human deaths annually worldwide, with 90-95% of the fatalities be\u2026 [+7319 chars]",
+      "retrievedAt": "2024-09-16 07:06:31.424613",
+      "internal_id": "8e0b48ce4154d1b0c4c27ce00baf9a8e6294856f2aaea7366863e3f7e26399ce",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13540,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Pakistan: Another case of mpox reported at Karachi Airport",
+      "description": "Authorities at Karachi's Jinnah International Airport have reported a suspected case of monkeypox in a traveller from Jeddah. The individual has been moved to an isolation ward for further assessment. This follows the fifth confirmed case in Khyber Pakhtunkhw\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-another-case-of-mpox-reported-at-karachi-airport/articleshow/113360010.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113360019,width-1200,height-630,imgsize-20934,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-15 01:36:06",
+      "content": "Finance Financial Literacy - TDS, Budget, Income Tax Act, GST, Indirect tax By - CA Rahul Gupta, CA with 10+ years of domain experience, trainer View Program",
+      "retrievedAt": "2024-09-16 07:06:34.239132",
+      "internal_id": "66d678f737011e8d5ab7daf05d555e2789fcadf2cf7f3b21f6df0daf4dd0c8cc",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13535,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Mitchellrepublic.com",
+      "author": "The Daily Republic, Mitchell, S.D.",
+      "title": "Coyotes football game at Portland State called off due to illness",
+      "description": "Sep. 14\u2014HILLSBORO, Ore. \u2014 The University of South Dakota football game with Portland State on Saturday has been canceled due to illness within the Portland State football program. According to USD, a case of pertussis (whooping cough) got into the Viking team\u2026",
+      "url": "https://www.mitchellrepublic.com/sports/college/coyotes-football-game-at-portland-state-called-off-due-to-illness",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "publishedAt": "2024-09-14 23:46:00",
+      "content": "Sep. 14HILLSBORO, Ore. The University of South Dakota football game with Portland State on Saturday has been canceled due to illness within the Portland State football program. According to USD, a c\u2026 [+686 chars]",
+      "retrievedAt": "2024-09-16 07:06:31.157737",
+      "internal_id": "8e52d085de6f46b26e1190b3f44d1affc0994e9d9047566a8d8b7a445e8dbd25",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 13538,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Luis Teixeira",
+      "title": "O MPox ou Var\u00edola M",
+      "description": "O v\u00edrus monkeypox n\u00e3o \u00e9 um v\u00edrus novo, foi identificao em 1958 e o 1.\u00ba caso num humano \u00e9 de 1970. Porque \u00e9 que a OMS est\u00e1 preocupada agora? E por que se debate sobre enviar ou n\u00e3o vacinas para \u00c1frica?",
+      "url": "https://observador.pt/opiniao/o-mpox-ou-variola-m/",
+      "urlToImage": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2015%2F10%2Ffoto_luisteixeira.jpg",
+      "publishedAt": "2024-09-14 23:10:51",
+      "content": "O v\u00edrus monkeypox, ou v\u00edrus da var\u00edola dos macacos, deve o nome a ter sido identificado pela primeira vez num grupo de macacos da esp\u00e9cie Macaca fascicularis, rec\u00e9m-chegados a um laborat\u00f3rio de inve\u2026 [+9972 chars]",
+      "retrievedAt": "2024-09-16 07:06:34.001814",
+      "internal_id": "2cd66b5243fc05a6d786723f0e546384898e6325e50743294b89149cfc262bc8",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 13537,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Balatarin.com",
+      "author": "ariya88",
+      "title": "\u0627\u062b\u0631\u0628\u062e\u0634\u06cc \u06f5\u06f8 \u062f\u0631\u0635\u062f\u06cc \u0648\u0627\u06a9\u0633\u0646 \u0628\u0627\u0648\u0627\u0631\u06cc\u0646 \u0646\u0648\u0631\u062f\u06cc\u06a9 \u0639\u0644\u06cc\u0647 mpox",
+      "description": "\u0628\u0631\u0627\u0633\u0627\u0633 \u0646\u062a\u0627\u06cc\u062c \u06cc\u06a9 \u0645\u0637\u0627\u0644\u0639\u0647 \u062f\u0631 \u0627\u0633\u062a\u0627\u0646 \u0627\u064f\u0646\u062a\u0627\u0631\u06cc\u0648 \u062f\u0631 \u06a9\u0627\u0646\u0627\u062f\u0627\u060c \u06cc\u06a9 \u062f\u0648\u0632 \u0648\u0627\u06a9\u0633\u0646 \u0622\u0628\u0644\u0647 \u0634\u0631\u06a9\u062a \u0628\u0627\u0648\u0627\u0631\u06cc\u0646 \u0646\u0648\u0631\u062f\u06cc\u06a9 \u062d\u062f\u0648\u062f \u06f5\u06f8 \u062f\u0631\u0635\u062f \u0645\u062d\u0627\u0641\u0638\u062a \u0639\u0644\u06cc\u0647 \u0639\u0641\u0648\u0646\u062a mpox (\u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646) \u0627\u06cc\u062c\u0627\u062f \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u0627\u062f\u0639\u0627 \u0634\u062f\u0647 \u06a9\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0627\u06cc\u0646 \u0648\u0627\u06a9\u0633\u0646 \u0628\u0647 \u0645\u0647\u0627\u0631 \u0634\u06cc\u0648\u0639 \u0628\u06cc\u0645\u0627\u0631\u06cc mpox \u062f\u0631 \u06a9\u0627\u0646\u0627\u062f\u0627 \u062f\u0631 \u06f2\u06f0\u06f2\u06f2 \u06a9\u0645\u06a9 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u0648\u0627\u06a9\u0633\u06cc\u0646\u0627\u0633\u06cc\u0648\u0646 \u0628\u0627 \u0627\u2026",
+      "url": "https://www.balatarin.com:443/permlink/2024/9/13/6221613",
+      "urlToImage": "https://s3.amazonaws.com/bala.static/links/00c3b7c7-fac7-4ff0-9ced-ae88f711259f-permlink.jpg",
+      "publishedAt": "2024-09-14 22:16:22",
+      "content": "Copyright \u00a9 2024 Balatarin, LLC",
+      "retrievedAt": "2024-09-16 07:06:33.986745",
+      "internal_id": "3d428696374ecdb865b0c4919b13344945c518eeb0453a5f005f5afb2722e8f8",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 13539,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "Cross River confirms two Mpox cases",
+      "description": "The Cross River State Epidemiologist, Mrs Inyang Ekpenyong, has confirmed two new cases of Mpox in Calabar Municipality Local Government Area. She made the confirmation in a statement issued in Calabar on Saturday. It should be recalled that the state had pre\u2026",
+      "url": "https://punchng.com/cross-river-confirms-two-mpox-cases/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2024-09-14 19:51:22",
+      "content": "The Cross River State Epidemiologist, Mrs Inyang Ekpenyong, has confirmed two new cases of Mpox in Calabar Municipality Local Government Area. She made the confirmation in a statement issued in Cala\u2026 [+896 chars]",
+      "retrievedAt": "2024-09-16 07:06:34.104904",
+      "internal_id": "053f9ef73f4cadff2ebd33c7e62b7ff62f366ec546ff77064fed9501ae8c66d0",
+      "publishedAtLabel": "Sep 14"
+    },
     {
       "id": 13525,
       "query": [
@@ -1098,6 +1206,24 @@
       "publishedAtLabel": "Sep 13"
     },
     {
+      "id": 13542,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc, M \u00c7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 ilk a\u015f\u0131ya onay verdi",
+      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (DS\u00d6), M \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fcne kar\u015f\u0131 \u00f6n yeterlilik alan ilk a\u015f\u0131n\u0131n \"MVA-BN\" oldu\u011funu duyurdu.",
+      "url": "https://anlatilaninotesi.com.tr/20240913/dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi-1087986627.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1087986627.jpg?10868575851726225700",
+      "publishedAt": "2024-09-13 11:05:35",
+      "content": "M \u00e7i\u00e7ei vir\u00fcs\u00fc, fareler ve sincaplar gibi kemirgen hayvanlardan veya enfekte olmu bireylerden bulayor. Vir\u00fcs\u00fcn neden olduu v\u00fccut d\u00f6k\u00fcnt\u00fclerine dokunmak, bu d\u00f6k\u00fcnt\u00fclerin bulat giysi, \u00e7araf, havlu ve b\u2026 [+696 chars]",
+      "retrievedAt": "2024-09-16 07:06:34.281937",
+      "internal_id": "bf93755c8ee45fb3f58bfcc1e8db6743ad48d2b6ec9cdac674751b9b884f0695",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
       "id": 13464,
       "query": [
         "dengue",
@@ -1205,6 +1331,24 @@
       "content": "GENEVA -- The World Health Organization said Friday it has granted its first authorization for use of a vaccine against mpox in adults, calling it an important step toward fighting the disease in Afr\u2026 [+1577 chars]",
       "retrievedAt": "2024-09-14 19:05:34.027139",
       "internal_id": "c8d89c067fb331d6ae1157e628dce454f3c6dbb55c807df7ab044b6b2da8d955",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 13541,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "WHO clears Bavarian Nordic's vaccine as first shot against mpox",
+      "description": "The World Health Organization has approved Bavarian Nordic's mpox vaccine, the first to be cleared for use in African countries affected by the outbreak. This pre-qualification allows developing nations to access the vaccine, ensuring its safety and efficacy.\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/who-clears-bavarian-nordics-vaccine-as-first-shot-against-mpox/articleshow/113323359.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113323422,width-1200,height-630,imgsize-3030,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-13 10:36:19",
+      "content": "The World Health Organization said on Friday it had cleared Bavarian Nordic's mpox vaccine, the first such shot to be approved by the agency for containing the spread of the disease in badly hit Afri\u2026 [+1638 chars]",
+      "retrievedAt": "2024-09-16 07:06:34.276419",
+      "internal_id": "c50dd8beb45596404cd91a6cb73c2b17412dad7bbca2d5775c6376a7994d03c5",
       "publishedAtLabel": "Sep 13"
     },
     {
@@ -34123,6 +34267,168 @@
       "content": "Ground Picture/Shutterstock So far in 2024 there have been more than 17,000 cases of whooping cough (pertussis) across Australia. This is well above our usual national average. It\u2019s already six time\u2026 [+7734 chars]",
       "retrievedAt": "2024-08-06 07:05:59.718814",
       "internal_id": "a8aca7ebf754534c7e7522880a93ace32555568ebfbddfc68c16474cd1c68f1f",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11638,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Hamsaveni N",
+      "title": "Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru",
+      "description": "BENGALURU: The post-Covid dip in blood collection at private blood banks across Bengaluru has had a ripple effect now: The current dengue surge - the .",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112270454,width-1070,height-580,imgsize-88292,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-04 19:03:11",
+      "content": "8 flowers and plants that will attract birds to your garden",
+      "retrievedAt": "2024-08-05 19:06:33.378068",
+      "internal_id": "35c6371fcd18fd95fa639b487c0a6258d2459868918be515c731ef339f3b6e25",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11635,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Marit Furn",
+      "title": "Stephen King minns inte att han skrivit boken",
+      "description": "RECENSION. I \u201dCujo\u201d skildrar skr\u00e4ckm\u00e4staren Stephen King en familj vars hund smittas av rabies och blir blodt\u00f6rstig. N\u00e4r Marit Furn \u00e5terv\u00e4nder till sin f\u00f6rsta vuxenbok ser hon sp\u00e5r av f\u00f6rfattarens egna problem mellan raderna.",
+      "url": "https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken",
+      "urlToImage": "https://svd.vgc.no/v2/images/5963db5d-7433-4677-9ede-aefb34d9b471?h=630&q=80&upscale=true&w=1200&s=b5ef319b52ecbd66c839d1021bb787b68695e248",
+      "publishedAt": "2024-08-04 18:14:17",
+      "content": "Pocketen med den hotfullt dreglande sankt bernadsk\u00e4ften p\u00e5 omslaget var den f\u00f6rsta vuxenbok jag l\u00e4ste p\u00e5 egen hand. Jag var tolv och hade redan fyllt ett ljusbl\u00e5tt skrivh\u00e4fte med egna sm\u00e5 skr\u00e4ckhisto\u2026 [+410 chars]",
+      "retrievedAt": "2024-08-05 19:06:32.284730",
+      "internal_id": "976b8e69793b364b4d7b0a1679096b41a6ca98be31abef42adca22cc2c26e11c",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11639,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Ntwaagae Seleka",
+      "title": "News24 | Gauteng man who returned from Peru one of two new positive Mpox cases",
+      "description": "Two more laboratory-confirmed cases of Mpox disease have been detected in Gauteng and KwaZulu-Natal, increasing the number of cases to 24 countrywide. The recent cases come 26 days after the first Mpox cases were reported in South Africa.",
+      "url": "https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12005/52927e9345ee42a398d20300416fbd5e.jpg",
+      "publishedAt": "2024-08-04 17:36:50",
+      "content": "A man who returned from Peru is among two new confirmed cases of the Mpox disease.The second patient is a KwaZulu-Natal man with no international travel history.The number o\u2026 [+2274 chars]",
+      "retrievedAt": "2024-08-05 19:06:34.627881",
+      "internal_id": "37e26ea3704f19277cc0f30dc3708f1286a942f445f80d8b6e2530a52e68e357",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11641,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Lucas Liganga, Hua Hongli",
+      "title": "Tanzania steps up border surveillance as mpox cases reported in neighboring countries",
+      "description": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectious disease caused by the mpox virus, were reported in neighbo\u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-08-04 17:25:00",
+      "content": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectiou\u2026 [+1601 chars]",
+      "retrievedAt": "2024-08-05 19:06:34.672152",
+      "internal_id": "8237f4e09e1f1fbab8ac1312f7fe595be473832097e28dea52046bfefa448da3",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11642,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The South African",
+      "author": "Nokwanda Ncwane",
+      "title": "Mpox latest: Department of Health calls for vigilance as cases re-emerge",
+      "description": "The Department of Health says of the 22 cases of Mpox recorded between May and July, 19 have fully recovered and three have died.",
+      "url": "https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/",
+      "urlToImage": "https://www.thesouthafrican.com/wp-content/uploads/2024/07/monkeypox-vaccinee-1200x776-1.jpg",
+      "publishedAt": "2024-08-04 16:15:00",
+      "content": "The Department of Health calls for ongoing public vigilance against Mpox disease as two more laboratory-confirmed cases have been detected in Gauteng and KwaZulu-Natal. The recent cases come 26 day\u2026 [+1712 chars]",
+      "retrievedAt": "2024-08-05 19:06:34.689903",
+      "internal_id": "e06ef9bb314a526bdcf4ea374f6637793af0fd09ec7f47f15f0deb798c52aa96",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11645,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Batac: Ilocos Norte ups measures vs. dengue after 2 deaths",
+      "description": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. \u201cThere is intensive information education campaign in every muni\u2026",
+      "url": "https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/08/bfp-dumalneg.jpg",
+      "publishedAt": "2024-08-04 14:27:32",
+      "content": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. The\u2026 [+1583 chars]",
+      "retrievedAt": "2024-08-06 07:06:01.244200",
+      "internal_id": "26ac7da7b8d3e328b303e2f8207f23d731f71d8ec0172bf1b07c5f1bec1a2549",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11640,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.ru",
+      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
+      "title": "\u0412\u0438\u0440\u0443\u0441 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0443",
+      "description": "\u0412 \u0423\u0433\u0430\u043d\u0434\u0435 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d (Mpox). \u041e \u0434\u0432\u0443\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0445 \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 AFP. \u0421\u043b\u0443\u0447\u0430\u0438 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0430\u0445 \u041a\u0430\u0441\u0435\u0441\u0435 \u0438 \u041c\u043f\u043e\u043d\u0434\u0432\u0435. \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0423\u0433\u0430\u043d\u0434\u044b \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e, \u0447\u0442\u043e \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u044f \u043f\u0440\u0438\u0448\u043b\u0430 \u0438\u0437 \u0441\u043e\u0441\u0435\u0434\u043d\u0435\u0439 ...",
+      "url": "https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml",
+      "urlToImage": "https://img.gazeta.ru/files3/693/15643693/20180530_gaf_uw8_1540-pic_32ratio_900x600-900x600-83778.jpg",
+      "publishedAt": "2024-08-04 14:26:07",
+      "content": ": .Ru (Gazeta.Ru) : \u00ab.\u00bb, 1067761730376, 7743625728 : 125239, , , , 67 : 117105, . , , .9, .1",
+      "retrievedAt": "2024-08-05 19:06:34.657950",
+      "internal_id": "f1cb32251d71a2a99841f1385c3790995f0fae5a96d8daeef8feb03fb2f3f13a",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11637,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Alarmante alza de contagios de dengue: OPS",
+      "description": "Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u00f3n de Centroam\u00e9rica, sostuvo Jorge Saavedra, director ejecutivo del Instituto Aids Healthcare Foundation de Salud P\u00fa\u2026",
+      "url": "https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-08-04 10:32:04",
+      "content": "Peri\u00f3dico La JornadaDomingo 4 de agosto de 2024, p. 27 Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u2026 [+2640 chars]",
+      "retrievedAt": "2024-08-05 19:06:33.364484",
+      "internal_id": "aedd625f819b1e21fcb3280d0254d4ecb1713066d06e71f3deae34b4728969f5",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11636,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Kai Wiedermann",
+      "title": "Vogelgrippe: Virus pirscht sich n\u00e4her an den Menschen heran",
+      "description": "Erst V\u00f6gel, dann S\u00e4ugetiere und in Einzelf\u00e4llen auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippevirus H5N1 weiterentwickelt und welche Gefahr das birgt",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406930402/406930402_1722763108_v16_9_1600.jpeg",
+      "publishedAt": "2024-08-04 09:18:28",
+      "content": "Berlin. Erst infizierte es V\u00f6gel, dann S\u00e4ugetiere, vereinzelt auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippe-Virus weiterentwickelt. Ein neuer \u00dcbertragungsweg, eine neue Tierart: Das Vog\u2026 [+6074 chars]",
+      "retrievedAt": "2024-08-05 19:06:32.911510",
+      "internal_id": "de41770983aa84004a4ad1fa8019d8eef64fa9406d94c36853911a8129da24e8",
       "publishedAtLabel": "Aug 4"
     }
   ]
