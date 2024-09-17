@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-09-17 07:05
-- **Most recent article:** 2024-09-16 06:47:33
+- **New articles in last harvest:** 27
+- **Last harvest:** 2024-09-17 19:05
+- **Most recent article:** 2024-09-16 18:56:08
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 138 | 292 | 208 | 207 | 184 | 187 | 6 | 1222 |
-| dengue | 44 | 52 | 64 | 45 | 49 | 76 | 8 | 338 |
-| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 1 | 117 |
-| h5n1 | 6 | 8 | 5 | 10 | 31 | 10 | 0 | 70 |
-| zika | 11 | 10 | 21 | 2 | 6 | 10 | 0 | 60 |
-| measles | 6 | 3 | 7 | 11 | 9 | 5 | 3 | 44 |
-| rabies | 8 | 12 | 6 | 3 | 7 | 5 | 1 | 42 |
-| chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 0 | 41 |
-| meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 0 | 38 |
-| pertussis | 6 | 3 | 5 | 2 | 1 | 5 | 1 | 23 |
+| mpox | 134 | 292 | 208 | 207 | 184 | 187 | 19 | 1231 |
+| dengue | 41 | 52 | 64 | 45 | 49 | 76 | 14 | 341 |
+| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 2 | 118 |
+| h5n1 | 5 | 8 | 5 | 10 | 31 | 10 | 4 | 73 |
+| zika | 11 | 10 | 21 | 2 | 6 | 10 | 1 | 61 |
+| measles | 6 | 3 | 7 | 11 | 9 | 5 | 4 | 45 |
+| rabies | 7 | 12 | 6 | 3 | 7 | 5 | 2 | 42 |
+| chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 1 | 42 |
+| meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 1 | 39 |
+| pertussis | 6 | 3 | 5 | 2 | 1 | 5 | 2 | 24 |
 | leptospirosis | 2 | 2 | 4 | 0 | 1 | 0 | 0 | 9 |
 | hpai | 1 | 1 | 1 | 0 | 3 | 1 | 0 | 7 |
 | yersinia | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 5 |
@@ -33,15 +33,49 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-38 (zika)
+
+- [Temperature dependence of mosquitoes: Comparing mechanistic and machine learning approaches](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012488) (Plos.org)
+
 ## 24-38 (rabies)
+
+- [Lexington-Fayette County Health Department offers $5 rabies shot for pets](https://www.lex18.com/news/covering-kentucky/lexington-fayette-county-health-department-offers-5-rabies-shot-for-pets) (LEX18 Lexington KY News)
 
 - [When our furry friends turn rabid due to rabies](https://www.thestar.com.my/lifestyle/health/know-your-medicines/2024/09/15/when-our-furry-friends-turn-rabid-due-to-rabies) (The Star Online)
 
 ## 24-38 (pertussis)
 
+- [Jefferson County Health Dept. reports increase in whooping cough](https://www.wmtv15news.com/2024/09/16/jefferson-county-health-dept-reports-increase-whooping-cough/) (Wmtv15news.com)
+
 - [College Football Game Canceled Over Whooping Cough Case and Exposure: Officials](https://www.theepochtimes.com/health/college-football-game-canceled-over-whooping-cough-case-and-exposure-officials-5724606) (Theepochtimes.com)
 
 ## 24-38 (mpox)
+
+- [Mpox: No plan to impose travel restrictions on Africans, says US](https://punchng.com/mpox-no-plan-to-impose-travel-restrictions-on-africans-says-us/) (The Punch)
+
+- [UK to offer vaccines to boost mpox protection](https://www.bbc.com/news/articles/cwyll8yk1nvo) (BBC News)
+
+- [Press release: UK secures more vaccines to help boost resilience against mpox](https://www.gov.uk/government/news/uk-secures-more-vaccines-to-help-boost-resilience-against-mpox) (Www.gov.uk)
+
+- [Αυξάνονται τα εμβολιαστικά κέντρα στην Ελλάδα για την ευλογιά των πιθήκων](https://www.newsit.gr/ellada/eylogia-ton-pithikon-ayksanontai-ta-emvoliastika-kentra-stin-ellada/4181366/) (Newsit.gr)
+
+- [VivoPower secures Mpox diagnostic tests distribution heads of agreement](https://thefly.com/permalinks/entry.php/id3983966/VVPR-VivoPower-secures-Mpox-diagnostic-tests-distribution-heads-of-agreement) (Thefly.com)
+
+- [VivoPower secures Mpox diagnostic tests distribution heads of agreement for Singapore, Hong Kong and Australia with Sansure Biotech Inc](https://www.globenewswire.com/news-release/2024/09/16/2946718/0/en/VivoPower-secures-Mpox-diagnostic-tests-distribution-heads-of-agreement-for-Singapore-Hong-Kong-and-Australia-with-Sansure-Biotech-Inc.html) (GlobeNewswire)
+
+- [Virax Biolabs expands Mpox test kit distribution in GCC](https://www.investing.com/news/company-news/virax-biolabs-expands-mpox-test-kit-distribution-in-gcc-93CH-3617423) (Investing.com)
+
+- [Cosmos Health expands mpox kit distribution to Gulf States](https://www.investing.com/news/company-news/cosmos-health-expands-mpox-kit-distribution-to-gulf-states-93CH-3617378) (Investing.com)
+
+- [Mpox: Έξι εμβολιαστικά κέντρα στην επικράτεια για την αντιμετώπιση της νόσου](https://www.protothema.gr/ugeia/article/1541064/mpox-exi-emvoliastika-kedra-stin-epikrateia-gia-tin-adimetopisi-tis-nosou/) (Protothema.gr)
+
+- [Ευλογιά των πιθήκων: Έξι εμβολιαστικά κέντρα σε όλη την Ελλάδα - Ποια είναι](https://www.skai.gr/news/greece/eylogia-ton-pithikon-eksi-emvoliastika-kentra-se-oli-tin-ellada-poia-einai) (Skai.gr)
+
+- [ΕΟΔΥ: Σε λειτουργία 6 εμβολιαστικά κέντρα έναντι της νόσου mpox (ευλογιά πιθήκων) – Ποιους αφορούν](https://www.naftemporiki.gr/health/1767724/eody-se-leitoyrgia-6-emvoliastika-kentra-enanti-tis-nosoy-mpox-eylogia-pithikon-poioys-aforoyn/) (Naftemporiki.gr)
+
+- [Tonix Pharmaceuticals Announces That its Single Dose Mpox Vaccine Candidate TNX-801 Aligns with WHO’s Newly Issued Preferred Target Product Profile for Mpox Vaccines in Global Health Emergency](https://www.globenewswire.com/news-release/2024/09/16/2946476/28908/en/Tonix-Pharmaceuticals-Announces-That-its-Single-Dose-Mpox-Vaccine-Candidate-TNX-801-Aligns-with-WHO-s-Newly-Issued-Preferred-Target-Product-Profile-for-Mpox-Vaccines-in-Global-Heal.html) (GlobeNewswire)
+
+- [Denial: The Hidden Link Connecting Mpox, COVID-19, HIV/AIDS](https://www.forbes.com/sites/robertpearl/2024/09/16/denial-the-hidden-link-connecting-mpox-covid-19-hivaids/) (Forbes)
 
 - [21-day quarantine, tests: Bengaluru airport sets up Mpox testing stations](https://www.business-standard.com/health/21-day-quarantine-tests-bengaluru-airport-sets-up-mpox-testing-stations-124091600442_1.html) (Business Standard)
 
@@ -55,7 +89,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Pakistan: Another case of mpox reported at Karachi Airport](https://economictimes.indiatimes.com/news/international/world-news/pakistan-another-case-of-mpox-reported-at-karachi-airport/articleshow/113360010.cms) (The Times of India)
 
+## 24-38 (meningitis)
+
+- [Saint John mother wants routine meningitis B vaccines after nearly losing daughter](https://www.cbc.ca/news/canada/new-brunswick/meningitis-b-vaccination-meningococcal-1.7320400) (CBC News)
+
 ## 24-38 (measles)
+
+- [Multifaceted activation of STING axis upon Nipah and measles virus-induced syncytia formation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012569) (Plos.org)
 
 - [Rx, world can't afford a relapse](https://m.economictimes.com/opinion/et-editorial/rx-world-cant-afford-a-relapse/articleshow/113373311.cms) (Economictimes.com)
 
@@ -65,9 +105,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (malaria)
 
+- [Temperature dependence of mosquitoes: Comparing mechanistic and machine learning approaches](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012488) (Plos.org)
+
 - [Aig-Imoukhuede’s firm becomes CAMA secretariat](https://punchng.com/aig-imoukhuedes-firm-becomes-cama-secretariat/) (The Punch)
 
+## 24-38 (h5n1)
+
+- [Todo lo que sabemos sobre el brote de gripe aviar H5N1 en República Checa](https://www.sopitas.com/noticias/brote-gripe-aviar-h5n1-republica-checa-septiembre-2024/) (Sopitas.com)
+
+- ['Food theft' among seabirds could be transmission point for deadly avian flu](https://www.sciencedaily.com/releases/2024/09/240916115428.htm) (Science Daily)
+
+- [Gross 'Food Theft' Could Be Responsible for Spread of Deadly Bird Flu](https://www.newsweek.com/food-theft-responsible-bird-flu-spread-1954421) (Newsweek)
+
+- [On H5N1 bird flu, the U.S. can and should do more, a top WHO official says](https://www.statnews.com/2024/09/16/h5n1-spread-cow-herds-us-response-who-pandemic-preparedness/) (STAT)
+
 ## 24-38 (dengue)
+
+- [1 dose of new therapy kills dengue virus in mice](https://www.futurity.org/mrna-gene-editing-dengue-virus-treatment-3248882/) (Futurity: Research News)
+
+- [Casi Dengue, rinviata per maltempo ultima disinfestazione a Fano](https://www.ansa.it/marche/notizie/2024/09/16/casi-dengue-rinviata-per-maltempo-ultima-disinfestazione-a-fano_7c1aefc1-b0bf-46ff-82ed-3846a5ec33ae.html) (ANSA.it)
+
+- [A new lineage nomenclature to aid genomic surveillance of dengue virus](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002834) (Plos.org)
+
+- [Sequential label shift detection in classification data: An application to dengue fever](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310194) (Plos.org)
+
+- [Temperature dependence of mosquitoes: Comparing mechanistic and machine learning approaches](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012488) (Plos.org)
+
+- [Dengue surge: What’s causing dengue outbreaks? How to stay safe?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/dengue-surge-whats-causing-dengue-outbreaks-how-to-stay-safe/articleshow/113396674.cms) (The Times of India)
 
 - [दिल्लीवालो सावधान! फिर डराने लगा डेंगू, 24 घंटे में दो मरीजों की मौत](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increased-two-people-died/articleshow/113383493.cms) (The Times of India)
 
@@ -84,6 +148,10 @@ Source: [News API](https://newsapi.org/)
 - [Pennsylvania health officials issue warning after 'breakbone fever' spreads across state lines: 'Get to the doctor right away'](https://www.thecooldown.com/green-tech/dengue-fever-cases-new-jersey-pennsylvania-delaware/) (Thecooldown.com)
 
 - [Dengue infection hits 9,500 nationwide, claims 6 lives](https://english.khabarhub.com/2024/15/397656/) (Khabarhub.com)
+
+## 24-38 (chikungunya)
+
+- [Temperature dependence of mosquitoes: Comparing mechanistic and machine learning approaches](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012488) (Plos.org)
 
 ## 24-37 (zika)
 
@@ -3767,8 +3835,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Factors associated with the spatiotemporal distribution of dog rabies in Tunisia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012296) (Plos.org)
 
-- [Stephen King minns inte att han skrivit boken](https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken) (Svenska Dagbladet)
-
 ## 24-32 (pertussis)
 
 - [State issues public health alert over rising rates of whooping cough](https://www.alaskasnewssource.com/2024/08/08/state-issues-public-health-alert-over-rising-rates-whooping-cough/) (Alaskasnewssource.com)
@@ -4053,14 +4119,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO considers convening emergency committee on mpox](https://punchng.com/who-considers-convening-emergency-committee-on-mpox/) (The Punch)
 
-- [News24 | Gauteng man who returned from Peru one of two new positive Mpox cases](https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804) (News24)
-
-- [Tanzania steps up border surveillance as mpox cases reported in neighboring countries](https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries) (The Star Online)
-
-- [Mpox latest: Department of Health calls for vigilance as cases re-emerge](https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/) (The South African)
-
-- [Вирус оспы обезьян атаковал новую страну](https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml) (Gazeta.ru)
-
 ## 24-32 (meningitis)
 
 - [Burden and bacterial etiology of neonatal meningitis at Hawassa University Comprehensive Specialized Hospital, Hawassa, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308523) (Plos.org)
@@ -4142,8 +4200,6 @@ Source: [News API](https://newsapi.org/)
 - [Why Isn’t the Government Protecting Farm Workers From the Bird Flu?](https://newrepublic.com/article/184589/bird-flu-dairy-farm-workers-government-regulations) (The New Republic)
 
 - [Cocirculation of Genetically Distinct Highly Pathogenic Avian Influenza H5N5 and H5N1 Viruses in Crows, Hokkaido, Japan](https://wwwnc.cdc.gov/eid/article/30/9/24-0356_article) (Cdc.gov)
-
-- [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
 
@@ -4228,12 +4284,6 @@ Source: [News API](https://newsapi.org/)
 - [La preocupante lista de la OMS con los patógenos que podrían disparar la próxima pandemia](https://www.nationalgeographic.com.es/ciencia/amenaza-invisible-oms-actualiza-lista-patogenos-pandemicos_22960) (Nationalgeographic.com.es)
 
 - [Brasil se aproxima de 5 mil mortes por dengue em 2024](https://saude.ig.com.br/2024-08-04/brasil-se-aproxima-de-5-mil-mortes-por-dengue-em-2024.html) (Ig.com.br)
-
-- [Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms) (The Times of India)
-
-- [Batac: Ilocos Norte ups measures vs. dengue after 2 deaths](https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/) (Rpnradio.com)
-
-- [Alarmante alza de contagios de dengue: OPS](https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-32 (chikungunya)
 

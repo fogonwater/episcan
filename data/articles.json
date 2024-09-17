@@ -1,8 +1,497 @@
 {
-  "last_updated": "2024-09-17 07:05",
-  "count_articles_total": 1938,
-  "count_articles_new": 19,
+  "last_updated": "2024-09-17 19:05",
+  "count_articles_total": 1956,
+  "count_articles_new": 27,
   "articles": [
+    {
+      "id": 13580,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Jerry Grillo-Georgia Tech",
+      "title": "1 dose of new therapy kills dengue virus in mice",
+      "description": "Researchers have developed a breakthrough therapy to target and kill the dengue virus using the gene editing tool CRISPR-Cas13.",
+      "url": "https://www.futurity.org/mrna-gene-editing-dengue-virus-treatment-3248882/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/09/dengue-virus-treatment-1600.jpg",
+      "publishedAt": "2024-09-16 18:56:08",
+      "content": "Researchers have developed a treatment for dengue virus using mRNA and CRISPR technology. Dengue virus, a painful and sometimes fatal mosquito-borne infection well known in tropical countries, is su\u2026 [+4134 chars]",
+      "retrievedAt": "2024-09-17 19:05:41.587665",
+      "internal_id": "bb78a29889c3cffae1eae0ad14e3e728b308d39cb26ddebf644f9dbf8a131c99",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13590,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Gift Habib",
+      "title": "Mpox: No plan to impose travel restrictions on Africans, says US",
+      "description": "The United States has revealed that there are no plans to impose travel restrictions on individuals arriving from African countries due to the rising cases of monkeypox. The US Global AIDS Coordinator and Senior Bureau Official for Global Health Security and \u2026",
+      "url": "https://punchng.com/mpox-no-plan-to-impose-travel-restrictions-on-africans-says-us/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2024-09-16 18:23:41",
+      "content": "The United States has revealed that there are no plans to impose travel restrictions on individuals arriving from African countries due to the rising cases of monkeypox. The US Global AIDS Coordinat\u2026 [+2702 chars]",
+      "retrievedAt": "2024-09-17 19:05:43.935789",
+      "internal_id": "49eb18313d860abb873d8ff26b1164b5848a3d1aee2184b451439c22497ddf8b",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13573,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Wmtv15news.com",
+      "author": "Juliana Tornabene",
+      "title": "Jefferson County Health Dept. reports increase in whooping cough",
+      "description": "Whooping cough, formally known as pertussis, is a very contagious respiratory disease that spreads from person to person.",
+      "url": "https://www.wmtv15news.com/2024/09/16/jefferson-county-health-dept-reports-increase-whooping-cough/",
+      "urlToImage": "https://gray-wmtv-prod.cdn.arcpublishing.com/resizer/v2/TK7JCUUUPVD3VNZELRO3DNZD7A.jpg?auth=5109f343355327e83a45e55ab243a416a5214be0ed192767ae8c05501f4d38a5&width=1200&height=600&smart=true",
+      "publishedAt": "2024-09-16 17:55:54",
+      "content": "MADISON, Wis. (WMTV) - Jefferson County health officials are reporting Monday that they have noticed an increase in whooping cough cases over the past few months. The Jefferson County Health Depart\u2026 [+1086 chars]",
+      "retrievedAt": "2024-09-17 19:05:39.715054",
+      "internal_id": "312c0379b1112c4e6d1ab829f66fb6a7343061ddc8b896d4d8e117a4aa720cc4",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13574,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "LEX18 Lexington KY News",
+      "author": "Erin Rosas",
+      "title": "Lexington-Fayette County Health Department offers $5 rabies shot for pets",
+      "description": "The Lexington-Fayette County Health Department is offering a $5 rabies shot for dogs, cats, and ferrets on Tuesday at Castlewood Park.",
+      "url": "https://www.lex18.com/news/covering-kentucky/lexington-fayette-county-health-department-offers-5-rabies-shot-for-pets",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/d78302f/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fee%2F99%2F4dbb43654139b0f7cdbe0b94b08f%2Funtitled-design-36.png",
+      "publishedAt": "2024-09-16 17:32:37",
+      "content": "LEXINGTON, Ky. (LEX 18) The Lexington-Fayette County Health Department is offering a $5 rabies shot for dogs, cats, and ferrets on Tuesday at Castlewood Park. Pet owners can make their way to the pa\u2026 [+237 chars]",
+      "retrievedAt": "2024-09-17 19:05:40.005282",
+      "internal_id": "b275e18ef395b1de13e7d660f5cbaa4de71ce8aa935caca45153b18a37b65547",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13584,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Casi Dengue, rinviata per maltempo ultima disinfestazione a Fano",
+      "description": "\"A seguito della riunione del Centro Operativo Comunale (Coc), \u00e8 stato deciso di rinviare l'ultima disinfestazione, inizialmente prevista per questa sera, a causa delle condizioni meteorologiche avverse\". (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2024/09/16/casi-dengue-rinviata-per-maltempo-ultima-disinfestazione-a-fano_7c1aefc1-b0bf-46ff-82ed-3846a5ec33ae.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2018/6/22/ded9844ee752cd4669ab5a84f8f7412f.jpg",
+      "publishedAt": "2024-09-16 17:29:54",
+      "content": "\"A seguito della riunione del Centro Operativo Comunale (Coc), \u00e8 stato deciso di rinviare l'ultima disinfestazione, inizialmente prevista per questa sera, a causa delle condizioni meteorologiche a\u2026 [+888 chars]",
+      "retrievedAt": "2024-09-17 19:05:41.719542",
+      "internal_id": "94ca63319f315e746d0dc93d81136a5b5d7cb6b8c8a665e9e590f2d69bcc581f",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13577,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sopitas.com",
+      "author": "Erick Ponce",
+      "title": "Todo lo que sabemos sobre el brote de gripe aviar H5N1 en Rep\u00fablica Checa",
+      "description": "Mientras unos apenas se van despertando y otros ya andan en su primer plato de pozole recalentado, del otro lado del mundo se ha dado a... The post Todo lo que sabemos sobre el brote de gripe aviar H5N1 en Rep\u00fablica Checa appeared first on Sopitas.com.",
+      "url": "https://www.sopitas.com/noticias/brote-gripe-aviar-h5n1-republica-checa-septiembre-2024/",
+      "urlToImage": "https://www.sopitas.com/wp-content/uploads/2024/09/grip-aviar-republica-checa.jpg",
+      "publishedAt": "2024-09-16 17:18:27",
+      "content": "Lo que necesitas saber: De acuerdo con la Organizaci\u00f3n Mundial de Sanidad Animal, se ha detectado un brote de gripe aviar en Rep\u00fablica Checa. Mientras unos apenas se van despertando y otros ya anda\u2026 [+3186 chars]",
+      "retrievedAt": "2024-09-17 19:05:40.815280",
+      "internal_id": "501f37071f81df684cd67db65ac0dfb3bf7b2b437bc0abc6b7ec3a9dfaa1f13e",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13576,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "'Food theft' among seabirds could be transmission point for deadly avian flu",
+      "description": "If seabirds can catch avian flu by stealing food from infectious birds, it gives scientists a clue where to monitor for outbreaks among these vulnerable birds.",
+      "url": "https://www.sciencedaily.com/releases/2024/09/240916115428.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-09-16 15:54:28",
+      "content": "The deadly H5N1 avian influenza virus, which has killed millions of birds worldwide since 2021 -- and in rare cases can be transmitted to humans -- may be spread through the food-stealing behaviour o\u2026 [+4606 chars]",
+      "retrievedAt": "2024-09-17 19:05:40.808754",
+      "internal_id": "2a2d5ada23eba5dbda7c8a5cf0d64674249be80a9dd31e7ce1a3fcd3295cd467",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13592,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "UK to offer vaccines to boost mpox protection",
+      "description": "Mpox vaccines will be offered to thousands of people in the UK to boost protection against the virus.",
+      "url": "https://www.bbc.com/news/articles/cwyll8yk1nvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2821/live/e16efb10-742a-11ef-bddb-c57f76591a03.jpg",
+      "publishedAt": "2024-09-16 14:57:54",
+      "content": "An mpox vaccine will be offered to thousands of men who have sex with men and some healthcare workers in the UK to boost protection against a form of the virus at the centre of an outbreak in parts o\u2026 [+3068 chars]",
+      "retrievedAt": "2024-09-17 19:05:43.965130",
+      "internal_id": "7244c93e2e48de985455d9dbed9cc1019fec698cd9344e94c5e20af548326c48",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13598,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Press release: UK secures more vaccines to help boost resilience against mpox",
+      "description": "Additional vaccines will help ensure the UK can protect those that may be at high risk from mpox",
+      "url": "https://www.gov.uk/government/news/uk-secures-more-vaccines-to-help-boost-resilience-against-mpox",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/66e82292c069f68b7681bb60/s960_mpox_press.png",
+      "publishedAt": "2024-09-16 14:11:42",
+      "content": "The UK Government has ordered more mpox vaccine doses to help boost the countrys resilience against clade I mpox, as it also continues to support the international effort to control the disease. The\u2026 [+6777 chars]",
+      "retrievedAt": "2024-09-17 19:05:44.113873",
+      "internal_id": "2c226b3381be6a4cc9517ebb421473bdf848d482eead08ddb92af343146de9e1",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13589,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u03a3\u03bf\u03c6\u03b9\u03b1 \u0392\u03b1\u03bb\u03c3\u03b1\u03bc\u03b7",
+      "title": "\u0391\u03c5\u03be\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd",
+      "description": "\u0388\u03be\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1 \u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03b5 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c5\u03c1\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b3\u03b5\u03c9\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03ae \u03ba\u03ac\u03bb\u03c5\u03c8\u03b7 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b1\u03b3\u03ba\u03ce\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd (mpox). \u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd (mpox) \u03b4\u03b5\u03bd \u03b1\u03c6\u03bf\u03c1\u03ac \u03c4\u03bf\u03bd \u03b3\u03b5\u03bd\u03b9\u03ba\u03cc \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03cc, \u03b1\u03bb\u03bb\u03ac \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b5\u03c2 \u03bf\u03bc\u03ac\u03b4\u03b5\u03c2 \u2026",
+      "url": "https://www.newsit.gr/ellada/eylogia-ton-pithikon-ayksanontai-ta-emvoliastika-kentra-stin-ellada/4181366/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2024/09/MPOX-VACCINES_reuters-scaled.jpg",
+      "publishedAt": "2024-09-16 14:05:01",
+      "content": "(mpox). (mpox) , mpox, : \u2013 (MSM), , , . , 3 . \u2013 mpox (.. , , , mpox .). \u2013 , , ( ). , (. mpox) . \u2013 mpox . , 4 . 14 . . : &amp; : 09:00-12:00 : 2251 352510 \u00ab\u00bb &amp; : 09:00-12:00 : 23\u2026 [+196 chars]",
+      "retrievedAt": "2024-09-17 19:05:43.899270",
+      "internal_id": "866da733a4395877870b9fb2653788acd7ecc49ea51182bcd46e45eabc0393e8",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13578,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Tom Howarth",
+      "title": "Gross 'Food Theft' Could Be Responsible for Spread of Deadly Bird Flu",
+      "description": "The H5N1 virus, initially restricted to Eurasia and Africa, has since spread to North and South America and even reached Antarctica in early 2024.",
+      "url": "https://www.newsweek.com/food-theft-responsible-bird-flu-spread-1954421",
+      "urlToImage": "https://d.newsweek.com/en/full/2472315/two-south-polar-skuas.jpg",
+      "publishedAt": "2024-09-16 14:01:01",
+      "content": "The highly virulent H5N1 avian influenza virus, responsible for the deaths of millions of birds worldwide since 2021, may be spreading through a surprising route: food theft among seabirds. A new st\u2026 [+4359 chars]",
+      "retrievedAt": "2024-09-17 19:05:40.821171",
+      "internal_id": "1d12e5a90de5c3fd689a5f6d68261b5000d9f7e8dd34e3493e412a748270a1ae",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13575,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Lucia Amurri, Claire Dumont, Rodolphe Pelissier, Olivier Reynard, Cyrille Mathieu, Julia Spanier, Bernadett P\u00e1lyi, Daniel D\u00e9ri, Ludovic Karkowski, Claudia Gonzalez, Jennifer Skerra, Zolt\u00e1n Kis, Ulrich Kalinke, Branka Horvat, Mathieu Iampietro",
+      "title": "Multifaceted activation of STING axis upon Nipah and measles virus-induced syncytia formation",
+      "description": "Author summary Viruses belonging to Paramyxoviridae family, such as Nipah and measles virus, represent a threat for public health due to recurring zoonotic spillover events or increasing epidemic episodes, respectively. In our previous work, we demonstrated t\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012569",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012569.g008&size=inline",
+      "publishedAt": "2024-09-16 14:00:00",
+      "content": "Abstract Activation of the DNA-sensing STING axis by RNA viruses plays a role in antiviral response through mechanisms that remain poorly understood. Here, we show that the STING pathway regulates N\u2026 [+87889 chars]",
+      "retrievedAt": "2024-09-17 19:05:40.392768",
+      "internal_id": "a8f76db8eadff8d43ddf35fc9e3e6e5106ec1b49f4216c1ee7ecdf5f91684f1c",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13581,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Verity Hill, Sara Cleemput, James Siqueira Pereira, Robert J. Gifford, Vagner Fonseca, Houriiyah Tegally, Anderson F. Brito, Gabriela Ribeiro, Vinicius Carius de Souza, Isabela Carvalho Brcko, Igor Santana Ribeiro, Iago Trezena Tavares De Lima, Svetoslav Nanev Slavov, Sandra Coccuzzo Sampaio, Maria Carolina Elias, Vi Thuy Tran, Duong Thi Hue Kien, Tuyen Huynh, Sophie Yacoub, Idrissa Dieng, Richard Salvato, Gabriel Luz Wallau, Tatiana S. Gregianini, Fernanda M. S. Godinho, Chantal B. F. Vogels, Mallery I. Breban, Mariana Leguia, Suraj Jagtap, Rahul Roy, Chanditha Hapuarachchi, Gaspary Mwanyika, Marta Giovanetti, Luiz C. J. Alcantara, Nuno R. Faria, Christine V. F. Carrington, Kathryn A. Hanley, Edward C. Holmes, Wim Dumon, Alex Ranieri Jer\u00f4nimo Lima, Tulio de Oliveira, Nathan D. Grubaugh",
+      "title": "A new lineage nomenclature to aid genomic surveillance of dengue virus",
+      "description": "Dengue virus (DENV) is causing increasingly larger and more widespread epidemics, which makes it critical to track the virus using genomic surveillance, but there is currently no suitable system to classify circulating variants. This Consensus View proposes a\u2026",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002834",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002834.g005&size=inline",
+      "publishedAt": "2024-09-16 14:00:00",
+      "content": "Citation: Hill V, Cleemput S, Pereira JS, Gifford RJ, Fonseca V, Tegally H, et al. (2024) A new lineage nomenclature to aid genomic surveillance of dengue virus. PLoS Biol 22(9): e3002834. https:/\u2026 [+66729 chars]",
+      "retrievedAt": "2024-09-17 19:05:41.607960",
+      "internal_id": "b321993c00336834a2de27e18aff34ff05215e8df403f3baded5534313d78ef8",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13582,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ciaran Evans, Max G\u2019Sell",
+      "title": "Sequential label shift detection in classification data: An application to dengue fever",
+      "description": "Classifiers have been developed to help diagnose dengue fever in patients presenting with febrile symptoms. However, classifier predictions often rely on the assumption that new observations come from the same distribution as training data. If the population \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310194",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0310194.g003&size=inline",
+      "publishedAt": "2024-09-16 14:00:00",
+      "content": "Citation: Evans C, GSell M (2024) Sequential label shift detection in classification data: An application to dengue fever. PLoS ONE 19(9): e0310194. https://doi.org/10.1371/journal.pone.0310194 E\u2026 [+33009 chars]",
+      "retrievedAt": "2024-09-17 19:05:41.618526",
+      "internal_id": "9f5d66a3c89f9f98e10334ba323650d74457cb69e7fc69fa9d9492791866dce4",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13585,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Tejas S. Athni, Marissa L. Childs, Caroline K. Glidden, Erin A. Mordecai",
+      "title": "Temperature dependence of mosquitoes: Comparing mechanistic and machine learning approaches",
+      "description": "Author summary Mosquito vectors are strongly affected by temperature, and their distributions are likely to shift under climate change. Lab studies show that mosquito abundance has a unimodal response to temperature with thermal optima, upper and lower therma\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012488",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012488.g004&size=inline",
+      "publishedAt": "2024-09-16 14:00:00",
+      "content": "Abstract Mosquito vectors of pathogens (e.g., Aedes, Anopheles, and Culex spp. which transmit dengue, Zika, chikungunya, West Nile, malaria, and others) are of increasing concern for global public h\u2026 [+89251 chars]",
+      "retrievedAt": "2024-09-17 19:05:41.739439",
+      "internal_id": "59b1a7b0684670ff1f92d680a60c46af2be873ea0941d73c8f2bcc32021f2180",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13583,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Dengue surge: What\u2019s causing dengue outbreaks? How to stay safe?",
+      "description": "Dengue cases have increased significantly due to favorable mosquito breeding conditions, urbanization, and climate change. Key preventive measures include eliminating breeding sites, using mosquito nets, wearing protective clothing, and applying insect repell\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/dengue-surge-whats-causing-dengue-outbreaks-how-to-stay-safe/articleshow/113396674.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113396671,width-1070,height-580,imgsize-419791,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-16 13:34:45",
+      "content": "Shanaya Kapoor slays dapper look in black with silver shimmer accents",
+      "retrievedAt": "2024-09-17 19:05:41.628734",
+      "internal_id": "9130561c43101d6fd57214a3ec22c239037d151b618a72f1f62d6dd61b71ab3e",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13596,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "VivoPower secures Mpox diagnostic tests distribution heads of agreement",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id3983966/VVPR-VivoPower-secures-Mpox-diagnostic-tests-distribution-heads-of-agreement",
+      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+      "publishedAt": "2024-09-16 13:09:16",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2024-09-17 19:05:44.041247",
+      "internal_id": "e81dd643ded084573b12e99878fadd2a21291e785276f0bb7d19eb0ae9107012",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13595,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VivoPower International PLC",
+      "title": "VivoPower secures Mpox diagnostic tests distribution heads of agreement for Singapore, Hong Kong and Australia with Sansure Biotech Inc",
+      "description": "Sansure Biotech Inc (\u201cSansure\u201d) is a US$1.4bn market capitalisation in vitro diagnostic solutions company listed on Shanghai Stock Exchange Mpox...",
+      "url": "https://www.globenewswire.com/news-release/2024/09/16/2946718/0/en/VivoPower-secures-Mpox-diagnostic-tests-distribution-heads-of-agreement-for-Singapore-Hong-Kong-and-Australia-with-Sansure-Biotech-Inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/372e7e36-8f34-46d9-8cbc-c2284310ed5f",
+      "publishedAt": "2024-09-16 13:05:00",
+      "content": "Sansure Biotech Inc (Sansure) is a US$1.4bn market capitalisation in vitro diagnostic solutions company listed on Shanghai Stock Exchange Mpox virus footprint has significant overlap with key marke\u2026 [+5635 chars]",
+      "retrievedAt": "2024-09-17 19:05:44.030843",
+      "internal_id": "c9e31c2a0be277ba15ffba7cdc3efffaf9434a1cf0f4d095be87991bc8308385",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13593,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Investing.com",
+      "title": "Virax Biolabs expands Mpox test kit distribution in GCC",
+      "description": "Virax Biolabs expands Mpox test kit distribution in GCC",
+      "url": "https://www.investing.com/news/company-news/virax-biolabs-expands-mpox-test-kit-distribution-in-gcc-93CH-3617423",
+      "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+      "publishedAt": "2024-09-16 12:57:56",
+      "content": "LONDON - Virax Biolabs Group Limited (NASDAQ: VRAX), a biotech firm specializing in viral disease diagnostics, has extended its exclusive distribution partnership with Cosmos Health Inc. (NASDAQ: COS\u2026 [+5491 chars]",
+      "retrievedAt": "2024-09-17 19:05:43.984375",
+      "internal_id": "2d9f76a45b47967074e341bf4f3df80508a4b31057a094c7058c5fcc4691142b",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13594,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Investing.com",
+      "title": "Cosmos Health expands mpox kit distribution to Gulf States",
+      "description": "Cosmos Health expands mpox kit distribution to Gulf States",
+      "url": "https://www.investing.com/news/company-news/cosmos-health-expands-mpox-kit-distribution-to-gulf-states-93CH-3617378",
+      "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+      "publishedAt": "2024-09-16 12:43:16",
+      "content": "CHICAGO - Cosmos Health Inc. (NASDAQ:COSM), a global healthcare group, announced today an extension to its exclusive distribution agreement with Virax Biolabs (NASDAQ:VRAX) to commercialize mpox viru\u2026 [+4842 chars]",
+      "retrievedAt": "2024-09-17 19:05:43.989939",
+      "internal_id": "ec4c230fb54bbdbe99219b1444b4637e4fae3d3048107291363eaab44f6d056d",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13588,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "Mpox: \u0388\u03be\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03ba\u03c1\u03ac\u03c4\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5",
+      "description": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd mpox \u03b4\u03b5\u03bd \u03b1\u03c6\u03bf\u03c1\u03ac \u03c4\u03bf\u03bd \u03b3\u03b5\u03bd\u03b9\u03ba\u03cc \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03cc, \u03b1\u03bb\u03bb\u03ac \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b5\u03c2 \u03bf\u03bc\u03ac\u03b4\u03b5\u03c2 \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd \u03bc\u03b5 \u03b1\u03c5\u03be\u03b7\u03bc\u03ad\u03bd\u03bf \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03ad\u03ba\u03b8\u03b5\u03c3\u03b7\u03c2 | mpox | \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 | \u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03ac \u039a\u03ad\u03bd\u03c4\u03c1\u03b1 | \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd | \u0396\u03c9\u03ae",
+      "url": "https://www.protothema.gr/ugeia/article/1541064/mpox-exi-emvoliastika-kedra-stin-epikrateia-gia-tin-adimetopisi-tis-nosou/",
+      "urlToImage": "https://i1.prth.gr/images/640x360share/files/2024-08-27/mpox_arxeio_n.jpg",
+      "publishedAt": "2024-09-16 12:25:00",
+      "content": "mpox. mpox , mpox, : - (MSM), , , . , 3 .- mpox (.. , , , mpox .). - , , ( ). , (. mpox) .- mpox . , 4 . 14 . . : &amp; : 09:00-12:00: 2251 352510 \u00ab\u00bb &amp; : 09:00-12:00 : 2313 303333 \u00ab\u00bb",
+      "retrievedAt": "2024-09-17 19:05:43.884156",
+      "internal_id": "b87aa7c6e9a9a6c3106b75d94b4eb9524317b086df0f65521cddaec5091e1cd9",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13599,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd: \u0388\u03be\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1 \u03c3\u03b5 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - \u03a0\u03bf\u03b9\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9",
+      "description": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd mpox \u03b4\u03b5\u03bd \u03b1\u03c6\u03bf\u03c1\u03ac \u03c4\u03bf\u03bd \u03b3\u03b5\u03bd\u03b9\u03ba\u03cc \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03cc, \u03b1\u03bb\u03bb\u03ac \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b5\u03c2 \u03bf\u03bc\u03ac\u03b4\u03b5\u03c2 \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd \u03bc\u03b5 \u03b1\u03c5\u03be\u03b7\u03bc\u03ad\u03bd\u03bf \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03ad\u03ba\u03b8\u03b5\u03c3\u03b7\u03c2 \u03c3\u03c4\u03bf\u03bd \u03b9\u03cc",
+      "url": "https://www.skai.gr/news/greece/eylogia-ton-pithikon-eksi-emvoliastika-kentra-se-oli-tin-ellada-poia-einai",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-08/mpox_ap24227362446404.jpg?itok=SIGcAlm4",
+      "publishedAt": "2024-09-16 12:22:48",
+      "content": "mpox . mpox , mpox, : (MSM), , , . , 3 . mpox (.. , , , mpox .). , , ( ). , (. mpox) . mpox . , 4 . 14 . . : &amp; : 09:00-12:00 : 2251 352510 \u00bb\u2026 [+236 chars]",
+      "retrievedAt": "2024-09-17 19:05:44.124220",
+      "internal_id": "c307f882f3d404ce5094891f59473ebf9eb834eadb8f2a4005cf6eef1a0fd1c7",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13597,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2 \u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03ae\u03c2",
+      "title": "\u0395\u039f\u0394\u03a5: \u03a3\u03b5 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 6 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5 mpox (\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd) \u2013 \u03a0\u03bf\u03b9\u03bf\u03c5\u03c2 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd",
+      "description": "\u0388\u03be\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1 \u03b1\u03bd\u03ac \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03ba\u03c1\u03ac\u03c4\u03b5\u03b9\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bd \u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03b5\u03af \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0395\u039f\u0394\u03a5 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c5\u03c1\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b3\u03b5\u03c9\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03ae \u03ba\u03ac\u03bb\u03c5\u03c8\u03b7 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b1\u03b3\u03ba\u03ce\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5 mpox. \u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd mpox \u03b4\u03b5\u03bd\u2026 \u0395\u039f\u0394\u03a5: \u03a3\u03b5 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 6 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5 mpo\u2026",
+      "url": "https://www.naftemporiki.gr/health/1767724/eody-se-leitoyrgia-6-emvoliastika-kentra-enanti-tis-nosoy-mpox-eylogia-pithikon-poioys-aforoyn/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2022/05/1866442.jpeg",
+      "publishedAt": "2024-09-16 11:35:42",
+      "content": "mpox , mpox, : (MSM), , , . , 3 . mpox (.. , , , mpox .). , , ( ). , (. mpox) . mpox . , 4 . 14 . . mpox . : : 09:00-12:00 / . 2251 352510.<\u2026 [+239 chars]",
+      "retrievedAt": "2024-09-17 19:05:44.074262",
+      "internal_id": "8e9c62f006617ea3c6fa9b844c3150e4090ae16aa3b3349368cc7d1770bb87d1",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13591,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Tonix Pharmaceuticals Holding Corp.",
+      "title": "Tonix Pharmaceuticals Announces That its Single Dose Mpox Vaccine Candidate TNX-801 Aligns with WHO\u2019s Newly Issued Preferred Target Product Profile for Mpox Vaccines in Global Health Emergency",
+      "description": "The World Health Organization (WHO) released its preferred target product profile (TPP) criteria for mpox vaccines at its Mpox Research and Innovation Scientific Conference held August 29-30",
+      "url": "https://www.globenewswire.com/news-release/2024/09/16/2946476/28908/en/Tonix-Pharmaceuticals-Announces-That-its-Single-Dose-Mpox-Vaccine-Candidate-TNX-801-Aligns-with-WHO-s-Newly-Issued-Preferred-Target-Product-Profile-for-Mpox-Vaccines-in-Global-Heal.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/16aad249-3d33-4501-b3d9-118a703fa46e",
+      "publishedAt": "2024-09-16 11:00:00",
+      "content": "The World Health Organization (WHO) released its preferred target product profile (TPP) criteria for mpox vaccines at its Mpox Research and Innovation Scientific Conference held August 29-30 TNX-801\u2026 [+13373 chars]",
+      "retrievedAt": "2024-09-17 19:05:43.958981",
+      "internal_id": "75e422abf3881596572ee871f938381fff70d1da2b0f7644fa7d37ad5b6857b4",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13586,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Saint John mother wants routine meningitis B vaccines after nearly losing daughter",
+      "description": "After almost losing her daughter to meningitis last year, Julie Stewart has a warning for other parents in New Brunswick \u2014 unless you booked a separate vaccine and paid about $300 for it, your child is not vaccinated against meningitis B.",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/meningitis-b-vaccination-meningococcal-1.7320400",
+      "urlToImage": "https://i.cbc.ca/1.7320430.1726085284!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lindsay-stewart.jpg",
+      "publishedAt": "2024-09-16 10:00:00",
+      "content": "After almost losing her daughter to meningitis last year, Julie Stewart has a warning for other parents in New Brunswick unless you booked a separate vaccine and paid about $300 for it, your child i\u2026 [+5808 chars]",
+      "retrievedAt": "2024-09-17 19:05:42.190553",
+      "internal_id": "0f7ef4df0f48ca21b88564bb6d7ddcca2bc6d9e422e6984281e7a7f58405e2e1",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13579,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "On H5N1 bird flu, the U.S. can and should do more, a top WHO official says",
+      "description": "The world is watching how the U.S. is responding to the H5N1 bird flu outbreak in dairy cattle, a top WHO official said.",
+      "url": "https://www.statnews.com/2024/09/16/h5n1-spread-cow-herds-us-response-who-pandemic-preparedness/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2020/07/GettyImages-1206282817-1024x576.jpg",
+      "publishedAt": "2024-09-16 08:44:44",
+      "content": "More work needs to be done by the agricultural sector to get to the bottom of and put a stop to transmission of H5N1 bird flu in dairy cattle in the United States, a senior World Health Organization\u2026 [+9413 chars]",
+      "retrievedAt": "2024-09-17 19:05:40.827575",
+      "internal_id": "b88b418c9c8c03de5cfd16753f5b52e61549d4afc9cf762c36cd5f704c7d4d1e",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 13587,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Pearl, M.D., Contributor, \n Robert Pearl, M.D., Contributor\n https://www.forbes.com/sites/robertpearl/",
+      "title": "Denial: The Hidden Link Connecting Mpox, COVID-19, HIV/AIDS",
+      "description": "Throughout modern medical history, Americans have underestimated or dismissed emerging health threats until the consequences became impossible to ignore.",
+      "url": "https://www.forbes.com/sites/robertpearl/2024/09/16/denial-the-hidden-link-connecting-mpox-covid-19-hivaids/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66e7489dfebc6969c9f382bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-16 08:43:00",
+      "content": "Denial is a powerful, usually unconscious defense mechanism that shields individuals from ... [+] uncomfortable or distressing realities. getty In the late 1970s and early 80s, a mysterious illness\u2026 [+8854 chars]",
+      "retrievedAt": "2024-09-17 19:05:43.766593",
+      "internal_id": "2d48a45ea2b138629f388c4b3910d8149d15154abedd0629649c68df64327d6d",
+      "publishedAtLabel": "Sep 16"
+    },
     {
       "id": 13560,
       "query": [
@@ -34807,168 +35296,6 @@
       "content": "Ground Picture/Shutterstock So far in 2024 there have been more than 17,000 cases of whooping cough (pertussis) across Australia. This is well above our usual national average. It\u2019s already six time\u2026 [+7734 chars]",
       "retrievedAt": "2024-08-06 07:05:59.718814",
       "internal_id": "a8aca7ebf754534c7e7522880a93ace32555568ebfbddfc68c16474cd1c68f1f",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11638,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Hamsaveni N",
-      "title": "Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru",
-      "description": "BENGALURU: The post-Covid dip in blood collection at private blood banks across Bengaluru has had a ripple effect now: The current dengue surge - the .",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112270454,width-1070,height-580,imgsize-88292,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-04 19:03:11",
-      "content": "8 flowers and plants that will attract birds to your garden",
-      "retrievedAt": "2024-08-05 19:06:33.378068",
-      "internal_id": "35c6371fcd18fd95fa639b487c0a6258d2459868918be515c731ef339f3b6e25",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11635,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "svenska-dagbladet",
-      "source_name": "Svenska Dagbladet",
-      "author": "Marit Furn",
-      "title": "Stephen King minns inte att han skrivit boken",
-      "description": "RECENSION. I \u201dCujo\u201d skildrar skr\u00e4ckm\u00e4staren Stephen King en familj vars hund smittas av rabies och blir blodt\u00f6rstig. N\u00e4r Marit Furn \u00e5terv\u00e4nder till sin f\u00f6rsta vuxenbok ser hon sp\u00e5r av f\u00f6rfattarens egna problem mellan raderna.",
-      "url": "https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken",
-      "urlToImage": "https://svd.vgc.no/v2/images/5963db5d-7433-4677-9ede-aefb34d9b471?h=630&q=80&upscale=true&w=1200&s=b5ef319b52ecbd66c839d1021bb787b68695e248",
-      "publishedAt": "2024-08-04 18:14:17",
-      "content": "Pocketen med den hotfullt dreglande sankt bernadsk\u00e4ften p\u00e5 omslaget var den f\u00f6rsta vuxenbok jag l\u00e4ste p\u00e5 egen hand. Jag var tolv och hade redan fyllt ett ljusbl\u00e5tt skrivh\u00e4fte med egna sm\u00e5 skr\u00e4ckhisto\u2026 [+410 chars]",
-      "retrievedAt": "2024-08-05 19:06:32.284730",
-      "internal_id": "976b8e69793b364b4d7b0a1679096b41a6ca98be31abef42adca22cc2c26e11c",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11639,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "news24",
-      "source_name": "News24",
-      "author": "Ntwaagae Seleka",
-      "title": "News24 | Gauteng man who returned from Peru one of two new positive Mpox cases",
-      "description": "Two more laboratory-confirmed cases of Mpox disease have been detected in Gauteng and KwaZulu-Natal, increasing the number of cases to 24 countrywide. The recent cases come 26 days after the first Mpox cases were reported in South Africa.",
-      "url": "https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12005/52927e9345ee42a398d20300416fbd5e.jpg",
-      "publishedAt": "2024-08-04 17:36:50",
-      "content": "A man who returned from Peru is among two new confirmed cases of the Mpox disease.The second patient is a KwaZulu-Natal man with no international travel history.The number o\u2026 [+2274 chars]",
-      "retrievedAt": "2024-08-05 19:06:34.627881",
-      "internal_id": "37e26ea3704f19277cc0f30dc3708f1286a942f445f80d8b6e2530a52e68e357",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11641,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Lucas Liganga, Hua Hongli",
-      "title": "Tanzania steps up border surveillance as mpox cases reported in neighboring countries",
-      "description": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectious disease caused by the mpox virus, were reported in neighbo\u2026",
-      "url": "https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-08-04 17:25:00",
-      "content": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectiou\u2026 [+1601 chars]",
-      "retrievedAt": "2024-08-05 19:06:34.672152",
-      "internal_id": "8237f4e09e1f1fbab8ac1312f7fe595be473832097e28dea52046bfefa448da3",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11642,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The South African",
-      "author": "Nokwanda Ncwane",
-      "title": "Mpox latest: Department of Health calls for vigilance as cases re-emerge",
-      "description": "The Department of Health says of the 22 cases of Mpox recorded between May and July, 19 have fully recovered and three have died.",
-      "url": "https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/",
-      "urlToImage": "https://www.thesouthafrican.com/wp-content/uploads/2024/07/monkeypox-vaccinee-1200x776-1.jpg",
-      "publishedAt": "2024-08-04 16:15:00",
-      "content": "The Department of Health calls for ongoing public vigilance against Mpox disease as two more laboratory-confirmed cases have been detected in Gauteng and KwaZulu-Natal. The recent cases come 26 day\u2026 [+1712 chars]",
-      "retrievedAt": "2024-08-05 19:06:34.689903",
-      "internal_id": "e06ef9bb314a526bdcf4ea374f6637793af0fd09ec7f47f15f0deb798c52aa96",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11645,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Batac: Ilocos Norte ups measures vs. dengue after 2 deaths",
-      "description": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. \u201cThere is intensive information education campaign in every muni\u2026",
-      "url": "https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/08/bfp-dumalneg.jpg",
-      "publishedAt": "2024-08-04 14:27:32",
-      "content": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. The\u2026 [+1583 chars]",
-      "retrievedAt": "2024-08-06 07:06:01.244200",
-      "internal_id": "26ac7da7b8d3e328b303e2f8207f23d731f71d8ec0172bf1b07c5f1bec1a2549",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11640,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\u0412\u0438\u0440\u0443\u0441 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0443",
-      "description": "\u0412 \u0423\u0433\u0430\u043d\u0434\u0435 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d (Mpox). \u041e \u0434\u0432\u0443\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0445 \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 AFP. \u0421\u043b\u0443\u0447\u0430\u0438 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0430\u0445 \u041a\u0430\u0441\u0435\u0441\u0435 \u0438 \u041c\u043f\u043e\u043d\u0434\u0432\u0435. \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0423\u0433\u0430\u043d\u0434\u044b \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e, \u0447\u0442\u043e \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u044f \u043f\u0440\u0438\u0448\u043b\u0430 \u0438\u0437 \u0441\u043e\u0441\u0435\u0434\u043d\u0435\u0439 ...",
-      "url": "https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/693/15643693/20180530_gaf_uw8_1540-pic_32ratio_900x600-900x600-83778.jpg",
-      "publishedAt": "2024-08-04 14:26:07",
-      "content": ": .Ru (Gazeta.Ru) : \u00ab.\u00bb, 1067761730376, 7743625728 : 125239, , , , 67 : 117105, . , , .9, .1",
-      "retrievedAt": "2024-08-05 19:06:34.657950",
-      "internal_id": "f1cb32251d71a2a99841f1385c3790995f0fae5a96d8daeef8feb03fb2f3f13a",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11637,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Alarmante alza de contagios de dengue: OPS",
-      "description": "Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u00f3n de Centroam\u00e9rica, sostuvo Jorge Saavedra, director ejecutivo del Instituto Aids Healthcare Foundation de Salud P\u00fa\u2026",
-      "url": "https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-08-04 10:32:04",
-      "content": "Peri\u00f3dico La JornadaDomingo 4 de agosto de 2024, p. 27 Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u2026 [+2640 chars]",
-      "retrievedAt": "2024-08-05 19:06:33.364484",
-      "internal_id": "aedd625f819b1e21fcb3280d0254d4ecb1713066d06e71f3deae34b4728969f5",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11636,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Berliner Morgenpost",
-      "author": "Kai Wiedermann",
-      "title": "Vogelgrippe: Virus pirscht sich n\u00e4her an den Menschen heran",
-      "description": "Erst V\u00f6gel, dann S\u00e4ugetiere und in Einzelf\u00e4llen auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippevirus H5N1 weiterentwickelt und welche Gefahr das birgt",
-      "url": "https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html",
-      "urlToImage": "https://img.sparknews.funkemedien.de/406930402/406930402_1722763108_v16_9_1600.jpeg",
-      "publishedAt": "2024-08-04 09:18:28",
-      "content": "Berlin. Erst infizierte es V\u00f6gel, dann S\u00e4ugetiere, vereinzelt auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippe-Virus weiterentwickelt. Ein neuer \u00dcbertragungsweg, eine neue Tierart: Das Vog\u2026 [+6074 chars]",
-      "retrievedAt": "2024-08-05 19:06:32.911510",
-      "internal_id": "de41770983aa84004a4ad1fa8019d8eef64fa9406d94c36853911a8129da24e8",
       "publishedAtLabel": "Aug 4"
     }
   ]
