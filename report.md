@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-09-16 19:05
-- **Most recent article:** 2024-09-15 18:12:48
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-09-17 07:05
+- **Most recent article:** 2024-09-16 06:47:33
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 134 | 292 | 208 | 207 | 184 | 175 | 3 | 1203 |
-| dengue | 41 | 52 | 64 | 45 | 49 | 76 | 6 | 333 |
-| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 0 | 116 |
-| h5n1 | 5 | 8 | 5 | 10 | 31 | 10 | 0 | 69 |
+| mpox | 138 | 292 | 208 | 207 | 184 | 187 | 6 | 1222 |
+| dengue | 44 | 52 | 64 | 45 | 49 | 76 | 8 | 338 |
+| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 1 | 117 |
+| h5n1 | 6 | 8 | 5 | 10 | 31 | 10 | 0 | 70 |
 | zika | 11 | 10 | 21 | 2 | 6 | 10 | 0 | 60 |
 | measles | 6 | 3 | 7 | 11 | 9 | 5 | 3 | 44 |
-| rabies | 7 | 12 | 6 | 3 | 7 | 5 | 1 | 41 |
+| rabies | 8 | 12 | 6 | 3 | 7 | 5 | 1 | 42 |
 | chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 0 | 41 |
 | meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 0 | 38 |
-| pertussis | 6 | 3 | 5 | 2 | 1 | 5 | 0 | 22 |
+| pertussis | 6 | 3 | 5 | 2 | 1 | 5 | 1 | 23 |
 | leptospirosis | 2 | 2 | 4 | 0 | 1 | 0 | 0 | 9 |
 | hpai | 1 | 1 | 1 | 0 | 3 | 1 | 0 | 7 |
 | yersinia | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 5 |
@@ -37,7 +37,17 @@ Source: [News API](https://newsapi.org/)
 
 - [When our furry friends turn rabid due to rabies](https://www.thestar.com.my/lifestyle/health/know-your-medicines/2024/09/15/when-our-furry-friends-turn-rabid-due-to-rabies) (The Star Online)
 
+## 24-38 (pertussis)
+
+- [College Football Game Canceled Over Whooping Cough Case and Exposure: Officials](https://www.theepochtimes.com/health/college-football-game-canceled-over-whooping-cough-case-and-exposure-officials-5724606) (Theepochtimes.com)
+
 ## 24-38 (mpox)
+
+- [21-day quarantine, tests: Bengaluru airport sets up Mpox testing stations](https://www.business-standard.com/health/21-day-quarantine-tests-bengaluru-airport-sets-up-mpox-testing-stations-124091600442_1.html) (Business Standard)
+
+- [Mpox cases: Bengaluru airport starts mandatory Monkeypox testing for international passengers](https://economictimes.indiatimes.com/news/india/mpox-cases-bengaluru-airport-starts-mandatory-monkeypox-testing-for-international-passengers/articleshow/113378881.cms) (The Times of India)
+
+- [Mpox: mundo ultrapassa marca de 100 mil casos, diz OMS](https://brasil.perfil.com/saude/mpox-mundo-ultrapassa-marca-de-100-mil-casos-diz-oms.phtml) (Perfil.com)
 
 - [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi) (Haber7.com)
 
@@ -53,7 +63,15 @@ Source: [News API](https://newsapi.org/)
 
 - [As measles cases increase, experts warn against vaccine skepticism](https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/) (CBS News)
 
+## 24-38 (malaria)
+
+- [Aig-Imoukhuede’s firm becomes CAMA secretariat](https://punchng.com/aig-imoukhuedes-firm-becomes-cama-secretariat/) (The Punch)
+
 ## 24-38 (dengue)
+
+- [दिल्लीवालो सावधान! फिर डराने लगा डेंगू, 24 घंटे में दो मरीजों की मौत](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increased-two-people-died/articleshow/113383493.cms) (The Times of India)
+
+- [Rahul Vaidya shares health update about his and wife Disha Parmar's recovery from dengue; says, ‘We had the worst 7 days of our lives'](https://timesofindia.indiatimes.com/tv/news/hindi/rahul-vaidya-shares-health-update-about-his-and-wife-disha-parmars-recovery-from-dengue-says-we-had-the-worst-7-days-of-our-lives/articleshow/113382111.cms) (The Times of India)
 
 - [Cientistas alertam para o risco da Dengue afetar os destinos de férias da Europa](https://pplware.sapo.pt/ciencia/cientistas-alertam-para-o-risco-da-dengue-afetar-os-destinos-de-ferias-mais-populares-da-europa/) (Sapo.pt)
 
@@ -121,6 +139,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Cross River confirms two Mpox cases](https://punchng.com/cross-river-confirms-two-mpox-cases/) (The Punch)
 
+- [KIA screens passengers daily for Mpox with 4 new testing kiosks](https://timesofindia.indiatimes.com/city/bengaluru/kia-screens-passengers-daily-for-mpox-with-4-new-testing-kiosks/articleshow/113356059.cms) (The Times of India)
+
 - [Δέκα κρούσματα της ευλογιάς των πιθήκων από πιο μεταδοτικό στέλεχος ανακοίνωσε η Ουγκάντα](https://www.newsit.gr/kosmos/eylogia-ton-pithikon-deka-krousmata-apo-pio-metadotiko-stelexos-anakoinose-i-ougkanta/4179837/) (Newsit.gr)
 
 - [En el este de RDC, el Mpox es una amenaza añadida en medio de múltiples desafíos vitales](https://www.elmundo.es/ciencia-y-salud/salud/2024/09/14/66e43ac1e9cf4a381a8b45a3.html) (El Mundo)
@@ -132,6 +152,8 @@ Source: [News API](https://newsapi.org/)
 - [Mpox-Virus breitet sich aus - WHO genehmigt Affenpocken-Impfstoff](https://www.bild.de/leben-wissen/mpox-virus-who-genehmigt-affenpocken-impfstoff-66e55036e3fed11bdbc997d6) (Bild)
 
 - [Google’s divisie DeepMind deinst niet terug voor AI-oplossingen binnen wetenschap](https://www.bnr.nl/nieuws/tech-innovatie/10556789/googles-divisie-deepmind-deinst-niet-terug-voor-ai-oplossingen-binnen-wetenschap) (Www.bnr.nl)
+
+- [Mpox की पहली वैक्सीन को WHO की मंजूरी, 82 प्रतिशत तक है प्रभावी](https://www.aajtak.in/world/story/who-approves-bavarian-nordics-mva-bn-as-first-mpox-vaccine-ntc-2041217-2024-09-14) (Aajtak.in)
 
 - [Мировые страны выделили более 3,6 млн доз вакцины против оспы обезьян](https://life.ru/p/1687440) (Life.ru)
 
@@ -145,11 +167,19 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO clears Bavarian Nordic's vaccine for mpox, sets up access plan](https://www.voanews.com/a/who-clears-bavarian-nordic-s-vaccine-for-mpox-sets-up-access-plan/7783399.html) (VOA News)
 
+- [क्या है Mpox? जानिए कैसे फैलती है ये बीमारी](https://www.aajtak.in/short-videos/video/mpox-virus-outbreak-causes-symptoms-and-treatment-monkey-pox-cases-in-india-2040972-2024-09-13) (Aajtak.in)
+
 - [Mpox: OMS pré-qualifica primeira vacina contra a doença](https://olhardigital.com.br/2024/09/13/medicina-e-saude/mpox-oms-pre-qualifica-primeira-vacina-contra-a-doenca/) (Olhardigital.com.br)
+
+- [Roundup: Africa CDC calls for strong mpox detection, cross-border surveillance as cases surge](https://www.thestar.com.my/news/world/2024/09/14/roundup-africa-cdc-calls-for-strong-mpox-detection-cross-border-surveillance-as-cases-surge) (The Star Online)
 
 - [Europa experimenta un aumento del 50% de los casos de mpox en agosto en comparación con julio](https://www.infosalus.com/actualidad/noticia-europa-experimenta-aumento-50-casos-mpox-agosto-comparacion-julio-20240913183311.html) (Infosalus.com)
 
 - [Dansk mpox-vaccine blåstemplet af WHO](https://www.dr.dk/nyheder/seneste/dansk-mpox-vaccine-blaastemplet-af-who) (Www.dr.dk)
+
+- [OMS concede pré-qualificação à primeira vacina contra mpox](https://brasil.perfil.com/saude/oms-concede-pre-qualificacao-a-primeira-vacina-contra-mpox.phtml) (Perfil.com)
+
+- [WHO pre-qualifies first mpox vaccine from Bavarian Nordic](https://www.thehindubusinessline.com/news/national/who-pre-qualifies-first-mpox-vaccine-from-bavarian-nordic/article68639382.ece) (BusinessLine)
 
 - [Weltgesundheitsorganisation genehmigt ersten Mpox-Impfstoff](https://www.tagesschau.de/ausland/afrika/mpox-who-impfung-100.html) (tagesschau.de)
 
@@ -159,6 +189,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox: OMS da luz verde a la vacuna de Bavarian Nordic](https://aristeguinoticias.com/1309/mundo/mpox-oms-da-luz-verde-a-la-vacuna-de-bavarian-nordic/) (Aristeguinoticias.com)
 
+- [OMS pré-qualifica primeira vacina contra mpox](https://saude.ig.com.br/2024-09-13/oms-pre-qualifica-primeira-vacina-contra-mpox.html) (Ig.com.br)
+
 - [WHO segnet erstmals Mpox-Impfstoff ab](https://www.diepresse.com/18859433/who-segnet-erstmals-mpox-impfstoff-ab) (Diepresse.com)
 
 - [Épidémie de Mpox : premier cas au Maroc et pour l’Afrique du nord, « le patient testé positif est un homme de 32 ans »](https://www.sudinfo.be/id880489/article/2024-09-13/epidemie-de-mpox-premier-cas-au-maroc-et-pour-lafrique-du-nord-le-patient-teste) (Sudinfo.be)
@@ -167,13 +199,19 @@ Source: [News API](https://newsapi.org/)
 
 - [DSÖ, M çiçeği virüsüne karşı ilk aşıyı onayladı](https://www.haberturk.com/dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi-haberler-3719678) (Haberturk.com)
 
+- [WHO approves first mpox vaccine to boost access in Africa](https://news.un.org/en/story/2024/09/1154281) (UN News)
+
 - [Mpox: WHO erteilt erste Zulassung für Impfstoff gegen Mpox](https://www.zeit.de/gesundheit/2024-09/mpox-who-zulassung-impfstoff-unicef) (Die Zeit)
+
+- [Mpox vaccine access set to speed up as WHO approves first jab](https://www.channelnewsasia.com/world/mpox-vaccine-world-health-organization-approves-jab-4606856) (CNA)
 
 - [Mpox Vaccine Update Issued by WHO](https://www.newsweek.com/mpox-vaccine-who-update-1953397) (Newsweek)
 
 - [ВОЗ провела преквалификацию вакцины против mpox](https://tass.ru/obschestvo/21857455) (Tass.ru)
 
 - [World Health Organization approves first vaccine against mpox, clearing the way for developing countries](https://www.abc.net.au/news/2024-09-13/bavarian-nordic-mva-bn-vaccine-mpox-who/104350818) (ABC News (AU))
+
+- [WHO grants first mpox vaccine approval to enhance response in Africa](https://www.business-standard.com/world-news/who-grants-first-mpox-vaccine-approval-to-enhance-response-in-africa-124091300954_1.html) (Business Standard)
 
 - [Le feu vert de l’OMS au vaccin Mpox va permettre d’accélérer sa diffusion](https://www.sudinfo.be/id880397/article/2024-09-13/le-feu-vert-de-loms-au-vaccin-mpox-va-permettre-daccelerer-sa-diffusion) (Sudinfo.be)
 
@@ -197,6 +235,8 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO grants first mpox vaccine approval to ramp up response to disease in Africa](https://www.bostonherald.com/2024/09/13/who-grants-first-mpox-vaccine-approval-to-ramp-up-response-to-disease-in-africa/) (Boston Herald)
 
+- [WHO clears Bavarian Nordic's vaccine for mpox](https://www.thestar.com.my/news/world/2024/09/13/who-clears-bavarian-nordic039s-vaccine-for-mpox) (The Star Online)
+
 - [WHO clears Bavarian Nordic's vaccine for mpox](https://www.investing.com/news/stock-market-news/who-clears-bavarian-nordics-vaccine-for-mpox-3615006) (Investing.com)
 
 - [Bavarian Nordics mpox vaccine opnår prækvalifikation hos WHO](https://www.globenewswire.com/news-release/2024/09/13/2945779/0/da/Bavarian-Nordics-mpox-vaccine-opn%C3%A5r-pr%C3%A6kvalifikation-hos-WHO.html) (GlobeNewswire)
@@ -218,6 +258,8 @@ Source: [News API](https://newsapi.org/)
 - [¿Qué sabemos de Jynneos, la vacuna contra Mpox aprobada por Cofepris?](https://www.elfinanciero.com.mx/nacional/2024/09/12/que-sabemos-de-jynneos-la-vacuna-contra-mpox-aprobada-por-cofepris/) (El Financiero)
 
 - [Cofepris aprueba vacuna ‘Jynneos’ contra viruela del mono: ¿quiénes se la pueden aplicar?](https://www.elfinanciero.com.mx/salud/2024/09/12/cofepris-aprueba-vacuna-jynneos-contra-viruela-del-mono-quienes-se-la-pueden-aplicar/) (El Financiero)
+
+- [Mpox deaths rise by 107 in one week, Africa CDC calls toll unacceptable](https://www.business-standard.com/pti-stories/national/mpox-deaths-rise-by-107-in-one-week-as-africa-cdc-calls-toll-unacceptable-124091300001_1.html) (Business Standard)
 
 - [Cofepris aprueba vacuna de Bavarian Nordic contra la viruela del mono](https://www.forbes.com.mx/cofepris-aprueba-vacuna-de-bavarian-nordic-contra-la-viruela-del-mono/) (Forbes.com.mx)
 
@@ -3725,6 +3767,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Factors associated with the spatiotemporal distribution of dog rabies in Tunisia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012296) (Plos.org)
 
+- [Stephen King minns inte att han skrivit boken](https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken) (Svenska Dagbladet)
+
 ## 24-32 (pertussis)
 
 - [State issues public health alert over rising rates of whooping cough](https://www.alaskasnewssource.com/2024/08/08/state-issues-public-health-alert-over-rising-rates-whooping-cough/) (Alaskasnewssource.com)
@@ -4009,6 +4053,14 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO considers convening emergency committee on mpox](https://punchng.com/who-considers-convening-emergency-committee-on-mpox/) (The Punch)
 
+- [News24 | Gauteng man who returned from Peru one of two new positive Mpox cases](https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804) (News24)
+
+- [Tanzania steps up border surveillance as mpox cases reported in neighboring countries](https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries) (The Star Online)
+
+- [Mpox latest: Department of Health calls for vigilance as cases re-emerge](https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/) (The South African)
+
+- [Вирус оспы обезьян атаковал новую страну](https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml) (Gazeta.ru)
+
 ## 24-32 (meningitis)
 
 - [Burden and bacterial etiology of neonatal meningitis at Hawassa University Comprehensive Specialized Hospital, Hawassa, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308523) (Plos.org)
@@ -4090,6 +4142,8 @@ Source: [News API](https://newsapi.org/)
 - [Why Isn’t the Government Protecting Farm Workers From the Bird Flu?](https://newrepublic.com/article/184589/bird-flu-dairy-farm-workers-government-regulations) (The New Republic)
 
 - [Cocirculation of Genetically Distinct Highly Pathogenic Avian Influenza H5N5 and H5N1 Viruses in Crows, Hokkaido, Japan](https://wwwnc.cdc.gov/eid/article/30/9/24-0356_article) (Cdc.gov)
+
+- [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
 
@@ -4174,6 +4228,12 @@ Source: [News API](https://newsapi.org/)
 - [La preocupante lista de la OMS con los patógenos que podrían disparar la próxima pandemia](https://www.nationalgeographic.com.es/ciencia/amenaza-invisible-oms-actualiza-lista-patogenos-pandemicos_22960) (Nationalgeographic.com.es)
 
 - [Brasil se aproxima de 5 mil mortes por dengue em 2024](https://saude.ig.com.br/2024-08-04/brasil-se-aproxima-de-5-mil-mortes-por-dengue-em-2024.html) (Ig.com.br)
+
+- [Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms) (The Times of India)
+
+- [Batac: Ilocos Norte ups measures vs. dengue after 2 deaths](https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/) (Rpnradio.com)
+
+- [Alarmante alza de contagios de dengue: OPS](https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-32 (chikungunya)
 
