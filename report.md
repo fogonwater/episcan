@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 27
-- **Last harvest:** 2024-09-17 19:05
-- **Most recent article:** 2024-09-16 18:56:08
+- **New articles in last harvest:** 31
+- **Last harvest:** 2024-09-18 07:06
+- **Most recent article:** 2024-09-17 06:53:45
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 134 | 292 | 208 | 207 | 184 | 187 | 19 | 1231 |
-| dengue | 41 | 52 | 64 | 45 | 49 | 76 | 14 | 341 |
+| mpox | 138 | 292 | 208 | 207 | 184 | 192 | 37 | 1258 |
+| dengue | 44 | 52 | 64 | 45 | 49 | 76 | 20 | 350 |
 | malaria | 16 | 19 | 27 | 28 | 14 | 12 | 2 | 118 |
-| h5n1 | 5 | 8 | 5 | 10 | 31 | 10 | 4 | 73 |
-| zika | 11 | 10 | 21 | 2 | 6 | 10 | 1 | 61 |
+| h5n1 | 6 | 8 | 5 | 10 | 31 | 10 | 5 | 75 |
+| zika | 11 | 10 | 21 | 2 | 6 | 10 | 3 | 63 |
 | measles | 6 | 3 | 7 | 11 | 9 | 5 | 4 | 45 |
-| rabies | 7 | 12 | 6 | 3 | 7 | 5 | 2 | 42 |
+| rabies | 8 | 12 | 6 | 3 | 7 | 5 | 2 | 43 |
 | chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 1 | 42 |
 | meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 1 | 39 |
 | pertussis | 6 | 3 | 5 | 2 | 1 | 5 | 2 | 24 |
 | leptospirosis | 2 | 2 | 4 | 0 | 1 | 0 | 0 | 9 |
 | hpai | 1 | 1 | 1 | 0 | 3 | 1 | 0 | 7 |
-| yersinia | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 5 |
+| yersinia | 1 | 0 | 1 | 1 | 2 | 0 | 1 | 6 |
 | typhoid | 0 | 1 | 2 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -35,7 +35,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (zika)
 
+- [Santé. Dengue, zika... Pourquoi existe-t-il un risque élevé d'épidémie d’ici 5 ans ?](https://www.ledauphine.com/magazine-sante/2024/09/17/dengue-zika-pourquoi-existe-t-il-un-risque-eleve-d-epidemie-d-ici-5-ans) (Le Dauphiné Libéré)
+
+- [Mosquitoes use infrared detection to help find people](https://www.nih.gov/news-events/nih-research-matters/mosquitoes-use-infrared-detection-help-find-people) (National Institutes of Health)
+
 - [Temperature dependence of mosquitoes: Comparing mechanistic and machine learning approaches](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012488) (Plos.org)
+
+## 24-38 (yersinia)
+
+- [Als mit dem Hund die Pest über die Menschen kam](https://www.welt.de/geschichte/article253537030/Steinzeit-Seuche-Als-mit-dem-Hund-die-Pest-ueber-die-Menschen-kam.html) (DIE WELT)
 
 ## 24-38 (rabies)
 
@@ -51,9 +59,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (mpox)
 
+- [Suspected mpox infection reported from Kerala, samples sent for testing](https://www.business-standard.com/india-news/suspected-mpox-infection-reported-from-kerala-samples-sent-for-testing-124091700287_1.html) (Business Standard)
+
+- [В Индии зафиксировали новый случай с подозрением на оспу обезьян](https://tass.ru/obschestvo/21881947) (Tass.ru)
+
+- [Mpox case suspected in Malappuram: Kerala sends samples for urgent testing](https://economictimes.indiatimes.com/news/india/mpox-case-suspected-in-malappuram-kerala-sends-samples-for-urgent-testing/articleshow/113415106.cms) (The Times of India)
+
+- [Malaysia reports first mpox case of the year; man tests positive for less severe variant](https://www.channelnewsasia.com/asia/malaysia-mpox-clade-2-variant-detected-locally-world-health-organisation-4612336) (CNA)
+
+- [Malaysia reports new mpox case in man without recent international travel](https://www.theonlinecitizen.com/2024/09/17/malaysia-reports-new-mpox-case-in-man-without-recent-international-travel/) (The Online Citizen)
+
+- [Malaysia reports new mpox case](https://www.bangkokpost.com/world/2866991/malaysia-reports-new-mpox-case-of-less-severe-variant) (Bangkok Post)
+
+- [One new mpox case detected, says Health Ministry](https://www.thestar.com.my/news/nation/2024/09/17/one-new-mpox-case-detected-says-health-ministry) (The Star Online)
+
+- [Mpox: US dismisses remoured travel restrictions on Africans](https://punchng.com/mpox-us-dismisses-remoured-travel-restrictions-on-africans/) (The Punch)
+
+- [Japan pledges 3 mil doses of mpox vaccine to WHO](https://japantoday.com/category/national/japan-pledges-3-mil.-doses-of-mpox-vaccine-to-who) (Japan Today)
+
+- [ΕΟΔΥ: Ξεκίνησαν οι εμβολιασμοί για τον ιό mpox - Δείτε τα διαθέσιμα εμβολιαστικά κέντρα](https://www.skai.gr/news/health/eody-ksekinisan-oi-emvoliasmoi-enanti-tou-iou-mpox-ta-emvoliastika-kentra) (Skai.gr)
+
 - [Mpox: No plan to impose travel restrictions on Africans, says US](https://punchng.com/mpox-no-plan-to-impose-travel-restrictions-on-africans-says-us/) (The Punch)
 
+- [More mpox jabs ordered as UK anticipates new strain of virus](https://news.sky.com/story/more-mpox-jabs-ordered-as-uk-anticipates-new-strain-of-virus-13216319) (Sky.com)
+
 - [UK to offer vaccines to boost mpox protection](https://www.bbc.com/news/articles/cwyll8yk1nvo) (BBC News)
+
+- [Neuer Mpox-Impfstoff von Moderna: „Wir brauchen die Unterstützung der Regierung“](https://www.tagesspiegel.de/wissen/neuer-mpox-impfstoff-von-moderna-wir-brauchen-die-unterstutzung-der-regierung-12380279.html) (Der Tagesspiegel)
 
 - [Press release: UK secures more vaccines to help boost resilience against mpox](https://www.gov.uk/government/news/uk-secures-more-vaccines-to-help-boost-resilience-against-mpox) (Www.gov.uk)
 
@@ -64,6 +96,8 @@ Source: [News API](https://newsapi.org/)
 - [VivoPower secures Mpox diagnostic tests distribution heads of agreement for Singapore, Hong Kong and Australia with Sansure Biotech Inc](https://www.globenewswire.com/news-release/2024/09/16/2946718/0/en/VivoPower-secures-Mpox-diagnostic-tests-distribution-heads-of-agreement-for-Singapore-Hong-Kong-and-Australia-with-Sansure-Biotech-Inc.html) (GlobeNewswire)
 
 - [Virax Biolabs expands Mpox test kit distribution in GCC](https://www.investing.com/news/company-news/virax-biolabs-expands-mpox-test-kit-distribution-in-gcc-93CH-3617423) (Investing.com)
+
+- [Recelo a la vacuna de la viruela del mono en la República del Congo: «Dicen que es una forma de acabar con las poblaciones negras y modificar su ADN»](https://www.abc.es/sociedad/recelo-vacuna-viruela-mono-republica-congo-dicen-20240916145222-nt.html) (Www.abc.es)
 
 - [Cosmos Health expands mpox kit distribution to Gulf States](https://www.investing.com/news/company-news/cosmos-health-expands-mpox-kit-distribution-to-gulf-states-93CH-3617378) (Investing.com)
 
@@ -83,9 +117,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox: mundo ultrapassa marca de 100 mil casos, diz OMS](https://brasil.perfil.com/saude/mpox-mundo-ultrapassa-marca-de-100-mil-casos-diz-oms.phtml) (Perfil.com)
 
+- [Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS](https://valor.globo.com/mundo/noticia/2024/09/15/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms.ghtml) (Globo)
+
 - [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi) (Haber7.com)
 
+- [WHO Approves First Mpox Vaccine for Adults in Africa — Then Says Babies Can Get It, Too, Despite No Clinical Trials](https://www.globalresearch.ca/who-approves-first-mpox-vaccine-adults-africa/5867875) (Globalresearch.ca)
+
+- [How Mpox spread across the world: Global Health crises | Mpox virus explained in detailed](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8oIZ49jSKaI) (YouTube)
+
 - [В Африке с начала года выявили более 25 тыс. случаев с подозрением на mpox](https://tass.ru/obschestvo/21868517) (Tass.ru)
+
+- [State in Sh6.7bn plan to combat Mpox](https://nation.africa/kenya/health/state-in-sh6-7bn-plan-to-combat-mpox-4762504) (Nation.africa)
+
+- [WHO flags limited mpox testing in epicenter DRC](https://www.voanews.com/a/who-flags-limited-mpox-testing-in-epicenter-drc-/7784829.html) (VOA News)
 
 - [Pakistan: Another case of mpox reported at Karachi Airport](https://economictimes.indiatimes.com/news/international/world-news/pakistan-another-case-of-mpox-reported-at-karachi-airport/articleshow/113360010.cms) (The Times of India)
 
@@ -111,6 +155,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (h5n1)
 
+- [Ruling Class Says There are No “Signs” That Bird Flu Is Spreading Between Humans](https://www.shtfplan.com/headline-news/ruling-class-says-there-are-no-signs-that-bird-flu-is-spreading-between-humans) (Shtfplan.com)
+
 - [Todo lo que sabemos sobre el brote de gripe aviar H5N1 en República Checa](https://www.sopitas.com/noticias/brote-gripe-aviar-h5n1-republica-checa-septiembre-2024/) (Sopitas.com)
 
 - ['Food theft' among seabirds could be transmission point for deadly avian flu](https://www.sciencedaily.com/releases/2024/09/240916115428.htm) (Science Daily)
@@ -120,6 +166,18 @@ Source: [News API](https://newsapi.org/)
 - [On H5N1 bird flu, the U.S. can and should do more, a top WHO official says](https://www.statnews.com/2024/09/16/h5n1-spread-cow-herds-us-response-who-pandemic-preparedness/) (STAT)
 
 ## 24-38 (dengue)
+
+- [Santé. Dengue, zika... Pourquoi existe-t-il un risque élevé d'épidémie d’ici 5 ans ?](https://www.ledauphine.com/magazine-sante/2024/09/17/dengue-zika-pourquoi-existe-t-il-un-risque-eleve-d-epidemie-d-ici-5-ans) (Le Dauphiné Libéré)
+
+- [डेंगू से निपटने के लिए एक्टिव हुआ निगम, इन 9 उपायों पर कर रही काम, पुलिस से भी होगी शिकायत](https://www.aajtak.in/india/news/story/delhi-corporation-team-becomes-active-to-control-dengue-malaria-chikungunya-training-awareness-campaign-also-started-ntc-2043940-2024-09-17) (Aajtak.in)
+
+- [मुंबई में हर घंटे 2 लोगों को हो रहा है डेंगू, चिकनगुनिया और मलेरिया का भी प्रकोप, आंकड़े आपको भी डरा देंगे](https://navbharattimes.indiatimes.com/metro/mumbai/development/dengue-chikungunya-and-malaria-in-mumbai-2-people-infected-every-hour/articleshow/113407598.cms) (The Times of India)
+
+- [Baguio may mahigit na 6 na libong kaso ng Dengue](https://rpnradio.com/baguio-may-mahigit-na-6-na-libong-kaso-ng-dengue/) (Rpnradio.com)
+
+- [Mosquitoes use infrared detection to help find people](https://www.nih.gov/news-events/nih-research-matters/mosquitoes-use-infrared-detection-help-find-people) (National Institutes of Health)
+
+- [Dengue: los cinco puntos que todas las provincias acordaron para luchar contra la infección](https://www.lanacion.com.ar/sociedad/dengue-los-cinco-puntos-que-todas-las-provincias-acordaron-para-luchar-contra-la-infeccion-nid16092024/) (La Nacion)
 
 - [1 dose of new therapy kills dengue virus in mice](https://www.futurity.org/mrna-gene-editing-dengue-virus-treatment-3248882/) (Futurity: Research News)
 
@@ -201,6 +259,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-37 (mpox)
 
+- [Ugandas mpox caseload rises to double-digit, health official says](https://www.anews.com.tr/africa/2024/09/15/ugandas-mpox-caseload-rises-to-double-digit-health-official-says) (Anews.com.tr)
+
 - [O MPox ou Varíola M](https://observador.pt/opiniao/o-mpox-ou-variola-m/) (Observador.pt)
 
 - [اثربخشی ۵۸ درصدی واکسن باوارین نوردیک علیه mpox](https://www.balatarin.com:443/permlink/2024/9/13/6221613) (Balatarin.com)
@@ -211,17 +271,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Δέκα κρούσματα της ευλογιάς των πιθήκων από πιο μεταδοτικό στέλεχος ανακοίνωσε η Ουγκάντα](https://www.newsit.gr/kosmos/eylogia-ton-pithikon-deka-krousmata-apo-pio-metadotiko-stelexos-anakoinose-i-ougkanta/4179837/) (Newsit.gr)
 
+- [OMS incorpora la vacuna contra la mpox en lista de productos seguros y eficaces](https://peru21.pe/mundo/oms-incorpora-la-vacuna-contra-la-mpox-en-lista-de-productos-seguros-y-eficaces) (Peru21.pe)
+
 - [En el este de RDC, el Mpox es una amenaza añadida en medio de múltiples desafíos vitales](https://www.elmundo.es/ciencia-y-salud/salud/2024/09/14/66e43ac1e9cf4a381a8b45a3.html) (El Mundo)
 
 - [OMS pré-qualifica primeira vacina contra mpox](https://dinheirama.com/oms-pre-qualifica-primeira-vacina-contra-mpox/) (Dinheirama.com)
+
+- [OMS incorpora la vacuna contra la mpox en lista de productos seguros y eficacez](https://peru21.pe/mundo/oms-incorpora-la-vacuna-contra-la-mpox-en-lista-de-productos-seguros-y-eficacez) (Peru21.pe)
 
 - [Τα 10 έφτασαν τα κρούσματα της mpox στην Ουγκάντα](https://www.skai.gr/news/world/ougkanta-o-synolikos-arithmos-ton-krousmaton-tis-mpox-anilthe-se-10) (Skai.gr)
 
 - [Mpox-Virus breitet sich aus - WHO genehmigt Affenpocken-Impfstoff](https://www.bild.de/leben-wissen/mpox-virus-who-genehmigt-affenpocken-impfstoff-66e55036e3fed11bdbc997d6) (Bild)
 
+- [TWiV 1148: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1148/) (Microbe.tv)
+
 - [Google’s divisie DeepMind deinst niet terug voor AI-oplossingen binnen wetenschap](https://www.bnr.nl/nieuws/tech-innovatie/10556789/googles-divisie-deepmind-deinst-niet-terug-voor-ai-oplossingen-binnen-wetenschap) (Www.bnr.nl)
 
 - [Mpox की पहली वैक्सीन को WHO की मंजूरी, 82 प्रतिशत तक है प्रभावी](https://www.aajtak.in/world/story/who-approves-bavarian-nordics-mva-bn-as-first-mpox-vaccine-ntc-2041217-2024-09-14) (Aajtak.in)
+
+- [Number of Irish mpox cases revealed, one month after ‘public health emergency’ declared](https://www.independent.ie/irish-news/number-of-irish-mpox-cases-revealed-one-month-after-public-health-emergency-declared/a149495783.html) (Independent.ie)
 
 - [Мировые страны выделили более 3,6 млн доз вакцины против оспы обезьян](https://life.ru/p/1687440) (Life.ru)
 
@@ -3835,6 +3903,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Factors associated with the spatiotemporal distribution of dog rabies in Tunisia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012296) (Plos.org)
 
+- [Stephen King minns inte att han skrivit boken](https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken) (Svenska Dagbladet)
+
 ## 24-32 (pertussis)
 
 - [State issues public health alert over rising rates of whooping cough](https://www.alaskasnewssource.com/2024/08/08/state-issues-public-health-alert-over-rising-rates-whooping-cough/) (Alaskasnewssource.com)
@@ -4119,6 +4189,14 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO considers convening emergency committee on mpox](https://punchng.com/who-considers-convening-emergency-committee-on-mpox/) (The Punch)
 
+- [News24 | Gauteng man who returned from Peru one of two new positive Mpox cases](https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804) (News24)
+
+- [Tanzania steps up border surveillance as mpox cases reported in neighboring countries](https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries) (The Star Online)
+
+- [Mpox latest: Department of Health calls for vigilance as cases re-emerge](https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/) (The South African)
+
+- [Вирус оспы обезьян атаковал новую страну](https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml) (Gazeta.ru)
+
 ## 24-32 (meningitis)
 
 - [Burden and bacterial etiology of neonatal meningitis at Hawassa University Comprehensive Specialized Hospital, Hawassa, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308523) (Plos.org)
@@ -4200,6 +4278,8 @@ Source: [News API](https://newsapi.org/)
 - [Why Isn’t the Government Protecting Farm Workers From the Bird Flu?](https://newrepublic.com/article/184589/bird-flu-dairy-farm-workers-government-regulations) (The New Republic)
 
 - [Cocirculation of Genetically Distinct Highly Pathogenic Avian Influenza H5N5 and H5N1 Viruses in Crows, Hokkaido, Japan](https://wwwnc.cdc.gov/eid/article/30/9/24-0356_article) (Cdc.gov)
+
+- [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
 
@@ -4284,6 +4364,12 @@ Source: [News API](https://newsapi.org/)
 - [La preocupante lista de la OMS con los patógenos que podrían disparar la próxima pandemia](https://www.nationalgeographic.com.es/ciencia/amenaza-invisible-oms-actualiza-lista-patogenos-pandemicos_22960) (Nationalgeographic.com.es)
 
 - [Brasil se aproxima de 5 mil mortes por dengue em 2024](https://saude.ig.com.br/2024-08-04/brasil-se-aproxima-de-5-mil-mortes-por-dengue-em-2024.html) (Ig.com.br)
+
+- [Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms) (The Times of India)
+
+- [Batac: Ilocos Norte ups measures vs. dengue after 2 deaths](https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/) (Rpnradio.com)
+
+- [Alarmante alza de contagios de dengue: OPS](https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-32 (chikungunya)
 
