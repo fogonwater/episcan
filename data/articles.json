@@ -1,8 +1,262 @@
 {
-  "last_updated": "2024-09-18 19:06",
-  "count_articles_total": 2002,
-  "count_articles_new": 15,
+  "last_updated": "2024-09-19 07:06",
+  "count_articles_total": 2027,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 13649,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Student's meningitis warning to undergraduates",
+      "description": "A student urges undergraduates to check they have been vaccinated after becoming seriously ill.",
+      "url": "https://www.bbc.com/news/articles/cn0eew949xzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36b3/live/e5e3d5d0-7434-11ef-bc2c-0b6ef9bee4c0.jpg",
+      "publishedAt": "2024-09-18 06:32:07",
+      "content": "\"There was a three-day period where things could have gone either way... I went downhill so quickly,\" said Manolo Niembro, after he developed meningitis A student who said he almost died a few weeks\u2026 [+3432 chars]",
+      "retrievedAt": "2024-09-19 07:06:27.127379",
+      "internal_id": "9d81650d6771125d016462ef30ea126ff9ecedd235f8b3c9efd5c34801cc7867",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13647,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Daniela Santos",
+      "title": "Governo Lula quer se antecipar e lan\u00e7a plano para prevenir dengue",
+      "description": "Ap\u00f3s alta de casos da dengue em 2024, o governo federal lan\u00e7a nesta quarta-feira (18/9) diretrizes para o combate \u00e0 doen\u00e7a no pa\u00eds",
+      "url": "https://www.metropoles.com/brasil/governo-lula-quer-se-antecipar-e-lanca-plano-para-prevenir-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/04/08123020/Lula-Nisia.jpeg",
+      "publishedAt": "2024-09-18 05:00:38",
+      "content": "O governo do presidente Luiz In\u00e1cio Lula da Silva (PT) lan\u00e7a nesta quarta-feira (18/9) um \u201cplano de a\u00e7\u00e3o\u201d com o objetivo de reduzir os impactos da dengue. A iniciativa passou a ser discutida ap\u00f3s o p\u2026 [+1322 chars]",
+      "retrievedAt": "2024-09-19 07:06:26.805216",
+      "internal_id": "e5bd7e5333258ac71b9d74bf6fa8618d5cf1007d992bc00dc90fe8d33245307b",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13652,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Submits Label Extension Applications for its Chikungunya Vaccine, IXCHIQ\u00ae, to EMA and Health Canada",
+      "description": "To potentially include adolescents and antibody persistence up to two years Saint Herblain (France), September 18, 2024 \u2013 Valneva SE (Nasdaq: VALN;......",
+      "url": "https://www.globenewswire.com/news-release/2024/09/18/2947925/0/en/Valneva-Submits-Label-Extension-Applications-for-its-Chikungunya-Vaccine-IXCHIQ-to-EMA-and-Health-Canada.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2024-09-18 05:00:00",
+      "content": "To potentially include adolescents and antibody persistence up to two years Saint Herblain (France), September 18, 2024Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, to\u2026 [+8775 chars]",
+      "retrievedAt": "2024-09-19 07:06:28.605175",
+      "internal_id": "ef49cfda8cec65245a578a7bdca2c44c4875775913fd98cb2903e8203646fcac",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13653,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva soumet des demandes d\u2019\u00e9largissement de l\u2019indication de son vaccin contre le chikungunya IXCHIQ\u00ae \u00e0 l\u2019EMA et Sant\u00e9 Canada",
+      "description": "Avec pour objectif l\u2019ajout des adolescents et de la persistance des anticorps jusqu\u2019\u00e0 deux ans Saint Herblain (France), le 18 septembre, 2024 \u2013 Valneva...",
+      "url": "https://www.globenewswire.com/news-release/2024/09/18/2947925/0/fr/Valneva-soumet-des-demandes-d-%C3%A9largissement-de-l-indication-de-son-vaccin-contre-le-chikungunya-IXCHIQ-%C3%A0-l-EMA-et-Sant%C3%A9-Canada.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2024-09-18 05:00:00",
+      "content": "Avec pour objectif lajout des adolescents et de la persistance des anticorps jusqu\u00e0 deux ans Saint Herblain (France), le 18 septembre, 2024Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), Valneva SE \u2026 [+10489 chars]",
+      "retrievedAt": "2024-09-19 07:06:28.611468",
+      "internal_id": "045f00d5fc0744e7131991f0177bcaf93f12bdf5353869bd8fc8f00192639c2b",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13661,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Benedikta Desideria",
+      "title": "Malaysia Laporkan Kasus Mpox atau Cacar Monyet, Tak Ada Riwayat ke Luar Negeri",
+      "description": "Negara tetangga Malaysia melaporkan kasus Mpox atau cacar. Ini kasus pertama monyet pertama di sepanjang 2024.",
+      "url": "https://www.liputan6.com/health/read/5704721/malaysia-laporkan-kasus-mpox-atau-cacar-monyet-tak-ada-riwayat-ke-luar-negeri",
+      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/wl1liqgJNhYMqFrkY3sR_qHGEyw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4374767/original/055896900_1680005299-Thumbnail_Liputan6.com.jpg",
+      "publishedAt": "2024-09-18 04:31:00",
+      "content": "Liputan6.com, Jakarta Negara tetangga Malaysia melaporkan kasus Mpox atau cacar monyet pada Selasa, 17 September 2024. Ini adalah kasus pertama di Malaysia sepanjang 2024. Pada Senin kemarin, pria t\u2026 [+1338 chars]",
+      "retrievedAt": "2024-09-19 07:06:29.086564",
+      "internal_id": "faecd08de7b4e8f22cd0817449a7ec4bd4bc22dc910658dd8d2d62d3956072f1",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13651,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Julia Riedl",
+      "title": "Wiener Tropenmediziner leitet Forschungszentrum in Gabun [premium]",
+      "description": "Bertrand Lell sucht im zentralafrikanischen Gabun nach neuen Wegen, um Krankheiten wie Malaria zu bek\u00e4mpfen.",
+      "url": "https://www.diepresse.com/18858878/wiener-tropenmediziner-leitet-forschungszentrum-in-gabun",
+      "urlToImage": "https://img.diepresse.com/public/incoming/cgm27z-Bertradn_Lell_Labor.jpg/alternates/DPR_SOCIAL_MAGAZIN/Bertradn_Lell_Labor.jpg",
+      "publishedAt": "2024-09-18 04:18:00",
+      "content": "Bertrand Lell sucht im zentralafrikanischen Gabun nach neuen Wegen, um Krankheiten wie Malaria zu bek\u00e4mpfen. Der erste Gedanke, als er das erste Mal nach Gabun kam? Was hat mich blo\u00df geritten, dass \u2026 [+2571 chars]",
+      "retrievedAt": "2024-09-19 07:06:27.648723",
+      "internal_id": "7ad778f677afc9ea7276e95c3b9421eb33e16ca4fe037a2d5a79d5bf56e76801",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13655,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Mpox: Kelantan residents returning from high-risk countries urged to report Health Dept",
+      "description": "KOTA BHARU: Kelantan residents returning from high-risk countries, including African nations like the Democratic Republic of the Congo, are advised to notify the Kelantan State Health Department to facilitate monitoring and prevent the spread of monkeypox, or\u2026",
+      "url": "https://www.thestar.com.my/news/nation/2024/09/18/mpox-kelantan-residents-returning-from-high-risk-countries-urged-to-report-health-dept",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/09/18/2917922.jpg",
+      "publishedAt": "2024-09-18 03:14:00",
+      "content": "KOTA BHARU: Kelantan residents returning from high-risk countries, including African nations like the Democratic Republic of the Congo, are advised to notify the Kelantan State Health Department to f\u2026 [+1193 chars]",
+      "retrievedAt": "2024-09-19 07:06:29.017090",
+      "internal_id": "3de9c7fe471bc571ff15708178d3252fc566ad97cfd677b781c4a91ab7f8d5fb",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13658,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u0388\u03bd\u03b1\u03c2 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2, 53 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 mpox \u03c3\u03c4\u03b7\u03bd \u039a\u03b5\u03bd\u03c4\u03c1\u03bf\u03b1\u03c6\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1",
+      "description": "\u0388\u03c7\u03bf\u03c5\u03bd \u03b5\u03be\u03b1\u03c3\u03c6\u03b1\u03bb\u03b9\u03c3\u03c4\u03b5\u03af \u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ac \u03ba\u03ac\u03c0\u03bf\u03c5 3,6 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03c4\u03b7\u03c2 \u0391\u03c6\u03c1\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03ba\u03ac\u03c0\u03bf\u03b9\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ae\u03b4\u03b7 \u03c6\u03b8\u03ac\u03c3\u03b5\u03b9 \u03c3\u03c4\u03b9\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03bf\u03c0\u03bf\u03af\u03b5\u03c2 \u03c0\u03c1\u03bf\u03bf\u03c1\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 | \u0391\u03c6\u03c1\u03b9\u03ba\u03ae | \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd | mpox | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1541680/enas-thanatos-53-epivevaiomena-krousmata-tis-mpox-stin-kedroafrikaniki-dimokratia/",
+      "urlToImage": "https://i1.prth.gr/images/640x360share/files/2024-09-18/mpox_africa.jpg",
+      "publishedAt": "2024-09-18 02:39:24",
+      "content": "Vodafone, , , Vodafone Posidonia",
+      "retrievedAt": "2024-09-19 07:06:29.048172",
+      "internal_id": "a270da9dd01892fd734c714c77d19676be08370e9486417d3badab2b65070cce",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13654,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Jess Cockerill",
+      "title": "Just One Shot of an Existing Vaccine Could Prevent Mpox Infection",
+      "description": "Great news.",
+      "url": "https://www.sciencealert.com/just-one-shot-of-an-existing-vaccine-could-prevent-mpox-infection",
+      "urlToImage": "https://www.sciencealert.com/images/2022/09/MonkeypoxUnderMicroscope.jpg",
+      "publishedAt": "2024-09-18 01:42:28",
+      "content": "Mpox (formerly known as monkeypox) is a viral infection that can be prevented with just a single dose of an existing vaccine, a new study finds. This discovery could help slow the tide of the global\u2026 [+3484 chars]",
+      "retrievedAt": "2024-09-19 07:06:28.893927",
+      "internal_id": "83ffda66fc8ba5cf34938b209a41ebed01df10ad1e7ae4bf3ef157d4df519c5f",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13656,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd: \u0388\u03bd\u03b1\u03c2 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2, 53 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b7\u03bd \u039a\u03b5\u03bd\u03c4\u03c1\u03bf\u03b1\u03c6\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1",
+      "description": "\u03a3\u03c4\u03b1 \u03bc\u03ad\u03c3\u03b1 \u03c4\u03bf\u03c5 \u0391\u03c5\u03b3\u03bf\u03cd\u03c3\u03c4\u03bf\u03c5, \u03bf \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 (\u03a0\u039f\u03a5) \u03ba\u03ae\u03c1\u03c5\u03be\u03b5 \u00ab\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03ad\u03ba\u03c4\u03b1\u03ba\u03c4\u03b7\u03c2 \u03c5\u03b3\u03b5\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae\u03c2 \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7\u03c2 \u03b4\u03b9\u03b5\u03b8\u03bd\u03bf\u03cd\u03c2 \u03b5\u03bc\u03b2\u03ad\u03bb\u03b5\u03b9\u03b1\u03c2\u00bb, \u03c4\u03bf \u03c5\u03c8\u03b7\u03bb\u03cc\u03c4\u03b5\u03c1\u03bf \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf \u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03bf\u03cd \u03c4\u03bf\u03c5, \u03b5\u03be\u03b1\u03b9\u03c4\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03ad\u03be\u03b1\u03c1\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5, \u03ba\u03c5\u03c1\u03af\u03c9\u03c2 \u03c3\u03b5 \u03ba\u03c1\u03ac\u03c4\u03b7 \u03c4\u03b7\u03c2 \u0391\u03c6\u03c1\u03b9\u03ba\u03ae\u03c2.",
+      "url": "https://www.skai.gr/news/world/eylogia-ton-pithikon-enas-thanatos-53-krousmata-stin-kentroafrikaniki-dimokratia",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-09/shutterstock-emvolio-mpox.jpg?itok=bI931qhx",
+      "publishedAt": "2024-09-18 00:40:25",
+      "content": ", () \u00ab \u00bb, , , . mpox 53 , . \u00ab 310 53 , \u00bb, , . , 9 , . , () \u00ab \u00bb, , , . \u00ab , \u00bb, . , \u00ab \u00bb \u00ab \u00bb, \u00ab \u00bb. , , 2016. , mpox 14 , (796 ), - (162), (45), (ACDC). , 22.000 716 mpox , . 3,6 , , . .\u2026 [+20 chars]",
+      "retrievedAt": "2024-09-19 07:06:29.032372",
+      "internal_id": "90fbc901e0776722e2f5bc3a37c3a10524ffeeea61b60bf95502f4c7e1520168",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13650,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Opinion",
+      "title": "Breaking the cycle of Malaria misdiagnosis in Nigeria",
+      "description": "What is the available data on malaria telling us? According to the Primary Healthcare Performance Initiative funded by the Bill and Melinda Gates Foundation, diagnostic accuracy in Nigeria is as low as 36.4%. This means that less than 4 out of 10 patients who\u2026",
+      "url": "https://punchng.com/breaking-the-cycle-of-malaria-misdiagnosis-in-nigeria/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/25134519/malaria1.jpg",
+      "publishedAt": "2024-09-17 23:26:00",
+      "content": "What is the available data on malaria telling us? According to the Primary Healthcare Performance Initiative funded by the Bill and Melinda Gates Foundation, diagnostic accuracy in Nigeria is as low \u2026 [+7086 chars]",
+      "retrievedAt": "2024-09-19 07:06:27.637473",
+      "internal_id": "61407ee14d480aea71c33d9d19732649b314d9e5796509cf752b0593de9d6216",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 13657,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "First mpox case this year detected",
+      "description": "PETALING JAYA: A new mpox case has been detected, making it the first this year and the 10th such case in Malaysia since last year, says the Health Ministry. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/09/18/first-mpox-case-this-year-detected",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/09/18/2917796.JPG",
+      "publishedAt": "2024-09-17 23:00:00",
+      "content": "PETALING JAYA: A new mpox case has been detected, making it the first this year and the 10th such case in Malaysia since last year, says the Health Ministry. The male patient began showing symptoms \u2026 [+1910 chars]",
+      "retrievedAt": "2024-09-19 07:06:29.038208",
+      "internal_id": "f1ff615ee7fe9eb9dc0a15c4d32cdb25a29827bb38e6b2e1054c1207acc7ee6c",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 13648,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Arnoldo Delgadillo",
+      "title": "Salud fumigar\u00e1 contra el dengue en los tres municipios m\u00e1s grandes de Colima",
+      "description": "La Secretar\u00eda de Salud del Gobierno del Estado de Colima informa que este mi\u00e9rcoles 18 de septiembre continuar\u00e1 la fumigaci\u00f3n contra el dengue, zika y chikungunya en la zona centro de los tres municipios m\u00e1s grandes de la entidad, as\u00ed como en Minatitl\u00e1n.Esta \u2026",
+      "url": "https://www.milenio.com/estados/colima-comienza-fumigaciones-contra-el-dengue",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/09/17/comienzan-fumigaciones-dengue-colima-foto.jpeg",
+      "publishedAt": "2024-09-17 21:44:57",
+      "content": "La Secretar\u00eda de Salud del Gobierno del Estado de Colima informa que este mi\u00e9rcoles 18 de septiembre continuar\u00e1 la fumigaci\u00f3n contra el dengue, zika y chikungunya en la zona centro de los tres munici\u2026 [+2889 chars]",
+      "retrievedAt": "2024-09-19 07:06:26.815686",
+      "internal_id": "6b92facd7beb31f900a89a7dfb943af607118e9236247b80d866bb1556d3f209",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 13646,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Faith Ridler",
+      "title": "'Vaccines can save lives': Mother of child who died after catching measles urges uptake of jabs",
+      "description": "The mother of a 10-year-old girl who died from a rare complication of measles years after contracting the disease has urged parents to \"save lives\" by getting their own children vaccinated.",
+      "url": "https://news.sky.com/story/mother-of-girl-who-died-after-catching-measles-urges-people-to-get-their-children-vaccinated-13216929",
+      "urlToImage": "https://e3.365dm.com/24/09/1600x900/skynews-becky-archer-renae-archer_6688867.jpg?20240917222714",
+      "publishedAt": "2024-09-17 20:48:00",
+      "content": "The mother of a 10-year-old girl who died from a rare complication of measles years after contracting the disease has urged parents to \"save lives\" by getting their own children vaccinated. Becky Ar\u2026 [+3210 chars]",
+      "retrievedAt": "2024-09-19 07:06:25.419701",
+      "internal_id": "595f7dcf89483f1ed1c697d00306cfb9d810c2d8512468f7e8d3afe8cb6d9425",
+      "publishedAtLabel": "Sep 17"
+    },
     {
       "id": 13633,
       "query": [
@@ -114,6 +368,24 @@
       "publishedAtLabel": "Sep 17"
     },
     {
+      "id": 13659,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u0915\u0947\u0930\u0932 \u0915\u0947 \u092e\u0932\u094d\u0932\u092a\u0941\u0930\u092e \u092e\u0947\u0902 Mpox \u0915\u093e \u0938\u0902\u0926\u093f\u0917\u094d\u0927 \u0915\u0947\u0938, \u0926\u0941\u092c\u0908 \u0938\u0947 \u0932\u094c\u091f\u093e \u0925\u093e \u0936\u0916\u094d\u0938",
+      "description": "\u0915\u0947\u0930\u0932 \u0915\u0947 \u092e\u0932\u092a\u094d\u092a\u0941\u0930\u092e \u091c\u093f\u0932\u0947 \u092e\u0947\u0902 \u092e\u0902\u0915\u0940\u092a\u0949\u0915\u094d\u0938 \u0935\u093e\u092f\u0930\u0938 \u0915\u093e \u0938\u0902\u0926\u093f\u0917\u094d\u0927 \u092e\u093e\u092e\u0932\u093e \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948. \u0926\u0941\u092c\u0908 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0936\u0916\u094d\u0938 \u092e\u0947\u0902 \u0907\u0938\u0915\u093e \u0932\u0915\u094d\u0937\u0923 \u092a\u093e\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u0914\u0930 \u092a\u0924\u093e \u091a\u0932\u0928\u0947 \u0915\u0947 \u0924\u0941\u0930\u0902\u0924 \u092c\u093e\u0926 \u0936\u0916\u094d\u0938 \u0928\u0947 \u0916\u0941\u0926\u0915\u094b \u092a\u0930\u093f\u0935\u093e\u0930 \u0938\u0947 \u0905\u0932\u0917 \u0915\u0930 \u0932\u093f\u092f\u093e \u0925\u093e \u0914\u0930 \u092a\u094d\u0930\u093e\u0907\u0935\u0947\u091f \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092e\u0947\u0902 \u090f\u0921\u092e\u093f\u091f \u0925\u093e. \u0905\u092c \u0909\u0938\u0947 \u092e\u0902\u091c\u0947\u0930\u0940 \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092e\u0947\u0902 \u0930\u0947\u092b\u0930 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948.\u2026",
+      "url": "https://www.aajtak.in/india/news/story/mpox-cases-in-india-monkeypox-virus-suspect-case-in-malappuram-ttc-2044764-2024-09-17",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202409/66e98f10dd0ae-a-health-worker-attends-to-a-mpox-patient--at-a-treatment-centre-in-munigi--eastern-congo--friday--a-171543482-16x9.jpg",
+      "publishedAt": "2024-09-17 14:17:55",
+      "content": ". . . . , . : ... - ? 26 , \" . . .\" , 26 . . . , 2022 30 . , . PHEIC . ? - , . . , . : , , .... ? 24 . 9 . 21 .",
+      "retrievedAt": "2024-09-19 07:06:29.058633",
+      "internal_id": "714b27dd96c885d67398ff975106c521af650b4e59c1b755e442a364b2c0a254",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
       "id": 13643,
       "query": [
         "meningitis"
@@ -147,6 +419,24 @@
       "content": "O v\u00edrus mortal da gripe avi\u00e1ria H5N1, que matou milh\u00f5es de aves em todo o mundo desde 2021 \u2013 e que, em casos raros, pode ser transmitido aos seres humanos \u2013 pode estar a propagar-se atrav\u00e9s do compor\u2026 [+5212 chars]",
       "retrievedAt": "2024-09-18 19:06:09.596187",
       "internal_id": "d6543cf6a38cfd2763ce228f7308ff3f408d4ce3f27c65d6d1424938e0dbd6c3",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 13660,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anews.com.tr",
+      "author": "Anadolu Agency",
+      "title": "Malaysia reports 1 more mpox, taking toll to 10",
+      "description": "Malaysia has reported its 10th mpox case, with the Health Ministry investigating a new clade II variant. No recent travel history is noted for the patient, and contact tracing is underway. The WHO has declared mpox a global health emergency, with significant \u2026",
+      "url": "https://www.anews.com.tr/health/2024/09/17/malaysia-reports-1-more-mpox-taking-toll-to-10",
+      "urlToImage": "https://ia.tmgrup.com.tr/db1297/806/378/0/149/1240/730?u=https://i.tmgrup.com.tr/anews/v1/2024/09/17/malaysia-reports-1-more-mpox-taking-toll-to-10-1726561290806.jfif",
+      "publishedAt": "2024-09-17 12:15:42",
+      "content": "Malaysia on Tuesday reported one more case of mpox, taking the overall toll to 10, the country's Health Ministry said. The ministry said on X it received 58 suspected cases of mpox this year and a c\u2026 [+1082 chars]",
+      "retrievedAt": "2024-09-19 07:06:29.076989",
+      "internal_id": "aab6d7f7e205f25c18a31c6f4711ba678ad93c9efc0f75a9a1c16a174ba2b51e",
       "publishedAtLabel": "Sep 17"
     },
     {
@@ -36128,6 +36418,168 @@
       "content": "Ground Picture/Shutterstock So far in 2024 there have been more than 17,000 cases of whooping cough (pertussis) across Australia. This is well above our usual national average. It\u2019s already six time\u2026 [+7734 chars]",
       "retrievedAt": "2024-08-06 07:05:59.718814",
       "internal_id": "a8aca7ebf754534c7e7522880a93ace32555568ebfbddfc68c16474cd1c68f1f",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11638,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Hamsaveni N",
+      "title": "Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru",
+      "description": "BENGALURU: The post-Covid dip in blood collection at private blood banks across Bengaluru has had a ripple effect now: The current dengue surge - the .",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112270454,width-1070,height-580,imgsize-88292,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-04 19:03:11",
+      "content": "8 flowers and plants that will attract birds to your garden",
+      "retrievedAt": "2024-08-05 19:06:33.378068",
+      "internal_id": "35c6371fcd18fd95fa639b487c0a6258d2459868918be515c731ef339f3b6e25",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11635,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Marit Furn",
+      "title": "Stephen King minns inte att han skrivit boken",
+      "description": "RECENSION. I \u201dCujo\u201d skildrar skr\u00e4ckm\u00e4staren Stephen King en familj vars hund smittas av rabies och blir blodt\u00f6rstig. N\u00e4r Marit Furn \u00e5terv\u00e4nder till sin f\u00f6rsta vuxenbok ser hon sp\u00e5r av f\u00f6rfattarens egna problem mellan raderna.",
+      "url": "https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken",
+      "urlToImage": "https://svd.vgc.no/v2/images/5963db5d-7433-4677-9ede-aefb34d9b471?h=630&q=80&upscale=true&w=1200&s=b5ef319b52ecbd66c839d1021bb787b68695e248",
+      "publishedAt": "2024-08-04 18:14:17",
+      "content": "Pocketen med den hotfullt dreglande sankt bernadsk\u00e4ften p\u00e5 omslaget var den f\u00f6rsta vuxenbok jag l\u00e4ste p\u00e5 egen hand. Jag var tolv och hade redan fyllt ett ljusbl\u00e5tt skrivh\u00e4fte med egna sm\u00e5 skr\u00e4ckhisto\u2026 [+410 chars]",
+      "retrievedAt": "2024-08-05 19:06:32.284730",
+      "internal_id": "976b8e69793b364b4d7b0a1679096b41a6ca98be31abef42adca22cc2c26e11c",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11639,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Ntwaagae Seleka",
+      "title": "News24 | Gauteng man who returned from Peru one of two new positive Mpox cases",
+      "description": "Two more laboratory-confirmed cases of Mpox disease have been detected in Gauteng and KwaZulu-Natal, increasing the number of cases to 24 countrywide. The recent cases come 26 days after the first Mpox cases were reported in South Africa.",
+      "url": "https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12005/52927e9345ee42a398d20300416fbd5e.jpg",
+      "publishedAt": "2024-08-04 17:36:50",
+      "content": "A man who returned from Peru is among two new confirmed cases of the Mpox disease.The second patient is a KwaZulu-Natal man with no international travel history.The number o\u2026 [+2274 chars]",
+      "retrievedAt": "2024-08-05 19:06:34.627881",
+      "internal_id": "37e26ea3704f19277cc0f30dc3708f1286a942f445f80d8b6e2530a52e68e357",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11641,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Lucas Liganga, Hua Hongli",
+      "title": "Tanzania steps up border surveillance as mpox cases reported in neighboring countries",
+      "description": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectious disease caused by the mpox virus, were reported in neighbo\u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-08-04 17:25:00",
+      "content": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectiou\u2026 [+1601 chars]",
+      "retrievedAt": "2024-08-05 19:06:34.672152",
+      "internal_id": "8237f4e09e1f1fbab8ac1312f7fe595be473832097e28dea52046bfefa448da3",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11642,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The South African",
+      "author": "Nokwanda Ncwane",
+      "title": "Mpox latest: Department of Health calls for vigilance as cases re-emerge",
+      "description": "The Department of Health says of the 22 cases of Mpox recorded between May and July, 19 have fully recovered and three have died.",
+      "url": "https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/",
+      "urlToImage": "https://www.thesouthafrican.com/wp-content/uploads/2024/07/monkeypox-vaccinee-1200x776-1.jpg",
+      "publishedAt": "2024-08-04 16:15:00",
+      "content": "The Department of Health calls for ongoing public vigilance against Mpox disease as two more laboratory-confirmed cases have been detected in Gauteng and KwaZulu-Natal. The recent cases come 26 day\u2026 [+1712 chars]",
+      "retrievedAt": "2024-08-05 19:06:34.689903",
+      "internal_id": "e06ef9bb314a526bdcf4ea374f6637793af0fd09ec7f47f15f0deb798c52aa96",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11645,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Batac: Ilocos Norte ups measures vs. dengue after 2 deaths",
+      "description": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. \u201cThere is intensive information education campaign in every muni\u2026",
+      "url": "https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/08/bfp-dumalneg.jpg",
+      "publishedAt": "2024-08-04 14:27:32",
+      "content": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. The\u2026 [+1583 chars]",
+      "retrievedAt": "2024-08-06 07:06:01.244200",
+      "internal_id": "26ac7da7b8d3e328b303e2f8207f23d731f71d8ec0172bf1b07c5f1bec1a2549",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11640,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.ru",
+      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
+      "title": "\u0412\u0438\u0440\u0443\u0441 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0443",
+      "description": "\u0412 \u0423\u0433\u0430\u043d\u0434\u0435 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d (Mpox). \u041e \u0434\u0432\u0443\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0445 \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 AFP. \u0421\u043b\u0443\u0447\u0430\u0438 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0430\u0445 \u041a\u0430\u0441\u0435\u0441\u0435 \u0438 \u041c\u043f\u043e\u043d\u0434\u0432\u0435. \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0423\u0433\u0430\u043d\u0434\u044b \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e, \u0447\u0442\u043e \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u044f \u043f\u0440\u0438\u0448\u043b\u0430 \u0438\u0437 \u0441\u043e\u0441\u0435\u0434\u043d\u0435\u0439 ...",
+      "url": "https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml",
+      "urlToImage": "https://img.gazeta.ru/files3/693/15643693/20180530_gaf_uw8_1540-pic_32ratio_900x600-900x600-83778.jpg",
+      "publishedAt": "2024-08-04 14:26:07",
+      "content": ": .Ru (Gazeta.Ru) : \u00ab.\u00bb, 1067761730376, 7743625728 : 125239, , , , 67 : 117105, . , , .9, .1",
+      "retrievedAt": "2024-08-05 19:06:34.657950",
+      "internal_id": "f1cb32251d71a2a99841f1385c3790995f0fae5a96d8daeef8feb03fb2f3f13a",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11637,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Alarmante alza de contagios de dengue: OPS",
+      "description": "Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u00f3n de Centroam\u00e9rica, sostuvo Jorge Saavedra, director ejecutivo del Instituto Aids Healthcare Foundation de Salud P\u00fa\u2026",
+      "url": "https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-08-04 10:32:04",
+      "content": "Peri\u00f3dico La JornadaDomingo 4 de agosto de 2024, p. 27 Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u2026 [+2640 chars]",
+      "retrievedAt": "2024-08-05 19:06:33.364484",
+      "internal_id": "aedd625f819b1e21fcb3280d0254d4ecb1713066d06e71f3deae34b4728969f5",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11636,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Kai Wiedermann",
+      "title": "Vogelgrippe: Virus pirscht sich n\u00e4her an den Menschen heran",
+      "description": "Erst V\u00f6gel, dann S\u00e4ugetiere und in Einzelf\u00e4llen auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippevirus H5N1 weiterentwickelt und welche Gefahr das birgt",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406930402/406930402_1722763108_v16_9_1600.jpeg",
+      "publishedAt": "2024-08-04 09:18:28",
+      "content": "Berlin. Erst infizierte es V\u00f6gel, dann S\u00e4ugetiere, vereinzelt auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippe-Virus weiterentwickelt. Ein neuer \u00dcbertragungsweg, eine neue Tierart: Das Vog\u2026 [+6074 chars]",
+      "retrievedAt": "2024-08-05 19:06:32.911510",
+      "internal_id": "de41770983aa84004a4ad1fa8019d8eef64fa9406d94c36853911a8129da24e8",
       "publishedAtLabel": "Aug 4"
     }
   ]
