@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-09-19 07:06
-- **Most recent article:** 2024-09-18 06:32:07
+- **New articles in last harvest:** 29
+- **Last harvest:** 2024-09-19 19:05
+- **Most recent article:** 2024-09-18 18:34:23
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 138 | 292 | 208 | 207 | 184 | 192 | 47 | 1268 |
-| dengue | 44 | 52 | 64 | 45 | 49 | 76 | 28 | 358 |
-| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 4 | 120 |
-| h5n1 | 6 | 8 | 5 | 10 | 31 | 10 | 7 | 77 |
+| mpox | 134 | 292 | 208 | 207 | 184 | 192 | 62 | 1279 |
+| dengue | 41 | 52 | 64 | 45 | 49 | 76 | 37 | 364 |
+| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 5 | 121 |
+| h5n1 | 5 | 8 | 5 | 10 | 31 | 10 | 9 | 78 |
 | zika | 11 | 10 | 21 | 2 | 6 | 10 | 5 | 65 |
+| chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 6 | 47 |
 | measles | 6 | 3 | 7 | 11 | 9 | 5 | 6 | 47 |
-| chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 5 | 46 |
-| rabies | 8 | 12 | 6 | 3 | 7 | 5 | 5 | 46 |
+| rabies | 7 | 12 | 6 | 3 | 7 | 5 | 5 | 45 |
 | meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 3 | 41 |
 | pertussis | 6 | 3 | 5 | 2 | 1 | 5 | 2 | 24 |
 | leptospirosis | 2 | 2 | 4 | 0 | 1 | 0 | 0 | 9 |
+| yersinia | 1 | 0 | 1 | 1 | 2 | 0 | 2 | 7 |
 | hpai | 1 | 1 | 1 | 0 | 3 | 1 | 0 | 7 |
-| yersinia | 1 | 0 | 1 | 1 | 2 | 0 | 1 | 6 |
 | typhoid | 0 | 1 | 2 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -47,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (yersinia)
 
+- [Pathologists identify plague in blind Idaho deer](https://phys.org/news/2024-09-pathologists-plague-idaho-deer.html) (Phys.Org)
+
 - [Als mit dem Hund die Pest über die Menschen kam](https://www.welt.de/geschichte/article253537030/Steinzeit-Seuche-Als-mit-dem-Hund-die-Pest-ueber-die-Menschen-kam.html) (DIE WELT)
 
 ## 24-38 (rabies)
@@ -68,6 +70,36 @@ Source: [News API](https://newsapi.org/)
 - [College Football Game Canceled Over Whooping Cough Case and Exposure: Officials](https://www.theepochtimes.com/health/college-football-game-canceled-over-whooping-cough-case-and-exposure-officials-5724606) (Theepochtimes.com)
 
 ## 24-38 (mpox)
+
+- [Global vaccine alliance GAVI to buy 500,000 doses of mpox vaccine](https://abcnews.go.com/Health/wireStory/global-vaccine-alliance-gavi-buy-500000-doses-mpox-113815759) (ABC News)
+
+- [Global vaccine alliance GAVI to buy 500,000 doses of mpox vaccine](https://abcnews.go.com/International/wireStory/global-vaccine-alliance-gavi-buy-500000-doses-mpox-113815758) (ABC News)
+
+- [La alianza público-privada Gavi enviará 500.000 dosis de vacunas contra el mpox a África](https://www.montevideo.com.uy/Salud/La-alianza-publico-privada-Gavi-enviara-500-000-dosis-de-vacunas-contra-el-mpox-a-Africa-uc900602) (Montevideo.com.uy)
+
+- [В Индии подтвердили второй случай заражения оспой обезьян](https://tass.ru/obschestvo/21898987) (Tass.ru)
+
+- [Vídeo de funeral de mortos em conflito no Congo é tirado de contexto para desinformar sobre mpox](https://www.terra.com.br/noticias/checamos/video-de-funeral-de-mortos-em-conflito-no-congo-e-tirado-de-contexto-para-desinformar-sobre-mpox,0a54d4055c620a46decaccadc75a161bgtws070h.html) (Terra.com.br)
+
+- [Kerala reports first case of Mpox, a day after patient suspected to be infected with virus admitted in Malappuram](https://economictimes.indiatimes.com/news/india/kerala-confirms-first-case-of-mpox-a-day-after-patient-suspected-to-be-infected-with-virus-admitted-in-malappuram/articleshow/113463534.cms) (The Times of India)
+
+- [Kerala man confirmed to be affected with Mpox: Health dept Malappuram](https://www.business-standard.com/health/kerala-man-confirmed-to-be-affected-with-mpox-health-dept-malappuram-124091801258_1.html) (Business Standard)
+
+- [Gavi to purchase 500,000 doses of Mpox vaccines for Africa](https://punchng.com/gavi-to-purchase-500000-doses-of-mpox-vaccines-for-africa/) (The Punch)
+
+- [भारत में Mpox का एक और केस, केरल में दुबई से लौटे शख्स का सैंपल पाया गया पॉजिटिव](https://www.aajtak.in/india/news/story/kerala-mpox-suspected-case-confirmed-patients-have-travel-history-from-dubai-ntc-2045815-2024-09-18) (Aajtak.in)
+
+- [Mpox Case Detected In Kerala, Patient Recently Travelled From UAE](https://www.ndtv.com/india-news/mpox-case-detected-in-kerala-patient-recently-travelled-from-uae-6594465) (NDTV News)
+
+- [Affenpocken in Afrika: Rasante Ausbreitung](https://taz.de/Affenpocken-in-Afrika/!6037486/) (taz.de)
+
+- [Accord sur la fourniture de 500 000 doses de vaccin anti-mpox pour l’Afrique en 2024](https://www.lemonde.fr/afrique/article/2024/09/18/accord-sur-la-fourniture-de-500-000-doses-de-vaccin-anti-mpox-pour-l-afrique-en-2024_6322902_3212.html) (Le Monde)
+
+- [Gavi Signs Agreement with Bavarian Nordic to Rapidly Secure 500,000 Doses of Mpox Vaccines for Africa](https://www.globenewswire.com/news-release/2024/09/18/2947999/0/en/Gavi-Signs-Agreement-with-Bavarian-Nordic-to-Rapidly-Secure-500-000-Doses-of-Mpox-Vaccines-for-Africa.html) (GlobeNewswire)
+
+- [Gavi indgår aftale med Bavarian Nordic for at sikre hurtig levering af 500.000 doser mpox-vaccine til Afrika](https://www.globenewswire.com/news-release/2024/09/18/2947999/0/da/Gavi-indg%C3%A5r-aftale-med-Bavarian-Nordic-for-at-sikre-hurtig-levering-af-500-000-doser-mpox-vaccine-til-Afrika.html) (GlobeNewswire)
+
+- [NCDC reports higher Mpox infection among males in Nigeria](https://punchng.com/ncdc-reports-higher-mpox-infection-among-males-in-nigeria/) (The Punch)
 
 - [Malaysia Laporkan Kasus Mpox atau Cacar Monyet, Tak Ada Riwayat ke Luar Negeri](https://www.liputan6.com/health/read/5704721/malaysia-laporkan-kasus-mpox-atau-cacar-monyet-tak-ada-riwayat-ke-luar-negeri) (Liputan6.com)
 
@@ -187,6 +219,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (malaria)
 
+- [Plasmodium RON11 triggers biogenesis of the merozoite rhoptry pair and is essential for erythrocyte invasion](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002801) (Plos.org)
+
 - [Wiener Tropenmediziner leitet Forschungszentrum in Gabun [premium]](https://www.diepresse.com/18858878/wiener-tropenmediziner-leitet-forschungszentrum-in-gabun) (Diepresse.com)
 
 - [Breaking the cycle of Malaria misdiagnosis in Nigeria](https://punchng.com/breaking-the-cycle-of-malaria-misdiagnosis-in-nigeria/) (The Punch)
@@ -196,6 +230,10 @@ Source: [News API](https://newsapi.org/)
 - [Aig-Imoukhuede’s firm becomes CAMA secretariat](https://punchng.com/aig-imoukhuedes-firm-becomes-cama-secretariat/) (The Punch)
 
 ## 24-38 (h5n1)
+
+- ['Pirate Seabirds' Could Become a Pathway for Deadly Avian Flu to Spread to Australia, Study Finds](https://www.smithsonianmag.com/smart-news/pirate-seabirds-could-become-a-pathway-for-deadly-avian-flu-to-spread-to-australia-study-finds-180985092/) (Smithsonian.com)
+
+- [La amenaza de la gripe aviar H5N1 acaba de subir de nivel: EEUU reconoce el primer contagio humano de origen desconocido](https://www.xataka.com/medicina-y-salud/amenaza-gripe-aviar-h5n1-acaba-subir-nivel-eeuu-reconoce-primer-contagio-humano-origen-desconocido) (Xataka.com)
 
 - [“Roubo de alimentos” entre aves marinhas pode ser um ponto de transmissão da gripe aviária mortal](https://greensavers.sapo.pt/roubo-de-alimentos-entre-aves-marinhas-pode-ser-um-ponto-de-transmissao-da-gripe-aviaria-mortal/) (Sapo.pt)
 
@@ -212,6 +250,24 @@ Source: [News API](https://newsapi.org/)
 - [On H5N1 bird flu, the U.S. can and should do more, a top WHO official says](https://www.statnews.com/2024/09/16/h5n1-spread-cow-herds-us-response-who-pandemic-preparedness/) (STAT)
 
 ## 24-38 (dengue)
+
+- [Brasil anticipa la campaña contra el dengue tras récord de casos y muertes en 2024](https://www.montevideo.com.uy/Salud/Brasil-anticipa-la-campana-contra-el-dengue-tras-record-de-casos-y-muertes-en-2024-uc900607) (Montevideo.com.uy)
+
+- [Dengue: vacina brasileira será levada à Anvisa nas próximas semanas](https://www.metropoles.com/brasil/dengue-vacina-brasileira-sera-levada-a-anvisa-nas-proximas-semanas) (Metropoles.com)
+
+- ['Se Deus ajudar, teremos verão com menos dengue na história', diz Lula, meses após recorde de mortes](https://www.terra.com.br/vida-e-estilo/saude/se-deus-ajudar-teremos-verao-com-menos-dengue-na-historia-diz-lula-meses-apos-recorde-de-mortes,2bace36360f85f47d1f7388eaa49ee3bl4fvusr5.html) (Terra.com.br)
+
+- [Após recorde de óbitos, Lula mira verão com menos mortes por dengue na história](https://valor.globo.com/brasil/noticia/2024/09/18/aps-recorde-de-bitos-lula-mira-vero-com-menos-mortes-por-dengue-na-histria.ghtml) (Globo)
+
+- [Lula: Brasil terá o “verão com menos dengue na história do país”](https://www.metropoles.com/brasil/lula-brasil-tera-o-verao-com-menos-dengue-na-historia-do-pais) (Metropoles.com)
+
+- [Cuál es el precio de la vacuna contra el dengue](https://www.lanacion.com.ar/sociedad/cual-es-el-precio-de-la-vacuna-contra-el-dengue-nid18092024/) (La Nacion)
+
+- [Deadly fever warning over mosquito eggs found in UK](https://www.gbnews.com/health/dengue-fever-vaccine-symptoms-uk) (Gbnews.com)
+
+- [Desde el 30 de septiembre: dónde vacunarse gratis contra el dengue en la ciudad](https://www.lanacion.com.ar/sociedad/desde-el-30-de-septiembre-donde-vacunarse-gratis-contra-el-dengue-en-la-ciudad-nid18092024/) (La Nacion)
+
+- [Los expertos alertan del contagio del dengue, que afecta ya a 8 personas en Catalunya: así se coge](https://www.mundodeportivo.com/actualidad/20240918/1002317766/expertos-alertan-contagio-dengue-afecta-ocho-personas-catalunya-asi-coge-salud-dct.html) (Mundodeportivo.com)
 
 - [Governo Lula quer se antecipar e lança plano para prevenir dengue](https://www.metropoles.com/brasil/governo-lula-quer-se-antecipar-e-lanca-plano-para-prevenir-dengue) (Metropoles.com)
 
@@ -270,6 +326,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue infection hits 9,500 nationwide, claims 6 lives](https://english.khabarhub.com/2024/15/397656/) (Khabarhub.com)
 
 ## 24-38 (chikungunya)
+
+- [Chikungunya: ICU admissions up amidst rising cases in kids](https://timesofindia.indiatimes.com/city/mumbai/chikungunya-icu-admissions-up-amidst-rising-cases-in-kids/articleshow/113468239.cms) (The Times of India)
 
 - [Valneva Submits Label Extension Applications for its Chikungunya Vaccine, IXCHIQ®, to EMA and Health Canada](https://www.globenewswire.com/news-release/2024/09/18/2947925/0/en/Valneva-Submits-Label-Extension-Applications-for-its-Chikungunya-Vaccine-IXCHIQ-to-EMA-and-Health-Canada.html) (GlobeNewswire)
 
@@ -3973,8 +4031,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Factors associated with the spatiotemporal distribution of dog rabies in Tunisia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012296) (Plos.org)
 
-- [Stephen King minns inte att han skrivit boken](https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken) (Svenska Dagbladet)
-
 ## 24-32 (pertussis)
 
 - [State issues public health alert over rising rates of whooping cough](https://www.alaskasnewssource.com/2024/08/08/state-issues-public-health-alert-over-rising-rates-whooping-cough/) (Alaskasnewssource.com)
@@ -4259,14 +4315,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO considers convening emergency committee on mpox](https://punchng.com/who-considers-convening-emergency-committee-on-mpox/) (The Punch)
 
-- [News24 | Gauteng man who returned from Peru one of two new positive Mpox cases](https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804) (News24)
-
-- [Tanzania steps up border surveillance as mpox cases reported in neighboring countries](https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries) (The Star Online)
-
-- [Mpox latest: Department of Health calls for vigilance as cases re-emerge](https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/) (The South African)
-
-- [Вирус оспы обезьян атаковал новую страну](https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml) (Gazeta.ru)
-
 ## 24-32 (meningitis)
 
 - [Burden and bacterial etiology of neonatal meningitis at Hawassa University Comprehensive Specialized Hospital, Hawassa, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308523) (Plos.org)
@@ -4348,8 +4396,6 @@ Source: [News API](https://newsapi.org/)
 - [Why Isn’t the Government Protecting Farm Workers From the Bird Flu?](https://newrepublic.com/article/184589/bird-flu-dairy-farm-workers-government-regulations) (The New Republic)
 
 - [Cocirculation of Genetically Distinct Highly Pathogenic Avian Influenza H5N5 and H5N1 Viruses in Crows, Hokkaido, Japan](https://wwwnc.cdc.gov/eid/article/30/9/24-0356_article) (Cdc.gov)
-
-- [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
 
@@ -4434,12 +4480,6 @@ Source: [News API](https://newsapi.org/)
 - [La preocupante lista de la OMS con los patógenos que podrían disparar la próxima pandemia](https://www.nationalgeographic.com.es/ciencia/amenaza-invisible-oms-actualiza-lista-patogenos-pandemicos_22960) (Nationalgeographic.com.es)
 
 - [Brasil se aproxima de 5 mil mortes por dengue em 2024](https://saude.ig.com.br/2024-08-04/brasil-se-aproxima-de-5-mil-mortes-por-dengue-em-2024.html) (Ig.com.br)
-
-- [Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms) (The Times of India)
-
-- [Batac: Ilocos Norte ups measures vs. dengue after 2 deaths](https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/) (Rpnradio.com)
-
-- [Alarmante alza de contagios de dengue: OPS](https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-32 (chikungunya)
 

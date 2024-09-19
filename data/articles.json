@@ -1,8 +1,530 @@
 {
-  "last_updated": "2024-09-19 07:06",
-  "count_articles_total": 2027,
-  "count_articles_new": 16,
+  "last_updated": "2024-09-19 19:05",
+  "count_articles_total": 2047,
+  "count_articles_new": 29,
   "articles": [
+    {
+      "id": 13674,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Malathy Iyer",
+      "title": "Chikungunya: ICU admissions up amidst rising cases in kids",
+      "description": "Mumbai: In the ICU of a South Mumbai hospital, doctors are monitoring a chikungunya patient who has developed encephalitis, or brain swelling.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/chikungunya-icu-admissions-up-amidst-rising-cases-in-kids/articleshow/113468239.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113468235,width-1070,height-580,imgsize-102498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-18 18:34:23",
+      "content": "How to extract, store, and apply fresh Aloe Vera to aid hair growth",
+      "retrievedAt": "2024-09-19 19:05:38.186226",
+      "internal_id": "9d4649ba2fd4c893ecca66f71990a60df89ba4b31f075b415b29e49cee81daa9",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13681,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MONIKA PRONCZUK Associated Press",
+      "title": "Global vaccine alliance GAVI to buy 500,000 doses of mpox vaccine",
+      "description": "The global vaccine alliance Gavi says it will buy 500,000 doses of vaccine against mpox to fight outbreaks of the disease in African countries",
+      "url": "https://abcnews.go.com/Health/wireStory/global-vaccine-alliance-gavi-buy-500000-doses-mpox-113815759",
+      "urlToImage": "https://i.abcnewsfe.com/a/4fdc0dea-82e3-4ac3-b225-e71602f8e72e/wirestory_ed0c0b3d09eef30dff33715e185d4dbd_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-18 17:50:26",
+      "content": "DAKAR, Senegal -- The global vaccine alliance Gavi will buy 500,000 doses of mpox vaccine to battle outbreaks of the disease in African countries, the organization said on Wednesday. The vaccine do\u2026 [+2321 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.723733",
+      "internal_id": "f3862f1c6b4fa7079b4f0afdf585f8689b1b56b19d32961df6a756f8f7000eb6",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13679,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MONIKA PRONCZUK Associated Press",
+      "title": "Global vaccine alliance GAVI to buy 500,000 doses of mpox vaccine",
+      "description": "The global vaccine alliance Gavi says it will buy 500,000 doses of vaccine against mpox to fight outbreaks of the disease in African countries",
+      "url": "https://abcnews.go.com/International/wireStory/global-vaccine-alliance-gavi-buy-500000-doses-mpox-113815758",
+      "urlToImage": "https://i.abcnewsfe.com/a/4fdc0dea-82e3-4ac3-b225-e71602f8e72e/wirestory_ed0c0b3d09eef30dff33715e185d4dbd_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-18 17:50:24",
+      "content": "DAKAR, Senegal -- The global vaccine alliance Gavi will buy 500,000 doses of mpox vaccine to battle outbreaks of the disease in African countries, the organization said on Wednesday. The vaccine do\u2026 [+2321 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.689324",
+      "internal_id": "90a3107ecc04b98d658e412c17108ad9cd8b859b6215bc000a3b09cbbca52e05",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13667,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Brasil anticipa la campa\u00f1a contra el dengue tras r\u00e9cord de casos y muertes en 2024",
+      "description": "La campa\u00f1a de este a\u00f1o demandar\u00e1 una inversi\u00f3n de 277 millones de d\u00f3lares.",
+      "url": "https://www.montevideo.com.uy/Salud/Brasil-anticipa-la-campana-contra-el-dengue-tras-record-de-casos-y-muertes-en-2024-uc900607",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201908/_W933_80/701480.jpg",
+      "publishedAt": "2024-09-18 16:50:00",
+      "content": "El presidente brasile\u00f1o, Luiz In\u00e1cio Lula da Silva, present\u00f3 este mi\u00e9rcoles un plan nacional contra el dengue, una enfermedad que registr\u00f3 picos hist\u00f3ricos este a\u00f1o en el pa\u00eds, con 6,5 millones de \u2026 [+2198 chars]",
+      "retrievedAt": "2024-09-19 19:05:35.610104",
+      "internal_id": "f0bcfe638fa69817246b6d049e3e17ef2e7fe7b4d88fcd526e6834118757bd56",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13690,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Devin Rokyta",
+      "title": "Pathologists identify plague in blind Idaho deer",
+      "description": "Washington State University pathologists have confirmed a rare case of plague in a mule deer found blind and emaciated in Idaho.",
+      "url": "https://phys.org/news/2024-09-pathologists-plague-idaho-deer.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/deer-1.jpg",
+      "publishedAt": "2024-09-18 16:46:41",
+      "content": "Washington State University pathologists have confirmed a rare case of plague in a mule deer found blind and emaciated in Idaho. Caused by the bacterium, Yersinia pestis, plague occurs naturally in \u2026 [+3784 chars]",
+      "retrievedAt": "2024-09-19 19:05:39.850643",
+      "internal_id": "da469db67f7915fad78238a4e378b626f6672d8b37cca7ad798b9801c6d850d1",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13687,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La alianza p\u00fablico-privada Gavi enviar\u00e1 500.000 dosis de vacunas contra el mpox a \u00c1frica",
+      "description": "Las dosis se entregar\u00e1n este mismo a\u00f1o. Las financiar\u00e1 GAVI y ser\u00e1n aplicadas por Unicef.",
+      "url": "https://www.montevideo.com.uy/Salud/La-alianza-publico-privada-Gavi-enviara-500-000-dosis-de-vacunas-contra-el-mpox-a-Africa-uc900602",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891795.jpg",
+      "publishedAt": "2024-09-18 16:31:00",
+      "content": "La alianza p\u00fablico-privada Gavi, creada para ofrecer a los pa\u00edses pobres acceso a las vacunas, anunci\u00f3 este mi\u00e9rcoles que ha llegado a un acuerdo con la empresa de biotecnolog\u00eda danesa Bavarian No\u2026 [+1302 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.777967",
+      "internal_id": "25ce6ff4d96fac3baadabc0aface2431906858f5f6857a04bf925937b414ec99",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13665,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Daniela Santos",
+      "title": "Dengue: vacina brasileira ser\u00e1 levada \u00e0 Anvisa nas pr\u00f3ximas semanas",
+      "description": "Segundo a ministra da Sa\u00fade, N\u00edsia Trindade, caso seja aprovada, o pa\u00eds pode incorporar 1 milh\u00e3o de doses da vacina contra a dengue em 2025",
+      "url": "https://www.metropoles.com/brasil/dengue-vacina-brasileira-sera-levada-a-anvisa-nas-proximas-semanas",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/10095625/vacinacao-dengue-vacina-qdenga-imunizante-df.jpeg",
+      "publishedAt": "2024-09-18 15:40:32",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, afirmou nesta quarta-feira (18/9) que o Instituto Butantan deve submeter, nas pr\u00f3ximas semanas, a vacina brasileira contra a dengue para a avalia\u00e7\u00e3o da Ag\u00eancia Na\u2026 [+1237 chars]",
+      "retrievedAt": "2024-09-19 19:05:35.584954",
+      "internal_id": "33c93f2f3114a5ef09396f4ee2114f8fd979b03d85fe1d5cc5fc99457383e9f1",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13663,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Smithsonian.com",
+      "author": "Alexa Robles-Gil",
+      "title": "'Pirate Seabirds' Could Become a Pathway for Deadly Avian Flu to Spread to Australia, Study Finds",
+      "description": "Kleptoparasitism, in which a bird harasses another to steal its food, might introduce avian flu to the continent, currently the only one without the severe H5N1 strain",
+      "url": "https://www.smithsonianmag.com/smart-news/pirate-seabirds-could-become-a-pathway-for-deadly-avian-flu-to-spread-to-australia-study-finds-180985092/",
+      "urlToImage": "https://th-thumbnailer.cdn-si-edu.com/ICeevuCcJQXX7_pg8i0qViqV9x0=/fit-in/1200x0/filters:focal(1024x800:1025x801)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fec%2Fd5%2Fecd5c13f-686e-403e-9346-9449521e15ec%2F49884969888_023631f629_k.jpg",
+      "publishedAt": "2024-09-18 15:26:17",
+      "content": "One eagle fights another for a midshipman fish in a behavior called kleptoparasitism. Deborah Freeman via Flickr under CC BY-SA 2.0 Thieving on the high seas comes with many dangers. For the pirat\u2026 [+4634 chars]",
+      "retrievedAt": "2024-09-19 19:05:35.217515",
+      "internal_id": "c4ea7e652eb9d9400e51d1ccf19cfe321ec243a9157fb77fed42bb1ee22686e3",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13669,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "'Se Deus ajudar, teremos ver\u00e3o com menos dengue na hist\u00f3ria', diz Lula, meses ap\u00f3s recorde de mortes",
+      "description": "Bras\u00edlia - O presidente Luiz In\u00e1cio Lula da Silva disse h\u00e1 pouco que, se tudo der certo, o ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/se-deus-ajudar-teremos-verao-com-menos-dengue-na-historia-diz-lula-meses-apos-recorde-de-mortes,2bace36360f85f47d1f7388eaa49ee3bl4fvusr5.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-09-18 15:16:51",
+      "content": "Bras\u00edlia - O presidente Luiz In\u00e1cio Lula da Silva disse h\u00e1 pouco que, se tudo der certo, o Brasil ter\u00e1 o ver\u00e3o com menos dengue em sua hist\u00f3ria. No \u00faltimo ciclo da doen\u00e7a, o Pa\u00eds teve recorde de mort\u2026 [+1384 chars]",
+      "retrievedAt": "2024-09-19 19:05:35.652095",
+      "internal_id": "d52bf777126764a27df9a1d18cb3d6b73d4e310789e0062bf4b615372ec2c14e",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13671,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Ap\u00f3s recorde de \u00f3bitos, Lula mira ver\u00e3o com menos mortes por dengue na hist\u00f3ria",
+      "description": "Presidente afirmou ainda que cada brasileiro deve atuar com \u201cseu pr\u00f3prio m\u00e9dico\u201d, a fim de adotar medidas de combate \u00e0 prolifera\u00e7\u00e3o do mosquito",
+      "url": "https://valor.globo.com/brasil/noticia/2024/09/18/aps-recorde-de-bitos-lula-mira-vero-com-menos-mortes-por-dengue-na-histria.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2024-09-18 15:15:12",
+      "content": "O presidente Luiz In\u00e1cio Lula da Silva disse nesta quarta-feira que, \"se Deus ajudar\", o Brasil ter\u00e1 o ver\u00e3o com menos mortes por dengue na hist\u00f3ria. Ele fez a afirma\u00e7\u00e3o durante entrevista coletiva n\u2026 [+2246 chars]",
+      "retrievedAt": "2024-09-19 19:05:35.705390",
+      "internal_id": "ee23a5ae2e140bf9bcfc17e11d8d6c1022fdc363d346098ecfe91f229ae13b74",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13676,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0418\u043d\u0434\u0438\u0438 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0438 \u0432\u0442\u043e\u0440\u043e\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0421\u043e\u0431\u044b\u0442\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u043c\u0438\u0440\u0435. \u0410\u043d\u0430\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438. \u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u043f\u0440\u0435\u0441\u0441-\u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0439. \u0412\u0438\u0434\u0435\u043e- \u0438 \u0444\u043e\u0442\u043e\u0440\u0435\u043f\u043e\u0440\u0442\u0430\u0436\u0438",
+      "url": "https://tass.ru/obschestvo/21898987",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21898987?u=2024-09-18T15:13:59.439435",
+      "publishedAt": "2024-09-18 15:13:59",
+      "content": "-, 18 . //. (mpox) 38- , . The Times of India. mpox - . , . mpox , , . , . mpox. . () 14 2024 . 2022-2023 30 . - , , . , , , . 1% 10%. .",
+      "retrievedAt": "2024-09-19 19:05:38.644252",
+      "internal_id": "6bdbb3601a0edb5f381965eb85d4038b874dc18bf7ea235b2bab1c2855a1153d",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13689,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "V\u00eddeo de funeral de mortos em conflito no Congo \u00e9 tirado de contexto para desinformar sobre mpox",
+      "description": "CONTE\u00daDO ENGANOSO ALEGA QUE IMAGENS SERIAM USADAS PARA CAUSAR MEDO NA POPULA\u00c7\u00c3O COM A IMIN\u00caNCIA DE UMA NOVA PANDEMIA; ENTERRO COLETIVO FOI NOTICIADO PELA IMPRENSA",
+      "url": "https://www.terra.com.br/noticias/checamos/video-de-funeral-de-mortos-em-conflito-no-congo-e-tirado-de-contexto-para-desinformar-sobre-mpox,0a54d4055c620a46decaccadc75a161bgtws070h.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-09-18 15:10:52",
+      "content": "O que est\u00e3o compartilhando: v\u00eddeo que supostamente mostra um funeral coletivo de v\u00edtimas da doen\u00e7a viral mpox na \u00c1frica. O conte\u00fado que circula em plataformas como Instagram, TikTok e Facebook alega \u2026 [+3359 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.830636",
+      "internal_id": "6d20d18ea77db0979e3f8a3053e1cf252e872052c2dc60f76fe35542b075c1d8",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13666,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Daniela Santos",
+      "title": "Lula: Brasil ter\u00e1 o \u201cver\u00e3o com menos dengue na hist\u00f3ria do pa\u00eds\u201d",
+      "description": "O governo do presidente Lula lan\u00e7a nesta quarta-feira (18/9) um plano de a\u00e7\u00e3o para reduzir os impactos da dengue no pa\u00eds",
+      "url": "https://www.metropoles.com/brasil/lula-brasil-tera-o-verao-com-menos-dengue-na-historia-do-pais",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/09/18114300/Lula-e-Nisia.jpg",
+      "publishedAt": "2024-09-18 14:44:47",
+      "content": "O governo federal lan\u00e7a nesta quarta-feira (18/9) um plano de a\u00e7\u00e3o para prevenir os impactos da dengue e outras arboviroses no pa\u00eds. Em 2024, o Brasil registrou n\u00famero recorde de casos da doen\u00e7a. O \u2026 [+1681 chars]",
+      "retrievedAt": "2024-09-19 19:05:35.591175",
+      "internal_id": "8da08aee050ece4c401e66253d75889ad4c3526b1c3e921e088e12d8cb0deb4e",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13684,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Kerala reports first case of Mpox, a day after patient suspected to be infected with virus admitted in Malappuram",
+      "description": "A 38-year-old man who returned to Kerala from the UAE has been diagnosed with Mpox, caused by the monkeypox virus. Health Minister Veena George emphasized the importance of seeking medical attention for those returning from abroad with symptoms. Isolation war\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/kerala-confirms-first-case-of-mpox-a-day-after-patient-suspected-to-be-infected-with-virus-admitted-in-malappuram/articleshow/113463534.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113463691,width-1200,height-630,imgsize-20934,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-18 14:09:09",
+      "content": "A man who returned to Kerala from the UAE last week has been diagnosed with Mpox on Wednesday, a disease caused by the monkeypox virus (MPXV). On Monday, the 38-year-old individual was admitted to th\u2026 [+1805 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.741219",
+      "internal_id": "597f8c79ae537f571e5e7367200fbf37832a077a15d0e8f7cfefd5b66296c778",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13673,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "David Anaguano, Opeoluwa Adewale-Fasoro, Grace W. Vick, Sean Yanik, James Blauwkamp, Manuel A. Fierro, Sabrina Absalon, Prakash Srinivasan, Vasant Muralidharan",
+      "title": "Plasmodium RON11 triggers biogenesis of the merozoite rhoptry pair and is essential for erythrocyte invasion",
+      "description": "Plasmodium parasites have a pair of unique organelles called rhoptries that are made anew every replicative cycle. This study shows that the RON11 protein triggers de novo biogenesis of the second rhoptry and is important for parasite invasion of erythrocytes.",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002801",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002801.g007&size=inline",
+      "publishedAt": "2024-09-18 14:00:00",
+      "content": "Abstract Malaria is a global and deadly human disease caused by the apicomplexan parasites of the genus Plasmodium. Parasite proliferation within human red blood cells (RBCs) is associated with the \u2026 [+84904 chars]",
+      "retrievedAt": "2024-09-19 19:05:36.889371",
+      "internal_id": "25d71f8bf6055d5e1083c3c52912de789d5f984089fb2f7af6b32dc0eb7f0f1b",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13668,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Cu\u00e1l es el precio de la vacuna contra el dengue",
+      "description": "Varias farmacias y laboratorios privados ofrecen las dosis de manera particular; algunas obras sociales ofrecen cobertura del 20% al 40%",
+      "url": "https://www.lanacion.com.ar/sociedad/cual-es-el-precio-de-la-vacuna-contra-el-dengue-nid18092024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/cual-es-el-precio-de-la-vacuna-contra-el-W355QURXCVBQ5I34HKJJEOG4OY.JPG?auth=82a02c92ca228a4316d66ee80a31113671a9a588e3bfbaa7f8ab4c8238bd15db&width=768&quality=70&smart=false",
+      "publishedAt": "2024-09-18 13:58:58",
+      "content": "En v\u00edsperas del comienzo de la primavera en Argentina y a algunos meses del inicio del verano, crece la preocupaci\u00f3n por la circulaci\u00f3n del mosquito aedes aegypti, que transmite el virus del dengue. \u2026 [+3154 chars]",
+      "retrievedAt": "2024-09-19 19:05:35.637918",
+      "internal_id": "ad11a64772fd1fc63fbb5e3bac17afe422577caa9876a6f50562ce8ba8187934",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13672,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Gbnews.com",
+      "author": "Adam Chapman",
+      "title": "Deadly fever warning over mosquito eggs found in UK",
+      "description": "Dengue fever is approaching the UK and the government is asleep at the wheel, an infectious disease expert warns",
+      "url": "https://www.gbnews.com/health/dengue-fever-vaccine-symptoms-uk",
+      "urlToImage": "https://www.gbnews.com/media-library/composite-image-of-a-man-in-a-hazmat-suit-left-aeriel-view-of-kent-top-right-and-mosquito-eggs-bottom-left.png?id=53636100&width=1200&height=600&coordinates=0%2C65%2C0%2C318",
+      "publishedAt": "2024-09-18 13:48:41",
+      "content": "An epidemiologist is sounding the alarm after eggs of a mosquito known to transmit a deadly disease were found in England. Dengue fever is commonly referred to as the 'bone-breaking' disease as the \u2026 [+12486 chars]",
+      "retrievedAt": "2024-09-19 19:05:35.711630",
+      "internal_id": "0c3d00b7a6dd407c033be5caaf9e8878f287db2fbe4546ce8ead48985290a416",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13688,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Press Trust of India",
+      "title": "Kerala man confirmed to be affected with Mpox: Health dept Malappuram",
+      "description": "The man, who came to the state from the UAE recently, was already admitted to a hospital here with Mpox symptoms, state Health Minister Veena George said in a Facebook post",
+      "url": "https://www.business-standard.com/health/kerala-man-confirmed-to-be-affected-with-mpox-health-dept-malappuram-124091801258_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/06/thumb/featurecrop/400X400/1725587742-6507.jpg",
+      "publishedAt": "2024-09-18 13:38:48",
+      "content": "The man, who came to the state from the UAE recently, was already admitted to a hospital here with Mpox symptoms, state Health Minister Veena George said in a Facebook post Image: Bloomberg Press T\u2026 [+1311 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.802753",
+      "internal_id": "9a4264110f92fde3dbe135dae6853b037aaf7aa94ce9cd9ce17cc18e7d3fabb1",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13678,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Gavi to purchase 500,000 doses of Mpox vaccines for Africa",
+      "description": "The Vaccine Alliance, Gavi and Bavarian Nordic on Wednesday announced an Advance Purchase Agreement to secure 500,000 doses of the Modified Vaccinia Ankara-Bavarian Nordic (MVA-BN) mpox vaccine, which will be supplied to countries in Africa affected by the mp\u2026",
+      "url": "https://punchng.com/gavi-to-purchase-500000-doses-of-mpox-vaccines-for-africa/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2024-09-18 13:06:28",
+      "content": "The Vaccine Alliance, Gavi and Bavarian Nordic on Wednesday announced an Advance Purchase Agreement to secure 500,000 doses of the Modified Vaccinia Ankara-Bavarian Nordic (MVA-BN) mpox vaccine, whic\u2026 [+4203 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.683605",
+      "internal_id": "83a7db7a8365aabb0b7c2e102fd5a587c073a1fa6ec74b3df85919dc7f3eb6d5",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13686,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u092e\u093f\u0932\u0928 \u0936\u0930\u094d\u092e\u093e",
+      "title": "\u092d\u093e\u0930\u0924 \u092e\u0947\u0902 Mpox \u0915\u093e \u090f\u0915 \u0914\u0930 \u0915\u0947\u0938, \u0915\u0947\u0930\u0932 \u092e\u0947\u0902 \u0926\u0941\u092c\u0908 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0936\u0916\u094d\u0938 \u0915\u093e \u0938\u0948\u0902\u092a\u0932 \u092a\u093e\u092f\u093e \u0917\u092f\u093e \u092a\u0949\u091c\u093f\u091f\u093f\u0935",
+      "description": "\u092d\u093e\u0930\u0924 \u092e\u0947\u0902 \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0915\u093e \u0926\u0942\u0938\u0930\u093e \u092e\u093e\u092e\u0932\u093e \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948. \u0907\u0938 \u092c\u093e\u0930 \u092f\u0939 \u092e\u093e\u092e\u0932\u093e \u0915\u0947\u0930\u0932 \u0938\u0947 \u0926\u0930\u094d\u091c \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948. \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f \u0928\u0947 \u092c\u0924\u093e\u092f\u093e \u0915\u093f \u092e\u0930\u0940\u091c \u0915\u093e \u0907\u0932\u093e\u091c \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092e\u0947\u0902 \u091a\u0932 \u0930\u0939\u093e \u0939\u0948, \u0914\u0930 \u0909\u0938\u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0915\u094b \u0928\u093f\u092f\u0902\u0924\u094d\u0930\u0923 \u092e\u0947\u0902 \u0939\u0948.",
+      "url": "https://www.aajtak.in/india/news/story/kerala-mpox-suspected-case-confirmed-patients-have-travel-history-from-dubai-ntc-2045815-2024-09-18",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202409/66ead03c91ebc-mpox-causes-skin-blisters-180603423-16x9.png",
+      "publishedAt": "2024-09-18 13:04:50",
+      "content": "Copyright \u00a9 2024 Living Media India Limited. For reprint rights: Syndications Today",
+      "retrievedAt": "2024-09-19 19:05:38.767241",
+      "internal_id": "dd8ea2aa3feddfbb68b4baf100c4f94e5e738b69aac3d9d497a0f8674df672f6",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13685,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Mpox Case Detected In Kerala, Patient Recently Travelled From UAE",
+      "description": "Kerala on Wednesday confirmed India's second Mpox, or monkeypox case, nine days after Delhi reported the country's first - a young man who had travelled from western Africa.",
+      "url": "https://www.ndtv.com/india-news/mpox-case-detected-in-kerala-patient-recently-travelled-from-uae-6594465",
+      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg",
+      "publishedAt": "2024-09-18 12:42:42",
+      "content": "The WHO has declared a public health emergency over the spread of Mpox, or monkeypox (File). Thiruvananthapuram: Kerala on Wednesday confirmed India's second Mpox, or monkeypox case. The patient has\u2026 [+3921 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.747091",
+      "internal_id": "800865b054330274aac4196678a69fe0e8d0e5542329aa7614fa3459441f1e8a",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13675,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Simone Schlindwein",
+      "title": "Affenpocken in Afrika: Rasante Ausbreitung",
+      "description": "In 15 afrikanischen L\u00e4ndern sind Mpox-F\u00e4lle offiziell best\u00e4tigt worden. Kinder unter 15 Jahren sind von der Krankheit am schlimmsten betroffen.",
+      "url": "https://taz.de/Affenpocken-in-Afrika/!6037486/",
+      "urlToImage": "https://taz.de/picture/7249741/948/36225550-1.jpeg",
+      "publishedAt": "2024-09-18 12:28:00",
+      "content": "In 15 afrikanischen L\u00e4ndern sind Mpox-F\u00e4lle offiziell best\u00e4tigt worden. Kinder unter 15 Jahren sind von der Krankheit am schlimmsten betroffen. Behandlung eines mit Mpox infizierten Jungen in einem \u2026 [+4695 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.615127",
+      "internal_id": "d20d82bd1f510fdb2548e656275759e9b3c4c8d757977716bdac975c9927a41b",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13680,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Accord sur la fourniture de 500 000 doses de vaccin anti-mpox pour l\u2019Afrique en 2024",
+      "description": "Le virus est pr\u00e9sent en R\u00e9publique d\u00e9mocratique du Congo, pays le plus durement touch\u00e9, ainsi que dans quatorze autres Etats dont le Burundi, le Congo-Brazzaville et la R\u00e9publique centrafricaine.",
+      "url": "https://www.lemonde.fr/afrique/article/2024/09/18/accord-sur-la-fourniture-de-500-000-doses-de-vaccin-anti-mpox-pour-l-afrique-en-2024_6322902_3212.html",
+      "urlToImage": "https://img.lemde.fr/2024/09/18/691/1256/2060/1373/1440/960/60/0/30e1400_1726658574839-000-32gy3bm-1.jpg",
+      "publishedAt": "2024-09-18 11:26:10",
+      "content": "GAVI, lAlliance du vaccin, et Bavarian Nordic, le laboratoire qui produit le vaccin contre le mpox, ont sign\u00e9 mercredi 18 septembre un accord garantissant la fourniture en 2024 de 500 000 doses du s\u00e9\u2026 [+1211 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.717993",
+      "internal_id": "d469ec92c2bd5043bdefc967920ed3770ed71222c4881b1e4b1f4e9066806ee1",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13670,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Desde el 30 de septiembre: d\u00f3nde vacunarse gratis contra el dengue en la ciudad",
+      "description": "El Ministerio de Salud porte\u00f1o habilitar\u00e1 la pr\u00f3xima semana los turnos online para chicos de 15 a 19 a\u00f1os en ocho sedes; el siguiente grupo ser\u00e1 el de 20 a 29 a\u00f1os",
+      "url": "https://www.lanacion.com.ar/sociedad/desde-el-30-de-septiembre-donde-vacunarse-gratis-contra-el-dengue-en-la-ciudad-nid18092024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-ciudad-comenzara-a-vacunar-contra-el-dengue-a-L4WR4F6OZJDIDDMJTL6FICYISY.JPG?auth=9113a0445d22c887dc022df530ba1741e6d9c61535c6849c7d2656ac9f6921bd&width=768&quality=70&smart=false",
+      "publishedAt": "2024-09-18 11:00:00",
+      "content": "La Ciudad empezar\u00e1 a vacunar contra el dengue el 30 de este mes, una semana despu\u00e9s de lo que hab\u00eda anticipado hace una semana: el primer grupo ser\u00e1n los chicos de 15 a 19 a\u00f1os, de acuerdo con el pla\u2026 [+3394 chars]",
+      "retrievedAt": "2024-09-19 19:05:35.684917",
+      "internal_id": "40ba4834c7a6d1ea2e60d4895966cb37ea2f8bfd686f4fe38bd38ba287a3a2d7",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13662,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com",
+      "author": "Javier Jim\u00e9nez",
+      "title": "La amenaza de la gripe aviar H5N1 acaba de subir de nivel: EEUU reconoce el primer contagio humano de origen desconocido",
+      "description": "El mundo vive la peor epidemia de gripe aviar conocida. Una que ha matado a m\u00e1s de 250 millones de aves y que ha conseguido pasar bajo el radar de algunos de los sistemas epidemiol\u00f3gicos m\u00e1s avanzados del mundo. Durante meses. Sin embargo, la\u2026",
+      "url": "https://www.xataka.com/medicina-y-salud/amenaza-gripe-aviar-h5n1-acaba-subir-nivel-eeuu-reconoce-primer-contagio-humano-origen-desconocido",
+      "urlToImage": "https://i.blogs.es/f3e127/cdc-zvdn-gj_4eg-unsplash/840_560.jpeg",
+      "publishedAt": "2024-09-18 10:50:37",
+      "content": "El mundo vive la peor epidemia de gripe aviar conocida. Una que ha matado a m\u00e1s de 250 millones de aves y que ha conseguido pasar bajo el radar de algunos de los sistemas epidemiol\u00f3gicos m\u00e1s avanzado\u2026 [+3149 chars]",
+      "retrievedAt": "2024-09-19 19:05:35.173649",
+      "internal_id": "2400fc13e4ba6689f8f47e3ab88310d77cf91cc31d11579ec9b3632b8879dcc5",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13664,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Autor Redacci\u00f3n",
+      "title": "Los expertos alertan del contagio del dengue, que afecta ya a 8 personas en Catalunya: as\u00ed se coge",
+      "description": "La Agencia de Salud P\u00fablica de Catalunya ha confirmado tres nuevos casos de dengue en Catalunya. Los afectados por el brote de dengue aut\u00f3ctono detectado hace unos d\u00edas en el municipio de Vila-seca, en Tarragona se elevan ya a ocho. De estas ocho personas, do\u2026",
+      "url": "https://www.mundodeportivo.com/actualidad/20240918/1002317766/expertos-alertan-contagio-dengue-afecta-ocho-personas-catalunya-asi-coge-salud-dct.html",
+      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/09/12/66e2eeb002727.r_d.3638-1117-1786.jpeg",
+      "publishedAt": "2024-09-18 09:30:19",
+      "content": "La Agencia de Salud P\u00fablica de Catalunya ha confirmado tres nuevos casos de dengue en Catalunya. Los afectados por el brote de dengue aut\u00f3ctono detectado hace unos d\u00edas en el municipio de Vila-seca, \u2026 [+1825 chars]",
+      "retrievedAt": "2024-09-19 19:05:35.560895",
+      "internal_id": "50e37941058e8500425e0b9ac0679923496b57b147aaa8cb591b65e102921fdf",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13682,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Gavi Signs Agreement with Bavarian Nordic to Rapidly Secure 500,000 Doses of Mpox Vaccines for Africa",
+      "description": "COPENHAGEN, Denmark and GENEVA, Switzerland, September 18, 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) and Gavi, the Vaccine Alliance today announced an advance purchase agreement (APA) to secure 500,000 doses of the MVA-BN\u00ae mpox vaccine (marketed as JYNNEOS\u00ae or I\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/09/18/2947999/0/en/Gavi-Signs-Agreement-with-Bavarian-Nordic-to-Rapidly-Secure-500-000-Doses-of-Mpox-Vaccines-for-Africa.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-09-18 08:45:00",
+      "content": "The advance purchase agreement (APA) will be funded by Gavis First Response Fund, a mechanism created after the COVID-19 pandemic to ensure rapid access to scarce vaccine supplies in future h\u2026 [+7985 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.729366",
+      "internal_id": "0d3830ce6fcade5ef3504b34677dc3ca8526c4a0ee6c23f53877ba157bd4f34a",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13683,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Gavi indg\u00e5r aftale med Bavarian Nordic for at sikre hurtig levering af 500.000 doser mpox-vaccine til Afrika",
+      "description": "K\u00d8BENHAVN, Danmark og GENEVE, Schweiz, 18. september 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) og Gavi, the Vaccine Alliance annoncerede i dag indg\u00e5elsen af en forh\u00e5ndsk\u00f8bsaftale (\u201dadvance purchase agreement\u201d), der sikrer levering af 500.000 doser af MVA-BN\u00ae mpo\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/09/18/2947999/0/da/Gavi-indg%C3%A5r-aftale-med-Bavarian-Nordic-for-at-sikre-hurtig-levering-af-500-000-doser-mpox-vaccine-til-Afrika.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-09-18 08:45:00",
+      "content": "Forh\u00e5ndsk\u00f8bsaftalen vil blive finansieret af Gavis First Response Fund, som blev etableret efter COVID-19-pandemien med henblik p\u00e5 at sikre hurtig adgang til knappe vaccineforsyninger i fremt\u2026 [+7856 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.735154",
+      "internal_id": "42222cfd15206408f42e178c133bc32190dee9ee2a4497edd8ffe95fe3dc18fa",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13677,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Olugbenga Ige",
+      "title": "NCDC reports higher Mpox infection among males in Nigeria",
+      "description": "Statistics obtained from the Nigeria Centre for Disease Control and Prevention have shown that more males are getting infected with Mpox in Nigeria. According to figures posted on the NCDC website on Monday, 67 per cent of Mpox cases recorded since January 20\u2026",
+      "url": "https://punchng.com/ncdc-reports-higher-mpox-infection-among-males-in-nigeria/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/09/18074040/IMG_1894.jpeg",
+      "publishedAt": "2024-09-18 07:25:04",
+      "content": "Statistics obtained from the Nigeria Centre for Disease Control and Prevention have shown that more males are getting infected with Mpox in Nigeria. According to figures posted on the NCDC website o\u2026 [+2058 chars]",
+      "retrievedAt": "2024-09-19 19:05:38.668928",
+      "internal_id": "59bcd6409910075e4452099d262d8847bce80bf862038cb2966778d41852ab5b",
+      "publishedAtLabel": "Sep 18"
+    },
     {
       "id": 13649,
       "query": [
@@ -36418,168 +36940,6 @@
       "content": "Ground Picture/Shutterstock So far in 2024 there have been more than 17,000 cases of whooping cough (pertussis) across Australia. This is well above our usual national average. It\u2019s already six time\u2026 [+7734 chars]",
       "retrievedAt": "2024-08-06 07:05:59.718814",
       "internal_id": "a8aca7ebf754534c7e7522880a93ace32555568ebfbddfc68c16474cd1c68f1f",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11638,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Hamsaveni N",
-      "title": "Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru",
-      "description": "BENGALURU: The post-Covid dip in blood collection at private blood banks across Bengaluru has had a ripple effect now: The current dengue surge - the .",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112270454,width-1070,height-580,imgsize-88292,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-04 19:03:11",
-      "content": "8 flowers and plants that will attract birds to your garden",
-      "retrievedAt": "2024-08-05 19:06:33.378068",
-      "internal_id": "35c6371fcd18fd95fa639b487c0a6258d2459868918be515c731ef339f3b6e25",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11635,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "svenska-dagbladet",
-      "source_name": "Svenska Dagbladet",
-      "author": "Marit Furn",
-      "title": "Stephen King minns inte att han skrivit boken",
-      "description": "RECENSION. I \u201dCujo\u201d skildrar skr\u00e4ckm\u00e4staren Stephen King en familj vars hund smittas av rabies och blir blodt\u00f6rstig. N\u00e4r Marit Furn \u00e5terv\u00e4nder till sin f\u00f6rsta vuxenbok ser hon sp\u00e5r av f\u00f6rfattarens egna problem mellan raderna.",
-      "url": "https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken",
-      "urlToImage": "https://svd.vgc.no/v2/images/5963db5d-7433-4677-9ede-aefb34d9b471?h=630&q=80&upscale=true&w=1200&s=b5ef319b52ecbd66c839d1021bb787b68695e248",
-      "publishedAt": "2024-08-04 18:14:17",
-      "content": "Pocketen med den hotfullt dreglande sankt bernadsk\u00e4ften p\u00e5 omslaget var den f\u00f6rsta vuxenbok jag l\u00e4ste p\u00e5 egen hand. Jag var tolv och hade redan fyllt ett ljusbl\u00e5tt skrivh\u00e4fte med egna sm\u00e5 skr\u00e4ckhisto\u2026 [+410 chars]",
-      "retrievedAt": "2024-08-05 19:06:32.284730",
-      "internal_id": "976b8e69793b364b4d7b0a1679096b41a6ca98be31abef42adca22cc2c26e11c",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11639,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "news24",
-      "source_name": "News24",
-      "author": "Ntwaagae Seleka",
-      "title": "News24 | Gauteng man who returned from Peru one of two new positive Mpox cases",
-      "description": "Two more laboratory-confirmed cases of Mpox disease have been detected in Gauteng and KwaZulu-Natal, increasing the number of cases to 24 countrywide. The recent cases come 26 days after the first Mpox cases were reported in South Africa.",
-      "url": "https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12005/52927e9345ee42a398d20300416fbd5e.jpg",
-      "publishedAt": "2024-08-04 17:36:50",
-      "content": "A man who returned from Peru is among two new confirmed cases of the Mpox disease.The second patient is a KwaZulu-Natal man with no international travel history.The number o\u2026 [+2274 chars]",
-      "retrievedAt": "2024-08-05 19:06:34.627881",
-      "internal_id": "37e26ea3704f19277cc0f30dc3708f1286a942f445f80d8b6e2530a52e68e357",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11641,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Lucas Liganga, Hua Hongli",
-      "title": "Tanzania steps up border surveillance as mpox cases reported in neighboring countries",
-      "description": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectious disease caused by the mpox virus, were reported in neighbo\u2026",
-      "url": "https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-08-04 17:25:00",
-      "content": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectiou\u2026 [+1601 chars]",
-      "retrievedAt": "2024-08-05 19:06:34.672152",
-      "internal_id": "8237f4e09e1f1fbab8ac1312f7fe595be473832097e28dea52046bfefa448da3",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11642,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The South African",
-      "author": "Nokwanda Ncwane",
-      "title": "Mpox latest: Department of Health calls for vigilance as cases re-emerge",
-      "description": "The Department of Health says of the 22 cases of Mpox recorded between May and July, 19 have fully recovered and three have died.",
-      "url": "https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/",
-      "urlToImage": "https://www.thesouthafrican.com/wp-content/uploads/2024/07/monkeypox-vaccinee-1200x776-1.jpg",
-      "publishedAt": "2024-08-04 16:15:00",
-      "content": "The Department of Health calls for ongoing public vigilance against Mpox disease as two more laboratory-confirmed cases have been detected in Gauteng and KwaZulu-Natal. The recent cases come 26 day\u2026 [+1712 chars]",
-      "retrievedAt": "2024-08-05 19:06:34.689903",
-      "internal_id": "e06ef9bb314a526bdcf4ea374f6637793af0fd09ec7f47f15f0deb798c52aa96",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11645,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Batac: Ilocos Norte ups measures vs. dengue after 2 deaths",
-      "description": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. \u201cThere is intensive information education campaign in every muni\u2026",
-      "url": "https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/08/bfp-dumalneg.jpg",
-      "publishedAt": "2024-08-04 14:27:32",
-      "content": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. The\u2026 [+1583 chars]",
-      "retrievedAt": "2024-08-06 07:06:01.244200",
-      "internal_id": "26ac7da7b8d3e328b303e2f8207f23d731f71d8ec0172bf1b07c5f1bec1a2549",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11640,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\u0412\u0438\u0440\u0443\u0441 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0443",
-      "description": "\u0412 \u0423\u0433\u0430\u043d\u0434\u0435 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d (Mpox). \u041e \u0434\u0432\u0443\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0445 \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 AFP. \u0421\u043b\u0443\u0447\u0430\u0438 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0430\u0445 \u041a\u0430\u0441\u0435\u0441\u0435 \u0438 \u041c\u043f\u043e\u043d\u0434\u0432\u0435. \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0423\u0433\u0430\u043d\u0434\u044b \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e, \u0447\u0442\u043e \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u044f \u043f\u0440\u0438\u0448\u043b\u0430 \u0438\u0437 \u0441\u043e\u0441\u0435\u0434\u043d\u0435\u0439 ...",
-      "url": "https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/693/15643693/20180530_gaf_uw8_1540-pic_32ratio_900x600-900x600-83778.jpg",
-      "publishedAt": "2024-08-04 14:26:07",
-      "content": ": .Ru (Gazeta.Ru) : \u00ab.\u00bb, 1067761730376, 7743625728 : 125239, , , , 67 : 117105, . , , .9, .1",
-      "retrievedAt": "2024-08-05 19:06:34.657950",
-      "internal_id": "f1cb32251d71a2a99841f1385c3790995f0fae5a96d8daeef8feb03fb2f3f13a",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11637,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Alarmante alza de contagios de dengue: OPS",
-      "description": "Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u00f3n de Centroam\u00e9rica, sostuvo Jorge Saavedra, director ejecutivo del Instituto Aids Healthcare Foundation de Salud P\u00fa\u2026",
-      "url": "https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-08-04 10:32:04",
-      "content": "Peri\u00f3dico La JornadaDomingo 4 de agosto de 2024, p. 27 Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u2026 [+2640 chars]",
-      "retrievedAt": "2024-08-05 19:06:33.364484",
-      "internal_id": "aedd625f819b1e21fcb3280d0254d4ecb1713066d06e71f3deae34b4728969f5",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11636,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Berliner Morgenpost",
-      "author": "Kai Wiedermann",
-      "title": "Vogelgrippe: Virus pirscht sich n\u00e4her an den Menschen heran",
-      "description": "Erst V\u00f6gel, dann S\u00e4ugetiere und in Einzelf\u00e4llen auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippevirus H5N1 weiterentwickelt und welche Gefahr das birgt",
-      "url": "https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html",
-      "urlToImage": "https://img.sparknews.funkemedien.de/406930402/406930402_1722763108_v16_9_1600.jpeg",
-      "publishedAt": "2024-08-04 09:18:28",
-      "content": "Berlin. Erst infizierte es V\u00f6gel, dann S\u00e4ugetiere, vereinzelt auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippe-Virus weiterentwickelt. Ein neuer \u00dcbertragungsweg, eine neue Tierart: Das Vog\u2026 [+6074 chars]",
-      "retrievedAt": "2024-08-05 19:06:32.911510",
-      "internal_id": "de41770983aa84004a4ad1fa8019d8eef64fa9406d94c36853911a8129da24e8",
       "publishedAtLabel": "Aug 4"
     }
   ]
