@@ -1,8 +1,602 @@
 {
-  "last_updated": "2024-09-20 07:06",
-  "count_articles_total": 2083,
-  "count_articles_new": 27,
+  "last_updated": "2024-09-20 19:05",
+  "count_articles_total": 2107,
+  "count_articles_new": 33,
   "articles": [
+    {
+      "id": 13733,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mpox: regulador recomenda alargar vacina\u00e7\u00e3o a adolescentes",
+      "description": "A recomenda\u00e7\u00e3o surgiu na sequ\u00eancia de uma investiga\u00e7\u00e3o que comparou a resposta imunit\u00e1ria de 315 adolescentes com a de 211 adultos e concluiu que \"\u00e9 semelhante\".",
+      "url": "https://observador.pt/2024/09/19/mpox-regulador-recomenda-alargar-vacinacao-a-adolescentes/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A14%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F08%2F28183455%2F43427344.jpg",
+      "publishedAt": "2024-09-19 17:56:44",
+      "content": "A Ag\u00eancia Europeia do Medicamento (EMA) recomendou esta quinta-feira alargar a vacina\u00e7\u00e3o ao mpox a adolescentes, uma vez que a resposta imunit\u00e1ria \u00e9 semelhante \u00e0 dos adultos, para prevenir surtos. E\u2026 [+2209 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.139174",
+      "internal_id": "b4873a46dc9d9a0cc8f9c0c6c731a10cd269755d613efb9b645b3067a63504bf",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13726,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Stephen Sorace",
+      "title": "Los Angeles County reports dengue fever cluster acquired from local mosquitoes",
+      "description": "At least three cases of dengue fever have been reported in residents bitten by local mosquitoes in the Baldwin Park neighborhood east of downtown Los Angeles.",
+      "url": "https://www.foxnews.com/health/los-angeles-county-reports-dengue-fever-cluster-acquired-local-mosquitoes",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/iStock-511984734.jpg",
+      "publishedAt": "2024-09-19 17:23:44",
+      "content": "Health officials in Los Angeles County, California, on Wednesday warned of an \"unprecedented\" rise in dengue fever among residents who have not traveled out of the country. At least three cases of d\u2026 [+1875 chars]",
+      "retrievedAt": "2024-09-20 19:05:54.436535",
+      "internal_id": "3f0ef4bf4820012d90f71945b2327b6717746d964502b8985aff419d81fae98e",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13738,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Impfungen in Afrika: Erste Dosen gegen Mpox-Virus in Ruanda verabreicht",
+      "description": "15 Staaten in Afrika sind nachweislich von dem Virus betroffen. Auf 100 Millionen Einwohner kommen rund 250.000 Impfdosen aus der EU und den USA.",
+      "url": "https://www.tagesspiegel.de/gesundheit/impfungen-in-afrika-erste-dosen-gegen-mpox-virus-in-ruanda-verabreicht-12403535.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12403541/alternates/BASE_16_9_W1400/1726765025000/files-drcongo-health-virus-mpox.jpeg",
+      "publishedAt": "2024-09-19 17:21:49",
+      "content": "In Ruanda sind am Dienstag die ersten Impfungen gegen das Mpox-Virus auf dem afrikanischen Kontinent verabreicht worden. Rund 300 Hochrisikopatienten nahe der Grenze zur Demokratischen Republik Kongo\u2026 [+1843 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.226743",
+      "internal_id": "466974f8bd9fb9a0434d1b5d74a69ab33561f11499986290ea15e6b8a3d683ad",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13719,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Wastewater Surveillance for Influenza A Virus and H5 Subtype Concurrent with the Highly Pathogenic Avian Influenza A(H5N1) Virus Outbreak in Cattle and Poultry and Associated Human Cases - United States, May 12-July 13, 2024",
+      "description": "This report describes levels of influenza A virus and the H5 subtype detected in wastewater in some states.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7337a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7337a1_WastewaterSurveillanceInfluenzaA_IMAGE_19Sep2024_1200x675.png?_=69094",
+      "publishedAt": "2024-09-19 17:00:00",
+      "content": "Souci Louis, VMD1,2; Miguella Mark-Carew, PhD2; Matthew Biggerstaff, ScD3; Jonathan Yoder, MPH2; Alexandria B. Boehm, PhD4; Marlene K. Wolfe, PhD5; Matthew Flood, PhD6; Susan Peters, DVM6; Mary Grace\u2026 [+27149 chars]",
+      "retrievedAt": "2024-09-20 19:05:53.882664",
+      "internal_id": "a103360e64abffc81be0aa1df5e7cc317b97ce4d84cdba44c0de632b90f440e6",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13744,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "nieuwsblad.be",
+      "title": "EMA zet licht op groen voor vaccinatie mpox bij tieners",
+      "description": "Het Europees Geneesmiddelenagentschap EMA heeft donderdag groen licht gegeven voor de vaccinatie van tieners met het mpox-vaccin van het Deense farmabedrijf Bavarian Nordic. Na een formalisatie door de Europese Commissie mag het Imvanex-vaccin ook toegediend \u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20240919_95914926",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/09/19/a2832a3b-3dfa-4d50-98a2-33c16528cffd.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-09-19 16:25:09",
+      "content": "Het Europees Geneesmiddelenagentschap EMA heeft donderdag groen licht gegeven voor de vaccinatie van tieners met het mpox-vaccin van het Deense farmabedrijf Bavarian Nordic. Na een formalisatie door \u2026 [+1394 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.335625",
+      "internal_id": "0004cb3b3c7782bbc594683d309940c413418470cb12ee4ba8447fd697e411c2",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13729,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Mpox : la premi\u00e8re campagne de vaccination en Afrique a commenc\u00e9 au Rwanda",
+      "description": "Ces premi\u00e8res centaines de vaccinations ont \u00ab cibl\u00e9 sept districts qui partagent une fronti\u00e8re avec la R\u00e9publique d\u00e9mocratique du Congo \u00bb, \u00e9picentre de l\u2019\u00e9pid\u00e9mie.",
+      "url": "https://www.lemonde.fr/afrique/article/2024/09/19/mpox-la-premiere-campagne-de-vaccination-en-afrique-a-commence-au-rwanda_6324522_3212.html",
+      "urlToImage": "https://img.lemde.fr/2024/09/19/749/1357/1842/1228/1440/960/60/0/b02de91_1726762721965-000-32gy3bm.jpg",
+      "publishedAt": "2024-09-19 16:22:56",
+      "content": "Plusieurs centaines de vaccins contre le mpox ont \u00e9t\u00e9 administr\u00e9s depuis mardi 17 septembre au Rwanda, dans le cadre de la premi\u00e8re campagne dimmunisation men\u00e9e pour tenter denrayer l\u00e9pid\u00e9mie qui fra\u2026 [+2783 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.098558",
+      "internal_id": "e4e05dcc7c0e48b1fcf2feb3509d11b32f6c56dcebe7aa200e85acc6fc3afa23",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13745,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "hbvl.be",
+      "title": "Afrikaans agentschap voor Volksgezondheid: \u201cMpox niet onder controle\u201d",
+      "description": "Het mpox-virus is niet onder controle in Afrika. Dat zegt het Africa Centres for Disease Control and Prevention (CDC), het agentschap voor volksgezondheid van de Afrikaanse Unie, donderdag. Binnen een week tijd werden bijna 3.000 nieuwe verdachte gevallen van\u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20240919_95895345",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/09/19/6f961193-733d-45d1-915a-fdbc9c82c86f.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-09-19 16:22:12",
+      "content": "Het mpox-virus is niet onder controle in Afrika. Dat zegt het Africa Centres for Disease Control and Prevention (CDC), het agentschap voor volksgezondheid van de Afrikaanse Unie, donderdag. Binnen ee\u2026 [+1510 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.345747",
+      "internal_id": "f5496a58f3ea7c6af0bf61448fc78bebbc2cfc257eeed4d8eab866d97573badc",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13749,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Penglijun, Elias Shilangwa",
+      "title": "Zambia steps up surveillance measures against mpox",
+      "description": "LUSAKA, Sept. 19 (Xinhua) -- Zambia has intensified surveillance measures against mpox, which has broken out in some neighboring countries. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/09/20/zambia-steps-up-surveillance-measures-against-mpox",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-09-19 16:15:00",
+      "content": "LUSAKA, Sept. 19 (Xinhua) -- Zambia has intensified surveillance measures against mpox, which has broken out in some neighboring countries. While the country has not recorded any cases, Zambian Min\u2026 [+1433 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.393550",
+      "internal_id": "92429244e3356f848ac90f386f0e1ec31ab948611dfb32c89f230eaef5b61d1b",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13737,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "First Mpox vaccine administered in Africa",
+      "description": "Mpox vaccines have been administered in Africa for the first time, with several hundred high-risk individuals vaccinated in Rwanda, the African Union\u2019s disease control centre announced on Thursday. The first 300 doses were administered on Tuesday near the bor\u2026",
+      "url": "https://punchng.com/first-mpox-vaccine-administered-in-africa/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2024-09-19 16:05:44",
+      "content": "Mpox vaccines have been administered in Africa for the first time, with several hundred high-risk individuals vaccinated in Rwanda, the African Union\u2019s disease control centre announced on Thursday. \u2026 [+2078 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.208300",
+      "internal_id": "ea509b0933c8f6390b92413e7230058d588fed327035cbca6ce45383f67651be",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13732,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Rwanda f\u00f6rst ut med mpox-vaccin i Afrika",
+      "description": "Vaccination mot viruset mpox har inletts i Afrika \u2013 med Rwanda f\u00f6rst ut med flera hundra personer i riskzon som har vaccinerats, uppger Afrikanska unionens folk",
+      "url": "https://www.aftonbladet.se/nyheter/a/GyBJ0q/rwanda-forst-ut-med-mpox-vaccin-i-afrika",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/2c4e1325-53cf-46ad-90bc-6622f46a3873?fit=crop&format=auto&h=1268&q=50&w=1900&s=bcf0325a3abdc068f1db53dcd99304d03f49c703",
+      "publishedAt": "2024-09-19 16:05:13",
+      "content": "share-arrow Dela Vaccination mot viruset mpox har inletts i Afrika med Rwanda f\u00f6rst ut med flera hundra personer i riskzon som har vaccinerats, uppger Afrikanska unionens folkh\u00e4lsosorgan Africa CDC\u2026 [+674 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.124190",
+      "internal_id": "67074de711b22a8b9027ddecd999d3ddf3af2178557bfbcba7678471399449e1",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13735,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "TT-AFP",
+      "title": "Rwanda f\u00f6rst ut med mpox-vaccin i Afrika",
+      "description": "Vaccination mot viruset mpox har inletts i Afrika \u2013 med Rwanda f\u00f6rst ut med flera hundra personer i riskzon som har vaccinerats, uppger Afrikanska unionens folkh\u00e4lsosorgan Africa CDC. De f\u00f6rsta 300 vaccinerna delades ut n\u00e4ra gr\u00e4nsen till Kongo-Kinshasa, som v\u2026",
+      "url": "https://www.svd.se/a/dRLQvz/rwanda-forst-ut-med-mpox-vaccin-i-afrika",
+      "urlToImage": "https://svd.vgc.no/v2/images/590ce065-a152-4066-b8b4-50489ee5c663?h=630&q=80&upscale=true&w=1200&s=87c94b241f127a22e27e850d8e63e59299209ad0",
+      "publishedAt": "2024-09-19 16:05:13",
+      "content": "Vaccination mot viruset mpox har inletts i Afrika med Rwanda f\u00f6rst ut med flera hundra personer i riskzon som har vaccinerats, uppger Afrikanska unionens folkh\u00e4lsosorgan Africa CDC. De f\u00f6rsta 300 va\u2026 [+201 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.167036",
+      "internal_id": "e74d62b1c6d76bf4b183c0519cbe92480b084af9a02c2a17564f93b32aac05a3",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13746,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "nieuwsblad.be",
+      "title": "Afrikaans agentschap voor Volksgezondheid: \u201cMpox niet onder controle\u201d",
+      "description": "Het mpox-virus is niet onder controle in Afrika. Dat zegt het Africa Centres for Disease Control and Prevention (CDC), het agentschap voor volksgezondheid van de Afrikaanse Unie, donderdag. Binnen een week tijd werden bijna 3.000 nieuwe verdachte gevallen van\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20240919_95795711",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/09/19/6f961193-733d-45d1-915a-fdbc9c82c86f.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-09-19 16:04:43",
+      "content": "Het mpox-virus is niet onder controle in Afrika. Dat zegt het Africa Centres for Disease Control and Prevention (CDC), het agentschap voor volksgezondheid van de Afrikaanse Unie, donderdag. Binnen ee\u2026 [+1510 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.351165",
+      "internal_id": "1a926ad3017975a285f0824367ff6a24134f033b661c0ef8b83a1af32fabe43d",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13739,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "EVELYNE MUSAMBI Associated Press",
+      "title": "Rwanda begins vaccinations against mpox amid a call for more doses for Africa",
+      "description": "The African health agency says that Rwanda has started a vaccination campaign against mpox with 1,000 doses it obtained from Nigeria under a bilateral agreement",
+      "url": "https://abcnews.go.com/International/wireStory/rwanda-begins-vaccinations-mpox-amid-call-doses-africa-113844978",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-09-19 16:00:27",
+      "content": "NAIROBI, Kenya -- Rwanda has started a vaccination campaign against mpox with 1,000 doses of the vaccine it obtained from Nigeria under an agreement between the two countries, the African health agen\u2026 [+2111 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.244672",
+      "internal_id": "fcda7511e74a1514316c281244356daa0970f25027349e7c931e332de12ace49",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13731,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Nu er Bavarian Nordics mpox-vaccine godkendt til b\u00f8rn og unge",
+      "description": "Det Europ\u00e6iske L\u00e6gemiddelagentur (EMA) har godkendt mpox-vaccinen fra Bavarian Nordic til brug hos b\u00f8rn ned til 12 \u00e5r.",
+      "url": "https://www.dr.dk/nyheder/seneste/nu-er-bavarian-nordics-mpox-vaccine-godkendt-til-boern-og-unge",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-09-19 15:29:00",
+      "content": "Pr\u00e6cisering: Tidligere fremgik det, at fiske\u00f8rnen havde s\u00e6rligt lange ben, men det er ikke korrekt. Der er godt nyt for dem, der h\u00e5ber at kunne se en fiske\u00f8rn ved vores s\u00f8er. For fiske\u00f8rnen har haf\u2026 [+750 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.118858",
+      "internal_id": "204cd144aedcfd36ae8e91f8a5230b1b058fd294ae3cd09011a2c980115f9ea7",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13724,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Brasil antecipa campanha contra dengue ap\u00f3s 6,5 mi de casos em 2024",
+      "description": "Enquanto o Brasil registrou mais de 6,5 milh\u00f5es de casos prov\u00e1veis de dengue, de janeiro a ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/brasil-antecipa-campanha-contra-dengue-apos-65-mi-de-casos-em-2024,afdc169fe0c3e76da6ae555809ff45a578x0r224.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/09/istock-1266993182-1hbd8jxmjvnsg.jpg",
+      "publishedAt": "2024-09-19 14:50:50",
+      "content": "Enquanto o Brasil registrou mais de 6,5 milh\u00f5es de casos prov\u00e1veis de dengue, de janeiro a agosto, o Minist\u00e9rio da Sa\u00fade decidiu antecipar a campanha de combate \u00e0 dengue. O an\u00fancio foi feito nesta q\u2026 [+1488 chars]",
+      "retrievedAt": "2024-09-20 19:05:54.374719",
+      "internal_id": "bce9e6c35cccbd09cd51ed3a5862a24d688b8b63127cefc1fdba07125bd3374d",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13734,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Mpox in Afrika laut Beh\u00f6rden \u201enicht unter Kontrolle\u201c",
+      "description": "In einer Woche seien 3000 Verdachtsf\u00e4lle aufgetaucht und es habe 14 weitere Tote in Zusammenhang mit dem Mpox-Virus gegeben, berichtet der Direktor der afrikanischen Gesundheitsbeh\u00f6rde CDC Africa.",
+      "url": "https://www.diepresse.com/18879647/mpox-in-afrika-laut-behoerden-nicht-unter-kontrolle",
+      "urlToImage": "https://img.diepresse.com/public/incoming/3qcr97-HEALTH-MPOXVACCINES/alternates/DPR_SOCIAL_NACHRICHTEN/HEALTH-MPOXVACCINES",
+      "publishedAt": "2024-09-19 14:40:56",
+      "content": "In einer Woche seien 3000 Verdachtsf\u00e4lle aufgetaucht und es habe 14 weitere Tote in Zusammenhang mit dem Mpox-Virus gegeben, berichtet der Direktor der afrikanischen Gesundheitsbeh\u00f6rde CDC Africa. I\u2026 [+1994 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.157251",
+      "internal_id": "29c502604ac1208917a6031d16e50fb6f3935ba66a780e3f53437b624e98a2e5",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13747,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Rory O\u2019Neill",
+      "title": "EU drugs watchdog backs Bavarian Nordic\u2019s mpox vaccine for adolescents",
+      "description": "The decision comes a week after the WHO approved the vaccine for adults.",
+      "url": "https://www.politico.eu/article/ema-approves-bavarian-nordics-mpox-vaccine-for-adolescents/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/09/19/GettyImages-1242666076-scaled.jpg",
+      "publishedAt": "2024-09-19 14:38:22",
+      "content": "A clinical study, in 211 adults and 312 adolescents aged 12 to 17, found a similar safety profile and non-inferiority of the immune responses in both age groups after two doses of the vaccine. This \u2026 [+550 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.356555",
+      "internal_id": "ce69b509220218eeafac585bb1a6eb1208288c67d9118d003776a1aa6b3f9cb4",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13742,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "Mpox is not under control in Africa, warns Africa CDC",
+      "description": "Mpox is not under control in Africa, warns Africa CDC",
+      "url": "https://www.investing.com/news/world-news/mpox-is-not-under-control-in-africa-warns-africa-cdc-3623820",
+      "urlToImage": "https://i-invdn-com.investing.com/news/world_news_3_69x52._800x533_L_1419494235.jpg",
+      "publishedAt": "2024-09-19 14:36:03",
+      "content": "DAKAR (Reuters) - The mpox outbreak in Africa is still not under control, the Africa Centres for Disease Control and Prevention (Africa CDC) warned on Thursday, adding that cases were still increasin\u2026 [+1635 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.278269",
+      "internal_id": "1b58f772c1014fe68ffcb34ff05ff9566c989149dcb6a792b1d1a32acd5b0baa",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13741,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Paul Murray",
+      "title": "Wie Versicherer das Risiko durch Mpox bewerten : \u201eUnser Modell berechnet 50.000 Pandemieszenarien\u201c",
+      "description": "Lebensversicherungen haben wegen Corona viel Geld ausgezahlt. Um die Risiken von Pandemien zu kalkulieren, hat der R\u00fcckversicherer Swiss Re ein Modell entwickelt. Was sagt es voraus?",
+      "url": "https://www.tagesspiegel.de/gesundheit/wie-versicherer-das-risiko-durch-mpox-bewerten-unser-modell-berechnet-50000-pandemieszenarien-12387455.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12401588/alternates/BASE_16_9_W1400/1726752570000/a-congolese-nurse-takes-a-sample-from-nsimire-nakaziba-a-suspected-case-of-mpox-in-the-treatment-centre-at-the-kavumu-hospital-in-kabare-territory.jpeg",
+      "publishedAt": "2024-09-19 14:24:17",
+      "content": "Die Situation ist uns allzu vertraut: Ein mutierendes Virus, das von Tieren auf Menschen \u00fcbertragen werden kann eine Bedrohung, die durch die Globalisierung versch\u00e4rft wird hat dazu gef\u00fchrt, dass Exp\u2026 [+411 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.264390",
+      "internal_id": "59ab2efb94f2be0b038258a08f6f64fc51b42c258e8ff0c0d5279f173597da46",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13736,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Jacqui Wise",
+      "title": "WHO acts to boost access to mpox vaccine",
+      "description": "bmj;386/sep19_9/q2024/FAF1faCDCJean Kakuru Biyambo, a father of six from the Muja camp for internally displaced persons in the Democratic Republic of the Congo, gestures outside Goma general hospital, where he is receiving treatment for mpox. Across the DRC a\u2026",
+      "url": "https://www.bmj.com/content/386/bmj.q2024",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/386/8441.cover-source.jpg",
+      "publishedAt": "2024-09-19 14:11:09",
+      "content": "Jean Kakuru Biyambo, a father of six from the Muja camp for internally displaced persons in the Democratic Republic of the Congo, gestures outside Goma general hospital, where he is receiving treatme\u2026 [+11 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.176631",
+      "internal_id": "03ced25e31f0aeea32f754c4581d397c73f1fa8621cbfe0b3c5fe4aaedfbc024",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13723,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sarah Hafsia, Tatiana Barbar, Haoues Alout, Fiona Baudino, Cyrille Lebon, Yann Gomard, David A. Wilkinson, Toscane Fouri\u00e9, Patrick Mavingui, C\u00e9lestine Atyame",
+      "title": "Vector competence of Aedes albopictus field populations from Reunion Island exposed to local epidemic dengue viruses",
+      "description": "Dengue virus (DENV) is the most prevalent mosquito-borne Flavivirus that affects humans worldwide. Aedes albopictus, which is naturally infected with the bacteria Wolbachia, is considered to be a secondary vector of DENV. However, it was responsible for a rec\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310635",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0310635.g003&size=inline",
+      "publishedAt": "2024-09-19 14:00:00",
+      "content": "Abstract Dengue virus (DENV) is the most prevalent mosquito-borne Flavivirus that affects humans worldwide. Aedes albopictus, which is naturally infected with the bacteria Wolbachia, is considered t\u2026 [+77126 chars]",
+      "retrievedAt": "2024-09-20 19:05:54.291791",
+      "internal_id": "fabf2892de1afe870ab046af57527c82cbe8b1add3b64eb0ada46b75571a37c9",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13728,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dinah S. Nahid, Kevin A. Coffey, Amy K. Bei, Regina Joice Cordy",
+      "title": "Understanding the significance of oxygen tension on the biology of Plasmodium falciparum blood stages: From the human body to the laboratory",
+      "description": "Plasmodium falciparum undergoes sequestration within deep tissues of the human body, spanning multiple organ systems with differing oxygen (O2) concentrations. The parasite is exposed to an even greater range of O2 concentrations as it transitions from the hu\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012514",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012514.g004&size=inline",
+      "publishedAt": "2024-09-19 14:00:00",
+      "content": "Introduction Malaria caused by Plasmodium falciparum can induce systemic hypoxia by disrupting blood flow and inducing loss of oxygen (O2)-carrying erythrocytes, leading to impairment of O2 delivery\u2026 [+41938 chars]",
+      "retrievedAt": "2024-09-20 19:05:55.232714",
+      "internal_id": "b1a003f72454fe9bd4304d05a2712448c16b84c8a030ba82080973a0d4f2ad47",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13750,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pablo Uribe-Restrepo, Janeth Perez-Garcia, Margarita Arboleda, Claudia Munoz-Zanzi, Piedad Agudelo-Florez",
+      "title": "Clinical presentation of human leptospirosis in febrile patients: Urab\u00e1, Colombia",
+      "description": "Author summary Leptospirosis is a Neglected Tropical Disease with worldwide distribution, a heavy impact in tropical regions, and remaining knowledge gaps. Laboratory disease confirmation requires tests that are still difficult to access in rural communities \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012449",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012449.t005&size=inline",
+      "publishedAt": "2024-09-19 14:00:00",
+      "content": "1. Introduction Leptospirosis is a re-emerging zoonotic disease with global distribution, high endemicity in tropical regions, and a wide range of clinical manifestations [1]. It is estimated that l\u2026 [+29356 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.759307",
+      "internal_id": "d8532590e2cf749ea91b98346e528110022dda437a1d45304394c6b9a84e7732",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13743,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Receives EMA Approval of Mpox Vaccine for Adolescents",
+      "description": "COPENHAGEN, Denmark, September 19, 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) announced today that the European Commission has adopted the Committee for Medicinal Products for Human Use (CHMP) recommendation for the approval of a type II variation for IMVANEX\u00ae (M\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/09/19/2949111/0/en/Bavarian-Nordic-Receives-EMA-Approval-of-Mpox-Vaccine-for-Adolescents.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-09-19 13:45:00",
+      "content": "MVA-BN approved for use against mpox and smallpox in adolescents 12-17 years of age after expedited review with EMARepresents the second EMA approval of an MVA-BN-based vaccine for a\u2026 [+5490 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.309114",
+      "internal_id": "3e48e1eaf629f060373f85fdf903e8d58e1f5136e85b3d7fa64223f8d106009c",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13722,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Shannon McDonagh",
+      "title": "L.A. Dengue Update: 'Unprecedented Cluster'",
+      "description": "Three cases were detected in Baldwin Park in individuals with no travel history outside the U.S.",
+      "url": "https://www.newsweek.com/los-angeles-california-mosquito-dengue-transmission-1956157",
+      "urlToImage": "https://d.newsweek.com/en/full/2475069/california-dengue-outbreak-aedes-mosquito.jpg",
+      "publishedAt": "2024-09-19 11:00:28",
+      "content": "Los Angeles health officials issued an alert Wednesday after confirming a notable increase in dengue fever cases. Three individuals in the Baldwin Park neighborhood were infected this month without \u2026 [+3650 chars]",
+      "retrievedAt": "2024-09-20 19:05:54.282320",
+      "internal_id": "c9362d0357d624f21c75699c20cb9ad24a3ada5174c116c4f4545753e7915409",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13721,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Destination Sant\u00e9 et Futura",
+      "title": "Une nouvelle \u00e9tape inqui\u00e9tante franchie en France : des moustiques tigres porteurs de la dengue identifi\u00e9s pour la premi\u00e8re fois",
+      "description": "Pour la premi\u00e8re fois, les chercheurs ont confirm\u00e9 la pr\u00e9sence du virus de la dengue chez des moustiques en France m\u00e9tropolitaine. La maladie peut d\u00e9sormais se transmettre localement, sans besoin d'importer le virus depuis l'\u00e9tranger, ce qui augmente le risqu\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/moustique-nouvelle-etape-inquietante-franchie-france-moustiques-tigres-porteurs-dengue-identifies-premiere-fois-116131/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/9/8/8/9888ead71d_50221074_moustique-dengue-maladie.jpg",
+      "publishedAt": "2024-09-19 10:19:34",
+      "content": "En 2022, 65 cas autochtones de dengue ont \u00e9t\u00e9 identifi\u00e9s sur le sol m\u00e9tropolitain, illustrant la pr\u00e9sence de moustiquesmoustiques infect\u00e9s dans l'Hexagone. Mais, pour la premi\u00e8re fois, des chercheurs\u2026 [+2030 chars]",
+      "retrievedAt": "2024-09-20 19:05:54.263924",
+      "internal_id": "c7835bafbb4fc1426cf111aae1e7f3b14bf08f7b568ddd590173422bbf6cc383",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13727,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet Daily News",
+      "author": "hurriyetdailynews.com",
+      "title": "Conflict, climate threaten fight against diseases",
+      "description": "Climate change and conflicts are threatening progress in the fight against infectious diseases like AIDS, tuberculosis and malaria, a group dedicating to eradicating the illnesses warned yesterday.",
+      "url": "https://www.hurriyetdailynews.com/conflict-climate-threaten-fight-against-diseases-200733",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/66ebf218b718cef60e71420f.jpg",
+      "publishedAt": "2024-09-19 09:42:55",
+      "content": "GENEVA Climate change and conflicts are threatening progress in the fight against infectious diseases like AIDS, tuberculosis and malaria, a group dedicating to eradicating the illnesses warned yest\u2026 [+1602 chars]",
+      "retrievedAt": "2024-09-20 19:05:55.216829",
+      "internal_id": "fdda19de04629c63e5d5a59905d85924c237fc27ed0fffaf2017d5e6e7f09eca",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13720,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Dengue, 450 casi da inizio anno e 25 autoctoni. Focolaio nelle Marche. Iss: \u201cNessuna criticit\u00e0\u201d",
+      "description": "Salgono a 450 i casi di Dengue confermati in Italia dal 1 gennaio al 17 settembre 2024 e notificati al sistema di sorveglianza nazionale. Di questi, 425 sono associati a viaggi all\u2019estero e 25 sono autoctoni (il primo era stato rilevato a Brescia): 20 nelle M\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/09/19/dengue-450-casi-da-inizio-anno-e-25-autoctoni-focolaio-nelle-marche-iss-nessuna-criticita/7699624/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/08/07/zanzare-1200x630.jpg",
+      "publishedAt": "2024-09-19 09:22:17",
+      "content": "(Adnkronos) - Emergenza meteo oggi in Emilia Romagna, dove c'\u00e8 l'allerta rossa gi\u00e0 da quasi 24 ore, e nelle Marche. La pioggia incessante ha provocato frane e inondazioni. Scuole di primo e second\u2026 [+9565 chars]",
+      "retrievedAt": "2024-09-20 19:05:54.257297",
+      "internal_id": "2df9741f049821a83e58a67bf99efb303c14fdf939b3a1cd37feea77c41d76ae",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13718,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "MIT Technology Review",
+      "author": "Jessica Hamzelou",
+      "title": "Why virologists are getting increasingly nervous about bird flu",
+      "description": "Bird flu has been spreading in dairy cows in the US\u2014and the scale of the spread is likely to be far worse than it looks. In addition, 14 human cases have been reported in the US since March. Both are worrying developments, say virologists, who fear that the c\u2026",
+      "url": "https://www.technologyreview.com/2024/09/19/1104183/virologists-increasingly-nervous-bird-flu/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/09/GettyImages-1326159072.jpg?resize=1200,600",
+      "publishedAt": "2024-09-19 08:53:10",
+      "content": "And while many ducks and geese seem to be able to survive being infected with the virus, other bird species are much more vulnerable. H5N1 is especially deadly for chickens, for exampletheir heads sw\u2026 [+2089 chars]",
+      "retrievedAt": "2024-09-20 19:05:53.843123",
+      "internal_id": "820333e58cb6c445f4575124149a75870c2b036ca9efcdb62da599897dd5e793",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13730,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Nayra Teles",
+      "title": "Vacina j\u00e1 existente pode oferecer prote\u00e7\u00e3o contra mpox",
+      "description": "Estudo encontrou evid\u00eancias de que apenas uma dose de uma vacina j\u00e1 existente \u00e9 eficaz na prote\u00e7\u00e3o contra a infec\u00e7\u00e3o da doen\u00e7a O post Vacina j\u00e1 existente pode oferecer prote\u00e7\u00e3o contra mpox apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/09/19/medicina-e-saude/vacina-ja-existente-pode-oferecer-protecao-contra-mpox/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/09/vacina-mpox.png",
+      "publishedAt": "2024-09-19 08:50:00",
+      "content": "Em agosto, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) decretou estado de emerg\u00eancia de sa\u00fade p\u00fablica devido ao aumento de casos de mpox. Agora, uma nova descoberta pode ajudar a lidar com o surto. Um novo\u2026 [+2304 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.104213",
+      "internal_id": "19193d9c1978f55df0a635e1579ec8de3b65cafc48487c515d625770e7edb75c",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13748,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Monkeypox (MPOX) Diagnostics Global Markets 2024-2028: New Strains Threaten New Outbreaks - Crisis Spurs Innovation in PCR, NGS, and Rapid Testing Solutions",
+      "description": "Dublin, Sept. 19, 2024 (GLOBE NEWSWIRE) -- The \"Monkeypox (MPOX) Diagnostics Global Markets 2024-2028, by Assay, by Country, by Product and by Place: Executive and Consultant Guides, Market Analysis and Forecasts\" report has been added to ResearchAndMarkets.c\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/09/19/2948777/28124/en/Monkeypox-MPOX-Diagnostics-Global-Markets-2024-2028-New-Strains-Threaten-New-Outbreaks-Crisis-Spurs-Innovation-in-PCR-NGS-and-Rapid-Testing-Solutions.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2024-09-19 08:42:00",
+      "content": "Dublin, Sept. 19, 2024 (GLOBE NEWSWIRE) -- The \"Monkeypox (MPOX) Diagnostics Global Markets 2024-2028, by Assay, by Country, by Product and by Place: Executive and Consultant Guides, Market Analysis \u2026 [+5718 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.361879",
+      "internal_id": "140edea968c3e99b5add6d9c2b5176a5865e11b7556b0b300a40134dfb1f15de",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13725,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Com crise clim\u00e1tica, campanha contra a dengue \u00e9 antecipada",
+      "description": "Pa\u00eds registra 6,5 milh\u00f5es de casos prov\u00e1veis da doen\u00e7a entre janeiro e agosto, alta de 300% em rela\u00e7\u00e3o ao mesmo per\u00edodo do ano passado",
+      "url": "https://valor.globo.com/brasil/noticia/2024/09/19/com-crise-climatica-campanha-contra-a-dengue-e-antecipada.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-09-19 08:01:07",
+      "content": "A resposta institucional n\u00e3o pode ter outra forma, se n\u00e3o a das boas pol\u00edticas judici\u00e1rias, em perspectiva nacional, pelo Conselho Nacional de Justi\u00e7a, ou regional, pelos tribunais",
+      "retrievedAt": "2024-09-20 19:05:54.393741",
+      "internal_id": "02f127b6ae26531bfb930003a1b890958ee27f72c66d0b5ae984de2bd86c2b65",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13740,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "World News in Brief: Yemen detainee appeal, Typhoon Yagi impacts, ease asylum seekers' plight, mpox cash boost",
+      "description": "Regional directors from six UN agencies and three non-governmental organizations (NGOs) called on Wednesday for the immediate and unconditional release of scores of colleagues who have been arbitrarily detained in Yemen for 100 days.",
+      "url": "https://www.globalsecurity.org/military/library/news/2024/09/mil-240918-unnews05.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-09-19 07:27:57",
+      "content": "18 September 2024 - Regional directors from six UN agencies and three non-governmental organizations (NGOs) called on Wednesday for the immediate and unconditional release of scores of colleagues who\u2026 [+6196 chars]",
+      "retrievedAt": "2024-09-20 19:05:57.249982",
+      "internal_id": "deb73f70be63dda8a0635e684746f0dd37a29a86ff7bfb83608e784bb704f147",
+      "publishedAtLabel": "Sep 19"
+    },
     {
       "id": 13705,
       "query": [
@@ -37430,168 +38024,6 @@
       "content": "Ground Picture/Shutterstock So far in 2024 there have been more than 17,000 cases of whooping cough (pertussis) across Australia. This is well above our usual national average. It\u2019s already six time\u2026 [+7734 chars]",
       "retrievedAt": "2024-08-06 07:05:59.718814",
       "internal_id": "a8aca7ebf754534c7e7522880a93ace32555568ebfbddfc68c16474cd1c68f1f",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11638,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Hamsaveni N",
-      "title": "Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru",
-      "description": "BENGALURU: The post-Covid dip in blood collection at private blood banks across Bengaluru has had a ripple effect now: The current dengue surge - the .",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112270454,width-1070,height-580,imgsize-88292,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-04 19:03:11",
-      "content": "8 flowers and plants that will attract birds to your garden",
-      "retrievedAt": "2024-08-05 19:06:33.378068",
-      "internal_id": "35c6371fcd18fd95fa639b487c0a6258d2459868918be515c731ef339f3b6e25",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11635,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "svenska-dagbladet",
-      "source_name": "Svenska Dagbladet",
-      "author": "Marit Furn",
-      "title": "Stephen King minns inte att han skrivit boken",
-      "description": "RECENSION. I \u201dCujo\u201d skildrar skr\u00e4ckm\u00e4staren Stephen King en familj vars hund smittas av rabies och blir blodt\u00f6rstig. N\u00e4r Marit Furn \u00e5terv\u00e4nder till sin f\u00f6rsta vuxenbok ser hon sp\u00e5r av f\u00f6rfattarens egna problem mellan raderna.",
-      "url": "https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken",
-      "urlToImage": "https://svd.vgc.no/v2/images/5963db5d-7433-4677-9ede-aefb34d9b471?h=630&q=80&upscale=true&w=1200&s=b5ef319b52ecbd66c839d1021bb787b68695e248",
-      "publishedAt": "2024-08-04 18:14:17",
-      "content": "Pocketen med den hotfullt dreglande sankt bernadsk\u00e4ften p\u00e5 omslaget var den f\u00f6rsta vuxenbok jag l\u00e4ste p\u00e5 egen hand. Jag var tolv och hade redan fyllt ett ljusbl\u00e5tt skrivh\u00e4fte med egna sm\u00e5 skr\u00e4ckhisto\u2026 [+410 chars]",
-      "retrievedAt": "2024-08-05 19:06:32.284730",
-      "internal_id": "976b8e69793b364b4d7b0a1679096b41a6ca98be31abef42adca22cc2c26e11c",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11639,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "news24",
-      "source_name": "News24",
-      "author": "Ntwaagae Seleka",
-      "title": "News24 | Gauteng man who returned from Peru one of two new positive Mpox cases",
-      "description": "Two more laboratory-confirmed cases of Mpox disease have been detected in Gauteng and KwaZulu-Natal, increasing the number of cases to 24 countrywide. The recent cases come 26 days after the first Mpox cases were reported in South Africa.",
-      "url": "https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12005/52927e9345ee42a398d20300416fbd5e.jpg",
-      "publishedAt": "2024-08-04 17:36:50",
-      "content": "A man who returned from Peru is among two new confirmed cases of the Mpox disease.The second patient is a KwaZulu-Natal man with no international travel history.The number o\u2026 [+2274 chars]",
-      "retrievedAt": "2024-08-05 19:06:34.627881",
-      "internal_id": "37e26ea3704f19277cc0f30dc3708f1286a942f445f80d8b6e2530a52e68e357",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11641,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Lucas Liganga, Hua Hongli",
-      "title": "Tanzania steps up border surveillance as mpox cases reported in neighboring countries",
-      "description": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectious disease caused by the mpox virus, were reported in neighbo\u2026",
-      "url": "https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-08-04 17:25:00",
-      "content": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectiou\u2026 [+1601 chars]",
-      "retrievedAt": "2024-08-05 19:06:34.672152",
-      "internal_id": "8237f4e09e1f1fbab8ac1312f7fe595be473832097e28dea52046bfefa448da3",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11642,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The South African",
-      "author": "Nokwanda Ncwane",
-      "title": "Mpox latest: Department of Health calls for vigilance as cases re-emerge",
-      "description": "The Department of Health says of the 22 cases of Mpox recorded between May and July, 19 have fully recovered and three have died.",
-      "url": "https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/",
-      "urlToImage": "https://www.thesouthafrican.com/wp-content/uploads/2024/07/monkeypox-vaccinee-1200x776-1.jpg",
-      "publishedAt": "2024-08-04 16:15:00",
-      "content": "The Department of Health calls for ongoing public vigilance against Mpox disease as two more laboratory-confirmed cases have been detected in Gauteng and KwaZulu-Natal. The recent cases come 26 day\u2026 [+1712 chars]",
-      "retrievedAt": "2024-08-05 19:06:34.689903",
-      "internal_id": "e06ef9bb314a526bdcf4ea374f6637793af0fd09ec7f47f15f0deb798c52aa96",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11645,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Batac: Ilocos Norte ups measures vs. dengue after 2 deaths",
-      "description": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. \u201cThere is intensive information education campaign in every muni\u2026",
-      "url": "https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/08/bfp-dumalneg.jpg",
-      "publishedAt": "2024-08-04 14:27:32",
-      "content": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. The\u2026 [+1583 chars]",
-      "retrievedAt": "2024-08-06 07:06:01.244200",
-      "internal_id": "26ac7da7b8d3e328b303e2f8207f23d731f71d8ec0172bf1b07c5f1bec1a2549",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11640,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\u0412\u0438\u0440\u0443\u0441 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0443",
-      "description": "\u0412 \u0423\u0433\u0430\u043d\u0434\u0435 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d (Mpox). \u041e \u0434\u0432\u0443\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0445 \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 AFP. \u0421\u043b\u0443\u0447\u0430\u0438 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0430\u0445 \u041a\u0430\u0441\u0435\u0441\u0435 \u0438 \u041c\u043f\u043e\u043d\u0434\u0432\u0435. \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0423\u0433\u0430\u043d\u0434\u044b \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e, \u0447\u0442\u043e \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u044f \u043f\u0440\u0438\u0448\u043b\u0430 \u0438\u0437 \u0441\u043e\u0441\u0435\u0434\u043d\u0435\u0439 ...",
-      "url": "https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/693/15643693/20180530_gaf_uw8_1540-pic_32ratio_900x600-900x600-83778.jpg",
-      "publishedAt": "2024-08-04 14:26:07",
-      "content": ": .Ru (Gazeta.Ru) : \u00ab.\u00bb, 1067761730376, 7743625728 : 125239, , , , 67 : 117105, . , , .9, .1",
-      "retrievedAt": "2024-08-05 19:06:34.657950",
-      "internal_id": "f1cb32251d71a2a99841f1385c3790995f0fae5a96d8daeef8feb03fb2f3f13a",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11637,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Alarmante alza de contagios de dengue: OPS",
-      "description": "Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u00f3n de Centroam\u00e9rica, sostuvo Jorge Saavedra, director ejecutivo del Instituto Aids Healthcare Foundation de Salud P\u00fa\u2026",
-      "url": "https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-08-04 10:32:04",
-      "content": "Peri\u00f3dico La JornadaDomingo 4 de agosto de 2024, p. 27 Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u2026 [+2640 chars]",
-      "retrievedAt": "2024-08-05 19:06:33.364484",
-      "internal_id": "aedd625f819b1e21fcb3280d0254d4ecb1713066d06e71f3deae34b4728969f5",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11636,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Berliner Morgenpost",
-      "author": "Kai Wiedermann",
-      "title": "Vogelgrippe: Virus pirscht sich n\u00e4her an den Menschen heran",
-      "description": "Erst V\u00f6gel, dann S\u00e4ugetiere und in Einzelf\u00e4llen auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippevirus H5N1 weiterentwickelt und welche Gefahr das birgt",
-      "url": "https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html",
-      "urlToImage": "https://img.sparknews.funkemedien.de/406930402/406930402_1722763108_v16_9_1600.jpeg",
-      "publishedAt": "2024-08-04 09:18:28",
-      "content": "Berlin. Erst infizierte es V\u00f6gel, dann S\u00e4ugetiere, vereinzelt auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippe-Virus weiterentwickelt. Ein neuer \u00dcbertragungsweg, eine neue Tierart: Das Vog\u2026 [+6074 chars]",
-      "retrievedAt": "2024-08-05 19:06:32.911510",
-      "internal_id": "de41770983aa84004a4ad1fa8019d8eef64fa9406d94c36853911a8129da24e8",
       "publishedAtLabel": "Aug 4"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 27
-- **Last harvest:** 2024-09-20 07:06
-- **Most recent article:** 2024-09-19 06:44:47
+- **New articles in last harvest:** 33
+- **Last harvest:** 2024-09-20 19:05
+- **Most recent article:** 2024-09-19 17:56:44
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 138 | 292 | 208 | 207 | 184 | 192 | 74 | 1295 |
-| dengue | 44 | 52 | 64 | 45 | 49 | 76 | 46 | 376 |
-| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 9 | 125 |
-| h5n1 | 6 | 8 | 5 | 10 | 31 | 10 | 10 | 80 |
+| mpox | 134 | 292 | 208 | 207 | 184 | 192 | 95 | 1312 |
+| dengue | 41 | 52 | 64 | 45 | 49 | 76 | 53 | 380 |
+| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 11 | 127 |
+| h5n1 | 5 | 8 | 5 | 10 | 31 | 10 | 12 | 81 |
 | zika | 11 | 10 | 21 | 2 | 6 | 10 | 7 | 67 |
 | chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 8 | 49 |
 | measles | 6 | 3 | 7 | 11 | 9 | 5 | 7 | 48 |
-| rabies | 8 | 12 | 6 | 3 | 7 | 5 | 5 | 46 |
+| rabies | 7 | 12 | 6 | 3 | 7 | 5 | 5 | 45 |
 | meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 3 | 41 |
 | pertussis | 6 | 3 | 5 | 2 | 1 | 5 | 2 | 24 |
-| leptospirosis | 2 | 2 | 4 | 0 | 1 | 0 | 0 | 9 |
+| leptospirosis | 2 | 2 | 4 | 0 | 1 | 0 | 1 | 10 |
 | yersinia | 1 | 0 | 1 | 1 | 2 | 0 | 2 | 7 |
 | hpai | 1 | 1 | 1 | 0 | 3 | 1 | 0 | 7 |
 | typhoid | 0 | 1 | 2 | 1 | 1 | 0 | 0 | 5 |
@@ -74,6 +74,48 @@ Source: [News API](https://newsapi.org/)
 - [College Football Game Canceled Over Whooping Cough Case and Exposure: Officials](https://www.theepochtimes.com/health/college-football-game-canceled-over-whooping-cough-case-and-exposure-officials-5724606) (Theepochtimes.com)
 
 ## 24-38 (mpox)
+
+- [Mpox: regulador recomenda alargar vacinação a adolescentes](https://observador.pt/2024/09/19/mpox-regulador-recomenda-alargar-vacinacao-a-adolescentes/) (Observador.pt)
+
+- [Impfungen in Afrika: Erste Dosen gegen Mpox-Virus in Ruanda verabreicht](https://www.tagesspiegel.de/gesundheit/impfungen-in-afrika-erste-dosen-gegen-mpox-virus-in-ruanda-verabreicht-12403535.html) (Der Tagesspiegel)
+
+- [EMA zet licht op groen voor vaccinatie mpox bij tieners](https://www.nieuwsblad.be/cnt/dmf20240919_95914926) (Nieuwsblad.be)
+
+- [Mpox : la première campagne de vaccination en Afrique a commencé au Rwanda](https://www.lemonde.fr/afrique/article/2024/09/19/mpox-la-premiere-campagne-de-vaccination-en-afrique-a-commence-au-rwanda_6324522_3212.html) (Le Monde)
+
+- [Afrikaans agentschap voor Volksgezondheid: “Mpox niet onder controle”](https://www.hbvl.be/cnt/dmf20240919_95895345) (Hbvl.be)
+
+- [Zambia steps up surveillance measures against mpox](https://www.thestar.com.my/news/world/2024/09/20/zambia-steps-up-surveillance-measures-against-mpox) (The Star Online)
+
+- [First Mpox vaccine administered in Africa](https://punchng.com/first-mpox-vaccine-administered-in-africa/) (The Punch)
+
+- [Rwanda först ut med mpox-vaccin i Afrika](https://www.aftonbladet.se/nyheter/a/GyBJ0q/rwanda-forst-ut-med-mpox-vaccin-i-afrika) (Aftonbladet.se)
+
+- [Rwanda först ut med mpox-vaccin i Afrika](https://www.svd.se/a/dRLQvz/rwanda-forst-ut-med-mpox-vaccin-i-afrika) (Svenska Dagbladet)
+
+- [Afrikaans agentschap voor Volksgezondheid: “Mpox niet onder controle”](https://www.nieuwsblad.be/cnt/dmf20240919_95795711) (Nieuwsblad.be)
+
+- [Rwanda begins vaccinations against mpox amid a call for more doses for Africa](https://abcnews.go.com/International/wireStory/rwanda-begins-vaccinations-mpox-amid-call-doses-africa-113844978) (ABC News)
+
+- [Nu er Bavarian Nordics mpox-vaccine godkendt til børn og unge](https://www.dr.dk/nyheder/seneste/nu-er-bavarian-nordics-mpox-vaccine-godkendt-til-boern-og-unge) (Www.dr.dk)
+
+- [Mpox in Afrika laut Behörden „nicht unter Kontrolle“](https://www.diepresse.com/18879647/mpox-in-afrika-laut-behoerden-nicht-unter-kontrolle) (Diepresse.com)
+
+- [EU drugs watchdog backs Bavarian Nordic’s mpox vaccine for adolescents](https://www.politico.eu/article/ema-approves-bavarian-nordics-mpox-vaccine-for-adolescents/) (POLITICO.eu)
+
+- [Mpox is not under control in Africa, warns Africa CDC](https://www.investing.com/news/world-news/mpox-is-not-under-control-in-africa-warns-africa-cdc-3623820) (Investing.com)
+
+- [Wie Versicherer das Risiko durch Mpox bewerten : „Unser Modell berechnet 50.000 Pandemieszenarien“](https://www.tagesspiegel.de/gesundheit/wie-versicherer-das-risiko-durch-mpox-bewerten-unser-modell-berechnet-50000-pandemieszenarien-12387455.html) (Der Tagesspiegel)
+
+- [WHO acts to boost access to mpox vaccine](https://www.bmj.com/content/386/bmj.q2024) (The BMJ)
+
+- [Bavarian Nordic Receives EMA Approval of Mpox Vaccine for Adolescents](https://www.globenewswire.com/news-release/2024/09/19/2949111/0/en/Bavarian-Nordic-Receives-EMA-Approval-of-Mpox-Vaccine-for-Adolescents.html) (GlobeNewswire)
+
+- [Vacina já existente pode oferecer proteção contra mpox](https://olhardigital.com.br/2024/09/19/medicina-e-saude/vacina-ja-existente-pode-oferecer-protecao-contra-mpox/) (Olhardigital.com.br)
+
+- [Monkeypox (MPOX) Diagnostics Global Markets 2024-2028: New Strains Threaten New Outbreaks - Crisis Spurs Innovation in PCR, NGS, and Rapid Testing Solutions](https://www.globenewswire.com/news-release/2024/09/19/2948777/28124/en/Monkeypox-MPOX-Diagnostics-Global-Markets-2024-2028-New-Strains-Threaten-New-Outbreaks-Crisis-Spurs-Innovation-in-PCR-NGS-and-Rapid-Testing-Solutions.html) (GlobeNewswire)
+
+- [World News in Brief: Yemen detainee appeal, Typhoon Yagi impacts, ease asylum seekers' plight, mpox cash boost](https://www.globalsecurity.org/military/library/news/2024/09/mil-240918-unnews05.htm) (Globalsecurity.org)
 
 - [Gold mining town in Congo becomes mpox hot spot as new strain spreads](https://www.business-standard.com/world-news/gold-mining-town-in-congo-becomes-mpox-hot-spot-as-new-strain-spreads-124091900296_1.html) (Business Standard)
 
@@ -249,6 +291,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (malaria)
 
+- [Understanding the significance of oxygen tension on the biology of Plasmodium falciparum blood stages: From the human body to the laboratory](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012514) (Plos.org)
+
+- [Conflict, climate threaten fight against diseases](https://www.hurriyetdailynews.com/conflict-climate-threaten-fight-against-diseases-200733) (Hurriyet Daily News)
+
 - [Las inversiones en la lucha contra el VIH, la tuberculosis y la malaria han salvado 65 millones de vidas desde 2002](https://www.infosalus.com/salud-investigacion/noticia-inversiones-lucha-contra-vih-tuberculosis-malaria-salvado-65-millones-vidas-2002-20240919084447.html) (Infosalus.com)
 
 - [Wereldwijd na schatting 65 miljoen minder doden door HIV, Malaria en TBC](https://nos.nl/l/2537702) (Nos.nl)
@@ -267,7 +313,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Aig-Imoukhuede’s firm becomes CAMA secretariat](https://punchng.com/aig-imoukhuedes-firm-becomes-cama-secretariat/) (The Punch)
 
+## 24-38 (leptospirosis)
+
+- [Clinical presentation of human leptospirosis in febrile patients: Urabá, Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012449) (Plos.org)
+
 ## 24-38 (h5n1)
+
+- [Wastewater Surveillance for Influenza A Virus and H5 Subtype Concurrent with the Highly Pathogenic Avian Influenza A(H5N1) Virus Outbreak in Cattle and Poultry and Associated Human Cases - United States, May 12-July 13, 2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7337a1.htm) (Cdc.gov)
+
+- [Why virologists are getting increasingly nervous about bird flu](https://www.technologyreview.com/2024/09/19/1104183/virologists-increasingly-nervous-bird-flu/) (MIT Technology Review)
 
 - [Bird flu virus that infected a person in Missouri had a rare mutation](https://www.newscientist.com/article/2448633-bird-flu-virus-that-infected-a-person-in-missouri-had-a-rare-mutation/) (New Scientist)
 
@@ -290,6 +344,20 @@ Source: [News API](https://newsapi.org/)
 - [On H5N1 bird flu, the U.S. can and should do more, a top WHO official says](https://www.statnews.com/2024/09/16/h5n1-spread-cow-herds-us-response-who-pandemic-preparedness/) (STAT)
 
 ## 24-38 (dengue)
+
+- [Los Angeles County reports dengue fever cluster acquired from local mosquitoes](https://www.foxnews.com/health/los-angeles-county-reports-dengue-fever-cluster-acquired-local-mosquitoes) (Fox News)
+
+- [Brasil antecipa campanha contra dengue após 6,5 mi de casos em 2024](https://www.terra.com.br/vida-e-estilo/saude/brasil-antecipa-campanha-contra-dengue-apos-65-mi-de-casos-em-2024,afdc169fe0c3e76da6ae555809ff45a578x0r224.html) (Terra.com.br)
+
+- [Vector competence of Aedes albopictus field populations from Reunion Island exposed to local epidemic dengue viruses](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310635) (Plos.org)
+
+- [L.A. Dengue Update: 'Unprecedented Cluster'](https://www.newsweek.com/los-angeles-california-mosquito-dengue-transmission-1956157) (Newsweek)
+
+- [Une nouvelle étape inquiétante franchie en France : des moustiques tigres porteurs de la dengue identifiés pour la première fois](https://www.futura-sciences.com/sante/actualites/moustique-nouvelle-etape-inquietante-franchie-france-moustiques-tigres-porteurs-dengue-identifies-premiere-fois-116131/) (Futura)
+
+- [Dengue, 450 casi da inizio anno e 25 autoctoni. Focolaio nelle Marche. Iss: “Nessuna criticità”](https://www.ilfattoquotidiano.it/2024/09/19/dengue-450-casi-da-inizio-anno-e-25-autoctoni-focolaio-nelle-marche-iss-nessuna-criticita/7699624/) (Ilfattoquotidiano.it)
+
+- [Com crise climática, campanha contra a dengue é antecipada](https://valor.globo.com/brasil/noticia/2024/09/19/com-crise-climatica-campanha-contra-a-dengue-e-antecipada.ghtml) (Globo)
 
 - [Dengue Crisis in Jammu: Spike in cases leaves health system struggling](https://statetimes.in/dengue-crisis-in-jammu-spike-in-cases-leaves-health-system-struggling/) (Statetimes.in)
 
@@ -4093,8 +4161,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Factors associated with the spatiotemporal distribution of dog rabies in Tunisia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012296) (Plos.org)
 
-- [Stephen King minns inte att han skrivit boken](https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken) (Svenska Dagbladet)
-
 ## 24-32 (pertussis)
 
 - [State issues public health alert over rising rates of whooping cough](https://www.alaskasnewssource.com/2024/08/08/state-issues-public-health-alert-over-rising-rates-whooping-cough/) (Alaskasnewssource.com)
@@ -4379,14 +4445,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO considers convening emergency committee on mpox](https://punchng.com/who-considers-convening-emergency-committee-on-mpox/) (The Punch)
 
-- [News24 | Gauteng man who returned from Peru one of two new positive Mpox cases](https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804) (News24)
-
-- [Tanzania steps up border surveillance as mpox cases reported in neighboring countries](https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries) (The Star Online)
-
-- [Mpox latest: Department of Health calls for vigilance as cases re-emerge](https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/) (The South African)
-
-- [Вирус оспы обезьян атаковал новую страну](https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml) (Gazeta.ru)
-
 ## 24-32 (meningitis)
 
 - [Burden and bacterial etiology of neonatal meningitis at Hawassa University Comprehensive Specialized Hospital, Hawassa, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308523) (Plos.org)
@@ -4468,8 +4526,6 @@ Source: [News API](https://newsapi.org/)
 - [Why Isn’t the Government Protecting Farm Workers From the Bird Flu?](https://newrepublic.com/article/184589/bird-flu-dairy-farm-workers-government-regulations) (The New Republic)
 
 - [Cocirculation of Genetically Distinct Highly Pathogenic Avian Influenza H5N5 and H5N1 Viruses in Crows, Hokkaido, Japan](https://wwwnc.cdc.gov/eid/article/30/9/24-0356_article) (Cdc.gov)
-
-- [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
 
@@ -4554,12 +4610,6 @@ Source: [News API](https://newsapi.org/)
 - [La preocupante lista de la OMS con los patógenos que podrían disparar la próxima pandemia](https://www.nationalgeographic.com.es/ciencia/amenaza-invisible-oms-actualiza-lista-patogenos-pandemicos_22960) (Nationalgeographic.com.es)
 
 - [Brasil se aproxima de 5 mil mortes por dengue em 2024](https://saude.ig.com.br/2024-08-04/brasil-se-aproxima-de-5-mil-mortes-por-dengue-em-2024.html) (Ig.com.br)
-
-- [Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms) (The Times of India)
-
-- [Batac: Ilocos Norte ups measures vs. dengue after 2 deaths](https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/) (Rpnradio.com)
-
-- [Alarmante alza de contagios de dengue: OPS](https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-32 (chikungunya)
 
