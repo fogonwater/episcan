@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 29
-- **Last harvest:** 2024-09-19 19:05
-- **Most recent article:** 2024-09-18 18:34:23
+- **New articles in last harvest:** 27
+- **Last harvest:** 2024-09-20 07:06
+- **Most recent article:** 2024-09-19 06:44:47
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 134 | 292 | 208 | 207 | 184 | 192 | 62 | 1279 |
-| dengue | 41 | 52 | 64 | 45 | 49 | 76 | 37 | 364 |
-| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 5 | 121 |
-| h5n1 | 5 | 8 | 5 | 10 | 31 | 10 | 9 | 78 |
-| zika | 11 | 10 | 21 | 2 | 6 | 10 | 5 | 65 |
-| chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 6 | 47 |
-| measles | 6 | 3 | 7 | 11 | 9 | 5 | 6 | 47 |
-| rabies | 7 | 12 | 6 | 3 | 7 | 5 | 5 | 45 |
+| mpox | 138 | 292 | 208 | 207 | 184 | 192 | 74 | 1295 |
+| dengue | 44 | 52 | 64 | 45 | 49 | 76 | 46 | 376 |
+| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 9 | 125 |
+| h5n1 | 6 | 8 | 5 | 10 | 31 | 10 | 10 | 80 |
+| zika | 11 | 10 | 21 | 2 | 6 | 10 | 7 | 67 |
+| chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 8 | 49 |
+| measles | 6 | 3 | 7 | 11 | 9 | 5 | 7 | 48 |
+| rabies | 8 | 12 | 6 | 3 | 7 | 5 | 5 | 46 |
 | meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 3 | 41 |
 | pertussis | 6 | 3 | 5 | 2 | 1 | 5 | 2 | 24 |
 | leptospirosis | 2 | 2 | 4 | 0 | 1 | 0 | 0 | 9 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-38 (zika)
+
+- [Ministério da Saúde distribui armadilhas para combater mosquito da dengue](https://veja.abril.com.br/coluna/radar/ministerio-da-saude-distribui-armadilhas-para-combater-mosquito-da-dengue) (Abril.com.br)
+
+- [Lula fala em “verão com menos dengue na história” e anuncia R$ 1,5 bi contra doença](https://www.infomoney.com.br/politica/lula-fala-em-verao-com-menos-dengue-na-historia-e-anuncia-r-15-bi-contra-doenca/) (InfoMoney)
 
 - [Salud fumigará contra el dengue en los tres municipios más grandes de Colima](https://www.milenio.com/estados/colima-comienza-fumigaciones-contra-el-dengue) (Milenio)
 
@@ -70,6 +74,30 @@ Source: [News API](https://newsapi.org/)
 - [College Football Game Canceled Over Whooping Cough Case and Exposure: Officials](https://www.theepochtimes.com/health/college-football-game-canceled-over-whooping-cough-case-and-exposure-officials-5724606) (Theepochtimes.com)
 
 ## 24-38 (mpox)
+
+- [Gold mining town in Congo becomes mpox hot spot as new strain spreads](https://www.business-standard.com/world-news/gold-mining-town-in-congo-becomes-mpox-hot-spot-as-new-strain-spreads-124091900296_1.html) (Business Standard)
+
+- [Mpox Cases: New strain that spreads from skin to skin contact becomes latest worry in fight against the virus](https://economictimes.indiatimes.com/news/international/world-news/mpox-cases-new-strain-that-spreads-from-skin-to-skin-contact-becomes-latest-worry-in-fight-against-the-virus/articleshow/113479438.cms) (The Times of India)
+
+- [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://abcnews.go.com/Health/wireStory/gold-mining-town-congo-become-mpox-hot-spot-113831814) (ABC News)
+
+- [Why is Congo struggling to contain mpox?](https://abcnews.go.com/Technology/wireStory/congo-struggling-mpox-113832273) (ABC News)
+
+- [Why is Congo struggling to contain mpox?](https://abcnews.go.com/Health/wireStory/congo-struggling-mpox-113832271) (ABC News)
+
+- [Why is Congo struggling to contain mpox?](https://abcnews.go.com/International/wireStory/congo-struggling-mpox-113832270) (ABC News)
+
+- [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://abcnews.go.com/Technology/wireStory/gold-mining-town-congo-become-mpox-hot-spot-113831816) (ABC News)
+
+- [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://abcnews.go.com/International/wireStory/gold-mining-town-congo-become-mpox-hot-spot-113831812) (ABC News)
+
+- [Gavi plans 500,000 Mpox vaccine doses for Africa](https://punchng.com/gavi-plans-500000-mpox-vaccine-doses-for-africa/) (The Punch)
+
+- [Q&A on the Second International Mpox Emergency](https://www.factcheck.org/2024/09/qa-on-the-second-international-mpox-emergency/) (FactCheck.org)
+
+- [Cidade de São Paulo registra 35 novos casos de mpox em uma semana](https://www.metropoles.com/sao-paulo/sao-paulo-novos-casos-mpox-uma-semana) (Metropoles.com)
+
+- [Veja os sintomas e as formas de prevenção contra a mpox](https://www.terra.com.br/vida-e-estilo/saude/veja-os-sintomas-e-as-formas-de-prevencao-contra-a-mpox,0535ef6d5d3751beb5da6dda95c3c73d9s7lnu1o.html) (Terra.com.br)
 
 - [Global vaccine alliance GAVI to buy 500,000 doses of mpox vaccine](https://abcnews.go.com/Health/wireStory/global-vaccine-alliance-gavi-buy-500000-doses-mpox-113815759) (ABC News)
 
@@ -205,6 +233,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (measles)
 
+- [C’River begins measles campaign Oct](https://punchng.com/criver-begins-measles-campaign-oct/) (The Punch)
+
 - ['Vaccines can save lives': Mother of child who died after catching measles urges uptake of jabs](https://news.sky.com/story/mother-of-girl-who-died-after-catching-measles-urges-people-to-get-their-children-vaccinated-13216929) (Sky.com)
 
 - [Children receiving 'life-saving' vaccines at lowest level for more than a decade](https://news.sky.com/story/children-receiving-life-saving-vaccines-at-lowest-level-for-more-than-a-decade-13216708) (Sky.com)
@@ -219,6 +249,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (malaria)
 
+- [Las inversiones en la lucha contra el VIH, la tuberculosis y la malaria han salvado 65 millones de vidas desde 2002](https://www.infosalus.com/salud-investigacion/noticia-inversiones-lucha-contra-vih-tuberculosis-malaria-salvado-65-millones-vidas-2002-20240919084447.html) (Infosalus.com)
+
+- [Wereldwijd na schatting 65 miljoen minder doden door HIV, Malaria en TBC](https://nos.nl/l/2537702) (Nos.nl)
+
+- [Tracking air quality the right way](https://www.bangkokpost.com/opinion/opinion/2868043/tracking-air-quality-the-right-way) (Bangkok Post)
+
+- [I asked Bill Gates why there are still so many hungry children](https://www.vox.com/future-perfect/372672/bill-gates-interview-child-hunger-global-health) (Vox)
+
 - [Plasmodium RON11 triggers biogenesis of the merozoite rhoptry pair and is essential for erythrocyte invasion](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002801) (Plos.org)
 
 - [Wiener Tropenmediziner leitet Forschungszentrum in Gabun [premium]](https://www.diepresse.com/18858878/wiener-tropenmediziner-leitet-forschungszentrum-in-gabun) (Diepresse.com)
@@ -230,6 +268,8 @@ Source: [News API](https://newsapi.org/)
 - [Aig-Imoukhuede’s firm becomes CAMA secretariat](https://punchng.com/aig-imoukhuedes-firm-becomes-cama-secretariat/) (The Punch)
 
 ## 24-38 (h5n1)
+
+- [Bird flu virus that infected a person in Missouri had a rare mutation](https://www.newscientist.com/article/2448633-bird-flu-virus-that-infected-a-person-in-missouri-had-a-rare-mutation/) (New Scientist)
 
 - ['Pirate Seabirds' Could Become a Pathway for Deadly Avian Flu to Spread to Australia, Study Finds](https://www.smithsonianmag.com/smart-news/pirate-seabirds-could-become-a-pathway-for-deadly-avian-flu-to-spread-to-australia-study-finds-180985092/) (Smithsonian.com)
 
@@ -250,6 +290,24 @@ Source: [News API](https://newsapi.org/)
 - [On H5N1 bird flu, the U.S. can and should do more, a top WHO official says](https://www.statnews.com/2024/09/16/h5n1-spread-cow-herds-us-response-who-pandemic-preparedness/) (STAT)
 
 ## 24-38 (dengue)
+
+- [Dengue Crisis in Jammu: Spike in cases leaves health system struggling](https://statetimes.in/dengue-crisis-in-jammu-spike-in-cases-leaves-health-system-struggling/) (Statetimes.in)
+
+- [Ministério da Saúde distribui armadilhas para combater mosquito da dengue](https://veja.abril.com.br/coluna/radar/ministerio-da-saude-distribui-armadilhas-para-combater-mosquito-da-dengue) (Abril.com.br)
+
+- [Los Angeles area sees more dengue fever in people bitten by local mosquitoes](https://www.seattlepi.com/news/article/los-angeles-area-sees-more-dengue-fever-in-people-19774748.php) (seattlepi.com)
+
+- [Los Angeles area sees more dengue fever in people bitten by local mosquitoes](https://abcnews.go.com/Health/wireStory/los-angeles-area-sees-dengue-fever-people-bitten-113824687) (ABC News)
+
+- [Los Angeles area sees more dengue fever in people bitten by local mosquitoes](https://abcnews.go.com/US/wireStory/los-angeles-area-sees-dengue-fever-people-bitten-113824686) (ABC News)
+
+- [Los Angeles area sees more dengue fever in people bitten by local mosquitoes](https://www.bostonherald.com/2024/09/18/los-angeles-area-sees-more-dengue-fever-in-people-bitten-by-local-mosquitoes/) (Boston Herald)
+
+- [Los Angeles County reports a rare handful of local dengue cases](https://abcnews.go.com/Health/los-angeles-county-reports-rare-handful-local-dengue/story?id=113819690) (ABC News)
+
+- [Cuáles son los síntomas del dengue](https://www.lanacion.com.ar/sociedad/cuales-son-los-sintomas-del-dengue-nid18092024/) (La Nacion)
+
+- [Lula fala em “verão com menos dengue na história” e anuncia R$ 1,5 bi contra doença](https://www.infomoney.com.br/politica/lula-fala-em-verao-com-menos-dengue-na-historia-e-anuncia-r-15-bi-contra-doenca/) (InfoMoney)
 
 - [Brasil anticipa la campaña contra el dengue tras récord de casos y muertes en 2024](https://www.montevideo.com.uy/Salud/Brasil-anticipa-la-campana-contra-el-dengue-tras-record-de-casos-y-muertes-en-2024-uc900607) (Montevideo.com.uy)
 
@@ -326,6 +384,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue infection hits 9,500 nationwide, claims 6 lives](https://english.khabarhub.com/2024/15/397656/) (Khabarhub.com)
 
 ## 24-38 (chikungunya)
+
+- [Ministério da Saúde distribui armadilhas para combater mosquito da dengue](https://veja.abril.com.br/coluna/radar/ministerio-da-saude-distribui-armadilhas-para-combater-mosquito-da-dengue) (Abril.com.br)
+
+- [Lula fala em “verão com menos dengue na história” e anuncia R$ 1,5 bi contra doença](https://www.infomoney.com.br/politica/lula-fala-em-verao-com-menos-dengue-na-historia-e-anuncia-r-15-bi-contra-doenca/) (InfoMoney)
 
 - [Chikungunya: ICU admissions up amidst rising cases in kids](https://timesofindia.indiatimes.com/city/mumbai/chikungunya-icu-admissions-up-amidst-rising-cases-in-kids/articleshow/113468239.cms) (The Times of India)
 
@@ -4031,6 +4093,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Factors associated with the spatiotemporal distribution of dog rabies in Tunisia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012296) (Plos.org)
 
+- [Stephen King minns inte att han skrivit boken](https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken) (Svenska Dagbladet)
+
 ## 24-32 (pertussis)
 
 - [State issues public health alert over rising rates of whooping cough](https://www.alaskasnewssource.com/2024/08/08/state-issues-public-health-alert-over-rising-rates-whooping-cough/) (Alaskasnewssource.com)
@@ -4315,6 +4379,14 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO considers convening emergency committee on mpox](https://punchng.com/who-considers-convening-emergency-committee-on-mpox/) (The Punch)
 
+- [News24 | Gauteng man who returned from Peru one of two new positive Mpox cases](https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804) (News24)
+
+- [Tanzania steps up border surveillance as mpox cases reported in neighboring countries](https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries) (The Star Online)
+
+- [Mpox latest: Department of Health calls for vigilance as cases re-emerge](https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/) (The South African)
+
+- [Вирус оспы обезьян атаковал новую страну](https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml) (Gazeta.ru)
+
 ## 24-32 (meningitis)
 
 - [Burden and bacterial etiology of neonatal meningitis at Hawassa University Comprehensive Specialized Hospital, Hawassa, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308523) (Plos.org)
@@ -4396,6 +4468,8 @@ Source: [News API](https://newsapi.org/)
 - [Why Isn’t the Government Protecting Farm Workers From the Bird Flu?](https://newrepublic.com/article/184589/bird-flu-dairy-farm-workers-government-regulations) (The New Republic)
 
 - [Cocirculation of Genetically Distinct Highly Pathogenic Avian Influenza H5N5 and H5N1 Viruses in Crows, Hokkaido, Japan](https://wwwnc.cdc.gov/eid/article/30/9/24-0356_article) (Cdc.gov)
+
+- [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
 
@@ -4480,6 +4554,12 @@ Source: [News API](https://newsapi.org/)
 - [La preocupante lista de la OMS con los patógenos que podrían disparar la próxima pandemia](https://www.nationalgeographic.com.es/ciencia/amenaza-invisible-oms-actualiza-lista-patogenos-pandemicos_22960) (Nationalgeographic.com.es)
 
 - [Brasil se aproxima de 5 mil mortes por dengue em 2024](https://saude.ig.com.br/2024-08-04/brasil-se-aproxima-de-5-mil-mortes-por-dengue-em-2024.html) (Ig.com.br)
+
+- [Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms) (The Times of India)
+
+- [Batac: Ilocos Norte ups measures vs. dengue after 2 deaths](https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/) (Rpnradio.com)
+
+- [Alarmante alza de contagios de dengue: OPS](https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-32 (chikungunya)
 

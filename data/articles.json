@@ -1,8 +1,498 @@
 {
-  "last_updated": "2024-09-19 19:05",
-  "count_articles_total": 2047,
-  "count_articles_new": 29,
+  "last_updated": "2024-09-20 07:06",
+  "count_articles_total": 2083,
+  "count_articles_new": 27,
   "articles": [
+    {
+      "id": 13705,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Las inversiones en la lucha contra el VIH, la tuberculosis y la malaria han salvado 65 millones de vidas desde 2002",
+      "description": "Las inversiones en la lucha contra el VIH, la tuberculosis y la malaria han contribuido a salvar un total de 65 millones de vidas y a reducir la tasa de mortalidad combinada de las tres enfermedades en un 61 por ciento desde 2002, seg\u00fan un nuevo informe del F\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-inversiones-lucha-contra-vih-tuberculosis-malaria-salvado-65-millones-vidas-2002-20240919084447.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240919084447_1200.jpg",
+      "publishedAt": "2024-09-19 06:44:47",
+      "content": "MADRID, 19 Sep. (EUROPA PRESS) - Las inversiones en la lucha contra el VIH, la tuberculosis y la malaria han contribuido a salvar un total de 65 millones de vidas y a reducir la tasa de mortalidad\u2026 [+6384 chars]",
+      "retrievedAt": "2024-09-20 07:06:42.007015",
+      "internal_id": "198cd3aa1fb699941ed8befd4b828d5bfb5b6639d55c98ecde88ba106c82220a",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13716,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "AP",
+      "title": "Gold mining town in Congo becomes mpox hot spot as new strain spreads",
+      "description": "Slumped on the ground over a mound of dirt, Divine Wisoba pulled weeds from her daughter's grave. The 1-month-old died from mpox in eastern Congo in August, but Wisoba, 21, was too traumatised to attend the funeral. In her first visit to the cemetery, she wep\u2026",
+      "url": "https://www.business-standard.com/world-news/gold-mining-town-in-congo-becomes-mpox-hot-spot-as-new-strain-spreads-124091900296_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/23/thumb/featurecrop/400X400/1724394719-3511.jpg",
+      "publishedAt": "2024-09-19 06:04:12",
+      "content": "Slumped on the ground over a mound of dirt, Divine Wisoba pulled weeds from her daughter's grave. The 1-month-old died from mpox in eastern Congo in August, but Wisoba, 21, was too traumatised to att\u2026 [+7406 chars]",
+      "retrievedAt": "2024-09-20 07:06:44.990341",
+      "internal_id": "b71004edb3ca01279b94e9e42e6598fa30bdd17cbe18ad0dfbfdbe46685694db",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13714,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Mpox Cases: New strain that spreads from skin to skin contact becomes latest worry in fight against the virus",
+      "description": "Congo is experiencing a severe mpox outbreak, with over 21,000 confirmed cases this year. A newly identified strain, which may be more infectious, has emerged amidst ongoing conflict and humanitarian challenges. The World Health Organization has declared the \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/mpox-cases-new-strain-that-spreads-from-skin-to-skin-contact-becomes-latest-worry-in-fight-against-the-virus/articleshow/113479438.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113479595,width-1200,height-630,imgsize-89888,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-19 05:49:23",
+      "content": "Congo is currently facing a significant mpox outbreak, with the World Health Organization (WHO) reporting more than 21,000 confirmed and suspected cases this year, out of a total of 25,093 across Afr\u2026 [+3869 chars]",
+      "retrievedAt": "2024-09-20 07:06:44.950104",
+      "internal_id": "8a14159e7379a92028960ce5ef03d10bf9152974cc623a0f8464490ca9cb8560",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13712,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "SAM MEDNICK Associated Press",
+      "title": "A gold mining town in Congo has become an mpox hot spot as a new strain spreads",
+      "description": "Congo's South Kivu province is at the epicenter of the world\u2019s latest mpox outbreak, in what the World Health Organization has called a global health emergency",
+      "url": "https://abcnews.go.com/Health/wireStory/gold-mining-town-congo-become-mpox-hot-spot-113831814",
+      "urlToImage": "https://i.abcnewsfe.com/a/860e8355-9683-405f-9ab7-fd118a2eb7c8/wirestory_f9affb7a7d73c8c30daf296c51c920c7_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-19 04:38:31",
+      "content": "KAMITUGA, Congo -- Slumped on the ground over a mound of dirt, Divine Wisoba pulled weeds from her daughters grave. The 1-month-old died from mpox in eastern Congo in August, but Wisoba, 21, was too \u2026 [+7448 chars]",
+      "retrievedAt": "2024-09-20 07:06:44.904485",
+      "internal_id": "ef7183bda2fbd9c8612f0b2c1cfcb9d5beb7837c299fe39f3e4aab4027f94c0e",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13706,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "RUTH ALONGA Associated Press, CHINEDU ASADU Associated Press, GERALD IMRAY Associated Press",
+      "title": "Why is Congo struggling to contain mpox?",
+      "description": "Health authorities have struggled to contain outbreaks of mpox in Congo, a huge central African country where a myriad of existing problems makes stemming the spread particularly hard",
+      "url": "https://abcnews.go.com/Technology/wireStory/congo-struggling-mpox-113832273",
+      "urlToImage": "https://i.abcnewsfe.com/a/0e1cc9bd-ae4e-4961-84d6-b5179c41a5c3/wirestory_bd1386676b0b707af79d7aca763c7c06_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-19 04:30:31",
+      "content": "KAVUMU, Congo -- Health authorities have struggled to contain outbreaks of mpox in Congo, a huge central African country where a myriad of existing problems makes stemming the spread particularly har\u2026 [+5135 chars]",
+      "retrievedAt": "2024-09-20 07:06:44.808543",
+      "internal_id": "b33100f474acddf0f3fbb220f95123abc3f51ce0ed416c553de85853ea48b11d",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13711,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "RUTH ALONGA Associated Press, CHINEDU ASADU Associated Press, GERALD IMRAY Associated Press",
+      "title": "Why is Congo struggling to contain mpox?",
+      "description": "Health authorities have struggled to contain outbreaks of mpox in Congo, a huge central African country where a myriad of existing problems makes stemming the spread particularly hard",
+      "url": "https://abcnews.go.com/Health/wireStory/congo-struggling-mpox-113832271",
+      "urlToImage": "https://i.abcnewsfe.com/a/0e1cc9bd-ae4e-4961-84d6-b5179c41a5c3/wirestory_bd1386676b0b707af79d7aca763c7c06_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-19 04:30:30",
+      "content": "KAVUMU, Congo -- Health authorities have struggled to contain outbreaks of mpox in Congo, a huge central African country where a myriad of existing problems makes stemming the spread particularly har\u2026 [+5135 chars]",
+      "retrievedAt": "2024-09-20 07:06:44.882152",
+      "internal_id": "fe6236e63a7c684c3704055e9ced4877c37a0613d3dc6557c3c3b91d6c5a0ab4",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13709,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "RUTH ALONGA Associated Press, CHINEDU ASADU Associated Press, GERALD IMRAY Associated Press",
+      "title": "Why is Congo struggling to contain mpox?",
+      "description": "Health authorities have struggled to contain outbreaks of mpox in Congo, a huge central African country where a myriad of existing problems makes stemming the spread particularly hard",
+      "url": "https://abcnews.go.com/International/wireStory/congo-struggling-mpox-113832270",
+      "urlToImage": "https://i.abcnewsfe.com/a/0e1cc9bd-ae4e-4961-84d6-b5179c41a5c3/wirestory_bd1386676b0b707af79d7aca763c7c06_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-19 04:30:29",
+      "content": "KAVUMU, Congo -- Health authorities have struggled to contain outbreaks of mpox in Congo, a huge central African country where a myriad of existing problems makes stemming the spread particularly har\u2026 [+5135 chars]",
+      "retrievedAt": "2024-09-20 07:06:44.837928",
+      "internal_id": "3b55c0ee61bb74229472ecc2c0a969cc2e2051a37a5d34b4c548f1e17b7583b0",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13708,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "SAM MEDNICK Associated Press",
+      "title": "A gold mining town in Congo has become an mpox hot spot as a new strain spreads",
+      "description": "Congo's South Kivu province is at the epicenter of the world\u2019s latest mpox outbreak, in what the World Health Organization has called a global health emergency",
+      "url": "https://abcnews.go.com/Technology/wireStory/gold-mining-town-congo-become-mpox-hot-spot-113831816",
+      "urlToImage": "https://i.abcnewsfe.com/a/860e8355-9683-405f-9ab7-fd118a2eb7c8/wirestory_f9affb7a7d73c8c30daf296c51c920c7_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-19 04:30:21",
+      "content": "KAMITUGA, Congo -- Slumped on the ground over a mound of dirt, Divine Wisoba pulled weeds from her daughters grave. The 1-month-old died from mpox in eastern Congo in August, but Wisoba, 21, was too \u2026 [+7448 chars]",
+      "retrievedAt": "2024-09-20 07:06:44.826218",
+      "internal_id": "4e4326f1287929e174857ced17a4604279dc884b501a99b790a24b5178e1bb06",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13710,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "SAM MEDNICK Associated Press",
+      "title": "A gold mining town in Congo has become an mpox hot spot as a new strain spreads",
+      "description": "Congo's South Kivu province is at the epicenter of the world\u2019s latest mpox outbreak, in what the World Health Organization has called a global health emergency",
+      "url": "https://abcnews.go.com/International/wireStory/gold-mining-town-congo-become-mpox-hot-spot-113831812",
+      "urlToImage": "https://i.abcnewsfe.com/a/860e8355-9683-405f-9ab7-fd118a2eb7c8/wirestory_f9affb7a7d73c8c30daf296c51c920c7_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-19 04:22:18",
+      "content": "KAMITUGA, Congo -- Slumped on the ground over a mound of dirt, Divine Wisoba pulled weeds from her daughters grave. The 1-month-old died from mpox in eastern Congo in August, but Wisoba, 21, was too \u2026 [+7448 chars]",
+      "retrievedAt": "2024-09-20 07:06:44.848563",
+      "internal_id": "cd9e48695ea129e6c288b93f5e5ab21d56efc0b038a693cd9a76e6e9bc8f1acf",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13701,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Statetimes.in",
+      "author": "statetimes_editor",
+      "title": "Dengue Crisis in Jammu: Spike in cases leaves health system struggling",
+      "description": "Humaira Raina Dengue cases across India have surged in 2024, with over 150,000 cases reported nationwide by September. States like Kerala, Tamil Nadu, Maharashtra, Delhi and J&K have witnessed alarming spikes, putting immense pressure on healthcare systems.Th\u2026",
+      "url": "https://statetimes.in/dengue-crisis-in-jammu-spike-in-cases-leaves-health-system-struggling/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2023/03/319526318_5727891263973556_9016205861254904172_n-1024x1024.jpg",
+      "publishedAt": "2024-09-19 01:23:58",
+      "content": "Humaira Raina Dengue cases across India have surged in 2024, with over 150,000 cases reported nationwide by September. States like Kerala, Tamil Nadu, Maharashtra, Delhi and J&amp;K have witnessed a\u2026 [+6795 chars]",
+      "retrievedAt": "2024-09-20 07:06:40.454786",
+      "internal_id": "f7cc3df1a1a8606100e97c11e1ff23961f81efb2e3b2d76658335e5378a6092c",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13707,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Gavi plans 500,000 Mpox vaccine doses for Africa",
+      "description": "The Vaccine Alliance, Gavi, and Bavarian Nordic announced an Advance Purchase Agreement on Wednesday to secure 500,000 doses of the Modified Vaccinia Ankara-Bavarian Nordic mpox vaccine for countries in Africa affected by the monkeypox outbreak. According to \u2026",
+      "url": "https://punchng.com/gavi-plans-500000-mpox-vaccine-doses-for-africa/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2024-09-19 00:41:28",
+      "content": "The Vaccine Alliance, Gavi, and Bavarian Nordic announced an Advance Purchase Agreement on Wednesday to secure 500,000 doses of the Modified Vaccinia Ankara-Bavarian Nordic mpox vaccine for countries\u2026 [+4250 chars]",
+      "retrievedAt": "2024-09-20 07:06:44.815751",
+      "internal_id": "68c754718b557fbabadc7a8be4b349e45e187cb033c6c76638e55865ea3ea944",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13691,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Emem Julius",
+      "title": "C\u2019River begins measles campaign Oct",
+      "description": "Cross River State has fixed October 5 to 13 as the date for the implementation of the Integrated Measles Vaccination campaign. This was disclosed in a notification signed by the Director-General of the Cross River State Primary Health Care Development Agency,\u2026",
+      "url": "https://punchng.com/criver-begins-measles-campaign-oct/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/07/31203556/OTU.jpg",
+      "publishedAt": "2024-09-18 23:39:39",
+      "content": "Cross River State has fixed October 5 to 13 as the date for the implementation of the Integrated Measles Vaccination campaign. This was disclosed in a notification signed by the Director-General of \u2026 [+1302 chars]",
+      "retrievedAt": "2024-09-20 07:06:38.921110",
+      "internal_id": "b1302eb5e1fe5d0fb611402f00722218c7d28ae53d99650aa5f10e36c2e0feda",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13703,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nos.nl",
+      "author": null,
+      "title": "Wereldwijd na schatting 65 miljoen minder doden door HIV, Malaria en TBC",
+      "description": "Tussen 2002 en 2023 zijn er wereldwijd ongeveer 61 procent minder mensen gestorven aan de ziektes malaria, tuberculose en hiv. Dat staat in een rapport van de Zwitserse organisatie Global Fund. Die organisatie financiert met donaties van landen als Frankrijk,\u2026",
+      "url": "https://nos.nl/l/2537702",
+      "urlToImage": "https://cdn.nos.nl/image/2024/09/19/1137594/1024x576a.jpg",
+      "publishedAt": "2024-09-18 22:03:03",
+      "content": "Tussen 2002 en 2023 zijn er wereldwijd ongeveer 61 procent minder mensen gestorven aan de ziektes malaria, tuberculose en hiv. Dat staat in een rapport van de Zwitserse organisatie Global Fund. Die o\u2026 [+2220 chars]",
+      "retrievedAt": "2024-09-20 07:06:41.994320",
+      "internal_id": "2fe5a792f77893a3d43c731046ff93c9d99578fbf272aef03ebaf5cb03e02173",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13695,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Nicholas Shores",
+      "title": "Minist\u00e9rio da Sa\u00fade distribui armadilhas para combater mosquito da dengue",
+      "description": "Escolha de munic\u00edpios que v\u00e3o receber esta\u00e7\u00f5es com larvicidas leva em conta densidade populacional e notifica\u00e7\u00f5es por dengue, chikungunya e Zika",
+      "url": "https://veja.abril.com.br/coluna/radar/ministerio-da-saude-distribui-armadilhas-para-combater-mosquito-da-dengue",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2017/05/inseto-mosquito-aedes-aegypti.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2024-09-18 21:30:09",
+      "content": "Promo\u00e7\u00e3o do Ano: VEJA por apenas 4,00/m\u00eas Continua ap\u00f3s publicidade O mosquito \"Aedes aegypti\", principal portador do v\u00edrus da zika e dengue (John Eisele/Colorado State University Photography/Divul\u2026 [+1227 chars]",
+      "retrievedAt": "2024-09-20 07:06:40.293676",
+      "internal_id": "a44130ee24805b1312a76eded58171eaeb380489cddfd07ebe5f91422acd0dc0",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13717,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "FactCheck.org",
+      "author": "Kate Yandell",
+      "title": "Q&A on the Second International Mpox Emergency",
+      "description": "Case numbers for the global mpox outbreak have decreased since 2022, but the situation in Africa has noticeably worsened. On Aug. 14, the World Health Organization once again declared an mpox public health emergency of international concern. Here, we answer q\u2026",
+      "url": "https://www.factcheck.org/2024/09/qa-on-the-second-international-mpox-emergency/",
+      "urlToImage": "https://cdn.factcheck.org/UploadedFiles/mpox-DRC0720x307.jpg",
+      "publishedAt": "2024-09-18 21:08:51",
+      "content": "Este art\u00edculo estar\u00e1 disponible en espa\u00f1ol en El Tiempo Latino. In 2022, mpox a disease caused by the monkeypox virus, which is found in small mammals and has been known to infect people in parts of\u2026 [+16421 chars]",
+      "retrievedAt": "2024-09-20 07:06:45.033389",
+      "internal_id": "b87053fc6719fc878e966c10780abf3524baa509f19b89ce70399ddea2fa3b07",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13700,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By JAIMIE DING, Associated Press",
+      "title": "Los Angeles area sees more dengue fever in people bitten by local mosquitoes",
+      "description": "The Los Angeles area is seeing more cases of people with dengue fever without traveling outside the United States, a year after the first such case was reported in California. That's according to public health officials Wednesday, who say at least three peopl\u2026",
+      "url": "https://www.seattlepi.com/news/article/los-angeles-area-sees-more-dengue-fever-in-people-19774748.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/43/13/65/26000707/3/rawImage.jpg",
+      "publishedAt": "2024-09-18 21:07:33",
+      "content": "LOS ANGELES (AP) Health officials warned Wednesday that the Los Angeles area is seeing more dengue fever cases in people who have not traveled outside the U.S. mainland, a year after the first such c\u2026 [+2579 chars]",
+      "retrievedAt": "2024-09-20 07:06:40.428764",
+      "internal_id": "e1c4e21c888a6092fec11790a3616c71d004e6d3670352242cac3c782cb5ee9f",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13697,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JAIMIE DING Associated Press",
+      "title": "Los Angeles area sees more dengue fever in people bitten by local mosquitoes",
+      "description": "The Los Angeles area is seeing more cases of people with dengue fever without traveling outside the United States, a year after the first such case was reported in California",
+      "url": "https://abcnews.go.com/Health/wireStory/los-angeles-area-sees-dengue-fever-people-bitten-113824687",
+      "urlToImage": "https://i.abcnewsfe.com/a/ab4bbc12-0194-40f7-b07a-31b158e7a1ae/wirestory_4553898504ec358509a65f9f6b1b585a_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-18 21:02:22",
+      "content": "LOS ANGELES -- Health officials warned Wednesday that the Los Angeles area is seeing more dengue fever cases in people who have not traveled outside the U.S. mainland, a year after the first such cas\u2026 [+2433 chars]",
+      "retrievedAt": "2024-09-20 07:06:40.310941",
+      "internal_id": "a35fa1b1879ccde95235bbd1558c9a1b178e0b98d2c0ab217abe5a1f119d3ff5",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13698,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JAIMIE DING Associated Press",
+      "title": "Los Angeles area sees more dengue fever in people bitten by local mosquitoes",
+      "description": "The Los Angeles area is seeing more cases of people with dengue fever without traveling outside the United States, a year after the first such case was reported in California",
+      "url": "https://abcnews.go.com/US/wireStory/los-angeles-area-sees-dengue-fever-people-bitten-113824686",
+      "urlToImage": "https://i.abcnewsfe.com/a/ab4bbc12-0194-40f7-b07a-31b158e7a1ae/wirestory_4553898504ec358509a65f9f6b1b585a_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-18 21:02:21",
+      "content": "LOS ANGELES -- Health officials warned Wednesday that the Los Angeles area is seeing more dengue fever cases in people who have not traveled outside the U.S. mainland, a year after the first such cas\u2026 [+2433 chars]",
+      "retrievedAt": "2024-09-20 07:06:40.316616",
+      "internal_id": "7714dec44a130930dc3fdb98adbd34b912df359c52d65414b996bf2a6721f5c0",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13692,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Grace Wade",
+      "title": "Bird flu virus that infected a person in Missouri had a rare mutation",
+      "description": "Genetic analysis of a bird flu virus detected in a person in Missouri who didn\u2019t previously have contact with animals offers more details on the case, but experts say there isn\u2019t substantial evidence to suggest human-to-human transmission is happening",
+      "url": "https://www.newscientist.com/article/2448633-bird-flu-virus-that-infected-a-person-in-missouri-had-a-rare-mutation/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/09/18184330/SEI_222202427.jpg",
+      "publishedAt": "2024-09-18 21:01:35",
+      "content": "A transmission electron micrograph of an H5N1 virus Phanie \u2013 Sipa Press / Alamy Stock Photo A bird flu virus that infected a person in Missouri who didnt have any known animal exposures had two mut\u2026 [+285 chars]",
+      "retrievedAt": "2024-09-20 07:06:39.566300",
+      "internal_id": "11b1d39d8de54f4d4aee224ae3dc4c365c58bcb99f46a482026050e6dc38c107",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13704,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Soumya Swaminathan & Christa Hasenkopf",
+      "title": "Tracking air quality the right way",
+      "description": "Every year, the World Health Organization (WHO) summarises global progress on malaria control. It details the number of cases in affected countries, shows year-on-year changes, outlines goals, and assesses the current funding landscape. The United Nations \u2026",
+      "url": "https://www.bangkokpost.com/opinion/opinion/2868043/tracking-air-quality-the-right-way",
+      "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2024/09/19/5276098_700.jpg",
+      "publishedAt": "2024-09-18 21:00:00",
+      "content": "Every year, the World Health Organization (WHO) summarises global progress on malaria control. It details the number of cases in affected countries, shows year-on-year changes, outlines goals, and as\u2026 [+4781 chars]",
+      "retrievedAt": "2024-09-20 07:06:42.000741",
+      "internal_id": "d323cbd65b9cd157b6c408511f31abb0759850e740ab51eaa1ff49ba18bf8212",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13694,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Los Angeles area sees more dengue fever in people bitten by local mosquitoes",
+      "description": "By JAIMIE DING LOS ANGELES (AP) \u2014 Health officials warned Wednesday that the Los Angeles area is seeing more dengue fever cases in people who have not traveled outside the U.S. mainland, a year after the first such case was reported in California. Public heal\u2026",
+      "url": "https://www.bostonherald.com/2024/09/18/los-angeles-area-sees-more-dengue-fever-in-people-bitten-by-local-mosquitoes/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/09/Los_Angeles_Dengue_Cases_05862.jpg?w=1024&h=683",
+      "publishedAt": "2024-09-18 20:50:17",
+      "content": "By JAIMIE DING LOS ANGELES (AP) \u2014 Health officials warned Wednesday that the Los Angeles area is seeing more dengue fever cases in people who have not traveled outside the U.S. mainland, a year afte\u2026 [+2511 chars]",
+      "retrievedAt": "2024-09-20 07:06:40.287431",
+      "internal_id": "3713667ecf6e0d07a2b4fdf01057b4d3d65e6192c4f3bb2b098cccd3ca507821",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13713,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruna Sales",
+      "title": "Cidade de S\u00e3o Paulo registra 35 novos casos de mpox em uma semana",
+      "description": "S\u00e3o Paulo chegou a 366 casos confirmados de mpox, segundo a Secretaria da Sa\u00fade. Balan\u00e7o considera o per\u00edodo at\u00e9 o dia 12 de setembro",
+      "url": "https://www.metropoles.com/sao-paulo/sao-paulo-novos-casos-mpox-uma-semana",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/09/17132738/mpox-maos.jpg",
+      "publishedAt": "2024-09-18 20:40:30",
+      "content": "S\u00e3o Paulo A cidade de S\u00e3o Paulo registrou 366 casos confirmados de mpox de janeiro a 12 de setembro de 2024, de acordo com o \u00faltimo boletim epidemiol\u00f3gico da Secretaria Municipal da Sa\u00fade, divulgado \u2026 [+6994 chars]",
+      "retrievedAt": "2024-09-20 07:06:44.930078",
+      "internal_id": "4ab324e0df351daacac39a3c80af6dd8f9cbd534548fa0094393b03b911f28ca",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13693,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Youri Benadjaoud",
+      "title": "Los Angeles County reports a rare handful of local dengue cases",
+      "description": "The cases have doubled this year compared to last year, according to the CDC.",
+      "url": "https://abcnews.go.com/Health/los-angeles-county-reports-rare-handful-local-dengue/story?id=113819690",
+      "urlToImage": "https://i.abcnewsfe.com/a/b5388635-820f-4732-8691-9ba4644de40b/mosquito-biting-gty-jt-240830_1725035000909_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-18 20:23:23",
+      "content": "While Los Angeles County is reporting three locally acquired cases of dengue this year -- which is rare for the region -- there have been at least 3,085 cases nationally of locally acquired virus so \u2026 [+1726 chars]",
+      "retrievedAt": "2024-09-20 07:06:40.262458",
+      "internal_id": "ce81428b5678e0ac36becba4ac88b9b3f1f59781178e9fb9739ba4a9350a846a",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13702,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Dylan Scott",
+      "title": "I asked Bill Gates why there are still so many hungry children",
+      "description": "Bill Gates helped launch a global health revolution at the turn of the 21st century, one in which multilateral humanitarian efforts arrested the AIDS crisis in Africa and began to make strides against longtime killers like tuberculosis and malaria. People in \u2026",
+      "url": "https://www.vox.com/future-perfect/372672/bill-gates-interview-child-hunger-global-health",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/09/gettyimages-2158773392.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+      "publishedAt": "2024-09-18 20:05:20",
+      "content": "Bill Gates helped launch a global health revolution at the turn of the 21st century, one in which multilateral humanitarian efforts arrested the AIDS crisis in Africa and began to make strides agains\u2026 [+15295 chars]",
+      "retrievedAt": "2024-09-20 07:06:41.972865",
+      "internal_id": "9fea981829b6365dd54e6602e2ac90d46f42539873d5da52bbc6230d6cee2bb9",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13715,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Portal EdiCase",
+      "title": "Veja os sintomas e as formas de preven\u00e7\u00e3o contra a mpox",
+      "description": "O Brasil registrou, de janeiro at\u00e9 a primeira semana de setembro de 2024, 1.015 casos ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/veja-os-sintomas-e-as-formas-de-prevencao-contra-a-mpox,0535ef6d5d3751beb5da6dda95c3c73d9s7lnu1o.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/09/18/116886688-mpox.jpg",
+      "publishedAt": "2024-09-18 20:01:35",
+      "content": "O Brasil registrou, de janeiro at\u00e9 a primeira semana de setembro de 2024, 1.015 casos confirmados ou prov\u00e1veis de mpox (anteriormente conhecida como var\u00edola dos macacos), segundo o mais recente infor\u2026 [+3935 chars]",
+      "retrievedAt": "2024-09-20 07:06:44.974876",
+      "internal_id": "e357b2274dc864e21ff8286eed138ed3ada26f7f815dffd9fb99fc5a6d11c2fa",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13699,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "Cu\u00e1les son los s\u00edntomas del dengue",
+      "description": "El aedes aegypti es el v\u00e9ctor transmisor de esta enfermedad que crece en la Argentina",
+      "url": "https://www.lanacion.com.ar/sociedad/cuales-son-los-sintomas-del-dengue-nid18092024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/carteles-sobre-el-dengue-en-la-guardia-de-un-M4Y67HS62JE65KK6QWMFQ2LD2Y.JPG?auth=57ca2805c85ced70f4afdb69af7bb094ceb1849c221cd099ae303f7a7db5d1bc&width=768&quality=70&smart=false",
+      "publishedAt": "2024-09-18 19:52:34",
+      "content": "A diferencia del Covid-19, que por las altas tasas de vacunaci\u00f3n y de inmunidad natural de la poblaci\u00f3n genera s\u00edntomas similares a la gripe, el dengue suele provocar un malestar profundo. El infect\u2026 [+1462 chars]",
+      "retrievedAt": "2024-09-20 07:06:40.326791",
+      "internal_id": "8c66ccfabc81f5ea51d7faf30812d8230366cad9b09dd280769a1cf702ceea96",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13696,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "F\u00e1bio Matos",
+      "title": "Lula fala em \u201cver\u00e3o com menos dengue na hist\u00f3ria\u201d e anuncia R$ 1,5 bi contra doen\u00e7a",
+      "description": "De acordo com a ministra da Sa\u00fade, N\u00edsia Trindade, os recursos ser\u00e3o destinados a a\u00e7\u00f5es que envolvem vacinas e portarias emergenciais com planos de a\u00e7\u00e3o, testes r\u00e1pidos, m\u00e9todos de tecnologia e pesquisa The post Lula fala em \u201cver\u00e3o com menos dengue na hist\u00f3ri\u2026",
+      "url": "https://www.infomoney.com.br/politica/lula-fala-em-verao-com-menos-dengue-na-historia-e-anuncia-r-15-bi-contra-doenca/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/09/lula-saude.jpg?quality=70",
+      "publishedAt": "2024-09-18 19:36:42",
+      "content": "O presidente Luiz In\u00e1cio Lula da Silva (PT) lan\u00e7ou, nesta quarta-feira (18), o plano de a\u00e7\u00e3o contra a dengue e outras arboviroses, como chikungunya, zika e oropouche, para o pr\u00f3ximo per\u00edodo de chuvas\u2026 [+6555 chars]",
+      "retrievedAt": "2024-09-20 07:06:40.304190",
+      "internal_id": "113e1d6b9427a53a87916c6a5d254b4b7b5b7ca990721af19acde031e533e819",
+      "publishedAtLabel": "Sep 18"
+    },
     {
       "id": 13674,
       "query": [
@@ -36940,6 +37430,168 @@
       "content": "Ground Picture/Shutterstock So far in 2024 there have been more than 17,000 cases of whooping cough (pertussis) across Australia. This is well above our usual national average. It\u2019s already six time\u2026 [+7734 chars]",
       "retrievedAt": "2024-08-06 07:05:59.718814",
       "internal_id": "a8aca7ebf754534c7e7522880a93ace32555568ebfbddfc68c16474cd1c68f1f",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11638,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Hamsaveni N",
+      "title": "Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru",
+      "description": "BENGALURU: The post-Covid dip in blood collection at private blood banks across Bengaluru has had a ripple effect now: The current dengue surge - the .",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112270454,width-1070,height-580,imgsize-88292,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-04 19:03:11",
+      "content": "8 flowers and plants that will attract birds to your garden",
+      "retrievedAt": "2024-08-05 19:06:33.378068",
+      "internal_id": "35c6371fcd18fd95fa639b487c0a6258d2459868918be515c731ef339f3b6e25",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11635,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Marit Furn",
+      "title": "Stephen King minns inte att han skrivit boken",
+      "description": "RECENSION. I \u201dCujo\u201d skildrar skr\u00e4ckm\u00e4staren Stephen King en familj vars hund smittas av rabies och blir blodt\u00f6rstig. N\u00e4r Marit Furn \u00e5terv\u00e4nder till sin f\u00f6rsta vuxenbok ser hon sp\u00e5r av f\u00f6rfattarens egna problem mellan raderna.",
+      "url": "https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken",
+      "urlToImage": "https://svd.vgc.no/v2/images/5963db5d-7433-4677-9ede-aefb34d9b471?h=630&q=80&upscale=true&w=1200&s=b5ef319b52ecbd66c839d1021bb787b68695e248",
+      "publishedAt": "2024-08-04 18:14:17",
+      "content": "Pocketen med den hotfullt dreglande sankt bernadsk\u00e4ften p\u00e5 omslaget var den f\u00f6rsta vuxenbok jag l\u00e4ste p\u00e5 egen hand. Jag var tolv och hade redan fyllt ett ljusbl\u00e5tt skrivh\u00e4fte med egna sm\u00e5 skr\u00e4ckhisto\u2026 [+410 chars]",
+      "retrievedAt": "2024-08-05 19:06:32.284730",
+      "internal_id": "976b8e69793b364b4d7b0a1679096b41a6ca98be31abef42adca22cc2c26e11c",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11639,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Ntwaagae Seleka",
+      "title": "News24 | Gauteng man who returned from Peru one of two new positive Mpox cases",
+      "description": "Two more laboratory-confirmed cases of Mpox disease have been detected in Gauteng and KwaZulu-Natal, increasing the number of cases to 24 countrywide. The recent cases come 26 days after the first Mpox cases were reported in South Africa.",
+      "url": "https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12005/52927e9345ee42a398d20300416fbd5e.jpg",
+      "publishedAt": "2024-08-04 17:36:50",
+      "content": "A man who returned from Peru is among two new confirmed cases of the Mpox disease.The second patient is a KwaZulu-Natal man with no international travel history.The number o\u2026 [+2274 chars]",
+      "retrievedAt": "2024-08-05 19:06:34.627881",
+      "internal_id": "37e26ea3704f19277cc0f30dc3708f1286a942f445f80d8b6e2530a52e68e357",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11641,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Lucas Liganga, Hua Hongli",
+      "title": "Tanzania steps up border surveillance as mpox cases reported in neighboring countries",
+      "description": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectious disease caused by the mpox virus, were reported in neighbo\u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-08-04 17:25:00",
+      "content": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectiou\u2026 [+1601 chars]",
+      "retrievedAt": "2024-08-05 19:06:34.672152",
+      "internal_id": "8237f4e09e1f1fbab8ac1312f7fe595be473832097e28dea52046bfefa448da3",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11642,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The South African",
+      "author": "Nokwanda Ncwane",
+      "title": "Mpox latest: Department of Health calls for vigilance as cases re-emerge",
+      "description": "The Department of Health says of the 22 cases of Mpox recorded between May and July, 19 have fully recovered and three have died.",
+      "url": "https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/",
+      "urlToImage": "https://www.thesouthafrican.com/wp-content/uploads/2024/07/monkeypox-vaccinee-1200x776-1.jpg",
+      "publishedAt": "2024-08-04 16:15:00",
+      "content": "The Department of Health calls for ongoing public vigilance against Mpox disease as two more laboratory-confirmed cases have been detected in Gauteng and KwaZulu-Natal. The recent cases come 26 day\u2026 [+1712 chars]",
+      "retrievedAt": "2024-08-05 19:06:34.689903",
+      "internal_id": "e06ef9bb314a526bdcf4ea374f6637793af0fd09ec7f47f15f0deb798c52aa96",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11645,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Batac: Ilocos Norte ups measures vs. dengue after 2 deaths",
+      "description": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. \u201cThere is intensive information education campaign in every muni\u2026",
+      "url": "https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/08/bfp-dumalneg.jpg",
+      "publishedAt": "2024-08-04 14:27:32",
+      "content": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. The\u2026 [+1583 chars]",
+      "retrievedAt": "2024-08-06 07:06:01.244200",
+      "internal_id": "26ac7da7b8d3e328b303e2f8207f23d731f71d8ec0172bf1b07c5f1bec1a2549",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11640,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.ru",
+      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
+      "title": "\u0412\u0438\u0440\u0443\u0441 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0443",
+      "description": "\u0412 \u0423\u0433\u0430\u043d\u0434\u0435 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d (Mpox). \u041e \u0434\u0432\u0443\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0445 \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 AFP. \u0421\u043b\u0443\u0447\u0430\u0438 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0430\u0445 \u041a\u0430\u0441\u0435\u0441\u0435 \u0438 \u041c\u043f\u043e\u043d\u0434\u0432\u0435. \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0423\u0433\u0430\u043d\u0434\u044b \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e, \u0447\u0442\u043e \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u044f \u043f\u0440\u0438\u0448\u043b\u0430 \u0438\u0437 \u0441\u043e\u0441\u0435\u0434\u043d\u0435\u0439 ...",
+      "url": "https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml",
+      "urlToImage": "https://img.gazeta.ru/files3/693/15643693/20180530_gaf_uw8_1540-pic_32ratio_900x600-900x600-83778.jpg",
+      "publishedAt": "2024-08-04 14:26:07",
+      "content": ": .Ru (Gazeta.Ru) : \u00ab.\u00bb, 1067761730376, 7743625728 : 125239, , , , 67 : 117105, . , , .9, .1",
+      "retrievedAt": "2024-08-05 19:06:34.657950",
+      "internal_id": "f1cb32251d71a2a99841f1385c3790995f0fae5a96d8daeef8feb03fb2f3f13a",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11637,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Alarmante alza de contagios de dengue: OPS",
+      "description": "Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u00f3n de Centroam\u00e9rica, sostuvo Jorge Saavedra, director ejecutivo del Instituto Aids Healthcare Foundation de Salud P\u00fa\u2026",
+      "url": "https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-08-04 10:32:04",
+      "content": "Peri\u00f3dico La JornadaDomingo 4 de agosto de 2024, p. 27 Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u2026 [+2640 chars]",
+      "retrievedAt": "2024-08-05 19:06:33.364484",
+      "internal_id": "aedd625f819b1e21fcb3280d0254d4ecb1713066d06e71f3deae34b4728969f5",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11636,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Kai Wiedermann",
+      "title": "Vogelgrippe: Virus pirscht sich n\u00e4her an den Menschen heran",
+      "description": "Erst V\u00f6gel, dann S\u00e4ugetiere und in Einzelf\u00e4llen auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippevirus H5N1 weiterentwickelt und welche Gefahr das birgt",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406930402/406930402_1722763108_v16_9_1600.jpeg",
+      "publishedAt": "2024-08-04 09:18:28",
+      "content": "Berlin. Erst infizierte es V\u00f6gel, dann S\u00e4ugetiere, vereinzelt auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippe-Virus weiterentwickelt. Ein neuer \u00dcbertragungsweg, eine neue Tierart: Das Vog\u2026 [+6074 chars]",
+      "retrievedAt": "2024-08-05 19:06:32.911510",
+      "internal_id": "de41770983aa84004a4ad1fa8019d8eef64fa9406d94c36853911a8129da24e8",
       "publishedAtLabel": "Aug 4"
     }
   ]
