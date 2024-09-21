@@ -1,8 +1,728 @@
 {
-  "last_updated": "2024-09-21 07:06",
-  "count_articles_total": 2134,
-  "count_articles_new": 18,
+  "last_updated": "2024-09-21 19:05",
+  "count_articles_total": 2165,
+  "count_articles_new": 40,
   "articles": [
+    {
+      "id": 13783,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Of India",
+      "title": "6-yr-old dies of dengue within 48hrs after developing fever",
+      "description": "A heartbreaking account of a 6-year-old girl who succumbed to dengue fever within 48 hours of developing symptoms, highlighting the importance of early detection and awareness among parents.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/tragic-death-of-6-year-old-from-dengue-fever-shocks-bengaluru-community/articleshow/113534482.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-20 18:39:43",
+      "content": "10 UNESCO-listed temples in India for history lovers",
+      "retrievedAt": "2024-09-21 19:05:30.163239",
+      "internal_id": "93ccfe5e9a16d7a0fb03485b3f8af930496a6dcf930a2d2d16949cb3a5a4bd1f",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13796,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Lisa Schlein)",
+      "title": "Mpox spreads at alarming rate among children in Burundi",
+      "description": "GENEVA \u2014 The United Nations Children\u2019s Fund, or UNICEF, warned Friday that children in Burundi are bearing the brunt of the mpox outbreak, with cases of this deadly, infectious disease spreading at an alarming rate among a young population. \u201cOf the nearly 6\u2026",
+      "url": "https://www.voanews.com/a/mpox-spreads-at-alarming-rate-among-children-in-burundi/7792425.html",
+      "urlToImage": "https://gdb.voanews.com/AB151400-6410-42C4-8E30-04D870EA104B.jpg",
+      "publishedAt": "2024-09-20 18:03:37",
+      "content": "GENEVA The United Nations Childrens Fund, or UNICEF, warned Friday that children in Burundi are bearing the brunt of the mpox outbreak, with cases of this deadly, infectious disease spreading at an \u2026 [+4103 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.130265",
+      "internal_id": "726e4035112285a7335465159cafe875a239c694c1728ea9cd6b079dadd88f10",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13777,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Yale.edu",
+      "author": "btm25@yale.edu",
+      "title": "The Avian Flu Outbreak Remains a Concern\u2014And We Still Aren\u2019t Ready to Respond",
+      "description": "The Avian Flu Outbreak Remains a Concern\u2014And We Still Aren\u2019t Ready to Respondbtm25@yale.edu Fri, 09/20/2024 - 13:55 Faculty Viewpoints Howard P. Forman Professor of Radiology and Biomedical Imaging, Economics, Public Health, and Manage\u2026",
+      "url": "https://insights.som.yale.edu/insights/the-avian-flu-outbreak-remains-concern-and-we-still-arent-ready-to-respond",
+      "urlToImage": "https://insights.som.yale.edu/sites/default/files/styles/open_graph/public/2024-09/_DSC0766%20%28howie%29.jpg?h=1e03fd78&itok=BdEe609T",
+      "publishedAt": "2024-09-20 17:55:32",
+      "content": "This commentary was adapted from episode 141 of the Health &amp; Veritas podcast. H5N1 remains a major public health story, even if the press rarely covers it. We have had a concerning outbreak of \u2026 [+2598 chars]",
+      "retrievedAt": "2024-09-21 19:05:29.589021",
+      "internal_id": "029e66eef892e01b81a70cfe030388adcb7b3d7d96c76d4c80477a63d2bac5d7",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13776,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Penglijun, Elias Shilangwa",
+      "title": "Zambia launches measles vaccination campaign for 4 million children",
+      "description": "LUSAKA, Sept. 20 (Xinhua) -- Zambia launched a nationwide measles vaccination campaign Friday, aiming to immunize around 4 million children aged between nine months and five years. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/09/21/zambia-launches-measles-vaccination-campaign-for-4-million-children",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-09-20 17:49:00",
+      "content": "LUSAKA, Sept. 20 (Xinhua) -- Zambia launched a nationwide measles vaccination campaign Friday, aiming to immunize around 4 million children aged between nine months and five years. The measles-rube\u2026 [+1767 chars]",
+      "retrievedAt": "2024-09-21 19:05:29.263939",
+      "internal_id": "3b275cf89949437908da992ef76f7aadfa806e3683fd404022ba8721b260d9ab",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13807,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "Study suggests waning mpox protection from Jynneos vaccine, CIDRAP reports",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id3986611/BVNRY;EBS;GOVX-Study-suggests-waning-mpox-protection-from-Jynneos-vaccine-CIDRAP-reports",
+      "urlToImage": "https://thefly.com/images/meta/periodicals.jpg",
+      "publishedAt": "2024-09-20 17:37:04",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2024-09-21 19:05:33.343599",
+      "internal_id": "78d4499a307c5e14bad083f2fe0897265b97daeff3df221d8522ca23ba9a5326",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13782,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Chau invierno: este fin de semana arranca la primavera y as\u00ed estar\u00e1 el tiempo, seg\u00fan Serra",
+      "description": "El meteor\u00f3logo pronostic\u00f3 una semana entrante con humedad \u201calta\u201d, por lo que alert\u00f3 que \u201chay que fumigar y prevenir el dengue\u201d. El meteor\u00f3logo pronostic\u00f3 una semana entrante con humedad \u201calta\u201d, por lo que alert\u00f3 que \u201chay que fumigar y prevenir el dengue\u201d.",
+      "url": "https://www.montevideo.com.uy/Noticias/Chau-invierno-este-fin-de-semana-arranca-la-primavera-y-asi-estara-el-tiempo-segun-Serra-uc900852",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891976.jpg",
+      "publishedAt": "2024-09-20 17:11:00",
+      "content": "Montevideo Portal Luego de las lluvias registradas en todo el pa\u00eds durante la jornada del pasado jueves 19, este viernes el tiempo se presenta m\u00e1s agradable: el cielo est\u00e1 nuboso y algo nuboso e\u2026 [+1631 chars]",
+      "retrievedAt": "2024-09-21 19:05:30.139406",
+      "internal_id": "abfd16b54708ae56ab08afaa09d1a08ba67ee16e1e744d64847fbed89b0a0040",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13774,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Svenska.yle.fi",
+      "author": null,
+      "title": "Flera fall av rabies bland p\u00e4lss\u00e4lar i s\u00f6dra Afrika",
+      "description": "F\u00f6rsta g\u00e5ngen viruset sprids bland vattenlevande d\u00e4ggdjur.",
+      "url": "https://svenska.yle.fi/a/7-10064224",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/f_auto,fl_progressive/q_auto/w_2714,h_1526,c_crop,x_2,y_41/w_1200/w_1200,ar_16:9/w_1320,ar_1320:675,c_pad,b_white,g_east/l_39-yle-logo-some_ywtrrc,g_west,ar_1320:675,w_1.0,fl_relative,c_crop/v1726846586/39-135201466ed94a205154.jpg",
+      "publishedAt": "2024-09-20 17:10:12",
+      "content": "Rabiessmitta har konstaterats hos minst tv\u00e5 dussin s\u00e4lar vid den sydafrikanska kusten. Det \u00e4r f\u00f6rsta g\u00e5ngen viruset har spridits bland vattenlevande d\u00e4ggdjur. Minst 24 s\u00e4lar av arten sydafrikansk p\u00e4\u2026 [+1788 chars]",
+      "retrievedAt": "2024-09-21 19:05:28.399840",
+      "internal_id": "4678c634e6918ce5ac3ddd2c5e3e3eaa1032eaa57abff3378eb665ca211495d7",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13788,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Mortalidad por malaria, tuberculosis y sida se redujo en un 61 % en dos d\u00e9cadas",
+      "description": "Las tres enfermedades se consideran asociadas a contextos de pobreza y exclusi\u00f3n.",
+      "url": "https://www.montevideo.com.uy/Salud/Mortalidad-por-malaria-tuberculosis-y-sida-se-redujo-en-un-61--en-dos-decadas-uc900868",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202409/_W933_80/895615.jpg",
+      "publishedAt": "2024-09-20 17:06:00",
+      "content": "El Fondo Mundial para la Malaria, el VIH y la tuberculosis, el mayor proveedor de fondos internacionales para luchar contra este grupo de enfermedades asociadas a contextos de pobreza y exclusi\u00f3n,\u2026 [+2658 chars]",
+      "retrievedAt": "2024-09-21 19:05:31.617451",
+      "internal_id": "fadc522be37c02cbbb253e0177ee5a38dca2e864d050845380d6516a03d1a5b7",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13792,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "Maria Malagardis",
+      "title": "Rwanda : contre la variole du singe, \u00abil nous faudra bien plus de vaccins\u00bb",
+      "description": "Premier pays \u00e0 lancer une campagne de vaccination contre la variole du singe en Afrique, le Rwanda esp\u00e8re obtenir plus de doses. Et \u00e0 terme se doter d\u2019une industrie pharmaceutique locale qui permettra de r\u00e9pondre \u00e0 ce type de pand\u00e9mie.",
+      "url": "https://www.liberation.fr/international/afrique/rwanda-contre-la-variole-du-singe-il-nous-faudra-bien-plus-de-vaccins-20240920_SGDYAXPORFGB5GMBD4RENE2L6M/",
+      "urlToImage": "https://www.liberation.fr/resizer/UzFo_EmD3USdUl6kAYSJ7dm0PpA=/1200x630/filters:format(jpg):quality(70):focal(1375x1085:1385x1095)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/ET2GLMRTYNE5BFCUGIYZCDKFKA.jpg",
+      "publishedAt": "2024-09-20 16:40:16",
+      "content": "Ebola, Covid, et d\u00e9sormais variole du singe (ou Mpox) : les \u00e9pid\u00e9mies et pand\u00e9mies \u00e9pargnent rarement le continent africain, faisant dautant plus durement ressentir sa d\u00e9pendance aux vaccins import\u00e9s\u2026 [+3461 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.068831",
+      "internal_id": "5287d2ba9881b92fd989b9a3eac038288617746483837e7b2a7c3434c932fecd",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13802,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Quase um ter\u00e7o dos infetados com Mpox no Burundi tem menos de 5 anos, segundo a UNICEF",
+      "description": "Jovens t\u00eam sido os principais afetados pelo v\u00edrus no continente africano. Burundi \u00e9 o segundo pa\u00eds mais afetado e 30% dos casos s\u00e3o crian\u00e7as com menos de 5 anos.",
+      "url": "https://observador.pt/2024/09/20/quase-um-terco-dos-infetados-com-mpox-no-burundi-tem-menos-de-5-anos-segundo-a-unicef/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F09%2F20142505%2F43499197.jpg",
+      "publishedAt": "2024-09-20 16:39:31",
+      "content": "O Fundo das Na\u00e7\u00f5es Unidas para a Inf\u00e2ncia (UNICEF) alertou esta sexta-feira para a particular vulnerabilidade das crian\u00e7as \u00e0 infe\u00e7\u00e3o de var\u00edola em \u00c1frica, especialmente no Burundi, onde quase um ter\u00e7\u2026 [+2182 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.213264",
+      "internal_id": "1121d4a905b1e8fd48df2107dbb79185586191978b9fc72011f1afa95aa5ecbb",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13799,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "EURACTIV",
+      "author": "Catherine Feore",
+      "title": "Mpox vaccine for adolescents and eight new medicines receive EMA approval",
+      "description": "The European Medicines Agency\u2019s (EMA) human medicines committee has authorised the use of Bavarian Nordic\u2019s mpox vaccine Imvanex for adolescents.",
+      "url": "https://www.euractiv.com/section/health-consumers/news/mpox-vaccine-for-adolescents-and-eight-new-medicines-receive-ema-approval/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2024/08/mPox2-800x450.jpg",
+      "publishedAt": "2024-09-20 16:35:17",
+      "content": "The European Medicines Agencys (EMA) human medicines committee has authorised the use of Bavarian Nordics mpox vaccine Imvanex for adolescents. The recommendation is based on the interim results of\u2026 [+1783 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.151685",
+      "internal_id": "9616e4ee7f72577e2b4b1bfc90f9bb042b341e96787d8d4f3eb7c59d54047f02",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13789,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "American Medical Association",
+      "author": null,
+      "title": "NPPV Strategies for Acute COPD, Malaria Rapid Tests in Africa, Review of Pneumonia, and more",
+      "description": "Editor\u2019s Summary by JAMA Fishbein Fellow Krista Roberts, MD, MPH, and Kirsten Bibbins-Domingo, PhD, MD, MAS, Editor in Chief of JAMA, the Journal of the American Medical Association, for articles published from September 14 -20, 2024.",
+      "url": "https://edhub.ama-assn.org/jn-learning/audio-player/18913621",
+      "urlToImage": "https://cdn.edhub.ama-assn.org/ama/content_public/multimedia/jsx240128audio1_thumb.png?Expires=2147483647&Signature=gHcJnO3Y10wXFHPaxS68i0UUnJYxxOFO-exz7Zi8as7DNi5cLDwWUInewUQSMKXnfI-qsAi9BPgxxGnb3WTMsCJDcej0kqg3Vf0gzcoKMZYlceNF9Es7fHkuSQrKUrw-mykl18uszOt-5I~6BBIan6dIOj9FceADRzdcok4AriMHnMatM~DThWpWjtcB4M6~ym2gOSv9nFHuJhVQ10HJJMrrFt02V0HV4O3W~0m-fDh5cgrHu8b7wXzgDI34~0bKeIunl0Ss62XUwQfSuvPTLMOmg-bx283851LkycWoXTW38B9t3x4TLf3FRze-QoIt1NXjy5zKIH8oKmwiZzQyGg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "publishedAt": "2024-09-20 16:00:00",
+      "content": "Editors Summary by JAMA Fishbein Fellow Krista Roberts, MD, MPH, and Kirsten Bibbins-Domingo, PhD, MD, MAS, Editor in Chief of JAMA, the Journal of the American Medical Association, for articles publ\u2026 [+32 chars]",
+      "retrievedAt": "2024-09-21 19:05:31.637054",
+      "internal_id": "c4a925bec0ab2b9b4630b44290d07338ef2ecc4fb00ae83b987acaf255379308",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13778,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Researchers discover immune response to dengue can predict risk of severe reinfections",
+      "description": "A new study highlights the role of natural killer T cells in influencing the immune response to dengue virus, potentially reducing the severity of subsequent infections.",
+      "url": "https://www.sciencedaily.com/releases/2024/09/240920112552.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-09-20 15:25:52",
+      "content": "As the dengue virus continues to be a significant global health concern, an international research team led by Duke-NUS Medical School has identified a critical link between the body's initial immune\u2026 [+5194 chars]",
+      "retrievedAt": "2024-09-21 19:05:30.025693",
+      "internal_id": "724e6adcfdbfcfc177476830df272ff7a22b81536b78d9f0179b5bab0066ea01",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13769,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": null,
+      "title": "Scientists Identify First Known Outbreak of Rabies in Seals",
+      "description": "Scientists in South Africa have identified the first known outbreak of rabies between sea mammals",
+      "url": "https://www.newsweek.com/rabies-first-outbreak-sea-mammals-seals-1956801",
+      "urlToImage": "https://d.newsweek.com/en/full/2476661/seals-south-africa-rabies.jpg",
+      "publishedAt": "2024-09-20 14:49:44",
+      "content": "Scientist in South Africa believe they have successfully identified the first time the rabies virus has spread to sea mammals, in this case among 24 dead Cape fur seals. The bodies of the sea mammal\u2026 [+4185 chars]",
+      "retrievedAt": "2024-09-21 19:05:28.350941",
+      "internal_id": "942efce644b0aaf070a00ef74beb9327391e2fdf590712635cc744ba79eea268",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13787,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Peter Sands, Contributor, \n Peter Sands, Contributor\n https://www.forbes.com/sites/petersands/",
+      "title": "UNGA: Progress In Global Health Shows The Path To A Safer, More Secure World",
+      "description": "By fighting HIV, TB and malaria, UN member states can save millions of lives, billions of dollars, and create a more equitable world.",
+      "url": "https://www.forbes.com/sites/petersands/2024/09/20/unga-progress-in-global-health-shows-the-path-to-a-safer-more-secure-world/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66ed83c78170444e02384700/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-20 14:45:36",
+      "content": "At Wakiso Epicentre Health Center III, Uganda, laboratory technician Stanley Sewa, 36, prepares to ... [+] draw a blood sample from 65-year-old patient Joyce Nanjala for testing. The Global Fund/Bri\u2026 [+6732 chars]",
+      "retrievedAt": "2024-09-21 19:05:31.597303",
+      "internal_id": "57280b56eaf379607cde95fdbbab2fde9c4cad0794b3746d635f5631d9de1f8b",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13791,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Maryanne Murray Buechner, UNICEF USA, \n Maryanne Murray Buechner, UNICEF USA\n https://www.forbes.com/sites/unicefusa/people/maryannebuechner/",
+      "title": "UNICEF Puts Children Front And Center In Mpox Response",
+      "description": "UNICEF and partners are scaling up the emergency response in the DRC, Burundi and other countries in Africa, but more donor support is needed.",
+      "url": "https://www.forbes.com/sites/unicefusa/2024/09/20/unicef-puts-children-front-and-center-in-mpox-response/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66ed81b83af371ee2b604cfb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-20 14:26:33",
+      "content": "Thousands of children in the Democratic Republic of the Congo, Burundi and other countries in Africa are at severe risk of contracting the mpox virus as cases of the new variant clade 1b continue to \u2026 [+11504 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.054405",
+      "internal_id": "a1297afce81a2237676d94f9cbf1265af65a47f14a1ec68bd1ee8a5029df37db",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13781,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kamal Hossain, Sukanta Chowdhury, Ireen Sultana Shanta, Mohammad Sharif Hossain, Probir Kumar Ghosh, Mohammad Shafiul Alam",
+      "title": "Spatio-temporal patterns of dengue in Bangladesh during 2019 to 2023: Implications for targeted control strategies",
+      "description": "Author summary Dengue poses a serious global health threat, particularly in tropical regions like Bangladesh. Effective prevention and control depend on accurately mapping high-risk (hotspots) and low-risk (coldspots) areas. Using sequential spatial analysis,\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012503",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012503.g007&size=inline",
+      "publishedAt": "2024-09-20 14:00:00",
+      "content": "Abstract Background Dengue, a viral infection transmitted by Aedes species mosquitoes, presents a substantial global public health concern, particularly in tropical regions. In Bangladesh, where de\u2026 [+34511 chars]",
+      "retrievedAt": "2024-09-21 19:05:30.129596",
+      "internal_id": "32c0e57c6a58ba0775a34e2f69af1c78a460fd5f3a65155dd8041fd68c396c6f",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13785,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Shauna Bowers",
+      "title": "Aoife Johnston report: Circumstances around teen\u2019s death at Limerick hospital \u2018almost certainly avoidable\u2019",
+      "description": "Johnston (16) died of meningitis after she was left for more than 13 hours at UHL without \u2018vital\u2019 antibiotic treatment, report finds",
+      "url": "https://www.irishtimes.com/health/2024/09/20/aoife-johnston-report-circumstances-around-teens-death-at-limerick-hospital-almost-certainly-avoidable/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/ZH4IXWHT3RG4ZB25ZSBR5SNJXM.jpg?smart=true&auth=e361679a5226a7d8e5ef966558fcb7bfb007251ddab58a6de3f115a453eea465&width=1200&height=630",
+      "publishedAt": "2024-09-20 14:00:00",
+      "content": "An investigation into the death of a 16-year-old girl at University Hospital Limerick (UHL) has found she died in circumstances which, on the basis of the medical evidence, were almost certainly avoi\u2026 [+3464 chars]",
+      "retrievedAt": "2024-09-21 19:05:30.466042",
+      "internal_id": "0c83a17ea81e4fc14a22b9f2f4eb76bcfc93b0c2af1ae1d1442b06d2b4367306",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13805,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Belga Belga",
+      "title": "Mpox : Au Burundi, un tiers des malades de la variole du singe a moins de 5 ans",
+      "description": "Les jeunes sont particuli\u00e8rement touch\u00e9s par l'\u00e9pid\u00e9mie de mpox en Afrique, comme au Burundi, o\u00f9 presqu'un tiers des malades a moins de cinq ans, a annonc\u00e9 vendredi le Fonds des Nations unies pour l'enfance (Unicef). ...",
+      "url": "https://www.dhnet.be/actu/monde/2024/09/20/mpox-au-burundi-un-tiers-des-malades-de-la-variole-du-singe-a-moins-de-5-ans-LMM24RFTY5B5RCCWZ2AC3TPSTM/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/OCSFXQBH7FG5TGCNYDBA3A5XLE.jpg?auth=c8cc0102746e76edebb623c2fa5dc2f1ea8a3940976eb642b11f47d2d0b9a88f&width=1200&height=630&quality=85&focal=2250%2C1500&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2024-09-20 13:40:47",
+      "content": "Le Burundi est le deuxi\u00e8me pays le plus touch\u00e9 par l'\u00e9pid\u00e9mie apr\u00e8s la R\u00e9publique d\u00e9mocratique du Congo (RDC). L'\u00e9pid\u00e9mie en Afrique \"n'est pas sous contr\u00f4le\", a estim\u00e9 jeudi l'agence sanitaire de l'\u2026 [+1126 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.285750",
+      "internal_id": "e90eb03e7b4a7b314fbaf56dda73aa4f28f1cc02e0c2af328bb68261c88db6f6",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13798,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "WHO warnt vor rapider Mpox-Ausbreitung in Afrika",
+      "description": "Heuer wurden bereits 25.000 Verdachtsf\u00e4lle und mehr als 700 Tote gemeldet. Die Demokratische Republik Kongo ist am st\u00e4rksten betroffen. In Burundi ist die Anzahl der F\u00e4lle binnen vier Wochen um 40 Prozent gestiegen.",
+      "url": "https://www.diepresse.com/18883133/who-warnt-vor-rapider-mpox-ausbreitung-in-afrika",
+      "urlToImage": "https://img.diepresse.com/public/incoming/u4xpe9-HEALTH-MPOXBURUNDI/alternates/DPR_SOCIAL_NACHRICHTEN/HEALTH-MPOXBURUNDI",
+      "publishedAt": "2024-09-20 13:20:08",
+      "content": "Heuer wurden bereits 25.000 Verdachtsf\u00e4lle und mehr als 700 Tote gemeldet. Die Demokratische Republik Kongo ist am st\u00e4rksten betroffen. In Burundi ist die Anzahl der F\u00e4lle binnen vier Wochen um 40 Pr\u2026 [+1748 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.141611",
+      "internal_id": "2d7848668d866800111139c7e9cafaafed3e9f6d8f67505e38975506ce7123f1",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13784,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "20minutos.es",
+      "author": "20minutos",
+      "title": "Se queda en coma por una meningitis y descubre que su empresa le ha despedido tras despertar",
+      "description": "El empleado gan\u00f3 la demanda por despido improcedente que interpuso contra la compa\u00f1\u00eda.",
+      "url": "https://www.20minutos.es/gonzoo/noticia/5635791/0/gana-una-demanda-contra-empresa-que-le-despidio-mientras-estaba-coma/",
+      "urlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/09/20/imagen-de-archivo-de-un-hospital.jpeg",
+      "publishedAt": "2024-09-20 12:37:14",
+      "content": "Cay\u00f3 en coma el 1 de mayo de 2023, curiosamente, el D\u00eda Internacional de los Trabajadores. Pero, por desgracia, cuando se despert\u00f3, ya no ten\u00eda empleo, pues su empresa le hab\u00eda despedido sin previo a\u2026 [+1099 chars]",
+      "retrievedAt": "2024-09-21 19:05:30.454368",
+      "internal_id": "7706ab75dc3d08a20fd37619fa0b48be2b297d558ae00b66b6ce32ee951d8f35",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13797,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "UNICEF: Burundi'deki M \u00e7i\u00e7e\u011fi vakalar\u0131n\u0131n y\u00fczde 30'u 5 ya\u015f alt\u0131 \u00e7ocuklardan olu\u015fuyor",
+      "description": "UNICEF Do\u011fu ve G\u00fcney Afrika B\u00f6lgesel Sa\u011fl\u0131k Dan\u0131\u015fman\u0131 Paul Ngwakum, Burundi'de bildirilen M \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fc vakalar\u0131n\u0131n y\u00fczde 30'unun 5 ya\u015f alt\u0131 \u00e7ocuklardan olu\u015ftu\u011funu belirtti. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/saglik/unicef-burundideki-m-cicegi-vakalarinin-yuzde-30u-5-yas-alti-cocuklardan-olusuyor/3335866",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/09/20/thumbs_b_c_01a9ba9de35160b09b54ba50b7531205.jpg?v=151930",
+      "publishedAt": "2024-09-20 12:13:04",
+      "content": "Birlemi Milletler (BM) \u00c7ocuklara Yardm Fonu (UNICEF) Dou ve G\u00fcney Afrika B\u00f6lgesel Salk Danman Paul Ngwakum ve D\u00fcnya Salk \u00d6rg\u00fct\u00fc (DS\u00d6) S\u00f6zc\u00fcs\u00fc Margaret Harris, BM Cenevre Ofisi'nin haftalk basn toplan\u2026 [+1325 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.136212",
+      "internal_id": "eedbccc78a7a9d1a424339d5a3938c1b30d2fc94798d2c071df399fa61372d4c",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13803,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Jenna M\u00fcller",
+      "title": "Kinder besonders gef\u00e4hrdet - Affenpocken breiten sich in Afrika rapide aus",
+      "description": "F\u00fcr geschw\u00e4chte Personen kann das Virus lebensgef\u00e4hrlich sein.Foto: Moses Sawasawa/AP",
+      "url": "https://www.bild.de/leben-wissen/medizin/affenpocken-kleine-kinder-in-afrika-besonders-gefaehrdet-66ed5bec5836f81a5ab7304e",
+      "urlToImage": "https://images.bild.de/66ed5bec5836f81a5ab7304e/08e8e35918ffb74920a12fe1f77520b9,b014da27?w=1280",
+      "publishedAt": "2024-09-20 12:07:49",
+      "content": "Hoffentlich kommt die Hilfe noch rechtzeitig! Vor gut einer Woche hat die Weltgesundheitsorganisation (WHO) erstmals einen Impfstoff gegen die Viruskrankheit Mpox abgesegnet. Dadurch k\u00f6nnen UN-Organ\u2026 [+1762 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.248503",
+      "internal_id": "afdc5c9c8eeaa0a5b6c13cc9742927f1cd6c15bceafea9fc36ffbec88543964f",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13804,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "Fighting mpox stigma key to ending Burundi outbreak quickly, UNICEF says",
+      "description": "Fighting mpox stigma key to ending Burundi outbreak quickly, UNICEF says",
+      "url": "https://www.investing.com/news/world-news/fighting-mpox-stigma-key-to-ending-burundi-outbreak-quickly-unicef-says-3625421",
+      "urlToImage": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+      "publishedAt": "2024-09-20 11:52:19",
+      "content": "By Emma Farge GENEVA (Reuters) - It is possible to end the mpox outbreak in Burundi within weeks, a U.N. health official said on Friday, but progress in Africa's second-worst affected country will d\u2026 [+1898 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.275399",
+      "internal_id": "8321c9079fea6ca7fdfc96de6726cbc2368601175a3a506ebc8ae98391876646",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13808,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Rapide Ausbreitung von Mpox in Afrika",
+      "description": "Die Infektionskrankheit Mpox breitet sich in Afrika weiter aus. In diesem Jahr seien bis zum 8. September bereits gut 25.000 Verdachtsf\u00e4lle gemeldet worden, berichtet die Weltgesundheitsorganisation (WHO). Insgesamt wurden 723 Todesf\u00e4lle gemeldet. Vor wenigen\u2026",
+      "url": "https://science.orf.at/stories/3226814/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Ftube%2Fscience%2Fimages%2Fog-fallback.jpg%3Fs%3D9468ebfda8d575e29237d4fe069891178635d8e1",
+      "publishedAt": "2024-09-20 11:37:20",
+      "content": "Die Situation in Burundi eskaliert rapide, innerhalb von vier Wochen ist die Zahl der F\u00e4lle um 40 Prozent gestiegen, sagte Paul Ngwakum vom UNO-Kinderhilfswerk UNICEF. Ein Drittel der Betroffenen sei\u2026 [+1106 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.361780",
+      "internal_id": "8148091f29a48a0b3c8318489cc2db4c5e1a1bf172bb6d1d95c0c6ae1df37666",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13794,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Revista Malu",
+      "title": "Mpox: uma nova pandemia?",
+      "description": "Infectologista explica a nova doen\u00e7a que vem preocupando a popula\u00e7\u00e3o Depois de uma assustadora e triste pandemia em 2020, devido a covid-19, 2024 vem nos entregando um cen\u00e1rio preocupante. O aumento de casos da mpox, anteriormente conhecida como var\u00edola dos m\u2026",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/mpox-uma-nova-pandemia,c6e983831b3b53f59256c659f193141ajy8qonip.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/09/20/1858435371-shutterstock2503358573-scaled.jpg",
+      "publishedAt": "2024-09-20 11:05:09",
+      "content": "Depois de uma assustadora e triste pandemia em 2020, devido a covid-19, 2024 vem nos entregando um cen\u00e1rio preocupante. O aumento de casos da mpox, anteriormente conhecida como var\u00edola dos macacos, a\u2026 [+4730 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.080259",
+      "internal_id": "a12f0ff1bb54a2208ee4a847602a51e19a3622e82565188ada3a59e43e89f01c",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13801,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "WHO Authorizes First Monkeypox Vaccine to Combat Africa\u2019s Current Outbreak",
+      "description": "3.6 million doses of vaccines are now on their way to Central Africa to fight the more virulent Clade 1b strain of mpox; vaccinations are due to start Oct. 2. The post WHO Authorizes First Monkeypox Vaccine to Combat Africa\u2019s Current Outbreak first appeared o\u2026",
+      "url": "https://legalinsurrection.com/2024/09/who-authorizes-first-monkeypox-vaccine-to-combat-africas-current-outbreak/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/08/LI-96-Monkeypox-Thailand.png",
+      "publishedAt": "2024-09-20 11:00:26",
+      "content": "The last time I reported on monkeypox, news had just broken that Thailand\u2019s public health officials confirmed a case of the more virulent strain that is part of an outbreak in Central Africa. Sweden \u2026 [+4577 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.189664",
+      "internal_id": "5621701222c7cd8abfc68bb3e03f19a01a3332c84f8b1204039e5441531e2bf6",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13773,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Why is South Africa vaccinating seals and issuing warning against them?",
+      "description": "Scientists in South Africa have identified an outbreak of rabies in Cape fur seals, marking the first time the virus has spread among sea mammals. The virus is believed to have been transmitted from jackals in Namibia. Authorities are investigating how to con\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/why-is-south-africa-vaccinating-seals-and-issuing-warning-against-them/articleshow/113523305.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113524180,width-1200,height-630,imgsize-90104,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-20 10:54:06",
+      "content": "Scientists in South Africa have detected an outbreak of rabies among Cape fur seals, marking the first time the virus has been identified spreading in marine mammals. At least 24 seals found dead or \u2026 [+3802 chars]",
+      "retrievedAt": "2024-09-21 19:05:28.390179",
+      "internal_id": "8cc8b8a36b43ddf1b1b50bc0558c47266e20038bc18388b3e21400f1cf5854a0",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13795,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Bruxelas autoriza vacina\u00e7\u00e3o de adolescentes contra Mpox ap\u00f3s recomenda\u00e7\u00e3o do regulador",
+      "description": "\"Vacina ir\u00e1 produzir em adolescentes efeitos de prote\u00e7\u00e3o semelhantes aos que tem nos adultos\", garante a EMA. Comiss\u00e3o Europeia autorizou a vacina\u00e7\u00e3o contra mpox de cidad\u00e3os entre os 12 e os 17 anos.",
+      "url": "https://observador.pt/2024/09/20/bruxelas-autoriza-vacinacao-de-adolescentes-contra-mpox-apos-recomendacao-do-regulador/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A101%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F08%2F28155027%2F43440441.jpg",
+      "publishedAt": "2024-09-20 10:52:59",
+      "content": "A Comiss\u00e3o Europeia autorizou esta sexta-feira a vacina\u00e7\u00e3o de adolescentes, cidad\u00e3os entre os 12 e os 17 anos, contra o mpox, na sequ\u00eancia de uma recomenda\u00e7\u00e3o feita na quinta-feira pela Ag\u00eancia Europ\u2026 [+2248 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.111553",
+      "internal_id": "0af924f35cc038d68901b137524636c0bc4d866cc9681990b88f53e05517e512",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13800,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Mpox: Rapide Ausbreitung von Mpox in Afrika",
+      "description": "Von Mpox betroffen sind immer \u00f6fter kleine Kinder. Der Impfstoff ist f\u00fcr sie aber nicht zugelassen.",
+      "url": "https://www.tagesspiegel.de/wissen/mpox-rapide-ausbreitung-von-mpox-in-afrika-12406634.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12406631/alternates/BASE_16_9_W1400/1726829456000/mpox-im-kongo.jpeg",
+      "publishedAt": "2024-09-20 10:50:57",
+      "content": "Die Infektionskrankheit Mpox breitet sich in Afrika weiter aus. In diesem Jahr sind bis zum 8. September bereits gut 25.000 Verdachtsf\u00e4lle gemeldet worden, berichtet die Weltgesundheitsorganisation (\u2026 [+1528 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.166158",
+      "internal_id": "d903444cb949bf9a727a86bac0d4dbc2c554fb0b60426657c8d159f528cc2927",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13790,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Mpox: Rapide Ausbreitung von Mpox in Afrika",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eMpox\u201c. Lesen Sie jetzt \u201eRapide Ausbreitung von Mpox in Afrika\u201c.",
+      "url": "https://www.zeit.de/news/2024-09/20/rapide-ausbreitung-von-mpox-in-afrika",
+      "urlToImage": "https://img.zeit.de/news/2024-09/20/rapide-ausbreitung-von-mpox-in-afrika-image-group/wide__1300x731",
+      "publishedAt": "2024-09-20 10:49:44",
+      "content": "Die Infektionskrankheit Mpox breitet sich in Afrika weiter aus. In diesem Jahr sind bis zum 8. September bereits gut 25.000 Verdachtsf\u00e4lle gemeldet worden, berichtet die Weltgesundheitsorganisation (\u2026 [+1476 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.048496",
+      "internal_id": "3dbdbff949a09ea7fd7062bf9cc8dbf773f3a9d6603426e2ec92837c6d0a58b1",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13793,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Mpox: Rapide Ausbreitung von Mpox in Afrika",
+      "description": "Genf - Die Infektionskrankheit Mpox breitet sich in Afrika weiter aus. In diesem Jahr sind bis zum 8. September bereits gut 25.000 Verdachtsf\u00e4lle",
+      "url": "https://www.stern.de/panorama/wissen/mpox--rapide-ausbreitung-von-mpox-in-afrika-35080612.html",
+      "urlToImage": "https://image.stern.de/35080614/t/ir/v1/w1440/r1.7778/-/20--5nvn2hlqkjv15axw800h600jpeg---863ea08bfa894688.jpg",
+      "publishedAt": "2024-09-20 10:49:44",
+      "content": "Von Mpox betroffen sind immer \u00f6fter kleine Kinder. Der Impfstoff ist f\u00fcr sie aber nicht zugelassen. Die Infektionskrankheit Mpox breitet sich in Afrika weiter aus. In diesem Jahr sind bis zum 8. Sep\u2026 [+1546 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.074914",
+      "internal_id": "4d8e810a14fc33eab7eaa563741a549a9172a76eb5fb51d0f0eef32d8df49910",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13772,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Gerald Imray",
+      "title": "Scientists in South Africa say they have identified the first known outbreak of rabies in seals",
+      "description": "Scientists in South Africa say they have identified an outbreak of rabies in seals that is believed to be the first time the virus has spread in sea mammals.",
+      "url": "https://phys.org/news/2024-09-scientists-south-africa-outbreak-rabies.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-in-south-af.jpg",
+      "publishedAt": "2024-09-20 10:11:13",
+      "content": "Scientists in South Africa say they have identified an outbreak of rabies in seals that is believed to be the first time the virus has spread in sea mammals. At least 24 Cape fur seals that were fou\u2026 [+5181 chars]",
+      "retrievedAt": "2024-09-21 19:05:28.383553",
+      "internal_id": "838496a90ff1c0dc8fbd3e6eb1fe03242561ad9b0fd2f4d13a5e4c36de19707b",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13806,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La EMA recomienda ampliar a adolescentes la indicaci\u00f3n de la vacuna contra mpox",
+      "description": "El Comit\u00e9 de Medicamentos de Uso Humano (CHMP, por sus siglas en ingl\u00e9s) de la Agencia Europea de Medicamentos (EMA, por sus siglas en ingl\u00e9s) ha recomendado ampliar a adolescentes de 12 a 17 a\u00f1os el uso de 'Imvanex', la vacuna para proteger contra la viruela\u2026",
+      "url": "https://www.infosalus.com/asistencia/noticia-ema-recomienda-ampliar-adolescentes-indicacion-vacuna-contra-mpox-20240920120510.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240920120510_1200.jpg",
+      "publishedAt": "2024-09-20 10:05:10",
+      "content": "MADRID, 20 Sep. (EUROPA PRESS) - El Comit\u00e9 de Medicamentos de Uso Humano (CHMP, por sus siglas en ingl\u00e9s) de la Agencia Europea de Medicamentos (EMA, por sus siglas en ingl\u00e9s) ha recomendado ampli\u2026 [+3026 chars]",
+      "retrievedAt": "2024-09-21 19:05:33.312407",
+      "internal_id": "ba1bb4633e932af71dea10b60de5097b9683637a02214c08c5cc7d1c933cb88a",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13770,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "GERALD IMRAY Associated Press",
+      "title": "Scientists in South Africa say they have identified the first known outbreak of rabies in seals",
+      "description": "Tests on dead Cape fur seals in South Africa have shown some had rabies",
+      "url": "https://abcnews.go.com/Technology/wireStory/scientists-south-africa-identified-outbreak-rabies-seals-113866375",
+      "urlToImage": "https://i.abcnewsfe.com/a/bd46eebd-848e-4535-92d3-06fec0dc29d3/wirestory_faafc6b19a3e211853cd50952c5c802b_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-20 09:50:28",
+      "content": "CAPE TOWN, South Africa -- Scientists in South Africa say they have identified an outbreak of rabies in seals that is believed to be the first time the virus has spread in sea mammals. At least 24 C\u2026 [+4634 chars]",
+      "retrievedAt": "2024-09-21 19:05:28.371476",
+      "internal_id": "5190344d4aacb01702d7f2ed0ee9f1165577450003a91b5ce0bda27c51863343",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13771,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "GERALD IMRAY Associated Press",
+      "title": "Scientists in South Africa say they have identified the first known outbreak of rabies in seals",
+      "description": "Tests on dead Cape fur seals in South Africa have shown some had rabies",
+      "url": "https://abcnews.go.com/Health/wireStory/scientists-south-africa-identified-outbreak-rabies-seals-113866374",
+      "urlToImage": "https://i.abcnewsfe.com/a/bd46eebd-848e-4535-92d3-06fec0dc29d3/wirestory_faafc6b19a3e211853cd50952c5c802b_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-20 09:50:27",
+      "content": "CAPE TOWN, South Africa -- Scientists in South Africa say they have identified an outbreak of rabies in seals that is believed to be the first time the virus has spread in sea mammals. At least 24 C\u2026 [+4634 chars]",
+      "retrievedAt": "2024-09-21 19:05:28.377217",
+      "internal_id": "5cbee41bc5ad9fcd0dc97450ea75c632b5d44f87ef1585ae4ed2abe042b17b6d",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13775,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Gerald Imray Associated Press",
+      "title": "Scientists in South Africa say they have identified the first known outbreak of rabies in seals",
+      "description": "Scientists in South Africa say they have identified the first known outbreak of rabies in sealsgo.com",
+      "url": "https://abcnews.go.com/International/wireStory/scientists-south-africa-identified-outbreak-rabies-seals-113866372",
+      "urlToImage": "https://i.abcnewsfe.com/a/bd46eebd-848e-4535-92d3-06fec0dc29d3/wirestory_faafc6b19a3e211853cd50952c5c802b_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-20 09:33:52",
+      "content": "CAPE TOWN, South Africa -- Scientists in South Africa say they have identified an outbreak of rabies in seals that is believed to be the first time the virus has spread in sea mammals. At least 24 C\u2026 [+4634 chars]",
+      "retrievedAt": "2024-09-21 19:05:28.405603",
+      "internal_id": "4cb9a56dff8bf3748c367b88f82bace18664218008f657304cb8e1e6117cd818",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13779,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Redacci\u00f3n HuffPost / Agencias",
+      "title": "Los ocho contagiados por dengue en Vila - Seca residieron en la misma calle",
+      "description": "La consellera de Salud de la Generalitat de Catalu\u00f1a, Olga Pan\u00e9, asegur\u00f3 este mi\u00e9rcoles que hace m\u00e1s de diez d\u00edas que no se registran m\u00e1s casos en el brote de dengue detectado en Vila-Seca (Tarragona), lo que \u201chace pensar que no tendremos otro cas\u2026",
+      "url": "https://www.huffingtonpost.es/politica/los-ocho-contagiados-dengue-vila-seca-residieron-calle.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/20/dengue.jpeg",
+      "publishedAt": "2024-09-20 08:55:01",
+      "content": "La consellera de Salud de la Generalitat de Catalu\u00f1a, Olga Pan\u00e9, asegur\u00f3 este mi\u00e9rcoles que hace m\u00e1s de diez d\u00edas que no se registran m\u00e1s casos en el brote de dengue detectado en Vila-Seca (Tarragona\u2026 [+1450 chars]",
+      "retrievedAt": "2024-09-21 19:05:30.036443",
+      "internal_id": "b953f3620d5dcb325693de81f68ead756c10a5c51bc9a090ba36b5a86f87a295",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13786,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Olivia Burke",
+      "title": "Top doctor who fell into coma explains what he experienced while \u2018in heaven\u2019",
+      "description": "American neurosurgeon Dr Eben Alexander revealed what he experienced 'in heaven' while in a medically-induced coma as he battled bacterial meningitis.",
+      "url": "https://www.ladbible.com/news/health/doctor-eben-alexander-heaven-experience-coma-meningitis-716763-20240920",
+      "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt46f326f0faf8063d/66ed2f884d785e0697131d5e/Top-doctor-heaven.png",
+      "publishedAt": "2024-09-20 08:40:21",
+      "content": "A top doctor who claims to have visited 'heaven' while he was in a coma has revealed what he experienced, which left him convinced that there is life after death. American neurosurgeon and author Dr\u2026 [+6873 chars]",
+      "retrievedAt": "2024-09-21 19:05:30.471403",
+      "internal_id": "50fbae321a9fa7aa7814faa2ae7ab522a5b3858d9b650ade791a9c6c79ff9549",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13780,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Jalisco, primer lugar en contagios de dengue; rechaz\u00f3 sistema de salud federal",
+      "description": "Guadalajara, Jal., Jalisco, cuyo gobernador, Enrique Alfaro, evit\u00f3 sumarse al sistema de salud federal con el argumento de que defender\u00eda al estado para que permaneciera \u201cindependiente\u201d de las decisiones centralistas, ocupa el segundo lugar nacional en casos \u2026",
+      "url": "https://www.jornada.com.mx/2024/09/20/estados/025n2est",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-09-20 08:25:58",
+      "content": "Peri\u00f3dico La JornadaViernes 20 de septiembre de 2024, p. 25 Guadalajara, Jal., Jalisco, cuyo gobernador, Enrique Alfaro, evit\u00f3 sumarse al sistema de salud federal con el argumento de que defender\u00eda \u2026 [+2031 chars]",
+      "retrievedAt": "2024-09-21 19:05:30.050998",
+      "internal_id": "ac83da8c07da8254e484050898d95c8b868281b153a1a7be4461e9dbd46ccce3",
+      "publishedAtLabel": "Sep 20"
+    },
     {
       "id": 13764,
       "query": [
@@ -38348,168 +39068,6 @@
       "content": "Ground Picture/Shutterstock So far in 2024 there have been more than 17,000 cases of whooping cough (pertussis) across Australia. This is well above our usual national average. It\u2019s already six time\u2026 [+7734 chars]",
       "retrievedAt": "2024-08-06 07:05:59.718814",
       "internal_id": "a8aca7ebf754534c7e7522880a93ace32555568ebfbddfc68c16474cd1c68f1f",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11638,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Hamsaveni N",
-      "title": "Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru",
-      "description": "BENGALURU: The post-Covid dip in blood collection at private blood banks across Bengaluru has had a ripple effect now: The current dengue surge - the .",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112270454,width-1070,height-580,imgsize-88292,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-04 19:03:11",
-      "content": "8 flowers and plants that will attract birds to your garden",
-      "retrievedAt": "2024-08-05 19:06:33.378068",
-      "internal_id": "35c6371fcd18fd95fa639b487c0a6258d2459868918be515c731ef339f3b6e25",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11635,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "svenska-dagbladet",
-      "source_name": "Svenska Dagbladet",
-      "author": "Marit Furn",
-      "title": "Stephen King minns inte att han skrivit boken",
-      "description": "RECENSION. I \u201dCujo\u201d skildrar skr\u00e4ckm\u00e4staren Stephen King en familj vars hund smittas av rabies och blir blodt\u00f6rstig. N\u00e4r Marit Furn \u00e5terv\u00e4nder till sin f\u00f6rsta vuxenbok ser hon sp\u00e5r av f\u00f6rfattarens egna problem mellan raderna.",
-      "url": "https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken",
-      "urlToImage": "https://svd.vgc.no/v2/images/5963db5d-7433-4677-9ede-aefb34d9b471?h=630&q=80&upscale=true&w=1200&s=b5ef319b52ecbd66c839d1021bb787b68695e248",
-      "publishedAt": "2024-08-04 18:14:17",
-      "content": "Pocketen med den hotfullt dreglande sankt bernadsk\u00e4ften p\u00e5 omslaget var den f\u00f6rsta vuxenbok jag l\u00e4ste p\u00e5 egen hand. Jag var tolv och hade redan fyllt ett ljusbl\u00e5tt skrivh\u00e4fte med egna sm\u00e5 skr\u00e4ckhisto\u2026 [+410 chars]",
-      "retrievedAt": "2024-08-05 19:06:32.284730",
-      "internal_id": "976b8e69793b364b4d7b0a1679096b41a6ca98be31abef42adca22cc2c26e11c",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11639,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "news24",
-      "source_name": "News24",
-      "author": "Ntwaagae Seleka",
-      "title": "News24 | Gauteng man who returned from Peru one of two new positive Mpox cases",
-      "description": "Two more laboratory-confirmed cases of Mpox disease have been detected in Gauteng and KwaZulu-Natal, increasing the number of cases to 24 countrywide. The recent cases come 26 days after the first Mpox cases were reported in South Africa.",
-      "url": "https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12005/52927e9345ee42a398d20300416fbd5e.jpg",
-      "publishedAt": "2024-08-04 17:36:50",
-      "content": "A man who returned from Peru is among two new confirmed cases of the Mpox disease.The second patient is a KwaZulu-Natal man with no international travel history.The number o\u2026 [+2274 chars]",
-      "retrievedAt": "2024-08-05 19:06:34.627881",
-      "internal_id": "37e26ea3704f19277cc0f30dc3708f1286a942f445f80d8b6e2530a52e68e357",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11641,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Lucas Liganga, Hua Hongli",
-      "title": "Tanzania steps up border surveillance as mpox cases reported in neighboring countries",
-      "description": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectious disease caused by the mpox virus, were reported in neighbo\u2026",
-      "url": "https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-08-04 17:25:00",
-      "content": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectiou\u2026 [+1601 chars]",
-      "retrievedAt": "2024-08-05 19:06:34.672152",
-      "internal_id": "8237f4e09e1f1fbab8ac1312f7fe595be473832097e28dea52046bfefa448da3",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11642,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The South African",
-      "author": "Nokwanda Ncwane",
-      "title": "Mpox latest: Department of Health calls for vigilance as cases re-emerge",
-      "description": "The Department of Health says of the 22 cases of Mpox recorded between May and July, 19 have fully recovered and three have died.",
-      "url": "https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/",
-      "urlToImage": "https://www.thesouthafrican.com/wp-content/uploads/2024/07/monkeypox-vaccinee-1200x776-1.jpg",
-      "publishedAt": "2024-08-04 16:15:00",
-      "content": "The Department of Health calls for ongoing public vigilance against Mpox disease as two more laboratory-confirmed cases have been detected in Gauteng and KwaZulu-Natal. The recent cases come 26 day\u2026 [+1712 chars]",
-      "retrievedAt": "2024-08-05 19:06:34.689903",
-      "internal_id": "e06ef9bb314a526bdcf4ea374f6637793af0fd09ec7f47f15f0deb798c52aa96",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11645,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Batac: Ilocos Norte ups measures vs. dengue after 2 deaths",
-      "description": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. \u201cThere is intensive information education campaign in every muni\u2026",
-      "url": "https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/08/bfp-dumalneg.jpg",
-      "publishedAt": "2024-08-04 14:27:32",
-      "content": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. The\u2026 [+1583 chars]",
-      "retrievedAt": "2024-08-06 07:06:01.244200",
-      "internal_id": "26ac7da7b8d3e328b303e2f8207f23d731f71d8ec0172bf1b07c5f1bec1a2549",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11640,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\u0412\u0438\u0440\u0443\u0441 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0443",
-      "description": "\u0412 \u0423\u0433\u0430\u043d\u0434\u0435 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d (Mpox). \u041e \u0434\u0432\u0443\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0445 \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 AFP. \u0421\u043b\u0443\u0447\u0430\u0438 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0430\u0445 \u041a\u0430\u0441\u0435\u0441\u0435 \u0438 \u041c\u043f\u043e\u043d\u0434\u0432\u0435. \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0423\u0433\u0430\u043d\u0434\u044b \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e, \u0447\u0442\u043e \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u044f \u043f\u0440\u0438\u0448\u043b\u0430 \u0438\u0437 \u0441\u043e\u0441\u0435\u0434\u043d\u0435\u0439 ...",
-      "url": "https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/693/15643693/20180530_gaf_uw8_1540-pic_32ratio_900x600-900x600-83778.jpg",
-      "publishedAt": "2024-08-04 14:26:07",
-      "content": ": .Ru (Gazeta.Ru) : \u00ab.\u00bb, 1067761730376, 7743625728 : 125239, , , , 67 : 117105, . , , .9, .1",
-      "retrievedAt": "2024-08-05 19:06:34.657950",
-      "internal_id": "f1cb32251d71a2a99841f1385c3790995f0fae5a96d8daeef8feb03fb2f3f13a",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11637,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Alarmante alza de contagios de dengue: OPS",
-      "description": "Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u00f3n de Centroam\u00e9rica, sostuvo Jorge Saavedra, director ejecutivo del Instituto Aids Healthcare Foundation de Salud P\u00fa\u2026",
-      "url": "https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-08-04 10:32:04",
-      "content": "Peri\u00f3dico La JornadaDomingo 4 de agosto de 2024, p. 27 Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u2026 [+2640 chars]",
-      "retrievedAt": "2024-08-05 19:06:33.364484",
-      "internal_id": "aedd625f819b1e21fcb3280d0254d4ecb1713066d06e71f3deae34b4728969f5",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 11636,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Berliner Morgenpost",
-      "author": "Kai Wiedermann",
-      "title": "Vogelgrippe: Virus pirscht sich n\u00e4her an den Menschen heran",
-      "description": "Erst V\u00f6gel, dann S\u00e4ugetiere und in Einzelf\u00e4llen auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippevirus H5N1 weiterentwickelt und welche Gefahr das birgt",
-      "url": "https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html",
-      "urlToImage": "https://img.sparknews.funkemedien.de/406930402/406930402_1722763108_v16_9_1600.jpeg",
-      "publishedAt": "2024-08-04 09:18:28",
-      "content": "Berlin. Erst infizierte es V\u00f6gel, dann S\u00e4ugetiere, vereinzelt auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippe-Virus weiterentwickelt. Ein neuer \u00dcbertragungsweg, eine neue Tierart: Das Vog\u2026 [+6074 chars]",
-      "retrievedAt": "2024-08-05 19:06:32.911510",
-      "internal_id": "de41770983aa84004a4ad1fa8019d8eef64fa9406d94c36853911a8129da24e8",
       "publishedAtLabel": "Aug 4"
     }
   ]

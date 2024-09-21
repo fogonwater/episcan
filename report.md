@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-09-21 07:06
-- **Most recent article:** 2024-09-20 06:51:22
+- **New articles in last harvest:** 40
+- **Last harvest:** 2024-09-21 19:05
+- **Most recent article:** 2024-09-20 18:39:43
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 138 | 292 | 208 | 207 | 184 | 192 | 103 | 1324 |
-| dengue | 44 | 52 | 64 | 45 | 49 | 76 | 60 | 390 |
-| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 11 | 127 |
-| h5n1 | 6 | 8 | 5 | 10 | 31 | 10 | 12 | 82 |
+| mpox | 134 | 292 | 208 | 207 | 184 | 192 | 122 | 1339 |
+| dengue | 41 | 52 | 64 | 45 | 49 | 76 | 66 | 393 |
+| malaria | 16 | 19 | 27 | 28 | 14 | 12 | 14 | 130 |
+| h5n1 | 5 | 8 | 5 | 10 | 31 | 10 | 13 | 82 |
 | zika | 11 | 10 | 21 | 2 | 6 | 10 | 7 | 67 |
+| rabies | 7 | 12 | 6 | 3 | 7 | 5 | 12 | 52 |
 | chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 9 | 50 |
-| measles | 6 | 3 | 7 | 11 | 9 | 5 | 7 | 48 |
-| rabies | 8 | 12 | 6 | 3 | 7 | 5 | 5 | 46 |
-| meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 4 | 42 |
+| measles | 6 | 3 | 7 | 11 | 9 | 5 | 8 | 49 |
+| meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 7 | 45 |
 | pertussis | 6 | 3 | 5 | 2 | 1 | 5 | 3 | 25 |
 | leptospirosis | 2 | 2 | 4 | 0 | 1 | 0 | 1 | 10 |
 | yersinia | 1 | 0 | 1 | 1 | 2 | 0 | 2 | 7 |
@@ -57,6 +57,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (rabies)
 
+- [Flera fall av rabies bland pälssälar i södra Afrika](https://svenska.yle.fi/a/7-10064224) (Svenska.yle.fi)
+
+- [Scientists Identify First Known Outbreak of Rabies in Seals](https://www.newsweek.com/rabies-first-outbreak-sea-mammals-seals-1956801) (Newsweek)
+
+- [Why is South Africa vaccinating seals and issuing warning against them?](https://economictimes.indiatimes.com/news/international/world-news/why-is-south-africa-vaccinating-seals-and-issuing-warning-against-them/articleshow/113523305.cms) (The Times of India)
+
+- [Scientists in South Africa say they have identified the first known outbreak of rabies in seals](https://phys.org/news/2024-09-scientists-south-africa-outbreak-rabies.html) (Phys.Org)
+
+- [Scientists in South Africa say they have identified the first known outbreak of rabies in seals](https://abcnews.go.com/Technology/wireStory/scientists-south-africa-identified-outbreak-rabies-seals-113866375) (ABC News)
+
+- [Scientists in South Africa say they have identified the first known outbreak of rabies in seals](https://abcnews.go.com/Health/wireStory/scientists-south-africa-identified-outbreak-rabies-seals-113866374) (ABC News)
+
+- [Scientists in South Africa say they have identified the first known outbreak of rabies in seals](https://abcnews.go.com/International/wireStory/scientists-south-africa-identified-outbreak-rabies-seals-113866372) (ABC News)
+
 - [Khlad noh ka nurse na ka jingpang ‘rabies’ hadien ka jingshah dait ksew](https://www.syllad.com/khlad-noh-ka-nurse-na-ka-jingpang-rabies-hadien-ka-jingshah-dait-ksew/) (Syllad.com)
 
 - [Meghalaya lost 32 years old nurse to rabies](https://www.syllad.com/meghalaya-lost-32-years-old-nurse-to-rabies/) (Syllad.com)
@@ -76,6 +90,44 @@ Source: [News API](https://newsapi.org/)
 - [College Football Game Canceled Over Whooping Cough Case and Exposure: Officials](https://www.theepochtimes.com/health/college-football-game-canceled-over-whooping-cough-case-and-exposure-officials-5724606) (Theepochtimes.com)
 
 ## 24-38 (mpox)
+
+- [Mpox spreads at alarming rate among children in Burundi](https://www.voanews.com/a/mpox-spreads-at-alarming-rate-among-children-in-burundi/7792425.html) (VOA News)
+
+- [Study suggests waning mpox protection from Jynneos vaccine, CIDRAP reports](https://thefly.com/permalinks/entry.php/id3986611/BVNRY;EBS;GOVX-Study-suggests-waning-mpox-protection-from-Jynneos-vaccine-CIDRAP-reports) (Thefly.com)
+
+- [Rwanda : contre la variole du singe, «il nous faudra bien plus de vaccins»](https://www.liberation.fr/international/afrique/rwanda-contre-la-variole-du-singe-il-nous-faudra-bien-plus-de-vaccins-20240920_SGDYAXPORFGB5GMBD4RENE2L6M/) (Libération)
+
+- [Quase um terço dos infetados com Mpox no Burundi tem menos de 5 anos, segundo a UNICEF](https://observador.pt/2024/09/20/quase-um-terco-dos-infetados-com-mpox-no-burundi-tem-menos-de-5-anos-segundo-a-unicef/) (Observador.pt)
+
+- [Mpox vaccine for adolescents and eight new medicines receive EMA approval](https://www.euractiv.com/section/health-consumers/news/mpox-vaccine-for-adolescents-and-eight-new-medicines-receive-ema-approval/) (EURACTIV)
+
+- [UNICEF Puts Children Front And Center In Mpox Response](https://www.forbes.com/sites/unicefusa/2024/09/20/unicef-puts-children-front-and-center-in-mpox-response/) (Forbes)
+
+- [Mpox : Au Burundi, un tiers des malades de la variole du singe a moins de 5 ans](https://www.dhnet.be/actu/monde/2024/09/20/mpox-au-burundi-un-tiers-des-malades-de-la-variole-du-singe-a-moins-de-5-ans-LMM24RFTY5B5RCCWZ2AC3TPSTM/) (dh.be)
+
+- [WHO warnt vor rapider Mpox-Ausbreitung in Afrika](https://www.diepresse.com/18883133/who-warnt-vor-rapider-mpox-ausbreitung-in-afrika) (Diepresse.com)
+
+- [UNICEF: Burundi'deki M çiçeği vakalarının yüzde 30'u 5 yaş altı çocuklardan oluşuyor](https://www.aa.com.tr/tr/saglik/unicef-burundideki-m-cicegi-vakalarinin-yuzde-30u-5-yas-alti-cocuklardan-olusuyor/3335866) (Anadolu Agency)
+
+- [Kinder besonders gefährdet - Affenpocken breiten sich in Afrika rapide aus](https://www.bild.de/leben-wissen/medizin/affenpocken-kleine-kinder-in-afrika-besonders-gefaehrdet-66ed5bec5836f81a5ab7304e) (Bild)
+
+- [Fighting mpox stigma key to ending Burundi outbreak quickly, UNICEF says](https://www.investing.com/news/world-news/fighting-mpox-stigma-key-to-ending-burundi-outbreak-quickly-unicef-says-3625421) (Investing.com)
+
+- [Rapide Ausbreitung von Mpox in Afrika](https://science.orf.at/stories/3226814/) (Science.orf.at)
+
+- [Mpox: uma nova pandemia?](https://www.terra.com.br/vida-e-estilo/saude/mpox-uma-nova-pandemia,c6e983831b3b53f59256c659f193141ajy8qonip.html) (Terra.com.br)
+
+- [WHO Authorizes First Monkeypox Vaccine to Combat Africa’s Current Outbreak](https://legalinsurrection.com/2024/09/who-authorizes-first-monkeypox-vaccine-to-combat-africas-current-outbreak/) (Legalinsurrection.com)
+
+- [Bruxelas autoriza vacinação de adolescentes contra Mpox após recomendação do regulador](https://observador.pt/2024/09/20/bruxelas-autoriza-vacinacao-de-adolescentes-contra-mpox-apos-recomendacao-do-regulador/) (Observador.pt)
+
+- [Mpox: Rapide Ausbreitung von Mpox in Afrika](https://www.tagesspiegel.de/wissen/mpox-rapide-ausbreitung-von-mpox-in-afrika-12406634.html) (Der Tagesspiegel)
+
+- [Mpox: Rapide Ausbreitung von Mpox in Afrika](https://www.zeit.de/news/2024-09/20/rapide-ausbreitung-von-mpox-in-afrika) (Die Zeit)
+
+- [Mpox: Rapide Ausbreitung von Mpox in Afrika](https://www.stern.de/panorama/wissen/mpox--rapide-ausbreitung-von-mpox-in-afrika-35080612.html) (STERN.de)
+
+- [La EMA recomienda ampliar a adolescentes la indicación de la vacuna contra mpox](https://www.infosalus.com/asistencia/noticia-ema-recomienda-ampliar-adolescentes-indicacion-vacuna-contra-mpox-20240920120510.html) (Infosalus.com)
 
 - [La première campagne de vaccination contre le mpox en Afrique a débuté au Rwanda](https://fr.sputniknews.africa/20240920/la-premiere-campagne-de-vaccination-contre-le-mpox-en-afrique-a-debute-au-rwanda-1068347525.html) (Sputniknews.africa)
 
@@ -285,6 +337,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (meningitis)
 
+- [Aoife Johnston report: Circumstances around teen’s death at Limerick hospital ‘almost certainly avoidable’](https://www.irishtimes.com/health/2024/09/20/aoife-johnston-report-circumstances-around-teens-death-at-limerick-hospital-almost-certainly-avoidable/) (The Irish Times)
+
+- [Se queda en coma por una meningitis y descubre que su empresa le ha despedido tras despertar](https://www.20minutos.es/gonzoo/noticia/5635791/0/gana-una-demanda-contra-empresa-que-le-despidio-mientras-estaba-coma/) (20minutos.es)
+
+- [Top doctor who fell into coma explains what he experienced while ‘in heaven’](https://www.ladbible.com/news/health/doctor-eben-alexander-heaven-experience-coma-meningitis-716763-20240920) (LADbible)
+
 - [Despedido de su trabajo mientras está en coma: una historia de injusticia laboral resuelta en los tribunales](https://www.meneame.net/m/actualidad/despedido-trabajo-mientras-esta-coma-historia-injusticia-laboral) (Meneame.net)
 
 - [Student's meningitis warning to undergraduates](https://www.bbc.com/news/articles/cn0eew949xzo) (BBC News)
@@ -294,6 +352,8 @@ Source: [News API](https://newsapi.org/)
 - [Saint John mother wants routine meningitis B vaccines after nearly losing daughter](https://www.cbc.ca/news/canada/new-brunswick/meningitis-b-vaccination-meningococcal-1.7320400) (CBC News)
 
 ## 24-38 (measles)
+
+- [Zambia launches measles vaccination campaign for 4 million children](https://www.thestar.com.my/news/world/2024/09/21/zambia-launches-measles-vaccination-campaign-for-4-million-children) (The Star Online)
 
 - [C’River begins measles campaign Oct](https://punchng.com/criver-begins-measles-campaign-oct/) (The Punch)
 
@@ -310,6 +370,12 @@ Source: [News API](https://newsapi.org/)
 - [As measles cases increase, experts warn against vaccine skepticism](https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/) (CBS News)
 
 ## 24-38 (malaria)
+
+- [Mortalidad por malaria, tuberculosis y sida se redujo en un 61 % en dos décadas](https://www.montevideo.com.uy/Salud/Mortalidad-por-malaria-tuberculosis-y-sida-se-redujo-en-un-61--en-dos-decadas-uc900868) (Montevideo.com.uy)
+
+- [NPPV Strategies for Acute COPD, Malaria Rapid Tests in Africa, Review of Pneumonia, and more](https://edhub.ama-assn.org/jn-learning/audio-player/18913621) (American Medical Association)
+
+- [UNGA: Progress In Global Health Shows The Path To A Safer, More Secure World](https://www.forbes.com/sites/petersands/2024/09/20/unga-progress-in-global-health-shows-the-path-to-a-safer-more-secure-world/) (Forbes)
 
 - [Understanding the significance of oxygen tension on the biology of Plasmodium falciparum blood stages: From the human body to the laboratory](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012514) (Plos.org)
 
@@ -339,6 +405,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (h5n1)
 
+- [The Avian Flu Outbreak Remains a Concern—And We Still Aren’t Ready to Respond](https://insights.som.yale.edu/insights/the-avian-flu-outbreak-remains-concern-and-we-still-arent-ready-to-respond) (Yale.edu)
+
 - [Wastewater Surveillance for Influenza A Virus and H5 Subtype Concurrent with the Highly Pathogenic Avian Influenza A(H5N1) Virus Outbreak in Cattle and Poultry and Associated Human Cases - United States, May 12-July 13, 2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7337a1.htm) (Cdc.gov)
 
 - [Why virologists are getting increasingly nervous about bird flu](https://www.technologyreview.com/2024/09/19/1104183/virologists-increasingly-nervous-bird-flu/) (MIT Technology Review)
@@ -364,6 +432,18 @@ Source: [News API](https://newsapi.org/)
 - [On H5N1 bird flu, the U.S. can and should do more, a top WHO official says](https://www.statnews.com/2024/09/16/h5n1-spread-cow-herds-us-response-who-pandemic-preparedness/) (STAT)
 
 ## 24-38 (dengue)
+
+- [6-yr-old dies of dengue within 48hrs after developing fever](https://timesofindia.indiatimes.com/city/bengaluru/tragic-death-of-6-year-old-from-dengue-fever-shocks-bengaluru-community/articleshow/113534482.cms) (The Times of India)
+
+- [Chau invierno: este fin de semana arranca la primavera y así estará el tiempo, según Serra](https://www.montevideo.com.uy/Noticias/Chau-invierno-este-fin-de-semana-arranca-la-primavera-y-asi-estara-el-tiempo-segun-Serra-uc900852) (Montevideo.com.uy)
+
+- [Researchers discover immune response to dengue can predict risk of severe reinfections](https://www.sciencedaily.com/releases/2024/09/240920112552.htm) (Science Daily)
+
+- [Spatio-temporal patterns of dengue in Bangladesh during 2019 to 2023: Implications for targeted control strategies](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012503) (Plos.org)
+
+- [Los ocho contagiados por dengue en Vila - Seca residieron en la misma calle](https://www.huffingtonpost.es/politica/los-ocho-contagiados-dengue-vila-seca-residieron-calle.html) (Huffingtonpost.es)
+
+- [Jalisco, primer lugar en contagios de dengue; rechazó sistema de salud federal](https://www.jornada.com.mx/2024/09/20/estados/025n2est) (Jornada.com.mx)
 
 - [Komitmen Atasi DBD, Wamenkes Dante: Keberhasilan Penanggulangan Dengue Perlu Dukungan Semua Pihak](https://www.liputan6.com/health/read/5706733/komitmen-atasi-dbd-wamenkes-dante-keberhasilan-penanggulangan-dengue-perlu-dukungan-semua-pihak) (Liputan6.com)
 
@@ -4197,8 +4277,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Factors associated with the spatiotemporal distribution of dog rabies in Tunisia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012296) (Plos.org)
 
-- [Stephen King minns inte att han skrivit boken](https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken) (Svenska Dagbladet)
-
 ## 24-32 (pertussis)
 
 - [State issues public health alert over rising rates of whooping cough](https://www.alaskasnewssource.com/2024/08/08/state-issues-public-health-alert-over-rising-rates-whooping-cough/) (Alaskasnewssource.com)
@@ -4483,14 +4561,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO considers convening emergency committee on mpox](https://punchng.com/who-considers-convening-emergency-committee-on-mpox/) (The Punch)
 
-- [News24 | Gauteng man who returned from Peru one of two new positive Mpox cases](https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804) (News24)
-
-- [Tanzania steps up border surveillance as mpox cases reported in neighboring countries](https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries) (The Star Online)
-
-- [Mpox latest: Department of Health calls for vigilance as cases re-emerge](https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/) (The South African)
-
-- [Вирус оспы обезьян атаковал новую страну](https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml) (Gazeta.ru)
-
 ## 24-32 (meningitis)
 
 - [Burden and bacterial etiology of neonatal meningitis at Hawassa University Comprehensive Specialized Hospital, Hawassa, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308523) (Plos.org)
@@ -4572,8 +4642,6 @@ Source: [News API](https://newsapi.org/)
 - [Why Isn’t the Government Protecting Farm Workers From the Bird Flu?](https://newrepublic.com/article/184589/bird-flu-dairy-farm-workers-government-regulations) (The New Republic)
 
 - [Cocirculation of Genetically Distinct Highly Pathogenic Avian Influenza H5N5 and H5N1 Viruses in Crows, Hokkaido, Japan](https://wwwnc.cdc.gov/eid/article/30/9/24-0356_article) (Cdc.gov)
-
-- [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
 
@@ -4658,12 +4726,6 @@ Source: [News API](https://newsapi.org/)
 - [La preocupante lista de la OMS con los patógenos que podrían disparar la próxima pandemia](https://www.nationalgeographic.com.es/ciencia/amenaza-invisible-oms-actualiza-lista-patogenos-pandemicos_22960) (Nationalgeographic.com.es)
 
 - [Brasil se aproxima de 5 mil mortes por dengue em 2024](https://saude.ig.com.br/2024-08-04/brasil-se-aproxima-de-5-mil-mortes-por-dengue-em-2024.html) (Ig.com.br)
-
-- [Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms) (The Times of India)
-
-- [Batac: Ilocos Norte ups measures vs. dengue after 2 deaths](https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/) (Rpnradio.com)
-
-- [Alarmante alza de contagios de dengue: OPS](https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-32 (chikungunya)
 
