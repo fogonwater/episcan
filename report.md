@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 33
-- **Last harvest:** 2024-09-20 19:05
-- **Most recent article:** 2024-09-19 17:56:44
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-09-21 07:06
+- **Most recent article:** 2024-09-20 06:51:22
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-32 | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 134 | 292 | 208 | 207 | 184 | 192 | 95 | 1312 |
-| dengue | 41 | 52 | 64 | 45 | 49 | 76 | 53 | 380 |
+| mpox | 138 | 292 | 208 | 207 | 184 | 192 | 103 | 1324 |
+| dengue | 44 | 52 | 64 | 45 | 49 | 76 | 60 | 390 |
 | malaria | 16 | 19 | 27 | 28 | 14 | 12 | 11 | 127 |
-| h5n1 | 5 | 8 | 5 | 10 | 31 | 10 | 12 | 81 |
+| h5n1 | 6 | 8 | 5 | 10 | 31 | 10 | 12 | 82 |
 | zika | 11 | 10 | 21 | 2 | 6 | 10 | 7 | 67 |
-| chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 8 | 49 |
+| chikungunya | 4 | 8 | 10 | 1 | 5 | 13 | 9 | 50 |
 | measles | 6 | 3 | 7 | 11 | 9 | 5 | 7 | 48 |
-| rabies | 7 | 12 | 6 | 3 | 7 | 5 | 5 | 45 |
-| meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 3 | 41 |
-| pertussis | 6 | 3 | 5 | 2 | 1 | 5 | 2 | 24 |
+| rabies | 8 | 12 | 6 | 3 | 7 | 5 | 5 | 46 |
+| meningitis | 5 | 8 | 11 | 5 | 6 | 3 | 4 | 42 |
+| pertussis | 6 | 3 | 5 | 2 | 1 | 5 | 3 | 25 |
 | leptospirosis | 2 | 2 | 4 | 0 | 1 | 0 | 1 | 10 |
 | yersinia | 1 | 0 | 1 | 1 | 2 | 0 | 2 | 7 |
 | hpai | 1 | 1 | 1 | 0 | 3 | 1 | 0 | 7 |
@@ -69,11 +69,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (pertussis)
 
+- [Whooping cough wave now worst in almost a decade amid back-to-school surge](https://www.cbsnews.com/news/whooping-cough-pertussis-back-to-school-surge/) (CBS News)
+
 - [Jefferson County Health Dept. reports increase in whooping cough](https://www.wmtv15news.com/2024/09/16/jefferson-county-health-dept-reports-increase-whooping-cough/) (Wmtv15news.com)
 
 - [College Football Game Canceled Over Whooping Cough Case and Exposure: Officials](https://www.theepochtimes.com/health/college-football-game-canceled-over-whooping-cough-case-and-exposure-officials-5724606) (Theepochtimes.com)
 
 ## 24-38 (mpox)
+
+- [La première campagne de vaccination contre le mpox en Afrique a débuté au Rwanda](https://fr.sputniknews.africa/20240920/la-premiere-campagne-de-vaccination-contre-le-mpox-en-afrique-a-debute-au-rwanda-1068347525.html) (Sputniknews.africa)
+
+- [Majomhimlő: fontos bejelentés érkezett a vakcinákról](https://www.portfolio.hu/gazdasag/20240920/majomhimlo-fontos-bejelentes-erkezett-a-vakcinakrol-711085) (Portfolio.hu)
+
+- [Infektionskrankheit: Ruanda beginnt Impfkampagne gegen Mpox](https://www.zeit.de/gesundheit/2024-09/mpox-impfkampagne-impfung-ruanda-afrika-infektionskrankheit-affenpocken) (Die Zeit)
+
+- [Rwanda begins vaccinations against mpox amid a call for more doses for Africa](https://abcnews.go.com/Health/wireStory/rwanda-begins-vaccinations-mpox-amid-call-doses-africa-113860910) (ABC News)
+
+- [Lack of funding for disease research affecting Africa – Prof Ogoina](https://punchng.com/lack-of-funding-for-disease-research-affecting-africa-prof-ogoina/) (The Punch)
+
+- [Mpox vaccines administered in Rwanda, first in Africa](https://japantoday.com/category/world/mpox-vaccines-administered-in-rwanda-first-in-africa) (Japan Today)
+
+- [Mpox: l'EMA donne son feu vert à une vaccination des jeunes](https://www.lalibre.be/planete/sante/2024/09/19/mpox-lema-donne-son-feu-vert-a-une-vaccination-des-jeunes-MEVNKV343RGEHCW5WJVALGJFJ4/) (Lalibre.be)
 
 - [Mpox: regulador recomenda alargar vacinação a adolescentes](https://observador.pt/2024/09/19/mpox-regulador-recomenda-alargar-vacinacao-a-adolescentes/) (Observador.pt)
 
@@ -110,6 +126,8 @@ Source: [News API](https://newsapi.org/)
 - [WHO acts to boost access to mpox vaccine](https://www.bmj.com/content/386/bmj.q2024) (The BMJ)
 
 - [Bavarian Nordic Receives EMA Approval of Mpox Vaccine for Adolescents](https://www.globenewswire.com/news-release/2024/09/19/2949111/0/en/Bavarian-Nordic-Receives-EMA-Approval-of-Mpox-Vaccine-for-Adolescents.html) (GlobeNewswire)
+
+- [हरदम संक्रामक बीमारियों से घिरा होकर भी अफ्रीका क्यों नहीं बना पा रहा वैक्सीन?](https://www.aajtak.in/explained/story/why-africa-struggles-to-make-vaccines-amid-mpox-health-emergency-mdj-2046589-2024-09-19) (Aajtak.in)
 
 - [Vacina já existente pode oferecer proteção contra mpox](https://olhardigital.com.br/2024/09/19/medicina-e-saude/vacina-ja-existente-pode-oferecer-protecao-contra-mpox/) (Olhardigital.com.br)
 
@@ -267,6 +285,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (meningitis)
 
+- [Despedido de su trabajo mientras está en coma: una historia de injusticia laboral resuelta en los tribunales](https://www.meneame.net/m/actualidad/despedido-trabajo-mientras-esta-coma-historia-injusticia-laboral) (Meneame.net)
+
 - [Student's meningitis warning to undergraduates](https://www.bbc.com/news/articles/cn0eew949xzo) (BBC News)
 
 - [Report into Aoife Johnston’s death at UHL to be published next week, says HSE](https://www.irishtimes.com/health/2024/09/17/report-into-aoife-johnstons-death-at-uhl-to-be-published-next-week-says-hse/) (The Irish Times)
@@ -345,6 +365,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (dengue)
 
+- [Komitmen Atasi DBD, Wamenkes Dante: Keberhasilan Penanggulangan Dengue Perlu Dukungan Semua Pihak](https://www.liputan6.com/health/read/5706733/komitmen-atasi-dbd-wamenkes-dante-keberhasilan-penanggulangan-dengue-perlu-dukungan-semua-pihak) (Liputan6.com)
+
+- [Soudan: les autorités annoncent 348 décès liés au choléra](https://fr.sputniknews.africa/20240920/soudan-les-autorites-annoncent-348-deces-lies-au-cholera-1068347327.html) (Sputniknews.africa)
+
+- [Si tiene o tuvo dengue vigile estos síntomas, pueden ser señales de alarma](https://www.nacion.com/ciencia/salud/si-tiene-o-tuvo-dengue-vigile-estos-sintomas/ZBUNJ3M3RNG2ZDSYLMED4CGU2A/story/) (Nacion.com)
+
+- [Fall is approaching, but mosquito season isn't over](https://www.nbcnews.com/health/health-news/mosquito-season-dengue-west-nile-eee-cases-rcna171333) (NBC News)
+
+- [Muertes sospechosas por dengue en Costa Rica suben a 13](https://www.nacion.com/ciencia/salud/muertes-sospechosas-por-dengue-en-costa-rica-suben/PFP4K5VEH5HRBBATDY4Y32LN5I/story/) (Nacion.com)
+
+- [Suman 11 muertes por dengue en Oaxaca; hospitales reportan ocupación del 52%](https://www.milenio.com/estados/suman-11-muertes-por-dengue-en-oaxaca) (Milenio)
+
 - [Los Angeles County reports dengue fever cluster acquired from local mosquitoes](https://www.foxnews.com/health/los-angeles-county-reports-dengue-fever-cluster-acquired-local-mosquitoes) (Fox News)
 
 - [Brasil antecipa campanha contra dengue após 6,5 mi de casos em 2024](https://www.terra.com.br/vida-e-estilo/saude/brasil-antecipa-campanha-contra-dengue-apos-65-mi-de-casos-em-2024,afdc169fe0c3e76da6ae555809ff45a578x0r224.html) (Terra.com.br)
@@ -368,6 +400,8 @@ Source: [News API](https://newsapi.org/)
 - [Los Angeles area sees more dengue fever in people bitten by local mosquitoes](https://abcnews.go.com/Health/wireStory/los-angeles-area-sees-dengue-fever-people-bitten-113824687) (ABC News)
 
 - [Los Angeles area sees more dengue fever in people bitten by local mosquitoes](https://abcnews.go.com/US/wireStory/los-angeles-area-sees-dengue-fever-people-bitten-113824686) (ABC News)
+
+- [D-Fense Pro Tecidos é eficaz contra carrapato transmissor da febre maculosa](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/especial-publicitario/d-fense-pro/noticia/2024/09/18/d-fense-pro-tecidos-e-eficaz-contra-carrapato-transmissor-da-febre-maculosa.ghtml) (Globo)
 
 - [Los Angeles area sees more dengue fever in people bitten by local mosquitoes](https://www.bostonherald.com/2024/09/18/los-angeles-area-sees-more-dengue-fever-in-people-bitten-by-local-mosquitoes/) (Boston Herald)
 
@@ -452,6 +486,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue infection hits 9,500 nationwide, claims 6 lives](https://english.khabarhub.com/2024/15/397656/) (Khabarhub.com)
 
 ## 24-38 (chikungunya)
+
+- [Eksotiske myg og flåter på vej mod Danmark: Nu kommer SSI med en advarsel](https://ing.dk/artikel/eksotiske-myg-og-flaater-paa-vej-mod-danmark-nu-kommer-ssi-med-en-advarsel) (Ing.dk)
 
 - [Ministério da Saúde distribui armadilhas para combater mosquito da dengue](https://veja.abril.com.br/coluna/radar/ministerio-da-saude-distribui-armadilhas-para-combater-mosquito-da-dengue) (Abril.com.br)
 
@@ -4161,6 +4197,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Factors associated with the spatiotemporal distribution of dog rabies in Tunisia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012296) (Plos.org)
 
+- [Stephen King minns inte att han skrivit boken](https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken) (Svenska Dagbladet)
+
 ## 24-32 (pertussis)
 
 - [State issues public health alert over rising rates of whooping cough](https://www.alaskasnewssource.com/2024/08/08/state-issues-public-health-alert-over-rising-rates-whooping-cough/) (Alaskasnewssource.com)
@@ -4445,6 +4483,14 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO considers convening emergency committee on mpox](https://punchng.com/who-considers-convening-emergency-committee-on-mpox/) (The Punch)
 
+- [News24 | Gauteng man who returned from Peru one of two new positive Mpox cases](https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804) (News24)
+
+- [Tanzania steps up border surveillance as mpox cases reported in neighboring countries](https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries) (The Star Online)
+
+- [Mpox latest: Department of Health calls for vigilance as cases re-emerge](https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/) (The South African)
+
+- [Вирус оспы обезьян атаковал новую страну](https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml) (Gazeta.ru)
+
 ## 24-32 (meningitis)
 
 - [Burden and bacterial etiology of neonatal meningitis at Hawassa University Comprehensive Specialized Hospital, Hawassa, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308523) (Plos.org)
@@ -4526,6 +4572,8 @@ Source: [News API](https://newsapi.org/)
 - [Why Isn’t the Government Protecting Farm Workers From the Bird Flu?](https://newrepublic.com/article/184589/bird-flu-dairy-farm-workers-government-regulations) (The New Republic)
 
 - [Cocirculation of Genetically Distinct Highly Pathogenic Avian Influenza H5N5 and H5N1 Viruses in Crows, Hokkaido, Japan](https://wwwnc.cdc.gov/eid/article/30/9/24-0356_article) (Cdc.gov)
+
+- [Vogelgrippe: Virus pirscht sich näher an den Menschen heran](https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html) (Berliner Morgenpost)
 
 ## 24-32 (dengue)
 
@@ -4610,6 +4658,12 @@ Source: [News API](https://newsapi.org/)
 - [La preocupante lista de la OMS con los patógenos que podrían disparar la próxima pandemia](https://www.nationalgeographic.com.es/ciencia/amenaza-invisible-oms-actualiza-lista-patogenos-pandemicos_22960) (Nationalgeographic.com.es)
 
 - [Brasil se aproxima de 5 mil mortes por dengue em 2024](https://saude.ig.com.br/2024-08-04/brasil-se-aproxima-de-5-mil-mortes-por-dengue-em-2024.html) (Ig.com.br)
+
+- [Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms) (The Times of India)
+
+- [Batac: Ilocos Norte ups measures vs. dengue after 2 deaths](https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/) (Rpnradio.com)
+
+- [Alarmante alza de contagios de dengue: OPS](https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 24-32 (chikungunya)
 

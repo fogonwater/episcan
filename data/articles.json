@@ -1,8 +1,296 @@
 {
-  "last_updated": "2024-09-20 19:05",
-  "count_articles_total": 2107,
-  "count_articles_new": 33,
+  "last_updated": "2024-09-21 07:06",
+  "count_articles_total": 2134,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 13764,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "La premi\u00e8re campagne de vaccination contre le mpox en Afrique a d\u00e9but\u00e9 au Rwanda",
+      "description": "Plusieurs centaines de vaccins contre le mpox ont \u00e9t\u00e9 administr\u00e9s depuis mardi au Rwanda, dans le cadre de la premi\u00e8re campagne d'immunisation men\u00e9e sur le continent africain o\u00f9 l'\u00e9pid\u00e9mie \"n'est pas sous contr\u00f4le\", a annonc\u00e9 jeudi l'agence Africa CDC.",
+      "url": "https://fr.sputniknews.africa/20240920/la-premiere-campagne-de-vaccination-contre-le-mpox-en-afrique-a-debute-au-rwanda-1068347525.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1068347525.jpg?10678475121726815083",
+      "publishedAt": "2024-09-20 06:51:22",
+      "content": "https://fr.sputniknews.africa/20240920/la-premiere-campagne-de-vaccination-contre-le-mpox-en-afrique-a-debute-au-rwanda-1068347525.html La premi\u00e8re campagne de vaccination contre le mpox en Afrique \u2026 [+2583 chars]",
+      "retrievedAt": "2024-09-21 07:06:10.615691",
+      "internal_id": "211ec27ad5c9a3953377336949c7bc456d8ba29820c661aad1c42da47684ad2d",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13758,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Dyah Puspita Wisnuwardani",
+      "title": "Komitmen Atasi DBD, Wamenkes Dante: Keberhasilan Penanggulangan Dengue Perlu Dukungan Semua Pihak",
+      "description": "penanggulangan dengue juga memerlukan dukungan semua pihak, kolaboasi lintas-sektor dinilai sangat penting agar pencegahan dan pengendalian dengue efektif.",
+      "url": "https://www.liputan6.com/health/read/5706733/komitmen-atasi-dbd-wamenkes-dante-keberhasilan-penanggulangan-dengue-perlu-dukungan-semua-pihak",
+      "urlToImage": "https://cdn0-production-images-kly.akamaized.net/hOfDxVvN6VQvBDwAX8RrxxXfWog=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4948688/original/045471100_1726812591-Foto_1_-_Diskusi_Media_Takeda_Indonesia.JPG",
+      "publishedAt": "2024-09-20 06:35:31",
+      "content": "Upaya Indonesia mengatasi DBD ini mendapat apresiasi Takeda Global, seperti disampaikan President Global Vaccine Business Unit Takeda dr Derek Wallace pada kunjungannya ke Indonesia, bagian dari rang\u2026 [+1868 chars]",
+      "retrievedAt": "2024-09-21 07:06:06.979396",
+      "internal_id": "30f118bb34c572a88077d4132b0c10e7f94ccf420f92df21d051f384391afec5",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13765,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Majomhiml\u0151: fontos bejelent\u00e9s \u00e9rkezett a vakcin\u00e1kr\u00f3l",
+      "description": "Az Eur\u00f3pai Uni\u00f3 gy\u00f3gyszerfel\u00fcgyeleti hat\u00f3s\u00e1ga enged\u00e9lyezte az mpox vakcina haszn\u00e1lat\u00e1t serd\u00fcl\u0151kn\u00e9l.",
+      "url": "https://www.portfolio.hu/gazdasag/20240920/majomhimlo-fontos-bejelentes-erkezett-a-vakcinakrol-711085",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/j/majomhimlo-virus-698127.jpg",
+      "publishedAt": "2024-09-20 06:35:00",
+      "content": "A Bavarian Nordic \u00e1ltal gy\u00e1rtott JYNNEOS vakcin\u00e1t az amerikai \u00c9lelmiszer- \u00e9s Gy\u00f3gyszer\u00fcgyi Hivatal (FDA) kor\u00e1bban csak 18 \u00e9ves \u00e9s idsebb felnttek sz\u00e1m\u00e1ra enged\u00e9lyezte, b\u00e1r a 2022-es mpox-j\u00e1rv\u00e1ny idej\u2026 [+1077 chars]",
+      "retrievedAt": "2024-09-21 07:06:10.643346",
+      "internal_id": "5e6d558ed76e9a10a598f71c5caa6871f2854bf16ab16e65392c1c0b8889d8d8",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13753,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Alg\u00e9rie Presse Service (APS)",
+      "title": "Soudan: les autorit\u00e9s annoncent 348 d\u00e9c\u00e8s li\u00e9s au chol\u00e9ra",
+      "description": "Les autorit\u00e9s soudanaises ont annonc\u00e9 le 19 septembre que les infections au chol\u00e9ra s'\u00e9taient \u00e9lev\u00e9es \u00e0 plus de 11.000 cas, dont 348 d\u00e9c\u00e8s depuis ao\u00fbt dernier, et que deux d\u00e9c\u00e8s dus \u00e0 la dengue avaient \u00e9t\u00e9 enregistr\u00e9s.",
+      "url": "https://fr.sputniknews.africa/20240920/soudan-les-autorites-annoncent-348-deces-lies-au-cholera-1068347327.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1068347327.jpg?10524828731726810168",
+      "publishedAt": "2024-09-20 05:29:27",
+      "content": "https://fr.sputniknews.africa/20240920/soudan-les-autorites-annoncent-348-deces-lies-au-cholera-1068347327.html Soudan: les autorit\u00e9s annoncent 348 d\u00e9c\u00e8s li\u00e9s au chol\u00e9ra Soudan: les autorit\u00e9s annon\u2026 [+2524 chars]",
+      "retrievedAt": "2024-09-21 07:06:06.838767",
+      "internal_id": "16ace1698b75f9e405a92433f1817cdf8b12c8dbc21ba62306689f973021583f",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13760,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ing.dk",
+      "author": "Mie Stage",
+      "title": "Eksotiske myg og fl\u00e5ter p\u00e5 vej mod Danmark: Nu kommer SSI med en advarsel",
+      "description": "Den danske overv\u00e5gning af sygdomsfremkaldende myg og fl\u00e5ter er for sporadisk og \u00bbhulter til bulter,\u00ab lyder det fra SSI og Pandemix-centret p\u00e5 RUC, som fremh\u00e6ver behovet for et beredskab.",
+      "url": "https://ing.dk/artikel/eksotiske-myg-og-flaater-paa-vej-mod-danmark-nu-kommer-ssi-med-en-advarsel",
+      "urlToImage": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2024-09/Culex%20modestus%20foto%20alexis_orion%20%281%29.jpeg?itok=7DKD8nJj",
+      "publishedAt": "2024-09-20 03:00:00",
+      "content": "Myg og fl\u00e5ter, der kan tr\u00e6kke potentielt farlige eksotiske virus som Vestnilvirus, Chikungunya eller Krim-Congo febervirus hertil landet, er i gang med at tr\u00e6kke op mod Danmark som f\u00f8lge af klimafora\u2026 [+179 chars]",
+      "retrievedAt": "2024-09-21 07:06:09.854186",
+      "internal_id": "29008693713848ec3a01493a220c4ca4c1374f30af9e9eada1f8999a98fce26d",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13761,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Rita Lauter",
+      "title": "Infektionskrankheit: Ruanda beginnt Impfkampagne gegen Mpox",
+      "description": "Im Kampf gegen Mpox ben\u00f6tigt der gesamte afrikanische Kontintent etwa zehn Millionen Impfdosen. In Ruanda ist die Impfkampagne jetzt angelaufen.",
+      "url": "https://www.zeit.de/gesundheit/2024-09/mpox-impfkampagne-impfung-ruanda-afrika-infektionskrankheit-affenpocken",
+      "urlToImage": "https://img.zeit.de/gesundheit/2024-09/mpox-impfkampagne-impfung-ruanda-afrika-infektionskrankheit-affenpocken-bild/wide__1300x731",
+      "publishedAt": "2024-09-20 02:43:31",
+      "content": "In Ruanda ist eine Impfkampagne gegen die Infektionskrankheit Mpox angelaufen. Die afrikanische Gesundheitsbeh\u00f6rde Africa CDC teilte mit, das Land habe 1.000 Impfdosen als Spende aus Nigeria gegen di\u2026 [+1788 chars]",
+      "retrievedAt": "2024-09-21 07:06:10.544384",
+      "internal_id": "82bff368ca7bd2743d8f3d808626e68206b98e75da42ceaa28cdc3d1af2caf7c",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13766,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "EVELYNE MUSAMBI Associated Press",
+      "title": "Rwanda begins vaccinations against mpox amid a call for more doses for Africa",
+      "description": "The African health agency says that Rwanda has started a vaccination campaign against mpox with 1,000 doses it obtained from Nigeria",
+      "url": "https://abcnews.go.com/Health/wireStory/rwanda-begins-vaccinations-mpox-amid-call-doses-africa-113860910",
+      "urlToImage": "https://i.abcnewsfe.com/a/6a77fd42-a066-47e1-bdf8-d0d191a7d2ba/wirestory_1df62ff2e46e5bedbf63e6274952355f_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-20 01:02:37",
+      "content": "NAIROBI, Kenya -- Rwanda has started a vaccination campaign against mpox with 1,000 doses of the vaccine it obtained from Nigeria under an agreement between the two countries, the African health agen\u2026 [+2108 chars]",
+      "retrievedAt": "2024-09-21 07:06:10.722583",
+      "internal_id": "f0979eace36c1a772b5d2acf117eb54dbb78fde1dd25cf9d0408e716de87a0d0",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13763,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Samuel Ese",
+      "title": "Lack of funding for disease research affecting Africa \u2013 Prof Ogoina",
+      "description": "Professor Dimie Ogoina, an infectious disease specialist and Chief Medical Director, Niger Delta University Teaching Hospital, Okolobiri talks about the Mpox disease, the challenges facing the continent in tackling infectious diseases and more, in this interv\u2026",
+      "url": "https://punchng.com/lack-of-funding-for-disease-research-affecting-africa-prof-ogoina/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/09/19221500/OGOINA.jpg",
+      "publishedAt": "2024-09-20 00:58:03",
+      "content": "Professor Dimie Ogoina, an infectious disease specialist and Chief Medical Director, Niger Delta University Teaching Hospital, Okolobiri talks about the Mpox disease, the challenges facing the contin\u2026 [+15655 chars]",
+      "retrievedAt": "2024-09-21 07:06:10.605790",
+      "internal_id": "24b24ffe5f4499b34ef5a6b3e308bdeaa9ebb18d13c9aa5539139eb74868d609",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13752,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Si tiene o tuvo dengue vigile estos s\u00edntomas, pueden ser se\u00f1ales de alarma",
+      "description": "Las se\u00f1ales de alarma en el dengue se dan unos d\u00edas despu\u00e9s, cuando la persona se siente recuperada. Si tiene estos s\u00edntomas debe ir al hospital.",
+      "url": "https://www.nacion.com/ciencia/salud/si-tiene-o-tuvo-dengue-vigile-estos-sintomas/ZBUNJ3M3RNG2ZDSYLMED4CGU2A/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/Q327K4UUCJEAJO245F64OZOARE.jpg?smart=true&auth=5fc68fd5273a8dce115fe23817dbc3368f8755272522432878bbb44a09be1467&width=1440",
+      "publishedAt": "2024-09-20 00:49:39",
+      "content": "A usted le diagnosticaron dengue. Despu\u00e9s de siete d\u00edas de fiebre, debilidad, dolor de cabeza y fuertes dolores detr\u00e1s de los ojos, se siente recuperado. Aunque en la mayor\u00eda de los casos esto es as\u00ed\u2026 [+2177 chars]",
+      "retrievedAt": "2024-09-21 07:06:06.823528",
+      "internal_id": "989e6cf91c260cd2ec22f12491bf7599ada8547a7282c3847384f4343e8f380f",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13762,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Mpox vaccines administered in Rwanda, first in Africa",
+      "description": "Mpox vaccines have been administered in Africa for the first time, with several hundred high-risk individuals vaccinated in Rwanda, the African Union's disease control centre said Thursday. The first 300 doses were administered on Tuesday near the border with\u2026",
+      "url": "https://japantoday.com/category/world/mpox-vaccines-administered-in-rwanda-first-in-africa",
+      "urlToImage": null,
+      "publishedAt": "2024-09-19 21:33:58",
+      "content": "Mpox vaccines have been administered in Africa for the first time, with several hundred high-risk individuals vaccinated in Rwanda, the African Union's disease control centre said Thursday. The firs\u2026 [+2506 chars]",
+      "retrievedAt": "2024-09-21 07:06:10.559168",
+      "internal_id": "79733436781e35a32cfe3d968b534e6cbc5b6ebdb563461c010bd41208039970",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13754,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix and Joe Murphy",
+      "title": "Fall is approaching, but mosquito season isn't over",
+      "description": "Mosquito season isn't over. Charts and maps show where dengue, West Nile and eastern equine encephalitis have been detected and how this year stacks up to the past.",
+      "url": "https://www.nbcnews.com/health/health-news/mosquito-season-dengue-west-nile-eee-cases-rcna171333",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-09/240916-mosquito-bite-se-240p-9ba808.jpg",
+      "publishedAt": "2024-09-19 21:09:28",
+      "content": "Jennifer White, a New York state epidemiologist, has a reminder as summers end approaches: It may be pumpkin spice season, but its not the end of mosquito season. August and September are the peak \u2026 [+6552 chars]",
+      "retrievedAt": "2024-09-21 07:06:06.848750",
+      "internal_id": "b0e66ed14be6a78c626f44a6646ccaea634a7d4c946a31f96c444406d7a0fc33",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13756,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Muertes sospechosas por dengue en Costa Rica suben a 13",
+      "description": "OPS confirma que el mundo vive la peor epidemia de dengue en la historia de la enfermedad, piden estar alertas a signos de alarma.",
+      "url": "https://www.nacion.com/ciencia/salud/muertes-sospechosas-por-dengue-en-costa-rica-suben/PFP4K5VEH5HRBBATDY4Y32LN5I/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/MHX63KQYGZHK7EQ77YUZN3IPFQ.JPG?smart=true&auth=cfc2166281a2022a0763638957029da2ab8253caac09f263a324e720d61e802b&width=1440",
+      "publishedAt": "2024-09-19 20:59:40",
+      "content": "Las muertes que se investigan por dengue en Costa Ricasubieron a 13, confirm\u00f3 el Ministerio de Salud la tarde de este 19 de setiembre, una m\u00e1s de las que se contabilizaban hace dos semanas. Todav\u00eda n\u2026 [+2021 chars]",
+      "retrievedAt": "2024-09-21 07:06:06.944231",
+      "internal_id": "9a7ffcd8333b463fa4301662452e33f2514beccdd414502e9de37c9071fc19f9",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13751,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "Whooping cough wave now worst in almost a decade amid back-to-school surge",
+      "description": "Many of the pertussis infections have been reported in older children and adults.",
+      "url": "https://www.cbsnews.com/news/whooping-cough-pertussis-back-to-school-surge/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/18/7b0c92f0-fad5-4c82-92b2-3ad897a7425d/thumbnail/1200x630/8622c3d588bc5a726d56403e7a749c19/backpacks.jpg?v=159d4576ec63c034c87559bf5085176a",
+      "publishedAt": "2024-09-19 20:55:00",
+      "content": "South Jersey family shares scary experience with whooping cough South Jersey family shares scary experience with whooping cough02:12 This year's resurgence of whooping cough cases has now accelera\u2026 [+4914 chars]",
+      "retrievedAt": "2024-09-21 07:06:03.844192",
+      "internal_id": "047e5b479401c4f34246d570037afff4e3642e7c32bc26e7db83bcf9f68df94f",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13755,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "\u00d3scar Rodr\u00edguez",
+      "title": "Suman 11 muertes por dengue en Oaxaca; hospitales reportan ocupaci\u00f3n del 52%",
+      "description": "Se elev\u00f3 a 11 el n\u00famero de v\u00edctimas por dengueen Oaxaca, mientras que la ocupaci\u00f3n hospitalaria se report\u00f3 en 52 por ciento, inform\u00f3 la Secretar\u00eda de Salud del estado.El subsecretario de Prevenci\u00f3n en la dependencia Ignacio Zarate Blasreport\u00f3 que las nuevas m\u2026",
+      "url": "https://www.milenio.com/estados/suman-11-muertes-por-dengue-en-oaxaca",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/09/19/secretaria-salud-oaxaca-reporto-aumento.jpg",
+      "publishedAt": "2024-09-19 19:51:28",
+      "content": "Se elev\u00f3 a 11 el n\u00famero de v\u00edctimas por dengue en Oaxaca, mientras que la ocupaci\u00f3n hospitalaria se report\u00f3 en 52 por ciento, inform\u00f3 la Secretar\u00eda de Salud del estado. El subsecretario de Prevenci\u00f3\u2026 [+1712 chars]",
+      "retrievedAt": "2024-09-21 07:06:06.854079",
+      "internal_id": "12f6ffed89392f46a647ea0d9efca2c89df69db00d6004912de3db9cb54603dd",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13759,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "xkapesitua",
+      "title": "Despedido de su trabajo mientras est\u00e1 en coma: una historia de injusticia laboral resuelta en los tribunales",
+      "description": "Un trabajador en Tenerife ha vivido una pesadilla doble: enfermar gravemente y perder su empleo sin saberlo. Fue despedido mientras se encontraba en coma debido a una meningitis neumoc\u00f3cica. Tras varios meses inconsciente, se despert\u00f3 y descubri\u00f3 que su empre\u2026",
+      "url": "https://www.meneame.net/m/actualidad/despedido-trabajo-mientras-esta-coma-historia-injusticia-laboral",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-09-19 19:46:38",
+      "content": "\"la empresa del sector energ\u00e9tico en la que trabajaba\" Vaya, se han vuelto a olvidar de poner el nombre, \u00bfpor qu\u00e9 ser\u00e1?",
+      "retrievedAt": "2024-09-21 07:06:07.271456",
+      "internal_id": "1eaf45b43b3dde8d30be060acb87d1431288a13ffb53835687219b1eb95dd963",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 13767,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Belga Belga",
+      "title": "Mpox: l'EMA donne son feu vert \u00e0 une vaccination des jeunes",
+      "description": "L'agence europ\u00e9enne du m\u00e9dicament (EMA) a approuv\u00e9 jeudi la vaccination des jeunes avec le vaccin contre le Mpox de l'entreprise pharmaceutique danoise Bavarian Nordic. ...",
+      "url": "https://www.lalibre.be/planete/sante/2024/09/19/mpox-lema-donne-son-feu-vert-a-une-vaccination-des-jeunes-MEVNKV343RGEHCW5WJVALGJFJ4/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/PPXLCA5YYRHNVIPD3PST55GPGA.jpg?auth=365fe0268863153da3f702593557098f7b7c0ff1f80ad01a52e4a18531a90195&width=1200&height=630&quality=85&focal=2113%2C1408&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2024-09-19 19:08:53",
+      "content": "L'EMA a d\u00e9cid\u00e9 de mener ce d\u00e9ploiement sur la base des r\u00e9sultats interm\u00e9diaires d'une \u00e9tude qui compare l'efficacit\u00e9 du vaccin chez les adolescents et les adultes. Cette \u00e9tude a montr\u00e9 que la r\u00e9ponse\u2026 [+1010 chars]",
+      "retrievedAt": "2024-09-21 07:06:10.793904",
+      "internal_id": "9bf335191ccd5c406728b22337f7b4fafbac6107b38e28dd00ec2b0c63b4881b",
+      "publishedAtLabel": "Sep 19"
+    },
     {
       "id": 13733,
       "query": [
@@ -508,6 +796,24 @@
       "publishedAtLabel": "Sep 19"
     },
     {
+      "id": 13768,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u0939\u0930\u0926\u092e \u0938\u0902\u0915\u094d\u0930\u093e\u092e\u0915 \u092c\u0940\u092e\u093e\u0930\u093f\u092f\u094b\u0902 \u0938\u0947 \u0918\u093f\u0930\u093e \u0939\u094b\u0915\u0930 \u092d\u0940 \u0905\u092b\u094d\u0930\u0940\u0915\u093e \u0915\u094d\u092f\u094b\u0902 \u0928\u0939\u0940\u0902 \u092c\u0928\u093e \u092a\u093e \u0930\u0939\u093e \u0935\u0948\u0915\u094d\u0938\u0940\u0928?",
+      "description": "\u092e\u0939\u0940\u0928\u094b\u0902 \u0915\u0940 \u0926\u0947\u0930\u0940 \u0915\u0947 \u092c\u093e\u0926 Mpox \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0915\u0940 \u092a\u0939\u0932\u0940 \u0916\u0947\u092a \u0939\u093e\u0932 \u092e\u0947\u0902 \u0921\u0947\u092e\u094b\u0915\u094d\u0930\u0947\u091f\u093f\u0915 \u0930\u093f\u092a\u092c\u094d\u0932\u093f\u0915 \u0911\u092b \u0915\u093e\u0902\u0917\u094b \u092a\u0939\u0941\u0902\u091a \u0938\u0915\u0940. \u092f\u0947 \u0905\u092b\u094d\u0930\u0940\u0915\u0940 \u0926\u0947\u0936 \u092e\u0902\u0915\u0940\u092a\u0949\u0915\u094d\u0938 \u0915\u094b \u0932\u0947\u0915\u0930 \u0926\u0941\u0928\u093f\u092f\u093e\u092d\u0930 \u0915\u0940 \u091a\u093f\u0902\u0924\u093e \u092c\u0922\u093c\u093e\u090f \u0939\u0941\u090f \u0939\u0948. \u092f\u0939\u093e\u0902 \u0924\u0915 \u0915\u093f \u0935\u0930\u094d\u0932\u094d\u0921 \u0939\u0947\u0932\u094d\u0925 \u0911\u0930\u094d\u0917\u0947\u0928\u093e\u0907\u091c\u0947\u0936\u0928 (WHO) \u092d\u0940 \u0907\u0938\u0947 \u0932\u0947\u0915\u0930 \u091a\u0947\u0924\u093e \u0930\u0939\u093e \u0939\u0948. \u0932\u0947\u0915\u093f\u0928 \u0915\u093e\u0902\u0917\u094b \u0938\u0947 \u0932\u0947\u0915\u0930 \u0932\u0917\u092d\u0917 \u0915\u094b\u0908 \u092d\u2026",
+      "url": "https://www.aajtak.in/explained/story/why-africa-struggles-to-make-vaccines-amid-mpox-health-emergency-mdj-2046589-2024-09-19",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202409/66ebe50a79d57-why-africa-struggles-to-make-vaccines-amid-mpox-health-emergency-194704733-16x9.jpg",
+      "publishedAt": "2024-09-19 08:58:02",
+      "content": "Mpox . . . . 2 . , . Mpox , , . . . 99 , 50 . . . . , , . , . . . WHO , 2 . 54 40 . 2021 10 , , , , . , . , , . . . . - . . , , . . . , . , . . , , . . . , . . , .",
+      "retrievedAt": "2024-09-21 07:06:10.808846",
+      "internal_id": "7c763a3afa48e5202b5abafd2c8fe556eb9ed069ac315fa98b71a0a3f016d07a",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
       "id": 13718,
       "query": [
         "h5n1"
@@ -957,6 +1263,24 @@
       "content": "Every year, the World Health Organization (WHO) summarises global progress on malaria control. It details the number of cases in affected countries, shows year-on-year changes, outlines goals, and as\u2026 [+4781 chars]",
       "retrievedAt": "2024-09-20 07:06:42.000741",
       "internal_id": "d323cbd65b9cd157b6c408511f31abb0759850e740ab51eaa1ff49ba18bf8212",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 13757,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "D-Fense Pro Tecidos \u00e9 eficaz contra carrapato transmissor da febre maculosa",
+      "description": "Aplicado sobre as roupas e seguro para qualquer idade, produto garante prote\u00e7\u00e3o de 24 horas tamb\u00e9m contra micuins, \u00e1caros e o infame mosquito da dengue D-Fense Pro Tecidos n\u00e3o mancha, seca r\u00e1pido e n\u00e3o deixa cheiro Cr\u00e9dito: Divulga\u00e7\u00e3o Muitas vezes despercebid\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/especial-publicitario/d-fense-pro/noticia/2024/09/18/d-fense-pro-tecidos-e-eficaz-contra-carrapato-transmissor-da-febre-maculosa.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/hX6rL8y9G-DkTM5jVldjLBELLUE=/1280x0/https://s03.video.glbimg.com/x720/12933666.jpg",
+      "publishedAt": "2024-09-18 20:53:08",
+      "content": "S\u00f3 em 2023, segundo o minist\u00e9rio, foram registrados 358 casos no Brasil, com 59 mortes. Uma das raz\u00f5es que explicam o risco aumentado para os paulistas \u00e9 a exist\u00eancia de muitos lugares favor\u00e1veis \u00e0\u2026 [+3120 chars]",
+      "retrievedAt": "2024-09-21 07:06:06.968798",
+      "internal_id": "71cd30522fd3847350da819e6066e04c7152d8e80788eb316655d23f908da2f0",
       "publishedAtLabel": "Sep 18"
     },
     {
@@ -38024,6 +38348,168 @@
       "content": "Ground Picture/Shutterstock So far in 2024 there have been more than 17,000 cases of whooping cough (pertussis) across Australia. This is well above our usual national average. It\u2019s already six time\u2026 [+7734 chars]",
       "retrievedAt": "2024-08-06 07:05:59.718814",
       "internal_id": "a8aca7ebf754534c7e7522880a93ace32555568ebfbddfc68c16474cd1c68f1f",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11638,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Hamsaveni N",
+      "title": "Dengue effect: Supply-hit blood banks struggle as platelet demand goes up in Bengaluru",
+      "description": "BENGALURU: The post-Covid dip in blood collection at private blood banks across Bengaluru has had a ripple effect now: The current dengue surge - the .",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-effect-supply-hit-blood-banks-struggle-as-platelet-demand-goes-up-in-bengaluru/articleshow/112270440.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112270454,width-1070,height-580,imgsize-88292,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-08-04 19:03:11",
+      "content": "8 flowers and plants that will attract birds to your garden",
+      "retrievedAt": "2024-08-05 19:06:33.378068",
+      "internal_id": "35c6371fcd18fd95fa639b487c0a6258d2459868918be515c731ef339f3b6e25",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11635,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Marit Furn",
+      "title": "Stephen King minns inte att han skrivit boken",
+      "description": "RECENSION. I \u201dCujo\u201d skildrar skr\u00e4ckm\u00e4staren Stephen King en familj vars hund smittas av rabies och blir blodt\u00f6rstig. N\u00e4r Marit Furn \u00e5terv\u00e4nder till sin f\u00f6rsta vuxenbok ser hon sp\u00e5r av f\u00f6rfattarens egna problem mellan raderna.",
+      "url": "https://www.svd.se/a/qPPO3e/stephen-king-minns-inte-att-han-skrivit-boken",
+      "urlToImage": "https://svd.vgc.no/v2/images/5963db5d-7433-4677-9ede-aefb34d9b471?h=630&q=80&upscale=true&w=1200&s=b5ef319b52ecbd66c839d1021bb787b68695e248",
+      "publishedAt": "2024-08-04 18:14:17",
+      "content": "Pocketen med den hotfullt dreglande sankt bernadsk\u00e4ften p\u00e5 omslaget var den f\u00f6rsta vuxenbok jag l\u00e4ste p\u00e5 egen hand. Jag var tolv och hade redan fyllt ett ljusbl\u00e5tt skrivh\u00e4fte med egna sm\u00e5 skr\u00e4ckhisto\u2026 [+410 chars]",
+      "retrievedAt": "2024-08-05 19:06:32.284730",
+      "internal_id": "976b8e69793b364b4d7b0a1679096b41a6ca98be31abef42adca22cc2c26e11c",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11639,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Ntwaagae Seleka",
+      "title": "News24 | Gauteng man who returned from Peru one of two new positive Mpox cases",
+      "description": "Two more laboratory-confirmed cases of Mpox disease have been detected in Gauteng and KwaZulu-Natal, increasing the number of cases to 24 countrywide. The recent cases come 26 days after the first Mpox cases were reported in South Africa.",
+      "url": "https://www.news24.com/news24/southafrica/news/gauteng-man-who-returned-from-peru-one-of-two-new-positive-mpox-cases-20240804",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12005/52927e9345ee42a398d20300416fbd5e.jpg",
+      "publishedAt": "2024-08-04 17:36:50",
+      "content": "A man who returned from Peru is among two new confirmed cases of the Mpox disease.The second patient is a KwaZulu-Natal man with no international travel history.The number o\u2026 [+2274 chars]",
+      "retrievedAt": "2024-08-05 19:06:34.627881",
+      "internal_id": "37e26ea3704f19277cc0f30dc3708f1286a942f445f80d8b6e2530a52e68e357",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11641,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Lucas Liganga, Hua Hongli",
+      "title": "Tanzania steps up border surveillance as mpox cases reported in neighboring countries",
+      "description": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectious disease caused by the mpox virus, were reported in neighbo\u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/08/05/tanzania-steps-up-border-surveillance-as-mpox-cases-reported-in-neighboring-countries",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-08-04 17:25:00",
+      "content": "DAR ES SALAAM, Aug. 4 (Xinhua) -- Tanzanian health authorities said on Sunday that they have reinforced surveillance at the country's border entry points after cases of mpox (monkeypox), an infectiou\u2026 [+1601 chars]",
+      "retrievedAt": "2024-08-05 19:06:34.672152",
+      "internal_id": "8237f4e09e1f1fbab8ac1312f7fe595be473832097e28dea52046bfefa448da3",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11642,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The South African",
+      "author": "Nokwanda Ncwane",
+      "title": "Mpox latest: Department of Health calls for vigilance as cases re-emerge",
+      "description": "The Department of Health says of the 22 cases of Mpox recorded between May and July, 19 have fully recovered and three have died.",
+      "url": "https://www.thesouthafrican.com/news/mpox-latest-department-of-health-calls-for-vigilance-as-cases-re-emerge-kzn/",
+      "urlToImage": "https://www.thesouthafrican.com/wp-content/uploads/2024/07/monkeypox-vaccinee-1200x776-1.jpg",
+      "publishedAt": "2024-08-04 16:15:00",
+      "content": "The Department of Health calls for ongoing public vigilance against Mpox disease as two more laboratory-confirmed cases have been detected in Gauteng and KwaZulu-Natal. The recent cases come 26 day\u2026 [+1712 chars]",
+      "retrievedAt": "2024-08-05 19:06:34.689903",
+      "internal_id": "e06ef9bb314a526bdcf4ea374f6637793af0fd09ec7f47f15f0deb798c52aa96",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11645,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Batac: Ilocos Norte ups measures vs. dengue after 2 deaths",
+      "description": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. \u201cThere is intensive information education campaign in every muni\u2026",
+      "url": "https://rpnradio.com/batac-ilocos-norte-ups-measures-vs-dengue-after-2-deaths/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/08/bfp-dumalneg.jpg",
+      "publishedAt": "2024-08-04 14:27:32",
+      "content": "The Ilocos Norte Provincial Health Office (PHO) has intensified its information and education drive on dengue fever after recording two fatalities out of the total 146 cases as of July 20, 2024. The\u2026 [+1583 chars]",
+      "retrievedAt": "2024-08-06 07:06:01.244200",
+      "internal_id": "26ac7da7b8d3e328b303e2f8207f23d731f71d8ec0172bf1b07c5f1bec1a2549",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11640,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.ru",
+      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
+      "title": "\u0412\u0438\u0440\u0443\u0441 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043b \u043d\u043e\u0432\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0443",
+      "description": "\u0412 \u0423\u0433\u0430\u043d\u0434\u0435 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d (Mpox). \u041e \u0434\u0432\u0443\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0445 \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 AFP. \u0421\u043b\u0443\u0447\u0430\u0438 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0430\u0445 \u041a\u0430\u0441\u0435\u0441\u0435 \u0438 \u041c\u043f\u043e\u043d\u0434\u0432\u0435. \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0423\u0433\u0430\u043d\u0434\u044b \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e, \u0447\u0442\u043e \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u044f \u043f\u0440\u0438\u0448\u043b\u0430 \u0438\u0437 \u0441\u043e\u0441\u0435\u0434\u043d\u0435\u0439 ...",
+      "url": "https://www.gazeta.ru/science/news/2024/08/04/23606539.shtml",
+      "urlToImage": "https://img.gazeta.ru/files3/693/15643693/20180530_gaf_uw8_1540-pic_32ratio_900x600-900x600-83778.jpg",
+      "publishedAt": "2024-08-04 14:26:07",
+      "content": ": .Ru (Gazeta.Ru) : \u00ab.\u00bb, 1067761730376, 7743625728 : 125239, , , , 67 : 117105, . , , .9, .1",
+      "retrievedAt": "2024-08-05 19:06:34.657950",
+      "internal_id": "f1cb32251d71a2a99841f1385c3790995f0fae5a96d8daeef8feb03fb2f3f13a",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11637,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Alarmante alza de contagios de dengue: OPS",
+      "description": "Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u00f3n de Centroam\u00e9rica, sostuvo Jorge Saavedra, director ejecutivo del Instituto Aids Healthcare Foundation de Salud P\u00fa\u2026",
+      "url": "https://www.jornada.com.mx/2024/08/04/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-08-04 10:32:04",
+      "content": "Peri\u00f3dico La JornadaDomingo 4 de agosto de 2024, p. 27 Debido a la actual temporada de lluvias, la expectativa es que la cantidad de casos de dengue aumente significativamente en M\u00e9xico y en la regi\u2026 [+2640 chars]",
+      "retrievedAt": "2024-08-05 19:06:33.364484",
+      "internal_id": "aedd625f819b1e21fcb3280d0254d4ecb1713066d06e71f3deae34b4728969f5",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 11636,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Kai Wiedermann",
+      "title": "Vogelgrippe: Virus pirscht sich n\u00e4her an den Menschen heran",
+      "description": "Erst V\u00f6gel, dann S\u00e4ugetiere und in Einzelf\u00e4llen auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippevirus H5N1 weiterentwickelt und welche Gefahr das birgt",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article406926934/vogelgrippe-virus-pirscht-sich-naeher-an-den-menschen-heran.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406930402/406930402_1722763108_v16_9_1600.jpeg",
+      "publishedAt": "2024-08-04 09:18:28",
+      "content": "Berlin. Erst infizierte es V\u00f6gel, dann S\u00e4ugetiere, vereinzelt auch Menschen. Experten erkl\u00e4ren, wie sich das Vogelgrippe-Virus weiterentwickelt. Ein neuer \u00dcbertragungsweg, eine neue Tierart: Das Vog\u2026 [+6074 chars]",
+      "retrievedAt": "2024-08-05 19:06:32.911510",
+      "internal_id": "de41770983aa84004a4ad1fa8019d8eef64fa9406d94c36853911a8129da24e8",
       "publishedAtLabel": "Aug 4"
     }
   ]
