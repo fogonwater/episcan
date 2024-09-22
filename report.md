@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-09-22 07:06
-- **Most recent article:** 2024-09-21 06:56:11
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-09-22 19:05
+- **Most recent article:** 2024-09-21 18:34:54
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | Total |
 |--|-|-|-|-|-|-|-|
-| mpox | 288 | 208 | 207 | 184 | 192 | 125 | 1204 |
-| dengue | 50 | 64 | 45 | 49 | 76 | 70 | 354 |
+| mpox | 285 | 208 | 207 | 184 | 192 | 128 | 1204 |
+| dengue | 48 | 64 | 45 | 49 | 76 | 72 | 354 |
 | malaria | 18 | 27 | 28 | 14 | 12 | 15 | 114 |
 | h5n1 | 8 | 5 | 10 | 31 | 10 | 16 | 80 |
 | zika | 10 | 21 | 2 | 6 | 10 | 8 | 57 |
+| rabies | 12 | 6 | 3 | 7 | 5 | 13 | 46 |
 | chikungunya | 8 | 10 | 1 | 5 | 13 | 9 | 46 |
-| rabies | 12 | 6 | 3 | 7 | 5 | 12 | 45 |
+| meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 43 |
 | measles | 3 | 7 | 11 | 9 | 5 | 8 | 43 |
-| meningitis | 8 | 11 | 5 | 6 | 3 | 8 | 41 |
 | pertussis | 3 | 5 | 2 | 1 | 5 | 3 | 19 |
 | leptospirosis | 1 | 4 | 0 | 1 | 0 | 1 | 7 |
 | yersinia | 0 | 1 | 1 | 2 | 0 | 2 | 6 |
@@ -58,6 +58,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (rabies)
 
+- [Chemung County Health Dept. to host free rabies clinic](https://www.wbng.com/2024/09/20/chemung-county-health-dept-host-free-rabies-clinic/) (WBNG-TV)
+
 - [Flera fall av rabies bland pälssälar i södra Afrika](https://svenska.yle.fi/a/7-10064224) (Svenska.yle.fi)
 
 - [Scientists Identify First Known Outbreak of Rabies in Seals](https://www.newsweek.com/rabies-first-outbreak-sea-mammals-seals-1956801) (Newsweek)
@@ -91,6 +93,12 @@ Source: [News API](https://newsapi.org/)
 - [College Football Game Canceled Over Whooping Cough Case and Exposure: Officials](https://www.theepochtimes.com/health/college-football-game-canceled-over-whooping-cough-case-and-exposure-officials-5724606) (Theepochtimes.com)
 
 ## 24-38 (mpox)
+
+- [Mpox sprer seg raskt: – Alle bør være bekymret](https://www.vg.no/helse/i/wgvjQM/mpox-sprer-seg-raskt-alle-boer-vaere-bekymret) (Www.vg.no)
+
+- [Pilz-Infektionen: Experten warnen vor „verborgenen Killern“](https://www.morgenpost.de/ratgeber-wissen/article407267338/pilz-infektionen-experten-warnen-vor-verborgenen-killern.html) (Berliner Morgenpost)
+
+- [Ο Ευρωπαϊκός Οργανισμός Φαρμάκων συνιστά το εμβόλιο για την ευλογιά των πιθήκων σε εφήβους από 12 έως 17 ετών](https://www.newsit.gr/ellada/eylogia-ton-pithikon-o-eyropaikos-organismos-farmakon-synista-to-emvolio-se-efivous-apo-12-eos-17-eton/4185817/) (Newsit.gr)
 
 - [Mpox: la situation épidémique au Burundi "particulièrement inquiétante" parmi les enfants](https://fr.sputniknews.africa/20240921/mpox-la-situation-epidemique-au-burundi-particulierement-inquietante-parmi-les-enfants--1068362665.html) (Sputniknews.africa)
 
@@ -344,6 +352,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (meningitis)
 
+- [meningitis pediatric health nursing kmu BSN 5th semester](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeQU9Gvyhec0) (YouTube)
+
+- [Woman Left With No Family, Then Deceased Mom's Old Boyfriend Steps Up](https://www.newsweek.com/woman-left-no-family-deceased-moms-boyfriend-steps-1951503) (Newsweek)
+
 - [Aoife Johnston: Report into girl’s ‘avoidable’ death warns of ‘risk of reoccurrence’ at UHL](https://www.irishtimes.com/health/2024/09/21/aoife-johnston-report-warns-avoidable-death-could-reoccur-at-uhl-if-issues-remain-unresolved/) (The Irish Times)
 
 - [Aoife Johnston report: Circumstances around teen’s death at Limerick hospital ‘almost certainly avoidable’](https://www.irishtimes.com/health/2024/09/20/aoife-johnston-report-circumstances-around-teens-death-at-limerick-hospital-almost-certainly-avoidable/) (The Irish Times)
@@ -449,6 +461,10 @@ Source: [News API](https://newsapi.org/)
 - [On H5N1 bird flu, the U.S. can and should do more, a top WHO official says](https://www.statnews.com/2024/09/16/h5n1-spread-cow-herds-us-response-who-pandemic-preparedness/) (STAT)
 
 ## 24-38 (dengue)
+
+- [Suman cinco muertos por dengue en Colima](https://www.milenio.com/estados/casos-de-dengue-van-en-aumento-colima) (Milenio)
+
+- [Se triplica el dengue en comparación con 2023: Ssa](https://www.jornada.com.mx/2024/09/21/politica/008n2pol) (Jornada.com.mx)
 
 - [Dengue, Zika e gli altri arbovirus, il virologo: “La colonizzazione è in corso anche in Italia. Il West Nile ormai è endemico”](https://www.ilfattoquotidiano.it/2024/09/21/dengue-zika-virologo-colonizzazione-italia-west-nile-endemico/7695399/) (Ilfattoquotidiano.it)
 
@@ -4022,12 +4038,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO Schedules Emergency Meeting Over Mpox Outbreak](https://www.theepochtimes.com/health/who-schedules-emergency-meeting-over-mpox-outbreak-5703755) (Theepochtimes.com)
 
-- [Sorge wegen Ausbreitung des Mpox-Virus in Afrika](https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html) (Faz.net)
-
-- [Epidemia de „variola maimuței” se răspândește în mai multe țări africane. OMS convoacă un comitet de urgență](https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979) (Digi24.ro)
-
-- [Nouvelle épidémie de Mpox : "On sait ce qu’est une pandémie, et on n’en veut pas"](https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/) (L'Express)
-
 ## 24-33 (meningitis)
 
 - [Local pharmacist blamed for deaths in U.S. meningitis outbreak will plead no contest in Michigan case](https://www.boston.com/news/local-news/2024/08/17/pharmacist-blamed-for-deaths-in-u-s-meningitis-outbreak-will-plead-no-contest-in-michigan-case/) (Boston.com)
@@ -4215,10 +4225,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue confirmed in 1,369 people in Gandaki](https://english.khabarhub.com/2024/12/376904/) (Khabarhub.com)
 
 - [Eco-friendly mosquito killer to help control dengue spread in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/eco-friendly-mosquito-killer-to-help-control-dengue-spread-in-bengaluru/articleshow/112449641.cms) (The Times of India)
-
-- [One dies of dengue; 202 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511) (Tbsnews.net)
-
-- [Oropouche-Ausbruch weitet sich aus](https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html) (DIE WELT)
 
 ## 24-33 (chikungunya)
 
