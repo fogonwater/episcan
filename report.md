@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-09-23 07:06
-- **Most recent article:** 2024-09-22 06:13:57
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-09-23 19:05
+- **Most recent article:** 2024-09-22 18:57:53
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 288 | 208 | 207 | 184 | 192 | 132 | 2 | 1213 |
-| dengue | 50 | 64 | 45 | 49 | 76 | 73 | 2 | 359 |
+| mpox | 285 | 208 | 207 | 184 | 192 | 133 | 2 | 1211 |
+| dengue | 48 | 64 | 45 | 49 | 76 | 73 | 5 | 360 |
 | malaria | 18 | 27 | 28 | 14 | 12 | 15 | 0 | 114 |
-| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 0 | 81 |
+| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 2 | 83 |
 | zika | 10 | 21 | 2 | 6 | 10 | 8 | 0 | 57 |
 | rabies | 12 | 6 | 3 | 7 | 5 | 13 | 0 | 46 |
 | chikungunya | 8 | 10 | 1 | 5 | 13 | 9 | 0 | 46 |
 | meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 0 | 43 |
 | measles | 3 | 7 | 11 | 9 | 5 | 8 | 0 | 43 |
-| pertussis | 3 | 5 | 2 | 1 | 5 | 3 | 1 | 20 |
+| pertussis | 3 | 5 | 2 | 1 | 5 | 3 | 2 | 21 |
+| hpai | 1 | 1 | 0 | 3 | 1 | 0 | 2 | 8 |
 | leptospirosis | 1 | 4 | 0 | 1 | 0 | 1 | 0 | 7 |
 | yersinia | 0 | 1 | 1 | 2 | 0 | 2 | 0 | 6 |
-| hpai | 1 | 1 | 0 | 3 | 1 | 0 | 0 | 6 |
 | typhoid | 1 | 2 | 1 | 1 | 0 | 0 | 0 | 5 |
 
 
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (pertussis)
 
+- [What to do if you or your kid gets COVID-19 this fall](https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679) (CBC News)
+
 - [Whooping cough cases are soaring. Can infecting people help test a better vaccine?](https://www.wxii12.com/article/whooping-cough-cases-soaring-vaccine/62305261) (WXII12 Winston-Salem)
 
 ## 24-39 (mpox)
@@ -42,7 +44,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Efforts to tackle mpox intensify over vaccine hesitancy](https://punchng.com/efforts-to-tackle-mpox-intensify-over-vaccine-hesitancy/) (The Punch)
 
+## 24-39 (hpai)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
+
+## 24-39 (h5n1)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
+
 ## 24-39 (dengue)
+
+- [Dengue scare: Docs suggest keeping eye on kids’ hydration level](https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms) (The Times of India)
+
+- [Pharmacies see 25% rise inqueries for dengue drugs](https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms) (The Times of India)
+
+- [Manipur health minister seeks public participation to combat rising dengue cases](https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22) (Indiatodayne.in)
 
 - [Alarma por dengue: Tehuacán registra más de 400 casos; 99% de serotipo 3](https://www.milenio.com/estados/alarma-por-dengue-tehuacan-registra-mas-de-400-casos) (Milenio)
 
@@ -241,6 +261,8 @@ Source: [News API](https://newsapi.org/)
 - [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://abcnews.go.com/Technology/wireStory/gold-mining-town-congo-become-mpox-hot-spot-113831816) (ABC News)
 
 - [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://abcnews.go.com/International/wireStory/gold-mining-town-congo-become-mpox-hot-spot-113831812) (ABC News)
+
+- [Level 2 - Clade I Mpox in Central and Eastern Africa](https://wwwnc.cdc.gov/travel/notices/level2/clade-1-mpox-central-eastern-africa) (Cdc.gov)
 
 - [Gavi plans 500,000 Mpox vaccine doses for Africa](https://punchng.com/gavi-plans-500000-mpox-vaccine-doses-for-africa/) (The Punch)
 
@@ -4066,12 +4088,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO Schedules Emergency Meeting Over Mpox Outbreak](https://www.theepochtimes.com/health/who-schedules-emergency-meeting-over-mpox-outbreak-5703755) (Theepochtimes.com)
 
-- [Sorge wegen Ausbreitung des Mpox-Virus in Afrika](https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html) (Faz.net)
-
-- [Epidemia de „variola maimuței” se răspândește în mai multe țări africane. OMS convoacă un comitet de urgență](https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979) (Digi24.ro)
-
-- [Nouvelle épidémie de Mpox : "On sait ce qu’est une pandémie, et on n’en veut pas"](https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/) (L'Express)
-
 ## 24-33 (meningitis)
 
 - [Local pharmacist blamed for deaths in U.S. meningitis outbreak will plead no contest in Michigan case](https://www.boston.com/news/local-news/2024/08/17/pharmacist-blamed-for-deaths-in-u-s-meningitis-outbreak-will-plead-no-contest-in-michigan-case/) (Boston.com)
@@ -4259,10 +4275,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue confirmed in 1,369 people in Gandaki](https://english.khabarhub.com/2024/12/376904/) (Khabarhub.com)
 
 - [Eco-friendly mosquito killer to help control dengue spread in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/eco-friendly-mosquito-killer-to-help-control-dengue-spread-in-bengaluru/articleshow/112449641.cms) (The Times of India)
-
-- [One dies of dengue; 202 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511) (Tbsnews.net)
-
-- [Oropouche-Ausbruch weitet sich aus](https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html) (DIE WELT)
 
 ## 24-33 (chikungunya)
 
