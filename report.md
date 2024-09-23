@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-09-22 19:05
-- **Most recent article:** 2024-09-21 18:34:54
+- **New articles in last harvest:** 11
+- **Last harvest:** 2024-09-23 07:06
+- **Most recent article:** 2024-09-22 06:13:57
 
 ---
 
@@ -10,27 +10,43 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | Total |
-|--|-|-|-|-|-|-|-|
-| mpox | 285 | 208 | 207 | 184 | 192 | 128 | 1204 |
-| dengue | 48 | 64 | 45 | 49 | 76 | 72 | 354 |
-| malaria | 18 | 27 | 28 | 14 | 12 | 15 | 114 |
-| h5n1 | 8 | 5 | 10 | 31 | 10 | 16 | 80 |
-| zika | 10 | 21 | 2 | 6 | 10 | 8 | 57 |
-| rabies | 12 | 6 | 3 | 7 | 5 | 13 | 46 |
-| chikungunya | 8 | 10 | 1 | 5 | 13 | 9 | 46 |
-| meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 43 |
-| measles | 3 | 7 | 11 | 9 | 5 | 8 | 43 |
-| pertussis | 3 | 5 | 2 | 1 | 5 | 3 | 19 |
-| leptospirosis | 1 | 4 | 0 | 1 | 0 | 1 | 7 |
-| yersinia | 0 | 1 | 1 | 2 | 0 | 2 | 6 |
-| hpai | 1 | 1 | 0 | 3 | 1 | 0 | 6 |
-| typhoid | 1 | 2 | 1 | 1 | 0 | 0 | 5 |
+| Disease | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | Total |
+|--|-|-|-|-|-|-|-|-|
+| mpox | 288 | 208 | 207 | 184 | 192 | 132 | 2 | 1213 |
+| dengue | 50 | 64 | 45 | 49 | 76 | 73 | 2 | 359 |
+| malaria | 18 | 27 | 28 | 14 | 12 | 15 | 0 | 114 |
+| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 0 | 81 |
+| zika | 10 | 21 | 2 | 6 | 10 | 8 | 0 | 57 |
+| rabies | 12 | 6 | 3 | 7 | 5 | 13 | 0 | 46 |
+| chikungunya | 8 | 10 | 1 | 5 | 13 | 9 | 0 | 46 |
+| meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 0 | 43 |
+| measles | 3 | 7 | 11 | 9 | 5 | 8 | 0 | 43 |
+| pertussis | 3 | 5 | 2 | 1 | 5 | 3 | 1 | 20 |
+| leptospirosis | 1 | 4 | 0 | 1 | 0 | 1 | 0 | 7 |
+| yersinia | 0 | 1 | 1 | 2 | 0 | 2 | 0 | 6 |
+| hpai | 1 | 1 | 0 | 3 | 1 | 0 | 0 | 6 |
+| typhoid | 1 | 2 | 1 | 1 | 0 | 0 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-39 (pertussis)
+
+- [Whooping cough cases are soaring. Can infecting people help test a better vaccine?](https://www.wxii12.com/article/whooping-cough-cases-soaring-vaccine/62305261) (WXII12 Winston-Salem)
+
+## 24-39 (mpox)
+
+- [รู้ทัน โรคฝีดาษลิง โรคระบาดที่ป้องกันได้ อย่างไม่ตระหนก](https://www.thairath.co.th/lifestyle/health-and-beauty/2815797) (Thairath.co.th)
+
+- [Efforts to tackle mpox intensify over vaccine hesitancy](https://punchng.com/efforts-to-tackle-mpox-intensify-over-vaccine-hesitancy/) (The Punch)
+
+## 24-39 (dengue)
+
+- [Alarma por dengue: Tehuacán registra más de 400 casos; 99% de serotipo 3](https://www.milenio.com/estados/alarma-por-dengue-tehuacan-registra-mas-de-400-casos) (Milenio)
+
+- [Dengue: o que está sendo feito para aumentar a oferta de imunizantes?](https://www.metropoles.com/saude/aumentar-oferta-vacinas-contra-dengue) (Metropoles.com)
 
 ## 24-38 (zika)
 
@@ -100,7 +116,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Ο Ευρωπαϊκός Οργανισμός Φαρμάκων συνιστά το εμβόλιο για την ευλογιά των πιθήκων σε εφήβους από 12 έως 17 ετών](https://www.newsit.gr/ellada/eylogia-ton-pithikon-o-eyropaikos-organismos-farmakon-synista-to-emvolio-se-efivous-apo-12-eos-17-eton/4185817/) (Newsit.gr)
 
+- [Congo struggles to contain mpox; here’s why](https://www.voanews.com/a/congo-struggles-to-contain-mpox-here-s-why-/7792992.html) (VOA News)
+
 - [Mpox: la situation épidémique au Burundi "particulièrement inquiétante" parmi les enfants](https://fr.sputniknews.africa/20240921/mpox-la-situation-epidemique-au-burundi-particulierement-inquietante-parmi-les-enfants--1068362665.html) (Sputniknews.africa)
+
+- [Mpox: How Africa's scientists are protecting the world from contagion](https://www.business-standard.com/world-news/mpox-how-africa-s-scientists-are-protecting-the-world-from-contagion-124092100129_1.html) (Business Standard)
 
 - [Burundi mpox outbreak could be stopped 'within a very few weeks', UNICEF says](https://www.abc.net.au/news/2024-09-21/burundi-mpox-outbreak-could-be-stopped-within-weeks-unicef-says/104379164) (ABC News (AU))
 
@@ -114,6 +134,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox vaccine for adolescents and eight new medicines receive EMA approval](https://www.euractiv.com/section/health-consumers/news/mpox-vaccine-for-adolescents-and-eight-new-medicines-receive-ema-approval/) (EURACTIV)
 
+- [OMS a aprobat un vaccin pentru combaterea mpox. Comisia Europeană dă undă verde pentru vaccinarea adolescenților de 12 ani](https://www.digi24.ro/stiri/externe/oms-a-aprobat-un-vaccin-pentru-combaterea-mpox-deschizandu-se-calea-catre-folosirea-sa-la-scara-larga-in-africa-2936801) (Digi24.ro)
+
 - [UNICEF Puts Children Front And Center In Mpox Response](https://www.forbes.com/sites/unicefusa/2024/09/20/unicef-puts-children-front-and-center-in-mpox-response/) (Forbes)
 
 - [Mpox : au Burundi, un tiers des malades de la variole du singe a moins de 5 ans](https://www.lalibre.be/international/afrique/2024/09/20/mpox-au-burundi-un-tiers-des-malades-de-la-variole-du-singe-a-moins-de-5-ans-XQTHIQWU2RE7FC2JFPYI4UZES4/) (Lalibre.be)
@@ -125,6 +147,8 @@ Source: [News API](https://newsapi.org/)
 - [UNICEF: Burundi'deki M çiçeği vakalarının yüzde 30'u 5 yaş altı çocuklardan oluşuyor](https://www.aa.com.tr/tr/saglik/unicef-burundideki-m-cicegi-vakalarinin-yuzde-30u-5-yas-alti-cocuklardan-olusuyor/3335866) (Anadolu Agency)
 
 - [Kinder besonders gefährdet - Affenpocken breiten sich in Afrika rapide aus](https://www.bild.de/leben-wissen/medizin/affenpocken-kleine-kinder-in-afrika-besonders-gefaehrdet-66ed5bec5836f81a5ab7304e) (Bild)
+
+- [Mpox alert: UNICEF issues $58.8 million appeal to halt outbreak in Africa](https://news.un.org/en/story/2024/09/1154571) (UN News)
 
 - [Fighting mpox stigma key to ending Burundi outbreak quickly, UNICEF says](https://www.investing.com/news/world-news/fighting-mpox-stigma-key-to-ending-burundi-outbreak-quickly-unicef-says-3625421) (Investing.com)
 
@@ -428,6 +452,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-38 (h5n1)
 
+- [Health care worker is third person to become ill after contact with Missouri patient who had bird flu](https://www.kq2.com/news/health-care-worker-is-third-person-to-become-ill-after-contact-with-missouri-patient-who/article_f5cb4ad8-7857-11ef-882b-0f051fc766b5.html) (Kq2.com)
+
 - [Health care worker is third person to become ill after contact with Missouri patient who had bird flu](https://www.cnn.com/2024/09/20/health/missouri-bird-flu-contacts/index.html) (CNN)
 
 - [CDC says a second health care worker tied to Missouri bird flu case had symptoms](https://www.nbcnews.com/health/health-news/cdc-says-second-health-care-worker-tied-missouri-bird-flu-case-symptom-rcna171262) (NBC News)
@@ -461,6 +487,8 @@ Source: [News API](https://newsapi.org/)
 - [On H5N1 bird flu, the U.S. can and should do more, a top WHO official says](https://www.statnews.com/2024/09/16/h5n1-spread-cow-herds-us-response-who-pandemic-preparedness/) (STAT)
 
 ## 24-38 (dengue)
+
+- [LA County Reports ‘Unprecedented Cluster’ of Locally Acquired Dengue Fever](https://legalinsurrection.com/2024/09/la-county-reports-unprecedented-cluster-of-locally-acquired-dengue-fever/) (Legalinsurrection.com)
 
 - [Suman cinco muertos por dengue en Colima](https://www.milenio.com/estados/casos-de-dengue-van-en-aumento-colima) (Milenio)
 
@@ -4038,6 +4066,12 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO Schedules Emergency Meeting Over Mpox Outbreak](https://www.theepochtimes.com/health/who-schedules-emergency-meeting-over-mpox-outbreak-5703755) (Theepochtimes.com)
 
+- [Sorge wegen Ausbreitung des Mpox-Virus in Afrika](https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html) (Faz.net)
+
+- [Epidemia de „variola maimuței” se răspândește în mai multe țări africane. OMS convoacă un comitet de urgență](https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979) (Digi24.ro)
+
+- [Nouvelle épidémie de Mpox : "On sait ce qu’est une pandémie, et on n’en veut pas"](https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/) (L'Express)
+
 ## 24-33 (meningitis)
 
 - [Local pharmacist blamed for deaths in U.S. meningitis outbreak will plead no contest in Michigan case](https://www.boston.com/news/local-news/2024/08/17/pharmacist-blamed-for-deaths-in-u-s-meningitis-outbreak-will-plead-no-contest-in-michigan-case/) (Boston.com)
@@ -4225,6 +4259,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue confirmed in 1,369 people in Gandaki](https://english.khabarhub.com/2024/12/376904/) (Khabarhub.com)
 
 - [Eco-friendly mosquito killer to help control dengue spread in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/eco-friendly-mosquito-killer-to-help-control-dengue-spread-in-bengaluru/articleshow/112449641.cms) (The Times of India)
+
+- [One dies of dengue; 202 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511) (Tbsnews.net)
+
+- [Oropouche-Ausbruch weitet sich aus](https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html) (DIE WELT)
 
 ## 24-33 (chikungunya)
 
