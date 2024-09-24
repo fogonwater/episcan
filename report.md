@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-09-24 07:06
-- **Most recent article:** 2024-09-23 07:00:02
+- **New articles in last harvest:** 46
+- **Last harvest:** 2024-09-24 19:05
+- **Most recent article:** 2024-09-23 18:43:38
 
 ---
 
@@ -12,25 +12,39 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 288 | 208 | 207 | 184 | 192 | 140 | 5 | 1224 |
-| dengue | 50 | 64 | 45 | 49 | 76 | 73 | 9 | 366 |
-| malaria | 18 | 27 | 28 | 14 | 12 | 15 | 0 | 114 |
-| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 2 | 83 |
+| mpox | 285 | 208 | 207 | 184 | 192 | 140 | 30 | 1246 |
+| dengue | 48 | 64 | 45 | 49 | 76 | 73 | 13 | 368 |
+| malaria | 18 | 27 | 28 | 14 | 12 | 15 | 8 | 122 |
+| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 5 | 86 |
 | zika | 10 | 21 | 2 | 6 | 10 | 8 | 0 | 57 |
-| rabies | 12 | 6 | 3 | 7 | 5 | 13 | 0 | 46 |
+| rabies | 12 | 6 | 3 | 7 | 5 | 13 | 3 | 49 |
 | chikungunya | 8 | 10 | 1 | 5 | 13 | 9 | 0 | 46 |
 | meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 0 | 43 |
 | measles | 3 | 7 | 11 | 9 | 5 | 8 | 0 | 43 |
 | pertussis | 3 | 5 | 2 | 1 | 5 | 3 | 2 | 21 |
+| leptospirosis | 1 | 4 | 0 | 1 | 0 | 1 | 1 | 8 |
 | hpai | 1 | 1 | 0 | 3 | 1 | 0 | 2 | 8 |
-| leptospirosis | 1 | 4 | 0 | 1 | 0 | 1 | 0 | 7 |
+| typhoid | 1 | 2 | 1 | 1 | 0 | 0 | 2 | 7 |
 | yersinia | 0 | 1 | 1 | 2 | 0 | 2 | 0 | 6 |
-| typhoid | 1 | 2 | 1 | 1 | 0 | 0 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-39 (typhoid)
+
+- [India faces growing threat as key antibiotics lose effectiveness, says ICMR](https://www.business-standard.com/health/india-faces-growing-threat-as-key-antibiotics-lose-effectiveness-says-icmr-124092300738_1.html) (Business Standard)
+
+- [Antibiotics becoming ineffective against diseases like typhoid, pneumonia, and urinary infections: ICMR rings alarm](https://economictimes.indiatimes.com/news/india/antibiotics-becoming-ineffective-against-diseases-like-typhoid-pneumonia-and-urinary-infections-icmr-rings-alarm/articleshow/113599189.cms) (The Times of India)
+
+## 24-39 (rabies)
+
+- [Canadian Animal Health Institute 2024 World Rabies Day Webinar: Event to feature leading experts on cross-border changes to pet travel, wildlife monitoring, and One Health strategies for rabies surveillance and control](https://financialpost.com/globe-newswire/canadian-animal-health-institute-2024-world-rabies-day-webinar-event-to-feature-leading-experts-on-cross-border-changes-to-pet-travel-wildlife-monitoring-and-one-health-strategies-for-rabies-survei) (Financial Post)
+
+- [Yn pynlong ka MVSA-JHDU ia ka jingai dawai wieh bad anti-rabies ha rilum Jaintia](https://www.syllad.com/yn-pynlong-ka-mvsa-jhdu-ia-ka-jingai-dawai-wieh-bad-anti-rabies-ha-rilum-jaintia/) (Syllad.com)
+
+- [MVSA-JHDU to conduct deworming and anti-rabies vaccination drive in Jaintia Hills region](https://www.syllad.com/mvsa-jhdu-to-conduct-deworming-and-anti-rabies-vaccination-drive-in-jaintia-hills-region/) (Syllad.com)
 
 ## 24-39 (pertussis)
 
@@ -39,6 +53,56 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough cases are soaring. Can infecting people help test a better vaccine?](https://www.wxii12.com/article/whooping-cough-cases-soaring-vaccine/62305261) (WXII12 Winston-Salem)
 
 ## 24-39 (mpox)
+
+- [Fact Check. Mpox é uma “doença nova” e vacina foi criada agora?](https://observador.pt/factchecks/fact-check-mpox-e-uma-doenca-nova-e-vacina-foi-criada-agora/) (Observador.pt)
+
+- [Kerala to revise Mpox rules after reporting India's first new strain case](https://www.business-standard.com/india-news/kerala-to-revise-mpox-rules-after-reporting-india-s-first-new-strain-case-124092301229_1.html) (Business Standard)
+
+- [Kerala to issue revised Mpox guidelines after reporting India's first case of new strain](https://economictimes.indiatimes.com/news/india/kerala-to-issue-revised-mpox-guidelines-after-reporting-indias-first-case-of-new-strain/articleshow/113607585.cms) (The Times of India)
+
+- [India informa su primer caso de mpox; autoridades monitorean a contactos cercanos con el paciente](https://www.forbes.com.mx/india-informa-su-primer-caso-de-mpox-autoridades-monitorean-a-contactos-cercanos-con-el-paciente/) (Forbes.com.mx)
+
+- [La India reporta el primer caso de la variante clade 1 de viruela del mono](https://noticiaslatam.lat/20240923/la-india-reporta-el-primer-caso-de-la-variante-clade-1-de-viruela-del-mono-1157705098.html) (Noticiaslatam.lat)
+
+- [Fact Check. Vídeo mostra funeral de dezenas de vítimas de Mpox em África?](https://observador.pt/factchecks/fact-check-video-mostra-funeral-de-dezenas-de-vitimas-de-mpox-em-africa/) (Observador.pt)
+
+- [ВОЗ сообщила о пике заболеваемости оспой обезьян в августе с ноября 2022 года](https://tass.ru/obschestvo/21935979) (Tass.ru)
+
+- [Fact Check. Diretor da OMS faz “marcha atrás” e retira declaração de emergência sanitária global da Mpox?](https://observador.pt/factchecks/fact-check-diretor-da-oms-faz-marcha-atras-e-retira-declaracao-de-emergencia-sanitaria-global-da-mpox/) (Observador.pt)
+
+- [Индиец привёз из ОАЭ на родину новый штамм оспы обезьян](https://life.ru/p/1689737) (Life.ru)
+
+- [Primul caz de mpox din Asia de Sud a fost înregistrat în India](https://www.mediafax.ro/social/primul-caz-de-mpox-din-asia-de-sud-a-fost-inregistrat-in-india-22493853) (Mediafax.ro)
+
+- [भारत Mpox के घातक वैरिएंट Clade 1b का पहला केस, WHO बता चुका है खतरनाक](https://www.aajtak.in/india/news/story/mpox-clade-1b-case-in-india-kerala-malappuram-who-emergency-ntc-dskc-2051141-2024-09-23) (Aajtak.in)
+
+- [СМИ: в Индии выявили первый случай заражения оспой обезьян из Африки](https://tass.ru/obschestvo/21934693) (Tass.ru)
+
+- [India reports first case of Mpox Clade 1b strain in Kerala's Malappuram](https://www.business-standard.com/india-news/india-reports-first-case-of-mpox-clade-1b-strain-in-kerala-s-malappuram-124092300960_1.html) (Business Standard)
+
+- [Ani: В Индии зафиксирован первый случай заражения новым штаммом оспы обезьян](https://rg.ru/2024/09/23/ani-v-indii-zafiksirovan-pervyj-sluchaj-zarazheniia-novym-shtammom-ospy-obezian.html) (Rg.ru)
+
+- [India reports first case of mpox from new, fast-spreading clade 1b variety](https://www.jpost.com/breaking-news/article-821356) (The Jerusalem Post)
+
+- [África soma quase 30.000 casos suspeitos de mpox este ano, diz OMS](https://www.terra.com.br/noticias/mundo/africa-soma-quase-30000-casos-suspeitos-de-mpox-este-ano-diz-oms,1368221b0ae781925727df19d4541b8d38hynhql.html) (Terra.com.br)
+
+- [India reports first MPOX Clade 1 case in Kerala](https://economictimes.indiatimes.com/news/india/india-reports-first-mpox-clade-1-case-in-kerala/articleshow/113601549.cms) (The Times of India)
+
+- [Ευλογιά των πιθήκων (Mpox): Τελείωσαν τα τεστ στο Κονγκό, 30.000 κρούσματα στην Αφρική από την αρχή του έτους](https://www.naftemporiki.gr/health/1773862/eylogia-ton-pithikon-mpox-teleiosan-ta-test-sto-kongko-30-000-kroysmata-stin-afriki-apo-tin-archi-toy-etoys/) (Naftemporiki.gr)
+
+- [Σχεδόν 30.000 ύποπτα κρούσματα mpox καταγράφηκαν φέτος στην Αφρική, σύμφωνα με τον ΠΟΥ](https://www.skai.gr/news/health/pou-sxedon-30000-ypopta-krousmata-mpox-fetos-stin-afriki) (Skai.gr)
+
+- [WHO: Næsten 30.000 mpox-tilfælde i Afrika i år](https://www.dr.dk/nyheder/seneste/who-naesten-30000-mpox-tilfaelde-i-afrika-i-aar) (Www.dr.dk)
+
+- [Almost 30,000 suspected mpox cases in Africa this year, WHO says](https://www.investing.com/news/world-news/almost-30000-suspected-mpox-cases-in-africa-this-year-who-says-3627268) (Investing.com)
+
+- [LNJP अस्पताल में भर्ती Mpox के मरीज को किया गया डिस्चार्ज, 8 सितंबर से था भर्ती](https://www.aajtak.in/india/delhi/story/mpox-patient-discharged-from-delhi-lnjp-hospital-say-officials-ntc-dskc-2050771-2024-09-23) (Aajtak.in)
+
+- [Mpox patient discharged from Delhi's LNJP Hospital after 12 days: Report](https://www.business-standard.com/india-news/mpox-patient-discharged-from-delhi-s-lnjp-hospital-after-12-days-report-124092300604_1.html) (Business Standard)
+
+- [Vaccination to prevent mpox](https://www.bmj.com/content/386/bmj.q2057) (The BMJ)
+
+- [Mpox : les conseils pour se protéger de la variole du singe à l’étranger](https://www.courrierinternational.com/article/sante-mpox-les-conseils-pour-se-proteger-de-la-variole-du-singe-a-l-etranger_222371) (Courrier International)
 
 - [UNICEF'ten M çiçeği açıklaması: Vakaların yüzde 30'u 5 yaş altı çocuk](https://www.haberturk.com/unicef-ten-m-cicegi-aciklamasi-vakalarin-yuzde-30-u-5-yas-alti-cocuk-3722162) (Haberturk.com)
 
@@ -50,6 +114,28 @@ Source: [News API](https://newsapi.org/)
 
 - [Efforts to tackle mpox intensify over vaccine hesitancy](https://punchng.com/efforts-to-tackle-mpox-intensify-over-vaccine-hesitancy/) (The Punch)
 
+## 24-39 (malaria)
+
+- [Kebbi begins statewide fumigation to combat malaria](https://punchng.com/kebbi-begins-statewide-fumigation-to-combat-malaria/) (The Punch)
+
+- [Bill Gates-funded company did not cause malaria ‘outbreak’ in the US](https://fullfact.org/health/bill-gates-malaria-mosquitoes-florida/) (Full Fact)
+
+- [NGO warnt vor Cholera-Ausbruch nach Fluten in Nigeria](https://www.diepresse.com/18893951/ngo-warnt-vor-cholera-ausbruch-nach-fluten-in-nigeria) (Diepresse.com)
+
+- [Genomic epidemiology demonstrates spatially clustered, local transmission of Plasmodium falciparum in forest-going populations in southern Lao PDR](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012194) (Plos.org)
+
+- [Application of optical tweezer technology reveals that PfEBA and PfRH ligands, not PfMSP1, play a central role in Plasmodium falciparum merozoite-erythrocyte attachment](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012041) (Plos.org)
+
+- [Überschwemmungen in Westafrika: Ärzte ohne Grenzen warnen vor Cholera nach Fluten in Nigeria](https://www.tagesspiegel.de/gesellschaft/panorama/uberschwemmungen-in-westafrika-arzte-ohne-grenzen-warnen-vor-cholera-nach-fluten-in-nigeria-12422372.html) (Der Tagesspiegel)
+
+- [Überschwemmungen in Westafrika: Ärzte ohne Grenzen warnen vor Cholera nach Fluten in Nigeria](https://www.zeit.de/news/2024-09/23/aerzte-ohne-grenzen-warnen-vor-cholera-nach-fluten-in-nigeria) (Die Zeit)
+
+- [Tempo Kas Tuntas, Upaya Inovasi Indonesia Eliminasi Malaria di Tanah Papua dan Nasional](https://www.liputan6.com/health/read/5708980/tempo-kas-tuntas-upaya-inovasi-indonesia-eliminasi-malaria-di-tanah-papua-dan-nasional) (Liputan6.com)
+
+## 24-39 (leptospirosis)
+
+- [Enhancement of clinical signs in C3H/HeJ mice vaccinated with a highly immunogenic Leptospira methyl-accepting chemotaxis protein following challenge](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012155) (Plos.org)
+
 ## 24-39 (hpai)
 
 - [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
@@ -58,11 +144,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (h5n1)
 
+- [Source of person's recent bird flu case remains a mystery — and experts say that's concerning](https://www.livescience.com/health/flu/source-of-person-s-recent-bird-flu-case-remains-a-mystery-and-experts-say-that-s-concerning) (Live Science)
+
+- [Can our stockpiles of Tamiflu protect against a bird flu pandemic?](https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/) (Undark Magazine)
+
+- [Otro contacto del paciente de Missouri con síntomas de gripe aviar hace temer el contagio entre humanos](https://www.elespanol.com/ciencia/salud/20240923/contacto-paciente-missouri-sintomas-gripe-aviar-hace-temer-contagio-humanos/888161276_0.html) (Elespanol.com)
+
 - [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
 
 - ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
+
+- [Vacina da dengue: menos da metade das doses distribuídas em 7 meses foi aplicada](https://www.terra.com.br/vida-e-estilo/saude/vacina-da-dengue-menos-da-metade-das-doses-distribuidas-em-7-meses-foi-aplicada,47f8478be6a0cff6094a3f63ac3a5f52d8m9oae2.html) (Terra.com.br)
+
+- [Dengue in provincia di Brescia: confermati altri cinque casi autoctoni](https://www.ilfattoquotidiano.it/2024/09/23/dengue-in-provincia-di-brescia-confermati-altri-cinque-casi-autoctoni/7704681/) (Ilfattoquotidiano.it)
+
+- [Nicolás Kreplak: “Podríamos tener los cuatro serotipos de dengue circulando, lo que generaría un mayor riesgo de complicaciones”](https://www.lanacion.com.ar/sociedad/nicolas-kreplak-podriamos-tener-los-cuatro-serotipos-de-dengue-circulando-lo-que-generaria-un-mayor-nid23092024/) (La Nacion)
+
+- [Dengue cases surge by 45.6% in Johor during ME38 compared to same period last year](https://www.thestar.com.my/news/nation/2024/09/23/dengue-cases-surge-by-456-in-johor-during-me38-compared-to-same-period-last-year) (The Star Online)
 
 - [Dengue stings 21 in Lucknow within past 24 hours, doctors advise caution](https://timesofindia.indiatimes.com/city/lucknow/dengue-stings-21-in-lucknow-within-past-24-hours-doctors-advise-caution/articleshow/113584697.cms) (The Times of India)
 
@@ -4116,12 +4216,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO Schedules Emergency Meeting Over Mpox Outbreak](https://www.theepochtimes.com/health/who-schedules-emergency-meeting-over-mpox-outbreak-5703755) (Theepochtimes.com)
 
-- [Sorge wegen Ausbreitung des Mpox-Virus in Afrika](https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html) (Faz.net)
-
-- [Epidemia de „variola maimuței” se răspândește în mai multe țări africane. OMS convoacă un comitet de urgență](https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979) (Digi24.ro)
-
-- [Nouvelle épidémie de Mpox : "On sait ce qu’est une pandémie, et on n’en veut pas"](https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/) (L'Express)
-
 ## 24-33 (meningitis)
 
 - [Local pharmacist blamed for deaths in U.S. meningitis outbreak will plead no contest in Michigan case](https://www.boston.com/news/local-news/2024/08/17/pharmacist-blamed-for-deaths-in-u-s-meningitis-outbreak-will-plead-no-contest-in-michigan-case/) (Boston.com)
@@ -4309,10 +4403,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue confirmed in 1,369 people in Gandaki](https://english.khabarhub.com/2024/12/376904/) (Khabarhub.com)
 
 - [Eco-friendly mosquito killer to help control dengue spread in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/eco-friendly-mosquito-killer-to-help-control-dengue-spread-in-bengaluru/articleshow/112449641.cms) (The Times of India)
-
-- [One dies of dengue; 202 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511) (Tbsnews.net)
-
-- [Oropouche-Ausbruch weitet sich aus](https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html) (DIE WELT)
 
 ## 24-33 (chikungunya)
 
